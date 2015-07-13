@@ -2,12 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                  "Priwatny modus">
+<!ENTITY privatebrowsingpage.title "Priwatny modus">
+<!ENTITY privatebrowsingpage.title.normal "Njejsćo w priwatnem modusu">
 
-<!ENTITY privatebrowsingpage.issueDesc.private      "Sćo nowy priwatny rejtark wócynił.">
-<!ENTITY privatebrowsingpage.issueDesc.normal       "Njejsćo w priwatnem rejtarku.">
+<!ENTITY privatebrowsingpage.issueDesc.normal2 "W priwatnem modusu pśeglědowańska historija abo cookieje se njeskładuju.">
+<!ENTITY privatebrowsingpage.issueDesc.private2 "Pśeglědowańska historija abo cookieje se njeskładuju.">
 
-<!ENTITY privatebrowsingpage.description            "&brandShortName; njebuźo pśeglědowańsku historiju, pytańsku historiju, ześěgnjeńsku historiju, historiju webformularow, cookiejei abo nachylne internetne dataje wobchowowaś. Ale dataje, kótarež ześěgujośo, a cytańske znamjenja, kótarež składujośo, se wobchowaju.">
-<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+<!ENTITY privatebrowsingpage.description2 "Cytańske znamjenja, kótarež pśidajośo, a dataje, kótarež ześěgnijośo, budu se hyšći na wašom rěźe składowaś.">
+<!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
+<!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
 
-<!ENTITY privatebrowsingpage.moreInfo               "Lěcrownož toś ten rěd njama zapis wašeje pśeglědowańskeje historije, móžo waš internetny póbitowaŕ hyšći boki slědowaś, kótarež se woglědujośo.">
+<!ENTITY privatebrowsingpage.link.private "Cośo wěcej zgóniś?">
+<!ENTITY privatebrowsingpage.link.normal "W nowem priwatnem rejtarku wócyniś">

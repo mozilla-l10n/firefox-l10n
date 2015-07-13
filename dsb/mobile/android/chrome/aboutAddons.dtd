@@ -10,3 +10,6 @@
 <!ENTITY addonAction.disable                    "Znjemóžniś">
 <!ENTITY addonAction.uninstall                  "Wótinstalěrowaś">
 <!ENTITY addonAction.undo                       "Anulěrowaś">
+
+<!ENTITY addonUnsigned.message                  "Toś ten dodank njedajo se pśez &brandShortName; pśeglědowaś.">
+<!ENTITY addonUnsigned.learnMore                "Dalšne informacije">

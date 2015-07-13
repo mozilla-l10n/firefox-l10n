@@ -44,6 +44,10 @@
 <!ENTITY bookmark "Cytańske znamje">
 <!ENTITY bookmark_remove "Cytańske znamje wótpóraś">
 <!ENTITY bookmark_added "Cytańske znamje pśidane">
+<!-- Localization note (bookmark_already_added) : This string is
+     used as a label in a toast. It is the verb "to bookmark", not
+     the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "Južo ako cytańske znamje skłaźony">
 <!ENTITY bookmark_removed "Cytańske znamje wótporane">
 <!ENTITY bookmark_updated "Cytańske znamje zaktualizěrowane">
 <!ENTITY bookmark_options "Nastajenja">
@@ -77,6 +81,7 @@
 
 <!ENTITY settings "Nastajenja">
 <!ENTITY settings_title "Nastajenja">
+<!ENTITY pref_category_input_options "Zapódawańske nastajenja">
 <!ENTITY pref_category_advanced "Rozšyrjone">
 <!ENTITY pref_category_customize "Pśiměriś">
 <!ENTITY pref_category_customize_summary "Startowy bok, pytanje, rejtarki, import">
@@ -132,7 +137,7 @@
 <!ENTITY pref_category_display "Zwobrazniś">
 <!ENTITY pref_category_display_summary "Tekst, titelowa rědka, pśeglědowanje w połnej wobrazowce">
 <!ENTITY pref_category_privacy_short "Priwatnosć">
-<!ENTITY pref_category_privacy_summary "Kontrola gronidłow, cookieje, slědowanje, daty">
+<!ENTITY pref_category_privacy_summary2 "Pśizjawjenja, cookieje, slědowanje, daty kontrolěrowaś">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "Wó &brandShortName;, ceste pšašanja, wuběrk datow">
 <!ENTITY pref_category_datareporting "Datowy wuběrki">
@@ -151,7 +156,9 @@
 <!ENTITY pref_category_devtools "Wuwijarske rědy">
 <!ENTITY pref_developer_remotedebugging "Daloke pytanje za zmólkami">
 <!ENTITY pref_category_logins "Pśizjawjenja">
-<!ENTITY pref_remember_signons "Gronidła se spomnjeś">
+<!ENTITY pref_remember_signons2 "Pśizjawjenja se spomnjeś">
+<!ENTITY pref_open_external_urls_privately_title "Wótkaze w priwatnem modusu wócyniś">
+<!ENTITY pref_open_external_urls_privately_summary "Za wšykne eksterne wótkaze, kótarež se w &brandShortName; wócynjaju">
 <!ENTITY pref_manage_logins "Pśizjawjenja zastojaś">
 
 <!ENTITY pref_category_home "Startowy bok">
@@ -168,7 +175,7 @@
 <!ENTITY pref_home_updates_enabled "Zmóžnjony">
 <!ENTITY pref_home_updates_wifi "Jano pśez Wi-Fi">
 <!ENTITY pref_home_suggested_sites "Sedłowe naraźenja pokazaś">
-<!ENTITY pref_home_suggested_sites_summary "Tastowe skrotconki za sedła na wašom startowem boku zwobrazniś, wó kótarychž myslimy, až wy maśo je za zajmne.">
+<!ENTITY pref_home_suggested_sites_summary "Tastowe skrotconki za sedła na wašom startowem boku zwobrazniś, wó kótarychž myslimy, až wy maśo je za zajmne">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Pśiměriś">
@@ -181,18 +188,18 @@
 
 <!ENTITY pref_cookies_menu "Cookieje">
 <!ENTITY pref_cookies_accept_all "Zmóžnjony">
-<!ENTITY pref_cookies_not_accept_foreign "Zmóžnjony, z wuwześim tśeśich">
+<!ENTITY pref_cookies_not_accept_foreign "Zmóžnjony, z wuwześim tśeśich póbitowarjow">
 <!ENTITY pref_cookies_disabled "Znjemóžnjony">
 
 <!ENTITY pref_tracking_protection_title "Slědowański šćit">
 <!ENTITY pref_tracking_protection_summary "&brandShortName; buźo slědowanjeju pśez sedła zajźowaś">
 <!ENTITY pref_donottrack_title "Njeslědowaś">
-<!ENTITY pref_donottrack_summary "&brandShortName; dajo sydłam k wěsći, až njocośo, až wam slěduju.">
+<!ENTITY pref_donottrack_summary "&brandShortName; dajo sydłam k wěsći, až njocośo, až wam slěduju">
 
-<!ENTITY tab_queue_toast_message2 "Rejtark jo w &brandShortName; w cakańskem rěźe">
+<!ENTITY tab_queue_toast_message3 "Rejtark jo se w &brandShortName; składł">
 <!ENTITY tab_queue_toast_action "Něnto wócyniś">
 <!ENTITY tab_queue_prompt_title "Někotare wótkaze wócyniś?">
-<!ENTITY tab_queue_prompt_text2 "Wócyńśo je, mimo až pśešaltujośo k &brandShortName; kuždy raz.">
+<!ENTITY tab_queue_prompt_text3 "Je składowaś, až njewócynijośo pśiducy raz &brandShortName;">
 <!ENTITY tab_queue_prompt_tip_text "móžośo to pózdźej w nastajenjach změniś">
 <!ENTITY tab_queue_prompt_positive_action_button "Zmóžniś">
 <!ENTITY tab_queue_prompt_negative_action_button "Nic něnto">
@@ -212,7 +219,7 @@
 <!ENTITY pref_clear_private_data2 "Něnto lašowaś">
 <!ENTITY pref_clear_private_data_category "Priwatne daty wulašowaś">
 <!ENTITY pref_clear_on_exit_title2 "Pś kóńcenju lašowaś">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; wulašujo waše daty awtomatiski, gažkuli wuběraśo \u0022Skóńcyś\u0022 z głownego menija.">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; wulašujo waše daty awtomatiski, gažkuli wuběraśo \u0022Skóńcyś\u0022 z głownego menija">
 <!ENTITY pref_clear_on_exit_dialog_title "Wubjeŕśo, kótare daty maju se wulašowaś">
 <!ENTITY pref_plugins "Tykace">
 <!ENTITY pref_plugins_enabled "Zmóžnjony">
@@ -241,13 +248,17 @@ size. -->
 <!ENTITY pref_font_size_preview_text "Malsna oranžowa liška skoka nad waše wócakowanja z wětšeju malsnosću, wušeju fleksibelnosću a wušeju wěstotu. Ako za wše wužytna organizacija, móžomy k wašomu wužytkoju bźez śišća kompromisa nowoty zawjasć. To wóznamjenijo lěpše dožywjenje za was a swětlejšy pśichod za web.">
 
 <!ENTITY pref_media_autoplay_enabled "Awtomatiske wógraśe dowóliś">
-<!ENTITY pref_media_autoplay_enabled_summary "Kontrolěrowaś, lěc websedła mógu wideo a drugi medijowe wopśimjeśe automatiski wótgras.">
+<!ENTITY pref_media_autoplay_enabled_summary "Kontrolěrowaś, lěc websedła mógu wideo a drugi medijowe wopśimjeśe automatiski wótgras">
 <!ENTITY pref_zoom_force_enabled "Skalěrowanje pśecej zmóžniś">
 <!ENTITY pref_zoom_force_enabled_summary "Wunuźćo pśepisanje, aby mógał kuždy bok skalěrowaś">
+<!ENTITY pref_voice_input "Rěcne zapódaśe">
+<!ENTITY pref_voice_input_summary "Rěcne zapódawanje w titelowej rědce dowóliś">
+<!ENTITY pref_qrcode_enabled "Cytak QR-koda">
+<!ENTITY pref_qrcode_enabled_summary "QR-scanner w titelowej rědce dowóliś">
 
 <!ENTITY pref_use_master_password "Głowne gronidło wužywaś">
 <!ENTITY pref_sync "Snychronizěrowaś">
-<!ENTITY pref_sync_summary "Synchronizěrujśo swóje rejtarki, cytańske znamjenja, gronidła, historiju">
+<!ENTITY pref_sync_summary2 "Synchronizěrujśo swóje rejtarki, cytańske znamjenja, pśizjawjenja a historiju">
 <!ENTITY pref_search_suggestions "Pytańske naraźenja pokazaś">
 <!ENTITY pref_import_android "Z Androida importěrowaś">
 <!ENTITY pref_import_android_summary "Importěrujśo cytańske znamjenjai a historiju ze spócetnego wobglědowaka">
@@ -255,11 +266,12 @@ size. -->
 <!ENTITY pref_private_data_searchHistory "Pytańska historija">
 <!ENTITY pref_private_data_formdata2 "Formularna historija">
 <!ENTITY pref_private_data_cookies2 "Cookieje a aktiwne pśizjawjenja">
-<!ENTITY pref_private_data_passwords "Skłaźone gronidła">
+<!ENTITY pref_private_data_passwords2 "Skłaźone pśizjawjenja">
 <!ENTITY pref_private_data_cache "Pufrowak">
 <!ENTITY pref_private_data_offlineApps "Daty websedła offline">
 <!ENTITY pref_private_data_siteSettings2 "Sedłowe nastajenja">
 <!ENTITY pref_private_data_downloadFiles2 "Ześěgnjenja">
+<!ENTITY pref_private_data_syncedTabs "Synchronizěrowane rejtarki">
 
 
 <!ENTITY pref_about_firefox "Wó &brandShortName;">
@@ -379,6 +391,11 @@ size. -->
 <!ENTITY doorhanger_login_edit_password_hint "Gronidło">
 <!ENTITY doorhanger_login_edit_toggle "Gronidło pokazaś">
 <!ENTITY doorhanger_login_edit_toast_error "Pśizjawjenje njedajo so składowaś">
+<!ENTITY doorhanger_login_select_message "Gronidło z &formatS; kopěrowaś?">
+<!ENTITY doorhanger_login_select_toast_copy "Gronidło jo se do mjazywótkłada kopěrowało">
+<!ENTITY doorhanger_login_select_toast_copy_error "Gronidło njedajo se kopěrowaś">
+<!ENTITY doorhanger_login_select_action_text "Druge pśizjawjenje wubraś">
+<!ENTITY doorhanger_login_select_title "Gronidło kopěrowaś z">
 
 <!ENTITY pref_titlebar_mode "Titelowa rědka">
 <!ENTITY pref_titlebar_mode_title "Titel boka pokazaś">
@@ -390,7 +407,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "Titelowu rědku &brandShortName; schowaś, gaž bok kula se dołoj">
 
 <!ENTITY pref_tab_queue_title2 "Někotare wótkaze wócyniś">
-<!ENTITY pref_tab_queue_summary2 "Stajśo wótkaze za pózdźej do cakańskego rěda, město až kuždy raz k &brandShortName; pśešaltował">
+<!ENTITY pref_tab_queue_summary3 "Je składowaś, až njewócynijośo &brandShortName; pśiducy raz">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -408,8 +425,10 @@ size. -->
 <!ENTITY site_settings_cancel       "Pśetergnuś">
 <!ENTITY site_settings_clear        "Lašowaś">
 <!ENTITY site_settings_no_settings  "Njejsu žedne nastajenja za lašowanje.">
+<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+     as possible. -->
 
-<!ENTITY reading_list_added "Bok jo se wašej cytańskej lisćinje pśidał">
+<!ENTITY reading_list_added2 "Lisćinje pśidany">
 <!ENTITY reading_list_removed "Bok jo se z wašeje cytańskeje lisćiny wótpórał">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -438,7 +457,7 @@ size. -->
 <!ENTITY button_clear_data "Daty lašowaś">
 <!ENTITY button_set "Nastajiś">
 <!ENTITY button_clear "Lašowaś">
-<!ENTITY button_remember "Spomnjeś se">
+<!ENTITY button_copy "Kopěrowaś">
 
 <!ENTITY firstrun_panel_title_welcome "Witajśo">
 
@@ -502,10 +521,6 @@ size. -->
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Wubrane rědy pokazaś">
 
-<!ENTITY private_browsing_title "Priwatny modus">
-<!ENTITY private_tabs_panel_empty_desc "Waše priwatne rejtarki se how pokažu. Mjaztym až njewobchujomy pśeglědowańsku historiju abo cookije, budu se cytańske znamjenja a dataje, kótarež ześěgujośo, hyšći na wašom rěźe składowaś.">
-<!ENTITY private_tabs_panel_learn_more "Cośo wěcej zgóniś?">
-
 <!ENTITY remote_tabs_panel_moved_title "Źo su móje rejtarki?">
 <!ENTITY remote_tabs_panel_moved_desc "Smy waše rejtarki z drugich rědow do póla na wašom startowem boku pśesunuli, na kótarež maśo lažki pśistup, kuždy raz, gaž wócynjaśo nowy rejtark.">
 <!ENTITY remote_tabs_panel_moved_link "Dowjeź mě do mójogo nowego póla.">
@@ -533,6 +548,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by ", kótaryž wuźaržujo se wót">
 <!ENTITY identity_no_info "Toś to websedło njepódawa informacije wó identitach.">
 <!ENTITY identity_not_encrypted "Waš zwisk z toś tym websedłom njejo skoděrowany.">
+<!ENTITY identity_encrypted "Skoděrowany">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "Toś ten bok zwobraznja wopśimjeśe, kótarež njejo wěste.">
@@ -599,7 +615,7 @@ z Androida">
 <!ENTITY guest_session_dialog_continue "Dalej">
 <!ENTITY guest_session_dialog_cancel "Pśetergnuś">
 <!ENTITY new_guest_session_title "&brandShortName; buźo něnto znowego startowaś">
-<!ENTITY new_guest_session_text "Wósoba, kótaraž jo wužywa, njamóžo waše wósobinske pśeglědowańske daty (na pś. skłaźone gronidła, historija abo cytańske znamjenja) wiźeś.\n\nGaž waš gósć jo wótejšeł, wulašuju se jogo pśeglědowańske daty a wašo pósejźenje se wobnowja.">
+<!ENTITY new_guest_session_text2 "Wósoba, kótaraž jo wužywa, njamóžo waše wósobinske pśeglědowańske daty (na pś. skłaźone pśizjawjenja, historija abo cytańske znamjenja) wiźeś.\n\nGaž waš gósć jo wótejšeł, wulašuju se jogo pśeglědowańske daty a wašo pósejźenje se wótnowja.">
 <!ENTITY guest_browsing_notification_title "Góstne pśeglědowanje jo zmóžnjone">
 <!ENTITY guest_browsing_notification_text "Pótusniśo, aby skóńcył">
 
@@ -648,3 +664,5 @@ z Androida">
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
 
 <!ENTITY find_matchcase "Aa">
+
+<!ENTITY intent_uri_cannot_open "Wótkaz njedajo se wócyniś">

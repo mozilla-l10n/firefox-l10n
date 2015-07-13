@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label "Což ma se synchronizěrowaś">
 <!ENTITY sync.configure.engines.sync.my.title.label "Synchronizěrujśo swóje…">
 <!ENTITY sync.configure.engines.title.bookmarks "Cytańske znamjenja">
-<!ENTITY sync.configure.engines.title.passwords "Gronidła">
+<!ENTITY sync.configure.engines.title.passwords2 "Pśizjawjenja">
 <!ENTITY sync.configure.engines.title.history "Historiju">
 <!ENTITY sync.configure.engines.title.tabs "Rejtarki">
 <!-- Common text -->
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "Powěźeńka priwatnosći">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Witajśo do &syncBrand.shortName.label;">
-<!ENTITY fxaccount_getting_started_description "Pśizjawśo se, aby swóje rejtarki, cytańske znamjenja, gronidła a druge synchronizěrował.">
+<!ENTITY fxaccount_getting_started_description2 "Pśizjawśo se, aby swóje rejtarki, cytańske znamjenja, gronidła a druge synchronizěrował.">
 <!ENTITY fxaccount_getting_started_get_started "Prědne kšace">
 <!ENTITY fxaccount_getting_started_old_firefox "Staršu wersiju &syncBrand.shortName.label; wužywaś?">
 <!-- Localization note: the Firefox below should not change with the
@@ -212,7 +212,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating "Pótusniśo, aby se pla swójogo nowego konta Firefox pśizjawił.">
 <!ENTITY fxaccount_status_bookmarks "Cytańske znamjenja">
 <!ENTITY fxaccount_status_history "Historija">
-<!ENTITY fxaccount_status_passwords "Gronidła">
+<!ENTITY fxaccount_status_passwords2 "Pśizjawjenja">
 <!ENTITY fxaccount_status_tabs "Wócynjone rejtarki">
 <!ENTITY fxaccount_status_legal "Legalny" >
 <!-- Localization note: when tapped, the following two strings link to
