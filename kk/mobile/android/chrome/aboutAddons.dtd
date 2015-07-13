@@ -10,3 +10,5 @@
 <!ENTITY addonAction.disable                    "Сөндіру">
 <!ENTITY addonAction.uninstall                  "Өшіру">
 <!ENTITY addonAction.undo                       "Болдырмау">
+
+<!ENTITY addonUnsigned.learnMore                "Көбірек білу">
