@@ -15,5 +15,6 @@
 <!ENTITY aboutSupport.accountsConnSecurity "Securitatea conexiunii">
 <!ENTITY aboutSupport.accountsAuthMethod "Metodă de autentificare">
 <!ENTITY aboutSupport.accountsDefault "Implicit ?">
+<!ENTITY aboutSupport.identityName "Identitate">
 
 <!ENTITY aboutSupport.sendViaEmail.label "Trimite prin e-mail">
