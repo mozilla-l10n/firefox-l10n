@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY joinChatWindow.title           "Kejañ ouzh ar postelerezh prim">
+<!ENTITY joinChatWindow.title           "Kevreañ ouzh ar postelerezh prim">
 <!ENTITY name.label                     "Saloñs">
 <!ENTITY optional.label                 "(diret)">
 <!ENTITY account.label                  "Kont">
-<!ENTITY autojoin.label                 "Kejañ ouzh ar saloñs-mañ ent emgefreek">
-<!ENTITY autojoin.accesskey             "j">
+<!ENTITY autojoin.label                 "Kevreañ ouzh ar saloñs-mañ ent emgefreek">
+<!ENTITY autojoin.accesskey             "v">

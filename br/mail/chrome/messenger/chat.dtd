@@ -33,7 +33,7 @@
 <!ENTITY closeConversationButton.tooltip "Serriñ ur gaozeadenn">
 
 <!ENTITY addBuddyButton.label          "Ouzhpennañ un darempred">
-<!ENTITY joinChatButton.label          "Kejañ ouzh ar postelerezh prim">
+<!ENTITY joinChatButton.label          "Kevreañ ouzh ar postelerezh prim">
 <!ENTITY chatAccountsButton.label      "Diskouez ar c'hontoù">
 
 <!ENTITY status.available          "Hegerz">

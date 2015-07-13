@@ -15,5 +15,6 @@
 <!ENTITY aboutSupport.accountsConnSecurity "Diogelroez ar c'hennask">
 <!ENTITY aboutSupport.accountsAuthMethod "Hentenn dilesa">
 <!ENTITY aboutSupport.accountsDefault "Dre ziouer ?">
+<!ENTITY aboutSupport.identityName "Titouroù ar gont">
 
 <!ENTITY aboutSupport.sendViaEmail.label "Kas dre bostel">

@@ -460,8 +460,8 @@
 <!ENTITY imStatus.unavailable        "Ac'hubet">
 <!ENTITY imStatus.offline            "Ezlinenn">
 <!ENTITY imStatus.showAccounts       "Diskouez ar c'hontoù…">
-<!ENTITY joinChatCmd.label "Kejañ ouzh ar postelerezh prim…">
-<!ENTITY joinChatCmd.accesskey "j">
+<!ENTITY joinChatCmd.label "Kevreañ ouzh ar postelerezh prim…">
+<!ENTITY joinChatCmd.accesskey "v">
 <!ENTITY savedFiles.label "Restroù enrollet">
 <!ENTITY savedFiles.accesskey "l">
 <!ENTITY savedFiles.key "j">

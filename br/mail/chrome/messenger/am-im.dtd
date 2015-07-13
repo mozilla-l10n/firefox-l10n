@@ -10,7 +10,7 @@
 <!ENTITY account.password              "Ger-tremen :">
 <!ENTITY account.alias                 "Lesanv :">
 <!ENTITY account.newMailNotification   "Rebuziñ ar c'hemennadennoù nevez">
-<!ENTITY account.autojoin              "Sanelloù kejet ent emgefreek :">
+<!ENTITY account.autojoin              "Sanelloù kevreet ent emgefreek :">
 <!ENTITY account.proxySettings.caption "Arventennoù ar proksi :">
 <!ENTITY account.proxySettings.change.label     "Kemmañ…">
 <!ENTITY account.proxySettings.change.accessKey "K">
