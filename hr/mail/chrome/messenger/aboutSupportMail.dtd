@@ -15,5 +15,6 @@
 <!ENTITY aboutSupport.accountsConnSecurity "Sigurnost veze">
 <!ENTITY aboutSupport.accountsAuthMethod "Metoda autentifikacije">
 <!ENTITY aboutSupport.accountsDefault "Zadano?">
+<!ENTITY aboutSupport.identityName "Identitet">
 
 <!ENTITY aboutSupport.sendViaEmail.label "Pošalji e-poštom">
