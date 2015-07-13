@@ -336,7 +336,7 @@
 <!ENTITY calendar.publish.publish.button      "Publicar">
 <!ENTITY calendar.publish.close.button      "Fechar">
 
-<!ENTITY calendar.publish.example.url.description   "Similar a http://www.meuservidor.com/webdav/teste.ics">
+<!ENTITY calendar.publish.example.url.description   "Algo como http://www.meuservidor.com/webdav/teste.ics">
 <!-- Select Calendar Dialog -->
 
 <!ENTITY calendar.select.dialog.title    "Selecione Calendário">
