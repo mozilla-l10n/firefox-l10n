@@ -9,7 +9,7 @@
 <!ENTITY MsgSyncDesc.label "Če ste že izbrali poštne mape in novičarske skupine za rabo v nepovezanem načinu, jih lahko zdaj prenesete in/ali uskladite. V nasprotnem primeru uporabite gumb &quot;Izberi&quot; in izberite poštne mape in novičarske skupine za rabo v nepovezanem načinu.">
 <!ENTITY MsgSyncDirections.label "Prenesi in/ali uskladi naslednje:">
 <!ENTITY syncTypeMail.label "Poštna sporočila">
-<!ENTITY syncTypeMail.accesskey "M">
+<!ENTITY syncTypeMail.accesskey "P">
 <!ENTITY syncTypeNews.label "Sporočila novičarskih skupin">
 <!ENTITY syncTypeNews.accesskey "n">
 <!ENTITY sendMessage.label "Pošlji neposlana sporočila">
