@@ -4,11 +4,22 @@
 
 <!ENTITY aboutTelemetry.pageTitle "ಟೆಲಿಮೆಟ್ರಿ ದತ್ತಾಂಶ">
 
-<!ENTITY aboutTelemetry.telemetryEnabled "  ಟೆಲಿಮೆಟ್ರಿಯನ್ನು <span>ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ</span>.">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "  ಟೆಲಿಮೆಟ್ರಿಯನ್ನು <span>ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ</span>.">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutTelemetry.generalDataSection "  ಸಾಮಾನ್ಯ ದತ್ತಾಂಶ">
+
 
 <!ENTITY aboutTelemetry.telemetryLogSection "  ಟೆಲಿಮೆಟ್ರಿ ದಿನಚರಿ">
 
