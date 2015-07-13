@@ -10,3 +10,6 @@
 <!ENTITY addonAction.disable                    "Cuir à comas">
 <!ENTITY addonAction.uninstall                  "Dì-stàlaich">
 <!ENTITY addonAction.undo                       "Neo-dhèan">
+
+<!ENTITY addonUnsigned.message                  "Cha b’ urrainn dha &brandShortName; an tuilleadan seo a dhearbhadh.">
+<!ENTITY addonUnsigned.learnMore                "Barrachd fiosrachaidh">

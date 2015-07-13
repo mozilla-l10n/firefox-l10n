@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label "Na thèid a shioncronachadh">
 <!ENTITY sync.configure.engines.sync.my.title.label "Sioncronaich na leanas…">
 <!ENTITY sync.configure.engines.title.bookmarks "Comharran-lìn">
-<!ENTITY sync.configure.engines.title.passwords "Faclan-faire">
+<!ENTITY sync.configure.engines.title.passwords2 "Clàraidhean a-steach">
 <!ENTITY sync.configure.engines.title.history "Eachdraidh">
 <!ENTITY sync.configure.engines.title.tabs "Tabaichean">
 <!-- Common text -->
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "Sanas prìobhaideachd">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Fàilte gu &syncBrand.shortName.label;">
-<!ENTITY fxaccount_getting_started_description "Clàraich a-steach gus na tabaichean, comharran-lìn, faclan-faire ⁊ mòran a bharrachd a shioncronachadh.">
+<!ENTITY fxaccount_getting_started_description2 "Clàraich a-steach gus na tabaichean, comharran-lìn, clàraidhean a-steach ⁊ mòran a bharrachd a shioncronachadh.">
 <!ENTITY fxaccount_getting_started_get_started "Dèan toiseach tòiseachaidh">
 <!ENTITY fxaccount_getting_started_old_firefox "A bheil thu a\u0027 cleachdadh seann-tionndadh de &syncBrand.shortName.label;?">
 <!-- Localization note: the Firefox below should not change with the
@@ -212,7 +212,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating "Thoir gnogag airson clàradh a-steach dhan chunntas Firefox ùr agad.">
 <!ENTITY fxaccount_status_bookmarks "Comharran-lìn">
 <!ENTITY fxaccount_status_history "Eachdraidh">
-<!ENTITY fxaccount_status_passwords "Faclan-faire">
+<!ENTITY fxaccount_status_passwords2 "Clàraidhean a-steach">
 <!ENTITY fxaccount_status_tabs "Tabaichean fosgailte">
 <!ENTITY fxaccount_status_legal "Nòtaichean laghail" >
 <!-- Localization note: when tapped, the following two strings link to

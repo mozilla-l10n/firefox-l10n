@@ -44,6 +44,10 @@
 <!ENTITY bookmark "Comharra-lìn">
 <!ENTITY bookmark_remove "Thoir an comharra-lìn air falbh">
 <!ENTITY bookmark_added "Comharra-lìn air a chur ris">
+<!-- Localization note (bookmark_already_added) : This string is
+     used as a label in a toast. It is the verb "to bookmark", not
+     the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "Tha seo ’na chomharra-lìn mu thràth">
 <!ENTITY bookmark_removed "Air a thoirt air falbh">
 <!ENTITY bookmark_updated "Comharra-lìn air ùrachadh">
 <!ENTITY bookmark_options "Roghainnean">
@@ -77,6 +81,7 @@
 
 <!ENTITY settings "Roghainnean">
 <!ENTITY settings_title "Roghainnean">
+<!ENTITY pref_category_input_options "Roghainnean ion-chuir">
 <!ENTITY pref_category_advanced "Adhartach">
 <!ENTITY pref_category_customize "Gnàthaich">
 <!ENTITY pref_category_customize_summary "Dachaidh, lorg, tabaichean, ion-phortadh">
@@ -104,7 +109,7 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "Comharra-lìn">
 <!ENTITY overlay_share_reading_list_btn_label "Cuir ris an liosta-leughaidh">
-<!ENTITY overlay_share_bookmark_btn_label_already "Tha seo \u0027na chomharra-lìn mu thràth">
+<!ENTITY overlay_share_bookmark_btn_label_already "Tha seo ’na chomharra-lìn mu thràth">
 <!ENTITY overlay_share_reading_list_btn_label_already "Tha seo air an liosta-leughaidh mu thràth">
 <!ENTITY overlay_share_send_other "Cuir gu uidheaman eile">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -132,7 +137,7 @@
 <!ENTITY pref_category_display "Taisbeanadh">
 <!ENTITY pref_category_display_summary "Teacsa, bàr an tiotail, brabhsadh làn-sgrìn">
 <!ENTITY pref_category_privacy_short "Prìobhaideachd">
-<!ENTITY pref_category_privacy_summary "Smachd air faclan-faire, briosgaidean, tracadh, dàta">
+<!ENTITY pref_category_privacy_summary2 "Smachd air clàradh a-steach, briosgaidean, tracadh, dàta">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "Mu dhèidhinn &brandShortName;, CÀBHA, roghainnean dàta">
 <!ENTITY pref_category_datareporting "Roghainnean dàta">
@@ -151,7 +156,9 @@
 <!ENTITY pref_category_devtools "Innealan an luchd-leasachaidh">
 <!ENTITY pref_developer_remotedebugging "Dì-bhugachadh cèin">
 <!ENTITY pref_category_logins "Clàraidhean a-steach">
-<!ENTITY pref_remember_signons "Cum faclan-faire an cuimhne">
+<!ENTITY pref_remember_signons2 "Cuimhnich na clàraidhean a-steach">
+<!ENTITY pref_open_external_urls_privately_title "Fosgail ceanglaichean sa bhrabhsadh phrìobhaideach">
+<!ENTITY pref_open_external_urls_privately_summary "A thaobh gach ceangal on taobh a-muigh a dh’fhosglas &brandShortName;">
 <!ENTITY pref_manage_logins "Stiùirich na clàraidhean a-steach">
 
 <!ENTITY pref_category_home "Dhachaigh">
@@ -189,10 +196,10 @@
 <!ENTITY pref_donottrack_title "Na tracaich">
 <!ENTITY pref_donottrack_summary "Innsidh &brandShortName; do làraichean nach eil thu ag iarraidh gun tracaich iad thu">
 
-<!ENTITY tab_queue_toast_message2 "Taba sa chiutha ann am &brandShortName;">
+<!ENTITY tab_queue_toast_message3 "Chaidh an taba a shàbhaladh ann am &brandShortName;">
 <!ENTITY tab_queue_toast_action "Fosgail an-dràsta">
 <!ENTITY tab_queue_prompt_title "A bheil thu airson iomadh ceangal fhosgladh?">
-<!ENTITY tab_queue_prompt_text2 "Fosgail iad gun &brandShortName; fhosgladh gach turas.">
+<!ENTITY tab_queue_prompt_text3 "Sàbhail iad gus an ath-thuras a dh’fhosglas tu &brandShortName;">
 <!ENTITY tab_queue_prompt_tip_text "’s urrainn dhut seo atharrachadh sna roghainnean às a dhèidh seo">
 <!ENTITY tab_queue_prompt_positive_action_button "Cuir an comas">
 <!ENTITY tab_queue_prompt_negative_action_button "Chan ann an-dràsta">
@@ -244,10 +251,14 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled_summary "Cum smachd air dè na làraichean aig a bheil videothan is meadhanan eile a chluich gu fèin-obrachail">
 <!ENTITY pref_zoom_force_enabled "Cuir an sùmadh an comas an-còmhnaidh">
 <!ENTITY pref_zoom_force_enabled_summary "Tar-àithn e airson ’s gun urrainn dhut duilleag sam bith a shùmadh">
+<!ENTITY pref_voice_input "Ion-chur gutha">
+<!ENTITY pref_voice_input_summary "Ceadaich deachdadh gutha ann am bàr an tiotail">
+<!ENTITY pref_qrcode_enabled "Leughadair còd QR">
+<!ENTITY pref_qrcode_enabled_summary "Ceadaich sganair QR ann am bàr an tiotail">
 
 <!ENTITY pref_use_master_password "Cleachd facal-faire maighstir">
 <!ENTITY pref_sync "Sioncronachadh">
-<!ENTITY pref_sync_summary "Sioncronaich na tabaichean, comharran-lìn, faclan-faire \u0027s an eachdraidh agad">
+<!ENTITY pref_sync_summary2 "Sioncronaich na tabaichean, comharran-lìn, clàraidhean a-steach ’s an eachdraidh agad">
 <!ENTITY pref_search_suggestions "Seall molaidhean-luirg">
 <!ENTITY pref_import_android "Ion-phortaich o Android">
 <!ENTITY pref_import_android_summary "Ion-phortaich comharran-lìn is an eachdraidh on bhrabhsair tùsail aig an uidheam">
@@ -255,11 +266,12 @@ size. -->
 <!ENTITY pref_private_data_searchHistory "Eachdraidh nan lorg">
 <!ENTITY pref_private_data_formdata2 "Eachdraidh na foirm">
 <!ENTITY pref_private_data_cookies2 "Briosgaidean ⁊ clàraidhean beò">
-<!ENTITY pref_private_data_passwords "Faclan-faire air an sàbhaladh">
+<!ENTITY pref_private_data_passwords2 "Clàraidhean a-steach sàbhailte">
 <!ENTITY pref_private_data_cache "An tasgadan">
 <!ENTITY pref_private_data_offlineApps "Dàta làraichean-lin far loidhne">
 <!ENTITY pref_private_data_siteSettings2 "Roghainnean na làraich">
 <!ENTITY pref_private_data_downloadFiles2 "Luchdaidhean a-nuas">
+<!ENTITY pref_private_data_syncedTabs "Tabaichean sioncronaichte">
 
 
 <!ENTITY pref_about_firefox "Mu &brandShortName;">
@@ -379,6 +391,11 @@ size. -->
 <!ENTITY doorhanger_login_edit_password_hint "Facal-faire">
 <!ENTITY doorhanger_login_edit_toggle "Seall am facal-faire">
 <!ENTITY doorhanger_login_edit_toast_error "Dh\u0027fhàillig an clàradh a-steach">
+<!ENTITY doorhanger_login_select_message "A bheil thu airson lethbhreac a dhèanamh dhen fhacal-fhaire o &formatS;?">
+<!ENTITY doorhanger_login_select_toast_copy "Chaidh lethbhreac an fhacail-fhaire a chur air an stòr-bhòrd">
+<!ENTITY doorhanger_login_select_toast_copy_error "Cha b’ urrainn dhuinn lethbhreac a dhèanamh dhen fhacal-fhaire">
+<!ENTITY doorhanger_login_select_action_text "Tagh clàradh a-steach eile">
+<!ENTITY doorhanger_login_select_title "Dèan lethbhreac dhen fhacal-fhaire o">
 
 <!ENTITY pref_titlebar_mode "Bàr an tiotail">
 <!ENTITY pref_titlebar_mode_title "Seall tiotal na duilleige">
@@ -390,7 +407,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "Falaich bàr-tiotail &brandShortName; nuair a sgrolar sìos air duilleag">
 
 <!ENTITY pref_tab_queue_title2 "Fosgail iomadh ceangal">
-<!ENTITY pref_tab_queue_summary2 "Cuir ceanglaichean sa chiutha agus thoir sùil uaireigin eile seach &brandShortName; fhosgladh gach turas">
+<!ENTITY pref_tab_queue_summary3 "Sàbhail iad gus an ath-thuras a dh’fhosglas tu &brandShortName;">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -408,8 +425,10 @@ size. -->
 <!ENTITY site_settings_cancel       "Sguir dheth">
 <!ENTITY site_settings_clear        "Falamhaich">
 <!ENTITY site_settings_no_settings  "Chan eil roghainnean ann a ghabhas an glanadh.">
+<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+     as possible. -->
 
-<!ENTITY reading_list_added "Chaidh an duilleag a chur ris an liosta-leughaidh agad">
+<!ENTITY reading_list_added2 "Air a chur ris an liosta">
 <!ENTITY reading_list_removed "Air a thoirt air falbh on liosta leughaidh agad">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -438,7 +457,7 @@ size. -->
 <!ENTITY button_clear_data "Falamhaich an dàta">
 <!ENTITY button_set "Suidhich">
 <!ENTITY button_clear "Falamhaich">
-<!ENTITY button_remember "Cum an cuimhne">
+<!ENTITY button_copy "Dèan lethbhreac">
 
 <!ENTITY firstrun_panel_title_welcome "Fàilte">
 
@@ -502,10 +521,6 @@ size. -->
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Na falaich na h-uidheaman a thagh thu tuilleadh">
 
-<!ENTITY private_browsing_title "Brabhsadh prìobhaideach">
-<!ENTITY private_tabs_panel_empty_desc "Nochdaidh na tabaichean prìobhaideach agad an-seo. Cha chum sinn gin dhen eachdraidh bhrabhsaidh, dhe na briosgaidean no comharran-lìn agad agus thèid faidhlichean a luchdaicheas tu a-nuas a stòradh air an uidheam agad fhathast.">
-<!ENTITY private_tabs_panel_learn_more "A bheil thu ag iarraidh barrachd fiosrachaidh?">
-
 <!ENTITY remote_tabs_panel_moved_title "Cà bheil na tabaichean agam?">
 <!ENTITY remote_tabs_panel_moved_desc "Ghluais sinn na tabaichean agad o uidheaman eile gu panail air an duilleag mhòr agad ach am faigh thu greim orra gu luath gach turas a dh’fhosglas tu taba ùr.">
 <!ENTITY remote_tabs_panel_moved_link "Thoir leam dhan phanail ùr agam.">
@@ -533,6 +548,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "a tha \u0027ga ruith le">
 <!ENTITY identity_no_info "Chan eil an làrach seo a’ nochdadh fiosrachadh dearbh-aithne.">
 <!ENTITY identity_not_encrypted "Chan eil an ceangal agad ris an làrach-lìn seo air a chrioptachadh.">
+<!ENTITY identity_encrypted "Crioptaichte">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "Tha an duilleag seo a’ sealltainn susbaint nach eil tèarainte.">
@@ -599,7 +615,7 @@ o Android">
 <!ENTITY guest_session_dialog_continue "Lean air adhart">
 <!ENTITY guest_session_dialog_cancel "Sguir dheth">
 <!ENTITY new_guest_session_title "Ath-thòisichidh &brandShortName; an-dràsta">
-<!ENTITY new_guest_session_text "Chan fhaic an neach a chleachdas e gin dhen dàta bhrabhsaidh phearsanta agad (mar fhaclan-faire, an eachdraidh no na comharran-lìn).\n\nNuair a bhios d\u0027 aoigh deiseil, thèid an dàta brabhsaidh aca a sguabadh às agus thèid an seisean agadsa aiseag.">
+<!ENTITY new_guest_session_text2 "Chan fhaic an neach a chleachdas e gin dhen dàta bhrabhsaidh phearsanta agad (mar chlàraidhean a-steach, an eachdraidh no na comharran-lìn).\n\nNuair a bhios d’ aoigh deiseil, thèid an dàta brabhsaidh aca a sguabadh às agus thèid an seisean agadsa aiseag.">
 <!ENTITY guest_browsing_notification_title "Tha brabhsadh mar aoigh an comas">
 <!ENTITY guest_browsing_notification_text "Thoir gnogag gus fàgail a dhèanamh">
 
@@ -648,3 +664,5 @@ o Android">
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
 
 <!ENTITY find_matchcase "Àà">
+
+<!ENTITY intent_uri_cannot_open "Cha ghabh an ceangal fhosgladh">
