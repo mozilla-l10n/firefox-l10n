@@ -10,3 +10,5 @@
 <!ENTITY addonAction.disable                    "Dezactivează">
 <!ENTITY addonAction.uninstall                  "Dezinstalează">
 <!ENTITY addonAction.undo                       "Anulează">
+
+<!ENTITY addonUnsigned.learnMore                "Află mai multe">
