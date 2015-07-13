@@ -46,7 +46,7 @@
 <!-- Setup Success -->
 
 <!ENTITY sync.title.success.label "Configuração terminada">
-<!ENTITY sync.subtitle.success.label1 "Os seus dados estão agora a ser transferidos em segundo plano. Pode ir a definições para gerir a sua conta ou comece a navegar com o &brandShortName;.">
+<!ENTITY sync.subtitle.success.label1 "Os seus dados estão agora a ser descarregados em segundo plano. Aceda às Definições para gerir a sua conta ou comece a navegar com o &brandShortName;.">
 <!ENTITY sync.settings.label "Definições">
 <!ENTITY sync.subtitle.manage.label1 "A sua conta do &syncBrand.fullName.label; está configurada. Vá a definições para gerir a sua conta ou inicie o &brandShortName;.">
 <!-- Pair Device -->
@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label "O que sincronizar">
 <!ENTITY sync.configure.engines.sync.my.title.label "Sincronizar…">
 <!ENTITY sync.configure.engines.title.bookmarks "Marcadores">
-<!ENTITY sync.configure.engines.title.passwords "Palavras-passe">
+<!ENTITY sync.configure.engines.title.passwords2 "Credenciais">
 <!ENTITY sync.configure.engines.title.history "Histórico">
 <!ENTITY sync.configure.engines.title.tabs "Separadores">
 <!-- Common text -->
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "Informação sobre a privacidade">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Bem-vindo ao &syncBrand.shortName.label;">
-<!ENTITY fxaccount_getting_started_description "Inicie sessão para sincronizar separadores, marcadores, palavras-passe e mais.">
+<!ENTITY fxaccount_getting_started_description2 "Inicie sessão para sincronizar os seus separadores, marcadores, credenciais e mais.">
 <!ENTITY fxaccount_getting_started_get_started "Começar">
 <!ENTITY fxaccount_getting_started_old_firefox "Está a utilizar uma versão antiga do &syncBrand.shortName.label;?">
 <!-- Localization note: the Firefox below should not change with the
@@ -212,8 +212,8 @@
 <!ENTITY fxaccount_status_needs_finish_migrating "Toque para iniciar sessão na sua nova Conta Firefox.">
 <!ENTITY fxaccount_status_bookmarks "Marcadores">
 <!ENTITY fxaccount_status_history "Histórico">
-<!ENTITY fxaccount_status_passwords "Palavras-passe">
-<!ENTITY fxaccount_status_tabs "Abrir separadores">
+<!ENTITY fxaccount_status_passwords2 "Credenciais">
+<!ENTITY fxaccount_status_tabs "Separadores">
 <!ENTITY fxaccount_status_legal "Jurídico" >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:

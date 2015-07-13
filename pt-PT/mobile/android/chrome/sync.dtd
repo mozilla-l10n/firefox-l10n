@@ -28,4 +28,4 @@
 <!ENTITY sync.pair.title            "Emparelhar um dispositivo">
 <!ENTITY sync.pair.description      "Para ativar o seu novo dispositivo, selecione no dispositivo &quot;Configurar Sync&quot;.">
 <!ENTITY sync.setup.close           "fechar">
-<!ENTITY sync.setup.waitingdownload "Os seus dados estão agora a ser transferidos em segundo plano. Pode fechar esta janela a qualquer momento.">
+<!ENTITY sync.setup.waitingdownload "Os seus dados estão a ser descarregados em segundo plano. Pode fechar esta janela a qualquer momento.">
