@@ -2,12 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                  "Merdeiñ prevez">
+<!ENTITY privatebrowsingpage.title "Merdeiñ prevez">
+<!ENTITY privatebrowsingpage.title.normal "N'hoc'h ket er merdeiñ prevez">
 
-<!ENTITY privatebrowsingpage.issueDesc.private      "Digoret hoc'h eus un ivinell merdeiñ prevez nevez">
-<!ENTITY privatebrowsingpage.issueDesc.normal       "N'emaoc'h ket e-barzh un ivinell merdeiñ prevez.">
+<!ENTITY privatebrowsingpage.issueDesc.normal2 "Er merdeiñ prevez ne vo dalc'het roll istor na toupin ebet.">
+<!ENTITY privatebrowsingpage.issueDesc.private2 "Ne vo dalc'het roll istor na toupin ebet .">
 
-<!ENTITY privatebrowsingpage.description            "E-barzh un ivinell merdeiñ prevez, ne viro ket &brandShortName; ar roll istor, ar c'hlaskoù, ar roll pellgargañ, ar furmskridoù, an toupinoù pe ar restroù kenrouedad padennek. Koulskoude, miret e vo ar restroù pellgarget hag ar sinedoù.">
-<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+<!ENTITY privatebrowsingpage.description2 "Ar sinedoù ouzhpennet hag ar restroù pellgarget a vo c'hoazh enrollet war ho trevnad.">
+<!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
+<!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
 
-<!ENTITY privatebrowsingpage.moreInfo               "Ha pa ne zalc'hfe ket an trevnad-mañ roll istor ho merdeiñ, e c'hallo ho pourvezer servijoù genrouedad (ISP) pe hoc'h implijer gouzout c'hoazh ar pajennadoù bet gweladennet ganeoc'h.">
+<!ENTITY privatebrowsingpage.link.private "Ha c'hoant hoc'h eus da c'houzout hiroc'h ?">
+<!ENTITY privatebrowsingpage.link.normal "Digeriñ un ivinell prevez nevez">

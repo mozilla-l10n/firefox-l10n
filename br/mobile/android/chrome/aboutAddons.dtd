@@ -10,3 +10,6 @@
 <!ENTITY addonAction.disable                    "Diweredekaat">
 <!ENTITY addonAction.uninstall                  "Distaliañ">
 <!ENTITY addonAction.undo                       "Dizober">
+
+<!ENTITY addonUnsigned.message                  "N'hall ket bezañ gwiriekaet an askouezh gant &brandShortName;.">
+<!ENTITY addonUnsigned.learnMore                "Gouzout hiroc'h">

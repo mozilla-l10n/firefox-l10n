@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label "Petra goubredañ ?">
 <!ENTITY sync.configure.engines.sync.my.title.label "Goubredañ ho…">
 <!ENTITY sync.configure.engines.title.bookmarks "Sinedoù">
-<!ENTITY sync.configure.engines.title.passwords "Gerioù-tremen">
+<!ENTITY sync.configure.engines.title.passwords2 "Titouroù kennaskañ">
 <!ENTITY sync.configure.engines.title.history "Roll istor">
 <!ENTITY sync.configure.engines.title.tabs "Ivinelloù">
 <!-- Common text -->
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "Evezhiadennoù a-fet buhez prevez">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Donemat war &syncBrand.shortName.label;">
-<!ENTITY fxaccount_getting_started_description "En em gennaskit evit goubredañ hoc\u0027h ivinelloù, ho sinedoù, ho kerioù-tremen hag ouzhpenn c\u0027hoazh.">
+<!ENTITY fxaccount_getting_started_description2 "Kennaskit evit goubredañ hoc\u0027h ivinelloù, ho sinedoù, ho titouroù kennaskañ hag ouzhpenn c\u0027hoazh.">
 <!ENTITY fxaccount_getting_started_get_started "Deraouiñ">
 <!ENTITY fxaccount_getting_started_old_firefox "Emaoc\u0027h oc\u0027h ober gant un handelv all eus &syncBrand.shortName.label; ?">
 <!-- Localization note: the Firefox below should not change with the
@@ -212,7 +212,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating "Stokit evit kennaskañ d\u0027ho Kont Firefox nevez.">
 <!ENTITY fxaccount_status_bookmarks "Sinedoù">
 <!ENTITY fxaccount_status_history "Roll istor">
-<!ENTITY fxaccount_status_passwords "Gerioù-tremen">
+<!ENTITY fxaccount_status_passwords2 "Titouroù kennaskañ">
 <!ENTITY fxaccount_status_tabs "Digeriñ ivinelloù">
 <!ENTITY fxaccount_status_legal "Lezennek" >
 <!-- Localization note: when tapped, the following two strings link to

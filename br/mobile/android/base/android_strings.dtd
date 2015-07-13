@@ -44,6 +44,10 @@
 <!ENTITY bookmark "Sined">
 <!ENTITY bookmark_remove "Dilemel ar sined">
 <!ENTITY bookmark_added "Ouzhpennet eo bet ar sined">
+<!-- Localization note (bookmark_already_added) : This string is
+     used as a label in a toast. It is the verb "to bookmark", not
+     the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "Lakaet ez eus bet ur sined war ar bajenn endeo">
 <!ENTITY bookmark_removed "Sined bet dilamet">
 <!ENTITY bookmark_updated "Sined bet hizivaet">
 <!ENTITY bookmark_options "Dibarzhioù">
@@ -77,6 +81,7 @@
 
 <!ENTITY settings "Arventennoù">
 <!ENTITY settings_title "Arventennoù">
+<!ENTITY pref_category_input_options "Dibarzhioù enankad">
 <!ENTITY pref_category_advanced "Kempleshoc\u0027h">
 <!ENTITY pref_category_customize "Personelaat">
 <!ENTITY pref_category_customize_summary "Pennbajenn, enklask, ivinelloù, enporzh">
@@ -132,7 +137,7 @@
 <!ENTITY pref_category_display "Skrammañ">
 <!ENTITY pref_category_display_summary "Testenn, barrenn ditl, merdeiñ gant ar skramm a-bezh">
 <!ENTITY pref_category_privacy_short "Buhez prevez">
-<!ENTITY pref_category_privacy_summary "Reoliñ ar gerioù-tremen, an toupinoù, an arheuilh, ar roadennoù">
+<!ENTITY pref_category_privacy_summary2 "Reoliñ an titouroù kennask, an toupinoù, an arheuilh, ar roadennoù">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "Diwar-benn &brandShortName;, FAG, dibaboù roadennoù">
 <!ENTITY pref_category_datareporting "Dibaboù roadennoù">
@@ -151,7 +156,9 @@
 <!ENTITY pref_category_devtools "Ostilhoù an diorroer">
 <!ENTITY pref_developer_remotedebugging "Diveugañ a-bell">
 <!ENTITY pref_category_logins "Titouroù kennaskañ">
-<!ENTITY pref_remember_signons "Derc\u0027hel soñj eus ar gerioù-tremen">
+<!ENTITY pref_remember_signons2 "Derc\u0027hel-soñj eus an titouroù kennaskañ">
+<!ENTITY pref_open_external_urls_privately_title "Digeriñ ereoù er merdeiñ prevez">
+<!ENTITY pref_open_external_urls_privately_summary "Evit an holl ereoù diavaez digoret gant &brandShortName;">
 <!ENTITY pref_manage_logins "Ardoer titouroù kennaskañ">
 
 <!ENTITY pref_category_home "D\u0027ar gêr">
@@ -189,10 +196,10 @@
 <!ENTITY pref_donottrack_title "N\u0027am heuilhit ket">
 <!ENTITY pref_donottrack_summary "&brandShortName; a lavaro d\u0027al lec\u0027hiennoù ne fell ket deoc\u0027h bezañ heuliet">
 
-<!ENTITY tab_queue_toast_message2 "Ivinell lakaet el lost e &brandShortName;">
+<!ENTITY tab_queue_toast_message3 "Ivinell enrollet e &brandShortName;">
 <!ENTITY tab_queue_toast_action "Digeriñ bremañ">
 <!ENTITY tab_queue_prompt_title "Digeriñ meur a ereoù ?">
-<!ENTITY tab_queue_prompt_text2 "Digeriñ anezhe hep distreiñ da &brandShortName; bewech.">
+<!ENTITY tab_queue_prompt_text3 "Enrollit anezho betek ar wech a zeu ma vo digoret &brandShortName;">
 <!ENTITY tab_queue_prompt_tip_text "tu a vo deoc\u0027h kemmañ se en Arventennoù diwezhatoc\u0027h">
 <!ENTITY tab_queue_prompt_positive_action_button "Gweredekaat">
 <!ENTITY tab_queue_prompt_negative_action_button "Ket bremañ">
@@ -244,10 +251,14 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled_summary "Mestroniañ lenn emgefreek ar videoioù ha ar mediaoù all gant al lec\u0027hiennoù ">
 <!ENTITY pref_zoom_force_enabled "Gweredekaat ar zoum bepred">
 <!ENTITY pref_zoom_force_enabled_summary "Bountañ dre zorn a-benn ma vo zoumet war an holl bajennoù ">
+<!ENTITY pref_voice_input "Enankad mouezh">
+
+<!ENTITY pref_qrcode_enabled "Lenner bonegoù QR">
+<!ENTITY pref_qrcode_enabled_summary "Aotren ar c\u0027hwilerver QR er varenn ditl">
 
 <!ENTITY pref_use_master_password "Arverañ ar ger-tremen mestr">
 <!ENTITY pref_sync "Goubred">
-<!ENTITY pref_sync_summary "En em gennaskit evit goubredañ hoc\u0027h ivinelloù, ho sinedoù, ho kerioù-tremen hag ouzhpenn c\u0027hoazh.">
+<!ENTITY pref_sync_summary2 "Goubredit hoc\u0027h ivinelloù, ho sinedoù, ho titouroù kennaskañ, ho roll istor">
 <!ENTITY pref_search_suggestions "Diskouez kinnigoù ar c\u0027hlask">
 <!ENTITY pref_import_android "Enporzhiañ diouzh Android">
 <!ENTITY pref_import_android_summary "Enporzhiañ ar sinedoù hag ar roll istor adalek ar merdeer genidik">
@@ -255,11 +266,12 @@ size. -->
 <!ENTITY pref_private_data_searchHistory "Roll istor klask">
 <!ENTITY pref_private_data_formdata2 "Roll istor furmskridoù">
 <!ENTITY pref_private_data_cookies2 "Toupinoù ha kennaskoù oberiant">
-<!ENTITY pref_private_data_passwords "Gerioù-tremen enrollet">
+<!ENTITY pref_private_data_passwords2 "Gerioù-tremen enrollet">
 <!ENTITY pref_private_data_cache "Krubuilh">
 <!ENTITY pref_private_data_offlineApps "Roadennoù ezlinenn al lec\u0027hiennoù">
 <!ENTITY pref_private_data_siteSettings2 "Arventennoù al lec\u0027hienn">
 <!ENTITY pref_private_data_downloadFiles2 "Pellgargadurioù">
+<!ENTITY pref_private_data_syncedTabs "Ivinelloù goubredet">
 
 
 <!ENTITY pref_about_firefox "Diwar-benn &brandShortName;">
@@ -378,7 +390,12 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Anv arveriad">
 <!ENTITY doorhanger_login_edit_password_hint "Ger-tremen">
 <!ENTITY doorhanger_login_edit_toggle "Skrammañ ar ger-tremen">
-<!ENTITY doorhanger_login_edit_toast_error "C\u0027hwitet war enrollañ an naoudi">
+<!ENTITY doorhanger_login_edit_toast_error "C\u0027hwitet war enrollañ an titouroù kennaskañ">
+<!ENTITY doorhanger_login_select_message "Eilañ ar gerioù-tremen adalek &formatS; ?">
+<!ENTITY doorhanger_login_select_toast_copy "Eilet eo bet ar ger-tremen er golver">
+<!ENTITY doorhanger_login_select_toast_copy_error "N\u0027haller ket eilañ ar ger-tremen">
+<!ENTITY doorhanger_login_select_action_text "Diuzañ titouroù kennask all">
+<!ENTITY doorhanger_login_select_title "Eilañ ar ger-tremen adalek">
 
 <!ENTITY pref_titlebar_mode "Barrenn ditl">
 <!ENTITY pref_titlebar_mode_title "Diskouez titl ar bajenn">
@@ -390,7 +407,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "Kuzhat barrenn ditl &brandShortName; pa zibuner a-hed ur bajennad">
 
 <!ENTITY pref_tab_queue_title2 "Digeriñ meur a ereoù">
-<!ENTITY pref_tab_queue_summary2 "Lakaat an ereoù el lost kentoc\u0027h ha distreiñ da &brandShortName; bewech">
+<!ENTITY pref_tab_queue_summary3 "Enrollit anezho betek ar wech a zeu ma tigorit &brandShortName;">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -408,8 +425,10 @@ size. -->
 <!ENTITY site_settings_cancel       "Nullañ">
 <!ENTITY site_settings_clear        "Skarzhañ">
 <!ENTITY site_settings_no_settings  "N\u0027eus arventenn ebet da skarzhañ.">
+<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+     as possible. -->
 
-<!ENTITY reading_list_added "Pajennad ouzhpennet war ho roll lennadurioù">
+<!ENTITY reading_list_added2 "Ouzhpennet d\u0027ar roll">
 <!ENTITY reading_list_removed "Pajennad ouzhpennet war ho Roll Lennadurioù">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -438,7 +457,7 @@ size. -->
 <!ENTITY button_clear_data "Skarzhañ ar roadennoù">
 <!ENTITY button_set "Despizet">
 <!ENTITY button_clear "Skarzhañ">
-<!ENTITY button_remember "Derc\u0027hel soñj">
+<!ENTITY button_copy "Eilañ">
 
 <!ENTITY firstrun_panel_title_welcome "Degemer mat">
 
@@ -502,10 +521,6 @@ size. -->
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Na guzhat an trevnadoù diuzet ken">
 
-<!ENTITY private_browsing_title "Merdeiñ prevez">
-<!ENTITY private_tabs_panel_empty_desc "Skrammet e vo hoc\u0027h ivinelloù prevez amañ. Rak ne viromp ket ho roll istor, ho sinedoù hag ar restroù hoc\u0027h eus pellgarget e chomo pep tra war ho trevnad.">
-<!ENTITY private_tabs_panel_learn_more "Ha c\u0027hoant hoc\u0027h eus da c\u0027houzout hiroc\u0027h ?">
-
 <!ENTITY remote_tabs_panel_moved_title "Pelec\u0027h emañ ma ivinelloù ?">
 <!ENTITY remote_tabs_panel_moved_desc "Dilec\u0027hiet hon eus hoc\u0027h ivinelloù eus trevnadoù all e-barzh ur penel war ho pennbajenn a c\u0027hell bezañ haezet bewech e tigorit un ivinell nevez.">
 <!ENTITY remote_tabs_panel_moved_link "Mont d\u0027am fenel nevez.">
@@ -533,6 +548,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "hag a zo lañset gant">
 <!ENTITY identity_no_info "Ne bourchas ket al lec\u0027hienn-mañ titouroù a-fet pivelezh.">
 <!ENTITY identity_not_encrypted "N\u0027eo ket enrineget ho kennask ouzh al lec\u0027hienn-mañ.">
+<!ENTITY identity_encrypted "Enrineget">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "Endalc\u0027had a vefe arvarus a zo skrammet gant ar bajennad-mañ.">
@@ -599,7 +615,7 @@ diouzh Android">
 <!ENTITY guest_session_dialog_continue "Kenderc\u0027hel">
 <!ENTITY guest_session_dialog_cancel "Nullañ">
 <!ENTITY new_guest_session_title "Adloc\u0027hañ a ray &brandShortName; diouzhtu">
-<!ENTITY new_guest_session_text "An den a ra gantañ ne vo ket gouest da welout ho roadennoù personel (evel ar gerioù-tremen, ar roll istor pe sinedoù).\n\nUr wech echu estez ar c\u0027houviad e vo dilamet e roadennoù hag atoret e vo hoc\u0027h estez.">
+<!ENTITY new_guest_session_text2 "An den a ra gantañ ne vo ket gouest da welout ho roadennoù personel (evel an titouroù kennaskañ, ar roll istor pe sinedoù).\n\nUr wech echu estez ar c\u0027houviad e vo dilamet e roadennoù hag atoret e vo hoc\u0027h estez.">
 <!ENTITY guest_browsing_notification_title "Gweredekaet eo merdeiñ ar c\u0027houviad">
 <!ENTITY guest_browsing_notification_text "Stokit evit kuitaat">
 
@@ -648,3 +664,5 @@ diouzh Android">
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
 
 <!ENTITY find_matchcase "Aa">
+
+<!ENTITY intent_uri_cannot_open "N\u0027haller ket digeriñ an ere">
