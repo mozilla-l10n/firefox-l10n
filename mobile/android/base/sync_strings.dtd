@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label "Ko sinhronizēt">
 <!ENTITY sync.configure.engines.sync.my.title.label "Sinhronizēt manas…">
 <!ENTITY sync.configure.engines.title.bookmarks "Grāmatzīmes">
-<!ENTITY sync.configure.engines.title.passwords "Paroles">
+<!ENTITY sync.configure.engines.title.passwords2 "Lietotājvārdi">
 <!ENTITY sync.configure.engines.title.history "Vēsturi">
 <!ENTITY sync.configure.engines.title.tabs "Cilnes">
 <!-- Common text -->
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "Privātuma atruna">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Esiet sveicināti &syncBrand.shortName.label;">
-<!ENTITY fxaccount_getting_started_description "Ierakstieties, lai sinhronizētu cilnes, grāmatzīmes, paroles u.c.">
+<!ENTITY fxaccount_getting_started_description2 "Ierakstieties, lai sinhronizētu cilnes, grāmatzīmes, paroles u.c.">
 <!ENTITY fxaccount_getting_started_get_started "Sākt">
 <!ENTITY fxaccount_getting_started_old_firefox "Izmantojat vecāku &syncBrand.shortName.label; versiju?">
 <!-- Localization note: the Firefox below should not change with the
@@ -212,7 +212,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating "Pieskarieties, lai pieslēgtos Firefox kontam.">
 <!ENTITY fxaccount_status_bookmarks "Grāmatzīmes">
 <!ENTITY fxaccount_status_history "Vēsture">
-<!ENTITY fxaccount_status_passwords "Paroles">
+<!ENTITY fxaccount_status_passwords2 "Lietotājvārdi">
 <!ENTITY fxaccount_status_tabs "Atvērtās cilnes">
 <!ENTITY fxaccount_status_legal "Juridiskā informācija" >
 <!-- Localization note: when tapped, the following two strings link to

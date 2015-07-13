@@ -10,3 +10,6 @@
 <!ENTITY addonAction.disable                    "Deaktivēt">
 <!ENTITY addonAction.uninstall                  "Atinstalēt">
 <!ENTITY addonAction.undo                       "Atcelt">
+
+<!ENTITY addonUnsigned.message                  "&brandShortName; nevar pārbaudīt šo papildinājumu.">
+<!ENTITY addonUnsigned.learnMore                "Uzzināt vairāk">
