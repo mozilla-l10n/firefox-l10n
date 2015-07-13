@@ -196,7 +196,7 @@
 <!ENTITY pref_cookies_disabled "Non autorisés">
 
 <!ENTITY pref_tracking_protection_title "Empêcher le pistage">
-<!ENTITY pref_tracking_protection_summary "&brandShortName; empêchera les sites de vous pister">
+<!ENTITY pref_tracking_protection_summary2 "Les éléments de pistage seront bloqués durant la navigation privée">
 
 <!ENTITY pref_donottrack_title "Ne pas me pister">
 <!ENTITY pref_donottrack_summary "&brandShortName; indiquera aux sites que vous ne souhaitez pas être pisté">
