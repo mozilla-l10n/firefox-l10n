@@ -44,6 +44,10 @@
 <!ENTITY bookmark "Nod Tudalen">
 <!ENTITY bookmark_remove "Tynnu\u0027r nod tudalen">
 <!ENTITY bookmark_added "Ychwanegwyd Nod Tudalen">
+<!-- Localization note (bookmark_already_added) : This string is
+     used as a label in a toast. It is the verb "to bookmark", not
+     the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "Nod tudalen arno eisoes">
 <!ENTITY bookmark_removed "Tynnwyd Nod Tudalen">
 <!ENTITY bookmark_updated "Diweddarwyd Nod Tudalen">
 <!ENTITY bookmark_options "Dewisiadau">
@@ -77,6 +81,7 @@
 
 <!ENTITY settings "Gosodiadau">
 <!ENTITY settings_title "Gosodiadau">
+<!ENTITY pref_category_input_options "Dewisiadau mewnbynnu">
 <!ENTITY pref_category_advanced "Uwch">
 <!ENTITY pref_category_customize "Cyfaddasu">
 <!ENTITY pref_category_customize_summary "Cartref, chwilio, tabiau, mewnforio">
@@ -104,7 +109,7 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "Nod Tudalen">
 <!ENTITY overlay_share_reading_list_btn_label "Ychwanegu at y Rhestr Ddarllen">
-<!ENTITY overlay_share_bookmark_btn_label_already "Nod Tudalen arno eisoes">
+<!ENTITY overlay_share_bookmark_btn_label_already "Nod tudalen arno eisoes">
 <!ENTITY overlay_share_reading_list_btn_label_already "Eisoes yn y Rhestr Ddarllen">
 <!ENTITY overlay_share_send_other "Anfon i ddyfais arall">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -132,7 +137,7 @@
 <!ENTITY pref_category_display "Dangosydd">
 <!ENTITY pref_category_display_summary "Testun, bar teitl, pori sgrin llawn">
 <!ENTITY pref_category_privacy_short "Preifatrwydd">
-<!ENTITY pref_category_privacy_summary "Rheoli cyfrineiriau, cwcis, tracio, data">
+<!ENTITY pref_category_privacy_summary2 "Rheoli mewngofnodi, cwcis, tracio, data">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "Ynghylch &brandShortName;, Cwestiynau, dewisiadau data">
 <!ENTITY pref_category_datareporting "Dewisiadau data">
@@ -151,7 +156,9 @@
 <!ENTITY pref_category_devtools "Offer datblygwyr">
 <!ENTITY pref_developer_remotedebugging "Dadfygio pell">
 <!ENTITY pref_category_logins "Mewngofnodion">
-<!ENTITY pref_remember_signons "Cofio cyfrineiriau">
+<!ENTITY pref_remember_signons2 "Cofio mewngfnodion">
+<!ENTITY pref_open_external_urls_privately_title "Agor dolenni o fewn pori Preifat">
+<!ENTITY pref_open_external_urls_privately_summary "Ar gyfer pob dolen allanol agorwyd yn &brandShortName;">
 <!ENTITY pref_manage_logins "Rheoli mewngofnodion">
 
 <!ENTITY pref_category_home "Cartref">
@@ -189,10 +196,10 @@
 <!ENTITY pref_donottrack_title "Dim tracio">
 <!ENTITY pref_donottrack_summary "Bydd &brandShortName; yn dweud wrth wefannau nad ydych am gael eich tracio">
 
-<!ENTITY tab_queue_toast_message2 "Tabiau mewn ciw yn &brandShortName;">
+<!ENTITY tab_queue_toast_message3 "Tabiau gadwyd yn &brandShortName;">
 <!ENTITY tab_queue_toast_action "Agor nawr">
 <!ENTITY tab_queue_prompt_title "Agor dolenni lluosog?">
-<!ENTITY tab_queue_prompt_text2 "Agorwch nhw heb newid i &brandShortName; bob tro.">
+<!ENTITY tab_queue_prompt_text3 "Eu cadw nes y tro nesaf i chi agor &brandShortName;">
 <!ENTITY tab_queue_prompt_tip_text "gallwch newid hyn yn y Gosodiadau">
 <!ENTITY tab_queue_prompt_positive_action_button "Galluogwyd">
 <!ENTITY tab_queue_prompt_negative_action_button "Nid nawr">
@@ -222,7 +229,7 @@
 <!ENTITY pref_reflow_on_zoom4 "Ail-lifo testun">
 <!ENTITY pref_restore "Tabiau">
 <!ENTITY pref_restore_always "Adfer bob tro">
-<!ENTITY pref_restore_quit "Peidio adfer ar ôl gadael &brandShortName;">
+<!ENTITY pref_restore_quit "Peidio eu hadfer ar ôl gadael &brandShortName;">
 <!ENTITY pref_font_size_tiny "Bach Iawn">
 <!ENTITY pref_font_size_small "Bach">
 <!ENTITY pref_font_size_medium "Canolig">
@@ -244,10 +251,14 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled_summary "Rheoli os yw gwefannau yn awtochwarae fideos neu gynnwys cyfrwng arall">
 <!ENTITY pref_zoom_force_enabled "Galluogi chwyno bob tro">
 <!ENTITY pref_zoom_force_enabled_summary "Gorfodi gwrthwneud er mwyn gallu chwyddo unrhyw dudalen">
+<!ENTITY pref_voice_input "Mewnbwn llais">
+<!ENTITY pref_voice_input_summary "Caniatáu llefaru yn y bar teitl">
+<!ENTITY pref_qrcode_enabled "Darllenydd cod QR">
+<!ENTITY pref_qrcode_enabled_summary "Caniatáu\u0027r sganiwr QR yn y bar teitl">
 
 <!ENTITY pref_use_master_password "Defnyddio prif gyfrinair">
 <!ENTITY pref_sync "Sync">
-<!ENTITY pref_sync_summary "Cydweddu eich tabiau, nodau tudalen, cyfrineiriau, hanes">
+<!ENTITY pref_sync_summary2 "Cydweddu eich tabiau, nodau tudalen, mewngofnodion, hanes">
 <!ENTITY pref_search_suggestions "Dangos awgrymiadau chwilio">
 <!ENTITY pref_import_android "Mewnforio o Android">
 <!ENTITY pref_import_android_summary "Mewnforio nodau tudalen a hanes o\u0027r porwr cynhenid">
@@ -255,11 +266,12 @@ size. -->
 <!ENTITY pref_private_data_searchHistory "Hanes chwilio">
 <!ENTITY pref_private_data_formdata2 "Hanes ffurflen">
 <!ENTITY pref_private_data_cookies2 "Cwcis a mewngofnodi gweithredol">
-<!ENTITY pref_private_data_passwords "Cyfrineiriau a gadwyd">
+<!ENTITY pref_private_data_passwords2 "Mewngofnodion wedi eu cadw">
 <!ENTITY pref_private_data_cache "Storfa">
 <!ENTITY pref_private_data_offlineApps "Data gwefan all-lein">
 <!ENTITY pref_private_data_siteSettings2 "Gosodiadau gwefan">
 <!ENTITY pref_private_data_downloadFiles2 "Llwythi">
+<!ENTITY pref_private_data_syncedTabs "Tabiau wedi eu cydweddu">
 
 
 <!ENTITY pref_about_firefox "Ynghylch &brandShortName;">
@@ -306,7 +318,7 @@ size. -->
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
 <!ENTITY pref_update_autodownload2 "Llwytho ddiweddariadau i lawr yn awtomatig">
-<!ENTITY pref_update_autodownload_wifi "Dim ond dros diwyfr">
+<!ENTITY pref_update_autodownload_wifi "Dim ond ar ddiwyfr">
 <!ENTITY pref_update_autodownload_never "Byth">
 <!ENTITY pref_update_autodownload_always "Bob tro">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
@@ -379,6 +391,11 @@ size. -->
 <!ENTITY doorhanger_login_edit_password_hint "Cyfrinair">
 <!ENTITY doorhanger_login_edit_toggle "Dangos cyfrinair">
 <!ENTITY doorhanger_login_edit_toast_error "Methu cadw\u0027r mewngofnd">
+<!ENTITY doorhanger_login_select_message "Copïo cyfrinair o &formatS;?">
+<!ENTITY doorhanger_login_select_toast_copy "Copïo\u0027r cyfrinair i\u0027r clipfwrdd">
+<!ENTITY doorhanger_login_select_toast_copy_error "Methu copïo\u0027r cyfrinair">
+<!ENTITY doorhanger_login_select_action_text "Dewis mewngofnod arall">
+<!ENTITY doorhanger_login_select_title "Copïo cyfrinair o">
 
 <!ENTITY pref_titlebar_mode "Bar teitl">
 <!ENTITY pref_titlebar_mode_title "Dangos teitl tudalen">
@@ -390,7 +407,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "Cuddio bar teitl &brandShortName; wrth sgrolio lawr tudalen">
 
 <!ENTITY pref_tab_queue_title2 "Agor dolenni lluosog">
-<!ENTITY pref_tab_queue_summary2 "Rhowch y doleni mewn ciw yn lle newid i &brandShortName; bob tro">
+<!ENTITY pref_tab_queue_summary3 "Eu cadw tan y tro nesaf i chi agor &brandShortName;">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -408,8 +425,10 @@ size. -->
 <!ENTITY site_settings_cancel       "Diddymu">
 <!ENTITY site_settings_clear        "Clirio">
 <!ENTITY site_settings_no_settings  "Does dim gosodiadau i’w clirio.">
+<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+     as possible. -->
 
-<!ENTITY reading_list_added "Tudalen wedi ei hychwanegu at eich Rhestr Ddarllen">
+<!ENTITY reading_list_added2 "Ychwanegwyd i\u0027r rhestr">
 <!ENTITY reading_list_removed "Tudalen wedi ei thynnu o\u0027ch Rhestr Ddarllen">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -438,7 +457,7 @@ size. -->
 <!ENTITY button_clear_data "Clirio data">
 <!ENTITY button_set "Gosod">
 <!ENTITY button_clear "Clirio">
-<!ENTITY button_remember "Cofio">
+<!ENTITY button_copy "Torri">
 
 <!ENTITY firstrun_panel_title_welcome "Croeso">
 
@@ -502,10 +521,6 @@ size. -->
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Datguddio dyfeisiau penodol">
 
-<!ENTITY private_browsing_title "Pori Preifat">
-<!ENTITY private_tabs_panel_empty_desc "Bydd eich tabiau preifat yn ymddangos yn fan hyn. Tra nad ydym yn cadw dim o\u0027ch hanes pori na chwcis, bydd nodau tudalen a ffeiliau y byddwch yn eu llwytho i lawr yn cael eu cadw ar eich dyfais.">
-<!ENTITY private_tabs_panel_learn_more "Eisiau gwybod mwy?">
-
 <!ENTITY remote_tabs_panel_moved_title "Lle aeth fy nhabiau?">
 <!ENTITY remote_tabs_panel_moved_desc "Rydym wedi symud eich tabiau o ddyfeisiau eraill i banel ar eich sgrin gartref sy\u0027n hawdd cael ato bob tro fyddwch yn agor tab newydd.">
 <!ENTITY remote_tabs_panel_moved_link "Cymrwch fi i fy mhanel newydd.">
@@ -533,6 +548,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "sy\u0027n cael ei redeg gan">
 <!ENTITY identity_no_info "Nid yw\u0027r wefan yn darparu gwybodaeth hunaniaeth.">
 <!ENTITY identity_not_encrypted "Nid yw eich cysylltiad â\u0027r wefan hon wedi ei hamgryptio.">
+<!ENTITY identity_encrypted "Amgryptiwyd">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "Mae\u0027r dudalen yn dangos cynnwys nad yw\u0027n ddiogel.">
@@ -599,7 +615,7 @@ o Android">
 <!ENTITY guest_session_dialog_continue "Parhau">
 <!ENTITY guest_session_dialog_cancel "Diddymu">
 <!ENTITY new_guest_session_title "Bydd &brandShortName; nawr yn ailgychwyn">
-<!ENTITY new_guest_session_text "Ni fydd y person sy\u0027n ei ddefnyddio yn gallu gweld dim o\u0027ch data pori personol ( cyfrineiriau, hanes na nodau tudalen).\n\nPan fydd eich gwestai wedi gorffen, bydd eu data pori\u0027n cael ei ddileu a\u0027ch sesiwn chi\u0027n cael ei hadfer.">
+<!ENTITY new_guest_session_text2 "Ni fydd y person sy\u0027n ei ddefnyddio yn gallu gweld dim o\u0027ch data pori personol ( cyfrineiriau, hanes na nodau tudalen).\n\nPan fydd eich gwestai wedi gorffen, bydd eu data pori\u0027n cael ei ddileu a\u0027ch sesiwn chi\u0027n cael ei hadfer.">
 <!ENTITY guest_browsing_notification_title "Mae pori gwestai wedi ei alluogi">
 <!ENTITY guest_browsing_notification_text "Tapio i adael">
 
@@ -648,3 +664,5 @@ o Android">
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
 
 <!ENTITY find_matchcase "Aa">
+
+<!ENTITY intent_uri_cannot_open "Methu agor dolen">

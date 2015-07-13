@@ -10,3 +10,6 @@
 <!ENTITY addonAction.disable                    "Atal">
 <!ENTITY addonAction.uninstall                  "Dadosod">
 <!ENTITY addonAction.undo                       "Dadwneud">
+
+<!ENTITY addonUnsigned.message                  "Nid oedd modd i &brandShortName; ddilysu'r ychwanegyn hwn.">
+<!ENTITY addonUnsigned.learnMore                "Dysgu rhagor">

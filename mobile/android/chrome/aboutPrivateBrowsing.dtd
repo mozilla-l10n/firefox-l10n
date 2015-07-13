@@ -2,12 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                  "Pori Preifat">
+<!ENTITY privatebrowsingpage.title "Pori Preifat">
+<!ENTITY privatebrowsingpage.title.normal "Nid ydych yn pori'n breifat">
 
-<!ENTITY privatebrowsingpage.issueDesc.private      "Rydych wedi agor tab preifat newydd.">
-<!ENTITY privatebrowsingpage.issueDesc.normal       "Nid ydych mewn tab preifat.">
+<!ENTITY privatebrowsingpage.issueDesc.normal2 "Yn pori preifat, byddwn ni ddim yn cadw unrhyw rhan o'ch hanes pori na chwcis.">
+<!ENTITY privatebrowsingpage.issueDesc.private2 "Fyddwn ni ddim y cadw dim o'ch hanes pori na'ch cwcis.">
 
-<!ENTITY privatebrowsingpage.description            "Yn ystod sesiwn Pori Preifat ni fydd &brandShortName; yn cadw unrhyw hanes pori, hanes chwilio, hanes llwytho i lawr, hanes ffurflenni gwe, cwcis neu ffeiliau gwe dros dro. Er hynny, bydd ffeiliau sydd wedi eu llwytho i lawr a nodau tudalen yn cael eu cadw.">
-<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+<!ENTITY privatebrowsingpage.description2 "Bydd nodau tudalen rydych yn ei hychwanegu a ffeiliau rydych y eu llwytho i lawr yn cael eu cadw ar eich dyfais.">
+<!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
+<!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
 
-<!ENTITY privatebrowsingpage.moreInfo               "Tra na fydd gan y cyfrifiadur hwn gofnod o'ch hanes pori, bydd eich darparwr gwasanaeth rhyngrwyd a chyflogwr yn gallu tracio'r tudalennau fuoch iddynt.">
+<!ENTITY privatebrowsingpage.link.private "Eisiau gwybod mwy?">
+<!ENTITY privatebrowsingpage.link.normal "Agor mewn tab preifat newydd">
