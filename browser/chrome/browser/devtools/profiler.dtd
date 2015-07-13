@@ -129,18 +129,20 @@
 
 <!ENTITY profilerUI.enableMemory             "ಮೆಮೊರಿ ಮುದ್ರಿಸಿ">
 <!ENTITY profilerUI.enableMemory.tooltiptext "ಮೆಮರಿಯ ಬಳಕೆಯನ್ನು ಪ್ರೊಫೈಲ್ ಮಾಡುವಾಗ ಮುದ್ರಿಸಿಕೊಳ್ಳಿ.">
+<!-- LOCALIZATION NOTE (profilerUI.enableAllocations): This string
+  -  is displayed next to a checkbox determining whether or not allocation
+  -  measurements are enabled. -->
+
 <!-- LOCALIZATION NOTE (profilerUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
 
 <!ENTITY profilerUI.enableFramerate             "ಫ್ರೇಮ್‌ರೇಟ್ ಮುದ್ರಿಸು">
 <!ENTITY profilerUI.enableFramerate.tooltiptext "ಪ್ರೊಫೈಲ್ ಮಾಡುವಾಗ ಫ್ರೇಮ್‌ರೇಟ್ ಮುದ್ರಿಸಿಕೊಳ್ಳಿ.">
-<!-- LOCALIZATION NOTE (profilerUI.showJITOptimizations): This string
+<!-- LOCALIZATION NOTE (profilerUI.enableJITOptimizations): This string
   -  is displayed next to a checkbox determining whether or not JIT optimization data
-  -  should be shown. -->
+  -  should be recorded. -->
 
-<!ENTITY profilerUI.showJITOptimizations             "JIT ಆಪ್ಟಿಮೈಸೇಷನ್ ಅನ್ನು ತೋರಿ">
-<!ENTITY profilerUI.showJITOptimizations.tooltiptext "JS ಕರೆಯ ಮರದ ಪ್ರತಿ ಫ್ರೇಮ್‌ನಿಂದ JIT ಉತ್ತಮಗೊಳಿಸುವಿಕೆಯ ಡೇಟಾ ಮಾದರಿಯನ್ನು ತೋರಿಸು.">
 <!-- LOCALIZATION NOTE (profilerUI.JITOptimizationsTitle): This string
   -  is displayed as the title of the JIT Optimizations panel. -->
 
