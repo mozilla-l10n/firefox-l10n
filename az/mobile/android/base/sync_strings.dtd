@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label "Sinxronlaşdırılacaq hissələr">
 <!ENTITY sync.configure.engines.sync.my.title.label "Aşağıdakıları sinxronlaşdır:">
 <!ENTITY sync.configure.engines.title.bookmarks "Əlfəcinlər">
-<!ENTITY sync.configure.engines.title.passwords "Şifrələr">
+<!ENTITY sync.configure.engines.title.passwords2 "Daxil olmalar">
 <!ENTITY sync.configure.engines.title.history "Tarixçə">
 <!ENTITY sync.configure.engines.title.tabs "Vərəqlər">
 <!-- Common text -->
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "Məxfilik Bildirişi">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label;-ə xoş gəldiniz">
-<!ENTITY fxaccount_getting_started_description "Vərəq, əlfəcin, şifrə və daha bir çox məlumatınızı sinxronlaşdırmaq üçün daxil olun.">
+
 <!ENTITY fxaccount_getting_started_get_started "Başla">
 <!ENTITY fxaccount_getting_started_old_firefox "Köhnə &syncBrand.shortName.label; işlədirsiz?">
 <!-- Localization note: the Firefox below should not change with the
@@ -212,7 +212,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating "Yeni Firefox Hesabınıza daxil olmaq üçün toxunun.">
 <!ENTITY fxaccount_status_bookmarks "Əlfəcinlər">
 <!ENTITY fxaccount_status_history "Tarixçə">
-<!ENTITY fxaccount_status_passwords "Şifrələr">
+<!ENTITY fxaccount_status_passwords2 "Daxil olmalar">
 <!ENTITY fxaccount_status_tabs "Açıq vərəqlər">
 <!ENTITY fxaccount_status_legal "Qanuni" >
 <!-- Localization note: when tapped, the following two strings link to

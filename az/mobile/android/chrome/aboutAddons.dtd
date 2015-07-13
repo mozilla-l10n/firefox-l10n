@@ -10,3 +10,6 @@
 <!ENTITY addonAction.disable                    "Söndür">
 <!ENTITY addonAction.uninstall                  "Sil">
 <!ENTITY addonAction.undo                       "Geri al">
+
+<!ENTITY addonUnsigned.message                  "Bu əlavə &brandShortName; tərəfindən təsdiqlənə bilmir.">
+<!ENTITY addonUnsigned.learnMore                "Ətraflı öyrən">

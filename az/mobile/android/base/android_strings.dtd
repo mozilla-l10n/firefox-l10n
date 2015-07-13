@@ -44,6 +44,10 @@
 <!ENTITY bookmark "Əlfəcin">
 <!ENTITY bookmark_remove "Əlfəcini sil">
 <!ENTITY bookmark_added "Əlfəcin əlavə olundu">
+<!-- Localization note (bookmark_already_added) : This string is
+     used as a label in a toast. It is the verb "to bookmark", not
+     the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "Artıq əlfəcinlərdədir">
 <!ENTITY bookmark_removed "Əlfəcin silindi">
 <!ENTITY bookmark_updated "Əlfəcin yeniləndi">
 <!ENTITY bookmark_options "Seçimlər">
@@ -77,6 +81,7 @@
 
 <!ENTITY settings "Tənzimləmələr">
 <!ENTITY settings_title "Tənzimləmələr">
+<!ENTITY pref_category_input_options "Giriş seçimləri">
 <!ENTITY pref_category_advanced "Təkmilləşmiş">
 <!ENTITY pref_category_customize "Fərdiləşdir">
 <!ENTITY pref_category_customize_summary "Ev, axtarış, vərəqlər, idxal etmə">
@@ -132,7 +137,7 @@
 <!ENTITY pref_category_display "Görünüş">
 <!ENTITY pref_category_display_summary "Mətn, başlıq sətri, tam ekranda səyahət">
 <!ENTITY pref_category_privacy_short "Məxfilik">
-<!ENTITY pref_category_privacy_summary "Şifrələri, çərəzləri, izləməni, məlumatları idarə et">
+<!ENTITY pref_category_privacy_summary2 "Daxil olmaları, çərəzləri, izləməni, məlumatları idarə et">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "&brandShortName; haqqında, ÇSS, məlumat seçimləri">
 <!ENTITY pref_category_datareporting "Məlumat seçimi">
@@ -151,7 +156,9 @@
 <!ENTITY pref_category_devtools "Tərtibatçı alətləri">
 <!ENTITY pref_developer_remotedebugging "Uzaqdan sazlama">
 <!ENTITY pref_category_logins "Hesablar">
-<!ENTITY pref_remember_signons "Şifrəni xatırla">
+<!ENTITY pref_remember_signons2 "Daxil olmaları yadda saxla">
+<!ENTITY pref_open_external_urls_privately_title "Keçidləri Məxfi səyahətdə aç">
+<!ENTITY pref_open_external_urls_privately_summary "&brandShortName; səyyahında açılmış bütün keçidlər üçün">
 <!ENTITY pref_manage_logins "Hesabları idarə et">
 
 <!ENTITY pref_category_home "Başlanğıc">
@@ -189,10 +196,10 @@
 <!ENTITY pref_donottrack_title "Məni izləmə">
 <!ENTITY pref_donottrack_summary "&brandShortName; saytlara izlənmək istəmədiyinizi xəbər edəcək">
 
-<!ENTITY tab_queue_toast_message2 "Vərəq &brandShortName; səyyahında sıraya əlavə edildi">
+<!ENTITY tab_queue_toast_message3 "&brandShortName; səyyahında saxlanmış vərəq">
 <!ENTITY tab_queue_toast_action "İndi aç">
 <!ENTITY tab_queue_prompt_title "Çoxlu keçid açırsız?">
-<!ENTITY tab_queue_prompt_text2 "Onları hər dəfə &brandShortName; səyyahına keçmədən açın.">
+<!ENTITY tab_queue_prompt_text3 "Onları &brandShortName; səyyahını bir sonraki dəfə açana qədər yadda saxla">
 <!ENTITY tab_queue_prompt_tip_text "bunu daha sonra Seçimlərdən dəyişə bilərsiz">
 <!ENTITY tab_queue_prompt_positive_action_button "Aktiv et">
 <!ENTITY tab_queue_prompt_negative_action_button "Daha sonra">
@@ -244,10 +251,14 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled_summary "Səhifələrin video və digər media məzmunlarını avtomatik oxudub oxutmayacaqlarını idarə et">
 <!ENTITY pref_zoom_force_enabled "Yaxınlaşdırmanı həmişə aktiv saxla">
 <!ENTITY pref_zoom_force_enabled_summary "Zorla üzərinə yaz ki, hər səhifəni yaxınlaşdırmaq mümkün olsun">
+<!ENTITY pref_voice_input "Səs girişi">
+<!ENTITY pref_voice_input_summary "Başlıq sətrində səs diksiyasına icazə ver">
+<!ENTITY pref_qrcode_enabled "QR kod oxuyucu">
+<!ENTITY pref_qrcode_enabled_summary "Başlıq sətrində QR oxuyucuya icazə ver">
 
 <!ENTITY pref_use_master_password "Ana şifrədən istifadə et">
 <!ENTITY pref_sync "Sync">
-<!ENTITY pref_sync_summary "Vərəqlərinizi, əlfəcinlərinizi, şifrələrinizi, tarixçənizi sinxronlaşdırın">
+<!ENTITY pref_sync_summary2 "Vərəqlərinizi, əlfəcinlərinizi, daxil olmaları, tarixçənizi sinxronlaşdırın">
 <!ENTITY pref_search_suggestions "Axtarış təkliflərini göstər">
 <!ENTITY pref_import_android "Android-dən daxil et">
 <!ENTITY pref_import_android_summary "Əlfəcinləri və tarixçəni əsas səyyahdan daxil et">
@@ -255,11 +266,12 @@ size. -->
 <!ENTITY pref_private_data_searchHistory "Axtarış tarixçəsi">
 <!ENTITY pref_private_data_formdata2 "Forma tarixçəsi">
 <!ENTITY pref_private_data_cookies2 "Çərəzlər və aktiv ziyarətlər">
-<!ENTITY pref_private_data_passwords "Saxlanılmış şifrələr">
+<!ENTITY pref_private_data_passwords2 "Yadda saxlanmış daxil olmalar">
 <!ENTITY pref_private_data_cache "Keş">
 <!ENTITY pref_private_data_offlineApps "Offline sayt məlumatları">
 <!ENTITY pref_private_data_siteSettings2 "Sayt tənzimləmələri">
 <!ENTITY pref_private_data_downloadFiles2 "Endirilənlər">
+<!ENTITY pref_private_data_syncedTabs "Sinxronlaşdırılmış vərəqlər">
 
 
 <!ENTITY pref_about_firefox "&brandShortName; haqqında">
@@ -379,6 +391,11 @@ size. -->
 <!ENTITY doorhanger_login_edit_password_hint "Şifrə">
 <!ENTITY doorhanger_login_edit_toggle "Şifrəni göstər">
 <!ENTITY doorhanger_login_edit_toast_error "Daxil olmanı yadda saxlamada xəta oldu">
+<!ENTITY doorhanger_login_select_message "&formatS; üzərindən şifrə köçürülsün?">
+<!ENTITY doorhanger_login_select_toast_copy "Şifrə mübadilə buferinə köçürüldü">
+<!ENTITY doorhanger_login_select_toast_copy_error "Şifrə köçürülə bilmədi">
+<!ENTITY doorhanger_login_select_action_text "Başqa daxil olma seçin">
+<!ENTITY doorhanger_login_select_title "Şifrə köçür:">
 
 <!ENTITY pref_titlebar_mode "Başlıq sətri">
 <!ENTITY pref_titlebar_mode_title "Səhifə başlığını göstər">
@@ -390,7 +407,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "Səhifəni aşağı sürüşdürərkən &brandShortName; başlıq sətrini gizlət">
 
 <!ENTITY pref_tab_queue_title2 "Çoxlu keçid aç">
-<!ENTITY pref_tab_queue_summary2 "Hər dəfə &brandShortName; səyyahına keçmək yerinə keçidləri sıraya əlavə edin">
+<!ENTITY pref_tab_queue_summary3 "Onları &brandShortName; səyyahını daha sonra açana qədər yadda saxla">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -408,8 +425,10 @@ size. -->
 <!ENTITY site_settings_cancel       "Ləğv et">
 <!ENTITY site_settings_clear        "Təmizlə">
 <!ENTITY site_settings_no_settings  "Silinəcək tənzimləmə yoxdur.">
+<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+     as possible. -->
 
-<!ENTITY reading_list_added "Səhifə Oxuma Siyahınıza əlavə edildi">
+<!ENTITY reading_list_added2 "Siyahıya əlavə edildi">
 <!ENTITY reading_list_removed "Səhifə Oxuma Siyahınızdan silindi">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -438,7 +457,7 @@ size. -->
 <!ENTITY button_clear_data "Məlumatları təmizlə">
 <!ENTITY button_set "Qur">
 <!ENTITY button_clear "Təmizlə">
-<!ENTITY button_remember "Yadda saxla">
+<!ENTITY button_copy "Kopyala">
 
 <!ENTITY firstrun_panel_title_welcome "Xoş Gəldiniz">
 
@@ -502,10 +521,6 @@ size. -->
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Seçilən cihazları göstər">
 
-<!ENTITY private_browsing_title "Gizli baxış">
-<!ENTITY private_tabs_panel_empty_desc "Məxvi vərəqləriniz burada göstəriləcək. Biz səyahət tarixçənizi və çərəzlərinizi yadda saxlamasaq da, əlfəcin və endirilən fayllarınız cihazın yadında qalacaq.">
-<!ENTITY private_tabs_panel_learn_more "Ətraflı öyrənmək istərdiniz?">
-
 <!ENTITY remote_tabs_panel_moved_title "Vərəqlərim hara gedib?">
 <!ENTITY remote_tabs_panel_moved_desc "Digər cihazlarınızdan olan vərəqləri hər vərəq açdığınızda rahat istifadə edə biləsiniz deyə ana səhifədə xüsusi bölümə keçirtdik.">
 <!ENTITY remote_tabs_panel_moved_link "Məni yeni panelimə götür.">
@@ -533,6 +548,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "İşlədən:">
 <!ENTITY identity_no_info "Bu saytın kimlik məlumatı yoxdur.">
 <!ENTITY identity_not_encrypted "Bu saytla aranızdakı bağlantı şifrələnməyib.">
+<!ENTITY identity_encrypted "Şifrələnmiş">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "Bu səhifə təhlükəsizliyi olmayan məzmun göstərir.">
@@ -599,7 +615,7 @@ idxal edilir">
 <!ENTITY guest_session_dialog_continue "İrəli">
 <!ENTITY guest_session_dialog_cancel "Ləğv et">
 <!ENTITY new_guest_session_title "&brandShortName; indi yenidən başlayacaq">
-<!ENTITY new_guest_session_text "Bunu işlədən istifadəçi sizin şəxsi məlumatlarınızı (saxlanmış şifrələr, tarixçə və əlfəcinlər kimi) görə bilməyəcək.\n\nQonağınızın işi bitdikdən sonra səyahət məlumatları silinəcək və sizin sessiya bərpa olacaq.">
+
 <!ENTITY guest_browsing_notification_title "Qonaq səyahəti aktivdir">
 <!ENTITY guest_browsing_notification_text "Çıxmaq üçün toxunun">
 
@@ -648,3 +664,5 @@ idxal edilir">
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
 
 <!ENTITY find_matchcase "Aa">
+
+<!ENTITY intent_uri_cannot_open "Keçid açıla bilmir">

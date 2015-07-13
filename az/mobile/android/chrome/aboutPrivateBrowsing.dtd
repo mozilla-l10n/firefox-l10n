@@ -2,12 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                  "Gizli baxış">
+<!ENTITY privatebrowsingpage.title "Gizli baxış">
+<!ENTITY privatebrowsingpage.title.normal "Məxfi səyahətdə deyilsiniz">
 
-<!ENTITY privatebrowsingpage.issueDesc.private      "Yeni məxfi vərəq açdınız.">
-<!ENTITY privatebrowsingpage.issueDesc.normal       "Məxfi vərəqdə deyilsiniz.">
+<!ENTITY privatebrowsingpage.issueDesc.normal2 "Məxfi səyahətdə biz heç bir səyahət tarixçəsi və ya çərəz tutmuruq.">
 
-<!ENTITY privatebrowsingpage.description            "Məxfi vərəqlərdə &brandShortName; heç bir səyahət tarixçəsi, axtarış tarixçəsi, endirmə tarixçəsi, forma tarixçəsi, çərəzləri və müvəqqəti internet fayllarını qeyd etməyəcək. Amma, endirdiyiniz fayllar və əlfəcinlər saxlanacaq.">
-<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
 
-<!ENTITY privatebrowsingpage.moreInfo               "Bu cihaz səyahət tarixçənizi saxlamasa belə sizin internet provayderiniz yenə də səyahət etdiyiniz səhifələri izləyə bilər.">
+<!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
+<!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
+
+<!ENTITY privatebrowsingpage.link.private "Ətraflı öyrənmək istərdiniz?">
+<!ENTITY privatebrowsingpage.link.normal "Yeni məxfi vərəq aç">
