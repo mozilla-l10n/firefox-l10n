@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label "ಏನನ್ನು ಸಿಂಕ್ ಮಾಡಬೇಕು">
 <!ENTITY sync.configure.engines.sync.my.title.label "ಸಿಂಕ್ ಮಾಡಿ…">
 <!ENTITY sync.configure.engines.title.bookmarks "ಪುಟಗುರುತುಗಳು">
-<!ENTITY sync.configure.engines.title.passwords "ಗುಪ್ತಪದಗಳು">
+
 <!ENTITY sync.configure.engines.title.history "ಇತಿಹಾಸ">
 <!ENTITY sync.configure.engines.title.tabs "ಹಾಳೆಗಳು">
 <!-- Common text -->
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "ಗೌಪ್ಯತಾ ನಿಯಮ">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label; ಗೆ ಸ್ವಾಗತ">
-<!ENTITY fxaccount_getting_started_description "ನಿಮ್ಮ ಟ್ಯಾಬ್ ಗಳು, ಪುಟಗುರುತುಗಳು, ಪ್ರವೇಶಪದಗಳು &amp; ಇನ್ನಷ್ಟನ್ನು ಸಿಂಕ್ ಮಾಡಲು ಪ್ರವೇಶಿಸಿ.">
+
 <!ENTITY fxaccount_getting_started_get_started "ಪ್ರಾರಂಭಿಸಿರಿ">
 <!ENTITY fxaccount_getting_started_old_firefox "&syncBrand.shortName.label; ನ ಹಳೆಯ ಆವೃತ್ತಿ ಬಳಸುತ್ತಿರುವಿರಾ?">
 <!-- Localization note: the Firefox below should not change with the
@@ -212,7 +212,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating "ನಿಮ್ಮ ಹೊಸ Firefox ಖಾತೆಗೆ ಸೈನ್‌ಇನ್ ಆಗಲು ಮೆಲ್ಲಗೆ ತಟ್ಟಿ.">
 <!ENTITY fxaccount_status_bookmarks "ಪುಟಗುರುತುಗಳು">
 <!ENTITY fxaccount_status_history "ಇತಿಹಾಸ">
-<!ENTITY fxaccount_status_passwords "ಗುಪ್ತಪದಗಳು">
+
 <!ENTITY fxaccount_status_tabs "ತೆರೆದ ಹಾಳೆಗಳು">
 <!ENTITY fxaccount_status_legal "ಕಾನೂನು" >
 <!-- Localization note: when tapped, the following two strings link to

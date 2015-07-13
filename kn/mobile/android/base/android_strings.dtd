@@ -44,6 +44,9 @@
 <!ENTITY bookmark "ಪುಟ ಗುರುತು">
 <!ENTITY bookmark_remove "ಪುಟ ಗುರುತು ತೆಗೆ">
 <!ENTITY bookmark_added "ಬುಕ್ ಮಾರ್ಕ್ ಸೇರಿಸಲಾಗಿದೆ">
+<!-- Localization note (bookmark_already_added) : This string is
+     used as a label in a toast. It is the verb "to bookmark", not
+     the noun "a bookmark". -->
 <!ENTITY bookmark_removed "ಬುಕ್‌ಮಾರ್ಕನ್ನು ತೆಗೆಯಲಾಗಿದೆ">
 <!ENTITY bookmark_updated "ಬುಕ್‌ಮಾರ್ಕ್ ಪರಿಷ್ಕರಿಸಲಾಗಿದೆ">
 <!ENTITY bookmark_options "ಆಯ್ಕೆಗಳು">
@@ -77,6 +80,7 @@
 
 <!ENTITY settings "ಸಿದ್ಧತೆಗಳು">
 <!ENTITY settings_title "ಸಿದ್ಧತೆಗಳು">
+
 <!ENTITY pref_category_advanced "ಸುಧಾರಿತ">
 <!ENTITY pref_category_customize "ಇಚ್ಛೆಗೆ ತಕ್ಕಂತೆ ಬದಲಾಯಿಸು">
 <!ENTITY pref_category_customize_summary "ಮನೆ, ಹುಡುಕು, ಹಾಳೆಗಳು, ಆಮದುಮಾಡು">
@@ -104,7 +108,7 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "ಪುಟ ಗುರುತು">
 <!ENTITY overlay_share_reading_list_btn_label "ಒದು ಪಟ್ಟಿಗೆ ಸೇರಿಸಿ">
-<!ENTITY overlay_share_bookmark_btn_label_already "ಈಗಾಗಲೇ ಪುಟ ಗುರುತು ಹಾಕಲಾಗಿದೆ">
+
 <!ENTITY overlay_share_reading_list_btn_label_already "ಈಗಾಗಲೇ ಓದುತ್ತಿರುವ ಪಟ್ಟಿಯಲ್ಲಿದೆ">
 <!ENTITY overlay_share_send_other "ಇತರೆ ಸಾಧನಗಳಿಗೆ ಕಳುಹಿಸು">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -132,7 +136,7 @@
 <!ENTITY pref_category_display "ಪ್ರದರ್ಶಿಸು">
 <!ENTITY pref_category_display_summary "ಪಠ್ಯ, ಶೀರ್ಷಿಕೆ ಪಟ್ಟಿ, ಪೂರ್ಣ ಪರದೆ ಜಾಲಾಟ">
 <!ENTITY pref_category_privacy_short "ಗೌಪ್ಯತೆ">
-<!ENTITY pref_category_privacy_summary "ನಿಯಂತ್ರಣ ಪಾಸ್‌ವರ್ಡ್‌ಗಳು, ಕುಕೀಗಳು, ಜಾಡು ಇರಿಸುವಿಕೆ, ದತ್ತಾಂಶ">
+
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "&brandShortName;,FAQs, ಡೇಟಾ ಆಯ್ಕೆಗಳು ಬಗ್ಗೆ">
 <!ENTITY pref_category_datareporting "ದತ್ತಾಂಶ ಆಯ್ಕೆಗಳು">
@@ -151,7 +155,9 @@
 <!ENTITY pref_category_devtools "ವಿಕಸನಾ ಉಪಕರಣಗಳು">
 <!ENTITY pref_developer_remotedebugging "ರಿಮೋಟ್ ಡೀಬಗ್ಗಿಂಗ್">
 <!ENTITY pref_category_logins "ಲಾಗಿನ್‌ಗಳು">
-<!ENTITY pref_remember_signons "ಗುಪ್ತಪದವನ್ನು ನೆನಪಿಟ್ಟುಕೊ">
+
+
+
 <!ENTITY pref_manage_logins "ಲಾಗಿನ್‌ಗಳನ್ನು ನಿರ್ವಹಿಸಿ">
 
 <!ENTITY pref_category_home "ನೆಲೆ">
@@ -189,10 +195,9 @@
 <!ENTITY pref_donottrack_title "ಜಾಡು ಇರಿಸಬೇಡ">
 <!ENTITY pref_donottrack_summary "&brandShortName; ನಿಮ್ಮ ಜಾಡನ್ನು ಇರಿಸದಂತೆ ಜಾಲಗಳಿಗೆ ತಿಳಿಸುತ್ತದೆ">
 
-<!ENTITY tab_queue_toast_message2 "&brandShortName; ನಲ್ಲಿ ಹಾಳೆಗಳನ್ನು ಸಾಲುಗಟ್ಟಲಾಗಿದೆ">
 <!ENTITY tab_queue_toast_action "ಈಗ ತೆಗೆ">
 <!ENTITY tab_queue_prompt_title "ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ಕೊಂಡಿಗಳನ್ನು ತೆರೆಯುತ್ತಿದ್ದೀರಾ?">
-<!ENTITY tab_queue_prompt_text2 "ಪ್ರತಿ ಬಾರಿಯೂ &brandShortName; ಗೆ ಬದಲಾಯಿಸದೆ ಅವನ್ನು ತೆರೆಯಿರಿ.">
+
 <!ENTITY tab_queue_prompt_tip_text "ನೀವು ಇದನ್ನು ನಂತರ ಸಿದ್ದತೆಗಳಲ್ಲಿ ಬದಲಾಯಿಸಬಹುದು">
 <!ENTITY tab_queue_prompt_positive_action_button "ಸಕ್ರಿಯಗೊಳಿಸು">
 <!ENTITY tab_queue_prompt_negative_action_button "ಈಗ ಬೇಡ">
@@ -245,9 +250,13 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "ಜೂಮ್‌ ಅನ್ನು ಯಾವಾಗಲೂ ಸಕ್ರಿಯವಾಗಿರಿಸು">
 <!ENTITY pref_zoom_force_enabled_summary "ಯಾವುದೇ ಪುಟವನ್ನು ಜೂಮ್ ಮಾಡುವಂತಾಗಲು ಆದೇಶವನ್ನು ದಾಟಿ">
 
+
+
+
+
 <!ENTITY pref_use_master_password "ಮುಖ್ಯ ಗುಪ್ತಪದವನ್ನು ಬಳಸು">
 <!ENTITY pref_sync "ಸಿಂಕ್">
-<!ENTITY pref_sync_summary "ನಿಮ್ಮ ಹಾಳೆಗಳು, ಪುಟಗುರುತುಗಳು, ಪ್ರವೇಶ ಪದಗಳು, ಇತಿಹಾಸ ಸಿಂಕ್ ಮಾಡಿ">
+
 <!ENTITY pref_search_suggestions "ಹುಡುಕಲು ಸಲಹೆಗಳನ್ನು ತೋರಿಸು">
 <!ENTITY pref_import_android "ಆಂಡ್ರಾಯ್ಡ್‌ನಿಂದ ಆಮದುಮಾಡು">
 <!ENTITY pref_import_android_summary "ಸ್ಥಳೀಯ ಬ್ರೌಸರ್‌ನಿಂದ ಪುಟಗುರುತುಗಳು ಮತ್ತು ಇತಿಹಾಸವನ್ನು ಆಮದುಮಾಡು">
@@ -255,11 +264,12 @@ size. -->
 <!ENTITY pref_private_data_searchHistory "ಇತಿಹಾಸವನ್ನು ಹುಡುಕು">
 <!ENTITY pref_private_data_formdata2 "ಇತಿಹಾಸದಿಂದ">
 <!ENTITY pref_private_data_cookies2 "ಕುಕೀಗಳು &amp; ಸಕ್ರಿಯ ಖಾತೆಗೆಳು">
-<!ENTITY pref_private_data_passwords "ಉಳಿಸಲಾದ ಗುಪ್ತಪದಗಳು">
+
 <!ENTITY pref_private_data_cache "ಶೀಘ್ರ ಸ್ಮೃತಿಕೋಶ">
 <!ENTITY pref_private_data_offlineApps "ಆಫ್‌ಲೈನ್‌ ಜಾಲತಾಣದ ದತ್ತಾಂಶ">
 <!ENTITY pref_private_data_siteSettings2 "ತಾಣದ ಸಿದ್ಧತೆಗಳು">
 <!ENTITY pref_private_data_downloadFiles2 "ಇಳಿಕೆಗಳು">
+
 
 
 <!ENTITY pref_about_firefox "&brandShortName; ಬಗ್ಗೆ">
@@ -380,6 +390,11 @@ size. -->
 <!ENTITY doorhanger_login_edit_toggle "ಪ್ರವೇಶ ಪದಗಳನ್ನು ತೋರಿಸು">
 <!ENTITY doorhanger_login_edit_toast_error "ಒಳಗೆ ಪ್ರವೇಶಿಸಲು ವಿಫಲವಾಗಿದೆ">
 
+
+
+
+
+
 <!ENTITY pref_titlebar_mode "ಶೀರ್ಷಿಕೆ ಪಟ್ಟಿ">
 <!ENTITY pref_titlebar_mode_title "ಪುಟದ ಶೀರ್ಷಿಕೆ ತೋರಿಸು">
 <!ENTITY pref_titlebar_mode_url "ಪುಟದ ವಿಳಾಸ ತೋರಿಸು">
@@ -390,7 +405,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "&brandShortName; ನ ಟೈಟಲ್ ಬಾರನ್ನು ಪುಟವೊಂದರಲ್ಲಿ ಸ್ಕ್ರಾಲ್ ಮಾಡುವಾಗ ಅಡಗಿಸು">
 
 <!ENTITY pref_tab_queue_title2 "ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ಕೊಂಡಿಗಳನ್ನು ತೆರೆ">
-<!ENTITY pref_tab_queue_summary2 "ಪ್ರತಿಸಲ &brandShortName;ಗೆ ಬದಲಾಯಿಸುವುದರ ಬದಲು ಆಮೇಲೆ ಬಳಸಲು ಕೊಂಡಿಗಳನ್ನು ಸಾಲುಗಟ್ಟಿ">
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -408,8 +423,8 @@ size. -->
 <!ENTITY site_settings_cancel       "ರದ್ದು ಮಾಡು">
 <!ENTITY site_settings_clear        "ಅಳಿಸು">
 <!ENTITY site_settings_no_settings  "ಅಳಿಸಲು ಯಾವುದೇ ಸಿದ್ಧತೆಗಳಿಲ್ಲ.">
-
-<!ENTITY reading_list_added "ನಿಮ್ಮ ಓದುಪಟ್ಟಿಗೆ ಪುಟವನ್ನು ಸೇರಿಸಲಾಗಿದೆ">
+<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+     as possible. -->
 <!ENTITY reading_list_removed "ನಿಮ್ಮ ಓದು ಪಟ್ಟಿಯಿಂದ ಪುಟವನ್ನು ತೆಗೆದುಹಾಕಲಾಗಿದೆ">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -438,7 +453,7 @@ size. -->
 <!ENTITY button_clear_data "ದತ್ತಾಂಶ ಬರಿದುಮಾಡು">
 <!ENTITY button_set "ನಿಶ್ಚಯಿಸು">
 <!ENTITY button_clear "ಅಳಿಸು">
-<!ENTITY button_remember "ನೆನಪಿನಲ್ಲಿಡು">
+<!ENTITY button_copy "ಪ್ರತಿ ಮಾಡು">
 
 <!ENTITY firstrun_panel_title_welcome "ಸ್ವಾಗತ">
 
@@ -502,10 +517,6 @@ size. -->
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "ಆಯ್ಕೆಮಾಡಿದ ಸಾಧನಗಳನ್ನು ತೋರಿಸು">
 
-<!ENTITY private_browsing_title "ಖಾಸಗಿ ವೀಕ್ಷಣೆ">
-<!ENTITY private_tabs_panel_empty_desc "ನಿಮ್ಮ ಖಾಸಗಿ ಹಾಳೆಗಳು ಇಲ್ಲಿ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತವೆ. ನಾವು ನಿಮ್ಮ ಅಂತರ್ಜಾಲ ಪರಿವೀಕ್ಷಣೆಯ ಚರಿತ್ರೆ ಅಥವಾ ಕುಕೀಗಳನ್ನು ಉಳಿಸದಿದ್ದರೂ, ನೀವು ಇಳಿಸುವ ಕಡತಗಳು ಹಾಗು ಪುಟಗುರುತುಗಳು ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿ ಉಳಿದು ಕೊಳ್ಳುತ್ತವೆ.">
-<!ENTITY private_tabs_panel_learn_more "ಹೆಚ್ಚಿನದನ್ನು ಕಲಿಯಬೇಕೆ?">
-
 <!ENTITY remote_tabs_panel_moved_title "ನನ್ನ ಹಾಳೆಗಳು ಎಲ್ಲಿ ಹೋದವು?">
 <!ENTITY remote_tabs_panel_moved_desc "ನೀವು ಹೊಸ ಹಾಳೆ ತೆರೆದಾಗೆಲ್ಲ ಬಳಕೆಗೆ ಲಭ್ಯವಿರುವಂತೆ ನಿಮ್ಮ ಜಾಲ ಪುಟಕ್ಕೆ ಬೇರೆಯ ಸಾಧನಗಳಲ್ಲಿದ್ದ ಹಾಳೆಗಳನ್ನು ಜರುಗಿಸಿದ್ದೇವೆ.">
 <!ENTITY remote_tabs_panel_moved_link "ನನ್ನನ್ನು ನನ್ನ ಹೊಸ ಮುಖ್ಯ ಪಟ್ಟಿಗೆ ಕರೆದುಕೊಂಡು ಹೋಗು.">
@@ -533,6 +544,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "ಇದನ್ನು ನಡೆಸುತ್ತಿರುವವರು">
 <!ENTITY identity_no_info "ಈ ಜಾಲತಾಣವು ತನ್ನ ಗುರುತಿನ ಮಾಹಿತಿಯನ್ನು ಒದಗಿಸಿಲ್ಲ.">
 <!ENTITY identity_not_encrypted "ಈ ಜಾಲತಾಣಕ್ಕೆ ನಿಮ್ಮ ಸಂಪರ್ಕವನ್ನು ಗೂಢಲಿಪೀಕರಣಗೊಳಿಸಲಾಗಿಲ್ಲ(ಎನ್‌ಕ್ರಿಪ್ಟೆಡ್).">
+<!ENTITY identity_encrypted "ಗೂಢಲಿಪೀಕರಣಗೊಂಡ">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "ಈ ಪುಟವು ಸುರಕ್ಷಿತವಲ್ಲದ ಮಾಹಿತಿಯನ್ನು ಪ್ರದರ್ಶಿಸುತ್ತಿದೆ.">
@@ -599,7 +611,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "ಮುಂದುವರೆ">
 <!ENTITY guest_session_dialog_cancel "ರದ್ದು ಮಾಡು">
 <!ENTITY new_guest_session_title "&brandShortName; ಈಗ ಮತ್ತೆ ಶುರುವಾಗುತ್ತದೆ">
-<!ENTITY new_guest_session_text "ಇದನ್ನು ಬಳಸುವ ವ್ಯಕ್ತಿಗೆ ನಿಮ್ಮ ಯಾವುದೇ ವೈಯಕ್ತಿಕ ಜಾಲಾಟದ ದತ್ತಾಂಶ (ಉಳಿಸಿದ ಪ್ರವೇಶಪದಗಳು, ಇತಿಹಾಸ ಅಥವಾ ಪುಟಗುರುತುಗಳು ಇತ್ಯಾದಿ)ಕಾಣಲು ಸಾಧ್ಯವಿಲ್ಲ.\n\n ನಿಮ್ಮ ಅತಿಥಿಗಳ ಕೆಲಸ ಮುಗಿದ ನಂತರ, ಅವರ ಜಾಲಾಟದ ದತ್ತಾಂಶವು ಅಳಿಸಲ್ಪಟ್ಟು ನಿಮ್ಮ ಅಧಿವೇಶನ ಪುನರಾರಂಭಗೊಳ್ಳುತ್ತದೆ.">
+
 <!ENTITY guest_browsing_notification_title "ಅತಿಥಿ ಜಾಲಾಟ ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ">
 <!ENTITY guest_browsing_notification_text "ನಿರ್ಗಮಿಸಲು ಮೆಲ್ಲಗೆ ತಟ್ಟಿ">
 
@@ -648,3 +660,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
 
 <!ENTITY find_matchcase "Aa">
+
