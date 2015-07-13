@@ -15,12 +15,12 @@
 <!-- J-PAKE Key Screen -->
 
 <!ENTITY sync.subtitle.connect.label "Para ativar seu novo dispositivo, selecione “Configurar &syncBrand.shortName.label;” nele.">
-<!ENTITY sync.subtitle.header2.label "Forneça este código no seu outro dispositivo.">
+<!ENTITY sync.subtitle.header2.label "Digite este código no outro dispositivo">
 <!ENTITY sync.subtitle.connectlocation2.label "Selecione “&sync.title.pair.label;” nas opções &syncBrand.shortName.label; no Firefox do seu outro dispositivo.">
 <!ENTITY sync.subtitle.pair.label "Para ativar, selecione “Parear dispositivo” no seu outro dispositivo.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.pin.oneline.label "...">
-<!ENTITY sync.link.show.label "Mostrar como">
+<!ENTITY sync.link.show.label "Mostre-me como.">
 <!ENTITY sync.link.advancedsetup.label "Configuração avançada…">
 <!ENTITY sync.link.nodevice.label "O dispositivo não está comigo…">
 <!-- J-PAKE Waiting Screen -->
@@ -28,7 +28,7 @@
 <!ENTITY sync.jpake.subtitle.waiting.label "Aguardando pelo outro dispositivo…">
 <!-- Account Login Screen -->
 
-<!ENTITY sync.subtitle.account.label "Forneça os dados da sua conta &syncBrand.fullName.label;:">
+<!ENTITY sync.subtitle.account.label "Entre com as informações da sua conta &syncBrand.fullName.label;">
 <!ENTITY sync.input.username.label "Nome da conta">
 <!ENTITY sync.input.password.label "Senha">
 <!ENTITY sync.input.key.label "Chave de recuperação">
@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label "O que sincronizar">
 <!ENTITY sync.configure.engines.sync.my.title.label "Sincronizar seus…">
 <!ENTITY sync.configure.engines.title.bookmarks "Favoritos">
-
+<!ENTITY sync.configure.engines.title.passwords2 "Logins">
 <!ENTITY sync.configure.engines.title.history "Histórico">
 <!ENTITY sync.configure.engines.title.tabs "Abas">
 <!-- Common text -->
@@ -84,7 +84,7 @@
 
 <!ENTITY bookmarks.folder.menu.label "Menu Favoritos">
 <!ENTITY bookmarks.folder.places.label ''>
-<!ENTITY bookmarks.folder.tags.label "Tags">
+<!ENTITY bookmarks.folder.tags.label "Etiquetas">
 <!ENTITY bookmarks.folder.toolbar.label "Barra dos favoritos">
 <!ENTITY bookmarks.folder.unfiled.label "Favoritos não organizados">
 <!ENTITY bookmarks.folder.desktop.label "Favoritos do desktop">
@@ -104,7 +104,7 @@
 <!ENTITY sync.new.recoverykey.status.incorrect "Chave de recuperação incorreta. Por favor, tente de novo.">
 <!-- Send tab to device. -->
 
-<!ENTITY sync.title.send.tab.label "Enviar aba para disp.">
+<!ENTITY sync.title.send.tab.label "Enviar aba para os dispositivos">
 <!ENTITY sync.button.send.label "Enviar">
 <!ENTITY sync.button.set.up.sync.label "Configurar &syncBrand.shortName.label;">
 <!ENTITY sync.title.redirect.to.set.up.sync.label "Configurar o &syncBrand.shortName.label; para enviar abas">
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "Aviso de privacidade">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Bem-vindo ao &syncBrand.shortName.label;">
-
+<!ENTITY fxaccount_getting_started_description2 "Entre para sincronizar suas abas, favoritos, senhas e mais.">
 <!ENTITY fxaccount_getting_started_get_started "Começar">
 <!ENTITY fxaccount_getting_started_old_firefox "Usando uma versão anterior do &syncBrand.shortName.label;?">
 <!-- Localization note: the Firefox below should not change with the
@@ -212,7 +212,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating "Toque para entrar na sua nova conta Firefox.">
 <!ENTITY fxaccount_status_bookmarks "Favoritos">
 <!ENTITY fxaccount_status_history "Histórico">
-
+<!ENTITY fxaccount_status_passwords2 "Logins">
 <!ENTITY fxaccount_status_tabs "Abas">
 <!ENTITY fxaccount_status_legal "Legal" >
 <!-- Localization note: when tapped, the following two strings link to
@@ -252,7 +252,7 @@
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "Conta já existe. &formatS1;">
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "Email ou senha inválida">
 <!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "Email ou senha inválida">
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "A conta não está verificada.">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "Conta não verificada">
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "Servidor ocupado, tente novamente mais tarde">
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Servidor ocupado, tente novamente mais tarde">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Houve um problema">
