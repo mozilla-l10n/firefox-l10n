@@ -47,7 +47,7 @@
 
 <!ENTITY hideThisAppCmdMac2.label       "Απόκρυψη &brandShortName;">
 <!ENTITY hideThisAppCmdMac2.commandkey  "H">
-<F5>
+
 <!ENTITY hideOtherAppsCmdMac.label      "Απόκρυψη άλλων">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
