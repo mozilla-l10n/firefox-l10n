@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label "Hvað á að setja í sync">
 <!ENTITY sync.configure.engines.sync.my.title.label "Sync þín...">
 <!ENTITY sync.configure.engines.title.bookmarks "Bókarmerki">
-<!ENTITY sync.configure.engines.title.passwords "Lykilorð">
+<!ENTITY sync.configure.engines.title.passwords2 "Innskráningar">
 <!ENTITY sync.configure.engines.title.history "Ferill">
 <!ENTITY sync.configure.engines.title.tabs "Flipar">
 <!-- Common text -->
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "Meðferð persónuupplýsinga">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Velkomin í &syncBrand.shortName.label;">
-<!ENTITY fxaccount_getting_started_description "Skráðu þig inn til að Sync-a flipa, bókarmerki, lykilorð og fleira.">
+<!ENTITY fxaccount_getting_started_description2 "Skráðu þig inn til að Sync-a flipa, bókarmerki, lykilorð og fleira.">
 <!ENTITY fxaccount_getting_started_get_started "Hefjast handa">
 <!ENTITY fxaccount_getting_started_old_firefox "Ertu að nota eldri útgáfu af &syncBrand.shortName.label;?">
 <!-- Localization note: the Firefox below should not change with the
@@ -212,7 +212,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating "Snertu skjáinn til að skrá þig inn með nýja Firefox reikningnum.">
 <!ENTITY fxaccount_status_bookmarks "Bókarmerki">
 <!ENTITY fxaccount_status_history "Ferill">
-<!ENTITY fxaccount_status_passwords "Lykilorð">
+<!ENTITY fxaccount_status_passwords2 "Innskráningar">
 <!ENTITY fxaccount_status_tabs "Opna flipa">
 <!ENTITY fxaccount_status_legal "Lagalegt" >
 <!-- Localization note: when tapped, the following two strings link to
