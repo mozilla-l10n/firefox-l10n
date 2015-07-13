@@ -23,7 +23,7 @@
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Escrever mensagens no formato HTML">
 <!ENTITY useHtml.accesskey                    "E">
-<!ENTITY autoQuote.label                      "Ao  responder, citar automaticamente a mensagem original">
+<!ENTITY autoQuote.label                      "Ao responder, citar automaticamente a mensagem original">
 <!ENTITY autoQuote.accesskey                  "A">
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY then.label                           "Depois,">
@@ -31,7 +31,7 @@
 <!ENTITY aboveQuote.label                     "iniciar a minha resposta acima da citação">
 <!ENTITY belowQuote.label                     "iniciar a minha resposta abaixo da citação">
 <!ENTITY selectAndQuote.label                 "selecionar a citação">
-<!ENTITY place.label                          "colocar a minha assinatura">
+<!ENTITY place.label                          "e colocar a minha assinatura">
 <!ENTITY place.accesskey                      "a">
 <!ENTITY belowText.label                      "abaixo da citação (recomendado)">
 <!ENTITY aboveText.label                      "abaixo da resposta (acima da citação)">

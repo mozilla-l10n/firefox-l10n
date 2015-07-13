@@ -27,8 +27,8 @@
 <!ENTITY tablePxBetwBrdrCellContent.label "pixeis entre o contorno e o conteúdo da célula">
 <!ENTITY tableAlignment.label             "Alinhamento da tabela:">
 <!ENTITY tableAlignment.accessKey         "t">
-<!ENTITY tableCaption.label               "Caption:">
-<!ENTITY tableCaption.accessKey           "a">
+<!ENTITY tableCaption.label               "Legenda:">
+<!ENTITY tableCaption.accessKey           "n">
 <!ENTITY tableCaptionAbove.label          "Acima da tabela">
 <!ENTITY tableCaptionBelow.label          "Abaixo da tabela">
 <!ENTITY tableCaptionLeft.label           "Esquerda da tabela">

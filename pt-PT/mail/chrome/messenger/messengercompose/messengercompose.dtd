@@ -23,7 +23,7 @@
 <!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "Filelink">
 <!ENTITY attachCloudCmd.accesskey "i">
-<!ENTITY attachPageCmd.label "Página web...">
+<!ENTITY attachPageCmd.label "Página web…">
 <!ENTITY attachPageCmd.accesskey "w">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Cartão pessoal (vCard)">
@@ -291,7 +291,7 @@
 <!ENTITY attachCloud.accesskey "i">
 <!ENTITY convertCloud.label "Converter para...">
 <!ENTITY convertCloud.accesskey "C">
-<!ENTITY cancelUpload.label "Cancelar envio">
+<!ENTITY cancelUpload.label "Cancelar carregamento">
 <!ENTITY cancelUpload.accesskey "n">
 <!ENTITY convertRegularAttachment.label "Anexo normal">
 <!ENTITY convertRegularAttachment.accesskey "A">

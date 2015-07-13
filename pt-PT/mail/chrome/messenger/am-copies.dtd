@@ -29,7 +29,7 @@
 <!ENTITY archivesTitle.label "Arquivos de mensagens">
 <!ENTITY keepArchives.label "Manter arquivos de mensagens em:">
 <!ENTITY keepArchives.accesskey "e">
-<!ENTITY archiveHierarchyButton.label "Opções de arquivos…">
+<!ENTITY archiveHierarchyButton.label "Opções de arquivo…">
 <!ENTITY archiveHierarchyButton.accesskey "a">
 <!ENTITY archivesFolderOn.label "Pasta de &quot;Arquivos&quot; em:">
 <!ENTITY archivesFolderOn.accesskey "u">

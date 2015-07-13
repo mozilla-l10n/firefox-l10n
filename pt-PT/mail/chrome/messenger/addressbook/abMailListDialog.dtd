@@ -8,7 +8,7 @@
 <!ENTITY addToAddressBook.label         "Adicionar a: ">
 
 <!ENTITY ListName.label                 "Nome da lista:">
-<!ENTITY ListNickName.label             "Listar alcunhas: ">
+<!ENTITY ListNickName.label             "Apelido da lista:">
 <!ENTITY ListDescription.label          "Descrição: ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label             "Escreva os endereços de e-mail para os adicionar à lista de correio:">
@@ -18,6 +18,6 @@
 
 <!ENTITY addToAddressBook.accesskey     "A">
 <!ENTITY ListName.accesskey             "l">
-<!ENTITY ListNickName.accesskey         "L">
+<!ENTITY ListNickName.accesskey         "A">
 <!ENTITY ListDescription.accesskey      "e">
 

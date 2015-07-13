@@ -11,7 +11,7 @@
 <!ENTITY smiley1Cmd.tooltip "Inserir uma face com sorriso">
 <!ENTITY smiley2Cmd.label "Triste">
 <!ENTITY smiley2Cmd.accesskey "T">
-<!ENTITY smiley2Cmd.tooltip "Inserir um face frown">
+<!ENTITY smiley2Cmd.tooltip "Inserir um face triste">
 <!ENTITY smiley3Cmd.label "Piscadela">
 <!ENTITY smiley3Cmd.accesskey "P">
 <!ENTITY smiley3Cmd.tooltip "Inserir uma face a piscar o olho">

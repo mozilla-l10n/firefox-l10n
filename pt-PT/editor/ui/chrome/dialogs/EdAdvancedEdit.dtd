@@ -12,7 +12,7 @@
 <!ENTITY tree.valueHeader.label         "Valor">
 <!ENTITY tabHTML.label                  "Atributos de HTML">
 <!ENTITY tabCSS.label                   "Estilo em linha">
-<!ENTITY tabJSE.label                   "Eventos de JavaScript">
+<!ENTITY tabJSE.label                   "Eventos JavaScript">
 
 <!ENTITY editAttribute.label    "Clique num item acima para editar o valor">
 <!ENTITY removeAttribute.label  "Remover">

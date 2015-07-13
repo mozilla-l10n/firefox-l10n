@@ -23,7 +23,7 @@
 
 <!ENTITY autotagEnable.label         "Criar etiquetas automaticamente da &lt;category&gt; nome da fonte">
 <!ENTITY autotagEnable.accesskey     "c">
-<!ENTITY autotagUsePrefix.label      "Prefixo da etiqueta com:">
+<!ENTITY autotagUsePrefix.label      "Prefixar etiquetas com:">
 <!ENTITY autotagUsePrefix.accesskey  "P">
 <!ENTITY autoTagPrefix.placeholder   "Introduza um prefixo de etiqueta">
 

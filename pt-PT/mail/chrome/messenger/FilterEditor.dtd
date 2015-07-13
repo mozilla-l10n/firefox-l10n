@@ -42,7 +42,7 @@
 <!ENTITY markMessageRead.label "Marcar como lida">
 <!ENTITY markMessageUnread.label "Marcar como não lida">
 <!ENTITY markMessageStarred.label "Adicionar estrela">
-<!ENTITY setPriority.label "definir prioridade para">
+<!ENTITY setPriority.label "Definir prioridade para">
 <!ENTITY addTag.label "Etiquetar mensagem">
 <!ENTITY setJunkScore.label "Definir estado de lixo eletrónico para">
 <!ENTITY deleteMessage.label "Eliminar mensagem">

@@ -74,8 +74,8 @@
 <!ENTITY HomeCountry.accesskey          "P">
 <!ENTITY HomeWebPage.label              "Página web:">
 <!ENTITY HomeWebPage.accesskey          "w">
-<!ENTITY Birthday.label                 "Aniversário:">
-<!ENTITY Birthday.accesskey             "n">
+<!ENTITY Birthday.label                 "Data de nascimento:">
+<!ENTITY Birthday.accesskey             "D">
 <!ENTITY In.label                       "">
 <!ENTITY Year.placeholder               "Ano">
 <!ENTITY Or.value                       "ou">

@@ -24,7 +24,7 @@
 <!ENTITY identityDesc.label "Cada conta tem uma identidade, que é o seu identificador perante terceiros quando estes recebem as suas mensagens.">
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
 
-<!ENTITY fullnameDesc.label "Introduza o nome que gostaria de exibir no campo &quot;De&quot; ao enviar mensagens">
+<!ENTITY fullnameDesc.label "Introduza o nome que gostaria de mostrar no campo &quot;De&quot;, ao enviar mensagens">
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
   1, do not translate two of "&quot;"
   2, Use localized full name instead of "John Smith"
@@ -111,7 +111,7 @@
 
 <!ENTITY completionTitle.label "Parabéns!">
 <!ENTITY completionText.label "Verifique se a informações estão corretas.">
-<!ENTITY serverTypePrefix.label "Tipo de servidor de receção:">
+<!ENTITY serverTypePrefix.label "Tipo do servidor de receção:">
 <!ENTITY serverNamePrefix.label "Nome do servidor de receção:">
 <!ENTITY smtpServerNamePrefix.label "Nome do servidor de envio (SMTP):">
 <!ENTITY newsServerNamePrefix.label "Nome do servidor de notícias (NNTP):">

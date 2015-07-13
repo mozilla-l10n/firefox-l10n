@@ -15,7 +15,7 @@
 <!ENTITY manageSubscriptions.label "Gerir subscrições…"> 
 <!ENTITY manageSubscriptions.accesskey "G">
 
-<!ENTITY feedWindowTitle.label "Assistente de conta de feed">
+<!ENTITY feedWindowTitle.label "Assistente para conta de fontes">
 <!-- entities from rss.rdf -->
 
 <!ENTITY feeds.accountName "Fontes de notícias e blogues">

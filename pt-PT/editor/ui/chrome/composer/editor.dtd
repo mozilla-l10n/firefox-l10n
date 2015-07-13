@@ -16,7 +16,7 @@
 <!-- File menu items -->
 
 <!ENTITY exportToTextCmd.label "Exportar para texto…">
-<!ENTITY exportToTextCmd.accesskey "t">
+<!ENTITY exportToTextCmd.accesskey "x">
 <!ENTITY previewCmd.label "Navegar na página">
 <!ENTITY previewCmd.accesskey "v">
 <!ENTITY sendPageCmd.label "Enviar página…">
@@ -57,10 +57,10 @@
      or use latin "rtl" if you want this image to the right of text. You do
      not need to include HTML in the label 'HTMLSourceModeTab.label' -->
 <!ENTITY HTMLSourceModeTab.dir "ltr">
-<!ENTITY HTMLSourceModeTab.label "Fonte">
-<!ENTITY HTMLSourceMode.label "Fonte HTML">
+<!ENTITY HTMLSourceModeTab.label "Origem">
+<!ENTITY HTMLSourceMode.label "Origem HTML">
 <!ENTITY HTMLSourceMode.accesskey "H">
-<!ENTITY HTMLSourceMode.tooltip "Editar fonte HTML">
+<!ENTITY HTMLSourceMode.tooltip "Editar origem HTML">
 <!ENTITY PreviewModeTab.label "Pré-visualizar">
 <!ENTITY PreviewMode.label "Pré-visualizar">
 <!ENTITY PreviewMode.accesskey "P">

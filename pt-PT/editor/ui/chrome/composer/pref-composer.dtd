@@ -12,18 +12,18 @@
 <!ENTITY  documentsInMenu.label         "Número máximo de páginas na lista:">
 <!ENTITY  documentsInMenu.accesskey     "n">
 <!ENTITY  savingFiles.title             "Ao guardar ou publicar páginas">
-<!ENTITY  preserveExisting.label        "Preservar a formatação original">
-<!ENTITY  preserveExisting.accesskey    "P">
+<!ENTITY  preserveExisting.label        "Manter formatação original">
+<!ENTITY  preserveExisting.accesskey    "M">
 <!ENTITY  preserveExisting.tooltip      "Manter quebras de linha e formatação original da página">
 <!ENTITY  saveAssociatedFiles.label     "Guardar imagens e conteúdo associado ao guardar páginas">
 <!ENTITY  saveAssociatedFiles.accesskey "s">
 <!ENTITY  showPublishDialog.label       "Mostrar sempre a janela de publicação ao publicar páginas">
-<!ENTITY  showPublishDialog.accesskey   "o">
+<!ENTITY  showPublishDialog.accesskey   "a">
 <!ENTITY  composerEditing.label         "Editar">
 <!ENTITY  maintainStructure.label       "Manter esquema da tabela ao inserir ou eliminar células">
-<!ENTITY  maintainStructure.tooltip     "Manter forma retangular da tabela ao adicionar células automaticamente ao inserir ou eliminar células">
-<!ENTITY  maintainStructure.accesskey   "r">
+<!ENTITY  maintainStructure.tooltip     "Manter forma retangular da tabela ao adicionar células automaticamente após inserir ou eliminar células">
+<!ENTITY  maintainStructure.accesskey   "M">
 <!ENTITY  useCSS.label                  "Utilizar estilos CSS em vez de elementos e atributos HTML">
 <!ENTITY  useCSS.accesskey              "U">
-<!ENTITY  crInPCreatesNewP.label        "Se utilizar a tecla Return num parágrafo, cria um novo parágrafoparágrafo">
-<!ENTITY  crInPCreatesNewP.accesskey    "R">
+<!ENTITY  crInPCreatesNewP.label        "Se utilizar a tecla Enter num parágrafo, cria um novo parágrafo">
+<!ENTITY  crInPCreatesNewP.accesskey    "r">

@@ -6,15 +6,15 @@
 
 <!ENTITY windowTitle.label "Propriedades da lista">
 
-<!ENTITY ListType.label "Listar Tipo">
-<!ENTITY bulletStyle.label "Estilo do Bullet:">
+<!ENTITY ListType.label "Tipo de lista">
+<!ENTITY bulletStyle.label "Estilo de marcas:">
 <!ENTITY startingNumber.label "Iniciar a:">
 <!ENTITY startingNumber.accessKey "I">
 <!ENTITY none.value "Nenhum">
 <!ENTITY bulletList.value "Lista de marcas (não numerada)">
 <!ENTITY numberList.value "Lista numerada">
-<!ENTITY definitionList.value "Lista de Definições">
-<!ENTITY changeEntireListRadio.label "Alterar a lista inteira">
+<!ENTITY definitionList.value "Lista de definições">
+<!ENTITY changeEntireListRadio.label "Alterar toda a lista">
 <!ENTITY changeEntireListRadio.accessKey "A">
 <!ENTITY changeSelectedRadio.label "Alterar apenas os itens seleciondos">
 <!ENTITY changeSelectedRadio.accessKey "l">

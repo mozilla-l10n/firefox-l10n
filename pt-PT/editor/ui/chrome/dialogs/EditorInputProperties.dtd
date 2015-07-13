@@ -2,17 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle.label "Propriedades do campo do formulário">
-<!ENTITY windowTitleImage.label "Propriedades da imagem do formulário">
+<!ENTITY windowTitle.label "Propriedades do campo de formulário">
+<!ENTITY windowTitleImage.label "Propriedades da imagem de formulário">
 
-<!ENTITY InputType.label "Tipo">
+<!ENTITY InputType.label "Tipo de campo">
 <!ENTITY InputType.accesskey "T">
 <!ENTITY text.value "Texto">
 <!ENTITY password.value "Palavra-passe">
 <!ENTITY checkbox.value "Caixa de verificação">
-<!ENTITY radio.value "Botão rádio">
-<!ENTITY submit.value "Botão submeter">
-<!ENTITY reset.value "Botão repor">
+<!ENTITY radio.value "Caixa de seleção">
+<!ENTITY submit.value "Botão de envio">
+<!ENTITY reset.value "Botão de reposição">
 <!ENTITY file.value "Ficheiro">
 <!ENTITY hidden.value "Oculto">
 <!ENTITY image.value "Imagem">
@@ -41,8 +41,8 @@
 <!ENTITY TextSize.accesskey "c">
 <!ENTITY TextLength.label "Comprimento máximo:">
 <!ENTITY TextLength.accesskey "m">
-<!ENTITY AccessKey.label "Chave de acesso:">
-<!ENTITY AccessKey.accesskey "h">
+<!ENTITY AccessKey.label "Tecla de acesso:">
+<!ENTITY AccessKey.accesskey "e">
 <!ENTITY Accept.label "Tipos aceites:">
 <!ENTITY Accept.accesskey "a">
 

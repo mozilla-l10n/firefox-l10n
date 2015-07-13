@@ -11,7 +11,7 @@
    Either label could be set to null ("") if required grammatically.
 -->
 
-<!ENTITY download.label     "Transferir">
+<!ENTITY download.label     "Descarregar">
 <!ENTITY download.accesskey "e">
 <!--LOCALIZATION NOTE (headers.label): see note for download.label -->
 <!ENTITY headers.label      "cabeçalhos">
