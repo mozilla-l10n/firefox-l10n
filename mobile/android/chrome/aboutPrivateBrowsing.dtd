@@ -2,12 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                  "Brabhsáil Phríobháideach">
+<!ENTITY privatebrowsingpage.title "Brabhsáil Phríobháideach">
+<!ENTITY privatebrowsingpage.title.normal "Níl tú ag brabhsáil go príobháideach">
 
-<!ENTITY privatebrowsingpage.issueDesc.private      "D'oscail tú cluaisín nua príobháideach.">
-<!ENTITY privatebrowsingpage.issueDesc.normal       "Níl tú i gcluaisín príobháideach faoi láthair.">
+<!ENTITY privatebrowsingpage.issueDesc.normal2 "Le linn brabhsála príobháidí, ní choinneoimid aon fhianáin ná do stair bhrabhsála.">
+<!ENTITY privatebrowsingpage.issueDesc.private2 "Ní choinneoimid aon fhianáin ná do stair bhrabhsála.">
 
-<!ENTITY privatebrowsingpage.description            "I gcluaisíní príobháideacha, ní choimeádfaidh &brandShortName; stair bhrabhsálaí, stair chuardaigh, stair íosluchtaithe, stair fhoirme Gréasain, fianáin, nó comhaid shealadacha Idirlín. Coimeádfar comhaid a íosluchtaíonn tú agus leabharmharcanna a chruthaíonn tú, áfach.">
-<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+<!ENTITY privatebrowsingpage.description2 "Mar sin féin, sábhálfar leabharmharcanna a chruthaíonn tú nó comhaid a íosluchtaíonn tú ar do ghléas.">
+<!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
+<!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
 
-<!ENTITY privatebrowsingpage.moreInfo               "Cé nach mbeidh taifead de do stair bhrabhsála ar an ngléas seo, is féidir le do sholáthraí seirbhíse Idirlín bheith ag breathnú ar na leathanaigh a dtugann tú cuairt orthu.">
+<!ENTITY privatebrowsingpage.link.private "An bhfuil tuilleadh eolais uait?">
+<!ENTITY privatebrowsingpage.link.normal "Oscail cluaisín príobháideach nua">
