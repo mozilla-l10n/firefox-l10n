@@ -48,8 +48,8 @@
 <!ENTITY NormalMode.accesskey "N">
 <!ENTITY NormalMode.tooltip "Exibir bordas nas tabelas e âncoras nomeadas">
 <!ENTITY AllTagsModeTab.label "Etiquetas HTML">
-<!ENTITY AllTagsMode.label "Exibir tags">
-<!ENTITY AllTagsMode.accesskey "x">
+<!ENTITY AllTagsMode.label "Tags HTML">
+<!ENTITY AllTagsMode.accesskey "a">
 <!ENTITY AllTagsMode.tooltip "Exibir ícones para todas as tags HTML">
 <!-- LOCALIZATION NOTE: (HTMLSourceModeTab.dir, HTMLSourceModeTab.label)
      Do NOT translate text for 'HTMLSourceModeTab.dir', use latin "ltr" if

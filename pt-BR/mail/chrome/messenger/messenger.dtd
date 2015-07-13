@@ -239,8 +239,8 @@
 <!ENTITY bodyMenu.accesskey "o">
 <!ENTITY bodyAllowHTML.label "Formato original HTML">
 <!ENTITY bodyAllowHTML.accesskey "F">
-<!ENTITY bodySanitized.label "Limpar a formatação">
-<!ENTITY bodySanitized.accesskey "L">
+<!ENTITY bodySanitized.label "HTML simples">
+<!ENTITY bodySanitized.accesskey "s">
 <!ENTITY bodyAsPlaintext.label "Sem formatação">
 <!ENTITY bodyAsPlaintext.accesskey "S">
 <!ENTITY bodyAllParts.label "Todas as seções da mensagem">
@@ -856,8 +856,8 @@
 <!ENTITY CopyEmailAddress.accesskey "o">
 <!ENTITY CopyNewsgroupName.label "Copiar o nome do newsgroup">
 <!ENTITY CopyNewsgroupName.accesskey "C">
-<!ENTITY CopyNewsgroupURL.label "Copiar o endereço do newsgroup">
-<!ENTITY CopyNewsgroupURL.accesskey "o">
+<!ENTITY CopyNewsgroupURL.label "Copiar URL do grupo de notícias">
+<!ENTITY CopyNewsgroupURL.accesskey "U">
 <!ENTITY CreateFilterFrom.label "Criar filtro para este e-mail…">
 <!ENTITY CreateFilterFrom.accesskey "r">
 <!ENTITY reportPhishingURL.label "Denunciar e-mail como fraudulento">

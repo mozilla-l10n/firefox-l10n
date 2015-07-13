@@ -50,13 +50,13 @@
 <!ENTITY siteName.tooltip             "Um apelido que identifique este site de publicação (exemplo: &quot;MeuSite&quot;)">
 <!ENTITY siteUrl.label                "Endereço de publicação (exemplo: &quot;ftp://ftp.servidor.com.br/meunome&quot;):">
 <!ENTITY siteUrl.accesskey            "E">
-<!ENTITY siteUrl.tooltip              "O endereço FTP:// ou HTTP:// fornecido pelo seu provedor de hospedagem">
+<!ENTITY siteUrl.tooltip              "O endereço FTP:// ou HTTP:// fornecido pelo seu ISP ou serviço de hospedagem web">
 <!ENTITY browseUrl.label              "Endereço HTTP de sua página (exemplo: &quot;http://www.servidor.com.br/meunome&quot;):">
 <!ENTITY browseUrl.accesskey          "T">
 <!ENTITY browseUrl.tooltip            "O endereço HTTP:// do diretório home (não incluir o nome do arquivo)">
 <!ENTITY username.label               "Nome de usuário:">
 <!ENTITY username.accesskey           "u">
-<!ENTITY username.tooltip             "O nome de usuário que você utiliza no seu provedor de hospedagem">
+<!ENTITY username.tooltip             "O nome de usuário que usa para entrar no seu ISP ou serviço de hospedagem web">
 <!ENTITY password.label               "Senha:">
 <!ENTITY password.accesskey           "S">
 <!ENTITY password.tooltip             "A senha associada ao seu nome de usuário">

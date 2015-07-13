@@ -134,8 +134,8 @@
 <!ENTITY MSN.accesskey                  "M">
 <!ENTITY ICQ.label                      "ICQ:">
 <!ENTITY ICQ.accesskey                  "I">
-<!ENTITY XMPP.label                     "Usuário XMPP:">
-<!ENTITY XMPP.accesskey                 "X">
+<!ENTITY XMPP.label                     "Jabber ID:">
+<!ENTITY XMPP.accesskey                 "J">
 <!ENTITY IRC.label                      "Apelido do IRC:">
 <!ENTITY IRC.accesskey                  "R">
 
