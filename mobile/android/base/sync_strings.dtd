@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label "Yang akan disinkronkan">
 <!ENTITY sync.configure.engines.sync.my.title.label "Sinkronkan…">
 <!ENTITY sync.configure.engines.title.bookmarks "Markah">
-<!ENTITY sync.configure.engines.title.passwords "Sandi">
+<!ENTITY sync.configure.engines.title.passwords2 "Info masuk">
 <!ENTITY sync.configure.engines.title.history "Riwayat">
 <!ENTITY sync.configure.engines.title.tabs "Tab">
 <!-- Common text -->
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "Ketentuan Privasi">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Selamat datang di &syncBrand.shortName.label;">
-<!ENTITY fxaccount_getting_started_description "Masuk untuk menyinkronkan data tab, markah, sandi, &amp; yang lain.">
+<!ENTITY fxaccount_getting_started_description2 "Masuk untuk menyinkronkan data tab, markah, info masuk &amp; yang lain.">
 <!ENTITY fxaccount_getting_started_get_started "Memulai">
 <!ENTITY fxaccount_getting_started_old_firefox "Menggunakan versi lawas &syncBrand.shortName.label;?">
 <!-- Localization note: the Firefox below should not change with the
@@ -212,7 +212,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating "Ketuk untuk masuk ke Firefox Account baru Anda.">
 <!ENTITY fxaccount_status_bookmarks "Markah">
 <!ENTITY fxaccount_status_history "Riwayat">
-<!ENTITY fxaccount_status_passwords "Sandi">
+<!ENTITY fxaccount_status_passwords2 "Info masuk">
 <!ENTITY fxaccount_status_tabs "Tab terbuka">
 <!ENTITY fxaccount_status_legal "Tentang Legal" >
 <!-- Localization note: when tapped, the following two strings link to

@@ -2,7 +2,4 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPasswords.title                    "Sandi">
-
-<!ENTITY aboutPasswords.copyUsername             "Salin Nama Pengguna">
-<!ENTITY aboutPasswords.copyPassword             "Salin Sandi">
+<!ENTITY aboutLogins.title                       "Info masuk">
