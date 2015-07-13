@@ -2,12 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                  "Penjelajahan Pribadi">
+<!ENTITY privatebrowsingpage.title "Penjelajahan Pribadi">
+<!ENTITY privatebrowsingpage.title.normal "Anda tidak sedang dalam penjelajahan pribadi">
 
-<!ENTITY privatebrowsingpage.issueDesc.private      "Anda telah membuka tab pribadi baru.">
-<!ENTITY privatebrowsingpage.issueDesc.normal       "Anda tidak sedang dalam tab pribadi.">
+<!ENTITY privatebrowsingpage.issueDesc.normal2 "Dalam penjelajahan pribadi, kami tidak akan menyimpan riwayat penjelajahan atau kuki.">
+<!ENTITY privatebrowsingpage.issueDesc.private2 "Kami tidak akan menyimpan riwayat penjelajahan atau kuki.">
 
-<!ENTITY privatebrowsingpage.description            "Pada tab pribadi, &brandShortName; tidak akan menyimpan riwayat peramban, riwayat pencarian, riwayat unduhan, riwayat isian formulir, kuki, atau berkas internet sementara. Tetapi, berkas yang diunduh dan markah akan tetap disimpan.">
-<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+<!ENTITY privatebrowsingpage.description2 "Markah yang ditambahkan dan berkas yang diunduh masih tetap disimpan di perangkat Anda.">
+<!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
+<!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
 
-<!ENTITY privatebrowsingpage.moreInfo               "Walau pun perangkat ini tidak akan memiliki rekaman riwayat penjelajahan Anda, pihak penyedia layanan jasa internet Anda masih tetap dapat melacak halaman yang Anda kunjungi.">
+<!ENTITY privatebrowsingpage.link.private "Ingin mempelajari lebih lanjut?">
+<!ENTITY privatebrowsingpage.link.normal "Buka tab pribadi baru">
