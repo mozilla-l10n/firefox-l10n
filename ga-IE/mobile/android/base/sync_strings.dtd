@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label "Rudaí le sioncrónú">
 <!ENTITY sync.configure.engines.sync.my.title.label "Sioncrónaigh do…">
 <!ENTITY sync.configure.engines.title.bookmarks "Leabharmharcanna">
-<!ENTITY sync.configure.engines.title.passwords "Focail fhaire">
+<!ENTITY sync.configure.engines.title.passwords2 "Logálacha Isteach">
 <!ENTITY sync.configure.engines.title.history "Stair">
 <!ENTITY sync.configure.engines.title.tabs "Cluaisíní">
 <!-- Common text -->
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "Fógra Príobháideachais">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Fáilte go dtí &syncBrand.shortName.label;">
-<!ENTITY fxaccount_getting_started_description "Logáil isteach chun do chuid cluaisíní, leabharmharcanna, focail fhaire agus araile a shioncrónú.">
+<!ENTITY fxaccount_getting_started_description2 "Logáil isteach chun do chuid cluaisíní, leabharmharcanna, focail fhaire agus araile a shioncrónú.">
 <!ENTITY fxaccount_getting_started_get_started "Tús maith">
 <!ENTITY fxaccount_getting_started_old_firefox "An bhfuil seanleagan de &syncBrand.shortName.label; agat?">
 <!-- Localization note: the Firefox below should not change with the
@@ -212,7 +212,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating "Tapáil le logáil isteach i do chuntas nua Firefox.">
 <!ENTITY fxaccount_status_bookmarks "Leabharmharcanna">
 <!ENTITY fxaccount_status_history "Stair">
-<!ENTITY fxaccount_status_passwords "Focail fhaire">
+<!ENTITY fxaccount_status_passwords2 "Logálacha Isteach">
 <!ENTITY fxaccount_status_tabs "Oscail cluaisíní">
 <!ENTITY fxaccount_status_legal "Cúrsaí Dlí" >
 <!-- Localization note: when tapped, the following two strings link to
