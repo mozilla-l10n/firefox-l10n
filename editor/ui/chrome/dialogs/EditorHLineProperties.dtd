@@ -21,7 +21,7 @@
 <!ENTITY rightRadio.accessKey "D">
 
 <!ENTITY threeDShading.label "Sombra 3D">
-<!ENTITY threeDShading.accessKey "3">
+<!ENTITY threeDShading.accessKey "S">
 <!ENTITY saveSettings.label "Salvar como padrão">
 <!ENTITY saveSettings.accessKey "S">
 <!ENTITY saveSettings.tooltip "Salvar estas opções para usar ao inserir novas linhas horizontais">
