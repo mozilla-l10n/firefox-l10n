@@ -2,12 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                  "Navigare fără urme">
+<!ENTITY privatebrowsingpage.title "Navigare fără urme">
 
-<!ENTITY privatebrowsingpage.issueDesc.private      "Ai deschis o filă nouă fără urme.">
-<!ENTITY privatebrowsingpage.issueDesc.normal       "Nu ești într-o filă fără urme.">
 
-<!ENTITY privatebrowsingpage.description            "În filele fără urme, &brandShortName; nu va păstra istoricul navigatorului, căutărilor, descărcărilor, formularelor web, cookie-urile sau fișierele temporare de internet. Cu toate acestea, fișierele pe care le descarci și semnele de carte pe care le pui vor fi păstrate.">
-<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
 
-<!ENTITY privatebrowsingpage.moreInfo               "Cu toate că acest dispozitiv nu va păstra istoricul navigării, furnizorul de internet poate încă să urmărească paginile pe care le vizitezi.">
+
+<!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
+<!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
+
+<!ENTITY privatebrowsingpage.link.private "Vrei să afli mai multe?">
+

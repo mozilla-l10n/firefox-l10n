@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label "Ce se sincronizează">
 <!ENTITY sync.configure.engines.sync.my.title.label "Sincronizează…">
 <!ENTITY sync.configure.engines.title.bookmarks "Semne de carte">
-<!ENTITY sync.configure.engines.title.passwords "Parolele">
+
 <!ENTITY sync.configure.engines.title.history "Istoric">
 <!ENTITY sync.configure.engines.title.tabs "File">
 <!-- Common text -->
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "Politica de confidențialitate">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Bun venit la &syncBrand.shortName.label;">
-<!ENTITY fxaccount_getting_started_description "Autentifică-te pentru a sincroniza paginile, semnele de carte, parolele și altele.">
+
 <!ENTITY fxaccount_getting_started_get_started "Începe">
 <!ENTITY fxaccount_getting_started_old_firefox "Folosești o versiune mai veche de &syncBrand.shortName.label;?">
 <!-- Localization note: the Firefox below should not change with the
@@ -212,7 +212,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating "Apasă pentru a te autentifica în noul cont Firefox.">
 <!ENTITY fxaccount_status_bookmarks "Semne de carte">
 <!ENTITY fxaccount_status_history "Istoric">
-<!ENTITY fxaccount_status_passwords "Parole">
+
 <!ENTITY fxaccount_status_tabs "File deschise">
 <!ENTITY fxaccount_status_legal "Mențiuni legale" >
 <!-- Localization note: when tapped, the following two strings link to
