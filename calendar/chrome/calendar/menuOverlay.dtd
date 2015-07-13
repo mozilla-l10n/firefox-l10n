@@ -35,6 +35,7 @@
 
 <!ENTITY showUnifinderCmd.label                 "Aimsigh Imeachtaí">
 <!ENTITY showUnifinderCmd.accesskey             "m">
+<!ENTITY showUnifinderCmd.tooltip               "Scoránaigh an pána cuardaigh imeachtaí">
 
 <!ENTITY calendar.displaytodos.checkbox.label       "Taispeáin Tascanna san Fhéilire">
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "T">
