@@ -4,9 +4,17 @@
 <!-- LOCALIZATION NOTE (glodaFacetView.filters.label): Label at the top of the
      faceting sidebar.  Serves as a header both for the checkboxes under it as
      well for labeled facets with multiple options. -->
+
+<!ENTITY glodaFacetView.filters.label "Filterlar">
 <!-- LOCALIZATION NOTE (glodaFacetView.loading.label): Label that appears when
      the search results take a long time to appear. -->
+
+<!ENTITY glodaFacetView.loading.label "Izlanmoqda&#8230;">
 <!-- LOCALIZATION NOTE (glodaFacetView.empty.label): Label that appears when
      there are no results that match the search query. -->
+
+<!ENTITY glodaFacetView.empty.label "Qidiruvingizga mos xabarlar topilmadi">
 <!-- LOCALIZATION NOTE (glodaFacetView.pageMore.label): Label at the bottom
      of the results list to show more hits. -->
+
+<!ENTITY glodaFacetView.pageMore.label "Ko‘proq »">
