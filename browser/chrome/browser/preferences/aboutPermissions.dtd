@@ -13,7 +13,7 @@
 <!ENTITY header.site.start               "Permissões para">
 <!ENTITY header.site.end                 "">
 
-<!ENTITY header.defaults                 "Permissões pré-definidas para todos os sítios">
+<!ENTITY header.defaults                 "Permissões predefinidas para todos os sites">
 
 <!ENTITY permissions.forgetSite          "Esquecer este sítio">
 
