@@ -96,6 +96,7 @@
 <!ENTITY proxyConnectFailure.longDesc "<ul> 
 <li>प्रॉक्सी सेटिंग की जाँच सुनिश्चित करने के लिए करें कि वे सही हैं.</li> 
 <li>अपने संजाल प्रशासक को जांचे सुनिश्चित करने के लिए प्रॉक्सी सर्वर काम कर रहा है.</li> 
+
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "प्राक्सी सर्वर ढ़ूढ़ने में असमर्थ">
@@ -111,12 +112,14 @@
 <!ENTITY redirectLoop.title "पृष्ठ ठीक से पुनर्निर्देशित नहीं कर रहा है">
 <!ENTITY redirectLoop.longDesc "<ul> 
 <li>यह समस्या कभी कभी कुकी को स्वीकार करने या निष्क्रिय करने के कारण होती है.</li> 
+
 </ul>">
 
 <!ENTITY unknownSocketType.title "सर्वर से अप्रत्याशित अनुक्रिया">
 <!ENTITY unknownSocketType.longDesc "<ul> 
 <li>सुनिश्चित करने के लिए जाँचें कि आपका सिस्टम निजी सुरक्षा प्रबंधक संस्थापित रखे है.</li> 
 <li>यह सर्वर पर किसी गैर मानक विन्यास के कारण हो सकता है.</li> 
+
 </ul>">
 
 <!ENTITY nssFailure2.title "सुरक्षित कनेक्शन विफल">
@@ -129,6 +132,8 @@
 <!ENTITY nssBadCert.longDesc2 "<ul> 
 <li>यह सर्वर विन्यास के साथ समस्या हो सकती है, या कोई दूसरा सर्वर के रूप में छद्म रूप से आने की कोशिश कर सकता है.</li> 
 <li>यदि आप सर्वर से पीछे सफलतापूर्वक कनेक्ट हो चुके हैं, त्रुटि अस्थायी हो सकती है, और आप इसे बाद में फिर कोशिश कर सकते हैं.</li> 
+
+
 </ul>">
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
