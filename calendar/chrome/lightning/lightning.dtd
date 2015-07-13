@@ -11,19 +11,19 @@
 <!ENTITY lightning.preferencesLabel "Calendário">
 <!-- New menu popup in File menu -->
 
-<!ENTITY lightning.menupopup.new.event.label    "Evento...">
+<!ENTITY lightning.menupopup.new.event.label    "Evento…">
 <!ENTITY lightning.menupopup.new.event.accesskey "E">
-<!ENTITY lightning.menupopup.new.task.label     "Tarefa...">
+<!ENTITY lightning.menupopup.new.task.label     "Tarefa…">
 <!ENTITY lightning.menupopup.new.task.accesskey "T">
-<!ENTITY lightning.menupopup.new.calendar.label "Calendário...">
+<!ENTITY lightning.menupopup.new.calendar.label "Calendário.…">
 <!ENTITY lightning.menupopup.new.calendar.accesskey "n">
 <!-- Open menu popup in File menu -->
 
 <!ENTITY lightning.menupopup.open.label               "Abrir">
 <!ENTITY lightning.menupopup.open.accesskey           "A">
-<!ENTITY lightning.menupopup.open.message.label       "Mensagem guardada...">
+<!ENTITY lightning.menupopup.open.message.label       "Mensagem guardada…">
 <!ENTITY lightning.menupopup.open.message.accesskey   "M">
-<!ENTITY lightning.menupopup.open.calendar.label      "Ficheiro do calendário...">
+<!ENTITY lightning.menupopup.open.calendar.label      "Ficheiro de calendário…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "c">
 <!-- View Menu -->
 

@@ -11,7 +11,7 @@
 <!ENTITY newevent.to.label                  "Para" >
 
 <!ENTITY newevent.status.label                    "Estado" >
-<!ENTITY newevent.status.accesskey                "E" >
+<!ENTITY newevent.status.accesskey                "s" >
 <!ENTITY newevent.eventStatus.none.label          "Não especificado" >
 <!ENTITY newevent.eventStatus.none.accesskey      "o" >
 <!ENTITY newevent.todoStatus.none.label           "Não especificado" >
@@ -103,7 +103,7 @@
 
 <!ENTITY  event.menu.options.label                            "Opções">
 <!ENTITY  event.menu.options.accesskey                        "O">
-<!ENTITY  event.menu.options.attendees.label                  "Convidar participantes...">
+<!ENTITY  event.menu.options.attendees.label                  "Convidar participantes…">
 <!ENTITY  event.menu.options.attendees.accesskey              "i">
 <!ENTITY  event.menu.options.timezone2.label                  "Mostrar fusos horários">
 <!ENTITY  event.menu.options.timezone2.accesskey              "s">
@@ -214,9 +214,9 @@
 <!ENTITY event.reminder.1day.before.label                 "1 dia antes" >
 <!ENTITY event.reminder.2days.before.label                "2 dias antes" >
 <!ENTITY event.reminder.1week.before.label                "1 semana antes" >
-<!ENTITY event.reminder.custom.label                      "Personalizar..." >
+<!ENTITY event.reminder.custom.label                      "Personalizar…" >
 
-<!ENTITY event.reminder.multiple.label                    "Múltiplos lembretes..." >
+<!ENTITY event.reminder.multiple.label                    "Múltiplos lembretes…" >
 
 <!ENTITY event.statusbarpanel.freebusy.label              "Hora como:">
 <!ENTITY event.statusbarpanel.privacy.label               "Privacidade:">
@@ -231,7 +231,7 @@
 <!ENTITY event.repeat.bi.weekly.label                   "Bissemanalmente">
 <!ENTITY event.repeat.monthly.label                     "Mensalmente">
 <!ENTITY event.repeat.yearly.label                      "Anualmente">
-<!ENTITY event.repeat.custom.label                      "Personalizar...">
+<!ENTITY event.repeat.custom.label                      "Personalizar…">
 
 <!ENTITY event.recurrence.pattern.label                 "Padrão de recorrência">
 <!ENTITY event.recurrence.occurs.label                  "Repetir" >

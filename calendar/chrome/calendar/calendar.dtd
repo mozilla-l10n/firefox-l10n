@@ -36,15 +36,15 @@
 <!ENTITY calendar.unifinder.tree.title.label               "Título">
 <!ENTITY calendar.unifinder.tree.title.tooltip2            "Ordenar por título">
 <!ENTITY calendar.unifinder.tree.percentcomplete.label     "&#037; concluído">
-<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip2  "Ordenar por  &#037; concluído">
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip2  "Ordenar por &#037; de conclusão">
 <!ENTITY calendar.unifinder.tree.startdate.label           "Início">
 <!ENTITY calendar.unifinder.tree.startdate.tooltip2        "Ordenar por data de início">
 <!ENTITY calendar.unifinder.tree.enddate.label             "Fim">
 <!ENTITY calendar.unifinder.tree.enddate.tooltip2          "Ordenar por data de fim">
 <!ENTITY calendar.unifinder.tree.duedate.label             "Limite">
-<!ENTITY calendar.unifinder.tree.duedate.tooltip2          "Ordenarpor data limite">
+<!ENTITY calendar.unifinder.tree.duedate.tooltip2          "Ordenar por data limite">
 <!ENTITY calendar.unifinder.tree.completeddate.label       "Terminado">
-<!ENTITY calendar.unifinder.tree.completeddate.tooltip2    "Ordenar por terminado">
+<!ENTITY calendar.unifinder.tree.completeddate.tooltip2    "Ordenar por data de conclusão">
 <!ENTITY calendar.unifinder.tree.categories.label          "Categoria">
 <!ENTITY calendar.unifinder.tree.categories.tooltip2       "Ordenar por categoria">
 <!ENTITY calendar.unifinder.tree.location.label            "Localização">
@@ -149,18 +149,18 @@
 <!ENTITY calendar.task.complete.button.tooltip  "Marcar tarefas selecionadas como terminadas">
 <!ENTITY calendar.task.priority.button.tooltip  "Mudar prioridade">
 
-<!ENTITY calendar.task.text-filter.textbox.emptytext.base            "Filtrar tarefas... #1">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.base            "Filtrar tarefas… #1">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Shift+K&gt;">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
 <!-- Context Menu -->
 
 <!ENTITY calendar.context.modifyorviewitem.label      "Abrir">
 <!ENTITY calendar.context.modifyorviewitem.accesskey  "A">
-<!ENTITY calendar.context.modifyorviewtask.label      "Abrir tarefa...">
+<!ENTITY calendar.context.modifyorviewtask.label      "Abrir tarefa…">
 <!ENTITY calendar.context.modifyorviewtask.accesskey  "A">
-<!ENTITY calendar.context.newevent.label              "Novo evento...">
+<!ENTITY calendar.context.newevent.label              "Novo evento…">
 <!ENTITY calendar.context.newevent.accesskey          "e">
-<!ENTITY calendar.context.newtodo.label               "Nova tarefa...">
+<!ENTITY calendar.context.newtodo.label               "Nova tarefa…">
 <!ENTITY calendar.context.newtodo.accesskey           "v">
 <!ENTITY calendar.context.deletetask.label            "Eliminar tarefa">
 <!ENTITY calendar.context.deletetask.accesskey        "E">
@@ -229,7 +229,7 @@
 <!ENTITY calendar.taskview.delete.label     "Eliminar">
 <!-- Server Context Menu -->
 
-<!ENTITY calendar.context.newserver.label              "Novo calendário...">
+<!ENTITY calendar.context.newserver.label              "Novo calendário…">
 <!ENTITY calendar.context.newserver.accesskey          "N">
 <!ENTITY calendar.context.findcalendar.label           "Localizar calendário…" >
 <!ENTITY calendar.context.findcalendar.accesskey       "o" >
@@ -246,9 +246,9 @@
 <!ENTITY calendar.context.unsubscribeserver.accesskey  "u">
 <!ENTITY calendar.context.synccalendars.label          "Sincronizar calendários">
 <!ENTITY calendar.context.synccalendars.accesskey      "S">
-<!ENTITY calendar.context.publish.label                "Publicar calendário...">
+<!ENTITY calendar.context.publish.label                "Publicar calendário…">
 <!ENTITY calendar.context.publish.accesskey            "b">
-<!ENTITY calendar.context.export.label                 "Exportar calendário...">
+<!ENTITY calendar.context.export.label                 "Exportar calendário…">
 <!ENTITY calendar.context.export.accesskey             "E">
 <!ENTITY calendar.context.properties.label             "Propriedades">
 <!ENTITY calendar.context.properties.accesskey         "P">
@@ -266,11 +266,11 @@
 <!ENTITY calendar.context.convertmenu.label              "Converter para">
 <!ENTITY calendar.context.convertmenu.accesskey.mail     "n">
 <!ENTITY calendar.context.convertmenu.accesskey.calendar "v">
-<!ENTITY calendar.context.convertmenu.event.label        "Evento...">
+<!ENTITY calendar.context.convertmenu.event.label        "Evento…">
 <!ENTITY calendar.context.convertmenu.event.accesskey    "E">
-<!ENTITY calendar.context.convertmenu.message.label      "Mensagem...">
+<!ENTITY calendar.context.convertmenu.message.label      "Mensagem…">
 <!ENTITY calendar.context.convertmenu.message.accesskey  "M">
-<!ENTITY calendar.context.convertmenu.task.label         "Tarefa...">
+<!ENTITY calendar.context.convertmenu.task.label         "Tarefa…">
 <!ENTITY calendar.context.convertmenu.task.accesskey     "T">
 
 <!ENTITY calendar.tasks.view.minimonth.label           "Mini-mês">
@@ -359,7 +359,7 @@
 <!ENTITY calendar.print.completedtasks.label "Tarefas terminadas">
 <!-- Error reporting -->
 
-<!ENTITY calendar.error.detail "Detalhes...">
+<!ENTITY calendar.error.detail "Detalhes…">
 <!ENTITY calendar.error.code "Código do erro:">
 <!ENTITY calendar.error.description "Descrição:">
 <!ENTITY calendar.error.title "Ocorreu um erro">
