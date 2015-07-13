@@ -8,9 +8,9 @@
 
 
 <!ENTITY pref.calendar.view.allview.caption "Geral">
-<!ENTITY pref.calendar.view.dayandweekviews.caption "Vista do Dia e da Semana">
-<!ENTITY pref.calendar.view.multiweekview.caption "Vista multi-semanal">
-<!ENTITY pref.calendar.view.workweek.caption "Semana de Trabalho">
+<!ENTITY pref.calendar.view.dayandweekviews.caption "Vista de dia e de semana">
+<!ENTITY pref.calendar.view.multiweekview.caption "Vista multissemanal">
+<!ENTITY pref.calendar.view.workweek.caption "Dias úteis">
 
 <!ENTITY pref.weekstarts.label "Início da semana:">
 <!ENTITY pref.weekstarts.accesskey "I">
