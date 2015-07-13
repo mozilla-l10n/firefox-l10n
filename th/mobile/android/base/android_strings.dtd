@@ -661,3 +661,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY find_matchcase "Aa">
 
+<!ENTITY intent_uri_cannot_open "ไม่สามารถเปิดลิงก์">
