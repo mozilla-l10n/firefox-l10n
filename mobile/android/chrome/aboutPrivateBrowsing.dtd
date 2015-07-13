@@ -3,12 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY privatebrowsingpage.title "Privat surfning">
+<!ENTITY privatebrowsingpage.title.normal "Du surfar inte i privat läge">
 
+<!ENTITY privatebrowsingpage.issueDesc.normal2 "I privat surfläge, kommer vi inte spara någon av din webbhistorik eller kakor.">
+<!ENTITY privatebrowsingpage.issueDesc.private2 "Vi kommer inte spara något av din surf historik eller kakor.">
 
-
-
-
-
+<!ENTITY privatebrowsingpage.description2 "Bokmärken du har lagt till och filer du har laddat hem kommer fortfarande sparas på din enhet.">
+<!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
+<!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
 
 <!ENTITY privatebrowsingpage.link.private "Vill du veta mer?">
-
+<!ENTITY privatebrowsingpage.link.normal "Öppna en ny privat flik ">
