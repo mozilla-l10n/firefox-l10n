@@ -51,7 +51,7 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "T">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Conta atual">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "C">
-<!ENTITY getNextNMsgCmd.label "Receber 500 novas mensagens">
+<!ENTITY getNextNMsgCmd.label "Receber próxima 500 novas mensagens">
 <!ENTITY getNextNMsgCmd.accesskey "R">
 <!ENTITY sendUnsentCmd.label "Enviar mensagens não enviadas">
 <!ENTITY sendUnsentCmd.accesskey "e">
@@ -559,7 +559,7 @@
 <!ENTITY addressBookButton.tooltip "Ir para o livro de endereços">
 <!ENTITY chatButton.tooltip "Mostrar o separador de conversação">
 <!ENTITY tagButton.tooltip "Classificar mensagens">
-<!ENTITY compactButton.tooltip "Remover  mensagens eliminadas da pasta selecionadas">
+<!ENTITY compactButton.tooltip "Remover mensagens eliminadas da pasta selecionada">
 <!ENTITY appmenuButton1.tooltip "Mostrar menu do &brandShortName;">
 <!-- Toolbar Button Popup -->
 

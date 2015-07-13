@@ -20,7 +20,7 @@
 <!ENTITY rightRadio.label "Direita">
 <!ENTITY rightRadio.accessKey "D">
 
-<!ENTITY threeDShading.label "Sombra 3-D">
+<!ENTITY threeDShading.label "Sombra 3D">
 <!ENTITY threeDShading.accessKey "S">
 <!ENTITY saveSettings.label "Utilizar como pré-definição">
 <!ENTITY saveSettings.accessKey "d">

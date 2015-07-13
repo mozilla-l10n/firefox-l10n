@@ -18,18 +18,18 @@
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findBarCmd.label "Localizar…">
 <!ENTITY findReplaceCmd.label "Localizar e substituir…">
-<!ENTITY enableInlineSpellChecker.label "Verificar escrita ao escrever">
+<!ENTITY enableInlineSpellChecker.label "Verificar ortografia ao escrever">
 <!ENTITY enableInlineSpellChecker.accesskey "s">
 <!ENTITY checkSpellingCmd2.label "Verificar ortografia…">
 <!ENTITY checkSpellingCmd2.accesskey "c">
-<!ENTITY checkSpellingCmd2.key "k">
+<!ENTITY checkSpellingCmd2.key "t">
 <!-- Insert menu items -->
 
 <!ENTITY insertMenu.label "Inserir">
-<!ENTITY insertMenu.accesskey "i">
+<!ENTITY insertMenu.accesskey "I">
 <!ENTITY insertLinkCmd.label "Ligação…">
 <!ENTITY insertLinkCmd.accesskey "L">
-<!ENTITY insertLinkCmd.key "l">
+<!ENTITY insertLinkCmd.key "L">
 <!ENTITY insertAnchorCmd.label "Âncora com nome…">
 <!ENTITY insertAnchorCmd.accesskey "a">
 <!ENTITY insertImageCmd.label "Imagem…">
@@ -138,7 +138,7 @@
 
 <!ENTITY formatFontColor.label "Cor do texto…">
 <!ENTITY formatFontColor.accesskey "C">
-<!ENTITY tableOrCellColor.label "Cor de fundo de tabela ou célula…">
+<!ENTITY tableOrCellColor.label "Cor de fundo da tabela ou célula…">
 <!ENTITY tableOrCellColor.accesskey "C">
 
 <!ENTITY formatRemoveStyles.key "y">
@@ -165,29 +165,29 @@
 <!ENTITY heading6Cmd.accesskey "6">
 <!ENTITY paragraphAddressCmd.label "Endereço">
 <!ENTITY paragraphAddressCmd.accesskey "E">
-<!ENTITY paragraphPreformatCmd.label "Pré-formatação">
-<!ENTITY paragraphPreformatCmd.accesskey "r">
+<!ENTITY paragraphPreformatCmd.label "Pré-formatado">
+<!ENTITY paragraphPreformatCmd.accesskey "f">
 <!-- List menu items -->
 
 <!ENTITY formatlistMenu.label "Lista">
 <!ENTITY formatlistMenu.accesskey "L">
-<!ENTITY noneCmd.label "Nenhum">
+<!ENTITY noneCmd.label "Nenhuma">
 <!ENTITY noneCmd.accesskey "N">
 <!ENTITY listBulletCmd.label "Marcas">
-<!ENTITY listBulletCmd.accesskey "M">
-<!ENTITY listNumberedCmd.label "Numerado">
+<!ENTITY listBulletCmd.accesskey "a">
+<!ENTITY listNumberedCmd.label "Numerada">
 <!ENTITY listNumberedCmd.accesskey "m">
 <!ENTITY listTermCmd.label "Termo">
 <!ENTITY listTermCmd.accesskey "T">
 <!ENTITY listDefinitionCmd.label "Definição">
 <!ENTITY listDefinitionCmd.accesskey "D">
 <!ENTITY listPropsCmd.label "Propriedades da lista…">
-<!ENTITY listPropsCmd.accesskey "s">
+<!ENTITY listPropsCmd.accesskey "l">
 
 <!ENTITY ParagraphSelect.tooltip "Escolha um formato de parágrafo">
 <!-- Shared in Paragraph, and Toolbar menulist -->
-<!ENTITY bodyTextCmd.label "Corpo de texto">
-<!ENTITY bodyTextCmd.accesskey "r">
+<!ENTITY bodyTextCmd.label "Corpo do texto">
+<!ENTITY bodyTextCmd.accesskey "t">
 <!-- isn't used in menu now, but may be added in future -->
 <!ENTITY advancedPropertiesCmd.label "Propriedades avançadas">
 <!ENTITY advancedPropertiesCmd.accesskey "v">
@@ -314,8 +314,8 @@
 <!ENTITY HighlightColorButton.tooltip "Escolha a cor de realce do texto">
 <!-- Editor toolbar -->
 
-<!ENTITY decreaseFontSizeToolbarCmd.tooltip "Tamanho de letra pequeno">
-<!ENTITY increaseFontSizeToolbarCmd.tooltip "Tamanho de letra grande">
+<!ENTITY decreaseFontSizeToolbarCmd.tooltip "Diminuir tamanho da letra">
+<!ENTITY increaseFontSizeToolbarCmd.tooltip "Aumentar tamanho da letra">
 <!ENTITY boldToolbarCmd.tooltip "Negrito">
 <!ENTITY italicToolbarCmd.tooltip "Itálico">
 <!ENTITY underlineToolbarCmd.tooltip "Sublinhado">
@@ -334,7 +334,7 @@
 <!ENTITY structSelect.label         "Seleção">
 <!ENTITY structSelect.accesskey     "S">
 <!ENTITY structRemoveTag.label      "Remover etiqueta">
-<!ENTITY structRemoveTag.accesskey  "r">
+<!ENTITY structRemoveTag.accesskey  "R">
 <!ENTITY structChangeTag.label      "Mudar etiqueta">
 <!ENTITY structChangeTag.accesskey  "u">
 <!-- TOC manipulation -->

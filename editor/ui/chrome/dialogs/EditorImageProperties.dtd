@@ -66,8 +66,8 @@
 
 <!ENTITY showImageLinkBorder.label "Mostrar limite ao redor da ligação à imagem">
 <!ENTITY showImageLinkBorder.accessKey "M">
-<!ENTITY LinkAdvancedEditButton.label "Ligar à edição avançada…">
-<!ENTITY LinkAdvancedEditButton.accessKey "L">
+<!ENTITY LinkAdvancedEditButton.label "Edição avançada de ligação…">
+<!ENTITY LinkAdvancedEditButton.accessKey "l">
 <!ENTITY LinkAdvancedEditButton.tooltip "Adicionar ou modificar atributos HTML, atributos de estilo e JavaScript">
 <!-- These tabs are currently used in the image input dialog -->
 

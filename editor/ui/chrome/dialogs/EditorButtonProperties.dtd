@@ -20,8 +20,8 @@
 <!ENTITY tabIndex.accesskey "i">
 <!ENTITY ButtonDisabled.label "Inativo">
 <!ENTITY ButtonDisabled.accesskey "n">
-<!ENTITY AccessKey.label "Chave de acesso:">
-<!ENTITY AccessKey.accesskey "h">
+<!ENTITY AccessKey.label "Tecla de acesso:">
+<!ENTITY AccessKey.accesskey "T">
 
 <!ENTITY RemoveButton.label "Remover botão">
 <!ENTITY RemoveButton.accesskey "R">

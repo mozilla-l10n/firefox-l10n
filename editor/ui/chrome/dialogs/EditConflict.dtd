@@ -4,7 +4,7 @@
 <!-- Window title -->
 
 <!ENTITY windowTitle.label "Selecionar alterações de edição">
-<!ENTITY conflictWarning.label "Esta página foi alterada por outro programa mas também tem alterações não guardadas no compositor.">
-<!ENTITY conflictResolve.label "Selecionar a versão a manter:">
+<!ENTITY conflictWarning.label "Esta página foi alterada por outro programa, mas também tem alterações não guardadas no compositor.">
+<!ENTITY conflictResolve.label "Selecione a versão a manter:">
 <!ENTITY keepCurrentPageButton.label "Manter alterações da página atual">
-<!ENTITY useOtherPageButton.label "Substituir página acual por outra com alterações">
+<!ENTITY useOtherPageButton.label "Substituir página atual por outra com alterações">

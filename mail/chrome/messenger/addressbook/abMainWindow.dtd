@@ -86,7 +86,7 @@
 <!ENTITY viewToolbarsMenu.accesskey                     "B"> 
 <!ENTITY menubarCmd.label                               "Barra de menu">
 <!ENTITY menubarCmd.accesskey                           "m">
-<!ENTITY showAbToolbarCmd.label                         "Barra de ferramentas do livro de endereços">
+<!ENTITY showAbToolbarCmd.label                         "Barra do livro de endereços">
 <!ENTITY showAbToolbarCmd.accesskey                     "a">
 <!ENTITY showTaskbarCmd.label                           "Barra de estado">
 <!ENTITY showTaskbarCmd.accesskey                       "s">
@@ -102,9 +102,9 @@
 <!ENTITY menu_ShowNameAs.accesskey                      "n"> 
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
-<!ENTITY firstLastCmd2.label                            "Primeiro último">
+<!ENTITY firstLastCmd2.label                            "Primeiro Último">
 <!ENTITY firstLastCmd2.accesskey                        "P"> 
-<!ENTITY lastFirstCmd.label                             "Último, primeiro">
+<!ENTITY lastFirstCmd.label                             "Último, Primeiro">
 <!ENTITY lastFirstCmd.accesskey                         "r">
 <!ENTITY displayNameCmd.label                           "Nome exibido">
 <!ENTITY displayNameCmd.accesskey                       "m">
@@ -146,7 +146,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.tooltip                       "Criar novo contacto no livro de endereços">
 <!ENTITY newlistButton.tooltip                          "Criar nova lista">
 <!ENTITY editButton2.tooltip                            "Editar item selecionado">
-<!ENTITY newmsgButton.tooltip                           "Enviar um e-mail">
+<!ENTITY newmsgButton.tooltip                           "Enviar uma mensagem">
 <!ENTITY newIM.tooltip                                  "Enviar mensagem instantânea ou de conversação">
 <!ENTITY deleteButton2.tooltip                           "Eliminar item selecionado">
 <!-- Dir Tree header -->

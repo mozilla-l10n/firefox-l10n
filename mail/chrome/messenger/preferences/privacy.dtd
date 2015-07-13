@@ -22,7 +22,7 @@
 <!ENTITY acceptThirdParty.pre.accesskey "c">
 <!ENTITY acceptThirdParty.always.label "Sempre">
 <!ENTITY acceptThirdParty.never.label "Nunca">
-<!ENTITY acceptThirdParty.visited.label "Dos sítios acedidos">
+<!ENTITY acceptThirdParty.visited.label "Dos visitados">
 <!ENTITY keepUntil.label "Manter até:">
 <!ENTITY keepUntil.accesskey "M">
 <!ENTITY expire.label "que expirem">

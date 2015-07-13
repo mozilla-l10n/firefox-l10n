@@ -12,7 +12,7 @@
 <!ENTITY chat.noAccount.title             "Ainda não configurou uma conta de conversação.">
 <!ENTITY chat.noAccount.description       "Deixar que o &brandShortName; o ajude no processo de configuração da conta de conversação.">
 <!ENTITY chat.accountWizard.button       "Iniciar">
-<!ENTITY chat.noConnectedAccount.title             "As suas contas de conersas não estão ligadas.">
+<!ENTITY chat.noConnectedAccount.title             "As suas contas de conversas não estão ligadas.">
 <!ENTITY chat.noConnectedAccount.description       "Pode ligar as contas no diálogo 'Estado da conversa':">
 <!ENTITY chat.showAccountManager.button       "Mostrar estado da conversa">
 
