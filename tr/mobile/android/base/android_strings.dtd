@@ -44,6 +44,10 @@
 <!ENTITY bookmark "Yer imi">
 <!ENTITY bookmark_remove "Yer imini kaldır">
 <!ENTITY bookmark_added "Yer imi eklendi">
+<!-- Localization note (bookmark_already_added) : This string is
+     used as a label in a toast. It is the verb "to bookmark", not
+     the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "Zaten yer imlerinde">
 <!ENTITY bookmark_removed "Yer imi silindi">
 <!ENTITY bookmark_updated "Yer imi güncellendi">
 <!ENTITY bookmark_options "Seçenekler">
@@ -77,6 +81,7 @@
 
 <!ENTITY settings "Ayarlar">
 <!ENTITY settings_title "Ayarlar">
+<!ENTITY pref_category_input_options "Giriş seçenekleri">
 <!ENTITY pref_category_advanced "Gelişmiş">
 <!ENTITY pref_category_customize "Özelleştir">
 <!ENTITY pref_category_customize_summary "Başlangıç, arama, sekmeler, içerik alma">
@@ -104,7 +109,7 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "Yer imlerine ekle">
 <!ENTITY overlay_share_reading_list_btn_label "Okuma Listesi\u0027ne ekle">
-<!ENTITY overlay_share_bookmark_btn_label_already "Zaten imlenmiş">
+<!ENTITY overlay_share_bookmark_btn_label_already "Zaten yer imlerinde">
 <!ENTITY overlay_share_reading_list_btn_label_already "Zaten Okuma Listesi\u0027nde">
 <!ENTITY overlay_share_send_other "Başka aygıtlara gönder">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -132,7 +137,7 @@
 <!ENTITY pref_category_display "Görünüm">
 <!ENTITY pref_category_display_summary "Metin, başlık çubuğu, tam ekran gezinti">
 <!ENTITY pref_category_privacy_short "Gizlilik">
-<!ENTITY pref_category_privacy_summary "Parolaları, çerezleri, izlemeyi, verileri yönet">
+<!ENTITY pref_category_privacy_summary2 "Hesapları, çerezleri, izlemeyi, verileri yönet">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "&brandShortName; hakkında, SSS, veri tercihleri">
 <!ENTITY pref_category_datareporting "Veri tercihleri">
@@ -151,7 +156,9 @@
 <!ENTITY pref_category_devtools "Geliştirici araçları">
 <!ENTITY pref_developer_remotedebugging "Uzaktan hata ayıklama">
 <!ENTITY pref_category_logins "Hesaplar">
-<!ENTITY pref_remember_signons "Parolaları hatırla">
+<!ENTITY pref_remember_signons2 "Giriş bilgilerini hatırla">
+<!ENTITY pref_open_external_urls_privately_title "Bağlantıları gizle taramada aç">
+<!ENTITY pref_open_external_urls_privately_summary "&brandShortName; ile açılan tüm harici bağlantılar için">
 <!ENTITY pref_manage_logins "Hesapları yönet">
 
 <!ENTITY pref_category_home "Başlangıç">
@@ -189,10 +196,10 @@
 <!ENTITY pref_donottrack_title "Beni izleme">
 <!ENTITY pref_donottrack_summary "&brandShortName;sitelere izlenmek istemediğinizi söyleyecek">
 
-<!ENTITY tab_queue_toast_message2 "Sekme &brandShortName; kuyruğuna alındı">
+<!ENTITY tab_queue_toast_message3 "Sekme &brandShortName; üzerinde kaydedildi">
 <!ENTITY tab_queue_toast_action "Şimdi aç">
 <!ENTITY tab_queue_prompt_title "Çoklu bağlantı mı açıyorsunuz?">
-<!ENTITY tab_queue_prompt_text2 "Onları her seferinde &brandShortName; tarayıcısına geçmeden açın.">
+<!ENTITY tab_queue_prompt_text3 "Bir sonraki &brandShortName; açılışına kadar kaydet">
 <!ENTITY tab_queue_prompt_tip_text "bunu daha sonra Ayarlar\u0027dan değiştirebilisiniz">
 <!ENTITY tab_queue_prompt_positive_action_button "Etkinleştir">
 <!ENTITY tab_queue_prompt_negative_action_button "Şimdi değil">
@@ -244,10 +251,14 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled_summary "Web sitelerinin videoları ve diğer ortam içeriklerini otomatik oynatıp oynatamayacağını kontrol et">
 <!ENTITY pref_zoom_force_enabled "Yakınlaştırmayı her zaman etkinleştir">
 <!ENTITY pref_zoom_force_enabled_summary "Her sayfayı yakınlaştırabilmeniz için sayfa tercihini zorla değiştirir">
+<!ENTITY pref_voice_input "Sesle giriş">
+<!ENTITY pref_voice_input_summary "Başlık çubuğunda sesli dikteye izin ver">
+<!ENTITY pref_qrcode_enabled "QR kodu okuyucu">
+<!ENTITY pref_qrcode_enabled_summary "Başlık çubuğunda QR tarayıcısına izin ver">
 
 <!ENTITY pref_use_master_password "Ana parolayı kullan">
 <!ENTITY pref_sync "Sync">
-<!ENTITY pref_sync_summary "Sekmelerinizi, yer imlerinizi, parolalarınızı, geçmişinizi eşitleyin">
+<!ENTITY pref_sync_summary2 "Sekmelerinizi, yer imlerinizi, hesaplarınızı, geçmişinizi eşitleyin">
 <!ENTITY pref_search_suggestions "Arama önerilerini göster">
 <!ENTITY pref_import_android "Android\u0027den al">
 <!ENTITY pref_import_android_summary "Yer imlerini ve geçmişi yerel tarayıcıdan içe aktar">
@@ -255,11 +266,12 @@ size. -->
 <!ENTITY pref_private_data_searchHistory "Arama geçmişi">
 <!ENTITY pref_private_data_formdata2 "Form geçmişi">
 <!ENTITY pref_private_data_cookies2 "Çerezler ve aktif oturumlar">
-<!ENTITY pref_private_data_passwords "Kayıtlı parolalar">
+<!ENTITY pref_private_data_passwords2 "Kayıtlı hesaplar">
 <!ENTITY pref_private_data_cache "Önbellek">
 <!ENTITY pref_private_data_offlineApps "Çevrimdışı web sitesi verileri">
 <!ENTITY pref_private_data_siteSettings2 "Site ayarları">
 <!ENTITY pref_private_data_downloadFiles2 "İndirilenler">
+<!ENTITY pref_private_data_syncedTabs "Eşitlenmiş sekmeler">
 
 
 <!ENTITY pref_about_firefox "&brandShortName; hakkında">
@@ -379,6 +391,11 @@ size. -->
 <!ENTITY doorhanger_login_edit_password_hint "Parola">
 <!ENTITY doorhanger_login_edit_toggle "Parolayı göster">
 <!ENTITY doorhanger_login_edit_toast_error "Hesap kaydedilemedi">
+<!ENTITY doorhanger_login_select_message "Parolalar &formatS; kaynağından kopyalansın mı?">
+<!ENTITY doorhanger_login_select_toast_copy "Parola panoya kopyalandı">
+<!ENTITY doorhanger_login_select_toast_copy_error "Parola kopyalanamadı">
+<!ENTITY doorhanger_login_select_action_text "Başka bir hesap seçin">
+<!ENTITY doorhanger_login_select_title "Parolayı buradan kopyala">
 
 <!ENTITY pref_titlebar_mode "Başlık çubuğu">
 <!ENTITY pref_titlebar_mode_title "Sayfa başlığını göster">
@@ -390,7 +407,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "Sayfada aşağı kaydırırken &brandShortName; başlık çubuğunu gizle">
 
 <!ENTITY pref_tab_queue_title2 "Çoklu bağlantı aç">
-<!ENTITY pref_tab_queue_summary2 "Her seferinde &brandShortName; tarayıcısına geçmek yerin bağlantıları kuyruğa al">
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -408,8 +425,10 @@ size. -->
 <!ENTITY site_settings_cancel       "İptal">
 <!ENTITY site_settings_clear        "Temizle">
 <!ENTITY site_settings_no_settings  "Temizlenecek ayar yok.">
+<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+     as possible. -->
 
-<!ENTITY reading_list_added "Sayfa, okuma listenize eklendi">
+<!ENTITY reading_list_added2 "Listeye eklendi">
 <!ENTITY reading_list_removed "Sayfa, okuma listenizden silindi">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -438,7 +457,7 @@ size. -->
 <!ENTITY button_clear_data "Verileri temizle">
 <!ENTITY button_set "Ayarla">
 <!ENTITY button_clear "Temizle">
-<!ENTITY button_remember "Hatırla">
+<!ENTITY button_copy "Kopyala">
 
 <!ENTITY firstrun_panel_title_welcome "Hoş geldiniz">
 
@@ -502,10 +521,6 @@ size. -->
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Seçilen cihazları göster">
 
-<!ENTITY private_browsing_title "Gizli Tarama">
-<!ENTITY private_tabs_panel_empty_desc "Gizli sekmeleriniz burada görünecek. Tarama geçmişiniz ve çerezleriniz kaydedilmemesine rağmen yer imleriniz ve indirdiğiniz dosyalar cihazınıza kaydedilecektir.">
-<!ENTITY private_tabs_panel_learn_more "Daha fazla bilgi almak ister misiniz?">
-
 <!ENTITY remote_tabs_panel_moved_title "Sekmelerim nereye gitti?">
 <!ENTITY remote_tabs_panel_moved_desc "Diğer aygıtlardaki sekmelerinizi giriş sayfasındaki bir panele taşıdık. Her yeni sekme açtığınızda onlara kolayca ulaşabilirsiniz.">
 <!ENTITY remote_tabs_panel_moved_link "Yeni panelime gidelim.">
@@ -533,6 +548,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "İşleten:">
 <!ENTITY identity_no_info "Bu web sitesi kimlik bilgisi sağlamıyor.">
 <!ENTITY identity_not_encrypted "Bu siteyle aranızdaki bağlantı şifrelenmemiş.">
+<!ENTITY identity_encrypted "Şifrelenmiş">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "Bu sayfada güvenli olmayan içerik görüntüleniyor.">
@@ -555,9 +571,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_fail "Bazı özel veriler temizlenemedi">
 
 <!ENTITY bookmarkhistory_button_import "İçe aktar">
-<!ENTITY bookmarkhistory_import_both "Android\u0027den yer imleri ve geçmiş alınıyor">
-<!ENTITY bookmarkhistory_import_bookmarks "Android\u0027den yer imleri alınıyor">
-<!ENTITY bookmarkhistory_import_history "Android\u0027den geçmiş alınıyor">
+<!ENTITY bookmarkhistory_import_both "Android\u0027den yer imleri ve geçmiş 
+alınıyor">
+<!ENTITY bookmarkhistory_import_bookmarks "Android\u0027den yer imleri 
+alınıyor">
+<!ENTITY bookmarkhistory_import_history "Android\u0027den geçmiş 
+alınıyor">
 <!ENTITY bookmarkhistory_import_wait "Lütfen bekleyin...">
 
 <!ENTITY suggestions_prompt3 "Arama önerilerini açmak ister misiniz?">
@@ -596,7 +615,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "Devam">
 <!ENTITY guest_session_dialog_cancel "İptal">
 <!ENTITY new_guest_session_title "&brandShortName; şimdi yeniden başlayacak">
-<!ENTITY new_guest_session_text "Bunu kullanan kişi, kişisel tarama verilerinizin hiçbirini (kayıtlı parolalarınız, geçmişiniz ve yer imleriniz) görmeyecektir.\n\nKonuğun işi bittiğinde tarama verileri silinecek ve sizin oturumunuz geri yüklenecektir.">
+<!ENTITY new_guest_session_text2 "Bunu kullanan kişi, kişisel tarama verilerinizin hiçbirini (kayıtlı hesaplarınız, geçmişiniz ve yer imleriniz) görmeyecektir.\n\nKonuğun işi bittiğinde tarama verileri silinecek ve sizin oturumunuz geri yüklenecektir.">
 <!ENTITY guest_browsing_notification_title "Konum oturumu etkinleşti">
 <!ENTITY guest_browsing_notification_text "Çıkmak için dokunun">
 
@@ -617,7 +636,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      double percent signs must be inserted in the format string.
      This entity is used in the zoomed view to display the zoom factor-->
 
-<!ENTITY percent "&#037;&formatS;&#037;">
+<!ENTITY percent "&#037;&#037;&formatS;">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
@@ -645,3 +664,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
 
 <!ENTITY find_matchcase "Aa">
+
