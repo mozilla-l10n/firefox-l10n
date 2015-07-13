@@ -15,5 +15,6 @@
 <!ENTITY aboutSupport.accountsConnSecurity "Tèarainteachd a' cheangail">
 <!ENTITY aboutSupport.accountsAuthMethod "An dòigh dearbhachaidh">
 <!ENTITY aboutSupport.accountsDefault "Bunaiteach?">
+<!ENTITY aboutSupport.identityName "Dearbh-aithne">
 
 <!ENTITY aboutSupport.sendViaEmail.label "Cuir air a' phost-dealain">
