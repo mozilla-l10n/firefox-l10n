@@ -21,7 +21,7 @@
 
 <!ENTITY  crash_reporter_title "Rapòrt de fracàs de &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; a fracassat. Vòstres onglets deurián aparéisser sus la pagina d\u0027aviada de &brandShortName; a son aviada que ven.">
-<!ENTITY  crash_send_report_message3 "Assabentar &#037;s d\u0027aqueste problèma per que pòsca èsser corregit">
+<!ENTITY  crash_send_report_message3 "Assabentar &vendorShortName; d\u0027aqueste problèma per que pòsca èsser corregit">
 <!ENTITY  crash_include_url2 "Inclure l\u0027URL de la pagina ont vos trobàvetz">
 <!ENTITY  crash_sorry "O planhèm">
 <!ENTITY  crash_comment "Apondre un comentari (los comentaris son visibles publicament)">
@@ -41,6 +41,9 @@
 
 
 <!ENTITY bookmark_added "Marcapaginas apondut">
+<!-- Localization note (bookmark_already_added) : This string is
+     used as a label in a toast. It is the verb "to bookmark", not
+     the noun "a bookmark". -->
 <!ENTITY bookmark_removed "Marcapaginas suprimit">
 <!ENTITY bookmark_updated "Marcapaginas mes a jorn">
 <!ENTITY bookmark_options "Opcions">
@@ -73,6 +76,7 @@
 
 <!ENTITY settings "Paramètres">
 
+
 <!ENTITY pref_category_advanced "Avançat">
 <!ENTITY pref_category_customize "Personalizar">
 
@@ -99,7 +103,6 @@
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
-
 
 
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
@@ -132,11 +135,11 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_category_devtools "Aisinas de desvolopament">
-
-
 <!ENTITY pref_developer_remotedebugging "Desbugatge distant">
 
-<!ENTITY pref_remember_signons "Enreg. los senhals :">
+
+
+
 
 
 <!ENTITY pref_category_home "Acuèlh">
@@ -171,15 +174,17 @@
 
 
 
-<!-- Localization note (tab_queue_notification_text_plural) : The
+
+
+
+
+
+
+<!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!-- Localization note (tab_queue_notification_title_plural) : This is the
-     title of a notification; we expect more than one tab queued. -->
-<!-- Localization note (tab_queue_notification_title_singular) : This is the
-     title of a notification; we expect only one tab queued. -->
-<!-- Localization note (tab_queue_notification_text_singular) : This is the
+<!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
 
 <!ENTITY pref_char_encoding "Encodatge de caractèrs">
@@ -213,7 +218,11 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
-<!ENTITY pref_font_size_preview_text "Lo pandà rós, rapid coma un  lhauç, rebombís de delà de vòstras espèras amb mai de velocitat, mai de soplesa e mai de seguretat. En tant que fondacion de tòca non lucrativa, sèm liures d\u0027innovar per vos sens cap de pression ni cap de compromés. Aquò significa una melhora experiéncia per vos e un melhor avenidor pel Web.">
+<!ENTITY pref_font_size_preview_text "Lo pandà rós, rapid coma un lhauç, rebombís de delà de vòstras espèras amb mai de velocitat, mai de soplesa e mai de seguretat. En tant que fondacion de tòca non lucrativa, sèm liures d\u0027innovar per vos sens cap de pression ni cap de compromés. Aquò significa una melhora experiéncia per vos e un melhor avenidor pel Web.">
+
+
+
+
 
 
 
@@ -226,12 +235,14 @@ size. -->
 <!ENTITY pref_import_android "Importar dempuèi Android">
 
 
-<!ENTITY pref_private_data_formdata "Istoric dels formularis &amp; de las recèrcas">
+
+
 <!ENTITY pref_private_data_cookies2 "Cookies &amp; connexions activas">
-<!ENTITY pref_private_data_passwords "Senhals enregistrats">
+
 <!ENTITY pref_private_data_cache "Escondedor">
 <!ENTITY pref_private_data_offlineApps "Donadas de sites web sens connexion">
 <!ENTITY pref_private_data_siteSettings2 "Paramètres del site">
+
 
 
 
@@ -343,6 +354,12 @@ size. -->
 
 
 
+
+
+
+
+
+
 <!ENTITY pref_titlebar_mode "Barra de títol">
 <!ENTITY pref_titlebar_mode_title "Afichar lo títol de la pagina">
 
@@ -368,8 +385,8 @@ size. -->
 
 <!ENTITY site_settings_clear        "Escafar">
 <!ENTITY site_settings_no_settings  "I a pas de paramètre d\u0027escafar.">
-
-<!ENTITY reading_list_added "Pagina aponduda a vòstra lista de lectura">
+<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+     as possible. -->
 <!ENTITY reading_list_removed "Pagina levada de vòstra lista de lectura">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -393,7 +410,8 @@ size. -->
 <!ENTITY button_clear_data "Escafar las donadas">
 
 
-<!ENTITY button_remember "Memorizar">
+<!ENTITY button_copy "Copiar">
+
 
 <!ENTITY home_top_sites_title "Sites favorits">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -441,10 +459,6 @@ size. -->
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 
-<!ENTITY private_browsing_title "Navigacion privada">
-
-
-
 
 
 
@@ -469,6 +483,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "que lo detentor n\u0027es">
 
 
+<!ENTITY identity_encrypted "Connexion chifrada">
 <!-- Mixed content notifications in site identity popup -->
 
 
@@ -495,6 +510,7 @@ dempuèi Android">
 dempuèi Android">
 <!ENTITY bookmarkhistory_import_wait "Esperatz...">
 
+<!ENTITY suggestions_prompt3 "Volètz activar las suggestions de recèrca?">
 <!--  Localization note (search_bar_item_desc): When the user clicks the url bar
       and starts typing, a list of icons of search engines appears at the bottom
       of the screen. When a user clicks an icon, the entered text will be searched
@@ -534,6 +550,12 @@ dempuèi Android">
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
 
+<!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
+     display a percentage value. formatS is the number, #37 is the code to display a percent sign.
+     This format string is typically used by getString method, in such method the percent sign
+     is a reserved caracter. In order to display one percent sign in the result of getString,
+     double percent signs must be inserted in the format string.
+     This entity is used in the zoomed view to display the zoom factor-->
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 <!ENTITY actionbar_done "Acabat">
@@ -552,3 +574,4 @@ dempuèi Android">
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
+

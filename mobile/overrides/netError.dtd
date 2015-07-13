@@ -11,7 +11,7 @@
 
 
 <!ENTITY connectionFailure.title "Impossible de se connectar">
-
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "Aquesta adreça es restrencha">
 <!ENTITY deniedPortAccess.longDesc "">
@@ -35,7 +35,7 @@
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY netInterrupt.title "La connexion es estada interrompuda">
-
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Lo document a expirat">
 <!ENTITY notCached.longDesc "<p>Lo document demandat es pas mai disponible dins l'escondedor de &brandShortName;.</p><ul><li>Per mesura de seguretat, &brandShortName; torna pas demandar automaticament de documents sensibles.</li><li>Clicatz sus Ensajar Tornarmai per tornar demandar aqueste document dempuèi lo site web.</li></ul>">
@@ -55,10 +55,10 @@
 </ul>">
 
 <!ENTITY netReset.title "La connexion es estada reinicializada">
-
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "Relambi d'espèra passat">
-
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "La connexion es pas estada compresa">
 <!ENTITY unknownProtocolFound.longDesc "<ul> 
@@ -75,6 +75,12 @@ fonciona.</li>
 <!ENTITY proxyResolveFailure.title "Impossible de trobar lo servidor mandatòri">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY proxyResolveFailure.longDesc3 "<ul> 
+<li>Verificatz que los paramètres del proxy son corrèctes.</li> 
+<li>Verificatz que la connexion donadas o WiFi de vòstre aparelh fonciona. 
+<button id='wifi'>Activar lo Wifi</button> 
+</li> 
+</ul>">
 
 <!ENTITY redirectLoop.title "Redireccion de pagina incorrècta">
 <!ENTITY redirectLoop.longDesc "<ul> 
@@ -86,7 +92,8 @@ dels cookies.</li>
 <!ENTITY unknownSocketType.longDesc "<ul> 
 <li>Verificatz que lo gestionari de seguretat personala (PSM) es installat sus 
 vòstre sistèma.</li> 
-<li>Aquò pòt èsser degut a una configuracion inacostumada del servidor.</li> </ul>">
+<li>Aquò pòt èsser degut a una configuracion inacostumada del servidor.</li> 
+</ul>">
 
 <!ENTITY nssFailure2.title "Fracàs de la connexion securizada">
 
@@ -100,6 +107,13 @@ ensajar tornamai pus tard.</li>
 </ul>">
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+
+<!ENTITY sharedLongDesc3 "<ul> 
+<li>Benlèu que lo site es temporàriament indisponible o subrecargat. Tornatz ensajar mai tard.</li> 
+<li>Se capitatz pas de navigar sus cap de site, verificatz la connexion donadas o WiFi de vòstre aparelh. 
+<button id='wifi'>Activar lo Wifi</button> 
+</li> 
+</ul>">
 
 <!ENTITY cspBlocked.title "Blocat per una estrategia de seguretat de contengut">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; a empacht lo cargament d'aquesta pagina d'aquel biais perque son estrategia de seguretat de contengut lo permet pas.</p>">

@@ -15,3 +15,7 @@
 <!ENTITY safeb.blocked.phishingPage.title2 "Suspicion de site Web contrafach">
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "En picant d'informacions sus aquesta pagina Web, vos poiriatz expausar a una usurpacion d'identitat o a d'autras fraudariás.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Aquestes tipes de sites Web son utilizats dins de fraudariás conegudas jol tèrme d'atacs per phishing (o anquetatge), dins las qualas de paginas Web o de corrièrs frauduloses son utilizats per imitar de fonts dins lasqualas podètz aver fisança.</p>">
+
+<!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "La pagina web de <span id='unwanted_sitename'/> es estat raportat coma un site d'atac e l'avèm blocat en nos basant sus vòstras preferéncias de seguretat.">
+
