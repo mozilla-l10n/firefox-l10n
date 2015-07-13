@@ -8,10 +8,15 @@
 <!ENTITY lightning.toolbar.task.name.accesskey "N">
 
 <!ENTITY lightning.toolbar.sync.label "Synchronizować">
+<!ENTITY lightning.toolbar.sync.tooltip "Protyki znowa začitać a změny synchronizować">
 <!ENTITY lightning.toolbar.delete.label "Zhašeć">
+<!ENTITY lightning.toolbar.delete.tooltip "Wubrane podawki abo nadawki zhašeć">
 <!ENTITY lightning.toolbar.edit.label "Wobdźěłać">
+<!ENTITY lightning.toolbar.edit.tooltip "Wubrany podawk abo nadawk wobdźěłać">
 <!ENTITY lightning.toolbar.gototoday.label "K dźensnišemu">
+<!ENTITY lightning.toolbar.gototoday.tooltip "K dźensnišemu">
 <!ENTITY lightning.toolbar.print.label "Ćišćeć">
+<!ENTITY lightning.toolbar.print.tooltip "Podawki abo nadawki ćišćeć">
 <!-- Mode Toolbar -->
 
 <!ENTITY lightning.toolbar.calendar.label     "Protyka">
@@ -23,7 +28,9 @@
 <!-- Toolbar write button -->
 
 <!ENTITY lightning.toolbar.newevent.label     "Podawk">
+<!ENTITY lightning.toolbar.newevent.tooltip   "Nowy podawk wutworić">
 <!ENTITY lightning.toolbar.newtask.label      "Nadawk">
+<!ENTITY lightning.toolbar.newtask.tooltip    "Nowy nadawk wutworić">
 <!-- Calendar and Task Mode Toolbar -->
 
 <!ENTITY lightning.toolbar.day.label                 "Dźeń">
