@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label "Eşitlenecek ögeler">
 <!ENTITY sync.configure.engines.sync.my.title.label "Aşağıdakileri eşitle:">
 <!ENTITY sync.configure.engines.title.bookmarks "Yer imleri">
-<!ENTITY sync.configure.engines.title.passwords "Parolalar">
+<!ENTITY sync.configure.engines.title.passwords2 "Hesaplar">
 <!ENTITY sync.configure.engines.title.history "Geçmiş">
 <!ENTITY sync.configure.engines.title.tabs "Sekmeler">
 <!-- Common text -->
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "Gizlilik İlkeleri">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label;\u0027e hoş geldiniz">
-<!ENTITY fxaccount_getting_started_description "Sekmelerinizi, yer imlerinizi, parolalarınızı ve dahasını eşitlemek için oturum açın.">
+<!ENTITY fxaccount_getting_started_description2 "Sekmelerinizi, yer imlerinizi, hesaplarınızı ve dahasını eşitlemek için giriş yapın.">
 <!ENTITY fxaccount_getting_started_get_started "Başlayın">
 <!ENTITY fxaccount_getting_started_old_firefox "&syncBrand.shortName.label;\u0027in eski bir sürümünü mü kullanıyorsunuz?">
 <!-- Localization note: the Firefox below should not change with the
@@ -212,7 +212,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating "Yeni Firefox Hesabınıza giriş yapmak için dokunun.">
 <!ENTITY fxaccount_status_bookmarks "Yer imleri">
 <!ENTITY fxaccount_status_history "Geçmiş">
-<!ENTITY fxaccount_status_passwords "Parolalar">
+<!ENTITY fxaccount_status_passwords2 "Hesaplar">
 <!ENTITY fxaccount_status_tabs "Açık sekmeler">
 <!ENTITY fxaccount_status_legal "Yasal" >
 <!-- Localization note: when tapped, the following two strings link to

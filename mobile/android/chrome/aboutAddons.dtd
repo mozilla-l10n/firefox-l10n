@@ -10,3 +10,6 @@
 <!ENTITY addonAction.disable                    "Devre dışı bırak">
 <!ENTITY addonAction.uninstall                  "Kaldır">
 <!ENTITY addonAction.undo                       "Geri al">
+
+<!ENTITY addonUnsigned.message                  "Bu eklenti &brandShortName; tarafından doğrulanamadı.">
+<!ENTITY addonUnsigned.learnMore                "Daha fazla bilgi">
