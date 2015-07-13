@@ -35,6 +35,7 @@
 
 <!ENTITY showUnifinderCmd.label                 "Canfod Digwyddiadau">
 <!ENTITY showUnifinderCmd.accesskey             "f">
+<!ENTITY showUnifinderCmd.tooltip               "Toglo'r paen canfod digwyddiadau">
 
 <!ENTITY calendar.displaytodos.checkbox.label       "Dangos Tasgau yn y Calendr">
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "D">
