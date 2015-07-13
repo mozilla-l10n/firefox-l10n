@@ -6,14 +6,14 @@
 
 <!ENTITY projectMenu_label "Projekt">
 <!ENTITY projectMenu_accesskey "p">
-<!ENTITY projectMenu_newApp_label "Ny app...">
+<!ENTITY projectMenu_newApp_label "Ny app…">
 <!ENTITY projectMenu_newApp_accesskey "N">
-<!ENTITY projectMenu_importPackagedApp_label "Öppna paketerad app..">
+<!ENTITY projectMenu_importPackagedApp_label "Öppna paketerad app…">
 <!ENTITY projectMenu_importPackagedApp_accesskey "P">
-<!ENTITY projectMenu_importHostedApp_label "Öppna app på webben...">
+<!ENTITY projectMenu_importHostedApp_label "Öppna app på webben…">
 <!ENTITY projectMenu_importHostedApp_accesskey "w">
-<!ENTITY projectMenu_selectApp_label "Öppna app...">
-<!ENTITY projectMenu_selectApp_accesskey "O">
+<!ENTITY projectMenu_selectApp_label "Öppna app…">
+<!ENTITY projectMenu_selectApp_accesskey "n">
 <!ENTITY projectMenu_play_label "Installera och Kör">
 <!ENTITY projectMenu_play_accesskey "I">
 <!ENTITY projectMenu_stop_label "Stoppa app">
@@ -99,7 +99,7 @@
 
 <!ENTITY newAppWindowTitle "Ny app">
 <!ENTITY newAppHeader "Välj mall">
-<!ENTITY newAppLoadingTemplate "Laddar mallar...">
+<!ENTITY newAppLoadingTemplate "Laddar mallar…">
 <!ENTITY newAppProjectName "Projektnamn:">
 <!-- Decks -->
 
@@ -143,8 +143,8 @@
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "Runtimeinformation">
-<!ENTITY runtimedetails_adbIsRoot "ADB är root:">
-<!ENTITY runtimedetails_summonADBRoot "Rootenhet">
+<!ENTITY runtimedetails_adbIsRoot "ADB är root: ">
+<!ENTITY runtimedetails_summonADBRoot "rootenhet">
 <!ENTITY runtimedetails_ADBRootWarning "(kräver upplåst bootloader)">
 <!ENTITY runtimedetails_unrestrictedPrivileges "Obegränsade rättigheter till DevTools: ">
 <!ENTITY runtimedetails_requestPrivileges "begär högre rättigheter">
@@ -167,9 +167,9 @@
 
 <!ENTITY devicesetting_title "Enhetsinställningar">
 <!ENTITY devicesetting_search "Sökningsinställningar">
-<!ENTITY devicesetting_newname "Nytt inställnings namn ">
+<!ENTITY devicesetting_newname "Nytt inställningsnamn">
 <!ENTITY devicesetting_newtext "Inställningsvärde">
-<!ENTITY devicesetting_addnew "Lägg till ny inställning ">
+<!ENTITY devicesetting_addnew "Lägg till ny inställning">
 <!-- Monitor -->
 
 <!ENTITY monitor_title "Övervaka">
