@@ -18,5 +18,5 @@
 
 <!ENTITY safeb.blocked.unwantedPage.title "Láta vita af óæskilegu hugbúnaðarsvæði!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.unwantedPage.shortDesc "Tilkynnt hefur verið að þessi vefsíða hér <span id='malware_sitename'/> innihaldi óæskilegan hugbúnaða og hefur því verið lokað á hana samkvæmt á öryggisstillingum þínum.">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "Tilkynnt hefur verið að vefsíðan <span id='unwanted_sitename'/> innihaldi óæskilegan hugbúnaða og hefur því verið lokað á hana samkvæmt á öryggisstillingum þínum.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Síður með óæskilegum hugbúnaði reyna að innsetja hugbúnað á tækið þitt sem getur verið villandi og haft óvænt áhrif á kerfið þitt.">

@@ -2,12 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                  "Vafra í einkaglugga">
+<!ENTITY privatebrowsingpage.title "Vafra í einkaglugga">
+<!ENTITY privatebrowsingpage.title.normal "Þú ert í huliðsstillingu">
 
-<!ENTITY privatebrowsingpage.issueDesc.private      "Þú hefur opnað nýjan einkaflipa.">
-<!ENTITY privatebrowsingpage.issueDesc.normal       "Þú ert ekki í einkaflipa.">
+<!ENTITY privatebrowsingpage.issueDesc.normal2 "Firefox mun ekki muna ferla eða smákökur fyrir glugga í huliðsstillingu.">
+<!ENTITY privatebrowsingpage.issueDesc.private2 "Við munum ekki muna ferla eða smákökur.">
 
-<!ENTITY privatebrowsingpage.description            "&brandShortName; mun ekki halda utan um vafraferil, leitarsögu, niðurhal, vefeyðublaða sögu, smákökur eða tímabundnar internetsskrár í einkaflipa. Hins vegar munu skrár og bókarmerki sem þú nærð í og setur sem bókamerki verða haldin til haga.">
-<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+<!ENTITY privatebrowsingpage.description2 "Bókarmerki sem þú bætir við og skrár sem þú niðurhalar munu samt vistast á tækið þitt.">
+<!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
+<!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
 
-<!ENTITY privatebrowsingpage.moreInfo               "Þrátt fyrir að þetta tæki muni ekki skrásetja vafrasögu þína þá gæti internet þjónustuaðili þinn haldið til haga þeim síðum sem þú heimsækir.">
+<!ENTITY privatebrowsingpage.link.private "Viltu vita meira?">
+<!ENTITY privatebrowsingpage.link.normal "Opna flipa í huliðsstillingu">
