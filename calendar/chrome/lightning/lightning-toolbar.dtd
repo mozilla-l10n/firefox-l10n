@@ -6,6 +6,11 @@
 
 
 
+<!ENTITY lightning.toolbar.delete.label "احذف">
+
+
+
+
 
 
 
@@ -16,6 +21,8 @@
 
 
 <!-- Toolbar write button -->
+
+
 
 <!-- Calendar and Task Mode Toolbar -->
 

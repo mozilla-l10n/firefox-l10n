@@ -74,8 +74,8 @@
 
 
 
-
-
+<!ENTITY calendar.print.button.label            "اطبع" >
+<!ENTITY calendar.print.button.accesskey        "ط">
 
 
 
@@ -141,12 +141,12 @@
 
 
 
-
-
-
-
-
-
+<!ENTITY calendar.context.cutevent.label              "قص">
+<!ENTITY calendar.context.cutevent.accesskey          "ص">
+<!ENTITY calendar.context.copyevent.label             "انسخ">
+<!ENTITY calendar.context.copyevent.accesskey         "س">
+<!ENTITY calendar.context.pasteevent.label            "ألصق">
+<!ENTITY calendar.context.pasteevent.accesskey        "ص">
 
 
 
@@ -173,6 +173,7 @@
 
 
 
+<!ENTITY priority.level.none                "غير محدّد">
 
 
 
@@ -191,6 +192,8 @@
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
      task action buttons -->
+
+<!ENTITY calendar.taskview.delete.label     "احذف">
 <!-- Server Context Menu -->
 
 
