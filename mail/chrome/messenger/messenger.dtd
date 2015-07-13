@@ -146,7 +146,7 @@
 <!ENTITY showFolderPaneCmd.label "Podokno map">
 <!ENTITY showFolderPaneCmd.accesskey "m">
 <!ENTITY showFolderPaneColsCmd.label "Stolpci podokna map">
-<!ENTITY showFolderPaneColsCmd.accesskey "S">
+<!ENTITY showFolderPaneColsCmd.accesskey "c">
 <!ENTITY showMessageCmd.label "Podokno sporočil">
 <!ENTITY showMessageCmd.accesskey "s">
 

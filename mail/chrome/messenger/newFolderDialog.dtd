@@ -5,7 +5,7 @@
    
 <!ENTITY newFolderDialog.title      "Nova mapa">
 <!ENTITY name.label                 "Ime:">
-<!ENTITY name.accesskey             "N">
+<!ENTITY name.accesskey             "m">
 <!ENTITY description.label          "Ustvari kot podmapo v:">
 <!ENTITY description.accesskey      "U">
 <!ENTITY folderRestriction1.label   "Ta strežnik omejuje mape na dve posebni vrsti.">
@@ -13,4 +13,4 @@
 <!ENTITY foldersOnly.label          "Samo imeniki">
 <!ENTITY messagesOnly.label         "Samo sporočila">
 <!ENTITY accept.label               "Ustvari mapo">
-<!ENTITY accept.accesskey           "r">
+<!ENTITY accept.accesskey           "U">

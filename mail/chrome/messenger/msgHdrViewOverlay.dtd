@@ -44,8 +44,8 @@
 <!ENTITY hdrViewToolbarShowFull.accesskey "a">
 <!ENTITY hdrViewToolbarShowIcons.label "Pokaži samo ikone">
 <!ENTITY hdrViewToolbarShowIcons.accesskey "i">
-<!ENTITY hdrViewToolbarShowText.label "Pokaži le besedilo">
-<!ENTITY hdrViewToolbarShowText.accesskey "T">
+<!ENTITY hdrViewToolbarShowText.label "Prikaži samo besedilo">
+<!ENTITY hdrViewToolbarShowText.accesskey "s">
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Pošiljatelju vedno pokaži odgovor">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "P">
 
