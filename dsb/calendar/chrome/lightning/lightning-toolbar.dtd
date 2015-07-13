@@ -8,10 +8,15 @@
 <!ENTITY lightning.toolbar.task.name.accesskey "N">
 
 <!ENTITY lightning.toolbar.sync.label "Synchronizěrowaś">
+<!ENTITY lightning.toolbar.sync.tooltip "Kalendery znowego zacytaś a změny synchronizěrowaś">
 <!ENTITY lightning.toolbar.delete.label "Wulašowaś">
+<!ENTITY lightning.toolbar.delete.tooltip "Wubrane tšojenja abo nadawki wulašowaś">
 <!ENTITY lightning.toolbar.edit.label "Wobźěłaś">
+<!ENTITY lightning.toolbar.edit.tooltip "Wubrane tšojenje abo wubrany nadawk wobźěłaś">
 <!ENTITY lightning.toolbar.gototoday.label "K źinsajšnemu">
+<!ENTITY lightning.toolbar.gototoday.tooltip "K źinsajšnemu">
 <!ENTITY lightning.toolbar.print.label "Śišćaś">
+<!ENTITY lightning.toolbar.print.tooltip "Tšojenja abo nadawki śišćaś">
 <!-- Mode Toolbar -->
 
 <!ENTITY lightning.toolbar.calendar.label     "Kalender">
@@ -23,7 +28,9 @@
 <!-- Toolbar write button -->
 
 <!ENTITY lightning.toolbar.newevent.label     "Tšojenje">
+<!ENTITY lightning.toolbar.newevent.tooltip   "Nowe tšojenje napóraś">
 <!ENTITY lightning.toolbar.newtask.label      "Nadawk">
+<!ENTITY lightning.toolbar.newtask.tooltip    "Nowy nadawk napóraś">
 <!-- Calendar and Task Mode Toolbar -->
 
 <!ENTITY lightning.toolbar.day.label                 "Źeń">

@@ -35,6 +35,7 @@
 
 <!ENTITY showUnifinderCmd.label                 "Tšojenja pytaś">
 <!ENTITY showUnifinderCmd.accesskey             "o">
+<!ENTITY showUnifinderCmd.tooltip               "Wobłuk &quot;Tšojenja namakaś&quot; pśešaltowaś">
 
 <!ENTITY calendar.displaytodos.checkbox.label       "Nadawki w kalendaru pokazaś">
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "N">
