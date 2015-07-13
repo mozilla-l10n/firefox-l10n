@@ -44,6 +44,9 @@
 <!ENTITY bookmark "Marcador">
 <!ENTITY bookmark_remove "Elminar marcador">
 <!ENTITY bookmark_added "Marcador agregado">
+<!-- Localization note (bookmark_already_added) : This string is
+     used as a label in a toast. It is the verb "to bookmark", not
+     the noun "a bookmark". -->
 <!ENTITY bookmark_removed "Marcador eliminado">
 <!ENTITY bookmark_updated "Marcador actualizado">
 <!ENTITY bookmark_options "Opciones">
@@ -77,6 +80,7 @@
 
 <!ENTITY settings "Configuración">
 <!ENTITY settings_title "Configuración">
+
 <!ENTITY pref_category_advanced "Avanzado">
 <!ENTITY pref_category_customize "Personalizar">
 <!ENTITY pref_category_customize_summary "Página de inicio, búsqueda, pestañas, importación">
@@ -104,7 +108,7 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "Marcador">
 <!ENTITY overlay_share_reading_list_btn_label "Añadir a la lista de lectura">
-<!ENTITY overlay_share_bookmark_btn_label_already "Ya está en los marcadores">
+
 <!ENTITY overlay_share_reading_list_btn_label_already "Ya está en la lista de lectura">
 <!ENTITY overlay_share_send_other "Enviar a otros dispositivos">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -132,7 +136,7 @@
 <!ENTITY pref_category_display "Mostrar">
 <!ENTITY pref_category_display_summary "Texto, barra de título, navegación en pantalla completa">
 <!ENTITY pref_category_privacy_short "Privacidad">
-<!ENTITY pref_category_privacy_summary "Controlar contraseñas, cookies, pistas, datos">
+
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "Acerca de &brandShortName;, Preguntas Más Frecuentes, Elección de Datos">
 <!ENTITY pref_category_datareporting "Elección de datos">
@@ -151,7 +155,9 @@
 <!ENTITY pref_category_devtools "Herramientas de desarrollador">
 <!ENTITY pref_developer_remotedebugging "Depuración remota">
 <!ENTITY pref_category_logins "Inicios de sesión">
-<!ENTITY pref_remember_signons "Recordar contraseñas">
+
+
+
 <!ENTITY pref_manage_logins "Administrar inicios de sesión">
 
 <!ENTITY pref_category_home "Inicio">
@@ -189,10 +195,9 @@
 <!ENTITY pref_donottrack_title "No rastrear">
 <!ENTITY pref_donottrack_summary "&brandShortName; le dirá a los sitios que no quiero ser rastreado">
 
-<!ENTITY tab_queue_toast_message2 "Pestaña enfilada en &brandShortName;">
 <!ENTITY tab_queue_toast_action "Abrir ahora">
 <!ENTITY tab_queue_prompt_title "¿Abrir múltiples enlaces?">
-<!ENTITY tab_queue_prompt_text2 "Abrir sin cambiar a &brandShortName; cada vez.">
+
 <!ENTITY tab_queue_prompt_tip_text "puedes cambiar esto después en Configuraciones">
 <!ENTITY tab_queue_prompt_positive_action_button "Habilitar">
 <!ENTITY tab_queue_prompt_negative_action_button "Ahora no">
@@ -245,9 +250,13 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "Acercamiento siempre habilitado">
 <!ENTITY pref_zoom_force_enabled_summary "Forzar sobrescritura para que puedas variar el tamaño de cualquier página">
 
+
+
+
+
 <!ENTITY pref_use_master_password "Use master password">
 <!ENTITY pref_sync "Sync">
-<!ENTITY pref_sync_summary "Sincroniza tus pestañas, marcadores, contraseñas e historial">
+
 <!ENTITY pref_search_suggestions "Show search suggestions">
 <!ENTITY pref_import_android "Import from Android">
 <!ENTITY pref_import_android_summary "Importa los marcadores e historial del navegador nativo">
@@ -255,11 +264,12 @@ size. -->
 <!ENTITY pref_private_data_searchHistory "Historial de búsqueda">
 <!ENTITY pref_private_data_formdata2 "Historial de formularios">
 <!ENTITY pref_private_data_cookies2 "Cookies y sesiones activas">
-<!ENTITY pref_private_data_passwords "Saved passwords">
+
 <!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_offlineApps "Offline website data">
 <!ENTITY pref_private_data_siteSettings2 "Configuración del sitio">
 <!ENTITY pref_private_data_downloadFiles2 "Descargas">
+
 
 
 <!ENTITY pref_about_firefox "About &brandShortName;">
@@ -380,6 +390,11 @@ size. -->
 <!ENTITY doorhanger_login_edit_toggle "Mostrar contraseña">
 <!ENTITY doorhanger_login_edit_toast_error "No se pudo guardar el inicio de sesión">
 
+
+
+
+
+
 <!ENTITY pref_titlebar_mode "Barra de título">
 <!ENTITY pref_titlebar_mode_title "Mostrar título de la página">
 <!ENTITY pref_titlebar_mode_url "Mostrar dirección de la página">
@@ -390,7 +405,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "Esconder la barra de título de &brandShortName; al bajar en una página">
 
 <!ENTITY pref_tab_queue_title2 "Abrir múltiples enlaces">
-<!ENTITY pref_tab_queue_summary2 "Poner en fila los enlaces para después evitar cambiar a &brandShortName; en cada momento">
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -408,8 +423,8 @@ size. -->
 <!ENTITY site_settings_cancel       "Cancelar">
 <!ENTITY site_settings_clear        "Limpiar">
 <!ENTITY site_settings_no_settings  "No hay configuraciones para limpiar.">
-
-<!ENTITY reading_list_added "Página añadida a tu lista de lectura">
+<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+     as possible. -->
 <!ENTITY reading_list_removed "Página eliminada de tu lista de lectura">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -438,7 +453,7 @@ size. -->
 <!ENTITY button_clear_data "Limpiar datos">
 <!ENTITY button_set "Establecer">
 <!ENTITY button_clear "Limpiar">
-<!ENTITY button_remember "Remember">
+<!ENTITY button_copy "Copiar">
 
 <!ENTITY firstrun_panel_title_welcome "Bienvenido">
 
@@ -502,10 +517,6 @@ size. -->
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Desocultar dispositivos seleccionados">
 
-<!ENTITY private_browsing_title "Navegación Privada">
-<!ENTITY private_tabs_panel_empty_desc "Tus pestañas privadas se mostrarán aquí. Mientras que nosotros nos conservamos tu historial de búsqueda o cookies, los marcadores y archivos que descargaste aún estarán guardados en tu dispositivo.">
-<!ENTITY private_tabs_panel_learn_more "¿Quieres saber más?">
-
 <!ENTITY remote_tabs_panel_moved_title "¿Y mis pestañas?">
 <!ENTITY remote_tabs_panel_moved_desc "Hemos movido tus pestañas de otros dispositivos a un panel en tu página de inicio al que puedes acceder fácilmente cada vez que abras una pestaña nueva.">
 <!ENTITY remote_tabs_panel_moved_link "Llevarme a mi nuevo panel.">
@@ -533,6 +544,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "que pertenece a">
 <!ENTITY identity_no_info "Este sitio web no proporciona información de identidad.">
 <!ENTITY identity_not_encrypted "La conexión a este sitio web no está cifrada.">
+<!ENTITY identity_encrypted "Encrypted">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "Esta página está mostrando contenido que no es seguro.">
@@ -599,7 +611,7 @@ desde Android">
 <!ENTITY guest_session_dialog_continue "Continuar">
 <!ENTITY guest_session_dialog_cancel "Cancelar">
 <!ENTITY new_guest_session_title "&brandShortName; ahora reiniciará">
-<!ENTITY new_guest_session_text "La persona que lo use no podrá ver ninguno de tus datos de navegación personales (como contraseñas, historial y marcadores guardados).\n\nCuando tu invitado acabe, sus datos de navegación serán eliminados y se restaurará tu sesión.">
+
 <!ENTITY guest_browsing_notification_title "La navegación de invitado está activada">
 <!ENTITY guest_browsing_notification_text "Presiona para salir">
 
@@ -648,3 +660,4 @@ desde Android">
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
 
 <!ENTITY find_matchcase "Aa">
+
