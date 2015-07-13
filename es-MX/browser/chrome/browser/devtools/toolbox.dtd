@@ -96,6 +96,8 @@
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
   -  boolean preference in about:config, in the options panel. -->
 
+<!ENTITY options.enableWorkers.label    "Habilitar la depuración del trabajador (en desarrollo)">
+<!ENTITY options.enableWorkers.tooltip  "Al activar esta opción permitirá que las herramientas de desarrollo para los trabajadores de depuración">
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
