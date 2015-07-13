@@ -46,6 +46,7 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmúcaíoch">
 <!ENTITY  font.langGroup.khmer                    "Ciméarach">
 <!ENTITY  font.langGroup.malayalam                "Mailéalamach">
+<!ENTITY  font.langGroup.math                     "Matamaitic">
 <!ENTITY  font.langGroup.oriya                    "Oiríseach">
 <!ENTITY  font.langGroup.telugu                   "Teileagúch">
 <!ENTITY  font.langGroup.kannada                  "Cannadach">

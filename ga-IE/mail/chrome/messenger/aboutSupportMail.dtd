@@ -15,5 +15,6 @@
 <!ENTITY aboutSupport.accountsConnSecurity "Slándáil an cheangail">
 <!ENTITY aboutSupport.accountsAuthMethod "Modh fíordheimhnithe">
 <!ENTITY aboutSupport.accountsDefault "Réamhshocrú?">
+<!ENTITY aboutSupport.identityName "Aitheantas">
 
 <!ENTITY aboutSupport.sendViaEmail.label "Seol trí ríomhphost">
