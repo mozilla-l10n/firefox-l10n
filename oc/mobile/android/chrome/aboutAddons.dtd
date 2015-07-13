@@ -10,3 +10,5 @@
 <!ENTITY addonAction.disable                    "Desactivar">
 <!ENTITY addonAction.uninstall                  "Desinstallar">
 <!ENTITY addonAction.undo                       "Anullar">
+
+<!ENTITY addonUnsigned.learnMore                "Ne saber mai…">
