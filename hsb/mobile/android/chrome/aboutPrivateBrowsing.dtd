@@ -2,12 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                  "Priwatny modus">
+<!ENTITY privatebrowsingpage.title "Priwatny modus">
+<!ENTITY privatebrowsingpage.title.normal "Njejsće w priwatnym modusu">
 
-<!ENTITY privatebrowsingpage.issueDesc.private      "Sće nowy priwatny rajtark wočinił.">
-<!ENTITY privatebrowsingpage.issueDesc.normal       "Njejsće w priwatnym rajtarku.">
+<!ENTITY privatebrowsingpage.issueDesc.normal2 "W priwatnym modusu přehladowanska historija abo placki so njeskładuja.">
+<!ENTITY privatebrowsingpage.issueDesc.private2 "Přehladowanska historija abo placki so njeskładuja.">
 
-<!ENTITY privatebrowsingpage.description            "&brandShortName; njebudźe přehladowansku historiju, pytansku historiju, sćehnjensku historiju, historiju webformularow, placki abo nachwilne internetne dataje wobchowować. Ale dataje, kotrež sćahujeće, a zapołožki, kotrež składujeće, so wobchowaja.">
-<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+<!ENTITY privatebrowsingpage.description2 "Zapołožki, kotrež přidaće, a dataje, kotrež sćehnjeće, budu so na wašim graće składować.">
+<!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
+<!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
 
-<!ENTITY privatebrowsingpage.moreInfo               "Hačrunjež tutón grat nima natočenje wašeje přehladowanskeje historije, móže waš internetny poskićowar hišće strony slědować, kotrež wopytujeće.">
+<!ENTITY privatebrowsingpage.link.private "Chceće wjace zhonić?">
+<!ENTITY privatebrowsingpage.link.normal "W nowym priwatnym rajtarku wočinić">

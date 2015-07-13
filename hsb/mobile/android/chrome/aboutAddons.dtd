@@ -10,3 +10,6 @@
 <!ENTITY addonAction.disable                    "Znjemóžnić">
 <!ENTITY addonAction.uninstall                  "Wotinstalować">
 <!ENTITY addonAction.undo                       "Cofnyć">
+
+<!ENTITY addonUnsigned.message                  "Tutón přidatk njeda so přez &brandShortName; přepruwować.">
+<!ENTITY addonUnsigned.learnMore                "Dalše informacije">

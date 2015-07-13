@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label "Štož ma so synchronizować">
 <!ENTITY sync.configure.engines.sync.my.title.label "Synchronizujće swoje…">
 <!ENTITY sync.configure.engines.title.bookmarks "Zapołožki">
-<!ENTITY sync.configure.engines.title.passwords "Hesła">
+<!ENTITY sync.configure.engines.title.passwords2 "Přizjewjenja">
 <!ENTITY sync.configure.engines.title.history "Historija">
 <!ENTITY sync.configure.engines.title.tabs "Rajtarki">
 <!-- Common text -->
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "Zdźělenka priwatnosće">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Witajće do &syncBrand.shortName.label;">
-<!ENTITY fxaccount_getting_started_description "Přizjewće so, zo byšće swoje rajtarki, zapołožki, hesła a druhe synchronizował.">
+<!ENTITY fxaccount_getting_started_description2 "Přizjewće so, zo byšće swoje rajtarki, zapołožki, přizjewjenja a druhe synchronizował.">
 <!ENTITY fxaccount_getting_started_get_started "Prěnje kroki">
 <!ENTITY fxaccount_getting_started_old_firefox "Staršu wersiju &syncBrand.shortName.label; wužiwać?">
 <!-- Localization note: the Firefox below should not change with the
@@ -185,13 +185,13 @@
 <!ENTITY fxaccount_account_verified_sub_header "Konto je přepruwowane">
 <!ENTITY fxaccount_account_verified_description2 "Waše daty budu so za mało wokomikow synchronizować.">
 
-<!ENTITY fxaccount_migration_finished_header "Aktualizacija skónčena.">
+<!ENTITY fxaccount_migration_finished_header "Aktualizacija skónčena">
 
 <!ENTITY fxaccount_update_credentials_header "Přizjewić">
 <!ENTITY fxaccount_update_credentials_button_label "Přizjewić">
 <!ENTITY fxaccount_update_credentials_unknown_error "Přizjewjenje móžno njeje">
 
-<!ENTITY fxaccount_finish_migrating_header "Přizjewće so, zo byšće aktualizowanje dokónčił.">
+<!ENTITY fxaccount_finish_migrating_header "Přizjewće so, zo byšće aktualizowanje dokónčił">
 <!ENTITY fxaccount_finish_migrating_button_label "Aktualizowanje skónčić">
 <!ENTITY fxaccount_finish_migrating_description "Aktualizowanje móže wjele datow přenošować. Činiće to najlěpje we WLAN-syći.">
 
@@ -212,7 +212,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating "Podótkńće so, zo byšće so pola swojeho noweho konta Firefox přizjewił.">
 <!ENTITY fxaccount_status_bookmarks "Zapołožki">
 <!ENTITY fxaccount_status_history "Historija">
-<!ENTITY fxaccount_status_passwords "Hesła">
+<!ENTITY fxaccount_status_passwords2 "Přizjewjenja">
 <!ENTITY fxaccount_status_tabs "Wočinjene rajtarki">
 <!ENTITY fxaccount_status_legal "Legalny" >
 <!-- Localization note: when tapped, the following two strings link to
