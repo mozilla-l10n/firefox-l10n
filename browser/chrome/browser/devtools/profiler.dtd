@@ -143,6 +143,8 @@
   -  is displayed next to a checkbox determining whether or not JIT optimization data
   -  should be recorded. -->
 
+<!ENTITY profilerUI.enableJITOptimizations             "JIT iyileştirmelerini kaydet">
+
 <!-- LOCALIZATION NOTE (profilerUI.JITOptimizationsTitle): This string
   -  is displayed as the title of the JIT Optimizations panel. -->
 
