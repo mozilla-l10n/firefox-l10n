@@ -44,6 +44,10 @@
 <!ENTITY bookmark "Grāmatzīme">
 <!ENTITY bookmark_remove "Aizvākt grāmatzīmi">
 <!ENTITY bookmark_added "Grāmatzīme pievienota">
+<!-- Localization note (bookmark_already_added) : This string is
+     used as a label in a toast. It is the verb "to bookmark", not
+     the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "Jau atzīmēta grāmatzīmēs">
 <!ENTITY bookmark_removed "Grāmatzīme izņemta">
 <!ENTITY bookmark_updated "Grāmatzīme atjaunināta">
 <!ENTITY bookmark_options "Iestatījumi">
@@ -77,6 +81,7 @@
 
 <!ENTITY settings "Iestatījumi">
 <!ENTITY settings_title "Iestatījumi">
+<!ENTITY pref_category_input_options "Ievades iestatījumi">
 <!ENTITY pref_category_advanced "Papildus">
 <!ENTITY pref_category_customize "Pielāgošana">
 <!ENTITY pref_category_customize_summary "Sākums, meklēšana, cilnes, importēšana">
@@ -132,7 +137,7 @@
 <!ENTITY pref_category_display "Attēlošana">
 <!ENTITY pref_category_display_summary "Teksts, virsraksta josla, pilnekrāna pārlūkošana">
 <!ENTITY pref_category_privacy_short "Privātums">
-<!ENTITY pref_category_privacy_summary "Kontrolējiet paroles, sīkdatnes un sekošanu">
+<!ENTITY pref_category_privacy_summary2 "Kontrolējiet paroles, sīkdatnes, sekošanu, datus">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "Par &brandShortName;, BUJ, datu izvēles">
 <!ENTITY pref_category_datareporting "Datu izvēles">
@@ -151,7 +156,9 @@
 <!ENTITY pref_category_devtools "Izstrādātāju rīki">
 <!ENTITY pref_developer_remotedebugging "Attālinātā atkļūdošana">
 <!ENTITY pref_category_logins "Lietotājvārdi">
-<!ENTITY pref_remember_signons "Atcerēties paroles">
+<!ENTITY pref_remember_signons2 "Atcerēties paroles">
+<!ENTITY pref_open_external_urls_privately_title "Atvērt saites privātajā režīmā">
+<!ENTITY pref_open_external_urls_privately_summary "Visām ārējām saitēm, kas atvērtas &brandShortName;">
 <!ENTITY pref_manage_logins "Pārvaldīt lietotājvārdus">
 
 <!ENTITY pref_category_home "Sākums">
@@ -189,10 +196,10 @@
 <!ENTITY pref_donottrack_title "Izsekošanas bloķēšana">
 <!ENTITY pref_donottrack_summary "&brandShortName; teiks lapām, ka nevēlaties, lai jūs izseko">
 
-<!ENTITY tab_queue_toast_message2 "Cilne ierindota &brandShortName;">
+<!ENTITY tab_queue_toast_message3 "Cilne saglabāta &brandShortName;">
 <!ENTITY tab_queue_toast_action "Atvērt tagad">
 <!ENTITY tab_queue_prompt_title "Atvērt vairākas saites?">
-<!ENTITY tab_queue_prompt_text2 "Atvērt nepārslēdzoties uz &brandShortName; katru reizi.">
+<!ENTITY tab_queue_prompt_text3 "Saglabājiet tās nākamai reizei, kad atvērsiet &brandShortName;">
 <!ENTITY tab_queue_prompt_tip_text "šo var mainīt Iestatījumos">
 <!ENTITY tab_queue_prompt_positive_action_button "Aktivizēt">
 <!ENTITY tab_queue_prompt_negative_action_button "Ne tagad">
@@ -244,10 +251,14 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled_summary "Vai ļaut mājas lapām automātiski palaist video un citu mēdiju saturu">
 <!ENTITY pref_zoom_force_enabled "Vienmēr aktivēt palielinājumu">
 <!ENTITY pref_zoom_force_enabled_summary "Piespiedu režīms, lai varētu palielināt jebkuru lapu">
+<!ENTITY pref_voice_input "Balss ievade">
+<!ENTITY pref_voice_input_summary "Atļaut balss nolasīšanu virsraksta joslā">
+<!ENTITY pref_qrcode_enabled "QR koda lasītājs">
+<!ENTITY pref_qrcode_enabled_summary "Atļaut QR lasītāju virsraksta joslā">
 
 <!ENTITY pref_use_master_password "Izmantot galveno paroli">
 <!ENTITY pref_sync "Sinhronizēšana">
-<!ENTITY pref_sync_summary "Sinhronizējiet cilnes, grāmatzīmes, paroles un vēsturi">
+<!ENTITY pref_sync_summary2 "Sinhronizējiet cilnes, grāmatzīmes, paroles, vēsturi">
 <!ENTITY pref_search_suggestions "Rādīt meklēšanas ieteikumus">
 <!ENTITY pref_import_android "Importēt no Android">
 <!ENTITY pref_import_android_summary "Importējiet grāmatzīmes un vēsturi no iebūvētā pārlūka">
@@ -255,11 +266,12 @@ size. -->
 <!ENTITY pref_private_data_searchHistory "Meklēšanas vēsture">
 <!ENTITY pref_private_data_formdata2 "Formu datu vēsture">
 <!ENTITY pref_private_data_cookies2 "Sīkdatnes un aktīvās autorizācijas sesijas">
-<!ENTITY pref_private_data_passwords "Saglabātās paroles">
+<!ENTITY pref_private_data_passwords2 "Saglabātās paroles">
 <!ENTITY pref_private_data_cache "Kešatmiņu">
 <!ENTITY pref_private_data_offlineApps "Lapu saglabātos datus">
 <!ENTITY pref_private_data_siteSettings2 "Lapu iestatījumus">
 <!ENTITY pref_private_data_downloadFiles2 "Lejupielādes">
+<!ENTITY pref_private_data_syncedTabs "Sinhronizētās cilnes">
 
 
 <!ENTITY pref_about_firefox "Par &brandShortName;">
@@ -379,6 +391,11 @@ size. -->
 <!ENTITY doorhanger_login_edit_password_hint "Parole">
 <!ENTITY doorhanger_login_edit_toggle "Rādīt paroli">
 <!ENTITY doorhanger_login_edit_toast_error "Neizdevās saglabāt lietotājvārdu">
+<!ENTITY doorhanger_login_select_message "Kopēt paroli no &formatS;?">
+<!ENTITY doorhanger_login_select_toast_copy "Parole saglabāta atmiņā">
+<!ENTITY doorhanger_login_select_toast_copy_error "Nevarēja nokopēt paroli">
+<!ENTITY doorhanger_login_select_action_text "Izvēlieties citu lietotājvārdu">
+<!ENTITY doorhanger_login_select_title "Kopēt paroli no">
 
 <!ENTITY pref_titlebar_mode "Virsraksta josla">
 <!ENTITY pref_titlebar_mode_title "Rādīt lapas virsrakstu">
@@ -390,7 +407,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "Paslēpt &brandShortName; virsraksta joslu ritinot lapas">
 
 <!ENTITY pref_tab_queue_title2 "Atvērt vairākas saites">
-<!ENTITY pref_tab_queue_summary2 "Saglabājiet saites vēlākam nevis pārslēdzieties uz &brandShortName; katru reizi">
+<!ENTITY pref_tab_queue_summary3 "Saglabāt tās nākamai reizei, kad atvērsiet &brandShortName;">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -408,8 +425,10 @@ size. -->
 <!ENTITY site_settings_cancel       "Atcelt">
 <!ENTITY site_settings_clear        "Notīrīt">
 <!ENTITY site_settings_no_settings  "Nav iestatījumu, ko notīrīt.">
+<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+     as possible. -->
 
-<!ENTITY reading_list_added "Lapa pievienota lasīšanas sarakstam">
+<!ENTITY reading_list_added2 "Pievienots sarakstam">
 <!ENTITY reading_list_removed "Lapa aizvākta no lasīšanas saraksta">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -438,7 +457,7 @@ size. -->
 <!ENTITY button_clear_data "Notīrīt datus">
 <!ENTITY button_set "Iestatīt">
 <!ENTITY button_clear "Notīrīt">
-<!ENTITY button_remember "Atcerēties">
+<!ENTITY button_copy "Kopēt">
 
 <!ENTITY firstrun_panel_title_welcome "Esiet sveicināti">
 
@@ -502,10 +521,6 @@ size. -->
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Parādīt izvēlētās ierīces">
 
-<!ENTITY private_browsing_title "Privātā pārlūkošana">
-<!ENTITY private_tabs_panel_empty_desc "Jūsu privātās cilnes parādīsies te. Lai arī mēs nesaglabājam pārlūkošanas vēsturi un sīkdatnes, jūsu izveidotās grāmatzīmes un saglabātie faili būs pieejami ierīcē.">
-<!ENTITY private_tabs_panel_learn_more "Gribat zināt vairāk?">
-
 <!ENTITY remote_tabs_panel_moved_title "Kur palika manas cilnes?">
 <!ENTITY remote_tabs_panel_moved_desc "Cilnes no citām ierīcēm esam pārcēluši uz paneli sākuma ekrānā, kur tās var vieglāk atrast katru reizi atverot jaunu cilni.">
 <!ENTITY remote_tabs_panel_moved_link "Vediet mani uz šo jauno paneli.">
@@ -533,6 +548,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "kuru pārvalda">
 <!ENTITY identity_no_info "Šī lapa nepiedāvā informāciju par tās saimniekiem.">
 <!ENTITY identity_not_encrypted "Savienojums ar šo lapu netiek šifrēts.">
+<!ENTITY identity_encrypted "Šifrēts">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "Šī lapa attēlo saturu, kas nav drošs.">
@@ -599,7 +615,7 @@ no Android">
 <!ENTITY guest_session_dialog_continue "Turpināt">
 <!ENTITY guest_session_dialog_cancel "Atcelt">
 <!ENTITY new_guest_session_title "&brandShortName; tagad pārstartēsies">
-<!ENTITY new_guest_session_text "Cilvēks, kas to izmantos, nevarēs redzēt jūsu pārlūkošanas datus (piemēram paroles, vēsturi un grāmatzīmes).\n\nKad jūsu viesis būs beidzis darbu, viņa pārlūkošanas dati tiks dzēsti, un tiks atjaunota jūsu sesija.">
+<!ENTITY new_guest_session_text2 "Cilvēks, kas to izmantos, nevarēs redzēt jūsu pārlūkošanas datus (piemēram paroles, vēsturi un grāmatzīmes).\n\nKad jūsu viesis būs beidzis darbu, viņa pārlūkošanas dati tiks dzēsti, un tiks atjaunota jūsu sesija.">
 <!ENTITY guest_browsing_notification_title "Darbojas viesa pārlūkošana">
 <!ENTITY guest_browsing_notification_text "Pieskarieties, lai izietu">
 
@@ -648,3 +664,5 @@ no Android">
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
 
 <!ENTITY find_matchcase "Aa">
+
+<!ENTITY intent_uri_cannot_open "Nevar atvērt saiti">
