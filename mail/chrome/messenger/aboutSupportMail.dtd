@@ -15,5 +15,6 @@
 <!ENTITY aboutSupport.accountsConnSecurity "Diogelwch cysylltiad">
 <!ENTITY aboutSupport.accountsAuthMethod "Dull dilysu">
 <!ENTITY aboutSupport.accountsDefault "Rhagosodiad?">
+<!ENTITY aboutSupport.identityName "Hunaniaeth">
 
 <!ENTITY aboutSupport.sendViaEmail.label "Anfon drwy e-bost">
