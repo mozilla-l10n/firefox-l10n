@@ -31,6 +31,8 @@
 <!ENTITY profilerUI.stopRecording  "রেকর্ডিং পার্ফরম্যান্স বন্ধ করুন">
 <!-- LOCALIZATION NOTE (profilerUI.bufferStatusTooltip): This string
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
+
+<!ENTITY profilerUI.bufferStatusTooltip "প্রোফাইলার একটি বিজ্ঞপ্তি বাফারে নমুনা সঞ্চয় করে, এবং বাফার একটি রেকর্ডিং সীমা ছুঁয়েছে, নতুন নমুনা রেকর্ডিং শুরু করতে পুরনো নমুনা মুছে ফেলা হোক।">
 <!-- LOCALIZATION NOTE (profilerUI.bufferStatusFull): This string
   -  is displayed when the profiler's circular buffer has started to overlap. -->
 <!-- LOCALIZATION NOTE (profilerUI.loadingNotice): This is the label shown
