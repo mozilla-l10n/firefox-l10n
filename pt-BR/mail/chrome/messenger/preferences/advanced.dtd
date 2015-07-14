@@ -15,11 +15,11 @@
 <!ENTITY allowHWAccel.accesskey        "h">
 <!ENTITY storeType.label               "Tipo de armazenamento de mensagem para contas novas:">
 <!ENTITY storeType.accesskey           "T">
-<!ENTITY mboxStore2.label              "Arquivo por pasta (mbox)">
+<!ENTITY mboxStore2.label              "Um arquivo por pasta (mbox)">
 <!ENTITY maildirStore.label            "Um arquivo por mensagem (maildir)">
 
 <!ENTITY scrolling.label               "Navegação">
-<!ENTITY useAutoScroll.label           "Autorolagem">
+<!ENTITY useAutoScroll.label           "Autorrolagem">
 <!ENTITY useAutoScroll.accesskey       "t">
 <!ENTITY useSmoothScrolling.label      "Rolagem suave">
 <!ENTITY useSmoothScrolling.accesskey  "R">
