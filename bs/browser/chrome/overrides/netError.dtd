@@ -124,12 +124,14 @@ računara.</li>
 <!ENTITY malwareBlocked.longDesc "<p>Napadačke stranice pokušavaju instalirati programe koji kradu privatne informacije, koriste vaš računar da napadnu druge ili štete vašem sistemu.</p> 
 <p>Vlasnici web stranica koji vjeruju da je njihova stranica greškom prijavljena kao napadačka mogu <a href='http://www.stopbadware.org/home/reviewinfo' >zahtijevati pregled</a>.</p>">
 
-
+<!ENTITY unwantedBlocked.title "Stranica s potencijalno neželjenim softverom!">
+<!ENTITY unwantedBlocked.longDesc "<p>Stranice s neželjenim softverom pokušavaju instalirati softver koji može prevariti korisnike i uticati na vaš sistem na nepredvidiv način.</p>">
 
 <!ENTITY phishingBlocked.title "Sumnja se na Web krivotvorinu!">
 <!ENTITY phishingBlocked.longDesc "<p>Unošenje bilo kakvih ličnih podataka na ovu stranicu može dovesti do krađe identiteta ili neke druge prevare.</p> 
 <p>Ovi tipovi web krađa se koriste u prevarama poznatim kao phishing napadi, kod kojih se lažne web stranice i emailovi koriste da oponašaju izvore kojima vjerujete.</p>">
 
+<!ENTITY cspBlocked.title "Blokirala sigurnosna politika sadržaja">
 
 
 <!ENTITY corruptedContentError.title "Oštećen sadržaj">

@@ -24,14 +24,14 @@
 <!ENTITY certmgr.pending.label                "Trenutno provjeravanje certifikata…">
 <!ENTITY certmgr.subjectinfo.label            "Izdano">
 <!ENTITY certmgr.issuerinfo.label             "Izdao">
-
+<!ENTITY certmgr.periodofvalidity.label       "Period valjanosti" >
 <!ENTITY certmgr.fingerprints.label           "Otisci">
 <!ENTITY certmgr.certdetail.title             "Detalji certifikata">
 <!ENTITY certmgr.certdetail.cn                "Uobičajeno ime (CN)">
 <!ENTITY certmgr.certdetail.o                 "Organizacija (O)">
 <!ENTITY certmgr.certdetail.ou                "Organizacijska jedinica (OU)">
 <!ENTITY certmgr.certdetail.serialnumber      "Serijski broj">
-
+<!ENTITY certmgr.certdetail.sha256fingerprint "SHA-256 otisak">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "SHA1 otisak">
 
 <!ENTITY certmgr.editcacert.title             "Uredi postavke povjerenja certifikata">
@@ -46,7 +46,7 @@
 <!ENTITY certmgr.certserver                   "Server">
 <!ENTITY certmgr.override_lifetime            "Životni vijek">
 <!ENTITY certmgr.tokenname                    "Sigurnosni uređaj">
-
+<!ENTITY certmgr.begins                       "Počinje na">
 <!ENTITY certmgr.expires                      "Ističe">
 <!ENTITY certmgr.email                        "E-mail adresa">
 <!ENTITY certmgr.serial                       "Serijski broj">
@@ -74,7 +74,7 @@
 <!ENTITY certmgr.fields.label                 "Vrijednost polja">
 <!ENTITY certmgr.fields.accesskey             "V">
 <!ENTITY certmgr.hierarchy.label              "Hijerarhija certifikata">
-
+<!ENTITY certmgr.hierarchy.accesskey2         "H">
 <!ENTITY certmgr.addException.label           "Dodaj izuzetak…">
 <!ENTITY certmgr.addException.accesskey       "D">
 

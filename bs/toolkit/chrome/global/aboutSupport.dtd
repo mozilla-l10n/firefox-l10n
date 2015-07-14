@@ -55,6 +55,9 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsMemoryUse "Upotreba memorije">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
+<!ENTITY aboutSupport.appBasicsServiceWorkers "Registrovani Service Workeri">
+
+<!ENTITY aboutSupport.appBasicsMultiProcessSupport "Multiprocesni prozori">
 
 <!ENTITY aboutSupport.showDir.label "Otvori direktorij">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific

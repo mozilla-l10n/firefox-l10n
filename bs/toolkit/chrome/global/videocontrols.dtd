@@ -8,7 +8,7 @@
 <!ENTITY muteButton.unmuteLabel "Sa zvukom">
 <!ENTITY fullscreenButton.enterfullscreenlabel "Prikaz preko cijelog ekrana">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Ugasi prikaz preko cijelog ekrana">
-
+<!ENTITY castingButton.castingLabel "Prebaci na ekran">
 
 <!ENTITY stats.media "Medij">
 <!ENTITY stats.size "Veličina">
