@@ -47,7 +47,7 @@
 <!ENTITY  feedTab.accesskey     "χ">
 <!ENTITY  feedSubscribe         "Συνδρομή">
 <!ENTITY  feedSubscribe.accesskey "υ">
-<!ENTITY  generalSecurityDetails.accesskey "π">
+
 <!ENTITY  permTab               "Δικαιώματα">
 <!ENTITY  permTab.accesskey     "Δ">
 <!ENTITY  permUseDefault        "Χρήση προεπιλογών">

@@ -5,7 +5,6 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the entities needed to -->
 <!-- LOCALIZATION NOTE : FILE use the Find Bar. --> 
 
-
 <!ENTITY next.tooltip "Εύρεση της επόμενης εμφάνισης της φράσης">
 <!ENTITY previous.tooltip "Εύρεση της προηγούμενης εμφάνισης της φράσης">
 <!ENTITY findCloseButton.tooltip "Κλείσιμο μπάρας εύρεσης">

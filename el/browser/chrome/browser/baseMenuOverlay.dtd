@@ -14,9 +14,9 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Βοήθεια"> 
 <!ENTITY helpMenuWin.accesskey    "Β">
-<!ENTITY aboutProduct2.label      "Περί &brandShortName;">
+<!ENTITY aboutProduct2.label      "Περί &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "ρ">
-<!ENTITY productHelp2.label       "Βοήθεια &brandShortName;">
+<!ENTITY productHelp2.label       "Βοήθεια &brandShorterName;">
 <!ENTITY productHelp2.accesskey   "Β">
 <!ENTITY helpMac.commandkey       "?">
 
@@ -28,7 +28,7 @@
 <!ENTITY helpSafeMode.stop.label       "Restart with Add-ons Enabled">
 <!ENTITY helpSafeMode.stop.accesskey   "R">
 
-<!ENTITY healthReport2.label      "Αναφορά υγείας &brandShortName;">
+<!ENTITY healthReport2.label      "Αναφορά υγείας &brandShorterName;">
 <!ENTITY healthReport2.accesskey  "γ">
 
 <!ENTITY helpTroubleshootingInfo.label      "Πληροφορίες αντιμετώπισης προβλημάτων">
@@ -37,7 +37,7 @@
 <!ENTITY helpFeedbackPage.label      "Υποβολή σχολίων…">
 <!ENTITY helpFeedbackPage.accesskey  "χ">
 
-<!ENTITY helpShowTour2.label            "Ξενάγηση στον &brandShortName;">
+<!ENTITY helpShowTour2.label            "Ξενάγηση στον &brandShorterName;">
 <!ENTITY helpShowTour2.accesskey        "Ξ">
 
 <!ENTITY preferencesCmdMac.label        "Προτιμήσεις...">
@@ -45,7 +45,7 @@
 
 <!ENTITY servicesMenuMac.label          "Υπηρεσίες">
 
-<!ENTITY hideThisAppCmdMac2.label       "Απόκρυψη &brandShortName;">
+<!ENTITY hideThisAppCmdMac2.label       "Απόκρυψη &brandShorterName;">
 <!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Απόκρυψη άλλων">
