@@ -12,7 +12,7 @@
 
 <!ENTITY aboutTelemetry.extendedRecordingEnabled "  Registro estendido da telemetria está <span>ativo</span>.">
 
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "Registro estendido da telemetria está <span>desativado</span>.">
+<!ENTITY aboutTelemetry.extendedRecordingDisabled "  Registro estendido da telemetria está <span>desativado</span>.">
 
 <!ENTITY aboutTelemetry.pingDataSource "Fonte de dados do ping:">
 
@@ -32,7 +32,7 @@
 
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
 
-<!ENTITY aboutTelemetry.generalDataSection "  Dados gerais">
+<!ENTITY aboutTelemetry.generalDataSection "  Dados gerais">
 
 <!ENTITY aboutTelemetry.environmentDataSection "  Dados do ambiente">
 

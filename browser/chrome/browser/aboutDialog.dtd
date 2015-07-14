@@ -41,7 +41,7 @@
 <!ENTITY helpus.start               "Quer ajudar? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
 <!ENTITY helpus.donateLink          "Faça uma doação">
-<!ENTITY helpus.middle              " ou ">
+<!ENTITY helpus.middle              " ou ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY helpus.getInvolvedLink     "envolva-se!">
 <!ENTITY helpus.end                 "">
@@ -86,7 +86,7 @@
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
 
-<!ENTITY update.unsupported.start    "Não é possível efetuar mais atualizações neste sistema. ">
+<!ENTITY update.unsupported.start    "Não é possível efetuar mais atualizações neste sistema. ">
 <!ENTITY update.unsupported.linkText "Saiba mais">
 <!ENTITY update.unsupported.end      "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
