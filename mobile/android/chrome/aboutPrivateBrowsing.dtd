@@ -2,12 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                  "Privātā pārlūkošana">
+<!ENTITY privatebrowsingpage.title "Privātā pārlūkošana">
+<!ENTITY privatebrowsingpage.title.normal "Jūs neatrodaties privātajā pārlūkošanas režīmā">
 
-<!ENTITY privatebrowsingpage.issueDesc.private      "Jūs atvērāt jaunu privāto cilni.">
-<!ENTITY privatebrowsingpage.issueDesc.normal       "Jūs neesat privātā cilnē.">
+<!ENTITY privatebrowsingpage.issueDesc.normal2 "Privātajā pārlūkošanas režīmā netiks saglabāta pārlūkošanas vēsture un sīkdatnes.">
+<!ENTITY privatebrowsingpage.issueDesc.private2 "Netiks saglabāta pārlūkošanas vēsture un sīkdatnes.">
 
-<!ENTITY privatebrowsingpage.description            "&brandShortName; nesaglabās privāto ciļņu pārlūkošanas, meklēšanas un lejupielāžu vēsturi, sīkdatnes un pagaidu interneta failus. Grāmatzīmes un lejupielādētie faili tiks saglabāti.">
-<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+<!ENTITY privatebrowsingpage.description2 "Pievienotās grāmatzīmes un lejupielādētie faili joprojām tiks saglabāti jūsu ierīcē.">
+<!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
+<!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
 
-<!ENTITY privatebrowsingpage.moreInfo               "Lai arī šajā ierīcē netiks saglabāti dati par to, kādas lapas jūs apmeklējat, jūsu interneta pakalpojumu sniedzējs joprojām var uzskaitīt jūsu apmeklētās lapas.">
+<!ENTITY privatebrowsingpage.link.private "Gribat zināt vairāk?">
+<!ENTITY privatebrowsingpage.link.normal "Atvērt jaunu privāto cilni">

@@ -1,10 +1,10 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- LOCALIZATION NOTE (window.width2, window.height): These values should be
 close to the golden ratio (1.618:1) while making sure it's wide enough for long
 file names and tall enough to hint that there are more downloads in the list -->
+
 <!ENTITY window.width2                    "485">
 <!ENTITY window.height                    "300"> 
 
@@ -14,25 +14,25 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY downloads.title                  "Lejupielādes">
 
 <!ENTITY cmd.pause.label                  "Apturēt">
-<!ENTITY cmd.pause.accesskey              "P">
+<!ENTITY cmd.pause.accesskey              "p">
 <!ENTITY cmd.resume.label                 "Atsākt">
 <!ENTITY cmd.resume.accesskey             "s">
 <!ENTITY cmd.cancel.label                 "Atcelt">
-<!ENTITY cmd.cancel.accesskey             "C">
+<!ENTITY cmd.cancel.accesskey             "c">
 <!ENTITY cmd.show.label                   "Atvērt mapi">
 <!ENTITY cmd.show.accesskey               "v">
 <!ENTITY cmd.showMac.label                "Atvērt ar Finder">
 <!ENTITY cmd.showMac.accesskey            "F">
 <!ENTITY cmd.open.label                   "Atvērt">
-<!ENTITY cmd.open.accesskey               "a">
+<!ENTITY cmd.open.accesskey               "A">
 <!ENTITY cmd.openWith.label               "Atvērt ar…">
 <!ENTITY cmd.openWith.accesskey           "t">
 <!ENTITY cmd.retry.label                  "Atkārtot">
-<!ENTITY cmd.retry.accesskey              "R">
+<!ENTITY cmd.retry.accesskey              "r">
 <!ENTITY cmd.goToDownloadPage.label       "Iet uz lejupielādes lapu">
 <!ENTITY cmd.goToDownloadPage.accesskey   "z">
 <!ENTITY cmd.copyDownloadLink.label       "Kopēt lejupielādes adresi">
-<!ENTITY cmd.copyDownloadLink.accesskey   "L">
+<!ENTITY cmd.copyDownloadLink.accesskey   "l">
 <!ENTITY cmd.removeFromList.label         "Aizvākt no saraksta">
 <!ENTITY cmd.removeFromList.accesskey     "n">
 
@@ -41,7 +41,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.close2Unix.commandKey        "y">
 <!ENTITY cmd.clearList.label              "Notīrīt sarakstu">
 <!ENTITY cmd.clearList.tooltip            "Novāc no saraksta pabeigtas, atceltas un neveiksmīgās lejupielādes">
-<!ENTITY cmd.clearList.accesskey          "n">
+<!ENTITY cmd.clearList.accesskey          "N">
 <!ENTITY cmd.find.commandKey              "f">
 <!ENTITY cmd.search.commandKey            "k">
 
