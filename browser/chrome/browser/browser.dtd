@@ -830,7 +830,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY processHang.debugScript.accessKey        "d">
 <!ENTITY processHang.terminatePlugin.label        "Ukončit zásuvný modul">
 <!ENTITY processHang.terminatePlugin.accessKey    "z">
-<!ENTITY processHang.terminateProcess.label       "Ukončit webový proces">
+<!ENTITY processHang.terminateProcess.label       "Ukončit proces webové stránky">
 <!ENTITY processHang.terminateProcess.accessKey   "w">
 
 <!ENTITY emeLearnMoreContextMenu.label            "Zjistit více o DRM…">
