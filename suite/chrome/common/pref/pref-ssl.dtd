@@ -27,7 +27,7 @@
 <!ENTITY warn.leavingsecure                 "Sair de uma página que suporte cifra">
 <!ENTITY warn.leavingsecure.accesskey       "a">
 
-<!ENTITY mixed.description                  "Páginas cifradas podem conter conteúdo cifrado que é vulnerável a engôdos. O &brandShortName; pode detetar e bloquear:">
+<!ENTITY mixed.description                  "As páginas cifradas podem conter conteúdo vulnerável a fraudes. O &brandShortName; pode detetar e bloquear:">
 <!ENTITY warn.mixedactivecontent            "Avisar-me quando as páginas cifradas contêm conteúdo inseguro">
 <!ENTITY warn.mixedactivecontent.accesskey  "v">
 <!ENTITY block.activecontent                "Não carregar conteúdo inseguro em páginas cifradas">

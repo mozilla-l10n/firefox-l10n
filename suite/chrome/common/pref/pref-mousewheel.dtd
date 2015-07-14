@@ -1,10 +1,10 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- LOCALIZATION NOTE : FILE Mouse-wheel management prefs, for those lucky OSes that support mouse wheels -->
 
-<!ENTITY pref.mouseWheel.title           "Mouse Wheel">
+
+<!ENTITY pref.mouseWheel.title           "Roda do rato">
 <!ENTITY mouseWheelPanel.label           "Especifica o comportamento da roda do rato quando usa esta chave de modificação: ">
 <!ENTITY usingJustTheWheel.label         "Nenhuma chave de modificação">
 <!ENTITY usingWheelAndAlt.label          "&altKey.label;">
@@ -14,8 +14,8 @@
 <!ENTITY mouseWheelHorizGroup.label      "Deslocamento horizontal">
 <!ENTITY sameAsVertical.label            "O mesmo que o deslocamento vertical">
 <!ENTITY sameAsVertical.accesskey        "v">
-<!ENTITY doNothing.label                 "Não fazer nada">
-<!ENTITY doNothing.accesskey             "N">
+<!ENTITY doNothing.label                 "Nada fazer">
+<!ENTITY doNothing.accesskey             "d">
 <!ENTITY doNothingHoriz.accesskey        "z">
 <!ENTITY scrollDocument.label            "Deslocar documento">
 <!ENTITY scrollDocument.accesskey        "s">
@@ -23,8 +23,8 @@
 <!ENTITY history.label                   "Mover para trás e para a frente o histórico de navegação">
 <!ENTITY history.accesskey               "M">
 <!ENTITY historyHoriz.accesskey          "ç">
-<!ENTITY zoom.label                      "Aumentar ou diminuir a página">
-<!ENTITY zoom.accesskey                  "u">
+<!ENTITY zoom.label                      "Ampliar ou reduzir a página">
+<!ENTITY zoom.accesskey                  "A">
 <!ENTITY zoomHoriz.accesskey             "o">
 <!ENTITY wheelSpeed.label                "Velocidade da roda do rato:">
 <!ENTITY wheelSpeed.accesskey            "r">

@@ -1,17 +1,17 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Context Menu -->
+
 <!ENTITY popupWindowRejectCmd.label     "Rejeitar janelas de popup deste sítio">
 <!ENTITY popupWindowRejectCmd.accesskey "o">
-<!ENTITY popupWindowAllowCmd.label      "Permitir janelas de popup deste sítio">
+<!ENTITY popupWindowAllowCmd.label      "Permitir janelas emergentes deste sítio">
 <!ENTITY popupWindowAllowCmd.accesskey  "o">
 <!ENTITY openLinkCmdInTab.label       "Abrir ligação em novo separador">
 <!ENTITY openLinkCmdInTab.accesskey   "s">
 <!ENTITY openLinkCmd.label            "Abrir ligação em nova janela">
 <!ENTITY openLinkCmd.accesskey        "j">
-<!ENTITY openLinkCmdInPrivateWindow.label     "Abrir ligação numa janela privada">
+<!ENTITY openLinkCmdInPrivateWindow.label     "Abrir ligação em janela privada">
 <!ENTITY openLinkCmdInPrivateWindow.accesskey "d">
 <!ENTITY openLinkInWindowCmd.label    "Abrir">
 <!ENTITY openLinkInWindowCmd.accesskey "b">
@@ -57,8 +57,8 @@
 <!ENTITY viewVideoCmd.accesskey       "d">
 <!ENTITY viewBGImageCmd.label         "Ver imagem de fundo">
 <!ENTITY viewBGImageCmd.accesskey     "f">
-<!ENTITY setDesktopBackgroundCmd.label        "Definir como imagem de fundo do ambiente de trabalho">
-<!ENTITY setDesktopBackgroundCmd.accesskey    "D">
+<!ENTITY setDesktopBackgroundCmd.label     "Definir como imagem de fundo do ambiente de trabalho">
+<!ENTITY setDesktopBackgroundCmd.accesskey "D">
 <!ENTITY bookmarkPageCmd.label        "Adicionar página aos marcadores">
 <!ENTITY bookmarkPageCmd.accesskey    "m">
 <!ENTITY bookmarkLinkCmd.label        "Adicionar ligação aos marcadores">
@@ -72,8 +72,8 @@
 <!ENTITY saveFrameAsCmd.label         "Guardar moldura como…">
 <!ENTITY saveFrameCmd.label           "Guardar moldura">
 <!ENTITY saveFrameCmd.accesskey       "G">
-<!ENTITY printFrameCmd.label          "Imprimir moldura…">
-<!ENTITY printFrameCmd.accesskey      "I">
+<!ENTITY printFrameCmd.label          "Imprimir moldura...">
+<!ENTITY printFrameCmd.accesskey      "p">
 <!ENTITY saveLinkAsCmd.label          "Guardar ligação como…">
 <!ENTITY saveLinkCmd.label            "Guardar ligação">
 <!ENTITY saveLinkCmd.accesskey        "r">
@@ -94,22 +94,22 @@
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY metadataCmd.label            "Propriedades">
 <!ENTITY metadataCmd.accesskey        "P">
-<!ENTITY copyEmailCmd.label           "Copiar endereço de correio">
+<!ENTITY copyEmailCmd.label           "Copiar endereço de e-mail">
 <!ENTITY copyEmailCmd.accesskey       "e">
 <!ENTITY thisFrameMenu.label          "Esta moldura">
 <!ENTITY thisFrameMenu.accesskey      "o">
 <!ENTITY mediaPlay.label              "Reproduzir">
-<!ENTITY mediaPlay.accesskey          "P">
-<!ENTITY mediaPause.label             "Pausar">
+<!ENTITY mediaPlay.accesskey          "p">
+<!ENTITY mediaPause.label             "Pausa">
 <!ENTITY mediaPause.accesskey         "P">
 <!ENTITY mediaMute.label              "Sem som">
 <!ENTITY mediaMute.accesskey          "m">
 <!ENTITY mediaUnmute.label            "Com som">
 <!ENTITY mediaUnmute.accesskey        "m">
 <!ENTITY mediaPlaybackRate.label        "Velocidade de reprodução">
-<!ENTITY mediaPlaybackRate.accesskey    "b">
-<!ENTITY mediaPlaybackRate050.label     "Slow motion (½×)">
-<!ENTITY mediaPlaybackRate050.accesskey "S">
+<!ENTITY mediaPlaybackRate.accesskey    "o">
+<!ENTITY mediaPlaybackRate050.label     "Câmara lenta (½×)">
+<!ENTITY mediaPlaybackRate050.accesskey "C">
 <!ENTITY mediaPlaybackRate100.label     "Velocidade normal">
 <!ENTITY mediaPlaybackRate100.accesskey "n">
 <!ENTITY mediaPlaybackRate150.label     "Alta velocidade (1½×)">
@@ -119,14 +119,14 @@
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY mediaShowControls.label      "Mostrar controlos de media">
+<!ENTITY mediaShowControls.label      "Mostrar controlos multimédia">
 <!ENTITY mediaShowControls.accesskey  "a">
-<!ENTITY mediaHideControls.label      "Ocultar controlos de media">
+<!ENTITY mediaHideControls.label      "Ocultar controlos multimédia">
 <!ENTITY mediaHideControls.accesskey  "a">
 <!ENTITY videoFullScreen.label        "Ecrã inteiro">
 <!ENTITY videoFullScreen.accesskey    "n">
-<!ENTITY videoSaveImage.label         "Guardar instantâneo como…">
-<!ENTITY videoSaveImage.accesskey     "s">
+<!ENTITY videoSaveImage.label         "Guardar captura como…">
+<!ENTITY videoSaveImage.accesskey     "G">
 <!ENTITY videoShowStats.label         "Mostrar estatísticas">
 <!ENTITY videoShowStats.accesskey     "t">
 <!ENTITY videoHideStats.label         "Ocultar estatísticas">
@@ -143,9 +143,9 @@ items are mutually exclusive. -->
 <!ENTITY spellIgnoreWord.label          "Ignorar palavra">
 <!ENTITY spellIgnoreWord.accesskey      "v">
 <!ENTITY spellCheckEnable.label         "Verificação ortográfica">
-<!ENTITY spellCheckEnable.accesskey     "ç">
+<!ENTITY spellCheckEnable.accesskey     "o">
 <!ENTITY spellNoSuggestions.label       "(nenhuma sugestão)">
 <!ENTITY spellDictionaries.label        "Idiomas">
 <!ENTITY spellDictionaries.accesskey    "I">
-<!ENTITY spellAddDictionaries.label     "Transferir mais dicionários…">
+<!ENTITY spellAddDictionaries.label     "Descarregar mais dicionários…">
 <!ENTITY spellAddDictionaries.accesskey "d">

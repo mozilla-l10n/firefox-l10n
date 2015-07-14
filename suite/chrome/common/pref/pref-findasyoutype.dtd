@@ -2,20 +2,20 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pref.findAsYouType.title "Procurar ao escrever">
-<!ENTITY findAsYouTypeBehavior.label "Procurar ao escrever">
-<!ENTITY findAsYouTypeTip.label "Dica: Para iniciar manualmente Procurar ao escrever, escreva / para procurar texto ou ' para procurar ligações, seguido do texto que deseja encontrar.">
+<!ENTITY pref.findAsYouType.title "Localizar ao escrever">
+<!ENTITY findAsYouTypeBehavior.label "Localizar ao escrever">
+<!ENTITY findAsYouTypeTip.label "Dica: para iniciar manualmente a opção Localizar ao escrever, digite uma / para procurar texto ou ' para procurar ligações, seguido do texto que deseja localizar.">
 <!ENTITY findAsYouTypeTimeout.label "Limpar a pesquisa atual após alguns segundos de inatividade">
-<!ENTITY findAsYouTypeTimeout.accesskey "c">
-<!ENTITY findAsYouTypeSound.label "Tocar um som quando o texto escrito não for encontrado">
+<!ENTITY findAsYouTypeTimeout.accesskey "d">
+<!ENTITY findAsYouTypeSound.label "Tocar um som se o texto escrito não for encontrado">
 <!ENTITY findAsYouTypeSound.accesskey "T">
-<!ENTITY findAsYouTypeEnableAuto.label "Procurar automaticamente ao escrever numa página web:">
-<!ENTITY findAsYouTypeEnableAuto.accesskey "P">
+<!ENTITY findAsYouTypeEnableAuto.label "Localizar automaticamente ao escrever numa página web:">
+<!ENTITY findAsYouTypeEnableAuto.accesskey "L">
 <!ENTITY findAsYouTypeAutoText.label "Qualquer texto na página">
 <!ENTITY findAsYouTypeAutoText.accesskey "a">
 <!ENTITY findAsYouTypeAutoLinks.label "Apenas ligações">
-<!ENTITY findAsYouTypeAutoLinks.accesskey "ç">
+<!ENTITY findAsYouTypeAutoLinks.accesskey "l">
 
-<!ENTITY findAsYouTypeFindbarEnable.label "Mostrar  barra de pesquisa durante a pesquisa ao escrever">
+<!ENTITY findAsYouTypeFindbarEnable.label "Mostrar barra de ferramentas ao Localizar ao escrever">
 <!ENTITY findAsYouTypeFindbarEnable.accesskey "M">
-<!ENTITY findAsYouTypeFindbarEnableTip.label "Nota: Procurar ao escrever sem mostrar a barra de pesquisa não permite entradas de texto internacionais.">
+<!ENTITY findAsYouTypeFindbarEnableTip.label "Nota: Localizar ao escrever sem mostrar a barra de pesquisa não permite entradas de texto internacionais.">

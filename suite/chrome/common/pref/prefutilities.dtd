@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY FallbackCharset.auto         "Por omissão para o idioma atual">
+<!ENTITY FallbackCharset.auto         "Predefinições do idioma atual">
 <!-- LOCALIZATION NOTE (FallbackCharset.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY FallbackCharset.arabic       "Arábico">
@@ -38,7 +38,3 @@
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY FallbackCharset.vietnamese   "Vietnamita">
 <!ENTITY FallbackCharset.other        "Outro (incluindo Europa Ocidental)">
-
-
-
-   

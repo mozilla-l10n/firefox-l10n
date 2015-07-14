@@ -9,12 +9,12 @@
 <!ENTITY dontCheckSpelling.label              "Nunca">
 <!ENTITY multilineCheckSpelling.label         "Em múltiplas caixas">
 <!ENTITY alwaysCheckSpelling.label            "Rodas as caixas">
-<!ENTITY spellForMailAndNews.label            "Correio &amp; Grupos de discussão">
+<!ENTITY spellForMailAndNews.label            "Correio e grupos de notícias">
 <!ENTITY checkSpellingBeforeSend.label        "Verificar escrita antes de enviar">
-<!ENTITY checkSpellingBeforeSend.accesskey    "C">
+<!ENTITY checkSpellingBeforeSend.accesskey    "c">
 <!ENTITY spellCheckInline.label               "Verificr escrita ao escrever">
 <!ENTITY spellCheckInline.accesskey           "e">
 <!ENTITY languagePopup.label                  "Idioma:">
 <!ENTITY languagePopup.accessKey              "I">
-<!ENTITY moreDictionaries.label               "Transferir mais dicionários&#x2026;">
+<!ENTITY moreDictionaries.label               "Descarregar mais dicionários&#x2026;">
 <!ENTITY noSpellCheckAvailable.label          "Nenhum dicionário disponível.">

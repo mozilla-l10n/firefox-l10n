@@ -2,18 +2,18 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY downloadManager.title           "Gestor de transferências">
+<!ENTITY downloadManager.title           "Gestor de descargas">
 
 <!ENTITY menuBar.tooltip                 "Barra de menu">
 <!ENTITY searchBar.tooltip               "Barra de pesquisa">
 
-<!ENTITY search.placeholder              "Pesquisar transferências">
-<!ENTITY search.label                    "Pesquisar transferências">
-<!ENTITY search.accesskey                "P">
+<!ENTITY search.placeholder              "Pesquisar nas descargas">
+<!ENTITY search.label                    "Pesquisar nas descargas">
+<!ENTITY search.accesskey                "s">
 <!ENTITY search.key                      "f">
 
 <!ENTITY cmd.clearList.label             "Limpar lista">
-<!ENTITY cmd.clearList.tooltip           "Remove da lista transferências terminadas, canceladas e falhadas">
+<!ENTITY cmd.clearList.tooltip           "Remove da lista as descargas terminadas, canceladas e falhadas">
 <!ENTITY cmd.clearList.accesskey         "L">
 
 <!ENTITY col.name.label                  "Nome">
@@ -22,9 +22,9 @@
 <!ENTITY col.status.label                "Estado">
 <!ENTITY col.status.accesskey            "s">
 <!ENTITY col.status.tooltip              "Estado">
-<!ENTITY col.actionPlay.label            "Pausa/resumir/tentar novamente">
+<!ENTITY col.actionPlay.label            "Pausa/retomar/tentar novamente">
 <!ENTITY col.actionPlay.accesskey        "u">
-<!ENTITY col.actionPlay.tooltip          "Pausa/resumir/tentar novamente">
+<!ENTITY col.actionPlay.tooltip          "Pausa/retomar/tentar novamente">
 <!ENTITY col.actionStop.label            "Cancelar/remover">
 <!ENTITY col.actionStop.accesskey        "C">
 <!ENTITY col.actionStop.tooltip          "Cancelar/remover">
@@ -49,9 +49,9 @@
 <!ENTITY col.endtime.label               "Concluído a">
 <!ENTITY col.endtime.accesskey           "u">
 <!ENTITY col.endtime.tooltip             "Concluído a">
-<!ENTITY col.progresstext.label          "&#37;">
-<!ENTITY col.progresstext.accesskey      "&#37;">
-<!ENTITY col.progresstext.tooltip        "Progresso (&#37;)">
+<!ENTITY col.progresstext.label          "&#037;">
+<!ENTITY col.progresstext.accesskey      "&#037;">
+<!ENTITY col.progresstext.tooltip        "Progresso (&#037;)">
 <!ENTITY col.source.label                "Fonte">
 <!ENTITY col.source.accesskey            "o">
 <!ENTITY col.source.tooltip              "Fonte">
@@ -70,7 +70,7 @@
 
 <!ENTITY cmd.pause.label                 "Pausa">
 <!ENTITY cmd.pause.accesskey             "P">
-<!ENTITY cmd.resume.label                "Resumir">
+<!ENTITY cmd.resume.label                "Retomar">
 <!ENTITY cmd.resume.accesskey            "R">
 <!ENTITY cmd.retry.label                 "Tentar novamente">
 <!ENTITY cmd.retry.accesskey             "t">
@@ -82,9 +82,9 @@
 <!ENTITY cmd.open.accesskey              "b">
 <!ENTITY cmd.show.label                  "Abrir pasta respetiva">
 <!ENTITY cmd.show.accesskey              "A">
-<!ENTITY cmd.goToDownloadPage.label      "Ir para a página de transferência">
+<!ENTITY cmd.goToDownloadPage.label      "Ir para a página de descarga">
 <!ENTITY cmd.goToDownloadPage.accesskey  "I">
-<!ENTITY cmd.copyDownloadLink.label      "Copiar ligação da transferência">
+<!ENTITY cmd.copyDownloadLink.label      "Copiar ligação da descarga">
 <!ENTITY cmd.copyDownloadLink.accesskey  "l">
 <!ENTITY cmd.properties.label            "Propriedades">
 <!ENTITY cmd.properties.accesskey        "s">

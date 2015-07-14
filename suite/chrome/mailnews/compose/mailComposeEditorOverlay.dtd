@@ -5,5 +5,5 @@
 <!ENTITY attachImageSource.label         "Anexar esta imagem à mensagem">
 <!ENTITY attachImageSource.accesskey     "s">
 
-<!ENTITY attachLinkSource.label          "Anexar a origem desta ligação à mensagem">
+<!ENTITY attachLinkSource.label          "Anexar origem desta ligação à mensagem">
 <!ENTITY attachLinkSource.accesskey      "a">

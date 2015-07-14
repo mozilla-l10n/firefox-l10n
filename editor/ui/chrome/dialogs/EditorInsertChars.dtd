@@ -7,11 +7,11 @@
 <!ENTITY windowTitle.label "Inserir carácter">
 <!ENTITY category.label "Categoria">
 <!ENTITY letter.label "Carta:">
-<!ENTITY letter.accessKey "A">
+<!ENTITY letter.accessKey "a">
 <!ENTITY character.label "Carácter:">
 <!ENTITY character.accessKey "C">
-<!ENTITY accentUpper.label "Acentuar maiúsculas">
-<!ENTITY accentLower.label "Acentuar minúsculas">
+<!ENTITY accentUpper.label "Maiúsculas acentuadas">
+<!ENTITY accentLower.label "Minúsculas acentuadas">
 <!ENTITY otherUpper.label "Outras maiúsculas">
 <!ENTITY otherLower.label "Outras minúsculas">
 <!ENTITY commonSymbols.label "Símbolos comuns">

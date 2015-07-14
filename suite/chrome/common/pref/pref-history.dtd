@@ -6,20 +6,20 @@
 
 <!ENTITY  pref.history.caption              "Navegar no histórico">
 <!ENTITY  historyPages.label                "O histórico é uma lista de páginas visitadas anteriormente.">
-<!ENTITY  enableHistory.label               "Lembrar páginas visitadas">
-<!ENTITY  enableHistory.accesskey           "L">
+<!ENTITY  enableHistory.label               "Memorizar páginas visitadas">
+<!ENTITY  enableHistory.accesskey           "M">
 <!ENTITY  clearHistory.label                "Limpar histórico">
 <!ENTITY  clearHistory.accesskey            "h">
 
 <!ENTITY  locationBarHistory.caption        "Barra de localização do histórico">
 <!ENTITY  urlBarHistoryEnabled.caption      "Ativar histórico da barra de endereço">
 <!ENTITY  urlBarHistoryEnabled.accesskey    "e">
-<!ENTITY  clearLocationBar.label            "Limpar a lista de sítios guardados no menu da barra de localização.">
+<!ENTITY  clearLocationBar.label            "Limpar lista de sítios guardados na barra de localização.">
 <!ENTITY  clearLocationBarButton.label      "Limpar barra de localização">
 <!ENTITY  clearLocationBarButton.accesskey  "b">
 <!ENTITY  formfillHistory.caption           "Histórico de pesquisas e formulários">
 <!ENTITY  enableFormfill.label              "Ativar histórico de pesquisas e formulários">
 <!ENTITY  enableFormfill.accesskey          "c">
-<!ENTITY  formfillExpire.label              "Lembrar histórico de pesquisas e formulários durante">
+<!ENTITY  formfillExpire.label              "Memorizar histórico de pesquisas e formulários durante">
 <!ENTITY  formfillExpire.accesskey          "f">
 <!ENTITY  formfillDays.label                "dias">

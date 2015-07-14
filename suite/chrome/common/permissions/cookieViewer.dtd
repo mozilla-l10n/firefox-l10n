@@ -3,19 +3,19 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     tab.cookiesonsystem.label      "Cookies guardados">
-<!ENTITY     tab.bannedservers.label        "Sítios do Cookie">
+<!ENTITY     tab.bannedservers.label        "Sítios do cookie">
 <!ENTITY     div.bannedservers.label        "Gerir os sítios que podem ou não guardar cookies no seu computador.">
 <!ENTITY     div.cookiesonsystem.label      "Ver e remover cookies guardados no seu computador.">
-<!ENTITY     treehead.cookiename.label      "Nome do Cookie">
-<!ENTITY     treehead.cookiedomain.label    "Sítio"> 
-<!ENTITY     treehead.cookieexpires.label   "Expira"> 
-<!ENTITY     treehead.infoselected.label    "Informação sobre o cookie seleccionado">
+<!ENTITY     treehead.cookiename.label      "Nome do cookie">
+<!ENTITY     treehead.cookiedomain.label    "Sítio">
+<!ENTITY     treehead.cookieexpires.label   "Expira">
+<!ENTITY     treehead.infoselected.label    "Detalhes do cookie selecionado">
 <!ENTITY     button.removecookie.label      "Remover cookie">
 <!ENTITY     button.removecookie.accesskey  "R">
 <!ENTITY     button.removeallcookies.label  "Remover todos os cookies">
 <!ENTITY     button.removeallcookies.accesskey "e">
 
-<!ENTITY     search.placeholder             "Procurar Cookies">
+<!ENTITY     search.placeholder             "Pesquisar cookies">
 <!ENTITY     focusSearch.key                "f">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     selectAll.key                  "a">
@@ -29,7 +29,7 @@
 
 <!ENTITY     treehead.sitename.label        "Sítio">
 <!ENTITY     treehead.status.label          "Estado">
-<!ENTITY     windowtitle.label              "Gestor de Cookie">
+<!ENTITY     windowtitle.label              "Gestor de cookies">
 <!ENTITY     buttonaccept.label             "Fechar">
 <!ENTITY     buttonaccept.accesskey         "c">
 

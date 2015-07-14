@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY restorepage.tabtitle          "Restaurar sessão">
+<!ENTITY restorepage.tabtitle       "Restaurar sessão">
 <!ENTITY restorepage.pagetitle      "Deseja restaurar a sua sessão">
 <!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
                         you may translate "crash" instead (even though it's IT-speak) -->
@@ -19,4 +19,4 @@
 <!ENTITY restorepage.restoreHeader  "Restaurar">
 <!ENTITY restorepage.listHeader     "Janelas e separadores">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "Janela #&#37;S">
+<!ENTITY restorepage.windowLabel    "Janela #&#037;S">

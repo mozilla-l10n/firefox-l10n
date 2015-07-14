@@ -1,21 +1,21 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- WARNING! This file contains UTF-8 encoded characters!
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 
+
 <!ENTITY pref.alarmgoesoff.label "Se o lembrete estiver vencido:">
 <!ENTITY pref.playasound "Tocar um som">
 <!ENTITY pref.calendar.alarms.playsound.accessKey "s">
-<!ENTITY pref.calendar.alarms.sound.useDefault.label "Usar som pré-definido">
+<!ENTITY pref.calendar.alarms.sound.useDefault.label "Utilizar som pré-definido">
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "d">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Escolher...">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "E">
 <!ENTITY pref.calendar.alarms.sound.play.label "Reproduzir">
-<!ENTITY pref.calendar.alarms.sound.play.accessKey "P">
+<!ENTITY pref.calendar.alarms.sound.play.accessKey "p">
 <!ENTITY pref.showalarmbox "Mostrar uma caixa de alarme">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "M">
 <!ENTITY pref.missedalarms "Mostrar alarmes perdidos">
@@ -30,7 +30,7 @@
 <!ENTITY pref.defalarmlen4events.label "Tempo pré-definido em que o alarme se ativa do evento:">
 <!ENTITY pref.defalarmlen4events.accesskey "T">
 <!ENTITY pref.defalarmlen4todos.label "Tempo pré-definido em que o alarme se ativa antes da tarefa:">
-<!ENTITY pref.defalarmlen4todos.accesskey "e">
+<!ENTITY pref.defalarmlen4todos.accesskey "o">
 
 <!ENTITY pref.defaultsnoozelength.label "Duração pré-definida entre toques do alarme:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "u">

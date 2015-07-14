@@ -2,23 +2,23 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY biffStart.label 				        "Procurar novos artigos a cada ">
-<!ENTITY biffStart.accesskey 			      "P">
-<!ENTITY biffEnd.label 					        "minutos">
+<!ENTITY biffStart.label "Procurar novos artigos a cada ">
+<!ENTITY biffStart.accesskey "P">
+<!ENTITY biffEnd.label "minutos">
 
-<!ENTITY loginAtStartup.label 			    "Procurar novos artigos ao iniciar">
-<!ENTITY loginAtStartup.accesskey 		  "i">
+<!ENTITY loginAtStartup.label "Procurar novos artigos ao iniciar"> 
+<!ENTITY loginAtStartup.accesskey "i">
 
-<!ENTITY useQuickMode.label 			      "Por definição, mostrar resumo do artigo em vez de carregar a página web">
-<!ENTITY useQuickMode.accesskey 		    "d">
+<!ENTITY useQuickMode.label "Por definição, mostrar resumo do artigo em vez de carregar a página web"> 
+<!ENTITY useQuickMode.accesskey "d">
 
-<!ENTITY manageSubscriptions.label 		  "Gerir subscrições...">
-<!ENTITY manageSubscriptions.accesskey  "G">
+<!ENTITY manageSubscriptions.label "Gerir subscrições…"> 
+<!ENTITY manageSubscriptions.accesskey "G">
 
-<!ENTITY feedWindowTitle.label "Assistente de conta de feed">
+<!ENTITY feedWindowTitle.label "Assistente para conta de fontes">
+<!-- entities from rss.rdf -->
 
-<!-- entities from defaults/isp/rss.rdf -->
-<!ENTITY feeds.accountName 				      "Fontes de notícias e blogues">
-<!ENTITY feeds.wizardShortName 			    "Fontes">
-<!ENTITY feeds.wizardLongName 			    "Fontes de notícias e blogues">
+<!ENTITY feeds.accountName "Fontes de notícias e blogues">
+<!ENTITY feeds.wizardShortName "Fontes">
+<!ENTITY feeds.wizardLongName "Fontes de notícias e blogues">
 <!ENTITY feeds.wizardLongName.accesskey "F">

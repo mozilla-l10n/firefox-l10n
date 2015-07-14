@@ -10,3 +10,6 @@
 <!ENTITY addonAction.disable                    "Desativar">
 <!ENTITY addonAction.uninstall                  "Desinstalar">
 <!ENTITY addonAction.undo                       "Anular">
+
+<!ENTITY addonUnsigned.message                  "O &brandShortName; não conseguiu verificar este extra.">
+<!ENTITY addonUnsigned.learnMore                "Saber mais">

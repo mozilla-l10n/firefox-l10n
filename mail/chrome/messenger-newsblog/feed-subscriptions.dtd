@@ -1,12 +1,12 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Subscription Dialog -->
-<!ENTITY feedSubscriptions.label 	 "Subscrições de fontes">
-<!ENTITY learnMore.label         	 "Saber mais sobre fontes.">
 
-<!ENTITY feedTitle.label 			 "Título:">
+<!ENTITY feedSubscriptions.label     "Subscrições de fontes">
+<!ENTITY learnMore.label             "Saber mais sobre fontes">
+
+<!ENTITY feedTitle.label             "Título:">
 <!ENTITY feedTitle.accesskey         "T">
 
 <!ENTITY feedLocation.label          "URL da fonte:">
@@ -23,19 +23,19 @@
 
 <!ENTITY autotagEnable.label         "Criar etiquetas automaticamente da &lt;category&gt; nome da fonte">
 <!ENTITY autotagEnable.accesskey     "c">
-<!ENTITY autotagUsePrefix.label      "Prefixo da etiqueta com:">
+<!ENTITY autotagUsePrefix.label      "Prefixar etiquetas com:">
 <!ENTITY autotagUsePrefix.accesskey  "P">
-<!ENTITY autoTagPrefix.placeholder   "Escrever o prefixo da etiqueta">
+<!ENTITY autoTagPrefix.placeholder   "Introduza um prefixo de etiqueta">
 
-<!ENTITY button.addFeed.label 		 "Adicionar">
-<!ENTITY button.addFeed.accesskey 	 "A">
-<!ENTITY button.editFeed.label 		 "Atualizar">
-<!ENTITY button.editFeed.accesskey 	 "u">
-<!ENTITY button.removeFeed.label 	 "Remover">
+<!ENTITY button.addFeed.label        "Adicionar">
+<!ENTITY button.addFeed.accesskey    "A">
+<!ENTITY button.editFeed.label       "Atualizar">
+<!ENTITY button.editFeed.accesskey   "u">
+<!ENTITY button.removeFeed.label     "Remover">
 <!ENTITY button.removeFeed.accesskey "R">
-<!ENTITY button.importOPML.label 	 "Importar">
+<!ENTITY button.importOPML.label     "Importar">
 <!ENTITY button.importOPML.accesskey "I">
-<!ENTITY button.exportOPML.label 	 "Exportar">
+<!ENTITY button.exportOPML.label     "Exportar">
 <!ENTITY button.exportOPML.accesskey "x">
 <!ENTITY button.exportOPML.tooltip   "Exportar fontes com a estrutura da pasta. Ctrl+clique ou Ctrl+enter para exportar fontes como lista">
 

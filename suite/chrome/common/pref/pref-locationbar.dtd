@@ -2,19 +2,20 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!--LOCALIZATION NOTE : FILE The Location Bar prefs panel -->
+
 <!ENTITY pref.locationBar.title                "Barra de localização">
 
 <!ENTITY autoComplete.label                    "Conclusão automática">
-<!ENTITY enableAutoComplete.label              "Conclusão do endereço a partir do histórico de navegação">
-<!ENTITY enableAutoComplete.accesskey          "C">
+
+
+
+
 <!ENTITY autoCompleteAutoFill.label            "Conclusão automática com a melhor opção">
 <!ENTITY autoCompleteAutoFill.accesskey        "u">
 <!ENTITY autoCompleteShowPopup.label           "Mostrar lista com os resultados">
 <!ENTITY autoCompleteShowPopup.accesskey       "s">
 <!ENTITY autoCompleteMatchOnlyTyped.label      "Mostrar apenas os sítios web escritos anteriormente">
 <!ENTITY autoCompleteMatchOnlyTyped.accesskey  "M">
-<!ENTITY autoCompleteMatchOnlyURLs.label       "Correspondência de localizações e não de títulos de sítios web">
-<!ENTITY autoCompleteMatchOnlyURLs.accesskey   "n">
 <!--LOCALIZATION NOTE (autoCompleteMatch.label): This is the common leading
   part of the menulist items listed below, mainly to make the control available
   via the accesskey
@@ -25,18 +26,17 @@
 <!ENTITY autoCompleteMatchWordsFirst           "Em qualquer lado mas preferencialmente nos limites da palavra">
 <!ENTITY autoCompleteMatchWords                "Apenas nos limites da palavra">
 <!ENTITY autoCompleteMatchStart                "Apenas no início da localização ou título">
-<!ENTITY showInternetSearch.label              "Mostrar motor de busca pré-definido Internet">
+<!ENTITY showInternetSearch.label              "Mostrar motor de pesquisa pré-definido">
 <!ENTITY showInternetSearch.accesskey          "e">
 
 <!ENTITY formatting.label                      "Formatação">
 <!ENTITY domainFormatting.label                "Destacar domínio efetivo para os sítios web e servidores FTP">
 <!ENTITY domainFormatting.accesskey            "D">
-
 <!ENTITY highlightSecure.label                 "Destaca páginas web com um nível de segurança alto">
 <!ENTITY highlightSecure.accesskey             "c">
 
 <!ENTITY unknownLocations.label                "Localizações desconhecidas">
 <!ENTITY domainGuessing.label                  "Adicionar &quot;www.&quot; e &quot;.com&quot; à localização se a página web não for encontrada">
 <!ENTITY domainGuessing.accesskey              "w">
-<!ENTITY keywords.label                        "Efetuar uma procura web se o texto introduzido não for um endereço">
-<!ENTITY keywords.accesskey                    "f">
+<!ENTITY keywords.label                        "Efetuar uma pesquisa web se o texto introduzido não for um endereço">
+<!ENTITY keywords.accesskey                    "p">

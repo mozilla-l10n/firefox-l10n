@@ -3,10 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY pref.cookies.title             "Cookies">
-
 <!-- cookies -->
 
-<!ENTITY cookiePolicy.label             "Política para aceitar Cookie">
+
+<!ENTITY cookiePolicy.label             "Política de aceitação de cookies">
 
 <!ENTITY disableCookies.label           "Bloquear cookies">
 <!ENTITY disableCookies.accesskey       "B">
@@ -33,13 +33,13 @@
 <!ENTITY days.label                     "dias">
 
 <!ENTITY warnAboutCookies.label         "Perguntar para cada cookie">
-<!ENTITY warnAboutCookies.accesskey     "A">
+<!ENTITY warnAboutCookies.accesskey     "a">
 <!ENTITY forCurrentSession.label        "exceto para cookies de sessão">
 <!ENTITY forCurrentSession.accesskey    "e">
 
-<!ENTITY manageCookies.label            "Gerir Cookies e sítios">
+<!ENTITY manageCookies.label            "Gerir cookies e sítios">
 <!ENTITY manageCookiesDescription.label "Permite-lhe ver e gerir cookies guardados e definir por sítio se aceita ou rejeita cookies. Definições por sítio sobrepõem-se às definições acima.">
 
-<!ENTITY viewCookies.label              "Gestor de Cookie">
+<!ENTITY viewCookies.label              "Gestor de cookies">
 <!ENTITY viewCookies.accesskey          "G">
 

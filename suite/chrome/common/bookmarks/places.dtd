@@ -12,7 +12,7 @@
 <!ENTITY cmd.close.key                  "w">
 
 <!ENTITY view.columns.label             "Mostrar colunas">
-<!ENTITY view.columns.accesskey         "C">
+<!ENTITY view.columns.accesskey         "c">
 <!ENTITY view.sort.label                "Ordenar">
 <!ENTITY view.sort.accesskey            "O">
 <!ENTITY view.unsorted.label            "Não-ordenado">
@@ -22,20 +22,20 @@
 <!ENTITY view.sortDescending.label      "Ordenado de Z a A">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
-<!ENTITY cmd.findInBookmarks.label      "Encontrar nos marcadores...">
-<!ENTITY cmd.findInBookmarks.accesskey  "n">
-<!ENTITY cmd.findCurrent.label          "Encontrar na coleção atual...">
-<!ENTITY cmd.findCurrent.accesskey      "ç">
+<!ENTITY cmd.findInBookmarks.label      "Localizar nos marcadores…">
+<!ENTITY cmd.findInBookmarks.accesskey  "L">
+<!ENTITY cmd.findCurrent.label          "Localizar na coleção atual…">
+<!ENTITY cmd.findCurrent.accesskey      "i">
 
-<!ENTITY cmd.exportHTML.label      "Exportar HTML...">
-<!ENTITY cmd.exportHTML.accesskey  "E">
-<!ENTITY cmd.importHTML.label      "Importar HTML...">
-<!ENTITY cmd.importHTML.accesskey  "t">
+<!ENTITY cmd.exportHTML.label           "Exportar HTML...">
+<!ENTITY cmd.exportHTML.accesskey       "E">
+<!ENTITY cmd.importHTML.label           "Importar HTML...">
+<!ENTITY cmd.importHTML.accesskey       "t">
 
 <!ENTITY cmd.backup.label               "Cópia de segurança...">
 <!ENTITY cmd.backup.accesskey           "C">
-<!ENTITY cmd.restore2.label              "Restaurar">
-<!ENTITY cmd.restore2.accesskey          "R">
+<!ENTITY cmd.restore2.label             "Restaurar">
+<!ENTITY cmd.restore2.accesskey         "R">
 <!ENTITY cmd.restoreFromFile.label      "Escolher ficheiro...">
 <!ENTITY cmd.restoreFromFile.accesskey  "E">
 
@@ -48,14 +48,14 @@
 
 <!ENTITY cmd.open.label                  "Abrir">
 <!ENTITY cmd.open.accesskey              "A">
-<!ENTITY cmd.open_tab.label              "Abrir num novo separador">
+<!ENTITY cmd.open_tab.label              "Abrir em novo separador">
 <!ENTITY cmd.open_tab.accesskey          "s">
-<!ENTITY cmd.open_window.label           "Abrir numa nova janela">
+<!ENTITY cmd.open_window.label           "Abrir em nova janela">
 <!ENTITY cmd.open_window.accesskey       "n">
-<!ENTITY cmd.open_private.label          "Abrir numa janela privada">
+<!ENTITY cmd.open_private.label          "Abrir em janela privada">
 <!ENTITY cmd.open_private.accesskey      "v">
 <!ENTITY cmd.open_all_in_tabs.label      "Abrir todas em separadores">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "S">
+<!ENTITY cmd.open_all_in_tabs.accesskey  "s">
 
 <!ENTITY cmd.properties.label      "Propriedades">
 <!ENTITY cmd.properties.accesskey  "i">
@@ -64,12 +64,12 @@
 <!ENTITY cmd.sortby_name.accesskey          "O">
 
 <!ENTITY cmd.new_bookmark.label            "Novo marcador...">
-<!ENTITY cmd.new_bookmark.accesskey        "M">
+<!ENTITY cmd.new_bookmark.accesskey        "m">
 <!ENTITY cmd.new_folder.label              "Nova pasta...">
 <!ENTITY cmd.new_folder.accesskey          "a">
 <!ENTITY cmd.context_new_folder.accesskey  "P">
 <!ENTITY cmd.new_separator.label           "Novo separador">
-<!ENTITY cmd.new_separator.accesskey       "S">
+<!ENTITY cmd.new_separator.accesskey       "s">
 
 <!ENTITY cmd.reloadLivebookmark.label      "Recarregar marcador dinâmico">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "R">
@@ -77,7 +77,7 @@
 <!ENTITY cmd.moveBookmarks.label                  "Mover...">
 <!ENTITY cmd.moveBookmarks.accesskey              "M">
 
-<!ENTITY col.title.label          "Nome">
+<!ENTITY col.title.label         "Nome">
 <!ENTITY col.tags.label          "Etiquetas">
 <!ENTITY col.url.label           "Local">
 <!ENTITY col.lastvisit.label     "Data de visita">
@@ -87,10 +87,10 @@
 <!ENTITY col.dateadded.label     "Adicionado">
 <!ENTITY col.lastmodified.label  "Última modificação">
 
-<!ENTITY search.label                              "Procurar:">
-<!ENTITY search.placeholder                        "Procurar marcadores">
+<!ENTITY search.label                              "Pesquisar:">
+<!ENTITY search.placeholder                        "Pesquisar nos marcadores">
 
-<!ENTITY search.in.label                           "Procurar em:">
+<!ENTITY search.in.label                           "Pesquisar em:">
 <!ENTITY search.scopeFolder.label                  "Pasta escolhida">
 <!ENTITY search.scopeFolder.accesskey              "P">
 <!ENTITY search.scopeBookmarks.label               "Marcadores">
@@ -107,7 +107,7 @@
 <!ENTITY detailsPane.more.accesskey "s">
 <!ENTITY detailsPane.fewer.label "Menos">
 <!ENTITY detailsPane.fewer.accesskey "s">
-<!ENTITY detailsPane.selectAnItemText.description "Escolher um item para ver e editar as suas propriedades">
+<!ENTITY detailsPane.selectAnItemText.description "Selecione um item para ver e editar as suas propriedades">
 
 <!ENTITY editBookmark.done.label "Feito">
 <!ENTITY editBookmark.cancel.label "Cancelar">

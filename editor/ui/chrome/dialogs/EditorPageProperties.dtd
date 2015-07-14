@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Window title -->
 
-<!ENTITY windowTitle.label "Propriedades da Página">
+<!ENTITY windowTitle.label "Propriedades da página">
 <!ENTITY location.label "Localização:">
 <!ENTITY lastModified.label "Última alteração:">
 <!ENTITY titleInput.label "Título:">
@@ -13,5 +13,5 @@
 <!ENTITY descriptionInput.label "Descrição:">
 <!ENTITY descriptionInput.accessKey "D">
 <!ENTITY locationNewPage.label "[Nova página, não guardada ainda]">
-<!ENTITY EditHEADSource1.label "Utilizadores Avançados:">
+<!ENTITY EditHEADSource1.label "Utilizadores avançados:">
 <!ENTITY EditHEADSource2.label "Para editar outros conteúdos do &lt;cabeçalho&gt; região, utilize &quot;Origem HTML&quot; no menu Ver ou na barra de ferramentas no modo editar.">

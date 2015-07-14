@@ -8,7 +8,7 @@
 <!ENTITY matchAny.accesskey "o">
 <!ENTITY matchAllMsgs.label     "Coincidir com todas as mensagens">
 <!ENTITY matchAllMsgs.accesskey "m">
-<!-- LOCALIZATION NOTE  
+<!-- LOCALIZATION NOTE
   The values below are used to control the widths of the search widgets.
   Change the values only when the localized strings in the popup menus
   are truncated in the widgets.

@@ -4,14 +4,14 @@
 <!-- Window title -->
 
 
-<!ENTITY windowTitle.label "Propriedades Horizontais da Linha">
+<!ENTITY windowTitle.label "Propriedades da linha horizontal">
 
 <!ENTITY dimensionsBox.label "Dimensões">
 <!ENTITY heightEditField.label "Altura:">
 <!ENTITY heightEditField.accessKey "t">
 <!ENTITY widthEditField.label "Largura:">
 <!ENTITY widthEditField.accessKey "L">
-<!ENTITY pixelsPopup.value "pixéis">
+<!ENTITY pixelsPopup.value "pixeis">
 <!ENTITY alignmentBox.label "Alinhamento">
 <!ENTITY leftRadio.label "Esquerda">
 <!ENTITY leftRadio.accessKey "E">
@@ -20,8 +20,8 @@
 <!ENTITY rightRadio.label "Direita">
 <!ENTITY rightRadio.accessKey "D">
 
-<!ENTITY threeDShading.label "Sombra 3-D">
+<!ENTITY threeDShading.label "Sombra 3D">
 <!ENTITY threeDShading.accessKey "S">
-<!ENTITY saveSettings.label "Usar como pré-definição">
-<!ENTITY saveSettings.accessKey "U">
-<!ENTITY saveSettings.tooltip "Guardar as definições para usar quando inserir novas linhas horizontais">
+<!ENTITY saveSettings.label "Utilizar como pré-definição">
+<!ENTITY saveSettings.accessKey "d">
+<!ENTITY saveSettings.tooltip "Guardar definições para as utilizar ao inserir novas linhas horizontais">

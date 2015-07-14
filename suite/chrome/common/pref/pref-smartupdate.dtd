@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!--LOCALIZATION NOTE : FILE UI for Software Updates prefs -->
+
 <!ENTITY pref.smartUpdate.title               "Instalação de Software">
 <!ENTITY addOnsTitle.label                    "Extras">
 <!ENTITY addOnsAllow.label                    "Permitir sítios web de instalar atualizações de extras">
@@ -14,10 +14,10 @@
 <!ENTITY addOnsDaily.accesskey                "d">
 <!ENTITY weekly.label                         "semanalmente">
 <!ENTITY addOnsWeekly.accesskey               "l">
-<!ENTITY addOnsModeAutomatic.label            "Transferir e instalar automaticamente as actualizações">
+<!ENTITY addOnsModeAutomatic.label            "Descarregar e instalar atualizações automaticamente">
 <!ENTITY addOnsModeAutomatic.accesskey        "m">
 <!ENTITY enablePersonalized.label             "Recomendação de personalização de extras">
-<!ENTITY enablePersonalized.accesskey         "P">
+<!ENTITY enablePersonalized.accesskey         "p">
 <!ENTITY addonManagerLink.label               "Gerir extras">
 
 <!ENTITY appUpdates.caption                   "&brandShortName;">
@@ -25,8 +25,8 @@
 <!ENTITY autoAppUpdates.accesskey             "t">
 <!ENTITY appDaily.accesskey                   "a">
 <!ENTITY appWeekly.accesskey                  "e">
-<!ENTITY appModeAutomatic.label               "Transferir automaticamente e instalar a actualização">
-<!ENTITY appModeAutomatic.accesskey           "c">
+<!ENTITY appModeAutomatic.label               "Descarregar e instalar atualização automaticamente">
+<!ENTITY appModeAutomatic.accesskey           "m">
 <!ENTITY appModeAutoAddonWarn.label           "Avisar-me caso desative algum dos meus extras">
 <!ENTITY appModeAutoAddonWarn.accesskey       "v">
 <!ENTITY updateHistoryButton.label            "Mostrar histórico de atualizações">

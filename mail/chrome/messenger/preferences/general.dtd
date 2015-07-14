@@ -2,38 +2,38 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY messengerStartPage.label			"Página inicial do &brandShortName;">
-<!ENTITY enableStartPage.label				"Ao iniciar o &brandShortName;, mostrar página inicial na área de mensagens">
-<!ENTITY enableStartPage.accesskey			"A">
-<!ENTITY location.label						"Localização:">
-<!ENTITY location1.accesskey				"o">
-<!ENTITY useDefault.label					"Restaurar predefinições">
-<!ENTITY useDefault.accesskey				"R">
+<!ENTITY messengerStartPage.label         "Página inicial do &brandShortName;">
+<!ENTITY enableStartPage.label            "Ao iniciar o &brandShortName;, mostrar página inicial na área de mensagens">
+<!ENTITY enableStartPage.accesskey        "A">
+<!ENTITY location.label                   "Localização:">
+<!ENTITY location1.accesskey               "o">
+<!ENTITY useDefault.label                 "Restaurar predefinições">
+<!ENTITY useDefault.accesskey             "R">
 
-<!ENTITY changeDockIconOptions.label		"Mudar preferências do ícone da aplicação">
-<!ENTITY dockOptions.label					"Opções do ícone">
-<!ENTITY dockOptions.accesskey				"n">
+<!ENTITY changeDockIconOptions.label      "Mudar preferências do ícone da aplicação">
+<!ENTITY dockOptions.label                "Opções do ícone">
+<!ENTITY dockOptions.accesskey            "n">
 
-<!ENTITY newMessagesArrive.label			"Ao receber mensagens">
-<!ENTITY playSound.label					"Reproduzir um som">
-<!ENTITY playSound1.accesskey				"d">
-<!ENTITY showAnimatedAlert.label			"Mostrar um alerta">
-<!ENTITY showAnimatedAlert.accesskey		"M">
-<!ENTITY customizeMailAlert.label			"Personalizar...">
-<!ENTITY customizeMailAlert.accesskey		"P">
+<!ENTITY newMessagesArrive.label          "Ao receber mensagens">
+<!ENTITY playSound.label                  "Reproduzir um som">
+<!ENTITY playSound1.accesskey              "d">
+<!ENTITY showAnimatedAlert.label          "Mostrar um alerta">
+<!ENTITY showAnimatedAlert.accesskey      "M">
+<!ENTITY customizeMailAlert.label         "Personalizar...">
+<!ENTITY customizeMailAlert.accesskey     "P">
 
-<!ENTITY showTrayIcon.label					"Mostrar ícone na bandeja">
-<!ENTITY showTrayIcon.accesskey				"e">
+<!ENTITY showTrayIcon.label               "Mostrar ícone na bandeja">
+<!ENTITY showTrayIcon.accesskey           "e">
 
-<!ENTITY play.label							"Testar">
-<!ENTITY play.accesskey						"T">
-<!ENTITY systemsound.label					"Som pré-definido do sistema para novas mensagens">
-<!ENTITY systemsoundMac.label				"Som do sistema">
-<!ENTITY systemsoundMac.accesskey			"S">
-<!ENTITY systemsound.accesskey				"S">
-<!ENTITY customsound.label					"Utilizar este ficheiro:">
-<!ENTITY customsound.accesskey				"U">
-<!ENTITY browse.label						"Procurar...">
-<!ENTITY browse.accesskey					"u">
+<!ENTITY play.label                       "Testar">
+<!ENTITY play.accesskey                   "T">
+<!ENTITY systemsound.label                "Som pré-definido do sistema para novas mensagens">
+<!ENTITY systemsoundMac.label             "Som do sistema">
+<!ENTITY systemsoundMac.accesskey         "S">
+<!ENTITY systemsound.accesskey            "S">
+<!ENTITY customsound.label                "Utilizar este ficheiro">
+<!ENTITY customsound.accesskey            "U">
+<!ENTITY browse.label                     "Procurar...">
+<!ENTITY browse.accesskey                 "u">
 
-<!ENTITY defaultSearchEngine.label			"Motor de procura pré-definido">
+<!ENTITY defaultSearchEngine.label        "Motor de pesquisa pré-definido">

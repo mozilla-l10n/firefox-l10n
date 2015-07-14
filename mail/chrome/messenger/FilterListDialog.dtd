@@ -33,6 +33,7 @@
 <!ENTITY folderPickerPrefix.label "Executar o(s) filtro(s) selecionado(s) em:">
 <!ENTITY folderPickerPrefix.accesskey "c">
 <!ENTITY helpButton.label "Ajuda">
-<!ENTITY helpButton.accesskey "U">
-<!ENTITY closeCmd.key "W">
-<!ENTITY searchBox.emptyText "Procurar filtros por nome…">
+<!ENTITY helpButton.accesskey "u">
+<!ENTITY closeCmd.key "W"> 
+<!ENTITY searchBox.emptyText "Pesquisar filtros por nome…">
+

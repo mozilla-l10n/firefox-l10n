@@ -13,7 +13,7 @@
 <!ENTITY editBookmarkOverlay.folder.label                    "Pasta:">
 <!ENTITY editBookmarkOverlay.folder.accesskey                "P">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Mostrar todas as pastas de marcadores">
-<!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Esconder">
+<!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Ocultar">
 <!ENTITY editBookmarkOverlay.tags.label                      "Etiquetas:">
 <!ENTITY editBookmarkOverlay.tags.accesskey                  "t">
 <!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Separar etiquetas com vírgulas.">

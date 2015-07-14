@@ -1,25 +1,24 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from content/pref-offlineapps.xul -->
-
 <!--LOCALIZATION NOTE : FILE Offline Apps prefs dialog -->
-<!ENTITY pref.offlineapps.title             "Aplicações web no modo desligado">
-<!ENTITY pref.offlineCache.caption          "Conteúdo web no modo desligado e dados de utilizador">
+
+<!ENTITY pref.offlineapps.title             "Aplicações web offline">
+<!ENTITY pref.offlineCache.caption          "Conteúdo web offline e dados de utilizador">
 
 <!ENTITY clearOfflineAppCache.label         "Limpar">
 <!ENTITY clearOfflineAppCache.accesskey     "L">
 
-<!ENTITY offlineAlwaysAllow.label           "Permitir que todos os sítios web armazenem dados para utilização em modo desligado">
+<!ENTITY offlineAlwaysAllow.label           "Permitir que todos os sítios web armazenem dados para utilização no modo offline">
 <!ENTITY offlineAlwaysAllow.accesskey       "a">
 <!ENTITY offlineExplicit.label              "Apenas permitir sítios web com permissão explicita">
 <!ENTITY offlineExplicit.accesskey          "e">
-<!ENTITY offlineNotifyAsk.label             "Notificar-me quando sítios web pretendem armazenar dados para utilização em modo desligado">
+<!ENTITY offlineNotifyAsk.label             "Notificar quando os sítios web pretendem armazenar dados para utilização offline">
 <!ENTITY offlineNotifyAsk.accesskey         "N">
 <!ENTITY offlineNotifyPermissions.label     "Gerir permissões">
 <!ENTITY offlineNotifyPermissions.accesskey "p">
 
-<!ENTITY offlineAppsUsage.label             "Os sítios web seguintes estão a utilizar armazenamento em modo desligado:">
+<!ENTITY offlineAppsUsage.label             "Os sítios web seguintes estão a utilizar armazenamento offline:">
 <!ENTITY offlineAppsListRemove.label        "Limpar dados…">
 <!ENTITY offlineAppsListRemove.accesskey    "d">

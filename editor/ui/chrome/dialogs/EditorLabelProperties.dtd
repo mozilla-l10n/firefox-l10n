@@ -11,8 +11,8 @@
 <!ENTITY EditLabelText.accesskey "E">
 <!ENTITY LabelFor.label "Do controlo:">
 <!ENTITY LabelFor.accesskey "c">
-<!ENTITY AccessKey.label "Chave de acesso:">
-<!ENTITY AccessKey.accesskey "h">
+<!ENTITY AccessKey.label "Tecla de acesso:">
+<!ENTITY AccessKey.accesskey "s">
 
 <!ENTITY RemoveLabel.label "Remover etiqueta">
 <!ENTITY RemoveLabel.accesskey "R">
