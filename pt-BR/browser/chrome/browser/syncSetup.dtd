@@ -72,7 +72,7 @@
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "Identificação">
-<!ENTITY existingRecoveryKey.description "Você pode conseguir uma cópia da sua chave de recuperação em Opções do &syncBrand.shortName.label; no seu outro dispositivo e então selecionando “Minha chave de recuperação” em “Gerenciar conta”.">
+<!ENTITY existingRecoveryKey.description "Você pode conseguir uma cópia da sua chave de recuperação em Opções do &syncBrand.shortName.label; no seu outro dispositivo e então selecionando  “Minha chave de recuperação” em “Gerenciar conta”.">
 <!ENTITY verifying.label              "Verificando…">
 <!ENTITY resetPassword.label          "Redefinir senha">
 <!ENTITY resetSyncKey.label           "Perdi meu outro dispositivo">
@@ -97,14 +97,14 @@
 <!ENTITY engine.addons.accesskey    "C">
 
 <!ENTITY choice2a.merge.main.label       "Mesclar os dados deste dispositivo com os do &syncBrand.shortName.label;">
-<!ENTITY choice2.merge.recommended.label "Recomendado: ">
+<!ENTITY choice2.merge.recommended.label "Recomendado:">
 <!ENTITY choice2a.client.main.label      "Substituir os dados deste dispositivo pelos do &syncBrand.shortName.label;">
 <!ENTITY choice2a.server.main.label      "Substituir os dados dos outros dispositivos pelos deste dispositivo">
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "Confirmação">
 <!ENTITY confirm.merge2.label    "O &syncBrand.fullName.label; irá mesclar os dados da sua conta do Sync com os deste dispositivo.">
-<!ENTITY confirm.client3.label         "Alerta: estes dados do &brandShortName; neste dispositivo serão excluídos:">
+<!ENTITY confirm.client3.label         "Atenção: os seguintes dados do &brandShortName; neste dispositivo serão excluídos:">
 <!ENTITY confirm.client2.moreinfo.label "Então o &brandShortName; copiará para este dispositivo os dados do &syncBrand.fullName.label;.">
 <!ENTITY confirm.server2.label         "Alerta: estes dispositivos terão seus dados substituídos pelos dados locais:">
 <!-- New & Existing Account: Setup Complete -->

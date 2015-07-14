@@ -59,7 +59,7 @@
 <!ENTITY rights3.webservices-c ". Outros recursos e Serviços podem ser desativados nas preferências do aplicativo.">
 <!-- safe browsing points for branded builds -->
 
-<!ENTITY rights.safebrowsing-a "SafeBrowsing: ">
+<!ENTITY rights.safebrowsing-a "Navegação segura: ">
 <!ENTITY rights.safebrowsing-b "a desativação do Safe Browsing não é recomendada pois pode resultar no uso de sites inseguros. Caso deseje desativar totalmente este recurso, siga estes passos:">
 <!ENTITY rights.safebrowsing-term1 "Abra as preferências do aplicativo">
 <!ENTITY rights.safebrowsing-term2 "Selecione o painel Segurança">
