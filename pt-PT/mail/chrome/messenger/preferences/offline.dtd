@@ -2,28 +2,28 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY offlineDialog.title "Definições do modo desligado">
+<!ENTITY offlineDialog.title "Definições do modo offline">
 
 <!ENTITY checkAutoDetect.label "Seguir automaticamente o estado detetado">
 <!ENTITY checkAutoDetect.accesskey "d">
 <!ENTITY titleStartUp "Estado ao iniciar:">
 <!ENTITY radioRememberPrevState.label "Memorizar o último estado">
 <!ENTITY radioRememberPrevState.accesskey "r">
-<!ENTITY radioAskState.label "Perguntar o estado">
+<!ENTITY radioAskState.label "Perguntar estado">
 <!ENTITY radioAskState.accesskey "u">
-<!ENTITY radioAlwaysOnlineState.label "Ligado">
-<!ENTITY radioAlwaysOnlineState.accesskey "L">
-<!ENTITY radioAlwaysOffline.label "Desligado">
-<!ENTITY radioAlwaysOffline.accesskey "g">
+<!ENTITY radioAlwaysOnlineState.label "Online">
+<!ENTITY radioAlwaysOnlineState.accesskey "l">
+<!ENTITY radioAlwaysOffline.label "Offline">
+<!ENTITY radioAlwaysOffline.accesskey "f">
 
-<!ENTITY textGoingOnline "Enviar mensagens não enviadas ao ligar?">
+<!ENTITY textGoingOnline "Enviar mensagens não enviadas ao ficar online?">
 <!ENTITY radioAutoSend.label "Sim">
 <!ENTITY radioAutoSend.accesskey "S">
 <!ENTITY radioNotSend.label "Não">
 <!ENTITY radioNotSend.accesskey "N">
 <!ENTITY radioAskUnsent.label "Perguntar">
 <!ENTITY radioAskUnsent.accesskey "P">
-<!ENTITY textGoingOffline "Receber mensagens para utilizar no modo desligado?">
+<!ENTITY textGoingOffline "Descarregar mensagens para utilização offline?">
 <!ENTITY radioAutoDownload.label "Sim">
 <!ENTITY radioAutoDownload.accesskey "i">
 <!ENTITY radioNotDownload.label "Não">

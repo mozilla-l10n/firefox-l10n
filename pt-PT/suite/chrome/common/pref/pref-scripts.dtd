@@ -1,27 +1,27 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from content/pref-scripts.xul -->
-
 <!--LOCALIZATION NOTE : FILE The 'Scripts & Plugins' preferences dialog -->
+
+
 <!ENTITY pref.scripts.title              "Scripts e plugins">
 
 <!ENTITY navigator.label                 "Navegador">
 <!ENTITY navigator.accesskey             "N">
-
 <!--LOCALIZATION NOTE (enableJavaScript.label): 'JavaScript' should never be translated -->
+
 <!ENTITY enableJavaScript.label          "Ativar JavaScript para">
 <!ENTITY allowScripts.label              "Permitir scripts para:">
 <!ENTITY allowScripts.accesskey          "s">
 <!ENTITY allowWindowMoveResize.label     "Mover ou redimensionar janelas existentes">
 <!ENTITY allowWindowFlip.label           "Aumentar ou diminuir janelas">
-<!ENTITY allowWindowStatusChange.label   "Mudar o texto da barra de estado">
+<!ENTITY allowWindowStatusChange.label   "Mudar texto da barra de estado">
 <!ENTITY allowWindowImageSrcChange.label "mudar imagens">
 <!ENTITY allowContextmenuDisable.label   "Desativar ou substituir menus de contexto">
-<!ENTITY allowHideStatusBar.label        "Ocultar a barra de estado">
+<!ENTITY allowHideStatusBar.label        "Ocultar barra de estado">
 
-<!ENTITY enablePlugins.label              "Ativar plugins para">
+<!ENTITY enablePlugins.label             "Ativar plugins para">
 <!ENTITY enablePluginForSuite.label      "Suite">
 <!ENTITY enablePluginForSuite.accesskey  "u">
 

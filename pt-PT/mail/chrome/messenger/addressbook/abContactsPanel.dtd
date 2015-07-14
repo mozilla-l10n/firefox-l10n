@@ -1,24 +1,27 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY addressbookPicker.label 			    "Livro de endereços:">
-<!ENTITY addressbookPicker.accesskey 		  "ç">
-<!ENTITY searchInput.label 					      "Procurar por:">
-<!ENTITY searchInput.accesskey 				    "o">
-<!ENTITY SearchNameOrEmail.label 			    "Nome ou correio eletrónico">
-<!ENTITY deleteAddrBookCard.label 			  "Eliminar">
-<!ENTITY deleteAddrBookCard.accesskey     "E">
-<!ENTITY addrBookCardProperties.label 	  "Propriedades">
-<!ENTITY addrBookCardProperties.accesskey "P">
-<!ENTITY addtoToFieldMenu.label 			    "Adicionar ao campo Para ">
-<!ENTITY addtoToFieldMenu.accesskey       "A">
-<!ENTITY addtoCcFieldMenu.label 			    "Adicionar ao campo Cc ">
-<!ENTITY addtoCcFieldMenu.accesskey       "C">
-<!ENTITY addtoBccFieldMenu.label 			    "Adicionar ao campo Bcc ">
-<!ENTITY addtoBccFieldMenu.accesskey      "B">
-<!ENTITY toButton.label 					        "Adicionar a Para:">
-<!ENTITY toButton.accesskey 				      "A">
-<!ENTITY ccButton.label 					        "Adicionar a Cc:">
-<!ENTITY ccButton.accesskey 				      "C">
-<!ENTITY bccButton.label 					        "Adicionar a Bcc:">
-<!ENTITY bccButton.accesskey 				      "B">
+
+<!ENTITY addressbookPicker.label            "Livro de endereços:">
+<!ENTITY addressbookPicker.accesskey        "d">
+<!ENTITY searchInput.label                  "Pesquisar por:">
+<!ENTITY searchInput.accesskey              "o">
+<!ENTITY SearchNameOrEmail.label            "Nome ou e-mail">
+
+<!ENTITY deleteAddrBookCard.label           "Eliminar">
+<!ENTITY deleteAddrBookCard.accesskey       "E">
+<!ENTITY addrBookCardProperties.label       "Propriedades">
+<!ENTITY addrBookCardProperties.accesskey   "P">
+<!ENTITY addtoToFieldMenu.label             "Adicionar ao campo Para ">
+<!ENTITY addtoToFieldMenu.accesskey         "A">
+<!ENTITY addtoCcFieldMenu.label             "Adicionar ao campo Cc">
+<!ENTITY addtoCcFieldMenu.accesskey         "C">
+<!ENTITY addtoBccFieldMenu.label            "Adicionar ao campo Bcc">
+<!ENTITY addtoBccFieldMenu.accesskey        "B">
+
+<!ENTITY toButton.label                     "Adicionar a Para:">
+<!ENTITY toButton.accesskey                 "A">
+<!ENTITY ccButton.label                     "Adicionar a Cc:">
+<!ENTITY ccButton.accesskey                 "C">
+<!ENTITY bccButton.label                    "Adicionar a Bcc:">
+<!ENTITY bccButton.accesskey                "B">

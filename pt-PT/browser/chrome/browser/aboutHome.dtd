@@ -6,23 +6,23 @@
 %brandDTD;
 <!ENTITY % syncBrandDTD SYSTEM "chrome://browser/locale/syncBrand.dtd">
 %syncBrandDTD;
-
 <!-- These strings are used in the about:home page -->
+
 
 <!ENTITY abouthome.pageTitle "Página inicial do &brandFullName;">
 
 <!ENTITY abouthome.searchEngineButton.label "Pesquisar">
-
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
-<!ENTITY abouthome.defaultSnippet1.v1 "Obrigado por escolher o Firefox! Para tirar o máximo do seu navegador, saiba mais sobre as <a>novas funcionalidades</a>.">
+
+<!ENTITY abouthome.defaultSnippet1.v1 "Obrigado por escolher o Firefox! Para tirar o máximo partido do seu navegador, saiba mais acerca das <a>novas funcionalidades</a>.">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
-<!ENTITY abouthome.defaultSnippet2.v1 "É fácil personalizar o Firefox da maneira que quer. <a>Escolha a partir de centenas de extras</a>.">
+<!ENTITY abouthome.defaultSnippet2.v1 "É fácil personalizar o Firefox. <a>Escolha de entre centenas de extras</a>.">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
-<!ENTITY abouthome.rightsSnippet "O &brandFullName; é um software gratuito e de código aberto da fundação sem fins lucrativos Mozilla. <a>Conheça os seus direitos…</a>">
+<!ENTITY abouthome.rightsSnippet "O &brandFullName; é uma aplicação gratuita e open source da Mazilla Foundation. <a>Conheça os seus direitos…</a>">
 
 <!ENTITY abouthome.bookmarksButton.label "Marcadores">
 <!ENTITY abouthome.historyButton.label   "Histórico">
@@ -33,6 +33,9 @@
      preferences/options item on about:home on Linux and OS X -->
 <!ENTITY abouthome.preferencesButtonUnix.label  "Preferências">
 <!ENTITY abouthome.addonsButton.label    "Extras">
-<!ENTITY abouthome.appsButton.label      "Marketplace">
-<!ENTITY abouthome.downloadsButton.label "Transferências">
+<!-- LOCALIZATION NOTE (abouthome.appsButton2.label): This string should be consistent with
+     the Apps menu item in the Tools menu (webapps.label in browser.dtd) and the Apps toolbar button in
+     Firefox's customization palette (web-apps-button.label in customizableWidgets.properties) -->
+<!ENTITY abouthome.appsButton2.label     "Aplicações">
+<!ENTITY abouthome.downloadsButton.label "Descargas">
 <!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">

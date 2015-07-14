@@ -1,17 +1,17 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!--LOCALIZATION NOTE : FILE The Appearance prefs dialog.  -->
 
-<!ENTITY pref.appearance.title "Appearance">
+
+<!ENTITY pref.appearance.title "Aparência">
 <!--LOCALIZATION NOTE (onStartLegend.label): Don't translate "&brandShortName;".
     Place &brandShortName; in the phrase where the name of the application should appear
 -->
-<!ENTITY onStartLegend.label                    "Quando o &brandShortName; inicia, abrir">
+<!ENTITY onStartLegend.label                    "Ao iniciar o &brandShortName;, abrir">
 <!ENTITY navCheck.label                         "Navegador">
 <!ENTITY navCheck.accesskey                     "N">
-<!ENTITY showToolsLegend.label                  "Mostrar barras de ferramentas com">
+<!ENTITY showToolsLegend.label                  "Mostrar barras de ferramentas como">
 <!ENTITY picsNtextRadio.label                   "Imagens e texto">
 <!ENTITY picsNtextRadio.accesskey               "I">
 <!ENTITY picsOnlyRadio.label                    "Apenas imagens">
@@ -22,7 +22,7 @@
 <!ENTITY showHideTooltips.accesskey             "t">
 
 <!ENTITY pref.locales.title                     "Idioma do interface de utilizador">
-<!ENTITY selectLocale.label                     "Seleccione o idioma para o texto que aparece nas caixas de diálogo, menus, barras de ferramentas e nomes de botões:">
+<!ENTITY selectLocale.label                     "Selecione o idioma para o texto que aparece nas caixas de diálogo, menus, barras de ferramentas e nomes de botões:">
 <!--LOCALIZATION NOTE (restartOnLangChange.label): Don't translate "&brandShortName;".
     Place &brandShortName; in the phrase where the name of the application should appear
 -->

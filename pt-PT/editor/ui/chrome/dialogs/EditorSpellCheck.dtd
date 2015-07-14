@@ -1,9 +1,10 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Window title -->
+
 <!ENTITY windowTitle.label "Verificar ortografia">
+
 <!ENTITY misspelledWord.label "Palavra errada:">
 <!ENTITY wordEditField.label "Substituir por:">
 <!ENTITY wordEditField.accessKey "S">
@@ -22,10 +23,10 @@
 <!ENTITY stopButton.label "Parar">
 <!ENTITY stopButton.accessKey "a">
 <!ENTITY userDictionary.label "Dicionário pessoal:">
-<!ENTITY moreDictionaries.label "Transferir mais dicionários...">
+<!ENTITY moreDictionaries.label "Descarregar mais dicionários…">
 <!ENTITY addToUserDictionaryButton.label "Adicionar palavra">
 <!ENTITY addToUserDictionaryButton.accessKey "d">
-<!ENTITY editUserDictionaryButton.label "Editar...">
+<!ENTITY editUserDictionaryButton.label "Editar…">
 <!ENTITY editUserDictionaryButton.accessKey "E">
 <!ENTITY recheckButton.label "Verificar novamente">
 <!ENTITY recheckButton.accessKey "V">

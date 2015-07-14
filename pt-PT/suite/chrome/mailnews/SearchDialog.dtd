@@ -1,13 +1,13 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- for SearchDialog.xul -->
+
 <!ENTITY searchHeading.label         "Procurar mensagens em:">
 <!ENTITY searchHeading.accesskey     "r">
-<!ENTITY searchSubfolders.label      "Procurar em Sub-pastas">
-<!ENTITY searchSubfolders.accesskey  "o">
-<!ENTITY searchOnHeading.label       "Efetuar operações de pesquisa em:">
+<!ENTITY searchSubfolders.label      "Pesquisar subpastas">
+<!ENTITY searchSubfolders.accesskey  "u">
+<!ENTITY searchOnHeading.label       "Pesquisar em:">
 <!ENTITY searchOnHeading.accesskey   "P">
 <!ENTITY searchOnRemote.label        "Servidor remoto">
 <!ENTITY searchOnLocal.label         "Sistema local">
@@ -17,23 +17,22 @@
 <!ENTITY openButton.accesskey        "A">
 <!ENTITY deleteButton.label          "Eliminar">
 <!ENTITY deleteButton.accesskey      "E">
-<!ENTITY searchDialogTitle.label     "Procurar Mensagens">
+<!ENTITY searchDialogTitle.label     "Pesquisar mensagens">
 <!ENTITY results.label               "Resultados">
-<!ENTITY moveHereMenu.label "Mover aqui">
-<!ENTITY moveHereMenu.accesskey "u">
-<!ENTITY moveButton.label "Mover para">
-<!ENTITY moveButton.accesskey "v">
+<!ENTITY moveHereMenu.label          "Mover aqui">
+<!ENTITY moveHereMenu.accesskey      "u">
+<!ENTITY moveButton.label            "Mover para">
+<!ENTITY moveButton.accesskey        "v">
 <!ENTITY goToFolderButton.label      "Abrir Pasta das Mensagens">
 <!ENTITY goToFolderButton.accesskey  "b">
-<!ENTITY saveAsVFButton.label        "Guardar como pasta de Procura">
+<!ENTITY saveAsVFButton.label        "Guardar como pasta de pesquisa">
 <!ENTITY saveAsVFButton.accesskey    "c">
-
 <!-- for ABSearchDialog.xul -->
+
 <!ENTITY abSearchHeading.label       "Procurar em:">
 <!ENTITY abSearchHeading.accesskey   "u">
 <!ENTITY propertiesButton.label      "Propriedades">
 <!ENTITY propertiesButton.accesskey  "P">
 <!ENTITY composeButton.label         "Escrever">
 <!ENTITY composeButton.accesskey     "s">
-<!ENTITY abSearchDialogTitle.label   "Pesquisa Avançada do Livro de Endereços">
-
+<!ENTITY abSearchDialogTitle.label   "Pesquisa avançada do livro de endereços">

@@ -10,10 +10,10 @@
 <!ENTITY select.cookies.label "Apenas cookies">
 <!ENTITY select.permissions.label "Apenas permissões">
 <!ENTITY select.preferences.label "Apenas preferências">
-<!ENTITY select.passwords.label "Apenas senhas">
+<!ENTITY select.passwords.label "Apenas palavras-passe">
 <!ENTITY select.storage.label "Apenas armazenamento">
 
-<!ENTITY domain.search.placeholder "Pesquisar domínios">
+<!ENTITY domain.search.placeholder "Domínios de pesquisa">
 <!ENTITY domain.search.key "q">
 
 <!ENTITY domain.tree.domain.label "Domínio">
@@ -28,23 +28,23 @@
 <!ENTITY tab.cookies.label "Cookies">
 <!ENTITY tab.permissions.label "Permissões">
 <!ENTITY tab.preferences.label "Preferências">
-<!ENTITY tab.passwords.label "Senhass">
+<!ENTITY tab.passwords.label "Palavras-passe">
 <!ENTITY tab.storage.label "Armazenamento">
 <!ENTITY tab.formdata.label "Formulário de dados">
 <!ENTITY tab.forget.label "Esquecer">
-
 <!-- cookies -->
+
 <!ENTITY cookies.description "Este domínio guardou os seguintes cookies no seu computador:">
 
 <!ENTITY cookies.tree.host.label "Sítio web">
 <!ENTITY cookies.tree.name.label "Nome do cookie">
 <!ENTITY cookies.tree.expires.label "Expira em">
 
-<!ENTITY cookies.infobox.label "Informação sobre o cookie seleccionado">
+<!ENTITY cookies.infobox.label "Detalhes do cookie selecionado">
 
 <!ENTITY cookies.info.name.label "Nome:">
 <!ENTITY cookies.info.value.label "Conteúdo:">
-<!ENTITY cookies.info.host.label "Anfitrião:">
+<!ENTITY cookies.info.host.label "Servidor:">
 <!ENTITY cookies.info.domain.label "Domínio:">
 <!ENTITY cookies.info.path.label "Caminho:">
 <!ENTITY cookies.info.sendtype.label "Enviar para:">
@@ -52,7 +52,7 @@
 
 <!ENTITY cookies.ctx.remove.label "Remover">
 <!ENTITY cookies.ctx.remove.accesskey "R">
-<!ENTITY cookies.ctx.selectAll.label "Seleccionar tudo">
+<!ENTITY cookies.ctx.selectAll.label "Selecionar tudo">
 <!ENTITY cookies.ctx.selectAll.accesskey "a">
 
 <!ENTITY cookies.button.remove.label "Remover">
@@ -60,9 +60,9 @@
 
 <!ENTITY cookies.blockOnRemove.label "Ao remover, bloquear os sítios web listados de instalar cookies no futuro">
 <!ENTITY cookies.blockOnRemove.accesskey "o">
-
 <!-- permissions -->
-<!ENTITY perm.UseDefault "Usar pré-definição">
+
+<!ENTITY perm.UseDefault "Utilizar predefinições">
 <!ENTITY perm.AskAlways "Perguntar sempre">
 <!ENTITY perm.NeverSave "Nunca guardar">
 <!ENTITY perm.Allow "Permitir">
@@ -70,12 +70,12 @@
 <!ENTITY perm.AllowSession "Permitir para a sessão">
 <!ENTITY perm.Block "Bloquear">
 
-<!ENTITY perm.host.placeholder "Escreva o nome do servidor">
+<!ENTITY perm.host.placeholder "Introduza o nome do servidor">
 <!ENTITY perm.button.add.label "Adicionar">
 <!ENTITY perm.button.add.accesskey "A">
-
 <!-- preferences -->
-<!ENTITY prefs.description "As preferências de conteúdo são uma maneira do &brandShortName; guardar as suas definições, como os níveis de zoom, para um determinado sítio web.">
+
+<!ENTITY prefs.description "As preferências de conteúdo são uma forma do &brandShortName; guardar as suas definições, como os níveis de ampliação, para um determinado sítio web.">
 
 <!ENTITY prefs.tree.host.label "Sítio web">
 <!ENTITY prefs.tree.name.label "Nome da preferência">
@@ -83,31 +83,31 @@
 
 <!ENTITY prefs.ctx.remove.label "Remover">
 <!ENTITY prefs.ctx.remove.accesskey "R">
-<!ENTITY prefs.ctx.selectAll.label "Seleccionar tudo">
+<!ENTITY prefs.ctx.selectAll.label "Selecionar tudo">
 <!ENTITY prefs.ctx.selectAll.accesskey "a">
 
 <!ENTITY prefs.button.remove.label "Remover">
 <!ENTITY prefs.button.remove.accesskey "R">
-
 <!-- passwords -->
-<!ENTITY pwd.description "Tem as seguintes senhas guardadas para este domínio:">
+
+<!ENTITY pwd.description "Tem as seguintes palavras-passe guardadas para este domínio:">
 
 <!ENTITY pwd.tree.host.label "Sítio web">
 <!ENTITY pwd.tree.username.label "Nome de utilizador">
-<!ENTITY pwd.tree.password.label "Senha">
+<!ENTITY pwd.tree.password.label "Palavra-passe">
 
 <!ENTITY pwd.ctx.remove.label "Remover">
 <!ENTITY pwd.ctx.remove.accesskey "R">
-<!ENTITY pwd.ctx.copyPasswordCmd.label "Copiar senha">
+<!ENTITY pwd.ctx.copyPasswordCmd.label "Copiar palavra-passe">
 <!ENTITY pwd.ctx.copyPasswordCmd.accesskey "C">
-<!ENTITY pwd.ctx.selectAll.label "Seleccionar tudo">
+<!ENTITY pwd.ctx.selectAll.label "Selecionar tudo">
 <!ENTITY pwd.ctx.selectAll.accesskey "a">
 
-<!ENTITY pwd.button.remove.label "Remove">
-<!ENTITY pwd.button.remove.accesskey "r">
-
+<!ENTITY pwd.button.remove.label "Remover">
+<!ENTITY pwd.button.remove.accesskey "R">
 <!-- storage -->
-<!ENTITY storage.description "This domain uses the following web storages on your computer:">
+
+<!ENTITY storage.description "Este domínio utiliza os seguintes armazenamentos web no seu computador:">
 
 <!ENTITY storage.tree.host.label "Sítio web">
 <!ENTITY storage.tree.type.label "Tipo">
@@ -120,25 +120,25 @@
 
 <!ENTITY storage.button.remove.label "Remover">
 <!ENTITY storage.button.remove.accesskey "R">
-
 <!-- form data -->
+
 <!ENTITY fdata.search.placeholder "Pesquisar o campo de dados">
 
 <!ENTITY fdata.tree.fieldname.label "Nome do campo">
 <!ENTITY fdata.tree.value.label "Valor introduzido">
-<!ENTITY fdata.tree.usecount.label "Usar contador">
-<!ENTITY fdata.tree.firstused.label "Primeiro usado">
-<!ENTITY fdata.tree.lastused.label "Último usado">
+<!ENTITY fdata.tree.usecount.label "Contagem">
+<!ENTITY fdata.tree.firstused.label "Primeira utilização">
+<!ENTITY fdata.tree.lastused.label "Última utilização">
 
 <!ENTITY fdata.ctx.remove.label "Remover">
 <!ENTITY fdata.ctx.remove.accesskey "R">
-<!ENTITY fdata.ctx.selectAll.label "Seleccionar tudo">
+<!ENTITY fdata.ctx.selectAll.label "Selecionar tudo">
 <!ENTITY fdata.ctx.selectAll.accesskey "a">
 
 <!ENTITY fdata.button.remove.label "Remover">
 <!ENTITY fdata.button.remove.accesskey "R">
-
 <!-- forget -->
+
 <!ENTITY forget.cookies.label "Cookies">
 <!ENTITY forget.cookies.accesskey "C">
 <!ENTITY forget.permissions.label "Permissões">

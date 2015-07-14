@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pref.viewing.messages.title      "Apresentação da mensagem">
+<!ENTITY pref.viewing.messages.title      "Exibição de mensagem">
 <!ENTITY style.label                      "Estilo:">
 <!ENTITY style.accesskey                  "s">
 <!ENTITY regular.label                    "Regular">
@@ -22,7 +22,7 @@
 <!ENTITY wrapInMsg.label                  "Cortar texto para caber na largura da janela">
 <!ENTITY wrapInMsg.accesskey              "x">
 <!-- LOCALIZATION NOTE : (convertEmoticons.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
-<!ENTITY convertEmoticons.label           "Mostrar ícones expressivos como gráficos">
+<!ENTITY convertEmoticons.label           "Mostrar ícones emotivos como gráficos">
 <!ENTITY convertEmoticons.accesskey       "o">
 <!ENTITY generalMessageDisplay.caption    "Geral">
 <!ENTITY autoMarkAsRead.label             "Marcar mensagens como lidas automaticamente">
@@ -34,14 +34,14 @@
 <!ENTITY markAsReadAfter.accesskey        "t">
 <!ENTITY secondsLabel.label               "segundos">
 
-<!ENTITY openingMessages.label            "Ao abrir mensagens apresentar as mesmas em:">
+<!ENTITY openingMessages.label            "Ao abrir as mensagens, mostrar em:">
 <!ENTITY newWindowRadio.label             "Uma nova janela">
 <!ENTITY newWindowRadio.accesskey         "n">
 <!ENTITY existingWindowRadio.label        "Uma janela existente">
 <!ENTITY existingWindowRadio.accesskey    "e">
 <!ENTITY disableContent.label             "Bloquear imagens e outros conteúdos de fontes remotas">
 <!ENTITY disableContent.accesskey         "B">
-<!ENTITY showCondensedAddresses.label     "Apresentar apenas os nomes para pessoas da minha lista de contactos">
+<!ENTITY showCondensedAddresses.label     "Mostrar apenas os nomes para pessoas do meu livro de endereços">
 <!ENTITY showCondensedAddresses.accesskey "o">
-<!ENTITY closeMsgWindowOnDelete.label     "Fechar a janela de mensagem ao apagar a mensagem">
-<!ENTITY closeMsgWindowOnDelete.accesskey "h">
+<!ENTITY closeMsgWindowOnDelete.label     "Fechar janela de mensagem ao eliminar a mensagem">
+<!ENTITY closeMsgWindowOnDelete.accesskey "l">

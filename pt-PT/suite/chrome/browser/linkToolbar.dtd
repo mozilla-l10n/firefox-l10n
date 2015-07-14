@@ -1,21 +1,21 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Link Toolbar Title -->
+
 <!ENTITY linkToolbar.label "Barra de navegação do sítio">
 <!ENTITY linkToolbar.accesskey "a">
 <!ENTITY linkToolbar.tooltip "Barra de navegação do sítio">
-
 <!-- Link Toolbar visibility options -->
+
 <!ENTITY linkToolbarAlways.label "Mostrar sempre">
 <!ENTITY linkToolbarAlways.accesskey "s">
-<!ENTITY linkToolbarAsNeeded.label "Mostrar apenas quando necessário">
-<!ENTITY linkToolbarAsNeeded.accesskey "M">
+<!ENTITY linkToolbarAsNeeded.label "Mostrar apenas se necessário">
+<!ENTITY linkToolbarAsNeeded.accesskey "o">
 <!ENTITY linkToolbarNever.label "Ocultar sempre">
 <!ENTITY linkToolbarNever.accesskey "O">
-
 <!-- Toolbar buttons, menus, and menuitems -->
+
 <!ENTITY topButton.label "Topo">
 <!ENTITY upButton.label "Cima">
 <!ENTITY firstButton.label "Primeiro">

@@ -1,20 +1,20 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
-- License, v. 2.0. If a copy of the MPL was not distributed with this
-- file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY progress.title                  "Transferência em curso…">
+<!ENTITY progress.title                  "A descarregar…">
 <!ENTITY closeWindow.key                 "f">
 <!ENTITY cmd.pause.tooltip               "Pausa">
-<!ENTITY cmd.resume.tooltip              "Resumir">
+<!ENTITY cmd.resume.tooltip              "Retomar">
 <!ENTITY cmd.retry.tooltip               "Tentar novamente">
 <!ENTITY cmd.cancel.tooltip              "Cancelar">
 <!ENTITY cmd.open.label                  "Abrir">
 <!ENTITY cmd.open.accesskey              "A">
-<!ENTITY cmd.show.label                  "Abrir a pasta respectiva">
+<!ENTITY cmd.show.label                  "Abrir a pasta respetiva">
 <!ENTITY cmd.show.accesskey              "b">
-<!ENTITY cmd.goToDownloadPage.label      "Ir para a página de transferências">
+<!ENTITY cmd.goToDownloadPage.label      "Ir para a página de descarga">
 <!ENTITY cmd.goToDownloadPage.accesskey  "r">
-<!ENTITY cmd.copyDownloadLink.label      "Copiar ligação da transferência">
+<!ENTITY cmd.copyDownloadLink.label      "Copiar ligação da descarga">
 <!ENTITY cmd.copyDownloadLink.accesskey  "l">
-<!ENTITY closeWhenDone.label             "Fechar esta janela quando a transferência terminar.">
+<!ENTITY closeWhenDone.label             "Fechar esta janela ao terminar de descarregar.">
 <!ENTITY closeWhenDone.accesskey         "F">

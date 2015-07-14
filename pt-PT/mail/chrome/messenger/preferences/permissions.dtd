@@ -4,6 +4,7 @@
 
 <!ENTITY window.title                 "Exceções">
 <!ENTITY window.width                 "36em">
+
 <!ENTITY treehead.sitename.label      "Sítio">
 <!ENTITY treehead.status.label        "Estado">
 <!ENTITY removepermission.label       "Remover sítio">
@@ -19,5 +20,7 @@
 <!ENTITY allow.label                  "Permitir">
 <!ENTITY allow.accesskey              "i">
 <!ENTITY windowClose.key              "w">
+
 <!ENTITY button.close.label           "Fechar">
 <!ENTITY button.close.accesskey       "c">
+

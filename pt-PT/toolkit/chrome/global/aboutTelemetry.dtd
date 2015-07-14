@@ -4,82 +4,68 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Dados de telemetria">
 
-<!ENTITY aboutTelemetry.telemetryEnabled "
-  A telemetria está <span>ativada</span>.
-">
+<!ENTITY aboutTelemetry.changeDataChoices "Alterar">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "
-  A telemetria está <span>desativada</span>.
-">
+<!ENTITY aboutTelemetry.uploadEnabled "  O envio de dados FHR está <span>ativado</span>.">
 
-<!ENTITY aboutTelemetry.generalDataSection "
-  Dados gerais
-">
+<!ENTITY aboutTelemetry.uploadDisabled "  O envio de dados FHR está <span>desativado</span>.">
 
-<!ENTITY aboutTelemetry.telemetryLogSection "
-  Registo de telemetria
-">
+<!ENTITY aboutTelemetry.extendedRecordingEnabled "  A gravação estendida de telemetria está <span>ativada</span>.">
 
-<!ENTITY aboutTelemetry.slowSqlSection "
-  Instruções de SQL lentas
-">
+<!ENTITY aboutTelemetry.extendedRecordingDisabled "  A gravação estendida de telemetria está <span>desativada</span>.">
 
-<!ENTITY aboutTelemetry.chromeHangsSection "
-  O navegador bloqueia
-">
+<!ENTITY aboutTelemetry.pingDataSource "Fonte dos dados do ping:">
 
-<!ENTITY aboutTelemetry.threadHangStatsSection "
-  Tópico bloqueia
-">
+<!ENTITY aboutTelemetry.showCurrentPingData "Dados ping atuais">
 
-<!ENTITY aboutTelemetry.histogramsSection "
-  Histogramas
-">
+<!ENTITY aboutTelemetry.showArchivedPingData "Dados ping arquivados">
 
-<!ENTITY aboutTelemetry.keyedHistogramsSection "
-  Histogramas teclados
-">
+<!ENTITY aboutTelemetry.showSubsessionData "Mostrar dados de sub-sessão">
 
-<!ENTITY aboutTelemetry.simpleMeasurementsSection "
-  Medições simples
-">
+<!ENTITY aboutTelemetry.choosePing "Escolha o ping:">
 
-<!ENTITY aboutTelemetry.addonDetailsSection "
-  Detalhes do extra
-">
+<!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; Ping recente">
 
-<!ENTITY aboutTelemetry.lateWritesSection "
-  Escritas atrasadas
-">
+<!ENTITY aboutTelemetry.showOlderPing "Ping antigo &gt;&gt;">
 
-<!ENTITY aboutTelemetry.systemInfoSection "
-  Informações do sistema
-">
+<!ENTITY aboutTelemetry.archiveWeekHeader "Fraco">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "
-  Histogramas obtidos por extras
-">
+<!ENTITY aboutTelemetry.archivePingHeader "Ping">
 
-<!ENTITY aboutTelemetry.toggle "
-  Clique para expandir a secção
-">
+<!ENTITY aboutTelemetry.generalDataSection "  Dados gerais">
 
-<!ENTITY aboutTelemetry.emptySection "
-  (Nenhuns dados obtidos)
-">
+<!ENTITY aboutTelemetry.environmentDataSection "Dados do ambiente">
 
-<!ENTITY aboutTelemetry.fullSqlWarning "
-  NOTA: a depuração de SQL lento está ativa. As linhas SQL completas poderão ser mostradas abaixo mas não serão submetidas à telemetria.
-">
+<!ENTITY aboutTelemetry.telemetryLogSection "  Registo de telemetria">
 
-<!ENTITY aboutTelemetry.fetchSymbols "
-  Obter nome das funções para conjuntos de bloqueios
-">
+<!ENTITY aboutTelemetry.slowSqlSection "  Instruções de SQL lentas">
 
-<!ENTITY aboutTelemetry.hideSymbols "
-  Mostrar dados em bruto dos bloqueios
-">
+<!ENTITY aboutTelemetry.chromeHangsSection "  O navegador bloqueia">
 
-<!ENTITY aboutTelemetry.filterText "
-  Filtro (strings ou /regexp/)
-">
+<!ENTITY aboutTelemetry.threadHangStatsSection "  Tópico bloqueia">
+
+<!ENTITY aboutTelemetry.histogramsSection "  Histogramas">
+
+<!ENTITY aboutTelemetry.keyedHistogramsSection "  Histogramas teclados">
+
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "  Medições simples">
+
+<!ENTITY aboutTelemetry.addonDetailsSection "  Detalhes do extra">
+
+<!ENTITY aboutTelemetry.lateWritesSection "  Escritas atrasadas">
+
+<!ENTITY aboutTelemetry.systemInfoSection "  Informações do sistema">
+
+<!ENTITY aboutTelemetry.addonHistogramsSection "  Histogramas obtidos por extras">
+
+<!ENTITY aboutTelemetry.toggle "  Clique para expandir a secção">
+
+<!ENTITY aboutTelemetry.emptySection "  (Nenhuns dados obtidos)">
+
+<!ENTITY aboutTelemetry.fullSqlWarning " NOTA: a depuração de SQL lento está ativa. As linhas SQL completas poderão ser mostradas abaixo mas não serão submetidas à telemetria.">
+
+<!ENTITY aboutTelemetry.fetchSymbols "  Obter nome das funções para conjuntos de bloqueios">
+
+<!ENTITY aboutTelemetry.hideSymbols "  Mostrar dados em bruto dos bloqueios">
+
+<!ENTITY aboutTelemetry.filterText "  Filtro (strings ou /regexp/)">

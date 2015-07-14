@@ -1,27 +1,27 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from content/pref-offline.xul -->
-
 <!--LOCALIZATION NOTE : FILE The 'Offline' preferences dialog -->
+
+
 <!ENTITY pref.network.title               "Rede e armazenamento">
-<!ENTITY pref.offline.caption             "Desligado">
+<!ENTITY pref.offline.caption             "Offline">
 <!ENTITY textStartUp                      "Ao iniciar:">
 <!ENTITY textStartUp.accesskey            "o">
-<!ENTITY menuitemRememberPrevState        "Lembrar o estado anterior">
+<!ENTITY menuitemRememberPrevState        "Memorizar estado anterior">
 <!ENTITY menuitemAskMe                    "Perguntar-me pelo estado ao iniciar">
-<!ENTITY menuitemAlwaysOnline             "Iniciar sempre ligado">
-<!ENTITY menuitemAlwaysOffline            "Iniciar sempre desligado">
+<!ENTITY menuitemAlwaysOnline             "Iniciar sempre no modo online">
+<!ENTITY menuitemAlwaysOffline            "Iniciar sempre no modo offline">
 <!ENTITY menuitemAutomatic                "Detetar automaticamente (se disponível)">
-<!ENTITY textGoingOnline                  "Enviar mensagens não enviadas quando ficar ligado?">
+<!ENTITY textGoingOnline                  "Enviar mensagens não enviadas ao ficar online?">
 <!ENTITY radioAutoSend                    "Sim">
 <!ENTITY radioAutoSend.accesskey          "S">
 <!ENTITY radioNotSend                     "Não">
 <!ENTITY radioNotSend.accesskey           "N">
 <!ENTITY radioAskUnsent                   "Perguntar-me">
 <!ENTITY radioAskUnsent.accesskey         "P">
-<!ENTITY textGoingOffline                 "Transferir mensagens para uso quando no modo desligado?">
+<!ENTITY textGoingOffline                 "Descarregar mensagens para utilização no modo offline?">
 <!ENTITY radioAutoDownload                "Sim">
 <!ENTITY radioAutoDownload.accesskey      "i">
 <!ENTITY radioNotDownload                 "Não">
@@ -33,6 +33,6 @@
 <!ENTITY mailnewsTimeout.accesskey        "m">
 <!ENTITY mailnewsTimeoutSeconds.label     "segundos">
 <!ENTITY Diskspace                        "Espaço em Disco">
-<!ENTITY offlineCompactFolders.label      "Compactar todas as pastas quando poupar mais de">
+<!ENTITY offlineCompactFolders.label      "Compactar todas as pastas se puder poupar mais de">
 <!ENTITY offlineCompactFolders.accesskey  "C">
 <!ENTITY offlineCompactFoldersMB.label    "total em MB">

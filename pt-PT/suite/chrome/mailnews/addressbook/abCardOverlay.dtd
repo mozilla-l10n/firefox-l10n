@@ -2,10 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY Contact.tab                     "Contacto"> 
+<!ENTITY Contact.tab                     "Contacto">
 <!ENTITY Contact.accesskey               "C">
-<!ENTITY Name.box                        "Nome"> 
-
+<!ENTITY Name.box                        "Nome">
 <!-- LOCALIZATION NOTE:
  NameField1, NameField2, PhoneticField1, PhoneticField2
  those fields are either LN or FN depends on the target country.
@@ -13,8 +12,9 @@
  but they should not be translated (same applied to phonetic id).
  Make sure the translation of label corresponds to the order of id.
 -->
-
 <!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
+
+
 <!ENTITY NameField1.id                  "FirstName">
 <!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
 <!ENTITY NameField2.id                  "LastName">
@@ -31,15 +31,15 @@
 <!ENTITY PhoneticField2.label           "Fonético:">
 <!ENTITY DisplayName.label              "Mostrar:">
 <!ENTITY DisplayName.accesskey          "r">
-<!ENTITY preferDisplayName.label        "Preferir sempre mostrar o nome acima do cabeçalho da mensagem">
-<!ENTITY preferDisplayName.accesskey    "ç">
+<!ENTITY preferDisplayName.label        "Utilizar nome de exibição acima do cabeçalho da mensagem">
+<!ENTITY preferDisplayName.accesskey    "a">
 <!ENTITY NickName.label                 "Alcunha:">
 <!ENTITY NickName.accesskey             "u">
 
-<!ENTITY PrimaryEmail.label             "Correio eletrónico:">
+<!ENTITY PrimaryEmail.label             "E-mail:">
 <!ENTITY PrimaryEmail.accesskey         "E">
-<!ENTITY SecondEmail.label              "Correio eletrónico alternativo:">
-<!ENTITY SecondEmail.accesskey          "n">
+<!ENTITY SecondEmail.label              "E-mail alternativo:">
+<!ENTITY SecondEmail.accesskey          "i">
 <!ENTITY PreferMailFormat.label         "Prefere receber mensagens formatadas como:">
 <!ENTITY PreferMailFormat.accesskey     "a">
 <!ENTITY PlainText.label                "Texto Simples">
@@ -47,14 +47,6 @@
 <!ENTITY Unknown.label                  "Desconhecido">
 <!ENTITY ScreenName.label               "Nome a mostrar:">
 <!ENTITY ScreenName.accesskey           "m">
-
-<!ENTITY allowRemoteContent1.label       "Permitir imagens remotas em mensagens HTML.">
-<!ENTITY allowRemoteContent1.accesskey   "g">
-<!ENTITY allowRemoteContent1.tooltip     "Em mensagens  HTML é possível
-incluir imagens de origens remotas. Abrir assim uma mensagem irá abrir
-uma ligação a uma fonte externa. Isto pode levar a um seguimento da mensagem
-ao ser lida. Ao seleccionar esta caixa irá permitir imagens remotas em
-mensagens HTML deste contacto.">
 
 <!ENTITY WorkPhone.label                "Trabalho:">
 <!ENTITY WorkPhone.accesskey            "T">
@@ -69,19 +61,19 @@ mensagens HTML deste contacto.">
 
 <!ENTITY Home.tab                       "Privado">
 <!ENTITY Home.accesskey                 "P">
-<!ENTITY HomeAddress.label              "Endereço:"> 
+<!ENTITY HomeAddress.label              "Endereço:">
 <!ENTITY HomeAddress.accesskey          "d">
 <!ENTITY HomeAddress2.label             "">
 <!ENTITY HomeAddress2.accesskey         "">
-<!ENTITY HomeCity.label                 "Cidade:"> 
+<!ENTITY HomeCity.label                 "Cidade:">
 <!ENTITY HomeCity.accesskey             "i">
-<!ENTITY HomeState.label                "Estado/Província:"> 
+<!ENTITY HomeState.label                "Estado/Província:">
 <!ENTITY HomeState.accesskey            "s">
-<!ENTITY HomeZipCode.label              "Código postal:"> 
+<!ENTITY HomeZipCode.label              "Código postal:">
 <!ENTITY HomeZipCode.accesskey          "p">
 <!ENTITY HomeCountry.label              "País:">
 <!ENTITY HomeCountry.accesskey          "s">
-<!ENTITY HomeWebPage.label              "Página Web:"> 
+<!ENTITY HomeWebPage.label              "Página Web:">
 <!ENTITY HomeWebPage.accesskey          "W">
 <!ENTITY Birthday.label                 "Aniversário:">
 <!ENTITY Birthday.accesskey             "v">
@@ -91,27 +83,27 @@ mensagens HTML deste contacto.">
 <!ENTITY Age.placeholder                "Idade">
 <!ENTITY YearsOld.label                 "">
 
-<!ENTITY Work.tab                       "Trabalho"> 
+<!ENTITY Work.tab                       "Trabalho">
 <!ENTITY Work.accesskey                 "T">
-<!ENTITY JobTitle.label                 "Título:"> 
+<!ENTITY JobTitle.label                 "Título:">
 <!ENTITY JobTitle.accesskey             "u">
-<!ENTITY Department.label               "Departamento:"> 
+<!ENTITY Department.label               "Departamento:">
 <!ENTITY Department.accesskey           "m">
-<!ENTITY Company.label                  "Organização:"> 
+<!ENTITY Company.label                  "Organização:">
 <!ENTITY Company.accesskey              "O">
-<!ENTITY WorkAddress.label              "Morada:"> 
+<!ENTITY WorkAddress.label              "Morada:">
 <!ENTITY WorkAddress.accesskey          "r">
-<!ENTITY WorkAddress2.label             ""> 
+<!ENTITY WorkAddress2.label             "">
 <!ENTITY WorkAddress2.accesskey         "">
-<!ENTITY WorkCity.label                 "Cidade:"> 
+<!ENTITY WorkCity.label                 "Cidade:">
 <!ENTITY WorkCity.accesskey             "i">
-<!ENTITY WorkState.label                "Estado/Província:"> 
+<!ENTITY WorkState.label                "Estado/Província:">
 <!ENTITY WorkState.accesskey            "v">
-<!ENTITY WorkZipCode.label              "Código postal:"> 
+<!ENTITY WorkZipCode.label              "Código postal:">
 <!ENTITY WorkZipCode.accesskey          "p">
 <!ENTITY WorkCountry.label              "País:">
 <!ENTITY WorkCountry.accesskey          "s">
-<!ENTITY WorkWebPage.label              "Página Web:"> 
+<!ENTITY WorkWebPage.label              "Página Web:">
 <!ENTITY WorkWebPage.accesskey          "b">
 
 <!ENTITY Other.tab                      "Outro">
@@ -139,6 +131,6 @@ mensagens HTML deste contacto.">
 <!ENTITY BrowsePhoto.accesskey          "N">
 <!ENTITY PhotoURL.label                 "Na Web">
 <!ENTITY PhotoURL.accesskey             "b">
-<!ENTITY PhotoURL.placeholder           "Escrever ou colar o endereço web de uma fotografia">
+<!ENTITY PhotoURL.placeholder           "Introduza ou cole o endereço web de uma fotografia">
 <!ENTITY UpdatePhoto.label              "Atualizar">
 <!ENTITY UpdatePhoto.accesskey          "u">

@@ -1,7 +1,6 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 
 <!ENTITY msgComposeWindow.title "Nova mensagem: (sem assunto)">
@@ -12,10 +11,10 @@
 <!ENTITY subject.accesskey "s">
 <!ENTITY attachments.label "Anexos:">
 <!ENTITY attachments.accesskey "x">
-
 <!-- menu items:  the . means that the menu item isn't implemented yet -->
-
 <!-- File menu items -->
+
+
 <!ENTITY saveCmd.label "Guardar">
 <!ENTITY saveCmd.accesskey "G">
 <!ENTITY saveAsCmd.label "Guardar como">
@@ -41,42 +40,42 @@
 <!ENTITY sendLaterCmd.label "Enviar depois">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "d">
-
 <!-- Edit menu items -->
-<!ENTITY editRewrapCmd.label "Rewrap">
-<!ENTITY editRewrapCmd.key "R">
-<!ENTITY editRewrapCmd.accesskey  "w">
-<!ENTITY accountManagerCmd.label "Definições da conta de correio e newsgroups…">
-<!ENTITY accountManagerCmd.accesskey "ç">
 
+<!ENTITY editRewrapCmd.label "Translinear novamente">
+<!ENTITY editRewrapCmd.key "R">
+<!ENTITY editRewrapCmd.accesskey  "n">
+<!ENTITY accountManagerCmd.label "Definições da conta de correio e grupos de notícias...">
+<!ENTITY accountManagerCmd.accesskey "n">
 <!-- View menu items -->
-<!ENTITY showComposeToolbarCmd.label "Barra de ferramentas do correio">
-<!ENTITY showComposeToolbarCmd.accesskey "C">
+
+<!ENTITY showComposeToolbarCmd.label "Barra de correio">
+<!ENTITY showComposeToolbarCmd.accesskey "o">
 <!ENTITY showFormatToolbarCmd.label "Barra de ferramentas de formatação">
 <!ENTITY showFormatToolbarCmd.accesskey "f">
-
 <!-- Format menu items -->
+
 <!ENTITY formatMenu.label "Formatar">
 <!ENTITY formatMenu.accesskey "m">
-
 <!-- Options menu items -->
+
 <!ENTITY optionsMenu.label "Opções">
-<!ENTITY optionsMenu.accesskey "o">
+<!ENTITY optionsMenu.accesskey "O">
 
 <!ENTITY quoteCmd.label "Citar mensagem">
 <!ENTITY quoteCmd.accesskey "C">
-<!ENTITY selectAddressCmd.label "Escolha os endereços...">
+<!ENTITY selectAddressCmd.label "Selecione os endereços…">
 <!ENTITY selectAddressCmd.key "">
 <!ENTITY selectAddressCmd.accesskey "e">
 
 <!ENTITY priorityMenu.label "Prioridade">
-<!ENTITY priorityMenu.accesskey "p">
+<!ENTITY priorityMenu.accesskey "P">
 <!ENTITY lowestPriorityCmd.label "Baixíssima">
 <!ENTITY lowestPriorityCmd.accesskey "x">
 <!ENTITY lowPriorityCmd.label "Baixa">
 <!ENTITY lowPriorityCmd.accesskey "B">
 <!ENTITY normalPriorityCmd.label "Normal">
-<!ENTITY normalPriorityCmd.accesskey "n">
+<!ENTITY normalPriorityCmd.accesskey "N">
 <!ENTITY highPriorityCmd.label "Alta">
 <!ENTITY highPriorityCmd.accesskey "A">
 <!ENTITY highestPriorityCmd.label "Altíssima">
@@ -86,9 +85,10 @@
 <!ENTITY returnReceiptMenu.accesskey "o">
 <!ENTITY dsnMenu.label "Notificação do estado da entrega">
 <!ENTITY dsnMenu.accesskey "N">
+
 <!ENTITY outputFormatMenu.label "Formatação">
 <!ENTITY outputFormatMenu.accesskey  "r">
-<!ENTITY autoFormatCmd.label "Selecionar automaticamente">
+<!ENTITY autoFormatCmd.label "Detetar automaticamente">
 <!ENTITY autoFormatCmd.accesskey "a">
 <!ENTITY plainTextFormatCmd.label "Sem formatação">
 <!ENTITY plainTextFormatCmd.accesskey "e">
@@ -100,18 +100,18 @@
 <!ENTITY fileCarbonCopyCmd.label "Enviar uma cópia para">
 <!ENTITY fileCarbonCopyCmd.accesskey "v">
 <!ENTITY fileHereMenu.label "O ficheiro aqui">
-
 <!--LOCALIZATION NOTE Toolbar items Don't change any "chrome://" URLs -->
 <!-- Toolbar items -->
+
 <!ENTITY sendButton.label "Enviar agora">
 <!ENTITY addressButton.label "Contactos">
 <!ENTITY attachButton.label "Anexar">
 <!ENTITY spellingButton.label "Ortografia">
 <!ENTITY saveButton.label "Guardar">
 <!ENTITY stopButton.label "Parar">
-
 <!--tooltips-->
 <!-- We already inherit &menuBar.tooltip and &mailToolbar.tooltip from messenger.dtd -->
+
 <!ENTITY addressBar.tooltip "Barra de endereço">
 <!ENTITY formatToolbar.tooltip "Barra de ferramentas de formatação">
 <!ENTITY sendButton.tooltip "Enviar esta mensagem agora"> 
@@ -120,8 +120,8 @@
 <!ENTITY attachButton.tooltip "Incluir um anexo"> 
 <!ENTITY saveButton.tooltip "Guardar esta mensagem"> 
 <!ENTITY stopButton.tooltip "Parar a transferência atual"> 
-
 <!-- context menu items -->
+
 <!ENTITY openAttachment.label "Abrir">
 <!ENTITY openAttachment.accesskey "A">
 <!ENTITY renameAttachment.label "Mudar Nome…">

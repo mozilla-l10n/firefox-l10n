@@ -1,29 +1,33 @@
-<!ENTITY serverAdvanced.label "Configurações Avançadas da Conta">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY serverAdvanced.label "Definições avançadas">
 <!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
-<!ENTITY serverDirectory.label "Pasta do servidor IMAP:">
+<!ENTITY serverDirectory.label "IMAP server directory:">
 <!ENTITY serverDirectory.accesskey "d">
 <!ENTITY usingSubscription.label "Mostrar apenas pastas subscritas">
 <!ENTITY usingSubscription.accesskey "r">
 <!ENTITY dualUseFolders.label "O servidor suporta pastas que contenham Sub-pastas e mensagens">
 <!ENTITY dualUseFolders.accesskey "p">
-<!ENTITY useIdle.label "Usar comando IDLE se o servidor o suportar">
+<!ENTITY useIdle.label "Utilizar comando IDLE se o servidor o suportar">
 <!ENTITY useIdle.accesskey "I">
 <!ENTITY maximumConnectionsNumber.label "Número máximo de ligações para a cache">
 <!ENTITY maximumConnectionsNumber.accesskey "m">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
-<!ENTITY namespaceDesc.label "Estas configurações especificam os namespaces on your IMAP server">
-<!ENTITY personalNamespace.label "Namespace Pessoal:">
-<!ENTITY personalNamespace.accesskey "P">
+<!ENTITY namespaceDesc.label "These preferences specify the namespaces on your IMAP server">
+<!ENTITY personalNamespace.label "'Namespace' pessoal:">
+<!ENTITY personalNamespace.accesskey "p">
 <!ENTITY publicNamespace.label "Pública (partilhada):">
 <!ENTITY publicNamespace.accesskey "b">
 <!ENTITY otherUsersNamespace.label "Outros Utilizadores:">
 <!ENTITY otherUsersNamespace.accesskey "O">
-<!ENTITY overrideNamespaces.label "Permitir ao servidor ultrapassar estes namespaces">
+<!ENTITY overrideNamespaces.label "Permitir ao servidor ultrapassar estes 'namespaces'">
 <!ENTITY overrideNamespaces.accesskey "a">
-<!ENTITY pop3Desc.label "Quando transferir correio pop deste servidor, usar a pasta seguinte para novo correio:" >
+<!ENTITY pop3Desc.label "Ao transferir correio POP deste servidor, usar a seguinte pasta para o novo correio:" >
 <!ENTITY accountDirectory.label "Caixa de Entrada para esta conta do Servidor">
 <!ENTITY accountDirectory.accesskey "S">
 <!ENTITY deferToServer.label "Caixa de Entrada para uma conta diferente do servidor">
 <!ENTITY deferToServer.accesskey "d">
-<!ENTITY deferGetNewMail.label "Incluir este servidor na recepção de correio">
+<!ENTITY deferGetNewMail.label "Incluir este servidor na receção de correio">
 <!ENTITY deferGetNewMail.accesskey "I">

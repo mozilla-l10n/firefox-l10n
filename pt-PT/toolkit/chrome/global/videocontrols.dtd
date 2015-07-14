@@ -19,9 +19,9 @@
 <!ENTITY stats.activitySeeking "(a procurar)">
 <!ENTITY stats.volume "Volume">
 <!ENTITY stats.framesParsed "Frames analisadas">
-<!ENTITY stats.framesDecoded "Frames descodificados">
+<!ENTITY stats.framesDecoded "Frames descodificadas">
 <!ENTITY stats.framesPresented "Frames mostradas">
-<!ENTITY stats.framesPainted "Frames desenhadas">
+<!ENTITY stats.framesPainted "Molduras desenhadas">
 
 <!ENTITY error.aborted "O carregamento do vídeo parou.">
 <!ENTITY error.network "Reprodução de vídeo abortada devido a um erro de rede.">
@@ -29,10 +29,10 @@
 <!ENTITY error.srcNotSupported "Formato de vídeo ou tipo MIME não suportado.">
 <!ENTITY error.noSource2 "Nenhum vídeo encontrado com o formato e tipo MIME suportado.">
 <!ENTITY error.generic "Reprodução de vídeo abortada devido a um erro desconhecido.">
-
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
 "6:00:00", result string would be "5:00 of 6:00:00 elapsed".
 -->
+
 <!ENTITY scrubberScale.nameFormat "Reproduzidos #1 de #2">

@@ -1,4 +1,4 @@
-﻿<!-- This Source Code Form is subject to the terms of the Mozilla Public
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
@@ -13,7 +13,7 @@
 <!ENTITY accountColumn.label "Conta">
 <!ENTITY statusColumn.label "Estado">
 <!ENTITY sizeColumn.label "Tamanho">
-<!ENTITY junkStatusColumn.label "Estado do Lixo">
+<!ENTITY junkStatusColumn.label "Estado do lixo eletrónico">
 <!ENTITY unreadColumn.label "Não lidas no tópico">
 <!ENTITY totalColumn.label "Totais no tópico">
 <!ENTITY readColumn.label "Ler">
@@ -21,10 +21,10 @@
 <!ENTITY flagColumn.label "Com Marca">
 <!ENTITY locationColumn.label "Localização">
 <!ENTITY idColumn.label "Por ordem recebido">
-
 <!--Tooltips-->
-<!ENTITY columnChooser2.tooltip "Seleccionar as colunas a mostrar">
-<!ENTITY threadColumn2.tooltip "Mostrar os tópicos da mensagem"> 
+
+<!ENTITY columnChooser2.tooltip "Selecione as colunas a mostrar">
+<!ENTITY threadColumn2.tooltip "Mostrar tópicos da mensagem">
 <!ENTITY fromColumn2.tooltip "Ordenar por de">
 <!ENTITY recipientColumn2.tooltip "Ordenar por destinatário">
 <!ENTITY attachmentColumn2.tooltip "Ordenar por anexos">
@@ -39,7 +39,7 @@
 <!ENTITY unreadColumn2.tooltip "Número de mensagens no lidas neste tópico">
 <!ENTITY totalColumn2.tooltip "Número total de mensagens neste tópico">
 <!ENTITY readColumn2.tooltip "Ordenar por lidas">
-<!ENTITY receivedColumn2.tooltip "Ordenar por data de recepção">
+<!ENTITY receivedColumn2.tooltip "Ordenar por data de receção">
 <!ENTITY flagColumn2.tooltip "Ordenar por marca">
 <!ENTITY locationColumn2.tooltip "Ordenar por localização">
 <!ENTITY idColumn2.tooltip "Ordenar por ordem de chegada">

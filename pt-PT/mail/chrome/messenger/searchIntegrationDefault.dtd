@@ -3,4 +3,5 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE: This is the search engine name for platforms that don't
      support it, and should be left blank -->
+
 <!ENTITY searchIntegration.engineName "">

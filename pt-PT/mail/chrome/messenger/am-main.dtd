@@ -1,16 +1,17 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from am-main.xul -->
-<!ENTITY accountTitle.label "Definições da Conta">
+
+
+<!ENTITY accountTitle.label "Definições da conta">
 <!ENTITY accountName.label "Nome da conta:">
 <!ENTITY accountName.accesskey "N">
 <!ENTITY identityTitle.label "Identidade pré-definida">
 <!ENTITY identityDesc.label "Cada conta tem uma identidade, que é a informação enviada a terceiros leem as suas mensagens.">
 <!ENTITY name.label "O seu nome:">
 <!ENTITY name.accesskey "O">
-<!ENTITY email.label "Endereço eletrónico:">
+<!ENTITY email.label "Endereço de e-mail:">
 <!ENTITY email.accesskey "E">
 <!ENTITY replyTo.label "Endereço de resposta:">
 <!ENTITY replyTo.accesskey "r">
@@ -19,7 +20,7 @@
 <!ENTITY organization.accesskey "O">
 <!ENTITY signatureText.label "Texto da assinatura:">
 <!ENTITY signatureText.accesskey "x">
-<!ENTITY signatureHtml.label "Utilizar HTML (ex:, &lt;b&gt;bold&lt;/b&gt;)">
+<!ENTITY signatureHtml.label "Utilizar HTML (ex:, &lt;b&gt;negrito&lt;/b&gt;)">
 <!ENTITY signatureHtml.accesskey "l">
 <!ENTITY signatureFile.label "Anexar assinatura de um ficheiro (texto, HTML ou imagem):">
 <!ENTITY signatureFile.accesskey "t">
@@ -31,9 +32,11 @@
 <!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
 <!ENTITY attachVCard.label "Anexar o meu vCard à mensagem">
 <!ENTITY attachVCard.accesskey "v">
+
 <!ENTITY manageIdentities.label "Gerir identidades...">
 <!ENTITY manageIdentities.accesskey "i">
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
+
 <!ENTITY smtpName.label "Servidor de envio (SMTP):">
 <!ENTITY smtpName.accesskey "S">
 <!ENTITY smtpDefaultServer.label "Utilizar servidor pré-definido">

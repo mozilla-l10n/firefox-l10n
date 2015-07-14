@@ -20,9 +20,9 @@
 <!ENTITY  sans-serif.accesskey                    "e">
 <!ENTITY  monospace.label                         "Monoespaço:">
 <!ENTITY  monospace.accesskey                     "M">
-
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
+
 <!ENTITY  font.langGroup.latin                    "Latino">
 <!ENTITY  font.langGroup.japanese                 "Japonês">
 <!ENTITY  font.langGroup.trad-chinese             "Mandarim tradicional (Taiwan)">
@@ -39,41 +39,42 @@
 <!ENTITY  font.langGroup.tamil                    "Tamil">
 <!ENTITY  font.langGroup.armenian                 "Arménio">
 <!ENTITY  font.langGroup.bengali                  "Bengali">
-<!ENTITY  font.langGroup.canadian                 "Unified Canadian Syllabary">
+<!ENTITY  font.langGroup.canadian                 "Silabário canadiano unificado">
 <!ENTITY  font.langGroup.ethiopic                 "Etíope">
 <!ENTITY  font.langGroup.georgian                 "Georgiano">
 <!ENTITY  font.langGroup.gujarati                 "Gujarati">
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
 <!ENTITY  font.langGroup.khmer                    "Cambodjano">
 <!ENTITY  font.langGroup.malayalam                "Malaio">
+<!ENTITY  font.langGroup.math                     "Matemática">
 <!ENTITY  font.langGroup.oriya                    "Oriya">
 <!ENTITY  font.langGroup.telugu                   "Telugu">
 <!ENTITY  font.langGroup.kannada                  "Kannada">
-<!ENTITY  font.langGroup.sinhala                  "Sinhala">
+<!ENTITY  font.langGroup.sinhala                  "Cingalês">
 <!ENTITY  font.langGroup.tibetan                  "Tibetano">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Tamanho mínimo da letra:">
 <!ENTITY minSize.accesskey                        "i">
 <!ENTITY minSize.none                             "Nenhum">
-
 <!-- default font type -->
+
 <!ENTITY  useDefaultFontSerif.label               "Serifa">
 <!ENTITY  useDefaultFontSansSerif.label           "Sem serifa">
-
 <!-- fonts in message -->
+
 <!ENTITY  fontControl.label                       "Controlo de letras">
 <!ENTITY  useFixedWidthForPlainText.label         "Utilizar largura fixa para mensagens sem formatação">
 <!ENTITY  fixedWidth.accesskey                    "x">
 <!ENTITY  useDocumentFonts.label                  "Permitir que as mensagens utilizem outros tipos de letra">
 <!ENTITY  useDocumentFonts.accesskey              "g">
-
 <!-- Language settings -->
-<!ENTITY sendDefaultCharset.label         		 "Mensagens enviadas:">
-<!ENTITY sendDefaultCharset.accesskey            "v">
-<!ENTITY languagesTitle2.label            		 "Codificação de texto">
-<!ENTITY composingDescription2.label       		 "Defina a codificação de texto para receção e envio de mensagens">
 
-<!ENTITY viewDefaultCharsetList.label     		 "Mensagens recebidas:">
-<!ENTITY viewDefaultCharsetList.accesskey  		 "a">
-<!ENTITY replyInDefaultCharset3.label     		 "Se possível, utilizar codificação pré-definida nas respostas">
-<!ENTITY replyInDefaultCharset3.accesskey 		 "u">
+<!ENTITY sendDefaultCharset.label         "Mensagens enviadas:">
+<!ENTITY sendDefaultCharset.accesskey     "v">
+<!ENTITY languagesTitle2.label            "Codificação de texto">
+<!ENTITY composingDescription2.label      "Defina a codificação de texto para receção e envio de mensagens">
+
+<!ENTITY viewDefaultCharsetList.label     "Mensagens recebidas:">
+<!ENTITY viewDefaultCharsetList.accesskey  "i">
+<!ENTITY replyInDefaultCharset3.label     "Se possível, utilizar codificação pré-definida nas respostas">
+<!ENTITY replyInDefaultCharset3.accesskey "u">

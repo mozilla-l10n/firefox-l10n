@@ -1,10 +1,10 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- LOCALIZATION NOTE: The text in some of these strings is supposed to be
      fun and playful. Please feel free to adjust the tone as works best in
      your language and/or locale. More detailed notes below. -->
+
 
 <!ENTITY pageTitle                 "Feedback do &brandShortName;">
 
@@ -13,22 +13,22 @@
 <!ENTITY intro.happyLink           "Adoro">
 <!ENTITY intro.sadLink             "Tive alguns problemas">
 <!ENTITY intro.maybeLater          "Mais tarde">
-
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
+
 <!ENTITY support.pre3              "Visite o nosso ">
 <!ENTITY support.link2             "Sítio de apoio">
 <!ENTITY support.post3             " para obter respostas a problemas comuns.">
 
 <!ENTITY happy.header              "É bom saber!">
-
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
      but essentially it means that we want you to let others know how much you love Firefox. -->
-<!ENTITY happy.message             "Deseja mostrar a sua preferência dando-nos 5 estrelas no Google Play?">
 
+<!ENTITY happy.message             "Deseja mostrar a sua preferência dando-nos 5 estrelas no Google Play?">
 <!-- LOCALIZATION NOTE (happy.finePrint): "feels great" — Another exaggeration where we're trying to
      get people to rate us by playfully telling them there's a benefit in it for them as well. -->
+
 <!ENTITY happy.finePrint           "Demora menos de um minuto e não custa nada.">
 
 <!ENTITY happy.ratingLink          "Sim, ir para o Google Play">
@@ -37,21 +37,21 @@
 
 <!ENTITY sad.header                "Oh não!">
 <!ENTITY sad.message               "Pedimos desculpa pelos problemas que teve com o &brandShortName;. Por favor diga-nos o que aconteceu para que possamos resolver.">
-<!ENTITY sad.placeholder           "Escreva aqui o seu comentário">
-<!ENTITY sad.lastSite2             "Último sítio visitado">
-
+<!ENTITY sad.placeholder           "Introduza aqui o seu comentário">
+<!ENTITY sad.lastSite2             "Incluir último sítio visitado">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
+
 <!ENTITY sad.urlPlaceholder        "http://">
 <!ENTITY sad.thanksHeader2         "Obrigado.">
-
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
-<!ENTITY sad.thanksMessageTop      "Estamos sempre a trabalhar para tornar melhor o &brandShortName;. Fique descansado que pessoas verdadeiras irão ler o seu comentário e farão o melhor para resolver o seu problema.">
 
+<!ENTITY sad.thanksMessageTop      "Estamos sempre a trabalhar para tornar melhor o &brandShortName;. Fique descansado que pessoas verdadeiras irão ler o seu comentário e farão o melhor para resolver o seu problema.">
 <!-- LOCALIZATION NOTE (sad.thanksMessageBottom): We're suggesting that there will be consequences for the people working
      on Firefox if they don't resolve the user's problem, like "or if they don't fix it, we'll fire them." If this doesn't
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
+
 <!ENTITY sad.thanksMessageBottom   "Ou então.">
 
 <!ENTITY feedback.privacy2         "Para sua privacidade, não inclua quaisquer dados pessoais no seu comentário.">
-<!ENTITY feedback.send             "Enviar Feedback">
+<!ENTITY feedback.send             "Enviar feedback">

@@ -1,29 +1,29 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!--LOCALIZATION NOTE : FILE 'Advanced' prefs settings -->
-<!ENTITY pref.advanced.title        "Avançado">
 
-<!ENTITY systemPref.caption         "Preferências do Sistema">
-<!ENTITY systemPrefCheck.label      "Usar as Preferências do Sistema">
-<!ENTITY systemPrefCheck.accesskey  "U">
-<!ENTITY systemPref.desc            "Com esta opção, o &brandShortName; utiliza as preferências do sistema. Estas definições do sistema sobrepõem-se às preferências do &brandShortName;.">
+<!ENTITY pref.advanced.title              "Avançado">
 
-<!ENTITY prefCheckDefault.caption   "Integração do sistema">
-<!ENTITY prefCheckDefaultClient.label "Verificar definições pré-definidas no arranque">
-<!ENTITY prefCheckDefaultClient.accesskey "V">
+<!ENTITY systemPref.caption               "Preferências do Sistema">
+<!ENTITY systemPrefCheck.label            "Utilizar preferências do sistema">
+<!ENTITY systemPrefCheck.accesskey        "U">
+<!ENTITY systemPref.desc                  "Com esta opção, o &brandShortName; utiliza as preferências do sistema. Estas definições do sistema sobrepõem-se às preferências do &brandShortName;.">
 
-<!ENTITY crashReports.caption       "Relatórios de erro">
-<!ENTITY submitCrashes.label        "Enviar relatórios de erro">
-<!ENTITY submitCrashes.accesskey    "S">
+<!ENTITY prefCheckDefault.caption         "Integração do sistema">
+<!ENTITY prefCheckDefaultClient.label     "Verificar definições da aplicação ao iniciar">
+<!ENTITY prefCheckDefaultClient.accesskey "c">
+
+<!ENTITY crashReports.caption             "Relatórios de erro">
+<!ENTITY submitCrashes.label              "Enviar relatórios de erro">
+<!ENTITY submitCrashes.accesskey          "s">
 
 <!ENTITY devTools.caption                 "Ferramentas de desenvolvimento">
 <!ENTITY allowDebugger.label              "Permitir que um depurador se ligue ao &brandShortName;">
 <!ENTITY allowDebugger.accesskey          "P">
 <!ENTITY allowRemoteConnections.label     "Permitir ligações de outros computadores">
 <!ENTITY allowRemoteConnections.accesskey "p">
-<!ENTITY connectionPrompt.label           "Confirmar pedidos de ligação">
-<!ENTITY connectionPrompt.accesskey       "C">
+<!ENTITY connectionPrompt.label           "Confirmar pedido de ligações recebidas">
+<!ENTITY connectionPrompt.accesskey       "p">
 <!ENTITY remoteDebuggerPort.label         "Número da porta para ligação:">
 <!ENTITY remoteDebuggerPort.accesskey     "N">

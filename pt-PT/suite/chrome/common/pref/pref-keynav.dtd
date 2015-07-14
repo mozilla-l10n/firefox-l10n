@@ -10,11 +10,11 @@
 <!ENTITY tabNavigationForms.accesskey "B">
 <!ENTITY tabNavigationTextboxes.label "Nota: caixas de texto e regiões deslocáveis fazem sempre parte da ordem dos separadores.">
 <!ENTITY tabNavigationDesc.label "Quando Tab ou Shift+Tab é carregado, mover entre:">
-<!ENTITY accessibilityBrowseWithCaret.label "Navegar com Caret">
-<!ENTITY browseWithCaretDesc.label "Navegação por caret permite-lhe navegar e selecionar entre páginas usando as teclas do cursor para mover um caret visível.">
-<!ENTITY browseWithCaretUse.label "Usar navegação caret">
+<!ENTITY accessibilityBrowseWithCaret.label "Navegar com cursor">
+<!ENTITY browseWithCaretDesc.label "A navegação por cursor permite-lhe navegar e selecionar as páginas através das teclas do cursor.">
+<!ENTITY browseWithCaretUse.label "Utilizar navegação por cursor">
 <!ENTITY browseWithCaretUse.accesskey "U">
-<!ENTITY browseWithCaretShortCut.label "Usar o atalho F7 para trocar a navegação por caret">
+<!ENTITY browseWithCaretShortCut.label "Utilizar F7 para trocar a navegação por cursor">
 <!ENTITY browseWithCaretShortCut.accesskey "F">
-<!ENTITY browseWithCaretWarn.label "Avisar-me antes de ativar a navegação por caret">
+<!ENTITY browseWithCaretWarn.label "Avisar-me antes de ativar a navegação por cursor">
 <!ENTITY browseWithCaretWarn.accesskey "m">

@@ -6,17 +6,17 @@
 <!ENTITY biffStart.accesskey "v">
 <!ENTITY biffEnd.label "minutos">
 
-<!ENTITY loginAtStartup.label "Verificar novos itens ao iniciar"> 
-<!ENTITY loginAtStartup.accesskey "e">
+<!ENTITY loginAtStartup.label "Procurar novos artigos ao iniciar"> 
+<!ENTITY loginAtStartup.accesskey "c">
 
-<!ENTITY useQuickMode.label "Por pré-definição, mostrar o conteúdo do item em vez de carregar a página web"> 
+<!ENTITY useQuickMode.label "Por definição, mostrar o conteúdo do item em vez de carregar a página web"> 
 <!ENTITY useQuickMode.accesskey "P">
 
 <!ENTITY manageSubscriptions.label "Gerir subscrições…"> 
 <!ENTITY manageSubscriptions.accesskey "G">
-
 <!-- entities from rss.rdf -->
-<!ENTITY feeds.accountName            "Blogs e Fontes">
-<!ENTITY feeds.wizardShortName        "Fontes">  
-<!ENTITY feeds.wizardLongName         "Blogs e Fontes de notícias">
+
+<!ENTITY feeds.accountName "Blogs e Fontes">
+<!ENTITY feeds.wizardShortName "Fontes">
+<!ENTITY feeds.wizardLongName "Blogs e Fontes de notícias">
 <!ENTITY feeds.wizardLongName.accesskey "F">

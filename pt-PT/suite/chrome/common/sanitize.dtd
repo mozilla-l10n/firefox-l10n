@@ -9,7 +9,7 @@
 <!ENTITY itemHistory.accesskey           "H">
 <!ENTITY itemUrlBar.label                "Histórico da barra de localização">
 <!ENTITY itemUrlBar.accesskey            "l">
-<!ENTITY itemDownloads.label             "Histórico de transferências">
+<!ENTITY itemDownloads.label             "Histórico de descargas">
 <!ENTITY itemDownloads.accesskey         "t">
 <!ENTITY itemFormSearchHistory.label     "Formulários guardados e histórico de pesquisas">
 <!ENTITY itemFormSearchHistory.accesskey "F">
@@ -17,10 +17,10 @@
 <!ENTITY itemCache.accesskey             "a">
 <!ENTITY itemCookies.label               "Cookies">
 <!ENTITY itemCookies.accesskey           "C">
-<!ENTITY itemOfflineApps.label           "Dados do Sítio web do modo Desligado">
+<!ENTITY itemOfflineApps.label           "Dados offline do sítio web">
 <!ENTITY itemOfflineApps.accesskey       "o">
-<!ENTITY itemPasswords.label             "Senhas guardadas">
-<!ENTITY itemPasswords.accesskey         "g">
+<!ENTITY itemPasswords.label             "Palavras-passe guardadas">
+<!ENTITY itemPasswords.accesskey         "P">
 <!ENTITY itemSessions.label              "Sessões autenticadas">
 <!ENTITY itemSessions.accesskey          "S">
 

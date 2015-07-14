@@ -18,8 +18,8 @@
 <!ENTITY TextAreaDisabled.accessKey "v">
 <!ENTITY TextAreaTabIndex.label "Índice de tabulação:">
 <!ENTITY TextAreaTabIndex.accessKey "i">
-<!ENTITY TextAreaAccessKey.label "Chave de acesso:">
-<!ENTITY TextAreaAccessKey.accessKey "h">
+<!ENTITY TextAreaAccessKey.label "Tecla de acesso:">
+<!ENTITY TextAreaAccessKey.accessKey "e">
 <!ENTITY InitialText.label "Texto inicial:">
 <!ENTITY InitialText.accessKey "T">
 

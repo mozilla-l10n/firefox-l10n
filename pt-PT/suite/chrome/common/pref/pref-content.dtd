@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!--LOCALIZATION NOTE : FILE The Appearance > Content prefs dialog.  -->
+
 
 <!ENTITY pref.content.title                     "Conteúdo">
 <!ENTITY pref.content.description               "Estas definições influenciam como um sítio web e o conteúdo de mensagens aparecem no &brandShortName;.">
@@ -13,13 +13,13 @@
 <!ENTITY useFavIcons.accesskey                  "a">
 <!ENTITY enableAutomaticImageResizing.label     "Redimensionar imagens grandes para caberem na janela do navegador">
 <!ENTITY enableAutomaticImageResizing.accesskey "R">
-<!ENTITY useSmoothScroll.label                  "Usar deslocamento suave">
+<!ENTITY useSmoothScroll.label                  "Utilizar deslocação suave">
 <!ENTITY useSmoothScroll.accesskey              "U">
-<!ENTITY allowHWAccel.label                     "Usar aceleração por hardware quando disponível">
+<!ENTITY allowHWAccel.label                     "Se disponível, utilizar aceleração por hardware">
 <!ENTITY allowHWAccel.accesskey                 "e">
-<!ENTITY textZoomOnly.label                     "Aumentar apenas o texto em vez das páginas completas">
+<!ENTITY textZoomOnly.label                     "Ampliar apenas o texto em vez de toda a página">
 <!ENTITY textZoomOnly.accesskey                 "A">
-<!ENTITY blockAutoRefresh.label                 "Avisar-me quando a página tenta redireccionar ou recarregar a página">
+<!ENTITY blockAutoRefresh.label                 "Avisar-me quando o sítio tenta redirecionar ou recarregar a página">
 <!ENTITY blockAutoRefresh.accesskey             "v">
-<!ENTITY siteSpecific.label                     "Lembrar nível de zoom com base no sítio">
-<!ENTITY siteSpecific.accesskey                 "m">
+<!ENTITY siteSpecific.label                     "Memorizar nível de ampliação por sítio">
+<!ENTITY siteSpecific.accesskey                 "M">

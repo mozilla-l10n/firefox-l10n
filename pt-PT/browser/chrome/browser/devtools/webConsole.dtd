@@ -1,15 +1,15 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- LOCALIZATION NOTE : FILE The correct localization of this file might be to
   - keep it in English, or another language commonly spoken among web developers.
   - You want to make that choice consistent across the developer tools.
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
 
-<!ENTITY window.title 							"Consola web">
-<!ENTITY browserConsole.title 					"Consola do navegador">
+
+<!ENTITY window.title "Consola web">
+<!ENTITY browserConsole.title "Consola do navegador">
 
 <!ENTITY networkPanel.requestURLColon             "URL pedido:">
 <!ENTITY networkPanel.requestMethodColon          "Método do pedido:">
@@ -28,22 +28,22 @@
 <!ENTITY networkPanel.responseNoBody              "Sem texto de resposta">
 <!ENTITY networkPanel.responseImage               "Imagem recebida">
 <!ENTITY networkPanel.responseImageCached         "Imagem em cache">
-
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
+
 <!ENTITY saveBodies.label     "Registar textos de resposta e pedido">
 <!ENTITY saveBodies.accesskey "g">
-
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
+
 <!ENTITY openURL.label     "Abrir URL em novo separador">
 <!ENTITY openURL.accesskey "s">
-
 <!-- LOCALIZATION NOTE (btnPageNet.label): This string is used for the menu
   -  button that allows users to toggle the network logging output.
   -  This string and the following strings toggle various kinds of output
   -  filters. -->
-<!ENTITY btnPageNet.label   "Net">
+
+<!ENTITY btnPageNet.label   "Rede">
 <!ENTITY btnPageNet.tooltip "Registar acesso à rede">
 <!ENTITY btnPageNet.accesskey "e">
 <!-- LOCALIZATION NOTE (btnPageNet.accesskeyMacOSX): This string is used as
@@ -60,21 +60,31 @@
 <!ENTITY btnPageJS.accesskey  "J">
 <!ENTITY btnPageSecurity.label "Segurança">
 <!ENTITY btnPageSecurity.tooltip "Registar erros e avisos de segurança">
-<!ENTITY btnPageSecurity.accesskey "s">
-
+<!ENTITY btnPageSecurity.accesskey "S">
 <!-- LOCALIZATION NOTE (btnPageLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls such console.log() and
   -  console.error(). -->
+
 <!ENTITY btnPageLogging.label   "Registo">
 <!ENTITY btnPageLogging.tooltip "Registar mensagens enviadas para objeto window.console">
 <!ENTITY btnPageLogging.accesskey3 "g">
 <!ENTITY btnConsoleErrors       "Erros">
-<!ENTITY btnConsoleInfo         "Info">
+<!ENTITY btnConsoleInfo         "Informações">
 <!ENTITY btnConsoleWarnings     "Avisos">
 <!ENTITY btnConsoleLog          "Registo">
 <!ENTITY btnConsoleXhr          "XHR">
 <!ENTITY btnConsoleReflows      "Refluxos">
+<!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
+  -  should not be translated. -->
+
+<!ENTITY btnConsoleSharedWorkers "Workers partilhados">
+<!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
+  -  should not be translated. -->
+<!ENTITY btnConsoleServiceWorkers "Service Workers">
+<!-- LOCALIZATION NODE (btnConsoleWindowlessWorkers) the term "Workers"
+  -  should not be translated. -->
+<!ENTITY btnConsoleWindowlessWorkers "Extra ou Workers do Chrome">
 
 <!ENTITY filterOutput.placeholder "Filtrar saída">
 <!ENTITY btnClear.label        "Limpar">
@@ -82,7 +92,8 @@
 <!ENTITY btnClear.accesskey    "r">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
@@ -97,3 +108,5 @@
 <!ENTITY closeCmd.key         "W">
 <!ENTITY findCmd.key          "F">
 <!ENTITY clearOutputCtrl.key  "L">
+<!ENTITY openInVarViewCmd.label "Abrir na vista de variáveis">
+<!ENTITY openInVarViewCmd.accesskey "v">

@@ -10,7 +10,7 @@
 
 <!ENTITY subjectField4.label "Assunto ">
 <!ENTITY ccField4.label "Cc ">
-<!ENTITY bccField4.label "Bcc ">
+<!ENTITY bccField4.label "Bcc">
 <!ENTITY newsgroupsField4.label "Grupos de notícias ">
 <!ENTITY followupToField4.label "Reenviar para ">
 <!ENTITY tagsHdr4.label "Etiquetas ">
@@ -29,7 +29,7 @@
 <!ENTITY hdrReplyAllButton1.label "Responder a todos">
 <!ENTITY hdrReplyAllButton1.tooltip "Responde ao remetente e a todos os destinatários">
 <!ENTITY hdrReplyListButton1.label "Responder à lista">
-<!ENTITY hdrReplyListButton1.tooltip "Responder a lista de correio">
+<!ENTITY hdrReplyListButton1.tooltip "Responder à lista de correio">
 <!ENTITY hdrFollowupButton1.label "Responder">
 <!ENTITY hdrFollowupButton1.tooltip "Responder a este grupo de notícias">
 <!ENTITY hdrMenuForwardButton.label "Reencaminhar como">
@@ -51,7 +51,7 @@
 
 <!ENTITY otherActionsButton2.label "Mais">
 <!ENTITY otherActionsButton.tooltip "Mais ações">
-<!ENTITY otherActionsOpenConversation1.label "Abrir uma conversa">
+<!ENTITY otherActionsOpenConversation1.label "Abrir na conversa">
 <!ENTITY otherActionsOpenConversation1.accesskey "c">
 <!ENTITY otherActionsOpenInNewWindow1.label "Abrir em nova janela">
 <!ENTITY otherActionsOpenInNewWindow1.accesskey "j">
@@ -67,39 +67,39 @@
 <!ENTITY viewSourceMenuItem1.accesskey "V">
 <!ENTITY otherActionsPrint1.label "Imprimir…">
 <!ENTITY otherActionsPrint1.accesskey "p">
-
 <!-- Attachment bar context menu items -->
-<!ENTITY startExpandedCmd.label "Inicialmente, mostrar painel de anexos">
-<!ENTITY startExpandedCmd.accesskey "s">
 
+<!ENTITY startExpandedCmd.label    "Inicialmente, mostrar painel de anexos">
+<!ENTITY startExpandedCmd.accesskey    "s">
 <!-- Attachment context menu items -->
-<!ENTITY openAttachmentCmd.label "Abrir">
-<!ENTITY openAttachmentCmd.accesskey "A">
-<!ENTITY saveAsAttachmentCmd.label "Guardar como...">
-<!ENTITY saveAsAttachmentCmd.accesskey "G">
-<!ENTITY detachAttachmentCmd.label "Separar…">
-<!ENTITY detachAttachmentCmd.accesskey "S">
-<!ENTITY deleteAttachmentCmd.label "Eliminar">
-<!ENTITY deleteAttachmentCmd.accesskey "l">
-<!ENTITY openAllAttachmentsCmd.label "Abrir tudo…">
-<!ENTITY openAllAttachmentsCmd.accesskey "o">
-<!ENTITY saveAllAttachmentsCmd.label "Guardar tudo...">
-<!ENTITY saveAllAttachmentsCmd.accesskey "U">
-<!ENTITY detachAllAttachmentsCmd.label "Separar tudo...">
-<!ENTITY detachAllAttachmentsCmd.accesskey "E">
-<!ENTITY deleteAllAttachmentsCmd.label "Eliminar tudo...">
-<!ENTITY deleteAllAttachmentsCmd.accesskey "l">
+
+<!ENTITY openAttachmentCmd.label    "Abrir">
+<!ENTITY openAttachmentCmd.accesskey    "A">
+<!ENTITY saveAsAttachmentCmd.label    "Guardar como...">
+<!ENTITY saveAsAttachmentCmd.accesskey    "G">
+<!ENTITY detachAttachmentCmd.label    "Separar…">
+<!ENTITY detachAttachmentCmd.accesskey    "S">
+<!ENTITY deleteAttachmentCmd.label    "Eliminar">
+<!ENTITY deleteAttachmentCmd.accesskey    "l">
+<!ENTITY openAllAttachmentsCmd.label    "Abrir tudo…">
+<!ENTITY openAllAttachmentsCmd.accesskey    "o">
+<!ENTITY saveAllAttachmentsCmd.label    "Guardar tudo...">
+<!ENTITY saveAllAttachmentsCmd.accesskey    "u">
+<!ENTITY detachAllAttachmentsCmd.label    "Separar tudo...">
+<!ENTITY detachAllAttachmentsCmd.accesskey    "e">
+<!ENTITY deleteAllAttachmentsCmd.label    "Eliminar tudo...">
+<!ENTITY deleteAllAttachmentsCmd.accesskey    "l">
 
 <!ENTITY openAttachment.tooltip "Abrir ficheiro anexo">
-
 <!-- Attachment toolbar items -->
-<!ENTITY saveAttachmentButton1.label "Guardar">
-<!ENTITY saveAttachmentButton1.tooltip "Guardar ficheiro anexo">
-<!ENTITY saveAllAttachmentsButton1.label "Guardar tudo">
+
+<!ENTITY saveAttachmentButton1.label       "Guardar">
+<!ENTITY saveAttachmentButton1.tooltip     "Guardar ficheiro anexo">
+<!ENTITY saveAllAttachmentsButton1.label   "Guardar tudo">
 <!ENTITY saveAllAttachmentsButton1.tooltip "Guardar todos os ficheiros em anexo">
 
-<!ENTITY copyLinkCmd.label "Copiar localização da ligação">
-<!ENTITY copyLinkCmd.accesskey "p">
+<!ENTITY copyLinkCmd.label        "Copiar localização da ligação">
+<!ENTITY copyLinkCmd.accesskey    "p">
 
 <!ENTITY CopyMessageId.label "Copiar ID da mensagem">
 <!ENTITY CopyMessageId.accesskey "C">

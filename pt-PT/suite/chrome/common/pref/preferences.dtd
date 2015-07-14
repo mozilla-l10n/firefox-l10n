@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!--LOCALIZATION NOTE (.label): Preferences categories that appear on the left of the preferences dialog -->
+
 <!ENTITY prefWindow.title "Preferências">
 <!ENTITY categoryHeader "Categoria">
 <!ENTITY appear.label "Aparência">
@@ -16,31 +16,31 @@
 <!ENTITY locationBar.label "Barra de localização">
 <!ENTITY tabWindows.label "Navegação por separadores">
 <!ENTITY links.label "Comportamento da ligação">
-<!ENTITY offline.label "Desligado">
-<!ENTITY security.label "Privacidade &amp; Segurança">
+<!ENTITY offline.label "Offline">
+<!ENTITY security.label "Privacidade e segurança">
 <!ENTITY privatedata.label "Dados privados">
 <!ENTITY cookies.label "Cookies">
 <!ENTITY images.label "Imagens">
-<!ENTITY popups.label "Janelas de Popup">
-<!ENTITY passwords.label "Senhas">
-<!ENTITY masterpass.label "Senhas Mestras">
+<!ENTITY popups.label "Janelas emergentes">
+<!ENTITY passwords.label "Palavras-passe">
+<!ENTITY masterpass.label "Palavras-passe mestras">
 <!ENTITY ssl.label "SSL">
 <!ENTITY certs.label "Certificados">
 <!ENTITY sync.label "Sync">
 <!ENTITY advance.label "Avançado">
-<!ENTITY down.label "Transferir">
+<!ENTITY down.label "Descarregar">
 <!ENTITY cache.label "Cache">
-<!ENTITY offlineApps.label "Aplicações no modo desligado">
+<!ENTITY offlineApps.label "Aplicações offline">
 <!ENTITY proxies.label "Proxies">
 <!ENTITY httpnetworking.label "Rde HTTP">
 <!ENTITY smart.label "Instalação de Software">
-<!ENTITY download.label "Transferências">
+<!ENTITY download.label "Descargas">
 <!ENTITY keynav.label "Navegação pelo teclado">
-<!ENTITY findAsYouType.label "Procurar ao escrever">
+<!ENTITY findAsYouType.label "Localizar ao escrever">
 <!ENTITY search.label "Pesquisa na Internet">
 <!ENTITY policies.label "Políticas de segurança">
 <!ENTITY mousewheel.label "Roda do rato">
-<!ENTITY scriptsAndWindows.label "Scripts &amp; Plugins">
+<!ENTITY scriptsAndWindows.label "Scripts e plugins">
 <!ENTITY spellingPane.label  "Escrita">
 
 <!ENTITY focusSearch.key "f">
