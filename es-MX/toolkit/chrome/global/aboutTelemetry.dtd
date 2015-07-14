@@ -4,6 +4,7 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Datos de Telemetry">
 
+<!ENTITY aboutTelemetry.changeDataChoices "  Cambiar ">
 
 
 
@@ -16,10 +17,12 @@
 
 
 
+<!ENTITY aboutTelemetry.archiveWeekHeader "Semana">
 
 
 <!ENTITY aboutTelemetry.generalDataSection "  Datos generales">
 
+<!ENTITY aboutTelemetry.environmentDataSection "  Entorno de Datos">
 
 
 <!ENTITY aboutTelemetry.slowSqlSection "  Sentencias SQL lentas">
