@@ -24,10 +24,10 @@
 <!ENTITY otherUsersNamespace.accesskey "O">
 <!ENTITY overrideNamespaces.label "Permitir ao servidor ultrapassar estes 'namespaces'">
 <!ENTITY overrideNamespaces.accesskey "a">
-<!ENTITY pop3Desc.label "Ao transferir correio POP deste servidor, usar a seguinte pasta para o novo correio:" >
-<!ENTITY accountDirectory.label "Caixa de Entrada para esta conta do Servidor">
-<!ENTITY accountDirectory.accesskey "S">
-<!ENTITY deferToServer.label "Caixa de Entrada para uma conta diferente do servidor">
+<!ENTITY pop3Desc.label "Ao descarregar correio POP deste servidor, usar a seguinte pasta para o novo correio:" >
+<!ENTITY accountDirectory.label "Caixa de entrada desta conta de servidor">
+<!ENTITY accountDirectory.accesskey "s">
+<!ENTITY deferToServer.label "Caixa de entrada para uma conta diferente">
 <!ENTITY deferToServer.accesskey "d">
 <!ENTITY deferGetNewMail.label "Incluir este servidor na receção de correio">
 <!ENTITY deferGetNewMail.accesskey "I">

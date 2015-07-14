@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!--LOCALIZATION NOTE : FILE The Advanced Proxy Preferences dialog -->
 
-<!ENTITY  pref.proxies.advanced.title "Preferências avançadas de Proxy">
-<!ENTITY  protocols.caption           "Protocolo específico dos Proxies">
-<!ENTITY  protocols.description       "Normalmente o mesmo proxy pode negociar com todos os protocolos listados aqui.">
+<!ENTITY  pref.proxies.advanced.title "Preferências avançadas de proxy">
+<!ENTITY  protocols.caption           "Protocolo específico dos proxies">
+<!ENTITY  protocols.description       "Normalmente, o mesmo proxy pode negociar com todos os protocolos listados aqui.">
 <!ENTITY  http.label                  "Proxy HTTP:">
 <!ENTITY  http.accesskey              "x">
 <!ENTITY  ssl.label                   "Proxy SSL:">

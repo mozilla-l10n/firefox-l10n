@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY menuBar.tooltip       "Barra de Menu">
-<!ENTITY modeToolbar.tooltip   "Modo Barra de ferramentas">
-<!ENTITY entryToolbar.tooltip  "Entrada Javascript da barra de ferramentas">
+<!ENTITY menuBar.tooltip       "Barra de menu">
+<!ENTITY modeToolbar.tooltip   "Modo de barra de ferramentas">
+<!ENTITY entryToolbar.tooltip  "Barra de ferramentas Javascript">
 <!ENTITY toolbarsCmd.label     "Mostrar/Ocultar">
 <!ENTITY toolbarsCmd.accesskey "s">
 <!ENTITY toolbarMode.label     "Modo">

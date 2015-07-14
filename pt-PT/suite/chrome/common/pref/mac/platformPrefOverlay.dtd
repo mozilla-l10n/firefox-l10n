@@ -12,7 +12,7 @@
 <!ENTITY  prefWindow.size             "width: 58em; height: 41em;">
 <!-- pref-tabs.xul -->
 
-<!ENTITY urlbar.label                 "&#8984;+Regressar na barra de localização">
+<!ENTITY urlbar.label                 "&#8984;+Enter na barra de localização">
 <!ENTITY urlbar.accesskey             "l">
 <!ENTITY middleClick.label            "Clique central, &#8984;+clique ou &#8984;+Enter em ligações numa página web">
 <!ENTITY middleClick.accesskey        "n">

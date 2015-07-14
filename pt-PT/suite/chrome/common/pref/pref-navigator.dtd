@@ -6,7 +6,7 @@
 
 <!ENTITY navRadio.label                 "Mostrar em">
 <!ENTITY navRadio.accesskey             "o">
-<!ENTITY navStartPageMenu.label         "Iniciar o navegador">
+<!ENTITY navStartPageMenu.label         "Arranque do navegador">
 <!ENTITY newWinPageMenu.label           "Nova janela">
 <!ENTITY newTabPageMenu.label           "Novo separador">
 

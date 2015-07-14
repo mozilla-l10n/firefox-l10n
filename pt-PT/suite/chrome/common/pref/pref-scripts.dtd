@@ -17,7 +17,7 @@
 <!ENTITY allowWindowMoveResize.label     "Mover ou redimensionar janelas existentes">
 <!ENTITY allowWindowFlip.label           "Aumentar ou diminuir janelas">
 <!ENTITY allowWindowStatusChange.label   "Mudar texto da barra de estado">
-<!ENTITY allowWindowImageSrcChange.label "mudar imagens">
+<!ENTITY allowWindowImageSrcChange.label "Mudar imagens">
 <!ENTITY allowContextmenuDisable.label   "Desativar ou substituir menus de contexto">
 <!ENTITY allowHideStatusBar.label        "Ocultar barra de estado">
 

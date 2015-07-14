@@ -4,12 +4,12 @@
 
 <!ENTITY folderProps.windowtitle.label           "Propriedades">
 
-<!ENTITY generalInfo.label                       "Informação Geral">
+<!ENTITY generalInfo.label                       "Informação geral">
 <!ENTITY folderCharsetFallback2.label            "Codificação de texto de recurso:">
 <!ENTITY folderCharsetFallback2.accesskey        "e">
 <!ENTITY folderCharsetEnforce2.label             "Aplicar codificação a todas as mensagens desta pasta (as definições individuais de codificação de texto das mensagens e a deteção automática serão ignoradas)">
 <!ENTITY folderCharsetEnforce2.accesskey         "A">
-<!ENTITY folderRebuildSummaryFileTip2.label      "Reconstruir Sumário do Ficheiro">
+<!ENTITY folderRebuildSummaryFileTip2.label      "Reconstruir índice de ficheiros">
 <!ENTITY folderRebuildSummaryFile2.label         "Reparar pasta">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">
 <!ENTITY folderRebuildSummaryFile.explanation    "Ás vezes o índice da pasta (.msf) fica danificado e as mensagens podem ou não aparecer ou as que foram eliminadas continuar a aparecer; reparar a pasta pode corrigir estes problemas.">
@@ -61,8 +61,8 @@
 <!ENTITY folderType.label                        "Tipo de pasta:">
 
 <!ENTITY folderQuotaTab.label                    "Quota">
-<!ENTITY folderQuotaRoot.label                   "Quota Base:">
-<!ENTITY folderQuotaUsage.label                  "Em Uso:">
+<!ENTITY folderQuotaRoot.label                   "Quota base:">
+<!ENTITY folderQuotaUsage.label                  "Utilizado:">
 <!ENTITY folderQuotaStatus.label                 "Estado:">
 
 <!ENTITY numberOfMessages.label                  "Número de mensagens:">

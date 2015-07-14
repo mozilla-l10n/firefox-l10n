@@ -33,7 +33,7 @@
 <!ENTITY offlineApps.label "Aplicações offline">
 <!ENTITY proxies.label "Proxies">
 <!ENTITY httpnetworking.label "Rde HTTP">
-<!ENTITY smart.label "Instalação de Software">
+<!ENTITY smart.label "Instalação de software">
 <!ENTITY download.label "Descargas">
 <!ENTITY keynav.label "Navegação pelo teclado">
 <!ENTITY findAsYouType.label "Localizar ao escrever">

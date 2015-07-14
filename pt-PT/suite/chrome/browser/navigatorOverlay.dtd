@@ -16,7 +16,7 @@
 <!ENTITY closeOtherTabs.label "Fechar outros separadores">
 <!ENTITY closeOtherTabs.accesskey "t">
 
-<!ENTITY uploadFile.label "Enviar ficheiro…">
+<!ENTITY uploadFile.label "Carregar ficheiro…">
 <!ENTITY uploadFile.accesskey "f">
 
 <!ENTITY printSetupCmd.label "Configuração de página…">
@@ -31,9 +31,9 @@
 <!ENTITY tabbarCmd.label "Barra de separadores">
 <!ENTITY tabbarCmd.accesskey "s">
 <!ENTITY taskbarCmd.label "Barra de estado">
-<!ENTITY taskbarCmd.accesskey "B">
+<!ENTITY taskbarCmd.accesskey "s">
 <!ENTITY componentbarCmd.label "Barra de componentes">
-<!ENTITY componentbarCmd.accesskey "o">
+<!ENTITY componentbarCmd.accesskey "c">
 
 <!ENTITY fullScreenCmd.label "Ecrã inteiro">
 <!ENTITY fullScreenCmd.accesskey "E">
@@ -67,7 +67,7 @@
 <!ENTITY recentWindows.label "Janelas fechadas recentemente">
 <!ENTITY recentWindows.accesskey "J">
 <!ENTITY recentWindows.commandkey "y">
-<!ENTITY historyRestoreLastSession.label "Restaurar a sessão anterior">
+<!ENTITY historyRestoreLastSession.label "Restaurar sessão anterior">
 <!ENTITY historyRestoreLastSession.accesskey "R">
 <!ENTITY syncTabsMenu.label "Separadores de outros computadores">
 <!ENTITY syncTabsMenu.accesskey "o">
@@ -98,7 +98,7 @@
 <!ENTITY cookieDisplayCookiesCmd.accesskey "k">
 <!ENTITY cookieAllowCookiesCmd.label "Permitir cookies deste sítio web">
 <!ENTITY cookieAllowCookiesCmd.accesskey "w">
-<!ENTITY cookieAllowCookiesMsg.label "Cookies deste sítio web serão sempre permitidos.">
+<!ENTITY cookieAllowCookiesMsg.label "Os cookies deste sítio web serão sempre permitidos.">
 <!ENTITY cookieAllowSessionCookiesCmd.label "Permitir cookies de sessão deste sítio web">
 <!ENTITY cookieAllowSessionCookiesCmd.accesskey "s">
 <!ENTITY cookieAllowSessionCookiesMsg.label "Este sítio web apenas pode definir cookies para a sessão atual.">
@@ -114,13 +114,13 @@
 <!ENTITY cookieDisplayImagesCmd.accesskey "m">
 <!ENTITY cookieAllowImagesCmd.label "Permitir imagens deste sítio web">
 <!ENTITY cookieAllowImagesCmd.accesskey "a">
-<!ENTITY cookieAllowImagesMsg.label "As imagens deste sítio web serão sempre transferidas.">
+<!ENTITY cookieAllowImagesMsg.label "As imagens deste sítio web serão sempre descarregadas.">
 <!ENTITY cookieImagesDefaultCmd.label "Utilizar permissões pré-definidas de imagem">
 <!ENTITY cookieImagesDefaultCmd.accesskey "U">
-<!ENTITY cookieImagesDefaultMsg.label "As imagens deste sítio web serão transferidas com base nas pré-definições.">
+<!ENTITY cookieImagesDefaultMsg.label "As imagens deste sítio web serão descarregadas com base nas pré-definições.">
 <!ENTITY cookieBlockImagesCmd.label "Bloquear imagens deste sítio web">
 <!ENTITY cookieBlockImagesCmd.accesskey "B">
-<!ENTITY cookieBlockImagesMsg.label "As imagens deste sítio web nunca serão transferidas.">
+<!ENTITY cookieBlockImagesMsg.label "As imagens deste sítio web nunca serão descarregadas.">
 
 <!ENTITY cookieAllowPopupsCmd.label "Permitir janelas emergentes deste sítio">
 <!ENTITY cookieAllowPopupsCmd.accesskey "a">

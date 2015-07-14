@@ -15,11 +15,11 @@
 <!ENTITY view.columns.accesskey         "c">
 <!ENTITY view.sort.label                "Ordenar">
 <!ENTITY view.sort.accesskey            "O">
-<!ENTITY view.unsorted.label            "Não-ordenado">
+<!ENTITY view.unsorted.label            "Não ordenar">
 <!ENTITY view.unsorted.accesskey        "N">
-<!ENTITY view.sortAscending.label       "Ordenado de A a Z">
+<!ENTITY view.sortAscending.label       "Ordenar de A a Z">
 <!ENTITY view.sortAscending.accesskey   "a">
-<!ENTITY view.sortDescending.label      "Ordenado de Z a A">
+<!ENTITY view.sortDescending.label      "Ordenar de Z a A">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
 <!ENTITY cmd.findInBookmarks.label      "Localizar nos marcadores…">
@@ -54,8 +54,8 @@
 <!ENTITY cmd.open_window.accesskey       "n">
 <!ENTITY cmd.open_private.label          "Abrir em janela privada">
 <!ENTITY cmd.open_private.accesskey      "v">
-<!ENTITY cmd.open_all_in_tabs.label      "Abrir todas em separadores">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "s">
+<!ENTITY cmd.open_all_in_tabs.label      "Abrir tudo em separadores">
+<!ENTITY cmd.open_all_in_tabs.accesskey  "o">
 
 <!ENTITY cmd.properties.label      "Propriedades">
 <!ENTITY cmd.properties.accesskey  "i">
@@ -100,7 +100,7 @@
 
 <!ENTITY cmd.find.key  "f">
 
-<!ENTITY backButton.tooltip  "Retroceder">
+<!ENTITY backButton.tooltip  "Recuar">
 <!ENTITY forwardButton.tooltip  "Avançar">
 
 <!ENTITY detailsPane.more.label "Mais">

@@ -22,7 +22,7 @@
 <!ENTITY useInternalSettings.description  "Utilizar o &brandShortName; para abrir a ligação de navegador para:">
 <!ENTITY useInternalMail.label            "Correio (mailto:)">
 <!ENTITY useInternalMail.accesskey        "C">
-<!ENTITY useInternalNews.label            "Grupos de discussão (news:, snews:, nntp:)">
+<!ENTITY useInternalNews.label            "Grupos de notícias (news:, snews:, nntp:)">
 <!ENTITY useInternalNews.accesskey        "d">
 
 <!ENTITY messengerStartPage.caption       "Página inicial do correio">

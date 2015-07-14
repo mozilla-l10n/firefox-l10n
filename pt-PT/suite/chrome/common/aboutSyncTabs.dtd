@@ -13,7 +13,7 @@
 <!ENTITY tabs.context.openTab.label                   "Abrir este separador">
 <!ENTITY tabs.context.openTab.accesskey               "A">
 <!ENTITY tabs.context.openMultipleTabs.label          "Abrir separadores selecionados">
-<!ENTITY tabs.context.openMultipleTabs.accesskey      "A">
+<!ENTITY tabs.context.openMultipleTabs.accesskey      "o">
 <!ENTITY tabs.context.bookmarkSingleTab.label         "Criar marcador para este separador…">
 <!ENTITY tabs.context.bookmarkSingleTab.accesskey     "C">
 <!ENTITY tabs.context.bookmarkMultipleTabs.label      "Criar marcadores para os separadores selecionados…">

@@ -16,6 +16,6 @@
 <!ENTITY findAsYouTypeAutoLinks.label "Apenas ligações">
 <!ENTITY findAsYouTypeAutoLinks.accesskey "l">
 
-<!ENTITY findAsYouTypeFindbarEnable.label "Mostrar barra de ferramentas ao Localizar ao escrever">
-<!ENTITY findAsYouTypeFindbarEnable.accesskey "M">
+<!ENTITY findAsYouTypeFindbarEnable.label "Mostrar barra de ferramentas Localizar ao escrever">
+<!ENTITY findAsYouTypeFindbarEnable.accesskey "s">
 <!ENTITY findAsYouTypeFindbarEnableTip.label "Nota: Localizar ao escrever sem mostrar a barra de pesquisa não permite entradas de texto internacionais.">

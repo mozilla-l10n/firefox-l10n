@@ -15,7 +15,7 @@
 <!ENTITY whenBlock.description          "Ao bloquear uma janela emergente:">
 <!ENTITY playSound.label                "Tocar um som:">
 <!ENTITY playSound.accesskey            "s">
-<!ENTITY systemSound.label              "Beep do sistema">
+<!ENTITY systemSound.label              "Som do sistema">
 <!ENTITY systemSound.accesskey          "s">
 <!ENTITY customSound.label              "Ficheiro de som">
 <!ENTITY customSound.accesskey          "c">

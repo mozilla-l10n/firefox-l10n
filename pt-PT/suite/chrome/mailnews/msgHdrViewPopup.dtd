@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Message Header View Popup -->
 
-<!ENTITY AddToAddressBook.label            "Adicionar ao livro de endereços...">
+<!ENTITY AddToAddressBook.label            "Adicionar ao livro de endereços…">
 <!ENTITY AddToAddressBook.accesskey        "A">
 <!ENTITY EditContact.label                 "Editar contacto…">
 <!ENTITY EditContact.accesskey             "E">

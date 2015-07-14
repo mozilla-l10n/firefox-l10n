@@ -11,7 +11,7 @@
 
 <!ENTITY feedLocation.label          "URL da fonte:">
 <!ENTITY feedLocation.accesskey      "U">
-<!ENTITY feedLocation.placeholder    "Introduza um URL de fonté válido para o adicionar">
+<!ENTITY feedLocation.placeholder    "Introduza um URL para adicionar a fonte">
 <!ENTITY locationValidate.label      "Validar">
 <!ENTITY validateText.label          "Validar e obter um URL válido.">
 

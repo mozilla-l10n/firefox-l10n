@@ -25,7 +25,7 @@
 
 <!ENTITY documentButton.label "Documento">
 
-<!ENTITY tocButton.label "Tabela de Conteúdos">
+<!ENTITY tocButton.label "Índice">
 <!ENTITY chapterButton.label "Capítulos">
 <!ENTITY sectionButton.label "Secções">
 <!ENTITY subSectionButton.label "Subsecções">

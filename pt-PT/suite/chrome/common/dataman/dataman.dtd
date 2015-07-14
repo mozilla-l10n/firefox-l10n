@@ -145,7 +145,7 @@
 <!ENTITY forget.permissions.accesskey "P">
 <!ENTITY forget.preferences.label "Preferências de conteúdo">
 <!ENTITY forget.preferences.accesskey "o">
-<!ENTITY forget.passwords.label "Senhas">
+<!ENTITY forget.passwords.label "Palavras-passe">
 <!ENTITY forget.passwords.accesskey "a">
 <!ENTITY forget.storage.label "Armazenamento">
 <!ENTITY forget.storage.accesskey "z">
