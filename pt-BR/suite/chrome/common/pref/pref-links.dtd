@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY linksHeader.label "Comportamento dos links">
-<!ENTITY newWindow.label "Comportamente de abertura dos links">
+<!ENTITY newWindow.label "Comportamento de abertura dos links">
 <!ENTITY newWindowDescription.label "Abrir links feitas para abrir em nova janela em:">
 <!ENTITY newWindowRestriction.label "Quando os scripts tentam abrir uma nova janela:">
 <!ENTITY external.label "Links de outras aplicações">

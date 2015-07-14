@@ -6,7 +6,7 @@
 <!ENTITY restorepage.pagetitle      "Deseja restaurar a sessão?">
 <!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
                         you may translate "crash" instead (even though it's IT-speak) -->
-<!ENTITY restorepage.issueDesc      "A sessão anterior do &brandShortName; travou. Desculpe-nos o incoveniente. Você pode restaurar as abas e janelas da sessão anterior ou iniciar uma nova sessão caso elas não sejam mais necessárias.">
+<!ENTITY restorepage.issueDesc      "A sessão anterior do &brandShortName; travou. Desculpe-nos o inconveniente. Você pode restaurar as abas e janelas da sessão anterior ou iniciar uma nova sessão caso elas não sejam mais necessárias.">
 <!ENTITY restorepage.remedies       "Se &brandShortName; travar repetidamente:">
 <!ENTITY restorepage.dueToChrome    "Tente desativar quaisquer extensões adicionadas recentemente no Gerenciador de complementos.">
 <!ENTITY restorepage.dueToContent   "Tente restaurar sua sessão sem quaisquer páginas que suspeite que possam causar o problema:">

@@ -34,12 +34,12 @@
 <!ENTITY tagsColumn2.tooltip "Ordenar por rótulo">
 <!ENTITY accountColumn2.tooltip "Ordenar por conta">
 <!ENTITY statusColumn2.tooltip "Ordenar por status">
-<!ENTITY sizeColumn2.tooltip "Ordernar por tamanho">
-<!ENTITY junkStatusColumn2.tooltip "Ordernar por status de spam">
+<!ENTITY sizeColumn2.tooltip "Ordenar por tamanho">
+<!ENTITY junkStatusColumn2.tooltip "Ordenar por status de spam">
 <!ENTITY unreadColumn2.tooltip "Total de mensagens não lidas no tópico">
 <!ENTITY totalColumn2.tooltip "Total de mensagens no tópico">
 <!ENTITY readColumn2.tooltip "Ordenar por lidas">
-<!ENTITY receivedColumn2.tooltip "Ordernar por data de recebimento">
+<!ENTITY receivedColumn2.tooltip "Ordenar por data de recebimento">
 <!ENTITY flagColumn2.tooltip "Ordenar por sinalização">
 <!ENTITY locationColumn2.tooltip "Ordenar por pasta">
 <!ENTITY idColumn2.tooltip "Ordenar por ordem de chegada">
