@@ -3,10 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- extracted from ./customize.xul -->
+
 <!-- LOCALIZATION NOTE  sidebar.customize.title.label: Do NOT localize the term "&sidebarName;"  -->
-
-
-<!ENTITY sidebar.customize.title.label "Přizpůsobení lišty">
+<!ENTITY sidebar.customize.title.label "Přizpůsobit &sidebarName;">
 <!-- LOCALIZATION NOTE  sidebar.customize.current.label: Do NOT localize the term "&sidebarName;"  -->
 <!ENTITY sidebar.customize.current.label "Panely:">
 <!ENTITY sidebar.customize.current.accesskey "P">
