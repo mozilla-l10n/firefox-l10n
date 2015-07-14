@@ -19,7 +19,7 @@
 <!ENTITY  window.width            "40em">
 <!ENTITY  window.macWidth         "45em">
 
-<!ENTITY importTitle.label        "&brandShortName; Assistente de Importação do Correio">
+<!ENTITY importTitle.label        "Assistente de importação de correio do &brandShortName;">
 <!ENTITY importShortDesc.label    "Importar correio, livro de endereços, definições e filtros de outros programas">
 
 <!ENTITY importDescription1.label "Este assistente vai importar mensagens de correio, entradas do Livro de Endereços, e/ou personalizações de outros programas de correio e formatos de livros de endereços comuns para o Correio do &brandShortName;.">
@@ -31,12 +31,12 @@
 <!ENTITY acctName.label           "Nome:">
 <!ENTITY acctName.accesskey       "N">
 
-<!ENTITY back.label               "&lt; Retroceder">
-<!ENTITY forward.label            "Seguinte &gt;">
+<!ENTITY back.label               "&lt; Recuar">
+<!ENTITY forward.label            "Avançatr &gt;">
 <!ENTITY finish.label             "Terminar">
 <!ENTITY cancel.label             "Cancelar">
 
-<!ENTITY select.label             "Selecione o tipo de material a importar:">
+<!ENTITY select.label             "ou selecione o tipo de dados a importar:">
 
 <!ENTITY title.label              "Título">
-<!ENTITY processing.label         "A Importar...">
+<!ENTITY processing.label         "A importar…">

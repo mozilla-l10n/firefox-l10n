@@ -16,9 +16,9 @@
 <!ENTITY  proportional.label                      "Proporcional:">
 <!ENTITY  proportional.accesskey                  "P">
 
-<!ENTITY  serif.label                             "Serifada:">
+<!ENTITY  serif.label                             "Serifa:">
 <!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "Sem-serifa:">
+<!ENTITY  sans-serif.label                        "Sem serifa:">
 <!ENTITY  sans-serif.accesskey                    "e">
 <!ENTITY  monospace.label                         "Mono-espaçada:">
 <!ENTITY  monospace.accesskey                     "M">
@@ -63,7 +63,7 @@
 <!-- default font type -->
 
 <!ENTITY  useDefaultFontSerif.label               "Serifa">
-<!ENTITY  useDefaultFontSansSerif.label           "Sem-serifa">
+<!ENTITY  useDefaultFontSansSerif.label           "Sem serifa">
 
 <!ENTITY  useDocumentFonts.label                  "Permitir que o documento use outros tipos de letra">
 <!ENTITY  useDocumentFonts.accesskey              "o">

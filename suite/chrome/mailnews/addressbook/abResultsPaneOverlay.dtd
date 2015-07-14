@@ -24,15 +24,15 @@
 <!ENTITY PagerNumber.accesskey                 "P">
 <!ENTITY FaxNumber.label                       "Fax">
 <!ENTITY FaxNumber.accesskey                   "F">
-<!ENTITY HomePhone.label                       "Telefone Casa">
+<!ENTITY HomePhone.label                       "Telefone pessoal">
 <!ENTITY HomePhone.accesskey                   "l">
-<!ENTITY WorkPhone.label                       "Telefone Trabalho">
-<!ENTITY WorkPhone.accesskey                   "a">
+<!ENTITY WorkPhone.label                       "Telefone profissional">
+<!ENTITY WorkPhone.accesskey                   "o">
 <!ENTITY ScreenName.label                      "Nome a mostrar">
 <!ENTITY ScreenName.accesskey                  "s">
-<!ENTITY sortAscending.label                   "Ordem Crescente">
+<!ENTITY sortAscending.label                   "Ordem crescente">
 <!ENTITY sortAscending.accesskey               "O">
-<!ENTITY sortDescending.label                  "Ordem Decrescente">
+<!ENTITY sortDescending.label                  "Ordem decrescente">
 <!ENTITY sortDescending.accesskey              "r">
 <!-- context menu -->
 

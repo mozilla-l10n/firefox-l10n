@@ -11,10 +11,10 @@
 <!ENTITY  default.label       "Política pré-definida">
 <!ENTITY  allWebsites.label   "Todos os sítios web">
 <!ENTITY  trusted.label       "Sítios de confiança">
-<!ENTITY  annoyances.label    "mais comuns">
+<!ENTITY  annoyances.label    "Irritações comuns">
 <!ENTITY  restricted.label    "Sítios restritos">
 
-<!ENTITY  addSite.label       "Adicionar Sítio…">
+<!ENTITY  addSite.label       "Adicionar sítio…">
 <!ENTITY  addSite.accesskey   "A">
 <!ENTITY  settings.label      "Definições para ">
 <!ENTITY  settings.accesskey  "s">

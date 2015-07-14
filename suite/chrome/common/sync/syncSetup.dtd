@@ -44,8 +44,8 @@
 <!ENTITY setup.tosAgree2.accesskey  "">
 <!-- New Account Page 2: Recovery Key -->
 
-<!ENTITY setup.newRecoveryKeyPage.title.label "O &brandShortName; Respeita a Sua Privacidade">
-<!ENTITY setup.newRecoveryKeyPage.description.label "Para assegurar a sua privacidade total, toda a sua informação é cifrada antes de ser enviada. A chave de recuperação necessária para decifrar a informação não é enviada.">
+<!ENTITY setup.newRecoveryKeyPage.title.label "O &brandShortName; respeita a sua privacidade">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Para assegurar a sua privacidade total, toda a sua informação é cifrada antes de ser carregada. A chave de recuperação necessária para decifrar a informação não é enviada.">
 <!ENTITY recoveryKeyEntry.label        "A sua chave de recuperação">
 <!ENTITY recoveryKeyEntry.accesskey    "c">
 <!ENTITY recoveryGenerateNewKey.label  "Criar uma nova chave">
@@ -57,7 +57,7 @@
 <!ENTITY button.syncKeyBackup.save.accesskey  "G">
 <!-- New Account Page 3: Captcha -->
 
-<!ENTITY setup.captchaPage2.title.label     "Por favor confirme que não é um robot ;)">
+<!ENTITY setup.captchaPage2.title.label     "Por favor confirme que não é um robô ;)">
 <!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
 
 <!ENTITY addDevice.title.label              "Adicionar um dispositivo">

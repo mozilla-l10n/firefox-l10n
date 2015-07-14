@@ -11,11 +11,11 @@
 <!ENTITY importFromThunderbird.accesskey "T">
 <!ENTITY importFromFile.label            "Ficheiro">
 <!ENTITY importFromFile.accesskey        "F">
-<!ENTITY importFromNothing.label         "Não importar nada">
-<!ENTITY importFromNothing.accesskey     "n">
+<!ENTITY importFromNothing.label         "Não importar">
+<!ENTITY importFromNothing.accesskey     "N">
 
 <!ENTITY importSource.title              "Importar definições e dados">
-<!ENTITY importItems.title               "Items a Importar">
+<!ENTITY importItems.title               "Itens a importar">
 <!ENTITY importItems.label               "Selecione os itens a importar:">
 
 <!ENTITY selectProfile.title             "Selecionar perfil">

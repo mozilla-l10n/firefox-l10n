@@ -5,7 +5,7 @@
 
 
 <!ENTITY historyWindowTitle.label       "Histórico">
-<!ENTITY menuBar.tooltip                "Barra de Menu">
+<!ENTITY menuBar.tooltip                "Barra de menu">
 <!ENTITY searchBar.tooltip              "Barra de pesquisa">
 
 <!ENTITY search.placeholder             "Pesquisar no histórico">
@@ -19,7 +19,7 @@
 <!ENTITY view.groupBy.label             "Agrupar por">
 <!ENTITY view.groupBy.accesskey         "g">
 
-<!ENTITY view.unsorted.label            "Não ordenado">
+<!ENTITY view.unsorted.label            "Não ordenar">
 <!ENTITY view.unsorted.accesskey        "r">
 <!ENTITY view.sortAscending.label       "Ordem de A > Z">
 <!ENTITY view.sortAscending.accesskey   "A">

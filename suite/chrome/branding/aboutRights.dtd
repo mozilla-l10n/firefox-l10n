@@ -46,7 +46,7 @@
 <!ENTITY rights2.webservices-c ". Outras funcionalidades e serviços podem ser desativados nas preferências da aplicação.">
 <!-- add-on related points for branded builds -->
 
-<!ENTITY rights.addons-a "Serviços de Extras: ">
+<!ENTITY rights.addons-a "Serviços de extras: ">
 <!ENTITY rights.addons-b "Por definição, o &brandShortName; irá sugerir extras na página &view.discover.label; e procurar por atualizações em intervalos regulares. Se quiser desativar estas funcionalidades para evitar a comunicação de informação sobre extras instalados para o servidor, siga estes passos:">
 <!ENTITY rights.addons-term1 "Abrir preferências da aplicação">
 <!ENTITY rights.addons-term2 "Selecionar o painel &smart.label; na categoria &advance.label;">

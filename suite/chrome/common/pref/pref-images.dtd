@@ -4,7 +4,7 @@
 
 <!ENTITY pref.images.title              "Imagens">
 
-<!ENTITY imageBlocking.label            "Política de aceitação de Imagem">
+<!ENTITY imageBlocking.label            "Política de aceitação de imagem">
 <!--LOCALIZATION NOTE (onStartLegend.label): Don't translate "&brandShortName;".
     Place "&brandShortName;" in the phrase where the name of the application should
 	 appear

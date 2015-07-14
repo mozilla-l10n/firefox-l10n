@@ -11,7 +11,7 @@
 <!ENTITY openProgressDialog.accesskey   "o">
 <!ENTITY openDM.label                   "Abrir o gestor de descargas">
 <!ENTITY openDM.accesskey               "g">
-<!ENTITY flashWhenOpen.label            "Piscar apenas o gestor de transferências se já estiver aberto">
+<!ENTITY flashWhenOpen.label            "Apenas piscar se o gestor de transferências já estiver aberto">
 <!ENTITY flashWhenOpen.accesskey        "f">
 
 <!ENTITY downloadLocation.label         "Ao guardar um ficheiro">

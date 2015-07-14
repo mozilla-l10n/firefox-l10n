@@ -61,7 +61,7 @@
 <!ENTITY view.sortBy.label               "Ordenar por">
 <!ENTITY view.sortBy.accesskey           "r">
 
-<!ENTITY view.unsorted.label             "Não ordenado">
+<!ENTITY view.unsorted.label             "Não ordenar">
 <!ENTITY view.unsorted.accesskey         "d">
 <!ENTITY view.sortAscending.label        "Ordenar A > Z">
 <!ENTITY view.sortAscending.accesskey    "A">
@@ -86,5 +86,5 @@
 <!ENTITY cmd.goToDownloadPage.accesskey  "I">
 <!ENTITY cmd.copyDownloadLink.label      "Copiar ligação da descarga">
 <!ENTITY cmd.copyDownloadLink.accesskey  "l">
-<!ENTITY cmd.properties.label            "Propriedades">
+<!ENTITY cmd.properties.label            "Propriedades…">
 <!ENTITY cmd.properties.accesskey        "s">

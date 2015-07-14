@@ -16,7 +16,7 @@
 <!ENTITY manageSubscriptions.accesskey "G">
 <!-- entities from rss.rdf -->
 
-<!ENTITY feeds.accountName "Blogs e Fontes">
+<!ENTITY feeds.accountName "Blogues e fontes">
 <!ENTITY feeds.wizardShortName "Fontes">
-<!ENTITY feeds.wizardLongName "Blogs e Fontes de notícias">
+<!ENTITY feeds.wizardLongName "Blogues e fontes">
 <!ENTITY feeds.wizardLongName.accesskey "F">

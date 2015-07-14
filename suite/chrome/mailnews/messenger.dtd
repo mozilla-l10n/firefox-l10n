@@ -94,7 +94,7 @@
 <!ENTITY selectThreadCmd.key "a">
 <!ENTITY selectFlaggedCmd.label "Mensagens marcadas">
 <!ENTITY selectFlaggedCmd.accesskey "a">
-<!ENTITY folderPropsCmd.label "Propriedades...">
+<!ENTITY folderPropsCmd.label "Propriedades…">
 <!ENTITY folderPropsFolderCmd.label "Propriedades da pasta…">
 <!ENTITY folderPropsNewsgroupCmd.label "Propriedades do grupo de notícias…">
 <!ENTITY folderPropsCmd.accesskey "o">
@@ -114,7 +114,7 @@
 
 <!ENTITY showMessengerToolbarCmd.label "Barra de correio">
 <!ENTITY showMessengerToolbarCmd.accesskey "a">
-<!ENTITY showSearchToolbarCmd.label "Barra de procura">
+<!ENTITY showSearchToolbarCmd.label "Barra de pesquisa">
 <!ENTITY showSearchToolbarCmd.accesskey "e">
 <!ENTITY showTabsToolbarCmd.label "Barra de separadores">
 <!ENTITY showTabsToolbarCmd.accesskey "s">
@@ -326,7 +326,7 @@
 <!ENTITY killThreadMenu.label "Ignorar tópico">
 <!ENTITY killThreadMenu.accesskey "I">
 <!ENTITY killThreadMenu.key "k">
-<!ENTITY killSubthreadMenu.label "Ignorar sub-tópico">
+<!ENTITY killSubthreadMenu.label "Ignorar subtópico">
 <!ENTITY killSubthreadMenu.accesskey "s">
 <!ENTITY killSubthreadMenu.key "k">
 <!ENTITY watchThreadMenu.label "Monitorizar tópico">
@@ -334,7 +334,7 @@
 <!ENTITY watchThreadMenu.key "w">
 <!ENTITY fileHereMenu.label "Ficheiro aqui">
 <!ENTITY fileHereMenu.accesskey "h">
-<!ENTITY copyHereMenu.label "Copiar Aqui">
+<!ENTITY copyHereMenu.label "Copiar aqui">
 <!ENTITY copyHereMenu.accesskey "C">
 <!ENTITY tagMenu.label "Etiqueta">
 <!ENTITY tagMenu.accesskey "q">
@@ -365,7 +365,7 @@
 <!ENTITY markAsNotPhishCmd.label "Como não sendo fraude">
 <!ENTITY markAsNotPhishCmd.accesskey "s">
 <!ENTITY markAsNotPhishCmd.key "p">
-<!ENTITY openFeedMessage.label "Abrir mensagem de fonte">
+<!ENTITY openFeedMessage.label "Abrir mensagem da fonte">
 <!ENTITY openFeedMessage.accesskey "o">
 <!ENTITY openFeedWebPageInWindow.label "Página web em nova janela">
 <!ENTITY openFeedWebPageInWindow.accesskey "w">
@@ -378,9 +378,9 @@
 <!ENTITY searchMailCmd.label "Pesquisar mensagens…">
 <!ENTITY searchMailCmd.accesskey "m">
 <!ENTITY searchMailCmd.key "s">
-<!ENTITY searchAddressesCmd.label "Procurar endereços...">
+<!ENTITY searchAddressesCmd.label "Pesquisar endereços…">
 <!ENTITY searchAddressesCmd.accesskey "s">
-<!ENTITY filtersCmd.label "Filtros de mensagem...">
+<!ENTITY filtersCmd.label "Filtros de mensagem…">
 <!ENTITY filtersCmd.accesskey "F">
 <!ENTITY filtersApply.label "Executar filtros na pasta">
 <!ENTITY filtersApply.accesskey "r">
@@ -415,7 +415,7 @@
 <!ENTITY goBackButton.label "Recuar">
 <!ENTITY goForwardButton.label "Avançar">
 <!ENTITY deleteButton.label "Eliminar">
-<!ENTITY undeleteButton.label "Não Eliminar">
+<!ENTITY undeleteButton.label "Não eliminar">
 <!ENTITY markButton.label "Marcar">
 <!ENTITY stopButton.label "Parar">
 <!ENTITY junkButton.label "Lixo eletrónico">
@@ -483,7 +483,7 @@
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY contextSaveAs.label "Guardar como...">
 <!ENTITY contextSaveAs.accesskey "u">
-<!ENTITY contextPrint.label "Imprimir...">
+<!ENTITY contextPrint.label "Imprimir…">
 <!ENTITY contextPrint.accesskey "I">
 <!ENTITY contextPrintPreview.label "Pré-visualizar impressão">
 <!ENTITY contextPrintPreview.accesskey "v">
@@ -513,20 +513,20 @@
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "c">
 <!ENTITY folderContextMarkMailFolderRead.label "Marcar pasta como lida">
 <!ENTITY folderContextMarkMailFolderRead.accesskey "c">
-<!ENTITY folderContextNew.label "Nova sub-pasta...">
+<!ENTITY folderContextNew.label "Nova subpasta...">
 <!ENTITY folderContextNew.accesskey "N">
-<!ENTITY folderContextSubscribe.label "Subscrever...">
+<!ENTITY folderContextSubscribe.label "Subscrever…">
 <!ENTITY folderContextSubscribe.accesskey "b">
-<!ENTITY folderContextSearchMessages.label "Pesquisar mensagens...">
+<!ENTITY folderContextSearchMessages.label "Pesquisar mensagens…">
 <!ENTITY folderContextSearchMessages.accesskey "s">
-<!ENTITY folderContextProperties.label "Propriedades...">
+<!ENTITY folderContextProperties.label "Propriedades…">
 <!ENTITY folderContextProperties.accesskey "P">
-<!ENTITY folderContextSettings.label "Definições">
+<!ENTITY folderContextSettings.label "Definições…">
 <!ENTITY folderContextSettings.accesskey "e">
 <!-- focusSearchInput.key also used by addressbook -->
 
 <!ENTITY focusSearchInput.key "k">
-<!ENTITY advancedButton.label "Avançado...">
+<!ENTITY advancedButton.label "Avançado…">
 <!ENTITY advancedButton.accesskey "A">
 <!ENTITY searchButton.label "Pesquisar mensagens…">
 <!ENTITY searchButton.accesskey "s">

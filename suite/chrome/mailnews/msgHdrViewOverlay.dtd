@@ -19,12 +19,12 @@
 <!ENTITY dateField.label "Data: ">
 <!ENTITY userAgentField.label "Agente de utilizador: ">
 <!ENTITY referencesField.label "Referências: ">
-<!ENTITY messageIdField.label "ID da Mensagem: ">
+<!ENTITY messageIdField.label "ID da mensagem: ">
 <!ENTITY inReplyToField.label "Em-Resposta-Para: ">
 <!ENTITY originalWebsite.label "Página web: ">
 
-<!ENTITY editMessage.label                 "Editar Rascunho...">
-<!ENTITY editMessage.accesskey             "R">
+<!ENTITY editMessage.label                 "Editar rascunho...">
+<!ENTITY editMessage.accesskey             "r">
 
 <!ENTITY attachmentsTree.label             "Anexos:">
 <!ENTITY attachmentsTree.accesskey         "x">
@@ -42,5 +42,5 @@
 <!ENTITY saveAllAttachmentsCmd.accesskey   "u">
 <!ENTITY detachAllAttachmentsCmd.label     "Separar todos...">
 <!ENTITY detachAllAttachmentsCmd.accesskey "e">
-<!ENTITY deleteAllAttachmentsCmd.label     "Apagar Tudo...">
+<!ENTITY deleteAllAttachmentsCmd.label     "Apagar tudo…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey "p">

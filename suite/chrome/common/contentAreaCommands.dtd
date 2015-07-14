@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Context Menu -->
 
-<!ENTITY popupWindowRejectCmd.label     "Rejeitar janelas de popup deste sítio">
+<!ENTITY popupWindowRejectCmd.label     "Rejeitar janelas emergentes deste sítio">
 <!ENTITY popupWindowRejectCmd.accesskey "o">
 <!ENTITY popupWindowAllowCmd.label      "Permitir janelas emergentes deste sítio">
 <!ENTITY popupWindowAllowCmd.accesskey  "o">
@@ -23,7 +23,7 @@
 <!ENTITY keywordfield.accesskey       "q">
 <!ENTITY showOnlyThisFrameCmd.label     "Mostrar apenas esta moldura">
 <!ENTITY showOnlyThisFrameCmd.accesskey "a">
-<!ENTITY goBackCmd.label              "Retroceder">
+<!ENTITY goBackCmd.label              "Recuar">
 <!ENTITY goBackCmd.accesskey          "R">
 <!ENTITY goForwardCmd.label           "Avançar">
 <!ENTITY goForwardCmd.accesskey       "A">
@@ -36,7 +36,7 @@
 <!ENTITY stopCmd.accesskey            "P">
 <!ENTITY reloadFrameCmd.label         "Recarregar moldura">
 <!ENTITY reloadFrameCmd.accesskey     "c">
-<!ENTITY viewPartialSourceForSelectionCmd.label "Ver fonte da selecção">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Ver fonte da seleção">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Ver fonte MathML">
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Ver código fonte da página">
@@ -47,7 +47,7 @@
 <!ENTITY viewPageInfoCmd.accesskey    "i">
 <!ENTITY viewFrameInfoCmd.label       "Ver informação da moldura">
 <!ENTITY viewFrameInfoCmd.accesskey   "i">
-<!ENTITY fitImageCmd.label            "Adequar imagem à janela">
+<!ENTITY fitImageCmd.label            "Ajustar imagem à janela">
 <!ENTITY fitImageCmd.accesskey        "j">
 <!ENTITY reloadImageCmd.label         "Recarregar imagem">
 <!ENTITY reloadImageCmd.accesskey     "e">
@@ -57,7 +57,7 @@
 <!ENTITY viewVideoCmd.accesskey       "d">
 <!ENTITY viewBGImageCmd.label         "Ver imagem de fundo">
 <!ENTITY viewBGImageCmd.accesskey     "f">
-<!ENTITY setDesktopBackgroundCmd.label     "Definir como imagem de fundo do ambiente de trabalho">
+<!ENTITY setDesktopBackgroundCmd.label     "Definir como imagem de fundo…">
 <!ENTITY setDesktopBackgroundCmd.accesskey "D">
 <!ENTITY bookmarkPageCmd.label        "Adicionar página aos marcadores">
 <!ENTITY bookmarkPageCmd.accesskey    "m">
@@ -86,11 +86,11 @@
 <!ENTITY saveAudioCmd.accesskey       "u">
 <!ENTITY copyLinkCmd.label            "Copiar localização da ligação">
 <!ENTITY copyLinkCmd.accesskey        "C">
-<!ENTITY copyImageCmd.label           "Copiar Imagem">
+<!ENTITY copyImageCmd.label           "Copiar imagem">
 <!ENTITY copyImageCmd.accesskey       "p">
-<!ENTITY copyVideoURLCmd.label        "Copiar localização de vídeo">
+<!ENTITY copyVideoURLCmd.label        "Copiar localização do vídeo">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
-<!ENTITY copyAudioURLCmd.label        "Copiar localização de áudio">
+<!ENTITY copyAudioURLCmd.label        "Copiar localização do áudio">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY metadataCmd.label            "Propriedades">
 <!ENTITY metadataCmd.accesskey        "P">

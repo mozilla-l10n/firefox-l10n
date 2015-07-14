@@ -14,7 +14,7 @@
 <!ENTITY syncTypeNews.accesskey "n">
 <!ENTITY sendMessage.label "Enviar mensagens por enviar">
 <!ENTITY sendMessage.accesskey "e">
-<!ENTITY workOffline.label "Trabalhar offline assim que terminar de transferir e/ou sincronizar">
+<!ENTITY workOffline.label "Trabalhar offline assim que terminar de descarregar e/ou sincronizar">
 <!ENTITY workOffline.accesskey "o">
 <!ENTITY selectButton.label "Selecione...">
 <!ENTITY selectButton.accesskey "S">

@@ -23,7 +23,7 @@
 <!ENTITY accel.emacs_conflict           "accel,shift">
 <!-- Help viewer -->
 
-<!ENTITY openHelpCmd.label              "Tópicos da ajuda">
+<!ENTITY openHelpCmd.label              "Tópicos de ajuda">
 <!ENTITY openHelpCmd.accesskey          "T">
 <!ENTITY openHelpCmd.key                "VK_F1">
 <!-- Key labels, for mousewheel prefs -->

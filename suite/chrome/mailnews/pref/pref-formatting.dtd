@@ -15,13 +15,13 @@
 <!ENTITY override.label               "Pode ultrapassar estas definições para mensagens individuais, usando o menu Opções ao criar a mensagem.">
 <!-- Html and Plain Text Domains  -->
 
-<!ENTITY domain.title                 "Domínios HTML e Texto">
+<!ENTITY domain.title                 "Domínios HTML e texto">
 <!ENTITY domaindesc.label             "Quando envia uma mensagem para um endereço com um dos nomes de domínio listados abaixo, o correio envia a mensagem automaticamente no formato pré-definido (texto formatado ou texto simples).">
 <!ENTITY HTMLdomaintitle.label        "Domínio HTML">
 <!ENTITY HTMLdomaintitle.accesskey    "M">
-<!ENTITY PlainTexttitle.label         "Domínios formato de texto">
+<!ENTITY PlainTexttitle.label         "Domínios em texto">
 <!ENTITY PlainTexttitle.accesskey     "D">
-<!ENTITY AddButton.label              "Adicionar">
+<!ENTITY AddButton.label              "Adicionar…">
 <!ENTITY AddHtmlDomain.accesskey      "A">
 <!ENTITY AddPlainText.accesskey       "d">
 <!ENTITY DeleteButton.label           "Eliminar">

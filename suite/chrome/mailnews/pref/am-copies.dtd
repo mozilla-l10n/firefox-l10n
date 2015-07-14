@@ -29,20 +29,20 @@
 <!ENTITY archivesTitle.label "Arquivos de mensagens">
 <!ENTITY keepArchives.label "Manter os arquivos de mensagens em:">
 <!ENTITY keepArchives.accesskey "M">
-<!ENTITY archiveHierarchyButton.label "Opções dos arquivos…">
+<!ENTITY archiveHierarchyButton.label "Opções d3 arquivos…">
 <!ENTITY archiveHierarchyButton.accesskey "a">
 <!ENTITY archivesFolderOn.label "Pasta de &quot;Arquivos&quot; em:">
 <!ENTITY archivesFolderOn.accesskey "q">
 <!ENTITY archiveInOtherFolder.label "Outro:">
 <!ENTITY archiveInOtherFolder.accesskey "r">
-<!ENTITY specialFolders.label "Rascunhos e papéis de carta">
-<!ENTITY keepDrafts.label "Guardar os rascunhos em:">
+<!ENTITY specialFolders.label "Rascunhos e modelos">
+<!ENTITY keepDrafts.label "Guardar rascunhos em:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "Pasta &quot;Rascunhos&quot; em:">
 <!ENTITY draftsFolderOn.accesskey "c">
 <!ENTITY draftInOtherFolder.label "Outro:">
 <!ENTITY draftInOtherFolder.accesskey "t">
-<!ENTITY keepTemplates.label "Guardar os papéis de carta em:">
+<!ENTITY keepTemplates.label "Guardar modelos em:">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templatesFolderOn.label "Pasta &quot;Modelos&quot; em:">
 <!ENTITY templatesFolderOn.accesskey "m">

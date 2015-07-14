@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  managecerts.caption      "Gerir Certificados">
+<!ENTITY  managecerts.caption      "Gerir certificados">
 <!ENTITY  managecerts.text         "Utilize o gestor de certificados para gerir os seus certificados pessoais, asssim como os de outras pessoas e autoridades de segurança.">
-<!ENTITY  managecerts.button       "Gerir Certificados…">
+<!ENTITY  managecerts.button       "Gerir certificados…">
 <!ENTITY  managecerts.accesskey    "r">
 <!ENTITY  managedevices.caption    "Gerir dispositivos de segurança">
 <!ENTITY  managedevices.text       "Utilize este botão para gerir os seus dispositivos de segurança, tais como smart cards.">

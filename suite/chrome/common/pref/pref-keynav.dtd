@@ -6,7 +6,7 @@
 <!ENTITY tabNavigationBehavior.label "Tecla de navegação por separadores">
 <!ENTITY tabNavigationLinks.label "Ligações">
 <!ENTITY tabNavigationLinks.accesskey "L">
-<!ENTITY tabNavigationForms.label "Botões, botões de rádio, caixas de seleção e listas de seleção">
+<!ENTITY tabNavigationForms.label "Botões, botões de seleção, caixas de verificação e listas de seleção">
 <!ENTITY tabNavigationForms.accesskey "B">
 <!ENTITY tabNavigationTextboxes.label "Nota: caixas de texto e regiões deslocáveis fazem sempre parte da ordem dos separadores.">
 <!ENTITY tabNavigationDesc.label "Quando Tab ou Shift+Tab é carregado, mover entre:">

@@ -16,7 +16,7 @@
 <!ENTITY hideThisAppCmd.label           "Ocultar o &brandShortName;">
 <!ENTITY hideThisAppCmd.key             "O">
 <!ENTITY hideThisAppCmd.modifiers       "accel">
-<!ENTITY hideOtherAppsCmd.label         "Ocultar outros">
+<!ENTITY hideOtherAppsCmd.label         "Ocultar outras">
 <!ENTITY hideOtherAppsCmd.key           "H">
 <!ENTITY hideOtherAppsCmd.modifiers     "accel,alt">
 <!ENTITY showAllAppsCmd.label           "Mostrar tudo">

@@ -15,7 +15,7 @@
 <!ENTITY  selectall.accesskey    "t">
 <!ENTITY  openHelpMac.key        "?">
 <!ENTITY  closeWindow.key        "w">
-<!ENTITY  copyLinks.label           "Copiar ligação(ões)">
+<!ENTITY  copyLinks.label           "Copiar ligações">
 <!ENTITY  copyLinks.accesskey       "l">
 <!ENTITY  openInNewTab.label        "Abrir em novo separador">
 <!ENTITY  openInNewTab.accesskey    "s">
@@ -87,9 +87,9 @@
 <!ENTITY  permUseDefault        "Utilizar predefinições">
 <!ENTITY  permAskAlways         "Perguntar sempre">
 <!ENTITY  permAllow             "Permitir">
-<!ENTITY  permAllowSession      "permitir para a sessão">
+<!ENTITY  permAllowSession      "Permitir para a sessão">
 <!ENTITY  permBlock             "Bloquear">
-<!ENTITY  permissionsFor        "Permissões ara:">
+<!ENTITY  permissionsFor        "Permissões para:">
 <!ENTITY  permImage             "Carregar imagens">
 <!ENTITY  permPopup             "Abrir janelas emergentes">
 <!ENTITY  permCookie            "Definir cookies">
@@ -105,17 +105,17 @@
 <!ENTITY  securityView.unknown   "Desconhecido">
 
 
-<!ENTITY  securityView.identity.header   "Identificar sítio web">
+<!ENTITY  securityView.identity.header   "Identidade do sítio web">
 <!ENTITY  securityView.identity.owner    "Proprietário:">
 <!ENTITY  securityView.identity.domain   "Sítio web:">
 <!ENTITY  securityView.identity.verifier "Verificado por:">
 
-<!ENTITY  securityView.privacy.header                   "Privacidade e Histórico">
+<!ENTITY  securityView.privacy.header                   "Privacidade e histórico">
 <!ENTITY  securityView.privacy.history                  "Já visitei este sítio hoje?">
 <!ENTITY  securityView.privacy.cookies                  "Este sítio web está a guardar informação (cookies) no meu computador?">
 <!ENTITY  securityView.privacy.viewCookies              "Mostrar cookies">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
-<!ENTITY  securityView.privacy.passwords                "Guardei algumas palavras-passe para este sítio web?">
+<!ENTITY  securityView.privacy.passwords                "Existem palavras-passe guardadas para este sítio web?">
 <!ENTITY  securityView.privacy.viewPasswords            "Ver palavras-passe guardadas">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "u">
 

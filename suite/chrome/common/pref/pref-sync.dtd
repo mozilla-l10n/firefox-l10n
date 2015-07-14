@@ -18,9 +18,9 @@
 <!ENTITY resetPass.accesskey          "R">
 <!-- Manage Account -->
 
-<!ENTITY manageAccount.label          "Gerir Conta">
+<!ENTITY manageAccount.label          "Gerir conta">
 <!ENTITY manageAccount.accesskey      "a">
-<!ENTITY viewQuota.label              "Ver Quota">
+<!ENTITY viewQuota.label              "Ver quota">
 <!ENTITY viewQuota.accesskey          "V">
 <!ENTITY changePassword.label         "Mudar palavra-passe">
 <!ENTITY changePassword.accesskey     "M">
@@ -52,5 +52,5 @@
 <!ENTITY engine.prefs.accesskey     "P">
 <!-- Footer stuff -->
 
-<!ENTITY prefs.tosLink.label        "Termos de Serviço">
-<!ENTITY prefs.ppLink.label         "Política de Privacidade">
+<!ENTITY prefs.tosLink.label        "Termos do serviço">
+<!ENTITY prefs.ppLink.label         "Política de privacidade">

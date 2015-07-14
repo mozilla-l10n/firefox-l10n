@@ -5,7 +5,7 @@
 
 <!ENTITY pref.advanced.title              "Avançado">
 
-<!ENTITY systemPref.caption               "Preferências do Sistema">
+<!ENTITY systemPref.caption               "Preferências do sistema">
 <!ENTITY systemPrefCheck.label            "Utilizar preferências do sistema">
 <!ENTITY systemPrefCheck.accesskey        "U">
 <!ENTITY systemPref.desc                  "Com esta opção, o &brandShortName; utiliza as preferências do sistema. Estas definições do sistema sobrepõem-se às preferências do &brandShortName;.">

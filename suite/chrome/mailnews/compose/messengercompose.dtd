@@ -51,7 +51,7 @@
 
 <!ENTITY showComposeToolbarCmd.label "Barra de correio">
 <!ENTITY showComposeToolbarCmd.accesskey "o">
-<!ENTITY showFormatToolbarCmd.label "Barra de ferramentas de formatação">
+<!ENTITY showFormatToolbarCmd.label "Barra de formatação">
 <!ENTITY showFormatToolbarCmd.accesskey "f">
 <!-- Format menu items -->
 
@@ -113,7 +113,7 @@
 <!-- We already inherit &menuBar.tooltip and &mailToolbar.tooltip from messenger.dtd -->
 
 <!ENTITY addressBar.tooltip "Barra de endereço">
-<!ENTITY formatToolbar.tooltip "Barra de ferramentas de formatação">
+<!ENTITY formatToolbar.tooltip "Barra de formatação">
 <!ENTITY sendButton.tooltip "Enviar esta mensagem agora"> 
 <!ENTITY sendlaterButton.tooltip "Enviar esta mensagem mais tarde"> 
 <!ENTITY addressButton.tooltip "Selecione um destinatário de um dos livros de endereços"> 
@@ -124,7 +124,7 @@
 
 <!ENTITY openAttachment.label "Abrir">
 <!ENTITY openAttachment.accesskey "A">
-<!ENTITY renameAttachment.label "Mudar Nome…">
+<!ENTITY renameAttachment.label "Mudar nome…">
 <!ENTITY renameAttachment.accesskey "M">
 <!ENTITY deleteAttachment.accesskey "l">
 <!ENTITY selectAllAttachments.accesskey "t">
