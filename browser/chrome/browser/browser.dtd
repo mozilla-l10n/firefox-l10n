@@ -303,7 +303,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "ม">
 <!ENTITY newPrivateWindow.label     "หน้าต่างท่องเว็บแบบส่วนตัวใหม่">
 <!ENTITY newPrivateWindow.accesskey "น">
-
+<!ENTITY newNonRemoteWindow.label   "หน้าต่าง Non-e10s ใหม่">
 
 <!ENTITY editMenu.label         "แก้ไข"> 
 <!ENTITY editMenu.accesskey       "ก"> 
@@ -672,10 +672,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label                   "ยกเลิก">
 <!ENTITY editBookmark.removeBookmark.accessKey       "ล">
 
+<!ENTITY identity.connectionSecure "การเชื่อมต่อนิรภัย">
+<!ENTITY identity.connectionNotSecure "การเชื่อมต่อไม่นิรภัย">
 
 
 
-
+<!ENTITY identity.moreInfoLinkText2 "ข้อมูลเพิ่มเติม">
 
 <!ENTITY identity.permissions "การอนุญาต">
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -850,6 +852,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY readingList.sidebar.add.tooltip          "เพิ่มหน้านี้เข้ารายการอ่านของคุณ">
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 
-
-
-
+<!ENTITY saveToPocketCmd.label     "บันทึกหน้าไปยัง Pocket">
+<!ENTITY saveToPocketCmd.accesskey "k">
+<!ENTITY saveLinkToPocketCmd.label     "บันทึกลิงก์ไปยัง Pocket">
+<!ENTITY saveLinkToPocketCmd.accesskey "ป">
+<!ENTITY pocketMenuitem.label      "ดูรายการ Pocket">
