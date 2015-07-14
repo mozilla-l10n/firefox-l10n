@@ -82,7 +82,7 @@
 <!ENTITY saveImageCmd.accesskey       "i">
 <!ENTITY saveVideoCmd.label           "Salvar vídeo como…">
 <!ENTITY saveVideoCmd.accesskey       "v">
-<!ENTITY saveAudioCmd.label           "Salvar audio como…">
+<!ENTITY saveAudioCmd.label           "Salvar áudio como…">
 <!ENTITY saveAudioCmd.accesskey       "v">
 <!ENTITY copyLinkCmd.label            "Copiar endereço do link">
 <!ENTITY copyLinkCmd.accesskey        "o">
@@ -90,8 +90,8 @@
 <!ENTITY copyImageCmd.accesskey       "r">
 <!ENTITY copyVideoURLCmd.label        "Copiar localização do vídeo">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
-<!ENTITY copyAudioURLCmd.label        "Copiar localização do audio">
-<!ENTITY copyAudioURLCmd.accesskey    "o">
+<!ENTITY copyAudioURLCmd.label        "Copiar localização do áudio">
+<!ENTITY copyAudioURLCmd.accesskey    "l">
 <!ENTITY metadataCmd.label            "Propriedades do objeto">
 <!ENTITY metadataCmd.accesskey        "t">
 <!ENTITY copyEmailCmd.label           "Copiar email">

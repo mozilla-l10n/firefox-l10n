@@ -7,7 +7,7 @@
 
 <!ENTITY pref.cache.title                "Cache">
 <!ENTITY pref.cache.caption              "Opções">
-<!ENTITY cachePara                       "O cache mantém em disco cópia das páginas visitadas freqüentemente. (Clicar em Recarregar sempre exibe a versão mais recente da página.)">
+<!ENTITY cachePara                       "O cache mantém em disco cópia das páginas visitadas frequentemente. (Clicar em Recarregar sempre exibe a versão mais recente da página.)">
 <!ENTITY cacheCheck.label                "Deixar o &brandShortName; gerenciar o tamanho do meu cache">
 <!ENTITY cacheCheck.accesskey            "D">
 <!ENTITY diskCacheUpTo.label             "Usar no máximo">
