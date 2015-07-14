@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label "কি সিঙ্ক করতে হবে">
 <!ENTITY sync.configure.engines.sync.my.title.label "সিঙ্ক করুন আপনার...">
 <!ENTITY sync.configure.engines.title.bookmarks "বুকমার্কগুলি">
-<!ENTITY sync.configure.engines.title.passwords "পাসওয়ার্ডগুলি">
+<!ENTITY sync.configure.engines.title.passwords2 "লগ ইন গুলি">
 <!ENTITY sync.configure.engines.title.history "পূর্ববর্তী তথ্য">
 <!ENTITY sync.configure.engines.title.tabs "ট্যাবসমূহ">
 <!-- Common text -->
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "গোপনীয়তা সংক্রান্ত বিজ্ঞপ্তি">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label; তে স্বাগতম">
-<!ENTITY fxaccount_getting_started_description "ট্যাব, বুকমার্ক, পাসওয়ার্ড এবং অন্যান্য জিনিস সিঙ্ক করতে হলে সাইন ইন করুন।">
+<!ENTITY fxaccount_getting_started_description2 "ট্যাব, বুকমার্ক, পাসওয়ার্ড এবং অন্যান্য জিনিস সিঙ্ক করতে হলে সাইন ইন করুন।">
 <!ENTITY fxaccount_getting_started_get_started "শুরু করে দিন">
 <!ENTITY fxaccount_getting_started_old_firefox "&syncBrand.shortName.label; এর পুরানো সংস্করণ ব্যবহার করা হচ্ছে?">
 <!-- Localization note: the Firefox below should not change with the
@@ -212,7 +212,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating "আপনার নতুন Firefox অ্যাকাউন্টে সাইন ইন করবার জন্য ট্যাপ করুন।">
 <!ENTITY fxaccount_status_bookmarks "বুকমার্কসমূহ">
 <!ENTITY fxaccount_status_history "পূর্ববর্তী তথ্য">
-<!ENTITY fxaccount_status_passwords "পাসওয়ার্ডসমূহ">
+<!ENTITY fxaccount_status_passwords2 "লগ ইন গুলি">
 <!ENTITY fxaccount_status_tabs "উন্মুক্ত ট্যাবগুলি">
 <!ENTITY fxaccount_status_legal "আইনগত" >
 <!-- Localization note: when tapped, the following two strings link to

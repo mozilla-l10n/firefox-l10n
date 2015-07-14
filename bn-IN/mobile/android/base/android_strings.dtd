@@ -44,6 +44,10 @@
 <!ENTITY bookmark "বুকমার্ক">
 <!ENTITY bookmark_remove "বুকমার্ক মুছে ফেলুন">
 <!ENTITY bookmark_added "বুকমার্ক সংযুক্ত করা হয়েছে">
+<!-- Localization note (bookmark_already_added) : This string is
+     used as a label in a toast. It is the verb "to bookmark", not
+     the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "আগে থেকেই বুকমার্ক করা আছে">
 <!ENTITY bookmark_removed "বুকমার্ক মুছে ফেলা হয়েছে">
 <!ENTITY bookmark_updated "বুকমার্ক আপডেট করা অাছে">
 <!ENTITY bookmark_options "বিকল্প">
@@ -77,6 +81,7 @@
 
 <!ENTITY settings "সেটিংস">
 <!ENTITY settings_title "সেটিংস">
+<!ENTITY pref_category_input_options "ইনপুট বিকল্প">
 <!ENTITY pref_category_advanced "উন্নত">
 <!ENTITY pref_category_customize "কাস্টমাইজ করুন">
 <!ENTITY pref_category_customize_summary "হোম, অনুসন্ধান, ট্যাবসমূহ,আমদানি">
@@ -132,7 +137,7 @@
 <!ENTITY pref_category_display "প্রদর্শন">
 <!ENTITY pref_category_display_summary "লেখা,শিরোনাম,ফুলস্ক্রিন ব্রাউজিং">
 <!ENTITY pref_category_privacy_short "গোপনীয়তা">
-<!ENTITY pref_category_privacy_summary "পাসওয়ার্ড নিয়ন্ত্রণ, কুকি, ট্র‍্যাকিং, তথ্য">
+<!ENTITY pref_category_privacy_summary2 "পাসওয়ার্ড নিয়ন্ত্রণ, কুকি, ট্র‍্যাকিং, তথ্য">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "&brandShortName;FAQs সম্বন্ধিত, তথ্যের পছন্দ">
 <!ENTITY pref_category_datareporting "পছন্দসই তথ্য">
@@ -151,7 +156,9 @@
 <!ENTITY pref_category_devtools "ডেভলপার টুলসমূহ">
 <!ENTITY pref_developer_remotedebugging "দূরবর্তী ডিবাগিং">
 <!ENTITY pref_category_logins "লগ-ইন">
-<!ENTITY pref_remember_signons "পাসওয়ার্ড মনে রাখুন">
+<!ENTITY pref_remember_signons2 "লগিন মনে রাখা হোক">
+<!ENTITY pref_open_external_urls_privately_title "গোপন ব্রাউসিং এ লিঙ্ক খোলা হোক">
+<!ENTITY pref_open_external_urls_privately_summary "&brandShortName; এর সকল বহিঃস্থ লিঙ্ক যেগুলো খোলা হয়েছে">
 <!ENTITY pref_manage_logins "লগইন পরিচালনা">
 
 <!ENTITY pref_category_home "হোম">
@@ -189,11 +196,11 @@
 <!ENTITY pref_donottrack_title "ট্র্যাক করবেন না">
 <!ENTITY pref_donottrack_summary "&brandShortName; সাইট দের বলে যে আপনি ট্র্যাক হতে চান না">
 
-<!ENTITY tab_queue_toast_message2 "সারিটিতে ট্যাব করুন &brandShortName; নাম">
+<!ENTITY tab_queue_toast_message3 "সারিটিতে ট্যাব করুন &brandShortName; নাম">
 <!ENTITY tab_queue_toast_action "এখন খুলুন">
-
-
-
+<!ENTITY tab_queue_prompt_title "একাধিক লিঙ্ক খুলতে চাইছেন?">
+<!ENTITY tab_queue_prompt_text3 "আগামী বার &brandShortName; খোলার সময় অব্ধি এগুলি বাঁচিয়ে রাখুন">
+<!ENTITY tab_queue_prompt_tip_text "আপনি পরে সেটিংস থেকে এটি পাল্টাতে পারেন">
 <!ENTITY tab_queue_prompt_positive_action_button "সক্রিয়">
 <!ENTITY tab_queue_prompt_negative_action_button "এখনি নয়">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
@@ -244,10 +251,14 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled_summary "ওয়েবসাইট গুলি ভিডিও এবং অন্যান্য মিডিয়া নিজে থেকে চালু করবে নাকি তা নিয়ন্ত্রণ করুন">
 <!ENTITY pref_zoom_force_enabled "সর্বদা জুম সক্রিয় রাখুন">
 <!ENTITY pref_zoom_force_enabled_summary "ওভাররাইডকে জোর করুন যাতে আপনি সমস্ত পাতা জুম করতে পারেন">
+<!ENTITY pref_voice_input "Voice ইনপুট">
+<!ENTITY pref_voice_input_summary "শ্রুতলিপির অনুমোদন শিরোনামে দেওয়া হোক">
+<!ENTITY pref_qrcode_enabled "QR code পাঠক">
+<!ENTITY pref_qrcode_enabled_summary "QR scanner ke শিরোনামে অনুমতি দেওয়া হোক">
 
 <!ENTITY pref_use_master_password "মূখ্য পাসওয়ার্ড ব্যবহার">
 <!ENTITY pref_sync "সিঙ্ক">
-<!ENTITY pref_sync_summary "ট্যাবের বুকমার্ক সংকলন,পাসওয়ার্ডসমূহ,ব্রাউজিং ইতিহাসইতিহাস সিঙ্ক করুন">
+<!ENTITY pref_sync_summary2 "ট্যাবের বুকমার্ক সংকলন,পাসওয়ার্ডসমূহ,ব্রাউজিং ইতিহাসইতিহাস সিঙ্ক করুন">
 <!ENTITY pref_search_suggestions "অনুসন্ধান পরামর্শ দেখাও">
 <!ENTITY pref_import_android "অ্যান্ড্রয়েড থেকে ইম্পোর্ট করা হোক">
 <!ENTITY pref_import_android_summary "নেটিভ ব্রাউজার থেকে বুকমার্ক সংকলন এবং ব্রাউজিং ইতিহাস ইম্পোর্ট করুন">
@@ -255,11 +266,12 @@ size. -->
 <!ENTITY pref_private_data_searchHistory "অনুসন্ধানের ইতিহাস">
 <!ENTITY pref_private_data_formdata2 "পূর্ববর্তী তথ্য বানান">
 <!ENTITY pref_private_data_cookies2 "কুকিসমূহ এবং সক্রিয় লগইন গুলি">
-<!ENTITY pref_private_data_passwords "সংরক্ষিত পাসওয়ার্ডসমূহ">
+<!ENTITY pref_private_data_passwords2 "সংরক্ষিত লগিন">
 <!ENTITY pref_private_data_cache "ক্যাশে">
 <!ENTITY pref_private_data_offlineApps "অফ-লাইন ওয়েব-সাইটের তথ্য">
 <!ENTITY pref_private_data_siteSettings2 "সাইটের বৈশিষ্ট্যাবলী">
 <!ENTITY pref_private_data_downloadFiles2 "ডাউনলোডডাউনলোডসমূহ">
+<!ENTITY pref_private_data_syncedTabs "সিঙ্ক করা ট্যাবগুলি">
 
 
 <!ENTITY pref_about_firefox "&brandShortName; এর সম্পর্কে">
@@ -378,7 +390,12 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "ব্যবহারকারীর নাম">
 <!ENTITY doorhanger_login_edit_password_hint "পাসওয়ার্ড">
 <!ENTITY doorhanger_login_edit_toggle "পাসওয়ার্ড প্রদর্শন করা হবে">
-
+<!ENTITY doorhanger_login_edit_toast_error "লগিন সেভ করতে ব্যর্থ">
+<!ENTITY doorhanger_login_select_message "&formatS; থেকে পাসওয়ার্ড কপি করবেন কি ?">
+<!ENTITY doorhanger_login_select_toast_copy "ক্লিপবোর্ডে পাসওয়ার্ড কপি করা হয়েছে">
+<!ENTITY doorhanger_login_select_toast_copy_error "পাসওয়ার্ড কপি করা যাচ্ছে না">
+<!ENTITY doorhanger_login_select_action_text "অন্য আরেকটি লগিন নির্বাচন করুন">
+<!ENTITY doorhanger_login_select_title "থেকে পাসওয়ার্ড কপি করুন">
 
 <!ENTITY pref_titlebar_mode "শিরোনাম বার">
 <!ENTITY pref_titlebar_mode_title "পৃষ্ঠার শিরোনাম প্রদর্শন">
@@ -389,7 +406,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "সম্পূর্ণ স্ক্রিন জুড়ে ব্রাউজিং">
 <!ENTITY pref_scroll_title_bar_summary "&brandShortName; শিরোনাম বার কে লুকান যখন একটি পাতায় স্ক্রল করছেন">
 
-
+<!ENTITY pref_tab_queue_title2 "একাধিক লিঙ্ক খুলুন">
+<!ENTITY pref_tab_queue_summary3 "&brandShortName; খোলার পরবর্তী সময় পর্যন্ত তাদের সংরক্ষণ করুন">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -407,8 +425,10 @@ size. -->
 <!ENTITY site_settings_cancel       "বাতিল করুন">
 <!ENTITY site_settings_clear        "মুছে ফেলুন">
 <!ENTITY site_settings_no_settings  "মুছে ফেলার জন্য কোন সেটিংস নেই।">
+<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+     as possible. -->
 
-<!ENTITY reading_list_added "পঠন তালিকায় পৃষ্ঠাটি যুক্ত করা হল">
+<!ENTITY reading_list_added2 "তালিকা তে যোগ করা হল">
 <!ENTITY reading_list_removed "পঠন তালিকা থেকে পৃষ্ঠাটি মুছে ফেলা হল">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -437,7 +457,7 @@ size. -->
 <!ENTITY button_clear_data "তথ্য মুছে ফেলুন">
 <!ENTITY button_set "নির্ধারণ করুন">
 <!ENTITY button_clear "মুছে ফেলুন">
-<!ENTITY button_remember "Remember">
+<!ENTITY button_copy "কপি করুন">
 
 <!ENTITY firstrun_panel_title_welcome "সুস্বাগতম">
 
@@ -501,10 +521,6 @@ size. -->
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "নির্বাচিত ডিভাইস গুলি প্রকাশ করুন">
 
-<!ENTITY private_browsing_title "ব্যক্তিগত ব্রাউজিং ব্যবস্থা">
-<!ENTITY private_tabs_panel_empty_desc "আপনার ব্যক্তিগত ট্যাবগুলি এখানে দেখাবে। যদিও আমরা আপনার ব্রাউজিং ইতিহাস অথবা কুকিসমূহ, বুকমার্কসমূহ এবং ডাউনলোড করা ফাইল গুলি সংরক্ষণ করি না তবুও সেগুলি আপনার ডিভাইসে সংরক্ষিত থাকবে।">
-<!ENTITY private_tabs_panel_learn_more "আরো জানতে চান?">
-
 <!ENTITY remote_tabs_panel_moved_title "আমার ট্যাবগুলো কোথায় গেল?">
 <!ENTITY remote_tabs_panel_moved_desc "আমরা আপনার হোম পেজে একটি প্যানেলের মধ্যে অন্যান্য ডিভাইস থেকে আপনার ট্যাব স্থানান্তরিত করেছি যাতে করে সহজেই আপনি একটি নতুন ট্যাব খোলার সময় সেগুলো ব্যবহার করতে পারেন।">
 <!ENTITY remote_tabs_panel_moved_link "আমাকে আমার নতুন প্যানেলে নিয়ে যান।">
@@ -532,6 +548,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "এটি সঞ্চালনকারী">
 <!ENTITY identity_no_info "এই ওয়েব-সাইট দ্বারা পরিচিতি সংক্রান্ত তথ্য সরবরাহ করা হয় না।">
 <!ENTITY identity_not_encrypted "এই ওয়েব-সাইটের সাথে এনক্রিপশন সহ সংযোগ স্থাপন করা হয়নি।">
+<!ENTITY identity_encrypted "এনক্রিপ্ট করা হয়েছে">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "এই পৃষ্ঠা অনিরাপদ বিষয়বস্তু প্রদর্শন করছে।">
@@ -598,7 +615,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "এগিয়ে চলুন">
 <!ENTITY guest_session_dialog_cancel "বাতিল করুন">
 <!ENTITY new_guest_session_title "&brandShortName; এখন রিস্টার্ট হবে">
-<!ENTITY new_guest_session_text "যিনি এটি ব্যবহার করছেন তিনি আপনার কোনোরকম ব্যাক্তিগত তথ্য দেখতে পাবেন না (যেমন সংরক্ষিত পাসওয়ার্ড, ইতিহাস  কিম্বা বুকমার্কসমূহ)। \n\nWhen যখন গেস্ট এর কাজ শেষ হবে তখন তার ব্রাউসিং তথ্য মুছে যাবে এবং আপনার সেশান রিস্টোর হয়ে যাবে।">
+<!ENTITY new_guest_session_text2 "এটি ব্যবহার করে ব্যক্তি আপনার গেস্ট, সম্পন্ন করা হয় তাদের ব্রাউজিং ডেটা মুছে যাবে এবং আপনার সময় পুনরুদ্ধার করা হবে. (সংরক্ষিত লগইন, ইতিহাস বা বুকমার্কগুলি মত) আপনার ব্যক্তিগত ব্রাউজিং ডেটা কোন দেখতে পাবে \n\nWhen করা হবে না।">
 <!ENTITY guest_browsing_notification_title "অতিথি ব্রাউজিং সক্রিয় করা আছে">
 <!ENTITY guest_browsing_notification_text "প্রস্থান করতে এখানে চাপ দিন">
 
@@ -647,3 +664,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
 
 <!ENTITY find_matchcase "Aa">
+
+<!ENTITY intent_uri_cannot_open "লিঙ্ক খোলা যাচ্ছে না">

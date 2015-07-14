@@ -10,3 +10,6 @@
 <!ENTITY addonAction.disable                    "নিষ্ক্রিয় করুন">
 <!ENTITY addonAction.uninstall                  "আন-ইনস্টল করুন">
 <!ENTITY addonAction.undo                       "পূর্বাবস্থা">
+
+<!ENTITY addonUnsigned.message                  "&brandShortName;. দ্বারা এই অ্যাড অন টি কে যাচাই করা যায় নি">
+<!ENTITY addonUnsigned.learnMore                "আরও জানুন">
