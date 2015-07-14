@@ -26,10 +26,10 @@
 
 
 <!ENTITY  acceptCookies.label           "সাইট থেকে কুকি গ্রহণ করা হবে">
-<!ENTITY  acceptCookies.accesskey       "A">
+<!ENTITY  acceptCookies.accesskey       "স">
 
 <!ENTITY  acceptThirdParty.pre.label      "তৃতীয় পক্ষের কুকি গ্রহণ করুন:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "c">
+<!ENTITY  acceptThirdParty.pre.accesskey  "ত">
 <!ENTITY  acceptThirdParty.always.label   "সর্বদা">
 <!ENTITY  acceptThirdParty.never.label    "কখনই নয়">
 <!ENTITY  acceptThirdParty.visited.label  "পরিদর্শিত থেকে">
@@ -42,13 +42,13 @@
 <!ENTITY  askEachTime.label             "প্রতিবার জিজ্ঞাসা করা হবে">
 
 <!ENTITY  cookieExceptions.label        "ব্যতিক্রম...">
-<!ENTITY  cookieExceptions.accesskey    "E">
+<!ENTITY  cookieExceptions.accesskey    "ব">
 
 <!ENTITY  showCookies.label             "কুকি প্রদর্শন করা হবে...">
-<!ENTITY  showCookies.accesskey         "S">
+<!ENTITY  showCookies.accesskey         "ক">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; দ্বারা:">
-<!ENTITY  historyHeader.pre.accesskey      "w">
+<!ENTITY  historyHeader.pre.accesskey      "&amp;">
 <!ENTITY  historyHeader.remember.label     "পূর্ববর্তী তথ্য মনে রাখা হবে">
 <!ENTITY  historyHeader.dontremember.label "পূর্ববর্তী তথ্য কখনো মনে রাখা হবে না">
 <!ENTITY  historyHeader.custom.label       "পূর্ববর্তী তথ্য সম্বন্ধীয় স্বনির্ধারিত বৈশিষ্ট্য ব্যবহার করা হবে">
@@ -74,16 +74,16 @@
 <!ENTITY  dontrememberActions.post.label         "।">
 
 <!ENTITY  privateBrowsingPermanent2.label "ব্যক্তিগত ব্রাউজিং মোড সর্বদা ব্যবহার করা হবে">
-<!ENTITY  privateBrowsingPermanent2.accesskey "p">
+<!ENTITY  privateBrowsingPermanent2.accesskey "ব">
 
 <!ENTITY  rememberHistory2.label      "ব্রাউজিং ও ডাউনলোড সংক্রান্ত পূর্ববর্তী তথ্য মনে রাখা হবে">
-<!ENTITY  rememberHistory2.accesskey  "b">
+<!ENTITY  rememberHistory2.accesskey  "ব">
 
 <!ENTITY  rememberSearchForm.label       "অনুসন্ধান ও ফর্ম সংক্রান্ত পূর্ববর্তী তথ্য মনে রাখা হবে">
-<!ENTITY  rememberSearchForm.accesskey   "f">
+<!ENTITY  rememberSearchForm.accesskey   "অ">
 
 <!ENTITY  clearOnClose.label             "&brandShortName; বন্ধ করার সময় পূর্ববর্তী তথ্য মুছে ফেলা হবে">
-<!ENTITY  clearOnClose.accesskey         "r">
+<!ENTITY  clearOnClose.accesskey         "&amp;">
 
 <!ENTITY  clearOnCloseSettings.label     "বিবিধ বৈশিষ্ট্য…">
-<!ENTITY  clearOnCloseSettings.accesskey "t">
+<!ENTITY  clearOnCloseSettings.accesskey "ব">
