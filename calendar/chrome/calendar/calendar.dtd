@@ -30,7 +30,7 @@
    - task tree view. -->
 
 <!ENTITY calendar.unifinder.tree.done.label                "Completada">
-<!ENTITY calendar.unifinder.tree.done.tooltip2             "Ordenar por finalizaçao">
+<!ENTITY calendar.unifinder.tree.done.tooltip2             "Ordenar por finalização">
 <!ENTITY calendar.unifinder.tree.priority.label            "Prioridade">
 <!ENTITY calendar.unifinder.tree.priority.tooltip2         "Ordenar por prioridade">
 <!ENTITY calendar.unifinder.tree.title.label               "Título">
