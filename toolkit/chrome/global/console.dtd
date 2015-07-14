@@ -3,38 +3,35 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY errorConsole.title "Κονσόλα σφαλμάτων">
-<!ENTITY all.accesskey "λ">
-<!ENTITY all.label "Όλα">
-<!ENTITY clear.accesskey "θ">
-<!ENTITY clear.label "Εκκαθάριση">
-<!ENTITY closeCmd.commandkey "w">
-<!ENTITY copyCmd.accesskey "γ">
-<!ENTITY copyCmd.commandkey "C">
-<!ENTITY copyCmd.label "Αντιγραφή">
+
+<!ENTITY errFile.label   "Kώδικας:">
+<!ENTITY errLine.label   "Γραμμή:">
 <!ENTITY errColumn.label "Στήλη:">
-<!ENTITY errFile.label "Kώδικας:">
-<!ENTITY errLine.label "Γραμμή:">
-<!ENTITY errors.accesskey "Σ">
-<!ENTITY errors.label "Σφάλματα">
 
-<!ENTITY focus1.commandkey "l">
-<!ENTITY focus2.commandkey "d">
-<!ENTITY messages.accesskey "Μ">
-<!ENTITY messages.label "Μηνύματα">
-<!ENTITY sortFirst.accesskey "ρ">
-<!ENTITY sortFirst.label "Ταξινόμηση Πρώτο > Τελευταίο">
-<!ENTITY sortLast.accesskey "τ">
-<!ENTITY sortLast.label "Ταξινόμηση Τελευταίο > Πρώτο">
+<!ENTITY all.label          "Όλα">
+<!ENTITY all.accesskey      "λ">
+<!ENTITY errors.label       "Σφάλματα">
+<!ENTITY errors.accesskey   "Σ">
+<!ENTITY warnings.label     "Προειδοποιήσεις">
 <!ENTITY warnings.accesskey "δ">
-<!ENTITY warnings.label "Προειδοποιήσεις">
-
+<!ENTITY messages.label     "Μηνύματα">
+<!ENTITY messages.accesskey "Μ">
+<!ENTITY clear.label        "Εκκαθάριση">
+<!ENTITY clear.accesskey    "θ">
+<!ENTITY codeEval.label     "Κώδικας:">
 <!ENTITY codeEval.accesskey "δ">
 <!ENTITY evaluate.label     "Εκτίμηση">
 <!ENTITY evaluate.accesskey "σ">
-<!ENTITY codeEval.label     "Κώδικας:">
-
 <!ENTITY filter2.label      "Φίλτρο:">
 <!ENTITY filter2.accesskey  "Φ">
 
-
-
+<!ENTITY copyCmd.label       "Αντιγραφή">  
+<!ENTITY copyCmd.accesskey   "γ"> 
+<!ENTITY copyCmd.commandkey  "C"> 
+<!ENTITY sortFirst.label     "Ταξινόμηση Πρώτο > Τελευταίο">
+<!ENTITY sortFirst.accesskey "ρ">
+<!ENTITY sortLast.label      "Ταξινόμηση Τελευταίο > Πρώτο">
+<!ENTITY sortLast.accesskey  "τ">
+<!ENTITY closeCmd.commandkey "w">  
+<!ENTITY focus1.commandkey   "l">  
+<!ENTITY focus2.commandkey   "d">  

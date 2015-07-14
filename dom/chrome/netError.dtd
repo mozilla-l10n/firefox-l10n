@@ -59,14 +59,14 @@
 <!ENTITY proxyResolveFailure.title "Δεν βρέθηκε διαμεσολαβητής">
 <!ENTITY proxyResolveFailure.longDesc "<p>Η εφαρμογή είναι ρυθμισμένη να χρησιμοποιεί ένα διαμεσολαβητή, αλλά ο διαμεσολαβητής δεν βρέθηκε.</p><ul><li>Είναι σωστή η ρύθμιση του διαμεσολαβητή; Ελέγξτε τις ρυθμίσεις και προσπαθήστε ξανά.</li><li>Είναι ο υπολογιστής συνδεδεμένος σε ενεργό δίκτυο;</li><li>Ακόμα έχετε πρόβλημα; Συμβουλευτείτε το διαχειριστή του συστήματος ή τον πάροχο σας.</li></ul>">
 
-<!ENTITY redirectLoop.longDesc "Ο περιηγητής διέκοψε τη σύνδεση επειδή η σελίδα ανακατευθύνει στον εαυτό της με τέτοιο τρόπο που δεν επιτρέπει τη φόρτωση της σελίδας.">
 <!ENTITY redirectLoop.title "Σφάλμα Redirect Loop">
+<!ENTITY redirectLoop.longDesc "Ο περιηγητής διέκοψε τη σύνδεση επειδή η σελίδα ανακατευθύνει στον εαυτό της με τέτοιο τρόπο που δεν επιτρέπει τη φόρτωση της σελίδας.">
 
-<!ENTITY unknownSocketType.longDesc "Η σελίδα απάντησε στην αίτηση σύνδεσης με απρόσμενο τρόπο. Αυτό μπορεί να οφείλεται σε εσφαλμένη χρήση πρωτοκόλλου από το URL για τη συγκεκριμένη θύρα. ">
 <!ENTITY unknownSocketType.title "Σφάλμα άγνωστου Socket">
+<!ENTITY unknownSocketType.longDesc "Η σελίδα απάντησε στην αίτηση σύνδεσης με απρόσμενο τρόπο. Αυτό μπορεί να οφείλεται σε εσφαλμένη χρήση πρωτοκόλλου από το URL για τη συγκεκριμένη θύρα. ">
 
 <!ENTITY nssFailure2.title "Αποτυχία ασφαλούς σύνδεσης">
-<!ENTITY nssFailure2.longDesc "<p>Η σελίδα που προσπαθείτε να δείτε δεν μπορεί να εμφανιστεί επειδή δεν είναι δυνατή η πιστοποίηση της αυθεντικότητας των ληφθέντων δεδομένων..</p><ul><li>Επικοινωνήστε με τους ιδιοκτήτες της ιστοσελίδας για να τους πληροφορήσετε για το πρόβλημα.</li></ul>">
+<!ENTITY nssFailure2.longDesc2 "<p>Η σελίδα που προσπαθείτε να δείτε δεν μπορεί να εμφανιστεί επειδή δεν είναι δυνατή η πιστοποίηση της αυθεντικότητας των ληφθέντων δεδομένων.</p><ul><li>Επικοινωνήστε με τους ιδιοκτήτες της ιστοσελίδας για να τους πληροφορήσετε για το πρόβλημα.</li></ul>">
 
 <!ENTITY nssBadCert.title "Αποτυχία ασφαλούς σύνδεσης">
 <!ENTITY nssBadCert.longDesc2 "<ul>
@@ -104,5 +104,6 @@
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
      this inclusion needs to be intact for that approach to work correctly.
+     Please, try to keep this at the end of the file. -->
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;
