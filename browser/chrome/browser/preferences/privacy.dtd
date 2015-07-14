@@ -29,7 +29,7 @@
 <!ENTITY acceptCookies.accesskey "c">
 
 <!ENTITY  acceptThirdParty.pre.label "Povolit cookies třetích stran:">
-<!ENTITY  acceptThirdParty.pre.accesskey "i">
+<!ENTITY  acceptThirdParty.pre.accesskey "a">
 <!ENTITY  acceptThirdParty.always.label "Vždy">
 <!ENTITY  acceptThirdParty.never.label "Nikdy">
 <!ENTITY  acceptThirdParty.visited.label "Pouze navštívené">
