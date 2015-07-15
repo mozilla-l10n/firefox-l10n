@@ -9,33 +9,31 @@
 <!ENTITY acceptRemoteContent.accesskey "T">
 <!ENTITY remoteContentExceptions.label "Undantag…">
 <!ENTITY remoteContentExceptions.accesskey "U">
-<!ENTITY acceptRemoteContentInfo.label "Läs mer om integritetsfrågor i fjärrinnehåll">
+<!ENTITY acceptRemoteContentInfo.label "Läs mer om integritetsfrågor för fjärrinnehåll">
 
 <!-- Web Content -->
 <!ENTITY captionWebContent.label "Webbinnehåll">
 
-<!ENTITY acceptCookies.label "Acceptera kakor från webbplatser">
-<!ENTITY acceptCookies.accesskey "A">
-<!ENTITY acceptThirdParty.pre.label "Acceptera kakor från tredje part:">
-<!ENTITY acceptThirdParty.pre.accesskey "c">
+<!ENTITY keepHistory.label "Kom ihåg webbplatser och länkar som jag har besökt">
+<!ENTITY keepHistory.accesskey "K">
+<!ENTITY acceptCookies.label "Tillåt kakor från webbplatser">
+<!ENTITY acceptCookies.accesskey "T">
+<!ENTITY acceptThirdParty.pre.label "Tillåt tredjepartskakor:">
+<!ENTITY acceptThirdParty.pre.accesskey "r">
 <!ENTITY acceptThirdParty.always.label "Alltid">
 <!ENTITY acceptThirdParty.never.label "Aldrig">
 <!ENTITY acceptThirdParty.visited.label "Från besökta">
-<!ENTITY keepUntil.label "Behåll tills:">
+<!ENTITY keepUntil.label "Behålls tills:">
 <!ENTITY keepUntil.accesskey "B">
 <!ENTITY expire.label "de förfaller">
-<!ENTITY close.label "Jag stänger &brandShortName;">
+<!ENTITY close.label "&brandShortName; stängs">
 <!ENTITY askEachTime.label "fråga mig varje gång">
 <!ENTITY cookieExceptions.label "Undantag…">
 <!ENTITY cookieExceptions.accesskey "U">
 <!ENTITY showCookies.label "Visa kakor…">
 <!ENTITY showCookies.accesskey "V">
 
-<!ENTITY dntTrackingNopref.label2 "Berätta inte för webbplatser något om mina spårningsinställningar">
-<!ENTITY dntTrackingNopref.accesskey "e">
 <!ENTITY dntTrackingNotOkay.label2 "Berätta för webbplatser att jag inte vill spåras">
-<!ENTITY dntTrackingNotOkay.accesskey "i">
-<!ENTITY dntTrackingOkay.label2 "Berätta för webbplatser att jag vill spåras">
-<!ENTITY dntTrackingOkay.accesskey "v">
+<!ENTITY dntTrackingNotOkay.accesskey "n">
 <!ENTITY doNotTrackInfo.label "Läs mer om spårning">
 

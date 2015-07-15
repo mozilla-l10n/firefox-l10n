@@ -5,9 +5,11 @@
 <!ENTITY aboutAddons.title2                     "Tillägg">
 <!ENTITY aboutAddons.header2                    "Dina tillägg">
 <!ENTITY aboutAddons.options                    "Inställningar">
-<!ENTITY aboutAddons.browseAll                  "Bläddra bland alla Firefox-tillägg">
 
 <!ENTITY addonAction.enable                     "Aktivera">
 <!ENTITY addonAction.disable                    "Inaktivera">
 <!ENTITY addonAction.uninstall                  "Avinstallera">
 <!ENTITY addonAction.undo                       "Ångra">
+
+<!ENTITY addonUnsigned.message                  "Detta tillägg kunde i verifieras av &brandShortName;.">
+<!ENTITY addonUnsigned.learnMore                "Lär dig mer">

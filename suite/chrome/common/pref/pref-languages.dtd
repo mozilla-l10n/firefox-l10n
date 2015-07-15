@@ -18,10 +18,10 @@
 <!ENTITY languages.customize.active.accesskey           "p">
 <!ENTITY languages.customize.others.label               "Övriga:">
 <!ENTITY languages.customize.others.accesskey           "Ö">
-<!ENTITY languages.customize.Fallback.grouplabel        "Teckenkodning för gammalt innehåll">
-<!ENTITY languages.customize.Fallback.label             "Reservteckenkodning:">
-<!ENTITY languages.customize.Fallback.accesskey         "t">
-<!ENTITY languages.customize.Fallback.desc              "Används för gammalt innehåll som inte innehåller uppgift om teckenkodning.">
+<!ENTITY languages.customize.Fallback2.grouplabel        "Teckenkodning för gammalt innehåll">
+<!ENTITY languages.customize.Fallback2.label             "Reservteckenkodning:">
+<!ENTITY languages.customize.Fallback2.accesskey         "t">
+<!ENTITY languages.customize.Fallback2.desc              "Används för gammalt innehåll som inte meddelar uppgift om teckenkodning.">
 <!-- LOCALIZATION NOTE  Character Encoding Preferences Dialog: Do NOT localize the terms "en-bz, ar-jo"  -->
 <!ENTITY languages.customize.others.examples            "t.ex.: en-bz, ar-jo">
 <!ENTITY languages.customize.moveUp.label               "Flytta upp">

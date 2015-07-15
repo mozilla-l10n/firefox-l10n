@@ -3,7 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title                        "Adressboken">
-
+<!ENTITY blankResultsPaneMessage.label                  "Denna adressbok visar kontakter endast efter en sökning">
+<!ENTITY localResultsOnlyMessage.label                  "Kontakter från fjärradressböcker visas inte förrän du söker">
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Arkiv"> 
 <!ENTITY fileMenu.accesskey                             "A">
@@ -75,8 +76,8 @@
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesCmd2.label                           "Egenskaper">
-<!ENTITY propertiesCmd2.accesskey                       "e">
-<!ENTITY propertiesCmd.key                              "i"> 
+<!ENTITY propertiesCmd2.accesskey                       "E"> 
+<!ENTITY propertiesCmd.key                              "i">  
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label                                 "Visa"> 
@@ -121,9 +122,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.label                                "Importera…"> 
 <!ENTITY importCmd.accesskey                            "m"> 
 <!ENTITY exportCmd.label                                "Exportera…">  
-<!ENTITY exportCmd.accesskey                            "x">
+<!ENTITY exportCmd.accesskey                            "x"> 
 <!ENTITY preferencesCmd2.label                          "Alternativ">
-<!ENTITY preferencesCmd2.accesskey                      "l">
+<!ENTITY preferencesCmd2.accesskey                      "e">
 <!ENTITY preferencesCmdUnix.label                       "Inställningar">
 <!ENTITY preferencesCmdUnix.accesskey                   "I">
 
@@ -160,6 +161,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY searchItem.title                               "Snabbsökning">
 
 <!-- Results Pane -->
+<!ENTITY Addrbook.label                                 "Adressboken">
+<!ENTITY Addrbook.accesskey                             "b">
 <!ENTITY GeneratedName.label                            "Namn">
 <!ENTITY GeneratedName.accesskey                        "N">
 <!ENTITY PrimaryEmail.label                             "E-post">

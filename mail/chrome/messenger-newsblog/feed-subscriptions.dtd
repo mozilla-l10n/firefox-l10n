@@ -4,7 +4,7 @@
 
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label     "RSS-prenumerationer">
-<!ENTITY subscriptionDesc.label      "Obs: Att ta bort eller ändra mappen för en kanal påverkar inte tidigare hämtade artiklar.">
+<!ENTITY learnMore.label             "Läs mer om RSS-kanaler">
 
 <!ENTITY feedTitle.label             "Titel:">
 <!ENTITY feedTitle.accesskey         "T">
@@ -20,9 +20,9 @@
 <!ENTITY quickMode.accesskey         "V">
 
 <!ENTITY autotagEnable.label         "Skapa automatiskt etiketter från &lt;kategori&gt; kanalnamn">
-<!ENTITY autotagEnable.accesskey     "k">
+<!ENTITY autotagEnable.accesskey     "u">
 <!ENTITY autotagUsePrefix.label      "Märk etiketter med prefix:">
-<!ENTITY autotagUsePrefix.accesskey  "P">
+<!ENTITY autotagUsePrefix.accesskey  "M">
 <!ENTITY autoTagPrefix.placeholder   "Ange ett etikettprefix">
 
 <!ENTITY locationValidate.label      "Validera">
@@ -30,15 +30,15 @@
 
 <!ENTITY button.addFeed.label        "Lägg till">
 <!ENTITY button.addFeed.accesskey    "L">
-<!ENTITY button.editFeed.label       "Uppdatera">
-<!ENTITY button.editFeed.accesskey   "U">
+<!ENTITY button.editFeed.label       "Redigera">
+<!ENTITY button.editFeed.accesskey   "R">
 <!ENTITY button.removeFeed.label     "Ta bort">
 <!ENTITY button.removeFeed.accesskey "T">
 <!ENTITY button.importOPML.label     "Importera">
 <!ENTITY button.importOPML.accesskey "I">
 <!ENTITY button.exportOPML.label     "Exportera">
 <!ENTITY button.exportOPML.accesskey "E">
-<!ENTITY button.exportOPML.tooltip   "Exportera kanaler med mappstruktur; ctrl klick eller ctrl enter för att exportera kanaler som en lista">
+<!ENTITY button.exportOPML.tooltip   "Exporta kanaler med mappstruktur; ctrl klick eller ctrl enter för arr exportera kanaler som en lista">
 
 <!ENTITY cmd.close.commandKey        "w">
 <!ENTITY button.close.label          "Stäng">

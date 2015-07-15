@@ -32,7 +32,7 @@
 <!ENTITY  generalReferrer       "Hänvisande URL:">
 <!ENTITY  generalSource         "Källa:">
 <!ENTITY  generalModified       "Senast ändrad:">
-<!ENTITY  generalEncoding       "Kodning:">
+<!ENTITY  generalEncoding2      "Textkodning:">
 <!ENTITY  generalMetaName       "Namn:">
 <!ENTITY  generalMetaContent    "Innehåll:">
 <!ENTITY  generalSecurityDetails           "Detaljer">

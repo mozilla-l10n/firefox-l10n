@@ -6,16 +6,16 @@
 <!ENTITY pref.locationBar.title                "Adressfält">
 
 <!ENTITY autoComplete.label                    "Automatisk komplettering">
-<!ENTITY enableAutoComplete.label              "Komplettera automatiskt ur din surfandehistorik medan du skriver">
-<!ENTITY enableAutoComplete.accesskey          "o">
+<!ENTITY autoCompleteMatchHistory.label        "Föreslå automatiskt webplatser från historiken">
+<!ENTITY autoCompleteMatchHistory.accesskey    "h">
+<!ENTITY autoCompleteMatchBookmarks.label      "Föreslå automatiskt webplater från bokmärken">
+<!ENTITY autoCompleteMatchBookmarks.accesskey  "b">
 <!ENTITY autoCompleteAutoFill.label            "Komplettera automatiskt med den bästa matchningen">
 <!ENTITY autoCompleteAutoFill.accesskey        "m">
 <!ENTITY autoCompleteShowPopup.label           "Visa en lista med matchande resultat">
 <!ENTITY autoCompleteShowPopup.accesskey       "s">
 <!ENTITY autoCompleteMatchOnlyTyped.label      "Matcha endast adresser som du skrivit in tidigare">
 <!ENTITY autoCompleteMatchOnlyTyped.accesskey  "c">
-<!ENTITY autoCompleteMatchOnlyURLs.label       "Matcha endast adresser, inte webbplatsernas titlar">
-<!ENTITY autoCompleteMatchOnlyURLs.accesskey   "i">
 <!--LOCALIZATION NOTE (autoCompleteMatch.label): This is the common leading
   part of the menulist items listed below, mainly to make the control available
   via the accesskey

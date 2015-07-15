@@ -129,10 +129,10 @@
 ">
 
 <!ENTITY nssFailure2.title "Säker anslutning misslyckades">
-<!ENTITY nssFailure2.longDesc "
+<!ENTITY nssFailure2.longDesc2 "
 <ul>
-  <li>Sidan du försöker se kan inte visas eftersom den mottagna datans autenticitet inte kan verifieras.</li>
-  <li>Kontakta webbplatsens ägare och informera dem om detta problem. Du kan även använda kommandot i Hjälp-menyn för att rapportera in problemet med webbplatsen.</li>
+  <li>Sidan du försöker se kan inte visas eftersom äktheten inte kunde verifieras på den mottagna datan.</li>
+  <li>Kontakta webbplatsens ägare för att informera dem om detta problem.</li>
 </ul>
 ">
 
@@ -163,14 +163,19 @@
 <p>Ägare till webbplatser som anser att deras webbplats felaktigt har rapporterats som skadlig kan <a href='http://www.stopbadware.org/home/reviewinfo'>begära en omprövning</a>.</p>
 ">
 
+<!ENTITY unwantedBlocked.title "Misstänkt webbplats med oönskad programvara!">
+<!ENTITY unwantedBlocked.longDesc "
+<p>Oönskade programsidor försöker installera programvara som kan vara vilseledande och påverka ditt system på oväntade sätt.</p>
+">
+
 <!ENTITY phishingBlocked.title "Misstänkt webbförfalskning!">
 <!ENTITY phishingBlocked.longDesc "
 <p>Personliga uppgifter som lämnas på den där sidan kan resultera i identitetsstöld eller annat bedrägeri.</p>
 <p>Den här typen av webbförfalskningar används i något som kallas nätfiske där falska webbsidor och e-postmeddelanden används för att imitera källor du kanske litar på.</p>
 ">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blockerad av säkerhetspolicyn för innehåll">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; förhindrade sidan från att öppnas på detta sätt eftersom sidan har en säkerhetspolicy för innehåll som inte tillåter detta.</p>">
+<!ENTITY cspBlocked.title "Blockerad av säkerhetspolicyn för innehåll">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; förhindrade den här sidan från att laddas på detta sätt eftersom sidan har en säkerhetspolicy för innehåll som inte tillåter detta.</p>">
 
 <!ENTITY corruptedContentError.title "Skadat innehåll">
 <!ENTITY corruptedContentError.longDesc "<p>Innehållet du försöker se kan inte visas på grund av att ett fel i dataöverföringen upptäcktes.</p><ul><li>Kontakta ägarna för att informera dem om detta problem.</li></ul>">

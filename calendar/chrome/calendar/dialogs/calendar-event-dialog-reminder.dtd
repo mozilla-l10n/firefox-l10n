@@ -12,7 +12,7 @@
 <!ENTITY reminder.action.label                             "Välj en påminnelse åtgärd">
 
 <!ENTITY reminder.action.alert.label                       "Visa en varning">
-<!ENTITY reminder.action.email.label                       "Skicka epost">
+<!ENTITY reminder.action.email.label                       "Skicka e-post">
 
 <!ENTITY alarm.units.minutes                               "minuter" >
 <!ENTITY alarm.units.hours                                 "timmar" >

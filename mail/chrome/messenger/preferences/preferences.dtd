@@ -4,6 +4,7 @@
 
 <!ENTITY prefWindow.titleWin      "Alternativ">
 <!ENTITY prefWindow.titleGNOME    "&brandShortName; Inställningar">
+<!ENTITY  prefWindow.titleMAC     "Inställningar">
 <!ENTITY  prefWindow.styleWindows "width: 48em; min-height: 38.5em;">
 <!ENTITY prefWindow.styleMac      "width: 50em;">
 <!ENTITY prefWindow.styleGNOME    "width: 49em; min-height: 38em;">
@@ -16,3 +17,7 @@
 <!ENTITY panePrivacy.title        "Sekretess">
 <!ENTITY paneSecurity.title       "Säkerhet">
 <!ENTITY paneAdvanced.title       "Avancerat">
+<!ENTITY paneAccount.title        "Konton">
+
+<!ENTITY okButton.title           "Ok">
+<!ENTITY okButton.accesskey       "O">

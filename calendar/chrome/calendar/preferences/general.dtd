@@ -13,6 +13,10 @@
 <!ENTITY pref.dateformat.long "Lång" >
 <!ENTITY pref.dateformat.short "Kort"  >
 
+<!ENTITY pref.timezones.caption "Tidszon">
+<!ENTITY pref.timezones.label "Välj den närmaste staden i din tidszon:">
+<!ENTITY pref.timezones.accesskey "V">
+
 <!ENTITY pref.defaults.label "Standardvärden för nya poster">
 <!ENTITY pref.events.label "Händelser">
 <!ENTITY pref.tasks.label "Uppgifter">
@@ -28,6 +32,10 @@
 <!ENTITY pref.default_task_offset_current.label "Relativt till aktuell tid">
 <!ENTITY pref.default_task_offset_start.label "Relativt till start">
 <!ENTITY pref.default_task_offset_next_hour.label "Relativt till nästa timme">
+
+<!ENTITY pref.calendar.todaypane.agenda.caption "Panel för idag">
+<!ENTITY pref.soondays.label "Det kommande avsnittet visar:">
+<!ENTITY pref.soondays.accesskey "k">
 
 <!ENTITY pref.accessibility.label "Tillgänglighet" >
 <!ENTITY pref.systemcolors.label "Optimera färger för tillgänglighet" >

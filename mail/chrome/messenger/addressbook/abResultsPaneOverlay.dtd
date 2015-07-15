@@ -2,12 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY Addrbook.label                        "Adressboken">
+<!ENTITY Addrbook.accesskey                    "b">
 <!ENTITY GeneratedName.label 		           "Namn">
 <!ENTITY GeneratedName.accesskey   	           "N">
 <!ENTITY PrimaryEmail.label 		           "E-post">
 <!ENTITY PrimaryEmail.accesskey		           "E">
 <!ENTITY Company.label                         "Organisation">
-<!ENTITY Company.accesskey 		               "z">
+<!ENTITY Company.accesskey 		               "r">
 <!ENTITY _PhoneticName.label                   "Fonetiskt namn">
 <!ENTITY _PhoneticName.accesskey               "o">
 <!ENTITY NickName.label 		               "Smeknamn">

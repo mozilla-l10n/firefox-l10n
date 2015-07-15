@@ -14,8 +14,8 @@
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "A">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Bläddra…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "B">
-<!ENTITY pref.calendar.alarms.sound.preview.label "Spela upp">
-<!ENTITY pref.calendar.alarms.sound.preview.accessKey "S'">
+<!ENTITY pref.calendar.alarms.sound.play.label "Spela upp">
+<!ENTITY pref.calendar.alarms.sound.play.accessKey "S">
 <!ENTITY pref.showalarmbox "Visa påminnelse">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "V">
 <!ENTITY pref.missedalarms "Visa missade påminnelser">

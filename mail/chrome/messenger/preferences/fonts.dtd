@@ -3,16 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  fontsAndEncodingsDialog.title           "Teckensnitt &amp; teckenuppsättningar">
-<!ENTITY  window.width                            "39em">
-<!ENTITY  window.macWidth                         "43em">
-<!ENTITY  window.unixWidth                        "41em">
 
 <!ENTITY  language.label                          "Teckensnitt för:">
 <!ENTITY  language.accesskey                      "c">
 
 <!ENTITY  size.label                              "Storlek:">
-<!ENTITY  proportionalSize.accesskey              "t">
-<!ENTITY  sizeMono.accesskey                      "o">
+<!ENTITY  sizeProportional.accesskey              "t">
+<!ENTITY  sizeMonospace.accesskey                 "o">
 
 <!ENTITY  proportional.label                      "Variabel bredd:">
 <!ENTITY  proportional.accesskey                  "V">
@@ -24,19 +21,17 @@
 <!ENTITY  monospace.label                         "Fast bredd:">
 <!ENTITY  monospace.accesskey                     "F">
 
-<!ENTITY  font.langGroup.latin1                   "Västeuropeiska språk">
-<!ENTITY  font.langGroup.latin2                   "Centraleuropeiska språk">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
+<!ENTITY  font.langGroup.latin                    "Latin">
 <!ENTITY  font.langGroup.japanese                 "Japanska">
 <!ENTITY  font.langGroup.trad-chinese             "Kinesiska, traditionell (Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Kinesiska, förenklad">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Kinesiska, traditionell (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "Koreanska">
 <!ENTITY  font.langGroup.cyrillic                 "Kyrilliska språk">
-<!ENTITY  font.langGroup.baltic                   "Baltiska språk">
 <!ENTITY  font.langGroup.el                       "Grekiska">
-<!ENTITY  font.langGroup.turkish                  "Turkiska">
-<!ENTITY  font.langGroup.unicode1                 "Unicode">
-<!ENTITY  font.langGroup.user-def                 "Användaranpassad">
+<!ENTITY  font.langGroup.other                    "Andra skriftsystem">
 <!ENTITY  font.langGroup.thai                     "Thai">
 <!ENTITY  font.langGroup.hebrew                   "Hebreiska">
 <!ENTITY  font.langGroup.arabic                   "Arabiska">
@@ -44,13 +39,19 @@
 <!ENTITY  font.langGroup.tamil                    "Tamil">
 <!ENTITY  font.langGroup.armenian                 "Armeniska">
 <!ENTITY  font.langGroup.bengali                  "Bengali">
-<!ENTITY  font.langGroup.canadian                 "Enhetlig kanadensisk stavelseskrift">
+<!ENTITY  font.langGroup.canadian                 "Enhetliga kanadensiska stavelser">
 <!ENTITY  font.langGroup.ethiopic                 "Etiopiska">
 <!ENTITY  font.langGroup.georgian                 "Georgiska">
 <!ENTITY  font.langGroup.gujarati                 "Gujarati">
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
 <!ENTITY  font.langGroup.khmer                    "Khmer">
 <!ENTITY  font.langGroup.malayalam                "Malayalam">
+<!ENTITY  font.langGroup.math                     "Matematik">
+<!ENTITY  font.langGroup.oriya                    "Oriya">
+<!ENTITY  font.langGroup.telugu                   "Telugu">
+<!ENTITY  font.langGroup.kannada                  "Kannada">
+<!ENTITY  font.langGroup.sinhala                  "Singalesiska">
+<!ENTITY  font.langGroup.tibetan                  "Tibetanska">
 
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Minsta storlek:">
@@ -71,10 +72,10 @@
 <!-- Language settings -->
 <!ENTITY sendDefaultCharset.label         "Utgående e-post:">
 <!ENTITY sendDefaultCharset.accesskey     "U">
-<!ENTITY languagesTitle1.label            "Teckenuppsättningar">
-<!ENTITY composingDescription.label       "Ange standardteckenuppsättning för utgående och inkommande e-post">
+<!ENTITY languagesTitle2.label            "Textkodning">
+<!ENTITY composingDescription2.label      "Ange standardtextkodning för att skicka och ta emot e-post">
 
 <!ENTITY viewDefaultCharsetList.label     "Inkommande e-post:">
 <!ENTITY viewDefaultCharsetList.accesskey "e">
-<!ENTITY replyInDefaultCharset2.label     "Använd om möjligt standardteckenuppsättningen för svar">
-<!ENTITY replyInDefaultCharset2.accesskey "d">
+<!ENTITY replyInDefaultCharset3.label     "Använd om möjligt standardtextkodning i svaren">
+<!ENTITY replyInDefaultCharset3.accesskey "n">

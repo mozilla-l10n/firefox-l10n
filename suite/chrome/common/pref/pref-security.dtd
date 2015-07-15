@@ -8,12 +8,13 @@
 <!ENTITY tracking.label                   "Spåra användare">
 <!ENTITY trackingIntro.label              "Webbplatser kan spåra hur du använder dem, och därmed påverka din integritet.">
 
-<!ENTITY dntTellSites.label               "Meddela webbplatser om min inställning till spårning">
-<!ENTITY dntTellSites.accesskey           "M">
-<!ENTITY dntTrackingNotOkay.label         "Jag vill inte bli spårad">
-<!ENTITY dntTrackingNotOkay.accesskey     "i">
-<!ENTITY dntTrackingOkay.label            "Jag samtycker till att bli spårad">
-<!ENTITY dntTrackingOkay.accesskey        "s">
+<!ENTITY doNotTrack.label                 "Meddela webbplatser att jag inte vill bli spårad">
+<!ENTITY doNotTrack.accesskey             "M">
+<!ENTITY trackProtect.label               "Förhindra spårning från kända webbplatser">
+<!ENTITY trackProtect.accesskey           "h">
+<!ENTITY warnTrackContent.label           "Varna mig när kända spårningsåtgärder upptäcks">
+<!ENTITY warnTrackContent.accesskey       "V">
+
 
 <!ENTITY geoLocation.label                "Positionsberoende surfning">
 <!ENTITY geoIntro.label                   "Webbplatser kan be om mer information om din aktuella position.">

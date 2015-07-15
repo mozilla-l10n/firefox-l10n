@@ -11,15 +11,11 @@
 <!ENTITY optionInline.label "Infogat läge">
 <!ENTITY optionInline.accesskey "N">
 <!ENTITY optionDisplay.label "Visningsläge">
-<!ENTITY optionDisplay.accesskey "D">
+<!ENTITY optionDisplay.accesskey "l">
 <!ENTITY optionLTR.label "Läsriktning vänster till höger">
 <!ENTITY optionLTR.accesskey "v">
 <!ENTITY optionRTL.label "Läsriktning höger till vänster">
 <!ENTITY optionRTL.accesskey "h">
-
-<!ENTITY example.label "Exempel: ">
-<!-- LOCALIZATION NOTE (exampleText.label): DONT_TRANSLATE. This is a LaTeX example. -->
-<!ENTITY exampleText.label "\sqrt{x_1} + \frac{π^3}{2}">
 
 <!ENTITY insertButton.label "Infoga">
 <!ENTITY insertButton.accesskey "I">
