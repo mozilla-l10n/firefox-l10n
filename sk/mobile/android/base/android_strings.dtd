@@ -559,10 +559,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY blocked_mixed_content_message_bottom "Väčšina webových stránok bude fungovať správne aj po zablokovaní tohto obsahu.">
 
 <!-- Tracking content notifications in site identity popup -->
-<!ENTITY loaded_tracking_content_message_top "Ochrana pred sledovaním je vypnutá.">
-<!ENTITY loaded_tracking_content_message_bottom "Niektoré súčasti tejto stránky môžu sledovať vašu aktivitu.">
-<!ENTITY blocked_tracking_content_message_top2 "Ochrana pred sledovaním je zapnutá.">
-<!ENTITY blocked_tracking_content_message_bottom2 "Súčasti stránky, ktoré sledujú vašu aktivitu, boli zablokované.">
+<!ENTITY doorhanger_tracking_title "Ochrana pred sledovaním">
+<!ENTITY doorhanger_tracking_state_enabled "Zapnutá">
+<!ENTITY doorhanger_tracking_state_disabled "Vypnutá">
+<!ENTITY doorhanger_tracking_message_enabled "Blokujú sa prvky, ktoré umožňujú sledovať vašu aktivitu.">
+<!ENTITY doorhanger_tracking_message_disabled "Pokusy o sledovanie vašej aktivity online nie sú blokované.">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Ďalšie informácie">
