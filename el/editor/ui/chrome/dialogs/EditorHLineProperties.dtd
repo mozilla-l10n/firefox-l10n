@@ -1,7 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!-- Window title -->
 <!ENTITY windowTitle.label "Ιδιότητες οριζόντιας γραμμής">
+
 <!ENTITY dimensionsBox.label "Διαστάσεις">
 <!ENTITY heightEditField.label "Ύψος:">
 <!ENTITY heightEditField.accessKey "ψ">
@@ -15,6 +19,7 @@
 <!ENTITY centerRadio.accessKey "Κ">
 <!ENTITY rightRadio.label "Δεξιά">
 <!ENTITY rightRadio.accessKey "Δ">
+
 <!ENTITY threeDShading.label "Σκίαση 3-D">
 <!ENTITY threeDShading.accessKey "Σ">
 <!ENTITY saveSettings.label "Χρήση ως προεπιλεγμένων">
