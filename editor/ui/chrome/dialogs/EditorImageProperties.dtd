@@ -1,8 +1,15 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- These strings are for use specifically in the editor's image and form image dialogs. -->
+
+<!-- Window title -->
 <!ENTITY windowTitle.label "Ιδιότητες εικόνας">
+
 <!ENTITY pixelsPopup.value "εικονοστοιχεία">
+
+<!-- These are in the Location tab panel -->
 <!ENTITY locationEditField.label "Τοποθεσία εικόνας:">
 <!ENTITY locationEditField.accessKey "Τ">
 <!ENTITY locationEditField.tooltip "Καταχωρίστε το όνομα αρχείου εικόνας ή την τοποθεσία">
@@ -14,7 +21,11 @@
 <!ENTITY altTextEditField.tooltip "Εισάγετε κείμενο για εμφάνιση στη θέση της εικόνας">
 <!ENTITY noAltText.label "Χωρίς τη χρήση εναλλακτικού κειμένου">
 <!ENTITY noAltText.accessKey "Χ">
+
 <!ENTITY previewBox.label "Προεπισκόπηση εικόνας">
+
+<!-- These controls are in the Dimensions tab panel -->
+<!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
 <!ENTITY actualSize.label "Πραγματικό μέγεθος:">
 <!ENTITY actualSizeRadio.label "Πραγματικό μέγεθος">
 <!ENTITY actualSizeRadio.accessKey "γ">
@@ -29,15 +40,21 @@
 <!ENTITY constrainCheckbox.label "Περιορισμός">
 <!ENTITY constrainCheckbox.accessKey "ε">
 <!ENTITY constrainCheckbox.tooltip "Διατήρηση των αναλογιών της εικόνας">
+
+<!-- These controls are in the Image Map box of the expanded area -->
 <!ENTITY imagemapBox.label "Χάρτης εικόνας">
 <!ENTITY removeImageMapButton.label "Αφαίρεση">
 <!ENTITY removeImageMapButton.accessKey "φ">
+
+<!-- These are the options for image alignment -->
 <!ENTITY alignment.label "Στοίχιση κειμένου στην εικόνα">
 <!ENTITY bottomPopup.value "Από κάτω">
 <!ENTITY topPopup.value "Πρός τα πάνω">
 <!ENTITY centerPopup.value "Στο μέσο">
 <!ENTITY wrapRightPopup.value "Αναδίπλωση στα δεξιά">
 <!ENTITY wrapLeftPopup.value "Αναδίπλωση στα αριστερά">
+
+<!-- These controls are in the Spacing Box -->
 <!ENTITY spacingBox.label "Spacing">
 <!ENTITY leftRightEditField.label "Αριστερά και δεξιά:">
 <!ENTITY leftRightEditField.accessKey "ρ">
@@ -45,14 +62,17 @@
 <!ENTITY topBottomEditField.accessKey "ω">
 <!ENTITY borderEditField.label "Μαύρο πλαίσιο:">
 <!ENTITY borderEditField.accessKey "Μ">
+
+<!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "Προβολή πλαισίου γύρω από εικόνα με δεσμό">
 <!ENTITY showImageLinkBorder.accessKey "β">
+<!ENTITY LinkAdvancedEditButton.label "Προχωρημένη επεξεργασία δεσμού…">
+<!ENTITY LinkAdvancedEditButton.accessKey "δ">
+<!ENTITY LinkAdvancedEditButton.tooltip "Προσθήκη ή τροποποίηση γνωρισμάτων στυλ, HTML και JavaScript">
+
+<!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "Φόρμα">
 <!ENTITY imageLocationTab.label "Τοποθεσία">
 <!ENTITY imageDimensionsTab.label "Διαστάσεις">
 <!ENTITY imageAppearanceTab.label "Εμφάνιση">
 <!ENTITY imageLinkTab.label "Δεσμός">
-
-<!ENTITY LinkAdvancedEditButton.label "Προχωρημένη επεξεργασία δεσμού…">
-<!ENTITY LinkAdvancedEditButton.accessKey "δ">
-<!ENTITY LinkAdvancedEditButton.tooltip "Προσθήκη ή τροποποίηση γνωρισμάτων στυλ, HTML και JavaScript">

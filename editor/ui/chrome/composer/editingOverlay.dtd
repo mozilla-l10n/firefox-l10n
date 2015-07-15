@@ -15,8 +15,8 @@
 <!ENTITY saveCmd.accesskey "σ">
 <!ENTITY saveAsCmd.label "Αποθήκευση ως…">
 <!ENTITY saveAsCmd.accesskey "ω">
-<!ENTITY saveAsChangeEncodingCmd.label "Αποθήκευση και αλλαγή κωδικοποίησης χαρακτήρων">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "λ">
+<!ENTITY saveAsChangeEncodingCmd2.label "Αποθήκευση και αλλαγή κωδικοποίησης κειμένου">
+<!ENTITY saveAsChangeEncodingCmd2.accesskey "λ">
 <!ENTITY publishCmd.label "Δημοσίευση">
 <!ENTITY publishCmd.accesskey "μ">
 <!ENTITY publishCmd.key "S">
@@ -28,8 +28,6 @@
 <!-- Edit menu items -->
 <!ENTITY publishSettings.label "Ρυθμίσεις σελίδας δημοσίευσης…">
 <!ENTITY publishSettings.accesskey "θ">
-
-
 
 <!-- Toolbar buttons/items -->
 <!ENTITY newToolbarCmd.label "Νέα">
