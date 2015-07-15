@@ -556,7 +556,7 @@
 <!ENTITY mixedContentBlocked2.block.label "Attiva protezione">
 <!ENTITY mixedContentBlocked2.block.accesskey "A">
 <!ENTITY mixedContentBlocked2.disabled.message "La protezione è disattivata">
-<!ENTITY trackingProtection.title "Protezione dal tracciamento">
+<!ENTITY trackingProtection.title "Protezione antitracciamento">
 <!ENTITY trackingProtection.detectedBlocked "Sono stati bloccati dei tentativi di tracciare la navigazione.">
 <!ENTITY trackingProtection.detectedNotBlocked "Rilevati degli elementi traccianti. La protezione è stata disattivata per questo sito.">
 <!ENTITY trackingProtection.notDetected "Nessun elemento tracciante individuato in questo sito web.">
