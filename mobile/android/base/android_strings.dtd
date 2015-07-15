@@ -1,0 +1,665 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY  no_space_to_start_error "Ne estas sufiĉe da loko disponebla por la startigo de &brandShortName;.">
+<!ENTITY  error_loading_file "Eraro okazis dum la klopodo ŝargi dosierojn bezonatajn por ruli &brandShortName;">
+
+<!ENTITY  onboard_start_message3 "Retumi per &brandShortName;">
+<!ENTITY  onboard_start_subtext3 "Igi vian poŝaparatan retumsperton vere via.">
+<!ENTITY  onboard_start_button_account "Komenci seancon en &brandShortName;">
+<!ENTITY  onboard_start_button_browser "Komenci retesporon">
+
+<!-- Localization note: These are used as the titles of different pages on the home screen.
+     They are automatically converted to all caps by the Android platform. -->
+<!ENTITY  bookmarks_title "Legosignoj">
+<!ENTITY  history_title "Historio">
+<!ENTITY  reading_list_title "Legolisto">
+<!ENTITY  recent_tabs_title "Freŝaj langetoj">
+
+<!ENTITY  switch_to_tab "Iri al langeto">
+
+<!ENTITY  crash_reporter_title "Raportado de paneoj de &brandShortName;">
+<!ENTITY  crash_message2 "&brandShortName; havis problemon kaj paneis. Post restarto, viaj langetoj devus esti listitaj en la eka paĝo de  &brandShortName;.">
+<!ENTITY  crash_send_report_message3 "Raporti tiun ĉi paneon al &vendorShortName; tiel ke ili povos solvi ĝin">
+<!ENTITY  crash_include_url2 "Aldoni la adreson de la paĝo kie mi estis">
+<!ENTITY  crash_sorry "Ni bedaŭras">
+<!ENTITY  crash_comment "Aldoni komenton (komentoj estas publike videblaj)">
+<!ENTITY  crash_allow_contact2 "Permesi al &vendorShortName; konakti min pri tiu ĉi raporto">
+<!ENTITY  crash_email "Via retpoŝtadreso">
+<!ENTITY  crash_closing_alert "Ĉu eliri sen sendi raporton pri paneo?">
+<!ENTITY  sending_crash_report "Raporto pri paneo sendata\u2026">
+<!ENTITY  crash_close_label "Fermi">
+<!ENTITY  crash_restart_label "Restartigi &brandShortName;">
+<!ENTITY  exit_label "Eliri">
+
+<!ENTITY  launcher_shortcuts_title "Teksaĵaj programoj de &brandShortName;">
+<!ENTITY  launcher_shortcuts_empty "Neniu Teksaĵa programo trovita">
+
+<!ENTITY choose_file "Elekti dosieron">
+
+<!ENTITY url_bar_default_text2 "Serĉu aŭ tajpu adreson">
+
+<!ENTITY bookmark "Legosignoj">
+<!ENTITY bookmark_remove "Forigi legosignon">
+<!ENTITY bookmark_added "Legosigno aldonita">
+<!-- Localization note (bookmark_already_added) : This string is
+     used as a label in a toast. It is the verb "to bookmark", not
+     the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "Jam ekzistas tiu legosigno">
+<!ENTITY bookmark_removed "Legosigno forigita">
+<!ENTITY bookmark_updated "Legosigno ĝisdatigita">
+<!ENTITY bookmark_options "Elekteblo">
+
+<!ENTITY history_today_section "Hodiaŭ">
+<!ENTITY history_yesterday_section "Hieraŭ">
+<!ENTITY history_week_section2 "Lasta semajno">
+<!ENTITY history_older_section2 "Lasta monato">
+
+<!ENTITY go "Iri">
+<!ENTITY search "Serĉi">
+<!ENTITY reload "Reŝargi">
+<!ENTITY forward "Plusendi">
+<!ENTITY menu "Menuo">
+<!ENTITY back "Malantaŭen">
+<!ENTITY stop "Haltigi">
+<!ENTITY site_security "Sekureco de retejo">
+<!ENTITY edit_mode_cancel "Nuligi">
+
+<!ENTITY close_tab "Fermi langeton">
+<!ENTITY one_tab "1 langeto">
+<!-- Localization note (num_tabs2) : Number of tabs is always more than one.
+     We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs2 "&formatD; langetoj">
+<!ENTITY new_tab_opened "Nova langeto malfermita">
+<!ENTITY new_private_tab_opened "Nova privata langeto malfermita">
+<!-- Localization note (switch_button_message): This string should be as short
+     as possible because it's shown as a label in a toast.  Ideally, this string
+     is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "ŜANĜI">
+
+<!ENTITY settings "Agordoj">
+<!ENTITY settings_title "Agordoj">
+<!ENTITY pref_category_input_options "Elektebloj de enigo">
+<!ENTITY pref_category_advanced "Spertaj">
+<!ENTITY pref_category_customize "Personecigi">
+<!ENTITY pref_category_customize_summary "Hejmo, serĉo, langetoj, importo">
+<!ENTITY pref_category_customize_alt_summary "Hejmo, serĉo, langetoj, malfermi poste, importo">
+
+<!-- Localization note (pref_category_language) : This is the preferences
+     section in which the user picks the locale in which to display Firefox
+     UI. The locale includes both language and region concepts. -->
+<!ENTITY pref_category_language "Lingvo">
+<!ENTITY pref_category_language_summary "Ŝanĝi la lingvon de via retumilo">
+<!ENTITY pref_browser_locale "Lingvo de la retumilo">
+
+<!-- Localization note (locale_system_default) : This string indicates that
+     Firefox will use the locale currently selected in Android's settings
+     to display browser chrome. -->
+<!ENTITY locale_system_default "Sistema normo">
+
+<!-- Localization note (overlay_share_label) : This is the label that appears
+     in Android's intent chooser when sending a link to Firefox to bookmark,
+     send to another device, or add to Reading List. -->
+<!ENTITY overlay_share_label "Aldoni al &brandShortName;">
+
+<!-- Localization note (overlay_share_bookmark_btn_label) : This string is
+     used in the share overlay menu to select an action. It is the verb
+     "to bookmark", not the noun "a bookmark". -->
+<!ENTITY overlay_share_bookmark_btn_label "Legosignoj">
+<!ENTITY overlay_share_reading_list_btn_label "Aldoni al legolisto">
+<!ENTITY overlay_share_bookmark_btn_label_already "Jam estas en legosignoj">
+<!ENTITY overlay_share_reading_list_btn_label_already "Jam estas en legolisto">
+<!ENTITY overlay_share_send_other "Sendi al aliaj aparatoj">
+
+<!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
+     share overlay menu to represent the "Send Tab" action when the user
+     either has not set up Sync, or has no other devices to send a tab
+     to. -->
+<!ENTITY overlay_share_send_tab_btn_label "Sendi al alia aparato">
+<!ENTITY overlay_share_no_url "Neniu dividebla ligilo trovita">
+<!ENTITY overlay_share_select_device "Elekti aparaton">
+<!-- Localization note (overlay_no_synced_devices) : Used when the menu option
+     to send a tab to a synced device is pressed and no other synced devices
+     are found. -->
+<!ENTITY overlay_no_synced_devices "Neniu aparato konekita de konto estis trovita">
+<!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
+     to send a tab to a synced device is pressed and there is an error
+     connecting to the server so the tab could not be sent. The text should be
+     divided into two lines (use the newline escape character, "\n", between
+     them): the first notifying the user about the failure and the second
+     telling the user what to do about it. -->
+<!ENTITY overlay_share_tab_not_sent "Via langeto ne povis esti sendita.\nBonvolu klopodi denove poste.">
+
+<!ENTITY pref_category_search3 "Serĉi">
+<!ENTITY pref_category_search_summary "Personecigi viajn serĉilojn">
+<!ENTITY pref_category_display "Ekrano">
+<!ENTITY pref_category_display_summary "Teksto, titolstrio, plenekrana retumo">
+<!ENTITY pref_category_privacy_short "Privateco">
+<!ENTITY pref_category_privacy_summary2 "Regi akreditilojn, kuketojn, spuradon, datumojn">
+<!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_vendor_summary "Pri &brandShortName;, oftaj demandoj, elekto de datumoj">
+<!ENTITY pref_category_datareporting "Elekto de datumoj">
+<!ENTITY pref_learn_more "Pli da informo">
+<!ENTITY pref_category_installed_search_engines "Instalitaj serĉiloj">
+<!ENTITY pref_category_add_search_providers "Aldoni pli da serĉiloj">
+<!ENTITY pref_category_search_restore_defaults "Restarigi serĉilojn">
+<!ENTITY pref_search_restore_defaults "Restarigi normojn">
+<!ENTITY pref_search_restore_defaults_summary "Restarigi normojn">
+<!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
+     advisory message on the customise search providers settings page explaining how to add new
+     search providers.
+     The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY pref_search_hint "Konsileto: aldonu iun ajn retejon al via listo de serĉiloj per longa premo sur la serĉkampo kaj posta tuŝeto sur la bildsimbolo &formatI;.">
+<!ENTITY pref_category_devtools "Iloj por disvolvantoj">
+<!ENTITY pref_developer_remotedebugging "Fora sencimigo">
+<!ENTITY pref_category_logins "Akreditiloj">
+<!ENTITY pref_remember_signons2 "Memori akreditilojn">
+<!ENTITY pref_open_external_urls_privately_title "Malfermi ligilojn en privata retumado">
+<!ENTITY pref_open_external_urls_privately_summary "Por ĉiuj eksteraj ligiloj malfermitaj en &brandShortName;">
+<!ENTITY pref_manage_logins "Administri akreditilojn">
+
+<!ENTITY pref_category_home "Reto de la provizanto">
+<!ENTITY pref_category_home_summary "Personecigi vian ĉefpaĝon">
+<!ENTITY pref_category_home_panels "Paneloj">
+<!ENTITY home_add_panel_title "Aldoni novan panelon">
+<!ENTITY home_add_panel_empty "Bedaŭrinde ni ne povis trovi panelon, kiun vi povus aldoni.">
+<!-- Localization note (home_add_panel_installed):
+     The &formatS; will be replaced with the name of the new panel the user just
+     selected to be added to the home page. -->
+<!ENTITY home_add_panel_installed "\'&formatS;\' aldonita al la hejmpaĝo">
+<!ENTITY pref_category_home_content_settings "Agordoj de enhavo">
+<!ENTITY pref_home_updates "Aŭtomataj ĝisdatigoj">
+<!ENTITY pref_home_updates_enabled "Aktiva">
+<!ENTITY pref_home_updates_wifi "Nur per sendrataj retoj">
+<!ENTITY pref_home_suggested_sites "Montri retejajn sugestojn">
+<!ENTITY pref_home_suggested_sites_summary "Montri en via hejmekrano ŝparvojojn al retejoj, kiujn ni opinias eble interesaj por vi">
+
+<!-- Localization note: These are shown in the left sidebar on tablets -->
+<!ENTITY pref_header_customize "Persone agordi">
+<!ENTITY pref_header_display "Ekrano">
+<!ENTITY pref_header_privacy_short "Privateco">
+<!ENTITY pref_header_help "Helpo">
+<!ENTITY pref_header_language "Lingvo">
+<!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "Iloj por disvolvantoj">
+
+<!ENTITY pref_cookies_menu "Kuketoj">
+<!ENTITY pref_cookies_accept_all "Aktiva">
+<!ENTITY pref_cookies_not_accept_foreign "Aktivaj, krom la nerektaj">
+<!ENTITY pref_cookies_disabled "Malaktiva">
+
+<!ENTITY pref_tracking_protection_title "Protekto kontraŭ spurado">
+<!ENTITY pref_tracking_protection_summary "&brandShortName; evitos ke retejoj spuru vin">
+<!ENTITY pref_donottrack_title "Ne spuri">
+<!ENTITY pref_donottrack_summary "&brandShortName; informos al la retejoj ke vi ne volas esti spurita">
+
+<!ENTITY tab_queue_toast_message3 "Langeto konservita en &brandShortName;">
+<!ENTITY tab_queue_toast_action "Malfermi nun">
+<!ENTITY tab_queue_prompt_title "Ĉu malfermi plurajn ligilojn?">
+<!ENTITY tab_queue_prompt_text3 "Konservi ilin ĝis la venonta starto de &brandShortName;">
+<!ENTITY tab_queue_prompt_tip_text "poste vi povos ŝanĝi tion ĉi en Agordoj">
+<!ENTITY tab_queue_prompt_positive_action_button "Aktivigi">
+<!ENTITY tab_queue_prompt_negative_action_button "Nun ne">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
+<!-- Localization note (tab_queue_notification_text_plural2) : The
+     formatD is replaced with the number of tabs queued.  The
+     number of tabs queued is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY tab_queue_notification_text_plural2 "&formatD; langetoj atendas">
+<!-- Localization note (tab_queue_notification_text_singular2) : This is the
+     text of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_text_singular2 "1 langeto atendas">
+
+<!ENTITY pref_char_encoding "Signa enkodigo">
+<!ENTITY pref_char_encoding_on "Montri menuon">
+<!ENTITY pref_char_encoding_off "Ne montri menuon">
+<!ENTITY pref_clear_private_data2 "Viŝi nun">
+<!ENTITY pref_clear_private_data_category "Viŝi privatajn datumojn">
+<!ENTITY pref_clear_on_exit_title2 "Elirinte, viŝi">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; aŭtomate viŝos viajn datumojn ĉiam, kiam vi elektas \u0022Fini\u0022 el la ĉefa menuo">
+<!ENTITY pref_clear_on_exit_dialog_title "Elekti viŝotajn datumojn">
+<!ENTITY pref_plugins "Kromprogramoj">
+<!ENTITY pref_plugins_enabled "Aktiva">
+<!ENTITY pref_plugins_tap_to_play "Tuŝetu por ludi">
+<!ENTITY pref_plugins_disabled "Malaktiva">
+<!ENTITY pref_text_size "Grando de teksto">
+<!ENTITY pref_reflow_on_zoom4 "Adapto de teksto">
+<!ENTITY pref_restore "Langetoj">
+<!ENTITY pref_restore_always "Ĉiam restarigi">
+<!ENTITY pref_restore_quit "Ne restarigi post fino de &brandShortName;">
+<!ENTITY pref_font_size_tiny "Eteta">
+<!ENTITY pref_font_size_small "Eta">
+<!ENTITY pref_font_size_medium "Mezgranda">
+<!ENTITY pref_font_size_large "Granda">
+<!ENTITY pref_font_size_xlarge "Tre granda">
+<!ENTITY pref_font_size_set "Difini">
+<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
+(or combination of characters) is used to decrease the preview font size; a larger version of the
+same character/combination is used to increase the preview font size. It should be a concise
+representation of the language it is used in that will help show the text in the preview will change
+size. -->
+<!ENTITY pref_font_size_adjust_char "A">
+
+<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
+    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+<!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\'re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
+
+<!ENTITY pref_media_autoplay_enabled "Permesi aŭtomatan ludadon">
+<!ENTITY pref_media_autoplay_enabled_summary "Decidi ĉu retejoj povas aŭtomate ludi filmetojn aŭ aliajn aŭdvidajn enhavojn">
+<!ENTITY pref_zoom_force_enabled "Ĉiam aktivigi la skaligon">
+<!ENTITY pref_zoom_force_enabled_summary "Permesi superregon, tiel ke vi povos skaligi iun ajn paĝon">
+<!ENTITY pref_voice_input "Voĉa enigo">
+<!ENTITY pref_voice_input_summary "Permesi dikti en la titolstrio">
+<!ENTITY pref_qrcode_enabled "Legilo de kodo QR">
+<!ENTITY pref_qrcode_enabled_summary "Permesi skani QR en la titolstrio">
+
+<!ENTITY pref_use_master_password "Uzi ĉefan pasvorton">
+<!ENTITY pref_sync "Spegulado">
+<!ENTITY pref_sync_summary2 "Speguli viajn langetojn, legosignojn, akreditilojn, historion">
+<!ENTITY pref_search_suggestions "Montri serĉajn sugestojn">
+<!ENTITY pref_import_android "Importi el Android">
+<!ENTITY pref_import_android_summary "Importi legosignojn kaj historion el la nativa retumilo">
+<!ENTITY pref_private_data_history2 "Historio de retumado">
+<!ENTITY pref_private_data_searchHistory "Historio de serĉoj">
+<!ENTITY pref_private_data_formdata2 "Historio de formularoj">
+<!ENTITY pref_private_data_cookies2 "Kuketoj kaj aktivaj seancoj">
+<!ENTITY pref_private_data_passwords2 "Konservitaj akreditiloj">
+<!ENTITY pref_private_data_cache "Staplo">
+<!ENTITY pref_private_data_offlineApps "Retejaj malkonektitaĵoj">
+<!ENTITY pref_private_data_siteSettings2 "Retejaj agordoj">
+<!ENTITY pref_private_data_downloadFiles2 "Elŝutoj">
+<!ENTITY pref_private_data_syncedTabs "Spegulitaj langetoj">
+
+
+<!ENTITY pref_about_firefox "Pri &brandShortName;">
+<!ENTITY pref_vendor_faqs "Oftaj demandoj">
+<!ENTITY pref_vendor_feedback "Sendi komentojn">
+
+<!ENTITY pref_dialog_set_default "Elekti kiel norma">
+<!ENTITY pref_dialog_default "Norma">
+<!ENTITY pref_dialog_remove "Forigi">
+
+<!ENTITY pref_search_last_toast "Vi povas nek forigi nek malaktivigi vian lastan serĉilon.">
+
+<!ENTITY pref_panels_show "Montri">
+<!ENTITY pref_panels_hide "Kaŝi">
+<!ENTITY pref_panels_reorder "Ŝanĝi ordon">
+<!ENTITY pref_panels_move_up "Movi supren">
+<!ENTITY pref_panels_move_down "Movi malsupren">
+
+<!ENTITY datareporting_notification_title "Statistikoj kaj datumoj de &brandShortName;">
+<!ENTITY datareporting_notification_action_long "Elektu kiujn informojn dividi">
+<!ENTITY datareporting_notification_action "Elektu kion dividi">
+<!ENTITY datareporting_notification_summary "Por plibonigi vian sperton, &brandShortName; aŭtomate sendas kelkajn informojn al &vendorShortName;.">
+<!ENTITY datareporting_notification_summary_short "Por plibonigi vian sperton, &brandShortName;…">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
+
+<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
+     reporting_telemetry_title, datareporting_telemetry_summary,
+     datareporting_crashreporter_summary) : These match the strings in
+     en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
+     healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
+     crashReporterDesc.label). -->
+<!ENTITY datareporting_fhr_title "Sanraporto de &brandShortName;">
+<!ENTITY datareporting_fhr_summary2 "Tiu ĉi raporto dividas kun &vendorShortName; datumojn pri la sano de via retumilo kaj helpas vin kompreni ĝian efikecon">
+<!ENTITY datareporting_abouthr_title "Vidi mian sanraporton">
+<!ENTITY datareporting_telemetry_title "Telemezuro">
+<!ENTITY datareporting_telemetry_summary "Tio dividas kun &vendorShortName; datumojn pri efikeco, uzado, aparataro kaj personaj agordoj de via restesplorilo, por helpi nin plibonigi &brandShortName;.">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; sendas raportojn pri paneoj por helpi &vendorShortName; igi vian retumilon pli stabila kaj sekura">
+<!-- Localization note (datareporting_crashreporter_title_short) : This string matches
+     (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
+<!ENTITY datareporting_crashreporter_title_short "Raportado de paneoj">
+<!ENTITY datareporting_wifi_title2 "Pozicia servo de &vendorShortName;">
+<!ENTITY datareporting_wifi_geolocation_summary4 "Helpu &vendorShortName; mapi la mondon! Dividu la proksimuman pozicion de via aparato, rilate al sendrataj kaj poŝtelefonaj retoj, por plibonigi nian pozician servon.">
+<!-- Localization note (pref_update_autodownload2) : This should mention downloading
+     specifically, since the pref only prevents automatic downloads and not the
+     actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload2 "Elŝuti ĝisdatigojn aŭtomate">
+<!ENTITY pref_update_autodownload_wifi "Nur per sendrata reto">
+<!ENTITY pref_update_autodownload_never "Neniam">
+<!ENTITY pref_update_autodownload_always "Ĉiam">
+
+<!-- Localization note (help_menu) : This string is used in the main menu-->
+<!ENTITY help_menu "Helpo">
+
+<!ENTITY quit "Fini">
+
+<!ENTITY addons "Aldonaĵoj">
+<!ENTITY logins "Seancoj">
+<!ENTITY downloads "Elŝutoj">
+<!ENTITY apps "Programoj">
+<!ENTITY char_encoding "Signa enkodigo">
+
+<!ENTITY share "Dividi">
+<!ENTITY share_title "Dividi per">
+<!ENTITY share_image_failed "Ne eblas dividi tiun ĉi bildon">
+<!ENTITY save_as_pdf "Konservi kiel PDF">
+<!ENTITY find_in_page "Serĉi en paĝo">
+<!ENTITY desktop_mode "Peti skribotablan retejon">
+<!ENTITY page "Paĝo">
+<!ENTITY tools "Iloj">
+<!ENTITY new_tab "Nova langeto">
+<!ENTITY new_private_tab "Nova privata langeto">
+<!ENTITY close_all_tabs "Fermi ĉiujn langetojn">
+<!ENTITY close_private_tabs "Fermi privatajn langetojn">
+<!ENTITY tabs_normal "Langetoj">
+<!ENTITY tabs_private "Privataj">
+<!ENTITY tabs_synced "Spegulitaj">
+<!ENTITY set_image_fail "Ne eblas elekti bildon">
+<!ENTITY set_image_path_fail "Ne eblas konservi bildon">
+<!ENTITY set_image_chooser_title "Difini bildon kiel">
+
+<!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY find_text "Serĉi en paĝo">
+<!ENTITY find_prev "Malantaŭen">
+<!ENTITY find_next "Antaŭen">
+<!ENTITY find_close "Fermi">
+
+<!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY media_sending_to "Sendo al aparato">
+<!ENTITY media_play "Ludi">
+<!ENTITY media_pause "Paŭzigi">
+<!ENTITY media_stop "Haltigi">
+
+<!ENTITY contextmenu_open_new_tab "Malfermi en nova langeto">
+<!ENTITY contextmenu_open_private_tab "Malfermi en privata langeto">
+<!ENTITY contextmenu_remove "Forigi">
+<!ENTITY contextmenu_add_to_launcher "Aldoni al hejmekrano">
+<!ENTITY contextmenu_share "Dividi">
+<!ENTITY contextmenu_pasteandgo "Algui kaj iri">
+<!ENTITY contextmenu_paste "Alglui">
+<!ENTITY contextmenu_copyurl "Kopii adreson">
+<!ENTITY contextmenu_edit_bookmark "Redakti">
+<!ENTITY contextmenu_subscribe "Aboni al paĝo">
+<!ENTITY contextmenu_site_settings "Redakti agordojn de retejo">
+<!ENTITY contextmenu_top_sites_edit "Redakti">
+<!ENTITY contextmenu_top_sites_pin "Alpingli retejon">
+<!ENTITY contextmenu_top_sites_unpin "Depingli retejon">
+<!ENTITY contextmenu_add_search_engine "Aldoni serĉilon">
+
+<!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
+     where normally a username would be displayed. In this case, no username was found, and this placeholder
+     contains brackets to indicate this is not actually a username, but rather a placeholder -->
+<!ENTITY doorhanger_login_no_username "[Neniu uzantonomo]">
+<!ENTITY doorhanger_login_edit_title "Redakti seancon">
+<!ENTITY doorhanger_login_edit_username_hint "Uzantonomo">
+<!ENTITY doorhanger_login_edit_password_hint "Pasvorto">
+<!ENTITY doorhanger_login_edit_toggle "Montri pasvorton">
+<!ENTITY doorhanger_login_edit_toast_error "Malsukcesa konservado de seanco">
+<!ENTITY doorhanger_login_select_message "Ĉu kopii pasvorton de &formatS;?">
+<!ENTITY doorhanger_login_select_toast_copy "Pasvorto kopiita al la tondujo">
+<!ENTITY doorhanger_login_select_toast_copy_error "Ne eblis kopii pasvorton">
+<!ENTITY doorhanger_login_select_action_text "Elekti alian akreditilon">
+<!ENTITY doorhanger_login_select_title "Kopii pasvorton de">
+
+<!ENTITY pref_titlebar_mode "Titolstrio">
+<!ENTITY pref_titlebar_mode_title "Montri titolon de paĝo">
+<!ENTITY pref_titlebar_mode_url "Montri adreson de paĝo">
+
+<!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
+     whether or not the dynamic toolbar is enabled. -->
+<!ENTITY pref_scroll_title_bar2 "Plenekrana retumo">
+<!ENTITY pref_scroll_title_bar_summary "Kaŝi la titolstrion de &brandShortName; dum paĝo estas malsupren ŝovata">
+
+<!ENTITY pref_tab_queue_title2 "Malfermi plurajn ligilojn">
+<!ENTITY pref_tab_queue_summary3 "Konservi ilin ĝis la venonta starto de &brandShortName;">
+
+<!-- Localization note (page_removed): This string appears in a toast message when
+     any page is removed frome about:home. This includes pages that are in history,
+     bookmarks, or reading list. -->
+<!ENTITY page_removed "Paĝo forigita">
+
+<!ENTITY bookmark_edit_title "Redakti legosignon">
+<!ENTITY bookmark_edit_name "Nomo">
+<!ENTITY bookmark_edit_location "Retadreso">
+<!ENTITY bookmark_edit_keyword "Kategoria vorto">
+
+<!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
+     dialog that appears after selecting the "Edit Site Settings" context menu item. -->
+<!ENTITY site_settings_title3       "Agordoj de retejo">
+<!ENTITY site_settings_cancel       "Nuligi">
+<!ENTITY site_settings_clear        "Forviŝi">
+<!ENTITY site_settings_no_settings  "Estas neniu viŝebla agordo.">
+
+<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+     as possible. -->
+<!ENTITY reading_list_added2 "Aldonita al la listo">
+<!ENTITY reading_list_removed "Paĝo forigita el via legolisto">
+<!-- Localization note (reading_list_remove) : Used to remove the currently open page from
+     the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
+<!ENTITY reading_list_remove "Forigi el legolisto">
+<!ENTITY reading_list_duplicate "Paĝo jam en via legolisto">
+
+<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
+     panel on the home page to give the user an estimate of how many minutes it will take to
+     read an article. The word "minute" should be abbreviated if possible. -->
+<!ENTITY reading_list_time_minutes2 "&formatD; min">
+<!ENTITY reading_list_time_over_an_hour "Pli ol horo">
+
+<!-- Localization note : These strings are used as alternate text for accessibility.
+     They are not visible in the UI. -->
+<!ENTITY page_action_dropmarker_description "Aldonaj agoj">
+
+<!ENTITY masterpassword_create_title "Krei ĉefan pasvorton">
+<!ENTITY masterpassword_remove_title "Forigi ĉefan pasvorton">
+<!ENTITY masterpassword_password "Pasvorto">
+<!ENTITY masterpassword_confirm "Konfirmi pasvorton">
+
+<!ENTITY button_ok "Akcepti">
+<!ENTITY button_cancel "Nuligi">
+<!ENTITY button_yes "Jes">
+<!ENTITY button_no "Ne">
+<!ENTITY button_clear_data "Viŝi datumojn">
+<!ENTITY button_set "Difini">
+<!ENTITY button_clear "Forviŝi">
+<!ENTITY button_copy "Kopii">
+
+<!ENTITY firstrun_panel_title_welcome "Bonvenon">
+
+<!ENTITY home_top_sites_title "Top Sites">
+<!-- Localization note (home_top_sites_add): This string is used as placeholder
+     text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!ENTITY home_top_sites_add "Aldoni retejon">
+
+<!-- Localization note (home_title): This string should be kept in sync
+     with the page title defined in aboutHome.dtd -->
+<!ENTITY home_title "Eka paĝo de &brandShortName;">
+<!ENTITY home_history_title "Historio">
+<!ENTITY home_clear_history_button "Viŝi retuman historion">
+<!ENTITY home_clear_history_confirm "Ĉu vi certe volas viŝi vian historion?">
+<!ENTITY home_bookmarks_empty "Konservitaj legosignoj videblos ĉi tie.">
+<!ENTITY home_closed_tabs_title "Antaŭ nelonge fermitaj langetoj">
+<!ENTITY home_last_tabs_title "Lastfojaj langetoj">
+<!ENTITY home_last_tabs_empty "Tie ĉi videblos viaj langetoj el antaŭ nelonge.">
+<!ENTITY home_open_all "Malfermi ĉiujn">
+<!ENTITY home_most_recent_empty "La laste vizititaj retejoj aperas ĉi tie.">
+<!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
+     The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2 "He, sciu ke en &formatS1;nova privata langeto&formatS2; la historio ne estos konservita.">
+<!ENTITY home_reading_list_empty "Artikoloj, kiujn vi konservis por poste, aperas ĉi tie.">
+<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
+     as an advisory message on how to add content to the reading list when the reading list empty.
+     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
+<!ENTITY home_reading_list_hint2 "Konsileto: konservi artikolojn en via legolisto per longa premo sur la bildsimbolo &formatI;, kiam ĝi aperas en la titolstrio.">
+<!-- Localization note (home_reading_list_hint_accessible): This string is used
+     as alternate text for accessibility. It is not visible in the UI. -->
+<!ENTITY home_reading_list_hint_accessible "Konsileto: konservi artikolojn en via legolisto per longa premo sur la butono de la legoreĝimo kiam ĝi aperas en la titolstrio.">
+
+<!-- Localization note (home_default_empty): This string is used as the default text when there
+     is no data to show in an about:home panel that was created by an add-on. -->
+<!ENTITY home_default_empty "Neniu enhavo trovita por tiu ĉi panelo.">
+
+<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+     previous location in the navigation, such as the previous folder -->
+<!ENTITY home_move_up_to_filter "Supren al &formatS;">
+
+<!ENTITY home_remote_tabs_title "Spegulitaj langetoj">
+<!ENTITY home_remote_tabs_empty "Viaj langetoj el aliaj aparatoj, aperos ĉi tie.">
+<!ENTITY home_remote_tabs_unable_to_connect "Ne eblas konekti">
+<!ENTITY home_remote_tabs_need_to_sign_in "Bonvolu komenci seancon por rekonekti vian konton de Firefox kaj daŭrigi la speguladon.">
+<!ENTITY home_remote_tabs_need_to_finish_migrating "Via nova konto de Firefox pretas!">
+
+<!ENTITY home_remote_tabs_trouble_verifying "Ĉu estas problemo en la kontrolo de via konto?">
+<!ENTITY home_remote_tabs_need_to_verify "Bonvolu kontroli vian konton de Firefox por komenci speguli.">
+
+<!ENTITY home_remote_tabs_one_hidden_device "1 kaŝita aparato">
+<!-- Localization note (home_remote_tabs_many_hidden_devices) : The
+     formatD is replaced with the number of hidden devices.  The
+     number of hidden devices is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; kaŝitaj aparatoj">
+<!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
+     title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "Kaŝitaj aparatoj">
+<!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
+     the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "Malkaŝi elektitajn aparatojn">
+
+<!ENTITY remote_tabs_panel_moved_title "Kien iris miaj langetoj?">
+<!ENTITY remote_tabs_panel_moved_desc "Ni movis viajn langetojn el aliaj aparatoj en panelon en via hejmpaĝo, kiuj estas facile alirebla ĉiufoje kiam vi malfermas novan lageton.">
+<!ENTITY remote_tabs_panel_moved_link "Porti min al mia nova panelo.">
+
+<!ENTITY pin_site_dialog_hint "Tajpu serĉan ŝlosilvorton">
+
+<!ENTITY filepicker_title "Elekti dosieron">
+<!ENTITY filepicker_audio_title "Elekti aŭ registri sonon">
+<!ENTITY filepicker_image_title "Elekti aŭ preni foton">
+<!ENTITY filepicker_video_title "Elekti aŭ registri filmeton">
+
+<!-- Site identity popup -->
+<!ENTITY identity_connected_to "Vi estas konektita al">
+<!-- Localization note (identity_run_by) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity_run_by "kiu estas funkciigata de">
+<!ENTITY identity_no_info "Tiu ĉi retejo ne provizas identigan informon.">
+<!ENTITY identity_not_encrypted "Via konekto al tiu ĉi retejo ne estas ĉifrita.">
+<!ENTITY identity_encrypted "Ĉifrita">
+
+<!-- Mixed content notifications in site identity popup -->
+<!ENTITY loaded_mixed_content_message "Tiu ĉi paĝo montras enhavon, kiu ne estas sekura.">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; blokis nesekuran enhavon.">
+<!ENTITY blocked_mixed_content_message_bottom "La plimulto de retejoj plufunkcios bone, eĉ kiam tia ĉi enhavo estas blokita.">
+
+<!-- Tracking content notifications in site identity popup -->
+<!ENTITY loaded_tracking_content_message_top "Kontraŭspura protekto malaktiva.">
+<!ENTITY loaded_tracking_content_message_bottom "Partoj de tiu ĉi paĝo povas spuri vin en la reto.">
+<!ENTITY blocked_tracking_content_message_top2 "Kontraŭspura protekto aktiva.">
+<!ENTITY blocked_tracking_content_message_bottom2 "Partoj de tiu ĉi paĝo, kiuj spuras vin en la reto, estis blokitaj.">
+
+<!-- Common mixed and tracking content strings in site identity popup -->
+<!ENTITY learn_more "Pli da informo">
+<!ENTITY enable_protection "Aktivigi protekton">
+<!ENTITY disable_protection "Malaktivigi protekton">
+<!ENTITY keep_blocking "Plue bloki">
+
+<!ENTITY private_data_success "Privataj datumoj viŝitaj">
+<!ENTITY private_data_fail "Kelkaj privataj datumoj ne povis esti viŝitaj">
+
+<!ENTITY bookmarkhistory_button_import "Importi">
+<!ENTITY bookmarkhistory_import_both "Historio kaj legosignoj importataj el Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Legosignoj importataj el Android">
+<!ENTITY bookmarkhistory_import_history "Historio importata el Android">
+<!ENTITY bookmarkhistory_import_wait "Bonvolu atendi...">
+
+<!ENTITY suggestions_prompt3 "Ĉu vi ŝatus ŝalti serĉajn sugestojn?">
+<!--  Localization note (search_bar_item_desc): When the user clicks the url bar
+      and starts typing, a list of icons of search engines appears at the bottom
+      of the screen. When a user clicks an icon, the entered text will be searched
+      via the search engine that uses the icon they clicked. This text is used
+      for screen reader users when they hover each icon - &formatS; will be
+      replaced with the name of the currently highlighted icon. -->
+<!ENTITY search_bar_item_desc "Serĉi per &formatS;">
+
+<!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
+     replaced with the name of the search engine. The placeholder &formatS2; will be
+     replaced with the search query. -->
+<!ENTITY suggestion_for_engine "Serĉi &formatS2; per &formatS1;">
+
+<!ENTITY webapp_generic_name "Programo">
+
+<!ENTITY searchable_description "Legosignoj kaj historion">
+
+ <!-- Updater notifications -->
+<!ENTITY updater_start_title2 "Ĝisdatigo havebla por &brandShortName;">
+<!ENTITY updater_start_select2 "Tuŝu por elŝuti">
+
+<!ENTITY updater_downloading_title2 "&brandShortName; elŝutata">
+<!ENTITY updater_downloading_title_failed2 "Elŝuto malsukcesa">
+<!ENTITY updater_downloading_select2 "Tuŝu por apliki ĝisdatigon post elŝuto">
+<!ENTITY updater_downloading_retry2 "Tuŝu por reprovi">
+
+<!ENTITY updater_apply_title2 "Havebla ĝisdatigo por &brandShortName;">
+<!ENTITY updater_apply_select2 "Tuŝu por ĝisdatigi">
+
+<!-- Guest mode -->
+<!ENTITY new_guest_session "Nova gasta seanco">
+<!ENTITY exit_guest_session "Eliri el gasta seanco">
+<!ENTITY guest_session_dialog_continue "Daŭrigi">
+<!ENTITY guest_session_dialog_cancel "Nuligi">
+<!ENTITY new_guest_session_title "&brandShortName; restartos nun">
+<!ENTITY new_guest_session_text2 "La persono kiu uzos ĝin ne povos vidi ion ajn el viaj personaj retumaj datumoj (ekzemple: konservitaj akreditiloj, historio aŭ legosignoj).\n\nKiam viaj gastoj finos la seancon, iliaj retumaj datumoj estos forigitaj kaj via seanco estos restarigita.">
+<!ENTITY guest_browsing_notification_title "Gasta retumo estas aktiva">
+<!ENTITY guest_browsing_notification_text "Tuŝetu por eliri">
+
+<!ENTITY exit_guest_session_title "&brandShortName; restartos nun">
+<!ENTITY exit_guest_session_text "La retumaj datumoj de tiu ĉi sesio estos forigitaj.">
+
+<!-- Miscellaneous -->
+<!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
+     designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
+     traditions in your locale. -->
+<!ENTITY ellipsis "…">
+
+<!ENTITY colon ":">
+
+<!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
+     display a percentage value. formatS is the number, #37 is the code to display a percent sign.
+     This format string is typically used by getString method, in such method the percent sign
+     is a reserved caracter. In order to display one percent sign in the result of getString,
+     double percent signs must be inserted in the format string.
+     This entity is used in the zoomed view to display the zoom factor-->
+<!ENTITY percent "&formatS;&#37;&#37;">
+
+<!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
+     They are never shown to users -->
+<!ENTITY actionbar_menu "Menuo">
+<!ENTITY actionbar_done "Farita">
+
+<!-- Voice search in the awesome bar -->
+<!ENTITY voicesearch_prompt "Parolu nun">
+<!ENTITY voicesearch_failed_title "Serĉo per voĉo de &brandShortName;">
+<!ENTITY voicesearch_failed_message "Estas nuntempe problemo kun la serĉo per voĉo. Bonvolu klopodi poste.">
+<!ENTITY voicesearch_failed_message_recoverable "Pardonu! Ne ne povis rekoni viajn vortojn. Bonvolu klopodi denove.">
+<!ENTITY voicesearch_failed_retry "Klopodi denove">
+
+<!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
+     "relative time span string" produced by Android.  This string describes the
+     time the tabs were last synced relative to the current time; examples
+     include "42 minutes ago", "4 days ago", "last week", etc. The subject of
+     "Last synced" is one of the user's other Sync clients, typically Firefox on
+     their desktop or laptop.-->
+<!ENTITY remote_tabs_last_synced "Laste spegulita: &formatS;">
+<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "Lasta spegulado: neniam">
+
+<!-- Find-In-Page strings -->
+<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
+     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
+<!ENTITY find_matchcase "Aa">
+
+<!ENTITY intent_uri_cannot_open "Ne eblis malfermi ligilon">

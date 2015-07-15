@@ -1,0 +1,30 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY search_app_name 'Serĉo de &brandShortName;'>
+
+<!--  Localization note (search_bar_hint): The &formatS; will be replaced with the name of
+      the currently selected search engine. -->
+<!ENTITY search_bar_hint 'Serĉi per &formatS;'>
+
+<!ENTITY search_empty_title2 'Komenci serĉi'>
+<!ENTITY search_empty_message 'Rapide serĉi kion ajn vi volas'>
+
+<!--  Localization note (search_plus_content_description): This is the content description
+      for the "+" icon that appears at the end of search suggestions. -->
+<!ENTITY search_plus_content_description 'Aldoni al la serĉostrio'>
+
+<!ENTITY search_pref_title 'Agordoj'>
+<!ENTITY search_pref_button_content_description 'Agordoj'>
+
+<!ENTITY pref_clearHistory_confirmation 'Historio viŝita'>
+<!ENTITY pref_clearHistory_dialogMessage 'Ĉu forviŝi la tutan historion de serĉoj en tiu ĉi aparato?'>
+<!ENTITY pref_clearHistory_title 'Viŝi historion de serĉoj'>
+
+<!ENTITY pref_searchProvider_title 'Serĉilo'>
+
+<!ENTITY search_widget_button_label 'Serĉi'>
+
+<!ENTITY network_error_title 'Ne estas retaliro'>
+<!ENTITY network_error_message 'Tuŝeti tie ĉi por kontroli viajn retajn agordojn'>

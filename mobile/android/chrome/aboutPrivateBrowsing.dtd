@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY privatebrowsingpage.title "Privata retumado">
+<!ENTITY privatebrowsingpage.title.normal "Vi ne estas en privata retumado">
+
+<!ENTITY privatebrowsingpage.issueDesc.normal2 "En privata retumado, ni ne konservos ion ajn de via retuma historio aŭ kuketoj.">
+<!ENTITY privatebrowsingpage.issueDesc.private2 "Ni ne konservos ion ajn de via retuma historio aŭ kuketoj.">
+
+<!ENTITY privatebrowsingpage.description2 "Aldonitaj legosignoj kaj elŝutitaj dosieroj estos konservitaj en via aparato.">
+<!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
+<!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
+
+<!ENTITY privatebrowsingpage.link.private "Ĉu vi volas havi pli da informo?">
+<!ENTITY privatebrowsingpage.link.normal "Malfermi novan privatan langeton">
