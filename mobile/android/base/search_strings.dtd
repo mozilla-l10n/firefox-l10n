@@ -1,19 +1,18 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!--  Localization note (search_bar_hint): The &formatS; will be replaced with the name of
-      the currently selected search engine. -->
 
-
-<!--  Localization note (search_plus_content_description): This is the content description
-      for the "+" icon that appears at the end of search suggestions. -->
-
-
-
-
-
-
-
+<!ENTITY search_app_name "Búsqueda de &brandShortName;">
+<!ENTITY search_bar_hint "Buscar con &formatS;">
+<!ENTITY search_empty_title2 "Comenzar la búsqueda">
+<!ENTITY search_empty_message "Busque rápidamente lo que desee">
+<!ENTITY search_plus_content_description "Añadir a la barra de búsqueda">
+<!ENTITY search_pref_title "Configuración">
+<!ENTITY search_pref_button_content_description "Configuración">
+<!ENTITY pref_clearHistory_confirmation "Historial limpiado">
+<!ENTITY pref_clearHistory_dialogMessage "¿Eliminar todo el historial de búsquedas de este dispositivo?">
+<!ENTITY pref_clearHistory_title "Limpiar historial de búsqueda">
+<!ENTITY pref_searchProvider_title "Buscador">
 <!ENTITY search_widget_button_label "Buscar">
-
-
+<!ENTITY network_error_title "No hay conexión a Internet">
+<!ENTITY network_error_message "Toque aquí para comprobar su config. de red">

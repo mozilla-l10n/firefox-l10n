@@ -1,6 +1,0 @@
-google
-yahoo-es
-bing
-twitter
-wikipedia-es
-11870
