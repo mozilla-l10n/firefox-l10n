@@ -94,7 +94,7 @@
 <!ENTITY details_location "Adreso">
 <!ENTITY details_manifestURL "Programa ID">
 <!ENTITY details_removeProject_button "Forigi projekton">
-<!ENTITY details_showPrepackageLog_button "Montri la antaŭpakan registradon">
+<!ENTITY details_showPrepackageLog_button "Montri la antaŭpakan registron">
 
 <!-- New App -->
 <!ENTITY newAppWindowTitle "Nova programo">
