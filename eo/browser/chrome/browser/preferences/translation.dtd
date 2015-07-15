@@ -6,14 +6,14 @@
 <!ENTITY window.width                     "36em">
 <!ENTITY windowClose.key                  "w">
 
-<!ENTITY noTranslationForLanguages.label  "Traduko ne estos proponitaj por la jenaj lingvoj:">
+<!ENTITY noTranslationForLanguages.label  "Tradukoj ne estos proponitaj por la jenaj lingvoj:">
 <!ENTITY treehead.languageName.label      "Lingvoj">
 <!ENTITY removeLanguage.label             "Forigi lingvon">
 <!ENTITY removeLanguage.accesskey         "F">
 <!ENTITY removeAllLanguages.label         "Forigi ĉiujn lingvojn">
 <!ENTITY removeAllLanguages.accesskey     "l">
 
-<!ENTITY noTranslationForSites.label      "Traduko ne estos proponitaj por la jenaj retejoj:">
+<!ENTITY noTranslationForSites.label      "Tradukoj ne estos proponitaj por la jenaj retejoj:">
 <!ENTITY treehead.siteName.label          "Retejoj">
 <!ENTITY removeSite.label                 "Forigi retejon">
 <!ENTITY removeSite.accesskey             "r">

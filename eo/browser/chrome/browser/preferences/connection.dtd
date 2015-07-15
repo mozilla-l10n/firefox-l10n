@@ -46,4 +46,4 @@
 <!ENTITY  shareproxy.accesskey          "p">
 <!ENTITY  autologinproxy.label          "Ne pridemandi aŭtentikigon se la pasvorto estas konservita">
 <!ENTITY  autologinproxy.accesskey      "a">
-<!ENTITY  autologinproxy.tooltip        "Tiu ĉi elekteblo silente legitimas vin ĉe retperantoj se vi konservis la legitimaĵojn por ili. Vi estos pridemandita si la legitimo estas malsukcesa">
+<!ENTITY  autologinproxy.tooltip        "Tiu ĉi elekteblo silente legitimas vin ĉe retperantoj se vi konservis la legitimaĵojn por ili. Vi estos pridemandita se la legitimo estas malsukcesa.">

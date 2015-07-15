@@ -15,7 +15,7 @@
 -->
 <!ENTITY engine.bookmarks.label           "legosignojn">
 <!ENTITY engine.bookmarks.accesskey       "l">
-<!ENTITY engine.readinglist.label         "legolisto">
+<!ENTITY engine.readinglist.label         "legoliston">
 <!ENTITY engine.readinglist.accesskey     "L">
 <!ENTITY engine.history.label             "historion">
 <!ENTITY engine.history.accesskey         "h">

@@ -118,7 +118,7 @@
 <!ENTITY prefs_restore "Remeti normojn">
 <!ENTITY prefs_manage_components "Administri ekstrajn komponantojn">
 <!ENTITY prefs_options_autoconnectruntime "Rekonekti antaŭan rulĉirkaŭaĵon">
-<!ENTITY prefs_options_autoconnectruntime_tooltip "Kiam WebIDE komenciĝas, rekonekti antaŭan rulĉirkaŭaĵo">
+<!ENTITY prefs_options_autoconnectruntime_tooltip "Kiam WebIDE komenciĝas, rekonekti antaŭan rulĉirkaŭaĵon">
 <!ENTITY prefs_options_rememberlastproject "Memori lastan projekton">
 <!ENTITY prefs_options_rememberlastproject_tooltip "Uzi antaŭan projekton kiam WebIDE komenciĝas">
 <!ENTITY prefs_options_templatesurl "URL de ŝablonoj">
@@ -185,10 +185,10 @@
 <!ENTITY wifi_auth_scan_request "La alia flanko de la konekto bezonas pli da informo por aŭtentigi tiun ĉi konekton. Bonvolu skani la kodon QR kiu troviĝas malsupre ĉe la informpeto en via alia aparato.">
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
      devices that can't scan a QR code. -->
-<!ENTITY wifi_auth_no_scanner "Ĉu ne estas informpeto kie skani QR?">
+<!ENTITY wifi_auth_no_scanner "Ĉu ne estas peto skani QR?">
 <!-- LOCALIZATION NOTE (wifi_auth_yes_scanner): Link text to assist users with
      devices that can scan a QR code. -->
-<!ENTITY wifi_auth_yes_scanner "Ĉu estas informpeto kie skani QR?">
+<!ENTITY wifi_auth_yes_scanner "Ĉu estas peto skani QR?">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "Se via alia aparato petas ĵetonon anstataŭ ol skani kodon QR, bonvolu kopii la valoron, kiu troviĝas malsupre, al la alia aparato:">

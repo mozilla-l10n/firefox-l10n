@@ -82,11 +82,11 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "e">
 <!ENTITY bookmarksToolbarItem.label "Elementoj de ilaro de legosignoj">
 
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "Reŝargi ĉiujn foliojn">
-<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "f">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Aldoni legosignon por ĉiuj folioj…">
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "Reŝargi ĉiujn langetojn">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "R">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Aldoni legosignon por ĉiuj langetoj…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "l">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "Malfermi fermitan folion">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Malfermi fermitan langeton">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "M">
 
 <!ENTITY pageSourceCmd.label "Fonto de paĝo">
@@ -444,7 +444,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
-<!ENTITY changeSearchSettings.button  "Agordoj de serĉo">
+<!ENTITY changeSearchSettings.button  "Ŝanĝi agordojn de serĉo">
 
 <!ENTITY tabView.commandkey           "e">
 

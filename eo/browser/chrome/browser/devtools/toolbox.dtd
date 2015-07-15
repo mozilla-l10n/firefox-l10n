@@ -204,7 +204,7 @@
 <!ENTITY options.sourceeditor.autoclosebrackets.label   "Aŭtomate fermi krampojn">
 <!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Aŭtomate enmeti fermajn krampojn">
 <!ENTITY options.sourceeditor.expandtab.label           "Krei krommarĝenojn per spacoj">
-<!ENTITY options.sourceeditor.expandtab.tooltip         "Uzi spacojn anstataŭ tabon">
+<!ENTITY options.sourceeditor.expandtab.tooltip         "Uzi spacojn anstataŭ tabojn">
 <!ENTITY options.sourceeditor.tabsize.label             "Spacoj po tabo">
 <!ENTITY options.sourceeditor.tabsize.accesskey         "T">
 <!ENTITY options.sourceeditor.keybinding.label          "Klavkombinoj">

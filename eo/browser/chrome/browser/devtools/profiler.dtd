@@ -69,7 +69,7 @@
 <!ENTITY profilerUI.toolbar.js-calltree "JavaScript">
 <!ENTITY profilerUI.toolbar.memory-calltree1 "Asignoj">
 <!ENTITY profilerUI.toolbar.js-flamegraph "Flama grafikaĵo de JS">
-<!ENTITY profilerUI.toolbar.memory-flamegraph1 "Asignoj de flama grafikaĵo">
+<!ENTITY profilerUI.toolbar.memory-flamegraph1 "Flama grafikaĵo de asignoj">
 
 <!-- LOCALIZATION NOTE (profilerUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
@@ -150,7 +150,7 @@
 
 <!-- LOCALIZATION NOTE (profilerUI.JITOptimizationsTitle): This string
   -  is displayed as the title of the JIT Optimizations panel. -->
-<!ENTITY profilerUI.JITOptimizationsTitle "Optimigoj de JIT">
+<!ENTITY profilerUI.JITOptimizationsTitle "Optimumigoj de JIT">
 
 <!-- LOCALIZATION NOTE (profilerUI.console.recordingNoticeStart/recordingNoticeEnd):
   -  This string is displayed when a recording is selected that started via console.profile.
