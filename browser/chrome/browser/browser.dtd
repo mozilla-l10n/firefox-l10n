@@ -675,7 +675,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connectionSecure "Sekura konekto">
 <!ENTITY identity.connectionNotSecure "Nesekura konekto">
-<!ENTITY identity.connectionVerified "&brandShortName; verified that you are securely connected to this site, run by:">
+<!ENTITY identity.connectionVerified "&brandShortName; kontrolis ke vi estas sekure konektita al tiu ĉi retejo, funkciigita de:">
 <!ENTITY identity.connectionInternal "Tiu ĉi estas sekura paĝo de &brandShortName;.">
 
 <!ENTITY identity.moreInfoLinkText2 "Pli da informo">
@@ -765,7 +765,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY mixedContentBlocked2.unblock.label "Momente malaktivigi la protekton">
 <!ENTITY mixedContentBlocked2.unblock.accesskey "M">
 <!ENTITY mixedContentBlocked2.block.label "Aktivigi protekton">
-<!ENTITY mixedContentBlocked2.block.accesskey "B">
+<!ENTITY mixedContentBlocked2.block.accesskey "A">
 <!ENTITY mixedContentBlocked2.disabled.message "La protekto ne estas aktiva">
 
 <!ENTITY trackingContentBlocked.message "Spurado">
