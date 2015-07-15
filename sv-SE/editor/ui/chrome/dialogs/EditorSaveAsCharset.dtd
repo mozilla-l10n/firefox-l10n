@@ -7,11 +7,11 @@
 <!-- This button is for the progressive disclosure of additional editing functionality -->
 
 <!-- These strings are for use specifically in the editor's link dialog. -->
-<!ENTITY windowTitle.label "Spara och byt teckenkodning">
+<!ENTITY windowTitle2.label "Spara och ändra textkodning">
 <!ENTITY documentTitleTitle.label "Sidrubrik">
-<!ENTITY documentCharsetTitle.label "Teckenkodning">
-<!ENTITY documentCharsetDesc.label "Välj den teckenkodning du vill spara dokumentet i:">
-<!ENTITY documentExportToText.label "Exportera som text">
+<!ENTITY documentCharsetTitle2.label "Textkodning">
+<!ENTITY documentCharsetDesc2.label "Markera den textkodning som du vill spara ett dokument i:">
+<!ENTITY documentExportToText.label "Exportera till text">
 
 
 

@@ -76,7 +76,7 @@
 <!ENTITY projects.removeAppFromList "Ta bort den här appen från listan på appar du arbetar med. Den tas inte bort från enheten eller simulatorn.">
 <!ENTITY projects.updateApp "Uppdatera">
 <!ENTITY projects.updateAppTooltip "Kör valideringskontroller och uppdatera appen till den anslutna enheten">
-<!ENTITY projects.debugApp "Avlusa">
+<!ENTITY projects.debugApp "Felsök">
 <!ENTITY projects.debugAppTooltip "Öppna utvecklarverktygen som är anslutna till appen">
 <!ENTITY projects.saveManifest "Spara">
 <!ENTITY projects.saveManifestTooltip "Spara innehållet i manifesteditorn nedan">

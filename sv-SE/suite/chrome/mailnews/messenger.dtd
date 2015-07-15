@@ -65,7 +65,7 @@
 <!ENTITY offlineMenu.accesskey "i">
 <!ENTITY synchronizeOfflineCmd.label "Hämta/Synkronisera nu…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
-<!ENTITY settingsOfflineCmd.label "Inställnigar för att arbeta i nedkopplat läge">
+<!ENTITY settingsOfflineCmd.label "Inställningar för att arbeta i nedkopplat läge">
 <!ENTITY settingsOfflineCmd.accesskey "I">
 <!ENTITY downloadSelectedCmd.label "Hämta markerade meddelanden">
 <!ENTITY downloadSelectedCmd.accesskey "H">
@@ -446,6 +446,12 @@
 <!ENTITY throbber.tooltip "Gå till &vendorShortName;s webbplats">
 <!ENTITY junkButton.tooltip "Märk de markerade meddelandena som skräppost">
 <!ENTITY notJunkButton.tooltip "Märk de markerade meddelandena som Ej skräppost">
+
+<!-- Remote Content Button Popup -->
+<!ENTITY remoteContentOptionsAllowForMsg.label "Visa externt innehåll i detta meddelande">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "V">
+<!ENTITY editRemoteContentSettings.label "Redigera rättigheter för externt innehåll…">
+<!ENTITY editRemoteContentSettings.accesskey "R">
 
 <!-- Statusbar -->
 <!ENTITY  statusText.label "Dokument: Klart">

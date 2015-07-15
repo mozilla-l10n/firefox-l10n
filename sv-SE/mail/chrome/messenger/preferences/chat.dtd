@@ -23,17 +23,19 @@ sentence. -->
 <!ENTITY  sendTyping.label              "Skicka skrivmeddelanden i konversationer">
 <!ENTITY  sendTyping.accesskey          "k">
 
-<!ENTITY  chatNotifications.label             "När meddelande riktade till dig kommer:">
-<!ENTITY  desktopChatNotifications.label      "Visa aviseringar">
+<!ENTITY  chatNotifications.label             "När meddelanden riktade till dig kommer:">
+<!ENTITY  desktopChatNotifications.label      "Visa avisering">
 <!ENTITY  desktopChatNotifications.accesskey  "V">
+<!ENTITY  completeNotification.label          "med avsändarens namn och förhandsvisning">
+<!ENTITY  buddyInfoOnly.label                 "med avsändarens namn endast">
+<!ENTITY  dummyNotification.label             "utan någon info">
 <!ENTITY  chatSound.accesskey                 "d">
-<!ENTITY  chatSound.label                     "Spela upp ett ljud">
+<!ENTITY  chatSound.label                     "Spela ett ljud">
 <!ENTITY  play.label                          "Spela">
 <!ENTITY  play.accesskey                      "S">
 <!ENTITY  systemSound.label                   "Systemets standardljud för ny e-post">
-<!ENTITY  systemSound.accesskey               "t">
+<!ENTITY  systemSound.accesskey               "D">
 <!ENTITY  customsound.label                   "Använd följande ljudfil">
 <!ENTITY  customsound.accesskey               "A">
 <!ENTITY  browse.label                        "Bläddra…">
 <!ENTITY  browse.accesskey                    "B">
-

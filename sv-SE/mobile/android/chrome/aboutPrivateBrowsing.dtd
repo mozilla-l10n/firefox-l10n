@@ -2,12 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                  "Privat surfning">
+<!ENTITY privatebrowsingpage.title "Privat surfning">
+<!ENTITY privatebrowsingpage.title.normal "Du surfar inte i privat läge">
 
-<!ENTITY privatebrowsingpage.issueDesc.private      "Du har öppnat en ny privat flik.">
-<!ENTITY privatebrowsingpage.issueDesc.normal       "Du använder inte en privat flik.">
+<!ENTITY privatebrowsingpage.issueDesc.normal2 "I privat surfläge, kommer vi inte spara någon av din webbhistorik eller kakor.">
+<!ENTITY privatebrowsingpage.issueDesc.private2 "Vi kommer inte spara något av din surf historik eller kakor.">
 
-<!ENTITY privatebrowsingpage.description            "För privata flikar kommer &brandShortName; inte att spara någon webbläsarhistorik, sökhistorik, filhämtningshistorik, formulärhistorik, kakor eller tillfälliga internetfiler. Filer du hämtar och bokmärken du lägger till kommer däremot att bevaras.">
-<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+<!ENTITY privatebrowsingpage.description2 "Bokmärken du har lagt till och filer du har laddat hem kommer fortfarande sparas på din enhet.">
+<!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
+<!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
 
-<!ENTITY privatebrowsingpage.moreInfo               "Även om den här enheten inte kommer att ha några uppgifter om din webbläsningshistorik, kan din internetleverantör fortfarande ha koll på vilka sidor du besöker.">
+<!ENTITY privatebrowsingpage.link.private "Vill du veta mer?">
+<!ENTITY privatebrowsingpage.link.normal "Öppna en ny privat flik ">

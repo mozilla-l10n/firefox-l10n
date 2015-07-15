@@ -8,23 +8,40 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Sök efter uppdateringar">
 <!ENTITY update.checkForUpdatesButton.accesskey   "S">
-<!ENTITY update.updateButton.label                "Starta om för att uppdatera">
+<!ENTITY update.updateButton.label2               "Starta om &brandShortName; för att uppdatera">
 <!ENTITY update.updateButton.accesskey            "o">
 <!ENTITY update.applyButtonBillboard.label        "Tillämpa uppdatering…">
 <!ENTITY update.applyButtonBillboard.accesskey    "T">
+
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+<!ENTITY warningDesc.version        "&brandShortName;  är experimentell och kan vara instabil. ">
+<!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetryDesc  "Den skickar automatiskt information om prestanda, hårdvara, användning och anpassningar tillbaka till &vendorShortName; för att göra &brandShortName; bättre.">
+
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+<!ENTITY community.exp.start        "">
+<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
+<!ENTITY community.exp.middle       " är en ">
+<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "global gemenskap">
+<!ENTITY community.exp.end          " som arbetar tillsammans för att hålla webben öppen, offentlig och tillgänglig för alla.">
 
 <!ENTITY community.start2           "&brandShortName; är skapad av ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", en ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "global community">
-<!ENTITY community.end2             " som jobbar tillsammans för ett bättre internet. Vi anser att internet ska vara öppet, allmänt och tillgängligt för alla utan begränsningar.">
+<!ENTITY community.creditsLink      "global gemenskap">
+<!ENTITY community.end3             " som arbetar tillsammans för att hålla webben öppen, offentlig och tillgänglig för alla.">
 
-<!ENTITY contribute.start           "Låter det intressant? ">
-<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "Hjälp till!">
-<!ENTITY contribute.end             "">
+<!ENTITY helpus.start               "Vill du hjälpa till?">
+<!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
+<!ENTITY helpus.donateLink          "Gör en donation">
+<!ENTITY helpus.middle              " eller ">
+<!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY helpus.getInvolvedLink     "engagera dig!">
+<!ENTITY helpus.end                 "">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 <!ENTITY bottomLinks.license        "Licensinformation">
@@ -41,6 +58,8 @@
 <!ENTITY update.noUpdatesFound      "&brandShortName; är redan uppdaterad">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "Uppdateringar är inaktiverade av systemadministratören">
+<!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
+<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; uppdateras av en annan instans">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into

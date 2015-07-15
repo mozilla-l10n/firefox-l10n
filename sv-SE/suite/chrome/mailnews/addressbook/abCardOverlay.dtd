@@ -48,15 +48,6 @@
 <!ENTITY ScreenName.label               "Skärmnamn:">
 <!ENTITY ScreenName.accesskey           "m">
 
-<!ENTITY allowRemoteContent1.label       "Tillåt externa objekt.">
-<!ENTITY allowRemoteContent1.accesskey   "i">
-<!ENTITY allowRemoteContent1.tooltip     "I HTML-meddelanden är det möjligt att
-infoga objekt från externa källor. Att öppna ett sådant meddelande innebär att
-en anslutning till den externa källan etableras. Det kan medföra att det lästa
-meddelandet spåras. Genom att rutan markeras tillåts sådana externt infogade
-objekt i HTML-meddelanden från denna kontakt.">
-
-
 <!ENTITY WorkPhone.label                "Arbete:">
 <!ENTITY WorkPhone.accesskey            "b">
 <!ENTITY HomePhone.label                "Hem:">

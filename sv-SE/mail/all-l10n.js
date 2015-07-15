@@ -5,6 +5,3 @@
 #filter substitution
 
 pref("general.useragent.locale", "@AB_CD@");
-pref("mailnews.reply_header_separator", " ");
-pref("mailnews.reply_header_type", 3);
-

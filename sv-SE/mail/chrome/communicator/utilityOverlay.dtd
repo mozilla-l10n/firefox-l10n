@@ -8,6 +8,7 @@
 <!ENTITY fileMenu.accesskey            "A">
 <!ENTITY newMenu.label                 "Nytt">
 <!ENTITY newMenu.accesskey             "N">
+
 <!ENTITY editMenu.label                "Redigera">
 <!ENTITY editMenu.accesskey            "R">
 <!ENTITY undoCmd.label                 "Ångra">
@@ -31,7 +32,7 @@
 <!ENTITY selectAllCmd.key              "A">
 <!ENTITY selectAllCmd.accesskey        "M">
 <!ENTITY preferencesCmd2.label 		   "Alternativ">
-<!ENTITY preferencesCmd2.accesskey 	   "l">
+<!ENTITY preferencesCmd2.accesskey 	   "e">
 <!ENTITY preferencesCmdUnix.label      "Inställningar">
 <!ENTITY preferencesCmdUnix.accesskey  "I">
 

@@ -3,18 +3,20 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "Allmänt">
-<!ENTITY itemDisplay.label       "Läsning &amp; visning">
+<!ENTITY dataChoicesTab.label    "Dataval">
 <!ENTITY itemUpdate.label        "Uppdateringar">
 <!ENTITY itemNetworking.label    "Nätverk &amp; diskutrymme">
 <!ENTITY itemCertificates.label  "Certifikat">
 
 <!-- General Settings -->
-
-<!ENTITY submitTelemetry.label         "Skicka prestandadata">
-<!ENTITY submitTelemetry.accesskey     "S">
-<!ENTITY telemetryInfoLink.label       "Mer information om Telemetry">
 <!ENTITY enableGlodaSearch.label       "Aktivera global sökning och indexering">
 <!ENTITY enableGlodaSearch.accesskey   "A">
+<!ENTITY allowHWAccel.label            "Använd hårdvaruacceleration när det finns">
+<!ENTITY allowHWAccel.accesskey        "h">
+<!ENTITY storeType.label               "Lagringstyp för meddelande i nya konton:">
+<!ENTITY storeType.accesskey           "t">
+<!ENTITY mboxStore2.label              "Fil per mapp (mbox)">
+<!ENTITY maildirStore.label            "Fil per meddelande (maildir)">
 
 <!ENTITY scrolling.label               "Scrollning">
 <!ENTITY useAutoScroll.label           "Använd automatisk scrollning">
@@ -36,31 +38,18 @@
 <!ENTITY showReturnReceipts.label      "Mottagningskvitton…">
 <!ENTITY showReturnReceipts.accesskey  "M">
 
-<!-- Display and Reading Settings -->
-<!ENTITY reading.caption               "Läsning">
-<!ENTITY display.caption               "Visning">
-<!ENTITY showCondensedAddresses.label  "Visa endast kortnamnen för personer som finns i adressboken">
-<!ENTITY showCondensedAddresses.accesskey "V">
+<!-- Data Choices -->
+<!ENTITY telemetrySection.label          "Telemetri">
+<!ENTITY telemetryDesc.label             "Dela data för din e-postklient om prestanda, användning, hårdvara och anpassningar med &vendorShortName; för att hjälpa oss att förbättra &brandShortName;">
+<!ENTITY enableTelemetry.label           "Aktivera telemetri">
+<!ENTITY enableTelemetry.accesskey       "m">
+<!ENTITY telemetryLearnMore.label        "Läs mer">
 
-<!ENTITY autoMarkAsRead.label          "Märk automatiskt meddelanden som lästa">
-<!ENTITY autoMarkAsRead.accesskey      "M">
-<!ENTITY markAsReadNoDelay.label       "Omedelbart vid visning">
-<!ENTITY markAsReadNoDelay.accesskey   "O">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label         "Efter att ha visats i">
-<!ENTITY markAsReadDelay.accesskey     "E">
-<!ENTITY secondsLabel.label            "sekunder">
-<!ENTITY openMsgIn.label               "Öppna meddelanden i:">
-<!ENTITY openMsgInNewTab.label         "en ny flik">
-<!ENTITY openMsgInNewTab.accesskey     "n">
-<!ENTITY reuseExpRadio0.label          "ett nytt fönster">
-<!ENTITY reuseExpRadio0.accesskey      "e">
-<!ENTITY reuseExpRadio1.label          "befintligt fönster">
-<!ENTITY reuseExpRadio1.accesskey      "b">
-<!ENTITY closeMsgOnMoveOrDelete.label  "Stäng meddelandefönstret/fliken vid flyttning eller borttagning">
-<!ENTITY closeMsgOnMoveOrDelete.accesskey "S">
+<!ENTITY crashReporterSection.label      "Kraschrapporter">
+<!ENTITY crashReporterDesc.label         "&brandShortName; skickar in kraschrapporter för att hjälpa &vendorShortName; att göra din e-postklient stabilare och säkrare">
+<!ENTITY enableCrashReporter.label       "Aktivera kraschrapporter">
+<!ENTITY enableCrashReporter.accesskey   "p">
+<!ENTITY crashReporterLearnMore.label    "Läs mer">
 
 <!-- Update -->
 <!ENTITY updateApp.label                 "&brandShortName; uppdateringar:">
@@ -111,10 +100,10 @@
 <!ENTITY certs.auto.accesskey            "a">
 <!ENTITY certs.ask                       "Fråga varje gång">
 <!ENTITY certs.ask.accesskey             "F">
+<!ENTITY enableOCSP.label                "Använd OCSP-mekanism för att bekräfta giltigheten på certifikaten">
+<!ENTITY enableOCSP.accesskey            "o">
 
 <!ENTITY viewCertificates.label         "Visa certifikat">
 <!ENTITY viewCertificates.accesskey     "c">
-<!ENTITY validation.label               "Validering">
-<!ENTITY validation.accesskey           "V">
 <!ENTITY viewSecurityDevices.label      "Säkerhetsenheter">
 <!ENTITY viewSecurityDevices.accesskey  "k">

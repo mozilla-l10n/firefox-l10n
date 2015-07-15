@@ -11,7 +11,7 @@
 <!ENTITY addIMAccountButton.label "Lägg till chattkonto…">
 <!ENTITY addIMAccountButton.accesskey "c">
 <!ENTITY addFeedAccountButton.label "Lägg till RSS-kanalkonto…">
-<!ENTITY addFeedAccountButton.accesskey "f">
+<!ENTITY addFeedAccountButton.accesskey "r">
 <!ENTITY addOtherAccountButton.label "Lägg till annat konto…">
 <!ENTITY addOtherAccountButton.accesskey "a">
 <!ENTITY setDefaultButton.label "Gör till standardkonto">
