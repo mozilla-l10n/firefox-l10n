@@ -84,7 +84,7 @@
 
 <!-- LOCALIZATION NOTE (inspectorSearchHTML.label2): This is the label shown as
      the placeholder in inspector search box -->
-<!ENTITY inspectorSearchHTML.label2          "Serĉi per CSS Selectors">
+<!ENTITY inspectorSearchHTML.label2          "Serĉi per elektiloj CSS">
 <!ENTITY inspectorSearchHTML.key            "S">
 
 <!-- LOCALIZATION NOTE (inspectorSearchHTML.label3): This is the label that will

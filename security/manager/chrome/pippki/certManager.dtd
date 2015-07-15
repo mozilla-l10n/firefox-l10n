@@ -24,7 +24,7 @@
 <!ENTITY certmgr.pending.label                "Kontrolado nuntempa de atestilo…">
 <!ENTITY certmgr.subjectinfo.label            "Eldonita al">
 <!ENTITY certmgr.issuerinfo.label             "Eldonita de">
-<!ENTITY certmgr.periodofvalidity.label       "Periodo de valido" >
+<!ENTITY certmgr.periodofvalidity.label       "Validperiodo" >
 <!ENTITY certmgr.fingerprints.label           "Fingrospuroj">
 <!ENTITY certmgr.certdetail.title             "Atestila detalo">
 <!ENTITY certmgr.certdetail.cn                "Komuna nomo (CN)">
