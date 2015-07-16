@@ -65,6 +65,7 @@
 <!ENTITY largerFont.label             "ពុម្ព​អក្សរ​ធំជាង">
 <!ENTITY largerFont.accesskey         "a">
 <!ENTITY largerFont.commandkey        "+">
+<!-- + is above this key on many keyboards -->
 
 <!ENTITY smallerFont.label            "ពុម្ព​អក្សរ​តូច​ជាង">
 <!ENTITY smallerFont.accesskey        "m">

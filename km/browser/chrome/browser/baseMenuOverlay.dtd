@@ -14,9 +14,9 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "ជំនួយ"> 
 <!ENTITY helpMenuWin.accesskey    "ជ">
-<!ENTITY aboutProduct2.label      "អំពី &brandShortName;">
+<!ENTITY aboutProduct2.label      "អំពី &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "អ">
-<!ENTITY productHelp2.label       "&brandShortName; ជំនួយ">
+<!ENTITY productHelp2.label       "&brandShorterName; ជំនួយ">
 <!ENTITY productHelp2.accesskey   "ជ">
 <!ENTITY helpMac.commandkey       "?">
 
@@ -26,7 +26,9 @@
 <!ENTITY helpSafeMode.label       "ចាប់ផ្ដើម​ឡើងវិញ​ជាមួយ​កម្មវិធី​បន្ថែម​ដែល​បាន​បិទ...">
 <!ENTITY helpSafeMode.accesskey   "ច">
 
-<!ENTITY healthReport2.label      "&brandShortName; របាយការណ៍សុខភាព">
+
+
+<!ENTITY healthReport2.label      "&brandShorterName; របាយការណ៍សុខភាព">
 <!ENTITY healthReport2.accesskey  "ស">
 
 <!ENTITY helpTroubleshootingInfo.label      "ព័ត៌មាន​អំពី​ការ​ដោះស្រាយ​បញ្ហា">
@@ -35,7 +37,7 @@
 <!ENTITY helpFeedbackPage.label      "ដាក់​ស្នើ​មតិ​ត្រឡប់...">
 <!ENTITY helpFeedbackPage.accesskey  "ដ">
 
-<!ENTITY helpShowTour2.label            "&brandShortName; ទស្សនា">
+<!ENTITY helpShowTour2.label            "ទស្សនា &brandShorterName;">
 <!ENTITY helpShowTour2.accesskey        "ទ">
 
 <!ENTITY preferencesCmdMac.label        "ចំណូលចិត្ត...">
@@ -43,7 +45,7 @@
 
 <!ENTITY servicesMenuMac.label          "សេវាកម្ម">
 
-<!ENTITY hideThisAppCmdMac2.label       "លាក់ &brandShortName;">
+<!ENTITY hideThisAppCmdMac2.label       "លាក់ &brandShorterName;">
 <!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "លាក់​ផ្សេងទៀត">

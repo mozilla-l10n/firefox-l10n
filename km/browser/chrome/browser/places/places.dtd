@@ -85,7 +85,6 @@
 <!ENTITY col.url.label           "ទីតាំង">
 <!ENTITY col.mostrecentvisit.label "ការ​ទស្សនា​ថ្មី​បំផុត">
 <!ENTITY col.visitcount.label    "ចំនួន​ទស្សនា">
-<!ENTITY col.keyword.label       "ពាក្យ​គន្លឹះ">
 <!ENTITY col.description.label   "សេចក្ដី​ពិពណ៌នា">
 <!ENTITY col.dateadded.label     "បាន​បន្ថែម">
 <!ENTITY col.lastmodified.label  "បាន​កែប្រែ​ចុងក្រោយ">
