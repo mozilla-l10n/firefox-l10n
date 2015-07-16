@@ -30,7 +30,7 @@
 <!ENTITY lightning.toolbar.newevent.label     "Sündmus">
 <!ENTITY lightning.toolbar.newevent.tooltip   "Lisa uus sündmus">
 <!ENTITY lightning.toolbar.newtask.label      "Ülesanne">
-<!ENTITY lightning.toolbar.newtask.tooltip    "Lisa uus ülesanne"
+<!ENTITY lightning.toolbar.newtask.tooltip    "Lisa uus ülesanne">
 
 <!-- Calendar and Task Mode Toolbar -->
 <!ENTITY lightning.toolbar.day.label                 "Päev">
