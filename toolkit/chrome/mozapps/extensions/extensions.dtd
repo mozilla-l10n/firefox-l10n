@@ -124,7 +124,8 @@
 <!ENTITY discover.description2                "Add-ons are applications that let you personalize &brandShortName; with 
 extra functionality or style. Try a time-saving sidebar, a weather notifier, or a themed look to make &brandShortName; 
 your own.">
-<!ENTITY discover.footer                      "ඔබ අන්තර්ජාලයට සම්බන්ධව සිටින විට, මෙය වඩාත් ජනප්‍රිය සහ ප්‍රයෝජනවත් ඇඩෝන ඔබට උත්සාහ කර බැලීම පිණිස මෙහි දක්වනු ඇත.">
+<!ENTITY discover.footer                      "ඔබ අන්තර්ජාලයට සම්බන්ධව සිටින විට, මෙය වඩාත් ජනප්‍රිය සහ ප්‍රයෝජනවත්  
+ඇඩෝන ඔබට උත්සාහ කර බැලීම පිණිස මෙහි දක්වනු ඇත.">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "න්කුතුව">
