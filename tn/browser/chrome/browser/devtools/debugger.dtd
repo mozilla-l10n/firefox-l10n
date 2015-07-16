@@ -19,6 +19,8 @@
 <!-- LOCALIZATION NOTE (debuggerUI.blackBoxMessage.label): This is the message
   - displayed to users when they select a black boxed source from the sources
   - list in the debugger. -->
+
+<!ENTITY debuggerUI.blackBoxMessage.label "Motswedi o oka lebelelwa ka tsenyo le ntshetsontle ntleng le kitso ya tse didiragalang mo teng: mafelokgokagano ga a dire, le dikgato-tlolaganyo ka yone.">
 <!-- LOCALIZATION NOTE (debuggerUI.blackBoxMessage.unBlackBoxButton): This is
   - the text displayed in the button to stop black boxing the currently selected
   - source. -->
@@ -33,6 +35,8 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.sources.toggleBreakpoints): This is the tooltip for the
   -  button that toggles all breakpoints for all sources. -->
+
+<!ENTITY debuggerUI.sources.toggleBreakpoints "Kgontsha/thibela go dira ga mafelokgokagano otlhe">
 <!-- LOCALIZATION NOTE (debuggerUI.startTracing): This is the text displayed in
   - the button to start execution tracing. -->
 <!-- LOCALIZATION NOTE (debuggerUI.clearButton): This is the label for

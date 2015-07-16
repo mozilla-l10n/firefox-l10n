@@ -55,3 +55,5 @@ that require it.  -->
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
      mockup at bug 480169 -->
+
+<!ENTITY sanitizeEverythingUndoWarning     "Tiro e ga e kake ya dirololwa.">

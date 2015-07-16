@@ -5,6 +5,6 @@
 
 
 
-
+<!ENTITY safeModeDescription4.label   "Dioketswa le dithulaganyo-tshwanediso tsa gago di tla thibelwa go dira ga nakwana.">
 
 <!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
