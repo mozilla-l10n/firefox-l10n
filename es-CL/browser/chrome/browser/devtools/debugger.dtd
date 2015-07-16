@@ -17,10 +17,6 @@
 <!ENTITY debuggerUI.clearButton "Limpiar">
 <!ENTITY debuggerUI.clearButton.tooltip "Limpiar los seguimientos recolectados">
 
-<!ENTITY debuggerUI.pauseExceptions "Pausar en excepciones">
-<!ENTITY debuggerUI.pauseExceptions.accesskey "E">
-<!ENTITY debuggerUI.ignoreCaughtExceptions     "Ignorar excepciones atrapadas">
-<!ENTITY debuggerUI.ignoreCaughtExceptions.accesskey "C">
 <!ENTITY debuggerUI.showPanesOnInit "Mostrar paneles al iniciar">
 <!ENTITY debuggerUI.showPanesOnInit.accesskey "S">
 <!ENTITY debuggerUI.showVarsFilter      "Mostrar caja de filtrado de variables">
