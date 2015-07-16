@@ -9,15 +9,6 @@
 <!ENTITY paperInput.label "Ukubwa wa Karatasi:">
 <!ENTITY paperInput.accesskey "U">
 
-<!ENTITY plexInput.label "Modi ya pleksi:">
-<!ENTITY plexInput.accesskey "p">
-
-<!ENTITY resolutionInput.label "Mwonekano/Ubora:">
-<!ENTITY resolutionInput.accesskey "n">
-
-<!ENTITY cmdInput.label "Amri ya Kuchapisha:">
-<!ENTITY cmdInput.accesskey "c">
-
 <!ENTITY jobTitleInput.label "Kichwa cha Kazi:">
 <!ENTITY jobTitleInput.accesskey "K">
 
@@ -26,13 +17,6 @@
 <!ENTITY grayRadio.accesskey "R">
 <!ENTITY colorRadio.label "Rangi">
 <!ENTITY colorRadio.accesskey "R">
-
-<!ENTITY colorspaceInput.label "Nafasirangi:">
-<!ENTITY colorspaceInput.accesskey "r">
-
-<!ENTITY fontsGroup.label "Fonti:">
-<!ENTITY downloadFonts.label "Pakua fonti kwa kichapishi">
-<!ENTITY downloadFonts.accesskey "P">
 
 <!ENTITY edgeMarginInput.label "Pengo kutoka ukingo wa karatasi hadi Pambizo">
 <!ENTITY topInput.label "Juu:">

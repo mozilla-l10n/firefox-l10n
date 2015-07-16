@@ -42,6 +42,10 @@
 
 <!ENTITY syncDeviceName.label       "Jina la Kifaa:">
 <!ENTITY syncDeviceName.accesskey   "a">
+
+
+<!ENTITY cancelChangeSyncDeviceName.label "Katiza">
+<!ENTITY saveChangeSyncDeviceName.label "Hifadhi">
 <!ENTITY unlinkDevice.label           "Tenganisha Kifaa Hiki">
 <!-- Footer stuff -->
 
