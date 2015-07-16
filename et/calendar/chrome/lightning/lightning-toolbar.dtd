@@ -8,10 +8,15 @@
 <!ENTITY lightning.toolbar.task.name.accesskey "Ü">
 
 <!ENTITY lightning.toolbar.sync.label "Sünkroniseeri">
+<!ENTITY lightning.toolbar.sync.tooltip "Laadi kalendrid uuesti ja sünkrooniseeri muudatused">
 <!ENTITY lightning.toolbar.delete.label "Kustuta">
+<!ENTITY lightning.toolbar.delete.tooltip "Kustuta valitud sündmused või ülesanded">
 <!ENTITY lightning.toolbar.edit.label "Muuda">
+<!ENTITY lightning.toolbar.edit.tooltip "Muuda valitud sündmust või ülesannet">
 <!ENTITY lightning.toolbar.gototoday.label "Täna">
+<!ENTITY lightning.toolbar.gototoday.tooltip "Liigu tänase päeva juurde">
 <!ENTITY lightning.toolbar.print.label "Prindi">
+<!ENTITY lightning.toolbar.print.tooltip "Prindi sündmused või ülesanded">
 
 <!-- Mode Toolbar -->
 <!ENTITY lightning.toolbar.calendar.label     "Kalender">
@@ -23,7 +28,9 @@
 
 <!-- Toolbar write button -->
 <!ENTITY lightning.toolbar.newevent.label     "Sündmus">
+<!ENTITY lightning.toolbar.newevent.tooltip   "Lisa uus sündmus">
 <!ENTITY lightning.toolbar.newtask.label      "Ülesanne">
+<!ENTITY lightning.toolbar.newtask.tooltip    "Lisa uus ülesanne"
 
 <!-- Calendar and Task Mode Toolbar -->
 <!ENTITY lightning.toolbar.day.label                 "Päev">
