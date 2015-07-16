@@ -23,6 +23,8 @@
 <!ENTITY  locbar.openpage.label         "Lapok megnyitása">
 <!ENTITY  locbar.openpage.accesskey     "L">
 
+
+
 <!ENTITY  acceptCookies.label           "Sütik elfogadása webhelyekről">
 <!ENTITY  acceptCookies.accesskey       "w">
 

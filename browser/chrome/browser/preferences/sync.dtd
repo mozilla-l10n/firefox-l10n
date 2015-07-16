@@ -42,6 +42,10 @@
 
 <!ENTITY syncDeviceName.label       "Eszköznév:">
 <!ENTITY syncDeviceName.accesskey   "E">
+
+
+<!ENTITY cancelChangeSyncDeviceName.label "Mégse">
+<!ENTITY saveChangeSyncDeviceName.label "Mentés">
 <!ENTITY unlinkDevice.label           "Eszköz deaktiválása">
 <!-- Footer stuff -->
 
