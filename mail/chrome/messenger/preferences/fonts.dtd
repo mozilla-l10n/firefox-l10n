@@ -71,10 +71,10 @@
 <!-- Language settings -->
 <!ENTITY sendDefaultCharset.label "Odchozí pošta:">
 <!ENTITY sendDefaultCharset.accesskey "O">
-<!ENTITY languagesTitle2.label            "Kódování textu">
-<!ENTITY composingDescription2.label      "Nastavení výchozího kódování pro text příchozí a odchozí pošty">
+<!ENTITY languagesTitle2.label            "Znaková sada textu">
+<!ENTITY composingDescription2.label      "Nastavení výchozí znakové sady pro text příchozí a odchozí pošty">
 
 <!ENTITY viewDefaultCharsetList.label "Příchozí pošta:">
 <!ENTITY viewDefaultCharsetList.accesskey "P">
-<!ENTITY replyInDefaultCharset3.label     "Pokud je to možné, použít u odpovědi výchozí kódování textu">
+<!ENTITY replyInDefaultCharset3.label     "Pokud je to možné, použít u odpovědi výchozí znakovou sadu textu">
 <!ENTITY replyInDefaultCharset3.accesskey "u">
