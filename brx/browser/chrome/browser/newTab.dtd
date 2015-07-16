@@ -6,17 +6,12 @@
 <!ENTITY newtab.pageTitle "गोदान टेब">
 
 
-<!--
-  LOCALIZATION NOTE(newtab.customize.cog.title): This string is for the new
-  tab cog menu title. It will be transformed to uppercase.
--->
+
 
 <!ENTITY newtab.customize.title "नोंथांनि गोदान टेब बिलाइखौ गावनि गोसोबादि खालाम">
 
 
 
-<!ENTITY newtab.customize.what "बे बिलाइआ मा?">
-<!ENTITY newtab.intro.header "बे बिलाइआ मा?">
 <!ENTITY newtab.undo.removedLabel "थामनेइलखौ बोखारबाय।">
 <!ENTITY newtab.undo.undoButton "सिगांनि अबस्थायाव लाबोफिन">
 <!ENTITY newtab.undo.restoreButton "गासैबो लाबोफिन">

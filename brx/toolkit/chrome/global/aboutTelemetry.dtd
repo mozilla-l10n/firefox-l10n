@@ -4,11 +4,22 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Telemetry डाटा">
 
-<!ENTITY aboutTelemetry.telemetryEnabled "Telemetry खौ<span>हाहोनाय खालामनाय</span>जायो।">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "Telemetry खौ<span>लोरबां खालामनाय</span>जायो।">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutTelemetry.generalDataSection "सरासनस्रा डाटा">
+
 
 
 <!ENTITY aboutTelemetry.slowSqlSection "लासै SQL बिबुंसार">

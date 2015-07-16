@@ -9,15 +9,6 @@
 <!ENTITY paperInput.label "लेखा बिलाइनि महर:(P)">
 <!ENTITY paperInput.accesskey "P">
 
-<!ENTITY plexInput.label "प्लेक्स म'ड:(m)">
-<!ENTITY plexInput.accesskey "m">
-
-<!ENTITY resolutionInput.label "रिजलुसन/गुन: (e)">
-<!ENTITY resolutionInput.accesskey "e">
-
-<!ENTITY cmdInput.label "साफायनाय बिथोन:(o)">
-<!ENTITY cmdInput.accesskey "o">
-
 <!ENTITY jobTitleInput.label "हाबानि बिमुं: (J)">
 <!ENTITY jobTitleInput.accesskey "J">
 
@@ -26,13 +17,6 @@
 <!ENTITY grayRadio.accesskey "G">
 <!ENTITY colorRadio.label "गाब">
 <!ENTITY colorRadio.accesskey "C">
-
-<!ENTITY colorspaceInput.label "गाबनि जायगा:(s)">
-<!ENTITY colorspaceInput.accesskey "s">
-
-<!ENTITY fontsGroup.label "फन्टफोर: ">
-<!ENTITY downloadFonts.label "साफायग्रायाव फन्टफोरखौ डाउनल'ड खालाम?(D)">
-<!ENTITY downloadFonts.accesskey "D">
 
 <!ENTITY edgeMarginInput.label "लेखा बिलाइ जिं निफ्राय रुगुं सिम लांदां">
 <!ENTITY topInput.label "गोजौ:(T)">
