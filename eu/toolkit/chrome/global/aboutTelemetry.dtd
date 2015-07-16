@@ -4,17 +4,22 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Telemetry datuak">
 
+<!ENTITY aboutTelemetry.changeDataChoices "  Aldatu">
 
 
 
 
 
 
+<!ENTITY aboutTelemetry.showCurrentPingData "Uneko ping datuak">
+
+<!ENTITY aboutTelemetry.showArchivedPingData "Artxibatutako ping datuak">
+
+<!ENTITY aboutTelemetry.showSubsessionData "Erakutsi azpi-saioaren datuak">
 
 
 
-
-
+<!ENTITY aboutTelemetry.showOlderPing "Ping zaharragoa &gt;&gt;">
 
 
 
