@@ -4,11 +4,22 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Mooru-neešiyan bayhayey">
 
-<!ENTITY aboutTelemetry.telemetryEnabled "  Mooru-neešiyan n' ka <span>tunandi</span>.">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "  Mooru-neešiyan n' ka <span>kayandi</span>.">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutTelemetry.generalDataSection " Yamma bayhayey">
+
 
 <!ENTITY aboutTelemetry.telemetryLogSection "  Mooruneešiyan zaaritiira">
 
