@@ -4,11 +4,22 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Telemetrijos duomenys">
 
-<!ENTITY aboutTelemetry.telemetryEnabled "  Telemetrija <span>įjungta</span>.">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "  Telemetrija <span>išjungta</span>.">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutTelemetry.generalDataSection "  Įprasti duomenys">
+
 
 <!ENTITY aboutTelemetry.telemetryLogSection "  Telemetrijos žurnalas">
 

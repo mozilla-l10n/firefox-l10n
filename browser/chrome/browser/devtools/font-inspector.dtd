@@ -10,3 +10,5 @@
 <!ENTITY usedAs "Naudojamas kaip: ">
 <!ENTITY system "sisteminis">
 <!ENTITY remote "nuotolinis">
+<!-- LOCALIZATION NOTE (previewHint): This is the label shown as the
+     placeholder in font inspector preview text box. -->
