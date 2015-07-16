@@ -42,6 +42,10 @@
 
 <!ENTITY syncDeviceName.label       "పరికరం పేరు (c):">
 <!ENTITY syncDeviceName.accesskey   "c">
+
+
+<!ENTITY cancelChangeSyncDeviceName.label "రద్దుచేయి">
+<!ENTITY saveChangeSyncDeviceName.label "దాచు">
 <!ENTITY unlinkDevice.label           "ఈ పరికరం లంకెతీయి">
 <!-- Footer stuff -->
 
