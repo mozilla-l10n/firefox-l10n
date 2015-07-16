@@ -33,7 +33,7 @@
 <!ENTITY enableHealthReport.accesskey    "R">
 <!ENTITY healthReportLearnMore.label     "තවත් දැනගන්න">
 
-<!ENTITY telemetryDesc.label             "අපට &brandShortName; දියුණු කිරීමට සහය වීමට ඔබේ ගවේශකයේ කාර්ය්‍යකෂමතාව, භාවිතය, දෘඩාංග හා රුචිකරණය පිළිබඳ දත්ත බෙදාගනී">
+<!ENTITY telemetryDesc.label             "අපට &brandShortName; දියුණු කිරීමට සහය වීමට ඔබේ ගවේශකයේ ක්‍රියාකාරිත්වය, භාවිතය, දෘඩාංග හා රුචිකරණය පිළිබඳ දත්ත &vendorShortName; සමඟ බෙදාගනි">
 
 
 <!ENTITY telemetryLearnMore.label        "තවත් දැනගන්න">
