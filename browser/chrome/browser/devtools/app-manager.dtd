@@ -28,8 +28,8 @@
 
 <!ENTITY device.deny "Ganela">
 
-
-
+<!ENTITY device.installedApps "Ditiriso tse di Tsentsweng">
+<!ENTITY device.installedAppsTooltip "Leba lenaane la diriso tse di tsentsweng mo sedirisweng. Dingwe tsa ditiriso, jaaka ditiriso tse di totobaditsweng, di ka tlhaolwa go tswa mo tebong e.">
 <!ENTITY device.permissions "Ditetla">
 
 

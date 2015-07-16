@@ -66,10 +66,14 @@
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
 
+<!ENTITY options.disableJavaScript.label     "Thibela go dira ga JavaScript *">
+<!ENTITY options.disableJavaScript.tooltip   "Tobetso go dirisa diitlhophelwa go tla thibela go dira ga JavaScript mo thebeng ya ga jaana. Fa the kgotsa sediriswa-bokoso di tswetswe ke gone thulaganyo e etla lebalwang.">
 <!-- LOCALIZATION NOTE (options.disableCache.label2,
   -  options.disableCache.tooltip2): This is the options panel label and
   -  tooltip for the checkbox that toggles the cache on or off. -->
 
+<!ENTITY options.disableCache.label2     "Thibela go dira ga khetšhe (fa sediriswa-bokoso se butswe)">
+<!ENTITY options.disableCache.tooltip2   "Tobetso go dirisa diitlhophelwa go tla thibela go dira ga khetšhe mo dithebeng tsotlhe tse di nang le sediriswa-bokoso se sebutsweng.">
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
