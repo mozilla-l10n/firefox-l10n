@@ -10,8 +10,8 @@
 <!ENTITY FormAction.accesskey "a">
 <!ENTITY FormMethod.label "Metoda:">
 <!ENTITY FormMethod.accesskey "M">
-<!ENTITY FormEncType.label "Kódování:">
-<!ENTITY FormEncType.accesskey "K">
+<!ENTITY FormEncType.label "Znaková sada:">
+<!ENTITY FormEncType.accesskey "k">
 <!ENTITY FormTarget.label "Cílový rám:">
 <!ENTITY FormTarget.accesskey "C">
 <!ENTITY RemoveForm.label "Odebrat formulář">
