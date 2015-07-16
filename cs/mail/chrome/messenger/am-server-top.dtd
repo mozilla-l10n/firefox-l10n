@@ -74,7 +74,7 @@
 <!ENTITY abbreviateOff.label "Zkracovat jména (např.: 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Rozšířené…">
 <!ENTITY advancedButton.accesskey "R">
-<!ENTITY serverDefaultCharset2.label "Výchozí kódování textu:">
+<!ENTITY serverDefaultCharset2.label "Výchozí znaková sada textu:">
 <!ENTITY localPath.label "Místní adresář:">
 <!ENTITY localFolderPicker.label "Vyberte místní adresář">
 <!ENTITY browseFolder.label "Procházet…">
