@@ -42,6 +42,10 @@
 
 <!ENTITY syncDeviceName.label       "Qurilma nomi:">
 <!ENTITY syncDeviceName.accesskey   "Q">
+
+
+<!ENTITY cancelChangeSyncDeviceName.label "Bekor qilish">
+<!ENTITY saveChangeSyncDeviceName.label "Saqlash">
 <!ENTITY unlinkDevice.label           "Ushbu qurilmani uzish">
 <!-- Footer stuff -->
 

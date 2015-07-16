@@ -4,11 +4,22 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Telemetiya ma`lumotlari">
 
-<!ENTITY aboutTelemetry.telemetryEnabled "  Telemetriya - <span>yoqib qoʻyilgan</span>.">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "  Telemetriya <span>oʻchirib qoʻyilgan</span>.">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutTelemetry.generalDataSection "  Umumiy ma’lumot">
+
 
 
 <!ENTITY aboutTelemetry.slowSqlSection "  Sekin SQL ma`lumotlari">

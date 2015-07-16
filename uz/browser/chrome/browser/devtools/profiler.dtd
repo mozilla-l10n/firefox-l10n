@@ -123,15 +123,19 @@
 
 <!ENTITY profilerUI.enableMemory             "Yozib olish xotirasi">
 <!ENTITY profilerUI.enableMemory.tooltiptext "Profillanganda foydalanilgan yozib olish xotirasi">
+<!-- LOCALIZATION NOTE (profilerUI.enableAllocations): This string
+  -  is displayed next to a checkbox determining whether or not allocation
+  -  measurements are enabled. -->
+
 <!-- LOCALIZATION NOTE (profilerUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
 
 <!ENTITY profilerUI.enableFramerate             "Yozib olish kadr nisbati">
 <!ENTITY profilerUI.enableFramerate.tooltiptext "Profillanganda kadr yozib olish kadr nisbati">
-<!-- LOCALIZATION NOTE (profilerUI.showJITOptimizations): This string
+<!-- LOCALIZATION NOTE (profilerUI.enableJITOptimizations): This string
   -  is displayed next to a checkbox determining whether or not JIT optimization data
-  -  should be shown. -->
+  -  should be recorded. -->
 
 <!-- LOCALIZATION NOTE (profilerUI.JITOptimizationsTitle): This string
   -  is displayed as the title of the JIT Optimizations panel. -->
