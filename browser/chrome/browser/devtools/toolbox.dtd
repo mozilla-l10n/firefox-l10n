@@ -6,7 +6,7 @@
 
 
 <!ENTITY closeCmd.key  "W">
-
+<!ENTITY toggleToolbox.key  "I">
 <!ENTITY toggleToolboxF12.keycode          "VK_F2">
 <!ENTITY toggleToolboxF12.keytext          "F12">
 
@@ -23,7 +23,9 @@
 
 <!ENTITY toolboxReload.key             "r">
 <!-- This key is used with the accel+shift modifiers to minimize the toolbox -->
+<!ENTITY toolboxToggleMinimize.key     "U">
 
+<!ENTITY toolboxToggle.key             "d">
 <!-- LOCALIZATION NOTE (toolboxFramesButton): This is the label for
   -  the iframes menu list that appears only when the document has some.
   -  It allows you to switch the context of the whole toolbox. -->
@@ -83,7 +85,7 @@
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableChrome.label5    "ব্রাউজার chrome ও অ্যাড অন ডিবাগ টুলবক্স সক্রিয় করুন">
-
+<!ENTITY options.enableChrome.tooltip3  "এই অপশান চালু করলে আপনি অনেক টুল ব্যবহার করতে পারবেন ব্রাউজার কন্টেক্সট এ (via Tools > Web Developer > Browser Toolbox) এবং অ্যাড-অন ম্যানেজার দিয়ে অ্যাড-অন ডিবাগ করতে পারবেন">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
