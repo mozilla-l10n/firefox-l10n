@@ -65,6 +65,7 @@
 <!ENTITY largerFont.label             "Nagyobb betűk">
 <!ENTITY largerFont.accesskey         "N">
 <!ENTITY largerFont.commandkey        "+">
+<!-- + is above this key on many keyboards -->
 
 <!ENTITY smallerFont.label            "Kisebb betűk">
 <!ENTITY smallerFont.accesskey        "K">

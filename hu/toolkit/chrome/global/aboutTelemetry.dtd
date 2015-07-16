@@ -4,11 +4,22 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Telemetriai adatok">
 
-<!ENTITY aboutTelemetry.telemetryEnabled "  A telemetria <span>bekapcsolva</span>.">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "  A telemetria <span>kikapcsolva</span>.">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutTelemetry.generalDataSection " Általános adatok">
+
 
 <!ENTITY aboutTelemetry.telemetryLogSection " Telemetriai napló">
 
