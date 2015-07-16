@@ -31,12 +31,15 @@
 <!ENTITY alwaysAsk.label "Uvijek me pitaj gdje želim spasiti fajl">
 <!ENTITY alwaysAsk.accesskey "a">
 
+<!ENTITY alwaysCheckDefault2.label        "Uvijek provjeri je li &brandShortName; glavni browser">
+<!ENTITY alwaysCheckDefault2.accesskey    "g">
+<!ENTITY setAsMyDefaultBrowser2.label     "Učini izvornim">
+<!ENTITY setAsMyDefaultBrowser2.accesskey "i">
+<!ENTITY isDefault.label                  "&brandShortName; je trenutno vaš glavni browser">
+<!ENTITY isNotDefault.label               "&brandShortName; trenutno nije vaš glavni browser">
 
+<!ENTITY separateProfileMode.label        "Dozvoli da se &brandShortName; i Firefox pokreću u isto vrijeme">
+<!ENTITY useFirefoxSync.label             "Savjet: Ovo koristi odvojene profile. Koristite Sync za dijeljenje podataka između njih.">
+<!ENTITY getStarted.label                 "Započni korištenje Synca…">
 
-
-
-
-
-
-
-
+<!ENTITY e10sEnabled.label                "Omogući multiprocesni &brandShortName;">

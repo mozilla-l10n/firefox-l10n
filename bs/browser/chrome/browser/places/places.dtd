@@ -83,7 +83,7 @@
 <!ENTITY col.name.label          "Ime">
 <!ENTITY col.tags.label          "Oznake">
 <!ENTITY col.url.label           "Lokacija">
-
+<!ENTITY col.mostrecentvisit.label "Posljednja posjeta">
 <!ENTITY col.visitcount.label    "Broj posjeta">
 <!ENTITY col.description.label   "Opis">
 <!ENTITY col.dateadded.label     "Dodato">

@@ -43,5 +43,6 @@
 
 <!ENTITY fullscreen.label                "Prikaz preko cijelog ekrana">
 
-
-
+<!ENTITY push.label                      "Primaj Push obavijesti">
+<!ENTITY camera.label                    "Koristi kameru">
+<!ENTITY microphone.label                "Koristi mikrofon">

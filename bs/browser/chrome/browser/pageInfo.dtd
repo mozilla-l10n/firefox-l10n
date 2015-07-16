@@ -22,7 +22,7 @@
 <!ENTITY  generalReferrer       "Referirajući URL:">
 <!ENTITY  generalSource         "Izvor cachea:">
 <!ENTITY  generalModified       "Izmijenjeno:">
-
+<!ENTITY  generalEncoding2      "Kodna stranica teksta:">
 <!ENTITY  generalMetaName       "Naziv">
 <!ENTITY  generalMetaContent    "Sadržaj">
 

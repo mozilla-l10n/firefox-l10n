@@ -34,8 +34,8 @@
 <!ENTITY healthReportLearnMore.label     "Naučite više">
 
 <!ENTITY telemetryDesc.label             "Dijeli podatke o performansama, upotrebi, hardveru i prilagođenjima vašeg browsera sa &vendorShortName;-om kako bi nam pomogli da unaprijedimo &brandShortName;">
-
-
+<!ENTITY enableTelemetryData.label       "Dijeli dodatne podatke (npr. Telemetriju)">
+<!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Naučite više">
 
 <!ENTITY crashReporterDesc.label         "&brandShortName; šalje izvještaje o rušenju kako bi pomogli &vendorShortName;-i da učine vaš browser stabilnijim i sigurnijim">
@@ -106,14 +106,14 @@
 <!ENTITY offlineAppRemove.confirm        "Ukloni offline podatke">
 
 <!ENTITY certificateTab.label            "Certifikati">
-
+<!ENTITY certSelection.label             "Zahtjevi">
 <!ENTITY certSelection.description       "Kada server zatraži moj lični certifikat:">
 <!ENTITY certs.auto                      "Odaberi jedan automatski">
 <!ENTITY certs.auto.accesskey            "O">
 <!ENTITY certs.ask                       "Pitaj me svaki put">
 <!ENTITY certs.ask.accesskey             "i">
-
-
+<!ENTITY enableOCSP.label                "Upitajte OCSP servere da biste potvrdili validnost certifikata">
+<!ENTITY enableOCSP.accesskey            "U">
 <!ENTITY viewCerts.label                 "Prikaži certifikate">
 <!ENTITY viewCerts.accesskey             "P">
 <!ENTITY viewSecurityDevices.label       "Sigurnosni uređaji">

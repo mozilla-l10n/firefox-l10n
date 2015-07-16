@@ -21,7 +21,8 @@
 <!ENTITY allow.accesskey              "D">
 <!ENTITY windowClose.key              "w">
 
-
-
-
+<!ENTITY button.cancel.label          "Otkaži">
+<!ENTITY button.cancel.accesskey      "O">
+<!ENTITY button.ok.label              "Spasi promjene">
+<!ENTITY button.ok.accesskey          "S">
 

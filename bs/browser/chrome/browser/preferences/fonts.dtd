@@ -31,7 +31,7 @@
 <!ENTITY  font.langGroup.korean                   "Koreanski">
 <!ENTITY  font.langGroup.cyrillic                 "Ćirilica">
 <!ENTITY  font.langGroup.el                       "Grčki">
-
+<!ENTITY  font.langGroup.other                    "Ostali sistemi pisanja">
 <!ENTITY  font.langGroup.thai                     "Tajlandski">
 <!ENTITY  font.langGroup.hebrew                   "Hebrejski">
 <!ENTITY  font.langGroup.arabic                   "Arapski">
@@ -46,7 +46,7 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
 <!ENTITY  font.langGroup.khmer                    "Kmerski">
 <!ENTITY  font.langGroup.malayalam                "Malezijski">
-
+<!ENTITY  font.langGroup.math                     "Matematika">
 <!ENTITY  font.langGroup.oriya                    "Oriya">
 <!ENTITY  font.langGroup.telugu                   "Telugu">
 <!ENTITY  font.langGroup.kannada                  "Kannada">
@@ -64,36 +64,44 @@
 <!ENTITY  allowPagesToUse.label                   "Dozvoli stranicama da biraju svoje fontove, umjesto mog izbora">
 <!ENTITY  allowPagesToUse.accesskey               "a">
 
+<!ENTITY languages.customize.Fallback2.grouplabel "Kodna stranica za zastarjeli sadržaj">
+<!ENTITY languages.customize.Fallback2.label      "Pomoćna kodna stranica:">
+<!ENTITY languages.customize.Fallback2.accesskey  "k">
+<!ENTITY languages.customize.Fallback2.desc       "Ova kodna stranica se koristi za zastarjeli sadržaj, koji ne može definirati vlastitu kodnu stranicu.">
 
-
-
-
+<!ENTITY languages.customize.Fallback.auto        "Izvorno za trenutni jezik">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
-
-
-
+<!ENTITY languages.customize.Fallback.arabic      "Arapski">
+<!ENTITY languages.customize.Fallback.baltic      "Baltički">
+<!ENTITY languages.customize.Fallback.ceiso       "Centralno-europski, ISO">
+<!ENTITY languages.customize.Fallback.cewindows   "Centralno-europski, Microsoft">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.simplified  "Kineski, pojednostavljeni">
+<!ENTITY languages.customize.Fallback.simplified  "Pojednostavljeni kineski">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.traditional):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.traditional "Kineski tradicionalni">
-
+<!ENTITY languages.customize.Fallback.cyrillic    "Ćirilica">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.greek):
      Translate "Greek" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.greek       "Grčki">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.hebrew):
      Translate "Hebrew" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.hebrew      "Hebrejski">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.japanese):
      Translate "Japanese" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.japanese    "Japanski">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.korean):
      Translate "Korean" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.korean      "Korejski">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.thai):
      Translate "Thai" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.thai        "Tajlandski">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.turkish):
      Translate "Turkish" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.turkish     "Turski">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.vietnamese  "Vijetnamski">
-
+<!ENTITY languages.customize.Fallback.other       "Ostali (uključujući zapadni europski)">
