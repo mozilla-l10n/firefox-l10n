@@ -63,10 +63,10 @@
 <!ENTITY allowPagesToUse.label "Povolit stránkám používat vlastní písma namísto výše zvolených">
 <!ENTITY allowPagesToUse.accesskey "s">
 
-<!ENTITY languages.customize.Fallback2.grouplabel "Kódování textu pro původní obsah">
-<!ENTITY languages.customize.Fallback2.label      "Kódování textu:">
-<!ENTITY languages.customize.Fallback2.accesskey  "T">
-<!ENTITY languages.customize.Fallback2.desc       "Toto kódování textu se používá pro původní obsah, který neobsahuje definici o kódování textu.">
+<!ENTITY languages.customize.Fallback2.grouplabel "Znaková sada textu pro původní obsah">
+<!ENTITY languages.customize.Fallback2.label      "Znaková sada textu:">
+<!ENTITY languages.customize.Fallback2.accesskey  "t">
+<!ENTITY languages.customize.Fallback2.desc       "Tato znaková sada textu se používá pro původní obsah, který neobsahuje definici o své znakové sadě.">
 
 <!ENTITY languages.customize.Fallback.auto        "Výchozí pro aktuální jazyk">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
