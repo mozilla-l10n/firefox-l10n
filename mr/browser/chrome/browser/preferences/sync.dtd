@@ -42,6 +42,10 @@
 
 <!ENTITY syncDeviceName.label       "साधनाचे नाव:">
 <!ENTITY syncDeviceName.accesskey   "c">
+
+
+<!ENTITY cancelChangeSyncDeviceName.label "रद्द करा">
+<!ENTITY saveChangeSyncDeviceName.label "संचयीत करा">
 <!ENTITY unlinkDevice.label           "साधनला खंडीत करा">
 <!-- Footer stuff -->
 
