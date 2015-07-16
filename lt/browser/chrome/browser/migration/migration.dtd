@@ -20,6 +20,8 @@
 <!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "F">
 
+
+
 <!ENTITY noMigrationSources.label       "Nepavyko rasti programų, kuriose būtų adresyno, naršymo žurnalo ar įrašytų slaptažodžių duomenų.">
 
 <!ENTITY importSource.title             "Duomenų ir nuostatų importas">
