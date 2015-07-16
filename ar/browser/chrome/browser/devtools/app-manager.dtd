@@ -56,7 +56,7 @@
 <!ENTITY connection.disconnecting "يقطع الاتصال…">
 <!ENTITY connection.cancel "ألغِ">
 <!ENTITY connection.cancelConnectTooltip "ألغ الاتصال الجاري">
-
+<!ENTITY connection.cancelShowSimulatorTooltip "اخرج من وضع الاتّصال بالمحاكي وارجع إلى المحثّ الأوّليّ">
 <!ENTITY connection.or "أو">
 <!ENTITY connection.noSimulatorInstalled "لم يثبّت أيّ محاكي.">
 <!ENTITY connection.installOneSimulator "ثبّت محاكيًا">
@@ -68,18 +68,18 @@
 <!ENTITY projects.localApps "التطبيقات المحلية">
 <!ENTITY projects.addApp "أضف">
 <!ENTITY projects.addPackaged "أضف تطبيقًا مُحزّمًا">
-
-
-
+<!ENTITY projects.addPackagedTooltip "أضف تطبيقًا محزمًا (مجلد) جديدًا من حاسوبك">
+<!ENTITY projects.addHosted "أضف تطبيقًا مستضافًا">
+<!ENTITY projects.addHostedTooltip "أضف تطبيقًا مستضافًا (رابط إلى ملف manifest.webapp) جديدًا من موقع عن بعد">
 <!ENTITY projects.title "التطبيقات المحلية">
 <!ENTITY projects.appDetails "تفاصيل التطبيق">
-
+<!ENTITY projects.removeAppFromList "أزل هذا التطبيق من قائمة التطبيقات التي تعمل عليها. لن يزيله هذا من الجهاز أو من المحاكي.">
 <!ENTITY projects.updateApp "حدِّث">
-
+<!ENTITY projects.updateAppTooltip "نفّذ عمليات التحقق من الصحة و حدّث التطبيق إلى الجهاز المتصل">
 <!ENTITY projects.debugApp "نقّح">
 <!ENTITY projects.debugAppTooltip "افتح أدوات المطورين المتصلة بهذا التطبيق">
 <!ENTITY projects.saveManifest "احفظ">
-
+<!ENTITY projects.saveManifestTooltip "احفظ محتويات المحرر الظاهر أدناه">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 
 
@@ -94,7 +94,7 @@
 
 <!ENTITY help.title "مدير التطبيقات">
 <!ENTITY help.close "أغلق">
-
+<!ENTITY help.intro "ستساعدك هذه الأداة على بناء و تثبيت تطبيقات الوِب على الأجهزة المتوافقة (مثلًا نظام تشغيل فَيَرفُكس). سيُساعدك لسان <strong>التطبيقات</strong> على التحقق من صحة تطبيقاتك و تثبيتها. سيُعطيك لسان <strong>الجهاز</strong> معلومات حول الجهاز المتصل. استخدم شريط الأدوات السفلي للاتصال بالجهاز أو لبدء تشغيل المحاكي.">
 <!ENTITY help.usefullLinks "روابط مفيدة:">
 <!ENTITY help.appMgrDoc "التوثيق: استخدام مدير التطبيقات">
 <!ENTITY help.configuringDevice "كيفية إعداد جهازك بنظام تشغيل فيرفكس">
