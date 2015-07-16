@@ -15,7 +15,7 @@
 
 <!ENTITY noTranslationForSites.label      "Os seguintes sites não serão traduzidos:">
 <!ENTITY treehead.siteName.label          "Sites">
-<!ENTITY removeSite.label                 "Remover sítio">
+<!ENTITY removeSite.label                 "Remover site">
 <!ENTITY removeSite.accesskey             "s">
 <!ENTITY removeAllSites.label             "Remover todos os sítios">
 <!ENTITY removeAllSites.accesskey         "i">

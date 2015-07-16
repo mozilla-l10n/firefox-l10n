@@ -260,8 +260,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
 
-<!ENTITY scratchpad.label             "Rascunho">
-<!ENTITY scratchpad.accesskey         "R">
+<!ENTITY scratchpad.label             "Scratchpad">
+<!ENTITY scratchpad.accesskey         "S">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
 <!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
@@ -324,9 +324,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pasteCmd.label           "Colar">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "o"> 
-<!ENTITY deleteCmd.label          "Apagar">  
+<!ENTITY deleteCmd.label          "Eliminar">  
 <!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "A"> 
+<!ENTITY deleteCmd.accesskey        "E"> 
 <!ENTITY selectAllCmd.label         "Selecionar tudo">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "S"> 
@@ -388,7 +388,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.removeFromMenu.label "Remover do menu">
 <!ENTITY customizeMenu.removeFromMenu.accesskey "R">
-<!ENTITY customizeMenu.addMoreItems.label "Adicionar mais itens…">
+<!ENTITY customizeMenu.addMoreItems.label "Adicionar mais elementos…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
 <!ENTITY openCmd.commandkey           "l">
@@ -510,11 +510,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveLinkCmd.label            "Guardar ligação como…">
 <!ENTITY saveLinkCmd.accesskey        "l">
 <!ENTITY saveImageCmd.label           "Guardar imagem como…">
-<!ENTITY saveImageCmd.accesskey       "g">
+<!ENTITY saveImageCmd.accesskey       "e">
 <!ENTITY saveVideoCmd.label           "Guardar vídeo como…">
 <!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "Guardar áudio como…">
-<!ENTITY saveAudioCmd.accesskey       "G">
+<!ENTITY saveAudioCmd.accesskey       "u">
 <!ENTITY emailImageCmd.label          "Enviar imagem…">
 <!ENTITY emailImageCmd.accesskey      "n">
 <!ENTITY emailVideoCmd.label          "Enviar vídeo…">
@@ -641,7 +641,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Estilo de página básico">
 <!ENTITY pageStylePersistentOnly.accesskey "b">
 
-<!ENTITY pageReportIcon.tooltip            "Mudar definições de janelas emergentes para este sítio">
+<!ENTITY pageReportIcon.tooltip            "Alterar definições de janelas pop-up para este site">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -676,7 +676,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connectionSecure "Ligação segura">
 <!ENTITY identity.connectionNotSecure "Ligação não segura">
-<!ENTITY identity.connectionVerified "O &brandShortName; verificou que estabeleceu uma ligação segura a este sítio, desenvolvido por:">
+<!ENTITY identity.connectionVerified "O &brandShortName; verificou que estabeleceu uma ligação segura a este site através de:">
 <!ENTITY identity.connectionInternal "Esta é uma página segura do &brandShortName;.">
 
 <!ENTITY identity.moreInfoLinkText2 "Mais informação">
@@ -721,7 +721,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.closeNotificationItem.label "Agora não">
 
 <!ENTITY social.directory.label "Diretório de ativações">
-<!ENTITY social.directory.text "Pode ativar serviços de partilha a partir do diretório.">
+<!ENTITY social.directory.text "Pode ativar os serviços de partilha a partir do diretório.">
 <!ENTITY social.directory.button "Levem-me lá!">
 <!ENTITY social.directory.introText "Clique no serviço para o adicionar ao &brandShortName;.">
 <!ENTITY social.directory.viewmore.text "Ver mais">
@@ -773,7 +773,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.moreinfo "Partes da página que rastreiam a sua atividade foram bloqueadas.">
 <!ENTITY trackingContentBlocked.learnMore "Saber mais">
 <!ENTITY trackingContentBlocked.options "Opções">
-<!ENTITY trackingContentBlocked.unblock2.label "Desativar proteção para este sítio">
+<!ENTITY trackingContentBlocked.unblock2.label "Desativar proteção para este site">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "Ativar proteção">
 <!ENTITY trackingContentBlocked.block.accesskey "e">
@@ -813,8 +813,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The translation should do the same. -->
 
 <!ENTITY panicButton.view.mainActionDesc          "Ao continuar vai:">
-<!ENTITY panicButton.view.deleteCookies           "Apagar os <html:strong>cookies</html:strong> recentes">
-<!ENTITY panicButton.view.deleteHistory           "Apagar o <html:strong>histórico</html:strong>">
+<!ENTITY panicButton.view.deleteCookies           "Eliminar os <html:strong>cookies</html:strong> recentes">
+<!ENTITY panicButton.view.deleteHistory           "Eliminar o <html:strong>histórico</html:strong> recente">
 <!ENTITY panicButton.view.deleteTabsAndWindows    "Fechar todos os <html:strong>Separadores</html:strong> e <html:strong>Janelas</html:strong>">
 <!ENTITY panicButton.view.openNewWindow           "Abrir uma nova janela">
 

@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tracking.label                 "Seguimento">
+<!ENTITY tracking.label                 "Monitorização da navegação">
 
-<!ENTITY dntTrackingNotOkay.label2      "Pedir que os sites não possam seguir a minha navegação">
+<!ENTITY dntTrackingNotOkay.label2      "Impedir os sites de monitorizarem a minha navegação">
 <!ENTITY dntTrackingNotOkay.accesskey   "N">
-<!ENTITY trackingProtection.label       "Impedir rastreio por parte dos sítios web">
+<!ENTITY trackingProtection.label       "Impedir monitorização por parte dos sites">
 <!ENTITY trackingProtection.accesskey   "m">
 <!ENTITY trackingProtectionLearnMore.label "Saber mais">
 <!ENTITY doNotTrackInfo.label           "Saber mais">
@@ -49,8 +49,8 @@
 
 <!ENTITY  historyHeader.pre.label          "O &brandShortName; irá:">
 <!ENTITY  historyHeader.pre.accesskey      "i">
-<!ENTITY  historyHeader.remember.label     "guardar o seu histórico">
-<!ENTITY  historyHeader.dontremember.label "não guardar o seu histórico">
+<!ENTITY  historyHeader.remember.label     "Memorizar histórico">
+<!ENTITY  historyHeader.dontremember.label "Não memorizar o histórico">
 <!ENTITY  historyHeader.custom.label       "Utilizar definições personalizadas para o histórico">
 <!ENTITY  historyHeader.post.label         "">
 
