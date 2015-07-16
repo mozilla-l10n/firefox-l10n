@@ -8,20 +8,20 @@
 <!ENTITY pref.fonts.title "Písma">
 
 <!ENTITY language.label "Znaková sada:">
-<!ENTITY language.accesskey "d">
+<!ENTITY language.accesskey "Z">
 
 <!ENTITY typefaces.label "Řez písma">
 <!ENTITY sizes.label "Velikost (bodů)">
 
 <!ENTITY proportional.label "Proporcionální:">
-<!ENTITY proportional.accesskey "R">
+<!ENTITY proportional.accesskey "c">
 
 <!ENTITY serif.label "Patkové:">
-<!ENTITY serif.accesskey "p">
+<!ENTITY serif.accesskey "P">
 <!ENTITY sans-serif.label "Bezpatkové:">
-<!ENTITY sans-serif.accesskey "b">
+<!ENTITY sans-serif.accesskey "B">
 <!ENTITY monospace.label "Neproporcionální:">
-<!ENTITY monospace.accesskey "n">
+<!ENTITY monospace.accesskey "N">
 <!-- LOCALIZATION NOTE (fantasy.label): 'Fantasy' means 'Ornate' -->
 <!ENTITY fantasy.label "Ozdobné:">
 <!ENTITY fantasy.accesskey "o">
@@ -58,7 +58,7 @@
 <!ENTITY font.langGroup.math                     "Matematika">
 <!-- Minimum font size -->
 <!ENTITY minSize.label "Minimální velikost fontů:">
-<!ENTITY minSize.accesskey "m">
+<!ENTITY minSize.accesskey "M">
 <!ENTITY minSize.none "Žádná">
 
 <!-- default font type -->
@@ -66,7 +66,7 @@
 <!ENTITY useDefaultFontSansSerif.label "Bezpatkové">
 
 <!ENTITY useDocumentFonts.label "Povolit stránkám použít jiné písmo">
-<!ENTITY useDocumentFonts.accesskey "j">
+<!ENTITY useDocumentFonts.accesskey "s">
 
 <!-- leaving this stuff in for now -->
 
