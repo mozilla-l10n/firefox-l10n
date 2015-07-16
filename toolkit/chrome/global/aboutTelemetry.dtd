@@ -4,11 +4,22 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Telemetry माहिती">
 
-<!ENTITY aboutTelemetry.telemetryEnabled "  Telemetry <span>सुरू आहे</span>.">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "  Telemetry <span>बंद आहे</span>.">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutTelemetry.generalDataSection "एकंदर माहिती">
+
 
 <!ENTITY aboutTelemetry.telemetryLogSection "  Telemetry नोंद">
 
