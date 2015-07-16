@@ -14,7 +14,7 @@
 <!ENTITY lightning.toolbar.edit.label "Muuda">
 <!ENTITY lightning.toolbar.edit.tooltip "Muuda valitud sündmust või ülesannet">
 <!ENTITY lightning.toolbar.gototoday.label "Täna">
-<!ENTITY lightning.toolbar.gototoday.tooltip "Liigu tänase päeva juurde">
+<!ENTITY lightning.toolbar.gototoday.tooltip "Liigu tänasele päevale">
 <!ENTITY lightning.toolbar.print.label "Prindi">
 <!ENTITY lightning.toolbar.print.tooltip "Prindi sündmused või ülesanded">
 
