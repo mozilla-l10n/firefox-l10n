@@ -65,6 +65,7 @@
 <!ENTITY largerFont.label             "పెద్ద ఫాంట్">
 <!ENTITY largerFont.accesskey         "a">
 <!ENTITY largerFont.commandkey        "+">
+<!-- + is above this key on many keyboards -->
 
 <!ENTITY smallerFont.label            "చిన్న ఫాంట్">
 <!ENTITY smallerFont.accesskey        "m">

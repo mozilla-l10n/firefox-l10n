@@ -275,6 +275,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 
 <!ENTITY browserContentToolboxMenu.label     "బ్రౌజర్ కాంటెంట్ టూల్‌బాక్స్">
+<!ENTITY browserContentToolboxMenu.accesskey "x">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "అభివృద్దికారి సాధనపట్టీను మూయి">
 <!ENTITY devToolbarMenu.label              "అభివృద్దికారి సాధనపట్టీ">
@@ -304,6 +305,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "కొత్త ఆంతరంగిక విండో">
 <!ENTITY newPrivateWindow.accesskey "W">
+<!ENTITY newNonRemoteWindow.label   "కొత్త Non-e10s విండో">
 
 <!ENTITY editMenu.label         "సవరణ (E)"> 
 <!ENTITY editMenu.accesskey       "E"> 
@@ -672,29 +674,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label                   "రద్దుచేయి">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
-<!ENTITY identity.unverifiedsite2 "ఈ వెబ్ సైట్ గుర్తింపు సమాచారాన్ని అందించుటలేదు.">
-<!ENTITY identity.connectedTo "మీరు దీనికి అనుసంధానించ బడినారు">
-<!-- Localization note (identity.runBy) : This string appears between a
-domain name (above) and an organization name (below). E.g.
+<!ENTITY identity.connectionSecure "సురక్షిత అనుసంధానం">
+<!ENTITY identity.connectionNotSecure "అనుసంధానం సురక్షితం కాదు">
+<!ENTITY identity.connectionVerified "మీరు ఈ సైటుకు సురక్షితంగా అనుసంధానించి ఉన్నారా లేదా అనేది &brandShortName; నిర్ధారించును, దీనిని నడిపి:">
+<!ENTITY identity.connectionInternal "ఇది సురక్షిత &brandShortName; పేజీ.">
 
-example.com
-which is run by
-Example Enterprises, Inc.
-
-The layout of the identity dialog prevents combining this into a single string with
-substitution variables.  If it is difficult to translate the sense of the string
-with that structure, consider a translation which ignores the preceding domain and
-just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "ఏదైతే దీనిద్వారా నడుస్తుందో">
-
-<!ENTITY identity.moreInfoLinkText "మరింత సమాచారం…">
+<!ENTITY identity.moreInfoLinkText2 "మరింత సమాచారం">
 
 <!ENTITY identity.permissions "అనుమతులు">
-<!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
-     localized title of this SUMO article
-     https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
-
-<!ENTITY identity.help.tooltip "ఒక వెబ్ సైటుకి నా అనుసంధానం సురక్షితమో కాదో ఎలా చెప్పవచ్చు?">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -865,3 +852,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Pre-landed strings for bug 1123519 -->
 <!ENTITY readingList.sidebar.add.label            "చదివే జాబితాకు జతచేయండి">
 <!ENTITY readingList.sidebar.add.tooltip          "ఈ పేజీను మీ చదివే జాబితాకు జతచేయండి">
+<!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
+
+<!ENTITY saveToPocketCmd.label     "పేజీను పాకెట్‌కు దాయి">
+<!ENTITY saveToPocketCmd.accesskey "k">
+<!ENTITY saveLinkToPocketCmd.label     "లంకెను పాకెట్‌కు దాయి">
+<!ENTITY saveLinkToPocketCmd.accesskey "o">
+<!ENTITY pocketMenuitem.label      "పాకెట్ జాబితా చూడు">

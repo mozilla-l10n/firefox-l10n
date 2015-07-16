@@ -164,7 +164,6 @@
 <!ENTITY debuggerUI.seMenuCondBreak.key "B">
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
-
 <!ENTITY debuggerUI.tabs.sources        "మూలాలు">
 <!ENTITY debuggerUI.tabs.traces         "ట్రేస్‌లు">
 <!ENTITY debuggerUI.tabs.callstack      "కాల్ స్టాక్">
