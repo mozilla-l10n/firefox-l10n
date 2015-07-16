@@ -42,6 +42,10 @@
 
 <!ENTITY syncDeviceName.label       "Nying Nyonyo:">
 <!ENTITY syncDeviceName.accesskey   "y">
+
+
+<!ENTITY cancelChangeSyncDeviceName.label "Juk">
+<!ENTITY saveChangeSyncDeviceName.label "Gwok">
 <!ENTITY unlinkDevice.label           "Ngol kube ki nyonyo man">
 <!-- Footer stuff -->
 

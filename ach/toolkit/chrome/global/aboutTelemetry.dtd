@@ -4,11 +4,22 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Pimo tic ki kama bor">
 
-<!ENTITY aboutTelemetry.telemetryEnabled "  Pimo tic tye ma <span>kiye</span>.">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "  Pimo tic tye ma <span>kijuko</span>.">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutTelemetry.generalDataSection "  Tic lumuku">
+
 
 
 <!ENTITY aboutTelemetry.slowSqlSection "  Lok me SQL ma woto mot">
