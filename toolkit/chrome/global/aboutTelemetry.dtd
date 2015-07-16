@@ -4,11 +4,22 @@
 
 <!ENTITY aboutTelemetry.pageTitle "ទិន្នន័យ Telemetry">
 
-<!ENTITY aboutTelemetry.telemetryEnabled "   Telemetry គឺ <span>enabled</span> ។ ">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "   Telemetry គឺ <span>disabled</span> ។ ">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutTelemetry.generalDataSection "  ទិន្នន័យ​ទូទៅ">
+
 
 <!ENTITY aboutTelemetry.telemetryLogSection "  កំណត់​ហេតុ Telemetry">
 

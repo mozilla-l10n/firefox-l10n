@@ -10,3 +10,5 @@
 <!ENTITY usedAs "បាន​ប្រើ​ជា៖">
 <!ENTITY system "ប្រព័ន្ធ">
 <!ENTITY remote "ពី​ចម្ងាយ">
+<!-- LOCALIZATION NOTE (previewHint): This is the label shown as the
+     placeholder in font inspector preview text box. -->

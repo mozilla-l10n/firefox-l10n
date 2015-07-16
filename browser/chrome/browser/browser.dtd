@@ -38,8 +38,8 @@ can reach it easily. -->
 
 <!ENTITY  pinTab.label                       "ខ្ទាស់​ផ្ទាំង">
 <!ENTITY  pinTab.accesskey                   "ខ">
-<!ENTITY  unpinTab.label                     "ដោះ​​ខ្ទាស់​ផ្ទាំង">
-<!ENTITY  unpinTab.accesskey                 "b">
+<!ENTITY  unpinTab.label                     "ដោះ​​ខ្ទាស់ផ្ទាំង">
+<!ENTITY  unpinTab.accesskey                 "ផ">
 <!ENTITY  moveToGroup.label                  "ផ្លាស់ទី​ទៅកាន់​ក្រុម">
 <!ENTITY  moveToGroup.accesskey              "ផ">
 <!ENTITY  moveToNewGroup.label               "ក្រុម​ថ្មី">
@@ -229,7 +229,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolsCmd.keytext          "F12">
 
 <!ENTITY devtoolsConnect.label        "តភ្ជាប់…">
-<!ENTITY devtoolsConnect.accesskey    "e">
+<!ENTITY devtoolsConnect.accesskey    "ត">
 
 <!ENTITY errorConsoleCmd.label        "កុងសូល​កំហុស">
 <!ENTITY errorConsoleCmd.accesskey    "ក">
@@ -274,7 +274,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 
-<!ENTITY browserContentToolboxMenu.label     "ប្រអប់​ឧបករណ៍​មាតិកា​កម្មវិធី​អ៊ីនធឺណិត">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "បិទ​របារ​ឧបករណ៍​​អ្នក​អភិវឌ្ឍន៍">
 <!ENTITY devToolbarMenu.label              "របារ​ឧបករណ៍​អ្នកអភិវឌ្ឍន៍">
@@ -304,6 +303,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "ប">
 <!ENTITY newPrivateWindow.label     "បង្អួច​ឯកជន​ថ្មី">
 <!ENTITY newPrivateWindow.accesskey "ប">
+
 
 <!ENTITY editMenu.label         "កែសម្រួល"> 
 <!ENTITY editMenu.accesskey       "ក"> 
@@ -423,10 +423,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY searchFor.label              "ស្វែងរក៖">
 <!ENTITY searchWith.label             " ជាមួយ៖">
+<!-- LOCALIZATION NOTE (search.label, searchAfter.label):
+     This string is used to build the header above the list of one-click search
+     providers when a one off engine has been selected.  The searchAfter text is
+     intentionally left empty for en-US and can be used by other localizations to
+     display a string after the search engine name.  This string will be displayed
+     as:  "Search <selected engine name><searchAfter.label text>" -->
+<!ENTITY searchAfter.label            "">
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
+
 <!ENTITY searchWithHeader.label       "ស្វែងរក​ជាមួយ៖">
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
@@ -609,12 +617,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin2.label       "ចេញ">
 <!ENTITY quitApplicationCmdWin2.accesskey   "ច">
-<!ENTITY quitApplicationCmdWin2.tooltip     "បិទ &brandShortName;">
+<!ENTITY quitApplicationCmdWin2.tooltip     "បិទ &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "ចេញ"> 
 <!ENTITY quitApplicationCmd.accesskey   "ច">
-<!ENTITY quitApplicationCmdMac2.label   "បិទ &brandShortName;">
+<!ENTITY quitApplicationCmdMac2.label   "បិទ &brandShorterName;">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "Q">
 
@@ -662,29 +670,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label                   "បោះបង់">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
-<!ENTITY identity.unverifiedsite2 "វេបសាយ​នេះ​មិន​ផ្ដល់​ព័ត៌មាន​អត្តសញ្ញាណ។">
-<!ENTITY identity.connectedTo "អ្នក​បាន​តភ្ជាប់​ទៅ">
-<!-- Localization note (identity.runBy) : This string appears between a
-domain name (above) and an organization name (below). E.g.
 
-example.com
-which is run by
-Example Enterprises, Inc.
 
-The layout of the identity dialog prevents combining this into a single string with
-substitution variables.  If it is difficult to translate the sense of the string
-with that structure, consider a translation which ignores the preceding domain and
-just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "ដែល​ដំណើរការ​​ដោយ">
 
-<!ENTITY identity.moreInfoLinkText "ព័ត៌មាន​បន្ថែម...">
+
 
 <!ENTITY identity.permissions "សិទ្ធិ">
-<!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
-     localized title of this SUMO article
-     https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
-
-<!ENTITY identity.help.tooltip "តើ​ខ្ញុំ​ត្រូវ​ប្រាប់​ដូចម្ដេច បើ​ការ​តភ្ជាប់​របស់​ខ្ញុំ​ទៅកាន់​តំបន់បណ្ដាញ​មាន​សុវត្ថិភាព​ហើយ?">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -698,7 +689,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSetup.label              "ដំឡើង &syncBrand.shortName.label;…">
 <!ENTITY syncSetup.accesskey          "Y">
 <!ENTITY syncSyncNowItem.label        "ធ្វើ​សមកាលកម្ម​ឥឡូវ">
-<!ENTITY syncSyncNowItem.accesskey    "S">
+<!ENTITY syncSyncNowItem.accesskey    "ស">
 <!ENTITY syncReAuthItem.label         "តភ្ជាប់​ឡើង​វិញ​ទៅកាន់ &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "ត">
 <!ENTITY syncToolbarButton.label      "ធ្វើ​សមកាលកម្ម">
@@ -743,7 +734,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "ទទួល​បាន​រូបរាង​ច្រើន">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-<!ENTITY customizeMode.deveditionTheme.label2 "ប្រើ​រូបរាង​ការ​កែសម្រួល​របស់​អ្នក​អភិវឌ្ឍ">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "ផ្ដោតការ​ជជែក">
@@ -786,7 +776,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pointerLock.notification.message "ចុច ESC ប្រសិនបើ​អ្នក​ចង់​បង្ហាញ​វា​ម្ដងទៀត។">
 
 <!ENTITY pluginNotification.showAll.label "បង្ហាញ​ទាំងអស់">
-<!ENTITY pluginNotification.showAll.accesskey "S">
+<!ENTITY pluginNotification.showAll.accesskey "ង">
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 
 <!ENTITY pluginActivateNow.label "អនុញ្ញាត​ឥឡូវ">
@@ -803,8 +793,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY uiTour.infoPanel.close "បិទ">
 
 <!ENTITY appMenuSidebars.label         "របារ​ចំហៀង">
-
-<!ENTITY switchToMetroCmd2.label       "ចាប់ផ្ដើម​ឡើងវិញក្នុង &brandShortName; សម្រាប់ Windows 8 Touch">
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
@@ -858,3 +846,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Pre-landed strings for bug 1123519 -->
 <!ENTITY readingList.sidebar.add.label            "បន្ថែម​ទៅ​បញ្ជី​អាន">
 <!ENTITY readingList.sidebar.add.tooltip          "បន្ថែម​ទំព័រ​នេះ​ទៅកាន់​បញ្ជី​អាន​របស់​អ្នក">
+<!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
+
+
+
+

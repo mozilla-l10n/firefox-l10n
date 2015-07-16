@@ -67,10 +67,13 @@
 
 <!ENTITY inspectorHTMLPasteLastChild.label       "ជាកូន​ចុងក្រោយ​">
 <!ENTITY inspectorHTMLPasteLastChild.accesskey   "ក">
+<!-- LOCALIZATION NOTE (inspectorScrollNodeIntoView.label): This is the label
+     shown in the inspector contextual-menu for the item that lets users scroll
+     the current node into view -->
+
 <!-- LOCALIZATION NOTE (inspectorHTMLDelete.label): This is the label shown in
      the inspector contextual-menu for the item that lets users delete the
      current node -->
-
 
 <!ENTITY inspectorHTMLDelete.label          "លុប​ថ្នាំង">
 <!ENTITY inspectorHTMLDelete.accesskey      "D">
@@ -81,6 +84,11 @@
 
 <!ENTITY inspectorSearchHTML.label2          "ស្វែងរក​ដោយ​ប្រើ​កម្មវិធី​ជ្រើស CSS">
 <!ENTITY inspectorSearchHTML.key            "F">
+<!-- LOCALIZATION NOTE (inspectorSearchHTML.label3): This is the label that will
+     be shown as the placeholder in the future, once the inspector search box
+     supports the full text HTML search in Bug 835896. -->
+
+<!ENTITY inspectorSearchHTML.label3 "ស្វែងរក HTML">
 <!-- LOCALIZATION NOTE (inspectorCopyImageDataUri.label): This is the label
      shown in the inspector contextual-menu for the item that lets users copy
      the URL embedding the image data encoded in Base 64 (what we name
@@ -94,3 +102,14 @@
      opens the split Console and displays the properties in its side panel. -->
 
 <!ENTITY inspectorShowDOMProperties.label       "បង្ហាញ​លក្ខណៈ​សម្បត្តិ DOM">
+<!-- LOCALIZATION NOTE (inspectorExpandNode.label): This is the label
+     shown in the inspector contextual-menu for recursively expanding
+     mark-up elements -->
+<!-- LOCALIZATION NOTE (inspectorCollapseNode.label): This is the label
+     shown in the inspector contextual-menu for recursively collapsing
+     mark-up elements -->
+
+<!ENTITY inspectorCollapseNode.label       "វេញ">
+<!-- LOCALIZATION NOTE (inspectorScreenshotNode.label): This is the label
+     shown in the inspector contextual-menu for the item that lets users take
+     a screenshot of the currently selected node. -->
