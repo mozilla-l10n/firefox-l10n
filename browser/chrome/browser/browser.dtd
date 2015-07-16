@@ -274,6 +274,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 
+<!ENTITY browserContentToolboxMenu.label     "Nabigatzaile-edukiaren tresna-kutxa">
+<!ENTITY browserContentToolboxMenu.accesskey "x">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Itxi garatzailearen tresna-barra">
 <!ENTITY devToolbarMenu.label              "Garatzailearen tresna-barra">
@@ -303,7 +305,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "L">
 <!ENTITY newPrivateWindow.label     "Leiho pribatu berria">
 <!ENTITY newPrivateWindow.accesskey "h">
-
+<!ENTITY newNonRemoteWindow.label   "E10s ez den leiho berria">
 
 <!ENTITY editMenu.label         "Editatu"> 
 <!ENTITY editMenu.accesskey       "E"> 
@@ -672,10 +674,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label                   "Utzi">
 <!ENTITY editBookmark.removeBookmark.accessKey       "K">
 
+<!ENTITY identity.connectionSecure "Konexio segurua">
+<!ENTITY identity.connectionNotSecure "Konexioa ez da segurua">
+<!ENTITY identity.connectionVerified "&brandShortName;(e)k egiaztatu du gune honetara modu segurua konektatuta zaudela. Arduraduna:">
+<!ENTITY identity.connectionInternal "&brandShortName; orri segurua da hau.">
 
-
-
-
+<!ENTITY identity.moreInfoLinkText2 "Informazio gehiago">
 
 <!ENTITY identity.permissions "Baimenak">
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -850,6 +854,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY readingList.sidebar.add.tooltip          "Gehitu orri hau zure irarketa-zerrendan">
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 
-
-
-
+<!ENTITY saveToPocketCmd.label     "Gorde orria Pocket-era">
+<!ENTITY saveToPocketCmd.accesskey "k">
+<!ENTITY saveLinkToPocketCmd.label     "Gorde lotura Pocket-era">
+<!ENTITY saveLinkToPocketCmd.accesskey "l">
+<!ENTITY pocketMenuitem.label      "Ikusi Pocket-eko zerrenda">

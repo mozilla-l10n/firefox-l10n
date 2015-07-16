@@ -164,6 +164,8 @@
 <!ENTITY debuggerUI.seMenuCondBreak.key "b">
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
+
+<!ENTITY debuggerUI.tabs.workers        "Langileak">
 <!ENTITY debuggerUI.tabs.sources        "Iturburuak">
 <!ENTITY debuggerUI.tabs.traces         "Aztarnak">
 <!ENTITY debuggerUI.tabs.callstack      "Deiaren pila">
