@@ -4,3 +4,6 @@
 
 <!ENTITY filterListSelectPlaceholder "Выбрать фильтр">
 <!ENTITY addNewFilterButton "Добавить">
+<!ENTITY newPresetPlaceholder "Имя пресета">
+<!ENTITY savePresetButton "Сохранить">
+<!ENTITY presetsToggleButton "Пресеты">
