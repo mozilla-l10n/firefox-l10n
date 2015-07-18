@@ -394,7 +394,7 @@ size. -->
 <!ENTITY doorhanger_login_select_message "Копирај лозинку из &formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "Лозинка је копирана на clipboard">
 <!ENTITY doorhanger_login_select_toast_copy_error "Нисам успео копирати лозинку">
-<!ENTITY doorhanger_login_select_action_text "Изаберите други пријаву">
+<!ENTITY doorhanger_login_select_action_text "Изаберите другу пријаву">
 <!ENTITY doorhanger_login_select_title "Копирај лозинку из">
 
 <!ENTITY pref_titlebar_mode "Наслована трака">
