@@ -48,5 +48,5 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY closeWhenDone.label              "Затвори кад се преузимања заврше">
 <!ENTITY closeWhenDone.tooltip            "Затвара прозор за преузимања једном када су све датотеке преузете">
 
-<!ENTITY showFolder.label                 "Прикажи у фолдеру">
+<!ENTITY showFolder.label                 "Прикажи у директоријуму">
 <!ENTITY searchBox.label                  "Претражи…">

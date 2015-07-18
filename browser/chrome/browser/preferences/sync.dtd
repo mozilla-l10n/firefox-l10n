@@ -74,7 +74,7 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Нисте пријављени.">
 <!ENTITY signIn.label                "Пријави се">
-<!ENTITY manage.label                " Поставке">
+<!ENTITY manage.label                "Управљај">
 <!ENTITY disconnect.label            "Прекини конекцију…">
 <!ENTITY verify.label                "Верификуј е-пошту">
 <!ENTITY forget.label                "Заборави на ову е-пошту">
