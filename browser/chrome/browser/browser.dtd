@@ -557,13 +557,14 @@
 <!ENTITY mixedContentBlocked2.block.accesskey "к">
 <!ENTITY mixedContentBlocked2.disabled.message "Защита отключена">
 <!ENTITY trackingProtection.title "Защита от отслеживания">
-<!ENTITY trackingProtection.detectedBlocked "Попытки отследить ваше поведение в Интернете были заблокированы.">
-<!ENTITY trackingProtection.detectedNotBlocked "Обнаружены элементы отслеживания. Вы отключили защиту на этом сайте.">
-<!ENTITY trackingProtection.notDetected "Элементы отслеживания на этом веб-сайте не обнаружены.">
+<!ENTITY trackingProtection.detectedBlocked2 "&brandShortName; заблокировал попытки отследить ваше поведение в Интернете.">
+<!ENTITY trackingProtection.detectedNotBlocked2 "Этот сайт имеет содержимое, отслеживающее ваше поведение в Интернете. Вы отключили защиту.">
+<!ENTITY trackingProtection.notDetected2 "На этом сайте нет содержимого, отслеживающего ваше поведение в Интернете.">
 <!ENTITY trackingProtection.unblock.label "Отключить защиту для этого сайта">
 <!ENTITY trackingProtection.unblock.accesskey "к">
-<!ENTITY trackingProtection.block.label "Включить защиту для этого сайта">
-<!ENTITY trackingProtection.block.accesskey "ю">
+<!ENTITY trackingProtection.unblockPrivate.label "Отключить защиту для этой сессии">
+<!ENTITY trackingProtection.block2.label "Включить защиту">
+<!ENTITY trackingProtection.block2.accesskey "ю">
 <!ENTITY trackingContentBlocked.message "Отслеживание">
 <!ENTITY trackingContentBlocked.moreinfo "Части страницы, которые отслеживали ваши действия в Интернете, были заблокированы.">
 <!ENTITY trackingContentBlocked.learnMore "Подробнее">

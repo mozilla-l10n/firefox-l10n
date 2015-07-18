@@ -131,6 +131,10 @@
 <!ENTITY pref_tracking_protection_summary2 "Активно блокировать элементы отслеживания в Приватном просмотре">
 <!ENTITY pref_donottrack_title "Не отслеживать">
 <!ENTITY pref_donottrack_summary "&brandShortName; будет сообщать сайтам, что вы не хотите, чтобы вас отслеживали">
+<!ENTITY tracking_protection_prompt_title "Теперь с Защитой от отслеживания">
+<!ENTITY tracking_protection_prompt_text "Активно блокируйте элементы отслеживания, чтобы не беспокоиться о слежке.">
+<!ENTITY tracking_protection_prompt_tip_text "Чтобы узнать больше, посетите параметры Приватности">
+<!ENTITY tracking_protection_prompt_action_button "Понятно!">
 <!ENTITY tab_queue_toast_message3 "Вкладка сохранена в &brandShortName;">
 <!ENTITY tab_queue_toast_action "Открыть сейчас">
 <!ENTITY tab_queue_prompt_title "Открываете много ссылок?">
@@ -360,10 +364,11 @@
 <!ENTITY loaded_mixed_content_message "Эта страница отображает содержимое, не являющееся безопасным.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; заблокировал содержимое, не являющееся безопасным.">
 <!ENTITY blocked_mixed_content_message_bottom "Большинство веб-сайтов будут продолжать нормально работать, даже когда это содержимое заблокировано.">
-<!ENTITY loaded_tracking_content_message_top "Защита от отслеживания отключена.">
-<!ENTITY loaded_tracking_content_message_bottom "Части этой страницы могут отслеживать ваши действия в Интернете.">
-<!ENTITY blocked_tracking_content_message_top2 "Защита от отслеживания включена.">
-<!ENTITY blocked_tracking_content_message_bottom2 "Части страницы, которые отслеживали ваши действия в Интернете, были заблокированы.">
+<!ENTITY doorhanger_tracking_title "Защита от отслеживания">
+<!ENTITY doorhanger_tracking_state_enabled "Включена">
+<!ENTITY doorhanger_tracking_state_disabled "Отключена">
+<!ENTITY doorhanger_tracking_message_enabled "Блокируются элементы отслеживания, что может повлиять на вашу работу в Интернете.">
+<!ENTITY doorhanger_tracking_message_disabled "Попытки отследить ваше поведение в Интернете не были заблокированы.">
 <!ENTITY learn_more "Подробнее">
 <!ENTITY enable_protection "Включить защиту">
 <!ENTITY disable_protection "Отключить защиту">
