@@ -19,8 +19,8 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.resume.accesskey             "Н">
 <!ENTITY cmd.cancel.label                 "Откажи">
 <!ENTITY cmd.cancel.accesskey             "О">
-<!ENTITY cmd.show.label                   "Отвори фасциклу">
-<!ENTITY cmd.show.accesskey               "Ф">
+<!ENTITY cmd.show.label                   "Отвори директоријум">
+<!ENTITY cmd.show.accesskey               "д">
 <!ENTITY cmd.showMac.label                "Прикажи у Finder-у">
 <!ENTITY cmd.showMac.accesskey            "у">
 <!ENTITY cmd.open.label                   "Отвори">
