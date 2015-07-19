@@ -773,13 +773,15 @@ The word "toolbar" is appended automatically and should not be contained below! 
 <!ENTITY mixedContentBlocked2.disabled.message "La protección está deshabilitada">
 
 <!ENTITY trackingProtection.title "Protección de rastreo">
-<!ENTITY trackingProtection.detectedBlocked "Se bloqueó un intento de rastrear su comportamiento en línea.">
-<!ENTITY trackingProtection.detectedNotBlocked "Se detectaron elementos de rastreo. Ha seshabilitado la protección en este sitio.">
-<!ENTITY trackingProtection.notDetected "No se detectaron elementos de rastreo en este sitio.">
+<!ENTITY trackingProtection.detectedBlocked2 "&brandShortName; está bloqueando intentos de rastrear su navegación.">
+<!ENTITY trackingProtection.detectedNotBlocked2 "Este sitio incluye contenido que rastrea la navegación. Usted ha deshabilitado la protección.">
+<!ENTITY trackingProtection.notDetected2 "Este sitio no incluye contenido que rastree la navegación.">
 <!ENTITY trackingProtection.unblock.label "Deshabilitar protección para este sitio">
 <!ENTITY trackingProtection.unblock.accesskey "D">
-<!ENTITY trackingProtection.block.label "Habilitar protección para este sitio">
-<!ENTITY trackingProtection.block.accesskey "E">
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label): Uses trackingProtection.unblock.accesskey as its accesskey. -->
+<!ENTITY trackingProtection.unblockPrivate.label "Deshabilitar protección para esta sesión">
+<!ENTITY trackingProtection.block2.label "Habilitar protección">
+<!ENTITY trackingProtection.block2.accesskey "E">
 
 <!ENTITY trackingContentBlocked.message "Rastreo">
 <!ENTITY trackingContentBlocked.moreinfo "Partes de la página que rastrean su actividad en línea han sido bloqueadas.">

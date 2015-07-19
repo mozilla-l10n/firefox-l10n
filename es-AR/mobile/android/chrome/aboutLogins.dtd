@@ -3,4 +3,5 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutLogins.title                       "Ingresos">
+<!ENTITY aboutLogins.save                        "Guardar">
 
