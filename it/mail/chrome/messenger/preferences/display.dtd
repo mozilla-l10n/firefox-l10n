@@ -50,11 +50,11 @@
 <!ENTITY markAsReadDelay.accesskey "d">
 <!ENTITY secondsLabel.label "secondi">
 <!ENTITY openMsgIn.label "Aprire i messaggi in:">
-<!ENTITY openMsgInNewTab.label "una scheda">
-<!ENTITY openMsgInNewTab.accesskey "t">
-<!ENTITY reuseExpRadio0.label "una finestra">
+<!ENTITY openMsgInNewTab.label "nuova scheda">
+<!ENTITY openMsgInNewTab.accesskey "s">
+<!ENTITY reuseExpRadio0.label "nuova finestra">
 <!ENTITY reuseExpRadio0.accesskey "n">
-<!ENTITY reuseExpRadio1.label "nella finestra esistente">
+<!ENTITY reuseExpRadio1.label "finestra esistente">
 <!ENTITY reuseExpRadio1.accesskey "e">
 <!ENTITY closeMsgOnMoveOrDelete.label "Chiudere la finestra/scheda del messaggio in caso sia spostato o cancellato">
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
