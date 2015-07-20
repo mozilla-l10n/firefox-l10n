@@ -674,8 +674,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connectionSecure "Güvenli bağlantı">
 <!ENTITY identity.connectionNotSecure "Bağlantı güvenli değil">
-
-
+<!ENTITY identity.connectionVerified "&brandShortName; bu siteye güvenli bir şekilde bağlandığınızı doğruladı. Siteyi işleten:">
+<!ENTITY identity.connectionInternal "Bu sayfa güvenli bir &brandShortName; sayfasıdır.">
 
 <!ENTITY identity.moreInfoLinkText2 "Daha fazla bilgi">
 
