@@ -29,6 +29,7 @@
 
 
 
+<!ENTITY unsafeContentType.title "Mofuta wa Faele o sa Babalesegang">
 
 
 <!ENTITY netReset.title "Kgolagano e rulagantswesešwa">
@@ -49,12 +50,13 @@
 
 
 
+<!ENTITY nssBadCert.title "Kgolagano e Sireletsegileng e Reteletswe">
 
 
 
 <!ENTITY malwareBlocked.title "Saete ya Tlhaselo e Belaesegang!">
-<!ENTITY malwareBlocked.longDesc "<p>Disaete tsa Tlhaselo di leka go tsenya porokeramo e utswang tshedimosetso e porokeramo, go dirisa khomputara ya gago go tlhasela ba bangwe, kgotsa go senya thulaganyo ya gago.</p> 
-<p>Beng ba di webosaete ba ba dumelang fa saete ya bone e begilwe e le saete ya tlhaselo mo phosong baka <a href='http://www.stopbadware.org/home/reviewinfo' >kopa tshekatsheko</a>.</p>">
+<!ENTITY malwareBlocked.longDesc "<p>Disaete tsa tlhaselo di leka go tsenya porokeramo tse di utswang tshedimosetso ya poraefete, go dirisa khomputara ya gago go tlhasela ba bangwe, kgotsa go senya thulaganyo ya gago.</p> 
+<p>Beng ba Webosaete ba ba dumelang fa saete ya bone e begilwe e le Saete ya Tlhaselo mo phosong ba ka <a href='http://www.stopbadware.org/home/reviewinfo' >kopa tshekatsheko</a>.</p>">
 
 <!ENTITY unwantedBlocked.longDesc "<p>Ditsebe tsa serweboleta tse di sa batliweng di leka go tsenya serweboleta se se ka nnang maretshwa le go ama thulaganyo ya gago ka tsela tsedi sa solofelwang.</p>">
 
@@ -64,7 +66,7 @@
 
 
 <!ENTITY corruptedContentError.title "Phoso ya Diteng tse di Senyegileng">
-
+<!ENTITY corruptedContentError.longDesc "<p> Tsebe e o lekang go e leba ga e kake ya bontshiwa ka gore phoso mo phetiso tshedimosetso e lemogilwe.</p><ul><li>Tswêê-tswêê i tshwaraganye le beng ba webosaete go ba itsise ka bothata jo.</li></ul>">
 
 <!ENTITY securityOverride.getMeOutOfHereButton "Nkentshe fa!">
 <!ENTITY securityOverride.exceptionButtonLabel "Tsenya tse di ntshitsweng...">
