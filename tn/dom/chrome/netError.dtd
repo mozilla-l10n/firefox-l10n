@@ -27,14 +27,16 @@
 
 
 
+<!ENTITY netTimeout.longDesc "<p> Saete e kopilweng ga e a tsibogela kopo ya kgolagano mme sebatli se emisitse go letela karabo.</p><ul><li>A e ka bo e le gore sefara e itemogela topo e kwa godimo kgotsa kgaogo ya nakwana?  Leka gape moragonyana.</li><li>A ga o kgone go batla disaete tse dingwe? Tlhola kgolagano ya mafaratlhatlha a khomputara.</li><li>A khomputara ya gago kgotsa mafaratlhatlha a sireleditswe ka mopakwana kgotsa kemela?  Dithulaganyo tse di sa siamang di kgoreletsana le Patlo ya webo.</li><li>O santse o na le bothata? Ikopanye le motsamaisa mafaratlhatlha wa gago kgotsa motlamedi wa inthanete go bona thuso.</li></ul>">
+
+<!ENTITY unknownProtocolFound.title "Tsamaiso e sa Itsiweng">
 
 
 
 
 
 
-
-
+<!ENTITY redirectLoop.title "Fetisa Poapoeletso">
 <!ENTITY redirectLoop.longDesc "<p>Sebatli se emisitse go leka go ntsha selwana se se kopilweng. Saete e fetisetsa kopo ka tsela e ka se tlholeng e digela.</p><ul><li>A o kganetse go dira kgotsa o thibetse dikhukhi tse di lopiwang ke saete e?</li><li><em>NTLHATLALELETSO</em>: Fa o amogela gore dikhukhi tsa saete e ga di baakanye bothata, e ka tswa e le bothata jwa thulaganyo ya sefara e seng khomputara ya gago.</li></ul>">
 
 

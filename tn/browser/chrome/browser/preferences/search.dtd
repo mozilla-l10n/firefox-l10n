@@ -3,7 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-
+<!ENTITY provideSearchSuggestions.label        "Neela batla ditshitshinyo">
+<!ENTITY provideSearchSuggestions.accesskey    "b">
 
 
 
