@@ -11,7 +11,7 @@
 <!ENTITY deniedPortAccess.title "Setshwaraganyi se Kganetswe ka Mabaka a tsa Pabalesego">
 
 
-
+<!ENTITY dnsNotFound.longDesc "<p>Sebatli ga se a kgona go bona pinagare ya sefara ya aterese e neetsweng.</p><ul><li>A o dirile phoso fa o tlanya bonno?(sekai <q><strong>ww</strong>.mozilla.org</q> boemong jwa <q><strong>www</strong>.mozilla.org</q>)</li><li>A o tlhomamisa fa aterese ya bonno e sa le gone?  Ikwadiso ya yone e ka tswa e khutlile tirisong.</li><li>A ga o kgone go batla disaete tse dingwe?  Tlhola mafaratlhatlha a kgolagano ya gago le dithulaganyo tsa sefara ya DNS.</li><li>A khomputara ya gago kgotsa mafaratlhatlha a sireleditswe ka mopakwana kgotsa kemela?  Dithulaganyo tse di sa Siamang di ka kgoreletsana le patlo ya Webo.</li></ul>">
 
 
 
@@ -44,6 +44,7 @@
 <!ENTITY redirectLoop.title "Fetisa Poapoeletso">
 <!ENTITY redirectLoop.longDesc "<p>Sebatli se emisitse go leka go ntsha selwana se se kopilweng. Saete e fetisetsa kopo ka tsela e ka se tlholeng e digela.</p><ul><li>A o kganetse go dira kgotsa o thibetse dikhukhi tse di lopiwang ke saete e?</li><li><em>NTLHATLALELETSO</em>: Fa o amogela gore dikhukhi tsa saete e ga di baakanye bothata, e ka tswa e le bothata jwa thulaganyo ya sefara e seng khomputara ya gago.</li></ul>">
 
+<!ENTITY unknownSocketType.title "Phetolo e sa Siamang">
 
 
 
@@ -59,7 +60,7 @@
 <!ENTITY phishingBlocked.title "Pelaelo ya Webo Togo Maaka!">
 
 
-
+<!ENTITY cspBlocked.longDesc "<p>Sebatli se thibetse tsebe e go tsenya ka tsela e ntseng jaana ka gore tsebe e na le pholisi ya diteng pabalesego e sa e letleleleng.</p>">
 
 <!ENTITY corruptedContentError.title "Phoso ya Diteng tse di Senyegileng">
 <!ENTITY corruptedContentError.longDesc "<p> Tsebe e o lekang go e leba ga e kake ya bontshiwa ka gore phoso mo phetiso tshedimosetso e lemogilwe.</p><ul><li>Tswêê-tswêê i tshwaraganye le beng ba webosaete go ba itsise ka bothata jo.</li></ul>">
