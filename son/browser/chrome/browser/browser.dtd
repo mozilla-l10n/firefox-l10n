@@ -274,6 +274,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 
+<!ENTITY browserContentToolboxMenu.label     "Ceecikaw gundekuna goyjinay bata">
+<!ENTITY browserContentToolboxMenu.accesskey "b">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Cinakaw goyjinay žeeri daabu">
 <!ENTITY devToolbarMenu.label              "Cinakaw goyjinay zuu-žeeri">
@@ -303,7 +305,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "Z">
 <!ENTITY newPrivateWindow.label     "Sutura zanfun taaga">
 <!ENTITY newPrivateWindow.accesskey "z">
-
+<!ENTITY newNonRemoteWindow.label   "Manti-e10s zanfun taaga">
 
 <!ENTITY editMenu.label         "Fasal"> 
 <!ENTITY editMenu.accesskey       "F"> 
@@ -672,10 +674,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label                   "Naŋ">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
+<!ENTITY identity.connectionSecure "Ciyari moora">
+<!ENTITY identity.connectionNotSecure "Ciyaroo manti saajante">
+<!ENTITY identity.connectionVerified "&brandShortName; tabatandi kaŋ war ciya nda saajaw nungoo woo, kaŋ ga dira nda:">
+<!ENTITY identity.connectionInternal "Woo ti &brandShortName; moo saajante.">
 
-
-
-
+<!ENTITY identity.moreInfoLinkText2 "Alhabar tontoni">
 
 <!ENTITY identity.permissions "Duɲeyaney">
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -850,6 +854,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY readingList.sidebar.add.tooltip          "Moɲoo woo tonton war caw maašeedaa ga">
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 
-
-
-
+<!ENTITY saveToPocketCmd.label     "Moɲoo gaabu Pocket ga">
+<!ENTITY saveToPocketCmd.accesskey "k">
+<!ENTITY saveLinkToPocketCmd.label     "Doboo gaabu Pocket boŋ">
+<!ENTITY saveLinkToPocketCmd.accesskey "o">
+<!ENTITY pocketMenuitem.label      "Pocket maašeede guna">
