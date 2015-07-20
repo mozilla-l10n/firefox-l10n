@@ -5,14 +5,14 @@
 
 <!ENTITY newtab.pageTitle "Tab e Ntšhwa">
 
+<!ENTITY newtab.customize.cog.enhanced "Tsenya gare disaete tse tshitshintsweng">
 
 
 
 
 
 
-
-
+<!ENTITY newtab.undo.removedLabel "Setshwantshana se tlositswe.">
 
 
 <!ENTITY newtab.undo.closeTooltip "Fitlha">

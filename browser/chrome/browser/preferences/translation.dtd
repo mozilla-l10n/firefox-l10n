@@ -13,8 +13,8 @@
 
 
 
-
-
+<!ENTITY removeAllSites.label             "Tlosa Disaete Tsotlhe">
+<!ENTITY removeAllSites.accesskey         "i">
 
 <!ENTITY button.close.label               "Tswala">
 <!ENTITY button.close.accesskey           "T">

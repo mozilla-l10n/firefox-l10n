@@ -12,6 +12,7 @@
 
 
 
+<!ENTITY fileNotFound.title "Faele ga e a bonwa">
 
 
 
@@ -32,6 +33,7 @@
 
 
 
+<!ENTITY netTimeout.title "Kgolagano e tsene mo kgokaganyololo tlogo">
 
 
 
@@ -72,10 +74,11 @@ functionality specific to firefox. -->
 
 
 
+<!ENTITY errorReporting.tryAgain "Leka gape">
 
 
 
-
+<!ENTITY sslv3Used.title "Ga go kgonege go Golagana mo go Sireletsegileng">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "ssl_error_unsupported_version". -->
 
