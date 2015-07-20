@@ -235,14 +235,16 @@
 
 <!ENTITY setting.learnmore "Көбірек білу…">
 
+<!ENTITY disabledUnsigned.heading "Кейбір қосымшалар сөндірілген">
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-
-
+<!ENTITY disabledUnsigned.description.start "Келесі қосымшалар &brandShortName; ішінде қолданылуға расталмаған. Сіз ">
+<!ENTITY disabledUnsigned.description.findAddonsLink "баламаларын таба аласыз">
+<!ENTITY disabledUnsigned.description.end " немесе өндірушіден оларды растаудан өткізуді сұрай аласыз.">
 
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
-
-
+<!ENTITY disabledUnsigned.devInfo.linkToManual "нұсқама">
+<!ENTITY disabledUnsigned.devInfo.end ".">
