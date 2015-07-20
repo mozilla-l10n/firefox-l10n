@@ -240,7 +240,7 @@ melhores e mais populares extras para que os possa experimentar.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-<!ENTITY disabledUnsigned.description.start "Os seguintes extras não foram verificados para utilização no &brandShortName;. Você pode ">
+<!ENTITY disabledUnsigned.description.start "Os seguintes extras não foram verificados para utilização no &brandShortName;. Pode ">
 <!ENTITY disabledUnsigned.description.findAddonsLink "localizar substitutos">
 <!ENTITY disabledUnsigned.description.end " ou solicitar que o programador peça a sua verificação.">
 <!ENTITY disabledUnsigned.learnMore "Saber mais acerca do nosso esforço para manter os utilizadores seguros.">
