@@ -133,6 +133,8 @@
   -  is displayed next to a checkbox determining whether or not allocation
   -  measurements are enabled. -->
 
+<!ENTITY profilerUI.enableAllocations             "Atamaları kaydet">
+<!ENTITY profilerUI.enableAllocations.tooltiptext "Profilleme yaparken nesne atamalarını kaydeder.">
 <!-- LOCALIZATION NOTE (profilerUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
@@ -144,7 +146,7 @@
   -  should be recorded. -->
 
 <!ENTITY profilerUI.enableJITOptimizations             "JIT iyileştirmelerini kaydet">
-
+<!ENTITY profilerUI.enableJITOptimizations.tooltiptext "Her JavaScript karesinde örneklenen JIT iyileştirmelerini kaydeder.">
 <!-- LOCALIZATION NOTE (profilerUI.JITOptimizationsTitle): This string
   -  is displayed as the title of the JIT Optimizations panel. -->
 
