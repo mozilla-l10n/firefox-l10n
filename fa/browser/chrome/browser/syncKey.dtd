@@ -13,9 +13,9 @@
 <!ENTITY syncKey.keepItSafe1.description  "نباید این کلید را گم کنید.">
 <!ENTITY syncKey.keepItSafe2.description  " ما کلید شما را در جایی ذخیره نمی‌کنیم (زیرا در غیر این صورت کلید شما تنها در اختیار خودتان قرار نداشت!) ">
 <!ENTITY syncKey.keepItSafe3.description  "بنابراین اگر این کلید گم شود ما در پیدا کردن آن نمی‌توانیم به شما کمک کنیم.">
-<!ENTITY syncKey.keepItSafe4a.description "اگر گم شد، شما نیازمند خواهید بود به استفاده از این کلید هنگامی که به دستگاه برای &syncBrand.fullName.label;. وصل میشوید.">
+<!ENTITY syncKey.keepItSafe4a.description " اگر گم شده است. شما باید از این کلید استفاده کنید هر بار که به یک دستگاه جدید برای &syncBrand.fullName.label;. وصل میشوید.">
 <!ENTITY syncKey.findOutMore1.label       "دربارهٔ &syncBrand.fullName.label; و حریم خصوصی خود در ">
-<!ENTITY syncKey.findOutMore2.label       " بیشتر بخوانید.">
+<!ENTITY syncKey.findOutMore2.label       ".">
 <!ENTITY syncKey.footer1.label            "شرایط ارائهٔ خدمات &syncBrand.fullName.label; در ">
 <!ENTITY syncKey.footer2.label            " در دسترس است.  سیاست حفظ حریم خصوصی شما در ">
-<!ENTITY syncKey.footer3.label            " در دسترس است.">
+<!ENTITY syncKey.footer3.label            ".">

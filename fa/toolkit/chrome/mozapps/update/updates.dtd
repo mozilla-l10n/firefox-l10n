@@ -11,15 +11,18 @@
 <!ENTITY  pluginupdateslink.label         "روش به‌هنگام‌سازی متصل‌شونده‌ها را ملاحظه کنید.">
 
 <!ENTITY  noupdatesfound.title            "هیچ به‌هنگام‌سازی‌ای پیدا نشد">
-<!ENTITY  noupdatesautoenabled.intro      "هیچ به‌هنگام‌سازی‌ای موجود نیست.  &brandShortName; هر چند وقت یک بار به دنبال به‌هنگام‌سازی‌ها خواهد گشت.">
-<!ENTITY  noupdatesautodisabled.intro     "هیچ به‌هنگام‌سازی‌ای موجود نیست.  لطفاً بعداً دوباره تلاش کنید، یا جست‌وجوی خودکار به‌هنگام‌سازی‌های &brandShortName; را فعال سازید.">
+<!ENTITY  noupdatesautoenabled.intro      "هیچ به‌هنگام‌سازی‌ای موجود نیست. 
+&brandShortName; به طور مرتب به دنبال به‌هنگام‌سازی‌ها خواهد گشت.">
+<!ENTITY  noupdatesautodisabled.intro     "هیچ به‌هنگام‌سازی‌ای موجود نیست. لطفاً بعداً دوباره تلاش کنید، 
+و یا جست‌وجوی خودکار به‌هنگام‌سازی‌های &brandShortName; را فعال سازید.">
 
 <!ENTITY  manualUpdate.title              "قادر به به‌هنگام‌سازی نبود">
 <!ENTITY  manualUpdate.desc               "یک به‌هنگام‌سازی امنیتی و پایداری توصیه شده وجود دارد، ولی برای 
 نصب آن، مجوزهای لازم را ندارید. لطفاً با مدیر سیستم خود تماس بگیرید، 
 یا دوباره با یک حساب کاربری که اجازهٔ نصب نرم‌افزار روی این رایانه را دارد 
 تلاش نمایید.">
-<!ENTITY  manualUpdate.space.desc         "یک به‌هنگام‌سازی مهم امنیتی و پایداری وجود دارد، ولی برای نصب آن فضای خالی کافی ندارید.">
+<!ENTITY  manualUpdate.space.desc         "یک به‌هنگام‌سازی مهم امنیتی و پایداری وجود دارد، 
+ولی فضای خالی کافی برای نصب آن ندارید.">
 <!ENTITY  manualUpdateGetMsg.label        "همیشه می‌توانید آخرین نسخهٔ &brandShortName; را در این نشانی دریافت کنید:">
 
 <!ENTITY  unsupported.title               "سیستم پشتبانی نشده">
@@ -33,9 +36,11 @@
 
 <!ENTITY  clickHere.label                 "اطلاعات بیشتر در مورد این به‌هنگام‌سازی">
 
-<!ENTITY  evangelism.desc                 "به شدت توصیه می‌شود که این به‌هنگام‌سازی را هر چه سریع‌تر روی &brandShortName; اعمال کنید.">
+<!ENTITY  evangelism.desc                 "به شدت توصیه می‌شود که این به‌هنگام‌سازی از 
+&brandShortName; را هر چه سریع‌تر اعمال نمایید.">
 
-<!ENTITY  license.instructions            "اگر موارد این توافق‌نامه را می‌پذیرید، «موافق هستم» را انتخاب کنید تا نصب به‌هنگام‌سازی ادامه پیدا کند.">
+<!ENTITY  license.instructions            "اگر موارد این توافق‌نامه را می‌پذیرید، گزینۀ موافق هستم را 
+در ادامه انتخاب کنید تا نصب به‌هنگام‌سازی ادامه یابد.">
 
 <!ENTITY  license.titleText               "توافق‌نامهٔ مجوز نرم‌افزار">
 <!ENTITY  license.introText               "شرایط استفاده از این نرم‌افزار.">
@@ -58,11 +63,14 @@
 
 <!ENTITY  error.title                     "به‌هنگام‌سازی با مشکل مواجه شد">
 
-<!ENTITY  error.label                     "مشکلاتی در بررسی، بارگیری، یا نصب این به‌هنگام‌سازی به وجود آمد.&brandShortName; نمی‌تواند به‌هنگام‌سازی شود، چون:">
+<!ENTITY  error.label                     "مشکلاتی در بررسی، بارگیری، و یا نصب این به‌هنگام‌سازی وجود داشت. 
+&brandShortName; نتوانست به‌هنگام‌سازی شود زیرا:">
                                            
-<!ENTITY  errorManual.label               "شما می‌توانید &brandShortName; را با مراجعه به این پیوند و بارگیری آخرین نسخه به طور دستی به‌هنگام سازید:">
+<!ENTITY  errorManual.label               "شما می‌توانید به‌هنگام سازی &brandShortName; را با مراجعه به این پیوند 
+و بارگیری آخرین نسخه به طور دستی انجام دهید:">
                                            
-<!ENTITY  errorpatching.intro             "به‌هنگام‌سازی جزئی قابل اجرا نیست. &brandShortName; سعی می‌کند یک بستهٔ کامل را  بارگیری کند.">
+<!ENTITY  errorpatching.intro             "به‌هنگام‌سازی جزئی قابل اجرا نیست. 
+&brandShortName; سعی میکند بستۀ کامل را بارگیری و نصب نماید.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; قادر به تشخیص وجود به‌هنگام‌سازی جدیدی نبود. جدیدترین نسخهٔ  &brandShortName; را از این‌جا می‌توانید دریافت کنید:">
 <!ENTITY  errorCertAttrNoUpdate2.label    "&brandShortName; به دلیلی قادر به به‌هنگام‌سازی ایمن نیست.  جدیدترین نسخهٔ  &brandShortName; را از این‌جا می‌توانید دریافت کنید:">

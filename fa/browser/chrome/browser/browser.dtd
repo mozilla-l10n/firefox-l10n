@@ -16,7 +16,7 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(مرور خصوصی)‏">
 
 <!ENTITY appmenu.tooltip                     "باز کردن منو">
-<!ENTITY navbarOverflow.label                "ابزارهای بیشتر...">
+<!ENTITY navbarOverflow.label                "ابزارهای بیشتر…">
 <!-- Tab context menu -->
 
 <!ENTITY  reloadTab.label                    "بازآوری زبانه">
@@ -60,7 +60,7 @@ can reach it easily. -->
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
-<!ENTITY openLocationCmd.label "باز کردن مکان">
+<!ENTITY openLocationCmd.label "بازکردن مکان…">
 <!ENTITY openFileCmd.label "بازکردن پرونده…">
 <!ENTITY openFileCmd.accesskey "ب">
 <!ENTITY openFileCmd.commandkey "o">
@@ -228,7 +228,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
 
-<!ENTITY devtoolsConnect.label        "وصل شدن...">
+<!ENTITY devtoolsConnect.label        "اتصال…">
 <!ENTITY devtoolsConnect.accesskey    "e">
 
 <!ENTITY errorConsoleCmd.label        "پیشانهٔ خطاها">
@@ -333,7 +333,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "ترجیحات">
 <!ENTITY preferencesCmdUnix.accesskey     "ح"> 
 
-<!ENTITY clearRecentHistory.label               "پاک کردن تاریخچه اخیر">
+<!ENTITY clearRecentHistory.label               "پاک کردن تاریخچه صفحه‌های اخیراً بازدید شده…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
@@ -386,7 +386,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "ح">
 <!ENTITY customizeMenu.removeFromMenu.label "حذف از منو">
 <!ENTITY customizeMenu.removeFromMenu.accesskey "ح">
-<!ENTITY customizeMenu.addMoreItems.label "افزودن موارد بیشتر">
+<!ENTITY customizeMenu.addMoreItems.label "افزودن موارد بیشتر…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "ا">
 
 <!ENTITY openCmd.commandkey           "l">
@@ -429,6 +429,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      intentionally left empty for en-US and can be used by other localizations to
      display a string after the search engine name.  This string will be displayed
      as:  "Search <selected engine name><searchAfter.label text>" -->
+
+<!ENTITY search.label                 "جست‌وجو ">
 <!ENTITY searchAfter.label            "">
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
@@ -670,10 +672,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label                   "انصراف">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
+<!ENTITY identity.connectionSecure "اتصال امن">
 
 
 
 
+<!ENTITY identity.moreInfoLinkText2 "اطلاعات بیشتر">
 
 <!ENTITY identity.permissions "مجوزها">
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -707,7 +711,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.label "نمایش میزکار و اطلاعیه‌ها">
 <!ENTITY social.toggleNotifications.accesskey "n">
 
-<!ENTITY social.activated.description "مدیریت سرویس‌ها…">
+<!ENTITY social.activated.description "سرویس‌ها از <label/> فعال شده‌اند. شما می‌توانید تنظیمات سرویس‌ها را از <label class='text-link'> مدیریت افزودنی‌ها تغییر دهید</label>.">
 <!ENTITY social.activated.undo.label "اوه، این را برگردان!">
 <!ENTITY social.activated.undo.accesskey "ب">
 <!ENTITY social.learnMore.label "اطلاعات بیشتر…">

@@ -46,7 +46,7 @@
 <!ENTITY  font.langGroup.gurmukhi                 "گورموخی">
 <!ENTITY  font.langGroup.khmer                    "خِمِر">
 <!ENTITY  font.langGroup.malayalam                "مالایالامی">
-
+<!ENTITY  font.langGroup.math                     "ریاضیات">
 <!ENTITY  font.langGroup.oriya                    "اوریه‌ای">
 <!ENTITY  font.langGroup.telugu                   "تلوگویی">
 <!ENTITY  font.langGroup.kannada                  "کاناده‌ای">
