@@ -46,7 +46,8 @@
 
 
 <!ENTITY malwareBlocked.title "Saete ya Tlhaselo e Belaesegang!">
-
+<!ENTITY malwareBlocked.longDesc "<p>Disaete tsa Tlhaselo di leka go tsenya porokeramo e utswang tshedimosetso e porokeramo, go dirisa khomputara ya gago go tlhasela ba bangwe, kgotsa go senya thulaganyo ya gago.</p> 
+<p>Beng ba di webosaete ba ba dumelang fa saete ya bone e begilwe e le saete ya tlhaselo mo phosong baka <a href='http://www.stopbadware.org/home/reviewinfo' >kopa tshekatsheko</a>.</p>">
 
 <!ENTITY unwantedBlocked.longDesc "<p>Ditsebe tsa serweboleta tse di sa batliweng di leka go tsenya serweboleta se se ka nnang maretshwa le go ama thulaganyo ya gago ka tsela tsedi sa solofelwang.</p>">
 

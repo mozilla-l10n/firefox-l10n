@@ -12,7 +12,8 @@
 
 
 
-
+<!ENTITY restoreDefaultSearchEngines.label     "Busetsa Thulaganyetsoruri ya Dilaodisi kgolo Patlo">
+<!ENTITY restoreDefaultSearchEngines.accesskey "T">
 
 <!ENTITY removeEngine.label                    "Tlosa">
 <!ENTITY removeEngine.accesskey                "T">
