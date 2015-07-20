@@ -1,7 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
+<!ENTITY retry.label "Leka Gape">
 <!-- Specific error messages -->
 
 
@@ -21,7 +21,7 @@
 
 
 
-
+<!ENTITY notCached.longDesc "<p>Tokumente e kopilweng ga e teng mo polokotshedimosetso ya gangwe le gape ya sebatli.</p><ul><li>Ka Itiso ya pabalesego, sebatli ga se itirise go kopa gape ditokumente tsa sephiri .</li><li>Tobetsa Leka Gape go kopa gape tokumente mo webosaeteng.</li></ul>">
 
 <!ENTITY netOffline.longDesc2 "<p> Sebatli se dira ka mokgwa o sa golaganang mme ga se kake sa golagana le selwana se se kopilweng.</p><ul><li>A khomputara e golaganye le mafaratlhatlha a dirisiwang?</li><li>Tobetsa &quot;Leka Gape&quot; go fetolela mo mokgwa kgolaganong ka mafaratlhatlha a bo o tsenya sešwa tsebe.</li></ul>">
 
@@ -45,9 +45,9 @@
 <!ENTITY redirectLoop.longDesc "<p>Sebatli se emisitse go leka go ntsha selwana se se kopilweng. Saete e fetisetsa kopo ka tsela e ka se tlholeng e digela.</p><ul><li>A o kganetse go dira kgotsa o thibetse dikhukhi tse di lopiwang ke saete e?</li><li><em>NTLHATLALELETSO</em>: Fa o amogela gore dikhukhi tsa saete e ga di baakanye bothata, e ka tswa e le bothata jwa thulaganyo ya sefara e seng khomputara ya gago.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Phetolo e sa Siamang">
+<!ENTITY unknownSocketType.longDesc "<p>Saete e fetotse kopo ya mafaratlhatlha ka tsela e sa solofelwang mme sebatli ga se kake sa tswelela.</p>">
 
-
-
+<!ENTITY nssFailure2.longDesc2 "<p>Tsebe e o lekang go e leba ga e kake ya bontshiwa ka gore boammaaruri jwa tshedimosetso e amogetsweng ga boa kgonwa go rurifadiwa.</p><ul><li>Tswêê-tswêê itshwaraganye le beng ba webosaete go ba itsise ka bothata jo.</li></ul>">
 
 
 
@@ -55,15 +55,15 @@
 <!ENTITY malwareBlocked.longDesc "<p>Disaete tsa Tlhaselo di leka go tsenya porokeramo e utswang tshedimosetso e porokeramo, go dirisa khomputara ya gago go tlhasela ba bangwe, kgotsa go senya thulaganyo ya gago.</p> 
 <p>Beng ba di webosaete ba ba dumelang fa saete ya bone e begilwe e le saete ya tlhaselo mo phosong baka <a href='http://www.stopbadware.org/home/reviewinfo' >kopa tshekatsheko</a>.</p>">
 
-<!ENTITY unwantedBlocked.longDesc "<p>Ditsebe tsa serweboleta tse di sa batliweng di leka go tsenya serweboleta se se ka nnang maretshwa le go ama thulaganyo ya gago ka tsela tsedi sa solofelwang.</p>">
+<!ENTITY unwantedBlocked.longDesc "<p>Tsebe ya serweboleta e sa batliweng e leka go tsenya serweboleta se seka nna le tsietso le go ama thulaganyo ka tsela e sa solofelwang.</p>">
 
-<!ENTITY phishingBlocked.title "Pelaelo ya Webo Togo Maaka!">
+<!ENTITY phishingBlocked.title "Togo Maaka ya Webo e Belaesegang!">
 
 
 <!ENTITY cspBlocked.longDesc "<p>Sebatli se thibetse tsebe e go tsenya ka tsela e ntseng jaana ka gore tsebe e na le pholisi ya diteng pabalesego e sa e letleleleng.</p>">
 
 <!ENTITY corruptedContentError.title "Phoso ya Diteng tse di Senyegileng">
-<!ENTITY corruptedContentError.longDesc "<p> Tsebe e o lekang go e leba ga e kake ya bontshiwa ka gore phoso mo phetiso tshedimosetso e lemogilwe.</p><ul><li>Tswêê-tswêê i tshwaraganye le beng ba webosaete go ba itsise ka bothata jo.</li></ul>">
+
 
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Tswêê-tswêê itshwaraganye le beng ba webosaete go ba itsese ka bothaka jo.</li></ul></p>">
 <!-- Include app-specific error messages - do not change this in localization!

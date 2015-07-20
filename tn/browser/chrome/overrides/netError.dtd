@@ -25,6 +25,7 @@ gore &brandShortName; e na le tetlelesego ya Webo.</li>
 
 
 
+<!ENTITY malformedURI.title "Aterese ga e a siama">
 
 
 
@@ -50,6 +51,7 @@ gore &brandShortName; e na le tetlelesego ya Webo.</li>
 
 
 
+<!ENTITY proxyResolveFailure.title "Ga e kgone go bona sefarakemela">
 
 
 
@@ -63,7 +65,7 @@ gore &brandShortName; e na le tetlelesego ya Webo.</li>
 
 
 
-<!ENTITY malwareBlocked.title "Saete ya Tlhaselo e Belaesegang!">
+<!ENTITY malwareBlocked.title "Saete ya Tlhaselo e belaelwang!">
 <!ENTITY malwareBlocked.longDesc "<p>Disaete tsa tlhaselo di leka go tsenya porokeramo tse di utswang tshedimosetso ya poraefete, go dirisa khomputara ya gago go tlhasela ba bangwe, kgotsa go senya thulaganyo ya gago.</p> 
 <p>Beng ba Webosaete ba ba dumelang fa saete ya bone e begilwe e le Saete ya Tlhaselo mo phosong ba ka <a href='http://www.stopbadware.org/home/reviewinfo' >kopa tshekatsheko</a>.</p>">
 
