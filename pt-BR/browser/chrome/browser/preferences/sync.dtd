@@ -23,7 +23,7 @@
 
 <!ENTITY pairDevice.label             "Parear dispositivo">
 
-<!ENTITY syncMy.label               "Sincronizar:">
+<!ENTITY syncMy.label               "Sincronizar">
 <!ENTITY engine.bookmarks.label     "Favoritos">
 <!ENTITY engine.bookmarks.accesskey "F">
 <!ENTITY engine.readinglist.label   "Lista de Leitura">

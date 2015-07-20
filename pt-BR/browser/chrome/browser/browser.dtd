@@ -845,7 +845,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY readingList.sidebar.commandKey           "R">
 <!ENTITY readingList.showSidebar.label            "Exibir painel da lista de leitura">
 <!-- Pre-landed string for bug 1124153 -->
-<!ENTITY readingList.sidebar.showMore.label       "Exibir mais...">
+<!ENTITY readingList.sidebar.showMore.label       "Exibir mais…">
 <!-- Pre-landed string for bug 1133662 -->
 <!ENTITY readingList.sidebar.emptyText            "Adicione artigos à sua Lista de Leitura para salvá-los e encontrá-los facilmente quando precisar deles mais tarde.">
 <!ENTITY readingList.sidebar.delete.tooltip       "Remover da sua Lista de Leitura">
