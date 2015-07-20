@@ -10,3 +10,5 @@
 <!ENTITY usedAs "ऐसे प्रयुक्त: ">
 <!ENTITY system "तंत्र">
 <!ENTITY remote "दूरस्थ">
+<!-- LOCALIZATION NOTE (previewHint): This is the label shown as the
+     placeholder in font inspector preview text box. -->

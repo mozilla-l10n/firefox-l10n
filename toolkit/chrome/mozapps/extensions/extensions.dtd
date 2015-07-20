@@ -22,6 +22,8 @@
 
 <!ENTITY cmd.back.tooltip                     "एक पृष्ठ पीछे जाएँ">
 <!ENTITY cmd.forward.tooltip                  "एक पृष्ठ आगे जाएँ">
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "सभी सहयुक्तियाँ सुरक्षित विधि के द्वारा निष्क्रिय की गई हैं.">
@@ -102,7 +104,8 @@
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "हटाएँ">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
-<!ENTITY cmd.debugAddon.label                 "दोषसुधार">
+
+
 <!ENTITY cmd.showPreferencesWin.label         "विकल्प">
 <!ENTITY cmd.showPreferencesWin.tooltip       "इस सहयुक्ति के विकल्पों को बदलें">
 <!ENTITY cmd.showPreferencesUnix.label        "वरीयताएँ">
@@ -231,3 +234,15 @@
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
 
 <!ENTITY setting.learnmore "अधिक जानें…">
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
+     These entities form a sentence, with
+     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
+     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
+     being a link to an external site. -->
+
+

@@ -6,7 +6,7 @@
 
 
 <!ENTITY getUserMediaDialog.title                   "मीडिया साझाकरण">
-<!ENTITY getUserMediaDialog.button.accept.label     "साझा करें">
+<!ENTITY getUserMediaDialog.button.accept.label     "साझा करें (S)">
 <!ENTITY getUserMediaDialog.button.accept.accesskey "S">
 <!ENTITY getUserMediaDialog.button.cancel.label     "रद्द करें">
 <!ENTITY getUserMediaDialog.button.cancel.accesskey "n">

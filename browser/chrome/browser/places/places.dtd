@@ -85,7 +85,6 @@
 <!ENTITY col.url.label           "स्थान">
 <!ENTITY col.mostrecentvisit.label "सबसे हाल का विजिट">
 <!ENTITY col.visitcount.label    "देखने की संख्या">
-<!ENTITY col.keyword.label       "बीजशब्द">
 <!ENTITY col.description.label   "विवरण">
 <!ENTITY col.dateadded.label     "जोड़ा गया">
 <!ENTITY col.lastmodified.label  "अंतिम रूपांतरित">
