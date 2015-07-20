@@ -13,6 +13,6 @@
 
 
 <!ENTITY newtab.undo.removedLabel "Setshwantshana se tlositswe.">
-
+<!ENTITY newtab.undo.undoButton "Dirolola.">
 <!ENTITY newtab.undo.restoreButton "Busetsa Tsotlhe.">
 <!ENTITY newtab.undo.closeTooltip "Fitlha">

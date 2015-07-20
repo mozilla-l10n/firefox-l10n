@@ -5,6 +5,10 @@
 <!-- Specific error messages -->
 
 
+<!ENTITY connectionFailure.title "E reteletswe ke go Golaganya">
+
+
+<!ENTITY deniedPortAccess.title "Setshwaraganyi se Kganetswe ka Mabaka a tsa Pabalesego">
 
 
 
@@ -23,9 +27,10 @@
 
 
 
+<!ENTITY unsafeContentType.title "Mofuta wa Faele o sa Babalesegang">
 
 
-
+<!ENTITY netReset.longDesc "<p>Kgokagano ya mafaratlhatlha e ne ya kgaopediwa fa go buisanyediwa kgolagano.Tswêê-tswêê leka gape.</p>">
 
 <!ENTITY netTimeout.longDesc "<p> Saete e kopilweng ga e a tsibogela kopo ya kgolagano mme sebatli se emisitse go letela karabo.</p><ul><li>A e ka bo e le gore sefara e itemogela topo e kwa godimo kgotsa kgaogo ya nakwana?  Leka gape moragonyana.</li><li>A ga o kgone go batla disaete tse dingwe? Tlhola kgolagano ya mafaratlhatlha a khomputara.</li><li>A khomputara ya gago kgotsa mafaratlhatlha a sireleditswe ka mopakwana kgotsa kemela?  Dithulaganyo tse di sa siamang di kgoreletsana le Patlo ya webo.</li><li>O santse o na le bothata? Ikopanye le motsamaisa mafaratlhatlha wa gago kgotsa motlamedi wa inthanete go bona thuso.</li></ul>">
 
@@ -57,7 +62,7 @@
 
 
 <!ENTITY corruptedContentError.title "Phoso ya Diteng tse di Senyegileng">
-
+<!ENTITY corruptedContentError.longDesc "<p> Tsebe e o lekang go e leba ga e kake ya bontshiwa ka gore phoso mo phetiso tshedimosetso e lemogilwe.</p><ul><li>Tswêê-tswêê i tshwaraganye le beng ba webosaete go ba itsise ka bothata jo.</li></ul>">
 
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Tswêê-tswêê itshwaraganye le beng ba webosaete go ba itsese ka bothaka jo.</li></ul></p>">
 <!-- Include app-specific error messages - do not change this in localization!
