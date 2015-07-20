@@ -20,6 +20,8 @@
 <!ENTITY importFromFirefox.label        "फ़ायरफ़ॉक्स">
 <!ENTITY importFromFirefox.accesskey    "x">
 
+
+
 <!ENTITY noMigrationSources.label       "प्रोग्राम जो पुस्तचिह्न, इतिहास या कूटशब्द आंकड़ा रखती है पायी गई.">
 
 <!ENTITY importSource.title             "सेटिंग्स और डेटा यहाँ से आयात करें">

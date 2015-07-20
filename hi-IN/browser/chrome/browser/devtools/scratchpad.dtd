@@ -65,6 +65,7 @@
 <!ENTITY largerFont.label             "बड़ा फाँट आकार">
 <!ENTITY largerFont.accesskey         "a">
 <!ENTITY largerFont.commandkey        "+">
+<!-- + is above this key on many keyboards -->
 
 <!ENTITY smallerFont.label            "छोटा फाँट आकार">
 <!ENTITY smallerFont.accesskey        "m">

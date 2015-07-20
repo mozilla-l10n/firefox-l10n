@@ -4,11 +4,22 @@
 
 <!ENTITY aboutTelemetry.pageTitle " दूरमापी आंकड़ा">
 
-<!ENTITY aboutTelemetry.telemetryEnabled " दूरमापी <span>सक्षम है </span>.">
 
-<!ENTITY aboutTelemetry.telemetryDisabled " दूरमापी <span>अक्षम है </span>.">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutTelemetry.generalDataSection "        सामान्य आंकड़ा">
+
 
 
 <!ENTITY aboutTelemetry.slowSqlSection "  धीरे sql निवेदन">

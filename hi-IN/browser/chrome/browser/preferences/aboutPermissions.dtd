@@ -42,5 +42,6 @@
 <!ENTITY popup.label                     "Open Pop-up Windows">
 
 <!ENTITY fullscreen.label                "पूर्ण स्क्रीन">
+
 <!ENTITY camera.label                    "कैमरे का उपयोग करें">
 <!ENTITY microphone.label                "माइक्रोफ़ोन का उपयोग करें">
