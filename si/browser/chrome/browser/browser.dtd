@@ -833,13 +833,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeNotificationsDontAskAgain.label       "මගෙන් යළි නොවිමසන්න (D)">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "D">
 
+<!ENTITY readingList.label                        "කියවීම් ලැයිස්තුව">
 
 
 <!-- Pre-landed string for bug 1124153 -->
 <!-- Pre-landed string for bug 1133662 -->
 
 <!-- Pre-landed strings for bug 1123519 -->
-
+<!ENTITY readingList.sidebar.add.tooltip          "මෙම පිටුව ඔබේ කියවීමේ ලැයිස්තුවට එකතු කරන්න">
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 
 
