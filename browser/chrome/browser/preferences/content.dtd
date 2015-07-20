@@ -34,6 +34,8 @@
   -  The translations for these strings should match the translations in
   -  browser/translation.dtd
   -->
+
+<!ENTITY translation.options.attribution.beforeLogo "Phetolo ka">
 <!ENTITY translation.options.attribution.afterLogo "">
 
 

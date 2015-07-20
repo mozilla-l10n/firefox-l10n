@@ -45,17 +45,20 @@
 
 
 
+<!ENTITY malwareBlocked.title "Saete ya Tlhaselo e Belaesegang!">
+
+
+<!ENTITY unwantedBlocked.longDesc "<p>Ditsebe tsa serweboleta tse di sa batliweng di leka go tsenya serweboleta se se ka nnang maretshwa le go ama thulaganyo ya gago ka tsela tsedi sa solofelwang.</p>">
+
+<!ENTITY phishingBlocked.title "Pelaelo ya Webo Togo Maaka!">
 
 
 
 
+<!ENTITY corruptedContentError.title "Phoso ya Diteng tse di Senyegileng">
 
 
-
-
-
-
-
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Tswêê-tswêê itshwaraganye le beng ba webosaete go ba itsese ka bothaka jo.</li></ul></p>">
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
      this inclusion needs to be intact for that approach to work correctly.

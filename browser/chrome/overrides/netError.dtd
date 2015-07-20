@@ -31,6 +31,7 @@
 
 
 
+<!ENTITY netReset.title "Kgolagano e rulagantswesešwa">
 
 
 <!ENTITY netTimeout.title "Kgolagano e tsene mo kgokaganyololo tlogo">
@@ -51,14 +52,17 @@
 
 
 
+<!ENTITY malwareBlocked.title "Saete ya Tlhaselo e Belaesegang!">
+
+
+<!ENTITY unwantedBlocked.longDesc "<p>Ditsebe tsa serweboleta tse di sa batliweng di leka go tsenya serweboleta se se ka nnang maretshwa le go ama thulaganyo ya gago ka tsela tsedi sa solofelwang.</p>">
+
+<!ENTITY phishingBlocked.title "Pelaelo ya Webo Togo Maaka!">
 
 
 
 
-
-
-
-
+<!ENTITY corruptedContentError.title "Phoso ya Diteng tse di Senyegileng">
 
 
 <!ENTITY securityOverride.getMeOutOfHereButton "Nkentshe fa!">
@@ -68,7 +72,7 @@ contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to firefox. -->
 
-
+<!ENTITY errorReporting.longDesc "Pego ya aterese le tshedimosetso ya setifikeiti ya <span id='hostname'></span> e tla re thusa go lemoga le go kganela disaete tse di tletseng tshenyo. Re lebogela thuso ka go tlhama webo e babalesegileng!">
 
 
 
@@ -76,7 +80,7 @@ functionality specific to firefox. -->
 
 <!ENTITY errorReporting.tryAgain "Leka gape">
 
-
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Tswêê-tswêê itshwaraganye le beng ba webosaete go ba itsese ka bothaka jo.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "Ga go kgonege go Golagana mo go Sireletsegileng">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
