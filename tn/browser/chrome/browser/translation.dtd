@@ -33,10 +33,11 @@
 <!ENTITY translation.translatedTo.label         "go ya go">
 <!ENTITY translation.translatedToSuffix.label   "">
 
-
+<!ENTITY translation.showTranslation.button     "Bontsha Thanolo">
 
 <!ENTITY translation.tryAgain.button            "Leka Gape">
 
+<!ENTITY translation.serviceUnavailable.label   "Thanolo ga e teng go ne jaana.Tswêê-tswêê leka gape moragonyana.">
 
 <!ENTITY translation.options.menu               "Diitlhophelwa">
 <!-- LOCALIZATION NOTE (translation.options.neverForSite.accesskey,
@@ -45,13 +46,13 @@
   -  translation.options.neverForLanguage.accesskey in translation.properties
   -->
 
-<!ENTITY translation.options.preferences.label  "Phetolo dikgethwa">
-<!ENTITY translation.options.preferences.accesskey "P">
+<!ENTITY translation.options.preferences.label  "Thanolo dikgethwa">
+<!ENTITY translation.options.preferences.accesskey "T">
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
   -  These 2 strings are displayed before and after a 'Microsoft Translator'
   -  logo.
   -->
 
-<!ENTITY translation.options.attribution.beforeLogo "Phetolo ka">
+<!ENTITY translation.options.attribution.beforeLogo "Dithanolo ka">
 <!ENTITY translation.options.attribution.afterLogo "">
