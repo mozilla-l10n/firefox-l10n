@@ -11,6 +11,6 @@
 
 
 <!ENTITY highlightAll.tooltiptext "Bonatsa tirafalo tsotlhe tsa seelana">
-
-
+<!ENTITY caseSensitive.label "Tekanyetso Pego ya bothata">
+<!ENTITY caseSensitive.accesskey "T">
 

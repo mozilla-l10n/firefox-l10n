@@ -11,7 +11,7 @@
 
 
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.unwantedPage.longDesc "<p>Ditsebe tsa serweboleta tse di sa batliweng di leka go tsenya serweboleta se se ka nnang maretshwa le go ama thulaganyo ya gago ka tsela tsedi sa solofelwang.</p>">
+
 
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
