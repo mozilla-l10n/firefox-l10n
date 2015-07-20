@@ -27,6 +27,8 @@
 <!-- LOCALIZATION NOTE (profilerUI.startRecording/profilerUI.stopRecording): These are
   -  the labels shown on the main recording buttons to start/stop recording. -->
 
+<!ENTITY profilerUI.startRecording "Šintin nda teeyaney jiširoo">
+<!ENTITY profilerUI.stopRecording  "Fee nda teeyaney jiširoo">
 <!-- LOCALIZATION NOTE (profilerUI.bufferStatusTooltip): This string
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
 <!-- LOCALIZATION NOTE (profilerUI.bufferStatusFull): This string
