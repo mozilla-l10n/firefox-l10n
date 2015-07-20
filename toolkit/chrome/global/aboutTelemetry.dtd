@@ -6,10 +6,15 @@
 
 <!ENTITY aboutTelemetry.changeDataChoices "  Aldatu">
 
+<!ENTITY aboutTelemetry.uploadEnabled "  FHR datuak igotzea <span>gaituta</span> dago.">
 
+<!ENTITY aboutTelemetry.uploadDisabled "  FHR datuak igotzea <span>desgaituta</span> dago.">
 
+<!ENTITY aboutTelemetry.extendedRecordingEnabled "  Telemetry-ren grabatze hedatua <span>gaituta</span> dago.">
 
+<!ENTITY aboutTelemetry.extendedRecordingDisabled "  Telemetry-ren grabatze hedatua <span>desgaituta</span> dago.">
 
+<!ENTITY aboutTelemetry.pingDataSource "Ping datu-iturria:">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "Uneko ping datuak">
 
@@ -17,14 +22,19 @@
 
 <!ENTITY aboutTelemetry.showSubsessionData "Erakutsi azpi-saioaren datuak">
 
+<!ENTITY aboutTelemetry.choosePing "Aukeratu ping-a:">
 
+<!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; Ping berriagoa">
 
 <!ENTITY aboutTelemetry.showOlderPing "Ping zaharragoa &gt;&gt;">
 
+<!ENTITY aboutTelemetry.archiveWeekHeader "Astea">
 
+<!ENTITY aboutTelemetry.archivePingHeader "Ping">
 
 <!ENTITY aboutTelemetry.generalDataSection "  Datu orokorrak">
 
+<!ENTITY aboutTelemetry.environmentDataSection "  Ingurunearen datuak">
 
 <!ENTITY aboutTelemetry.telemetryLogSection "  Telemetry erregistroa">
 
