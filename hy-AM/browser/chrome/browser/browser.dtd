@@ -305,7 +305,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "Ն">
 <!ENTITY newPrivateWindow.label     "Սկսել Գաղտնի դիտարկում">
 <!ENTITY newPrivateWindow.accesskey "Գ">
-
+<!ENTITY newNonRemoteWindow.label   "Նոր ոչ e10s պատուհան">
 
 <!ENTITY editMenu.label         "Խմբագրել"> 
 <!ENTITY editMenu.accesskey       "Խ"> 
@@ -854,6 +854,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY readingList.sidebar.add.tooltip          "Էջը ավելացել Ընթերցացուցակում">
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 
-
-
-
+<!ENTITY saveToPocketCmd.label     "Պահպանել էջը Pocket-ում">
+<!ENTITY saveToPocketCmd.accesskey "k">
+<!ENTITY saveLinkToPocketCmd.label     "Պահպանել էջը Pocket-ում">
+<!ENTITY saveLinkToPocketCmd.accesskey "P">
+<!ENTITY pocketMenuitem.label      "Դիտել Pocket-ի ցանկը">
