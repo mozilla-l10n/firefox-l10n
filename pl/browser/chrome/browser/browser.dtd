@@ -701,7 +701,7 @@ you can use these alternative items. Otherwise, their values should be empty. --
 
 <!ENTITY trackingProtection.title "Ochrona przed śledzeniem">
 <!ENTITY trackingProtection.detectedBlocked "Próby śledzenia Twojej aktywności zostały zablokowane.">
-<!ENTITY trackingProtection.detectedNotBlocked "Wykryto elementy śledzące aktywność jednak ochrona dla tej strony została wyłączona.">
+<!ENTITY trackingProtection.detectedNotBlocked "Wykryto elementy śledzące aktywność, jednak ochrona dla tej strony została wyłączona.">
 <!ENTITY trackingProtection.notDetected "Nie wykryto elementów śledzących aktywność na tej stronie.">
 <!ENTITY trackingProtection.unblock.label "Wyłącz ochronę dla tej strony">
 <!ENTITY trackingProtection.unblock.accesskey "W">
