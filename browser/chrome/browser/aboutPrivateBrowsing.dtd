@@ -17,3 +17,6 @@
 <!ENTITY trackingProtection.description "La protezione antitracciamento blocca i contenuti in grado di tracciare l’attività online dei visitatori. In questo modo l’utente non dovrà preoccuparsi che i propri dati vengano condivisi attraverso diversi siti web.">
 <!ENTITY trackingProtection.showPreferences "Impostazioni privacy">
 <!ENTITY trackingProtection.startTour "Scopri le novità">
+<!ENTITY trackingProtection.disabled "La protezione antitracciamento è stata disattivata.">
+<!ENTITY trackingProtection.enable.label "Attiva la protezione antitracciamento">
+<!ENTITY trackingProtection.enable.accesskey "A">
