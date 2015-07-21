@@ -2,95 +2,113 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY windowTitle "Firefox WebIDE">
 
+<!ENTITY projectMenu_label "Projekt">
+<!ENTITY projectMenu_accesskey "P">
+<!ENTITY projectMenu_newApp_label "Nova aplikacija...">
+<!ENTITY projectMenu_newApp_accesskey "N">
+<!ENTITY projectMenu_importPackagedApp_label "Otvori zapakovanu aplikaciju...">
+<!ENTITY projectMenu_importPackagedApp_accesskey "p">
+<!ENTITY projectMenu_importHostedApp_label "Otvori hostanu aplikaciju...">
+<!ENTITY projectMenu_importHostedApp_accesskey "h">
+<!ENTITY projectMenu_selectApp_label "Otvori aplikaciju...">
+<!ENTITY projectMenu_selectApp_accesskey "O">
+<!ENTITY projectMenu_play_label "Instaliraj i pokreni">
+<!ENTITY projectMenu_play_accesskey "I">
+<!ENTITY projectMenu_stop_label "Zaustavi aplikaciju">
+<!ENTITY projectMenu_stop_accesskey "s">
+<!ENTITY projectMenu_debug_label "Debagiraj aplikaciju">
+<!ENTITY projectMenu_debug_accesskey "D">
+<!ENTITY projectMenu_remove_label "Ukloni projekt">
+<!ENTITY projectMenu_remove_accesskey "r">
+<!ENTITY projectMenu_showPrefs_label "Postavke">
+<!ENTITY projectMenu_showPrefs_accesskey "e">
+<!ENTITY projectMenu_manageComponents_label "Upravljanje dodatnim komponentama">
+<!ENTITY projectMenu_manageComponents_accesskey "m">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY runtimeMenu_label "Runtime">
+<!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "Prekini vezu">
-
-
-
+<!ENTITY runtimeMenu_disconnect_accesskey "v">
+<!ENTITY runtimeMenu_showPermissionTable_label "Tablica permisija">
+<!ENTITY runtimeMenu_showPermissionTable_accesskey "p">
 <!ENTITY runtimeMenu_takeScreenshot_label "Screenshot">
-
-
-
-
-
-
-
-
-
+<!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
+<!ENTITY runtimeMenu_showDetails_label "Runtime informacije">
+<!ENTITY runtimeMenu_showDetails_accesskey "E">
+<!ENTITY runtimeMenu_showMonitor_label "Monitor">
+<!ENTITY runtimeMenu_showMonitor_accesskey "M">
+<!ENTITY runtimeMenu_showDevicePrefs_label "Postavke uređaja">
+<!ENTITY runtimeMenu_showDevicePrefs_accesskey "j">
+<!ENTITY runtimeMenu_showSettings_label "Postavke uređaja">
+<!ENTITY runtimeMenu_showSettings_accesskey "k">
 
 <!ENTITY viewMenu_label "Pregled">
-
-
-
+<!ENTITY viewMenu_accesskey "V">
+<!ENTITY viewMenu_toggleEditor_label "Uključi/isključi editor">
+<!ENTITY viewMenu_toggleEditor_accesskey "e">
 <!ENTITY viewMenu_zoomin_label "Uvećaj">
-
+<!ENTITY viewMenu_zoomin_accesskey "I">
 <!ENTITY viewMenu_zoomout_label "Umanji">
+<!ENTITY viewMenu_zoomout_accesskey "O">
+<!ENTITY viewMenu_resetzoom_label "Poništi uvećanje">
+<!ENTITY viewMenu_resetzoom_accesskey "u">
 
-
-
-
-
+<!ENTITY projectButton_label "Otvori aplikaciju">
+<!ENTITY runtimeButton_label "Izaberi runtime">
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
+
+<!ENTITY key_quit "W">
 <!-- open menu -->
+<!ENTITY key_showProjectPanel "O">
 <!-- reload app -->
+<!ENTITY key_play "R">
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
 <!-- toggle sidebar -->
+<!ENTITY key_toggleEditor "B">
 <!-- zoom -->
+<!ENTITY key_zoomin "+">
+<!ENTITY key_zoomin2 "=">
+<!ENTITY key_zoomout "-">
+<!ENTITY key_resetzoom "0">
 
-
-
-
-
+<!ENTITY projectPanel_myProjects "Moji projekti">
+<!ENTITY projectPanel_runtimeApps "Runtime aplikacije">
 <!ENTITY projectPanel_tabs "Tabovi">
-
-
-
-
+<!ENTITY runtimePanel_usb "USB uređaji">
+<!ENTITY runtimePanel_wifi "Wi-Fi uređaji">
+<!ENTITY runtimePanel_simulator "Simulatori">
+<!ENTITY runtimePanel_other "Ostalo">
 <!ENTITY runtimePanel_installsimulator "Instaliraj simulator">
-
-
+<!ENTITY runtimePanel_noadbhelper "Instaliraj ADB Helper">
+<!ENTITY runtimePanel_nousbdevice "Ne vidite svoj uređaj?">
 <!-- Lense -->
 
-
+<!ENTITY details_valid_header "validno">
+<!ENTITY details_warning_header "upozorenja">
+<!ENTITY details_error_header "greške">
 <!ENTITY details_description "Opis">
 <!ENTITY details_location "Lokacija">
-
-
-
+<!ENTITY details_manifestURL "ID aplikacije">
+<!ENTITY details_removeProject_button "Ukloni projekt">
+<!ENTITY details_showPrepackageLog_button "Prikaži pre-package zapisnik">
 <!-- New App -->
 
+<!ENTITY newAppWindowTitle "Nova aplikacija">
 
 
+<!ENTITY newAppProjectName "Naziv projekta:">
 <!-- Decks -->
 
 
 
 <!ENTITY deck_close "Zatvori">
 <!-- Addons -->
+
+<!ENTITY addons_title "Dodatne komponente">
 
 <!-- Prefs -->
 
