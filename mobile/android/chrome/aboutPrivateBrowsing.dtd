@@ -2,12 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                  "Privénavigatie">
+<!ENTITY privatebrowsingpage.title "Privénavigatie">
+<!ENTITY privatebrowsingpage.title.normal "U gebruikt geen privénavigatie">
 
-<!ENTITY privatebrowsingpage.issueDesc.private      "U hebt een nieuw privétabblad geopend.">
-<!ENTITY privatebrowsingpage.issueDesc.normal       "U bevindt zich niet in een privétabblad.">
+<!ENTITY privatebrowsingpage.issueDesc.normal2 "In privénavigatie worden geen navigatiegeschiedenis of cookies van u bewaard.">
+<!ENTITY privatebrowsingpage.issueDesc.private2 "Er worden geen navigatiegeschiedenis of cookies van u bewaard.">
 
-<!ENTITY privatebrowsingpage.description            "In privétabbladen zal &brandShortName; geen navigatiegeschiedenis, zoekgeschiedenis, downloadgeschiedenis, webformuliergeschiedenis, cookies of tijdelijke internetbestanden bewaren. Bestanden die u downloadt of bladwijzers die u aanmaakt blijven echter bewaard.">
-<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+<!ENTITY privatebrowsingpage.description2 "Bladwijzers die u toevoegt en bestanden die u downloadt worden wel op uw apparaat opgeslagen.">
+<!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
+<!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
 
-<!ENTITY privatebrowsingpage.moreInfo               "Hoewel dit apparaat geen navigatiegeschiedenis van u zal bewaren, kan uw internetserviceprovider toch volgen welke pagina’s u bezoekt.">
+<!ENTITY privatebrowsingpage.link.private "Wilt u meer weten?">
+<!ENTITY privatebrowsingpage.link.normal "Een nieuw privétabblad openen">
