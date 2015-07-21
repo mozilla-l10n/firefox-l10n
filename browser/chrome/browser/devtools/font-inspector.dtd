@@ -10,3 +10,7 @@
 <!ENTITY usedAs "Gebruikt als: ">
 <!ENTITY system "systeem">
 <!ENTITY remote "extern">
+
+<!-- LOCALIZATION NOTE (previewHint): This is the label shown as the
+     placeholder in font inspector preview text box. -->
+<!ENTITY previewHint "Voorbeeldtekst">
