@@ -419,6 +419,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
+<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
+   14.13 +     These are set as the aria-label attribute for the search input box and
+   14.14 +     submit button in the in-content search UI, to be used by screen readers. -->
+   14.15 +<!ENTITY contentSearchInput.label     "Recherche">
+   14.16 +<!ENTITY contentSearchSubmit.label    "Lancer la recherche">
+
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -767,13 +773,21 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY mixedContentBlocked2.disabled.message "La protection est désactivée">
 
 <!ENTITY trackingProtection.title "Protection contre le pistage">
-<!ENTITY trackingProtection.detectedBlocked "Des tentatives de pistage de votre comportement en ligne ont été bloquées.">
-<!ENTITY trackingProtection.detectedNotBlocked "Éléments de pistage détectés. Vous avez désactivé la protection sur ce site.">
-<!ENTITY trackingProtection.notDetected "Aucun élément de pistage détecté sur ce site.">
+<!ENTITY trackingProtection.detectedBlocked2 "&brandShortName; a bloqué des tentatives de pistage de votre navigation.">
+<!ENTITY trackingProtection.detectedNotBlocked2 "Ce site comporte du contenu qui piste votre navigation. Vous avez désactivé la protection.">
+<!ENTITY trackingProtection.notDetected2 "Ce site ne comporte pas de contenu qui piste votre navigation.">
+<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "Désactiver la protection pour ce site">
 <!ENTITY trackingProtection.unblock.accesskey "D">
-<!ENTITY trackingProtection.block.label "Activer la protection pour ce site">
-<!ENTITY trackingProtection.block.accesskey "A">
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate.label "Désactiver la protection pour cette session">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "D">
+<!ENTITY trackingProtection.block2.label "Activer la protection">
+<!ENTITY trackingProtection.block2.accesskey "A">
 
 <!ENTITY trackingContentBlocked.message "Pistage">
 <!ENTITY trackingContentBlocked.moreinfo "Les parties de la page qui pistent votre activité en ligne ont été bloquées.">
