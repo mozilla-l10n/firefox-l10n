@@ -12,6 +12,7 @@
 <!ENTITY debuggerUI.autoPrettyPrint "Formatta automaticamente sorgenti compresse (minified)">
 <!ENTITY debuggerUI.autoPrettyPrint.accesskey "c">
 <!ENTITY debuggerUI.sources.toggleBreakpoints "Attiva/disattiva tutti i punti di interruzione">
+<!ENTITY debuggerUI.sources.togglePromiseDebugger "Attiva/disattiva debugger promise">
 <!ENTITY debuggerUI.startTracing "Avvia tracciamento">
 <!ENTITY debuggerUI.clearButton "Cancella">
 <!ENTITY debuggerUI.clearButton.tooltip "Cancella le tracce raccolte">
