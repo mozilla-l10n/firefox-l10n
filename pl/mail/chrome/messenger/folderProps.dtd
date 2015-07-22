@@ -12,7 +12,7 @@
 <!ENTITY folderRebuildSummaryFileTip2.label    "Przebuduj indeks w pliku podsumowania">
 <!ENTITY folderRebuildSummaryFile2.label       "Napraw folder">
 <!ENTITY folderRebuildSummaryFile2.accesskey   "f">
-<!ENTITY folderRebuildSummaryFile.explanation  "W przypadku uszkodzenia indeksu folderu (w pliku podsumowania .msf), w skutek czego program może wyświetlać nieprawidłową listę wiadomości, funkcja Napraw folder może pomóc przywrócić prawidłowe działanie programu.">
+<!ENTITY folderRebuildSummaryFile.explanation  "W przypadku uszkodzenia indeksu folderu (w pliku podsumowania .msf), wskutek czego program może wyświetlać nieprawidłową listę wiadomości, funkcja Napraw folder może pomóc przywrócić prawidłowe działanie programu.">
 <!ENTITY folderIncludeInGlobalSearch.label     "Uwzględniaj wiadomości z tego folderu w wynikach globalnego wyszukiwania">
 <!ENTITY folderIncludeInGlobalSearch.accesskey "U">
 
