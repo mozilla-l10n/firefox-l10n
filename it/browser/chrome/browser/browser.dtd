@@ -93,8 +93,6 @@
 <!ENTITY fullScreenAutohide.accesskey "N">
 <!ENTITY fullScreenExit.label "Esci da schermo intero">
 <!ENTITY fullScreenExit.accesskey "E">
-<!ENTITY fullscreenAllowButton.label "Permetti">
-<!ENTITY fullscreenExitButton.label "Nega">
 <!ENTITY fullscreenExitHint2.value "Premere ESC in qualunque momento per uscire">
 <!ENTITY leaveDOMFullScreen.label "Esci da schermo intero">
 <!ENTITY leaveDOMFullScreen.accesskey "h">
