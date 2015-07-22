@@ -9,7 +9,7 @@
 <!ENTITY trackingProtection2.label "Impedisci ai siti di effettuare il tracciamento.">
 <!ENTITY trackingProtection2.accesskey "m">
 <!ENTITY trackingProtectionLearnMore.label "Ulteriori informazioni">
-<!ENTITY trackingProtectionPBM2.label "Impedisci ai siti di tracciare l’attività online degli utenti in modalità Navigazione anonima.">
+<!ENTITY trackingProtectionPBM2.label "Impedisci ai siti di effettuare il tracciamento in modalità Navigazione anonima.">
 <!ENTITY trackingProtectionPBM2.accesskey "e">
 <!ENTITY trackingProtectionPBMLearnMore.label "Ulteriori informazioni">
 <!ENTITY history.label "Cronologia">
