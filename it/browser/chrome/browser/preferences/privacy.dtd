@@ -10,7 +10,7 @@
 <!ENTITY trackingProtection2.accesskey "m">
 <!ENTITY trackingProtectionLearnMore.label "Ulteriori informazioni">
 <!ENTITY trackingProtectionPBM2.label "Impedisci ai siti di tracciare l’attività online degli utenti in modalità Navigazione anonima.">
-<!ENTITY trackingProtectionPBM2.accesskey "f">
+<!ENTITY trackingProtectionPBM2.accesskey "e">
 <!ENTITY trackingProtectionPBMLearnMore.label "Ulteriori informazioni">
 <!ENTITY history.label "Cronologia">
 <!ENTITY locationBar.label "Barra degli indirizzi">
@@ -36,7 +36,7 @@
 <!ENTITY close.label "alla chiusura di &brandShortName;">
 <!ENTITY askEachTime.label "chiedi ogni volta">
 <!ENTITY cookieExceptions.label "Eccezioni…">
-<!ENTITY cookieExceptions.accesskey "E">
+<!ENTITY cookieExceptions.accesskey "z">
 <!ENTITY showCookies.label "Mostra i cookie…">
 <!ENTITY showCookies.accesskey "r">
 <!ENTITY historyHeader.pre.label "Impostazioni cronologia:">
