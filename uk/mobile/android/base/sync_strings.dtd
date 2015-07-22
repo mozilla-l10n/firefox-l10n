@@ -42,7 +42,7 @@
 <!ENTITY sync.button.manual.label 'Налаштувати вручну'>
 <!ENTITY sync.subtitle.nointernet.label 'З’єднання з інтернетом відсутнє.'>
 <!ENTITY sync.subtitle.failaccount.label 'Створити акаунт на пристрої не вдалось.'>
-<!ENTITY sync.subtitle.failmultiple.label 'У вас встановлено кілька Firefox’ів? Наразі &syncBrand.fullName.label; підтримує лише одну інсталяцію Firefox. Вилучте інші щоб використовувати &syncBrand.shortName.label;.'>
+<!ENTITY sync.subtitle.failmultiple.label 'У вас встановлено більше одного Firefox? В даний момент &syncBrand.fullName.label; підтримує роботу лише з одним встановленням Firefox. Для використання Синхронізації, вилучіть інші встановлення.'>
 
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Налаштування завершено'>
