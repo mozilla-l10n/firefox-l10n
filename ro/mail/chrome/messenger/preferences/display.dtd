@@ -43,8 +43,8 @@
 <!ENTITY defaultSize.accesskey   "M">
 <!ENTITY fontOptions.accesskey   "F">
 <!ENTITY fontOptions.label       "Fonturi…">
-<!ENTITY colorButton.label       "Culori...">
-<!ENTITY colorButton.accesskey   "l">
+<!ENTITY colorButton.label       "Culori…">
+<!ENTITY colorButton.accesskey   "C">
 <!-- Advanced -->
 
 <!ENTITY reading.caption                  "Citire">

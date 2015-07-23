@@ -97,7 +97,7 @@
      text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Serverul dumneavoastră de trimitere (SMTP), „">
-<!ENTITY haveSmtp3.suffix3 "”, este identic cu serverul dumneavoastră de primire, numele dumneavoastră de utilizator pentru primire va fi folosit pentru al accesa.">
+<!ENTITY haveSmtp3.suffix3 "”, este identic cu serverul dumneavoastră de primire, numele dumneavoastră de utilizator pentru primire va fi folosit pentru a-l accesa.">
 <!-- Entities for Account name page -->
 
 

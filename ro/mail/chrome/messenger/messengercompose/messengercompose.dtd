@@ -54,7 +54,7 @@
 <!ENTITY printSetupCmd.accesskey "j">
 <!ENTITY printPreviewCmd.label "Previzualizează tipărirea">
 <!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printCmd.label "Tipărește...">
+<!ENTITY printCmd.label "Tipărește…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "p">
 <!-- Edit Menu -->

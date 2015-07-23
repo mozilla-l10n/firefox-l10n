@@ -36,7 +36,7 @@
 <!ENTITY useMasterPassword.label        "Folosește o parolă generală">
 <!ENTITY useMasterPassword.accesskey    "F">
 <!ENTITY masterPassword.intro           "O parolă generală protejează toate parolele dumneavoastră, dar trebuie să o introduceți o dată per sesiune.">
-<!ENTITY changeMasterPassword.label     "Schimbă parola generală...">
+<!ENTITY changeMasterPassword.label     "Schimbă parola generală…">
 <!ENTITY changeMasterPassword.accesskey "c">
 <!ENTITY savedPasswords.label           "Parole salvate…">
 <!ENTITY savedPasswords.accesskey       "s">
