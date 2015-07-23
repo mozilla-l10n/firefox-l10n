@@ -4,14 +4,14 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "नया टैब">
-
+<!ENTITY newtab.customize.classic "अपनी शीर्ष साइट दिखाएँ">
 
 
 
 <!ENTITY newtab.customize.title "अपने नये पन्ने को रूचि अनुसार बनाएँ">
 
-
-
+<!ENTITY newtab.customize.topsites "अपनी शीर्ष साइट दिखाएँ">
+<!ENTITY newtab.customize.blank2 "खाली पृष्ठ दिखाएँ">
 <!ENTITY newtab.undo.removedLabel "थंबनेल हटाया.">
 <!ENTITY newtab.undo.undoButton "पहले जैसा.">
 <!ENTITY newtab.undo.restoreButton "सभी बहाल करें.">

@@ -46,7 +46,7 @@
 <!ENTITY  font.langGroup.gurmukhi                 "गुरूमुखी">
 <!ENTITY  font.langGroup.khmer                    "ख्मेर">
 <!ENTITY  font.langGroup.malayalam                "मलयालम">
-
+<!ENTITY  font.langGroup.math                     "गणित">
 <!ENTITY  font.langGroup.oriya                    "उड़िया">
 <!ENTITY  font.langGroup.telugu                   "तेलुगु">
 <!ENTITY  font.langGroup.kannada                  "कन्नड़">
@@ -64,9 +64,10 @@
 <!ENTITY  allowPagesToUse.label                   "पृष्ठ को उनका अपना फ़ॉन्ट चुनने के लिए स्वीकारें, हमारे चयन के बजाए">
 <!ENTITY  allowPagesToUse.accesskey               "A">
 
+<!ENTITY languages.customize.Fallback2.grouplabel "पुरातन अंतर्वस्तु के लिए पाठ कूटलेखन">
 <!ENTITY languages.customize.Fallback2.label      "फालबैक पाठ एनकोडिंग:">
 <!ENTITY languages.customize.Fallback2.accesskey  "प">
-
+<!ENTITY languages.customize.Fallback2.desc       "यह पाठ कूटलेखन प्रयोग करते हैं पुरातन अंतर्वस्तु के लिए जो की अपने कूटलेख को घोषित करने में विफल रहते हैं.">
 
 <!ENTITY languages.customize.Fallback.auto        "वर्तमान लोकेल के लिए तयशुदा">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):

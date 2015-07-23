@@ -13,7 +13,7 @@
 
 
 
-<!ENTITY timelineUI.recordButton.tooltip "टाइमलाइन संक्रिया रिकार्ड करें">
+<!ENTITY timelineUI.recordButton.tooltip "अभिलेख समय ऑपरेशन">
 <!-- LOCALIZATION NOTE (timelineUI.recordLabel): This string is displayed
   -  as a label to signal that a recording is in progress. -->
 
@@ -22,7 +22,7 @@
   -  is displayed next to a checkbox determining whether or not memory
   -  measurements are enabled. -->
 
-<!ENTITY timelineUI.memoryCheckbox.label "मेमोरी">
+<!ENTITY timelineUI.memoryCheckbox.label "स्मृति">
 <!-- LOCALIZATION NOTE (timelineUI.memoryCheckbox.tooltip): This string
   -  is displayed next to the memory checkbox -->
 

@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY index.title "अनुप्रयोग प्रबंधक">
-<!ENTITY index.projects2 "अनुप्रयोग">
-<!ENTITY index.device2 "युक्ति">
+<!ENTITY index.projects2 "एप्प्स">
+<!ENTITY index.device2 "यंत्र">
 <!ENTITY index.help "सहायता">
 
 <!ENTITY device.debugMainProcess "मुख्य प्रक्रिया डिबग करें">
@@ -35,7 +35,7 @@
 <!ENTITY device.permissionsTooltip "अनुप्रयोग के विभिन्न प्रकारों के लिए सुलभ अनुमतियों की एक तालिका देखें">
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
 <!ENTITY device.browserTabs "ब्राउजर टैब">
-<!ENTITY device.browserTabsTooltip "कनेक्टेड डिवाइस के ब्राउज़र में टैब की सूची दिखाएँ">
+<!ENTITY device.browserTabsTooltip "कनेक्टेड डिवाइस के ब्राउज़र में टैब की सूची देखें">
 <!ENTITY device.debugBrowserTab "दोषसुधार">
 <!ENTITY device.debugBrowserTabTooltip "युक्ति पर इस अनुप्रयोग से जुड़े डेवलपर उपकरण को खोलें.">
 <!ENTITY device.help "मदद">
@@ -83,18 +83,18 @@
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "कोई परियोजनाओं नहीं. नीचे एक नए पैकेजयुक्त अनुप्रयोग (स्थानीय निर्देशिका) या एक होस्ट अनुप्रयोग (एक प्रकट फ़ाइल को लिंक करने के लिए) जोड़ें.">
 <!ENTITY projects.manifestEditor "मेनिफेस्ट संपादक">
-<!ENTITY projects.manifestEditorTooltip "नीचे पैनल में अपने एप्प्स मैनिफ़ेस्टके संपादित करें. अद्यतन बटन अपने परिवर्तनों को सहेजने और एप्प्स अद्यतन करेगा.">
+<!ENTITY projects.manifestEditorTooltip "नीचे पैनल में अपने अनुप्रयोग के प्रकट संपादित करें. अद्यतन बटन अपने परिवर्तनों को सहेजने और app अद्यतन करेगा.">
 <!ENTITY projects.manifestViewer "मेनिफेस्ट दर्शक">
 <!ENTITY projects.manifestViewerTooltip "नीचे पैनल में एप्प मेनिफेस्ट परीक्षित करें">
 <!ENTITY projects.valid "वैध">
 <!ENTITY projects.error "त्रुटि">
 <!ENTITY projects.warning "चेतावनी">
-<!ENTITY projects.hosted "होस्ट">
+<!ENTITY projects.hosted "मेजबानी">
 <!ENTITY projects.packaged "पैकेज">
 
 <!ENTITY help.title "अनुप्रयोग प्रबंधक">
 <!ENTITY help.close "बंद करें">
-<!ENTITY help.intro "यह उपकरण आपको संगत उपकरणों (यानी फ़ायरफ़ॉक्स ओएस) पर वेब एप्प का निर्माण और स्थापित करने में मदद मिलेगी. <strong>अनुप्रयोग</strong> टैब अपने अनुप्रयोग के सत्यापन और स्थापना की प्रक्रिया में मदद करेंगे. <strong>युक्ति</strong> टैब आप जुड़े डिवाइस के बारे में जानकारी देंगे. <strong>डिवाइस</strong>से कनेक्ट या सिम्युलेटर शुरू करने के लिए नीचे उपकरण पट्टी का उपयोग करें.">
+<!ENTITY help.intro "यह उपकरण आपका वेब ऍप्स का निर्माण एवं संस्थापन करने में सहायता करेगा संगत यंत्रों पर(यानी फ़ायरफ़ॉक्स ओएस). यह <strong>ऍप्स</strong> टैब आपकी आपके एप्प के सत्यापन एवं संस्थापन प्रक्रिया में सहायता करेगी. यह <strong>यंत्र</strong> टैब आपको जुड़े हुए यंत्रों के विषय में सूचना प्रदान करेगी. प्रयोग करें तल औजार पट्टी जोड़ने के लिए यंत्र अथवा अनुकारी प्रारंभ करने के लिए.">
 <!ENTITY help.usefullLinks "उपयोगी कड़ियाँ:">
 <!ENTITY help.appMgrDoc "दस्तावेजीकरण: अनुप्रयोग प्रबंधक का उपयोग करके">
 <!ENTITY help.configuringDevice "अपने फ़ायरफ़ॉक्स ओएस युक्ति स्थापित कैसे करेगें।">

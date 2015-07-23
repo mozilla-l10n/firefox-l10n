@@ -71,7 +71,7 @@
 
 <!ENTITY profilerUI.table.totalPercentage          "कुल लागत">
 
-<!ENTITY profilerUI.table.selfPercentage           "स्व लागत">
+<!ENTITY profilerUI.table.selfPercentage           "स्वयं लागत">
 
 <!ENTITY profilerUI.table.samples                  "नमूना">
 
@@ -94,7 +94,7 @@
 <!-- LOCALIZATION NOTE (profilerUI.invertTree): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's call tree. -->
 
-<!ENTITY profilerUI.invertTree             "कॉल ट्री उलटें">
+<!ENTITY profilerUI.invertTree             "उलटें कॉल शाखा">
 <!ENTITY profilerUI.invertTree.tooltiptext "कॉल ट्री का उलटना प्रोफाइल्ड कॉल पथ को युवतर फ्रेम से आरंभ करना है और उसे पुराने फ्रेम तक ले जाना है.">
 <!-- LOCALIZATION NOTE (profilerUI.invertFlameGraph): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
