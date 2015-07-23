@@ -49,7 +49,7 @@
 <!ENTITY stopButton.tooltip           "Interromper o carregamento">
 <!ENTITY searchButton.label           "Pesquisar">
 <!ENTITY searchButton.tooltip         "Digite uma palavra e clique aqui para pesquisar">
-<!ENTITY goButton.label               "  Ir  ">
+<!ENTITY goButton.label               "Ir">
 <!ENTITY goButton.tooltip             "Arraste um link para cá ou digite um endereço e clique">
 <!ENTITY printButton.label            "Imprimir">
 <!ENTITY printButton.tooltip          "Imprimir a página">
