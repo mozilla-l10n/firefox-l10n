@@ -7,7 +7,7 @@
 <!ENTITY  error_loading_file "&brandShortName; চালাতে প্রয়োজনীয় ফাইল লোড করার সময় ত্রুটি ঘটেছে">
 
 <!ENTITY  onboard_start_message3 "&brandShortName;-এর সাথে ব্রাউজ করুন">
-
+<!ENTITY  onboard_start_subtext3 "ওয়েব ব্রাউজিং করার অভিজ্ঞতা যথাযথ ভাবে আপনার নিজের মত করে করুন।">
 
 <!ENTITY  onboard_start_button_browser "ব্রাউজিং শুরু করুন">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -151,7 +151,7 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "পরামর্শ: যেকোনো ওয়েবসাইটকে আপনার অনুসন্ধান প্রদানকারীদের তালিকায় যুক্ত করতে সেই ওয়েবসাইটের অনুসন্ধানক্ষেত্রে কিছুক্ষন চেপে রেখে &formatI; আইকনে ক্লিক করুন।">
 <!ENTITY pref_category_devtools "ডেভলপার টুলসমূহ">
-
+<!ENTITY pref_developer_remotedebugging "রিমোট ডিবাগিং">
 <!ENTITY pref_category_logins "লগইন">
 
 
