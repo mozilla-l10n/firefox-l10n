@@ -193,7 +193,7 @@
 <!ENTITY pref_tracking_protection_title "Protecție de urmărire">
 <!ENTITY pref_tracking_protection_summary "&brandShortName; va împiedica saiturile să te urmărească">
 <!ENTITY pref_donottrack_title "Nu mă urmări">
-<!ENTITY pref_donottrack_summary "&brandShortName; va spune saiturilor că nu dorești să fi urmărit">
+<!ENTITY pref_donottrack_summary "&brandShortName; va spune saiturilor că nu dorești să fii urmărit">
 
 <!ENTITY tab_queue_toast_action "Deschide acum">
 <!ENTITY tab_queue_prompt_title "Deschizi multiple legături?">
