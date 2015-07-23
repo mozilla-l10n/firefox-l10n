@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label "तुल्यकालित करने के लिए क्या">
 <!ENTITY sync.configure.engines.sync.my.title.label "अपना समन्वयन करें...">
 <!ENTITY sync.configure.engines.title.bookmarks "पुस्तचिह्न">
-
+<!ENTITY sync.configure.engines.title.passwords2 "लॉगिन">
 <!ENTITY sync.configure.engines.title.history "इतिहास">
 <!ENTITY sync.configure.engines.title.tabs "टैब">
 <!-- Common text -->
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "गोपनीयता नीति">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label; में आपका स्वागत है">
-
+<!ENTITY fxaccount_getting_started_description2 "टैब, पुस्तचिह्न, लॉगिन आदि सिंक करने के लिए साइन इन करें.">
 <!ENTITY fxaccount_getting_started_get_started "आरंभ करें">
 <!ENTITY fxaccount_getting_started_old_firefox "&syncBrand.shortName.label; के पुराना संस्करण का उपयोग कर रहे हैं?">
 <!-- Localization note: the Firefox below should not change with the
@@ -212,7 +212,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating "अपने नए फ़ायरफ़ॉक्स खाता में साइन इन करने के लिए टैप करें.">
 <!ENTITY fxaccount_status_bookmarks "पुस्तचिह्न">
 <!ENTITY fxaccount_status_history "इतिहास">
-
+<!ENTITY fxaccount_status_passwords2 "लॉगिन">
 <!ENTITY fxaccount_status_tabs "टैब खोलें">
 <!ENTITY fxaccount_status_legal "कानूनी" >
 <!-- Localization note: when tapped, the following two strings link to

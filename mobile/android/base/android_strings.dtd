@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  no_space_to_start_error "&brandShortName; शुरू करने के लिए पर्याप्त स्थान उपलब्ध नहीं है.">
+<!ENTITY  no_space_to_start_error "&brandShortName;शुरू करने के लिए पर्याप्त स्थान उपलब्ध नहीं है.">
 <!ENTITY  error_loading_file "&brandShortName; को चालू करने के लिए फाइल को लोड करने की कोशिश करने के दौरान त्रुटि हुई;">
 
 <!ENTITY  onboard_start_message3 "&brandShortName; के साथ ब्राउज करें">
@@ -16,7 +16,7 @@
 <!ENTITY  bookmarks_title "पुस्तचिह्न">
 <!ENTITY  history_title "इतिहास">
 <!ENTITY  reading_list_title "पाठ सूची">
-<!ENTITY  recent_tabs_title "हाल ही की  टैब">
+<!ENTITY  recent_tabs_title "हाल ही की टैब">
 
 <!ENTITY  switch_to_tab "टैब पर जाएँ">
 
@@ -54,8 +54,8 @@
 
 <!ENTITY history_today_section "आज">
 <!ENTITY history_yesterday_section "कल">
-<!ENTITY history_week_section2 "पिछले सप्ताह ">
-<!ENTITY history_older_section2 "पिछले माह  ">
+<!ENTITY history_week_section2 "पिछला सप्ताह">
+<!ENTITY history_older_section2 "पिछला माह">
 
 <!ENTITY go "जाएँ">
 <!ENTITY search "खोजें">
@@ -73,7 +73,7 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; टैब">
 <!ENTITY new_tab_opened "नया टैब खुला">
-<!ENTITY new_private_tab_opened "नयी निजी टैब खुल गयी ">
+<!ENTITY new_private_tab_opened "नयी निजी टैब खुल गयी">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
@@ -85,7 +85,7 @@
 <!ENTITY pref_category_advanced "उन्नत">
 <!ENTITY pref_category_customize "मनपसंद बनाएँ">
 <!ENTITY pref_category_customize_summary "मुखपृष्ठ, खोज, टैब, आयात">
-<!ENTITY pref_category_customize_alt_summary "होम, खोज, टैब, बाद में खोलें, आयात ">
+<!ENTITY pref_category_customize_alt_summary "होम, खोज, टैब, बाद में खोलें, आयात">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -97,7 +97,7 @@
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
 
-<!ENTITY locale_system_default "सिस्टम डिफ़ॉल्ट ">
+<!ENTITY locale_system_default "सिस्टम डिफ़ॉल्ट">
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
@@ -252,9 +252,9 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "हमेशा जूम सक्षम करें">
 <!ENTITY pref_zoom_force_enabled_summary "बल ओवरराइड हैं, ताकि आप किसी भी पृष्ठ ज़ूम कर सकते हैं ">
 <!ENTITY pref_voice_input "ध्वनि का इनपुट">
-
-
-
+<!ENTITY pref_voice_input_summary "शीर्षक पट्टी में आवाज श्रुतलेख की अनुमति दें">
+<!ENTITY pref_qrcode_enabled "क्यूआर कोड रीडर">
+<!ENTITY pref_qrcode_enabled_summary "शीर्षक पट्टी में क्यूआर स्कैनर की अनुमति दें">
 
 <!ENTITY pref_use_master_password "प्रधान कूटशब्द का उपयोग करें">
 <!ENTITY pref_sync "सिंक">
@@ -266,7 +266,7 @@ size. -->
 <!ENTITY pref_private_data_searchHistory "खोज इतिहास">
 <!ENTITY pref_private_data_formdata2 "फॉर्म इतिहास">
 <!ENTITY pref_private_data_cookies2 "कुकीज़ व सक्रिय लॉगिन">
-
+<!ENTITY pref_private_data_passwords2 "लॉगिन सहेजें">
 <!ENTITY pref_private_data_cache "कैशे">
 <!ENTITY pref_private_data_offlineApps "ऑफ़लाइन वेबसाइट आँकड़ा">
 <!ENTITY pref_private_data_siteSettings2 "साइट सेटिंग">
@@ -391,11 +391,11 @@ size. -->
 <!ENTITY doorhanger_login_edit_password_hint "कूटशब्द">
 <!ENTITY doorhanger_login_edit_toggle "कूटशब्द दिखाएँ">
 <!ENTITY doorhanger_login_edit_toast_error "लॉगिन सहेजने में विफल">
-
-
-
-
-
+<!ENTITY doorhanger_login_select_message "&formatS; से पासवर्ड कॉपी करें?">
+<!ENTITY doorhanger_login_select_toast_copy "क्लिपबोर्ड में पासवर्ड कॉपी किया गया">
+<!ENTITY doorhanger_login_select_toast_copy_error "पासवर्ड कॉपी नहीं किया जा सका">
+<!ENTITY doorhanger_login_select_action_text "दूसरा लॉगिन चयन करें">
+<!ENTITY doorhanger_login_select_title "से पासवर्ड कॉपी करें">
 
 <!ENTITY pref_titlebar_mode "शीर्षक पट्टी">
 <!ENTITY pref_titlebar_mode_title "पृष्ठ शीर्षक दिखाएँ">
@@ -407,7 +407,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "पृष्ठ नीचे स्क्रॉल करते समय &brandShortName; को छिपाएँ">
 
 <!ENTITY pref_tab_queue_title2 "अनेक लिंक खोलें">
-
+<!ENTITY pref_tab_queue_summary3 "उन्हें सहेजें जबतक आप अगली बार &brandShortName; खोलते">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -427,6 +427,8 @@ size. -->
 <!ENTITY site_settings_no_settings  "सफ़ाई के लिए कोई सेटिंग नहीं.">
 <!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
      as possible. -->
+
+<!ENTITY reading_list_added2 "सूची में जोड़ा गया">
 <!ENTITY reading_list_removed "पाठ सूची से पृष्ठ हटाया">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -613,7 +615,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "जारी रखें">
 <!ENTITY guest_session_dialog_cancel "रद्द करें">
 <!ENTITY new_guest_session_title "&brandShortName; अब पुनः आरंभ होगा">
-
+<!ENTITY new_guest_session_text2 "व्यक्ति जो इसे उपयोग कर रहा है आपके किसी भी व्यक्तिगत ब्राउज़िंग डेटा को देखने में सक्षम नहीं होगा(जैसे सहेजे कूटशब्द, इतिहास या पुस्तचिह्न).\n\nअतिथि के जाने के बाद, उनके ब्राउज़िंग आँकड़े भी मिट जाएँगे और आपका सत्र पहले जैसा हो जायेगा.">
 <!ENTITY guest_browsing_notification_title "अतिथि ब्राउज़िंग सक्षम किया गया है">
 <!ENTITY guest_browsing_notification_text "बाहर निकलने के लिए टैप करें">
 
@@ -663,3 +665,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY find_matchcase "आ">
 
+<!ENTITY intent_uri_cannot_open "लिंक नहीं खोल सकते">
