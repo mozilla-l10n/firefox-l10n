@@ -19,7 +19,7 @@
   -  in the network table when empty to start logging network requests. -->
 
 <!ENTITY netmonitorUI.reloadNotice1       "• किसी आग्रह का पालन करें या">
-<!ENTITY netmonitorUI.reloadNotice2       "फिर लोड करें ">
+<!ENTITY netmonitorUI.reloadNotice2       "फिर लोड करें">
 <!ENTITY netmonitorUI.reloadNotice3       "संजाल गतिविधि के बारे में विस्तृत सूचना देखने के लिए पृष्ठ.">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status2): This is the label displayed
   -  in the network table toolbar, above the "status" column. -->
@@ -306,7 +306,7 @@
   -  on the button in the headers tab that toggle view for raw request/response headers
      from the currently displayed request -->
 
-<!ENTITY netmonitorUI.summary.rawHeaders "रॉ शीर्षिका">
+<!ENTITY netmonitorUI.summary.rawHeaders "कच्चा शीर्षिका">
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.rawHeaders.requestHeaders): This is the label displayed
   -  in the network details headers tab identifying the raw request headers textarea -->
 

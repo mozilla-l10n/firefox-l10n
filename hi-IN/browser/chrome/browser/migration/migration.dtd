@@ -19,8 +19,8 @@
 <!ENTITY importFromChrome.accesskey     "C">
 <!ENTITY importFromFirefox.label        "फ़ायरफ़ॉक्स">
 <!ENTITY importFromFirefox.accesskey    "x">
-
-
+<!ENTITY importFrom360se.label          "360 सुरक्षित ब्राउज़र">
+<!ENTITY importFrom360se.accesskey      "3">
 
 <!ENTITY noMigrationSources.label       "प्रोग्राम जो पुस्तचिह्न, इतिहास या कूटशब्द आंकड़ा रखती है पायी गई.">
 

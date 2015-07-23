@@ -13,7 +13,7 @@
 
 
 
-<!ENTITY canvasDebuggerUI.reloadNotice1   "फिर लोड करें ">
+<!ENTITY canvasDebuggerUI.reloadNotice1   "फिर लोड करें">
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.reloadNotice2): This is the label shown
   -  along with the button that triggers a page refresh. -->
 
@@ -25,6 +25,8 @@
 <!ENTITY canvasDebuggerUI.emptyNotice2    "चल-छवि फ्रेम कॉल-स्टैक रिकार्ड करने के लिए बटन.">
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.waitingNotice): This is the label shown
   -  in the call list view while recording a snapshot. -->
+
+<!ENTITY canvasDebuggerUI.waitingNotice   "एनीमेशन चक्र की रिकॉर्डिंग चल रही हैं...">
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.recordSnapshot): This string is displayed
   -  on a button that starts a new snapshot. -->
 
