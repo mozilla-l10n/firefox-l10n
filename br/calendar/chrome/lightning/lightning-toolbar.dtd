@@ -6,10 +6,15 @@
 
 
 <!ENTITY lightning.toolbar.sync.label "Goubredañ">
+
 <!ENTITY lightning.toolbar.delete.label "Dilemel">
+
 <!ENTITY lightning.toolbar.edit.label "Embann">
-<!ENTITY lightning.toolbar.gototoday.label "Mont d'an deiz a hiziv">
+
+
+
 <!ENTITY lightning.toolbar.print.label "Moullañ">
+
 <!-- Mode Toolbar -->
 
 <!ENTITY lightning.toolbar.calendar.label     "Deiziataer">
@@ -21,7 +26,9 @@
 <!-- Toolbar write button -->
 
 <!ENTITY lightning.toolbar.newevent.label     "Degouezh">
+<!ENTITY lightning.toolbar.newevent.tooltip   "Krouiñ un degouezh nevez">
 <!ENTITY lightning.toolbar.newtask.label      "Trevell">
+<!ENTITY lightning.toolbar.newtask.tooltip    "Krouiñ un drevell nevez">
 <!-- Calendar and Task Mode Toolbar -->
 
 
