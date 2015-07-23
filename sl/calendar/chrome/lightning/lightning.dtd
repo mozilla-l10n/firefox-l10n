@@ -78,10 +78,10 @@
 <!ENTITY lightning.acctCentral.newCalendar.label "Ustvari nov koledar">
 <!-- today-pane-specific -->
 
-<!ENTITY todaypane.showMinimonth.label "Prikaži mini-mesec">
+<!ENTITY todaypane.showMinimonth.label "Prikaži mini mesec">
 <!ENTITY todaypane.showMinimonth.accesskey "e">
-<!ENTITY todaypane.showMiniday.label "Prikaži mini-dan">
-<!ENTITY todaypane.showMiniday.accesskey  "d">
+<!ENTITY todaypane.showMiniday.label "Prikaži mini dan">
+<!ENTITY todaypane.showMiniday.accesskey  "a">
 <!ENTITY todaypane.showNone.label "Ne prikaži ničesar">
 <!ENTITY todaypane.showNone.accesskey "N">
 <!ENTITY todaypane.showTodayPane.label "Prikaži današnji dan">
