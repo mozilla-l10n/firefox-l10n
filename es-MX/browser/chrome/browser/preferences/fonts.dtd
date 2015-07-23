@@ -66,7 +66,7 @@
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Codificación de caracteres para contenido heredado">
 <!ENTITY languages.customize.Fallback2.label      "Codificación de texto predeterminado:">
-<!ENTITY languages.customize.Fallback2.accesskey  "T">
+<!ENTITY languages.customize.Fallback2.accesskey  "t">
 <!ENTITY languages.customize.Fallback2.desc       "Esta codificación de texto se usa para contenido antiguo que no declara su codificación.">
 
 <!ENTITY languages.customize.Fallback.auto        "Predeterminado para idioma actual">

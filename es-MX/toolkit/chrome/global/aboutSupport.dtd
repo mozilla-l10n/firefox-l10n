@@ -100,4 +100,4 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.sandboxTitle "Arenero">
 
 <!ENTITY aboutSupport.safeModeTitle "Probar modo seguro">
-<!ENTITY aboutSupport.restartInSafeMode.label "Reiniciar con los complementos deshabilitados...">
+<!ENTITY aboutSupport.restartInSafeMode.label "Reiniciar con los complementos deshabilitados…">
