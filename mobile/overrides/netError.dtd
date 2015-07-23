@@ -45,14 +45,15 @@
 <!ENTITY malformedURI.title "पत्ता वैध नाही">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY malformedURI.longDesc2 "<ul>  
-<li>वेब-पत्ता सहसा असा लिहिला जातो  
-<strong>http://www.example.com/</strong></li>  
-<div id='searchbox'> 
-<input id='searchtext' type='search'></input>  
-<button id='searchbutton'>शोधा</button> 
-</div> 
-<li>आपण अग्रेषित स्लॅशच वापरता आहात ना ( जसे की <strong>/ </strong>)  हे तपासून पहा.</li> 
+<!ENTITY malformedURI.longDesc2 "<ul> 
+<li>वेब-पत्ता सहसा असा लिहिला जातो 
+<strong>http://www.example.com/</strong></li> 
+<div id='searchbox'> 
+<input id='searchtext' type='search'></input> 
+<button id='searchbutton'>शोधा</button> 
+</div> 
+<li>आपण अग्रेषित स्लॅश वापरत असल्याची खात्री करा ( जसे 
+ <strong>/ </strong>).</li> 
 </ul>">
 
 <!ENTITY netInterrupt.title "जोडणीमध्ये व्यत्यय आला">
@@ -137,9 +138,11 @@
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
-<!ENTITY sharedLongDesc3 "<ul> 
-<li>हे संकेतस्थळ तात्पुरते उपलब्ध नाही किंवा खूपच व्यस्त आहे. काही क्षणानंतर पुन्हा प्रयत्न करा.</li> 
-<li>जर आपण कुठलेही पान उघडू शकत नसाल, तर आपल्या मोबाईलची डेटा किंवा वाय-फाय जोडणी तपासा.</li> 
+<!ENTITY sharedLongDesc3 "<ul> 
+<li>हे संकेतस्थळ तात्पुरते उपलब्ध नाही किंवा खुपच व्यस्त आहे. काही क्षणानंतर, पुनःप्रयत्न करा.</li> 
+<li>जर आपण कुठलेही पान उघडू शकत नसाल, तर आपल्या भ्रमणध्वनीचे माहिती किंवा वाय-फाय जोडणी तपासा. 
+ <button id='wifi'>वाय-फाय सक्रीय करा</button> 
+</li> 
 </ul>">
 
 <!ENTITY cspBlocked.title "मजकूर सुरक्षा धोरणामुळे रोखले गेले">

@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label "कशाचे ताळमेळ करायचे">
 <!ENTITY sync.configure.engines.sync.my.title.label "ताळमेळ करा तुमचे…">
 <!ENTITY sync.configure.engines.title.bookmarks "वाचनखूणा">
-<!ENTITY sync.configure.engines.title.passwords "पासवर्डस्">
+
 <!ENTITY sync.configure.engines.title.history "इतिहास">
 <!ENTITY sync.configure.engines.title.tabs "टॅब्स">
 <!-- Common text -->
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "गोपनीयता धोरण">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label;ला जोडा">
-<!ENTITY fxaccount_getting_started_description "तुमच्या टॅब्स, वाचनखूणा, पासवर्डस् आणि बरंच यांच्या ताळमेळीसाठी साइन इन करा.">
+
 <!ENTITY fxaccount_getting_started_get_started "सुरु करा">
 <!ENTITY fxaccount_getting_started_old_firefox "&syncBrand.shortName.label; ची जुनी आवृत्ती वापरताय?">
 <!-- Localization note: the Firefox below should not change with the
@@ -212,7 +212,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating "आपल्या नवीन Firefox खात्यात साइन इन करण्यासाठी टॅप करा.">
 <!ENTITY fxaccount_status_bookmarks "वाचनखूणा">
 <!ENTITY fxaccount_status_history "इतिहास">
-<!ENTITY fxaccount_status_passwords "पासवर्डस्">
+
 <!ENTITY fxaccount_status_tabs "टॅब्स उघडा">
 <!ENTITY fxaccount_status_legal "कायदेविषयक" >
 <!-- Localization note: when tapped, the following two strings link to
