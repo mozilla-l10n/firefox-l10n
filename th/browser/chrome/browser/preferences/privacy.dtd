@@ -22,8 +22,8 @@
 <!ENTITY  locbar.bookmarks.accesskey    "ค">
 <!ENTITY  locbar.openpage.label         "เปิดแท็บ">
 <!ENTITY  locbar.openpage.accesskey     "เ">
-
-
+<!ENTITY  locbar.searches.label         "การค้นหาที่เกี่ยวข้องจากเครื่องมือค้นหาปริยาย">
+<!ENTITY  locbar.searches.accesskey     "ห">
 
 <!ENTITY  acceptCookies.label           "รับคุกกี้จากเว็บไซต์">
 <!ENTITY  acceptCookies.accesskey       "ร">
