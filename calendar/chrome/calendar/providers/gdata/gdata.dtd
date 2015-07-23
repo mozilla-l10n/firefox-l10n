@@ -13,7 +13,7 @@
 <!ENTITY gdata.migration.upgrade.accesskey "A">
 <!ENTITY gdata.migration.showagain.label "Verificar sempre ">
 
-<!ENTITY gdata.reminder.default "Lembrete pré-definido">
+<!ENTITY gdata.reminder.default "Lembrete predefinido">
 <!ENTITY gdata.reminder.action.sms.label "Enviar mensagem de texto">
 
 <!ENTITY gdata.wizard.session.description "Por favor escolha uma sessão existente ou escreva o seu endereço de e-mail para criar uma. Apenas precisa de uma sessão por conta.">

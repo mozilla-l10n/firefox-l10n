@@ -17,11 +17,11 @@
 <!ENTITY pref.timezones.label "Selecione a cidade mais próxima do seu fuso horário:">
 <!ENTITY pref.timezones.accesskey "S">
 
-<!ENTITY pref.defaults.label "Valores pré-definidos para novos itens">
+<!ENTITY pref.defaults.label "Valores predefinidos para novos elementos">
 <!ENTITY pref.events.label "Eventos">
 <!ENTITY pref.tasks.label "Tarefas">
 
-<!ENTITY pref.default_event_length.label "Tamanho pré-definido:" >
+<!ENTITY pref.default_event_length.label "Duração pré-definida:" >
 <!ENTITY pref.default_event_length.accesskey "e">
 
 <!ENTITY pref.default_task_none.label "Nenhum">

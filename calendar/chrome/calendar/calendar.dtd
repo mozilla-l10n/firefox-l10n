@@ -159,7 +159,7 @@
 <!ENTITY calendar.context.modifyorviewtask.label      "Abrir tarefa…">
 <!ENTITY calendar.context.modifyorviewtask.accesskey  "A">
 <!ENTITY calendar.context.newevent.label              "Novo evento…">
-<!ENTITY calendar.context.newevent.accesskey          "e">
+<!ENTITY calendar.context.newevent.accesskey          "N">
 <!ENTITY calendar.context.newtodo.label               "Nova tarefa…">
 <!ENTITY calendar.context.newtodo.accesskey           "v">
 <!ENTITY calendar.context.deletetask.label            "Eliminar tarefa">
@@ -346,8 +346,8 @@
 <!ENTITY calendar.print.title.label "Título:">
 <!ENTITY calendar.print.layout.label "Esquema:">
 <!ENTITY calendar.print.range.label "Imprimir">
-<!ENTITY calendar.print.currentView2.label "Vista atual">
-<!ENTITY calendar.print.selectedEventsAndTasks.label "Eventos/Tarefas selecionados">
+<!ENTITY calendar.print.currentView2.label "Visão atual">
+<!ENTITY calendar.print.selectedEventsAndTasks.label "Eventos/tarefas selecionadas">
 <!ENTITY calendar.print.tasks.label "Tarefas">
 <!ENTITY calendar.print.events.label "Eventos">
 <!ENTITY calendar.print.custom.label "Intervalo personalizado:">
