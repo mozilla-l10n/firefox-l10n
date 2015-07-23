@@ -105,9 +105,9 @@
 
 <!ENTITY sendButton.label "Enviar agora">
 <!ENTITY addressButton.label "Endereço">
-<!ENTITY attachButton.label "Anexar  ">
+<!ENTITY attachButton.label "Anexar">
 <!ENTITY spellingButton.label "Ortografia">
-<!ENTITY saveButton.label "Salvar  ">
+<!ENTITY saveButton.label "Salvar">
 <!ENTITY stopButton.label "Parar">
 <!--tooltips-->
 <!-- We already inherit &menuBar.tooltip and &mailToolbar.tooltip from messenger.dtd -->

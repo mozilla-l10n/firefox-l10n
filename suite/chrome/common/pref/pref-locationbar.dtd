@@ -6,10 +6,10 @@
 <!ENTITY pref.locationBar.title                "Barra de endereços">
 
 <!ENTITY autoComplete.label                    "Completar automaticamente">
-
-
-
-
+<!ENTITY autoCompleteMatchHistory.label        "Sugerir automaticamente sites do Histórico">
+<!ENTITY autoCompleteMatchHistory.accesskey    "a">
+<!ENTITY autoCompleteMatchBookmarks.label      "Sugerir automaticamente sites dos Favoritos">
+<!ENTITY autoCompleteMatchBookmarks.accesskey  "F">
 <!ENTITY autoCompleteAutoFill.label            "Preencher automaticamente com o endereço mais provável">
 <!ENTITY autoCompleteAutoFill.accesskey        "P">
 <!ENTITY autoCompleteShowPopup.label           "Listar os endereços mais prováveis">

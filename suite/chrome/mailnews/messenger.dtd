@@ -418,7 +418,7 @@
 <!ENTITY undeleteButton.label "Restaurar">
 <!ENTITY markButton.label "Marcar">
 <!ENTITY stopButton.label "Parar ">
-<!ENTITY junkButton.label "Spam  ">
+<!ENTITY junkButton.label "Lixo">
 <!ENTITY notJunkButton.label "Não spam">
 <!ENTITY searchButton.title "Pesquisa avançada">
 <!-- Tooltips -->
@@ -446,8 +446,10 @@
 <!ENTITY notJunkButton.tooltip "Marcar como não spam as mensagens selecionadas">
 <!-- Remote Content Button Popup -->
 
-
-
+<!ENTITY remoteContentOptionsAllowForMsg.label "Mostrar conteúdo remoto desta mensagem">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "s">
+<!ENTITY editRemoteContentSettings.label "Editar permissões para conteúdo remoto…">
+<!ENTITY editRemoteContentSettings.accesskey "E">
 <!-- Statusbar -->
 
 <!ENTITY  statusText.label "Concluído">

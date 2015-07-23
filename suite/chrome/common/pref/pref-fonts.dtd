@@ -55,7 +55,7 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
 <!ENTITY  font.langGroup.khmer                    "Cambojano">
 <!ENTITY  font.langGroup.malayalam                "Malayalam">
-
+<!ENTITY  font.langGroup.math                     "Matemáticas">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Tamanho mínimo:">
 <!ENTITY minSize.accesskey                        "a">
