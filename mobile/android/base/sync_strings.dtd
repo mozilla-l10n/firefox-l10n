@@ -140,7 +140,7 @@
 <!ENTITY fxaccount_policy_linktos "Termos do serviço">
 <!ENTITY fxaccount_policy_linkprivacy "Informação sobre a privacidade">
 
-<!ENTITY fxaccount_getting_started_welcome_to_sync "Bem-vindo ao &syncBrand.shortName.label;">
+<!ENTITY fxaccount_getting_started_welcome_to_sync "O &syncBrand.shortName.label; dá-lhe as boas-vindas">
 <!ENTITY fxaccount_getting_started_description2 "Inicie sessão para sincronizar os seus separadores, marcadores, credenciais e mais.">
 <!ENTITY fxaccount_getting_started_get_started "Começar">
 <!ENTITY fxaccount_getting_started_old_firefox "Está a utilizar uma versão antiga do &syncBrand.shortName.label;?">
@@ -180,7 +180,7 @@
 <!ENTITY fxaccount_sign_in_button_label "Iniciar sessão">
 <!ENTITY fxaccount_sign_in_forgot_password "Esqueceu-se da palavra-passe?">
 <!ENTITY fxaccount_sign_in_create_account_instead "Criar uma conta">
-<!ENTITY fxaccount_sign_in_unknown_error "Não foi possível ligar">
+<!ENTITY fxaccount_sign_in_unknown_error "Sessão não iniciada">
 
 <!ENTITY fxaccount_account_verified_sub_header "Conta verificada">
 <!ENTITY fxaccount_account_verified_description2 "Os seus dados serão sincronizados brevemente.">
@@ -189,14 +189,14 @@
 
 <!ENTITY fxaccount_update_credentials_header "Iniciar sessão">
 <!ENTITY fxaccount_update_credentials_button_label "Iniciar sessão">
-<!ENTITY fxaccount_update_credentials_unknown_error "Não foi possível ligar">
+<!ENTITY fxaccount_update_credentials_unknown_error "Sessão não iniciada">
 
 <!ENTITY fxaccount_finish_migrating_header "Inicie sessão para concluir a atualização">
 <!ENTITY fxaccount_finish_migrating_button_label "Concluir atualização">
 <!ENTITY fxaccount_finish_migrating_description "A atualização pode transferir uma quantidade significativa de dados. Recomenda-se a utilização de uma rede sem fios.">
 
 <!ENTITY fxaccount_status_header2 "Conta Firefox">
-<!ENTITY fxaccount_status_signed_in_as "Ligado como">
+<!ENTITY fxaccount_status_signed_in_as "Identificado como">
 <!ENTITY fxaccount_status_auth_server "Servidor da conta">
 <!ENTITY fxaccount_status_sync_now "Sincronizar agora">
 <!ENTITY fxaccount_status_syncing2 "A sincronizar…">
@@ -206,10 +206,10 @@
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: ativo">
 <!ENTITY fxaccount_status_needs_verification2 "A sua conta tem de ser verificada. Toque para reenviar mensagem de verificação.">
 <!ENTITY fxaccount_status_needs_credentials "Não é possível ligar. Toque para iniciar.">
-<!ENTITY fxaccount_status_needs_upgrade "Tem de atualizar o &brandShortName; para iniciar sessão.">
+<!ENTITY fxaccount_status_needs_upgrade "Tem de atualizar o &brandShortName; para iniciar a sessão.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "O &syncBrand.shortName.label; está configurado, mas não está a sincronizar automaticamente. Ative “Sincronizar dados automaticamente” nas definições do Android &gt; Utilização de dados.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "O &syncBrand.shortName.label; está configurado, mas não está a sincronizar automaticamente. Ative a opção “Sincronização automática” no menu Definições do Android &gt; Contas.">
-<!ENTITY fxaccount_status_needs_finish_migrating "Toque para iniciar sessão na sua nova Conta Firefox.">
+<!ENTITY fxaccount_status_needs_finish_migrating "Toque para iniciar sessão na sua nova conta Firefox.">
 <!ENTITY fxaccount_status_bookmarks "Marcadores">
 <!ENTITY fxaccount_status_history "Histórico">
 <!ENTITY fxaccount_status_passwords2 "Credenciais">
@@ -264,7 +264,7 @@
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Toque para iniciar sessão como &formatS;">
 
-<!ENTITY fxaccount_sync_finish_migrating_notification_title "Terminar atualização do &syncBrand.shortName.label;?">
+<!ENTITY fxaccount_sync_finish_migrating_notification_title "Concluir atualização do &syncBrand.shortName.label;?">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_finish_migrating_notification_text "Toque para iniciar sessão como &formatS;">

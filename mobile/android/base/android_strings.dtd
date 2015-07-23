@@ -22,10 +22,10 @@
 
 <!ENTITY  crash_reporter_title "Relator de erros do &brandShortName;">
 <!ENTITY  crash_message2 "O &brandShortName; teve um erro. Os seus separadores devem estar listados na página inicial do &brandShortName; quando reiniciar.">
-<!ENTITY  crash_send_report_message3 "Dizer à &vendorShortName; sobre este erro para que o possam resolver">
+<!ENTITY  crash_send_report_message3 "Informar a &vendorShortName; sobre este erro para que o possam resolver">
 <!ENTITY  crash_include_url2 "Incluir o endereço da página onde estava">
 <!ENTITY  crash_sorry "Pedimos desculpa">
-<!ENTITY  crash_comment "Adicionar um comentário (os comentários são visíveis por todos)">
+<!ENTITY  crash_comment "Adicionar um comentário (os comentários são públicos)">
 <!ENTITY  crash_allow_contact2 "Autorizar que a &vendorShortName; me contacte sobre este erro">
 <!ENTITY  crash_email "O seu endereço de e-mail">
 <!ENTITY  crash_closing_alert "Sair sem enviar um relatório de erro?">
@@ -191,10 +191,10 @@
 <!ENTITY pref_cookies_not_accept_foreign "Ativado, excluindo os de terceiros">
 <!ENTITY pref_cookies_disabled "Desativado">
 
-<!ENTITY pref_tracking_protection_title "Proteção contra rastreio">
-<!ENTITY pref_tracking_protection_summary "O &brandShortName; irá impedir que sítios o rastreiem">
+<!ENTITY pref_tracking_protection_title "Proteção contra monitorização">
+<!ENTITY pref_tracking_protection_summary "O &brandShortName; irá impedir que sítios o monitorizem">
 <!ENTITY pref_donottrack_title "Do not track">
-<!ENTITY pref_donottrack_summary "O &brandShortName; irá informar os sítios web que você não quer ser rastreado">
+<!ENTITY pref_donottrack_summary "O &brandShortName; irá informar os sítios web que você não quer ser monitorizado">
 
 <!ENTITY tab_queue_toast_message3 "Separador guardado no &brandShortName;">
 <!ENTITY tab_queue_toast_action "Abrir agora">
@@ -225,7 +225,7 @@
 <!ENTITY pref_plugins_enabled "Ativado">
 <!ENTITY pref_plugins_tap_to_play "Toque para reproduzir">
 <!ENTITY pref_plugins_disabled "Desativado">
-<!ENTITY pref_text_size "Tamanho da letra">
+<!ENTITY pref_text_size "Tamanho do texto">
 <!ENTITY pref_reflow_on_zoom4 "Toque duplo para normalizar o texto">
 <!ENTITY pref_restore "Separadores">
 <!ENTITY pref_restore_always "Restaurar sempre">
@@ -338,7 +338,7 @@ size. -->
 <!ENTITY share_image_failed "Não é possível partilhar esta imagem">
 <!ENTITY save_as_pdf "Guardar como PDF">
 <!ENTITY find_in_page "Localizar na página">
-<!ENTITY desktop_mode "Pedir sítio do Desktop">
+<!ENTITY desktop_mode "Pedir site completo">
 <!ENTITY page "Página">
 <!ENTITY tools "Ferramentas">
 <!ENTITY new_tab "Novo separador">
@@ -392,7 +392,7 @@ size. -->
 <!ENTITY doorhanger_login_edit_toggle "Mostrar palavra-passe">
 <!ENTITY doorhanger_login_edit_toast_error "Não foi possível guardar a credencial">
 <!ENTITY doorhanger_login_select_message "Copiar palavra-passe de &formatS;?">
-<!ENTITY doorhanger_login_select_toast_copy "Copiada para a área de transferência">
+<!ENTITY doorhanger_login_select_toast_copy "Palavra-passe copiada para a área de transferência">
 <!ENTITY doorhanger_login_select_toast_copy_error "Não foi possível copiar">
 <!ENTITY doorhanger_login_select_action_text "Selecione outra credencial">
 <!ENTITY doorhanger_login_select_title "Copiar palavra-passe de">
@@ -533,7 +533,7 @@ size. -->
 <!ENTITY filepicker_video_title "Escolher ou gravar um vídeo">
 <!-- Site identity popup -->
 
-<!ENTITY identity_connected_to "Você está ligado a">
+<!ENTITY identity_connected_to "Está ligado a">
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -556,10 +556,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY blocked_mixed_content_message_bottom "A maioria dos sítios web funciona bem mesmo quando o conteúdo é bloqueado.">
 <!-- Tracking content notifications in site identity popup -->
 
-<!ENTITY loaded_tracking_content_message_top "Proteção contra rastreio desativada.">
-<!ENTITY loaded_tracking_content_message_bottom "Partes desta página podem rastrear a sua atividade na Internet.">
-<!ENTITY blocked_tracking_content_message_top2 "Proteção contra rastreio ativada.">
-<!ENTITY blocked_tracking_content_message_bottom2 "Partes da página que podem rastrear a sua atividade na Internet foram bloqueadas.">
+<!ENTITY loaded_tracking_content_message_top "Proteção contra monitorização inativa.">
+<!ENTITY loaded_tracking_content_message_bottom "Partes desta página podem monitotizar a sua atividade na Internet.">
+<!ENTITY blocked_tracking_content_message_top2 "Proteção contra monitorização ativa.">
+<!ENTITY blocked_tracking_content_message_bottom2 "Partes da página que podem monitorizar a sua atividade na Internet foram bloqueadas.">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "Saber mais">
