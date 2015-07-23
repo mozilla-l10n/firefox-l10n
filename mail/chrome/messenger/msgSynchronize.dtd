@@ -5,8 +5,8 @@
 
 
 <!ENTITY MsgSynchronize.label "Descarregar e sincronizar mensagens">
-<!ENTITY MsgSelect.label "Itens para utilização offline">
-<!ENTITY MsgSyncDesc.label "Se já selecionou as pastas de correio ou grupos de notícias para utilizar no modo offline, pode transferir e sincronizar as mensagens. Se ainda não o fez, utilize o botão &quot;Selecionar&quot; para escolher os itens que devem ser utilizados neste modo.">
+<!ENTITY MsgSelect.label "Elementos para utilização offline">
+<!ENTITY MsgSyncDesc.label "Se já selecionou pastas de e-mails ou grupos de notícias para utilizar no modo offline, pode descarregá-los e sincronizá-los. Se ainda não o fez, utilize o botão &quot;Selecionar&quot; para escolher as pastas de e-mails e os grupos de notícias para serem utilizados no modo offline.">
 <!ENTITY MsgSyncDirections.label "Descarregar e/ou sincronizar o seguinte:">
 <!ENTITY syncTypeMail.label "Mensagens eletrónicas">
 <!ENTITY syncTypeMail.accesskey "e">

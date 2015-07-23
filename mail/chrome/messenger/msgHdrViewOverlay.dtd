@@ -19,7 +19,7 @@
 <!ENTITY referencesField4.label "Referências">
 <!ENTITY messageIdField4.label "ID da mensagem">
 <!ENTITY inReplyToField4.label "Em resposta a">
-<!ENTITY originalWebsite4.label "Sítio web">
+<!ENTITY originalWebsite4.label "Site">
 
 <!ENTITY hdrArchiveButton1.label "Arquivar">
 <!ENTITY hdrArchiveButton1.tooltip "Arquiva esta mensagem">
@@ -27,7 +27,7 @@
 <!ENTITY hdrReplyButton1.label "Responder">
 <!ENTITY hdrReplyButton2.tooltip "Responder ao remetente desta mensagem">
 <!ENTITY hdrReplyAllButton1.label "Responder a todos">
-<!ENTITY hdrReplyAllButton1.tooltip "Responde ao remetente e a todos os destinatários">
+<!ENTITY hdrReplyAllButton1.tooltip "Responder ao remetente e a todos os destinatários">
 <!ENTITY hdrReplyListButton1.label "Responder à lista">
 <!ENTITY hdrReplyListButton1.tooltip "Responder à lista de correio">
 <!ENTITY hdrFollowupButton1.label "Responder">

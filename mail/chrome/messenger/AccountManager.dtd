@@ -10,7 +10,7 @@
 <!ENTITY accountActionsButton.accesskey "A">
 <!ENTITY addMailAccountButton.label "Adicionar conta de correio…">
 <!ENTITY addMailAccountButton.accesskey "A">
-<!ENTITY addIMAccountButton.label "Adicionar conta de conversação…">
+<!ENTITY addIMAccountButton.label "Adicionar conta de chat…">
 <!ENTITY addIMAccountButton.accesskey "c">
 <!ENTITY addFeedAccountButton.label "Adicionar conta de fontes…">
 <!ENTITY addFeedAccountButton.accesskey "f">

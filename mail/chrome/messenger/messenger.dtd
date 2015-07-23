@@ -30,12 +30,12 @@
 <!ENTITY newCreateEmailAccountCmd.accesskey "O">
 <!ENTITY newExistingEmailAccountCmd.label "Conta de e-mail existente…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "e">
-<!ENTITY newIMAccountCmd.label "Conta de conversação...">
+<!ENTITY newIMAccountCmd.label "Conta de chat…">
 <!ENTITY newIMAccountCmd.accesskey "C">
 <!ENTITY newFeedAccountCmd.label "Conta de fontes...">
 <!ENTITY newFeedAccountCmd.accesskey "d">
-<!ENTITY newIMContactCmd.label "Contacto de conversação...">
-<!ENTITY newIMContactCmd.accesskey "n">
+<!ENTITY newIMContactCmd.label "Contacto de chat…">
+<!ENTITY newIMContactCmd.accesskey "h">
 <!ENTITY openMessageFileCmd.label "Abrir mensagem guardada...">
 <!ENTITY openMessageFileCmd.accesskey "A">
 <!ENTITY saveAsMenu.label "Guardar como">
@@ -162,7 +162,7 @@
 <!ENTITY favoriteFolders.accesskey "F">
 <!ENTITY recentFolders.label "Recente">
 <!ENTITY recentFolders.accesskey "R">
-<!ENTITY compactVersion.label "Vista compacta">
+<!ENTITY compactVersion.label "Visão compactada">
 <!ENTITY compactVersion.accesskey "c">
 <!-- Sort Menu -->
 
@@ -215,10 +215,10 @@
 <!ENTITY allMsgsCmd.label "Todos">
 <!ENTITY allMsgsCmd.accesskey "T">
 <!ENTITY expandAllThreadsCmd.label "Expandir todos">
-<!ENTITY expandAllThreadsCmd.accesskey "d">
+<!ENTITY expandAllThreadsCmd.accesskey "E">
 <!ENTITY expandAllThreadsCmd.key "*">
 <!ENTITY collapseAllThreadsCmd.label "Recolher todos">
-<!ENTITY collapseAllThreadsCmd.accesskey "h">
+<!ENTITY collapseAllThreadsCmd.accesskey "c">
 <!ENTITY collapseAllThreadsCmd.key "\">
 <!ENTITY unreadMsgsCmd.label "Não lidas">
 <!ENTITY unreadMsgsCmd.accesskey "N">
@@ -312,7 +312,7 @@
 <!ENTITY goBackCmd.label "Recuar">
 <!ENTITY goBackCmd.accesskey "R">
 <!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goChatCmd.label "Conversação">
+<!ENTITY goChatCmd.label "Chat">
 <!ENTITY goChatCmd.accesskey "C">
 <!ENTITY goChatCmd.key "I">
 <!ENTITY prevStarredMsgCmd.label "Mensagem com estrela">
@@ -454,13 +454,13 @@
 <!ENTITY addons.accesskey "E">
 <!ENTITY activitymanager.label "Gestor de atividade">
 <!ENTITY activitymanager.accesskey "v">
-<!ENTITY imAccountsStatus.label "Estado da conversação">
+<!ENTITY imAccountsStatus.label "Estado do chat">
 <!ENTITY imAccountsStatus.accesskey "c">
 <!ENTITY imStatus.available          "Disponível">
 <!ENTITY imStatus.unavailable        "Indisponível">
 <!ENTITY imStatus.offline            "Offline">
 <!ENTITY imStatus.showAccounts       "Mostrar contas...">
-<!ENTITY joinChatCmd.label "Entrar na conversa...">
+<!ENTITY joinChatCmd.label "Entrar no chat…">
 <!ENTITY joinChatCmd.accesskey "t">
 <!ENTITY savedFiles.label "Ficheiros guardados">
 <!ENTITY savedFiles.accesskey "g">
@@ -520,10 +520,10 @@
 <!ENTITY junkButton.label "Lixo eletrónico">
 <!ENTITY notJunkButton.label "Não é lixo eletrónico">
 <!ENTITY addressBookButton.label "Livro de endereços">
-<!ENTITY chatButton.label "Conversação">
+<!ENTITY chatButton.label "Chat">
 <!ENTITY glodaSearch.title "Pesquisa global">
 <!ENTITY searchItem.title "Pesquisa rápida">
-<!ENTITY mailViewsToolbarItem.title "Vistas do correio">
+<!ENTITY mailViewsToolbarItem.title "Visões do correio">
 <!ENTITY folderLocationToolbarItem.title "Localização da pasta">
 <!ENTITY tagButton.label "Etiqueta">
 <!ENTITY compactButton.label "Compactar">
@@ -557,7 +557,7 @@
 <!ENTITY junkButton.tooltip "Marcar mensagens selecionadas como lixo eletrónico">
 <!ENTITY notJunkButton.tooltip "Marcar mensagens selecionadas como não sendo lixo eletrónico">
 <!ENTITY addressBookButton.tooltip "Ir para o livro de endereços">
-<!ENTITY chatButton.tooltip "Mostrar o separador de conversação">
+<!ENTITY chatButton.tooltip "Mostrar o separador de chat">
 <!ENTITY tagButton.tooltip "Classificar mensagens">
 <!ENTITY compactButton.tooltip "Remover mensagens eliminadas da pasta selecionada">
 <!ENTITY appmenuButton1.tooltip "Mostrar menu do &brandShortName;">
@@ -710,7 +710,7 @@
      would probably need to be changed. -->
 <!ENTITY contextOpenNewTab.label "Abrir mensagem em novo separador">
 <!ENTITY contextOpenNewTab.accesskey "s">
-<!ENTITY contextOpenConversation.label "Abrir mensagem de conversação">
+<!ENTITY contextOpenConversation.label "Abrir mensagem na conversa">
 <!ENTITY contextOpenConversation.accesskey "n">
 <!ENTITY contextOpenContainingFolder.label "Abrir mensagem na pasta">
 <!ENTITY contextOpenContainingFolder.accesskey "n">

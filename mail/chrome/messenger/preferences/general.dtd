@@ -27,7 +27,7 @@
 
 <!ENTITY play.label                       "Testar">
 <!ENTITY play.accesskey                   "T">
-<!ENTITY systemsound.label                "Som pré-definido do sistema para novas mensagens">
+<!ENTITY systemsound.label                "Som predefinido do sistema para novos e-mails">
 <!ENTITY systemsoundMac.label             "Som do sistema">
 <!ENTITY systemsoundMac.accesskey         "S">
 <!ENTITY systemsound.accesskey            "S">
@@ -36,4 +36,4 @@
 <!ENTITY browse.label                     "Procurar...">
 <!ENTITY browse.accesskey                 "u">
 
-<!ENTITY defaultSearchEngine.label        "Motor de pesquisa pré-definido">
+<!ENTITY defaultSearchEngine.label        "Motor de pesquisa predefinido">

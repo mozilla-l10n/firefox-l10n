@@ -25,7 +25,7 @@
 <!ENTITY useSmoothScrolling.accesskey  "u">
 
 <!ENTITY systemIntegration.label       "Integração de sistemas">
-<!ENTITY alwaysCheckDefault.label      "Ao iniciar, verificar se o &brandShortName; é o programa de correio pré-definido">
+<!ENTITY alwaysCheckDefault.label      "Ao iniciar, verificar se o &brandShortName; é o cliente de e-mail predefinido">
 <!ENTITY alwaysCheckDefault.accesskey  "A">
 <!ENTITY searchIntegration.label       "Permitir que &searchIntegration.engineName; pesquise nas mensagens">
 <!ENTITY searchIntegration.accesskey   "s">

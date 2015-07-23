@@ -13,14 +13,14 @@
 <!ENTITY deleteButton.accesskey "l">
 <!ENTITY reorderTopButton "Mover para o topo">
 <!ENTITY reorderTopButton.accessKey "o">
-<!ENTITY reorderTopButton.toolTip "Rearranjar filtro para que seja executado antes de todos os outros">
+<!ENTITY reorderTopButton.toolTip "Arranjar filtro para que seja executado antes de todos os outros">
 <!ENTITY reorderUpButton.label "Mover para cima">
 <!ENTITY reorderUpButton.accesskey "c">
 <!ENTITY reorderDownButton.label "Mover para baixo">
 <!ENTITY reorderDownButton.accesskey "b">
 <!ENTITY reorderBottomButton "Mover para a base">
 <!ENTITY reorderBottomButton.accessKey "M">
-<!ENTITY reorderBottomButton.toolTip "Rearranjar filtro para que seja executado depois de todos os outros">
+<!ENTITY reorderBottomButton.toolTip "Arranjar filtro para que seja executado depois de todos os outros">
 <!ENTITY filterHeader.label "Os filtros ativos são executados pela ordem exibida abaixo.">
 <!ENTITY filtersForPrefix.label "Filtros para:">
 <!ENTITY filtersForPrefix.accesskey "F">

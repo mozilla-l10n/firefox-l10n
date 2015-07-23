@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle.label            "Assistente de conta de conversação">
+<!ENTITY windowTitle.label            "Assistente da conta de chat">
 
-<!ENTITY accountProtocolTitle.label   "Rede de conversação">
-<!ENTITY accountProtocolInfo.label    "Por favor escolha a rede da conta de conversação.">
+<!ENTITY accountProtocolTitle.label   "Rede de chat">
+<!ENTITY accountProtocolInfo.label    "Por favor escolha a rede da conta de chat.">
 <!ENTITY accountProtocolField.label   "Rede:">
 <!ENTITY accountProtocolGetMore.label "Obter mais…">
 

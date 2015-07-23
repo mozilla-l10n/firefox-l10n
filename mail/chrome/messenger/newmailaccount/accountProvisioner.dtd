@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY window.title "Bem-vindo ao &brandShortName;">
+<!ENTITY window.title "O &brandShortName; dá-lhe as boas-vindas">
 <!ENTITY header2.label "Quer um novo endereço de e-mail?">
 <!ENTITY other.languages "Apenas estamos a mostrar os fornecedores que disponibilizam endereços na sua área. Clique aqui para mostrar todos os fornecedores.">
 <!ENTITY error.line1 "Desculpe mas não conseguimos encontrar uma sugestão de endereço de e-mail.">
@@ -40,4 +40,4 @@
 <!ENTITY input.search "Pesquisar">
 <!ENTITY search_engine.title "Personalizar motor de pesquisa">
 <!ENTITY search_engine.message "O seu fornecedor de correio também lhe pode disponibilizar pesquisas web.">
-<!ENTITY search_engine.button "Terminar">
+<!ENTITY search_engine.button "Concluir">

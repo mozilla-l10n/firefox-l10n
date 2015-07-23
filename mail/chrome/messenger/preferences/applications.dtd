@@ -14,9 +14,9 @@
 <!ENTITY  filter.placeholder          "Pesquisar">
 
 <!ENTITY saveTo.label                 "Guardar ficheiros em">
-<!ENTITY saveTo.accesskey             "G">
+<!ENTITY saveTo.accesskey             "s">
 <!ENTITY alwaysAsk.label              "Perguntar sempre o local para guardar ficheiros">
-<!ENTITY alwaysAsk.accesskey          "P">
+<!ENTITY alwaysAsk.accesskey          "a">
 <!ENTITY chooseFolderWin.label        "Explorar…">
 <!ENTITY chooseFolderWin.accesskey    "x">
 <!ENTITY chooseFolderMac.label        "Escolher…">
