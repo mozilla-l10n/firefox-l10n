@@ -742,7 +742,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "O">
 
 <!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "Focar salas de conversação">
+<!ENTITY social.chatBar.label "Focar chats">
 <!ENTITY social.chatBar.accesskey "c">
 
 <!ENTITY social.markpageMenu.accesskey "p">
@@ -769,15 +769,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY mixedContentBlocked2.block.accesskey "v">
 <!ENTITY mixedContentBlocked2.disabled.message "Proteção desativada">
 
-<!ENTITY trackingContentBlocked.message "Rastreio">
-<!ENTITY trackingContentBlocked.moreinfo "Partes da página que rastreiam a sua atividade foram bloqueadas.">
+<!ENTITY trackingContentBlocked.message "Monitorização">
+<!ENTITY trackingContentBlocked.moreinfo "Partes da página que monitorizam a sua atividade foram bloqueadas.">
 <!ENTITY trackingContentBlocked.learnMore "Saber mais">
 <!ENTITY trackingContentBlocked.options "Opções">
 <!ENTITY trackingContentBlocked.unblock2.label "Desativar proteção para este site">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "Ativar proteção">
 <!ENTITY trackingContentBlocked.block.accesskey "e">
-<!ENTITY trackingContentBlocked.disabled.message "A proteção contra rastreio está inativa">
+<!ENTITY trackingContentBlocked.disabled.message "A proteção contra monitorização está inativa">
 
 <!ENTITY pointerLock.notification.message "Prima ESC para o mostrar novamente.">
 
