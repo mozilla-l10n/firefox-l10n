@@ -22,14 +22,14 @@
 
 <!ENTITY  crash_reporter_title "&brandShortName; Crash Reporter">
 <!ENTITY  crash_message2 "O &brandShortName; encontrou um problema e travou. Suas abas serão listadas na página inicial do &brandShortName; quando reiniciar.">
-<!ENTITY  crash_send_report_message3 "Notificar a &vendorShortName; para que eles possam corrigi-lo">
-<!ENTITY  crash_include_url2 "Incluir o endereço da página em que eu estava">
+<!ENTITY  crash_send_report_message3 "Notificar a &vendorShortName; sobre este travamento para que eles possam corrigi-lo">
+<!ENTITY  crash_include_url2 "Incluir o endereço da página onde eu estava">
 <!ENTITY  crash_sorry "Nos desculpe">
-<!ENTITY  crash_comment "Adicione um comentário (será visível publicamente)">
+<!ENTITY  crash_comment "Adicione um comentário (os comentários são públicos)">
 <!ENTITY  crash_allow_contact2 "Permitir que a &vendorShortName; contate-me sobre este relatório">
-<!ENTITY  crash_email "Seu email">
-<!ENTITY  crash_closing_alert "Sair sem enviar um relatório do travamento?">
-<!ENTITY  sending_crash_report "Enviando relatório do travamento\u2026">
+<!ENTITY  crash_email "Seu e-mail">
+<!ENTITY  crash_closing_alert "Sair sem enviar um relatório de travamento?">
+<!ENTITY  sending_crash_report "Enviando relatório de travamento\u2026">
 <!ENTITY  crash_close_label "Fechar">
 <!ENTITY  crash_restart_label "Reiniciar o &brandShortName;">
 <!ENTITY  exit_label "Sair">
@@ -39,7 +39,7 @@
 
 <!ENTITY choose_file "Selecionar arquivo">
 
-<!ENTITY url_bar_default_text2 "Pesquisar ou abrir endereço">
+<!ENTITY url_bar_default_text2 "Pesquise ou digite um endereço">
 
 <!ENTITY bookmark "Favorito">
 <!ENTITY bookmark_remove "Remover favorito">
@@ -73,7 +73,7 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; abas">
 <!ENTITY new_tab_opened "Nova aba aberta">
-<!ENTITY new_private_tab_opened "Aba privativa aberta">
+<!ENTITY new_private_tab_opened "Nova aba privativa aberta">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
@@ -84,8 +84,8 @@
 <!ENTITY pref_category_input_options "Opções de entrada">
 <!ENTITY pref_category_advanced "Avançado">
 <!ENTITY pref_category_customize "Personalizar">
-<!ENTITY pref_category_customize_summary "Página inicial, pesquisar, abas, importar">
-<!ENTITY pref_category_customize_alt_summary "Início, pesquisar, abas, abrir mais tarde, importar">
+<!ENTITY pref_category_customize_summary "Página inicial, pesquisa, abas, importação">
+<!ENTITY pref_category_customize_alt_summary "Página inicial, pesquisa, abas, abrir mais tarde, importação">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -110,7 +110,7 @@
 <!ENTITY overlay_share_bookmark_btn_label "Favoritar">
 <!ENTITY overlay_share_reading_list_btn_label "Adicionar à lista de leitura">
 <!ENTITY overlay_share_bookmark_btn_label_already "Já existe nos favoritos">
-<!ENTITY overlay_share_reading_list_btn_label_already "Já na lista de leitura">
+<!ENTITY overlay_share_reading_list_btn_label_already "Já existe na lista de leitura">
 <!ENTITY overlay_share_send_other "Enviar para outros dispositivos">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
@@ -130,7 +130,7 @@
      divided into two lines (use the newline escape character, "\n", between
      them): the first notifying the user about the failure and the second
      telling the user what to do about it. -->
-<!ENTITY overlay_share_tab_not_sent "Sua aba não pôde ser enviada.\n Tente novamente mais tarde.">
+<!ENTITY overlay_share_tab_not_sent "A aba não pôde ser enviada.\n Tente novamente mais tarde.">
 
 <!ENTITY pref_category_search3 "Pesquisar">
 <!ENTITY pref_category_search_summary "Personalize seus mecanismos de pesquisa">
@@ -156,9 +156,9 @@
 <!ENTITY pref_category_devtools "Ferramentas do desenvolvedor">
 <!ENTITY pref_developer_remotedebugging "Depuração remota">
 <!ENTITY pref_category_logins "Logins">
-<!ENTITY pref_remember_signons2 "Lembrar dos logins">
+<!ENTITY pref_remember_signons2 "Memorizar logins">
 <!ENTITY pref_open_external_urls_privately_title "Abrir links na navegação privativa">
-<!ENTITY pref_open_external_urls_privately_summary "Para todos os links externos aberto no &brandShortName;">
+<!ENTITY pref_open_external_urls_privately_summary "Para todos os links externos abertos no &brandShortName;">
 <!ENTITY pref_manage_logins "Gerenciar logins">
 
 <!ENTITY pref_category_home "Página inicial">
@@ -170,11 +170,11 @@
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
 <!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 adicionado à página inicial">
-<!ENTITY pref_category_home_content_settings "Conteúdo">
-<!ENTITY pref_home_updates "Atualização automática">
+<!ENTITY pref_category_home_content_settings "Configurações de conteúdo">
+<!ENTITY pref_home_updates "Atualizações automáticas">
 <!ENTITY pref_home_updates_enabled "Ativada">
 <!ENTITY pref_home_updates_wifi "Somente com Wi-Fi">
-<!ENTITY pref_home_suggested_sites "Exibir sugestões de sites">
+<!ENTITY pref_home_suggested_sites "Mostrar sugestões de sites">
 <!ENTITY pref_home_suggested_sites_summary "Exibir na sua página inicial atalhos de sites que pensamos que você ache interessantes">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
@@ -187,12 +187,12 @@
 <!ENTITY pref_header_devtools "Ferramentas do desenvolvedor">
 
 <!ENTITY pref_cookies_menu "Cookies">
-<!ENTITY pref_cookies_accept_all "Ativa">
+<!ENTITY pref_cookies_accept_all "Ativado">
 <!ENTITY pref_cookies_not_accept_foreign "Ativado, excluindo os de terceiros">
-<!ENTITY pref_cookies_disabled "Desativar">
+<!ENTITY pref_cookies_disabled "Desativado">
 
 <!ENTITY pref_tracking_protection_title "Proteção contra rastreamento">
-<!ENTITY pref_tracking_protection_summary "O &brandShortName; vai impedir que sites o monitorem">
+<!ENTITY pref_tracking_protection_summary "O &brandShortName; vai impedir que sites o rastreiem">
 <!ENTITY pref_donottrack_title "Não rastrear">
 <!ENTITY pref_donottrack_summary "O &brandShortName; informará aos sites que você não quer ser rastreado">
 
@@ -200,7 +200,7 @@
 <!ENTITY tab_queue_toast_action "Abrir agora">
 <!ENTITY tab_queue_prompt_title "Abrindo múltiplos links?">
 <!ENTITY tab_queue_prompt_text3 "Salvar para usar na próxima vez que iniciar o &brandShortName;">
-<!ENTITY tab_queue_prompt_tip_text "você pode alterar isso mais tarde em Configurações">
+<!ENTITY tab_queue_prompt_tip_text "você pode alterar isso mais tarde nas configurações">
 <!ENTITY tab_queue_prompt_positive_action_button "Ativar">
 <!ENTITY tab_queue_prompt_negative_action_button "Agora não">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
@@ -214,28 +214,28 @@
 <!ENTITY tab_queue_notification_text_singular2 "1 aba esperando">
 
 <!ENTITY pref_char_encoding "Codificação">
-<!ENTITY pref_char_encoding_on "Exibir menu">
-<!ENTITY pref_char_encoding_off "Não exibir menu">
+<!ENTITY pref_char_encoding_on "Mostrar menu">
+<!ENTITY pref_char_encoding_off "Não mostra menu">
 <!ENTITY pref_clear_private_data2 "Limpar agora">
-<!ENTITY pref_clear_private_data_category "Limpar dados de navegação">
+<!ENTITY pref_clear_private_data_category "Limpar dados privativos">
 <!ENTITY pref_clear_on_exit_title2 "Limpar ao sair">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; irá limpar automaticamente os seus dados sempre que selecionar \u0022Sair\u0022 no menu principal">
 <!ENTITY pref_clear_on_exit_dialog_title "Selecione quais dados limpar">
 <!ENTITY pref_plugins "Plugins">
-<!ENTITY pref_plugins_enabled "Ativa">
-<!ENTITY pref_plugins_tap_to_play "Ativar ao tocar">
-<!ENTITY pref_plugins_disabled "Desativar">
+<!ENTITY pref_plugins_enabled "Ativado">
+<!ENTITY pref_plugins_tap_to_play "Toque para reproduzir">
+<!ENTITY pref_plugins_disabled "Desativado">
 <!ENTITY pref_text_size "Tamanho do texto">
 <!ENTITY pref_reflow_on_zoom4 "Ajustar texto">
 <!ENTITY pref_restore "Abas">
-<!ENTITY pref_restore_always "Sempre restaurar">
+<!ENTITY pref_restore_always "Restaurar sempre">
 <!ENTITY pref_restore_quit "Não restaurar após sair do &brandShortName;">
 <!ENTITY pref_font_size_tiny "Minúsculo">
 <!ENTITY pref_font_size_small "Pequeno">
 <!ENTITY pref_font_size_medium "Médio">
 <!ENTITY pref_font_size_large "Grande">
 <!ENTITY pref_font_size_xlarge "Gigante">
-<!ENTITY pref_font_size_set "Definir">
+<!ENTITY pref_font_size_set "Configurar">
 <!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
 (or combination of characters) is used to decrease the preview font size; a larger version of the
 same character/combination is used to increase the preview font size. It should be a concise
@@ -245,7 +245,7 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
-<!ENTITY pref_font_size_preview_text "A raposa rápida laranja salta sobre suas expectativas com mais velocidade, flexibilidade e segurança. Como uma organização sem fins lucrativos, estamos livres para inovar em nome de seus interesses. Isso significa uma melhor experiência para você e um futuro melhor para a web.">
+<!ENTITY pref_font_size_preview_text "A rápida raposa laranja pula sobre suas expectativas com mais velocidade, mais flexibilidade e mais segurança. Como uma organização sem fins lucrativos, estamos livres para inovar em nome de seus interesses. Isso significa uma melhor experiência para você e um futuro melhor para a web.">
 
 <!ENTITY pref_media_autoplay_enabled "Permitir reprodução automática">
 <!ENTITY pref_media_autoplay_enabled_summary "Controle se os sites podem reproduzir vídeos e outras mídias automaticamente">
@@ -258,11 +258,11 @@ size. -->
 
 <!ENTITY pref_use_master_password "Usar senha mestra">
 <!ENTITY pref_sync "Sync">
-<!ENTITY pref_sync_summary2 "Sincronize suas abas, favoritos, senhas, histórico">
-<!ENTITY pref_search_suggestions "Sugerir pesquisas">
+<!ENTITY pref_sync_summary2 "Sincronize suas abas, favoritos, logins e histórico">
+<!ENTITY pref_search_suggestions "Mostrar sugestões de pesquisa">
 <!ENTITY pref_import_android "Importar do Android">
 <!ENTITY pref_import_android_summary "Importar favoritos e histórico do navegador nativo">
-<!ENTITY pref_private_data_history2 "Histórico">
+<!ENTITY pref_private_data_history2 "Histórico de navegação">
 <!ENTITY pref_private_data_searchHistory "Histórico de pesquisas">
 <!ENTITY pref_private_data_formdata2 "Histórico de formulários">
 <!ENTITY pref_private_data_cookies2 "Cookies e logins ativos">
@@ -308,7 +308,7 @@ size. -->
 <!ENTITY datareporting_abouthr_title "Ver relatório de integridade">
 <!ENTITY datareporting_telemetry_title "Telemetria">
 <!ENTITY datareporting_telemetry_summary "Compartilha dados de desempenho, uso, hardware e personalizações com a &vendorShortName; para nos ajudar a melhorar o &brandShortName;">
-<!ENTITY datareporting_crashreporter_summary "O &brandShortName; envia relatórios de travamento para ajudar a &vendorShortName; a fazer o seu navegador mais estável e seguro">
+<!ENTITY datareporting_crashreporter_summary "O &brandShortName; envia relatórios de travamento para ajudar a &vendorShortName; fazer o navegador mais estável e seguro">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Crash Reporter">

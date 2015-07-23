@@ -46,14 +46,14 @@
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY malformedURI.longDesc2 "<ul> 
-<li>Os endereços da Web são geralmente escritos como 
+<li>Normalmente, os endereços web são escritos como 
 <strong>http://www.example.com/</strong></li> 
 <div id='searchbox'> 
 <input id='searchtext' type='search'></input> 
 <button id='searchbutton'>Pesquisar</button> 
 </div> 
-<li>Certifique-se de que está usando barras (ou seja, 
-<strong>/</strong>).</li> 
+<li>Certifique-se de que está usando as barras corretamente 
+(ou seja, <strong>/</strong>).</li> 
 </ul>">
 
 <!ENTITY netInterrupt.title "Conexão interrompida">
@@ -66,7 +66,7 @@
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY netOffline.longDesc3 "<ul> 
-<li>Tente de novo. O &brandShortName; vai abrir uma conexão e recarregar a página. 
+<li>Tente novamente. O &brandShortName; tentará abrir uma conexão e recarregar a página. 
 <button id='wifi'>Ativar Wi-Fi</button> 
 </li> 
 </ul>">

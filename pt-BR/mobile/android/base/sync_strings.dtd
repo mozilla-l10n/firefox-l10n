@@ -52,7 +52,7 @@
 <!-- Pair Device -->
 
 <!ENTITY sync.pair.tryagain.label "Por favor, tente de novo.">
-<!ENTITY sync.pair.connectlocation.label "Para ativar seu novo dispositivo, selecione “Configurar &syncBrand.shortName.label;” nele e depois “Tenho uma conta”.">
+<!ENTITY sync.pair.connectlocation.label "Para ativar o seu novo dispositivo, selecione “Configurar o &syncBrand.shortName.label;” no dispositivo e depois selecione “Eu tenho uma conta.”">
 <!-- Firefox SyncAdapter Settings Screen -->
 
 <!ENTITY sync.settings.options.label "Opções">
@@ -201,7 +201,7 @@
 <!ENTITY fxaccount_status_sync_now "Sincronizar agora">
 <!ENTITY fxaccount_status_syncing2 "Sincronizando…">
 <!ENTITY fxaccount_status_device_name "Nome do dispositivo">
-<!ENTITY fxaccount_status_sync_server "Servidor do Sync">
+<!ENTITY fxaccount_status_sync_server "Servidor Sync">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label; ativo">
 <!ENTITY fxaccount_status_needs_verification2 "Sua conta precisa ser confirmada. Toque para reenviar o email de confirmação.">
