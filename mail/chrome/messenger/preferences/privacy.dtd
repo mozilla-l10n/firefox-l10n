@@ -28,9 +28,9 @@
 <!ENTITY expire.label "expiră">
 <!ENTITY close.label "închid &brandShortName;">
 <!ENTITY askEachTime.label "întreabă de fiecare dată">
-<!ENTITY cookieExceptions.label "Excepții...">
+<!ENTITY cookieExceptions.label "Excepții…">
 <!ENTITY cookieExceptions.accesskey "E">
-<!ENTITY showCookies.label "Arată cookie-urile...">
+<!ENTITY showCookies.label "Arată cookie-urile…">
 <!ENTITY showCookies.accesskey "A">
 
 <!ENTITY dntTrackingNotOkay.label2 "Informează saiturile web că nu vreau să fiu urmărit">

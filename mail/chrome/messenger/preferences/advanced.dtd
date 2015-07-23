@@ -29,7 +29,7 @@
 <!ENTITY alwaysCheckDefault.accesskey  "a">
 <!ENTITY searchIntegration.label       "Permite la &searchIntegration.engineName; să caute în mesaje">
 <!ENTITY searchIntegration.accesskey   "P">
-<!ENTITY checkDefaultsNow.label        "Verifică acum...">
+<!ENTITY checkDefaultsNow.label        "Verifică acum…">
 <!ENTITY checkDefaultsNow.accesskey    "V">
 <!ENTITY configEditDesc.label          "Configurare avansată">
 <!ENTITY configEdit.label              "Editor de configurație…">
@@ -74,7 +74,7 @@
 <!ENTITY connectionsInfo.caption       "Conexiune">
 <!ENTITY offlineInfo.caption           "Deconectat">
 <!ENTITY offlineInfo.label             "Configurează preferințele pentru modul deconectat">
-<!ENTITY showOffline.label             "Offline...">
+<!ENTITY showOffline.label             "Offline…">
 <!ENTITY showOffline.accesskey         "O">
 
 <!ENTITY Diskspace                       "Spațiu pe disc">

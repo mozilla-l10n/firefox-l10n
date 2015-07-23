@@ -119,9 +119,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY messengerCmd.commandkey                        "1">
 <!ENTITY searchAddressesCmd.label                       "Caută adrese…">
 <!ENTITY searchAddressesCmd.accesskey                   "s">
-<!ENTITY importCmd.label                                "Import...">
+<!ENTITY importCmd.label                                "Import…">
 <!ENTITY importCmd.accesskey                            "I">
-<!ENTITY exportCmd.label                                "Export...">
+<!ENTITY exportCmd.label                                "Export…">
 <!ENTITY exportCmd.accesskey                            "E">
 <!ENTITY preferencesCmd2.label                          "Opțiuni">
 <!ENTITY preferencesCmd2.accesskey                      "O">
