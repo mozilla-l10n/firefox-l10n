@@ -35,7 +35,7 @@
 
 <!ENTITY telemetryDesc.label             "แบ่งปันข้อมูลประสิทธิภาพ การใช้งาน ฮาร์ดแวร์ และการปรับแต่งที่เกี่ยวกับเบราว์เซอร์ของคุณกับ &vendorShortName; เพื่อช่วยเหลือเราทำ &brandShortName; ให้ดีขึ้น">
 <!ENTITY enableTelemetryData.label       "แบ่งปันข้อมูลเพิ่มเติม (เช่น การวัดและส่งข้อมูลทางไกล)">
-<!ENTITY enableTelemetryData.accesskey   "T">
+<!ENTITY enableTelemetryData.accesskey   "ว">
 <!ENTITY telemetryLearnMore.label        "เรียนรู้เพิ่ม">
 
 <!ENTITY crashReporterDesc.label         "&brandShortName; ส่งข้อมูลรายงานข้อขัดข้องเพื่อช่วย &vendorShortName; ทำเบราว์เซอร์ของคุณให้เสถียรและปลอดภัยมากขึ้น">
@@ -99,21 +99,21 @@
 <!ENTITY offlineNotifyExceptions.label   "ยกเว้น…">
 <!ENTITY offlineNotifyExceptions.accesskey "ย">
 
-<!ENTITY offlineAppsList2.label          "เว็บไซต์เหล่านี้ได้รับอนุญาตให้เก็บข้อมูลไว้ใช้ตอนออฟไลน์ :">
+<!ENTITY offlineAppsList2.label          "เว็บไซต์เหล่านี้ได้รับอนุญาตให้เก็บข้อมูลไว้ใช้ตอนออฟไลน์:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "ลบ…">
 <!ENTITY offlineAppsListRemove.accesskey "ล">
 <!ENTITY offlineAppRemove.confirm        "เอาข้อมูลออฟไลน์ออก">
 
 <!ENTITY certificateTab.label            "ใบรับรอง">
-
-<!ENTITY certSelection.description       "เมื่อเซิร์ฟเวอร์ร้องขอใบรับรองส่วนตัว :">
+<!ENTITY certSelection.label             "การร้องขอ">
+<!ENTITY certSelection.description       "เมื่อเซิร์ฟเวอร์ร้องขอใบรับรองส่วนตัว:">
 <!ENTITY certs.auto                      "เลือกอัตโนมัติ">
 <!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "ถามฉันทุกครั้ง">
 <!ENTITY certs.ask.accesskey             "A">
 <!ENTITY enableOCSP.label                "ขอข้อมูลตัวตอบรับเซิร์ฟเวอร์ OCSP เพื่อยืนยันความถูกต้องของใบรับรอง">
-<!ENTITY enableOCSP.accesskey            "Q">
+<!ENTITY enableOCSP.accesskey            "ข">
 <!ENTITY viewCerts.label                 "ดูใบรับรอง">
 <!ENTITY viewCerts.accesskey             "ด">
 <!ENTITY viewSecurityDevices.label       "กลไกความปลอดภัย">
