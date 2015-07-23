@@ -30,16 +30,20 @@ gore &brandShortName; e na le tetlelesego ya Webo.</li>
 
 
 
-
+<!ENTITY notCached.longDesc "<p>Tokumente e kopilweng ga e teng mo &brandShortName; polokotshedimosetso ya gangwe le gape.</p><ul><li>Ka keletlhoko ya pabalesego, &brandShortName; Ga e itirise go kopa ditokumente tsa sephiri.</li><li>Tobetsa Leka Gape go kopa sesha tokumente gotswa mo webosaeteng.</li></ul>">
 
 <!ENTITY netOffline.longDesc2 "<ul> 
 <li>Tobetsa &quot;Leka Gape&quot; go fetolela mo mokgwa kgolaganong ka mafaratlhatlha o bo o tsenya sešwa tsebe.</li> 
 </ul>">
 
-
+<!ENTITY contentEncodingError.longDesc "<ul> 
+<li>Tswêê-tswêê itshwaraganye le beng ba webosaete go ba itsese ka bothaka jo.</li> 
+</ul>">
 
 <!ENTITY unsafeContentType.title "Mofuta wa Faele o sa Babalesegang">
-
+<!ENTITY unsafeContentType.longDesc "<ul> 
+<li>Tswêê-tswêê itshwaraganye le beng ba webosaete go ba itsese ka bothaka jo.</li> 
+</ul>">
 
 <!ENTITY netReset.title "Kgolagano e rulagantswesešwa">
 
@@ -59,7 +63,10 @@ gore &brandShortName; e na le tetlelesego ya Webo.</li>
 
 
 <!ENTITY nssFailure2.title "Kgolagano e Sireletsegileng e Reteletswe">
-
+<!ENTITY nssFailure2.longDesc2 "<ul> 
+<li>Tsebe e o lekang go e leba ga e kake ya bontshiwa ka gore boammaaruri jwa tshedimosetso e amogetsweng ga boa kgonwa go rurifadiwa.</li> 
+<li>Tswêê-tswêê itshwaraganye le beng ba webosaete go ba itsise ka bothata jo.</li> 
+</ul>">
 
 <!ENTITY nssBadCert.title "Kgolagano e Sireletsegileng e Reteletswe">
 
@@ -74,7 +81,7 @@ gore &brandShortName; e na le tetlelesego ya Webo.</li>
 <!ENTITY phishingBlocked.title "Pelaelo ya Webo Togo Maaka!">
 
 
-
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName;thibetse tsebe e go tsenya ka tsela e ntseng jaana ka gore tsebe e na le pholisi ya diteng pabalesego e sa e letleleleng.</p>">
 
 <!ENTITY corruptedContentError.title "Phoso ya Diteng e Senyegileng">
 <!ENTITY corruptedContentError.longDesc "<p> Tsebe e o lekang go e leba ga e kake ya bontshiwa ka gore phoso mo phetiso tshedimosetso e lemogilwe.</p><ul><li>Tswêê-tswêê i tshwaraganye le beng ba webosaete go ba itsise ka bothata jo.</li></ul>">

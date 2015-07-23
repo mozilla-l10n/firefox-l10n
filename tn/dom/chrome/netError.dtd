@@ -28,7 +28,9 @@
 
 
 <!ENTITY unsafeContentType.title "Mofuta wa Faele o sa Babalesegang">
-
+<!ENTITY unsafeContentType.longDesc "<ul> 
+<li>Tswêê-tswêê itshwaraganye le beng ba webosaete go ba itsese ka bothaka jo.</li> 
+</ul>">
 
 <!ENTITY netReset.longDesc "<p>Kgokagano ya mafaratlhatlha e ne ya kgaopediwa fa go buisanyediwa kgolagano.Tswêê-tswêê leka gape.</p>">
 
