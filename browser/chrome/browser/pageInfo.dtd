@@ -41,7 +41,7 @@
 <!ENTITY  mediaSaveAs           "Guardar como…">
 <!ENTITY  mediaSaveAs.accesskey "G">
 <!ENTITY  mediaSaveAs2.accesskey "e">
-<!ENTITY  mediaPreview          "Pré-visualização multimédia:">
+<!ENTITY  mediaPreview          "Pré-visualizar multimédia:">
 
 <!ENTITY  feedTab               "Fontes">
 <!ENTITY  feedTab.accesskey     "F">
