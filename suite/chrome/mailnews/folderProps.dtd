@@ -12,7 +12,7 @@
 <!ENTITY folderRebuildSummaryFileTip2.label      "Reconstruir índice de ficheiros">
 <!ENTITY folderRebuildSummaryFile2.label         "Reparar pasta">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">
-<!ENTITY folderRebuildSummaryFile.explanation    "Ás vezes o índice da pasta (.msf) fica danificado e as mensagens podem ou não aparecer ou as que foram eliminadas continuar a aparecer; reparar a pasta pode corrigir estes problemas.">
+<!ENTITY folderRebuildSummaryFile.explanation    "Às vezes, o índice da pasta (.msf) fica danificado e as mensagens podem desaparecer ou as que foram eliminadas continuam a aparecer; a reparação da pasta pode corrigir estes problemas.">
 <!ENTITY folderIncludeInGlobalSearch.label       "Incluir as mensagens da pasta nos resultados de pesquisa globais">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "g">
 

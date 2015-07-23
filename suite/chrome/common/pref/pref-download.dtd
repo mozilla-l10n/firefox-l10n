@@ -30,8 +30,8 @@
 <!ENTITY neverRemove.label              "Nunca">
 
 <!ENTITY finishedBehavior.label         "Ao terminar a descarga">
-<!ENTITY playSound.label                "Tocar um som">
-<!ENTITY playSound.accesskey            "s">
+<!ENTITY playSound.label                "Reproduzir um som">
+<!ENTITY playSound.accesskey            "p">
 <!ENTITY showAlert.label                "Mostrar um alerta">
 <!ENTITY showAlert.accesskey            "t">
 <!ENTITY browse.label                   "Navegar…">

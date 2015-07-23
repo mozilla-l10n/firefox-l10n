@@ -22,7 +22,7 @@
 <!ENTITY outsideDomain.label          "Se o remetente estiver fora do meu domínio:">
 <!ENTITY outsideDomain.accesskey      "t">
 <!ENTITY otherCases.label             "Em todos os outros casos:">
-<!ENTITY otherCases.accesskey         "a">
+<!ENTITY otherCases.accesskey         "o">
 <!ENTITY askMe.label                  "Perguntar-me">
 <!ENTITY alwaysSend.label             "Enviar Sempre">
 <!ENTITY neverSend.label              "Nunca enviar">

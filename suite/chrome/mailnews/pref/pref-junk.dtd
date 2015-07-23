@@ -31,7 +31,7 @@
 <!-- Phishing Detector -->
 
 <!ENTITY pref.phishing.caption            "Mensagem de engodo">
-<!ENTITY enablePhishingDetector.label     "Avisar-me se a mensagem de correio que estou a ler é um correio suspeito de ser engodo">
+<!ENTITY enablePhishingDetector.label     "Avisar-me se a mensagem de correio que estou a ler pode ser uma fraude">
 <!ENTITY enablePhishingDetector.accesskey "e">
 <!-- Anti Virus -->
 

@@ -2,19 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pref.popups.title              "Janelas emergentes">
+<!ENTITY pref.popups.title              "Janelas pop-up">
 
-<!ENTITY pref.popups.caption            "Janelas emergentes">
+<!ENTITY pref.popups.caption            "Janelas pop-up">
 
-<!ENTITY popupBlock.label               "Bloquear janelas emergentes">
+<!ENTITY popupBlock.label               "Bloquear janelas pop-up">
 <!ENTITY popupBlock.accesskey           "B">
 
 <!ENTITY viewPermissions.label          "Gerir permissões">
 <!ENTITY viewPermissions.accesskey      "p">
 
-<!ENTITY whenBlock.description          "Ao bloquear uma janela emergente:">
-<!ENTITY playSound.label                "Tocar um som:">
-<!ENTITY playSound.accesskey            "s">
+<!ENTITY whenBlock.description          "Ao bloquear uma janela pop-up:">
+<!ENTITY playSound.label                "Reproduzir um som:">
+<!ENTITY playSound.accesskey            "p">
 <!ENTITY systemSound.label              "Som do sistema">
 <!ENTITY systemSound.accesskey          "s">
 <!ENTITY customSound.label              "Ficheiro de som">
@@ -31,5 +31,5 @@
 <!ENTITY displayNotification.label      "Mostrar uma barra de notificação no topo da área de conteúdo">
 <!ENTITY displayNotification.accesskey  "n">
 
-<!ENTITY popupNote.description          "Nota: bloquear as janelas emergentes pode impedir que funcionalidades importantes dos sítios web funcionem, tais como janelas de início de sessão de banco e de sítios de compras. Para mais informações, clique em Ajuda. Mesmo bloqueados, os sítios podem usar outros métodos para mostrar essas janelas.">
+<!ENTITY popupNote.description          "Nota: Bloquear as janelas pop-up pode impedir que funcionalidades importantes dos sites funcionem, tais como janelas de início de sessão de bancos e de sites de compras. Para obter mais informações, clique em Ajuda. Mesmo se estiverem bloqueados, alguns sites podem usar outros formas de abrir janelas pop-up.">
 

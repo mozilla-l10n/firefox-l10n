@@ -3,11 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     tab.cookiesonsystem.label      "Cookies guardados">
-<!ENTITY     tab.bannedservers.label        "Sítios do cookie">
+<!ENTITY     tab.bannedservers.label        "Sites do cookie">
 <!ENTITY     div.bannedservers.label        "Gerir os sítios que podem ou não guardar cookies no seu computador.">
 <!ENTITY     div.cookiesonsystem.label      "Ver e remover cookies guardados no seu computador.">
 <!ENTITY     treehead.cookiename.label      "Nome do cookie">
-<!ENTITY     treehead.cookiedomain.label    "Sítio">
+<!ENTITY     treehead.cookiedomain.label    "Site">
 <!ENTITY     treehead.cookieexpires.label   "Expira">
 <!ENTITY     treehead.infoselected.label    "Detalhes do cookie selecionado">
 <!ENTITY     button.removecookie.label      "Remover cookie">
@@ -27,7 +27,7 @@
 <!ENTITY     props.secure.label             "Enviar para:">
 <!ENTITY     props.expires.label            "Expira:">
 
-<!ENTITY     treehead.sitename.label        "Sítio">
+<!ENTITY     treehead.sitename.label        "Site">
 <!ENTITY     treehead.status.label          "Estado">
 <!ENTITY     windowtitle.label              "Gestor de cookies">
 <!ENTITY     buttonaccept.label             "Fechar">

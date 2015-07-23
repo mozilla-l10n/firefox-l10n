@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Context Menu -->
 
-<!ENTITY popupWindowRejectCmd.label     "Rejeitar janelas emergentes deste sítio">
+<!ENTITY popupWindowRejectCmd.label     "Recusar janelas pop-up deste site">
 <!ENTITY popupWindowRejectCmd.accesskey "o">
-<!ENTITY popupWindowAllowCmd.label      "Permitir janelas emergentes deste sítio">
+<!ENTITY popupWindowAllowCmd.label      "Permitir janelas pop-up deste site">
 <!ENTITY popupWindowAllowCmd.accesskey  "o">
 <!ENTITY openLinkCmdInTab.label       "Abrir ligação em novo separador">
 <!ENTITY openLinkCmdInTab.accesskey   "s">
@@ -79,7 +79,7 @@
 <!ENTITY saveLinkCmd.accesskey        "r">
 <!ENTITY saveImageAsCmd.label         "Guardar imagem como…">
 <!ENTITY saveImageCmd.label           "Guardar imagem">
-<!ENTITY saveImageCmd.accesskey       "G">
+<!ENTITY saveImageCmd.accesskey       "u">
 <!ENTITY saveVideoCmd.label           "Guardar vídeo como…">
 <!ENTITY saveVideoCmd.accesskey       "u">
 <!ENTITY saveAudioCmd.label           "Guardar áudio como…">
@@ -126,7 +126,7 @@ items are mutually exclusive. -->
 <!ENTITY videoFullScreen.label        "Ecrã inteiro">
 <!ENTITY videoFullScreen.accesskey    "n">
 <!ENTITY videoSaveImage.label         "Guardar captura como…">
-<!ENTITY videoSaveImage.accesskey     "G">
+<!ENTITY videoSaveImage.accesskey     "a">
 <!ENTITY videoShowStats.label         "Mostrar estatísticas">
 <!ENTITY videoShowStats.accesskey     "t">
 <!ENTITY videoHideStats.label         "Ocultar estatísticas">

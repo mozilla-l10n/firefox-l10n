@@ -30,7 +30,7 @@
 <!ENTITY view.groupNone.accesskey       "N">
 <!ENTITY view.groupDay.label            "Dia">
 <!ENTITY view.groupDay.accesskey        "D">
-<!ENTITY view.groupSite.label           "Sítio">
+<!ENTITY view.groupSite.label           "Site">
 <!ENTITY view.groupSite.accesskey       "S">
 <!ENTITY view.groupDayAndSite.label     "Dia e sítio">
 <!ENTITY view.groupDayAndSite.accesskey "a">
