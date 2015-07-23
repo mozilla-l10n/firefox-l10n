@@ -25,8 +25,8 @@
 
 <!ENTITY helpSafeMode.label       "راه‌اندازی مجدد به همراه غیرفعال کردن افزودنی‌ها…">
 <!ENTITY helpSafeMode.accesskey   "م">
-
-
+<!ENTITY helpSafeMode.stop.label       "راه‌اندازی مجدد به همراه غیرفعال کردن افزودنی‌ها">
+<!ENTITY helpSafeMode.stop.accesskey   "م">
 
 <!ENTITY healthReport2.label      "گزارش سلامتی &brandShorterName;">
 <!ENTITY healthReport2.accesskey  "ا">
