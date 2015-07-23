@@ -10,3 +10,5 @@
 <!ENTITY addonAction.disable                    "O‘chirib qo‘yish">
 <!ENTITY addonAction.uninstall                  "O‘chirish">
 <!ENTITY addonAction.undo                       "Amalni orqaga qaytarish">
+
+<!ENTITY addonUnsigned.learnMore                "Koʻproq o‘rganish">

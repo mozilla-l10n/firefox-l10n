@@ -44,6 +44,9 @@
 <!ENTITY bookmark "Xatcho‘p">
 <!ENTITY bookmark_remove "Xatcho‘pni olib tashlash">
 <!ENTITY bookmark_added "Xatcho‘pga qo‘shildi">
+<!-- Localization note (bookmark_already_added) : This string is
+     used as a label in a toast. It is the verb "to bookmark", not
+     the noun "a bookmark". -->
 <!ENTITY bookmark_removed "Xatcho‘p olib tashlandi">
 <!ENTITY bookmark_updated "Xatcho‘p yangilandi">
 <!ENTITY bookmark_options "Parametrlar">
@@ -77,6 +80,7 @@
 
 <!ENTITY settings "Sozlamalar">
 <!ENTITY settings_title "Sozlamalar">
+
 <!ENTITY pref_category_advanced "Qo‘shimcha">
 <!ENTITY pref_category_customize "Moslash">
 <!ENTITY pref_category_customize_summary "Uy, izlash, ichki oynalar, import">
@@ -104,7 +108,7 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "Xatcho‘p">
 <!ENTITY overlay_share_reading_list_btn_label "O‘qish ro‘yxatiga qo‘shish">
-<!ENTITY overlay_share_bookmark_btn_label_already "Allaqachon xatcho‘plarga qo‘shildi">
+
 <!ENTITY overlay_share_reading_list_btn_label_already "Allaqachon o‘qish ro‘yxatida">
 <!ENTITY overlay_share_send_other "Boshqa qurilmalarga jo‘natish">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -132,7 +136,7 @@
 <!ENTITY pref_category_display "Ko‘rsatish">
 <!ENTITY pref_category_display_summary "Matn, sarlavha paneli, butun ekranda ko‘rish">
 <!ENTITY pref_category_privacy_short "Maxfiylik">
-<!ENTITY pref_category_privacy_summary "Parollar, kukilar, kuzatish, ma’lumotlarni boshqarish">
+
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "&brandShortName;, KSSlar, ma’lumotlarni tanlash haqida">
 <!ENTITY pref_category_datareporting "Tanlangan ma’lumotlar">
@@ -151,7 +155,9 @@
 <!ENTITY pref_category_devtools "Dasturlash asboblari">
 <!ENTITY pref_developer_remotedebugging "Masofadan tuzatish">
 <!ENTITY pref_category_logins "Taxalluslar">
-<!ENTITY pref_remember_signons "Parollarni eslab qolish">
+
+
+
 <!ENTITY pref_manage_logins "Kirishlarni boshqarish">
 
 <!ENTITY pref_category_home "Uy sahifasi">
@@ -189,10 +195,9 @@
 <!ENTITY pref_donottrack_title "Kuzatmang">
 <!ENTITY pref_donottrack_summary "&brandShortName; saytlarga sizni kuzatishlarini xohlamsaligingiz aytiladi.">
 
-<!ENTITY tab_queue_toast_message2 "Ichki oyna &brandShortName;ga navbatga qo‘yildi">
 <!ENTITY tab_queue_toast_action "Hozir ochish">
 <!ENTITY tab_queue_prompt_title "Bir nechta vazifalar ochilsinmi">
-<!ENTITY tab_queue_prompt_text2 "Ular har safar &brandShortName;ga almashtirmasdan ochilsin.">
+
 <!ENTITY tab_queue_prompt_tip_text "siz uni keyinroq \&quot;Sozlamalar\&quot;dan o‘zgartirishingiz mumkin">
 <!ENTITY tab_queue_prompt_positive_action_button "Yoqib qo‘yilgan">
 <!ENTITY tab_queue_prompt_negative_action_button "Hozir emas">
@@ -245,9 +250,13 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "Doimo kattalashtirish/kichiklashtirishni yoqish">
 <!ENTITY pref_zoom_force_enabled_summary "Majburiy almashtirilsa, siz har qanday sahifani kattalashtirib ko‘rishingiz mumkin">
 
+
+
+
+
 <!ENTITY pref_use_master_password "Parol ustasidan foydalaning">
 <!ENTITY pref_sync "Sinxronlash">
-<!ENTITY pref_sync_summary "Ichki oynalar, xatcho‘plar, parollar, tarixni sinxronlash">
+
 <!ENTITY pref_search_suggestions "Izlash bo‘yicha tavsiyalarni ko‘rsatish">
 <!ENTITY pref_import_android "Androiddan emport qilish">
 <!ENTITY pref_import_android_summary "Asosiy brauzerdan xatcho‘plar va tarixni import qilish">
@@ -255,11 +264,12 @@ size. -->
 <!ENTITY pref_private_data_searchHistory "Izlash tarixi">
 <!ENTITY pref_private_data_formdata2 "Tarixdan">
 <!ENTITY pref_private_data_cookies2 "Kukilar va faol kirishlar">
-<!ENTITY pref_private_data_passwords "Saqlangan parollar">
+
 <!ENTITY pref_private_data_cache "Kesh">
 <!ENTITY pref_private_data_offlineApps "Oflayn veb sayt ma’lumotlari">
 <!ENTITY pref_private_data_siteSettings2 "Sayt sozlamalari">
 <!ENTITY pref_private_data_downloadFiles2 "Yuklab olishlar">
+
 
 
 <!ENTITY pref_about_firefox "&brandShortName; haqida">
@@ -380,6 +390,11 @@ size. -->
 <!ENTITY doorhanger_login_edit_toggle "Parolni ko‘rsatish">
 <!ENTITY doorhanger_login_edit_toast_error "Kirishga saqlab bo‘lmadi">
 
+
+
+
+
+
 <!ENTITY pref_titlebar_mode "Sahifa nomi paneli">
 <!ENTITY pref_titlebar_mode_title "Sahifa nomini ko‘rsatish">
 <!ENTITY pref_titlebar_mode_url "Sahifa manzilini ko‘rsatish">
@@ -390,7 +405,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "Sahifa pastga o‘tayotganda &brandShortName;ning sarlavha paneli yashirilsin">
 
 <!ENTITY pref_tab_queue_title2 "Bir nechta havolalarni ochish">
-<!ENTITY pref_tab_queue_summary2 "Har safar &brandShortName;ga almashtirish o‘rnitga havolalar keyinroq navbatga qo‘yildi">
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -408,8 +423,8 @@ size. -->
 <!ENTITY site_settings_cancel       "Bekor qilish">
 <!ENTITY site_settings_clear        "Tozalash">
 <!ENTITY site_settings_no_settings  "Tozalash uchun sozlamalar mavjud emas.">
-
-<!ENTITY reading_list_added "Sahifa \&quot;O‘qilganlar ro‘yxati\&quot;ga qo‘shildi">
+<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+     as possible. -->
 <!ENTITY reading_list_removed "Sahifa \&quot;O‘qilganlar ro‘yxati\&quot;dan olib tashlandi">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -438,7 +453,7 @@ size. -->
 <!ENTITY button_clear_data "Ma’lumotlarni tozalash">
 <!ENTITY button_set "O‘rnatish">
 <!ENTITY button_clear "Tozalash">
-<!ENTITY button_remember "Eslab qolish">
+<!ENTITY button_copy "Nusxa olish">
 
 <!ENTITY firstrun_panel_title_welcome "Marhamat">
 
@@ -502,10 +517,6 @@ size. -->
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Tanlangan qurilmalarni ko‘rsatish">
 
-<!ENTITY private_browsing_title "Maxfiy ko‘rish">
-<!ENTITY private_tabs_panel_empty_desc "Maxfiy ichki oynalaringiz bu yerda ko‘rinadi. Ko‘rish tarixi yoki kukilar, xatcho‘plar va fayllarni saqlamasak ham, yuklab olgan narsalaringiz qurilmada saqlanib qoladi.">
-<!ENTITY private_tabs_panel_learn_more "Ko‘proq o‘rganishni xohlaysizmi?">
-
 <!ENTITY remote_tabs_panel_moved_title "Ichki oynalarim qayerga ketdi?">
 <!ENTITY remote_tabs_panel_moved_desc "Har safar yangi ichki oyna ochishni oson qilish uchun biz boshqa qurilmalardagi ichki oynalaringizni uy sahifangizdagi panelga ko‘chirdik.">
 <!ENTITY remote_tabs_panel_moved_link "Meni yangi panelimga o‘tkaz.">
@@ -533,6 +544,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "ushbu tomonidan bajariladi:">
 <!ENTITY identity_no_info "Ushbu sayt ma’lumotni tasdiqdan o‘tkazishni qo‘llamaydi.">
 <!ENTITY identity_not_encrypted "Ushbu saytga ulanish kodlanmagan.">
+<!ENTITY identity_encrypted "Shifrlangan">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "Ushbu sahifa xavfsiz bo‘lmagan tarkibni ko‘rsatmoqda.">
@@ -599,7 +611,7 @@ import qilinmoqda">
 <!ENTITY guest_session_dialog_continue "Davom etish">
 <!ENTITY guest_session_dialog_cancel "Bekor qilish">
 <!ENTITY new_guest_session_title "&brandShortName; hozir qayta ishga tushiriladi">
-<!ENTITY new_guest_session_text "Foydalanayotgan inson sizning birorta ham shaxsiy ko‘rish ma’lumotlaringizni (saqlangan parollar, tarix va xatcho‘plar kabilarni) ko‘ra olmaydi.\n\n Mehmoningiz ishini tugatgandan so‘ng, uning ko‘rish ma’lumotlari o‘chiriladi va sizning seansingiz tiklanadi.">
+
 <!ENTITY guest_browsing_notification_title "Mehmon sifatida kirish yoqilgan">
 <!ENTITY guest_browsing_notification_text "Chiqish uchun bosing">
 
@@ -648,3 +660,4 @@ import qilinmoqda">
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
 
 <!ENTITY find_matchcase "Aa">
+

@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label "Sinxronlanadiganlar:">
 <!ENTITY sync.configure.engines.sync.my.title.label "Sinxronlash...">
 <!ENTITY sync.configure.engines.title.bookmarks "Xatcho‘plar">
-<!ENTITY sync.configure.engines.title.passwords "Parollar">
+
 <!ENTITY sync.configure.engines.title.history "Tarix">
 <!ENTITY sync.configure.engines.title.tabs "Ichki oynalar">
 <!-- Common text -->
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "Xavfsizlik ogohlantirishlari">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label;ga xush kelibsiz">
-<!ENTITY fxaccount_getting_started_description "Ichki oynalaringiz, xatcho‘plaringiz, parollaringiz va boshqalarni sinxronlash uchun kiring.">
+
 <!ENTITY fxaccount_getting_started_get_started "Ishlashni boshlash">
 <!ENTITY fxaccount_getting_started_old_firefox "&syncBrand.shortName.label;ning eskiroq versiyasidan foydalanyapsizmi?">
 <!-- Localization note: the Firefox below should not change with the
@@ -212,7 +212,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating "Yangi \&quot;Firefox hisobi\&quot;ga kirish uchun bosing.">
 <!ENTITY fxaccount_status_bookmarks "Xatcho‘plar">
 <!ENTITY fxaccount_status_history "Tarix">
-<!ENTITY fxaccount_status_passwords "Parollar">
+
 <!ENTITY fxaccount_status_tabs "Ichki oynalarni ochish">
 <!ENTITY fxaccount_status_legal "Qonuniy" >
 <!-- Localization note: when tapped, the following two strings link to
