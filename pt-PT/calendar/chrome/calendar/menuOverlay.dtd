@@ -43,7 +43,7 @@
 <!ENTITY goTodayCmd.label                       "Hoje">
 <!ENTITY goTodayCmd.accesskey                   "H">
 
-<!ENTITY showCurrentView.label                  "Vista atual">
+<!ENTITY showCurrentView.label                  "Visão atual">
 <!ENTITY showCurrentView.accesskey              "V">
 
 <!ENTITY calendar.properties.label              "Propriedades do calendário…">

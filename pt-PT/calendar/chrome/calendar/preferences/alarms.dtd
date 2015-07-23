@@ -8,7 +8,7 @@
 
 
 <!ENTITY pref.alarmgoesoff.label "Se o lembrete estiver vencido:">
-<!ENTITY pref.playasound "Tocar um som">
+<!ENTITY pref.playasound "Reproduzir um som">
 <!ENTITY pref.calendar.alarms.playsound.accessKey "s">
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "Utilizar som pré-definido">
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "d">
@@ -27,10 +27,10 @@
 <!ENTITY pref.defalarm4todos.accesskey "l">
 <!ENTITY pref.alarm.on "Ligado">
 <!ENTITY pref.alarm.off "Desligado">
-<!ENTITY pref.defalarmlen4events.label "Tempo pré-definido em que o alarme se ativa do evento:">
-<!ENTITY pref.defalarmlen4events.accesskey "T">
-<!ENTITY pref.defalarmlen4todos.label "Tempo pré-definido em que o alarme se ativa antes da tarefa:">
+<!ENTITY pref.defalarmlen4events.label "Tempo predefinido de ativação do alarme antes de um evento:">
+<!ENTITY pref.defalarmlen4events.accesskey "u">
+<!ENTITY pref.defalarmlen4todos.label "Tempo predefinido de ativação do alarme antes de uma tarefa:">
 <!ENTITY pref.defalarmlen4todos.accesskey "o">
 
-<!ENTITY pref.defaultsnoozelength.label "Duração pré-definida entre toques do alarme:" >
+<!ENTITY pref.defaultsnoozelength.label "Duração pré-definida entre toques de alarme:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "u">
