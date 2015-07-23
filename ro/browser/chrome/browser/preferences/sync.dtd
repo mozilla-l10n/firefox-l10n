@@ -17,7 +17,7 @@
 <!ENTITY manageAccount.label          "Gestionează contul">
 <!ENTITY manageAccount.accesskey      "a">
 <!ENTITY viewQuota.label              "Arată cota">
-<!ENTITY changePassword2.label        "Schimbă parola...">
+<!ENTITY changePassword2.label        "Schimbă parola…">
 <!ENTITY myRecoveryKey.label          "Cheia mea de recuperare">
 <!ENTITY resetSync2.label             "Resetează sincronizarea…">
 

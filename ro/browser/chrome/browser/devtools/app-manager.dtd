@@ -53,7 +53,7 @@
 <!ENTITY connection.saveConnectionInfo "Salvează">
 <!ENTITY connection.saveConnectionInfoTooltip "Save the host and port.">
 <!ENTITY connection.connecting "Se conectează…">
-<!ENTITY connection.disconnecting "Se deconectează...">
+<!ENTITY connection.disconnecting "Se deconectează…">
 <!ENTITY connection.cancel "Anulează">
 <!ENTITY connection.cancelConnectTooltip "Anulează conexiunea în desfășurare">
 <!ENTITY connection.cancelShowSimulatorTooltip "Exit the Simulator connection mode and return to the initial prompt.">
