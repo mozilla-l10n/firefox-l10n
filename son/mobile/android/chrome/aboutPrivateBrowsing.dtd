@@ -2,12 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                  "Sutura naarumi">
+<!ENTITY privatebrowsingpage.title "Sutura naarumi">
 
-<!ENTITY privatebrowsingpage.issueDesc.private      "War na sutura nor loku taaga feeri.">
-<!ENTITY privatebrowsingpage.issueDesc.normal       "War ši sutura nor loku taaga ra.">
 
-<!ENTITY privatebrowsingpage.description            "Sutura nor loku ra, &brandShortName; ši ceecikaw taariki, ceeciyan taariki, zumandi taariki, Interneti takari taariki. aleewa wala Interneti tuku bisantey gaabu.  Ammaa, tukey kaŋ war g'i zumandi nda doo-šilbawey kaŋ war n'i dam ga gaabundi.">
-<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
 
-<!ENTITY privatebrowsingpage.moreInfo               "Ba kaŋ jinaa woo ši war ceeciyan bisante taariki kul gaabu, war Interneti nookaa wala goykaa ga hin ka dii moɲey kaŋ war n'i guna.">
+
+<!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
+<!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
+
+<!ENTITY privatebrowsingpage.link.private "Bay ka tonton wala?">
+

@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label "Hayey kaŋ ga hangandi">
 <!ENTITY sync.configure.engines.sync.my.title.label "Hangandi…">
 <!ENTITY sync.configure.engines.title.bookmarks "Doo-šilbawey">
-<!ENTITY sync.configure.engines.title.passwords "Šennikufaley">
+
 <!ENTITY sync.configure.engines.title.history "Taariki">
 <!ENTITY sync.configure.engines.title.tabs "Nor lokey">
 <!-- Common text -->
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "Sutura laada">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Kubayni &syncBrand.shortName.label; ga">
-<!ENTITY fxaccount_getting_started_description "Huru ka war nor lokey, šennikufaley nda haya taney hangandi.">
+
 <!ENTITY fxaccount_getting_started_get_started "A tunandi">
 <!ENTITY fxaccount_getting_started_old_firefox "Goy nda &syncBrand.shortName.label; dumi žeena foo?">
 <!-- Localization note: the Firefox below should not change with the
@@ -212,7 +212,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating "Karkar ka huru war Firefox kontu taagaa ra.">
 <!ENTITY fxaccount_status_bookmarks "Doo-šilbawey">
 <!ENTITY fxaccount_status_history "Taariki">
-<!ENTITY fxaccount_status_passwords "Šennikufaley">
+
 <!ENTITY fxaccount_status_tabs "Nor lokey feeri">
 <!ENTITY fxaccount_status_legal "Alhukum bande" >
 <!-- Localization note: when tapped, the following two strings link to
