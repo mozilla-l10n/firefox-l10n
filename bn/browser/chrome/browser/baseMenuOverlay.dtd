@@ -16,8 +16,8 @@
 <!ENTITY helpMenuWin.accesskey    "H">
 <!ENTITY aboutProduct2.label      "About &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "A">
-
-
+<!ENTITY productHelp2.label       "&brandShorterName; Help">
+<!ENTITY productHelp2.accesskey   "H">
 <!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "কীবোর্ড শর্টকাট K">
@@ -28,7 +28,8 @@
 
 
 
-
+<!ENTITY healthReport2.label      "&brandShorterName; Health Report">
+<!ENTITY healthReport2.accesskey  "e">
 
 <!ENTITY helpTroubleshootingInfo.label      "সমাধান করার তথ্য (T)">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
