@@ -6,8 +6,9 @@
 <!ENTITY privatebrowsingpage.title.normal "Məxfi səyahətdə deyilsiniz">
 
 <!ENTITY privatebrowsingpage.issueDesc.normal2 "Məxfi səyahətdə biz heç bir səyahət tarixçəsi və ya çərəz tutmuruq.">
+<!ENTITY privatebrowsingpage.issueDesc.private2 "Səyahət keçmişinizi və çərəzlərinizi saxlamayacağıq.">
 
-
+<!ENTITY privatebrowsingpage.description2 "Əlavə etdiyiniz əlfəcinlər və endirdiyiniz fayllar yenə də cihazınızda qalacaq.">
 <!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
 <!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
 

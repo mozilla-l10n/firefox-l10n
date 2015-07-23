@@ -615,7 +615,7 @@ idxal edilir">
 <!ENTITY guest_session_dialog_continue "İrəli">
 <!ENTITY guest_session_dialog_cancel "Ləğv et">
 <!ENTITY new_guest_session_title "&brandShortName; indi yenidən başlayacaq">
-
+<!ENTITY new_guest_session_text2 "Bunu işlədən istifadəçi sizin şəxsi məlumatlarınızın heç birini (saxlanmış hesablarınız, keçmişiniz və əlfəcinləriniz) görə bilməyəcək.\n\nQonağınızın işi bitdikdən sonra səyahət məlumatları silinəcək və sizin sessiya bərpa olacaq.">
 <!ENTITY guest_browsing_notification_title "Qonaq səyahəti aktivdir">
 <!ENTITY guest_browsing_notification_text "Çıxmaq üçün toxunun">
 

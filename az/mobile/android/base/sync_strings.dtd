@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "Məxfilik Bildirişi">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label;-ə xoş gəldiniz">
-
+<!ENTITY fxaccount_getting_started_description2 "Vərəqlərinizi, əlfəcinlərinizi, hesablarınızı və daha bir çox məlumatınızı sinxronlaşdırmaq üçün daxil olun.">
 <!ENTITY fxaccount_getting_started_get_started "Başla">
 <!ENTITY fxaccount_getting_started_old_firefox "Köhnə &syncBrand.shortName.label; işlədirsiz?">
 <!-- Localization note: the Firefox below should not change with the
