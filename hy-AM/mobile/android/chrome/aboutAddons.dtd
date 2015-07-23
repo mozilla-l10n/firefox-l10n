@@ -12,4 +12,4 @@
 <!ENTITY addonAction.undo                       "Ետարկել">
 
 <!ENTITY addonUnsigned.message                  "Այս հավելումը չի կարող ստուգվել &brandShortName;-ի կողմից:">
-
+<!ENTITY addonUnsigned.learnMore                "Մանրամասններ">
