@@ -55,7 +55,9 @@
 <!ENTITY  downloadPage.title              "در حال بارگیری &brandShortName;">
 <!ENTITY  downloading.intro               "در حال بارگیری این به‌هنگام‌سازی…">
 <!ENTITY  connecting.label                "در حال برقراری اتصال با کارگزار به‌هنگام‌سازی…">
-<!ENTITY  verificationFailedText.label    "درستی به‌هنگام‌سازی فزایندهٔ بارگیری شده توسط &brandShortName; تأیید نشد، بنابراین در حال بارگیری بستهٔ کامل به‌هنگام‌سازی است.">
+<!ENTITY  verificationFailedText.label    "&brandShortName; قادر به تائید درستی به‌هنگام‌سازی 
+فزاینده‌ای که بارگیری نمود نبود، به همین دلیل در حال بارگیری 
+بستهٔ کامل به‌هنگام‌سازی است.">
 
 <!ENTITY  viewDetails.tooltip             "مشاهدهٔ جزئیات این به‌هنگام‌سازی">
 
@@ -72,18 +74,23 @@
 <!ENTITY  errorpatching.intro             "به‌هنگام‌سازی جزئی قابل اجرا نیست. 
 &brandShortName; سعی میکند بستۀ کامل را بارگیری و نصب نماید.">
 
-<!ENTITY  genericBackgroundError.label    "&brandShortName; قادر به تشخیص وجود به‌هنگام‌سازی جدیدی نبود. جدیدترین نسخهٔ  &brandShortName; را از این‌جا می‌توانید دریافت کنید:">
-<!ENTITY  errorCertAttrNoUpdate2.label    "&brandShortName; به دلیلی قادر به به‌هنگام‌سازی ایمن نیست.  جدیدترین نسخهٔ  &brandShortName; را از این‌جا می‌توانید دریافت کنید:">
+<!ENTITY  genericBackgroundError.label    "&brandShortName; قادر به تشخیص وجود به‌هنگام‌سازی جدید نیست. لطفا مطمئن شوید که 
+جدیدترین نسخهٔ &brandShortName; را از این‌جا دریافت کرده‌اید:">
+<!ENTITY  errorCertAttrNoUpdate2.label    "&brandShortName; به دلیلی قادر به به‌هنگام‌سازی ایمن نیست. 
+لطفا مطمئن شوید که جدیدترین نسخهٔ &brandShortName; را از این‌جا دریافت کرده‌اید:">
 <!ENTITY  errorCertAttrHasUpdate.label    "شخصی در حال تلاش است که  &brandShortName; را به منظور پذیرش یک به‌هنگام‌سازی غیر ایمن فریب دهد. 
 لطفاً با تماس با مدیر شبکهٔ خود درخواست کمک کنید.">
 
 <!ENTITY  finishedPage.title              "به‌هنگام‌سازی آمادهٔ نصب است">
-<!ENTITY  finishedPage.text               "این به‌هنگام‌سازی دفعهٔ بعدی که &brandShortName; شروع به کار کند نصب خواهد شد.  می‌توانید هم‌اکنون &brandShortName; را راه‌اندازی مجدد کنید، یا به کارتان ادامه دهید و این کار را بعداً انجام دهید.">
+<!ENTITY  finishedPage.text               "این به‌هنگام‌سازی دفعهٔ بعدی که &brandShortName; شروع به کار کند نصب خواهد شد. 
+می‌توانید هم‌اکنون &brandShortName; را راه‌اندازی مجدد کنید، یا به کارتان ادامه داده و این کار را بعداً انجام دهید.">
 
-<!ENTITY  finishedBackgroundPage.text     "یک به‌هنگام‌سازی امنیتی و پایداری برای &brandShortName; بارگیری شده و آمادهٔ نصب است.">
+<!ENTITY  finishedBackgroundPage.text     "یک به‌هنگام‌سازی امنیتی و پایداری برای &brandShortName; 
+بارگیری شده و آمادهٔ نصب است.">
 <!ENTITY  finishedBackground.name         "به‌هنگام‌سازی:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
-<!ENTITY  finishedBackground.more         "این به‌هنگام‌سازی دفعهٔ بعدی که &brandShortName; شروع به کار کند نصب خواهد شد.  می‌توانید هم‌اکنون &brandShortName; را راه‌اندازی مجدد کنید، یا به کارتان ادامه دهید و بعداً اقدام به این کار نمایید.">
+<!ENTITY  finishedBackground.more         "این به‌هنگام‌سازی دفعهٔ بعدی که &brandShortName; شروع به کار کند نصب خواهد شد. 
+می‌توانید هم‌اکنون &brandShortName; را راه‌اندازی مجدد کنید، یا به کارتان ادامه داده و این کار را بعداً انجام دهید.">
 
 <!ENTITY  installed.title                 "به‌هنگام‌سازی نصب شد">
 <!ENTITY  installed.intro                 "‏این به‌هنگام‌سازی با موفقیت نصب شد.">

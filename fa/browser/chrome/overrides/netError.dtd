@@ -38,12 +38,11 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; به دلایلی نمی‌تواند این صفحه را نمایش دهد.</p>">
 
 <!ENTITY malformedURI.title "این نشانی معتبر نیست">
-<!ENTITY malformedURI.longDesc "<ul> 
-<li> نشانی‌های وب معمولاً به صورت 
-<strong> http://www.example.com/ </strong> 
-نوشته می‌شوند </li> 
-<li> مطمئن شوید که از ممیز درست استفاده می‌کنید (یعنی 
-<strong> / </strong> ). </li> 
+<!ENTITY malformedURI.longDesc "<ul>
+<li>نشانی‌های وب معمولاً به این صورت نوشته می‌شوند 
+<strong>http://www.example.com/</strong></li> 
+<li>مطمئن شوید که از ممیز درست استفاده می‌کنید (یعنی 
+<strong>/</strong>).</li> 
 </ul>">
 
 <!ENTITY netInterrupt.title "اتصال مختل شد">
@@ -100,7 +99,11 @@
 </ul>">
 
 <!ENTITY unknownSocketType.title "جواب غیرمنتظره از کارگزار">
-<!ENTITY unknownSocketType.longDesc "<ul> <li>مطمئن شوید که «مدیریت امنیت شخصی» (Personal Security Manager) روی رایانهٔ شما نصب شده باشد.</li> <li>این اشکال ممکن است از پیکربندی غیر استاندارد کارگزار باشد.</li> </ul>">
+<!ENTITY unknownSocketType.longDesc "<ul> 
+<li>مطمئن شوید که «مدیریت امنیت شخصی» روی رایانهٔ شما 
+نصب شده باشد.</li> 
+<li>این اشکال ممکن است از پیکربندی غیر استاندارد کارگزار باشد.</li> 
+</ul>">
 
 <!ENTITY nssFailure2.title "برقراری اتصال ایمن شکست خورد">
 <!ENTITY nssFailure2.longDesc2 "<ul>
