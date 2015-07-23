@@ -5,10 +5,7 @@
 <!ENTITY syncKey.page.title               "کلید &syncBrand.fullName.label; شما">
 <!ENTITY syncKey.page.description2        "از این کلید برای رمزگشایی اطلاعات شما در حساب &syncBrand.fullName.label; استفاده میشود. شما هنگامی که میخواهید دستگاه جدیدی وصل کنید، باید این کلید را برای تنظیمات &syncBrand.fullName.label; وارد کنید.">
 <!ENTITY syncKey.keepItSecret.heading     "این کلید را در اختیار دیگران قرار ندهید">
-<!ENTITY syncKey.keepItSecret.description "حساب کاربری &syncBrand.fullName.label; شما برای حفاظت از حریم خصوصی شما به رمز درآمده است. 
-بدون این کلید، سال‌ها طول می‌کشد تا کسی بتواند اطلاعات شخصی شما را رمزگشایی کند. 
-شما تنها شخصی هستید که این کلید را در اختیار دارد. 
-به عبارت دیگر، شما تنها کسی هستید که به اطلاعات &syncBrand.fullName.label; خود دسترسی دارد.">
+<!ENTITY syncKey.keepItSecret.description "حساب کاربری &syncBrand.fullName.label; شما برای حفاظت از حریم خصوصی شما به رمز درآمده است. بدون این کلید، سال‌ها طول می‌کشد تا کسی بتواند اطلاعات شخصی شما را رمزگشایی نماید. شما تنها شخصی هستید که این کلید را در اختیار دارید. به عبارت دیگر، شما تنها کسی هستید که به اطلاعات &syncBrand.fullName.label; خود دسترسی دارید.">
 <!ENTITY syncKey.keepItSafe.heading       "از این کلید محافظت کنید">
 <!ENTITY syncKey.keepItSafe1.description  "نباید این کلید را گم کنید.">
 <!ENTITY syncKey.keepItSafe2.description  " ما کلید شما را در جایی ذخیره نمی‌کنیم (زیرا در غیر این صورت کلید شما تنها در اختیار خودتان قرار نداشت!) ">
