@@ -19,9 +19,9 @@ was trying to connect. -->
 em segurança a <b>#1</b>, mas não podemos confirmar se a sua ligação é segura.">
 
 <!ENTITY certerror.whatShouldIDo.heading "O que devo fazer?">
-<!ENTITY certerror.whatShouldIDo.content "se costuma ligar-se a este sítio 
+<!ENTITY certerror.whatShouldIDo.content "Se, habitualmente, estabelece ligação a este sítio 
 sem problemas, este erro pode significar que alguém está a tentar 
-fazer-se passar pelo sítio, e não deve continuar.">
+fazer-se passar pelo sítio, e você não deve continuar.">
 <!ENTITY certerror.getMeOutOfHere.label "Tirem-me daqui!">
 
 <!ENTITY certerror.expert.heading "Eu compreendo os riscos">

@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY privatebrowsingpage.title "Navegação privada">
-<!ENTITY privatebrowsingpage.title.normal "Você não está em navegação privada">
+<!ENTITY privatebrowsingpage.title.normal "Não está no modo de navegação privada">
 
 <!ENTITY privatebrowsingpage.issueDesc.normal2 "Na navegação privada, os seus dados de navegação não serão guardados.">
 <!ENTITY privatebrowsingpage.issueDesc.private2 "Nós não guardados o seu histórico nem os seus cookies.">
