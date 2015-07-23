@@ -5,6 +5,6 @@
 <!ENTITY aboutApps.title2                          "แอป">
 <!ENTITY aboutApps.header                          "แอปของคุณ">
 
-<!ENTITY aboutApps.browseMarketplace "เปิดดู Firefox Marketplace">
+<!ENTITY aboutApps.browseMarketplace "เรียกดูร้านค้า Firefox">
 <!ENTITY aboutApps.uninstall "ถอนการติดตั้ง">
 <!ENTITY aboutApps.checkForUpdates "ตรวจสอบการปรับปรุง">

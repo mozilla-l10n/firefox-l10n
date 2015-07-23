@@ -73,7 +73,7 @@
 
 
 
-#define bookmarks_marketplace Firefox Marketplace
+#define bookmarks_marketplace ร้านค้า Firefox
 
 
 
