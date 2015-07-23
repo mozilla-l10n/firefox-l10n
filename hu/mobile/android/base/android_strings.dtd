@@ -44,6 +44,9 @@
 <!ENTITY bookmark "Könyvjelző">
 <!ENTITY bookmark_remove "Könyvjelző eltávolítása">
 <!ENTITY bookmark_added "Könyvjelző hozzáadva">
+<!-- Localization note (bookmark_already_added) : This string is
+     used as a label in a toast. It is the verb "to bookmark", not
+     the noun "a bookmark". -->
 <!ENTITY bookmark_removed "Könyvjelző törölve">
 <!ENTITY bookmark_updated "Könyvjelző frissítve">
 <!ENTITY bookmark_options "Beállítások">
@@ -77,6 +80,7 @@
 
 <!ENTITY settings "Beállítások">
 <!ENTITY settings_title "Beállítások">
+
 <!ENTITY pref_category_advanced "Speciális">
 <!ENTITY pref_category_customize "Testreszabás">
 <!ENTITY pref_category_customize_summary "Kezdőlap, keresés, lapok, importálás">
@@ -104,7 +108,7 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "Könyvjelzőzés">
 <!ENTITY overlay_share_reading_list_btn_label "Olvasási listához adás">
-<!ENTITY overlay_share_bookmark_btn_label_already "Már könyvjelzőzve">
+
 <!ENTITY overlay_share_reading_list_btn_label_already "Már az olvasási listán van">
 <!ENTITY overlay_share_send_other "Küldés más eszközökre">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -132,7 +136,7 @@
 <!ENTITY pref_category_display "Megjelenítés">
 <!ENTITY pref_category_display_summary "Szöveg, címsáv, teljes képernyős böngészés">
 <!ENTITY pref_category_privacy_short "Adatvédelem">
-<!ENTITY pref_category_privacy_summary "Jelszavak, sütik, követési adatok felügyelete">
+
 <!ENTITY pref_category_vendor "&vendorShortName;nak,">
 <!ENTITY pref_category_vendor_summary "A &brandShortName; névjegye, GyIK, adatküldések">
 <!ENTITY pref_category_datareporting "Adatküldések">
@@ -151,7 +155,9 @@
 <!ENTITY pref_category_devtools "Fejlesztői eszközök">
 <!ENTITY pref_developer_remotedebugging "Távoli hibakeresés">
 <!ENTITY pref_category_logins "Bejelentkezések">
-<!ENTITY pref_remember_signons "Jelszavak megjegyzése">
+
+
+
 <!ENTITY pref_manage_logins "Bejelentkezések kezelése">
 
 <!ENTITY pref_category_home "Home">
@@ -189,10 +195,9 @@
 <!ENTITY pref_donottrack_title "Ne kövessenek">
 <!ENTITY pref_donottrack_summary "A &brandShortName; közli a webhelyekkel, hogy Ön nem szeretné, ha követnék">
 
-<!ENTITY tab_queue_toast_message2 "Lap sorba állítva a &brandShortName;ban">
 <!ENTITY tab_queue_toast_action "Megnyitás most">
 <!ENTITY tab_queue_prompt_title "Megnyit több hivatkozást?">
-<!ENTITY tab_queue_prompt_text2 "Nyissa meg ezeket a &brandShortName;ra váltás nélkül.">
+
 <!ENTITY tab_queue_prompt_tip_text "ezt később a Beállításokban módosíthatja">
 <!ENTITY tab_queue_prompt_positive_action_button "Engedélyezés">
 <!ENTITY tab_queue_prompt_negative_action_button "Most nem">
@@ -245,9 +250,13 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "Nagyítás engedélyezése mindig">
 <!ENTITY pref_zoom_force_enabled_summary "Felülbírálás kényszerítése, hogy bármely oldalt nagyíthasson">
 
+
+
+
+
 <!ENTITY pref_use_master_password "Mesterjelszó használata">
 <!ENTITY pref_sync "Sync">
-<!ENTITY pref_sync_summary "Lapok, könyvjelzők, jelszavak, előzmények szinkronizálása">
+
 <!ENTITY pref_search_suggestions "Keresési javaslatok">
 <!ENTITY pref_import_android "Importálás Androidról">
 <!ENTITY pref_import_android_summary "Könyvjelzők és előzmények importálása a natív böngészőből">
@@ -255,11 +264,12 @@ size. -->
 <!ENTITY pref_private_data_searchHistory "Keresés előzményei">
 <!ENTITY pref_private_data_formdata2 "Űrlapok előzményei">
 <!ENTITY pref_private_data_cookies2 "Sütik és aktív bejelentkezések">
-<!ENTITY pref_private_data_passwords "Mentett jelszavak">
+
 <!ENTITY pref_private_data_cache "Gyorsítótár">
 <!ENTITY pref_private_data_offlineApps "Kapcsolat nélküli webhelyadatok">
 <!ENTITY pref_private_data_siteSettings2 "Oldalbeállítások">
 <!ENTITY pref_private_data_downloadFiles2 "Letöltések">
+
 
 
 <!ENTITY pref_about_firefox "A &brandShortName; névjegye">
@@ -380,6 +390,11 @@ size. -->
 <!ENTITY doorhanger_login_edit_toggle "Jelszó megjelenítése">
 <!ENTITY doorhanger_login_edit_toast_error "A bejelentkezés mentése sikertelen">
 
+
+
+
+
+
 <!ENTITY pref_titlebar_mode "Címsor">
 <!ENTITY pref_titlebar_mode_title "Oldalcím megjelenítése">
 <!ENTITY pref_titlebar_mode_url "Oldal webcímének megjelenítése ">
@@ -390,7 +405,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "A &brandShortName; címsorának elrejtése oldal legörgetésekor">
 
 <!ENTITY pref_tab_queue_title2 "Több hivatkozás megnyitása">
-<!ENTITY pref_tab_queue_summary2 "Hivatkozások sorba állítása későbbre a &brandShortName;ra váltás helyett">
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -408,8 +423,8 @@ size. -->
 <!ENTITY site_settings_cancel       "Mégse">
 <!ENTITY site_settings_clear        "Törlés">
 <!ENTITY site_settings_no_settings  "Nincsenek törölhető beállítások.">
-
-<!ENTITY reading_list_added "Az oldal hozzáadva az olvasási listához">
+<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+     as possible. -->
 <!ENTITY reading_list_removed "Az oldal eltávolítva az olvasási listából">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -438,7 +453,7 @@ size. -->
 <!ENTITY button_clear_data "Adatok törlése">
 <!ENTITY button_set "Beállítás">
 <!ENTITY button_clear "Törlés">
-<!ENTITY button_remember "Megjegyzés">
+<!ENTITY button_copy "Másolás">
 
 <!ENTITY firstrun_panel_title_welcome "Üdvözöljük">
 
@@ -502,10 +517,6 @@ size. -->
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Kijelölt eszközök megjelenítése">
 
-<!ENTITY private_browsing_title "Privát böngészés">
-<!ENTITY private_tabs_panel_empty_desc "A privát lapok itt jelennek meg. Noha nem tároljuk a böngészési előzményeket vagy a sütiket, a könyvjelzők és letöltött fájlok továbbra is mentésre kerülnek a készülékre.">
-<!ENTITY private_tabs_panel_learn_more "Szeretne többet tudni?">
-
 <!ENTITY remote_tabs_panel_moved_title "Hová tűntek a lapok?">
 <!ENTITY remote_tabs_panel_moved_desc "A más készülékekről származó lapokat a kezdőlap egy paneljére mozgattuk, amely új lap megnyitásakor mindig egyszerűen elérhető.">
 <!ENTITY remote_tabs_panel_moved_link "Látni szeretném az új panelt.">
@@ -533,6 +544,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "Működtetője:">
 <!ENTITY identity_no_info "Ez a webhely nem ad meg azonosító információkat.">
 <!ENTITY identity_not_encrypted "A kapcsolat a webhelyhez nem titkosított.">
+<!ENTITY identity_encrypted "Titkosított">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "Ez az oldal nem biztonságos tartalmat jelenít meg.">
@@ -599,7 +611,7 @@ Androidról">
 <!ENTITY guest_session_dialog_continue "Folytatás">
 <!ENTITY guest_session_dialog_cancel "Mégse">
 <!ENTITY new_guest_session_title "A &brandShortName; most újraindul">
-<!ENTITY new_guest_session_text "Az ezt használók nem fogják látni az Ön személyes böngészési adatait (mentett jelszavakat, előzményeket vagy könyvjelzőket).\n\nAmikor a vendég végzett, a böngészési adatai törlésre kerülnek, és az Ön munkamenete visszaállításra kerül.">
+
 <!ENTITY guest_browsing_notification_title "A vendég böngészés bekapcsolva">
 <!ENTITY guest_browsing_notification_text "Koppintson a kilépéshez">
 
@@ -648,3 +660,4 @@ Androidról">
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
 
 <!ENTITY find_matchcase "Aa">
+

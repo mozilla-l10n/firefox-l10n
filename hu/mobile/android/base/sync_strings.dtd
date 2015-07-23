@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label "Szinkronizálandó elemek">
 <!ENTITY sync.configure.engines.sync.my.title.label "Szinkronizálandó…">
 <!ENTITY sync.configure.engines.title.bookmarks "Könyvjelzők">
-<!ENTITY sync.configure.engines.title.passwords "Jelszavak">
+
 <!ENTITY sync.configure.engines.title.history "Előzmények">
 <!ENTITY sync.configure.engines.title.tabs "Lapok">
 <!-- Common text -->
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "Adatvédelmi megjegyzéseit">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Üdvözli a &syncBrand.shortName.label;">
-<!ENTITY fxaccount_getting_started_description "Jelentkezzen be lapjai, könyvjelzői, jelszavai és sok más szinkronizálásához.">
+
 <!ENTITY fxaccount_getting_started_get_started "Kezdeti lépések">
 <!ENTITY fxaccount_getting_started_old_firefox "A &syncBrand.shortName.label; régebbi verzióját használja?">
 <!-- Localization note: the Firefox below should not change with the
@@ -212,7 +212,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating "Koppintson a bejelentkezéshez az új Firefox fiókjába.">
 <!ENTITY fxaccount_status_bookmarks "Könyvjelzők">
 <!ENTITY fxaccount_status_history "Előzmények">
-<!ENTITY fxaccount_status_passwords "Jelszavak">
+
 <!ENTITY fxaccount_status_tabs "Nyitott lapok">
 <!ENTITY fxaccount_status_legal "Legális" >
 <!-- Localization note: when tapped, the following two strings link to
