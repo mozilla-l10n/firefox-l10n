@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label "Zer sinkronizatu">
 <!ENTITY sync.configure.engines.sync.my.title.label "Sinkronizatu zure…">
 <!ENTITY sync.configure.engines.title.bookmarks "Laster-markak">
-<!ENTITY sync.configure.engines.title.passwords "Pasahitzak">
+<!ENTITY sync.configure.engines.title.passwords2 "Saio-hasierak">
 <!ENTITY sync.configure.engines.title.history "Historia">
 <!ENTITY sync.configure.engines.title.tabs "Etiketak">
 <!-- Common text -->
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "Pribatutasun-oharra">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Ongi etorri &syncBrand.shortName.label;(e)ra">
-<!ENTITY fxaccount_getting_started_description "Hasi saioa zure fitxak, laster-markak, pasahitzak eta gehiago sinkronizatzeko.">
+<!ENTITY fxaccount_getting_started_description2 "Hasi saioa zure fitxak, laster-markak, saio-hasierak eta gehiago sinkronizatzeko.">
 <!ENTITY fxaccount_getting_started_get_started "Hasi erabiltzen">
 <!ENTITY fxaccount_getting_started_old_firefox "&syncBrand.shortName.label;(e)n bertsio zaharrago bat darabilzu?">
 <!-- Localization note: the Firefox below should not change with the
@@ -212,7 +212,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating "Sakatu zure Firefoxeko kontu berrian saioa hasteko.">
 <!ENTITY fxaccount_status_bookmarks "Laster-markak">
 <!ENTITY fxaccount_status_history "Historia">
-<!ENTITY fxaccount_status_passwords "Pasahitzak">
+<!ENTITY fxaccount_status_passwords2 "Saio-hasierak">
 <!ENTITY fxaccount_status_tabs "Irekitako fitxak">
 <!ENTITY fxaccount_status_legal "Legala" >
 <!-- Localization note: when tapped, the following two strings link to

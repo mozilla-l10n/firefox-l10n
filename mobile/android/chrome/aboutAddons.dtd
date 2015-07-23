@@ -10,3 +10,6 @@
 <!ENTITY addonAction.disable                    "Desgaitu">
 <!ENTITY addonAction.uninstall                  "Desinstalatu">
 <!ENTITY addonAction.undo                       "Desegin">
+
+<!ENTITY addonUnsigned.message                  "&brandShortName;(e)k ezin izan du gehigarri hau egiaztatu.">
+<!ENTITY addonUnsigned.learnMore                "Argibide gehiago">

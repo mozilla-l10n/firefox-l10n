@@ -2,12 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                  "Nabigatze pribatua">
+<!ENTITY privatebrowsingpage.title "Nabigatze pribatua">
+<!ENTITY privatebrowsingpage.title.normal "Ez zaude nabigatze pribatuan">
 
-<!ENTITY privatebrowsingpage.issueDesc.private      "Fitxa pribatu berria ireki duzu.">
-<!ENTITY privatebrowsingpage.issueDesc.normal       "Ez zaude fitxa pribatuan.">
+<!ENTITY privatebrowsingpage.issueDesc.normal2 "Nabigatze pribatuan, ez dugu zure nabigatze-historia edo cookie-rik gordeko.">
+<!ENTITY privatebrowsingpage.issueDesc.private2 "Ez dugu zure nabigatze-historia edo cookie-rik gordeko.">
 
-<!ENTITY privatebrowsingpage.description            "Fitxa pribatuetan, &brandShortName;(e)k ez du gordeko nabigazioaren, bilaketen, deskargen eta inprimakien historiarik edo cookie edo bestelako behin-behineko fitxategirik. Hala ere, deskargatutako fitxategiak eta laster-markak mantendu egingo dira.">
-<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+<!ENTITY privatebrowsingpage.description2 "Gehitzen dituzun laster-markak eta deskargatzen dituzun fitxategiak gailuan gordeko dira halere.">
+<!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
+<!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
 
-<!ENTITY privatebrowsingpage.moreInfo               "Gailu honetan zure nabigatze-historia gordeko ez bada ere, zure Interneteko zerbitzu-hornitzaileak bisitatzen dituzun orrien jarraipena egin lezake.">
+<!ENTITY privatebrowsingpage.link.private "Argibide gehiago nahi dituzu?">
+<!ENTITY privatebrowsingpage.link.normal "Ireki fitxa pribatu berria">
