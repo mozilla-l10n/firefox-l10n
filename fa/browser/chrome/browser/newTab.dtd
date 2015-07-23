@@ -4,8 +4,8 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "زبانهٔ جدید">
-
-
+<!ENTITY newtab.customize.classic "نمایش سایت‌های پربازدید شما">
+<!ENTITY newtab.customize.cog.enhanced "دربرگرفتن سایت‌های پیشنهاد شده">
 
 
 <!ENTITY newtab.customize.title "سفارشی کردن صفحه جدید تب دارتان">
