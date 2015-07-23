@@ -21,7 +21,7 @@
 <!ENTITY privatedata.label "Dados privados">
 <!ENTITY cookies.label "Cookies">
 <!ENTITY images.label "Imagens">
-<!ENTITY popups.label "Janelas emergentes">
+<!ENTITY popups.label "Janelas pop-up">
 <!ENTITY passwords.label "Palavras-passe">
 <!ENTITY masterpass.label "Palavras-passe mestras">
 <!ENTITY ssl.label "SSL">

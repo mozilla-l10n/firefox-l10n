@@ -180,8 +180,8 @@
 <!ENTITY msgsMenu.accesskey "M">
 <!ENTITY threads.label "Tópicos">
 <!ENTITY threads.accesskey "p">
-<!ENTITY allMsgsCmd.label "Todos">
-<!ENTITY allMsgsCmd.accesskey "T">
+<!ENTITY allMsgsCmd.label "Todas">
+<!ENTITY allMsgsCmd.accesskey "a">
 <!ENTITY expandAllThreadsCmd.label "Expandir tudo">
 <!ENTITY expandAllThreadsCmd.accesskey "d">
 <!ENTITY expandAllThreadsCmd.key "*">
@@ -446,8 +446,10 @@
 <!ENTITY notJunkButton.tooltip "Marcar mensagens selecionadas como não sendo lixo">
 <!-- Remote Content Button Popup -->
 
-
-
+<!ENTITY remoteContentOptionsAllowForMsg.label "Mostrar conteúdo remoto desta mensagem">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "s">
+<!ENTITY editRemoteContentSettings.label "Editar permissões para conteúdo remoto…">
+<!ENTITY editRemoteContentSettings.accesskey "E">
 <!-- Statusbar -->
 
 <!ENTITY  statusText.label "Terminado">
@@ -531,5 +533,5 @@
 <!ENTITY searchButton.label "Pesquisar mensagens…">
 <!ENTITY searchButton.accesskey "s">
 
-<!ENTITY all.label "Todos">
+<!ENTITY all.label "Todas">
 <!ENTITY all.accesskey "T">

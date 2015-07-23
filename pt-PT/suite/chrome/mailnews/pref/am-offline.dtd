@@ -23,7 +23,7 @@
 <!ENTITY retentionCleanupPop.label "Para ganhar espaço em disco, as mensagens antigas podem ser permanentemente eliminadas, incluindo os originais no servidor remoto.">
 <!ENTITY retentionKeepMsg.label "Eliminar mensagens com mais de">
 <!ENTITY retentionKeepMsg.accesskey "m">
-<!ENTITY retentionKeepAll.label "Não apagar nenhuma mensagem">
+<!ENTITY retentionKeepAll.label "Não apagar quaisquer mensagens">
 <!ENTITY retentionKeepAll.accesskey "g">
 <!ENTITY retentionKeepRecent.label "Eliminar todas menos as mais recentes">
 <!ENTITY retentionKeepRecent.accesskey "r">

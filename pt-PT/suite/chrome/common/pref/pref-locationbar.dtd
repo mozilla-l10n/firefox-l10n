@@ -6,10 +6,10 @@
 <!ENTITY pref.locationBar.title                "Barra de localização">
 
 <!ENTITY autoComplete.label                    "Conclusão automática">
-
-
-
-
+<!ENTITY autoCompleteMatchHistory.label        "Sugerir automaticamente sítios web do Histórico">
+<!ENTITY autoCompleteMatchHistory.accesskey    "a">
+<!ENTITY autoCompleteMatchBookmarks.label      "Sugerir automaticamente sítios web dos Marcadores">
+<!ENTITY autoCompleteMatchBookmarks.accesskey  "M">
 <!ENTITY autoCompleteAutoFill.label            "Conclusão automática com a melhor opção">
 <!ENTITY autoCompleteAutoFill.accesskey        "u">
 <!ENTITY autoCompleteShowPopup.label           "Mostrar lista com os resultados">
@@ -26,7 +26,7 @@
 <!ENTITY autoCompleteMatchWordsFirst           "Em qualquer lado mas preferencialmente nos limites da palavra">
 <!ENTITY autoCompleteMatchWords                "Apenas nos limites da palavra">
 <!ENTITY autoCompleteMatchStart                "Apenas no início da localização ou título">
-<!ENTITY showInternetSearch.label              "Mostrar motor de pesquisa pré-definido">
+<!ENTITY showInternetSearch.label              "Mostrar motor de pesquisa predefinido">
 <!ENTITY showInternetSearch.accesskey          "e">
 
 <!ENTITY formatting.label                      "Formatação">

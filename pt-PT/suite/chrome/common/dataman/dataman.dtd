@@ -36,7 +36,7 @@
 
 <!ENTITY cookies.description "Este domínio guardou os seguintes cookies no seu computador:">
 
-<!ENTITY cookies.tree.host.label "Sítio web">
+<!ENTITY cookies.tree.host.label "Site">
 <!ENTITY cookies.tree.name.label "Nome do cookie">
 <!ENTITY cookies.tree.expires.label "Expira em">
 
@@ -77,7 +77,7 @@
 
 <!ENTITY prefs.description "As preferências de conteúdo são uma forma do &brandShortName; guardar as suas definições, como os níveis de ampliação, para um determinado sítio web.">
 
-<!ENTITY prefs.tree.host.label "Sítio web">
+<!ENTITY prefs.tree.host.label "Site">
 <!ENTITY prefs.tree.name.label "Nome da preferência">
 <!ENTITY prefs.tree.value.label "Valor">
 
@@ -92,7 +92,7 @@
 
 <!ENTITY pwd.description "Tem as seguintes palavras-passe guardadas para este domínio:">
 
-<!ENTITY pwd.tree.host.label "Sítio web">
+<!ENTITY pwd.tree.host.label "Site">
 <!ENTITY pwd.tree.username.label "Nome de utilizador">
 <!ENTITY pwd.tree.password.label "Palavra-passe">
 
@@ -109,7 +109,7 @@
 
 <!ENTITY storage.description "Este domínio utiliza os seguintes armazenamentos web no seu computador:">
 
-<!ENTITY storage.tree.host.label "Sítio web">
+<!ENTITY storage.tree.host.label "Site">
 <!ENTITY storage.tree.type.label "Tipo">
 <!ENTITY storage.tree.size.label "Tamanho">
 

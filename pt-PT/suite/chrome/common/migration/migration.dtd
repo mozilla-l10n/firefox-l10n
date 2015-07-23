@@ -4,7 +4,7 @@
 
 <!ENTITY migrationWizard.title           "Assistente de importação">
 
-<!ENTITY importAllFrom.label             "Importar todos os itens de:">
+<!ENTITY importAllFrom.label             "Importar todos os elementos de:">
 <!ENTITY importBookmarksFrom.label       "Importar marcadores de:">
 
 <!ENTITY importFromThunderbird.label     "Thunderbird">
@@ -15,7 +15,7 @@
 <!ENTITY importFromNothing.accesskey     "N">
 
 <!ENTITY importSource.title              "Importar definições e dados">
-<!ENTITY importItems.title               "Itens a importar">
+<!ENTITY importItems.title               "Elementos a importar">
 <!ENTITY importItems.label               "Selecione os itens a importar:">
 
 <!ENTITY selectProfile.title             "Selecionar perfil">

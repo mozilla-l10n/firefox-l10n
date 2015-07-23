@@ -32,7 +32,7 @@
 <!ENTITY return.accesskey                  "r">
 <!ENTITY results.label                     "resultados">
 <!ENTITY offlineText.label                 "Pode descarregar uma cópia deste diretório para que fique disponível no modo offline.">
-<!ENTITY saslMechanism.label               "Método de início de sessão: ">
+<!ENTITY saslMechanism.label               "Método de acesso: ">
 <!ENTITY saslMechanism.accesskey           "M">
 <!ENTITY saslOff.label                     "Simples">
 <!ENTITY saslOff.accesskey     "l">

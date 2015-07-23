@@ -7,7 +7,7 @@
 <!ENTITY addOnsTitle.label                    "Extras">
 <!ENTITY addOnsAllow.label                    "Permitir sítios web de instalar atualizações de extras">
 <!ENTITY addOnsAllow.accesskey                "b">
-<!ENTITY allowedSitesLink.label               "Sítios web permitidos">
+<!ENTITY allowedSitesLink.label               "Sites autorizados">
 <!ENTITY autoAddOnsUpdates.label              "Procurar atualizações automaticamente">
 <!ENTITY autoAddOnsUpdates.accesskey          "o">
 <!ENTITY daily.label                          "diariamente">

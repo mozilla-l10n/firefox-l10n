@@ -41,10 +41,10 @@
 <!ENTITY useDefault.label               "Restaurar pré-definições">
 <!ENTITY useDefault.accesskey           "R">
 
-<!ENTITY defaultBrowserGroup.label      "Navegador pré-definido">
-<!ENTITY defaultBrowserButton.label     "Utilizar como navegador pré-definido">
-<!ENTITY defaultBrowserButton.accesskey "d">
-<!ENTITY alreadyDefaultText             "O &brandShortName; já é o seu navegador pré-definido.">
-<!ENTITY defaultPendingText             "O &brandShortName; irá passar a ser o seu navegador pré-definido quando clicar em OK.">
-<!ENTITY wasMadeDefaultText             "&brandShortName; foi definido como o seu navegador pré-definido.">
-<!ENTITY makeDefaultText                "Tornar o &brandShortName; o seu navegador pré-definido.">
+<!ENTITY defaultBrowserGroup.label      "Navegador predefinido">
+<!ENTITY defaultBrowserButton.label     "Definir como navegador predefinido">
+<!ENTITY defaultBrowserButton.accesskey "D">
+<!ENTITY alreadyDefaultText             "O &brandShortName; já é o seu navegador predefinido.">
+<!ENTITY defaultPendingText             "O &brandShortName; passará a ser o seu navegador predefinido quando clicar em OK.">
+<!ENTITY wasMadeDefaultText             "O &brandShortName; passou a ser o seu navegador predefinido.">
+<!ENTITY makeDefaultText                "Torne o &brandShortName; no seu navegador predefinido.">

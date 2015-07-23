@@ -8,11 +8,11 @@
 <!ENTITY tracking.label                   "Monitorização do utilizador">
 <!ENTITY trackingIntro.label              "Os sítios web podem monitorizá-lo quando os utilizar, afetando assim a sua privacidade.">
 
-<!ENTITY doNotTrack.label                 "Informar os sítios web que não quero ser rastreado">
+<!ENTITY doNotTrack.label                 "Informar os sítios web que não quero ser monitorizado">
 <!ENTITY doNotTrack.accesskey             "t">
-<!ENTITY trackProtect.label               "Impedir rastreio por parte de sítios conhecidos">
+<!ENTITY trackProtect.label               "Impedir monitorização por parte de sítios conhecidos">
 <!ENTITY trackProtect.accesskey           "n">
-<!ENTITY warnTrackContent.label           "Avisar-me se forem detetadas atividades de rastreio">
+<!ENTITY warnTrackContent.label           "Avisar-me se forem detetadas atividades de monitorização">
 <!ENTITY warnTrackContent.accesskey       "A">
 
 <!ENTITY geoLocation.label                "Navegação com informação de localização">

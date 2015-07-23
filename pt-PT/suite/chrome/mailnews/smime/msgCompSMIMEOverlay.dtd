@@ -7,8 +7,8 @@
 <!ENTITY menu_securityEncryptRequire.label "Encriptar esta Mensagem">
 <!ENTITY menu_securityEncryptRequire.accesskey "E">
 
-<!ENTITY menu_securitySign.label "Assinar Digitalmente esta Mensagem">
-<!ENTITY menu_securitySign.accesskey "s">
+<!ENTITY menu_securitySign.label "Assinar digitalmente esta mensagem">
+<!ENTITY menu_securitySign.accesskey "m">
 
 <!ENTITY menu_securityStatus.label "Ver Informação sobra a Segurança">
 <!ENTITY menu_securityStatus.accesskey "I">

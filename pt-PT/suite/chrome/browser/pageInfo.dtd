@@ -91,7 +91,7 @@
 <!ENTITY  permBlock             "Bloquear">
 <!ENTITY  permissionsFor        "Permissões para:">
 <!ENTITY  permImage             "Carregar imagens">
-<!ENTITY  permPopup             "Abrir janelas emergentes">
+<!ENTITY  permPopup             "Abrir janelas pop-up">
 <!ENTITY  permCookie            "Definir cookies">
 <!ENTITY  permNotifications     "Mostrar notificações">
 <!ENTITY  permInstall           "Instalar extensões ou temas">
@@ -107,7 +107,7 @@
 
 <!ENTITY  securityView.identity.header   "Identidade do sítio web">
 <!ENTITY  securityView.identity.owner    "Proprietário:">
-<!ENTITY  securityView.identity.domain   "Sítio web:">
+<!ENTITY  securityView.identity.domain   "Site:">
 <!ENTITY  securityView.identity.verifier "Verificado por:">
 
 <!ENTITY  securityView.privacy.header                   "Privacidade e histórico">

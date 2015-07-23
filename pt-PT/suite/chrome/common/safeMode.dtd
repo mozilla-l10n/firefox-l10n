@@ -20,7 +20,7 @@
 <!ENTITY resetUserPrefs.label         "Repor todas as preferências para as pré-definições do &brandShortName;">
 <!ENTITY resetUserPrefs.accesskey     "p">
 
-<!ENTITY restoreSearch.label          "Restaurar mecanismos de pesquisa pré-definidos">
+<!ENTITY restoreSearch.label          "Restaurar motores de pesquisa predefinidos">
 <!ENTITY restoreSearch.accesskey      "s">
 
 <!ENTITY changeAndRestartButton.label "Aplicar alterações e reiniciar">

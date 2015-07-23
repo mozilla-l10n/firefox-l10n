@@ -6,6 +6,6 @@
 <!ENTITY totalColumn.label "Total"> 
 <!ENTITY folderSizeColumn.label "Tamanho"> 
 <!ENTITY folderLocationToolbarItem.title "Localização da pasta">
-<!ENTITY mailViewsToolbarItem.title "Vistas do correio">
+<!ENTITY mailViewsToolbarItem.title "Visão do correio">
 <!ENTITY searchToolbarItem.title "Pesquisar">
 <!ENTITY searchSubjectOrAddress.placeholder "Pesquisar assunto ou endereço">

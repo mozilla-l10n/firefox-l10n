@@ -66,13 +66,13 @@
 <!ENTITY bookmarksButton.label        "Marcadores">
 <!ENTITY bookmarksButton.tooltip      "Lista de marcadores">
 <!ENTITY homeButton.label             "Página inicial">
-<!ENTITY bookmarksToolbarItem.label   "Itens da barra de marcadores">
+<!ENTITY bookmarksToolbarItem.label   "Elementos da barra de marcadores">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostrar mais marcadores">
 <!-- Statusbar -->
 
 <!ENTITY  statusText.label            "Feito">
 
-<!ENTITY popupIcon.tooltiptext      "Desbloquear janelas emergentes deste sítio web">
+<!ENTITY popupIcon.tooltiptext      "Desbloquear janelas pop-up deste site">
 
 <!ENTITY viewSecurityInfo.label      "Ver informação de segurança">
 <!ENTITY viewSecurityInfo.accesskey  "s">

@@ -7,7 +7,7 @@
 
 
 <!ENTITY pref.search.title                "Pesquisa na Internet">
-<!ENTITY legendHeader                     "Motor de pesquisa pré-definido">
+<!ENTITY legendHeader                     "Motor de pesquisa predefinido">
 <!ENTITY defaultSearchEngine.label        "Pesquisar com:">
 <!ENTITY defaultSearchEngine.accesskey    "s">
 
