@@ -29,7 +29,7 @@
 <!ENTITY retentionKeepRecent.accesskey "i">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
 <!ENTITY retentionKeepUnreadHidden.label "Dileu pob neges wedi'i ddarllen (yn drech na gosodiadau oed)">
-<!ENTITY retentionApplyToFlagged.label "Cadw pob tro negeseuon serennog">
+<!ENTITY retentionApplyToFlagged.label "Cadw negeseuon serennog bob amser">
 <!ENTITY retentionApplyToFlagged.accesskey "s">
 <!ENTITY nntpRemoveMsgBody.label "Tynnu corff neges mwy na">
 <!ENTITY nntpRemoveMsgBody.accesskey "c">

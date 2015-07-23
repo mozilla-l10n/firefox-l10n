@@ -8,7 +8,7 @@
 <!ENTITY itemAntiVirus.label     "Gwrth Firws">
 <!-- Junk Mail Controls -->
 
-<!ENTITY junkMail.intro "Gosodwch eich gosodiadau sbam rhagosodedig. Mae modd ffurfweddu gosodiadau penodol ar gyfer sbam yn Gosodiadau Cyfrif.">
+<!ENTITY junkMail.intro "Yma gallwch osod eich gosodiadau sbam rhagosodedig. Mae modd ffurfweddu gosodiadau penodol ar gyfer sbam yn Gosodiadau Cyfrif.">
 <!ENTITY manualMark.label "Pan fyddai'n marcio negeseuon fel sbam:">
 <!ENTITY manualMark.accesskey "P">
 <!ENTITY manualMarkModeMove.label "Eu symud i ffolder &quot;Sbam&quot; y cyfrif">

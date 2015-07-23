@@ -31,7 +31,7 @@
 <!ENTITY community.start2           "Cynlluniwyd &brandShortName; gan ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
-<!ENTITY community.middle2          ", a ">
+<!ENTITY community.middle2          ",  ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "cymuned fyd-eang">
 <!ENTITY community.end3             " sy'n cydweithio i gadw'r We yn agored, cyhoeddus ac ar gael i bawb.">

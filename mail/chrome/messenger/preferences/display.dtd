@@ -62,7 +62,7 @@
 <!ENTITY markAsReadDelay.label            "Ar ôl dangos am">
 <!ENTITY markAsReadDelay.accesskey        "d">
 <!ENTITY secondsLabel.label               "eiliad">
-<!ENTITY openMsgIn.label                  "Agor neges yn:">
+<!ENTITY openMsgIn.label                  "Agor neges mewn:">
 <!ENTITY openMsgInNewTab.label            "Tab newydd">
 <!ENTITY openMsgInNewTab.accesskey        "T">
 <!ENTITY reuseExpRadio0.label             "Ffenestr neges newydd">
