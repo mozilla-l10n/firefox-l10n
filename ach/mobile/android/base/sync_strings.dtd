@@ -60,7 +60,7 @@
 <!-- Configure Engines -->
 
 <!ENTITY sync.configure.engines.title.bookmarks "Alama buk">
-<!ENTITY sync.configure.engines.title.passwords "Mung me donyo">
+
 <!ENTITY sync.configure.engines.title.history "Gin mukato">
 
 <!-- Common text -->

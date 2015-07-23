@@ -42,6 +42,9 @@
 <!ENTITY bookmark "Alama buk">
 
 <!ENTITY bookmark_added "Kimedo Alama me buk">
+<!-- Localization note (bookmark_already_added) : This string is
+     used as a label in a toast. It is the verb "to bookmark", not
+     the noun "a bookmark". -->
 <!ENTITY bookmark_removed "Kikwanyo woko Alama me buk">
 <!ENTITY bookmark_updated "Kimedo Alama me buk">
 <!ENTITY bookmark_options "Me ayera">
@@ -72,6 +75,7 @@
      is upper-case, to match Google and Android's convention. -->
 
 <!ENTITY settings "Tero">
+
 
 
 
@@ -138,7 +142,9 @@
 
 
 
-<!ENTITY pref_remember_signons "Poyo I cwil me donyo">
+
+
+
 
 
 
@@ -222,6 +228,10 @@ size. -->
 
 
 
+
+
+
+
 <!ENTITY pref_use_master_password "Tii ki i cwil me donyo ma dit">
 <!ENTITY pref_sync "Sync">
 
@@ -235,6 +245,7 @@ size. -->
 
 <!ENTITY pref_private_data_cache "Kagwoko">
 <!ENTITY pref_private_data_offlineApps "Coc kakube me web ma pe iwi yamo">
+
 
 
 
@@ -344,6 +355,11 @@ size. -->
 
 
 
+
+
+
+
+
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -364,8 +380,8 @@ size. -->
 
 
 <!ENTITY site_settings_no_settings  "Ter mo peke me ajwa.">
-
-<!ENTITY reading_list_added "Kimedo woko pot buk ii Nying jami me Akwan mamegi">
+<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+     as possible. -->
 <!ENTITY reading_list_removed "Kikwanyo woko pot nuk ki Nying jami me akwani ni">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -389,7 +405,7 @@ size. -->
 <!ENTITY button_clear_data "Ywe tic">
 
 
-<!ENTITY button_remember "Poyo">
+<!ENTITY button_copy "Lok">
 
 
 <!ENTITY home_top_sites_title "Kakube maloyo">
@@ -437,10 +453,6 @@ size. -->
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 
-<!ENTITY private_browsing_title "Yeny pa ma megi">
-
-
-
 
 
 
@@ -465,6 +477,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "En aye tiyo kwede">
 <!ENTITY identity_no_info "Kakube man me Web pe poko ngec me tikitiki.">
 <!ENTITY identity_not_encrypted "Kube mamegi i di bar man me Web pe otyeko coyo alama ne.">
+<!ENTITY identity_encrypted "Ki cono">
 <!-- Mixed content notifications in site identity popup -->
 
 
@@ -552,3 +565,4 @@ ki Android">
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
+
