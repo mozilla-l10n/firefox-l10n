@@ -3,12 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY privatebrowsingpage.title "निजी ब्राउज़िंग">
+<!ENTITY privatebrowsingpage.title.normal "आप निजी ब्राउज़िंग में नहीं हैं">
 
+<!ENTITY privatebrowsingpage.issueDesc.normal2 "निजी ब्राउज़िंग में, हम आपके किसी भी ब्राउज़िंग इतिहास या कूकीज को नही रख पायेंगे.">
+<!ENTITY privatebrowsingpage.issueDesc.private2 "हम आपके किसी भी ब्राउज़िंग इतिहास या कूकीज को नही रख पायेंगे.">
 
-
-
+<!ENTITY privatebrowsingpage.description2 "बुकमार्क्स आप जोड़ते हैं और फाइल्स आप डाउनलोड करते है आपके डिवाइस में ही सहेजी जाएगी.">
 <!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
 <!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
 
 <!ENTITY privatebrowsingpage.link.private "अधिक जानना चाहते है?">
-
+<!ENTITY privatebrowsingpage.link.normal "एक नया निजी टैब खोलें">
