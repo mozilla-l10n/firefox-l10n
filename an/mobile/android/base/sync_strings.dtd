@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label "Qué cosas sincronizar?">
 <!ENTITY sync.configure.engines.sync.my.title.label "Sincronizar os suyos…">
 <!ENTITY sync.configure.engines.title.bookmarks "Marcapachinas">
-<!ENTITY sync.configure.engines.title.passwords "Claus">
+
 <!ENTITY sync.configure.engines.title.history "Historial">
 <!ENTITY sync.configure.engines.title.tabs "Pestanyas">
 <!-- Common text -->
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "Nota sobre privacidat">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Bienveniu ta &syncBrand.shortName.label;">
-<!ENTITY fxaccount_getting_started_description "Encete sesión ta sincronizar as suyas pestanyas, marcadors, claus de paso y más.">
+
 <!ENTITY fxaccount_getting_started_get_started "Empecipiar">
 <!ENTITY fxaccount_getting_started_old_firefox "Fa servir una versión antiga de &syncBrand.shortName.label;?">
 <!-- Localization note: the Firefox below should not change with the
@@ -212,7 +212,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating "Toca ta dentrar con a tuya nueva cuenta de Firefox.">
 <!ENTITY fxaccount_status_bookmarks "Marcapachinas">
 <!ENTITY fxaccount_status_history "Historial">
-<!ENTITY fxaccount_status_passwords "Claus">
+
 <!ENTITY fxaccount_status_tabs "Ubrir pestanyas">
 <!ENTITY fxaccount_status_legal "Aspectos legals" >
 <!-- Localization note: when tapped, the following two strings link to

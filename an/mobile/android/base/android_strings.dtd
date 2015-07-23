@@ -44,6 +44,10 @@
 <!ENTITY bookmark "Marcapachinas">
 <!ENTITY bookmark_remove "Eliminar o marcapachinas">
 <!ENTITY bookmark_added "S\u0027ha adhibiu o marcapachinas">
+<!-- Localization note (bookmark_already_added) : This string is
+     used as a label in a toast. It is the verb "to bookmark", not
+     the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "Ya marcada">
 <!ENTITY bookmark_removed "S\u0027ha suprimiu o marcapachinas">
 <!ENTITY bookmark_updated "S\u0027ha esviellau o marcapachinas">
 <!ENTITY bookmark_options "Opcions">
@@ -77,6 +81,7 @@
 
 <!ENTITY settings "Opcions">
 <!ENTITY settings_title "Configuración">
+
 <!ENTITY pref_category_advanced "Abanzau">
 <!ENTITY pref_category_customize "Personalización">
 <!ENTITY pref_category_customize_summary "Inicio, busca, pestanyas, importar">
@@ -132,7 +137,7 @@
 <!ENTITY pref_category_display "Amostrar">
 <!ENTITY pref_category_display_summary "Texto, barra de titol, navegación a pantalla completa">
 <!ENTITY pref_category_privacy_short "Privacidat">
-<!ENTITY pref_category_privacy_summary "Controlar as claus, cookies, seguimiento, datos">
+
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "Arredol de &brandShortName;, FAQs, trigas de datos">
 <!ENTITY pref_category_datareporting "Elección de datos">
@@ -151,7 +156,9 @@
 <!ENTITY pref_category_devtools "Ferramientas ta desembolicadors">
 <!ENTITY pref_developer_remotedebugging "Depuración remota">
 <!ENTITY pref_category_logins "Inicios de sesión">
-<!ENTITY pref_remember_signons "Recordar as claus">
+
+
+
 <!ENTITY pref_manage_logins "Chestiona os inicios de sesión">
 
 <!ENTITY pref_category_home "Inicio">
@@ -189,10 +196,9 @@
 <!ENTITY pref_donottrack_title "No me sigas">
 <!ENTITY pref_donottrack_summary "&brandShortName; indicará a os puestos web que no quiere que le sigan">
 
-<!ENTITY tab_queue_toast_message2 "Pestanya en ringlera en &brandShortName;">
 <!ENTITY tab_queue_toast_action "Ubrir agora">
 <!ENTITY tab_queue_prompt_title "Ye ubrindo multiples vinclos?">
-<!ENTITY tab_queue_prompt_text2 "Ubra-los sin cambiar cada vegada a &brandShortName;.">
+
 <!ENTITY tab_queue_prompt_tip_text "Puet cambiar-lo dimpués en Achustes">
 <!ENTITY tab_queue_prompt_positive_action_button "Activar">
 <!ENTITY tab_queue_prompt_negative_action_button "No pas agora">
@@ -245,9 +251,13 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "Permitir siempre o zoom">
 <!ENTITY pref_zoom_force_enabled_summary "Forzar sobreescribir ta poder fer zoom en qualsequier pachina">
 
+
+
+
+
 <!ENTITY pref_use_master_password "Fer servir a clau mayestra">
 <!ENTITY pref_sync "Sincronizar">
-<!ENTITY pref_sync_summary "Sincroniza as tuyas pestanyas, marcapachinas, claus, historial">
+
 <!ENTITY pref_search_suggestions "Amostrar as sucherencias de busca">
 <!ENTITY pref_import_android "Importar dende Android">
 <!ENTITY pref_import_android_summary "Importar marcapachinas y historial dende o navegador nativo">
@@ -255,11 +265,12 @@ size. -->
 <!ENTITY pref_private_data_searchHistory "1 historial de busca">
 <!ENTITY pref_private_data_formdata2 "Historial de formulario">
 <!ENTITY pref_private_data_cookies2 "Cookies y sesions activas">
-<!ENTITY pref_private_data_passwords "Claus alzadas">
+
 <!ENTITY pref_private_data_cache "Caché">
 <!ENTITY pref_private_data_offlineApps "Datos de puestos web sin connexion">
 <!ENTITY pref_private_data_siteSettings2 "Preferencias d\u0027o puesto">
 <!ENTITY pref_private_data_downloadFiles2 "Descargas">
+
 
 
 <!ENTITY pref_about_firefox "Quanto a &brandShortName;">
@@ -380,6 +391,11 @@ size. -->
 <!ENTITY doorhanger_login_edit_toggle "Amostrar a clau">
 <!ENTITY doorhanger_login_edit_toast_error "No s\u0027ha puesto alzar o inicio">
 
+
+
+
+
+
 <!ENTITY pref_titlebar_mode "Barra de titol">
 <!ENTITY pref_titlebar_mode_title "Amostrar o titol d\u0027a pachina">
 <!ENTITY pref_titlebar_mode_url "Amostrar l\u0027adreza d\u0027a pachina">
@@ -390,7 +406,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "Amagar a barra de titol &brandShortName; quan se desplace enta abaixo en una pachina">
 
 <!ENTITY pref_tab_queue_title2 "Ubrir multiples finestras">
-<!ENTITY pref_tab_queue_summary2 "Meter en ringlera os vinclos pa dimpués en cuenta de cambiar ta &brandShortName; cada vegada">
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -408,8 +424,8 @@ size. -->
 <!ENTITY site_settings_cancel       "Cancelar">
 <!ENTITY site_settings_clear        "Limpiar">
 <!ENTITY site_settings_no_settings  "No i hai garra opción por limpiar.">
-
-<!ENTITY reading_list_added "S\u0027ha adhibiu a la suya pachina de lectura">
+<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+     as possible. -->
 <!ENTITY reading_list_removed "Pachina sacada d\u0027a suya lista de lectura">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -438,7 +454,7 @@ size. -->
 <!ENTITY button_clear_data "Borrar os datos">
 <!ENTITY button_set "Fixar">
 <!ENTITY button_clear "Limpiar">
-<!ENTITY button_remember "Fer-ne alcordanza">
+<!ENTITY button_copy "Copiar">
 
 <!ENTITY firstrun_panel_title_welcome "Bienveniu">
 
@@ -502,10 +518,6 @@ size. -->
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Amostrar os fichers seleccionaus">
 
-<!ENTITY private_browsing_title "Navegación privada">
-<!ENTITY private_tabs_panel_empty_desc "As suyas pestanyas privadas s\u0027amostraran aqui. Encara que no alzamos o suyo historial de navegación ni as suyas cookies, os marcadors y ficheros que descargue continarán estando alzaus en o suyo dispositivo.">
-<!ENTITY private_tabs_panel_learn_more "Deseya saber-ne mas?">
-
 <!ENTITY remote_tabs_panel_moved_title "Ta ón han iu as mías pestanyas?">
 <!ENTITY remote_tabs_panel_moved_desc "Hemos moviu as suyas pestanyas dende atros dispositivos ta un panel en a suya pachina d\u0027inicio que ye de buen accedir cada vegada que ubras una nueva pestanya.">
 <!ENTITY remote_tabs_panel_moved_link "Leva-me ta o siguient panel nuevo.">
@@ -533,6 +545,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "que perteneix a">
 <!ENTITY identity_no_info "Iste puesto web no da información d\u0027identidat.">
 <!ENTITY identity_not_encrypted "A suya connexción a iste puesto web no ye zifrau.">
+<!ENTITY identity_encrypted "Zifrau">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "Ista pachina amuestra conteniu no seguro.">
@@ -599,7 +612,7 @@ dende Android">
 <!ENTITY guest_session_dialog_continue "Continar">
 <!ENTITY guest_session_dialog_cancel "Cancelar">
 <!ENTITY new_guest_session_title "&brandShortName; se reiniciará">
-<!ENTITY new_guest_session_text "A persona que lo faiga servir no podrá accedir a garra dato d\u0027a suya información personal de navegación (como claus, historial, u marcapachinas).\n\nQuan remate a sesión de convidau, ixos datos s\u0027eliminarán y a sesión precedent se restaurará.">
+
 <!ENTITY guest_browsing_notification_title "A navegación \&quot;como convidau\&quot; ye activa">
 <!ENTITY guest_browsing_notification_text "Tocar ta salir-ne">
 
@@ -648,3 +661,4 @@ dende Android">
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
 
 <!ENTITY find_matchcase "Aa">
+
