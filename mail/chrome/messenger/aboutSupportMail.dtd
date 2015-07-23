@@ -15,5 +15,6 @@
 <!ENTITY aboutSupport.accountsConnSecurity "Konexioaren segurtasuna">
 <!ENTITY aboutSupport.accountsAuthMethod "Autentifikazio-metodoa">
 <!ENTITY aboutSupport.accountsDefault "Lehenetsia?">
+<!ENTITY aboutSupport.identityName "Identitatea">
 
 <!ENTITY aboutSupport.sendViaEmail.label "Bidali posta elektronikoz">
