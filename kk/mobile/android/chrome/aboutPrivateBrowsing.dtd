@@ -3,10 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY privatebrowsingpage.title "Жекелік шолу">
+<!ENTITY privatebrowsingpage.title.normal "Сіз жекелік шолу режимінде емессіз">
 
+<!ENTITY privatebrowsingpage.issueDesc.normal2 "Жекелік шолу режимінде, сіздің шолу тарихыңыз және cookies сақталмайды.">
+<!ENTITY privatebrowsingpage.issueDesc.private2 "Шолу тарихыңыз және cookies сақталмайды.">
 
-
-
+<!ENTITY privatebrowsingpage.description2 "Сіз қосқан бетбелгілер және жүктеп алған файлдар құрылғыңызда сақталады.">
 <!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
 <!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
 
