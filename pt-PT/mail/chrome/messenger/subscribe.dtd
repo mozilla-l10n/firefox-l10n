@@ -18,5 +18,5 @@
 <!ENTITY subscribedHeader.label       "Subscrever">
 <!-- commenting out until bug 38906 is fixed 
 <!ENTITY messagesHeader.label         "Messages"> -->
-<!ENTITY namefield.label              "Mostrar itens que contenham:">
+<!ENTITY namefield.label              "Mostrar elementos que contenham:">
 <!ENTITY namefield.accesskey          "s">

@@ -20,14 +20,14 @@
 <!ENTITY importFromEudora.accesskey     "E">
 
 <!ENTITY importSource.title             "Importar definições e pastas de correio">
-<!ENTITY importItems.title              "Itens a importar">
-<!ENTITY importItems.label              "Selecione os itens a importar:">
+<!ENTITY importItems.title              "Elementos a importar">
+<!ENTITY importItems.label              "Selecione os elementos a importar:">
 
 <!ENTITY migrating.title                "A importar...">
-<!ENTITY migrating.label                "Estes itens estão a ser importados...">
+<!ENTITY migrating.label                "Estes elementos estão a ser importados…">
 
 <!ENTITY selectProfile.title            "Selecione o perfil">
 <!ENTITY selectProfile.label            "Estes perfis estão disponíveis para importação:">
 
 <!ENTITY done.title                     "Importação terminada">
-<!ENTITY done.label                     "Estes itens foram importados com sucesso:">
+<!ENTITY done.label                     "Estes elementos foram importados com sucesso:">

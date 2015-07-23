@@ -6,7 +6,7 @@
 
 <!ENTITY  authorName.label          "Autor:">
 <!ENTITY  authorName.accesskey      "u">
-<!ENTITY  pageColorHeader           "Aspeto pré-definido da página">
+<!ENTITY  pageColorHeader           "Aspeto predefinido da página">
 
 <!ENTITY defaultColors.label        "Cores pré-definidas do leitor (Não aplica cores na página)">
 <!ENTITY defaultColors.accesskey    "d">

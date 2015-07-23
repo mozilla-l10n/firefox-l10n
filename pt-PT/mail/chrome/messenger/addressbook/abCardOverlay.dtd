@@ -45,7 +45,7 @@
 <!ENTITY PlainText.label                "Texto simples">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Desconhecido">
-<!ENTITY chatName.label                 "Nome na sala de conversação:">
+<!ENTITY chatName.label                 "Nome no chat:">
 
 <!ENTITY WorkPhone.label                "Trabalho:">
 <!ENTITY WorkPhone.accesskey            "b">

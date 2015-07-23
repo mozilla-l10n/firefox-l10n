@@ -4,8 +4,8 @@
 
 <!ENTITY  startupAction.label         "Ao iniciar o &brandShortName;:">
 <!ENTITY  startupAction.accesskey     "c">
-<!ENTITY  startupOffline.label        "Manter a minha conta de conversação offline">
-<!ENTITY  startupConnectAuto.label    "Ligar às minhas contas de conversação automaticamente">
+<!ENTITY  startupOffline.label        "Manter a minha conta de chat offline">
+<!ENTITY  startupConnectAuto.label    "Ligar automaticamente às contas de chat">
 <!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
 there's a field where the user can enter a number, and itemTime is
 displayed at the end of the line. The translations of the
@@ -20,7 +20,7 @@ sentence. -->
 <!ENTITY  andSetStatusToAway.label      "e definir o meu estado para ausente com esta mensagem:">
 <!ENTITY  andSetStatusToAway.accesskey  "a">
 
-<!ENTITY  sendTyping.label              "Enviar notificações de escrita nas conversações">
+<!ENTITY  sendTyping.label              "Enviar notificações de escrita nas conversas">
 <!ENTITY  sendTyping.accesskey          "t">
 
 <!ENTITY  chatNotifications.label             "Qando chegar uma mensagem para si:">

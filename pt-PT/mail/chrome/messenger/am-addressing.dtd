@@ -32,7 +32,7 @@
 <!ENTITY belowQuote.label                     "iniciar a minha resposta abaixo da citação">
 <!ENTITY selectAndQuote.label                 "selecionar a citação">
 <!ENTITY place.label                          "e colocar a minha assinatura">
-<!ENTITY place.accesskey                      "a">
+<!ENTITY place.accesskey                      "s">
 <!ENTITY belowText.label                      "abaixo da citação (recomendado)">
 <!ENTITY aboveText.label                      "abaixo da resposta (acima da citação)">
 <!ENTITY includeSigOnReply.label              "Incluir assinatura nas respostas">
