@@ -66,7 +66,7 @@
   -  the page for debugging purposes, using calls such console.log() and
   -  console.error(). -->
 
-<!ENTITY btnPageLogging.label   "Registo">
+<!ENTITY btnPageLogging.label   "Registro">
 <!ENTITY btnPageLogging.tooltip "Registrar chamadas ao objeto window.console">
 <!ENTITY btnPageLogging.accesskey3 "o">
 <!ENTITY btnConsoleErrors       "Erros">

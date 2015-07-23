@@ -8,7 +8,7 @@
 <!ENTITY aboutPrivateBrowsing.subtitle         "O &brandShortName; não memorizará o histórico desta janela.">
 <!ENTITY aboutPrivateBrowsing.subtitle.normal  "O &brandShortName; não memorizará o histórico de janelas privativas.">
 
-<!ENTITY aboutPrivateBrowsing.description      "incluindo o histórico de navegação, de pesquisa, de download, de formulários, cookies e arquivos temporários. No entanto, os arquivos baixados e os favoritos criados serão mantidos.">
+<!ENTITY aboutPrivateBrowsing.description      "Incluindo o histórico de navegação, de pesquisa, de download, de formulários, cookies e arquivos temporários. No entanto, os arquivos baixados e os favoritos criados serão mantidos.">
 
 <!ENTITY aboutPrivateBrowsing.notPrivate       "Você não está em uma janela privativa no momento.">
 
@@ -16,4 +16,4 @@
 <!ENTITY aboutPrivateBrowsing.learnMore        "Saiba mais.">
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Abrir uma janela privativa">
-<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "b">
+<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
