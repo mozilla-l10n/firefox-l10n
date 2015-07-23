@@ -44,6 +44,9 @@
 <!ENTITY bookmark "वाचनखूण">
 <!ENTITY bookmark_remove "वाचनखूण काढा">
 <!ENTITY bookmark_added "वाचनखूण समाविष्ट">
+<!-- Localization note (bookmark_already_added) : This string is
+     used as a label in a toast. It is the verb "to bookmark", not
+     the noun "a bookmark". -->
 <!ENTITY bookmark_removed "वाचनखूण काढले">
 <!ENTITY bookmark_updated "वाचनखूण अद्ययावत केले">
 <!ENTITY bookmark_options "पर्याय">
@@ -77,6 +80,7 @@
 
 <!ENTITY settings "सेटिंग">
 <!ENTITY settings_title "सेटिंग">
+
 <!ENTITY pref_category_advanced "प्रगत">
 <!ENTITY pref_category_customize "स्वपसंती करा">
 <!ENTITY pref_category_customize_summary "मुखपृष्ठ, शोध, टॅब, आयात">
@@ -104,7 +108,7 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "वाचनखूण">
 <!ENTITY overlay_share_reading_list_btn_label "वाचन यादीत जोडा">
-<!ENTITY overlay_share_bookmark_btn_label_already "अगोदरचे वाचनखूण">
+
 <!ENTITY overlay_share_reading_list_btn_label_already "वाचानायादीत आधीच समाविष्ट">
 <!ENTITY overlay_share_send_other "इतर उपकरणांना पाठवा">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -132,7 +136,7 @@
 <!ENTITY pref_category_display "दृश्य">
 <!ENTITY pref_category_display_summary "मजकूर, शीर्षक पट्टी, पूर्ण स्क्रीन ब्राउजिंग">
 <!ENTITY pref_category_privacy_short "गुप्तता">
-<!ENTITY pref_category_privacy_summary "पासवर्ड, कुकीज, मागोवा माहिती नियंत्रित करा">
+
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "&brandShortName;बद्दल, FAQs, माहिती पर्याय">
 <!ENTITY pref_category_datareporting "माहिती पर्याय">
@@ -151,7 +155,9 @@
 <!ENTITY pref_category_devtools "डेवलपर साधने">
 <!ENTITY pref_developer_remotedebugging "दूरस्थ डीबग करणे">
 <!ENTITY pref_category_logins "लॉगिन्स">
-<!ENTITY pref_remember_signons "पासवर्ड लक्षात ठेवा">
+
+
+
 <!ENTITY pref_manage_logins "लॉगिन्स व्यवस्थापित करा">
 
 <!ENTITY pref_category_home "मुख्य पटल">
@@ -189,10 +195,9 @@
 <!ENTITY pref_donottrack_title "मागोवा घेऊ नका">
 <!ENTITY pref_donottrack_summary "&brandShortName; हे साइट्सना कळवेल की आपण मागोवा घेऊ इच्छित नाही">
 
-<!ENTITY tab_queue_toast_message2 "&brandShortName; मध्ये टॅब रांगेत">
 <!ENTITY tab_queue_toast_action "आता उघडा">
 <!ENTITY tab_queue_prompt_title "अनेक दुवे उघडत आहे?">
-<!ENTITY tab_queue_prompt_text2 "प्रत्येक वेळी &brandShortName; वर न जाता उघडा.">
+
 <!ENTITY tab_queue_prompt_tip_text "सेटिंग्समधुन आपण हे नंतर बद्लु शकता">
 <!ENTITY tab_queue_prompt_positive_action_button "कार्यान्वित">
 <!ENTITY tab_queue_prompt_negative_action_button "सध्या नाही">
@@ -245,9 +250,13 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "झूम कायम सक्रीय">
 <!ENTITY pref_zoom_force_enabled_summary "फोर्स ओव्हरराइड मुळे आपण कुठल्यापण पानावर झूम करु शकता">
 
+
+
+
+
 <!ENTITY pref_use_master_password "मास्टर पासवर्ड वापरा">
 <!ENTITY pref_sync "ताळमेळ">
-<!ENTITY pref_sync_summary "आपल्या टॅब्स, वाचनखुणा, पासवर्ड, इतिहास यांचे ताळमेळ साधा">
+
 <!ENTITY pref_search_suggestions "शोध सूचना दाखवा">
 <!ENTITY pref_import_android "Android मधून घ्या">
 <!ENTITY pref_import_android_summary "मूळ ब्राउज़रमधून वाचनखुणा आणि इतिहास आयात करा">
@@ -255,11 +264,12 @@ size. -->
 <!ENTITY pref_private_data_searchHistory "शोध इतिहास">
 <!ENTITY pref_private_data_formdata2 "इतिहास मधुन">
 <!ENTITY pref_private_data_cookies2 "कुकीज आणि कार्यरत लॉगइन्स">
-<!ENTITY pref_private_data_passwords "साठवलेले पासवर्ड">
+
 <!ENTITY pref_private_data_cache "कॅशे">
 <!ENTITY pref_private_data_offlineApps "ऑफलाइन संकेतस्थळ माहिती">
 <!ENTITY pref_private_data_siteSettings2 "साइट सेटिंग">
 <!ENTITY pref_private_data_downloadFiles2 "डाउनलोडस्">
+
 
 
 <!ENTITY pref_about_firefox "&brandShortName;बद्दल">
@@ -380,6 +390,11 @@ size. -->
 <!ENTITY doorhanger_login_edit_toggle "पासवर्ड दाखवा">
 <!ENTITY doorhanger_login_edit_toast_error "लॉगइन साठवण्यात असफल">
 
+
+
+
+
+
 <!ENTITY pref_titlebar_mode "शीर्षक पट्टी">
 <!ENTITY pref_titlebar_mode_title "पानाचे शीर्षक दाखवा">
 <!ENTITY pref_titlebar_mode_url "पानाचा पत्ता दाखवा">
@@ -390,7 +405,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "पान खाली स्क्रोल करताना &brandShortName; शीर्ष पट्टी लपवा">
 
 <!ENTITY pref_tab_queue_title2 "अनेक दुवे उघडा">
-<!ENTITY pref_tab_queue_summary2 "प्रत्येक वेळी &brandShortName; वर न जाता नंतरसाठी दुवे रांगेत ठेवा">
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -408,8 +423,8 @@ size. -->
 <!ENTITY site_settings_cancel       "रद्द">
 <!ENTITY site_settings_clear        "पुसा">
 <!ENTITY site_settings_no_settings  "पुसण्यासाठी सेटिंग नाहीत.">
-
-<!ENTITY reading_list_added "पान तुमच्या वाचन यादीत जोडले गेले">
+<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+     as possible. -->
 <!ENTITY reading_list_removed "पान तुमच्या वाचन यादीतून काढले गेले">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -438,7 +453,7 @@ size. -->
 <!ENTITY button_clear_data "माहिती पुसा">
 <!ENTITY button_set "निश्चित">
 <!ENTITY button_clear "पुसा">
-<!ENTITY button_remember "लक्षात ठेवा">
+<!ENTITY button_copy "प्रत बनवा">
 
 <!ENTITY firstrun_panel_title_welcome "स्वागत">
 
@@ -502,10 +517,6 @@ size. -->
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "निवडलेले पर्याय दाखवा">
 
-<!ENTITY private_browsing_title "खाजगी रीत्या ब्राउझिंग">
-<!ENTITY private_tabs_panel_empty_desc "आपले खाजगी टॅब येथे दिसतील. जरी आम्ही आपला ब्राउझिंग इतिहास, किंवा कुकी ठेवत नाहीत, वाचनखूणा आणि डाउनलोड केलेल्या फायली आपल्या उपकरणावर साठवल्या जातील.">
-<!ENTITY private_tabs_panel_learn_more "अधिक जाणून घेऊ इच्छिता?">
-
 <!ENTITY remote_tabs_panel_moved_title "माझ्या टॅब्स कुठे गेल्या ?">
 <!ENTITY remote_tabs_panel_moved_desc "आम्ही आपले इतर उपकरणावरील टॅब आपल्या मुख्यपृष्ठावर एका पॅनेलमध्ये हलवले आहेत जेणेकरून प्रत्येक वेळी नवीन टॅब उघडताना ते सहज उपलब्ध होतील.">
 <!ENTITY remote_tabs_panel_moved_link "मला माझ्या नवीन पॅनलमध्ये न्या.">
@@ -533,6 +544,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "यांकडून चालविले जाते">
 <!ENTITY identity_no_info "हे संकेतस्थळ ओळखविषयक माहिती पुरवित नाही.">
 <!ENTITY identity_not_encrypted "या संकेतस्थळावरील जुळवणी सुरक्षित नाही.">
+<!ENTITY identity_encrypted "एन्क्रीप्टेड">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "हे पान आशय दाखवत आहे जे सुरक्षित नाही.">
@@ -599,7 +611,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "सुरू ठेवा">
 <!ENTITY guest_session_dialog_cancel "रद्द">
 <!ENTITY new_guest_session_title "&brandShortName; पुनःसुरु होईल">
-<!ENTITY new_guest_session_text "जी व्यक्ती हे वापरत असेल त्याला तुमची वयैक्तिक ब्राउझिंग माहिती नाही दिसणार (जसे साठवलेले पासवर्डस्, वाचनखूणांचा इतिहास).\n\nजेव्हा तुमच्या अतिथीचं काम संपेल, त्यांची ब्राउझिंग माहिती पुसली जाईल व तुमचं सत्र पुनःस्थापित होईल.">
+
 <!ENTITY guest_browsing_notification_title "अतिथी ब्राउझिंग सक्रीय.">
 <!ENTITY guest_browsing_notification_text "बाहेर जाण्यासाठी टिचकी">
 
@@ -648,3 +660,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
 
 <!ENTITY find_matchcase "Aa">
+
