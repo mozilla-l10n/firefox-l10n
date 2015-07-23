@@ -37,7 +37,7 @@
 <!ENTITY  keepUntil.label               "Preservar cookies até:">
 <!ENTITY  keepUntil.accesskey           "P">
 
-<!ENTITY  expire.label                  "Perderem a validade">
+<!ENTITY  expire.label                  "expirarem">
 <!ENTITY  close.label                   "Sair do &brandShortName;">
 <!ENTITY  askEachTime.label             "perguntar sempre que necessário">
 
