@@ -5,6 +5,7 @@
 <!ENTITY itemFormatting.label             "Formatering">
 <!ENTITY itemTags.label                   "Merkers">
 
+
 <!ENTITY style.label                      "Styl:">
 <!ENTITY style.accesskey                  "y">
 <!ENTITY regularStyle.label               "Gewoon">
@@ -38,5 +39,31 @@
 
 <!ENTITY fontOptions.accesskey   "G">
 <!ENTITY fontOptions.label       "Gevorderd…">
+
+
+<!-- Advanced -->
+
+<!ENTITY reading.caption                  "Lees">
+<!ENTITY display.caption                  "Vertoon">
+<!ENTITY showCondensedAddresses.label     "Wys net vertoonnaam vir mense in my adresboek">
+<!ENTITY showCondensedAddresses.accesskey "W">
+
+<!ENTITY autoMarkAsRead.label             "Merk boodskappe outomaties as gelees">
+<!ENTITY autoMarkAsRead.accesskey         "M">
+<!ENTITY markAsReadNoDelay.label          "Dadelik wanneer vertoon">
+<!ENTITY markAsReadNoDelay.accesskey      "w">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label            "Na vertoon is vir">
+<!ENTITY markAsReadDelay.accesskey        "v">
+<!ENTITY secondsLabel.label               "sekondes">
+<!ENTITY openMsgIn.label                  "Open boodskappe in:">
+<!ENTITY openMsgInNewTab.label            "'n Nuwe oortjie">
+<!ENTITY openMsgInNewTab.accesskey        "o">
+<!ENTITY reuseExpRadio0.label             "'n Nuwe boodskapvenster">
+<!ENTITY reuseExpRadio0.accesskey         "N">
+<!ENTITY reuseExpRadio1.label             "'n Bestaande boodskapvenster">
+<!ENTITY reuseExpRadio1.accesskey         "B">
 
 

@@ -158,6 +158,8 @@
 
 <!ENTITY priorityMenu.label "Prioriteit">
 <!ENTITY priorityMenu.accesskey "P">
+
+
 <!ENTITY priorityButton.label "Prioriteit:">
 <!ENTITY lowestPriorityCmd.label "Laagste">
 <!ENTITY lowestPriorityCmd.accesskey "L">
