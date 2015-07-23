@@ -407,7 +407,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "Sayfada aşağı kaydırırken &brandShortName; başlık çubuğunu gizle">
 
 <!ENTITY pref_tab_queue_title2 "Çoklu bağlantı aç">
-
+<!ENTITY pref_tab_queue_summary3 "Bir sonraki &brandShortName; açılışına kadar kaydet">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -665,3 +665,4 @@ alınıyor">
 
 <!ENTITY find_matchcase "Aa">
 
+<!ENTITY intent_uri_cannot_open "Bağlantı açılamıyor">

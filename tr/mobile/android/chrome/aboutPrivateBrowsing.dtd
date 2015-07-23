@@ -3,10 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY privatebrowsingpage.title "Gizli Tarama">
+<!ENTITY privatebrowsingpage.title.normal "Gizli taramada değilsiniz">
 
+<!ENTITY privatebrowsingpage.issueDesc.normal2 "Gizli taramada tarama geçmişiniz ve çerezleriniz kaydedilmez.">
+<!ENTITY privatebrowsingpage.issueDesc.private2 "Tarama geçmişinizi ve çerezlerinizi kaydetmeyeceğiz.">
 
-
-
+<!ENTITY privatebrowsingpage.description2 "Eklediğiniz yer imleri ve indirdiğiniz dosyalar yine de cihazınızda kalacaktır.">
 <!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
 <!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
 
