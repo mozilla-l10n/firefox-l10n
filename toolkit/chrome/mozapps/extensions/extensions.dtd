@@ -218,9 +218,9 @@ cele mai utilizate și populare extensii pentru a vă permite să le încercați
 <!ENTITY eula.title                           "Acord de licențiere cu utilizatorul">
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
-<!ENTITY eula.accept                          "Accept, instalează...">
+<!ENTITY eula.accept                          "Accept, instalează…">
 
-<!ENTITY settings.path.button.label           "Răsfoiește...">
+<!ENTITY settings.path.button.label           "Răsfoiește…">
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
      This tab won't be displayed unless an Experiment add-on is installed.

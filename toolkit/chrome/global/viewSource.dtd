@@ -17,7 +17,7 @@
 <!ENTITY savePageCmd.label "Salvează pagina ca…">
 <!ENTITY savePageCmd.accesskey "a">
 <!ENTITY savePageCmd.commandkey "S">
-<!ENTITY pageSetupCmd.label "Aranjare în pagină...">
+<!ENTITY pageSetupCmd.label "Aranjare în pagină…">
 <!ENTITY pageSetupCmd.accesskey "j">
 <!ENTITY printPreviewCmd.label "Previzualizare tipărire">
 <!ENTITY printPreviewCmd.accesskey "v">
@@ -42,7 +42,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY textReset.commandkey "0">
 <!ENTITY textReset.commandkey2 "">
 
-<!ENTITY goToLineCmd.label "Salt la linia...">
+<!ENTITY goToLineCmd.label "Salt la linia…">
 <!ENTITY goToLineCmd.accesskey "S">
 <!ENTITY goToLineCmd.commandkey "l">
 
