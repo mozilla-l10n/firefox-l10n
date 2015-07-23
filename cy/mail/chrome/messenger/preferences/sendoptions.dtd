@@ -15,7 +15,7 @@
 <!ENTITY sendBoth.accesskey           "A">
 <!ENTITY override.label               "Sylw: Defnyddiwch y Llyfr Cyfeiriadau i bennu fformat testun dewisol ar gyfer derbyniwr.">
 
-<!ENTITY domaindesc.label             "Pan fyddwch yn anfon neges i gyfeiriad gydag un o'r enwau parth sydd wedi rhestri isod, bydd &brandShortName;yn anfon y neges yn ei fformat cywir yn awtomatig.">
+<!ENTITY domaindesc.label             "Pan fyddwch yn anfon neges i gyfeiriad gydag un o'r enwau parth sydd wedi rhestri isod, bydd &brandShortName; yn anfon y neges yn ei fformat cywir yn awtomatig.">
 <!ENTITY HTMLTab.label                "Parthau HTML">
 <!ENTITY HTMLTab.accesskey            "H">
 <!ENTITY PlainTextTab.label           "Parthau Testun Plaen">

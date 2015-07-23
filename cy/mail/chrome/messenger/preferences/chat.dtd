@@ -5,7 +5,7 @@
 <!ENTITY  startupAction.label         "Pan fydd &brandShortName; yn cychwyn:">
 <!ENTITY  startupAction.accesskey     "P">
 <!ENTITY  startupOffline.label        "Cadw fy Nghyfrifon Sgwrsio all-lein">
-<!ENTITY  startupConnectAuto.label    "Cysylltu fy nghyfrifon sgwrsio yn awtomatig">
+<!ENTITY  startupConnectAuto.label    "Cysylltu â fy nghyfrifon sgwrsio yn awtomatig">
 <!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
 there's a field where the user can enter a number, and itemTime is
 displayed at the end of the line. The translations of the
