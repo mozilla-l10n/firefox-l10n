@@ -76,6 +76,7 @@
 <!ENTITY malwareBlocked.longDesc "<p>SHücum saytları; şəxsi məlumatlarınızı oğurlayan, komputerinizi başqalarına hücum məqsədi ilə istifadə edən ya da sisteminizə zərər verən proqramlar quraşdırmağa çalışan saytlardır.</p> 
 <p>Öz saytlarının səhv olaraq hücum saytı kimi göstərildiyini düşünən sayt sahibləri <a href='http://www.stopbadware.org/home/reviewinfo' >yenidən yoxlama istəyi</a> göndərə bilərlər.</p>">
 
+<!ENTITY unwantedBlocked.title "İstənməyən Proqram Saytı Təhlükəsi!">
 
 
 <!ENTITY phishingBlocked.title "Saxtakarlıq şübhəsi!">
