@@ -23,7 +23,8 @@
 <!ENTITY cmd.back.tooltip                     "Бір параққа қайту">
 <!ENTITY cmd.forward.tooltip                  "Бір параққа алға бару">
 
-
+<!ENTITY showUnsignedExtensions.button.label  "Кейбір кеңейтулерді растау мүмкін емес">
+<!ENTITY showAllExtensions.button.label       "Барлық кеңейтулерді көрсету">
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Барлық кеңейтулер қауіпсіз режимімен сөндірілген.">
