@@ -25,6 +25,8 @@
 <!ENTITY netmonitorUI.toolbar.file        "Fayl">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.domain): This is the label displayed
   -  in the network table toolbar, above the "domain" column. -->
+
+<!ENTITY netmonitorUI.toolbar.domain      "Domen">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.type): This is the label displayed
   -  in the network table toolbar, above the "type" column. -->
 
@@ -35,6 +37,8 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.size): This is the label displayed
   -  in the network table toolbar, above the "size" column, which is the
   -  uncompressed / decoded size. -->
+
+<!ENTITY netmonitorUI.toolbar.size        "Ölçü">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.waterfall): This is the label displayed
   -  in the network table toolbar, above the "waterfall" column. -->
 <!-- LOCALIZATION NOTE (netmonitorUI.tab.headers): This is the label displayed
@@ -146,6 +150,8 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.timings.send): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "send" state. -->
+
+<!ENTITY netmonitorUI.timings.send        "Göndərilir:">
 <!-- LOCALIZATION NOTE (netmonitorUI.timings.wait): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "wait" state. -->
@@ -255,6 +261,8 @@
   -  above the request body entry in the custom request form -->
 <!-- LOCALIZATION NOTE (netmonitorUI.custom.send): This is the label displayed
   -  on the button which sends the custom request -->
+
+<!ENTITY netmonitorUI.custom.send         "Göndər">
 <!-- LOCALIZATION NOTE (netmonitorUI.custom.cancel): This is the label displayed
   -  on the button which cancels and closes the custom request form -->
 
