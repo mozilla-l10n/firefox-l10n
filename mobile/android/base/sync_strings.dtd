@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label "អ្វី​ដែល​ត្រូវ​ធ្វើ​សមកាល​កម្ម">
 <!ENTITY sync.configure.engines.sync.my.title.label "ធ្វើ​សមកាលកម្ម​របស់​អ្នក...">
 <!ENTITY sync.configure.engines.title.bookmarks "ចំណាំ">
-<!ENTITY sync.configure.engines.title.passwords "ពាក្យ​សម្ងាត់">
+<!ENTITY sync.configure.engines.title.passwords2 "ការ​ចូល">
 <!ENTITY sync.configure.engines.title.history "ប្រវត្តិ">
 <!ENTITY sync.configure.engines.title.tabs "ផ្ទាំង">
 <!-- Common text -->
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "សម្គាល់​ឯកជន">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "ស្វាគមន៍​មកកាន់ &syncBrand.shortName.label;">
-<!ENTITY fxaccount_getting_started_description "ចូល​ដើម្បី​ធ្វើ​សមកាលកម្ម​ផ្ទាំង​របស់​អ្នក, ចំណាំ, ពាក្យសម្ងាត់ &amp; ច្រើន​ទៀត។">
+<!ENTITY fxaccount_getting_started_description2 "ចូល​ដើម្បី​ធ្វើ​សមកាលកម្ម​ផ្ទាំង, ចំណាំ, ការ​ចូល​របស់​អ្នក &amp; ច្រើន​ទៀត។">
 <!ENTITY fxaccount_getting_started_get_started "បាន​ចាប់ផ្ដើម">
 <!ENTITY fxaccount_getting_started_old_firefox "ប្រើ​កំណែ​ចាស់​នៃ &syncBrand.shortName.label;?">
 <!-- Localization note: the Firefox below should not change with the
@@ -212,7 +212,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating "ប៉ះ​ដើម្បី​ចូល​គណនី Firefox ថ្មី​របស់​អ្នក។">
 <!ENTITY fxaccount_status_bookmarks "ចំណាំ">
 <!ENTITY fxaccount_status_history "ប្រវត្តិ">
-<!ENTITY fxaccount_status_passwords "ពាក្យ​សម្ងាត់">
+<!ENTITY fxaccount_status_passwords2 "ចូល">
 <!ENTITY fxaccount_status_tabs "បើក​ផ្ទាំង">
 <!ENTITY fxaccount_status_legal "ស្រប​ច្បាប់" >
 <!-- Localization note: when tapped, the following two strings link to

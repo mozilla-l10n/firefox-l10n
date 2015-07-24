@@ -6,8 +6,8 @@
 <!ENTITY  no_space_to_start_error "មិន​មាន​ទំហំ​គ្រប់គ្រាន់​សម្រាប់​ឲ្យ &brandShortName; ចាប់ផ្ដើម​ទេ។">
 <!ENTITY  error_loading_file "កំហុស​បាន​កើតឡើង​ពេល​ព្យាយាម​ផ្ទុក​ឯកសារ​ដែល​ទាមទារ​ដើម្បី​ដំណើរការ &brandShortName;">
 
-<!ENTITY  onboard_start_message2 "សូម​ស្វាគមន៍​មកកាន់ &brandShortName;!">
-<!ENTITY  onboard_start_subtext2 "មាន​លក្ខណៈ​ភាព​ឯកជន និង​វិធី​ប្ដូរ​តាម​តម្រូវ​ការ​ច្រើន​ជាង។">
+<!ENTITY  onboard_start_message3 "រក​មើល​ជាមួយ &brandShortName;">
+<!ENTITY  onboard_start_subtext3 "ធ្វើ​ឲ្យ​បទពិសោធន៍​រក​មើល​​តាម​បណ្ដាញ​ចល័ត​របស់​អ្នក​​ជា​ម្ចាស់​របស់​អ្នក​ពិតៗ។">
 <!ENTITY  onboard_start_button_account "ចូល​ &brandShortName;">
 <!ENTITY  onboard_start_button_browser "ចាប់​ផ្ដើម​រុករក">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -44,6 +44,10 @@
 <!ENTITY bookmark "ចំណាំ">
 <!ENTITY bookmark_remove "លុប​ចំណាំ​ចេញ">
 <!ENTITY bookmark_added "បាន​បន្ថែម​ចំណាំ">
+<!-- Localization note (bookmark_already_added) : This string is
+     used as a label in a toast. It is the verb "to bookmark", not
+     the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "បាន​ចំណាំ​រួចហើយ">
 <!ENTITY bookmark_removed "បាន​យក​ចំណាំ​ចេញ">
 <!ENTITY bookmark_updated "បាន​ធ្វើ​បច្ចុប្បន្នភាព​ចំណាំ">
 <!ENTITY bookmark_options "ជម្រើស">
@@ -77,6 +81,7 @@
 
 <!ENTITY settings "ការ​កំណត់">
 <!ENTITY settings_title "ការ​កំណត់">
+<!ENTITY pref_category_input_options "ជម្រើស​បញ្ចូល">
 <!ENTITY pref_category_advanced "កម្រិត​ខ្ពស់">
 <!ENTITY pref_category_customize "ប្ដូរ​តាម​តម្រូវ​ការ">
 <!ENTITY pref_category_customize_summary "ដើម ស្វែងរក ផ្ទាំង នាំចូល">
@@ -104,7 +109,7 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "ចំណាំ">
 <!ENTITY overlay_share_reading_list_btn_label "បន្ថែម​ទៅ​បញ្ជី​អាន">
-<!ENTITY overlay_share_bookmark_btn_label_already "បាន​ចំណាំ​រួច">
+<!ENTITY overlay_share_bookmark_btn_label_already "បាន​ចំណាំ​រួចហើយ">
 <!ENTITY overlay_share_reading_list_btn_label_already "នៅ​ក្នុង​បញ្ជី​អាន​រួចហើយ">
 <!ENTITY overlay_share_send_other "ផ្ញើ​ទៅ​ឧបករណ៍​ផ្សេង">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -114,7 +119,6 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "ផ្ញើ​ទៅ​ឧបករណ៍​ផ្សេង">
 <!ENTITY overlay_share_no_url "រក​មិន​ឃើញ​តំណ​ក្នុង​ការ​ចែករំលែក​នេះ">
-<!ENTITY overlay_share_retry "ព្យាយាម​ម្ដងទៀត">
 <!ENTITY overlay_share_select_device "ជ្រើស​ឧបករណ៍">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
@@ -133,7 +137,7 @@
 <!ENTITY pref_category_display "បង្ហាញ">
 <!ENTITY pref_category_display_summary "អត្ថបទ របារ​ចំណងជើង ការ​រកមើល​ពេញ​អេក្រង់">
 <!ENTITY pref_category_privacy_short "ភាព​ឯកជន">
-<!ENTITY pref_category_privacy_summary "គ្រប់គ្រង​ពាក្យសម្ងាត់ ខូគី ការ​តាមដាន ទិន្នន័យ">
+<!ENTITY pref_category_privacy_summary2 "គ្រប់គ្រង​ការ​ចូល, ខូគី, ការ​តាមដាន, ទិន្នន័យ">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "អំពី &brandShortName;, FAQs, ជម្រើស​ទិន្នន័យ">
 <!ENTITY pref_category_datareporting "ជម្រើស​ទិន្នន័យ">
@@ -150,11 +154,11 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "ព័ត៌មាន​ជំនួយ៖ បន្ថែម​តំបន់បណ្ដាញ​ណាមួយ​ទៅកាន់​​ក្រុមហ៊ុន​ផ្ដល់​​ការ​ស្វែងរក ដោយ​ចុច​​លើ​វាល​ស្វែងរក​របស់​វា បន្ទាប់​មក​ប៉ះ​រូបតំណាង &formatI; ។">
 <!ENTITY pref_category_devtools "ឧបករណ៍​អ្នក​អភិវឌ្ឍន៍">
-<!ENTITY pref_category_devtools_summary "ការ​កែ​កំហុស​ពី​ចម្ងាយ ពន្លឺ​គំនូរ">
-<!ENTITY pref_developer_paint_flashing "ពន្លឺ​គំនូរ">
 <!ENTITY pref_developer_remotedebugging "ការ​បំបាត់​កំហុស​ពី​ចម្ងាយ">
 <!ENTITY pref_category_logins "ចូល">
-<!ENTITY pref_remember_signons "ចងចាំ​ពាក្យសម្ងាត់">
+<!ENTITY pref_remember_signons2 "ចងចាំ​ការ​ចូល">
+<!ENTITY pref_open_external_urls_privately_title "បើក​តំណ​ក្នុង​ការ​រក​មើល​ឯកជន">
+<!ENTITY pref_open_external_urls_privately_summary "សម្រាប់​តំណ​ខាង​ក្រៅ​ទាំងអស់​ដែល​បាន​បើក​ក្នុង &brandShortName;">
 <!ENTITY pref_manage_logins "គ្រប់គ្រង​ការ​ចូល">
 
 <!ENTITY pref_category_home "ដើម">
@@ -192,17 +196,22 @@
 <!ENTITY pref_donottrack_title "កុំ​តាមដាន">
 <!ENTITY pref_donottrack_summary "&brandShortName; នឹង​ប្រាប់​តំបន់បណ្ដាញ​ថា​អ្នក​មិន​ចង់​ឲ្យ​តាមដាន​ទេ">
 
+<!ENTITY tab_queue_toast_message3 "ផ្ទាំង​ដែល​បាន​រក្សាទុក​ក្នុង &brandShortName;">
 <!ENTITY tab_queue_toast_action "បើក​ឥឡូវ​នេះ">
-<!-- Localization note (tab_queue_notification_text_plural) : The
+<!ENTITY tab_queue_prompt_title "បើក​តំណ​ច្រើន​មែនទេ?">
+<!ENTITY tab_queue_prompt_text3 "រក្សាទុក​វា​រហូត​ដល់​ពេល​ក្រោយ​ដែល​អ្នក​បើក &brandShortName;">
+<!ENTITY tab_queue_prompt_tip_text "អ្នក​អាច​ផ្លាស់ប្ដូរ​វា​បាន​ពេល​ក្រោយ​នៅ​ក្នុង​ការ​កំណត់">
+<!ENTITY tab_queue_prompt_positive_action_button "បើក​ដំណើរការ">
+<!ENTITY tab_queue_prompt_negative_action_button "​មិនមែន​ឥឡូវ">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
+<!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!-- Localization note (tab_queue_notification_title_plural) : This is the
-     title of a notification; we expect more than one tab queued. -->
-<!-- Localization note (tab_queue_notification_title_singular) : This is the
-     title of a notification; we expect only one tab queued. -->
-<!-- Localization note (tab_queue_notification_text_singular) : This is the
+<!ENTITY tab_queue_notification_text_plural2 "&formatD; ផ្ទាំងកំពុង​​រង់ចាំ">
+<!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_text_singular2 "ផ្ទាំង 1 កំពុង​រង់ចាំ">
 
 <!ENTITY pref_char_encoding "ការ​អ៊ិនកូដ​តួអក្សរ">
 <!ENTITY pref_char_encoding_on "បង្ហាញ​ម៉ឺនុយ">
@@ -242,21 +251,27 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled_summary "គ្រប់គ្រង​ថា​តើ​តំបន់បណ្ដាញ​អាច​ចាក់​វីដេអូ និង​មាតិកា​មេឌៀ​ផ្សេងទៀត​បាន​ដោយ​ស្វ័យប្រវត្តិ">
 <!ENTITY pref_zoom_force_enabled "បើក​ការ​ពង្រីក​ជានិច្ច">
 <!ENTITY pref_zoom_force_enabled_summary "បង្ខំ​បដិសេធ ដូច្នេះ​អ្នក​អាច​ពង្រីក​ទំព័រ​ណាមួយ​ក៏​បាន">
+<!ENTITY pref_voice_input "ការ​បញ្ចូល​ជា​សំឡេង">
+<!ENTITY pref_voice_input_summary "អនុញ្ញាត​ការ​សរសេរ​តាម​សំឡេង​នៅក្នុង​របារ​ចំណងជើង">
+<!ENTITY pref_qrcode_enabled "កម្មវិធី​អាន​កូដ QR">
+<!ENTITY pref_qrcode_enabled_summary "អនុញ្ញាត​កម្មវិធីស្កេន QR នៅ​ក្នុង​របារ​ចំណងជើង">
 
 <!ENTITY pref_use_master_password "ប្រើ​ពាក្យ​សម្ងាត់​មេ ">
 <!ENTITY pref_sync "ធ្វើ​សមកាលកម្ម">
-<!ENTITY pref_sync_summary "ធ្វើ​សមកាលកម្ម​ផ្ទាំង​របស់​អ្នក ចំណាំ ពាក្យសម្ងាត់ និង​ប្រវត្តិ">
+<!ENTITY pref_sync_summary2 "ធ្វើ​សមកាលកម្ម​ផ្ទាំង​, ចំណាំ, ការ​ចូល, ប្រវត្តិ​របស់​អ្នក">
 <!ENTITY pref_search_suggestions "បង្ហាញ​ការ​ផ្ដល់​យោបល់​ស្វែងរក">
 <!ENTITY pref_import_android "នាំចូល​ពី Android">
 <!ENTITY pref_import_android_summary "នាំចូល​ចំណាំ និង​ប្រវត្តិ​ពី​កម្មវិធី​អ៊ីនធឺណិត​ដើម">
 <!ENTITY pref_private_data_history2 "​ប្រវត្តិ​រក​មើល">
-<!ENTITY pref_private_data_formdata "ទម្រង់ &amp; ប្រវត្តិ​ស្វែងរក">
+<!ENTITY pref_private_data_searchHistory "ប្រវត្តិ​ស្វែងរក">
+<!ENTITY pref_private_data_formdata2 "ប្រវត្តិ​ទម្រង់">
 <!ENTITY pref_private_data_cookies2 "ខូគី &amp; ការ​ចូល​សកម្ម">
-<!ENTITY pref_private_data_passwords "ពាក្យសម្ងាត់​បាន​រក្សាទុក">
+<!ENTITY pref_private_data_passwords2 "ការ​ចូល​បាន​រក្សាទុក">
 <!ENTITY pref_private_data_cache "​ឃ្លាំង​សម្ងាត់">
 <!ENTITY pref_private_data_offlineApps "ទិន្នន័យ​តំបន់បណ្ដាញ​ក្រៅ​បណ្ដាញ">
 <!ENTITY pref_private_data_siteSettings2 "ការ​កំណត់​តំបន់បណ្ដាញ">
 <!ENTITY pref_private_data_downloadFiles2 "ទាញ​យក">
+<!ENTITY pref_private_data_syncedTabs "ផ្ទាំង​​បាន​ធ្វើ​សមកាលកម្ម">
 
 
 <!ENTITY pref_about_firefox "អំពី &brandShortName;">
@@ -298,7 +313,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "កម្មវិធី​របាយការណ៍​គាំង">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; សេវាកម្ម​ទីតាំង">
-
+<!ENTITY datareporting_wifi_geolocation_summary4 "ជំនួយ &vendorShortName; ដាន​ផែនទី​ពិភពលោក! ចែករំលែក​ទីតាំង​​ប្រហែល​តាម​វ៉ាយហ្វាយ និង​ទិន្នន័យ​ទូរសព្ទ​នៃ​ឧបករណ៍​របស់​អ្នក​ដើម្បី​ធ្វើ​ឲ្យ​ប្រសើរ​សេវាកម្ម​ទីតាំង​ភូមិសាស្ត្រ​របស់​​យើង។">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -375,6 +390,12 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "ឈ្មោះ​អ្នក​ប្រើ">
 <!ENTITY doorhanger_login_edit_password_hint "ពាក្យសម្ងាត់">
 <!ENTITY doorhanger_login_edit_toggle "បង្ហាញ​ពាក្យសម្ងាត់">
+<!ENTITY doorhanger_login_edit_toast_error "បាន​បរាជ័យ​ក្នុង​ការ​រក្សាទុក​ការ​ចូល">
+<!ENTITY doorhanger_login_select_message "ចម្លង​ពាក្យ​សម្ងាត់​ពី &formatS;?">
+<!ENTITY doorhanger_login_select_toast_copy "ពាក្យ​សម្ងាត់​បាន​ចម្លង​ទៅ​ក្ដារ​តម្បៀតខ្ទាស់">
+<!ENTITY doorhanger_login_select_toast_copy_error "មិន​អាច​ចម្លង​ពាក្យ​សម្ងាត់">
+<!ENTITY doorhanger_login_select_action_text "ជ្រើស​ការ​ចូល​ផ្សេង">
+<!ENTITY doorhanger_login_select_title "ចម្លង​ពាក្យ​សម្ងាត់​ពី">
 
 <!ENTITY pref_titlebar_mode "របារ​ចំណង​ជើង">
 <!ENTITY pref_titlebar_mode_title "បង្ហាញ​ចំណងជើង​ទំព័រ">
@@ -385,7 +406,8 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "ការ​រុករក​ពេញ​អេក្រង់">
 <!ENTITY pref_scroll_title_bar_summary "លាក់​របារ​ចំណង​ជើង &brandShortName; ពេល​រមូរ​ទំព័រ​ចុះក្រោម">
 
-
+<!ENTITY pref_tab_queue_title2 "បើក​តំណ​ច្រើន">
+<!ENTITY pref_tab_queue_summary3 "រក្សាទុក​វា​រហូតដល់​ពេលក្រោយ​ដែល​អ្នក​បើក &brandShortName;">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -403,11 +425,14 @@ size. -->
 <!ENTITY site_settings_cancel       "បោះបង់">
 <!ENTITY site_settings_clear        "សម្អាត">
 <!ENTITY site_settings_no_settings  "មិន​មាន​ការ​កំណត់​ដែល​ត្រូវ​សម្អាត​ទេ។">
+<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+     as possible. -->
 
-<!ENTITY reading_list_added "បាន​បន្ថែម​ទំព័រ​ទៅ​បញ្ជី​អាន​របស់​អ្នក">
+<!ENTITY reading_list_added2 "បាន​បន្ថែម​ទៅ​បញ្ជី">
 <!ENTITY reading_list_removed "បាន​យក​ទំព័រ​ចេញពី​បញ្ជី​អាន​របស់​អ្នក">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
+<!ENTITY reading_list_remove "លុប​ចេញ​ពី​បញ្ជី​អាន">
 <!ENTITY reading_list_duplicate "ទំព័រ​គឺ​នៅ​ក្នុង​បញ្ជី​អាន​របស់​អ្នក​រួចហើយ">
 <!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
      panel on the home page to give the user an estimate of how many minutes it will take to
@@ -432,7 +457,9 @@ size. -->
 <!ENTITY button_clear_data "សម្អាត​ទិន្នន័យ">
 <!ENTITY button_set "កំណត់">
 <!ENTITY button_clear "សម្អាត">
-<!ENTITY button_remember "ចងចាំ">
+<!ENTITY button_copy "ចម្លង">
+
+<!ENTITY firstrun_panel_title_welcome "សូម​ស្វាគមន៍">
 
 <!ENTITY home_top_sites_title "តំបន់បណ្ដាញ​ពេញនិយម">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -494,10 +521,6 @@ size. -->
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "មិន​លាក់​ឧបករណ៍">
 
-<!ENTITY private_browsing_title "ការ​រក​មើល​ឯកជន">
-<!ENTITY private_tabs_panel_empty_desc "ផ្ទាំង​ឯកជន​របស់​អ្នក​នឹង​បង្ហាញ​នៅ​ទីនេះ។ ខណៈ​ដែល​យើង​មិន​រក្សាទុក​ប្រវត្តិ ឬ​ខូគី​, ចំណាំ និង​ឯកសារ​រុករក​របស់​អ្នក​ណា​មួយ ដែល​អ្នក​ទាញយក​នឹង​នៅ​តែ​បាន​រក្សាទុក​លើ​ឧបករណ៍​របស់​អ្នក។">
-<!ENTITY private_tabs_panel_learn_more "ចង់​ស្វែងយល់​បន្ថែម?">
-
 <!ENTITY remote_tabs_panel_moved_title "តើ​ផ្ទាំង​របស់​ខ្ញុំ​ទៅណា?">
 <!ENTITY remote_tabs_panel_moved_desc "យើង​បាន​ផ្លាស់ទី​ផ្ទាំង​របស់​អ្នក​ពី​ឧបករណ៍​ផ្សេង ទៅ​ក្នុង​ផ្ទាំង​នៅ​លើ​គេហទំព័រ​របស់​អ្នក​ដែល​អាច​ងាយស្រួល​ចូល​ប្រើ​នៅ​រាល់​ពេល​បើក​ផ្ទាំង​ថ្មី។">
 <!ENTITY remote_tabs_panel_moved_link "នាំ​ខ្ញុំ​ទៅ​ផ្ទាំង​ថ្មី។">
@@ -525,6 +548,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "ដែល​បាន​ដំណើរការ​ដោយ">
 <!ENTITY identity_no_info "តំបន់បណ្ដាញ​នេះ​មិន​ផ្ដល់​ព័ត៌មាន​អំពី​អត្តសញ្ញាណ​ទេ។">
 <!ENTITY identity_not_encrypted "ការ​តភ្ជាប់​របស់​អ្នក​ទៅកាន់​តំបន់បណ្ដាញ​នេះ​មិន​ត្រូវ​បាន​ដាក់​លេខ​កូដ​ទេ។">
+<!ENTITY identity_encrypted "បាន​អ៊ិនគ្រីប">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "ទំព័រ​នេះ​កំពុង​បង្ហាញ​មាតិកា​ដែល​គ្មាន​សុវត្ថិភាព។">
@@ -591,7 +615,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "បន្ត">
 <!ENTITY guest_session_dialog_cancel "បោះបង់">
 <!ENTITY new_guest_session_title "&brandShortName; នឹង​ចាប់ផ្ដើម​ឡើងវិញ​ឥឡូវនេះ">
-<!ENTITY new_guest_session_text "មនុស្ស​ដែល​ប្រើ​វា នឹង​មិន​អាច​មើល​ឃើញ​ការ​រុករក​ទិន្នន័យ​ផ្ទាល់ខ្លួន​របស់​អ្នក (ដូចជា​ពាក្យសម្ងាត់, ប្រវត្តិ ឬ​ចំណាំ​ដែល​បាន​រក្សាទុក) បាន​ទេ។\n\nពេល​អ្នក​បាន​បញ្ចប់​សម័យ​ភ្ញៀវ, ទិន្នន័យ​ការ​រុករក​របស់​ពួកគេ​នឹង​ត្រូវ​បាន​លុប ហើយ​សម័យ​នឹង​ត្រូវ​ស្ដារ។">
+<!ENTITY new_guest_session_text2 "មនុស្ស​ដែល​ប្រើ​វា​នឹង​មិន​អាច​មើល​ទិន្នន័យ​ការ​រក​មើល​ផ្ទាល់ខ្លួន​របស់​អ្នក​ណា​មួយ​បាន​ឡើយ (ដូចជា​​ការ​ចូល, ប្រវត្តិ ឬ​ចំណាំ​ដែល​បាន​រក្សាទុក)។​\n\nនៅ​ពេល​ភ្ញៀវ​របស់​អ្នក​​ធ្វើ​រួច​ហើយ នោះ​ទិន្នន័យ​ការ​រក​មើល​របស់​ពួកគេ​​នឹង​ត្រូវ​បាន​លុប ហើយ​សម័យ​របស់​អ្នក​នឹង​ត្រូវ​បាន​ស្ដារ។">
 <!ENTITY guest_browsing_notification_title "បាន​បើក​ការ​រុករក​ភ្ញៀវ">
 <!ENTITY guest_browsing_notification_text "ប៉ះ​ដើម្បី​ចេញ">
 
@@ -605,6 +629,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
+<!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
+     display a percentage value. formatS is the number, #37 is the code to display a percent sign.
+     This format string is typically used by getString method, in such method the percent sign
+     is a reserved caracter. In order to display one percent sign in the result of getString,
+     double percent signs must be inserted in the format string.
+     This entity is used in the zoomed view to display the zoom factor-->
+
+<!ENTITY percent "&formatS;&#037;&#037;">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
@@ -632,3 +664,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
 
 <!ENTITY find_matchcase "Aa">
+
+<!ENTITY intent_uri_cannot_open "មិន​អាច​បើក​តំណ">
