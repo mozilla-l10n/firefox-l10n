@@ -10,3 +10,6 @@
 <!ENTITY addonAction.disable                    "បិទ">
 <!ENTITY addonAction.uninstall                  "លុប">
 <!ENTITY addonAction.undo                       "មិនធ្វើវិញ">
+
+<!ENTITY addonUnsigned.message                  "កម្មវិធី​ផ្នែក​បន្ថែម​នេះ​មិន​អាច​បញ្ជាក់​​ដោយ &brandShortName; បាន​ទេ។">
+<!ENTITY addonUnsigned.learnMore                "ស្វែងយល់​បន្ថែម">
