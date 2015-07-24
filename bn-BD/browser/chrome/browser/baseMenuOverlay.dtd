@@ -25,8 +25,8 @@
 
 <!ENTITY helpSafeMode.label       "নিস্ক্রিয় অ্যাড-অনসহ পুনরায় শুরু… (R)">
 <!ENTITY helpSafeMode.accesskey   "R">
-
-
+<!ENTITY helpSafeMode.stop.label       "অ্যাড-অন সক্রিয় করে পুনরায় চালু করুন R">
+<!ENTITY helpSafeMode.stop.accesskey   "R">
 
 <!ENTITY healthReport2.label      "&brandShorterName; Health Report">
 <!ENTITY healthReport2.accesskey  "e">
@@ -37,13 +37,15 @@
 <!ENTITY helpFeedbackPage.label      "মন্তব্য প্রদান… (S)">
 <!ENTITY helpFeedbackPage.accesskey  "S">
 
-
+<!ENTITY helpShowTour2.label            "&brandShorterName; ট্যুর T">
+<!ENTITY helpShowTour2.accesskey        "T">
 
 <!ENTITY preferencesCmdMac.label        "পছন্দসমূহ...">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "সেবা">
 
+<!ENTITY hideThisAppCmdMac2.label       "&brandShorterName; আড়াল করা হবে (H)">
 <!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "অন্যান্য উইন্ডো আড়াল করা হবে">
