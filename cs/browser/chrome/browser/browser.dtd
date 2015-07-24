@@ -91,7 +91,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "t">
 
 <!ENTITY pageSourceCmd.label "Zdrojový kód stránky">
-<!ENTITY pageSourceCmd.accesskey "k">
+<!ENTITY pageSourceCmd.accesskey "j">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Informace o stránce">
 <!ENTITY pageInfoCmd.accesskey "I">
@@ -134,7 +134,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY leaveDOMFullScreen.accesskey "k">
 
 <!ENTITY closeWindow.label "Zavřít okno">
-<!ENTITY closeWindow.accesskey "a">
+<!ENTITY closeWindow.accesskey "v">
 
 <!ENTITY bookmarksMenu.label "Záložky">
 <!ENTITY bookmarksMenu.accesskey "o">
@@ -249,7 +249,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY responsiveDesignTool.commandkey "M">
 
 <!ENTITY eyedropper.label   "Kapátko">
-<!ENTITY eyedropper.accesskey "K">
+<!ENTITY eyedropper.accesskey "p">
 
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
@@ -280,11 +280,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Zavře lištu vývoje">
 <!ENTITY devToolbarMenu.label "Lišta vývoje">
-<!ENTITY devToolbarMenu.accesskey "v">
+<!ENTITY devToolbarMenu.accesskey "o">
 <!ENTITY devAppMgrMenu.label               "Správce aplikací">
 <!ENTITY devAppMgrMenu.accesskey           "a">
 <!ENTITY webide.label                      "WebIDE">
-<!ENTITY webide.accesskey                  "W">
+<!ENTITY webide.accesskey                  "b">
 <!ENTITY webide.keycode                    "VK_F8">
 <!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode "VK_F2">
