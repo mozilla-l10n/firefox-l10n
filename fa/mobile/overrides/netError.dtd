@@ -11,7 +11,7 @@
 
 
 <!ENTITY connectionFailure.title "قادر به اتصال نیست">
-
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "این نشانی ممنوع است">
 <!ENTITY deniedPortAccess.longDesc "">
@@ -32,7 +32,7 @@
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY netInterrupt.title "اتصال مختل شد">
-
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "نوشتار منقضی شده">
 <!ENTITY notCached.longDesc "<p>پرونده درخواستی در حافظه &brandShortName; موجود نیست.</p><ul><li>به عنوان یک احتیاط امنیتی، &brandShortName; به‌طور خودکار نوشتارهای حساس را مجددا درخواست نمی‌کند.</li><li>بر روی تلاش مجدد کلیک کنید تا نوشتار از پایگاه‌وب مجددا درخواست شود.</li></ul>">
@@ -52,10 +52,10 @@
 </ul>">
 
 <!ENTITY netReset.title "اتصال قطع شد">
-
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "وقت اتصال تمام شد">
-
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "نشانی قابل فهم نبود">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>شاید نیاز به نصب برنامهٔ دیگری برای باز نمودن این نشانی دارید.</li> </ul>">

@@ -10,3 +10,5 @@
 <!ENTITY addonAction.disable                    "غیر فعال‌سازی">
 <!ENTITY addonAction.uninstall                  "عزل">
 <!ENTITY addonAction.undo                       "برگردان">
+
+<!ENTITY addonUnsigned.learnMore                "اطلاعات بیشتر">
