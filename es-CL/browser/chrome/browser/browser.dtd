@@ -93,8 +93,6 @@
 <!ENTITY fullScreenAutohide.accesskey "h">
 <!ENTITY fullScreenExit.label "Salir del modo de Pantalla Completa">
 <!ENTITY fullScreenExit.accesskey "S">
-<!ENTITY fullscreenAllowButton.label "Permitir">
-<!ENTITY fullscreenExitButton.label "Denegar">
 <!ENTITY fullscreenExitHint2.value "Presiona ESC en cualquier momento para salir.">
 <!ENTITY leaveDOMFullScreen.label "Salir de pantalla completa">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
@@ -300,6 +298,8 @@
 <!ENTITY searchFocus.commandkey "k">
 <!ENTITY searchFocus.commandkey2 "e">
 <!ENTITY searchFocusUnix.commandkey "j">
+<!ENTITY contentSearchInput.label     "Buscar por">
+<!ENTITY contentSearchSubmit.label    "Enviar búsqueda">
 <!ENTITY searchFor.label              "Buscar ">
 <!ENTITY search.label                 "Buscar ">
 <!ENTITY searchAfter.label            "">
@@ -567,6 +567,7 @@
 <!ENTITY trackingProtection.unblock.label "Desactivar la protección para este sitio">
 <!ENTITY trackingProtection.unblock.accesskey "D">
 <!ENTITY trackingProtection.unblockPrivate.label "Desactivar la protección durante esta sesión">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "D">
 <!ENTITY trackingProtection.block2.label "Activar protección">
 <!ENTITY trackingProtection.block2.accesskey "E">
 <!ENTITY trackingContentBlocked.message "Seguimiento">
