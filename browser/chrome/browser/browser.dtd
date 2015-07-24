@@ -21,8 +21,8 @@
 
 <!ENTITY  reloadTab.label                    "ট্যাব পুনরায় লোড R">
 <!ENTITY  reloadTab.accesskey                "R">
-
-
+<!ENTITY  reloadAllTabs.label                "সব ট্যাব পুনরায় লোড করুন A">
+<!ENTITY  reloadAllTabs.accesskey            "A">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -45,10 +45,10 @@ can reach it easily. -->
 <!ENTITY  moveToNewGroup.label               "নতুন গ্রুপ">
 <!ENTITY  moveToNewWindow.label              "নতুন উইন্ডোতে স্থানান্তর W">
 <!ENTITY  moveToNewWindow.accesskey          "W">
-
-
-
-
+<!ENTITY  bookmarkAllTabs.label              "সকল ট্যাব বুকমার্ক করুন T…">
+<!ENTITY  bookmarkAllTabs.accesskey          "T">
+<!ENTITY  undoCloseTab.label                 "বন্ধ করা ট্যাব পুনরায় খুলুন U">
+<!ENTITY  undoCloseTab.accesskey             "U">
 <!ENTITY  closeTab.label                     "ট্যাব বন্ধ (C)">
 <!ENTITY  closeTab.accesskey                 "C">
 
@@ -93,8 +93,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageInfoCmd.label "পৃষ্ঠা সংক্রান্ত তথ্য (I)">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
-
-
+<!ENTITY mirrorTabCmd.label "মিরর M ট্যাব">
+<!ENTITY mirrorTabCmd.accesskey "M">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "পূর্ণ পর্দাজুড়ে প্রদর্শন F">
@@ -143,6 +143,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
+<!ENTITY findShareServices.label "শেয়ারের জন্য আরো সার্ভিস খুঁজুন…">
 <!ENTITY sharePageCmd.label "এই পৃষ্ঠা শেয়ার করুন s">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "s">
@@ -243,7 +244,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY responsiveDesignTool.accesskey "R">
 <!ENTITY responsiveDesignTool.commandkey "M">
 
-
+<!ENTITY eyedropper.label   "আইড্রপার y">
+<!ENTITY eyedropper.accesskey "y">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -275,8 +277,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarMenu.accesskey          "v">
 <!ENTITY devAppMgrMenu.label               "অ্যাপ ম্যানেজার(A)">
 <!ENTITY devAppMgrMenu.accesskey           "A">
-
-
+<!ENTITY webide.label                      "WebIDE">
+<!ENTITY webide.accesskey                  "W">
 <!ENTITY webide.keycode                    "VK_F8">
 <!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
@@ -298,7 +300,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "নতুন ব্যক্তিগত উইন্ডো">
 <!ENTITY newPrivateWindow.accesskey "W">
-
+<!ENTITY newNonRemoteWindow.label   "নতুন Non-e10s উইন্ডো">
 
 <!ENTITY editMenu.label         "সম্পাদনা (E)"> 
 <!ENTITY editMenu.accesskey       "E"> 
@@ -415,7 +417,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
-
+<!ENTITY searchWith.label             " সাথে:">
 <!-- LOCALIZATION NOTE (search.label, searchAfter.label):
      This string is used to build the header above the list of one-click search
      providers when a one off engine has been selected.  The searchAfter text is
@@ -430,6 +432,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
+<!ENTITY changeSearchSettings.button  "সার্চ সেটিংস বদল করুন">
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -505,8 +508,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "g">
 <!ENTITY emailVideoCmd.label          "ভিডিও ইমেইল করুন... a">
 <!ENTITY emailVideoCmd.accesskey      "a">
-
-
+<!ENTITY castVideoCmd.label           "ডিভাইসে ভিডিও পাঠান e">
+<!ENTITY castVideoCmd.accesskey       "e">
 
 
 <!ENTITY playPluginCmd.label          "এই প্লাগইনটি সচল করুন c">
@@ -660,9 +663,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label                   "বাতিল">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
-
-
-
+<!ENTITY identity.connectionNotSecure "সংযোগ নিরাপদ নয়">
+<!ENTITY identity.connectionVerified "&brandShortName; যাচাই করে যে আপনি নিরাপদভাবে এই সাইটের সাথে সংযুক্ত হয়েছেন, এটি চালনা করে:">
+<!ENTITY identity.connectionInternal "এটি একটি সুরক্ষিত &brandShortName; পৃষ্ঠা।">
 
 
 <!ENTITY identity.permissions "অনুমোদন (P)">
