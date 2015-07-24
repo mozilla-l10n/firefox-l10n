@@ -479,7 +479,7 @@
 <!ENTITY deleteJunk.accesskey "n">
 <!ENTITY importCmd.label "Importovat…">
 <!ENTITY importCmd.accesskey "I">
-<!ENTITY errorConsoleCmd.label "Chybová konzola">
+<!ENTITY errorConsoleCmd.label "Chybová konzole">
 <!ENTITY errorConsoleCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY clearRecentHistory.label "Vymazat nedávnou historii…">

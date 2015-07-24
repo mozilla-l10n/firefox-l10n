@@ -232,12 +232,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devtoolsConnect.label "Připojit…">
 <!ENTITY devtoolsConnect.accesskey "P">
 
-<!ENTITY errorConsoleCmd.label "Chybová konzola">
+<!ENTITY errorConsoleCmd.label "Chybová konzole">
 <!ENTITY errorConsoleCmd.accesskey "C">
 
-<!ENTITY remoteWebConsoleCmd.label "Vzdálená webová konzola">
+<!ENTITY remoteWebConsoleCmd.label "Vzdálená webová konzole">
 
-<!ENTITY browserConsoleCmd.label "Konzola prohlížeče">
+<!ENTITY browserConsoleCmd.label "Konzole prohlížeče">
 <!ENTITY browserConsoleCmd.commandkey "j">
 <!ENTITY browserConsoleCmd.accesskey  "K">
 
