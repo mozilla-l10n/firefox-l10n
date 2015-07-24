@@ -674,10 +674,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label                   "Бас тарту">
 <!ENTITY editBookmark.removeBookmark.accessKey       "ш">
 
+<!ENTITY identity.connectionSecure "Қауіпсіз байланыс">
+<!ENTITY identity.connectionNotSecure "Байланыс қауіпсіз емес">
+<!ENTITY identity.connectionVerified "&brandShortName; бұл сайтқа қауіпсіз түрде қосылғаныңызды тексерді, сайт иесі:">
+<!ENTITY identity.connectionInternal "Бұл - қауіпсіз &brandShortName; беті.">
 
-
-
-
+<!ENTITY identity.moreInfoLinkText2 "Көбірек білу">
 
 <!ENTITY identity.permissions "Рұқсаттар">
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -852,6 +854,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY readingList.sidebar.add.tooltip          "Бұл парақты сіздің оқу тізіміңізге қосу">
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 
-
-
-
+<!ENTITY saveToPocketCmd.label     "Бетті Pocket-ке сақтау">
+<!ENTITY saveToPocketCmd.accesskey "с">
+<!ENTITY saveLinkToPocketCmd.label     "Сілтемені Pocket-ке сақтау">
+<!ENTITY saveLinkToPocketCmd.accesskey "т">
+<!ENTITY pocketMenuitem.label      "Pocket тізімін қарау">
