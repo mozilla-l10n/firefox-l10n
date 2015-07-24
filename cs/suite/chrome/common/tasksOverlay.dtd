@@ -11,7 +11,7 @@
 <!ENTITY editorCmd.accesskey "E">
 <!ENTITY editorCmd.commandkey "4">
 
-<!ENTITY errorConsoleCmd.label "Chybová konzola">
+<!ENTITY errorConsoleCmd.label "Chybová konzole">
 <!ENTITY errorConsoleCmd.accesskey "C">
 <!ENTITY errorConsoleCmd.commandkey "j">
 

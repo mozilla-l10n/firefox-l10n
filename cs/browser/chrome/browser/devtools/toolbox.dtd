@@ -149,12 +149,12 @@
 
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
-<!ENTITY options.webconsole.label            "Webová konzola">
+<!ENTITY options.webconsole.label            "Webová konzole">
 
 <!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
    - label for the checkbox that toggles timestamps in the Web Console -->
 <!ENTITY options.timestampMessages.label      "Povolit časové značky">
-<!ENTITY options.timestampMessages.tooltip    "Pokud povolíte tuto volbu, bude výstup ve Webové konzole obsahovat časové značky">
+<!ENTITY options.timestampMessages.tooltip    "Pokud povolíte tuto volbu, bude výstup ve Webové konzoli obsahovat časové značky">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
@@ -187,7 +187,7 @@
   -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
   -  about:config, in the options panel. -->
 <!ENTITY options.enablePersistentLogs.label    "Povolit trvalé logování">
-<!ENTITY options.enablePersistentLogs.tooltip  "Pokud povolíte tuto volbu, nebude Webová konzola promazávána pokaždé, když se rozhodnete navštívit novou stránku">
+<!ENTITY options.enablePersistentLogs.tooltip  "Pokud povolíte tuto volbu, nebude Webová konzole promazávána pokaždé, když se rozhodnete navštívit novou stránku">
 
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
