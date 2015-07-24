@@ -173,8 +173,8 @@
 
 
 <!ENTITY fxaccount_status_sync_server "کارگزار هم‌گام‌سازی">
-
-
+<!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
+<!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: فعال شد">
 
 
 
@@ -208,6 +208,8 @@
      Account} Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
      Account. -->
+
+<!ENTITY fxaccount_options_title "گزینه‌های &syncBrand.shortName.label;">
 
 <!-- Localization note: these error messages are shown after a request
      has been made to the remote server, and an error of some type has

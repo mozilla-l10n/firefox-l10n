@@ -2,12 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                  "مرور خصوصی">
+<!ENTITY privatebrowsingpage.title "مرور خصوصی">
 
-<!ENTITY privatebrowsingpage.issueDesc.private      "شما یک زبانه خصوصی جدید را باز کرده‌اید.">
-<!ENTITY privatebrowsingpage.issueDesc.normal       "شما در یک زبانه خصوصی نیستید.">
 
-<!ENTITY privatebrowsingpage.description            "در زبانه‌های خصوصی، &brandShortName; هیج تاریخچه‌ای از مرور، جست‌وجوها، بارگیری‌ها، فرم‌های وب، کوکی‌ها یا پرونده‌های موقت اینترنتی نگه نخواهد داشت. با این حال، پرونده‌هایی که بارگیری کنید یا نشانک‌هایی که ایجاد کنید نگه داشته خواهند شد.">
-<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
 
-<!ENTITY privatebrowsingpage.moreInfo               "با اینکه این دستگاه هیچ تاریخچه‌ای از مرور شما را نگهداری نخواهد کرد، فراهم‌کننده سرویس اینترنتی شما هنوز هم می‌تواند صفحاتی که می‌بینید را ردگیری کند.">
+
+<!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
+<!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
+
+

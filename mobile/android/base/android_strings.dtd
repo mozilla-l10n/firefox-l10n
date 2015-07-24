@@ -42,6 +42,9 @@
 
 
 <!ENTITY bookmark_added "نشانک اضافه شد">
+<!-- Localization note (bookmark_already_added) : This string is
+     used as a label in a toast. It is the verb "to bookmark", not
+     the noun "a bookmark". -->
 <!ENTITY bookmark_removed "نشانک حذف گردید">
 <!ENTITY bookmark_updated "نشانک به‌روزرسانی شد">
 <!ENTITY bookmark_options "گزینه‌ها">
@@ -75,6 +78,7 @@
 
 <!ENTITY settings "تنظیمات">
 
+
 <!ENTITY pref_category_advanced "پیشرفته">
 <!ENTITY pref_category_customize "سفارشی‌سازی">
 
@@ -107,7 +111,6 @@
      to. -->
 
 
-
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
@@ -138,11 +141,11 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_category_devtools "ابزارهای توسعه‌دهندگان">
-
-
 <!ENTITY pref_developer_remotedebugging "رفع‌اشکال از راه دور">
 
-<!ENTITY pref_remember_signons "به خاطر سپردن گذرواژه‌ها">
+
+
+
 
 
 <!ENTITY pref_category_home "خانه">
@@ -178,15 +181,17 @@
 
 
 
-<!-- Localization note (tab_queue_notification_text_plural) : The
+
+
+
+
+
+
+<!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!-- Localization note (tab_queue_notification_title_plural) : This is the
-     title of a notification; we expect more than one tab queued. -->
-<!-- Localization note (tab_queue_notification_title_singular) : This is the
-     title of a notification; we expect only one tab queued. -->
-<!-- Localization note (tab_queue_notification_text_singular) : This is the
+<!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
 
 <!ENTITY pref_char_encoding "کدگذاری نویسه‌ها">
@@ -226,6 +231,10 @@ size. -->
 
 
 
+
+
+
+
 <!ENTITY pref_use_master_password "استفاده از گذرواژهٔ اصلی">
 <!ENTITY pref_sync "هم‌گام‌سازی">
 
@@ -235,10 +244,12 @@ size. -->
 
 
 
-<!ENTITY pref_private_data_passwords "گذرواژه‌های ذخیره شده">
+
+
 <!ENTITY pref_private_data_cache "حافظهٔ نهان">
 <!ENTITY pref_private_data_offlineApps "اطلاعات آفلاین وب‌سایت‌ها">
 <!ENTITY pref_private_data_siteSettings2 "تنظیمات سایت">
+
 
 
 
@@ -258,6 +269,7 @@ size. -->
 
 
 
+<!ENTITY datareporting_notification_title "&brandShortName; آمار و داده‌ها">
 <!ENTITY datareporting_notification_action_long "انتخاب کنید چه اطلاعاتی به‌اشتراک گذاشته شود">
 <!ENTITY datareporting_notification_action "انتخاب کنید چه چیزی به‌اشتراک گذاشته شود">
 <!ENTITY datareporting_notification_summary "برای بهبود تجربه شما &brandShortName; به‌طور خودکار اطلاعاتی به &vendorShortName; ارسال می‌کند.">
@@ -350,6 +362,12 @@ size. -->
 
 
 
+
+
+
+
+
+
 <!ENTITY pref_titlebar_mode "نوار عنوان">
 <!ENTITY pref_titlebar_mode_title "نمایش عنوان صفحه">
 <!ENTITY pref_titlebar_mode_url "نمایش آدرس صفحه">
@@ -375,8 +393,8 @@ size. -->
 
 <!ENTITY site_settings_clear        "پاک کردن">
 <!ENTITY site_settings_no_settings  "هیج تنظیماتی برای پاک کردن نیست.">
-
-<!ENTITY reading_list_added "صفحه به لیست خواندن اضافه شد">
+<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+     as possible. -->
 <!ENTITY reading_list_removed "صفحه از لیست خواندن حذف شد">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -402,6 +420,7 @@ size. -->
 <!ENTITY button_clear_data "پاک‌کردن اطلاعات">
 
 
+<!ENTITY button_copy "رونوشت">
 
 
 <!ENTITY home_top_sites_title "سایت‌های برتر">
@@ -454,10 +473,6 @@ size. -->
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 
-<!ENTITY private_browsing_title "مرور خصوصی">
-
-
-
 
 
 
@@ -483,6 +498,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "اداره کننده:">
 
 
+<!ENTITY identity_encrypted "رمزنگاری شده">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "این صفحه محتویاتی را نمایش می‌دهد که ایمن نیست.">
@@ -545,7 +561,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "ادامه">
 
 <!ENTITY new_guest_session_title "&brandShortName; هم‌اکنون راه اندازی مجدد خواهد شد">
-<!ENTITY new_guest_session_text "شخص با استفاده از این قادر نخواهد بود هیچ یک از داده‌های مرور شخصی شما را ببیند (مانند گذرواژه‌های ذخیره شده، تاریخچه یا نشانک‌ها).\n\nزمانی که کار مهمان شما تمام شود، داده‌های مرور پاک خواهند شد و نشست شما بازگردانده می‌شود.">
+
 
 
 
@@ -555,6 +571,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
 
+<!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
+     display a percentage value. formatS is the number, #37 is the code to display a percent sign.
+     This format string is typically used by getString method, in such method the percent sign
+     is a reserved caracter. In order to display one percent sign in the result of getString,
+     double percent signs must be inserted in the format string.
+     This entity is used in the zoomed view to display the zoom factor-->
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 <!ENTITY actionbar_done "انجام شد">
@@ -575,3 +597,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
 
 <!ENTITY find_matchcase "آپ">
+
