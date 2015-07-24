@@ -723,8 +723,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY customizeMode.lwthemes.menuManage "ব্যবস্থাপনা">
-
-
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
+<!ENTITY customizeMode.lwthemes.menuGetMore "আরও থিম পান">
 
 
 <!ENTITY social.chatBar.commandkey "c">
@@ -785,9 +785,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
-
-
-
+<!ENTITY panicButton.view.5min                    "পাঁচ মিনিট">
+<!ENTITY panicButton.view.2hr                     "দুই ঘণ্টা">
+<!ENTITY panicButton.view.day                     "24 ঘন্টা">
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
