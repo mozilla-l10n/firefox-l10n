@@ -3,13 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY tracking.label "Rastreo">
-<!ENTITY dntTrackingNotOkay.label2      "Decirle a los sitios que no quiero ser rastreado">
-<!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY trackingProtection.label       "Prevenir a los sitios de rastrearme">
-<!ENTITY trackingProtection.accesskey   "m">
+<!ENTITY dntTrackingNotOkay3.label     "Solicitar a los sitios que no le sigan.">
+<!ENTITY dntTrackingNotOkay3.accesskey "n">
+<!ENTITY trackingProtection3.label     "Detener a los sitios de seguirle.">
+<!ENTITY trackingProtection3.accesskey "m">
 <!ENTITY trackingProtectionLearnMore.label "Aprender más">
-<!ENTITY trackingProtectionPBM.label          "Evitar que los sitios rastreen mi actividad en línea en Ventanas privadas.">
-<!ENTITY trackingProtectionPBM.accesskey      "m">
+<!ENTITY trackingProtectionPBM3.label         "Detener a los sitios de para que no le sigan en ventanas privadas.">
+<!ENTITY trackingProtectionPBM3.accesskey     "y">
+
+
 <!ENTITY trackingProtectionPBMLearnMore.label "Aprender más">
 <!ENTITY doNotTrackInfo.label           "Aprender más">
 <!ENTITY history.label "Historial">
