@@ -4,3 +4,5 @@
 
 <!ENTITY aboutLogins.title "Accessi">
 <!ENTITY aboutLogins.save "Salva">
+<!ENTITY aboutLogins.emptyLoginText "Mantieni al sicuro i tuoi accessi">
+<!ENTITY aboutLogins.emptyLoginHint "Qui verranno visualizzati gli accessi e le credenziali salvate in &brandShortName;.">
