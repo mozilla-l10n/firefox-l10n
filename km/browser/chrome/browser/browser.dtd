@@ -303,7 +303,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "ប">
 <!ENTITY newPrivateWindow.label     "បង្អួច​ឯកជន​ថ្មី">
 <!ENTITY newPrivateWindow.accesskey "ប">
-
+<!ENTITY newNonRemoteWindow.label   "បង្អួច​គ្មាន-e10s ថ្មី">
 
 <!ENTITY editMenu.label         "កែសម្រួល"> 
 <!ENTITY editMenu.accesskey       "ក"> 
