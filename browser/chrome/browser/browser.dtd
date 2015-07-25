@@ -303,7 +303,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "Novi privatni prozor">
 <!ENTITY newPrivateWindow.accesskey "p">
-
+<!ENTITY newNonRemoteWindow.label   "Novi ne-10s prozor">
 
 <!ENTITY editMenu.label         "Uredi"> 
 <!ENTITY editMenu.accesskey       "e"> 

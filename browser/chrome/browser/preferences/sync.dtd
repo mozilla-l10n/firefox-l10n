@@ -42,8 +42,8 @@
 
 <!ENTITY syncDeviceName.label       "Naziv uređaja:">
 <!ENTITY syncDeviceName.accesskey   "z">
-
-
+<!ENTITY fxaSyncDeviceName.label       "Naziv uređaja">
+<!ENTITY changeSyncDeviceName.label "Promijeni naziv uređaja…">
 <!ENTITY cancelChangeSyncDeviceName.label "Odustani">
 <!ENTITY saveChangeSyncDeviceName.label "Spremi">
 <!ENTITY unlinkDevice.label           "Odspoji ovaj uređaj">
