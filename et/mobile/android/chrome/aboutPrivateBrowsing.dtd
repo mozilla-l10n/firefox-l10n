@@ -3,11 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY privatebrowsingpage.title                  "Privaatne veebilehitsemine">
+<!ENTITY privatebrowsingpage.title.normal           "Sa pole privaatse veebilehitsemise režiimis">
 
-<!ENTITY privatebrowsingpage.issueDesc.private      "Sa avasid uue privaatse kaardi.">
-<!ENTITY privatebrowsingpage.issueDesc.normal       "See pole privaatne kaart.">
+<!ENTITY privatebrowsingpage.issueDesc.normal2      "Privaatse veebilehitsemise režiimis ei säilitata sinu veebilehitsmise ajalugu ega küpsiseid.">
+<!ENTITY privatebrowsingpage.issueDesc.private2     "Me ei säilita sinu lehitsemise ajalugu ega küpsiseid.">
 
-<!ENTITY privatebrowsingpage.description            "&brandShortName;i privaatsed kaardid ei säilita veebilehitsemise, otsingute ja allalaadimiste ajalugu, veebivormidesse sisestatut, küpsiseid ega ka ajutisi faile. Siiski säilitatakse lisatud järjehoidjad ja allalaaditud failid.">
-<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+<!ENTITY privatebrowsingpage.description2           "Lisatud järjehoidjad ja allalaaditud failid siiski säilitatakse.">
+<!ENTITY privatebrowsingpage.description.normal     "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
+<!ENTITY privatebrowsingpage.description.private2   "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
 
-<!ENTITY privatebrowsingpage.moreInfo               "Kuigi sellesse seadmesse ei jää jälge sinu veebilehitsemise ajaloost, võib sinu interneti teenusepakkuja siiski sinu külastatavaid lehti jälgida.">
+<!ENTITY privatebrowsingpage.link.private           "Kas soovid rohkem teavet?">
+<!ENTITY privatebrowsingpage.link.normal            "Ava uus privaatne kaart">

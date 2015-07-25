@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label  'Sünkroniseerimine'>
 <!ENTITY sync.configure.engines.sync.my.title.label 'Sünkroniseeri oma…'>
 <!ENTITY sync.configure.engines.title.bookmarks 'järjehoidjad'>
-<!ENTITY sync.configure.engines.title.passwords 'paroolid'>
+<!ENTITY sync.configure.engines.title.passwords2 'kasutajakontod'>
 <!ENTITY sync.configure.engines.title.history 'ajalugu'>
 <!ENTITY sync.configure.engines.title.tabs   'kaardid'>
 
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy             'privaatsusreeglid'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'Tere tulemast &syncBrand.shortName.label;i'>
-<!ENTITY fxaccount_getting_started_description    'Oma kaartide, järjehoidjate, paroolide ja muu sünkroniseerimiseks logi sisse.'>
+<!ENTITY fxaccount_getting_started_description2   'Oma kaartide, järjehoidjate, kasutajakontode ja muu sünkroniseerimiseks logi sisse.'>
 <!ENTITY fxaccount_getting_started_get_started    'Tee algust'>
 <!ENTITY fxaccount_getting_started_old_firefox    'Kas kasutad &syncBrand.shortName.label;i vanemat versiooni?'>
 
@@ -212,7 +212,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating  'Oma uude Firefoxi kontosse sisselogimiseks puuduta.'>
 <!ENTITY fxaccount_status_bookmarks               'järjehoidjad'>
 <!ENTITY fxaccount_status_history                 'ajalugu'>
-<!ENTITY fxaccount_status_passwords               'paroolid'>
+<!ENTITY fxaccount_status_passwords2              'kasutajakontod'>
 <!ENTITY fxaccount_status_tabs                    'avatud kaardid'>
 <!ENTITY fxaccount_status_legal                   'Õiguslik teave' >
 <!-- Localization note: when tapped, the following two strings link to
