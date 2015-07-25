@@ -409,10 +409,6 @@
 <!ENTITY actionbar_menu "Menu">
 <!ENTITY actionbar_done "Fatto">
 <!ENTITY voicesearch_prompt "Parla ora">
-<!ENTITY voicesearch_failed_title "Ricerca vocale di &brandShortName;">
-<!ENTITY voicesearch_failed_message "Si è verificato un problema con la ricerca vocale. Riprovare.">
-<!ENTITY voicesearch_failed_message_recoverable "Siamo spiacenti, non è stato possibile riconoscere le parole. Riprovare.">
-<!ENTITY voicesearch_failed_retry "Riprova">
 <!ENTITY remote_tabs_last_synced "Ultima sinc.: &formatS;">
 <!ENTITY remote_tabs_never_synced "Ultima sinc.: mai">
 <!ENTITY find_matchcase "Aa">
