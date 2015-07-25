@@ -7,6 +7,8 @@
 <!ENTITY syncBrand.fullName.label "ফায়ারফক্স সিঙ্ক">
 <!ENTITY syncBrand.shortName.label "সিঙ্ক">
 <!-- Main titles. -->
+
+<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
 <!ENTITY sync.title.connect.label "&syncBrand.shortName.label; এ সংযোগ করুন">
 <!ENTITY sync.title.adddevice.label "একটি &syncBrand.fullName.label; একাউন্ট সংযুক্ত করুন">
 <!ENTITY sync.title.pair.label "ডিভাইস পেয়ার করুন">
@@ -28,7 +30,7 @@
 
 <!ENTITY sync.subtitle.account.label "আপনার &syncBrand.fullName.label; একাউন্ট ইনফরমেশন প্রবেশ করান">
 <!ENTITY sync.input.username.label "অ্যাকাউন্টের নাম">
-
+<!ENTITY sync.input.password.label "পাসওয়ার্ড">
 <!ENTITY sync.input.key.label "পুনরুদ্ধার কী">
 <!ENTITY sync.checkbox.server.label "স্বনির্ধারিত সার্ভার ব্যবহার করুন">
 <!ENTITY sync.input.server.label "সার্ভার ইউআরএল">
@@ -59,9 +61,9 @@
 
 <!ENTITY sync.configure.engines.title.label "কি সিঙ্ক করতে হবে">
 <!ENTITY sync.configure.engines.sync.my.title.label "সিঙ্ক আপনার...">
-
-
-
+<!ENTITY sync.configure.engines.title.bookmarks "বুকমার্ক">
+<!ENTITY sync.configure.engines.title.passwords2 "লগইন">
+<!ENTITY sync.configure.engines.title.history "ইতিহাস">
 <!ENTITY sync.configure.engines.title.tabs "ট্যাব">
 <!-- Common text -->
 
@@ -110,8 +112,8 @@
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
-
-
+<!ENTITY fxaccount_password_hint "পাসওয়ার্ড">
+<!ENTITY fxaccount_password_hide "আড়াল">
 <!ENTITY fxaccount_password_show "প্রদর্শন করুন">
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
@@ -121,7 +123,7 @@
      string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-
+<!ENTITY fxaccount_policy_linkprivacy "গোপনীয়তা নীতিমালা">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label; তে স্বাগতম">
 
@@ -169,7 +171,7 @@
 
 
 
-
+<!ENTITY fxaccount_status_sync_now "এখন সিঙ্ক করুন">
 
 
 
@@ -181,16 +183,16 @@
 
 
 
-
-
-
+<!ENTITY fxaccount_status_bookmarks "বুকমার্ক">
+<!ENTITY fxaccount_status_history "ইতিহাস">
+<!ENTITY fxaccount_status_passwords2 "লগইন">
 
 
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-
+<!ENTITY fxaccount_status_linkprivacy "গোপনীয়তা নীতিমালা">
 
 
 

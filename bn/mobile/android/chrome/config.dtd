@@ -11,9 +11,11 @@
 <!ENTITY newPref.valueString           "স্ট্রিং">
 <!ENTITY newPref.valueInteger          "পূর্ণসংখ্যা">
 
-
+<!ENTITY newPref.stringPlaceholder     "স্ট্রিং প্রবেশ করান">
+<!ENTITY newPref.numberPlaceholder     "নম্বর প্রবেশ করান">
 
 <!ENTITY newPref.toggleButton          "টোগোল">
 <!ENTITY newPref.cancelButton          "বাতিল">
 
-
+<!ENTITY contextMenu.copyPrefName      "নাম কপি করুন">
+<!ENTITY contextMenu.copyPrefValue     "ভ্যালু কপি করুন">
