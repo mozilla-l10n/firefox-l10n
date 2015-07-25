@@ -7,6 +7,9 @@
 
 <!ENTITY closeCmd.key  "W">
 
+<!ENTITY toggleToolboxF12.keycode          "VK_F12">
+<!ENTITY toggleToolboxF12.keytext          "F12">
+
 <!ENTITY toolboxCloseButton.tooltip    "ഡവലപ്പര്‍ പ്രയോഗങ്ങള്‍ അടയ്ക്കുക">
 <!ENTITY toolboxOptionsButton.key      "O">
 <!ENTITY toolboxNextTool.key           "]">
@@ -19,6 +22,8 @@
 <!ENTITY toolboxZoomReset.key          "0">
 
 <!ENTITY toolboxReload.key             "r">
+<!-- This key is used with the accel+shift modifiers to minimize the toolbox -->
+
 <!-- LOCALIZATION NOTE (toolboxFramesButton): This is the label for
   -  the iframes menu list that appears only when the document has some.
   -  It allows you to switch the context of the whole toolbox. -->
@@ -80,6 +85,10 @@
 
 <!ENTITY options.enableRemote.label3    "വിദൂര ഡീബഗ്ഗിങ് പ്രവര്‍ത്തന സജ്ജമാക്കുക">
 <!ENTITY options.enableRemote.tooltip   "വിദൂര ഫയര്‍ഫോക്സ് ഇന്‍സ്റ്റന്‍സ് ഡീബഗ് ചെയ്യുന്നതിനു് ഡവലപ്പര്‍ പ്രയോഗങ്ങളെ അനുവദിയ്ക്കുന്നതിനായി ഈ ഐച്ഛികം ഓണ്‍ ചെയ്യുക. ഉദാഹരണത്തിനു് ഫയര്‍ഫോക്സ് ഒഎസ്">
+<!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
+  -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
+  -  boolean preference in about:config, in the options panel. -->
+
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
@@ -92,9 +101,9 @@
 
 <!ENTITY options.disableCache.label2     "ക്യാഷെ പ്രവര്‍ത്തന രഹിതമാക്കുക (ടൂള്‍ബോക്സ് തുറക്കുമ്പോള്‍)">
 <!ENTITY options.disableCache.tooltip2   "ഈ ഓപ്ഷൻ ഓണാക്കുന്നത്, ടൂൾബോക്സ് തുറന്നിട്ടുള്ള എല്ലാ ടാബുകളുടേയും കാഷെ പ്രവർത്തനരഹിതമാക്കും">
-<!-- LOCALIZATION NOTE (options.enableServiceWorkersTesting.label,
-  -  options.enableServiceWorkersTesting.tooltip): This is the options panel label and
-  -  tooltip for the checkbox that toggles the service workers testing features on or off. -->
+<!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
+  -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
+  -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer

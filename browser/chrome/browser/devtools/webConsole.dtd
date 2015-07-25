@@ -75,6 +75,12 @@
 <!ENTITY btnConsoleLog          "ലോഗ്">
 <!ENTITY btnConsoleXhr          "എക്സ്എച്ആര്‍">
 <!ENTITY btnConsoleReflows      "റീഫ്ലോ">
+<!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
+  -  should not be translated. -->
+<!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
+  -  should not be translated. -->
+<!-- LOCALIZATION NODE (btnConsoleWindowlessWorkers) the term "Workers"
+  -  should not be translated. -->
 
 <!ENTITY filterOutput.placeholder "ഔട്ട്പുട്ട് ഫില്‍റ്റര്‍ ചെയ്യുക">
 <!ENTITY btnClear.label        "rവെടിപ്പാക്കുക">
@@ -98,3 +104,5 @@
 <!ENTITY closeCmd.key         "W">
 <!ENTITY findCmd.key          "F">
 <!ENTITY clearOutputCtrl.key  "L">
+
+

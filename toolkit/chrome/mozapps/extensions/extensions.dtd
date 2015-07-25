@@ -22,6 +22,8 @@
 
 <!ENTITY cmd.back.tooltip                     "ഒരു താള്‍ പുറകോട്ട് പോകുക">
 <!ENTITY cmd.forward.tooltip                  "ഒരു താള്‍ മുമ്പോട്ട് പോകുക">
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "എല്ലാ ആഡ്-ഓണുകളും സേഫ് മോഡില്‍ പ്രവര്‍ത്തന രഹിതമാക്കിയിരിയ്ക്കുന്നു.">
@@ -100,7 +102,8 @@
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "നീക്കം ചെയ്യുക">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
-<!ENTITY cmd.debugAddon.label                 "ഡീബഗ് ചെയ്യുക">
+
+
 <!ENTITY cmd.showPreferencesWin.label         "ഐച്ഛികങ്ങള്‍">
 <!ENTITY cmd.showPreferencesWin.tooltip       "ഈ ആഡ്-ഓണിനുള്ള ഐച്ഛികങ്ങള്‍ മാറ്റുക">
 <!ENTITY cmd.showPreferencesUnix.label        "മുന്‍ഗണനകള്‍">
@@ -224,4 +227,16 @@
 <!ENTITY experiment.info.learnmore.accesskey "L">
 <!ENTITY experiment.info.changetelemetry "ടെലിമെട്രി സജ്ജീകരണങ്ങള്‍">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
+     These entities form a sentence, with
+     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
+     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
+     being a link to an external site. -->
+
 

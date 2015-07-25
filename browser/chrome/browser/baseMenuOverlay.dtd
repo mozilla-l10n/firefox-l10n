@@ -14,8 +14,8 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "സഹായം"> 
 <!ENTITY helpMenuWin.accesskey    "H">
-
-
+<!ENTITY aboutProduct2.label      "&brandShortName; സംബന്ധിച്ചു്">
+<!ENTITY aboutProduct2.accesskey  "സ">
 
 
 <!ENTITY helpMac.commandkey       "?">
@@ -27,6 +27,9 @@
 <!ENTITY helpSafeMode.accesskey   "R">
 
 
+
+<!ENTITY healthReport2.label      "&brandShortName; ആരോഗ്യ റിപ്പോര്‍ട്ട്">
+<!ENTITY healthReport2.accesskey  "ആ">
 
 <!ENTITY helpTroubleshootingInfo.label      "ട്രബിള്‍ഷൂട്ടിങിനുള്ള വിവരങ്ങള്‍">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">

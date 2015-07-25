@@ -65,6 +65,7 @@
 <!ENTITY largerFont.label             "വലിയ അക്ഷരസഞ്ചയനം">
 <!ENTITY largerFont.accesskey         "വ">
 <!ENTITY largerFont.commandkey        "+">
+<!-- + is above this key on many keyboards -->
 
 <!ENTITY smallerFont.label            "ചെറിയ അക്ഷരസഞ്ചയം">
 <!ENTITY smallerFont.accesskey        "യ">
