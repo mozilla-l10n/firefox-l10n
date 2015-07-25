@@ -4,9 +4,20 @@
 
 <!ENTITY aboutTelemetry.pageTitle "ടെലിമെട്രി ഡേറ്റാ">
 
-<!ENTITY aboutTelemetry.telemetryEnabled "  ടെലിമെട്രി <span>പ്രവര്‍ത്തന സജ്ജം</span>.">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "  ടെലിമെട്രി <span>പ്രവര്‍ത്തന രഹിതം</span>.">
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!ENTITY aboutTelemetry.telemetryLogSection " ടെലിമെട്രി ലോഗ്">

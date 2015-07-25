@@ -85,7 +85,6 @@
 <!ENTITY col.url.label           "സ്ഥാനം">
 <!ENTITY col.mostrecentvisit.label "ഏറ്റവും ഒടുവിലത്തെ സന്ദര്‍ശനം">
 <!ENTITY col.visitcount.label    "എത്ര തവണ സന്ദര്‍ശിച്ചു">
-<!ENTITY col.keyword.label       "കീവേര്‍ഡ്">
 <!ENTITY col.description.label   "വിവരണം">
 <!ENTITY col.dateadded.label     "ചേര്‍ത്തിരിക്കുന്നു">
 <!ENTITY col.lastmodified.label  "ഏറ്റവും ഒടുവില്‍ മാറ്റിയതു്">
