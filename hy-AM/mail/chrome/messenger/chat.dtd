@@ -10,7 +10,7 @@
 <!ENTITY chat.noConv.description       "Զրույցը սկսելու համար օգտագործեք ձախում գտնվող անձանց ցանկը։">
 <!ENTITY chat.noPreviousConv.description       "&brandShortName;-ը չունի որևէ երկխոսություն։">
 <!ENTITY chat.noAccount.title             "Դեռ մուտք չեք գործել:">
-<!ENTITY chat.noAccount.description       "Թույլատրեք &brandShortName;-ին ուղեկցել Ձեզ՝ չաթի կարգավորումների ընթացքում:">
+<!ENTITY chat.noAccount.description       "Թույլատրել &brandShortName;-ին ուղեկցել Ձեզ զրույցի կարգավորումների ընթացքում:">
 <!ENTITY chat.accountWizard.button       "Սկսել">
 <!ENTITY chat.noConnectedAccount.title             "Զրույցի հաշիվները միացված չեն:">
 <!ENTITY chat.noConnectedAccount.description       "Կարող եք կապակցել 'Զրույցի վիճակը' պատուհանից:">

@@ -13,8 +13,8 @@
 <!ENTITY enableGlodaSearch.accesskey   "Մ">
 <!ENTITY allowHWAccel.label            "Հնարավորության դեպքում օգտագործել սարքակազմի արագացում">
 <!ENTITY allowHWAccel.accesskey        "ս">
-<!ENTITY storeType.label               "Հաղորդագրությունների կրիչի տեսակը նոր հաշիվների համար.">
-<!ENTITY storeType.accesskey           "տ">
+<!ENTITY storeType.label               "Նամակները պահելու եղանակը՝ նոր հաշիվների համար.">
+<!ENTITY storeType.accesskey           "ե">
 <!ENTITY mboxStore2.label              "Ֆայլ թղթապանակում (mbox)">
 <!ENTITY maildirStore.label            "Ֆայլ ամեն նամակի համար (maildir)">
 

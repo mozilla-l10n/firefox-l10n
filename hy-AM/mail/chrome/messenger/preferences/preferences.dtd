@@ -10,7 +10,7 @@
 <!ENTITY  prefWindow.styleGNOME   "width: 47em; min-height: 38em;">
 
 <!ENTITY paneGeneral.title        "Գլխավորը">
-<!ENTITY paneDisplay.title        "Տեսքը">
+<!ENTITY paneDisplay.title        "Ցուցադրիչ">
 <!ENTITY paneComposition.title    "Նամակը">
 <!ENTITY paneChat.title           "Զրույց">
 <!ENTITY paneAttachments.title    "Կցորդներ">

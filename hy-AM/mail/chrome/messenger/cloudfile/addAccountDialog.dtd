@@ -7,7 +7,7 @@
 <!ENTITY addAccountDialog.accountName.label "Փոստարկղի անունը.">
 <!ENTITY addAccountDialog.noAccountText "We're sorry, but the current version of &brandShortName; only allows one account from each online storage service.">
 <!ENTITY addAccountDialog.createAccountText2 "Կարող եք ուղարկել մեծ կցորդներ՝ օգտագործելով մի շարք առցանց ծառայություններ: Մուտք գործեք այդ ծառայություններ կամ բացեք նոր հաշիվ:">
-<!ENTITY addAccountDialog.authorizing "Վավերացման ստուգում...">
+<!ENTITY addAccountDialog.authorizing "Իսկորոշման ստուգում...">
 <!ENTITY addAccountDialog.error "Սխալ՝ փոստարկղը կարգավորելիս։">
 <!ENTITY addAccountDialog.acceptButton.label "Փոստարկղի կարգավորում">
 <!ENTITY addAccountDialog.learnMore "Իմանալ ավելին...">

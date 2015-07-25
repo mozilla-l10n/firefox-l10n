@@ -49,7 +49,7 @@
 <!ENTITY addressingEnable.accesskey            "L">
 <!ENTITY directories.label                     "Սպասարկիչում.">
 <!ENTITY directories.accesskey                 "D">
-<!ENTITY directoriesNone.label                 "Ոչինչ">
+<!ENTITY directoriesNone.label                 "Չկա">
 <!ENTITY editDirectories.label                 "Խմբագրել թղթապանակները...">
 <!ENTITY editDirectories.accesskey             "E">
 

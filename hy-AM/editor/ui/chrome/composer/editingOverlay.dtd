@@ -23,7 +23,7 @@
 <!ENTITY publishAsCmd.label "Հրապարակել որպես...">
 <!ENTITY publishAsCmd.accesskey "Հ">
 <!ENTITY fileRevert.label "Ետարկել ">
-<!ENTITY fileRevert.accesskey "Ե">
+<!ENTITY fileRevert.accesskey "լ">
 <!-- Edit menu items -->
 
 <!ENTITY publishSettings.label "Հրապարակվող կայքի կարգավորումները...">
