@@ -444,8 +444,10 @@ size. -->
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY home_reading_list_hint2 "টিপ: আপনার রিডিং লিস্টে যুক্ত করার জন্য &formatI; আইকনটি টাইটেল বারে দেখতে পাওয়ার পর চেপে ধরে রাখুন।">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
+<!ENTITY home_reading_list_hint_accessible "টিপ: আপনার রিডিং লিস্টে যুক্ত করার জন্য রিডার মোড বাটনটি টাইটেল বারে দেখতে পাওয়ার পর চেপে ধরে রাখুন।">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 <!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
@@ -465,6 +467,7 @@ size. -->
      Android plural forms, sadly. See Bug #753859. -->
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "গোপন ডিভাইসগুলি">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 
