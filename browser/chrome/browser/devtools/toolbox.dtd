@@ -6,7 +6,7 @@
 
 
 <!ENTITY closeCmd.key  "W">
-
+<!ENTITY toggleToolbox.key  "I">
 <!ENTITY toggleToolboxF12.keycode          "VK_F12">
 <!ENTITY toggleToolboxF12.keytext          "F12">
 
@@ -21,13 +21,19 @@
 <!ENTITY toolboxZoomOut.key            "-">
 <!ENTITY toolboxZoomReset.key          "0">
 
+<!ENTITY toolboxReload.key             "r">
 <!-- This key is used with the accel+shift modifiers to minimize the toolbox -->
+<!ENTITY toolboxToggleMinimize.key     "U">
 
+<!ENTITY toolboxToggle.key             "d">
 <!-- LOCALIZATION NOTE (toolboxFramesButton): This is the label for
   -  the iframes menu list that appears only when the document has some.
   -  It allows you to switch the context of the whole toolbox. -->
+<!ENTITY toolboxFramesTooltip          "বর্তমান টার্গেটেড ডকুমেন্ট হিসেবে একটি iframe নির্বাচন করুন">
 <!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
   -  shown next to error details when the Browser Toolbox is unable to open. -->
+
+<!ENTITY browserToolboxErrorMessage          "ব্রাউজার টুল-বক্স খোলার সময় ত্রুটি">
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 
@@ -40,6 +46,8 @@
   -  for the checkbox option to show user agent styles in the Inspector
   -  panel. -->
 
+<!ENTITY options.showUserAgentStyles.label "ব্রাউজার স্টাইল দেখান">
+<!ENTITY options.showUserAgentStyles.tooltip "এটি চালু করলে, ব্রাউজারে লোড থাকা ডিফল্ট স্টাইলগুলো দেখানো হবে।">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
   -  This label is visible in the options panel. -->
@@ -74,6 +82,8 @@
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 
+<!ENTITY options.enableChrome.label5    "ব্রাউজার chrome ও অ্যাড অন ডিবাগ টুলবক্স সক্রিয় করুন">
+<!ENTITY options.enableChrome.tooltip3  "এই অপশান চালু করলে আপনি অনেকগুলো টুল ব্যবহার করতে পারবেন ব্রাউজার কন্টেক্সট এ (Tools > Web Developer > Browser Toolbox এর মাধ্যমে) এবং অ্যাড-অন ম্যানেজার দিয়ে অ্যাড-অন ডিবাগ করতে পারবেন">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
