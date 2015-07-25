@@ -15,5 +15,6 @@
 <!ENTITY aboutSupport.accountsConnSecurity "Կապուղու անվտանգությունը">
 <!ENTITY aboutSupport.accountsAuthMethod "Վավերացման եղանակը">
 <!ENTITY aboutSupport.accountsDefault "Հիմնակա՞ն">
+<!ENTITY aboutSupport.identityName "Որոշիչ">
 
 <!ENTITY aboutSupport.sendViaEmail.label "Ուղարկել նամակով">
