@@ -27,7 +27,9 @@
 
 <!ENTITY fileNotFound.title "Datoteka nije pronađena">
 <!ENTITY fileNotFound.longDesc "<ul> 
-<li>Provjerite naziv datoteke, te postoji li pravopisna ili tipografska greška.</li> <li>Provjerite je li datoteka premještena, preimenovana ili obrisana.</li></ul>">
+<li>Provjerite naziv datoteke, te postoji li pravopisna ili tipografska greška.</li> 
+<li>Provjerite je li datoteka premještena, preimenovana ili obrisana.</li> 
+</ul>">
 
 
 <!ENTITY generic.title "Ups.">
