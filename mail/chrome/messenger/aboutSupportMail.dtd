@@ -15,5 +15,6 @@
 <!ENTITY aboutSupport.accountsConnSecurity            "Ühenduse turvalisus">
 <!ENTITY aboutSupport.accountsAuthMethod              "Autentimise meetod">
 <!ENTITY aboutSupport.accountsDefault                 "Vaikimisi?">
+<!ENTITY aboutSupport.identityName                    "Identiteet">
 
 <!ENTITY aboutSupport.sendViaEmail.label              "Saada e-postiga">
