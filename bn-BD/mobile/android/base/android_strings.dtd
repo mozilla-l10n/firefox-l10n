@@ -8,7 +8,7 @@
 
 <!ENTITY  onboard_start_message3 "&brandShortName;-এর সাথে ব্রাউজ করুন">
 <!ENTITY  onboard_start_subtext3 "ওয়েব ব্রাউজিং করার অভিজ্ঞতা যথাযথ ভাবে আপনার নিজের মত করে করুন।">
-
+<!ENTITY  onboard_start_button_account "&brandShortName; এ সাইন ইন করুন">
 <!ENTITY  onboard_start_button_browser "ব্রাউজিং শুরু করুন">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
@@ -47,6 +47,7 @@
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "বুকমার্ক করা আছে">
 <!ENTITY bookmark_removed "বুকমার্ক অপসারণ করা হয়েছে">
 <!ENTITY bookmark_updated "বুকমার্ক আপডেট করা হয়েছে">
 <!ENTITY bookmark_options "অপশন">
@@ -106,7 +107,7 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "বুকমার্ক">
 <!ENTITY overlay_share_reading_list_btn_label "পঠন তালিকায় যোগ করুন">
-
+<!ENTITY overlay_share_bookmark_btn_label_already "বুকমার্ক করা আছে">
 <!ENTITY overlay_share_reading_list_btn_label_already "ইতমধ্যেই পঠন তালিকায় রয়েছে">
 <!ENTITY overlay_share_send_other "অন্য ডিভাইসে প্রেরণ করুন">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -134,7 +135,7 @@
 <!ENTITY pref_category_display "প্রদর্শন">
 <!ENTITY pref_category_display_summary "টেক্সট, টাইটেল বার, ফুল-স্ক্রিন ব্রাউজিং">
 <!ENTITY pref_category_privacy_short "গোপনীয়তা">
-
+<!ENTITY pref_category_privacy_summary2 "পাসওয়ার্ড, কুকি, ট্র্যাকিং, তথ্য নিয়ন্ত্রণ">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 
 
@@ -195,9 +196,9 @@
 
 
 
-
-
-
+<!ENTITY tab_queue_prompt_positive_action_button "সক্রিয়">
+<!ENTITY tab_queue_prompt_negative_action_button "এখনি নয়">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
@@ -207,16 +208,16 @@
 
 <!ENTITY pref_char_encoding "ক্যারেক্টার এনকোডিং">
 <!ENTITY pref_char_encoding_on "মেনু প্রদর্শিত হবে">
-
+<!ENTITY pref_char_encoding_off "মেনু প্রদর্শিত হবে না">
 
 <!ENTITY pref_clear_private_data_category "ব্যাক্তিগত ডাটা মুছুন">
 
 
 
 <!ENTITY pref_plugins "প্লাগইন">
-
+<!ENTITY pref_plugins_enabled "সক্রিয়">
 <!ENTITY pref_plugins_tap_to_play "প্লে করতে ট্যাপ করুন">
-
+<!ENTITY pref_plugins_disabled "নিষ্ক্রিয়">
 <!ENTITY pref_text_size "টেক্সটের আকার">
 
 <!ENTITY pref_restore "ট্যাব">
@@ -253,31 +254,32 @@ size. -->
 <!ENTITY pref_search_suggestions "অনুসন্ধানের সাজেশন প্রদর্শন">
 <!ENTITY pref_import_android "অ্যান্ড্রয়েড থেকে ‌ইমপোর্ট">
 
-
-
-
+<!ENTITY pref_private_data_history2 "ব্রাউজিং এর ইতিহাস">
+<!ENTITY pref_private_data_searchHistory "অনুসন্ধানের ইতিহাস">
+<!ENTITY pref_private_data_formdata2 "ফর্মের ইতিহাস">
 <!ENTITY pref_private_data_cookies2 "কুকি এবং সক্রিয় লগইন">
-
+<!ENTITY pref_private_data_passwords2 "সংরক্ষিত লগিন">
 <!ENTITY pref_private_data_cache "ক্যাশ">
 <!ENTITY pref_private_data_offlineApps "অফলাইন ওয়েবসাইটের তথ্য">
 <!ENTITY pref_private_data_siteSettings2 "সাইটের সেটিং">
-
-
+<!ENTITY pref_private_data_downloadFiles2 "ডাউনলোড">
+<!ENTITY pref_private_data_syncedTabs "সিঙ্ককৃত ট্যাব">
 
 
 <!ENTITY pref_about_firefox "&brandShortName; সম্পর্কে">
 <!ENTITY pref_vendor_faqs "FAQ">
 <!ENTITY pref_vendor_feedback "ফীডব্যাক প্রদান করুন">
 
-
-
+<!ENTITY pref_dialog_set_default "ডিফল্ট হিসেবে নির্ধারণ করুন">
+<!ENTITY pref_dialog_default "ডিফল্ট">
+<!ENTITY pref_dialog_remove "মুছে ফেলুন">
 
 
 <!ENTITY pref_panels_show "প্রদর্শন করুন">
-
-
-
-
+<!ENTITY pref_panels_hide "আড়াল">
+<!ENTITY pref_panels_reorder "ক্রম পরিবর্তন করুন">
+<!ENTITY pref_panels_move_up "উপরে উঠান">
+<!ENTITY pref_panels_move_down "নিচে নামান">
 
 
 
@@ -290,6 +292,8 @@ size. -->
      en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
+
+<!ENTITY datareporting_fhr_title "&brandShortName; হেলথ রিপোর্ট">
 <!ENTITY datareporting_fhr_summary2 "আপনার ব্রাউসারের স্বাস্থ্য সম্বন্ধে &vendorShortName; এর সাথে ডেটা শেয়ার করে  এবং আপনাকে সাহায্য করে আপনার ব্রাউসারের কার্যকারিতা অনুধাবন করতে">
 
 
@@ -302,16 +306,18 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-
+<!ENTITY pref_update_autodownload_wifi "শুধুমাত্র ওয়াইফাই দ্বারা">
 <!ENTITY pref_update_autodownload_never "কখনো নয়">
-
+<!ENTITY pref_update_autodownload_always "সবসময়">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
+
+<!ENTITY help_menu "সহায়তা">
 
 <!ENTITY quit "প্রস্থান">
 
 <!ENTITY addons "অ্যাড-অন">
-
-
+<!ENTITY logins "লগইন">
+<!ENTITY downloads "ডাউনলোড">
 <!ENTITY apps "অ্যাপস">
 <!ENTITY char_encoding "ক্যারেক্টার এনকোডিং">
 
@@ -321,49 +327,53 @@ size. -->
 <!ENTITY save_as_pdf "পিডিএফ হিসেবে সংরক্ষণ করুন">
 <!ENTITY find_in_page "পৃষ্ঠায় খুঁজুন">
 <!ENTITY desktop_mode "ডেস্কটপ সাইটের অনুরোধ">
-
+<!ENTITY page "পেজ">
 <!ENTITY tools "টুল">
 <!ENTITY new_tab "নতুন ট্যাব">
 <!ENTITY new_private_tab "নতুন ব্যাক্তিগত ট্যাব">
 <!ENTITY close_all_tabs "সবগুলি ট্যাব বন্ধ করুন">
-
-
+<!ENTITY close_private_tabs "ব্যক্তিগত ট্যাবগুলি বন্ধ করুন">
+<!ENTITY tabs_normal "ট্যাবসমূহ">
 <!ENTITY tabs_private "ব্যক্তিগত">
-
+<!ENTITY tabs_synced "সিঙ্ক করা হয়েছে">
 
 
 <!ENTITY set_image_chooser_title "ছবিটি যেভাবে সেট হবে">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY find_text "পৃষ্ঠায় খুঁজুন">
 <!ENTITY find_prev "পূর্ববর্তী">
 <!ENTITY find_next "পরবর্তী">
-
+<!ENTITY find_close "বন্ধ">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 <!ENTITY media_play "চালানো">
-
-
+<!ENTITY media_pause "বিরতি">
+<!ENTITY media_stop "থামুন">
 
 <!ENTITY contextmenu_open_new_tab "নতুন ট্যাবে খোলা হবে">
 <!ENTITY contextmenu_open_private_tab "ব্যাক্তিগত ট্যাবে খুলুন">
-
+<!ENTITY contextmenu_remove "অপসারণ">
 <!ENTITY contextmenu_add_to_launcher "হোম স্ক্রীনে যোগ করা হবে">
-
+<!ENTITY contextmenu_share "শেয়ার">
 
 <!ENTITY contextmenu_paste "প্রতিলেপন">
 <!ENTITY contextmenu_copyurl "ঠিকানা অনুলিপি করা হবে">
+<!ENTITY contextmenu_edit_bookmark "সম্পাদনা">
 
 
+<!ENTITY contextmenu_top_sites_edit "সম্পাদনা">
 
 
-
-
-
+<!ENTITY contextmenu_add_search_engine "একটি সার্চ ইঞ্জিন যোগ করুন">
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
 
 <!ENTITY doorhanger_login_edit_username_hint "ব্যবহারকারীর নাম">
+<!ENTITY doorhanger_login_edit_password_hint "পাসওয়ার্ড">
+<!ENTITY doorhanger_login_edit_toggle "পাসওয়ার্ড প্রদর্শন">
 
 
 
@@ -371,8 +381,7 @@ size. -->
 
 
 
-
-
+<!ENTITY pref_titlebar_mode "টাইটেল বার">
 
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
@@ -393,6 +402,8 @@ size. -->
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
+<!ENTITY site_settings_title3       "সাইটের সেটিং">
+<!ENTITY site_settings_cancel       "বাতিল">
 <!ENTITY site_settings_clear        "মুছে ফেলা হবে">
 <!ENTITY site_settings_no_settings  "পরিস্কার করার জন্য কোন সেটিংস নেই।">
 <!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
@@ -400,7 +411,7 @@ size. -->
 <!ENTITY reading_list_removed "আপনার পঠন তালিকায় পৃষ্ঠা অপসারণ করা হয়েছে">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
-
+<!ENTITY reading_list_duplicate "পৃষ্ঠাটি আগে থেকেই আপনার পাঠ তালিকায় আছে">
 <!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
      panel on the home page to give the user an estimate of how many minutes it will take to
      read an article. The word "minute" should be abbreviated if possible. -->
@@ -410,30 +421,34 @@ size. -->
 
 <!ENTITY masterpassword_create_title "মাস্টার পাসওয়ার্ড তৈরি করুন">
 <!ENTITY masterpassword_remove_title "মাস্টার পাসওয়ার্ড অপসারণ">
-
+<!ENTITY masterpassword_password "পাসওয়ার্ড">
 <!ENTITY masterpassword_confirm "পাসওয়ার্ড নিশ্চিতকরণ">
 
 <!ENTITY button_ok "ঠিক আছে">
-
+<!ENTITY button_cancel "বাতিল">
 <!ENTITY button_yes "হ্যাঁ">
 <!ENTITY button_no "না">
 <!ENTITY button_clear_data "তথ্য পরিষ্কার করুন">
-
-
+<!ENTITY button_set "নির্ধারণ করুন">
+<!ENTITY button_clear "মুছুন">
 <!ENTITY button_copy "অনুলিপি">
 
+<!ENTITY firstrun_panel_title_welcome "স্বাগতম">
 
 <!ENTITY home_top_sites_title "শীর্ষ সাইট">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!ENTITY home_top_sites_add "একটি সাইট যোগ করুন">
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
 
+<!ENTITY home_title "&brandShortName; হোম">
+<!ENTITY home_history_title "ইতিহাস">
+<!ENTITY home_clear_history_button "ব্রাউজিং ইতিহাস মুছে ফেলুন">
 
 
 
-
-
+<!ENTITY home_last_tabs_title "আগেরবারের ট্যাবগুলি">
 
 
 
@@ -475,6 +490,7 @@ size. -->
 
 
 
+<!ENTITY filepicker_title "ফাইল নির্বাচন করুন">
 <!ENTITY filepicker_audio_title "বেছে নিন বা একটি শব্দ রেকর্ড করুন">
 <!ENTITY filepicker_image_title "বেছে নিন বা একটি ছবি তুলুন">
 <!ENTITY filepicker_video_title "বেছে নিন বা একটি ভিডিও রেকর্ড করুন">
@@ -504,6 +520,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 <!-- Common mixed and tracking content strings in site identity popup -->
+
+<!ENTITY learn_more "আরও জানুন">
 
 
 
@@ -549,7 +567,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Guest mode -->
 
 <!ENTITY guest_session_dialog_continue "চালিয়ে যান">
-
+<!ENTITY guest_session_dialog_cancel "বাতিল">
 
 
 
@@ -561,28 +579,41 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
 
+<!ENTITY ellipsis "…">
+
+<!ENTITY colon ":">
 <!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
      display a percentage value. formatS is the number, #37 is the code to display a percent sign.
      This format string is typically used by getString method, in such method the percent sign
      is a reserved caracter. In order to display one percent sign in the result of getString,
      double percent signs must be inserted in the format string.
      This entity is used in the zoomed view to display the zoom factor-->
+
+<!ENTITY percent "&formatS;&#037;&#037;">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
+
+<!ENTITY actionbar_menu "মেনু">
 <!ENTITY actionbar_done "সম্পন্ন">
 <!-- Voice search in the awesome bar -->
 
-
-
-
+<!ENTITY voicesearch_prompt "এখনই বলুন">
+<!ENTITY voicesearch_failed_title "&brandShortName; ভয়েস অনুসন্ধান">
+<!ENTITY voicesearch_failed_message "ভয়েস অনুসন্ধানে এখন একটি সমস্যা হয়েছে। অনুগ্রহ করে আবার চেষ্টা করুন।">
+<!ENTITY voicesearch_failed_message_recoverable "দুঃখিত! আমরা আপনার শব্দ বুঝতে পারিনি। অনুগ্রহ করে আবার চেষ্টা করুন।">
+<!ENTITY voicesearch_failed_retry "পুনরায় চেষ্টা করুন">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
+
+<!ENTITY remote_tabs_last_synced "সর্বশেষ সিঙ্ক হয়েছে: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
+
+<!ENTITY find_matchcase "Aa">
 
