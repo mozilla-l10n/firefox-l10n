@@ -10,3 +10,5 @@
 <!ENTITY addonAction.disable                    "عطّل">
 <!ENTITY addonAction.uninstall                  "أزِل">
 <!ENTITY addonAction.undo                       "تراجَع">
+
+<!ENTITY addonUnsigned.learnMore                "اطّلع على المزيد">
