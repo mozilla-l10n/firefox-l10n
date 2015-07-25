@@ -61,9 +61,9 @@
 
 <!ENTITY editMenu.label "Խմբագրել">
 <!ENTITY editMenu.accesskey "E">
-<!ENTITY undoCmd.label "Ետարկել">
+<!ENTITY undoCmd.label "Հետարկել">
 <!ENTITY undoCmd.key "Հ">
-<!ENTITY undoCmd.accesskey "U">
+<!ENTITY undoCmd.accesskey "Հ">
 <!ENTITY redoCmd.label "Կրկնել">
 <!ENTITY redoCmd.key "Ա">
 <!ENTITY redoCmd.accesskey "R">
@@ -104,8 +104,8 @@
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!-- View Menu -->
 
-<!ENTITY viewMenu.label "Տեսքը">
-<!ENTITY viewMenu.accesskey "V">
+<!ENTITY viewMenu.label "Տեսք">
+<!ENTITY viewMenu.accesskey "Տ">
 <!ENTITY viewToolbarsMenuNew.label "Գործիքաշերտեր">
 <!ENTITY viewToolbarsMenuNew.accesskey "T">
 <!ENTITY menubarCmd.label "Ընտրացանկ վահանակը">
@@ -264,8 +264,8 @@
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
 <!ENTITY spellCheckAddToDictionary.label "Ավելացնել բառարանում">
 <!ENTITY spellCheckAddToDictionary.accesskey "n">
-<!ENTITY undo.label "Ետարկել">
-<!ENTITY undo.accesskey "U">
+<!ENTITY undo.label "Հետարկել">
+<!ENTITY undo.accesskey "Հ">
 <!ENTITY cut.label "Կտրել">
 <!ENTITY cut.accesskey "t">
 <!ENTITY copy.label "Պատճենել">

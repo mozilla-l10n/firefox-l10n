@@ -11,8 +11,8 @@
 <!ENTITY disableAddons.label              "Անջատել բոլոր հավելումները">
 <!ENTITY disableAddons.accesskey          "D">
 
-<!ENTITY resetToolbars.label              "Ետարկել գործիքները և կառավարիչները">
-<!ENTITY resetToolbars.accesskey          "R">
+<!ENTITY resetToolbars.label              "Վերակայել գործիքները և կառավարիչները">
+<!ENTITY resetToolbars.accesskey          "Վ">
 
 <!ENTITY changeAndRestartButton.label     "Փոփոխել և վերագործարկել">
 <!ENTITY changeAndRestartButton.accesskey "M">

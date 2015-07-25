@@ -16,8 +16,8 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.resume.accesskey             "R">
 <!ENTITY cmd.cancel.label                 "Չեղարկել">
 <!ENTITY cmd.cancel.accesskey             "C">
-<!ENTITY cmd.undo.label                   "Ետարկել">
-<!ENTITY cmd.undo.accesskey               "U">
+<!ENTITY cmd.undo.label                   "Հետարկել">
+<!ENTITY cmd.undo.accesskey               "Հ">
 <!ENTITY cmd.recover.label                "Վեականգնել">
 <!ENTITY cmd.recover.accesskey            "v">
 <!ENTITY cmd.retry.label                  "Կրկնել">

@@ -9,7 +9,7 @@
 <!ENTITY ButtonType.label "Տեսակը">
 <!ENTITY ButtonType.accesskey "T">
 <!ENTITY submit.value "Ուղարկել">
-<!ENTITY reset.value "Ետարկել">
+<!ENTITY reset.value "Վերակայել">
 <!ENTITY button.value "Կոճակ">
 
 <!ENTITY ButtonName.label "Անունը.">

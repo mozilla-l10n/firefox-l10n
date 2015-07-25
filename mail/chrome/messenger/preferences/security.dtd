@@ -21,8 +21,8 @@
 <!ENTITY enableAdaptiveJunkLogging.accesskey "E">
 <!ENTITY openJunkLog.label "Ցուցադրել մատյանը">
 <!ENTITY openJunkLog.accesskey "S">
-<!ENTITY resetTrainingData.label "Ետարկել ուսուցման տվյալը">
-<!ENTITY resetTrainingData.accesskey "R">
+<!ENTITY resetTrainingData.label "Վերակայել ուսուցման տվյալը">
+<!ENTITY resetTrainingData.accesskey "Վ">
 <!-- Phishing Detector -->
 
 <!ENTITY phishingDetector1.intro  "&brandShortName;-ը կարող է ստուգել նամակները՝ որոշելու համար խաբկանք նամակները։">

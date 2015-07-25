@@ -13,7 +13,7 @@
 <!ENTITY aboutSupport.accountsOutgoingServers "Ելքային սպասարկիչը">
 <!ENTITY aboutSupport.accountsServerName "Անունը">
 <!ENTITY aboutSupport.accountsConnSecurity "Կապուղու անվտանգությունը">
-<!ENTITY aboutSupport.accountsAuthMethod "Վավերացման եղանակը">
+<!ENTITY aboutSupport.accountsAuthMethod "Իսկորոշման եղանակ">
 <!ENTITY aboutSupport.accountsDefault "Հիմնակա՞ն">
 <!ENTITY aboutSupport.identityName "Որոշիչ">
 

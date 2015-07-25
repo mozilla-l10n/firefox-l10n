@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY titledefault.label    "&brandFullName;">
-<!ENTITY titleSeparator.label " -  ">
+<!ENTITY titleSeparator.label " - ">
 <!-- File Menu -->
 
 <!ENTITY newFolderCmd.label "Թղթապանակ…">
@@ -90,11 +90,11 @@
 <!ENTITY deleteMsgCmd.label "Ջնջել նամակը">
 <!ENTITY deleteMsgCmd.accesskey "D">
 <!ENTITY undeleteMsgCmd.label "Ետարկել ջնջումը">
-<!ENTITY undeleteMsgCmd.accesskey "d">
+<!ENTITY undeleteMsgCmd.accesskey "ր">
 <!ENTITY deleteMsgsCmd.label "Ջնջել ընտրված նամակները">
 <!ENTITY deleteMsgsCmd.accesskey "D">
 <!ENTITY undeleteMsgsCmd.label "Ետարկել ընտրված նամակները">
-<!ENTITY undeleteMsgsCmd.accesskey "d">
+<!ENTITY undeleteMsgsCmd.accesskey "ա">
 <!ENTITY deleteFolderCmd.label "Ջնջել">
 <!ENTITY deleteFolderCmd.accesskey "D">
 <!ENTITY unsubscribeNewsgroupCmd.label "Չբաժանորդագրվել">
@@ -120,10 +120,10 @@
 <!ENTITY redoMoveMsgCmd.label "Առաջ՝ Տեղափոխ. նամակը">
 <!ENTITY undoCopyMsgCmd.label "Հետ՝ Պատճենել նամակը">
 <!ENTITY redoCopyMsgCmd.label "Առաջ՝ Պատճենել նամակը">
-<!ENTITY undoMarkAllCmd.label "Ետարկել՝ Նշել բոլորը ընթերցված">
+<!ENTITY undoMarkAllCmd.label "Հետարկել՝ Նշել բոլորը ընթերցված">
 <!ENTITY redoMarkAllCmd.label "Կրկնել՝ Նշել բոլորը ընթերցված">
-<!ENTITY undoDefaultCmd.label "Ետարկել">
-<!ENTITY undoDefaultCmd.accesskey "U">
+<!ENTITY undoDefaultCmd.label "Հետարկել">
+<!ENTITY undoDefaultCmd.accesskey "Հ">
 <!ENTITY redoDefaultCmd.label "Կրկնել">
 <!ENTITY redoDefaultCmd.accesskey "R">
 <!-- View Menu -->
@@ -489,8 +489,8 @@
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
         which is placed under the Edit menu on Unix systems -->
 <!ENTITY accountManagerCmdUnix2.accesskey "A">
-<!ENTITY allowRemoteDebugging.label "Allow Remote Debugging">
-<!ENTITY allowRemoteDebugging.accesskey "g">
+<!ENTITY allowRemoteDebugging.label "Թույլատրել հեռակա Վրիպազերծումը">
+<!ENTITY allowRemoteDebugging.accesskey "զ">
 <!-- Mail Toolbar -->
 
 <!ENTITY getMsgButton1.label "Ստանալ նամակները">
@@ -758,7 +758,7 @@
    customizations for the thread pane columns in this folder to their default.
   -->
 
-<!ENTITY columnPicker.resetToInbox.label "Ետարկել սյունները">
+<!ENTITY columnPicker.resetToInbox.label "Վերակայել սյունները">
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
    This option in the thread pane column picker pops up a sub-menu containing
    the "columnPicker.applyToFolder.label" and

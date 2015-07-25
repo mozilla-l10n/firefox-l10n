@@ -10,8 +10,8 @@
 <!ENTITY status.signed "Թվային ստորագրմամբ.">
 <!ENTITY status.encrypted "Կոդավորված.">
 <!ENTITY status.certificates "Հավաստագրերը.">
-<!ENTITY view.label "Տեսքը">
-<!ENTITY view.accesskey "V">
+<!ENTITY view.label "Տեսք">
+<!ENTITY view.accesskey "Տ">
 <!ENTITY tree.recipient "Ստացողը">
 <!ENTITY tree.status "Վիճակը">
 <!ENTITY tree.issuedDate "Տրված">

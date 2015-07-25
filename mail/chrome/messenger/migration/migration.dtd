@@ -9,7 +9,7 @@
 <!ENTITY importFromNonWin.label         "Ներմուծել Կարգավորումները, Փոստարկղի կարգավորումները, Հասցեագիրքը, Ֆիլտրերը և այլ տվյալներ.">
 
 <!ENTITY importFromNothing.label        "Չներմուծել ոչինչ">
-<!ENTITY importFromNothing.accesskey    "D">
+<!ENTITY importFromNothing.accesskey    "Չ">
 <!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 կամ ավելի նոր">
 <!ENTITY importFromSeamonkey3.accesskey "S">
 <!ENTITY importFromOExpress.label       "Outlook Express">

@@ -25,12 +25,12 @@
 <!ENTITY biffEnd.label "րոպե">
 <!ENTITY connectionSecurity.label "Միացման անվտանգությունը.">
 <!ENTITY connectionSecurity.accesskey "u">
-<!ENTITY connectionSecurityType-0.label "Ոչինչ">
+<!ENTITY connectionSecurityType-0.label "Չկա">
 <!ENTITY connectionSecurityType-1.label "STARTTLS, եթե հասանելի է">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!ENTITY authMethod.label "Վավերացման եղանակը.">
-<!ENTITY authMethod.accesskey "i">
+<!ENTITY authMethod.label "Իսկորոշման եղանակ.">
+<!ENTITY authMethod.accesskey "շ">
 <!ENTITY leaveOnServer.label "Թողնել նամակները սպասարկիչում՝">
 <!ENTITY leaveOnServer.accesskey "g">
 <!ENTITY headersOnly.label "Ընտրել միայն գլխագրերը">
@@ -65,7 +65,7 @@
 <!ENTITY maxMessagesStart.accesskey "m">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "նամակներ">
-<!ENTITY alwaysAuthenticate.label "Սպասարկիչին կապակցելիս միշտ պահանջել վավերացում">
+<!ENTITY alwaysAuthenticate.label "Սպասարկիչին կապակցելիս միշտ պահանջել իսկորոշում">
 <!ENTITY alwaysAuthenticate.accesskey "տ">
 <!ENTITY newsrcFilePath.label "newsrc file:">
 <!ENTITY newsrcPicker.label "Ընտրեք newsrc ֆայլը">
@@ -84,7 +84,7 @@
 
 <!ENTITY accountTitle.label "Փոստարկղի կարգավորումներ">
 <!ENTITY accountSettingsDesc.label "Սա հատուկ փոստարկղ է։ Չկան որոշակի ասոցիացումներ։">
-<!ENTITY storeType.label "Հաղորդագրությունների կրիչի տեսակը">
-<!ENTITY storeType.accesskey "տ">
+<!ENTITY storeType.label "Նամակները պահելու եղանակը">
+<!ENTITY storeType.accesskey "ե">
 <!ENTITY mboxStore2.label "Ֆայլ թղթապանակում (mbox)">
 <!ENTITY maildirStore.label "Ֆայլ ամեն նամակի համար (maildir)">

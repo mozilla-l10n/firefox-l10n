@@ -15,7 +15,7 @@
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "Օգտ. տարբեր LDAP սպասարկիչներ.">
 <!ENTITY directories.accesskey     "տ">
-<!ENTITY directoriesNone.label     "Ոչինչ">
+<!ENTITY directoriesNone.label     "Չկա">
 <!-- am-addressing.xul -->
 
 

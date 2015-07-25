@@ -33,7 +33,7 @@
 <!ENTITY tableCaptionBelow.label          "Աղյուսակից վար">
 <!ENTITY tableCaptionLeft.label           "Աղյուսակից ձախ">
 <!ENTITY tableCaptionRight.label          "Աղյուսակից աջ">
-<!ENTITY tableCaptionNone.label           "Ոչինչ">
+<!ENTITY tableCaptionNone.label           "Չկա">
 <!ENTITY tableInheritColor.label           "(Ցուցադրել էջի գույնը միջով)">
 
 <!ENTITY cellSelection.label              "Ընտրություն">
