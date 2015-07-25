@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  no_space_to_start_error "لا يوجد مساحة تكفي لتشغيل &brandShortName;.">
-<!ENTITY  error_loading_file "حصل خطأ عند محاولة تحميل الملفات لتشغيل &brandShortName;">
+<!ENTITY  no_space_to_start_error "لا يوجد مساحة كافية لتشغيل &brandShortName;.">
+<!ENTITY  error_loading_file "حصل خطأ عند محاولة تحميل الملفات المطلوبة لتشغيل &brandShortName;">
 
 
 <!ENTITY  onboard_start_button_account "سجّل دخولك إلى &brandShortName;">
@@ -24,7 +24,7 @@
 <!ENTITY  crash_send_report_message3 "أخبر &vendorShortName; عن هذا الانهيار ليُمكنهم إصلاحه">
 <!ENTITY  crash_include_url2 "ضمّنهُ عنوان الصفحة التي كنت أزور">
 <!ENTITY  crash_sorry "نعتذر">
-<!ENTITY  crash_comment "ضع تعليقًا (التعليقات ظاهرة للعموم)">
+<!ENTITY  crash_comment "ضع تعليقًا (التعليقات علنية)">
 <!ENTITY  crash_allow_contact2 "اسمح ل&vendorShortName; بمراسلتي بخصوص هذا البلاغ">
 <!ENTITY  crash_email "بريدك الإلكتروني">
 <!ENTITY  crash_closing_alert "أأخرج بدون إرسال بلاغ الانهيار؟">
@@ -41,8 +41,11 @@
 <!ENTITY url_bar_default_text2 "ابحث أو أدخل عنوانا">
 
 <!ENTITY bookmark "علامة">
-
+<!ENTITY bookmark_remove "أزل العلامة">
 <!ENTITY bookmark_added "أُضيفت العلامة">
+<!-- Localization note (bookmark_already_added) : This string is
+     used as a label in a toast. It is the verb "to bookmark", not
+     the noun "a bookmark". -->
 <!ENTITY bookmark_removed "أُزيلت العلامة">
 <!ENTITY bookmark_updated "حُدّثت العلامة">
 <!ENTITY bookmark_options "الخيارات">
@@ -54,7 +57,7 @@
 
 <!ENTITY go "اذهب">
 <!ENTITY search "ابحث">
-<!ENTITY reload "أعد التحميل">
+<!ENTITY reload "أعِد التحميل">
 <!ENTITY forward "أمام">
 <!ENTITY menu "القائمة">
 <!ENTITY back "خلف">
@@ -67,7 +70,7 @@
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; من الألسنة">
-<!ENTITY new_tab_opened "فُتح لسان جديد">
+<!ENTITY new_tab_opened "فُتِح لسان جديد">
 <!ENTITY new_private_tab_opened "فُتِح لسان خاص جديد">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
@@ -75,6 +78,7 @@
 <!ENTITY switch_button_message "بدّل">
 
 <!ENTITY settings "الإعدادات">
+<!ENTITY settings_title "الإعدادات">
 
 <!ENTITY pref_category_advanced "متقدّم">
 <!ENTITY pref_category_customize "خصّص">
@@ -100,8 +104,10 @@
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
+
+<!ENTITY overlay_share_bookmark_btn_label "علّم">
 <!ENTITY overlay_share_reading_list_btn_label "أضِف إلى قائمة القراءة">
-<!ENTITY overlay_share_bookmark_btn_label_already "مُعلّم من قبل">
+
 <!ENTITY overlay_share_reading_list_btn_label_already "موجود في قائمة القراءة">
 <!ENTITY overlay_share_send_other "أرسله إلى أجهزة أخرى">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -111,7 +117,6 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "أرسله إلى جهاز آخر">
 <!ENTITY overlay_share_no_url "لا يُوجد رَابط في هذه المُشاركة">
-
 <!ENTITY overlay_share_select_device "حدد الجهاز">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
@@ -123,11 +128,12 @@
      them): the first notifying the user about the failure and the second
      telling the user what to do about it. -->
 
+<!ENTITY pref_category_search3 "البحث">
 <!ENTITY pref_category_search_summary "خصص مزودي البحث">
 <!ENTITY pref_category_display "العرض">
 <!ENTITY pref_category_display_summary "النص، و شريط العنوان، و التصفح في ملء الشاشة">
 <!ENTITY pref_category_privacy_short "الخصوصية">
-<!ENTITY pref_category_privacy_summary "تحكم في كلمات السر، و الكعكات، و التعقّب، و البيانات">
+
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "عن &brandShortName;، و الأسئلة الشائعة، و اختيارات البيانات">
 <!ENTITY pref_category_datareporting "اختيارات البيانات">
@@ -136,7 +142,7 @@
 <!ENTITY pref_category_add_search_providers "أضف المزيد من مزودي البحث">
 <!ENTITY pref_category_search_restore_defaults "استعد محركات البحث">
 <!ENTITY pref_search_restore_defaults "استعد الإعدادات المبدئية">
-
+<!ENTITY pref_search_restore_defaults_summary "استعد الإعدادات المبدئية">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
@@ -144,11 +150,11 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "فائدة: أضف أي موقع على لائحة مزودي البحث الخاصة بك عن طريق الضغط المطول على مساحة البحث ثم النقر على أيقونة &formatI;.">
 <!ENTITY pref_category_devtools "أدوات المطورين">
-
-
 <!ENTITY pref_developer_remotedebugging "تنقيح عن بعد">
 
-<!ENTITY pref_remember_signons "تذكّر كلمات السر">
+
+
+
 
 
 <!ENTITY pref_category_home "الرئيسية">
@@ -168,14 +174,16 @@
 <!ENTITY pref_home_suggested_sites_summary "اعرض اختصارات للمواقع التي نعتقد أنها تثير اهتمامك في صفحة البداية ">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-
+<!ENTITY pref_header_customize "خصّص">
+<!ENTITY pref_header_display "العرض">
+<!ENTITY pref_header_privacy_short "الخصوصية">
 <!ENTITY pref_header_help "مساعدة">
+<!ENTITY pref_header_language "اللغة">
 
-
-
+<!ENTITY pref_header_devtools "أدوات المطوّرين">
 
 <!ENTITY pref_cookies_menu "الكعكات">
-
+<!ENTITY pref_cookies_accept_all "مفعّلة">
 <!ENTITY pref_cookies_not_accept_foreign "مفعّلة، باستثناء الأطراف الخارجية">
 <!ENTITY pref_cookies_disabled "مُعطّلة">
 
@@ -185,15 +193,17 @@
 <!ENTITY pref_donottrack_summary "سيُخبر &brandShortName; المواقع أنك لا تريدها أن تتعقبك">
 
 
-<!-- Localization note (tab_queue_notification_text_plural) : The
+
+
+
+
+
+
+<!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!-- Localization note (tab_queue_notification_title_plural) : This is the
-     title of a notification; we expect more than one tab queued. -->
-<!-- Localization note (tab_queue_notification_title_singular) : This is the
-     title of a notification; we expect only one tab queued. -->
-<!-- Localization note (tab_queue_notification_text_singular) : This is the
+<!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
 
 <!ENTITY pref_char_encoding "ترميز المحارف">
@@ -202,12 +212,12 @@
 <!ENTITY pref_clear_private_data2 "امسح الان">
 <!ENTITY pref_clear_private_data_category "امسح البيانات الخاصة">
 <!ENTITY pref_clear_on_exit_title2 "امسح عند الخروج">
-<!ENTITY pref_clear_on_exit_summary2 "سيمسح &brandShortName; بياناتك تلقائيًا عند اختيارك \&quot;أغلق\&quot; من القائمة الرئيسية">
+<!ENTITY pref_clear_on_exit_summary2 "سيمسح &brandShortName; بياناتك تلقائيًا عند اختيارك ”أغلق“ من القائمة الرئيسية">
 <!ENTITY pref_clear_on_exit_dialog_title "اختر البيانات التي ستُمسح">
 <!ENTITY pref_plugins "الملحقات">
-
+<!ENTITY pref_plugins_enabled "مفعّلة">
 <!ENTITY pref_plugins_tap_to_play "انقر للتشغيل">
-
+<!ENTITY pref_plugins_disabled "مُعطّلة">
 <!ENTITY pref_text_size "حجم النص">
 <!ENTITY pref_reflow_on_zoom4 "إعادة انسياب النص">
 <!ENTITY pref_restore "الألسنة">
@@ -224,30 +234,37 @@
 same character/combination is used to increase the preview font size. It should be a concise
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
+<!ENTITY pref_font_size_adjust_char "ع">
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
 <!ENTITY pref_font_size_preview_text "صِفْ خَلْقَ خَوْدٍ كَمِثْلِ ٱلشَّمْسِ إِذْ بَزَغَتْ يَحْظَىٰ ٱلضَّجِيعُ بِهَا نَجْلَاءَ مِعْطَارِ.">
 
 <!ENTITY pref_media_autoplay_enabled "اسمح بالتشغيل التلقائي">
-<!ENTITY pref_media_autoplay_enabled_summary "تحكم في السماح للمواقع بتشغيل الفديو و غيره من الوسائط تلقائيا">
+<!ENTITY pref_media_autoplay_enabled_summary "تحكم في السماح للمواقع بتشغيل الڤديو و غيره من الوسائط تلقائيا">
+<!ENTITY pref_zoom_force_enabled "فعّل التقريب دائمًا">
+
+
+
 
 
 
 <!ENTITY pref_use_master_password "استخدم كلمة سر رئيسة">
 <!ENTITY pref_sync "تزامُن">
-<!ENTITY pref_sync_summary "زامن الألسنة، و العلامات، و كلمات السر، و التأريخ">
+
 <!ENTITY pref_search_suggestions "اعرض اقتراحات البحث">
 <!ENTITY pref_import_android "استورد من أندرويد">
-<!ENTITY pref_import_android_summary "استورد العلامات و تأريخ التصفح من المتصفح الأصلي">
+<!ENTITY pref_import_android_summary "استورد العلامات و تأريخ التصفح من المتصفح المحلي">
 <!ENTITY pref_private_data_history2 "تأريخ التصفح">
-<!ENTITY pref_private_data_formdata "تأريخ البحث و النماذج">
+<!ENTITY pref_private_data_searchHistory "تأريخ البحث">
+<!ENTITY pref_private_data_formdata2 "تأريخ الاستمارات">
 <!ENTITY pref_private_data_cookies2 "الكعكات و الولوجات النشطة">
-<!ENTITY pref_private_data_passwords "كلمات السر المحفوظة">
+
 <!ENTITY pref_private_data_cache "الخبيئة">
 <!ENTITY pref_private_data_offlineApps "بيانات المواقع للعمل دون اتصال">
 <!ENTITY pref_private_data_siteSettings2 "إعدادات الموقع">
 <!ENTITY pref_private_data_downloadFiles2 "التنزيلات">
+
 
 
 <!ENTITY pref_about_firefox "عن &brandShortName;">
@@ -294,16 +311,18 @@ size. -->
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
 <!ENTITY pref_update_autodownload2 "نزّل التحديثات تلقائيًا">
-
+<!ENTITY pref_update_autodownload_wifi "عبر واي فاي فقط">
 <!ENTITY pref_update_autodownload_never "أبدًا">
 <!ENTITY pref_update_autodownload_always "دائمًا">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
+
+<!ENTITY help_menu "مساعدة">
 
 <!ENTITY quit "أغلق">
 
 <!ENTITY addons "الإضافات">
 
-
+<!ENTITY downloads "التنزيلات">
 <!ENTITY apps "التطبيقات">
 <!ENTITY char_encoding "ترميز المحارف">
 
@@ -319,7 +338,7 @@ size. -->
 <!ENTITY new_private_tab "لسان خاص جديد">
 <!ENTITY close_all_tabs "أغلق كل الألسنة">
 <!ENTITY close_private_tabs "أغلق الألسنة الخاصة">
-
+<!ENTITY tabs_normal "الألسنة">
 <!ENTITY tabs_private "خاص">
 <!ENTITY tabs_synced "مُزامَن">
 <!ENTITY set_image_fail "تعذر استخدام الصورة">
@@ -327,29 +346,31 @@ size. -->
 <!ENTITY set_image_chooser_title "استخدم الصورة ك‍">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY find_text "ابحث في الصفحة">
 <!ENTITY find_prev "السابق">
 <!ENTITY find_next "التالي">
-
+<!ENTITY find_close "أغلِق">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
 <!ENTITY media_sending_to "يُرسل إلى جهاز">
 <!ENTITY media_play "شغّل">
 <!ENTITY media_pause "ألبِث">
-
+<!ENTITY media_stop "أوقف">
 
 <!ENTITY contextmenu_open_new_tab "افتح في لسان جديد">
 <!ENTITY contextmenu_open_private_tab "افتح في لسان خاص">
-
+<!ENTITY contextmenu_remove "أزِل">
 <!ENTITY contextmenu_add_to_launcher "أضِف إلى شاشة البداية">
-
+<!ENTITY contextmenu_share "شارِك">
 <!ENTITY contextmenu_pasteandgo "ألصق و اذهب">
 <!ENTITY contextmenu_paste "لصق">
 <!ENTITY contextmenu_copyurl "انسخ العنوان">
 <!ENTITY contextmenu_edit_bookmark "حرِّر">
 <!ENTITY contextmenu_subscribe "اشترك بهذه الصفحة">
 <!ENTITY contextmenu_site_settings "حرر إعدادات الموقع">
-
+<!ENTITY contextmenu_top_sites_edit "حرِّر">
 <!ENTITY contextmenu_top_sites_pin "ثبّت الموقع">
 <!ENTITY contextmenu_top_sites_unpin "افصل الموقع">
 <!ENTITY contextmenu_add_search_engine "أضِف محرك بحث">
@@ -360,6 +381,12 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "اسم المستخدم">
 
 
+<!ENTITY doorhanger_login_edit_toast_error "فشل حفظ الولوج">
+
+<!ENTITY doorhanger_login_select_toast_copy "نُسخت كلمة السر إلى الحافظة">
+<!ENTITY doorhanger_login_select_toast_copy_error "تعذر نسخ كلمة السر">
+
+<!ENTITY doorhanger_login_select_title "انسخ كلمة السر من">
 
 <!ENTITY pref_titlebar_mode "شريط العنوان">
 <!ENTITY pref_titlebar_mode_title "أظهر عنوان الصفحة">
@@ -368,7 +395,7 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar2 "التصفح في كل الشاشة">
-<!ENTITY pref_scroll_title_bar_summary "أخف شريط عنوان &brandShortName; عند تمرير الصفحة لأسفل">
+<!ENTITY pref_scroll_title_bar_summary "أخفِ شريط عنوان &brandShortName; عند تمرير الصفحة لأسفل">
 
 
 <!-- Localization note (page_removed): This string appears in a toast message when
@@ -385,14 +412,15 @@ size. -->
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
 <!ENTITY site_settings_title3       "إعدادات الموقع">
-
+<!ENTITY site_settings_cancel       "ألغِ">
 <!ENTITY site_settings_clear        "امسح">
 <!ENTITY site_settings_no_settings  "لا إعدادات لمسحها.">
-
-<!ENTITY reading_list_added "أضِفت الصفحة إلى قائمة القراءة">
+<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+     as possible. -->
 <!ENTITY reading_list_removed "حُذِفت الصفحة من قائمة القراءة">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
+<!ENTITY reading_list_remove "أزِل من قائمة القراءة">
 <!ENTITY reading_list_duplicate "الصفحة موجودة في قائمة القراءة">
 <!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
      panel on the home page to give the user an estimate of how many minutes it will take to
@@ -411,13 +439,14 @@ size. -->
 <!ENTITY masterpassword_confirm "أكد كلمة السر">
 
 <!ENTITY button_ok "حسنا">
-
+<!ENTITY button_cancel "ألغِ">
 <!ENTITY button_yes "نعم">
 <!ENTITY button_no "لا">
 <!ENTITY button_clear_data "امسح البيانات">
+<!ENTITY button_set "حدد">
+<!ENTITY button_clear "امسح">
+<!ENTITY button_copy "انسخ">
 
-
-<!ENTITY button_remember "تذكّر">
 
 <!ENTITY home_top_sites_title "المواقع الأكثر زيارة">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -427,7 +456,7 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 
 <!ENTITY home_title "صفحة &brandShortName; الرئيسية">
-
+<!ENTITY home_history_title "التأريخ">
 <!ENTITY home_clear_history_button "امسح تأريخ التصفح">
 <!ENTITY home_clear_history_confirm "أمتأكد من أنك تريد مسح التأريخ؟">
 <!ENTITY home_bookmarks_empty "العلامات التي تحفظها ستظهر هنا.">
@@ -474,10 +503,6 @@ size. -->
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 
-<!ENTITY private_browsing_title "التصفح الخاص">
-<!ENTITY private_tabs_panel_empty_desc "ألسنتك الخاصة ستظهر هنا. بينما لا نحفظ تاريخ تصفحك أو الكعكات، إلا أن العلامات و الملفات التي تحمّّلها ستبقى محفوظة على جهازك.">
-<!ENTITY private_tabs_panel_learn_more "هل تريد معرفة المزيد؟">
-
 
 
 
@@ -503,6 +528,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "والذي يعمل ب‍">
 
 
+<!ENTITY identity_encrypted "مُعمّى">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY loaded_mixed_content_message "تعرض هذه الصفحة محتوى غير آمن.">
@@ -565,7 +591,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "استمر">
 
 <!ENTITY new_guest_session_title "سيُعاد تشغيل &brandShortName; الآن">
-<!ENTITY new_guest_session_text "لن يستطيع الشخص الذي يستخدمه الاطلاع على أي من بيانات تصفحك (مثل كلمات السر المحفوظة، و التأريخ، و العلامات).\n\nعند انتهاء الضيف، كل بيانات تصفحه ستُحذف و ستُستعاد جلستك.">
+
 
 
 
@@ -575,6 +601,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
 
+<!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
+     display a percentage value. formatS is the number, #37 is the code to display a percent sign.
+     This format string is typically used by getString method, in such method the percent sign
+     is a reserved caracter. In order to display one percent sign in the result of getString,
+     double percent signs must be inserted in the format string.
+     This entity is used in the zoomed view to display the zoom factor-->
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 <!ENTITY actionbar_done "تم">
@@ -597,3 +629,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
 
 <!ENTITY find_matchcase "أب">
+
