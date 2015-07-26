@@ -182,10 +182,10 @@
   -  section. -->
 
 
+<!ENTITY options.sourceeditor.autoclosebrackets.label   "অটোক্লোজ ব্র্যাকেট">
+<!ENTITY options.sourceeditor.autoclosebrackets.tooltip "স্বয়ংক্রিয়ভাবে ক্লোজিং ব্র্যাকেট দিন">
 
-
-
-
+<!ENTITY options.sourceeditor.expandtab.tooltip         "ট্যাব ক্যারেক্টারের পরিবর্তে স্পেস ব্যবহার করুন">
 
 
 
