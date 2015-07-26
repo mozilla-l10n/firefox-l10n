@@ -10,4 +10,5 @@
 <!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
 <!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
 
-
+<!ENTITY privatebrowsingpage.link.private "আরও জানতে চান?">
+<!ENTITY privatebrowsingpage.link.normal "একটি নতুন ব্যাক্তিগত ট্যাব খুলুন">
