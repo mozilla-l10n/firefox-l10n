@@ -23,7 +23,7 @@
 <!ENTITY device.privileged "বিশেষ সুবিধাপ্রাপ্ত">
 <!ENTITY device.certified "অনুমোদিত">
 <!ENTITY device.allow "অনুমোদন">
-
+<!ENTITY device.allowTooltip "এই অনুমতি এ ধরনের অ্যাপের ক্ষেত্রে প্রযোজ্য।">
 <!ENTITY device.prompt "প্রম্পট">
 
 <!ENTITY device.deny "প্রত্যাখ্যান">
@@ -39,8 +39,9 @@
 
 <!ENTITY device.help "সাহায্য">
 
+<!ENTITY connection.connectTooltip "ডিভাইসের সাথে যুক্ত করুন">
 <!ENTITY connection.disconnect "বিচ্ছিন্ন">
-
+<!ENTITY connection.disconnectTooltip "বর্তমান ডিভাইস বা সিমুলেটর হতে সংযোগ বিচ্ছিন্ন করুন">
 <!ENTITY connection.notConnected2 "সংযুক্ত নয়।">
 <!ENTITY connection.connectTo "সংযোগ করুন:">
 <!ENTITY connection.noDeviceFound "কোন ডিভাইস পাওয়া যায়নি। একটি ডিভাইস যুক্ত করুন">
