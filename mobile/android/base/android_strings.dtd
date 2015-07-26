@@ -252,13 +252,13 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "সবসময় জুম সক্রিয় রাখুন">
 <!ENTITY pref_zoom_force_enabled_summary "জোর করে ওভাররাইড করুন যাতে আপনি সমস্ত পাতা জুম করতে পারেন">
 <!ENTITY pref_voice_input "ভয়েস ইনপুট">
-
-
-
+<!ENTITY pref_voice_input_summary "টাইটেল বারে ভয়েস প্রেরণের অনুমতি দিন">
+<!ENTITY pref_qrcode_enabled "QR কোড রিডার">
+<!ENTITY pref_qrcode_enabled_summary "টাইটেল বারে QR স্ক্যানারের অনুমতি দিন">
 
 <!ENTITY pref_use_master_password "মাস্টার পাসওয়ার্ড ব্যবহার করুন">
 <!ENTITY pref_sync "সিঙ্ক">
-
+<!ENTITY pref_sync_summary2 "আপনার ট্যাব, বুকমার্ক, লগইন, ইতিহাস সিঙ্ক করুন">
 <!ENTITY pref_search_suggestions "অনুসন্ধানের সাজেশন প্রদর্শন">
 <!ENTITY pref_import_android "অ্যান্ড্রয়েড থেকে ‌ইমপোর্ট">
 
@@ -282,6 +282,7 @@ size. -->
 <!ENTITY pref_dialog_default "ডিফল্ট">
 <!ENTITY pref_dialog_remove "মুছে ফেলুন">
 
+<!ENTITY pref_search_last_toast "আপনি আপনার সর্বশেষ সার্চ ইঞ্জিন অপসারণ বা নিষ্ক্রিয় করতে পারবেন না।">
 
 <!ENTITY pref_panels_show "প্রদর্শন করুন">
 <!ENTITY pref_panels_hide "আড়াল">
@@ -289,11 +290,11 @@ size. -->
 <!ENTITY pref_panels_move_up "উপরে উঠান">
 <!ENTITY pref_panels_move_down "নিচে নামান">
 
-
-
+<!ENTITY datareporting_notification_action_long "নির্বাচন করুন কি তথ্য শেয়ার করবেন">
+<!ENTITY datareporting_notification_action "নির্বাচন করুন কি শেয়ার করবেন">
 <!ENTITY datareporting_notification_summary "আপনার অভিজ্ঞতা উন্নত করার জন্য &brandShortName; &vendorShortName; -কে স্বয়ংক্রিয়ভাবে কিছু তথ্য প্রেরণ করবে।">
-
-
+<!ENTITY datareporting_notification_summary_short "আপনার অভিজ্ঞতা উন্নত করতে, &amp; brandShortName;…">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
@@ -489,17 +490,20 @@ size. -->
 <!ENTITY home_reading_list_hint_accessible "টিপ: আপনার রিডিং লিস্টে যুক্ত করার জন্য রিডার মোড বাটনটি টাইটেল বারে দেখতে পাওয়ার পর চেপে ধরে রাখুন।">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
+
+<!ENTITY home_default_empty "কোন কন্টেন্ট এই প্যানেলের জন্য পাওয়া যায়নি।">
 <!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
 
 <!ENTITY home_remote_tabs_title "সিঙ্ককৃত ট্যাব">
-
+<!ENTITY home_remote_tabs_empty "অন্যান্য ডিভাইস থেকে আপনার ট্যাব এখানে দেখানো হবে।">
 <!ENTITY home_remote_tabs_unable_to_connect "সংযোগ করতে ব্যর্থ">
 
+<!ENTITY home_remote_tabs_need_to_finish_migrating "আপনার নতুন ফায়ারফক্স অ্যাকাউন্ট প্রস্তুত!">
 
+<!ENTITY home_remote_tabs_need_to_verify "সিঙ্ক শুরু করার জন্য আপনার ফায়ারফক্স অ্যাকাউন্ট যাচাই করুন।">
 
-
-
+<!ENTITY home_remote_tabs_one_hidden_device "1 ডিভাইস লুকানো">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
