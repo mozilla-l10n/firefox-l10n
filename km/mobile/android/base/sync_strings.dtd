@@ -223,13 +223,13 @@
 <!ENTITY fxaccount_status_linkprivacy "សម្គាល់​ឯកជន">
 <!ENTITY fxaccount_status_more "ច្រើន​ទៀត&ellipsis;">
 
-<!ENTITY fxaccount_remove_account_dialog_title "ច្រើន​ទៀត&ellipsis;">
+<!ENTITY fxaccount_remove_account_dialog_title "លុប​គណនី Firefox ចេញ​មែន​ទេ?">
 <!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; នឹង​បញ្ឈប់​ការ​ធ្វើសមកាលកម្ម​ជា​មួយ​គណនី​របស់​អ្នក ប៉ុន្តែ​នឹង​មិន​លុប​ទិន្នន័យ​រុករក​របស់​អ្នក​​ណា​មួយ​ទេ​នៅ​លើ​ឧបករណ៍​នេះ។">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "បាន​លុប​ &formatS; គណនី Firefox ។">
 
-<!ENTITY fxaccount_remove_account_menu_item "បាន​លុប &formatS; គណនី Firefox ។">
+<!ENTITY fxaccount_remove_account_menu_item "លុប​គណនី​ចេញ">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 
@@ -240,7 +240,7 @@
      status activity, which lets them manage their Firefox
      Account. -->
 
-<!ENTITY fxaccount_options_title "ជម្រើស syncBrand.shortName.label;">
+<!ENTITY fxaccount_options_title "ជម្រើស &syncBrand.shortName.label;">
 <!ENTITY fxaccount_options_configure_title "កំណត់​រចនា​សម្ព័ន្ធ &syncBrand.shortName.label;">
 <!-- Localization note: these error messages are shown after a request
      has been made to the remote server, and an error of some type has
