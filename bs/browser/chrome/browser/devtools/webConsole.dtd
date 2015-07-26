@@ -53,7 +53,7 @@
   -  for editing commands in text inputs. -->
 <!ENTITY btnPageNet.accesskeyMacOSX "t">
 <!ENTITY btnPageCSS.label   "CSS">
-
+<!ENTITY btnPageCSS.tooltip2 "Zapisuj CSS greške i upozorenja">
 <!ENTITY btnPageCSS.accesskey "C">
 <!ENTITY btnPageJS.label    "JS">
 <!ENTITY btnPageJS.tooltip  "Zapisuje JavaScript izuzetke">
@@ -68,19 +68,23 @@
 
 <!ENTITY btnPageLogging.label   "Zapisujem">
 <!ENTITY btnPageLogging.tooltip "Zapisuj poruke poslate ka window.console objektu">
-
+<!ENTITY btnPageLogging.accesskey3 "I">
 <!ENTITY btnConsoleErrors       "Greške">
 <!ENTITY btnConsoleInfo         "Info">
 <!ENTITY btnConsoleWarnings     "Upozorenja">
 <!ENTITY btnConsoleLog          "Zapis">
 <!ENTITY btnConsoleXhr          "XHR">
-
+<!ENTITY btnConsoleReflows      "Reflows">
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
+
+<!ENTITY btnConsoleSharedWorkers "Dijeljeni workeri">
 <!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
   -  should not be translated. -->
+<!ENTITY btnConsoleServiceWorkers "Service workeri">
 <!-- LOCALIZATION NODE (btnConsoleWindowlessWorkers) the term "Workers"
   -  should not be translated. -->
+<!ENTITY btnConsoleWindowlessWorkers "Dodatak ili chrome workeri">
 
 <!ENTITY filterOutput.placeholder "Izlaz filtera">
 <!ENTITY btnClear.label        "Očisti">
@@ -103,6 +107,6 @@
 
 <!ENTITY closeCmd.key         "W">
 <!ENTITY findCmd.key          "F">
-
-
-
+<!ENTITY clearOutputCtrl.key  "L">
+<!ENTITY openInVarViewCmd.label "Otvori u prikazu varijabli">
+<!ENTITY openInVarViewCmd.accesskey "v">
