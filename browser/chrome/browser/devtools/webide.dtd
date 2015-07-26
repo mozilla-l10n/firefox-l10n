@@ -2,76 +2,88 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY windowTitle "ফায়ারফক্স WebIDE">
 
+<!ENTITY projectMenu_label "প্রকল্প">
+<!ENTITY projectMenu_accesskey "P">
+<!ENTITY projectMenu_newApp_label "নতুন অ্যাপ...">
+<!ENTITY projectMenu_newApp_accesskey "N">
+<!ENTITY projectMenu_importPackagedApp_label "প্যাকেজড অ্যাপ খুলুন...">
+<!ENTITY projectMenu_importPackagedApp_accesskey "P">
+<!ENTITY projectMenu_importHostedApp_label "হোস্টটেড অ্যাপ খুলুন...">
+<!ENTITY projectMenu_importHostedApp_accesskey "H">
+<!ENTITY projectMenu_selectApp_label "অ্যাপ খুলুন…">
+<!ENTITY projectMenu_selectApp_accesskey "O">
+<!ENTITY projectMenu_play_label "ইনস্টল ও চালু করুন">
+<!ENTITY projectMenu_play_accesskey "I">
+<!ENTITY projectMenu_stop_label "অ্যাপ বন্ধ">
+<!ENTITY projectMenu_stop_accesskey "S">
+<!ENTITY projectMenu_debug_label "ডিবাগ অ্যাপ">
+<!ENTITY projectMenu_debug_accesskey "D">
 
+<!ENTITY projectMenu_remove_accesskey "R">
 
+<!ENTITY projectMenu_showPrefs_accesskey "e">
+<!ENTITY projectMenu_manageComponents_label "বাড়তি কম্পোনেন্ট ব্যবস্থাপনা">
+<!ENTITY projectMenu_manageComponents_accesskey "M">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY runtimeMenu_label "রানটাইম">
+<!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "বিচ্ছিন্ন">
+<!ENTITY runtimeMenu_disconnect_accesskey "D">
+<!ENTITY runtimeMenu_showPermissionTable_label "অনুমতি টেবিল">
+<!ENTITY runtimeMenu_showPermissionTable_accesskey "P">
+<!ENTITY runtimeMenu_takeScreenshot_label "স্ক্রিনশট">
+<!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
+<!ENTITY runtimeMenu_showDetails_label "রানটাইম তথ্য">
+<!ENTITY runtimeMenu_showDetails_accesskey "E">
+<!ENTITY runtimeMenu_showMonitor_label "মনিটর">
+<!ENTITY runtimeMenu_showMonitor_accesskey "M">
 
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
+<!ENTITY runtimeMenu_showSettings_label "ডিভাইস সেটিং">
+<!ENTITY runtimeMenu_showSettings_accesskey "s">
 
 <!ENTITY viewMenu_label "প্রদর্শন">
-
-
-
+<!ENTITY viewMenu_accesskey "V">
+<!ENTITY viewMenu_toggleEditor_label "টগল এডিটর">
+<!ENTITY viewMenu_toggleEditor_accesskey "E">
 <!ENTITY viewMenu_zoomin_label "বড় আকারে প্রদর্শন">
-
+<!ENTITY viewMenu_zoomin_accesskey "I">
 <!ENTITY viewMenu_zoomout_label "ছোট আকারে প্রদর্শন">
+<!ENTITY viewMenu_zoomout_accesskey "O">
+<!ENTITY viewMenu_resetzoom_label "জুম রিসেট">
+<!ENTITY viewMenu_resetzoom_accesskey "R">
 
-
-
-
-
+<!ENTITY projectButton_label "অ্যাপ খুলুন">
+<!ENTITY runtimeButton_label "রানটাইম নির্বাচন">
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
+
+<!ENTITY key_quit "W">
 <!-- open menu -->
+<!ENTITY key_showProjectPanel "O">
 <!-- reload app -->
+<!ENTITY key_play "R">
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
 <!-- toggle sidebar -->
+<!ENTITY key_toggleEditor "B">
 <!-- zoom -->
+<!ENTITY key_zoomin "+">
+<!ENTITY key_zoomin2 "=">
+<!ENTITY key_zoomout "-">
+<!ENTITY key_resetzoom "0">
 
-
-
-
-
+<!ENTITY projectPanel_myProjects "আমার প্রকল্প">
+<!ENTITY projectPanel_runtimeApps "রানটাইম অ্যাপ">
 <!ENTITY projectPanel_tabs "ট্যাব">
-
-
-
+<!ENTITY runtimePanel_usb "USB ডিভাইস">
+<!ENTITY runtimePanel_wifi "Wi-Fi ডিভাইস">
+<!ENTITY runtimePanel_simulator "সিমুলেটর">
 <!ENTITY runtimePanel_other "অন্যান্য">
 <!ENTITY runtimePanel_installsimulator "সিমুলেটর ইনস্টল করুন">
-
+<!ENTITY runtimePanel_noadbhelper "ইনস্টল ADB Helper">
 
 <!-- Lense -->
 

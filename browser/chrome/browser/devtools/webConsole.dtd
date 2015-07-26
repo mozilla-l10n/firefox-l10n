@@ -77,10 +77,14 @@
 
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
+
+<!ENTITY btnConsoleSharedWorkers "শেয়ার্ড ওয়ার্কার্স">
 <!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
   -  should not be translated. -->
+<!ENTITY btnConsoleServiceWorkers "সার্ভিস ওয়ার্কার্স">
 <!-- LOCALIZATION NODE (btnConsoleWindowlessWorkers) the term "Workers"
   -  should not be translated. -->
+<!ENTITY btnConsoleWindowlessWorkers "অ্যাড-অন বা ক্রোম ওয়ার্কার্স">
 
 <!ENTITY filterOutput.placeholder "ফিল্টার আউটপুট">
 <!ENTITY btnClear.label        "মুছে ফেলুন r">

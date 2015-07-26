@@ -15,7 +15,7 @@
 <!ENTITY connecting "সংযুক্ত করা হচ্ছে …">
 
 <!ENTITY availableTabs "সম্ভাব্য রিমোট ট্যাবসমূহ:">
-<!ENTITY availableProcesses "বিদ্যমান দূরবর্তী প্রক্রিয়া:">
+<!ENTITY availableProcesses "বিদ্যমান রিমোট প্রসেস:">
 <!ENTITY connectionError "ত্রুটি:">
 <!ENTITY errorTimeout "ত্রুটি: সংযোগের সময় শেষ।">
 <!ENTITY errorRefused "ত্রুটি: সংযোগ বাতিল করা হয়েছে।">
