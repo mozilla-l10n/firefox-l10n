@@ -7,8 +7,15 @@
 <!ENTITY aboutPrivateBrowsing.subtitle "&brandShortName; no recordará ningún historial de esta ventana.">
 <!ENTITY aboutPrivateBrowsing.subtitle.normal "&brandShortName; no recordará ningún historial de ventanas privadas.">
 <!ENTITY aboutPrivateBrowsing.description "Esto incluye los historiales de navegación, búsquedas, descargas y formularios web, así como los archivos temporales de internet. Sin embargo, los archivos que descarga y los marcadores que cree se conservarán.">
+<!ENTITY aboutPrivateBrowsing.shortdescription "&brandShortName; no recordará el historial de esta ventana, pero conservará cualquier archivo que descargue y cualquier marcador que cree (tenga en cuenta que su empresa o proveedor de servicios de Internet siguen pudiendo rastrear las páginas que visita).">
 <!ENTITY aboutPrivateBrowsing.notPrivate "No está actualmente en una ventana privada.">
 <!ENTITY aboutPrivateBrowsing.moreInfo "Aunque este equipo no conservará un registro de su historial de navegación, su proveedor de servicios de Internet o su empresa aún pueden rastrear las páginas que haya visitado.">
 <!ENTITY aboutPrivateBrowsing.learnMore "Saber más.">
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Abrir una ventana privada">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
+<!ENTITY trackingProtection.subtitle "Ahora con protección contra rastreo">
+<!ENTITY trackingProtection.description "La protección contra rastreo bloqueará contenido que rastree su actividad de navegación para que no tenga que preocuparse porque sea compartida en varios sitios web.">
+<!ENTITY trackingProtection.showPreferences "Preferencias de privacidad">
+<!ENTITY trackingProtection.startTour "Ver las novedades">
+<!ENTITY trackingProtection.enable.label "Activar protección contra rastreo">
+<!ENTITY trackingProtection.enable.accesskey "A">

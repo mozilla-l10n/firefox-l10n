@@ -93,8 +93,6 @@
 <!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "Salir del modo pantalla completa">
 <!ENTITY fullScreenExit.accesskey "m">
-<!ENTITY fullscreenAllowButton.label "Permitir">
-<!ENTITY fullscreenExitButton.label "Denegar">
 <!ENTITY fullscreenExitHint2.value "Pulse ESC en cualquier momento para salir.">
 <!ENTITY leaveDOMFullScreen.label "Salir de la pantalla completa">
 <!ENTITY leaveDOMFullScreen.accesskey "p">
@@ -297,6 +295,8 @@
 <!ENTITY searchFocus.commandkey "k">
 <!ENTITY searchFocus.commandkey2 "e">
 <!ENTITY searchFocusUnix.commandkey "j">
+<!ENTITY contentSearchInput.label "Criterios de búsqueda">
+<!ENTITY contentSearchSubmit.label "Enviar búsqueda">
 <!ENTITY searchFor.label "Buscar ">
 <!ENTITY searchWith.label " con:">
 <!ENTITY search.label "Buscar ">
@@ -557,13 +557,15 @@
 <!ENTITY mixedContentBlocked2.block.accesskey "v">
 <!ENTITY mixedContentBlocked2.disabled.message "La protección está desactivada">
 <!ENTITY trackingProtection.title "Protección contra rastreo">
-<!ENTITY trackingProtection.detectedBlocked "Los intentos de rastrear su comportamiento en línea han sido bloqueados.">
-<!ENTITY trackingProtection.detectedNotBlocked "Elementos de rastreo detectados. Tiene la protección desactivada en este sitio.">
-<!ENTITY trackingProtection.notDetected "Se han detectado elementos de rastreo en este sitio web.">
+<!ENTITY trackingProtection.detectedBlocked2 "&brandShortName; está bloqueando un intento de rastrear su navegación.">
+<!ENTITY trackingProtection.detectedNotBlocked2 "Este sitio incluye contenido que rastrea su navegación. Tiene la protección desactivada.">
+<!ENTITY trackingProtection.notDetected2 "Este sitio no incluye ningún contenido que rastree su navegación.">
 <!ENTITY trackingProtection.unblock.label "Desactivar protección en este sitio">
 <!ENTITY trackingProtection.unblock.accesskey "e">
-<!ENTITY trackingProtection.block.label "Activar protección en este sitio">
-<!ENTITY trackingProtection.block.accesskey "c">
+<!ENTITY trackingProtection.unblockPrivate.label "Desactivar protección en esta sesión">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "D">
+<!ENTITY trackingProtection.block2.label "Activar protección">
+<!ENTITY trackingProtection.block2.accesskey "A">
 <!ENTITY trackingContentBlocked.message "Rastreo">
 <!ENTITY trackingContentBlocked.moreinfo "Las partes de esta página que rastrean su actividad en línea han sido bloqueadas.">
 <!ENTITY trackingContentBlocked.learnMore "Saber más">
