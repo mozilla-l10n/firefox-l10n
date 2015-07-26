@@ -115,7 +115,7 @@
 <!ENTITY calendar.task.filter.today.accesskey       "H">
 <!ENTITY calendar.task.filter.next7days.label       "Próximos sete dias">
 <!ENTITY calendar.task.filter.next7days.accesskey   "x">
-<!ENTITY calendar.task.filter.notstarted.label      "Tarefas não iniciadas">
+<!ENTITY calendar.task.filter.notstarted.label      "Tarefas por iniciar">
 <!ENTITY calendar.task.filter.notstarted.accesskey  "a">
 <!ENTITY calendar.task.filter.overdue.label         "Tarefas atrasadas">
 <!ENTITY calendar.task.filter.overdue.accesskey     "r">
