@@ -57,7 +57,6 @@
 <!ENTITY options.stylesheetSourceMaps.tooltip "Mostrar fuentes originales (p.e., archivos Sass) en el editor y el inspector de estilos">
 <!ENTITY options.stylesheetAutocompletion.label "Autocompletar CSS">
 <!ENTITY options.stylesheetAutocompletion.tooltip "Autocompletar propiedades, valores y selectores CSS en el editor de estilos a medida que escribe">
-<!ENTITY options.profiler.label "Analizador JavaScript">
 <!ENTITY options.commonPrefs.label "Preferencias comunes">
 <!ENTITY options.enablePersistentLogs.label "Activar registros persistentes">
 <!ENTITY options.enablePersistentLogs.tooltip "Si activa esta opción, la consola web y el monitor de red no inicializarán la salida cada vez que navegue a una página nueva">

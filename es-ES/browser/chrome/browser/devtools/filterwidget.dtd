@@ -4,3 +4,6 @@
 
 <!ENTITY filterListSelectPlaceholder "Seleccione un filtro">
 <!ENTITY addNewFilterButton "Añadir">
+<!ENTITY newPresetPlaceholder "Nombre de la preconfiguración">
+<!ENTITY savePresetButton "Guardar">
+<!ENTITY presetsToggleButton "Preconfiguraciones">

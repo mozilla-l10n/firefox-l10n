@@ -12,13 +12,10 @@
 <!ENTITY debuggerUI.autoPrettyPrint "Formatear automáticamente los códigos fuente minimizados.">
 <!ENTITY debuggerUI.autoPrettyPrint.accesskey "n">
 <!ENTITY debuggerUI.sources.toggleBreakpoints "Activar/desactivar todos los puntos de ruptura">
+<!ENTITY debuggerUI.sources.togglePromiseDebugger "Activar depurador Promise">
 <!ENTITY debuggerUI.startTracing "Comenzar a registrar traza">
 <!ENTITY debuggerUI.clearButton "Limpiar">
 <!ENTITY debuggerUI.clearButton.tooltip "Limpiar las trazas recopiladas">
-<!ENTITY debuggerUI.pauseExceptions "Pausar en las excepciones">
-<!ENTITY debuggerUI.pauseExceptions.accesskey "P">
-<!ENTITY debuggerUI.ignoreCaughtExceptions "Ignorar excepciones detectadas">
-<!ENTITY debuggerUI.ignoreCaughtExceptions.accesskey "I">
 <!ENTITY debuggerUI.showPanesOnInit "Mostrar paneles al arrancar">
 <!ENTITY debuggerUI.showPanesOnInit.accesskey "M">
 <!ENTITY debuggerUI.showVarsFilter "Mostrar la caja de filtro de variables">
