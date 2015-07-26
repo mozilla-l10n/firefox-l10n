@@ -56,7 +56,7 @@
 <!ENTITY emptyTrashOnExit.label "Esvaziar lixo ao sair">
 <!ENTITY emptyTrashOnExit.accesskey "x">
 <!ENTITY loginAtStartup.label "Procurar novas mensagens ao iniciar">
-<!ENTITY loginAtStartup.accesskey "P">
+<!ENTITY loginAtStartup.accesskey "c">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
    of messages between them
