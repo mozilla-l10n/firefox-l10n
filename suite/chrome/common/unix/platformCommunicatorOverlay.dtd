@@ -31,3 +31,6 @@
 <!ENTITY ctrlKey.label                  "Ctrl">
 <!ENTITY altKey.label                   "Alt">
 <!ENTITY shiftKey.label                 "May">
+
+<!ENTITY menubarCmd.label               "Barra de menú">
+<!ENTITY menubarCmd.accesskey           "e">

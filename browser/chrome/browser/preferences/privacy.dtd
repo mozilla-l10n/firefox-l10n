@@ -4,13 +4,13 @@
 
 <!ENTITY tracking.label                 "Rastreo">
 
-<!ENTITY dntTrackingNotOkay.label2      "Decirle a los sitios que no quiero ser rastreado">
-<!ENTITY dntTrackingNotOkay.accesskey   "D">
-<!ENTITY trackingProtection.label       "Evitar que los sitios me rastreen">
-<!ENTITY trackingProtection.accesskey   "m">
+<!ENTITY dntTrackingNotOkay3.label     "Pedir que los sitios no me rastreen.">
+<!ENTITY dntTrackingNotOkay3.accesskey "n">
+<!ENTITY trackingProtection3.label     "Evitar que los sitios me rastreen.">
+<!ENTITY trackingProtection3.accesskey "m">
 <!ENTITY trackingProtectionLearnMore.label "Conocer más">
-<!ENTITY trackingProtectionPBM.label          "Evitar que los sitios rastreen mi actividad en línea en ventanas privadas">
-<!ENTITY trackingProtectionPBM.accesskey      "v">
+<!ENTITY trackingProtectionPBM3.label         "Evitar que los sitios me rastreen en ventanas privadas">
+<!ENTITY trackingProtectionPBM3.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Conocer más">
 
 <!ENTITY doNotTrackInfo.label           "Conocer más">
