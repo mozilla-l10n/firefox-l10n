@@ -25,8 +25,8 @@
 
 <!ENTITY helpSafeMode.label       "ចាប់ផ្ដើម​ឡើងវិញ​ជាមួយ​កម្មវិធី​បន្ថែម​ដែល​បាន​បិទ...">
 <!ENTITY helpSafeMode.accesskey   "ច">
-
-
+<!ENTITY helpSafeMode.stop.label       "ចាប់ផ្ដើម​ឡើងវិញ​ជាមួយ​កម្មវិធី​បន្ថែម​ដែល​បាន​បើក">
+<!ENTITY helpSafeMode.stop.accesskey   "ច">
 
 <!ENTITY healthReport2.label      "&brandShorterName; របាយការណ៍សុខភាព">
 <!ENTITY healthReport2.accesskey  "ស">
