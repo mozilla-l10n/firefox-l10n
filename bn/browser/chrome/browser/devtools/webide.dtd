@@ -84,67 +84,77 @@
 <!ENTITY runtimePanel_other "অন্যান্য">
 <!ENTITY runtimePanel_installsimulator "সিমুলেটর ইনস্টল করুন">
 <!ENTITY runtimePanel_noadbhelper "ইনস্টল ADB Helper">
-
+<!ENTITY runtimePanel_nousbdevice "আপনার ডিভাইস দেখতে পাচ্ছেন না?">
 <!-- Lense -->
+
+<!ENTITY details_valid_header "বৈধ">
 
 
 
 <!ENTITY details_location "অবস্থান">
+<!ENTITY details_manifestURL "অ্যাপ ID">
 
-
-
+<!ENTITY details_showPrepackageLog_button "প্রি-প্যাকেজ লগ দেখান">
 <!-- New App -->
 
-
-
+<!ENTITY newAppWindowTitle "নতুন অ্যাপ">
+<!ENTITY newAppHeader "টেমপ্লেট নির্বাচন">
+<!ENTITY newAppLoadingTemplate "টেমপ্লেট লোড করা হচ্ছে…">
+<!ENTITY newAppProjectName "প্রকল্পের নাম:">
 <!-- Decks -->
 
 
 
 <!ENTITY deck_close "বন্ধ">
 <!-- Addons -->
+
+<!ENTITY addons_title "অতিরিক্ত উপাদানগুলো">
 <!ENTITY addons_aboutaddons "অ্যাড-অন ব্যবস্থাপক খুলুন">
 <!-- Prefs -->
-
+<!ENTITY prefs_editor_title "এডিটর">
 <!ENTITY prefs_general_title "সাধারণ">
 
+<!ENTITY prefs_manage_components "বাড়তি উপাদান ব্যবস্থাপনা">
+<!ENTITY prefs_options_autoconnectruntime "পূর্ববর্তী রানটাইম পুনঃসংযোগ করুন">
+<!ENTITY prefs_options_autoconnectruntime_tooltip "WebIDE আরম্ভ হলে আগের রানটাইম পুনঃসংযোগ করুন">
 
+<!ENTITY prefs_options_rememberlastproject_tooltip "WebIDE শুরু করার আগে পূর্ববর্তী প্রকল্পটি পুনরুদ্ধার করুন">
+<!ENTITY prefs_options_templatesurl "টেমপ্লেট URL">
 
+<!ENTITY prefs_options_showeditor "এডিটর দেখাও">
+<!ENTITY prefs_options_showeditor_tooltip "অভ্যন্তরীণ এডিটর দেখাও">
+<!ENTITY prefs_options_tabsize "ট্যাব আকার">
+<!ENTITY prefs_options_expandtab "সফট ট্যাব">
+<!ENTITY prefs_options_expandtab_tooltip "ট্যাব ক্যারেক্টারের পরিবর্তে স্পেস ব্যবহার করুন">
+<!ENTITY prefs_options_detectindentation "অটোইন্ডেন্ট">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY prefs_options_autocomplete "অটোকমপ্লিট">
+<!ENTITY prefs_options_autocomplete_tooltip "কোড অটোকমপ্লিশন সক্রিয় করুন">
+<!ENTITY prefs_options_autoclosebrackets "অটোক্লোজ ব্র্যাকেট">
+<!ENTITY prefs_options_autoclosebrackets_tooltip "স্বয়ংক্রিয়ভাবে ক্লোজিং ব্র্যাকেট দিন">
+<!ENTITY prefs_options_keybindings "কী-বাইন্ডিং">
 <!ENTITY prefs_options_keybindings_default "পূর্বনির্ধারিত">
 <!-- Permissions Table -->
 
+<!ENTITY permissionstable_title "অনুমতি টেবিল">
+
 <!-- Runtime Details -->
 
+<!ENTITY runtimedetails_title "রানটাইম তথ্য">
+
+<!ENTITY runtimedetails_summonADBRoot "root ডিভাইস">
 
 
 
-
-
+<!ENTITY runtimedetails_privilegesWarning "(ডিভাইস পুনরায় বুট করা হবে। রুটের অধিকার প্রয়োজন।)">
 <!-- Device Preferences and Settings -->
 
 
 <!ENTITY device_typeobject "অবজেক্ট">
 
 <!-- Device Preferences -->
-
-
+<!ENTITY devicepreference_search "সার্চের পছন্দসমূহ">
+<!ENTITY devicepreference_newname "নতুন পছন্দের নাম">
 
 
 <!-- Device Settings -->
