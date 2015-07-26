@@ -41,9 +41,9 @@
 <!ENTITY helpus.start               "সাহায্য করতে চান? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
 <!ENTITY helpus.donateLink          "দান করুন">
-<!ENTITY helpus.middle              ", বা ">
+<!ENTITY helpus.middle              " অথবা ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY helpus.getInvolvedLink     "এখনই যোগ দিন!">
+<!ENTITY helpus.getInvolvedLink     "যোগদান করুন!">
 <!ENTITY helpus.end                 "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
