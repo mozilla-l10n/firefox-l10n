@@ -220,15 +220,15 @@
 <!ENTITY pref_clear_private_data_category "ব্যাক্তিগত ডাটা মুছুন">
 <!ENTITY pref_clear_on_exit_title2 "প্রস্থানকালে পরিষ্কার করুন">
 
-
+<!ENTITY pref_clear_on_exit_dialog_title "কোন তথ্য মুছে ফেলতে হবে তা নির্বাচন করুন">
 <!ENTITY pref_plugins "প্লাগইন">
 <!ENTITY pref_plugins_enabled "সক্রিয়">
 <!ENTITY pref_plugins_tap_to_play "প্লে করতে ট্যাপ করুন">
 <!ENTITY pref_plugins_disabled "নিষ্ক্রিয়">
 <!ENTITY pref_text_size "টেক্সটের আকার">
-
+<!ENTITY pref_reflow_on_zoom4 "টেক্সট রি-ফ্লো">
 <!ENTITY pref_restore "ট্যাব">
-
+<!ENTITY pref_restore_always "সবসময় রিস্টোর করুন">
 <!ENTITY pref_restore_quit "প্রস্থান করার পর রিস্টোর করা হবে না &brandShortName;">
 <!ENTITY pref_font_size_tiny "অতিক্ষুদ্র">
 <!ENTITY pref_font_size_small "ছোট">
@@ -247,10 +247,11 @@ size. -->
 
 <!ENTITY pref_font_size_preview_text "আপনার প্রত্যাশার চাইতে আরো দ্রুত গতিতে কমলা রংয়ের শিয়ালটি আরো অনেক উঁচুতে লাফাতে পারে, আরো নমনীয় ভাবে এবং আরো নিরাপদে। অলাভজনক হিসেবে, আপনার তরফ থেকে কোনো ধরনের আপোষ করার চাপ ছাড়াই আমরা বিনামূল্যে পরিবর্তন করে দিচ্ছি। এটি হবে আপনার জন্য একটি ভাল অভিজ্ঞতা এবং ওয়েবের জন্যে এক উজ্জ্বল ভবিষ্যত।">
 
-
-
-
-
+<!ENTITY pref_media_autoplay_enabled "নিজে থেকে চালু হওয়ার অনুমতি দিন">
+<!ENTITY pref_media_autoplay_enabled_summary "ওয়েবসাইট গুলি ভিডিও এবং অন্যান্য মিডিয়া নিজে থেকে চালু করবে কিনা তা নিয়ন্ত্রণ করুন">
+<!ENTITY pref_zoom_force_enabled "সবসময় জুম সক্রিয় রাখুন">
+<!ENTITY pref_zoom_force_enabled_summary "জোর করে ওভাররাইড করুন যাতে আপনি সমস্ত পাতা জুম করতে পারেন">
+<!ENTITY pref_voice_input "ভয়েস ইনপুট">
 
 
 
@@ -303,7 +304,7 @@ size. -->
 <!ENTITY datareporting_fhr_title "&brandShortName; হেলথ রিপোর্ট">
 <!ENTITY datareporting_fhr_summary2 "আপনার ব্রাউসারের স্বাস্থ্য সম্বন্ধে &vendorShortName; এর সাথে ডেটা শেয়ার করে  এবং আপনাকে সাহায্য করে আপনার ব্রাউসারের কার্যকারিতা অনুধাবন করতে">
 
-
+<!ENTITY datareporting_telemetry_title "টেলিমেট্রি">
 <!ENTITY datareporting_telemetry_summary "&brandShortName; কে আরও ভাল করে তুলতে আমাদের সাহায্য করার জন্য আপনার ব্রাউজারের কর্মক্ষমতা, ব্যবহার, হার্ডওয়্যার এবং স্বনির্ধারণ সম্পর্কিত তথ্য &vendorShortName; কে জানায়">
 <!ENTITY datareporting_crashreporter_summary "আপনার ব্রাউজারকে আরও স্থিতিশীল এবং নিরাপদ করতে সাহায্য করার জন্য &brandShortName; &vendorShortName; কে ক্র্যাশ রিপোর্ট পাঠাচ্ছে">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
@@ -345,8 +346,8 @@ size. -->
 <!ENTITY tabs_normal "ট্যাবসমূহ">
 <!ENTITY tabs_private "ব্যক্তিগত">
 <!ENTITY tabs_synced "সিঙ্ক করা হয়েছে">
-
-
+<!ENTITY set_image_fail "ছবি সেট করা যায়নি">
+<!ENTITY set_image_path_fail "ছবি সংরক্ষণ করা যায়নি">
 <!ENTITY set_image_chooser_title "ছবিটি যেভাবে সেট হবে">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -357,6 +358,8 @@ size. -->
 <!ENTITY find_close "বন্ধ">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY media_sending_to "ডিভাইসে পাঠানো হচ্ছে">
 <!ENTITY media_play "চালানো">
 <!ENTITY media_pause "বিরতি">
 <!ENTITY media_stop "থামুন">
@@ -366,38 +369,43 @@ size. -->
 <!ENTITY contextmenu_remove "অপসারণ">
 <!ENTITY contextmenu_add_to_launcher "হোম স্ক্রীনে যোগ করা হবে">
 <!ENTITY contextmenu_share "শেয়ার">
-
+<!ENTITY contextmenu_pasteandgo "পেস্ট ও পরিদর্শন করুন">
 <!ENTITY contextmenu_paste "প্রতিলেপন">
 <!ENTITY contextmenu_copyurl "ঠিকানা অনুলিপি করা হবে">
 <!ENTITY contextmenu_edit_bookmark "সম্পাদনা">
-
-
+<!ENTITY contextmenu_subscribe "পেজটি সাবস্ক্রাইব করুন">
+<!ENTITY contextmenu_site_settings "সাইট সেটিং সম্পাদনা করুন">
 <!ENTITY contextmenu_top_sites_edit "সম্পাদনা">
 <!ENTITY contextmenu_top_sites_pin "সাইট পিন করুন">
-
+<!ENTITY contextmenu_top_sites_unpin "সাইট আনপিন করুন">
 <!ENTITY contextmenu_add_search_engine "একটি সার্চ ইঞ্জিন যোগ করুন">
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
+
+<!ENTITY doorhanger_login_no_username "[No username]">
 <!ENTITY doorhanger_login_edit_title "লগইন সম্পাদনা করুন">
 <!ENTITY doorhanger_login_edit_username_hint "ব্যবহারকারীর নাম">
 <!ENTITY doorhanger_login_edit_password_hint "পাসওয়ার্ড">
 <!ENTITY doorhanger_login_edit_toggle "পাসওয়ার্ড প্রদর্শন">
-
-
-
-
-
-
+<!ENTITY doorhanger_login_edit_toast_error "লগইন সেভ করতে ব্যর্থ">
+<!ENTITY doorhanger_login_select_message "&formatS; থেকে পাসওয়ার্ড কপি করবেন কি?">
+<!ENTITY doorhanger_login_select_toast_copy "ক্লিপবোর্ডে পাসওয়ার্ড কপি করা হয়েছে">
+<!ENTITY doorhanger_login_select_toast_copy_error "পাসওয়ার্ড কপি করা যাচ্ছে না">
+<!ENTITY doorhanger_login_select_action_text "অন্য আরেকটি লগইন নির্বাচন করুন">
+<!ENTITY doorhanger_login_select_title "পাসওয়ার্ড কপি করুন">
 
 <!ENTITY pref_titlebar_mode "টাইটেল বার">
-
-
+<!ENTITY pref_titlebar_mode_title "পৃষ্ঠার টাইটেল প্রদর্শন">
+<!ENTITY pref_titlebar_mode_url "পৃষ্ঠার ঠিকানা প্রদর্শন">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
+<!ENTITY pref_scroll_title_bar2 "সম্পূর্ণ স্ক্রিন জুড়ে ব্রাউজিং">
+<!ENTITY pref_scroll_title_bar_summary "যখন একটি পাতায় স্ক্রল করছেন তখন &brandShortName; টাইটেল বার কে লুকান">
 
-
+<!ENTITY pref_tab_queue_title2 "একাধিক লিঙ্ক খুলুন">
+<!ENTITY pref_tab_queue_summary3 "পরবর্তীতে যখন &brandShortName; খুলবেন ততক্ষন পর্যন্ত তাদের সংরক্ষণ করুন">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -417,16 +425,23 @@ size. -->
 <!ENTITY site_settings_no_settings  "পরিস্কার করার জন্য কোন সেটিংস নেই।">
 <!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
      as possible. -->
+
+<!ENTITY reading_list_added2 "তালিকা তে যোগ করা হয়েছে">
 <!ENTITY reading_list_removed "আপনার পঠন তালিকায় পৃষ্ঠা অপসারণ করা হয়েছে">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
+<!ENTITY reading_list_remove "পাঠ তালিকা থেকে মুছুন">
 <!ENTITY reading_list_duplicate "পৃষ্ঠাটি আগে থেকেই আপনার পাঠ তালিকায় আছে">
 <!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
      panel on the home page to give the user an estimate of how many minutes it will take to
      read an article. The word "minute" should be abbreviated if possible. -->
 
+<!ENTITY reading_list_time_minutes2 "&formatD; min">
+<!ENTITY reading_list_time_over_an_hour "এক ঘন্টারও বেশি">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
+
+<!ENTITY page_action_dropmarker_description "অতিরিক্ত কার্যকলাপ">
 
 <!ENTITY masterpassword_create_title "মাস্টার পাসওয়ার্ড তৈরি করুন">
 <!ENTITY masterpassword_remove_title "মাস্টার পাসওয়ার্ড অপসারণ">
@@ -454,13 +469,13 @@ size. -->
 <!ENTITY home_title "&brandShortName; হোম">
 <!ENTITY home_history_title "ইতিহাস">
 <!ENTITY home_clear_history_button "ব্রাউজিং ইতিহাস মুছে ফেলুন">
-
-
-
+<!ENTITY home_clear_history_confirm "আপনি কি নিশ্চিতরূপে আপনার ইতিহাস মুছে ফেলতে ইচ্ছুক?">
+<!ENTITY home_bookmarks_empty "আপনি যেই বুকমার্কগুলি সংরক্ষণ করবেন সেগুলি এখানে দেখাবে।">
+<!ENTITY home_closed_tabs_title "সম্প্রতি বন্ধ করা ট্যাব">
 <!ENTITY home_last_tabs_title "আগেরবারের ট্যাবগুলি">
-
+<!ENTITY home_last_tabs_empty "আপনার সাম্প্রতিক ট্যাবগুলি এখানে দেখাবে।">
 <!ENTITY home_open_all "সবগুলি খুলুন">
-
+<!ENTITY home_most_recent_empty "আপনার সাম্প্রতিক কালে ভিজিট করা ওয়েবসাইট গুলি এখানে দেখতে পাবেন।">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 
