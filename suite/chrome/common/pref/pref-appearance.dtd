@@ -26,5 +26,5 @@
 <!--LOCALIZATION NOTE (restartOnLangChange.label): Don't translate "&brandShortName;".
     Place &brandShortName; in the phrase where the name of the application should appear
 -->
-<!ENTITY restartOnLangChange.label              "As preferências de idioma passam a ter efeito após reiniciar o &brandShortName;.">
+<!ENTITY restartOnLangChange.label              "As preferências de idioma produzem efeito após reiniciar o &brandShortName;.">
 
