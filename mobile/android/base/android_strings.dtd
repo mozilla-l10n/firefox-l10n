@@ -131,6 +131,10 @@
 <!ENTITY pref_tracking_protection_summary2 "Bloquear de manera activa elementos de rastreo en la navegación privada">
 <!ENTITY pref_donottrack_title "No rastrear">
 <!ENTITY pref_donottrack_summary "&brandShortName; indicará a los sitios que no quiere ser rastreado">
+<!ENTITY tracking_protection_prompt_title "Ahora con protección contra rastreo">
+<!ENTITY tracking_protection_prompt_text "Bloquear activamente los elementos de rastreo para que no tenga que preocuparse.">
+<!ENTITY tracking_protection_prompt_tip_text "Visite los ajustes de privacidad para más información">
+<!ENTITY tracking_protection_prompt_action_button "¡Lo tengo!">
 <!ENTITY tab_queue_toast_message3 "Pestaña guardada en &brandShortName;">
 <!ENTITY tab_queue_toast_action "Abrir ahora">
 <!ENTITY tab_queue_prompt_title "¿Abrir múltiples enlaces?">
@@ -360,10 +364,11 @@
 <!ENTITY loaded_mixed_content_message "Esta página está mostrando contenido que no es seguro.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; ha bloqueado contenido que no es seguro.">
 <!ENTITY blocked_mixed_content_message_bottom "La mayoría de los sitios web funcionan correctamente incluso con este contenido bloqueado.">
-<!ENTITY loaded_tracking_content_message_top "Protección contra rastreo desactivada.">
-<!ENTITY loaded_tracking_content_message_bottom "Algunas partes de esta página pueden rastrear su actividad en Internet.">
-<!ENTITY blocked_tracking_content_message_top2 "La protección contra rastreo está activada.">
-<!ENTITY blocked_tracking_content_message_bottom2 "Las partes de esta página que rastrean su actividad en línea han sido bloqueadas.">
+<!ENTITY doorhanger_tracking_title "Protección contra rastreo">
+<!ENTITY doorhanger_tracking_state_enabled "Activado">
+<!ENTITY doorhanger_tracking_state_disabled "Desactivado">
+<!ENTITY doorhanger_tracking_message_enabled "Bloqueando elementos de rastreo que podrían afectar a su experiencia de navegación.">
+<!ENTITY doorhanger_tracking_message_disabled "Los intentos de rastrear su comportamiento en línea no se están bloqueando.">
 <!ENTITY learn_more "Saber más">
 <!ENTITY enable_protection "Activar protección">
 <!ENTITY disable_protection "Desactivar protección">
@@ -407,10 +412,6 @@
 <!ENTITY actionbar_menu "Menú">
 <!ENTITY actionbar_done "Terminar">
 <!ENTITY voicesearch_prompt "Hable ahora">
-<!ENTITY voicesearch_failed_title "Búsqueda con voz de &brandShortName;">
-<!ENTITY voicesearch_failed_message "En este momento hay un problema con la búsqueda con voz. Vuelva a intentarlo más tarde.">
-<!ENTITY voicesearch_failed_message_recoverable "¡Lo sentimos! No hemos podido reconocer sus palabras. Vuelva a intentarlo.">
-<!ENTITY voicesearch_failed_retry "Vuelva a intentarlo">
 <!ENTITY remote_tabs_last_synced "Última sincr.: &formatS;">
 <!ENTITY remote_tabs_never_synced "Última sincronización: nunca">
 <!ENTITY find_matchcase "Aa">
