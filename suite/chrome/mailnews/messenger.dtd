@@ -105,7 +105,7 @@
 <!ENTITY showMessengerToolbarCmd.label "Barra de herramientas de correo">
 <!ENTITY showMessengerToolbarCmd.accesskey "c">
 <!ENTITY showSearchToolbarCmd.label "Barra de búsqueda">
-<!ENTITY showSearchToolbarCmd.accesskey "b">
+<!ENTITY showSearchToolbarCmd.accesskey "B">
 <!ENTITY showTabsToolbarCmd.label "Barra de herramientas de pestañas">
 <!ENTITY showTabsToolbarCmd.accesskey "a">
 <!ENTITY messagePaneLayoutStyle.label "Disposición">
