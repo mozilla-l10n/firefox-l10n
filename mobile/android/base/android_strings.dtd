@@ -308,11 +308,13 @@ size. -->
 <!ENTITY datareporting_crashreporter_summary "আপনার ব্রাউজারকে আরও স্থিতিশীল এবং নিরাপদ করতে সাহায্য করার জন্য &brandShortName; &vendorShortName; কে ক্র্যাশ রিপোর্ট পাঠাচ্ছে">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
-
+<!ENTITY datareporting_crashreporter_title_short "ক্র্যাশ রিপোর্টার">
+<!ENTITY datareporting_wifi_title2 "&vendorShortName; লোকেশন সার্ভিস">
 <!ENTITY datareporting_wifi_geolocation_summary4 "সাহায্য করুন &vendorShortName; পৃথিবীকে ম্যাপ করুন! আপনার ডিভাইসের Wi-Fi এবং সেলুলার অবস্থান শেয়ার করুন আমাদের ভৈগোলিক অবস্থানের সার্ভিসকে সাহায্য করার জন্য।">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload2 "স্বয়ংক্রিয়ভাবে আপডেট ডাউনলোড করুন">
 <!ENTITY pref_update_autodownload_wifi "শুধুমাত্র ওয়াইফাই দ্বারা">
 <!ENTITY pref_update_autodownload_never "কখনো নয়">
 <!ENTITY pref_update_autodownload_always "সবসময়">
@@ -377,7 +379,7 @@ size. -->
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
-
+<!ENTITY doorhanger_login_edit_title "লগইন সম্পাদনা করুন">
 <!ENTITY doorhanger_login_edit_username_hint "ব্যবহারকারীর নাম">
 <!ENTITY doorhanger_login_edit_password_hint "পাসওয়ার্ড">
 <!ENTITY doorhanger_login_edit_toggle "পাসওয়ার্ড প্রদর্শন">
@@ -457,7 +459,7 @@ size. -->
 
 <!ENTITY home_last_tabs_title "আগেরবারের ট্যাবগুলি">
 
-
+<!ENTITY home_open_all "সবগুলি খুলুন">
 
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
