@@ -26,6 +26,8 @@
 <!ENTITY syncMy.label               "Sync My">
 <!ENTITY engine.bookmarks.label     "Bookmarks">
 <!ENTITY engine.bookmarks.accesskey "m">
+
+
 <!ENTITY engine.tabs.label          "Tabs">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "History">
@@ -40,6 +42,10 @@
 
 <!ENTITY syncDeviceName.label       "Device Name:">
 <!ENTITY syncDeviceName.accesskey   "c">
+
+
+<!ENTITY cancelChangeSyncDeviceName.label "Cancel">
+<!ENTITY saveChangeSyncDeviceName.label "Save">
 <!ENTITY unlinkDevice.label           "Unlink This Device">
 <!-- Footer stuff -->
 

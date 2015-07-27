@@ -20,6 +20,8 @@
 <!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "x">
 
+
+
 <!ENTITY noMigrationSources.label       "No programs that contain bookmarks, history or password data could be found.">
 
 <!ENTITY importSource.title             "Import Settings and Data">
