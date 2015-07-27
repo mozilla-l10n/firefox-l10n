@@ -11,9 +11,9 @@
 <!-- Buttons -->
 
 <!ENTITY  up.label                  "​ផ្លាស់ទី​ឡើង​លើ">
-<!ENTITY  up.accesskey              "U">
+<!ENTITY  up.accesskey              "ឡ">
 <!ENTITY  dn.label                  "ផ្លាស់ទី​ចុះក្រោម">
-<!ENTITY  dn.accesskey              "D">
+<!ENTITY  dn.accesskey              "​">
 <!ENTITY  remove.label              "យកចេញ">
 <!ENTITY  remove.accesskey          "R">
 <!ENTITY  edit.label                "កែ​សម្រួល​ពាក្យ​គន្លឹះ…">
