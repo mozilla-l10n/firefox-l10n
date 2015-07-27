@@ -10,7 +10,7 @@
 
 <!ENTITY aboutPrivateBrowsing.description      "Cela inclut l'historique de navigation, de recherche, de téléchargement, de formulaire web, de cookies ou de fichiers temporaires Internet. Cependant, les fichiers téléchargés ou les marque-pages ajoutés seront conservés.">
 
-<!ENTITY aboutPrivateBrowsing.shortdescription "&brandShortName; ne conservera aucun historique pour cette fenêtre, mais les fichiers téléchargés et les marque-pages ajoutés seront conservés. (Attention cependant, votre fournisseur d'accès à Internet ou votre employeur peuvent toujours connaître les pages que vous visitez.)">
+<!ENTITY aboutPrivateBrowsing.shortdescription "&brandShortName; ne conservera aucun historique pour cette fenêtre, mais les fichiers téléchargés et les marque-pages ajoutés seront conservés (attention cependant, votre fournisseur d'accès à Internet ou votre employeur peuvent toujours connaître les pages que vous visitez).">
 
 <!ENTITY aboutPrivateBrowsing.notPrivate       "Vous ne vous trouvez pas dans une fenêtre de navigation privée.">
 
@@ -20,7 +20,7 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Ouvrir une fenêtre de navigation privée">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
-<!ENTITY trackingProtection.subtitle           "Bénéficie désormais de la protection contre le pistage">
+<!ENTITY trackingProtection.subtitle           "Désormais avec protection contre le pistage">
 
 <!ENTITY trackingProtection.description        "La protection contre le pistage bloque le contenu qui piste votre navigation afin que vous n'ayez pas à craindre que ces informations soient communiquées entre plusieurs sites.">
 
