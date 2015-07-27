@@ -14,10 +14,10 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Тусламж"> 
 <!ENTITY helpMenuWin.accesskey    "Т">
-<!ENTITY aboutProduct.label       "&brandShortName;-н тухай">
-<!ENTITY aboutProduct.accesskey   "т">
-<!ENTITY productHelp.label        "&brandShortName; Тусламж">
-<!ENTITY productHelp.accesskey    "Т">
+
+
+
+
 
 
 
@@ -31,13 +31,16 @@
 
 
 
+
+
+
+
 <!ENTITY preferencesCmdMac.label        "Тохируулга…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Үйлчилгээнүүд">
 
-<!ENTITY hideThisAppCmdMac.label        "&brandShortName;-г нуу">
-<!ENTITY hideThisAppCmdMac.commandkey   "H">
+<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Бусдыг нь нуу">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">

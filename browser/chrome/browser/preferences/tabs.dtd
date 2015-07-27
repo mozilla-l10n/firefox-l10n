@@ -5,11 +5,9 @@
 
 
 
-<!ENTITY warnOpenManyTabs.label       "Олон самбар нэг дор нээх үед &brandShortName; удаашрахаар бол надад анхааруул">
-<!ENTITY warnOpenManyTabs.accesskey   "л">
 
-<!ENTITY restoreTabsOnDemand.label        "Табуудыг сонгох хүртэл битгий ачаал">
-<!ENTITY restoreTabsOnDemand.accesskey    "l">
+
+
 
 
 

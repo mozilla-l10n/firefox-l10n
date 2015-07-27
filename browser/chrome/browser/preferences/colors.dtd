@@ -6,6 +6,10 @@
 
 
 
+<!ENTITY  overridePageColors.always.label "үргэлж">
+
+<!ENTITY  overridePageColors.never.label  "хэзээ ч үгүй">
+
 <!ENTITY  color                           "Текст ба Ар дэвсгэр">
 <!ENTITY  textColor.label                 "Текст:">
 <!ENTITY  textColor.accesskey             "к">

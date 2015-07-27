@@ -14,18 +14,20 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Хувийн зорчилт)">
+
+
 <!-- Tab context menu -->
 
 <!ENTITY  reloadTab.label                    "Самбарыг дахин дууд">
 <!ENTITY  reloadTab.accesskey                "м">
-<!ENTITY  reloadAllTabs.label                "Бүх самбарыг дахин дууд">
-<!ENTITY  reloadAllTabs.accesskey            "х">
+
+
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
 
-<!ENTITY  closeOtherTabs.label               "Бусад самбарыг хаа">
-<!ENTITY  closeOtherTabs.accesskey           "Б">
+
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -41,12 +43,8 @@ can reach it easily. -->
 
 
 
-<!ENTITY  undoCloseTab.label                 "Самбар хаасан үйлдлийг буц">
-<!ENTITY  undoCloseTab.accesskey             "й">
-<!-- LOCALIZATION NOTE (undoCloseTabs.label) : This label is used
-when the previous tab-closing operation closed more than one tab. It
-replaces the undoCloseTab.label and will use the same accesskey as the
-undoCloseTab.label so users will not need to learn new keyboard controls. -->
+
+
 <!ENTITY  closeTab.label                     "Самбарыг хаа">
 <!ENTITY  closeTab.accesskey                 "С">
 
@@ -55,8 +53,9 @@ undoCloseTab.label so users will not need to learn new keyboard controls. -->
 <!ENTITY tabCmd.label "Хөтлөгч самбар">
 <!ENTITY tabCmd.accesskey "Х">
 <!ENTITY tabCmd.commandkey "t">
-<!ENTITY openLocationCmd.label "Хаяг нээ…">
-<!ENTITY openLocationCmd.accesskey "я">
+<!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
+displayed on OS X, and only on windows that aren't main browser windows, or
+when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.label "Файл нээ…">
 <!ENTITY openFileCmd.accesskey "н">
 <!ENTITY openFileCmd.commandkey "o">
@@ -71,10 +70,16 @@ undoCloseTab.label so users will not need to learn new keyboard controls. -->
 
 
 
-<!ENTITY navbarCmd.label "Хөтлөгч багажит самбар">
+
 <!ENTITY personalbarCmd.label "Хаягийн Багажит самбар">
 <!ENTITY personalbarCmd.accesskey "м">
 <!ENTITY bookmarksToolbarItem.label "Хаягийн багажит самбарын зүйлс">
+
+
+
+
+
+
 
 <!ENTITY pageSourceCmd.label "Хуудасны эх бичлэг">
 <!ENTITY pageSourceCmd.accesskey "ч">
@@ -82,6 +87,8 @@ undoCloseTab.label so users will not need to learn new keyboard controls. -->
 <!ENTITY pageInfoCmd.label "Хуудасны мэдээлэл">
 <!ENTITY pageInfoCmd.accesskey "м">
 <!ENTITY pageInfoCmd.commandkey "i">
+
+
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 
@@ -93,8 +100,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
+
+
+
+
+
+
+
 <!ENTITY fullScreenRestore.tooltip "Сэргээ">
-<!ENTITY fullScreenClose.tooltip "Хаа">
+
 <!ENTITY fullScreenAutohide.label "Самбарыг нуу">
 <!ENTITY fullScreenAutohide.accesskey "н">
 <!ENTITY fullScreenExit.label "Дэлгэц дүүрэм горимоос гарах">
@@ -109,12 +124,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY closeWindow.accesskey "х">
 
 
-<!ENTITY bookmarkThisPageCmd.label "Энэ хуудасны хаягийг хадгал">
+
+<!ENTITY editThisBookmarkCmd.label "Хадгалсан хаяганд засвар хийх">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
+<!-- LOCALIZATION NOTE (findShareServices.label):
+  -  Use the unicode ellipsis char, \u2026,
+  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
 
 
 
+<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 
 
 
@@ -130,19 +150,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksToolbarChevron.tooltip "Нэмэлт хаягнуудыг харуул">
 
-<!ENTITY backCmd.label                "Буц">
-<!ENTITY backCmd.accesskey            "Б">
 <!ENTITY backButton.tooltip           "Нэг хуудас буц">
-<!ENTITY forwardCmd.label             "Урагш">
-<!ENTITY forwardCmd.accesskey         "р">
 
 
 
-<!ENTITY reloadCmd.label              "Дахин дууд">
-<!ENTITY reloadCmd.accesskey          "Д">
+
+
 <!ENTITY reloadButton.tooltip         "Уг хуудсыг дахин дууд">
-<!ENTITY stopCmd.label                "Зогс">
-<!ENTITY stopCmd.accesskey            "З">
+
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Энэ хуудасны дуудалтыг зогсоо">
 <!ENTITY goEndCap.tooltip             "Хаягийн самбарын хаяг бичих газар очно">
@@ -151,10 +166,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY locationItem.title           "Байрлал">
 <!ENTITY searchItem.title             "Хайх">
-<!ENTITY bookmarksItem.title          "Хаягнууд">
 <!-- Toolbar items -->
-
-
 
 
 
@@ -167,7 +179,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  shortcut keys on Linux. -->
 
 
-<!ENTITY historyButton.label            "Түүх">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Багаж">
@@ -177,12 +188,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "ү">
 
 <!ENTITY downloads.label              "Татаж авсан файлууд">
-<!ENTITY downloads.tooltip            "Татаж авалтын явцыг харуулна">
 <!ENTITY downloads.accesskey          "Т">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Нэмэгдлүүд">
 <!ENTITY addons.accesskey             "Н">
+
+
 
 
 
@@ -193,6 +205,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY errorConsoleCmd.label        "Гарсан алдааг харуулах цонх">
 <!ENTITY errorConsoleCmd.accesskey    "ц">
+
+
 
 
 
@@ -215,16 +229,25 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY scratchpad.keytext           "F4">
-<!-- LOCALIZATION NOTE (chromeDebuggerMenu.label): This is the label for the
-  -  application menu item that opens the browser debugger UI in the Tools menu. -->
+<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
+  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
+
+
+<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
+  -  application menu item that opens the browser content toolbox UI in the Tools menu.
+  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 
 
 
 
 
+
+
+
+
+<!ENTITY webide.keytext                    "F8">
 
 <!ENTITY devToolbar.keytext                "F2">
-
 
 
 
@@ -238,6 +261,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.label        "Шинэ цонх">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "Ш">
+
 
 
 
@@ -290,8 +314,34 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoWindowMenu.label "Сүүлд хаагдсан самбарууд">
 
 
-<!ENTITY showAllHistoryCmd2.label "Бүх зорчсон түүхийг харуул">
 <!ENTITY showAllHistoryCmd.commandkey "H">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
+     same context menu as menubarCmd and personalbarCmd, so they should have
+     different access keys. customizeMenu.moveToToolbar and 
+     customizeMenu.moveToPanel are mutually exclusive, so can share access
+     keys.  -->
+
+
+
+
+
+
 
 
 
@@ -319,6 +369,24 @@ These should match what Safari and other Apple applications use on OS X Lion. --
  -->
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
+<!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
+     These two strings are used to build the header above the list of one-click
+     search providers:  "Search for <used typed keywords> with:" -->
+
+<!-- LOCALIZATION NOTE (search.label, searchAfter.label):
+     This string is used to build the header above the list of one-click search
+     providers when a one off engine has been selected.  The searchAfter text is
+     intentionally left empty for en-US and can be used by other localizations to
+     display a string after the search engine name.  This string will be displayed
+     as:  "Search <selected engine name><searchAfter.label text>" -->
+<!ENTITY searchAfter.label            "">
+<!-- LOCALIZATION NOTE (searchWithHeader.label):
+     The wording of this string should be as close as possible to
+     searchFor.label and searchWith.label. This string will be used instead of
+     them when the user has not typed any keyword. -->
+<!-- LOCALIZATION NOTE (changeSearchSettings.button):
+     This string won't wrap, so if the translated string is longer,
+     consider translating it as if it said only "Search Settings". -->
 
 
 <!ENTITY openLinkCmdInTab.label       "Холбоосыг шинэ самбарт нээ">
@@ -365,8 +433,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "А">
 <!ENTITY setDesktopBackgroundCmd.label      "Арын дэвсгэр зураг болго…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "А">
-<!ENTITY bookmarkPageCmd2.label       "Энэ хуудасны хаягийг хадгал">
-<!ENTITY bookmarkPageCmd2.accesskey   "д">
+
 <!ENTITY bookmarkThisLinkCmd.label      "Энэ холбоосыг хаяганд нэм">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "х">
 <!ENTITY bookmarkThisFrameCmd.label      "Энэ хүрээний хаягийг хадгал">
@@ -386,10 +453,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveLinkCmd.accesskey        "ө">
 <!ENTITY saveImageCmd.label           "Зурганд нэр өгч хадгал…">
 <!ENTITY saveImageCmd.accesskey       "З">
-<!ENTITY saveVideoCmd.label           "Видеонд нэр өгч хадгал…">
-<!ENTITY saveVideoCmd.accesskey       "е">
+
+
 <!ENTITY saveAudioCmd.label           "Дуут файлд нэр өгч хадгал…">
 <!ENTITY saveAudioCmd.accesskey       "н">
+
+
 
 
 
@@ -488,18 +557,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Харуулах хэмжээ">
 <!ENTITY fullZoom.accesskey             "ж">
 
-<!ENTITY newTabButton.tooltip           "Шинэ самбар нээ">
-<!ENTITY newWindowButton.tooltip        "Шинэ цонх нээ">
 
+<!ENTITY quitApplicationCmdWin2.label       "Гарах">
+<!ENTITY quitApplicationCmdWin2.accesskey   "Г">
 
-
-<!ENTITY quitApplicationCmdWin.label       "Гарах"> 
-<!ENTITY quitApplicationCmdWin.accesskey   "Г">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Гарах"> 
 <!ENTITY quitApplicationCmd.accesskey   "Г">
-<!ENTITY quitApplicationCmdMac.label    "Quit &brandShortName;">
+
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 
 <!ENTITY closeCmd.label                 "Хаа">  
@@ -535,6 +601,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
+
 <!ENTITY spellAddDictionaries.label "Толь бичиг нэм…">
 <!ENTITY spellAddDictionaries.accesskey "м">
 
@@ -542,26 +609,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label                   "Цуцал">
 <!ENTITY editBookmark.removeBookmark.accessKey       "я">
 
-<!ENTITY identity.connectedTo "Таны холбогдсон хуудас">
-<!-- Localization note (identity.runBy) : This string appears between a
-domain name (above) and an organization name (below). E.g.
 
-example.com
-which is run by
-Example Enterprises, Inc.
 
-The layout of the identity dialog prevents combining this into a single string with
-substitution variables.  If it is difficult to translate the sense of the string
-with that structure, consider a translation which ignores the preceding domain and
-just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "ашиглаж буй сервер">
 
-<!ENTITY identity.moreInfoLinkText "Нэмэлт мэдээлэл…">
+
 
 <!ENTITY identity.permissions "Хандах эрх">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
+
 
 
 
@@ -592,6 +649,42 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
+<!ENTITY customizeMode.restoreDefaults "Үндсэн дарааллыг сэргээ">
+
+
+
+
+<!ENTITY customizeMode.lwthemes.recommended "Санал болгогдсон">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Bad Content Blocker Doorhanger Notification -->
+
+
+
+
+
+
+
+
+
+
+<!ENTITY trackingContentBlocked.message "Ажиглах">
+
+
 
 
 
@@ -611,41 +704,51 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      a CSS length value. -->
 
 
-
-<!ENTITY tabCrashed.tryAgain "Дахин оролд">
-<!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
-     kept here to avoid warnings from l10n tools like compare-locales on
-     l10n-central. They will be definitely removed when Australis is ready
-     for mozilla-aurora. -->
-
-
-<!ENTITY navbarCmd.accesskey           "ж">
-
-
-<!ENTITY throbberItem.title            "Идэвхижлийн заалт">
-
-
-<!ENTITY feedButton.label              "Бүртгүүл">
-
-
-<!ENTITY historyButton.tooltip         "Сүүлд зорчсон хуудсуудыг харуул">
-
-
-
-
 <!ENTITY appMenuSidebars.label         "Хажуу самбарууд">
+<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
+     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
+     Please ensure that this remains the case in the translation. -->
+
+
+
+<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
+     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
+     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
+     The translation should do the same. -->
 
 
 
 
-<!ENTITY appMenuSafeMode.label         "Нэмэлтүүдийг идэвхижүүлээгүй горимд дахин эхлүүлэх…">
-<!ENTITY appMenuSafeMode.accesskey     "Н">
-<!ENTITY cutButton.tooltip             "Тасдаж сана">
-<!ENTITY copyButton.tooltip            "Сануул">
-<!ENTITY pasteButton.tooltip           "Санамж буулга">
 
-<!ENTITY zoomInButton.tooltip          "Томсгох">
+<!ENTITY panicButton.view.undoWarning             "Энэ үйлдлийг буцаах боломжгүйг анхаарна уу.">
 
 
 
-<!-- end of strings to be removed post-Australis -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY emeNotificationsDontAskAgain.label       "Надаас дахин бүү асуу">
+<!ENTITY emeNotificationsDontAskAgain.accesskey   "Н">
+
+
+
+<!-- Pre-landed string for bug 1124153 -->
+<!-- Pre-landed string for bug 1133662 -->
+
+<!-- Pre-landed strings for bug 1123519 -->
+
+<!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
+
+
+
+

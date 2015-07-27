@@ -45,7 +45,7 @@
 <!ENTITY netTimeout.title "Сүлжээний цаг дууссан Алдаа">
 
 
-<!ENTITY protocolNotFound.title "Сүлжээний протокол мэдэгдээгүй алдаа">
+<!ENTITY unknownProtocolFound.title "Сүлжээний протокол мэдэгдээгүй алдаа">
 
 
 <!ENTITY proxyConnectFailure.title "Прокси сервер холболтоос татгалзлаа">
@@ -72,10 +72,12 @@
 <!ENTITY malwareBlocked.title "Сэжигтэй довтлогч хуудас!">
 
 
+
+
 <!ENTITY phishingBlocked.title "Вэб хууралт хийгч сэжигтэй хуудас!">
 
 
-<!ENTITY cspFrameAncestorBlocked.title "Агуулгын хамгаалалтын улмаас хаагдсан">
+<!ENTITY cspBlocked.title "Агуулгын хамгаалалтын улмаас хаагдсан">
 
 
 
