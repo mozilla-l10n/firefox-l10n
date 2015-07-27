@@ -162,7 +162,6 @@
 <!ENTITY debuggerUI.seMenuCondBreak.key "B">
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
-
 <!ENTITY debuggerUI.tabs.sources        "ماخذ">
 <!ENTITY debuggerUI.tabs.traces         "نشانات">
 <!ENTITY debuggerUI.tabs.callstack      "کال تھاک">

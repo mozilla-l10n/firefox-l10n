@@ -42,6 +42,10 @@
 
 <!ENTITY syncDeviceName.label       "آلہ نام:">
 <!ENTITY syncDeviceName.accesskey   "ل">
+
+
+<!ENTITY cancelChangeSyncDeviceName.label "منسوخ کریں">
+<!ENTITY saveChangeSyncDeviceName.label "محفوظ کریں">
 <!ENTITY unlinkDevice.label           "اس آلے کا ربط توڑیں">
 <!-- Footer stuff -->
 

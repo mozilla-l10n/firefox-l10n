@@ -20,6 +20,8 @@
 <!ENTITY importFromFirefox.label        "فائر فاکس ">
 <!ENTITY importFromFirefox.accesskey    "ف">
 
+
+
 <!ENTITY noMigrationSources.label       "کوئی بھی نشانیوں، سابقات یا پاس ورڈ کوائف کا حامل پروگرام نہیں ملا۔ ">
 
 <!ENTITY importSource.title             "سیٹنگیں اور کوائف درآمد کریں ">
