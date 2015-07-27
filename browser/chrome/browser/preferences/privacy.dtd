@@ -22,8 +22,8 @@
 <!ENTITY  locbar.bookmarks.accesskey    "k">
 <!ENTITY  locbar.openpage.label         "ট্যাব খুলুন(O)">
 <!ENTITY  locbar.openpage.accesskey     "O">
-
-
+<!ENTITY  locbar.searches.label         "ডিফল্ট সার্চ ইঞ্জিন থেকে এ সম্পর্কিত আরো অনুসন্ধান (d)">
+<!ENTITY  locbar.searches.accesskey     "d">
 
 <!ENTITY  acceptCookies.label           "সাইট থেকে কুকি গ্রহণ করা হবে">
 <!ENTITY  acceptCookies.accesskey       "স">

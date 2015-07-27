@@ -43,7 +43,7 @@
 <!ENTITY syncDeviceName.label       "ডিভাইস নাম (c) :">
 <!ENTITY syncDeviceName.accesskey   "c">
 <!ENTITY fxaSyncDeviceName.label       "ডিভাইস নাম">
-
+<!ENTITY changeSyncDeviceName.label "ডিভাইস নাম পরিবর্তন করুন…">
 <!ENTITY cancelChangeSyncDeviceName.label "বাতিল">
 <!ENTITY saveChangeSyncDeviceName.label "সংরক্ষণ করুন">
 <!ENTITY unlinkDevice.label           "ডিভাইসের বিচ্ছিন্ন করুন">
