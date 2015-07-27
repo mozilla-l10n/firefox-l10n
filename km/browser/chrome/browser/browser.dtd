@@ -274,6 +274,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 
+<!ENTITY browserContentToolboxMenu.label     "ប្រអប់​ឧបករណ៍​មាតិកា​កម្មវិធី​អ៊ីនធឺណិត​">
+<!ENTITY browserContentToolboxMenu.accesskey "x">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "បិទ​របារ​ឧបករណ៍​​អ្នក​អភិវឌ្ឍន៍">
 <!ENTITY devToolbarMenu.label              "របារ​ឧបករណ៍​អ្នកអភិវឌ្ឍន៍">
@@ -429,6 +431,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      intentionally left empty for en-US and can be used by other localizations to
      display a string after the search engine name.  This string will be displayed
      as:  "Search <selected engine name><searchAfter.label text>" -->
+
+<!ENTITY search.label                 "ស្វែងរក​">
 <!ENTITY searchAfter.label            "">
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
@@ -670,10 +674,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label                   "បោះបង់">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
+<!ENTITY identity.connectionSecure "ការ​តភ្ជាប់​ដែលមាន​សុវត្ថិភាព">
+<!ENTITY identity.connectionNotSecure "ការតភ្ជាប់​ពុំ​មាន​សុវត្ថិភាព">
+<!ENTITY identity.connectionVerified "&brandShortName; ផ្ទៀងផ្ទាត់​ថា​អ្នកបាន​តភ្ជាប់​ដោយសុវត្ថិភាព​ទៅ​តំបន់បណ្តាញ ដែលដំណើរការដោយ៖">
+<!ENTITY identity.connectionInternal "នេះគឺជាទំព័រ &brandShortName; ដែល​មាន​សុវត្ថិភាព">
 
-
-
-
+<!ENTITY identity.moreInfoLinkText2 "ព័ត៌មាន​បន្ថែម">
 
 <!ENTITY identity.permissions "សិទ្ធិ">
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -848,6 +854,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY readingList.sidebar.add.tooltip          "បន្ថែម​ទំព័រ​នេះ​ទៅកាន់​បញ្ជី​អាន​របស់​អ្នក">
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 
-
-
-
+<!ENTITY saveToPocketCmd.label     "ធ្វើការ​រក្សាទុកទំព័រទៅក្នុង Pocket">
+<!ENTITY saveToPocketCmd.accesskey "k">
+<!ENTITY saveLinkToPocketCmd.label     "​រក្សាទុកការភ្ជាប់ក្នុង Pocket">
+<!ENTITY saveLinkToPocketCmd.accesskey "o">
+<!ENTITY pocketMenuitem.label      "ពិនិត្យមើលបញ្ជី Pocket">

@@ -9,19 +9,19 @@
 <!ENTITY windowMenu.label         "បង្អួច">
 
 <!ENTITY helpMenu.label           "ជំនួយ"> 
-<!ENTITY helpMenu.accesskey       "ជ"> 
+<!ENTITY helpMenu.accesskey       "H"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "ជំនួយ"> 
-<!ENTITY helpMenuWin.accesskey    "ជ">
+<!ENTITY helpMenuWin.accesskey    "H">
 <!ENTITY aboutProduct2.label      "អំពី &brandShorterName;">
-<!ENTITY aboutProduct2.accesskey  "អ">
+<!ENTITY aboutProduct2.accesskey  "A">
 <!ENTITY productHelp2.label       "&brandShorterName; ជំនួយ">
 <!ENTITY productHelp2.accesskey   "ជ">
 <!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "គ្រាប់ចុច​ផ្លូវកាត់">
-<!ENTITY helpKeyboardShortcuts.accesskey "គ">
+<!ENTITY helpKeyboardShortcuts.accesskey "K">
 
 <!ENTITY helpSafeMode.label       "ចាប់ផ្ដើម​ឡើងវិញ​ជាមួយ​កម្មវិធី​បន្ថែម​ដែល​បាន​បិទ...">
 <!ENTITY helpSafeMode.accesskey   "ច">
