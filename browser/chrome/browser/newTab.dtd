@@ -4,7 +4,7 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "নতুন ট্যাব">
-
+<!ENTITY newtab.customize.classic "আপনার শীর্ষ সাইট প্রদর্শন করুন">
 
 
 
