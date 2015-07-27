@@ -31,13 +31,13 @@
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
 
-<!ENTITY saveBodies.label     "សំណើ​កំណត់ហេតុ និង​តួ​ឆ្លើយតប">
-<!ENTITY saveBodies.accesskey "L">
+<!ENTITY saveBodies.label     "សំណើ​កំណត់ហេតុ និង​តួ​សេចក្ដី​ឆ្លើយតប">
+<!ENTITY saveBodies.accesskey "ស">
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
 
-<!ENTITY openURL.label     "បើក URL ក្នុង​ផ្ទាំង​ថ្មី">
-<!ENTITY openURL.accesskey "T">
+<!ENTITY openURL.label     "បើក URL ក្នុង​ ផ្ទាំង​ថ្មី">
+<!ENTITY openURL.accesskey "ផ">
 <!-- LOCALIZATION NOTE (btnPageNet.label): This string is used for the menu
   -  button that allows users to toggle the network logging output.
   -  This string and the following strings toggle various kinds of output
@@ -45,7 +45,7 @@
 
 <!ENTITY btnPageNet.label   "បណ្ដាញ">
 <!ENTITY btnPageNet.tooltip "ចុះ​កំណត់ហេតុ​ការ​ចូល​ដំណើរការ​បណ្ដាញ">
-<!ENTITY btnPageNet.accesskey "N">
+<!ENTITY btnPageNet.accesskey "ប">
 <!-- LOCALIZATION NOTE (btnPageNet.accesskeyMacOSX): This string is used as
   -  access key for the menu button that allows users to toggle the network
   -  logging output. On MacOSX accesskeys are available with Ctrl-*. Please make
