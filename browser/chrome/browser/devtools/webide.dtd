@@ -156,13 +156,17 @@
 <!ENTITY devicepreference_search "সার্চের পছন্দসমূহ">
 <!ENTITY devicepreference_newname "নতুন পছন্দের নাম">
 
-
+<!ENTITY devicepreference_addnew "নতুন পছন্দ যোগ করুন">
 <!-- Device Settings -->
 
+<!ENTITY devicesetting_title "ডিভাইস সেটিং">
 
 
 
+<!ENTITY devicesetting_addnew "নতুন সেটিং যোগ করুন">
 <!-- Monitor -->
+
+<!ENTITY monitor_title "মনিটর">
 <!ENTITY monitor_help "সাহায্য">
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
@@ -174,17 +178,20 @@
      devices that can't scan a QR code. -->
 <!-- LOCALIZATION NOTE (wifi_auth_yes_scanner): Link text to assist users with
      devices that can scan a QR code. -->
+<!ENTITY wifi_auth_yes_scanner "একটি QR স্ক্যানার প্রম্পট আছে?">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!-- Logs panel -->
 <!-- Simulator Options -->
+
+<!ENTITY simulator_title "সিমুলেটর অপশনস">
 
 
 
 
 <!ENTITY simulator_version "সংস্করণ">
 
-
+<!ENTITY simulator_hardware "হার্ডওয়্যার">
 <!ENTITY simulator_device "ডিভাইস">
-
-
+<!ENTITY simulator_screenSize "পর্দা">
+<!ENTITY simulator_pixelRatio "পিক্সেল অনুপাত">

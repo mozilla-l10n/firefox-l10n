@@ -7,17 +7,18 @@
 <!ENTITY index.device2 "ডিভাইস">
 <!ENTITY index.help "সাহায্য">
 
-
+<!ENTITY device.debugMainProcess "প্রধান প্রক্রিয়াকে ডিবাগ করুন">
+<!ENTITY device.debugMainProcessTooltip "ডিভাইসের মূল প্রক্রিয়ার সাথে সংযুক্ত ডেভলপার টুল গুলোকে খুলুন">
 <!ENTITY device.screenshot "স্ক্রিনশট">
-
+<!ENTITY device.screenshotTooltip "ডিভাইসের বর্তমান অবস্থার একটি স্ক্রিনশট নতুন ট্যাবে খুলুন">
 <!ENTITY device.title "ডিভাইস নিয়ন্ত্রণকেন্দ্র">
 <!ENTITY device.notConnected "সংযুক্ত নেই। দয়া করে নিচে আপনার ডিভাইসটি সংযুক্ত করুন।">
 <!ENTITY device.startApp "আরম্ভ">
-
+<!ENTITY device.startAppTooltip "এই অ্যাপটিকে ডিভাইসে চালু করুন">
 <!ENTITY device.stopApp "থামাও">
-
+<!ENTITY device.stopAppTooltip "এই অ্যাপটিকে ডিভাইসে বন্ধ করুন">
 <!ENTITY device.debugApp "ডিবাগ">
-
+<!ENTITY device.debugAppTooltip "ডিভাইসের এই অ্যাপটিতে সংযুক্ত ডেভলপার টুল গুলোকে খুলুন">
 <!ENTITY device.name "নাম">
 <!ENTITY device.plain "সমতল (পূর্বনির্ধারিত)">
 <!ENTITY device.privileged "বিশেষ সুবিধাপ্রাপ্ত">
@@ -25,17 +26,17 @@
 <!ENTITY device.allow "অনুমোদন">
 <!ENTITY device.allowTooltip "এই অনুমতি এ ধরনের অ্যাপের ক্ষেত্রে প্রযোজ্য।">
 <!ENTITY device.prompt "প্রম্পট">
-
+<!ENTITY device.promptTooltip "এই ধরনের অ্যাপসের ক্ষেত্রে এই অনুমতির জন্য একটি ইউজার প্রম্পটের প্রয়োজন হবে">
 <!ENTITY device.deny "প্রত্যাখ্যান">
-
+<!ENTITY device.denyTooltip "এই অনুমতি এ ধরনের অ্যাপসের ক্ষেত্রে প্রযোজ্য নয়">
 <!ENTITY device.installedApps "ইন্সটলকৃত অ্যাপস">
 <!ENTITY device.installedAppsTooltip "ডিভাইসে ইনস্টল করা অ্যাপস এর তালিকা দেখুন । কিছু অ্যাপস, যেমন অনুমোদিত অ্যাপস, সম্ভবত এই প্রদর্শন থেকে বাদ দেওয়া হতে পারে ।">
 <!ENTITY device.permissions "অনুমোদন (P)">
-
+<!ENTITY device.permissionsTooltip "বিভিন্ন ধরনের অ্যাপসের প্রবেশের অনুমতি রয়েছে এমন একটি তালিকা দেখাও">
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
-
-
-
+<!ENTITY device.browserTabs "ব্রাউজার ট্যাব">
+<!ENTITY device.browserTabsTooltip "সংযুক্ত ডিভাইস এর ব্রাউজারের ট্যাবের একটি তালিকা দেখুন">
+<!ENTITY device.debugBrowserTab "ডিবাগ">
 
 <!ENTITY device.help "সাহায্য">
 
