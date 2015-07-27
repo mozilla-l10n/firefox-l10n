@@ -10,4 +10,5 @@
 <!ENTITY addonAction.disable                    "Dum">
 <!ENTITY addonAction.uninstall                  "Yi-instɔl">
 <!ENTITY addonAction.undo                       "Nnyɛ">
-<!ENTITY addonAction.setDefault                 "Set as Default">
+
+<!ENTITY addonUnsigned.learnMore                "Sua bi ka ho">
