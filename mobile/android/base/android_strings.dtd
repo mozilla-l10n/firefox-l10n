@@ -290,7 +290,7 @@ size. -->
 <!ENTITY pref_panels_move_up "উপরে উঠান">
 <!ENTITY pref_panels_move_down "নিচে নামান">
 
-<!ENTITY datareporting_notification_title "&brandShortName; stats &amp; data">
+<!ENTITY datareporting_notification_title "&brandShortName; পরিসংখ্যান ও ডাটা">
 <!ENTITY datareporting_notification_action_long "নির্বাচন করুন কি তথ্য শেয়ার করবেন">
 <!ENTITY datareporting_notification_action "নির্বাচন করুন কি শেয়ার করবেন">
 <!ENTITY datareporting_notification_summary "আপনার অভিজ্ঞতা উন্নত করার জন্য &brandShortName; &vendorShortName; -কে স্বয়ংক্রিয়ভাবে কিছু তথ্য প্রেরণ করবে।">
@@ -385,7 +385,7 @@ size. -->
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
 
-<!ENTITY doorhanger_login_no_username "[No username]">
+<!ENTITY doorhanger_login_no_username "[ইউজারনেম নয়]">
 <!ENTITY doorhanger_login_edit_title "লগইন সম্পাদনা করুন">
 <!ENTITY doorhanger_login_edit_username_hint "ব্যবহারকারীর নাম">
 <!ENTITY doorhanger_login_edit_password_hint "পাসওয়ার্ড">
@@ -438,7 +438,7 @@ size. -->
      panel on the home page to give the user an estimate of how many minutes it will take to
      read an article. The word "minute" should be abbreviated if possible. -->
 
-<!ENTITY reading_list_time_minutes2 "&formatD; min">
+<!ENTITY reading_list_time_minutes2 "&formatD; মিনিট">
 <!ENTITY reading_list_time_over_an_hour "এক ঘন্টারও বেশি">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
