@@ -53,8 +53,8 @@
 <!ENTITY  font.langGroup.sinhala                  "ស៊ីនហាឡា">
 <!ENTITY  font.langGroup.tibetan                  "ទីបេ">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "​ទំហំ​ពុម្ព​អក្សរ​អប្បបរិមា ៖">
-<!ENTITY minSize.accesskey                        "o">
+<!ENTITY minSize.label                            "​ទំហំ​ពុម្ព​អក្សរ​អប្បបរមា ៖">
+<!ENTITY minSize.accesskey                        "ព">
 <!ENTITY minSize.none                             "គ្មាន">
 <!-- default font type -->
 
