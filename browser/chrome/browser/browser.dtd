@@ -274,7 +274,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 
-<!ENTITY browserContentToolboxMenu.label     "Browser Content Toolbox">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Đóng thanh công cụ lập trình">
 <!ENTITY devToolbarMenu.label              "Thanh công cụ lập trình">
@@ -304,6 +303,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "m">
 <!ENTITY newPrivateWindow.label     "Cửa sổ riêng tư mới">
 <!ENTITY newPrivateWindow.accesskey "W">
+
 
 <!ENTITY editMenu.label         "Chỉnh sửa"> 
 <!ENTITY editMenu.accesskey       "C"> 
@@ -672,29 +672,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label                   "Hủy bỏ">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
-<!ENTITY identity.unverifiedsite2 "Trang web này không cung cấp thông tin định danh.">
-<!ENTITY identity.connectedTo "Bạn đang kết nối đến">
-<!-- Localization note (identity.runBy) : This string appears between a
-domain name (above) and an organization name (below). E.g.
 
-example.com
-which is run by
-Example Enterprises, Inc.
 
-The layout of the identity dialog prevents combining this into a single string with
-substitution variables.  If it is difficult to translate the sense of the string
-with that structure, consider a translation which ignores the preceding domain and
-just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "thuộc quyền kiểm soát của">
 
-<!ENTITY identity.moreInfoLinkText "Thông tin chi tiết hơn…">
+
 
 <!ENTITY identity.permissions "Quyền hạn">
-<!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
-     localized title of this SUMO article
-     https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
-
-<!ENTITY identity.help.tooltip "Làm sao để biết kết nối tới website có an toàn hay không?">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -865,3 +848,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Pre-landed strings for bug 1123519 -->
 <!ENTITY readingList.sidebar.add.label            "Thêm vào danh sách đọc">
 <!ENTITY readingList.sidebar.add.tooltip          "Thêm trang này vào danh sách đọc">
+<!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
+
+
+
+
