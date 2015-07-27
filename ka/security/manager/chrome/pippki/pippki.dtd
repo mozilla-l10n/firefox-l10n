@@ -1,58 +1,37 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Values for changepassword.xul -->
+
 <!ENTITY setPassword.title  "მთავარი პაროლის შეცვლა">
 <!ENTITY setPassword.tokenName.label "უსაფრთხოების მექანიზმი">
 <!ENTITY setPassword.oldPassword.label "მიმდინარე პაროლი:">
 <!ENTITY setPassword.newPassword.label "ახალი პაროლი:">
 <!ENTITY setPassword.reenterPassword.label "ხალი პაროლი (კვლავ):">
 <!ENTITY setPassword.meter.label "პაროლის ხარისხის მზომი">
-<!ENTITY setPassword.meter.loading "ჩატვირთვა">
-
 <!-- Values for resetpassword.xul -->
+
 <!ENTITY resetPasswordButtonLabel "აღდგენა">
 <!ENTITY resetPassword.title  "მთავარი პაროლის განულება">
 <!ENTITY resetPassword.text  "მთავარი პაროლის განულების შემთხვევაში, დაიკარგება ყველა თქვენს მიერ შენახული ელ-ფოსტის პაროლები, ფორმების მონაცემები, პერსონალური სერთიფიკატები. ნამდვილად გსურთ მთავარი პაროლის განულება?">
-
-<!-- Values for getpassword.xul -->
-<!ENTITY getPassword.title  "მთავარი პაროლის მითითება">
-<!ENTITY getPassword.tokenName2.label "უსაფრთხოების მექანიზმი">
-<!ENTITY getPassword.password.label "პაროლი:">
-
-<!-- These should be common -->
-<!ENTITY piperror.title "შეცდომა">
-<!ENTITY pipalert.title "შეცდომა - ვერ აღდგება">
-
-<!-- Prefs panel strings -->
-<!ENTITY pref.security.general.lHeader "უსაფრთხოება">
-<!ENTITY pref.security.general.rHeader "უსაფრთხოების ძირითადი პარამეტრები">
-<!ENTITY pref.security.general.header "უსაფრთხოების ძირითადი პარამეტრები">
-<!ENTITY pref.security.general.level.title "უსაფრთხოების დონე">
-<!ENTITY pref.security.general.paranoid.label "უსაფრთხოების პარანოიდული პარამეტრების გამოყენება">
-<!ENTITY pref.security.general.certificates.title "სერთიფიკატები">
-<!ENTITY pref.security.general.manageCert.label "სერთიფიკატების მართვა">
-
 <!-- Downloading a cert -->
+
 <!ENTITY downloadCert.title "სერთიფიკატის გადმოწერა">
 <!ENTITY downloadCert.message1 "თქვენ გთხოვენ თქვენთვის ახალი სერთიფიკატების სააგენტოს (CA) ნდობას.">
-<!ENTITY downloadCert.trustSSL "ამ სააგენტოს ნდობა ვებსაიტის იდენტიფიცირებისათვის.">
+
 <!ENTITY downloadCert.trustEmail "ამ სააგენტოს ნდობა ელფოსტის კლიენტთა იდენტიფიცირებისათვის.">
 <!ENTITY downloadCert.trustObjSign "ამ სააგენტოს ნდობა პროგრამების შემქმნელთა იდენტიფიცირებისათვის.">
 <!ENTITY downloadCert.message3 "სანამ ენდობოდეთ ამ სააგენტოს რომელიმე დანიშნულებით, უნდა შეამოწმოთ მისი სერთიფიკატი, პირობები და პროცედურები (თუ გააჩნია).">
 <!ENTITY downloadCert.viewCert.label "ჩვენება">
-<!ENTITY downloadCert.viewPolicy.label "წესები">
 <!ENTITY downloadCert.viewCert.text "სააგენტოს სერთიფიკატის შემოწმება">
-<!ENTITY downloadCert.viewPolicy.text "სააგენტოს წესებისა და პროცედურების შემოწმება">
-
 <!-- Strings for the SSL client auth ask dialog -->
+
 <!ENTITY clientAuthAsk.title "კლიენტის იდენტიფიცირების მოთხოვნა">
 <!ENTITY clientAuthAsk.message1 "ეს საიტი თქვენი სერთიფიკატის წარდგენას ითხოვს:">
 <!ENTITY clientAuthAsk.message2 "წარსადგენი სერთიფიკატის არჩევა:">
 <!ENTITY clientAuthAsk.message3 "არჩეული სერთიფიკატის დეტალები:">
-
 <!-- Strings for the cert picker dialog -->
+
 <!ENTITY certPicker.title "სერთიფიკატის არჩევა">
 <!ENTITY certPicker.info  "სერთიფიკატი:">
 <!ENTITY certPicker.detailsLabel "არჩეული სერთიფიკატის დეტალები:">
@@ -63,34 +42,15 @@
 <!ENTITY pkcs12.setpassword.label2 "სერთიფიკატის დუბლირების პაროლი (კვლავ):">
 <!ENTITY pkcs12.setpassword.reminder "მნიშვნელოვანია: თუ სერთიფიკატის დუბლირების პაროლი დაგავიწყდათ, დუბლიკატის აღდგენას ვეღარ შეძლებთ.  გთხოვთ საიმედოდ შეინახოთ იგი.">
 
-<!ENTITY pkcs12.getpassword.title  "პაროლის მითითება">
-<!ENTITY pkcs12.getpassword.message "სერთიფიკატის დუბლიკატის დაშიფვრის პაროლის მითითება.">
-
 <!ENTITY chooseToken.title  "რგოლის არჩევის დიალოგი">
 <!ENTITY chooseToken.message1 "რგოლის არჩევა.">
-
-<!ENTITY escrowWarn.title "დაშიფვრის გასაღების ასლი">
-<!ENTITY escrowWarn.message1 "მნიშვნელოვანია: სერთიფიკატორი ითხოვს დაშიფვრის თქვენი პერსონალური გასაღების დუბლიკატის შექმნას.">
-<!ENTITY escrowWarn.benefit1 "სარგებლობა ისაა, რომ თუ გასაღებს დაკარგავთ, შეგიძლიათ ასლი სერთიფიკატების გამცემს მოსთხოვოთ.">
-<!ENTITY escrowWarn.message2 "მეორეს მხრივ, დაშიფვრის თქვენი პერსონალური გასაღები შეინახება სერთიფიკატების გამცემთან და მას შეეძლება თქვენი დაშიფრული დოკუმენტების დაუკითხავად წაკითხვა.">
-<!ENTITY examineCert.label "სერთიფიკატის ნახვა">
-<!ENTITY examineCert.accesskey "V">
-
 <!-- Strings for the CreateCertInfo dialog  -->
+
 <!ENTITY createCertInfo.title "პირადი გასაღების შექმნა">
 <!ENTITY createCertInfo.msg1 "მიმდინარეობს გასაღების შექმნა… შესაძლოა რამდენიმე წუთი დასჭირდეს…">
 <!ENTITY createCertInfo.msg2 "შეიცადეთ…">
-
-<!-- Form Signing confirmation prompt -->
-<!ENTITY formSigning.title "ტექტზე ხელმოწერის მოთხოვნა">
-<!ENTITY formSigning.cert "ხელმოწერის სერთიფიკატი">
-<!ENTITY formSigning.confirmPassword "ამ ტექსტურ შეტყობინებაზე თქვენი ციფრული ხელმოწერის თანხმობისათვის, მიუთითეთ მთავარი პაროლი:">
-
 <!-- Strings for protectedAuth dialog -->
+
 <!ENTITY protectedAuth.title "დაცული რგოლის აუთენტიფიკაცია">
 <!ENTITY protectedAuth.msg "გთხოვთ გაიიაროთ რგოლის აუთენტიფიკაცია. აუთენტიფიკაციის მეთოდი თქვენი რგოლის ტიპზეა დამოკიდებული.">
 <!ENTITY protectedAuth.tokenName.label "რგოლი:">
-
-<!ENTITY certErrorDlg.title "უსაფრთხო კავშირი ვერ შედგა">
-<!ENTITY certErrorDlg.info1 "შესაძლოა ეს სერვერის კონფიგურაციის პრობლემაა ან ვიღაც ცდილობს სერვერის საკუთარ თავად გასაღებას.">
-<!ENTITY certErrorDlg.info2 "თუ სერვერს წარსულში წარმატებით უკავშირდებოდით, შესაძლოა შეცდომა დროებითია და შეგიძლიათ სცადოთ მოგვიანებით.">

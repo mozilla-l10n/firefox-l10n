@@ -2,10 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY printCmd.commandkey            "p">
 
-<!ENTITY findOnCmd.commandkey           "F">
-<!ENTITY findAgainCmd.commandkey        "G">
 <!ENTITY findAgainCmd.commandkey2       "VK_F3">
 
 <!ENTITY backButton.label               "უკან">
@@ -16,41 +13,36 @@
 <!ENTITY forwardButton.tooltip          "წინ ერთი გვერდით">
 <!ENTITY copyCmd.label                  "კოპირება">
 <!ENTITY copyCmd.accesskey              "C">
-<!ENTITY selectAllCmd.label             "სრული მონიშვნა">
-<!ENTITY selectAllCmd.accesskey         "A">
-<!ENTITY goBackCmd.commandkey           "[">
-<!ENTITY goForwardCmd.commandkey        "]">
+
+
+
+
 <!ENTITY homeButton.label               "თავფურცელი">
-<!ENTITY homeButton.tooltip             "დახმარების სათაო გვერდი">
+
 <!ENTITY printButton.label              "ბეჭდვა">
 <!ENTITY printButton.tooltip            "ამ გვერდის ბეჭდვა">
-<!ENTITY closeWindow.commandkey         "W">
+
 
 <!ENTITY search.emptytext               "ძიება">
-<!ENTITY searchHeader.label             "ძიების შედეგები">
-<!ENTITY toctab.label                   "შინაარსი">
-<!ENTITY toctab.accesskey               "C">
+
+
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
-
-<!ENTITY fullZoomReduceCmd.commandkey	"-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
-<!ENTITY fullZoomEnlargeCmd.commandkey	"+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+
+<!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-<!ENTITY fullZoomResetCmd.commandkey    "0">
+
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY helpSearch.commandkey          "k">
 
-<!ENTITY zLevel.label                   "ყოველთვის წინა პლანზე">
-<!ENTITY zLevel.accesskey               "T">
 
-<!ENTITY fullZoomReduceBtn.label        "ტექსტის ზომის შემცირება">
+
+<!ENTITY fullZoomReduceBtn.label        "შემცირება">
 <!ENTITY fullZoomReduceBtn.accesskey    "O">
-<!ENTITY fullZoomEnlargeBtn.label       "ტექსტის ზომის გაზრდა">
+<!ENTITY fullZoomEnlargeBtn.label       "გაზრდა">
 <!ENTITY fullZoomEnlargeBtn.accesskey   "I">

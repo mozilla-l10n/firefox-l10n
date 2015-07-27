@@ -1,1 +1,1 @@
-#define MOZ_LANG_TITLE Georgian (GE)
+#define MOZ_LANG_TITLE ინგლისური (აშშ)

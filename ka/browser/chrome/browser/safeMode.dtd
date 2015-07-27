@@ -2,18 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY safeModeDialog.title         "&brandShortName; უსაფრთხო რეჟიმი">
-<!ENTITY window.maxWidth              "540">
+<!ENTITY safeModeDialog.title         "&brandShortName; Safe Mode">
 
-<!ENTITY startSafeMode.label          "გახსბა უსაფრთხო რეჟიმში">
-<!ENTITY resetProfile.label           "&brandShortName; აღდგენა">
 
-<!ENTITY safeModeDescription3.label   "უსაფრთხო რეჟიმი &brandShortName; ბრაუზერის სპეციალური რეჟიმია არსებული პრობლემების აღმოსაფხვრელად.">
-<!ENTITY safeModeDescription4.label   "თქვენი მოდულები და საკუთარი პარამეტრები დროებით ამოირთვება.">
 
-<!ENTITY resetProfileInstead.label    "ახლიდან დაწყების სურვილის შემთხვევაში შეგიძლიათ აღადგინოთ &brandShortName; ბრაუზერი.">
 
-<!-- LOCALIZATION NOTE (autoSafeModeDescription2.label safeModeInstead.label resetProfileFooter.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
-<!ENTITY autoSafeModeDescription2.label "&brandShortName; მოულოდნელად დაიხურა დაწყებისთანავე. ამის მიზეზი რომელიმე მოდული ან სხვა პრობლემა შეიძლება იყოს. ამ პრობლემის გადაწყვეტა შეგიძლიათ სცადოთ &brandShortName; ბრაუზერის აღდგენით ნაგულისხმები პარამეტრებით ან უსაფრთხო რეჟიმში.">
-<!ENTITY resetProfileFooter.label       "ყველა დანარჩენი ნაგულისხმებ მნიშვნელობამდე აღდგება.">
-<!ENTITY safeModeInstead.label          "თუ ეს არ გსურთ, შეგიძლიათ თავად სცადოთ პრობლემის გადაწყვეტის გაგრძელება უსაფრთხო რეჟიმში ამორთული მოდულებით და საკუთარი პარამეტრებით.">
+
+
+<!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->

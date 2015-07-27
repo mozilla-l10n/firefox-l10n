@@ -3,10 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 #filter emptyLines
 
-#define MOZ_LANGPACK_CREATOR giasher.com
+#define MOZ_LANGPACK_CREATOR UGLT.org
 
 # If non-English locales wish to credit multiple contributors, uncomment this
+
 # variable definition and use the format specified.
-#define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>გია შერვაშიძე</em:contributor> <em:contributor>http://giasher.com</em:contributor>
+
+#define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>Giorgi Maghlakelidze</em:contributor>
 
 #unfilter emptyLines

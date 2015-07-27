@@ -8,7 +8,7 @@
 <!ENTITY pageSetup.accesskey  "u">
 <!ENTITY page.label           "გვერდი:">
 <!ENTITY page.accesskey       "a">
-<!ENTITY of.label             ", სულ">
+<!ENTITY of.label             "of">
 <!ENTITY scale.label          "მასშტაბი:">
 <!ENTITY scale.accesskey      "S">
 <!ENTITY portrait.label       "პორტრეტი">
@@ -17,23 +17,23 @@
 <!ENTITY landscape.accesskey  "L">
 <!ENTITY close.label          "დახურვა">
 <!ENTITY close.accesskey      "C">
-<!ENTITY p30.label            "30&#037;">
-<!ENTITY p40.label            "40&#037;">
-<!ENTITY p50.label            "50&#037;">
-<!ENTITY p60.label            "60&#037;">
-<!ENTITY p70.label            "70&#037;">
-<!ENTITY p80.label            "80&#037;">
-<!ENTITY p90.label            "90&#037;">
-<!ENTITY p100.label           "100&#037;">
-<!ENTITY p125.label           "125&#037;">
-<!ENTITY p150.label           "150&#037;">
-<!ENTITY p175.label           "175&#037;">
-<!ENTITY p200.label           "200&#037;">
+
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY Custom.label         "განსაზღვრული…">
 <!ENTITY ShrinkToFit.label    "გვერდის შევსება">
 <!ENTITY customPrompt.title   "მითითებული მასშტაბი…">
 
 <!ENTITY homearrow.tooltip    "პირველი გვერდი">
 <!ENTITY endarrow.tooltip     "ბოლო გვერდი">
-<!ENTITY nextarrow.tooltip   "შემდეგი გვერდი">
-<!ENTITY previousarrow.tooltip    "წინა გვერდი">
+<!ENTITY nextarrow.tooltip    "შემდეგი გვერდი">
+<!ENTITY previousarrow.tooltip "წინა გვერდი">

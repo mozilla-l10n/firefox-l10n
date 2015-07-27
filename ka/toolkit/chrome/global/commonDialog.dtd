@@ -6,7 +6,7 @@
 <!ENTITY message.label    "აქ სანიმუშო ტექსტია განთავსებული.">
 <!ENTITY editfield0.label "სახელი:"> 
 <!ENTITY editfield1.label "პაროლი:"> 
-<!ENTITY checkbox.label   "შემოწმება"> 
+<!ENTITY checkbox.label   "შემოწმება">
 <!ENTITY copyCmd.label    "კოპირება">
 <!ENTITY copyCmd.accesskey "C">
 <!ENTITY selectAllCmd.label "ყველას მონიშვნა">

@@ -14,34 +14,35 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "დახმარება"> 
 <!ENTITY helpMenuWin.accesskey    "H">
-<!ENTITY aboutProduct.label           "&brandShortName;-ის შესახებ">
-<!ENTITY aboutProduct.accesskey       "A">
-<!ENTITY productHelp.label        "&brandShortName; დახმარება">
-<!ENTITY productHelp.accesskey    "H">
+
+
+
+
 <!ENTITY helpMac.commandkey       "?">
 
-<!ENTITY helpKeyboardShortcuts.label     "კლავიატურის ბილიკები">
-<!ENTITY helpKeyboardShortcuts.accesskey "K">
 
-<!ENTITY helpSafeMode.label       "ხელახლა გახსნა ამორთული მოდულებით…">
-<!ENTITY helpSafeMode.accesskey   "R">
 
-<!ENTITY healthReport.label       "&brandShortName; დიაგნოსტიკა">
-<!ENTITY healthReport.accesskey   "e">
+<!ENTITY helpSafeMode.label       "ხელახლა გახსნა ამორთული დანამატებით...">
+<!ENTITY helpSafeMode.accesskey   "ხ">
 
-<!ENTITY helpTroubleshootingInfo.label      "შეცდომები, პრობლემები…">
-<!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
-<!ENTITY helpFeedbackPage.label      "გამოხმაურების გაგზავნა…">
-<!ENTITY helpFeedbackPage.accesskey  "S">
+
+
+
+<!ENTITY helpTroubleshootingInfo.label      "შესაძლო პრობლემები">
+<!ENTITY helpTroubleshootingInfo.accesskey  "პ">
+
+<!ENTITY helpFeedbackPage.label      "უკუკავშირის გაგზავნა...">
+<!ENTITY helpFeedbackPage.accesskey  "გ">
+
+
 
 <!ENTITY preferencesCmdMac.label        "პარამეტრები…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "მომსახურება">
 
-<!ENTITY hideThisAppCmdMac.label        "&brandShortName;-ის დამალვა">
-<!ENTITY hideThisAppCmdMac.commandkey   "H">
+<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "სხვების დამალვა">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">

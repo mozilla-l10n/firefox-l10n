@@ -2,28 +2,28 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY editMenu.label            "რედაქცია">
-<!ENTITY editMenu.accesskey        "e">
+<!ENTITY editMenu.label            "რედაქტირება">
+<!ENTITY editMenu.accesskey        "E">
 <!ENTITY undoCmd.label             "დაბრუნება">
 <!ENTITY undoCmd.key               "Z">
-<!ENTITY undoCmd.accesskey         "u">
+<!ENTITY undoCmd.accesskey         "U">
 <!ENTITY redoCmd.label             "გამეორება">
 <!ENTITY redoCmd.key               "Y">
-<!ENTITY redoCmd.accesskey         "r">
+<!ENTITY redoCmd.accesskey         "R">
 <!ENTITY cutCmd.label              "ამოჭრა">
 <!ENTITY cutCmd.key                "X">
 <!ENTITY cutCmd.accesskey          "t">
-<!ENTITY copyCmd.label             "ასლი">
+<!ENTITY copyCmd.label             "კოპირება">
 <!ENTITY copyCmd.key               "C">
-<!ENTITY copyCmd.accesskey         "c">
+<!ENTITY copyCmd.accesskey         "C">
 <!ENTITY pasteCmd.label            "ჩასმა">
 <!ENTITY pasteCmd.key              "V">
-<!ENTITY pasteCmd.accesskey        "p">
+<!ENTITY pasteCmd.accesskey        "P">
 <!ENTITY deleteCmd.label           "წაშლა">
-<!ENTITY deleteCmd.accesskey       "d">
+<!ENTITY deleteCmd.accesskey       "D">
 <!ENTITY selectAllCmd.label        "სრული მონიშვნა">
 <!ENTITY selectAllCmd.key          "A">
-<!ENTITY selectAllCmd.accesskey    "a">
+<!ENTITY selectAllCmd.accesskey    "A">
 <!ENTITY findCmd.label             "ძიება">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "F">
