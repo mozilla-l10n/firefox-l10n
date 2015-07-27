@@ -5,7 +5,7 @@
 
 <!ENTITY setupButton.label          "Бүтэн нэрээр тохируулах">
 <!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "Бүтэн нэрээр тохируулах ; Бүх төрлийн төхөөрөмжүүд дээр түүх , тэмдэглэл , нууц дугаарыг үзэх эрхийг олгох">
+<!ENTITY weaveDesc.label            "&amp;Бүтэн нэрээр тохируулах ; Бүх төрлийн төхөөрөмжүүд дээр түүх , тэмдэглэл , нууц дугаарыг үзэх эрхийг олгох">
 <!-- The page shown when logged in... -->
 <!-- Login error feedback -->
 <!ENTITY resetPass.label              "Сэргээ">
@@ -31,14 +31,46 @@
 
 
 
+
+
 <!ENTITY engine.addons.label        "Нэмэгдлүүд">
 <!ENTITY engine.addons.accesskey    "Н">
 <!-- Device Settings -->
 
 <!ENTITY syncDeviceName.label       "төхөөрөмжийн нэр">
 <!ENTITY syncDeviceName.accesskey   "c">
+
+
+<!ENTITY cancelChangeSyncDeviceName.label "Цуцал">
+<!ENTITY saveChangeSyncDeviceName.label "Хадгал">
 <!ENTITY unlinkDevice.label           "энэ төхөөрөмжийн холболтыг салгах">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "үйлчилгээний нөхцөл">
 <!ENTITY prefs.ppLink.label         "Хуулийн нөхцөл">
+<!-- Firefox Accounts stuff -->
+
+<!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
+signedInUnverified.aftername.label): these two string are used respectively
+before and after the account email address. Localizers can use one of them, or
+both, to better adapt this sentence to their language.
+-->
+
+<!ENTITY signedInUnverified.beforename.label "">
+
+<!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
+signedInLoginFailure.aftername.label): these two string are used respectively
+before and after the account email address. Localizers can use one of them, or
+both, to better adapt this sentence to their language.
+-->
+<!ENTITY signedInLoginFailure.aftername.label "">
+
+
+
+
+
+
+
+
+
+

@@ -9,15 +9,6 @@
 <!ENTITY paperInput.label "Цаасны хэмжээ:">
 <!ENTITY paperInput.accesskey "ы">
 
-<!ENTITY plexInput.label "Бүхэл горим:">
-<!ENTITY plexInput.accesskey "х">
-
-<!ENTITY resolutionInput.label "Нягтшил/Чанар:">
-<!ENTITY resolutionInput.accesskey "я">
-
-<!ENTITY cmdInput.label "Хэвлэх:">
-<!ENTITY cmdInput.accesskey "в">
-
 <!ENTITY jobTitleInput.label "Албан тушаал:">
 <!ENTITY jobTitleInput.accesskey "А">
 
@@ -25,12 +16,6 @@
 
 
 
-
-
-
-<!ENTITY fontsGroup.label "Үсгийн маяг:">
-<!ENTITY downloadFonts.label "Хэвлэгч рүү үсгийн маяг татаж авах уу?">
-<!ENTITY downloadFonts.accesskey "ч">
 
 <!ENTITY edgeMarginInput.label "Цаасны ирмэгээс зай авалт хүртэлх зай">
 <!ENTITY topInput.label "Дээд:">

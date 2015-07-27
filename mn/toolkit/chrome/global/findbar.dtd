@@ -11,6 +11,6 @@
 <!ENTITY highlightAll.label "Бүгдийг тодотгох">
 <!ENTITY highlightAll.accesskey "Б">
 <!ENTITY highlightAll.tooltiptext "Хайлтаар олдсон болгоныг гэрэлтүүлж харуулна">
-<!ENTITY caseSensitive.label "Үсгээр харьцуулах">
-<!ENTITY caseSensitive.accesskey "х">
+
+
 <!ENTITY caseSensitive.tooltiptext "Том жижиг үсгийн ялгаатай хайх">

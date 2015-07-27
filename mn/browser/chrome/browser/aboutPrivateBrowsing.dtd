@@ -2,15 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                 "Хувийн зорчилт">
-<!ENTITY privatebrowsingpage.title.normal          "Та хувийн зорчих горимыг эхлүүлмээр байна уу?">
 
 
 
 
 
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
 
 
-<!ENTITY privatebrowsingpage.moreInfo                  "Хэдийгээр таны энэ компьютер дээр зорчсон түүх бичигдэж үлдэхгүй ч, таны интернэт үйлчилгээ хангах байгууллага юмуу энэ сүлжээг зохицуулагчийн зүгээс зорчсон хуудсыг тань хянах боломжтой.">
-<!ENTITY privatebrowsingpage.learnMore                 "Илүү мэдээлэл авах">
+

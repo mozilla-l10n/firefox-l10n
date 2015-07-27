@@ -50,6 +50,8 @@
 <!ENTITY cmd.open.accesskey              "Н">
 <!ENTITY cmd.open_window.label           "Шинэ цонхонд нээ">
 <!ENTITY cmd.open_window.accesskey       "Ш">
+
+
 <!ENTITY cmd.open_tab.label              "Шинэ самбарт нээ">
 <!ENTITY cmd.open_tab.accesskey          "с">
 <!ENTITY cmd.open_all_in_tabs.label      "Бүгдийг нь самбарт нээ">
@@ -79,9 +81,8 @@
 <!ENTITY col.name.label          "Нэр">
 <!ENTITY col.tags.label          "Таглаа">
 
-<!ENTITY col.lastvisit.label     "Зорчсон өдөр">
+
 <!ENTITY col.visitcount.label    "Зорчсон тоо">
-<!ENTITY col.keyword.label       "Түлхүүр үг">
 <!ENTITY col.description.label   "Тодорхойлолт">
 <!ENTITY col.dateadded.label     "Нэмэгдсэн">
 <!ENTITY col.lastmodified.label  "Сүүлд өөрчлөгдсөн">

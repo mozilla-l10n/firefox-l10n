@@ -62,8 +62,8 @@
 <!ENTITY netTimeout.title "Холболтын цаг дууссан">
 
 
-<!ENTITY protocolNotFound.title "Хаяг ойлгогдоогүй">
-<!ENTITY protocolNotFound.longDesc "<ul> 
+<!ENTITY unknownProtocolFound.title "Хаяг ойлгогдоогүй">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
 <li>Та энэ хаягийг нээхийн тулд магадгүй өөр програм суулгах хэрэгтэй байж болзошгүй.</li> 
 </ul>">
 
@@ -112,10 +112,12 @@
 <!ENTITY malwareBlocked.title "Сэжигтэй довтлогч хуудас!">
 
 
+
+
 <!ENTITY phishingBlocked.title "Вэб хууралт хийгч сэжигтэй хуудас!">
 
 
-<!ENTITY cspFrameAncestorBlocked.title "Агуулгын хамгаалалтын улмаас хаагдсан">
+<!ENTITY cspBlocked.title "Агуулгын хамгаалалтын улмаас хаагдсан">
 
 
 
@@ -129,5 +131,17 @@ contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to firefox. -->
 
+
+
+
+
+
+
+
+
 <!ENTITY remoteXUL.title "Алсын XUL ">
+
+
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
+     "ssl_error_unsupported_version". -->
 

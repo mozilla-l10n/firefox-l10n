@@ -6,7 +6,6 @@
 
 <!ENTITY printSetup.title    "Хуудасны тохиргоо">
 
-<!ENTITY basic.tab           "Хэлбэршил ба Сонголт">
 
 <!ENTITY formatGroup.label   "Хэлбэршил">
 
@@ -27,7 +26,6 @@
 
 
 
-<!ENTITY advanced.tab        "Зай авалт ба Толгой/Хөл">
 
 <!ENTITY marginGroup.label   "Зай авалт (#1)">
 <!ENTITY marginUnits.inches  "инч">
@@ -41,7 +39,6 @@
 <!ENTITY marginRight.label   "Баруун:">
 <!ENTITY marginRight.accesskey "Б">
 
-<!ENTITY headerFooter.label  "Толгой ба хөл">
 
 <!ENTITY hfLeft.label        "Зүүн:">
 

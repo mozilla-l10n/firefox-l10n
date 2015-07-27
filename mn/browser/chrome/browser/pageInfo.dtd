@@ -21,11 +21,9 @@
 <!ENTITY  generalReferrer       "Хандах интер.хаяг:">
 <!ENTITY  generalSource         "Эх байрлал:">
 <!ENTITY  generalModified       "Өөрчлөгдсөн огноо:">
-<!ENTITY  generalEncoding       "Хувиргалт:">
+
 <!ENTITY  generalMetaName       "Нэр">
 <!ENTITY  generalMetaContent    "Бүтэц">
-<!ENTITY  generalSecurityDetails   "Нэмэлт">
-<!ENTITY  generalSecurityDetails.accesskey "т">
 
 <!ENTITY  mediaTab              "Дуу дүрс">
 <!ENTITY  mediaTab.accesskey    "Д">
@@ -63,7 +61,6 @@
 
 <!ENTITY  securityTab           "Нууцлал">
 <!ENTITY  securityTab.accesskey "ц">
-<!ENTITY  securityHeader        "Энэ хуудасны нууцлалын мэдээлэл">
 <!ENTITY  securityView.certView "Гэрчилгээг харах">
 <!ENTITY  securityView.accesskey "х">
 <!ENTITY  securityView.unknown   "Үл мэдэгдэх">
@@ -72,7 +69,6 @@
 
 <!ENTITY  securityView.identity.verifier "Шалгасан: ">
 
-<!ENTITY  securityView.privacy.header                   "Мэдээллийн журам болон түүх">
 
 
 <!ENTITY  securityView.privacy.viewCookies              "Күүкинүүдийг харах">
@@ -82,3 +78,5 @@
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "а">
 
 <!ENTITY  securityView.technical.header                 "Техникийн мэдээлэл">
+
+<!ENTITY  helpButton.label                              "Тусламж">

@@ -24,6 +24,7 @@ was trying to connect. -->
 <!ENTITY certerror.whatShouldIDo.heading "Би юу хийх хэрэгтэй вэ?">
 <!ENTITY certerror.whatShouldIDo.content "Хэрэв та урьд нь энэ хуудсанд ямар ч хүндрэлгүй ордог байсан бол 
 хэн нэгэн уг хуудастай адилхан харагдах гэсэн оролдлог байж болзошгүй болохоор та цааш нь үргэлжлүүлэх хэрэггүй.">
+
 <!ENTITY certerror.getMeOutOfHere.label "Эндээс намайг гарга!">
 
 <!ENTITY certerror.expert.heading "Би эрсдлийг нь ойлголоо">

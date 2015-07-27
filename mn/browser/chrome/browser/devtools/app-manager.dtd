@@ -14,6 +14,8 @@
 
 
 
+
+
 <!ENTITY device.name "Нэр">
 
 
@@ -36,11 +38,15 @@
 
 
 
+
+
+
+
 <!ENTITY connection.changeHostAndPort "Өөрчил">
 
 
 
-<!ENTITY connection.saveConnectionInfo "Хадгал">
+
 
 <!ENTITY connection.connecting "Холбогдож байна…">
 
@@ -62,9 +68,21 @@
 
 
 
+
 <!ENTITY projects.updateApp "Шинэчлэл">
 
 
+
+
+
+
+
+
+
+
+
+<!ENTITY projects.valid "Хүчинтэй">
+<!ENTITY projects.error "Алдаа">
 
 
 

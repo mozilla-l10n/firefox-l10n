@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 
@@ -17,6 +18,8 @@
 
 <!ENTITY cmd.back.tooltip                     "Нэг хуудас буц">
 
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Бүх нэмэгдлүүд хамгаалалтын горимд хоригдсон.">
@@ -29,8 +32,6 @@
 <!-- global informations -->
 
 <!-- categories / views -->
-
-<!ENTITY view.search.label                    "Хайх">
 <!ENTITY view.discover.label                  "Нэмэгдлүүд авах">
 
 
@@ -74,6 +75,8 @@
 <!ENTITY cmd.enableAddon.accesskey            "З">
 <!ENTITY cmd.disableAddon.label               "Хорих">
 <!ENTITY cmd.disableAddon.accesskey           "Х">
+
+
 
 
 
@@ -186,3 +189,25 @@
 <!ENTITY eula.accept                          "Зөвшөөрөөд суулга…">
 
 <!ENTITY settings.path.button.label           "Зааж өг…">
+<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
+     experiments are present on the "Experiments" tab of the add-ons manager.
+     This tab won't be displayed unless an Experiment add-on is installed.
+     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
+     to cause this tab to appear. -->
+<!ENTITY experiment.info.learnmore "Нэмэлт мэдээлэл">
+
+
+
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
+     These entities form a sentence, with
+     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
+     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
+     being a link to an external site. -->
+
+

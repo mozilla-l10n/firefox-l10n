@@ -9,30 +9,11 @@
 <!ENTITY setPassword.newPassword.label "Шинэ нууц үг:">
 <!ENTITY setPassword.reenterPassword.label "Шинэ нууц үг (дахиад):">
 <!ENTITY setPassword.meter.label "Нууц үгийн чанарын хэмжүүр">
-<!ENTITY setPassword.meter.loading "Дуудаж байна">
 <!-- Values for resetpassword.xul -->
 
 <!ENTITY resetPasswordButtonLabel "Сэргээ">
 <!ENTITY resetPassword.title  "Мастер Нууц үгийг дахин сэргээх">
 
-<!-- Values for getpassword.xul -->
-
-<!ENTITY getPassword.title  "Мастер нууц үг оруулна уу">
-<!ENTITY getPassword.tokenName2.label "Нууцлалын төхөөрөмж">
-<!ENTITY getPassword.password.label "Нууц үг:">
-<!-- These should be common -->
-
-<!ENTITY piperror.title "Алдаа">
-<!ENTITY pipalert.title "Алдаа - сэргээж чадахгүй байна">
-<!-- Prefs panel strings -->
-
-<!ENTITY pref.security.general.lHeader "Нууцлал">
-<!ENTITY pref.security.general.rHeader "Ерөнхий нууцлалын тохиргоо">
-<!ENTITY pref.security.general.header "Ерөнхий нууцлалын тохиргоо">
-<!ENTITY pref.security.general.level.title "Нууцлалын түвшин">
-<!ENTITY pref.security.general.paranoid.label "Онцгой нууцлалын тохиргоо хэрэглэх">
-<!ENTITY pref.security.general.certificates.title "Гэрчилгээ">
-<!ENTITY pref.security.general.manageCert.label "Гэрчилгээ зохицуулах">
 <!-- Downloading a cert -->
 
 <!ENTITY downloadCert.title "Гэрчилгээ татаж авч байна">
@@ -42,9 +23,7 @@
 <!ENTITY downloadCert.trustObjSign "Програм хөгжүүлэгчийг танихдаа энэ ГЭ-д итгэ">
 <!ENTITY downloadCert.message3 "Та ямар ч зорилгоор бай энэ ГЭ -д итгэхээсээ өмнө үүний гэрчилгээний тохиргоог мөн бодлого бас үйлдлийг нь харах хэрэгтэй (хэрэв боломжтой бол).">
 <!ENTITY downloadCert.viewCert.label "Харах">
-<!ENTITY downloadCert.viewPolicy.label "Бодлого">
 <!ENTITY downloadCert.viewCert.text "CA гэрчилгээг тохируулах">
-<!ENTITY downloadCert.viewPolicy.text "ГЭ -н бодлого ба үйлдлийн тохиргоог харах">
 <!-- Strings for the SSL client auth ask dialog -->
 
 <!ENTITY clientAuthAsk.title "Хэрэглэгчийг таниулах хүсэлт">
@@ -63,32 +42,14 @@
 <!ENTITY pkcs12.setpassword.label2 "Гэрчилгээний нөөцлөх нууц үг (дахиад):">
 <!ENTITY pkcs12.setpassword.reminder "Чухал: Хэрэв та гэрчилгээний нөөцлөх нууц үгээ мартвал, та дахиж энэ нөөц хуулбарыг сэргээж чадахгүй болно. Найдвартай газар бичиж авна уу.">
 
-<!ENTITY pkcs12.getpassword.message "Энэ гэрчилгээний нөөцийг нууцлахад хэрэглэж байсан нууц үгийг оруулна уу.">
-
 <!ENTITY chooseToken.message1 "Токэн сонгоно уу.">
-
-<!ENTITY escrowWarn.title "Нууцлалтай түлхүүр үгийн хуулбар">
-<!ENTITY escrowWarn.message1 "Чухал: Энэ гэрчилгээний эрх нь таны нууцлалын түлхүүр үгийн нөөц хийхийг асууж байна.">
-<!ENTITY escrowWarn.benefit1 "Хэрэв та нууцлалтай хувийн түлхүүр үг рүү хандах эрхээ алдвал, та энэ гэрчилгээний нөлөөгөөр хуулбарыг нь хүсэх давуу талтай.">
-<!ENTITY escrowWarn.message2 "Хэдийгээр таны нууцлах хувийн түлхүүр үг гэрчилгээний эрхээр хадгалагдах боловч таны зөвшөөрөлгүйгээр нууцлагдсан захиа эсвэл бичиг баримтыг уншихад хэрэглэгдэх боломжтой.">
-<!ENTITY examineCert.label "Гэрчилгээг харах">
-<!ENTITY examineCert.accesskey "ч">
 <!-- Strings for the CreateCertInfo dialog  -->
 
 <!ENTITY createCertInfo.title "Хувийн түлхүүр үг үүсгэж байна">
 
 <!ENTITY createCertInfo.msg2 "Түр хүлээнэ үү…">
-<!-- Form Signing confirmation prompt -->
-
-<!ENTITY formSigning.title "Текстийн гарын үсгийн хүсэлт">
-<!ENTITY formSigning.cert "Гэрчилгээнд гарын үсэг зурж байна">
-<!ENTITY formSigning.confirmPassword "Сонгосон гэрчилгээгээр энэ текст захианд гарын үсгээ баталгаажуулахын тулд мастер нууц үгээ оруулна уу:">
 <!-- Strings for protectedAuth dialog -->
 
 <!ENTITY protectedAuth.title "Хамгаалттай хэсгийн нэвтрэлт">
 <!ENTITY protectedAuth.msg "Энэ хэсэгт нэвтрэх үйлдэл хийх шаардлагатай. Нэвтрүүлэх аргачлал нь тухайн хэсгээс хамаарна.">
 <!ENTITY protectedAuth.tokenName.label "Хэсэг:">
-
-<!ENTITY certErrorDlg.title "Нууцлалтай холболтонд алдаа гарлаа">
-<!ENTITY certErrorDlg.info1 "Энэ нь серверийн тохиргооноос болсон юмуу эсвэл хэн нэг нь уг серверийг дууриах үйлдэл хийсэн байж магадгүй.">
-<!ENTITY certErrorDlg.info2 "Хэрэв та урьд нь энэ сервертэй амжилттай холбогдож байсан бол энэ нь түр зуурынх байж болох бөгөөд дараа дахин оролдоно уу.">

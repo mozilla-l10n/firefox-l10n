@@ -3,6 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like id.heading in crashes.dtd. -->
+<!ENTITY aboutSupport.crashes.id "Мэдэгдлийн ID дугаар">
 
 
 
@@ -10,8 +13,21 @@
 
 
 
-<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+
+
+
+
+<!ENTITY aboutSupport.experimentDescription "Тодорхойлолт">
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
+
 
 
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
@@ -21,6 +37,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 
 
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
@@ -30,14 +47,20 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 variant of aboutSupport.showDir.label. -->
 
 
-<!ENTITY aboutSupport.modifiedPrefsValue "Утга">
+
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
 
 
 
 
+
+
+
 <!ENTITY aboutSupport.a11yTitle "Хандалт">
+
+
+
 
 
 
