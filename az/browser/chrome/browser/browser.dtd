@@ -274,6 +274,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 
+<!ENTITY browserContentToolboxMenu.label     "Səyyah Məzmun Qutusu">
+<!ENTITY browserContentToolboxMenu.accesskey "u">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Tərtibatçı alət panelini qapa">
 <!ENTITY devToolbarMenu.label              "Programçı Paneli">
@@ -854,6 +856,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY saveToPocketCmd.label     "Səhifəni Pocket-də saxla">
 <!ENTITY saveToPocketCmd.accesskey "k">
-
-
+<!ENTITY saveLinkToPocketCmd.label     "Keçidi Pocket-ə qeyd et">
+<!ENTITY saveLinkToPocketCmd.accesskey "o">
 <!ENTITY pocketMenuitem.label      "Pocket siyahısını göstər">
