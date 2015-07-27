@@ -261,7 +261,7 @@ size. -->
 <!ENTITY pref_sync_summary2 "আপনার ট্যাব, বুকমার্ক, লগইন, ইতিহাস সিঙ্ক করুন">
 <!ENTITY pref_search_suggestions "অনুসন্ধানের সাজেশন প্রদর্শন">
 <!ENTITY pref_import_android "অ্যান্ড্রয়েড থেকে ‌ইমপোর্ট">
-
+<!ENTITY pref_import_android_summary "নেটিভ ব্রাউজার থেকে বুকমার্ক সমূহ এবং ব্রাউজিং ইতিহাস ইমপোর্ট করুন">
 <!ENTITY pref_private_data_history2 "ব্রাউজিং এর ইতিহাস">
 <!ENTITY pref_private_data_searchHistory "অনুসন্ধানের ইতিহাস">
 <!ENTITY pref_private_data_formdata2 "ফর্মের ইতিহাস">
@@ -290,6 +290,7 @@ size. -->
 <!ENTITY pref_panels_move_up "উপরে উঠান">
 <!ENTITY pref_panels_move_down "নিচে নামান">
 
+<!ENTITY datareporting_notification_title "&brandShortName; stats &amp; data">
 <!ENTITY datareporting_notification_action_long "নির্বাচন করুন কি তথ্য শেয়ার করবেন">
 <!ENTITY datareporting_notification_action "নির্বাচন করুন কি শেয়ার করবেন">
 <!ENTITY datareporting_notification_summary "আপনার অভিজ্ঞতা উন্নত করার জন্য &brandShortName; &vendorShortName; -কে স্বয়ংক্রিয়ভাবে কিছু তথ্য প্রেরণ করবে।">
