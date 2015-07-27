@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY newprofile.title             "प्रफाइल उइजार्ड सोरजि">
-<!ENTITY window.size                  "गुवार: 45em; गोजौ: 32em;">
+<!ENTITY window.size                  "width: 45em; height: 32em;">
 <!-- First wizard page -->
 
 <!ENTITY profileCreationExplanation_1.text  "&brandShortName; आ नोंथांनि निजि प्रफाइलआव नोंथांनि सेटिं आरो पसन्दनि सोमोन्दै फोरमायथिहोग्राखौ दोनथुमो।">

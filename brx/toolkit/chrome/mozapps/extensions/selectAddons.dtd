@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY upgrade.style               "गुवार: 93ch; गोजौ: 448px;">
+<!ENTITY upgrade.style               "width: 93ch; height: 448px;">
 
 <!ENTITY checking.heading            "नोंथांनि Add-ons खौ आनजाद खालाम गासिनो दं">
 <!ENTITY checking.progress.label     "&brandShortName; नि बे बिसोनजों गोरोबनायनि थाखाय नोंथांनि add-ons खौ आनजाद खालामगासिनो दं।">
@@ -14,17 +14,17 @@
 <!ENTITY select.keep                 "दोन">
 <!-- LOCALIZATION NOTE (select.keep.style): Should be a width wide enough for
      the string in select.keep above. -->
-<!ENTITY select.keep.style           "गुवार: 6ch;">
+<!ENTITY select.keep.style           "width: 6ch;">
 <!ENTITY select.action               "हाबा">
 <!-- LOCALIZATION NOTE (select.action.style): Should be a width wide enough for
      the action strings in selectAddons.properties or brandShortName. -->
-<!ENTITY select.action.style         "गुवार: 35ch;">
+<!ENTITY select.action.style         "width: 35ch;">
 <!ENTITY select.source               "..जों इनष्टल खालामबाय">
 <!ENTITY select.name                 "मुं">
 <!-- LOCALIZATION NOTE (select.name.style): Should be a width small enough so
      the source column still has enough room for the source strings in
      selectAddons.properties. -->
-<!ENTITY select.name.style           "गुवार: 33ch;">
+<!ENTITY select.name.style           "width: 33ch;">
 
 <!ENTITY confirm.heading             "नोंथांनि Add-ons खौ सायख">
 <!-- LOCALIZATION NOTE (confirm.description): The term used for "third parties"

@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY dialog.title             "टुलबारखौ गावनि गोसो बायदि बाहाय">
-<!ENTITY dialog.dimensions        "गुवार: 92ch; गोजौ: 36em;">
+<!ENTITY dialog.dimensions        "width: 92ch; height: 36em;">
 <!ENTITY instructions.description "टुलबार निफ्राय एबा बोबोनानै आयदाफोरखौ नोंथाङा दाजाबदेरनो एबा गैया खालामनो हायो।">
 <!ENTITY show.label               "दिनथि:">
 <!ENTITY iconsAndText.label       "आइकन आरो फराय बिजाब">

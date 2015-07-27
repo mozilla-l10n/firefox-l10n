@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY blocklist.title             "Add-ons आ जेंना खालामनो हागौ">
-<!ENTITY blocklist.style             "गुवार: 45em; गोजौ: 30em">
+<!ENTITY blocklist.style             "width: 45em; height: 30em">
 <!ENTITY blocklist.summary           "गाहायनि add-ons खौ दिदोम एबा रैखाथिनि थाखाय मोनथिनाय जायो होननानै &brandShortName; आ थि खालामबाय:">
 <!ENTITY blocklist.softblocked       "नोंथांनि रैखाथिनि थाखाय, बेफोर add-ons जों फिन जागायनायखौ लोरबां खालामनो थिननाय जायो।">
 <!ENTITY blocklist.hardblocked       "बेफोर add-ons हा दिदोम एबा रैखाथि जेंनानि गोबां खैफोद दं आरो ब्लक खालामबाय, नाथाय बेफोरखौ फुरायै लोरबां खालामनो फिन जागायनांगोन।">
