@@ -5,6 +5,10 @@
 
 <!ENTITY  no_space_to_start_error "Tewali banga linamala &brandShortName; okutandika.">
 <!ENTITY  error_loading_file "Wabadewo ensobi mukutika fayiro ezetagisa okudukanya &brandShortName;">
+
+
+
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -17,7 +21,7 @@
 
 <!ENTITY  crash_reporter_title "Akalopa Okuzikirira kwa &brandShortName; ">
 
-<!ENTITY  crash_send_report_message3 "Gamba &vendorShortName; ekikwata ku kkabenje asobole oku gitteleza">
+<!ENTITY  crash_send_report_message3 "Gamba &Omusubuzi; ekikwata ku kkabenje asobole oku gitteleza">
 <!ENTITY  crash_include_url2 "Tekako endagiriro lupapula lwe mbadde ko.">
 <!ENTITY  crash_sorry "Tusonyiwe">
 <!ENTITY  crash_comment "Gatttawo endowooza yo (endowooza zirabibwa buli omu)">
@@ -34,10 +38,12 @@
 
 <!ENTITY choose_file "Londa Fiilo">
 
-<!ENTITY url_bar_default_text "Tekamu Ekyokunoonya oba Endagiriro">
 
-<!ENTITY bookmark "Akalambe">
+
 <!ENTITY bookmark_added "Akalambe kayongedwako">
+<!-- Localization note (bookmark_already_added) : This string is
+     used as a label in a toast. It is the verb "to bookmark", not
+     the noun "a bookmark". -->
 <!ENTITY bookmark_removed "Akalambe kagidwawo">
 <!ENTITY bookmark_updated "Akalambe katusiddwa">
 <!ENTITY bookmark_options "Ebyokulondako">
@@ -69,22 +75,54 @@
 <!ENTITY switch_button_message "Kusaa">
 
 <!ENTITY settings "Enteegeka">
-<!ENTITY settings_title "Enteegeka">
+
+
 <!ENTITY pref_category_advanced "Bussukkulumu">
 <!ENTITY pref_category_customize "Fula">
+
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
 <!ENTITY pref_category_language "Olulimi">
+
 <!ENTITY pref_browser_locale "Nonya olulimi">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
+<!-- Localization note (overlay_share_label) : This is the label that appears
+     in Android's intent chooser when sending a link to Firefox to bookmark,
+     send to another device, or add to Reading List. -->
+<!-- Localization note (overlay_share_bookmark_btn_label) : This string is
+     used in the share overlay menu to select an action. It is the verb
+     "to bookmark", not the noun "a bookmark". -->
+<!ENTITY overlay_share_reading_list_btn_label "Yongera ku Lukalala Lwe\u0027byokusooma">
+
+
+
+<!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
+     share overlay menu to represent the "Send Tab" action when the user
+     either has not set up Sync, or has no other devices to send a tab
+     to. -->
+
+
+<!-- Localization note (overlay_no_synced_devices) : Used when the menu option
+     to send a tab to a synced device is pressed and no other synced devices
+     are found. -->
+<!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
+     to send a tab to a synced device is pressed and there is an error
+     connecting to the server so the tab could not be sent. The text should be
+     divided into two lines (use the newline escape character, "\n", between
+     them): the first notifying the user about the failure and the second
+     telling the user what to do about it. -->
 
 <!ENTITY pref_category_search_summary "Telezamu mu abeweleza  enonya yo.">
 <!ENTITY pref_category_display "Laga">
+
 <!ENTITY pref_category_privacy_short "ebyekyama">
+
+
 
 <!ENTITY pref_category_datareporting "data owo kulonda ko">
 <!ENTITY pref_learn_more "Manya ebisingawo">
@@ -102,7 +140,10 @@
 <!ENTITY pref_category_devtools "akulakulanya Ekikozesebwa">
 
 
-<!ENTITY pref_remember_signons "Jjukira Obusumuluzo">
+
+
+
+
 
 <!ENTITY pref_category_home "Ewakaa">
 
@@ -119,10 +160,10 @@
 
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
-<!ENTITY pref_header_display "laaga">
-<!ENTITY pref_header_privacy_short "ebyekyama">
+
+
 <!ENTITY pref_header_help "Obuyambi">
-<!ENTITY pref_header_language "olulimi">
+
 
 
 
@@ -131,9 +172,23 @@
 
 
 
-<!ENTITY pref_donottrack_disallow_tracking "Gamba ekibanja sagala kugobelerwa">
-<!ENTITY pref_donottrack_allow_tracking "Gamba ekibanja nti saggala kugobelererwa">
 
+
+
+
+
+
+
+
+
+
+
+<!-- Localization note (tab_queue_notification_text_plural2) : The
+     formatD is replaced with the number of tabs queued.  The
+     number of tabs queued is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!-- Localization note (tab_queue_notification_text_singular2) : This is the
+     text of a notification; we expect only one tab queued. -->
 
 <!ENTITY pref_char_encoding "Ennyukuta enkusike">
 <!ENTITY pref_char_encoding_on "Laga Enyanjula">
@@ -166,17 +221,28 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
+
+
+
+
+
+
+
+
 <!ENTITY pref_use_master_password "Kozesa ekisumuluzo ekifuga byonna">
-<!ENTITY pref_show_product_announcements "laga ebilango ekyokukozesa">
 <!ENTITY pref_sync "Tusaganya">
+
 <!ENTITY pref_search_suggestions "Laga ebirowoozo by\u0027okunoonya">
 <!ENTITY pref_import_android "leeta okuva mu Android">
+
 <!ENTITY pref_private_data_history2 " byafaayo byo okkunonyelezza">
 
 
-<!ENTITY pref_private_data_passwords "Obusumulizzo obu terekeddwa">
+
+
 <!ENTITY pref_private_data_cache "Eterekero elyo kumpii">
 <!ENTITY pref_private_data_offlineApps "Bwiino we\u0027ekibanja ekitayungiddwa ku Mutimbangano">
+
 
 
 
@@ -229,6 +295,7 @@ size. -->
 <!ENTITY addons "Ebigattibwako">
 
 
+
 <!ENTITY char_encoding "Ennyukuta Enkusike">
 
 <!ENTITY share "Gaabana">
@@ -248,14 +315,13 @@ size. -->
 
 
 
+
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
-<!ENTITY find_text "Zzula mu Muko">
 <!ENTITY find_prev "Ekiyise">
 <!ENTITY find_next "Ekidirira">
-<!ENTITY find_close "Ggalawo">
-<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+
+<!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 <!ENTITY media_play "Zzanya">
 <!ENTITY media_pause "Wummuzaamu">
@@ -265,7 +331,7 @@ size. -->
 
 
 <!ENTITY contextmenu_add_to_launcher "Yongera ku Sikulini Yeka">
-<!ENTITY contextmenu_share "Gaabana">
+
 <!ENTITY contextmenu_pasteandgo "Teeka wano &amp; Genda">
 
 
@@ -276,11 +342,27 @@ size. -->
 
 
 
+<!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
+     where normally a username would be displayed. In this case, no username was found, and this placeholder
+     contains brackets to indicate this is not actually a username, but rather a placeholder -->
+
+<!ENTITY doorhanger_login_edit_username_hint "Erinya ly\u0027okozesa">
 
 
 
-<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+
+
+
+
+
+
+
+
+<!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
+
+
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -293,32 +375,42 @@ size. -->
 <!ENTITY bookmark_edit_keyword "Ekigambo ekikulu">
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
-<!ENTITY site_settings_cancel       "Sazaamu">
+
 
 <!ENTITY site_settings_no_settings  "Tewali entegeka zakujjawo.">
+<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+     as possible. -->
+<!ENTITY reading_list_removed "Omuko gujjiddwa ku Lukalala lwo Olwebyokusooma">
+<!-- Localization note (reading_list_remove) : Used to remove the currently open page from
+     the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
 
-<!ENTITY reading_list_added "Omuko gwongeddwa ku Lukalala lwo Olwebyokusooma">
-
+<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
+     panel on the home page to give the user an estimate of how many minutes it will take to
+     read an article. The word "minute" should be abbreviated if possible. -->
 
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
 <!ENTITY masterpassword_create_title "Tonda Akasumulizo Akagula Woona">
 <!ENTITY masterpassword_remove_title "Gjamu Akasumulizo Akakuu">
-<!ENTITY masterpassword_password "Ekisumuluzo">
+
 <!ENTITY masterpassword_confirm "Kakasa akasumuluzo">
 
 <!ENTITY button_ok "OK">
-<!ENTITY button_cancel "Sazaamu">
+
 <!ENTITY button_yes "Yee">
 <!ENTITY button_no "Nedda">
 
 
 
+<!ENTITY button_copy "Koppa">
+
 
 <!ENTITY home_top_sites_title "Ebibanja Ebyawagulu">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!-- Localization note (home_title): This string should be kept in sync
+     with the page title defined in aboutHome.dtd -->
 
 
 
@@ -328,6 +420,8 @@ size. -->
 
 
 
+<!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
+     The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -340,12 +434,27 @@ size. -->
 <!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
 
-<!ENTITY private_browsing_title "Okunoonya Okutongozeddwa">
+<!ENTITY home_remote_tabs_title "Awaddirira Awatusiddwa">
+
+<!ENTITY home_remote_tabs_unable_to_connect "Tekisobose kuyungibwa">
 
 
 
 
-<!ENTITY filepicker_title "Londa Fayiro">
+
+<!-- Localization note (home_remote_tabs_many_hidden_devices) : The
+     formatD is replaced with the number of hidden devices.  The
+     number of hidden devices is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
+     title of a dialog; we expect more than one device. -->
+<!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
+     the text of a button; we expect more than one device. -->
+
+
+
+
+
 <!ENTITY filepicker_audio_title "Londa oba kwata edoboozi">
 <!ENTITY filepicker_image_title "Londa oba kuba ekifaananyi">
 <!ENTITY filepicker_video_title "Londa oba kwa olutambi">
@@ -364,8 +473,17 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "kiddukanyizibwa">
+<!ENTITY identity_no_info "Ekibanja kino tekiwa bubaka bukikwata ko.">
+<!ENTITY identity_not_encrypted "Okuyungibwakwo ku nfo eno tekukwekeddwa.">
+<!ENTITY identity_encrypted "Kikwekeddwa">
 <!-- Mixed content notifications in site identity popup -->
 
+
+<!-- Tracking content notifications in site identity popup -->
+
+
+
+<!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "Manya Ebisingawo">
 
@@ -380,10 +498,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY bookmarkhistory_import_wait "Nsaba olindeeko...">
 
+<!--  Localization note (search_bar_item_desc): When the user clicks the url bar
+      and starts typing, a list of icons of search engines appears at the bottom
+      of the screen. When a user clicks an icon, the entered text will be searched
+      via the search engine that uses the icon they clicked. This text is used
+      for screen reader users when they hover each icon - &formatS; will be
+      replaced with the name of the currently highlighted icon. -->
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
-
 
 
 <!-- Updater notifications -->
@@ -403,12 +526,26 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
+
+
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
-<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+
+<!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
+     display a percentage value. formatS is the number, #37 is the code to display a percent sign.
+     This format string is typically used by getString method, in such method the percent sign
+     is a reserved caracter. In order to display one percent sign in the result of getString,
+     double percent signs must be inserted in the format string.
+     This entity is used in the zoomed view to display the zoom factor-->
+<!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
+
+<!-- Voice search in the awesome bar -->
+
+
+
 
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
@@ -416,3 +553,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
+<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!-- Find-In-Page strings -->
+<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
+     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
+

@@ -49,7 +49,7 @@
 
 
 
-#define bookmarks_addons Firefox: Tegeka ne’ebyongerwako
+#define bookmarks_addons Firefox: Tegeka ne'ebyongerwako
 
 
 

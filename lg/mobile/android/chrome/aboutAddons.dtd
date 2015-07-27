@@ -6,8 +6,9 @@
 <!ENTITY aboutAddons.header2                    "Ebyongerwako Byo">
 <!ENTITY aboutAddons.options                    "Okweroboza">
 
-
 <!ENTITY addonAction.enable                     "Sobozesa">
 <!ENTITY addonAction.disable                    "Jjako">
 <!ENTITY addonAction.uninstall                  "Jjamu">
 <!ENTITY addonAction.undo                       "Ddayo">
+
+<!ENTITY addonUnsigned.learnMore                "Manya ebisingawo">
