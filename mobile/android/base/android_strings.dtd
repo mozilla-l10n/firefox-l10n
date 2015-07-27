@@ -293,7 +293,7 @@ size. -->
 <!ENTITY datareporting_notification_action_long "নির্বাচন করুন কি তথ্য শেয়ার করবেন">
 <!ENTITY datareporting_notification_action "নির্বাচন করুন কি শেয়ার করবেন">
 <!ENTITY datareporting_notification_summary "আপনার অভিজ্ঞতা উন্নত করার জন্য &brandShortName; &vendorShortName; -কে স্বয়ংক্রিয়ভাবে কিছু তথ্য প্রেরণ করবে।">
-<!ENTITY datareporting_notification_summary_short "আপনার অভিজ্ঞতা উন্নত করতে, &amp; brandShortName;…">
+<!ENTITY datareporting_notification_summary_short "আপনার অভিজ্ঞতা উন্নত করতে, &brandShortName;…">
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
@@ -516,8 +516,8 @@ size. -->
      the text of a button; we expect more than one device. -->
 
 <!ENTITY remote_tabs_panel_moved_title "আমার ট্যাব কোথায় গিয়েছিলে?">
-
-
+<!ENTITY remote_tabs_panel_moved_desc "আমরা অন্যান্য ডিভাইস থেকে আপনার ট্যাবগুলো আপনার হোম পেজের একটি প্যানেলের মধ্যে স্থানান্তরিত করেছি যা সহজেই একটি নতুন ট্যাব খোলার সময় ব্যবহার করা যাবে।">
+<!ENTITY remote_tabs_panel_moved_link "আমাকে আমার নতুন প্যানেলে নিয়ে যান।">
 
 
 <!ENTITY filepicker_title "ফাইল নির্বাচন করুন">
@@ -539,22 +539,26 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "উপরোক্ত সাইটটির পরিচালক">
-
-
+<!ENTITY identity_no_info "এই ওয়েবসাইটে পরিচয় তথ্য সরবরাহ করা হয় না।">
+<!ENTITY identity_not_encrypted "এই ওয়েবসাইটে আপনার কানেকশন এনক্রিপ্ট হয় নি।">
 <!ENTITY identity_encrypted "এনক্রিপ্ট করা হয়েছে">
 <!-- Mixed content notifications in site identity popup -->
 
-
+<!ENTITY loaded_mixed_content_message "এই পৃষ্ঠাটি এমন কন্টেন্ট প্রদর্শন করছে যা সুরক্ষিত নয়।">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; বিপজ্জনক সামগ্রী প্রতিরোধ করেছে।">
+<!ENTITY blocked_mixed_content_message_bottom "এই বিষয়বস্তু আটকানো থাকা সত্বেও অধিকাংশ ওয়েবসাইট সঠিকভাবে কাজ করবে।">
 <!-- Tracking content notifications in site identity popup -->
 
-
-
+<!ENTITY loaded_tracking_content_message_top "ট্র্যাকিং সুরক্ষা নিষ্ক্রিয়।">
+<!ENTITY loaded_tracking_content_message_bottom "এই পৃষ্ঠার অংশ আপনার অনলাইন কার্যকলাপ ট্র্যাক করতে পারে।">
+<!ENTITY blocked_tracking_content_message_top2 "ট্র্যাকিং সুরক্ষা সক্রিয়।">
+<!ENTITY blocked_tracking_content_message_bottom2 "আপনার অনলাইন কার্যকলাপ ট্র্যাক যে পৃষ্ঠার অংশ তা ব্লক হয়েছে।">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "আরও জানুন">
-
-
-
+<!ENTITY enable_protection "সুরক্ষা সক্রিয় করুন">
+<!ENTITY disable_protection "সুরক্ষা নিষ্ক্রিয় করুন">
+<!ENTITY keep_blocking "প্রতিরোধ করে রাখা হোক">
 
 <!ENTITY private_data_success "ব্যক্তিগত তথ্য পরিষ্কার করা হয়েছে">
 <!ENTITY private_data_fail "কিছু ব্যক্তিগত তথ্য পরিষ্কার করা যায়নি">
@@ -575,6 +579,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
       via the search engine that uses the icon they clicked. This text is used
       for screen reader users when they hover each icon - &formatS; will be
       replaced with the name of the currently highlighted icon. -->
+<!ENTITY search_bar_item_desc "&formatS; দ্বারা অনুসন্ধান করুন">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
@@ -596,14 +601,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_apply_select2 "হালনাগাদের জন্য স্পর্শ করুন">
 <!-- Guest mode -->
 
+<!ENTITY new_guest_session "নতুন গেস্ট সেশন">
+<!ENTITY exit_guest_session "গেস্ট সেশন থেকে প্রস্থান করুন">
 <!ENTITY guest_session_dialog_continue "চালিয়ে যান">
 <!ENTITY guest_session_dialog_cancel "বাতিল">
+<!ENTITY new_guest_session_title "&brandShortName; এখন পুনরায় চালু হবে">
+<!ENTITY new_guest_session_text2 "যে ব্যাক্তি এটি ব্যবহার করছে সে আপনার ব্যক্তিগত ব্রাউজিং ডেটা দেখতে পারবে না (যেমন সংরক্ষিত লগইন, ইতিহাস বা বুকমার্কসমূহ)।\n\nযখন তার সম্পন্ন হবে, তার ব্রাউজিং তথ্য মুছে যাবে এবং আপনার সেশন পুনরুদ্ধার করা হবে।">
+<!ENTITY guest_browsing_notification_title "অতিথি ব্রাউজিং সক্রিয় করা আছে">
 
 
-
-
-
-
+<!ENTITY exit_guest_session_title "&brandShortName; এখন পুনরায় চালু হবে">
+<!ENTITY exit_guest_session_text "এই সেশন থেকে ব্রাউজিং ডেটা মুছে ফেলা হবে।">
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
@@ -641,6 +649,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY remote_tabs_last_synced "সর্বশেষ সিঙ্ক হয়েছে: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "শেষ বার সিঙ্ক হয়েছে:কখনও না">
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->

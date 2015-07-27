@@ -3,10 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY privatebrowsingpage.title "একান্ত ব্রাউজিং">
+<!ENTITY privatebrowsingpage.title.normal "আপনি ব্যাক্তিগত ব্রাউজিং এ নেই">
 
+<!ENTITY privatebrowsingpage.issueDesc.normal2 "ব্যাক্তিগত ব্রাউজিং এ, আমরা আপনার কোন ব্রাউজিং ইতিহাস বা কুকি রেখে দিই না।">
+<!ENTITY privatebrowsingpage.issueDesc.private2 "আমরা আপনার কোন ব্রাউজিং ইতিহাস বা কুকি রেখে দিই না।">
 
-
-
+<!ENTITY privatebrowsingpage.description2 "যেই বুকমার্ক গুলি আপনি অ্যাড করেন এবং যেই ফাইল গুলি আপনি ডাউনলোড করেন সেগুলি আপনার ডিভাইসে সংরক্ষিত থাকবে।">
 <!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
 <!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
 

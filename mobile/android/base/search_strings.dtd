@@ -6,17 +6,25 @@
 <!--  Localization note (search_bar_hint): The &formatS; will be replaced with the name of
       the currently selected search engine. -->
 
+<!ENTITY search_bar_hint "&formatS; দ্বারা অনুসন্ধান করুন">
 
+<!ENTITY search_empty_title2 "অনুসন্ধান শুরু করুন">
+<!ENTITY search_empty_message "যেকোনো কিছু খুজে পেতে দ্রুত অনুসন্ধান করুন">
 <!--  Localization note (search_plus_content_description): This is the content description
       for the "+" icon that appears at the end of search suggestions. -->
+
+<!ENTITY search_plus_content_description "অনুসন্ধান বারে যুক্ত করুন">
 
 <!ENTITY search_pref_title "সেটিং">
 <!ENTITY search_pref_button_content_description "সেটিং">
 
+<!ENTITY pref_clearHistory_confirmation "ইতিহাস মুছে ফেলা হয়েছে">
+<!ENTITY pref_clearHistory_dialogMessage "এই ডিভাইস থেকে সকল ইতিহাস মুছে ফেলা হবে কি?">
+<!ENTITY pref_clearHistory_title "অনুসন্ধানের ইতিহাস সাফ করুন">
 
-
-
+<!ENTITY pref_searchProvider_title "সার্চ ইঞ্জিন">
 
 <!ENTITY search_widget_button_label "অনুসন্ধান">
 
-
+<!ENTITY network_error_title "ইন্টারনেট সংযোগ নেই">
+<!ENTITY network_error_message "আপনার নেটওয়ার্ক সেটিংস চেক করতে এখানে চাপ দিন">
