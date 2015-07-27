@@ -11,4 +11,5 @@
 <!ENTITY addonAction.uninstall                  "আনইনস্টল">
 <!ENTITY addonAction.undo                       "পূর্বাবস্থায় ফিরিয়ে আনা হবে">
 
+<!ENTITY addonUnsigned.message                  "&brandShortName; দ্বারা এই অ্যাড অন টি কে যাচাই করা যায় নি।">
 <!ENTITY addonUnsigned.learnMore                "আরও জানুন">

@@ -205,23 +205,27 @@
 
 
 
-
+<!ENTITY fxaccount_status_needs_finish_migrating "আপনার নতুন Firefox অ্যাকাউন্টে সাইন ইন করবার জন্য ট্যাপ করুন।">
 <!ENTITY fxaccount_status_bookmarks "বুকমার্ক">
 <!ENTITY fxaccount_status_history "ইতিহাস">
 <!ENTITY fxaccount_status_passwords2 "লগইন">
-
-
+<!ENTITY fxaccount_status_tabs "উন্মুক্ত ট্যাবগুলি">
+<!ENTITY fxaccount_status_legal "আইনগত" >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
+<!ENTITY fxaccount_status_linktos "পরিসেবার নিয়মাবলী">
 <!ENTITY fxaccount_status_linkprivacy "গোপনীয়তা নীতিমালা">
+<!ENTITY fxaccount_status_more "More&ellipsis;">
 
-
-
+<!ENTITY fxaccount_remove_account_dialog_title "ফায়ারফক্স অ্যাকাউন্ট মুছে ফেলবেন?">
+<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; আপনার অ্যাকাউন্টের সাথে সিঙ্ক করা বন্ধ করবে, কিন্তু এই ডিভাইসে আপনার ব্রাউজিং ডেটা মুছে ফেলবে না।">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast "ফায়ারফক্স অ্যাকাউন্ট &formatS; মুছে ফেলা হয়েছে।">
 
+<!ENTITY fxaccount_remove_account_menu_item "অ্যাকাউন্ট মুছে ফেলুন">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 
@@ -237,18 +241,26 @@
 <!-- Localization note: these error messages are shown after a request
      has been made to the remote server, and an error of some type has
      been returned. -->
+
+<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "আপনাকে ফায়ারফক্স আপগ্রেড করতে হবে">
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
 
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "এই অ্যাকাউন্টটি আগে থেকেই আছে &formatS1;">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "ইমেল অথবা পাসওয়ার্ড বৈধ নয়">
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "ইমেল অথবা পাসওয়ার্ড বৈধ নয়">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "অ্যাকাউন্ট যাচাই করা হয়নি">
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "সার্ভার ব্যস্ত, শীঘ্রই আবার চেস্টা করুন">
+<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "সার্ভার ব্যস্ত, শীঘ্রই আবার চেস্টা করুন">
+<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "একটি সমস্যা আছে">
+<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "নেটওয়ার্ক এর সাথে কানেক্ট করা যাচ্ছে না">
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "অ্যাকাউন্ট লক হয়ে গেছে। &formatS1;">
 
-
-
-
-
-
-
-
+<!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; সযুক্ত নয়">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "&formatS; রূপে সাইন ইন করতে ট্যাপ করুন">
 
+<!ENTITY fxaccount_sync_finish_migrating_notification_title "&syncBrand.shortName.label; আপগ্রেড করা শেষ?">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text "&formatS; রূপে সাইন ইন করতে ট্যাপ করুন">
