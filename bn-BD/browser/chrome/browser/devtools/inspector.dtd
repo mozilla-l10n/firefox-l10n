@@ -25,10 +25,14 @@
      in the inspector contextual-menu for the item that lets users paste outer
      HTML in the current node -->
 
+<!ENTITY inspectorHTMLPasteOuter.label      "অাউটার HTML পেস্ট করুন P">
+<!ENTITY inspectorHTMLPasteOuter.accesskey  "P">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteInner.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste inner
      HTML in the current node -->
 
+<!ENTITY inspectorHTMLPasteInner.label      "ইনার HTML পেস্ট করুন n">
+<!ENTITY inspectorHTMLPasteInner.accesskey  "n">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteExtraSubmenu.label): This is the label
      shown in the inspector contextual-menu for the sub-menu of the other Paste
      items, which allow to paste HTML:
@@ -37,14 +41,20 @@
      - as the first child of the current node
      - as the last child of the current node -->
 
+<!ENTITY inspectorHTMLPasteExtraSubmenu.label      "পেস্ট t...">
+<!ENTITY inspectorHTMLPasteExtraSubmenu.accesskey  "t">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteBefore.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste
      the HTML before the current node -->
 
+<!ENTITY inspectorHTMLPasteBefore.label      "পূর্বে B">
+<!ENTITY inspectorHTMLPasteBefore.accesskey  "B">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteAfter.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste
      the HTML after the current node -->
 
+<!ENTITY inspectorHTMLPasteAfter.label       "পরে A">
+<!ENTITY inspectorHTMLPasteAfter.accesskey   "A">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteFirstChild.label): This is the label
      shown in the inspector contextual-menu for the item that lets users paste
      the HTML as the first child the current node -->
