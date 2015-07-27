@@ -77,7 +77,7 @@
 <p>Öz saytlarının səhv olaraq hücum saytı kimi göstərildiyini düşünən sayt sahibləri <a href='http://www.stopbadware.org/home/reviewinfo' >yenidən yoxlama istəyi</a> göndərə bilərlər.</p>">
 
 <!ENTITY unwantedBlocked.title "İstənməyən Proqram Saytı Təhlükəsi!">
-
+<!ENTITY unwantedBlocked.longDesc "<p>İstənməyən proqram səhifələri aldadıcı ola biləcək və ya sisteminizi gözlənilməz şəkildə dəyişdirəcək proqramlar qurmağa çalışırlar.</p>">
 
 <!ENTITY phishingBlocked.title "Saxtakarlıq şübhəsi!">
 <!ENTITY phishingBlocked.longDesc "<p>Bu səhifədə daxil edilən şəxsi məlumatlar, şəxsiyyət oğurluğuna ya da başqa növ fırıldaqçılıq məsədi ilə istifadə oluna bilər.</p> 
