@@ -65,6 +65,7 @@
 <!ENTITY largerFont.label             "व्हडले अक्षरसंच">
 <!ENTITY largerFont.accesskey         "a">
 <!ENTITY largerFont.commandkey        "+">
+<!-- + is above this key on many keyboards -->
 
 <!ENTITY smallerFont.label            "ल्हान अक्षरसंच">
 <!ENTITY smallerFont.accesskey        "m">

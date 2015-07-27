@@ -9,15 +9,6 @@
 <!ENTITY paperInput.label "कागदाचो आकार:">
 <!ENTITY paperInput.accesskey "P">
 
-<!ENTITY plexInput.label "प्लेक्स माध्यम:">
-<!ENTITY plexInput.accesskey "m">
-
-<!ENTITY resolutionInput.label "निर्धारण/गुणवत्ता:">
-<!ENTITY resolutionInput.accesskey "e">
-
-<!ENTITY cmdInput.label "छापपाचो आदेश:">
-<!ENTITY cmdInput.accesskey "o">
-
 <!ENTITY jobTitleInput.label "कामाचे नाव:">
 <!ENTITY jobTitleInput.accesskey "J">
 
@@ -26,13 +17,6 @@
 <!ENTITY grayRadio.accesskey "G">
 <!ENTITY colorRadio.label "रंग">
 <!ENTITY colorRadio.accesskey "C">
-
-<!ENTITY colorspaceInput.label "कलरस्पेस:">
-<!ENTITY colorspaceInput.accesskey "s">
-
-<!ENTITY fontsGroup.label "अक्षरसंच:">
-<!ENTITY downloadFonts.label "मुद्रकाक अक्षरसंच डावनलोड करुया?">
-<!ENTITY downloadFonts.accesskey "D">
 
 <!ENTITY edgeMarginInput.label "कागदाच्या कडेकसावन समासामेरेनचे अंतर">
 <!ENTITY topInput.label "वयर:">

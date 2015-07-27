@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY newprofile.title             "प्रोफाइल विझार्ड निर्मणी करात">
-<!ENTITY window.size                  "रूंदाय: 45em; उंचाय: 32em;">
+<!ENTITY window.size                  "width: 45em; height: 32em;">
 <!-- First wizard page -->
 
 <!ENTITY profileCreationExplanation_1.text  "&brandShortName; तुमच्या स्थापितां आणि प्राधान्यांविशीं माहिती खाजगी प्रोफायलान साठयता.">

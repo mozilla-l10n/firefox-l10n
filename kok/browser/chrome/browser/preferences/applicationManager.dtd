@@ -3,6 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY appManager.title     "अनुप्रयोग तपशील">
-<!ENTITY appManager.style     "रूंदाय: 30em; किमान-उंचाय: 20em;">
+<!ENTITY appManager.style     "width: 30em; min-height: 20em;">
 <!ENTITY remove.label         "काडात">
 <!ENTITY remove.accesskey     "R">

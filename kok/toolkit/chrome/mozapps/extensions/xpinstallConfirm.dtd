@@ -5,7 +5,7 @@
 
 
 <!ENTITY dialog.title            "सॉफ्टवेर प्रतिष्ठापन">
-<!ENTITY dialog.style            "रुंदायः 45em">
+<!ENTITY dialog.style            "width: 45em">
 <!ENTITY warningPrimary.label    "तुमी विस्वास दवरतात त्याच लेखकांचे ऍड-ऑन्स स्थापीत करचे.">
 <!ENTITY warningSecondary.label  "द्वेषी सॉफ्टवेर तुमच्या संगणकाचे लुकसाण करपाक शकता वा तुमचे प्रायव्हसीचे उल्लंघन करपाक शकता.">
 

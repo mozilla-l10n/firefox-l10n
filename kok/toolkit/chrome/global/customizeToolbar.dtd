@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY dialog.title             "सादनपट्टी  थारायात">
-<!ENTITY dialog.dimensions        "रूंदाय: 92ch; उंचाय: 36em;">
+<!ENTITY dialog.dimensions        "width: 92ch; height: 36em;">
 <!ENTITY instructions.description "तुमच्यान सादनपट्टेतल्यो वस्ती  उखलून जोडू वा काडू येता. ">
 <!ENTITY show.label               "दाखयात:">
 <!ENTITY iconsAndText.label       "चिन्ना आनिक मजकुर">

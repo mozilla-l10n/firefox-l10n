@@ -4,11 +4,22 @@
 
 <!ENTITY aboutTelemetry.pageTitle "टेलिमेट्री डेटा">
 
-<!ENTITY aboutTelemetry.telemetryEnabled "  टेलिमेट्री <span>सक्षम</span> केल्या.">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "  टेलिमेट्री <span>अक्षम</span> केल्या.">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutTelemetry.generalDataSection "  सर्वसादारण डेटा">
+
 
 
 <!ENTITY aboutTelemetry.slowSqlSection "  ल्हव SQL स्टेटमेंट्स">
