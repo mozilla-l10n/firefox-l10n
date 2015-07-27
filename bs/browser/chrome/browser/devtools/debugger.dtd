@@ -34,10 +34,16 @@
 <!ENTITY debuggerUI.optsButton.tooltip  "Opcije debuggera">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.blackBoxTooltip): This is the tooltip
   -  for the button that black boxes the selected source. -->
+
+<!ENTITY debuggerUI.sources.blackBoxTooltip "Uključi/isključi black boxing">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.prettyPrint): This is the tooltip for the
   -  button that pretty prints the selected source. -->
+
+<!ENTITY debuggerUI.sources.prettyPrint "Ulijepšaj izvorni kod">
 <!-- LOCALIZATION NOTE (debuggerUI.autoPrettyPrint): This is the label for the
   -  checkbox that toggles auto pretty print. -->
+
+<!ENTITY debuggerUI.autoPrettyPrint     "Automatski uljepšaj umanjene izvore">
 <!ENTITY debuggerUI.autoPrettyPrint.accesskey "P">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.toggleBreakpoints): This is the tooltip for the
   -  button that toggles all breakpoints for all sources. -->
@@ -62,6 +68,8 @@
 <!ENTITY debuggerUI.pauseExceptions.accesskey "i">
 <!-- LOCALIZATION NOTE (debuggerUI.ignoreCaughtExceptions): This is the label for the
   -  checkbox that toggles ignoring caught exceptions. -->
+
+<!ENTITY debuggerUI.ignoreCaughtExceptions           "Ignoriraj uhvaćene izuzetke">
 <!ENTITY debuggerUI.ignoreCaughtExceptions.accesskey "C">
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
   -  checkbox that toggles visibility of panes when opening the debugger. -->
@@ -89,6 +97,8 @@
 <!-- LOCALIZATION NOTE (debuggerUI.autoBlackBox): This is the label for
   -  the checkbox that toggles whether sources that we suspect are minified are
   -  automatically black boxed or not. -->
+
+<!ENTITY debuggerUI.autoBlackBox           "Automatski dodaj smanjene izvore u black box">
 <!ENTITY debuggerUI.autoBlackBox.accesskey "B">
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
   -  appears in the filter panel popup as a header for the operators part. -->
@@ -158,7 +168,7 @@
 <!ENTITY debuggerUI.tabs.workers        "Radnici">
 <!ENTITY debuggerUI.tabs.sources        "Izvori">
 <!ENTITY debuggerUI.tabs.traces         "Praćenja">
-
+<!ENTITY debuggerUI.tabs.callstack      "Stack poziva">
 <!ENTITY debuggerUI.tabs.variables      "Varijable">
 <!ENTITY debuggerUI.tabs.events         "Događaji">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that

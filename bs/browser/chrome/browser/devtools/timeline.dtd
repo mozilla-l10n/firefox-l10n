@@ -10,6 +10,10 @@
   - documentation on web development on the web. -->
 <!-- LOCALIZATION NOTE (timelineUI.recordButton): This string is displayed
   -  on a button that starts a new recording. -->
+
+
+
+<!ENTITY timelineUI.recordButton.tooltip "Snimi operacije vremenske skale">
 <!-- LOCALIZATION NOTE (timelineUI.recordLabel): This string is displayed
   -  as a label to signal that a recording is in progress. -->
 
@@ -17,13 +21,23 @@
 <!-- LOCALIZATION NOTE (timelineUI.memoryCheckbox.label): This string
   -  is displayed next to a checkbox determining whether or not memory
   -  measurements are enabled. -->
+
+<!ENTITY timelineUI.memoryCheckbox.label "Memorija">
 <!-- LOCALIZATION NOTE (timelineUI.memoryCheckbox.tooltip): This string
   -  is displayed next to the memory checkbox -->
+
+<!ENTITY timelineUI.memoryCheckbox.tooltip "Omogući mjerenja memorije">
 <!-- LOCALIZATION NOTE (timelineUI.filterButton.tooltip): This string
   -  is displayed next to the filter button-->
+
+<!ENTITY timelineUI.filterButton.tooltip "Izaberite podatke koji će biti prikazani">
 <!-- LOCALIZATION NOTE (timelineUI.emptyNotice1/2): This is the label shown
   -  in the timeline view when empty. -->
 
+<!ENTITY timelineUI.emptyNotice1    "Kliknite na">
+<!ENTITY timelineUI.emptyNotice2    "dugme da biste započeli snimanje događaja vremenske skale.">
 <!-- LOCALIZATION NOTE (timelineUI.stopNotice1/2): This is the label shown
   -  in the timeline view while recording. -->
 
+<!ENTITY timelineUI.stopNotice1    "Kliknite na">
+<!ENTITY timelineUI.stopNotice2    "dugme još jednom za prekid snimanja.">

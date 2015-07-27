@@ -24,16 +24,16 @@
 <!ENTITY device.privileged "Privilegovano">
 <!ENTITY device.certified "Certificirano">
 <!ENTITY device.allow "Dozvoli">
-
+<!ENTITY device.allowTooltip "Ovo dopuštenje je omogućeno za aplikacije ovakve vrste">
 <!ENTITY device.prompt "Prompt">
-
+<!ENTITY device.promptTooltip "Ovo dopuštenje zahtijeva odluku korisnika za aplikacije ovakve vrste">
 <!ENTITY device.deny "Odbij">
-
+<!ENTITY device.denyTooltip "Ovo dopuštenje je odbijeno za aplikacije ovakve vrste">
 <!ENTITY device.installedApps "Instalirane aplikacije">
-
-
-
-
+<!ENTITY device.installedAppsTooltip "Pogledajte listu aplikacija instaliranih na uređaju. Neke aplikacije, poput onih certificiranih, ne se moraju nalaziti na listi.">
+<!ENTITY device.permissions "Dopuštenja">
+<!ENTITY device.permissionsTooltip "Pogledajte tablicu dostupnih dopuštenja za različite vrste aplikacija.">
+<!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
 <!ENTITY device.browserTabs "Tabovi browsera">
 <!ENTITY device.browserTabsTooltip "Pogledajtu listu tabova u browseru povezanog uređaja">
 <!ENTITY device.debugBrowserTab "Debagiranje">
@@ -47,16 +47,16 @@
 <!ENTITY connection.connectTo "Poveži na:">
 <!ENTITY connection.noDeviceFound "Uređaj nije pronađen. Povežite uređaj.">
 <!ENTITY connection.changeHostAndPort "Promijeni">
-
+<!ENTITY connection.changeHostAndPortTooltip "Promijenite adresu i port hosta koji se koristi za povezivanje na uređaj (izvorno, to je localhost:6000).">
 <!ENTITY connection.startSimulator "Pokreni simulator">
 <!ENTITY connection.startSimulatorTooltip "Pokreni instancu simulatora i poveži se na njega">
 <!ENTITY connection.saveConnectionInfo "Spasi">
-
+<!ENTITY connection.saveConnectionInfoTooltip "Spasi host i port">
 <!ENTITY connection.connecting "Povezivanje…">
 <!ENTITY connection.disconnecting "Prekidam vezu…">
 <!ENTITY connection.cancel "Otkaži">
-
-
+<!ENTITY connection.cancelConnectTooltip "Otkaži vezu u toku">
+<!ENTITY connection.cancelShowSimulatorTooltip "Napusti režim uspostavljanja veze Simulatora i vrati se na inicijalni prompt">
 <!ENTITY connection.or "ili">
 <!ENTITY connection.noSimulatorInstalled "Simulator nije instaliran.">
 <!ENTITY connection.installOneSimulator "Instaliraj simulator">
@@ -75,7 +75,7 @@
 <!ENTITY projects.appDetails "Detalji aplikacije">
 <!ENTITY projects.removeAppFromList "Uklonite ovu aplikaciju s liste aplikacije na kojima radite. Ovo je neće ukloniti sa uređaja ili simulatora.">
 <!ENTITY projects.updateApp "Nadogradi">
-
+<!ENTITY projects.updateAppTooltip "Izvršava provjere i nadograđuje aplikaciju na povezanom uređaju">
 <!ENTITY projects.debugApp "Debagiranje">
 <!ENTITY projects.debugAppTooltip "Otvori razvojne alate povezane na ovu aplikaciju">
 <!ENTITY projects.saveManifest "Spasi">
@@ -83,9 +83,9 @@
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "Nema projekata. Dodajte novu zapakovanu aplikaciju (lokalni direktorij) ili hostanu aplikaciju (link na manifest fajl).">
 <!ENTITY projects.manifestEditor "Manifest Editor">
-
+<!ENTITY projects.manifestEditorTooltip "Uredite manifest svoje aplikacije u okviru ispod. Dugme ažuriraj će spremiti promjene i nadograditi aplikaciju.">
 <!ENTITY projects.manifestViewer "Manifest preglednik">
-
+<!ENTITY projects.manifestViewerTooltip "Ispitajte manifest svoje aplikacije u okviru ispod">
 <!ENTITY projects.valid "Važeći">
 <!ENTITY projects.error "Greška">
 <!ENTITY projects.warning "Upozorenje">
