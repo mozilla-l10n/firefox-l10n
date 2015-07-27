@@ -1,12 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-
 <!-- LOCALIZATION NOTE (downloads.title):
      Used by screen readers to describe the Downloads Panel.
      -->
-<!ENTITY downloads.title                  "ჩამოტვირთვები">
-
 <!-- LOCALIZATION NOTE (downloadDetails.width):
      Width of details for a Downloads Panel item (which directly influences the
      width of the Downloads Panel) expressed using a CSS unit. The longest
@@ -23,8 +20,6 @@
 
      That's 50 characters, so we set the width at 50ch.
      -->
-<!ENTITY downloadDetails.width            "50ch">
-
 <!-- LOCALIZATION NOTE (downloadsSummary.minWidth2):
      Minimum width for the main description of the downloads summary,
      which is displayed at the bottom of the Downloads Panel if the
@@ -38,9 +33,8 @@
 
      that's 21 characters, so we set the minimum width to 21ch.
      -->
-<!ENTITY downloadsSummary.minWidth2       "21ch">
 
-<!ENTITY cmd.pause.label                  "შეჩერება">
+<!ENTITY cmd.pause.label                  "პაუზა">
 <!ENTITY cmd.pause.accesskey              "P">
 <!ENTITY cmd.resume.label                 "დასრულება">
 <!ENTITY cmd.resume.accesskey             "R">
@@ -51,41 +45,58 @@
      The show and showMac commands are never shown together, thus they can share
      the same access key (though the two access keys can also be different).
      -->
-<!ENTITY cmd.show.label                   "გამოტვირთვის დასტის გახსნა">
+<!ENTITY cmd.show.label                   "დასტის გახსნა">
 <!ENTITY cmd.show.accesskey               "F">
-<!ENTITY cmd.showMac.label                "ჩვენება საძიებელში">
-<!ENTITY cmd.showMac.accesskey            "F">
-<!ENTITY cmd.retry.label                  "ხელახლა">
-<!ENTITY cmd.goToDownloadPage.label       "გადასვლა ჩამოტვირთვის გვერდზე">
-<!ENTITY cmd.goToDownloadPage.accesskey   "G">
-<!ENTITY cmd.copyDownloadLink.label       "გამოტვირთვის ბმის ასლი">
-<!ENTITY cmd.copyDownloadLink.accesskey   "L">
-<!ENTITY cmd.removeFromHistory.label      "ამოღება ისტორიიდან">
-<!ENTITY cmd.removeFromHistory.accesskey  "e">
-<!ENTITY cmd.clearList.label              "სიის გასუფთავება">
-<!ENTITY cmd.clearList.accesskey          "a">
-<!ENTITY cmd.clearDownloads.label         "ჩამოტვირთვების გასუფთავება">
-<!ENTITY cmd.clearDownloads.accesskey     "D">
 
+
+
+
+
+<!ENTITY cmd.copyDownloadLink.label       "ჩამოტვირთვის ბმის კოპირება">
+<!ENTITY cmd.copyDownloadLink.accesskey   "L">
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (cmd.unblock.label):
+     This command may be shown in the context menu, as a menu button item, or as
+     a text link when malware or potentially unwanted downloads are blocked.
+     -->
+
+<!-- LOCALIZATION NOTE (cmd.removeFile.label):
+     This command may be shown in the context menu or as a menu button label
+     when malware or potentially unwanted downloads are blocked.
+     -->
+
+<!-- LOCALIZATION NOTE (blocked.label):
+     Shown as a tag before the file name for some types of blocked downloads.
+     Note: This string doesn't exist in the UI yet.  See bug 1053890.
+     -->
+<!-- LOCALIZATION NOTE (learnMore.label):
+     Shown as a text link for some types of blocked downloads, for example
+     malware, when there is an associated explanation page on the Mozilla site.
+     Note: This string doesn't exist in the UI yet.  See bug 1053890.
+     -->
+
+<!ENTITY learnMore.label                  "დაწვრილებით">
 <!-- LOCALIZATION NOTE (downloadsHistory.label, downloadsHistory.accesskey):
      This string is shown at the bottom of the Downloads Panel when all the
      downloads fit in the available space, or when there are no downloads in
      the panel at all.
      -->
-<!ENTITY downloadsHistory.label           "ყველა ჩამოტვირთვის ჩვენება">
-<!ENTITY downloadsHistory.accesskey       "S">
 
-<!ENTITY clearDownloadsButton.label       "ჩამოტვირთვების გასუფთავება">
-<!ENTITY clearDownloadsButton.tooltip     "გაასუფთავებს დასრულებულ, გაუქმებულ და არშემდგარ ჩამოტვირთვებს">
+
 
 <!-- LOCALIZATION NOTE (downloadsListEmpty.label):
      This string is shown when there are no items in the Downloads view, when it
      is displayed inside a browser tab.
      -->
-<!ENTITY downloadsListEmpty.label         "ჩამოტვირთვები არაა.">
-
+<!-- LOCALIZATION NOTE (downloadsPanelEmpty.label):
+     This string is shown when there are no items in the Downloads Panel.
+     -->
 <!-- LOCALIZATION NOTE (downloadsListNoMatch.label):
      This string is shown when some search terms are specified, but there are no
      results in the Downloads view.
      -->
-<!ENTITY downloadsListNoMatch.label       "მსგავსი ჩამოტვირთვები ვერ მოიძებნა.">

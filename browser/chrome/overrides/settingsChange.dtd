@@ -3,5 +3,5 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  settingsChangePreferences.label  "პარამეტრების შეცვლა შეგიძლიათ &brandShortName; პარამეტრების დაფაზე «პროგრამები».">
-<!ENTITY  settingsChangeOptions.label      "პარამეტრების შეცვლა შეგიძლიათ &brandShortName; პარამეტრების დაფაზე «პროგრამები».">
+<!ENTITY  settingsChangePreferences.label  "პარამეტრების შეცვლა &brandShortName; პარამეტრების პროგრამების დაფაზე შეიძლება.">
+<!ENTITY  settingsChangeOptions.label      "პარამეტრების შეცვლა &brandShortName; პარამეტრების პროგრამების დაფაზე შეიძლება.">

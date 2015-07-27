@@ -7,11 +7,12 @@
 <!ENTITY     cookiesonsystem.label          "თქვენს კომპიუტერში ინახება შემდეგი ნაჭდევები:">
 <!ENTITY     cookiename.label               "ნაჭდევის სახელი">
 <!ENTITY     cookiedomain.label             "საიტი"> 
-<!ENTITY     button.removecookies.label     "ნაჭდევების ამოღება">
-<!ENTITY     button.removecookie.label      "ნაჭდევის ამოღება">
-<!ENTITY     button.removecookie.accesskey  "R">
-<!ENTITY     button.removeallcookies.label  "ყველა ნაჭდევის ამოღება">
-<!ENTITY     button.removeallcookies.accesskey "A">
+<!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
+  The label associated with this accesskey can be found in 
+  preferences.properties as removeSelectedCookies.
+-->
+<!ENTITY     button.removeAllCookies.label "ყველას ამოღება">
+<!ENTITY     button.removeAllCookies.accesskey "A">
 
 <!ENTITY     props.name.label               "სახელი:">
 <!ENTITY     props.value.label              "შიგთავსი:">

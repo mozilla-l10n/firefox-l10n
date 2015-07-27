@@ -11,11 +11,11 @@
 <!ENTITY  noProxyTypeRadio.label        "პროქსის გარეშე">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
 <!ENTITY  systemTypeRadio.label         "სისტემური პროქსის პარამეტრებით სარგებლობა">
-<!ENTITY  systemTypeRadio.accesskey     "u">
+<!ENTITY  systemTypeRadio.accesskey     "U">
 <!ENTITY  WPADTypeRadio.label           "პროქსის პარამეტრების ავტოდეტექცია ამ ქსელისთვის">
 <!ENTITY  WPADTypeRadio.accesskey       "w">
 <!ENTITY  manualTypeRadio.label         "პროქსის ხელით კონფიგურირება:">
-<!ENTITY  manualTypeRadio.accesskey     "m">
+<!ENTITY  manualTypeRadio.accesskey     "M">
 <!ENTITY  autoTypeRadio.label           "პროქსის ავტოკონფიგურირების მისამართი URL:">
 <!ENTITY  autoTypeRadio.accesskey       "A">
 <!ENTITY  reload.label                  "განახლება">
@@ -32,13 +32,18 @@
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
+
+
 <!ENTITY  port.label                    "პორტი:">
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
 <!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  noproxy.label                 "პროქსი არაა:">
-<!ENTITY  noproxy.accesskey             "n">
+<!ENTITY  noproxy.accesskey             "N">
 <!ENTITY  noproxyExplain.label          "მაგალითი: .mozilla.org, .gia.ge, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "ყველა ოქმისთვის ამ პროქსის გამოყენება">
 <!ENTITY  shareproxy.accesskey          "s">
+
+
+

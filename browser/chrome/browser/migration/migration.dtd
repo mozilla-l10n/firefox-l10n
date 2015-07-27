@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY migrationWizard.title          "იმპორტის მეგზური">
+<!ENTITY migrationWizard.title          "იმპორტი">
 
 <!ENTITY importFrom.label               "პარამეტრების, სანიშნეების, ისტორიის, პაროლებისა და სხვა მონაცემთა გადმოტანა:">
 <!ENTITY importFromUnix.label           "პარამეტრების, სანიშნეების, ისტორიის, პაროლებისა და სხვა მონაცემთა გადმოტანა:">
@@ -11,14 +11,16 @@
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
-<!ENTITY importFromNothing.label        "იმპორტის გარეშე">
+<!ENTITY importFromNothing.label        "არაფრის გადმოტანა">
 <!ENTITY importFromNothing.accesskey    "D">
 <!ENTITY importFromSafari.label         "Safari">
 <!ENTITY importFromSafari.accesskey     "S">
-<!ENTITY importFromChrome.label         "Chrome">
-<!ENTITY importFromChrome.accesskey     "C">
-<!ENTITY importFromFirefox.label        "Firefox">
-<!ENTITY importFromFirefox.accesskey    "X">
+
+
+
+
+
+
 
 <!ENTITY noMigrationSources.label       "ვერ მოიძებნა სანიშნეების, ისტორიის ან პაროლის მონაცემთა შემცველი პროგრამები.">
 

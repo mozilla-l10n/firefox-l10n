@@ -10,7 +10,10 @@
 <!ENTITY safeb.blocked.malwarePage.title "მოიერიშე გვერდის პატაკი!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "ეს ვებ გვერდი <span id='malware_sitename'/> ცნობილია როგორც მოიერიშე გვერდი და დაიბლოკა თქვენი უსაფრთხოების პარამეტრების თანახმად.">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>მოიერიშე გვერდები ცდილობენ ჩადგან პროგრამები, რომლითაც იპარავენ კერძო ინფორმაციას, იყენებენ თქვენს კომპიუტერს სხვების შესატევად ან აზიანებენ თქვენს სისტემას.</p><p>ზოგიერთი მოიერიშე გვერდი განზრახ ავრცელებს მავნე ინფორმაციას, თუმცა ბევრი სხვა ამას საიტის მფლობელის ნებართვის გარეშე ისე აკეთებს, რომ მფლობელი საქმის კურსში არაა.</p>">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>მოიერიშე გვერდები ცდილობენ ჩადგან პროგრამები, რომლითაც იპარავენ კერძო ინფორმაციას, იყენებენ თქვენს კომპიუტერს სხვების შასატევად ან აზიანებენ თქვენს სისტემას.</p><p>ზოგიერთი მოიერიშე გვერდი განზრახ ავრცელებს მავნე ინფორმაციას, თუმცა ბევრი სხვა ამას საიტის მფლობელის ნებართვის გარეშე ისე აკეთებს, რომ მფლობელი საქმის კურსში არაა.</p>">
+
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+
 
 <!ENTITY safeb.blocked.phishingPage.title "ვებ ყალთაბანდობის პატაკი!">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->

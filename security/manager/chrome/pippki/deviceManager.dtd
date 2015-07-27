@@ -6,16 +6,11 @@
 <!-- LOCALIZATION NOTE (devmgr.style): This is CSS style for Device Manager
      window size. Don't translate "width" nor "height". Adjust the numbers
      to make window contents fit. -->
-<!ENTITY devmgr.style                           "width: 64em; height: 32em;">
 
 <!ENTITY devmgr.devlist.label                   "უსაფრთხოების მოდულები და მოწყობილობები">
 <!ENTITY devmgr.details.title                   "დეტალები">
 <!ENTITY devmgr.details.title2                  "მნიშვნელობა">
-<!ENTITY devmgr.status.label                    "სტატუსი">
-<!ENTITY devmgr.version.label                   "ვერსია">
 
-<!ENTITY devmgr.button.changeslotname.label     "კაბინის სახელის შეცვლა">
-<!ENTITY devmgr.button.changeslotname.accesskey "C">
 <!ENTITY devmgr.button.login.label              "შესვლა">
 <!ENTITY devmgr.button.login.accesskey          "n">
 <!ENTITY devmgr.button.logout.label             "გამოსვლა">

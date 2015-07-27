@@ -10,9 +10,6 @@
 <!ENTITY certmgr.tab.ca                       "სააგენტოები">
 <!ENTITY certmgr.tab.orphan2                  "სხვა">
 
-<!ENTITY certmgr.ca.builtins                  "ჩადგმული სააგენტოები">
-<!ENTITY certmgr.ca.mycas                     "თქვენი სააგენტოები">
-
 <!ENTITY certmgr.mine                         "თქვენ გაქვთ თქვენი სერთიფიკატები ამ ორგანიზაციებიდან:">
 <!ENTITY certmgr.others                       "თქვენ გაქვთ სერთიფიკატები რომელიც ეხება შემდეგ პირებს:">
 <!ENTITY certmgr.websites2                    "თქვენ გაქვთ სერთიფიკატები რომელიც შემდეგ სერვერებს ეხება:">
@@ -27,43 +24,29 @@
 <!ENTITY certmgr.pending.label                "მიმდინარეობს სერთიფიკატების შემოწმება…">
 <!ENTITY certmgr.subjectinfo.label            "მფლობელი">
 <!ENTITY certmgr.issuerinfo.label             "გასცა">
-<!ENTITY certmgr.validity.label               "ძალმოსილება" >
+
 <!ENTITY certmgr.fingerprints.label           "თითის ანაბეჭდები">
 <!ENTITY certmgr.certdetail.title             "სერთიფიკატის დეტალები">
 <!ENTITY certmgr.certdetail.cn                "საერთო სახელი (CN)">
 <!ENTITY certmgr.certdetail.o                 "ორგანიზაცია (O)">
 <!ENTITY certmgr.certdetail.ou                "ორგანიზაციული ერთეული (OU)">
 <!ENTITY certmgr.certdetail.serialnumber      "სერიული ნომერი">
-<!ENTITY certmgr.certdetail.sha1fingerprint   "SHA1 თითის ანაბეჭდი">
-<!ENTITY certmgr.certdetail.md5fingerprint    "MD5 თითის ანაბეჭდი">
 
-<!ENTITY certmgr.editcert.title               "უსაფრთხოების სერთიფიკატის პარამეტრების ჩასწორება">
+<!ENTITY certmgr.certdetail.sha1fingerprint   "SHA1 თითის ანაბეჭდი">
+
 <!ENTITY certmgr.editcacert.title             "სერთიფიკატორების ნდობის პარამეტრების ჩასწორება">
-<!ENTITY certmgr.editsslcert.title            "ვებსაიტების სერთიფიკატის ნდობის პარამეტრების ჩასწორება">
 <!ENTITY certmgr.editcert.edittrust           "სერთიფიკატის ნდობის პარამეტრების ჩასწორება:">
-<!ENTITY certmgr.editcert.trustssl            "ამ სერთიფიკატით შესაძლებელია ვებსაიტების იდენტიფიცირება.">
+
 <!ENTITY certmgr.editcert.trustemail          "ამ სერთიფიკატით შესაძლებელია ელფოსტის კლიენტთა იდენტიფიცირება.">
 <!ENTITY certmgr.editcert.trustobjsign        "ამ სერთიფიკატით შესაძლებელია პროგრამების შემქმნელთა იდენტიფიცირება.">
-<!ENTITY certmgr.editsslcert.edittrust        "სერთიფიკატის ნდობის პარამეტრების ჩასწორება:">
-<!ENTITY certmgr.editsslcert.dotrust          "ამ სერთიფიკატის წარმომავლობის ნდობა.">
-<!ENTITY certmgr.editsslcert.donttrust        "ამ სერთიფიკატის წარმომავლობის უნდობლობა.">
-<!ENTITY certmgr.editemailcert.title          "წერილის სერთიფიკატის ნდობის პარამეტრების რედაქტირება">
-<!ENTITY certmgr.editemailcert.edittrust      "სერთიფიკატის ნდობის პარამეტრების რედაქტირება:">
-<!ENTITY certmgr.editemailcert.dotrust        "ამ სერთიფიკატის აუთენტურობის ნდობა.">
-<!ENTITY certmgr.editemailcert.donttrust      "ამ სერთიფიკატის აუთენტურობის უნდობლობა.">
 
 <!ENTITY certmgr.deletecert.title             "სერთიფიკატის წაშლა">
-<!ENTITY certmgr.deletecert.beforename        "თქვენ მოითხოვეთ ამ სერთიფიკატის წაშლა:">
-<!ENTITY certmgr.deletecert.aftername         "ნამდვილად გსურთ ამ სერთიფიკატის წაშლა?">
-<!ENTITY certmgr.deleteusercert.title         "თქვენი სერთიფიკატის წაშლა">
-<!ENTITY certmgr.deleteusercert.beforename    "თქვენ მოითხოვეთ სერთიფიკატის წაშლა:">
-<!ENTITY certmgr.deleteusercert.aftername     "ამ სერთიფიკატის წაშლის შემდეგ ვეღარ შეძლებთ ამ სერთიფიკატით დაშიფრული წერილების წაკითხვას.">
 
 <!ENTITY certmgr.certname                     "სერთიფიკატის სახელი">
-<!ENTITY certmgr.certserver                   "სერვერი">
+<!ENTITY certmgr.certserver                   "საიტი">
 <!ENTITY certmgr.override_lifetime            "ვადა">
 <!ENTITY certmgr.tokenname                    "უსაფრთხოების მექანიზმი">
-<!ENTITY certmgr.issued                       "გაცემულია">
+
 <!ENTITY certmgr.expires                      "ვადა">
 <!ENTITY certmgr.email                        "ელფოსტის მისამართი">
 <!ENTITY certmgr.serial                       "სერიული ნომერი">
@@ -71,38 +54,34 @@
 <!ENTITY certmgr.close.label                  "დახურვა">
 <!ENTITY certmgr.close.accesskey              "C">
 <!ENTITY certmgr.view2.label                  "ჩვენება">
-<!ENTITY certmgr.view2.accesskey               "V">
-<!ENTITY certmgr.edit3.label                  "რედაქტირება">
-<!ENTITY certmgr.edit3.accesskey               "E">
-<!ENTITY certmgr.editca.label                 "სააგენტოს ნდობის რედაქცია">
-<!ENTITY certmgr.editca.accesskey             "d">
-<!ENTITY certmgr.add.label                    "დამატება">
-<!ENTITY certmgr.add.accesskey                "A">
+<!ENTITY certmgr.view2.accesskey              "V">
+
+
 <!ENTITY certmgr.export.label                 "ექსპორტი…">
 <!ENTITY certmgr.export.accesskey             "x">
-<!ENTITY certmgr.delete2.label                 "წაშლა…">
-<!ENTITY certmgr.delete2.accesskey             "D">
-<!ENTITY certmgr.delete_builtin.label         "წაშლა ან ჩათვლა საეჭვოდ…">
-<!ENTITY certmgr.delete_builtin.accesskey     "D">
+<!ENTITY certmgr.delete2.label                "წაშლა…">
+<!ENTITY certmgr.delete2.accesskey            "D">
+
+
 <!ENTITY certmgr.backup2.label                "დუბლირება">
-<!ENTITY certmgr.backup2.accesskey             "B">
+<!ENTITY certmgr.backup2.accesskey            "B">
 <!ENTITY certmgr.backupall2.label             "ყველას დუბლირება…">
-<!ENTITY certmgr.backupall2.accesskey          "k">
+<!ENTITY certmgr.backupall2.accesskey         "k">
 <!ENTITY certmgr.restore2.label               "იმპორტი">
-<!ENTITY certmgr.restore2.accesskey            "m">
+<!ENTITY certmgr.restore2.accesskey           "m">
 <!ENTITY certmgr.details.label                "სერთიფიკატის ველები">
 <!ENTITY certmgr.details.accesskey            "F">
 <!ENTITY certmgr.fields.label                 "ველის მნიშვნელობა">
 <!ENTITY certmgr.fields.accesskey             "V">
-<!ENTITY certmgr.hierarchy.label              "სერთიფიკატის იერარქია">
-<!ENTITY certmgr.hierarchy.accesskey          "C">
+
+
 <!ENTITY certmgr.addException.label           "გამონაკლისის დამატება…">
 <!ENTITY certmgr.addException.accesskey       "x">
 
 <!ENTITY exceptionMgr.title                   "უსაფრთხოების გამონაკლისის დამატება">
-<!ENTITY exceptionMgr.exceptionButton.label   "უსაფრთხოების გამონაკლისის დასტური">
-<!ENTITY exceptionMgr.exceptionButton.accesskey "C">
-<!ENTITY exceptionMgr.supplementalWarning     "ლეგიტიმური ბანკები, მაღაზიები და სხვა საზოგადო საიტები ამას არ მოგთხოვენ.">
+
+
+<!ENTITY exceptionMgr.supplementalWarning     "ლეგიტიმური ბანკები, მაღაზიები და სხვა საზოგადო საიტები ამის გაკეთებას არ მოგთხოვენ.">
 <!ENTITY exceptionMgr.certlocation.caption2   "სერერი">
 <!ENTITY exceptionMgr.certlocation.url        "მისამართი:">
 <!ENTITY exceptionMgr.certlocation.download   "სერთიფიკატის მიღება">

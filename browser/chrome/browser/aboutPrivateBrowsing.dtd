@@ -2,20 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                 "პირადი სეანსი">
-<!ENTITY privatebrowsingpage.title.normal          "გნებავთ პირადი სეანსის დაწყება?">
 
-<!ENTITY privatebrowsingpage.perwindow.issueDesc        "&brandShortName; არ დაიმახსოვრებს რაიმე ისტორიას ამ სარკმლისთვის.">
-<!ENTITY privatebrowsingpage.perwindow.issueDesc.normal "ამ დროისთვის არ ხართ პირად სარკმელში.">
 
-<!ENTITY privatebrowsingpage.perwindow.description     "პირადი სეანსის სარკმელში, &brandShortName; არ შეინახავს ვებგვერდების, ძიების, ჩამოტვირთვების, ვებფორმების ისტორიებს, ნაჭდევებს ან დროებით ინტერნეტ ფაილებს. თუმცა, თქვენს მიერ ჩამოტვირთული ფაილები და შექმნილი სანიშნეები შენარჩუნდება.">
 
-<!ENTITY privatebrowsingpage.openPrivateWindow.label "პირადი სარკმლის გახსნა">
-<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
-<!ENTITY privatebrowsingpage.howToStart3               "პირადი სეანსის დასაწყებად აგერთვე შეგიძლიათ მიუთითოთ &basePBMenu.label; &gt; &newPrivateWindow.label;.">
-<!ENTITY privatebrowsingpage.howToStop3                "პირადი სეანსის შესაწყვეტად შეგიძლიათ დახუროთ ეს სარკმელი.">
 
-<!ENTITY privatebrowsingpage.moreInfo                  "თუმცა კომპიუტერზე თქვენი საიტების ისტორია არ ჩაიწერება, მაგრამ ინტერნეტ მომსახურების პროვაიდერს მაინც შეუძლია თქვენი ნანახი გვერდების თვალმიდევნება.">
-<!ENTITY privatebrowsingpage.learnMore                 "დაწვრილებით">
+
+
+

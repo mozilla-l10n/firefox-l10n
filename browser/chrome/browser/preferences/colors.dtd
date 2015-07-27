@@ -6,21 +6,23 @@
 <!ENTITY  window.width                    "64em">
 <!ENTITY  window.macWidth                 "60em">
 
-<!ENTITY  allowPagesToUse.label           "ვებგვერდებისთვის ჩემი მითითებულების ნაცვლად საკუთარი ფერების შერჩევის ნებადართვა">
-<!ENTITY  allowPagesToUse.accesskey       "A">
+
+
+
+
 
 <!ENTITY  color                           "ტექსტი და ფონი">
 <!ENTITY  textColor.label                 "ტექსტი:">
-<!ENTITY  textColor.accesskey             "t">
+<!ENTITY  textColor.accesskey             "T">
 <!ENTITY  backgroundColor.label           "ფონი:">
-<!ENTITY  backgroundColor.accesskey       "b">
+<!ENTITY  backgroundColor.accesskey       "B">
 <!ENTITY  useSystemColors.label           "სისტემური ფერების გამოყენება">
 <!ENTITY  useSystemColors.accesskey       "s">
 
 <!ENTITY  underlineLinks.label            "ბმების ხაზგასმა">
-<!ENTITY  underlineLinks.accesskey        "u">
+<!ENTITY  underlineLinks.accesskey        "U">
 <!ENTITY  links                           "ბმის ფერები">
 <!ENTITY  linkColor.label                 "მოუნახულებელი ბმები:">
-<!ENTITY  linkColor.accesskey             "l">
+<!ENTITY  linkColor.accesskey             "L">
 <!ENTITY  visitedLinkColor.label          "ნანახი ბმები:">
-<!ENTITY  visitedLinkColor.accesskey      "v">
+<!ENTITY  visitedLinkColor.accesskey      "V">

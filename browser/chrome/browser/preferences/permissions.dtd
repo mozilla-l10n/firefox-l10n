@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                 "გამონაკლისები">
-<!ENTITY window.width                 "42em">
+
 
 <!ENTITY treehead.sitename.label      "საიტი">
 <!ENTITY treehead.status.label        "სტატუსი">
@@ -11,8 +11,8 @@
 <!ENTITY removepermission.accesskey   "R">
 <!ENTITY removeallpermissions.label   "ყველა საიტის ამოღება">
 <!ENTITY removeallpermissions.accesskey "e">
-<!ENTITY address.label                "ვებ საიტის მისამართი:">
-<!ENTITY address.accesskey            "d">
+
+
 <!ENTITY block.label                  "დაბლოკვა">
 <!ENTITY block.accesskey              "B">
 <!ENTITY session.label                "სეანსზე დაშვება">
@@ -21,6 +21,8 @@
 <!ENTITY allow.accesskey              "A">
 <!ENTITY windowClose.key              "w">
 
-<!ENTITY button.close.label           "დახურვა">
-<!ENTITY button.close.accesskey       "C">
+<!ENTITY button.cancel.label          "გაუქმება">
+<!ENTITY button.cancel.accesskey      "C">
+
+
 

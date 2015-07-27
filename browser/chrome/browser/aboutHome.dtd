@@ -3,31 +3,30 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
-  %brandDTD;
+%brandDTD;
 <!ENTITY % syncBrandDTD SYSTEM "chrome://browser/locale/syncBrand.dtd">
 %syncBrandDTD;
-
 <!-- These strings are used in the about:home page -->
 
-<!ENTITY abouthome.pageTitle "&brandFullName; თავფურცელი">
-
-<!ENTITY abouthome.searchEngineButton.label "Search">
-
+<!ENTITY abouthome.searchEngineButton.label "ძიება">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
-<!ENTITY abouthome.defaultSnippet1.v1 "გმადლობთ, რომ აირჩიეთ Firefox! ბრაუზერით სრულფასოვნად სარგებლობისთვის გაეცანით <a>ახალ შესაძლებლობებს</a>.">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
-<!ENTITY abouthome.defaultSnippet2.v1 "იოლად შეგიძლიათ მიანიჭოთ სასურველი იერსახე Firefox ბრაუზერს. <a>შეარჩიეთ ათასობით მზა მოდულიდან</a>.">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
-<!ENTITY abouthome.rightsSnippet "&brandFullName; უფასო, ღია კოდების პროგრამაა არაკომერციული ფონდისგან Mozilla. <a>იცოდეთ თქვენი უფლებები…</a>">
 
 <!ENTITY abouthome.bookmarksButton.label "სანიშნეები">
 <!ENTITY abouthome.historyButton.label   "ისტორია">
-<!ENTITY abouthome.settingsButton.label  "პარამეტრები">
+<!-- LOCALIZATION NOTE (abouthome.preferencesButtonWin.label): The label for the
+     preferences/options item on about:home on Windows -->
+<!-- LOCALIZATION NOTE (abouthome.preferencesButtonUnix.label): The label for the
+     preferences/options item on about:home on Linux and OS X -->
+<!ENTITY abouthome.preferencesButtonUnix.label  "პარამეტრები">
 <!ENTITY abouthome.addonsButton.label    "მოდულები">
-<!ENTITY abouthome.appsButton.label      "ბაზარი">
+<!-- LOCALIZATION NOTE (abouthome.appsButton2.label): This string should be consistent with
+     the Apps menu item in the Tools menu (webapps.label in browser.dtd) and the Apps toolbar button in
+     Firefox's customization palette (web-apps-button.label in customizableWidgets.properties) -->
 <!ENTITY abouthome.downloadsButton.label "ჩამოტვირთვები">
 <!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">

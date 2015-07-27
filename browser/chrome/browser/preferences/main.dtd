@@ -2,31 +2,26 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY startup.label             "დაწყება">
+<!ENTITY startup.label             "თავფურცელი">
 
 <!ENTITY startupPage.label         "&brandShortName; სეანსის დაწყებისას:">
 <!ENTITY startupPage.accesskey     "s">
 <!ENTITY startupHomePage.label     "გადასვლა ჩემს საწყის გვერდზე">
 <!ENTITY startupBlankPage.label    "ცარიელი გვერდის გახსნა">
-<!ENTITY startupLastSession.label  "ბოლო სეანსის სარკმლებისა და დაფების ჩვენება">
+<!ENTITY startupLastSession.label  "ბოლო სეანსის ფანჯრებისა და დაფების ჩვენება">
 
-<!ENTITY homepage.label            "თავფურცლის გვერდი:">
-<!ENTITY homepage.accesskey        "P">
+
 <!ENTITY useCurrentPage.label      "მიმდინარე გვერდის გამოყენება">
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "მიმდინარე გვერდის გამოყენება">
-<!ENTITY chooseBookmark.label      "სანიშნის გამოყენება">
-<!ENTITY chooseBookmark.accesskey  "B">
+
+
 <!ENTITY restoreDefault.label      "ნაგულისხმების აღდგენა">
 <!ENTITY restoreDefault.accesskey  "R">
 
 <!ENTITY downloads.label     "ჩამოტვირთვები">
 
-<!ENTITY showWhenDownloading.label     "ჩამოსატვირთი ფაილის ჩვენება ჩამოტვირთვისას">
-<!ENTITY showWhenDownloading.accesskey "D">
-<!ENTITY closeWhenDone.label "დახურვა ყველა ჩამოტვირთვის დასრულებისას">
-<!ENTITY closeWhenDone.accesskey "w">
-<!ENTITY saveTo.label "ფაილების შენახვის გეზი">
+<!ENTITY saveTo.label "ფაილების შენახვა -">
 <!ENTITY saveTo.accesskey "v">
 <!ENTITY chooseFolderWin.label        "ნუსხა…">
 <!ENTITY chooseFolderWin.accesskey    "o">
@@ -34,3 +29,13 @@
 <!ENTITY chooseFolderMac.accesskey    "e">
 <!ENTITY alwaysAsk.label "ყოველთვის დამეკითხე ფაილების შენახვის ადგილს">
 <!ENTITY alwaysAsk.accesskey "A">
+
+
+
+
+
+
+
+
+
+

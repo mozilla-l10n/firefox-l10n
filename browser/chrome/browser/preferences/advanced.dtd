@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Note: each tab panel must contain unique accesskeys -->
+
 
 <!ENTITY generalTab.label                "ზოგადი">
 
@@ -12,8 +12,8 @@
 <!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchStartTyping.label         "კონტექსტის ძებნის ტექსტის შეტანისას">
 <!ENTITY searchStartTyping.accesskey     "x">
-<!ENTITY blockAutoRefresh.label          "გამაფრთხილე თუ ვებ საიტი გვერდის განახლებას ან გადამისამართებას ცდილობს">
-<!ENTITY blockAutoRefresh.accesskey      "b">
+
+
 
 <!ENTITY browsing.label                  "ჩვენება">
 
@@ -21,37 +21,23 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "მდორე გადახვევის გამოყენება">
 <!ENTITY useSmoothScrolling.accesskey    "m">
-<!ENTITY allowHWAccel.label              "აპარატული დაჩქარებით სარგებლობა როცა შესაძლებელია">
-<!ENTITY allowHWAccel.accesskey          "r">
+
+
 <!ENTITY checkSpelling.label             "მართლწერის შემოწმება ტექსტის შეტანისას">
 <!ENTITY checkSpelling.accesskey         "t">
 
-<!ENTITY systemDefaults.label            "სისტემის ნაგულისხმები">
-<!ENTITY alwaysCheckDefault.label        "გახსნისას &brandShortName; პროგრამის ყოველთვის შემოწმება ნაგულისხმობაზე"><!--XXX-->
-<!ENTITY alwaysCheckDefault.accesskey    "w">
-<!ENTITY setDefault.label                "ნაგულისხმებად &brandShortName; ბრაუზერის მითითება">
-<!ENTITY setDefault.accesskey            "d">
-<!ENTITY isDefault.label                 "&brandShortName; თქვენი ნაგუულისხმები ბრაუზერია">
 
-<!ENTITY dataChoicesTab.label            "არჩევანი">
 
-<!ENTITY healthReportSection.label       "&brandShortName; დიაგნოსტიკა">
-<!ENTITY healthReportDesc.label          "გვეხმარება განვსაზღვროთ თქვენი ბრაუზერის წარმადობა და უგზავნის შესაბამის მონაცმებს &vendorShortName;-ს">
-<!ENTITY enableHealthReport.label        "&brandShortName; დიაგნოსტიკის ჩართვა">
-<!ENTITY enableHealthReport.accesskey    "R">
-<!ENTITY healthReportLearnMore.label     "ვრცლად">
 
-<!ENTITY telemetrySection.label          "ტელემეტრია">
-<!ENTITY telemetryDesc.label             "უზიარებს წარმადობის, სარგებლობის, კომპიუტერისა და საკუთარი პარამეტრების მონაცემებს &vendorShortName;-ს რათა უკეთესი გავხადოთ &brandShortName; ბრაუზერი">
-<!ENTITY enableTelemetry.label           "ტელემეტრიის ჩართვა">
-<!ENTITY enableTelemetry.accesskey       "T">
-<!ENTITY telemetryLearnMore.label        "ვრცლად">
 
-<!ENTITY crashReporterSection.label      "შეცდომის პატაკი">
-<!ENTITY crashReporterDesc.label         "&brandShortName; პატაკს გაუგზავნის &vendorShortName;-ს რათა თქვენი ბრაუზერის უფრო სტაბილური და უსაფრთხო გავხადოთ">
-<!ENTITY enableCrashReporter.label       "შეცდომების პატაკის ჩართვა">
-<!ENTITY enableCrashReporter.accesskey   "C">
-<!ENTITY crashReporterLearnMore.label    "ვრცლად">
+
+
+
+
+
+
+
+
 
 <!ENTITY networkTab.label                "ქსელი">
 
@@ -61,9 +47,6 @@
 <!ENTITY connectionSettings.label        "პარამეტრები…">
 <!ENTITY connectionSettings.accesskey    "e">
 
-<!ENTITY httpCache.label                 "ინტერნეტ გვერდების ბუფერი">
-
-<!ENTITY offlineStorage2.label           "ლოკალური ინტერნეტ გვერდებისა და მონაწილის მონაცემები">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -71,66 +54,55 @@
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-<!ENTITY limitCacheSizeBefore.label            "ბუფერისთვის">
-<!ENTITY limitCacheSizeBefore.accesskey        "L">
-<!ENTITY limitCacheSizeAfter.label             "მბ-მდე გამოყენება">
+
+
 <!ENTITY clearCacheNow.label             "გასუფთავება ახლავე">
 <!ENTITY clearCacheNow.accesskey         "C">
-<!ENTITY clearOfflineAppCacheNow.label   "გასუფთავება ახლავე">
-<!ENTITY clearOfflineAppCacheNow.accesskey "N">
-<!ENTITY overrideSmartCacheSize.label    "ბუფერის თვითმართვის ჩანაცვლება">
-<!ENTITY overrideSmartCacheSize.accesskey "O">
+
+
+
+
 
 <!ENTITY updateTab.label                 "განახლება">
 
-<!ENTITY updateApp.label                 "&brandShortName; განახლებები:">
-<!-- Note either updateAuto1 is used or (updateAutoMetro and updateAutoDesktop),
-     so re-using accesss key in updateAuto1 is OK. updateAutoDesktop can be found
-     in preferences.properties -->
-<!ENTITY updateAuto1.label               "განახლებათა თვითჩადგმა (რეკომენდებულია: მაღალი უსაფრთხოება)">
-<!ENTITY updateAuto1.accesskey           "A">
-<!ENTITY updateAutoMetro.label           "თვითგანახლება სამუშაო არიდან და Windows 8 სტილის &brandShortName; ბრაუზერით">
-<!ENTITY updateAutoMetro.accesskey       "s">
-<!ENTITY updateCheck.label               "განახლებების შემოწმება, მაგრამ ჩადგმა მხოლოდ თანხმობის შემდეგ">
-<!ENTITY updateCheck.accesskey           "C">
-<!ENTITY updateManual.label              "განახლებათა შემოწმების გარეშე (არაა რეკომენდებული: საფრთხე იზრდება)">
-<!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateAutoAddonWarn.label       "შემატყობინე თუ ჩადგმისას ჩემი რომელიმე მოდული ამოირთვება">
+
+
+
+
+
+
+<!ENTITY updateAutoAddonWarn.label       "გაფრთხილება პაკეტების ან თემების გაუქმების შემთხვევაში">
 <!ENTITY updateAutoAddonWarn.accesskey   "W">
-
-<!ENTITY updateAutoMetroWarn.label       "(Windows 8 სტილის &brandShortName; ბრაუზერი პაკეტების თავსებადობას არ ამოწმებს)">
 
 <!ENTITY updateHistory.label             "განახლების ისტორიის ჩვენება">
 <!ENTITY updateHistory.accesskey         "p">
 
-<!ENTITY useService.label                "ფონური მომსახურება განახლებათა ჩადგმისთვის">
-<!ENTITY useService.accesskey            "b">
 
-<!ENTITY updateOthers.label              "თვითგანახლება:">
-<!ENTITY enableSearchUpdate.label        "საძიებო სისტემები">
-<!ENTITY enableSearchUpdate.accesskey    "E">
+
+
+
 
 <!ENTITY offlineNotify.label             "შემატყობინე როცა ვებსაიტი ითხოვს მონაცემთა შენახვას ავტონომიური სარგებლობისთვის">
 <!ENTITY offlineNotify.accesskey         "T">
 <!ENTITY offlineNotifyExceptions.label   "გამონაკლისები…">
 <!ENTITY offlineNotifyExceptions.accesskey "x">
 
-<!ENTITY offlineAppsList2.label           "მოცემულ ვებსაიტებს გარე მონაცემები ლოკალურად შენახვის უფლება აქვთ:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "ამოღება…">
 <!ENTITY offlineAppsListRemove.accesskey "R">
 <!ENTITY offlineAppRemove.confirm        "გარე მონაცემთა ამოღება">
 
-<!ENTITY certificateTab.label              "სერთიფიკატები">
+<!ENTITY certificateTab.label            "სერთიფიკატები">
+
 <!ENTITY certSelection.description       "როცა სერვერი ჩემს პირად სერთიფიკატს ითხოვს:">
 <!ENTITY certs.auto                      "შეირჩეს ავტომატურად">
-<!ENTITY certs.auto.accesskey            "l">
+
 <!ENTITY certs.ask                       "დამეკითხე ყოველთვის">
-<!ENTITY certs.ask.accesskey             "i">
-<!ENTITY viewCerts.label                 "სერთიფიკატების ნახვა">
-<!ENTITY viewCerts.accesskey             "s">
-<!ENTITY verify2.label                   "შემოწმება">
-<!ENTITY verify2.accesskey               "V">
-<!ENTITY viewSecurityDevices.label       "უსაფრთხოების მოწყობილობები">
-<!ENTITY viewSecurityDevices.accesskey   "y">
+
+
+
+
+
+
+
