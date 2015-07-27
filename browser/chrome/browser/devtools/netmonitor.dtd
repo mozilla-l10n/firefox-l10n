@@ -81,6 +81,9 @@
   -  in the network details footer for the "Flash" filtering button. -->
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterOther): This is the label displayed
   -  in the network details footer for the "Other" filtering button. -->
+<!-- LOCALIZATION NOTE (netmonitorUI.footer.filterFreetext): This is the label displayed
+  -  in the network details footer for the url filtering textbox. -->
+
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.clear): This is the label displayed
   -  in the network details footer for the "Clear" button. -->
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.clear): This is the label displayed
@@ -150,22 +153,48 @@
   -  in the security tab describing the server certificate section. -->
 
 <!ENTITY netmonitorUI.security.certificate "Icyemezo:">
-<!-- LOCALIZATION NOTE (netmonitorUI.context.perfTools): This is the label displayed
-  -  on the context menu that shows the performance analysis tools -->
-<!-- LOCALIZATION NOTE (netmonitorUI.context.perfTools.accesskey): This is the access key
-  -  for the performance analysis menu item displayed in the context menu for a request -->
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrl): This is the label displayed
   -  on the context menu that copies the selected request's url -->
+<!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrl.accesskey): This is the access key
+  -  for the Copy URL menu item displayed in the context menu for a request -->
+<!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrlParams): This is the label displayed
+  -  on the context menu that copies the selected request's url parameters -->
+<!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrlParams.accesskey): This is the access key
+  -  for the Copy URL Parameters menu item displayed in the context menu for a request -->
+<!-- LOCALIZATION NOTE (netmonitorUI.context.copyPostData): This is the label displayed
+  -  on the context menu that copies the selected request's post data -->
+<!-- LOCALIZATION NOTE (netmonitorUI.context.copyPostData.accesskey): This is the access key
+  -  for the Copy POST Data menu item displayed in the context menu for a request -->
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyAsCurl): This is the label displayed
   -  on the context menu that copies the selected request as a cURL command.
   -  The capitalization is part of the official name and should be used throughout all languages.
   -  http://en.wikipedia.org/wiki/CURL -->
-<!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrl.accesskey): This is the access key
-  -  for the Copy URL menu item displayed in the context menu for a request -->
+<!-- LOCALIZATION NOTE (netmonitorUI.context.copyAsCUrl.accesskey): This is the access key
+  -  for the Copy as cURL menu item displayed in the context menu for a request -->
+<!-- LOCALIZATION NOTE (netmonitorUI.context.copyRequestHeaders): This is the label displayed
+  -  on the context menu that copies the selected item's request headers -->
+<!-- LOCALIZATION NOTE (netmonitorUI.context.copyRequestHeaders.accesskey): This is the access key
+  -  for the Copy Request Headers menu item displayed in the context menu for a request -->
+<!-- LOCALIZATION NOTE (netmonitorUI.context.copyResponseHeaders): This is the label displayed
+  -  on the context menu that copies the selected item's response headers -->
+<!-- LOCALIZATION NOTE (netmonitorUI.context.copyResponseHeaders.accesskey): This is the access key
+  -  for the Copy Response Headers menu item displayed in the context menu for a response -->
+<!-- LOCALIZATION NOTE (netmonitorUI.context.copyResponse): This is the label displayed
+  -  on the context menu that copies the selected response as a string -->
+<!-- LOCALIZATION NOTE (netmonitorUI.context.copyRespose.accesskey): This is the access key
+  -  for the Copy Response menu item displayed in the context menu for a request -->
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyImageAsDataUri): This is the label displayed
   -  on the context menu that copies the selected image as data uri -->
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyImageAsDataUri.accesskey): This is the access key
   -  for the Copy Image As Data URI menu item displayed in the context menu for a request -->
+<!-- LOCALIZATION NOTE (netmonitorUI.context.copyAllAsHar): This is the label displayed
+  -  on the context menu that copies all as HAR format -->
+<!-- LOCALIZATION NOTE (netmonitorUI.context.copyAllAsHar.accesskey): This is the access key
+  -  for the Copy All As HAR menu item displayed in the context menu for a network panel -->
+<!-- LOCALIZATION NOTE (netmonitorUI.context.saveAllAsHar): This is the label displayed
+  -  on the context menu that saves all as HAR format -->
+<!-- LOCALIZATION NOTE (netmonitorUI.context.saveAllAsHar.accesskey): This is the access key
+  -  for the Save All As HAR menu item displayed in the context menu for a network panel -->
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.editAndResend): This is the label displayed
   -  on the button in the headers tab that opens a form to edit and resend the currently
      displayed request -->
@@ -184,6 +213,10 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.context.newTab.accesskey): This is the access key
   -  for the Open in New Tab menu item displayed in the context menu of the
   -  network container -->
+<!-- LOCALIZATION NOTE (netmonitorUI.context.perfTools): This is the label displayed
+  -  on the context menu that shows the performance analysis tools -->
+<!-- LOCALIZATION NOTE (netmonitorUI.context.perfTools.accesskey): This is the access key
+  -  for the performance analysis menu item displayed in the context menu for a request -->
 <!-- LOCALIZATION NOTE (netmonitorUI.custom.newRequest): This is the label displayed
   -  as the title of the new custom request form -->
 <!-- LOCALIZATION NOTE (netmonitorUI.custom.query): This is the label displayed

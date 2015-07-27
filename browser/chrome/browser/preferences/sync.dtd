@@ -37,6 +37,10 @@
 <!ENTITY syncDeviceName.label       "Izina ry'igikoresho">
 <!ENTITY syncDeviceName.accesskey   "c">
 
+
+<!ENTITY cancelChangeSyncDeviceName.label "Kureka">
+<!ENTITY saveChangeSyncDeviceName.label "Kubika">
+
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "Amabwiriza ya serivisi">
@@ -59,7 +63,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 
-<!ENTITY manage.label                "tunganya">
+<!ENTITY manage.label                "Tunganya">
 
 
 
