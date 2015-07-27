@@ -171,7 +171,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenuMac.tooltip "ইতিহাস দেখতে নীচে টেনে আনুন">
 <!ENTITY reloadCmd.label              "পুনরায় লোড">
 <!ENTITY reloadButton.tooltip         "বর্তমান পৃষ্ঠা পুনরায় লোড">
-
+<!ENTITY stopCmd.label                "থামুন">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "পৃষ্ঠা লোড করা স্থগিত করা হবে">
 <!ENTITY goEndCap.tooltip             "ঠিকানার বারে উল্লেখিত পৃষ্ঠা প্রদর্শন করা হবে">

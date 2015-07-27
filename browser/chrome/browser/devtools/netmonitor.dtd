@@ -73,6 +73,8 @@
 <!ENTITY netmonitorUI.tab.preview         "প্রাকদর্শন">
 <!-- LOCALIZATION NOTE (netmonitorUI.tab.security): This is the label displayed
   -  in the network details pane identifying the security tab. -->
+
+<!ENTITY netmonitorUI.tab.security        "নিরাপত্তা">
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterAll): This is the label displayed
   -  in the network details footer for the "All" filtering button. -->
 

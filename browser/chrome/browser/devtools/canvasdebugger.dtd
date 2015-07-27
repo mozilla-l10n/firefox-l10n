@@ -16,11 +16,13 @@
 <!ENTITY canvasDebuggerUI.reloadNotice1   "পুনরায় লোড">
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.reloadNotice2): This is the label shown
   -  along with the button that triggers a page refresh. -->
+
+<!ENTITY canvasDebuggerUI.reloadNotice2   "পৃষ্ঠাটি &lt;ক্যানভাস&gt; কন্টেক্সট ডিবাগ করতে সক্ষম হবে।">
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.emptyNotice1/2): This is the label shown
   -  in the call list view when empty. -->
 
 <!ENTITY canvasDebuggerUI.emptyNotice1    "ক্লিক করুন">
-
+<!ENTITY canvasDebuggerUI.emptyNotice2    "অ্যানিমেশন ফ্রেমের কল স্ট্যাক রেকর্ড করার বোতাম।">
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.waitingNotice): This is the label shown
   -  in the call list view while recording a snapshot. -->
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.recordSnapshot): This string is displayed
@@ -31,5 +33,7 @@
 <!ENTITY canvasDebuggerUI.importSnapshot "ইমপোর্ট করুন…">
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.clearSnapshots): This string is displayed
   -  on a button that remvoes all the snapshots. -->
+
+<!ENTITY canvasDebuggerUI.clearSnapshots "মুছে ফেলুন">
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.searchboxPlaceholder): This string is displayed
   -  as a placeholder of the search box that filters the calls list. -->
