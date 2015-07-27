@@ -41,7 +41,7 @@
 <!-- Device Settings -->
 
 <!ENTITY syncDeviceName.label       "ឈ្មោះ​ឧបករណ៍ ៖">
-<!ENTITY syncDeviceName.accesskey   "c">
+<!ENTITY syncDeviceName.accesskey   "ឧ">
 
 
 <!ENTITY cancelChangeSyncDeviceName.label "បោះបង់">

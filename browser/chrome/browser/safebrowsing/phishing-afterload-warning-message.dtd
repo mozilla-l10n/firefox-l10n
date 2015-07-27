@@ -13,6 +13,7 @@
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>ទំព័រ​វាយប្រហារ បាន​ព្យាយាម​ដំឡើង​កម្មវិធី​ដែល​អាច​លួច​យក​ព័ត៌មាន​ផ្ទាល់ខ្លួន​របស់​អ្នក ឬ​ប្រើ​កុំព្យូទ័រ​របស់​អ្នក​ដើម្បី​វាយប្រហារ​កុំព្យូទ័រ​អ្នក​ដទៃ ឬ​អាច​បំផ្លាញ​ប្រព័ន្ធ​របស់​អ្នក ។</p><p>ទំព័រ​វាយប្រហារ​មួយ​ចំនួន​មាន​ចេតនា​ចែកចាយ​នូវ​កម្មវិធី​ដែល​គេ​ហាមប្រាម ប៉ុន្តែ​ទំព័រ​ជា​ច្រើន​ទៀត​គឺ​ត្រូវ​បាន​ធ្វើ​ឡើង​ដោយ​​មិនបាន​យល់​ដឹង ឬ​មិន​មាន​សិទ្ធិ​ពី​អ្នកគ្រប់គ្រង ឬ​ម្ចាស់​របស់​វា ។</p>">
 
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "ទំព័រ​បណ្ដាញ​នេះ​​នៅ <span id='unwanted_sitename'/> ត្រូវ​បាន​រាយការណ៍​ថា​មាន​កម្មវិធី​ដែល​មិន​ចង់​បាន និង​ត្រូវ​បាន​ទប់ស្កាត់​​ដោយ​ផ្អែក​តាម​ចំណូលចិត្ត​សុវត្ថិភាព​របស់​អ្នក។">
 
 
 <!ENTITY safeb.blocked.phishingPage.title "បាន​រាយការណ៍​ការ​បន្លំ​តំបន់បណ្ដាញ !">
