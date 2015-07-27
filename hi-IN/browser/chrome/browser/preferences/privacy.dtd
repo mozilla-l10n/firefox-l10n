@@ -22,8 +22,8 @@
 <!ENTITY  locbar.bookmarks.accesskey    "k">
 <!ENTITY  locbar.openpage.label         "Open टैब">
 <!ENTITY  locbar.openpage.accesskey     "O">
-
-
+<!ENTITY  locbar.searches.label         "डिफ़ॉल्ट खोज इंजिन से Related खोजें">
+<!ENTITY  locbar.searches.accesskey     "d">
 
 <!ENTITY  acceptCookies.label           "साइटों से कुकीज़ स्वीकारें">
 <!ENTITY  acceptCookies.accesskey       "A">

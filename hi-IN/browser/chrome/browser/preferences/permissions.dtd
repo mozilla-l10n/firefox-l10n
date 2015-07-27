@@ -21,7 +21,8 @@
 <!ENTITY allow.accesskey              "A">
 <!ENTITY windowClose.key              "w">
 
-
+<!ENTITY button.cancel.label          "रद्द करें">
+<!ENTITY button.cancel.accesskey      "र">
 <!ENTITY button.ok.label              "परिवर्तन सहेजें">
 <!ENTITY button.ok.accesskey          "प">
 
