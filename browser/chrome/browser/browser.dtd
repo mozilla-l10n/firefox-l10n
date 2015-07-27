@@ -20,16 +20,16 @@
 <!-- Tab context menu -->
 
 <!ENTITY  reloadTab.label                    "ផ្ទុក​ផ្ទាំង​ឡើងវិញ">
-<!ENTITY  reloadTab.accesskey                "ផ">
-<!ENTITY  reloadAllTabs.label                "ផ្ទុកផ្ទាំង​ទាំងអស់​ឡើងវិញ">
-<!ENTITY  reloadAllTabs.accesskey            "ផ">
+<!ENTITY  reloadTab.accesskey                "R">
+<!ENTITY  reloadAllTabs.label                "ផ្ទុក​ផ្ទាំង​ទាំងអស់​ឡើងវិញ">
+<!ENTITY  reloadAllTabs.accesskey            "A">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "បិទ​ផ្ទាំង​ទៅខាងស្ដាំ">
-<!ENTITY  closeTabsToTheEnd.accesskey        "ខ">
+<!ENTITY  closeTabsToTheEnd.label            "បិទ​ផ្ទាំង​ទៅ​ខាងស្ដាំ">
+<!ENTITY  closeTabsToTheEnd.accesskey        "i">
 <!ENTITY  closeOtherTabs.label               "បិទ​ផ្ទាំង​ផ្សេងទៀត">
-<!ENTITY  closeOtherTabs.accesskey           "ប">
+<!ENTITY  closeOtherTabs.accesskey           "o">
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -37,39 +37,39 @@ that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 
 <!ENTITY  pinTab.label                       "ខ្ទាស់​ផ្ទាំង">
-<!ENTITY  pinTab.accesskey                   "ខ">
-<!ENTITY  unpinTab.label                     "ដោះ​​ខ្ទាស់ផ្ទាំង">
-<!ENTITY  unpinTab.accesskey                 "ផ">
+<!ENTITY  pinTab.accesskey                   "P">
+<!ENTITY  unpinTab.label                     "ដោះ​​ខ្ទាស់​ផ្ទាំង">
+<!ENTITY  unpinTab.accesskey                 "b">
 <!ENTITY  moveToGroup.label                  "ផ្លាស់ទី​ទៅកាន់​ក្រុម">
-<!ENTITY  moveToGroup.accesskey              "ផ">
+<!ENTITY  moveToGroup.accesskey              "M">
 <!ENTITY  moveToNewGroup.label               "ក្រុម​ថ្មី">
-<!ENTITY  moveToNewWindow.label              "ផ្លាស់ទី​ទៅកាន់បង្អួច​ថ្មី">
-<!ENTITY  moveToNewWindow.accesskey          "ប">
-<!ENTITY  bookmarkAllTabs.label              "ចំណាំ​ផ្ទាំង​ទាំងអស់…">
-<!ENTITY  bookmarkAllTabs.accesskey          "​">
+<!ENTITY  moveToNewWindow.label              "ផ្លាស់ទី​ទៅកាន់​បង្អួច​ថ្មី">
+<!ENTITY  moveToNewWindow.accesskey          "W">
+<!ENTITY  bookmarkAllTabs.label              "ចំណាំ​ផ្ទាំង​​ទាំងអស់…">
+<!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "មិនធ្វើវិញ​នូវ​ការ​បិទ​ផ្ទាំង">
-<!ENTITY  undoCloseTab.accesskey             "ម">
+<!ENTITY  undoCloseTab.accesskey             "U">
 <!ENTITY  closeTab.label                     "បិទ​​ផ្ទាំង">
-<!ENTITY  closeTab.accesskey                 "ប">
+<!ENTITY  closeTab.accesskey                 "C">
 
 <!ENTITY  listAllTabs.label      "រាយ​ផ្ទាំង​ទាំងអស់">
 
-<!ENTITY tabCmd.label "ផ្ទាំងថ្មី">
-<!ENTITY tabCmd.accesskey "ថ">
+<!ENTITY tabCmd.label "ផ្ទាំង​ថ្មី">
+<!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "បើក​ទីតាំង…">
 <!ENTITY openFileCmd.label "បើក​ឯកសារ…">
-<!ENTITY openFileCmd.accesskey "ប">
+<!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "ការ​រៀបចំទំព័រ…">
-<!ENTITY printSetupCmd.accesskey "ទ">
-<!ENTITY printPreviewCmd.label "មើល​មុនបោះពុម្ព">
-<!ENTITY printPreviewCmd.accesskey "ប">
+<!ENTITY printSetupCmd.label "ការ​រៀបចំ​ទំព័រ…">
+<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printPreviewCmd.label "មើល​មុន​បោះពុម្ព">
+<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "បោះពុម្ព…">
-<!ENTITY printCmd.accesskey "ប">
+<!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
 
 <!ENTITY goOfflineCmd.label "ធ្វើ​ការដោយ​គ្មាន​អ៊ីនធឺណិត">

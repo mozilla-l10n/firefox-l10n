@@ -24,21 +24,21 @@
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
 
 <!ENTITY helpSafeMode.label       "ចាប់ផ្ដើម​ឡើងវិញ​ជាមួយ​កម្មវិធី​បន្ថែម​ដែល​បាន​បិទ...">
-<!ENTITY helpSafeMode.accesskey   "ច">
+<!ENTITY helpSafeMode.accesskey   "R">
 <!ENTITY helpSafeMode.stop.label       "ចាប់ផ្ដើម​ឡើងវិញ​ជាមួយ​កម្មវិធី​បន្ថែម​ដែល​បាន​បើក">
-<!ENTITY helpSafeMode.stop.accesskey   "ច">
+<!ENTITY helpSafeMode.stop.accesskey   "R">
 
-<!ENTITY healthReport2.label      "&brandShorterName; របាយការណ៍សុខភាព">
-<!ENTITY healthReport2.accesskey  "ស">
+<!ENTITY healthReport2.label      "&brandShorterName; របាយការណ៍​សុខភាព">
+<!ENTITY healthReport2.accesskey  "e">
 
 <!ENTITY helpTroubleshootingInfo.label      "ព័ត៌មាន​អំពី​ការ​ដោះស្រាយ​បញ្ហា">
-<!ENTITY helpTroubleshootingInfo.accesskey  "ព">
+<!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
 <!ENTITY helpFeedbackPage.label      "ដាក់​ស្នើ​មតិ​ត្រឡប់...">
-<!ENTITY helpFeedbackPage.accesskey  "ដ">
+<!ENTITY helpFeedbackPage.accesskey  "S">
 
 <!ENTITY helpShowTour2.label            "ទស្សនា &brandShorterName;">
-<!ENTITY helpShowTour2.accesskey        "ទ">
+<!ENTITY helpShowTour2.accesskey        "o">
 
 <!ENTITY preferencesCmdMac.label        "ចំណូលចិត្ត...">
 <!ENTITY preferencesCmdMac.commandkey   ",">
