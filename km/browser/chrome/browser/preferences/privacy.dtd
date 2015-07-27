@@ -48,7 +48,7 @@
 <!ENTITY  showCookies.accesskey         "ប">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; នឹង ៖">
-<!ENTITY  historyHeader.pre.accesskey      "w">
+<!ENTITY  historyHeader.pre.accesskey      "ន">
 <!ENTITY  historyHeader.remember.label     "ចងចាំ​ប្រវត្តិ">
 <!ENTITY  historyHeader.dontremember.label "កុំ​ចងចាំ​ប្រវត្តិ">
 <!ENTITY  historyHeader.custom.label       "ប្រើ​ការ​កំណត់​ផ្ទាល់ខ្លួន​សម្រាប់​ប្រវត្តិ">
@@ -82,8 +82,8 @@
 <!ENTITY  rememberSearchForm.label       "ចងចាំ​ប្រវត្តិ​ស្វែងរក និង​សំណុំ​បែបបទ">
 <!ENTITY  rememberSearchForm.accesskey   "ទ">
 
-<!ENTITY  clearOnClose.label             "សម្អាត​ប្រវត្តិ​នៅ​ពេល &brandShortName; បិទ">
-<!ENTITY  clearOnClose.accesskey         "r">
+<!ENTITY  clearOnClose.label             "សម្អាតប្រវត្តិ​នៅ​ពេល &brandShortName; បិទ">
+<!ENTITY  clearOnClose.accesskey         "ប">
 
 <!ENTITY  clearOnCloseSettings.label     "កំពុង​កំណត់…">
 <!ENTITY  clearOnCloseSettings.accesskey "ង">
