@@ -71,11 +71,15 @@
 <!ENTITY sync.button.connect.label "সংযুক্ত করুন">
 <!ENTITY sync.button.ok.label "ঠিক আছে">
 <!-- Account strings -->
+
+<!ENTITY sync.account.label "&syncBrand.fullName.label; (অসমর্থিত)">
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
      by the model name of the Android device. Examples look like "Aurora on
      GT-I1950" and "Fennec on MI 2S". -->
+
+<!ENTITY sync.default.client.name "&formatS2; এর ওপর &formatS1;">
 <!-- Bookmark folder strings -->
 
 <!ENTITY bookmarks.folder.menu.label "বুকমার্ক মেনু">
@@ -189,11 +193,11 @@
 
 <!ENTITY fxaccount_finish_migrating_header "আপগ্রেড করা শেষ করতে সাইন ইন করুন">
 <!ENTITY fxaccount_finish_migrating_button_label "আপগ্রেড করা শেষ করুন">
-
+<!ENTITY fxaccount_finish_migrating_description "আপগ্রেড করলে অনেক ডাটা ট্রান্সফার হবে। ওয়াই-ফাই নেটওয়ার্কে থাকলে সবচেয়ে ভালো হবে।">
 
 <!ENTITY fxaccount_status_header2 "Firefox অ্যাকাউন্ট">
-
-
+<!ENTITY fxaccount_status_signed_in_as "সাইন ইন করা আছে">
+<!ENTITY fxaccount_status_auth_server "অ্যাকাউন্ট সার্ভার">
 <!ENTITY fxaccount_status_sync_now "এখন সিঙ্ক করুন">
 <!ENTITY fxaccount_status_syncing2 "সিঙ্ক করা হচ্ছে..">
 <!ENTITY fxaccount_status_device_name "ডিভাইসের নাম">
@@ -201,10 +205,10 @@
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: সক্রিয়">
 <!ENTITY fxaccount_status_needs_verification2 "আপনার অ্যাকাউন্ট যাচাইকরণ বাধ্যতামূলক। যাচাইকারী ইমেইল পুনরায় পাঠাতে এখানে টাচ করুন।">
-
-
-
-
+<!ENTITY fxaccount_status_needs_credentials "কানেক্ট করা যায়নি। সাইন ইন করতে ট্যাপ করুন।">
+<!ENTITY fxaccount_status_needs_upgrade "সাইন ইন করতে হলে আপনাকে &brandShortName; আপগ্রেড করতেই হবে।">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; সেট আপ করা হয়েছে, কিন্তু স্বয়ংক্রিয়ভাবে সিঙ্ক হয়নি। অ্যান্ড্রয়েড সেটিংসে “Auto-sync data” টগল করুন &gt; একাউন্ট।">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; সেট আপ করা হয়েছে, কিন্তু স্বয়ংক্রিয়ভাবে সিঙ্ক হয়নি। অ্যান্ড্রয়েড সেটিংসে “Auto-sync data” টগল করুন &gt; একাউন্ট।">
 <!ENTITY fxaccount_status_needs_finish_migrating "আপনার নতুন Firefox অ্যাকাউন্টে সাইন ইন করবার জন্য ট্যাপ করুন।">
 <!ENTITY fxaccount_status_bookmarks "বুকমার্ক">
 <!ENTITY fxaccount_status_history "ইতিহাস">
