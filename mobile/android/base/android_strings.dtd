@@ -18,7 +18,7 @@
 <!ENTITY  reading_list_title "পড়ার তালিকা">
 <!ENTITY  recent_tabs_title "সাম্প্রতিক ট্যাব">
 
-<!ENTITY  switch_to_tab " ট্যাবে সুইচ করুন   ">
+<!ENTITY  switch_to_tab "ট্যাবে সুইচ করুন">
 
 <!ENTITY  crash_reporter_title "&brandShortName; ক্র্যাশ প্রতিবেদক">
 <!ENTITY  crash_message2 "&brandShortName; তে একটি ত্রুটি হয়েছে এবং ক্র্যাশ করেছে। যখন আপনি পুনরায় চালু করবেন, আপনার ট্যাব সমূহ &brandShortName; এর প্রারম্ভিক পৃষ্ঠায় তালিকাবদ্ধ থাকবে।">
@@ -305,7 +305,7 @@ size. -->
 
 <!ENTITY datareporting_fhr_title "&brandShortName; হেলথ রিপোর্ট">
 <!ENTITY datareporting_fhr_summary2 "আপনার ব্রাউসারের স্বাস্থ্য সম্বন্ধে &vendorShortName; এর সাথে ডেটা শেয়ার করে  এবং আপনাকে সাহায্য করে আপনার ব্রাউসারের কার্যকারিতা অনুধাবন করতে">
-
+<!ENTITY datareporting_abouthr_title "আমার হেলথ রিপোর্ট দেখি">
 <!ENTITY datareporting_telemetry_title "টেলিমেট্রি">
 <!ENTITY datareporting_telemetry_summary "&brandShortName; কে আরও ভাল করে তুলতে আমাদের সাহায্য করার জন্য আপনার ব্রাউজারের কর্মক্ষমতা, ব্যবহার, হার্ডওয়্যার এবং স্বনির্ধারণ সম্পর্কিত তথ্য &vendorShortName; কে জানায়">
 <!ENTITY datareporting_crashreporter_summary "আপনার ব্রাউজারকে আরও স্থিতিশীল এবং নিরাপদ করতে সাহায্য করার জন্য &brandShortName; &vendorShortName; কে ক্র্যাশ রিপোর্ট পাঠাচ্ছে">
@@ -480,7 +480,8 @@ size. -->
 <!ENTITY home_most_recent_empty "আপনার সাম্প্রতিক কালে ভিজিট করা ওয়েবসাইট গুলি এখানে দেখতে পাবেন।">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
-
+<!ENTITY home_most_recent_emptyhint2 "Psst: &formatS1; ব্যবহার করলে নতুন প্রাইভেট ট্যাব&formatS2; আপনার ইতিহাস সংরক্ষণ করবে না।">
+<!ENTITY home_reading_list_empty "পরবর্তীকালে দেখার জন্য নিবন্ধসমূহ এখানে দেখাবে">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
@@ -496,12 +497,15 @@ size. -->
 <!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
 
+<!ENTITY home_move_up_to_filter "&formatS; পর্যন্ত">
+
 <!ENTITY home_remote_tabs_title "সিঙ্ককৃত ট্যাব">
 <!ENTITY home_remote_tabs_empty "অন্যান্য ডিভাইস থেকে আপনার ট্যাব এখানে দেখানো হবে।">
 <!ENTITY home_remote_tabs_unable_to_connect "সংযোগ করতে ব্যর্থ">
-
+<!ENTITY home_remote_tabs_need_to_sign_in "আপনার ফায়ারফক্স অ্যাকাউন্ট এর সাথে পুনরায় সংযোগ স্থাপন করে সিঙ্কিং চালিয়ে যেতে হলে দয়া করে সাইন ইন করুন।">
 <!ENTITY home_remote_tabs_need_to_finish_migrating "আপনার নতুন ফায়ারফক্স অ্যাকাউন্ট প্রস্তুত!">
 
+<!ENTITY home_remote_tabs_trouble_verifying "আপনার অ্যাকাউন্ট যাচাই করতে সমস্যার সম্মুখীন হচ্ছেন?">
 <!ENTITY home_remote_tabs_need_to_verify "সিঙ্ক শুরু করার জন্য আপনার ফায়ারফক্স অ্যাকাউন্ট যাচাই করুন।">
 
 <!ENTITY home_remote_tabs_one_hidden_device "1 ডিভাইস লুকানো">
@@ -515,11 +519,13 @@ size. -->
 <!ENTITY home_remote_tabs_hidden_devices_title "গোপন ডিভাইসগুলি">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "নির্বাচিত ডিভাইস গুলি প্রকাশ করুন">
 
 <!ENTITY remote_tabs_panel_moved_title "আমার ট্যাব কোথায় গিয়েছিলে?">
 <!ENTITY remote_tabs_panel_moved_desc "আমরা অন্যান্য ডিভাইস থেকে আপনার ট্যাবগুলো আপনার হোম পেজের একটি প্যানেলের মধ্যে স্থানান্তরিত করেছি যা সহজেই একটি নতুন ট্যাব খোলার সময় ব্যবহার করা যাবে।">
 <!ENTITY remote_tabs_panel_moved_link "আমাকে আমার নতুন প্যানেলে নিয়ে যান।">
 
+<!ENTITY pin_site_dialog_hint "একটি সার্চ কিওয়ার্ড এন্টার করুন">
 
 <!ENTITY filepicker_title "ফাইল নির্বাচন করুন">
 <!ENTITY filepicker_audio_title "বেছে নিন বা একটি শব্দ রেকর্ড করুন">
@@ -585,6 +591,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
 
+<!ENTITY suggestion_for_engine "&formatS1; এ &formatS2; এর জন্য খোঁজ করুন">
+
 <!ENTITY webapp_generic_name "অ্যাপ">
 
 <!ENTITY searchable_description "বুকমার্ক এবং ইতিহাস">
@@ -609,7 +617,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY new_guest_session_title "&brandShortName; এখন পুনরায় চালু হবে">
 <!ENTITY new_guest_session_text2 "যে ব্যাক্তি এটি ব্যবহার করছে সে আপনার ব্যক্তিগত ব্রাউজিং ডেটা দেখতে পারবে না (যেমন সংরক্ষিত লগইন, ইতিহাস বা বুকমার্কসমূহ)।\n\nযখন তার সম্পন্ন হবে, তার ব্রাউজিং তথ্য মুছে যাবে এবং আপনার সেশন পুনরুদ্ধার করা হবে।">
 <!ENTITY guest_browsing_notification_title "অতিথি ব্রাউজিং সক্রিয় করা আছে">
-
+<!ENTITY guest_browsing_notification_text "প্রস্থান করতে ট্যাপ করুন">
 
 <!ENTITY exit_guest_session_title "&brandShortName; এখন পুনরায় চালু হবে">
 <!ENTITY exit_guest_session_text "এই সেশন থেকে ব্রাউজিং ডেটা মুছে ফেলা হবে।">
