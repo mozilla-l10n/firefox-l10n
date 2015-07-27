@@ -37,7 +37,7 @@
 <!ENTITY device.browserTabs "ব্রাউজার ট্যাব">
 <!ENTITY device.browserTabsTooltip "সংযুক্ত ডিভাইস এর ব্রাউজারের ট্যাবের একটি তালিকা দেখুন">
 <!ENTITY device.debugBrowserTab "ডিবাগ">
-
+<!ENTITY device.debugBrowserTabTooltip "ডিভাইসের এই ট্যাবটিতে সংযুক্ত ডেভলপার টুল গুলোকে খুলুন">
 <!ENTITY device.help "সাহায্য">
 
 <!ENTITY connection.connectTooltip "ডিভাইসের সাথে যুক্ত করুন">
@@ -89,8 +89,8 @@
 <!ENTITY projects.valid "কার্যকর">
 <!ENTITY projects.error "ত্রুটি">
 <!ENTITY projects.warning "সতর্কীকরণ">
-
-
+<!ENTITY projects.hosted "হোস্টেড">
+<!ENTITY projects.packaged "প্যাকেজকৃত">
 
 <!ENTITY help.title "অ্যাপ ম্যানেজার">
 <!ENTITY help.close "বন্ধ">
