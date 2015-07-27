@@ -5,9 +5,9 @@
 
 <!ENTITY newtab.pageTitle "নতুন ট্যাব">
 <!ENTITY newtab.customize.classic "আপনার শীর্ষ সাইট প্রদর্শন করুন">
-
-
-
+<!ENTITY newtab.customize.cog.enhanced "প্রস্তাবিত সাইটগুলি অন্তর্ভুক্ত করুন">
+<!ENTITY newtab.customize.cog.title2 "নতুন ট্যাব নিয়ন্ত্রণ">
+<!ENTITY newtab.customize.cog.learn "নতুন ট্যাব সম্পর্কে জানুন">
 <!ENTITY newtab.customize.title "অাপনার নতুন ট্যাব পৃষ্ঠাটি স্বনির্ধারণ করুন">
 <!ENTITY newtab.customize.suggested "দেখান প্রস্তাবিত এবং আপনার শীর্ষ সাইটগুলি">
 

@@ -115,7 +115,7 @@
 <!ENTITY prefs_title "পছন্দসমূহ">
 <!ENTITY prefs_editor_title "সম্পাদক">
 <!ENTITY prefs_general_title "সাধারণ">
-
+<!ENTITY prefs_restore "ডিফল্ট পুনঃস্থাপন করূন">
 <!ENTITY prefs_manage_components "বাড়তি কম্পোনেন্টসমূহ পরিচালনা করুন">
 <!ENTITY prefs_options_autoconnectruntime "পূর্ববর্তী রানটাইমের সাথে পুনঃসংযোগ করুন">
 <!ENTITY prefs_options_autoconnectruntime_tooltip "পূর্ববর্তী রানটাইমের সাথে পুনঃসংযোগ করুন যখন WebIDE শুরু হচ্ছে">
@@ -197,12 +197,14 @@
 <!ENTITY logs_title "পুনঃ-প্যাকেজ কম্যান্ড লগসমূহ">
 <!-- Simulator Options -->
 
+<!ENTITY simulator_title "সিমুলেটর বিকল্প">
+<!ENTITY simulator_remove "সিমুলেটর মুছে ফেলুন">
+<!ENTITY simulator_reset "ডিফল্ট পুনঃস্থাপন করুন">
 
-
-
+<!ENTITY simulator_software "সফ্টওয়্যার">
 <!ENTITY simulator_version "সংস্করণ">
-
-
+<!ENTITY simulator_profile "প্রোফাইল">
+<!ENTITY simulator_hardware "হার্ডওয়্যার">
 <!ENTITY simulator_device "ডিভাইস">
-
-
+<!ENTITY simulator_screenSize "স্ক্রিন">
+<!ENTITY simulator_pixelRatio "পিক্সেল অনুপাত">

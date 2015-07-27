@@ -95,7 +95,7 @@
 <!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
   -  boolean preference in about:config, in the options panel. -->
-
+<!ENTITY options.enableWorkers.tooltip  "এই বিকল্প চালু করলে ডেভেলপার টুলের সাহায্যে কাজগুলি ডিবাগ করা জাবে">
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
@@ -112,6 +112,8 @@
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
 
+<!ENTITY options.enableServiceWorkersHTTP.label     "সক্রিয় সার্ভিস HTTP-তে কাজ করে (টুলবক্স খোলা থাকলে)">
+<!ENTITY options.enableServiceWorkersHTTP.tooltip   "এই অপশন চালু করলে টুলবক্স খোলা এমন সমস্ত ট্যাবের জন্য সক্রিয় সার্ভিস HTTP-তে কাজ করে।">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
