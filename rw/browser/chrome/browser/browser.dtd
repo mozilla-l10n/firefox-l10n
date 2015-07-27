@@ -54,14 +54,14 @@ displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.label "Gufungura Dosiye...">
 <!ENTITY openFileCmd.accesskey "f">
-
+<!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Itunganyarupapuro...">
 <!ENTITY printSetupCmd.accesskey "p">
 <!ENTITY printPreviewCmd.label "Igaragazambere ry'Ibicapwa">
 <!ENTITY printPreviewCmd.accesskey "r">
 <!ENTITY printCmd.label "Gucapa...">
 <!ENTITY printCmd.accesskey "c">
-
+<!ENTITY printCmd.commandkey "p">
 
 <!ENTITY goOfflineCmd.label "Gukora Hatariho Interineti">
 <!ENTITY goOfflineCmd.accesskey "I">
@@ -83,7 +83,7 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY pageInfoCmd.label "Amakuru ya Paji">
 <!ENTITY pageInfoCmd.accesskey "y">
-
+<!ENTITY pageInfoCmd.commandkey "i">
 
 
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
@@ -157,7 +157,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY reloadButton.tooltip         "Kongera Gutangiza Paji Igezweho">
 
-
+<!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Guhagarika Gutangiza Iyi Paji">
 <!ENTITY goEndCap.tooltip             "Kujya kuri aderesi mu Mwanya w'Indangahantu">
 <!ENTITY printButton.label            "Gucapa">
@@ -179,7 +179,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  shortcut keys on Linux. -->
 
 
-
+<!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Ibikoresho">
 <!ENTITY toolsMenu.accesskey          "k"> 
@@ -244,6 +244,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY webide.keytext                    "F8">
 
 <!ENTITY devToolbar.keytext                "F2">
@@ -258,8 +259,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.label         "Dosiye"> 
 <!ENTITY fileMenu.accesskey       "D">
 <!ENTITY newNavigatorCmd.label        "Idirisha Rishya">
-
+<!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "R">
+
 
 
 
@@ -269,22 +271,22 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY redoCmd.label            "Gusubiramo">  
-
+<!ENTITY redoCmd.key            "Y">  
 <!ENTITY redoCmd.accesskey          "r"> 
 <!ENTITY cutCmd.label           "Gukata">  
-
+<!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "t"> 
 <!ENTITY copyCmd.label            "Gukoporora">  
 
 <!ENTITY copyCmd.accesskey          "k"> 
 <!ENTITY pasteCmd.label           "Komeka">  
-
+<!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "m"> 
 <!ENTITY deleteCmd.label          "Gusiba">  
-
+<!ENTITY deleteCmd.key            "D">  
 <!ENTITY deleteCmd.accesskey        "b"> 
 <!ENTITY selectAllCmd.label         "Guhitamo Byose">  
-
+<!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "h"> 
 
 
@@ -340,8 +342,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+<!ENTITY openCmd.commandkey           "l">
 
-
+<!ENTITY urlbar.accesskey             "d">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -364,11 +367,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
  -->
 
-
+<!ENTITY searchFocusUnix.commandkey   "j">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
 
+<!-- LOCALIZATION NOTE (search.label, searchAfter.label):
+     This string is used to build the header above the list of one-click search
+     providers when a one off engine has been selected.  The searchAfter text is
+     intentionally left empty for en-US and can be used by other localizations to
+     display a string after the search engine name.  This string will be displayed
+     as:  "Search <selected engine name><searchAfter.label text>" -->
+<!ENTITY searchAfter.label            "">
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
@@ -392,13 +402,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmd.accesskey       "I">
 <!ENTITY showOnlyThisFrameCmd.label     "Kwerekana Iyi Kadiri Gusa">
 <!ENTITY showOnlyThisFrameCmd.accesskey "K">
-
+<!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Kongera Gutangiza Ikadiri">
 <!ENTITY reloadFrameCmd.accesskey     "o">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Kureba Inkomoko y'Ihitamo">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Kureba Inkomo y'ImibareML">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
+<!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Kureba Inkomoko ya Paji">
 <!ENTITY viewPageSourceCmd.accesskey  "P">
 <!ENTITY viewFrameSourceCmd.label     "Kureba Inkomoko y'Ikadiri">
@@ -431,6 +442,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "Kubika Paji Muri...">
 <!ENTITY savePageCmd.accesskey        "b">
 <!-- alternate for content area context menu -->
+<!ENTITY savePageCmd.accesskey2       "P">
 
 <!ENTITY saveFrameCmd.label           "Kubika Ikadiri Muri...">
 <!ENTITY saveFrameCmd.accesskey       "I">
@@ -538,8 +550,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.label       "Gusohoka">
 <!ENTITY quitApplicationCmdWin2.accesskey   "o">
 
-
-
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Kuvamo"> 
 <!ENTITY quitApplicationCmd.accesskey   "v">
 
@@ -558,23 +570,24 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageReportIcon.tooltip            "Guhindura amagenamiterere yirambura ajyanye n'uru rubuga makuru.">
 
+<!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
 <!ENTITY editPopupSettingsUnix.label "Guhindura Ibyatoranyijwe by'Ingufuri y'Ibyifungura...">
 <!ENTITY editPopupSettings.label "Guhindura Amahitamo y'Ingufuri y'Ibyifungura...">
 <!ENTITY editPopupSettings.accesskey "r">
-
+<!ENTITY dontShowMessage.accesskey "D">
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "Guhinduranya Icyerekezo cya Paji">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "G">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Guhindura Icyerekezo cy'Inyandiko">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
-
+<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Gushaka kuri Iyi Paji...">
 <!ENTITY findOnCmd.accesskey "P">
-
+<!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Kongera Gushaka">
 <!ENTITY findAgainCmd.accesskey "G">
 
@@ -589,22 +602,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-<!-- Localization note (identity.runBy) : This string appears between a
-domain name (above) and an organization name (below). E.g.
-
-example.com
-which is run by
-Example Enterprises, Inc.
-
-The layout of the identity dialog prevents combining this into a single string with
-substitution variables.  If it is difficult to translate the sense of the string
-with that structure, consider a translation which ignores the preceding domain and
-just addresses the organization to follow, e.g. "This site is run by " -->
 
 
-<!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
-     localized title of this SUMO article
-     https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
+
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
@@ -645,8 +646,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
-<!ENTITY customizeMode.lwthemes.menuManage "tunganya">
-
+<!ENTITY customizeMode.lwthemes.menuManage "Tunganya">
 
 
 
@@ -694,7 +694,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      a CSS length value. -->
 
 
-
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
@@ -735,4 +734,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Pre-landed string for bug 1133662 -->
 
 <!-- Pre-landed strings for bug 1123519 -->
+
+<!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
+
+
+
 

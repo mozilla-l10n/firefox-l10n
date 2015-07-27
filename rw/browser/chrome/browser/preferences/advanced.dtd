@@ -65,11 +65,6 @@
 
 <!ENTITY updateTab.label                 "Kuvugurura">
 
-<!-- Note either updateAuto1 is used or (updateAutoMetro and updateAutoDesktop),
-     so re-using accesss key in updateAuto1 is OK. updateAutoDesktop can be found
-     in preferences.properties -->
-
-
 
 
 
