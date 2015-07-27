@@ -4,9 +4,22 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Telemetry Data">
 
-<!ENTITY aboutTelemetry.telemetryEnabled "  Telemetry is <span>enabled</span>.">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "  Telemetry is <span>disabled</span>.">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutTelemetry.slowSqlSection "  Slow SQL Statements">
 
@@ -15,6 +28,7 @@
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Thread Hangs">
 
 <!ENTITY aboutTelemetry.histogramsSection "  Histograms">
+
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Simple Measurements">
 
