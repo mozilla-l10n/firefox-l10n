@@ -5,7 +5,7 @@
 
 
 <!ENTITY dialog.title            " سافٹویر انسٹالیشن ">
-<!ENTITY dialog.style            "كھجر: 45em">
+<!ENTITY dialog.style            "width: 45em">
 <!ENTITY warningPrimary.label    "صرف كریو انسٹال ایڈ ۔ آنس تمن لكھئرن ہندئ پیٹھئ یمن پیٹھ تہئ یقین چھُوئ كران">
 <!ENTITY warningSecondary.label  "میلیشی یزسافٹ ویئر ہیكئ تہند  کمپیوٹر خراب کریتھ یا تراوئ  تہنز  پرائیوسی منز خلل  ۔">
 

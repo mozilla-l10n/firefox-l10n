@@ -3,6 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY appManager.title     "عمل۪ی ہِند تفصیلات">
-<!ENTITY appManager.style     "كھجر: 30em; كم از كم تھَزر: 20em;">
+<!ENTITY appManager.style     "width: 30em; min-height: 20em;">
 <!ENTITY remove.label         "تئ ہٹئویو">
 <!ENTITY remove.accesskey     "R">

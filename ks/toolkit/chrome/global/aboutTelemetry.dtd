@@ -4,11 +4,22 @@
 
 <!ENTITY aboutTelemetry.pageTitle "ٹیلی میٹری ڈاٹا">
 
-<!ENTITY aboutTelemetry.telemetryEnabled "ٹیلی میٹری چھ <span>اینیبلْڈ</span>۔">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "ٹیلی میٹری چھ <span>ڈیسیبلْڈ</span>۔">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutTelemetry.generalDataSection "جنرل ڈاٹا">
+
 
 
 <!ENTITY aboutTelemetry.slowSqlSection "آہستْہ ایس کیو ایل سیٹیٹمینٹ">

@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  engineManager.title       "اْنزاَئو  تلاش انجن  فہرست                                  ">
-<!ENTITY  engineManager.style       "کم از کم کھجر: 35em;">
+<!ENTITY  engineManager.style       "min-width: 35em;">
 <!ENTITY  engineManager.intro       "تہئ چہو مندرجہ ذیل تلاش انجن ِانِسٹلاڈ :">
 
 <!ENTITY  columnLabel.name          "ناو">

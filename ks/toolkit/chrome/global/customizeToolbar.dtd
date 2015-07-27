@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY dialog.title             "کسٹمائز ٹول بار ">
-<!ENTITY dialog.dimensions        "كھجر: 635px;تھزر: 400px;">
+<!ENTITY dialog.dimensions        "width: 92ch; height: 36em;">
 <!ENTITY instructions.description "تہ ہیكیو رلئیتھ یا ہٹئویتھ آئٹمس ٹولبارس تام یا ٹولبار پیٹھئ   ۔">
 <!ENTITY show.label               "ہئویو:">
 <!ENTITY iconsAndText.label       "آئيکنس تئ مواد">

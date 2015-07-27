@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY newprofile.title             "پروفائل ویزارڈ  بنئویو">
-<!ENTITY window.size                  "كھجر:  45 ایم; تھزر: 32  ایم">
+<!ENTITY window.size                  "width: 45em; height: 32em;">
 <!-- First wizard page -->
 
 <!ENTITY profileCreationExplanation_1.text  "&amp;برانڈ شاٹ ناو؛ چھ سِٹور کران انفارمیشن تُہنزن سیٹینگن تْہ ترجیحاتن مُتلق تُہندِس ذأتی پروفایلس منز۔">

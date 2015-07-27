@@ -9,15 +9,6 @@
 <!ENTITY paperInput.label "کاغذك سائز:">
 <!ENTITY paperInput.accesskey "P">
 
-<!ENTITY plexInput.label "پلیكس موڈ:">
-<!ENTITY plexInput.accesskey "m">
-
-<!ENTITY resolutionInput.label "ریزیلییوشن/ خصوصیت:  ">
-<!ENTITY resolutionInput.accesskey "e">
-
-<!ENTITY cmdInput.label "پرنٹ كمانڈ :">
-<!ENTITY cmdInput.accesskey "o">
-
 <!ENTITY jobTitleInput.label "جاب عنوان:">
 <!ENTITY jobTitleInput.accesskey "J">
 
@@ -26,13 +17,6 @@
 <!ENTITY grayRadio.accesskey "G">
 <!ENTITY colorRadio.label "رنگ">
 <!ENTITY colorRadio.accesskey "C">
-
-<!ENTITY colorspaceInput.label "رنگ جاے:">
-<!ENTITY colorspaceInput.accesskey "s">
-
-<!ENTITY fontsGroup.label "فانٹس:">
-<!ENTITY downloadFonts.label "فانٹس كریو پرینٹرس پیٹھ ڈاونلوڈ">
-<!ENTITY downloadFonts.accesskey "D">
 
 <!ENTITY edgeMarginInput.label "صفحئ كئ كنارئ پیٹھئ خاشس تام جاے">
 <!ENTITY topInput.label "ہ۪یور:">

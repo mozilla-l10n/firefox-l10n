@@ -42,6 +42,10 @@
 
 <!ENTITY syncDeviceName.label       "ڈیوایِس ناو:&amp;">
 <!ENTITY syncDeviceName.accesskey   "c">
+
+
+<!ENTITY cancelChangeSyncDeviceName.label "منسوخ">
+<!ENTITY saveChangeSyncDeviceName.label "محفوظ تھئویو">
 <!ENTITY unlinkDevice.label           "یئ آلئ كریو اَن لینك">
 <!-- Footer stuff -->
 

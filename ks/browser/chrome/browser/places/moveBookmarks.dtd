@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title              "فولڈ ر ژأریو...">
-<!ENTITY window.style              "كھجر:  45 ایم ;  تھزر: 32  ایم">
+<!ENTITY window.style              "width: 36em; height: 18em;">
 <!ENTITY moveTo.label              "کُن پکنأیو:">
 <!ENTITY newFolderButton.label     "نئو فولڈر&amp; ">
 <!ENTITY newFolderButton.accesskey "N">
