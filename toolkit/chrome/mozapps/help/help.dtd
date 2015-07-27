@@ -48,7 +48,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY helpSearch.commandkey          "k">
 
-<!ENTITY zLevel.label                   "នៅ​ខាងលើ​ជានិច្ច">
+<!ENTITY zLevel.label                   "នៅ​លើ​​គេ​ជានិច្ច">
 <!ENTITY zLevel.accesskey               "T">
 
 <!ENTITY fullZoomReduceBtn.label        "​បង្រួម">
