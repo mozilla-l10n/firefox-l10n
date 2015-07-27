@@ -10,3 +10,5 @@
 <!ENTITY usedAs "Sử dụng như:">
 <!ENTITY system "hệ thống">
 <!ENTITY remote "từ xa">
+<!-- LOCALIZATION NOTE (previewHint): This is the label shown as the
+     placeholder in font inspector preview text box. -->

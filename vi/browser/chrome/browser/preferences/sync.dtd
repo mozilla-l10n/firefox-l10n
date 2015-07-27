@@ -42,6 +42,10 @@
 
 <!ENTITY syncDeviceName.label       "Tên thiết bị:">
 <!ENTITY syncDeviceName.accesskey   "c">
+
+
+<!ENTITY cancelChangeSyncDeviceName.label "Hủy bỏ">
+<!ENTITY saveChangeSyncDeviceName.label "Lưu">
 <!ENTITY unlinkDevice.label           "Bỏ liên kết thiết bị này">
 <!-- Footer stuff -->
 

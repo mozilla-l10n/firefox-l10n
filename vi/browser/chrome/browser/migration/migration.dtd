@@ -20,6 +20,8 @@
 <!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "x">
 
+
+
 <!ENTITY noMigrationSources.label       "Không tìm thấy chương trình nào chứa trang đánh dấu, lược sử và dữ liệu mật khẩu.">
 
 <!ENTITY importSource.title             "Nhập các Thiết lập và Dữ liệu từ">

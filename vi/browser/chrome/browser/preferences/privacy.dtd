@@ -23,6 +23,8 @@
 <!ENTITY  locbar.openpage.label         "Các tab đang mở">
 <!ENTITY  locbar.openpage.accesskey     "t">
 
+
+
 <!ENTITY  acceptCookies.label           "Cho phép cookie từ các trang">
 <!ENTITY  acceptCookies.accesskey       "C">
 
