@@ -241,7 +241,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY browserConsoleCmd.accesskey  "o">
 
 <!ENTITY inspectContextMenu.label     "Elem vizsgálata">
-<!ENTITY inspectContextMenu.accesskey "Q">
+<!ENTITY inspectContextMenu.accesskey "z">
 
 <!ENTITY responsiveDesignTool.label   "Alkalmazkodó megjelenés nézet">
 <!ENTITY responsiveDesignTool.accesskey "A">
