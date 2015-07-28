@@ -105,6 +105,8 @@
 <!-- LOCALIZATION NOTE (inspectorExpandNode.label): This is the label
      shown in the inspector contextual-menu for recursively expanding
      mark-up elements -->
+
+<!ENTITY inspectorExpandNode.label       "ពង្រីក​ទាំងអស់">
 <!-- LOCALIZATION NOTE (inspectorCollapseNode.label): This is the label
      shown in the inspector contextual-menu for recursively collapsing
      mark-up elements -->
