@@ -26,7 +26,7 @@
 <!ENTITY community.exp.middle       " egy ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "nemzetközi közösség">
-<!ENTITY community.exp.end          "amely a nyílt, nyilvános és mindenki számára elérhető internetért dolgozik.">
+<!ENTITY community.exp.end          ", amely a nyílt, nyilvános és mindenki számára elérhető internetért dolgozik.">
 
 <!ENTITY community.start2           "A &brandShortName;öt a ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
@@ -34,11 +34,11 @@
 <!ENTITY community.middle2          " tervezte, egy ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "nemzetközi közösség">
-<!ENTITY community.end3             " amely a nyílt, nyilvános és mindenki számára elérhető internetért dolgozik.">
+<!ENTITY community.end3             ", amely a nyílt, nyilvános és mindenki számára elérhető internetért dolgozik.">
 
 <!ENTITY helpus.start               "Szeretne segíteni? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
-<!ENTITY helpus.donateLink          "Támogasson">
+<!ENTITY helpus.donateLink          "Támogasson,">
 <!ENTITY helpus.middle              " vagy ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY helpus.getInvolvedLink     "vegyen részt!">
