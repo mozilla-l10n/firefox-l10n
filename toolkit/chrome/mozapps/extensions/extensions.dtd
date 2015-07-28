@@ -23,7 +23,7 @@
 <!ENTITY cmd.back.tooltip                     "एक पृष्ठ पीछे जाएँ">
 <!ENTITY cmd.forward.tooltip                  "एक पृष्ठ आगे जाएँ">
 
-
+<!ENTITY showAllExtensions.button.label       "सभी विस्तार दिखाएँ">
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "सभी सहयुक्तियाँ सुरक्षित विधि के द्वारा निष्क्रिय की गई हैं.">
@@ -104,8 +104,8 @@
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "हटाएँ">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
-
-
+<!ENTITY cmd.debugAddon.label                 "दोषसुधार">
+<!ENTITY cmd.debugAddon.accesskey             "b">
 <!ENTITY cmd.showPreferencesWin.label         "विकल्प">
 <!ENTITY cmd.showPreferencesWin.tooltip       "इस सहयुक्ति के विकल्पों को बदलें">
 <!ENTITY cmd.showPreferencesUnix.label        "वरीयताएँ">
@@ -244,5 +244,5 @@
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
-
+<!ENTITY disabledUnsigned.devInfo.linkToManual "मैनुअल">
 
