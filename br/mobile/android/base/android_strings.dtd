@@ -252,7 +252,7 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "Gweredekaat ar zoum bepred">
 <!ENTITY pref_zoom_force_enabled_summary "Bountañ dre zorn a-benn ma vo zoumet war an holl bajennoù ">
 <!ENTITY pref_voice_input "Enankad mouezh">
-
+<!ENTITY pref_voice_input_summary "Aotren da skrivañ gant ar vouezh er varenn ditl">
 <!ENTITY pref_qrcode_enabled "Lenner bonegoù QR">
 <!ENTITY pref_qrcode_enabled_summary "Aotren ar c\u0027hwilerver QR er varenn ditl">
 
