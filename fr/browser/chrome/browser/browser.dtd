@@ -128,9 +128,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "M">
 <!ENTITY fullScreenExit.label "Quitter le mode plein écran">
 <!ENTITY fullScreenExit.accesskey "Q">
-<!ENTITY fullscreenAllowButton.label "Autoriser">
-<!ENTITY fullscreenExitButton.label "Interdire">
-
 <!ENTITY fullscreenExitHint2.value "Appuyez sur Échap à tout moment pour quitter.">
 <!ENTITY leaveDOMFullScreen.label "Quitter le mode plein écran">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
@@ -757,6 +754,7 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "Microphone à partager :">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+<!ENTITY getUserMedia.audioCapture.label "L'audio de l'onglet sera partagé.">
 <!ENTITY getUserMedia.allWindowsShared.message "L'ensemble des fenêtres visibles sur votre écran seront partagées.">
 
 <!-- Bad Content Blocker Doorhanger Notification -->

@@ -28,6 +28,5 @@
 
 <!ENTITY trackingProtection.startTour          "Découvrir les nouveautés">
 
-<!ENTITY trackingProtection.disabled           "Vous avez désactivé la protection contre le pistage.">
 <!ENTITY trackingProtection.enable.label       "Activer la protection contre le pistage">
 <!ENTITY trackingProtection.enable.accesskey   "A">
