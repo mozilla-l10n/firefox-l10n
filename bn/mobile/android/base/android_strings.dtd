@@ -16,7 +16,7 @@
 <!ENTITY  bookmarks_title "বুকমার্কসমুহ">
 <!ENTITY  history_title "ইতিহাস">
 <!ENTITY  reading_list_title "পড়ার তালিকা">
-<!ENTITY  recent_tabs_title "সাম্প্রতিক ট্যাব">
+<!ENTITY  recent_tabs_title "সাম্প্রতিক ট্যাবগুলি">
 
 <!ENTITY  switch_to_tab "ট্যাবে সুইচ করুন">
 
