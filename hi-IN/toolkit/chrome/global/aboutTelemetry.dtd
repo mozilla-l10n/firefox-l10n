@@ -9,7 +9,9 @@
 
 
 
+<!ENTITY aboutTelemetry.pingDataSource "डेटा स्रोत को पिंग करे:">
 
+<!ENTITY aboutTelemetry.showCurrentPingData "वर्तमान पिंग डेटा">
 
 
 
@@ -20,6 +22,7 @@
 
 <!ENTITY aboutTelemetry.generalDataSection "        सामान्य आंकड़ा">
 
+<!ENTITY aboutTelemetry.environmentDataSection "वातावरण डेटा">
 
 
 <!ENTITY aboutTelemetry.slowSqlSection "  धीरे sql निवेदन">
