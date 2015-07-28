@@ -1,9 +1,5 @@
 amazondotcn
-creativecommons
-eachnet
-google
 baidu
-baiduzhidao
-paipai
-wikipedia-zh-CN
 bing
+google
+wikipedia-zh-CN
