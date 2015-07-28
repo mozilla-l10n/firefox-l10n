@@ -3,8 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY privatebrowsingpage.title "Navegación Privada">
+<!ENTITY privatebrowsingpage.title.normal "No estás navegando de forma privada">
 
-
+<!ENTITY privatebrowsingpage.issueDesc.normal2 "Navegando de forma privada, no recordaremos ningún dato de tu historial de navegación o cookies.">
 
 
 

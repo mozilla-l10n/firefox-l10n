@@ -11,4 +11,5 @@
 <!ENTITY addonAction.uninstall                  "Uninstall">
 <!ENTITY addonAction.undo                       "Deshacer">
 
-
+<!ENTITY addonUnsigned.message                  "Este complemento podría no estar verificado por &brandShortName;.">
+<!ENTITY addonUnsigned.learnMore                "Aprender más">
