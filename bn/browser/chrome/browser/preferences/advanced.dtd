@@ -106,12 +106,12 @@
 <!ENTITY offlineAppRemove.confirm        "অফলাইন ডাটা মুছে ফেলা হবে">
 
 <!ENTITY certificateTab.label            "সনদপত্র">
-
+<!ENTITY certSelection.label             "অনুরোধ">
 <!ENTITY certSelection.description       "কোনো সার্ভার আমার ব্যক্তিগত সার্টিফিকেট অনুরোধ করলে:">
 <!ENTITY certs.auto                      "স্বয়ংক্রিয়ভাবে নির্বাচন করা হবে">
-
+<!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "প্রতিবার জিজ্ঞেস করা হবে">
-
+<!ENTITY certs.ask.accesskey             "A">
 
 
 
