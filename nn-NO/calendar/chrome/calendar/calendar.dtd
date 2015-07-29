@@ -146,7 +146,7 @@
 <!ENTITY calendar.task-details.due.label             "innan">
 
 <!ENTITY calendar.task.category.button.tooltip  "Kategoriser oppgåver">
-<!ENTITY calendar.task.complete.button.tooltip  "Merk valde oppgåver som fullførte">
+<!ENTITY calendar.task.complete.button.tooltip  "Marker valde oppgåver som fullførte">
 <!ENTITY calendar.task.priority.button.tooltip  "Endre prioritet">
 
 <!ENTITY calendar.task.text-filter.textbox.emptytext.base            "Filtrer oppgåver … #1">
@@ -189,7 +189,7 @@
 
 <!ENTITY percnt "&#38;#37;" ><!--=percent sign-->
 
-<!ENTITY calendar.context.markcompleted.label     "Merk som fullført">
+<!ENTITY calendar.context.markcompleted.label     "Marker som fullført">
 <!ENTITY calendar.context.markcompleted.accesskey "M">
 
 <!ENTITY progress.level.0             "0 &percnt; fullført">

@@ -46,7 +46,7 @@
 <!ENTITY deleteMessagePrefix.label "Når eg slettar ei melding:">
 <!ENTITY modelMoveToTrash.label "Flytt henne til denne mappa:">
 <!ENTITY modelMoveToTrash.accesskey "h">
-<!ENTITY modelMarkDeleted.label "Merk som sletta">
+<!ENTITY modelMarkDeleted.label "Marker som sletta">
 <!ENTITY modelMarkDeleted.accesskey "k">
 <!ENTITY modelDeleteImmediately.label "Slett med ein gong">
 <!ENTITY modelDeleteImmediately.accesskey "n">
