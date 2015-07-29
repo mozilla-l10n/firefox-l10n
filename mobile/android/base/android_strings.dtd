@@ -420,3 +420,7 @@
 <!ENTITY restriction_disallow_report_site_issue_description "Nascondi la voce di menu “Segnala problema sito”.">
 <!ENTITY restriction_disallow_import_settings_title "Disattiva importazione impostazioni">
 <!ENTITY restriction_disallow_import_settings_description "Non consentire l’importazione di impostazioni da altri browser di sistema.">
+<!ENTITY restriction_disallow_addons_title "Disattiva comp. aggiuntivi">
+<!ENTITY restriction_disallow_addons_description "Impedisci l’installazione di componenti aggiuntivi.">
+<!ENTITY restriction_disallow_apps_title "Disattiva app">
+<!ENTITY restriction_disallow_apps_description "Impedisci l’installazione di app da Firefox Marketplace.">
