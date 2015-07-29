@@ -73,7 +73,7 @@
 <!ENTITY certmgr.details.accesskey            "F">
 <!ENTITY certmgr.fields.label                 "क्षेत्र मान">
 <!ENTITY certmgr.fields.accesskey             "V">
-
+<!ENTITY certmgr.hierarchy.label              "प्रमाणपत्र पदक्रम">
 
 <!ENTITY certmgr.addException.label           "अपवाद जोड़ें…">
 <!ENTITY certmgr.addException.accesskey       "x">
