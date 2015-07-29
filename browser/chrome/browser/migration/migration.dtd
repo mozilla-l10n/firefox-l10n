@@ -19,6 +19,8 @@
 <!ENTITY importFromChrome.accesskey     "C">
 <!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "F">
+<!ENTITY importFrom360se.label          "360 trygg nettlesar">
+<!ENTITY importFrom360se.accesskey      "3">
 
 <!ENTITY noMigrationSources.label       "Klarte ikkje å finna program som inneheld bokmerke, historikk eller passordinfo.">
 

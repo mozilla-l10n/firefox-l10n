@@ -57,9 +57,9 @@
 <!ENTITY otherActionsOpenInNewWindow1.accesskey "n">
 <!ENTITY otherActionsOpenInNewTab1.label "Opna i ny fane">
 <!ENTITY otherActionsOpenInNewTab1.accesskey "e">
-<!ENTITY markAsReadMenuItem1.label "Merk som lest">
+<!ENTITY markAsReadMenuItem1.label "Marker som lesen">
 <!ENTITY markAsReadMenuItem1.accesskey "M">
-<!ENTITY markAsUnreadMenuItem1.label "Merk som ulesen">
+<!ENTITY markAsUnreadMenuItem1.label "Marker som ulesen">
 <!ENTITY markAsUnreadMenuItem1.accesskey "M">
 <!ENTITY saveAsMenuItem1.label "Lagra som …">
 <!ENTITY saveAsMenuItem1.accesskey "s">

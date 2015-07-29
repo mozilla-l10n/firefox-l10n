@@ -16,7 +16,7 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Privat nettlesing)">
 
 <!ENTITY appmenu.tooltip                     "Opna meny">
-<!ENTITY navbarOverflow.label                "Fleire verktøy …">
+<!ENTITY navbarOverflow.label                "Fleire verkty …">
 
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "Oppdater fane">
@@ -122,7 +122,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenMinimize.tooltip "Minimer">
 <!ENTITY fullScreenRestore.tooltip "Gjenopprett">
 <!ENTITY fullScreenClose.tooltip "Lukk">
-<!ENTITY fullScreenAutohide.label "Gøym verktøylinjer">
+<!ENTITY fullScreenAutohide.label "Gøym verktylinjer">
 <!ENTITY fullScreenAutohide.accesskey "G">
 <!ENTITY fullScreenExit.label "Avslutt fullskjermmodus">
 <!ENTITY fullScreenExit.accesskey "v">
@@ -194,8 +194,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Bokmerke">
 <!ENTITY bookmarksMenuButton.unsorted.label "Usorterte bokmerke">
-<!ENTITY viewBookmarksSidebar2.label        "Vis bokmerkesidestolpen">
-<!ENTITY viewBookmarksToolbar.label         "Vis bokmerkeverktøylinje">
+<!ENTITY viewBookmarksSidebar2.label        "Vis sidestolpe for bokmerke">
+<!ENTITY viewBookmarksToolbar.label         "Vis verktylinje for bokmerke">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -206,10 +206,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyButton.label            "Historikk">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
-<!ENTITY toolsMenu.label              "Verktøy">
+<!ENTITY toolsMenu.label              "Verkty">
 <!ENTITY toolsMenu.accesskey          "e"> 
 
-<!ENTITY keywordfield.label           "Lag nykelord for dette søket …">
+<!ENTITY keywordfield.label           "Legg til stikkord for dette søket …">
 <!ENTITY keywordfield.accesskey       "L">
 
 <!ENTITY downloads.label              "Nedlastingar">
@@ -275,6 +275,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 <!ENTITY browserContentToolboxMenu.label     "Verktøykasse for nettlesarinnhald">
+<!ENTITY browserContentToolboxMenu.accesskey "x">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Lukk utviklar-verktøylinje">
 <!ENTITY devToolbarMenu.label              "Utviklar-verktøylinje">
@@ -287,14 +288,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "Slå av/på verktøy">
+<!ENTITY devToolboxMenuItem.label          "Slå av/på verkty">
 <!ENTITY devToolboxMenuItem.accesskey      "t">
 <!ENTITY devToolboxMenuItem.keytext        "I">
 
-<!ENTITY devToolbarToolsButton.tooltip     "Slå av/på utviklarverktøy">
-<!ENTITY devToolbarOtherToolsButton.label  "Fleire verktøy">
+<!ENTITY devToolbarToolsButton.tooltip     "Slå av/på utviklarverkty">
+<!ENTITY devToolbarOtherToolsButton.label  "Fleire verkty">
 
-<!ENTITY getMoreDevtoolsCmd.label        "Hent fleire verktøy">
+<!ENTITY getMoreDevtoolsCmd.label        "Hent fleire verkty">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "H">
 
 <!ENTITY fileMenu.label         "Fil"> 
@@ -304,6 +305,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "Nytt privat vindauge">
 <!ENTITY newPrivateWindow.accesskey "v">
+<!ENTITY newNonRemoteWindow.label   "Nytt Ikkje-e10s vindauge">
 
 <!ENTITY editMenu.label         "Rediger"> 
 <!ENTITY editMenu.accesskey       "R"> 
@@ -341,7 +343,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewMenu.accesskey       "V"> 
 <!ENTITY viewTabGroups.label            "Fanegrupper">
 <!ENTITY viewTabGroups.accesskey        "F">
-<!ENTITY viewToolbarsMenu.label       "Verktøylinjer"> 
+<!ENTITY viewToolbarsMenu.label       "Verktylinjer"> 
 <!ENTITY viewToolbarsMenu.accesskey     "V"> 
 <!ENTITY viewSidebarMenu.label "Sidestolpe">
 <!ENTITY viewSidebarMenu.accesskey "d">
@@ -671,29 +673,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label                   "Avbryt">
 <!ENTITY editBookmark.removeBookmark.accessKey       "S">
 
-<!ENTITY identity.unverifiedsite2 "Denne nettsida har ingen identitetsinformasjon.">
-<!ENTITY identity.connectedTo "Du er tilkopla">
-<!-- Localization note (identity.runBy) : This string appears between a
-domain name (above) and an organization name (below). E.g.
+<!ENTITY identity.connectionSecure "Trygt samband">
+<!ENTITY identity.connectionNotSecure "Sambandet er ikkje trygt">
+<!ENTITY identity.connectionVerified "&brandShortName; stadfesta at det er trygt samband til denne sida, driven av:">
+<!ENTITY identity.connectionInternal "Dette er ei trygg &brandShortName;-side.">
 
-example.com
-which is run by
-Example Enterprises, Inc.
-
-The layout of the identity dialog prevents combining this into a single string with
-substitution variables.  If it is difficult to translate the sense of the string
-with that structure, consider a translation which ignores the preceding domain and
-just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "som høyrer til">
-
-<!ENTITY identity.moreInfoLinkText "Meir informasjon …">
+<!ENTITY identity.moreInfoLinkText2 "Meir informasjon">
 
 <!ENTITY identity.permissions "Løyve">
-
-<!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
-     localized title of this SUMO article
-     https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
-<!ENTITY identity.help.tooltip "Korleis veit eg om tilkoplinga til ei nettside er trygg?">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -773,7 +760,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY mixedContentBlocked2.message "Utrygt innhald">
 <!ENTITY mixedContentBlocked2.moreinfo "Nokre ukrypterte element på denne nettsida har vorte blokkerte.">
-<!ENTITY mixedContentBlocked2.learnMore "Lær meir">
+<!ENTITY mixedContentBlocked2.learnMore "Les meir">
 <!ENTITY mixedContentBlocked2.options "Innstillingar">
 <!ENTITY mixedContentBlocked2.unblock.label "Slå av vern no">
 <!ENTITY mixedContentBlocked2.unblock.accesskey "S">
@@ -864,3 +851,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Pre-landed strings for bug 1123519 -->
 <!ENTITY readingList.sidebar.add.label            "Legg til i leselista">
 <!ENTITY readingList.sidebar.add.tooltip          "Legg til denne sida i leselista">
+
+<!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
+<!ENTITY saveToPocketCmd.label     "Lagra sida til Pocket">
+<!ENTITY saveToPocketCmd.accesskey "k">
+<!ENTITY saveLinkToPocketCmd.label     "Lagra lenkje til Pocket">
+<!ENTITY saveLinkToPocketCmd.accesskey "e">
+<!ENTITY pocketMenuitem.label      "Vis Pocket-liste">
