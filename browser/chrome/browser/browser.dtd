@@ -487,6 +487,7 @@
 <!ENTITY editBookmark.removeBookmark.accessKey "s">
 <!ENTITY identity.connectionSecure "Connessione sicura">
 <!ENTITY identity.connectionNotSecure "Connessione non sicura">
+<!ENTITY identity.connectionFile "Questa pagina è salvata sul dispositivo in uso.">
 <!ENTITY identity.connectionVerified "La sicurezza della connessione è stata verificata da &brandShortName;. Il sito è gestito da:">
 <!ENTITY identity.connectionInternal "Questa è una pagina sicura di &brandShortName;.">
 <!ENTITY identity.moreInfoLinkText2 "Ulteriori informazioni">
