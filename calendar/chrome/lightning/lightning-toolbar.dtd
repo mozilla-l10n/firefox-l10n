@@ -17,22 +17,22 @@
 <!ENTITY lightning.toolbar.gototoday.tooltip "Pojdi na današnji dan">
 <!ENTITY lightning.toolbar.print.label "Natisni">
 <!ENTITY lightning.toolbar.print.tooltip "Natisni dogodke ali opravila">
-<!-- Mode Toolbar -->
 
+<!-- Mode Toolbar -->
 <!ENTITY lightning.toolbar.calendar.label     "Koledar">
 <!ENTITY lightning.toolbar.calendar.tooltip   "Preklopi na zavihek koledar">
 <!ENTITY lightning.toolbar.calendar.accesskey "K">
 <!ENTITY lightning.toolbar.task.label         "Opravila">
 <!ENTITY lightning.toolbar.task.tooltip       "Preklopi na zavihek z opravili">
 <!ENTITY lightning.toolbar.task.accesskey     "O">
-<!-- Toolbar write button -->
 
+<!-- Toolbar write button -->
 <!ENTITY lightning.toolbar.newevent.label     "Dogodek">
 <!ENTITY lightning.toolbar.newevent.tooltip   "Ustvari nov dogodek">
 <!ENTITY lightning.toolbar.newtask.label      "Opravilo">
 <!ENTITY lightning.toolbar.newtask.tooltip    "Ustvari novo opravilo">
-<!-- Calendar and Task Mode Toolbar -->
 
+<!-- Calendar and Task Mode Toolbar -->
 <!ENTITY lightning.toolbar.day.label                 "Dan">
 <!ENTITY lightning.toolbar.day.accesskey             "D">
 <!ENTITY lightning.toolbar.week.label                "Teden">

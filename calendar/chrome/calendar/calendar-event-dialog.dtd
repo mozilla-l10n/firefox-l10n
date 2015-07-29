@@ -25,18 +25,18 @@
 <!ENTITY newevent.status.needsaction.label        "potrebuje poseg" >
 <!ENTITY newevent.status.inprogress.label         "V teku" >
 <!ENTITY newevent.status.completed.label          "Dokončan" >
-<!-- The following entity is for New Task dialog only -->
 
+<!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#037; končano">
+
 <!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
    - These two labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
-
 <!ENTITY event.attendees.notify.label               "Obvesti udeležence">
 <!ENTITY event.attendees.notifyundisclosed.label    "Loči povabila za posamezne udeležence">
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "Ta možnost pošlje eno e-poštno povabilo za posameznega udeleženca. Vsako povabilo vsebuje samo prejemnika-udeleženca, tako da drugi udeleženci niso razkriti.">
-<!-- Keyboard Shortcuts -->
 
+<!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "D">
 <!ENTITY event.dialog.new.task.key2               "O">
 <!ENTITY event.dialog.new.message.key2            "N">
@@ -50,8 +50,8 @@
 <!ENTITY event.dialog.copy.key                    "C">
 <!ENTITY event.dialog.paste.key                   "V">
 <!ENTITY event.dialog.select.all.key              "A">
-<!-- Menubar -->
 
+<!-- Menubar -->
 <!ENTITY  event.menu.item.new.label                       "Novo">
 <!ENTITY  event.menu.item.new.accesskey                   "N">
 <!ENTITY  event.menu.item.new.event.label                 "Dogodek">
@@ -138,8 +138,8 @@
 <!ENTITY event.email.attendees.accesskey                  "v">
 <!ENTITY event.email.tentative.attendees.label            "Sestavi e-pošto za nepotrjene udeležence …">
 <!ENTITY event.email.tentative.attendees.accesskey        "n">
-<!-- Toolbar -->
 
+<!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "Shrani in zapri">
 <!ENTITY  event.toolbar.delete.label                      "Izbriši">
 <!ENTITY  event.toolbar.attendees.label                   "Povabi udeležence">
@@ -153,8 +153,8 @@
 <!ENTITY  event.toolbar.priority.tooltip                  "Spremeni prednost">
 <!ENTITY  event.toolbar.status.tooltip                    "Spremeni stanje">
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Spremeni prosti/zaseden čas">
-<!-- Main page -->
 
+<!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Naslov:" >
 <!ENTITY event.title.textbox.accesskey                    "N">
 <!ENTITY event.location.label                             "Kraj:" >
@@ -220,8 +220,8 @@
 
 <!ENTITY event.statusbarpanel.freebusy.label              "Čas kot:">
 <!ENTITY event.statusbarpanel.privacy.label               "Zasebnost:">
-<!-- Recurrence dialog -->
 
+<!-- Recurrence dialog -->
 <!ENTITY recurrence.title.label                         "Uredi ponovitve">
 
 <!ENTITY event.repeat.does.not.repeat.label             "Se ne ponavlja">
@@ -270,6 +270,7 @@
 <!ENTITY event.recurrence.every.label                        "vsakih:" >
 <!ENTITY repeat.units.years.both                             "let" >
 <!ENTITY event.recurrence.pattern.yearly.every.month.label   "Vsak" >
+
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
      Portuguese: 6 de Setembro
@@ -277,7 +278,6 @@
      event.recurrence.pattern.yearly.of.label is "of" in
      Edit recurrence window -> Recurrence pattern -> Repeat yearly
 -->
-
 <!ENTITY event.recurrence.pattern.yearly.of.label            "." >
 
 <!ENTITY event.recurrence.pattern.yearly.month.1.label       "januar" >
@@ -327,8 +327,8 @@
 <!ENTITY event.recurrence.appointments.label            "domenkov" >
 <!ENTITY event.repeat.until.label                       "Ponavljaj do" >
 <!ENTITY event.recurrence.preview.label                 "Predogled">
-<!-- Attendees dialog -->
 
+<!-- Attendees dialog -->
 <!ENTITY invite.title.label                     "Povabi udeležence">
 <!ENTITY event.organizer.label                  "Organizator">
 <!ENTITY event.freebusy.suggest.slot            "Predlagaj časovni termin:">
@@ -348,12 +348,12 @@
 <!ENTITY event.attendee.usertype.group          "Skupina">
 <!ENTITY event.attendee.usertype.resource       "Vir">
 <!ENTITY event.attendee.usertype.room           "Klepetalnica">
-<!-- Timezone dialog -->
 
+<!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Navedite časovni pas">
 <!ENTITY event.timezone.custom.label     "Dodatni časovni pasovi …">
-<!-- Read-Only dialog -->
 
+<!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Splošno">
 <!ENTITY read.only.title.label           "Naziv:">
 <!ENTITY read.only.event.start.label     "Začetni datum:">
