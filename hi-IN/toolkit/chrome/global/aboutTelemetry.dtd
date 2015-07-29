@@ -24,6 +24,7 @@
 
 <!ENTITY aboutTelemetry.environmentDataSection "वातावरण डेटा">
 
+<!ENTITY aboutTelemetry.telemetryLogSection "टेलीमेटरी लॉग">
 
 <!ENTITY aboutTelemetry.slowSqlSection "  धीरे sql निवेदन">
 

@@ -7,4 +7,5 @@
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutServiceWorkers.maintitle                 "सर्विस वर्कर्स पंजीकृत किया गया">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
+<!ENTITY aboutServiceWorkers.warning_not_enabled       "सर्विस वर्कर्स सक्षम नहीं किया जाता हैं.">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
