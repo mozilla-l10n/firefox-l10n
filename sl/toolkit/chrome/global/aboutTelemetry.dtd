@@ -4,17 +4,24 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Telemetrija">
 
-<!ENTITY aboutTelemetry.telemetryEnabled "
-  Telemetrija je <span>vključena</span>.
-">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "
-  Telemetrija je <span>izključena</span>.
-">
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutTelemetry.generalDataSection "
   Splošni podatki
 ">
+
 
 <!ENTITY aboutTelemetry.telemetryLogSection "
   Dnevnik telemetrije
