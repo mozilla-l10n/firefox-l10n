@@ -1,13 +1,13 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
+
 <!-- File menu items -->
-
-
 <!ENTITY saveCmd.key "S">
-<!-- Edit menu items -->
 
+<!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "Prilepi brez oblikovanja">
 <!ENTITY pasteNoFormatting.accesskey "a">
 <!ENTITY pasteNoFormatting.key "V">
@@ -23,8 +23,8 @@
 <!ENTITY checkSpellingCmd2.label "Preveri črkovanje ...">
 <!ENTITY checkSpellingCmd2.accesskey "P">
 <!ENTITY checkSpellingCmd2.key "p">
-<!-- Insert menu items -->
 
+<!-- Insert menu items -->
 <!ENTITY insertMenu.label "Vstavi">
 <!ENTITY insertMenu.accesskey "V">
 <!ENTITY insertLinkCmd.label "Povezavo …">
@@ -46,14 +46,14 @@
 <!ENTITY insertCharsCmd.accesskey "Z">
 <!ENTITY insertBreakAllCmd.label "Prelomi pod slikami">
 <!ENTITY insertBreakAllCmd.accesskey "r">
-<!-- Used just in context popup. -->
 
+<!-- Used just in context popup. -->
 <!ENTITY createLinkCmd.label "Ustvari povezavo …">
 <!ENTITY createLinkCmd.accesskey "U">
 <!ENTITY editLinkCmd.label "Uredi povezavo v novem sestavljalniku">
 <!ENTITY editLinkCmd.accesskey "U">
-<!-- Font Face SubMenu -->
 
+<!-- Font Face SubMenu -->
 <!ENTITY FontFaceSelect.tooltip "Izberite pisavo">
 <!ENTITY fontfaceMenu.label "Pisava">
 <!ENTITY fontfaceMenu.accesskey "P">
@@ -68,19 +68,17 @@
 <!ENTITY fontTimes.accesskey "T">
 <!ENTITY fontCourier.label "Courier">
 <!ENTITY fontCourier.accesskey "C">
-<!-- Font Size SubMenu -->
 
+<!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.tooltip "Izberite velikost pisave">
 <!ENTITY decreaseFontSize.label "Manjša">
 <!ENTITY decreaseFontSize.accesskey "M">
 <!ENTITY decrementFontSize.key "&lt;">
-<!-- < is above this key on many keyboards -->
-<!ENTITY decrementFontSize.key2 ","> 
+<!ENTITY decrementFontSize.key2 ","> <!-- < is above this key on many keyboards -->
 <!ENTITY increaseFontSize.label "Večja">
 <!ENTITY increaseFontSize.accesskey "V">
 <!ENTITY incrementFontSize.key "&gt;">
-<!-- > is above this key on many keyboards -->
-<!ENTITY incrementFontSize.key2 "."> 
+<!ENTITY incrementFontSize.key2 "."> <!-- > is above this key on many keyboards -->
 
 <!ENTITY fontSizeMenu.label "Velikost">
 <!ENTITY fontSizeMenu.accesskey "V">
@@ -98,8 +96,8 @@
 <!ENTITY size-x-largeCmd.accesskey "k">
 <!ENTITY size-xx-largeCmd.label "xx-velika">
 <!ENTITY size-xx-largeCmd.accesskey "i">
-<!-- Font Style SubMenu -->
 
+<!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "Slog pisave">
 <!ENTITY fontStyleMenu.accesskey "S">
 <!ENTITY styleBoldCmd.label "Krepko">
@@ -167,8 +165,8 @@
 <!ENTITY paragraphAddressCmd.accesskey "N">
 <!ENTITY paragraphPreformatCmd.label "Vnaprej oblikovano">
 <!ENTITY paragraphPreformatCmd.accesskey "V">
-<!-- List menu items -->
 
+<!-- List menu items -->
 <!ENTITY formatlistMenu.label "Seznam">
 <!ENTITY formatlistMenu.accesskey "z">
 <!ENTITY noneCmd.label "Brez">
@@ -191,8 +189,8 @@
 <!-- isn't used in menu now, but may be added in future -->
 <!ENTITY advancedPropertiesCmd.label "Napredne lastnosti">
 <!ENTITY advancedPropertiesCmd.accesskey "N">
-<!-- Align menu items -->
 
+<!-- Align menu items -->
 <!ENTITY alignMenu.label "Poravnaj">
 <!ENTITY alignMenu.accesskey "n">
 <!ENTITY alignLeft.label "Levo">
@@ -207,8 +205,8 @@
 <!ENTITY alignJustify.label "Obojestransko">
 <!ENTITY alignJustify.accesskey "O">
 <!ENTITY alignJustify.tooltip "Poravnaj obojestransko">
-<!-- Layer toolbar items -->
 
+<!-- Layer toolbar items -->
 <!ENTITY layer.tooltip "Plast">
 <!ENTITY layerSendToBack.tooltip "Prestavi v ozadje">
 <!ENTITY layerBringToFront.tooltip "Prestavi v ospredje">
@@ -222,12 +220,12 @@
 
 <!ENTITY colorsAndBackground.label "Barve strani in ozadja …">
 <!ENTITY colorsAndBackground.accesskey "i">
-<!-- Table Menu -->
 
+<!-- Table Menu -->
 <!ENTITY tableMenu.label "Tabela">
 <!ENTITY tableMenu.accesskey "T">
-<!-- Select Submenu -->
 
+<!-- Select Submenu -->
 <!ENTITY tableSelectMenu.label "Izberi">
 <!ENTITY tableSelectMenu.accesskey "z">
 
@@ -237,8 +235,8 @@
 <!ENTITY tableInsertMenu2.accesskey "V">
 <!ENTITY tableDeleteMenu2.label "Izbriši tabelo">
 <!ENTITY tableDeleteMenu2.accesskey "r">
-<!-- Insert SubMenu -->
 
+<!-- Insert SubMenu -->
 <!ENTITY tableInsertMenu.label "Vstavi">
 <!ENTITY tableInsertMenu.accesskey "V">
 <!ENTITY tableTable.label "Tabelo">
@@ -271,12 +269,12 @@
 <!-- Delete SubMenu -->
 <!ENTITY tableDeleteMenu.label "Izbriši">
 <!ENTITY tableDeleteMenu.accesskey "b">
+
 <!-- text for "Join Cells" is in editor.properties 
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly
 -->
-
 <!ENTITY tableJoinCells.label "d">
 <!ENTITY tableJoinCells.accesskey "d">
 <!ENTITY tableSplitCell.label "Razdeli celico">
@@ -285,8 +283,8 @@
 <!ENTITY convertToTable.accesskey "U">
 <!ENTITY tableProperties.label "Lastnosti tabele …">
 <!ENTITY tableProperties.accesskey "L">
-<!-- Toolbar-only items -->
 
+<!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Vrstica z menijem">
 <!ENTITY formatToolbar.tooltip "Orodna vrstica za oblikovanje">
 <!ENTITY cutToolbarCmd.tooltip "Izreži">
@@ -312,8 +310,8 @@
 <!ENTITY BackgroundColorButton.tooltip "Izberi barvo ozadja">
 <!ENTITY throbber.tooltip "Pojdi na spletno stran &vendorShortName;">
 <!ENTITY HighlightColorButton.tooltip "Izberi označevalno barvo besedila">
-<!-- Editor toolbar -->
 
+<!-- Editor toolbar -->
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Manjša velikost pisave">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Večja velikost pisave">
 <!ENTITY boldToolbarCmd.tooltip "Krepko">
@@ -329,16 +327,16 @@
 <!ENTITY alignCenterButton.tooltip "Poravnaj besedilo na sredino">
 <!ENTITY alignRightButton.tooltip "Poravnaj besedilo na desni rob">
 <!ENTITY alignJustifyButton.tooltip "Poravnaj besedilo na levi in desni rob">
-<!-- Structure Toolbar Context Menu items -->
 
+<!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "Izberi">
 <!ENTITY structSelect.accesskey     "z">
 <!ENTITY structRemoveTag.label      "Odstrani oznako">
 <!ENTITY structRemoveTag.accesskey  "O">
 <!ENTITY structChangeTag.label      "Spremeni oznako">
 <!ENTITY structChangeTag.accesskey  "S">
-<!-- TOC manipulation -->
 
+<!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "Vstavi">
 <!ENTITY insertTOC.accesskey      "V">
 <!ENTITY updateTOC.label          "Posodobi">

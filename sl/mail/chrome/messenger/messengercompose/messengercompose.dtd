@@ -1,11 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
-
 <!ENTITY msgComposeWindow.title "Sestavi: (brez zadeve)">
-<!-- File Menu -->
 
+<!-- File Menu -->
 <!ENTITY fileMenu.label "Datoteka">
 <!ENTITY fileMenu.accesskey "D">
 <!ENTITY newMenu.label "Novo">
@@ -57,8 +57,8 @@
 <!ENTITY printCmd.label "Natisni …">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "N">
-<!-- Edit Menu -->
 
+<!-- Edit Menu -->
 <!ENTITY editMenu.label "Uredi">
 <!ENTITY editMenu.accesskey "U">
 <!ENTITY undoCmd.label "Razveljavi">
@@ -102,8 +102,8 @@
 <!ENTITY findPrevCmd.accesskey "š">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!-- View Menu -->
 
+<!-- View Menu -->
 <!ENTITY viewMenu.label "Pogled">
 <!ENTITY viewMenu.accesskey "P">
 <!ENTITY viewToolbarsMenuNew.label "Orodne vrstice">
@@ -121,12 +121,12 @@
 
 <!ENTITY addressSidebar.label "Stranska vrstica stikov">
 <!ENTITY addressSidebar.accesskey "S">
-<!-- Format Menu -->
 
+<!-- Format Menu -->
 <!ENTITY formatMenu.label "Oblika">
 <!ENTITY formatMenu.accesskey "O">
-<!-- Options Menu -->
 
+<!-- Options Menu -->
 <!ENTITY optionsMenu.label "Možnosti">
 <!ENTITY optionsMenu.accesskey "M">
 <!ENTITY checkSpellingCmd2.label "Preveri črkovanje …">
@@ -137,8 +137,8 @@
 <!ENTITY enableInlineSpellChecker.accesskey "s">
 <!ENTITY quoteCmd.label "Navedi sporočilo">
 <!ENTITY quoteCmd.accesskey "N">
-<!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
 
+<!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCard.label "Pripni vizitko (vCard)">
 <!ENTITY attachVCard.accesskey "t">
 
@@ -174,8 +174,8 @@
 <!ENTITY fileCarbonCopyCmd.label "Pošlji kopijo za">
 <!ENTITY fileCarbonCopyCmd.accesskey "š">
 <!ENTITY fileHereMenu.label "Shrani tukaj">
-<!-- Tools Menu -->
 
+<!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Orodja">
 <!ENTITY tasksMenu.accesskey "r">
 <!ENTITY messengerCmd.label "Pošta in novičarske skupine">
@@ -191,15 +191,15 @@
 <!ENTITY preferencesCmd2.accesskey "M">
 <!ENTITY preferencesCmdUnix.label "Nastavitve">
 <!ENTITY preferencesCmdUnix.accesskey "N">
-<!--  Mac OS X Window Menu -->
 
+<!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Skrči">
 <!ENTITY bringAllToFront.label "Prestavi vse v ospredje">
 <!ENTITY zoomWindow.label "Povečava">
 <!ENTITY windowMenu.label "Okno">
-<!-- Mail Toolbar -->
 
+<!-- Mail Toolbar -->
 <!ENTITY sendButton.label "Pošlji">
 <!ENTITY quoteButton.label "Navedi">
 <!ENTITY addressButton.label "Stiki">
@@ -207,8 +207,8 @@
 <!ENTITY spellingButton.label "Črkovanje">
 <!ENTITY saveButton.label "Shrani">
 <!ENTITY printButton.label "Natisni">
-<!-- Mail Toolbar Tooltips -->
 
+<!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Pošlji to sporočilo zdaj">
 <!ENTITY sendlaterButton.tooltip "Pošlji to sporočilo kasneje">
 <!ENTITY quoteButton.tooltip "Navedi prejšnje sporočilo">
@@ -220,10 +220,10 @@
 <!ENTITY copyButton.tooltip             "Kopiraj">
 <!ENTITY pasteButton.tooltip            "Prilepi">
 <!ENTITY printButton.tooltip "Natisni to sporočilo">
+
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
-
 <!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "Od:">
 <!ENTITY fromAddr.accesskey "d">
@@ -238,8 +238,8 @@
 <!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
      to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY attachments.accesskey "n">
-<!-- Format Toolbar, imported from editorAppShell.xul -->
 
+<!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Vstavi smeška">
 <!ENTITY smiley1Cmd.label "Nasmeh">
 <!ENTITY smiley2Cmd.label "Grd pogled">
@@ -257,8 +257,8 @@
 <!ENTITY smiley14Cmd.label "Nedolžen">
 <!ENTITY smiley15Cmd.label "Jok">
 <!ENTITY smiley16Cmd.label "Zapečatene ustnice">
-<!-- Message Pane Context Menu -->
 
+<!-- Message Pane Context Menu -->
 <!ENTITY spellCheckNoSuggestions.label "Ni najti predlogov">
 <!ENTITY spellCheckIgnoreWord.label "Prezri besedo">
 <!ENTITY spellCheckIgnoreWord.accesskey "e">
@@ -297,11 +297,11 @@
 <!ENTITY convertRegularAttachment.accesskey "a">
 <!ENTITY attachPage.label "Pripni spletno stran …">
 <!ENTITY attachPage.accesskey "s">
-<!-- Spell checker context menu items -->
 
+<!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Dodaj slovarje …">
 <!ENTITY spellAddDictionaries.accesskey "a">
-<!-- Title for the address picker panel -->
 
+<!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Stiki">
 
