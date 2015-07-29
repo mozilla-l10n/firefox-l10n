@@ -28,16 +28,18 @@ This is likely the same like id.heading in crashes.dtd. -->
 
 
 <!ENTITY aboutSupport.experimentActive "সক্রিয়">
-
+<!ENTITY aboutSupport.experimentEndDate "সমাপ্তির তারিখ">
 <!ENTITY aboutSupport.experimentHomepage "প্রধান পাতা">
 
 
 <!ENTITY aboutSupport.appBasicsTitle "অ্যাপ্লিকেশনের প্রাথমিক তথ্য">
 <!ENTITY aboutSupport.appBasicsName "নাম">
 <!ENTITY aboutSupport.appBasicsVersion "সংস্করণ">
-
+<!ENTITY aboutSupport.appBasicsBuildID "বিল্ড ID">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
+
+<!ENTITY aboutSupport.appBasicsUpdateChannel "হালনাগাদ চ্যানেলে">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "হালনাগাদের ইতিহাস">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "হালনাগাদের ইতিহাস প্রদর্শন">
 
@@ -53,6 +55,9 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsMemoryUse "মেমোরির ব্যবহার">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
+<!ENTITY aboutSupport.appBasicsServiceWorkers "নিবন্ধিত সার্ভিস কর্মীরা">
+
+<!ENTITY aboutSupport.appBasicsMultiProcessSupport "মাল্টিপ্রসেস উইন্ডো">
 
 <!ENTITY aboutSupport.showDir.label "ডিরেক্টরি খুলুন">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
@@ -91,5 +96,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyTextToClipboard.label "ক্লিপবোর্ডে সব অনুলিপি করুন">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "ক্লিপবোর্ডে অবিন্যস্ত ডাটা অনুলিপি করুন">
 
+<!ENTITY aboutSupport.sandboxTitle "স্যান্ডবক্স">
 
+<!ENTITY aboutSupport.safeModeTitle "সুরক্ষিত মোডে চেষ্টা করুন">
 
