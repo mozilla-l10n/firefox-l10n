@@ -43,5 +43,6 @@
 
 <!ENTITY fullscreen.label                "পর্দাজুড়ে প্রদর্শন">
 
-
-
+<!ENTITY push.label                      "পুশ বিজ্ঞপ্তি গ্রহণ করুন">
+<!ENTITY camera.label                    "ক্যামেরা ব্যবহার করুন">
+<!ENTITY microphone.label                "মাইক্রোফোন ব্যবহার করুন">

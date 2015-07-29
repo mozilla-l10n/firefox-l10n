@@ -22,7 +22,7 @@
 <!ENTITY  generalReferrer       "নির্দেশকারী URL:">
 <!ENTITY  generalSource         "ক্যাশের উৎস:">
 <!ENTITY  generalModified       "পরিবর্তিত:">
-
+<!ENTITY  generalEncoding2      "টেক্সট এনকোডিংঃ">
 <!ENTITY  generalMetaName       "নাম">
 <!ENTITY  generalMetaContent    "বিষয়বস্তু">
 

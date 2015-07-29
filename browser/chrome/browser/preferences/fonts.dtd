@@ -31,7 +31,7 @@
 <!ENTITY  font.langGroup.korean                   "কোরীয়">
 <!ENTITY  font.langGroup.cyrillic                 "সাইরিলিক">
 <!ENTITY  font.langGroup.el                       "গ্রিক">
-
+<!ENTITY  font.langGroup.other                    "অন্যান্য লেখার সিস্টেম">
 <!ENTITY  font.langGroup.thai                     "থাই">
 <!ENTITY  font.langGroup.hebrew                   "হিব্রু">
 <!ENTITY  font.langGroup.arabic                   "আরবি">
