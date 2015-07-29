@@ -6,8 +6,9 @@
 <!ENTITY privatebrowsingpage.title.normal "No estás navegando de forma privada">
 
 <!ENTITY privatebrowsingpage.issueDesc.normal2 "Navegando de forma privada, no recordaremos ningún dato de tu historial de navegación o cookies.">
+<!ENTITY privatebrowsingpage.issueDesc.private2 "No vamos a mantener ningún tipo de historial de navegación o cookies.">
 
-
+<!ENTITY privatebrowsingpage.description2 "Los marcadores que agregas y archivos que descargues se gurdarán en el dispositivo.">
 
 
 
