@@ -130,17 +130,19 @@
 <!ENTITY profilerUI.enableMemory             "Beleži pomnilnik">
 <!ENTITY profilerUI.enableMemory.tooltiptext "Beleži rabo pomnilnika med spremljanjem.">
 
+<!-- LOCALIZATION NOTE (profilerUI.enableAllocations): This string
+  -  is displayed next to a checkbox determining whether or not allocation
+  -  measurements are enabled. -->
+
 <!-- LOCALIZATION NOTE (profilerUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
 <!ENTITY profilerUI.enableFramerate             "Beleži hitrost sličic">
 <!ENTITY profilerUI.enableFramerate.tooltiptext "Beleži hitrost sličic med spremljanjem.">
 
-<!-- LOCALIZATION NOTE (profilerUI.showJITOptimizations): This string
+<!-- LOCALIZATION NOTE (profilerUI.enableJITOptimizations): This string
   -  is displayed next to a checkbox determining whether or not JIT optimization data
-  -  should be shown. -->
-<!ENTITY profilerUI.showJITOptimizations             "Prikaži optimizacije JIT">
-<!ENTITY profilerUI.showJITOptimizations.tooltiptext "Prikaži podatke optimizacije JIT, vzorčene v vsakem okvirju drevesa klicev JS.">
+  -  should be recorded. -->
 
 <!-- LOCALIZATION NOTE (profilerUI.JITOptimizationsTitle): This string
   -  is displayed as the title of the JIT Optimizations panel. -->

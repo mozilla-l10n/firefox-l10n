@@ -65,6 +65,7 @@
 <!ENTITY largerFont.label             "Večja pisava">
 <!ENTITY largerFont.accesskey         "a">
 <!ENTITY largerFont.commandkey        "+">
+ <!-- + is above this key on many keyboards -->
 
 <!ENTITY smallerFont.label            "Manjša pisava">
 <!ENTITY smallerFont.accesskey        "M">
