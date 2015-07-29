@@ -700,13 +700,15 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY mixedContentBlocked2.disabled.message "Ochrona została wyłączona">
 
 <!ENTITY trackingProtection.title "Ochrona przed śledzeniem">
-<!ENTITY trackingProtection.detectedBlocked "Próby śledzenia Twojej aktywności zostały zablokowane.">
-<!ENTITY trackingProtection.detectedNotBlocked "Wykryto elementy śledzące aktywność, jednak ochrona dla tej strony została wyłączona.">
-<!ENTITY trackingProtection.notDetected "Nie wykryto elementów śledzących aktywność na tej stronie.">
+<!ENTITY trackingProtection.detectedBlocked2 "&brandShortName; blokuje próby śledzenia Twojej aktywności online.">
+<!ENTITY trackingProtection.detectedNotBlocked2 "Strona zawiera elementy śledzące Twoją aktywność online, jednak przed nimi została wyłączona.">
+<!ENTITY trackingProtection.notDetected2 "Nie wykryto elementów śledzących aktywność online użytkownika na tej stronie.">
 <!ENTITY trackingProtection.unblock.label "Wyłącz ochronę dla tej strony">
 <!ENTITY trackingProtection.unblock.accesskey "W">
-<!ENTITY trackingProtection.block.label "Włącz ochronę dla tej strony">
-<!ENTITY trackingProtection.block.accesskey "W">
+<!ENTITY trackingProtection.unblockPrivate.label "Wyłącz ochronę w oknie prywatnym">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "W">
+<!ENTITY trackingProtection.block2.label "Włącz ochronę dla tej strony">
+<!ENTITY trackingProtection.block2.accesskey "W">
 
 <!ENTITY trackingContentBlocked.message "Śledzenie">
 <!ENTITY trackingContentBlocked.moreinfo "Części strony odpowiedzialne za śledzenie aktywności użytkowników zostały zablokowane.">
