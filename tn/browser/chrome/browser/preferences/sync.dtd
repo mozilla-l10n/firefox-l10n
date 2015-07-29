@@ -43,6 +43,8 @@
 <!ENTITY saveChangeSyncDeviceName.label "Boloka">
 
 <!-- Footer stuff -->
+
+<!ENTITY prefs.tosLink.label        "Melawana ya Tirelo">
 <!ENTITY prefs.ppLink.label         "Pholesi ya Bosephiri">
 <!-- Firefox Accounts stuff -->
 
