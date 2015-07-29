@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Mail Content -->
 
+<!-- Mail Content -->
 <!ENTITY captionMailContent.label "Vsebina pošte">
 
 <!ENTITY acceptRemoteContent.label "Dovoli oddaljeno vsebino v sporočilih">
@@ -10,8 +10,8 @@
 <!ENTITY remoteContentExceptions.label "Izjeme ...">
 <!ENTITY remoteContentExceptions.accesskey "e">
 <!ENTITY acceptRemoteContentInfo.label "Več o vprašanjih zasebnosti oddaljene vsebine">
-<!-- Web Content -->
 
+<!-- Web Content -->
 <!ENTITY captionWebContent.label "Spletna vsebina">
 
 <!ENTITY keepHistory.label "Zapomni si spletna mesta in povezave, ki sem jih obiskal">

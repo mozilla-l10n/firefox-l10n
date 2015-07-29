@@ -67,12 +67,12 @@
 <!ENTITY viewSourceMenuItem1.accesskey "P">
 <!ENTITY otherActionsPrint1.label "Natisni …">
 <!ENTITY otherActionsPrint1.accesskey "N">
-<!-- Attachment bar context menu items -->
 
+<!-- Attachment bar context menu items -->
 <!ENTITY startExpandedCmd.label    "Na začetku prikaži podokno s priponkami">
 <!ENTITY startExpandedCmd.accesskey    "N">
-<!-- Attachment context menu items -->
 
+<!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Odpri">
 <!ENTITY openAttachmentCmd.accesskey    "O">
 <!ENTITY saveAsAttachmentCmd.label    "Shrani kot …">
@@ -91,8 +91,8 @@
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "b">
 
 <!ENTITY openAttachment.tooltip "Odpri pripeto datoteko">
-<!-- Attachment toolbar items -->
 
+<!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Shrani">
 <!ENTITY saveAttachmentButton1.tooltip     "Shrani pripeto datoteko">
 <!ENTITY saveAllAttachmentsButton1.label   "Shrani vse">

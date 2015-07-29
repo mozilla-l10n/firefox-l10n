@@ -20,9 +20,9 @@
 <!ENTITY  sans-serif.accesskey                    "a">
 <!ENTITY  monospace.label                         "Pisava s stalno širino:">
 <!ENTITY  monospace.accesskey                     "v">
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
-
 <!ENTITY  font.langGroup.latin                    "Latinski">
 <!ENTITY  font.langGroup.japanese                 "Japonščino">
 <!ENTITY  font.langGroup.trad-chinese             "Tradicionalno kitajščino (Tajvan)">
@@ -56,19 +56,19 @@
 <!ENTITY minSize.label                            "Najmanjša velikost pisav:">
 <!ENTITY minSize.accesskey                        "N">
 <!ENTITY minSize.none                             "Brez">
-<!-- default font type -->
 
+<!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
-<!-- fonts in message -->
 
+<!-- fonts in message -->
 <!ENTITY  fontControl.label                       "Nadzor pisav">
 <!ENTITY  useFixedWidthForPlainText.label         "Za sporočila v golem besedilu uporabi pisavo s stalno širino">
 <!ENTITY  fixedWidth.accesskey                    "Z">
 <!ENTITY  useDocumentFonts.label                  "Dovoli, da sporočila uporabljajo druge pisave">
 <!ENTITY  useDocumentFonts.accesskey              "D">
-<!-- Language settings -->
 
+<!-- Language settings -->
 <!ENTITY sendDefaultCharset.label         "Odhodna pošta:">
 <!ENTITY sendDefaultCharset.accesskey     "O">
 <!ENTITY languagesTitle2.label            "Kodiranje besedila">
