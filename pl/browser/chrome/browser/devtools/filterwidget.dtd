@@ -5,3 +5,7 @@
 <!ENTITY filterListSelectPlaceholder "Wybierz filtr">
 
 <!ENTITY addNewFilterButton "Dodaj">
+
+<!ENTITY newPresetPlaceholder "Nazwa">
+<!ENTITY savePresetButton "Zapisz">
+<!ENTITY presetsToggleButton "Zapisane">
