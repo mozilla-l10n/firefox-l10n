@@ -23,6 +23,7 @@
 <!ENTITY cmd.back.tooltip                     "एक पृष्ठ पीछे जाएँ">
 <!ENTITY cmd.forward.tooltip                  "एक पृष्ठ आगे जाएँ">
 
+<!ENTITY showUnsignedExtensions.button.label  "कुछ विस्तार सत्यापित नही किया जा सका">
 <!ENTITY showAllExtensions.button.label       "सभी विस्तार दिखाएँ">
 <!-- global warnings -->
 
@@ -235,12 +236,14 @@
 
 <!ENTITY setting.learnmore "अधिक जानें…">
 
+<!ENTITY disabledUnsigned.heading "कुछ ऐड-ऑन निष्क्रिय किया गया हैं">
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-
-
-
+<!ENTITY disabledUnsigned.description.start "&brandShortName; के उपयोग के लिए निम्न ऐड-ऑनस सत्यापित नहीं किया गया हैं. आप कर सकते हैं">
+<!ENTITY disabledUnsigned.description.findAddonsLink "बदलाव ढूँढें">
+<!ENTITY disabledUnsigned.description.end "या उनको सत्यापित पाने के लिए डेवलपर से पूछें.">
+<!ENTITY disabledUnsigned.learnMore "आपको ऑनलाइन सुरक्षित रखने के मदद के लिए हमारे प्रयासो के बारे में और अधिक जानें.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
