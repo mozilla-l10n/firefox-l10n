@@ -367,8 +367,8 @@
 <!ENTITY doorhanger_tracking_title "Protezione antitracciamento">
 <!ENTITY doorhanger_tracking_state_enabled "Attiva">
 <!ENTITY doorhanger_tracking_state_disabled "Disattivata">
-<!ENTITY doorhanger_tracking_message_enabled "Blocco di elementi traccianti che potrebbero avere effetti sulla navigazione.">
-<!ENTITY doorhanger_tracking_message_disabled "I tentativi di tracciamento dell’attività online non vengono bloccati.">
+<!ENTITY doorhanger_tracking_message_enabled1 "I tentativi di tracciamento dell’attività online vengono bloccati.">
+<!ENTITY doorhanger_tracking_message_disabled1 "Questo sito include elementi in grado di tracciare l’attività online dei visitatori.">
 <!ENTITY learn_more "Ulteriori informazioni">
 <!ENTITY enable_protection "Attiva protezione">
 <!ENTITY disable_protection "Disattiva protezione">
