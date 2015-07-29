@@ -414,3 +414,9 @@
 <!ENTITY find_matchcase "Aa">
 <!ENTITY intent_uri_cannot_open "Impossibile aprire il link">
 <!ENTITY devtools_auth_scan_header "Scansione del codice QR visualizzato sull’altro dispositivo">
+<!ENTITY restriction_disallow_tools_menu_title "Disattiva menu Strumenti">
+<!ENTITY restriction_disallow_tools_menu_description "Nascondi il menu Strumenti nell’interfaccia del browser.">
+<!ENTITY restriction_disallow_report_site_issue_title "Disattiva “Segnala problema sito”">
+<!ENTITY restriction_disallow_report_site_issue_description "Nascondi la voce di menu “Segnala problema sito”.">
+<!ENTITY restriction_disallow_import_settings_title "Disattiva importazione impostazioni">
+<!ENTITY restriction_disallow_import_settings_description "Non consentire l’importazione di impostazioni da altri browser di sistema.">
