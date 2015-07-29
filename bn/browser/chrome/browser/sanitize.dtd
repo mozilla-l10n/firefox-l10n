@@ -45,7 +45,8 @@ that require it.  -->
 <!ENTITY historySection.label         "ইতিহাস">
 <!ENTITY dataSection.label            "তথ্য">
 
-
+<!ENTITY itemHistoryAndDownloads.label     "ব্রাউজিং B এবং ডাউনলোড ইতিহাস">
+<!ENTITY itemHistoryAndDownloads.accesskey "B">
 
 
 <!ENTITY itemPasswords.label               "সংরক্ষিত পাসওয়ার্ড (P)">
