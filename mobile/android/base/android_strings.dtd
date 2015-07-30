@@ -543,7 +543,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY blocked_mixed_content_message_bottom "ستظل أغلب المواقع تعمل جيدًا حتى بعد منع هذا المحتوى.">
 <!-- Tracking content notifications in site identity popup -->
 
-<!ENTITY loaded_tracking_content_message_top "حماية التعقب مُعطّلة.">
+<!ENTITY loaded_tracking_content_message_top "الحماية من التعقب مُعطّلة.">
 <!ENTITY loaded_tracking_content_message_bottom "أجزاء من هذه الصفحة قد تتعقب نشاطك على الإنترنت.">
 <!ENTITY blocked_tracking_content_message_top2 "الحماية من التعقّب مفعلة.">
 <!ENTITY blocked_tracking_content_message_bottom2 "منعت بعض أجزاء من الصفحة تحاول تتعقّب نشاطك على الإنترنت.">
@@ -573,6 +573,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
       via the search engine that uses the icon they clicked. This text is used
       for screen reader users when they hover each icon - &formatS; will be
       replaced with the name of the currently highlighted icon. -->
+<!ENTITY search_bar_item_desc "ابحث في &formatS;">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
@@ -603,7 +604,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY new_guest_session_title "سيُعاد تشغيل &brandShortName; الآن">
 
 <!ENTITY guest_browsing_notification_title "التصفح كضيف مفعل">
-<!ENTITY guest_browsing_notification_text "انقر للخروج ">
+<!ENTITY guest_browsing_notification_text "اضغط للخروج">
 
 <!ENTITY exit_guest_session_title "سيُعاد تشغيل &brandShortName; الآن">
 <!ENTITY exit_guest_session_text "ستُحذف بيانات تصفح هذه الجلسة.">
@@ -623,11 +624,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      This entity is used in the zoomed view to display the zoom factor-->
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
+
+<!ENTITY actionbar_menu "قائمة">
 <!ENTITY actionbar_done "تم">
 <!-- Voice search in the awesome bar -->
 
-
-
+<!ENTITY voicesearch_prompt "تكلّم الآن">
+<!ENTITY voicesearch_failed_title "بحث &brandShortName; الصوتي">
+<!ENTITY voicesearch_failed_message "هناك عُطل في البحث الصوتي الآن. يرجى المحاولة لاحقًا.">
+<!ENTITY voicesearch_failed_message_recoverable "آسفون! لم نتعرف على ما تقول. يرجى المحاولة لاحقًا.">
 
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
@@ -638,6 +643,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY remote_tabs_last_synced "آخر مزامنة: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "تاريخ آخر مزامنة: أبدًا">
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
