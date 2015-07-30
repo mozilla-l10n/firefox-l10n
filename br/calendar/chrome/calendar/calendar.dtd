@@ -260,7 +260,7 @@
 <!ENTITY calendar.context.showall.accesskey            "S">
 
 <!ENTITY calendar.context.convertmenu.label              "Amdreiñ da">
-
+<!ENTITY calendar.context.convertmenu.accesskey.mail     "A">
 
 <!ENTITY calendar.context.convertmenu.event.label        "Degouezh...">
 <!ENTITY calendar.context.convertmenu.event.accesskey    "D">
