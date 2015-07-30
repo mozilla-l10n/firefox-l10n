@@ -8,15 +8,15 @@
 <!ENTITY lightning.toolbar.task.name.accesskey "T">
 
 <!ENTITY lightning.toolbar.sync.label "Sincronizare">
-
+<!ENTITY lightning.toolbar.sync.tooltip "Reîncarcă calendarele și sincronizează schimbările">
 <!ENTITY lightning.toolbar.delete.label "Ștergere">
-
+<!ENTITY lightning.toolbar.delete.tooltip "Șterge evenimentele sau sarcinile selectate">
 <!ENTITY lightning.toolbar.edit.label "Editare">
-
-
-
+<!ENTITY lightning.toolbar.edit.tooltip "Editează evenimentele sau sarcinile selectate">
+<!ENTITY lightning.toolbar.gototoday.label "Mergi la ziua de azi">
+<!ENTITY lightning.toolbar.gototoday.tooltip "Mergi la ziua de azi">
 <!ENTITY lightning.toolbar.print.label "Tipărire">
-
+<!ENTITY lightning.toolbar.print.tooltip "Tipărește evenimente sau sarcini">
 <!-- Mode Toolbar -->
 
 <!ENTITY lightning.toolbar.calendar.label     "Calendar">

@@ -35,7 +35,7 @@
 
 <!ENTITY showUnifinderCmd.label                 "Caută evenimente">
 <!ENTITY showUnifinderCmd.accesskey             "C">
-
+<!ENTITY showUnifinderCmd.tooltip               "Comută panoul pentru găsirea evenimentelor">
 
 <!ENTITY calendar.displaytodos.checkbox.label       "Afișează sarcinile în calendar">
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "A">
