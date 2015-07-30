@@ -247,5 +247,6 @@
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
+<!ENTITY disabledUnsigned.devInfo.start "डेवलपर्स जो कि अपने add-ons को सत्यापित करने मैं रुचि रखते हैं वे जारी कर सकते हैं">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "मैनुअल">
 
