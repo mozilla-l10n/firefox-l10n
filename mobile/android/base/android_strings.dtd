@@ -357,10 +357,10 @@
 <!ENTITY filepicker_image_title "Seleziona o scatta una fotografia">
 <!ENTITY filepicker_video_title "Seleziona o registra un video">
 <!ENTITY identity_connected_to "Si è connessi con">
-<!ENTITY identity_run_by "Questo sito è gestito da">
-<!ENTITY identity_no_info "Questo sito web non fornisce informazioni relative all’identità.">
-<!ENTITY identity_not_encrypted "La connessione con questo sito web non è cifrata.">
-<!ENTITY identity_encrypted "Cifrata">
+<!ENTITY identity_connection_secure "Connessione sicura">
+<!ENTITY identity_connection_insecure "Connessione non sicura">
+<!ENTITY mixed_content_blocked_all "Alcuni elementi non sicuri in questa pagina sono stati bloccati da &brandShortName;.">
+<!ENTITY mixed_content_protection_disabled "La protezione da elementi non sicuri è stata bloccata.">
 <!ENTITY loaded_mixed_content_message "Questa pagina presenta contenuti non sicuri.">
 <!ENTITY blocked_mixed_content_message_top "Alcuni contenuti non sicuri sono stati bloccati da &brandShortName;.">
 <!ENTITY blocked_mixed_content_message_bottom "La maggior parte dei siti web funzionerà correttamente anche se questo contenuto viene bloccato.">
