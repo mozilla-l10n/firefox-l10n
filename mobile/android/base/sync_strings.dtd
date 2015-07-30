@@ -208,7 +208,7 @@
 <!ENTITY fxaccount_status_needs_credentials "تعذر الاتصال. انقر لتسجيل الدخول.">
 <!ENTITY fxaccount_status_needs_upgrade "تحتاج لترقية &brandShortName; لتتمكن من تسجيل الدخول.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "‏&syncBrand.shortName.label; مُعدّ، لكن لا يُزامن تلقائيًا. انقر على ”مزامنة البيانات تلقائيًا“ في إعدادات أندرويد ← استخدام البيانات.">
-
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "‏&syncBrand.shortName.label; مُعدّ، لكن لا يُزامن تلقائيًا. انقر على ”مزامنة البيانات تلقائيًا“ في قائمة إعدادات أندرويد ← الحسابات.">
 
 <!ENTITY fxaccount_status_bookmarks "العلامات">
 <!ENTITY fxaccount_status_history "التأريخ">
