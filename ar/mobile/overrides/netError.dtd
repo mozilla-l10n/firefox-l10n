@@ -11,7 +11,7 @@
 
 
 <!ENTITY connectionFailure.title "تعذر الاتصال">
-
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "هذا العنوان غير مسموح به">
 <!ENTITY deniedPortAccess.longDesc "">
@@ -35,7 +35,7 @@
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY netInterrupt.title "قوطع الاتصال">
-
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "انتهت صلاحية المستند">
 <!ENTITY notCached.longDesc "<p>المستند المطلوب لم يعد متوفرًا في ذاكرة &brandShortName; الخبيئة.</p><ul><li>كإجراء وقائي، &brandShortName; لا يعيد طلب المستندات الحساسة بشكل آلي.</li><li>اضغط على 'حاول مجددًا' لإعادة طلب المستند من الموقع.</li></ul>">
@@ -55,10 +55,10 @@
 </ul>">
 
 <!ENTITY netReset.title "صُفّر الاتصال">
-
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "انتهت مهلة الاتصال">
-
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "العنوان غير مفهوم">
 <!ENTITY unknownProtocolFound.longDesc "<ul> 
@@ -75,6 +75,12 @@
 <!ENTITY proxyResolveFailure.title "تعذر إيجاد الخادوم الوسيط">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY proxyResolveFailure.longDesc3 "<ul> 
+<li>تحقق من أن إعدادات الوسيط صحيحة.</li> 
+<li>تأكد بأن جهازك متصل بشكل سليم بشبكة بيانات أو شبكة لاسلكية. 
+<button id='wifi'>فعّل الواي فاي</button> 
+</li> 
+</ul>">
 
 <!ENTITY redirectLoop.title "الصفحة لا تعيد التوجيه بشكل صحيح">
 <!ENTITY redirectLoop.longDesc "<ul> 
@@ -104,6 +110,13 @@
 </ul>">
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+
+<!ENTITY sharedLongDesc3 "<ul> 
+<li>قد يكون الموقع غير متاح مؤقتًا أو مشغولًا جدًا. حاول مجددًا بعد قليل.</li> 
+<li>إن لم تكن تستطيع تحميل أي صفحة، تحقق من اتصال جوّالك بشبكة البيانات أو الشبكة اللاسلكية. 
+<button id='wifi'>فعّل الواي فاي</button> 
+</li> 
+</ul>">
 
 <!ENTITY cspBlocked.title "معطّل من قِبَل سياسة أمن المحتوى">
 <!ENTITY cspBlocked.longDesc "<p>يمنع &brandShortName; هذه الصفحة من التحميل بهذه الطريقة لأنّ لهذه الصفحة سياسة أمن المحتوى تمنع ذلك.</p>">
