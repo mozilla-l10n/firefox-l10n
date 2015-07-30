@@ -78,6 +78,8 @@
      will be replaced by the name of the Firefox release channel and &formatS2
      by the model name of the Android device. Examples look like "Aurora on
      GT-I1950" and "Fennec on MI 2S". -->
+
+<!ENTITY sync.default.client.name "‏&formatS1;على &formatS2;">
 <!-- Bookmark folder strings -->
 
 <!ENTITY bookmarks.folder.menu.label "قائمة العلامات">
@@ -148,8 +150,8 @@
 
 <!ENTITY fxaccount_create_account_header2 "أنشئ حسابَ فَيَرفُكس">
 <!ENTITY fxaccount_create_account_password_length_restriction "يجب أن يكون طوله 8 محارف على الأقل">
-
-
+<!ENTITY fxaccount_create_account_day_of_birth "اليوم">
+<!ENTITY fxaccount_create_account_month_of_birth "الشهر">
 <!ENTITY fxaccount_create_account_year_of_birth "سنة الميلاد">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "بالمواصلة أوافق على &formatS1; و &formatS2; خدمات فَيَرفُكس السحابية.">
@@ -167,12 +169,12 @@
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link "أُرسل رابط التأكيد إلى &formatS;">
 <!ENTITY fxaccount_confirm_account_resend_email "أعِد إرسال الرسالة">
-
+<!ENTITY fxaccount_confirm_account_change_email "هل نسيت عنوان البريد الإلكتروني هذا؟">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "أُرسل بريد التأكيد">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "تعذّر إرسال بريد التأكيد">
-
-
-
+<!ENTITY fxaccount_resend_unlock_code_button_label "أعِد إرسال بريد الفتح">
+<!ENTITY fxaccount_unlock_code_sent "تم إرسال بريد الفتح">
+<!ENTITY fxaccount_unlock_code_not_sent "تعذّر إرسال بريد الفتح">
 
 <!ENTITY fxaccount_sign_in_sub_header "لِج">
 <!ENTITY fxaccount_sign_in_button_label "لِج">
@@ -183,12 +185,14 @@
 <!ENTITY fxaccount_account_verified_sub_header "اُكّد الحساب">
 <!ENTITY fxaccount_account_verified_description2 "ستبدأ بياناتك في المزامنة آنيًا.">
 
+<!ENTITY fxaccount_migration_finished_header "انتهت الترقية">
 
 <!ENTITY fxaccount_update_credentials_header "لِج">
 <!ENTITY fxaccount_update_credentials_button_label "لِج">
 <!ENTITY fxaccount_update_credentials_unknown_error "تعذّر الولوج">
 
-
+<!ENTITY fxaccount_finish_migrating_header "لِج لإنهاء الترقية">
+<!ENTITY fxaccount_finish_migrating_button_label "أنهِ الترقية">
 
 
 <!ENTITY fxaccount_status_header2 "حساب فَيَرفُكس">
