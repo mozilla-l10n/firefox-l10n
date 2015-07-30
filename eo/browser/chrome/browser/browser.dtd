@@ -177,7 +177,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadButton.tooltip         "Reŝargi nunan paĝon">
 <!ENTITY stopCmd.label                "Halti">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Haltigi la ŝargadon de ĉiu tiu paĝo">
+<!ENTITY stopButton.tooltip           "Haltigi la ŝargadon de ĉi tiu paĝo">
 <!ENTITY goEndCap.tooltip             "Iri al la adreso en la retadresa strio">
 <!ENTITY printButton.label            "Presi">
 <!ENTITY printButton.tooltip          "Presi ĉi tiun paĝon">
