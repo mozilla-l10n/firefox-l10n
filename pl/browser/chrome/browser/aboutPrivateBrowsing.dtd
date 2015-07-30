@@ -17,3 +17,6 @@
 <!ENTITY trackingProtection.description "Zapobieganie śledzeniu blokuje treści śledzące aktywność online użytkowników, aby informacje o aktywności nie były udostępniane innym witrynom.">
 <!ENTITY trackingProtection.showPreferences "Ustawienia">
 <!ENTITY trackingProtection.startTour "Zobacz, co nowego">
+<!ENTITY trackingProtection.disabled "Ochrona przed śledzeniem jest wyłączona.">
+<!ENTITY trackingProtection.enable.label "Włącz ochronę przed śledzeniem">
+<!ENTITY trackingProtection.enable.accesskey "W">
