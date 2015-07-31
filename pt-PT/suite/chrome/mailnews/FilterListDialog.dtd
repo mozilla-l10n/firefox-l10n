@@ -26,5 +26,5 @@
 <!ENTITY stopFilters.accesskey "P">
 <!ENTITY folderPickerPrefix.label "Ligar o(s) filtro(s) selecionado(s) para:">
 <!ENTITY folderPickerPrefix.accesskey "f">
-<!ENTITY choosethis.label "Escolher esta pasta">
+<!ENTITY choosethis.label "escolher esta pasta">
 <!ENTITY choosethisnewsserver.label "escolher este servidor de notícias">
