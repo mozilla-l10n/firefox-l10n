@@ -426,3 +426,5 @@
 <!ENTITY restriction_disallow_apps_description "Impedisci l’installazione di app da Firefox Marketplace.">
 <!ENTITY restriction_disallow_devtools_title "Disattiva strum. sviluppo">
 <!ENTITY restriction_disallow_devtools_description "Impedisci l’utilizzo degli strumenti di sviluppo.">
+<!ENTITY restriction_disallow_customize_home_title "Disattiva pers. schermata principale">
+<!ENTITY restriction_disallow_customize_home_description "Impedisci la personalizzazione dei pannelli nella schermata principale.">
