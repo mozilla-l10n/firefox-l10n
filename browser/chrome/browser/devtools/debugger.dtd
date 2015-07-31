@@ -70,7 +70,7 @@
   -  checkbox that toggles ignoring caught exceptions. -->
 
 <!ENTITY debuggerUI.ignoreCaughtExceptions           "पकड़ा अपवाद नज़रअंदाज़ करें">
-
+<!ENTITY debuggerUI.ignoreCaughtExceptions.accesskey "सी">
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
   -  checkbox that toggles visibility of panes when opening the debugger. -->
 
@@ -164,6 +164,8 @@
 <!ENTITY debuggerUI.seMenuCondBreak.key "B">
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
+
+<!ENTITY debuggerUI.tabs.workers        "वर्कर्स">
 <!ENTITY debuggerUI.tabs.sources        "स्रोत">
 <!ENTITY debuggerUI.tabs.traces         "ट्रेसेस">
 <!ENTITY debuggerUI.tabs.callstack      "कॉल स्टैक">
@@ -203,11 +205,11 @@
   -  netmonitorUI.context.newTab  -->
 
 <!ENTITY debuggerUI.context.newTab           "नए टैब में खोलें">
-
+<!ENTITY debuggerUI.context.newTab.accesskey "ओ">
 <!-- LOCALIZATION NOTE (debuggerUI.context.copyUrl): This is the label displayed
   -  on the context menu that copies the selected request's url. This should be
   -  the same as netmonitorUI.context.copyUrl -->
 
 <!ENTITY debuggerUI.context.copyUrl           "यूआरएल की प्रतिलिपि बनाएँ">
-
-
+<!ENTITY debuggerUI.context.copyUrl.accesskey "सी">
+<!ENTITY debuggerUI.context.copyUrl.key "सी">
