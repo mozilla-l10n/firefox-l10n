@@ -38,9 +38,9 @@
 
 <!ENTITY setup.tosAgree1.label      "Eu concordo com os">
 <!ENTITY setup.tosAgree1.accesskey  "u">
-<!ENTITY setup.tosLink.label        "termos do serviço">
+<!ENTITY setup.tosLink.label        "Termos do serviço">
 <!ENTITY setup.tosAgree2.label      "e com a">
-<!ENTITY setup.ppLink.label         "política de privacidade">
+<!ENTITY setup.ppLink.label         "Política de privacidade">
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 <!-- My Recovery Key dialog -->
