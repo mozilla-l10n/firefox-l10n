@@ -430,3 +430,5 @@
 <!ENTITY restriction_disallow_customize_home_description "Impedisci la personalizzazione dei pannelli nella schermata principale.">
 <!ENTITY restriction_disallow_private_browsing_title "Disattiva navigazione anonima">
 <!ENTITY restriction_disallow_private_browsing_description "Impedisci la navigazione anonima.">
+<!ENTITY restriction_disallow_location_services_title "Disattiva georilevazione">
+<!ENTITY restriction_disallow_location_services_description "Impedisci la condivisione dei dati sulla posizione per migliorare i servizi di georilevazione.">
