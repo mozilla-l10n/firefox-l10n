@@ -12,3 +12,5 @@
 <!ENTITY safeModeDescription4.label   "Các add-on và tùy chỉnh cá nhân sẽ tạm thời bị tắt.">
 
 <!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
+
+<!ENTITY autoSafeModeDescription3.label "&brandShortName; bị đóng bất thường trong lúc khởi động. Việc này có thể do add-on hoặc các vấn đề khác. Bạn có thể thử giải quyết vấn đề này bằng cách sửa chữa trong Safe Mode">
