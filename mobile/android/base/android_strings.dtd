@@ -424,3 +424,5 @@
 <!ENTITY restriction_disallow_addons_description "Impedisci l’installazione di componenti aggiuntivi.">
 <!ENTITY restriction_disallow_apps_title "Disattiva app">
 <!ENTITY restriction_disallow_apps_description "Impedisci l’installazione di app da Firefox Marketplace.">
+<!ENTITY restriction_disallow_devtools_title "Disattiva strum. sviluppo">
+<!ENTITY restriction_disallow_devtools_description "Impedisci l’utilizzo degli strumenti di sviluppo.">
