@@ -22,6 +22,6 @@
 <!ENTITY windowClose.key              "w">
 
 
-
-
+<!ENTITY button.ok.label              "រក្សាទុក​ការ​ផ្លាស់ប្ដូរ">
+<!ENTITY button.ok.accesskey          "S">
 
