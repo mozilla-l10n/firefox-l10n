@@ -23,9 +23,9 @@
 <!ENTITY helpKeyboardShortcuts.label     "Atalhos do teclado">
 <!ENTITY helpKeyboardShortcuts.accesskey "h">
 
-<!ENTITY helpSafeMode.label       "Reiniciar com os extras desativados…">
+<!ENTITY helpSafeMode.label       "Reiniciar com os extras desativados">
 <!ENTITY helpSafeMode.accesskey   "R">
-<!ENTITY helpSafeMode.stop.label       "Reiniciar com os extras ativado">
+<!ENTITY helpSafeMode.stop.label       "Reiniciar com os extras ativados">
 <!ENTITY helpSafeMode.stop.accesskey   "R">
 
 <!ENTITY healthReport2.label      "Relatório de estado do &brandShorterName;">
