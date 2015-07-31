@@ -57,6 +57,8 @@
 <!ENTITY netmonitorUI.tab.security        "Bảo mật">
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterAll): This is the label displayed
   -  in the network details footer for the "All" filtering button. -->
+
+<!ENTITY netmonitorUI.footer.filterAll    "Tất cả">
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterHTML): This is the label displayed
   -  in the network details footer for the "HTML" filtering button. -->
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterCSS): This is the label displayed
@@ -220,6 +222,8 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.context.newTab):  This is the label
   -  for the Open in New Tab menu item displayed in the context menu of the
   -  network container  -->
+
+<!ENTITY netmonitorUI.context.newTab      "Mở trong thẻ mới">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.newTab.accesskey): This is the access key
   -  for the Open in New Tab menu item displayed in the context menu of the
   -  network container -->

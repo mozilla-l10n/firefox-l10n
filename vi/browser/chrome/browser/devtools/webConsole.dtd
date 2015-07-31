@@ -42,16 +42,18 @@
   -  button that allows users to toggle the network logging output.
   -  This string and the following strings toggle various kinds of output
   -  filters. -->
-<!ENTITY btnPageNet.tooltip "Ghi chép truy cập mạng">
 
+<!ENTITY btnPageNet.label   "Mạng">
+<!ENTITY btnPageNet.tooltip "Ghi chép truy cập mạng">
+<!ENTITY btnPageNet.accesskey "n">
 <!-- LOCALIZATION NOTE (btnPageNet.accesskeyMacOSX): This string is used as
   -  access key for the menu button that allows users to toggle the network
   -  logging output. On MacOSX accesskeys are available with Ctrl-*. Please make
   -  sure you do not use the following letters: A, E, N and P. These are used
   -  for editing commands in text inputs. -->
+<!ENTITY btnPageCSS.label   "CSS">
 
-
-
+<!ENTITY btnPageCSS.accesskey "C">
 
 <!ENTITY btnPageJS.tooltip  "Ghi lại các ngoại lệ JavaScript">
 
