@@ -372,6 +372,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
+<!ENTITY contentSearchInput.label "Pole wyszukiwania">
+<!ENTITY contentSearchSubmit.label "Szukaj">
+
 <!ENTITY searchFor.label "Wyszukaj „">
 <!ENTITY searchWith.label "” z:">
 <!ENTITY search.label "Szukaj z ">
