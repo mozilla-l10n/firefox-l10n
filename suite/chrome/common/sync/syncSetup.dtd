@@ -37,9 +37,9 @@
      joined with implicit white space, so spaces in the strings aren't necessary -->
 <!ENTITY setup.tosAgree1.label      "Eu concordo com os">
 <!ENTITY setup.tosAgree1.accesskey  "u">
-<!ENTITY setup.tosLink.label        "termos do serviço">
+<!ENTITY setup.tosLink.label        "Termos do serviço">
 <!ENTITY setup.tosAgree2.label      "e com a">
-<!ENTITY setup.ppLink.label         "política de privacidade">
+<!ENTITY setup.ppLink.label         "Política de privacidade">
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 <!-- New Account Page 2: Recovery Key -->
@@ -99,7 +99,7 @@
 <!ENTITY engine.prefs.accesskey     "P">
 
 <!ENTITY choice2.merge.main.label      "Juntar os dados deste computador com os dados do &syncBrand.shortName.label;">
-<!ENTITY choice2.merge.recommended.label "Recomendado:">
+<!ENTITY choice2.merge.recommended.label "(recomendações)">
 <!ENTITY choice2.client.main.label     "Substituir todos os dados neste computador pelos dados do &syncBrand.shortName.label;">
 <!ENTITY choice2.server.main.label     "Substituir todos os outros dispositivos pelos dados deste computador">
 <!-- Confirm Merge Options -->

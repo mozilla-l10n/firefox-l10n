@@ -144,7 +144,7 @@ items are mutually exclusive. -->
 <!ENTITY spellIgnoreWord.accesskey      "v">
 <!ENTITY spellCheckEnable.label         "Verificação ortográfica">
 <!ENTITY spellCheckEnable.accesskey     "o">
-<!ENTITY spellNoSuggestions.label       "(nenhuma sugestão)">
+<!ENTITY spellNoSuggestions.label       "(Nenhuma sugestão)">
 <!ENTITY spellDictionaries.label        "Idiomas">
 <!ENTITY spellDictionaries.accesskey    "I">
 <!ENTITY spellAddDictionaries.label     "Descarregar mais dicionários…">
