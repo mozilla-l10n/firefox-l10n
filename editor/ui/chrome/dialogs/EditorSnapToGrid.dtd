@@ -7,7 +7,7 @@
 <!ENTITY windowTitle.label "Alinhar à grelha">
 
 <!ENTITY enableSnapToGrid.label "Ativar alinhamento à grelha">
-<!ENTITY enableSnapToGrid.accessKey "A">
+<!ENTITY enableSnapToGrid.accessKey "e">
 
 <!ENTITY sizeEditField.label "Tamanho:">
 <!ENTITY sizeEditField.accessKey "T">
