@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label "Into emayingqanyaniswe">
 <!ENTITY sync.configure.engines.sync.my.title.label "Ngqamanisa .... yakho">
 <!ENTITY sync.configure.engines.title.bookmarks "Izalathisi eziphawulayo">
-<!ENTITY sync.configure.engines.title.passwords "Iiphaswedi">
+<!ENTITY sync.configure.engines.title.passwords2 "Izinto zokungena ekhompyutheni">
 <!ENTITY sync.configure.engines.title.history "Imbali">
 <!ENTITY sync.configure.engines.title.tabs "Iithebhu">
 <!-- Common text -->
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "Isaziso sabucala">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Wamkelekile kwi-&syncBrand.shortName.label;">
-<!ENTITY fxaccount_getting_started_description "Ngena ukuze ungqamanise iithebhu, iibhukhmakhi, iipasiwedi nokunye.">
+
 <!ENTITY fxaccount_getting_started_get_started "Qalisa">
 <!ENTITY fxaccount_getting_started_old_firefox "Usebenzisa uhlelo oludadlala lwe-&syncBrand.shortName.label;?">
 <!-- Localization note: the Firefox below should not change with the
@@ -212,7 +212,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating "Cofa ukusayina ungene kwi-akhawunti yakho entsha ka-Firefox.">
 <!ENTITY fxaccount_status_bookmarks "Iibhukhmakhi">
 <!ENTITY fxaccount_status_history "Imbali">
-<!ENTITY fxaccount_status_passwords "Iipasiwedi">
+
 <!ENTITY fxaccount_status_tabs "Vula iithebhu">
 <!ENTITY fxaccount_status_legal "Isemthethweni" >
 <!-- Localization note: when tapped, the following two strings link to
