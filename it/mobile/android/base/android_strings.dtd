@@ -428,3 +428,5 @@
 <!ENTITY restriction_disallow_devtools_description "Impedisci l’utilizzo degli strumenti di sviluppo.">
 <!ENTITY restriction_disallow_customize_home_title "Disattiva pers. schermata principale">
 <!ENTITY restriction_disallow_customize_home_description "Impedisci la personalizzazione dei pannelli nella schermata principale.">
+<!ENTITY restriction_disallow_private_browsing_title "Disattiva navigazione anonima">
+<!ENTITY restriction_disallow_private_browsing_description "Impedisci la navigazione anonima.">
