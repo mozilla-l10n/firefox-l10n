@@ -87,7 +87,7 @@
 <!ENTITY netTimeout.title "Şəbəkə gözləmə müddəti">
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
-<!ENTITY unknownProtocolFound.title "Baməlum əlaqə protokolu">
+<!ENTITY unknownProtocolFound.title "Naməlum əlaqə protokolu">
 <!ENTITY unknownProtocolFound.longDesc "<ul> 
 <li>Bü ünvanı açmaq üçün əlavə proqram tələb olunur</li> 
 </ul>">
