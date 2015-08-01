@@ -112,8 +112,8 @@
   -  for the help button in the menubar but Gnome does not.
   -->
 
-<!ENTITY helpMenu.label               "Trợ giúp">
-<!ENTITY helpMenu.accesskey           "H">
+<!ENTITY helpMenu.label               "Trợ giúp - Ấn h">
+<!ENTITY helpMenu.accesskey           "h">
 <!ENTITY helpMenuWin.label            "Trợ giúp">
 <!ENTITY helpMenuWin.accesskey        "H">
 
