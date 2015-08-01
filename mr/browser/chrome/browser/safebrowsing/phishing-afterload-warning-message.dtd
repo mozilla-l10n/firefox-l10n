@@ -13,6 +13,7 @@
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>दोखादायी पृष्ठ व्यक्तिगत माहिती चोरून प्राप्त करणे, तसेच आपल्या संगणकाचा वापर इतर संगणकावर प्रवेश किंवा प्रणाली नष्ट करण्यासाठी कार्यक्रम प्रतिष्ठापीत करतात.</p><p>काहिक प्रहार पाने जबरनरित्या वापरकर्त्याच्या परवानगीविना, हानीकराक सॉफ्टवेअर प्रतिष्ठापीत करतात.</p>">
 
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "<span id='unwanted_sitename'/> वरील हे वेब पान अनिष्ट सॉफ्टवेअर म्हणून कळले आहे आणि ते आपल्या सुरक्षा पसंतींनुसार अडवले आहे.">
 
 
 <!ENTITY safeb.blocked.phishingPage.title "वेब बनावटीपण कळवले गेले!">
