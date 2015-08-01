@@ -13,7 +13,7 @@
 <!-- J-PAKE Key Screen -->
 
 
-
+<!ENTITY sync.subtitle.pair.label "Để kích hoạt, chọn “Ghép đôi thiết bị” trên thiết bị khác của bạn.">
 
 <!ENTITY sync.pin.oneline.label "...">
 <!ENTITY sync.link.show.label "Chỉ tôi cách làm.">
@@ -23,7 +23,7 @@
 <!-- Account Login Screen -->
 <!ENTITY sync.input.username.label "Tên Tài Khoản">
 
-
+<!ENTITY sync.input.key.label "Từ khóa khôi phục">
 <!ENTITY sync.checkbox.server.label "Dùng máy chủ tùy biến">
 <!ENTITY sync.input.server.label "URL máy chủ">
 <!-- Setup Fail -->
@@ -34,7 +34,7 @@
 
 
 <!-- Setup Success -->
-  
+
 <!ENTITY sync.title.success.label "Cài đặt Hoàn tất">
 
 <!ENTITY sync.settings.label "Thiết lập">
@@ -59,6 +59,11 @@
 <!ENTITY sync.button.connect.label "Kết nối">
 <!ENTITY sync.button.ok.label "OK">
 <!-- Account strings -->
+<!-- Localization note (sync.default.client.name): Default string of the "Device
+     name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
+     will be replaced by the name of the Firefox release channel and &formatS2
+     by the model name of the Android device. Examples look like "Aurora on
+     GT-I1950" and "Fennec on MI 2S". -->
 <!-- Bookmark folder strings -->
 
 <!ENTITY bookmarks.folder.menu.label "Trình đơn Đánh dấu">
@@ -83,10 +88,7 @@
 
 
 
-<!-- Firefox account strings. -->
-<!-- Localization note: these describe icons and graphics, and are
-     consumed by assistive devices. -->
-
+<!-- Firefox Account strings. -->
 
 
 <!-- Localization note: these are shown in all screens that query the
@@ -98,7 +100,11 @@
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
-
+<!-- Localization note: the following two strings are interpolated
+     into fxaccount_create_account_policy_text2; see note for that
+     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
 
 
 
@@ -106,7 +112,9 @@
 
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox" account. -->
+     etc).  The account remains a "Firefox Account". -->
+
+
 
 
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
@@ -119,7 +127,7 @@
 
 
 
-<!-- Localization note: &formatS; is the Firefox account's email address. -->
+<!-- Localization note: &formatS; is the Firefox Account's email address. -->
 
 
 
@@ -143,14 +151,44 @@
 
 
 
+
+
+
+
+
+<!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
+<!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: đã bật">
+
+
+
+
+
+
+
+
+
+
+
+<!-- Localization note: when tapped, the following two strings link to
+     external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+
+
+
+
+<!-- Localization note: format string below will be replaced
+     with the Firefox Account's email address. -->
 
 <!-- Localization note: this is the name shown by the Android system
-     itself for a Firefox account. Don't localize this. -->
+     itself for a Firefox Account. Don't localize this. -->
 <!-- Localization note: these are shown by the Android system itself,
-     when the user navigates to the Android > Accounts > [Firefox
-     Account] Screen. The link takes the user to the Firefox account
+     when the user navigates to the Android > Accounts > {Firefox
+     Account} Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
-     account. -->
+     Account. -->
+
+<!ENTITY fxaccount_options_title "&syncBrand.shortName.label; Tùy chọn">
 
 <!-- Localization note: these error messages are shown after a request
      has been made to the remote server, and an error of some type has
@@ -164,5 +202,9 @@
 
 
 
-<!-- Note to translators: the format string below will be replaced
-     with the Firefox account's email address. -->
+
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
+
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->

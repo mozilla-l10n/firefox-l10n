@@ -19,3 +19,4 @@
 <!ENTITY aboutPage.relNotes.label               "Ghi chú Phát hành">
 <!ENTITY aboutPage.credits.label                "Công trạng">
 <!ENTITY aboutPage.license.label                "Thông tin Giấy phép">
+<!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->

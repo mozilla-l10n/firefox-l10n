@@ -11,13 +11,14 @@
 
 
 <!ENTITY connectionFailure.title "Không thể kết nối">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY deniedPortAccess.title "Địa chỉ này đã bị chặn">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Không tìm thấy máy chủ">
-
+<!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 
 <!ENTITY fileNotFound.title "Không tìm thấy tập tin">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -30,20 +31,17 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; không thể mở trang này vì nguyên nhân nào đó.</p>">
 
 <!ENTITY malformedURI.title "Địa chỉ không hợp lệ">
-<!ENTITY malformedURI.longDesc "<ul> 
-<li>Địa chỉ Web thường được viết như sau 
-<strong>http://www.mozilla.com/</strong></li> 
-<li>Hãy chắc chắn rằng bạn đang dùng dấu chéo lên (vd. 
-<strong>/</strong>).</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY netInterrupt.title "Kết nối bị ngắt">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY notCached.longDesc "<p>Tài liệu được yêu cầu không có sẵn trong bộ đệm của &brandShortName;.</p><ul><li>Vì lí do bảo mật, &brandShortName; không tự động yêu cầu lại các tài liệu nhạy cảm.</li><li>Nhấn Thử Lại để yêu cầu lại tài liệu từ trang web.</li></ul>">
 
 <!ENTITY netOffline.title "Chế độ ngoại tuyến">
-
+<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY contentEncodingError.title "Lỗi Bảng Mã">
 <!ENTITY contentEncodingError.longDesc "<ul> 
@@ -56,13 +54,13 @@
 </ul>">
 
 <!ENTITY netReset.title "Kết nối bị khởi tạo lại">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY netTimeout.title "Kết nối bị hết thời gian">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
-<!ENTITY protocolNotFound.title "Địa chỉ không thể hiểu được">
-<!ENTITY protocolNotFound.longDesc "<ul> 
+
+<!ENTITY unknownProtocolFound.title "Địa chỉ không thể hiểu được">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
 <li>Có lẽ bạn cần phải cài đặt phần mềm khác để mở địa chỉ này.</li> 
 </ul>">
 
@@ -73,7 +71,8 @@
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Không thể tìm thấy máy chủ proxy">
-
+<!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY redirectLoop.title "Trang không chuyển hướng đúng">
 <!ENTITY redirectLoop.longDesc "<ul> 
@@ -87,20 +86,18 @@
 </ul>">
 
 <!ENTITY nssFailure2.title "Kết nối An toàn bị Thất bại">
-<!ENTITY nssFailure2.longDesc "<ul> 
-<li>Trang bạn đang xem không thể hiển thị vì không thể kiểm tra tính xác thực của dữ liệu được nhận.</li> 
-<li>Vui lòng liên hệ chủ trang web để báo họ vấn đề này. Hay cách khác là, dùng câu lệnh trong trình đơn trợ giúp để báo cáo về trang này.</li> 
-</ul>">
+
 
 <!ENTITY nssBadCert.title "Kết nối An toàn bị Thất bại">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
 <li>Đây có thể là vấn đề ở phần cấu hình của máy chủ, hoặc có thể do ai đó đang cố mạo nhận là máy chủ.</li> 
 <li>Nếu bạn đã từng kết nối tới máy chủ này thành công trong quá khứ, lỗi này có thể chỉ là tạm thời, bạn có thể thử lại sau.</li> 
 </ul>">
+<!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
-
-<!ENTITY cspFrameAncestorBlocked.title "Bị chặn bởi Chính sách Bảo vệ Nội dung">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; không tải trang này vì nó có một chính sách bảo vệ nội dung không cho phép việc tải theo cách này.</p>">
+<!ENTITY cspBlocked.title "Bị chặn bởi Chính sách Bảo vệ Nội dung">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; không tải trang này vì nó có một chính sách bảo vệ nội dung không cho phép việc tải theo cách này.</p>">
 
 <!ENTITY corruptedContentError.title "Lỗi Nội dung Hư">
 <!ENTITY corruptedContentError.longDesc "<p>Trang mà bạn đang cố xem không thể hiển thị được vì một lỗi trong truyền tải dữ liệu.</p><ul><li>Vui lòng liên hệ chủ trang web để báo họ về vấn đề này.</li></ul>">
