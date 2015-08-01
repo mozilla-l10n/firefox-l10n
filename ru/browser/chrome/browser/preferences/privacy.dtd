@@ -3,15 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY tracking.label "Отслеживание">
-<!ENTITY dntTrackingNotOkay.label2 "Сообщать сайтам, что я не хочу, чтобы меня отслеживали">
-<!ENTITY dntTrackingNotOkay.accesskey "в">
-<!ENTITY trackingProtection.label "Не давать сайтам меня отслеживать">
-<!ENTITY trackingProtection.accesskey "а">
-<!ENTITY trackingProtectionLearnMore.label "Подробнее">
-<!ENTITY trackingProtectionPBM.label "Не давать сайтам отслеживать мои действия в Интернете из Приватных окон">
-<!ENTITY trackingProtectionPBM.accesskey "и">
-<!ENTITY trackingProtectionPBMLearnMore.label "Подробнее">
+<!ENTITY dntTrackingNotOkay3.label "Просить сайты меня не отслеживать">
+<!ENTITY dntTrackingNotOkay3.accesskey "в">
 <!ENTITY doNotTrackInfo.label "Подробнее">
+<!ENTITY trackingProtection3.label "Не давать сайтам меня отслеживать">
+<!ENTITY trackingProtection3.accesskey "а">
+<!ENTITY trackingProtectionLearnMore.label "Подробнее">
+<!ENTITY trackingProtectionPBM3.label "Не давать сайтам отслеживать меня в Приватных окнах">
+<!ENTITY trackingProtectionPBM3.accesskey "и">
+<!ENTITY trackingProtectionPBMLearnMore.label "Подробнее">
 <!ENTITY history.label "История">
 <!ENTITY locationBar.label "Панель адреса">
 <!ENTITY locbar.suggest.label "При использовании панели адреса предлагать ссылки:">

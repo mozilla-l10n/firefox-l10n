@@ -7,8 +7,15 @@
 <!ENTITY aboutPrivateBrowsing.subtitle "&brandShortName; не будет запоминать историю для этого окна.">
 <!ENTITY aboutPrivateBrowsing.subtitle.normal "&brandShortName; не будет запоминать историю для приватных окон.">
 <!ENTITY aboutPrivateBrowsing.description "Это включает в себя журнал посещений, журнал поиска, журнал загрузок, журнал веб-форм, куки и временные файлы интернета. Однако любые загруженные вами файлы и созданные вами закладки будут сохранены.">
+<!ENTITY aboutPrivateBrowsing.shortdescription "&brandShortName; не будет запоминать историю для этого окна, однако любые загруженные вами файлы и созданные вами закладки будут сохранены. (Помните, что ваш работодатель или интернет-провайдер могут следить за тем, какие страницы вы посещаете)">
 <!ENTITY aboutPrivateBrowsing.notPrivate "Сейчас вы не находитесь в приватном окне.">
 <!ENTITY aboutPrivateBrowsing.moreInfo "Хотя этот компьютер не будет вести журнал посещаемых вами сайтов, ваш работодатель или интернет-провайдер могут следить за тем, какие страницы вы посещаете.">
 <!ENTITY aboutPrivateBrowsing.learnMore "Подробнее.">
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Открыть приватное окно">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "о">
+<!ENTITY trackingProtection.subtitle "Теперь с Защитой от отслеживания">
+<!ENTITY trackingProtection.description "Защита от отслеживания будет блокировать содержимое, отслеживающее ваше поведение в Интернете, так что вам не нужно будет беспокоиться, что веб-сайты о нём узнают.">
+<!ENTITY trackingProtection.showPreferences "Настройки приватности">
+<!ENTITY trackingProtection.startTour "Узнать, что нового">
+<!ENTITY trackingProtection.enable.label "Включить Защиту от отслеживания">
+<!ENTITY trackingProtection.enable.accesskey "ю">

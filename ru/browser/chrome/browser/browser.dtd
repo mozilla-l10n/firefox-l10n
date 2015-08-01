@@ -93,8 +93,6 @@
 <!ENTITY fullScreenAutohide.accesskey "к">
 <!ENTITY fullScreenExit.label "Выйти из полноэкранного режима">
 <!ENTITY fullScreenExit.accesskey "ы">
-<!ENTITY fullscreenAllowButton.label "Разрешить">
-<!ENTITY fullscreenExitButton.label "Запретить">
 <!ENTITY fullscreenExitHint2.value "Для выхода в любой момент нажмите клавишу ESC.">
 <!ENTITY leaveDOMFullScreen.label "Выйти из полноэкранного режима">
 <!ENTITY leaveDOMFullScreen.accesskey "ы">
@@ -297,6 +295,8 @@
 <!ENTITY searchFocus.commandkey "k">
 <!ENTITY searchFocus.commandkey2 "e">
 <!ENTITY searchFocusUnix.commandkey "j">
+<!ENTITY contentSearchInput.label "Поисковый запрос">
+<!ENTITY contentSearchSubmit.label "Произвести поиск">
 <!ENTITY searchFor.label "Искать ">
 <!ENTITY searchWith.label " в:">
 <!ENTITY search.label "Искать в ">
@@ -487,6 +487,7 @@
 <!ENTITY editBookmark.removeBookmark.accessKey "д">
 <!ENTITY identity.connectionSecure "Защищённое соединение">
 <!ENTITY identity.connectionNotSecure "Незащищённое соединение">
+<!ENTITY identity.connectionFile "Эта страница хранится на вашем компьютере.">
 <!ENTITY identity.connectionVerified "&brandShortName; подтверждает, что вы подключились по защищённому соединению к этому сайту, управляемому:">
 <!ENTITY identity.connectionInternal "Это защищённая страница &brandShortName;.">
 <!ENTITY identity.moreInfoLinkText2 "Подробнее">
@@ -545,6 +546,7 @@
 <!ENTITY getUserMedia.selectCamera.accesskey "к">
 <!ENTITY getUserMedia.selectMicrophone.label "Доступ к микрофону:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "м">
+<!ENTITY getUserMedia.audioCapture.label "Будет предоставлен доступ к аудио из вкладки.">
 <!ENTITY getUserMedia.allWindowsShared.message "Будет предоставлен доступ ко всем видимым окнам на вашем экране.">
 <!ENTITY badContentBlocked.moreinfo "Большинство веб-сайтов будут продолжать нормально работать, даже если содержимое заблокировано.">
 <!ENTITY mixedContentBlocked2.message "Незащищённое содержимое">
@@ -563,6 +565,7 @@
 <!ENTITY trackingProtection.unblock.label "Отключить защиту для этого сайта">
 <!ENTITY trackingProtection.unblock.accesskey "к">
 <!ENTITY trackingProtection.unblockPrivate.label "Отключить защиту для этой сессии">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "и">
 <!ENTITY trackingProtection.block2.label "Включить защиту">
 <!ENTITY trackingProtection.block2.accesskey "ю">
 <!ENTITY trackingContentBlocked.message "Отслеживание">

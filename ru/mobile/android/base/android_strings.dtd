@@ -357,18 +357,18 @@
 <!ENTITY filepicker_image_title "Выбрать или сделать фотографию">
 <!ENTITY filepicker_video_title "Выбрать или записать видео">
 <!ENTITY identity_connected_to "Вы соединены с">
-<!ENTITY identity_run_by "который управляется">
-<!ENTITY identity_no_info "Информация о подлинности этого веб-сайта отсутствует.">
-<!ENTITY identity_not_encrypted "Ваше соединение с этим веб-сайтом не зашифровано.">
-<!ENTITY identity_encrypted "Зашифровано">
+<!ENTITY identity_connection_secure "Защищённое соединение">
+<!ENTITY identity_connection_insecure "Незащищённое соединение">
+<!ENTITY mixed_content_blocked_all "&brandShortName; заблокировал небезопасные элементы на этой странице.">
+<!ENTITY mixed_content_protection_disabled "Вы отключили защиту от небезопасных элементов.">
 <!ENTITY loaded_mixed_content_message "Эта страница отображает содержимое, не являющееся безопасным.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; заблокировал содержимое, не являющееся безопасным.">
 <!ENTITY blocked_mixed_content_message_bottom "Большинство веб-сайтов будут продолжать нормально работать, даже когда это содержимое заблокировано.">
 <!ENTITY doorhanger_tracking_title "Защита от отслеживания">
 <!ENTITY doorhanger_tracking_state_enabled "Включена">
 <!ENTITY doorhanger_tracking_state_disabled "Отключена">
-<!ENTITY doorhanger_tracking_message_enabled "Блокируются элементы отслеживания, что может повлиять на вашу работу в Интернете.">
-<!ENTITY doorhanger_tracking_message_disabled "Попытки отследить ваше поведение в Интернете не были заблокированы.">
+<!ENTITY doorhanger_tracking_message_enabled1 "Попытки отследить ваше поведение в Интернете были заблокированы.">
+<!ENTITY doorhanger_tracking_message_disabled1 "Этот сайт имеет содержимое, отслеживающее ваше поведение в Интернете.">
 <!ENTITY learn_more "Подробнее">
 <!ENTITY enable_protection "Включить защиту">
 <!ENTITY disable_protection "Отключить защиту">
@@ -409,12 +409,18 @@
 <!ENTITY actionbar_menu "Меню">
 <!ENTITY actionbar_done "Готово">
 <!ENTITY voicesearch_prompt "Говорите">
-<!ENTITY voicesearch_failed_title "Голосовой поиск &brandShortName;">
-<!ENTITY voicesearch_failed_message "Сейчас с голосовым поиском возникла проблема. Пожалуйста, попробуйте позже.">
-<!ENTITY voicesearch_failed_message_recoverable "Извините! Мы не смогли распознать ваши слова. Пожалуйста, попробуйте ещё раз.">
-<!ENTITY voicesearch_failed_retry "Попробовать снова">
 <!ENTITY remote_tabs_last_synced "Последняя синхронизация: &formatS;">
 <!ENTITY remote_tabs_never_synced "Последняя синхронизация: никогда">
 <!ENTITY find_matchcase "Аа">
 <!ENTITY intent_uri_cannot_open "Не могу открыть ссылку">
 <!ENTITY devtools_auth_scan_header "Сканирование QR-кода, отображенного на другом вашем устройстве">
+<!ENTITY restriction_disallow_tools_menu_title "Отключить меню Инструменты">
+<!ENTITY restriction_disallow_tools_menu_description "Скрыть меню Инструменты из интерфейса.">
+<!ENTITY restriction_disallow_report_site_issue_title "Отключить \'Сообщить о проблеме с сайтом\'">
+<!ENTITY restriction_disallow_report_site_issue_description "Скрыть пункт меню \'Сообщить о проблеме с сайтом\'.">
+<!ENTITY restriction_disallow_import_settings_title "Запретить импорт параметров">
+<!ENTITY restriction_disallow_import_settings_description "Не разрешать импорт параметров из других системных браузеров.">
+<!ENTITY restriction_disallow_addons_title "Запретить дополнения">
+<!ENTITY restriction_disallow_addons_description "Запретить установку дополнений.">
+<!ENTITY restriction_disallow_apps_title "Запретить приложения">
+<!ENTITY restriction_disallow_apps_description "Запретить установку приложений из Firefox Marketplace.">
