@@ -10,6 +10,6 @@
 <!ENTITY feedback.feedback.bad          "Dở">
 
 <!ENTITY feedback.tools.title           "Công cụ">
-
+<!ENTITY feedback.allowTelemetry.title  "Gửi dữ liệu về hiệu suất">
 <!ENTITY feedback.forceCompat.title     "Bắt buộc sự tương thích của tiện ích">
 <!ENTITY feedback.errorConsole.title    "Kích hoạt Bảng kiểm soát Lỗi">

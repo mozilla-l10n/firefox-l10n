@@ -12,12 +12,12 @@
 <!ENTITY sync.syncNow               "Đồng bộ Ngay">
 
 <!ENTITY sync.setup.title           "Kết nối tới Sync">
-
+<!ENTITY sync.setup.pair            "Để kích hoạt, chọn &quot;Ghép đôi thiết bị&quot; trên thiết bị khác của bạn.">
 <!ENTITY sync.fallback              "Tôi không ở gần máy tính của tôi…">
 <!ENTITY sync.setup.manual          "Nhập thông tin tài khoản Sync của bạn">
 <!ENTITY sync.account               "Tên Tài Khoản">
 <!ENTITY sync.password              "Mật khẩu">
-
+<!ENTITY sync.recoveryKey           "Từ khóa Khôi phục">
 <!ENTITY sync.customServer          "Dùng máy chủ tùy biến">
 <!ENTITY sync.serverURL             "URL máy chủ">
 <!ENTITY sync.setup.connect         "Kết nối">
@@ -26,6 +26,6 @@
 
 
 <!ENTITY sync.pair.title            "Ghép đối thiết bị">
-
+<!ENTITY sync.pair.description      "Để kích hoạt thiết bị mới, chọn &quot;Cài đặt đồng bộ&quot; trên thiết bị.">
 <!ENTITY sync.setup.close           "Đóng">
 
