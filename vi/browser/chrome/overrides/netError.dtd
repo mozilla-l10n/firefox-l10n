@@ -19,10 +19,12 @@
 <!ENTITY dnsNotFound.title "Không tìm thấy máy chủ">
 <!ENTITY dnsNotFound.longDesc "<ul> 
 <li>Xin kiểm tra các lỗi gõ địa chỉ như là 
-<strong>ww</strong>.mozilla.com thay vì gõ đúng phải là 
-<strong>www</strong>.mozilla.com</li> 
-<li>Nếu bạn không thể mở bất kì trang nào, hãy kiểm tra kết nối mạng.</li> 
-<li>Nếu máy tính hoặc mạng được bảo vệ bởi tường lửa hoặc proxy, hãy chắc rằng &brandShortName; được phép truy cập Web.</li> 
+<strong>ww</strong>.example.com thay vì gõ đúng phải là 
+<strong>www</strong>.example.com</li> 
+<li>Nếu bạn không thể mở bất kì trang nào, hãy kiểm tra 
+ kết nối mạng.</li> 
+<li>Nếu máy tính hoặc mạng được bảo vệ bởi tường lửa hoặc proxy, hãy chắc rằng 
+ &brandShortName; được phép truy cập Web.</li> 
 </ul>">
 
 <!ENTITY fileNotFound.title "Không tìm thấy tập tin">
@@ -77,8 +79,9 @@
 
 <!ENTITY proxyConnectFailure.title "Máy chủ proxy từ chối kết nối">
 <!ENTITY proxyConnectFailure.longDesc "<ul> 
-<li>Vui lòng kiểm tra thiết lập proxy.</li> 
-<li>Liên hệ với quản trị mạng của bạn để chắc chắn rằng máy chủ proxy vẫn đang hoạt động.</li> 
+<li>Kiểm tra thiết lập proxy để chắc chắn rằng mọi thứ đều đúng.</li> 
+<li>Liên hệ với quản trị mạng của bạn để chắc chắn rằng máy chủ proxy 
+ vẫn đang hoạt động.</li> 
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Không tìm thấy máy chủ proxy">
