@@ -6,7 +6,8 @@
 <!ENTITY  no_space_to_start_error "&brandShortName; شروع کرنے کے لئے کافی جگہ دستیاب نہیں ہے۔">
 <!ENTITY  error_loading_file "&brandShortName; چلانے کے لئے ضروری مسلیں کو لوڈ کرنے کی کوشش کرتے وقت ایک خامی پیش آگئی">
 
-
+<!ENTITY  onboard_start_message3 "&brandShortName; کے ساتھ براؤز کریں">
+<!ENTITY  onboard_start_subtext3 "اپنے موبائل براؤزنگ تجربے کو واقعی اپنا بنائیں۔">
 <!ENTITY  onboard_start_button_account "&brandShortName; میں سائن ان کریں">
 <!ENTITY  onboard_start_button_browser "براؤزنگ شروع کریں">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -46,6 +47,7 @@
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "پہلے سے نشان زد">
 <!ENTITY bookmark_removed "نشانی ہٹا دی گئی">
 <!ENTITY bookmark_updated "نشانی تازہ ہوگئی">
 <!ENTITY bookmark_options "اختیارات">
@@ -79,7 +81,7 @@
 
 <!ENTITY settings "سیٹنگیں">
 <!ENTITY settings_title "سیٹنگیں">
-
+<!ENTITY pref_category_input_options "ان پٹ اختیارات">
 <!ENTITY pref_category_advanced "اعلٰی">
 <!ENTITY pref_category_customize "تخصیص کریں">
 <!ENTITY pref_category_customize_summary "گھر، تلاش، ٹیبیں، درآمد">
@@ -107,7 +109,7 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "نشانی">
 <!ENTITY overlay_share_reading_list_btn_label "پڑھنے کی چیزوں کی فہرست میں ڈالیں">
-
+<!ENTITY overlay_share_bookmark_btn_label_already "پہلے سے نشان زد">
 <!ENTITY overlay_share_reading_list_btn_label_already "پہلے سے پڑھنے کی فہرست میں شامل ہے">
 <!ENTITY overlay_share_send_other "دیگر آلات کو بھیجیں">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
