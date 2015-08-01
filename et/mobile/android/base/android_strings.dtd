@@ -391,7 +391,7 @@ size. -->
 <!ENTITY doorhanger_login_edit_password_hint "Parool">
 <!ENTITY doorhanger_login_edit_toggle    "Kuva parooli">
 <!ENTITY doorhanger_login_edit_toast_error "Parooli salvestamine ebaõnnestus">
-<!ENTITY doorhanger_login_select_message "Kopeeri parool kasutajakontolt &formatS;?">
+<!ENTITY doorhanger_login_select_message "Kas kopeerida parool kasutajakontolt &formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "Parool kopeeriti vahemällu">
 <!ENTITY doorhanger_login_select_toast_copy_error "Parooli kopeerimine polnud võimalik">
 <!ENTITY doorhanger_login_select_action_text "Vali muu kasutajakonto">
