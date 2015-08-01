@@ -436,3 +436,5 @@
 <!ENTITY restriction_disallow_display_settings_description "Impedisci la modifica delle impostazioni avanzate dello schermo.">
 <!ENTITY restriction_disallow_clear_history_title "Disattiva cancellazione cronologia">
 <!ENTITY restriction_disallow_clear_history_description "Impedisci la cancellazione della cronologia di navigazione.">
+<!ENTITY restriction_disallow_master_password_title "Disattiva password principale">
+<!ENTITY restriction_disallow_master_password_description "Impedisci l’impostazione di una password principale per gli accessi.">
