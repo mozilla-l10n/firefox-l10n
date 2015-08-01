@@ -58,7 +58,7 @@
      the inspector contextual-menu for the item that lets users delete the
      current node -->
 
-<!ENTITY inspectorHTMLDelete.label          "Xóa Nút">
+<!ENTITY inspectorHTMLDelete.label          "Xóa Nút (D)">
 <!ENTITY inspectorHTMLDelete.accesskey      "D">
 
 <!ENTITY inspector.selectButton.tooltip     "Dùng chuột chọn phần tử">

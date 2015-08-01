@@ -33,10 +33,10 @@
 <!ENTITY openFileCmd.accesskey        "M">
 <!ENTITY openFileCmd.commandkey       "o">
 
-<!ENTITY openRecentMenu.label         "Mở Gần đây">
+<!ENTITY openRecentMenu.label         "Mở gần đây (R)">
 <!ENTITY openRecentMenu.accesskey     "R">
 
-<!ENTITY revertCmd.label              "Khôi phục lại...">
+<!ENTITY revertCmd.label              "Khôi phục lại... (t)">
 <!ENTITY revertCmd.accesskey          "t">
 
 <!ENTITY saveFileCmd.label            "Lưu">
