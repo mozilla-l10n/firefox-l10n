@@ -5,7 +5,7 @@
 <!ENTITY autoconfigWizard.title          "Փոստարկղի կարգավորումներ">
 <!ENTITY name.label                      "Ձեր անունը.">
 <!ENTITY name.accesskey                  "n">
-<!ENTITY name.placeholder                "Առաջին Վերջին">
+<!ENTITY name.placeholder                "Անուն ազգանուն">
 <!ENTITY name.text                       "Ձեր անունը, որը ցուցադրվելու է բոլորին">
 <!ENTITY email.label                     "Էլ. հասցեն.">
 <!ENTITY email.accesskey                 "l">

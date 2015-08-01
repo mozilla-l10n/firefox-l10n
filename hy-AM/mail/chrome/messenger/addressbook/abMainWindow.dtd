@@ -102,10 +102,10 @@
 <!ENTITY menu_ShowNameAs.accesskey                      "N"> 
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
-<!ENTITY firstLastCmd2.label                            "Առաջին Վերջին">
+<!ENTITY firstLastCmd2.label                            "Անուն ազգանուն">
 <!ENTITY firstLastCmd2.accesskey                        "Ա"> 
-<!ENTITY lastFirstCmd.label                             "Վերջին, Առաջին">
-<!ENTITY lastFirstCmd.accesskey                         "L">
+<!ENTITY lastFirstCmd.label                             "Անուն ազգանուն">
+<!ENTITY lastFirstCmd.accesskey                         "Ա">
 <!ENTITY displayNameCmd.label                           "Ցուցադրվող անունը">
 <!ENTITY displayNameCmd.accesskey                       "D">
 <!ENTITY sortMenu.label                                 "Խմբավորել ըստ՝">
