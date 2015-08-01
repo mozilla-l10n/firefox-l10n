@@ -8,13 +8,13 @@
 
 
 <!ENTITY connectionFailure.title "Không thể kết nối">
-<!ENTITY connectionFailure.longDesc "<p>Mặc dù trang web có vẻ hợp lệ, nhưng trình duyệt không thể thiết lập kết nối.</p><ul><li>Có thể trang này đang tạm thời bị gián đoạn? Hãy thử lại sau.</li><li>Bạn cũng không thể duyệt các trang web khác? Hãy kiểm tra kết nối mạng.</li><li>Máy tính hoặc mạng của bạn có đang được bảo vệ bởi tường lửa hoặc proxy không? Thiết lập sai có thể làm ảnh hưởng tới việc duyệt Web.</li><li>Hoặc, có thể truy cập trình đơn 'Trợ giúp' ở trên để tìm hỗ trợ.</li></ul>">
+<!ENTITY connectionFailure.longDesc "<p>Mặc dù trang web có vẻ hợp lệ, nhưng trình duyệt không thể thiết lập kết nối.</p><ul><li>Có thể trang này đang tạm thời bị gián đoạn? Hãy thử lại sau.</li><li>Bạn cũng không thể duyệt các trang web khác?  Hãy kiểm tra kết nối mạng.</li><li>Máy tính hoặc mạng của bạn có đang được bảo vệ bởi tường lửa hoặc proxy không? Thiết lập sai có thể làm ảnh hưởng tới việc duyệt Web.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Cổng bị cấm vì lí do bảo mật">
 <!ENTITY deniedPortAccess.longDesc "<p>Địa chỉ này có dùng một cổng (vd. <q>mozilla.org:80</q> là cổng 80 trên mozilla.org) vốn được dùng cho mục đích <em>không phải</em> là duyệt Web. Trình duyệt đã hủy yêu cầu để bảo vệ bạn.</p>">
 
 <!ENTITY dnsNotFound.title "Không tìm thấy địa chỉ">
-<!ENTITY dnsNotFound.longDesc "<p>Trình duyệt không thể tìm thấy máy chủ của địa chỉ được cung cấp.</p><ul><li>Liệu bạn có mắc lỗi khi gõ tên miền không? (vd. <q><strong>ww</strong>.mozilla.org</q> thay vì <q><strong>www</strong>.mozilla.org</q>)</li><li>Bạn có chắc tên miền này tồn tại không? Có thể thời hạn đăng kí của nó đã hết.</li><li>Bạn cũng không thể duyệt các trang web khác? Hãy kiểm tra lại kết nối mạng và thiết lập máy chủ DNS.</li><li>Máy tính hoặc mạng của bạn có được bảo vệ bởi tường lửa hoặc proxy? Thiết lập sai có thể làm ảnh hưởng đến việc duyệt Web.</li><li>Hoặc, có thể truy cập trình đơn 'Trợ giúp' ở trên để tìm hỗ trợ.</li></ul>">
+<!ENTITY dnsNotFound.longDesc "<p>Trình duyệt không thể tìm thấy máy chủ của địa chỉ được cung cấp.</p><ul><li>Liệu bạn có mắc lỗi khi gõ tên miền không? (vd. <q><strong>ww</strong>.mozilla.org</q> thay vì <q><strong>www</strong>.mozilla.org</q>)</li><li>Bạn có chắc tên miền này tồn tại không?  Có thể thời hạn đăng kí của nó đã hết.</li><li>Bạn cũng không thể duyệt các trang web khác?  Hãy kiểm tra lại kết nối mạng và thiết lập máy chủ DNS.</li><li>Máy tính hoặc mạng của bạn có được bảo vệ bởi tường lửa hoặc proxy?  Thiết lập sai có thể làm ảnh hưởng đến việc duyệt Web.</li></ul>">
 
 <!ENTITY fileNotFound.title "Không tìm thấy tập tin">
 <!ENTITY fileNotFound.longDesc "<ul><li>Có khi nào mục này đã bị đổi tên hoặc di chuyển không?</li><li>Có lỗi chính tả, lỗi HOA-thường, hay lỗi gõ chữ nào khác trong phần địa chỉ không?</li><li>Bạn có đủ quyền hạn để yêu cầu mục này không?</li></ul>">
