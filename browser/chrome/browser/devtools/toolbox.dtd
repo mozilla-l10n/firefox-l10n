@@ -57,7 +57,6 @@
 <!ENTITY options.stylesheetSourceMaps.tooltip "Показывать оригинальные исходники (напр. файлы Sass) в Редакторе стилей и Инспекторе">
 <!ENTITY options.stylesheetAutocompletion.label "Автодополнение CSS">
 <!ENTITY options.stylesheetAutocompletion.tooltip "Автодополнение свойств, значений и селекторов CSS в Редакторе Стилей по мере набора">
-<!ENTITY options.profiler.label "Профайлер JavaScript">
 <!ENTITY options.commonPrefs.label "Общие настройки">
 <!ENTITY options.enablePersistentLogs.label "Включить непрерывные логи">
 <!ENTITY options.enablePersistentLogs.tooltip "Если вы включите эту опцию, то Веб-консоль и Сетевой монитор не будет очищать вывод при каждом переходе на новую страницу">
