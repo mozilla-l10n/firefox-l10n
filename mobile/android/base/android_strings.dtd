@@ -434,3 +434,5 @@
 <!ENTITY restriction_disallow_location_services_description "Impedisci la condivisione dei dati sulla posizione per migliorare i servizi di georilevazione.">
 <!ENTITY restriction_disallow_display_settings_title "Disattiva impost. schermo">
 <!ENTITY restriction_disallow_display_settings_description "Impedisci la modifica delle impostazioni avanzate dello schermo.">
+<!ENTITY restriction_disallow_clear_history_title "Disattiva cancellazione cronologia">
+<!ENTITY restriction_disallow_clear_history_description "Impedisci la cancellazione della cronologia di navigazione.">
