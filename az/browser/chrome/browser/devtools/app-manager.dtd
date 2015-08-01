@@ -90,7 +90,7 @@
 <!ENTITY projects.error "Səhv">
 <!ENTITY projects.warning "Xəbərdarlıq">
 
-
+<!ENTITY projects.packaged "Paketlənmiş">
 
 <!ENTITY help.title "Proqram İdarəçisi">
 <!ENTITY help.close "Qapat">
