@@ -243,7 +243,7 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled "اسمح بالتشغيل التلقائي">
 <!ENTITY pref_media_autoplay_enabled_summary "تحكم في السماح للمواقع بتشغيل الڤديو و غيره من الوسائط تلقائيا">
 <!ENTITY pref_zoom_force_enabled "فعّل التقريب دائمًا">
-
+<!ENTITY pref_zoom_force_enabled_summary "تخطى الإعدادات لتتمكن من تقريب أي صفحة">
 
 
 
@@ -509,7 +509,7 @@ size. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "أظهر الأجهزة المختارة">
 
 <!ENTITY remote_tabs_panel_moved_title "أين اختفت ألسنتي؟">
-
+<!ENTITY remote_tabs_panel_moved_desc "لقد نقلنا الألسنة من الأجهزة الأخرى إلى لوحة على صفحتك الرئيسية حتى تتمكن من الوصول إليها بسهولة في كل مرة تفتح لسان جديد.">
 <!ENTITY remote_tabs_panel_moved_link "خُذني إلى لوحتي الجديدة.">
 
 <!ENTITY pin_site_dialog_hint "أدخل كلمة للبحث">

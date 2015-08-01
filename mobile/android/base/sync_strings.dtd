@@ -193,13 +193,13 @@
 
 <!ENTITY fxaccount_finish_migrating_header "لِج لإنهاء الترقية">
 <!ENTITY fxaccount_finish_migrating_button_label "أنهِ الترقية">
-
+<!ENTITY fxaccount_finish_migrating_description "قد تحتاج الترقية لنقل الكثير من البيانات. من الأفضل أن تكون على شبكة واي فاي.">
 
 <!ENTITY fxaccount_status_header2 "حساب فَيَرفُكس">
 <!ENTITY fxaccount_status_signed_in_as "ولِجت باسم">
 <!ENTITY fxaccount_status_auth_server "خادوم الحساب">
-
-
+<!ENTITY fxaccount_status_sync_now "زامِن الآن">
+<!ENTITY fxaccount_status_syncing2 "يُزامن…">
 <!ENTITY fxaccount_status_device_name "اسم الجهاز">
 <!ENTITY fxaccount_status_sync_server "خادوم التزامن">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
@@ -209,7 +209,7 @@
 <!ENTITY fxaccount_status_needs_upgrade "تحتاج لترقية &brandShortName; لتتمكن من تسجيل الدخول.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "‏&syncBrand.shortName.label; مُعدّ، لكن لا يُزامن تلقائيًا. انقر على ”مزامنة البيانات تلقائيًا“ في إعدادات أندرويد ← استخدام البيانات.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "‏&syncBrand.shortName.label; مُعدّ، لكن لا يُزامن تلقائيًا. انقر على ”مزامنة البيانات تلقائيًا“ في قائمة إعدادات أندرويد ← الحسابات.">
-
+<!ENTITY fxaccount_status_needs_finish_migrating "انقر للولوج إلى حساب فَيَرفُكس الجديد.">
 <!ENTITY fxaccount_status_bookmarks "العلامات">
 <!ENTITY fxaccount_status_history "التأريخ">
 
@@ -221,12 +221,15 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos "بنود الخدمة">
 <!ENTITY fxaccount_status_linkprivacy "تنبيه الخصوصية">
+<!ENTITY fxaccount_status_more "المزيد&ellipsis;">
 
-
-
+<!ENTITY fxaccount_remove_account_dialog_title "أتريد إزالة حساب فَيَرفُكس؟">
+<!ENTITY fxaccount_remove_account_dialog_message "سيتوقف &brandShortName; عن مزامنة حسابك، لكن لن يحذف أيًا من بيانات تصفحك على هذا الجهاز.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast "أُزيل حساب فَيَرفُكس &formatS;.">
 
+<!ENTITY fxaccount_remove_account_menu_item "أزِل الحساب">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 
@@ -254,11 +257,14 @@
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "الخادوم مشغول، أعد المحاولة بعد قليل">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "حدثت مشكلة">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "تعذّر الاتصال بالشبكة">
-
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "الحساب موصد. &formatS1;">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "‏&syncBrand.shortName.label; غير متّصل">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "انقر لتسجيل الدخول باسم &formatS;">
 
+<!ENTITY fxaccount_sync_finish_migrating_notification_title "أتريد إنهاء ترقية &syncBrand.shortName.label;؟">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text "انقر لتسجيل الدخول باسم &formatS;">
