@@ -6,8 +6,9 @@
 <!ENTITY aboutAddons.header2                    "Tiện ích của Bạn">
 <!ENTITY aboutAddons.options                    "Tùy chọn">
 
-
 <!ENTITY addonAction.enable                     "Bật">
 <!ENTITY addonAction.disable                    "Vô hiệu hóa">
 <!ENTITY addonAction.uninstall                  "Gỡ bỏ">
 <!ENTITY addonAction.undo                       "Hoàn tác">
+
+
