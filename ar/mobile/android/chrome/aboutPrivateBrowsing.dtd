@@ -3,12 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY privatebrowsingpage.title "التصفح الخاص">
+<!ENTITY privatebrowsingpage.title.normal "لست في التصفح الخاص">
 
 
 
-
+<!ENTITY privatebrowsingpage.description2 "العلامات التي تضيفها والملفات التي تنزّلها ستُحفظ في جهازك.">
 <!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
 <!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
 
 <!ENTITY privatebrowsingpage.link.private "هل تريد معرفة المزيد؟">
-
+<!ENTITY privatebrowsingpage.link.normal "افتح لسان تصفح خاص جديد">

@@ -17,7 +17,9 @@
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
-
+<!ENTITY support.pre3              "زُر ">
+<!ENTITY support.link2             "موقع الدعم">
+<!ENTITY support.post3             " للحصول على إجابات عن المشاكل الشائعة.">
 
 <!ENTITY happy.header              "يسعدنا سماع هذا.">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
@@ -33,13 +35,14 @@
 <!ENTITY happy.maybeLater2         "ربما لاحقا">
 <!ENTITY happy.noThanks            "لا، شكرًا">
 
+<!ENTITY sad.header                "أوه لا!">
 <!ENTITY sad.message               "يؤسفنا أنك واجهت بعض المشاكل مع &brandShortName;. من فضلك أطلعنا على التفاصيل حتى يمكننا إصلاحه.">
 <!ENTITY sad.placeholder           "اكتب انطباعاتك هنا">
-
+<!ENTITY sad.lastSite2             "اشمل آخر موقع زرتُه">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 
 <!ENTITY sad.urlPlaceholder        "http://">
-
+<!ENTITY sad.thanksHeader2         "شكرًا لك.">
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
 
@@ -50,4 +53,5 @@
 
 <!ENTITY sad.thanksMessageBottom   "وإلا.">
 
+<!ENTITY feedback.privacy2         "للحفاظ على خصوصيتك، لا تضع أي معلومات شخصية في انطباعاتك التي ترسلها إلينا.">
 <!ENTITY feedback.send             "أرسل الانطباعات">
