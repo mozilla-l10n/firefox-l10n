@@ -26,7 +26,7 @@
 <!ENTITY rangeRadio.accesskey  "ε">
 <!ENTITY frompageInput.label  "από">
 <!ENTITY frompageInput.accesskey  "π">
-<!ENTITY topageInput.label "ως ">
+<!ENTITY topageInput.label  "ως ">
 <!ENTITY topageInput.accesskey  "ω">
 <!ENTITY selectionRadio.label "Επιλογή">
 <!ENTITY selectionRadio.accesskey "π">

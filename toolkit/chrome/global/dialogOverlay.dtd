@@ -5,6 +5,6 @@
 <!-- WARNING!!! This file is obsoleted by the dialog.xml widget -->
 
 <!-- OK Cancel Buttons -->
-<!ENTITY cancelButton.label "Ακύρωση">
-<!ENTITY helpButton.label "Βοήθεια">
-<!ENTITY okButton.label "ΟΚ">
+<!ENTITY okButton.label      "ΟΚ">
+<!ENTITY cancelButton.label  "Ακύρωση">
+<!ENTITY helpButton.label    "Βοήθεια">

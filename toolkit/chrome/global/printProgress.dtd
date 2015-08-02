@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!--LOCALIZATION NOTE printProgress.dtd Main UI for Print Progress Dialog -->
-<!ENTITY printWindow.title "Εκτύπωση">
-<!ENTITY title    "Τίτλος:">
+<!ENTITY printWindow.title "Εκτύπωση"> 
+<!ENTITY title    "Τίτλος:"> 
 <!ENTITY progress "Πρόοδος">
 <!ENTITY preparing "Προετοιμασία...">
 <!ENTITY printComplete "Η εκτύπωση ολοκληρώθηκε">

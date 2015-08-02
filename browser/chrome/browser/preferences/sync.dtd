@@ -17,9 +17,9 @@
 <!ENTITY manageAccount.label          "Διαχείριση λογαριασμού">
 <!ENTITY manageAccount.accesskey      "χ">
 <!ENTITY viewQuota.label              "Προβολή ορίων">
-<!ENTITY changePassword2.label         "Αλλαγή κωδικού…">
-<!ENTITY myRecoveryKey.label           "Το κλειδί ανάκτησης">
-<!ENTITY resetSync2.label              "Επαναφορά Sync…">
+<!ENTITY changePassword2.label        "Αλλαγή κωδικού…">
+<!ENTITY myRecoveryKey.label          "Το κλειδί ανάκτησης">
+<!ENTITY resetSync2.label             "Επαναφορά Sync…">
 
 <!ENTITY pairDevice.label             "Σύνδεση μιας συσκευής">
 

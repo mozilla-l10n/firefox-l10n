@@ -11,16 +11,16 @@
 
 <!ENTITY  fontsAndColors.label        "Γραμματοσειρές &amp; Χρώματα">
 
-<!ENTITY  defaultFont.label                 "Προεπιλεγμένη γραμματοσειρά:">
-<!ENTITY  defaultFont.accesskey             "γ">
+<!ENTITY  defaultFont.label           "Προεπιλεγμένη γραμματοσειρά:">
+<!ENTITY  defaultFont.accesskey       "γ">
 <!ENTITY  defaultSize.label           "Μέγεθος:">
 <!ENTITY  defaultSize.accesskey       "θ">
 
-<!ENTITY  advancedFonts.label               "Για προχωρημένους...">
-<!ENTITY  advancedFonts.accesskey           "π">
+<!ENTITY  advancedFonts.label         "Για προχωρημένους...">
+<!ENTITY  advancedFonts.accesskey     "π">
 
-<!ENTITY  colors.label                      "Χρώματα...">
-<!ENTITY  colors.accesskey                  "Χ">
+<!ENTITY  colors.label                "Χρώματα...">
+<!ENTITY  colors.accesskey            "Χ">
 
 
 <!ENTITY languages.label              "Γλώσσες">

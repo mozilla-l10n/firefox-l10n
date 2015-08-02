@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Values for changepassword.xul -->
-<!ENTITY setPassword.title "Αλλαγή κύριου κωδικού">
+<!ENTITY setPassword.title  "Αλλαγή κύριου κωδικού">
 <!ENTITY setPassword.tokenName.label "Συσκευή ασφάλειας">
 <!ENTITY setPassword.oldPassword.label "Παλαιός κωδικός">
 <!ENTITY setPassword.newPassword.label "Εισάγετε ένα νέο κωδικό">
@@ -12,8 +12,8 @@
 
 <!-- Values for resetpassword.xul -->
 <!ENTITY resetPasswordButtonLabel "Αρχικοποίηση">
-<!ENTITY resetPassword.title "Αρχικοποίηση κυρίου κωδικού">
-<!ENTITY resetPassword.text "Αν αρχικοποιήσετε τον κύριο κωδικό σας όλοι οι αποθηκευμένοι κωδικοί και προσωπικά κλειδιά θα ξεχαστούν. Είστε σίγουροι ότι θέλετε να αρχικοποιήσετε τον κύριο κωδικό;">
+<!ENTITY resetPassword.title  "Αρχικοποίηση κυρίου κωδικού">
+<!ENTITY resetPassword.text  "Αν αρχικοποιήσετε τον κύριο κωδικό σας όλοι οι αποθηκευμένοι κωδικοί και προσωπικά κλειδιά θα ξεχαστούν. Είστε σίγουροι ότι θέλετε να αρχικοποιήσετε τον κύριο κωδικό;">
 
 <!-- Downloading a cert -->
 <!ENTITY downloadCert.title "Λήψη πιστοποιητικού">
@@ -33,16 +33,16 @@
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Επιλογή πιστοποιητικού">
-<!ENTITY certPicker.info "Πιστοποιητικό:">
+<!ENTITY certPicker.info  "Πιστοποιητικό:">
 <!ENTITY certPicker.detailsLabel "Λεπτομέρειες επιλεγμένων πιστοποιητικών:">
 
-<!ENTITY pkcs12.setpassword.title "Επιλογή κωδικού αντιγράφου ασφαλείας πιστοποιητικού">
-<!ENTITY pkcs12.setpassword.message "Ο κωδικός αντιγράφου ασφάλειας πιστοποιητικού προστατεύει το αντίγραφο που πρόκειται να δημιουργήσετε. Θα πρέπει να καθορίσετε αυτόν τον κωδικό ώστε να προχωρήσει η διαδικασία ">
+<!ENTITY pkcs12.setpassword.title  "Επιλογή κωδικού αντιγράφου ασφαλείας πιστοποιητικού">
+<!ENTITY pkcs12.setpassword.message  "Ο κωδικός αντιγράφου ασφάλειας πιστοποιητικού προστατεύει το αντίγραφο που πρόκειται να δημιουργήσετε. Θα πρέπει να καθορίσετε αυτόν τον κωδικό ώστε να προχωρήσει η διαδικασία ">
 <!ENTITY pkcs12.setpassword.label1 "Κωδικός αντιγράφου ασφάλειας πιστοποιητικού:">
 <!ENTITY pkcs12.setpassword.label2 "Κωδικός αντιγράφου ασφάλειας πιστοποιητικού (ξανά):">
 <!ENTITY pkcs12.setpassword.reminder "Προειδοποίηση: Αν ξεχάσετε τον κωδικό ασφάλειας, δεν θα μπορείτε να ανακτήσετε αυτό το αντίγραφο αργότερα. Φυλάξτε το σε ασφαλή τοποθεσία.">
 
-<!ENTITY chooseToken.title "Επιλογή διαλόγου token">
+<!ENTITY chooseToken.title  "Επιλογή διαλόγου token">
 <!ENTITY chooseToken.message1 "Επιλέξτε ένα token">
 
 <!-- Strings for the CreateCertInfo dialog  -->

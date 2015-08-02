@@ -397,4 +397,3 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.backButton): This is the label displayed
   -  on the button which exists the performance statistics view -->
 <!ENTITY netmonitorUI.backButton          "Back">
-
