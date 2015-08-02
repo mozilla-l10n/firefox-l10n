@@ -4,6 +4,8 @@
 <!-- LOCALIZATION NOTE (downloads.title):
      Used by screen readers to describe the Downloads Panel.
      -->
+
+<!ENTITY downloads.title                  "Dikopololo">
 <!-- LOCALIZATION NOTE (downloadDetails.width):
      Width of details for a Downloads Panel item (which directly influences the
      width of the Downloads Panel) expressed using a CSS unit. The longest
@@ -20,6 +22,8 @@
 
      That's 50 characters, so we set the width at 50ch.
      -->
+
+<!ENTITY downloadDetails.width            "50ch">
 <!-- LOCALIZATION NOTE (downloadsSummary.minWidth2):
      Minimum width for the main description of the downloads summary,
      which is displayed at the bottom of the Downloads Panel if the
@@ -34,6 +38,8 @@
      that's 21 characters, so we set the minimum width to 21ch.
      -->
 
+<!ENTITY downloadsSummary.minWidth2       "21ch">
+
 <!ENTITY cmd.pause.label                  "Kgaotsa">
 <!ENTITY cmd.pause.accesskey              "K">
 <!ENTITY cmd.resume.label                 "Simolola gape">
@@ -47,19 +53,19 @@
      -->
 <!ENTITY cmd.show.label                   "Bula e e Nang Setsholadifaele">
 <!ENTITY cmd.show.accesskey               "S">
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY cmd.showMac.label                "Sebatli sa Tshupegetso">
+<!ENTITY cmd.showMac.accesskey            "F">
+<!ENTITY cmd.retry.label                  "Leka">
+<!ENTITY cmd.goToDownloadPage.label       "Tsamaela kwa Tsebeng ya Kopololo">
+<!ENTITY cmd.goToDownloadPage.accesskey   "T">
+<!ENTITY cmd.copyDownloadLink.label       "Kgokagano ya Kopololo">
+<!ENTITY cmd.copyDownloadLink.accesskey   "L">
+<!ENTITY cmd.removeFromHistory.label      "Tlosa mo Motlhaleng wa tse di fitileng">
+<!ENTITY cmd.removeFromHistory.accesskey  "l">
+<!ENTITY cmd.clearList.label              "Phimola Lenaane">
+<!ENTITY cmd.clearList.accesskey          "m">
+<!ENTITY cmd.clearDownloads.label         "Phimola Dikopololo">
+<!ENTITY cmd.clearDownloads.accesskey     "D">
 <!-- LOCALIZATION NOTE (cmd.unblock.label):
      This command may be shown in the context menu, as a menu button item, or as
      a text link when malware or potentially unwanted downloads are blocked.
@@ -87,12 +93,17 @@
      the panel at all.
      -->
 
+<!ENTITY downloadsHistory.label           "Botsha Dikopololo Tsotlhe">
+<!ENTITY downloadsHistory.accesskey       "B">
 
-
+<!ENTITY clearDownloadsButton.label       "Phimola Dikopololo">
+<!ENTITY clearDownloadsButton.tooltip     "Diphimolo di digetse, dikopololo tse di khansetsweng le tse di reteletsweng">
 <!-- LOCALIZATION NOTE (downloadsListEmpty.label):
      This string is shown when there are no items in the Downloads view, when it
      is displayed inside a browser tab.
      -->
+
+<!ENTITY downloadsListEmpty.label         "Ga gona dikopololo dipe.">
 <!-- LOCALIZATION NOTE (downloadsPanelEmpty.label):
      This string is shown when there are no items in the Downloads Panel.
      -->
@@ -100,3 +111,5 @@
      This string is shown when some search terms are specified, but there are no
      results in the Downloads view.
      -->
+
+<!ENTITY downloadsListNoMatch.label       "Ga e a bona dikopololo dipe tse di malebaang.">

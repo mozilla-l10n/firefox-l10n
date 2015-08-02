@@ -718,7 +718,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.activated.undo.accesskey "d">
 <!ENTITY social.learnMore.label "Ithute mo go tseneletseng...">
 <!ENTITY social.learnMore.accesskey "I">
-<!ENTITY social.closeNotificationItem.label "Eseng jaanong">
+<!ENTITY social.closeNotificationItem.label "Eseng Jaanong">
 
 <!ENTITY social.directory.label "Lenaneofaele la Ditiriso">
 <!ENTITY social.directory.text "O ka dirisa Kabo ya ditirelo go tswa mo lenaneofaele.">
@@ -752,7 +752,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY getUserMedia.selectCamera.label "Sekapa-ditshwantsho se se ka abiwang:">
 <!ENTITY getUserMedia.selectCamera.accesskey "S">
-<!ENTITY getUserMedia.selectMicrophone.label "Segoagoe se se ka abelanwang:">
+<!ENTITY getUserMedia.selectMicrophone.label "Sekapamodumo se se ka abelanwang:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "S">
 <!ENTITY getUserMedia.allWindowsShared.message "Windows tse di bonagalang tsotlhe mo sekerini sa gago di tla abelanwa.">
 <!-- Bad Content Blocker Doorhanger Notification -->
@@ -781,12 +781,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pointerLock.notification.message "Tobetsa ESC ka nako ngwe le ngwe go e supa gape.">
 
-<!ENTITY pluginNotification.showAll.label "Supa Tsotlhe">
-<!ENTITY pluginNotification.showAll.accesskey "S">
+<!ENTITY pluginNotification.showAll.label "Bontsha Tsotlhe">
+<!ENTITY pluginNotification.showAll.accesskey "B">
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 
-<!ENTITY pluginActivateNow.label "Letlelela gone jaana">
-<!ENTITY pluginActivateAlways.label "Letlelela gape o gakologelwe">
+<!ENTITY pluginActivateNow.label "Letlelela gone Jaana">
+<!ENTITY pluginActivateAlways.label "Letlelela le go Gakologelwe">
 <!ENTITY pluginBlockNow.label "Thibela Kgokelo">
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
