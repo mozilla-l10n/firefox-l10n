@@ -429,6 +429,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      intentionally left empty for en-US and can be used by other localizations to
      display a string after the search engine name.  This string will be displayed
      as:  "Search <selected engine name><searchAfter.label text>" -->
+
+<!ENTITY search.label                 "खोज">
 <!ENTITY searchAfter.label            "">
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
@@ -671,10 +673,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "रिमोट कनेक्शन">
+<!ENTITY identity.connectionNotSecure "कनेक्शन सुरक्षित नही हैं">
 
 
 
-
+<!ENTITY identity.moreInfoLinkText2 "अधिक जानकारी">
 
 <!ENTITY identity.permissions "अनुमति">
 <!-- Name for the tabs toolbar as spoken by screen readers.
