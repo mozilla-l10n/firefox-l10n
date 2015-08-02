@@ -18,6 +18,7 @@
 
 <!ENTITY aboutTelemetry.showArchivedPingData "بایگانی اطلاعات پینگ">
 
+<!ENTITY aboutTelemetry.showSubsessionData "نمایش اطلاعات زیرنشست‌ها">
 
 <!ENTITY aboutTelemetry.choosePing "انتخاب پینگ:">
 
