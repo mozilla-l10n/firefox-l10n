@@ -6,6 +6,7 @@
 <!ENTITY  no_space_to_start_error "فضای کافی برای شروع &brandShortName; وجود ندارد.">
 <!ENTITY  error_loading_file "اشکالی هنگام آماده‌سازی داده‌ها برای شروع &brandShortName; به‌وجود آمد.">
 
+<!ENTITY  onboard_start_message3 "مرور با &brandShortName;">
 
 
 <!ENTITY  onboard_start_button_browser "شروع وب‌گردی">
