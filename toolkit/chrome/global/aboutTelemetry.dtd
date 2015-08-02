@@ -4,22 +4,34 @@
 
 <!ENTITY aboutTelemetry.pageTitle "اطلاعات مسافت‌سنجی">
 
+<!ENTITY aboutTelemetry.changeDataChoices "  تغییر دادن">
+
+<!ENTITY aboutTelemetry.uploadEnabled "  باگذاری اطلاعات FHR <span>فعال</span> است.">
+
+<!ENTITY aboutTelemetry.uploadDisabled "  باگذاری اطلاعات FHR <span>غیرفعال</span> است.">
 
 
 
+<!ENTITY aboutTelemetry.pingDataSource "منبع اطلاعات پینگ:">
+
+<!ENTITY aboutTelemetry.showCurrentPingData "اطلاعات پینگ فعلی">
+
+<!ENTITY aboutTelemetry.showArchivedPingData "بایگانی اطلاعات پینگ">
 
 
+<!ENTITY aboutTelemetry.choosePing "انتخاب پینگ:">
 
+<!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; پینگ جدیدتر">
 
+<!ENTITY aboutTelemetry.showOlderPing "پینگ قدیمی‌تر &gt;&gt;">
 
+<!ENTITY aboutTelemetry.archiveWeekHeader "هفته">
 
-
-
-
-
+<!ENTITY aboutTelemetry.archivePingHeader "پینگ">
 
 <!ENTITY aboutTelemetry.generalDataSection "  اطلاعات عمومی">
 
+<!ENTITY aboutTelemetry.environmentDataSection "  اطلاعات محیطی">
 
 <!ENTITY aboutTelemetry.telemetryLogSection "  وقایع مسافت‌سنجی">
 
