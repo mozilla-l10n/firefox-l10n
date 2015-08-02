@@ -9,9 +9,9 @@
 <!-- LOCALIZATION NOTE (tabs.context.openTab.accesskey, tabs.context.openMultipleTabs.accesskey):
      Only one of these will show at a time (based on selection), so reusing accesskey is ok. -->
 
-<!ENTITY tabs.context.openTab.label                   "Bula thebe e">
+<!ENTITY tabs.context.openTab.label                   "Bula Thebe e">
 <!ENTITY tabs.context.openTab.accesskey               "B">
-<!ENTITY tabs.context.openMultipleTabs.label          "Bula Dithebe tse di tlhophilweng">
+<!ENTITY tabs.context.openMultipleTabs.label          "Bula Dithebe tse di Tlhophilweng">
 <!ENTITY tabs.context.openMultipleTabs.accesskey      "B">
 <!ENTITY tabs.context.bookmarkSingleTab.label         "Tshwayatsebe thebe e...">
 <!ENTITY tabs.context.bookmarkSingleTab.accesskey     "T">

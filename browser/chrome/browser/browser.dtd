@@ -42,7 +42,7 @@ can reach it easily. -->
 <!ENTITY  unpinTab.accesskey                 "b">
 <!ENTITY  moveToGroup.label                  "Sutisetsa ko Setlhopheng">
 <!ENTITY  moveToGroup.accesskey              "S">
-<!ENTITY  moveToNewGroup.label               "Setlhopa se sesha">
+<!ENTITY  moveToNewGroup.label               "Setlhopa se Sešha">
 <!ENTITY  moveToNewWindow.label              "Sutisetsa ko Window e Ntšha">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "Tshwaatsebe Tsotlhe Dithebe...">
@@ -126,14 +126,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "Tswaa Mokgwa wa Sekerini se se tletseng">
 <!ENTITY fullScreenExit.accesskey "M">
-<!ENTITY fullscreenAllowButton.label "&amp;Letlelela">
-<!ENTITY fullscreenExitButton.label "Ganela">
+<!ENTITY fullscreenAllowButton.label "Letlelela">
+<!ENTITY fullscreenExitButton.label "Latola">
 
 <!ENTITY fullscreenExitHint2.value "Tobetsa ESC nako nngwe le nngwe go tswa.">
 <!ENTITY leaveDOMFullScreen.label "Tswaya mo Sekerini se se tletseng">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
-<!ENTITY closeWindow.label "Tswala Fensetere">
+<!ENTITY closeWindow.label "Tswala Window">
 <!ENTITY closeWindow.accesskey "d">
 
 <!ENTITY bookmarksMenu.label "Matshwaotsebe">
@@ -160,7 +160,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareVideo.accesskey "r">
 <!ENTITY feedsMenu.label "Ikwadise">
 <!ENTITY subscribeToPageMenupopup.label "Ikwadise mo Tsebeng e">
-<!ENTITY subscribeToPageMenuitem.label "Ikwadise mo tsebeng e">
+<!ENTITY subscribeToPageMenuitem.label "Ikwadise mo Tsebeng e...">
 <!ENTITY addCurPagesCmd.label "Ikwadise mo Tsebeng e...">
 <!ENTITY showAllBookmarks2.label "Supa Matshwaotsebe Otlhe">
 <!ENTITY unsortedBookmarksCmd.label "Matshwaotsebe a sa Tlhaolwang">
@@ -293,9 +293,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolboxMenuItem.keytext        "I">
 
 <!ENTITY devToolbarToolsButton.tooltip     "Thefosano Didirisiwa tsa Mmopi">
-<!ENTITY devToolbarOtherToolsButton.label  "Didirisiwa tse dintsi">
+<!ENTITY devToolbarOtherToolsButton.label  "Didirisiwa tse Dintsi">
 
-<!ENTITY getMoreDevtoolsCmd.label        "TsayaDidirsiwa tse dintsi">
+<!ENTITY getMoreDevtoolsCmd.label        "Tsaya Didirsiwa tse Dintsi">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "D">
 
 <!ENTITY fileMenu.label         "Faele"> 
@@ -482,11 +482,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageCmd.label           "Leba Setshwantsho">
 <!ENTITY viewImageCmd.accesskey       "S">
 <!ENTITY viewImageInfoCmd.label       "Leba Tshedimosetso ya Tsebe">
-<!ENTITY viewImageInfoCmd.accesskey   "T">
+<!ENTITY viewImageInfoCmd.accesskey   "h">
 <!ENTITY viewImageDescCmd.label       "Leba Tlhaloso">
 <!ENTITY viewImageDescCmd.accesskey   "T">
 <!ENTITY viewVideoCmd.label           "Leba Bidio">
-<!ENTITY viewVideoCmd.accesskey       "L">
+<!ENTITY viewVideoCmd.accesskey       "e">
 <!ENTITY viewBGImageCmd.label         "Leba Setshwantsho sa Lemorago">
 <!ENTITY viewBGImageCmd.accesskey     "L">
 <!ENTITY setDesktopBackgroundCmd.label      "Tlhoma Jaaka Lemorago la Teseketopo…">
@@ -513,7 +513,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveImageCmd.accesskey       "l">
 <!ENTITY saveVideoCmd.label           "Boloka Bidio jaaka...">
 <!ENTITY saveVideoCmd.accesskey       "l">
-<!ENTITY saveAudioCmd.label           "Boloka Modumo jaaka...">
+<!ENTITY saveAudioCmd.label           "Boloka Modumo Jaaka...">
 <!ENTITY saveAudioCmd.accesskey       "l">
 <!ENTITY emailImageCmd.label          "Imeile Setshwantsho">
 <!ENTITY emailImageCmd.accesskey      "n">
@@ -532,7 +532,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageCmd.label           "Kopolola Lefelo la Setshwantsho">
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "Kopolola Setshwantsho">
-<!ENTITY copyImageContentsCmd.accesskey  "a"> 
+<!ENTITY copyImageContentsCmd.accesskey  "o"> 
 <!ENTITY copyVideoURLCmd.label        "Kopolola Lefelo la Bidio">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "Kopolola Lefelo la Modumo">
@@ -694,8 +694,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSetup.label              "Rulaganya &syncBrand.shortName.label;...">
 <!ENTITY syncSetup.accesskey          "Y">
-<!ENTITY syncSyncNowItem.label        "rulaganya ka tsamaisano gone Jaana">
-<!ENTITY syncSyncNowItem.accesskey    "r">
+<!ENTITY syncSyncNowItem.label        "Rulaganya ka tsamaisano gone Jaana">
+<!ENTITY syncSyncNowItem.accesskey    "R">
 <!ENTITY syncReAuthItem.label         "Golaganya ko &syncBrand.shortName.label;...">
 <!ENTITY syncReAuthItem.accesskey     "G">
 <!ENTITY syncToolbarButton.label      "Rulaganya ka tsamaisano">

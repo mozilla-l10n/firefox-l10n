@@ -15,8 +15,8 @@ by NSS/PSM via netError.xhtml. -->
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-<!ENTITY certerror.introPara1 "O kopile &brandShortName; go golaganya 
-mo go sireletsegileng <b>#1</b>, mme ga re kgone go tlhomamisa gore kgolagano ya gago ke e sireletsegileng.">
+<!ENTITY certerror.introPara1 "O kopile &brandShortName; go golagana 
+mo go sireletsegileng kwa, <b>#1</b>, mme re ka se tlhomamise gore kgolagano ya gago is sireletsegile.">
 <!ENTITY certerror.introPara2 "Ka tlwaelo, fa o leka go golaganya mo go sireletsegileng, 
 disaete di tla tlhagisa boitshupo jo bo tshepegang go supa fa o ya 
 kwa le felong le le siameng. Le fa go ntse jalo, boitshupo jwa saete e ga bo ka ke jwa netefadiwa.">
@@ -40,4 +40,4 @@ o gwetlhagwetlhana le kgolaganyo ya gago.</b>">
  fa o na le lebaka le le utlwalang a gore ke eng setsha se se sa dirise boitshupo jo bo tshephegang.">
 <!ENTITY certerror.addException.label "Tsenya tse di ntshiwang...">
 
-<!ENTITY certerror.technical.heading "Ditshetlana tsa Botegeniki">
+<!ENTITY certerror.technical.heading "Dintlhana tsa Botegeniki">
