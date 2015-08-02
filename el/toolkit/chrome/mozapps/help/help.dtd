@@ -28,7 +28,7 @@
 
 <!ENTITY search.emptytext               "Αναζήτηση">
 <!ENTITY searchHeader.label             "Αποτελέσματα αναζήτησης">
-<!ENTITY toctab.label       	  	"Περιεχόμενα">
+<!ENTITY toctab.label                   "Περιεχόμενα">
 <!ENTITY toctab.accesskey               "χ">
 
 <!-- LOCALIZATION NOTE :

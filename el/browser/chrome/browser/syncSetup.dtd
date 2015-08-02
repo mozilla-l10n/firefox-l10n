@@ -31,8 +31,8 @@
 <!ENTITY setup.emailAddress.accesskey "E">
 <!ENTITY setup.choosePassword.label      "Επιλέξτε έναν κωδικό">
 <!ENTITY setup.choosePassword.accesskey  "ξ">
-<!ENTITY setup.confirmPassword.label  "Επιβεβαίωση κωδικού">
-<!ENTITY setup.confirmPassword.accesskey  "β">
+<!ENTITY setup.confirmPassword.label     "Επιβεβαίωση κωδικού">
+<!ENTITY setup.confirmPassword.accesskey "β">
 
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
@@ -45,8 +45,8 @@
 <!ENTITY setup.tosAgree2.accesskey  "">
 
 <!-- My Recovery Key dialog -->
-<!ENTITY setup.newRecoveryKeyPage.description.label "Για να προστατευτεί πλήρως το απόρρητο σας, όλα τα δεδομένα σας κρυπτογραφούνται πριν τη μεταφορά τους. Το κλειδί ανάκτησης που είναι απαραίτητο για την αποκρυπτογράφηση τους θα το έχετε μόνο εσείς.">
 <!ENTITY setup.newRecoveryKeyPage.title.label "Ο &brandShortName; νοιάζεται για το απόρρητο σας">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Για να προστατευτεί πλήρως το απόρρητο σας, όλα τα δεδομένα σας κρυπτογραφούνται πριν τη μεταφορά τους. Το κλειδί ανάκτησης που είναι απαραίτητο για την αποκρυπτογράφηση τους θα το έχετε μόνο εσείς.">
 <!ENTITY recoveryKeyEntry.label        "Το κλειδί ανάκτησης σας">
 <!ENTITY recoveryKeyEntry.accesskey    "κ">
 <!ENTITY syncGenerateNewKey.label  "Δημιουργία ενός νέου κλειδιού">
