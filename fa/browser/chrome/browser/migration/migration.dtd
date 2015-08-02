@@ -19,8 +19,8 @@
 <!ENTITY importFromChrome.accesskey     "C">
 <!ENTITY importFromFirefox.label        "فایرفاکس">
 <!ENTITY importFromFirefox.accesskey    "x">
-
-
+<!ENTITY importFrom360se.label          "360 Secure Browser">
+<!ENTITY importFrom360se.accesskey      "3">
 
 <!ENTITY noMigrationSources.label       "برنامه‌ای که شامل اطلاعات نشانک‌ها، تاریخچه یا گذرواژه‌ها باشد یافت نشد.">
 
