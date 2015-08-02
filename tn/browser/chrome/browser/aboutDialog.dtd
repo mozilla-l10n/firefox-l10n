@@ -28,32 +28,32 @@
 <!ENTITY community.exp.middle       "ke">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "Sechaba sa mafatshefatshe">
-<!ENTITY community.exp.end          "Go bereka mmogo go rurufatsa gore Webo e nne e bulegile, e le ya botlhe gape e letlelesegile go dirisiwa ke botlhe.">
+<!ENTITY community.exp.end          " go bereka mmogo go rurufatsa gore Webo e nne e bulegile, e le ya botlhe gape e letlelesegile go dirisiwa ke botlhe.">
 
-<!ENTITY community.start2           "&brandShortName; e tlhamilwe ke">
+<!ENTITY community.start2           "&brandShortName; e tlhamilwe ke ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", a">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "Baagelani ba na le dikgatlhego tse di tshwanang">
-<!ENTITY community.end3             "pereko mmogo go rurufatsa gore Webo e bulegile, ke ya botlhe ebile e letlelesega go dirisiwa ke botlhe.">
+<!ENTITY community.creditsLink      "baagelani ba feletseng">
+<!ENTITY community.end3             " pereko mmogo go rurufatsa gore Webo e bulegile, ke ya botlhe ebile e letlelesega go dirisiwa ke botlhe.">
 
-<!ENTITY helpus.start               "O batla go thusa?">
+<!ENTITY helpus.start               "O batla go thusa? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
 <!ENTITY helpus.donateLink          "Neela">
-<!ENTITY helpus.middle              "kgotsa">
+<!ENTITY helpus.middle              " kgotsa ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY helpus.getInvolvedLink     "Tsaya karolo!">
 <!ENTITY helpus.end                 "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
-<!ENTITY bottomLinks.license        "Teseletso ya Tshedimosetso">
+<!ENTITY bottomLinks.license        "Tshedimosetso ya Teseletso">
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
 
 <!ENTITY bottomLinks.rights         "Ditshwanelo tsa Modirisi">
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
 
-<!ENTITY bottomLinks.privacy        "Melao ya pabalesego">
+<!ENTITY bottomLinks.privacy        "Pholisi ya Boporaefete">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 
 <!ENTITY update.checkingForUpdates  "E tlhola ditlhabololo...">
@@ -70,7 +70,7 @@
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
 
 <!ENTITY update.failed.start        "Tlhabololo e retetse.">
-<!ENTITY update.failed.linkText     "Laisololola mofuta wa bosheng">
+<!ENTITY update.failed.linkText     "Kopolola mofuta wa bosheng">
 <!ENTITY update.failed.end          "">
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
@@ -87,7 +87,7 @@
      make the localized text short (see bug 843497 for screenshots). -->
 
 <!ENTITY update.unsupported.start    "O ka se diragatse ditlhabololo tse di tetang selekanyo mo mafaratlhatlheng a.">
-<!ENTITY update.unsupported.linkText "Ithute mo gontsi">
+<!ENTITY update.unsupported.linkText "Ithute go le gontsi">
 <!ENTITY update.unsupported.end      "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this

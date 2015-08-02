@@ -34,7 +34,7 @@
 <!ENTITY helpTroubleshootingInfo.label      "Tharabololobothata ya Tshedimosetso">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
-<!ENTITY helpFeedbackPage.label      "Romela karabo ka maitemogelo...">
+<!ENTITY helpFeedbackPage.label      "Romela tshwaelo ka maitemogelo...">
 <!ENTITY helpFeedbackPage.accesskey  "R">
 
 <!ENTITY helpShowTour2.label            "&brandShorterName; Tsaya Loeto">
@@ -51,4 +51,4 @@
 <!ENTITY hideOtherAppsCmdMac.label      "Fitlha tse Dingwe">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
-<!ENTITY showAllAppsCmdMac.label        "Supa tsotlhe">
+<!ENTITY showAllAppsCmdMac.label        "BontshaTsotlhe">
