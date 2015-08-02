@@ -42,8 +42,8 @@
 
 <!ENTITY syncDeviceName.label       "Įrenginio vardas:">
 <!ENTITY syncDeviceName.accesskey   "v">
-
-
+<!ENTITY fxaSyncDeviceName.label       "Įrenginio pavadinimas">
+<!ENTITY changeSyncDeviceName.label "Pakeisti įrenginio pavadinimą…">
 <!ENTITY cancelChangeSyncDeviceName.label "Atsisakyti">
 <!ENTITY saveChangeSyncDeviceName.label "Įrašyti">
 <!ENTITY unlinkDevice.label           "Atsieti šį įrenginį">
