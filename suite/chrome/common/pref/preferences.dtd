@@ -27,7 +27,7 @@
 <!ENTITY ssl.label "SSL">
 <!ENTITY certs.label "Certificados">
 <!ENTITY sync.label "Sync">
-<!ENTITY advance.label "Avançado">
+<!ENTITY advance.label "Avançadas">
 <!ENTITY down.label "Descarregar">
 <!ENTITY cache.label "Cache">
 <!ENTITY offlineApps.label "Aplicações offline">

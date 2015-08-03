@@ -528,7 +528,7 @@
 <!-- focusSearchInput.key also used by addressbook -->
 
 <!ENTITY focusSearchInput.key "k">
-<!ENTITY advancedButton.label "Avançado…">
+<!ENTITY advancedButton.label "Avançadas…">
 <!ENTITY advancedButton.accesskey "A">
 <!ENTITY searchButton.label "Pesquisar mensagens…">
 <!ENTITY searchButton.accesskey "s">
