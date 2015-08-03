@@ -424,7 +424,7 @@ size. -->
 <!ENTITY page_action_dropmarker_description "Dodatna dejanja">
 
 <!ENTITY masterpassword_create_title "Ustvari glavno geslo">
-<!ENTITY masterpassword_remove_title "Odstrani glavnega gesla">
+<!ENTITY masterpassword_remove_title "Odstrani glavno geslo">
 <!ENTITY masterpassword_password "Geslo">
 <!ENTITY masterpassword_confirm "Potrditev gesla">
 
