@@ -274,7 +274,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 
-<!ENTITY browserContentToolboxMenu.label     "Ibhokisi yezixhobo enesiqulatho sebhrawuza">
+<!ENTITY browserContentToolboxMenu.label     "Ibhokisi yezixhobo enesiqulatho sebhrawuzax">
+<!ENTITY browserContentToolboxMenu.accesskey "x">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Vala ithulbha yomphuhlisi">
 <!ENTITY devToolbarMenu.label              "IThulbha yoMphuhlisi">
@@ -304,6 +305,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "I">
 <!ENTITY newPrivateWindow.label     "Ifestile yangasese entsha">
 <!ENTITY newPrivateWindow.accesskey "I">
+<!ENTITY newNonRemoteWindow.label   "Entsha i-Non-e10s ye-Window">
 
 <!ENTITY editMenu.label         "Hlela"> 
 <!ENTITY editMenu.accesskey       "H"> 
@@ -672,29 +674,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label                   "Rhoxisa">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
-<!ENTITY identity.unverifiedsite2 "Le webhusayithi ayinikezeli nkcazelo yesazisi.">
-<!ENTITY identity.connectedTo "Udityanisiwe kwi">
-<!-- Localization note (identity.runBy) : This string appears between a
-domain name (above) and an organization name (below). E.g.
+<!ENTITY identity.connectionSecure "Unxibelelwano lonxibelelwano">
+<!ENTITY identity.connectionNotSecure "Unxibelelwano alukhuselekanga">
+<!ENTITY identity.connectionVerified "I-&brandShortName; iqinisekise ukuba unxibelelene ngokukhuselekileyo kule sayithi, esetyeniswa yi:">
+<!ENTITY identity.connectionInternal "Le yi-&amp;brandShortName ekhuselekileyo; indawo yolawulo.">
 
-example.com
-which is run by
-Example Enterprises, Inc.
-
-The layout of the identity dialog prevents combining this into a single string with
-substitution variables.  If it is difficult to translate the sense of the string
-with that structure, consider a translation which ignores the preceding domain and
-just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "ehanjiswa nge">
-
-<!ENTITY identity.moreInfoLinkText "Inkcazelo engaphezulu…">
 
 <!ENTITY identity.permissions "Iimvume">
-<!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
-     localized title of this SUMO article
-     https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
-
-<!ENTITY identity.help.tooltip "Ndazi njani xa unxibelelwano lwam kwiwebhusayithi lukhuselekile?">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -865,3 +851,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Pre-landed strings for bug 1123519 -->
 <!ENTITY readingList.sidebar.add.label            "Yongeza kuluhlu lokufunda">
 <!ENTITY readingList.sidebar.add.tooltip          "Yongeza eli phepha kuluhlu lwakho lokufunda">
+<!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
+
+
+
+

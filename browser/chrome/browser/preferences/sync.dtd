@@ -42,6 +42,10 @@
 
 <!ENTITY syncDeviceName.label       "Igama lesixhobo:">
 <!ENTITY syncDeviceName.accesskey   "b">
+<!ENTITY fxaSyncDeviceName.label       "Igama lesixhobo">
+<!ENTITY changeSyncDeviceName.label "Tshintsha igama lesixhobo...">
+<!ENTITY cancelChangeSyncDeviceName.label "Rhoxisa">
+<!ENTITY saveChangeSyncDeviceName.label "Gcina">
 <!ENTITY unlinkDevice.label           "Khulula esi sixhobo">
 <!-- Footer stuff -->
 
