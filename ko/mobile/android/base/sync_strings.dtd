@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label '동기화 항목'>
 <!ENTITY sync.configure.engines.sync.my.title.label '동기화 항목'>
 <!ENTITY sync.configure.engines.title.bookmarks '북마크'>
-<!ENTITY sync.configure.engines.title.passwords '암호'>
+<!ENTITY sync.configure.engines.title.passwords2 '로그인'>
 <!ENTITY sync.configure.engines.title.history '방문 기록'>
 <!ENTITY sync.configure.engines.title.tabs '탭'>
 
@@ -140,7 +140,7 @@
 <!ENTITY fxaccount_policy_linkprivacy '개인 정보 보호 정책'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync '&syncBrand.shortName.label; 사용을 환영합니다'>
-<!ENTITY fxaccount_getting_started_description '로그인하여 탭, 북마크, 암호 등을 동기화합니다.'>
+<!ENTITY fxaccount_getting_started_description2 '로그인하여 탭, 북마크, 로그인 정보 등을 동기화합니다.'>
 <!ENTITY fxaccount_getting_started_get_started '시작하기'>
 <!ENTITY fxaccount_getting_started_old_firefox '오래된 버전의 &syncBrand.shortName.label;를 사용 중인가요?'>
 
@@ -211,7 +211,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating '새 Firefox 계정을 로그인하세요.'>
 <!ENTITY fxaccount_status_bookmarks '북마크'>
 <!ENTITY fxaccount_status_history '방문 기록'>
-<!ENTITY fxaccount_status_passwords '암호'>
+<!ENTITY fxaccount_status_passwords2 '로그인'>
 <!ENTITY fxaccount_status_tabs '열린 탭'>
 <!ENTITY fxaccount_status_legal '법률' >
 <!-- Localization note: when tapped, the following two strings link to

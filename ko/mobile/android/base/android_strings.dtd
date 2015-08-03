@@ -44,6 +44,10 @@
 <!ENTITY bookmark "북마크">
 <!ENTITY bookmark_remove "북마크 삭제">
 <!ENTITY bookmark_added "북마크 추가">
+<!-- Localization note (bookmark_already_added) : This string is
+     used as a label in a toast. It is the verb "to bookmark", not
+     the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "이미 북마크됨">
 <!ENTITY bookmark_removed "북마크 삭제">
 <!ENTITY bookmark_updated "북마크 업데이트">
 <!ENTITY bookmark_options "설정">
@@ -77,6 +81,7 @@
 
 <!ENTITY settings "프로그램 설정">
 <!ENTITY settings_title "프로그램 설정">
+<!ENTITY pref_category_input_options "입력 옵션">
 <!ENTITY pref_category_advanced "고급">
 <!ENTITY pref_category_customize "사용자 설정">
 <!ENTITY pref_category_customize_summary "홈, 검색, 탭, 가져오기">
@@ -132,7 +137,7 @@
 <!ENTITY pref_category_display "디스플레이">
 <!ENTITY pref_category_display_summary "문자, 제목창, 전체 화면 브라우징">
 <!ENTITY pref_category_privacy_short "개인 정보">
-<!ENTITY pref_category_privacy_summary "암호, 쿠키, 추적, 데이터 설정">
+<!ENTITY pref_category_privacy_summary2 "로그인, 쿠키, 추적, 데이터 설정">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "&brandShortName; 소개, FAQ, 데이터 선택">
 <!ENTITY pref_category_datareporting "데이터 선택">
@@ -151,7 +156,9 @@
 <!ENTITY pref_category_devtools "개발자 도구">
 <!ENTITY pref_developer_remotedebugging "원격 디버깅">
 <!ENTITY pref_category_logins "로그인">
-<!ENTITY pref_remember_signons "암호 저장">
+<!ENTITY pref_remember_signons2 "로그인 저장">
+<!ENTITY pref_open_external_urls_privately_title "사생활 보호 모드로 링크 열기">
+<!ENTITY pref_open_external_urls_privately_summary "&brandShortName;에서 열린 모든 외부 링크">
 <!ENTITY pref_manage_logins "로그인 관리">
 
 <!ENTITY pref_category_home "홈">
@@ -189,10 +196,10 @@
 <!ENTITY pref_donottrack_title "추적 중지">
 <!ENTITY pref_donottrack_summary "&brandShortName;가 사이트들에 방문자 추적 중지 요청을 합니다.">
 
-<!ENTITY tab_queue_toast_message2 "&brandShortName;에 탭 대기 중">
+<!ENTITY tab_queue_toast_message3 "&brandShortName;에 저장된 탭">
 <!ENTITY tab_queue_toast_action "지금 열기">
 <!ENTITY tab_queue_prompt_title "여러 개의 링크를 열까요?">
-<!ENTITY tab_queue_prompt_text2 "매번 &brandShortName;로 전환하지 않고 모두 한번에 엽니다.">
+<!ENTITY tab_queue_prompt_text3 "다음번 &brandShortName;를 열 때까지 저장합니다.">
 <!ENTITY tab_queue_prompt_tip_text "나중에 설정에서 변경할 수 있습니다">
 <!ENTITY tab_queue_prompt_positive_action_button "활성화">
 <!ENTITY tab_queue_prompt_negative_action_button "나중에 하기">
@@ -244,10 +251,14 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY pref_media_autoplay_enabled_summary "웹 사이트의 영상이나 다른 미디어 콘텐츠에 대한 자동 재생 권한 설정">
 <!ENTITY pref_zoom_force_enabled "항상 줌 활성화">
 <!ENTITY pref_zoom_force_enabled_summary "어느 페이지든 항상 줌을 할 수 있도록 설정">
+<!ENTITY pref_voice_input "음성 입력">
+<!ENTITY pref_voice_input_summary "제목창에 음성 입력 허가">
+<!ENTITY pref_qrcode_enabled "QR 코드 리더">
+<!ENTITY pref_qrcode_enabled_summary "제목창에 QR 스캐너 허가">
 
 <!ENTITY pref_use_master_password "기본 암호 사용">
 <!ENTITY pref_sync "동기화">
-<!ENTITY pref_sync_summary "탭, 북마크, 암호, 방문 이력 동기화">
+<!ENTITY pref_sync_summary2 "탭, 북마크, 로그인, 방문 이력 동기화">
 <!ENTITY pref_search_suggestions "추천 검색어 표시">
 <!ENTITY pref_import_android "안드로이드에서 가져오기">
 <!ENTITY pref_import_android_summary "기본 브라우저에서 북마크 및 방문 이력 가져오기">
@@ -255,11 +266,12 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY pref_private_data_searchHistory "검색 기록">
 <!ENTITY pref_private_data_formdata2 "양식 데이터 기록">
 <!ENTITY pref_private_data_cookies2 "쿠키 및 로그인">
-<!ENTITY pref_private_data_passwords "저장한 암호">
+<!ENTITY pref_private_data_passwords2 "저장된 로그인">
 <!ENTITY pref_private_data_cache "캐시">
 <!ENTITY pref_private_data_offlineApps "오프라인 웹 데이터">
 <!ENTITY pref_private_data_siteSettings2 "웹 사이트별 설정">
 <!ENTITY pref_private_data_downloadFiles2 "다운로드">
+<!ENTITY pref_private_data_syncedTabs "동기화된 탭">
 
 
 <!ENTITY pref_about_firefox "&brandShortName; 정보">
@@ -380,6 +392,11 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY doorhanger_login_edit_password_hint "암호">
 <!ENTITY doorhanger_login_edit_toggle "암호 보이기">
 <!ENTITY doorhanger_login_edit_toast_error "로그인 저장하기 실패">
+<!ENTITY doorhanger_login_select_message "&formatS;에서 암호를 복사할까요?">
+<!ENTITY doorhanger_login_select_toast_copy "암호가 클립보드에 복사됨">
+<!ENTITY doorhanger_login_select_toast_copy_error "암호를 복사할 수 없음">
+<!ENTITY doorhanger_login_select_action_text "다른 로그인 선택">
+<!ENTITY doorhanger_login_select_title "암호 복사하기">
 
 <!ENTITY pref_titlebar_mode "제목창">
 <!ENTITY pref_titlebar_mode_title "페이지 제목 표시">
@@ -391,7 +408,7 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY pref_scroll_title_bar_summary "페이지를 스크롤 할 때 &brandShortName; 제목창을 숨깁니다">
 
 <!ENTITY pref_tab_queue_title2 "여러 개의 링크 열기">
-<!ENTITY pref_tab_queue_summary2 "매번 &brandShortName;를 여는 대신 나중에 열도록 링크를 쌓아두세요">
+<!ENTITY pref_tab_queue_summary3 "다음번 &brandShortName;를 열 때까지 저장하기">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -410,7 +427,9 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY site_settings_clear        "변경">
 <!ENTITY site_settings_no_settings  "변경할 웹 페이지 설정이 없습니다.">
 
-<!ENTITY reading_list_added "읽기 목록에 페이지 추가됨">
+<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+     as possible. -->
+<!ENTITY reading_list_added2 "읽기 목록에 추가됨">
 <!ENTITY reading_list_removed "읽기 목록에 페이지 삭제됨">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -439,7 +458,7 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY button_clear_data "데이터 삭제">
 <!ENTITY button_set "설정">
 <!ENTITY button_clear "지우기">
-<!ENTITY button_remember "기억하기">
+<!ENTITY button_copy "복사">
 
 <!ENTITY firstrun_panel_title_welcome "환영합니다">
 
@@ -500,10 +519,6 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "선택한 기기 숨기기 취소">
 
-<!ENTITY private_browsing_title "사생활 보호 모드">
-<!ENTITY private_tabs_panel_empty_desc "여기에 사생활 탭이 나타납니다. 방문 이력, 쿠키, 북마크는 전혀 기록이 남지 않습니다. 단 직접 다운로드 받은 파일은 여러분의 기기에 저장됩니다.">
-<!ENTITY private_tabs_panel_learn_more "더 알고 싶은가요?">
-
 <!ENTITY remote_tabs_panel_moved_title "탭들이 어디로 갔나요?">
 <!ENTITY remote_tabs_panel_moved_desc "새로운 탭을 열 때 마다 쉽게 접근 할 수 있도록 탭들을 다른 기기에서 홈 페이지의 패널로 옮겼습니다.">
 <!ENTITY remote_tabs_panel_moved_link "새로운 패널로 데려다주세요.">
@@ -531,6 +546,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "운영 업체 정보:">
 <!ENTITY identity_no_info "이 웹 사이트는 신원 정보를 제공하지 않습니다.">
 <!ENTITY identity_not_encrypted "현재 웹 사이트와는 암호화 통신을 하고 있지 않습니다.">
+<!ENTITY identity_encrypted "암호화됨">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY loaded_mixed_content_message "이 페이지는 안전하지 않은 콘텐츠를 보여주고 있습니다.">
@@ -595,7 +611,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "계속">
 <!ENTITY guest_session_dialog_cancel "취소">
 <!ENTITY new_guest_session_title "&brandShortName;를 다시 시작합니다">
-<!ENTITY new_guest_session_text "손님은 기존의 저장된 암호, 방문내역, 북마크와 같은 개인 브라우징 정보를 볼 수 없게 됩니다.\n\n손님 세션이 종료되면, 손님의 브라우징 정보는 삭제되고 기존 세션으로 돌아갑니다.">
+<!ENTITY new_guest_session_text2 "손님 세션으로 사용 중인 사용자는 개인 브라우징 정보(저장된 로그인, 방문내역, 북마크)를 볼 수 없습니다.\n\n손님 세션이 종료되면, 해당 브라우징 정보는 모두 삭제되고 기존 세션으로 돌아갑니다.">
 <!ENTITY guest_browsing_notification_title "손님 브라우징 활성화">
 <!ENTITY guest_browsing_notification_text "나가기">
 
@@ -647,3 +663,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
 <!ENTITY find_matchcase "Aa">
 
+<!ENTITY intent_uri_cannot_open "링크를 열 수 없음">
