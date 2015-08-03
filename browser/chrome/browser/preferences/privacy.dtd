@@ -4,14 +4,14 @@
 
 <!ENTITY tracking.label                 "Pistage">
 
-<!ENTITY dntTrackingNotOkay3.label     "Demander aux sites de ne pas vous pister.">
-<!ENTITY dntTrackingNotOkay3.accesskey "D">
+<!ENTITY dntTrackingNotOkay4.label     "Demander aux sites de ne pas vous pister">
+<!ENTITY dntTrackingNotOkay4.accesskey "D">
 <!ENTITY doNotTrackInfo.label          "En savoir plus">
-<!ENTITY trackingProtection3.label     "Empêcher les sites de vous pister.">
-<!ENTITY trackingProtection3.accesskey "E">
+<!ENTITY trackingProtection4.label     "Empêcher les sites de vous pister">
+<!ENTITY trackingProtection4.accesskey "E">
 <!ENTITY trackingProtectionLearnMore.label "En savoir plus">
-<!ENTITY trackingProtectionPBM3.label         "Empêcher les sites de vous pister dans les fenêtres de navigation privée.">
-<!ENTITY trackingProtectionPBM3.accesskey     "m">
+<!ENTITY trackingProtectionPBM4.label         "Empêcher les sites de vous pister dans les fenêtres de navigation privée">
+<!ENTITY trackingProtectionPBM4.accesskey     "m">
 <!ENTITY trackingProtectionPBMLearnMore.label "En savoir plus">
 
 <!ENTITY  history.label                 "Historique">
