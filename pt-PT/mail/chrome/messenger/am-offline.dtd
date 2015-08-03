@@ -35,7 +35,7 @@
 <!ENTITY nntpRemoveMsgBody.accesskey "p">
 <!ENTITY offlineSelectNntp.label "Selecionar grupos de notícias para utilização offline...">
 <!ENTITY offlineSelectNntp.accesskey "S">
-<!ENTITY offlineImapAdvancedOffline.label "Avançado…">
+<!ENTITY offlineImapAdvancedOffline.label "Avançadas…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "A">
 <!ENTITY syncGroupTitle.label "Sincronização de mensagens">
 <!ENTITY diskspaceGroupTitle.label "Espaço em disco">

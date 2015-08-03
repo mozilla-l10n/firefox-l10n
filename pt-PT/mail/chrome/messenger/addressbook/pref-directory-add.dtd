@@ -17,7 +17,7 @@
 <!ENTITY directoryLogin.accesskey          "i">
 <!ENTITY General.tab                       "Geral">
 <!ENTITY Offline.tab                       "Offline">
-<!ENTITY Advanced.tab                      "Avançado">
+<!ENTITY Advanced.tab                      "Avançadas">
 <!ENTITY portNumber.label                  "Porta: ">
 <!ENTITY portNumber.accesskey              "P">
 <!ENTITY searchFilter.label                "Filtro de pesquisa: ">
