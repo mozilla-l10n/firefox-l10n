@@ -6,21 +6,35 @@
 
 <!ENTITY aboutTelemetry.changeDataChoices "  Tshintsha">
 
+<!ENTITY aboutTelemetry.uploadEnabled "  I-FHR yokulowuda ingcombolo <span>yenziwe yasebenza</span>.">
 
+<!ENTITY aboutTelemetry.uploadDisabled "  I-FHR yokulowuda ingcombolo <span>yenziwe yasebenza</span>.">
 
+<!ENTITY aboutTelemetry.extendedRecordingEnabled "  Ukurekhodwa kweThelemetri eyandisiweyo <span>yenziwe yasebenza</span>.">
 
+<!ENTITY aboutTelemetry.extendedRecordingDisabled "  Ukurekhodwa kweThelemetri eyandisiweyo <span>kwenziwe akwasebenza</span>.">
 
+<!ENTITY aboutTelemetry.pingDataSource "Uvimba ingcombolo ye-Ping:">
 
+<!ENTITY aboutTelemetry.showCurrentPingData "Inkcukacha ye-ping yakutsha nje">
 
+<!ENTITY aboutTelemetry.showArchivedPingData "Inkcukacha ye-ping elondoloziweyo">
 
+<!ENTITY aboutTelemetry.showSubsessionData "Bonisa iseshini yenkcukacha">
 
+<!ENTITY aboutTelemetry.choosePing "Khetha i-ping:">
 
+<!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; I-ping entshana">
 
+<!ENTITY aboutTelemetry.showOlderPing "I-ping endala &gt;&gt;">
 
+<!ENTITY aboutTelemetry.archiveWeekHeader "Iveki">
 
+<!ENTITY aboutTelemetry.archivePingHeader "I-ping">
 
 <!ENTITY aboutTelemetry.generalDataSection "Ingcombolo jikelele">
 
+<!ENTITY aboutTelemetry.environmentDataSection "  Inkcukacha zendawo esingqongileyo">
 
 <!ENTITY aboutTelemetry.telemetryLogSection "  I-Telemetry Log">
 
