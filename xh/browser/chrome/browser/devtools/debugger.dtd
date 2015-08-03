@@ -162,7 +162,6 @@
 <!ENTITY debuggerUI.seMenuCondBreak.key "B">
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
-
 <!ENTITY debuggerUI.tabs.sources        "Imithombo">
 <!ENTITY debuggerUI.tabs.traces         "Imikhondo">
 <!ENTITY debuggerUI.tabs.callstack      "Ukubizwa Kobekelelo Lwamaxabiso">

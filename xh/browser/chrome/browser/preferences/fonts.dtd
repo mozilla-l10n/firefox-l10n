@@ -46,6 +46,7 @@
 <!ENTITY  font.langGroup.gurmukhi                 "NgokwesiGurmukhi">
 <!ENTITY  font.langGroup.khmer                    "NgokwesiKhmer">
 <!ENTITY  font.langGroup.malayalam                "NgokwesiMalayalam">
+
 <!ENTITY  font.langGroup.oriya                    "IsiOriya">
 <!ENTITY  font.langGroup.telugu                   "IsiTelugu">
 <!ENTITY  font.langGroup.kannada                  "IsiKannada">
