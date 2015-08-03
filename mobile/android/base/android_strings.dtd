@@ -6,6 +6,7 @@
 <!ENTITY  no_space_to_start_error "لا يوجد مساحة كافية لتشغيل &brandShortName;.">
 <!ENTITY  error_loading_file "حصل خطأ عند محاولة تحميل الملفات المطلوبة لتشغيل &brandShortName;">
 
+<!ENTITY  onboard_start_message3 "تصفّح الوِب باستخدام &brandShortName;">
 
 <!ENTITY  onboard_start_button_account "سجّل دخولك إلى &brandShortName;">
 <!ENTITY  onboard_start_button_browser "ابدأ التصفح">
@@ -127,6 +128,8 @@
      divided into two lines (use the newline escape character, "\n", between
      them): the first notifying the user about the failure and the second
      telling the user what to do about it. -->
+<!ENTITY overlay_share_tab_not_sent "تعذّر إرسال اللسان.
+يرجى المحاولة لاحقا.">
 
 <!ENTITY pref_category_search3 "البحث">
 <!ENTITY pref_category_search_summary "خصص مزودي البحث">

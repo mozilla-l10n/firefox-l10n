@@ -19,6 +19,18 @@
 <!ENTITY dnsNotFound.title "الخادوم غير موجود">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "<ul> 
+<li>تحقق من عدم وجود أي أخطاء في العنوان مثل 
+<strong>ww</strong>.example.com بدلًا من 
+<strong>www</strong>.example.com</li> 
+<div id='searchbox'> 
+<input id='searchtext' type='search'></input> 
+<button id='searchbutton'>ابحث</button> 
+</div> 
+<li>إن لم تكن قادرًا على تحميل أي صفحة، تحقق من اتصال جهازك بشبكة البيانات أو الشبكة اللاسلكية. 
+<button id='wifi'>فعّل واي فاي</button> 
+</li> 
+</ul>">
 
 <!ENTITY fileNotFound.title "الملف غير موجود">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -33,6 +45,16 @@
 <!ENTITY malformedURI.title "العنوان غير صالح">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "<ul> 
+<li>تكتب عادة عناوين وِب بالشكل 
+<strong>http://www.example.com/</strong></li> 
+<div id='searchbox'> 
+<input id='searchtext' type='search'></input> 
+<button id='searchbutton'>ابحث</button> 
+</div> 
+<li>تأكد أنك لا تستخدم سلاش أمامية 
+(<strong>/</strong>).</li> 
+</ul>">
 
 <!ENTITY netInterrupt.title "قوطع الاتصال">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
@@ -43,6 +65,11 @@
 <!ENTITY netOffline.title "نمط اللا اتصال">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY netOffline.longDesc3 "<ul> 
+<li>حاول مرة أخرى. &brandShortName; سيحاول فتح اتصال وإعادة تحميل الصفحة. 
+<button id='wifi'>فعّل واي فاي</button> 
+</li> 
+</ul>">
 
 <!ENTITY contentEncodingError.title "خطأ في ترميز المحتوى">
 <!ENTITY contentEncodingError.longDesc "<ul> 
