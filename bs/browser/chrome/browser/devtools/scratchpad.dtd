@@ -47,26 +47,34 @@
 <!ENTITY saveFileAsCmd.accesskey      "a">
 
 <!ENTITY closeCmd.label               "Zatvori">
-
+<!ENTITY closeCmd.key                 "W">
 <!ENTITY closeCmd.accesskey           "C">
 
+<!ENTITY viewMenu.label               "Prikaz">
+<!ENTITY viewMenu.accesskey           "P">
 
+<!ENTITY lineNumbers.label             "Prikaži brojeve redova">
+<!ENTITY lineNumbers.accesskey         "r">
 
+<!ENTITY wordWrap.label                "Omatanje teksta">
+<!ENTITY wordWrap.accesskey            "m">
 
+<!ENTITY highlightTrailingSpace.label     "Istakni razmake na kraju">
+<!ENTITY highlightTrailingSpace.accesskey "I">
 
-
-
-
-
-
-
+<!ENTITY largerFont.label             "Veći font">
+<!ENTITY largerFont.accesskey         "V">
+<!ENTITY largerFont.commandkey        "+">
 <!-- + is above this key on many keyboards -->
+<!ENTITY largerFont.commandkey2       "="> 
 
+<!ENTITY smallerFont.label            "Manji font">
+<!ENTITY smallerFont.accesskey        "M">
+<!ENTITY smallerFont.commandkey       "-">
 
-
-
-
-
+<!ENTITY normalSize.label             "Normalna veličina">
+<!ENTITY normalSize.accesskey         "N">
+<!ENTITY normalSize.commandkey        "0">
 
 <!ENTITY editMenu.label               "Uredi">
 <!ENTITY editMenu.accesskey           "e">
@@ -83,8 +91,9 @@
 <!ENTITY display.accesskey            "D">
 <!ENTITY display.key                  "l">
 
-
-
+<!ENTITY pprint.label                 "Uljepšani ispis">
+<!ENTITY pprint.key                   "p">
+<!ENTITY pprint.accesskey             "p">
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
   -  menu in the text area. It refers to the JavaScript Environment (or context)
@@ -142,4 +151,6 @@
   -  to evaluate the top-level function that the cursor is currently at.
   -->
 
-
+<!ENTITY evalFunction.label "Evaluiraj trenutnu funkciju">
+<!ENTITY evalFunction.accesskey "v">
+<!ENTITY evalFunction.key "e">
