@@ -4,7 +4,7 @@
 
 <!ENTITY itemFormatting.label             "Formatação">
 <!ENTITY itemTags.label                   "Etiquetas">
-<!ENTITY itemAdvanced.label               "Avançado">
+<!ENTITY itemAdvanced.label               "Avançadas">
 
 <!ENTITY style.label                      "Estilo:">
 <!ENTITY style.accesskey                  "E">
@@ -42,7 +42,7 @@
 <!ENTITY defaultSize.label       "Tamanho:">
 <!ENTITY defaultSize.accesskey   "T">
 <!ENTITY fontOptions.accesskey   "A">
-<!ENTITY fontOptions.label       "Avançado...">
+<!ENTITY fontOptions.label       "Avançadas...">
 <!ENTITY colorButton.label       "Cores…">
 <!ENTITY colorButton.accesskey   "C">
 <!-- Advanced -->
