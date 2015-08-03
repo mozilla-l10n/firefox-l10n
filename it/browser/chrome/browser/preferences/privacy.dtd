@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY tracking.label "Tracciamento">
-<!ENTITY dntTrackingNotOkay3.label "Comunica ai siti visitati la volontà di non essere tracciato.">
-<!ENTITY dntTrackingNotOkay3.accesskey "a">
+<!ENTITY dntTrackingNotOkay4.label "Comunica ai siti visitati la volontà di non essere tracciato">
+<!ENTITY dntTrackingNotOkay4.accesskey "a">
 <!ENTITY doNotTrackInfo.label "Ulteriori informazioni">
-<!ENTITY trackingProtection3.label "Impedisci ai siti di effettuare il tracciamento.">
-<!ENTITY trackingProtection3.accesskey "m">
+<!ENTITY trackingProtection4.label "Impedisci ai siti di effettuare il tracciamento">
+<!ENTITY trackingProtection4.accesskey "m">
 <!ENTITY trackingProtectionLearnMore.label "Ulteriori informazioni">
-<!ENTITY trackingProtectionPBM3.label "Impedisci ai siti di effettuare il tracciamento in modalità Navigazione anonima.">
-<!ENTITY trackingProtectionPBM3.accesskey "e">
+<!ENTITY trackingProtectionPBM4.label "Impedisci ai siti di effettuare il tracciamento in modalità Navigazione anonima">
+<!ENTITY trackingProtectionPBM4.accesskey "e">
 <!ENTITY trackingProtectionPBMLearnMore.label "Ulteriori informazioni">
 <!ENTITY history.label "Cronologia">
 <!ENTITY locationBar.label "Barra degli indirizzi">
