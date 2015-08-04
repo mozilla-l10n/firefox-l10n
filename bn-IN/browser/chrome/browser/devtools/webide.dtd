@@ -139,7 +139,7 @@
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "অনুমতি টেবিল">
-
+<!ENTITY permissionstable_name_header "নাম">
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "রানটাইম তথ্য">
@@ -200,7 +200,7 @@
 <!ENTITY simulator_title "সিমুলেটর বিকল্প">
 <!ENTITY simulator_remove "সিমুলেটর মুছে ফেলুন">
 <!ENTITY simulator_reset "ডিফল্ট পুনঃস্থাপন করুন">
-
+<!ENTITY simulator_name "নাম">
 <!ENTITY simulator_software "সফ্টওয়্যার">
 <!ENTITY simulator_version "সংস্করণ">
 <!ENTITY simulator_profile "প্রোফাইল">

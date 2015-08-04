@@ -9,7 +9,8 @@
 <!ENTITY provideSearchSuggestions.label        "সার্চ(s) সাজেশন প্রদান করুন">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
 
-
+<!ENTITY redirectWindowsSearch.label "এই সার্চ ইঞ্জিনটি ব্যাবহার করুন Windows থেকে অনুসন্ধান করার জন্য">
+<!ENTITY redirectWindowsSearch.accesskey "W">
 
 <!ENTITY oneClickSearchEngines.label           "একক-ক্লিক সার্চ ইঞ্জিন">
 
