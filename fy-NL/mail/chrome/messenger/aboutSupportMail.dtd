@@ -15,5 +15,6 @@
 <!ENTITY aboutSupport.accountsConnSecurity "Ferbiningsfeilichheid">
 <!ENTITY aboutSupport.accountsAuthMethod "Autentikaasjemetoade">
 <!ENTITY aboutSupport.accountsDefault "Standert?">
+<!ENTITY aboutSupport.identityName "Identiteit">
 
 <!ENTITY aboutSupport.sendViaEmail.label "Ferstjoer fia e-mail">
