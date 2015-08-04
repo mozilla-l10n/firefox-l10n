@@ -29,33 +29,33 @@
 <!-- LOCALIZATION NOTE(calendar.unifinder.tree.done.tooltip)
    - This label and tooltip is used for the column with the checkbox in the
    - task tree view. -->
-<!ENTITY calendar.unifinder.tree.done.label              "Готово">
-<!ENTITY calendar.unifinder.tree.done.tooltip2             "Sort by completion">
-<!ENTITY calendar.unifinder.tree.priority.label          "Пріоритет">
-<!ENTITY calendar.unifinder.tree.priority.tooltip2         "Sort by priority">
-<!ENTITY calendar.unifinder.tree.title.label             "Назва">
-<!ENTITY calendar.unifinder.tree.title.tooltip2            "Sort by title">
-<!ENTITY calendar.unifinder.tree.percentcomplete.label   "&#37; завершено">
-<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip2  "Sort by &#37; complete">
-<!ENTITY calendar.unifinder.tree.startdate.label         "Початок">
-<!ENTITY calendar.unifinder.tree.startdate.tooltip2        "Sort by start date">
-<!ENTITY calendar.unifinder.tree.enddate.label           "Кінець">
-<!ENTITY calendar.unifinder.tree.enddate.tooltip2          "Sort by end date">
-<!ENTITY calendar.unifinder.tree.duedate.label           "Термін">
-<!ENTITY calendar.unifinder.tree.duedate.tooltip2          "Sort by due date">
-<!ENTITY calendar.unifinder.tree.completeddate.label     "Виконано">
-<!ENTITY calendar.unifinder.tree.completeddate.tooltip2    "Sort by completed date">
-<!ENTITY calendar.unifinder.tree.categories.label        "Категорія">
-<!ENTITY calendar.unifinder.tree.categories.tooltip2       "Sort by category">
-<!ENTITY calendar.unifinder.tree.location.label          "Місце">
-<!ENTITY calendar.unifinder.tree.location.tooltip2         "Sort by location">
-<!ENTITY calendar.unifinder.tree.status.label            "Стан">
-<!ENTITY calendar.unifinder.tree.status.tooltip2           "Sort by status">
-<!ENTITY calendar.unifinder.tree.calendarname.label      "Назва календаря">
-<!ENTITY calendar.unifinder.tree.calendarname.tooltip2     "Sort by calendar name">
-<!ENTITY calendar.unifinder.tree.duration.label          "Дійсно до">
-<!ENTITY calendar.unifinder.tree.duration.tooltip2         "Sort by time until due">
-<!ENTITY calendar.unifinder.close.tooltip                "Закрити пошук і перелік подій">
+<!ENTITY calendar.unifinder.tree.done.label                "Готово">
+<!ENTITY calendar.unifinder.tree.done.tooltip2             "Сортувати за завершенням">
+<!ENTITY calendar.unifinder.tree.priority.label            "Пріоритет">
+<!ENTITY calendar.unifinder.tree.priority.tooltip2         "Сортувати за пріоритетом">
+<!ENTITY calendar.unifinder.tree.title.label               "Назва">
+<!ENTITY calendar.unifinder.tree.title.tooltip2            "Сортувати за назвою">
+<!ENTITY calendar.unifinder.tree.percentcomplete.label     "&#37; завершено">
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip2  "Сортувати за &#37; завершення">
+<!ENTITY calendar.unifinder.tree.startdate.label           "Початок">
+<!ENTITY calendar.unifinder.tree.startdate.tooltip2        "Сортувати за датою початку">
+<!ENTITY calendar.unifinder.tree.enddate.label             "Кінець">
+<!ENTITY calendar.unifinder.tree.enddate.tooltip2          "Сортувати за датою завершення">
+<!ENTITY calendar.unifinder.tree.duedate.label             "Термін">
+<!ENTITY calendar.unifinder.tree.duedate.tooltip2          "Сортувати за терміном">
+<!ENTITY calendar.unifinder.tree.completeddate.label       "Виконано">
+<!ENTITY calendar.unifinder.tree.completeddate.tooltip2    "Сортувати за датою виконання">
+<!ENTITY calendar.unifinder.tree.categories.label          "Категорія">
+<!ENTITY calendar.unifinder.tree.categories.tooltip2       "Сортувати за категорією">
+<!ENTITY calendar.unifinder.tree.location.label            "Місце">
+<!ENTITY calendar.unifinder.tree.location.tooltip2         "Сортувати за розташуванням">
+<!ENTITY calendar.unifinder.tree.status.label              "Стан">
+<!ENTITY calendar.unifinder.tree.status.tooltip2           "Сортувати за станом">
+<!ENTITY calendar.unifinder.tree.calendarname.label        "Назва календаря">
+<!ENTITY calendar.unifinder.tree.calendarname.tooltip2     "Сортувати за назвою календаря">
+<!ENTITY calendar.unifinder.tree.duration.label            "Дійсно до">
+<!ENTITY calendar.unifinder.tree.duration.tooltip2         "Сортувати за терміном завершення">
+<!ENTITY calendar.unifinder.close.tooltip                  "Закрити пошук і перелік подій">
 
 <!ENTITY calendar.today.button.tooltip          "Перейти до сьогоднішніх справ" >
 <!ENTITY calendar.todaypane.button.tooltip      "Показати сьогоднішні справи" >
@@ -212,12 +212,12 @@
 <!ENTITY priority.level.high                "Високий">
 <!ENTITY priority.level.high.accesskey      "В">
 
-<!ENTITY calendar.context.postpone.1hour.label      "1 Hour">
-<!ENTITY calendar.context.postpone.1hour.accesskey  "H">
-<!ENTITY calendar.context.postpone.1day.label       "1 Day">
-<!ENTITY calendar.context.postpone.1day.accesskey   "D">
-<!ENTITY calendar.context.postpone.1week.label      "1 Week">
-<!ENTITY calendar.context.postpone.1week.accesskey  "W">
+<!ENTITY calendar.context.postpone.1hour.label      "1 година">
+<!ENTITY calendar.context.postpone.1hour.accesskey  "г">
+<!ENTITY calendar.context.postpone.1day.label       "1 день">
+<!ENTITY calendar.context.postpone.1day.accesskey   "д">
+<!ENTITY calendar.context.postpone.1week.label      "1 тиждень">
+<!ENTITY calendar.context.postpone.1week.accesskey  "т">
 
 <!ENTITY calendar.copylink.label       "Копіювати адресу лінка">
 <!ENTITY calendar.copylink.accesskey   "К">
