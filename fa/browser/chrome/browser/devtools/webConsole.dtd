@@ -8,7 +8,8 @@
   - documentation on web development on the web. -->
 
 
-
+<!ENTITY networkPanel.requestURLColon             "درخواست نشانی اینترنتی:">
+<!ENTITY networkPanel.requestMethodColon          "روش درخواست:">
 
 
 <!ENTITY networkPanel.requestHeaders              "سرآیندهای درخواست">

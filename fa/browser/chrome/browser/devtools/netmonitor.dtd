@@ -13,7 +13,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.reload1/2/3): These are the labels displayed
   -  in the network table when empty to start logging network requests. -->
-
+<!ENTITY netmonitorUI.reloadNotice2       "بازآوردن">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status2): This is the label displayed
   -  in the network table toolbar, above the "status" column. -->
@@ -21,8 +21,12 @@
   -  in the network table toolbar, above the "method" column. -->
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.file): This is the label displayed
   -  in the network table toolbar, above the "file" column. -->
+
+<!ENTITY netmonitorUI.toolbar.file        "پرونده">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.domain): This is the label displayed
   -  in the network table toolbar, above the "domain" column. -->
+
+<!ENTITY netmonitorUI.toolbar.domain      "دامنه">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.type): This is the label displayed
   -  in the network table toolbar, above the "type" column. -->
 
@@ -33,6 +37,8 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.size): This is the label displayed
   -  in the network table toolbar, above the "size" column, which is the
   -  uncompressed / decoded size. -->
+
+<!ENTITY netmonitorUI.toolbar.size        "اندازه">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.waterfall): This is the label displayed
   -  in the network table toolbar, above the "waterfall" column. -->
 <!-- LOCALIZATION NOTE (netmonitorUI.tab.headers): This is the label displayed
@@ -57,6 +63,8 @@
 <!ENTITY netmonitorUI.tab.security        "امنیت">
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterAll): This is the label displayed
   -  in the network details footer for the "All" filtering button. -->
+
+<!ENTITY netmonitorUI.footer.filterAll    "همه">
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterHTML): This is the label displayed
   -  in the network details footer for the "HTML" filtering button. -->
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterCSS): This is the label displayed
@@ -71,6 +79,8 @@
 <!ENTITY netmonitorUI.footer.filterFonts  "قلم‌ها">
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterImages): This is the label displayed
   -  in the network details footer for the "Images" filtering button. -->
+
+<!ENTITY netmonitorUI.footer.filterImages "تصاویر">
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterMedia): This is the label displayed
   -  in the network details footer for the "Media" filtering button. -->
 
@@ -79,17 +89,23 @@
   -  in the network details footer for the "Flash" filtering button. -->
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterOther): This is the label displayed
   -  in the network details footer for the "Other" filtering button. -->
+
+<!ENTITY netmonitorUI.footer.filterOther  "دیگر">
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterFreetext): This is the label displayed
   -  in the network details footer for the url filtering textbox. -->
 
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.clear): This is the label displayed
   -  in the network details footer for the "Clear" button. -->
+
+<!ENTITY netmonitorUI.footer.clear  "پاک کردن">
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.clear): This is the label displayed
   -  in the network details footer for the performance analysis button. -->
 <!-- LOCALIZATION NOTE (netmonitorUI.panesButton.tooltip): This is the tooltip for
   -  the button that toggles the panes visible or hidden in the netmonitor UI. -->
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.url): This is the label displayed
   -  in the network details headers tab identifying the URL. -->
+
+<!ENTITY netmonitorUI.summary.url         "درخواست نشانی اینترنتی:">
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.method): This is the label displayed
   -  in the network details headers tab identifying the method. -->
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.address): This is the label displayed
@@ -119,6 +135,8 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.timings.blocked): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "blocked" state. -->
+
+<!ENTITY netmonitorUI.timings.blocked     "بازداشته شده:">
 <!-- LOCALIZATION NOTE (netmonitorUI.timings.dns): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "dns" state. -->
@@ -133,6 +151,8 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.timings.wait): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "wait" state. -->
+
+<!ENTITY netmonitorUI.timings.wait        "در حال انتظار:">
 <!-- LOCALIZATION NOTE (netmonitorUI.timings.receive): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "receive" state. -->
@@ -155,6 +175,8 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.security.connection): This is the label displayed
   -  in the security tab describing the section containing information related to
   -  the secure connection. -->
+
+<!ENTITY netmonitorUI.security.connection "اتصال:">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.certificate): This is the label displayed
   -  in the security tab describing the server certificate section. -->
 
@@ -181,10 +203,14 @@
   -  for the Copy as cURL menu item displayed in the context menu for a request -->
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyRequestHeaders): This is the label displayed
   -  on the context menu that copies the selected item's request headers -->
+
+<!ENTITY netmonitorUI.context.copyRequestHeaders     "رونوشت برداشتن از سرصفحه‌های درخواست">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyRequestHeaders.accesskey): This is the access key
   -  for the Copy Request Headers menu item displayed in the context menu for a request -->
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyResponseHeaders): This is the label displayed
   -  on the context menu that copies the selected item's response headers -->
+
+<!ENTITY netmonitorUI.context.copyResponseHeaders     "رونوشت برداشتن از سرصفحه‌های پاسخ">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyResponseHeaders.accesskey): This is the access key
   -  for the Copy Response Headers menu item displayed in the context menu for a response -->
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyResponse): This is the label displayed
@@ -213,11 +239,17 @@
      from the currently displayed request -->
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.rawHeaders.requestHeaders): This is the label displayed
   -  in the network details headers tab identifying the raw request headers textarea -->
+
+<!ENTITY netmonitorUI.summary.rawHeaders.requestHeaders "سرصفحه‌های درخواست:">
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.rawHeaders.responseHeaders): This is the label displayed
   -  in the network details headers tab identifying the raw response headers textarea -->
+
+<!ENTITY netmonitorUI.summary.rawHeaders.responseHeaders "سرصفحه‌های پاسخ:">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.newTab):  This is the label
   -  for the Open in New Tab menu item displayed in the context menu of the
   -  network container  -->
+
+<!ENTITY netmonitorUI.context.newTab      "بازکردن در زبانهٔ جدید">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.newTab.accesskey): This is the access key
   -  for the Open in New Tab menu item displayed in the context menu of the
   -  network container -->
@@ -233,8 +265,12 @@
   -  above the query string entry in the custom request form -->
 <!-- LOCALIZATION NOTE (netmonitorUI.custom.headers): This is the label displayed
   -  above the request headers entry in the custom request form -->
+
+<!ENTITY netmonitorUI.custom.headers      "سرصفحه‌های درخواست:">
 <!-- LOCALIZATION NOTE (netmonitorUI.custom.postData): This is the label displayed
   -  above the request body entry in the custom request form -->
+
+<!ENTITY netmonitorUI.custom.postData     "متن درخواست:">
 <!-- LOCALIZATION NOTE (netmonitorUI.custom.send): This is the label displayed
   -  on the button which sends the custom request -->
 <!-- LOCALIZATION NOTE (netmonitorUI.custom.cancel): This is the label displayed

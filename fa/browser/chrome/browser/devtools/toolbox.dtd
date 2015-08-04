@@ -99,6 +99,8 @@
 
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
+
+<!ENTITY options.webconsole.label            "پیشانهٔ وب">
 <!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
    - label for the checkbox that toggles timestamps in the Web Console -->
 
@@ -131,12 +133,15 @@
   -  section. -->
 
 
+<!ENTITY options.sourceeditor.label                     "ترجیحات ویرایشگر">
 
 
 
 
 
 
+<!ENTITY options.sourceeditor.tabsize.label             "&amp; اندازۀ زبانه">
+<!ENTITY options.sourceeditor.tabsize.accesskey         "T">
 
 
 <!ENTITY options.sourceeditor.keybinding.default.label  "پیش‌فرض">
