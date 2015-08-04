@@ -6,9 +6,9 @@
 
 <!ENTITY status.label "Segurança da mensagem">
 <!ENTITY signatureCert.label "Ver certificado da assinatura">
-<!ENTITY encryptionCert.label "Exibir certificado de encriptação">
+<!ENTITY encryptionCert.label "Ver certificado da cifra">
 
 <!ENTITY signer.name "Assinado por:">
-<!ENTITY recipient.name "Encriptado por:">
+<!ENTITY recipient.name "Cifrada por:">
 <!ENTITY email.address "Endereço de e-mail:">
 <!ENTITY issuer.name "Certificado emitido por:">
