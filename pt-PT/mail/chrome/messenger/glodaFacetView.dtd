@@ -9,7 +9,7 @@
 <!-- LOCALIZATION NOTE (glodaFacetView.loading.label): Label that appears when
      the search results take a long time to appear. -->
 
-<!ENTITY glodaFacetView.loading.label "A pesquisar…">
+<!ENTITY glodaFacetView.loading.label "A pesquisar&#8230;">
 <!-- LOCALIZATION NOTE (glodaFacetView.empty.label): Label that appears when
      there are no results that match the search query. -->
 
