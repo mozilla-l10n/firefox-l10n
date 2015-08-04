@@ -40,7 +40,7 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "p">
 <!ENTITY  unpinTab.label                     "Desafixar separador">
 <!ENTITY  unpinTab.accesskey                 "r">
-<!ENTITY  moveToGroup.label                  "Mover para grupo">
+<!ENTITY  moveToGroup.label                  "Mover para o grupo">
 <!ENTITY  moveToGroup.accesskey              "M">
 <!ENTITY  moveToNewGroup.label               "Novo grupo">
 <!ENTITY  moveToNewWindow.label              "Mover para nova janela">
@@ -62,7 +62,7 @@ displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "Abrir localização…">
 <!ENTITY openFileCmd.label "Abrir ficheiro…">
-<!ENTITY openFileCmd.accesskey "A">
+<!ENTITY openFileCmd.accesskey "o">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Configurar página…">
 <!ENTITY printSetupCmd.accesskey "C">
@@ -339,7 +339,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "Visualização"> 
+<!ENTITY viewMenu.label         "Ver"> 
 <!ENTITY viewMenu.accesskey       "V"> 
 <!ENTITY viewTabGroups.label            "Grupos de separadores">
 <!ENTITY viewTabGroups.accesskey        "G">
@@ -376,14 +376,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addToPanel.label "Adicionar ao menu">
 <!ENTITY customizeMenu.addToPanel.accesskey "m">
 <!ENTITY customizeMenu.moveToToolbar.label "Mover para a barra de ferramentas">
-<!ENTITY customizeMenu.moveToToolbar.accesskey "M">
+<!ENTITY customizeMenu.moveToToolbar.accesskey "o">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
      same context menu as menubarCmd and personalbarCmd, so they should have
      different access keys. customizeMenu.moveToToolbar and 
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Mover para o menu">
-<!ENTITY customizeMenu.moveToPanel.accesskey "M">
+<!ENTITY customizeMenu.moveToPanel.accesskey "o">
 <!ENTITY customizeMenu.removeFromToolbar.label "Remover da barra de ferramentas">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.removeFromMenu.label "Remover do menu">
@@ -554,7 +554,7 @@ items are mutually exclusive. -->
 "Unmute" are the same because the two context-menu
 items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "Sem som">
-<!ENTITY mediaMute.accesskey         "s">
+<!ENTITY mediaMute.accesskey         "m">
 <!ENTITY mediaUnmute.label           "Restaurar">
 <!ENTITY mediaUnmute.accesskey       "s">
 <!ENTITY mediaPlaybackRate.label     "Velocidade de reprodução">
@@ -614,7 +614,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomToggleCmd.label        "Ampliar só o texto">
 <!ENTITY fullZoomToggleCmd.accesskey    "t">
-<!ENTITY fullZoom.label                 "Aumentar/reduzir janela">
+<!ENTITY fullZoom.label                 "Ampliação">
 <!ENTITY fullZoom.accesskey             "A">
 
 <!ENTITY sidebarCloseButton.tooltip     "Fechar barra lateral">
@@ -670,7 +670,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Adicionar dicionários…">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
-<!ENTITY editBookmark.done.label                     "Terminado">
+<!ENTITY editBookmark.done.label                     "Concluir">
 <!ENTITY editBookmark.cancel.label                   "Cancelar">
 <!ENTITY editBookmark.removeBookmark.accessKey       "r">
 
@@ -779,7 +779,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.block.accesskey "e">
 <!ENTITY trackingContentBlocked.disabled.message "A proteção contra monitorização está inativa">
 
-<!ENTITY pointerLock.notification.message "Prima ESC para o mostrar novamente.">
+<!ENTITY pointerLock.notification.message "Prima ESC para mostrar novamente.">
 
 <!ENTITY pluginNotification.showAll.label "Mostrar tudo">
 <!ENTITY pluginNotification.showAll.accesskey "s">
@@ -812,7 +812,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
 
-<!ENTITY panicButton.view.mainActionDesc          "Ao continuar vai:">
+<!ENTITY panicButton.view.mainActionDesc          "Se continuar, irá:">
 <!ENTITY panicButton.view.deleteCookies           "Eliminar os <html:strong>cookies</html:strong> recentes">
 <!ENTITY panicButton.view.deleteHistory           "Eliminar o <html:strong>histórico</html:strong> recente">
 <!ENTITY panicButton.view.deleteTabsAndWindows    "Fechar todos os <html:strong>Separadores</html:strong> e <html:strong>Janelas</html:strong>">
