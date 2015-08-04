@@ -4,8 +4,8 @@
 
 <!ENTITY loadError.label "שגיאה בטעינת דף">
 <!ENTITY retry.label "נסה שוב">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "כישלון בהתחברות">
 <!ENTITY connectionFailure.longDesc "<p>למרות שהאתר נראה תקף, הדפדפן לא הצליח ליצור התחברות.</p><ul><li>האם האתר אינו זמין כעת? נסה שוב מאוחר יותר.</li><li>האם אין באפשרותך לגלוש באתרים אחרים? בדוק את הגדרות החיבור לרשת של המחשב.</li><li>האם המחשב או הרשת מוגנים על־ידי חומת אש או שרת מתווך? הגדרות לא נכונות יכולות להפריע לגלישה באינטרנט.</li></ul>">
@@ -80,6 +80,7 @@
 <p>בעלי אתרים המאמינים כי האתר שלהם דווח בטעות בתור אתר תוקף יכולים <a href='http://www.stopbadware.org/home/reviewinfo' >לבקש בדיקה חוזרת</a>.</p>
 ">
 
+
 <!ENTITY phishingBlocked.title "חשד לזיוף ברשת!">
 <!ENTITY phishingBlocked.longDesc "<p>הכנסת מידע אישי לדף זה יכולה להסתיים בגניבת זהות או הונאה אחרת.</p>
 <p>סוגי זיוף אלו משמשים להונאת משתמשים ומוכרים גם בתור &quot;מתקפות דיוג&quot;, בהן נוכלים שותלים דפים והודעות דואר אלקטרוני המהווים חיקוי של מקורות שאתה סומך עליהם.</p>
@@ -93,10 +94,10 @@
 
 <!ENTITY remoteXUL.title "XUL מרוחק">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>רצוי לפנות אל בעלי האתר וליידע אותם על הבעיה.</li></ul></p>">
+
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
      this inclusion needs to be intact for that approach to work correctly.
      Please, try to keep this at the end of the file. -->
-
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;

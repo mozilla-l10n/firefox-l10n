@@ -20,9 +20,9 @@
 <!ENTITY  sans-serif.accesskey                    "ר">
 <!ENTITY  monospace.label                         "רוחב קבוע:">
 <!ENTITY  monospace.accesskey                     "ב">
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
-
 <!ENTITY  font.langGroup.latin                    "לטיני">
 <!ENTITY  font.langGroup.japanese                 "יפנית">
 <!ENTITY  font.langGroup.trad-chinese             "סינית מסורתית (טיוואן)">
@@ -55,8 +55,8 @@
 <!ENTITY minSize.label                            "גודל גופן מינימלי:">
 <!ENTITY minSize.accesskey                        "פ">
 <!ENTITY minSize.none                             "ללא">
-<!-- default font type -->
 
+<!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "סריף">
 <!ENTITY  useDefaultFontSansSerif.label           "סאן־סריף">
 

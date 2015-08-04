@@ -89,12 +89,6 @@
 </ul>
 ">
 
-<!ENTITY protocolNotFound.title "פרוטוקול לא מוכר">
-<!ENTITY protocolNotFound.longDesc "
-<ul>
-  <li>ייתכן ואתה צריך להתקין תוכנה אחרת בשביל לפתוח את כתובת זו.</li>
-</ul>">
-
 <!ENTITY proxyConnectFailure.title "השרת המתווך דחה את ההתחברות">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
@@ -137,11 +131,6 @@
   </li>
 </ul>
 ">
-<!ENTITY nssFailure2.longDesc "
-<ul>
-  <li>האתר שאתה מנסה לגשת אליו לא ניתן להצגה כי לא ניתן לוודא את האותנטיות של המידע שהתקבל.</li>
-  <li>בבקשה צור קשר עם בעלי האתר ודווח להם על בעיה זו. ניתן גם להשתמש בפקודת הדיווח על אתרים פגומים הממוקמת בתפריט העזרה.</li>
-</ul>">
 
 <!ENTITY nssBadCert.title "קישור מאובטח נכשל">
 <!ENTITY nssBadCert.longDesc2 "
@@ -165,13 +154,12 @@
 <p>בעלי אתרים המאמינים כי האתר שלהם דווח בטעות בתור אתר תוקף יכולים <a href='http://www.stopbadware.org/home/reviewinfo' >לבקש בדיקה חוזרת</a>.</p>
 ">
 
+
 <!ENTITY phishingBlocked.title "חשד לזיוף ברשת!">
 <!ENTITY phishingBlocked.longDesc "<p>הכנסת מידע אישי לדף זה יכולה להסתיים בגניבת זהות או הונאה אחרת.</p>
 <p>סוגי זיוף אלו משמשים להונאת משתמשים ומוכרים גם בתור &quot;מתקפות דיוג&quot;, בהן נוכלים שותלים דפים והודעות דואר אלקטרוני המהווים חיקוי של מקורות שאתה סומך עליהם.</p>
  ">
 
-<!ENTITY cspFrameAncestorBlocked.title "נחסם בהתאם למדיניות האבטחה של התוכן">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; מונע מדף זה להיטען בצורה זו מאחר שהדף כולל מדיניות אבטחת תוכן שמונעת זאת.</p>">
 
 <!ENTITY corruptedContentError.title "שגיאת תוכן פגום">
 <!ENTITY corruptedContentError.longDesc "<p>הדף שאתה מנסה לצפות בו אינו יכול להיות מוצג בגלל שהתגלתה שגיאה בהעברת הנתונים.</p><ul><li>אנא צור קשר עם בעלי האתר והודע על הבעיה הזאת.</li></ul>">
@@ -192,6 +180,9 @@ functionality specific to firefox. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
 
+
 <!ENTITY remoteXUL.title "XUL מרוחק">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>פנה אל בעלי האתר כדי ליידע אותם על הבעיה.</li></ul></p>">
 
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
+     "ssl_error_unsupported_version". -->

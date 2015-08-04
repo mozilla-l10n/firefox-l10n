@@ -1,7 +1,6 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "rtl">
 <!ENTITY rights.pagetitle       "about:rights">
@@ -47,6 +46,8 @@
 
 <!ENTITY rights2.webservices-header "שירותי מידע מבוססי רשת של &brandFullName;">
 
+<!-- point 5 -->
+
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
      the UI, without this page being forgotten every time those strings are
@@ -54,7 +55,6 @@
 <!-- intro paragraph for branded builds -->
 <!ENTITY rights2.webservices-a "&brandFullName; משתמש בשירותי מידע מבוססי רשת (להלן &quot;Services&quot;) כדי לספק חלק מהתכונות שלו המסופקות לשימושך עם הגרסה הבינארית הזו של &brandShortName; תחת התנאים שמתוארים מטה. אם אינך רוצה להשתמש באחד או יותר משירותים אלו או שהתנאים המצוינים למטה אינם מתאימים לך, אתה יכול לנטרל את התכונות או השירותים. הוראות לניטרול תכונות או שירותים מסוימים יכולות להימצא ">
 <!ENTITY rights2.webservices-b "כאן">
-<!ENTITY rights2.webservices-c ".">
 <!ENTITY rights3.webservices-c ". תכונות ושירותים אחרים ניתנים לנטרול בהעדפות היישום.">
 
 <!-- safe browsing points for branded builds -->
@@ -88,4 +88,3 @@
 <!ENTITY rights.webservices-term5 "למעט מה שנדרש על פי חוק, &vendorShortName;, התורמים שלו, מעניקי הרישיונות שלו והמפיצים שלו לא ישאו בנזקים עקיפים, מיוחדים, מקריים, תוצאתיים, עונשיים, או יוצאים מגדר הרגיל כתוצאה מן השימוש ב־&brandShortName; או שקשורים באיזה שהוא אופן לשימוש בו ובשירותים. האחריות הנזיקית הכוללת תחת תנאים אלה לא תעלה על 500$ (חמש מאות דולר ארצות הברית). שטחי שיפוט מסוימים אינם מתירים החרגה או הגבלה של נזקים מסוימים, כך שייתכן שהחרגות והגבלות אלה אינן חלות עליך.">
 <!ENTITY rights.webservices-term6 "&vendorShortName; עשוי לעדכן תנאים אלו מעת לעת לפי הצורך. אין לשנות או לבטל תנאים אלו ללא הסכמה בכתב מאת &vendorShortName;.">
 <!ENTITY rights.webservices-term7 "תנאים אלו ניתנים תחת חוקי מדינת קליפורניה בארצות הברית, למעט היכן שהם סותרים את הוראות החוק. אם חלק כלשהו מתנאים אלה נמצא לא תקף או לא ניתן לאכיפה, שאר החלקים ישארו בתוקף מלא. במקרה של סתירה בין גרסה מתורגמת של תנאים אלו והגרסה בשפה האנגלית, הגרסה בשפה האנגלית תגבר.">
-

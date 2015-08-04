@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutSupport.pageTitle "מידע לפתרון בעיות">
-<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "   דף זה מכיל מידע טכני שאולי שימושי עבורך 
 כשתנסה לפתור בעיות. אם אתה מחפש תשובות לשאלות נפוצות 
 על &brandShortName;, עבור ל<a id='supportLink'>אתר התמיכה</a>.">
@@ -36,9 +36,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsName "שם">
 <!ENTITY aboutSupport.appBasicsVersion "גרסה">
 <!ENTITY aboutSupport.appBasicsBuildID "מזהה גרסה">
+
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
-
 <!ENTITY aboutSupport.appBasicsUpdateChannel "ערוץ עדכונים">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "היסטוריית עדכונים">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "הצגת היסטוריית עדכונים">
@@ -54,6 +54,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "סוכן משתמש">
 <!ENTITY aboutSupport.appBasicsMemoryUse "שימוש בזכרון">
 
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
+
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "חלונות מרובי תהליכים">
 
 <!ENTITY aboutSupport.showDir.label "פתיחת תיקייה">
@@ -68,8 +70,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "העדפות חשובות ששונו">
 <!ENTITY aboutSupport.modifiedPrefsName "שם">
 <!ENTITY aboutSupport.modifiedPrefsValue "ערך">
-<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "העדפות user.js">
 <!ENTITY aboutSupport.userJSDescription "תיקיית הפרופיל שלך מכילה את <a id='prefs-user-js-link'>קובץ user.js</a>, שכולל העדפות שלא נוצרו בידי &brandShortName;.">
 
