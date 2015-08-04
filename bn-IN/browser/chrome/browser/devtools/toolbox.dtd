@@ -95,6 +95,8 @@
 <!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
   -  boolean preference in about:config, in the options panel. -->
+
+<!ENTITY options.enableWorkers.label    "ওয়ার্কার ডিবাগিং সক্রিয় করুন (উন্নয়নের পথে)">
 <!ENTITY options.enableWorkers.tooltip  "এই বিকল্প চালু করলে ডেভেলপার টুলের সাহায্যে কাজগুলি ডিবাগ করা জাবে">
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
