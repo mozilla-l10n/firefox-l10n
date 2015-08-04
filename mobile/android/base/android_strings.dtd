@@ -195,6 +195,7 @@
 <!ENTITY pref_donottrack_title "لا تتعقبني">
 <!ENTITY pref_donottrack_summary "سيُخبر &brandShortName; المواقع أنك لا تريدها أن تتعقبك">
 
+<!ENTITY tab_queue_toast_message3 "حُفظ اللسان في &brandShortName;">
 
 
 
@@ -381,11 +382,13 @@ size. -->
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
 
+<!ENTITY doorhanger_login_no_username "[لا اسم مستخدم]">
+
 <!ENTITY doorhanger_login_edit_username_hint "اسم المستخدم">
 
 
 <!ENTITY doorhanger_login_edit_toast_error "فشل حفظ الولوج">
-
+<!ENTITY doorhanger_login_select_message "أأنسخ كلمة السر من &formatS;؟">
 <!ENTITY doorhanger_login_select_toast_copy "نُسخت كلمة السر إلى الحافظة">
 <!ENTITY doorhanger_login_select_toast_copy_error "تعذر نسخ كلمة السر">
 
@@ -420,6 +423,8 @@ size. -->
 <!ENTITY site_settings_no_settings  "لا إعدادات لمسحها.">
 <!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
      as possible. -->
+
+<!ENTITY reading_list_added2 "أُضيفت إلى القائمة">
 <!ENTITY reading_list_removed "حُذِفت الصفحة من قائمة القراءة">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -576,7 +581,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
       via the search engine that uses the icon they clicked. This text is used
       for screen reader users when they hover each icon - &formatS; will be
       replaced with the name of the currently highlighted icon. -->
-<!ENTITY search_bar_item_desc "ابحث في &formatS;">
+<!ENTITY search_bar_item_desc "ابحث باستخدام &formatS;">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
