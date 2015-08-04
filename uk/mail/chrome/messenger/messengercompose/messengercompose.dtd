@@ -189,8 +189,8 @@
 <!ENTITY accountManagerCmdUnix2.accesskey "м">
 <!ENTITY preferencesCmd2.label "Налаштування…">
 <!ENTITY preferencesCmd2.accesskey "Н">
-<!ENTITY preferencesCmdUnix.label       "Налаштування">
-<!ENTITY preferencesCmdUnix.accesskey   "Н">
+<!ENTITY preferencesCmdUnix.label "Налаштування">
+<!ENTITY preferencesCmdUnix.accesskey "Н">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
