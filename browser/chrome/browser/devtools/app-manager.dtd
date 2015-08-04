@@ -26,7 +26,7 @@
 <!ENTITY device.allow "اجازه دادن">
 <!ENTITY device.allowTooltip "این مجوز برای برنامه هایی از این نوع داده میشود">
 <!ENTITY device.prompt "پرسش">
-
+<!ENTITY device.promptTooltip "برنامه‌هایی از این دست نیاز به مجوزی دارد که توسط کاربر اعلام شود">
 <!ENTITY device.deny "رد کردن">
 <!ENTITY device.denyTooltip "این مجوز به برنامه هایی از این نوع داده نمیشود">
 <!ENTITY device.installedApps "برنامه‌های نصب شده">
@@ -76,7 +76,7 @@
 
 <!ENTITY projects.updateApp "به‌هنگام‌سازی">
 
-
+<!ENTITY projects.debugApp "اشکال‌زدایی">
 
 
 

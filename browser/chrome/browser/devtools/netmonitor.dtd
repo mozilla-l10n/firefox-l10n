@@ -125,6 +125,8 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.timings.connect): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "connect" state. -->
+
+<!ENTITY netmonitorUI.timings.connect     "در حال اتصال:">
 <!-- LOCALIZATION NOTE (netmonitorUI.timings.send): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "send" state. -->
@@ -142,6 +144,8 @@
   -  in the security tab if a security error prevented the connection. -->
 <!-- LOCALIZATION NOTE (netmonitorUI.security.protocolVersion): This is the label displayed
   -  in the security tab describing TLS/SSL protocol version. -->
+
+<!ENTITY netmonitorUI.security.protocolVersion "نسخه قرارداد:">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.cipherSuite): This is the label displayed
   -  in the security tab describing the cipher suite used to secure this connection. -->
 <!-- LOCALIZATION NOTE (netmonitorUI.security.hsts): This is the label displayed
@@ -157,6 +161,8 @@
 <!ENTITY netmonitorUI.security.certificate "گواهی:">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrl): This is the label displayed
   -  on the context menu that copies the selected request's url -->
+
+<!ENTITY netmonitorUI.context.copyUrl     "رونوشت‌برداشتن از نشانی اینترنتی">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrl.accesskey): This is the access key
   -  for the Copy URL menu item displayed in the context menu for a request -->
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrlParams): This is the label displayed
@@ -221,6 +227,8 @@
   -  for the performance analysis menu item displayed in the context menu for a request -->
 <!-- LOCALIZATION NOTE (netmonitorUI.custom.newRequest): This is the label displayed
   -  as the title of the new custom request form -->
+
+<!ENTITY netmonitorUI.custom.newRequest   "درخواست‌ جدید">
 <!-- LOCALIZATION NOTE (netmonitorUI.custom.query): This is the label displayed
   -  above the query string entry in the custom request form -->
 <!-- LOCALIZATION NOTE (netmonitorUI.custom.headers): This is the label displayed
