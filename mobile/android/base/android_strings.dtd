@@ -547,7 +547,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "que é gerido por">
 <!ENTITY identity_no_info "Este sítio web não fornece informações de identidade.">
-<!ENTITY identity_not_encrypted "A sua ligação a este sítio web não é cifrada.">
+<!ENTITY identity_not_encrypted "A sua ligação a este sítio web não está cifrada.">
 <!ENTITY identity_encrypted "A sua ligação a este sítio está cifrada.">
 <!-- Mixed content notifications in site identity popup -->
 
