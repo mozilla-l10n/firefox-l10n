@@ -47,7 +47,7 @@
 <!ENTITY connection.connectTo "اتصال به:">
 <!ENTITY connection.noDeviceFound "دستگاهی پیدا نشد. اتصال یک دستگاه">
 <!ENTITY connection.changeHostAndPort "تغییر دادن">
-<!ENTITY connection.changeHostAndPortTooltip "تغییر میزبان(Host) یا پورت استفاده شده جهت اتصال به دستگاه(به صورت پیش فرض localhost:6000)">
+<!ENTITY connection.changeHostAndPortTooltip "تغییر میزبان و درگاه استفاده شده جهت اتصال به دستگاه (به صورت پیش‌فرض localhost:6000)">
 <!ENTITY connection.startSimulator "شروع شبیه ساز">
 <!ENTITY connection.startSimulatorTooltip "شروع یک نمونه از شبیه‌ساز و اتصال به آن">
 
@@ -63,7 +63,7 @@
 <!ENTITY connection.installOneSimulatorTooltip "نصب یک نسخه از شبیه ساز با دانلود افزونه مرتبط">
 
 <!ENTITY connection.installAnotherSimulatorTooltip "نصب یک ورژن اضافه از شبیه ساز با دانلود افزونه مرتبط">
-
+<!ENTITY connection.startRegisteredSimulator "آغاز:">
 
 <!ENTITY projects.localApps "برنامه های محلی">
 
@@ -71,7 +71,7 @@
 <!ENTITY projects.addPackagedTooltip "افزودن یک بسته برنامه جدید (یک فولدر) از روی کامپیوتر">
 <!ENTITY projects.addHosted "افزودن برنامه میزبانی شده">
 
-
+<!ENTITY projects.title "برنامه‌های محلی">
 
 
 <!ENTITY projects.updateApp "به‌هنگام‌سازی">
@@ -88,10 +88,11 @@
 
 <!ENTITY projects.valid "معتبر">
 <!ENTITY projects.error "خطا">
+<!ENTITY projects.warning "هشدار">
 
 
 
-
+<!ENTITY help.title "مدیریت برنامه">
 <!ENTITY help.close "بستن">
 
 

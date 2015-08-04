@@ -42,6 +42,8 @@
 <!ENTITY profilerUI.exportButton "ذخیره">
 <!-- LOCALIZATION NOTE (profilerUI.clearButton): This string is displayed
   -  on a button that remvoes all the recordings. -->
+
+<!ENTITY profilerUI.clearButton "پاک کردن">
 <!-- LOCALIZATION NOTE (profilerUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
 <!ENTITY profilerUI.toolbar.js-calltree "جاوا اسکریپت">

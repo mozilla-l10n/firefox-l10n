@@ -6,9 +6,12 @@
   - in the Web Developer menu.
   - -->
 
+
+<!ENTITY title      "وصل شدن">
+
 <!ENTITY host       "میزبان:">
 <!ENTITY port       "درگاه:">
-
+<!ENTITY connect    "وصل شدن">
 <!ENTITY connecting "در حال اتصال…">
 
 

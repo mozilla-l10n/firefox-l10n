@@ -33,10 +33,14 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.sources.toggleBreakpoints): This is the tooltip for the
   -  button that toggles all breakpoints for all sources. -->
+
+<!ENTITY debuggerUI.sources.toggleBreakpoints "فعال‌سازی/غیر‌فعال‌سازی تمام نقاط شکسته">
 <!-- LOCALIZATION NOTE (debuggerUI.startTracing): This is the text displayed in
   - the button to start execution tracing. -->
 <!-- LOCALIZATION NOTE (debuggerUI.clearButton): This is the label for
   -  the button that clears the collected tracing data in the tracing tab. -->
+
+<!ENTITY debuggerUI.clearButton "پاک کردن">
 <!-- LOCALIZATION NOTE (debuggerUI.clearButton.tooltip): This is the tooltip for
   -  the button that clears the collected tracing data in the tracing tab. -->
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
@@ -66,6 +70,8 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
   -  appears in the filter panel popup as a header for the operators part. -->
+
+<!ENTITY debuggerUI.searchPanelOperators    "عملگرها:">
 <!-- LOCALIZATION NOTE (debuggerUI.searchFile): This is the text that appears
   -  in the source editor's context menu for the scripts search operation. -->
 
@@ -89,6 +95,8 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchLine): This is the text that appears
   -  in the source editor's context menu for the line search operation. -->
+
+<!ENTITY debuggerUI.searchGoToLine           "رفتن به سطر…">
 
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchVariable): This is the text that appears
@@ -129,9 +137,11 @@
   -  control the stepping commands in the debugger (continue, step over,
   -  step in and step out). -->
 
+<!ENTITY debuggerUI.stepping.resume1    "VK_F8">
 
+<!ENTITY debuggerUI.stepping.stepOver1  "VK_F10">
 
-
+<!ENTITY debuggerUI.stepping.stepIn1    "VK_F11">
 
 <!ENTITY debuggerUI.stepping.stepOut1   "VK_F11">
 
@@ -139,6 +149,8 @@
   -  for the Open in New Tab menu item displayed in the context menu of the
   -  debugger sources side menu. This should be the same as
   -  netmonitorUI.context.newTab  -->
+
+<!ENTITY debuggerUI.context.newTab           "بازکردن در زبانهٔ جدید">
 
 <!-- LOCALIZATION NOTE (debuggerUI.context.copyUrl): This is the label displayed
   -  on the context menu that copies the selected request's url. This should be
