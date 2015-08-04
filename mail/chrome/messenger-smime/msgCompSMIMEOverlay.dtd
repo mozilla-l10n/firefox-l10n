@@ -5,7 +5,7 @@
 
 
 <!ENTITY menu_securityEncryptRequire.label "Cifrar esta mensagem">
-<!ENTITY menu_securityEncryptRequire.accesskey "C">
+<!ENTITY menu_securityEncryptRequire.accesskey "e">
 
 <!ENTITY menu_securitySign.label "Assinar digitalmente esta mensagem">
 <!ENTITY menu_securitySign.accesskey "m">
