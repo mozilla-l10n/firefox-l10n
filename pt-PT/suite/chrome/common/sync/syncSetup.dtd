@@ -45,7 +45,7 @@
 <!-- New Account Page 2: Recovery Key -->
 
 <!ENTITY setup.newRecoveryKeyPage.title.label "O &brandShortName; respeita a sua privacidade">
-<!ENTITY setup.newRecoveryKeyPage.description.label "Para assegurar a sua privacidade total, toda a sua informação é cifrada antes de ser carregada. A chave de recuperação necessária para decifrar a informação não é enviada.">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Para assegurar a sua privacidade, toda a sua informação é cifrada antes de ser carregada. A chave de recuperação necessária para decifrar a informação não é enviada.">
 <!ENTITY recoveryKeyEntry.label        "A sua chave de recuperação">
 <!ENTITY recoveryKeyEntry.accesskey    "c">
 <!ENTITY recoveryGenerateNewKey.label  "Criar uma nova chave">

@@ -4,8 +4,8 @@
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
 
-<!ENTITY menu_securityEncryptRequire.label "Encriptar esta Mensagem">
-<!ENTITY menu_securityEncryptRequire.accesskey "E">
+<!ENTITY menu_securityEncryptRequire.label "Cifrar esta mensagem">
+<!ENTITY menu_securityEncryptRequire.accesskey "e">
 
 <!ENTITY menu_securitySign.label "Assinar digitalmente esta mensagem">
 <!ENTITY menu_securitySign.accesskey "m">
