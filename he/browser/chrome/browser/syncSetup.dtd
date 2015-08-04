@@ -12,7 +12,7 @@
 
 <!ENTITY setup.choicePage.title.label     "האם השתמשת ב־&syncBrand.fullName.label; בעבר?">
 <!ENTITY setup.choicePage.new.label       "מעולם לא השתמשתי ב־&syncBrand.shortName.label; בעבר">
-<!ENTITY setup.choicePage.existing2.label  "אני עושה שימוש ב־&syncBrand.shortName.label; בהתקן אחר">
+<!ENTITY setup.choicePage.existing2.label "אני עושה שימוש ב־&syncBrand.shortName.label; בהתקן אחר">
 
 <!-- New Account AND Existing Account -->
 <!ENTITY server.label               "שרת">
@@ -33,8 +33,6 @@
 <!ENTITY setup.choosePassword.accesskey  "ב">
 <!ENTITY setup.confirmPassword.label     "אימות ססמה">
 <!ENTITY setup.confirmPassword.accesskey "ו">
-<!ENTITY setup.setupMetro.label     "סנכרון עם &brandShortName; במצב Windows 8">
-<!ENTITY setup.setupMetro.accesskey "ס">
 
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
@@ -114,4 +112,3 @@
 <!ENTITY setup.successPage.title "ההתקנה הושלמה">
 <!ENTITY changeOptions.label "ניתן לשנות העדפה זו על ידי בחירה באפשרויות הסנכרון להלן.">
 <!ENTITY continueUsing.label "כעת תוכל להמשיך להשתמש ב־&brandShortName;.">
-

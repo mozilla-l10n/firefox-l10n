@@ -10,9 +10,6 @@
 
 <!ENTITY window.title "מסוף רשת">
 
-<!ENTITY networkPanel.requestURL                  "כתובת הבקשה">
-<!ENTITY networkPanel.requestMethod               "שיטת הבקשה">
-<!ENTITY networkPanel.statusCode                  "קוד מצב">
 
 <!ENTITY networkPanel.requestHeaders              "כותרות בקשה">
 <!ENTITY networkPanel.requestCookie               "עוגיה נשלחה">
@@ -32,14 +29,21 @@
 <!ENTITY saveBodies.label     "רישום גוף הבקשה והתשובה">
 <!ENTITY saveBodies.accesskey "ר">
 
+<!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
+   - Console context menu. -->
+
 <!-- LOCALIZATION NOTE (btnPageNet.label): This string is used for the menu
   -  button that allows users to toggle the network logging output.
   -  This string and the following strings toggle various kinds of output
   -  filters. -->
 <!ENTITY btnPageNet.label   "רשת">
 <!ENTITY btnPageNet.tooltip "רישום גישה לרשת">
+<!-- LOCALIZATION NOTE (btnPageNet.accesskeyMacOSX): This string is used as
+  -  access key for the menu button that allows users to toggle the network
+  -  logging output. On MacOSX accesskeys are available with Ctrl-*. Please make
+  -  sure you do not use the following letters: A, E, N and P. These are used
+  -  for editing commands in text inputs. -->
 <!ENTITY btnPageCSS.label   "CSS">
-<!ENTITY btnPageCSS.tooltip "רישום שגיאות פענוח CSS">
 <!ENTITY btnPageJS.label    "JS">
 <!ENTITY btnPageJS.tooltip  "רישום חריגות JavaScript">
 
@@ -54,30 +58,15 @@
 <!ENTITY btnConsoleWarnings     "אזהרות">
 <!ENTITY btnConsoleLog          "רישום">
 
-<!-- LOCALIZATION NOTE (btnPosition.label): The label shown for the menu which
-  -  allows the user to toggle between the Web Console positioning types. -->
-<!ENTITY btnPosition.label     "מיקום">
+<!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
+  -  should not be translated. -->
+<!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
+  -  should not be translated. -->
+<!-- LOCALIZATION NODE (btnConsoleWindowlessWorkers) the term "Workers"
+  -  should not be translated. -->
 
-<!-- LOCALIZATION NOTE (btnPosition.tooltip): The tooltip shown when the user
-  -  hovers the Position button in the Web Console toolbar. -->
-<!ENTITY btnPosition.tooltip   "ממקם את מסוף הרשת מעל או מתחת למסמך">
-
-<!-- LOCALIZATION NOTE (positionMenu.above): When this option is selected the
-  -  Web Console interface is displayed above the web page. -->
-<!ENTITY positionMenu.above    "מעל">
-
-<!-- LOCALIZATION NOTE (positionMenu.below): When this option is selected the
-  -  Web Console interface is displayed below the web page. -->
-<!ENTITY positionMenu.below    "מתחת">
-
-<!-- LOCALIZATION NOTE (positionMenu.window): When this option is selected the
-  -  Web Console interface is displayed in a floating panel. -->
-<!ENTITY positionMenu.window   "חלון">
-
-<!ENTITY filterBox.placeholder "סינון">
 <!ENTITY btnClear.label        "מחיקה">
 <!ENTITY btnClear.tooltip      "מחיקת פלט מסוף הרשת">
-<!ENTITY btnClose.tooltip      "סגירת מסוף הרשת">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
