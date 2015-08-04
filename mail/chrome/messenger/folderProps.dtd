@@ -15,7 +15,7 @@
 <!ENTITY folderRebuildSummaryFile.explanation    "Іноді фал індекса теки (.msf) пошкоджується, і листи можуть здаватись зниклими, або можуть з’являтись видалені; ремонтування теки може вирішити ці проблеми.">
 <!ENTITY folderIncludeInGlobalSearch.label       "Включати листи у цій теці в результати Глобального пошуку">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "Г">
-     
+
 <!ENTITY retention.label "Налаштування збереження листів">
 <!ENTITY retentionUseAccount.label  "Використовувати налаштування мого облікового запису">
 <!ENTITY retentionUseAccount.accesskey "м">

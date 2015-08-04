@@ -9,7 +9,7 @@
 
 <!ENTITY  size.label                              "Розмір:">
 <!ENTITY  sizeProportional.accesskey              "Р">
-<!ENTITY  sizeMonospace.accesskey                      "м">
+<!ENTITY  sizeMonospace.accesskey                 "м">
 
 <!ENTITY  proportional.label                      "Пропорційний:">
 <!ENTITY  proportional.accesskey                  "П">
