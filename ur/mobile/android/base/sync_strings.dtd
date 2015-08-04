@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label "کیا ہمہ وقت ساز کریں">
 <!ENTITY sync.configure.engines.sync.my.title.label "ہمہ وقت ساز کریں…">
 <!ENTITY sync.configure.engines.title.bookmarks "نشانیاں">
-
+<!ENTITY sync.configure.engines.title.passwords2 "لاگ ان">
 <!ENTITY sync.configure.engines.title.history "سابقات">
 <!ENTITY sync.configure.engines.title.tabs "ٹیب">
 <!-- Common text -->

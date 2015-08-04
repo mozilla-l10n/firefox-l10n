@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY privatebrowsingpage.title "نجی براوزنگ">
-
+<!ENTITY privatebrowsingpage.title.normal "آپ نجی براؤزنگ میں نہیں ہیں">
 
 
 
@@ -11,4 +11,4 @@
 
 
 <!ENTITY privatebrowsingpage.link.private "مزید سیکھیں گے؟">
-
+<!ENTITY privatebrowsingpage.link.normal "نیا نجی ٹیب کھولیں">

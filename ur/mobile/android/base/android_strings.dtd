@@ -137,7 +137,7 @@
 <!ENTITY pref_category_display "دکھائیں">
 <!ENTITY pref_category_display_summary "متن، عنوان بار، پوری سکرین براؤزنگ">
 <!ENTITY pref_category_privacy_short "رازداری">
-
+<!ENTITY pref_category_privacy_summary2 "کنٹرول لاگ ان، کوکیاں، سراغ کاری، کوائف">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "&brandShortName;، عمومی سوالات، کوائف پسندوں کے بارے میں">
 <!ENTITY pref_category_datareporting "کوائف پسندیں">
@@ -156,9 +156,9 @@
 <!ENTITY pref_category_devtools "ڈیولپر ٹول">
 <!ENTITY pref_developer_remotedebugging "بعید ٹھیک کاری">
 <!ENTITY pref_category_logins "لاگ ان">
-
-
-
+<!ENTITY pref_remember_signons2 "لاگ ان یاد رکھیں">
+<!ENTITY pref_open_external_urls_privately_title "ربط نجی براؤزنگ میں کھولیں">
+<!ENTITY pref_open_external_urls_privately_summary "&brandShortName; میں کھولے ہوئے تمام بیرونی روابط کے لیے">
 <!ENTITY pref_manage_logins "لاگ ان بندوبست کریں">
 
 <!ENTITY pref_category_home "گھر">
@@ -196,19 +196,22 @@
 <!ENTITY pref_donottrack_title "میرا سراغ نہ لگائیں">
 <!ENTITY pref_donottrack_summary "&brandShortName; سائٹوں کو بتائے گا کہ آپ اپنا سراغ نہیں لگوانا چاہتے">
 
+<!ENTITY tab_queue_toast_message3 "ٹیب &brandShortName; میں محفوظ کر دیا">
 <!ENTITY tab_queue_toast_action "ابھی کھولیں">
-
-
-
-
-
-
+<!ENTITY tab_queue_prompt_title "ایک سے زیادہ روابط کھولیں؟">
+<!ENTITY tab_queue_prompt_text3 "آپ کے اگلی بار &brandShortName; کھولنے تک انہیں محفوظ کریں">
+<!ENTITY tab_queue_prompt_tip_text "اس کو آپم بعد میں سیٹنگوں میں بدل سکتے ہیں">
+<!ENTITY tab_queue_prompt_positive_action_button "اہل بنائیں">
+<!ENTITY tab_queue_prompt_negative_action_button "ابھی نہیں">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY tab_queue_notification_text_plural2 "&formatD; ٹیب انتظار کر رہے ہیں">
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_text_singular2 "1 ٹیب انتظار کر رہا ہے">
 
 <!ENTITY pref_char_encoding "کریکٹر ضابطہ بندی">
 <!ENTITY pref_char_encoding_on "مینیو دکھائیں">
@@ -248,27 +251,27 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled_summary "قابو کریں اگر ویب سائٹیں خود وڈیو اور دیگر میڈیا مواد چلاسکتی ہیں">
 <!ENTITY pref_zoom_force_enabled "زوم ہمیشہ اہل بنائیں">
 <!ENTITY pref_zoom_force_enabled_summary "زیر لازمی کریں تاکہ آپ کسی بھی صفحے پر زوم کر سکیں">
-
-
-
-
+<!ENTITY pref_voice_input "آواز ان پٹ">
+<!ENTITY pref_voice_input_summary "عنوان بار میں آواز ڈکٹیشن ہونے دیں">
+<!ENTITY pref_qrcode_enabled "QR ضابطہ ناظر">
+<!ENTITY pref_qrcode_enabled_summary "عنوان بار میں QR سکینر کی اجازت دیں">
 
 <!ENTITY pref_use_master_password "ماسٹر پاس ورڈ استعمال کریں">
 <!ENTITY pref_sync "ہمہ وار کریں">
-
+<!ENTITY pref_sync_summary2 "اپنے ٹیب، نشانیاں، پاس ورڈ، سابقات ہمہ وقت ساز کریں">
 <!ENTITY pref_search_suggestions "تلاش تجاویز دکھائیں">
 <!ENTITY pref_import_android "اینڈرائڈ سے درآمد کریں">
 <!ENTITY pref_import_android_summary "مقامی براؤزر سے نشانیاں اور تاریخ درآمد کریں">
 <!ENTITY pref_private_data_history2 "براؤزنگ سابقات">
-
-
+<!ENTITY pref_private_data_searchHistory "سابقات تلاش کریں">
+<!ENTITY pref_private_data_formdata2 "فارم سابقات">
 <!ENTITY pref_private_data_cookies2 "کوکیاں &amp; متحرک لاگ ان">
-
+<!ENTITY pref_private_data_passwords2 "محفوظ شدہ لاگ ان">
 <!ENTITY pref_private_data_cache "کیسہ">
 <!ENTITY pref_private_data_offlineApps "کوکیاں &amp; متحرک لاگ ان">
 <!ENTITY pref_private_data_siteSettings2 "سائٹ سیٹکگیں">
 <!ENTITY pref_private_data_downloadFiles2 "ڈاؤن لوڈ">
-
+<!ENTITY pref_private_data_syncedTabs "ہمہ وقت ساز ٹیب">
 
 
 <!ENTITY pref_about_firefox "&brandShortName; کے بارے میں">
@@ -387,11 +390,11 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "صارف نام">
 <!ENTITY doorhanger_login_edit_password_hint "پاس ورڈ">
 <!ENTITY doorhanger_login_edit_toggle "پاس ورڈدکھائیں">
-
-
-
-
-
+<!ENTITY doorhanger_login_edit_toast_error "لاگ ان محفوظ کرنے میں ناکام">
+<!ENTITY doorhanger_login_select_message "&formatS; سے پاس ورڈ نقل کرے؟">
+<!ENTITY doorhanger_login_select_toast_copy "پاس ورڈ تختہ تراشہ پر نقل شدہ">
+<!ENTITY doorhanger_login_select_toast_copy_error "پاس ورڈ نقل نہیں کر سکا">
+<!ENTITY doorhanger_login_select_action_text "کوئی اور لاگ ان چنیں">
 
 
 <!ENTITY pref_titlebar_mode "عنوان بار">
@@ -423,6 +426,8 @@ size. -->
 <!ENTITY site_settings_no_settings  "صاف کرنے کے لیے کوئی سیٹنگیں نہیں۔">
 <!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
      as possible. -->
+
+<!ENTITY reading_list_added2 "فہرست میں اضافہ کردہ">
 <!ENTITY reading_list_removed "آپ کے پڑھنے والی فہرست سے صفحہ ہٹا دیا گیا">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -453,6 +458,7 @@ size. -->
 <!ENTITY button_clear "صاف کریں">
 <!ENTITY button_copy "نقل کریں">
 
+<!ENTITY firstrun_panel_title_welcome "خوش آمدید">
 
 <!ENTITY home_top_sites_title "بہترین سائٹیں">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -639,7 +645,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY voicesearch_failed_title "&brandShortName; آواز تلاش">
 <!ENTITY voicesearch_failed_message "اس وقت آواز تلاش میں کچھ مسلہ ہے۔ بعد میں کوشش کریں۔">
 <!ENTITY voicesearch_failed_message_recoverable "ہم آپ کے الفاظ پہچان نہیں سکے۔ پھر کوشش کریں۔">
-
+<!ENTITY voicesearch_failed_retry "دوبارہ کوشش کریں">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -656,3 +662,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY find_matchcase "Aa">
 
+<!ENTITY intent_uri_cannot_open "ربط نہیں کھول سکا">
