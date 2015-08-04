@@ -52,6 +52,8 @@
 <!ENTITY site_security "Sicurezza del sito">
 <!ENTITY edit_mode_cancel "Annulla">
 <!ENTITY close_tab "Chiudi scheda">
+<!ENTITY tab_audio_playing "Questa scheda sta riproducendo audio">
+<!ENTITY tab_audio_muted "La riproduzione audio è disattivata per questa scheda">
 <!ENTITY one_tab "1 scheda">
 <!ENTITY num_tabs2 "&formatD; schede">
 <!ENTITY new_tab_opened "Aperta nuova scheda">
