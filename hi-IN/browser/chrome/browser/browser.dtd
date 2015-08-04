@@ -303,7 +303,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "नयी निजी विंडो">
 <!ENTITY newPrivateWindow.accesskey "W">
-
+<!ENTITY newNonRemoteWindow.label   "नया नन-इ10एस विंडो">
 
 <!ENTITY editMenu.label         "संपादन"> 
 <!ENTITY editMenu.accesskey       "E"> 
@@ -675,7 +675,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "रिमोट कनेक्शन">
 <!ENTITY identity.connectionNotSecure "कनेक्शन सुरक्षित नही हैं">
 
-
+<!ENTITY identity.connectionInternal "यह एक सुरक्षित &brandShortName; पेज हैं.">
 
 <!ENTITY identity.moreInfoLinkText2 "अधिक जानकारी">
 
@@ -852,6 +852,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY readingList.sidebar.add.tooltip          "यह पृष्ठ अपनी पठन सूची में जोड़ें">
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 
-
-
-
+<!ENTITY saveToPocketCmd.label     "पॉकेट में पेज को सहेजे">
+<!ENTITY saveToPocketCmd.accesskey "k">
+<!ENTITY saveLinkToPocketCmd.label     "पॉकेट में लिंक को सहेजे">
+<!ENTITY saveLinkToPocketCmd.accesskey "o">
+<!ENTITY pocketMenuitem.label      "पॉकेट सूची देखे">
