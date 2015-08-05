@@ -5,6 +5,7 @@
 <!ENTITY aboutTelemetry.pageTitle "Telemetrijos duomenys">
 
 
+<!ENTITY aboutTelemetry.uploadEnabled "  FHR duomenų išsiuntimas yra <span>įungtas</span>.">
 
 <!ENTITY aboutTelemetry.uploadDisabled "  FHR duomenų išsiuntimas yra <span>išjungtas</span>.">
 
@@ -16,8 +17,10 @@
 
 
 
+<!ENTITY aboutTelemetry.showOlderPing "Senesnis ryšio patikrinimas &gt;&gt;">
 
 
+<!ENTITY aboutTelemetry.archivePingHeader "Ryšio patikrinimas">
 
 <!ENTITY aboutTelemetry.generalDataSection "  Įprasti duomenys">
 
