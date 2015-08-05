@@ -6,12 +6,25 @@
 <!ENTITY  no_space_to_start_error "אין מספיק מקום פנוי כדי להפעיל את &brandShortName;.">
 <!ENTITY  error_loading_file "אירעה שגיאה במהלך נסיון טעינת קבצים הדרושים להפעלת &brandShortName;">
 
+<!ENTITY  onboard_start_message3 "גלישה באמצעות &brandShortName;">
+<!ENTITY  onboard_start_button_browser "התחלת גלישה">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
+<!ENTITY  bookmarks_title "סימניות">
+<!ENTITY  history_title "היסטוריה">
+<!ENTITY  reading_list_title "רשימת קריאה">
+<!ENTITY  recent_tabs_title "לשוניות אחרונות">
 
+<!ENTITY  switch_to_tab "מעבר ללשונית">
 
 <!ENTITY  crash_reporter_title "מדווח הקריסות של &brandShortName;">
+<!ENTITY  crash_include_url2 "לכלול את כתובת הדף בו הייתי">
+<!ENTITY  crash_sorry "אנו מצטערים">
+<!ENTITY  crash_comment "הוספת הערה (הערות חשופות לקהל)">
+<!ENTITY  crash_allow_contact2 "לאפשר ל־&vendorShortName; ליצור עמי קשר על אודות דיווח זה">
+<!ENTITY  crash_email "כתובת הדוא״ל שלך">
+<!ENTITY  crash_closing_alert "האם לצאת ללא שליחת דיווח קריסה?">
 <!ENTITY  sending_crash_report "שולח דיווח קריסה\u2026">
 <!ENTITY  crash_close_label "סגירה">
 <!ENTITY  crash_restart_label "הפעל מחדש את &brandShortName;">
@@ -30,47 +43,78 @@
      the noun "a bookmark". -->
 <!ENTITY bookmark_removed "סימניה נמחקה">
 <!ENTITY bookmark_updated "סימניה עודכנה">
+<!ENTITY bookmark_options "אפשרויות">
 
 <!ENTITY history_today_section "היום">
 <!ENTITY history_yesterday_section "אתמול">
+<!ENTITY history_week_section2 "שבוע שעבר">
+<!ENTITY history_older_section2 "חודש שעבר">
 
+<!ENTITY go "לך">
+<!ENTITY search "חיפוש">
 <!ENTITY reload "טעינה מחדש">
 <!ENTITY forward "קדימה">
+<!ENTITY menu "תפריט">
+<!ENTITY back "חזרה">
+<!ENTITY stop "עצירה">
+<!ENTITY site_security "אבטחת האתר">
+<!ENTITY edit_mode_cancel "ביטול">
 
 <!ENTITY close_tab "סגירת לשונית">
+<!ENTITY one_tab "לשונית אחת">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs2 "&formatD; לשוניות">
 <!ENTITY new_tab_opened "לשונית חדשה נפתחה">
+<!ENTITY new_private_tab_opened "לשונית פרטית חדשה נפתחה">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "החלפה">
 
 <!ENTITY settings "הגדרות">
 <!ENTITY settings_title "הגדרות">
+<!ENTITY pref_category_input_options "אפשרויות קלט">
+<!ENTITY pref_category_advanced "מתקדם">
+<!ENTITY pref_category_customize "התאמה אישית">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
+<!ENTITY pref_category_language "שפה">
+<!ENTITY pref_category_language_summary "החלפת השפה של הדפדפן שלך">
+<!ENTITY pref_browser_locale "שפת הדפדפן">
 
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
+<!ENTITY locale_system_default "בררת מחדל של המערכת">
 
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
+<!ENTITY overlay_share_label "הוספה ל־&brandShortName;">
 
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
+<!ENTITY overlay_share_bookmark_btn_label "הוספת סימניה">
+<!ENTITY overlay_share_reading_list_btn_label "הוספה לרשימת הקריאה">
+<!ENTITY overlay_share_bookmark_btn_label_already "כבר נוצרה סימניה">
+<!ENTITY overlay_share_reading_list_btn_label_already "הפריט כבר נמצא ברשימת הקריאה">
+<!ENTITY overlay_share_send_other "שליחה להתקנים אחרים">
 
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
+<!ENTITY overlay_share_send_tab_btn_label "שליחה להתקן אחר">
+<!ENTITY overlay_share_no_url "לא נמצא קישור בשיתוף זה">
+<!ENTITY overlay_share_select_device "בחירת התקן">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
+<!ENTITY overlay_no_synced_devices "לא אותרו התקנים המחוברים ל־Firefox Account">
 <!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
      to send a tab to a synced device is pressed and there is an error
      connecting to the server so the tab could not be sent. The text should be
@@ -78,19 +122,51 @@
      them): the first notifying the user about the failure and the second
      telling the user what to do about it. -->
 
+<!ENTITY pref_category_search3 "חיפוש">
+<!ENTITY pref_category_search_summary "התאמה אישית של ספקי החיפוש שלך">
+<!ENTITY pref_category_display "תצוגה">
+<!ENTITY pref_category_privacy_short "פרטיות">
+<!ENTITY pref_category_privacy_summary2 "שליטה על כניסות, עוגיות, מעקב, נתונים">
+<!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_vendor_summary "אודות &brandShortName;, תשובות לשאלות נפוצות, בחירות נתונים">
+<!ENTITY pref_learn_more "מידע נוסף">
+<!ENTITY pref_category_installed_search_engines "מנועי חיפוש מותקנים">
+<!ENTITY pref_category_add_search_providers "הוספת מנועי חיפוש נוספים">
+<!ENTITY pref_category_search_restore_defaults "שחזור מנועי חיפוש">
+<!ENTITY pref_search_restore_defaults "שחזור בררות מחדל">
+<!ENTITY pref_search_restore_defaults_summary "שחזור בררות מחדל">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY pref_category_devtools "כלי מפתחים">
+<!ENTITY pref_category_logins "כניסות">
 
+<!ENTITY pref_category_home "בית">
+<!ENTITY pref_category_home_panels "לוחות">
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
+<!ENTITY pref_category_home_content_settings "הגדרות תוכן">
+<!ENTITY pref_home_updates "עדכונים אוטומטיים">
+<!ENTITY pref_home_updates_enabled "מופעל">
+<!ENTITY pref_home_updates_wifi "על רשתות Wi-Fi בלבד">
+<!ENTITY pref_home_suggested_sites "הצגת המלצות">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
+<!ENTITY pref_header_help "עזרה">
+<!ENTITY pref_header_language "שפה">
+<!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "כלי מפתחים">
 
+<!ENTITY pref_cookies_menu "עוגיות">
+<!ENTITY pref_cookies_accept_all "מופעל">
+<!ENTITY pref_cookies_not_accept_foreign "מופעל, למעט צד שלישי">
+<!ENTITY pref_cookies_disabled "מנוטרל">
 
+<!ENTITY pref_tracking_protection_title "הגנת מעקב">
+<!ENTITY pref_tracking_protection_summary "&brandShortName; ימנע מאתרים ממעקב אחריך">
 
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
