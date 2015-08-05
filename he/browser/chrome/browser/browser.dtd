@@ -304,6 +304,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "ח">
 <!ENTITY newPrivateWindow.label     "חלון פרטי חדש">
 <!ENTITY newPrivateWindow.accesskey "פ">
+<!ENTITY newNonRemoteWindow.label   "חלון חדש נטול ריבוי תהליכים">
 
 <!ENTITY editMenu.label         "עריכה"> 
 <!ENTITY editMenu.accesskey       "ע"> 
@@ -430,6 +431,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      intentionally left empty for en-US and can be used by other localizations to
      display a string after the search engine name.  This string will be displayed
      as:  "Search <selected engine name><searchAfter.label text>" -->
+<!ENTITY search.label                 "חיפוש">
 
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
@@ -669,7 +671,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label                   "ביטול">
 <!ENTITY editBookmark.removeBookmark.accessKey       "ה">
 
+<!ENTITY identity.connectionSecure "חיבור מאובטח">
+<!ENTITY identity.connectionNotSecure "חיבור זה אינו מאובטח">
+<!ENTITY identity.connectionVerified "&brandShortName; אימת שהחיבור שלך לאתר זה מאובטח, ומופעל על־ידי:">
+<!ENTITY identity.connectionInternal "דף זה הנו דף מאובטח של &brandShortName;.">
 
+<!ENTITY identity.moreInfoLinkText2 "מידע נוסף">
 
 <!ENTITY identity.permissions "הרשאות">
 
@@ -844,3 +851,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY readingList.sidebar.add.tooltip          "הוספת דף זה לרשימת הקריאה">
 
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
+<!ENTITY saveToPocketCmd.label     "שמירת דף אל Pocket">
+<!ENTITY saveToPocketCmd.accesskey "ד">
+<!ENTITY saveLinkToPocketCmd.label     "שמירת קישור אל Pocket">
+<!ENTITY saveLinkToPocketCmd.accesskey "ק">
+<!ENTITY pocketMenuitem.label      "צפייה ברשימה של Pocket">

@@ -25,6 +25,7 @@
 
 <!ENTITY helpSafeMode.label       "הפעלה מחדש עם תוספות מנוטרלות…">
 <!ENTITY helpSafeMode.accesskey   "מ">
+<!ENTITY helpSafeMode.stop.label       "הפעלה מחדש עם תוספות פעילות">
 
 <!ENTITY healthReport2.label      "דיווח בריאות עבור &brandShorterName;">
 <!ENTITY healthReport2.accesskey  "e">
