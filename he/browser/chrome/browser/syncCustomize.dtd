@@ -15,6 +15,7 @@
 -->
 <!ENTITY engine.bookmarks.label           "סימניות">
 <!ENTITY engine.bookmarks.accesskey       "מ">
+<!ENTITY engine.readinglist.label         "רשימת קריאה">
 <!ENTITY engine.history.label             "היסטוריה">
 <!ENTITY engine.history.accesskey         "ה">
 <!ENTITY engine.tabs.label                "לשוניות">
