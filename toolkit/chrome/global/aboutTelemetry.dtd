@@ -5,14 +5,13 @@
 <!ENTITY aboutTelemetry.pageTitle "ਟੈਲੀਮੈਂਟਰੀ ਡਾਟਾ">
 
 
-<!ENTITY aboutTelemetry.telemetryEnabled "
-  ਟੈਲੀਮੈਂਟਰੀ <span>ਚਾਲੂ</span> ਹੈ।
+<!ENTITY aboutTelemetry.uploadEnabled "
+  FHR data upload is <span>enabled</span>.
 ">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "
-  ਟੈਲੀਮੈਂਟਰੀ <span>ਬੰਦ</span> ਹੈ।
+<!ENTITY aboutTelemetry.uploadDisabled "
+  FHR data upload is <span>disabled</span>.
 ">
-
 
 <!ENTITY aboutTelemetry.generalDataSection "
   ਆਮ ਡਾਟਾ
