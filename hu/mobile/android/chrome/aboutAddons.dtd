@@ -11,4 +11,5 @@
 <!ENTITY addonAction.uninstall                  "Eltávolítás">
 <!ENTITY addonAction.undo                       "Visszavonás">
 
-
+<!ENTITY addonUnsigned.message                  "A kiegészítőt nem tudta a &brandShortName; ellenőrizni.">
+<!ENTITY addonUnsigned.learnMore                "További tudnivalók">
