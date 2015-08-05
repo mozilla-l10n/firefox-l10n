@@ -23,6 +23,8 @@
 <!ENTITY cmd.back.tooltip                     "חזור דף אחד אחורה">
 <!ENTITY cmd.forward.tooltip                  "התקדם דף אחד קדימה">
 
+<!ENTITY showUnsignedExtensions.button.label  "אין אפשרות לאמת חלק מההרחבות">
+<!ENTITY showAllExtensions.button.label       "הצגת כל ההרחבות">
 
 <!-- global warnings -->
 <!ENTITY warning.safemode.label                    "כל התוספות נוטרלו במצב בטוח.">
@@ -230,9 +232,17 @@
 
 <!ENTITY setting.learnmore "מידע נוסף…">
 
+<!ENTITY disabledUnsigned.heading "חלק מהתוספות נוטרלו">
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+<!ENTITY disabledUnsigned.description.start "התוספות הבאות לא אומתו לשימוש ב־&brandShortName;. באפשרותך ">
+<!ENTITY disabledUnsigned.description.findAddonsLink "לחפש חלופות">
+<!ENTITY disabledUnsigned.description.end " או לפנות למפתחים בדרישה לאמת אותן.">
+<!ENTITY disabledUnsigned.learnMore "מידע נוסף על המאמצים שלנו לשמור על המשתמשים שלנו בטוחים ברשת.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
+<!ENTITY disabledUnsigned.devInfo.start "מפתחים המעוניינים לאמת את התוספות שלהם מתבקשים לעיין ">
+<!ENTITY disabledUnsigned.devInfo.linkToManual "במדריך">
+<!ENTITY disabledUnsigned.devInfo.end " שלנו.">
