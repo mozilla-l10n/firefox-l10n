@@ -8,9 +8,12 @@
   - documentation on web development on the web. -->
 
 
+<!ENTITY window.title "پیشانهٔ وب">
+
+
 <!ENTITY networkPanel.requestURLColon             "درخواست نشانی اینترنتی:">
 <!ENTITY networkPanel.requestMethodColon          "روش درخواست:">
-
+<!ENTITY networkPanel.statusCodeColon             "کد وضعیت:">
 
 <!ENTITY networkPanel.requestHeaders              "سرآیندهای درخواست">
 <!ENTITY networkPanel.requestCookie               "کوکی‌های ارسال شده">
