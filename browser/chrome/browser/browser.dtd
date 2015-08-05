@@ -305,7 +305,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "п">
 <!ENTITY newPrivateWindow.label     "Нов прозорец за поверително сърфиране">
 <!ENTITY newPrivateWindow.accesskey "с">
-
+<!ENTITY newNonRemoteWindow.label   "&amp;Нов еднопроцесен прозорец">
 
 <!ENTITY editMenu.label         "Редактиране"> 
 <!ENTITY editMenu.accesskey       "Р"> 
@@ -676,8 +676,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connectionSecure "Защитена връзка">
 <!ENTITY identity.connectionNotSecure "Връзката е незащитена">
-
-
+<!ENTITY identity.connectionVerified "&brandShortName; потвърждава защитата на връзката към тази страница, управлявана от:">
+<!ENTITY identity.connectionInternal "Това е защитена страница на &brandShortName;.">
 
 <!ENTITY identity.moreInfoLinkText2 "Повече информация">
 
@@ -854,6 +854,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY readingList.sidebar.add.tooltip          "Добавяне на страницата към Списък за четене">
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 
-
-
-
+<!ENTITY saveToPocketCmd.label     "Запазване на страницата в Pocket">
+<!ENTITY saveToPocketCmd.accesskey "с">
+<!ENTITY saveLinkToPocketCmd.label     "Запазване на връзката в Pocket">
+<!ENTITY saveLinkToPocketCmd.accesskey "в">
+<!ENTITY pocketMenuitem.label      "Преглед списъка на Pocket">
