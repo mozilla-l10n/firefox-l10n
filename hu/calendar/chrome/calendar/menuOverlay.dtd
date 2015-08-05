@@ -35,6 +35,7 @@
 
 <!ENTITY showUnifinderCmd.label                 "Események keresése">
 <!ENTITY showUnifinderCmd.accesskey             "E">
+<!ENTITY showUnifinderCmd.tooltip               "Az események keresése ablaktábla be/ki">
 
 <!ENTITY calendar.displaytodos.checkbox.label       "Feladatok megjelenítése a naptárban">
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "t">
