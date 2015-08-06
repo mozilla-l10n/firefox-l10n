@@ -4,6 +4,7 @@
 
 <!ENTITY aboutTelemetry.pageTitle "ទិន្នន័យ Telemetry">
 
+<!ENTITY aboutTelemetry.changeDataChoices "ប្ដូរ​">
 
 
 
@@ -16,6 +17,7 @@
 
 
 
+<!ENTITY aboutTelemetry.archiveWeekHeader "សប្ដាហ៍">
 
 
 <!ENTITY aboutTelemetry.generalDataSection "  ទិន្នន័យ​ទូទៅ">
