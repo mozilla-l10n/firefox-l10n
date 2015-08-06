@@ -289,6 +289,8 @@
 <!ENTITY pref_titlebar_mode "Barra del titolo">
 <!ENTITY pref_titlebar_mode_title "Visualizza titolo pagina">
 <!ENTITY pref_titlebar_mode_url "Visualizza indirizzo pagina">
+<!ENTITY pref_prevent_magnifying_glass "Disattiva lente di ingrandimento">
+<!ENTITY pref_prevent_magnifying_glass_summary "Impedisci l’utilizzo della lente di ingrandimento per risolvere tocchi dello schermo potenzialmente ambigui.">
 <!ENTITY pref_scroll_title_bar2 "Navigazione a schermo intero">
 <!ENTITY pref_scroll_title_bar_summary "Nascondi la barra del titolo di &brandShortName; quando si scorre una pagina verso il basso">
 <!ENTITY pref_tab_queue_title2 "Apertura di più link">
