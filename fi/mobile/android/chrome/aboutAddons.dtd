@@ -10,3 +10,6 @@
 <!ENTITY addonAction.disable                    "Poista käytöstä">
 <!ENTITY addonAction.uninstall                  "Poista">
 <!ENTITY addonAction.undo                       "Kumoa">
+
+<!ENTITY addonUnsigned.message                  "&brandShortName; ei voinut varmentaa tätä lisäosaa.">
+<!ENTITY addonUnsigned.learnMore                "Lue lisää">

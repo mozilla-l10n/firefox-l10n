@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label 'Mitä synkronoidaan'>
 <!ENTITY sync.configure.engines.sync.my.title.label 'Synkronoi…'>
 <!ENTITY sync.configure.engines.title.bookmarks 'Kirjanmerkit'>
-<!ENTITY sync.configure.engines.title.passwords 'Salasanat'>
+<!ENTITY sync.configure.engines.title.passwords2 'Kirjautumiset'>
 <!ENTITY sync.configure.engines.title.history 'Sivuhistoria'>
 <!ENTITY sync.configure.engines.title.tabs 'Välilehdet'>
 
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy 'tietosuojakäytännön'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'Tervetuloa &syncBrand.shortName.label;-palveluun'>
-<!ENTITY fxaccount_getting_started_description 'Kirjaudu sisään synkronoidaksesi välilehdet, kirjanmerkit, salasanat ja muut tiedot.'>
+<!ENTITY fxaccount_getting_started_description2 'Kirjaudu sisään synkronoidaksesi välilehdet, kirjanmerkit, kirjautumiset ja muut tiedot.'>
 <!ENTITY fxaccount_getting_started_get_started 'Aloitetaan'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Käytätkö vanhempaa versiota &syncBrand.shortName.label;-palvelusta?'>
 
@@ -212,7 +212,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating 'Kosketa kirjautuaksesi uudelle Firefox-tilillesi.'>
 <!ENTITY fxaccount_status_bookmarks 'Kirjanmerkit'>
 <!ENTITY fxaccount_status_history 'Sivuhistoria'>
-<!ENTITY fxaccount_status_passwords 'Salasanat'>
+<!ENTITY fxaccount_status_passwords2 'Kirjautumiset'>
 <!ENTITY fxaccount_status_tabs 'Avoimet välilehdet'>
 <!ENTITY fxaccount_status_legal 'Lakiteksti' >
 <!-- Localization note: when tapped, the following two strings link to
