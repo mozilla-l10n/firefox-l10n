@@ -17,7 +17,7 @@
 <!ENTITY device.startAppTooltip "Qala le app kwisixhobo">
 <!ENTITY device.stopApp "Nqumama">
 <!ENTITY device.stopAppTooltip "Nqumamisa le app kwisixhobo">
-
+<!ENTITY device.debugApp "Khupha ibhagi">
 <!ENTITY device.debugAppTooltip "Vula izixhobo zomvelisi onxibelelene kule app kwisixhobo">
 <!ENTITY device.name "Igama">
 <!ENTITY device.plain "Ayinanto (okwendalo)">
@@ -29,14 +29,14 @@
 <!ENTITY device.promptTooltip "Le mvume ifuna ukuqhutywa ngumsebenzisi ngee-app zolu hlobo">
 <!ENTITY device.deny "Khanyela">
 <!ENTITY device.denyTooltip "Le mvume yaliwe ngee-apps zolu hlobo">
-
+<!ENTITY device.installedApps "Fakela i-Apps">
 <!ENTITY device.installedAppsTooltip "Bona uluhlu lwee-apps ezifakelwe kwisixhobo. Ezinye ii-apps, ezifana nee-apps eziqinisekisiweyo, zingathintelwe kulo mbono.">
 <!ENTITY device.permissions "Iimvume">
 <!ENTITY device.permissionsTooltip "Bona itheyibhuli yeemvume ezinokufikelelwa kwiintlobo  zee-apps ezahlekeneyo">
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
-
+<!ENTITY device.browserTabs "Iithebhu zokubhrawuza">
 <!ENTITY device.browserTabsTooltip "Bona uluhlu lwethubhu kwibhrawza yesixhobo esinxibeleleneyo">
-
+<!ENTITY device.debugBrowserTab "Khupha ibhagi">
 <!ENTITY device.debugBrowserTabTooltip "Vula iziXhobo zoMvelisi onxibelelene kule thebhu yebhrawza kwisixhobo">
 <!ENTITY device.help "Uncedo">
 
@@ -50,10 +50,10 @@
 <!ENTITY connection.changeHostAndPortTooltip "Tshintsha ihost neport ezisetyenziselwe ukudibanisa isixhobo (defaults to localhost:6000)">
 <!ENTITY connection.startSimulator "Qalisa isixhobo esifakelwe ukulinganisa ">
 <!ENTITY connection.startSimulatorTooltip "Qalisa umzekelo wesixhobo esifakelwe ukulinganisa nokunxibelelana kuso">
-
+<!ENTITY connection.saveConnectionInfo "Gcina">
 <!ENTITY connection.saveConnectionInfoTooltip "Gcina ihost neport">
 <!ENTITY connection.connecting "Iyanxibelelana...">
-
+<!ENTITY connection.disconnecting "Khupha kuqhagamshelo…">
 <!ENTITY connection.cancel "Rhoxisa">
 <!ENTITY connection.cancelConnectTooltip "Rhoxisa unqibelelwano oluqhubekayo">
 <!ENTITY connection.cancelShowSimulatorTooltip "Phuma kwimo yokusebenza yonxibelelwano lwesixhobo esakhelwe ukulinganisa ze ubuyele kuqhutyo lokuqala">
@@ -76,9 +76,9 @@
 <!ENTITY projects.removeAppFromList "Susa le app kuluhlu lwee-apps osebenza kuzo. Oku akuzuyisusa kwisixhobo okanye kwisixhobo esakhelwe ukulinganisa.">
 <!ENTITY projects.updateApp "Hlaziya">
 <!ENTITY projects.updateAppTooltip "Yenza uqinisekiso lokujongisisa nokuhlaziya i-app kwisixhobo esinxibelelanisiweyo">
-
+<!ENTITY projects.debugApp "Khupha ibhagi">
 <!ENTITY projects.debugAppTooltip "Vula iziXhobo zoMvelisi onxibelele kule app">
-
+<!ENTITY projects.saveManifest "Gcina">
 <!ENTITY projects.saveManifestTooltip "Gcina iziqulatho eziCacileyo zoMhleli apha ngezantsi">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "Akukho ziprojekthi. Dibanisa i-app entsha epakishiweyo ngezantsi (uluhlu lwale ndawo) okanye i-app ehlinzekiweyo (qhagamshela kwifayile ecacileyo).">
@@ -88,7 +88,7 @@
 <!ENTITY projects.manifestViewerTooltip "Phonononga ukucaca kwe-app yakho kwiphaneli engezantsi">
 <!ENTITY projects.valid "Iyasebenza">
 <!ENTITY projects.error "Imposiso">
-
+<!ENTITY projects.warning "Isilumkiso">
 <!ENTITY projects.hosted "Ihlinzekiwe">
 <!ENTITY projects.packaged "Ipakishiwe">
 

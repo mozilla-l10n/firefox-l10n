@@ -6,17 +6,20 @@
   - in the Web Developer menu.
   - -->
 
+
+<!ENTITY title      "Nxibelela">
+<!ENTITY header     "Nxibelelana kwisixhobo esikude">
 <!ENTITY host       "Umamkeli:">
 <!ENTITY port       "Isiqhagamshelisi:">
-
+<!ENTITY connect    "Nxibelela">
 <!ENTITY connecting "Umdibaniso…">
 <!ENTITY availableAddons "Zikhona izongezelelo ezikude:">
 <!ENTITY availableTabs "Zikhona i-tabs ezikude:">
-
+<!ENTITY availableProcesses "Iinkqubo ezikude ezikhoyo: ">
 <!ENTITY connectionError "Imposiso:">
 <!ENTITY errorTimeout "Impazamo: uqhagamshelo luphelelwe lixesha.">
 <!ENTITY errorRefused "Impazamo: uqhagamshelwano aluvunywanga.">
-
+<!ENTITY errorUnexpected "Imposiso engalindelekanga.">
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
