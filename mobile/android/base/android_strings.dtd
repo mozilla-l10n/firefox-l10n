@@ -251,14 +251,14 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled_summary "A webhelyek automatikusan lejátszhatnak-e videókat és más médiatartalmakat">
 <!ENTITY pref_zoom_force_enabled "Nagyítás engedélyezése mindig">
 <!ENTITY pref_zoom_force_enabled_summary "Felülbírálás kényszerítése, hogy bármely oldalt nagyíthasson">
-
-
-
-
+<!ENTITY pref_voice_input "Hangalapú bevitel">
+<!ENTITY pref_voice_input_summary "Hangos diktálás bekapcsolása a címsorban">
+<!ENTITY pref_qrcode_enabled "QR kód olvasó">
+<!ENTITY pref_qrcode_enabled_summary "QR olvasó bekapcsolása a címsorban">
 
 <!ENTITY pref_use_master_password "Mesterjelszó használata">
 <!ENTITY pref_sync "Sync">
-
+<!ENTITY pref_sync_summary2 "Lapok, könyvjelzők, bejelentkezések, előzmények szinkronizálása">
 <!ENTITY pref_search_suggestions "Keresési javaslatok">
 <!ENTITY pref_import_android "Importálás Androidról">
 <!ENTITY pref_import_android_summary "Könyvjelzők és előzmények importálása a natív böngészőből">
@@ -266,12 +266,12 @@ size. -->
 <!ENTITY pref_private_data_searchHistory "Keresés előzményei">
 <!ENTITY pref_private_data_formdata2 "Űrlapok előzményei">
 <!ENTITY pref_private_data_cookies2 "Sütik és aktív bejelentkezések">
-
+<!ENTITY pref_private_data_passwords2 "Mentett bejelentkezések">
 <!ENTITY pref_private_data_cache "Gyorsítótár">
 <!ENTITY pref_private_data_offlineApps "Kapcsolat nélküli webhelyadatok">
 <!ENTITY pref_private_data_siteSettings2 "Oldalbeállítások">
 <!ENTITY pref_private_data_downloadFiles2 "Letöltések">
-
+<!ENTITY pref_private_data_syncedTabs "Szinkronizált lapok">
 
 
 <!ENTITY pref_about_firefox "A &brandShortName; névjegye">
@@ -391,11 +391,11 @@ size. -->
 <!ENTITY doorhanger_login_edit_password_hint "Jelszó">
 <!ENTITY doorhanger_login_edit_toggle "Jelszó megjelenítése">
 <!ENTITY doorhanger_login_edit_toast_error "A bejelentkezés mentése sikertelen">
-
-
-
-
-
+<!ENTITY doorhanger_login_select_message "Átmásolja a jelszót innen: &formatS;?">
+<!ENTITY doorhanger_login_select_toast_copy "A jelszó vágólapra másolva">
+<!ENTITY doorhanger_login_select_toast_copy_error "A jelszó nem másolható">
+<!ENTITY doorhanger_login_select_action_text "Válasszon másik bejelentkezést">
+<!ENTITY doorhanger_login_select_title "Jelszó másolása innen:">
 
 <!ENTITY pref_titlebar_mode "Címsor">
 <!ENTITY pref_titlebar_mode_title "Oldalcím megjelenítése">
@@ -407,7 +407,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "A &brandShortName; címsorának elrejtése oldal legörgetésekor">
 
 <!ENTITY pref_tab_queue_title2 "Több hivatkozás megnyitása">
-
+<!ENTITY pref_tab_queue_summary3 "Mentés a &brandShortName; következő megnyitásáig">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -427,6 +427,8 @@ size. -->
 <!ENTITY site_settings_no_settings  "Nincsenek törölhető beállítások.">
 <!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
      as possible. -->
+
+<!ENTITY reading_list_added2 "Listához adva">
 <!ENTITY reading_list_removed "Az oldal eltávolítva az olvasási listából">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -613,7 +615,7 @@ Androidról">
 <!ENTITY guest_session_dialog_continue "Folytatás">
 <!ENTITY guest_session_dialog_cancel "Mégse">
 <!ENTITY new_guest_session_title "A &brandShortName; most újraindul">
-
+<!ENTITY new_guest_session_text2 "Az ezt használók nem fogják látni az Ön személyes böngészési adatait (mentett bejelentkezéseket, előzményeket vagy könyvjelzőket).\n\nAmikor a vendég végzett, a böngészési adatai törlésre kerülnek, és az Ön munkamenete visszaállításra kerül.">
 <!ENTITY guest_browsing_notification_title "A vendég böngészés bekapcsolva">
 <!ENTITY guest_browsing_notification_text "Koppintson a kilépéshez">
 
@@ -663,3 +665,4 @@ Androidról">
 
 <!ENTITY find_matchcase "Aa">
 
+<!ENTITY intent_uri_cannot_open "Nem nyitható meg a hivatkozás">
