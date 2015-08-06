@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY syncCustomize.dialog.title       "Tlhopho Thulaganyo ka tsamaiso">
-
+<!ENTITY syncCustomize.acceptButton.label "Simolola">
 
 <!ENTITY syncCustomize.title              "O ka rata go rulaganya ka tsamaiso eng?">
 
