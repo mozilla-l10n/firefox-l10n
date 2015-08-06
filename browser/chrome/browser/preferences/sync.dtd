@@ -73,3 +73,17 @@
 <!ENTITY welcome.signIn.label "Se connecter">
 <!ENTITY welcome.createAccount.label "Créer un compte">
 <!ENTITY welcome.useOldSync.label "Vous utilisez une ancienne version de Sync ?">
+
+<!ENTITY signedOut.caption            "Emportez votre Web partout avec vous">
+<!ENTITY signedOut.description        "Synchronisez marque-pages, historique, onglets, mots de passe, modules complémentaires et préférences entre tous vos appareils.">
+<!ENTITY signedOut.accountBox.title   "Se connecter avec un &syncBrand.fxAccount.label;">
+<!ENTITY signedOut.accountBox.create  "Créer un compte">
+<!ENTITY signedOut.accountBox.signin  "Se connecter">
+
+<!ENTITY signedIn.engines.label       "Données à synchroniser entre tous vos appareils">
+
+<!ENTITY mobilePromo.start            "Téléchargez Firefox pour ">
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+<!ENTITY mobilePromo.androidLink      "Android™">
+<!ENTITY mobilePromo.end              " afin de synchroniser vos données avec votre appareil mobile.">
+<!ENTITY androidAttribution           "Android est une marque déposée de Google Inc.">
