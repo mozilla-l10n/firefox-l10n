@@ -16,6 +16,7 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "إدخال أي معلومات شخصية في هذه الصفحة قد يؤدي إلى سرقة هويتك أو إلى أنواع خداع أخرى.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>هذا النوع من الصفحات المزوّرة يُستخدم في عمليات احتيال تُدعى هجمات التصيّد. في هذه الهجمات، تحاول صفحات الوب المزيفة أو عناوين البريد الإلكتروني تقليد المصادر التي تثق بها.</p>">
 
+<!ENTITY safeb.blocked.unwantedPage.title "موقع غير مرغوب فيه مبلّغ عنه!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "أُبلِغ عن أن الموقع <span id='unwanted_sitename'/> يحتوي برمجيات غير مرغوب فيها و مُنع بناء على تفضيلات الأمن.">
-
+<!ENTITY safeb.blocked.unwantedPage.longDesc "صفحات البرمجيات غير المرغوب فيها تحاول تثبيت برمجيات خدّاعة قد تؤثر على نظامك بصور غير متوقعة.">
