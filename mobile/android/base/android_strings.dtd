@@ -175,7 +175,7 @@
 <!ENTITY pref_home_updates_enabled "مفعّلة">
 <!ENTITY pref_home_updates_wifi "عبر واي فاي فقط">
 <!ENTITY pref_home_suggested_sites "اعرض اقتراحات الموقع">
-<!ENTITY pref_home_suggested_sites_summary "اعرض اختصارات للمواقع التي نعتقد أنها تثير اهتمامك في صفحة البداية ">
+<!ENTITY pref_home_suggested_sites_summary "اعرض اختصارات للمواقع التي نعتقد أنها تثير اهتمامك في صفحة البداية">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "خصّص">
