@@ -25,10 +25,14 @@
      in the inspector contextual-menu for the item that lets users paste outer
      HTML in the current node -->
 
+<!ENTITY inspectorHTMLPasteOuter.label      "Ncamathelisa i-HTML yangaphandle">
+<!ENTITY inspectorHTMLPasteOuter.accesskey  "N">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteInner.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste inner
      HTML in the current node -->
 
+<!ENTITY inspectorHTMLPasteInner.label      "Ncamathelisa i-HTML yangaphakathi">
+<!ENTITY inspectorHTMLPasteInner.accesskey  "H">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteExtraSubmenu.label): This is the label
      shown in the inspector contextual-menu for the sub-menu of the other Paste
      items, which allow to paste HTML:
@@ -37,31 +41,46 @@
      - as the first child of the current node
      - as the last child of the current node -->
 
+<!ENTITY inspectorHTMLPasteExtraSubmenu.label      "Ncamathelisa...">
+<!ENTITY inspectorHTMLPasteExtraSubmenu.accesskey  "t">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteBefore.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste
      the HTML before the current node -->
 
+<!ENTITY inspectorHTMLPasteBefore.label      "Ngaphambi">
+<!ENTITY inspectorHTMLPasteBefore.accesskey  "N">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteAfter.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste
      the HTML after the current node -->
 
+<!ENTITY inspectorHTMLPasteAfter.label       "Ngasemva">
+<!ENTITY inspectorHTMLPasteAfter.accesskey   "N">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteFirstChild.label): This is the label
      shown in the inspector contextual-menu for the item that lets users paste
      the HTML as the first child the current node -->
 
+<!ENTITY inspectorHTMLPasteFirstChild.label      "Njengomntwana wokuqala">
+<!ENTITY inspectorHTMLPasteFirstChild.accesskey  "m">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteLastChild.label): This is the label
      shown in the inspector contextual-menu for the item that lets users paste
      the HTML as the last child the current node -->
 
+<!ENTITY inspectorHTMLPasteLastChild.label       "Njengomntwana wokugqibela">
+<!ENTITY inspectorHTMLPasteLastChild.accesskey   "m">
 <!-- LOCALIZATION NOTE (inspectorScrollNodeIntoView.label): This is the label
      shown in the inspector contextual-menu for the item that lets users scroll
      the current node into view -->
 
+<!ENTITY inspectorScrollNodeIntoView.label       "Skrola kumboniso">
+<!ENTITY inspectorScrollNodeIntoView.accesskey   "S">
 <!-- LOCALIZATION NOTE (inspectorHTMLDelete.label): This is the label shown in
      the inspector contextual-menu for the item that lets users delete the
      current node -->
 
+<!ENTITY inspectorHTMLDelete.label          "Cima i-node">
+<!ENTITY inspectorHTMLDelete.accesskey      "C">
 
+<!ENTITY inspector.selectButton.tooltip     "Khetha into nge-mouse">
 <!-- LOCALIZATION NOTE (inspectorSearchHTML.label2): This is the label shown as
      the placeholder in inspector search box -->
 
@@ -88,6 +107,8 @@
 <!-- LOCALIZATION NOTE (inspectorExpandNode.label): This is the label
      shown in the inspector contextual-menu for recursively expanding
      mark-up elements -->
+
+<!ENTITY inspectorExpandNode.label       "Yandisa konke">
 <!-- LOCALIZATION NOTE (inspectorCollapseNode.label): This is the label
      shown in the inspector contextual-menu for recursively collapsing
      mark-up elements -->
@@ -96,3 +117,5 @@
 <!-- LOCALIZATION NOTE (inspectorScreenshotNode.label): This is the label
      shown in the inspector contextual-menu for the item that lets users take
      a screenshot of the currently selected node. -->
+
+<!ENTITY inspectorScreenshotNode.label       "Ukufotwa kwe-node">
