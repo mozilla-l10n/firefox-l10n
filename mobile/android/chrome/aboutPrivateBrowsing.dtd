@@ -2,12 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                  "Priveenavigaasje">
+<!ENTITY privatebrowsingpage.title "Priveenavigaasje">
+<!ENTITY privatebrowsingpage.title.normal "Jo brûke gjin priveenavigaasje">
 
-<!ENTITY privatebrowsingpage.issueDesc.private      "Jo hawwe in nij priveeljepblêd iepene.">
-<!ENTITY privatebrowsingpage.issueDesc.normal       "Jo binne net yn in priveeljepblêd.">
+<!ENTITY privatebrowsingpage.issueDesc.normal2 "Yn priveenavigaasje wurde gjin navigaasjeskiednis of cookies fan jo bewarre.">
+<!ENTITY privatebrowsingpage.issueDesc.private2 "Der wurde gjin navigaasjeskiednis of cookies fan jo bewarre.">
 
-<!ENTITY privatebrowsingpage.description            "Yn priveeljepblêden sil &brandShortName; gjin navigaasjeskiednis, sykskiednis, downloadskiednis, webformulierskiednis, cookies of tydlike ynternetbestannen bewarje. Bestannen dy't jo downloade of blêdwizers dy't jo oanmeitsje bliuwe lykwols wol bewarre.">
-<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+<!ENTITY privatebrowsingpage.description2 "Blêdwizers dy't jo tafoegje en bestannen dy't jo downloade wurde wol op jo apparaat bewarre.">
+<!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
+<!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
 
-<!ENTITY privatebrowsingpage.moreInfo               "Hoewol't dit apparaat gjin navigaasjeskiednis fan jo bewarje sil, kin jo ynternetserviceprovider dochs folgje hokker siden jo besykje.">
+<!ENTITY privatebrowsingpage.link.private "Wolle jo mear witte?">
+<!ENTITY privatebrowsingpage.link.normal "In nij priveeljepblêd iepenje">
