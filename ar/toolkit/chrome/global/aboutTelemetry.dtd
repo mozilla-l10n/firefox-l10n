@@ -19,7 +19,7 @@
 
 
 
-<!ENTITY aboutTelemetry.generalDataSection "  بيانات عامة">
+<!ENTITY aboutTelemetry.generalDataSection "  بيانات عامة">
 
 
 <!ENTITY aboutTelemetry.telemetryLogSection "  سجل تليمتري">
@@ -28,11 +28,11 @@
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  تعليقات المتصفح">
 
-<!ENTITY aboutTelemetry.threadHangStatsSection "  تعليقات الخيوط">
+<!ENTITY aboutTelemetry.threadHangStatsSection "  تعليقات الخيوط">
 
 <!ENTITY aboutTelemetry.histogramsSection "  رسوم بيانية">
 
-<!ENTITY aboutTelemetry.keyedHistogramsSection "  رسوم بيانية مفتاحية">
+<!ENTITY aboutTelemetry.keyedHistogramsSection "  رسوم بيانية مفتاحية">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  قياسات بسيطة">
 
@@ -54,4 +54,4 @@
 
 <!ENTITY aboutTelemetry.hideSymbols "  أظهر البيانات الخام من التعليق">
 
-<!ENTITY aboutTelemetry.filterText "  مرشح (نصوص أو /regexp/)">
+<!ENTITY aboutTelemetry.filterText "  مرشح (نصوص أو /regexp/)">

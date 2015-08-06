@@ -56,3 +56,5 @@
 <!ENTITY noStyleSheet-tip-end.label    "بها؟">
 <!-- LOCALIZATION NOTE (openLinkNewTab.label): This is the text for the
      context menu item that opens a stylesheet in a new tab -->
+
+<!ENTITY openLinkNewTab.label     "افتح الرابط في لسان جديد">
