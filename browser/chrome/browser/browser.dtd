@@ -672,9 +672,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label                   "Kanselleer">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
-
-
-
+<!ENTITY identity.connectionSecure "Beveiligde verbinding">
+<!ENTITY identity.connectionNotSecure "Verbinding is nié beveilig nie">
+<!ENTITY identity.connectionVerified "&brandShortName; het geverifieer dat u veilig verbind is met dié werf, aangebied deur:">
+<!ENTITY identity.connectionInternal "Hierdie is 'n beveiligde &brandShortName;-bladsy.">
 
 <!ENTITY identity.moreInfoLinkText2 "Meer inligting">
 
