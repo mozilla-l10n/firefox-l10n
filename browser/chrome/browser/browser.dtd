@@ -676,6 +676,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+<!ENTITY identity.moreInfoLinkText2 "Meer inligting">
 
 <!ENTITY identity.permissions "Toestemming">
 <!-- Name for the tabs toolbar as spoken by screen readers.
