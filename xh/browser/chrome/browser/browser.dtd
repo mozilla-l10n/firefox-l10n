@@ -679,6 +679,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionVerified "I-&brandShortName; iqinisekise ukuba unxibelelene ngokukhuselekileyo kule sayithi, esetyeniswa yi:">
 <!ENTITY identity.connectionInternal "Le yi-&amp;brandShortName ekhuselekileyo; indawo yolawulo.">
 
+<!ENTITY identity.moreInfoLinkText2 "Inkcazelo engaphezulu">
 
 <!ENTITY identity.permissions "Iimvume">
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -853,6 +854,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY readingList.sidebar.add.tooltip          "Yongeza eli phepha kuluhlu lwakho lokufunda">
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 
-
-
-
+<!ENTITY saveToPocketCmd.label     "Gcina Iphepha kwiPokotho">
+<!ENTITY saveToPocketCmd.accesskey "k">
+<!ENTITY saveLinkToPocketCmd.label     "Gcina ikhonkco kwiPokotho">
+<!ENTITY saveLinkToPocketCmd.accesskey "P">
+<!ENTITY pocketMenuitem.label      "Bona uluhlu lwepokotho">

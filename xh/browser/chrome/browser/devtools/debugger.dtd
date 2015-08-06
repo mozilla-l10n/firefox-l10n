@@ -70,7 +70,7 @@
   -  checkbox that toggles ignoring caught exceptions. -->
 
 <!ENTITY debuggerUI.ignoreCaughtExceptions           "Musa ukuhoya Izinkxaxhi Ezibanjiweyo">
-
+<!ENTITY debuggerUI.ignoreCaughtExceptions.accesskey "C">
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
   -  checkbox that toggles visibility of panes when opening the debugger. -->
 
@@ -119,6 +119,8 @@
 <!ENTITY debuggerUI.searchGlobal.accesskey "F">
 <!-- LOCALIZATION NOTE (debuggerUI.searchFunction): This is the text that appears
   -  in the source editor's context menu for the function search operation. -->
+
+<!ENTITY debuggerUI.searchFunction           "Khangela inkcazelo yomsebenzi">
 <!ENTITY debuggerUI.searchFunction.key       "D">
 <!ENTITY debuggerUI.searchFunction.accesskey "D">
 <!-- LOCALIZATION NOTE (debuggerUI.searchToken): This is the text that appears
@@ -162,6 +164,8 @@
 <!ENTITY debuggerUI.seMenuCondBreak.key "B">
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
+
+<!ENTITY debuggerUI.tabs.workers        "Abasebenzi">
 <!ENTITY debuggerUI.tabs.sources        "Imithombo">
 <!ENTITY debuggerUI.tabs.traces         "Imikhondo">
 <!ENTITY debuggerUI.tabs.callstack      "Ukubizwa Kobekelelo Lwamaxabiso">
@@ -186,6 +190,8 @@
 <!-- LOCALIZATION NOTE (debuggerUI.stepping): These are the keycodes that
   -  control the stepping commands in the debugger (continue, step over,
   -  step in and step out). -->
+
+<!ENTITY debuggerUI.stepping.resume1    "VK_F8">
 <!ENTITY debuggerUI.stepping.resume2    "VK_SLASH">
 <!ENTITY debuggerUI.stepping.stepOver1  "VK_F10">
 <!ENTITY debuggerUI.stepping.stepOver2  "VK_QUOTE">
@@ -199,7 +205,7 @@
   -  netmonitorUI.context.newTab  -->
 
 <!ENTITY debuggerUI.context.newTab           "Vula kwiThebhu eNtsha">
-
+<!ENTITY debuggerUI.context.newTab.accesskey "O">
 <!-- LOCALIZATION NOTE (debuggerUI.context.copyUrl): This is the label displayed
   -  on the context menu that copies the selected request's url. This should be
   -  the same as netmonitorUI.context.copyUrl -->
