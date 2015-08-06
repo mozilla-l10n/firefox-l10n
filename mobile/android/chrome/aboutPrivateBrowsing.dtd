@@ -2,12 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                  "Yksityinen selaus">
+<!ENTITY privatebrowsingpage.title "Yksityinen selaus">
+<!ENTITY privatebrowsingpage.title.normal "Et ole yksityinen selaus -tilassa">
 
-<!ENTITY privatebrowsingpage.issueDesc.private      "Avattiin uusi yksityinen välilehti.">
-<!ENTITY privatebrowsingpage.issueDesc.normal       "Yksityistä välilehteä ei ole valittuna.">
+<!ENTITY privatebrowsingpage.issueDesc.normal2 "Yksityinen selaus -tilassa ei tallenneta selaushistoriaa tai evästeitä.">
+<!ENTITY privatebrowsingpage.issueDesc.private2 "Selaushistoriaa tai evästeitä ei tallenneta.">
 
-<!ENTITY privatebrowsingpage.description            "Yksityinen selaus -välilehdellä &brandShortName; ei tallenna mitään historiatietoja. Näitä tietoja ovat sivu-, haku- ja lataushistoria, lomakekenttiin syötetyt tiedot, evästeet ja väliaikaistiedostot. Ladatut tiedostot ja kirjanmerkit sivustoille säilyvät normaalilla tavalla.">
-<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+<!ENTITY privatebrowsingpage.description2 "Ladatut tiedostot ja kirjanmerkit sivustoille säilyvät laitteella normaalilla tavalla.">
+<!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
+<!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
 
-<!ENTITY privatebrowsingpage.moreInfo               "Vaikka tälle laitteelle ei tallennetakaan selaushistoriatietoja, Internet-palveluntarjoajasi voi seurata, millä sivustoilla vierailet.">
+<!ENTITY privatebrowsingpage.link.private "Haluatko lukea lisää?">
+<!ENTITY privatebrowsingpage.link.normal "Avaa uusi yksityinen välilehti">
