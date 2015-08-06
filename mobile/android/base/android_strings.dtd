@@ -47,6 +47,7 @@
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "Že med zaznamki">
 <!ENTITY bookmark_removed "Zaznamek odstranjen">
 <!ENTITY bookmark_updated "Zaznamek posodobljen">
 <!ENTITY bookmark_options "Možnosti">
@@ -80,6 +81,7 @@
 
 <!ENTITY settings "Nastavitve">
 <!ENTITY settings_title "Nastavitve">
+<!ENTITY pref_category_input_options "Možnosti vnosa">
 <!ENTITY pref_category_advanced "Napredno">
 <!ENTITY pref_category_customize "Po meri">
 <!ENTITY pref_category_customize_summary "Dom, iskanje, zavihki, uvoz">
@@ -135,6 +137,7 @@
 <!ENTITY pref_category_display "Prikaz">
 <!ENTITY pref_category_display_summary "Besedilo, naslovna vrstica, celozaslonsko brskanje">
 <!ENTITY pref_category_privacy_short "Zasebnost">
+<!ENTITY pref_category_privacy_summary2 "Upravljajte prijave, piškotke, sledenje in podatke">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "O &brandShortName;u, pogosta vprašanja, nastavitve podatkov">
 <!ENTITY pref_category_datareporting "Podatkovne možnosti">
@@ -153,6 +156,9 @@
 <!ENTITY pref_category_devtools "Razvojna orodja">
 <!ENTITY pref_developer_remotedebugging "Oddaljeno razhroščevanje">
 <!ENTITY pref_category_logins "Prijave">
+<!ENTITY pref_remember_signons2 "Shrani prijave">
+<!ENTITY pref_open_external_urls_privately_title "Odpiraj povezave v zasebnem brskanju">
+<!ENTITY pref_open_external_urls_privately_summary "Za vse zunanje povezave, ki jih odpre &brandShortName;">
 <!ENTITY pref_manage_logins "Upravljanje prijav">
 
 <!ENTITY pref_category_home "Domača stran">
@@ -190,8 +196,10 @@
 <!ENTITY pref_donottrack_title "Sledenje">
 <!ENTITY pref_donottrack_summary "&brandShortName; bo stranem sporočal, naj vam ne sledijo">
 
+<!ENTITY tab_queue_toast_message3 "Zavihek shranjen v &brandShortName;">
 <!ENTITY tab_queue_toast_action "Odpri zdaj">
 <!ENTITY tab_queue_prompt_title "Odpirate več povezav?">
+<!ENTITY tab_queue_prompt_text3 "Shranite jih, dokler naslednjič odprete &brandShortName;">
 <!ENTITY tab_queue_prompt_tip_text "odločitev lahko pozneje spremenite v nastavitvah">
 <!ENTITY tab_queue_prompt_positive_action_button "Omogoči">
 <!ENTITY tab_queue_prompt_negative_action_button "Ne zdaj">
@@ -243,9 +251,14 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled_summary "Določite, ali lahko spletne strani samodejno predvajajo videe in druge vsebine">
 <!ENTITY pref_zoom_force_enabled "Vedno omogoči povečavo">
 <!ENTITY pref_zoom_force_enabled_summary "Vsili povečavo, tako da je mogoča na vsaki strani">
+<!ENTITY pref_voice_input "Glasovni vnos">
+<!ENTITY pref_voice_input_summary "Omogoči glasovne ukaze v vrstici z naslovom">
+<!ENTITY pref_qrcode_enabled "Bralnik QR-kode">
+<!ENTITY pref_qrcode_enabled_summary "Omogoči bralnik QR v vrstici z naslovom">
 
 <!ENTITY pref_use_master_password "Uporabi glavno geslo">
 <!ENTITY pref_sync "Sinhroniziraj">
+<!ENTITY pref_sync_summary2 "Sinhronizirajte zavihke, zaznamke, prijave in zgodovino">
 <!ENTITY pref_search_suggestions "Prikaži predloge iskanja">
 <!ENTITY pref_import_android "Uvozi iz Androida">
 <!ENTITY pref_import_android_summary "Uvozite zaznamke in zgodovino iz privzeto nameščenega brskalnika">
@@ -253,10 +266,12 @@ size. -->
 <!ENTITY pref_private_data_searchHistory "Zgodovina iskanja">
 <!ENTITY pref_private_data_formdata2 "Zgodovina obrazcev">
 <!ENTITY pref_private_data_cookies2 "Piškotke in aktivne prijave">
+<!ENTITY pref_private_data_passwords2 "Shranjene prijave">
 <!ENTITY pref_private_data_cache "Predpomnilnik">
 <!ENTITY pref_private_data_offlineApps "Podatke pri delu brez povezave">
 <!ENTITY pref_private_data_siteSettings2 "Nastavitve strani">
 <!ENTITY pref_private_data_downloadFiles2 "Prenosi">
+<!ENTITY pref_private_data_syncedTabs "Sinhronizirani zavihki">
 
 
 <!ENTITY pref_about_firefox "O &brandShortName;u">
@@ -376,6 +391,11 @@ size. -->
 <!ENTITY doorhanger_login_edit_password_hint "Geslo">
 <!ENTITY doorhanger_login_edit_toggle "Prikaži geslo">
 <!ENTITY doorhanger_login_edit_toast_error "Shranjevanje prijave ni uspelo">
+<!ENTITY doorhanger_login_select_message "Kopiram geslo iz &formatS;?">
+<!ENTITY doorhanger_login_select_toast_copy "Geslo kopirano v odložišče">
+<!ENTITY doorhanger_login_select_toast_copy_error "Ni bilo mogoče kopirati gesla">
+<!ENTITY doorhanger_login_select_action_text "Izberite drugo prijavo">
+<!ENTITY doorhanger_login_select_title "Kopiraj geslo iz">
 
 <!ENTITY pref_titlebar_mode "Naslovna vrstica">
 <!ENTITY pref_titlebar_mode_title "Prikaži ime strani">
@@ -387,6 +407,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "Skrij naslovno vrstico &brandShortName;a med drsenjem navzdol po strani">
 
 <!ENTITY pref_tab_queue_title2 "Odpiranje več povezav">
+<!ENTITY pref_tab_queue_summary3 "Shranite jih, dokler naslednjič odprete &amp;brandShortName;">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -407,6 +428,7 @@ size. -->
 
 <!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
      as possible. -->
+<!ENTITY reading_list_added2 "Dodano na seznam">
 <!ENTITY reading_list_removed "Stran odstranjena z bralnega seznama">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -435,6 +457,7 @@ size. -->
 <!ENTITY button_clear_data "Počisti podatke">
 <!ENTITY button_set "Nastavi">
 <!ENTITY button_clear "Počisti">
+<!ENTITY button_copy "Kopiraj">
 
 <!ENTITY firstrun_panel_title_welcome "Dobrodošli">
 
@@ -525,6 +548,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "za katero skrbi">
 <!ENTITY identity_no_info "Spletna stran ne vsebuje podatkov o identiteti.">
 <!ENTITY identity_not_encrypted "Vaša povezava na spletno stran ni šifrirana.">
+<!ENTITY identity_encrypted "Šifrirano">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY loaded_mixed_content_message "Ta stran prikazuje vsebino, ki ni varna.">
@@ -591,6 +615,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "Nadaljuj">
 <!ENTITY guest_session_dialog_cancel "Prekliči">
 <!ENTITY new_guest_session_title "&brandShortName; se bo zdaj ponovno zagnal">
+<!ENTITY new_guest_session_text2 "Oseba, ki ga uporablja, ne bo mogla videti vaših zasebnih podatkov (shranjenih prijav, zgodovine ali zaznamkov).\n\nKo bo vaš gost končal, bodo njegovi podatki izbrisani, vaša seja pa obnovljena.">
 <!ENTITY guest_browsing_notification_title "Gostujoče brskanje je omogočeno">
 <!ENTITY guest_browsing_notification_text "Tapnite za izhod">
 
@@ -640,3 +665,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
 <!ENTITY find_matchcase "Aa">
 
+<!ENTITY intent_uri_cannot_open "Ni mogoče odpreti povezave">
