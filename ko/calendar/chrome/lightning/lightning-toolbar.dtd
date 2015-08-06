@@ -8,10 +8,15 @@
 <!ENTITY lightning.toolbar.task.name.accesskey "T">
 
 <!ENTITY lightning.toolbar.sync.label		"동기화">
+<!ENTITY lightning.toolbar.sync.tooltip "캘린더를 새로고침하고 변경사항을 동기화">
 <!ENTITY lightning.toolbar.delete.label		"삭제">
+<!ENTITY lightning.toolbar.delete.tooltip "선택한 이벤트와 태스크를 삭제">
 <!ENTITY lightning.toolbar.edit.label		"편집">
+<!ENTITY lightning.toolbar.edit.tooltip "선택한 이벤트와 태스크를 편집">
 <!ENTITY lightning.toolbar.gototoday.label	"오늘로 이동">
+<!ENTITY lightning.toolbar.gototoday.tooltip "오늘로 이동">
 <!ENTITY lightning.toolbar.print.label		"인쇄">
+<!ENTITY lightning.toolbar.print.tooltip "이벤트와 태크스를 인쇄">
 
 <!-- Mode Toolbar -->
 <!ENTITY lightning.toolbar.calendar.label     "캘린더">
@@ -23,7 +28,9 @@
 
 <!-- Toolbar write button -->
 <!ENTITY lightning.toolbar.newevent.label     "이벤트">
+<!ENTITY lightning.toolbar.newevent.tooltip   "새 이벤트 만들기">
 <!ENTITY lightning.toolbar.newtask.label      "태스크">
+<!ENTITY lightning.toolbar.newtask.tooltip    "새 태스크 만들기>
 
 <!-- Calendar and Task Mode Toolbar  -->
 <!ENTITY lightning.toolbar.day.label                 "일별">
