@@ -5,7 +5,8 @@
 <!ENTITY privatebrowsingpage.title "التصفح الخاص">
 <!ENTITY privatebrowsingpage.title.normal "لست في التصفح الخاص">
 
-
+<!ENTITY privatebrowsingpage.issueDesc.normal2 "لن نحتفظ في التصفّح الخاصّ بتأريخ التصفّح أو الكعكات.">
+<!ENTITY privatebrowsingpage.issueDesc.private2 "لن نحتفظ بتأريخ التصفّح أو الكعكات.">
 
 <!ENTITY privatebrowsingpage.description2 "العلامات التي تضيفها والملفات التي تنزّلها ستُحفظ في جهازك.">
 <!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
