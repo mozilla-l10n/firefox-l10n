@@ -62,6 +62,7 @@
 <!ENTITY sync.configure.engines.title.label 'Kaj naj se sinhronizira'>
 <!ENTITY sync.configure.engines.sync.my.title.label 'Sinhroniziraj moje …'>
 <!ENTITY sync.configure.engines.title.bookmarks 'Zaznamke'>
+<!ENTITY sync.configure.engines.title.passwords2 'Prijave'>
 <!ENTITY sync.configure.engines.title.history 'Zgodovino'>
 <!ENTITY sync.configure.engines.title.tabs 'Zavihke'>
 
@@ -140,6 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy 'Obvestilo o zasebnosti'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'Pozdravljeni v &syncBrand.shortName.label;'>
+<!ENTITY fxaccount_getting_started_description2 'Prijavite se in sinhronizirajte zavihke, zaznamke, prijave in še kaj.'>
 <!ENTITY fxaccount_getting_started_get_started 'Začni'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Uporabljate starejšo različico &syncBrand.shortName.label;?'>
 
@@ -210,6 +212,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating 'Tapnite za prijavo v vaš nov Firefox Račun.'>
 <!ENTITY fxaccount_status_bookmarks 'Zaznamki'>
 <!ENTITY fxaccount_status_history 'Zgodovina'>
+<!ENTITY fxaccount_status_passwords2 'Prijave'>
 <!ENTITY fxaccount_status_tabs 'Odprti zavihki'>
 <!ENTITY fxaccount_status_legal 'Pravni pouk' >
 <!-- Localization note: when tapped, the following two strings link to
