@@ -46,7 +46,7 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Goermukhi">
 <!ENTITY  font.langGroup.khmer                    "Khmer">
 <!ENTITY  font.langGroup.malayalam                "Malabaars">
-
+<!ENTITY  font.langGroup.math                     "Wiskunde">
 <!ENTITY  font.langGroup.oriya                    "Orija">
 <!ENTITY  font.langGroup.telugu                   "Telugu">
 <!ENTITY  font.langGroup.kannada                  "Kannada">
@@ -64,9 +64,10 @@
 <!ENTITY  allowPagesToUse.label                   "Laat bladsye toe om hul eie fonte te kies in plaas van my keuses hierbo">
 <!ENTITY  allowPagesToUse.accesskey               "L">
 
-
-
-
+<!ENTITY languages.customize.Fallback2.grouplabel "Teksenkodering vir ou inhoud">
+<!ENTITY languages.customize.Fallback2.label      "Teksenkodering om op terug te val:">
+<!ENTITY languages.customize.Fallback2.accesskey  "T">
+<!ENTITY languages.customize.Fallback2.desc       "Dié teksenkodering word gebruik vir ou inhoud wat nié 'n enkodering verklaar nie.">
 
 <!ENTITY languages.customize.Fallback.auto        "Verstek vir huidige lokaliteitinstelling">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
