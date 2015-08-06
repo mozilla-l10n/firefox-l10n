@@ -20,3 +20,5 @@
 <!ENTITY ctrlKey.label "Ctrl">
 <!ENTITY altKey.label "Alt">
 <!ENTITY shiftKey.label "Maiusc">
+<!ENTITY menubarCmd.label "Barra dei menu">
+<!ENTITY menubarCmd.accesskey "B">
