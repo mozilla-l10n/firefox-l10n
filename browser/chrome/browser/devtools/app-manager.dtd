@@ -16,30 +16,31 @@
 <!ENTITY device.startApp "Simolola">
 <!ENTITY device.startAppTooltip "Simolodisa tiriso e mo sedirisweng">
 <!ENTITY device.stopApp "Emisa">
-
-
-
+<!ENTITY device.stopAppTooltip "Emisa tiriso e mo sedirisweng">
+<!ENTITY device.debugApp "Rarabolola">
+<!ENTITY device.debugAppTooltip "Bula Didiriswa tsa Badiri tse di golaganyeng le thulaganyo e mo sedirisweng">
 <!ENTITY device.name "Leina">
-
-
-
+<!ENTITY device.plain "Bonalang (thulaganyetsoruri)">
+<!ENTITY device.privileged "Tshono">
+<!ENTITY device.certified "Netefaditswe">
 <!ENTITY device.allow "Letlelela">
-
+<!ENTITY device.allowTooltip "Tetla e, e letleleletswe mo ditirisong tsa mofuta o">
 <!ENTITY device.prompt "Rotloetsa">
-
+<!ENTITY device.promptTooltip "Tetla e, e lopa kgwetlho ya modiri mo ditirisong tsa mofuta o">
 <!ENTITY device.deny "Ganela">
-
+<!ENTITY device.denyTooltip "Tetla e, e latoletswe ditiriso tsa mofuta o">
 <!ENTITY device.installedApps "Ditiriso tse di Tsentsweng">
 <!ENTITY device.installedAppsTooltip "Leba lenaane la diriso tse di tsentsweng mo sedirisweng. Dingwe tsa ditiriso, jaaka ditiriso tse di totobaditsweng, di ka tlhaolwa go tswa mo tebong e.">
 <!ENTITY device.permissions "Ditetla">
-
-
-
-
-
-
+<!ENTITY device.permissionsTooltip "Leba lenaneothalo la ditetla le le nang le tetlelesego mo mefuteng e farologaneng ya ditiriso">
+<!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
+<!ENTITY device.browserTabs "Dithebe tsa Sebatli">
+<!ENTITY device.browserTabsTooltip "Leba lenaane la dithebe mo sebatling sa sediriswa se se golaganyeng">
+<!ENTITY device.debugBrowserTab "Rarabolola">
+<!ENTITY device.debugBrowserTabTooltip "Bula Didiriswa tsa Badiri tse di golaganyeng le thebe ya sebatli mo sedirisweng">
 <!ENTITY device.help "Thuso">
 
+<!ENTITY connection.connectTooltip "Golaganya le sediriswa">
 
 
 
