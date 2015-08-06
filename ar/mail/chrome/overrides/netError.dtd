@@ -48,7 +48,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "انتهت صلاحية المستند">
-<!ENTITY notCached.longDesc "<p>المستند المطلوب لم يعد متوفرًا في الذاكرة الخبيئة.</p><ul><li>كإجراء وقائي، &brandShortName; لا يعيد طلب المستندات الحساسة بشكل آلي.</li><li>اضغط على 'حاول مجددًا' لإعادة طلب المستند من الموقع.</li></ul>">
+<!ENTITY notCached.longDesc "<p>المستند المطلوب لم يعد متوفرًا في الذاكرة الخبيئة.</p><ul><li>كإجراء وقائي، &brandShortName; لا يعيد طلب المستندات الحساسة بشكل آلي.</li><li>اضغط على ’حاول مجددًا‘ لإعادة طلب المستند من الموقع.</li></ul>">
 
 <!ENTITY netOffline.title "وضع بدون اتصال">
 <!ENTITY netOffline.longDesc2 "<ul> 

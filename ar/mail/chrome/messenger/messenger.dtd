@@ -910,4 +910,4 @@
 <!ENTITY showAllAppsCmdMac.label        "أظهِر الكل">
 <!-- Mac OS X Dock Icon pop-up menu -->
 
-<!ENTITY dockOptions.label              "خيارات أيقونة التطبيق">
+<!ENTITY dockOptions.label              "خيارات أيقونة التطبيق…">

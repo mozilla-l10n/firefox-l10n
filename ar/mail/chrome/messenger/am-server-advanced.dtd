@@ -29,5 +29,5 @@
 <!ENTITY accountDirectory.accesskey "ه">
 <!ENTITY deferToServer.label "صندوق الوارد لحساب آخر">
 <!ENTITY deferToServer.accesskey "خ">
-<!ENTITY deferGetNewMail.label " اشمل هذا الخادوم عند جلب البريد الجديد">
+<!ENTITY deferGetNewMail.label "اشمل هذا الخادوم عند جلب البريد الجديد">
 <!ENTITY deferGetNewMail.accesskey "ش">

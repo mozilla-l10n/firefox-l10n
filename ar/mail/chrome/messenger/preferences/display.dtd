@@ -53,7 +53,7 @@
 <!ENTITY showCondensedAddresses.accesskey "ع">
 
 <!ENTITY autoMarkAsRead.label             "أشّر على الرسائل تلقائيًا بانها مقروءة">
-<!ENTITY autoMarkAsRead.accesskey         "ئ">
+<!ENTITY autoMarkAsRead.accesskey         "ت">
 <!ENTITY markAsReadNoDelay.label          "فورًا عند العرض">
 <!ENTITY markAsReadNoDelay.accesskey      "ف">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
