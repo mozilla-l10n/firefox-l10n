@@ -491,6 +491,7 @@
 <!ENTITY editBookmark.removeBookmark.accessKey "R">
 <!ENTITY identity.connectionSecure "Conexión segura">
 <!ENTITY identity.connectionNotSecure "Conexión no segura">
+<!ENTITY identity.connectionFile "Esta página está almacenada en su computador.">
 <!ENTITY identity.connectionVerified "&brandShortName; verificó que está conectado de forma segura a este sitio, perteneciente a:">
 <!ENTITY identity.connectionInternal "Esta es una página segura de &brandShortName;.">
 <!ENTITY identity.moreInfoLinkText2 "Más información">
@@ -549,6 +550,7 @@
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "Micrófono a compartir:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+<!ENTITY getUserMedia.audioCapture.label "El audio de la pestaña será compartido.">
 <!ENTITY getUserMedia.allWindowsShared.message "Todas las ventanas visibles en su pantalla serán compartidas.">
 <!ENTITY badContentBlocked.moreinfo "La mayoría de los sitios web continuará funcionando correctamente incluso si este contenido es bloqueado.">
 <!ENTITY mixedContentBlocked2.message "Contenido inseguro">
@@ -618,15 +620,6 @@
 <!ENTITY emeNotificationsNotNow.accesskey         "N">
 <!ENTITY emeNotificationsDontAskAgain.label       "No volver a preguntar">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "D">
-
-<!ENTITY readingList.label                        "Lista de lectura">
-<!ENTITY readingList.sidebar.commandKey           "R">
-<!ENTITY readingList.showSidebar.label            "Mostrar barra lateral de la lista de lectura">
-<!ENTITY readingList.sidebar.showMore.label       "Mostrar más…">
-<!ENTITY readingList.sidebar.emptyText            "Añada artículos a su lista de lectura para guardarlos para más tarde y encontrarlos fácilmente cuando los necesite.">
-<!ENTITY readingList.sidebar.delete.tooltip       "Eliminar esto de su lista de lectura">
-<!ENTITY readingList.sidebar.add.label            "Añadir a la lista de lectura">
-<!ENTITY readingList.sidebar.add.tooltip          "Añadir esta página a la lista de lectura">
 
 <!ENTITY saveToPocketCmd.label     "Guardar página en Pocket">
 <!ENTITY saveToPocketCmd.accesskey "k">
