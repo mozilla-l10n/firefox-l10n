@@ -3,16 +3,17 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY index.title "Molaola Tiriso">
-
+<!ENTITY index.projects2 "Ditiriso">
 <!ENTITY index.device2 "Sediriswa">
+<!ENTITY index.help "Thuso">
 
-
+<!ENTITY device.debugMainProcess "Rarabolola thulaganyo e kgolo">
 <!ENTITY device.debugMainProcessTooltip "Bula Didiriswa tsa Badiri tse di golaganyeng le thulaganyo e kgolo mo sedirisweng">
-
+<!ENTITY device.screenshot "Sekerinitsepamo">
 <!ENTITY device.screenshotTooltip "Bula tsepamo sekerini ya maemo a ga jaana a sediriswa mo thebeng e ntsha">
 <!ENTITY device.title "Selaola Sediriswa Taolo">
 <!ENTITY device.notConnected "Ga go na kgolaganyo. Tswêê-tswêê golaganya sediriswa fa tlase.">
-
+<!ENTITY device.startApp "Simolola">
 <!ENTITY device.startAppTooltip "Simolodisa tiriso e mo sedirisweng">
 <!ENTITY device.stopApp "Emisa">
 
