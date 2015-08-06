@@ -11,14 +11,24 @@
 <!-- LOCALIZATION NOTE (profilerUI.emptyNotice1/2): This is the label shown
   -  in the call list view when empty. -->
 <!-- TODO remove -->
+
+
+
+<!ENTITY profilerUI.emptyNotice1    "Cofa kwi">
 <!-- TODO remove -->
+<!ENTITY profilerUI.emptyNotice2    "iqhosha lokuqalisa ukurekhoda i-JavaScript yomsebenzi weminxeba.">
 <!-- LOCALIZATION NOTE (profilerUI.stopNotice1/2): This is the label shown
   -  in the call list view while recording a profile. -->
 <!-- TODO remove -->
+
+<!ENTITY profilerUI.stopNotice1    "Cofa kwi">
 <!-- TODO remove -->
+<!ENTITY profilerUI.stopNotice2    "iqhosha kwakhona ukuyekisa i-profiling.">
 <!-- LOCALIZATION NOTE (profilerUI.startRecording/profilerUI.stopRecording): These are
   -  the labels shown on the main recording buttons to start/stop recording. -->
 
+<!ENTITY profilerUI.startRecording "Qalisa ukurekhoda umsebenzi ">
+<!ENTITY profilerUI.stopRecording  "Yekisa ukurekhoda umsebenzi">
 <!-- LOCALIZATION NOTE (profilerUI.bufferStatusTooltip): This string
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
 <!-- LOCALIZATION NOTE (profilerUI.bufferStatusFull): This string
