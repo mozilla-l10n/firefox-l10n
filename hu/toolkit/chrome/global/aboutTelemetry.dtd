@@ -4,10 +4,15 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Telemetriai adatok">
 
+<!ENTITY aboutTelemetry.changeDataChoices "  Változtatás">
 
+<!ENTITY aboutTelemetry.uploadEnabled "  Az FHR adatok feltöltése <span>engedélyezett</span>.">
 
+<!ENTITY aboutTelemetry.uploadDisabled "  Az FHR adatok feltöltése <span>tiltott</span>.">
 
+<!ENTITY aboutTelemetry.extendedRecordingEnabled "  A bővített telemetria-rögzítés <span>engedélyezett</span>.">
 
+<!ENTITY aboutTelemetry.extendedRecordingDisabled "  A bővített telemetria-rögzítés <span>tiltott</span>.">
 
 
 
