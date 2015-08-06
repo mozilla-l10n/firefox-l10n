@@ -47,6 +47,7 @@
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "Már könyvjelzőzve">
 <!ENTITY bookmark_removed "Könyvjelző törölve">
 <!ENTITY bookmark_updated "Könyvjelző frissítve">
 <!ENTITY bookmark_options "Beállítások">
@@ -80,7 +81,7 @@
 
 <!ENTITY settings "Beállítások">
 <!ENTITY settings_title "Beállítások">
-
+<!ENTITY pref_category_input_options "Bevitel beállításai">
 <!ENTITY pref_category_advanced "Speciális">
 <!ENTITY pref_category_customize "Testreszabás">
 <!ENTITY pref_category_customize_summary "Kezdőlap, keresés, lapok, importálás">
@@ -108,7 +109,7 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "Könyvjelzőzés">
 <!ENTITY overlay_share_reading_list_btn_label "Olvasási listához adás">
-
+<!ENTITY overlay_share_bookmark_btn_label_already "Már könyvjelzőzve">
 <!ENTITY overlay_share_reading_list_btn_label_already "Már az olvasási listán van">
 <!ENTITY overlay_share_send_other "Küldés más eszközökre">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -136,7 +137,7 @@
 <!ENTITY pref_category_display "Megjelenítés">
 <!ENTITY pref_category_display_summary "Szöveg, címsáv, teljes képernyős böngészés">
 <!ENTITY pref_category_privacy_short "Adatvédelem">
-
+<!ENTITY pref_category_privacy_summary2 "Bejelentkezések, sütik, követési adatok felügyelete">
 <!ENTITY pref_category_vendor "&vendorShortName;nak,">
 <!ENTITY pref_category_vendor_summary "A &brandShortName; névjegye, GyIK, adatküldések">
 <!ENTITY pref_category_datareporting "Adatküldések">
@@ -155,8 +156,8 @@
 <!ENTITY pref_category_devtools "Fejlesztői eszközök">
 <!ENTITY pref_developer_remotedebugging "Távoli hibakeresés">
 <!ENTITY pref_category_logins "Bejelentkezések">
-
-
+<!ENTITY pref_remember_signons2 "Bejelentkezések megjegyzése">
+<!ENTITY pref_open_external_urls_privately_title "Hivatkozások megnyitása privát böngészésben">
 
 <!ENTITY pref_manage_logins "Bejelentkezések kezelése">
 
