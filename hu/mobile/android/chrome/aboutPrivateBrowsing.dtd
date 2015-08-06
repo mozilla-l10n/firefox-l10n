@@ -3,12 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY privatebrowsingpage.title "Privát böngészés">
+<!ENTITY privatebrowsingpage.title.normal "Nincs privát böngészésben">
 
+<!ENTITY privatebrowsingpage.issueDesc.normal2 "Privát böngészésnél nem tároljuk böngészési előzményeit vagy sütijeit.">
+<!ENTITY privatebrowsingpage.issueDesc.private2 "Nem tároljuk böngészési előzményeit vagy sütijeit.">
 
-
-
-
-
+<!ENTITY privatebrowsingpage.description2 "A felvett könyvjelzők és a letöltött fájlok azonban megmaradnak az eszközön.">
+<!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
+<!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
 
 <!ENTITY privatebrowsingpage.link.private "Szeretne többet tudni?">
-
+<!ENTITY privatebrowsingpage.link.normal "Új privát böngészőlap megnyitása">
