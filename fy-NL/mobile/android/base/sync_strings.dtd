@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label 'Wat te syngronisearjen'>
 <!ENTITY sync.configure.engines.sync.my.title.label 'Syngronisearje:'>
 <!ENTITY sync.configure.engines.title.bookmarks 'Blêdwizers'>
-<!ENTITY sync.configure.engines.title.passwords 'Wachtwurden'>
+<!ENTITY sync.configure.engines.title.passwords2 'Oanmeldingen'>
 <!ENTITY sync.configure.engines.title.history 'Skiednis'>
 <!ENTITY sync.configure.engines.title.tabs 'Ljepblêden'>
 
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy 'Privacyferklearring (Ing)'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'Wolkom by &syncBrand.shortName.label;'>
-<!ENTITY fxaccount_getting_started_description 'Meld jo oan om jo ljepblêden, blêdwizers, wachtwurden en mear te syngronisearjen.'>
+<!ENTITY fxaccount_getting_started_description2 'Meld jo oan om jo ljepblêden, blêdwizers, oanmeldingen en mear te syngronisearjen.'>
 <!ENTITY fxaccount_getting_started_get_started 'Begjinne'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Brûke jo in âldere ferzje fan &syncBrand.shortName.label;?'>
 
@@ -212,7 +212,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating 'Tik om jo oan te melden by jo nije Firefox-account.'>
 <!ENTITY fxaccount_status_bookmarks 'Blêdwizers'>
 <!ENTITY fxaccount_status_history 'Skiednis'>
-<!ENTITY fxaccount_status_passwords 'Wachtwurden'>
+<!ENTITY fxaccount_status_passwords2 'Oanmeldingen'>
 <!ENTITY fxaccount_status_tabs 'Iepene ljepblêden'>
 <!ENTITY fxaccount_status_legal 'Juridysk' >
 <!-- Localization note: when tapped, the following two strings link to

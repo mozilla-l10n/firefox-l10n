@@ -44,6 +44,10 @@
 <!ENTITY bookmark "Blêdwizer">
 <!ENTITY bookmark_remove "Blêdwizer fuortsmite">
 <!ENTITY bookmark_added "Blêdwizer tafoege">
+<!-- Localization note (bookmark_already_added) : This string is
+     used as a label in a toast. It is the verb "to bookmark", not
+     the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "Blêdwizer al makke">
 <!ENTITY bookmark_removed "Blêdwizer fuortsmiten">
 <!ENTITY bookmark_updated "Blêdwizer bywurke">
 <!ENTITY bookmark_options "Opsjes">
@@ -77,6 +81,7 @@
 
 <!ENTITY settings "Ynstellingen">
 <!ENTITY settings_title "Ynstellingen">
+<!ENTITY pref_category_input_options "Ynfieropsjes">
 <!ENTITY pref_category_advanced "Avansearre">
 <!ENTITY pref_category_customize "Oanpasse">
 <!ENTITY pref_category_customize_summary "Start, sykje, ljepblêden, ymportearje">
@@ -132,7 +137,7 @@
 <!ENTITY pref_category_display "Werjefte">
 <!ENTITY pref_category_display_summary "Tekst, titelbalke, folsleinskerm browse">
 <!ENTITY pref_category_privacy_short "Privacy">
-<!ENTITY pref_category_privacy_summary "Wachtwurden, cookies, folgjen en gegevens behearje">
+<!ENTITY pref_category_privacy_summary2 "Oanmeldingen, cookies, folgjen, gegevens beheare">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "Oer &brandShortName;, FAQs, gegevenskar">
 <!ENTITY pref_category_datareporting "Gegevenskar">
@@ -151,7 +156,9 @@
 <!ENTITY pref_category_devtools "Untwikkelersark">
 <!ENTITY pref_developer_remotedebugging "Remote debugging">
 <!ENTITY pref_category_logins "Oanmeldingen">
-<!ENTITY pref_remember_signons "Wachtwurden ûnthâlde">
+<!ENTITY pref_remember_signons2 "Oanmeldingen ûnthâlde">
+<!ENTITY pref_open_external_urls_privately_title "Keppelingen iepenje yn Priveenavigaasje">
+<!ENTITY pref_open_external_urls_privately_summary "Foar alle yn &brandShortName; iepene eksterne keppelingen">
 <!ENTITY pref_manage_logins "Oanmeldingen beheare">
 
 <!ENTITY pref_category_home "Startside">
@@ -189,10 +196,10 @@
 <!ENTITY pref_donottrack_title "Net folgje">
 <!ENTITY pref_donottrack_summary "&brandShortName; sil websites witte litte dat jo net folge wurde wol">
 
-<!ENTITY tab_queue_toast_message2 "Ljepblêd yn wachtrige yn &brandShortName;">
+<!ENTITY tab_queue_toast_message3 "Ljepblêd bewarre yn &brandShortName;">
 <!ENTITY tab_queue_toast_action "No iepenje">
 <!ENTITY tab_queue_prompt_title "Mear keppelingen iepenje?">
-<!ENTITY tab_queue_prompt_text2 "Iepenje se sûnder hieltyd nei &brandShortName; om te skeakeljen.">
+<!ENTITY tab_queue_prompt_text3 "Bewarje se foar de folgjende kear dat jo &brandShortName; iepenje">
 <!ENTITY tab_queue_prompt_tip_text "jo kinne dit letter wizigjen yn Ynstellingen">
 <!ENTITY tab_queue_prompt_positive_action_button "Ynskeakelje">
 <!ENTITY tab_queue_prompt_negative_action_button "No net">
@@ -244,10 +251,14 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled_summary "Automatysk ôfspylje fan fideo’s en oare mediaynhâld troch websites beheare">
 <!ENTITY pref_zoom_force_enabled "Zoom altyd ynskeakelje">
 <!ENTITY pref_zoom_force_enabled_summary "Oerskriuwe forsearje, sadat jo eltse side zoome kinne">
+<!ENTITY pref_voice_input "Spraakynfier">
+<!ENTITY pref_voice_input_summary "Spraakdiktee yn de titelbalke tastean">
+<!ENTITY pref_qrcode_enabled "QR-koadelêzer">
+<!ENTITY pref_qrcode_enabled_summary "QR-scanner yn de titelbalke tastean">
 
 <!ENTITY pref_use_master_password "Haadwachtwurd brûke">
 <!ENTITY pref_sync "Sync">
-<!ENTITY pref_sync_summary "Syngronisearje jo ljepblêden, blêdwizers, wachtwurden, skiednis">
+<!ENTITY pref_sync_summary2 "Ljepblêden, blêdwizers, oanmeldingen, skiednis syngronisearje">
 <!ENTITY pref_search_suggestions "Sykfoarstelllen toane">
 <!ENTITY pref_import_android "Ymportearje út Android">
 <!ENTITY pref_import_android_summary "Ymportearje blêdwizers en skiednis fan de ynboude browser">
@@ -255,11 +266,12 @@ size. -->
 <!ENTITY pref_private_data_searchHistory "Sykskiednis">
 <!ENTITY pref_private_data_formdata2 "Formulierskiednis">
 <!ENTITY pref_private_data_cookies2 "Cookies &amp; aktive oanmeldingen">
-<!ENTITY pref_private_data_passwords "Bewarre wachtwurden">
+<!ENTITY pref_private_data_passwords2 "Bewarre oanmeldingen">
 <!ENTITY pref_private_data_cache "Buffer">
 <!ENTITY pref_private_data_offlineApps "Offlinewebsitegegevens">
 <!ENTITY pref_private_data_siteSettings2 "Website-ynstellingen">
 <!ENTITY pref_private_data_downloadFiles2 "Downloads">
+<!ENTITY pref_private_data_syncedTabs "Syngronisearre ljepblêden">
 
 
 <!ENTITY pref_about_firefox "Oer &brandShortName;">
@@ -379,6 +391,11 @@ size. -->
 <!ENTITY doorhanger_login_edit_password_hint "Wachtwurd">
 <!ENTITY doorhanger_login_edit_toggle "Wachtwurd toane">
 <!ENTITY doorhanger_login_edit_toast_error "Bewarjen fan oanmelding mislearre">
+<!ENTITY doorhanger_login_select_message "Wachtwurd fan &formatS; kopiearje?">
+<!ENTITY doorhanger_login_select_toast_copy "Wachtwurd nei klamboerd kopiearre">
+<!ENTITY doorhanger_login_select_toast_copy_error "Koe wachtwurd net kopiearje">
+<!ENTITY doorhanger_login_select_action_text "Oare oanmelding selektearje">
+<!ENTITY doorhanger_login_select_title "Wachtwurd kopiearje fan">
 
 <!ENTITY pref_titlebar_mode "Titelbalke">
 <!ENTITY pref_titlebar_mode_title "Sidetitel toane">
@@ -390,7 +407,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "Ferstop de &brandShortName;-titelbalke as in side nei ûnder skowt">
 
 <!ENTITY pref_tab_queue_title2 "Mear keppelingen iepenje">
-<!ENTITY pref_tab_queue_summary2 "Keppelingen yn in wachtrige pleatse foar letter yn stee fan hieltyd nei &brandShortName; omskeakelje">
+<!ENTITY pref_tab_queue_summary3 "Bewarje se foar de folgjende kear as jo &brandShortName; iepenje">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -409,7 +426,9 @@ size. -->
 <!ENTITY site_settings_clear        "Wiskje">
 <!ENTITY site_settings_no_settings  "Der binne gjin ynstellingen om te wiskjen.">
 
-<!ENTITY reading_list_added "Side oan jo lêslist tafoege">
+<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+     as possible. -->
+<!ENTITY reading_list_added2 "Tafoege oan list">
 <!ENTITY reading_list_removed "Side út jo lêslist fuortsmiten">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -438,7 +457,7 @@ size. -->
 <!ENTITY button_clear_data "Gegevens wiskje">
 <!ENTITY button_set "Ynstelle">
 <!ENTITY button_clear "Wiskje">
-<!ENTITY button_remember "Unthâlde">
+<!ENTITY button_copy "Kopiearje">
 
 <!ENTITY firstrun_panel_title_welcome "Wolkom">
 
@@ -502,10 +521,6 @@ size. -->
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Selektearre apparaten net ferstoppe">
 
-<!ENTITY private_browsing_title "Priveenavigaasje">
-<!ENTITY private_tabs_panel_empty_desc "Jo priveeljepblêden sille hjir toand wurde. Wylst wy neat fan jo browseskiednis of cookies bewarje, sille oanmakke blêdwizers en bestannen dy\'t jo downloade wol op jo apparaat bewarre wurde.">
-<!ENTITY private_tabs_panel_learn_more "Wolle jo mear witte?">
-
 <!ENTITY remote_tabs_panel_moved_title "Wêr binne myn ljepblêden bleaun?">
 <!ENTITY remote_tabs_panel_moved_desc "Wy hawwe jo ljepblêden fan oare appraten ferpleatst nei in paniel op jo startside dy\'t maklik tagonklik is eltse kear as jo in nij ljepbêd iepenje.">
 <!ENTITY remote_tabs_panel_moved_link "Bring my nei myn nije paniel.">
@@ -533,6 +548,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "dy\'t beheard wurdt troch">
 <!ENTITY identity_no_info "Dizze website jout gjin identiteitsynformaasje.">
 <!ENTITY identity_not_encrypted "Jo ferbining mei dizze website is net fersifere.">
+<!ENTITY identity_encrypted "Fersifere">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY loaded_mixed_content_message "Dizze side jout ynhâld wer dy\'t net befeilige is.">
@@ -599,7 +615,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "Trochgean">
 <!ENTITY guest_session_dialog_cancel "Annulearje">
 <!ENTITY new_guest_session_title "&brandShortName; sil no opnij starte">
-<!ENTITY new_guest_session_text "De persoan dy\'t dit brûkt sil jo persoanlike navigaasjegegevens (lykas bewarre wachtwurden, skiednis of blêdwizers) net sjen kinne.\n\nSa gau jo gast klear is, wurden syn of har navigaasjegegevens fuortsmiten en wurdt jo sesje wersteld.">
+<!ENTITY new_guest_session_text2 "De persoan dy\'t dit brûkt sil jo persoanlike navigaasjegegevens (lykas bewarre oanmeldingen, skiednis of blêdwizers) net sjen kinne.\n\nSa gau jo gast klear is, wurden syn of har navigaasjegegevens fuortsmiten en wurdt jo sesje wersteld.">
 <!ENTITY guest_browsing_notification_title "Gastbrowsen is ynskeakele">
 <!ENTITY guest_browsing_notification_text "Tik om ôf te sluten">
 
@@ -648,3 +664,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
 <!ENTITY find_matchcase "Aa">
+
+<!ENTITY intent_uri_cannot_open "Kin keppeling net iepenje">
