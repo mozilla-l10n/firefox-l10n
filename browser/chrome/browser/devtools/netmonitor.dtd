@@ -11,8 +11,14 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.perfNotice1/2): These are the labels displayed
   -  in the network table when empty to start performance analysis. -->
 
+
+
+<!ENTITY netmonitorUI.perfNotice1         "Cofa kwi">
+<!ENTITY netmonitorUI.perfNotice2         "iqhosha lokuqalisa uhlalutyo lomsebenzi">
 <!-- LOCALIZATION NOTE (netmonitorUI.reload1/2/3): These are the labels displayed
   -  in the network table when empty to start logging network requests. -->
+
+<!ENTITY netmonitorUI.reloadNotice1       "Yenza isicelo okanye">
 <!ENTITY netmonitorUI.reloadNotice2       "Layisha kwakhona">
 <!ENTITY netmonitorUI.reloadNotice3       "iphepha lokubona inkcukacha ezicacileyo malunga nomsebenzi we-network.">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.status2): This is the label displayed
@@ -67,6 +73,8 @@
 <!ENTITY netmonitorUI.tab.response        "Impendulo">
 <!-- LOCALIZATION NOTE (netmonitorUI.tab.timings): This is the label displayed
   -  in the network details pane identifying the timings tab. -->
+
+<!ENTITY netmonitorUI.tab.timings         "ukulawula ukwenzeka kwento">
 <!-- LOCALIZATION NOTE (netmonitorUI.tab.preview): This is the label displayed
   -  in the network details pane identifying the preview tab. -->
 
@@ -81,12 +89,20 @@
 <!ENTITY netmonitorUI.footer.filterAll    "Konke">
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterHTML): This is the label displayed
   -  in the network details footer for the "HTML" filtering button. -->
+
+<!ENTITY netmonitorUI.footer.filterHTML   "HTML">
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterCSS): This is the label displayed
   -  in the network details footer for the "CSS" filtering button. -->
+
+<!ENTITY netmonitorUI.footer.filterCSS    "CSS">
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterJS): This is the label displayed
   -  in the network details footer for the "JS" filtering button. -->
+
+<!ENTITY netmonitorUI.footer.filterJS     "JS">
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterXHR): This is the label displayed
   -  in the network details footer for the "XHR" filtering button. -->
+
+<!ENTITY netmonitorUI.footer.filterXHR    "XHR">
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterFonts): This is the label displayed
   -  in the network details footer for the "Fonts" filtering button. -->
 
@@ -101,17 +117,25 @@
 <!ENTITY netmonitorUI.footer.filterMedia  "Izilondolozi">
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterFlash): This is the label displayed
   -  in the network details footer for the "Flash" filtering button. -->
+
+<!ENTITY netmonitorUI.footer.filterFlash  "Ifleshi">
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterOther): This is the label displayed
   -  in the network details footer for the "Other" filtering button. -->
+
+<!ENTITY netmonitorUI.footer.filterOther  "Okunye">
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterFreetext): This is the label displayed
   -  in the network details footer for the url filtering textbox. -->
 
+<!ENTITY netmonitorUI.footer.filterFreetext.label  "Hluza i-URLs">
+<!ENTITY netmonitorUI.footer.filterFreetext.key  "F">
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.clear): This is the label displayed
   -  in the network details footer for the "Clear" button. -->
 
 <!ENTITY netmonitorUI.footer.clear  "Sula">
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.clear): This is the label displayed
   -  in the network details footer for the performance analysis button. -->
+
+<!ENTITY netmonitorUI.footer.perf   "Sebenzisa njengeqhosha uhlalutyo lomsebenzi...">
 <!-- LOCALIZATION NOTE (netmonitorUI.panesButton.tooltip): This is the tooltip for
   -  the button that toggles the panes visible or hidden in the netmonitor UI. -->
 
@@ -150,6 +174,8 @@
 <!ENTITY netmonitorUI.response.dimensions "Imilinganiselo:">
 <!-- LOCALIZATION NOTE (netmonitorUI.response.mime): This is the label displayed
   -  in the network details response tab identifying an image's mime. -->
+
+<!ENTITY netmonitorUI.response.mime       "Udidi lwe-MIME:">
 <!-- LOCALIZATION NOTE (netmonitorUI.response.encoding): This is the label displayed
   -  in the network details response tab identifying an image's encoding. -->
 
@@ -157,6 +183,8 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.timings.blocked): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "blocked" state. -->
+
+<!ENTITY netmonitorUI.timings.blocked     "Okuthintelweyo:">
 <!-- LOCALIZATION NOTE (netmonitorUI.timings.dns): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "dns" state. -->
@@ -165,6 +193,8 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.timings.connect): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "connect" state. -->
+
+<!ENTITY netmonitorUI.timings.connect     "Umdibaniso:">
 <!-- LOCALIZATION NOTE (netmonitorUI.timings.send): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "send" state. -->
@@ -173,6 +203,8 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.timings.wait): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "wait" state. -->
+
+<!ENTITY netmonitorUI.timings.wait        "Kulindiwe:">
 <!-- LOCALIZATION NOTE (netmonitorUI.timings.receive): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "receive" state. -->
@@ -180,21 +212,37 @@
 <!ENTITY netmonitorUI.timings.receive     "Iyamkela:">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.warning.protocol): A tooltip
   -  for warning icon that indicates a connection uses insecure protocol. -->
+
+<!ENTITY netmonitorUI.security.warning.sslv3      "Iprothokholi ye-SSL 3.0 yaliwe kwaye ayikhuselekanga.">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.warning.cipher): A tooltip
   -  for warning icon that indicates a connection uses insecure cipher suite. -->
+
+<!ENTITY netmonitorUI.security.warning.cipher     "I-cipher esetyenzisiweyo ukuzimelisa kwaye alikhuselekanga. ">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.error): This is the label displayed
   -  in the security tab if a security error prevented the connection. -->
+
+<!ENTITY netmonitorUI.security.error      "Kwenzeke imposiso:">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.protocolVersion): This is the label displayed
   -  in the security tab describing TLS/SSL protocol version. -->
+
+<!ENTITY netmonitorUI.security.protocolVersion "Inguqulelo yeprotokholi:">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.cipherSuite): This is the label displayed
   -  in the security tab describing the cipher suite used to secure this connection. -->
+
+<!ENTITY netmonitorUI.security.cipherSuite "I-cipher ye-suite:">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.hsts): This is the label displayed
   -  in the security tab describing the usage of HTTP Strict Transport Security. -->
+
+<!ENTITY netmonitorUI.security.hsts "I-HTTP ukhuseleko olungongqo lwesithuthi:">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.hpkp): This is the label displayed
   -  in the security tab describing the usage of Public Key Pinning. -->
+
+<!ENTITY netmonitorUI.security.hpkp "Iqhosha luka wonke wonke lwe-pinning:">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.connection): This is the label displayed
   -  in the security tab describing the section containing information related to
   -  the secure connection. -->
+
+<!ENTITY netmonitorUI.security.connection "Umdibaniso:">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.certificate): This is the label displayed
   -  in the security tab describing the server certificate section. -->
 
@@ -205,6 +253,8 @@
 <!ENTITY netmonitorUI.context.copyUrl     "Kopa i-URL">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrl.accesskey): This is the access key
   -  for the Copy URL menu item displayed in the context menu for a request -->
+
+<!ENTITY netmonitorUI.context.copyUrl.accesskey "U">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrlParams): This is the label displayed
   -  on the context menu that copies the selected request's url parameters -->
 
@@ -215,8 +265,12 @@
 <!ENTITY netmonitorUI.context.copyUrlParams.accesskey "P">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyPostData): This is the label displayed
   -  on the context menu that copies the selected request's post data -->
+
+<!ENTITY netmonitorUI.context.copyPostData     "Kopa ingcombolo ye-POST">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyPostData.accesskey): This is the access key
   -  for the Copy POST Data menu item displayed in the context menu for a request -->
+
+<!ENTITY netmonitorUI.context.copyPostData.accesskey "D">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyAsCurl): This is the label displayed
   -  on the context menu that copies the selected request as a cURL command.
   -  The capitalization is part of the official name and should be used throughout all languages.
@@ -249,30 +303,54 @@
 <!ENTITY netmonitorUI.context.copyResponse "Kopa Impendulo">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyRespose.accesskey): This is the access key
   -  for the Copy Response menu item displayed in the context menu for a request -->
+
+<!ENTITY netmonitorUI.context.copyResponse.accesskey  "R">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyImageAsDataUri): This is the label displayed
   -  on the context menu that copies the selected image as data uri -->
+
+<!ENTITY netmonitorUI.context.copyImageAsDataUri "Kopa umfanekiso njengengcombolo ye-URI">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyImageAsDataUri.accesskey): This is the access key
   -  for the Copy Image As Data URI menu item displayed in the context menu for a request -->
+
+<!ENTITY netmonitorUI.context.copyImageAsDataUri.accesskey  "I">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyAllAsHar): This is the label displayed
   -  on the context menu that copies all as HAR format -->
+
+<!ENTITY netmonitorUI.context.copyAllAsHar "Kopa zonke njenge-HAR">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyAllAsHar.accesskey): This is the access key
   -  for the Copy All As HAR menu item displayed in the context menu for a network panel -->
+
+<!ENTITY netmonitorUI.context.copyAllAsHar.accesskey "O">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.saveAllAsHar): This is the label displayed
   -  on the context menu that saves all as HAR format -->
+
+<!ENTITY netmonitorUI.context.saveAllAsHar "Gcina zonke njenge-HAR">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.saveAllAsHar.accesskey): This is the access key
   -  for the Save All As HAR menu item displayed in the context menu for a network panel -->
+
+<!ENTITY netmonitorUI.context.saveAllAsHar.accesskey "H">
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.editAndResend): This is the label displayed
   -  on the button in the headers tab that opens a form to edit and resend the currently
      displayed request -->
+
+<!ENTITY netmonitorUI.summary.editAndResend "Hlela ze uthumele kwakhona">
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.editAndResend.accesskey): This is the access key
   -  for the "Edit and Resend" menu item displayed in the context menu for a request -->
+
+<!ENTITY netmonitorUI.summary.editAndResend.accesskey "E">
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.rawHeaders): This is the label displayed
   -  on the button in the headers tab that toggle view for raw request/response headers
      from the currently displayed request -->
+
+<!ENTITY netmonitorUI.summary.rawHeaders "Izinto ezibhalwe emantla ephepha">
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.rawHeaders.requestHeaders): This is the label displayed
   -  in the network details headers tab identifying the raw request headers textarea -->
+
+<!ENTITY netmonitorUI.summary.rawHeaders.requestHeaders "Isicelo sokubhalwa emantla ephephaIsicelo:">
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.rawHeaders.responseHeaders): This is the label displayed
   -  in the network details headers tab identifying the raw response headers textarea -->
+
+<!ENTITY netmonitorUI.summary.rawHeaders.responseHeaders "Impendulo yombhalo ophezulu ephepheni">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.newTab):  This is the label
   -  for the Open in New Tab menu item displayed in the context menu of the
   -  network container  -->
@@ -281,6 +359,8 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.context.newTab.accesskey): This is the access key
   -  for the Open in New Tab menu item displayed in the context menu of the
   -  network container -->
+
+<!ENTITY netmonitorUI.context.newTab.accesskey "T">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.perfTools): This is the label displayed
   -  on the context menu that shows the performance analysis tools -->
 
@@ -307,6 +387,8 @@
 <!ENTITY netmonitorUI.custom.postData     "Isicelo sesiqu:">
 <!-- LOCALIZATION NOTE (netmonitorUI.custom.send): This is the label displayed
   -  on the button which sends the custom request -->
+
+<!ENTITY netmonitorUI.custom.send         "Thumela">
 <!-- LOCALIZATION NOTE (netmonitorUI.custom.cancel): This is the label displayed
   -  on the button which cancels and closes the custom request form -->
 

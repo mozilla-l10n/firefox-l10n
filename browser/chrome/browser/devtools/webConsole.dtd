@@ -62,7 +62,7 @@
 
 
 
-
+<!ENTITY btnConsoleXhr          "XHR">
 
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
