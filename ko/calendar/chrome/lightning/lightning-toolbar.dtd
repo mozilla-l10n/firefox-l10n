@@ -30,7 +30,7 @@
 <!ENTITY lightning.toolbar.newevent.label     "이벤트">
 <!ENTITY lightning.toolbar.newevent.tooltip   "새 이벤트 만들기">
 <!ENTITY lightning.toolbar.newtask.label      "태스크">
-<!ENTITY lightning.toolbar.newtask.tooltip    "새 태스크 만들기>
+<!ENTITY lightning.toolbar.newtask.tooltip    "새 태스크 만들기">
 
 <!-- Calendar and Task Mode Toolbar  -->
 <!ENTITY lightning.toolbar.day.label                 "일별">
