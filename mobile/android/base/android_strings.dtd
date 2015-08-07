@@ -8,7 +8,7 @@
 
 <!ENTITY  onboard_start_message3 "مرور با &brandShortName;">
 
-
+<!ENTITY  onboard_start_button_account "وارد شوید به ‪&brandShortName;">
 <!ENTITY  onboard_start_button_browser "شروع وب‌گردی">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
@@ -41,11 +41,13 @@
 
 <!ENTITY url_bar_default_text2 "جستجو کنید یا آدرسی را وارد کنید">
 
-
+<!ENTITY bookmark "نشانک">
+<!ENTITY bookmark_remove "حذف نشانک">
 <!ENTITY bookmark_added "نشانک اضافه شد">
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "به تازگی نشانک‌گذاری‌شده">
 <!ENTITY bookmark_removed "نشانک حذف گردید">
 <!ENTITY bookmark_updated "نشانک به‌روزرسانی شد">
 <!ENTITY bookmark_options "گزینه‌ها">
@@ -61,9 +63,9 @@
 <!ENTITY forward "جلو">
 <!ENTITY menu "منو">
 <!ENTITY back "عقب">
-
+<!ENTITY stop "توقف">
 <!ENTITY site_security "امنیت سایت">
-
+<!ENTITY edit_mode_cancel "انصراف">
 
 <!ENTITY close_tab "بستن زبانه">
 <!ENTITY one_tab "1 زبانه">
@@ -78,8 +80,8 @@
 <!ENTITY switch_button_message "تعویض">
 
 <!ENTITY settings "تنظیمات">
-
-
+<!ENTITY settings_title "تنظیمات">
+<!ENTITY pref_category_input_options "تنظیمات ورودی ">
 <!ENTITY pref_category_advanced "پیشرفته">
 <!ENTITY pref_category_customize "سفارشی‌سازی">
 
@@ -89,7 +91,7 @@
      UI. The locale includes both language and region concepts. -->
 
 <!ENTITY pref_category_language "زبان">
-
+<!ENTITY pref_category_language_summary "زبان مرورگر خود را تغییر دهید">
 <!ENTITY pref_browser_locale "زبان مرورگر">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
@@ -99,22 +101,29 @@
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
+
+<!ENTITY overlay_share_label "اضافه‌کردن به  &brandShortName;">
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
+
+<!ENTITY overlay_share_bookmark_btn_label "نشانک">
 <!ENTITY overlay_share_reading_list_btn_label "اضافه کردن به فهرست خواندنی‌ها">
-
-
-
+<!ENTITY overlay_share_bookmark_btn_label_already "به تازگی نشانک‌گذاری‌شده">
+<!ENTITY overlay_share_reading_list_btn_label_already "به تازگی در فهرست مطالعه قرار گرفته است">
+<!ENTITY overlay_share_send_other "ارسال به دستگاه‌های دیگر">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
 
+<!ENTITY overlay_share_send_tab_btn_label "ارسال به دستگاه‌های دیگر">
 
+<!ENTITY overlay_share_select_device "انتخاب‌دستگاه">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
+<!ENTITY overlay_no_synced_devices "هیچ حساب فایرفاکس متصل شده به این دستگاه پیدا نشد">
 <!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
      to send a tab to a synced device is pressed and there is an error
      connecting to the server so the tab could not be sent. The text should be
@@ -122,6 +131,7 @@
      them): the first notifying the user about the failure and the second
      telling the user what to do about it. -->
 
+<!ENTITY pref_category_search3 "جستجو">
 <!ENTITY pref_category_search_summary "جستجوگر خود را شخصی سازی نمایید">
 <!ENTITY pref_category_display "نمایش">
 
@@ -135,7 +145,7 @@
 <!ENTITY pref_category_add_search_providers "اضافه کردن بیشتر تامین‌کننده‌های جستجو">
 <!ENTITY pref_category_search_restore_defaults "بازآوری موتورهای جستجو">
 <!ENTITY pref_search_restore_defaults "بازگرداندن پیش‌فرض‌ها">
-
+<!ENTITY pref_search_restore_defaults_summary "بازگرداندن پیش‌فرض‌ها">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
@@ -143,14 +153,14 @@
      it is applicable. -->
 <!ENTITY pref_category_devtools "ابزارهای توسعه‌دهندگان">
 <!ENTITY pref_developer_remotedebugging "رفع‌اشکال از راه دور">
+<!ENTITY pref_category_logins "ورود">
 
-
-
-
+<!ENTITY pref_open_external_urls_privately_title "باز کردن پیوند در زبانه خصوصی">
+<!ENTITY pref_open_external_urls_privately_summary "برای تمامی پیوندهای خارجی که بازشده اند در &brandShortName;">
 
 
 <!ENTITY pref_category_home "خانه">
-
+<!ENTITY pref_category_home_summary "صفحه‌آغازین خود را شخصی سازی کنید">
 
 
 
@@ -535,6 +545,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
       via the search engine that uses the icon they clicked. This text is used
       for screen reader users when they hover each icon - &formatS; will be
       replaced with the name of the currently highlighted icon. -->
+<!ENTITY search_bar_item_desc "جست‌وجو برای &formatS;">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->

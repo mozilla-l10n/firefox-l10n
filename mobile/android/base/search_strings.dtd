@@ -4,16 +4,25 @@
 <!--  Localization note (search_bar_hint): The &formatS; will be replaced with the name of
       the currently selected search engine. -->
 
+<!ENTITY search_bar_hint "جست‌وجو برای &formatS;">
 
+<!ENTITY search_empty_title2 "آغاز جست‌وجو">
+<!ENTITY search_empty_message "جست‌وجو سریع برای هرچیزی که تمایل دارید">
 <!--  Localization note (search_plus_content_description): This is the content description
       for the "+" icon that appears at the end of search suggestions. -->
 
+<!ENTITY search_plus_content_description "اضافه کردن به نوار جست‌وجو">
 
+<!ENTITY search_pref_title "تنظیمات">
+<!ENTITY search_pref_button_content_description "تنظیمات">
 
+<!ENTITY pref_clearHistory_confirmation "تاریخچه پاک سازی شد.">
+<!ENTITY pref_clearHistory_dialogMessage " همه تاریخچه جست‌وجوها از این دستگاه پاک شود؟">
+<!ENTITY pref_clearHistory_title "پاک‌کردن تاریخچه جست‌وجو">
 
-
-
+<!ENTITY pref_searchProvider_title "موتور جست‌وجو">
 
 <!ENTITY search_widget_button_label "جستجو">
 
-
+<!ENTITY network_error_title "اتصال اینترنت در دسترس نیست.">
+<!ENTITY network_error_message "برای بررسی تنظیمات شبکه اینجا را فشاردهید.">
