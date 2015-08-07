@@ -47,6 +47,7 @@
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "ಈಗಾಗಲೇ ಪುಟ ಗುರುತು ಹಾಕಲಾಗಿದೆ">
 <!ENTITY bookmark_removed "ಬುಕ್‌ಮಾರ್ಕನ್ನು ತೆಗೆಯಲಾಗಿದೆ">
 <!ENTITY bookmark_updated "ಬುಕ್‌ಮಾರ್ಕ್ ಪರಿಷ್ಕರಿಸಲಾಗಿದೆ">
 <!ENTITY bookmark_options "ಆಯ್ಕೆಗಳು">
@@ -80,7 +81,7 @@
 
 <!ENTITY settings "ಸಿದ್ಧತೆಗಳು">
 <!ENTITY settings_title "ಸಿದ್ಧತೆಗಳು">
-
+<!ENTITY pref_category_input_options "ಇನ್‌ಪುಟ್ ಆಯ್ಕೆಗಳು">
 <!ENTITY pref_category_advanced "ಸುಧಾರಿತ">
 <!ENTITY pref_category_customize "ಇಚ್ಛೆಗೆ ತಕ್ಕಂತೆ ಬದಲಾಯಿಸು">
 <!ENTITY pref_category_customize_summary "ಮನೆ, ಹುಡುಕು, ಹಾಳೆಗಳು, ಆಮದುಮಾಡು">
@@ -108,7 +109,7 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "ಪುಟ ಗುರುತು">
 <!ENTITY overlay_share_reading_list_btn_label "ಒದು ಪಟ್ಟಿಗೆ ಸೇರಿಸಿ">
-
+<!ENTITY overlay_share_bookmark_btn_label_already "ಈಗಾಗಲೇ ಪುಟ ಗುರುತು ಹಾಕಲಾಗಿದೆ">
 <!ENTITY overlay_share_reading_list_btn_label_already "ಈಗಾಗಲೇ ಓದುತ್ತಿರುವ ಪಟ್ಟಿಯಲ್ಲಿದೆ">
 <!ENTITY overlay_share_send_other "ಇತರೆ ಸಾಧನಗಳಿಗೆ ಕಳುಹಿಸು">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -136,7 +137,7 @@
 <!ENTITY pref_category_display "ಪ್ರದರ್ಶಿಸು">
 <!ENTITY pref_category_display_summary "ಪಠ್ಯ, ಶೀರ್ಷಿಕೆ ಪಟ್ಟಿ, ಪೂರ್ಣ ಪರದೆ ಜಾಲಾಟ">
 <!ENTITY pref_category_privacy_short "ಗೌಪ್ಯತೆ">
-
+<!ENTITY pref_category_privacy_summary2 "ನಿಯಂತ್ರಣ ಲಾಗಿನ್‌ಗಳು, ಕುಕೀಗಳು, ಜಾಡು ಇರಿಸುವಿಕೆ, ದತ್ತಾಂಶ">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "&brandShortName;,FAQs, ಡೇಟಾ ಆಯ್ಕೆಗಳು ಬಗ್ಗೆ">
 <!ENTITY pref_category_datareporting "ದತ್ತಾಂಶ ಆಯ್ಕೆಗಳು">
@@ -155,9 +156,9 @@
 <!ENTITY pref_category_devtools "ವಿಕಸನಾ ಉಪಕರಣಗಳು">
 <!ENTITY pref_developer_remotedebugging "ರಿಮೋಟ್ ಡೀಬಗ್ಗಿಂಗ್">
 <!ENTITY pref_category_logins "ಲಾಗಿನ್‌ಗಳು">
-
-
-
+<!ENTITY pref_remember_signons2 "ಲಾಗಿನ್‌ಗಳನ್ನು ನೆನಪಿಡಿ">
+<!ENTITY pref_open_external_urls_privately_title "ಕೊಂಡಿಗಳನ್ನು ಖಾಸಗಿ ಹಾಳೆಯಲ್ಲಿ ತೆರೆ">
+<!ENTITY pref_open_external_urls_privately_summary "&brandShortName; ನಲ್ಲಿ ತೆರೆಯಲಾದ ಎಲ್ಲ ಬಾಹ್ಯ ಕೊಂಡಿಗಳು">
 <!ENTITY pref_manage_logins "ಲಾಗಿನ್‌ಗಳನ್ನು ನಿರ್ವಹಿಸಿ">
 
 <!ENTITY pref_category_home "ನೆಲೆ">
@@ -195,9 +196,10 @@
 <!ENTITY pref_donottrack_title "ಜಾಡು ಇರಿಸಬೇಡ">
 <!ENTITY pref_donottrack_summary "&brandShortName; ನಿಮ್ಮ ಜಾಡನ್ನು ಇರಿಸದಂತೆ ಜಾಲಗಳಿಗೆ ತಿಳಿಸುತ್ತದೆ">
 
+<!ENTITY tab_queue_toast_message3 "&brandShortName; ನಲ್ಲಿ ಹಾಳೆಗಳನ್ನು ಉಳಿಸಲಾಗಿದೆ">
 <!ENTITY tab_queue_toast_action "ಈಗ ತೆಗೆ">
 <!ENTITY tab_queue_prompt_title "ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ಕೊಂಡಿಗಳನ್ನು ತೆರೆಯುತ್ತಿದ್ದೀರಾ?">
-
+<!ENTITY tab_queue_prompt_text3 "‍‍ಮುಂದಿನ ಬಾರಿ ‍‍&brandShortName; ತೆರೆಯುವವರೆಗೂ ಉಳಿಸು">
 <!ENTITY tab_queue_prompt_tip_text "ನೀವು ಇದನ್ನು ನಂತರ ಸಿದ್ದತೆಗಳಲ್ಲಿ ಬದಲಾಯಿಸಬಹುದು">
 <!ENTITY tab_queue_prompt_positive_action_button "ಸಕ್ರಿಯಗೊಳಿಸು">
 <!ENTITY tab_queue_prompt_negative_action_button "ಈಗ ಬೇಡ">
@@ -249,9 +251,9 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled_summary "ಜಾಲತಾಣಗಳು ಸ್ವಯಂ ವೀಡಿಯೊ ಮತ್ತು ಇತರೆ ಮೀಡಿಯಾ ವಿಷಯಗಳನ್ನು ಪ್ಲೇ ಮಾಡುತ್ತಿದ್ದಲ್ಲಿ ನಿಯಂತ್ರಿಸಿ">
 <!ENTITY pref_zoom_force_enabled "ಜೂಮ್‌ ಅನ್ನು ಯಾವಾಗಲೂ ಸಕ್ರಿಯವಾಗಿರಿಸು">
 <!ENTITY pref_zoom_force_enabled_summary "ಯಾವುದೇ ಪುಟವನ್ನು ಜೂಮ್ ಮಾಡುವಂತಾಗಲು ಆದೇಶವನ್ನು ದಾಟಿ">
-
-
-
+<!ENTITY pref_voice_input "‍‍ಧ್ವನಿಯ ಇನ್‌ಪುಟ್">
+<!ENTITY pref_voice_input_summary "‍‍‍‍ಶೀರ್ಷಿಕೆ ಪಟ್ಟಿಯಲ್ಲಿ ಧ್ವನಿ ಉತ್ಕಲೇಖನವನ್ನು ಅನುಮತಿಸು">
+<!ENTITY pref_qrcode_enabled "QR ಸಂಕೇತ ಓದುಗ">
 
 
 <!ENTITY pref_use_master_password "ಮುಖ್ಯ ಗುಪ್ತಪದವನ್ನು ಬಳಸು">
@@ -391,8 +393,8 @@ size. -->
 <!ENTITY doorhanger_login_edit_toast_error "ಒಳಗೆ ಪ್ರವೇಶಿಸಲು ವಿಫಲವಾಗಿದೆ">
 
 
-
-
+<!ENTITY doorhanger_login_select_toast_copy_error "‍ಗುಪ್ತಪದವನ್ನು ಪ್ರತಿ ಮಾಡಲು ಆಗಲಿಲ್ಲ">
+<!ENTITY doorhanger_login_select_action_text "‍ಇನ್ನೊಂದು ಲಾಗಿನ್ ಅನ್ನು ‍ಆರಿಸಿ">
 
 
 <!ENTITY pref_titlebar_mode "ಶೀರ್ಷಿಕೆ ಪಟ್ಟಿ">
