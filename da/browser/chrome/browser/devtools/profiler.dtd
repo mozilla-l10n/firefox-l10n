@@ -130,17 +130,23 @@
 <!ENTITY profilerUI.enableMemory             "Optag hukommmelse">
 <!ENTITY profilerUI.enableMemory.tooltiptext "Optag hukommelsesforbrug under profilering.">
 
+<!-- LOCALIZATION NOTE (profilerUI.enableAllocations): This string
+  -  is displayed next to a checkbox determining whether or not allocation
+  -  measurements are enabled. -->
+<!ENTITY profilerUI.enableAllocations             "Optag allokationer">
+<!ENTITY profilerUI.enableAllocations.tooltiptext "Optag object-allokationer under profilering.">
+
 <!-- LOCALIZATION NOTE (profilerUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
 <!ENTITY profilerUI.enableFramerate             "Optag framerate">
 <!ENTITY profilerUI.enableFramerate.tooltiptext "Optag framerate under profilering.">
 
-<!-- LOCALIZATION NOTE (profilerUI.showJITOptimizations): This string
+<!-- LOCALIZATION NOTE (profilerUI.enableJITOptimizations): This string
   -  is displayed next to a checkbox determining whether or not JIT optimization data
-  -  should be shown. -->
-<!ENTITY profilerUI.showJITOptimizations             "Vis JIT-optimeringer">
-<!ENTITY profilerUI.showJITOptimizations.tooltiptext "Show JIT optimization data sampled in each frame of the JS call tree.">
+  -  should be recorded. -->
+<!ENTITY profilerUI.enableJITOptimizations             "Optag JIT-optimeringer">
+<!ENTITY profilerUI.enableJITOptimizations.tooltiptext "Optag JIT-optimeringer i data sampled i hver JavaScript-frame.">
 
 <!-- LOCALIZATION NOTE (profilerUI.JITOptimizationsTitle): This string
   -  is displayed as the title of the JIT Optimizations panel. -->
