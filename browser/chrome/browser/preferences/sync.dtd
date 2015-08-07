@@ -9,7 +9,6 @@
 <!ENTITY resetPass.label "Azzera">
 <!ENTITY manageAccount.label "Gestione account">
 <!ENTITY manageAccount.accesskey "a">
-<!ENTITY viewQuota.label "Visualizza quota">
 <!ENTITY changePassword2.label "Cambia la password…">
 <!ENTITY myRecoveryKey.label "Chiave di ripristino">
 <!ENTITY resetSync2.label "Ripristina Sync…">
