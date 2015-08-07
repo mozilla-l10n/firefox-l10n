@@ -14,6 +14,7 @@
 <!ENTITY debuggerUI.autoPrettyPrint "Automatyczne poprawianie czytelności">
 <!ENTITY debuggerUI.autoPrettyPrint.accesskey "A">
 <!ENTITY debuggerUI.sources.toggleBreakpoints "Włącza/wyłącza wszystkie punkty wstrzymania">
+<!ENTITY debuggerUI.sources.togglePromiseDebugger "Przełącza debugowanie obiektów Promise">
 <!ENTITY debuggerUI.startTracing "Rozpocznij śledzenie">
 <!ENTITY debuggerUI.clearButton "Wyczyść">
 <!ENTITY debuggerUI.clearButton.tooltip "Wyczyści zebrane ślady">
