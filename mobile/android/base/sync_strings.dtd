@@ -205,8 +205,8 @@
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: مُفعّل">
 <!ENTITY fxaccount_status_needs_verification2 "يحتاج حسابك للتأكيد. انقر لإعادة إرسال بريد التأكيد.">
-<!ENTITY fxaccount_status_needs_credentials "تعذر الاتصال. انقر لتسجيل الدخول.">
-<!ENTITY fxaccount_status_needs_upgrade "تحتاج لترقية &brandShortName; لتتمكن من تسجيل الدخول.">
+<!ENTITY fxaccount_status_needs_credentials "تعذّر الاتصال. انقر للولوج.">
+<!ENTITY fxaccount_status_needs_upgrade "عليك ترقية &brandShortName; لتتمكّن من الولوج.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "‏&syncBrand.shortName.label; مُعدّ، لكن لا يُزامن تلقائيًا. انقر على ”مزامنة البيانات تلقائيًا“ في إعدادات أندرويد ← استخدام البيانات.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "‏&syncBrand.shortName.label; مُعدّ، لكن لا يُزامن تلقائيًا. انقر على ”مزامنة البيانات تلقائيًا“ في قائمة إعدادات أندرويد ← الحسابات.">
 <!ENTITY fxaccount_status_needs_finish_migrating "انقر للولوج إلى حساب فَيَرفُكس الجديد.">
@@ -262,9 +262,9 @@
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "‏&syncBrand.shortName.label; غير متّصل">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "انقر لتسجيل الدخول باسم &formatS;">
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "انقر للولوج باسم &formatS;">
 
 <!ENTITY fxaccount_sync_finish_migrating_notification_title "أتريد إنهاء ترقية &syncBrand.shortName.label;؟">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_finish_migrating_notification_text "انقر لتسجيل الدخول باسم &formatS;">
+<!ENTITY fxaccount_sync_finish_migrating_notification_text "انقر للولوج باسم &formatS;">
