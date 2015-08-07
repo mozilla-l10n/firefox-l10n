@@ -395,7 +395,7 @@ size. -->
 <!ENTITY doorhanger_login_select_toast_copy "پاس ورڈ تختہ تراشہ پر نقل شدہ">
 <!ENTITY doorhanger_login_select_toast_copy_error "پاس ورڈ نقل نہیں کر سکا">
 <!ENTITY doorhanger_login_select_action_text "کوئی اور لاگ ان چنیں">
-
+<!ENTITY doorhanger_login_select_title "پاس ورڈ نقل کریں">
 
 <!ENTITY pref_titlebar_mode "عنوان بار">
 <!ENTITY pref_titlebar_mode_title "صفحہ عنوان دکھائیں">
@@ -406,6 +406,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "پوری سکرین براؤزنگ">
 <!ENTITY pref_scroll_title_bar_summary "صفحے پر نیچے جاتے وقت &brandShortName; کا عنوان بار چھپائیں">
 
+<!ENTITY pref_tab_queue_title2 "متعدد روابط کھولیں">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
