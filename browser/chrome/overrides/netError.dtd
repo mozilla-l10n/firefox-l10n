@@ -168,4 +168,5 @@ functionality specific to firefox. -->
 <!ENTITY sslv3Used.title "सुरक्षित रूप से कनेक्ट करने में असमर्थ">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "ssl_error_unsupported_version". -->
+<!ENTITY sslv3Used.longDesc "उन्नत जानकारी: ssl_error_unsupported_version">
 <!ENTITY sslv3Used.learnMore "अधिक जानें…">

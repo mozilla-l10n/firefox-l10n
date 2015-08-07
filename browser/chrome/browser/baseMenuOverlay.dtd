@@ -25,8 +25,8 @@
 
 <!ENTITY helpSafeMode.label       "सहयुक्तियों के साथ फिर आरंभ करना निष्क्रिय…">
 <!ENTITY helpSafeMode.accesskey   "R">
-
-
+<!ENTITY helpSafeMode.stop.label       "ऐड-ऑन सक्षम के साथ फिर आरंभ करे">
+<!ENTITY helpSafeMode.stop.accesskey   "आ">
 
 <!ENTITY healthReport2.label      "&brandShorterName; स्वास्थ्य रिपोर्ट">
 <!ENTITY healthReport2.accesskey  "e">
