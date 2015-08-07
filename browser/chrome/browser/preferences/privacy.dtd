@@ -23,6 +23,8 @@
 <!ENTITY locbar.openpage.accesskey "d">
 <!ENTITY locbar.searches.label "ricerche correlate dal motore di ricerca predefinito">
 <!ENTITY locbar.searches.accesskey "h">
+<!ENTITY  suggestionSettings.label "Modifica le impostazioni relative ai suggerimenti dei motori di ricerca…">
+<!ENTITY  suggestionSettings.accesskey "g">
 <!ENTITY acceptCookies.label "Accetta i cookie dai siti">
 <!ENTITY acceptCookies.accesskey "k">
 <!ENTITY acceptThirdParty.pre.label "Accetta i cookie di terze parti:">
