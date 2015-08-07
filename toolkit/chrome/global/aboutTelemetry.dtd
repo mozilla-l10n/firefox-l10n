@@ -9,17 +9,26 @@
 
 
 
+<!ENTITY aboutTelemetry.pingDataSource "ದತ್ತಾಂಶ ಮೂಲವನ್ನು ಪಿಂಗ್ ಮಾಡಿ:">
+
+<!ENTITY aboutTelemetry.showCurrentPingData "ಪ್ರಸ್ತುತ ಪಿಂಗ್ ದತ್ತಾಂಶ">
+
+<!ENTITY aboutTelemetry.showArchivedPingData "ಸಂಗ್ರಹಿಸಿದ ಪಿಂಗ್ ದತ್ತಾಂಶ">
 
 
+<!ENTITY aboutTelemetry.choosePing "ಪಿಂಗ್ ಆಯ್ಕೆ ಮಾಡು:">
 
+<!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; ನೂತನ ಪಿಂಗ್">
 
+<!ENTITY aboutTelemetry.showOlderPing "ಹಳೆಯ ಪಿಂಗ್ &gt;&gt;">
 
+<!ENTITY aboutTelemetry.archiveWeekHeader "ವಾರ">
 
-
-
+<!ENTITY aboutTelemetry.archivePingHeader "ಪಿಂಗ್">
 
 <!ENTITY aboutTelemetry.generalDataSection "  ಸಾಮಾನ್ಯ ದತ್ತಾಂಶ">
 
+<!ENTITY aboutTelemetry.environmentDataSection "  ಪರಿಸರ ದತ್ತಾಂಶ">
 
 <!ENTITY aboutTelemetry.telemetryLogSection "  ಟೆಲಿಮೆಟ್ರಿ ದಿನಚರಿ">
 

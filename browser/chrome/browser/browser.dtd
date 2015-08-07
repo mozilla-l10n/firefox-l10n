@@ -303,7 +303,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "ಹೊಸ ಖಾಸಗಿ ಕಿಟಕಿ">
 <!ENTITY newPrivateWindow.accesskey "W">
-
+<!ENTITY newNonRemoteWindow.label   "ಹೊಸ Non-e10s ಕಿಟಕಿ">
 
 <!ENTITY editMenu.label         "ಸಂಪಾದನೆ"> 
 <!ENTITY editMenu.accesskey       "E"> 
@@ -672,9 +672,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label                   "ರದ್ದುಗೊಳಿಸು">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
+<!ENTITY identity.connectionSecure "ಸುರಕ್ಷಿತ ಸಂಪರ್ಕ">
+<!ENTITY identity.connectionNotSecure "ಸಂಪರ್ಕವು ಸುರಕ್ಷಿತವಾಗಿಲ್ಲ">
 
-
-
+<!ENTITY identity.connectionInternal "ಇದು ಸುರಕ್ಷಿತ &brandShortName; ಪುಟ">
 
 
 <!ENTITY identity.permissions "ಅನುಮತಿಗಳು">
@@ -850,6 +851,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY readingList.sidebar.add.tooltip          "ಈ ಪುಟವನ್ನು ನಿಮ್ಮ ಓದುವ ಪಟ್ಟಿಗೆ ಸೇರಿಸು">
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 
-
-
-
+<!ENTITY saveToPocketCmd.label     "Pocketಗೆ ಪುಟವನ್ನು ಉಳಿಸಿ">
+<!ENTITY saveToPocketCmd.accesskey "k">
+<!ENTITY saveLinkToPocketCmd.label     "ಕೊಂಡಿಯನ್ನು ಪಾಕೆಟ್‌ಗೆ ಉಳಿಸಿ">
+<!ENTITY saveLinkToPocketCmd.accesskey "o">
+<!ENTITY pocketMenuitem.label      "ಪಾಕೆಟ್ ಪಟ್ಟಿಯನ್ನು ನೋಡಿ">
