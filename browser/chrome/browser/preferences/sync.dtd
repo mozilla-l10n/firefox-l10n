@@ -57,7 +57,7 @@
 <!ENTITY signedOut.accountBox.title "Connetti &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create "Crea un account">
 <!ENTITY signedOut.accountBox.signin "Accedi">
-<!ENTITY signedIn.engines.caption "Sincronizza attraverso i dispositivi">
+<!ENTITY signedIn.engines.label "Sincronizza attraverso i dispositivi">
 <!ENTITY mobilePromo.start "Scarica Firefox per ">
 <!ENTITY mobilePromo.androidLink "Android™">
 <!ENTITY mobilePromo.end " per effettuare la sincronizzazione con dispositivi mobile.">
