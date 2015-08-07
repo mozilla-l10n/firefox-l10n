@@ -459,6 +459,7 @@
 <!ENTITY closeCmd.label "Chiudi">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "C">
+<!ENTITY toggleMuteCmd.key "M">
 <!ENTITY pageStyleMenu.label "Stile pagina">
 <!ENTITY pageStyleMenu.accesskey "a">
 <!ENTITY pageStyleNoStyle.label "Nessuno stile">
