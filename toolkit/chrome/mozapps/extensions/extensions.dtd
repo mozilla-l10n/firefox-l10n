@@ -23,7 +23,8 @@
 <!ENTITY cmd.back.tooltip                     "Mergi cu o pagină în urmă">
 <!ENTITY cmd.forward.tooltip                  "Mergi cu o pagină înainte">
 
-
+<!ENTITY showUnsignedExtensions.button.label  "Unele extensii nu au putut fi verificate">
+<!ENTITY showAllExtensions.button.label       "Arată toate extensiile">
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Toate suplimentele sunt dezactivate în modul de siguranță.">
@@ -104,8 +105,8 @@
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Elimină">
 <!ENTITY cmd.uninstallAddon.accesskey         "E">
-
-
+<!ENTITY cmd.debugAddon.label                 "Depanare">
+<!ENTITY cmd.debugAddon.accesskey             "n">
 <!ENTITY cmd.showPreferencesWin.label         "Opțiuni">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Schimbă opțiunile acestui supliment">
 <!ENTITY cmd.showPreferencesUnix.label        "Preferințe">
@@ -235,9 +236,11 @@ cele mai utilizate și populare extensii pentru a vă permite să le încercați
 
 <!ENTITY setting.learnmore "Aflați mai multe…">
 
+<!ENTITY disabledUnsigned.heading "Unele suplimente au fost dezactivate">
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+<!ENTITY disabledUnsigned.description.start "Următoarele suplimente nu au fost verificate pentru a fi folosite în &brandShortName;. Poți ">
 
 
 
@@ -245,4 +248,4 @@ cele mai utilizate și populare extensii pentru a vă permite să le încercați
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
 
-
+<!ENTITY disabledUnsigned.devInfo.end ".">

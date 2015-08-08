@@ -42,8 +42,8 @@
 
 <!ENTITY syncDeviceName.label       "Numele dispozitivului:">
 <!ENTITY syncDeviceName.accesskey   "d">
-
-
+<!ENTITY fxaSyncDeviceName.label       "Numele dispozitivului">
+<!ENTITY changeSyncDeviceName.label "Schimbă numele dispozitivului…">
 <!ENTITY cancelChangeSyncDeviceName.label "Renunță">
 <!ENTITY saveChangeSyncDeviceName.label "Salvează">
 <!ENTITY unlinkDevice.label           "Dezasociază acest dispozitiv">

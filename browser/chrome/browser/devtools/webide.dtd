@@ -201,7 +201,7 @@
 <!ENTITY simulator_remove "Șterge simulatorul">
 <!ENTITY simulator_reset "Restaurează setările implicite">
 <!ENTITY simulator_name "Nume">
-
+<!ENTITY simulator_software "Software">
 <!ENTITY simulator_version "Versiune">
 <!ENTITY simulator_profile "Profil">
 <!ENTITY simulator_hardware "Hardware">

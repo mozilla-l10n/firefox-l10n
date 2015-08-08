@@ -42,8 +42,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY textReset.commandkey "0">
 <!ENTITY textReset.commandkey2 "">
 
-<!ENTITY goToLineCmd.label "Salt la linia…">
-<!ENTITY goToLineCmd.accesskey "S">
+<!ENTITY goToLineCmd.label "Mergi la linia…">
+<!ENTITY goToLineCmd.accesskey "g">
 <!ENTITY goToLineCmd.commandkey "l">
 
 <!ENTITY viewMenu.label           "Vizualizare">
