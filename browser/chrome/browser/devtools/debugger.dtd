@@ -16,6 +16,10 @@
 <!ENTITY debuggerUI.startTracing "Avvia tracciamento">
 <!ENTITY debuggerUI.clearButton "Cancella">
 <!ENTITY debuggerUI.clearButton.tooltip "Cancella le tracce raccolte">
+<!ENTITY debuggerUI.pauseExceptions "Metti in pausa su eccezioni">
+<!ENTITY debuggerUI.pauseExceptions.accesskey "M">
+<!ENTITY debuggerUI.ignoreCaughtExceptions "Ignora eccezioni individuate">
+<!ENTITY debuggerUI.ignoreCaughtExceptions.accesskey "z">
 <!ENTITY debuggerUI.showPanesOnInit "Visualizza pannelli all’avvio">
 <!ENTITY debuggerUI.showPanesOnInit.accesskey "n">
 <!ENTITY debuggerUI.showVarsFilter "Visualizza sezione filtro variabili">
