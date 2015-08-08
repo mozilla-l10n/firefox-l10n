@@ -12,3 +12,4 @@
 <!ENTITY showAllUnreadMessagesCount.accesskey "u">
 <!ENTITY dockIconBadge.label "Insignia del icono de la aplicación">
 <!ENTITY dockIconShow.label "Icono insignia de aplicación con:">
+<!ENTITY directNotificationSettings.label "Puede desactivar la insignia en el panel Notificaciones de las preferencias del sistema.">
