@@ -132,7 +132,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchLine): This is the text that appears
   -  in the source editor's context menu for the line search operation. -->
-<!ENTITY debuggerUI.searchGoToLine           "Skoči na vrstico …">
+<!ENTITY debuggerUI.searchGoToLine           "Pojdi v vrstico …">
 <!ENTITY debuggerUI.searchGoToLine.key       "V">
 <!ENTITY debuggerUI.searchGoToLine.accesskey "L">
 
@@ -165,6 +165,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
+<!ENTITY debuggerUI.tabs.workers        "Workerji">
 <!ENTITY debuggerUI.tabs.sources        "Viri">
 <!ENTITY debuggerUI.tabs.traces         "Sledi">
 <!ENTITY debuggerUI.tabs.callstack      "Sklad klica">
