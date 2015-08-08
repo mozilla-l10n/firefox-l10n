@@ -495,6 +495,24 @@
 <!ENTITY identity.connectionFile "Questa pagina è salvata sul dispositivo in uso.">
 <!ENTITY identity.connectionVerified "La sicurezza della connessione è stata verificata da &brandShortName;. Il sito è gestito da:">
 <!ENTITY identity.connectionInternal "Questa è una pagina sicura di &brandShortName;.">
+<!ENTITY identity.activeBlocked "Alcuni elementi non sicuri di questa pagina sono stati bloccati da &brandShortName;.">
+<!ENTITY identity.passiveLoaded "Alcuni elemementi di questa pagina non sono sicuri (ad esempio immagini).">
+<!ENTITY identity.activeLoaded "La protezione è disattivata per questa pagina.">
+<!ENTITY identity.weakEncryption "Questa pagina utilizza una cifratura debole.">
+<!ENTITY identity.description.insecure "La connessione con questo sito non è privata. Le informazioni inviate, come ad esempio password, messaggi, dati delle carte di credito, ecc. potrebbero essere visibili ad altri soggetti.">
+<!ENTITY identity.description.weakCipher "La connessione con questo sito web utilizza una cifratura debole e non è privata.">
+<!ENTITY identity.description.weakCipher2 "Altri soggetti potrebbero visualizzare le informazioni trasmesse o modificare il comportamento del sito.">
+<!ENTITY identity.description.activeBlocked "Alcuni elementi non sicuri di questa pagina sono stati bloccati da &brandShortName;.">
+<!ENTITY identity.description.passiveLoaded "La connessione non è privata e le informazioni trasmesse al sito potrebbero essere visibili ad altri soggetti.">
+<!ENTITY identity.description.passiveLoaded2 "Alcuni elemementi di questo sito web non sono sicuri (ad esempio immagini).">
+<!ENTITY identity.description.passiveLoaded3 "Nonostante alcuni elementi siano stati bloccati da &brandShortName;, in questa pagina sono ancora presenti elementi non sicuri (ad esempio immagini).">
+<!ENTITY identity.description.activeLoaded "La connessione con questo sito web non è sicura in quanto presenta contenuti non sicuri (ad esempio script).">
+<!ENTITY identity.description.activeLoaded2 "Le informazioni inviate, come ad esempio password, messaggi, dati delle carte di credito, ecc. potrebbero essere visibili ad altri soggetti.">
+<!ENTITY identity.enableMixedContentBlocking.label "Attiva protezione">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "A">
+<!ENTITY identity.disableMixedContentBlocking.label "Disattiva temporaneamente protezione">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "D">
+<!ENTITY identity.learnMore "Ulteriori informazioni">
 <!ENTITY identity.moreInfoLinkText2 "Ulteriori informazioni">
 <!ENTITY identity.permissions "Permessi">
 <!ENTITY tabsToolbar.label "Schede del browser">
