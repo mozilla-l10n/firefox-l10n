@@ -776,9 +776,10 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY mixedContentBlocked2.disabled.message "La protection est désactivée">
 
 <!ENTITY trackingProtection.title "Protection contre le pistage">
-<!ENTITY trackingProtection.detectedBlocked2 "&brandShortName; a bloqué des tentatives de pistage de votre navigation.">
-<!ENTITY trackingProtection.detectedNotBlocked2 "Ce site comporte du contenu qui piste votre navigation. Vous avez désactivé la protection.">
-<!ENTITY trackingProtection.notDetected2 "Ce site ne comporte pas de contenu qui piste votre navigation.">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; a bloqué des éléments de la page qui peuvent pister votre navigation.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "Ce site possède des éléments qui peuvent pister votre navigation. Vous avez désactivé la protection.">
+<!ENTITY trackingProtection.notDetected3 "Aucun élément de pistage détecté sur cette page.">
+
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
