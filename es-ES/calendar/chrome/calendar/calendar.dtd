@@ -202,7 +202,8 @@
 <!ENTITY calendar.context.export.accesskey "E">
 <!ENTITY calendar.context.properties.label "Propiedades">
 <!ENTITY calendar.context.properties.accesskey "P">
-<!ENTITY calendar.context.togglevisible.accesskey "l">
+<!ENTITY calendar.context.showcalendar.accesskey "M">
+<!ENTITY calendar.context.hidecalendar.accesskey "M">
 <!ENTITY calendar.context.showonly.accesskey "O">
 <!ENTITY calendar.context.showall.label "Mostrar todos los calendarios">
 <!ENTITY calendar.context.showall.accesskey "i">
