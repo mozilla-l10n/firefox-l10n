@@ -8,6 +8,7 @@
 <!ENTITY onboard_start_subtext3 "Haga realmente suya su experiencia de navegación web móvil.">
 <!ENTITY onboard_start_button_account "Iniciar sesión en &brandShortName;">
 <!ENTITY onboard_start_button_browser "Comenzar a navegar">
+<!ENTITY onboard_start_restricted "Permanezca seguro y con control con esta versión simplificada de Firefox.">
 <!ENTITY bookmarks_title "Marcadores">
 <!ENTITY history_title "Historial">
 <!ENTITY reading_list_title "Lista de lectura">
@@ -51,6 +52,8 @@
 <!ENTITY site_security "Seguridad del sitio">
 <!ENTITY edit_mode_cancel "Cancelar">
 <!ENTITY close_tab "Cerrar pestaña">
+<!ENTITY tab_audio_playing "Esta pestaña está reproduciendo audio">
+<!ENTITY tab_audio_muted "Esta pestaña ha sido silenciada">
 <!ENTITY one_tab "1 pestaña">
 <!ENTITY num_tabs2 "&formatD; pestañas">
 <!ENTITY new_tab_opened "Pestaña nueva abierta">
@@ -286,6 +289,8 @@
 <!ENTITY pref_titlebar_mode "Barra de título">
 <!ENTITY pref_titlebar_mode_title "Mostrar el título de la página">
 <!ENTITY pref_titlebar_mode_url "Mostrar la dirección de la página">
+<!ENTITY pref_prevent_magnifying_glass "Desactivar lupa de aumento">
+<!ENTITY pref_prevent_magnifying_glass_summary "Impedir que la lupa se use para resolver los toques en pantalla ambiguos">
 <!ENTITY pref_scroll_title_bar2 "Navegación en pantalla completa">
 <!ENTITY pref_scroll_title_bar_summary "Ocultar la barra de título de &brandShortName; al bajar por una página">
 <!ENTITY pref_tab_queue_title2 "Abrir múltiples enlaces">
@@ -357,18 +362,20 @@
 <!ENTITY filepicker_image_title "Elegir o tomar una foto">
 <!ENTITY filepicker_video_title "Elegir o grabar un vídeo">
 <!ENTITY identity_connected_to "Está conectado a">
-<!ENTITY identity_run_by "que pertenece a">
-<!ENTITY identity_no_info "Este sitio web no proporciona información de identidad.">
-<!ENTITY identity_not_encrypted "La conexión a este sitio web no está cifrada.">
-<!ENTITY identity_encrypted "Cifrado">
+<!ENTITY identity_connection_secure "Conexión segura">
+<!ENTITY identity_connection_insecure "Conexión insegura">
+<!ENTITY mixed_content_blocked_all "&brandShortName; ha bloqueado elementos inseguros en esta página.">
+<!ENTITY mixed_content_blocked_some "&brandShortName; ha bloqueado algunos elementos inseguros en esta página.">
+<!ENTITY mixed_content_display_loaded "Esta página tiene algunos elementos inseguros.">
+<!ENTITY mixed_content_protection_disabled "Ha desactivado la protección contra elementos inseguros.">
 <!ENTITY loaded_mixed_content_message "Esta página está mostrando contenido que no es seguro.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; ha bloqueado contenido que no es seguro.">
 <!ENTITY blocked_mixed_content_message_bottom "La mayoría de los sitios web funcionan correctamente incluso con este contenido bloqueado.">
 <!ENTITY doorhanger_tracking_title "Protección contra rastreo">
 <!ENTITY doorhanger_tracking_state_enabled "Activado">
 <!ENTITY doorhanger_tracking_state_disabled "Desactivado">
-<!ENTITY doorhanger_tracking_message_enabled "Bloqueando elementos de rastreo que podrían afectar a su experiencia de navegación.">
-<!ENTITY doorhanger_tracking_message_disabled "Los intentos de rastrear su comportamiento en línea no se están bloqueando.">
+<!ENTITY doorhanger_tracking_message_enabled1 "Los intentos de rastrear su comportamiento en Internet han sido bloqueado.">
+<!ENTITY doorhanger_tracking_message_disabled2 "Esta página incluye elementos que pueden rastrear su navegación.">
 <!ENTITY learn_more "Saber más">
 <!ENTITY enable_protection "Activar protección">
 <!ENTITY disable_protection "Desactivar protección">
@@ -417,3 +424,13 @@
 <!ENTITY find_matchcase "Aa">
 <!ENTITY intent_uri_cannot_open "No se puede abrir el enlace">
 <!ENTITY devtools_auth_scan_header "Escaneando el código QR mostrado en su otro dispositivo">
+<!ENTITY restriction_disallow_import_settings_title2 "Desactivar \'Importar desde Android'\">
+<!ENTITY restriction_disallow_addons_title2 "Desactivar instalación de complementos">
+<!ENTITY restriction_disallow_devtools_title2 "Desactivar herramientas de desarrollador">
+<!ENTITY restriction_disallow_customize_home_title2 "Desactivar personalización de inicio">
+<!ENTITY restriction_disallow_private_browsing_title2 "Desactivar navegación privada">
+<!ENTITY restriction_disallow_location_services_title2 "Desactivar servicios de localización">
+<!ENTITY restriction_disallow_display_settings_title2 "Desactivar ajustes de visualización">
+<!ENTITY restriction_disallow_clear_history_title2 "Desactivar \'Limpiar historial de navegación\'">
+<!ENTITY restriction_disallow_master_password_title2 "Desactivar contraseña maestra">
+<!ENTITY restriction_disallow_guest_browsing_title2 "Desactivar navegación de invitado">
