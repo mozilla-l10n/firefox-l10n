@@ -4,6 +4,7 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Date telemetrice">
 
+<!ENTITY aboutTelemetry.changeDataChoices "  Modifică">
 
 
 
@@ -16,7 +17,9 @@
 
 
 
+<!ENTITY aboutTelemetry.archiveWeekHeader "Săptămână">
 
+<!ENTITY aboutTelemetry.archivePingHeader "Ping">
 
 <!ENTITY aboutTelemetry.generalDataSection "  Date generale">
 
