@@ -162,12 +162,6 @@
 <!ENTITY options.disableCache.label2     "Çaktivizoni Fshehtinën (kur paneli është i hapur)">
 <!ENTITY options.disableCache.tooltip2   "Vënia në punë e kësaj mundësie do të çaktivizojë fshehtinën për krejt skedat që e kanë panelin hapur.">
 
-<!-- LOCALIZATION NOTE (options.enableServiceWorkersTesting.label,
-  -  options.enableServiceWorkersTesting.tooltip): This is the options panel label and
-  -  tooltip for the checkbox that toggles the service workers testing features on or off. -->
-<!ENTITY options.enableServiceWorkersTesting.label     "Aktivizoni veçoritë për testim të Service Workers (kur grupi i mjeteve është i hapur)">
-<!ENTITY options.enableServiceWorkersTesting.tooltip   "Vënia në punë e kësaj mundësie do të aktivizojë veçoritë për testim të service workers për krejt skedat që e kanë të hapur grupin e mjeteve.">
-
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
