@@ -392,6 +392,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Aller à l'onglet :">
 
+<!ENTITY urlbar.searchSuggestionsNotification.question "Voulez-vous améliorer la façon dont vous effectuez des recherches en activant les suggestions ?">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "En savoir plus…">
+<!ENTITY urlbar.searchSuggestionsNotification.disable "Non">
+<!ENTITY urlbar.searchSuggestionsNotification.enable "Oui">
+
 <!--
   Comment duplicated from browser-sets.inc:
 
