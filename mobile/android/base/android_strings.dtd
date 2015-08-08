@@ -420,25 +420,13 @@
 <!ENTITY find_matchcase "Aa">
 <!ENTITY intent_uri_cannot_open "Impossibile aprire il link">
 <!ENTITY devtools_auth_scan_header "Scansione del codice QR visualizzato sull’altro dispositivo">
-<!ENTITY restriction_disallow_tools_menu_title "Disattiva menu Strumenti">
-<!ENTITY restriction_disallow_tools_menu_description "Nascondi il menu Strumenti nell’interfaccia del browser.">
-<!ENTITY restriction_disallow_import_settings_title "Disattiva importazione impostazioni">
-<!ENTITY restriction_disallow_import_settings_description "Non consentire l’importazione di impostazioni da altri browser di sistema.">
-<!ENTITY restriction_disallow_addons_title "Disattiva comp. aggiuntivi">
-<!ENTITY restriction_disallow_addons_description "Impedisci l’installazione di componenti aggiuntivi.">
-<!ENTITY restriction_disallow_devtools_title "Disattiva strum. sviluppo">
-<!ENTITY restriction_disallow_devtools_description "Impedisci l’utilizzo degli strumenti di sviluppo.">
-<!ENTITY restriction_disallow_customize_home_title "Disattiva pers. schermata principale">
-<!ENTITY restriction_disallow_customize_home_description "Impedisci la personalizzazione dei pannelli nella schermata principale.">
-<!ENTITY restriction_disallow_private_browsing_title "Disattiva navigazione anonima">
-<!ENTITY restriction_disallow_private_browsing_description "Impedisci la navigazione anonima.">
-<!ENTITY restriction_disallow_location_services_title "Disattiva georilevazione">
-<!ENTITY restriction_disallow_location_services_description "Impedisci la condivisione dei dati sulla posizione per migliorare i servizi di georilevazione.">
-<!ENTITY restriction_disallow_display_settings_title "Disattiva impost. schermo">
-<!ENTITY restriction_disallow_display_settings_description "Impedisci la modifica delle impostazioni avanzate dello schermo.">
-<!ENTITY restriction_disallow_clear_history_title "Disattiva cancellazione cronologia">
-<!ENTITY restriction_disallow_clear_history_description "Impedisci la cancellazione della cronologia di navigazione.">
-<!ENTITY restriction_disallow_master_password_title "Disattiva password principale">
-<!ENTITY restriction_disallow_master_password_description "Impedisci l’impostazione di una password principale per gli accessi.">
-<!ENTITY restriction_disallow_guest_browsing_title "Disattiva navigazione ospite">
-<!ENTITY restriction_disallow_guest_browsing_description "Impedisci la navigazione in modalità ospite.">
+<!ENTITY restriction_disallow_import_settings_title2 "Disattiva “Importa da Android”">
+<!ENTITY restriction_disallow_addons_title2 "Disattiva installazione comp. aggiuntivi">
+<!ENTITY restriction_disallow_devtools_title2 "Disattiva strumenti di sviluppo">
+<!ENTITY restriction_disallow_customize_home_title2 "Disattiva personaliz. schermata principale">
+<!ENTITY restriction_disallow_private_browsing_title2 "Disattiva navigazione anonima">
+<!ENTITY restriction_disallow_location_services_title2 "Disattiva servizi di georilevazione">
+<!ENTITY restriction_disallow_display_settings_title2 "Disattiva impostazioni schermo">
+<!ENTITY restriction_disallow_clear_history_title2 "Disattiva “Elimina cronologia”">
+<!ENTITY restriction_disallow_master_password_title2 "Disattiva password principale">
+<!ENTITY restriction_disallow_guest_browsing_title2 "Disattiva navigazione ospite">
