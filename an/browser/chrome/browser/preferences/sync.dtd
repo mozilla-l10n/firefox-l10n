@@ -42,8 +42,8 @@
 
 <!ENTITY syncDeviceName.label       "Nombre d'o dispositivo:">
 <!ENTITY syncDeviceName.accesskey   "m">
-
-
+<!ENTITY fxaSyncDeviceName.label       "Nombre d'o dispositivo">
+<!ENTITY changeSyncDeviceName.label "Cambear o nombre d'o dispositivo…">
 <!ENTITY cancelChangeSyncDeviceName.label "Cancelar">
 <!ENTITY saveChangeSyncDeviceName.label "Alzar">
 <!ENTITY unlinkDevice.label           "Desvincular iste dispositivo">
