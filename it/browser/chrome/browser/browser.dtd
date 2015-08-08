@@ -582,9 +582,9 @@
 <!ENTITY mixedContentBlocked2.block.accesskey "A">
 <!ENTITY mixedContentBlocked2.disabled.message "La protezione è disattivata">
 <!ENTITY trackingProtection.title "Protezione antitracciamento">
-<!ENTITY trackingProtection.detectedBlocked2 "&brandShortName; sta bloccando dei tentativi di tracciare la navigazione.">
-<!ENTITY trackingProtection.detectedNotBlocked2 "Questo sito include elementi in grado di tracciare i visitatori. La protezione è disattivata.">
-<!ENTITY trackingProtection.notDetected2 "Questo sito non include alcun elemento in grado di tracciare i visitatori.">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; sta bloccando elementi della pagina in grado di tracciare la navigazione.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "Questo sito include elementi in grado di tracciare la navigazione. La protezione è disattivata.">
+<!ENTITY trackingProtection.notDetected3 "Questo sito non include alcun elemento in grado di tracciare la navigazione.">
 <!ENTITY trackingProtection.unblock.label "Disattiva protezione per questo sito">
 <!ENTITY trackingProtection.unblock.accesskey "D">
 <!ENTITY trackingProtection.unblockPrivate.label "Disattiva protezione per questa sessione">
