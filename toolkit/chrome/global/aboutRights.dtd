@@ -47,6 +47,7 @@
 <!ENTITY rights2.webservices-header "&brandFullName;: spletne informacijske storitve">
 
 <!-- point 5 -->
+<!ENTITY rights.intro-point5 "Za predvajanje nekaterih vrst video vsebin mora &brandShortName; prenesti module neodvisnih izdelovalcev, namenjene dešifriranju vsebin.">
 
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
