@@ -274,6 +274,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 
+<!ENTITY browserContentToolboxMenu.label     "Böngészőtartalom eszközkészlet">
+<!ENTITY browserContentToolboxMenu.accesskey "B">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Fejlesztői eszköztár bezárása">
 <!ENTITY devToolbarMenu.label              "Fejlesztői eszköztár">
@@ -303,7 +305,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "a">
 <!ENTITY newPrivateWindow.label     "Új privát ablak">
 <!ENTITY newPrivateWindow.accesskey "v">
-
+<!ENTITY newNonRemoteWindow.label   "Új nem többszálú ablak">
 
 <!ENTITY editMenu.label         "Szerkesztés"> 
 <!ENTITY editMenu.accesskey       "z"> 
@@ -672,10 +674,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label                   "Mégse">
 <!ENTITY editBookmark.removeBookmark.accessKey       "E">
 
+<!ENTITY identity.connectionSecure "Biztonságos kapcsolat">
+<!ENTITY identity.connectionNotSecure "A kapcsolat nem biztonságos">
+<!ENTITY identity.connectionVerified "A &brandShortName; ellenőrizte, hogy biztonságosan kapcsolódott ehhez ez oldalhoz; az üzemeltetője:">
+<!ENTITY identity.connectionInternal "Ez egy biztonságos &brandShortName; oldal.">
 
-
-
-
+<!ENTITY identity.moreInfoLinkText2 "További tudnivalók">
 
 <!ENTITY identity.permissions "Engedélyek">
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -850,6 +854,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY readingList.sidebar.add.tooltip          "Oldal olvasási listához adása">
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 
-
-
-
+<!ENTITY saveToPocketCmd.label     "Oldal mentése a Pocketbe">
+<!ENTITY saveToPocketCmd.accesskey "c">
+<!ENTITY saveLinkToPocketCmd.label     "Hivatkozás mentése a Pocketbe">
+<!ENTITY saveLinkToPocketCmd.accesskey "H">
+<!ENTITY pocketMenuitem.label      "Pocket lista megjelenítése">
