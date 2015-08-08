@@ -288,7 +288,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyRequestHeaders.accesskey): This is the access key
   -  for the Copy Request Headers menu item displayed in the context menu for a request -->
-<!ENTITY netmonitorUI.context.copyRequestHeaders.accesskey  "f">
+<!ENTITY netmonitorUI.context.copyRequestHeaders.accesskey  "q">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyResponseHeaders): This is the label displayed
   -  on the context menu that copies the selected item's response headers -->
@@ -320,7 +320,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyAllAsHar.accesskey): This is the access key
   -  for the Copy All As HAR menu item displayed in the context menu for a network panel -->
-<!ENTITY netmonitorUI.context.copyAllAsHar.accesskey "K">
+<!ENTITY netmonitorUI.context.copyAllAsHar.accesskey "o">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.saveAllAsHar): This is the label displayed
   -  on the context menu that saves all as HAR format -->
