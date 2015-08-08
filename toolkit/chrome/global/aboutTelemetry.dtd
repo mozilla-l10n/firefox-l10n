@@ -20,6 +20,7 @@
 
 <!ENTITY aboutTelemetry.generalDataSection "  Datos chenerals">
 
+<!ENTITY aboutTelemetry.environmentDataSection "  Datos d'o entorno">
 
 <!ENTITY aboutTelemetry.telemetryLogSection "  Rechistro de telemetría">
 
