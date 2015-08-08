@@ -769,15 +769,6 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY emeNotificationsDontAskAgain.label "Nie pytaj ponownie">
 <!ENTITY emeNotificationsDontAskAgain.accesskey "e">
 
-<!ENTITY readingList.label "Czytelnia">
-<!ENTITY readingList.sidebar.commandKey "R">
-<!ENTITY readingList.showSidebar.label "Pokaż pasek boczny czytelni">
-<!ENTITY readingList.sidebar.showMore.label "Wyświetl więcej…">
-<!ENTITY readingList.sidebar.emptyText "Dodawaj artykuły do czytelni, aby zachować je na później i łatwo później odnajdywać.">
-<!ENTITY readingList.sidebar.delete.tooltip "Usuń z czytelni">
-<!ENTITY readingList.sidebar.add.label "Dodaj do czytelni">
-<!ENTITY readingList.sidebar.add.tooltip "Dodaj tę stronę do czytelni">
-
 <!ENTITY saveToPocketCmd.label "Wyślij stronę do Pocket">
 <!ENTITY saveToPocketCmd.accesskey "s">
 <!ENTITY saveLinkToPocketCmd.label "Wyślij odnośnik do Pocket">
