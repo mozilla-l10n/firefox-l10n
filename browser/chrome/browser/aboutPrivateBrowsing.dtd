@@ -2,20 +2,30 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.title "Navigazione anonima">
-<!ENTITY aboutPrivateBrowsing.title.normal "Aprire una finestra anonima?">
-<!ENTITY aboutPrivateBrowsing.subtitle "&brandShortName; non conserverà alcuna cronologia per questa finestra.">
-<!ENTITY aboutPrivateBrowsing.subtitle.normal "&brandShortName; non conserverà alcuna cronologia per le finestre anonime.">
-<!ENTITY aboutPrivateBrowsing.description "Questo include navigazione, ricerche, download, compilazione di moduli, cookie e file temporanei. Tuttavia verranno mantenuti eventuali file scaricati e segnalibri aggiunti.">
-<!ENTITY aboutPrivateBrowsing.shortdescription "&brandShortName; non conserverà alcuna cronologia per questa finestra, mentre verranno mantenuti eventuali file scaricati e segnalibri aggiunti. Si noti che il proprio datore di lavoro o il fornitore di servizi internet in uso saranno comunque in grado di mantenere un registro delle pagine visitate.">
 <!ENTITY aboutPrivateBrowsing.notPrivate "Questa non è una finestra anonima.">
-<!ENTITY aboutPrivateBrowsing.moreInfo "Anche se questo computer non conserverà alcuna informazione relativa alla cronologia di navigazione, il fornitore di servizi internet in uso sarà comunque in grado di mantenere un registro delle pagine visitate.">
-<!ENTITY aboutPrivateBrowsing.learnMore "Ulteriori informazioni">
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Apri una finestra anonima">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "A">
-<!ENTITY trackingProtection.subtitle "Ora con protezione antitracciamento">
-<!ENTITY trackingProtection.description "La protezione antitracciamento blocca i contenuti in grado di tracciare l’attività online dei visitatori. In questo modo l’utente non dovrà preoccuparsi che i propri dati vengano condivisi attraverso diversi siti web.">
-<!ENTITY trackingProtection.showPreferences "Impostazioni privacy">
-<!ENTITY trackingProtection.startTour "Scopri le novità">
-<!ENTITY trackingProtection.enable.label "Attiva la protezione antitracciamento">
-<!ENTITY trackingProtection.enable.accesskey "A">
+<!ENTITY privateBrowsing.title "Navigazione anonima">
+<!ENTITY aboutPrivateBrowsing.width "30em">
+<!ENTITY aboutPrivateBrowsing.title "Navigazione anonima">
+<!ENTITY aboutPrivateBrowsing.subtitle "&brandShortName; non conserverà alcuna cronologia per questa finestra.">
+<!ENTITY aboutPrivateBrowsing.info.forgotten "Non verranno conservati:">
+<!ENTITY aboutPrivateBrowsing.info.history "Cronologia">
+<!ENTITY aboutPrivateBrowsing.info.search "Ricerche">
+<!ENTITY aboutPrivateBrowsing.info.cookies "Cookie">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "File temporanei">
+<!ENTITY aboutPrivateBrowsing.info.kept "Verranno conservati:">
+<!ENTITY aboutPrivateBrowsing.info.downloads "File scaricati">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks "Segnalibri">
+<!ENTITY aboutPrivateBrowsing.note "Il datore di lavoro o il fornitore di servizi internet in uso saranno comunque in grado di mantenere un registro delle pagine visitate.">
+<!ENTITY aboutPrivateBrowsing.learnMore "Ulteriori informazioni.">
+<!ENTITY trackingProtection.width "27em">
+<!ENTITY trackingProtection.title "Protezione antitracciamento">
+<!ENTITY trackingProtection.state.width "12ch">
+<!ENTITY trackingProtection.state.enabled "ATTIVATA">
+<!ENTITY trackingProtection.state.disabled "DISATTIVATA">
+<!ENTITY trackingProtection.description.enabled "Le finestre anonime bloccheranno i contenuti in grado di tracciare la navigazione.">
+<!ENTITY trackingProtection.description.disabled "Le finestre anonime non bloccheranno i contenuti in grado di tracciare la navigazione.">
+<!ENTITY trackingProtection.disable "Disattiva la protezione antitracciamento">
+<!ENTITY trackingProtection.enable "Attiva la protezione antitracciamento">
+<!ENTITY trackingProtection.startTour "Scopri come funziona">
