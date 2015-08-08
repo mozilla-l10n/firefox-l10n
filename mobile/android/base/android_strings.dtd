@@ -375,7 +375,7 @@
 <!ENTITY doorhanger_tracking_state_enabled "Attiva">
 <!ENTITY doorhanger_tracking_state_disabled "Disattivata">
 <!ENTITY doorhanger_tracking_message_enabled1 "I tentativi di tracciamento dell’attività online vengono bloccati.">
-<!ENTITY doorhanger_tracking_message_disabled1 "Questo sito include elementi in grado di tracciare l’attività online dei visitatori.">
+<!ENTITY doorhanger_tracking_message_disabled2 "Questa pagina include elementi in grado di tracciare l’attività online dei visitatori.">
 <!ENTITY learn_more "Ulteriori informazioni">
 <!ENTITY enable_protection "Attiva protezione">
 <!ENTITY disable_protection "Disattiva protezione">
