@@ -6,11 +6,11 @@
 <!ENTITY dntTrackingNotOkay4.label "Comunica ai siti visitati la volontà di non essere tracciato">
 <!ENTITY dntTrackingNotOkay4.accesskey "a">
 <!ENTITY doNotTrackInfo.label "Ulteriori informazioni">
-<!ENTITY trackingProtection4.label "Impedisci ai siti di effettuare il tracciamento">
-<!ENTITY trackingProtection4.accesskey "m">
+<!ENTITY trackingProtection5.label "Attiva la protezione antitracciamento">
+<!ENTITY trackingProtection5.accesskey "m">
 <!ENTITY trackingProtectionLearnMore.label "Ulteriori informazioni">
-<!ENTITY trackingProtectionPBM4.label "Impedisci ai siti di effettuare il tracciamento in modalità Navigazione anonima">
-<!ENTITY trackingProtectionPBM4.accesskey "e">
+<!ENTITY trackingProtectionPBM5.label "Attiva la protezione antitracciamento in modalità Navigazione anonima">
+<!ENTITY trackingProtectionPBM5.accesskey "e">
 <!ENTITY trackingProtectionPBMLearnMore.label "Ulteriori informazioni">
 <!ENTITY history.label "Cronologia">
 <!ENTITY locationBar.label "Barra degli indirizzi">
@@ -23,8 +23,8 @@
 <!ENTITY locbar.openpage.accesskey "d">
 <!ENTITY locbar.searches.label "ricerche correlate dal motore di ricerca predefinito">
 <!ENTITY locbar.searches.accesskey "h">
-<!ENTITY  suggestionSettings.label "Modifica le impostazioni relative ai suggerimenti dei motori di ricerca…">
-<!ENTITY  suggestionSettings.accesskey "g">
+<!ENTITY suggestionSettings.label "Modifica le impostazioni relative ai suggerimenti dei motori di ricerca…">
+<!ENTITY suggestionSettings.accesskey "g">
 <!ENTITY acceptCookies.label "Accetta i cookie dai siti">
 <!ENTITY acceptCookies.accesskey "k">
 <!ENTITY acceptThirdParty.pre.label "Accetta i cookie di terze parti:">
