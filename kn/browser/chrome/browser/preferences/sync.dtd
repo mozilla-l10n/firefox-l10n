@@ -42,7 +42,7 @@
 
 <!ENTITY syncDeviceName.label       "ಸಾಧನದ ಹೆಸರು:">
 <!ENTITY syncDeviceName.accesskey   "c">
-
+<!ENTITY fxaSyncDeviceName.label       "ಸಾಧನದ ಹೆಸರು">
 <!ENTITY changeSyncDeviceName.label "ಸಾಧನದ ಹೆಸರನ್ನು ಬದಲಿಸಿ...">
 <!ENTITY cancelChangeSyncDeviceName.label "ರದ್ದು ಮಾಡು">
 <!ENTITY saveChangeSyncDeviceName.label "ಉಳಿಸು">

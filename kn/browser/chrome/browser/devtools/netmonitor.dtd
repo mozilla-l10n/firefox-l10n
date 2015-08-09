@@ -315,12 +315,16 @@
 <!ENTITY netmonitorUI.context.copyImageAsDataUri.accesskey  "I">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyAllAsHar): This is the label displayed
   -  on the context menu that copies all as HAR format -->
+
+<!ENTITY netmonitorUI.context.copyAllAsHar "HAR ಆಗಿ ನಕಲಿಸು">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyAllAsHar.accesskey): This is the access key
   -  for the Copy All As HAR menu item displayed in the context menu for a network panel -->
 
 <!ENTITY netmonitorUI.context.copyAllAsHar.accesskey "O">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.saveAllAsHar): This is the label displayed
   -  on the context menu that saves all as HAR format -->
+
+<!ENTITY netmonitorUI.context.saveAllAsHar "ಎಲ್ಲವನ್ನು HAR ಆಗಿ ಉಳಿಸು">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.saveAllAsHar.accesskey): This is the access key
   -  for the Save All As HAR menu item displayed in the context menu for a network panel -->
 
