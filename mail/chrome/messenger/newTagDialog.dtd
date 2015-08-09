@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY newTagDialog.title "Δημιουργία νέας ετικέτας">
-<!ENTITY name.label "Όνομα ετικέτας:">
-<!ENTITY name.accesskey "τ">
+<!-- New Tag Dialog -->
+<!ENTITY newTagDialog.title      "Δημιουργία νέας ετικέτας">
+<!ENTITY name.label              "Όνομα ετικέτας:">
+<!ENTITY name.accesskey          "τ">

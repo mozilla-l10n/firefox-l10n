@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "Καλώς ήλθατε στον &brandShortName;">
-<!ENTITY header.label "Θέλετε μια νέα διεύθυνση email για τον &brandShortName;;">
+<!ENTITY header2.label "Θέλετε μια νέα διεύθυνση email;">
 <!ENTITY other.languages "Σας εμφανίζουμε μόνο τους παρόχους που προσφέρουν email στην περιοχή σας.  Πατήστε εδώ για να εμφανίσετε όλους τους παρόχους.">
 <!ENTITY error.line1 "Συγγνώμη, δεν βρέθηκε καμία από τις προτεινόμενες διευθύνσεις email.">
 <!ENTITY error.line2 "Μπορείτε να κάνετε αναζήτηση για nicknames ή για κάποιον άλλο όρο για να βρείτε περισσότερες διευθύνσεις">
@@ -41,4 +41,3 @@
 <!ENTITY search_engine.title "Προσαρμογή της μηχανής αναζήτησης">
 <!ENTITY search_engine.message "Ο πάροχος email μπορεί ακόμα να σας παρέχει κάποιες δυνατότητες αναζήτησης.">
 <!ENTITY search_engine.button "Τέλος">
-

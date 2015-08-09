@@ -2,32 +2,34 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY dialog.title "Επιλογές αποστολής">
-<!ENTITY sendMail.title "Μορφή κειμένου">
-<!ENTITY sendMaildesc.label "Κατά την αποστολή μηνυμάτων σε μορφή HTML και αν δεν επιθυμούν HTML όλοι οι παραλήπτες:">
-<!ENTITY askMe.label "Ερώτηση για το τι να κάνω">
-<!ENTITY askMe.accesskey "ρ">
-<!ENTITY convertPlain.label "Μετατροπή του μηνύματος σε απλό κείμενο">
-<!ENTITY convertPlain.accesskey "Μ">
-<!ENTITY sendHTML.label "Αποστολή του μηνύματος σε HTML οπωσδήποτε">
-<!ENTITY sendHTML.accesskey "σ">
-<!ENTITY sendBoth.label "Αποστολή και σε HTML και σε απλό κείμενο">
-<!ENTITY sendBoth.accesskey "κ">
-<!ENTITY override.label "Σημείωση: Χρήση του ευρετηρίου διευθύνσεων για τον καθορισμό προτιμώμενης μορφής κειμένου για τους παραλήπτες.">
-<!ENTITY domaindesc.label "Όταν στέλνετε ένα μήνυμα σε μια διεύθυνση που ανήκει τους παρακάτω τομείς,  ο &brandShortName; επιλέγει αυτόματα τη σωστή μορφοποίηση για τον ανάλογο τομέα. ">
-<!ENTITY HTMLTab.label "Τομείς HTML">
-<!ENTITY HTMLTab.accesskey "H">
-<!ENTITY PlainTextTab.label "Τομείς απλού κειμένου">
-<!ENTITY PlainTextTab.accesskey "π">
-<!ENTITY AddHtmlDomain.label "Προσθήκη…">
-<!ENTITY AddHtmlDomain.accesskey "θ">
-<!ENTITY AddPlainText.label "Προσθήκη…">
-<!ENTITY AddPlainText.accesskey "ρ">
-<!ENTITY DeleteHtmlDomain.label "Διαγραφή">
-<!ENTITY DeleteHtmlDomain.accesskey "Δ">
-<!ENTITY DeletePlainText.label "Διαγραφή">
-<!ENTITY DeletePlainText.accesskey "γ">
-<!ENTITY add.htmltitle "Προσθήκη ονόματος τομέα HTML">
-<!ENTITY add.htmldomain "Όνομα τομέα HTML">
-<!ENTITY add.plaintexttitle "Προσθήκη ονόματος τομέα απλού κειμένου">
-<!ENTITY add.plaintextdomain "Όνομα τομέα απλού κειμένου:">
+<!ENTITY dialog.title                 "Επιλογές αποστολής">
+<!ENTITY sendMail.title               "Μορφή κειμένου">
+<!ENTITY sendMaildesc.label           "Κατά την αποστολή μηνυμάτων σε μορφή HTML και αν δεν επιθυμούν HTML όλοι οι παραλήπτες:">
+<!ENTITY askMe.label                  "Ερώτηση για το τι να κάνω">
+<!ENTITY askMe.accesskey              "ρ">
+<!ENTITY convertPlain.label           "Μετατροπή του μηνύματος σε απλό κείμενο">
+<!ENTITY convertPlain.accesskey       "Μ">
+<!ENTITY sendHTML.label               "Αποστολή του μηνύματος σε HTML οπωσδήποτε">
+<!ENTITY sendHTML.accesskey           "σ">
+<!ENTITY sendBoth.label               "Αποστολή και σε HTML και σε απλό κείμενο">
+<!ENTITY sendBoth.accesskey           "κ">
+<!ENTITY override.label               "Σημείωση: Χρήση του ευρετηρίου διευθύνσεων για τον καθορισμό προτιμώμενης μορφής κειμένου για τους παραλήπτες.">
+
+<!ENTITY domaindesc.label             "Όταν στέλνετε ένα μήνυμα σε μια διεύθυνση που ανήκει τους παρακάτω τομείς,  ο &brandShortName; επιλέγει αυτόματα τη σωστή μορφοποίηση για τον ανάλογο τομέα. ">
+<!ENTITY HTMLTab.label                "Τομείς HTML">
+<!ENTITY HTMLTab.accesskey            "H">
+<!ENTITY PlainTextTab.label           "Τομείς απλού κειμένου">
+<!ENTITY PlainTextTab.accesskey       "π">
+<!ENTITY AddHtmlDomain.label          "Προσθήκη…">
+<!ENTITY AddHtmlDomain.accesskey      "θ">
+<!ENTITY AddPlainText.label           "Προσθήκη…">
+<!ENTITY AddPlainText.accesskey       "ρ">
+<!ENTITY DeleteHtmlDomain.label       "Διαγραφή">
+<!ENTITY DeleteHtmlDomain.accesskey   "Δ">
+<!ENTITY DeletePlainText.label        "Διαγραφή">
+<!ENTITY DeletePlainText.accesskey    "γ">
+
+<!ENTITY add.htmltitle                "Προσθήκη ονόματος τομέα HTML">
+<!ENTITY add.htmldomain               "Όνομα τομέα HTML">
+<!ENTITY add.plaintexttitle           "Προσθήκη ονόματος τομέα απλού κειμένου">
+<!ENTITY add.plaintextdomain          "Όνομα τομέα απλού κειμένου:">

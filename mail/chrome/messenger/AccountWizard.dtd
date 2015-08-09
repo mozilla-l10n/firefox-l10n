@@ -2,8 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- Entities for AccountWizard -->
+
 <!ENTITY windowTitle.label "Οδηγός Λογαριασμού">
 <!ENTITY accountWizard.size "width: 55em; height: 37em;">
+
+<!-- Entities for Account Type page -->
+
 <!ENTITY accountSetupInfo2.label "Για να λαμβάνετε μηνύματα θα πρέπει πρώτα να ρυθμίσετε ένα λογαριασμό.">
 <!ENTITY accountTypeTitle.label "Εγκατάσταση νέου λογαριασμού">
 <!ENTITY accountTypeDesc2.label "Ο Οδηγός θα συλλέξει τις απαραίτητες πληροφορίες για την εγκατάσταση ενός λογαριασμού. Αν δεν ξέρετε τις απαιτούμενες πληροφορίες επικοινωνήστε με το διαχειριστή του συστήματος σας ή με τον πάροχο σας.">
@@ -12,21 +17,53 @@
 <!ENTITY accountTypeMail.accesskey "ρ">
 <!ENTITY accountTypeNews.label "Λογαριασμός συζητήσεων">
 <!ENTITY accountTypeNews.accesskey "ζ">
+
+<!-- Entities for Identity page -->
+
 <!ENTITY identityTitle.label "Ταυτότητα">
 <!ENTITY identityDesc.label "Ο κάθε λογαριασμός έχει τη δικιά του ταυτότητα, και περιέχει τις πληροφορίες που σας πιστοποιούν στους άλλους όταν λαμβάνουν τα μηνύματα σας.">
 
+<!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
+<!ENTITY fullnameDesc.label "Εισάγετε το όνομα που θέλετε να εμφανίζεται στο πεδίο &quot;Από&quot; των εξερχομένων μηνυμάτων σας.">
+<!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
+  1, do not translate two of "&quot;"
+  2, Use localized full name instead of "John Smith"
+-->
+<!ENTITY fullnameExample.label "(για παράδειγμα, &quot;John Smith&quot;).">
+<!ENTITY fullnameLabel.label "Το όνομα σας">
+<!ENTITY fullnameLabel.accesskey "τ">
+
+<!ENTITY emailLabel.label "Διεύθυνση Email:">
+<!ENTITY emailLabel.accesskey "θ">
+
+<!-- Entities for Incoming Server page -->
+
 <!ENTITY incomingTitle.label "Πληροφορίες διακομιστή εισερχομένων">
+<!ENTITY incomingServerTypeDesc.label "Επιλέξτε τον τύπο του διακομιστή εισερχομένων που χρησιμοποιείτε.">
+<!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
+<!ENTITY imapType.label "IMAP">
+<!ENTITY imapType.accesskey "I">
+<!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
+<!ENTITY popType.label "POP">
+<!ENTITY popType.accesskey "P">
+<!ENTITY leaveMsgsOnSrvr.label "Διατήρηση μηνυμάτων στον διακομιστή">
+<!ENTITY leaveMsgsOnSrvr.accesskey "Δ">
+<!ENTITY portNum.label "Θύρα:">
+<!ENTITY portNum.accesskey "Θ">
+<!ENTITY defaultPortLabel.label "Προεπιλογή:">
+<!ENTITY defaultPortValue.label "">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
 <!ENTITY incomingServer.description "Εισάγετε το όνομα του διακομιστή εισερχομένων (για παράδειγμα, &quot;mail.example.gr&quot;).">
 <!ENTITY incomingServer.label "Διακομιστής εισερχομένων:">
 <!ENTITY incomingServer.accesskey "σ">
-
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
 <!ENTITY incomingUsername.description "Εισάγετε το όνομα χρήστη που σας δόθηκε από τον παροχέα email (για παράδειγμα, &quot;jsmith&quot;).">
 <!ENTITY incomingUsername.label "Όνομα χρήστη:">
 <!ENTITY incomingUsername.accesskey "χ">
-
-
+<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
+<!ENTITY newsServerNameDesc.label "Εισάγετε το όνομα του εξυπηρετητή συζητήσεων (NNTP) (για παράδειγμα, &quot;news.mac.gr&quot;). ">
+<!ENTITY newsServerLabel.label "Εξυπηρετητής ομάδων συζήτησης:">
+<!ENTITY newsServerLabel.accesskey "σ">
 
 <!-- Entities for Outgoing Server page -->
 
@@ -39,49 +76,39 @@
 <!ENTITY outgoingUsername.label "Όνομα χρήστη εξερχομένων:">
 <!ENTITY outgoingUsername.accesskey "χ">
 
-<!ENTITY fullnameDesc.label "Εισάγετε το όνομα που θέλετε να εμφανίζεται στο πεδίο &quot;Από&quot; των εξερχομένων μηνυμάτων σας.">
-<!ENTITY fullnameExample.label "(για παράδειγμα, &quot;John Smith&quot;).">
-<!ENTITY fullnameLabel.label "Το όνομα σας">
-<!ENTITY fullnameLabel.accesskey "τ">
-<!ENTITY emailLabel.label "Διεύθυνση Email:">
-<!ENTITY emailLabel.accesskey "θ">
-
-<!ENTITY incomingServerTypeDesc.label "Επιλέξτε τον τύπο του διακομιστή εισερχομένων που χρησιμοποιείτε.">
-<!ENTITY newsServerNameDesc.label "Εισάγετε το όνομα του εξυπηρετητή συζητήσεων (NNTP) (για παράδειγμα, &quot;news.mac.gr&quot;). ">
-
-
-<!ENTITY newsServerLabel.label "Εξυπηρετητής ομάδων συζήτησης:">
-<!ENTITY newsServerLabel.accesskey "σ">
-<!ENTITY imapType.label "IMAP">
-<!ENTITY imapType.accesskey "I">
-<!ENTITY popType.label "POP">
-<!ENTITY popType.accesskey "P">
-<!ENTITY haveSmtp1.prefix "Ο υπάρχων διακομιστής εξερχομένων σας (SMTP), &quot;">
-
-
-
-
-
-<!ENTITY haveSmtp2.prefix "Το όνομα χρήστη στο διακομιστή εξερχομένων (SMTP), &quot;">
-<!ENTITY haveSmtp3.prefix "Ο διακομιστής εξερχομένων σας (SMTP), &quot;">
-
-<!ENTITY accnameTitle.label "Όνομα Λογαριασμού">
-<!ENTITY accnameDesc.label "Εισάγετε το όνομα με το οποίο θα αναγνωρίζετε αυτόν το λογαριασμό (Για παράδειγμα, &quot;Λογαριασμός Εργασίας &quot;, &quot; Οικίας&quot; ή&quot;Ομάδων Συζήτησης">
-<!ENTITY portNum.label "Θύρα:">
-<!ENTITY portNum.accesskey "Θ">
-<!ENTITY defaultPortLabel.label "Προεπιλογή:">
-<!ENTITY defaultPortValue.label "">
-
-<!ENTITY haveSmtp1.suffix3 "&quot;,  θα χρησιμοποιηθεί.">
-<!ENTITY haveSmtp2.suffix3 "&quot;,  θα χρησιμοποιηθεί.">
-<!ENTITY haveSmtp3.suffix3 "Ο &quot;, είναι όμοιος με το διακομιστή εισερχομένων σας, το όνομα χρήστη εισερχομένων θα χρησιμοποιηθεί για την πρόσβαση σε αυτόν.">
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
 -->
 <!ENTITY modifyOutgoing.suffix " Μπορείτε να τροποποιήσετε τις ρυθμίσεις του διακομιστή εξερχομένων από τις ρυθμίσεις λογαριασμού..">
+<!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
+-->
+<!ENTITY haveSmtp1.prefix "Ο υπάρχων διακομιστής εξερχομένων σας (SMTP), &quot;">
+<!ENTITY haveSmtp1.suffix3 "&quot;,  θα χρησιμοποιηθεί.">
+<!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
+-->
+<!ENTITY haveSmtp2.prefix "Το όνομα χρήστη στο διακομιστή εξερχομένων (SMTP), &quot;">
+<!ENTITY haveSmtp2.suffix3 "&quot;,  θα χρησιμοποιηθεί.">
+<!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
+     these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
+     text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
+-->
+<!ENTITY haveSmtp3.prefix "Ο διακομιστής εξερχομένων σας (SMTP), &quot;">
+<!ENTITY haveSmtp3.suffix3 "Ο &quot;, είναι όμοιος με το διακομιστή εισερχομένων σας, το όνομα χρήστη εισερχομένων θα χρησιμοποιηθεί για την πρόσβαση σε αυτόν.">
 
+<!-- Entities for Account name page -->
+
+<!ENTITY accnameTitle.label "Όνομα Λογαριασμού">
+<!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
+<!ENTITY accnameDesc.label "Εισάγετε το όνομα με το οποίο θα αναγνωρίζετε αυτόν το λογαριασμό (Για παράδειγμα, &quot;Λογαριασμός Εργασίας &quot;, &quot; Οικίας&quot; ή&quot;Ομάδων Συζήτησης">
 <!ENTITY accnameLabel.label "Όνομα λογαριασμού:">
 <!ENTITY accnameLabel.accesskey "μ">
+
+<!-- Entities for Done (Congratulations) page -->
+
 <!ENTITY completionTitle.label "Συγχαρητήρια!">
 <!ENTITY completionText.label "Βεβαιωθείτε ότι οι παρακάτω πληροφορίες είναι σωστές.">
 <!ENTITY serverTypePrefix.label "Τύπος διακομιστή  εισερχομένων:">
@@ -95,5 +122,3 @@
 <!ENTITY deferStorage.accesskey "Γ">
 <!ENTITY clickFinish.label "Πατήστε Τέλος για να αποθηκευτούν οι ρυθμίσεις και να εγκαταλείψετε τον Οδηγό Λογαριασμού.">
 <!ENTITY clickFinish.labelMac "Πατήστε Ολοκλήρωση για να αποθηκεύσετε αυτές τις ρυθμίσεις και να κλείσετε τον οδηγό.">
-<!ENTITY leaveMsgsOnSrvr.label "Διατήρηση μηνυμάτων στον διακομιστή">
-<!ENTITY leaveMsgsOnSrvr.accesskey "Δ">

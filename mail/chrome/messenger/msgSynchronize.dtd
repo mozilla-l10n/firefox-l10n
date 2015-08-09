@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
+
 <!ENTITY MsgSynchronize.label "Λήψη και συγχρονισμός Μηνυμάτων">
 <!ENTITY MsgSelect.label "Αντικείμενα για χρήση χωρίς σύνδεση">
 <!ENTITY MsgSyncDesc.label "Αν έχετε ήδη επιλέξει φακέλους αλληλογραφίας και συζητήσεων για εργασία χωρίς σύνδεση, μπορείτε να κάνετε λήψη ή και να τους συγχρονίσετε τώρα.Αλλιώς χρησιμοποιήστε το κουμπί &quot;Επιλογή&quot; για να επιλέξετε φακέλους. ">

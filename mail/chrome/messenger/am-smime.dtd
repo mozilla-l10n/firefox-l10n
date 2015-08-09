@@ -24,6 +24,7 @@
 <!ENTITY signMessage.label "Ψηφιακή υπογραφή μηνυμάτων">
 <!ENTITY signMessage.accesskey "Ψ">
 <!ENTITY signingCert.message "Χρήση του ακόλουθου προσωπικού πιστοποιητικού για ψηφιακή υπογραφή μηνυμάτων:">
+
 <!ENTITY certificates.label "Πιστοποιητικά">
 <!ENTITY manageCerts.label "Προβολή πιστοποιητικών">
 <!ENTITY manageCerts.accesskey "β">

@@ -2,188 +2,221 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY addressbookWindow.title "Ευρετήριο διευθύνσεων">
-<!ENTITY fileMenu.label "Αρχείο">
-<!ENTITY fileMenu.accesskey "χ">
-<!ENTITY newMenu.label "Νέο">
-<!ENTITY newMenu.accesskey "Ν">
-<!ENTITY newContact.label "Επαφή ευρετηρίου…">
-<!ENTITY newContact.accesskey "φ">
-<!ENTITY newContact.key "N">
-<!ENTITY newListCmd.label "Λίστα αλληλογραφίας...">
-<!ENTITY newListCmd.accesskey "Λ">
-<!ENTITY newAddressBookCmd.label "Ευρετήριο διευθύνσεων...">
-<!ENTITY newAddressBookCmd.accesskey "ρ">
-<!ENTITY newLDAPDirectoryCmd.label "Κατάλογος LDAP...">
-<!ENTITY newLDAPDirectoryCmd.accesskey "Κ">
-<!ENTITY newMessageCmd.label "Μήνυμα">
-<!ENTITY newMessageCmd.key "M">
-<!ENTITY newMessageCmd.accesskey "Μ">
-<!ENTITY osxAddressBook.label "Χρήση ευρετηρίου διευθύνσεων Mac OS X ">
-<!ENTITY osxAddressBook.accesskey "O">
-<!ENTITY closeCmd.label "Κλείσιμο">
-<!ENTITY closeCmd.key "W">
-<!ENTITY closeCmd.accesskey "Κ">
-<!ENTITY printSetupCmd.label "Διαμόρφωση σελίδας...">
-<!ENTITY printSetupCmd.accesskey "Δ">
-<!ENTITY printPreviewContactCmd.label "Προεπισκόπηση εκτύπωσης επαφής">
-<!ENTITY printPreviewContactCmd.accesskey "ε">
-<!ENTITY printPreviewAddressBook.label "Προεπισκόπηση εκτύπωσης ευρετηρίου διευθύνσεων">
-<!ENTITY printPreviewAddressBook.accesskey "δ">
-<!ENTITY printContactCmd.label "Εκτύπωση επαφής…">
-<!ENTITY printContactCmd.accesskey "π">
-<!ENTITY printContactCmd.key "P">
-<!ENTITY printAddressBook.label "Εκτύπωση ευρετηρίου διευθύνσεων...">
-<!ENTITY printAddressBook.accesskey "κ">
-<!ENTITY editMenu.label "Επεξεργασία">
-<!ENTITY editMenu.accesskey "ξ">
-<!ENTITY undoCmd.label "Αναίρεση">
-<!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "ν">
-<!ENTITY redoCmd.label "Ακύρωση αναίρεσης">
-<!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "κ">
-<!ENTITY cutCmd.label "Αποκοπή">
-<!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "κ">
-<!ENTITY copyCmd.label "Αντιγραφή">
-<!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "γ">
-<!ENTITY pasteCmd.label "Επικόλληση">
-<!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "π">
-<!ENTITY deleteCmd.label "Διαγραφή">
-<!ENTITY deleteCmd.accesskey "γ">
-<!ENTITY deleteAbCmd.label "Διαγραφή ευρετηρίου διευθύνσεων">
-<!ENTITY deleteContactCmd.label "Διαγραφή επαφής">
-<!ENTITY deleteContactsCmd.label "Διαγραφή επαφών">
-<!ENTITY deleteListCmd.label "Διαγραφή λίστας">
-<!ENTITY deleteListsCmd.label "Διαγραφή λιστών">
-<!ENTITY deleteItemsCmd.label "Διαγραφή αντικειμένων">
-<!ENTITY selectAllCmd.label "Επιλογή όλων">
-<!ENTITY selectAllCmd.key "A">
-<!ENTITY searchAddressesCmd.key "f">
-<!ENTITY selectAllCmd.accesskey "λ">
-<!ENTITY swapFirstNameLastNameCmd.label "Εναλλαγή Μικρού/Επιθέτου">
-<!ENTITY swapFirstNameLastNameCmd.accesskey "μ">
+<!ENTITY addressbookWindow.title                        "Ευρετήριο διευθύνσεων">
+<!ENTITY blankResultsPaneMessage.label                  "This address book shows contacts only after a search">
+<!ENTITY localResultsOnlyMessage.label                  "Contacts from remote address books are not shown until you search">
+<!-- File Menu -->
+<!ENTITY fileMenu.label                                 "Αρχείο">
+<!ENTITY fileMenu.accesskey                             "χ">
+<!ENTITY newMenu.label                                  "Νέο">
+<!ENTITY newMenu.accesskey                              "Ν">
+<!ENTITY newContact.label                               "Επαφή ευρετηρίου…">
+<!ENTITY newContact.accesskey                           "φ">
+<!ENTITY newContact.key                                 "N">
+<!ENTITY newListCmd.label                               "Λίστα αλληλογραφίας...">
+<!ENTITY newListCmd.accesskey                           "Λ">
+<!ENTITY newAddressBookCmd.label                        "Ευρετήριο διευθύνσεων...">
+<!ENTITY newAddressBookCmd.accesskey                    "ρ">
+<!ENTITY newLDAPDirectoryCmd.label                      "Κατάλογος LDAP...">
+<!ENTITY newLDAPDirectoryCmd.accesskey                  "Κ">
+<!ENTITY newMessageCmd.label                            "Μήνυμα">
+<!ENTITY newMessageCmd.key                              "M">
+<!ENTITY newMessageCmd.accesskey                        "Μ">
+<!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
+<!ENTITY osxAddressBook.label                           "Χρήση ευρετηρίου διευθύνσεων Mac OS X ">
+<!ENTITY osxAddressBook.accesskey                       "O">
+<!ENTITY closeCmd.label                                 "Κλείσιμο">
+<!ENTITY closeCmd.key                                   "W">
+<!ENTITY closeCmd.accesskey                             "Κ">
+<!ENTITY printSetupCmd.label                            "Διαμόρφωση σελίδας...">
+<!ENTITY printSetupCmd.accesskey                        "Δ">
+<!ENTITY printPreviewContactCmd.label                   "Προεπισκόπηση εκτύπωσης επαφής">
+<!ENTITY printPreviewContactCmd.accesskey               "ε">
+<!ENTITY printPreviewAddressBook.label                  "Προεπισκόπηση εκτύπωσης ευρετηρίου διευθύνσεων">
+<!ENTITY printPreviewAddressBook.accesskey              "δ">
+<!ENTITY printContactCmd.label                          "Εκτύπωση επαφής…">
+<!ENTITY printContactCmd.accesskey                      "π">
+<!ENTITY printContactCmd.key                            "P">
+<!ENTITY printAddressBook.label                         "Εκτύπωση ευρετηρίου διευθύνσεων...">
+<!ENTITY printAddressBook.accesskey                     "κ">
+
+<!-- Edit Menu -->
+<!ENTITY editMenu.label                                 "Επεξεργασία">
+<!ENTITY editMenu.accesskey                             "ξ">
+<!ENTITY undoCmd.label                                  "Αναίρεση">
+<!ENTITY undoCmd.key                                    "Z">
+<!ENTITY undoCmd.accesskey                              "ν">
+<!ENTITY redoCmd.label                                  "Ακύρωση αναίρεσης">
+<!ENTITY redoCmd.key                                    "Y">
+<!ENTITY redoCmd.accesskey                              "κ">
+<!ENTITY cutCmd.label                                   "Αποκοπή">
+<!ENTITY cutCmd.key                                     "X">
+<!ENTITY cutCmd.accesskey                               "κ">
+<!ENTITY copyCmd.label                                  "Αντιγραφή">
+<!ENTITY copyCmd.key                                    "C">
+<!ENTITY copyCmd.accesskey                              "γ">
+<!ENTITY pasteCmd.label                                 "Επικόλληση">
+<!ENTITY pasteCmd.key                                   "V">
+<!ENTITY pasteCmd.accesskey                             "π">
+<!ENTITY deleteCmd.label                                "Διαγραφή">
+<!ENTITY deleteCmd.accesskey                            "γ">
+<!ENTITY deleteAbCmd.label                              "Διαγραφή ευρετηρίου διευθύνσεων">
+<!ENTITY deleteContactCmd.label                         "Διαγραφή επαφής">
+<!ENTITY deleteContactsCmd.label                        "Διαγραφή επαφών">
+<!ENTITY deleteListCmd.label                            "Διαγραφή λίστας">
+<!ENTITY deleteListsCmd.label                           "Διαγραφή λιστών">
+<!ENTITY deleteItemsCmd.label                           "Διαγραφή αντικειμένων">
+<!ENTITY selectAllCmd.label                             "Επιλογή όλων">
+<!ENTITY selectAllCmd.key                               "A">
+<!ENTITY searchAddressesCmd.key                         "f">
+<!ENTITY selectAllCmd.accesskey                         "λ">
+<!ENTITY swapFirstNameLastNameCmd.label                 "Εναλλαγή Μικρού/Επιθέτου">
+<!ENTITY swapFirstNameLastNameCmd.accesskey             "μ">
+<!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
+<!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd.label "Ιδιότητες...">
-<!ENTITY propertiesCmd.accesskey "δ">
-<!ENTITY propertiesCmd.key "i">
-<!ENTITY viewMenu.label "Προβολή">
-<!ENTITY viewMenu.accesskey "β">
-<!ENTITY viewToolbarsMenu.label "Εργαλειοθήκες">
-<!ENTITY viewToolbarsMenu.accesskey "γ">
-<!ENTITY showAbToolbarCmd.label "Εργαλειοθήκη ευρετηρίου διευθύνσεων">
-<!ENTITY showAbToolbarCmd.accesskey "ρ">
-<!ENTITY showTaskbarCmd.label "Γραμμή κατάστασης">
-<!ENTITY showTaskbarCmd.accesskey "μ">
-<!ENTITY customizeToolbar.label "Προσαρμογή...">
-<!ENTITY customizeToolbar.accesskey "ρ">
-<!ENTITY menu_ShowNameAs.label "Εμφάνιση ονόματος ως">
-<!ENTITY menu_ShowNameAs.accesskey "ν">
-<!ENTITY lastFirstCmd.label "Επώνυμο-Όνομα">
-<!ENTITY lastFirstCmd.accesskey "π">
-<!ENTITY displayNameCmd.label "Όνομα">
-<!ENTITY displayNameCmd.accesskey "ν">
-<!ENTITY sortMenu.label "Ταξινόμηση κατά">
-<!ENTITY sortMenu.accesskey "Τ">
-<!ENTITY tasksMenu.label "Εργαλεία">
-<!ENTITY tasksMenu.accesskey "γ">
-<!ENTITY messengerCmd.label "Αλληλογραφία &amp; Συζητήσεις">
-<!ENTITY messengerCmd.accesskey "λ">
-<!ENTITY messengerCmd.commandkey "1">
-<!ENTITY searchAddressesCmd.label "Αναζήτηση διευθύνσεων">
-<!ENTITY searchAddressesCmd.accesskey "ζ">
-<!ENTITY importCmd.label "Εισαγωγή...">
-<!ENTITY importCmd.accesskey "ι">
-<!ENTITY exportCmd.label "Εξαγωγή...">
-<!ENTITY exportCmd.accesskey "ξ">
-<!ENTITY preferencesCmd.label "Επιλογές">
-<!ENTITY preferencesCmd.accesskey "π">
-<!ENTITY preferencesCmdUnix.label "Προτιμήσεις">
-<!ENTITY preferencesCmdUnix.accesskey "μ">
-<!ENTITY newContactButton.label "Νέα επαφή">
-<!ENTITY newContactButton.accesskey "φ">
-<!ENTITY newlistButton.label "Νέα λίστα">
-<!ENTITY newlistButton.accesskey "λ">
-<!ENTITY editButton2.label "Ιδιότητες">
-<!ENTITY editButton2.accesskey "δ">
-<!ENTITY newmsgButton.label "Σύνταξη">
-<!ENTITY newmsgButton.accesskey "Σ">
-<!ENTITY newIM.label "Instant Message">
-<!ENTITY newIM.accesskey "I">
-<!ENTITY deleteButton2.label "Διαγραφή">
-<!ENTITY deleteButton2.accesskey "Δ">
-<!ENTITY newContactButton.tooltip "Δημιουργία νέας επαφής στο ευρετήριο">
-<!ENTITY newlistButton.tooltip "Δημιουργία νέας λίστας">
-<!ENTITY editButton2.tooltip "Επεξεργασία επιλεγμένου αντικειμένου">
-<!ENTITY newmsgButton.tooltip "Αποστολή ενός μηνύματος αλληλογραφίας">
-<!ENTITY newIM.tooltip "Αποστολή ενός άμεσου μηνύματος ή chat">
-<!ENTITY deleteButton2.tooltip "Διαγραφή επιλεγμένου αντικειμένου">
-<!ENTITY dirTreeHeader.label "Ευρετήρια διευθύνσεων">
-<!ENTITY SearchNameOrEmail.label "Όνομα ή Email">
-<!ENTITY SearchNameOrEmail.accesskey "ν">
-<!ENTITY advancedButton.tooltip "Προχωρημένη αναζήτηση διεύθυνσης">
-<!ENTITY quickSearchCmd.key "k">
+<!ENTITY propertiesCmd2.label                           "Ιδιότητες">
+<!ENTITY propertiesCmd2.accesskey                       "δ">
+<!ENTITY propertiesCmd.key                              "i">
+
+<!-- View Menu -->
+<!ENTITY viewMenu.label                                 "Προβολή">
+<!ENTITY viewMenu.accesskey                             "β">
+<!ENTITY viewToolbarsMenu.label                         "Εργαλειοθήκες">
+<!ENTITY viewToolbarsMenu.accesskey                     "γ">
+<!ENTITY menubarCmd.label                               "Εργαλειοθήκη μενού">
+<!ENTITY menubarCmd.accesskey                           "μ">
+<!ENTITY showAbToolbarCmd.label                         "Εργαλειοθήκη ευρετηρίου διευθύνσεων">
+<!ENTITY showAbToolbarCmd.accesskey                     "ρ">
+<!ENTITY showTaskbarCmd.label                           "Γραμμή κατάστασης">
+<!ENTITY showTaskbarCmd.accesskey                       "μ">
+<!ENTITY customizeToolbar.label                         "Προσαρμογή...">
+<!ENTITY customizeToolbar.accesskey                     "ρ">
+<!ENTITY layoutMenu.label                               "Διάταξη">
+<!ENTITY layoutMenu.accesskey                           "ξ">
+<!ENTITY showDirectoryPane.label                        "Ταμπλό ευρετηρίου">
+<!ENTITY showDirectoryPane.accesskey                    "υ">
+<!ENTITY showContactPane2.label                         "Ταπλό επαφών">
+<!ENTITY showContactPane2.accesskey                     "φ">
+<!ENTITY menu_ShowNameAs.label                          "Εμφάνιση ονόματος ως">
+<!ENTITY menu_ShowNameAs.accesskey                      "ν">
+<!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
+because displayed names don't have the comma in between. -->
+<!ENTITY firstLastCmd2.label                            "Όνομα Επίθετο">
+<!ENTITY firstLastCmd2.accesskey                        "μ">
+<!ENTITY lastFirstCmd.label                             "Επώνυμο-Όνομα">
+<!ENTITY lastFirstCmd.accesskey                         "π">
+<!ENTITY displayNameCmd.label                           "Όνομα">
+<!ENTITY displayNameCmd.accesskey                       "ν">
+<!ENTITY sortMenu.label                                 "Ταξινόμηση κατά">
+<!ENTITY sortMenu.accesskey                             "Τ">
+
+<!-- Tools Menu -->
+<!ENTITY tasksMenu.label                                "Εργαλεία">
+<!ENTITY tasksMenu.accesskey                            "γ">
+<!ENTITY messengerCmd.label                             "Αλληλογραφία &amp; Συζητήσεις">
+<!ENTITY messengerCmd.accesskey                         "λ">
+<!ENTITY messengerCmd.commandkey                        "1">
+<!ENTITY searchAddressesCmd.label                       "Αναζήτηση διευθύνσεων">
+<!ENTITY searchAddressesCmd.accesskey                   "ζ">
+<!ENTITY importCmd.label                                "Εισαγωγή...">
+<!ENTITY importCmd.accesskey                            "ι">
+<!ENTITY exportCmd.label                                "Εξαγωγή...">
+<!ENTITY exportCmd.accesskey                            "ξ">
+<!ENTITY preferencesCmd2.label                          "Επιλογές">
+<!ENTITY preferencesCmd2.accesskey                      "π">
+<!ENTITY preferencesCmdUnix.label                       "Προτιμήσεις">
+<!ENTITY preferencesCmdUnix.accesskey                   "μ">
+
+<!-- Address Book Toolbar and Context Menus -->  
+<!ENTITY newContactButton.label                         "Νέα επαφή">
+<!ENTITY newContactButton.accesskey                     "φ">
+<!ENTITY newlistButton.label                            "Νέα λίστα">
+<!ENTITY newlistButton.accesskey                        "λ">
+<!ENTITY editButton2.label                              "Ιδιότητες">
+<!ENTITY editButton2.accesskey                          "δ">
+<!ENTITY newmsgButton.label                             "Σύνταξη">
+<!ENTITY newmsgButton.accesskey                         "Σ">
+<!ENTITY newIM.label                                    "Instant Message">
+<!ENTITY newIM.accesskey                                "I">
+<!ENTITY deleteButton2.label                            "Διαγραφή">
+<!ENTITY deleteButton2.accesskey                        "Δ">
+
+<!-- Address Book Toolbar Tooltips -->
+<!ENTITY newContactButton.tooltip                       "Δημιουργία νέας επαφής στο ευρετήριο">
+<!ENTITY newlistButton.tooltip                          "Δημιουργία νέας λίστας">
+<!ENTITY editButton2.tooltip                            "Επεξεργασία επιλεγμένου αντικειμένου">
+<!ENTITY newmsgButton.tooltip                           "Αποστολή ενός μηνύματος αλληλογραφίας">
+<!ENTITY newIM.tooltip                                  "Αποστολή ενός άμεσου μηνύματος ή chat">
+<!ENTITY deleteButton2.tooltip                           "Διαγραφή επιλεγμένου αντικειμένου">
+
+<!-- Dir Tree header -->
+<!ENTITY dirTreeHeader.label                            "Ευρετήρια διευθύνσεων">
+
+<!-- Search Bar -->
+<!ENTITY SearchNameOrEmail.label                        "Όνομα ή Email">
+<!ENTITY SearchNameOrEmail.accesskey                    "ν">
+<!ENTITY advancedButton.tooltip                         "Προχωρημένη αναζήτηση διεύθυνσης">
+<!ENTITY quickSearchCmd.key                             "k">
 <!ENTITY searchItem.title "Γρήγορη αναζήτηση">
-<!ENTITY GeneratedName.label "Όνομα">
-<!ENTITY GeneratedName.accesskey "ν">
-<!ENTITY PrimaryEmail.label "Email">
-<!ENTITY PrimaryEmail.accesskey "E">
-<!ENTITY ScreenName.label "Screen Name">
-<!ENTITY ScreenName.accesskey "S">
-<!ENTITY Company.label "Οργανισμός">
-<!ENTITY Company.accesskey "ρ">
-<!ENTITY NickName.label "Ψευδώνυμο">
-<!ENTITY NickName.accesskey "δ">
-<!ENTITY SecondEmail.label "Επιπρόσθετο Email">
-<!ENTITY SecondEmail.accesskey "l">
-<!ENTITY Department.label "Τμήμα">
-<!ENTITY Department.accesskey "μ">
-<!ENTITY JobTitle.label "Τίτλος">
-<!ENTITY JobTitle.accesskey "λ">
-<!ENTITY CellularNumber.label "Κινητό">
-<!ENTITY CellularNumber.accesskey "η">
-<!ENTITY PagerNumber.label "Βομβητής">
-<!ENTITY PagerNumber.accesskey "Β">
-<!ENTITY FaxNumber.label "Φαξ">
-<!ENTITY FaxNumber.accesskey "Φ">
-<!ENTITY HomePhone.label "Τηλέφωνο οικίας">
-<!ENTITY HomePhone.accesskey "ο">
-<!ENTITY WorkPhone.label "Τηλέφωνο εργασίας">
-<!ENTITY WorkPhone.accesskey "γ">
-<!ENTITY sortAscending.label "Αύξουσα">
-<!ENTITY sortAscending.accesskey "ξ">
-<!ENTITY sortDescending.label "Φθίνουσα">
-<!ENTITY sortDescending.accesskey "Φ">
-<!ENTITY _PhoneticName.label "Phonetic Name">
-<!ENTITY _PhoneticName.accesskey "o">
-<!ENTITY contact.heading "Επαφή">
-<!ENTITY home.heading "Οικία">
-<!ENTITY other.heading "Άλλο">
-<!ENTITY phone.heading "Τηλέφωνο">
-<!ENTITY work.heading "Εργασία">
-<!ENTITY description.heading "Περιγραφή">
-<!ENTITY addresses.heading "Διευθύνσεις">
-<!ENTITY mapItButton.label "Λήψη χάρτη">
-<!ENTITY mapIt.tooltip "Εμφάνιση ενός χάρτη αυτής της διεύθυνσης από το διαδίκτυο">
+
+<!-- Results Pane -->
+<!ENTITY Addrbook.label                                 "Address Book">
+<!ENTITY Addrbook.accesskey                             "B">
+<!ENTITY GeneratedName.label                            "Όνομα">
+<!ENTITY GeneratedName.accesskey                        "ν">
+<!ENTITY PrimaryEmail.label                             "Email">
+<!ENTITY PrimaryEmail.accesskey                         "E">
+<!ENTITY ChatName.label                                 "Chat Name">
+<!ENTITY ChatName.accesskey                             "C">
+<!ENTITY Company.label                                  "Οργανισμός">
+<!ENTITY Company.accesskey                              "ρ">
+<!ENTITY NickName.label                                 "Ψευδώνυμο">
+<!ENTITY NickName.accesskey                             "δ">
+<!ENTITY SecondEmail.label                              "Επιπρόσθετο Email">
+<!ENTITY SecondEmail.accesskey                          "l">
+<!ENTITY Department.label                               "Τμήμα">
+<!ENTITY Department.accesskey                           "μ">
+<!ENTITY JobTitle.label                                 "Τίτλος">
+<!ENTITY JobTitle.accesskey                             "λ">
+<!ENTITY CellularNumber.label                           "Κινητό">
+<!ENTITY CellularNumber.accesskey                       "η">
+<!ENTITY PagerNumber.label                              "Βομβητής">
+<!ENTITY PagerNumber.accesskey                          "Β">
+<!ENTITY FaxNumber.label                                "Φαξ">
+<!ENTITY FaxNumber.accesskey                            "Φ">
+<!ENTITY HomePhone.label                                "Τηλέφωνο οικίας">
+<!ENTITY HomePhone.accesskey                            "ο">
+<!ENTITY WorkPhone.label                                "Τηλέφωνο εργασίας">
+<!ENTITY WorkPhone.accesskey                            "γ">
+<!ENTITY sortAscending.label                            "Αύξουσα">
+<!ENTITY sortAscending.accesskey                        "ξ">
+<!ENTITY sortDescending.label                           "Φθίνουσα">
+<!ENTITY sortDescending.accesskey                       "Φ">
+<!ENTITY _PhoneticName.label                            "Phonetic Name">
+<!ENTITY _PhoneticName.accesskey                        "o">
+
+<!-- Card Summary Pane -->
+<!-- Box Headings -->
+<!ENTITY contact.heading                                "Επαφή">
+<!ENTITY home.heading                                   "Οικία">
+<!ENTITY other.heading                                  "Άλλο">
+<!ENTITY chat.heading                                   "Chat">
+<!ENTITY phone.heading                                  "Τηλέφωνο">
+<!ENTITY work.heading                                   "Εργασία">
+<!-- Special Box Headings, for mailing lists -->
+<!ENTITY description.heading                            "Περιγραφή">
+<!ENTITY addresses.heading                              "Διευθύνσεις">
+<!-- For Map It! -->
+<!ENTITY mapItButton.label                              "Λήψη χάρτη">
+<!ENTITY mapIt.tooltip                                  "Εμφάνιση ενός χάρτη αυτής της διεύθυνσης από το διαδίκτυο">
+
+<!-- Status Bar -->
 <!ENTITY statusText.label "">
+
+<!--  Mac OS X Window Menu -->
 <!ENTITY windowMenu.label "Παράθυρο">
 <!ENTITY minimizeWindow.label "Ελαχιστοποίηση">
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Μεταφορά όλων μπροστά">
 <!ENTITY zoomWindow.label "Μεγέθυνση">
-<!ENTITY menubarCmd.label                               "Εργαλειοθήκη μενού">
-<!ENTITY menubarCmd.accesskey                           "μ">
-
-<!ENTITY firstLastCmd2.label                            "Όνομα Επίθετο">
-<!ENTITY firstLastCmd2.accesskey                        "μ">
-<!ENTITY layoutMenu.label                               "Διάταξη">
-<!ENTITY layoutMenu.accesskey                           "ξ">
-
-
-<!ENTITY showDirectoryPane.label                        "Ταμπλό ευρετηρίου">
-<!ENTITY showDirectoryPane.accesskey                    "υ">
-<!ENTITY showContactPane2.label                         "Ταπλό επαφών">
-<!ENTITY showContactPane2.accesskey                     "φ">

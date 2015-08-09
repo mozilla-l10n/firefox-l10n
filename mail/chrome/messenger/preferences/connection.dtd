@@ -2,39 +2,39 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY connectionsDialog.title "Ρυθμίσεις σύνδεσης">
-<!ENTITY window.width "49em">
-<!ENTITY proxyTitle.label "Ρύθμιση διαμεσολαβητών για την πρόσβαση στο διαδίκτυο">
-<!ENTITY noProxyTypeRadio.label "Χωρίς διαμεσολαβητή">
-<!ENTITY noProxyTypeRadio.accesskey "ω">
-<!ENTITY systemTypeRadio.label "Χρήση ρυθμίσεων διαμεσολαβητή συστήματος">
-<!ENTITY systemTypeRadio.accesskey "σ">
-<!ENTITY WPADTypeRadio.label "Αυτόματος εντοπισμός ρυθμίσεων διαμεσολαβητή για αυτό το δίκτυο">
-<!ENTITY WPADTypeRadio.accesskey "υ">
-<!ENTITY manualTypeRadio.label "Χειροκίνητη ρύθμιση διαμεσολαβητή:">
-<!ENTITY manualTypeRadio.accesskey "Χ">
-<!ENTITY autoTypeRadio.label "URL αυτόματης ρύθμισης διαμεσολαβητή:">
-<!ENTITY autoTypeRadio.accesskey "υ">
-<!ENTITY reload.label "Ανανέωση">
-<!ENTITY reload.accesskey "ν">
-<!ENTITY http.label "Διαμεσολαβητής HTTP:">
-<!ENTITY http.accesskey "h">
-<!ENTITY ssl.label "Διαμεσολαβητής SSL:">
-<!ENTITY ssl.accesskey "s">
-<!ENTITY socks.label "Σύστημα SOCKS:">
-<!ENTITY socks.accesskey "c">
-<!ENTITY socks4.label "SOCKS v4">
-<!ENTITY socks4.accesskey "k">
-<!ENTITY socks5.label "SOCKS v5">
-<!ENTITY socks5.accesskey "v">
-<!ENTITY HTTPport.label "Θύρα:">
-<!ENTITY HTTPport.accesskey "Θ">
-<!ENTITY SSLport.label "Θύρα:">
-<!ENTITY SSLport.accesskey "ρ">
-<!ENTITY SOCKSport.label "Θύρα:">
-<!ENTITY SOCKSport.accesskey "α">
-<!ENTITY noproxy.label "Χωρίς διαμεσολαβητή για:">
-<!ENTITY noproxy.accesskey "Χ">
-<!ENTITY noproxyExplain.label "Για παράδειγμα: .mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY shareproxy.label "Χρήση αυτού του διαμεσολαβητή για όλα τα πρωτόκολλα">
-<!ENTITY shareproxy.accesskey "δ">
+<!ENTITY  connectionsDialog.title       "Ρυθμίσεις σύνδεσης">
+
+<!ENTITY  proxyTitle.label              "Ρύθμιση διαμεσολαβητών για την πρόσβαση στο διαδίκτυο">
+<!ENTITY  noProxyTypeRadio.label        "Χωρίς διαμεσολαβητή">
+<!ENTITY  noProxyTypeRadio.accesskey    "ω">
+<!ENTITY  systemTypeRadio.label         "Χρήση ρυθμίσεων διαμεσολαβητή συστήματος">
+<!ENTITY  systemTypeRadio.accesskey     "σ">
+<!ENTITY  WPADTypeRadio.label           "Αυτόματος εντοπισμός ρυθμίσεων διαμεσολαβητή για αυτό το δίκτυο">
+<!ENTITY  WPADTypeRadio.accesskey       "υ">
+<!ENTITY  manualTypeRadio.label         "Χειροκίνητη ρύθμιση διαμεσολαβητή:">
+<!ENTITY  manualTypeRadio.accesskey     "Χ">
+<!ENTITY  autoTypeRadio.label           "URL αυτόματης ρύθμισης διαμεσολαβητή:">
+<!ENTITY  autoTypeRadio.accesskey       "υ">
+<!ENTITY  reload.label                  "Ανανέωση">
+<!ENTITY  reload.accesskey              "ν">
+<!ENTITY  http.label                    "Διαμεσολαβητής HTTP:">
+<!ENTITY  http.accesskey                "h">
+<!ENTITY  ssl.label                     "Διαμεσολαβητής SSL:">
+<!ENTITY  ssl.accesskey                 "s">
+<!ENTITY  socks.label                   "Σύστημα SOCKS:">
+<!ENTITY  socks.accesskey               "c">
+<!ENTITY  socks4.label                  "SOCKS v4">
+<!ENTITY  socks4.accesskey              "k">
+<!ENTITY  socks5.label                  "SOCKS v5">
+<!ENTITY  socks5.accesskey              "v">
+<!ENTITY  HTTPport.label                "Θύρα:">
+<!ENTITY  HTTPport.accesskey            "Θ">
+<!ENTITY  SSLport.label                 "Θύρα:">
+<!ENTITY  SSLport.accesskey             "ρ">
+<!ENTITY  SOCKSport.label               "Θύρα:">
+<!ENTITY  SOCKSport.accesskey           "α">
+<!ENTITY  noproxy.label                 "Χωρίς διαμεσολαβητή για:">
+<!ENTITY  noproxy.accesskey             "Χ">
+<!ENTITY  noproxyExplain.label          "Για παράδειγμα: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Χρήση αυτού του διαμεσολαβητή για όλα τα πρωτόκολλα">
+<!ENTITY  shareproxy.accesskey          "δ">

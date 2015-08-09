@@ -2,18 +2,37 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY typeColumn.label "Τύπος περιεχομένου">
-<!ENTITY typeColumn.accesskey "Τ">
-<!ENTITY actionColumn2.label "Ενέργεια">
-<!ENTITY actionColumn2.accesskey "ν">
-<!ENTITY focusSearch1.key "f">
-<!ENTITY focusSearch2.key "k">
-<!ENTITY filter.placeholder "Αναζήτηση">
-<!ENTITY saveTo.label "Αποθήκευση αρχείων σε">
-<!ENTITY saveTo.accesskey "θ">
-<!ENTITY alwaysAsk.label "Πάντα ερώτηση για την τοποθεσία αποθήκευσης">
-<!ENTITY alwaysAsk.accesskey "Π">
-<!ENTITY chooseFolderWin.label "Εξερεύνηση…">
-<!ENTITY chooseFolderWin.accesskey "ξ">
-<!ENTITY chooseFolderMac.label "Επιλογή…">
-<!ENTITY chooseFolderMac.accesskey "π">
+<!ENTITY  typeColumn.label            "Τύπος περιεχομένου">
+<!ENTITY  typeColumn.accesskey        "Τ">
+
+<!ENTITY  actionColumn2.label         "Ενέργεια">
+<!ENTITY  actionColumn2.accesskey     "ν">
+
+<!ENTITY  focusSearch1.key            "f">
+<!ENTITY  focusSearch2.key            "k">
+
+<!ENTITY  filter.placeholder          "Αναζήτηση">
+
+<!ENTITY saveTo.label                 "Αποθήκευση αρχείων σε">
+<!ENTITY saveTo.accesskey             "θ">
+<!ENTITY alwaysAsk.label              "Πάντα ερώτηση για την τοποθεσία αποθήκευσης">
+<!ENTITY alwaysAsk.accesskey          "Π">
+<!ENTITY chooseFolderWin.label        "Εξερεύνηση…">
+<!ENTITY chooseFolderWin.accesskey    "ξ">
+<!ENTITY chooseFolderMac.label        "Επιλογή…">
+<!ENTITY chooseFolderMac.accesskey    "π">
+
+<!ENTITY attachments.incoming.label   "Incoming">
+<!ENTITY attachments.outgoing.label   "Outgoing">
+
+<!ENTITY addCloudFileAccount.label        "Add">
+<!ENTITY addCloudFileAccount.accesskey    "A">
+<!ENTITY addCloudFileAccount.description  "Add a new Filelink storage service">
+<!ENTITY removeCloudFileAccount.label     "Remove">
+<!ENTITY removeCloudFileAccount.accesskey "R">
+<!ENTITY authRequired.description         "Your authorization is required in order to see the settings for this storage service.">
+<!ENTITY authRequired.button.label        "Authorize">
+<!ENTITY authRequired.button.accesskey    "U">
+
+<!ENTITY enableCloudFileAccountOffer.label "Offer to share for files larger than">
+<!ENTITY enableCloudFileAccountOffer.mb "MB">

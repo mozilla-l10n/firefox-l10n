@@ -1,20 +1,23 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY folderProps.windowtitle.label "Ιδιότητες">
-<!ENTITY generalInfo.label "Γενικές πληροφορίες">
-<!ENTITY folderCharsetTab.label "Προεπιλεγμένη κωδικοποίηση χαρακτήρων:">
-<!ENTITY folderCharsetTab.accesskey "ρ">
-<!ENTITY folderCharsetOverride.label "Εφαρμογή προεπιλογής παντού (παράβλεψη και της κεφαλίδας MIME)">
-<!ENTITY folderCharsetOverride.accesskey "φ">
-<!ENTITY folderRebuildSummaryFileTip2.label "Επιδιόρθωση αρχείου περίληψης ευρετηρίου">
-<!ENTITY folderRebuildSummaryFile2.label "Επιδιόρθωση φακέλου">
-<!ENTITY folderRebuildSummaryFile2.accesskey "ρ">
-<!ENTITY folderRebuildSummaryFile.explanation "Μερικές φορές το αρχείο ευρετηρίου του φακέλου (.msf) καταστρέφεται και φαίνεται ότι λείπουν μηνύματα ή εμφανίζονται διαγραμμένα μηνύματα. Συνήθως η επιδιόρθωση του αρχείου λύνει αυτά τα προβλήματα.">
-<!ENTITY folderIncludeInGlobalSearch.label "Να συμπεριλαμβάνονται τα μηνύματα αυτού του φακέλου στα αποτελέσματα της καθολικής αναζήτησης">
-<!ENTITY folderIncludeInGlobalSearch.accesskey "θ">
+
+<!ENTITY folderProps.windowtitle.label           "Ιδιότητες">
+
+<!ENTITY generalInfo.label                       "Γενικές πληροφορίες">
+<!ENTITY folderCharsetFallback2.label            "Fallback Text Encoding:">
+<!ENTITY folderCharsetFallback2.accesskey        "E">
+<!ENTITY folderCharsetEnforce2.label             "Apply encoding to all messages in the folder (individual message text encoding settings and auto-detection will be ignored)">
+<!ENTITY folderCharsetEnforce2.accesskey         "A">
+<!ENTITY folderRebuildSummaryFileTip2.label      "Επιδιόρθωση αρχείου περίληψης ευρετηρίου">
+<!ENTITY folderRebuildSummaryFile2.label         "Επιδιόρθωση φακέλου">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "ρ">
+<!ENTITY folderRebuildSummaryFile.explanation    "Μερικές φορές το αρχείο ευρετηρίου του φακέλου (.msf) καταστρέφεται και φαίνεται ότι λείπουν μηνύματα ή εμφανίζονται διαγραμμένα μηνύματα. Συνήθως η επιδιόρθωση του αρχείου λύνει αυτά τα προβλήματα.">
+<!ENTITY folderIncludeInGlobalSearch.label       "Να συμπεριλαμβάνονται τα μηνύματα αυτού του φακέλου στα αποτελέσματα της καθολικής αναζήτησης">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "θ">
+
 <!ENTITY retention.label "Πολιτική διατήρησης">
-<!ENTITY retentionUseAccount.label "Χρήση των ρυθμίσεων του λογαριασμού μου">
+<!ENTITY retentionUseAccount.label  "Χρήση των ρυθμίσεων του λογαριασμού μου">
 <!ENTITY retentionUseAccount.accesskey "ρ">
 <!ENTITY daysOld.label "ημέρες παλιά">
 <!ENTITY message.label "μηνύματα">
@@ -27,30 +30,44 @@
 <!ENTITY retentionKeepAll.accesskey "μ">
 <!ENTITY retentionKeepRecent.label "Διαγραφή όλων εκτός από τα πιο πρόσφατα">
 <!ENTITY retentionKeepRecent.accesskey "λ">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
 <!ENTITY retentionKeepUnreadHidden.label "Πάντα διαγραφή ανανωσμένων μηνυμάτων (παρακάμπτει τις ρυθμίσεις παλαιότητας)">
 <!ENTITY retentionApplyToFlagged.label "Διατήρηση μηνυμάτων με αστέρι">
 <!ENTITY retentionApplyToFlagged.accesskey "σ">
-<!ENTITY folderSynchronizationTab.label "Συγχρονισμός">
-<!ENTITY folderCheckForNewMessages2.label "Κατά τη λήψη μηνυμάτων από αυτόν το λογαριασμό, να γίνεται πάντα έλεγχος αυτού του φακέλου">
-<!ENTITY folderCheckForNewMessages2.accesskey "φ">
-<!ENTITY offlineFolder.check.label "Επιλογή αυτού του φακέλου για εργασία χωρίς σύνδεση">
-<!ENTITY offlineFolder.check.accesskey "γ">
-<!ENTITY offlineFolder.button.label "Λήψη τώρα">
-<!ENTITY offlineFolder.button.accesskey "ψ">
-<!ENTITY selectofflineNewsgroup.check.label "Επιλογή αυτής της ομάδας συζητήσεων για εργασία χωρίς σύνδεση">
-<!ENTITY selectofflineNewsgroup.check.accesskey "τ">
-<!ENTITY offlineNewsgroup.button.label "Λήψη τώρα">
-<!ENTITY offlineNewsgroup.button.accesskey "ψ">
-<!ENTITY folderProps.name.label "Όνομα:">
-<!ENTITY folderProps.name.accesskey "ν">
-<!ENTITY folderProps.location.label "Τοποθεσία">
-<!ENTITY folderProps.location.accesskey "θ">
-<!ENTITY folderSharingTab.label "Κοινή χρήση">
-<!ENTITY privileges.button.label "Προνόμια...">
-<!ENTITY privileges.button.accesskey "ν">
-<!ENTITY permissionsDesc.label "Έχετε τα ακόλουθα προνόμια:">
-<!ENTITY folderType.label "Τύπος φακέλου:">
-<!ENTITY folderQuotaTab.label "Όριο">
-<!ENTITY folderQuotaRoot.label "Quota Root:">
-<!ENTITY folderQuotaUsage.label "Χρήση:">
-<!ENTITY folderQuotaStatus.label "Κατάσταση:">
+
+<!ENTITY folderSynchronizationTab.label          "Συγχρονισμός">
+<!ENTITY folderCheckForNewMessages2.label         "Κατά τη λήψη μηνυμάτων από αυτόν το λογαριασμό, να γίνεται πάντα έλεγχος αυτού του φακέλου">
+<!ENTITY folderCheckForNewMessages2.accesskey     "φ">
+
+<!ENTITY offlineFolder.check.label               "Επιλογή αυτού του φακέλου για εργασία χωρίς σύνδεση">
+<!ENTITY offlineFolder.check.accesskey           "γ">
+<!ENTITY offlineFolder.button.label              "Λήψη τώρα">
+<!ENTITY offlineFolder.button.accesskey          "ψ">
+
+<!ENTITY selectofflineNewsgroup.check.label      "Επιλογή αυτής της ομάδας συζητήσεων για εργασία χωρίς σύνδεση">
+<!ENTITY selectofflineNewsgroup.check.accesskey  "τ">
+<!ENTITY offlineNewsgroup.button.label           "Λήψη τώρα">
+<!ENTITY offlineNewsgroup.button.accesskey       "ψ">
+
+<!ENTITY folderProps.name.label                  "Όνομα:">
+<!ENTITY folderProps.name.accesskey              "ν">
+<!ENTITY folderProps.location.label              "Τοποθεσία">
+<!ENTITY folderProps.location.accesskey          "θ">
+
+<!ENTITY folderSharingTab.label                  "Κοινή χρήση">
+<!ENTITY privileges.button.label                 "Προνόμια...">
+<!ENTITY privileges.button.accesskey             "ν">
+<!ENTITY permissionsDesc.label                   "Έχετε τα ακόλουθα προνόμια:">
+<!ENTITY folderType.label                        "Τύπος φακέλου:">
+
+<!ENTITY folderQuotaTab.label                    "Όριο">
+<!ENTITY folderQuotaRoot.label                   "Quota Root:">
+<!ENTITY folderQuotaUsage.label                  "Χρήση:">
+<!ENTITY folderQuotaStatus.label                 "Κατάσταση:">
+
+<!ENTITY numberOfMessages.label                  "Number of messages:">
+<!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
+<!ENTITY numberUnknown.label                     "unknown">
+<!ENTITY sizeOnDisk.label                        "Size on disk:">
+<!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
+<!ENTITY sizeUnknown.label                       "unknown">

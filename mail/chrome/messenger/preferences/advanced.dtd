@@ -2,91 +2,108 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY itemGeneral.label "Γενικά">
-<!ENTITY itemDisplay.label "Εμφάνιση &amp; Ανάγνωση">
-<!ENTITY itemUpdate.label "Ενημέρωση">
-<!ENTITY itemNetworking.label "Δίκτυο &amp; Αποθηκευτικός χώρος">
-<!ENTITY itemCertificates.label "Πιστοποιητικά">
-<!ENTITY enableGlodaSearch.label "Ενεργοποίηση γενικής αναζήτησης και καταλογοποίησης">
-<!ENTITY enableGlodaSearch.accesskey "γ">
-<!ENTITY systemIntegration.label "Ενσωμάτωση συστήματος">
-<!ENTITY alwaysCheckDefault.label "Πάντα έλεγχος στην εκκίνηση για το αν ο &brandShortName; είναι η προεπιλεγμένη εφαρμογή αλληλογραφίας">
-<!ENTITY alwaysCheckDefault.accesskey "λ">
-<!ENTITY searchIntegration.label "Να επιτρέπεται στο &searchIntegration.engineName; να κάνει αναζήτηση μηνυμάτων">
-<!ENTITY searchIntegration.accesskey "π">
-<!ENTITY checkNow.label "Έλεγχος τώρα">
-<!ENTITY checkNow.accesskey "τ">
-<!ENTITY configEditDesc.label "Προχωρημένες ρυθμίσεις">
-<!ENTITY configEdit.label "Επεξεργασία ρυθμίσεων...">
-<!ENTITY configEdit.accesskey "θ">
-<!ENTITY returnReceiptsInfo.label "Καθορισμός του τρόπου χειρισμού των βεβαιώσεων ανάγνωσης από τον &brandShortName;">
-<!ENTITY showReturnReceipts.label "Βεβαιώσεις ανάγνωσης…">
-<!ENTITY showReturnReceipts.accesskey "Β">
-<!ENTITY reading.caption "Ανάγνωση">
-<!ENTITY display.caption "Εμφάνιση">
-<!ENTITY showCondensedAddresses.label "Προβολή μόνο του ονόματος όσων βρίσκονται στο ευρετήριο διευθύνσεων">
-<!ENTITY showCondensedAddresses.accesskey "β">
-<!ENTITY autoMarkAsRead.label "Αυτόματη σημείωση μηνυμάτων ως αναγνωσμένων">
-<!ENTITY autoMarkAsRead.accesskey "Α">
-<!ENTITY markAsReadNoDelay.label "Άμεσα με την εμφάνιση">
-<!ENTITY markAsReadNoDelay.accesskey "φ">
-<!ENTITY markAsReadDelay.label "Μετά από εμφάνιση για">
-<!ENTITY markAsReadDelay.accesskey "ε">
-<!ENTITY secondsLabel.label "δευτερόλεπτα">
-<!ENTITY openMsgIn.label "Άνοιγμα μηνυμάτων σε:">
-<!ENTITY openMsgInNewTab.label "Μια νέα καρτέλα">
-<!ENTITY openMsgInNewTab.accesskey "τ">
-<!ENTITY reuseExpRadio0.label "Ένα νέο παράθυρο μηνύματος">
-<!ENTITY reuseExpRadio0.accesskey "ο">
-<!ENTITY reuseExpRadio1.label "Ένα υπάρχον παράθυρο μηνύματος">
-<!ENTITY reuseExpRadio1.accesskey "π">
-<!ENTITY closeMsgOnMoveOrDelete.label "Κλείσιμο παραθύρου/καρτέλας μηνύματος στο κλείσιμο ή διαγραφή">
-<!ENTITY closeMsgOnMoveOrDelete.accesskey "Κ">
-<!ENTITY autoCheck.label "Να γίνεται αυτόματος έλεγχος για ενημερώσεις για:">
-<!ENTITY enableAppUpdate.label "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey "h">
-<!ENTITY enableAddonsUpdate.label "Εγκατεστημένα πρόσθετα">
-<!ENTITY enableAddonsUpdate.accesskey "θ">
-<!ENTITY whenUpdatesFound.label "Όταν υπάρχουν ενημερώσεις για τον  &brandShortName; ">
-<!ENTITY modeAskMe.label "Να γίνεται ερώτηση για το τι να κάνω">
-<!ENTITY modeAskMe.accesskey "γ">
-<!ENTITY modeAutomatic.label "Αυτόματη λήψη και εγκατάσταση της ενημέρωσης">
-<!ENTITY modeAutomatic.accesskey "ψ">
-<!ENTITY modeAutoAddonWarn.label "Προειδοποίηση στην απενεργοποίηση προσθέτων">
-<!ENTITY modeAutoAddonWarn.accesskey "θ">
-<!ENTITY showUpdates.label "Προβολή ιστορικού ενημερώσεων">
-<!ENTITY showUpdates.accesskey "ι">
-<!ENTITY showSettings.label "Ρυθμίσεις…">
-<!ENTITY showSettings.accesskey "Θ">
-<!ENTITY proxiesConfigure.label "Ρύθμιση του τρόπου σύνδεσης του &brandShortName; στο διαδίκτυο">
-<!ENTITY connectionsInfo.caption "Σύνδεση">
-<!ENTITY offlineInfo.caption "Εργασία χωρίς σύνδεση">
-<!ENTITY offlineInfo.label "Ρυθμίσεις εργασίας χωρίς σύνδεση">
-<!ENTITY showOffline.label "Χωρίς σύνδεση…">
-<!ENTITY showOffline.accesskey "Χ">
-<!ENTITY Diskspace "Αποθηκευτικός χώρος">
-<!ENTITY offlineCompact.label "Συμπίεση φακέλων πάνω από">
-<!ENTITY offlineCompact.accesskey "π">
-<!ENTITY mb.label "MB">
-<!ENTITY useCacheBefore.label "Χρήση μέχρι">
-<!ENTITY useCacheBefore.accesskey "μ">
-<!ENTITY useCacheAfter.label "MB χώρου για την προσωρινή μνήμη">
-<!ENTITY clearCacheNow.label "Εκκαθάριση τώρα">
-<!ENTITY clearCacheNow.accesskey "θ">
-<!ENTITY certSelection.description "Όταν ένας διακομιστής ζητά ένα πιστοποιητικό:">
-<!ENTITY certs.auto "Να επιλέγεται ένα αυτόματα">
-<!ENTITY certs.auto.accesskey "λ">
-<!ENTITY certs.ask "Να γίνεται ερώτηση κάθε φορά">
-<!ENTITY certs.ask.accesskey "γ">
-<!ENTITY viewCertificates.label "Προβολή πιστοποιητικών">
-<!ENTITY viewCertificates.accesskey "σ">
-<!ENTITY viewCRLs.label "Λίστες ανάκλησης">
-<!ENTITY viewCRLs.accesskey "λ">
-<!ENTITY validation.label "Επικύρωση">
-<!ENTITY validation.accesskey "π">
-<!ENTITY viewSecurityDevices.label "Συσκευές ασφαλείας">
-<!ENTITY viewSecurityDevices.accesskey "υ">
+<!ENTITY itemGeneral.label       "Γενικά">
+<!ENTITY dataChoicesTab.label    "Data Choices">
+<!ENTITY itemUpdate.label        "Ενημέρωση">
+<!ENTITY itemNetworking.label    "Δίκτυο &amp; Αποθηκευτικός χώρος">
+<!ENTITY itemCertificates.label  "Πιστοποιητικά">
 
-<!ENTITY submitTelemetry.label         "Υποβολή δεδομένων επιδόσεων">
-<!ENTITY submitTelemetry.accesskey     "δ">
-<!ENTITY telemetryInfoLink.label       "Περισσότερες πληροφορίες για την τηλεμετρία">
+<!-- General Settings -->
+<!ENTITY enableGlodaSearch.label       "Ενεργοποίηση γενικής αναζήτησης και καταλογοποίησης">
+<!ENTITY enableGlodaSearch.accesskey   "γ">
+<!ENTITY allowHWAccel.label            "Use hardware acceleration when available">
+<!ENTITY allowHWAccel.accesskey        "h">
+<!ENTITY storeType.label               "Message Store Type for new accounts:">
+<!ENTITY storeType.accesskey           "T">
+<!ENTITY mboxStore2.label              "File per folder (mbox)">
+<!ENTITY maildirStore.label            "File per message (maildir)">
+
+<!ENTITY scrolling.label               "Scrolling">
+<!ENTITY useAutoScroll.label           "Use autoscrolling">
+<!ENTITY useAutoScroll.accesskey       "U">
+<!ENTITY useSmoothScrolling.label      "Use smooth scrolling">
+<!ENTITY useSmoothScrolling.accesskey  "m">
+
+<!ENTITY systemIntegration.label       "Ενσωμάτωση συστήματος">
+<!ENTITY alwaysCheckDefault.label      "Πάντα έλεγχος στην εκκίνηση για το αν ο &brandShortName; είναι η προεπιλεγμένη εφαρμογή αλληλογραφίας">
+<!ENTITY alwaysCheckDefault.accesskey  "λ">
+<!ENTITY searchIntegration.label       "Να επιτρέπεται στο &searchIntegration.engineName; να κάνει αναζήτηση μηνυμάτων">
+<!ENTITY searchIntegration.accesskey   "π">
+<!ENTITY checkDefaultsNow.label        "Έλεγχος τώρα">
+<!ENTITY checkDefaultsNow.accesskey    "τ">
+<!ENTITY configEditDesc.label          "Προχωρημένες ρυθμίσεις">
+<!ENTITY configEdit.label              "Επεξεργασία ρυθμίσεων...">
+<!ENTITY configEdit.accesskey          "θ">
+<!ENTITY returnReceiptsInfo.label      "Καθορισμός του τρόπου χειρισμού των βεβαιώσεων ανάγνωσης από τον &brandShortName;">
+<!ENTITY showReturnReceipts.label      "Βεβαιώσεις ανάγνωσης…">
+<!ENTITY showReturnReceipts.accesskey  "Β">
+
+<!-- Data Choices -->
+<!ENTITY telemetrySection.label          "Telemetry">
+<!ENTITY telemetryDesc.label             "Shares performance, usage, hardware and customization data about your e-mail client with &vendorShortName; to help us make &brandShortName; better">
+<!ENTITY enableTelemetry.label           "Enable Telemetry">
+<!ENTITY enableTelemetry.accesskey       "T">
+<!ENTITY telemetryLearnMore.label        "Learn More">
+
+<!ENTITY crashReporterSection.label      "Crash Reporter">
+<!ENTITY crashReporterDesc.label         "&brandShortName; submits crash reports to help &vendorShortName; make your e-mail client more stable and secure">
+<!ENTITY enableCrashReporter.label       "Enable Crash Reporter">
+<!ENTITY enableCrashReporter.accesskey   "C">
+<!ENTITY crashReporterLearnMore.label    "Learn More">
+
+<!-- Update -->
+<!ENTITY updateApp.label                 "&brandShortName; updates:">
+<!ENTITY updateAuto.label                "Automatically install updates (recommended: improved security)">
+<!ENTITY updateAuto.accesskey            "A">
+<!ENTITY updateCheck.label               "Check for updates, but let me choose whether to install them">
+<!ENTITY updateCheck.accesskey           "C">
+<!ENTITY updateManual.label              "Never check for updates (not recommended: security risk)">
+<!ENTITY updateManual.accesskey          "N">
+<!ENTITY updateAutoAddonWarn.label       "Warn me if this will disable any of my add-ons">
+<!ENTITY updateAutoAddonWarn.accesskey   "W">
+<!ENTITY updateHistory.label             "Show Update History">
+<!ENTITY updateHistory.accesskey         "p">
+
+<!ENTITY useService.label                "Use a background service to install updates">
+<!ENTITY useService.accesskey            "b">
+
+<!-- Networking and Disk Space -->
+<!ENTITY showSettings.label            "Ρυθμίσεις…">
+<!ENTITY showSettings.accesskey        "Θ">
+<!ENTITY proxiesConfigure.label        "Ρύθμιση του τρόπου σύνδεσης του &brandShortName; στο διαδίκτυο">
+<!ENTITY connectionsInfo.caption       "Σύνδεση">
+<!ENTITY offlineInfo.caption           "Εργασία χωρίς σύνδεση">
+<!ENTITY offlineInfo.label             "Ρυθμίσεις εργασίας χωρίς σύνδεση">
+<!ENTITY showOffline.label             "Χωρίς σύνδεση…">
+<!ENTITY showOffline.accesskey         "Χ">
+
+<!ENTITY Diskspace                       "Αποθηκευτικός χώρος">
+<!ENTITY offlineCompactFolders.label     "Συμπίεση φακέλων πάνω από">
+<!ENTITY offlineCompactFolders.accesskey "π">
+<!ENTITY offlineCompactFoldersMB.label   "MB in total">
+
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+<!ENTITY useCacheBefore.label            "Χρήση μέχρι">
+<!ENTITY useCacheBefore.accesskey        "μ">
+<!ENTITY useCacheAfter.label             "MB χώρου για την προσωρινή μνήμη">
+<!ENTITY clearCacheNow.label             "Εκκαθάριση τώρα">
+<!ENTITY clearCacheNow.accesskey         "θ">
+
+<!-- Certificates -->
+<!ENTITY certSelection.description       "Όταν ένας διακομιστής ζητά ένα πιστοποιητικό:">
+<!ENTITY certs.auto                      "Να επιλέγεται ένα αυτόματα">
+<!ENTITY certs.auto.accesskey            "λ">
+<!ENTITY certs.ask                       "Να γίνεται ερώτηση κάθε φορά">
+<!ENTITY certs.ask.accesskey             "γ">
+<!ENTITY enableOCSP.label                "Query OCSP responder servers to confirm the current validity of certificates">
+<!ENTITY enableOCSP.accesskey            "Q">
+
+<!ENTITY viewCertificates.label         "Προβολή πιστοποιητικών">
+<!ENTITY viewCertificates.accesskey     "σ">
+<!ENTITY viewSecurityDevices.label      "Συσκευές ασφαλείας">
+<!ENTITY viewSecurityDevices.accesskey  "υ">

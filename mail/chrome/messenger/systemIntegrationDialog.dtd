@@ -3,11 +3,19 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY systemIntegration.title "Ενσωμάτωση συστήματος">
+<!ENTITY acceptIntegration.label  "Set as Default">
+<!ENTITY cancelIntegration.label  "Skip Integration">
+<!ENTITY cancelIntegration2.label  "Cancel">
 <!ENTITY defaultClient.intro "Χρήση του &brandShortName; ως την προεπιλεγμένη εφαρμογή για:">
+
 <!ENTITY email.label "Αλληλογραφία">
 <!ENTITY newsgroups.label "Ομάδες συζητήσεων">
 <!ENTITY feeds.label "Αρχεία ροής">
+
+<!ENTITY unsetDefault.tooltip "It is not possible to unset &brandShortName; as the default client within &brandShortName;. To make another application the default you must use its 'Set as default' dialog.">
+
 <!ENTITY checkOnStartup.label "Να γίνεται πάντα έλεγχος κατά την εκκίνηση του &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "γ">
+
 <!ENTITY searchIntegration.label "Να επιτρέπεται στο &searchIntegration.engineName; η αναζήτηση μηνυμάτων">
 <!ENTITY searchIntegration.accesskey "ε">

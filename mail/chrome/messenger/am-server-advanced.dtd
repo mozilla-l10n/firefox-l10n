@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY serverAdvanced.label "Προχωρημένες ρυθμίσεις λογαριασμού">
+<!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
 <!ENTITY serverDirectory.label "Κατάλογος διακομιστή IMAP:">
 <!ENTITY serverDirectory.accesskey "γ">
 <!ENTITY usingSubscription.label "Προβολή μόνο των εγγεγραμμένων φακέλων">
@@ -13,6 +14,7 @@
 <!ENTITY useIdle.accesskey "I">
 <!ENTITY maximumConnectionsNumber.label "Μέγιστος αριθμός συνδέσεων διακομιστή στην cache">
 <!ENTITY maximumConnectionsNumber.accesskey "Μ">
+<!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
 <!ENTITY namespaceDesc.label "Αυτές οι προτιμήσεις καθορίζουν τα namespaces στον διακομιστή IMAP">
 <!ENTITY personalNamespace.label "Προσωπικό namespace:">
 <!ENTITY personalNamespace.accesskey "ο">
@@ -22,11 +24,7 @@
 <!ENTITY otherUsersNamespace.accesskey "λ">
 <!ENTITY overrideNamespaces.label "Να επιτρέπεται στο διακομιστή να παρακάμπτει αυτά τα namespaces">
 <!ENTITY overrideNamespaces.accesskey "ρ">
-<!ENTITY pop3Desc.label "Την εισερχόμενη αλληλογραφία pop3 μπορείτε να την αποθηκεύετε 
-στα Γενικά εισερχόμενα (τοπικοί φάκελοι), ή στα εισερχόμενα αυτού του λογαριασμού,
- ή σε κάποιον άλλο λογαριασμό POP3.">
-<!ENTITY globalInbox.label "Γενικά εισερχόμενα (λογαριασμός τοπικών φακέλων)">
-<!ENTITY globalInbox.accesskey "Γ">
+<!ENTITY pop3Desc.label "Την εισερχόμενη αλληλογραφία pop3 μπορείτε να την αποθηκεύετε στα Γενικά εισερχόμενα (τοπικοί φάκελοι), ή στα εισερχόμενα αυτού του λογαριασμού, ή σε κάποιον άλλο λογαριασμό POP3.">
 <!ENTITY accountDirectory.label "Εισερχόμενα για το λογαριασμό του τρέχοντα διακομιστή">
 <!ENTITY accountDirectory.accesskey "χ">
 <!ENTITY deferToServer.label "Εισερχόμενα για διαφορετικό λογαριασμό">

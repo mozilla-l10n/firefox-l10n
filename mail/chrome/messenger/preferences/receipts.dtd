@@ -2,25 +2,25 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY dialog.title "Βεβαιώσεις ανάγνωσης">
-<!ENTITY requestReceipt.label "Κατά την αποστολή μηνυμάτων να ζητείται πάντα βεβαίωση">
-<!ENTITY requestReceipt.accesskey "Κ">
-<!ENTITY receiptArrive.label "Μετά την επιστροφή μιας βεβαίωσης">
-<!ENTITY leaveIt.label "Να παραμένει στο φάκελο 'Εισερχόμενα'">
-<!ENTITY leaveIt.accesskey "ι">
-<!ENTITY moveToSent.label "Να μεταφέρεται στο φάκελο 'Απεσταλμένα'">
-<!ENTITY moveToSent.accesskey "μ">
-<!ENTITY requestMDN.label "Κατά τη λήψη ενός μηνύματος για το οποίο ο αποστολέας ζήτησε βεβαίωση (MDN):">
-<!ENTITY never.label "Να μην επιστρέφεται ποτέ βεβαίωση">
-<!ENTITY never.accesskey "ν">
-<!ENTITY returnSome.label "Να επιστρέφεται βεβαίωση μόνο στις παρακάτω περιπτώσεις:">
-<!ENTITY returnSome.accesskey "π">
-<!ENTITY notInToCc.label "Αν δεν είμαι στο Πρός ή Κοιν.  του μηνύματος:">
-<!ENTITY notInToCc.accesskey "ν">
-<!ENTITY outsideDomain.label "Aν ο αποστολέας είναι έξω από τον τομέα μου">
-<!ENTITY outsideDomain.accesskey "ξ">
-<!ENTITY otherCases.label "Σε όλες τις άλλες περιπτώσεις:">
-<!ENTITY otherCases.accesskey "λ">
-<!ENTITY askMe.label "Να γίνεται ερώτηση">
-<!ENTITY alwaysSend.label "Να στέλνεται πάντα">
-<!ENTITY neverSend.label "Να μη στέλνεται ποτέ">
+<!ENTITY dialog.title                  "Βεβαιώσεις ανάγνωσης">
+<!ENTITY requestReceipt.label          "Κατά την αποστολή μηνυμάτων να ζητείται πάντα βεβαίωση">
+<!ENTITY requestReceipt.accesskey      "Κ">
+<!ENTITY receiptArrive.label           "Μετά την επιστροφή μιας βεβαίωσης">
+<!ENTITY leaveIt.label                 "Να παραμένει στο φάκελο 'Εισερχόμενα'">
+<!ENTITY leaveIt.accesskey             "ι">
+<!ENTITY moveToSent.label              "Να μεταφέρεται στο φάκελο 'Απεσταλμένα'">
+<!ENTITY moveToSent.accesskey          "μ">
+<!ENTITY requestMDN.label              "Κατά τη λήψη ενός μηνύματος για το οποίο ο αποστολέας ζήτησε βεβαίωση (MDN):">
+<!ENTITY never.label                   "Να μην επιστρέφεται ποτέ βεβαίωση">
+<!ENTITY never.accesskey               "ν">
+<!ENTITY returnSome.label              "Να επιστρέφεται βεβαίωση μόνο στις παρακάτω περιπτώσεις:">
+<!ENTITY returnSome.accesskey          "π">
+<!ENTITY notInToCc.label               "Αν δεν είμαι στο Πρός ή Κοιν.  του μηνύματος:">
+<!ENTITY notInToCc.accesskey           "ν">
+<!ENTITY outsideDomain.label           "Aν ο αποστολέας είναι έξω από τον τομέα μου">
+<!ENTITY outsideDomain.accesskey       "ξ">
+<!ENTITY otherCases.label              "Σε όλες τις άλλες περιπτώσεις:">
+<!ENTITY otherCases.accesskey          "λ">
+<!ENTITY askMe.label                   "Να γίνεται ερώτηση">
+<!ENTITY alwaysSend.label              "Να στέλνεται πάντα">
+<!ENTITY neverSend.label               "Να μη στέλνεται ποτέ">
