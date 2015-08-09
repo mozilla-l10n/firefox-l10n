@@ -146,7 +146,7 @@
   -  should be recorded. -->
 
 <!ENTITY profilerUI.enableJITOptimizations             "Rechistrar as optimizacions JIT">
-
+<!ENTITY profilerUI.enableJITOptimizations.tooltiptext "Rechistrar os datos d'a optimizacion JIT mostriada en cada quadro de JavaScript.">
 <!-- LOCALIZATION NOTE (profilerUI.JITOptimizationsTitle): This string
   -  is displayed as the title of the JIT Optimizations panel. -->
 

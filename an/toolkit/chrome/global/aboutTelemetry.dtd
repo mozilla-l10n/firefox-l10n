@@ -6,10 +6,15 @@
 
 <!ENTITY aboutTelemetry.changeDataChoices "  Cambiar">
 
+<!ENTITY aboutTelemetry.uploadEnabled "  A puyada de datos de FHR ye <span>activada</span>.">
 
+<!ENTITY aboutTelemetry.uploadDisabled "  A puyada de datos de FHR ye <span>desactivada</span>.">
 
+<!ENTITY aboutTelemetry.extendedRecordingEnabled "  O rechistro de telemetría extendida ye <span>activau</span>.">
 
+<!ENTITY aboutTelemetry.extendedRecordingDisabled "  O rechistro de telemetría extendida ye <span>desactivau</span>.">
 
+<!ENTITY aboutTelemetry.pingDataSource "Fuent de datos de ping:">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "Datos actuals de ping">
 
