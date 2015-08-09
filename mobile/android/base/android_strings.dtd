@@ -8,7 +8,7 @@
 <!ENTITY onboard_start_subtext3 "Un’esperienza di navigazione che si adatta alle tue esigenze.">
 <!ENTITY onboard_start_button_account "Accedi a &brandShortName;">
 <!ENTITY onboard_start_button_browser "Inizia a navigare">
-<!ENTITY onboard_start_restricted "Sicurezza e controllo garantiti grazie a questa versione semplificata di Firefox.">
+<!ENTITY onboard_start_restricted1 "Sicurezza e controllo garantiti grazie a questa versione semplificata di &brandShortName;.">
 <!ENTITY bookmarks_title "Segnalibri">
 <!ENTITY home_title "&brandShortName; Home">
 <!ENTITY history_title "Cronologia">
