@@ -16,6 +16,10 @@
 <!ENTITY debuggerUI.startTracing "Запустить трассировку">
 <!ENTITY debuggerUI.clearButton "Очистить">
 <!ENTITY debuggerUI.clearButton.tooltip "Очистить собранные трассировки">
+<!ENTITY debuggerUI.pauseExceptions "Приостанавливаться на исключениях">
+<!ENTITY debuggerUI.pauseExceptions.accesskey "и">
+<!ENTITY debuggerUI.ignoreCaughtExceptions "Игнорировать пойманные исключения">
+<!ENTITY debuggerUI.ignoreCaughtExceptions.accesskey "в">
 <!ENTITY debuggerUI.showPanesOnInit "При запуске открывать панели">
 <!ENTITY debuggerUI.showPanesOnInit.accesskey "п">
 <!ENTITY debuggerUI.showVarsFilter "Показать панель фильтра переменных">
