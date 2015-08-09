@@ -102,7 +102,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.label "Ecrã completo">
 <!ENTITY enterFullScreenCmd.accesskey "E">
 <!ENTITY exitFullScreenCmd.label "Sair do ecrã completo">
-<!ENTITY exitFullScreenCmd.accesskey "o">
+<!ENTITY exitFullScreenCmd.accesskey "e">
 <!ENTITY fullScreenCmd.label "Ecrã completo">
 <!ENTITY fullScreenCmd.accesskey "E">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -307,7 +307,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.accesskey "j">
 <!ENTITY newNonRemoteWindow.label   "Nova janela Non-e10s">
 
-<!ENTITY editMenu.label         "Edição"> 
+<!ENTITY editMenu.label         "Editar"> 
 <!ENTITY editMenu.accesskey       "E"> 
 <!ENTITY undoCmd.label            "Desfazer">  
 <!ENTITY undoCmd.key            "Z">  
