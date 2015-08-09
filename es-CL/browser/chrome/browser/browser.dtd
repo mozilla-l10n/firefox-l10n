@@ -578,7 +578,6 @@
 <!ENTITY getUserMedia.allWindowsShared.message "Todas las ventanas visibles en su pantalla serán compartidas.">
 <!ENTITY trackingProtection.title "Protección de seguimiento">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; está bloqueando partes de la página que pueden seguir su navegación.">
-<!ENTITY trackingProtection.detectedNotBlocked2 "Este sitio incluye contenido que hace seguimiento a su navegación. Usted ha desactivado la protección.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Este sitio incluye elementos que siguen su navegación. Usted ha desactivado la protección.">
 <!ENTITY trackingProtection.notDetected3 "No se detectaron elementos de seguimiento en esta página.">
 <!ENTITY trackingProtection.unblock.label "Desactivar la protección para este sitio">

@@ -34,3 +34,4 @@
 <!ENTITY selectProfile.label "Los siguientes perfiles están disponibles para ser importados de:">
 <!ENTITY done.title "Importación terminada">
 <!ENTITY done.label "Los siguientes ítems fueron importados exitosamente:">
+<!ENTITY closeSourceBrowser.label       "Por favor, asegúrese de que el navegador seleccionado está cerrado antes de continuar.">
