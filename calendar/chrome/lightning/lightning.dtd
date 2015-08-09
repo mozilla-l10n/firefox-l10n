@@ -33,25 +33,31 @@
 <!ENTITY lightning.menu.view.tasks.accesskey           "ا">
 <!-- Events and Tasks menu -->
 
+<!ENTITY lightning.menu.eventtask.label                "الأحداث و المهام">
+<!ENTITY lightning.menu.eventtask.accesskey            "ا">
 <!-- properties dialog, calendar creation wizard -->
+
+<!ENTITY lightning.calendarproperties.email.label               "بريد إلكتروني:">
 <!-- iMIP Bar (meeting support) -->
 
-
-
-
-
-
-
-
-
+<!ENTITY lightning.imipbar.btnAccept.label                                  "اقبل">
+<!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "اقبل دعوة الحدث">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences.label                       "اقبل الكل">
+<!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "اقبل دعوة الحدث لجميع أحداث الواقعة">
+<!ENTITY lightning.imipbar.btnAdd.label                                     "أضف">
+<!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "أَضف الحدث للتقويم">
+<!ENTITY lightning.imipbar.btnDecline.label                                 "ارفض">
+<!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "ارفض دعوة الحدث">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "ارفض الكل">
+<!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "ارفض دعوة الحدث لجميع أحداث الواقعة">
 <!ENTITY lightning.imipbar.btnDelete.label                                  "احذف">
-
-
-
-
-
-
-
+<!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "احذف من التقويم">
+<!ENTITY lightning.imipbar.btnDetails.label                                 "التفاصيل...">
+<!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "أظهر تفاصيل الحدث">
+<!ENTITY lightning.imipbar.btnMore.label                                    "المزيد">
+<!ENTITY lightning.imipbar.btnMore.tooltiptext                              "اضغط لرؤية المزيد من الخيارات ">
+<!ENTITY lightning.imipbar.btnReconfirm2.label                              "أعد التأكيد">
+<!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "إرسال إعادة التأكيد للمنظم">
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "احفظ نسخة">
 <!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "احفظ نسخة من الحدث للتقويم بطريقة منفصلة للرد الى المنظم. قائمة الحضور سيتم مسحها">
 <!ENTITY lightning.imipbar.btnTentative.label                               "مؤقت">
@@ -74,10 +80,10 @@
 
 <!ENTITY todaypane.showMinimonth.label "أظهر شهر-مصغَر">
 <!ENTITY todaypane.showMinimonth.accesskey "ش">
-
-
-
-
-
-
-
+<!ENTITY todaypane.showMiniday.label "أظهر يوم-مصغَر">
+<!ENTITY todaypane.showMiniday.accesskey  "ي">
+<!ENTITY todaypane.showNone.label "أظهر لا شيئ">
+<!ENTITY todaypane.showNone.accesskey "ل">
+<!ENTITY todaypane.showTodayPane.label "أظهر جزء اليوم">
+<!ENTITY todaypane.showTodayPane.accesskey "أ">
+<!ENTITY todaypane.statusButton.label "جزء اليوم">

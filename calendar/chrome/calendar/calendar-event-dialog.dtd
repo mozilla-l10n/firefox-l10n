@@ -127,17 +127,17 @@
 <!ENTITY  event.menu.options.privacy.private.accesskey        "خ">
 <!ENTITY  event.menu.options.show.time.label                  "اعرض الوقت ك‍">
 <!ENTITY  event.menu.options.show.time.accesskey              "ق">
-<!ENTITY  event.menu.options.show.time.busy.label             "مشغول">
-<!ENTITY  event.menu.options.show.time.busy.accesskey         "غ">
-<!ENTITY  event.menu.options.show.time.free.label             "متفرّغ">
-<!ENTITY  event.menu.options.show.time.free.accesskey         "ت">
+<!ENTITY  event.menu.options.show.time.busy.label             "مشغول ">
+<!ENTITY  event.menu.options.show.time.busy.accesskey         "م">
+<!ENTITY  event.menu.options.show.time.free.label             "&#037;مجاني">
+<!ENTITY  event.menu.options.show.time.free.accesskey         "F">
 
-<!ENTITY event.invite.attendees.label                     "ادع الحضور…">
+<!ENTITY event.invite.attendees.label                     "دعوة الحضور…">
 <!ENTITY event.invite.attendees.accesskey                 "د">
 <!ENTITY event.email.attendees.label                      "اكتب بريد إلكتروني إلى كل الحضور…">
 <!ENTITY event.email.attendees.accesskey                  "ك">
-<!ENTITY event.email.tentative.attendees.label            "اكتب بريد إلكتروني إلى الحضور المترددين…">
-<!ENTITY event.email.tentative.attendees.accesskey        "م">
+<!ENTITY event.email.tentative.attendees.label            "إنشاء بريد إلكتروني الى &amp; الحضور المترددين">
+<!ENTITY event.email.tentative.attendees.accesskey        "U">
 <!-- Toolbar -->
 
 <!ENTITY  event.toolbar.save.label                        "احفظ و أغلق">
