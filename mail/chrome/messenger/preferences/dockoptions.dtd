@@ -13,3 +13,4 @@
 <!ENTITY showAllUnreadMessagesCount.accesskey  "n">
 <!ENTITY dockIconBadge.label                   "Notifikácie na ikone aplikácie">
 <!ENTITY dockIconShow.label                    "Na ikonu aplikácie pridať nasledovnú notifikáciu:">
+<!ENTITY directNotificationSettings.label      "Notifikácie na ikone aplikácie môžete zrušiť v nastaveniach systému na paneli Notifikácie.">
