@@ -683,6 +683,7 @@ you can use these alternative items. Otherwise, their values should be empty.
 
 <!ENTITY identity.connectionSecure "Connexion sécurisée">
 <!ENTITY identity.connectionNotSecure "Connexion non sécurisée">
+<!ENTITY identity.connectionFile "Cette page est stockée sur votre ordinateur.">
 <!ENTITY identity.connectionVerified "&brandShortName; a vérifié que vous êtes connecté de façon sécurisée à ce site, dont le détenteur est :">
 <!ENTITY identity.connectionInternal "Ceci est une page sécurisée de &brandShortName;.">
 
@@ -787,18 +788,6 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY getUserMedia.audioCapture.label "L'audio de l'onglet sera partagé.">
 <!ENTITY getUserMedia.allWindowsShared.message "L'ensemble des fenêtres visibles sur votre écran seront partagées.">
 
-<!-- Bad Content Blocker Doorhanger Notification -->
-<!ENTITY badContentBlocked.moreinfo "La plupart des sites web continueront de fonctionner correctement même si du contenu est bloqué.">
-
-<!ENTITY mixedContentBlocked2.message "Contenu non sécurisé">
-<!ENTITY mixedContentBlocked2.moreinfo "Certains éléments non chiffrés sur ce site web ont été bloqués.">
-<!ENTITY mixedContentBlocked2.learnMore "En savoir plus">
-<!ENTITY mixedContentBlocked2.options "Options">
-<!ENTITY mixedContentBlocked2.unblock.label "Désactiver la protection pour l'instant">
-<!ENTITY mixedContentBlocked2.unblock.accesskey "D">
-<!ENTITY mixedContentBlocked2.block.label "Activer la protection">
-<!ENTITY mixedContentBlocked2.block.accesskey "A">
-<!ENTITY mixedContentBlocked2.disabled.message "La protection est désactivée">
 
 <!ENTITY trackingProtection.title "Protection contre le pistage">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; a bloqué des éléments de la page qui peuvent pister votre navigation.">

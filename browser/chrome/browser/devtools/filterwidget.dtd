@@ -12,3 +12,13 @@
 
 <!-- LOCALIZATION NOTE (addNewFilterButton): This string is displayed on a button used to add new filters -->
 <!ENTITY addNewFilterButton "Ajouter">
+
+<!-- LOCALIZATION NOTE (newPresetPlaceholder): This string is used as
+   - a placeholder in the list of presets which is used to save a new preset -->
+<!ENTITY newPresetPlaceholder "Nom du préréglage">
+
+<!-- LOCALIZATION NOTE (savePresetButton): This string is displayed on a button used to save a new preset -->
+<!ENTITY savePresetButton "Enregistrer">
+
+<!-- LOCALIZATION NOTE(presetsToggleButton): This string is used in a button which toggles the presets list -->
+<!ENTITY presetsToggleButton "Préréglage">
