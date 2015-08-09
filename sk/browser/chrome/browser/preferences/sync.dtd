@@ -16,7 +16,6 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label        "Správa účtu">
 <!ENTITY manageAccount.accesskey    "S">
-<!ENTITY viewQuota.label            "Zobraziť kvótu">
 <!ENTITY changePassword2.label      "Zmeniť heslo…">
 <!ENTITY myRecoveryKey.label        "Môj Obnovovací kľúč">
 <!ENTITY resetSync2.label           "Nová synchronizácia…">
