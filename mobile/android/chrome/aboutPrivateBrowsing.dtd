@@ -5,10 +5,12 @@
 <!ENTITY privatebrowsingpage.title "Navegación privada">
 <!ENTITY privatebrowsingpage.title.normal "No ye en navegación privada.">
 
+<!ENTITY privatebrowsingpage.issueDesc.normal2 "En navegación privada, nusatros no alzaremos cosa d'o tuyo historial de navegación ni cookies.">
+<!ENTITY privatebrowsingpage.issueDesc.private2 "No alzaremos cosa d'o tuyo historial de navegación ni cookies.">
 
-
+<!ENTITY privatebrowsingpage.description2 "Os marcapachinas que anyadas y os ficheros que descargues continaran alzando-se en o tuyo dispositivo.">
 <!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
 <!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
 
 <!ENTITY privatebrowsingpage.link.private "Deseya saber-ne mas?">
-
+<!ENTITY privatebrowsingpage.link.normal "Ubrir una nueva pestanya privada">
