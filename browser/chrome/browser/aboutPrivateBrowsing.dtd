@@ -17,3 +17,6 @@
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Otvoriť okno v režime Súkromné prehliadanie">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "v">
+
+<!ENTITY trackingProtection.enable.label       "Zapnúť Ochranu pred sledovaním">
+<!ENTITY trackingProtection.enable.accesskey   "Z">
