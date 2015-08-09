@@ -8,6 +8,7 @@
 <!ENTITY onboard_start_subtext3 "Делает ваш мобильный веб-сёрфинг по-настоящему уникальным.">
 <!ENTITY onboard_start_button_account "Войти в &brandShortName;">
 <!ENTITY onboard_start_button_browser "Начать веб-сёрфинг">
+<!ENTITY onboard_start_restricted1 "Будьте в безопасности и установите свой контроль с этой упрощённой версией &brandShortName;.">
 <!ENTITY bookmarks_title "Закладки">
 <!ENTITY history_title "История">
 <!ENTITY reading_list_title "Список для чтения">
@@ -51,6 +52,8 @@
 <!ENTITY site_security "Защита сайта">
 <!ENTITY edit_mode_cancel "Отмена">
 <!ENTITY close_tab "Закрыть вкладку">
+<!ENTITY tab_audio_playing "В этой вкладке играет аудио">
+<!ENTITY tab_audio_muted "В этой вкладке убран звук">
 <!ENTITY one_tab "1 вкладка">
 <!ENTITY num_tabs2 "&formatD; вкладок">
 <!ENTITY new_tab_opened "Открыта новая вкладка">
@@ -128,7 +131,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "Включены, кроме сторонних сайтов">
 <!ENTITY pref_cookies_disabled "Отключены">
 <!ENTITY pref_tracking_protection_title "Защита от отслеживания">
-<!ENTITY pref_tracking_protection_summary2 "Активно блокировать элементы отслеживания в Приватном просмотре">
+<!ENTITY pref_tracking_protection_summary3 "Включена в Приватном просмотре">
 <!ENTITY pref_donottrack_title "Не отслеживать">
 <!ENTITY pref_donottrack_summary "&brandShortName; будет сообщать сайтам, что вы не хотите, чтобы вас отслеживали">
 <!ENTITY tracking_protection_prompt_title "Теперь с Защитой от отслеживания">
@@ -286,6 +289,8 @@
 <!ENTITY pref_titlebar_mode "Панель заголовка">
 <!ENTITY pref_titlebar_mode_title "Отображать заголовок страницы">
 <!ENTITY pref_titlebar_mode_url "Отображать адрес страницы">
+<!ENTITY pref_prevent_magnifying_glass "Отключить увеличительное стекло">
+<!ENTITY pref_prevent_magnifying_glass_summary "Не давать использовать увеличительное стекло для разрешения неоднозначных касаний экрана">
 <!ENTITY pref_scroll_title_bar2 "Полноэкранный веб-серфинг">
 <!ENTITY pref_scroll_title_bar_summary "Скрывать панель заголовка &brandShortName; при прокрутке страницы вниз">
 <!ENTITY pref_tab_queue_title2 "Открытие множества ссылок">
@@ -360,6 +365,8 @@
 <!ENTITY identity_connection_secure "Защищённое соединение">
 <!ENTITY identity_connection_insecure "Незащищённое соединение">
 <!ENTITY mixed_content_blocked_all "&brandShortName; заблокировал небезопасные элементы на этой странице.">
+<!ENTITY mixed_content_blocked_some "&brandShortName; заблокировал некоторые небезопасные элементы на этой странице.">
+<!ENTITY mixed_content_display_loaded "На этой странице есть некоторые небезопасные элементы.">
 <!ENTITY mixed_content_protection_disabled "Вы отключили защиту от небезопасных элементов.">
 <!ENTITY loaded_mixed_content_message "Эта страница отображает содержимое, не являющееся безопасным.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; заблокировал содержимое, не являющееся безопасным.">
@@ -368,7 +375,7 @@
 <!ENTITY doorhanger_tracking_state_enabled "Включена">
 <!ENTITY doorhanger_tracking_state_disabled "Отключена">
 <!ENTITY doorhanger_tracking_message_enabled1 "Попытки отследить ваше поведение в Интернете были заблокированы.">
-<!ENTITY doorhanger_tracking_message_disabled1 "Этот сайт имеет содержимое, отслеживающее ваше поведение в Интернете.">
+<!ENTITY doorhanger_tracking_message_disabled2 "Эта страница содержит элементы, которые могут отслеживать ваше поведение в Интернете.">
 <!ENTITY learn_more "Подробнее">
 <!ENTITY enable_protection "Включить защиту">
 <!ENTITY disable_protection "Отключить защиту">
@@ -414,13 +421,13 @@
 <!ENTITY find_matchcase "Аа">
 <!ENTITY intent_uri_cannot_open "Не могу открыть ссылку">
 <!ENTITY devtools_auth_scan_header "Сканирование QR-кода, отображенного на другом вашем устройстве">
-<!ENTITY restriction_disallow_tools_menu_title "Отключить меню Инструменты">
-<!ENTITY restriction_disallow_tools_menu_description "Скрыть меню Инструменты из интерфейса.">
-<!ENTITY restriction_disallow_report_site_issue_title "Отключить \'Сообщить о проблеме с сайтом\'">
-<!ENTITY restriction_disallow_report_site_issue_description "Скрыть пункт меню \'Сообщить о проблеме с сайтом\'.">
-<!ENTITY restriction_disallow_import_settings_title "Запретить импорт параметров">
-<!ENTITY restriction_disallow_import_settings_description "Не разрешать импорт параметров из других системных браузеров.">
-<!ENTITY restriction_disallow_addons_title "Запретить дополнения">
-<!ENTITY restriction_disallow_addons_description "Запретить установку дополнений.">
-<!ENTITY restriction_disallow_apps_title "Запретить приложения">
-<!ENTITY restriction_disallow_apps_description "Запретить установку приложений из Firefox Marketplace.">
+<!ENTITY restriction_disallow_import_settings_title2 "Отключить \'Импорт из Android\'">
+<!ENTITY restriction_disallow_addons_title2 "Отключить установку дополнений">
+<!ENTITY restriction_disallow_devtools_title2 "Отключить инструменты разработки">
+<!ENTITY restriction_disallow_customize_home_title2 "Отключить настройку Дома">
+<!ENTITY restriction_disallow_private_browsing_title2 "Отключить Приватный просмотр">
+<!ENTITY restriction_disallow_location_services_title2 "Отключить службы местоположения">
+<!ENTITY restriction_disallow_display_settings_title2 "Отключить настройку Отображения">
+<!ENTITY restriction_disallow_clear_history_title2 "Отключить \'Удаление истории веб-сёрфинга\'">
+<!ENTITY restriction_disallow_master_password_title2 "Отключить мастер-пароль">
+<!ENTITY restriction_disallow_guest_browsing_title2 "Отключить Гостевой веб-серфинг">

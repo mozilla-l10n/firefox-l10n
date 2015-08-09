@@ -3,11 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY privatebrowsingpage.title "Приватный просмотр">
-<!ENTITY privatebrowsingpage.title.normal "Вы не в режиме приватного просмотра">
-<!ENTITY privatebrowsingpage.issueDesc.normal2 "В режиме приватного просмотра мы не будем вести журнал посещений или сохранять куки.">
-<!ENTITY privatebrowsingpage.issueDesc.private2 "Мы не будем вести журнал посещений или сохранять куки.">
-<!ENTITY privatebrowsingpage.description2 "Загруженные файлы и сделанные закладки будут сохранены на вашем устройстве.">
-<!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
-<!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
+<!ENTITY privatebrowsingpage.title.private "+ Защита от отслеживания">
+<!ENTITY privatebrowsingpage.title.normal1 "Вы не в режиме Приватного просмотра">
+<!ENTITY privatebrowsingpage.description.private3 "Firefox не даст вас отслеживать и не будет вести никаких журналов, однако загруженные файлы и новые закладки будут сохранены на вашем устройстве.">
+<!ENTITY privatebrowsingpage.description.normal2 "В режиме Приватного просмотра мы не будем вести журнал посещений или сохранять куки. Однако загруженные файлы и сделанные закладки будут сохранены на вашем устройстве.">
 <!ENTITY privatebrowsingpage.link.private "Хотите узнать больше?">
 <!ENTITY privatebrowsingpage.link.normal "Открыть новую приватную вкладку">
