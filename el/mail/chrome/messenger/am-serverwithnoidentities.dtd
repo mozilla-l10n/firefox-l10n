@@ -2,14 +2,5 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY accountTitle.label "Οδηγός λογαριασμού">
-<!ENTITY accountSettingsDesc.label "Αυτός είναι ένας ειδικός λογαριασμός. Δεν υπάρχουν ταυτότητες σχετικές με αυτόν.">
 <!ENTITY accountName.label "Όνομα λογαριασμού:">
 <!ENTITY accountName.accesskey "ν">
-<!ENTITY messageStorage.label "Αποθηκευτικός χώρος μηνυμάτων">
-<!ENTITY emptyTrashOnExit.label "Άδειασμα κάδου στην έξοδο">
-<!ENTITY emptyTrashOnExit.accesskey "ξ">
-<!ENTITY localPath.label "Τοπικός κατάλογος:">
-<!ENTITY localFolderPicker.label "Επιλογή τοπικών φακέλων:">
-<!ENTITY browseFolder.label "Εξερεύνηση...">
-<!ENTITY browseFolder.accesskey "ξ">

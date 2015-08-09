@@ -2,51 +2,57 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY fileMenu.label "Αρχείο">
-<!ENTITY fileMenu.accesskey "Α">
-<!ENTITY newMenu.label "Νέο">
-<!ENTITY newMenu.accesskey "Ν">
-<!ENTITY editMenu.label "Επεξεργασία">
-<!ENTITY editMenu.accesskey "Ε">
-<!ENTITY undoCmd.label "Αναίρεση">
-<!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "ρ">
-<!ENTITY redoCmd.label "Ακύρωση Αναίρεσης">
-<!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "κ">
-<!ENTITY cutCmd.label "Αποκοπή">
-<!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "κ">
-<!ENTITY copyCmd.label "Αντιγραφή">
-<!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "γ">
-<!ENTITY pasteCmd.label "Επικόλληση">
-<!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "λ">
-<!ENTITY deleteCmd.label "Διαγραφή">
-<!ENTITY deleteCmd.accesskey "Δ">
-<!ENTITY selectAllCmd.label "Επιλογή όλων">
-<!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "ο">
-<!ENTITY preferencesCmd.label "Επιλογές...">
-<!ENTITY preferencesCmd.accesskey "ο">
-<!ENTITY preferencesCmdUnix.label "Προτιμήσεις">
-<!ENTITY preferencesCmdUnix.accesskey "ρ">
-<!ENTITY viewMenu.label "Προβολή">
-<!ENTITY viewMenu.accesskey "ρ">
-<!ENTITY viewToolbarsMenu.label "Εργαλειοθήκες">
-<!ENTITY viewToolbarsMenu.accesskey "γ">
-<!ENTITY showTaskbarCmd.label "Εργαλειοθήκη εργασιών">
-<!ENTITY showTaskbarCmd.accesskey "σ">
-<!ENTITY proxy.label "Ρύθμιση διαμεσολαβητή...">
-<!ENTITY proxy.accesskey "δ">
-<!ENTITY closeCmd.label "Κλείσιμο">
-<!ENTITY closeCmd.key "W">
-<!ENTITY closeCmd.accesskey "Κ">
-<!ENTITY quitApplicationCmd.label "Έξοδος">
-<!ENTITY quitApplicationCmd.key "Q">
-<!ENTITY quitApplicationCmd.accesskey "ξ">
-<!ENTITY quitApplicationCmdUnix.label "Κλείσιμο">
-<!ENTITY quitApplicationCmdUnix.accesskey "Κ">
-<!ENTITY quitApplicationCmdMac.label "Κλείσιμο &brandShortName;">
-<!ENTITY quitApplicationCmdMac.accesskey "λ">
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
+
+<!ENTITY fileMenu.label          "Αρχείο">
+<!ENTITY fileMenu.accesskey        "Α">
+<!ENTITY newMenu.label            "Νέο">
+<!ENTITY newMenu.accesskey          "Ν">
+
+<!ENTITY editMenu.label          "Επεξεργασία">
+<!ENTITY editMenu.accesskey        "Ε">
+<!ENTITY undoCmd.label            "Αναίρεση">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "ρ">
+<!ENTITY redoCmd.label            "Ακύρωση Αναίρεσης">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "κ">
+<!ENTITY cutCmd.label            "Αποκοπή">
+<!ENTITY cutCmd.key              "X">
+<!ENTITY cutCmd.accesskey          "κ">
+<!ENTITY copyCmd.label            "Αντιγραφή">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "γ">
+<!ENTITY pasteCmd.label            "Επικόλληση">
+<!ENTITY pasteCmd.key            "V">
+<!ENTITY pasteCmd.accesskey          "λ">
+<!ENTITY deleteCmd.label          "Διαγραφή">
+<!ENTITY deleteCmd.accesskey        "Δ">
+<!ENTITY selectAllCmd.label          "Επιλογή όλων">
+<!ENTITY selectAllCmd.key          "A">
+<!ENTITY selectAllCmd.accesskey        "ο">
+<!ENTITY preferencesCmd2.label "Επιλογές">
+<!ENTITY preferencesCmd2.accesskey "ο">
+<!ENTITY preferencesCmdUnix.label       "Προτιμήσεις">
+<!ENTITY preferencesCmdUnix.accesskey     "ρ">
+
+<!ENTITY viewMenu.label          "Προβολή">
+<!ENTITY viewMenu.accesskey        "ρ">
+<!ENTITY viewToolbarsMenu.label        "Εργαλειοθήκες">
+<!ENTITY viewToolbarsMenu.accesskey      "γ">
+<!ENTITY showTaskbarCmd.label          "Εργαλειοθήκη εργασιών">
+<!ENTITY showTaskbarCmd.accesskey        "σ">
+
+<!ENTITY closeCmd.label      "Κλείσιμο">
+<!ENTITY closeCmd.key      "W">
+<!ENTITY closeCmd.accesskey    "Κ">
+
+<!ENTITY quitApplicationCmd.label  "Έξοδος">
+<!ENTITY quitApplicationCmd.key    "Q">
+<!ENTITY quitApplicationCmd.accesskey  "ξ">
+
+<!ENTITY quitApplicationCmdUnix.label  "Κλείσιμο">
+<!ENTITY quitApplicationCmdUnix.accesskey  "Κ">
+
+<!ENTITY quitApplicationCmdMac.label  "Κλείσιμο &brandShortName;">
+<!ENTITY quitApplicationCmdMac.accesskey  "λ">

@@ -2,31 +2,46 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY addressing.label "Διευθυνσιοδότηση &amp; Σύνταξη">
+<!-- extracted from am-addressing.xul -->
+
+<!ENTITY addressing.label          "Διευθυνσιοδότηση &amp; Σύνταξη">
 <!ENTITY addressingGroupTitle.label "Διευθυνσιοδότηση">
-<!ENTITY addressingText.label "Οταν γίνεται έλεγχος για διευθύνσεις:">
-<!ENTITY useGlobal.label "Να γίνει χρήση των  γενικών ρυθμίσεων εξυπηρετητή LDAP για αυτόν το λογαριασμό.">
-<!ENTITY useGlobal.accesskey "χ">
-<!ENTITY editDirectories.label "Επεξεργασία καταλόγων...">
+<!ENTITY addressingText.label      "Οταν γίνεται έλεγχος για διευθύνσεις:">
+<!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
+<!ENTITY useGlobal.label           "Να γίνει χρήση των  γενικών ρυθμίσεων εξυπηρετητή LDAP για αυτόν το λογαριασμό.">
+<!ENTITY useGlobal.accesskey       "χ">
+<!ENTITY editDirectories.label     "Επεξεργασία καταλόγων...">
 <!ENTITY editDirectories.accesskey "ξ">
-<!ENTITY directories.label "Χρήση ενός διαφορετικού εξυπηρετητή LDAP">
-<!ENTITY directories.accesskey "ρ">
-<!ENTITY directoriesNone.label "Κανένα">
-<!ENTITY compositionGroupTitle.label "Σύνταξη">
-<!ENTITY useHtml.label "Σύνταξη μηνυμάτων σε μορφή HTML">
-<!ENTITY useHtml.accesskey "Σ">
-<!ENTITY autoQuote.label "Αυτόματη παράθεση του αρχικού μηνύματος κατά την απάντηση">
-<!ENTITY autoQuote.accesskey "π">
-<!ENTITY then.label "Τότε,">
-<!ENTITY then.accesskey "Τ">
-<!ENTITY aboveQuote.label "έναρξη της απάντησης μου πάνω από την παράθεση">
-<!ENTITY belowQuote.label "έναρξη της απάντησης μου κάτω από την παράθεση">
-<!ENTITY selectAndQuote.label "επιλογή της παράθεσης">
-<!ENTITY place.label "και τοποθέτηση της υπογραφής μου">
-<!ENTITY place.accesskey "τ">
-<!ENTITY belowText.label "κάτω από την παράθεση (συνιστώμενο)">
-<!ENTITY aboveText.label "κάτω από την απάντηση μου">
-<!ENTITY includeSigOnReply.label "Χρήση υπογραφής στις απαντήσεις">
-<!ENTITY includeSigOnReply.accesskey "σ">
-<!ENTITY includeSigOnForward.label "Χρήση υπογραφής στις προωθήσεις">
-<!ENTITY includeSigOnForward.accesskey "θ">
+<!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
+<!ENTITY directories.label         "Χρήση ενός διαφορετικού εξυπηρετητή LDAP">
+<!ENTITY directories.accesskey     "ρ">
+<!ENTITY directoriesNone.label     "Κανένα">
+
+<!-- am-addressing.xul -->
+
+<!ENTITY compositionGroupTitle.label          "Σύνταξη">
+<!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
+<!ENTITY useHtml.label                        "Σύνταξη μηνυμάτων σε μορφή HTML">
+<!ENTITY useHtml.accesskey                    "Σ">
+<!ENTITY autoQuote.label                      "Αυτόματη παράθεση του αρχικού μηνύματος κατά την απάντηση">
+<!ENTITY autoQuote.accesskey                  "π">
+<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
+<!ENTITY then.label                           "Τότε,">
+<!ENTITY then.accesskey                       "Τ">
+<!ENTITY aboveQuote.label                     "έναρξη της απάντησης μου πάνω από την παράθεση">
+<!ENTITY belowQuote.label                     "έναρξη της απάντησης μου κάτω από την παράθεση">
+<!ENTITY selectAndQuote.label                 "επιλογή της παράθεσης">
+<!ENTITY place.label                          "και τοποθέτηση της υπογραφής μου">
+<!ENTITY place.accesskey                      "τ">
+<!ENTITY belowText.label                      "κάτω από την παράθεση (συνιστώμενο)">
+<!ENTITY aboveText.label                      "κάτω από την απάντηση μου">
+<!ENTITY includeSigOnReply.label              "Χρήση υπογραφής στις απαντήσεις">
+<!ENTITY includeSigOnReply.accesskey          "σ">
+<!ENTITY includeSigOnForward.label            "Χρήση υπογραφής στις προωθήσεις">
+<!ENTITY includeSigOnForward.accesskey        "θ">
+
+<!ENTITY globalComposingPrefs.label           "Global Composing Preferences…">
+<!ENTITY globalComposingPrefs.accesskey       "G">
+
+<!ENTITY globalAddressingPrefs.label          "Global Addressing Preferences…">
+<!ENTITY globalAddressingPrefs.accesskey      "P">

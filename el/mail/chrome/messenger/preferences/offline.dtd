@@ -3,13 +3,19 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY offlineDialog.title "Ρυθμίσεις εργασίας χωρίς σύνδεση">
-<!ENTITY textStartUp "Κατά την εκκίνηση:">
+
+<!ENTITY checkAutoDetect.label "Automatically follow detected online state">
+<!ENTITY checkAutoDetect.accesskey "d">
+<!ENTITY titleStartUp "Κατάσταση κατά την εκκίνηση:">
 <!ENTITY radioRememberPrevState.label "Απομνημόνευση προηγούμενης κατάστασης">
 <!ENTITY radioRememberPrevState.accesskey "μ">
-<!ENTITY radioAskMe.label "Ερώτηση για σύνδεση κατά την εκκίνηση">
-<!ENTITY radioAskMe.accesskey "ρ">
-<!ENTITY radioAlwaysOnline.label "Εκκίνηση πάντοτε με σύνδεση">
-<!ENTITY radioAlwaysOnline.accesskey "π">
+<!ENTITY radioAskState.label "Ερώτηση για σύνδεση κατά την εκκίνηση">
+<!ENTITY radioAskState.accesskey "ρ">
+<!ENTITY radioAlwaysOnlineState.label "Mε σύνδεση">
+<!ENTITY radioAlwaysOnlineState.accesskey "π">
+<!ENTITY radioAlwaysOffline.label "Offline">
+<!ENTITY radioAlwaysOffline.accesskey "f">
+
 <!ENTITY textGoingOnline "Αποστολή μη απεσταλμένων κατά την σύνδεση;">
 <!ENTITY radioAutoSend.label "Ναι">
 <!ENTITY radioAutoSend.accesskey "α">

@@ -2,34 +2,38 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY messengerStartPage.label "Αρχική σελίδα &brandShortName;">
-<!ENTITY enableStartPage.label "Όταν ξεκινάει ο  &brandShortName; να εμφανίζεται η αρχική σελίδα στην περιοχή μηνύματος">
-<!ENTITY enableStartPage.accesskey "τ">
-<!ENTITY location.label "Τοποθεσία:">
-<!ENTITY location1.accesskey "ο">
-<!ENTITY useDefault.label "Επαναφορά προεπιλογών">
-<!ENTITY useDefault.accesskey "π">
-<!ENTITY bounceSystemDockIcon.label "Κίνηση του εικονιδίου στον πίνακα εφαρμογών">
-<!ENTITY bounceSystemDockIcon.accesskey "ι">
-<!ENTITY newMessagesArrive.label "Όταν φθάνουν νέα μηνύματα:">
-<!ENTITY playSound.label "Αναπαραγωγή ενός ήχου">
-<!ENTITY playSound1.accesskey "π">
-<!ENTITY showAnimatedAlert.label "Εμφάνιση μιας ειδοποίησης">
-<!ENTITY showAnimatedAlert.accesskey "φ">
-<!ENTITY customizeMailAlert.label "Προσαρμογή…">
-<!ENTITY customizeMailAlert.accesskey "μ">
-<!ENTITY play.label "Αναπαραγωγή">
-<!ENTITY play.accesskey "π">
-<!ENTITY systemsound.label "Προεπιλεγμένος ήχος συστήματος για νέο μήνυμα">
-<!ENTITY systemsoundMac.label "Ήχος προειδοποίησης συστήματος">
-<!ENTITY systemsoundMac.accesskey "χ">
-<!ENTITY systemsound.accesskey "χ">
-<!ENTITY customsound.label "Χρήση του ακόλουθου αρχείου ήχου">
-<!ENTITY customsound.accesskey "Χ">
-<!ENTITY browse.label "Εξερεύνηση…">
-<!ENTITY browse.accesskey "ξ">
-<!ENTITY addonsMgr.label "Πρόσθετα">
-<!ENTITY manageAddonsDescWin.label "Αλλαγή επιλογών για τα πρόσθετα σας">
-<!ENTITY manageAddonsDescUnix2.label "Αλλαγή προτιμήσεων για τα πρόσθετα σας">
-<!ENTITY manageAddons.label "Διαχείριση προσθέτων…">
-<!ENTITY manageAddons.accesskey "Δ">
+<!ENTITY messengerStartPage.label         "Αρχική σελίδα &brandShortName;">
+<!ENTITY enableStartPage.label            "Όταν ξεκινάει ο  &brandShortName; να εμφανίζεται η αρχική σελίδα στην περιοχή μηνύματος">
+<!ENTITY enableStartPage.accesskey        "τ">
+<!ENTITY location.label                   "Τοποθεσία:">
+<!ENTITY location1.accesskey               "ο">
+<!ENTITY useDefault.label                 "Επαναφορά προεπιλογών">
+<!ENTITY useDefault.accesskey             "π">
+
+<!ENTITY changeDockIconOptions.label      "Change preferences for the app icon">
+<!ENTITY dockOptions.label                "App Icon Options…">
+<!ENTITY dockOptions.accesskey            "n">
+
+<!ENTITY newMessagesArrive.label          "Όταν φθάνουν νέα μηνύματα:">
+<!ENTITY playSound.label                  "Αναπαραγωγή ενός ήχου">
+<!ENTITY playSound1.accesskey              "π">
+<!ENTITY showAnimatedAlert.label          "Εμφάνιση μιας ειδοποίησης">
+<!ENTITY showAnimatedAlert.accesskey      "φ">
+<!ENTITY customizeMailAlert.label         "Προσαρμογή…">
+<!ENTITY customizeMailAlert.accesskey     "μ">
+
+<!ENTITY showTrayIcon.label               "Show a tray icon">
+<!ENTITY showTrayIcon.accesskey           "t">
+
+<!ENTITY play.label                       "Αναπαραγωγή">
+<!ENTITY play.accesskey                   "π">
+<!ENTITY systemsound.label                "Προεπιλεγμένος ήχος συστήματος για νέο μήνυμα">
+<!ENTITY systemsoundMac.label             "Ήχος προειδοποίησης συστήματος">
+<!ENTITY systemsoundMac.accesskey         "χ">
+<!ENTITY systemsound.accesskey            "χ">
+<!ENTITY customsound.label                "Χρήση του ακόλουθου αρχείου ήχου">
+<!ENTITY customsound.accesskey            "Χ">
+<!ENTITY browse.label                     "Εξερεύνηση…">
+<!ENTITY browse.accesskey                 "ξ">
+
+<!ENTITY defaultSearchEngine.label        "Default Search Engine">

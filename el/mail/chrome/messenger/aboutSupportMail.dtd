@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutSupport.appBasicsAppBuildID "ID έκδοσης εφαρμογής">
+
 <!ENTITY aboutSupport.accountsTitle "Λογαριασμοί Αλληλογραφίας και συζητήσεων">
 <!ENTITY aboutSupport.showPrivateData.mainText "Να συμπεριλαμβάνονται ονόματα λογαριασμών">
 <!ENTITY aboutSupport.showPrivateData.explanationText "(πιθανώς ταυτοποιήσιμες πληροφορίες)">
@@ -14,4 +15,5 @@
 <!ENTITY aboutSupport.accountsConnSecurity "Ασφάλεια σύνδεσης">
 <!ENTITY aboutSupport.accountsAuthMethod "Μέθοδος πιστοποίησης">
 <!ENTITY aboutSupport.accountsDefault "Προεπιλογή;">
+
 <!ENTITY aboutSupport.sendViaEmail.label "Αποστολή μέσω email">

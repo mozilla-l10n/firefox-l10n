@@ -2,53 +2,62 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY itemGeneral.label "Γενικά">
-<!ENTITY itemAutoComplete.label "Διευθυνσιοδότηση">
-<!ENTITY itemSpellCheck.label "Ορθογραφικός έλεγχος">
-<!ENTITY forwardMsg.label "Προώθηση μηνυμάτων:">
-<!ENTITY forwardMsg.accesskey "θ">
-<!ENTITY inline.label "στο μήνυμα">
-<!ENTITY asAttachment.label "Ως συνημμένο:">
-<!ENTITY addExtension.label "προσθήκη επέκτασης στο όνομα αρχείου">
-<!ENTITY addExtension.accesskey "χ">
-<!ENTITY htmlComposeHeader.label "HTML">
-<!ENTITY font.label "Γραμματοσειρά:">
-<!ENTITY font.accesskey "ρ">
-<!ENTITY size.label "Μέγεθος:">
-<!ENTITY size.accesskey "θ">
-<!ENTITY fontColor.label "Χρώμα κειμένου:">
-<!ENTITY fontColor.accesskey "Χ">
-<!ENTITY bgColor.label "Χρώμα παρασκηνίου:">
-<!ENTITY bgColor.accesskey "ρ">
-<!ENTITY restoreHTMLDefaults.label "Επαναφορά προεπιλογών">
-<!ENTITY restoreHTMLDefaults.accesskey "φ">
-<!ENTITY spellCheck.label "Ορθογραφικός έλεγχος πριν την αποστολή">
-<!ENTITY spellCheck.accesskey "θ">
-<!ENTITY spellCheckInline.label "Αυτόματος ορθογραφικός έλεγχος">
-<!ENTITY spellCheckInline1.accesskey "υ">
-<!ENTITY languagePopup.label "Γλώσσα:">
-<!ENTITY languagePopup.accessKey "λ">
-<!ENTITY downloadDictionaries.label "Λήψη περισσότερων λεξικών">
-<!ENTITY warnOnSendAccelKey.label "Ερώτηση επιβεβαίωσης όταν γίνεται χρήση της συντόμευσης πληκτρολογίου για την αποστολή μηνυμάτων">
-<!ENTITY warnOnSendAccelKey.accesskey "β">
-<!ENTITY autoSave.label "Αυτόματη αποθήκευση κάθε">
-<!ENTITY autoSave.accesskey "υ">
-<!ENTITY autoSaveEnd.label "λεπτά">
-<!ENTITY emailCollectionPicker.label "Αυτόματη προσθήκη των εξερχομένων διευθύνσεων e-mail στο:">
-<!ENTITY emailCollectionPicker.accesskey "τ">
-<!ENTITY addressingTitle.label "Αυτόματη συμπλήρωση ευρετηρίου">
-<!ENTITY autocompleteText.label "Κατά τη διευθυνσιοδότηση μηνυμάτων, να γίνεται έρευνα για σχετικές διευθύνσεις σε:">
-<!ENTITY addressingEnable.label "Τοπικά ευρετήρια διευθύνσεων">
-<!ENTITY addressingEnable.accesskey "ο">
-<!ENTITY directories.label "Εξυπηρετητής καταλόγου:">
-<!ENTITY directories.accesskey "κ">
-<!ENTITY directoriesNone.label "Κανένας">
-<!ENTITY editDirectories.label "Επεξεργασία καταλόγων...">
-<!ENTITY editDirectories.accesskey "Ε">
-<!ENTITY sendOptionsDescription.label "Ρύθμιση συμπεριφοράς μορφής κειμένου">
-<!ENTITY sendOptions.label "Επιλογές αποστολής...">
-<!ENTITY sendOptions.accesskey "σ">
-<!ENTITY attachmentReminder.label "Έλεγχος για ξεχασμένα συνημμένα">
-<!ENTITY attachmentReminder.accesskey "γ">
-<!ENTITY attachmentReminderOptions.label "Λέξεις-κλειδιά…">
-<!ENTITY attachmentReminderOptions.accesskey "κ">
+<!ENTITY itemGeneral.label                   "Γενικά">
+<!ENTITY itemAutoComplete.label              "Διευθυνσιοδότηση">
+<!ENTITY itemSpellCheck.label                "Ορθογραφικός έλεγχος">
+
+<!ENTITY dialogCompose.title                 "Composing">
+
+<!ENTITY forwardMsg.label                     "Προώθηση μηνυμάτων:">
+<!ENTITY forwardMsg.accesskey                 "θ">
+<!ENTITY inline.label                         "στο μήνυμα">
+<!ENTITY asAttachment.label                   "Ως συνημμένο:">
+<!ENTITY addExtension.label                   "προσθήκη επέκτασης στο όνομα αρχείου">
+<!ENTITY addExtension.accesskey               "χ">
+
+<!ENTITY htmlComposeHeader.label              "HTML">
+<!ENTITY font.label                           "Γραμματοσειρά:">
+<!ENTITY font.accesskey                       "ρ">
+<!ENTITY size.label                           "Μέγεθος:">
+<!ENTITY size.accesskey                       "θ">
+<!ENTITY fontColor.label                      "Χρώμα κειμένου:">
+<!ENTITY fontColor.accesskey                  "Χ">
+<!ENTITY bgColor.label                        "Χρώμα παρασκηνίου:">
+<!ENTITY bgColor.accesskey                    "ρ">
+<!ENTITY restoreHTMLDefaults.label            "Επαναφορά προεπιλογών">
+<!ENTITY restoreHTMLDefaults.accesskey        "φ">
+
+<!ENTITY spellCheck.label                     "Ορθογραφικός έλεγχος πριν την αποστολή">
+<!ENTITY spellCheck.accesskey                 "θ">
+<!ENTITY spellCheckInline.label               "Αυτόματος ορθογραφικός έλεγχος">
+<!ENTITY spellCheckInline1.accesskey          "υ">
+<!ENTITY languagePopup.label                  "Γλώσσα:">
+<!ENTITY languagePopup.accessKey              "λ">
+<!ENTITY downloadDictionaries.label           "Λήψη περισσότερων λεξικών">
+
+<!ENTITY warnOnSendAccelKey.label             "Ερώτηση επιβεβαίωσης όταν γίνεται χρήση της συντόμευσης πληκτρολογίου για την αποστολή μηνυμάτων">
+<!ENTITY warnOnSendAccelKey.accesskey         "β">
+<!ENTITY autoSave.label                       "Αυτόματη αποθήκευση κάθε">
+<!ENTITY autoSave.accesskey                   "υ">
+<!ENTITY autoSaveEnd.label                    "λεπτά">
+
+<!ENTITY emailCollectionPicker.label           "Αυτόματη προσθήκη των εξερχομένων διευθύνσεων e-mail στο:">
+<!ENTITY emailCollectionPicker.accesskey       "τ">
+<!ENTITY addressingTitle.label                 "Αυτόματη συμπλήρωση ευρετηρίου">
+<!ENTITY autocompleteText.label                "Κατά τη διευθυνσιοδότηση μηνυμάτων, να γίνεται έρευνα για σχετικές διευθύνσεις σε:">
+<!ENTITY addressingEnable.label                "Τοπικά ευρετήρια διευθύνσεων">
+<!ENTITY addressingEnable.accesskey            "ο">
+<!ENTITY directories.label                     "Εξυπηρετητής καταλόγου:">
+<!ENTITY directories.accesskey                 "κ">
+<!ENTITY directoriesNone.label                 "Κανένας">
+<!ENTITY editDirectories.label                 "Επεξεργασία καταλόγων...">
+<!ENTITY editDirectories.accesskey             "Ε">
+
+<!ENTITY sendOptionsDescription.label          "Ρύθμιση συμπεριφοράς μορφής κειμένου">
+<!ENTITY sendOptions.label                     "Επιλογές αποστολής...">
+<!ENTITY sendOptions.accesskey                 "σ">
+
+<!ENTITY attachmentReminder.label              "Έλεγχος για ξεχασμένα συνημμένα">
+<!ENTITY attachmentReminder.accesskey          "γ">
+<!ENTITY attachmentReminderOptions.label       "Λέξεις-κλειδιά…">
+<!ENTITY attachmentReminderOptions.accesskey   "κ">

@@ -2,11 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY itemJunk.label "Ανεπιθύμητη αλληλογραφία">
-<!ENTITY itemPhishing.label " Απάτες E-mail">
-<!ENTITY itemPasswords.label "Κωδικοί">
-<!ENTITY itemAntiVirus.label "Anti-Virus">
-<!ENTITY itemCookies.label "Περιεχόμενο ιστού">
+<!ENTITY itemJunk.label          "Ανεπιθύμητη αλληλογραφία">
+<!ENTITY itemPhishing.label      "Απάτες E-mail">
+<!ENTITY itemPasswords.label     "Κωδικοί">
+<!ENTITY itemAntiVirus.label     "Anti-Virus">
+
+<!-- Junk Mail Controls -->
 <!ENTITY junkMail.intro "Ορισμός των προεπιλεγμένων ρυθμίσεων ανεπιθύμητης αλληλογραφίας. Οι ρυθμίσεις ανεπιθύμητων για συγκεκριμένους λογαριασμούς μπορούν να ορισθούν από τις ρυθμίσεις λογαριασμού.">
 <!ENTITY manualMark.label "Όταν σημειώνεται ένα μήνυμα ως ανεπιθύμητο:">
 <!ENTITY manualMark.accesskey "σ">
@@ -16,37 +17,32 @@
 <!ENTITY manualMarkModeDelete.accesskey "δ">
 <!ENTITY markAsReadOnSpam.label "Σημείωση ανεπιθύμητων ως αναγνωσμένα">
 <!ENTITY markAsReadOnSpam.accesskey "μ">
-<!ENTITY enableJunkLogging.label "Ενεργοποίηση καταγραφής φίλτρου ανεπιθύμητων">
-<!ENTITY enableJunkLogging.accesskey "γ">
+<!ENTITY enableAdaptiveJunkLogging.label "Ενεργοποίηση καταγραφής προσαρμοζόμενου φίλτρου ανεπιθύμητων">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "γ">
 <!ENTITY openJunkLog.label "Προβολή αρχείου καταγραφής">
 <!ENTITY openJunkLog.accesskey "φ">
 <!ENTITY resetTrainingData.label "Αρχικοποίηση δεδομένων εκμάθησης">
 <!ENTITY resetTrainingData.accesskey "χ">
-<!ENTITY phishingDetector1.intro "Ο &brandShortName; μπορεί να αναλύει μηνύματα για πιθανές απάτες email, με το να ελέγχει για μερικές κοινές πρακτικές που χρησιμοποιούν για παραπλάνηση.">
-<!ENTITY enablePhishingDetector1.label "Ειδοποίηση αν το μήνυμα είναι ύποπτο απάτης">
-<!ENTITY enablePhishingDetector1.accesskey "δ">
+
+<!-- Phishing Detector -->
+<!ENTITY phishingDetector1.intro  "Ο &brandShortName; μπορεί να αναλύει μηνύματα για πιθανές απάτες email, με το να ελέγχει για μερικές κοινές πρακτικές που χρησιμοποιούν για παραπλάνηση.">
+<!ENTITY enablePhishingDetector1.label    "Ειδοποίηση αν το μήνυμα είναι ύποπτο απάτης">
+<!ENTITY enablePhishingDetector1.accesskey  "δ">
 <!ENTITY useDownloadedList.label "Χρήση μιας ληφθείσας λίστας με ύποπτα email - απάτες">
 <!ENTITY useDownloadedList.accesskey "Χ">
-<!ENTITY savedPasswords.intro "Ο &brandShortName; μπορεί να απομνημονεύσει κωδικούς λογαριασμών, έτσι ώστε να μη χρειάζεται να τους εισάγετε κάθε φορά που χρειάζεται.">
-<!ENTITY useMasterPassword.label "Χρήση ενός κύριου κωδικού">
-<!ENTITY useMasterPassword.accesskey "ρ">
-<!ENTITY masterPassword.intro "Όταν ορισθεί, ο κύριος κωδικός προστατεύει όλους τους κωδικούς σας - αλλά θα πρέπει να τον εισάγετε σε κάθε συνεδρία.">
-<!ENTITY changeMasterPassword.label "Αλλαγή κύριου κωδικού…">
+
+<!-- Passwords -->
+<!ENTITY savedPasswords.intro           "Ο &brandShortName; μπορεί να απομνημονεύσει κωδικούς λογαριασμών, έτσι ώστε να μη χρειάζεται να τους εισάγετε κάθε φορά που χρειάζεται.">
+<!ENTITY useMasterPassword.label        "Χρήση ενός κύριου κωδικού">
+<!ENTITY useMasterPassword.accesskey    "ρ">
+<!ENTITY masterPassword.intro           "Όταν ορισθεί, ο κύριος κωδικός προστατεύει όλους τους κωδικούς σας - αλλά θα πρέπει να τον εισάγετε σε κάθε συνεδρία.">
+<!ENTITY changeMasterPassword.label     "Αλλαγή κύριου κωδικού…">
 <!ENTITY changeMasterPassword.accesskey "γ">
-<!ENTITY savedPasswords.label "Αποθηκευμένοι κωδικοί…">
-<!ENTITY savedPasswords.accesskey "θ">
-<!ENTITY antiVirus.intro "Ο &brandShortName; μπορεί να διευκολύνει το λογισμικό προστασίας από ιούς να αναλύει τα εισερχόμενα μηνύματα σας για ιούς πριν να αποθηκευτούν τοπικά.">
-<!ENTITY antiVirus.label "Να επιτρέπεται στις εφαρμογές προστασίας από ιούς να βάζουν σε καραντίνα ξεχωριστά εισερχόμενα μηνύματα">
-<!ENTITY antiVirus.accesskey "ρ">
-<!ENTITY cookies.intro "Ο &brandShortName; σας επιτρέπει να καθορίσετε τα ιστολόγια, τις ροές ειδήσεων και τις άλλες σελίδες που θα μπορούν να θέτουν cookies.">
-<!ENTITY acceptCookies.label "Αποδοχή cookies από σελίδες">
-<!ENTITY acceptCookies.accesskey "χ">
-<!ENTITY keepUntil.label "Διατήρηση μέχρι:">
-<!ENTITY keepUntil.accesskey "Δ">
-<!ENTITY expire.label "να λήξουν">
-<!ENTITY close.label "να κλείσει ο &brandShortName;">
-<!ENTITY askEachTime.label "ερώτηση κάθε φορά">
-<!ENTITY cookieExceptions.label "Εξαιρέσεις…">
-<!ENTITY cookieExceptions.accesskey "ξ">
-<!ENTITY showCookies.label "Προβολή Cookies…">
-<!ENTITY showCookies.accesskey "β">
+<!ENTITY savedPasswords.label           "Αποθηκευμένοι κωδικοί…">
+<!ENTITY savedPasswords.accesskey       "θ">
+
+<!-- Anti Virus -->
+<!ENTITY antiVirus.intro      "Ο &brandShortName; μπορεί να διευκολύνει το λογισμικό προστασίας από ιούς να αναλύει τα εισερχόμενα μηνύματα σας για ιούς πριν να αποθηκευτούν τοπικά.">
+<!ENTITY antiVirus.label      "Να επιτρέπεται στις εφαρμογές προστασίας από ιούς να βάζουν σε καραντίνα ξεχωριστά εισερχόμενα μηνύματα">
+<!ENTITY antiVirus.accesskey  "ρ">
+

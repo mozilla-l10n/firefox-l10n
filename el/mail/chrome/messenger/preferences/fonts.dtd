@@ -2,65 +2,78 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY fontsAndEncodingsDialog.title "Γραμματοσειρές &amp; Κωδικοποίηση">
-<!ENTITY window.width "47em">
-<!ENTITY window.macWidth "47em">
-<!ENTITY window.unixWidth "47em">
-<!ENTITY language.label "Γραμματοσειρές για:">
-<!ENTITY language.accesskey "τ">
-<!ENTITY size.label "Μέγεθος:">
-<!ENTITY proportionalSize.accesskey "θ">
-<!ENTITY sizeMono.accesskey "ε">
-<!ENTITY proportional.label "Μεταβλητές:">
-<!ENTITY proportional.accesskey "β">
-<!ENTITY serif.label "Serif:">
-<!ENTITY serif.accesskey "s">
-<!ENTITY sans-serif.label "Sans Serif:">
-<!ENTITY sans-serif.accesskey "n">
-<!ENTITY monospace.label "Monospace:">
-<!ENTITY monospace.accesskey "m">
-<!ENTITY font.langGroup.latin1 "Δυτική">
-<!ENTITY font.langGroup.latin2 "Κεντρικής Ευρώπης">
-<!ENTITY font.langGroup.japanese "Ιαπωνικά">
-<!ENTITY font.langGroup.trad-chinese "Κινέζικα Παραδοσιακά (Taiwan)">
-<!ENTITY font.langGroup.simpl-chinese "Κινέζικα Απλοποιημένα">
-<!ENTITY font.langGroup.trad-chinese-hk "Κινέζικα Παραδοσιακά(Hong Kong)">
-<!ENTITY font.langGroup.korean "Κορεάτικα">
-<!ENTITY font.langGroup.cyrillic "Κυριλλική">
-<!ENTITY font.langGroup.baltic "Βαλτική">
-<!ENTITY font.langGroup.el "Ελληνικά">
-<!ENTITY font.langGroup.turkish "Τουρκικά">
-<!ENTITY font.langGroup.unicode "Unicode">
-<!ENTITY font.langGroup.user-def "Ορισμένο από το χρήστη">
-<!ENTITY font.langGroup.thai "Ταϊλανδική">
-<!ENTITY font.langGroup.hebrew "Εβραϊκά">
-<!ENTITY font.langGroup.arabic "Αραβικά">
-<!ENTITY font.langGroup.devanagari "Ντεβανγκάρι">
-<!ENTITY font.langGroup.tamil "Ταμίλ">
-<!ENTITY font.langGroup.armenian "Αρμενική">
-<!ENTITY font.langGroup.bengali "Μπενγκάλι">
-<!ENTITY font.langGroup.canadian "Ενοποιημένο Canadian Syllabary">
-<!ENTITY font.langGroup.ethiopic "Αιθιοπική">
-<!ENTITY font.langGroup.georgian "Γεωργιανή">
-<!ENTITY font.langGroup.gujarati "Γκουαρατί">
-<!ENTITY font.langGroup.gurmukhi "Γκουρμούχι">
-<!ENTITY font.langGroup.khmer "Χμερ">
-<!ENTITY font.langGroup.malayalam "Μαλαισιανή">
-<!ENTITY minSize.label "Ελάχιστο μέγεθος γραμματοσειράς:">
-<!ENTITY minSize.accesskey "χ">
-<!ENTITY minSize.none "Κανένα">
-<!ENTITY useDefaultFontSerif.label "Serif">
-<!ENTITY useDefaultFontSansSerif.label "Sans Serif">
-<!ENTITY fontControl.label "Χειρισμός γραμματοσειράς">
-<!ENTITY useFixedWidthForPlainText.label "Χρήση σταθερού πλάτους για μηνύματα απλού κειμένου">
-<!ENTITY fixedWidth.accesskey "ρ">
-<!ENTITY useDocumentFonts.label "Να επιτρέπεται στα έγγραφα να χρησιμοποιούν άλλες γραμματοσειρές">
-<!ENTITY useDocumentFonts.accesskey "ο">
-<!ENTITY sendDefaultCharset.label "Εξερχόμενη αλληλογραφία:">
-<!ENTITY sendDefaultCharset.accesskey "ξ">
-<!ENTITY languagesTitle1.label "Κωδικοποίηση χαρακτήρων">
-<!ENTITY composingDescription.label "Ρύθμιση της προεπιλεγμένης κωδικοποίησης χαρακτήρων για την αποστολή και λήψη αλληλογραφίας">
-<!ENTITY viewDefaultCharsetList.label "Εισερχόμενη αλληλογραφία:">
-<!ENTITY viewDefaultCharsetList.accesskey "ι">
-<!ENTITY replyInDefaultCharset2.label "Όταν είναι δυνατόν, να γίνεται χρήση της προεπιλεγμένης κωδικοποίησης στις απαντήσεις">
-<!ENTITY replyInDefaultCharset2.accesskey "υ">
+<!ENTITY  fontsAndEncodingsDialog.title           "Γραμματοσειρές &amp; Κωδικοποίηση">
+
+<!ENTITY  language.label                          "Γραμματοσειρές για:">
+<!ENTITY  language.accesskey                      "τ">
+
+<!ENTITY  size.label                              "Μέγεθος:">
+<!ENTITY  sizeProportional.accesskey              "θ">
+<!ENTITY  sizeMonospace.accesskey                 "ε">
+
+<!ENTITY  proportional.label                      "Μεταβλητές:">
+<!ENTITY  proportional.accesskey                  "β">
+
+<!ENTITY  serif.label                             "Serif:">
+<!ENTITY  serif.accesskey                         "S">
+<!ENTITY  sans-serif.label                        "Sans-serif:">
+<!ENTITY  sans-serif.accesskey                    "n">
+<!ENTITY  monospace.label                         "Monospace:">
+<!ENTITY  monospace.accesskey                     "M">
+
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
+<!ENTITY  font.langGroup.latin                    "Λατινικά">
+<!ENTITY  font.langGroup.japanese                 "Ιαπωνικά">
+<!ENTITY  font.langGroup.trad-chinese             "Κινέζικα Παραδοσιακά (Taiwan)">
+<!ENTITY  font.langGroup.simpl-chinese            "Κινέζικα Απλοποιημένα">
+<!ENTITY  font.langGroup.trad-chinese-hk          "Κινέζικα Παραδοσιακά(Hong Kong)">
+<!ENTITY  font.langGroup.korean                   "Κορεάτικα">
+<!ENTITY  font.langGroup.cyrillic                 "Κυριλλική">
+<!ENTITY  font.langGroup.el                       "Ελληνικά">
+<!ENTITY  font.langGroup.other                    "Other Writing Systems">
+<!ENTITY  font.langGroup.thai                     "Ταϊλανδική">
+<!ENTITY  font.langGroup.hebrew                   "Εβραϊκά">
+<!ENTITY  font.langGroup.arabic                   "Αραβικά">
+<!ENTITY  font.langGroup.devanagari               "Ντεβανγκάρι">
+<!ENTITY  font.langGroup.tamil                    "Ταμίλ">
+<!ENTITY  font.langGroup.armenian                 "Αρμενική">
+<!ENTITY  font.langGroup.bengali                  "Μπενγκάλι">
+<!ENTITY  font.langGroup.canadian                 "Ενοποιημένο Canadian Syllabary">
+<!ENTITY  font.langGroup.ethiopic                 "Αιθιοπική">
+<!ENTITY  font.langGroup.georgian                 "Γεωργιανή">
+<!ENTITY  font.langGroup.gujarati                 "Γκουαρατί">
+<!ENTITY  font.langGroup.gurmukhi                 "Γκουρμούχι">
+<!ENTITY  font.langGroup.khmer                    "Χμερ">
+<!ENTITY  font.langGroup.malayalam                "Μαλαισιανή">
+<!ENTITY  font.langGroup.oriya                    "Oriya">
+<!ENTITY  font.langGroup.telugu                   "Telugu">
+<!ENTITY  font.langGroup.kannada                  "Kannada">
+<!ENTITY  font.langGroup.sinhala                  "Sinhala">
+<!ENTITY  font.langGroup.tibetan                  "Tibetan">
+<!-- Minimum font size -->
+<!ENTITY minSize.label                            "Ελάχιστο μέγεθος γραμματοσειράς:">
+<!ENTITY minSize.accesskey                        "χ">
+<!ENTITY minSize.none                             "Κανένα">
+
+<!-- default font type -->
+<!ENTITY  useDefaultFontSerif.label               "Serif">
+<!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
+
+<!-- fonts in message -->
+<!ENTITY  fontControl.label                       "Χειρισμός γραμματοσειράς">
+<!ENTITY  useFixedWidthForPlainText.label         "Χρήση σταθερού πλάτους για μηνύματα απλού κειμένου">
+<!ENTITY  fixedWidth.accesskey                    "ρ">
+<!ENTITY  useDocumentFonts.label                  "Να επιτρέπεται στα έγγραφα να χρησιμοποιούν άλλες γραμματοσειρές">
+<!ENTITY  useDocumentFonts.accesskey              "ο">
+
+<!-- Language settings -->
+<!ENTITY sendDefaultCharset.label         "Εξερχόμενη αλληλογραφία:">
+<!ENTITY sendDefaultCharset.accesskey     "ξ">
+<!ENTITY languagesTitle2.label            "Κωδικοποίηση χαρακτήρων">
+<!ENTITY composingDescription2.label      "Ρύθμιση της προεπιλεγμένης κωδικοποίησης χαρακτήρων για την αποστολή και λήψη αλληλογραφίας">
+
+<!ENTITY viewDefaultCharsetList.label     "Εισερχόμενη αλληλογραφία:">
+<!ENTITY viewDefaultCharsetList.accesskey  "ι">
+<!ENTITY replyInDefaultCharset3.label     "Όταν είναι δυνατόν, να γίνεται χρήση της προεπιλεγμένης κωδικοποίησης στις απαντήσεις">
+<!ENTITY replyInDefaultCharset3.accesskey "υ">

@@ -25,6 +25,8 @@
 <!ENTITY account.movedown.label       "Μετακίνηση κάτω">
 <!ENTITY account.cancelReconnection.label         "Ακύρωση επανασύνδεσης">
 <!ENTITY account.cancelReconnection.accesskey     "ε">
+<!ENTITY account.copyDebugLog.label     "Copy Debug Log">
+<!ENTITY account.copyDebugLog.accesskey "C">
 <!ENTITY account.connecting           "Σύνδεση…">
 <!ENTITY account.disconnecting        "Αποσύνδεση…">
 <!ENTITY account.disconnected         "Δεν υπάρχει σύνδεση">
