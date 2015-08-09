@@ -571,16 +571,6 @@
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY getUserMedia.audioCapture.label "L’audio della scheda verrà condiviso.">
 <!ENTITY getUserMedia.allWindowsShared.message "Tutte le finestre visibili sullo schermo verranno condivise.">
-<!ENTITY badContentBlocked.moreinfo "La maggior parte dei siti web funzionerà correttamente anche se questo contenuto viene bloccato.">
-<!ENTITY mixedContentBlocked2.message "Contenuto non sicuro">
-<!ENTITY mixedContentBlocked2.moreinfo "Sono stati bloccati alcuni elementi non cifrati in questa pagina.">
-<!ENTITY mixedContentBlocked2.learnMore "Ulteriori informazioni">
-<!ENTITY mixedContentBlocked2.options "Opzioni">
-<!ENTITY mixedContentBlocked2.unblock.label "Disattiva temporaneamente protezione">
-<!ENTITY mixedContentBlocked2.unblock.accesskey "D">
-<!ENTITY mixedContentBlocked2.block.label "Attiva protezione">
-<!ENTITY mixedContentBlocked2.block.accesskey "A">
-<!ENTITY mixedContentBlocked2.disabled.message "La protezione è disattivata">
 <!ENTITY trackingProtection.title "Protezione antitracciamento">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; sta bloccando elementi della pagina in grado di tracciare la navigazione.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Questo sito include elementi in grado di tracciare la navigazione. La protezione è disattivata.">
