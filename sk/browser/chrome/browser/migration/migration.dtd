@@ -41,3 +41,5 @@
 
 <!ENTITY done.title                     "Import dokončený">
 <!ENTITY done.label                     "Úspešne boli importované tieto položky:">
+
+<!ENTITY closeSourceBrowser.label       "Pred pokračovaním sa uistite, že zvolený prehliadač nie je spustený.">
