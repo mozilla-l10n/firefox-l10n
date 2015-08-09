@@ -254,7 +254,7 @@ size. -->
 <!ENTITY pref_voice_input "‍‍ಧ್ವನಿಯ ಇನ್‌ಪುಟ್">
 <!ENTITY pref_voice_input_summary "‍‍‍‍ಶೀರ್ಷಿಕೆ ಪಟ್ಟಿಯಲ್ಲಿ ಧ್ವನಿ ಉತ್ಕಲೇಖನವನ್ನು ಅನುಮತಿಸು">
 <!ENTITY pref_qrcode_enabled "QR ಸಂಕೇತ ಓದುಗ">
-
+<!ENTITY pref_qrcode_enabled_summary "ಶೀರ್ಷಿಕೆ ಪಟ್ಟಿಯಲ್ಲಿ QR ಶೋಧಕವನ್ನು ಅನುಮತಿಸು">
 
 <!ENTITY pref_use_master_password "ಮುಖ್ಯ ಗುಪ್ತಪದವನ್ನು ಬಳಸು">
 <!ENTITY pref_sync "ಸಿಂಕ್">
@@ -266,7 +266,7 @@ size. -->
 <!ENTITY pref_private_data_searchHistory "ಇತಿಹಾಸವನ್ನು ಹುಡುಕು">
 <!ENTITY pref_private_data_formdata2 "ಇತಿಹಾಸದಿಂದ">
 <!ENTITY pref_private_data_cookies2 "ಕುಕೀಗಳು &amp; ಸಕ್ರಿಯ ಖಾತೆಗೆಳು">
-
+<!ENTITY pref_private_data_passwords2 "ಉಳಿಸಿದ ಲಾಗಿನ್‌ಗಳು">
 <!ENTITY pref_private_data_cache "ಶೀಘ್ರ ಸ್ಮೃತಿಕೋಶ">
 <!ENTITY pref_private_data_offlineApps "ಆಫ್‌ಲೈನ್‌ ಜಾಲತಾಣದ ದತ್ತಾಂಶ">
 <!ENTITY pref_private_data_siteSettings2 "ತಾಣದ ಸಿದ್ಧತೆಗಳು">
@@ -391,11 +391,11 @@ size. -->
 <!ENTITY doorhanger_login_edit_password_hint "ಪ್ರವೇಶ ಪದ">
 <!ENTITY doorhanger_login_edit_toggle "ಪ್ರವೇಶ ಪದಗಳನ್ನು ತೋರಿಸು">
 <!ENTITY doorhanger_login_edit_toast_error "ಒಳಗೆ ಪ್ರವೇಶಿಸಲು ವಿಫಲವಾಗಿದೆ">
-
+<!ENTITY doorhanger_login_select_message "&formatS; ನಿಂದ ಪ್ರವೇಶ ಪದವನ್ನು ನಕಲಿಸಲೆ?">
 
 <!ENTITY doorhanger_login_select_toast_copy_error "‍ಗುಪ್ತಪದವನ್ನು ಪ್ರತಿ ಮಾಡಲು ಆಗಲಿಲ್ಲ">
 <!ENTITY doorhanger_login_select_action_text "‍ಇನ್ನೊಂದು ಲಾಗಿನ್ ಅನ್ನು ‍ಆರಿಸಿ">
-
+<!ENTITY doorhanger_login_select_title "ಇದರಿಂದ ಗುಪ್ತಪದವನ್ನು ನಕಲಿಸಿ">
 
 <!ENTITY pref_titlebar_mode "ಶೀರ್ಷಿಕೆ ಪಟ್ಟಿ">
 <!ENTITY pref_titlebar_mode_title "ಪುಟದ ಶೀರ್ಷಿಕೆ ತೋರಿಸು">
@@ -427,6 +427,8 @@ size. -->
 <!ENTITY site_settings_no_settings  "ಅಳಿಸಲು ಯಾವುದೇ ಸಿದ್ಧತೆಗಳಿಲ್ಲ.">
 <!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
      as possible. -->
+
+<!ENTITY reading_list_added2 "ಪಟ್ಟಿಗೆ ಸೇರಿಸಲಾಗಿದೆ">
 <!ENTITY reading_list_removed "ನಿಮ್ಮ ಓದು ಪಟ್ಟಿಯಿಂದ ಪುಟವನ್ನು ತೆಗೆದುಹಾಕಲಾಗಿದೆ">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
