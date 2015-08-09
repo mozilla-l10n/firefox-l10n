@@ -9,7 +9,6 @@
 <!ENTITY resetPass.label "Restablecer">
 <!ENTITY manageAccount.label "Administrar cuenta">
 <!ENTITY manageAccount.accesskey "A">
-<!ENTITY viewQuota.label "Ver cuota">
 <!ENTITY changePassword2.label "Cambiar contraseña…">
 <!ENTITY myRecoveryKey.label "Mi clave de recuperación">
 <!ENTITY resetSync2.label "Restablecer Sync…">
@@ -17,8 +16,6 @@
 <!ENTITY syncMy.label "Sincronizar mis">
 <!ENTITY engine.bookmarks.label "Marcadores">
 <!ENTITY engine.bookmarks.accesskey "M">
-<!ENTITY engine.readinglist.label   "Lista de lectura">
-<!ENTITY engine.readinglist.accesskey "L">
 <!ENTITY engine.tabs.label "Pestañas">
 <!ENTITY engine.tabs.accesskey "t">
 <!ENTITY engine.history.label "Historial">
@@ -68,7 +65,7 @@
 <!ENTITY signedOut.accountBox.create  "Crear cuenta">
 <!ENTITY signedOut.accountBox.signin  "Conectarse">
 
-<!ENTITY signedIn.engines.caption     "Sincronizar entre todos los dispositivos">
+<!ENTITY signedIn.engines.label       "Sincronizar entre todos los dispositivos">
 
 <!ENTITY mobilePromo.start            "Descargue Firefox para ">
 <!ENTITY mobilePromo.androidLink      "Android™">
