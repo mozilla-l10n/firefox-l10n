@@ -53,11 +53,11 @@
 <!ENTITY rememberActions.middle.label " o ">
 <!ENTITY rememberActions.removeCookies.label "rimuovere i singoli cookie">
 <!ENTITY rememberActions.post.label ".">
-<!ENTITY dontrememberDescription.label "Verranno utilizzate le stesse impostazioni della navigazione anonima: in questo modo non verrà salvata alcuna cronologia relativa alla navigazione.">
+<!ENTITY dontrememberDescription.label "Verranno utilizzate le stesse impostazioni della Navigazione anonima: in questo modo non verrà salvata alcuna cronologia relativa alla navigazione.">
 <!ENTITY dontrememberActions.pre.label "È inoltre possibile ">
 <!ENTITY dontrememberActions.clearHistory.label "cancellare tutta la cronologia corrente">
 <!ENTITY dontrememberActions.post.label ".">
-<!ENTITY privateBrowsingPermanent2.label "Utilizza sempre la modalità di navigazione anonima">
+<!ENTITY privateBrowsingPermanent2.label "Utilizza sempre la modalità Navigazione anonima">
 <!ENTITY privateBrowsingPermanent2.accesskey "U">
 <!ENTITY rememberHistory2.label "Conserva la cronologia di navigazione e dei download">
 <!ENTITY rememberHistory2.accesskey "C">

@@ -425,7 +425,7 @@
 <!ENTITY restriction_disallow_addons_title2 "Disattiva installazione comp. aggiuntivi">
 <!ENTITY restriction_disallow_devtools_title2 "Disattiva strumenti di sviluppo">
 <!ENTITY restriction_disallow_customize_home_title2 "Disattiva personaliz. schermata principale">
-<!ENTITY restriction_disallow_private_browsing_title2 "Disattiva navigazione anonima">
+<!ENTITY restriction_disallow_private_browsing_title2 "Disattiva Navigazione anonima">
 <!ENTITY restriction_disallow_location_services_title2 "Disattiva servizi di georilevazione">
 <!ENTITY restriction_disallow_display_settings_title2 "Disattiva impostazioni schermo">
 <!ENTITY restriction_disallow_clear_history_title2 "Disattiva “Elimina cronologia”">
