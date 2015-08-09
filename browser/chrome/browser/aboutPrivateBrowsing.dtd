@@ -12,22 +12,23 @@
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
      Width of the Private Browsing section.
      -->
-<!ENTITY aboutPrivateBrowsing.width            "40em">
-<!ENTITY aboutPrivateBrowsing.title            "Vous avez ouvert une fenêtre de navigation privée">
+<!ENTITY aboutPrivateBrowsing.width            "30em">
+<!ENTITY aboutPrivateBrowsing.title            "Nouvelle fenêtre de navigation privée">
 <!ENTITY aboutPrivateBrowsing.subtitle         "Dans cette fenêtre, &brandShortName; ne conservera aucun historique.">
 
 <!ENTITY aboutPrivateBrowsing.forgotten        "Dans cette fenêtre, &brandShortName; ne conservera pas :">
 <!ENTITY aboutPrivateBrowsing.info.forgotten   "Ce qui n'est pas conservé">
 <!ENTITY aboutPrivateBrowsing.info.history     "L'historique">
-<!ENTITY aboutPrivateBrowsing.info.search      "Les recherches">
+<!ENTITY aboutPrivateBrowsing.info.searches    "Les recherches">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Les cookies">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Les fichiers temporaires">
 
+<!ENTITY aboutPrivateBrowsing.kept             "&brandShortName; conservera :">
 <!ENTITY aboutPrivateBrowsing.info.kept        "Ce qui est conservé">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Les téléchargements">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Les marque-pages">
 
-<!ENTITY aboutPrivateBrowsing.note             "Veuillez noter que votre fournisseur d'accès à Internet ou votre employeur peuvent toujours connaître les pages que vous visitez.">
+<!ENTITY aboutPrivateBrowsing.note1            "Veuillez noter que votre fournisseur d'accès à Internet ou votre employeur peuvent toujours connaître les pages que vous visitez.">
 <!ENTITY aboutPrivateBrowsing.learnMore        "En savoir plus.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.width):
@@ -44,7 +45,7 @@
 <!ENTITY trackingProtection.state.enabled      "ACTIVÉE">
 <!ENTITY trackingProtection.state.disabled     "DÉSACTIVÉE">
 
-<!ENTITY trackingProtection.description        "Les fenêtres privées bloquent désormais les éléments qui peuvent pister votre navigation.">
+<!ENTITY trackingProtection.description1       "Les fenêtres privées bloquent désormais les éléments qui peuvent pister votre navigation.">
 
 <!ENTITY trackingProtection.disable            "Désactiver la protection contre le pistage">
 <!ENTITY trackingProtection.enable             "Activer la protection contre le pistage">
