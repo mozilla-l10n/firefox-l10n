@@ -131,6 +131,8 @@
 
 <!-- Context Menu -->
 
+<!ENTITY calendar.context.modifyorviewitem.label      "افتح">
+<!ENTITY calendar.context.modifyorviewitem.accesskey  "ا">
 
 
 

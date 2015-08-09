@@ -6,22 +6,31 @@
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 <!-- Tools menu -->
+
+
+<!ENTITY lightning.preferencesLabel "تقويم">
 <!-- New menu popup in File menu -->
 
-
-
-
-
+<!ENTITY lightning.menupopup.new.event.label    "الحدث...">
+<!ENTITY lightning.menupopup.new.event.accesskey "ا">
+<!ENTITY lightning.menupopup.new.task.label     "مهمة...">
+<!ENTITY lightning.menupopup.new.task.accesskey "م">
+<!ENTITY lightning.menupopup.new.calendar.label "تقويم...">
+<!ENTITY lightning.menupopup.new.calendar.accesskey "ت">
 <!-- Open menu popup in File menu -->
 
-
-
-
-
+<!ENTITY lightning.menupopup.open.label               "افتح">
+<!ENTITY lightning.menupopup.open.accesskey           "ا">
+<!ENTITY lightning.menupopup.open.message.label       "الرسالة المحفوظة">
+<!ENTITY lightning.menupopup.open.message.accesskey   "ا">
+<!ENTITY lightning.menupopup.open.calendar.label      "ملف التقويم ">
+<!ENTITY lightning.menupopup.open.calendar.accesskey  "ا">
 <!-- View Menu -->
 
-
-
+<!ENTITY lightning.menu.view.calendar.label            "التقويم">
+<!ENTITY lightning.menu.view.calendar.accesskey        "ا">
+<!ENTITY lightning.menu.view.tasks.label               "المهام">
+<!ENTITY lightning.menu.view.tasks.accesskey           "ا">
 <!-- Events and Tasks menu -->
 
 <!-- properties dialog, calendar creation wizard -->
@@ -43,22 +52,28 @@
 
 
 
-
-
-
-
-
-
-
-
-
+<!ENTITY lightning.imipbar.btnSaveCopy.label                                "احفظ نسخة">
+<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "احفظ نسخة من الحدث للتقويم بطريقة منفصلة للرد الى المنظم. قائمة الحضور سيتم مسحها">
+<!ENTITY lightning.imipbar.btnTentative.label                               "مؤقت">
+<!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "اقبل دعوة الحدث مؤقتاً">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "أقّت الكل">
+<!ENTITY lightning.imipbar.btnTentativeRecurrences2.tooltiptext             "اقبل دعوة الحدث مؤقتاً لجميع أحداث الواقعة">
+<!ENTITY lightning.imipbar.btnUpdate.label                                  "حدّث">
+<!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "حدّث واقعة معينة في التقويم">
+<!ENTITY lightning.imipbar.description                                      "هذه الرسالة تحتوي على دعوة لحدث ما">
 <!-- Lightning specific keybindings -->
 
-
-
+<!ENTITY lightning.keys.event.showCalendar.key "س">
+<!ENTITY lightning.keys.event.showTasks.key "د">
+<!ENTITY lightning.keys.event.new "ي">
+<!ENTITY lightning.keys.todo.new "د">
 <!-- Account Central page -->
+
+<!ENTITY lightning.acctCentral.newCalendar.label "اعمل تقويم جديد">
 <!-- today-pane-specific -->
 
+<!ENTITY todaypane.showMinimonth.label "أظهر شهر-مصغَر">
+<!ENTITY todaypane.showMinimonth.accesskey "ش">
 
 
 
