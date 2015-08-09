@@ -852,6 +852,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY readingList.sidebar.add.tooltip          "Anyade ista pachina en a tuya Lista de Lectura">
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 
+<!ENTITY saveToPocketCmd.label     "Alzar o vinclo en Pocket">
+<!ENTITY saveToPocketCmd.accesskey "k">
 
 
 
