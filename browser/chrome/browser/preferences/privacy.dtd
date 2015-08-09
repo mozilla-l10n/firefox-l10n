@@ -28,6 +28,9 @@
 <!ENTITY  locbar.searches.label         "Recherches similaires du moteur de recherche par défaut">
 <!ENTITY  locbar.searches.accesskey     "s">
 
+<!ENTITY  suggestionSettings.label      "Modifier les préférences pour les suggestions de recherche…">
+<!ENTITY  suggestionSettings.accesskey  "f">
+
 <!ENTITY  acceptCookies.label           "Accepter les cookies">
 <!ENTITY  acceptCookies.accesskey       "A">
 

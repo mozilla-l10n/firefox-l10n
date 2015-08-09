@@ -16,7 +16,6 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Gestion du compte">
 <!ENTITY manageAccount.accesskey      "c">
-<!ENTITY viewQuota.label              "Afficher le quota">
 <!ENTITY changePassword2.label        "Modifier le mot de passe…">
 <!ENTITY myRecoveryKey.label          "Ma clé de récupération">
 <!ENTITY resetSync2.label             "Réinitialiser la synchronisation…">
@@ -26,8 +25,6 @@
 <!-- Fixing bug 1108402 -->
 <!ENTITY engine.bookmarks.label     "Marque-pages">
 <!ENTITY engine.bookmarks.accesskey "M">
-<!ENTITY engine.readinglist.label   "Liste de lecture">
-<!ENTITY engine.readinglist.accesskey "L">
 <!ENTITY engine.tabs.label          "Onglets">
 <!ENTITY engine.tabs.accesskey      "O">
 <!ENTITY engine.history.label       "Historique">

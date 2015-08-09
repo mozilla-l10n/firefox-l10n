@@ -639,6 +639,8 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "F">
 
+<!ENTITY toggleMuteCmd.key              "M">
+
 <!ENTITY pageStyleMenu.label "Style de la page">
 <!ENTITY pageStyleMenu.accesskey "y">
 <!ENTITY pageStyleNoStyle.label "Aucun style">
@@ -683,6 +685,29 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY identity.connectionNotSecure "Connexion non sécurisée">
 <!ENTITY identity.connectionVerified "&brandShortName; a vérifié que vous êtes connecté de façon sécurisée à ce site, dont le détenteur est :">
 <!ENTITY identity.connectionInternal "Ceci est une page sécurisée de &brandShortName;.">
+
+<!-- Strings for connection state warnings. -->
+<!ENTITY identity.activeBlocked "&brandShortName; a bloqué des éléments non sécurisés sur cette page.">
+<!ENTITY identity.passiveLoaded "Des éléments de cette page ne sont pas sécurisés (tels que des images).">
+<!ENTITY identity.activeLoaded "Vous avez désactivé la protection sur cette page.">
+<!ENTITY identity.weakEncryption "Cette page utilise un faible niveau de chiffrement.">
+
+<!-- Strings for connection state warnings in the subview. -->
+<!ENTITY identity.description.insecure "Votre connexion à ce site n'est pas privée. Les informations que vous transmettez peuvent être visualisées par d'autres personnes (comme par exemple les mots de passe, les messages, les cartes de crédit, etc.).">
+<!ENTITY identity.description.weakCipher "Votre connexion à ce site web n'est pas privée et utilise un faible niveau de chiffrement.">
+<!ENTITY identity.description.weakCipher2 "D'autres personnes peuvent accéder à vos informations ou modifier le comportement du site web.">
+<!ENTITY identity.description.activeBlocked "&brandShortName; a bloqué des éléments non sécurisés sur cette page.">
+<!ENTITY identity.description.passiveLoaded "Votre connexion n'est pas privée et les informations que vous partagez avec ce site peuvent être visualisées par d'autres personnes.">
+<!ENTITY identity.description.passiveLoaded2 "Ce site web possède du contenu non sécurisé (tel que des images).">
+<!ENTITY identity.description.passiveLoaded3 "Bien que &brandShortName; ait bloqué du contenu, il reste néanmoins des éléments non sécurisés sur la page (tels que des images).">
+<!ENTITY identity.description.activeLoaded "Ce site web possède du contenu non sécurisé (tel que des scripts) et la connexion établie n'est pas privée.">
+<!ENTITY identity.description.activeLoaded2 "Les informations que vous partagez avec ce site peuvent être visualisées par d'autres personnes (comme par exemple les mots de passe, les messages, les cartes de crédit, etc.).">
+
+<!ENTITY identity.enableMixedContentBlocking.label "Activer la protection">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "A">
+<!ENTITY identity.disableMixedContentBlocking.label "Désactiver la protection pour l'instant">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "D">
+<!ENTITY identity.learnMore "En savoir plus">
 
 <!ENTITY identity.moreInfoLinkText2 "Plus d'informations">
 
@@ -865,20 +890,6 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY emeNotificationsNotNow.accesskey         "P">
 <!ENTITY emeNotificationsDontAskAgain.label       "Ne plus demander à l'avenir">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "N">
-
-<!ENTITY readingList.label                        "Liste de lecture">
-<!ENTITY readingList.sidebar.commandKey           "L">
-<!-- Pre-landed string for bug 1124400 -->
-<!ENTITY readingList.showSidebar.label            "Afficher le panneau de la liste de lecture">
-<!-- Pre-landed string for bug 1124153 -->
-<!ENTITY readingList.sidebar.showMore.label       "Afficher davantage d'articles…">
-<!-- Pre-landed string for bug 1133662 -->
-<!ENTITY readingList.sidebar.emptyText            "Ajoutez des articles à votre liste de lecture pour les consulter ultérieurement et pouvoir les retrouver facilement lorsque vous en avez besoin.">
-<!-- Pre-landed string for bug 1123525 -->
-<!ENTITY readingList.sidebar.delete.tooltip       "Retirer cette page de votre liste de lecture">
-<!-- Pre-landed strings for bug 1123519 -->
-<!ENTITY readingList.sidebar.add.label            "Ajouter à la liste de lecture">
-<!ENTITY readingList.sidebar.add.tooltip          "Ajouter cette page à votre liste de lecture">
 
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 <!ENTITY saveToPocketCmd.label     "Enregistrer la page dans Pocket">

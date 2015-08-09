@@ -7,17 +7,6 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Ouvrir une fenêtre de navigation privée">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
-<!ENTITY trackingProtection.subtitle           "Désormais avec protection contre le pistage">
-
-<!ENTITY trackingProtection.description        "La protection contre le pistage bloque le contenu qui piste votre navigation afin que vous n'ayez pas à craindre que ces informations soient communiquées entre plusieurs sites.">
-
-<!ENTITY trackingProtection.showPreferences    "Préférences de vie privée">
-
-<!ENTITY trackingProtection.startTour          "Découvrir les nouveautés">
-
-<!ENTITY trackingProtection.enable.label       "Activer la protection contre le pistage">
-<!ENTITY trackingProtection.enable.accesskey   "A">
-
 <!ENTITY privateBrowsing.title                 "Navigation privée">
 
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
@@ -44,13 +33,13 @@
      Width of the Tracking Protection section. This should be enough to
      accommodate the title as well as the enabled or disabled indicator.
      -->
-<!ENTITY trackingProtection.width              "30em">
+<!ENTITY trackingProtection.width              "35em">
 <!ENTITY trackingProtection.title              "Protection contre le pistage">
 
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
-<!ENTITY trackingProtection.state.width        "20ch">
+<!ENTITY trackingProtection.state.width        "14ch">
 <!ENTITY trackingProtection.state.enabled      "ACTIVÉE">
 <!ENTITY trackingProtection.state.disabled     "DÉSACTIVÉE">
 
