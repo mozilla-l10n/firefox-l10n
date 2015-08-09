@@ -107,3 +107,5 @@
 <!ENTITY closeCmd.key         "W">
 <!ENTITY findCmd.key          "F">
 <!ENTITY clearOutputCtrl.key  "L">
+<!ENTITY openInVarViewCmd.label "변수 보기에서 열기">
+<!ENTITY openInVarViewCmd.accesskey "V">

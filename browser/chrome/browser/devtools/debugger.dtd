@@ -165,6 +165,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
+<!ENTITY debuggerUI.tabs.workers        "워커">
 <!ENTITY debuggerUI.tabs.sources        "소스">
 <!ENTITY debuggerUI.tabs.traces         "추적">
 <!ENTITY debuggerUI.tabs.callstack      "호출 스택">
