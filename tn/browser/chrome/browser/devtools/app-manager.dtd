@@ -42,26 +42,26 @@
 
 <!ENTITY connection.connectTooltip "Golaganya le sediriswa">
 <!ENTITY connection.disconnect "Gokaganyolola">
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY connection.disconnectTooltip "Gokaganyolola go tswa mo sediriswa kgotsa se ka thulaganyo - tiriso ga jaana">
+<!ENTITY connection.notConnected2 "Ga gona kgolaganyo.">
+<!ENTITY connection.connectTo "Golaganya le:">
+<!ENTITY connection.noDeviceFound "Ga gona sediriswa se se bonweng. Gokela sediriswa">
+<!ENTITY connection.changeHostAndPort "Fetola">
+<!ENTITY connection.changeHostAndPortTooltip "Fetola pinagare le setshwaraganyi se sedirisiwang go golaganya le sediriswa (dithulaganyetsoruri kwa pinagareng e e gaufi:6000)">
+<!ENTITY connection.startSimulator "Simolodisa Seka thulaganyo-tiriso">
+<!ENTITY connection.startSimulatorTooltip "Simolodisa leloko la Seka thulaganyo-tiriso le go golaganya mo go yone">
+<!ENTITY connection.saveConnectionInfo "Boloka">
+<!ENTITY connection.saveConnectionInfoTooltip "Boloka pinagare le setshwaraganyi">
+<!ENTITY connection.connecting "Ea gokaganya...">
+<!ENTITY connection.disconnecting "E a gokaganyolola...">
 <!ENTITY connection.cancel "Khansela">
-
-
-
-
-
-
-
+<!ENTITY connection.cancelConnectTooltip "Khansela kgolagano e tsweletseng">
+<!ENTITY connection.cancelShowSimulatorTooltip "Tswaya mo mokgweng wa kgolagano ya Seka thulaganyo-tiriso o boele ko tshimologong ya kgwetlho">
+<!ENTITY connection.or "kgotsa">
+<!ENTITY connection.noSimulatorInstalled "Ga gona Seka thulaganyo-tiriso e tsentsweng.">
+<!ENTITY connection.installOneSimulator "Tsenya Seka thulaganyo-tiriso">
+<!ENTITY connection.installOneSimulatorTooltip "Tsenya mofuta wa Seka thulaganyo-tiriso ka go kopolola seoketswa se amanang">
+<!ENTITY connection.installAnotherSimulator "Tsenya">
 
 
 
