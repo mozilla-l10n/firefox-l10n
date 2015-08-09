@@ -847,18 +847,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeNotificationsDontAskAgain.label       "Nabudúce sa už nepýtať">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "N">
 
-<!ENTITY readingList.label                        "Zoznam na prečítanie">
-<!ENTITY readingList.sidebar.commandKey           "o">
-<!ENTITY readingList.showSidebar.label            "Zobraziť bočný panel Zoznam na prečítanie">
-<!-- Pre-landed string for bug 1124153 -->
-<!ENTITY readingList.sidebar.showMore.label       "Zobraziť ďalšie…">
-<!-- Pre-landed string for bug 1133662 -->
-<!ENTITY readingList.sidebar.emptyText            "Pridajte si články do svojho Zoznamu na prečítanie a budete ich mať jednoducho dostupné vždy, keď ich budete potrebovať.">
-<!ENTITY readingList.sidebar.delete.tooltip       "Odstráni túto stránku do Zoznamu na prečítanie">
-<!-- Pre-landed strings for bug 1123519 -->
-<!ENTITY readingList.sidebar.add.label            "Pridať do Zoznamu na prečítanie">
-<!ENTITY readingList.sidebar.add.tooltip          "Pridá túto stránku do Zoznamu na prečítanie">
-
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 <!ENTITY saveToPocketCmd.label     "Uložiť stránku do služby Pocket">
 <!ENTITY saveToPocketCmd.accesskey "P">
