@@ -8,9 +8,11 @@
 <!ENTITY doNotTrackInfo.label           "Aprender más">
 <!ENTITY trackingProtection4.label     "Detener a los sitios que le siguen">
 <!ENTITY trackingProtection4.accesskey "m">
+<!ENTITY trackingProtection5.label     "Usar protección de seguimiento">
+<!ENTITY trackingProtection5.accesskey "m">
 <!ENTITY trackingProtectionLearnMore.label "Aprender más">
-<!ENTITY trackingProtectionPBM4.label         "Detener a los sitios que le siguen en ventanas privadas">
-<!ENTITY trackingProtectionPBM4.accesskey     "y">
+<!ENTITY trackingProtectionPBM5.label         "Usar protección de seguimiento en ventanas privadas">
+<!ENTITY trackingProtectionPBM5.accesskey     "y">
 <!ENTITY trackingProtectionPBMLearnMore.label "Aprender más">
 <!ENTITY history.label "Historial">
 <!ENTITY locationBar.label "Barra de direcciones">
@@ -23,6 +25,8 @@
 <!ENTITY locbar.openpage.accesskey     "O">
 <!ENTITY locbar.searches.label         "Búsquedas relacionadas del motor de búsqueda predeterminado">
 <!ENTITY locbar.searches.accesskey     "d">
+<!ENTITY  suggestionSettings.label      "Cambiar preferencias para las sugerencias del motor de búsqueda…">
+<!ENTITY  suggestionSettings.accesskey  "g">
 <!ENTITY acceptCookies.label "Aceptar cookies de los sitios">
 <!ENTITY acceptCookies.accesskey "c">
 <!ENTITY acceptThirdParty.pre.label      "Aceptar cookies de terceros:">
