@@ -4,19 +4,28 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Datos de telemetría">
 
+<!ENTITY aboutTelemetry.changeDataChoices "  Cambiar">
 
 
 
 
 
 
+<!ENTITY aboutTelemetry.showCurrentPingData "Datos actuals de ping">
 
+<!ENTITY aboutTelemetry.showArchivedPingData "Datos de ping archivaus">
 
+<!ENTITY aboutTelemetry.showSubsessionData "Amostrar datos d'a subsession">
 
+<!ENTITY aboutTelemetry.choosePing "Trigar ping:">
 
+<!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; Nunca fer ping">
 
+<!ENTITY aboutTelemetry.showOlderPing "Ping mas viello &gt;&gt;">
 
+<!ENTITY aboutTelemetry.archiveWeekHeader "Semana">
 
+<!ENTITY aboutTelemetry.archivePingHeader "Ping">
 
 <!ENTITY aboutTelemetry.generalDataSection "  Datos chenerals">
 
