@@ -9,7 +9,8 @@
 <!ENTITY provideSearchSuggestions.label        "खोज सुझाव प्रदान करें">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
 
-
+<!ENTITY redirectWindowsSearch.label "विंडोज से खोजों के लिए इस खोज इंजन का प्रयोग करें">
+<!ENTITY redirectWindowsSearch.accesskey "व">
 
 <!ENTITY oneClickSearchEngines.label           "सर्च इंजन एक क्लिक करें">
 
