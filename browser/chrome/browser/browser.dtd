@@ -274,6 +274,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 
+<!ENTITY browserContentToolboxMenu.label     "ವೀಕ್ಷಕ ವಿಷಯ Toolbox">
+<!ENTITY browserContentToolboxMenu.accesskey "x">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "ವಿಕಸನೆಗಾರ ಉಪಕರಣವನ್ನು ಮುಚ್ಚು">
 <!ENTITY devToolbarMenu.label              "ವಿಕಸನೆಗಾರ ಉಪಕರಣ">
@@ -674,9 +676,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connectionSecure "ಸುರಕ್ಷಿತ ಸಂಪರ್ಕ">
 <!ENTITY identity.connectionNotSecure "ಸಂಪರ್ಕವು ಸುರಕ್ಷಿತವಾಗಿಲ್ಲ">
-
+<!ENTITY identity.connectionVerified "ನೀವು ಈ ತಾಣಕ್ಕೆ ಸುರಕ್ಷಿತವಾಗಿ ಸಂಪರ್ಕ ಹೊಂದಿದ್ದೀರೆಂದು &brandShortName; ಪರಿಶೀಲಿಸಿದೆ, ನಿರ್ವಹಿಸಿರುವುದು:">
 <!ENTITY identity.connectionInternal "ಇದು ಸುರಕ್ಷಿತ &brandShortName; ಪುಟ">
 
+<!ENTITY identity.moreInfoLinkText2 "ಹೆಚ್ಚಿನ ಮಾಹಿತಿ">
 
 <!ENTITY identity.permissions "ಅನುಮತಿಗಳು">
 <!-- Name for the tabs toolbar as spoken by screen readers.

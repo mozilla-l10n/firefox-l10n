@@ -4,10 +4,15 @@
 
 <!ENTITY aboutTelemetry.pageTitle "ಟೆಲಿಮೆಟ್ರಿ ದತ್ತಾಂಶ">
 
+<!ENTITY aboutTelemetry.changeDataChoices "  ಬದಲಾಯಿಸು">
 
+<!ENTITY aboutTelemetry.uploadEnabled "  FHR ದತ್ತಾಂಶ ಅಪ್ಲೊಡ್ಅನ್ನು <span>ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ</span>.">
 
+<!ENTITY aboutTelemetry.uploadDisabled "  FHR ದತ್ತಾಂಶ ಅಪ್ಲೊಡ್ಅನ್ನು <span>ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ</span>.">
 
+<!ENTITY aboutTelemetry.extendedRecordingEnabled "  ಹೆಚ್ಚಾದ ಟೆಲಿಮೆಟ್ರಿ ರೆಕಾರ್ಡಿಂಗ್ಅನ್ನು <span>ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ</span>.">
 
+<!ENTITY aboutTelemetry.extendedRecordingDisabled "  ಹೆಚ್ಚಾದ ಟೆಲಿಮೆಟ್ರಿ ರೆಕಾರ್ಡಿಂಗ್ಅನ್ನು <span>ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ</span>.">
 
 <!ENTITY aboutTelemetry.pingDataSource "ದತ್ತಾಂಶ ಮೂಲವನ್ನು ಪಿಂಗ್ ಮಾಡಿ:">
 
