@@ -11,7 +11,7 @@
 <!ENTITY newevent.to.label                  "إلى" >
 
 <!ENTITY newevent.status.label                    "الحالة" >
-<!ENTITY newevent.status.accesskey                "ح" >
+<!ENTITY newevent.status.accesskey                "ا" >
 <!ENTITY newevent.eventStatus.none.label          "غير محدّد" >
 <!ENTITY newevent.eventStatus.none.accesskey      "ح" >
 <!ENTITY newevent.todoStatus.none.label           "غير محدّد" >
@@ -20,14 +20,14 @@
 <!ENTITY newevent.todoStatus.cancelled.label      "أُلغِيَ" >
 <!ENTITY newevent.status.tentative.label          "مبدئي" >
 <!ENTITY newevent.status.tentative.accesskey      "م" >
-<!ENTITY newevent.status.confirmed.label          "مُأكّد" >
-<!ENTITY newevent.status.confirmed.accesskey      "ك" >
+<!ENTITY newevent.status.confirmed.label          "&amp; مُؤكّد" >
+<!ENTITY newevent.status.confirmed.accesskey      "C" >
 <!ENTITY newevent.status.needsaction.label        "يحتاج لإجراء" >
 <!ENTITY newevent.status.inprogress.label         "قيد العمل" >
 <!ENTITY newevent.status.completed.label          "اكتمل في" >
 <!-- The following entity is for New Task dialog only -->
 
-<!ENTITY newtodo.percentcomplete.label      "٪ مكتمل">
+<!ENTITY newtodo.percentcomplete.label      "&#037; مكتمل">
 <!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
    - These two labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
@@ -59,21 +59,21 @@
 <!ENTITY  event.menu.item.new.task.label                  "مهمَّة">
 <!ENTITY  event.menu.item.new.task.accesskey              "م">
 <!ENTITY  event.menu.item.new.message.label               "رسالة">
-<!ENTITY  event.menu.item.new.message.accesskey           "س">
-<!ENTITY  event.menu.item.new.contact.label               "متراسل من دفتر العناوين">
-<!ENTITY  event.menu.item.new.contact.accesskey           "ت">
+<!ENTITY  event.menu.item.new.message.accesskey           "ر">
+<!ENTITY  event.menu.item.new.contact.label               "دفتر العناوين الأسماء">
+<!ENTITY  event.menu.item.new.contact.accesskey           "ا">
 <!ENTITY  event.menu.item.close.label                     "أغلق">
-<!ENTITY  event.menu.item.close.accesskey                 "غ">
-<!ENTITY  event.menu.item.save.label                      "احفظ">
+<!ENTITY  event.menu.item.close.accesskey                 "أ">
+<!ENTITY  event.menu.item.save.label                      "حفظ">
 <!ENTITY  event.menu.item.save.accesskey                  "ح">
 <!ENTITY  event.menu.item.saveandclose.label              "احفظ و أغلق">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "غ">
-<!ENTITY  event.menu.item.delete.label                    "احذف…">
+<!ENTITY  event.menu.item.delete.label                    "حذف">
 <!ENTITY  event.menu.item.delete.accesskey                "ح">
 <!ENTITY  event.menu.item.page.setup.label                "إعداد الصفحة">
 <!ENTITY  event.menu.item.page.setup.accesskey            "ع">
 <!ENTITY  event.menu.item.print.label                     "اطبع">
-<!ENTITY  event.menu.item.print.accesskey                 "ط">
+<!ENTITY  event.menu.item.print.accesskey                 "ا">
 
 <!ENTITY  event.menu.edit.label                           "حرّر">
 <!ENTITY  event.menu.edit.accesskey                       "ح">
@@ -83,32 +83,32 @@
 <!ENTITY  event.menu.edit.redo.accesskey                  "ك">
 <!ENTITY  event.menu.edit.cut.label                       "قص">
 <!ENTITY  event.menu.edit.cut.accesskey                   "ص">
-<!ENTITY  event.menu.edit.copy.label                      "انسخ">
-<!ENTITY  event.menu.edit.copy.accesskey                  "س">
-<!ENTITY  event.menu.edit.paste.label                     "ألصق">
-<!ENTITY  event.menu.edit.paste.accesskey                 "ص">
-<!ENTITY  event.menu.edit.select.all.label                "اختر الكل">
-<!ENTITY  event.menu.edit.select.all.accesskey            "ك">
+<!ENTITY  event.menu.edit.copy.label                      "نسخ">
+<!ENTITY  event.menu.edit.copy.accesskey                  "ن">
+<!ENTITY  event.menu.edit.paste.label                     "لصق">
+<!ENTITY  event.menu.edit.paste.accesskey                 "ل">
+<!ENTITY  event.menu.edit.select.all.label                "تحديد الكل">
+<!ENTITY  event.menu.edit.select.all.accesskey            "ا">
 
-<!ENTITY  event.menu.view.label                           "اعرض">
+<!ENTITY  event.menu.view.label                           "عرض">
 <!ENTITY  event.menu.view.accesskey                       "ع">
-<!ENTITY  event.menu.view.toolbars.label                  "أشرطة الأدوات">
+<!ENTITY  event.menu.view.toolbars.label                  "شريط الأدوات ">
 <!ENTITY  event.menu.view.toolbars.accesskey              "ش">
-<!ENTITY  event.menu.view.toolbars.event.label            "شريط أدوات الحدث">
-<!ENTITY  event.menu.view.toolbars.event.accesskey        "ح">
-<!ENTITY  event.menu.view.toolbars.customize.label        "خصص…">
-<!ENTITY  event.menu.view.toolbars.customize.accesskey    "ص">
+<!ENTITY  event.menu.view.toolbars.event.label            "شريط أدوات الحدث ">
+<!ENTITY  event.menu.view.toolbars.event.accesskey        "ش">
+<!ENTITY  event.menu.view.toolbars.customize.label        "تخصيص">
+<!ENTITY  event.menu.view.toolbars.customize.accesskey    "ت">
 <!ENTITY  event.menu.view.showlink.label                  "اعرض رابط مرتبط">
 <!ENTITY  event.menu.view.showlink.accesskey              "ر">
 
 <!ENTITY  event.menu.options.label                            "خيارات">
 <!ENTITY  event.menu.options.accesskey                        "خ">
-<!ENTITY  event.menu.options.attendees.label                  "ادع الحضور…">
+<!ENTITY  event.menu.options.attendees.label                  "دعوة الحضور...">
 <!ENTITY  event.menu.options.attendees.accesskey              "د">
 <!ENTITY  event.menu.options.timezone2.label                  "أظهر المناطق الزمنية">
 <!ENTITY  event.menu.options.timezone2.accesskey              "ط">
-<!ENTITY  event.menu.options.priority2.label                  "الأولوية">
-<!ENTITY  event.menu.options.priority2.accesskey              "و">
+<!ENTITY  event.menu.options.priority2.label                  "الأولويه">
+<!ENTITY  event.menu.options.priority2.accesskey              "y">
 <!ENTITY  event.menu.options.priority.notspecified.label      "غير محددة">
 <!ENTITY  event.menu.options.priority.notspecified.accesskey  "ح">
 <!ENTITY  event.menu.options.priority.low.label               "منخفضة">
@@ -117,12 +117,12 @@
 <!ENTITY  event.menu.options.priority.normal.accesskey        "ع">
 <!ENTITY  event.menu.options.priority.high.label              "مرتفعة">
 <!ENTITY  event.menu.options.priority.high.accesskey          "ف">
-<!ENTITY  event.menu.options.privacy.label                    "الخصوصية">
+<!ENTITY  event.menu.options.privacy.label                    "خصوصيه">
 <!ENTITY  event.menu.options.privacy.accesskey                "خ">
 <!ENTITY  event.menu.options.privacy.public.label             "حدث عام">
 <!ENTITY  event.menu.options.privacy.public.accesskey         "ع">
-<!ENTITY  event.menu.options.privacy.confidential.label       "أظهر الوقت و التاريخ فقط">
-<!ENTITY  event.menu.options.privacy.confidential.accesskey   "ظ">
+<!ENTITY  event.menu.options.privacy.confidential.label       "أظهر الوقت و التاريخ فقط">
+<!ENTITY  event.menu.options.privacy.confidential.accesskey   "أ">
 <!ENTITY  event.menu.options.privacy.private.label            "حدث خاص">
 <!ENTITY  event.menu.options.privacy.private.accesskey        "خ">
 <!ENTITY  event.menu.options.show.time.label                  "اعرض الوقت ك‍">
@@ -194,8 +194,8 @@
 
 <!ENTITY event.attachments.popup.remove.label             "أزل" >
 <!ENTITY event.attachments.popup.remove.accesskey         "ز" >
-
-
+<!ENTITY event.attachments.popup.open.label               "افتح" >
+<!ENTITY event.attachments.popup.open.accesskey           "ا" >
 
 
 
@@ -327,7 +327,7 @@
 
 <!ENTITY event.attendee.role.required           "الحضور إلزامي">
 <!ENTITY event.attendee.role.optional           "الحضور اختياري">
-
+<!ENTITY event.attendee.role.chair              "الرئيس">
 <!ENTITY event.attendee.role.nonparticipant     "غير مشارك">
 <!ENTITY event.attendee.usertype.individual     "فرد">
 <!ENTITY event.attendee.usertype.group          "مجموعة">
@@ -344,7 +344,7 @@
 
 
 
-
+<!ENTITY read.only.organizer.label       "منظّم:">
 
 
 

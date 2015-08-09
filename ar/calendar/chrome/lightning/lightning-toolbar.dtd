@@ -2,40 +2,50 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY lightning.toolbar.calendar.name "أداة التقويم">
+<!ENTITY lightning.toolbar.calendar.name.accesskey "س">
+<!ENTITY lightning.toolbar.task.name "شريط المهمة">
 
 
-
+<!ENTITY lightning.toolbar.sync.label "تزامن">
 
 <!ENTITY lightning.toolbar.delete.label "احذف">
 
+<!ENTITY lightning.toolbar.edit.label "تعديل">
 
 
 
-
-
+<!ENTITY lightning.toolbar.print.label "طباعة">
 
 <!-- Mode Toolbar -->
 
-
-
-
-
+<!ENTITY lightning.toolbar.calendar.label     "التقويم">
+<!ENTITY lightning.toolbar.calendar.tooltip   "بدّل إلى تبويب التقويم">
+<!ENTITY lightning.toolbar.calendar.accesskey "ا">
+<!ENTITY lightning.toolbar.task.label         "المهام">
+<!ENTITY lightning.toolbar.task.tooltip       "انتقل لتبويب المهام">
+<!ENTITY lightning.toolbar.task.accesskey     "ا">
 <!-- Toolbar write button -->
 
+<!ENTITY lightning.toolbar.newevent.label     "الحدث">
 
+<!ENTITY lightning.toolbar.newtask.label      "مهمَّة">
 
 <!-- Calendar and Task Mode Toolbar -->
 
-
-
-
-
-
-
+<!ENTITY lightning.toolbar.day.label                 "يوم">
+<!ENTITY lightning.toolbar.day.accesskey             "ي">
+<!ENTITY lightning.toolbar.week.label                "أسبوع">
+<!ENTITY lightning.toolbar.week.accesskey            "أ">
+<!ENTITY lightning.toolbar.multiweek.label           "عدة أسابيع">
+<!ENTITY lightning.toolbar.multiweek.accesskey       "u">
+<!ENTITY lightning.toolbar.month.label               "شهر">
+<!ENTITY lightning.toolbar.month.accesskey           "ش">
 <!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton1.tooltip
      from messenger.dtd -->
-
-
-
-
-
+<!ENTITY lightning.toolbar.appmenuButton.label       "قائمة التطبيق">
+<!ENTITY lightning.toolbar.appmenuButton1.tooltip    "اعرض لائحة ال&brandShortName;">
+<!ENTITY lightning.toolbar.calendarmenu.label        "التقويم الجزء">
+<!ENTITY lightning.toolbar.calendarmenu.accesskey    "ا">
+<!ENTITY lightning.toolbar.calendarpane.label        "أظهر التقويم الجزء">
+<!ENTITY lightning.toolbar.calendarpane.accesskey    "ا">
