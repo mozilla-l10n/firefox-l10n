@@ -32,7 +32,7 @@
 <!ENTITY  sending_crash_report "Se trimite raportul de defecțiune\u2026">
 <!ENTITY  crash_close_label "Închide">
 <!ENTITY  crash_restart_label "Repornește &brandShortName;">
-<!ENTITY  exit_label "Ieșire">
+<!ENTITY  exit_label "Ieși">
 
 <!ENTITY  launcher_shortcuts_title "Aplicații web &brandShortName;">
 <!ENTITY  launcher_shortcuts_empty "Nicio aplicație web găsită">
