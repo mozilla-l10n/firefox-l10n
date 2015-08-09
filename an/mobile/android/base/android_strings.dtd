@@ -615,7 +615,7 @@ dende Android">
 <!ENTITY guest_session_dialog_continue "Continar">
 <!ENTITY guest_session_dialog_cancel "Cancelar">
 <!ENTITY new_guest_session_title "&brandShortName; se reiniciará">
-
+<!ENTITY new_guest_session_text2 "A persona que lo faiga servir no podrá accedir a garra dato d\u0027a suya información personal de navegación (como inicios de sesion, historial, u marcapachinas).\n\nQuan remate a sesión de convidau, ixos datos s\u0027eliminarán y a sesión precedent se restaurará.">
 <!ENTITY guest_browsing_notification_title "A navegación \&quot;como convidau\&quot; ye activa">
 <!ENTITY guest_browsing_notification_text "Tocar ta salir-ne">
 
