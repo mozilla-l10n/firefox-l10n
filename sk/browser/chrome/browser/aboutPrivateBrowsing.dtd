@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.notPrivate       "Práve nie ste v súkromnom okneW">
-<!ENTITY privatebrowsingpage.openPrivateWindow.label "Otvoriť súkromné okno">
-<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "s">
+<!ENTITY aboutPrivateBrowsing.notPrivate       "Práve nie ste v režime Súkromné prehliadanie">
+<!ENTITY privatebrowsingpage.openPrivateWindow.label "Otvoriť Súkromné okno">
+<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "S">
 
 <!ENTITY privateBrowsing.title                 "Súkromné prehliadanie">
 
