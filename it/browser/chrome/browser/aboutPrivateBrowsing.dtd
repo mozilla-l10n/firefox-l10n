@@ -8,24 +8,25 @@
 <!ENTITY privateBrowsing.title "Navigazione anonima">
 <!ENTITY aboutPrivateBrowsing.width "30em">
 <!ENTITY aboutPrivateBrowsing.title "Navigazione anonima">
-<!ENTITY aboutPrivateBrowsing.subtitle "&brandShortName; non conserverà alcuna cronologia per questa finestra.">
+<!ENTITY aboutPrivateBrowsing.subtitle "In questa finestra &brandShortName; non conserverà alcuna cronologia.">
+<!ENTITY aboutPrivateBrowsing.forgotten "In questa finestra &brandShortName; non conserverà:">
 <!ENTITY aboutPrivateBrowsing.info.forgotten "Non verranno conservati:">
 <!ENTITY aboutPrivateBrowsing.info.history "Cronologia">
 <!ENTITY aboutPrivateBrowsing.info.search "Ricerche">
 <!ENTITY aboutPrivateBrowsing.info.cookies "Cookie">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "File temporanei">
+<!ENTITY aboutPrivateBrowsing.kept "&brandShortName; conserverà:">
 <!ENTITY aboutPrivateBrowsing.info.kept "Verranno conservati:">
 <!ENTITY aboutPrivateBrowsing.info.downloads "File scaricati">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks "Segnalibri">
-<!ENTITY aboutPrivateBrowsing.note "Il proprio datore di lavoro o il fornitore di servizi internet in uso saranno comunque in grado di mantenere un registro delle pagine visitate.">
+<!ENTITY aboutPrivateBrowsing.note "Si ricordi che il proprio datore di lavoro o il fornitore di servizi internet in uso saranno comunque in grado di mantenere un registro delle pagine visitate.">
 <!ENTITY aboutPrivateBrowsing.learnMore "Ulteriori informazioni.">
 <!ENTITY trackingProtection.width "27em">
 <!ENTITY trackingProtection.title "Protezione antitracciamento">
 <!ENTITY trackingProtection.state.width "12ch">
 <!ENTITY trackingProtection.state.enabled "ATTIVATA">
 <!ENTITY trackingProtection.state.disabled "DISATTIVATA">
-<!ENTITY trackingProtection.description.enabled "Le finestre anonime bloccheranno i contenuti in grado di tracciare la navigazione.">
-<!ENTITY trackingProtection.description.disabled "Le finestre anonime non bloccheranno i contenuti in grado di tracciare la navigazione.">
+<!ENTITY trackingProtection.description "In modalità Navigazione anonima le finestre bloccheranno gli elementi della pagina in grado di tracciare la navigazione.">
 <!ENTITY trackingProtection.disable "Disattiva la protezione antitracciamento">
 <!ENTITY trackingProtection.enable "Attiva la protezione antitracciamento">
 <!ENTITY trackingProtection.startTour "Scopri come funziona">
