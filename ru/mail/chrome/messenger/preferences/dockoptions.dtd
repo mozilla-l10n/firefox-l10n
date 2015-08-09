@@ -12,3 +12,4 @@
 <!ENTITY showAllUnreadMessagesCount.accesskey "и">
 <!ENTITY dockIconBadge.label "Наклейка значка приложения">
 <!ENTITY dockIconShow.label "Наклеивать на значок приложения:">
+<!ENTITY directNotificationSettings.label "Вы можете отключить наклейку на панели Уведомления в Системных настройках.">
