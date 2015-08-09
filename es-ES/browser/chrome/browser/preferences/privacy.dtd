@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY tracking.label "Rastreo">
-<!ENTITY dntTrackingNotOkay3.label "Solicitar que los sitios no le rastreen.">
-<!ENTITY dntTrackingNotOkay3.accesskey "o">
+<!ENTITY dntTrackingNotOkay4.label "Indicar a los sitios que no le rastreen">
+<!ENTITY dntTrackingNotOkay4.accesskey "I">
 <!ENTITY doNotTrackInfo.label "Saber más">
-<!ENTITY trackingProtection3.label "Impedir a los sitios que le rastreen.">
-<!ENTITY trackingProtection3.accesskey "I">
+<!ENTITY trackingProtection5.label "Usar protección contra rastreo">
+<!ENTITY trackingProtection5.accesskey "U">
 <!ENTITY trackingProtectionLearnMore.label "Saber más">
-<!ENTITY trackingProtectionPBM3.label "Impedir a los sitios que le rastreen en ventanas privadas.">
-<!ENTITY trackingProtectionPBM3.accesskey "d">
+<!ENTITY trackingProtectionPBM5.label "Usar protección contra rastreo en ventanas privadas">
+<!ENTITY trackingProtectionPBM5.accesskey "d">
 <!ENTITY trackingProtectionPBMLearnMore.label "Saber más">
 <!ENTITY history.label "Historial">
 <!ENTITY locationBar.label "Barra de direcciones">
@@ -23,6 +23,8 @@
 <!ENTITY locbar.openpage.accesskey "A">
 <!ENTITY locbar.searches.label "Búsquedas relacionadas del buscador por defecto">
 <!ENTITY locbar.searches.accesskey "B">
+<!ENTITY suggestionSettings.label "Cambiar preferencias de sugerencias de buscadores…">
+<!ENTITY suggestionSettings.accesskey "o">
 <!ENTITY acceptCookies.label "Aceptar cookies">
 <!ENTITY acceptCookies.accesskey "A">
 <!ENTITY acceptThirdParty.pre.label "Aceptar las cookies de terceras partes:">
