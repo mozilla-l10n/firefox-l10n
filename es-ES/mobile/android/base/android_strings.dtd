@@ -8,7 +8,7 @@
 <!ENTITY onboard_start_subtext3 "Haga realmente suya su experiencia de navegación web móvil.">
 <!ENTITY onboard_start_button_account "Iniciar sesión en &brandShortName;">
 <!ENTITY onboard_start_button_browser "Comenzar a navegar">
-<!ENTITY onboard_start_restricted "Permanezca seguro y con control con esta versión simplificada de Firefox.">
+<!ENTITY onboard_start_restricted1 "Permanezca seguro y mantenga el control con esta versión simplificada de &brandShortName;.">
 <!ENTITY bookmarks_title "Marcadores">
 <!ENTITY history_title "Historial">
 <!ENTITY reading_list_title "Lista de lectura">
@@ -131,7 +131,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "Activadas, salvo las de terceras partes">
 <!ENTITY pref_cookies_disabled "Desactivadas">
 <!ENTITY pref_tracking_protection_title "Protección contra rastreo">
-<!ENTITY pref_tracking_protection_summary2 "Bloquear de manera activa elementos de rastreo en la navegación privada">
+<!ENTITY pref_tracking_protection_summary3 "Activado en navegación privada">
 <!ENTITY pref_donottrack_title "No rastrear">
 <!ENTITY pref_donottrack_summary "&brandShortName; indicará a los sitios que no quiere ser rastreado">
 <!ENTITY tracking_protection_prompt_title "Ahora con protección contra rastreo">
@@ -424,7 +424,7 @@
 <!ENTITY find_matchcase "Aa">
 <!ENTITY intent_uri_cannot_open "No se puede abrir el enlace">
 <!ENTITY devtools_auth_scan_header "Escaneando el código QR mostrado en su otro dispositivo">
-<!ENTITY restriction_disallow_import_settings_title2 "Desactivar \'Importar desde Android'\">
+<!ENTITY restriction_disallow_import_settings_title2 "Desactivar \'Importar desde Android\'">
 <!ENTITY restriction_disallow_addons_title2 "Desactivar instalación de complementos">
 <!ENTITY restriction_disallow_devtools_title2 "Desactivar herramientas de desarrollador">
 <!ENTITY restriction_disallow_customize_home_title2 "Desactivar personalización de inicio">
