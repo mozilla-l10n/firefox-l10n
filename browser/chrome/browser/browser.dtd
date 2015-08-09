@@ -275,6 +275,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 <!ENTITY browserContentToolboxMenu.label     "Razvojna orodja vsebine brskalnika">
+<!ENTITY browserContentToolboxMenu.accesskey "e">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Zapri orodno vrstico za razvoj">
 <!ENTITY devToolbarMenu.label              "Orodna vrstica za razvoj">
@@ -304,6 +305,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "Novo zasebno okno">
 <!ENTITY newPrivateWindow.accesskey "z">
+<!ENTITY newNonRemoteWindow.label   "Novo okno brez e10s">
 
 <!ENTITY editMenu.label         "Urejanje"> 
 <!ENTITY editMenu.accesskey       "E"> 
@@ -671,7 +673,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label                   "Prekliči">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
+<!ENTITY identity.connectionSecure "Varna povezava">
+<!ENTITY identity.connectionNotSecure "Povezava ni varna">
+<!ENTITY identity.connectionVerified "&brandShortName; je preveril, da ste varno povezani na to stran, ki jo upravlja:">
+<!ENTITY identity.connectionInternal "To je varna stran &brandShortName;a.">
 
+<!ENTITY identity.moreInfoLinkText2 "Več informacij">
 
 <!ENTITY identity.permissions "Dovoljenja">
 
@@ -846,3 +853,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY readingList.sidebar.add.tooltip          "Dodaj stran na bralni seznam">
 
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
+<!ENTITY saveToPocketCmd.label     "Shrani stran v Pocket">
+<!ENTITY saveToPocketCmd.accesskey "k">
+<!ENTITY saveLinkToPocketCmd.label     "Shrani povezavo v Pocket">
+<!ENTITY saveLinkToPocketCmd.accesskey "o">
+<!ENTITY pocketMenuitem.label      "Prikaži seznam Pocket">
