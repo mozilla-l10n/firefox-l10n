@@ -6,8 +6,6 @@
 <!ENTITY dntTrackingNotOkay4.label     "Solicitar que los sitios no le sigan">
 <!ENTITY dntTrackingNotOkay4.accesskey "n">
 <!ENTITY doNotTrackInfo.label           "Aprender más">
-<!ENTITY trackingProtection4.label     "Detener a los sitios que le siguen">
-<!ENTITY trackingProtection4.accesskey "m">
 <!ENTITY trackingProtection5.label     "Usar protección de seguimiento">
 <!ENTITY trackingProtection5.accesskey "m">
 <!ENTITY trackingProtectionLearnMore.label "Aprender más">
