@@ -273,6 +273,7 @@ size. -->
 <!ENTITY pref_private_data_downloadFiles2 "Завантаження">
 <!ENTITY pref_private_data_syncedTabs "Синхронізовані вкладки">
 
+
 <!ENTITY pref_about_firefox "Про &brandShortName;">
 <!ENTITY pref_vendor_faqs "Питання">
 <!ENTITY pref_vendor_feedback "Залишити відгук">
@@ -637,7 +638,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      This entity is used in the zoomed view to display the zoom factor-->
 <!ENTITY percent "&formatS;&#37;&#37;">
 
-<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+<!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 <!ENTITY actionbar_menu "Меню">
 <!ENTITY actionbar_done "Готово">
