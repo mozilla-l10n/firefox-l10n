@@ -22,19 +22,19 @@
 #define firefox_heading Mozilla Firefox
 
 # LOCALIZATION NOTE (firefox_help):
-# link title for https://support.mozilla.org/uk/products/firefox
+# link title for https://www.mozilla.org/en-US/firefox/help/
 #define firefox_help Допомога та інструкції
 
 # LOCALIZATION NOTE (firefox_customize):
-# link title for https://www.mozilla.org/uk/firefox/desktop/customize/
+# link title for https://www.mozilla.org/en-US/firefox/customize/
 #define firefox_customize Пристосувати Firefox
 
 # LOCALIZATION NOTE (firefox_community):
-# link title for https://www.mozilla.org/uk/contribute/
+# link title for https://www.mozilla.org/en-US/contribute/
 #define firefox_community Долучайтеся
 
 # LOCALIZATION NOTE (firefox_about):
-# link title for https://www.mozilla.org/uk/about/
+# link title for https://www.mozilla.org/en-US/about/
 #define firefox_about Про нас
 
 #unfilter emptyLines
