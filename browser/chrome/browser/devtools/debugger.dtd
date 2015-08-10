@@ -70,7 +70,7 @@
   -  checkbox that toggles ignoring caught exceptions. -->
 
 <!ENTITY debuggerUI.ignoreCaughtExceptions           "មិន​អើពើ​​ករណី​លើកលែង​ដែល​បាន​ចាប់">
-
+<!ENTITY debuggerUI.ignoreCaughtExceptions.accesskey "C">
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
   -  checkbox that toggles visibility of panes when opening the debugger. -->
 
@@ -164,6 +164,8 @@
 <!ENTITY debuggerUI.seMenuCondBreak.key "B">
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
+
+<!ENTITY debuggerUI.tabs.workers        "អ្នក​ធ្វើការ">
 <!ENTITY debuggerUI.tabs.sources        "ប្រភព">
 <!ENTITY debuggerUI.tabs.traces         "តាមដាន">
 <!ENTITY debuggerUI.tabs.callstack      "ហៅ​​ជា​ជង់​​">
