@@ -74,7 +74,7 @@
 <!ENTITY abbreviateOff.label "Συντόμευση ονομάτων (π.χ., 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Ειδικές επιλογές...">
 <!ENTITY advancedButton.accesskey "δ">
-<!ENTITY serverDefaultCharset.label "Προεπιλεγμένη κωδικοποίηση χαρακτήρων:">
+<!ENTITY serverDefaultCharset2.label "Προεπιλεγμένη κωδικοποίηση χαρακτήρων:">
 <!ENTITY localPath.label "Τοπικός κατάλογος:">
 <!ENTITY localFolderPicker.label "Επιλογή τοπικού καταλόγου">
 <!ENTITY browseFolder.label "Εξερεύνηση...">

@@ -720,8 +720,8 @@
 <!ENTITY contextArchive.accesskey "χ">
 <!ENTITY contextReplySender.label "Απάντηση μόνο στον αποστολέα">
 <!ENTITY contextReplySender.accesskey "ο">
-<!ENTITY contextReplyNewsgroup.label "Απάντηση στην ομάδα συζήτησης">
-<!ENTITY contextReplyNewsgroup.accesskey "ζ">
+<!ENTITY contextReplyNewsgroup2.label "Απάντηση στην ομάδα συζήτησης">
+<!ENTITY contextReplyNewsgroup2.accesskey "ζ">
 <!ENTITY contextReplyAll.label "Απάντηση σε όλους">
 <!ENTITY contextReplyAll.accesskey "υ">
 <!ENTITY contextReplyList.label "Απάντηση στη λίστα">
