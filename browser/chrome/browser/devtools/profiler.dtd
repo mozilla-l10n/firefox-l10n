@@ -144,7 +144,7 @@
 
 <!-- LOCALIZATION NOTE (profilerUI.enableJITOptimizations): This string
   -  is displayed next to a checkbox determining whether or not JIT optimization data
-  -  should be shown. -->
+  -  should be recorded. -->
 <!ENTITY profilerUI.enableJITOptimizations             "Запис оптимізації JIT">
 <!ENTITY profilerUI.enableJITOptimizations.tooltiptext "Запис оптимізації даних JIT, виміряних в кожному фреймі JavaScript.">
 
