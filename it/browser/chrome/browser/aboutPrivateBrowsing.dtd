@@ -29,4 +29,4 @@
 <!ENTITY trackingProtection.description "In modalità Navigazione anonima le finestre bloccheranno gli elementi della pagina in grado di tracciare la navigazione.">
 <!ENTITY trackingProtection.disable "Disattiva la protezione antitracciamento">
 <!ENTITY trackingProtection.enable "Attiva la protezione antitracciamento">
-<!ENTITY trackingProtection.startTour "Scopri come funziona">
+<!ENTITY trackingProtection.startTour1 "Scopri come funziona">
