@@ -132,7 +132,7 @@
 <!-- Context Menu -->
 
 <!ENTITY calendar.context.modifyorviewitem.label      "افتح">
-<!ENTITY calendar.context.modifyorviewitem.accesskey  "ا">
+<!ENTITY calendar.context.modifyorviewitem.accesskey  "ف">
 
 
 
@@ -298,7 +298,7 @@
 
 <!-- Error reporting -->
 
-<!ENTITY calendar.error.description "وصف:">
+<!ENTITY calendar.error.description "الوصف:">
 
 <!-- Extract buttons in message header -->
 
