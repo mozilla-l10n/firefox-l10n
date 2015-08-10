@@ -126,6 +126,8 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterFreetext): This is the label displayed
   -  in the network details footer for the url filtering textbox. -->
 
+<!ENTITY netmonitorUI.footer.filterFreetext.label  "តម្រង URLs">
+<!ENTITY netmonitorUI.footer.filterFreetext.key  "F">
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.clear): This is the label displayed
   -  in the network details footer for the "Clear" button. -->
 
@@ -148,6 +150,8 @@
 <!ENTITY netmonitorUI.summary.method      "វិធីសាស្ត្រ​ស្នើ ៖">
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.address): This is the label displayed
   -  in the network details headers tab identifying the remote address. -->
+
+<!ENTITY netmonitorUI.summary.address     "អាសយដ្ឋាន​ពី​ចម្ងាយ៖">
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.status): This is the label displayed
   -  in the network details headers tab identifying the status code. -->
 
@@ -253,6 +257,8 @@
 <!ENTITY netmonitorUI.context.copyUrl.accesskey "U">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrlParams): This is the label displayed
   -  on the context menu that copies the selected request's url parameters -->
+
+<!ENTITY netmonitorUI.context.copyUrlParams     "ចម្លង​ប៉ារ៉ាម៉ែត្រ URL">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrlParams.accesskey): This is the access key
   -  for the Copy URL Parameters menu item displayed in the context menu for a request -->
 
@@ -277,18 +283,24 @@
 <!ENTITY netmonitorUI.context.copyAsCurl.accesskey "C">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyRequestHeaders): This is the label displayed
   -  on the context menu that copies the selected item's request headers -->
+
+<!ENTITY netmonitorUI.context.copyRequestHeaders     "ចម្លង​ចំណង​ជើង​ស្នើសុំ">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyRequestHeaders.accesskey): This is the access key
   -  for the Copy Request Headers menu item displayed in the context menu for a request -->
 
 <!ENTITY netmonitorUI.context.copyRequestHeaders.accesskey  "Q">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyResponseHeaders): This is the label displayed
   -  on the context menu that copies the selected item's response headers -->
+
+<!ENTITY netmonitorUI.context.copyResponseHeaders     "ចម្លង​ចំណង​ជើង​ឆ្លើយតប">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyResponseHeaders.accesskey): This is the access key
   -  for the Copy Response Headers menu item displayed in the context menu for a response -->
 
 <!ENTITY netmonitorUI.context.copyResponseHeaders.accesskey  "S">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyResponse): This is the label displayed
   -  on the context menu that copies the selected response as a string -->
+
+<!ENTITY netmonitorUI.context.copyResponse "ចម្លង​ការ​ឆ្លើយតប">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyRespose.accesskey): This is the access key
   -  for the Copy Response menu item displayed in the context menu for a request -->
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyImageAsDataUri): This is the label displayed

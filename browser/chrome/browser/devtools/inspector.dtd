@@ -71,6 +71,8 @@
      shown in the inspector contextual-menu for the item that lets users scroll
      the current node into view -->
 
+<!ENTITY inspectorScrollNodeIntoView.label       "រមូរ​ទៅ​ក្នុង​ទិដ្ឋភាព​មើល">
+<!ENTITY inspectorScrollNodeIntoView.accesskey   "S">
 <!-- LOCALIZATION NOTE (inspectorHTMLDelete.label): This is the label shown in
      the inspector contextual-menu for the item that lets users delete the
      current node -->
@@ -115,3 +117,5 @@
 <!-- LOCALIZATION NOTE (inspectorScreenshotNode.label): This is the label
      shown in the inspector contextual-menu for the item that lets users take
      a screenshot of the currently selected node. -->
+
+<!ENTITY inspectorScreenshotNode.label       "រូបថត​អេក្រង់">
