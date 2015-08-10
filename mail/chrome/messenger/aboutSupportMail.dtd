@@ -15,5 +15,6 @@
 <!ENTITY aboutSupport.accountsConnSecurity "Ασφάλεια σύνδεσης">
 <!ENTITY aboutSupport.accountsAuthMethod "Μέθοδος πιστοποίησης">
 <!ENTITY aboutSupport.accountsDefault "Προεπιλογή;">
+<!ENTITY aboutSupport.identityName "Identity">
 
 <!ENTITY aboutSupport.sendViaEmail.label "Αποστολή μέσω email">
