@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY privatebrowsingpage.title "ಖಾಸಗಿ ವೀಕ್ಷಣೆ">
-
+<!ENTITY privatebrowsingpage.title.normal "ನೀವು ಖಾಸಗಿ ಜಾಲಾಟದಲ್ಲಿ ಇಲ್ಲ.">
 
 
 
