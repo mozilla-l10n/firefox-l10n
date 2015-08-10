@@ -129,8 +129,8 @@
 <!ENTITY  event.menu.options.show.time.accesskey              "ق">
 <!ENTITY  event.menu.options.show.time.busy.label             "مشغول ">
 <!ENTITY  event.menu.options.show.time.busy.accesskey         "م">
-<!ENTITY  event.menu.options.show.time.free.label             "&#037;مجاني">
-<!ENTITY  event.menu.options.show.time.free.accesskey         "F">
+<!ENTITY  event.menu.options.show.time.free.label             "مجاني">
+<!ENTITY  event.menu.options.show.time.free.accesskey         "م">
 
 <!ENTITY event.invite.attendees.label                     "دعوة الحضور…">
 <!ENTITY event.invite.attendees.accesskey                 "د">
@@ -195,7 +195,7 @@
 <!ENTITY event.attachments.popup.remove.label             "أزل" >
 <!ENTITY event.attachments.popup.remove.accesskey         "ز" >
 <!ENTITY event.attachments.popup.open.label               "افتح" >
-<!ENTITY event.attachments.popup.open.accesskey           "ا" >
+<!ENTITY event.attachments.popup.open.accesskey           "ف" >
 
 
 
@@ -344,7 +344,7 @@
 
 
 
-<!ENTITY read.only.organizer.label       "منظّم:">
+<!ENTITY read.only.organizer.label       "المنظّم:">
 
 
 

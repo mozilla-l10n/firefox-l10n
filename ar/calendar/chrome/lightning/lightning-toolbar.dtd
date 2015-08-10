@@ -2,32 +2,32 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY lightning.toolbar.calendar.name "أداة التقويم">
-<!ENTITY lightning.toolbar.calendar.name.accesskey "س">
-<!ENTITY lightning.toolbar.task.name "شريط المهمة">
+<!ENTITY lightning.toolbar.calendar.name "شريط أدوات التقويم">
+<!ENTITY lightning.toolbar.calendar.name.accesskey "ش">
+<!ENTITY lightning.toolbar.task.name "شريط أدوات المهام">
+<!ENTITY lightning.toolbar.task.name.accesskey "ه">
 
-
-<!ENTITY lightning.toolbar.sync.label "تزامن">
+<!ENTITY lightning.toolbar.sync.label "زامِن">
 
 <!ENTITY lightning.toolbar.delete.label "احذف">
 
-<!ENTITY lightning.toolbar.edit.label "تعديل">
+<!ENTITY lightning.toolbar.edit.label "حرر">
 
 
 
-<!ENTITY lightning.toolbar.print.label "طباعة">
+<!ENTITY lightning.toolbar.print.label "اطبع">
 
 <!-- Mode Toolbar -->
 
-<!ENTITY lightning.toolbar.calendar.label     "التقويم">
-<!ENTITY lightning.toolbar.calendar.tooltip   "بدّل إلى تبويب التقويم">
-<!ENTITY lightning.toolbar.calendar.accesskey "ا">
-<!ENTITY lightning.toolbar.task.label         "المهام">
-<!ENTITY lightning.toolbar.task.tooltip       "انتقل لتبويب المهام">
-<!ENTITY lightning.toolbar.task.accesskey     "ا">
+<!ENTITY lightning.toolbar.calendar.label     "تقويم">
+<!ENTITY lightning.toolbar.calendar.tooltip   "بدّل إلى لسان التقويم">
+<!ENTITY lightning.toolbar.calendar.accesskey "ت">
+<!ENTITY lightning.toolbar.task.label         "مهام">
+<!ENTITY lightning.toolbar.task.tooltip       "انتقل للسان المهام">
+<!ENTITY lightning.toolbar.task.accesskey     "م">
 <!-- Toolbar write button -->
 
-<!ENTITY lightning.toolbar.newevent.label     "الحدث">
+<!ENTITY lightning.toolbar.newevent.label     "حدث">
 
 <!ENTITY lightning.toolbar.newtask.label      "مهمَّة">
 
@@ -36,16 +36,16 @@
 <!ENTITY lightning.toolbar.day.label                 "يوم">
 <!ENTITY lightning.toolbar.day.accesskey             "ي">
 <!ENTITY lightning.toolbar.week.label                "أسبوع">
-<!ENTITY lightning.toolbar.week.accesskey            "أ">
+<!ENTITY lightning.toolbar.week.accesskey            "س">
 <!ENTITY lightning.toolbar.multiweek.label           "عدة أسابيع">
-<!ENTITY lightning.toolbar.multiweek.accesskey       "u">
+<!ENTITY lightning.toolbar.multiweek.accesskey       "د">
 <!ENTITY lightning.toolbar.month.label               "شهر">
 <!ENTITY lightning.toolbar.month.accesskey           "ش">
 <!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton1.tooltip
      from messenger.dtd -->
 <!ENTITY lightning.toolbar.appmenuButton.label       "قائمة التطبيق">
-<!ENTITY lightning.toolbar.appmenuButton1.tooltip    "اعرض لائحة ال&brandShortName;">
-<!ENTITY lightning.toolbar.calendarmenu.label        "التقويم الجزء">
-<!ENTITY lightning.toolbar.calendarmenu.accesskey    "ا">
-<!ENTITY lightning.toolbar.calendarpane.label        "أظهر التقويم الجزء">
-<!ENTITY lightning.toolbar.calendarpane.accesskey    "ا">
+<!ENTITY lightning.toolbar.appmenuButton1.tooltip    "اعرض قائمة &brandShortName;">
+<!ENTITY lightning.toolbar.calendarmenu.label        "لوحة التقويم">
+<!ENTITY lightning.toolbar.calendarmenu.accesskey    "ق">
+<!ENTITY lightning.toolbar.calendarpane.label        "أظهر لوحة التقويم">
+<!ENTITY lightning.toolbar.calendarpane.accesskey    "ق">
