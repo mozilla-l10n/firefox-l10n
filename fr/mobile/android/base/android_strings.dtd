@@ -158,8 +158,8 @@
 <!ENTITY pref_developer_remotedebugging "Débogage distant">
 <!ENTITY pref_category_logins "Identifiants">
 <!ENTITY pref_remember_signons2 "Enreg. les identifiants">
-<!ENTITY pref_open_external_urls_privately_title "Ouvrir les liens en navigation privée">
-<!ENTITY pref_open_external_urls_privately_summary "Pour tous les liens externes ouverts avec &brandShortName;">
+<!ENTITY pref_open_external_urls_privately_title "Ouvrir les liens en nav. privée">
+<!ENTITY pref_open_external_urls_privately_summary "Utiliser la navigation privée pour tous les liens externes ouverts avec &brandShortName;">
 <!ENTITY pref_manage_logins "Gérer les identifiants">
 
 <!ENTITY pref_category_home "Écran d\u0027accueil">
