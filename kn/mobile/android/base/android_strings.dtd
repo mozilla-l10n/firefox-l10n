@@ -258,7 +258,7 @@ size. -->
 
 <!ENTITY pref_use_master_password "ಮುಖ್ಯ ಗುಪ್ತಪದವನ್ನು ಬಳಸು">
 <!ENTITY pref_sync "ಸಿಂಕ್">
-
+<!ENTITY pref_sync_summary2 "ನಿಮ್ಮ ಹಾಳೆಗಳು, ಪುಟಗುರುತುಗಳು, ಪ್ರವೇಶ ಪದಗಳು, ಇತಿಹಾಸ ಸಿಂಕ್ ಮಾಡಿ">
 <!ENTITY pref_search_suggestions "ಹುಡುಕಲು ಸಲಹೆಗಳನ್ನು ತೋರಿಸು">
 <!ENTITY pref_import_android "ಆಂಡ್ರಾಯ್ಡ್‌ನಿಂದ ಆಮದುಮಾಡು">
 <!ENTITY pref_import_android_summary "ಸ್ಥಳೀಯ ಬ್ರೌಸರ್‌ನಿಂದ ಪುಟಗುರುತುಗಳು ಮತ್ತು ಇತಿಹಾಸವನ್ನು ಆಮದುಮಾಡು">
@@ -271,7 +271,7 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "ಆಫ್‌ಲೈನ್‌ ಜಾಲತಾಣದ ದತ್ತಾಂಶ">
 <!ENTITY pref_private_data_siteSettings2 "ತಾಣದ ಸಿದ್ಧತೆಗಳು">
 <!ENTITY pref_private_data_downloadFiles2 "ಇಳಿಕೆಗಳು">
-
+<!ENTITY pref_private_data_syncedTabs "ಸಿಂಕ್ ಮಾಡಿದ ಹಾಳೆಗಳು">
 
 
 <!ENTITY pref_about_firefox "&brandShortName; ಬಗ್ಗೆ">
@@ -392,7 +392,7 @@ size. -->
 <!ENTITY doorhanger_login_edit_toggle "ಪ್ರವೇಶ ಪದಗಳನ್ನು ತೋರಿಸು">
 <!ENTITY doorhanger_login_edit_toast_error "ಒಳಗೆ ಪ್ರವೇಶಿಸಲು ವಿಫಲವಾಗಿದೆ">
 <!ENTITY doorhanger_login_select_message "&formatS; ನಿಂದ ಪ್ರವೇಶ ಪದವನ್ನು ನಕಲಿಸಲೆ?">
-
+<!ENTITY doorhanger_login_select_toast_copy "‍ಗುಪ್ತಪದವನ್ನು ಕ್ಲಿಪ್ ಬೋರ್ಡ್‌ಗೆ ಪ್ರತಿ ಮಾಡಲಾಗಿದೆ">
 <!ENTITY doorhanger_login_select_toast_copy_error "‍ಗುಪ್ತಪದವನ್ನು ಪ್ರತಿ ಮಾಡಲು ಆಗಲಿಲ್ಲ">
 <!ENTITY doorhanger_login_select_action_text "‍ಇನ್ನೊಂದು ಲಾಗಿನ್ ಅನ್ನು ‍ಆರಿಸಿ">
 <!ENTITY doorhanger_login_select_title "ಇದರಿಂದ ಗುಪ್ತಪದವನ್ನು ನಕಲಿಸಿ">
@@ -407,7 +407,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "&brandShortName; ನ ಟೈಟಲ್ ಬಾರನ್ನು ಪುಟವೊಂದರಲ್ಲಿ ಸ್ಕ್ರಾಲ್ ಮಾಡುವಾಗ ಅಡಗಿಸು">
 
 <!ENTITY pref_tab_queue_title2 "ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ಕೊಂಡಿಗಳನ್ನು ತೆರೆ">
-
+<!ENTITY pref_tab_queue_summary3 "‍‍ಮುಂದಿನ ಬಾರಿ ‍‍&brandShortName; ತೆರೆಯುವವರೆಗೂ ಉಳಿಸು">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -665,3 +665,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY find_matchcase "Aa">
 
+<!ENTITY intent_uri_cannot_open "ಕೊಂಡಿಯನ್ನು ತೆರೆಯಲಾಗುತ್ತಿಲ್ಲ">
