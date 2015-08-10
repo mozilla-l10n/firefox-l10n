@@ -12,21 +12,21 @@
 <!ENTITY aboutPrivateBrowsing.forgotten "In questa finestra &brandShortName; non conserverà:">
 <!ENTITY aboutPrivateBrowsing.info.forgotten "Non verranno conservati:">
 <!ENTITY aboutPrivateBrowsing.info.history "Cronologia">
-<!ENTITY aboutPrivateBrowsing.info.search "Ricerche">
+<!ENTITY aboutPrivateBrowsing.info.searches "Ricerche">
 <!ENTITY aboutPrivateBrowsing.info.cookies "Cookie">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "File temporanei">
 <!ENTITY aboutPrivateBrowsing.kept "&brandShortName; conserverà:">
 <!ENTITY aboutPrivateBrowsing.info.kept "Verranno conservati:">
 <!ENTITY aboutPrivateBrowsing.info.downloads "File scaricati">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks "Segnalibri">
-<!ENTITY aboutPrivateBrowsing.note "Si ricordi che il proprio datore di lavoro o il fornitore di servizi internet in uso saranno comunque in grado di mantenere un registro delle pagine visitate.">
+<!ENTITY aboutPrivateBrowsing.note1 "Si noti che il proprio datore di lavoro o il fornitore di servizi internet in uso saranno comunque in grado di mantenere un registro delle pagine visitate.">
 <!ENTITY aboutPrivateBrowsing.learnMore "Ulteriori informazioni.">
 <!ENTITY trackingProtection.width "27em">
 <!ENTITY trackingProtection.title "Protezione antitracciamento">
 <!ENTITY trackingProtection.state.width "12ch">
 <!ENTITY trackingProtection.state.enabled "ATTIVATA">
 <!ENTITY trackingProtection.state.disabled "DISATTIVATA">
-<!ENTITY trackingProtection.description "In modalità Navigazione anonima le finestre bloccheranno gli elementi della pagina in grado di tracciare la navigazione.">
+<!ENTITY trackingProtection.description1 "In modalità Navigazione anonima le finestre bloccheranno gli elementi della pagina in grado di tracciare la navigazione.">
 <!ENTITY trackingProtection.disable "Disattiva la protezione antitracciamento">
 <!ENTITY trackingProtection.enable "Attiva la protezione antitracciamento">
 <!ENTITY trackingProtection.startTour1 "Scopri come funziona">
