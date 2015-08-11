@@ -621,12 +621,6 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY identity.connectionVerified "Program &brandShortName; pozytywnie zweryfikował zabezpieczenia połączenia z tą stroną, prowadzoną przez:">
 <!ENTITY identity.connectionInternal "To jest strona programu &brandShortName;.">
 
-Twoja prywatność podczas łączenia się z tą stroną nie jest chroniona. Przesyłane informacje (np. hasła, wiadomości, numery kart) mogą być dostępne dla innych.
-Połączenie z tą witryną nie jest w pełni bezpieczne, ponieważ zastosowane szyfrowanie nie jest wystarczające. Informacje na stronie mogą być dostępne dla innych a jej działanie modyfikowane.
-Połączenie z tą witryną nie jest w pełni bezpieczne, ponieważ zawiera ona nieszyfrowane elementy (np. obrazki).
-Ta witryna zawiera nieszyfrowaną interaktywną zawartość (np. skrypty).
-Inne osoby mogą zobaczyć twoje informacje lub zmodyfikować zachowanie strony.
-
 <!ENTITY identity.activeBlocked "&brandShortName; zablokował elementy tej strony, które nie były przesłane w sposób bezpieczny.">
 <!ENTITY identity.passiveLoaded "Niektóre elementy tej strony (np. obrazki) nie były przesłane w sposób bezpieczny.">
 <!ENTITY identity.activeLoaded "Ochrona na tej stronie została wyłączona przez użytkownika.">
