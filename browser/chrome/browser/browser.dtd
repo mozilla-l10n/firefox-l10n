@@ -126,8 +126,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "П">
 <!ENTITY fullScreenExit.label "Вийти з повноекранного режиму">
 <!ENTITY fullScreenExit.accesskey "В">
-<!ENTITY fullscreenAllowButton.label "Дозволити">
-<!ENTITY fullscreenExitButton.label "Відмовити">
 
 <!ENTITY fullscreenExitHint2.value "Натисніть ESC для виходу у будь-який момент.">
 <!ENTITY leaveDOMFullScreen.label "Вийти з повноекранного режиму">
@@ -396,6 +394,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "с">
 <!ENTITY urlbar.switchToTab.label     "Перемкнутись на вкладку:">
 
+
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -419,6 +418,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
+
+<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
+     These are set as the aria-label attribute for the search input box and
+     submit button in the in-content search UI, to be used by screen readers. -->
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -633,6 +636,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "к">
 
+
 <!ENTITY pageStyleMenu.label "Стиль сторінки">
 <!ENTITY pageStyleMenu.accesskey "С">
 <!ENTITY pageStyleNoStyle.label "Без стилю">
@@ -677,6 +681,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionNotSecure "Незахищене з'єднання">
 <!ENTITY identity.connectionVerified "&brandShortName; підтверджує, що ваше з'єднання з цим сайтом є захищеним і керується:">
 <!ENTITY identity.connectionInternal "Це захищена сторінка &brandShortName;.">
+
+<!-- Strings for connection state warnings. -->
+
+<!-- Strings for connection state warnings in the subview. -->
+
 
 <!ENTITY identity.moreInfoLinkText2 "Докладніше">
 
@@ -755,18 +764,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectMicrophone.accesskey "м">
 <!ENTITY getUserMedia.allWindowsShared.message "Буде надано доступ до всіх видимих вікон на вашому дисплеї.">
 
-<!-- Bad Content Blocker Doorhanger Notification -->
-<!ENTITY badContentBlocked.moreinfo "Більшість веб-сайтів будуть працювати правильно, навіть якщо вміст заблокований.">
-
-<!ENTITY mixedContentBlocked2.message "Небезпечний вміст">
-<!ENTITY mixedContentBlocked2.moreinfo "Деякі незашифровані елементи на цьому веб-сайті заблоковано.">
-<!ENTITY mixedContentBlocked2.learnMore "Дізнатися більше">
-<!ENTITY mixedContentBlocked2.options "Налаштування">
-<!ENTITY mixedContentBlocked2.unblock.label "Тимчасово вимкнути захист">
-<!ENTITY mixedContentBlocked2.unblock.accesskey "в">
-<!ENTITY mixedContentBlocked2.block.label "Увімкнути захист">
-<!ENTITY mixedContentBlocked2.block.accesskey "У">
-<!ENTITY mixedContentBlocked2.disabled.message "Захист вимкнено">
+<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
 
 <!ENTITY trackingContentBlocked.message "Стеження">
 <!ENTITY trackingContentBlocked.moreinfo "Частини сторінки, які стежать за вашою активністю в Інтернеті заблоковано.">
@@ -839,18 +842,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeNotificationsNotNow.accesskey         "е">
 <!ENTITY emeNotificationsDontAskAgain.label       "Не питати знову">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "п">
-
-<!ENTITY readingList.label                        "Список читання">
-<!ENTITY readingList.sidebar.commandKey           "С">
-<!ENTITY readingList.showSidebar.label            "Показати бічну панель списку читання">
-<!-- Pre-landed string for bug 1124153 -->
-<!ENTITY readingList.sidebar.showMore.label       "Показати ще…">
-<!-- Pre-landed string for bug 1133662 -->
-<!ENTITY readingList.sidebar.emptyText            "Додавайте статті до свого списку читання, щоб зберегти їх на потім та, при потребі, легко знаходити їх.">
-<!ENTITY readingList.sidebar.delete.tooltip       "Прибрати це зі списку читання">
-<!-- Pre-landed strings for bug 1123519 -->
-<!ENTITY readingList.sidebar.add.label            "Додати до списку читання">
-<!ENTITY readingList.sidebar.add.tooltip          "Додати цю сторінку до списку читання">
 
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 <!ENTITY saveToPocketCmd.label     "Зберегти сторінку в Pocket">

@@ -4,12 +4,8 @@
 
 <!ENTITY tracking.label                 "Стеження">
 
-<!ENTITY dntTrackingNotOkay.label2      "Повідомляти сайтам, що я не хочу щоб за мною стежили">
-<!ENTITY dntTrackingNotOkay.accesskey   "н">
-<!ENTITY trackingProtection.label       "Запобігати сайтам стежити за мною">
-<!ENTITY trackingProtection.accesskey   "с">
+<!ENTITY doNotTrackInfo.label          "Дізнатись більше">
 <!ENTITY trackingProtectionLearnMore.label "Дізнатись більше">
-<!ENTITY doNotTrackInfo.label           "Дізнатись більше">
 
 <!ENTITY  history.label                 "Історія відвідувань">
 
@@ -24,6 +20,7 @@
 <!ENTITY  locbar.openpage.accesskey     "В">
 <!ENTITY  locbar.searches.label         "Пов'язані пошуки з типового засобу пошуку">
 <!ENTITY  locbar.searches.accesskey     "П">
+
 
 <!ENTITY  acceptCookies.label           "Приймати куки від сайтів">
 <!ENTITY  acceptCookies.accesskey       "к">

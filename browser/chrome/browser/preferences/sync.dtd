@@ -16,7 +16,6 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Керувати обліковим записом">
 <!ENTITY manageAccount.accesskey      "К">
-<!ENTITY viewQuota.label              "Подивитись квоту">
 <!ENTITY changePassword2.label        "Змінити пароль…">
 <!ENTITY myRecoveryKey.label          "Мій ключ відновлення">
 <!ENTITY resetSync2.label             "Скинути синхронізацію…">
@@ -26,8 +25,6 @@
 <!ENTITY syncMy.label               "Синхронізувати мої">
 <!ENTITY engine.bookmarks.label     "Закладки">
 <!ENTITY engine.bookmarks.accesskey "З">
-<!ENTITY engine.readinglist.label   "Список читання">
-<!ENTITY engine.readinglist.accesskey "С">
 <!ENTITY engine.tabs.label          "Вкладки">
 <!ENTITY engine.tabs.accesskey      "В">
 <!ENTITY engine.history.label       "Історію">
@@ -84,3 +81,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY welcome.createAccount.label "Створити обліковий запис">
 
 <!ENTITY welcome.useOldSync.label "Використовуєте стару версію Синхронізації?">
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
