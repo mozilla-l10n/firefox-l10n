@@ -725,18 +725,6 @@ Inne osoby mogą zobaczyć twoje informacje lub zmodyfikować zachowanie strony.
 <!ENTITY getUserMedia.audioCapture.label "Dźwięk z karty będzie udostępniany.">
 <!ENTITY getUserMedia.allWindowsShared.message "Wszystkie widoczne na ekranie okna zostaną udostępnione.">
 
-<!ENTITY badContentBlocked.moreinfo "Większość stron będzie działać prawidłowo nawet, gdy blokowane są treści.">
-
-<!ENTITY mixedContentBlocked2.message "Niezabezpieczone treści">
-<!ENTITY mixedContentBlocked2.moreinfo "Niektóre niezaszyfrowane elementy tej strony zostały zablokowane.">
-<!ENTITY mixedContentBlocked2.learnMore "Więcej informacji">
-<!ENTITY mixedContentBlocked2.options "Ustawienia">
-<!ENTITY mixedContentBlocked2.unblock.label "Tymczasowo wyłącz ochronę">
-<!ENTITY mixedContentBlocked2.unblock.accesskey "T">
-<!ENTITY mixedContentBlocked2.block.label "Włącz ochronę">
-<!ENTITY mixedContentBlocked2.block.accesskey "W">
-<!ENTITY mixedContentBlocked2.disabled.message "Ochrona została wyłączona">
-
 <!ENTITY trackingProtection.title "Ochrona przed śledzeniem">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokuje elementy strony mogące śledzić Twoją aktywność w sieci.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Strona zawiera elementy mogące śledzić Twoją aktywność w sieci, jednak ochona przed nimi została wyłączona.">
