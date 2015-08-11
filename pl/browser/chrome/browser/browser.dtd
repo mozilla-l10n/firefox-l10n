@@ -528,7 +528,7 @@ items are mutually exclusive. -->
 <!ENTITY videoShowStats.accesskey    "t">
 <!ENTITY videoHideStats.label        "Ukryj statystyki">
 <!ENTITY videoHideStats.accesskey    "t">
-    
+
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and 
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
@@ -572,6 +572,8 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY closeCmd.label "Zamknij" >
 <!ENTITY closeCmd.key "W" >
 <!ENTITY closeCmd.accesskey "Z" >
+
+<!ENTITY toggleMuteCmd.key "M">
 
 <!ENTITY pageStyleMenu.label "Styl strony">
 <!ENTITY pageStyleMenu.accesskey "S">
