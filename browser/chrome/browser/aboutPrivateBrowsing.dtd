@@ -15,7 +15,7 @@
 <!ENTITY aboutPrivateBrowsing.forgotten        "En esta ventana, &brandShortName; no recordará:">
 <!ENTITY aboutPrivateBrowsing.info.forgotten   "Olvidará">
 <!ENTITY aboutPrivateBrowsing.info.history     "Historial">
-<!ENTITY aboutPrivateBrowsing.info.search      "Búsquedas">
+<!ENTITY aboutPrivateBrowsing.info.searches    "Búsquedas">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Cookies">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Archivos temporales">
 
@@ -24,7 +24,7 @@
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Descargas">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Marcadores">
 
-<!ENTITY aboutPrivateBrowsing.note             "Por favor, recuerde que su empleador o proveedor de servicios de internet todavía puede seguir las páginas que visite.">
+<!ENTITY aboutPrivateBrowsing.note1            "Por favor, no olvide que su empleador o proveedor de servicios de internet todavía puede seguir las páginas que visite.">
 <!ENTITY aboutPrivateBrowsing.learnMore        "Aprender más.">
 
 <!ENTITY trackingProtection.width              "22em">
@@ -34,8 +34,8 @@
 <!ENTITY trackingProtection.state.enabled      "ACTIVADA">
 <!ENTITY trackingProtection.state.disabled     "DESACTIVADA">
 
-<!ENTITY trackingProtection.description        "Las ventanas privadas ahora bloquean partes de la página que pueden seguir su actividad de navegación.">
+<!ENTITY trackingProtection.description1       "Las ventanas privadas ahora bloquean partes de la página que pueden seguir su actividad de navegación.">
 
 <!ENTITY trackingProtection.disable            "Desactivar la protección de seguimiento">
 <!ENTITY trackingProtection.enable             "Activar la protección de seguimiento">
-<!ENTITY trackingProtection.startTour          "Ver cómo funciona">
+<!ENTITY trackingProtection.startTour1         "Ver cómo funciona">
