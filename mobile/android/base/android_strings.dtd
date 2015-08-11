@@ -105,7 +105,7 @@
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Il debug tramite Wi-Fi richiede la presenza sul dispositivo di un’app per la scansione di codici QR.">
 <!ENTITY pref_category_logins "Accessi">
 <!ENTITY pref_remember_signons2 "Ricorda accessi">
-<!ENTITY pref_open_external_urls_privately_title "Apertura link in Navigazione anonima">
+<!ENTITY pref_open_external_urls_privately_title "Apri link in nav. anonima">
 <!ENTITY pref_open_external_urls_privately_summary "Per tutti i link esterni aperti in &brandShortName;">
 <!ENTITY pref_manage_logins "Gestione accessi">
 <!ENTITY pref_category_home "Home">
