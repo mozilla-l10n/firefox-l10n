@@ -4,12 +4,14 @@
 
 <!ENTITY tracking.label                 "İzleme">
 
-<!ENTITY dntTrackingNotOkay.label2      "Saytlara izlənmək istəmədiyimi söylə">
-<!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY trackingProtection.label       "Saytların məni izləməkdən qoru">
-<!ENTITY trackingProtection.accesskey   "d">
-<!ENTITY trackingProtectionLearnMore.label "Ətraflı öyrən">
-<!ENTITY doNotTrackInfo.label           "Daha çox məlumat alın">
+
+<!ENTITY doNotTrackInfo.label          "Daha çox məlumat alın">
+
+
+
+
+
+
 
 <!ENTITY  history.label                 "Tarixçə">
 
@@ -24,6 +26,8 @@
 <!ENTITY  locbar.openpage.accesskey     "A">
 <!ENTITY  locbar.searches.label         "Əsas axtarış mühərrikindən uyğun axtarışlar">
 <!ENTITY  locbar.searches.accesskey     "y">
+
+
 
 <!ENTITY  acceptCookies.label           "Saytlardan çərəzləri qəbul et">
 <!ENTITY  acceptCookies.accesskey       "e">

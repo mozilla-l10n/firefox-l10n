@@ -16,7 +16,6 @@
 
 <!ENTITY manageAccount.label          "Hesabı idarə et">
 <!ENTITY manageAccount.accesskey      "ə">
-<!ENTITY viewQuota.label              "Limiti göstər">
 <!ENTITY changePassword2.label        "Şifrəni dəyiş…">
 <!ENTITY myRecoveryKey.label          "Bərpa açarım">
 <!ENTITY resetSync2.label             "Sinxronlaşdırmanı sıfırla…">
@@ -26,8 +25,6 @@
 <!ENTITY syncMy.label               "Sinxronlaşdırılacaqlar:">
 <!ENTITY engine.bookmarks.label     "Əlfəcinlər">
 <!ENTITY engine.bookmarks.accesskey "c">
-<!ENTITY engine.readinglist.label   "Oxuma Siyahısı">
-<!ENTITY engine.readinglist.accesskey "S">
 <!ENTITY engine.tabs.label          "Vərəqlər">
 <!ENTITY engine.tabs.accesskey      "V">
 <!ENTITY engine.history.label       "Keçmiș">
@@ -74,13 +71,24 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Siz daxil olmayıbsınız.">
 <!ENTITY signIn.label                "Daxil ol">
+
 <!ENTITY manage.label                "İdarə et">
 <!ENTITY disconnect.label            "Bağlantını kəs...">
 <!ENTITY verify.label                "E-poçtu Təstiqlə">
 <!ENTITY forget.label                "Bu e-poçtu unut">
 
 <!ENTITY welcome.description "Harda &brandShortName; işlətsəniz vərəqləriniz, əlfəcinləriniz, şifrələriniz və s. sizinlə olsun.">
-<!ENTITY welcome.signIn.label "Daxil ol">
-<!ENTITY welcome.createAccount.label "Hesab Aç">
+
+
 
 <!ENTITY welcome.useOldSync.label "Sync-in köhnə versiyasından istifadə edirsiniz?">
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+
+
