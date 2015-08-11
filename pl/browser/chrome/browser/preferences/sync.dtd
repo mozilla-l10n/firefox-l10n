@@ -68,7 +68,7 @@
 <!ENTITY signedOut.accountBox.create "Utwórz">
 <!ENTITY signedOut.accountBox.signin "Zaloguj się">
 
-<!ENTITY signedIn.engines.caption "Synchronizuj z innymi urządzeniami:">
+<!ENTITY signedIn.engines.label "Synchronizuj z innymi urządzeniami:">
 
 <!ENTITY mobilePromo.start "Pobierz Firefoksa dla systemu ">
 <!ENTITY mobilePromo.androidLink "Android™">
