@@ -89,8 +89,8 @@
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
-<!ENTITY options.enableRemote.label3   "원격 디버깅 켜기">
-<!ENTITY options.enableRemote.tooltip  "이 옵션을 켜면 개발자 도구가 Firefox OS와 같은 원격 Firefox 인스턴스를 디버깅할 수 있습니다.">
+<!ENTITY options.enableRemote.label3    "원격 디버깅 켜기">
+<!ENTITY options.enableRemote.tooltip   "이 옵션을 켜면 개발자 도구가 Firefox OS와 같은 원격 Firefox 인스턴스를 디버깅할 수 있습니다.">
 
 <!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
@@ -121,7 +121,7 @@
   -  tools. -->
 <!ENTITY options.selectDefaultTools.label     "기본 Firefox 개발자 도구">
 
-<!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
+<!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
   -  added by add-ons. This heading is hidden when there is no developer tool
   -  installed by add-ons. -->
@@ -171,12 +171,7 @@
 <!ENTITY options.stylesheetAutocompletion.label      "CSS 자동완성">
 <!ENTITY options.stylesheetAutocompletion.tooltip    "스타일 편집기에서 CSS 속성, 값, 선택자를 입력하는 대로 자동완성">
 
-<!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
-  -  heading of the group of JavaScript Profiler preferences in the options
-  -  panel. -->
-<!ENTITY options.profiler.label            "JavaScript 프로파일러">
-
-<!-- LOCALICATION NOTE (options.commonprefs): This is the label for the heading
+<!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->
 <!ENTITY options.commonPrefs.label           "일반 설정">
@@ -195,20 +190,19 @@
 <!ENTITY options.showPlatformData.label    "Gecko 플랫폼 데이터">
 <!ENTITY options.showPlatformData.tooltip  "이 옵션을 켜면 JavaScript 프로파일러 보고서에 Gecko 플랫폼 정보가 들어갑니다">
 
-
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 
-<!ENTITY options.sourceeditor.label "편집기 설정">
-<!ENTITY options.sourceeditor.detectindentation.label "들여 쓰기 감지">
+<!ENTITY options.sourceeditor.label                     "편집기 설정">
+<!ENTITY options.sourceeditor.detectindentation.label   "들여 쓰기 감지">
 <!ENTITY options.sourceeditor.detectindentation.tooltip "소스 내용에서 들여 쓰기를 감지">
-<!ENTITY options.sourceeditor.autoclosebrackets.label "괄호 자동 입력">
+<!ENTITY options.sourceeditor.autoclosebrackets.label   "괄호 자동 입력">
 <!ENTITY options.sourceeditor.autoclosebrackets.tooltip "괄호를 자동 입력함">
-<!ENTITY options.sourceeditor.expandtab.label "들여 쓰기로 스페이스 문자를 쓰기 ">
-<!ENTITY options.sourceeditor.expandtab.tooltip "탭 문자 대신 스페이스 문자를 사용">
-<!ENTITY options.sourceeditor.tabsize.label "탭 길이">
-<!ENTITY options.sourceeditor.tabsize.accesskey "T">
-<!ENTITY options.sourceeditor.keybinding.label "키 바인드">
-<!ENTITY options.sourceeditor.keybinding.accesskey "K">
-<!ENTITY options.sourceeditor.keybinding.default.label "기본 설정">
+<!ENTITY options.sourceeditor.expandtab.label           "들여 쓰기로 스페이스 문자를 쓰기 ">
+<!ENTITY options.sourceeditor.expandtab.tooltip         "탭 문자 대신 스페이스 문자를 사용">
+<!ENTITY options.sourceeditor.tabsize.label             "탭 길이">
+<!ENTITY options.sourceeditor.tabsize.accesskey         "T">
+<!ENTITY options.sourceeditor.keybinding.label          "키 바인드">
+<!ENTITY options.sourceeditor.keybinding.accesskey      "K">
+<!ENTITY options.sourceeditor.keybinding.default.label  "기본 설정">
 

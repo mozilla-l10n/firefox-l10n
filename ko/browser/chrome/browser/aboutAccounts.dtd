@@ -7,4 +7,3 @@
 <!ENTITY aboutAccountsConfig.description "탭, 북마크, 암호 등을 동기화하려면 가입하십시오.">
 <!ENTITY aboutAccountsConfig.startButton.label "시작하기">
 <!ENTITY aboutAccountsConfig.useOldSync.label "옛 Sync를 쓰고 계십니까?">
-<!ENTITY aboutAccountsConfig.manage.label "관리">

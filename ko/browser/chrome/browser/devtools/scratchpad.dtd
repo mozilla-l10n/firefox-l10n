@@ -102,7 +102,7 @@
   -->
 <!ENTITY environmentMenu.label        "실행 환경">
 <!ENTITY environmentMenu.accesskey    "N">
-<!ENTITY environmentMenu.accesskey    "N">
+
 
 <!ENTITY contentContext.label         "웹 페이지">
 <!ENTITY contentContext.accesskey     "C">
@@ -128,7 +128,7 @@
 <!ENTITY documentationLink.accesskey  "D">
 
 
-<!-- LOCALIZATION NOTE (resetContext.label): This command allows the developer
+<!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
 <!ENTITY resetContext2.label          "변수 재설정">
