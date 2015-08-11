@@ -171,11 +171,6 @@
 <!ENTITY options.stylesheetAutocompletion.label      "Автоматичне доповнення CSS">
 <!ENTITY options.stylesheetAutocompletion.tooltip    "Автоматичне доповнення властивостей, значень і вибірок CSS у редакторі стилів під час набирання">
 
-<!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
-  -  heading of the group of JavaScript Profiler preferences in the options
-  -  panel. -->
-<!ENTITY options.profiler.label            "Профілятор JavaScript">
-
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->

@@ -7,4 +7,3 @@
 <!ENTITY aboutAccountsConfig.description "Увійдіть, щоб синхронізувати свої вкладки, закладки, паролі та інше.">
 <!ENTITY aboutAccountsConfig.startButton.label "Почати">
 <!ENTITY aboutAccountsConfig.useOldSync.label "Використовуєте стару версію Синхронізації?">
-<!ENTITY aboutAccountsConfig.manage.label "Керувати">
