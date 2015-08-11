@@ -6,11 +6,11 @@
 <!ENTITY dntTrackingNotOkay4.label "Informuj witryny, że użytkownik nie chce być śledzony">
 <!ENTITY dntTrackingNotOkay4.accesskey "I">
 <!ENTITY doNotTrackInfo.label "Więcej informacji">
-<!ENTITY trackingProtection4.label "Zapobiegaj śledzeniu przez witryny">
-<!ENTITY trackingProtection4.accesskey "Z">
+<!ENTITY trackingProtection5.label "Ochrona przed śledzeniem">
+<!ENTITY trackingProtection5.accesskey "O">
 <!ENTITY trackingProtectionLearnMore.label "Więcej informacji">
-<!ENTITY trackingProtectionPBM4.label "Zapobiegaj śledzeniu przez witryny w oknach prywatnych">
-<!ENTITY trackingProtectionPBM4.accesskey "u">
+<!ENTITY trackingProtectionPBM5.label "Ochrona przed śledzeniem w oknach prywatnych">
+<!ENTITY trackingProtectionPBM5.accesskey "r">
 <!ENTITY trackingProtectionPBMLearnMore.label "Więcej informacji">
 
 <!ENTITY locationBar.label "Pasek adresu">
@@ -20,7 +20,7 @@
 <!ENTITY locbar.bookmarks.label "zakładkach">
 <!ENTITY locbar.bookmarks.accesskey "z">
 <!ENTITY locbar.openpage.label "otwartych kartach">
-<!ENTITY locbar.openpage.accesskey "o">
+<!ENTITY locbar.openpage.accesskey "k">
 <!ENTITY locbar.searches.label "podpowiedziach wyszukiwania">
 <!ENTITY locbar.searches.accesskey "d">
 
@@ -33,7 +33,7 @@
 <!ENTITY  acceptCookies.accesskey       "A">
 
 <!ENTITY  acceptThirdParty.pre.label      "Akceptuj ciasteczka z innych witryn:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "k">
+<!ENTITY  acceptThirdParty.pre.accesskey "n">
 <!ENTITY  acceptThirdParty.always.label   "Zawsze">
 <!ENTITY  acceptThirdParty.never.label    "Nigdy">
 <!ENTITY  acceptThirdParty.visited.label  "Z odwiedzonych">
@@ -75,7 +75,7 @@
 <!ENTITY  dontrememberActions.post.label         ".">
 
 <!ENTITY  privateBrowsingPermanent2.label "Zawsze używaj trybu prywatnego">
-<!ENTITY  privateBrowsingPermanent2.accesskey "r">
+<!ENTITY  privateBrowsingPermanent2.accesskey "t">
 
 <!ENTITY  rememberHistory2.label         "Pamiętaj historię przeglądania i pobierania plików">
 <!ENTITY  rememberHistory2.accesskey     "s">
@@ -87,4 +87,4 @@
 <!ENTITY  clearOnClose.accesskey         "z">
 
 <!ENTITY  clearOnCloseSettings.label     "Ustawienia…">
-<!ENTITY  clearOnCloseSettings.accesskey "t">
+<!ENTITY clearOnCloseSettings.accesskey "U">

@@ -738,9 +738,9 @@ Inne osoby mogą zobaczyć twoje informacje lub zmodyfikować zachowanie strony.
 <!ENTITY mixedContentBlocked2.disabled.message "Ochrona została wyłączona">
 
 <!ENTITY trackingProtection.title "Ochrona przed śledzeniem">
-<!ENTITY trackingProtection.detectedBlocked2 "&brandShortName; blokuje próby śledzenia Twojej aktywności online.">
-<!ENTITY trackingProtection.detectedNotBlocked2 "Strona zawiera elementy śledzące Twoją aktywność online, jednak przed nimi została wyłączona.">
-<!ENTITY trackingProtection.notDetected2 "Nie wykryto elementów śledzących aktywność online użytkownika na tej stronie.">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokuje elementy strony mogące śledzić Twoją aktywność w sieci.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "Strona zawiera elementy mogące śledzić Twoją aktywność w sieci, jednak ochona przed nimi została wyłączona.">
+<!ENTITY trackingProtection.notDetected3 "Nie wykryto elementów śledzących aktywność użytkownika na tej stronie.">
 <!ENTITY trackingProtection.unblock.label "Wyłącz ochronę dla tej strony">
 <!ENTITY trackingProtection.unblock.accesskey "W">
 <!ENTITY trackingProtection.unblockPrivate.label "Wyłącz ochronę w oknie prywatnym">
