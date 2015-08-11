@@ -166,7 +166,7 @@
 <!ENTITY pref_cookies_disabled "מנוטרל">
 
 <!ENTITY pref_tracking_protection_title "הגנת מעקב">
-<!ENTITY pref_tracking_protection_summary "&brandShortName; ימנע מאתרים ממעקב אחריך">
+
 
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -254,6 +254,9 @@ size. -->
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
 
 
+<!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
+     whether or not the magnifying glass is disabled. -->
+
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -273,7 +276,7 @@ size. -->
 <!ENTITY site_settings_clear        "מחיקה">
 <!ENTITY site_settings_no_settings  "אין הגדרות למחיקה.">
 
-<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+<!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
 <!ENTITY reading_list_removed "הדף הוסר מרשימת הקריאה שלך">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
@@ -346,9 +349,9 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_run_by "שמופעל על־ידי">
 
 <!-- Mixed content notifications in site identity popup -->
+
 
 <!-- Tracking content notifications in site identity popup -->
 
@@ -405,4 +408,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
+
+
+<!-- DevTools Authentication -->
+<!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
+     above a QR reader that is actively scanning for QR codes.  The expected QR
+     code has already been displayed by the client trying to connect (such as
+     desktop Firefox via WebIDE), so you just need to aim this device at the QR
+     code. -->
+
+<!-- Restrictions -->
+<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+     a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
