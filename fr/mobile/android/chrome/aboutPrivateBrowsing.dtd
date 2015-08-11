@@ -3,14 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY privatebrowsingpage.title "Navigation privée">
-<!ENTITY privatebrowsingpage.title.normal "Vous n'êtes pas en mode de navigation privée">
-
-<!ENTITY privatebrowsingpage.issueDesc.normal2 "En mode de navigation privée, nous ne conserverons aucun historique de navigation ni aucun cookie.">
-<!ENTITY privatebrowsingpage.issueDesc.private2 "Nous ne conserverons aucun historique de navigation ni aucun cookie.">
-
-<!ENTITY privatebrowsingpage.description2 "Les fichiers téléchargés et les marque-pages ajoutés seront toujours conservés sur votre appareil.">
-<!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
-<!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
+<!-- Localisation note: the plus sign here is a shorthand way of expressing the word "and". Contextually the privatebrowsingpage.title.private string
+                        is used as a title, with the privatebrowsingpage.title string preceding it but on a separate line.
+                        So the final line will say "Private Browsing + Tracking Protection". -->
+<!ENTITY privatebrowsingpage.title.private "+ protection contre le pistage">
+<!ENTITY privatebrowsingpage.title.normal1 "Vous n'êtes pas en mode de navigation privée">
+<!ENTITY privatebrowsingpage.description.private3 "Firefox vous empêchera d'être pisté et ne conservera aucun historique, cependant les fichiers téléchargés et les marque-pages ajoutés seront toujours enregistrés sur votre appareil.">
+<!ENTITY privatebrowsingpage.description.normal2 "En mode de navigation privée, nous ne conserverons aucun historique de navigation ni aucun cookie. Les fichiers téléchargés et les marque-pages ajoutés seront toujours enregistrés sur votre appareil.">
 
 <!ENTITY privatebrowsingpage.link.private "En savoir plus">
 <!ENTITY privatebrowsingpage.link.normal "Ouvrir un nouvel onglet privé">
