@@ -213,12 +213,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.label "K vyhledávání přiřadit klíčové slovo">
 <!ENTITY keywordfield.accesskey "h">
 
-<!ENTITY downloads.label "Správce stahování">
+<!ENTITY downloads.label "Stahování">
 <!ENTITY downloads.accesskey "t">
 <!ENTITY downloads.commandkey "j">
 <!ENTITY downloadsUnix.commandkey "y">
-<!ENTITY addons.label "Správce doplňků">
-<!ENTITY addons.accesskey "d">
+<!ENTITY addons.label "Doplňky">
+<!ENTITY addons.accesskey "D">
 <!ENTITY addons.commandkey "a">
 <!ENTITY webapps.label                "Aplikace">
 <!ENTITY webapps.accesskey            "p">

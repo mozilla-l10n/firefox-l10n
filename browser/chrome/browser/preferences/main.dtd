@@ -20,7 +20,7 @@
 <!ENTITY restoreDefault.label "Obnovit výchozí">
 <!ENTITY restoreDefault.accesskey "b">
 
-<!ENTITY downloads.label "Správce stahování">
+<!ENTITY downloads.label "Stahování">
 
 <!ENTITY saveTo.label "Uložit všechny soubory do">
 <!ENTITY saveTo.accesskey "U">
