@@ -4,7 +4,8 @@
 
 <!ENTITY aboutAccounts.welcome "Amogelesega mo &syncBrand.shortName.label;">
 
+
 <!ENTITY aboutAccountsConfig.description "Tsena tirong go rulaganya ka tsamaisano dithebe tsa gago, matshwaotsebe , dikhunololamoraba le tse dingwe.">
 <!ENTITY aboutAccountsConfig.startButton.label "Simolola">
 <!ENTITY aboutAccountsConfig.useOldSync.label "A o dirisa mofuta o mogologolo wa Thulaganyo ka tsamaisano?">
-<!ENTITY aboutAccountsConfig.manage.label "Laola">
+

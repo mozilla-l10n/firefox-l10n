@@ -63,15 +63,16 @@
 <!ENTITY connection.installOneSimulatorTooltip "Tsenya mofuta wa Seka thulaganyo-tiriso ka go kopolola seoketswa se amanang">
 <!ENTITY connection.installAnotherSimulator "Tsenya">
 
+<!ENTITY connection.startRegisteredSimulator "Simolola:">
 
-
-
-
-
-
-
-
-
+<!ENTITY projects.localApps "Ditiriso tsa Selegae">
+<!ENTITY projects.addApp "Tsenya">
+<!ENTITY projects.addPackaged "Tsenya Tiriso e Phuthetsweng">
+<!ENTITY projects.addPackagedTooltip "Tsenya tiriso e ntšha e phuthetsweng (lenaneofaele) go tswa mo khomputareng ya gago">
+<!ENTITY projects.addHosted "Tsenya Tiriso e Tshegeditsweng">
+<!ENTITY projects.addHostedTooltip "Tsenya tiriso e ntšha e tshegeditsweng (kgokagano mo faeleng ya manifest.webapp) go tswa mo Webosaete e kgakala">
+<!ENTITY projects.title "Ditiriso tsa Selegae">
+<!ENTITY projects.appDetails "Dintlha tsa Tiriso">
 
 
 

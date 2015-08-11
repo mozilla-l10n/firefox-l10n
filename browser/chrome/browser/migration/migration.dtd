@@ -11,8 +11,14 @@
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
+
+
 <!ENTITY importFromNothing.label        "Se tlise sepe teng">
 <!ENTITY importFromNothing.accesskey    "S">
+
+
+
+
 
 
 

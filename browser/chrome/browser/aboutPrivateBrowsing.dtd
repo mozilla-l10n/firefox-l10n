@@ -2,18 +2,45 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.title            "O batlela mo sephiring">
-<!ENTITY aboutPrivateBrowsing.title.normal     "Bula window ya poraefete?">
-
-<!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; ga e ka ke ya gakologelwa motlhala ope mo window e.">
-<!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName; ga e ka ke ya gakologelwa motlhala ope ka ga windows tse di poraefete.">
-
-<!ENTITY aboutPrivateBrowsing.description      "Se se akaretsa patlo ya tse di fitileng, pheneno ya tse di fitileng, taisololo ya tse di fitileng foromo ya webo ya tse di fitileng, khukhi le difale tsa nakwana tsa inthanete. Le fa go ntse jalo, difaele tse o di laisilolang le matshwaotsebe a o a dirang a tla beiwa.">
-
 <!ENTITY aboutPrivateBrowsing.notPrivate       "Ga o mo window e poraefete.">
-
-<!ENTITY aboutPrivateBrowsing.moreInfo         "Le fa khomputara e ka se nne le rekota ya motlhala wa patlo ya gago, mohiri wa gago kgotsa motlamedi wa tirelo ya inthanete o santse a ka latedia ditsebe tse o di etelang.">
-<!ENTITY aboutPrivateBrowsing.learnMore        "Ithute mo Gontsi.">
-
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Bula Window e Poraefete">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "W">
+
+<!ENTITY privateBrowsing.title                 "Patlo e poraefete  ">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
+     Width of the Private Browsing section.
+     -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
+     aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
+     These strings will be replaced by aboutPrivateBrowsing.forgotten and
+     aboutPrivateBrowsing.kept when the new visual design lands (bug 1192625).
+     -->
+
+<!ENTITY aboutPrivateBrowsing.title            "O batlela mo sephiring">
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.history     "Tiragalo tse di fetileng">
+
+<!ENTITY aboutPrivateBrowsing.info.cookies     "Dikhoki">
+
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.bookmarks   "Matshwaotsebe">
+
+<!ENTITY aboutPrivateBrowsing.learnMore        "Ithute mo Gontsi.">
+<!-- LOCALIZATION NOTE (trackingProtection.width):
+     Width of the Tracking Protection section. This should be enough to
+     accommodate the title as well as the enabled or disabled indicator.
+     -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.state.width):
+     Width of the element representing the enabled or disabled indicator.
+     -->
+
+
+
+
+
+

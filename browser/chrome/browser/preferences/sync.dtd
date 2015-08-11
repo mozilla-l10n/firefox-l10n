@@ -14,15 +14,12 @@
 
 <!-- Manage Account -->
 
-
 <!ENTITY changePassword2.label        "Fetola Khunololamoraba…">
 
 <!ENTITY resetSync2.label             "Rulaganyasešwa Thulaganyo ka tsamaiso...">
 
 
 <!ENTITY syncMy.label               "Rulaganya ka tsamaiso di">
-
-
 
 
 
@@ -64,6 +61,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 
+
 <!ENTITY manage.label                "Laola">
 
 
@@ -73,3 +71,13 @@ both, to better adapt this sentence to their language.
 
 
 <!ENTITY welcome.useOldSync.label "A o dirisa mofuta o mogologolo wa Thulaganyo ka tsamaiso?">
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+
+
