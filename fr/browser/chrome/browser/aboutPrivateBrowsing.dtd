@@ -35,13 +35,13 @@
      Width of the Tracking Protection section. This should be enough to
      accommodate the title as well as the enabled or disabled indicator.
      -->
-<!ENTITY trackingProtection.width              "35em">
+<!ENTITY trackingProtection.width              "33em">
 <!ENTITY trackingProtection.title              "Protection contre le pistage">
 
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
-<!ENTITY trackingProtection.state.width        "14ch">
+<!ENTITY trackingProtection.state.width        "13ch">
 <!ENTITY trackingProtection.state.enabled      "ACTIVÉE">
 <!ENTITY trackingProtection.state.disabled     "DÉSACTIVÉE">
 
