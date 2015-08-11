@@ -16,7 +16,6 @@
 
 <!ENTITY manageAccount.label          "ಖಾತೆಯನ್ನು ನಿರ್ವಹಿಸು">
 <!ENTITY manageAccount.accesskey      "n">
-<!ENTITY viewQuota.label              "ಕೋಟಾವನ್ನು ನೋಡಿ">
 <!ENTITY changePassword2.label        "ಗುಪ್ತಪದವನ್ನು ಬದಲಾಯಿಸಿ…">
 <!ENTITY myRecoveryKey.label          "ನನ್ನ ರಿಕವರಿ ಕೀಲಿ">
 <!ENTITY resetSync2.label             "ಸಿಂಕ್ ಅನ್ನು ಮರುಹೊಂದಿಸಿ…">
@@ -26,8 +25,6 @@
 <!ENTITY syncMy.label               "ಸಿಂಕ್ ಮಾಡು">
 <!ENTITY engine.bookmarks.label     "ಪುಟಗುರುತುಗಳು">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.readinglist.label   "ಓದುವ List">
-<!ENTITY engine.readinglist.accesskey "L">
 <!ENTITY engine.tabs.label          "ಹಾಳೆಗಳು">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "ಇತಿಹಾಸ">
@@ -74,13 +71,24 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "ನೀವು ಸೈನ್ ಇನ್ ಆಗಿಲ್ಲ.">
 <!ENTITY signIn.label                "ಸೈನ್ ಇನ್">
+
 <!ENTITY manage.label                "ನಿರ್ವಹಿಸು">
 <!ENTITY disconnect.label            "ಸಂಪರ್ಕ ತಪ್ಪಿಸು…">
 <!ENTITY verify.label                "ವಿ-ಅಂಚೆಯನ್ನು ದೃಢಪಡಿಸಿ">
 <!ENTITY forget.label                "ಈ ವಿ-ಅಂಚೆಯನ್ನು ಮರೆತುಬಿಡು">
 
 <!ENTITY welcome.description "ನೀವು &brandShortName; ಅನ್ನು ಎಲ್ಲೆಲ್ಲಿ ಬಳಸುತ್ತೀರೊ ಅಲ್ಲೆಲ್ಲಾ ಟ್ಯಾಬ್‌ಗಳು, ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳು, ಗುಪ್ತಪದಗಳು ಹಾಗೂ ಇನ್ನೂ ಹೆಚ್ಚಿನವುಗಳನ್ನು ಬಳಸಿ.">
-<!ENTITY welcome.signIn.label "ಸೈನ್ ಇನ್">
-<!ENTITY welcome.createAccount.label "ಖಾತೆಯನ್ನು ರಚಿಸಿ">
+
+
 
 <!ENTITY welcome.useOldSync.label "ಹಳೆಯ ಆವೃತ್ತಿಯ ಸಿಂಕ್ ಬಳಸುತ್ತಿದ್ದೀರಾ?">
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+
+

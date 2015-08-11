@@ -171,11 +171,6 @@
 
 <!ENTITY options.stylesheetAutocompletion.label      "CSS ಅನ್ನು ಸ್ವಯಂಪೂರ್ಣಗೊಳಿಸು">
 <!ENTITY options.stylesheetAutocompletion.tooltip    "ನೀವು ನಮೂದಿಸಿದಂತೆಲ್ಲಾ, ಶೈಲಿ ಸಂಪಾದಕದಲ್ಲಿ CSS ಗುಣಗಳು, ಮೌಲ್ಯಗಳು ಮತ್ತು ಆಯ್ಕೆಗಾರಗಳನ್ನು ಸ್ವಯಂಪೂರ್ಣಗೊಳಿಸಲಾಗುತ್ತದೆ">
-<!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
-  -  heading of the group of JavaScript Profiler preferences in the options
-  -  panel. -->
-
-<!ENTITY options.profiler.label            "JavaScript ಪ್ರೊಫೈಲರ್">
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->

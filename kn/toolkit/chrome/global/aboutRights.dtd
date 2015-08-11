@@ -46,6 +46,8 @@
 
 <!ENTITY rights2.webservices-header "&brandFullName; ಜಾಲ-ಆಧರಿತ ಮಾಹಿತಿ ಸೇವೆಗಳು">
 <!-- point 5 -->
+
+<!ENTITY rights.intro-point5 "ಕೆಲವು ತರಹದ ವೀಡಿಯೋಗಳನ್ನು ತೋರಿಸಲು, &brandShortName; ಕೆಲವು ವಿಷಯ ಡೀಕ್ರಿಪ್ಷನ್ ಮೊಡ್ಯುಲ್‌ಗಳನ್ನು ಮೂರನೆಯವರಿಂದ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿಕೊಳ್ಳಲಾಗುವುದು.">
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
      the UI, without this page being forgotten every time those strings are
