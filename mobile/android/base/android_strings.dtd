@@ -259,7 +259,7 @@ size. -->
 <!ENTITY pref_use_master_password "Použít hlavní heslo">
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_sync_summary2 "Synchronizace vašich panelů, záložek, přihlášení a historie">
-<!ENTITY pref_search_suggestions "Zobrazit našeptávač">
+<!ENTITY pref_search_suggestions "Povolit našeptávání">
 <!ENTITY pref_import_android "Import z Androidu">
 <!ENTITY pref_import_android_summary "Import záložek a historie z prohlížeče v systému">
 <!ENTITY pref_private_data_history2 "Historie prohlížení">
@@ -575,7 +575,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_history "Importování historie z Androidu">
 <!ENTITY bookmarkhistory_import_wait "Prosím čekejte...">
 
-<!ENTITY suggestions_prompt3 "Chcete zapnout našeptávač vyhledávání?">
+<!ENTITY suggestions_prompt3 "Chcete zapnout našeptávání při vyhledávání?">
 <!--  Localization note (search_bar_item_desc): When the user clicks the url bar
       and starts typing, a list of icons of search engines appears at the bottom
       of the screen. When a user clicks an icon, the entered text will be searched
