@@ -110,6 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "A">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; ಗೆ ಸೈನ್-ಇನ್ ಆಗು">
+
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; ಗೆ ಮತ್ತೆ ಸಂಪರ್ಕ ಹೊಂದು">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; ಸ್ವಲ್ಪದರಲ್ಲಿ ಸಿಂಕ್ ಆಗಲು ಪ್ರಾರಂಭಿಸುವುದು.">
@@ -126,8 +127,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "ಪೂರ್ಣತೆರೆಯ ವಿಧಾನದಿಂದ ಹೊರನಡೆ">
 <!ENTITY fullScreenExit.accesskey "F">
-<!ENTITY fullscreenAllowButton.label "ಅನುಮತಿಸು">
-<!ENTITY fullscreenExitButton.label "ನಿರಾಕರಿಸು">
 
 <!ENTITY fullscreenExitHint2.value "ಯಾವುದೆ ಸಮಯದಲ್ಲಿ ನಿರ್ಗಮಿಸಲು ESC ಅನ್ನು ಒತ್ತಿ">
 <!ENTITY leaveDOMFullScreen.label "ಪೂರ್ಣತೆರೆಯಿಂದ ನಿರ್ಗಮಿಸು">
@@ -395,6 +394,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.placeholder2          "ವಿಳಾಸವನ್ನು ಹುಡುಕು ಅಥವ ನಮೂದಿಸು">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "ಟ್ಯಾಬ್‌ಗೆ ಬದಲಾಯಿಸು:">
+
+
+<!ENTITY urlbar.searchSuggestionsNotification.disable "ಇಲ್ಲ">
+<!ENTITY urlbar.searchSuggestionsNotification.enable "ಹೌದು">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -419,6 +422,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
+<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
+     These are set as the aria-label attribute for the search input box and
+     submit button in the in-content search UI, to be used by screen readers. -->
+
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -634,6 +641,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "C">
 
+
 <!ENTITY pageStyleMenu.label "ಪುಟದ ಶೈಲಿ">
 <!ENTITY pageStyleMenu.accesskey "y">
 <!ENTITY pageStyleNoStyle.label "ಯಾವುದೇ ಶೈಲಿ ಇಲ್ಲ">
@@ -672,12 +680,31 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "ಆಯಿತು">
 <!ENTITY editBookmark.cancel.label                   "ರದ್ದುಗೊಳಿಸು">
-<!ENTITY editBookmark.removeBookmark.accessKey       "R">
+
 
 <!ENTITY identity.connectionSecure "ಸುರಕ್ಷಿತ ಸಂಪರ್ಕ">
 <!ENTITY identity.connectionNotSecure "ಸಂಪರ್ಕವು ಸುರಕ್ಷಿತವಾಗಿಲ್ಲ">
+
 <!ENTITY identity.connectionVerified "ನೀವು ಈ ತಾಣಕ್ಕೆ ಸುರಕ್ಷಿತವಾಗಿ ಸಂಪರ್ಕ ಹೊಂದಿದ್ದೀರೆಂದು &brandShortName; ಪರಿಶೀಲಿಸಿದೆ, ನಿರ್ವಹಿಸಿರುವುದು:">
 <!ENTITY identity.connectionInternal "ಇದು ಸುರಕ್ಷಿತ &brandShortName; ಪುಟ">
+<!-- Strings for connection state warnings. -->
+
+
+
+<!-- Strings for connection state warnings in the subview. -->
+
+
+
+
+
+
+
+
+
+
+<!ENTITY identity.disableMixedContentBlocking.label "ಸಂರಕ್ಷಣೆಯನ್ನು ಸಧ್ಯಕ್ಕೆ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸು (D)">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "D">
+
 
 <!ENTITY identity.moreInfoLinkText2 "ಹೆಚ್ಚಿನ ಮಾಹಿತಿ">
 
@@ -754,27 +781,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "ಹಂಚಲು ಮೈಕ್ರೊಫೋನ್:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+
 <!ENTITY getUserMedia.allWindowsShared.message "ನಿಮ್ಮ ತೆರೆಯಲ್ಲಿರುವ ಎಲ್ಲಾ ಗೋಚರಿಸುವ ಕಿಟಕಿಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳಲಾಗುತ್ತದೆ.">
-<!-- Bad Content Blocker Doorhanger Notification -->
 
-<!ENTITY badContentBlocked.moreinfo "ವಿಷಯವನ್ನು ನಿರ್ಬಂಧಿಸಿದ್ದರೂ ಸಹ ಹೆಚ್ಚಿನ ಜಾಲತಾಣಗಳು ಸರಿಯಾಗಿ ಕೆಲಸ ಮಾಡುತ್ತವೆ.">
 
-<!ENTITY mixedContentBlocked2.message "ಅಸುರಕ್ಷಿತ ವಿಷಯ">
-<!ENTITY mixedContentBlocked2.moreinfo "ಈ ಜಾಲತಾಣದಲ್ಲಿ ಎನ್ಕ್ರಿಪ್ಟ್ ಆಗಿರದ ಕೆಲವು ಅಂಶಗಳನ್ನು ತಡೆ ಹಿಡಿಯಲಾಗಿದೆ.">
-<!ENTITY mixedContentBlocked2.learnMore "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
-<!ENTITY mixedContentBlocked2.options "ಆಯ್ಕೆಗಳು">
-<!ENTITY mixedContentBlocked2.unblock.label "ಸಂರಕ್ಷಣೆಯನ್ನು ಸಧ್ಯಕ್ಕೆ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸು (D)">
-<!ENTITY mixedContentBlocked2.unblock.accesskey "D">
-<!ENTITY mixedContentBlocked2.block.label "ಸಂರಕ್ಷಣೆಯನ್ನು Enable">
-<!ENTITY mixedContentBlocked2.block.accesskey "E">
-<!ENTITY mixedContentBlocked2.disabled.message "ಸಂರಕ್ಷಣೆಯನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ">
+
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+
+
+
 
 <!ENTITY trackingContentBlocked.message "ಜಾಡು ಇರಿಸುವಿಕೆ">
 <!ENTITY trackingContentBlocked.moreinfo "ನಿಮ್ಮ ಆನ್‌ಲೈನ್‌ ಚಟುವಟಿಕೆಯ ಜಾಡನ್ನು ಇರಿಸಿಕೊಳ್ಳುವ ಕೆಲವು ಪುಟದ ಕೆಲವು ಭಾಗವನ್ನು ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ.">
 <!ENTITY trackingContentBlocked.learnMore "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
-<!ENTITY trackingContentBlocked.options "ಆಯ್ಕೆಗಳು">
-<!ENTITY trackingContentBlocked.unblock2.label "ಈ ತಾಣದ ಸಂರಕ್ಷಣೆಯನ್ನು Disable">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
+
+
+
 <!ENTITY trackingContentBlocked.block.label "ಸಂರಕ್ಷಣೆಯನ್ನು Enable">
 <!ENTITY trackingContentBlocked.block.accesskey "E">
 <!ENTITY trackingContentBlocked.disabled.message "ಟ್ರಾಕಿಂಗ್ ಸಂರಕ್ಷಣೆಯನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ">
@@ -840,18 +869,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeNotificationsNotNow.accesskey         "N">
 <!ENTITY emeNotificationsDontAskAgain.label       "ಮತ್ತೊಮ್ಮೆ ನನ್ನನ್ನು ಕೇಳಬೇಡ (D)">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "D">
-
-<!ENTITY readingList.label                        "ಓದುಬೇಕಿರುವ ಪಟ್ಟಿ">
-<!ENTITY readingList.sidebar.commandKey           "R">
-<!ENTITY readingList.showSidebar.label            "ಓದಬೇಕಿರುವ ಪಟ್ಟಿಯ ಬದಿಪಟ್ಟಿ ತೋರಿಸು">
-<!-- Pre-landed string for bug 1124153 -->
-<!ENTITY readingList.sidebar.showMore.label       "ಇನ್ನಷ್ಟು ತೋರಿಸು…">
-<!-- Pre-landed string for bug 1133662 -->
-<!ENTITY readingList.sidebar.emptyText            "ಲೇಖನಗಳನ್ನು ನಿಮ್ಮ ಓದುವ ಪಟ್ಟಿಗೆ ಮುಂದೆ ಓದುವ ಸಲುವಾಗಿ ಉಳಿಸಿ ಮತ್ತು ಅವುಗಳನ್ನು ಬೇಕಾದಾಗ ಸುಲಭವಾಗಿ ಹುಡುಕಿ.">
-<!ENTITY readingList.sidebar.delete.tooltip       "ಇದನ್ನು ನಿಮ್ಮ ಓದುವ ಪಟ್ಟಿಯಿಂದ ತೆಗೆಯಿರಿ">
-<!-- Pre-landed strings for bug 1123519 -->
-<!ENTITY readingList.sidebar.add.label            "ಓದುವ ಪಟ್ಟಿಗೆ ಸೇರಿಸು">
-<!ENTITY readingList.sidebar.add.tooltip          "ಈ ಪುಟವನ್ನು ನಿಮ್ಮ ಓದುವ ಪಟ್ಟಿಗೆ ಸೇರಿಸು">
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 
 <!ENTITY saveToPocketCmd.label     "Pocketಗೆ ಪುಟವನ್ನು ಉಳಿಸಿ">
