@@ -16,18 +16,15 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "계정 관리">
 <!ENTITY manageAccount.accesskey      "A">
-<!ENTITY viewQuota.label              "용량 보기">
-<!ENTITY changePassword2.label         "암호 변경…">
-<!ENTITY myRecoveryKey.label           "복구키 표시">
-<!ENTITY resetSync2.label              "동기화 재설정…">
+<!ENTITY changePassword2.label        "암호 변경…">
+<!ENTITY myRecoveryKey.label          "복구키 표시">
+<!ENTITY resetSync2.label             "동기화 재설정…">
 
 <!ENTITY pairDevice.label             "기기 연결하기">
 
 <!ENTITY syncMy.label               "동기화 항목">
 <!ENTITY engine.bookmarks.label     "북마크">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.readinglist.label   "읽기 목록">
-<!ENTITY engine.readinglist.accesskey "L">
 <!ENTITY engine.tabs.label          "탭 목록">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "방문 기록">
@@ -84,3 +81,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY welcome.createAccount.label "계정 만들기">
 
 <!ENTITY welcome.useOldSync.label "예전 동기화를 쓰고 계십니까?">
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->

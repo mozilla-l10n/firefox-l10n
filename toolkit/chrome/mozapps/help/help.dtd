@@ -2,42 +2,55 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY printCmd.commandkey "p">
-<!ENTITY findOnCmd.commandkey "F">
-<!ENTITY findAgainCmd.commandkey "G">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
-<!ENTITY backButton.label "뒤로">
-<!ENTITY backButton.accesskey "B">
-<!ENTITY backButton.tooltip "이전 페이지로 돌아갑니다.">
-<!ENTITY copyCmd.label "복사하기">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY selectAllCmd.label "모두 선택">
-<!ENTITY selectAllCmd.accesskey "A">
-<!ENTITY forwardButton.label "앞으로">
-<!ENTITY forwardButton.accesskey "F">
-<!ENTITY forwardButton.tooltip "다음 페이지로 진행합니다.">
-<!ENTITY goBackCmd.commandkey "[">
-<!ENTITY goForwardCmd.commandkey "]">
-<!ENTITY homeButton.label "홈">
-<!ENTITY homeButton.tooltip "도움말의 시작 페이지로 이동합니다.">
-<!ENTITY printButton.label "인쇄">
-<!ENTITY printButton.tooltip "이 페이지를 인쇄합니다.">
-<!ENTITY closeWindow.commandkey "W">
+<!ENTITY printCmd.commandkey            "p">
+
+<!ENTITY findOnCmd.commandkey           "F">
+<!ENTITY findAgainCmd.commandkey        "G">
+<!ENTITY findAgainCmd.commandkey2       "VK_F3">
+
+<!ENTITY backButton.label               "뒤로">
+<!ENTITY backButton.accesskey           "B">
+<!ENTITY backButton.tooltip             "이전 페이지로 돌아갑니다.">
+<!ENTITY forwardButton.label            "앞으로">
+<!ENTITY forwardButton.accesskey        "F">
+<!ENTITY forwardButton.tooltip          "다음 페이지로 진행합니다.">
+<!ENTITY copyCmd.label                  "복사하기">
+<!ENTITY copyCmd.accesskey              "C">
+<!ENTITY selectAllCmd.label             "모두 선택">
+<!ENTITY selectAllCmd.accesskey         "A">
+<!ENTITY goBackCmd.commandkey           "[">
+<!ENTITY goForwardCmd.commandkey        "]">
+<!ENTITY homeButton.label               "홈">
+<!ENTITY homeButton.tooltip             "도움말의 시작 페이지로 이동합니다.">
+<!ENTITY printButton.label              "인쇄">
+<!ENTITY printButton.tooltip            "이 페이지를 인쇄합니다.">
+<!ENTITY closeWindow.commandkey         "W">
+
 <!ENTITY search.emptytext               "검색">
 <!ENTITY searchHeader.label             "검색 결과">
-<!ENTITY toctab.label "내용">
-<!ENTITY toctab.accesskey "C">
-<!ENTITY helpSearch.commandkey "k">
-<!ENTITY zLevel.label "항상 위에">
-<!ENTITY zLevel.accesskey "T">
-<!ENTITY fullZoomReduceCmd.commandkey "-">
+<!ENTITY toctab.label                   "내용">
+<!ENTITY toctab.accesskey               "C">
+
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
-<!ENTITY fullZoomEnlargeCmd.commandkey "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-<!ENTITY fullZoomResetCmd.commandkey "0">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
-<!ENTITY fullZoomReduceBtn.label "축소">
-<!ENTITY fullZoomReduceBtn.accesskey "O">
-<!ENTITY fullZoomEnlargeBtn.label "확대">
-<!ENTITY fullZoomEnlargeBtn.accesskey "I">
+
+<!ENTITY helpSearch.commandkey          "k">
+
+<!ENTITY zLevel.label                   "항상 위에">
+<!ENTITY zLevel.accesskey               "T">
+
+<!ENTITY fullZoomReduceBtn.label        "축소">
+<!ENTITY fullZoomReduceBtn.accesskey    "O">
+<!ENTITY fullZoomEnlargeBtn.label       "확대">
+<!ENTITY fullZoomEnlargeBtn.accesskey   "I">
