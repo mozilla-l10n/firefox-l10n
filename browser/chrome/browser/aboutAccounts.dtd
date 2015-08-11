@@ -4,7 +4,8 @@
 
 <!ENTITY aboutAccounts.welcome "&syncBrand.shortName.label; मे स्वागत है">
 
+
 <!ENTITY aboutAccountsConfig.description "अपने टैब, बुकमार्क, कूटशब्द और अन्य सिंक करने के लिए साइन इन करें.">
 <!ENTITY aboutAccountsConfig.startButton.label "प्रारंभ करें">
 <!ENTITY aboutAccountsConfig.useOldSync.label "सिंक के पुराने संस्करण का उपयोग कर रहे हैं?">
-<!ENTITY aboutAccountsConfig.manage.label "प्रबंधित">
+

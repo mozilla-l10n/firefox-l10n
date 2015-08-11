@@ -115,7 +115,7 @@
 <!ENTITY prefs_title "वरीयता">
 <!ENTITY prefs_editor_title "संपादक">
 <!ENTITY prefs_general_title "सामान्य">
-
+<!ENTITY prefs_restore "डिफ़ॉल्ट पुनः स्थापित करे">
 <!ENTITY prefs_manage_components "अतिरिक्त घटक प्रबंधित करें">
 <!ENTITY prefs_options_autoconnectruntime "पिछले रनटाइम पर रिकनेक्ट करें">
 <!ENTITY prefs_options_autoconnectruntime_tooltip "WebIDE जब आरंभ हो, पिछले रनटाइम पर रिकनेक्ट करें">
@@ -197,11 +197,13 @@
 <!ENTITY logs_title "प्री-पैकेजिंग कमांड लॉग">
 <!-- Simulator Options -->
 
+<!ENTITY simulator_title "सिमुलेटर विकल्प">
+<!ENTITY simulator_remove "सिमुलेटर मिटाएँ">
+<!ENTITY simulator_reset "डिफ़ॉल्ट पुनः स्थापित करे">
 
-
-
+<!ENTITY simulator_software "सॉफ्टवेयर">
 <!ENTITY simulator_version "संस्करण">
-
+<!ENTITY simulator_profile "प्रोफाइल">
 
 <!ENTITY simulator_device "युक्ति">
 
