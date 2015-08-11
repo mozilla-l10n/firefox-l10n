@@ -4,12 +4,14 @@
 
 <!ENTITY tracking.label                 "Pistatge">
 
-<!ENTITY dntTrackingNotOkay.label2      "Indicar als sites Web de que vòli pas èsser pistat">
-<!ENTITY dntTrackingNotOkay.accesskey   "n">
+
+<!ENTITY doNotTrackInfo.label          "Ne saber mai…">
 
 
-<!ENTITY trackingProtectionLearnMore.label "Ne saber mai">
-<!ENTITY doNotTrackInfo.label           "Ne saber mai…">
+
+
+
+
 
 <!ENTITY  history.label                 "Istoric">
 
@@ -22,6 +24,8 @@
 <!ENTITY  locbar.bookmarks.accesskey    "F">
 <!ENTITY  locbar.openpage.label         "Dobrir los onglets">
 <!ENTITY  locbar.openpage.accesskey     "D">
+
+
 
 
 
