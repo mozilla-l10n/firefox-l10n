@@ -4,12 +4,8 @@
 
 <!ENTITY tracking.label                 "Καταγραφή συμπεριφοράς περιήγησης">
 
-<!ENTITY dntTrackingNotOkay.label2      "Γνωστοποίηση στις ιστοσελίδες ότι δεν επιθυμώ να καταγράφεται η συμπεριφορά περιήγησης μου">
-<!ENTITY dntTrackingNotOkay.accesskey   "ν">
-<!ENTITY trackingProtection.label       "Prevent sites from tracking me">
-<!ENTITY trackingProtection.accesskey   "m">
+<!ENTITY doNotTrackInfo.label          "Learn More">
 <!ENTITY trackingProtectionLearnMore.label "Learn more">
-<!ENTITY doNotTrackInfo.label           "Learn More">
 
 <!ENTITY  history.label                 "Ιστορικό">
 
@@ -24,6 +20,7 @@
 <!ENTITY  locbar.openpage.accesskey     "O">
 <!ENTITY  locbar.searches.label         "Related searches from the default search engine">
 <!ENTITY  locbar.searches.accesskey     "d">
+
 
 <!ENTITY  acceptCookies.label           "Αποδοχή cookies από σελίδες">
 <!ENTITY  acceptCookies.accesskey       "c">
