@@ -620,6 +620,34 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY identity.connectionFile "Strona wczytana z tego komputera">
 <!ENTITY identity.connectionVerified "Program &brandShortName; pozytywnie zweryfikował zabezpieczenia połączenia z tą stroną, prowadzoną przez:">
 <!ENTITY identity.connectionInternal "To jest strona programu &brandShortName;.">
+
+Twoja prywatność podczas łączenia się z tą stroną nie jest chroniona. Przesyłane informacje (np. hasła, wiadomości, numery kart) mogą być dostępne dla innych.
+Połączenie z tą witryną nie jest w pełni bezpieczne, ponieważ zastosowane szyfrowanie nie jest wystarczające. Informacje na stronie mogą być dostępne dla innych a jej działanie modyfikowane.
+Połączenie z tą witryną nie jest w pełni bezpieczne, ponieważ zawiera ona nieszyfrowane elementy (np. obrazki).
+Ta witryna zawiera nieszyfrowaną interaktywną zawartość (np. skrypty).
+Inne osoby mogą zobaczyć twoje informacje lub zmodyfikować zachowanie strony.
+
+<!ENTITY identity.activeBlocked "&brandShortName; zablokował elementy tej strony, które nie były przesłane w sposób bezpieczny.">
+<!ENTITY identity.passiveLoaded "Niektóre elementy tej strony (np. obrazki) nie były przesłane w sposób bezpieczny.">
+<!ENTITY identity.activeLoaded "Ochrona na tej stronie została wyłączona przez użytkownika.">
+<!ENTITY identity.weakEncryption "Strona używa słabego szyfrowania.">
+
+<!ENTITY identity.description.insecure "Prywatność podczas łączenia się z tą stroną nie jest chroniona. Przesyłane informacje (np. hasła, wiadomości, numery kart) mogą być dostępne dla innych.">
+<!ENTITY identity.description.weakCipher "Połączenie z tą stroną nie zapewnia prywatności, ponieważ szyfrowanie nie jest wystarczające.">
+<!ENTITY identity.description.weakCipher2 "Informacje na stronie mogą być dostępne dla innych a jej działanie modyfikowane.">
+<!ENTITY identity.description.activeBlocked "Firefox zablokował elementy tej strony, które nie były przesłane w sposób bezpieczny.">
+<!ENTITY identity.description.passiveLoaded "Połączenie z tą stroną nie zapewnia prywatności a przesyłane informacje mogą być dostępne dla innych.">
+<!ENTITY identity.description.passiveLoaded2 "Niektóre elementy tej strony (np. obrazki) nie były przesłane w sposób bezpieczny.">
+<!ENTITY identity.description.passiveLoaded3 "&brandShortName; zablokował niektóre elementy strony, mimo to nie wszystkie pozostałe elementy były przesłane w sposób bezpieczny (np. obrazki).">
+<!ENTITY identity.description.activeLoaded "Strona zawiera elementy, które nie były przesłane w sposób bezpieczny (np. skrypty) i połączenie z nią nie zapewnia prywatności.">
+<!ENTITY identity.description.activeLoaded2 "Przesyłane informacje (np. hasła, wiadomości, numery kart) mogą być dostępne dla innych.">
+
+<!ENTITY identity.enableMixedContentBlocking.label "Włącz ochronę">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "W">
+<!ENTITY identity.disableMixedContentBlocking.label "Tymczasowo wyłącz ochronę">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "T">
+<!ENTITY identity.learnMore "Więcej informacji">
+
 <!ENTITY identity.moreInfoLinkText2 "Więcej informacji…">
 <!ENTITY identity.permissions "Uprawnienia">
 
