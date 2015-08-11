@@ -25,18 +25,18 @@
 <!ENTITY newevent.status.needsaction.label        "Requer ação" >
 <!ENTITY newevent.status.inprogress.label         "Em andamento" >
 <!ENTITY newevent.status.completed.label          "Completado em" >
-<!-- The following entity is for New Task dialog only -->
 
+<!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#037; completada">
+
 <!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
    - These two labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
-
 <!ENTITY event.attendees.notify.label               "Notificar participantes">
 <!ENTITY event.attendees.notifyundisclosed.label    "Convite separado por participante">
 <!ENTITY event.attendees.notifyundisclosed.tooltip  "Esta opção envia um email de convite por participante. Cada convite contém apenas o participante destinatário para que as identidades dos participantes não sejam divulgadas.">
-<!-- Keyboard Shortcuts -->
 
+<!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
 <!ENTITY event.dialog.new.task.key2               "D">
 <!ENTITY event.dialog.new.message.key2            "N">
@@ -50,8 +50,8 @@
 <!ENTITY event.dialog.copy.key                    "C">
 <!ENTITY event.dialog.paste.key                   "V">
 <!ENTITY event.dialog.select.all.key              "t">
-<!-- Menubar -->
 
+<!-- Menubar -->
 <!ENTITY  event.menu.item.new.label                       "Novo">
 <!ENTITY  event.menu.item.new.accesskey                   "N">
 <!ENTITY  event.menu.item.new.event.label                 "Evento">
@@ -138,8 +138,8 @@
 <!ENTITY event.email.attendees.accesskey                  "m">
 <!ENTITY event.email.tentative.attendees.label            "Criar mensagem aos participantes indecisos…">
 <!ENTITY event.email.tentative.attendees.accesskey        "i">
-<!-- Toolbar -->
 
+<!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "Salvar e fechar">
 <!ENTITY  event.toolbar.delete.label                      "Excluir">
 <!ENTITY  event.toolbar.attendees.label                   "Convidar participantes">
@@ -153,8 +153,8 @@
 <!ENTITY  event.toolbar.priority.tooltip                  "Alterar prioridade">
 <!ENTITY  event.toolbar.status.tooltip                    "Alterar status">
 <!ENTITY  event.toolbar.freebusy.tooltip                  "Alterar tempo livre/ocupado">
-<!-- Main page -->
 
+<!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Título:" >
 <!ENTITY event.title.textbox.accesskey                    "T">
 <!ENTITY event.location.label                             "Local:" >
@@ -220,8 +220,8 @@
 
 <!ENTITY event.statusbarpanel.freebusy.label              "Duração:">
 <!ENTITY event.statusbarpanel.privacy.label               "Privacidade:">
-<!-- Recurrence dialog -->
 
+<!-- Recurrence dialog -->
 <!ENTITY recurrence.title.label                         "Editar recorrência">
 
 <!ENTITY event.repeat.does.not.repeat.label             "Não repete">
@@ -270,6 +270,7 @@
 <!ENTITY event.recurrence.every.label                        "A cada:" >
 <!ENTITY repeat.units.years.both                             "Ano(s)" >
 <!ENTITY event.recurrence.pattern.yearly.every.month.label   "A cada" >
+
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
      Portuguese: 6 de Setembro
@@ -277,7 +278,6 @@
      event.recurrence.pattern.yearly.of.label is "of" in
      Edit recurrence window -> Recurrence pattern -> Repeat yearly
 -->
-
 <!ENTITY event.recurrence.pattern.yearly.of.label            "" >
 
 <!ENTITY event.recurrence.pattern.yearly.month.1.label       "Janeiro" >
@@ -327,8 +327,8 @@
 <!ENTITY event.recurrence.appointments.label            "Compromissos(s)" >
 <!ENTITY event.repeat.until.label                       "Repetir até" >
 <!ENTITY event.recurrence.preview.label                 "Visualizar">
-<!-- Attendees dialog -->
 
+<!-- Attendees dialog -->
 <!ENTITY invite.title.label                     "Convidar participantes">
 <!ENTITY event.organizer.label                  "Organizador">
 <!ENTITY event.freebusy.suggest.slot            "Sugerir tempo disponível:">
@@ -348,12 +348,12 @@
 <!ENTITY event.attendee.usertype.group          "Grupo">
 <!ENTITY event.attendee.usertype.resource       "Recurso">
 <!ENTITY event.attendee.usertype.room           "Sala">
-<!-- Timezone dialog -->
 
+<!-- Timezone dialog -->
 <!ENTITY timezone.title.label            "Favor especificar o fuso horário">
 <!ENTITY event.timezone.custom.label     "Mais fusos horários…">
-<!-- Read-Only dialog -->
 
+<!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Geral">
 <!ENTITY read.only.title.label           "Título:">
 <!ENTITY read.only.event.start.label     "Data inicial:">

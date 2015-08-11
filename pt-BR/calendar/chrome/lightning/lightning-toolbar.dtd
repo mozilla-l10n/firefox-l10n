@@ -17,22 +17,22 @@
 <!ENTITY lightning.toolbar.gototoday.tooltip "Ir para hoje">
 <!ENTITY lightning.toolbar.print.label "Imprimir">
 <!ENTITY lightning.toolbar.print.tooltip "Imprimir eventos ou tarefas">
-<!-- Mode Toolbar -->
 
+<!-- Mode Toolbar -->
 <!ENTITY lightning.toolbar.calendar.label     "Calendário">
 <!ENTITY lightning.toolbar.calendar.tooltip   "Alterne para a aba do calendário">
 <!ENTITY lightning.toolbar.calendar.accesskey "C">
 <!ENTITY lightning.toolbar.task.label         "Tarefas">
 <!ENTITY lightning.toolbar.task.tooltip       "Alternar para a aba de tarefas">
 <!ENTITY lightning.toolbar.task.accesskey     "T">
-<!-- Toolbar write button -->
 
+<!-- Toolbar write button -->
 <!ENTITY lightning.toolbar.newevent.label     "Evento">
 <!ENTITY lightning.toolbar.newevent.tooltip   "Cria um novo evento">
 <!ENTITY lightning.toolbar.newtask.label      "Tarefa">
 <!ENTITY lightning.toolbar.newtask.tooltip    "Cria uma nova tarefa">
-<!-- Calendar and Task Mode Toolbar -->
 
+<!-- Calendar and Task Mode Toolbar -->
 <!ENTITY lightning.toolbar.day.label                 "Dia">
 <!ENTITY lightning.toolbar.day.accesskey             "D">
 <!ENTITY lightning.toolbar.week.label                "Semana">
