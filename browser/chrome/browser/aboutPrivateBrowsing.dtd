@@ -2,18 +2,45 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.title            "تتصفح بخصوصية">
-<!ENTITY aboutPrivateBrowsing.title.normal     "أأفتح نافذة خاصة؟">
-
-<!ENTITY aboutPrivateBrowsing.subtitle         "لن يحفظ &brandShortName; أيّ تأريخ لهذه النافذة.">
-<!ENTITY aboutPrivateBrowsing.subtitle.normal  "لن يحفظ &brandShortName; أيّ تأريخ للنوافذ الخاصة.">
-
-<!ENTITY aboutPrivateBrowsing.description      "يتضمّن هذا تأريخ التصفح، و تأريخ البحث، و تأريخ التنزيلات، و تأريخ نماذج الوب، و الكعكات، و ملفات الإنترنت المؤقتة. و لكنه سيحتفظ بالملفات التي تحمّلها و بالعلامات التي تضيفها.">
-
 <!ENTITY aboutPrivateBrowsing.notPrivate       "لستَ حاليا في نافذة خاصة.">
-
-<!ENTITY aboutPrivateBrowsing.moreInfo         "مع أن هذا الحاسوب لن يحتوي على سجل لتصفحك، إلا أنّ باستطاعة رب عملك أو مزود خدمة الإنترنت تتبع الصفحات التي زرتها.">
-<!ENTITY aboutPrivateBrowsing.learnMore        "اطّلع على المزيد.">
-
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "افتح نافذة خاصة">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "خ">
+
+<!ENTITY privateBrowsing.title                 "التصفح الخاص">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
+     Width of the Private Browsing section.
+     -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
+     aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
+     These strings will be replaced by aboutPrivateBrowsing.forgotten and
+     aboutPrivateBrowsing.kept when the new visual design lands (bug 1192625).
+     -->
+
+<!ENTITY aboutPrivateBrowsing.title            "تتصفح بخصوصية">
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.history     "التأريخ">
+
+<!ENTITY aboutPrivateBrowsing.info.cookies     "الكعكات">
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.downloads   "التنزيلات">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks   "العلامات">
+
+<!ENTITY aboutPrivateBrowsing.learnMore        "اطّلع على المزيد.">
+<!-- LOCALIZATION NOTE (trackingProtection.width):
+     Width of the Tracking Protection section. This should be enough to
+     accommodate the title as well as the enabled or disabled indicator.
+     -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.state.width):
+     Width of the element representing the enabled or disabled indicator.
+     -->
+
+
+
+
+
+

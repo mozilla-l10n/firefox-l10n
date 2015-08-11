@@ -56,7 +56,8 @@
 <!ENTITY lineNumbers.label             "أظهر أرقام الأسطر">
 <!ENTITY lineNumbers.accesskey         "ر">
 
-
+<!ENTITY wordWrap.label                "اطو النص">
+<!ENTITY wordWrap.accesskey            "ط">
 
 
 

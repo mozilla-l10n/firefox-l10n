@@ -11,12 +11,18 @@
 
 <!ENTITY importFromIE.label             "ميكروسوفت إنترنت إكسبلورر">
 <!ENTITY importFromIE.accesskey         "م">
+
+
 <!ENTITY importFromNothing.label        "لا تستورد أي شيء">
 <!ENTITY importFromNothing.accesskey    "ت">
 <!ENTITY importFromSafari.label         "سافاري">
 <!ENTITY importFromSafari.accesskey     "س">
+
+
 <!ENTITY importFromChrome.label         "كروم">
 <!ENTITY importFromChrome.accesskey     "ك">
+
+
 <!ENTITY importFromFirefox.label        "فيَرفُكس">
 <!ENTITY importFromFirefox.accesskey    "ف">
 <!ENTITY importFrom360se.label          "متصفح ٣٦٠ الآمن">
