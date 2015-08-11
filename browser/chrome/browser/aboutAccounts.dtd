@@ -7,4 +7,3 @@
 <!ENTITY aboutAccountsConfig.description "Συνδεθείτε για να συγχρονίσετε τους σελιδοδείκτες, τους κωδικούς, τις καρτέλες σας &amp; άλλα πολλά.">
 <!ENTITY aboutAccountsConfig.startButton.label "Ξεκινήστε">
 <!ENTITY aboutAccountsConfig.useOldSync.label "Χρησιμοποιείτε μια παλαιότερη έκδοση του Sync;">
-<!ENTITY aboutAccountsConfig.manage.label "Διαχείριση">

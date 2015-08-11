@@ -16,7 +16,6 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Διαχείριση λογαριασμού">
 <!ENTITY manageAccount.accesskey      "χ">
-<!ENTITY viewQuota.label              "Προβολή ορίων">
 <!ENTITY changePassword2.label        "Αλλαγή κωδικού…">
 <!ENTITY myRecoveryKey.label          "Το κλειδί ανάκτησης">
 <!ENTITY resetSync2.label             "Επαναφορά Sync…">
@@ -26,8 +25,6 @@
 <!ENTITY syncMy.label               "Συγχρονισμός σε">
 <!ENTITY engine.bookmarks.label     "Σελιδοδείκτες">
 <!ENTITY engine.bookmarks.accesskey "δ">
-<!ENTITY engine.readinglist.label   "Reading List">
-<!ENTITY engine.readinglist.accesskey "L">
 <!ENTITY engine.tabs.label          "Καρτέλες">
 <!ENTITY engine.tabs.accesskey      "τ">
 <!ENTITY engine.history.label       "Ιστορικό">
@@ -84,3 +81,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY welcome.createAccount.label "Create Account">
 
 <!ENTITY welcome.useOldSync.label "Using an older version of Sync?">
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
