@@ -16,7 +16,6 @@
 
 <!ENTITY manageAccount.label          "تنظیم حساب کاربری">
 <!ENTITY manageAccount.accesskey      "n">
-<!ENTITY viewQuota.label              "مشاهدهٔ فضای مصرفی">
 <!ENTITY changePassword2.label        "تغییر گذرواژه">
 <!ENTITY myRecoveryKey.label          "کلید بازیابی من">
 <!ENTITY resetSync2.label             "تنظیم دوبارۀ همگامی">
@@ -26,8 +25,6 @@
 <!ENTITY syncMy.label               "هم‌گام‌سازی موارد زیر">
 <!ENTITY engine.bookmarks.label     "نشانک‌ها">
 <!ENTITY engine.bookmarks.accesskey "ن">
-<!ENTITY engine.readinglist.label   "فهرست مطالعه">
-<!ENTITY engine.readinglist.accesskey "ف">
 <!ENTITY engine.tabs.label          "زبانه‌ها">
 <!ENTITY engine.tabs.accesskey      "ز">
 <!ENTITY engine.history.label       "تاریخچه">
@@ -74,13 +71,24 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "شما وارد نشده‌اید.">
 <!ENTITY signIn.label                "ورود">
+
 <!ENTITY manage.label                "مدیریت">
 <!ENTITY disconnect.label            "قطع ارتباط…">
 <!ENTITY verify.label                "تایید پست‌الکترونیکی">
 <!ENTITY forget.label                "این پست‌الکترونیکی را فراموش کن">
 
 <!ENTITY welcome.description "به زبانه‌ها، نشانک‌ها و گذرواژه‌های خود هنگام استفاده از &brandShortName; دسترسی داشته باشید.">
-<!ENTITY welcome.signIn.label "ورود">
-<!ENTITY welcome.createAccount.label "ساخت حساب">
+
+
 
 <!ENTITY welcome.useOldSync.label "آیا از نسخه قدیمی‌تر هم‌گام‌سازی استفاده می‌کنید؟">
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+
+

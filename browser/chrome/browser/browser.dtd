@@ -110,6 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "ز">
 
 <!ENTITY fxaSignIn.label "ورود به &syncBrand.shortName.label;">
+
 <!ENTITY fxaSignInError.label "بازگشت به &syncBrand.shortName.label;…">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; فعال شد">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; به زودی هم‌گام‌سازی را شروع میکند">
@@ -126,8 +127,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "پ">
 <!ENTITY fullScreenExit.label "خروج از حالت مرور تمام‌صفحه">
 <!ENTITY fullScreenExit.accesskey "خ">
-<!ENTITY fullscreenAllowButton.label "اجازه دادن">
-<!ENTITY fullscreenExitButton.label "رد کردن">
 
 <!ENTITY fullscreenExitHint2.value "در هر زمانی برای خروج دکمه ESC را فشار دهید.">
 <!ENTITY leaveDOMFullScreen.label "خروج از حالت تمام‌صفحه">
@@ -395,6 +394,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.placeholder2          "جست‌و‌جو کنید یا آدرس را وارد کنید">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "پرش به زبانه:">
+
+
+<!ENTITY urlbar.searchSuggestionsNotification.disable "خیر">
+<!ENTITY urlbar.searchSuggestionsNotification.enable "بله">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -419,6 +422,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
+<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
+     These are set as the aria-label attribute for the search input box and
+     submit button in the in-content search UI, to be used by screen readers. -->
+
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -634,6 +641,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "س">
 
+
 <!ENTITY pageStyleMenu.label "سبک صفحه">
 <!ENTITY pageStyleMenu.accesskey "ک">
 <!ENTITY pageStyleNoStyle.label "بدون سبک">
@@ -672,12 +680,31 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "انجام شد">
 <!ENTITY editBookmark.cancel.label                   "انصراف">
-<!ENTITY editBookmark.removeBookmark.accessKey       "R">
+
 
 <!ENTITY identity.connectionSecure "اتصال امن">
 <!ENTITY identity.connectionNotSecure "اتصال امن نیست">
+
 <!ENTITY identity.connectionVerified "&brandShortName; تایید کرد امنیت اتصال شما را به این پایگاه، اداره شده توسط:">
 <!ENTITY identity.connectionInternal "این یک صفحۀ امن &brandShortName; است.">
+<!-- Strings for connection state warnings. -->
+
+
+
+<!-- Strings for connection state warnings in the subview. -->
+
+
+
+
+
+
+
+
+
+
+<!ENTITY identity.disableMixedContentBlocking.label "فعلا محافظت غیرفعال شود.">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "غ">
+
 
 <!ENTITY identity.moreInfoLinkText2 "اطلاعات بیشتر">
 
@@ -754,27 +781,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "د">
 <!ENTITY getUserMedia.selectMicrophone.label "میکروفون جهت به‌اشتراک‌گذاری:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "م">
+
 <!ENTITY getUserMedia.allWindowsShared.message "همه‌ی پنجره‌هایی که مشاهده می‌کنید به اشتراک گذاشته می‌شود.">
-<!-- Bad Content Blocker Doorhanger Notification -->
 
-<!ENTITY badContentBlocked.moreinfo "بیشتر سایت‌ها حتی با مسدود شدن این محتوا هم به درستی کار می‌کنند.">
 
-<!ENTITY mixedContentBlocked2.message "محتوای ناامن">
-<!ENTITY mixedContentBlocked2.moreinfo "بعضی از عناصر رمزگذاری‌نشده‌ی این وبسایت مسدود شده‌اند.">
-<!ENTITY mixedContentBlocked2.learnMore "بیشتر بدانید">
-<!ENTITY mixedContentBlocked2.options "گزینه‌ها">
-<!ENTITY mixedContentBlocked2.unblock.label "فعلا محافظت غیرفعال شود.">
-<!ENTITY mixedContentBlocked2.unblock.accesskey "غ">
-<!ENTITY mixedContentBlocked2.block.label "فعال کردن محافظ">
-<!ENTITY mixedContentBlocked2.block.accesskey "ف">
-<!ENTITY mixedContentBlocked2.disabled.message "محافظت غیرفعال است.">
+
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+
+
+
 
 <!ENTITY trackingContentBlocked.message "ردگیری">
 <!ENTITY trackingContentBlocked.moreinfo "بخش‌هایی از این صفحه که فعالیت آنلاین شما را ردگیری می‌کنند مسدوده شده‌اند.">
 <!ENTITY trackingContentBlocked.learnMore "بیشتر بدانید">
-<!ENTITY trackingContentBlocked.options "گزینه‌ها">
-<!ENTITY trackingContentBlocked.unblock2.label "غیرفعال سازی حفاظت برای این وب سایت">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
+
+
+
 <!ENTITY trackingContentBlocked.block.label "فعال کردن محافظ">
 <!ENTITY trackingContentBlocked.block.accesskey "ف">
 <!ENTITY trackingContentBlocked.disabled.message "محافظت در برابر ردگیری غیرفعال است‌‌">
@@ -840,18 +869,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeNotificationsNotNow.accesskey         "N">
 <!ENTITY emeNotificationsDontAskAgain.label       "دیگر پرسیده نشود">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "د">
-
-<!ENTITY readingList.label                        "فهرست خواندن">
-<!ENTITY readingList.sidebar.commandKey           "R">
-<!ENTITY readingList.showSidebar.label            "نمایش نوار کناری لیست مطالعه">
-<!-- Pre-landed string for bug 1124153 -->
-<!ENTITY readingList.sidebar.showMore.label       "نمایش بیشتر…">
-<!-- Pre-landed string for bug 1133662 -->
-<!ENTITY readingList.sidebar.emptyText            "مقاله‌ها را به فهرست مطالعه خود اضافه کنید تا آنها را برای بعد ذخیره کنید و به سادگی در زمانی که احتیاج داشتید پیدا کنید.">
-<!ENTITY readingList.sidebar.delete.tooltip       "این مورد را از فهرست مطالعه خود حذف کنید">
-<!-- Pre-landed strings for bug 1123519 -->
-<!ENTITY readingList.sidebar.add.label            "اضافه کردن به فهرست مطالعه">
-<!ENTITY readingList.sidebar.add.tooltip          "این صفحه را به فهرست مطالعه خود اضافه کنید">
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 
 <!ENTITY saveToPocketCmd.label     "ذخیرۀ صفحه در Pocket">
