@@ -445,6 +445,12 @@
 <!ENTITY junkButton.tooltip "Marquer les messages sélectionnés comme indésirables">
 <!ENTITY notJunkButton.tooltip "Marquer les messages sélectionnés comme acceptables">
 
+<!-- Remote Content Button Popup -->
+<!ENTITY remoteContentOptionsAllowForMsg.label "Afficher le contenu distant dans ce message">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "A">
+<!ENTITY editRemoteContentSettings.label "Modifier les permissions pour le contenu distant…">
+<!ENTITY editRemoteContentSettings.accesskey "M">
+
 <!-- Statusbar -->
 <!ENTITY  statusText.label "Chargé">
 
