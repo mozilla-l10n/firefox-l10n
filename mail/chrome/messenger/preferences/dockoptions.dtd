@@ -13,3 +13,4 @@
 <!ENTITY showAllUnreadMessagesCount.accesskey  "u">
 <!ENTITY dockIconBadge.label                   "App-ikon-mærke">
 <!ENTITY dockIconShow.label                    "Mærk app-ikonet med:">
+<!ENTITY directNotificationSettings.label      "Du kan deaktivere mærket på meddelelsessiden i systemindstillingerne.">
