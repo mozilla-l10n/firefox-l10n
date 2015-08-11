@@ -4,12 +4,8 @@
 
 <!ENTITY tracking.label                 "מעקב">
 
-<!ENTITY dntTrackingNotOkay.label2      "לספר לאתרים שאני לא מעוניין במעקב">
-<!ENTITY dntTrackingNotOkay.accesskey   "ס">
-<!ENTITY trackingProtection.label       "מניעת מעקב מאתרים">
-<!ENTITY trackingProtection.accesskey   "ע">
+<!ENTITY doNotTrackInfo.label          "מידע נוסף">
 <!ENTITY trackingProtectionLearnMore.label "מידע נוסף">
-<!ENTITY doNotTrackInfo.label           "מידע נוסף">
 
 <!ENTITY  history.label                 "היסטוריה">
 
@@ -22,6 +18,7 @@
 <!ENTITY  locbar.bookmarks.accesskey    "ס">
 <!ENTITY  locbar.openpage.label         "לשוניות פתוחות">
 <!ENTITY  locbar.openpage.accesskey     "ל">
+
 
 <!ENTITY  acceptCookies.label           "קבלת עוגיות מאתרים">
 <!ENTITY  acceptCookies.accesskey       "ק">

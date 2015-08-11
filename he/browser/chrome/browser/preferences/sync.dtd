@@ -16,7 +16,6 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "ניהול חשבון">
 <!ENTITY manageAccount.accesskey      "נ">
-<!ENTITY viewQuota.label              "הצג מכסה">
 <!ENTITY changePassword2.label        "שינוי ססמה…">
 <!ENTITY myRecoveryKey.label          "מפתח השחזור שלי">
 <!ENTITY resetSync2.label             "איפוס Sync…">
@@ -26,8 +25,6 @@
 <!ENTITY syncMy.label               "סנכרן">
 <!ENTITY engine.bookmarks.label     "סימניות">
 <!ENTITY engine.bookmarks.accesskey "ס">
-<!ENTITY engine.readinglist.label   "רשימת קריאה">
-<!ENTITY engine.readinglist.accesskey "ק">
 <!ENTITY engine.tabs.label          "לשוניות">
 <!ENTITY engine.tabs.accesskey      "ל">
 <!ENTITY engine.history.label       "היסטוריה">
@@ -80,3 +77,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY welcome.createAccount.label "יצירת חשבון">
 
 <!ENTITY welcome.useOldSync.label "משתמשים בגרסה ישנה יותר של Sync?">
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->

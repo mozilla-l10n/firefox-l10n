@@ -7,4 +7,3 @@
 <!ENTITY aboutAccountsConfig.description "עליכם להתחבר כדי לסנכרן את הלשוניות, הססמאות ושאר ההגדרות שלכם.">
 <!ENTITY aboutAccountsConfig.startButton.label "בואו ונתחיל">
 <!ENTITY aboutAccountsConfig.useOldSync.label "משתמשים בגרסה קודמת של Sync?">
-<!ENTITY aboutAccountsConfig.manage.label "ניהול">
