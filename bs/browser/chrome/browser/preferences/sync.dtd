@@ -16,7 +16,6 @@
 
 <!ENTITY manageAccount.label          "Upravljanje računom">
 <!ENTITY manageAccount.accesskey      "a">
-<!ENTITY viewQuota.label              "Prikaži ograničenje">
 <!ENTITY changePassword2.label        "Promijeni lozinku…">
 <!ENTITY myRecoveryKey.label          "Moj Recovery ključ">
 <!ENTITY resetSync2.label             "Resetuj Sync…">
@@ -26,8 +25,6 @@
 <!ENTITY syncMy.label               "Sinhronizuj moje">
 <!ENTITY engine.bookmarks.label     "Zabilješke">
 <!ENTITY engine.bookmarks.accesskey "Z">
-<!ENTITY engine.readinglist.label   "Lista za čitanje">
-<!ENTITY engine.readinglist.accesskey "L">
 <!ENTITY engine.tabs.label          "Tabove">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Historiju">
@@ -74,13 +71,24 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Niste prijavljeni.">
 <!ENTITY signIn.label                "Prijava">
+
 <!ENTITY manage.label                "Upravljanje">
 <!ENTITY disconnect.label            "Prekini vezu...">
 <!ENTITY verify.label                "Potvrdi email">
 <!ENTITY forget.label                "Zaboravi ovu email adresu">
 
 <!ENTITY welcome.description "Pristupite svojim tabovima, lozinkama i ostalim stvarima gdje god koristili &brandShortName;.">
-<!ENTITY welcome.signIn.label "Prijava">
-<!ENTITY welcome.createAccount.label "Kreiraj račun">
+
+
 
 <!ENTITY welcome.useOldSync.label "Koristite stariju verziju Synca?">
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+
+

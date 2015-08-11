@@ -9,6 +9,8 @@
 <!ENTITY provideSearchSuggestions.label        "Pružaj prijedloge za pretraživanje">
 <!ENTITY provideSearchSuggestions.accesskey    "p">
 
+
+
 <!ENTITY redirectWindowsSearch.label "Koristi ovaj pretraživač za pretrage iz Windowsa">
 <!ENTITY redirectWindowsSearch.accesskey "W">
 
