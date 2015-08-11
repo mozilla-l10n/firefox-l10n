@@ -2,18 +2,45 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.title            "مرورگر شما در حالت ناشناس است">
-<!ENTITY aboutPrivateBrowsing.title.normal     "پنجره‌ی مرورگر ناشناس باز شود؟">
-
-<!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; هیچگونه تاریخچه‌ای را از این پنجره به خاطر نمی‌سپارد.">
-<!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName; هیچگونه تاریخچه‌ای را از پنجره‌های ناشناس به خاطر نمی‌سپارد.">
-
-<!ENTITY aboutPrivateBrowsing.description      "این شامل تاریخچه مرورگر، تاریخچه جست‌وجو، تاریخچه دانلودها، تاریخچه فرمهای وب، کوکی‌ها و فایل‌های موقتی اینترنت است. با این حال، فایل‌هایی را که دانلود می‌کنید و نشانک‌هایی را که می‌سازید برایتان نگه می‌دارد.">
-
 <!ENTITY aboutPrivateBrowsing.notPrivate       "شما در حال حاضر در پنجره‌ی ناشناس قرار ندارید.">
-
-<!ENTITY aboutPrivateBrowsing.moreInfo         "با آن که تاریخچه‌ای از مرور شما در این رایانه ثبت نخواهد شد، اما سرویس‌دهنده‌ی اینترنت یا کارفرمای شما هنوز می‌توانند صفحات وبی را که بازدید می‌کنید ردگیری کنند.">
-<!ENTITY aboutPrivateBrowsing.learnMore        "بیشتر بدانید.">
-
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "یک پنجره‌ی ناشناس باز کن">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "پ">
+
+<!ENTITY privateBrowsing.title                 "مرور خصوصی">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
+     Width of the Private Browsing section.
+     -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
+     aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
+     These strings will be replaced by aboutPrivateBrowsing.forgotten and
+     aboutPrivateBrowsing.kept when the new visual design lands (bug 1192625).
+     -->
+
+<!ENTITY aboutPrivateBrowsing.title            "مرورگر شما در حالت ناشناس است">
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.history     "تاریخچه">
+
+<!ENTITY aboutPrivateBrowsing.info.cookies     "کوکی‌ها">
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.downloads   "بارگیری‌ها">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks   "نشانک‌ها">
+
+<!ENTITY aboutPrivateBrowsing.learnMore        "بیشتر بدانید.">
+<!-- LOCALIZATION NOTE (trackingProtection.width):
+     Width of the Tracking Protection section. This should be enough to
+     accommodate the title as well as the enabled or disabled indicator.
+     -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.state.width):
+     Width of the element representing the enabled or disabled indicator.
+     -->
+
+
+
+
+
+
