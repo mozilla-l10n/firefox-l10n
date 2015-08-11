@@ -18,6 +18,10 @@
 <!ENTITY debuggerUI.startTracing "Rozpocznij śledzenie">
 <!ENTITY debuggerUI.clearButton "Wyczyść">
 <!ENTITY debuggerUI.clearButton.tooltip "Wyczyści zebrane ślady">
+<!ENTITY debuggerUI.pauseExceptions "Zatrzymuj na wyjątkach">
+<!ENTITY debuggerUI.pauseExceptions.accesskey "Z">
+<!ENTITY debuggerUI.ignoreCaughtExceptions "Ignoruj wyłapane wyjątki">
+<!ENTITY debuggerUI.ignoreCaughtExceptions.accesskey "I">
 <!ENTITY debuggerUI.showPanesOnInit "Wyświetlaj panele po uruchomieniu">
 <!ENTITY debuggerUI.showPanesOnInit.accesskey "W">
 <!ENTITY debuggerUI.showVarsFilter "Wyświetlaj pole filtrowania zmiennych">
