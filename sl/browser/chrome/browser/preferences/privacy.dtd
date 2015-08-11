@@ -4,12 +4,8 @@
 
 <!ENTITY tracking.label                 "Sledenje">
 
-<!ENTITY dntTrackingNotOkay.label2      "Stranem sporoči, naj mi ne sledijo">
-<!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY trackingProtection.label       "Prepreči stranem, da mi sledijo">
-<!ENTITY trackingProtection.accesskey   "m">
+<!ENTITY doNotTrackInfo.label          "Več o tem">
 <!ENTITY trackingProtectionLearnMore.label "Več o tem">
-<!ENTITY doNotTrackInfo.label           "Več o tem">
 
 <!ENTITY  history.label                 "Zgodovina">
 
@@ -24,6 +20,7 @@
 <!ENTITY  locbar.openpage.accesskey     "O">
 <!ENTITY  locbar.searches.label         "Povezana iskanja privzetega iskalnika">
 <!ENTITY  locbar.searches.accesskey     "P">
+
 
 <!ENTITY  acceptCookies.label           "Dovoli stranem, da ustvarijo piškotke.">
 <!ENTITY  acceptCookies.accesskey       "v">
