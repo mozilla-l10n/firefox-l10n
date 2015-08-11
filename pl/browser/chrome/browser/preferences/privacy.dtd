@@ -24,6 +24,9 @@
 <!ENTITY locbar.searches.label "podpowiedziach wyszukiwania">
 <!ENTITY locbar.searches.accesskey "d">
 
+<!ENTITY suggestionSettings.label "Zmień ustawienia podpowiedzi dostarczanych przez wyszukiwarki…">
+<!ENTITY suggestionSettings.accesskey "e">
+
 <!ENTITY history.label "Historia">
 
 <!ENTITY  acceptCookies.label           "Akceptuj ciasteczka">
