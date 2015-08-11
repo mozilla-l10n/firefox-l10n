@@ -43,3 +43,4 @@
 <!ENTITY done.title                     "Importowanie zakończone">
 <!ENTITY done.label                     "Poniższe elementy zostały zaimportowane:">
 
+<!ENTITY closeSourceBrowser.label "Przed przejściem dalej, oroszę upewnić się, że wybrana przeglądarka jest wyłączona.">
