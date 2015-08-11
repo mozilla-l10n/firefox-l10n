@@ -192,15 +192,13 @@
 <!ENTITY pref_cookies_disabled "Onemogočeno">
 
 <!ENTITY pref_tracking_protection_title "Zaščita pred sledenjem">
-<!ENTITY pref_tracking_protection_summary "&brandShortName; bo stranem preprečil, da bi vam sledile">
 <!ENTITY pref_donottrack_title "Sledenje">
 <!ENTITY pref_donottrack_summary "&brandShortName; bo stranem sporočal, naj vam ne sledijo">
+
 
 <!ENTITY tab_queue_toast_message3 "Zavihek shranjen v &brandShortName;">
 <!ENTITY tab_queue_toast_action "Odpri zdaj">
 <!ENTITY tab_queue_prompt_title "Odpirate več povezav?">
-<!ENTITY tab_queue_prompt_text3 "Shranite jih, dokler naslednjič odprete &brandShortName;">
-<!ENTITY tab_queue_prompt_tip_text "odločitev lahko pozneje spremenite v nastavitvah">
 <!ENTITY tab_queue_prompt_positive_action_button "Omogoči">
 <!ENTITY tab_queue_prompt_negative_action_button "Ne zdaj">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
@@ -330,7 +328,6 @@ size. -->
 <!ENTITY addons "Dodatki">
 <!ENTITY logins "Prijave">
 <!ENTITY downloads "Prenosi">
-<!ENTITY apps "Aplikacije">
 <!ENTITY char_encoding "Kodiranje znakov">
 
 <!ENTITY share "Deli">
@@ -401,6 +398,9 @@ size. -->
 <!ENTITY pref_titlebar_mode_title "Prikaži ime strani">
 <!ENTITY pref_titlebar_mode_url "Prikaži naslov strani">
 
+<!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
+     whether or not the magnifying glass is disabled. -->
+
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar2 "Celozaslonsko brskanje">
@@ -426,9 +426,8 @@ size. -->
 <!ENTITY site_settings_clear        "Počisti">
 <!ENTITY site_settings_no_settings  "Ni nastavitev za brisanje.">
 
-<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+<!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
-<!ENTITY reading_list_added2 "Dodano na seznam">
 <!ENTITY reading_list_removed "Stran odstranjena z bralnega seznama">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -545,21 +544,14 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_run_by "za katero skrbi">
-<!ENTITY identity_no_info "Spletna stran ne vsebuje podatkov o identiteti.">
-<!ENTITY identity_not_encrypted "Vaša povezava na spletno stran ni šifrirana.">
-<!ENTITY identity_encrypted "Šifrirano">
 
 <!-- Mixed content notifications in site identity popup -->
+
 <!ENTITY loaded_mixed_content_message "Ta stran prikazuje vsebino, ki ni varna.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; je zavrnil vsebino, ki ni varna.">
 <!ENTITY blocked_mixed_content_message_bottom "Večina strani bo delovala pravilno, čeprav je ta vsebina zavrnjena.">
 
 <!-- Tracking content notifications in site identity popup -->
-<!ENTITY loaded_tracking_content_message_top "Zaščita pred sledenjem onemogočena.">
-<!ENTITY loaded_tracking_content_message_bottom "Deli strani lahko sledijo vašim dejanjem na spletu.">
-<!ENTITY blocked_tracking_content_message_top2 "Zaščita pred sledenjem omogočena.">
-<!ENTITY blocked_tracking_content_message_bottom2 "Deli strani, ki sledijo vašim dejanjem na spletu, so bili zavrnjeni.">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Več o tem">
@@ -645,10 +637,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Voice search in the awesome bar -->
 <!ENTITY voicesearch_prompt "Govorite">
-<!ENTITY voicesearch_failed_title "Glasovno iskanje &brandShortName;">
-<!ENTITY voicesearch_failed_message "Glasovno iskanje trenutno ne deluje. Poskusite pozneje.">
-<!ENTITY voicesearch_failed_message_recoverable "Vaših besed nismo uspeli prepoznati. Poskusite znova.">
-<!ENTITY voicesearch_failed_retry "Poskusi znova">
 
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
@@ -666,3 +654,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY find_matchcase "Aa">
 
 <!ENTITY intent_uri_cannot_open "Ni mogoče odpreti povezave">
+
+<!-- DevTools Authentication -->
+<!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
+     above a QR reader that is actively scanning for QR codes.  The expected QR
+     code has already been displayed by the client trying to connect (such as
+     desktop Firefox via WebIDE), so you just need to aim this device at the QR
+     code. -->
+
+<!-- Restrictions -->
+<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+     a restricted profile (e.g. child). Used inside the Android settings UI. -->
+

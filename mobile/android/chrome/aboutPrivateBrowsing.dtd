@@ -3,14 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY privatebrowsingpage.title "Zasebno brskanje">
-<!ENTITY privatebrowsingpage.title.normal "Ne uporabljate zasebnega brskanja">
 
-<!ENTITY privatebrowsingpage.issueDesc.normal2 "V zasebnem brskanju ne shranjujemo zgodovine brskanja in piškotkov.">
-<!ENTITY privatebrowsingpage.issueDesc.private2 "Ne shranjujemo zgodovine brskanja in piškotkov.">
+<!-- Localisation note: the plus sign here is a shorthand way of expressing the word "and". Contextually the privatebrowsingpage.title.private string
+                        is used as a title, with the privatebrowsingpage.title string preceding it but on a separate line.
+                        So the final line will say "Private Browsing + Tracking Protection". -->
 
-<!ENTITY privatebrowsingpage.description2 "Dodatni zaznamki in prenesene datoteke bodo še vedno shranjene na vaši napravi.">
-<!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
-<!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
 
 <!ENTITY privatebrowsingpage.link.private "Želite izvedeti več?">
 <!ENTITY privatebrowsingpage.link.normal "Odpri nov zaseben zavihek">
