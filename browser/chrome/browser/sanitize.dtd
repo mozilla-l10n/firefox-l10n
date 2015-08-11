@@ -52,8 +52,6 @@ that require it.  -->
 <!ENTITY itemHistoryAndDownloads.accesskey "ה">
 <!ENTITY itemFormSearchHistory.label       "היסטורית טפסים וחיפוש">
 <!ENTITY itemFormSearchHistory.accesskey   "ט">
-<!ENTITY itemPasswords.label               "ססמאות שמורות">
-<!ENTITY itemPasswords.accesskey           "ס">
 <!ENTITY itemCookies.label                 "עוגיות">
 <!ENTITY itemCookies.accesskey             "ע">
 <!ENTITY itemCache.label                   "מטמון">

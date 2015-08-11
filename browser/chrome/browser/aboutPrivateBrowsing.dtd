@@ -2,18 +2,34 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.title            "מצב גלישה פרטית מופעל!">
-<!ENTITY aboutPrivateBrowsing.title.normal     "האם לפתוח חלון גלישה פרטית?">
-
-<!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; לא יזכור היסטוריה כלשהי בחלון זה.">
-<!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName; לא יזכור היסטוריה כלשהי בחלונות פרטיים.">
-
-<!ENTITY aboutPrivateBrowsing.description      "היסטורית הגלישה, החיפושים, ההורדות וטפסים, עוגיות וקבצים זמניים. למרות זאת, קבצים שהורדו וסימניות שנוצרו ישמרו.">
-
 <!ENTITY aboutPrivateBrowsing.notPrivate       "אינך כעת בחלון גלישה פרטית.">
-
-<!ENTITY aboutPrivateBrowsing.moreInfo         "למרות שמחשב זה לא יכיל רישומים של היסטורית הגלישה שלך, המעסיק או ספק שירותי הגישה לרשת יכולים עדיין לנהל מעקב אחר הדפים שניצפו.">
-<!ENTITY aboutPrivateBrowsing.learnMore        "מידע נוסף.">
-
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "פתיחת חלון פרטי">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "פ">
+
+
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
+     Width of the Private Browsing section.
+     -->
+
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
+     aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
+     These strings will be replaced by aboutPrivateBrowsing.forgotten and
+     aboutPrivateBrowsing.kept when the new visual design lands (bug 1192625).
+     -->
+<!ENTITY aboutPrivateBrowsing.title            "מצב גלישה פרטית מופעל!">
+<!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; לא יזכור היסטוריה כלשהי בחלון זה.">
+
+
+
+<!ENTITY aboutPrivateBrowsing.learnMore        "מידע נוסף.">
+
+<!-- LOCALIZATION NOTE (trackingProtection.width):
+     Width of the Tracking Protection section. This should be enough to
+     accommodate the title as well as the enabled or disabled indicator.
+     -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.state.width):
+     Width of the element representing the enabled or disabled indicator.
+     -->
+
+

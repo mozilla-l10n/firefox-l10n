@@ -144,11 +144,6 @@
 <!ENTITY options.stylesheetAutocompletion.label      "השלמה אוטומטית של CSS">
 <!ENTITY options.stylesheetAutocompletion.tooltip    "השלמה אוטומטית של מאפייני CSS, ערכים ובוררים בעורך הסגנון תוך כדי הקלדה">
 
-<!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
-  -  heading of the group of JavaScript Profiler preferences in the options
-  -  panel. -->
-<!ENTITY options.profiler.label            "מאבחן JavaScript">
-
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->
