@@ -13,13 +13,13 @@
 <!ENTITY debuggerUI.autoPrettyPrint     "Embellecer automáticamente fuentes miniaturizadas">
 <!ENTITY debuggerUI.autoPrettyPrint.accesskey "P">
 <!ENTITY debuggerUI.sources.toggleBreakpoints "Activar/desactivar puntos de quiebre">
+<!ENTITY debuggerUI.sources.togglePromiseDebugger "Activar/desactivar depurador de promesas">
 <!ENTITY debuggerUI.startTracing "Iniciar seguimiento">
 <!ENTITY debuggerUI.clearButton "Limpiar">
 <!ENTITY debuggerUI.clearButton.tooltip "Limpiar los seguimientos recolectados">
-
-<!ENTITY debuggerUI.pauseExceptions "Pausar en excepciones">
+<!ENTITY debuggerUI.pauseExceptions           "Pausar en excepciones">
 <!ENTITY debuggerUI.pauseExceptions.accesskey "E">
-<!ENTITY debuggerUI.ignoreCaughtExceptions     "Ignorar excepciones atrapadas">
+<!ENTITY debuggerUI.ignoreCaughtExceptions           "Ignorar excepciones agarradas">
 <!ENTITY debuggerUI.ignoreCaughtExceptions.accesskey "C">
 <!ENTITY debuggerUI.showPanesOnInit "Mostrar paneles al iniciar">
 <!ENTITY debuggerUI.showPanesOnInit.accesskey "S">
