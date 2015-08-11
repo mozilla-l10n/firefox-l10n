@@ -15,8 +15,6 @@
 
 <!ENTITY engine.bookmarks.label           "Marcapaginas">
 <!ENTITY engine.bookmarks.accesskey       "M">
-
-
 <!ENTITY engine.history.label             "Istoric">
 <!ENTITY engine.history.accesskey         "r">
 <!ENTITY engine.tabs.label                "Onglets">

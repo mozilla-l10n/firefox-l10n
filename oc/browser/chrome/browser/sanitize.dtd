@@ -52,8 +52,6 @@ that require it.  -->
 <!ENTITY itemHistoryAndDownloads.accesskey "I">
 <!ENTITY itemFormSearchHistory.label       "Istoric dels formularis e de las recèrcas">
 <!ENTITY itemFormSearchHistory.accesskey   "f">
-<!ENTITY itemPasswords.label               "Senhals enregistrats">
-<!ENTITY itemPasswords.accesskey           "h">
 <!ENTITY itemCookies.label                 "Cookies">
 <!ENTITY itemCookies.accesskey             "C">
 <!ENTITY itemCache.label                   "Escondedor">

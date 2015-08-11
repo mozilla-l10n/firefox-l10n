@@ -2,17 +2,45 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.title            "Sètz a navigar d'un biais privat">
-<!ENTITY aboutPrivateBrowsing.title.normal     "Dobrir una fenèstra de navigacion privada ?">
-
-<!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; memorizarà pas pus l'istoric d'aqueste sesilha.">
-<!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName; memorizarà pas pus l'istoric d'aqueste sesilha.">
-
-
 <!ENTITY aboutPrivateBrowsing.notPrivate       "Pel moment, sètz pas dins una fenèstra de navigacion privada.">
-
-<!ENTITY aboutPrivateBrowsing.moreInfo         "Pendent que vòstre ordenador garda pas de traça de vòstre istoric de navigacion, vòstre FAI o emplegaire pòt contunhar a seguir las paginas que visitatz.">
-<!ENTITY aboutPrivateBrowsing.learnMore        "Ne saber mai.">
-
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Dobrir una fenèstra de navigacion privada">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
+
+<!ENTITY privateBrowsing.title                 "Navigacion privada">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
+     Width of the Private Browsing section.
+     -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
+     aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
+     These strings will be replaced by aboutPrivateBrowsing.forgotten and
+     aboutPrivateBrowsing.kept when the new visual design lands (bug 1192625).
+     -->
+
+<!ENTITY aboutPrivateBrowsing.title            "Sètz a navigar d'un biais privat">
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.history     "Istoric">
+
+<!ENTITY aboutPrivateBrowsing.info.cookies     "Cookies">
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.downloads   "Telecargaments">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks   "Marcapaginas">
+
+<!ENTITY aboutPrivateBrowsing.learnMore        "Ne saber mai.">
+<!-- LOCALIZATION NOTE (trackingProtection.width):
+     Width of the Tracking Protection section. This should be enough to
+     accommodate the title as well as the enabled or disabled indicator.
+     -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.state.width):
+     Width of the element representing the enabled or disabled indicator.
+     -->
+
+
+
+
+
+

@@ -154,11 +154,6 @@
 
 <!ENTITY options.stylesheetAutocompletion.label      "Completar automaticament lo CSS">
 <!ENTITY options.stylesheetAutocompletion.tooltip    "Completar automaticament las proprietats, valors e selectors CSS dins l'editor d'estil al moment de la picada">
-<!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
-  -  heading of the group of JavaScript Profiler preferences in the options
-  -  panel. -->
-
-<!ENTITY options.profiler.label            "Perfilador JavaScript">
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->

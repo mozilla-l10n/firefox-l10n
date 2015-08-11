@@ -16,7 +16,6 @@
 
 <!ENTITY manageAccount.label          "Gestion del compte">
 <!ENTITY manageAccount.accesskey      "c">
-<!ENTITY viewQuota.label              "Afichar lo quota">
 <!ENTITY changePassword2.label        "Modificar lo senhal...">
 <!ENTITY myRecoveryKey.label          "Ma clau de recuperacion">
 <!ENTITY resetSync2.label             "Reïnicializar la sincronizacion…">
@@ -26,8 +25,6 @@
 <!ENTITY syncMy.label               "Sincronizar">
 <!ENTITY engine.bookmarks.label     "Marcapaginas">
 <!ENTITY engine.bookmarks.accesskey "M">
-
-
 <!ENTITY engine.tabs.label          "Onglets">
 <!ENTITY engine.tabs.accesskey      "O">
 <!ENTITY engine.history.label       "Istoric">
@@ -74,13 +71,24 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Sètz pas connectat.">
 <!ENTITY signIn.label                "Connexion">
+
 <!ENTITY manage.label                "Gerir">
 <!ENTITY disconnect.label            "Desconnectar...">
 <!ENTITY verify.label                "Verificar l'adreça electronica">
 <!ENTITY forget.label                "Doblidar aquesta adreça electronica">
 
 <!ENTITY welcome.description "Accedissètz a vòstres onglets, marcapaginas, senhals e plan mai encara, qual que siá l'aparelh sul qual utilizatz &brandShortName;.">
-<!ENTITY welcome.signIn.label "Connexion">
-<!ENTITY welcome.createAccount.label "Crear un compte">
+
+
 
 <!ENTITY welcome.useOldSync.label "Utilizatz una anciana version de Sync ?">
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+
+
