@@ -366,6 +366,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey "d" >
 <!ENTITY urlbar.switchToTab.label     "Przełącz na kartę:">
 
+<!ENTITY urlbar.searchSuggestionsNotification.question "Czy wyświetlać w podpowiedziach paska adresu podpowiedzi dostarczane przez wyszukiwarki?">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Więcej informacji…">
+<!ENTITY urlbar.searchSuggestionsNotification.disable "Nie">
+<!ENTITY urlbar.searchSuggestionsNotification.enable "Tak">
+
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
