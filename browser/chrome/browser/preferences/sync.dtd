@@ -16,7 +16,6 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Upravljanje računa">
 <!ENTITY manageAccount.accesskey      "a">
-<!ENTITY viewQuota.label              "Prikaži omejitve">
 <!ENTITY changePassword2.label        "Spremeni geslo …">
 <!ENTITY myRecoveryKey.label          "Moj obnovitveni ključ">
 <!ENTITY resetSync2.label             "Ponastavi Sync …">
@@ -26,8 +25,6 @@
 <!ENTITY syncMy.label               "Sinhroniziraj">
 <!ENTITY engine.bookmarks.label     "Zaznamke">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.readinglist.label   "Bralni seznam">
-<!ENTITY engine.readinglist.accesskey "L">
 <!ENTITY engine.tabs.label          "Zavihke">
 <!ENTITY engine.tabs.accesskey      "Z">
 <!ENTITY engine.history.label       "Zgodovino">
@@ -84,3 +81,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY welcome.createAccount.label "Ustvari račun">
 
 <!ENTITY welcome.useOldSync.label "Uporabljate starejšo različico Synca?">
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
