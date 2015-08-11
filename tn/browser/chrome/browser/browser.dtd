@@ -110,6 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "D">
 
 <!ENTITY fxaSignIn.label "Tsena tirong mo &syncBrand.shortName.label;">
+
 <!ENTITY fxaSignInError.label "Golaganya-gape le &syncBrand.shortName.label;">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; kgontshitswe">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; go tla simolodisiwa thulaganyo ka tsamaisano mo motsotsong.">
@@ -126,8 +127,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "Tswaa Mokgwa wa Sekerini se se tletseng">
 <!ENTITY fullScreenExit.accesskey "M">
-<!ENTITY fullscreenAllowButton.label "Letlelela">
-<!ENTITY fullscreenExitButton.label "Latola">
 
 <!ENTITY fullscreenExitHint2.value "Tobetsa ESC nako nngwe le nngwe go tswa.">
 <!ENTITY leaveDOMFullScreen.label "Tswaya mo Sekerini se se tletseng">
@@ -395,6 +394,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.placeholder2          "Batla kgotsa tsenya aterese">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Fetolela ko thebeng:">
+
+
+<!ENTITY urlbar.searchSuggestionsNotification.disable "Nnyaa">
+<!ENTITY urlbar.searchSuggestionsNotification.enable "Ee">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -419,6 +422,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
+<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
+     These are set as the aria-label attribute for the search input box and
+     submit button in the in-content search UI, to be used by screen readers. -->
+
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -634,6 +641,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "T">
 
+
 <!ENTITY pageStyleMenu.label "Setaele sa Tsebe">
 <!ENTITY pageStyleMenu.accesskey "t">
 <!ENTITY pageStyleNoStyle.label "Ga gona Setaele">
@@ -672,12 +680,31 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "Feditse">
 <!ENTITY editBookmark.cancel.label                   "Khansela">
-<!ENTITY editBookmark.removeBookmark.accessKey       "R">
+
 
 <!ENTITY identity.connectionSecure "Kgolagano e Sireletsegileng">
 <!ENTITY identity.connectionNotSecure "Kgolagano e ga e a Sireletsega">
+
 <!ENTITY identity.connectionVerified "&brandShortName; go tlhomamisitswe gore golaganye mo go sireletsegileng mo saeteng e, e laolwa ke:">
 <!ENTITY identity.connectionInternal "Ke e sireletsegileng &brandShortName; tsebe.">
+<!-- Strings for connection state warnings. -->
+
+
+
+<!-- Strings for connection state warnings in the subview. -->
+
+
+
+
+
+
+
+
+
+
+<!ENTITY identity.disableMixedContentBlocking.label "Thibela go dira ga tshireletso ga jaana">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "T">
+
 
 <!ENTITY identity.moreInfoLinkText2 "Tshedimosetso e Tletseng">
 
@@ -754,27 +781,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "S">
 <!ENTITY getUserMedia.selectMicrophone.label "Sekapamodumo se se ka abelanwang:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "S">
+
 <!ENTITY getUserMedia.allWindowsShared.message "Windows tse di bonagalang tsotlhe mo sekerini sa gago di tla abelanwa.">
-<!-- Bad Content Blocker Doorhanger Notification -->
 
-<!ENTITY badContentBlocked.moreinfo "Bontsi ja di webosaete di tla bereka sentle le fa diteng di thibetswe.">
 
-<!ENTITY mixedContentBlocked2.message "Diteng e sa sireletsegang">
-<!ENTITY mixedContentBlocked2.moreinfo "Ditlhakakaelo dingwe tse di sa sirelediwang mo webosaeteng e di thibetswe.">
-<!ENTITY mixedContentBlocked2.learnMore "Ithute Thata">
-<!ENTITY mixedContentBlocked2.options "Ditlhophelwa">
-<!ENTITY mixedContentBlocked2.unblock.label "Thibela go dira ga tshireletso ga jaana">
-<!ENTITY mixedContentBlocked2.unblock.accesskey "T">
-<!ENTITY mixedContentBlocked2.block.label "Kgontsha tshireletso">
-<!ENTITY mixedContentBlocked2.block.accesskey "K">
-<!ENTITY mixedContentBlocked2.disabled.message "Tshireletso ga e dire">
+
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+
+
+
 
 <!ENTITY trackingContentBlocked.message "Tatediso">
 <!ENTITY trackingContentBlocked.moreinfo "Mefama ya tsebe e latedisang tiro ya gago mo kgolaganong ka mafaratlhatlha e thibetswe.">
 <!ENTITY trackingContentBlocked.learnMore "Ithute Thata">
-<!ENTITY trackingContentBlocked.options "Ditlhophelwa">
-<!ENTITY trackingContentBlocked.unblock2.label "Thibela go dira ga tshireletso ya saete e">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "T">
+
+
+
 <!ENTITY trackingContentBlocked.block.label "Kgontsha tshireletso">
 <!ENTITY trackingContentBlocked.block.accesskey "K">
 <!ENTITY trackingContentBlocked.disabled.message "Tshireletso ya tatediso ga e dire">
@@ -840,18 +869,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeNotificationsNotNow.accesskey         "E">
 <!ENTITY emeNotificationsDontAskAgain.label       "O seka wa mpotsa gape">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "O">
-
-<!ENTITY readingList.label                        "Lenaane Puiso">
-<!ENTITY readingList.sidebar.commandKey           "R">
-<!ENTITY readingList.showSidebar.label            "Bontsha Dibarathoko tsa Lenaane Puiso">
-<!-- Pre-landed string for bug 1124153 -->
-<!ENTITY readingList.sidebar.showMore.label       "Bontsha go le gontsi...">
-<!-- Pre-landed string for bug 1133662 -->
-<!ENTITY readingList.sidebar.emptyText            "Tsenya diathikele mo Lenaane Puiso la gago go di bolokela nako e tlang le go di bona motlhofo fa o di tlhoka.">
-<!ENTITY readingList.sidebar.delete.tooltip       "Tlosa se mo Lenaane Puiso la gago">
-<!-- Pre-landed strings for bug 1123519 -->
-<!ENTITY readingList.sidebar.add.label            "Tsenya mo Lenaane Puiso">
-<!ENTITY readingList.sidebar.add.tooltip          "Tsenya tsebe e mo Lenaane Puiso la gago">
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 
 <!ENTITY saveToPocketCmd.label     "Boloka Tsebe mo Mokgwatirisotaolo-palomorago">
