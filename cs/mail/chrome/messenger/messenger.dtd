@@ -450,7 +450,7 @@
 <!ENTITY addressBookCmd.label "Adresář">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY addons.label "Správce doplňků">
+<!ENTITY addons.label "Doplňky">
 <!ENTITY addons.accesskey "D">
 <!ENTITY activitymanager.label "Správce aktivit">
 <!ENTITY activitymanager.accesskey "k">
