@@ -30,6 +30,8 @@
 <!ENTITY toolboxFramesTooltip          "iframe को बतौर लक्षित दस्तावेज़ के रूप में चुनें">
 <!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
   -  shown next to error details when the Browser Toolbox is unable to open. -->
+
+<!ENTITY browserToolboxErrorMessage          "ब्राउज़र टूलबॉक्स खोलने में त्रुटि:">
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 
@@ -161,11 +163,6 @@
 
 <!ENTITY options.stylesheetAutocompletion.label      "स्वतःपूर्ण CSS">
 <!ENTITY options.stylesheetAutocompletion.tooltip    "स्वतःपूर्ण CSS विशेषता, मान और शैली संपादक में चयनक आपके टाइप करने के दौरान">
-<!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
-  -  heading of the group of JavaScript Profiler preferences in the options
-  -  panel. -->
-
-<!ENTITY options.profiler.label            "जावास्क्रिप्ट प्रोफाइलर">
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->

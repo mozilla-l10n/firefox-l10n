@@ -4,12 +4,14 @@
 
 <!ENTITY tracking.label                 "ट्रैकिंग">
 
-<!ENTITY dntTrackingNotOkay.label2      "वेबसाइटों को बताएं कि मैं नहीं चाहता कि मुझे ट्रैक किया जाए">
-<!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY trackingProtection.label       "मुझे ट्रैक करने के लिए साइट को रोकें">
-<!ENTITY trackingProtection.accesskey   "m">
-<!ENTITY trackingProtectionLearnMore.label "अधिक जानें">
-<!ENTITY doNotTrackInfo.label           "और जानें">
+
+<!ENTITY doNotTrackInfo.label          "और जानें">
+
+
+
+
+
+
 
 <!ENTITY  history.label                 "इतिहास">
 
@@ -24,6 +26,8 @@
 <!ENTITY  locbar.openpage.accesskey     "O">
 <!ENTITY  locbar.searches.label         "डिफ़ॉल्ट खोज इंजिन से Related खोजें">
 <!ENTITY  locbar.searches.accesskey     "d">
+
+
 
 <!ENTITY  acceptCookies.label           "साइटों से कुकीज़ स्वीकारें">
 <!ENTITY  acceptCookies.accesskey       "A">
