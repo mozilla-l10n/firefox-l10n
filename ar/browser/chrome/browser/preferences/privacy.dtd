@@ -4,12 +4,14 @@
 
 <!ENTITY tracking.label                 "التعقب">
 
-<!ENTITY dntTrackingNotOkay.label2      "أخبر المواقع أنني لا أريدها أن تتعقبني">
-<!ENTITY dntTrackingNotOkay.accesskey   "ه">
-<!ENTITY trackingProtection.label       "امنع المواقع من تتبعي">
-<!ENTITY trackingProtection.accesskey   "ت">
-<!ENTITY trackingProtectionLearnMore.label "اطّلع على المزيد">
-<!ENTITY doNotTrackInfo.label           "اطّلع على المزيد">
+
+<!ENTITY doNotTrackInfo.label          "اطّلع على المزيد">
+
+
+
+
+
+
 
 <!ENTITY  history.label                 "التأريخ">
 
@@ -24,6 +26,8 @@
 <!ENTITY  locbar.openpage.accesskey     "ف">
 <!ENTITY  locbar.searches.label         "البحوث المشابهة من محرك البحث المبدئي">
 <!ENTITY  locbar.searches.accesskey     "م">
+
+
 
 <!ENTITY  acceptCookies.label           "اقبل الكعكات من المواقع">
 <!ENTITY  acceptCookies.accesskey       "ق">
