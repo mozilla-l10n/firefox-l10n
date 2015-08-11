@@ -2,18 +2,45 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.title            "Rydych yn pori'n breifat">
-<!ENTITY aboutPrivateBrowsing.title.normal     "Agor ffenestr breifat?">
-
-<!ENTITY aboutPrivateBrowsing.subtitle         "Ni fydd &brandShortName; yn cofio unrhyw hanes o'r ffenestr hon.">
-<!ENTITY aboutPrivateBrowsing.subtitle.normal  "Ni fydd &brandShortName; yn cofio unrhyw hanes o ffenestr breifat.">
-
-<!ENTITY aboutPrivateBrowsing.description      "Mae hyn yn cynnwys hanes pori, hanes chwilio, hanes llwytho i lawr, hanes ffurflenni gwe, cwcis neu ffeiliau gwe dros dro. Er hynny, bydd ffeiliau sydd wedi eu llwytho i lawr a nodau tudalen yn cael eu cadw.">
-
 <!ENTITY aboutPrivateBrowsing.notPrivate       "Nid ydych mewn ffenestr breifat ar hyn o bryd.">
-
-<!ENTITY aboutPrivateBrowsing.moreInfo         "Tra na fydd gan y cyfrifiadur hwn gofnod o'ch hanes pori, bydd eich cyflogwr neu'ch darparwr gwasanaeth rhyngrwyd yn gallu tracio'r tudalennau fuoch iddynt.">
-<!ENTITY aboutPrivateBrowsing.learnMore        "Dysgu Rhagor.">
-
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Agor Ffenestr Breifat">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "F">
+
+<!ENTITY privateBrowsing.title                 "Pori Preifat">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
+     Width of the Private Browsing section.
+     -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
+     aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
+     These strings will be replaced by aboutPrivateBrowsing.forgotten and
+     aboutPrivateBrowsing.kept when the new visual design lands (bug 1192625).
+     -->
+
+<!ENTITY aboutPrivateBrowsing.title            "Rydych yn pori'n breifat">
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.history     "Hanes">
+
+<!ENTITY aboutPrivateBrowsing.info.cookies     "Cwcis">
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.downloads   "Llwythi">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks   "Nodau Tudalen">
+
+<!ENTITY aboutPrivateBrowsing.learnMore        "Dysgu Rhagor.">
+<!-- LOCALIZATION NOTE (trackingProtection.width):
+     Width of the Tracking Protection section. This should be enough to
+     accommodate the title as well as the enabled or disabled indicator.
+     -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.state.width):
+     Width of the element representing the enabled or disabled indicator.
+     -->
+
+
+
+
+
+

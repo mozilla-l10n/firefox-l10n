@@ -4,12 +4,14 @@
 
 <!ENTITY tracking.label                 "Tracio">
 
-<!ENTITY dntTrackingNotOkay.label2      "Dweud wrth wefannau: Dim tracio">
-<!ENTITY dntTrackingNotOkay.accesskey   "D">
-<!ENTITY trackingProtection.label       "Rhwystro gwefannau rhag fy nrhacio">
-<!ENTITY trackingProtection.accesskey   "R">
-<!ENTITY trackingProtectionLearnMore.label "Dysgu rhagor">
-<!ENTITY doNotTrackInfo.label           "Dysgu Rhagor">
+
+<!ENTITY doNotTrackInfo.label          "Dysgu Rhagor">
+
+
+
+
+
+
 
 <!ENTITY  history.label                 "Hanes">
 
@@ -24,6 +26,8 @@
 <!ENTITY  locbar.openpage.accesskey     "A">
 <!ENTITY  locbar.searches.label         "Chwiliadau perthnasol o'r peiriant chwilio rhagosodedig">
 <!ENTITY  locbar.searches.accesskey     "h">
+
+
 
 <!ENTITY  acceptCookies.label           "Derbyn cwcis o wefannau">
 <!ENTITY  acceptCookies.accesskey       "w">

@@ -110,6 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "a">
 
 <!ENTITY fxaSignIn.label "Mewngofnodi i &syncBrand.shortName.label;">
+
 <!ENTITY fxaSignInError.label "Ail gysylltu i &syncBrand.shortName.label;">
 <!ENTITY syncStartPanel2.heading "Galluogwyd &syncBrand.shortName.label;">
 <!ENTITY syncStartPanel2.subTitle "Bydd &brandShortName; yn cychwyn cydweddu ymhen ychydig.">
@@ -126,8 +127,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "u">
 <!ENTITY fullScreenExit.label "Gadael Modd Sgrin Lawn">
 <!ENTITY fullScreenExit.accesskey "L">
-<!ENTITY fullscreenAllowButton.label "Caniatáu">
-<!ENTITY fullscreenExitButton.label "Gwrthod">
 
 <!ENTITY fullscreenExitHint2.value "Pwyswch ESC ar unrhyw adeg i adael.">
 <!ENTITY leaveDOMFullScreen.label "Gadael Sgrin Lawn">
@@ -395,6 +394,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.placeholder2          "Chwilio neu gyfeiriad gwe">
 <!ENTITY urlbar.accesskey             "g">
 <!ENTITY urlbar.switchToTab.label     "Newid i dab:">
+
+
+<!ENTITY urlbar.searchSuggestionsNotification.disable "Na">
+
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -419,6 +422,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "w">
 <!ENTITY searchFocusUnix.commandkey   "j">
+<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
+     These are set as the aria-label attribute for the search input box and
+     submit button in the in-content search UI, to be used by screen readers. -->
+
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -634,6 +641,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "C">
 
+
 <!ENTITY pageStyleMenu.label "Arddull Tudalen">
 <!ENTITY pageStyleMenu.accesskey "A">
 <!ENTITY pageStyleNoStyle.label "Dim Arddull">
@@ -672,12 +680,31 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "Gorffen">
 <!ENTITY editBookmark.cancel.label                   "Diddymu">
-<!ENTITY editBookmark.removeBookmark.accessKey       "T">
+
 
 <!ENTITY identity.connectionSecure "Cysylltiad Pell">
 <!ENTITY identity.connectionNotSecure "Nid yw'r Cysylltiad yn Ddiogel">
+
 <!ENTITY identity.connectionVerified "Mae &brandShortName; wedi gwirio eich bod wedi eich cysylltu'n ddiogel â'r wefan hon, sy'n cael ei redeg gan:">
 <!ENTITY identity.connectionInternal "Mae hon yn dudalen &brandShortName; diogel.">
+<!-- Strings for connection state warnings. -->
+
+
+
+<!-- Strings for connection state warnings in the subview. -->
+
+
+
+
+
+
+
+
+
+
+<!ENTITY identity.disableMixedContentBlocking.label "Analluogi diogelu dros dro">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "A">
+
 
 <!ENTITY identity.moreInfoLinkText2 "Rhagor o Wybodaeth">
 
@@ -754,27 +781,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "Meicroffon i'w rannu:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+
 <!ENTITY getUserMedia.allWindowsShared.message "Bydd pob ffenestr gweladwy ar eich sgrin yn cael eu rhannu.">
-<!-- Bad Content Blocker Doorhanger Notification -->
 
-<!ENTITY badContentBlocked.moreinfo "Mae'r rhan fwyaf o wefannau'n parhau i weithio pan mae'r cynnwys wedi ei rwystro.">
 
-<!ENTITY mixedContentBlocked2.message "Cynnwys anniogel">
-<!ENTITY mixedContentBlocked2.moreinfo "Mae rhai elfennau anamgryptiedig ar y wefan hon wedi eu rhwystro.">
-<!ENTITY mixedContentBlocked2.learnMore "Dysgu Rhagor">
-<!ENTITY mixedContentBlocked2.options "Dewisiadau">
-<!ENTITY mixedContentBlocked2.unblock.label "Analluogi diogelu dros dro">
-<!ENTITY mixedContentBlocked2.unblock.accesskey "A">
-<!ENTITY mixedContentBlocked2.block.label "Galluogi diogelu">
-<!ENTITY mixedContentBlocked2.block.accesskey "G">
-<!ENTITY mixedContentBlocked2.disabled.message "Diogelu wedi ei anablu">
+
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+
+
+
 
 <!ENTITY trackingContentBlocked.message "Tracio">
 <!ENTITY trackingContentBlocked.moreinfo "Mae'r rhannau o'r dudalen sy'n tracio'ch gweithgaredd ar-lein wedi eu rhwystro.">
 <!ENTITY trackingContentBlocked.learnMore "Dysgu Rhagor">
-<!ENTITY trackingContentBlocked.options "Dewisiadau">
-<!ENTITY trackingContentBlocked.unblock2.label "Analluogi diogelwch y wefan hon">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "A">
+
+
+
 <!ENTITY trackingContentBlocked.block.label "Galluogi diogelu">
 <!ENTITY trackingContentBlocked.block.accesskey "G">
 <!ENTITY trackingContentBlocked.disabled.message "Mae diogelwch rhag eich tracio wedi ei analluogi">
@@ -840,18 +869,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeNotificationsNotNow.accesskey         "N">
 <!ENTITY emeNotificationsDontAskAgain.label       "Peidio gofyn eto">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "P">
-
-<!ENTITY readingList.label                        "Rhestr Ddarllen">
-<!ENTITY readingList.sidebar.commandKey           "R">
-<!ENTITY readingList.showSidebar.label            "Dangos Bar Ochr y Rhestr Ddarllen">
-<!-- Pre-landed string for bug 1124153 -->
-<!ENTITY readingList.sidebar.showMore.label       "Dangos rhagor…">
-<!-- Pre-landed string for bug 1133662 -->
-<!ENTITY readingList.sidebar.emptyText            "Ychwanegwch erthyglau i'ch Rhestr Ddarllen i'w cadw ar gyfer hwyrach ymlaen ac i'w canfod yn hawdd pan fyddwch eu hangen.">
-<!ENTITY readingList.sidebar.delete.tooltip       "Tynnu hwn o'ch Rhestr Ddarllen">
-<!-- Pre-landed strings for bug 1123519 -->
-<!ENTITY readingList.sidebar.add.label            "Ychwanegu at eich Rhestr Ddarllen">
-<!ENTITY readingList.sidebar.add.tooltip          "Ychwanegu'r dudalen i'ch Rhestr Darllen">
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 
 <!ENTITY saveToPocketCmd.label     "Cadw Tudalen i Pocket">
