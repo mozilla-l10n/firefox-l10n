@@ -59,6 +59,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Các cửa sổ đa tiến trình">
 
+
 <!ENTITY aboutSupport.showDir.label "Mở Thư mục">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred

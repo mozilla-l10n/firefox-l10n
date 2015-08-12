@@ -2,18 +2,45 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.title            "Bạn đang duyệt web ở chế độ riêng tư">
-<!ENTITY aboutPrivateBrowsing.title.normal     "Mở một cửa sổ riêng tư?">
-
-<!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; sẽ không ghi nhớ lịch sử của cửa sổ này.">
-<!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName; sẽ không ghi nhớ lịch sử của cửa sổ này.">
-
-<!ENTITY aboutPrivateBrowsing.description      "Bao gồm lịch sử duyệt web, lịch sử tìm kiếm, lịch sử tải xuống, lịch sử biểu mẫu, cookie, và các tập tin internet tạm thời. Tuy Nhiên, các tập tin mà bạn tải xuống và các trang đánh dấu của bạn sẽ được giữ lại.">
-
 <!ENTITY aboutPrivateBrowsing.notPrivate       "Bạn đang ở cửa sổ không phải riêng tư.">
-
-<!ENTITY aboutPrivateBrowsing.moreInfo         "Mặc dù máy tính này sẽ không ghi lại nhật ký duyệt web của bạn, nhà cung cấp Internet hoặc công ty của bạn vẫn có thể biết những trang mà bạn vào.">
-<!ENTITY aboutPrivateBrowsing.learnMore        "Tìm hiểu thêm.">
-
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Mở một cửa sổ riêng tư (P)">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
+
+<!ENTITY privateBrowsing.title                 "Duyệt web Riêng tư">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
+     Width of the Private Browsing section.
+     -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
+     aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
+     These strings will be replaced by aboutPrivateBrowsing.forgotten and
+     aboutPrivateBrowsing.kept when the new visual design lands (bug 1192625).
+     -->
+
+<!ENTITY aboutPrivateBrowsing.title            "Bạn đang duyệt web ở chế độ riêng tư">
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.history     "Nhật ký duyệt web">
+
+<!ENTITY aboutPrivateBrowsing.info.cookies     "Cookie">
+
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.bookmarks   "Trang đánh dấu">
+
+<!ENTITY aboutPrivateBrowsing.learnMore        "Tìm hiểu thêm.">
+<!-- LOCALIZATION NOTE (trackingProtection.width):
+     Width of the Tracking Protection section. This should be enough to
+     accommodate the title as well as the enabled or disabled indicator.
+     -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.state.width):
+     Width of the element representing the enabled or disabled indicator.
+     -->
+
+
+
+
+
+

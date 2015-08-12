@@ -16,7 +16,6 @@
 
 <!ENTITY manageAccount.label          "Quản lý Tài khoản">
 <!ENTITY manageAccount.accesskey      "Q">
-<!ENTITY viewQuota.label              "Xem Hạn Mức">
 <!ENTITY changePassword2.label        "Đổi mật khẩu...">
 <!ENTITY myRecoveryKey.label          "Key Khôi phục của tôi">
 <!ENTITY resetSync2.label             "Thiết lập lại Sync…">
@@ -26,8 +25,6 @@
 <!ENTITY syncMy.label               "Đồng Bộ">
 <!ENTITY engine.bookmarks.label     "Trang ưa thích (m)">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.readinglist.label   "Danh sách đọc">
-<!ENTITY engine.readinglist.accesskey "s">
 <!ENTITY engine.tabs.label          "Thẻ">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Lịch sử (r)">
@@ -74,13 +71,24 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Bạn chưa đăng nhập.">
 <!ENTITY signIn.label                "Đăng nhập">
+
 <!ENTITY manage.label                "Quản lý">
 <!ENTITY disconnect.label            "Ngắt kết nối…">
 <!ENTITY verify.label                "Kiểm tra email">
 <!ENTITY forget.label                "Quên email này đi">
 
 <!ENTITY welcome.description "Truy cập các tab, đánh dấu trang, mật khẩu và nhiều thứ khác bất kỳ nơi đâu bạn dùng &brandShortName;.">
-<!ENTITY welcome.signIn.label "Đăng nhập">
-<!ENTITY welcome.createAccount.label "Tạo tài khoản">
+
+
 
 <!ENTITY welcome.useOldSync.label "Bạn đang dùng bản Sync cũ?">
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+
+

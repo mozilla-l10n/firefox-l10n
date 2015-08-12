@@ -4,7 +4,8 @@
 
 <!ENTITY aboutAccounts.welcome "Chào mừng đến với &syncBrand.shortName.label;">
 
+
 <!ENTITY aboutAccountsConfig.description "Đăng nhập để đồng bộ các thẻ, trang đánh dấu, mật khẩu và các phần khác.">
 <!ENTITY aboutAccountsConfig.startButton.label "Bắt đầu">
 <!ENTITY aboutAccountsConfig.useOldSync.label "Bạn đang dùng bản Sync cũ?">
-<!ENTITY aboutAccountsConfig.manage.label "Quản lý">
+

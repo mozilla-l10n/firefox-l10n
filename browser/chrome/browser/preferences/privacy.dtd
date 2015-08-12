@@ -4,12 +4,14 @@
 
 <!ENTITY tracking.label                 "Theo dõi">
 
-<!ENTITY dntTrackingNotOkay.label2      "Nói với các trang web rằng tôi không muốn bị theo dõi">
-<!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY trackingProtection.label       "Không cho các trang web theo dõi tôi">
-<!ENTITY trackingProtection.accesskey   "K">
-<!ENTITY trackingProtectionLearnMore.label "Tìm hiểu thêm">
-<!ENTITY doNotTrackInfo.label           "Tìm hiểu Thêm">
+
+<!ENTITY doNotTrackInfo.label          "Tìm hiểu Thêm">
+
+
+
+
+
+
 
 <!ENTITY  history.label                 "Nhật ký">
 
@@ -22,6 +24,8 @@
 <!ENTITY  locbar.bookmarks.accesskey    "d">
 <!ENTITY  locbar.openpage.label         "Các tab đang mở">
 <!ENTITY  locbar.openpage.accesskey     "t">
+
+
 
 
 
