@@ -106,6 +106,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY fullScreenMinimize.tooltip "Kugabanya ingano">
 <!ENTITY fullScreenRestore.tooltip "Kugaruraho">
 
@@ -113,8 +114,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
-<!ENTITY fullscreenExitButton.label "Kwanga">
 
 
 
@@ -346,6 +345,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.accesskey             "d">
 
+
+
+<!ENTITY urlbar.searchSuggestionsNotification.disable "Oya">
+<!ENTITY urlbar.searchSuggestionsNotification.enable "Yego">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -368,6 +371,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
  -->
 
 <!ENTITY searchFocusUnix.commandkey   "j">
+<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
+     These are set as the aria-label attribute for the search input box and
+     submit button in the in-content search UI, to be used by screen readers. -->
+
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -561,6 +568,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY closeCmd.accesskey             "G">
 
+
 <!ENTITY pageStyleMenu.label "Imisusire ya Paji">
 <!ENTITY pageStyleMenu.accesskey "s">
 <!ENTITY pageStyleNoStyle.label "Nta Misusire">
@@ -599,6 +607,25 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "Byakozwe">
 <!ENTITY editBookmark.cancel.label                   "Kureka">
+
+
+
+
+
+
+<!-- Strings for connection state warnings. -->
+
+
+
+<!-- Strings for connection state warnings in the subview. -->
+
+
+
+
+
+
+
+
 
 
 
@@ -662,13 +689,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-<!-- Bad Content Blocker Doorhanger Notification -->
 
 
 
 
 
+<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
 
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
 
 
 
@@ -726,14 +758,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-
-
-
-<!-- Pre-landed string for bug 1124153 -->
-<!-- Pre-landed string for bug 1133662 -->
-
-<!-- Pre-landed strings for bug 1123519 -->
 
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 

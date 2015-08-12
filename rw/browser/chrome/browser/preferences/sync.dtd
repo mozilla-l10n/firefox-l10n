@@ -27,9 +27,6 @@
 
 
 
-
-
-
 <!ENTITY engine.addons.label        "Imigereka">
 <!ENTITY engine.addons.accesskey    "g">
 <!-- Device Settings -->
@@ -63,6 +60,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 
+
 <!ENTITY manage.label                "Tunganya">
 
 
@@ -72,3 +70,13 @@ both, to better adapt this sentence to their language.
 
 
 <!ENTITY welcome.useOldSync.label "Uri gukoresha uburyo bwo guhuza bwa kare">
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+
+

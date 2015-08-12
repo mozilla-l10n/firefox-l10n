@@ -40,8 +40,6 @@ that require it.  -->
 
 
 
-<!ENTITY itemPasswords.label               "Amagambobanga Yabitswe">
-<!ENTITY itemPasswords.accesskey           "A">
 <!ENTITY itemCookies.label                 "Dosiyenyibutsa">
 <!ENTITY itemCookies.accesskey             "y">
 <!ENTITY itemCache.label                   "Ubwihisho">
