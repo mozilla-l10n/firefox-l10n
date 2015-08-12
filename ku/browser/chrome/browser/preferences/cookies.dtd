@@ -7,11 +7,12 @@
 <!ENTITY     cookiesonsystem.label          "Çerezên di komputera te de tomar bûne li jêr in:">
 <!ENTITY     cookiename.label               "Navê Çerezê">
 <!ENTITY     cookiedomain.label             "Cî"> 
-<!ENTITY     button.removecookies.label     "Çerezan jê bibe">
-<!ENTITY     button.removecookie.label      "Çerezê Jê Bibe">
-<!ENTITY     button.removecookie.accesskey  "r">
-<!ENTITY     button.removeallcookies.label  "Hemû Çerezan Jê Bibe">
-<!ENTITY     button.removeallcookies.accesskey "H">
+<!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
+  The label associated with this accesskey can be found in 
+  preferences.properties as removeSelectedCookies.
+-->
+<!ENTITY     button.removeAllCookies.label "Gişî Rake">
+<!ENTITY     button.removeAllCookies.accesskey "a">
 
 <!ENTITY     props.name.label               "Nav::">
 <!ENTITY     props.value.label              "Agahî:">

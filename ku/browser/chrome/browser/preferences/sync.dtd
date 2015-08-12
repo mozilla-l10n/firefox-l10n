@@ -16,7 +16,6 @@
 
 <!ENTITY manageAccount.label          "Rêveberiya Hebasî">
 <!ENTITY manageAccount.accesskey      "a">
-<!ENTITY viewQuota.label              "Kotayê nîşan bide">
 <!ENTITY changePassword2.label        "Şîfreyê biguherîne…">
 <!ENTITY myRecoveryKey.label          "Kilîla min ya rizgarkirinê">
 <!ENTITY resetSync2.label             "Syncê reset bike…">
@@ -40,6 +39,10 @@
 
 <!ENTITY syncDeviceName.label       "Navê cîhazê:">
 <!ENTITY syncDeviceName.accesskey   "c">
+
+
+<!ENTITY cancelChangeSyncDeviceName.label "Betal">
+<!ENTITY saveChangeSyncDeviceName.label "Guherandinan Tomar Bike">
 <!ENTITY unlinkDevice.label           "Girêdana vê cîhazê qut bike">
 <!-- Footer stuff -->
 
@@ -68,6 +71,17 @@ both, to better adapt this sentence to their language.
 
 
 
-<!ENTITY welcome.signIn.label "Têkevê">
+
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
 
 

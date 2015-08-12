@@ -1,24 +1,42 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-<!ENTITY privatebrowsingpage.title                 "Gera Nepen">
-<!ENTITY privatebrowsingpage.title.normal          "Dixwazî dest bi Gera Nepen bikî?">
-
-<!ENTITY privatebrowsingpage.perwindow.issueDesc        "&brandShortName; dê raboriya vê pencereyê bi bîr neyne.">
-<!ENTITY privatebrowsingpage.perwindow.issueDesc.normal "Tu niha ne di pencereyeke taybet de yî.">
-
-<!ENTITY privatebrowsingpage.perwindow.description     "Di pencereya Gera Taybet de, &brandShortName; raboriya gerok, lêgerîn, jêbarkirin û formên webê û çerez yan jî pelên înterneta derbasdar tomar nake.  Lê, pelên ku tu jêbar bikî û bijareyên te dê bên tomarkirin.">
-
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Pencereyeke Nepen ya nû veke">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "N">
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart4): please leave &newPrivateWindow.label; intact in the translation -->
-<!ENTITY privatebrowsingpage.howToStop3                "Ji bo rawestandina Gera Taybet tu dikarî vê pencereyê bigirî.">
 
-<!ENTITY privatebrowsingpage.moreInfo                  "Dema ku ev komputer agahiyên te tomar nake jî pêşkêşkara servîsa înternetê dikare xwe bigihîne hin pelan.">
-<!ENTITY privatebrowsingpage.learnMore                 "Zêdetir Agahî">
-<!-- TO BE REMOVED POST-AUSTRALIS --> 
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
+<!ENTITY privateBrowsing.title                 "Gera Nepen">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
+     Width of the Private Browsing section.
+     -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
+     aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
+     These strings will be replaced by aboutPrivateBrowsing.forgotten and
+     aboutPrivateBrowsing.kept when the new visual design lands (bug 1192625).
+     -->
 
 
-<!ENTITY privatebrowsingpage.howToStart3               "Ji bo destpêkirina Gera Taybet tu dikarî &basePBMenu.label; &gt; &newPrivateWindow.label;ê jî hilbijêrî.">
+
+<!ENTITY aboutPrivateBrowsing.info.history     "Raborî">
+
+<!ENTITY aboutPrivateBrowsing.info.cookies     "Çerez">
+
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.bookmarks   "Bijare">
+
+
+<!-- LOCALIZATION NOTE (trackingProtection.width):
+     Width of the Tracking Protection section. This should be enough to
+     accommodate the title as well as the enabled or disabled indicator.
+     -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.state.width):
+     Width of the element representing the enabled or disabled indicator.
+     -->
+
+
+
+
+
+

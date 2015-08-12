@@ -11,11 +11,7 @@
 <!ENTITY devmgr.devlist.label                   "Parçe û Pergalên Ewlekariyê">
 <!ENTITY devmgr.details.title                   "Kitekit">
 <!ENTITY devmgr.details.title2                  "Nirx">
-<!ENTITY devmgr.status.label                    "Rewş">
-<!ENTITY devmgr.version.label                   "Guherto">
 
-<!ENTITY devmgr.button.changeslotname.label     "Navê hêlînê biguherîne">
-<!ENTITY devmgr.button.changeslotname.accesskey "N">
 <!ENTITY devmgr.button.login.label              "Têkevê">
 <!ENTITY devmgr.button.login.accesskey          "T">
 <!ENTITY devmgr.button.logout.label             "Daniştinê bigire">

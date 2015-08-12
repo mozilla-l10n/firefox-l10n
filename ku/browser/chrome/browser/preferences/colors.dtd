@@ -6,12 +6,15 @@
 <!ENTITY  window.width                    "42em">
 <!ENTITY  window.macWidth                 "43em">
 
-<!ENTITY  allowPagesToUse.label           "Ji bilî yên ku min hilbijartine, destûrê bide malper ku rengên xwe bikar tînin.">
-<!ENTITY  allowPagesToUse.accesskey       "h">
+
+
+<!ENTITY  overridePageColors.always.label "Her tim">
+
+<!ENTITY  overridePageColors.never.label  "Qet">
 
 <!ENTITY  color                           "Deq û Rûerd">
-
-
+<!ENTITY  textColor.label                 "Deq:">
+<!ENTITY  textColor.accesskey             "D">
 <!ENTITY  backgroundColor.label           "Rûerd:">
 <!ENTITY  backgroundColor.accesskey       "R">
 <!ENTITY  useSystemColors.label           "Rengên pergalê bikar bîne">

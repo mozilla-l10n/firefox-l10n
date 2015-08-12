@@ -6,14 +6,9 @@
 <!ENTITY window.maxWidth              "400">
 
 <!ENTITY startSafeMode.label          "Destpêkirin di moda ewle de">
-<!ENTITY resetProfile.label           "&brandShortName;ê reset bike">
+
 
 <!ENTITY safeModeDescription3.label   "Moda ewle, modeke taybet ya &brandShortName;ê ye ku bo çareserkirina arîşeyan tê bikaranîn.">
 <!ENTITY safeModeDescription4.label   "Pêvek û eyarên taybet dê ji bo demeke kin dê neçalak bin.">
 
-<!ENTITY resetProfileInstead.label    "Ji bo destpêkeke nû dikarî &brandShortName;ê reset bikî.">
-<!-- LOCALIZATION NOTE (autoSafeModeDescription2.label safeModeInstead.label resetProfileFooter.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
-
-<!ENTITY autoSafeModeDescription2.label "Dem aku &brandShortName;ê dest pê dikir bi awayekî ne bende hat girtin. Dibe ku sedem pêvek yan jî sedemine din bin. Ji bo çareserkirinê dikarî resetkirina &brandShortName;ê yan jî destpêkirina moda ewle biceribînî.">
-<!ENTITY resetProfileFooter.label       "Hemû tiştên din dê li eyarên fabrîkayê bên vegerandin.">
-<!ENTITY safeModeInstead.label          "Eger vê naxwazî, dikarî pêvekên xwe û eyarên xwe yên taybet ji bo demeke in neçalak bikî da ku tu xwe bi xwe çareser bikî.">
+<!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->

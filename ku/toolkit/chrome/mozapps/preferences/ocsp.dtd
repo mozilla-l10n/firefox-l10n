@@ -1,9 +1,0 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-<!ENTITY ocspDialog.title             "Erêkirin">
-<!ENTITY enableOCSP.label             "Protokola Rewşa Sertîfîkakirinên Girêdayî (OCSP) ji bo rastandina sertîfîkayên derbasdar bi kar bîne">
-<!ENTITY enableOCSP.accesskey         "j">
-<!ENTITY requireOCSP.label            "Dema ku girêdana pêşkêşkareke OCSP'ê ne serkeftî be, sertîfîkayê wekî derbasdar qebûl bike">
-<!ENTITY requireOCSP.accesskey        "k">

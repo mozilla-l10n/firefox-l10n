@@ -4,25 +4,28 @@
 
 <!ENTITY tracking.label                 "Şopandin">
 
-<!ENTITY dntTrackingNopref.label2       "Derbarê vebijêrkên min ên şopandinê de tu tiştî ranegihîne malperan">
-<!ENTITY dntTrackingNopref.accesskey    "o">
-<!ENTITY dntTrackingNotOkay.label2      "Ji malperan re ragihîne ku naxwazim bêm şopandin">
-<!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY dntTrackingOkay.label2         "Ji malperan re ragihîne ku dixwazim bêm şopandin">
-<!ENTITY dntTrackingOkay.accesskey      "t">
-<!ENTITY doNotTrackInfo.label           "Agahiyên bêtir">
 
-<!ENTITY  history.label                 "Raborî">
+<!ENTITY doNotTrackInfo.label          "Agahiyên bêtir">
+
+
+
+
+
+
+
 
 <!ENTITY  locationBar.label             "Qutîka Cî">
 
-<!ENTITY  locbar.pre.label              "Dema qutîka cî bê bikaranîn, pêşniyar bike:">
-<!ENTITY  locbar.pre.accessKey          "u">
-<!ENTITY  locbar.post.label             "">
-<!ENTITY  locbar.both.label             "Raborî û Bijare">
-<!ENTITY  locbar.history.label          "Raborî">
-<!ENTITY  locbar.bookmarks.label        "Bijare">
-<!ENTITY  locbar.nothing.label          "Ne Tu Tişt">
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY  acceptCookies.label           "Çerezên Malperan Bipejirîne">
 <!ENTITY  acceptCookies.accesskey       "e">
@@ -33,8 +36,7 @@
 <!ENTITY  acceptThirdParty.never.label    "Qet">
 <!ENTITY  acceptThirdParty.visited.label  "Ji yên serdankirî">
 
-<!ENTITY  keepUntil.label               "Dema dawî a veşartinê">
-<!ENTITY  keepUntil.accesskey           "v">
+
 
 <!ENTITY  expire.label                  "Dema wan bihuriye">
 <!ENTITY  close.label                   "&brandShortName; 'ê digirim">
