@@ -19,6 +19,8 @@
 
 <!ENTITY cmd.back.tooltip                     "एक पृष्ठ पछाडि जानुहोस्">
 <!ENTITY cmd.forward.tooltip                  "एक पृष्ठ अगाडि जानुहोस्">
+
+
 <!-- global warnings -->
 
 
@@ -86,7 +88,8 @@
 
 <!ENTITY cmd.uninstallAddon.label             "हटाउनुहोस्">
 <!ENTITY cmd.uninstallAddon.accesskey         "ह">
-<!ENTITY cmd.debugAddon.label                 "त्रुटि सच्याउनुहोस्">
+
+
 <!ENTITY cmd.showPreferencesWin.label         "विकल्पहरू">
 
 
@@ -190,5 +193,17 @@
 <!ENTITY experiment.info.learnmore "अझ जान्नुहोस्">
 
 
+
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
+     These entities form a sentence, with
+     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
+     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
+     being a link to an external site. -->
 
 

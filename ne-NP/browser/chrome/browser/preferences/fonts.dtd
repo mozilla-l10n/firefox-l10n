@@ -46,6 +46,7 @@
 <!ENTITY  font.langGroup.gurmukhi                 "गुरमुखी">
 <!ENTITY  font.langGroup.khmer                    "खमेर">
 <!ENTITY  font.langGroup.malayalam                "मलायलम">
+
 <!ENTITY  font.langGroup.oriya                    "ओरिया">
 <!ENTITY  font.langGroup.telugu                   "तेल्गु">
 <!ENTITY  font.langGroup.kannada                  "कन्नाडा">
@@ -63,7 +64,6 @@
 <!ENTITY  allowPagesToUse.label                   "&amp; मेरा माथिका छनोट को ठाउँमा पेजको आफ्नै अंक्षरहरु छान्न दिनुहोस ">
 <!ENTITY  allowPagesToUse.accesskey               "A">
 
-<!ENTITY languages.customize.Fallback.grouplabel  "विरासत सामग्रीको लागि वर्ण एन्कोडिंग">
 
 
 

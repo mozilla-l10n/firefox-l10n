@@ -48,8 +48,6 @@ that require it.  -->
 
 <!ENTITY itemFormSearchHistory.label       "Form &amp; इतिहास खोजि खोज्नुहोस्">
 <!ENTITY itemFormSearchHistory.accesskey   "F">
-<!ENTITY itemPasswords.label               "बचत गरिएको Passwords">
-<!ENTITY itemPasswords.accesskey           "P">
 <!ENTITY itemCookies.label                 "कुकिज">
 <!ENTITY itemCookies.accesskey             "क">
 <!ENTITY itemCache.label                   "केच ">

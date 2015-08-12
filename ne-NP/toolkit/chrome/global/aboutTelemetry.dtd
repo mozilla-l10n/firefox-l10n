@@ -4,9 +4,21 @@
 
 <!ENTITY aboutTelemetry.pageTitle "टेलीमेटरी डाटा">
 
-<!ENTITY aboutTelemetry.telemetryEnabled "  टेलीमेटरी <span> सक्षम पारिएको </ span> छ।">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "  टेलीमेटरी <span> अक्षम पारिएको </ span> छ।">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!ENTITY aboutTelemetry.slowSqlSection "  ढिलो SQL विवरणहरु">

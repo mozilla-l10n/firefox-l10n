@@ -14,8 +14,6 @@
 
 <!ENTITY engine.bookmarks.label           "पुस्तकचिनोहरू">
 <!ENTITY engine.bookmarks.accesskey       "m">
-
-
 <!ENTITY engine.history.label             "इतिहास">
 <!ENTITY engine.history.accesskey         "r">
 <!ENTITY engine.tabs.label                "ट्याबहरू">

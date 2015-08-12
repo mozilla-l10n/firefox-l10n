@@ -16,7 +16,6 @@
 
 <!ENTITY manageAccount.label          "खाता व्यवस्थित गर्नुहोस्">
 <!ENTITY manageAccount.accesskey      "n">
-<!ENTITY viewQuota.label              "कोटा हेर्नुहोस्">
 <!ENTITY changePassword2.label        "पासवर्ड परिवर्तन गर्नुहोस्...">
 <!ENTITY myRecoveryKey.label          "मेरो पुनर्स्थापना साँचो">
 <!ENTITY resetSync2.label             "समक्रमण पुनढाँचा...">
@@ -26,8 +25,6 @@
 <!ENTITY syncMy.label               "मेरो समक्रमण">
 <!ENTITY engine.bookmarks.label     "पुस्तकचिनोहरू">
 <!ENTITY engine.bookmarks.accesskey "m">
-
-
 <!ENTITY engine.tabs.label          "ट्याबहरू">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "इतिहास">
@@ -42,6 +39,10 @@
 
 <!ENTITY syncDeviceName.label       "साधनको नामः">
 <!ENTITY syncDeviceName.accesskey   "c">
+
+
+<!ENTITY cancelChangeSyncDeviceName.label "रद्द गर्नुहोस्">
+<!ENTITY saveChangeSyncDeviceName.label "बचत गर्नुहोस्">
 <!ENTITY unlinkDevice.label           "यो उपकरण विछेद गर्नुहोस्">
 <!-- Footer stuff -->
 
@@ -65,12 +66,23 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 <!ENTITY signIn.label                "साइन इन गर्नुहोस्">
+
 <!ENTITY manage.label                "व्यवस्था गर्नुहोस्">
 
 
 
 
-<!ENTITY welcome.signIn.label "साइन इन गर्नुहोस्">
-<!ENTITY welcome.createAccount.label "खाता सिर्जना गर्नुहोस्">
+
+
 
 <!ENTITY welcome.useOldSync.label "समक्रमणको पुरानो संस्करण प्रयोग गरिँदै छ ?">
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+
+

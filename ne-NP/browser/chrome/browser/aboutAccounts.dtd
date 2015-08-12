@@ -4,7 +4,8 @@
 
 <!ENTITY aboutAccounts.welcome "&syncBrand.shortName.label;मा स्वागत छ">
 
+
 <!ENTITY aboutAccountsConfig.description "आफ्नो ट्याबहरू, पुस्तकचिनो, पासवर्ड र थप सिङ्क गर्न साइन इन गर्नुहोस्।">
 <!ENTITY aboutAccountsConfig.startButton.label "सुरु गर्नुहोस्">
 <!ENTITY aboutAccountsConfig.useOldSync.label "के तपाईँ समक्रमणको पुरानो संस्करण प्रयोग गर्दै हुनुहुन्छ ?">
-<!ENTITY aboutAccountsConfig.manage.label "व्यवस्था गर्नुहोस्">
+

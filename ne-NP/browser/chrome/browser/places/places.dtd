@@ -81,7 +81,6 @@
 <!ENTITY col.url.label           "स्थान">
 <!ENTITY col.mostrecentvisit.label "सबभन्दा हालैको भ्रमण">
 <!ENTITY col.visitcount.label    "भ्रमण गणना">
-<!ENTITY col.keyword.label       "शब्दकुञ्जी">
 <!ENTITY col.description.label   "वर्णन">
 <!ENTITY col.dateadded.label     "थपिएको">
 <!ENTITY col.lastmodified.label  "पछिल्लो परिमार्जित">

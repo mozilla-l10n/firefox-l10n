@@ -22,7 +22,7 @@
 <!ENTITY  generalReferrer       "सन्दर्भित युआरएल: ">
 <!ENTITY  generalSource         "क्यास श्रोत:">
 <!ENTITY  generalModified       "परिमार्जित:">
-<!ENTITY  generalEncoding       "सङ्केतन:">
+
 <!ENTITY  generalMetaName       "नाम">
 <!ENTITY  generalMetaContent    "सामग्री">
 
@@ -83,3 +83,5 @@
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 
 <!ENTITY  securityView.technical.header                 "प्राबिधिक विवरणहरू">
+
+<!ENTITY  helpButton.label                              "मद्दत">

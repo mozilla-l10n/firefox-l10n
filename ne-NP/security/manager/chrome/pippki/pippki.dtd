@@ -14,11 +14,6 @@
 <!ENTITY resetPasswordButtonLabel "रिसेट गर्नुहोस्">
 <!ENTITY resetPassword.title  "मुख्य पासवर्ड रिसेट गर्नुहोस्">
 <!ENTITY resetPassword.text  "तपाईँले मास्टर प्रवेशचिन्ह रिसेट गर्नुभयो भने, तपाईँका सबै भण्डारण गरिएका वेब र इ-मेल प्रवेशचिन्हहरु, फाराम लगत, निजी प्रमाणपत्रहरु, र निजी कुय्जीहरुलाई बिर्सिनेछ। के तपाईँ मास्टर प्रवेशचिन्ह रिसेट गर्ने कुरामा दृढ हुनुहुन्छ?">
-<!-- Values for getpassword.xul -->
-
-<!ENTITY getPassword.title  "मुख्य पासवर्ड प्रविष्ट गर्नुहोस्">
-
-<!ENTITY getPassword.password.label "पासवर्ड:">
 <!-- Downloading a cert -->
 
 <!ENTITY downloadCert.title "प्रमाणपत्र डाउनलोड गरिरहेको छ">
@@ -49,13 +44,6 @@
 
 <!ENTITY chooseToken.title  "चिनोको संवाद छनोट गर्नहोस्">
 <!ENTITY chooseToken.message1 "कृपया एउटा चिनो छान्नुहोस्।">
-
-<!ENTITY escrowWarn.title "गुप्तीकरण कुञ्जीको प्रतिलिपि">
-<!ENTITY escrowWarn.message1 "महत्वपूर्ण: यो प्रमाणपत्र अधिकारीले तपाइँको निजी कुञ्जीको जगेडा बनाउनलाई सोधेको छ।">
-<!ENTITY escrowWarn.benefit1 "यसको फाइदा तपाईँले आफ्नो निजी कुञ्जीमा पहुँच गर्न सक्नुभएन भने, तपाइँले यो प्रमाणपत्र अधिकारीसँग एउटा प्रतिलिपिका लागि आग्रह गर्न सक्नुहुन्छ।">
-<!ENTITY escrowWarn.message2 "जसरी पनि, तपाईँको गोप्य कुञ्जीलाई प्रमाणपत्र अधिकारीले भण्डारण गर्छ, र तपाईँको अनुमतिबिना तपाईँको गोप्य इ-मेल वा कागजातहरु पढ्न प्रयोग हुन सक्छ।">
-<!ENTITY examineCert.label "प्रमाणपत्र हेर्नुहोस्">
-<!ENTITY examineCert.accesskey "V">
 <!-- Strings for the CreateCertInfo dialog  -->
 
 <!ENTITY createCertInfo.title "एउटा निजी कुञ्जी उत्पन्न गरिँदै">

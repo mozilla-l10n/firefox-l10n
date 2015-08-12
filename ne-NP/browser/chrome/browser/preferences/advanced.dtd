@@ -74,13 +74,8 @@
 <!ENTITY updateTab.label                 "अद्यावधिक">
 
 <!ENTITY updateApp.label                 "&brandShortName; अद्यावधिकहरु:">
-<!-- Note either updateAuto1 is used or (updateAutoMetro and updateAutoDesktop),
-     so re-using accesss key in updateAuto1 is OK. updateAutoDesktop can be found
-     in preferences.properties -->
 <!ENTITY updateAuto1.label               "अद्यावधिहरु स्वत: इन्स्टल गर्नुहोस् (सुझव: उन्नत सुरक्षाको लागि)">
 <!ENTITY updateAuto1.accesskey           "A">
-<!ENTITY updateAutoMetro.label           "स्वचालित अद्यावधि डेस्कटप बाट र विन्डोज ८ को पारामा  &brandShortName;">
-<!ENTITY updateAutoMetro.accesskey       "s">
 <!ENTITY updateCheck.label               "अद्यावधिको लागि जांच गर्नुस ,तर सफ्टवेयर स्थापना गर्ने कि नगर्ने मलाई छान्न दिनुस ">
 <!ENTITY updateCheck.accesskey           "अ">
 
@@ -88,8 +83,6 @@
 
 <!ENTITY updateAutoAddonWarn.label       "यसले कुनै एड-अन हरुलाई काम नगर्ने बनाउछ भने मलाई चेतावनी दिनुस ">
 <!ENTITY updateAutoAddonWarn.accesskey   "य">
-
-<!ENTITY updateAutoMetroWarn.label       "(विन्डोज ८ को पारामा &brandShortName; एड-अन हरुको  चल्ने /नचल्ने वातवरण जांच नगर्नु होस् )">
 
 
 
@@ -112,6 +105,7 @@
 <!ENTITY offlineAppRemove.confirm        "इन्टरनेट नहुदा चलाउने (अफलाइन ) तथ्यांक हटाउनु होस् ">
 
 <!ENTITY certificateTab.label            "प्रमाणपत्रहरू">
+
 <!ENTITY certSelection.description       "जब सर्वर ले मेरो ब्यक्तिगत सर्टिफिकेट को आग्रह गर्छ ">
 <!ENTITY certs.auto                      "स्वचालित रुपमा एउटा छानोस ">
 

@@ -37,7 +37,7 @@
 
 
 
-
+<!ENTITY device.help "मद्दत">
 
 <!ENTITY connection.disconnect "विच्छेद">
 
@@ -64,19 +64,19 @@
 <!ENTITY connection.startRegisteredSimulator "सुरू:">
 
 <!ENTITY projects.localApps "स्थानीय अनुप्रयोगहरु">
-
+<!ENTITY projects.addApp "थप्नुहोस्">
 <!ENTITY projects.addPackaged "प्याकेज गरिएको अनुप्रयोग थप्नुहोस्">
 
 <!ENTITY projects.addHosted "होस्ट गरिएको अनुप्रयोग थप्नुहोस्">
 
-
+<!ENTITY projects.title "लोकल अनुप्रयोगहरु">
 <!ENTITY projects.appDetails "अनुप्रयोगका विवरणहरू">
 
 <!ENTITY projects.updateApp "अद्यावधिक">
 
-
+<!ENTITY projects.debugApp "त्रुटि सच्याउनुहोस्">
 <!ENTITY projects.debugAppTooltip "यस अनुप्रोयोगसँग जोडिएको विकासकर्ता उपकरणहरु खोल्नुहोस्">
-
+<!ENTITY projects.saveManifest "बचत गर्नुहोस्">
 
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 

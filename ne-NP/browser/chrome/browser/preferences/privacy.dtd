@@ -4,15 +4,21 @@
 
 <!ENTITY tracking.label                 "ट्रयाक गरिँदै">
 
-<!ENTITY dntTrackingNotOkay.label2      "वेवसाइटहरुलाई म ट्रयाक हुन चाहन्न भन्नु">
-<!ENTITY dntTrackingNotOkay.accesskey   "n">
+
+<!ENTITY doNotTrackInfo.label          "अझ जान्नुहोस् ">
 
 
 
-<!ENTITY doNotTrackInfo.label           "अझ जान्नुहोस् ">
+
+
+
 
 
 <!ENTITY  locationBar.label             "स्थानपट्टी ">
+
+
+
+
 
 
 

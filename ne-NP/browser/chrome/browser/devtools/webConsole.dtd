@@ -69,6 +69,12 @@
 <!ENTITY btnConsoleLog          "लग">
 <!ENTITY btnConsoleXhr          "XHR">
 
+<!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
+  -  should not be translated. -->
+<!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
+  -  should not be translated. -->
+<!-- LOCALIZATION NODE (btnConsoleWindowlessWorkers) the term "Workers"
+  -  should not be translated. -->
 
 <!ENTITY filterOutput.placeholder "फिल्टर निर्गत">
 
@@ -92,3 +98,5 @@
 <!ENTITY closeCmd.key         "W">
 <!ENTITY findCmd.key          "F">
 <!ENTITY clearOutputCtrl.key  "L">
+
+
