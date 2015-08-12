@@ -71,24 +71,28 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Ainda não iniciou sessão.">
 <!ENTITY signIn.label                "Iniciar sessão">
-
+<!ENTITY profilePicture.tooltip      "Alterar imagem do perfil">
 <!ENTITY manage.label                "Gerir">
 <!ENTITY disconnect.label            "Desligar…">
 <!ENTITY verify.label                "Verificar endereço">
 <!ENTITY forget.label                "Descartar esta mensagem">
 
 <!ENTITY welcome.description "Aceda aos seus separadores, marcadores, palavras-passe e muito mais com o &brandShortName;.">
-
-
+<!ENTITY welcome.signIn.label "Iniciar sessão">
+<!ENTITY welcome.createAccount.label "Criar conta">
 
 <!ENTITY welcome.useOldSync.label "Utiliza uma versão anterior do Sync?">
 
+<!ENTITY signedOut.caption            "Leve a sua Web consigo">
+<!ENTITY signedOut.description        "Sincronize os marcadores, histórico, separadores, palavras-passe, extras e preferências entre os seus dispositivos.">
+<!ENTITY signedOut.accountBox.title   "Estabelecer ligação com uma &syncBrand.fxAccount.label;">
+<!ENTITY signedOut.accountBox.create  "Criar conta">
+<!ENTITY signedOut.accountBox.signin  "Iniciar sessão">
 
+<!ENTITY signedIn.engines.label       "Sincronização entre dispositivos">
 
-
-
-
-
+<!ENTITY mobilePromo.start            "Descarregue o Firefox para">
 <!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
-
-
+<!ENTITY mobilePromo.androidLink      "Android™">
+<!ENTITY mobilePromo.end              "para sincronizar os seus dados.">
+<!ENTITY androidAttribution           "Android é uma marca registada da Google Inc.">
