@@ -5,6 +5,7 @@
 <!ENTITY tracking.label                 "Манааһын">
 
 
+<!ENTITY doNotTrackInfo.label          "Сиһилии">
 
 
 
@@ -12,19 +13,19 @@
 
 
 
-<!ENTITY doNotTrackInfo.label           "Сиһилии">
-
-<!ENTITY  history.label                 "Сурунаал">
 
 <!ENTITY  locationBar.label             "Аадырыс ">
 
-<!ENTITY  locbar.pre.label              "Аадырыс панелын туттарга бу сигэлэри көрдөр:">
-<!ENTITY  locbar.pre.accessKey          "т">
-<!ENTITY  locbar.post.label             "">
-<!ENTITY  locbar.both.label             "сурунаалтан уонна бэлиэтээһиннэртэн">
-<!ENTITY  locbar.history.label          "Сурунаал">
-<!ENTITY  locbar.bookmarks.label        "Бэлиэтээһиннэр">
-<!ENTITY  locbar.nothing.label          "Этимэ">
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY  acceptCookies.label           "Ситим-сирдэртэн куукаларын ыларга">
 <!ENTITY  acceptCookies.accesskey       "ы">
@@ -35,8 +36,7 @@
 <!ENTITY  acceptThirdParty.never.label    "Аны хаһан да">
 
 
-<!ENTITY  keepUntil.label               "Куукаларын харай:">
-<!ENTITY  keepUntil.accesskey           "К">
+
 
 <!ENTITY  expire.label                  "болдьоҕо ааһа илигинэ">
 <!ENTITY  close.label                   "маны &brandShortName; саба иликпинэ">

@@ -116,12 +116,14 @@
 <!ENTITY malwareBlocked.longDesc "<p>Атаакалыыр ситим сирдэр кистэлэҥ информацияны уорар, атын көмпүүтэрдэргэ атаакалатар эбэтэр көмпүүтэри алдьатар бырагырааммалары туруора сатыыллар.</p>
 <p>Ситим-сирим атаакалыыр ситим-сирдэр тиһиктэригэр алҕас киирбит дии санаабыт ситим-сир бас билээччилэрэ манна киирэн <a href='http://www.stopbadware.org/home/reviewinfo' >бу быһаарыыны көтүттэриэхтэрин сөп</a>.</p>">
 
+
+
 <!ENTITY phishingBlocked.title "Бу ситим сир түөкүннүүргэ уорбаланар!">
 <!ENTITY phishingBlocked.longDesc "<p>Бу сирэйгэ ханнык баҕарар тус бэйэҥ туһунан информацияны киллэрбитиҥ түөкүттэргэ түбэһиэн сөп</p>
 <p>Маннык түөкүннээһин фишинг диэн ааттанар көрүҥэр түөкүттэр ситим-сирдэрэ уонна электроннай почталара Эн итэҕэйэр ситим-сиргин майгынныыр буолар.</p>">
 
-<!ENTITY cspFrameAncestorBlocked.title "Иһинээҕитин көрөн хааччахтааһыҥҥа түбэстэ">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName;  бу сирэйи көрөрү хааччахтаата, тоҕо диэтэххэ бу сирэй иһинээҕитэ куттал суох буолуутун политикатын кытта сөп түбэһиспэт.</p>">
+<!ENTITY cspBlocked.title "Иһинээҕитин көрөн хааччахтааһыҥҥа түбэстэ">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName;  бу сирэйи көрөрү хааччахтаата, тоҕо диэтэххэ бу сирэй иһинээҕитэ куттал суох буолуутун политикатын кытта сөп түбэһиспэт.</p>">
 
 <!ENTITY corruptedContentError.title "Иһинээҕитэ туох эрэ алҕастаах">
 <!ENTITY corruptedContentError.longDesc "<p>Көрөөрү гыммыт сирэйиҥ сатаан хачайдаммата, тоҕо диэтэххэ биэрии кэмигэр туох эрэ алҕас таҕыста.</p><ul><li>Ситим-сир бас билээччитигэр тахсан, бука диэн, бу туһунан кэпсээ эрэ.</li></ul>">
@@ -141,5 +143,17 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
+
+
+
+
+
+
+
+
 <!ENTITY remoteXUL.title "Тэйиччи XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Ситим-сир бас билээччитигэр тахсан, бука диэн, бу туһунан кэпсээ эрэ.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
+     "ssl_error_unsupported_version". -->
+

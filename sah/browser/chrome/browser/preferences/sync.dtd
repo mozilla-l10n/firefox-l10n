@@ -16,7 +16,6 @@
 
 <!ENTITY manageAccount.label          "Бэлиэтэммит ааккын салайыы">
 <!ENTITY manageAccount.accesskey      "Б">
-<!ENTITY viewQuota.label              "Муҥутуур кээмэйи көр">
 <!ENTITY changePassword2.label        "Киирии тылы уларыт...">
 <!ENTITY myRecoveryKey.label          "Сөргүтэр тылым">
 <!ENTITY resetSync2.label             "Синхронизациялаа…">
@@ -40,6 +39,10 @@
 
 <!ENTITY syncDeviceName.label       "Тэрил аата:">
 <!ENTITY syncDeviceName.accesskey   "р">
+
+
+<!ENTITY cancelChangeSyncDeviceName.label "Салҕаама">
+<!ENTITY saveChangeSyncDeviceName.label "Бигэргэт">
 <!ENTITY unlinkDevice.label           "Бу тэрили араар">
 <!-- Footer stuff -->
 
@@ -63,12 +66,23 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 
+
 <!ENTITY manage.label                "Салайыы">
 
 
 
 
-<!ENTITY welcome.signIn.label "Бэлиэтэнии">
+
 
 
 <!ENTITY welcome.useOldSync.label "Sync эргэ барылын туһанаҕын дуо?">
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+
+

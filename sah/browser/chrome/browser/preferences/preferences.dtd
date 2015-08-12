@@ -15,6 +15,7 @@
 
 <!ENTITY  paneGeneral.title       "Сүрүн">
 <!ENTITY  paneTabs.title          "Кыбытыктар">
+<!ENTITY  paneSearch.title        "Көрдөөһүн">
 <!ENTITY  paneContent.title       "Иһинээҕитэ">
 <!ENTITY  paneApplications.title  "Эбиискэлэр">
 <!ENTITY  panePrivacy.title       "Тус эйгэ">
@@ -23,7 +24,5 @@
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 
 <!ENTITY  paneSync.title          "Синхронизация">
-<!ENTITY  buttonForward.tooltip   "Аныгыскы сирэйгэ">
-<!ENTITY  buttonBack.tooltip      "Бу иннинээҕи сирэйгэ">
 
 <!ENTITY  helpButton.label        "Көмө">

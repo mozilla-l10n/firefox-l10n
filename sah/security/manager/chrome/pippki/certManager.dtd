@@ -12,22 +12,10 @@
 
 
 
-
-
 <!ENTITY certmgr.detail.general_tab.title     "Сүрүн">
 <!ENTITY certmgr.detail.general_tab.accesskey "С">
 <!ENTITY certmgr.detail.prettyprint_tab.title "Сиһилии">
 <!ENTITY certmgr.detail.prettyprint_tab.accesskey "С">
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -61,10 +49,6 @@
 
 
 
-
-
-<!ENTITY certmgr.add.label                    "Эп">
-<!ENTITY certmgr.add.accesskey                "Э">
 <!ENTITY certmgr.export.label                 "Экспортааһын…">
 <!ENTITY certmgr.export.accesskey             "п">
 

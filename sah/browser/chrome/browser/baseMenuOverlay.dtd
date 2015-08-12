@@ -14,10 +14,10 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Көмө"> 
 <!ENTITY helpMenuWin.accesskey    "К">
-<!ENTITY aboutProduct.label       "&brandShortName; туһунан ">
-<!ENTITY aboutProduct.accesskey   "т">
-<!ENTITY productHelp.label        "&brandShortName; Көмө">
-<!ENTITY productHelp.accesskey    "К">
+
+
+
+
 <!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "Кылгас клавиатура">
@@ -26,8 +26,9 @@
 <!ENTITY helpSafeMode.label       "Эбиилэрин арааран баран хат холбоо…">
 <!ENTITY helpSafeMode.accesskey   "х">
 
-<!ENTITY healthReport.label       "&brandShortName; туругун отчуота">
-<!ENTITY healthReport.accesskey   "г">
+
+
+
 
 <!ENTITY helpTroubleshootingInfo.label      "Кыһалҕаны быһаарар туһунан">
 <!ENTITY helpTroubleshootingInfo.accesskey  "К">
@@ -35,16 +36,14 @@
 <!ENTITY helpFeedbackPage.label      "Бэйэҥ санааҕын ыыт…">
 <!ENTITY helpFeedbackPage.accesskey  "Б">
 
-<!ENTITY helpShowTour.label             "&brandShortName; Көмө">
-<!ENTITY helpShowTour.accesskey         "К">
+
 
 <!ENTITY preferencesCmdMac.label        "Туруоруулар...">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Сулууспалар">
 
-<!ENTITY hideThisAppCmdMac.label        "Маны &brandShortName; кистээ">
-<!ENTITY hideThisAppCmdMac.commandkey   "H">
+<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Атыны кистээ">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">

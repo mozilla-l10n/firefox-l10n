@@ -6,8 +6,10 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUse.label           "Ситим сирдэр бэйэлэрин өҥнөрүн тутталларын көҥүллээ">
-<!ENTITY  allowPagesToUse.accesskey       "л">
+
+
+
+<!ENTITY  overridePageColors.never.label  "Аны хаһан да">
 
 <!ENTITY  color                           "Тиэкис уона фон">
 <!ENTITY  textColor.label                 "Тиэкис:">

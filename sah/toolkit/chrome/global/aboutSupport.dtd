@@ -30,9 +30,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsTitle "Приложение туһунан">
 <!ENTITY aboutSupport.appBasicsName "Аат">
 <!ENTITY aboutSupport.appBasicsVersion "Барыл">
-<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
-"Update" is a noun here, not a verb. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+"Update" is a noun here, not a verb. -->
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Саҥардыы сурунаала">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Саҥардыы су&amp;рунаалын көрдөр">
 
@@ -46,6 +46,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsBuildConfig "Торум (build) конфигурацията">
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Долоҕойу туттуу">
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
+
 
 
 <!ENTITY aboutSupport.showDir.label "Паапканы арый">
@@ -84,3 +86,6 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Тиэкси долоҕойго (буфер обмена) төгүллээ">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Таҥастамматах дааннайдары долоҕойго хатаа">
+
+
+

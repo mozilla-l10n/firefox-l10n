@@ -28,19 +28,16 @@
 
 <!ENTITY dataChoicesTab.label            "Дааннайдары талыы">
 
-<!ENTITY healthReportSection.label       "&brandShortName; үлэтин туһунан отчуот">
 <!ENTITY healthReportDesc.label          "Эн браузерыҥ төһө сыыдамын туһунан билэргэ уонна үлэтин туһунан &vendorShortName;-ҕа кэпсииргэ көмөлөһөр ">
 <!ENTITY enableHealthReport.label        "&brandShortName; үлэтин туһунан отчуоту холбоо">
 <!ENTITY enableHealthReport.accesskey    "х">
 <!ENTITY healthReportLearnMore.label     "Сиһилии">
 
-<!ENTITY telemetrySection.label          "Телеметрия">
 <!ENTITY telemetryDesc.label             "&brandShortName; өссө тупсарын туһугар &vendorShortName;-ҕа браузер үлэтин, туруорууларын туһунан, көмпүүтэр конфигурациятын туһунан сибидиэнньэлэри ыытарга">
-<!ENTITY enableTelemetry.label           "Телеметрияны холбоо">
-<!ENTITY enableTelemetry.accesskey       "х">
+
+
 <!ENTITY telemetryLearnMore.label        "Сиһилии">
 
-<!ENTITY crashReporterSection.label      "Саахал туһунан тыллабыр">
 <!ENTITY crashReporterDesc.label         "&vendorShortName; браузеры быдан бигэ уонна көмүскэллээх оҥорорун туһугар &brandShortName; саахаллар туһунан отчуоттары ыытар">
 <!ENTITY enableCrashReporter.label       "Саахал туһунан тыллабыры ыытыыны холбуурга">
 <!ENTITY enableCrashReporter.accesskey   "х">
@@ -77,13 +74,8 @@
 <!ENTITY updateTab.label                 "Саҥардыылар">
 
 <!ENTITY updateApp.label                 "&brandShortName; саҥардыылара:">
-<!-- Note either updateAuto1 is used or (updateAutoMetro and updateAutoDesktop),
-     so re-using accesss key in updateAuto1 is OK. updateAutoDesktop can be found
-     in preferences.properties -->
 <!ENTITY updateAuto1.label               "Саҥардыылары аптамаатынан туруорар буол (сүбэ: бу куттал суох буолуутугар туһалыыр)">
 <!ENTITY updateAuto1.accesskey           "т">
-
-
 <!ENTITY updateCheck.label               "Саҥардыылар баалларын көрөр буол, ол гынан баран туруорары миигиттэн ыйыт">
 <!ENTITY updateCheck.accesskey           "ҥ">
 <!ENTITY updateManual.label              "Саҥардыылар баалларын көрбөт буол (сүбэ: бу кутталы улаатыннарар)">
@@ -91,7 +83,6 @@
 
 <!ENTITY updateAutoAddonWarn.label       "Ханнык эмит эбиискэлэр араҕыстахтарына биллэрээр">
 <!ENTITY updateAutoAddonWarn.accesskey   "к">
-
 
 <!ENTITY updateHistory.label             "Саҥардыы сурунаалын көрдөр">
 <!ENTITY updateHistory.accesskey         "р">
@@ -115,6 +106,7 @@
 <!ENTITY offlineAppRemove.confirm        "Хачайдаммыт ситим-сирдэри сот">
 
 <!ENTITY certificateTab.label            "Сэртипикээттэр">
+
 <!ENTITY certSelection.description       "Сиэрбэр тус сэртипикээти көрдөөтөҕүнэ:">
 <!ENTITY certs.auto                      "Аптамаатынан ыыт">
 

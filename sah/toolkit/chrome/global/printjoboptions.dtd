@@ -9,15 +9,6 @@
 <!ENTITY paperInput.label "Кумааҕы кээмэйэ:">
 <!ENTITY paperInput.accesskey "К">
 
-<!ENTITY plexInput.label "Эрэсиимэ:">
-<!ENTITY plexInput.accesskey "Э">
-
-<!ENTITY resolutionInput.label "Разрешениета/Хаачыстыбата:">
-<!ENTITY resolutionInput.accesskey "з">
-
-<!ENTITY cmdInput.label "Бэчээт хамаандата:">
-<!ENTITY cmdInput.accesskey "м">
-
 <!ENTITY jobTitleInput.label "Сорудах аата:">
 <!ENTITY jobTitleInput.accesskey "С">
 
@@ -26,13 +17,6 @@
 <!ENTITY grayRadio.accesskey "Б">
 <!ENTITY colorRadio.label "Өҥө">
 <!ENTITY colorRadio.accesskey "Ө">
-
-<!ENTITY colorspaceInput.label "Өҥнөр:">
-<!ENTITY colorspaceInput.accesskey "Ө">
-
-<!ENTITY fontsGroup.label "Бичиктэр:">
-<!ENTITY downloadFonts.label "Бичиктэри принтергэ киллэр">
-<!ENTITY downloadFonts.accesskey "Б">
 
 <!ENTITY edgeMarginInput.label "Кытыытын кэтитэ">
 <!ENTITY topInput.label "Үөһэттэн:">

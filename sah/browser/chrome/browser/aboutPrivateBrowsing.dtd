@@ -1,18 +1,42 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-
-<!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; бу сиэссийэ устуоруйатын долоҕойугар хатыа суоҕа.">
-
-
-
-
-
-
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Бүөм түннүгү арый">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "т">
-<!-- TO BE REMOVED POST-AUSTRALIS --> 
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
 
-<!ENTITY privatebrowsingpage.howToStart3               "Бүөмнээн көрүүнү саҕалыырга өссө маны талыаххын сөп &basePBMenu.label; &gt; &newPrivateWindow.label;.">
+<!ENTITY privateBrowsing.title                 "Саһан көрөөһүн">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
+     Width of the Private Browsing section.
+     -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
+     aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
+     These strings will be replaced by aboutPrivateBrowsing.forgotten and
+     aboutPrivateBrowsing.kept when the new visual design lands (bug 1192625).
+     -->
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.history     "Сурунаал">
+
+<!ENTITY aboutPrivateBrowsing.info.cookies     "Куукалар">
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.downloads   "Хачайдааһыннар">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks   "Кыбытык-бэлиэлэр">
+
+
+<!-- LOCALIZATION NOTE (trackingProtection.width):
+     Width of the Tracking Protection section. This should be enough to
+     accommodate the title as well as the enabled or disabled indicator.
+     -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.state.width):
+     Width of the element representing the enabled or disabled indicator.
+     -->
+
+
+
+
+
+

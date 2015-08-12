@@ -93,6 +93,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageInfoCmd.label "Сирэй туһунан">
 <!ENTITY pageInfoCmd.accesskey "т">
 <!ENTITY pageInfoCmd.commandkey "i">
+
+
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "Толору экраанҥа киир">
@@ -106,6 +108,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "к">
 
 <!ENTITY fxaSignIn.label "Киир уонна &syncBrand.shortName.label;">
+
 <!ENTITY fxaSignInError.label "Маны хат холбоо &syncBrand.shortName.label;">
 
 
@@ -122,8 +125,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "Ү">
 <!ENTITY fullScreenExit.label "Толору экраантан таҕыс">
 <!ENTITY fullScreenExit.accesskey "э">
-<!ENTITY fullscreenAllowButton.label "Көҥүллүүргэ">
-<!ENTITY fullscreenExitButton.label "туорат">
 
 <!ENTITY fullscreenExitHint2.value "ESC тимэҕи баттаан хаһан баҕарар тахсыаххын сөп.">
 <!ENTITY leaveDOMFullScreen.label "Толору экраантан таҕыс">
@@ -259,6 +260,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  application menu item that opens the browser toolbox UI in the Tools menu. -->
 
 
+<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
+  -  application menu item that opens the browser content toolbox UI in the Tools menu.
+  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
+
+
 <!ENTITY devToolbarCloseButton.tooltiptext "Сайыннарыы хапталын сап">
 <!ENTITY devToolbarMenu.label              "Сайыннарыы хаптала">
 <!ENTITY devToolbarMenu.accesskey          "а">
@@ -287,6 +293,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "С">
 <!ENTITY newPrivateWindow.label     "Бүөмнээн көрүү саҥа түннүгэ">
 <!ENTITY newPrivateWindow.accesskey "с">
+
 
 <!ENTITY editMenu.label         "Уларытыы"> 
 <!ENTITY editMenu.accesskey       "У"> 
@@ -372,6 +379,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.placeholder2          "Көрдөт эбэтэр аадырыһы ук">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Кыбытыгы арый:">
+
+
+<!ENTITY urlbar.searchSuggestionsNotification.disable "Суох">
+<!ENTITY urlbar.searchSuggestionsNotification.enable "Сөп">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -396,6 +407,28 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
+<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
+     These are set as the aria-label attribute for the search input box and
+     submit button in the in-content search UI, to be used by screen readers. -->
+
+<!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
+     These two strings are used to build the header above the list of one-click
+     search providers:  "Search for <used typed keywords> with:" -->
+
+<!-- LOCALIZATION NOTE (search.label, searchAfter.label):
+     This string is used to build the header above the list of one-click search
+     providers when a one off engine has been selected.  The searchAfter text is
+     intentionally left empty for en-US and can be used by other localizations to
+     display a string after the search engine name.  This string will be displayed
+     as:  "Search <selected engine name><searchAfter.label text>" -->
+<!ENTITY searchAfter.label            "">
+<!-- LOCALIZATION NOTE (searchWithHeader.label):
+     The wording of this string should be as close as possible to
+     searchFor.label and searchWith.label. This string will be used instead of
+     them when the user has not typed any keyword. -->
+<!-- LOCALIZATION NOTE (changeSearchSettings.button):
+     This string won't wrap, so if the translated string is longer,
+     consider translating it as if it said only "Search Settings". -->
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -571,20 +604,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sidebarCloseButton.tooltip     "Ойоҕос хапталы көстүбэт гын">
 
-<!ENTITY quitApplicationCmdWin.label       "Тахсыы"> 
-<!ENTITY quitApplicationCmdWin.accesskey   "с">
+<!ENTITY quitApplicationCmdWin2.label       "Тахсыы">
+<!ENTITY quitApplicationCmdWin2.accesskey   "с">
 
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Таҕыс"> 
 <!ENTITY quitApplicationCmd.accesskey   "Т">
-<!ENTITY quitApplicationCmdMac.label    "Маны &brandShortName; бүтэр">
+
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "Q">
 
 <!ENTITY closeCmd.label                 "Сап">  
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "С">
+
 
 <!ENTITY pageStyleMenu.label "Сирэй истиилэ">
 <!ENTITY pageStyleMenu.accesskey "т">
@@ -624,29 +658,33 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "Оҥоһулунна">
 <!ENTITY editBookmark.cancel.label                   "Салҕаама">
-<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
-<!ENTITY identity.unverifiedsite2 "Бу ситим-сир дьиҥнээҕин туһунан туох да суох.">
-<!ENTITY identity.connectedTo "Манна холбоммуккун">
-<!-- Localization note (identity.runBy) : This string appears between a
-domain name (above) and an organization name (below). E.g.
 
-example.com
-which is run by
-Example Enterprises, Inc.
 
-The layout of the identity dialog prevents combining this into a single string with
-substitution variables.  If it is difficult to translate the sense of the string
-with that structure, consider a translation which ignores the preceding domain and
-just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "манан салаллар">
 
-<!ENTITY identity.moreInfoLinkText "Сиһилии...">
+
+
+<!-- Strings for connection state warnings. -->
+
+
+
+<!-- Strings for connection state warnings in the subview. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY identity.permissions "Көҥүллээһин">
-<!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
-     localized title of this SUMO article
-     https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -703,7 +741,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
-
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Чааттарга барыы">
 <!ENTITY social.chatBar.accesskey "т">
@@ -717,13 +754,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.selectMicrophone.label "Микрофону холбооһун:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "М">
 
-<!-- Bad Content Blocker Doorhanger Notification -->
 
 
 
 
 
+<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
 
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
 
 
 
@@ -756,12 +798,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginNotification.width "28em">
 
 
-
-<!ENTITY tabCrashed.tryAgain "Хатылаан көр">
-
-
 <!ENTITY appMenuSidebars.label         "Ойоҕос панеллар">
-
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
@@ -779,6 +816,24 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY panicButton.view.undoWarning             "Бу дьайыы төннөрүллүбэт.">
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY emeNotificationsDontAskAgain.label       "Аныгыскыга ыйытыма">
+<!ENTITY emeNotificationsDontAskAgain.accesskey   "ы">
+<!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 
 
 

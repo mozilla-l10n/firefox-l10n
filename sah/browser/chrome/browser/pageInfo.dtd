@@ -22,7 +22,7 @@
 <!ENTITY  generalReferrer       "Сигэнэр URL:">
 <!ENTITY  generalSource         "Кээштээһин источнига:">
 <!ENTITY  generalModified       "Уларытыллыбыт:">
-<!ENTITY  generalEncoding       "Кодировката:">
+
 <!ENTITY  generalMetaName       "Аат">
 <!ENTITY  generalMetaContent    "Иһинээҕитэ">
 
@@ -82,3 +82,5 @@
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 
 <!ENTITY  securityView.technical.header                 "Техникаҕа сыһыаннаах информация">
+
+<!ENTITY  helpButton.label                              "Көмө">

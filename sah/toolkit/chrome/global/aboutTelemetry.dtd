@@ -4,9 +4,22 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Телеметрия көрдөрүүлэрэ">
 
-<!ENTITY aboutTelemetry.telemetryEnabled "   Телеметрия <span>холбонно</span>. ">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "   Телеметрия <span>араҕыста</span>. ">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutTelemetry.slowSqlSection "   Бытаан SQL-инструкция ">
 
@@ -14,6 +27,7 @@
 
 
 <!ENTITY aboutTelemetry.histogramsSection "   Гистограмма ">
+
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "   Судургу кээмэйдээһин ">
 

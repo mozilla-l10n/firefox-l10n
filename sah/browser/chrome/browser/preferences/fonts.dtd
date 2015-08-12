@@ -46,6 +46,7 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Гурмуки">
 <!ENTITY  font.langGroup.khmer                    "Кхмер">
 <!ENTITY  font.langGroup.malayalam                "Малайялам">
+
 <!ENTITY  font.langGroup.oriya                    "Ория">
 <!ENTITY  font.langGroup.telugu                   "Телугу">
 <!ENTITY  font.langGroup.kannada                  "Каннада">
@@ -63,10 +64,9 @@
 <!ENTITY  allowPagesToUse.label                   "Ситим сирдэр бэйэлэрин бичиктэрин туруорары көҥүллээ">
 <!ENTITY  allowPagesToUse.accesskey               "к">
 
-<!ENTITY languages.customize.Fallback.grouplabel  "Кодировкатын иһинээҕитинэн">
-<!ENTITY languages.customize.Fallback.label       "Саппаас кодировкалар:">
-<!ENTITY languages.customize.Fallback.accesskey   "к">
-<!ENTITY languages.customize.Fallback.desc        "Бу кодировка биллибэт кодировкалаах ситим-сирдэргэ туттуллар.">
+
+
+
 
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
