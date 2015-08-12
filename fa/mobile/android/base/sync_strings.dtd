@@ -199,6 +199,7 @@
 <!ENTITY fxaccount_remove_account_toast "حساب فایرفاکس &formatS; حذف شد">
 
 <!ENTITY fxaccount_remove_account_menu_item "حذف حساب">
+
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 
