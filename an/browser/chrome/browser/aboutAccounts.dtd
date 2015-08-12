@@ -4,7 +4,8 @@
 
 <!ENTITY aboutAccounts.welcome "Bienvenius ta &syncBrand.shortName.label;">
 
+
 <!ENTITY aboutAccountsConfig.description "Enciete una sesión ta sincronizar as suyas pestanyas, marcapachinas, claus y mas.">
 <!ENTITY aboutAccountsConfig.startButton.label "Empecipiar">
 <!ENTITY aboutAccountsConfig.useOldSync.label "Ye fendo servir una version antiga de Sync?">
-<!ENTITY aboutAccountsConfig.manage.label "Administrar">
+

@@ -110,6 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "a">
 
 <!ENTITY fxaSignIn.label "Connectar-se a &syncBrand.shortName.label;">
+
 <!ENTITY fxaSignInError.label "Tornar a connectar-se a &syncBrand.shortName.label;">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; activau">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; prencipiará a sincronizar en breu.">
@@ -126,8 +127,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "f">
 <!ENTITY fullScreenExit.label "Salir d'o modo pantalla completa">
 <!ENTITY fullScreenExit.accesskey "m">
-<!ENTITY fullscreenAllowButton.label "Permitir">
-<!ENTITY fullscreenExitButton.label "Refusar">
 
 <!ENTITY fullscreenExitHint2.value "Pretar ESC en qualsiquier momento ta zarrar.">
 <!ENTITY leaveDOMFullScreen.label "Salir d'a pantalla completa">
@@ -395,6 +394,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.placeholder2          "Termen a mirar u adreza">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Ir ta la pestanya:">
+
+
+<!ENTITY urlbar.searchSuggestionsNotification.disable "No">
+<!ENTITY urlbar.searchSuggestionsNotification.enable "Sí">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -419,6 +422,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
+<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
+     These are set as the aria-label attribute for the search input box and
+     submit button in the in-content search UI, to be used by screen readers. -->
+
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -634,6 +641,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "Z">
 
+
 <!ENTITY pageStyleMenu.label "Estilo de pachina">
 <!ENTITY pageStyleMenu.accesskey "i">
 <!ENTITY pageStyleNoStyle.label "Sin estilo">
@@ -672,12 +680,31 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "Rematar">
 <!ENTITY editBookmark.cancel.label                   "Cancelar">
-<!ENTITY editBookmark.removeBookmark.accessKey       "r">
+
 
 <!ENTITY identity.connectionSecure "Connexión segura">
 <!ENTITY identity.connectionNotSecure "A connexion no ye segura">
+
 <!ENTITY identity.connectionVerified "&brandShortName; ha verificau que yes connectau a iste puesto de traza segura, fendo:">
 <!ENTITY identity.connectionInternal "Ista ye una pachina segura de &brandShortName;.">
+<!-- Strings for connection state warnings. -->
+
+
+
+<!-- Strings for connection state warnings in the subview. -->
+
+
+
+
+
+
+
+
+
+
+<!ENTITY identity.disableMixedContentBlocking.label "Desactivar a protección por agora">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "D">
+
 
 <!ENTITY identity.moreInfoLinkText2 "Mas información">
 
@@ -754,27 +781,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "Microfono ta compartir:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+
 <!ENTITY getUserMedia.allWindowsShared.message "Se compartirán todas as finestras visibles en a suya pantalla.">
-<!-- Bad Content Blocker Doorhanger Notification -->
 
-<!ENTITY badContentBlocked.moreinfo "A mayoría de puestos web funcionan adequadament mesmo si i ha contenius blocaus.">
 
-<!ENTITY mixedContentBlocked2.message "Conteniu no seguro">
-<!ENTITY mixedContentBlocked2.moreinfo "S'ha blocau bells elementos no zifraus d'ista web.">
-<!ENTITY mixedContentBlocked2.learnMore "Saber-ne mas">
-<!ENTITY mixedContentBlocked2.options "Opcions">
-<!ENTITY mixedContentBlocked2.unblock.label "Desactivar a protección por agora">
-<!ENTITY mixedContentBlocked2.unblock.accesskey "D">
-<!ENTITY mixedContentBlocked2.block.label "Activar a protección">
-<!ENTITY mixedContentBlocked2.block.accesskey "v">
-<!ENTITY mixedContentBlocked2.disabled.message "A protección ye desactivada">
+
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+
+
+
 
 <!ENTITY trackingContentBlocked.message "Seguimiento">
 <!ENTITY trackingContentBlocked.moreinfo "S'ha blocau bellas partes d'a pachina que fan seguimiento d'a suya actividat online">
 <!ENTITY trackingContentBlocked.learnMore "Saber-ne mas">
-<!ENTITY trackingContentBlocked.options "Opcions">
-<!ENTITY trackingContentBlocked.unblock2.label "Desactivar a protección ta iste puesto">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
+
+
+
 <!ENTITY trackingContentBlocked.block.label "Activar a protección">
 <!ENTITY trackingContentBlocked.block.accesskey "v">
 <!ENTITY trackingContentBlocked.disabled.message "A protección d'o seguimiento ye desactivada">
@@ -840,18 +869,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeNotificationsNotNow.accesskey         "N">
 <!ENTITY emeNotificationsDontAskAgain.label       "No tornar a preguntar-me">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "N">
-
-<!ENTITY readingList.label                        "Lista de lectura">
-<!ENTITY readingList.sidebar.commandKey           "R">
-<!ENTITY readingList.showSidebar.label            "Barra lateral d'amostrar a lista de lectura">
-<!-- Pre-landed string for bug 1124153 -->
-<!ENTITY readingList.sidebar.showMore.label       "Amostrar-ne mas…">
-<!-- Pre-landed string for bug 1133662 -->
-<!ENTITY readingList.sidebar.emptyText            "Anyade articlos ta la tuya Lista de Lectura ta alzar-los y que dimpués sigan de buen trobar quan te faigan falta.">
-<!ENTITY readingList.sidebar.delete.tooltip       "Elimina isto d'a tuya Lista de Lectura">
-<!-- Pre-landed strings for bug 1123519 -->
-<!ENTITY readingList.sidebar.add.label            "Anyade en la Lista de Lectura">
-<!ENTITY readingList.sidebar.add.tooltip          "Anyade ista pachina en a tuya Lista de Lectura">
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 
 <!ENTITY saveToPocketCmd.label     "Alzar o vinclo en Pocket">

@@ -4,12 +4,14 @@
 
 <!ENTITY tracking.label                 "Seguimiento">
 
-<!ENTITY dntTrackingNotOkay.label2      "Decir a os puestos web que no quiero que me sigan">
-<!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY trackingProtection.label       "Priva que atros puestos web sigan o que foi.">
-<!ENTITY trackingProtection.accesskey   "n">
-<!ENTITY trackingProtectionLearnMore.label "Saber-ne mas">
-<!ENTITY doNotTrackInfo.label           "Saber-ne mas">
+
+<!ENTITY doNotTrackInfo.label          "Saber-ne mas">
+
+
+
+
+
+
 
 <!ENTITY  history.label                 "Historial">
 
@@ -24,6 +26,8 @@
 <!ENTITY  locbar.openpage.accesskey     "O">
 <!ENTITY  locbar.searches.label         "Buscas relacionadas con o motor de busca predeterminau">
 <!ENTITY  locbar.searches.accesskey     "d">
+
+
 
 <!ENTITY  acceptCookies.label           "Acceptar cookies d'os puestos web">
 <!ENTITY  acceptCookies.accesskey       "A">
