@@ -4,15 +4,19 @@
 
 <!ENTITY tracking.label                 "നിരീക്ഷണം">
 
-<!ENTITY dntTrackingNotOkay.label2      "നിരീക്ഷണത്തിന്റെ ആവശ്യമില്ലെന്നു് വെബ് സൈറ്റുകളെ അറിയിയ്ക്കുക">
-<!ENTITY dntTrackingNotOkay.accesskey   "n">
+
+<!ENTITY doNotTrackInfo.label          "കൂടുതല്‍ അറിയുക">
 
 
 
-<!ENTITY doNotTrackInfo.label           "കൂടുതല്‍ അറിയുക">
+
+
+
 
 
 <!ENTITY  locationBar.label             "സ്ഥാന തട്ട്">
+
+
 
 
 
