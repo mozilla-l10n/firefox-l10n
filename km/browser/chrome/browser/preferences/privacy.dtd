@@ -4,12 +4,14 @@
 
 <!ENTITY tracking.label                 "តាមដាន">
 
-<!ENTITY dntTrackingNotOkay.label2      "ប្រាប់​តំបន់បណ្ដាញ​ថា ខ្ញុំ​មិន​ចង់​ឲ្យ​គេ​តាមដាន​ខ្ញុំ​ទេ។">
-<!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY trackingProtection.label       "ការ​ពារ​តំបន់​បណ្ដាញ​ពី​ការ​តាមដាន​របស់​ខ្ញុំ">
-<!ENTITY trackingProtection.accesskey   "m">
-<!ENTITY trackingProtectionLearnMore.label "ស្វែងយល់​បន្ថែម">
-<!ENTITY doNotTrackInfo.label           "សិក្សា​​បន្ថែម">
+
+<!ENTITY doNotTrackInfo.label          "សិក្សា​​បន្ថែម">
+
+
+
+
+
+
 
 <!ENTITY  history.label                 "ប្រវត្តិ">
 
@@ -22,6 +24,8 @@
 <!ENTITY  locbar.bookmarks.accesskey    "ច">
 <!ENTITY  locbar.openpage.label         "បើក​ផ្ទាំង">
 <!ENTITY  locbar.openpage.accesskey     "ប">
+
+
 
 
 

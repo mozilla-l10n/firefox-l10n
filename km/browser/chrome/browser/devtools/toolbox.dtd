@@ -162,11 +162,6 @@
 
 <!ENTITY options.stylesheetAutocompletion.label      "CSS  បំពេញ​ស្វ័យប្រវត្តិ">
 <!ENTITY options.stylesheetAutocompletion.tooltip    "លក្ខណសម្បត្តិ​ CSS បំពេញ​ស្វ័យប្រវត្តិ, តម្លៃ និង​កម្មវិធី​ជ្រើស​ក្នុង​កម្មវិធី​កែ​រចនាប័ទ្ម​​ដូច​ដែល​អ្នក​វាយ">
-<!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
-  -  heading of the group of JavaScript Profiler preferences in the options
-  -  panel. -->
-
-<!ENTITY options.profiler.label            "កម្មវិធី​បង្កើត​ទម្រង់ JavaScript">
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->

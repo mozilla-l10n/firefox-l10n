@@ -110,6 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "ទ">
 
 <!ENTITY fxaSignIn.label "ចូល​ទៅកាន់ &syncBrand.shortName.label;">
+
 <!ENTITY fxaSignInError.label "តភ្ជាប់​ឡើង​វិញ​ទៅកាន់ &syncBrand.shortName.label;">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; បាន​បើក">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; នឹង​កំពុង​ត្រូវ​បាន​ធ្វើ​សមកាលកម្ម​ឥឡូវនេះ។">
@@ -126,8 +127,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "ល">
 <!ENTITY fullScreenExit.label "ចេញពីរបៀប​ពេញ​អេក្រង់">
 <!ENTITY fullScreenExit.accesskey "រ">
-<!ENTITY fullscreenAllowButton.label "អនុញ្ញាត">
-<!ENTITY fullscreenExitButton.label "បដិសេធ">
 
 <!ENTITY fullscreenExitHint2.value "ចុច​គ្រាប់ចុច​​គេច (ESC) នៅ​ពេល​ចង់​ចេញ។">
 <!ENTITY leaveDOMFullScreen.label "ចេញពីពេញ​អេក្រង់">
@@ -395,6 +394,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.placeholder2          "ស្វែងរក ឬ​បញ្ចូល​អាសយដ្ឋាន">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "ប្ដូរ​ទៅ​ផ្ទាំង៖">
+
+
+<!ENTITY urlbar.searchSuggestionsNotification.disable "ទេ">
+<!ENTITY urlbar.searchSuggestionsNotification.enable "បាទ/ចាស">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -419,6 +422,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
+<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
+     These are set as the aria-label attribute for the search input box and
+     submit button in the in-content search UI, to be used by screen readers. -->
+
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -634,6 +641,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "ប">
 
+
 <!ENTITY pageStyleMenu.label "រចនាប័ទ្ម​ទំព័រ">
 <!ENTITY pageStyleMenu.accesskey "រ">
 <!ENTITY pageStyleNoStyle.label "គ្មាន​រចនាប័ទ្ម">
@@ -672,12 +680,31 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "ធ្វើ​រួច">
 <!ENTITY editBookmark.cancel.label                   "បោះបង់">
-<!ENTITY editBookmark.removeBookmark.accessKey       "R">
+
 
 <!ENTITY identity.connectionSecure "ការ​តភ្ជាប់​ដែលមាន​សុវត្ថិភាព">
 <!ENTITY identity.connectionNotSecure "ការតភ្ជាប់​ពុំ​មាន​សុវត្ថិភាព">
+
 <!ENTITY identity.connectionVerified "&brandShortName; ផ្ទៀងផ្ទាត់​ថា​អ្នកបាន​តភ្ជាប់​ដោយសុវត្ថិភាព​ទៅ​តំបន់បណ្តាញ ដែលដំណើរការដោយ៖">
 <!ENTITY identity.connectionInternal "នេះគឺជាទំព័រ &brandShortName; ដែល​មាន​សុវត្ថិភាព">
+<!-- Strings for connection state warnings. -->
+
+
+
+<!-- Strings for connection state warnings in the subview. -->
+
+
+
+
+
+
+
+
+
+
+<!ENTITY identity.disableMixedContentBlocking.label "បង្ហាញ​ការ​ការពារ​ឥឡូវ">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "D">
+
 
 <!ENTITY identity.moreInfoLinkText2 "ព័ត៌មាន​បន្ថែម">
 
@@ -754,27 +781,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "ម">
 <!ENTITY getUserMedia.selectMicrophone.label "មីក្រូហ្វូន​ដែល​ត្រូវ​ចែករំលែក៖">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "ម">
+
 <!ENTITY getUserMedia.allWindowsShared.message "បង្អួច​ទាំងអស់​​ដែល​អាច​មើល​ឃើញ​នៅ​លើ​អេក្រង់​របស់​អ្នក​នឹង​ត្រូវ​បាន​ចែករំលែក។">
-<!-- Bad Content Blocker Doorhanger Notification -->
 
-<!ENTITY badContentBlocked.moreinfo "វេបសាយ​ភាគច្រើន​នឹង​នៅតែ​ដំណើរការ​ជា​ធម្មតា ទោះបីជា​មាតិកា​នេះ​​ត្រូវ​បាន​​ទប់​ស្កាត់​​ក៏​ដោយ។">
 
-<!ENTITY mixedContentBlocked2.message "មាតិកា​មិន​មាន​សុវត្ថិភាព">
-<!ENTITY mixedContentBlocked2.moreinfo "ធាតុ​ដែល​មិន​បាន​អ៊ិនគ្រីប​មួយ​ចំនួន​នៅ​លើ​វេបសាយ​នេះ​ត្រូវ​បាន​ទប់ស្កាត់។">
-<!ENTITY mixedContentBlocked2.learnMore "ស្វែងយល់​បន្ថែម">
-<!ENTITY mixedContentBlocked2.options "ជម្រើស">
-<!ENTITY mixedContentBlocked2.unblock.label "បង្ហាញ​ការ​ការពារ​ឥឡូវ">
-<!ENTITY mixedContentBlocked2.unblock.accesskey "D">
-<!ENTITY mixedContentBlocked2.block.label "បើក​ការការពារ">
-<!ENTITY mixedContentBlocked2.block.accesskey "E">
-<!ENTITY mixedContentBlocked2.disabled.message "ការ​ការពារ​ត្រូវ​បាន​បិទ">
+
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+
+
+
 
 <!ENTITY trackingContentBlocked.message "តាមដាន">
 <!ENTITY trackingContentBlocked.moreinfo "ផ្នែក​ទំព័រ​ដែល​តាមដាន​សកម្មភាព​លើ​បណ្ដាញ​របស់​អ្នក​ត្រូវ​បាន​ទប់ស្កាត់។">
 <!ENTITY trackingContentBlocked.learnMore "ស្វែងយល់​បន្ថែម">
-<!ENTITY trackingContentBlocked.options "ជម្រើស">
-<!ENTITY trackingContentBlocked.unblock2.label "បិទ​ការ​ការពារ​សម្រាប់​តំបន់​បណ្ដាញ​នេះ">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
+
+
+
 <!ENTITY trackingContentBlocked.block.label "បើក​ការការពារ">
 <!ENTITY trackingContentBlocked.block.accesskey "E">
 <!ENTITY trackingContentBlocked.disabled.message "បិទ​ការ​ការ​ពារ​ការ​តាមដាន">
@@ -840,18 +869,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeNotificationsNotNow.accesskey         "ម">
 <!ENTITY emeNotificationsDontAskAgain.label       "កុំ​សួរ​ខ្ញុំ​ម្ដងទៀត">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "ក">
-
-<!ENTITY readingList.label                        "បញ្ជី​អាន">
-<!ENTITY readingList.sidebar.commandKey           "R">
-<!ENTITY readingList.showSidebar.label            "បង្ហាញ​របារ​ចំហៀង​នៃ​បញ្ជី​អាន">
-<!-- Pre-landed string for bug 1124153 -->
-<!ENTITY readingList.sidebar.showMore.label       "បង្ហាញ​ច្រើន​ទៀត...">
-<!-- Pre-landed string for bug 1133662 -->
-<!ENTITY readingList.sidebar.emptyText            "បន្ថែម​អត្ថបទ​ទៅកាន់​បញ្ជី​អាន​របស់​អ្នក​ដើម្បី​រក្សាទុក​ពួកវា​នៅ​ពេល​ក្រោយ និង​ងាយស្រួល​រក​ពួកវា​ពេល​អ្នក​ត្រូវការ។">
-<!ENTITY readingList.sidebar.delete.tooltip       "លុប​វា​ចេញពី​បញ្ជី​អាន​របស់​អ្នក">
-<!-- Pre-landed strings for bug 1123519 -->
-<!ENTITY readingList.sidebar.add.label            "បន្ថែម​ទៅ​បញ្ជី​អាន">
-<!ENTITY readingList.sidebar.add.tooltip          "បន្ថែម​ទំព័រ​នេះ​ទៅកាន់​បញ្ជី​អាន​របស់​អ្នក">
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 
 <!ENTITY saveToPocketCmd.label     "ធ្វើការ​រក្សាទុកទំព័រទៅក្នុង Pocket">
