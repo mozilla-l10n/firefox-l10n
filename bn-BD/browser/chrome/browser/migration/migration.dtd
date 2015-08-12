@@ -11,12 +11,18 @@
 
 <!ENTITY importFromIE.label             "মাইক্রোসফট ইন্টারনেট এক্সপ্লোরার (M)">
 <!ENTITY importFromIE.accesskey         "M">
+
+
 <!ENTITY importFromNothing.label        "কিছুই ইমপোর্ট করা হবে না (D)">
 <!ENTITY importFromNothing.accesskey    "D">
 <!ENTITY importFromSafari.label         "সাফারি (S)">
 <!ENTITY importFromSafari.accesskey     "S">
+
+
 <!ENTITY importFromChrome.label         "ক্রোম C">
 <!ENTITY importFromChrome.accesskey     "C">
+
+
 <!ENTITY importFromFirefox.label        "ফায়ারফক্স x">
 <!ENTITY importFromFirefox.accesskey    "x">
 <!ENTITY importFrom360se.label          "360 নিরাপদ ব্রাউজার">
