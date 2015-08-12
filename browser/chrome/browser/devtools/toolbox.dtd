@@ -7,6 +7,9 @@
 
 <!ENTITY closeCmd.key  "W">
 
+<!ENTITY toggleToolboxF12.keycode          "VK_F12">
+<!ENTITY toggleToolboxF12.keytext          "F12">
+
 <!ENTITY toolboxCloseButton.tooltip    "डेवलेपरक टूलबार बन्न करू">
 <!ENTITY toolboxOptionsButton.key      "O">
 <!ENTITY toolboxNextTool.key           "]">
@@ -19,10 +22,14 @@
 <!ENTITY toolboxZoomReset.key          "0">
 
 <!ENTITY toolboxReload.key             "r">
+<!-- This key is used with the accel+shift modifiers to minimize the toolbox -->
+
 <!-- LOCALIZATION NOTE (toolboxFramesButton): This is the label for
   -  the iframes menu list that appears only when the document has some.
   -  It allows you to switch the context of the whole toolbox. -->
 <!ENTITY toolboxFramesTooltip          "iframe केँ बतौर लक्षित दस्तावेज़ केर रूप मे चुनू">
+<!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
+  -  shown next to error details when the Browser Toolbox is unable to open. -->
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 
@@ -73,14 +80,16 @@
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 
-<!ENTITY options.enableChrome.label4    "क्रोम आओर सहयुक्ति डिबगिंग सक्रिय करू">
-<!ENTITY options.enableChrome.tooltip2  "एहि विकल्प केँ चालू कएनाइ अहाँक ब्राउज़र संदर्भ मे कइटा डेवलपर टूल केँ उपयोग करबाक केर स्वीकृति देत आओर सहयुक्ति प्रबंधक सँ हुनका डिबग करताह">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableRemote.label3    "दूरस्थ डिबगिंग सक्रिय करू">
 <!ENTITY options.enableRemote.tooltip   "ई विकल्पकेँ चालू कएनाइ डेवलेपर अओजारक उपयोग ब्राउजर संदर्भमे फायरफाक्सकेँ तरहसँ दूरसँ">
+<!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
+  -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
+  -  boolean preference in about:config, in the options panel. -->
+
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
@@ -92,7 +101,11 @@
   -  tooltip for the checkbox that toggles the cache on or off. -->
 
 <!ENTITY options.disableCache.label2     "कैश निष्क्रिय करू (जखन अओज़ारपेटी खुलल अछि)">
-<!ENTITY options.disableCache.tooltip2   "ई विकल्प केँ बंद कएनाइ सभ टैब केर कैश केँ निष्क्रिय कए देत जकर अओजारपेटी खुलल अछि.">
+
+<!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
+  -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
+  -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
+
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
@@ -122,8 +135,6 @@
 <!-- LOCALIZATION NOTE (options.usedeveditiontheme.*) Options under the
   -  toolbox for enabling and disabling the Developer Edition browser theme. -->
 
-<!ENTITY options.usedeveditiontheme.label   "डेवलेपर संस्करण ब्राउज प्रसंग केर उपयोग करू">
-<!ENTITY options.usedeveditiontheme.tooltip "डेवलेपर संस्करण ब्राउजर थीम टॉगल करू.">
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
 
@@ -148,11 +159,6 @@
 
 <!ENTITY options.stylesheetAutocompletion.label      "स्वतःपूर्ण CSS">
 <!ENTITY options.stylesheetAutocompletion.tooltip    "स्वतःपूर्ण CSS विशेषता, मान आओर शैली संपादक मे चयनक अहाँक टाइप करए केर दौरान">
-<!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
-  -  heading of the group of JavaScript Profiler preferences in the options
-  -  panel. -->
-
-<!ENTITY options.profiler.label            "जावास्क्रिप्ट प्रोफाइलर">
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->

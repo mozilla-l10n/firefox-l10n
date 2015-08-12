@@ -35,7 +35,7 @@
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", एकटा ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "वैश्विक समुदाय">
+<!ENTITY community.creditsLink      "वैश्विक समुदाय ">
 <!ENTITY community.end3             " वेब केँ मुक्त, सार्वजनिक आओर सभक लेल सुलभ बनैबाक लेल संयुक्त रूप सँ प्रयासरत.">
 
 <!ENTITY helpus.start               "मदति करए चाहैत छी?">

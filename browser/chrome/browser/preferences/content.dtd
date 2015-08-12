@@ -43,8 +43,6 @@
 <!ENTITY translation.options.attribution.beforeLogo "द्वारा अनूदित">
 <!ENTITY translation.options.attribution.afterLogo "">
 
-<!ENTITY  drmContent.label             "DRM सामग्री">
 
-<!ENTITY  playDRMContent.label         "DRM सामग्री बजाबू">
-<!ENTITY  playDRMContent.accesskey     "P">
+
 <!ENTITY  playDRMContent.learnMore.label "आओर जानू">

@@ -31,8 +31,6 @@
      in the inspector contextual-menu for the item that lets users paste inner
      HTML in the current node -->
 
-<!ENTITY inspectorHTMLPasteInner.label      "आंतरिक HTML साटू">
-<!ENTITY inspectorHTMLPasteInner.accesskey  "n">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteExtraSubmenu.label): This is the label
      shown in the inspector contextual-menu for the sub-menu of the other Paste
      items, which allow to paste HTML:
@@ -41,36 +39,29 @@
      - as the first child of the current node
      - as the last child of the current node -->
 
-<!ENTITY inspectorHTMLPasteExtraSubmenu.label      "साटू…">
-<!ENTITY inspectorHTMLPasteExtraSubmenu.accesskey  "t">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteBefore.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste
      the HTML before the current node -->
 
-<!ENTITY inspectorHTMLPasteBefore.label      "पहले">
-<!ENTITY inspectorHTMLPasteBefore.accesskey  "प">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteAfter.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste
      the HTML after the current node -->
 
-<!ENTITY inspectorHTMLPasteAfter.label       "बाद">
-<!ENTITY inspectorHTMLPasteAfter.accesskey   "ब">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteFirstChild.label): This is the label
      shown in the inspector contextual-menu for the item that lets users paste
      the HTML as the first child the current node -->
 
-<!ENTITY inspectorHTMLPasteFirstChild.label      "प्रथम संतति बतौर">
-<!ENTITY inspectorHTMLPasteFirstChild.accesskey  "F">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteLastChild.label): This is the label
      shown in the inspector contextual-menu for the item that lets users paste
      the HTML as the last child the current node -->
 
-<!ENTITY inspectorHTMLPasteLastChild.label       "अंतिम संतति बतौर">
-<!ENTITY inspectorHTMLPasteLastChild.accesskey   "L">
+<!-- LOCALIZATION NOTE (inspectorScrollNodeIntoView.label): This is the label
+     shown in the inspector contextual-menu for the item that lets users scroll
+     the current node into view -->
+
 <!-- LOCALIZATION NOTE (inspectorHTMLDelete.label): This is the label shown in
      the inspector contextual-menu for the item that lets users delete the
      current node -->
-
 
 <!ENTITY inspectorHTMLDelete.label          "नोड मेटाउ">
 <!ENTITY inspectorHTMLDelete.accesskey      "D">
@@ -78,9 +69,12 @@
 <!ENTITY inspector.selectButton.tooltip     "माउस सँ तत्व चुनू">
 <!-- LOCALIZATION NOTE (inspectorSearchHTML.label2): This is the label shown as
      the placeholder in inspector search box -->
-
-<!ENTITY inspectorSearchHTML.label2          "CSS सेलेक्टर सँ खोजू">
 <!ENTITY inspectorSearchHTML.key            "F">
+<!-- LOCALIZATION NOTE (inspectorSearchHTML.label3): This is the label that will
+     be shown as the placeholder in the future, once the inspector search box
+     supports the full text HTML search in Bug 835896. -->
+
+<!ENTITY inspectorSearchHTML.label3 "खोजू HTML">
 <!-- LOCALIZATION NOTE (inspectorCopyImageDataUri.label): This is the label
      shown in the inspector contextual-menu for the item that lets users copy
      the URL embedding the image data encoded in Base 64 (what we name
@@ -92,5 +86,14 @@
      shown in the inspector contextual-menu for the item that lets users see
      the DOM properties of the current node. When triggered, this item
      opens the split Console and displays the properties in its side panel. -->
+<!-- LOCALIZATION NOTE (inspectorExpandNode.label): This is the label
+     shown in the inspector contextual-menu for recursively expanding
+     mark-up elements -->
+<!-- LOCALIZATION NOTE (inspectorCollapseNode.label): This is the label
+     shown in the inspector contextual-menu for recursively collapsing
+     mark-up elements -->
 
-<!ENTITY inspectorShowDOMProperties.label       "DOM गुण देखाबू">
+<!ENTITY inspectorCollapseNode.label       "समेटू">
+<!-- LOCALIZATION NOTE (inspectorScreenshotNode.label): This is the label
+     shown in the inspector contextual-menu for the item that lets users take
+     a screenshot of the currently selected node. -->

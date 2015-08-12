@@ -5,9 +5,8 @@
 <!ENTITY aboutSupport.pageTitle "विघ्ननिवारण सूचना">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "  This page contains technical information that might be useful when you're 
-trying to solve a problem. If you are looking for answers to common questions 
-about &brandShortName;, check out our <a id='supportLink'>support website</a>.">
+<!ENTITY aboutSupport.pageSubtitle "  This  page contains technical information that might be useful when you're trying to solve a problem. If you are looking for answers to common questions 
+about &brandShortName;, check out our <a id='supportLink'>support web site</a>.">
 
 <!ENTITY aboutSupport.crashes.title "क्रैश रिपोर्टर">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
@@ -53,8 +52,10 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsBuildConfig "बिल्ड विन्यास">
 <!ENTITY aboutSupport.appBasicsUserAgent "प्रयोक्ता प्रतिनिधि">
 <!ENTITY aboutSupport.appBasicsMemoryUse "स्मृति के उपयोग">
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "मल्टी प्रोसेस विंडोज़">
+
 
 <!ENTITY aboutSupport.showDir.label "खुलल निर्देशिका">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
