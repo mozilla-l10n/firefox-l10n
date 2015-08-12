@@ -16,7 +16,6 @@
 
 <!ENTITY manageAccount.label          "Kontu juwal">
 <!ENTITY manageAccount.accesskey      "l">
-<!ENTITY viewQuota.label              "Baa guna">
 <!ENTITY changePassword2.label        "Šennikufal barmay...">
 <!ENTITY myRecoveryKey.label          "Ay kurmayan kufaloo">
 <!ENTITY resetSync2.label             "Sync yeeti...">
@@ -26,8 +25,6 @@
 <!ENTITY syncMy.label               "Hangandi cere">
 <!ENTITY engine.bookmarks.label     "Doo-šilbawey">
 <!ENTITY engine.bookmarks.accesskey "D">
-<!ENTITY engine.readinglist.label   "Caw maašeede">
-<!ENTITY engine.readinglist.accesskey "m">
 <!ENTITY engine.tabs.label          "Nor lokey">
 <!ENTITY engine.tabs.accesskey      "N">
 <!ENTITY engine.history.label       "Taariki">
@@ -74,13 +71,24 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "War mana huru.">
 <!ENTITY signIn.label                "Huru">
+
 <!ENTITY manage.label                "Juwal">
 <!ENTITY disconnect.label            "Ciyari dunbu…">
 <!ENTITY verify.label                "Bbataga aderesu koroši">
 <!ENTITY forget.label                "Dirŋa bataga aderesoo woo">
 
 <!ENTITY welcome.description "War nor lokey, doo-šilbawey, šennikufaley nda haya taney guna waati kul kaŋ war ga goy nda &brandShortName;.">
-<!ENTITY welcome.signIn.label "Huru">
-<!ENTITY welcome.createAccount.label "Kontu tee">
+
+
 
 <!ENTITY welcome.useOldSync.label "War ga goy nda Sync dumi žeena?">
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+
+

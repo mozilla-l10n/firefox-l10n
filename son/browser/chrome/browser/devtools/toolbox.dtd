@@ -169,11 +169,6 @@
 
 <!ENTITY options.stylesheetAutocompletion.label      "CSS boŋtimmandi">
 <!ENTITY options.stylesheetAutocompletion.tooltip    "CSS boŋtimmandi mayrawey, hinnawey nda suubakey takari fasalkaa ra waati kaŋ war ga hantum">
-<!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
-  -  heading of the group of JavaScript Profiler preferences in the options
-  -  panel. -->
-
-<!ENTITY options.profiler.label            "JavaScript alhaali teekaw">
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->

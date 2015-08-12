@@ -4,12 +4,14 @@
 
 <!ENTITY tracking.label                 "Kuryan">
 
-<!ENTITY dntTrackingNotOkay.label2      "Nee nungey se ay ši baa boro m'ay gana.">
-<!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY trackingProtection.label       "Ganji nungey ma war gana">
-<!ENTITY trackingProtection.accesskey   "m">
-<!ENTITY trackingProtectionLearnMore.label "Bay ka tonton">
-<!ENTITY doNotTrackInfo.label           "Bay ka tonton">
+
+<!ENTITY doNotTrackInfo.label          "Bay ka tonton">
+
+
+
+
+
+
 
 <!ENTITY  history.label                 "Taariki">
 
@@ -22,6 +24,8 @@
 <!ENTITY  locbar.bookmarks.accesskey    "i">
 <!ENTITY  locbar.openpage.label         "Nor lokey feeri">
 <!ENTITY  locbar.openpage.accesskey     "f">
+
+
 
 
 

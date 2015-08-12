@@ -110,6 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "N">
 
 <!ENTITY fxaSignIn.label "Huru &syncBrand.shortName.label; ra">
+
 <!ENTITY fxaSignInError.label "Huru &syncBrand.shortName.label; ra taaga">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; tunandi">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; ka šintin ka hangandi kayna da.">
@@ -126,8 +127,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "t">
 <!ENTITY fullScreenExit.label "Dijikul alhaali naŋ">
 <!ENTITY fullScreenExit.accesskey "D">
-<!ENTITY fullscreenAllowButton.label "Noo fondo">
-<!ENTITY fullscreenExitButton.label "Wanji">
 
 <!ENTITY fullscreenExitHint2.value "ESC naagu waati kul ka fatta.">
 <!ENTITY leaveDOMFullScreen.label "Dijikul alhaali naŋ">
@@ -395,6 +394,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.placeholder2          "Ceeci wala aderesu dam">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Bere nor loku ga:">
+
+
+<!ENTITY urlbar.searchSuggestionsNotification.disable "Kalaa">
+<!ENTITY urlbar.searchSuggestionsNotification.enable "Ayyo">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -419,6 +422,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
+<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
+     These are set as the aria-label attribute for the search input box and
+     submit button in the in-content search UI, to be used by screen readers. -->
+
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -634,6 +641,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "D">
 
+
 <!ENTITY pageStyleMenu.label "Moo fasal">
 <!ENTITY pageStyleMenu.accesskey "f">
 <!ENTITY pageStyleNoStyle.label "Fasal kul ši">
@@ -672,12 +680,31 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "Ben">
 <!ENTITY editBookmark.cancel.label                   "Naŋ">
-<!ENTITY editBookmark.removeBookmark.accessKey       "R">
+
 
 <!ENTITY identity.connectionSecure "Ciyari moora">
 <!ENTITY identity.connectionNotSecure "Ciyaroo manti saajante">
+
 <!ENTITY identity.connectionVerified "&brandShortName; tabatandi kaŋ war ciya nda saajaw nungoo woo, kaŋ ga dira nda:">
 <!ENTITY identity.connectionInternal "Woo ti &brandShortName; moo saajante.">
+<!-- Strings for connection state warnings. -->
+
+
+
+<!-- Strings for connection state warnings in the subview. -->
+
+
+
+
+
+
+
+
+
+
+<!ENTITY identity.disableMixedContentBlocking.label "Jejebu kaa sohõ se">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "D">
+
 
 <!ENTITY identity.moreInfoLinkText2 "Alhabar tontoni">
 
@@ -754,27 +781,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "z">
 <!ENTITY getUserMedia.selectMicrophone.label "Jindezaahaya kaŋ ka žemna:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "m">
+
 <!ENTITY getUserMedia.allWindowsShared.message "Zanfun kaŋ ga banga war dijoo ga kul ga žemnandi.">
-<!-- Bad Content Blocker Doorhanger Notification -->
 
-<!ENTITY badContentBlocked.moreinfo "Interneti doo boobey ga goy boryo ba nda gundekunaa woo gagayandi.">
 
-<!ENTITY mixedContentBlocked2.message "Gundekuna kaŋ ga naanay šii">
-<!ENTITY mixedContentBlocked2.moreinfo "Na hayi-ize fooyaŋ kaŋ mana kufalandi nungoo woo ga gagay.">
-<!ENTITY mixedContentBlocked2.learnMore "Bay ka tonton">
-<!ENTITY mixedContentBlocked2.options "Suubarey">
-<!ENTITY mixedContentBlocked2.unblock.label "Jejebu kaa sohõ se">
-<!ENTITY mixedContentBlocked2.unblock.accesskey "D">
-<!ENTITY mixedContentBlocked2.block.label "Jejebuyan tunandi">
-<!ENTITY mixedContentBlocked2.block.accesskey "e">
-<!ENTITY mixedContentBlocked2.disabled.message "Jejeboo kayandi">
+
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+
+
+
 
 <!ENTITY trackingContentBlocked.message "Kuryan">
 <!ENTITY trackingContentBlocked.moreinfo "Ir na moo-kunawey kaŋyaŋ ga war monno interneti bande gagay.">
 <!ENTITY trackingContentBlocked.learnMore "Bay ka tonton">
-<!ENTITY trackingContentBlocked.options "Suubarey">
-<!ENTITY trackingContentBlocked.unblock2.label "Jejeboo kaa moɲoo woo se">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "a">
+
+
+
 <!ENTITY trackingContentBlocked.block.label "Jejebuyan tunandi">
 <!ENTITY trackingContentBlocked.block.accesskey "e">
 <!ENTITY trackingContentBlocked.disabled.message "Monnoyan jejebu n' ka kay">
@@ -840,18 +869,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeNotificationsNotNow.accesskey         "n">
 <!ENTITY emeNotificationsDontAskAgain.label       "Ma ši ay hãa koyne">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "M">
-
-<!ENTITY readingList.label                        "Caw maašeede">
-<!ENTITY readingList.sidebar.commandKey           "R">
-<!ENTITY readingList.showSidebar.label            "Caw maašeede ceraw zuu cebe">
-<!-- Pre-landed string for bug 1124153 -->
-<!ENTITY readingList.sidebar.showMore.label       "Cebe ka tonton…">
-<!-- Pre-landed string for bug 1133662 -->
-<!ENTITY readingList.sidebar.emptyText            "Hantumey tonton war caw maašeedaa ga k'i gaabu hiino se nda ka duu w'ey nda faala waati kaŋ war ga baa.">
-<!ENTITY readingList.sidebar.delete.tooltip       "Kaa caw maašeedaa ra">
-<!-- Pre-landed strings for bug 1123519 -->
-<!ENTITY readingList.sidebar.add.label            "Tonton caw maašeedaa ga">
-<!ENTITY readingList.sidebar.add.tooltip          "Moɲoo woo tonton war caw maašeedaa ga">
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 
 <!ENTITY saveToPocketCmd.label     "Moɲoo gaabu Pocket ga">
