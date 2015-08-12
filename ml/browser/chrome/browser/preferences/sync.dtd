@@ -16,7 +16,6 @@
 
 <!ENTITY manageAccount.label          "അക്കൌണ്ട് കൈകാര്യം ചെയ്യുക">
 <!ENTITY manageAccount.accesskey      "n">
-<!ENTITY viewQuota.label              "കോട്ട കാണുക">
 <!ENTITY changePassword2.label        "രഹസ്യവാക്ക് മാറ്റുക…">
 <!ENTITY myRecoveryKey.label          "എന്റെ വീണ്ടെടുക്കല്‍ കീ">
 <!ENTITY resetSync2.label             "സിന്‍ക് വീണ്ടും സജ്ജമാക്കുക…">
@@ -26,8 +25,6 @@
 <!ENTITY syncMy.label               "സിന്‍ക് ചെയ്യുക">
 <!ENTITY engine.bookmarks.label     "അടയാളക്കുറിപ്പുകള്‍">
 <!ENTITY engine.bookmarks.accesskey "m">
-
-
 <!ENTITY engine.tabs.label          "റ്റാബുകള്‍">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "നാള്‍വഴി">
@@ -74,13 +71,24 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "നിങ്ങള്‍ പ്രവേശിച്ചിട്ടില്ല.">
 <!ENTITY signIn.label                "പ്രവേശിയ്ക്കുക">
+
 <!ENTITY manage.label                "കൈകാര്യം ചെയ്യൂ">
 <!ENTITY disconnect.label            "വിഛേദിക്കുക...">
 <!ENTITY verify.label                "ഈമെയില്‍ ഉറപ്പാക്കുക">
 <!ENTITY forget.label                "ഈ ഈമെയില്‍ ഉപേക്ഷിയ്ക്കുക">
 
 <!ENTITY welcome.description "&brandShortName; ഉപയോഗിയ്ക്കുമ്പോള്‍ നിങ്ങളുടെ ടാബുകള്‍, അടയാളങ്ങള്‍, രഹസ്യവാക്കുകള്‍ എന്നിവ ലഭ്യമാക്കാം.">
-<!ENTITY welcome.signIn.label "പ്രവേശിയ്ക്കുക">
-<!ENTITY welcome.createAccount.label "അക്കൌണ്ട് തയ്യാറാക്കുക">
+
+
 
 <!ENTITY welcome.useOldSync.label "സിന്‍കിന്റെ പഴയ പതിപ്പാണോ ഉപയോഗിക്കുന്നത്?">
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+
+

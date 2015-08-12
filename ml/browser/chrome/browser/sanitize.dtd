@@ -49,8 +49,6 @@ that require it.  -->
 <!ENTITY itemHistoryAndDownloads.accesskey "ഡ">
 <!ENTITY itemFormSearchHistory.label       "&amp;ഫോമും തെരച്ചില്‍ നാള്‍വഴിയും">
 <!ENTITY itemFormSearchHistory.accesskey   "ര">
-<!ENTITY itemPasswords.label               "സൂക്ഷിച്ചിരിക്കുന്ന പാസ്‌വേര്‍ഡുകള്‍ ">
-<!ENTITY itemPasswords.accesskey           "P">
 <!ENTITY itemCookies.label                 "കുക്കികള്‍ ">
 <!ENTITY itemCookies.accesskey             "C">
 <!ENTITY itemCache.label                   "കാഷ്">

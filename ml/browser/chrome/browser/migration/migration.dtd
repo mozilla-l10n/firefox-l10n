@@ -11,12 +11,18 @@
 
 <!ENTITY importFromIE.label             "മൈക്രൊസോഫ്റ്റ്‌ ഇന്റര്‍നെറ്റ്‌ എക്സ്പ്ലോറര്‍">
 <!ENTITY importFromIE.accesskey         "M">
+
+
 <!ENTITY importFromNothing.label        "ഒന്നും import ചെയ്യരുത്‌">
 <!ENTITY importFromNothing.accesskey    "D">
 <!ENTITY importFromSafari.label         "സഫാരി">
 <!ENTITY importFromSafari.accesskey     "S">
+
+
 <!ENTITY importFromChrome.label         "ക്രോം">
 <!ENTITY importFromChrome.accesskey     "C">
+
+
 <!ENTITY importFromFirefox.label        "ഫയര്‍ഫോക്സ്">
 <!ENTITY importFromFirefox.accesskey    "x">
 

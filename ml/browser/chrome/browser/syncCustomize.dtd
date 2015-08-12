@@ -15,8 +15,6 @@
 
 <!ENTITY engine.bookmarks.label           "അടയാളക്കുറിപ്പുകള്‍">
 <!ENTITY engine.bookmarks.accesskey       "m">
-
-
 <!ENTITY engine.history.label             "നാള്‍വഴി">
 <!ENTITY engine.history.accesskey         "r">
 <!ENTITY engine.tabs.label                "റ്റാബുകള്‍">
