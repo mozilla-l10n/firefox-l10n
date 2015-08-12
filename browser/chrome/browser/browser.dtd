@@ -558,8 +558,8 @@ items are mutually exclusive. -->
 
 <!ENTITY mediaPlay.label             "شغّل">
 <!ENTITY mediaPlay.accesskey         "ش">
-<!ENTITY mediaPause.label            "أوقِف">
-<!ENTITY mediaPause.accesskey        "ق">
+<!ENTITY mediaPause.label            "ألبِث">
+<!ENTITY mediaPause.accesskey        "ث">
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
 "Unmute" are the same because the two context-menu
 items are mutually exclusive. -->
