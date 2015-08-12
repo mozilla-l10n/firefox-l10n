@@ -4,12 +4,14 @@
 
 <!ENTITY tracking.label                 "Rastreo">
 
-<!ENTITY dntTrackingNotOkay.label2      "Indicar a los sitios web que no quiero ser rastreado">
-<!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY trackingProtection.label       "Impedir que los sitios me rastreen">
-<!ENTITY trackingProtection.accesskey   "m">
-<!ENTITY trackingProtectionLearnMore.label "Saber más">
-<!ENTITY doNotTrackInfo.label           "Saber más...">
+
+<!ENTITY doNotTrackInfo.label          "Saber más...">
+
+
+
+
+
+
 
 <!ENTITY  history.label                 "Historial">
 
@@ -24,6 +26,8 @@
 <!ENTITY  locbar.openpage.accesskey     "O">
 <!ENTITY  locbar.searches.label         "Búsquedas relacionadas desde el buscador predeterminado">
 <!ENTITY  locbar.searches.accesskey     "d">
+
+
 
 <!ENTITY  acceptCookies.label           "Aceptar cookies">
 <!ENTITY  acceptCookies.accesskey       "A">
