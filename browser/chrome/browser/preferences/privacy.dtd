@@ -8,10 +8,10 @@
 <!ENTITY doNotTrackInfo.label          "Saber mais">
 
 
+<!ENTITY trackingProtectionLearnMore.label "Saber mais">
 
 
-
-
+<!ENTITY trackingProtectionPBMLearnMore.label "Saber mais">
 
 <!ENTITY  history.label                 "Histórico">
 
@@ -27,7 +27,8 @@
 <!ENTITY  locbar.searches.label         "Pesquisar relacionadas do motor de pesquisa por omissão">
 <!ENTITY  locbar.searches.accesskey     "d">
 
-
+<!ENTITY  suggestionSettings.label      "Alterar preferências das sugestões do motores de pesquisa…">
+<!ENTITY  suggestionSettings.accesskey  "g">
 
 <!ENTITY  acceptCookies.label           "Aceitar cookies de sites">
 <!ENTITY  acceptCookies.accesskey       "A">

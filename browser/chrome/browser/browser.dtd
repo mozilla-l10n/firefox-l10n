@@ -395,7 +395,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "a">
 <!ENTITY urlbar.switchToTab.label     "Mudar para o separador:">
 
-
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Saber mais…">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Não">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Sim">
 <!-- 
@@ -641,6 +641,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "F">
 
+<!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "Estilo de página">
 <!ENTITY pageStyleMenu.accesskey "s">
@@ -680,11 +681,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "Concluir">
 <!ENTITY editBookmark.cancel.label                   "Cancelar">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Ligação segura">
 <!ENTITY identity.connectionNotSecure "Ligação não segura">
-
+<!ENTITY identity.connectionFile "Esta página está guardada no seu computador.">
 <!ENTITY identity.connectionVerified "O &brandShortName; verificou que estabeleceu uma ligação segura a este site através de:">
 <!ENTITY identity.connectionInternal "Esta é uma página segura do &brandShortName;.">
 <!-- Strings for connection state warnings. -->
@@ -701,10 +702,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
+<!ENTITY identity.enableMixedContentBlocking.label "Ativar proteção">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "e">
 <!ENTITY identity.disableMixedContentBlocking.label "Desativar proteção por agora">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
-
+<!ENTITY identity.learnMore "Saber mais">
 
 <!ENTITY identity.moreInfoLinkText2 "Mais informação">
 
@@ -801,9 +803,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.message "Monitorização">
 <!ENTITY trackingContentBlocked.moreinfo "Partes da página que monitorizam a sua atividade foram bloqueadas.">
 <!ENTITY trackingContentBlocked.learnMore "Saber mais">
-
-
-
+<!ENTITY trackingContentBlocked.options "Opções">
+<!ENTITY trackingContentBlocked.unblock2.label "Desativar proteção para este site">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "Ativar proteção">
 <!ENTITY trackingContentBlocked.block.accesskey "e">
 <!ENTITY trackingContentBlocked.disabled.message "A proteção contra monitorização está inativa">
