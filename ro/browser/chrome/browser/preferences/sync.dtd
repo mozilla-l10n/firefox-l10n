@@ -16,7 +16,6 @@
 
 <!ENTITY manageAccount.label          "Gestionează contul">
 <!ENTITY manageAccount.accesskey      "a">
-<!ENTITY viewQuota.label              "Arată cota">
 <!ENTITY changePassword2.label        "Schimbă parola…">
 <!ENTITY myRecoveryKey.label          "Cheia mea de recuperare">
 <!ENTITY resetSync2.label             "Resetează sincronizarea…">
@@ -26,8 +25,6 @@
 <!ENTITY syncMy.label               "Sincronizează">
 <!ENTITY engine.bookmarks.label     "Semne de carte">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.readinglist.label   "Listă de citit">
-<!ENTITY engine.readinglist.accesskey "L">
 <!ENTITY engine.tabs.label          "File">
 <!ENTITY engine.tabs.accesskey      "F">
 <!ENTITY engine.history.label       "Istoric">
@@ -74,13 +71,24 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Nu sunteți autentificat.">
 <!ENTITY signIn.label                "Autentificare">
+
 <!ENTITY manage.label                "Gestionează">
 <!ENTITY disconnect.label            "Deconectează-te…">
 <!ENTITY verify.label                "Verificați e-mailul">
 <!ENTITY forget.label                "Uită acest e-mail">
 
 <!ENTITY welcome.description "Accesați filele dumneavoastră, semnele de carte, parolele și altele ori de câte ori folosiți &brandShortName;.">
-<!ENTITY welcome.signIn.label "Autentificare">
-<!ENTITY welcome.createAccount.label "Creare cont">
+
+
 
 <!ENTITY welcome.useOldSync.label "Utilizați o versiune mai veche de Sincronizare?">
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+
+

@@ -41,8 +41,6 @@
 
 <!ENTITY popup.label                     "Deschide ferestrele popup">
 
-<!ENTITY fullscreen.label                "Pe tot ecranul">
-
 <!ENTITY push.label                      "Primiți notificări push">
 <!ENTITY camera.label                    "Utilizați Camera">
 <!ENTITY microphone.label                "Utilizați Microfonul">
