@@ -11,7 +11,7 @@
 <!ENTITY update.checkForUpdatesButton.label       "अद्यावधिक जाँच गर्नुहोस्">
 <!ENTITY update.checkForUpdatesButton.accesskey   "अ">
 <!ENTITY update.updateButton.label2                "&brandShortName; अपडेट गर्न फेरि सुरु गर्नुहोस्">
-
+<!ENTITY update.updateButton.accesskey            "आर ">
 <!ENTITY update.applyButtonBillboard.label        "अद्यावधिक लागू गर्नुहोस...">
 <!ENTITY update.applyButtonBillboard.accesskey    "A">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
@@ -32,9 +32,11 @@
 
 <!ENTITY community.start2           "&brandShortName; लाई परिकल्पना गर्ने">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.mozillaLink      "vendorShortName;">
 <!ENTITY community.middle2          ", एउटा ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-
+<!ENTITY community.creditsLink      "विश्व समुदाय हो">
+<!ENTITY community.end3             "जसले वेबलाई खुल्ला, सार्वजनिक र सबैमा पहुँचको लागि सहकार्यमा काम गर्दैछ।">
 
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
 

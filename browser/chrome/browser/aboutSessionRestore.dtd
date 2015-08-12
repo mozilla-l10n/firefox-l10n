@@ -13,10 +13,11 @@
 <!ENTITY restorepage.startNew       "पूर्णरुपले नया ब्राउजिङ सत्र सुरु गरिदै">
 
 <!ENTITY restorepage.tryagainButton "पूर्ववस्थामा ल्याउनुहोस्">
-
+<!ENTITY restorepage.restore.access "R">
 <!ENTITY restorepage.closeButton    "बन्द गर्नुहोस्">
+<!ENTITY restorepage.close.access   "C">
 
-
+<!ENTITY restorepage.restoreHeader  "पूर्वावस्थामा ल्याउनुहोस्">
 <!ENTITY restorepage.listHeader     "संझ्याल तथा ट्याबहरु">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "सञ्झ्याल &#037;S">

@@ -9,23 +9,12 @@
 <!ENTITY paperInput.label "Paper नाप:">
 <!ENTITY paperInput.accesskey "P">
 
-
-
-
-
-
-
 <!ENTITY jobTitleInput.label "कार्य शीर्षक:">
 <!ENTITY jobTitleInput.accesskey "J">
 
 <!ENTITY colorGroup.label "रंग:">
 <!ENTITY grayRadio.label "Grayscale">
 <!ENTITY grayRadio.accesskey "G">
-
-
-
-
-
 
 
 
