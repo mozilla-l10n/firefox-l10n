@@ -110,6 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "A">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; లోనికి ప్రవేశించండి">
+
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; తిరిగి అనుసంధానించు">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; చేతనం">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; కాసేపట్లో సింక్రనించడం మొదలుపెడుతుంది.">
@@ -126,8 +127,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "పూర్తితెర రీతిని నిష్క్రమించుము">
 <!ENTITY fullScreenExit.accesskey "F">
-<!ENTITY fullscreenAllowButton.label "అనుమతించు">
-<!ENTITY fullscreenExitButton.label "తిరస్కరించు">
 
 <!ENTITY fullscreenExitHint2.value "నిష్క్రమించడానికి ఎప్పుడైనా ESC ని నొక్కండి.">
 <!ENTITY leaveDOMFullScreen.label "నిండుతెర నిష్క్రమించు">
@@ -395,6 +394,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.placeholder2          "వెతకండి లేదా చిరునామాను ఇవ్వండి">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "టాబ్‌నకు మారుము:">
+
+
+
+<!ENTITY urlbar.searchSuggestionsNotification.enable "అవును">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -419,6 +422,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
+<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
+     These are set as the aria-label attribute for the search input box and
+     submit button in the in-content search UI, to be used by screen readers. -->
+
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -634,6 +641,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "C">
 
+
 <!ENTITY pageStyleMenu.label "పేజీ శైలి">
 <!ENTITY pageStyleMenu.accesskey "y">
 <!ENTITY pageStyleNoStyle.label "ఏశైలి లేదు">
@@ -672,12 +680,31 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "అయినది">
 <!ENTITY editBookmark.cancel.label                   "రద్దుచేయి">
-<!ENTITY editBookmark.removeBookmark.accessKey       "R">
+
 
 <!ENTITY identity.connectionSecure "సురక్షిత అనుసంధానం">
 <!ENTITY identity.connectionNotSecure "అనుసంధానం సురక్షితం కాదు">
+
 <!ENTITY identity.connectionVerified "మీరు ఈ సైటుకు సురక్షితంగా అనుసంధానించి ఉన్నారా లేదా అనేది &brandShortName; నిర్ధారించును, దీనిని నడిపి:">
 <!ENTITY identity.connectionInternal "ఇది సురక్షిత &brandShortName; పేజీ.">
+<!-- Strings for connection state warnings. -->
+
+
+
+<!-- Strings for connection state warnings in the subview. -->
+
+
+
+
+
+
+
+
+
+
+<!ENTITY identity.disableMixedContentBlocking.label "ఇప్పటికి రక్షణను అచేతనించు">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "D">
+
 
 <!ENTITY identity.moreInfoLinkText2 "మరింత సమాచారం">
 
@@ -754,27 +781,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "పంచుకొనుటకు మైక్రోఫోన్:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+
 <!ENTITY getUserMedia.allWindowsShared.message "మీ తెరపైన కనిపించు అన్ని విండోలు పంచుకోబడును.">
-<!-- Bad Content Blocker Doorhanger Notification -->
 
-<!ENTITY badContentBlocked.moreinfo "ఈ కాంటెంట్ నిరోధించబడినా కూడా చాలా వెబ్‌సైట్లు యింకా సరిగానే పనిచేయును.">
 
-<!ENTITY mixedContentBlocked2.message "సురక్షితంకాని కాంటెంట్">
-<!ENTITY mixedContentBlocked2.moreinfo "ఈ వెబ్‌సైట్ పైని కొన్ని ఎన్క్రిప్ట్‌చేయని మూలకాలు నిరోధించబడెను.">
-<!ENTITY mixedContentBlocked2.learnMore "మరింత నేర్చుకోండి">
-<!ENTITY mixedContentBlocked2.options "ఐచ్ఛికాలు">
-<!ENTITY mixedContentBlocked2.unblock.label "ఇప్పటికి రక్షణను అచేతనించు">
-<!ENTITY mixedContentBlocked2.unblock.accesskey "D">
-<!ENTITY mixedContentBlocked2.block.label "రక్షణను చేతనించు">
-<!ENTITY mixedContentBlocked2.block.accesskey "E">
-<!ENTITY mixedContentBlocked2.disabled.message "రక్షణ అచేతనించబడింది">
+
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+
+
+
 
 <!ENTITY trackingContentBlocked.message "ఆరాతీస్తోంది">
 <!ENTITY trackingContentBlocked.moreinfo "మీ ఆన్‌లైన్ కార్యకలాపాలను ట్రాక్ చేసే పేజీనందలి కొన్ని భాగాలు నిరోధించబడినవి.">
 <!ENTITY trackingContentBlocked.learnMore "మరింత నేర్చుకో">
-<!ENTITY trackingContentBlocked.options "ఐచ్ఛికాలు">
-<!ENTITY trackingContentBlocked.unblock2.label "ఈ సైటుకు రక్షణను అచేతనంచేయి">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
+
+
+
 <!ENTITY trackingContentBlocked.block.label "రక్షణను చేతనించు">
 <!ENTITY trackingContentBlocked.block.accesskey "E">
 <!ENTITY trackingContentBlocked.disabled.message "ట్రాకింగ్ రక్షణ అచేతనించబడెను">
@@ -840,18 +869,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeNotificationsNotNow.accesskey         "N">
 <!ENTITY emeNotificationsDontAskAgain.label       "మరలా నన్ను అడగవద్దు(D)">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "D">
-
-<!ENTITY readingList.label                        "చదివే జాబితా">
-<!ENTITY readingList.sidebar.commandKey           "R">
-<!ENTITY readingList.showSidebar.label            "చదివే జాబితా సైడ్‌బార్ చూపు">
-<!-- Pre-landed string for bug 1124153 -->
-<!ENTITY readingList.sidebar.showMore.label       "మరింత చూపు...">
-<!-- Pre-landed string for bug 1133662 -->
-<!ENTITY readingList.sidebar.emptyText            "తరువాత మీకు అవసరమైనప్పుడు సులువుగా కనుగొనుటకు వ్యాసాలను మీ చదివే జాబితానందు భద్రపరచుకోండి.">
-<!ENTITY readingList.sidebar.delete.tooltip       "మీ చదివే జాబితానుండి దీనిని తీసివేయండి">
-<!-- Pre-landed strings for bug 1123519 -->
-<!ENTITY readingList.sidebar.add.label            "చదివే జాబితాకు జతచేయండి">
-<!ENTITY readingList.sidebar.add.tooltip          "ఈ పేజీను మీ చదివే జాబితాకు జతచేయండి">
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 
 <!ENTITY saveToPocketCmd.label     "పేజీను పాకెట్‌కు దాయి">

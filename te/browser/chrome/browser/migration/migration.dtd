@@ -11,12 +11,18 @@
 
 <!ENTITY importFromIE.label             "మైక్రోసాఫ్ట్ ఇంటర్నెట్‌ ఎక్స్‌ప్లోరర్">
 <!ENTITY importFromIE.accesskey         "M">
+
+
 <!ENTITY importFromNothing.label        "దేనిని దిగుమతి చేయవద్దు">
 <!ENTITY importFromNothing.accesskey    "D">
 <!ENTITY importFromSafari.label         "సఫారి">
 <!ENTITY importFromSafari.accesskey     "S">
+
+
 <!ENTITY importFromChrome.label         "క్రోమ్">
 <!ENTITY importFromChrome.accesskey     "C">
+
+
 <!ENTITY importFromFirefox.label        "ఫైర్‌ఫాక్స్">
 <!ENTITY importFromFirefox.accesskey    "x">
 

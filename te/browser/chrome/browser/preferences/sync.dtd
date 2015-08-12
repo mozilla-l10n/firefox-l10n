@@ -16,7 +16,6 @@
 
 <!ENTITY manageAccount.label          "ఖాతాను నిర్వహించు (n)">
 <!ENTITY manageAccount.accesskey      "n">
-<!ENTITY viewQuota.label              "కేటాయించన బాగమును దర్శించు">
 <!ENTITY changePassword2.label        "సంకేతపదం మార్చు…">
 <!ENTITY myRecoveryKey.label          "నా రికవరీ కీ">
 <!ENTITY resetSync2.label             "సింక్ తిరిగివుంచు…">
@@ -26,8 +25,6 @@
 <!ENTITY syncMy.label               "నావి యివి సింక్‌చేయి">
 <!ENTITY engine.bookmarks.label     "ఇష్టాంశములు">
 <!ENTITY engine.bookmarks.accesskey "m">
-
-
 <!ENTITY engine.tabs.label          "టాబ్‌లు">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "చరిత్ర">
@@ -74,13 +71,24 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "మీరు ప్రవేశించి లేరు.">
 <!ENTITY signIn.label                "ప్రవేశించండి">
+
 <!ENTITY manage.label                "నిర్వహించండి">
 <!ENTITY disconnect.label            "అననుసంధానించు...">
 <!ENTITY verify.label                "ఈమెయిల్ నిర్థారించు">
 <!ENTITY forget.label                "ఈ ఈమెయిలును మర్చిపో">
 
 <!ENTITY welcome.description "మీరు &brandShortName; ను ఉపయోగించునప్పుడు మీ టాబ్‌లను, ఇష్టాంశములను, సంకేతపదములను మరియు మరిన్నిటిని ఏక్సెస్ చేయండి.">
-<!ENTITY welcome.signIn.label "లోపలకు వెళ్ళు">
-<!ENTITY welcome.createAccount.label "ఖాతాను సృష్టించు">
+
+
 
 <!ENTITY welcome.useOldSync.label "సింక్ పాత వెర్షనును వాడుతున్నారా?">
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+
+
