@@ -158,11 +158,6 @@
 
 <!ENTITY options.stylesheetAutocompletion.label      "เติมเต็ม CSS อัตโนมัติ">
 <!ENTITY options.stylesheetAutocompletion.tooltip    "เติมเต็ม CSS อัตโนมัติ คุณสมบัติ ค่า และตัวเลือกในตัวแก้ไขสไตล์ตามที่คุณพิมพ์">
-<!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
-  -  heading of the group of JavaScript Profiler preferences in the options
-  -  panel. -->
-
-<!ENTITY options.profiler.label            "ตัวเก็บประวัติ JavaScript">
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->

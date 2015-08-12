@@ -4,12 +4,14 @@
 
 <!ENTITY tracking.label                 "การติดตาม">
 
-<!ENTITY dntTrackingNotOkay.label2      "บอกเว็บไซต์ว่าไม่ต้องตามรอยฉัน">
-<!ENTITY dntTrackingNotOkay.accesskey   "บ">
-<!ENTITY trackingProtection.label       "ป้องกันเว็บไซต์จากการติดตามฉัน">
-<!ENTITY trackingProtection.accesskey   "ก">
-<!ENTITY trackingProtectionLearnMore.label "เรียนรู้เพิ่ม">
-<!ENTITY doNotTrackInfo.label           "เรียนรู้เพิ่ม">
+
+<!ENTITY doNotTrackInfo.label          "เรียนรู้เพิ่ม">
+
+
+
+
+
+
 
 <!ENTITY  history.label                 "ประวัติ">
 
@@ -24,6 +26,8 @@
 <!ENTITY  locbar.openpage.accesskey     "เ">
 <!ENTITY  locbar.searches.label         "การค้นหาที่เกี่ยวข้องจากเครื่องมือค้นหาปริยาย">
 <!ENTITY  locbar.searches.accesskey     "ห">
+
+
 
 <!ENTITY  acceptCookies.label           "รับคุกกี้จากเว็บไซต์">
 <!ENTITY  acceptCookies.accesskey       "ร">
