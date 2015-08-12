@@ -2,18 +2,45 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.title            "Surfate privatno">
-<!ENTITY aboutPrivateBrowsing.title.normal     "Otvoriti privatni prozor?">
-
-<!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; neće zapamtiti povijest u ovom prozoru.">
-<!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName; neće zapamtiti povijest u privatnim prozorima.">
-
-<!ENTITY aboutPrivateBrowsing.description      "To uključuje podatke o posjećenim stranicama, povijest pretraživanja, povijest preuzimanja, podatke unesene u obrascima, kolačiće ili privremene podatke. Međutim, datoteke koje preuzmete i stranice koje spremite u zabilješke će biti zadržane.">
-
 <!ENTITY aboutPrivateBrowsing.notPrivate       "Trenutno niste u privatnom prozoru.">
-
-<!ENTITY aboutPrivateBrowsing.moreInfo         "I dok ovo računalo neće imati zapise o vašem pretraživanju, vaš pružatelj internet usluga ili poslodavac još uvijek mogu pratiti stranice koje posječujete.">
-<!ENTITY aboutPrivateBrowsing.learnMore        "Saznajte više.">
-
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Otvori privatni prozor">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
+
+<!ENTITY privateBrowsing.title                 "Privatno pretraživanje">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
+     Width of the Private Browsing section.
+     -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
+     aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
+     These strings will be replaced by aboutPrivateBrowsing.forgotten and
+     aboutPrivateBrowsing.kept when the new visual design lands (bug 1192625).
+     -->
+
+<!ENTITY aboutPrivateBrowsing.title            "Surfate privatno">
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.history     "Povijest">
+
+<!ENTITY aboutPrivateBrowsing.info.cookies     "Cookies">
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.downloads   "Preuzimanja">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks   "Zabilješke">
+
+<!ENTITY aboutPrivateBrowsing.learnMore        "Saznajte više.">
+<!-- LOCALIZATION NOTE (trackingProtection.width):
+     Width of the Tracking Protection section. This should be enough to
+     accommodate the title as well as the enabled or disabled indicator.
+     -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.state.width):
+     Width of the element representing the enabled or disabled indicator.
+     -->
+
+
+
+
+
+
