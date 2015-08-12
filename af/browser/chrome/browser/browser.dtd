@@ -110,6 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "a">
 
 <!ENTITY fxaSignIn.label "Meld aan by &syncBrand.shortName.label;">
+
 <!ENTITY fxaSignInError.label "Herkoppel aan &syncBrand.shortName.label;">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; geaktiveer">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; sal binnekort begin sinchroniseer.">
@@ -126,8 +127,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "V">
 <!ENTITY fullScreenExit.label "Sluit volskermmodus af">
 <!ENTITY fullScreenExit.accesskey "v">
-<!ENTITY fullscreenAllowButton.label "Laat toe">
-<!ENTITY fullscreenExitButton.label "Weier">
 
 <!ENTITY fullscreenExitHint2.value "Druk enige tyd ESC om te verlaat.">
 <!ENTITY leaveDOMFullScreen.label "Verlaat volskerm">
@@ -393,6 +392,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.placeholder2          "Soek of tik adres in">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Verwissel na oortjie:">
+
+
+<!ENTITY urlbar.searchSuggestionsNotification.disable "Nee">
+<!ENTITY urlbar.searchSuggestionsNotification.enable "Ja">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -417,6 +420,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
+<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
+     These are set as the aria-label attribute for the search input box and
+     submit button in the in-content search UI, to be used by screen readers. -->
+
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -632,6 +639,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "S">
 
+
 <!ENTITY pageStyleMenu.label "Bladsystyl">
 <!ENTITY pageStyleMenu.accesskey "t">
 <!ENTITY pageStyleNoStyle.label "Geen styl nie">
@@ -670,12 +678,31 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "Klaar">
 <!ENTITY editBookmark.cancel.label                   "Kanselleer">
-<!ENTITY editBookmark.removeBookmark.accessKey       "R">
+
 
 <!ENTITY identity.connectionSecure "Beveiligde verbinding">
 <!ENTITY identity.connectionNotSecure "Verbinding is nié beveilig nie">
+
 <!ENTITY identity.connectionVerified "&brandShortName; het geverifieer dat u veilig verbind is met dié werf, aangebied deur:">
 <!ENTITY identity.connectionInternal "Hierdie is 'n beveiligde &brandShortName;-bladsy.">
+<!-- Strings for connection state warnings. -->
+
+
+
+<!-- Strings for connection state warnings in the subview. -->
+
+
+
+
+
+
+
+
+
+
+<!ENTITY identity.disableMixedContentBlocking.label "Deaktiveer beskerming tydelik">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "D">
+
 
 <!ENTITY identity.moreInfoLinkText2 "Meer inligting">
 
@@ -752,27 +779,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
 <!ENTITY getUserMedia.selectMicrophone.label "Mikrofoon om te deel:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+
 <!ENTITY getUserMedia.allWindowsShared.message "Alle sigbare vensters op die skerm sal gedeel word.">
-<!-- Bad Content Blocker Doorhanger Notification -->
 
-<!ENTITY badContentBlocked.moreinfo "Meeste webwerwe sal reg werk selfs as dié inhoud geblok word.">
 
-<!ENTITY mixedContentBlocked2.message "Onveilige inhoud">
-<!ENTITY mixedContentBlocked2.moreinfo "Sommige ongeënkripteerde elemente op dié werf is geblok.">
-<!ENTITY mixedContentBlocked2.learnMore "Meer inligting">
-<!ENTITY mixedContentBlocked2.options "Opsies">
-<!ENTITY mixedContentBlocked2.unblock.label "Deaktiveer beskerming tydelik">
-<!ENTITY mixedContentBlocked2.unblock.accesskey "D">
-<!ENTITY mixedContentBlocked2.block.label "Aktiveer beskerming">
-<!ENTITY mixedContentBlocked2.block.accesskey "A">
-<!ENTITY mixedContentBlocked2.disabled.message "Beskerming is gedeaktiveer">
+
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+
+
+
 
 <!ENTITY trackingContentBlocked.message "Monitering">
 <!ENTITY trackingContentBlocked.moreinfo "Dele van die bladsy wat u aanlyn aktiwiteit beloer is geblok.">
 <!ENTITY trackingContentBlocked.learnMore "Meer inligting">
-<!ENTITY trackingContentBlocked.options "Opsies">
-<!ENTITY trackingContentBlocked.unblock2.label "Deaktiveer beveiliging vir dié werf">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
+
+
+
 <!ENTITY trackingContentBlocked.block.label "Aktiveer beskerming">
 <!ENTITY trackingContentBlocked.block.accesskey "A">
 <!ENTITY trackingContentBlocked.disabled.message "Volgbeskerming is gedeaktiveer">
@@ -838,18 +867,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeNotificationsNotNow.accesskey         "N">
 <!ENTITY emeNotificationsDontAskAgain.label       "Moenie my weer vra nie">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "M">
-
-<!ENTITY readingList.label                        "Leeslys">
-<!ENTITY readingList.sidebar.commandKey           "L">
-<!ENTITY readingList.showSidebar.label            "Wys kantbalk met leeslys">
-<!-- Pre-landed string for bug 1124153 -->
-<!ENTITY readingList.sidebar.showMore.label       "Wys meer…">
-<!-- Pre-landed string for bug 1133662 -->
-<!ENTITY readingList.sidebar.emptyText            "Stoor artikels in die leeslys om dit later maklik te kry wanneer nodig.">
-<!ENTITY readingList.sidebar.delete.tooltip       "Verwyder dié uit die leeslys">
-<!-- Pre-landed strings for bug 1123519 -->
-<!ENTITY readingList.sidebar.add.label            "Voeg by leeslys">
-<!ENTITY readingList.sidebar.add.tooltip          "Voeg dié bladsy by die leeslys">
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 
 

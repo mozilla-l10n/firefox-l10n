@@ -2,18 +2,45 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.title            "U blaai nou privaat">
-<!ENTITY aboutPrivateBrowsing.title.normal     "Open 'n privaatvenster">
-
-<!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; sal nie enige geskiedenis vir dié venster onthou nie.">
-<!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName; sal nie enige geskiedenis vir private vensters onthou nie.">
-
-<!ENTITY aboutPrivateBrowsing.description      "Dit sluit in: geskiedenis oor blaai, soek, aflaai en webvorms, koekies, en tydelike internetlêers. Afgelaaide lêers en boekmerke sal wél gehou word.">
-
 <!ENTITY aboutPrivateBrowsing.notPrivate       "U is nie tans in 'n private venster nie.">
-
-<!ENTITY aboutPrivateBrowsing.moreInfo         "Hoewel hierdie rekenaar nie 'n rekord hou van u blaaigeskiedenis nie, kan u werkgewer of internetdiensverskaffer dit dalk hou.">
-<!ENTITY aboutPrivateBrowsing.learnMore        "Meer inligting.">
-
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Open 'n privaatvenster">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
+
+<!ENTITY privateBrowsing.title                 "Private blaaiery">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
+     Width of the Private Browsing section.
+     -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
+     aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
+     These strings will be replaced by aboutPrivateBrowsing.forgotten and
+     aboutPrivateBrowsing.kept when the new visual design lands (bug 1192625).
+     -->
+
+<!ENTITY aboutPrivateBrowsing.title            "U blaai nou privaat">
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.history     "Geskiedenis">
+
+<!ENTITY aboutPrivateBrowsing.info.cookies     "Koekies">
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.downloads   "Aflaaie">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks   "Boekmerke">
+
+<!ENTITY aboutPrivateBrowsing.learnMore        "Meer inligting.">
+<!-- LOCALIZATION NOTE (trackingProtection.width):
+     Width of the Tracking Protection section. This should be enough to
+     accommodate the title as well as the enabled or disabled indicator.
+     -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.state.width):
+     Width of the element representing the enabled or disabled indicator.
+     -->
+
+
+
+
+
+

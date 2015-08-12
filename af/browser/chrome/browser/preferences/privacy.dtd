@@ -4,12 +4,14 @@
 
 <!ENTITY tracking.label                 "Monitering">
 
-<!ENTITY dntTrackingNotOkay.label2      "Vertel webwerwe dat ek nie gemonitor wil word nie">
-<!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY trackingProtection.label       "Keer dat werwe my volg">
-<!ENTITY trackingProtection.accesskey   "w">
-<!ENTITY trackingProtectionLearnMore.label "Meer inligting">
-<!ENTITY doNotTrackInfo.label           "Meer inligting">
+
+<!ENTITY doNotTrackInfo.label          "Meer inligting">
+
+
+
+
+
+
 
 <!ENTITY  history.label                 "Geskiedenis">
 
@@ -24,6 +26,8 @@
 <!ENTITY  locbar.openpage.accesskey     "O">
 <!ENTITY  locbar.searches.label         "Verwante soektogte vanaf die verstek soekenjin">
 <!ENTITY  locbar.searches.accesskey     "V">
+
+
 
 <!ENTITY  acceptCookies.label           "Aanvaar koekies van werwe">
 <!ENTITY  acceptCookies.accesskey       "A">
