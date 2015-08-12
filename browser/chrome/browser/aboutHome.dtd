@@ -7,8 +7,6 @@
 <!ENTITY % syncBrandDTD SYSTEM "chrome://browser/locale/syncBrand.dtd">
 %syncBrandDTD;
 <!-- These strings are used in the about:home page -->
-
-<!ENTITY abouthome.searchEngineButton.label "ძიება">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
