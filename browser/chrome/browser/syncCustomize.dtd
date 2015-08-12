@@ -15,8 +15,6 @@
 
 <!ENTITY engine.bookmarks.label           "ఇష్టాంశములు">
 <!ENTITY engine.bookmarks.accesskey       "m">
-
-
 <!ENTITY engine.history.label             "చరిత్ర">
 <!ENTITY engine.history.accesskey         "r">
 <!ENTITY engine.tabs.label                "టాబ్‌లు">

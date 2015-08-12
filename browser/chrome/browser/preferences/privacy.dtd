@@ -4,15 +4,19 @@
 
 <!ENTITY tracking.label                 "ఆరాతీస్తోంది">
 
-<!ENTITY dntTrackingNotOkay.label2      "నా గురించిన ఆరా కలిగివుండ వద్దని సైట్లకు చెప్పు.">
-<!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY trackingProtection.label       "నన్ను ట్రాక్ చేయకుండా సైట్లను నిరోధించు">
-<!ENTITY trackingProtection.accesskey   "m">
-<!ENTITY trackingProtectionLearnMore.label "మరింత నేర్చుకోండి">
-<!ENTITY doNotTrackInfo.label           "మరింత నేర్చుకోండి">
+
+<!ENTITY doNotTrackInfo.label          "మరింత నేర్చుకోండి">
+
+
+
+
+
+
 
 
 <!ENTITY  locationBar.label             "స్థానపు పట్టీ">
+
+
 
 
 
