@@ -14,6 +14,7 @@
 
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
+
 <!ENTITY safeb.blocked.phishingPage.title "הונאת רשת מדווחת!">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc "הדף בכתובת  <span id='phishing_sitename'/> דווח כאתר הונאת רשת ונחסם בהתאם להעדפות האבטחה שלך.">
