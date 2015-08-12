@@ -67,7 +67,7 @@
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
-
+<!ENTITY options.enableRemote.tooltip   "تفعيل هذا الخيار سيسمح لأدوات المطورين بتنقيح سيرورات فيرفكس البعيدة مثل نظام فيرفكس">
 <!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
   -  boolean preference in about:config, in the options panel. -->
@@ -81,7 +81,7 @@
 <!-- LOCALIZATION NOTE (options.disableCache.label2,
   -  options.disableCache.tooltip2): This is the options panel label and
   -  tooltip for the checkbox that toggles the cache on or off. -->
-
+<!ENTITY options.disableCache.tooltip2   "تفعيل هذا الخيار سيعطّل خبيئة الألسنة للألسنة المفتوح فيها شريط الأدوات.">
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
@@ -152,7 +152,7 @@
 
 
 
-
+<!ENTITY options.sourceeditor.expandtab.tooltip         "استخدم المسافات بدل محرف الجدولة (Tab)">
 
 
 

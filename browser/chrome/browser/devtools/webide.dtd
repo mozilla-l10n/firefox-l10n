@@ -11,7 +11,7 @@
 
 
 
-
+<!ENTITY projectMenu_selectApp_label "افتح تطبيقا...">
 
 
 
@@ -113,7 +113,7 @@
 
 
 
-
+<!ENTITY prefs_options_expandtab_tooltip "استخدم المسافات بدل محرف الجدولة (Tab)">
 
 
 
@@ -123,6 +123,8 @@
 
 <!ENTITY prefs_options_keybindings_default "المبدئي">
 <!-- Permissions Table -->
+
+<!ENTITY permissionstable_title "جدول الصلاحيات">
 
 <!-- Runtime Details -->
 
