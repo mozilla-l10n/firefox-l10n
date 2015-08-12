@@ -10,6 +10,7 @@
 <!ENTITY  onboard_start_subtext3 "ನಿಮ್ಮ ಮೊಬೈಲ್ ಜಾಲ ವೀಕ್ಷಣೆಯ ಅನುಭವವನ್ನು ನೈಜವಾಗಿ ನಿಮ್ಮ ಸ್ವಂತದ್ದಾಗಿಸಿಕೊಳ್ಳಿ.">
 <!ENTITY  onboard_start_button_account "&brandShortName; ಗೆ ಲಾಗಿನ್ ಮಾಡಿ">
 <!ENTITY  onboard_start_button_browser "ಅಂತರ್ಜಾಲದ ವೀಕ್ಷಣೆಯನ್ನು ಪ್ರಾರಂಭಿಸಿ">
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -68,6 +69,8 @@
 <!ENTITY edit_mode_cancel "ರದ್ದು ಮಾಡು">
 
 <!ENTITY close_tab "ಟ್ಯಾಬ್‌ ಅನ್ನು ಮುಚ್ಚು">
+
+
 <!ENTITY one_tab "1 ಟ್ಯಾಬ್">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -155,6 +158,9 @@
 <!ENTITY pref_search_hint "TIP: ಯಾವುದೇ ಜಾಲತಾಣವನ್ನು ನಿಮ್ಮ ಹುಡುಕು ಪೂರೈಕೆದಾರರ ಪಟ್ಟಿಗೆ ಸೇರಿಸಲು ಅದರ ಹುಡುಕು ವಲಯದಲ್ಲಿ ದೀರ್ಘವಾಗಿ ಒತ್ತಿ ಮತ್ತು &formatI; ಲಾಂಛನದ ಮೇಲೆ ತಟ್ಟಿ.">
 <!ENTITY pref_category_devtools "ವಿಕಸನಾ ಉಪಕರಣಗಳು">
 <!ENTITY pref_developer_remotedebugging "ರಿಮೋಟ್ ಡೀಬಗ್ಗಿಂಗ್">
+
+
+
 <!ENTITY pref_category_logins "ಲಾಗಿನ್‌ಗಳು">
 <!ENTITY pref_remember_signons2 "ಲಾಗಿನ್‌ಗಳನ್ನು ನೆನಪಿಡಿ">
 <!ENTITY pref_open_external_urls_privately_title "ಕೊಂಡಿಗಳನ್ನು ಖಾಸಗಿ ಹಾಳೆಯಲ್ಲಿ ತೆರೆ">
@@ -191,16 +197,19 @@
 <!ENTITY pref_cookies_not_accept_foreign "ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ, 3ನೆಯವರನ್ನು ಹೊರತುಪಡಿಸಿ">
 <!ENTITY pref_cookies_disabled "ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ">
 
-<!ENTITY pref_tracking_protection_title "ಜಾಡು ಇರಿಸುವಿಕೆಗೆ ರಕ್ಷಣೆ">
-<!ENTITY pref_tracking_protection_summary "&brandShortName; ಜಾಲತಾಣಗಳನ್ನು ನಿಮ್ಮನ್ನು ಜಾಡು ಇರಿಸುವುದರಿಂದ ತಡೆಯುತ್ತದೆ">
+
 <!ENTITY pref_donottrack_title "ಜಾಡು ಇರಿಸಬೇಡ">
 <!ENTITY pref_donottrack_summary "&brandShortName; ನಿಮ್ಮ ಜಾಡನ್ನು ಇರಿಸದಂತೆ ಜಾಲಗಳಿಗೆ ತಿಳಿಸುತ್ತದೆ">
+
+
+
+
 
 <!ENTITY tab_queue_toast_message3 "&brandShortName; ನಲ್ಲಿ ಹಾಳೆಗಳನ್ನು ಉಳಿಸಲಾಗಿದೆ">
 <!ENTITY tab_queue_toast_action "ಈಗ ತೆಗೆ">
 <!ENTITY tab_queue_prompt_title "ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ಕೊಂಡಿಗಳನ್ನು ತೆರೆಯುತ್ತಿದ್ದೀರಾ?">
-<!ENTITY tab_queue_prompt_text3 "‍‍ಮುಂದಿನ ಬಾರಿ ‍‍&brandShortName; ತೆರೆಯುವವರೆಗೂ ಉಳಿಸು">
-<!ENTITY tab_queue_prompt_tip_text "ನೀವು ಇದನ್ನು ನಂತರ ಸಿದ್ದತೆಗಳಲ್ಲಿ ಬದಲಾಯಿಸಬಹುದು">
+
+
 <!ENTITY tab_queue_prompt_positive_action_button "ಸಕ್ರಿಯಗೊಳಿಸು">
 <!ENTITY tab_queue_prompt_negative_action_button "ಈಗ ಬೇಡ">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
@@ -330,7 +339,6 @@ size. -->
 <!ENTITY addons "ಆಡ್-ಆನ್‌ಗಳು">
 <!ENTITY logins "ಲಾಗಿನ್‌ಗಳು">
 <!ENTITY downloads "ಇಳಿಕೆಗಳು">
-<!ENTITY apps "ಅನ್ವಯಗಳು">
 <!ENTITY char_encoding "ಅಕ್ಷರಗಳ ಎನ್ಕೋಡಿಂಗ್‍">
 
 <!ENTITY share "ಹಂಚು">
@@ -400,6 +408,9 @@ size. -->
 <!ENTITY pref_titlebar_mode "ಶೀರ್ಷಿಕೆ ಪಟ್ಟಿ">
 <!ENTITY pref_titlebar_mode_title "ಪುಟದ ಶೀರ್ಷಿಕೆ ತೋರಿಸು">
 <!ENTITY pref_titlebar_mode_url "ಪುಟದ ವಿಳಾಸ ತೋರಿಸು">
+<!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
+     whether or not the magnifying glass is disabled. -->
+
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -407,7 +418,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "&brandShortName; ನ ಟೈಟಲ್ ಬಾರನ್ನು ಪುಟವೊಂದರಲ್ಲಿ ಸ್ಕ್ರಾಲ್ ಮಾಡುವಾಗ ಅಡಗಿಸು">
 
 <!ENTITY pref_tab_queue_title2 "ಒಂದಕ್ಕಿಂತ ಹೆಚ್ಚು ಕೊಂಡಿಗಳನ್ನು ತೆರೆ">
-<!ENTITY pref_tab_queue_summary3 "‍‍ಮುಂದಿನ ಬಾರಿ ‍‍&brandShortName; ತೆರೆಯುವವರೆಗೂ ಉಳಿಸು">
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -425,10 +436,8 @@ size. -->
 <!ENTITY site_settings_cancel       "ರದ್ದು ಮಾಡು">
 <!ENTITY site_settings_clear        "ಅಳಿಸು">
 <!ENTITY site_settings_no_settings  "ಅಳಿಸಲು ಯಾವುದೇ ಸಿದ್ಧತೆಗಳಿಲ್ಲ.">
-<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+<!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
-
-<!ENTITY reading_list_added2 "ಪಟ್ಟಿಗೆ ಸೇರಿಸಲಾಗಿದೆ">
 <!ENTITY reading_list_removed "ನಿಮ್ಮ ಓದು ಪಟ್ಟಿಯಿಂದ ಪುಟವನ್ನು ತೆಗೆದುಹಾಕಲಾಗಿದೆ">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -545,21 +554,20 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_run_by "ಇದನ್ನು ನಡೆಸುತ್ತಿರುವವರು">
-<!ENTITY identity_no_info "ಈ ಜಾಲತಾಣವು ತನ್ನ ಗುರುತಿನ ಮಾಹಿತಿಯನ್ನು ಒದಗಿಸಿಲ್ಲ.">
-<!ENTITY identity_not_encrypted "ಈ ಜಾಲತಾಣಕ್ಕೆ ನಿಮ್ಮ ಸಂಪರ್ಕವನ್ನು ಗೂಢಲಿಪೀಕರಣಗೊಳಿಸಲಾಗಿಲ್ಲ(ಎನ್‌ಕ್ರಿಪ್ಟೆಡ್).">
-<!ENTITY identity_encrypted "ಗೂಢಲಿಪೀಕರಣಗೊಂಡ">
+
 <!-- Mixed content notifications in site identity popup -->
+
+
+
 
 <!ENTITY loaded_mixed_content_message "ಈ ಪುಟವು ಸುರಕ್ಷಿತವಲ್ಲದ ಮಾಹಿತಿಯನ್ನು ಪ್ರದರ್ಶಿಸುತ್ತಿದೆ.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; ವು ಸುರಕ್ಷಿತವಲ್ಲದ ವಿಷಯವನ್ನು ನಿರ್ಬಂಧಿಸಿದೆ.">
 <!ENTITY blocked_mixed_content_message_bottom "ಈ ವಿಷಯವನ್ನು ನಿರ್ಬಂಧಿಸಿದ್ದರೂ ಸಹ ಹೆಚ್ಚಿನ ಜಾಲತಾಣಗಳು ಸರಿಯಾಗಿ ಕೆಲಸ ಮಾಡುತ್ತವೆ.">
 <!-- Tracking content notifications in site identity popup -->
 
-<!ENTITY loaded_tracking_content_message_top "ಜಾಡು ಹಿಡಿಯುವಿಕೆ ಸುರಕ್ಷೆ ನಿಷ್ಕ್ರಿಯವಾಗಿದೆ.">
-<!ENTITY loaded_tracking_content_message_bottom "ಈ ಪುಟದ ಕೆಲವೊಂದು ಭಾಗಗಳು ನಿಮ್ಮ ಆನ್‌ಲೈನ್ ಚಟುವಟಿಕೆಗಳ ಜಾಡು ಹಿಡಿಯುತ್ತವೆ.">
-<!ENTITY blocked_tracking_content_message_top2 "ಜಾಡು ಹಿಡಿಯುವಿಕೆಯ ಸುರಕ್ಷೆ ಸಕ್ರಿಯವಾಗಿದೆ.">
-<!ENTITY blocked_tracking_content_message_bottom2 "ಈ ಪುಟದ ಕೆಲವೊಂದು ಭಾಗಗಳು ನಿಮ್ಮ ಆನ್‌ಲೈನ್ ಚಟುವಟಿಕೆಗಳ ಜಾಡು ಹಿಡಿಯುವುದನ್ನು ಪ್ರತಿಬಂಧಿಸಲಾಗಿದೆ.">
+
+
+
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
@@ -615,7 +623,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "ಮುಂದುವರೆ">
 <!ENTITY guest_session_dialog_cancel "ರದ್ದು ಮಾಡು">
 <!ENTITY new_guest_session_title "&brandShortName; ಈಗ ಮತ್ತೆ ಶುರುವಾಗುತ್ತದೆ">
-
+<!ENTITY new_guest_session_text2 "ಇದನ್ನು ಬಳಸುವ ವ್ಯಕ್ತಿಗೆ ನಿಮ್ಮ ಯಾವುದೇ ವೈಯಕ್ತಿಕ ಜಾಲಾಟದ ದತ್ತಾಂಶ (ಉಳಿಸಿದ ಪ್ರವೇಶಪದಗಳು, ಇತಿಹಾಸ ಅಥವಾ ಪುಟಗುರುತುಗಳು ಇತ್ಯಾದಿ)ಕಾಣಲು ಸಾಧ್ಯವಿಲ್ಲ.\n\n ನಿಮ್ಮ ಅತಿಥಿಗಳ ಕೆಲಸ ಮುಗಿದ ನಂತರ, ಅವರ ಜಾಲಾಟದ ದತ್ತಾಂಶವು ಅಳಿಸಲ್ಪಟ್ಟು ನಿಮ್ಮ ಅಧಿವೇಶನ ಪುನರಾರಂಭಗೊಳ್ಳುತ್ತದೆ.">
 <!ENTITY guest_browsing_notification_title "ಅತಿಥಿ ಜಾಲಾಟ ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ">
 <!ENTITY guest_browsing_notification_text "ನಿರ್ಗಮಿಸಲು ಮೆಲ್ಲಗೆ ತಟ್ಟಿ">
 
@@ -645,10 +653,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Voice search in the awesome bar -->
 
 <!ENTITY voicesearch_prompt "ಈಗ ಮಾತಾಡು">
-<!ENTITY voicesearch_failed_title "&brandShortName; ಧ್ವನಿ ಹುಡುಕು">
-<!ENTITY voicesearch_failed_message "ಸಧ್ಯ ಧ್ವನಿ ಹುಡುಕಿನಲ್ಲಿ ತೊಂದರೆ ಇದೆ. ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.">
-<!ENTITY voicesearch_failed_message_recoverable "ಕ್ಷಮಿಸಿ! ನಿಮ್ಮ ಪದಗಳನ್ನು ನಾವು ಗುರುತಿಸಲಾಗಲಿಲ್ಲ. ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.">
-<!ENTITY voicesearch_failed_retry "ಇನ್ನೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -666,3 +670,22 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY find_matchcase "Aa">
 
 <!ENTITY intent_uri_cannot_open "ಕೊಂಡಿಯನ್ನು ತೆರೆಯಲಾಗುತ್ತಿಲ್ಲ">
+<!-- DevTools Authentication -->
+<!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
+     above a QR reader that is actively scanning for QR codes.  The expected QR
+     code has already been displayed by the client trying to connect (such as
+     desktop Firefox via WebIDE), so you just need to aim this device at the QR
+     code. -->
+<!-- Restrictions -->
+<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+     a restricted profile (e.g. child). Used inside the Android settings UI. -->
+
+
+
+
+
+
+
+
+
+

@@ -230,6 +230,7 @@
 <!ENTITY fxaccount_remove_account_toast "ಫಯರ್ಫಾಕ್ಸ್ ನ ಖಾತೆ &formatS; ಅನ್ನು ತೆಗೆದುಹಾಕಲಾಗಿದೆ.">
 
 <!ENTITY fxaccount_remove_account_menu_item "ಖಾತೆಯನ್ನು ತೆಗೆದುಹಾಕು">
+
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 
