@@ -4,12 +4,14 @@
 
 <!ENTITY tracking.label                 "Հետևում">
 
-<!ENTITY dntTrackingNotOkay.label2      "Հաղորդել կայքերին, որ ես չեմ ցանկանում, որ ինձ հետևեն:">
-<!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY trackingProtection.label       "Կանխել այն կայքերը, որոնք փորձում են հետևել ինձ">
-<!ENTITY trackingProtection.accesskey   "ք">
-<!ENTITY trackingProtectionLearnMore.label "Մանրամասն">
-<!ENTITY doNotTrackInfo.label           "Մանրամասն">
+
+<!ENTITY doNotTrackInfo.label          "Մանրամասն">
+
+
+
+
+
+
 
 <!ENTITY  history.label                 "Պատմություն">
 
@@ -24,6 +26,8 @@
 <!ENTITY  locbar.openpage.accesskey     "Բ">
 <!ENTITY  locbar.searches.label         "Առնչվող որոնումներ՝ հիմնական որոնիչի կողմից">
 <!ENTITY  locbar.searches.accesskey     "ո">
+
+
 
 <!ENTITY  acceptCookies.label           "Ընդունել cookie-ներ կայքերից">
 <!ENTITY  acceptCookies.accesskey       "Ը">
