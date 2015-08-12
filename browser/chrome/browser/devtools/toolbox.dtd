@@ -158,11 +158,6 @@
 
 <!ENTITY options.stylesheetAutocompletion.label      "Автоматично довършване на CSS">
 <!ENTITY options.stylesheetAutocompletion.tooltip    "Автоматично довършване, докато пишете, на свойствата, стойностите и селекторите на CSS в стиловия редактор">
-<!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
-  -  heading of the group of JavaScript Profiler preferences in the options
-  -  panel. -->
-
-<!ENTITY options.profiler.label            "Профилатор на JavaScript">
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->

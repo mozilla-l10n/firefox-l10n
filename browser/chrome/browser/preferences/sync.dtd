@@ -16,7 +16,6 @@
 
 <!ENTITY manageAccount.label          "Управление на сметката">
 <!ENTITY manageAccount.accesskey      "с">
-<!ENTITY viewQuota.label              "Показване на квотата">
 <!ENTITY changePassword2.label        "Промяна на парола…">
 <!ENTITY myRecoveryKey.label          "Моят ключ за възстановяване">
 <!ENTITY resetSync2.label             "Анулиране на Sync…">
@@ -26,8 +25,6 @@
 <!ENTITY syncMy.label               "Sync на моите">
 <!ENTITY engine.bookmarks.label     "Отметки">
 <!ENTITY engine.bookmarks.accesskey "О">
-<!ENTITY engine.readinglist.label   "Списък за четене">
-<!ENTITY engine.readinglist.accesskey "ч">
 <!ENTITY engine.tabs.label          "Подпрозорци">
 <!ENTITY engine.tabs.accesskey      "П">
 <!ENTITY engine.history.label       "История">
@@ -74,13 +71,24 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Не сте вписани.">
 <!ENTITY signIn.label                "Вписване">
+
 <!ENTITY manage.label                "Управление">
 <!ENTITY disconnect.label            "Развързване…">
 <!ENTITY verify.label                "Проверка на мейла">
 <!ENTITY forget.label                "Забравяне на този мейл">
 
 <!ENTITY welcome.description "С &brandShortName; навсякъде може да имате достъп до вашите подпрозорци, отметки, пароли и други.">
-<!ENTITY welcome.signIn.label "Вписване">
-<!ENTITY welcome.createAccount.label "Създаване на профил">
+
+
 
 <!ENTITY welcome.useOldSync.label "Използвате по-стара версия на Sync ли?">
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+
+
