@@ -16,7 +16,6 @@
 
 <!ENTITY manageAccount.label          "គ្រប់គ្រង​គណនី">
 <!ENTITY manageAccount.accesskey      "គ">
-<!ENTITY viewQuota.label              "មើល​កូតា">
 <!ENTITY changePassword2.label        "ផ្លាស់ប្ដូរ​ពាក្យសម្ងាត់…">
 <!ENTITY myRecoveryKey.label          "ពាក្យគន្លឹះ​របស់​ខ្ញុំ">
 <!ENTITY resetSync2.label             "កំណត់​ការ​ធ្វើ​សមកាលកម្ម​ឡើងវិញ…">
@@ -26,8 +25,6 @@
 <!ENTITY syncMy.label               "ធ្វើ​សមកាលកម្ម">
 <!ENTITY engine.bookmarks.label     "ចំណាំ">
 <!ENTITY engine.bookmarks.accesskey "ណ">
-<!ENTITY engine.readinglist.label   "បញ្ជី​អាន">
-<!ENTITY engine.readinglist.accesskey "ប">
 <!ENTITY engine.tabs.label          "ផ្ទាំង">
 <!ENTITY engine.tabs.accesskey      "ង">
 <!ENTITY engine.history.label       "ប្រវត្តិ">
@@ -74,13 +71,24 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "អ្នក​មិន​បាន​ចូល។">
 <!ENTITY signIn.label                "ចូល">
+
 <!ENTITY manage.label                "គ្រប់គ្រង">
 <!ENTITY disconnect.label            "កំពុង​ផ្ដាច់...">
 <!ENTITY verify.label                "ផ្ទៀងផ្ទាត់​អ៊ីមែល">
 <!ENTITY forget.label                "ភ្លេច​អ៊ីមែល​នេះ">
 
 <!ENTITY welcome.description "ចូល​ដំណើរការ​ផ្ទាំង, ចំណាំ, ពាក្យសម្ងាត់​របស់​អ្នក​ និង​ច្រើន​ទៀត នៅ​ទីកន្លែង​ណា​ដែល​អ្នក​ប្រើ &brandShortName; ។">
-<!ENTITY welcome.signIn.label "ចូល">
-<!ENTITY welcome.createAccount.label "បង្កើត​គណនី">
+
+
 
 <!ENTITY welcome.useOldSync.label "ប្រើ​កំណែ​ចាស់​នៃ​សមកាលកម្ម​ឬ?">
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+
+
