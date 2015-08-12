@@ -2,14 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 
-<!ENTITY resetProfile.dialog.title        "&brandShortName;ê reset bike">
-<!ENTITY resetProfile.dialog.description  "Ji dil dixwazî ku &brandShortName;ê reset bikî û bînî rewşa pêşî?">
-<!ENTITY resetProfile.dialog.items2.label "&brandShortName; dê hewlê bide ku van biparêze:">
-<!ENTITY resetProfile.dialog.footer.label "&brandShortName; dê ji nû ve bê destpêkirin û hemû tiştên din dê bên jêbirin.">
-<!ENTITY resetProfile.dialog.button.label "&brandShortName;ê reset bike">
 
-<!ENTITY resetProfile.title               "&brandShortName;ê bo vegerandina rewşa pêşî reset bike">
-<!ENTITY resetProfile.description         "Eger pirsgirêkên te mezin bin, tenê agahiyên xwe yên girîng biparêze û destpêkeke nû bike.">
-<!ENTITY resetProfile.button.label2       "&brandShortName;ê reset bike…">
 
-<!ENTITY resetProfile.cleaning.description "Tika ye dema ku &brandShortName; daneyên te paqij dike li bendê be…">
+
+
+
+
+

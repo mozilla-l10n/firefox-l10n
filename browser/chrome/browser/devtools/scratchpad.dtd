@@ -46,6 +46,24 @@
 <!ENTITY closeCmd.key                 "W">
 
 
+
+
+
+
+
+
+
+
+
+
+<!-- + is above this key on many keyboards -->
+
+
+
+
+
+
+
 <!ENTITY editMenu.label               "Serastkirin">
 <!ENTITY editMenu.accesskey           "S">
 

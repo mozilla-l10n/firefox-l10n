@@ -110,7 +110,7 @@ ne ji komputera te ye.</li>
 nikare bidomîne.</p>">
 
 <!ENTITY nssFailure2.title "Girêdana Ewle Têk Çû">
-<!ENTITY nssFailure2.longDesc "<p>Ji ber ku cureyê şidandinê ê nederbasdar an jî bêdestek bi kar tînî, rûpela ku dixwazî vekî, nayê nîşandan.</p><ul><li>Bi xwediyê malperê re têkeve têkiliyê an jî ji pêşeka alîkariyê zêdetir agahî bixwîne.</li></ul>">
+<!ENTITY nssFailure2.longDesc2 "<p>Ji ber ku cureyê şidandinê ê nederbasdar an jî bêdestek bi kar tînî, rûpela ku dixwazî vekî, nayê nîşandan.</p><ul><li>Bi xwediyê malperê re têkeve têkiliyê an jî ji pêşeka alîkariyê zêdetir agahî bixwîne.</li></ul>">
 
 <!ENTITY nssBadCert.title "Girêdana Ewle Têk Çû">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
@@ -123,12 +123,14 @@ nikare bidomîne.</p>">
 <!ENTITY malwareBlocked.longDesc "<p>Malperên êrîşkar dikin ku li ser komputera te bnernameyan saz bikin û li ser komputera te êrîşî komputerên din bikin.</p> 
 <p>Xwediyên malperên ku malperên wan wekî malperên êrîşkar hatine raporkirin dikarin serî li <a href='http://www.stopbadware.org/home/reviewinfo' >bidin</a>.</p>">
 
+
+
 <!ENTITY phishingBlocked.title "Malpera Sextekariyê ya Gumanbar!">
 <!ENTITY phishingBlocked.longDesc "<p>Dibe ku agahiyên bikevî vê malperê bibin sedema dizîna agahiyên te yên takekesî.</p> 
 <p>Ev cure malperên sextekar xwe wekî ewle nîşan didin lê êrîşên nepen dikin.</p>">
 
-<!ENTITY cspFrameAncestorBlocked.title "Ji hêla Peymana Ewlekariya Naverokê ve hate astenkirin">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Ji ber ku di vê r»pelê de naverokeke peymana ewlekariyê ew asteng dike heye, gerokê di dema barkirina bi vî awayî de ev rûpel asteng kir.</p>">
+<!ENTITY cspBlocked.title "Ji hêla Peymana Ewlekariya Naverokê ve hate astenkirin">
+<!ENTITY cspBlocked.longDesc "<p>Ji ber ku di vê r»pelê de naverokeke peymana ewlekariyê ew asteng dike heye, gerokê di dema barkirina bi vî awayî de ev rûpel asteng kir.</p>">
 
 <!ENTITY corruptedContentError.title "Çewtiya Naveroka Şikestî">
 <!ENTITY corruptedContentError.longDesc "<p>Ji ber ku di guhestina daneyan de çewtiyek hat dîtin ev rûpel nayê nîşandan.</p><ul><li>Xwediyên malperê derbarê vê arîşeyê de agahdar bike.</li></ul>">

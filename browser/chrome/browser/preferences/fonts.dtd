@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  fontsDialog.title                       "Cureyên Nivîsan">
-<!ENTITY  window.width                            "43em">
-<!ENTITY  window.macWidth                         "43em">
-<!ENTITY  window.unixWidth                        "43em">
 
 <!ENTITY  language.label                          "Cureyên Nivîsan Ji Bo:">
 <!ENTITY  language.accesskey                      "C">
@@ -23,19 +20,18 @@
 <!ENTITY  sans-serif.accesskey                    "B">
 <!ENTITY  monospace.label                         "Monospace:">
 <!ENTITY  monospace.accesskey                     "M">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
-<!ENTITY  font.langGroup.latin1                   "Ewropaya Rojava">
-<!ENTITY  font.langGroup.latin2                   "Ewropaya Navîn">
+<!ENTITY  font.langGroup.latin                    "Latinî">
 <!ENTITY  font.langGroup.japanese                 "Japonî">
 <!ENTITY  font.langGroup.trad-chinese             "Çîniya Dêrîn (Taywan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Çîniya Hêsan">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Çîniya Dêrîn Çince (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "Koreyî">
 <!ENTITY  font.langGroup.cyrillic                 "Kîrîlî">
-<!ENTITY  font.langGroup.baltic                   "Baltîkî">
 <!ENTITY  font.langGroup.el                       "Yewnanî">
-<!ENTITY  font.langGroup.turkish                  "Tirkî">
-<!ENTITY  font.langGroup.unicode                  "Zimanên Din">
+
 <!ENTITY  font.langGroup.thai                     "Zimanê Tayî">
 <!ENTITY  font.langGroup.hebrew                   "Îbranî">
 <!ENTITY  font.langGroup.arabic                   "Erebî">
@@ -50,6 +46,7 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmuxî">
 <!ENTITY  font.langGroup.khmer                    "Kamboçî">
 <!ENTITY  font.langGroup.malayalam                "Zimanê Malayala">
+
 <!ENTITY  font.langGroup.oriya                    "Zimanê Oriya">
 <!ENTITY  font.langGroup.telugu                   "Zimanê Telugu">
 <!ENTITY  font.langGroup.kannada                  "Kannadî">
@@ -67,16 +64,15 @@
 <!ENTITY  allowPagesToUse.label                   "Ji bilî yên ku min hilbijartine, destûrê bide malperan da ku cureyên nivîsên xwe bikar bînin.">
 <!ENTITY  allowPagesToUse.accesskey               "s">
 
-<!ENTITY languages.customize.Fallback.grouplabel  "Ji bo naverokên mîrate kodkirina karakteran">
-<!ENTITY languages.customize.Fallback.label       "Kodkirina karakteran ya alternatîf:">
-<!ENTITY languages.customize.Fallback.accesskey   "C">
-<!ENTITY languages.customize.Fallback.desc        "Ev kodkirina karakteran, ji bo naverokên mîrate yên ku nikarin kodkirina xwe pênase bikin, tê bikaranîn.">
+
+
+
 
 <!ENTITY languages.customize.Fallback.auto        "Ji bo ciyê heyî standard">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.arabic      "Erebî">
-<!ENTITY languages.customize.Fallback.baltic      "Baltîkî">
+
 <!ENTITY languages.customize.Fallback.ceiso       "Ewropaya Navîn, ISO">
 <!ENTITY languages.customize.Fallback.cewindows   "Ewropaya Navîn, Microsoft">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
@@ -103,7 +99,6 @@
 <!ENTITY languages.customize.Fallback.thai        "Zimanê Tayî">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.turkish):
      Translate "Turkish" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.turkish     "Tirkî">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.vietnamese  "Wiyetnamî">

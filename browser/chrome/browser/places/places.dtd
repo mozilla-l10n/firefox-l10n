@@ -52,6 +52,8 @@
 <!ENTITY cmd.open.accesskey              "V">
 <!ENTITY cmd.open_window.label           "Di pencereyeke nû de veke">
 <!ENTITY cmd.open_window.accesskey       "n">
+
+
 <!ENTITY cmd.open_tab.label              "Di Hilpekîneke Nû de Veke">
 <!ENTITY cmd.open_tab.accesskey          "D">
 <!ENTITY cmd.open_all_in_tabs.label      "Hemûyan di Hilpekînan de Veke">
@@ -83,7 +85,6 @@
 <!ENTITY col.url.label           "Cih">
 <!ENTITY col.mostrecentvisit.label "Serdana Dawîn">
 <!ENTITY col.visitcount.label    "Hejmara Vebûnê">
-<!ENTITY col.keyword.label       "Peyva Kilît">
 <!ENTITY col.description.label   "Daxuyanî">
 <!ENTITY col.dateadded.label     "Têxistin">
 <!ENTITY col.lastmodified.label  "Guherandina Dawîn">

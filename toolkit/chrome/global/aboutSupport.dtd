@@ -33,8 +33,10 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsTitle "Bingehên Sepanê">
 <!ENTITY aboutSupport.appBasicsName "Nav">
 <!ENTITY aboutSupport.appBasicsVersion "Guherto">
-<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
+
 
 
 <!ENTITY aboutSupport.appBasicsProfileDir "Pelrêça Profîlê">
@@ -46,6 +48,9 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsBuildConfig "Mîhengên Avakirinê">
 <!ENTITY aboutSupport.appBasicsUserAgent "Navbeynkara Bikarhêner">
 
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
+
+
 
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
@@ -55,8 +60,11 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.modifiedPrefsName "Nav">
-<!ENTITY aboutSupport.modifiedPrefsValue "Nirx">
+
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
+
+
+
 
 
 <!ENTITY aboutSupport.graphicsTitle "Grafîk">
@@ -70,5 +78,8 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.installationHistoryTitle "Mêjûya sazkirinê">
 <!ENTITY aboutSupport.updateHistoryTitle "Mêjûya rojanekirinê">
+
+
+
 
 

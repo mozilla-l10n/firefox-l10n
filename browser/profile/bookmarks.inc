@@ -76,14 +76,4 @@
 #define firefox_about Der Barê Me De
 
 
-# LOCALIZATION NOTE (firefox_feedback):
-
-
-# link title for browser feedback page
-
-
-# currently used by Metro only: https://input.mozilla.org/feedback/metrofirefox
-
-
-
 #unfilter emptyLines

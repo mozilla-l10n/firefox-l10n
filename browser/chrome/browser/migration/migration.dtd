@@ -11,14 +11,22 @@
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
+
+
 <!ENTITY importFromNothing.label        "Tu tiştî veneguhêze hundir">
 <!ENTITY importFromNothing.accesskey    "d">
 <!ENTITY importFromSafari.label         "Safari">
 <!ENTITY importFromSafari.accesskey     "S">
+
+
 <!ENTITY importFromChrome.label         "Chrome">
 <!ENTITY importFromChrome.accesskey     "C">
+
+
 <!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "x">
+
+
 
 <!ENTITY noMigrationSources.label       "Tu bernameyeke ku bijare, mêjû an jî nasnav di xwe de dihewîne nehat dîtin">
 

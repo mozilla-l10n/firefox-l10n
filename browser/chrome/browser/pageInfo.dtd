@@ -22,11 +22,9 @@
 <!ENTITY  generalReferrer       "URL'yên Serîlêdanê:">
 <!ENTITY  generalSource         "Çavkaniya Bîrê:">
 <!ENTITY  generalModified       "Guherîn:">
-<!ENTITY  generalEncoding       "Binasnav:">
+
 <!ENTITY  generalMetaName       "Nav">
 <!ENTITY  generalMetaContent    "Naverok">
-<!ENTITY  generalSecurityDetails   "Kitekit">
-<!ENTITY  generalSecurityDetails.accesskey "K">
 
 <!ENTITY  mediaTab              "Medya">
 <!ENTITY  mediaTab.accesskey    "M">
@@ -65,7 +63,6 @@
 
 <!ENTITY  securityTab           "Ewlekarî">
 <!ENTITY  securityTab.accesskey "E">
-<!ENTITY  securityHeader        "Agahiyên ewlekariyê yên rûpelê">
 <!ENTITY  securityView.certView "Sertîfîkayê Nîşan Bide">
 <!ENTITY  securityView.accesskey "B">
 <!ENTITY  securityView.unknown   "Nayê Zanîn">
@@ -85,3 +82,5 @@
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "W">
 
 <!ENTITY  securityView.technical.header                 "Kitekitên Teknîkî">
+
+<!ENTITY  helpButton.label                              "Alîkarî">

@@ -21,8 +21,8 @@
 
 <!ENTITY  reloadTab.label                    "Hilpekînê ji nû ve bar bike">
 <!ENTITY  reloadTab.accesskey                "n">
-<!ENTITY  reloadAllTabs.label                "Hemû hilpekînan ji nû ve bar bike">
-<!ENTITY  reloadAllTabs.accesskey            "H">
+
+
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -45,10 +45,10 @@ can reach it easily. -->
 <!ENTITY  moveToNewGroup.label               "Koma nû">
 <!ENTITY  moveToNewWindow.label              "Biguheze pencereyeke din">
 <!ENTITY  moveToNewWindow.accesskey          "B">
-<!ENTITY  bookmarkAllTabs.label              "Hemû hilpekînan têxe bijareyan…">
-<!ENTITY  bookmarkAllTabs.accesskey          "m">
-<!ENTITY  undoCloseTab.label                 "Hilpekîna hat girtin şûnde bîne">
-<!ENTITY  undoCloseTab.accesskey             "H">
+
+
+
+
 <!ENTITY  closeTab.label                     "Hilpekînê bigire">
 <!ENTITY  closeTab.accesskey                 "g">
 
@@ -57,6 +57,9 @@ can reach it easily. -->
 <!ENTITY tabCmd.label "Hilpekîna Nû">
 <!ENTITY tabCmd.accesskey "H">
 <!ENTITY tabCmd.commandkey "t">
+<!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
+displayed on OS X, and only on windows that aren't main browser windows, or
+when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.label "Pelî Veke...">
 <!ENTITY openFileCmd.accesskey "V">
 <!ENTITY openFileCmd.commandkey "o">
@@ -73,10 +76,16 @@ can reach it easily. -->
 
 <!ENTITY menubarCmd.label "Darikê Pêşekê">
 <!ENTITY menubarCmd.accesskey "D">
-<!ENTITY navbarCmd.label "Darikê Amûran a Gerê">
+
 <!ENTITY personalbarCmd.label "Darikê Amûran a Bijareyan">
 <!ENTITY personalbarCmd.accesskey "A">
 <!ENTITY bookmarksToolbarItem.label "Nîşaneyên Bijareyan">
+
+
+
+
+
+
 
 <!ENTITY pageSourceCmd.label "Çavkaniya Rûpelê">
 <!ENTITY pageSourceCmd.accesskey "a">
@@ -84,6 +93,8 @@ can reach it easily. -->
 <!ENTITY pageInfoCmd.label "Agahiyên Rûpelê">
 <!ENTITY pageInfoCmd.accesskey "A">
 <!ENTITY pageInfoCmd.commandkey "i">
+
+
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "Ji moda Dîmender Tijî derkeve">
@@ -97,6 +108,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "a">
 
 <!ENTITY fxaSignIn.label "Danişîna &syncBrand.shortName.label;ê veke">
+
 <!ENTITY fxaSignInError.label "Dîsa têkeve &syncBrand.shortName.label;ê">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; hat çalakirin">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; dê kêliyeke din bê hevcotkirin.">
@@ -113,8 +125,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "D">
 <!ENTITY fullScreenExit.label "Ji Moda Dîmender Tijî derkeve">
 <!ENTITY fullScreenExit.accesskey "J">
-<!ENTITY fullscreenAllowButton.label "Destûrê bide">
-<!ENTITY fullscreenExitButton.label "Red bike">
 
 <!ENTITY fullscreenExitHint2.value "Dema bixwazî jê derkevî, pêl ESCê bike.">
 <!ENTITY leaveDOMFullScreen.label "Ji moda Dîmender Tijî derkeve">
@@ -125,22 +135,25 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Bijare">
 <!ENTITY bookmarksMenu.accesskey "B">
-<!ENTITY bookmarkThisPageCmd.label "Vê Rûpelê Têxe Nava Bijareyan...">
+
 <!ENTITY editThisBookmarkCmd.label "Vê bijareyê serast bike">
 <!ENTITY bookmarkThisPageCmd.commandkey "D">
 <!ENTITY markPageCmd.commandkey "l">
+<!-- LOCALIZATION NOTE (findShareServices.label):
+  -  Use the unicode ellipsis char, \u2026,
+  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
 <!ENTITY sharePageCmd.label "Vê rûpelê parve bike">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "p">
-<!ENTITY shareLinkCmd.label "Vê girêdankê parve bike">
-<!ENTITY shareLinkCmd.accesskey "p">
-<!ENTITY shareImageCmd.label "Vî wêneyî parve bike">
-<!ENTITY shareImageCmd.accesskey "p">
-<!ENTITY shareSelectCmd.label "Hilbijartinê parve bike">
-<!ENTITY shareSelectCmd.accesskey "p">
-<!ENTITY shareVideoCmd.label "Vê vîdeoyê parve bike">
-<!ENTITY shareVideoCmd.accesskey "p">
-<!ENTITY feedsMenu.label "Bibe abone">
+<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
+
+
+
+
+
+
+
+
 <!ENTITY subscribeToPageMenupopup.label "Endambûna Ji Bo Vê Rûpelê">
 <!ENTITY subscribeToPageMenuitem.label "Endambûna Ji Bo Vê Rûpelê">
 <!ENTITY addCurPagesCmd.label "Hemû Hilpekînan Têxe Bijareyan...">
@@ -148,19 +161,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY unsortedBookmarksCmd.label "Bijareyên nerêzkirî">
 <!ENTITY bookmarksToolbarChevron.tooltip "Zêdetir bijare nîşan bide">
 
-<!ENTITY backCmd.label                "Paş">
-<!ENTITY backCmd.accesskey            "P">
 <!ENTITY backButton.tooltip           "Rûpelek here paş">
-<!ENTITY forwardCmd.label             "Pêş">
-<!ENTITY forwardCmd.accesskey         "P">
+
 <!ENTITY forwardButton.tooltip        "Rûpelek here pêş">
 <!ENTITY backForwardButtonMenu.tooltip "Ji bo dîtina raboriyê rast bitikîne yan jî kaş biker xwarê">
 <!ENTITY backForwardButtonMenuMac.tooltip "Ji bo dîtina raboriyê kaş bike xwarê">
-<!ENTITY reloadCmd.label              "Ji NûVe Bar Bike">
-<!ENTITY reloadCmd.accesskey          "N">
+
 <!ENTITY reloadButton.tooltip         "Rûpela derbasdar nû bike">
-<!ENTITY stopCmd.label                "Bide sekinandin">
-<!ENTITY stopCmd.accesskey            "s">
+
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Barkirina rûpelê bide sekinandin">
 <!ENTITY goEndCap.tooltip             "Here navnîşana di Darikê Cihî de">
@@ -199,13 +207,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "k">
 
 <!ENTITY downloads.label              "Yên hatine daxistin">
-<!ENTITY downloads.tooltip            "Rewşa daxistinên pelan nîşan bide">
 <!ENTITY downloads.accesskey          "d">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "Y">
 <!ENTITY addons.label                 "Add-on">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
+
+
 
 <!ENTITY webDeveloperMenu.label       "Pêşvebira Webê">
 <!ENTITY webDeveloperMenu.accesskey   "W">
@@ -230,7 +239,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "Xuyana sêwirîna lêhatî">
 <!ENTITY responsiveDesignTool.accesskey "l">
-<!ENTITY responsiveDesignTool.commandkey "M">
+
+
+
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -252,11 +263,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY browserToolboxMenu.label     "Darikê Amûran yê Gerokê">
 <!ENTITY browserToolboxMenu.accesskey "A">
 
+<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
+  -  application menu item that opens the browser content toolbox UI in the Tools menu.
+  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
+
+
 <!ENTITY devToolbarCloseButton.tooltiptext "Darikê Amûran yê pêşvebirê bigire">
 <!ENTITY devToolbarMenu.label              "Darikê Amûran yê pêşvebirê">
 <!ENTITY devToolbarMenu.accesskey          "ê">
-<!ENTITY devAppMgrMenu.label               "Birêveberiya Sepanan">
-<!ENTITY devAppMgrMenu.accesskey           "S">
+
+
+
+
+
+<!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Amûran bigire/veke">
@@ -276,6 +296,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "Pencereyeke Nepen ya nû">
 <!ENTITY newPrivateWindow.accesskey "P">
+
 
 <!ENTITY editMenu.label         "Serastkirin"> 
 <!ENTITY editMenu.accesskey       "S"> 
@@ -365,6 +386,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.placeholder2          "Peyveke lêgerînê yan jî navnîşanek">
 <!ENTITY urlbar.accesskey             "D">
 <!ENTITY urlbar.switchToTab.label     "Derbasî hilpekînê bibe:">
+
+
+<!ENTITY urlbar.searchSuggestionsNotification.disable "Na">
+<!ENTITY urlbar.searchSuggestionsNotification.enable "Erê">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -389,6 +414,28 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "K">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "J">
+<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
+     These are set as the aria-label attribute for the search input box and
+     submit button in the in-content search UI, to be used by screen readers. -->
+
+<!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
+     These two strings are used to build the header above the list of one-click
+     search providers:  "Search for <used typed keywords> with:" -->
+
+<!-- LOCALIZATION NOTE (search.label, searchAfter.label):
+     This string is used to build the header above the list of one-click search
+     providers when a one off engine has been selected.  The searchAfter text is
+     intentionally left empty for en-US and can be used by other localizations to
+     display a string after the search engine name.  This string will be displayed
+     as:  "Search <selected engine name><searchAfter.label text>" -->
+<!ENTITY searchAfter.label            "">
+<!-- LOCALIZATION NOTE (searchWithHeader.label):
+     The wording of this string should be as close as possible to
+     searchFor.label and searchWith.label. This string will be used instead of
+     them when the user has not typed any keyword. -->
+<!-- LOCALIZATION NOTE (changeSearchSettings.button):
+     This string won't wrap, so if the translated string is longer,
+     consider translating it as if it said only "Search Settings". -->
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -436,15 +483,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "W">
 <!ENTITY setDesktopBackgroundCmd.label      "Wekî Rûerda Sermaseyê Mîheng Bike...">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
-<!ENTITY bookmarkPageCmd2.label       "Vê Rûpelê Têxe Nava Bijareyan...">
-<!ENTITY bookmarkPageCmd2.accesskey   "x">
+
 <!ENTITY bookmarkThisLinkCmd.label      "Vê Girêdanê Têxe Nava Bijareyan...">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "e">
 <!ENTITY bookmarkThisFrameCmd.label      "Vê Çarçoveyê Têxe Nava Bijareyan...">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "y">
 <!ENTITY emailPageCmd.label           "Girêdankê bi epeyamê bişîne…">
 <!ENTITY emailPageCmd.accesskey       "e">
-<!ENTITY switchToMetroCmd.label       "&brandShortName;ê bi şêweya Windows 8ê veke">
 <!ENTITY savePageCmd.label            "Cuda Tomar Bike...">
 <!ENTITY savePageCmd.accesskey        "r">
 <!-- alternate for content area context menu -->
@@ -466,6 +511,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "n">
 <!ENTITY emailVideoCmd.label          "Vîdeoyê bi epeyamê bişîne…">
 <!ENTITY emailVideoCmd.accesskey      "y">
+
+
 <!ENTITY emailAudioCmd.label          "Audioyê bi epeyamê bişîne…">
 <!ENTITY emailAudioCmd.accesskey      "A">
 <!ENTITY playPluginCmd.label          "Vê pêvekê çalak bike">
@@ -562,26 +609,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Nêzîk Bike">
 <!ENTITY fullZoom.accesskey             "z">
 
-<!ENTITY newTabButton.tooltip           "Mở một thẻ mới">
-<!ENTITY newWindowButton.tooltip        "Pencereyeke nû veke">
 <!ENTITY sidebarCloseButton.tooltip     "Darikê quncikê bigire">
 
-<!ENTITY fullScreenButton.tooltip       "Pencereyê dîmender tijî nîşan bide">
+<!ENTITY quitApplicationCmdWin2.label       "Derkeve">
+<!ENTITY quitApplicationCmdWin2.accesskey   "k">
 
-<!ENTITY quitApplicationCmdWin.label       "Derkeve"> 
-<!ENTITY quitApplicationCmdWin.accesskey   "k">
-<!ENTITY quitApplicationCmdWin.tooltip     "Ji &brandShortName;ê derkeve">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Derkeve"> 
 <!ENTITY quitApplicationCmd.accesskey   "k">
-<!ENTITY quitApplicationCmdMac.label    "Derkeve">
+
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "Q">
 
 <!ENTITY closeCmd.label                 "Bigire">  
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "B">
+
 
 <!ENTITY pageStyleMenu.label "Teşeyê Rûpelê">
 <!ENTITY pageStyleMenu.accesskey "T">
@@ -621,31 +665,33 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "Temam">
 <!ENTITY editBookmark.cancel.label                   "Betal">
-<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
-<!ENTITY identity.unverifiedsite2 "Di vê malperê de agahiyên nasnameyê nîn in.">
-<!ENTITY identity.connectedTo "Bi vê ve hatî girêdan">
-<!-- Localization note (identity.runBy) : This string appears between a
-domain name (above) and an organization name (below). E.g.
 
-example.com
-which is run by
-Example Enterprises, Inc.
 
-The layout of the identity dialog prevents combining this into a single string with
-substitution variables.  If it is difficult to translate the sense of the string
-with that structure, consider a translation which ignores the preceding domain and
-just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "yê ku ji hêla vê ve tê xebitandin">
 
-<!ENTITY identity.moreInfoLinkText "Der barê vê malperê de zêdetir agahî bide min...">
+
+
+<!-- Strings for connection state warnings. -->
+
+
+
+<!-- Strings for connection state warnings in the subview. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY identity.permissions "Destûr">
-<!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
-     localized title of this SUMO article
-     https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
-
-<!ENTITY identity.help.tooltip "Ez ê çawa bizanim ku girêdana min û malperekê ewle ye yan na?">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -686,6 +732,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
+
+
+
 <!ENTITY customizeMode.tabTitle "&brandShortName;ê taybet bike">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Amûr û taybetiyên pêvekî">
 <!ENTITY customizeMode.menuAndToolbars.empty "Amûrên din dixwazî?">
@@ -693,6 +742,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.restoreDefaults "Vegerîne ya standard">
 <!ENTITY customizeMode.toolbars "Darikê amûran nîşan bide / veşêre">
 <!ENTITY customizeMode.titlebar "Darikê sernavê">
+
+
+
+
+
+
+
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Li ser sohbetan hûr bibe">
@@ -708,10 +764,31 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.selectMicrophone.label "Mîkrofona parvekirinê:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 
-<!ENTITY webrtcIndicatorButton.label "Gihîştina Kamera / Mîkrofonê">
-<!ENTITY webrtcIndicatorButton.tooltip "Malperên ku tu niha kamera yan jî mîkrofona xwe pê re parve dikî nîşan dibe">
 
-<!ENTITY mixedContentBlocked.moreinfo "Eger ev taybetî bête astengkirin jî gelek malper dê bixebitin.">
+
+
+
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+
+
+
+
+<!ENTITY trackingContentBlocked.message "Şopandin">
+
+
+
+
+
+
+
+
 
 <!ENTITY pointerLock.notification.message "Dema bixwazî dîsa bibînî pêl ESCê bike.">
 
@@ -730,53 +807,45 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY pluginNotification.width "32em">
 
-<!ENTITY tabCrashed.header "Hilpekîn hilweşiya">
-<!ENTITY tabCrashed.message "Mixabin ev şerm e. Me ceriband ku em rûpelê vekin, lê rûpel bersivê nade.">
-<!ENTITY tabCrashed.checkSendReport "&vendorShortName;ê ji hilweşînê agahdar bike da ku dikaribe çareser bike.">
-<!ENTITY tabCrashed.tryAgain "Dîsa Biceribîne">
-
 <!ENTITY uiTour.infoPanel.close "Bigire">
-<!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
-     kept here to avoid warnings from l10n tools like compare-locales on
-     l10n-central. They will be definitely removed when Australis is ready
-     for mozilla-aurora. -->
 
-
-<!ENTITY navbarCmd.accesskey           "A">
-<!ENTITY addonBarCmd.label             "Darikê Add-onan">
-<!ENTITY addonBarCmd.accesskey         "D">
-<!ENTITY throbberItem.title            "Şanîkera çalakiyan">
-<!ENTITY appMenuButton.label           "Pêşek">
-<!ENTITY appMenuButton.tooltip         "Pêşeka &brandShortName;ê veke">
-<!ENTITY feedButton.label              "Bibe abone">
-<!ENTITY feedButton.tooltip            "Bibe abone ji bo vê rûpelê...">
-<!ENTITY bookmarksButton.tooltip       "Bijareyên xwe bibîne">
-<!ENTITY historyButton.tooltip         "Malperên vê dawiyê hatine vekirin bibîne">
-<!ENTITY viewTabsOnTop.label           "Hilpekîn li Jorê">
-<!ENTITY viewTabsOnTop.accesskey       "H">
-<!ENTITY appMenuEdit.label             "Serastkirin">
-<!ENTITY appMenuToolbarLayout.label    "Bicîbûna Darikê Amûran…">
 <!ENTITY appMenuSidebars.label         "Darikên kêlekê">
-<!ENTITY appMenuFind.label             "Lêgerîn…">
-<!ENTITY appMenuUnsorted.label         "Bijareyên tomarnebûyî">
-<!ENTITY appMenuWebDeveloper.label     "Pêşdebirê webê">
-<!ENTITY appMenuGettingStarted.label   "Destpêkirin">
-<!ENTITY appMenuSafeMode.label         "Dîsdestpêkirina bi Add-onan hate neçalakirin…">
-<!ENTITY appMenuSafeMode.accesskey     "r">
-<!ENTITY cutButton.tooltip             "Jê bike">
-<!ENTITY copyButton.tooltip            "Kopîkirin">
-<!ENTITY pasteButton.tooltip           "Pêve bike">
-<!ENTITY zoomOutButton.tooltip         "Biçûk bike">
-<!ENTITY zoomInButton.tooltip          "Mezin bike">
-<!ENTITY zoomControls.label            "Kontrola zoomê">
-<!ENTITY addonBarCloseButton.tooltip   "Darikê amûran bigire">
-<!ENTITY toggleAddonBarCmd.key         "/">
-<!ENTITY backForwardItem.title         "Paşve/Pêşve">
-<!ENTITY viewBookmarksSidebar.label    "Di Darikê Kêlekê de Nîşan Bide">
-<!ENTITY bookmarksItem.title           "Bijare">
-<!ENTITY openLocationCmd.label         "Cih Veke...">
-<!ENTITY openLocationCmd.accesskey     "C">
-<!ENTITY bookmarksMenuButton.tooltip   "Bijareyên xwe bibîne">
-<!ENTITY switchToMetroCmd2.label       "Di &brandShortName;ê de bo Windows 8 Touchê dîsa veke">
-<!ENTITY tabGroupsButton.tooltip       "Hilpekînan li koman dabeş bike">
-<!-- end of strings to be removed post-Australis -->
+<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
+     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
+     Please ensure that this remains the case in the translation. -->
+
+
+
+<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
+     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
+     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
+     The translation should do the same. -->
+
+
+
+
+
+<!ENTITY panicButton.view.undoWarning             "Ev çalakî şûnde nayê anîn.">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY emeNotificationsDontAskAgain.label       "Careke din nepirse">
+<!ENTITY emeNotificationsDontAskAgain.accesskey   "D">
+<!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
+
+
+
+

@@ -10,8 +10,6 @@
 
 
 <!ENTITY abouthome.pageTitle "Rûpela Destpêkê ya &brandFullName;ê">
-
-<!ENTITY abouthome.searchEngineButton.label "Lêgerîn">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
@@ -26,8 +24,16 @@
 
 <!ENTITY abouthome.bookmarksButton.label "Bijare">
 <!ENTITY abouthome.historyButton.label   "Mêjû">
-<!ENTITY abouthome.settingsButton.label  "Eyar">
+<!-- LOCALIZATION NOTE (abouthome.preferencesButtonWin.label): The label for the
+     preferences/options item on about:home on Windows -->
+<!ENTITY abouthome.preferencesButtonWin.label  "Vebijêrk">
+<!-- LOCALIZATION NOTE (abouthome.preferencesButtonUnix.label): The label for the
+     preferences/options item on about:home on Linux and OS X -->
+<!ENTITY abouthome.preferencesButtonUnix.label  "Vebijêrk">
 <!ENTITY abouthome.addonsButton.label    "Add-on">
-<!ENTITY abouthome.appsButton.label      "Marketplace">
+<!-- LOCALIZATION NOTE (abouthome.appsButton2.label): This string should be consistent with
+     the Apps menu item in the Tools menu (webapps.label in browser.dtd) and the Apps toolbar button in
+     Firefox's customization palette (web-apps-button.label in customizableWidgets.properties) -->
+<!ENTITY abouthome.appsButton2.label     "Sepan">
 <!ENTITY abouthome.downloadsButton.label "Jêbarkirî">
 <!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">

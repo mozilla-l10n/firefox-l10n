@@ -4,6 +4,7 @@
 <!ENTITY addons.windowTitle                   "Rêveberiya Add-onan">
 
 <!ENTITY search.placeholder                   "Li hemû add-onan bigere">
+
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
@@ -21,6 +22,8 @@
 
 <!ENTITY cmd.back.tooltip                     "Rûpelek paşve">
 <!ENTITY cmd.forward.tooltip                  "Rûpelek pêşve">
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Hemû add-on ji hêla moda ewle ve hatin neçalakirin.">
@@ -35,8 +38,6 @@
 <!ENTITY info.plugincheck.label                 "Binêre ka pêvekên te nû ne yan na">
 <!ENTITY info.plugincheck.tooltip               "Kontrol bike ka pêvekên te nû ne yan ya">
 <!-- categories / views -->
-
-<!ENTITY view.search.label                    "Lêgerîn">
 <!ENTITY view.discover.label                  "Add-onan bistîne">
 <!ENTITY view.recentUpdates.label             "Rojanekirin Nêz">
 <!ENTITY view.availableUpdates.label          "Rojankirinên Amade">
@@ -101,6 +102,8 @@
 <!ENTITY cmd.installAddon.accesskey           "i">
 <!ENTITY cmd.uninstallAddon.label             "Rake">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
+
+
 <!ENTITY cmd.showPreferencesWin.label         "Vebijêrk">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Vebijêrkên vê add-onê biguherîne">
 <!ENTITY cmd.showPreferencesUnix.label        "Vebijêrk">
@@ -216,3 +219,25 @@ ceribandina te bikeve hin add-onên herî baş û nas.">
 <!ENTITY eula.accept                          "Bipejirîne û Saz Bike…">
 
 <!ENTITY settings.path.button.label           "Bigere...">
+<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
+     experiments are present on the "Experiments" tab of the add-ons manager.
+     This tab won't be displayed unless an Experiment add-on is installed.
+     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
+     to cause this tab to appear. -->
+<!ENTITY experiment.info.learnmore "Zêdetir bixwîne…">
+
+
+
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
+     These entities form a sentence, with
+     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
+     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
+     being a link to an external site. -->
+
+

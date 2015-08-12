@@ -9,30 +9,11 @@
 <!ENTITY setPassword.newPassword.label "Nasnavê nû:">
 <!ENTITY setPassword.reenterPassword.label "Nasnavê nû (dubare):">
 <!ENTITY setPassword.meter.label "Kalîteya nasnavê diguhere">
-<!ENTITY setPassword.meter.loading "Tê barkirin">
 <!-- Values for resetpassword.xul -->
 
 <!ENTITY resetPasswordButtonLabel "Reset Bike">
 <!ENTITY resetPassword.title  "Şîfreya Bingehîn Vala Bike">
 <!ENTITY resetPassword.text  "Heke nasnavê xwe yê rêvebiriyê vala bihêlî, nasnavên te yên Web û E-Peyamê, agahiyên te yên Formê, sertîfîkayên te yên kesane û kilîta te ya taybet dê winda bibin. Dixwazî nasnavê xwe yê rêvebiriyê vala bikî?">
-<!-- Values for getpassword.xul -->
-
-<!ENTITY getPassword.title  "Nasnavê xwe yê rêvebiriyê têkevê">
-<!ENTITY getPassword.tokenName2.label "Cîhaza Ewlekariyê:">
-<!ENTITY getPassword.password.label "Şîfre:">
-<!-- These should be common -->
-
-<!ENTITY piperror.title "Xeletî">
-<!ENTITY pipalert.title "Çewtî - Nehat serastkirin">
-<!-- Prefs panel strings -->
-
-<!ENTITY pref.security.general.lHeader "Ewlekarî">
-<!ENTITY pref.security.general.rHeader "Mîhengên ewlekariya giştî">
-<!ENTITY pref.security.general.header "Mîhengên ewlekariya giştî">
-<!ENTITY pref.security.general.level.title "Asta Ewlekariyê">
-<!ENTITY pref.security.general.paranoid.label "Mîhengên ewlekariya paranoid bikar bîne">
-<!ENTITY pref.security.general.certificates.title "Sertîfîka">
-<!ENTITY pref.security.general.manageCert.label "Sertîfîkayan bi rê ve bibe">
 <!-- Downloading a cert -->
 
 <!ENTITY downloadCert.title "Sertîfîka tê jêbarkirin">
@@ -42,9 +23,7 @@
 <!ENTITY downloadCert.trustObjSign "Ev CA ji bo diyarkirina pêşxistinkarên nivîsbariyan ewle ye.">
 <!ENTITY downloadCert.message3 "Ji bo hemû armancan berî ku bi vê CA 'ê ewle bî divê Ewlebûna Sertîfîkayê û Prosedurê kontrol bikî.">
 <!ENTITY downloadCert.viewCert.label "Nîşan bide">
-<!ENTITY downloadCert.viewPolicy.label "Ewlekarî">
 <!ENTITY downloadCert.viewCert.text "Sertîfîkaya CA 'yê kontrol bike">
-<!ENTITY downloadCert.viewPolicy.text "Polîçe û Prosedura CA 'ê kontrol bike">
 <!-- Strings for the SSL client auth ask dialog -->
 
 <!ENTITY clientAuthAsk.title "Lêpirsîna Diyarkirina Bikarhêner">
@@ -63,34 +42,15 @@
 <!ENTITY pkcs12.setpassword.label2 "Nasnavê Hilanîna Sertîfîkayê (dubare):">
 <!ENTITY pkcs12.setpassword.reminder "Girîngî: Heke nasnavê xwe yê hilanîna sertîfîkayê ji bîr bikî, nikarî dû re vê hilanînê çêkî. Ji kerema xwe re vê li ciyeke ewle veşêre.">
 
-<!ENTITY pkcs12.getpassword.title  "Pencereya Têketina Şîfreyê">
-<!ENTITY pkcs12.getpassword.message "Ji kerema xwe re sertîfîkaya Ewlekariyê û nasnavê xwe yê ku kilîta wê ya taybet hiltîne têkevê.">
-
 <!ENTITY chooseToken.title  "Qutîka Hilbijartina Direfşan">
 <!ENTITY chooseToken.message1 "Ji kerema xwe re direfşekê hilbijêre.">
-
-<!ENTITY escrowWarn.title "Kopiya Nasnavê Kilîtê">
-<!ENTITY escrowWarn.message1 "Girîngî: Peywirdara sertîfîkayê tika dike ku tu kopiyeke kilîta xwe ya taybet a ku tu di nasnavkirinê de bikar tînî hilînî.">
-<!ENTITY escrowWarn.benefit1 "Qezenca te ya di vê de ew e dema ku te kilîtê winda kir, dikarî ji peywirdara sertîfîkayê kopiyeke wê bixwazî.">
-<!ENTITY escrowWarn.message2 "Heke kilîtate ya taybet a ku ji hêla peywirdarê sertîfîkayê ve hatiye nasnavkirin winda bibe, peywirdara sertîfîkayê dikare E-Peyam û dokumenên te yên binasnav bêyî destûra te bixwîne.">
-<!ENTITY examineCert.label "Sertîfîkayê Nîşan Bide">
-<!ENTITY examineCert.accesskey "S">
 <!-- Strings for the CreateCertInfo dialog  -->
 
 <!ENTITY createCertInfo.title "Kilîteke taybet biafirîne">
 <!ENTITY createCertInfo.msg1 "Kilît tê afirandin...Dibe ku ev kar demeke dirêj bajo...">
 <!ENTITY createCertInfo.msg2 "Ji kerema xwe li bendê be...">
-<!-- Form Signing confirmation prompt -->
-
-<!ENTITY formSigning.title "Xwestina Têketina Deqê">
-<!ENTITY formSigning.cert "Sertîfîkayên bişanenav">
-<!ENTITY formSigning.confirmPassword "Ji bo ku bi sertîfîkaya ku te hilbijartiye şanenava xwe deynî ser vê deqê nasnavê xwe yê bilind bingehîn erê bike:">
 <!-- Strings for protectedAuth dialog -->
 
 <!ENTITY protectedAuth.title "HNW">
 <!ENTITY protectedAuth.msg "Tika ye nasnameya xwe esehî bike. Rêbaza esehîkirina nasnameyê li gorî cureyê îşaretan diguhere.">
 <!ENTITY protectedAuth.tokenName.label "HNW">
-
-<!ENTITY certErrorDlg.title "Girêdana Ewle Têk Çû">
-<!ENTITY certErrorDlg.info1 "Ev dibe ku ji ber mîhengkirina çewt a pêşkêşkaran be an jî dibe ku kesek hewl bide ku pêşkêşkarê taqlît bike.">
-<!ENTITY certErrorDlg.info2 "Ger berê te karî be bi serkeftî bi vê pêşkêşkarê re bikevî têkiliyê dibe ku çewtî demdemî be û tu dikarî paşê dîsa biceribînî.">
