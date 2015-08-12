@@ -16,7 +16,6 @@
 
 <!ENTITY manageAccount.label          "Lawula iakhawunti">
 <!ENTITY manageAccount.accesskey      "w">
-<!ENTITY viewQuota.label              "Jonga ubuninzi">
 <!ENTITY changePassword2.label        "Guqula Igama Lokugqithisa…">
 <!ENTITY myRecoveryKey.label          "IQhosha lokuFumana lam">
 <!ENTITY resetSync2.label             "Seta kwakhona ungqamaniso…">
@@ -26,8 +25,6 @@
 <!ENTITY syncMy.label               "Ungqamaniso lwam">
 <!ENTITY engine.bookmarks.label     "Izalathisi eziphawulayo">
 <!ENTITY engine.bookmarks.accesskey "e">
-<!ENTITY engine.readinglist.label   "Uluhlu lokufunda">
-<!ENTITY engine.readinglist.accesskey "l">
 <!ENTITY engine.tabs.label          "Iithebhu">
 <!ENTITY engine.tabs.accesskey      "t">
 <!ENTITY engine.history.label       "Imbali">
@@ -74,13 +71,24 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Akungenanga.">
 <!ENTITY signIn.label                "Ngena">
+
 <!ENTITY manage.label                "Lawula">
 <!ENTITY disconnect.label            "Khupha kuqhagamshelo…">
 <!ENTITY verify.label                "Qinisekisa i-imeyili">
 <!ENTITY forget.label                "Yilibale le imeyili">
 
 <!ENTITY welcome.description "Ngena kwiithebhu, iibhukhmakhi, iipasiwedi nokunye okungakumbi naphi na xa usebenzisa &brandShortName;.">
-<!ENTITY welcome.signIn.label "Sayina uNgene">
-<!ENTITY welcome.createAccount.label "Yenza i-akhawunti">
+
+
 
 <!ENTITY welcome.useOldSync.label "Usebenzisa uhlelo oludala lokuNgqamanisa?">
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+
+

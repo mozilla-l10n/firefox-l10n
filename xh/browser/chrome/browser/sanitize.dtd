@@ -52,8 +52,6 @@ that require it.  -->
 <!ENTITY itemHistoryAndDownloads.accesskey "U">
 <!ENTITY itemFormSearchHistory.label       "Ifom nembali yokukhangela">
 <!ENTITY itemFormSearchHistory.accesskey   "I">
-<!ENTITY itemPasswords.label               "Amagama Okugqithisa Agciniweyo">
-<!ENTITY itemPasswords.accesskey           "O">
 <!ENTITY itemCookies.label                 "Iikhukhi">
 <!ENTITY itemCookies.accesskey             "k">
 <!ENTITY itemCache.label                   "Uvimba wethutyana">

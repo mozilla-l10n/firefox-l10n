@@ -2,18 +2,45 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.title            "Ubhrawuza ngokusemfihlweni">
-<!ENTITY aboutPrivateBrowsing.title.normal     "Ukuvula ifestile yangasese?">
-
-<!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; ayiyi kukhumbula nayiphi na imbali yale festile.">
-<!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName; ayiyi kukhumbula nayiphi na imbali yale festile.">
-
-<!ENTITY aboutPrivateBrowsing.description      "Idibanisa imbali yokubhrawuza, imbali yokukhangela, imbali yokukhuphela, imbali yefomu yewebhu. amaqebengwana, kunye neefayile ze-intanethi zethutyana. Kodwa, iifayili ozikhuphelayo neebhukmakhi ozenzayo ziya kugcinwa.">
-
 <!ENTITY aboutPrivateBrowsing.notPrivate       "Awukho kwifestile yangasese okwangoku.">
-
-<!ENTITY aboutPrivateBrowsing.moreInfo         "Ngelixa le khompyutha ingayi kuba narekhodi yembali yokubhrawuza yakho, umqeshi wakho okanye umnikezeli wenkonzo ye-intanethi yakho unakho ukulanda umkhondo wamakhasi owatyeleleyo.">
-<!ENTITY aboutPrivateBrowsing.learnMore        "Funda ngakumbi.">
-
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Vula ifestile yangasese">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "i">
+
+<!ENTITY privateBrowsing.title                 "Ukubhrawuza kwangasese">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
+     Width of the Private Browsing section.
+     -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
+     aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
+     These strings will be replaced by aboutPrivateBrowsing.forgotten and
+     aboutPrivateBrowsing.kept when the new visual design lands (bug 1192625).
+     -->
+
+<!ENTITY aboutPrivateBrowsing.title            "Ubhrawuza ngokusemfihlweni">
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.history     "Imbali">
+
+<!ENTITY aboutPrivateBrowsing.info.cookies     "Ii-Cookies">
+
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.bookmarks   "Iibhukhmakhi">
+
+<!ENTITY aboutPrivateBrowsing.learnMore        "Funda ngakumbi.">
+<!-- LOCALIZATION NOTE (trackingProtection.width):
+     Width of the Tracking Protection section. This should be enough to
+     accommodate the title as well as the enabled or disabled indicator.
+     -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.state.width):
+     Width of the element representing the enabled or disabled indicator.
+     -->
+
+
+
+
+
+
