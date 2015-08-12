@@ -171,11 +171,6 @@
 
 <!ENTITY options.stylesheetAutocompletion.label      "Automātiski pabeigt CSS">
 <!ENTITY options.stylesheetAutocompletion.tooltip    "Rakstos automātiski pabeigt CSS likumus, to vērtības un selektorus">
-<!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
-  -  heading of the group of JavaScript Profiler preferences in the options
-  -  panel. -->
-
-<!ENTITY options.profiler.label            "JavaScript profilators">
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->

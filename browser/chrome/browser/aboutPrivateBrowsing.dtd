@@ -2,18 +2,44 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.title            "Jūs pārlūkojat  privātajā režīmā">
-<!ENTITY aboutPrivateBrowsing.title.normal     "Atvērt privāto logu?">
-
-<!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; neatcerēsies, ko esat skatījies šajā logā.">
-<!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName; neatcerēsies, ko esat skatījies privātajos logos.">
-
-<!ENTITY aboutPrivateBrowsing.description      "Šis iekļauj apmeklētās lapas, veiktos meklējumus, lejupielādes, formās ievadīto un sīkdatnes. Savukārt lejupielādētie faili un pievienotās grāmatzīmes tiks saglabātas.">
-
 <!ENTITY aboutPrivateBrowsing.notPrivate       "Šobrīd jūs neesat privātajā logā.">
-
-<!ENTITY aboutPrivateBrowsing.moreInfo         "Lai arī šis dators neatcerēsies, kādas lapas apmeklējat, jūsu darba devējs vai interneta pakalpojumu sniedzējs joprojām var noteikt lapas, kuras apmeklējat.">
-<!ENTITY aboutPrivateBrowsing.learnMore        "Uzzināt vairāk.">
-
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Atvērt privāto logu">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
+
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
+     Width of the Private Browsing section.
+     -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
+     aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
+     These strings will be replaced by aboutPrivateBrowsing.forgotten and
+     aboutPrivateBrowsing.kept when the new visual design lands (bug 1192625).
+     -->
+
+<!ENTITY aboutPrivateBrowsing.title            "Jūs pārlūkojat  privātajā režīmā">
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.history     "Vēsture">
+
+<!ENTITY aboutPrivateBrowsing.info.cookies     "Sīkdatnes">
+
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.bookmarks   "Grāmatzīmes">
+
+<!ENTITY aboutPrivateBrowsing.learnMore        "Uzzināt vairāk.">
+<!-- LOCALIZATION NOTE (trackingProtection.width):
+     Width of the Tracking Protection section. This should be enough to
+     accommodate the title as well as the enabled or disabled indicator.
+     -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.state.width):
+     Width of the element representing the enabled or disabled indicator.
+     -->
+
+
+
+
+
+
