@@ -5,5 +5,5 @@
    %brandDTD;
 <!ENTITY aboutLogins.title                       "جلسات الولوج">
 <!ENTITY aboutLogins.update                      "حدّث">
-
+<!ENTITY aboutLogins.emptyLoginText              "حافظ على جلسات ولوجك آمنة">
 
