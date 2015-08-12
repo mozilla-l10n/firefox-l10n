@@ -76,7 +76,7 @@
 <!ENTITY overlay_share_reading_list_btn_label "Aggiungi a Elenco lettura">
 <!ENTITY overlay_share_bookmark_btn_label_already "Già presente nei segnalibri">
 <!ENTITY overlay_share_reading_list_btn_label_already "Già presente in Elenco lettura">
-<!ENTITY overlay_share_send_other "Invia a altri dispositivi">
+<!ENTITY overlay_share_send_other "Invia ad altri dispositivi">
 <!ENTITY overlay_share_send_tab_btn_label "Invia a un altro dispositivo">
 <!ENTITY overlay_share_no_url "Nessun link disponibile in questa condivisione">
 <!ENTITY overlay_share_select_device "Seleziona dispositivo">
