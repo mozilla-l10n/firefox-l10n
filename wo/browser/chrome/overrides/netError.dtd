@@ -118,6 +118,8 @@ mën nga jéemaat ci kanam.</li>
 <!ENTITY malwareBlocked.longDesc "<p>Ay dal yu bon ñi ngiy jéema samp ay porogaraam yuy sacc say xibaari bopp,di jëfandikoo sa ordinatëër ngir song yeneen walla yaq sa doxalin.</p> 
 <p>Boroom dal yi fook ni da ñu leen tuumaal <a href='http://www.stopbadware.org/home/reviewinfo'>ab nafar</a>.</p>">
 
+
+
 <!ENTITY phishingBlocked.title "Dal bi royaal la !">
 <!ENTITY phishingBlocked.longDesc "<p>Dugal say xibaari bopp ci xët bile mën na tax ñu sacc sa dantite walla beneen foród.</p> 
 <p>Giiri dali royaal yu ni mel dañu leen di jëfandikoo ci ay e mail foród ngir di song songu dolinka, da ñuy toppandoo ay cosaan yoo wóolu .</p>">
@@ -154,8 +156,6 @@ functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "XUL bu sori">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Jokkool ak boroomi dalul web bi ngir wax leen jafe jafe bi.</li></ul></p>">
 
-<!-- LOCALIZATION NOTE (oldSecurityProtocol.longDesc) - Do not translate the
-     <span id='hostname'></span>. -->
-<!-- LOCALIZATION NOTE (oldSecurityProtocol.advancedInfo) - Do not translate
-     the <span id='errorcode'></span>. -->
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
+     "ssl_error_unsupported_version". -->
 

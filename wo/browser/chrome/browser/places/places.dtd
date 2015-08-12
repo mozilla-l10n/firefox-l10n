@@ -52,6 +52,8 @@
 <!ENTITY cmd.open.accesskey              "U">
 <!ENTITY cmd.open_window.label           "Ubbi palanteer bu bees">
 <!ENTITY cmd.open_window.accesskey       "p">
+
+
 <!ENTITY cmd.open_tab.label              "Ubbi koñ bu bees">
 <!ENTITY cmd.open_tab.accesskey          "k">
 <!ENTITY cmd.open_all_in_tabs.label      "Ubbi lépp ci ay koñ">
@@ -83,7 +85,6 @@
 <!ENTITY col.url.label           "Màkkaan">
 
 <!ENTITY col.visitcount.label    "Waññu gane yi">
-<!ENTITY col.keyword.label       "Caabi baat">
 <!ENTITY col.description.label   "Nettali bi">
 <!ENTITY col.dateadded.label     "Besu yokk">
 <!ENTITY col.lastmodified.label  "Besu soppali mi">

@@ -4,6 +4,7 @@
 <!ENTITY addons.windowTitle                   "Saytukatu modili mottali yi">
 
 <!ENTITY search.placeholder                   "Wut ci biir modili yokk yépp">
+
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
@@ -21,6 +22,8 @@
 
 <!ENTITY cmd.back.tooltip                     "Dellu ginnaaw benn xët">
 <!ENTITY cmd.forward.tooltip                  "Jëm kanam benn xët">
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Anamu ñakk lajj suuxal na modili yokk yépp.">
@@ -35,8 +38,6 @@
 <!ENTITY info.plugincheck.label                 "Seetal ndax plugins yi yees nañu">
 <!ENTITY info.plugincheck.tooltip               "Seetal ndax plugins yi yees nañu">
 <!-- categories / views -->
-
-<!ENTITY view.search.label                    "Wut">
 <!ENTITY view.discover.label                  "Katalog">
 <!ENTITY view.recentUpdates.label             "Yeesal">
 <!ENTITY view.availableUpdates.label          "Yeesal yi féex">
@@ -101,6 +102,7 @@
 <!ENTITY cmd.installAddon.accesskey           "S">
 <!ENTITY cmd.uninstallAddon.label             "Neenal">
 <!ENTITY cmd.uninstallAddon.accesskey         "N">
+
 
 <!ENTITY cmd.showPreferencesWin.label         "Tànnéef yi">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Soppali tànnéefi modili mottali yi">
@@ -224,5 +226,18 @@ yenn ci modili mottali yi gën te gëna siiw.">
      to cause this tab to appear. -->
 <!ENTITY experiment.info.learnmore "Gën cee jàngaat">
 
+
+
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
+     These entities form a sentence, with
+     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
+     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
+     being a link to an external site. -->
 
 

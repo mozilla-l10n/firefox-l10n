@@ -32,8 +32,10 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsTitle "Paraameetar yi jëkk yu tërëlin bi">
 <!ENTITY aboutSupport.appBasicsName "Tur">
 <!ENTITY aboutSupport.appBasicsVersion "Sumb">
-<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
+
 
 
 <!ENTITY aboutSupport.appBasicsProfileDir "Wayndare jëmmalin">
@@ -46,6 +48,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsBuildConfig "Tabbinu dajale">
 <!ENTITY aboutSupport.appBasicsUserAgent "Jëfandikookat">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Jëfandikoo damb">
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
+
 
 
 <!ENTITY aboutSupport.showDir.label "Ubbi wayndare bi mu andal">
@@ -84,4 +88,6 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Duppi ci dencandikaayu kayit yi">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Duppi xibaar ci dencandikkaayu kayit yi">
+
+
 

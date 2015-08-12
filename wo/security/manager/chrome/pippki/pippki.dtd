@@ -9,27 +9,8 @@
 
 
 <!ENTITY setPassword.meter.label "Nataayu baaxaayu caabi baat bi">
-<!ENTITY setPassword.meter.loading "Yeb">
 <!-- Values for resetpassword.xul -->
 <!ENTITY resetPassword.title  "Far baatu jàll bi gëna am solo">
-
-<!-- Values for getpassword.xul -->
-
-<!ENTITY getPassword.title  "Dugal baatu jàll bi gëna am solo">
-<!ENTITY getPassword.tokenName2.label "Wër ndombo k&amp;aarange">
-<!ENTITY getPassword.password.label "Baatu jàll:">
-<!-- These should be common -->
-
-<!ENTITY piperror.title "Njumte">
-
-<!-- Prefs panel strings -->
-
-<!ENTITY pref.security.general.lHeader "Kaarange">
-
-
-<!ENTITY pref.security.general.level.title "Tollu tollu kaarange">
-
-<!ENTITY pref.security.general.certificates.title "Sarsifikaa">
 
 <!-- Downloading a cert -->
 
@@ -38,8 +19,6 @@
 
 
 <!ENTITY downloadCert.viewCert.label "Wone bi">
-<!ENTITY downloadCert.viewPolicy.label "Politig">
-
 
 <!-- Strings for the SSL client auth ask dialog -->
 
@@ -57,14 +36,6 @@
 
 
 
-
-
-
-
-
-
-<!ENTITY examineCert.label "Gis sarsifika">
-<!ENTITY examineCert.accesskey "G">
 <!-- Strings for the CreateCertInfo dialog  -->
 
 <!ENTITY createCertInfo.msg2 "Xaaral...">

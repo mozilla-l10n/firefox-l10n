@@ -22,7 +22,7 @@
 <!ENTITY  generalReferrer       "URL bi mu tukkee :">
 <!ENTITY  generalSource         "Cosaanu nëbb gi :">
 <!ENTITY  generalModified       "Soppi ci :">
-<!ENTITY  generalEncoding       "Suulaalee :">
+
 <!ENTITY  generalMetaName       "Tur">
 <!ENTITY  generalMetaContent    "Ëmb li">
 
@@ -82,3 +82,5 @@
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 
 <!ENTITY  securityView.technical.header                 "Benn bennal yu xarala">
+
+<!ENTITY  helpButton.label                              "Ndimbal">

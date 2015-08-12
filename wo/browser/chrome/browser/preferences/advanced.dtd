@@ -37,10 +37,6 @@
 
 
 
-<!ENTITY crashReporterSection.label      "Raapoori ngiroo">
-
-
-
 
 
 <!ENTITY networkTab.label                "Lëkkële gi">
@@ -74,13 +70,8 @@
 <!ENTITY updateTab.label                 "Mottali yi">
 
 <!ENTITY updateApp.label                 "Yeesali &amp;brandShortName:">
-<!-- Note either updateAuto1 is used or (updateAutoMetro and updateAutoDesktop),
-     so re-using accesss key in updateAuto1 is OK. updateAutoDesktop can be found
-     in preferences.properties -->
 <!ENTITY updateAuto1.label               "Samp ñakk ndigal yeesal yi (ndigal la ngir sa kaarange)">
 <!ENTITY updateAuto1.accesskey           "S">
-
-
 <!ENTITY updateCheck.label               "Seetal ndax am na ay yeesal, wante nga bayyi ma japp li may samp">
 <!ENTITY updateCheck.accesskey           "S">
 <!ENTITY updateManual.label              "Bul seet mukk yeesal yi (tere nañu ko, ab risk la ci wallu kaarange)">
@@ -88,7 +79,6 @@
 
 <!ENTITY updateAutoAddonWarn.label       "Yëgle su fekkeeni dafay suuxal modil yi">
 <!ENTITY updateAutoAddonWarn.accesskey   "Y">
-
 
 <!ENTITY updateHistory.label             "Wone jaar jaaru mottali yi">
 <!ENTITY updateHistory.accesskey         "a">
@@ -112,6 +102,7 @@
 <!ENTITY offlineAppRemove.confirm        "Màbb rootaan yi ne ci jokkoodiku">
 
 <!ENTITY certificateTab.label            "Sarsifikaa">
+
 <!ENTITY certSelection.description       "Su ab servëër dima laaj sama sarsifikaa bopp :">
 <!ENTITY certs.auto                      "Fal boppam benn">
 

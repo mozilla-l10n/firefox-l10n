@@ -14,16 +14,18 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Ndimbal"> 
 <!ENTITY helpMenuWin.accesskey    "N">
-<!ENTITY aboutProduct.label       "Ci mbiru &brandShortName;">
-<!ENTITY aboutProduct.accesskey   "C">
-<!ENTITY productHelp.label        "Ndimbalu &brandShortName;">
-<!ENTITY productHelp.accesskey    "N">
+
+
+
+
 <!ENTITY helpMac.commandkey       "?">
 
 
 
 <!ENTITY helpSafeMode.label       "Tambaliwaat ak modil yi suux…">
 <!ENTITY helpSafeMode.accesskey   "T">
+
+
 
 
 
@@ -40,8 +42,7 @@
 
 <!ENTITY servicesMenuMac.label          "Sarwiis yi">
 
-<!ENTITY hideThisAppCmdMac.label        "Nëbb &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey   "H">
+<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Nëbb yeneen yi">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">

@@ -7,8 +7,6 @@
 
 <!ENTITY certmgr.tab.orphan2                  "Yeneen">
 
-
-
 <!ENTITY certmgr.others                       "Am bga sarsifika yu ñu aar di wone ñi ñooy ñan:">
 <!ENTITY certmgr.websites2                    "Am nga ay sarsifikaa yu ñu aar te mëna xammee serwëër yii:">
 <!ENTITY certmgr.cas                          "Am nga ay sarsifikaa yu ñu aar, tey xammee kelifa yi ci wallu sarsifikaa:">
@@ -36,17 +34,7 @@
 
 
 
-
-
-
-
-
 <!ENTITY certmgr.deletecert.title             "Màbb benn sarsifikaa">
-
-<!ENTITY certmgr.deletecert.aftername         "Ndax bëgg dëgg màbb sasifikaa bii?">
-<!ENTITY certmgr.deleteusercert.title         "Màbb sarsifikaa">
-
-
 
 <!ENTITY certmgr.certserver                   "Serwëër">
 
@@ -62,10 +50,6 @@
 <!ENTITY certmgr.view2.accesskey              "W">
 
 
-
-
-<!ENTITY certmgr.add.label                    "Yokk">
-<!ENTITY certmgr.add.accesskey                "Y">
 <!ENTITY certmgr.export.label                 "jàllale…">
 <!ENTITY certmgr.export.accesskey             "j">
 <!ENTITY certmgr.delete2.label                "Màbb...">
