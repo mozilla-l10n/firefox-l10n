@@ -32,10 +32,10 @@
 <!ENTITY community.creditsLink      "உலகளாவிய சமூகம்">
 <!ENTITY community.end3             "இணையத்தினை திறந்ததாகவும்  பொதுவானதாகவும் மற்றும் எல்லோராலும் கையாளத்தக்கதாகவும் இருக்கும் வகையில் இணைந்து உழைத்தல் ">
 
-<!ENTITY contribute.start           "சுவரசியமாக உள்ளதா? ">
-<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "பங்குபெறுங்கள்!">
-<!ENTITY contribute.end             "">
+<!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
+
+<!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY helpus.end                 "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
 <!ENTITY bottomLinks.license        "உரிமம் தொடர்பான தகவல்">

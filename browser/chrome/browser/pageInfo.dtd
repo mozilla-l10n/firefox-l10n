@@ -22,11 +22,9 @@
 <!ENTITY  generalReferrer       "குறிப்பிடும் URL:">
 <!ENTITY  generalSource         "இடையக மூலம்:">
 <!ENTITY  generalModified       "மாற்றப்பட்டது:">
-<!ENTITY  generalEncoding       "குறிமுறையாக்கம்:">
+
 <!ENTITY  generalMetaName       "பெயர்">
 <!ENTITY  generalMetaContent    "உள்ளடக்கம்">
-<!ENTITY  generalSecurityDetails   "விபரங்கள்">
-
 
 <!ENTITY  mediaTab              "ஊடகம்">
 <!ENTITY  mediaTab.accesskey    "M">
@@ -65,7 +63,6 @@
 
 <!ENTITY  securityTab           "பாதுகாப்பு">
 <!ENTITY  securityTab.accesskey "S">
-<!ENTITY  securityHeader        "இந்தப் பக்கத்தின் பாதுகாப்புத் தகவல்">
 <!ENTITY  securityView.certView "சான்றிதளைக் காட்டுக">
 <!ENTITY  securityView.accesskey "V">
 <!ENTITY  securityView.unknown   "தெரியாத">
@@ -85,3 +82,4 @@
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 
 <!ENTITY  securityView.technical.header                 "தொழில்நுட்ப விவரங்கள்">
+

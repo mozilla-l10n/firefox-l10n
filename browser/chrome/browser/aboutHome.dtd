@@ -7,7 +7,6 @@
 <!ENTITY % syncBrandDTD SYSTEM "chrome://browser/locale/syncBrand.dtd">
 %syncBrandDTD;
 <!-- These strings are used in the about:home page -->
-
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
@@ -28,6 +27,8 @@
 <!-- LOCALIZATION NOTE (abouthome.preferencesButtonUnix.label): The label for the
      preferences/options item on about:home on Linux and OS X -->
 <!ENTITY abouthome.addonsButton.label    "செருகல்கள்">
-<!ENTITY abouthome.appsButton.label      "சந்தை">
+<!-- LOCALIZATION NOTE (abouthome.appsButton2.label): This string should be consistent with
+     the Apps menu item in the Tools menu (webapps.label in browser.dtd) and the Apps toolbar button in
+     Firefox's customization palette (web-apps-button.label in customizableWidgets.properties) -->
 <!ENTITY abouthome.downloadsButton.label "பதிவிறக்கங்கள்">
 <!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">

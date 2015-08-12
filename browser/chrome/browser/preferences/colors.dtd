@@ -6,8 +6,10 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUse.label           "என் தெரிவுக்குப் பதிலாக, பக்கங்களை அதன் சொந்த நிறங்களைத் தேர்ந்தெடுக்க அனுமதிக்க">
-<!ENTITY  allowPagesToUse.accesskey       "A">
+
+
+
+
 
 <!ENTITY  color                           "உரை மற்றும் பின்னணி">
 <!ENTITY  textColor.label                 "உரை:">

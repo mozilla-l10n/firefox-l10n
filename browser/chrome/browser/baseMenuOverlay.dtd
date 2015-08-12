@@ -14,10 +14,10 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "உதவி"> 
 <!ENTITY helpMenuWin.accesskey    "H">
-<!ENTITY aboutProduct.label       "&brandShortName; பற்றி">
-<!ENTITY aboutProduct.accesskey   "A">
-<!ENTITY productHelp.label        "&brandShortName; உதவி">
-<!ENTITY productHelp.accesskey    "H">
+
+
+
+
 <!ENTITY helpMac.commandkey       "?">
 
 
@@ -33,13 +33,14 @@
 
 
 
+
+
 <!ENTITY preferencesCmdMac.label        "விருப்பத்தேர்வுகள்">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "சேவைகள்">
 
-<!ENTITY hideThisAppCmdMac.label        "&brandShortName; இனை மறைக்க">
-<!ENTITY hideThisAppCmdMac.commandkey   "H">
+<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "ஏனையவற்றை மறைக்க">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">

@@ -4,6 +4,8 @@
 
 
 <!ENTITY  prefWindow.titleWin     "தேர்வுகள்">
+
+<!-- LOCALIZATION NOTE (prefWindow.titleGNOME): This is not used for in-content preferences -->
 <!ENTITY  prefWindow.titleGNOME   "&brandShortName; விருப்புகள்">
 <!-- When making changes to prefWindow.styleWin test both Windows Classic and
      Luna since widget heights are different based on the OS theme -->
@@ -13,6 +15,7 @@
 
 <!ENTITY  paneGeneral.title       "பொது">
 
+
 <!ENTITY  paneContent.title       "உள்ளடக்கம்">
 
 
@@ -21,6 +24,4 @@
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 
 <!ENTITY  paneSync.title          "ஒத்திசைவு">
-<!ENTITY  buttonForward.tooltip   "ஒரு பக்கம் முன்னே செல்க">
-<!ENTITY  buttonBack.tooltip      "ஒரு பக்கம் பின்னால் செல்">
 

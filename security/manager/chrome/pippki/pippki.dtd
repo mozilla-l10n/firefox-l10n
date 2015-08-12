@@ -7,27 +7,10 @@
 
 
 
-
 <!-- Values for resetpassword.xul -->
 
 
-<!-- Values for getpassword.xul -->
-
-
-<!-- These should be common -->
-
-<!-- Prefs panel strings -->
-
-<!ENTITY pref.security.general.lHeader "பாதுகாப்பு">
-
-
-
-
-<!ENTITY pref.security.general.certificates.title "சான்றிதழ்கள்">
-
 <!-- Downloading a cert -->
-
-
 
 
 
@@ -49,23 +32,9 @@
 
 
 
-
-
-
-
-
-
-
-
 <!-- Strings for the CreateCertInfo dialog  -->
 
 
-<!-- Form Signing confirmation prompt -->
-
-
 <!-- Strings for protectedAuth dialog -->
-
-
-
 
 
