@@ -4,7 +4,8 @@
 
 <!ENTITY aboutAccounts.welcome "Witajće k &syncBrand.shortName.label;">
 
+
 <!ENTITY aboutAccountsConfig.description "Zregistrujće so, zo byšće swoje rajtarki, zapołožki, hesła a dalše synchronizował.">
 <!ENTITY aboutAccountsConfig.startButton.label "Prěnje kroki">
 <!ENTITY aboutAccountsConfig.useOldSync.label "Wužiwaće staršu wersiju programa Sync?">
-<!ENTITY aboutAccountsConfig.manage.label "Rjadować">
+
