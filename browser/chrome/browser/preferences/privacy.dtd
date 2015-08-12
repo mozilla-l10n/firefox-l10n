@@ -4,15 +4,19 @@
 
 <!ENTITY tracking.label                 "ट्रॅकिंग">
 
-<!ENTITY dntTrackingNotOkay.label2      "साईट्स्ने मला ट्रॅक करू नये">
-<!ENTITY dntTrackingNotOkay.accesskey   "n">
+
+<!ENTITY doNotTrackInfo.label          "आणखी शिका">
 
 
 
-<!ENTITY doNotTrackInfo.label           "आणखी शिका">
+
+
+
 
 
 <!ENTITY  locationBar.label             "ठिकाण पट्टी">
+
+
 
 
 
