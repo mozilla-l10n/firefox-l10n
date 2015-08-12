@@ -7,7 +7,11 @@
 <!-- Localisation note: the plus sign here is a shorthand way of expressing the word "and". Contextually the privatebrowsingpage.title.private string
                         is used as a title, with the privatebrowsingpage.title string preceding it but on a separate line.
                         So the final line will say "Private Browsing + Tracking Protection". -->
+<!ENTITY privatebrowsingpage.title.private "+ Захист від стеження">
+<!ENTITY privatebrowsingpage.title.normal1 "Ви не в приватному перегляді">
 
+<!ENTITY privatebrowsingpage.description.private3 "Firefox буде запобігати стеженню за вами і не буде запам'ятовувати історію, але завантажені файли та нові закладки все одно будуть збережені на вашому пристрої.">
+<!ENTITY privatebrowsingpage.description.normal2 "В приватному перегляді ми не будемо зберігати будь-яку історію перегляду чи куки. Додані вами закладки та завантажені файли все одно будуть збережені на вашому пристрої.">
 
 <!ENTITY privatebrowsingpage.link.private "Хочете дізнатися більше?">
 <!ENTITY privatebrowsingpage.link.normal "Відкрити нову приватну вкладку">
