@@ -35,9 +35,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsTitle "ପ୍ରୟୋଗ ମୌଳିକ">
 <!ENTITY aboutSupport.appBasicsName "ନାମ">
 <!ENTITY aboutSupport.appBasicsVersion "ସଂସ୍କରଣ">
-<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
-"Update" is a noun here, not a verb. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+"Update" is a noun here, not a verb. -->
 <!ENTITY aboutSupport.appBasicsUpdateHistory "ପୁରୁଣାତଥ୍ୟକୁ ଅଦ୍ୟତନ କରନ୍ତୁ">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "ଅଦ୍ୟତନ ପୁରୁଣା ତଥ୍ୟକୁ ଦର୍ଶାନ୍ତୁ">
 
@@ -51,8 +51,10 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsBuildConfig "ନିର୍ମିତ ସଂରଚନା">
 <!ENTITY aboutSupport.appBasicsUserAgent "ଚାଳକ ଯନ୍ତ୍ର">
 <!ENTITY aboutSupport.appBasicsMemoryUse "ସ୍ମୃତିସ୍ଥାନ ବ୍ୟବହାର">
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "ବହୁକାର୍ଯ୍ୟ ବିଶିଷ୍ଟ ୱିଣ୍ଡୋ">
+
 
 <!ENTITY aboutSupport.showDir.label "ଡିରେକ୍ଟୋରୀ ଖୋଲନ୍ତୁ">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
@@ -91,3 +93,6 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "ପାଠ୍ୟକୁ କ୍ଲିପବୋର୍ଡରେ ନକଲ କରନ୍ତୁ">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "ମୂଳ ତଥ୍ୟକୁ କ୍ଲିପବୋର୍ଡରେ ନକଲ କରନ୍ତୁ">
+
+
+

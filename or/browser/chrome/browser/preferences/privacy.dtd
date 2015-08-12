@@ -4,28 +4,28 @@
 
 <!ENTITY tracking.label                 "ଅନୁସରଣ କରୁଅଛି">
 
-<!ENTITY dntTrackingNopref.label2       "ମୋର ଅନୁସରଣ ପସନ୍ଦଗୁଡ଼ିକ ବିଷୟରେ ସାଇଟଗୁଡ଼ିକୁ କିଛି କୁହନ୍ତୁ ନାହିଁ।">
-<!ENTITY dntTrackingNopref.accesskey    "o">
-<!ENTITY dntTrackingNotOkay.label2      "ସାଇଟଗୁଡ଼ିକୁ କୁହନ୍ତୁ ଯେ ଆପଣଙ୍କୁ ଅନୁସରଣ କରାନଯାଉ।">
-<!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY dntTrackingOkay.label2         "ସାଇଟଗୁଡ଼ିକୁ କୁହନ୍ତୁ ଯେ ଆପଣଙ୍କୁ ଅନୁସରଣ କରାଯାଉ।">
-<!ENTITY dntTrackingOkay.accesskey      "h">
-<!ENTITY trackingProtection.label       "ସାଇଟଗୁଡ଼ିକୁ ମୋତେ ଅନୁସରଣ କରିବାରୁ ବାରଣ କରନ୍ତୁ">
-<!ENTITY trackingProtection.accesskey   "m">
-<!ENTITY trackingProtectionLearnMore.label "ଅଧିକ ଜ୍ଞାନ ଆହରଣ କରନ୍ତୁ">
-<!ENTITY doNotTrackInfo.label           "ଅଧିକ ଜ୍ଞାନ ଆହରଣ କରନ୍ତୁ">
 
-<!ENTITY  history.label                 "ପୁରୁଣା ତଥ୍ଯ">
+<!ENTITY doNotTrackInfo.label          "ଅଧିକ ଜ୍ଞାନ ଆହରଣ କରନ୍ତୁ">
+
+
+
+
+
+
+
 
 <!ENTITY  locationBar.label             "ଅବସ୍ଥାନ ପଟି">
 
-<!ENTITY  locbar.pre.label              "ଅବସ୍ଥିତି ପଟି ବ୍ୟବହାର କରିବା ସମୟରେ, ପ୍ରସ୍ତାବ ଦିଅନ୍ତୁ (u):">
-<!ENTITY  locbar.pre.accessKey          "u">
-<!ENTITY  locbar.post.label             "">
-<!ENTITY  locbar.both.label             "ପୁରୁଣା ତଥ୍ୟ ଏବଂ ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକ">
-<!ENTITY  locbar.history.label          "ପୁରୁଣା ତଥ୍ୟ">
-<!ENTITY  locbar.bookmarks.label        "ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକ">
-<!ENTITY  locbar.nothing.label          "କିଛି ନୁହଁ">
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY  acceptCookies.label           "ସାଇଟରୁ କୁକିଗୁଡ଼ିକୁ ଗ୍ରହଣକରନ୍ତୁ">
 <!ENTITY  acceptCookies.accesskey       "A">
@@ -36,8 +36,7 @@
 <!ENTITY  acceptThirdParty.never.label    "କଦାପି ନୁହଁ">
 <!ENTITY  acceptThirdParty.visited.label  "ପରିଦର୍ଶନ କରିଥିବା ପୃଷ୍ଠାରୁ">
 
-<!ENTITY  keepUntil.label               "ସେମାନେ ସମାପ୍ତ ହେଲାପର୍ଯ୍ୟନ୍ତ:">
-<!ENTITY  keepUntil.accesskey           "K">
+
 
 <!ENTITY  expire.label                  "ରୁହନ୍ତୁ">
 <!ENTITY  close.label                   "&brandShortName; କୁ ମୁଁ ବନ୍ଦକରିଥାଏ">

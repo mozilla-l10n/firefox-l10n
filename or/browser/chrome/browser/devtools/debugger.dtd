@@ -49,6 +49,8 @@
   -  button that toggles all breakpoints for all sources. -->
 
 <!ENTITY debuggerUI.sources.toggleBreakpoints "ସମସ୍ତ ବ୍ରେକପଏଣ୍ଟଗୁଡ଼ିକୁ ସକ୍ରିୟ/ନିଷ୍କ୍ରିୟ କରନ୍ତୁ">
+<!-- LOCALIZATION NOTE (debuggerUI.sources.togglePromiseDebugger): This is the
+  -  tooltip for the button that toggles the promise debugger. -->
 <!-- LOCALIZATION NOTE (debuggerUI.startTracing): This is the text displayed in
   - the button to start execution tracing. -->
 
@@ -70,7 +72,7 @@
   -  checkbox that toggles ignoring caught exceptions. -->
 
 <!ENTITY debuggerUI.ignoreCaughtExceptions           "ଧରାପଡ଼ିଥିବା ବ୍ୟତିକ୍ରମଗୁଡ଼ିକୁ ଏଡ଼ାଇ ଦିଅନ୍ତୁ">
-<!ENTITY debuggerUI.ignoreCaughtExceptions.accesskey "C">
+
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
   -  checkbox that toggles visibility of panes when opening the debugger. -->
 
@@ -164,7 +166,6 @@
 <!ENTITY debuggerUI.seMenuCondBreak.key "B">
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
-
 <!ENTITY debuggerUI.tabs.sources        "ଉତ୍ସ">
 <!ENTITY debuggerUI.tabs.traces         "ଅବଶେଷଗୁଡ଼ିକ">
 <!ENTITY debuggerUI.tabs.callstack      "ସ୍ଟାକକୁ ଡାକ">
@@ -198,3 +199,17 @@
 <!ENTITY debuggerUI.stepping.stepIn2    "VK_SEMICOLON">
 <!ENTITY debuggerUI.stepping.stepOut1   "VK_F11">
 <!ENTITY debuggerUI.stepping.stepOut2   "VK_SEMICOLON">
+<!-- LOCALIZATION NOTE (debuggerUI.context.newTab):  This is the label
+  -  for the Open in New Tab menu item displayed in the context menu of the
+  -  debugger sources side menu. This should be the same as
+  -  netmonitorUI.context.newTab  -->
+
+<!ENTITY debuggerUI.context.newTab           "ନୂତନ ଟ୍ୟାବରେ ଖୋଲନ୍ତୁ">
+
+<!-- LOCALIZATION NOTE (debuggerUI.context.copyUrl): This is the label displayed
+  -  on the context menu that copies the selected request's url. This should be
+  -  the same as netmonitorUI.context.copyUrl -->
+
+<!ENTITY debuggerUI.context.copyUrl           "URL ନକଲ କରନ୍ତୁ">
+
+
