@@ -108,14 +108,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY fullScreenRestore.tooltip "Сэргээ">
 
 <!ENTITY fullScreenAutohide.label "Самбарыг нуу">
 <!ENTITY fullScreenAutohide.accesskey "н">
 <!ENTITY fullScreenExit.label "Дэлгэц дүүрэм горимоос гарах">
 <!ENTITY fullScreenExit.accesskey "и">
-<!ENTITY fullscreenAllowButton.label "Зөвшөөр">
-<!ENTITY fullscreenExitButton.label "Үгүй">
 
 
 
@@ -347,6 +346,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.accesskey             "я">
 
+
+
+<!ENTITY urlbar.searchSuggestionsNotification.disable "Үгүй">
+<!ENTITY urlbar.searchSuggestionsNotification.enable "Тийм">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -369,6 +372,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
  -->
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
+<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
+     These are set as the aria-label attribute for the search input box and
+     submit button in the in-content search UI, to be used by screen readers. -->
+
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -572,6 +579,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "Х">
 
+
 <!ENTITY pageStyleMenu.label "Хуудасны маяг">
 <!ENTITY pageStyleMenu.accesskey "д">
 <!ENTITY pageStyleNoStyle.label "Маяггүй">
@@ -607,7 +615,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "Гүйцэтгэ">
 <!ENTITY editBookmark.cancel.label                   "Цуцал">
-<!ENTITY editBookmark.removeBookmark.accessKey       "я">
+
+
+
+
+
+
+<!-- Strings for connection state warnings. -->
+
+
+
+<!-- Strings for connection state warnings in the subview. -->
+
+
+
+
+
+
+
+
+
 
 
 
@@ -671,13 +698,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-<!-- Bad Content Blocker Doorhanger Notification -->
 
 
 
 
 
+<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
 
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
 
 
 
@@ -739,14 +771,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeNotificationsDontAskAgain.label       "Надаас дахин бүү асуу">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "Н">
-
-
-
-<!-- Pre-landed string for bug 1124153 -->
-<!-- Pre-landed string for bug 1133662 -->
-
-<!-- Pre-landed strings for bug 1123519 -->
-
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 
 

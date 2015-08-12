@@ -48,8 +48,6 @@ that require it.  -->
 
 
 
-<!ENTITY itemPasswords.label               "Хагдгалсан нууц үгс">
-<!ENTITY itemPasswords.accesskey           "ү">
 <!ENTITY itemCookies.label                 "Күүки">
 <!ENTITY itemCookies.accesskey             "К">
 <!ENTITY itemCache.label                   "Вэб түр хадгалалт">
