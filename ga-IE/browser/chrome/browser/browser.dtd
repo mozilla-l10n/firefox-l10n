@@ -110,6 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "a">
 
 <!ENTITY fxaSignIn.label "Logáil isteach i &syncBrand.shortName.label;">
+
 <!ENTITY fxaSignInError.label "Athcheangail le &syncBrand.shortName.label;">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; cumasaithe">
 <!ENTITY syncStartPanel2.subTitle "Tosóidh &brandShortName; ag sioncrónú go luath.">
@@ -126,8 +127,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "h">
 <!ENTITY fullScreenExit.label "Fág Mód Lánscáileáin">
 <!ENTITY fullScreenExit.accesskey "L">
-<!ENTITY fullscreenAllowButton.label "Ceadaigh">
-<!ENTITY fullscreenExitButton.label "Diúltaigh">
 
 <!ENTITY fullscreenExitHint2.value "Brúigh ESC am ar bith chun scor.">
 <!ENTITY leaveDOMFullScreen.label "Scoir ón Lánscáileán">
@@ -395,6 +394,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.placeholder2          "Cuardaigh nó cuir seoladh isteach">
 <!ENTITY urlbar.accesskey             "m">
 <!ENTITY urlbar.switchToTab.label     "Téigh go cluaisín:">
+
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Tuilleadh eolais…">
+<!ENTITY urlbar.searchSuggestionsNotification.disable "Níl">
+<!ENTITY urlbar.searchSuggestionsNotification.enable "Tá">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -419,6 +422,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
+<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
+     These are set as the aria-label attribute for the search input box and
+     submit button in the in-content search UI, to be used by screen readers. -->
+
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -634,6 +641,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "D">
 
+
 <!ENTITY pageStyleMenu.label "Stíl Leathanaigh">
 <!ENTITY pageStyleMenu.accesskey "L">
 <!ENTITY pageStyleNoStyle.label "Gan Stíl">
@@ -672,12 +680,31 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "Déanta">
 <!ENTITY editBookmark.cancel.label                   "Cealaigh">
-<!ENTITY editBookmark.removeBookmark.accessKey       "R">
+
 
 <!ENTITY identity.connectionSecure "Ceangal Slán">
 <!ENTITY identity.connectionNotSecure "Ní Ceangal Slán é seo">
+
 <!ENTITY identity.connectionVerified "Dheimhnigh &brandShortName; go bhfuil tú ceangal slán agat leis an suíomh seo, suíomh faoi stiúir:">
 <!ENTITY identity.connectionInternal "Is leathanach slán &brandShortName; é seo.">
+<!-- Strings for connection state warnings. -->
+
+
+
+<!-- Strings for connection state warnings in the subview. -->
+
+
+
+
+
+
+
+
+
+
+<!ENTITY identity.disableMixedContentBlocking.label "Díchumasaigh cosaint don am i láthair">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "D">
+
 
 <!ENTITY identity.moreInfoLinkText2 "Tuilleadh Eolais">
 
@@ -754,27 +781,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "Micreafón le comhroinnt:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+
 <!ENTITY getUserMedia.allWindowsShared.message "Comhroinnfear gach fuinneog infheicthe ar do scáileáin.">
-<!-- Bad Content Blocker Doorhanger Notification -->
 
-<!ENTITY badContentBlocked.moreinfo "Den chuid is mó, feidhmeoidh suímh Ghréasáin mar is ceart fiú má chuireann tú cosc ar ábhar.">
 
-<!ENTITY mixedContentBlocked2.message "Ábhar neamhshlán">
-<!ENTITY mixedContentBlocked2.moreinfo "Cuireadh cosc ar roinnt eilimintí gan criptiú ar an suíomh seo.">
-<!ENTITY mixedContentBlocked2.learnMore "Tuilleadh Eolais">
-<!ENTITY mixedContentBlocked2.options "Roghanna">
-<!ENTITY mixedContentBlocked2.unblock.label "Díchumasaigh cosaint don am i láthair">
-<!ENTITY mixedContentBlocked2.unblock.accesskey "D">
-<!ENTITY mixedContentBlocked2.block.label "Cumasaigh cosaint">
-<!ENTITY mixedContentBlocked2.block.accesskey "C">
-<!ENTITY mixedContentBlocked2.disabled.message "Tá cosaint díchumasaithe">
+
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+
+
+
 
 <!ENTITY trackingContentBlocked.message "Lorg">
 <!ENTITY trackingContentBlocked.moreinfo "Cuireadh cosc ar chodanna den leathanach a leanann do chuid ghníomhaíochta ar líne.">
 <!ENTITY trackingContentBlocked.learnMore "Tuilleadh Eolais">
-<!ENTITY trackingContentBlocked.options "Roghanna">
-<!ENTITY trackingContentBlocked.unblock2.label "Díchumasaigh cosaint don suíomh seo">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
+
+
+
 <!ENTITY trackingContentBlocked.block.label "Cumasaigh cosaint">
 <!ENTITY trackingContentBlocked.block.accesskey "C">
 <!ENTITY trackingContentBlocked.disabled.message "Tá cosaint ar lorg díchumasaithe">
@@ -840,18 +869,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeNotificationsNotNow.accesskey         "N">
 <!ENTITY emeNotificationsDontAskAgain.label       "Ná fiafraigh díom arís">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "N">
-
-<!ENTITY readingList.label                        "Liosta Léitheoireachta">
-<!ENTITY readingList.sidebar.commandKey           "R">
-<!ENTITY readingList.showSidebar.label            "Taispeáin an Liosta Léitheoireachta i mBarra Taoibh">
-<!-- Pre-landed string for bug 1124153 -->
-<!ENTITY readingList.sidebar.showMore.label       "Tuilleadh…">
-<!-- Pre-landed string for bug 1133662 -->
-<!ENTITY readingList.sidebar.emptyText            "Cuir altanna le do Liosta Léitheoireachta chun iad a shábháil agus chun teacht orthu ar ball gan stró.">
-<!ENTITY readingList.sidebar.delete.tooltip       "Bain de do Liosta Léitheoireachta é seo">
-<!-- Pre-landed strings for bug 1123519 -->
-<!ENTITY readingList.sidebar.add.label            "Cuir le do Liosta Léitheoireachta">
-<!ENTITY readingList.sidebar.add.tooltip          "Cuir an leathanach seo le do Liosta Léitheoireachta">
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 
 <!ENTITY saveToPocketCmd.label     "Sábháil an Leathanach i bPocket">

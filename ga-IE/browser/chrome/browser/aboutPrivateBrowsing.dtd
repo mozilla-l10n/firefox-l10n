@@ -2,18 +2,50 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.title            "Tá tú ag brabhsáil go príobháideach">
-<!ENTITY aboutPrivateBrowsing.title.normal     "An bhfuil fonn ort fuinneog phríobháideach a oscailt?">
-
-<!ENTITY aboutPrivateBrowsing.subtitle         "Ní choimeádfaidh &brandShortName; stair ar bith san fhuinneog seo.">
-<!ENTITY aboutPrivateBrowsing.subtitle.normal  "Ní choimeádfaidh &brandShortName; stair ar bith i bhfuinneoga príobháideacha.">
-
-<!ENTITY aboutPrivateBrowsing.description      "Mar shampla, ní choimeádfaidh sé do stair bhrabhsála, stair chuardaigh, stair na n-íosluchtuithe, sonraí a chuir tú isteach i bhfoirmeacha, fianáin, nó comhaid shealadacha Idirlín. Ach, coimeádfaidh sé comhaid a íosluchtaíonn tú agus leabharmharcanna a chruthaíonn tú.">
-
 <!ENTITY aboutPrivateBrowsing.notPrivate       "Níl tú i bhfuinneog phríobháideach faoi láthair.">
-
-<!ENTITY aboutPrivateBrowsing.moreInfo         "Cé nach gcoimeádfar do stair bhrabhsála ar an ríomhaire seo, is dócha go mbeidh d'fhostóir nó do sholáthraí seirbhíse Idirlín in ann taifead a dhéanamh ar na leathanaigh a ndéanann tú cuairt orthu.">
-<!ENTITY aboutPrivateBrowsing.learnMore        "Tuilleadh Eolais.">
-
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Oscail Fuinneog Phríobháideach">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
+
+<!ENTITY privateBrowsing.title                 "Brabhsáil Phríobháideach">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
+     Width of the Private Browsing section.
+     -->
+
+<!ENTITY aboutPrivateBrowsing.width            "30em">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
+     aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
+     These strings will be replaced by aboutPrivateBrowsing.forgotten and
+     aboutPrivateBrowsing.kept when the new visual design lands (bug 1192625).
+     -->
+
+<!ENTITY aboutPrivateBrowsing.title            "Tá tú ag brabhsáil go príobháideach">
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.history     "Stair">
+
+<!ENTITY aboutPrivateBrowsing.info.cookies     "Fianáin">
+
+
+<!ENTITY aboutPrivateBrowsing.kept             "Coinneoidh &brandShortName;:">
+
+<!ENTITY aboutPrivateBrowsing.info.downloads   "Íosluchtuithe">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks   "Leabharmharcanna">
+
+<!ENTITY aboutPrivateBrowsing.learnMore        "Tuilleadh Eolais.">
+<!-- LOCALIZATION NOTE (trackingProtection.width):
+     Width of the Tracking Protection section. This should be enough to
+     accommodate the title as well as the enabled or disabled indicator.
+     -->
+
+<!ENTITY trackingProtection.width              "30em">
+
+<!-- LOCALIZATION NOTE (trackingProtection.state.width):
+     Width of the element representing the enabled or disabled indicator.
+     -->
+
+
+
+
+
+
