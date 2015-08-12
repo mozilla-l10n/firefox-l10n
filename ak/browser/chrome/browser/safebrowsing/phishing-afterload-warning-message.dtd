@@ -12,6 +12,9 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Wɔabɔ amande afa wɛb krataafa wɔ <span id='malware_sitename'/> sɛ ɔyɛ saet a ɔhaw adwen nti wɔnam wo bambɔ nhyehyɛe so esiw no kwan.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Krataafa a wɔhaw adwen bɔ mbɔden sɛ wɔbɛinstɔle mprogram de ewia wo ho nsɛm anaaso wɔde wo kɔmputa bɛhaw afoforo wɔn adwen, anaaso wɔbɛhaw wo sestɛm no.</p><p>Nkrataafa bi a wɔhaw adwen hyɛda kyekyɛ sɔftwɛɛ bɔn, naaso kɔmputa pii sɛe ansaana kɔmputa wura no mpo ehu.</p>">
 
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+
+
 <!ENTITY safeb.blocked.phishingPage.title "Wɛb Sakawa a Wɔaka!">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc "Wɔabɔ amande afa wɛb krataafa wɔ <span id='phishing_sitename'/> sɛ ɔyɛ saet a ɔhaw adwen nti wɔnam wo bambɔ nhyehyɛe so esiw no kwan.">

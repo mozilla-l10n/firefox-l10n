@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  fontsDialog.title                       "Afɔnto">
-<!ENTITY  window.width                            "39em">
-<!ENTITY  window.macWidth                         "43em">
-<!ENTITY  window.unixWidth                        "41em">
 
 <!ENTITY  language.label                          "Afɔnto ma:">
 <!ENTITY  language.accesskey                      "f">
@@ -23,9 +20,10 @@
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Monospace:">
 <!ENTITY  monospace.accesskey                     "M">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
-<!ENTITY  font.langGroup.latin1                   "Anee-fa">
-<!ENTITY  font.langGroup.latin2                   "Central European">
+<!ENTITY  font.langGroup.latin                    "Latin">
 
 <!ENTITY  font.langGroup.trad-chinese             "Traditional Chinese (Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Simplified Chinese">
@@ -34,8 +32,6 @@
 
 
 
-
-<!ENTITY  font.langGroup.unicode                  "Akasa Afoforo">
 
 
 
@@ -50,6 +46,7 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
 <!ENTITY  font.langGroup.khmer                    "Khmer">
 <!ENTITY  font.langGroup.malayalam                "Malayalam">
+
 <!ENTITY  font.langGroup.oriya                    "Oriya">
 <!ENTITY  font.langGroup.telugu                   "Telugu">
 <!ENTITY  font.langGroup.kannada                  "Kannada">
@@ -67,10 +64,9 @@
 <!ENTITY  allowPagesToUse.label                   "Ma akratafa mpaw afɔnte a wɔpɛ, ngyaw nea meapaw wɔ soro">
 <!ENTITY  allowPagesToUse.accesskey               "a">
 
-<!ENTITY languages.customize.Fallback.grouplabel  "Akyerɛwde Ndanee ma Legacy mu-nsɛm">
-<!ENTITY languages.customize.Fallback.label       "Nsiananmu Akyerɛwde Ndanee:">
-<!ENTITY languages.customize.Fallback.accesskey   "k">
-<!ENTITY languages.customize.Fallback.desc        "Saa akyerɛwde ndanee kyerɛ legacy mu-nsɛm a ɛnkyerɛ sɛnea wɔn a koode.">
+
+
+
 
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->

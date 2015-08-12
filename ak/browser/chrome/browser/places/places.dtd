@@ -52,6 +52,8 @@
 <!ENTITY cmd.open.accesskey              "B">
 <!ENTITY cmd.open_window.label           "Bue wɔ Tokuro Foforo mu">
 <!ENTITY cmd.open_window.accesskey       "o">
+
+
 <!ENTITY cmd.open_tab.label              "Bue wɔ Tab Foforo mu">
 <!ENTITY cmd.open_tab.accesskey          "f">
 <!ENTITY cmd.open_all_in_tabs.label      "Bue No Nyinara wɔ Ntab mu">
@@ -83,7 +85,6 @@
 <!ENTITY col.url.label           "Lokehyɛn">
 
 <!ENTITY col.visitcount.label    "Nsrahwɛ no Dodow">
-<!ENTITY col.keyword.label       "Asɛmfua-titiriw">
 <!ENTITY col.description.label   "Nkyerɛmu">
 <!ENTITY col.dateadded.label     "Aka-ho">
 <!ENTITY col.lastmodified.label  "Nsesae a Etwa To">

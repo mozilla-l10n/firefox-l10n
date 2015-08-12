@@ -7,11 +7,12 @@
 <!ENTITY     cookiesonsystem.label          "Kuki yi nom asie wɔ wo kɔmputa no so:">
 <!ENTITY     cookiename.label               "Kuki din">
 <!ENTITY     cookiedomain.label             "Saet"> 
-<!ENTITY     button.removecookies.label     "Yi nkuki">
-<!ENTITY     button.removecookie.label      "Yi kuki">
-<!ENTITY     button.removecookie.accesskey  "Y">
-<!ENTITY     button.removeallcookies.label  "Yi akuki nyinara">
-<!ENTITY     button.removeallcookies.accesskey "a">
+<!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
+  The label associated with this accesskey can be found in 
+  preferences.properties as removeSelectedCookies.
+-->
+<!ENTITY     button.removeAllCookies.label "Yi bibiara">
+<!ENTITY     button.removeAllCookies.accesskey "b">
 
 <!ENTITY     props.name.label               "Din:">
 <!ENTITY     props.value.label              "Emu nsɛm:">

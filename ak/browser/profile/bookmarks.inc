@@ -5,7 +5,7 @@
 
 # LOCALIZATION NOTE: The 'en-US' strings in the URLs will be replaced with
 
-# your locale code, and link to your translated pages as soon as they're 
+# your locale code, and link to your translated pages as soon as they're
 
 # live.
 

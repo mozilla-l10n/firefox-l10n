@@ -6,8 +6,11 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUse.label           "Ma kwan sɛ akrataafa mpaw ahosu a wɔpɛ, wɔ nea meapaw no ekyiri">
-<!ENTITY  allowPagesToUse.accesskey       "a">
+
+
+<!ENTITY  overridePageColors.always.label "Bere-biara">
+
+<!ENTITY  overridePageColors.never.label  "Daabi da">
 
 <!ENTITY  color                           "Nkyerɛwee ne ndaekyiri">
 <!ENTITY  textColor.label                 "Nkyerɛwee:">

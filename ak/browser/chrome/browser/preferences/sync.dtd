@@ -16,7 +16,6 @@
 
 <!ENTITY manageAccount.label          "Hwɛ akawnt so">
 <!ENTITY manageAccount.accesskey      "H">
-<!ENTITY viewQuota.label              "Hwɛ dodoɔ bi">
 <!ENTITY changePassword2.label        "Sesa ehintasɛmfua…">
 <!ENTITY myRecoveryKey.label          "Me nsa-san-ka safoa">
 <!ENTITY resetSync2.label             "San-hyehyɛɛ Sync…">
@@ -40,6 +39,10 @@
 
 <!ENTITY syncDeviceName.label       "Fidie Din;">
 <!ENTITY syncDeviceName.accesskey   "i">
+
+
+<!ENTITY cancelChangeSyncDeviceName.label "Twa-mu">
+<!ENTITY saveChangeSyncDeviceName.label "Sie">
 <!ENTITY unlinkDevice.label           "Yi Saa Efidie yi Lenke">
 <!-- Footer stuff -->
 
@@ -47,9 +50,19 @@
 <!ENTITY prefs.ppLink.label         "Siesɛm mbra">
 <!-- Firefox Accounts stuff -->
 
+<!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
+signedInUnverified.aftername.label): these two string are used respectively
+before and after the account email address. Localizers can use one of them, or
+both, to better adapt this sentence to their language.
+-->
+
 <!ENTITY signedInUnverified.beforename.label "">
 
-
+<!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
+signedInLoginFailure.aftername.label): these two string are used respectively
+before and after the account email address. Localizers can use one of them, or
+both, to better adapt this sentence to their language.
+-->
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 
@@ -58,6 +71,17 @@
 
 
 
-<!ENTITY welcome.signIn.label "Bra mu">
+
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
 
 

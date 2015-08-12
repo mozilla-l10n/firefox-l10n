@@ -4,6 +4,8 @@
 
 
 <!ENTITY  prefWindow.titleWin     "Nɔphyɛn">
+<!ENTITY  prefWindow.title        "Apɛde-nhyehyɛ">
+<!-- LOCALIZATION NOTE (prefWindow.titleGNOME): This is not used for in-content preferences -->
 <!ENTITY  prefWindow.titleGNOME   "&brandShortName; Apɛde">
 <!-- When making changes to prefWindow.styleWin test both Windows Classic and
      Luna since widget heights are different based on the OS theme -->
@@ -13,6 +15,7 @@
 
 <!ENTITY  paneGeneral.title       "Gyɛnɛral">
 <!ENTITY  paneTabs.title          "Ntab">
+<!ENTITY  paneSearch.title        "Hwehwɛ">
 <!ENTITY  paneContent.title       "Kɔntɛnt">
 <!ENTITY  paneApplications.title  "Mplekehyɛn">
 <!ENTITY  panePrivacy.title       "Siesɛm">
@@ -21,5 +24,5 @@
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 
 <!ENTITY  paneSync.title          "Synk">
-<!ENTITY  buttonForward.tooltip   "Kɔ enim krataafa baako">
-<!ENTITY  buttonBack.tooltip      "Kɔ ekyiri krataafa baako">
+
+<!ENTITY  helpButton.label        "Mboa">

@@ -6,7 +6,6 @@
 
 <!ENTITY printSetup.title    "Krataafa sɛtɔp">
 
-<!ENTITY basic.tab           "Fɔɔmat &amp; nɔphyɛn">
 
 <!ENTITY formatGroup.label   "Fɔɔmat">
 
@@ -25,10 +24,8 @@
 
 <!ENTITY optionsGroup.label  "Nɔphyɛn">
 
-<!ENTITY printBG.label       "Prente ndaekyiri (ahosu &amp; mfonin)">
-<!ENTITY printBG.accesskey   "n">
 
-<!ENTITY advanced.tab        "Amaagyen &amp; Eti asɛm/Ase asɛm">
+
 
 <!ENTITY marginGroup.label   "amaagyen (#1)">
 <!ENTITY marginUnits.inches  "inche">
@@ -42,7 +39,6 @@
 <!ENTITY marginRight.label   "benkum:">
 <!ENTITY marginRight.accesskey "b">
 
-<!ENTITY headerFooter.label  "Eti nsɛm &amp; Ase nsɛm">
 
 <!ENTITY hfLeft.label        "nifa:">
 <!ENTITY hfCenter.label      "mfinimfin:">

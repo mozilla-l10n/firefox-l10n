@@ -72,8 +72,8 @@ sɛ &brandShortName; wɔ ho kwan sɛ ɔbɛkɔ Wɛb ne so.</li>
 <!ENTITY netTimeout.title "Kɔnɛkhyɛn no ne bere apa ho">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "Firefox annte adrɛs no ase">
-<!ENTITY protocolNotFound.longDesc "<ul> 
+<!ENTITY unknownProtocolFound.title "Firefox annte adrɛs no ase">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
 <li>Etumi ba no sɛ ɛwɔ sɛ wo instɔl sɔftwɛɛ afoforo ansaana wo etumi ebue adrɛs yi.</li> 
 </ul>">
 
@@ -106,10 +106,7 @@ sɛ &brandShortName; wɔ ho kwan sɛ ɔbɛkɔ Wɛb no so.</li>
 </ul>">
 
 <!ENTITY nssFailure2.title "Kɔnɛkhyɛn a wɔabɔ ho ban no annkɔ yie">
-<!ENTITY nssFailure2.longDesc "<ul> 
-<li>Firefox ntumi nkyerɛ krataafa a wo pɛ sɛ wo hwɛ no efiri sɛ wonntumi nkyerɛ data a nsa aka no ne papayɛ.</li> 
-<li>Yɛ srɛ wo sɛ hu wɔn a wɛbsaet no yɛ wɔn de na ka haw yi kyerɛ wɔn. Wo pɛ so a, fa kɔmand a wo hu no wɔ mboa menu no mu bɔ Firefox amande fa saet a ɔnnyɛ edwuma yi ho.</li> 
-</ul>">
+
 
 <!ENTITY nssBadCert.title "Kɔnɛkhyɛn a wɔabɔ ho ban no annkɔ yie">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
@@ -131,12 +128,14 @@ yɛ biribi ɛto betwa a ɛrennkyɛ koraa, anaaso wo pɛ a san sɔ hwɛ ekyiri yi
 <!ENTITY malwareBlocked.longDesc "<p>Saet a wɔhaw adwen bɔ mbɔden sɛ wɔbɛinstɔl mprogram de ewia wo infɔmehyɛn, anaaso wɔde wo kɔmputa no bɛhaw afoforo wɔn adwen, anaaso wɔbɛhaw wo kɔmputa.</p> 
 <p>Sɛ wɛbsaet bi yɛ wo de na wo gye di sɛ obi afom sɛ wɔaka sɛ wo wɛbsaet no haw adwen a, <a href='http://www.stopbadware.org/home/reviewinfo' >bisa sɛ wɔnhwɛ wo asɛm nka mma wo</a>.</p>">
 
+
+
 <!ENTITY phishingBlocked.title "Ayɛ sɛ wɛb ndaadaa!">
 <!ENTITY phishingBlocked.longDesc "<p>Wo rekyerɛw wo ho nsɛm wɔ krataafa yi so betumi ama obi ewia wo su, anaaso ewia wo sika anaaso biribi foforo.</p> 
 <p>Yɛfrɛ wɛb ndaadaa te sɛ yinom sɛ Intanɛt sakawa, a binom nam emel ne wɛb nkrataafa so de yɛ wɔn ho sɛ obia a wobetumi de wo were ahyɛ wɔn mu.</p>">
 
-<!ENTITY cspFrameAncestorBlocked.title "Kɔntɛnt Sikuriti Mbra esi no kwan">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; sii krataafa yi kwan sɛ ɔbeloode wɔ kwan yi so efiri sɛ krataafa no wɔ sikuriti mbra bi a ɔmma biribi te sɛ yi ho kwan.</p>">
+<!ENTITY cspBlocked.title "Kɔntɛnt Sikuriti Mbra esi no kwan">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; sii krataafa yi kwan sɛ ɔbeloode wɔ kwan yi so efiri sɛ krataafa no wɔ sikuriti mbra bi a ɔmma biribi te sɛ yi ho kwan.</p>">
 
 <!ENTITY corruptedContentError.title "Mfomso a ɛkyerɛ kɔntent a ne ho atɔ kyima">
 <!ENTITY corruptedContentError.longDesc "<p>Wo renntumi nnhu krataafa a wo pɛ sɛ wo hwɛ no ɛsian sɛ wɔhuu mfomso bi wɔ data nsoma no mu.</p><ul><li>Yɛ srɛ wo sɛ bisa wɔn a wɛbsaet no yɛ wɔn de ma wɔ wɔnhwɛ ho asɛm nka.</li></ul>">
@@ -156,5 +155,17 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
+
+
+
+
+
+
+
+
 <!ENTITY remoteXUL.title "XUL remoot">
 <!ENTITY remoteXUL.longDesc "<p><ul><li> Yɛsrɛ wo sɛ bisa wɔn a wɛbsaet yi yɛ wɔn de ma wɔnhwɛ asɛm yi ho asɛm nka.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
+     "ssl_error_unsupported_version". -->
+

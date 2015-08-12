@@ -14,10 +14,10 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Mboa"> 
 <!ENTITY helpMenuWin.accesskey    "M">
-<!ENTITY aboutProduct.label       "Fa &brandShortName; ho">
-<!ENTITY aboutProduct.accesskey   "F">
-<!ENTITY productHelp.label        "&brandShortName; Mboa">
-<!ENTITY productHelp.accesskey    "b">
+
+
+
+
 <!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "Kibɔd kwantia">
@@ -26,8 +26,9 @@
 <!ENTITY helpSafeMode.label       "Sanhyɛase a woedum nkaho no…">
 <!ENTITY helpSafeMode.accesskey   "S">
 
-<!ENTITY healthReport.label       "&brandShortName; Apoomuden Amandebɔwoma">
-<!ENTITY healthReport.accesskey   "o">
+
+
+
 
 <!ENTITY helpTroubleshootingInfo.label      "Hawyi ho infɔmehyɛn">
 <!ENTITY helpTroubleshootingInfo.accesskey  "H">
@@ -35,16 +36,14 @@
 <!ENTITY helpFeedbackPage.label      "Sabmet wo fiidbak…">
 <!ENTITY helpFeedbackPage.accesskey  "S">
 
-<!ENTITY helpShowTour.label             "&brandShortName; hwɛ-na-sua">
-<!ENTITY helpShowTour.accesskey         "o">
+
 
 <!ENTITY preferencesCmdMac.label        "Nhyehyɛe…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Asom">
 
-<!ENTITY hideThisAppCmdMac.label        "Fa &brandShortName; Suma">
-<!ENTITY hideThisAppCmdMac.commandkey   "H">
+<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Suma Nkaa No">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">

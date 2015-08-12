@@ -1,24 +1,42 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-<!ENTITY privatebrowsingpage.title                 "Brawsen Praevet">
-<!ENTITY privatebrowsingpage.title.normal          "Wo bɛ pɛ sɛ wo bɛhyɛ Brawsen Praevet ase anaa?">
-
-<!ENTITY privatebrowsingpage.perwindow.issueDesc        "&brandShortName; rennkae abakɔsɛm biara mma sɛhyɛn yi.">
-<!ENTITY privatebrowsingpage.perwindow.issueDesc.normal "Sesei no, wo nni tokuro praevet mu.">
-
-<!ENTITY privatebrowsingpage.perwindow.description     "Sɛ wo wɔ Brawsen Praevet sɛhyɛn mu a, &brandShortName; rennsie wo brawsa ne abakɔsɛm biara anaaso nkuuki ne intanɛt mfael a woresie wɔn bere tiawa bi mu. Nanso sɛ wo twe anaa sɛ wo bukmaake fael biara a, wobesie wɔn.">
-
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Bue Tokuro Praevet">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "T">
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart4): please leave &newPrivateWindow.label; intact in the translation -->
-<!ENTITY privatebrowsingpage.howToStop3                "Wo pɛ sɛ wo hyɛ Ankorankorɛ Brawsen ase a, wo be tumi ato tokyro yi mu.">
 
-<!ENTITY privatebrowsingpage.moreInfo                  "Ɛwɔ mu sɛ wo kɔmputa rennsie wo brawsen abakɔsɛm, naaso wɔn a wɔma wo Intanɛt betumi ehu nkrataafa a wo kɔ.">
-<!ENTITY privatebrowsingpage.learnMore                 "Sua Bio">
-<!-- TO BE REMOVED POST-AUSTRALIS --> 
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
+<!ENTITY privateBrowsing.title                 "Brawsen Praevet">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
+     Width of the Private Browsing section.
+     -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
+     aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
+     These strings will be replaced by aboutPrivateBrowsing.forgotten and
+     aboutPrivateBrowsing.kept when the new visual design lands (bug 1192625).
+     -->
 
 
-<!ENTITY privatebrowsingpage.howToStart3               "Sɛ wo pɛ sɛ wo hyɛ Brawsen Praevet ase a, wo betumi afa &basePBMenu.label; &gt; &newPrivateWindow.label;.">
+
+<!ENTITY aboutPrivateBrowsing.info.history     "Abakɔsɛm">
+
+<!ENTITY aboutPrivateBrowsing.info.cookies     "nkuki">
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.downloads   "Atweatwe">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks   "Mbukmaak">
+
+
+<!-- LOCALIZATION NOTE (trackingProtection.width):
+     Width of the Tracking Protection section. This should be enough to
+     accommodate the title as well as the enabled or disabled indicator.
+     -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.state.width):
+     Width of the element representing the enabled or disabled indicator.
+     -->
+
+
+
+
+
+

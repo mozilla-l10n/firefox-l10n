@@ -10,11 +10,7 @@
 <!ENTITY devmgr.devlist.label                   "Bambɔ Mɔdul ne Mfidie">
 <!ENTITY devmgr.details.title                   "Nhunumu">
 <!ENTITY devmgr.details.title2                  "Bo">
-<!ENTITY devmgr.status.label                    "Tebea">
-<!ENTITY devmgr.version.label                   "Vɛɛhyen">
 
-<!ENTITY devmgr.button.changeslotname.label     "Sesa Tokuro Din">
-<!ENTITY devmgr.button.changeslotname.accesskey "S">
 <!ENTITY devmgr.button.login.label              "Lɔɔgo kɔ so">
 <!ENTITY devmgr.button.login.accesskey          "k">
 <!ENTITY devmgr.button.logout.label             "Lɔɔgo firi so">

@@ -22,11 +22,9 @@
 <!ENTITY  generalReferrer       "URL a ɛkyerɛ kwan:">
 <!ENTITY  generalSource         "Asiei farebae:">
 <!ENTITY  generalModified       "Asesa:">
-<!ENTITY  generalEncoding       "Rekyerɛw akɔ kood mu:">
+
 <!ENTITY  generalMetaName       "Din">
 <!ENTITY  generalMetaContent    "Mu nsɛm">
-<!ENTITY  generalSecurityDetails   "Nhunumu">
-<!ENTITY  generalSecurityDetails.accesskey "D">
 
 <!ENTITY  mediaTab              "Midea">
 <!ENTITY  mediaTab.accesskey    "M">
@@ -65,7 +63,6 @@
 
 <!ENTITY  securityTab           "Banbɔ">
 <!ENTITY  securityTab.accesskey "S">
-<!ENTITY  securityHeader        "Krataafa yi bambɔ ho nsɛm">
 <!ENTITY  securityView.certView "Hwɛ abodin krataa">
 <!ENTITY  securityView.accesskey "V">
 <!ENTITY  securityView.unknown   "Hena-so-ni">
@@ -76,7 +73,6 @@
 <!ENTITY  securityView.identity.domain   "Wɛbsaet:">
 <!ENTITY  securityView.identity.verifier "Eyi agye ato mu:">
 
-<!ENTITY  securityView.privacy.header                   "Siesɛm &amp; abakɔsɛm">
 <!ENTITY  securityView.privacy.history                  "M'asra wɛbsaet yi da anaa?">
 <!ENTITY  securityView.privacy.cookies                  "Wɛbsaet yi de infɔmehyen (akuki) resie wɔ me kɔmputa no so anaa?">
 <!ENTITY  securityView.privacy.viewCookies              "Hwɛ akuki">
@@ -86,3 +82,5 @@
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 
 <!ENTITY  securityView.technical.header                 "nhunumu a edi akotene">
+
+<!ENTITY  helpButton.label                              "Mboa">

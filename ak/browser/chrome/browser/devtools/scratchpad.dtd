@@ -48,6 +48,24 @@
 <!ENTITY closeCmd.key                 "W">
 <!ENTITY closeCmd.accesskey           "T">
 
+
+
+
+
+
+
+
+
+
+
+<!-- + is above this key on many keyboards -->
+
+
+
+
+
+
+
 <!ENTITY editMenu.label               "Sesa">
 <!ENTITY editMenu.accesskey           "e">
 
@@ -62,6 +80,7 @@
 <!ENTITY display.label                "Da-edi">
 <!ENTITY display.accesskey            "i">
 <!ENTITY display.key                  "l">
+
 
 
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was

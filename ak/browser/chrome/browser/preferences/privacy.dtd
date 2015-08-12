@@ -4,25 +4,28 @@
 
 <!ENTITY tracking.label                 "Rehwɛ">
 
-<!ENTITY dntTrackingNopref.label2       "Mma nnka me ekyiri-kwan-di apɛde nnkyerɛ nsaet.">
-<!ENTITY dntTrackingNopref.accesskey    "o">
-<!ENTITY dntTrackingNotOkay.label2      "Ka kyerɛ nwɛbsaet nyinara sɛ me mmpɛ sɛ wɔhwɛ me ekyiri kwan.">
-<!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY dntTrackingOkay.label2         "Ka kyerɛ nwɛbsaet nyinara sɛ me pɛ sɛ wɔhwɛ me ekyiri kwan.">
-<!ENTITY dntTrackingOkay.accesskey      "t">
-<!ENTITY doNotTrackInfo.label           "Sua bio ka ho">
 
-<!ENTITY  history.label                 "Abakɔsɛm">
+<!ENTITY doNotTrackInfo.label          "Sua bio ka ho">
+
+
+
+
+
+
+
 
 <!ENTITY  locationBar.label             "Baa Lokehyɛn">
 
-<!ENTITY  locbar.pre.label              "Sɛ wo de baa lokehyɛn no redi dwuma a, kyerɛ adwen:">
-<!ENTITY  locbar.pre.accessKey          "d">
-<!ENTITY  locbar.post.label             "">
-<!ENTITY  locbar.both.label             "Abakɔsɛm ne Mbukmaak">
-<!ENTITY  locbar.history.label          "Abakɔsɛm">
-<!ENTITY  locbar.bookmarks.label        "Mbukmaak">
-<!ENTITY  locbar.nothing.label          "Hwee">
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY  acceptCookies.label           "Gye nkuki firi nsaet">
 <!ENTITY  acceptCookies.accesskey       "G">
@@ -33,8 +36,7 @@
 <!ENTITY  acceptThirdParty.never.label    "Daabi da">
 <!ENTITY  acceptThirdParty.visited.label  "Firi bea a wɔasra">
 
-<!ENTITY  keepUntil.label               "Fa to hɔ kosi:">
-<!ENTITY  keepUntil.accesskey           "F">
+
 
 <!ENTITY  expire.label                  "bere a wɔbetwa mu">
 <!ENTITY  close.label                   "bere a me to &brandShortName; mu">

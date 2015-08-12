@@ -10,8 +10,8 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Hwehwɛ Ntoso">
 <!ENTITY update.checkForUpdatesButton.accesskey   "H">
-<!ENTITY update.updateButton.label                "San-hyɛ-ase fa to so">
-<!ENTITY update.updateButton.accesskey            "S">
+
+
 <!ENTITY update.applyButtonBillboard.label        "Tim ntoso no…">
 <!ENTITY update.applyButtonBillboard.accesskey    "T">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
@@ -38,10 +38,10 @@
 <!ENTITY community.creditsLink      "wiase fɛkuw">
 <!ENTITY community.end3             " a wɔdi dwuma bɔ mu ma Wɛb no mu da hɔ ma obiara.">
 
-<!ENTITY contribute.start           "Ɛyɛ wo anigye anaa? ">
-<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "Fa wo ho hyɛ mu!">
-<!ENTITY contribute.end             "">
+<!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
+
+<!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY helpus.end                 "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
 <!ENTITY bottomLinks.license        "Laesens ho infɔmehyɛn">

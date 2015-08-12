@@ -4,6 +4,7 @@
 <!ENTITY addons.windowTitle                   "Nkaho Hwɛsofo">
 
 <!ENTITY search.placeholder                   "Hwehwɛ nkaho nyinara">
+
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
@@ -21,6 +22,8 @@
 
 <!ENTITY cmd.back.tooltip                     "Kɔ ekyiri krataafa baako">
 <!ENTITY cmd.forward.tooltip                  "Kɔ enim krataafa baako">
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Ahotew mu edum nkaho nyinara.">
@@ -35,8 +38,6 @@
 <!ENTITY info.plugincheck.label                 "Hwɛ sɛ wo mplagin enya ntoso a wɔdi ekyiri nyinara a">
 <!ENTITY info.plugincheck.tooltip               "Hwɛ sɛ wo mplagin nyinara enya ntoso a wɔdi ekyiri nyinara a">
 <!-- categories / views -->
-
-<!ENTITY view.search.label                    "Hwehwɛ">
 <!ENTITY view.discover.label                  "Gye Nkaho">
 <!ENTITY view.recentUpdates.label             "Ntoso a nsa aka no ndansa yi">
 <!ENTITY view.availableUpdates.label          "Ntoso a wɔaba">
@@ -101,6 +102,8 @@
 <!ENTITY cmd.installAddon.accesskey           "i">
 <!ENTITY cmd.uninstallAddon.label             "Yi">
 <!ENTITY cmd.uninstallAddon.accesskey         "Y">
+
+
 <!ENTITY cmd.showPreferencesWin.label         "Nɔphyɛn">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Sesa kaho yi ne nɔphyɛn">
 <!ENTITY cmd.showPreferencesUnix.label        "Apɛde">
@@ -216,3 +219,25 @@ nkaho papa ne tseetsee no ama woasɔ ahwɛ.">
 <!ENTITY eula.accept                          "Gye to mu na Instɔl…">
 
 <!ENTITY settings.path.button.label           "Brawse…">
+<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
+     experiments are present on the "Experiments" tab of the add-ons manager.
+     This tab won't be displayed unless an Experiment add-on is installed.
+     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
+     to cause this tab to appear. -->
+<!ENTITY experiment.info.learnmore "Sua bio">
+
+
+
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
+     These entities form a sentence, with
+     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
+     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
+     being a link to an external site. -->
+
+

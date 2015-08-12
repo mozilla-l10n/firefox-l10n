@@ -10,6 +10,8 @@
 
 
 
+
+
 <!ENTITY device.stopApp "Gyae">
 
 
@@ -27,6 +29,10 @@
 
 
 <!ENTITY device.permissions "Akwanya">
+
+
+
+
 
 
 
@@ -77,6 +83,8 @@
 
 <!ENTITY projects.valid "Ɛda edi">
 <!ENTITY projects.error "Mfomso">
+
+
 
 
 <!ENTITY help.close "To-mu">
