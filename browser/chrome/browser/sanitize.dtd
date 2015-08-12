@@ -52,8 +52,6 @@ that require it.  -->
 <!ENTITY itemHistoryAndDownloads.accesskey "R">
 <!ENTITY itemFormSearchHistory.label       "Riwayat Pencarian dan Isian Form">
 <!ENTITY itemFormSearchHistory.accesskey   "F">
-<!ENTITY itemPasswords.label               "Sandi Tersimpan">
-<!ENTITY itemPasswords.accesskey           "S">
 <!ENTITY itemCookies.label                 "Kuki">
 <!ENTITY itemCookies.accesskey             "K">
 <!ENTITY itemCache.label                   "Tembolok">

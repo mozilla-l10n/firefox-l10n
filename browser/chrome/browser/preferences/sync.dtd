@@ -16,7 +16,6 @@
 
 <!ENTITY manageAccount.label          "Kelola Akun">
 <!ENTITY manageAccount.accesskey      "A">
-<!ENTITY viewQuota.label              "Tampilkan Info Jatah">
 <!ENTITY changePassword2.label        "Ganti Sandi…">
 <!ENTITY myRecoveryKey.label          "Kunci Pemulihan Saya">
 <!ENTITY resetSync2.label             "Setel Ulang Sinkronisasi…">
@@ -26,8 +25,6 @@
 <!ENTITY syncMy.label               "Sinkronkan">
 <!ENTITY engine.bookmarks.label     "Markah">
 <!ENTITY engine.bookmarks.accesskey "M">
-<!ENTITY engine.readinglist.label   "Daftar Bacaan">
-<!ENTITY engine.readinglist.accesskey "B">
 <!ENTITY engine.tabs.label          "Tab">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Riwayat">
@@ -74,13 +71,24 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Anda belum masuk.">
 <!ENTITY signIn.label                "Masuk">
+
 <!ENTITY manage.label                "Kelola">
 <!ENTITY disconnect.label            "Putuskan…">
 <!ENTITY verify.label                "Verifikasikan Email">
 <!ENTITY forget.label                "Lupakan Email Ini">
 
 <!ENTITY welcome.description "Akses tab, markah, sandi, dan yang lain saat menggunakan &brandShortName;.">
-<!ENTITY welcome.signIn.label "Masuk">
-<!ENTITY welcome.createAccount.label "Buat Akun">
+
+
 
 <!ENTITY welcome.useOldSync.label "Menggunakan versi lawas Sync?">
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+
+

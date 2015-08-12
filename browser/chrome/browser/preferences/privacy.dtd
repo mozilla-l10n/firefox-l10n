@@ -4,12 +4,14 @@
 
 <!ENTITY tracking.label                 "Pelacakan">
 
-<!ENTITY dntTrackingNotOkay.label2      "Beritahukan situs bahwa saya tidak ingin dilacak">
-<!ENTITY dntTrackingNotOkay.accesskey   "s">
-<!ENTITY trackingProtection.label       "Cegah situs untuk melacak saya">
-<!ENTITY trackingProtection.accesskey   "m">
-<!ENTITY trackingProtectionLearnMore.label "Pelajari selengkapnya">
-<!ENTITY doNotTrackInfo.label           "Pelajari Selengkapnya">
+
+<!ENTITY doNotTrackInfo.label          "Pelajari Selengkapnya">
+
+
+
+
+
+
 
 <!ENTITY  history.label                 "Riwayat">
 
@@ -24,6 +26,8 @@
 <!ENTITY  locbar.openpage.accesskey     "T">
 <!ENTITY  locbar.searches.label         "Pencarian terkait dari mesin pencari baku.">
 <!ENTITY  locbar.searches.accesskey     "d">
+
+
 
 <!ENTITY  acceptCookies.label           "Terima kuki dari situs web">
 <!ENTITY  acceptCookies.accesskey       "w">
