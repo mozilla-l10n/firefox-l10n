@@ -19,19 +19,21 @@
      -->
 
 <!ENTITY aboutPrivateBrowsing.title            "Tá tú ag brabhsáil go príobháideach">
+<!ENTITY aboutPrivateBrowsing.subtitle         "Sa bhfuinneog seo ní mheabhróidh &brandShortName; aon stair duit.">
 
-
-
+<!ENTITY aboutPrivateBrowsing.forgotten        "Sa bhfuinneog seo ní mheabhróidh &brandShortName; :">
+<!ENTITY aboutPrivateBrowsing.info.forgotten   "Dearmadta">
 <!ENTITY aboutPrivateBrowsing.info.history     "Stair">
-
+<!ENTITY aboutPrivateBrowsing.info.searches    "Cuardaigh">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Fianáin">
-
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Comhaid Shealadacha">
 
 <!ENTITY aboutPrivateBrowsing.kept             "Coinneoidh &brandShortName;:">
-
+<!ENTITY aboutPrivateBrowsing.info.kept        "Coimeádta">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Íosluchtuithe">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Leabharmharcanna">
 
+<!ENTITY aboutPrivateBrowsing.note1            "Tabhair faoi deara gur féidir le d'fhostaí nó do sholáthraí seirbhíse na leathanaigh a chuardaíonn tú a rianú go fóill.">
 <!ENTITY aboutPrivateBrowsing.learnMore        "Tuilleadh Eolais.">
 <!-- LOCALIZATION NOTE (trackingProtection.width):
      Width of the Tracking Protection section. This should be enough to
@@ -39,13 +41,17 @@
      -->
 
 <!ENTITY trackingProtection.width              "30em">
-
+<!ENTITY trackingProtection.title              "Cosaint ar Rianú">
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
 
+<!ENTITY trackingProtection.state.width        "6ch">
+<!ENTITY trackingProtection.state.enabled      "Lasta">
+<!ENTITY trackingProtection.state.disabled     "Múchta">
 
+<!ENTITY trackingProtection.description1       "Cuireann fuinneoga príobháideacha bac anois ar chodanna áirithe de leathanaigh a d'fhéadfadh do chuid brabhsála a rianú.">
 
-
-
-
+<!ENTITY trackingProtection.disable            "Múch Cosaint ar Rianú">
+<!ENTITY trackingProtection.enable             "Las Cosaint ar Rianú">
+<!ENTITY trackingProtection.startTour1         "Conas go n-oibríonn sé seo">
