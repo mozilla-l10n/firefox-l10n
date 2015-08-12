@@ -7,11 +7,12 @@
 <!ENTITY     cookiesonsystem.label          "Kkuki ezindirira ziterekwa mu kompyuta yo:">
 <!ENTITY     cookiename.label               "Erinnya lya Kkuki">
 <!ENTITY     cookiedomain.label             "Ekibanja"> 
-<!ENTITY     button.removecookies.label     "Jjawo Kkuki">
-<!ENTITY     button.removecookie.label      "Jjawo Kkuki">
-<!ENTITY     button.removecookie.accesskey  "J">
-<!ENTITY     button.removeallcookies.label  "Jjawo Kkuki Zonna">
-<!ENTITY     button.removeallcookies.accesskey "Z">
+<!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
+  The label associated with this accesskey can be found in 
+  preferences.properties as removeSelectedCookies.
+-->
+<!ENTITY     button.removeAllCookies.label "Jjawo Byonna">
+<!ENTITY     button.removeAllCookies.accesskey "B">
 
 <!ENTITY     props.name.label               "Erinnya:">
 <!ENTITY     props.value.label              "Ebirimu:">

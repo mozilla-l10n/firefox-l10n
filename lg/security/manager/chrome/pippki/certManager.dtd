@@ -10,9 +10,6 @@
 <!ENTITY certmgr.tab.ca                       "Obunyiza">
 <!ENTITY certmgr.tab.orphan2                  "Awalala">
 
-<!ENTITY certmgr.ca.builtins                  "Built-in CAs">
-<!ENTITY certmgr.ca.mycas                     "CAs Efungwa Nawe">
-
 <!ENTITY certmgr.mine                         "Oyina santifikati kuva mu bitigole ebikugambawo:">
 <!ENTITY certmgr.others                       "Orina santifikati kufailo ezogelaku bantu bano:">
 <!ENTITY certmgr.websites2                    "Oyina santifikates ku fayiro eziranga kompyuta ezifuunga zinazo:">
@@ -37,23 +34,13 @@
 
 <!ENTITY certmgr.certdetail.sha1fingerprint   "SHA1 Obulabe">
 
-<!ENTITY certmgr.editcert.title               "Kyusa Enteegeka ya Satifikati ye`Byokwerinda">
 <!ENTITY certmgr.editcacert.title             "Kyusa enteeka ya satifikati eyekyika kya CA">
 <!ENTITY certmgr.editcert.edittrust           "Kyusa enteegeka zo kwesiga:">
 <!ENTITY certmgr.editcert.trustssl            "Eno Satifiketi esoobola okwawula ebyapa.">
 <!ENTITY certmgr.editcert.trustemail          "Santifikati eno enyiza kwogera ku mukozesa wa mayiru.">
 <!ENTITY certmgr.editcert.trustobjsign        "Santifikati eno enyiza kutegeza bananyini ba kompyuta pulogulamu.">
-<!ENTITY certmgr.editemailcert.title          "Longosa imayiru ya santifikati ekakasee eteegeka">
-
-
-
 
 <!ENTITY certmgr.deletecert.title             "Sagula santifikati">
-<!ENTITY certmgr.deletecert.beforename        "Osabye kusagula santifikati eno:">
-<!ENTITY certmgr.deletecert.aftername         "Wekakasa oyagala ku sagula santifikati eno?">
-<!ENTITY certmgr.deleteusercert.title         "Sagula Santifikati yo">
-<!ENTITY certmgr.deleteusercert.beforename    "Osabye ku sagula santifikati:">
-<!ENTITY certmgr.deleteusercert.aftername     "Kale bwosagula santifikati eno, toyiza ku somaa mayiru ekyakalanyi.">
 
 <!ENTITY certmgr.certname                     "Erinya rya Santifikati">
 <!ENTITY certmgr.certserver                   "Kompyuta efunga zinazo">
@@ -70,10 +57,6 @@
 <!ENTITY certmgr.view2.accesskey              "L">
 <!ENTITY certmgr.edit3.label                  "Kyusa Enesiga…">
 <!ENTITY certmgr.edit3.accesskey              "K">
-<!ENTITY certmgr.editca.label                 "Longosa CA obwesigwa">
-<!ENTITY certmgr.editca.accesskey             "o">
-<!ENTITY certmgr.add.label                    "Ggataa">
-<!ENTITY certmgr.add.accesskey                "G">
 <!ENTITY certmgr.export.label                 "Okuwerezza ebweru…">
 <!ENTITY certmgr.export.accesskey             "k">
 <!ENTITY certmgr.delete2.label                "Saggula…">
@@ -90,8 +73,8 @@
 <!ENTITY certmgr.details.accesskey            "E">
 <!ENTITY certmgr.fields.label                 "Omuweddo gwe kifuu">
 <!ENTITY certmgr.fields.accesskey             "O">
-<!ENTITY certmgr.hierarchy.label              "Ebbitimbwa bya santifikate">
-<!ENTITY certmgr.hierarchy.accesskey          "s">
+
+
 <!ENTITY certmgr.addException.label           "Ggataa Okundawo…">
 <!ENTITY certmgr.addException.accesskey       "k">
 

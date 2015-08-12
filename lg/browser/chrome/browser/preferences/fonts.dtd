@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  fontsDialog.title                       "Ennukuta">
-<!ENTITY  window.width                            "39em">
-<!ENTITY  window.macWidth                         "43em">
-<!ENTITY  window.unixWidth                        "41em">
 
 <!ENTITY  language.label                          "Ennukuta za:">
 <!ENTITY  language.accesskey                      "k">
@@ -23,9 +20,10 @@
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Ebbangalimu:">
 <!ENTITY  monospace.accesskey                     "g">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
-<!ENTITY  font.langGroup.latin1                   "Eby'ebugwanjuba">
-<!ENTITY  font.langGroup.latin2                   "Eby'amasekati ga Yulopu">
+<!ENTITY  font.langGroup.latin                    "Olulatini">
 
 <!ENTITY  font.langGroup.trad-chinese             "Byobuwagwa bya Chinese (Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Eyaguyizirwa Chinese">
@@ -34,8 +32,6 @@
 
 
 
-
-<!ENTITY  font.langGroup.unicode                  "Ennimi Endala">
 
 
 
@@ -50,6 +46,7 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
 <!ENTITY  font.langGroup.khmer                    "Khmer">
 <!ENTITY  font.langGroup.malayalam                "Abamalayalama">
+
 <!ENTITY  font.langGroup.oriya                    "Aboriya">
 <!ENTITY  font.langGroup.telugu                   "Abatelugu">
 <!ENTITY  font.langGroup.kannada                  "Olukanada">

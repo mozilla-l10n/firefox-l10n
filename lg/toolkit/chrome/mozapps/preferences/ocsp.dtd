@@ -1,9 +1,0 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-<!ENTITY ocspDialog.title             "Okukakasa olukusa">
-<!ENTITY enableOCSP.label             "Kozesa Amateka ga embera za Satifikati eziri ku lutimbe (OCSP) okukakasa Obutufu bwa satifikati kakano">
-<!ENTITY enableOCSP.accesskey         "s">
-<!ENTITY requireOCSP.label            "Ndi OCSP enfunga zinazo muggattaa egana, kola ku satifikati nge taliyo">
-<!ENTITY requireOCSP.accesskey        "N">

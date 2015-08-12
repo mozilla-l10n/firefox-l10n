@@ -52,6 +52,8 @@
 <!ENTITY cmd.open.accesskey              "G">
 <!ENTITY cmd.open_window.label           "Gulirawo mu Ddirisa Epya">
 <!ENTITY cmd.open_window.accesskey       "E">
+
+
 <!ENTITY cmd.open_tab.label              "Ggulirawo mu Waddirira Awapya">
 <!ENTITY cmd.open_tab.accesskey          "a">
 <!ENTITY cmd.open_all_in_tabs.label      "Ggulirawo Byonna mu Awaddirira">
@@ -83,7 +85,6 @@
 <!ENTITY col.url.label           "Ekifo">
 
 <!ENTITY col.visitcount.label    "Okukyala bw'Enkebera">
-<!ENTITY col.keyword.label       "Ekigambo ekikulu">
 <!ENTITY col.description.label   "Ennyinyonnyola">
 <!ENTITY col.dateadded.label     "Kigattiddwako">
 <!ENTITY col.lastmodified.label  "Kyasemba Kutereezebwa">

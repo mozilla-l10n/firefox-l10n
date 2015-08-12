@@ -16,7 +16,6 @@
 
 <!ENTITY manageAccount.label          "Dukanya Akawunta">
 <!ENTITY manageAccount.accesskey      "A">
-<!ENTITY viewQuota.label              "Laba essalira">
 <!ENTITY changePassword2.label        "Kyusa Akasuumuluzo…">
 <!ENTITY myRecoveryKey.label          "Akasumuluzo Kange Akazaobujja">
 <!ENTITY resetSync2.label             "Ddamu Okwanaganye…">
@@ -40,6 +39,10 @@
 
 <!ENTITY syncDeviceName.label       "Elinya lye Ekyuma:">
 <!ENTITY syncDeviceName.accesskey   "k">
+
+
+<!ENTITY cancelChangeSyncDeviceName.label "Sazaamu">
+<!ENTITY saveChangeSyncDeviceName.label "Tereka">
 <!ENTITY unlinkDevice.label           "Jja Enkwaso Kukuma Kano">
 <!-- Footer stuff -->
 
@@ -63,12 +66,23 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 
+
 <!ENTITY manage.label                "Duddukanya">
 
 
 
 
-<!ENTITY welcome.signIn.label "Yingira">
+
 
 
 <!ENTITY welcome.useOldSync.label "Kozesa enkola enkade eya Sync?">
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+
+

@@ -10,11 +10,7 @@
 <!ENTITY devmgr.devlist.label                   "Security Modules and Devices">
 <!ENTITY devmgr.details.title                   "Details">
 <!ENTITY devmgr.details.title2                  "Value">
-<!ENTITY devmgr.status.label                    "Status">
-<!ENTITY devmgr.version.label                   "Version">
 
-<!ENTITY devmgr.button.changeslotname.label     "Kyusa erinya dya poti">
-<!ENTITY devmgr.button.changeslotname.accesskey "K">
 <!ENTITY devmgr.button.login.label              "Nyingiza mu">
 <!ENTITY devmgr.button.login.accesskey          "m">
 <!ENTITY devmgr.button.logout.label             "Fuluma">

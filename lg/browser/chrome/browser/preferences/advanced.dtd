@@ -26,13 +26,6 @@
 <!ENTITY checkSpelling.label             "Kebera byempandika nga bwe mpandiika">
 <!ENTITY checkSpelling.accesskey         "b">
 
-<!ENTITY systemDefaults.label            "Ebiberewo bya sisitimu">
-<!--XXX-->
-<!ENTITY alwaysCheckDefault.label        "Bulikiseera kebera okulaba oba &brandShortName; ye nonyeso enyenkalakalira mu kutandika">
-<!ENTITY alwaysCheckDefault.accesskey    "l">
-<!ENTITY setDefault.label                "Fula &brandShortName; enonyeso yo eyenkalakalira">
-<!ENTITY setDefault.accesskey            "k">
-<!ENTITY isDefault.label                 "&brandShortName; ye'nonyeso yo eyenkalakalira kakati">
 
 
 
@@ -41,11 +34,6 @@
 
 
 
-
-
-
-
-<!ENTITY crashReporterSection.label      "Ow'alipoota ezikonagana">
 
 
 
@@ -82,13 +70,8 @@
 <!ENTITY updateTab.label                 "Tuusa">
 
 <!ENTITY updateApp.label                 "Ebituusa &brandShortName;:">
-<!-- Note either updateAuto1 is used or (updateAutoMetro and updateAutoDesktop),
-     so re-using accesss key in updateAuto1 is OK. updateAutoDesktop can be found
-     in preferences.properties -->
 <!ENTITY updateAuto1.label               "Okweteramu Ebituusa (kiwagiddwa: okwerinda okusingako)">
 <!ENTITY updateAuto1.accesskey           "O">
-
-
 <!ENTITY updateCheck.label               "Kebera ebituusa, naye nzikiriza nsalewo oba bitekebwamu">
 <!ENTITY updateCheck.accesskey           "K">
 <!ENTITY updateManual.label              "Tokeberanga bituusa (tekiwagiddwa: obunkenke mu byokwerinda)">
@@ -96,7 +79,6 @@
 
 <!ENTITY updateAutoAddonWarn.label       "Ndabula nga kino kiza salawo ku bigattwamu byage">
 <!ENTITY updateAutoAddonWarn.accesskey   "N">
-
 
 <!ENTITY updateHistory.label             "Laga Ebyafaayo Ebilongosirwamu">
 <!ENTITY updateHistory.accesskey         "b">
@@ -120,6 +102,7 @@
 <!ENTITY offlineAppRemove.confirm        "Jjako wiino nga tterikulutimbe">
 
 <!ENTITY certificateTab.label            "Zasatifiketi">
+
 <!ENTITY certSelection.description       "Kompyuta effunga zinazo esamba ndi satifiketi zange ngo muntu:">
 <!ENTITY certs.auto                      "Londako kimu ekyetekako">
 
@@ -127,7 +110,7 @@
 
 
 
-<!ENTITY verify2.label                   "Kkikeberwa">
-<!ENTITY verify2.accesskey               "K">
+
+
 
 

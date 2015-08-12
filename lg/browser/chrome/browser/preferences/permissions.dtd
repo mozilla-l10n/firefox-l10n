@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                 "Okujako">
-<!ENTITY window.width                 "36em">
+
 
 <!ENTITY treehead.sitename.label      "Ekibanja">
 <!ENTITY treehead.status.label        "Embera">
@@ -21,6 +21,8 @@
 <!ENTITY allow.accesskey              "K">
 <!ENTITY windowClose.key              "w">
 
-<!ENTITY button.close.label           "Ggalawo">
-<!ENTITY button.close.accesskey       "G">
+<!ENTITY button.cancel.label          "Sazaamu">
+<!ENTITY button.cancel.accesskey      "S">
+
+
 

@@ -14,10 +14,10 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Obuyambi"> 
 <!ENTITY helpMenuWin.accesskey    "O">
-<!ENTITY aboutProduct.label       "Ebikwata ku &brandShortName;">
-<!ENTITY aboutProduct.accesskey   "E">
-<!ENTITY productHelp.label        "&brandShortName; Obuyambi">
-<!ENTITY productHelp.accesskey    "O">
+
+
+
+
 <!ENTITY helpMac.commandkey       "?">
 
 
@@ -25,8 +25,9 @@
 <!ENTITY helpSafeMode.label       "Tandika kompyuta buto nga ojjeko Ebyokwongerako…">
 <!ENTITY helpSafeMode.accesskey   "T">
 
-<!ENTITY healthReport.label       "Alipoota y'embeera ya &brandShortName;">
-<!ENTITY healthReport.accesskey   "e">
+
+
+
 
 <!ENTITY helpTroubleshootingInfo.label      "Amawulire ku kugonjoola obuzibu">
 <!ENTITY helpTroubleshootingInfo.accesskey  "A">
@@ -41,8 +42,7 @@
 
 <!ENTITY servicesMenuMac.label          "Enkola">
 
-<!ENTITY hideThisAppCmdMac.label        "Kweeka &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey   "H">
+<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Kweeka Ebilala">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">

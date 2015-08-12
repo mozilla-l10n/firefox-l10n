@@ -4,7 +4,8 @@
 
 <!ENTITY aboutAccounts.welcome "Oyaniriziddwa ku &syncBrand.shortName.label;">
 
+
 <!ENTITY aboutAccountsConfig.description "Yingira okutusa awaddirira, obulambe, obusumuluzo ne'birala.">
 <!ENTITY aboutAccountsConfig.startButton.label "Tandika">
 <!ENTITY aboutAccountsConfig.useOldSync.label "Kozesa enkola enkade eya Sync?">
-<!ENTITY aboutAccountsConfig.manage.label "Duddukanya">
+

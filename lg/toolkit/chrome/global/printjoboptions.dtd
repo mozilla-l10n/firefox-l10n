@@ -9,15 +9,6 @@
 <!ENTITY paperInput.label "Obunenne bw'Olupapula:">
 <!ENTITY paperInput.accesskey "O">
 
-<!ENTITY plexInput.label "Plex mode:">
-<!ENTITY plexInput.accesskey "m">
-
-<!ENTITY resolutionInput.label "Okusalawo/Mutindo:">
-<!ENTITY resolutionInput.accesskey "k">
-
-<!ENTITY cmdInput.label "Ekilagiro ky'olufulumya:">
-<!ENTITY cmdInput.accesskey "k">
-
 <!ENTITY jobTitleInput.label "Omulimu gwo:">
 <!ENTITY jobTitleInput.accesskey "O">
 
@@ -26,13 +17,6 @@
 <!ENTITY grayRadio.accesskey "O">
 <!ENTITY colorRadio.label "Langi">
 <!ENTITY colorRadio.accesskey "L">
-
-<!ENTITY colorspaceInput.label "Langi ebbanga:">
-<!ENTITY colorspaceInput.accesskey "e">
-
-<!ENTITY fontsGroup.label "Empandiika:">
-<!ENTITY downloadFonts.label "Wannula empandiika ku kafulumya">
-<!ENTITY downloadFonts.accesskey "W">
 
 <!ENTITY edgeMarginInput.label "Ebbanga okuva ku musitale okutuka ku nkomerero yo'lupapula">
 <!ENTITY topInput.label "Waggulu:">

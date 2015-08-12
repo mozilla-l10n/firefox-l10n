@@ -6,8 +6,11 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUse.label           "Kkiriza emiko oku londa langi zazzo, mukyifo kyo okukebere muzena lonze wagulu">
-<!ENTITY  allowPagesToUse.accesskey       "m">
+
+
+<!ENTITY  overridePageColors.always.label "Bulikaseera">
+
+
 
 <!ENTITY  color                           "Ebigambo n'Obwaliriro">
 <!ENTITY  textColor.label                 "Ebigambo:">

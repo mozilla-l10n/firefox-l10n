@@ -20,8 +20,8 @@
 
 <!ENTITY  reloadTab.label                    "Ddamu otikke Awaddirira">
 <!ENTITY  reloadTab.accesskey                "D">
-<!ENTITY  reloadAllTabs.label                "Ddamu otike Awaddirira Wonna">
-<!ENTITY  reloadAllTabs.accesskey            "A">
+
+
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -41,10 +41,10 @@ can reach it easily. -->
 <!ENTITY  moveToNewGroup.label               "Kibinja kippya">
 <!ENTITY  moveToNewWindow.label              "Teeka mu Ddirisa ppya">
 <!ENTITY  moveToNewWindow.accesskey          "D">
-<!ENTITY  bookmarkAllTabs.label              "Lamba Awaddirira Wona…">
-<!ENTITY  bookmarkAllTabs.accesskey          "A">
-<!ENTITY  undoCloseTab.label                 "Dyamu Oggalewo Awaddirira">
-<!ENTITY  undoCloseTab.accesskey             "D">
+
+
+
+
 <!ENTITY  closeTab.label                     "Ggalawo Awaddirira">
 <!ENTITY  closeTab.accesskey                 "G">
 
@@ -77,12 +77,20 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "A">
 <!ENTITY bookmarksToolbarItem.label "Obulambe bw'Akabawo kebikozesa Ebintu">
 
+
+
+
+
+
+
 <!ENTITY pageSourceCmd.label "Ensibuko y'Omuko">
 <!ENTITY pageSourceCmd.accesskey "n">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Ebikwata ku'muko">
 <!ENTITY pageInfoCmd.accesskey "b">
 <!ENTITY pageInfoCmd.commandkey "i">
+
+
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "Yingira Sikulini Enzijjuvu">
@@ -104,6 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY fullScreenMinimize.tooltip "Funza">
 <!ENTITY fullScreenRestore.tooltip "Zzawo">
 
@@ -111,8 +120,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "K">
 <!ENTITY fullScreenExit.label "Fuluma Engyeri ya'Sikulini Olujjuvu">
 <!ENTITY fullScreenExit.accesskey "O">
-<!ENTITY fullscreenAllowButton.label "Kkiriza">
-<!ENTITY fullscreenExitButton.label "Ggaana">
 
 <!ENTITY leaveDOMFullScreen.label "Fuluma Sikulini Enzijjuvu">
 <!ENTITY leaveDOMFullScreen.accesskey "E">
@@ -126,10 +133,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Longoosa Akalambe Kano">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
+<!-- LOCALIZATION NOTE (findShareServices.label):
+  -  Use the unicode ellipsis char, \u2026,
+  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
 
 
 
-
+<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 
 
 
@@ -195,6 +205,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.accesskey             "E">
 <!ENTITY addons.commandkey            "A">
 
+
+
 <!ENTITY webDeveloperMenu.label       "Omuzimbi w'emitimbagano">
 <!ENTITY webDeveloperMenu.accesskey   "O">
 
@@ -237,11 +249,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  application menu item that opens the browser toolbox UI in the Tools menu. -->
 
 
+<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
+  -  application menu item that opens the browser content toolbox UI in the Tools menu.
+  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
+
+
 <!ENTITY devToolbarCloseButton.tooltiptext "Galawo Akabawo ka Abazimbi">
 <!ENTITY devToolbarMenu.label              "Akabawo ka Abazimbi">
 <!ENTITY devToolbarMenu.accesskey          "b">
 
 
+
+
+
+<!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Ffula Ebikosebwa">
@@ -261,6 +282,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "E">
 <!ENTITY newPrivateWindow.label     "Akadirisa Akakusike">
 <!ENTITY newPrivateWindow.accesskey "k">
+
 
 <!ENTITY editMenu.label         "Longoosa"> 
 <!ENTITY editMenu.accesskey       "L"> 
@@ -346,6 +368,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Kyuusa ku Mapeesa">
+
+
+<!ENTITY urlbar.searchSuggestionsNotification.disable "Nedda">
+<!ENTITY urlbar.searchSuggestionsNotification.enable "Yee">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -370,6 +396,28 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
+<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
+     These are set as the aria-label attribute for the search input box and
+     submit button in the in-content search UI, to be used by screen readers. -->
+
+<!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
+     These two strings are used to build the header above the list of one-click
+     search providers:  "Search for <used typed keywords> with:" -->
+
+<!-- LOCALIZATION NOTE (search.label, searchAfter.label):
+     This string is used to build the header above the list of one-click search
+     providers when a one off engine has been selected.  The searchAfter text is
+     intentionally left empty for en-US and can be used by other localizations to
+     display a string after the search engine name.  This string will be displayed
+     as:  "Search <selected engine name><searchAfter.label text>" -->
+<!ENTITY searchAfter.label            "">
+<!-- LOCALIZATION NOTE (searchWithHeader.label):
+     The wording of this string should be as close as possible to
+     searchFor.label and searchWith.label. This string will be used instead of
+     them when the user has not typed any keyword. -->
+<!-- LOCALIZATION NOTE (changeSearchSettings.button):
+     This string won't wrap, so if the translated string is longer,
+     consider translating it as if it said only "Search Settings". -->
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -445,6 +493,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "r">
 <!ENTITY emailVideoCmd.label          "Wereza Olutambi mu emeyilo…">
 <!ENTITY emailVideoCmd.accesskey      "z">
+
+
 
 
 
@@ -542,19 +592,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sidebarCloseButton.tooltip     "Ggalawo akabaawo kebbali">
 
-<!ENTITY quitApplicationCmdWin.label       "Jjawo"> 
-<!ENTITY quitApplicationCmdWin.accesskey   "j">
+<!ENTITY quitApplicationCmdWin2.label       "Jjawo">
+<!ENTITY quitApplicationCmdWin2.accesskey   "j">
 
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Vaayo"> 
 <!ENTITY quitApplicationCmd.accesskey   "V">
-<!ENTITY quitApplicationCmdMac.label    "Leeka &brandShortName;">
+
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 
 <!ENTITY closeCmd.label                 "Ggalawo">  
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "G">
+
 
 <!ENTITY pageStyleMenu.label "Omusono gwo Omuko">
 <!ENTITY pageStyleMenu.accesskey "u">
@@ -594,29 +645,33 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "Kiwedde">
 <!ENTITY editBookmark.cancel.label                   "Sazaamu">
-<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
-<!ENTITY identity.unverifiedsite2 "Enfo enno tewereza bubaka bunyonnyola ebigikwatako.">
-<!ENTITY identity.connectedTo "Oyungiddwa ku">
-<!-- Localization note (identity.runBy) : This string appears between a
-domain name (above) and an organization name (below). E.g.
 
-example.com
-which is run by
-Example Enterprises, Inc.
 
-The layout of the identity dialog prevents combining this into a single string with
-substitution variables.  If it is difficult to translate the sense of the string
-with that structure, consider a translation which ignores the preceding domain and
-just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "kiddukanyizibwa">
 
-<!ENTITY identity.moreInfoLinkText "Obubaka obulala…">
+
+
+<!-- Strings for connection state warnings. -->
+
+
+
+<!-- Strings for connection state warnings in the subview. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY identity.permissions "Olukusa">
-<!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
-     localized title of this SUMO article
-     https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -654,7 +709,19 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
+
+
+
+
+
 <!ENTITY customizeMode.restoreDefaults "Zaawo ebyenkalakalira">
+
+
+<!ENTITY customizeMode.lwthemes "Emiramwa">
+
+<!ENTITY customizeMode.lwthemes.recommended "Ekisembebwa">
+<!ENTITY customizeMode.lwthemes.menuManage "Duddukanya">
+
 
 
 
@@ -671,7 +738,29 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.selectMicrophone.label "Akazindaalo k'okugabana/Omuzindaalo gw'okugabana">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "A">
 
-<!ENTITY webrtcIndicatorButton.label "Okufuna Kkamera/omuzindaalo">
+
+
+
+
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+
+
+
+
+<!ENTITY trackingContentBlocked.message "Okugoberera">
+
+
+
+
+
+
 
 
 
@@ -689,10 +778,43 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginNotification.width "28em">
 
 
-
-<!ENTITY tabCrashed.tryAgain "Gezako Nate">
-
-
 <!ENTITY appMenuSidebars.label         "Obubawobwokubali">
+<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
+     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
+     Please ensure that this remains the case in the translation. -->
+
+
+
+<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
+     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
+     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
+     The translation should do the same. -->
+
+
+
+
+
+<!ENTITY panicButton.view.undoWarning             "Ekikolwa kino tekisobola kudda mabega.">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY emeNotificationsDontAskAgain.label       "Toddamu kubuuza">
+<!ENTITY emeNotificationsDontAskAgain.accesskey   "T">
+<!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
+
+
 
 

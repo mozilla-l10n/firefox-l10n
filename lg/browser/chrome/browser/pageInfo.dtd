@@ -22,11 +22,9 @@
 <!ENTITY  generalReferrer       "Okujulira URL:">
 <!ENTITY  generalSource         "Ensibukko ye Tterekero lye kisera:">
 <!ENTITY  generalModified       "Kyalongoosebwa: kilongosedwa:">
-<!ENTITY  generalEncoding       "Empandiika enekusifu:">
+
 <!ENTITY  generalMetaName       "Erinnya">
 <!ENTITY  generalMetaContent    "Ebirimu">
-<!ENTITY  generalSecurityDetails   "Obulambulukufu">
-<!ENTITY  generalSecurityDetails.accesskey "D">
 
 <!ENTITY  mediaTab              "Mikutu">
 <!ENTITY  mediaTab.accesskey    "M">
@@ -65,7 +63,6 @@
 
 <!ENTITY  securityTab           "Ebyo'kwerinda">
 <!ENTITY  securityTab.accesskey "S">
-<!ENTITY  securityHeader        "Obubaka bwebyo'kwerinda obw'omuko guno">
 <!ENTITY  securityView.certView "Labako ku Mmatizo">
 <!ENTITY  securityView.accesskey "V">
 <!ENTITY  securityView.unknown   "Tekimanyiddwa">
@@ -85,3 +82,5 @@
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 
 <!ENTITY  securityView.technical.header                 "Obulambulukufu Obw'ekikugu">
+
+<!ENTITY  helpButton.label                              "Yamba">

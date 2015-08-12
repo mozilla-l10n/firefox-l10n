@@ -4,6 +4,7 @@
 <!ENTITY addons.windowTitle                   "Omukulu w'ebyongerwako">
 
 <!ENTITY search.placeholder                   "Noonyereza byonna ebigattwaako">
+
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
@@ -21,6 +22,8 @@
 
 <!ENTITY cmd.back.tooltip                     "Ddayo emabega omuko gumu">
 <!ENTITY cmd.forward.tooltip                  "Genda mu maaso omuko gumu">
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Ebyongerebwako byonna binafuyiziddwa n'enkola ennungamu">
@@ -35,8 +38,6 @@
 <!ENTITY info.plugincheck.label                 "Kebera okulaba nti ebyongerako byo bitukiridde">
 <!ENTITY info.plugincheck.tooltip               "Kebera okulaba nti ebyongerako byo bitukiridde">
 <!-- categories / views -->
-
-<!ENTITY view.search.label                    "Noonya">
 <!ENTITY view.discover.label                  "Funa Ebigattibwako">
 <!ENTITY view.recentUpdates.label             "Ebituusa ebbipya">
 <!ENTITY view.availableUpdates.label          "Eby'okutuukanya ebiriwo">
@@ -101,6 +102,7 @@
 <!ENTITY cmd.installAddon.accesskey           "T">
 <!ENTITY cmd.uninstallAddon.label             "Jjamu">
 <!ENTITY cmd.uninstallAddon.accesskey         "J">
+
 
 <!ENTITY cmd.showPreferencesWin.label         "Ebyokwerobozaako">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Kyusa ebyokulondako bye' ekyongerwako kino">
@@ -224,5 +226,18 @@ obumuku ku bugattibwako obusinga obulungi nokumanyika osoobole obugezako.">
      to cause this tab to appear. -->
 <!ENTITY experiment.info.learnmore "Weyongere Okuyiga">
 
+
+
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
+     These entities form a sentence, with
+     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
+     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
+     being a link to an external site. -->
 
 
