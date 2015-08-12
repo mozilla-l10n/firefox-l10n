@@ -7,7 +7,10 @@
                         is used as a title, with the privatebrowsingpage.title string preceding it but on a separate line.
                         So the final line will say "Private Browsing + Tracking Protection". -->
 
+<!ENTITY privatebrowsingpage.title.private "+ الحماية من التعقّب">
 
+
+<!ENTITY privatebrowsingpage.description.private3 "سيمنع فيرفكس تعقّبك ولن يتذكّر أيّا من التأريخ، إلا أن الملفات المنزّلة والعلامات الجديدة ستبقى تُحفظ على الجهاز.">
 
 
 <!ENTITY privatebrowsingpage.link.private "هل تريد معرفة المزيد؟">

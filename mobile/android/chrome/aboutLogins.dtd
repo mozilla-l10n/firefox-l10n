@@ -6,4 +6,4 @@
 <!ENTITY aboutLogins.title                       "جلسات الولوج">
 <!ENTITY aboutLogins.update                      "حدّث">
 <!ENTITY aboutLogins.emptyLoginText              "حافظ على جلسات ولوجك آمنة">
-
+<!ENTITY aboutLogins.emptyLoginHint              "ستظهر هنا بيانات الولوج وجلسات الولوج التي تحفظها باستخدام &brandShortName;.">
