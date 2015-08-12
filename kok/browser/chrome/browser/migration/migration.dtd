@@ -11,12 +11,18 @@
 
 <!ENTITY importFromIE.label             "माक्रोसॉफ्ट इन्टरनेट एक्सप्लोर">
 <!ENTITY importFromIE.accesskey         "M">
+
+
 <!ENTITY importFromNothing.label        "कायच आयात करू नाकात">
 <!ENTITY importFromNothing.accesskey    "D">
 <!ENTITY importFromSafari.label         "सफारी">
 <!ENTITY importFromSafari.accesskey     "S">
+
+
 <!ENTITY importFromChrome.label         "क्रोम">
 <!ENTITY importFromChrome.accesskey     "क">
+
+
 <!ENTITY importFromFirefox.label        "फायरफॉक्स ">
 <!ENTITY importFromFirefox.accesskey    "फ">
 

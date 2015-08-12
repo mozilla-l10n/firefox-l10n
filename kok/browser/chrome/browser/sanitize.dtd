@@ -49,8 +49,6 @@ that require it.  -->
 <!ENTITY itemHistoryAndDownloads.accesskey "ब">
 <!ENTITY itemFormSearchHistory.label       "प्रपत्र &amp; इतिहास सोदात">
 <!ENTITY itemFormSearchHistory.accesskey   "प">
-<!ENTITY itemPasswords.label               "जतनाय केल्ले आनिक गुप्तशब्द">
-<!ENTITY itemPasswords.accesskey           "P">
 <!ENTITY itemCookies.label                 "कुकीज">
 <!ENTITY itemCookies.accesskey             "क">
 <!ENTITY itemCache.label                   "कॅची">

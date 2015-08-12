@@ -55,6 +55,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "भौप्रक्रिया विंडोज">
 
+
 <!ENTITY aboutSupport.showDir.label "निदेशिका उगडात">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred

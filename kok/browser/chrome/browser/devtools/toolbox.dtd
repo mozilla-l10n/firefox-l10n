@@ -161,11 +161,6 @@
 
 <!ENTITY options.stylesheetAutocompletion.label      "आपशीचचालू करात CSS">
 <!ENTITY options.stylesheetAutocompletion.tooltip    "तुमी टायप करतात तशी CSS वैशिश्ट्यां, मोल आणि निवडुपी आपशीच पुराय करात">
-<!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
-  -  heading of the group of JavaScript Profiler preferences in the options
-  -  panel. -->
-
-<!ENTITY options.profiler.label            "जावालिपी प्रोफायलर">
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->

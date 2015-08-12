@@ -16,7 +16,6 @@
 
 <!ENTITY manageAccount.label          "खात्याचे व्यवस्थापन करात">
 <!ENTITY manageAccount.accesskey      "n">
-<!ENTITY viewQuota.label              "कोटा पळयात">
 <!ENTITY changePassword2.label        "पासवर्ड बदलात...">
 <!ENTITY myRecoveryKey.label          "मजी रिकव्हरी की">
 <!ENTITY resetSync2.label             "सिंक परत थारायात">
@@ -26,8 +25,6 @@
 <!ENTITY syncMy.label               "म्हजे सिंक करात">
 <!ENTITY engine.bookmarks.label     "बुकमार्क्स">
 <!ENTITY engine.bookmarks.accesskey "m">
-
-
 <!ENTITY engine.tabs.label          "टॅबां">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "इतिहास">
@@ -74,13 +71,24 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "तुमी सायन्ड ईन ना.">
 <!ENTITY signIn.label                "सायन ईन">
+
 <!ENTITY manage.label                "व्यवस्थापन">
 <!ENTITY disconnect.label            "जोडणी तोडात...">
 <!ENTITY verify.label                "ईमेल तपासात">
 <!ENTITY forget.label                "हे ईमेल विसरात">
 
 <!ENTITY welcome.description "तुमी जंय &brandShortName; वापरता थंय तुमची टॅबां, बूकमार्क्स, पासवर्ड्स आनी अदिक हातून प्रवेश घेयात.">
-<!ENTITY welcome.signIn.label "सही करता">
-<!ENTITY welcome.createAccount.label "खाते तयार करात">
+
+
 
 <!ENTITY welcome.useOldSync.label "सिंकाची पोन्नी आवृत्ती वापरता?">
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+
+
