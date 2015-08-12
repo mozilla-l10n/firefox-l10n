@@ -4,7 +4,8 @@
 
 <!ENTITY aboutAccounts.welcome "Sveiki! Čia „&syncBrand.shortName.label;“">
 
+
 <!ENTITY aboutAccountsConfig.description "Prisijunkite, jeigu norite sinchronizuoti savo korteles, adresyną, slaptažodžius ir kitką.">
 <!ENTITY aboutAccountsConfig.startButton.label "Pradėti">
 <!ENTITY aboutAccountsConfig.useOldSync.label "Naudojatės senesne „Sync“ laida?">
-<!ENTITY aboutAccountsConfig.manage.label "Tvarkyti">
+
