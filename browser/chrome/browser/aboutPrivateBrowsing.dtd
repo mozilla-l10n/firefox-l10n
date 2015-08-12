@@ -6,6 +6,7 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Abrir uma janela privativa">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
 
+<!ENTITY privateBrowsing.title                 "Navegação privativa">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
      Width of the Private Browsing section.
      -->
@@ -22,8 +23,9 @@
 <!ENTITY aboutPrivateBrowsing.info.history     "Histórico">
 
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Cookies">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Arquivos temporários">
 
-
+<!ENTITY aboutPrivateBrowsing.kept             "O &brandShortName; manterá:">
 
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Downloads">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Favoritos">
@@ -33,12 +35,12 @@
      Width of the Tracking Protection section. This should be enough to
      accommodate the title as well as the enabled or disabled indicator.
      -->
-
+<!ENTITY trackingProtection.title              "Proteção contra rastreamento">
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
-
-
+<!ENTITY trackingProtection.state.enabled      "Ligado">
+<!ENTITY trackingProtection.state.disabled     "Delisgado">
 
 
 

@@ -78,15 +78,15 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.label                "Esquecer este email">
 
 <!ENTITY welcome.description "Acesse suas abas, favoritos, senhas e muito mais, sempre que usar o &brandShortName;.">
-
-
+<!ENTITY welcome.signIn.label "Entrar">
+<!ENTITY welcome.createAccount.label "Criar conta">
 
 <!ENTITY welcome.useOldSync.label "Usando uma versão anterior do Sync?">
 
 
 
-
-
+<!ENTITY signedOut.accountBox.create  "Criar conta">
+<!ENTITY signedOut.accountBox.signin  "Entrar">
 
 
 <!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
