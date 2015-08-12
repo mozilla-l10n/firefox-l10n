@@ -11,14 +11,22 @@
 
 <!ENTITY importFromIE.label             "माइक्रोसाफ़्ट इंटरनेट एक्सप्लोरर">
 <!ENTITY importFromIE.accesskey         "M">
+
+
 <!ENTITY importFromNothing.label        "किछु आयात नहि करू (D)">
 <!ENTITY importFromNothing.accesskey    "D">
 <!ENTITY importFromSafari.label         "सफारी">
 <!ENTITY importFromSafari.accesskey     "S">
+
+
 <!ENTITY importFromChrome.label         "क्रोम">
 <!ENTITY importFromChrome.accesskey     "C">
+
+
 <!ENTITY importFromFirefox.label        "फायरफाक्स">
 <!ENTITY importFromFirefox.accesskey    "x">
+
+
 
 <!ENTITY noMigrationSources.label       "प्रोग्राम जे पुस्तकचिह्न, इतिहास अथवा गुड़किल्ली आँकड़ा रखती अछि पायी गई.">
 
