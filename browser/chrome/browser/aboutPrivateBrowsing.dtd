@@ -10,6 +10,8 @@
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
      Width of the Private Browsing section.
      -->
+
+<!ENTITY aboutPrivateBrowsing.width            "25em">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
      aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
      These strings will be replaced by aboutPrivateBrowsing.forgotten and
@@ -17,30 +19,38 @@
      -->
 
 <!ENTITY aboutPrivateBrowsing.title            "O batlela mo sephiring">
+<!ENTITY aboutPrivateBrowsing.subtitle         "Mo window e, &brandShortName; ga e kake ya gakologelwa motlhala ope.">
 
-
-
+<!ENTITY aboutPrivateBrowsing.forgotten        "Mo window e, &brandShortName; ga e kake ya gakologelwa:">
+<!ENTITY aboutPrivateBrowsing.info.forgotten   "Lebetswe">
 <!ENTITY aboutPrivateBrowsing.info.history     "Tiragalo tse di fetileng">
-
+<!ENTITY aboutPrivateBrowsing.info.searches    "Dipatlo">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Dikhoki">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Difaele tsa Nakwana">
 
-
-
-
+<!ENTITY aboutPrivateBrowsing.kept             "&brandShortName; e tla tshegetsa:">
+<!ENTITY aboutPrivateBrowsing.info.kept        "Tshegeditswe">
+<!ENTITY aboutPrivateBrowsing.info.downloads   "Dikopololo">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Matshwaotsebe">
 
+<!ENTITY aboutPrivateBrowsing.note1            "Tswêê-tswêê itse fa mmereki wa gago kgotsa motlamedi wa tirelo ya inthanete a ka nna a latedisa ditsebe tse o di etelang.">
 <!ENTITY aboutPrivateBrowsing.learnMore        "Ithute mo Gontsi.">
 <!-- LOCALIZATION NOTE (trackingProtection.width):
      Width of the Tracking Protection section. This should be enough to
      accommodate the title as well as the enabled or disabled indicator.
      -->
 
+<!ENTITY trackingProtection.width              "22em">
+<!ENTITY trackingProtection.title              "Tshireletso ya Tatediso">
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
 
+<!ENTITY trackingProtection.state.width        "6ch">
+<!ENTITY trackingProtection.state.enabled      "TSHUBA">
+<!ENTITY trackingProtection.state.disabled     "TIMA">
 
-
+<!ENTITY trackingProtection.description1       "Windows tsa Poraefete ga jaana di thibela dikarolo tsa tsebe tse di ka latedisang tiro-patlo ya gago.">
 
 
 
