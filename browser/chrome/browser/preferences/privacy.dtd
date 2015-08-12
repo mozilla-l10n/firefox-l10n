@@ -4,12 +4,14 @@
 
 <!ENTITY tracking.label                 "Seguiment">
 
-<!ENTITY dntTrackingNotOkay.label2      "Fes saber als llocs web que no vull que se'm segueixi">
-<!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY trackingProtection.label       "Impedeix que els llocs em facin un seguiment">
-<!ENTITY trackingProtection.accesskey   "m">
-<!ENTITY trackingProtectionLearnMore.label "Més informació">
-<!ENTITY doNotTrackInfo.label           "Més informació">
+
+<!ENTITY doNotTrackInfo.label          "Més informació">
+
+
+
+
+
+
 
 <!ENTITY  history.label                 "Historial">
 
@@ -22,6 +24,8 @@
 <!ENTITY  locbar.bookmarks.accesskey    "d">
 <!ENTITY  locbar.openpage.label         "Pestanyes obertes">
 <!ENTITY  locbar.openpage.accesskey     "P">
+
+
 
 
 

@@ -2,18 +2,44 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.title            "Esteu navegant de forma privada">
-<!ENTITY aboutPrivateBrowsing.title.normal     "Voleu obrir una finestra privada?">
-
-<!ENTITY aboutPrivateBrowsing.subtitle         "El &brandShortName; no recordarà res de l'historial d'aquesta finestra.">
-<!ENTITY aboutPrivateBrowsing.subtitle.normal  "El &brandShortName; no recordarà res de l'historial de les pestanyes privades.">
-
-<!ENTITY aboutPrivateBrowsing.description      "Això inclou l'historial de navegació, l'historial de cerques, l'historial de baixades, l'historial dels formularis web, les galetes i altres fitxers temporals d'Internet. Per altra banda, sí que es conservaran els fitxers que baixeu i les adreces d'interès que deseu.">
-
 <!ENTITY aboutPrivateBrowsing.notPrivate       "Actualment no esteu en una finestra privada.">
-
-<!ENTITY aboutPrivateBrowsing.moreInfo         "Encara que l'ordinador no tindrà cap registre del vostre historial de navegació, el vostre proveïdor d'Internet o el vostre patró sí que podrien conèixer les pàgines que visiteu.">
-<!ENTITY aboutPrivateBrowsing.learnMore        "Més informació.">
-
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Obre una finestra privada">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
+
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
+     Width of the Private Browsing section.
+     -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
+     aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
+     These strings will be replaced by aboutPrivateBrowsing.forgotten and
+     aboutPrivateBrowsing.kept when the new visual design lands (bug 1192625).
+     -->
+
+<!ENTITY aboutPrivateBrowsing.title            "Esteu navegant de forma privada">
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.history     "Historial">
+
+<!ENTITY aboutPrivateBrowsing.info.cookies     "Galetes">
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.downloads   "Baixades">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks   "Adreces d'interès">
+
+<!ENTITY aboutPrivateBrowsing.learnMore        "Més informació.">
+<!-- LOCALIZATION NOTE (trackingProtection.width):
+     Width of the Tracking Protection section. This should be enough to
+     accommodate the title as well as the enabled or disabled indicator.
+     -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.state.width):
+     Width of the element representing the enabled or disabled indicator.
+     -->
+
+
+
+
+
+
