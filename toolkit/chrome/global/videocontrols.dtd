@@ -9,6 +9,7 @@
 <!ENTITY fullscreenButton.enterfullscreenlabel "Sekirini se se tletšego">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Etšwa sekirining se tletšego">
 
+
 <!ENTITY stats.media "Kgašoditaba">
 <!ENTITY stats.size "Bogolo">
 <!ENTITY stats.activity "Tiragalo">
@@ -17,8 +18,6 @@
 <!ENTITY stats.activityEnded "Fedile">
 <!ENTITY stats.activitySeeking "(nyaka)">
 <!ENTITY stats.volume "Bolumo">
-<!ENTITY stats.channels "Dikanale">
-<!ENTITY stats.sampleRate "Tekanyetšo ya sampole">
 <!ENTITY stats.framesParsed "Diforeimi tše arotšwego">
 <!ENTITY stats.framesDecoded "Diforeimi tše tlošitšwego dikhoutu">
 <!ENTITY stats.framesPresented "Diforeimi tše filwego">

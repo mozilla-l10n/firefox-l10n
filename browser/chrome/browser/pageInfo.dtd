@@ -22,11 +22,9 @@
 <!ENTITY  generalReferrer       "Go lebiša URL:">
 <!ENTITY  generalSource         "Mothopo wa polokelo-tsebišo:">
 <!ENTITY  generalModified       "Fetotšwe:">
-<!ENTITY  generalEncoding       "Go tsenya khoutu:">
+
 <!ENTITY  generalMetaName       "Leina">
 <!ENTITY  generalMetaContent    "Diteng">
-<!ENTITY  generalSecurityDetails   "Dintlha">
-<!ENTITY  generalSecurityDetails.accesskey "D">
 
 <!ENTITY  mediaTab              "Kgašoditaba">
 <!ENTITY  mediaTab.accesskey    "M">
@@ -58,23 +56,13 @@
 <!ENTITY  permAllowSession      "Dumelela bakeng sa nako">
 <!ENTITY  permBlock             "Thibela">
 <!ENTITY  permissionsFor        "Ditumelelo tša:">
-<!ENTITY  permImage             "Hlahlela diswantšho">
-<!ENTITY  permPopup             "Bula mafasetere a runyago">
-<!ENTITY  permCookie            "Beakanya dikhukhi">
-<!ENTITY  permNotifications     "Laetša ditsebišo">
-<!ENTITY  permInstall           "Lokela dikoketšo goba dihlogo">
-<!ENTITY  permGeo               "Abelana lefelo">
 <!ENTITY  permPlugins           "Diragatša ditsebišo-koketšo">
-<!ENTITY  permFullscreen        "Tsenya sekirini se tletšego">
-<!ENTITY  permPointerLock2      "Fihla selaetši sa legotlwana">
 
-<!ENTITY  permIndexedDB              "Boloka polokelo ya go se be inthaneteng">
 <!ENTITY  permClearStorage           "Hlwekiša polokelo">
 <!ENTITY  permClearStorage.accesskey "C">
 
 <!ENTITY  securityTab           "Tšhireletšo">
 <!ENTITY  securityTab.accesskey "S">
-<!ENTITY  securityHeader        "Tšhireletšego ya tshedimošo ya letlakala le">
 <!ENTITY  securityView.certView "Lebelela setifikeiti">
 <!ENTITY  securityView.accesskey "V">
 <!ENTITY  securityView.unknown   "Sa tsebjego">
@@ -85,7 +73,6 @@
 <!ENTITY  securityView.identity.domain   "Wepesaete: ">
 <!ENTITY  securityView.identity.verifier "Kgonthišeditšwe ke:">
 
-<!ENTITY  securityView.privacy.header                   "Bosephiri le histori">
 <!ENTITY  securityView.privacy.history                  "Na nkile ka etela wepesaete ye pele ga lehono?">
 <!ENTITY  securityView.privacy.cookies                  "Na wepesaete ye e boloka tshedimošo (dikhukhi) khomphutheng ya ka?">
 <!ENTITY  securityView.privacy.viewCookies              "Lebelela dikhukhi">
@@ -95,3 +82,5 @@
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 
 <!ENTITY  securityView.technical.header                 "Dintlha tše raraganego">
+
+<!ENTITY  helpButton.label                              "Thušo">

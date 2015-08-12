@@ -7,7 +7,6 @@
 <!ENTITY  popupExceptions.label       "Tše sa akaretšwego…">
 <!ENTITY  popupExceptions.accesskey   "T">
 
-<!ENTITY  fontsAndColors.label        "Difonte &amp; mebala">
 
 <!ENTITY  defaultFont.label           "Fonte ya tirelwa:">
 <!ENTITY  defaultFont.accesskey       "F">
@@ -25,3 +24,19 @@
 <!ENTITY chooseLanguage.label         "Kgetha leleme leo o le kganyogago la go bontšha matlakala">
 <!ENTITY chooseButton.label           "Kgetha…">
 <!ENTITY chooseButton.accesskey       "g">
+
+
+<!ENTITY translateExceptions.label    "Tše sa akaretšwego…">
+<!ENTITY translateExceptions.accesskey "k">
+<!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
+  -                     translation.options.attribution.afterLogo):
+  -  These 2 strings are displayed before and after a 'Microsoft Translator'
+  -  logo.
+  -  The translations for these strings should match the translations in
+  -  browser/translation.dtd
+  -->
+<!ENTITY translation.options.attribution.afterLogo "">
+
+
+
+<!ENTITY  playDRMContent.learnMore.label "Ithute ka mo go oketšegilego">

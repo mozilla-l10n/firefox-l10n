@@ -18,12 +18,12 @@
 <!ENTITY messages.accesskey "M">
 <!ENTITY clear.label        "Hlwekiša">
 <!ENTITY clear.accesskey    "H">
-<!ENTITY codeEval.label     "Code:">
-<!ENTITY codeEval.accesskey "o">
+
+
 <!ENTITY evaluate.label     "Lekanyetša">
 <!ENTITY evaluate.accesskey "n">
-<!ENTITY filter2.label      "Filter:">
-<!ENTITY filter2.accesskey  "F">
+
+
 
 <!ENTITY copyCmd.label       "Kopiša">  
 <!ENTITY copyCmd.accesskey   "K"> 

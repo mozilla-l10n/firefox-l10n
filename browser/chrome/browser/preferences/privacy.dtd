@@ -4,25 +4,28 @@
 
 <!ENTITY tracking.label                 "Go latelela">
 
-<!ENTITY dntTrackingNopref.label        "O se ke wa botša disaete selo ka ga go latelela gaka moo ke go ratago.">
-<!ENTITY dntTrackingNopref.accesskey    "O">
-<!ENTITY dntTrackingNotOkay.label       "Botša diwepesaete gore ga ke nyake go latelelwa.">
-<!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY dntTrackingOkay.label          "Botša disaete gore ke nyaka go latelelwa.">
-<!ENTITY dntTrackingOkay.accesskey      "t">
-<!ENTITY doNotTrackInfo.label           "Ithute ka mo go oketšegilego">
 
-<!ENTITY  history.label                 "Histori">
+<!ENTITY doNotTrackInfo.label          "Ithute ka mo go oketšegilego">
+
+
+
+
+
+
+
 
 <!ENTITY  locationBar.label             "Para ya lefelo">
 
-<!ENTITY  locbar.pre.label              "Ge o diriša para ya lefelo, šišinya:">
-<!ENTITY  locbar.pre.accessKey          "i">
-<!ENTITY  locbar.post.label             "">
-<!ENTITY  locbar.both.label             "Histori le dipukutshwayo">
-<!ENTITY  locbar.history.label          "Histori">
-<!ENTITY  locbar.bookmarks.label        "Dipukutshwayo">
-<!ENTITY  locbar.nothing.label          "E sego selo">
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY  acceptCookies.label           "Amogela dikhukhi go tšwa disaeteng">
 <!ENTITY  acceptCookies.accesskey       "A">
@@ -33,8 +36,7 @@
 <!ENTITY  acceptThirdParty.never.label    "Le gatee">
 <!ENTITY  acceptThirdParty.visited.label  "Go tšwa go tše etetšwego">
 
-<!ENTITY  keepUntil.label               "Boloka go fihlela:">
-<!ENTITY  keepUntil.accesskey           "B">
+
 
 <!ENTITY  expire.label                  "di felelwa ke nako">
 <!ENTITY  close.label                   "Ke tswalela &brandShortName;">

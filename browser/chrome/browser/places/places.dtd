@@ -52,6 +52,8 @@
 <!ENTITY cmd.open.accesskey              "l">
 <!ENTITY cmd.open_window.label           "Bula go lefasetere le leswa">
 <!ENTITY cmd.open_window.accesskey       "e">
+
+
 <!ENTITY cmd.open_tab.label              "Bula go thepo e mpsha">
 <!ENTITY cmd.open_tab.accesskey          "m">
 <!ENTITY cmd.open_all_in_tabs.label      "Bula tšohle ka dithepo">
@@ -81,9 +83,8 @@
 <!ENTITY col.name.label          "Leina">
 <!ENTITY col.tags.label          "Ditshwayo">
 <!ENTITY col.url.label           "Lefelo">
-<!ENTITY col.lastvisit.label     "Letšatši la ketelo">
+
 <!ENTITY col.visitcount.label    "Palo ya diketelo">
-<!ENTITY col.keyword.label       "Lentšutheo">
 <!ENTITY col.description.label   "Tlhaloso">
 <!ENTITY col.dateadded.label     "Okeditšwe">
 <!ENTITY col.lastmodified.label  "Fetošitšwe la mafelelo">

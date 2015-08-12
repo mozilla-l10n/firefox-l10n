@@ -72,8 +72,8 @@ gore &brandShortName; e dumeletšwe go tsena wepeng.</li>
 <!ENTITY netTimeout.title "Kgokaganyo e feletšwe ke nako">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "Aterese ga ya kwešišwa">
-<!ENTITY protocolNotFound.longDesc "<ul> 
+<!ENTITY unknownProtocolFound.title "Aterese ga ya kwešišwa">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
 <li>O ka swanelwa ke go lokela lenaneotirišo le lengwe la khomphutha gore o bule aterese ye.</li> 
 </ul>">
 
@@ -106,10 +106,7 @@ wa botho.</li>
 </ul>">
 
 <!ENTITY nssFailure2.title "Go šireletša kgokaganyo go paletšwe">
-<!ENTITY nssFailure2.longDesc "<ul> 
-<li>Letlakala leo o lekago go le lebelela le ka se laetšwe ka gobane bonnete bja tsebišo yeo e amogetšwego bo ka se netefatšwe.</li> 
-<li>Hle ikgokaganye le beng ba wepesaete gore o ba tsebiše ka bothata bjo. Go sego bjalo, diriša taelo yeo e hwetšwago go diteng tša thušo gore o bege saete ye e senyegilego.</li> 
-</ul>">
+
 
 <!ENTITY nssBadCert.title "Go šireletša kgokaganyo go paletšwe">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
@@ -132,12 +129,14 @@ gore &brandShortName; e dumeletšwe go tsena wepeng.</li>
 <!ENTITY malwareBlocked.longDesc "<p>Disaete tša go hlasela di leka go lokela mananeo ao a utswago tshedimošo ya praebete, go diriša khomphutha ya gago go hlasela tše dingwe, goba go senya tshepedišo ya gago.</p> 
 <p>Beng ba diwepesaete bao ba dumelago gore saete ya bona e begilwe e le saete ya go hlasela ka phošo ba ka <a href='http://www.stopbadware.org/home/reviewinfo' >kgopela poeletšo</a>.</p>">
 
+
+
 <!ENTITY phishingBlocked.title "Bofora bjo belaelwago bja wepeng!">
 <!ENTITY phishingBlocked.longDesc "<p>Go tsenya tshedimošo le ge e le efe ya botho letlakaleng le go ka feleletša ka bohodu bja boitsebišo goba boradia bjo bongwe.</p> 
 <p>Mehuta ye ya boradia bja wepeng e dirišetšwa go bohwirihwiri bjo bo tsebjwago e le dihlaselo tša boradia, moo go dirišwago matlakala a wepe a boradia le diimeile go ekiša methopo yeo o e tshepago.</p>">
 
-<!ENTITY cspFrameAncestorBlocked.title "Thibetšwe ke pholisi ya tšhireletšego ya dikagare">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; e thibetše letlakala le go hlahlela ka tsela ye ka gobane letlakala le le nale pholisi ya tšhireletšego ya dikagare yeo e sa go dumelelego.</p>">
+<!ENTITY cspBlocked.title "Thibetšwe ke pholisi ya tšhireletšego ya dikagare">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; e thibetše letlakala le go hlahlela ka tsela ye ka gobane letlakala le le nale pholisi ya tšhireletšego ya dikagare yeo e sa go dumelelego.</p>">
 
 <!ENTITY corruptedContentError.title "Phošo ya dikagare tšeo di senyegilego">
 <!ENTITY corruptedContentError.longDesc "<p>Letlakala leo o lekago go le lebelela le ka se laetšwe ka gobane go lemogilwe phošo go phetišetšo ya tsebišo.</p><ul><li>Hle ikopanye le beng ba wepesaete gore o ba tsebiše ka bothata bjo.</li></ul>">
@@ -157,5 +156,17 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
+
+
+
+
+
+
+<!ENTITY errorReporting.tryAgain "Leka gape">
+
 <!ENTITY remoteXUL.title "XUL ya kgole">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Hle ikgokaganye le beng ba wepesaete gore o ba tsebiše ka bothata bjo.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
+     "ssl_error_unsupported_version". -->
+

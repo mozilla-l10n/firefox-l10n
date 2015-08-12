@@ -12,6 +12,9 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Letlakala le la wepe <span id='malware_sitename'/> le begilwe e le letlakala la go hlasela gomme le thibetšwe go ithekgile ka dikganyogo tša gago tša tšhireletšego.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Matlakala a go hlasela a leka go lokela mananeo ao a utswago tshedimošo ya praebete, go diriša khomphutha ya gago go hlasela a mangwe, goba go senya tshepedišo ya gago.</p><p>Matlakala a mangwe a go hlasela a phatlalatša ka boomo lenaneotirišo la khomphutha le kotsi, eupša a mantši a bewa kotsing ka ntle le go tseba goba tumelelo ya beng ba yona.</p>">
 
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+
+
 <!ENTITY safeb.blocked.phishingPage.title "Bofora bja wepeng bjo bo begilwego!">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc "Letlakala le la wepe <span id='phishing_sitename'/> le begilwe e le boradia bja wepeng gomme le thibetšwe go ithekgile ka dikganyogo tša gago tša tšhireletšego.">

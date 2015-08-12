@@ -33,11 +33,9 @@
 <!ENTITY openFileCmd.accesskey        "B">
 <!ENTITY openFileCmd.commandkey       "o">
 
-<!ENTITY openRecentMenu.label         "Open Recent">
-<!ENTITY openRecentMenu.accesskey     "R">
 
-<!ENTITY revertCmd.label              "Revert…">
-<!ENTITY revertCmd.accesskey          "t">
+
+
 
 <!ENTITY saveFileCmd.label            "Boloka">
 <!ENTITY saveFileCmd.accesskey        "B">
@@ -50,12 +48,30 @@
 <!ENTITY closeCmd.key                 "W">
 <!ENTITY closeCmd.accesskey           "T">
 
+
+
+
+
+
+
+
+
+
+
+<!-- + is above this key on many keyboards -->
+
+
+
+
+
+
+
 <!ENTITY editMenu.label               "Lokiša">
 <!ENTITY editMenu.accesskey           "L">
 
 <!ENTITY run.label                    "Dira">
 <!ENTITY run.accesskey                "r">
-<!ENTITY run.key                      "r">
+
 
 <!ENTITY inspect.label                "Hlahloba">
 <!ENTITY inspect.accesskey            "H">
@@ -64,6 +80,9 @@
 <!ENTITY display.label                "Bontšha">
 <!ENTITY display.accesskey            "B">
 <!ENTITY display.key                  "l">
+
+
+
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
   -  menu in the text area. It refers to the JavaScript Environment (or context)
@@ -90,24 +109,17 @@
   -  for the help button in the menubar but Gnome does not.
   -->
 
-<!ENTITY helpMenu.label               "Help">
-<!ENTITY helpMenu.accesskey           "H">
-<!ENTITY helpMenuWin.label            "Help">
-<!ENTITY helpMenuWin.accesskey        "H">
 
-<!ENTITY documentationLink.label      "Scratchpad Help on MDN">
-<!ENTITY documentationLink.accesskey  "D">
+
+
+
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
 
 
-<!ENTITY resetContext2.label          "Reset Variables">
-<!ENTITY resetContext2.accesskey      "T">
 
-<!ENTITY reloadAndRun.label           "Reload And Run">
-<!ENTITY reloadAndRun.accesskey       "E">
-<!ENTITY reloadAndRun.key             "r">
+
 
 <!ENTITY executeMenu.label            "Phethiša">
 <!ENTITY executeMenu.accesskey        "P">
@@ -117,3 +129,8 @@
   -->
 
 <!ENTITY errorConsoleCmd.commandkey   "j">
+<!-- LOCALIZATION NOTE (evalFunction.label): This command allows the developer
+  -  to evaluate the top-level function that the cursor is currently at.
+  -->
+
+
