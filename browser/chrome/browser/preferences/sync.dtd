@@ -16,7 +16,6 @@
 
 <!ENTITY manageAccount.label          "Kudeatu kontua">
 <!ENTITY manageAccount.accesskey      "K">
-<!ENTITY viewQuota.label              "Ikusi kuota">
 <!ENTITY changePassword2.label        "Aldatu pasahitza…">
 <!ENTITY myRecoveryKey.label          "Nire berreskuratze-gakoa">
 <!ENTITY resetSync2.label             "Berrezarri Sync…">
@@ -26,8 +25,6 @@
 <!ENTITY syncMy.label               "Sinkronizatu nire">
 <!ENTITY engine.bookmarks.label     "Laster-markak">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.readinglist.label   "Irakurketa-zerrenda">
-<!ENTITY engine.readinglist.accesskey "z">
 <!ENTITY engine.tabs.label          "Fitxak">
 <!ENTITY engine.tabs.accesskey      "F">
 <!ENTITY engine.history.label       "Historia">
@@ -74,13 +71,24 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Ez duzu saiorik hasi.">
 <!ENTITY signIn.label                "Hasi saioa">
+
 <!ENTITY manage.label                "Kudeatu">
 <!ENTITY disconnect.label            "Deskonektatu…">
 <!ENTITY verify.label                "Egiaztatu helbide elektronikoa">
 <!ENTITY forget.label                "Ahaztu helbide elektroniko hau">
 
 <!ENTITY welcome.description "Izan zure fitxen, laster-marken, pasahitzen eta gehiagoren sarbidea &brandShortName; erabiltzen duzun toki orotan.">
-<!ENTITY welcome.signIn.label "Hasi saioa">
-<!ENTITY welcome.createAccount.label "Sortu kontua">
+
+
 
 <!ENTITY welcome.useOldSync.label "Sync-en bertsio zaharragoa ari zara erabiltzen?">
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+
+
