@@ -30,13 +30,18 @@
   -  translation.translatedToSuffix.label (empty in en-US) is for locales that
   -  need to display some text after the second drop down for the sentence to
   -  be grammatically correct. -->
+
+<!ENTITY translation.translatedFrom.label       "এই পাতাটি যা থেকে অনুদিত হয়েছে">
 <!ENTITY translation.translatedTo.label         "শেষ">
 <!ENTITY translation.translatedToSuffix.label   "">
 
+<!ENTITY translation.showOriginal.button        "আসল দেখাও">
 <!ENTITY translation.showTranslation.button     "অনুবাদ দেখান">
 
+<!ENTITY translation.errorTranslating.label     "এই পাতা অনুবাদে একটি ত্রুটি হয়েছে।">
+<!ENTITY translation.tryAgain.button            "পুনরায় চেষ্টা করুন">
 
-
+<!ENTITY translation.serviceUnavailable.label   "অনুবাদ এই মুহূর্তে উপলব্ধ নয়। পরে আবার চেষ্টা করুন।">
 
 <!ENTITY translation.options.menu               "অপশন">
 <!-- LOCALIZATION NOTE (translation.options.neverForSite.accesskey,
@@ -44,14 +49,17 @@
   -  The accesskey values used here should not clash with the value used for
   -  translation.options.neverForLanguage.accesskey in translation.properties
   -->
-
-
-
+<!ENTITY translation.options.neverForSite.label "কখনও এই সাইট অনুবাদ করবেন না e">
+<!ENTITY translation.options.neverForSite.accesskey "e">
+<!ENTITY translation.options.preferences.label  "অনুবাদ পছন্দসমূহ T">
+<!ENTITY translation.options.preferences.accesskey "T">
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
   -  These 2 strings are displayed before and after a 'Microsoft Translator'
   -  logo.
   -->
+
+<!ENTITY translation.options.attribution.beforeLogo "অনুবাদক">
 <!ENTITY translation.options.attribution.afterLogo "">
 <!-- LOCALIZATION NOTE (translation.options.attribution.poweredByYandex,
                         translation.options.attribution.beforeLogo,
