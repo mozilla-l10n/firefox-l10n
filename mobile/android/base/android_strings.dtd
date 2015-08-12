@@ -364,13 +364,10 @@
 <!ENTITY identity_connected_to "Si è connessi con">
 <!ENTITY identity_connection_secure "Connessione sicura">
 <!ENTITY identity_connection_insecure "Connessione non sicura">
-<!ENTITY mixed_content_blocked_all "Gli elementi non sicuri in questa pagina sono stati bloccati da &brandShortName;.">
-<!ENTITY mixed_content_blocked_some "Alcuni elementi non sicuri in questa pagina sono stati bloccati da &brandShortName;.">
-<!ENTITY mixed_content_display_loaded "Questa pagina presenta elementi non sicuri.">
-<!ENTITY mixed_content_protection_disabled "La protezione da elementi non sicuri è stata bloccata.">
-<!ENTITY loaded_mixed_content_message "Questa pagina presenta contenuti non sicuri.">
-<!ENTITY blocked_mixed_content_message_top "Alcuni contenuti non sicuri sono stati bloccati da &brandShortName;.">
-<!ENTITY blocked_mixed_content_message_bottom "La maggior parte dei siti web funzionerà correttamente anche se questo contenuto viene bloccato.">
+<!ENTITY mixed_content_blocked_all1 "I contenuti non sicuri in questa pagina sono stati bloccati da &brandShortName;.">
+<!ENTITY mixed_content_blocked_some1 "Alcuni contenuti non sicuri in questa pagina sono stati bloccati da &brandShortName;.">
+<!ENTITY mixed_content_display_loaded1 "Questa pagina presenta elementi non sicuri.">
+<!ENTITY mixed_content_protection_disabled1 "La protezione da contenuti non sicuri è stata bloccata.">
 <!ENTITY doorhanger_tracking_title "Protezione antitracciamento">
 <!ENTITY doorhanger_tracking_state_enabled "Attiva">
 <!ENTITY doorhanger_tracking_state_disabled "Disattivata">
