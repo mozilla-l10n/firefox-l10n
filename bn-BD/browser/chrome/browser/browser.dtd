@@ -273,6 +273,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 
+<!ENTITY browserContentToolboxMenu.label     "ব্রাউজার কন্টেট টুলবক্স x">
+<!ENTITY browserContentToolboxMenu.accesskey "x">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "ডেভেলপার টুলবার বন্ধ করুন">
 <!ENTITY devToolbarMenu.label              "ডেভেলপার টুলবার v">
@@ -393,7 +395,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "ট্যাবে যান:">
 
-
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "আরও জানুন…">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "না">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "হ্যাঁ">
 <!-- 
@@ -424,9 +426,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      These are set as the aria-label attribute for the search input box and
      submit button in the in-content search UI, to be used by screen readers. -->
 
+<!ENTITY contentSearchInput.label     "কোয়েরি অনুসন্ধান">
+<!ENTITY contentSearchSubmit.label    "অনুসন্ধান জমা দিন">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
+
+<!ENTITY searchFor.label              "যা অনুসন্ধান করা হয়েছে">
 <!ENTITY searchWith.label             " সাথে:">
 <!-- LOCALIZATION NOTE (search.label, searchAfter.label):
      This string is used to build the header above the list of one-click search
@@ -434,11 +440,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      intentionally left empty for en-US and can be used by other localizations to
      display a string after the search engine name.  This string will be displayed
      as:  "Search <selected engine name><searchAfter.label text>" -->
+
+<!ENTITY search.label                 "অনুসন্ধান ">
 <!ENTITY searchAfter.label            "">
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
+
+<!ENTITY searchWithHeader.label       "যা দিয়ে অনুসন্ধান করা হবে:">
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -490,7 +500,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "ডেস্কটপের পটভূমি হিসেবে নির্ধারণ… (S)">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
-
+<!ENTITY bookmarkPageCmd2.label       "এই পাতা বুকমার্ক করুন">
 <!ENTITY bookmarkThisLinkCmd.label      "এই লিংক বুকমার্ক করা হবে (L)">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "এই ফ্রেম বুকমার্ক করা হবে (m)">
@@ -633,6 +643,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "C">
 
+<!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "পৃষ্ঠা শৈলী (y)">
 <!ENTITY pageStyleMenu.accesskey "y">
@@ -672,10 +683,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "সম্পন্ন">
 <!ENTITY editBookmark.cancel.label                   "বাতিল">
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
-
+<!ENTITY identity.connectionSecure "নিরাপদ সংযোগ">
 <!ENTITY identity.connectionNotSecure "সংযোগ নিরাপদ নয়">
-
+<!ENTITY identity.connectionFile "এই পাতা আপনার কম্পিউটারে জমা হয়েছে।">
 <!ENTITY identity.connectionVerified "&brandShortName; যাচাই করে যে আপনি নিরাপদভাবে এই সাইটের সাথে সংযুক্ত হয়েছেন, এটি চালনা করে:">
 <!ENTITY identity.connectionInternal "এটি একটি সুরক্ষিত &brandShortName; পৃষ্ঠা।">
 <!-- Strings for connection state warnings. -->
