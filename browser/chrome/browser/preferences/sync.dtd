@@ -16,7 +16,6 @@
 
 <!ENTITY manageAccount.label          "Bainistigh mo Chuntas">
 <!ENTITY manageAccount.accesskey      "n">
-<!ENTITY viewQuota.label              "Féach ar Chuóta">
 <!ENTITY changePassword2.label        "Athraigh an Focal Faire…">
 <!ENTITY myRecoveryKey.label          "M'Eochair Athshlánaithe">
 <!ENTITY resetSync2.label             "Athshocraigh Sync…">
@@ -26,8 +25,6 @@
 <!ENTITY syncMy.label               "Sioncrónaigh Mo Chuid">
 <!ENTITY engine.bookmarks.label     "Leabharmharcanna">
 <!ENTITY engine.bookmarks.accesskey "L">
-<!ENTITY engine.readinglist.label   "Liosta Léitheoireachta">
-<!ENTITY engine.readinglist.accesskey "L">
 <!ENTITY engine.tabs.label          "Cluaisíní">
 <!ENTITY engine.tabs.accesskey      "C">
 <!ENTITY engine.history.label       "Stair">
@@ -74,13 +71,24 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Níl tú logáilte isteach.">
 <!ENTITY signIn.label                "Logáil isteach">
+
 <!ENTITY manage.label                "Bainistigh">
 <!ENTITY disconnect.label            "Dícheangail…">
 <!ENTITY verify.label                "Dearbhaigh an Seoladh Ríomhphoist">
 <!ENTITY forget.label                "Déan Dearmad den Seoladh Ríomhphoist seo">
 
 <!ENTITY welcome.description "Is féidir teacht ar do chuid cluaisíní, leabharmharcanna, focal faire, agus araile cibé áit a n-úsáideann tú &brandShortName;.">
-<!ENTITY welcome.signIn.label "Logáil Isteach">
-<!ENTITY welcome.createAccount.label "Cruthaigh Cuntas">
+
+
 
 <!ENTITY welcome.useOldSync.label "An bhfuil seanleagan de Sync agat?">
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+
+
