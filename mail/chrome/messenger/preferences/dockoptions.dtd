@@ -2,14 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY dockOptionsDialog.title               "Alternativ för programsymbol">
+<!ENTITY dockOptionsDialog.title               "Alternativ för programikon">
 <!ENTITY window.macWidth                       "35em">
 
-<!ENTITY bounceSystemDockIcon.label            "Animera programsymbol när nytt meddelande kommer">
+<!ENTITY bounceSystemDockIcon.label            "Animera programikonen när nytt meddelande kommer">
 <!ENTITY bounceSystemDockIcon.accesskey        "i">
-<!ENTITY newMessagesCountDock.label            "Räkna nya meddelanden">
+<!ENTITY newMessagesCountDock.label            "Antal nya meddelanden">
 <!ENTITY newMessagesCountDock.accesskey        "n">
-<!ENTITY showAllUnreadMessagesCount.label      "Räkna olästa meddelanden">
+<!ENTITY showAllUnreadMessagesCount.label      "Antal olästa meddelanden">
 <!ENTITY showAllUnreadMessagesCount.accesskey  "o">
-<!ENTITY dockIconBadge.label                   "Programsymbolsmärke">
-<!ENTITY dockIconShow.label                    "Märk programsymbol med:">
+<!ENTITY dockIconBadge.label                   "Programikonsmärke">
+<!ENTITY dockIconShow.label                    "Märk programikon med:">
+<!ENTITY directNotificationSettings.label      "Du kan inaktivera märket i aviseringsfältet i systeminställningar.">
