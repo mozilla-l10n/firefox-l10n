@@ -10,6 +10,8 @@
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
      Width of the Private Browsing section.
      -->
+
+<!ENTITY aboutPrivateBrowsing.width            "25em">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
      aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
      These strings will be replaced by aboutPrivateBrowsing.forgotten and
@@ -17,30 +19,39 @@
      -->
 
 <!ENTITY aboutPrivateBrowsing.title            "Rydych yn pori'n breifat">
+<!ENTITY aboutPrivateBrowsing.subtitle         "Yn y ffenestr hon, ni fydd &brandShortName; yn cofio unrhyw hanes.">
 
-
-
+<!ENTITY aboutPrivateBrowsing.forgotten        "Yn y ffenestr hon, ni fydd &brandShortName; yn cofio:">
+<!ENTITY aboutPrivateBrowsing.info.forgotten   "Wedi ei Anghofio">
 <!ENTITY aboutPrivateBrowsing.info.history     "Hanes">
-
+<!ENTITY aboutPrivateBrowsing.info.searches    "Chwilio">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Cwcis">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Ffeiliau Dros Dro">
 
-
-
+<!ENTITY aboutPrivateBrowsing.kept             "Bydd &brandShortName; yn cadw:">
+<!ENTITY aboutPrivateBrowsing.info.kept        "Wedi ei gadw">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Llwythi">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Nodau Tudalen">
 
+<!ENTITY aboutPrivateBrowsing.note1            "Sylwch y bydd eich cyflogwr a'ch darparwr gwasanaeth rhyngrwyd yn gallu olrhain y tudalen i chi ymweld â nhw.">
 <!ENTITY aboutPrivateBrowsing.learnMore        "Dysgu Rhagor.">
 <!-- LOCALIZATION NOTE (trackingProtection.width):
      Width of the Tracking Protection section. This should be enough to
      accommodate the title as well as the enabled or disabled indicator.
      -->
 
+<!ENTITY trackingProtection.width              "22em">
+<!ENTITY trackingProtection.title              "Diogelwch Rhag Tracio">
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
 
+<!ENTITY trackingProtection.state.width        "6ch">
+<!ENTITY trackingProtection.state.enabled      "YMLAEN">
+<!ENTITY trackingProtection.state.disabled     "DIFFODD">
 
+<!ENTITY trackingProtection.description1       "Mae Ffenestri Preifat yn rhwystro rhannau o'r dudalen gall fod yn tracio eich pori.">
 
-
-
-
+<!ENTITY trackingProtection.disable            "Diffodd Diogelwch Rhag Tracio">
+<!ENTITY trackingProtection.enable             "Cychwyn Diogelwch Rhag Tracio">
+<!ENTITY trackingProtection.startTour1         "Gwel sut mae hwn yn gweithio">
