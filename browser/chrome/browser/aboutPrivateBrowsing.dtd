@@ -52,5 +52,6 @@
 
 <!ENTITY trackingProtection.description1       "Windows tsa Poraefete ga jaana di thibela dikarolo tsa tsebe tse di ka latedisang tiro-patlo ya gago.">
 
-
-
+<!ENTITY trackingProtection.disable            "Tobetsa go Tima Tshireletso ya Tatediso">
+<!ENTITY trackingProtection.enable             "Tobetsa go Dirisa Tshireletso ya Tatediso">
+<!ENTITY trackingProtection.startTour1         "Bona gore se dira jang">
