@@ -2,16 +2,45 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.title            "आपण खाजगी ब्राउझिंग करत आहात">
-<!ENTITY aboutPrivateBrowsing.title.normal     "खाजगी विंडो उघडावी?">
-
-<!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; ह्या पटलकरिता कोणतेही इतिहास लक्षात ठेवत नाही.">
-<!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName; हे खाजगी पटलासाठी कोणताही इतिहास जतन करत नाही.">
-
-
 <!ENTITY aboutPrivateBrowsing.notPrivate       "आपण सध्या वैयक्तिक पटलात नाही.">
-
-<!ENTITY aboutPrivateBrowsing.learnMore        "आणखी जाणा.">
-
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "प्राइव्हेट पटल उघडा">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
+
+<!ENTITY privateBrowsing.title                 "व्यक्तिगत संचारन">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
+     Width of the Private Browsing section.
+     -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
+     aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
+     These strings will be replaced by aboutPrivateBrowsing.forgotten and
+     aboutPrivateBrowsing.kept when the new visual design lands (bug 1192625).
+     -->
+
+<!ENTITY aboutPrivateBrowsing.title            "आपण खाजगी ब्राउझिंग करत आहात">
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.history     "इतिहास">
+
+<!ENTITY aboutPrivateBrowsing.info.cookies     "कूकिज">
+
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.bookmarks   "ओळखचिन्हे">
+
+<!ENTITY aboutPrivateBrowsing.learnMore        "आणखी जाणा.">
+<!-- LOCALIZATION NOTE (trackingProtection.width):
+     Width of the Tracking Protection section. This should be enough to
+     accommodate the title as well as the enabled or disabled indicator.
+     -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.state.width):
+     Width of the element representing the enabled or disabled indicator.
+     -->
+
+
+
+
+
+

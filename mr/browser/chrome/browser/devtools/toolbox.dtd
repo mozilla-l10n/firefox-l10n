@@ -156,11 +156,6 @@
 
 <!ENTITY options.stylesheetAutocompletion.label      "CSS स्वपूर्ण करा">
 <!ENTITY options.stylesheetAutocompletion.tooltip    "स्टाइल संपादकात टाइप करत असल्याप्रमाणे CSS गुणधर्म, मूल्य आणि सिलेक्टर्स स्वपूर्ण करा">
-<!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
-  -  heading of the group of JavaScript Profiler preferences in the options
-  -  panel. -->
-
-<!ENTITY options.profiler.label            "JavaScript प्रोफाइलर">
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->

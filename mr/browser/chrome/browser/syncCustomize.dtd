@@ -15,8 +15,6 @@
 
 <!ENTITY engine.bookmarks.label           "वाचनखुणा">
 <!ENTITY engine.bookmarks.accesskey       "m">
-
-
 <!ENTITY engine.history.label             "इतिहास">
 <!ENTITY engine.history.accesskey         "r">
 <!ENTITY engine.tabs.label                "टॅब्ज">
