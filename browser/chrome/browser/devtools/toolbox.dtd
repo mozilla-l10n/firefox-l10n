@@ -7,6 +7,9 @@
 
 <!ENTITY closeCmd.key  "W">
 
+<!ENTITY toggleToolboxF12.keycode          "VK_F12">
+<!ENTITY toggleToolboxF12.keytext          "F12">
+
 <!ENTITY toolboxCloseButton.tooltip    "ବିକାଶକାରୀ ସାଧନଗୁଡ଼ିକୁ ବନ୍ଦ କରନ୍ତୁ">
 <!ENTITY toolboxOptionsButton.key      "O">
 <!ENTITY toolboxNextTool.key           "]">
@@ -19,10 +22,14 @@
 <!ENTITY toolboxZoomReset.key          "0">
 
 <!ENTITY toolboxReload.key             "r">
+<!-- This key is used with the accel+shift modifiers to minimize the toolbox -->
+
 <!-- LOCALIZATION NOTE (toolboxFramesButton): This is the label for
   -  the iframes menu list that appears only when the document has some.
   -  It allows you to switch the context of the whole toolbox. -->
 <!ENTITY toolboxFramesTooltip          "ଏକ iframe କୁ ବର୍ତ୍ତମାନ ଲାଗିଥିବା ଦଲିଲ ଭାବରେ ବାଛନ୍ତୁ">
+<!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
+  -  shown next to error details when the Browser Toolbox is unable to open. -->
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 
@@ -73,14 +80,16 @@
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 
-<!ENTITY options.enableChrome.label4    "କ୍ରୋମ ଏବଂ ଏଡ଼ଅନ ତୃଟିନିବାରଣକୁ ସକ୍ରିୟ କରନ୍ତୁ">
-<!ENTITY options.enableChrome.tooltip2  "ଏହି ବିକଳ୍ପକୁ ଅନ କରିବା ଫଳରେ ତାହା ଆପଣଙ୍କୁ ବିଭିନ୍ନ ବିକାଶକାରୀ ସାଧନଗୁଡ଼ିକୁ ବ୍ରାଉଜର ପ୍ରସଙ୍ଗରେ ବ୍ୟବହାର କରିଥାଏ ଏବଂଏଡ଼ଅନ ପରିଚାଳକ ପାଖରୁ ଏଡ଼ଅନଗୁଡ଼ିକର ତୃଟି ନିବାରଣ କରିଥାଏ">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableRemote.label3    "ସୁଦୂର ତ୍ରୁଟି ନିବାରଣକୁ ସକ୍ରିୟ କରନ୍ତୁ">
 <!ENTITY options.enableRemote.tooltip   "ଏହି ବିକଳ୍ପକୁ ଅନ କରିବା ଦ୍ୱାରା ତାହା ବିକାଶକାରୀ ସାଧନଗୁଡ଼ିକୁ Firefox OS ପରି ସୁଦୂର Firefox ପରିବେଶରେ ତ୍ରୁଟି ନିବାରଣ ପାଇଁ ଅନୁମତି ଦେଇଥାଏ">
+<!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
+  -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
+  -  boolean preference in about:config, in the options panel. -->
+
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
@@ -93,6 +102,10 @@
 
 <!ENTITY options.disableCache.label2     "କ୍ୟାଶେକୁ ନିଷ୍କ୍ରିୟ କରନ୍ତୁ (ସାଧନବାକ୍ସ ଖୋଲାଥିବା ସମୟରେ)">
 <!ENTITY options.disableCache.tooltip2   "ଏହି ବିକଳ୍ପକୁ ଅନ୍‌ କରିବା ଫଳରେ ତାହା ସାଧନବାକ୍ସ ଖୋଲାଥିବା ସମସ୍ତ ଟ୍ୟାବଗୁଡ଼ିକରେ କ୍ୟାଶେକୁ ନିଷ୍କ୍ରିୟ କରିଦେବ।">
+<!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
+  -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
+  -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
+
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
@@ -114,11 +127,14 @@
   -  for the target of the toolbox. -->
 
 <!ENTITY options.toolNotSupported.label  "* ପ୍ରଚଳିତ ସାଧନବାକ୍ସ ଲକ୍ଷ୍ଯସ୍ଥଳ ପାଇଁ ସହାୟତା ପ୍ରାପ୍ତ ନୁହଁ">
-<!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label): This is the label for
+<!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label2): This is the label for
   -  the heading of the radiobox corresponding to the theme of the developer
   -  tools. -->
 
-<!ENTITY options.selectDevToolsTheme.label   "DevTools ପ୍ରସଙ୍ଗକୁ ବାଛନ୍ତୁ:">
+<!ENTITY options.selectDevToolsTheme.label2   "ପ୍ରସଙ୍ଗ">
+<!-- LOCALIZATION NOTE (options.usedeveditiontheme.*) Options under the
+  -  toolbox for enabling and disabling the Developer Edition browser theme. -->
+
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
 
@@ -143,12 +159,7 @@
 
 <!ENTITY options.stylesheetAutocompletion.label      "CSS କୁ ସ୍ବଂୟ ସମ୍ପୂର୍ଣ୍ଣ କରନ୍ତୁ">
 <!ENTITY options.stylesheetAutocompletion.tooltip    "CSS ଗୁଣଧର୍ମ, ମୂଲ୍ୟ ଏବଂ ଚୟନକର୍ତ୍ତାମାନଙ୍କୁ ଆପଣ ଲେଖିବା ସମୟରେ ଶୈଳୀ ସମ୍ପାଦକରେ ସ୍ୱୟଂସମ୍ପୂର୍ଣ୍ଣ କରନ୍ତୁ">
-<!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
-  -  heading of the group of JavaScript Profiler preferences in the options
-  -  panel. -->
-
-<!ENTITY options.profiler.label            "JavaScript ରୂପରେଖାକାରୀ">
-<!-- LOCALICATION NOTE (options.commonprefs): This is the label for the heading
+<!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->
 
@@ -184,3 +195,4 @@ Gecko ପ୍ଲାଟଫର୍ମ ସଂକେତ ଅନ୍ତର୍ଭୁକ୍
 <!ENTITY options.sourceeditor.keybinding.label          "କି ବନ୍ଧନ">
 <!ENTITY options.sourceeditor.keybinding.accesskey      "K">
 <!ENTITY options.sourceeditor.keybinding.default.label  "ପୂର୍ବନିର୍ଦ୍ଧାରିତ">
+

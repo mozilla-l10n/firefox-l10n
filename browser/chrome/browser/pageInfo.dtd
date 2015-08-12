@@ -22,7 +22,7 @@
 <!ENTITY  generalReferrer       "Referring URL:">
 <!ENTITY  generalSource         "ଉତ୍ସକୁ ସ୍ୱଳ୍ପସମୟ ପାଇଁ ସଞ୍ଚୟକରନ୍ତୁ:">
 <!ENTITY  generalModified       "ପରିବର୍ତ୍ତିତ:">
-<!ENTITY  generalEncoding       "ସାଙ୍କେତିକରଣ:">
+
 <!ENTITY  generalMetaName       "ନାମ">
 <!ENTITY  generalMetaContent    "ସୂଚୀ">
 
@@ -83,3 +83,5 @@
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 
 <!ENTITY  securityView.technical.header                 "ଯାନ୍ତ୍ରିକ ବିବରଣୀ">
+
+<!ENTITY  helpButton.label                              "ସହାୟତା">

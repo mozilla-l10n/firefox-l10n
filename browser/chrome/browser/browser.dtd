@@ -95,6 +95,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageInfoCmd.label "ପୃଷ୍ଠା ସୂଚନା">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
+
+
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "ସମ୍ପୂର୍ଣ୍ଣ ପରଦା କରନ୍ତୁ">
@@ -108,6 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "A">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; କୁ ବ୍ୟବସ୍ଥା କରନ୍ତୁ">
+
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; ସହିତ ପୁଣି ସଂଯୋଗ କରନ୍ତୁ">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; ସକ୍ରିୟ କରାଯାଇଛି">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; ସମୟ ଅନୁସାରେ ସନ୍ତୁଳନ ଆରମ୍ଭ କରିବ।">
@@ -124,8 +127,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "ସମ୍ପୂର୍ଣ୍ଣ ପରଦା ଅବସ୍ଥାରୁ ପ୍ରସ୍ଥାନ କରନ୍ତୁ">
 <!ENTITY fullScreenExit.accesskey "F">
-<!ENTITY fullscreenAllowButton.label "ଅନୁମତି ଦିଅନ୍ତୁ">
-<!ENTITY fullscreenExitButton.label "ବାରଣ କରନ୍ତୁ">
 
 <!ENTITY fullscreenExitHint2.value "ଯେକୌଣସି ସମୟରେ ପ୍ରସ୍ଥାନ କରିବା ପାଇଁ ESC ଦବାନ୍ତୁ।">
 <!ENTITY leaveDOMFullScreen.label "ସମ୍ପୂର୍ଣ୍ଣ ପରଦାରୁ ପ୍ରସ୍ଥାନ କରନ୍ତୁ">
@@ -268,6 +269,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY browserToolboxMenu.label     "ବ୍ରାଉଜର ସାଧନ ବାକ୍ସ (e)">
 <!ENTITY browserToolboxMenu.accesskey "e">
 
+<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
+  -  application menu item that opens the browser content toolbox UI in the Tools menu.
+  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
+
+
 <!ENTITY devToolbarCloseButton.tooltiptext "ବିକାଶକାରୀ ସାଧନପଟିକୁ ବନ୍ଦ କରନ୍ତୁ">
 <!ENTITY devToolbarMenu.label              "ବିକାଶକାରୀ ସାଧନପଟି">
 <!ENTITY devToolbarMenu.accesskey          "v">
@@ -296,6 +302,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "ନୂତନ ବ୍ୟକ୍ତିଗତ ୱିଣ୍ଡୋ">
 <!ENTITY newPrivateWindow.accesskey "W">
+
 
 <!ENTITY editMenu.label         "ସମ୍ପାଦନ କରନ୍ତୁ"> 
 <!ENTITY editMenu.accesskey       "E"> 
@@ -385,6 +392,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.placeholder2          "ଠିକଣା ସନ୍ଧାନ କରନ୍ତୁ କିମ୍ବା ଭରଣ କରନ୍ତୁ">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "ଟ୍ୟାବକୁ ସ୍ଥାନାନ୍ତରିତ କରନ୍ତୁ:">
+
+
+
+<!ENTITY urlbar.searchSuggestionsNotification.enable "ହଁ">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -409,6 +420,28 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
+<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
+     These are set as the aria-label attribute for the search input box and
+     submit button in the in-content search UI, to be used by screen readers. -->
+
+<!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
+     These two strings are used to build the header above the list of one-click
+     search providers:  "Search for <used typed keywords> with:" -->
+
+<!-- LOCALIZATION NOTE (search.label, searchAfter.label):
+     This string is used to build the header above the list of one-click search
+     providers when a one off engine has been selected.  The searchAfter text is
+     intentionally left empty for en-US and can be used by other localizations to
+     display a string after the search engine name.  This string will be displayed
+     as:  "Search <selected engine name><searchAfter.label text>" -->
+<!ENTITY searchAfter.label            "">
+<!-- LOCALIZATION NOTE (searchWithHeader.label):
+     The wording of this string should be as close as possible to
+     searchFor.label and searchWith.label. This string will be used instead of
+     them when the user has not typed any keyword. -->
+<!-- LOCALIZATION NOTE (changeSearchSettings.button):
+     This string won't wrap, so if the translated string is longer,
+     consider translating it as if it said only "Search Settings". -->
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -584,20 +617,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sidebarCloseButton.tooltip     "ପାର୍ଶ୍ୱପଟି ବନ୍ଦକରନ୍ତୁ">
 
-<!ENTITY quitApplicationCmdWin.label       "ପ୍ରସ୍ଥାନ କରନ୍ତୁ"> 
-<!ENTITY quitApplicationCmdWin.accesskey   "x">
-<!ENTITY quitApplicationCmdWin.tooltip     "&brandShortName;ରୁ ବିଦାୟ ନିଅନ୍ତୁ">
+<!ENTITY quitApplicationCmdWin2.label       "ପ୍ରସ୍ଥାନ କରନ୍ତୁ">
+<!ENTITY quitApplicationCmdWin2.accesskey   "x">
+
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "ବିଦାୟ ନିଅନ୍ତୁ"> 
 <!ENTITY quitApplicationCmd.accesskey   "Q">
-<!ENTITY quitApplicationCmdMac.label    "&brandShortName;ରୁ ବିଦାୟ ନିଅନ୍ତୁ">
+
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "Q">
 
 <!ENTITY closeCmd.label                 "ବନ୍ଦକରନ୍ତୁ">  
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "C">
+
 
 <!ENTITY pageStyleMenu.label "ପୃଷ୍ଠା ଶୈଳୀ">
 <!ENTITY pageStyleMenu.accesskey "y">
@@ -637,31 +671,33 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "ସମାପ୍ତ">
 <!ENTITY editBookmark.cancel.label                   "ବାତିଲ କରନ୍ତୁ">
-<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
-<!ENTITY identity.unverifiedsite2 "ଏହି ୱେବ ସାଇଟ ପରିଚୟ ସୂଚନା ପ୍ରଦାନ କରିନଥାଏ।">
-<!ENTITY identity.connectedTo "ଆପଣ ସଂଯୁକ୍ତ ଅଛନ୍ତି">
-<!-- Localization note (identity.runBy) : This string appears between a
-domain name (above) and an organization name (below). E.g.
 
-example.com
-which is run by
-Example Enterprises, Inc.
 
-The layout of the identity dialog prevents combining this into a single string with
-substitution variables.  If it is difficult to translate the sense of the string
-with that structure, consider a translation which ignores the preceding domain and
-just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "ଯାହାକି ଅଧିକ ସୂଚନା ଦ୍ୱାରା">
 
-<!ENTITY identity.moreInfoLinkText "ଚାଲିଥାଏ…">
+
+
+<!-- Strings for connection state warnings. -->
+
+
+
+<!-- Strings for connection state warnings in the subview. -->
+
+
+
+
+
+
+
+
+
+
+<!ENTITY identity.disableMixedContentBlocking.label "ବର୍ତ୍ତମାନ ପାଇଁ ସୁରକ୍ଷାକୁ ନିଷ୍କ୍ରିୟ କରନ୍ତୁ">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "D">
+
+
 
 <!ENTITY identity.permissions "ଅନୁମତି">
-<!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
-     localized title of this SUMO article
-     https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
-
-<!ENTITY identity.help.tooltip "ଏକ ୱେବସାଇଟରେ ମୋର ସଂଯୋଗ ସୁରକ୍ଷିତ ଅଛି କି ନାହିଁ ତାହା କିପରି କହିବି?">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -720,7 +756,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "ଅଧିକ ପ୍ରସଙ୍ଗ ପ୍ରାପ୍ତ କରନ୍ତୁ">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-<!ENTITY customizeMode.deveditionTheme.label "&brandShortName; ପ୍ରସଙ୍ଗକୁ ବ୍ୟବହାର କରନ୍ତୁ">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "ଚାର୍ଟଗୁଡ଼ିକୁ ଲକ୍ଷ୍ଯ କରନ୍ତୁ">
@@ -735,27 +770,29 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "ସହଭାଗ କରିବା ପାଇଁ ମାଇକ୍ରୋଫୋନ:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+
 <!ENTITY getUserMedia.allWindowsShared.message "ଆପଣଙ୍କ ପରଦାରେ ଦୃଶ୍ୟମାନ ହେଉଥିବା ସମସ୍ତ ୱିଣ୍ଡୋଗୁଡ଼ିକୁ ସହଭାଗ କରାଯିବ।">
-<!-- Bad Content Blocker Doorhanger Notification -->
 
-<!ENTITY badContentBlocked.moreinfo "ଏହି ବିଷୟବସ୍ତୁକୁ ଅଟକାଇବା ସତ୍ତ୍ୱେ ଅଧିକାଂଶ ୱେବସାଇଟଗୁଡ଼ିକ  ଠିକ ଭାବରେ କାମ କରିବ।">
 
-<!ENTITY mixedContentBlocked2.message "ଅସୁରକ୍ଷିତ ବିଷୟବସ୍ତୁ">
-<!ENTITY mixedContentBlocked2.moreinfo "ଏହି ୱେବସାଇଟରେ କିଛି ଅସଂଗୁପ୍ତ ଉପାଦାନଗୁଡ଼ିକୁ ଅଟକାଯାଇଛି।">
-<!ENTITY mixedContentBlocked2.learnMore "ଅଧିକ ଜ୍ଞାନ ଆହରଣ କରନ୍ତୁ">
-<!ENTITY mixedContentBlocked2.options "ବିକଳ୍ପଗୁଡ଼ିକ">
-<!ENTITY mixedContentBlocked2.unblock.label "ବର୍ତ୍ତମାନ ପାଇଁ ସୁରକ୍ଷାକୁ ନିଷ୍କ୍ରିୟ କରନ୍ତୁ">
-<!ENTITY mixedContentBlocked2.unblock.accesskey "D">
-<!ENTITY mixedContentBlocked2.block.label "ସୁରକ୍ଷାକୁ ସକ୍ରିୟ କରନ୍ତୁ">
-<!ENTITY mixedContentBlocked2.block.accesskey "E">
-<!ENTITY mixedContentBlocked2.disabled.message "ସୁରକ୍ଷାକୁ ନିଷ୍କ୍ରିୟ କରାଯାଇଛି">
+
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+
+
+
 
 <!ENTITY trackingContentBlocked.message "ଅନୁସରଣ କରୁଅଛି">
 <!ENTITY trackingContentBlocked.moreinfo "ଆପଣଙ୍କର ଅନଲାଇନ କାର୍ଯ୍ୟକଳାପକୁ ଅନୁସରଣ କରୁଥିବା ପୃଷ୍ଠାର ଅଂଶକୁ ଅଟକାଯାଇଛି।">
 <!ENTITY trackingContentBlocked.learnMore "ଅଧିକ ଜ୍ଞାନ ଆହରଣ କରନ୍ତୁ">
-<!ENTITY trackingContentBlocked.options "ବିକଳ୍ପଗୁଡ଼ିକ">
-<!ENTITY trackingContentBlocked.unblock2.label "ଏହି ସାଇଟ ପାଇଁ ସୁରକ୍ଷାକୁ ନିଷ୍କ୍ରିୟ କରନ୍ତୁ">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
+
+
+
 <!ENTITY trackingContentBlocked.block.label "ସୁରକ୍ଷା ସକ୍ରିୟଣ">
 <!ENTITY trackingContentBlocked.block.accesskey "E">
 <!ENTITY trackingContentBlocked.disabled.message "ଅନୁସରଣ ସୁରକ୍ଷାକୁ ନିଷ୍କ୍ରିୟ କରାଯାଇଛି">
@@ -777,16 +814,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY pluginNotification.width "28em">
 
-<!ENTITY tabCrashed.header "ଟ୍ୟାବଟି କ୍ରାସ ହୋଇଛି">
-<!ENTITY tabCrashed.message "ଏହା ଲଜ୍ଜ୍ୟାଜନକ ଅଟେ। ଆମେ ଏହି ୱେବପୃଷ୍ଠାକୁ ଦର୍ଶାଇବା ପାଇଁ ଚେଷ୍ଟା କରିଥିଲୁ, କିନ୍ତୁ ଏହା ଉତ୍ତର ଦେଉ ନାହିଁ।">
-<!ENTITY tabCrashed.checkSendReport "&vendorShortName; କୁ ଏହି କ୍ରାସ ବିଷୟରେ ଅବଗତ କରାନ୍ତୁ ଯାହାଫଳରେ ସେମାନେ ଏହାର ସମାଧାନ କରିପାରିବେ।">
-<!ENTITY tabCrashed.tryAgain "ପୁଣିଥରେ ଚେଷ୍ଟା କରନ୍ତୁ">
-
 <!ENTITY uiTour.infoPanel.close "ବନ୍ଦକରନ୍ତୁ">
 
 <!ENTITY appMenuSidebars.label         "ପାର୍ଶ୍ୱପଟିଗୁଡ଼ିକ">
-
-<!ENTITY switchToMetroCmd2.label       "Windows 8 ସ୍ପର୍ଶ ପାଇଁ &brandShortName; ରେ ପୁଣି ଆରମ୍ଭ କରନ୍ତୁ">
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
@@ -812,4 +842,22 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY panicButton.thankyou.msg1                "ଆପଣଙ୍କର ନିକଟ ଅତିତର ପୁରୁଣା ତଥ୍ୟ ସଫା ହୋଇଛି।">
 <!ENTITY panicButton.thankyou.msg2                "ସୁରକ୍ଷିତ ବ୍ରାଉଜିଙ୍ଗ!">
 <!ENTITY panicButton.thankyou.buttonlabel         "ଧନ୍ୟବାଦ!">
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY emeNotificationsDontAskAgain.label       "ମୋତେ ପୁଣିଥରେ ପଚାରନ୍ତୁ ନାହିଁ (D)">
+<!ENTITY emeNotificationsDontAskAgain.accesskey   "D">
+<!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
+
+
+
 

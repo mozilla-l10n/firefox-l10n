@@ -4,6 +4,7 @@
 <!ENTITY addons.windowTitle                   "ଏଡ-ଅନ ପରିଚାଳକ">
 
 <!ENTITY search.placeholder                   "ସମସ୍ତ ଏଡ-ଅନଗୁଡ଼ିକୁ ଖୋଜନ୍ତୁ">
+
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
@@ -21,6 +22,8 @@
 
 <!ENTITY cmd.back.tooltip                     "ଗୋଟିଏ ପୃଷ୍ଠା ପଛକୁ ଯାଆନ୍ତୁ">
 <!ENTITY cmd.forward.tooltip                  "ଗୋଟିଏ ପୃଷ୍ଠା ଆଗକୁ ଯାଆନ୍ତୁ">
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "ସମସ୍ତ ଏଡ-ଅନଗୁଡ଼ିକୁ ସୁରକ୍ଷିତ ଭାବରେ ନିଷ୍କ୍ରିୟ କରାଯାଇଛି।">
@@ -35,8 +38,6 @@
 <!ENTITY info.plugincheck.label                 "ଆପଣଙ୍କର ପ୍ଲଗଇନଗୁଡ଼ିକ ଠିକ ଅଛି କି ନାହିଁ  ଦେଖିବା ପାଇଁ ଯାଞ୍ଚକରନ୍ତୁ">
 <!ENTITY info.plugincheck.tooltip               "ଆପଣଙ୍କର ପ୍ଲଗଇନଗୁଡ଼ିକ ଠିକ ଅଛି କି ନାହିଁ  ଦେଖିବା ପାଇଁ ଯାଞ୍ଚକରନ୍ତୁ">
 <!-- categories / views -->
-
-<!ENTITY view.search.label                    "ସନ୍ଧାନ କରନ୍ତୁ">
 <!ENTITY view.discover.label                  "ଏଡ-ଅନଗୁଡ଼ିକୁ ଗ୍ରହଣ କରନ୍ତୁ">
 <!ENTITY view.recentUpdates.label             "ସାମ୍ପ୍ରତିକ ଅଦ୍ୟତନଗୁଡ଼ିକ">
 <!ENTITY view.availableUpdates.label          "ଉପଲବ୍ଧ ଅଦ୍ୟତନଗୁଡ଼ିକ">
@@ -101,7 +102,8 @@
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "କାଢ଼ନ୍ତୁ">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
-<!ENTITY cmd.debugAddon.label                 "ତୃଟିମୁକ୍ତ କରନ୍ତୁ">
+
+
 <!ENTITY cmd.showPreferencesWin.label         "ବିକଳ୍ପଗୁଡ଼ିକ">
 <!ENTITY cmd.showPreferencesWin.tooltip       "ଏହି ଏଡ-ଅନର ବିକଳ୍ପକୁ ପରିବର୍ତ୍ତନ କରନ୍ତୁ">
 <!ENTITY cmd.showPreferencesUnix.label        "ପସନ୍ଦ">
@@ -228,3 +230,16 @@
 <!ENTITY experiment.info.learnmore.accesskey "L">
 <!ENTITY experiment.info.changetelemetry "ଦୂରମାପି ସଂରଚନା">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
+     These entities form a sentence, with
+     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
+     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
+     being a link to an external site. -->
+
+

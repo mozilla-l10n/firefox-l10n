@@ -16,7 +16,6 @@
 
 <!ENTITY manageAccount.label          "ଖାତା ପରିଚାଳନା କରନ୍ତୁ">
 <!ENTITY manageAccount.accesskey      "n">
-<!ENTITY viewQuota.label              "କୋଟା ଦେଖନ୍ତୁ">
 <!ENTITY changePassword2.label        "ପ୍ରବେଶ ସଂକେତକୁ ପରିବର୍ତ୍ତନ କରନ୍ତୁ…">
 <!ENTITY myRecoveryKey.label          "ମୋର ପୁନରୁଦ୍ଧାର କି">
 <!ENTITY resetSync2.label             "ସନ୍ତୁଳନକୁ ପୁନସ୍ଥାପନ କରନ୍ତୁ…">
@@ -40,6 +39,10 @@
 
 <!ENTITY syncDeviceName.label       "ଉପକରଣ ନାମ:">
 <!ENTITY syncDeviceName.accesskey   "c">
+
+
+<!ENTITY cancelChangeSyncDeviceName.label "ବାତିଲ କରନ୍ତୁ">
+<!ENTITY saveChangeSyncDeviceName.label "ସଂରକ୍ଷଣ କରନ୍ତୁ">
 <!ENTITY unlinkDevice.label           "ଏହି ଉପକରଣକୁ  ସଂଯୋଗ ବିଚ୍ଛିନ୍ନ କରନ୍ତୁ">
 <!-- Footer stuff -->
 
@@ -68,13 +71,24 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "ଆପଣ ସାଇନ ଇନ କରିନାହାନ୍ତି।">
 <!ENTITY signIn.label                "ସାଇନ ଇନ">
+
 <!ENTITY manage.label                "ପରିଚାଳନ କରନ୍ତୁ">
 <!ENTITY disconnect.label            "ସଂଯୋଗ ବିଚ୍ଛିନ୍ନ ହୋଇଛି…">
 <!ENTITY verify.label                "ଇମେଲ ଯାଞ୍ଚ କରନ୍ତୁ">
 <!ENTITY forget.label                "ଏହି ଇମେଲକୁ ଭୁଲି ଯାଆନ୍ତୁ">
 
 <!ENTITY welcome.description "ଆପଣଙ୍କର ଟ୍ୟାବ, ପୃଷ୍ଠା ସଂକେତ, ପ୍ରବେଶ ସଂକେତଗୁଡ଼ିକୁ ଅଭିଗମ୍ୟ କରନ୍ତୁ ଏବଂ&brandShortName; କୁ ଯେଉଁଠି ବ୍ୟବହାର କରିବେ ସେଠାରେ।">
-<!ENTITY welcome.signIn.label "ସାଇନ ଇନ">
-<!ENTITY welcome.createAccount.label "ଖାତା ପ୍ରସ୍ତୁତ କରନ୍ତୁ">
+
+
 
 <!ENTITY welcome.useOldSync.label "ସନ୍ତୁଳନର ପୁରୁଣା ସଂସ୍କରଣ ବ୍ୟବହାର କରୁଛନ୍ତି କି?">
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+
+

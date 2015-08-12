@@ -10,3 +10,5 @@
 <!ENTITY usedAs "ଏହି ପରି ଭାବରେ ବ୍ୟବହୃତ: ">
 <!ENTITY system "ତନ୍ତ୍ର">
 <!ENTITY remote "ସୁଦୂର">
+<!-- LOCALIZATION NOTE (previewHint): This is the label shown as the
+     placeholder in font inspector preview text box. -->
