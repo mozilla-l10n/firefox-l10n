@@ -4,7 +4,8 @@
 
 <!ENTITY aboutAccounts.welcome "Ki joli i &syncBrand.shortName.label;">
 
+
 <!ENTITY aboutAccountsConfig.description "Dony iye wek i tim marom dirica matino, alama me buk, mung me donyo ki mukene mamegi.">
 <!ENTITY aboutAccountsConfig.startButton.label "Caki">
 <!ENTITY aboutAccountsConfig.useOldSync.label "Itye katic ki kit Tim marom macon?">
-<!ENTITY aboutAccountsConfig.manage.label "Lo">
+

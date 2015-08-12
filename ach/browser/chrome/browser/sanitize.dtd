@@ -49,8 +49,6 @@ that require it.  -->
 <!ENTITY itemHistoryAndDownloads.accesskey "Y">
 <!ENTITY itemFormSearchHistory.label       "Fom ki Yeny mukato">
 <!ENTITY itemFormSearchHistory.accesskey   "F">
-<!ENTITY itemPasswords.label               "Mung me donyo ma kikano">
-<!ENTITY itemPasswords.accesskey           "M">
 <!ENTITY itemCookies.label                 "Cookies">
 <!ENTITY itemCookies.accesskey             "C">
 <!ENTITY itemCache.label                   "Kikano">

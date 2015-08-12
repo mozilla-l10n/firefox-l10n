@@ -161,11 +161,6 @@
 
 <!ENTITY options.stylesheetAutocompletion.label      "Tyek CSS pire kene">
 <!ENTITY options.stylesheetAutocompletion.tooltip    "Tyek jami me CSS pire kene, wel kacel ki yer i Layub cital manongo itye kacoc">
-<!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
-  -  heading of the group of JavaScript Profiler preferences in the options
-  -  panel. -->
-
-<!ENTITY options.profiler.label            "La co profile me JavaScript">
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->

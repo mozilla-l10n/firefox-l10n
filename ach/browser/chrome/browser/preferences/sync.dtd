@@ -16,7 +16,6 @@
 
 <!ENTITY manageAccount.label          "Lo Akaunti">
 <!ENTITY manageAccount.accesskey      "A">
-<!ENTITY viewQuota.label              "Nen Ngap">
 <!ENTITY changePassword2.label        "Lok mung me donyo…">
 <!ENTITY myRecoveryKey.label          "Lagony mamega me Nong">
 <!ENTITY resetSync2.label             "Nwo tero tim marom…">
@@ -26,8 +25,6 @@
 <!ENTITY syncMy.label               "Tim marom">
 <!ENTITY engine.bookmarks.label     "Alama me buk">
 <!ENTITY engine.bookmarks.accesskey "l">
-
-
 <!ENTITY engine.tabs.label          "Dirica matino">
 <!ENTITY engine.tabs.accesskey      "D">
 <!ENTITY engine.history.label       "Gin mukato">
@@ -74,13 +71,24 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Pe i donyo iye.">
 <!ENTITY signIn.label                "Dony iyie">
+
 <!ENTITY manage.label                "Lo">
 <!ENTITY disconnect.label            "Wek kube…">
 <!ENTITY verify.label                "Mok ada pa email">
 <!ENTITY forget.label                "Wek wiyi owil ikom email man">
 
 <!ENTITY welcome.description "Nong dirica matino, alama me buk, mung me donyo ki mukene mamegi ka itiyo ki &brandShortName;.">
-<!ENTITY welcome.signIn.label "Dony iyie">
-<!ENTITY welcome.createAccount.label "Cwe akaunti">
+
+
 
 <!ENTITY welcome.useOldSync.label "Itye katic ki kit Tim marom macon?">
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+
+

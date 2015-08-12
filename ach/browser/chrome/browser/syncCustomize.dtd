@@ -15,8 +15,6 @@
 
 <!ENTITY engine.bookmarks.label           "Alama buk">
 <!ENTITY engine.bookmarks.accesskey       "m">
-
-
 <!ENTITY engine.history.label             "Gin mukato">
 <!ENTITY engine.history.accesskey         "m">
 <!ENTITY engine.tabs.label                "Dirica matino">

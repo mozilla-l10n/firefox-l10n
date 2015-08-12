@@ -110,6 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "w">
 
 <!ENTITY fxaSignIn.label "Dony iye &syncBrand.shortName.label;">
+
 <!ENTITY fxaSignInError.label "Nwo kube bot &syncBrand.shortName.label;">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; ki ye">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; bi cako tic marom will begin syncing i cawa manok.">
@@ -126,8 +127,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "K">
 <!ENTITY fullScreenExit.label "Kat woko ki i kit wang komputa ma opong">
 <!ENTITY fullScreenExit.accesskey "w">
-<!ENTITY fullscreenAllowButton.label "Ye">
-<!ENTITY fullscreenExitButton.label "Kwer">
 
 <!ENTITY fullscreenExitHint2.value "Dii ESC i cawa mo keken wek i kat woko.">
 <!ENTITY leaveDOMFullScreen.label "Kat woko ki i wang komputa ma opong">
@@ -393,6 +392,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.placeholder2          "Yeny onyo ket kanonge">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Lokke bot dirica matidi:">
+
+
+
+<!ENTITY urlbar.searchSuggestionsNotification.enable "Eyo">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -417,6 +420,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
+<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
+     These are set as the aria-label attribute for the search input box and
+     submit button in the in-content search UI, to be used by screen readers. -->
+
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -632,6 +639,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "L">
 
+
 <!ENTITY pageStyleMenu.label "Kit pot buk">
 <!ENTITY pageStyleMenu.accesskey "t">
 <!ENTITY pageStyleNoStyle.label "Kite Pe">
@@ -670,10 +678,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "Otum">
 <!ENTITY editBookmark.cancel.label                   "Ngol">
-<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 
 
+
+
+
+<!-- Strings for connection state warnings. -->
+
+
+
+<!-- Strings for connection state warnings in the subview. -->
+
+
+
+
+
+
+
+
+
+
+<!ENTITY identity.disableMixedContentBlocking.label "Juk gwoke pi kombedi">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "J">
 
 
 
@@ -750,27 +777,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "L">
 <!ENTITY getUserMedia.selectMicrophone.label "Micropon me anywaka:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+
 <!ENTITY getUserMedia.allWindowsShared.message "Ki binywako dirica weng ma nen i wang kompiuta ni.">
-<!-- Bad Content Blocker Doorhanger Notification -->
 
-<!ENTITY badContentBlocked.moreinfo "Pol kakube pud bitic maber kadi ki geng gin manonge iye.">
 
-<!ENTITY mixedContentBlocked2.message "Gin manonge iye mape ber ">
-<!ENTITY mixedContentBlocked2.moreinfo "Kigengo woko gin mogo mape ki mungo i kakube man.">
-<!ENTITY mixedContentBlocked2.learnMore "Nong ngec mapol">
-<!ENTITY mixedContentBlocked2.options "Gin ayera">
-<!ENTITY mixedContentBlocked2.unblock.label "Juk gwoke pi kombedi">
-<!ENTITY mixedContentBlocked2.unblock.accesskey "J">
-<!ENTITY mixedContentBlocked2.block.label "Cak gwoke">
-<!ENTITY mixedContentBlocked2.block.accesskey "C">
-<!ENTITY mixedContentBlocked2.disabled.message "Kijuko gwoke woko">
+
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+
+
+
 
 <!ENTITY trackingContentBlocked.message "Lubo">
 <!ENTITY trackingContentBlocked.moreinfo "Kigengo woko but pot buk ma lubo kor tici me wi yamo.">
 <!ENTITY trackingContentBlocked.learnMore "Nong ngec mapol">
-<!ENTITY trackingContentBlocked.options "Gin ayera">
-<!ENTITY trackingContentBlocked.unblock2.label "Juk gwokke pi pot buk man">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "J">
+
+
+
 <!ENTITY trackingContentBlocked.block.label "Cak gwoke">
 <!ENTITY trackingContentBlocked.block.accesskey "C">
 <!ENTITY trackingContentBlocked.disabled.message "Kijuko woko gwokke me lubo kor">
@@ -836,17 +865,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeNotificationsNotNow.accesskey         "P">
 <!ENTITY emeNotificationsDontAskAgain.label       "Pe i penya doki">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "P">
-
-<!ENTITY readingList.label                        "Jami akwana">
-<!ENTITY readingList.sidebar.commandKey           "R">
-<!ENTITY readingList.showSidebar.label            "Nyut gintic ma inget me jami akwana">
-<!-- Pre-landed string for bug 1124153 -->
-<!ENTITY readingList.sidebar.showMore.label       "Nyut mapol…">
-<!-- Pre-landed string for bug 1133662 -->
-<!ENTITY readingList.sidebar.delete.tooltip       "Kwany man woko ki i Jami akwana ni">
-<!-- Pre-landed strings for bug 1123519 -->
-<!ENTITY readingList.sidebar.add.label            "Med ikom jami akwana">
-
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 
 
