@@ -4,12 +4,14 @@
 
 <!ENTITY tracking.label                 "Heuliañ ho roudoù">
 
-<!ENTITY dntTrackingNotOkay.label2      "Lavarout d'al lec'hiennoù ne fell ket din bezañ heuliet.">
-<!ENTITY dntTrackingNotOkay.accesskey   "L">
-<!ENTITY trackingProtection.label       "Mirout al lec'hiennoù ouzh heuliañ ac'hanon">
-<!ENTITY trackingProtection.accesskey   "o">
-<!ENTITY trackingProtectionLearnMore.label "Gouzout hiroc'h">
-<!ENTITY doNotTrackInfo.label           "Gouzout hiroc'h">
+
+<!ENTITY doNotTrackInfo.label          "Gouzout hiroc'h">
+
+
+
+
+
+
 
 <!ENTITY  history.label                 "Roll istor">
 
@@ -24,6 +26,8 @@
 <!ENTITY  locbar.openpage.accesskey     "D">
 <!ENTITY  locbar.searches.label         "Enklaskoù kar adalek al lusker enklask dre ziouer ">
 <!ENTITY  locbar.searches.accesskey     "o">
+
+
 
 <!ENTITY  acceptCookies.label           "Degemer toupinoù adalek lec'hiennoù">
 <!ENTITY  acceptCookies.accesskey       "D">
