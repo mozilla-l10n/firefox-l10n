@@ -49,8 +49,6 @@ that require it.  -->
 <!ENTITY itemHistoryAndDownloads.accesskey "B">
 <!ENTITY itemFormSearchHistory.label       "පෝරම සහ සෙවුම් ඉතිහාසය (F)">
 <!ENTITY itemFormSearchHistory.accesskey   "F">
-<!ENTITY itemPasswords.label               "රහස්පදය">
-<!ENTITY itemPasswords.accesskey           "P">
 <!ENTITY itemCookies.label                 "කුකී">
 <!ENTITY itemCookies.accesskey             "C">
 <!ENTITY itemCache.label                   "කෑෂ්">

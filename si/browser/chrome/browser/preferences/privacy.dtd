@@ -4,12 +4,14 @@
 
 <!ENTITY tracking.label                 "Tracking">
 
-<!ENTITY dntTrackingNotOkay.label2      "මට හඹායෑම අවශ්‍ය නොවන බව අඩවි වලට පවසන්න">
-<!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY trackingProtection.label       "අඩවි විසින් මා හඹායෑම වලකන්න (m)">
-<!ENTITY trackingProtection.accesskey   "m">
-<!ENTITY trackingProtectionLearnMore.label "තවත් දැනගන්න">
-<!ENTITY doNotTrackInfo.label           "වැඩිදුරටත් දැනුවත්වන්න">
+
+<!ENTITY doNotTrackInfo.label          "වැඩිදුරටත් දැනුවත්වන්න">
+
+
+
+
+
+
 
 <!ENTITY  history.label                 "ඉතිහාසය">
 
@@ -22,6 +24,8 @@
 <!ENTITY  locbar.bookmarks.accesskey    "k">
 <!ENTITY  locbar.openpage.label         "ටැබ් විවෘත කරන්න (O)">
 <!ENTITY  locbar.openpage.accesskey     "O">
+
+
 
 
 

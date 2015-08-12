@@ -15,8 +15,6 @@
 
 <!ENTITY engine.bookmarks.label           "පිටුසළකුණු">
 <!ENTITY engine.bookmarks.accesskey       "m">
-
-
 <!ENTITY engine.history.label             "පෙරදෑ">
 <!ENTITY engine.history.accesskey         "r">
 <!ENTITY engine.tabs.label                "ටැබ්">

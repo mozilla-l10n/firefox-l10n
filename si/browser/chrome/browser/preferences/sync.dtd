@@ -16,7 +16,6 @@
 
 <!ENTITY manageAccount.label          "ගිණුම කළමනාකරණය (n)">
 <!ENTITY manageAccount.accesskey      "n">
-<!ENTITY viewQuota.label              "කොටා (Quota) පෙන්වන්න">
 <!ENTITY changePassword2.label        "රහස්පදය වෙනස්කරන්න">
 <!ENTITY myRecoveryKey.label          "මගේ ප්‍රතිසාධන යතුර (Recovery Key)">
 <!ENTITY resetSync2.label             "සම්මුහුර්තය ප්‍රත්‍යාරම්භ (Reset) කරන්න">
@@ -26,8 +25,6 @@
 <!ENTITY syncMy.label               "Sync My">
 <!ENTITY engine.bookmarks.label     "පිටුසළකුණු">
 <!ENTITY engine.bookmarks.accesskey "m">
-
-
 <!ENTITY engine.tabs.label          "ටැබ්">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "පෙරදෑ">
@@ -74,13 +71,24 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "ඔබ පිවිසී නොමැත.">
 <!ENTITY signIn.label                "පිවිසෙන්න">
+
 <!ENTITY manage.label                "කළමනාකරණය">
 <!ENTITY disconnect.label            "විසන්ධි...">
 <!ENTITY verify.label                "ඊ-තැපෑල තහවුරු කරන්න">
 <!ENTITY forget.label                "මෙම ඊ-තැපෑල අමතක කරන්න">
 
 <!ENTITY welcome.description "ඔබ &brandShortName; භාවිත කරන ඕනෑම තැනක ඔබේ ටැබ, මුරපද හා තවත් දෑ වෙත පිවිසෙන්න.">
-<!ENTITY welcome.signIn.label "ඇතුළු වන්න (Sign In)">
-<!ENTITY welcome.createAccount.label "ගිනුම තනන්න">
+
+
 
 <!ENTITY welcome.useOldSync.label "සම්මුහුර්තකරණයේ පැරණි නිකුතුවක් භාවිතයෙන්?">
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+
+

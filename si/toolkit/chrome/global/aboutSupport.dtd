@@ -55,6 +55,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "බහුසැකසුම් කවුළු">
 
+
 <!ENTITY aboutSupport.showDir.label "ඩිරෙක්ටරිය විවෘත කරන්න">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
