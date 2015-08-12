@@ -16,7 +16,6 @@
 
 <!ENTITY manageAccount.label          "অ্যাকাউন্ট পরিচালনা">
 <!ENTITY manageAccount.accesskey      "অ">
-<!ENTITY viewQuota.label              "বরাদ্দ মান দেখুন">
 <!ENTITY changePassword2.label        "পাসওয়ার্ড পরিবর্তন করুন…">
 <!ENTITY myRecoveryKey.label          "পুনরুদ্ধারের জন্য আমার কি (key)">
 <!ENTITY resetSync2.label             "সিংক পুনরায় নির্ধারণ করুন…">
@@ -26,8 +25,6 @@
 <!ENTITY syncMy.label               "সুসংগত করা হবে">
 <!ENTITY engine.bookmarks.label     "বুকমার্ক">
 <!ENTITY engine.bookmarks.accesskey "ব">
-<!ENTITY engine.readinglist.label   "পঠন তালিকা(L)">
-<!ENTITY engine.readinglist.accesskey "L">
 <!ENTITY engine.tabs.label          "ট্যাব">
 <!ENTITY engine.tabs.accesskey      "ট">
 <!ENTITY engine.history.label       "পূর্ববর্তী তথ্য">
@@ -74,13 +71,24 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "আপনার সাইন ইন করা নেই।">
 <!ENTITY signIn.label                "সাইন-ইন করুন">
+
 <!ENTITY manage.label                "পরিচালনা">
 <!ENTITY disconnect.label            "বিচ্ছিন্ন করুন…">
 <!ENTITY verify.label                "ইমেল যাঁচাই করুন">
 <!ENTITY forget.label                "এই ইমেল ভুলে যাওয়া হোক">
 
 <!ENTITY welcome.description "যেখান থেকেই &brandShortName; ব্যবহার করুন না কেন আপনার ট্যাব, বুকমার্ক, পাসওয়ার্ড এবং অন্যন্যগুলি ব্যবহার করতে পারবেন।">
-<!ENTITY welcome.signIn.label "সাইন-ইন করুন">
-<!ENTITY welcome.createAccount.label "অ্যাকাউন্ট তৈরি করুন">
+
+
 
 <!ENTITY welcome.useOldSync.label "সিঙ্ক এর কোন পুরানো সংস্করণ ব্যবহার করছেন?">
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+
+

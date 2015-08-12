@@ -171,11 +171,6 @@
 
 <!ENTITY options.stylesheetAutocompletion.label      "স্বয়ং-সম্পূর্ণ CSS">
 <!ENTITY options.stylesheetAutocompletion.tooltip    "স্টাইল এডিটরে CSS-র বৈশিষ্ট্যতা, মান এবং নির্বাচক লেখার সাথে সাথে তা স্বয়ং-সম্পূর্ণ করুন">
-<!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
-  -  heading of the group of JavaScript Profiler preferences in the options
-  -  panel. -->
-
-<!ENTITY options.profiler.label            "JavaScript প্রোফাইলার">
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->

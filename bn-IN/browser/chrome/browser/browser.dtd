@@ -110,6 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "স">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; প্রস্তুত করুন">
+
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; প্রস্তুত করুন">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; সক্রিয়">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; এখুনি সিঙ্ক করা শুরু করবে।">
@@ -126,8 +127,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "ট">
 <!ENTITY fullScreenExit.label "সম্পূর্ণ পর্দায় প্রদর্শন থেকে প্রস্থান করুন">
 <!ENTITY fullScreenExit.accesskey "স">
-<!ENTITY fullscreenAllowButton.label "অনুমোদন করুন">
-<!ENTITY fullscreenExitButton.label "প্রত্যাখ্যান করুন">
 
 <!ENTITY fullscreenExitHint2.value "যে কোনো সময় প্রস্থান করার জন্য টিপুন ESC।">
 <!ENTITY leaveDOMFullScreen.label "সম্পূর্ণ পর্দায় প্রদর্শন বন্ধ করুন">
@@ -395,6 +394,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.placeholder2          "অনুসন্ধান করুন অথবা ঠিকানা প্রবেশ করুন">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "চিহ্নিত ট্যাবে পরিবর্তন করুন:">
+
+
+<!ENTITY urlbar.searchSuggestionsNotification.disable "না">
+<!ENTITY urlbar.searchSuggestionsNotification.enable "হ্যাঁ">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -419,6 +422,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
+<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
+     These are set as the aria-label attribute for the search input box and
+     submit button in the in-content search UI, to be used by screen readers. -->
+
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -634,6 +641,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "ব">
 
+
 <!ENTITY pageStyleMenu.label "পৃষ্ঠার বিন্যাস">
 <!ENTITY pageStyleMenu.accesskey "প">
 <!ENTITY pageStyleNoStyle.label "বিন্যাস বিহীন">
@@ -672,12 +680,31 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "সমাপ্ত">
 <!ENTITY editBookmark.cancel.label                   "বাতিল">
-<!ENTITY editBookmark.removeBookmark.accessKey       "R">
+
 
 <!ENTITY identity.connectionSecure "সুরক্ষিত সংযোগ">
 <!ENTITY identity.connectionNotSecure "সংযোগ সুরক্ষিত নয়">
+
 <!ENTITY identity.connectionVerified "&brandShortName; যাঁচাই করে যে আপনি নিরাপদভাবে, এই সাইটের সাথে সংযুক্ত হয়েছেন যা চালনা করে:">
 <!ENTITY identity.connectionInternal "এটি একটি সুরক্ষিত &brandShortName; পৃষ্ঠা।">
+<!-- Strings for connection state warnings. -->
+
+
+
+<!-- Strings for connection state warnings in the subview. -->
+
+
+
+
+
+
+
+
+
+
+<!ENTITY identity.disableMixedContentBlocking.label "এখনকার জন্য সুরক্ষা নিষ্ক্রিয় করুন (D)">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "D">
+
 
 <!ENTITY identity.moreInfoLinkText2 "অধিক বিবরণ">
 
@@ -754,27 +781,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "শেয়ার করার মাইক্রোফোন (M):">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+
 <!ENTITY getUserMedia.allWindowsShared.message "আপনার স্ক্রিনে সব দৃশ্যমান উইন্ডো শেয়ার করা হবে।">
-<!-- Bad Content Blocker Doorhanger Notification -->
 
-<!ENTITY badContentBlocked.moreinfo "বিষয়বস্তু আটকানো থাকা সত্বেও অধিকাংশ ওয়েবসাইট সঠিকভাবে কাজ করবে।">
 
-<!ENTITY mixedContentBlocked2.message "অসুরক্ষিত বিষয়বস্তু">
-<!ENTITY mixedContentBlocked2.moreinfo "এই ওয়েবসাইটের কিছু এনক্রিপ্ট না করা উপাদান প্রতিরোধ করা হয়েছে।">
-<!ENTITY mixedContentBlocked2.learnMore "আরও জানুন">
-<!ENTITY mixedContentBlocked2.options "বিকল্প">
-<!ENTITY mixedContentBlocked2.unblock.label "এখনকার জন্য সুরক্ষা নিষ্ক্রিয় করুন (D)">
-<!ENTITY mixedContentBlocked2.unblock.accesskey "D">
-<!ENTITY mixedContentBlocked2.block.label "সুরক্ষা সক্রিয় করুন">
-<!ENTITY mixedContentBlocked2.block.accesskey "স">
-<!ENTITY mixedContentBlocked2.disabled.message "সুরক্ষা নিষ্ক্রিয় করা অাছে">
+
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+
+
+
 
 <!ENTITY trackingContentBlocked.message "অনুসরণকরণ">
 <!ENTITY trackingContentBlocked.moreinfo "পৃষ্ঠার যে অংশগুলি অাপনার অন-লাইন কার্যকলাপ ট্র্যাক করে সেগুলি প্রতিরোধ করা হয়েছে।">
 <!ENTITY trackingContentBlocked.learnMore "আরও জানুন">
-<!ENTITY trackingContentBlocked.options "বিকল্প">
-<!ENTITY trackingContentBlocked.unblock2.label "এই সাইটে সুরক্ষা নিষ্ক্রিয় করুন">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "এ">
+
+
+
 <!ENTITY trackingContentBlocked.block.label "সুরক্ষা সক্রিয় করুন">
 <!ENTITY trackingContentBlocked.block.accesskey "স">
 <!ENTITY trackingContentBlocked.disabled.message "ট্র্যাকিং সুরক্ষা নিষ্ক্রিয় করা হয়েছে">
@@ -840,18 +869,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeNotificationsNotNow.accesskey         "N">
 <!ENTITY emeNotificationsDontAskAgain.label       "পুনরায় জিজ্ঞাসা করবেন না ">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "D">
-
-<!ENTITY readingList.label                        "পড়ার তালিকা">
-<!ENTITY readingList.sidebar.commandKey           "R">
-<!ENTITY readingList.showSidebar.label            "পড়ার তালিকার সাইডবার দেখান">
-<!-- Pre-landed string for bug 1124153 -->
-<!ENTITY readingList.sidebar.showMore.label       "আরও দেখুন...">
-<!-- Pre-landed string for bug 1133662 -->
-<!ENTITY readingList.sidebar.emptyText            "আপনার পড়ার তালিকায় প্রবন্ধ যোগ করুন সেগুলোকে পরবর্তীকালের জন্য সংরক্ষণ করে রাখতে এবং সেগুলোকে সহজে খুঁজে পেতে যখন আপনি সেগুলোকে চাইছেন।">
-<!ENTITY readingList.sidebar.delete.tooltip       "এটিকে আপনার পড়ার তালিকা থেকে মুছে ফেলুন">
-<!-- Pre-landed strings for bug 1123519 -->
-<!ENTITY readingList.sidebar.add.label            "পড়ার তালিকায় যোগ করুন">
-<!ENTITY readingList.sidebar.add.tooltip          "এই পাতাটি আপনার পড়ার তালিকায় যোগ করুন">
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 
 <!ENTITY saveToPocketCmd.label     "Pocket এ পৃষ্ঠা সংরক্ষণ করা হোক">
