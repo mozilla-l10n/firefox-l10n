@@ -16,7 +16,6 @@
 
 <!ENTITY manageAccount.label          "Hesabı yönet">
 <!ENTITY manageAccount.accesskey      "y">
-<!ENTITY viewQuota.label              "Sınıra bak">
 <!ENTITY changePassword2.label        "Parolayı değiştir…">
 <!ENTITY myRecoveryKey.label          "Kurtarma anahtarım">
 <!ENTITY resetSync2.label             "Sync'i sıfırla…">
@@ -26,8 +25,6 @@
 <!ENTITY syncMy.label               "Eşitlenecekler:">
 <!ENTITY engine.bookmarks.label     "Yer imleri">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.readinglist.label   "Okuma Listesi">
-<!ENTITY engine.readinglist.accesskey "O">
 <!ENTITY engine.tabs.label          "Sekmeler">
 <!ENTITY engine.tabs.accesskey      "S">
 <!ENTITY engine.history.label       "Geçmiş">
@@ -74,13 +71,24 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Oturum açmadınız.">
 <!ENTITY signIn.label                "Oturum aç">
+
 <!ENTITY manage.label                "Yönet">
 <!ENTITY disconnect.label            "Bağlantıyı kes…">
 <!ENTITY verify.label                "E-postayı doğrula">
 <!ENTITY forget.label                "Bu e-postayı unut">
 
 <!ENTITY welcome.description "&brandShortName; kullandığınız her yerde sekmelerinize, yer imlerinize, parolalarınıza ve daha fazlasına erişin.">
-<!ENTITY welcome.signIn.label "Oturum aç">
-<!ENTITY welcome.createAccount.label "Hesap oluştur">
+
+
 
 <!ENTITY welcome.useOldSync.label "Sync'in eski bir sürümünü mü kullanıyorsunuz?">
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+
+
