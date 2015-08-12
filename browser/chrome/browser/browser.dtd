@@ -395,9 +395,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Keçiləcək vərəq:">
 
-
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Ətraflı öyrən…">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Xeyir">
-
+<!ENTITY urlbar.searchSuggestionsNotification.enable "Hə">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -426,6 +426,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      These are set as the aria-label attribute for the search input box and
      submit button in the in-content search UI, to be used by screen readers. -->
 
+<!ENTITY contentSearchInput.label     "Axtarış sorğusu">
+<!ENTITY contentSearchSubmit.label    "Axtarışı göndər">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -641,6 +643,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "Q">
 
+<!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "Səhifə Stili">
 <!ENTITY pageStyleMenu.accesskey "l">
@@ -680,11 +683,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "Bitdi">
 <!ENTITY editBookmark.cancel.label                   "Ləğv et">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Təhlükəsiz Əlaqə">
 <!ENTITY identity.connectionNotSecure "Əlaqə Təhlükəsiz deyil">
-
+<!ENTITY identity.connectionFile "Bu səhifə sizin kompüterinizdə saxlanıb.">
 <!ENTITY identity.connectionVerified "&brandShortName; bu sayta təhlükəsiz şəkildə qoşulduğunuzu təsdiq etdi. Saytı işlədən:">
 <!ENTITY identity.connectionInternal "Bu səhifə təhlükəsiz bir &brandShortName; səhifəsidir.">
 <!-- Strings for connection state warnings. -->
@@ -701,10 +704,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
+<!ENTITY identity.enableMixedContentBlocking.label "Qorumanı aktivləşdir">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "k">
 <!ENTITY identity.disableMixedContentBlocking.label "Qorumanı hələlik söndür">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "s">
-
+<!ENTITY identity.learnMore "Ətraflı Öyrən">
 
 <!ENTITY identity.moreInfoLinkText2 "Daha çox məlumat">
 
@@ -784,26 +788,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY getUserMedia.allWindowsShared.message "Ekranınızda görünən bütün pəncərələr paylaşılacaq.">
 
+<!ENTITY trackingProtection.title "İzlənmə Qoruması">
 
 
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-
+<!ENTITY trackingProtection.unblock.label "Bu sayt üçün qorumanı söndür">
+<!ENTITY trackingProtection.unblock.accesskey "d">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-
-
-
+<!ENTITY trackingProtection.unblockPrivate.label "Bu sessiya üçün qorumanı söndür">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "d">
+<!ENTITY trackingProtection.block2.label "Qorumanı Aktivləşdir">
+<!ENTITY trackingProtection.block2.accesskey "k">
 
 <!ENTITY trackingContentBlocked.message "İzləmə">
 <!ENTITY trackingContentBlocked.moreinfo "Saytda sizin onlayn aktivliyinizi izləyən hissələr bloklanmışdır.">
 <!ENTITY trackingContentBlocked.learnMore "Ətraflı Öyrən">
-
-
-
+<!ENTITY trackingContentBlocked.options "Seçimlər">
+<!ENTITY trackingContentBlocked.unblock2.label "Bu sayt üçün qorumanı söndür">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "d">
 <!ENTITY trackingContentBlocked.block.label "Qorumanı aktivləşdir">
 <!ENTITY trackingContentBlocked.block.accesskey "k">
 <!ENTITY trackingContentBlocked.disabled.message "İzləmə qoruması sönülüdür">

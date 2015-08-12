@@ -34,7 +34,7 @@
      Width of the Tracking Protection section. This should be enough to
      accommodate the title as well as the enabled or disabled indicator.
      -->
-
+<!ENTITY trackingProtection.title              "İzlənmə Qoruması">
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
