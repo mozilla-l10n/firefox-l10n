@@ -4,12 +4,14 @@
 
 <!ENTITY tracking.label                 "கண்காணிப்பு">
 
-<!ENTITY dntTrackingNotOkay.label2      "நான் கண்காணிக்கப்படுவதை விரும்பவில்லை என்று வலைதளங்களிடம் கூறவும்">
-<!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY trackingProtection.label       "என்னை தடமறிதலிருந்து தளங்களைத் தடு">
-<!ENTITY trackingProtection.accesskey   "m">
-<!ENTITY trackingProtectionLearnMore.label "மேலும் அறிய">
-<!ENTITY doNotTrackInfo.label           "இன்னும் கற்க">
+
+<!ENTITY doNotTrackInfo.label          "இன்னும் கற்க">
+
+
+
+
+
+
 
 <!ENTITY  history.label                 "வரலாறு">
 
@@ -22,6 +24,8 @@
 <!ENTITY  locbar.bookmarks.accesskey    "k">
 <!ENTITY  locbar.openpage.label         "கீற்றுகளைத் திற">
 <!ENTITY  locbar.openpage.accesskey     "O">
+
+
 
 
 

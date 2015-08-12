@@ -55,6 +55,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "பலசெயல்முறை சாளரம்">
 
+
 <!ENTITY aboutSupport.showDir.label "கோப்பகத்தைத் திற">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
