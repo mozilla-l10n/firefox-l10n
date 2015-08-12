@@ -110,6 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "z">
 
 <!ENTITY fxaSignIn.label "Ngena &syncBrand.shortName.label;">
+
 <!ENTITY fxaSignInError.label "Qhagamshelanisa ngokutsha &syncBrand.shortName.label;">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; yenziwe yasebenza">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; iza kuqalisa ukungqamanisa okomzuzwana.">
@@ -126,8 +127,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "F">
 <!ENTITY fullScreenExit.label "Phuma kwimo yesikrini esizeleyo">
 <!ENTITY fullScreenExit.accesskey "e">
-<!ENTITY fullscreenAllowButton.label "Vumela">
-<!ENTITY fullscreenExitButton.label "Khanyela">
 
 <!ENTITY fullscreenExitHint2.value "Cofa ESC nangaliphi na ixesha ukuze uphume.">
 <!ENTITY leaveDOMFullScreen.label "Phuma kwisikrini esizeleyo">
@@ -395,6 +394,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.placeholder2          "Khangela okanye ngenisa idilesi">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Tshintshela kwithebhu:">
+
+
+<!ENTITY urlbar.searchSuggestionsNotification.disable "Hayi">
+<!ENTITY urlbar.searchSuggestionsNotification.enable "Ewe">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -419,6 +422,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
+<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
+     These are set as the aria-label attribute for the search input box and
+     submit button in the in-content search UI, to be used by screen readers. -->
+
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -634,6 +641,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "V">
 
+
 <!ENTITY pageStyleMenu.label "Isimbo sephepha">
 <!ENTITY pageStyleMenu.accesskey "m">
 <!ENTITY pageStyleNoStyle.label "Akukho simbo">
@@ -672,12 +680,31 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "Kwenziwe">
 <!ENTITY editBookmark.cancel.label                   "Rhoxisa">
-<!ENTITY editBookmark.removeBookmark.accessKey       "R">
+
 
 <!ENTITY identity.connectionSecure "Unxibelelwano lonxibelelwano">
 <!ENTITY identity.connectionNotSecure "Unxibelelwano alukhuselekanga">
+
 <!ENTITY identity.connectionVerified "I-&brandShortName; iqinisekise ukuba unxibelelene ngokukhuselekileyo kule sayithi, esetyeniswa yi:">
 <!ENTITY identity.connectionInternal "Le yi-&amp;brandShortName ekhuselekileyo; indawo yolawulo.">
+<!-- Strings for connection state warnings. -->
+
+
+
+<!-- Strings for connection state warnings in the subview. -->
+
+
+
+
+
+
+
+
+
+
+<!ENTITY identity.disableMixedContentBlocking.label "Kunye nokhuseleko lusayekiwe">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "K">
+
 
 <!ENTITY identity.moreInfoLinkText2 "Inkcazelo engaphezulu">
 
@@ -754,27 +781,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "I">
 <!ENTITY getUserMedia.selectMicrophone.label "Imayikhrofowuni yokubolekisana:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "I">
+
 <!ENTITY getUserMedia.allWindowsShared.message "Zonke iiwindowu ezikwiskrini sakho ziya kwabiwa.">
-<!-- Bad Content Blocker Doorhanger Notification -->
 
-<!ENTITY badContentBlocked.moreinfo "Iiwebhusayithi ezininzi ziya kusebenza ngokufanelekileyo nkqu nokuba sithintelwe esi siqulatho.">
 
-<!ENTITY mixedContentBlocked2.message "Isiqulatho esingakhuselekanga">
-<!ENTITY mixedContentBlocked2.moreinfo "Ezinye ii-elementi ezingekho enkrayiphu kule webhusayithi zithintelwe">
-<!ENTITY mixedContentBlocked2.learnMore "Funda ngakumbi">
-<!ENTITY mixedContentBlocked2.options "Iinketho">
-<!ENTITY mixedContentBlocked2.unblock.label "Kunye nokhuseleko lusayekiwe">
-<!ENTITY mixedContentBlocked2.unblock.accesskey "K">
-<!ENTITY mixedContentBlocked2.block.label "Vumela ukhuseleko">
-<!ENTITY mixedContentBlocked2.block.accesskey "V">
-<!ENTITY mixedContentBlocked2.disabled.message "Ukhuseleko luyekisiwe">
+
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+
+
+
 
 <!ENTITY trackingContentBlocked.message "Ukulanda umkhondo">
 <!ENTITY trackingContentBlocked.moreinfo "Iindawo zephepha lewebhu ezilanda umsebenzi wakho we-intanethi zithintelwe.">
 <!ENTITY trackingContentBlocked.learnMore "Funda ngakumbi">
-<!ENTITY trackingContentBlocked.options "Ekunokukhethwa kuko">
-<!ENTITY trackingContentBlocked.unblock2.label "Yekisa ukhuseleko kule sayithi">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "Y">
+
+
+
 <!ENTITY trackingContentBlocked.block.label "Vumela ukhuseleko">
 <!ENTITY trackingContentBlocked.block.accesskey "V">
 <!ENTITY trackingContentBlocked.disabled.message "Ukulandela ukhuselo akusebenzi">
@@ -840,18 +869,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeNotificationsNotNow.accesskey         "H">
 <!ENTITY emeNotificationsDontAskAgain.label       "Ungaphindi undibuze">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "U">
-
-<!ENTITY readingList.label                        "Uluhlu lokufunda">
-<!ENTITY readingList.sidebar.commandKey           "R">
-<!ENTITY readingList.showSidebar.label            "Bonisa uluhlu lokufunda lwebha esecaleni">
-<!-- Pre-landed string for bug 1124153 -->
-<!ENTITY readingList.sidebar.showMore.label       "Bonisa ngakumbi...">
-<!-- Pre-landed string for bug 1133662 -->
-<!ENTITY readingList.sidebar.emptyText            "Yongezelela amanqaku kuluhlu lwakho lokufunda ukuwagcina mva kwaye nokuwafumana lula xa uwafumana. ">
-<!ENTITY readingList.sidebar.delete.tooltip       "Susa le fomu kuluhlu lokufunda">
-<!-- Pre-landed strings for bug 1123519 -->
-<!ENTITY readingList.sidebar.add.label            "Yongeza kuluhlu lokufunda">
-<!ENTITY readingList.sidebar.add.tooltip          "Yongeza eli phepha kuluhlu lwakho lokufunda">
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 
 <!ENTITY saveToPocketCmd.label     "Gcina Iphepha kwiPokotho">
