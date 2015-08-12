@@ -2,18 +2,45 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.title            "অাপনি গোপনে ব্রাউজিং করছেন">
-<!ENTITY aboutPrivateBrowsing.title.normal     "নতুন গোপন উইন্ডো উন্মুক্ত করা হবে?">
-
-<!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; won't remember any history for this window.">
-<!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName; won't remember any history for this window.">
-
-<!ENTITY aboutPrivateBrowsing.description      "এটা ব্রাউজিং ইতিহাস, অনুসন্ধান ইতিহাস, ডাউনলোডসমূহ, ওয়েব ফর্ম ইতিহাস, কুকিস অার অস্থায়ী ইন্টারনেট ফাইলসমূহ অন্তর্ভুক্ত করে। যাই হোক, আপনার ডাউনলোড করা ফাইল এবং বুকমার্ক সংকলন রাখা হবে।">
-
 <!ENTITY aboutPrivateBrowsing.notPrivate       "অাপনি বর্তমানে কোনো গোপন উইন্ডোতে নেই।">
-
-<!ENTITY aboutPrivateBrowsing.moreInfo         "ব্রাউজিং সংক্রান্ত তথ্য এই কম্পিউটারের মধ্যে উপস্থিত না থাকলেও, ইন্টারনেট পরিষেবা উপলব্ধকারী অথবা আপনার কর্মস্থলের কর্তারা প্রয়োজনে আপনার পরিদর্শিত পৃষ্ঠাগুলি সহজেই সনাক্ত করতে পারবেন।">
-<!ENTITY aboutPrivateBrowsing.learnMore        "আরও জানুন।">
-
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Open a Private Window">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
+
+<!ENTITY privateBrowsing.title                 "ব্যক্তিগত ব্রাউজিং ব্যবস্থা">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
+     Width of the Private Browsing section.
+     -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
+     aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
+     These strings will be replaced by aboutPrivateBrowsing.forgotten and
+     aboutPrivateBrowsing.kept when the new visual design lands (bug 1192625).
+     -->
+
+<!ENTITY aboutPrivateBrowsing.title            "অাপনি গোপনে ব্রাউজিং করছেন">
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.history     "পূর্ববর্তী তথ্য">
+
+<!ENTITY aboutPrivateBrowsing.info.cookies     "কুকি">
+
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.bookmarks   "Bookmarks">
+
+<!ENTITY aboutPrivateBrowsing.learnMore        "আরও জানুন।">
+<!-- LOCALIZATION NOTE (trackingProtection.width):
+     Width of the Tracking Protection section. This should be enough to
+     accommodate the title as well as the enabled or disabled indicator.
+     -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.state.width):
+     Width of the element representing the enabled or disabled indicator.
+     -->
+
+
+
+
+
+

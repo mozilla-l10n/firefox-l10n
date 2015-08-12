@@ -49,6 +49,8 @@
   -  button that toggles all breakpoints for all sources. -->
 
 <!ENTITY debuggerUI.sources.toggleBreakpoints "সমস্ত বিরতি বিন্দু সক্রিয়/নিষ্ক্রিয় করুন">
+<!-- LOCALIZATION NOTE (debuggerUI.sources.togglePromiseDebugger): This is the
+  -  tooltip for the button that toggles the promise debugger. -->
 <!-- LOCALIZATION NOTE (debuggerUI.startTracing): This is the text displayed in
   - the button to start execution tracing. -->
 
