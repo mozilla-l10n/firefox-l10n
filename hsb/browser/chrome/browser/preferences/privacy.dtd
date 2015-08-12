@@ -4,12 +4,14 @@
 
 <!ENTITY tracking.label                 "Slědowanje">
 
-<!ENTITY dntTrackingNotOkay.label2      "Sydłam zdźělić, zo nimaja mje slědować">
-<!ENTITY dntTrackingNotOkay.accesskey   "z">
-<!ENTITY trackingProtection.label       "Sydłam wobarać mje slědować">
-<!ENTITY trackingProtection.accesskey   "w">
-<!ENTITY trackingProtectionLearnMore.label "Dalše informacije">
-<!ENTITY doNotTrackInfo.label           "Dalše informacije">
+
+<!ENTITY doNotTrackInfo.label          "Dalše informacije">
+
+
+
+
+
+
 
 <!ENTITY  history.label                 "Historija">
 
@@ -24,6 +26,8 @@
 <!ENTITY  locbar.openpage.accesskey     "o">
 <!ENTITY  locbar.searches.label         "Přiwuzne pytanja ze standardnej pytawu">
 <!ENTITY  locbar.searches.accesskey     "u">
+
+
 
 <!ENTITY  acceptCookies.label           "Placki ze sydłow akceptować">
 <!ENTITY  acceptCookies.accesskey       "c">
