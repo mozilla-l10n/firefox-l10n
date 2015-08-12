@@ -13,7 +13,6 @@
 
 <!ENTITY manageAccount.label          "Бүртгэлийг удирдах">
 <!ENTITY manageAccount.accesskey      "n">
-<!ENTITY viewQuota.label              "Тогтоогдсон хэмжээг үзэх">
 
 <!ENTITY myRecoveryKey.label          "Миний буцааж сэргээх түлхүүр">
 <!ENTITY resetSync2.label             "Цагжуулалтыг шинэчлэх">
@@ -21,8 +20,6 @@
 <!ENTITY pairDevice.label             "төхөөрөмжийг хослуулах">
 
 <!ENTITY syncMy.label               "Миний цагжуулалт">
-
-
 
 
 
@@ -72,5 +69,16 @@ both, to better adapt this sentence to their language.
 
 
 
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
 
 

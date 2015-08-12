@@ -4,8 +4,10 @@
 
 <!ENTITY tracking.label                 "Ажиглах">
 
-<!ENTITY dntTrackingNotOkay.label2      "Миний ачааллахыг хүсэхгүй байгаа сайтууд">
-<!ENTITY dntTrackingNotOkay.accesskey   "н">
+
+
+
+
 
 
 
@@ -13,6 +15,8 @@
 
 
 <!ENTITY  locationBar.label             "Хаягийн самбар">
+
+
 
 
 
