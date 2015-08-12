@@ -10,6 +10,7 @@
 <!ENTITY  onboard_start_subtext3 "اجعل تجربة تصفّح الوِبّ على الهاتف فريدة.">
 <!ENTITY  onboard_start_button_account "سجّل دخولك إلى &brandShortName;">
 <!ENTITY  onboard_start_button_browser "ابدأ التصفح">
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -47,6 +48,7 @@
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "مُعلّم من قبل">
 <!ENTITY bookmark_removed "أُزيلت العلامة">
 <!ENTITY bookmark_updated "حُدّثت العلامة">
 <!ENTITY bookmark_options "الخيارات">
@@ -67,6 +69,8 @@
 <!ENTITY edit_mode_cancel "ألغِ">
 
 <!ENTITY close_tab "أغلق اللسان">
+
+
 <!ENTITY one_tab "لسان واحد">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -84,7 +88,7 @@
 <!ENTITY pref_category_advanced "متقدّم">
 <!ENTITY pref_category_customize "خصّص">
 <!ENTITY pref_category_customize_summary "الرئيسية، و البحث، و الألسنة، و الاستيراد">
-
+<!ENTITY pref_category_customize_alt_summary "الرئيسية، و البحث، و الألسنة، و الفتح لاحقًا، و الاستيراد">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -108,7 +112,7 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "علّم">
 <!ENTITY overlay_share_reading_list_btn_label "أضِف إلى قائمة القراءة">
-
+<!ENTITY overlay_share_bookmark_btn_label_already "مُعلّم من قبل">
 <!ENTITY overlay_share_reading_list_btn_label_already "موجود في قائمة القراءة">
 <!ENTITY overlay_share_send_other "أرسله إلى أجهزة أخرى">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -137,7 +141,7 @@
 <!ENTITY pref_category_display "العرض">
 <!ENTITY pref_category_display_summary "النص، و شريط العنوان، و التصفح في ملء الشاشة">
 <!ENTITY pref_category_privacy_short "الخصوصية">
-
+<!ENTITY pref_category_privacy_summary2 "تحكم في جلسات الولوج، والكعكات، والتعقّب والبيانات">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "عن &brandShortName;، و الأسئلة الشائعة، و اختيارات البيانات">
 <!ENTITY pref_category_datareporting "اختيارات البيانات">
@@ -158,8 +162,11 @@
 
 
 
+<!ENTITY pref_category_logins "جلسات الولوج">
+<!ENTITY pref_remember_signons2 "تذكّر جلسات الولوج">
+<!ENTITY pref_open_external_urls_privately_title "افتح الروابط في التصفح الخاص">
 <!ENTITY pref_open_external_urls_privately_summary "لكلّ الروابط الخارجيّة المفتوحة في &brandShortName;">
-
+<!ENTITY pref_manage_logins "أدِر جلسات الولوج">
 
 <!ENTITY pref_category_home "الرئيسية">
 <!ENTITY pref_category_home_summary "خصص صفحة البداية">
@@ -191,16 +198,19 @@
 <!ENTITY pref_cookies_not_accept_foreign "مفعّلة، باستثناء الأطراف الخارجية">
 <!ENTITY pref_cookies_disabled "مُعطّلة">
 
-<!ENTITY pref_tracking_protection_title "الحماية من التعقّب">
-<!ENTITY pref_tracking_protection_summary "سيمنع &brandShortName; المواقع من تعقّبك">
+
 <!ENTITY pref_donottrack_title "لا تتعقبني">
 <!ENTITY pref_donottrack_summary "سيُخبر &brandShortName; المواقع أنك لا تريدها أن تتعقبك">
 
-<!ENTITY tab_queue_toast_message3 "حُفظ اللسان في &brandShortName;">
 
+
+
+
+<!ENTITY tab_queue_toast_message3 "حُفظ اللسان في &brandShortName;">
+<!ENTITY tab_queue_toast_action "افتح الآن">
 <!ENTITY tab_queue_prompt_title "أأفتح الألسنة المتعدّدة هذه؟">
-<!ENTITY tab_queue_prompt_text3 "احفظها حتّى أفتح &brandShortName; ثانية">
-<!ENTITY tab_queue_prompt_tip_text "يمكنك تغيير هذا من الإعدادات لاحقًا">
+
+
 <!ENTITY tab_queue_prompt_positive_action_button "فعّل">
 
 
@@ -208,8 +218,10 @@
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY tab_queue_notification_text_plural2 "&formatD; من الألسنة تنتظر">
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_text_singular2 "لسان واحد ينتظر">
 
 <!ENTITY pref_char_encoding "ترميز المحارف">
 <!ENTITY pref_char_encoding_on "أظهر القائمة">
@@ -249,22 +261,22 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled_summary "تحكم في السماح للمواقع بتشغيل الڤديو و غيره من الوسائط تلقائيا">
 <!ENTITY pref_zoom_force_enabled "فعّل التقريب دائمًا">
 <!ENTITY pref_zoom_force_enabled_summary "تخطى الإعدادات لتتمكن من تقريب أي صفحة">
-
+<!ENTITY pref_voice_input "إدخال الصوت">
 <!ENTITY pref_voice_input_summary "اسمح بالأوامر الصّوتيّة في شريط العنوان">
 <!ENTITY pref_qrcode_enabled "قارئ كود QR">
 <!ENTITY pref_qrcode_enabled_summary "اسمح بماسح QR في شريط العنوان">
 
 <!ENTITY pref_use_master_password "استخدم كلمة سر رئيسة">
 <!ENTITY pref_sync "تزامُن">
-
+<!ENTITY pref_sync_summary2 "زامن الألسنة، و العلامات، و جلسات الولوج و التأريخ">
 <!ENTITY pref_search_suggestions "اعرض اقتراحات البحث">
 <!ENTITY pref_import_android "استورد من أندرويد">
 <!ENTITY pref_import_android_summary "استورد العلامات و تأريخ التصفح من المتصفح المحلي">
 <!ENTITY pref_private_data_history2 "تأريخ التصفح">
 <!ENTITY pref_private_data_searchHistory "تأريخ البحث">
 <!ENTITY pref_private_data_formdata2 "تأريخ الاستمارات">
-<!ENTITY pref_private_data_cookies2 "الكعكات و الولوجات النشطة">
-
+<!ENTITY pref_private_data_cookies2 "الكعكات و جلسات الولوج النشطة">
+<!ENTITY pref_private_data_passwords2 "جلسات الولوج المحفوظة">
 <!ENTITY pref_private_data_cache "الخبيئة">
 <!ENTITY pref_private_data_offlineApps "بيانات المواقع للعمل دون اتصال">
 <!ENTITY pref_private_data_siteSettings2 "إعدادات الموقع">
@@ -311,7 +323,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "مُبلّغ الانهيار">
 <!ENTITY datareporting_wifi_title2 "خدمات التموضع من &vendorShortName;">
-
+<!ENTITY datareporting_wifi_geolocation_summary4 "ساعد &vendorShortName; في رسم خريطة العالم! شارك بيانات التموضع من واي-فاي والاتصال الهاتفي لتحسين خدماتنا للتموضع الجغرافي.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -326,9 +338,8 @@ size. -->
 <!ENTITY quit "أغلق">
 
 <!ENTITY addons "الإضافات">
-
+<!ENTITY logins "جلسات الولوج">
 <!ENTITY downloads "التنزيلات">
-<!ENTITY apps "التطبيقات">
 <!ENTITY char_encoding "ترميز المحارف">
 
 <!ENTITY share "تشارك">
@@ -392,18 +403,22 @@ size. -->
 <!ENTITY doorhanger_login_select_message "أأنسخ كلمة السر من &formatS;؟">
 <!ENTITY doorhanger_login_select_toast_copy "نُسخت كلمة السر إلى الحافظة">
 <!ENTITY doorhanger_login_select_toast_copy_error "تعذر نسخ كلمة السر">
-
+<!ENTITY doorhanger_login_select_action_text "اختر ولوجا آخر">
 <!ENTITY doorhanger_login_select_title "انسخ كلمة السر من">
 
 <!ENTITY pref_titlebar_mode "شريط العنوان">
 <!ENTITY pref_titlebar_mode_title "أظهر عنوان الصفحة">
 <!ENTITY pref_titlebar_mode_url "أظهر مسار الصفحة">
+<!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
+     whether or not the magnifying glass is disabled. -->
+
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar2 "التصفح في كل الشاشة">
 <!ENTITY pref_scroll_title_bar_summary "أخفِ شريط عنوان &brandShortName; عند تمرير الصفحة لأسفل">
 
+<!ENTITY pref_tab_queue_title2 "افتح روابط متعددة">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -422,10 +437,8 @@ size. -->
 <!ENTITY site_settings_cancel       "ألغِ">
 <!ENTITY site_settings_clear        "امسح">
 <!ENTITY site_settings_no_settings  "لا إعدادات لمسحها.">
-<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+<!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
-
-<!ENTITY reading_list_added2 "أُضيفت إلى القائمة">
 <!ENTITY reading_list_removed "حُذِفت الصفحة من قائمة القراءة">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -542,21 +555,20 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_run_by "والذي يعمل ب‍">
-<!ENTITY identity_no_info "لا يعطي هذا الموقع معلومات عن هويته.">
-<!ENTITY identity_not_encrypted "اتصالك بهذا الموقع غير مُعمّى.">
-<!ENTITY identity_encrypted "مُعمّى">
+
 <!-- Mixed content notifications in site identity popup -->
+
+
+
 
 <!ENTITY loaded_mixed_content_message "تعرض هذه الصفحة محتوى غير آمن.">
 <!ENTITY blocked_mixed_content_message_top "منع &brandShortName; محتوًى غير آمن.">
 <!ENTITY blocked_mixed_content_message_bottom "ستظل أغلب المواقع تعمل جيدًا حتى بعد منع هذا المحتوى.">
 <!-- Tracking content notifications in site identity popup -->
 
-<!ENTITY loaded_tracking_content_message_top "الحماية من التعقب مُعطّلة.">
-<!ENTITY loaded_tracking_content_message_bottom "أجزاء من هذه الصفحة قد تتعقب نشاطك على الإنترنت.">
-<!ENTITY blocked_tracking_content_message_top2 "الحماية من التعقّب مفعلة.">
-<!ENTITY blocked_tracking_content_message_bottom2 "منعت بعض أجزاء من الصفحة تحاول تتعقّب نشاطك على الإنترنت.">
+
+
+
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "اطّلع على المزيد">
@@ -612,7 +624,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "استمر">
 <!ENTITY guest_session_dialog_cancel "ألغِ">
 <!ENTITY new_guest_session_title "سيُعاد تشغيل &brandShortName; الآن">
-
+<!ENTITY new_guest_session_text2 "مستخدم جلسة الضيف لن يرى أيا من بيانات التصفح الخاصة (مثل جلسات الولوج المحفوظة، أو التاريخ أو العلامات).\n\nعندما ينتهي الضيف من التصفح، ستُحذف بيانات تصفحه و ستُستعاد جلستك.">
 <!ENTITY guest_browsing_notification_title "التصفح كضيف مفعل">
 <!ENTITY guest_browsing_notification_text "اضغط للخروج">
 
@@ -642,10 +654,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Voice search in the awesome bar -->
 
 <!ENTITY voicesearch_prompt "تكلّم الآن">
-<!ENTITY voicesearch_failed_title "بحث &brandShortName; الصوتي">
-<!ENTITY voicesearch_failed_message "هناك عُطل في البحث الصوتي الآن. يرجى المحاولة لاحقًا.">
-<!ENTITY voicesearch_failed_message_recoverable "آسفون! لم نتعرف على ما تقول. يرجى المحاولة لاحقًا.">
-
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -663,3 +671,22 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY find_matchcase "أب">
 
 <!ENTITY intent_uri_cannot_open "تعذّر فتح الرابط">
+<!-- DevTools Authentication -->
+<!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
+     above a QR reader that is actively scanning for QR codes.  The expected QR
+     code has already been displayed by the client trying to connect (such as
+     desktop Firefox via WebIDE), so you just need to aim this device at the QR
+     code. -->
+<!-- Restrictions -->
+<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+     a restricted profile (e.g. child). Used inside the Android settings UI. -->
+
+
+
+
+
+
+
+
+
+

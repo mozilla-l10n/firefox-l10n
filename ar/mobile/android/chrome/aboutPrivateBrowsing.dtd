@@ -3,14 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY privatebrowsingpage.title "التصفح الخاص">
-<!ENTITY privatebrowsingpage.title.normal "لست في التصفح الخاص">
+<!-- Localisation note: the plus sign here is a shorthand way of expressing the word "and". Contextually the privatebrowsingpage.title.private string
+                        is used as a title, with the privatebrowsingpage.title string preceding it but on a separate line.
+                        So the final line will say "Private Browsing + Tracking Protection". -->
 
-<!ENTITY privatebrowsingpage.issueDesc.normal2 "لن نحتفظ في التصفّح الخاصّ بتأريخ التصفّح أو الكعكات.">
-<!ENTITY privatebrowsingpage.issueDesc.private2 "لن نحتفظ بتأريخ التصفّح أو الكعكات.">
 
-<!ENTITY privatebrowsingpage.description2 "العلامات التي تضيفها والملفات التي تنزّلها ستُحفظ في جهازك.">
-<!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
-<!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
+
 
 <!ENTITY privatebrowsingpage.link.private "هل تريد معرفة المزيد؟">
 <!ENTITY privatebrowsingpage.link.normal "افتح لسان تصفح خاص جديد">
