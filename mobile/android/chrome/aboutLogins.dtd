@@ -5,7 +5,7 @@
      SYSTEM "chrome://branding/locale/brand.dtd">
    %brandDTD;
 <!ENTITY aboutLogins.title                       "Logins">
-<!ENTITY aboutLogins.update                      "Updater">
+<!ENTITY aboutLogins.update                      "Opdater">
 <!ENTITY aboutLogins.emptyLoginText              "Beskyt dine logins">
 <!ENTITY aboutLogins.emptyLoginHint              "Her vil du få vist logins og andre
 legitimationsoplysninger, som du gemmer i &brandShortName;.">
