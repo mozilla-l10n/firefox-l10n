@@ -27,8 +27,10 @@ This is likely the same like id.heading in crashes.dtd. -->
 
 <!ENTITY aboutSupport.appBasicsName "Pangalan">
 <!ENTITY aboutSupport.appBasicsVersion "Bersyon">
-<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
+
 
 
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
@@ -37,6 +39,9 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Paganahin na mga Plugin">
 
+
+
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
 
 
@@ -54,7 +59,13 @@ variant of aboutSupport.showDir.label. -->
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
 
+
+
+
 <!ENTITY aboutSupport.graphicsTitle "Grapiko">
+
+
+
 
 
 

@@ -6,11 +6,12 @@
 
 
 
-
-
-
-<!ENTITY     button.removeallcookies.label  "Alisin ang Lahat ng Cookies">
-<!ENTITY     button.removeallcookies.accesskey "A">
+<!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
+  The label associated with this accesskey can be found in 
+  preferences.properties as removeSelectedCookies.
+-->
+<!ENTITY     button.removeAllCookies.label "Alisin Lahat">
+<!ENTITY     button.removeAllCookies.accesskey "A">
 
 
 

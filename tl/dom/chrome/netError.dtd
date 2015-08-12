@@ -61,7 +61,9 @@
 
 
 
-<!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
+
+
+<!ENTITY cspBlocked.title "Blocked by Content Security Policy">
 
 
 <!ENTITY corruptedContentError.title "Corrupted Content Error">

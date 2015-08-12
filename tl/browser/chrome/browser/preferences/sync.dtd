@@ -12,7 +12,6 @@
 <!ENTITY resetPass.label              "I-reset">
 <!-- Manage Account -->
 
-
 <!ENTITY changePassword2.label        "Palitang ang Password">
 <!ENTITY myRecoveryKey.label          "Aking Pampanumalik na Susi">
 
@@ -34,6 +33,10 @@
 <!ENTITY engine.addons.accesskey    "A">
 <!-- Device Settings -->
 
+
+
+
+<!ENTITY saveChangeSyncDeviceName.label "I-save">
 <!ENTITY unlinkDevice.label           "I-unlink ang Device na Ito">
 <!-- Footer stuff -->
 
@@ -62,6 +65,17 @@ both, to better adapt this sentence to their language.
 
 
 
-<!ENTITY welcome.signIn.label "Mag-sign In">
+
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
 
 

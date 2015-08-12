@@ -26,6 +26,8 @@
 
 
 
+
+
 <!ENTITY helpFeedbackPage.label      "Ipasa ang Katugunan">
 <!ENTITY helpFeedbackPage.accesskey  "s">
 
@@ -35,7 +37,7 @@
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 
-<!ENTITY hideThisAppCmdMac.commandkey   "H">
+<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 

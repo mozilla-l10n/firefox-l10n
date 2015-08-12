@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY search.placeholder                   "Hanapin lahat ng add-ons">
+
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
@@ -19,6 +20,8 @@
 
 <!ENTITY cmd.back.tooltip                     "Bumalik nang isang pahina">
 <!ENTITY cmd.forward.tooltip                  "Pumunta sa susunod na web page">
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Naka-disable lahat ng add-ons ng safe mode.">
@@ -31,8 +34,6 @@
 <!-- global informations -->
 
 <!-- categories / views -->
-
-<!ENTITY view.search.label                    "Hanapin">
 <!ENTITY view.discover.label                  "Kumuha ng Add-ons">
 <!ENTITY view.recentUpdates.label             "Mga Bagong Updates">
 <!ENTITY view.availableUpdates.label          "Mga Available na Update">
@@ -93,6 +94,7 @@
 
 <!ENTITY cmd.uninstallAddon.label             "Alisin">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
+
 
 <!ENTITY cmd.showPreferencesWin.label         "Options">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Palitan ang options ng add-on na ito">
@@ -201,5 +203,18 @@
      to cause this tab to appear. -->
 <!ENTITY experiment.info.learnmore "Alamin pa">
 
+
+
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
+     These entities form a sentence, with
+     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
+     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
+     being a link to an external site. -->
 
 

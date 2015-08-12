@@ -2,17 +2,41 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                 "Private Browsing">
-<!ENTITY privatebrowsingpage.title.normal          "Gusto mo bang simulan ang Private Browsing?">
+
+
+<!ENTITY privateBrowsing.title                 "Private Browsing">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
+     Width of the Private Browsing section.
+     -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
+     aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
+     These strings will be replaced by aboutPrivateBrowsing.forgotten and
+     aboutPrivateBrowsing.kept when the new visual design lands (bug 1192625).
+     -->
 
 
 
 
 
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart4): please leave &newPrivateWindow.label; intact in the translation -->
+<!ENTITY aboutPrivateBrowsing.info.cookies     "Cookies">
 
 
-<!ENTITY privatebrowsingpage.moreInfo                  "Bagamat hindi dinodokumento nitong computer ang iyong browsing history puwede pa ring malaman ng iyong internet service provider o kumpanya ang mga binibista mong website.">
-<!ENTITY privatebrowsingpage.learnMore                 "Alamin pa">
-<!-- TO BE REMOVED POST-AUSTRALIS --> 
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
+
+<!ENTITY aboutPrivateBrowsing.info.downloads   "Mga Download">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks   "Mga bukmark">
+
+
+<!-- LOCALIZATION NOTE (trackingProtection.width):
+     Width of the Tracking Protection section. This should be enough to
+     accommodate the title as well as the enabled or disabled indicator.
+     -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.state.width):
+     Width of the element representing the enabled or disabled indicator.
+     -->
+
+
+
+
+
+

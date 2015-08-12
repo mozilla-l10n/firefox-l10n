@@ -27,3 +27,13 @@
 <!ENTITY chooseFolderMac.accesskey    "e">
 <!ENTITY alwaysAsk.label "Palaging itanong kung saan i-save ang files">
 <!ENTITY alwaysAsk.accesskey "A">
+
+
+
+
+<!ENTITY isDefault.label                  "&brandShortName; ay ang iyong kasalukuyang ginagamit na browser.">
+
+
+
+
+

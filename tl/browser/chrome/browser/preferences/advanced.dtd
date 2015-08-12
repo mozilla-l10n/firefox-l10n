@@ -24,17 +24,6 @@
 <!ENTITY checkSpelling.label             "Suriin ang aking baybay habang nagta-type">
 <!ENTITY checkSpelling.accesskey         "t">
 
-<!ENTITY systemDefaults.label            "Mga Default ng Sistema">
-<!--XXX-->
-<!ENTITY alwaysCheckDefault.label        "Palagiang i-tsek kung deafult browser ang &brandShortName; sa startup">
-<!ENTITY alwaysCheckDefault.accesskey    "w">
-<!ENTITY setDefault.label                "Gawing &amp;brandShortName ; ang default browser">
-<!ENTITY setDefault.accesskey            "d">
-<!ENTITY isDefault.label                 "&brandShortName; ay ang iyong kasalukuyang ginagamit na browser.">
-
-
-
-
 
 
 
@@ -74,18 +63,12 @@
 
 <!ENTITY updateTab.label                 "Pagsasangayon">
 
-<!-- Note either updateAuto1 is used or (updateAutoMetro and updateAutoDesktop),
-     so re-using accesss key in updateAuto1 is OK. updateAutoDesktop can be found
-     in preferences.properties -->
 <!ENTITY updateAuto1.label               "Kusang i-install ang mga update (inirerekomenda: pinabuting seguridad)">
 <!ENTITY updateAuto1.accesskey           "a">
-
-
 <!ENTITY updateCheck.label               "Maghanap ng updates, ngunit ako ang pipili kung i-install ang mga ito">
 <!ENTITY updateCheck.accesskey           "C">
 <!ENTITY updateManual.label              "Huwag kailanmang i-check para sa mga update (hindi inirerekomenda: mapanganib na seguridad)">
 <!ENTITY updateManual.accesskey          "n">
-
 
 
 
@@ -107,6 +90,7 @@
 <!ENTITY offlineAppsListRemove.label     "Tanggalin…">
 <!ENTITY offlineAppsListRemove.accesskey "R">
 <!ENTITY offlineAppRemove.confirm        "Tanggalin ang naka-offline na datos">
+
 
 
 

@@ -26,8 +26,6 @@
 <!ENTITY  generalMetaName       "Pangalan">
 <!ENTITY  generalMetaContent    "Nilalaman">
 
-<!ENTITY  generalSecurityDetails.accesskey "D">
-
 <!ENTITY  mediaTab              "Mga Paraan">
 <!ENTITY  mediaTab.accesskey    "M">
 <!ENTITY  mediaLocation         "Lokasyon:">
@@ -64,7 +62,6 @@
 
 <!ENTITY  securityTab           "Seguridad">
 <!ENTITY  securityTab.accesskey "S">
-<!ENTITY  securityHeader        "Security information sa pahinang ito">
 <!ENTITY  securityView.certView "Tingnan ang Sertipiko">
 <!ENTITY  securityView.accesskey "v">
 
@@ -82,4 +79,5 @@
 <!ENTITY  securityView.privacy.passwords                "Have I saved any passwords for this web site?">
 <!ENTITY  securityView.privacy.viewPasswords            "Ipakita ang naka-saved na Passwords">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
+
 

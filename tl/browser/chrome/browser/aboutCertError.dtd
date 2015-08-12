@@ -22,6 +22,7 @@ was trying to connect. -->
 <!ENTITY certerror.whatShouldIDo.content "Maaaring hindi totoo ang website na pinupuntahan mo. Mas maigi na huwag ka nang tumuloy.">
 
 
+
 <!ENTITY certerror.expert.heading "Nauunawan ko ang mga Panganib">
 <!ENTITY certerror.expert.content "Pwede mong itakda sa &brandShortName; na pagkatiwalaan ang website na ito.<b>Kahit aprubado mo ang website na ito, maaaring may tao na nakiki-alam sa connection mo.</b>">
 <!ENTITY certerror.expert.contentPara2 "Wag kang magdagdag ng eksepsyon kung wala kang sapat na dahilan para pagkatiwalaan ang identipikasyon ng website na ito.">

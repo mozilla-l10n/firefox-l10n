@@ -8,9 +8,6 @@
 
 
 
-<!ENTITY devmgr.version.label                   "Bersyon">
-
-
 <!ENTITY devmgr.button.login.label              "Mag - Log In">
 <!ENTITY devmgr.button.login.accesskey          "n">
 <!ENTITY devmgr.button.logout.label             "Mag - Log Out">

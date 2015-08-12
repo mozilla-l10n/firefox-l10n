@@ -49,6 +49,8 @@
 <!ENTITY cmd.open.accesskey              "O">
 <!ENTITY cmd.open_window.label           "Buksan sa Bagong Window">
 <!ENTITY cmd.open_window.accesskey       "n">
+
+
 <!ENTITY cmd.open_tab.label              "Buksan sa Bagong Tab">
 <!ENTITY cmd.open_tab.accesskey          "w">
 <!ENTITY cmd.open_all_in_tabs.label      "Buksan Lahat sa mga Tab">
@@ -79,7 +81,6 @@
 <!ENTITY col.url.label           "Lokasyon">
 
 <!ENTITY col.visitcount.label    "Bilang ng Pagbisita">
-
 <!ENTITY col.description.label   "Paglalarawan">
 <!ENTITY col.dateadded.label     "Idinagdag">
 <!ENTITY col.lastmodified.label  "Huling Binago">

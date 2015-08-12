@@ -20,8 +20,8 @@
 
 <!ENTITY  reloadTab.label                    "I-load ang Tab muli">
 <!ENTITY  reloadTab.accesskey                "R">
-<!ENTITY  reloadAllTabs.label                "I-reload ang Lahat ng mga Tab">
-<!ENTITY  reloadAllTabs.accesskey            "a">
+
+
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -41,10 +41,10 @@ can reach it easily. -->
 <!ENTITY  moveToNewGroup.label               "Bagong Grupo">
 
 
-<!ENTITY  bookmarkAllTabs.label              "I-bookmark ang lahat ng mga tab…">
-<!ENTITY  bookmarkAllTabs.accesskey          "t">
-<!ENTITY  undoCloseTab.label                 "I-Undo ang Pagsara ng Tab">
-<!ENTITY  undoCloseTab.accesskey             "U">
+
+
+
+
 
 
 
@@ -74,12 +74,20 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Mga nakalagay sa Bookmarks Toolbar">
 
+
+
+
+
+
+
 <!ENTITY pageSourceCmd.label "Source code ng web page">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Impormasyon tungkol sa web page">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
+
+
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "Pasukin ang Full Screen">
@@ -100,14 +108,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY fullScreenRestore.tooltip "Ibalik">
 
 <!ENTITY fullScreenAutohide.label "Itago ang mga Toolbar">
 <!ENTITY fullScreenAutohide.accesskey "I">
 <!ENTITY fullScreenExit.label "Itigil ang pag-gamit ng buong screen">
 <!ENTITY fullScreenExit.accesskey "I">
-<!ENTITY fullscreenAllowButton.label "Payagan">
-<!ENTITY fullscreenExitButton.label "Itakwil">
 
 <!ENTITY leaveDOMFullScreen.label "Lumabas sa pagka-Full Screen">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
@@ -121,10 +128,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "I-edit ang bookmark na ito">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
+<!-- LOCALIZATION NOTE (findShareServices.label):
+  -  Use the unicode ellipsis char, \u2026,
+  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
 
 
 
-
+<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 
 
 
@@ -190,6 +200,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
+
 <!ENTITY devToolsCmd.keytext          "F12">
 
 
@@ -223,11 +235,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  application menu item that opens the browser toolbox UI in the Tools menu. -->
 
 
+<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
+  -  application menu item that opens the browser content toolbox UI in the Tools menu.
+  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
+
+
 <!ENTITY devToolbarCloseButton.tooltiptext "Isara ang Developer Toolbar">
 
 
 
 
+
+
+
+<!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 
@@ -242,6 +263,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.label        "Bagong Window">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "n">
+
 
 
 
@@ -327,6 +349,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Lumipat sa tab:">
+
+
+
+
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -349,6 +375,28 @@ These should match what Safari and other Apple applications use on OS X Lion. --
  -->
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
+<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
+     These are set as the aria-label attribute for the search input box and
+     submit button in the in-content search UI, to be used by screen readers. -->
+
+<!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
+     These two strings are used to build the header above the list of one-click
+     search providers:  "Search for <used typed keywords> with:" -->
+
+<!-- LOCALIZATION NOTE (search.label, searchAfter.label):
+     This string is used to build the header above the list of one-click search
+     providers when a one off engine has been selected.  The searchAfter text is
+     intentionally left empty for en-US and can be used by other localizations to
+     display a string after the search engine name.  This string will be displayed
+     as:  "Search <selected engine name><searchAfter.label text>" -->
+<!ENTITY searchAfter.label            "">
+<!-- LOCALIZATION NOTE (searchWithHeader.label):
+     The wording of this string should be as close as possible to
+     searchFor.label and searchWith.label. This string will be used instead of
+     them when the user has not typed any keyword. -->
+<!-- LOCALIZATION NOTE (changeSearchSettings.button):
+     This string won't wrap, so if the translated string is longer,
+     consider translating it as if it said only "Search Settings". -->
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -420,6 +468,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY saveAudioCmd.label           "I-Save ang Audio Bilang…">
 <!ENTITY saveAudioCmd.accesskey       "v">
+
+
 
 
 
@@ -523,6 +573,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 
 
+
 <!ENTITY pageStyleMenu.label "Style ng Page">
 <!ENTITY pageStyleMenu.accesskey "y">
 <!ENTITY pageStyleNoStyle.label "Walang Style">
@@ -561,27 +612,31 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-<!ENTITY identity.unverifiedsite2 "This web site does not supply identity information.">
-<!ENTITY identity.connectedTo "Ikaw ay konektado sa">
-<!-- Localization note (identity.runBy) : This string appears between a
-domain name (above) and an organization name (below). E.g.
 
-example.com
-which is run by
-Example Enterprises, Inc.
 
-The layout of the identity dialog prevents combining this into a single string with
-substitution variables.  If it is difficult to translate the sense of the string
-with that structure, consider a translation which ignores the preceding domain and
-just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "na pinapatakbo ni/ng">
 
-<!ENTITY identity.moreInfoLinkText "Karagdagang Impormasyon…">
+
+<!-- Strings for connection state warnings. -->
+
+
+
+<!-- Strings for connection state warnings in the subview. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY identity.permissions "Pahintulot">
-<!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
-     localized title of this SUMO article
-     https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -634,6 +689,40 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 
 
@@ -646,8 +735,40 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY pluginNotification.width "28em">
 
 
+<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
+     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
+     Please ensure that this remains the case in the translation. -->
 
-<!ENTITY tabCrashed.tryAgain "Ulitin">
+
+
+<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
+     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
+     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
+     The translation should do the same. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY emeNotificationsDontAskAgain.label       "Huwag na akong tanungin muli">
+<!ENTITY emeNotificationsDontAskAgain.accesskey   "D">
+<!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 
 
 
