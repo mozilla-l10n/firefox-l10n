@@ -2,18 +2,45 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.title            "คุณกำลังท่องเว็บแบบส่วนตัว">
-<!ENTITY aboutPrivateBrowsing.title.normal     "เปิดหน้าต่างท่องเว็บแบบส่วนตัว?">
-
-<!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; จะไม่จดจำประวัติใด ๆ สำหรับการใช้งานหน้าต่างนี้">
-<!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName; จะไม่จดจำประวัติใด ๆ สำหรับหน้าต่างท่องเว็บแบบส่วนตัว">
-
-<!ENTITY aboutPrivateBrowsing.description      "นั้นรวมถึงประวัติการดูเว็บ ประวัติการค้นหา ประวัติการดาวน์โหลด ประวัติการกรอกแบบฟอร์ม คุกกี้ หรือแฟ้มอินเทอร์เน็ตชั่วคราวใด ๆ อย่างไรก็ตาม ก็จะยังเก็บแฟ้มที่คุณดาวน์โหลดและที่คั่นหน้าที่คุณเพิ่มไว้">
-
 <!ENTITY aboutPrivateBrowsing.notPrivate       "คุณไม่ได้อยู่ในหน้าต่างท่องเว็บแบบส่วนตัว">
-
-<!ENTITY aboutPrivateBrowsing.moreInfo         "แม้คอมพิวเตอร์เครื่องนี้จะไม่บันทึกประวัติการดูเว็บของคุณแล้วก็ตาม ผู้ให้บริการอินเทอร์เน็ตที่คุณใช้หรือนายจ้างของคุณจะยังสามารถติดตามประวัติการดูเว็บของคุณได้อยู่">
-<!ENTITY aboutPrivateBrowsing.learnMore        "เรียนรู้เพิ่มเติม">
-
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "เปิดหน้าต่างใหม่ท่องเว็บแบบส่วนตัว">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "ส">
+
+<!ENTITY privateBrowsing.title                 "การดูเว็บแบบส่วนตัว">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
+     Width of the Private Browsing section.
+     -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
+     aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
+     These strings will be replaced by aboutPrivateBrowsing.forgotten and
+     aboutPrivateBrowsing.kept when the new visual design lands (bug 1192625).
+     -->
+
+<!ENTITY aboutPrivateBrowsing.title            "คุณกำลังท่องเว็บแบบส่วนตัว">
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.history     "ประวัติ">
+
+<!ENTITY aboutPrivateBrowsing.info.cookies     "คุกกี้">
+
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.bookmarks   "ที่คั่นหน้า">
+
+<!ENTITY aboutPrivateBrowsing.learnMore        "เรียนรู้เพิ่มเติม">
+<!-- LOCALIZATION NOTE (trackingProtection.width):
+     Width of the Tracking Protection section. This should be enough to
+     accommodate the title as well as the enabled or disabled indicator.
+     -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.state.width):
+     Width of the element representing the enabled or disabled indicator.
+     -->
+
+
+
+
+
+

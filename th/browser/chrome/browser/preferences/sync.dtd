@@ -16,7 +16,6 @@
 
 <!ENTITY manageAccount.label          "จัดการบัญชีผู้ใช้">
 <!ENTITY manageAccount.accesskey      "ก">
-<!ENTITY viewQuota.label              "ดูโควตา">
 <!ENTITY changePassword2.label        "เปลี่ยนรหัสผ่าน…">
 <!ENTITY myRecoveryKey.label          "กุญแจกู้ข้อมูลของฉัน">
 <!ENTITY resetSync2.label             "ล้าง Sync…">
@@ -26,8 +25,6 @@
 <!ENTITY syncMy.label               "ผสานข้อมูล">
 <!ENTITY engine.bookmarks.label     "ที่คั่นหน้า">
 <!ENTITY engine.bookmarks.accesskey "ค">
-<!ENTITY engine.readinglist.label   "รายการอ่าน">
-<!ENTITY engine.readinglist.accesskey "า">
 <!ENTITY engine.tabs.label          "แท็บ">
 <!ENTITY engine.tabs.accesskey      "ท">
 <!ENTITY engine.history.label       "ประวัติ">
@@ -74,13 +71,24 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "คุณยังไม่ได้เข้าใช้งาน">
 <!ENTITY signIn.label                "เข้าใช้งาน">
+
 <!ENTITY manage.label                "จัดการ">
 <!ENTITY disconnect.label            "ยกเลิกการเชื่อมต่อ…">
 <!ENTITY verify.label                "ตรวจความถูกต้องของอีเมล">
 <!ENTITY forget.label                "ลืมอีเมลนี้">
 
 <!ENTITY welcome.description "เข้าถึงแท็บ ที่คั่นหน้า รหัสผ่าน และมากกว่า ในทุก ๆ ที่ที่คุณใช้ &brandShortName;">
-<!ENTITY welcome.signIn.label "เข้าระบบ">
-<!ENTITY welcome.createAccount.label "สร้างบัญชีผู้ใช้">
+
+
 
 <!ENTITY welcome.useOldSync.label "ใช้ Sync รุ่นเก่าอยู่?">
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+
+
