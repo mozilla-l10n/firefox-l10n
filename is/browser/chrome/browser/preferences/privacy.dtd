@@ -4,12 +4,14 @@
 
 <!ENTITY tracking.label                 "Fylgjast með">
 
-<!ENTITY dntTrackingNotOkay.label2      "Segja vefsvæðum að ég vilji ekki láta fylgjast með mér">
-<!ENTITY dntTrackingNotOkay.accesskey   "m">
-<!ENTITY trackingProtection.label       "Koma í veg fyrir að vefsvæði fylgist með mér">
-<!ENTITY trackingProtection.accesskey   "m">
-<!ENTITY trackingProtectionLearnMore.label "Fræðast meira">
-<!ENTITY doNotTrackInfo.label           "Fræðast meira">
+
+<!ENTITY doNotTrackInfo.label          "Fræðast meira">
+
+
+
+
+
+
 
 <!ENTITY  history.label                 "Ferill">
 
@@ -24,6 +26,8 @@
 <!ENTITY  locbar.openpage.accesskey     "O">
 <!ENTITY  locbar.searches.label         "Sambærileg leit frá sjálfgefnu leitarvélinni">
 <!ENTITY  locbar.searches.accesskey     "æ">
+
+
 
 <!ENTITY  acceptCookies.label           "Þiggja smákökur frá vefsvæðum">
 <!ENTITY  acceptCookies.accesskey       "Þ">
