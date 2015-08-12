@@ -560,8 +560,8 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_connection_secure "Захищене з’єднання">
-<!ENTITY identity_connection_insecure "Незахищене з’єднання">
+<!ENTITY identity_connection_secure "Захищене з\’єднання">
+<!ENTITY identity_connection_insecure "Незахищене з\’єднання">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all "&brandShortName; заблокував небезпечні елементи на цій сторінці.">
@@ -693,14 +693,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Restrictions -->
 <!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
-<!ENTITY restriction_disallow_import_settings_title2 "Вимкнути "Імпорт з Android"">
+<!ENTITY restriction_disallow_import_settings_title2 "Вимкнути \'Імпорт з Android\'">
 <!ENTITY restriction_disallow_addons_title2 "Вимкнути встановлення додатку">
 <!ENTITY restriction_disallow_devtools_title2 "Вимкнути інструменти розробника">
 <!ENTITY restriction_disallow_customize_home_title2 "Вимкнути налаштування домашнього екрана">
 <!ENTITY restriction_disallow_private_browsing_title2 "Вимкнути приватний перегляд">
 <!ENTITY restriction_disallow_location_services_title2 "Вимкнути служби розташування">
 <!ENTITY restriction_disallow_display_settings_title2 "Вимкнути налаштування екрана">
-<!ENTITY restriction_disallow_clear_history_title2 "Вимкнути "Стерти історію перегляду"">
+<!ENTITY restriction_disallow_clear_history_title2 "Вимкнути \'Стерти історію перегляду\'">
 <!ENTITY restriction_disallow_master_password_title2 "Вимкнути головний пароль">
 <!ENTITY restriction_disallow_guest_browsing_title2 "Вимкнути гостьовий перегляд">
 
