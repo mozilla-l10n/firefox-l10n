@@ -52,8 +52,6 @@ that require it.  -->
 <!ENTITY itemHistoryAndDownloads.accesskey "I">
 <!ENTITY itemFormSearchHistory.label       "Istoricul formularelor și al căutărilor">
 <!ENTITY itemFormSearchHistory.accesskey   "f">
-<!ENTITY itemPasswords.label               "Parolele salvate">
-<!ENTITY itemPasswords.accesskey           "P">
 <!ENTITY itemCookies.label                 "Cookie-urile">
 <!ENTITY itemCookies.accesskey             "C">
 <!ENTITY itemCache.label                   "Cache-ul">

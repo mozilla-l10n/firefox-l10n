@@ -4,12 +4,14 @@
 
 <!ENTITY tracking.label                 "Urmărire">
 
-<!ENTITY dntTrackingNotOkay.label2      "Anunță saiturile că nu doresc să fiu urmărit">
-<!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY trackingProtection.label       "Împiedicați saiturile să mă urmărească">
-<!ENTITY trackingProtection.accesskey   "m">
-<!ENTITY trackingProtectionLearnMore.label "Aflați mai multe">
-<!ENTITY doNotTrackInfo.label           "Află mai multe">
+
+<!ENTITY doNotTrackInfo.label          "Află mai multe">
+
+
+
+
+
+
 
 <!ENTITY  history.label                 "Istoric">
 
@@ -22,6 +24,8 @@
 <!ENTITY  locbar.bookmarks.accesskey    "S">
 <!ENTITY  locbar.openpage.label         "Deschide filele">
 <!ENTITY  locbar.openpage.accesskey     "D">
+
+
 
 
 
