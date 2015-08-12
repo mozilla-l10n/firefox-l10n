@@ -31,14 +31,12 @@
 <!ENTITY alwaysAsk.label "שאל תמיד היכן לשמור קבצים">
 <!ENTITY alwaysAsk.accesskey "ה">
 
-<!ENTITY alwaysCheckDefault2.label        "תמיד לבדוק אם &brandShortName; הוא דפדפן בררת מחדל">
-<!ENTITY alwaysCheckDefault2.accesskey    "ת">
-<!ENTITY setAsMyDefaultBrowser2.label     "להגדיר כדפדפן בררת מחדל">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "מ">
-<!ENTITY isDefault.label                  "&brandShortName; הוא דפדפן בררת המחדל שלך">
-<!ENTITY isNotDefault.label               "&brandShortName; אינו דפדפן בררת המחדל שלך">
 
-<!ENTITY separateProfileMode.label        "לאפשר ל־&brandShortName; ול־Firefox לרוץ במקביל">
-<!ENTITY useFirefoxSync.label             "טיפ: פעולה זו מתאפשרת תודות ליצירה של שני פרופילים נפרדים. ניתן להשתמש ב־Sync כדי לסנכרן נתונים בניהם.">
-<!ENTITY getStarted.label                 "התחלת שימוש ב־Sync…">
+
+
+<!ENTITY isDefault.label                  "&brandShortName; כרגע דפדפן ברירת המחדל שלך">
+
+
+
+
 

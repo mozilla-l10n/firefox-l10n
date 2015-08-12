@@ -1,27 +1,30 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-<!ENTITY aboutPrivateBrowsing.notPrivate       "אינך כעת בחלון גלישה פרטית.">
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "פתיחת חלון פרטי">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "פ">
 
-
+<!ENTITY privateBrowsing.title                 "גלישה פרטית">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
      Width of the Private Browsing section.
      -->
-
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
      aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
      These strings will be replaced by aboutPrivateBrowsing.forgotten and
      aboutPrivateBrowsing.kept when the new visual design lands (bug 1192625).
      -->
-<!ENTITY aboutPrivateBrowsing.title            "מצב גלישה פרטית מופעל!">
-<!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; לא יזכור היסטוריה כלשהי בחלון זה.">
 
 
 
-<!ENTITY aboutPrivateBrowsing.learnMore        "מידע נוסף.">
+<!ENTITY aboutPrivateBrowsing.info.history     "היסטוריה">
+
+<!ENTITY aboutPrivateBrowsing.info.cookies     "עוגיות">
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.downloads   "הורדות">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks   "סימניות">
+
 
 <!-- LOCALIZATION NOTE (trackingProtection.width):
      Width of the Tracking Protection section. This should be enough to
@@ -31,5 +34,9 @@
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
+
+
+
+
 
 
