@@ -4,6 +4,35 @@
 
 
 
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
+     Width of the Private Browsing section.
+     -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
+     aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
+     These strings will be replaced by aboutPrivateBrowsing.forgotten and
+     aboutPrivateBrowsing.kept when the new visual design lands (bug 1192625).
+     -->
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.history     "Amateka">
+
+<!ENTITY aboutPrivateBrowsing.info.cookies     "Dosiyenyibutsa">
+
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.bookmarks   "Utumenyetso">
+
+
+<!-- LOCALIZATION NOTE (trackingProtection.width):
+     Width of the Tracking Protection section. This should be enough to
+     accommodate the title as well as the enabled or disabled indicator.
+     -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.state.width):
+     Width of the element representing the enabled or disabled indicator.
+     -->
 
 
 
