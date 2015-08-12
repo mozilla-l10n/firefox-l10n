@@ -110,7 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "z">
 
 <!ENTITY fxaSignIn.label "Hasi saioa &syncBrand.shortName.label;(e)n">
-
+<!ENTITY fxaSignedIn.tooltip "Ireki &syncBrand.shortName.label; hobespenak">
 <!ENTITY fxaSignInError.label "Birkonektatu &syncBrand.shortName.label;(e)ra">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; gaituta">
 <!ENTITY syncStartPanel2.subTitle "Une batetik bestera hasiko da sinkronizatzen &brandShortName;.">
@@ -395,7 +395,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Aldatu fitxara:">
 
-
+<!ENTITY urlbar.searchSuggestionsNotification.question "Bilaketen esperientzia hobetu nahi duzu gomendioekin?">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Argibide gehiago…">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Ez">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Bai">
 <!-- 
@@ -426,6 +427,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      These are set as the aria-label attribute for the search input box and
      submit button in the in-content search UI, to be used by screen readers. -->
 
+<!ENTITY contentSearchInput.label     "Bilaketa-katea">
+<!ENTITY contentSearchSubmit.label    "Bidali bilaketa">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -641,6 +644,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "x">
 
+<!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "Orriaren estiloa">
 <!ENTITY pageStyleMenu.accesskey "e">
@@ -680,11 +684,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "Eginda">
 <!ENTITY editBookmark.cancel.label                   "Utzi">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "K">
 
 <!ENTITY identity.connectionSecure "Konexio segurua">
 <!ENTITY identity.connectionNotSecure "Konexioa ez da segurua">
-
+<!ENTITY identity.connectionFile "Orri hau zure ordenagailuan biltegiratuta dago.">
 <!ENTITY identity.connectionVerified "&brandShortName;(e)k egiaztatu du gune honetara modu segurua konektatuta zaudela. Arduraduna:">
 <!ENTITY identity.connectionInternal "&brandShortName; orri segurua da hau.">
 <!-- Strings for connection state warnings. -->
