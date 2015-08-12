@@ -4,12 +4,14 @@
 
 <!ENTITY tracking.label                 "Jarraipena">
 
-<!ENTITY dntTrackingNotOkay.label2      "Esan guneei nire jarraipenik ez egiteko">
-<!ENTITY dntTrackingNotOkay.accesskey   "i">
-<!ENTITY trackingProtection.label       "Eragotzi guneek nire jarraipena egitea">
-<!ENTITY trackingProtection.accesskey   "z">
-<!ENTITY trackingProtectionLearnMore.label "Argibide gehiago">
-<!ENTITY doNotTrackInfo.label           "Argibide gehiago">
+
+<!ENTITY doNotTrackInfo.label          "Argibide gehiago">
+
+
+
+
+
+
 
 <!ENTITY  history.label                 "Historia">
 
@@ -24,6 +26,8 @@
 <!ENTITY  locbar.openpage.accesskey     "I">
 <!ENTITY  locbar.searches.label         "Bilaketa-motor lehenetsiko erlazionatutako bilaketak">
 <!ENTITY  locbar.searches.accesskey     "z">
+
+
 
 <!ENTITY  acceptCookies.label           "Onartu guneetako cookieak">
 <!ENTITY  acceptCookies.accesskey       "O">

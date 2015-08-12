@@ -171,11 +171,6 @@
 
 <!ENTITY options.stylesheetAutocompletion.label      "CSSaren osatze automatikoa">
 <!ENTITY options.stylesheetAutocompletion.tooltip    "Osatu automatikoki idatzi ahala CSS propietateak, balioak eta hautatzaileak estiloen editorean">
-<!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
-  -  heading of the group of JavaScript Profiler preferences in the options
-  -  panel. -->
-
-<!ENTITY options.profiler.label            "JavaScript analizatzailea">
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->
