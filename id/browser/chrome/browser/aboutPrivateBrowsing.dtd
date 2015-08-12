@@ -2,18 +2,44 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.title            "Anda sedang menjelajah dalam mode pribadi">
-<!ENTITY aboutPrivateBrowsing.title.normal     "Buka jendela pribadi?">
-
-<!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; tidak akan mengingat riwayat apa pun untuk jendela ini.">
-<!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName; tidak akan mengingat riwayat apa pun untuk jendela pribadi.">
-
-<!ENTITY aboutPrivateBrowsing.description      "Riwayat ini mencakup riwayat penjelajahan, riwayat pencarian, riwayat unduhan, riwayat formulir web, kuki, dan berkas Internet sementara. Tetapi berkas yang diunduh dan markah yang disimpan tetap akan tersimpan.">
-
 <!ENTITY aboutPrivateBrowsing.notPrivate       "Anda tidak sedang dalam jendela pribadi.">
-
-<!ENTITY aboutPrivateBrowsing.moreInfo         "Walau komputer ini tidak memiliki rekaman atas riwayat Anda, kantor atau layanan penyedia jasa internet tetap dapat melacak laman yang Anda kunjugi.">
-<!ENTITY aboutPrivateBrowsing.learnMore        "Pelajari Lebih Lanjut.">
-
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Buka Jendela Pribadi">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
+
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
+     Width of the Private Browsing section.
+     -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
+     aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
+     These strings will be replaced by aboutPrivateBrowsing.forgotten and
+     aboutPrivateBrowsing.kept when the new visual design lands (bug 1192625).
+     -->
+
+<!ENTITY aboutPrivateBrowsing.title            "Anda sedang menjelajah dalam mode pribadi">
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.history     "Riwayat">
+
+<!ENTITY aboutPrivateBrowsing.info.cookies     "Kuki">
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.downloads   "Unduhan">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks   "Daftar Markah">
+
+<!ENTITY aboutPrivateBrowsing.learnMore        "Pelajari Lebih Lanjut.">
+<!-- LOCALIZATION NOTE (trackingProtection.width):
+     Width of the Tracking Protection section. This should be enough to
+     accommodate the title as well as the enabled or disabled indicator.
+     -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.state.width):
+     Width of the element representing the enabled or disabled indicator.
+     -->
+
+
+
+
+
+
