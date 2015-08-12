@@ -16,7 +16,6 @@
 
 <!ENTITY manageAccount.label          "Կարգավորեք հաշիվը">
 <!ENTITY manageAccount.accesskey      "ր">
-<!ENTITY viewQuota.label              "Դիտել սահ-ը">
 <!ENTITY changePassword2.label        "Փոխել Գաղտնաբառը…">
 <!ENTITY myRecoveryKey.label          "Վերականգնող իմ բանալին">
 <!ENTITY resetSync2.label             "Վերակայել Սինքը...">
@@ -26,8 +25,6 @@
 <!ENTITY syncMy.label               "Սինք իմ՝">
 <!ENTITY engine.bookmarks.label     "Էջանիշերը">
 <!ENTITY engine.bookmarks.accesskey "ն">
-<!ENTITY engine.readinglist.label   "Ընթերցացուցակ">
-<!ENTITY engine.readinglist.accesskey "ո">
 <!ENTITY engine.tabs.label          "Ներդիրները">
 <!ENTITY engine.tabs.accesskey      "Ն">
 <!ENTITY engine.history.label       "Պատմությունը">
@@ -74,13 +71,24 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Դուք մուտք չեք գործել:">
 <!ENTITY signIn.label                "Մուտք գործել">
+
 <!ENTITY manage.label                "Կառավարել">
 <!ENTITY disconnect.label            "Անջատել...">
 <!ENTITY verify.label                "Հաստատել էլ. փոստը">
 <!ENTITY forget.label                "Մոռանալ այս էլ. փոստը">
 
 <!ENTITY welcome.description "Մուտք գործեք ձեր ներդիրներին, էջանիշերին, գաղտնաբառերին՝ ցանկացած վայրից &brandShortName;-ը օգտագործելիս: ">
-<!ENTITY welcome.signIn.label "Մտնել">
-<!ENTITY welcome.createAccount.label "Ստեղծել հաշիվ">
+
+
 
 <!ENTITY welcome.useOldSync.label "Օգտագործու՞մ եք Սինքի հին տարբերակը:">
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+
+
