@@ -240,7 +240,7 @@
       clear the data and unsubscribing means just taking it out of the calendar
       list. -->
 <!ENTITY calendar.context.removeserver.label           "Agenda verwijderen…">
-<!ENTITY calendar.context.removeserver.accesskey       "v">
+<!ENTITY calendar.context.removeserver.accesskey       "r">
 <!ENTITY calendar.context.unsubscribeserver.label      "Agenda afmelden…">
 <!ENTITY calendar.context.unsubscribeserver.accesskey  "f">
 <!ENTITY calendar.context.synccalendars.label          "Agenda’s synchroniseren">
@@ -254,15 +254,15 @@
 
 <!-- LOCALIZATION NOTE (calendar.context.showcalendar.accesskey)
      This is the access key used for the showCalendar string -->
-<!ENTITY calendar.context.showcalendar.accesskey      "e">
+<!ENTITY calendar.context.showcalendar.accesskey      "t">
 
 <!-- LOCALIZATION NOTE (calendar.context.hidecalendar.accesskey)
      This is the access key used for the hideCalendar string -->
-<!ENTITY calendar.context.hidecalendar.accesskey      "e">
+<!ENTITY calendar.context.hidecalendar.accesskey      "v">
 
 <!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
      This is the access key used for the showOnlyCalendar string -->
-<!ENTITY calendar.context.showonly.accesskey           "n">
+<!ENTITY calendar.context.showonly.accesskey           "o">
 <!ENTITY calendar.context.showall.label                "Alle agenda’s tonen">
 <!ENTITY calendar.context.showall.accesskey            "A">
 
