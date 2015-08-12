@@ -10,6 +10,18 @@
 # live.
 
 
+#define bookmarks_title Bookmarks
+
+
+#define bookmarks_heading Bookmarks
+
+
+#define bookmarks_toolbarfolder Bookmarks Toolbar Folder
+
+
+#define bookmarks_toolbarfolder_description Add bookmarks to this folder to see them displayed on the Bookmarks Toolbar
+
+
 # LOCALIZATION NOTE (getting_started):
 
 
@@ -34,60 +46,34 @@
 # link title for https://www.mozilla.org/en-US/firefox/help/
 
 
+#define firefox_help Help and Tutorials
+
 
 # LOCALIZATION NOTE (firefox_customize):
-
 
 
 # link title for https://www.mozilla.org/en-US/firefox/customize/
 
 
+#define firefox_customize Customize Firefox
 
 
 # LOCALIZATION NOTE (firefox_community):
 
 
-
-
 # link title for https://www.mozilla.org/en-US/contribute/
 
 
-
+#define firefox_community Get Involved
 
 
 # LOCALIZATION NOTE (firefox_about):
 
 
-
-
-
 # link title for https://www.mozilla.org/en-US/about/
 
 
-
-
-
-
-# LOCALIZATION NOTE (firefox_feedback):
-
-
-
-
-
-
-# link title for browser feedback page
-
-
-
-
-
-
-# currently used by Metro only: https://input.mozilla.org/feedback/metrofirefox
-
-
-
-
-
+#define firefox_about About Us
 
 
 #unfilter emptyLines

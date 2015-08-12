@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  fontsDialog.title                       "எழுத்துருக்கள்">
-<!ENTITY  window.width                            "39em">
-<!ENTITY  window.macWidth                         "43em">
-<!ENTITY  window.unixWidth                        "41em">
 
 <!ENTITY  language.label                          "எழுத்துருக்கள்:">
 <!ENTITY  language.accesskey                      "F">
@@ -23,9 +20,8 @@
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "ஓரிடைவெளி">
 <!ENTITY  monospace.accesskey                     "M">
-
-<!ENTITY  font.langGroup.latin1                   "மேற்கத்திய">
-<!ENTITY  font.langGroup.latin2                   "மத்திய ஐரோப்பா">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
 <!ENTITY  font.langGroup.trad-chinese             "மரபுச் சீனம் (தைவான்)">
 
@@ -34,8 +30,6 @@
 
 
 
-
-<!ENTITY  font.langGroup.unicode                  "ஏனைய மொழிகள்">
 
 
 
@@ -50,6 +44,7 @@
 
 
 <!ENTITY  font.langGroup.malayalam                "மலையாளம்">
+
 <!ENTITY  font.langGroup.oriya                    "ஒரியா">
 <!ENTITY  font.langGroup.telugu                   "தெலுங்கு">
 <!ENTITY  font.langGroup.kannada                  "கன்னடம்">

@@ -5,22 +5,26 @@
 <!ENTITY tracking.label                 "தொடர்தல்">
 
 
+<!ENTITY doNotTrackInfo.label          "மேலும் அறிய">
 
 
 
 
-<!ENTITY doNotTrackInfo.label           "மேலும் அறிய">
 
-<!ENTITY  history.label                 "வரலாறு">
+
+
 
 <!ENTITY  locationBar.label             "இடப் பட்டை">
 
-<!ENTITY  locbar.pre.label              "இடப் பட்டையைப் பயன்படுத்தும்போது:">
-<!ENTITY  locbar.pre.accessKey          "u">
-<!ENTITY  locbar.post.label             "">
-<!ENTITY  locbar.both.label             "வரலாறு மற்றும் புத்தகக்குறிகள்">
 
-<!ENTITY  locbar.bookmarks.label        "புத்தகக்குறிகள்">
+
+
+
+
+
+
+
+
 
 
 

@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 
@@ -17,6 +18,8 @@
 
 <!ENTITY cmd.back.tooltip                     "ஒரு பக்கம் பின்னால் செல்">
 <!ENTITY cmd.forward.tooltip                  "ஒரு பக்கம் முன்னே செல்க">
+
+
 <!-- global warnings -->
 
 
@@ -56,6 +59,7 @@
 
 
 <!-- addon actions -->
+
 
 
 
@@ -185,5 +189,18 @@
      to cause this tab to appear. -->
 <!ENTITY experiment.info.learnmore "மேலும் அறிய">
 
+
+
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
+     These entities form a sentence, with
+     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
+     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
+     being a link to an external site. -->
 
 

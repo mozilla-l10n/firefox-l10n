@@ -26,17 +26,8 @@
 
 
 
-<!ENTITY systemDefaults.label            "கணினி பொது இருப்புகள்">
-<!--XXX-->
-<!ENTITY alwaysCheckDefault.label        "ஆரம்பத்தில் எப்போதும் &brandShortName; பொது இருப்பு உலாவியாக இருக்கிறதா என சரி பார்க்கவும்">
-<!ENTITY alwaysCheckDefault.accesskey    "w">
-<!ENTITY setDefault.label                "&brandShortName; இனை பொது இருப்பு உலாவியாக்குக">
-<!ENTITY setDefault.accesskey            "d">
-<!ENTITY isDefault.label                 "தற்போதைய பொது இருப்பு உலாவி: &brandShortName;">
-
 <!ENTITY dataChoicesTab.label            "தரவு தெரிவுகள்">
 
-<!ENTITY healthReportSection.label       "&brandShortName; ஆரோக்கிய அறிக்கை">
 <!ENTITY healthReportDesc.label          "உங்கள் உலாவியின் செயல்திறனைப் புரிந்துகொள்ளவும் உலாவியின் ஆரோக்கியத்தைப் பற்றி &vendorShortName; உடன் தரவைப் பகிர்ந்துகொள்ளவும் உதவுகிறது.">
 <!ENTITY enableHealthReport.label        "&brandShortName; ஆரோக்கிய அறிக்கையை இயல்புபடுத்தவும்">
 <!ENTITY enableHealthReport.accesskey    "R">
@@ -44,10 +35,8 @@
 
 
 
-
 <!ENTITY telemetryLearnMore.label        "மேலும் அறிய">
 
-<!ENTITY crashReporterSection.label      "முறிவு அறிக்கையாளர்">
 <!ENTITY crashReporterDesc.label         "&vendorShortName; உலாவியை மேலும் நிலைத்தன்மை கொண்டதாகவும் பாதுகாப்பானதாகவும் மாற்றுவதற்காக &brandShortName;  செயலிழப்பு அறிக்கைகளைச் சமர்ப்பிக்கும்">
 <!ENTITY enableCrashReporter.label       "செயலிழப்பு அறிக்கையாளரை இயல்புபடுத்தவும்">
 <!ENTITY enableCrashReporter.accesskey   "C">
@@ -84,13 +73,8 @@
 <!ENTITY updateTab.label                 "இற்றைப்படுத்துக">
 
 <!ENTITY updateApp.label                 "&amp; brandShortName; இற்றைப்படுத்தல்கள்:">
-<!-- Note either updateAuto1 is used or (updateAutoMetro and updateAutoDesktop),
-     so re-using accesss key in updateAuto1 is OK. updateAutoDesktop can be found
-     in preferences.properties -->
 <!ENTITY updateAuto1.label               "தானாக இற்றைப்படுத்துக (பாதுகாப்புக் காரணங்களுக்காகப் பரிந்துரைக்கப்பட்டுள்ளது) ">
 <!ENTITY updateAuto1.accesskey           "A">
-
-
 <!ENTITY updateCheck.label               "இற்றைப்படுத்தல்கள் உள்ளதா எனப் பார்க்க, ஆனால் அவற்றை நிறுவ வேண்டுமா என்பதை நான் முடிவெடுக்கிறேன்.">
 <!ENTITY updateCheck.accesskey           "C">
 <!ENTITY updateManual.label              "இற்றைப்படுத்தல்களுக்காக பரிசோதிக்கவேண்டும். (பரிந்துரைக்கப்படவில்லை: ஆபத்தானது)">
@@ -98,7 +82,6 @@
 
 <!ENTITY updateAutoAddonWarn.label       "இது என் செருகல்கள் எதையேனும் முடக்கும் எனில் எச்சரிக்கை செய்க">
 <!ENTITY updateAutoAddonWarn.accesskey   "W">
-
 
 <!ENTITY updateHistory.label             "இற்றைப்படுத்தல் வரலாற்றைக் காட்டுக">
 <!ENTITY updateHistory.accesskey         "p">
@@ -122,6 +105,7 @@
 <!ENTITY offlineAppRemove.confirm        "இணைப்பில்லா தரவை நீக்குக">
 
 <!ENTITY certificateTab.label            "சான்றிதழ்கள்">
+
 <!ENTITY certSelection.description       "ஒரு சேவையகம் என் தனிப்பட்ட சான்றிதழைக் கேட்பின்:">
 <!ENTITY certs.auto                      "தானாக ஒன்றைத் தெரிவுசெய்க">
 
@@ -129,7 +113,7 @@
 
 
 
-<!ENTITY verify2.label                   "சரிபார்த்தல்">
-<!ENTITY verify2.accesskey               "V">
+
+
 
 

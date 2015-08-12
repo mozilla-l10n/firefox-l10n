@@ -27,10 +27,13 @@
 
 
 
-
 <!ENTITY engine.addons.label        "செருகல்கள்">
 <!ENTITY engine.addons.accesskey    "A">
 <!-- Device Settings -->
+
+
+
+
 
 
 <!-- Footer stuff -->
@@ -61,5 +64,16 @@ both, to better adapt this sentence to their language.
 
 
 
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
 
 
