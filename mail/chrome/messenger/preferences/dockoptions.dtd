@@ -13,3 +13,4 @@
 <!ENTITY showAllUnreadMessagesCount.accesskey  "u">
 <!ENTITY dockIconBadge.label                   "Značka aplikacijske ikone">
 <!ENTITY dockIconShow.label                    "Označi aplikacijsku ikonu s:">
+<!ENTITY directNotificationSettings.label      "Možete onemogućiti značku u okviru obavijesti u postavkama sustava.">
