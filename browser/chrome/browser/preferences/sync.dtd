@@ -16,7 +16,6 @@
 
 <!ENTITY manageAccount.label          "Stiùirich an cunntas">
 <!ENTITY manageAccount.accesskey      "a">
-<!ENTITY viewQuota.label              "Seall an cuota">
 <!ENTITY changePassword2.label        "Atharraich am facal-faire…">
 <!ENTITY myRecoveryKey.label          "M' iuchair aisig">
 <!ENTITY resetSync2.label             "Ath-shuidhich an sioncronachadh…">
@@ -26,8 +25,6 @@
 <!ENTITY syncMy.label               "Sioncronaich">
 <!ENTITY engine.bookmarks.label     "na comharran-lìn agam">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.readinglist.label   "an liosta leughaidh">
-<!ENTITY engine.readinglist.accesskey "l">
 <!ENTITY engine.tabs.label          "na tabaichean agam">
 <!ENTITY engine.tabs.accesskey      "t">
 <!ENTITY engine.history.label       "an eachdraidh agam">
@@ -74,13 +71,24 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Cha do rinn thu clàradh a-steach.">
 <!ENTITY signIn.label                "Clàraich a-steach">
+
 <!ENTITY manage.label                "Stiùirich">
 <!ENTITY disconnect.label            "Dì-cheangail…">
 <!ENTITY verify.label                "Dearbh am post-d">
 <!ENTITY forget.label                "Dìochuimhnich am post-d seo">
 
 <!ENTITY welcome.description "Faigh cothrom air na tabaichean. comharran-lìn, faclan-faire is mòran a bharrachd ge be càit an cleachd thu &brandShortName;.">
-<!ENTITY welcome.signIn.label "Clàraich a-steach">
-<!ENTITY welcome.createAccount.label "Cruthaich cunntas">
+
+
 
 <!ENTITY welcome.useOldSync.label "A' cleachdadh seann-tionndadh dhen ghleus sioncronachaidh?">
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+
+
