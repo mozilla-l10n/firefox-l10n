@@ -71,24 +71,28 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Nid ydych wedi mewngofnodi.">
 <!ENTITY signIn.label                "Mewngofnodi">
-
+<!ENTITY profilePicture.tooltip      "Newid llun proffil">
 <!ENTITY manage.label                "Rheoli">
 <!ENTITY disconnect.label            "Datgysylltu…">
 <!ENTITY verify.label                "Dilysu E-bost">
 <!ENTITY forget.label                "Anghofiwch yr E-bost hwn">
 
 <!ENTITY welcome.description "Cewch fynediad at eich tabiau, nodau tudalen, cyfrineiriau a mwy lle bynnag fyddwch yn defnyddio &brandShortName;.">
-
-
+<!ENTITY welcome.signIn.label "Mewngofnodi">
+<!ENTITY welcome.createAccount.label "Creu Cyfrif">
 
 <!ENTITY welcome.useOldSync.label "Defnyddio hen fersiwn o Sync?">
 
+<!ENTITY signedOut.caption            "Cymrwch eich Gwe gyda chi">
+<!ENTITY signedOut.description        "Cydweddwch eich nodau tudalen, hanes, tabiau, cyfrineiriau, ychwanegion a dewisiadau ymysg eich dyfeisiau i gyd.">
+<!ENTITY signedOut.accountBox.title   "Cysylltwch gyda &syncBrand.fxAccount.label;">
+<!ENTITY signedOut.accountBox.create  "Creu Cyfrif">
+<!ENTITY signedOut.accountBox.signin  "Mewngofnodi">
 
+<!ENTITY signedIn.engines.label       "Cydweddu pob dyfais">
 
-
-
-
-
+<!ENTITY mobilePromo.start            "Llwytho Firefox i lawr ar gyfer ">
 <!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
-
-
+<!ENTITY mobilePromo.androidLink      "Android™">
+<!ENTITY mobilePromo.end              " i gydweddu gyda'ch dyfais symudol.">
+<!ENTITY androidAttribution           "Mae Android yn nod masnachu Google Inc.">
