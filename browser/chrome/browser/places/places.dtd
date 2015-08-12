@@ -85,7 +85,6 @@
 <!ENTITY col.url.label           "Lokasi">
 <!ENTITY col.mostrecentvisit.label "Antara Selalu Dilawati">
 <!ENTITY col.visitcount.label    "Bilangan Melawat">
-<!ENTITY col.keyword.label       "Kata kunci">
 <!ENTITY col.description.label   "Huraian">
 <!ENTITY col.dateadded.label     "Menambah">
 <!ENTITY col.lastmodified.label  "Selepas pengubahsuaian">

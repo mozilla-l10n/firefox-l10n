@@ -75,6 +75,12 @@
 <!ENTITY btnConsoleLog          "Log">
 <!ENTITY btnConsoleXhr          "XHR">
 <!ENTITY btnConsoleReflows      "Atur Semula">
+<!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
+  -  should not be translated. -->
+<!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
+  -  should not be translated. -->
+<!-- LOCALIZATION NODE (btnConsoleWindowlessWorkers) the term "Workers"
+  -  should not be translated. -->
 
 <!ENTITY filterOutput.placeholder "Penapis output">
 <!ENTITY btnClear.label        "Bersih">
@@ -98,3 +104,5 @@
 <!ENTITY closeCmd.key         "W">
 <!ENTITY findCmd.key          "F">
 <!ENTITY clearOutputCtrl.key  "L">
+
+

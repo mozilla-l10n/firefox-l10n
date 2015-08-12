@@ -4,15 +4,21 @@
 
 <!ENTITY tracking.label                 "Penjejakan">
 
-<!ENTITY dntTrackingNotOkay.label2      "Beritahu laman saya tidak mahu dijejaki">
-<!ENTITY dntTrackingNotOkay.accesskey   "n">
+
+<!ENTITY doNotTrackInfo.label          "Ketahui Lanjut">
 
 
 
-<!ENTITY doNotTrackInfo.label           "Ketahui Lanjut">
+
+
+
 
 
 <!ENTITY  locationBar.label             "Bar Lokasi">
+
+
+
+
 
 
 
