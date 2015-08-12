@@ -73,7 +73,14 @@
 <!ENTITY btnConsoleInfo         "তথ্য">
 <!ENTITY btnConsoleWarnings     "সতৰ্কবাৰ্তাসমূহ">
 <!ENTITY btnConsoleLog          "লগ">
+<!ENTITY btnConsoleXhr          "XHR">
 <!ENTITY btnConsoleReflows      "ৰিফ্ল">
+<!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
+  -  should not be translated. -->
+<!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
+  -  should not be translated. -->
+<!-- LOCALIZATION NODE (btnConsoleWindowlessWorkers) the term "Workers"
+  -  should not be translated. -->
 
 <!ENTITY filterOutput.placeholder "আউটপুট ফিল্টাৰ কৰক">
 <!ENTITY btnClear.label        "আতৰাওক">
@@ -97,3 +104,5 @@
 <!ENTITY closeCmd.key         "W">
 <!ENTITY findCmd.key          "F">
 <!ENTITY clearOutputCtrl.key  "L">
+
+

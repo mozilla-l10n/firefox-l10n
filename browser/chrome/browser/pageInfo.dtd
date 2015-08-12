@@ -22,7 +22,7 @@
 <!ENTITY  generalReferrer       "উল্লেখ কৰা URL:">
 <!ENTITY  generalSource         "ক্যাশৰ উৎস:">
 <!ENTITY  generalModified       "সলনি কৰা হ'ল:">
-<!ENTITY  generalEncoding       "এনক'ডিং:">
+
 <!ENTITY  generalMetaName       "নাম">
 <!ENTITY  generalMetaContent    "বিষয়বস্তু">
 
@@ -83,3 +83,5 @@
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 
 <!ENTITY  securityView.technical.header                 "কাৰিকৰী বিৱৰণসমূহ">
+
+<!ENTITY  helpButton.label                              "সহায়">

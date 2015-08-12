@@ -4,6 +4,7 @@
 <!ENTITY addons.windowTitle                   "এড-অনসমূহৰ ব্যৱস্থাপক">
 
 <!ENTITY search.placeholder                   "সকলো এড-অন সন্ধান কৰক">
+
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
@@ -21,6 +22,8 @@
 
 <!ENTITY cmd.back.tooltip                     "এটা পৃষ্ঠা পিছলৈ যাওক">
 <!ENTITY cmd.forward.tooltip                  "এটা পৃষ্ঠা আগলৈ যাওক">
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "সকলো এড-অন সুৰক্ষিত অৱস্থা দ্বাৰা অসামৰ্থবান">
@@ -35,8 +38,6 @@
 <!ENTITY info.plugincheck.label                 "আপোনাৰ প্লাগিনসমূহ বৰ্তমান তাৰিখলে উন্নত নে চাবলে নীৰিক্ষণ কৰক">
 <!ENTITY info.plugincheck.tooltip               "আপোনাৰ প্লাগিনসমূহ বৰ্তমান তাৰিখলে উন্নত নে চাবলে নীৰিক্ষণ কৰক">
 <!-- categories / views -->
-
-<!ENTITY view.search.label                    "সন্ধান কৰক">
 <!ENTITY view.discover.label                  "এড-অনসমূহ প্ৰাপ্ত কৰক">
 <!ENTITY view.recentUpdates.label             "শেহতীয়া আপডেইটসমূহ">
 <!ENTITY view.availableUpdates.label          "উপলব্ধ আপডেইটসমূহ">
@@ -101,7 +102,8 @@
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "আতৰাওক">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
-<!ENTITY cmd.debugAddon.label                 "ডিবাগ কৰক">
+
+
 <!ENTITY cmd.showPreferencesWin.label         "বিকল্পসমূহ">
 <!ENTITY cmd.showPreferencesWin.tooltip       "এই এড-অনৰ বিকল্পসমূহ পৰিৱৰ্তন কৰক">
 <!ENTITY cmd.showPreferencesUnix.label        "পছন্দসমূহ">
@@ -228,3 +230,16 @@
 <!ENTITY experiment.info.learnmore.accesskey "L">
 <!ENTITY experiment.info.changetelemetry "টেলিমেট্ৰি সংহতিসমূহ">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
+     These entities form a sentence, with
+     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
+     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
+     being a link to an external site. -->
+
+

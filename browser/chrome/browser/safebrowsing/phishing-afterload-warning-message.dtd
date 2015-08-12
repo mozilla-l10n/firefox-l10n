@@ -12,6 +12,9 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "<span id='malware_sitename'/> ত থকা ৱেব ছাইট এটা আক্ৰমণৰ ছাইট হিচাপে প্ৰতিবেদন কৰা হৈছে আৰু আপোনাৰ সুৰক্ষাৰ পছন্দৰ মতে ৰোধ কৰা হৈছে।">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>আক্ৰমণৰ পৃষ্ঠায় প্ৰগ্ৰামসমূহ ইনস্টল কৰে যি গোপনীয় তথ্য চোৰ কৰে,অন্যক আক্ৰমণ কৰিবলৈ আপোনাৰ কমপিউটাৰ ব্যৱহাৰ কৰে, বা আপোনাৰ চিস্টেমৰ ক্ষতি কৰে।</p><p>কিছুমান আক্ৰমণৰ পৃষ্ঠায় পৰিকল্পিতভাবে ক্ষতি কৰা চফ্টৱেৰ বিতৰণ কৰে, কিন্তু বেছিৰভাগ পৃষ্ঠা, সিহঁতৰ গৰাকীৰ জ্ঞান বা আজ্ঞা নথকাকে আপোচ কৰা হ'ব পাৰে।</p>">
 
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+
+
 <!ENTITY safeb.blocked.phishingPage.title "প্ৰতিবেদন কৰা ৱেব জালিয়াতি!">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc "<span id='phishing_sitename'/> ত থকা ৱেব ছাইট এটা ৱেব জালিয়াতি হিচাপে প্ৰতিবেদন কৰা হৈছে আৰু আপোনাৰ সুৰক্ষাৰ পছন্দৰ মতে ৰোধ কৰা হৈছে।">

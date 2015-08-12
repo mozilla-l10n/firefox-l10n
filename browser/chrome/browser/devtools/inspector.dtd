@@ -55,20 +55,26 @@
      shown in the inspector contextual-menu for the item that lets users paste
      the HTML as the last child the current node -->
 
+<!-- LOCALIZATION NOTE (inspectorScrollNodeIntoView.label): This is the label
+     shown in the inspector contextual-menu for the item that lets users scroll
+     the current node into view -->
+
 <!-- LOCALIZATION NOTE (inspectorHTMLDelete.label): This is the label shown in
      the inspector contextual-menu for the item that lets users delete the
      current node -->
-
 
 <!ENTITY inspectorHTMLDelete.label          "ন'ড মচি পেলাওক">
 <!ENTITY inspectorHTMLDelete.accesskey      "D">
 
 <!ENTITY inspector.selectButton.tooltip     "উপাদানক মাউছৰ সৈতে নিৰ্বাচন কৰক">
-<!-- LOCALIZATION NOTE (inspectorSearchHTML.label): This is the label shown as
+<!-- LOCALIZATION NOTE (inspectorSearchHTML.label2): This is the label shown as
      the placeholder in inspector search box -->
-
-<!ENTITY inspectorSearchHTML.label          "HTML সন্ধান কৰক">
 <!ENTITY inspectorSearchHTML.key            "F">
+<!-- LOCALIZATION NOTE (inspectorSearchHTML.label3): This is the label that will
+     be shown as the placeholder in the future, once the inspector search box
+     supports the full text HTML search in Bug 835896. -->
+
+<!ENTITY inspectorSearchHTML.label3 "HTML সন্ধান কৰক">
 <!-- LOCALIZATION NOTE (inspectorCopyImageDataUri.label): This is the label
      shown in the inspector contextual-menu for the item that lets users copy
      the URL embedding the image data encoded in Base 64 (what we name
@@ -80,3 +86,12 @@
      shown in the inspector contextual-menu for the item that lets users see
      the DOM properties of the current node. When triggered, this item
      opens the split Console and displays the properties in its side panel. -->
+<!-- LOCALIZATION NOTE (inspectorExpandNode.label): This is the label
+     shown in the inspector contextual-menu for recursively expanding
+     mark-up elements -->
+<!-- LOCALIZATION NOTE (inspectorCollapseNode.label): This is the label
+     shown in the inspector contextual-menu for recursively collapsing
+     mark-up elements -->
+<!-- LOCALIZATION NOTE (inspectorScreenshotNode.label): This is the label
+     shown in the inspector contextual-menu for the item that lets users take
+     a screenshot of the currently selected node. -->
