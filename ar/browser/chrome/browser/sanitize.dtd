@@ -58,7 +58,7 @@ that require it.  -->
 <!ENTITY itemCache.accesskey               "ة">
 <!ENTITY itemOfflineApps.label             "بيانات المواقع للعمل دون اتصال">
 <!ENTITY itemOfflineApps.accesskey         "ب">
-<!ENTITY itemActiveLogins.label            "تسجيلات الدخول النشِطة">
+<!ENTITY itemActiveLogins.label            "جلسات الدخول النشِطة">
 <!ENTITY itemActiveLogins.accesskey        "ش">
 <!ENTITY itemSitePreferences.label         "تفضيلات الموقع">
 <!ENTITY itemSitePreferences.accesskey     "ض">

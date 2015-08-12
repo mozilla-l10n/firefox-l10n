@@ -71,24 +71,27 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "لست والجًا.">
 <!ENTITY signIn.label                "لج">
-
+<!ENTITY profilePicture.tooltip      "غيّر صورة الحساب">
 <!ENTITY manage.label                "أدِر">
 <!ENTITY disconnect.label            "اقطع الاتصال…">
 <!ENTITY verify.label                "بريد التأكّد">
 <!ENTITY forget.label                "انس هذا البريد">
 
 <!ENTITY welcome.description "توصّل إلى ألسنتك، و علاماتك/ و كلمات السر و غيرهم المزيد أينما تستخدم &brandShortName;.">
-
+<!ENTITY welcome.signIn.label "لِج">
 
 
 <!ENTITY welcome.useOldSync.label "هل تستخدم إصدارة أقدم من «المزامنة»؟">
 
+<!ENTITY signedOut.caption            "خُذ الوِب معك">
+<!ENTITY signedOut.description        "زامن علاماتك، و تأريخك، و ألسنتك، و كلمات سرك، و إضافاتك و التفضيلات بين كل أجهزتك.">
+<!ENTITY signedOut.accountBox.title   "اتصل باستخدام &syncBrand.fxAccount.label;">
+
+<!ENTITY signedOut.accountBox.signin  "لِج">
 
 
-
-
-
-
+<!ENTITY mobilePromo.start            "نزّل فيرفكس ">
 <!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
-
-
+<!ENTITY mobilePromo.androidLink      "لأندرويد™">
+<!ENTITY mobilePromo.end              " للمزامنة مع هاتفك المحمول.">
+<!ENTITY androidAttribution           "أندرويد علامة تجارية لشركة جوجل">

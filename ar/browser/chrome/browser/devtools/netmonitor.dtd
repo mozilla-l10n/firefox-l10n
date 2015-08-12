@@ -114,6 +114,8 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterFreetext): This is the label displayed
   -  in the network details footer for the url filtering textbox. -->
 
+<!ENTITY netmonitorUI.footer.filterFreetext.label  "رشّح المسارات">
+
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.clear): This is the label displayed
   -  in the network details footer for the "Clear" button. -->
 
@@ -225,6 +227,8 @@
 <!ENTITY netmonitorUI.security.certificate "الشهادة:">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrl): This is the label displayed
   -  on the context menu that copies the selected request's url -->
+
+<!ENTITY netmonitorUI.context.copyUrl     "انسخ المسار">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrl.accesskey): This is the access key
   -  for the Copy URL menu item displayed in the context menu for a request -->
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrlParams): This is the label displayed

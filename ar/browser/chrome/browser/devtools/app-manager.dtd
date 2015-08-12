@@ -82,7 +82,7 @@
 <!ENTITY projects.saveManifestTooltip "احفظ محتويات المحرر الظاهر أدناه">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 
-
+<!ENTITY projects.manifestEditor "محرر البيان">
 
 <!ENTITY projects.manifestViewer "عارض البيان">
 
@@ -100,4 +100,4 @@
 <!ENTITY help.configuringDevice "كيفية إعداد جهازك بنظام تشغيل فيرفكس">
 <!ENTITY help.troubleShooting "تعقب المشكلات">
 <!ENTITY help.simulatorAddon "ثبّت إضافة المحاكي">
-
+<!ENTITY help.adbHelperAddon "ثبّت إضافة «مساعد Adb»">

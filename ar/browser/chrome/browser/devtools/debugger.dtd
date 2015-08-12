@@ -32,11 +32,17 @@
   -  for the button that black boxes the selected source. -->
 <!-- LOCALIZATION NOTE (debuggerUI.sources.prettyPrint): This is the tooltip for the
   -  button that pretty prints the selected source. -->
+
+<!ENTITY debuggerUI.sources.prettyPrint "جمّل المصدر">
 <!-- LOCALIZATION NOTE (debuggerUI.autoPrettyPrint): This is the label for the
   -  checkbox that toggles auto pretty print. -->
 
+<!ENTITY debuggerUI.autoPrettyPrint     "تجميل تلقائي للمصادر المصغرة">
+
 <!-- LOCALIZATION NOTE (debuggerUI.sources.toggleBreakpoints): This is the tooltip for the
   -  button that toggles all breakpoints for all sources. -->
+
+<!ENTITY debuggerUI.sources.toggleBreakpoints "فعّل/عطّل كل نقاط التوقف">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.togglePromiseDebugger): This is the
   -  tooltip for the button that toggles the promise debugger. -->
 <!-- LOCALIZATION NOTE (debuggerUI.startTracing): This is the text displayed in
@@ -142,10 +148,10 @@
 <!ENTITY debuggerUI.seMenuCondBreak.key "B">
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
-
+<!ENTITY debuggerUI.tabs.sources        "المصادر">
 
 <!ENTITY debuggerUI.tabs.callstack      "مكدس الاستدعاء">
-
+<!ENTITY debuggerUI.tabs.variables      "المتغيّرات">
 
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
   -  appears in the source editor context menu for adding an expression. -->
@@ -179,5 +185,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.context.copyUrl): This is the label displayed
   -  on the context menu that copies the selected request's url. This should be
   -  the same as netmonitorUI.context.copyUrl -->
+
+<!ENTITY debuggerUI.context.copyUrl           "انسخ المسار">
 
 
