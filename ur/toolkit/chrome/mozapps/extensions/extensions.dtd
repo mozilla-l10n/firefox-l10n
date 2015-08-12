@@ -4,7 +4,7 @@
 <!ENTITY addons.windowTitle                   "ایڈ اون مینیجر">
 
 <!ENTITY search.placeholder                   "تمام ایڈ اون تلاش کریں">
-
+<!ENTITY search.buttonlabel                   "تلاش">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "ڈ">
@@ -23,7 +23,8 @@
 <!ENTITY cmd.back.tooltip                     "ایک صفحہ واپس جائیں">
 <!ENTITY cmd.forward.tooltip                  "ایک صفحہ آگے جائیں">
 
-
+<!ENTITY showUnsignedExtensions.button.label  "کچھ توسیعات کی تصدیق نہیں ہو سکی">
+<!ENTITY showAllExtensions.button.label       "تمام توسیعات دکھائیں">
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "محفوظ موڈ کے تحت تمام ایڈ اون نا اہل ہیں۔">
@@ -38,6 +39,8 @@
 <!ENTITY info.plugincheck.label                 "چیک کریں کہ آپ کے پلگ انتازہ ترین ہیں">
 <!ENTITY info.plugincheck.tooltip               "چیک کریں کہ آپ کے پلگ انتازہ ترین ہیں">
 <!-- categories / views -->
+
+<!ENTITY view.search.label                    "تلاش کریں">
 <!ENTITY view.discover.label                  "ایڈ اون لائیں">
 <!ENTITY view.recentUpdates.label             "حالیہ تازہ کاریاں">
 <!ENTITY view.availableUpdates.label          "دستیاب تازہ کاریاں">
@@ -102,8 +105,8 @@
 <!ENTITY cmd.installAddon.accesskey           "ت">
 <!ENTITY cmd.uninstallAddon.label             "ہٹائیں">
 <!ENTITY cmd.uninstallAddon.accesskey         "ہ">
-
-
+<!ENTITY cmd.debugAddon.label                 "ٹھیک کریں">
+<!ENTITY cmd.debugAddon.accesskey             "ٹ">
 <!ENTITY cmd.showPreferencesWin.label         "اختیارات">
 <!ENTITY cmd.showPreferencesWin.tooltip       "اس ایڈ اون کے اختیارات تبدیل کریں">
 <!ENTITY cmd.showPreferencesUnix.label        "ترجیحات">
@@ -226,7 +229,9 @@
 
 
 
+<!ENTITY setting.learnmore "اور سیکھیں…">
 
+<!ENTITY disabledUnsigned.heading "کچھ ایڈ اون نااہل کر دیئے گئے ہیں">
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
@@ -236,5 +241,5 @@
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
-
+<!ENTITY disabledUnsigned.devInfo.linkToManual "دستورالعمل">
 

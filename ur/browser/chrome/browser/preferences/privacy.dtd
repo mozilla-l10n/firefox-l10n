@@ -4,15 +4,19 @@
 
 <!ENTITY tracking.label                 "ٹریکنگ">
 
-<!ENTITY dntTrackingNotOkay.label2      "ویب سائٹوں کو بتائیں کہ میں ٹریک نہیں ہونا چاہتا">
-<!ENTITY dntTrackingNotOkay.accesskey   "n">
+
+<!ENTITY doNotTrackInfo.label          "اور سیکھیں">
 
 
 
-<!ENTITY doNotTrackInfo.label           "اور سیکھیں">
+
+
+
 
 
 <!ENTITY  locationBar.label             "مقام بند">
+
+
 
 
 

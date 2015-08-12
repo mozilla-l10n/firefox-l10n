@@ -110,6 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "ت">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; سائن ان کریں">
+
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; سے پھر جڑیں">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; اہل بنایا گیا">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; ابھی ہم وقت ساز کرنا شروع کر دے گا۔">
@@ -126,8 +127,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "چ">
 <!ENTITY fullScreenExit.label "پوری سکرین موڈ خروج کریں">
 <!ENTITY fullScreenExit.accesskey "پ">
-<!ENTITY fullscreenAllowButton.label "ہونے دیں">
-<!ENTITY fullscreenExitButton.label "انکار کریں">
 
 <!ENTITY fullscreenExitHint2.value "کسی بھی وقت خروج کرنے کت لیے ESC دبائیں۔">
 <!ENTITY leaveDOMFullScreen.label "ؑپوری سکرین خروج کریں">
@@ -274,6 +273,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 
+<!ENTITY browserContentToolboxMenu.label     "براؤزر مواد ٹول باکس">
+<!ENTITY browserContentToolboxMenu.accesskey "ب">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "ڈیولپر ٹول بار بند کریں">
 <!ENTITY devToolbarMenu.label              "ڈیولپر ٹول بار">
@@ -393,6 +394,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.placeholder2          "پتہ تلاش یا داخل کریں">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "ٹیب پر سوئچ کریں:">
+
+
+<!ENTITY urlbar.searchSuggestionsNotification.disable "نہیں">
+<!ENTITY urlbar.searchSuggestionsNotification.enable "ہاں">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -417,6 +422,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "ک">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
+<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
+     These are set as the aria-label attribute for the search input box and
+     submit button in the in-content search UI, to be used by screen readers. -->
+
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -615,7 +624,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin2.label       "خروج">
 <!ENTITY quitApplicationCmdWin2.accesskey   "خ">
-
+<!ENTITY quitApplicationCmdWin2.tooltip     "&brandShortName; خارج کریں">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "کنارہ کریں"> 
@@ -627,6 +636,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.label                 "بند کریں">  
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "ب">
+
 
 <!ENTITY pageStyleMenu.label "پیج طرز">
 <!ENTITY pageStyleMenu.accesskey "ط">
@@ -666,12 +676,32 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "ختم">
 <!ENTITY editBookmark.cancel.label                   "منسوخ کریں">
-<!ENTITY editBookmark.removeBookmark.accessKey       "R">
+
+
+<!ENTITY identity.connectionNotSecure "کنکشن قابل بھروسا نہیں">
+
+
+
+<!-- Strings for connection state warnings. -->
+
+
+
+<!-- Strings for connection state warnings in the subview. -->
 
 
 
 
 
+
+
+
+
+
+<!ENTITY identity.disableMixedContentBlocking.label "ابھی کے لیے حفاظت کو نا اہل بنائیں">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "D">
+
+
+<!ENTITY identity.moreInfoLinkText2 "مزید معلومات">
 
 <!ENTITY identity.permissions "اجازتیں">
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -714,9 +744,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY social.directory.label "ایکٹیویشنز ڈائریکٹری">
 
-
-
-
+<!ENTITY social.directory.button "مجھے وہاں لے جائیں!">
+<!ENTITY social.directory.introText "کسی سروس کو &brandShortName; میں ڈالنے کے لیے اس پر کلک کریں۔">
+<!ENTITY social.directory.viewmore.text "مزید دیکھیں">
 
 <!ENTITY customizeMode.tabTitle "&brandShortName; تخصیص کریں">
 <!ENTITY customizeMode.menuAndToolbars.header2 "اضافی ٹول اور فیچر">
@@ -746,17 +776,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "ک">
 <!ENTITY getUserMedia.selectMicrophone.label "شیئر کرنے کےلیے مائیکروفون:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "م">
+
 <!ENTITY getUserMedia.allWindowsShared.message "آپ کی سکرین پر نظر آنے والے تمام دریچے شیئر کیے جائیں گے۔">
-<!-- Bad Content Blocker Doorhanger Notification -->
-
-<!ENTITY badContentBlocked.moreinfo "زیادہ تر ویب سائٹیں اس مواد کے بلاک ہونے کے باوجود بھی ٹھیک سے کام کریں گی۔">
-
-<!ENTITY mixedContentBlocked2.message "ناقابل بھروسا مواد">
-<!ENTITY mixedContentBlocked2.moreinfo "اس ویب سائٹ پر کچھ غیرخفیہ کردہ عناصر بلاک کر دیئے گئے ہیں۔">
-<!ENTITY mixedContentBlocked2.learnMore "مزید سیکھیں">
 
 
 
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
 
 
 
@@ -765,8 +797,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-<!ENTITY trackingContentBlocked.unblock2.label "اس سائٹ پر حفاظت نا اہل بنائیں">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "ن">
+
+
 <!ENTITY trackingContentBlocked.block.label "حفاظت اہل بنائیں">
 <!ENTITY trackingContentBlocked.block.accesskey "ح">
 <!ENTITY trackingContentBlocked.disabled.message "سراغ کاری حفاظت نا اہل ہے">
@@ -829,14 +861,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeNotificationsDontAskAgain.label       "مجھے دوبارہ مت پوچھیں">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "م">
-
-
-
-<!-- Pre-landed string for bug 1124153 -->
-<!-- Pre-landed string for bug 1133662 -->
-
-<!-- Pre-landed strings for bug 1123519 -->
-
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 
 

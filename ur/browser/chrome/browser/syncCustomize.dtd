@@ -15,8 +15,6 @@
 
 <!ENTITY engine.bookmarks.label           "نشانیاں">
 <!ENTITY engine.bookmarks.accesskey       "ن">
-
-
 <!ENTITY engine.history.label             "سابقات">
 <!ENTITY engine.history.accesskey         "س">
 <!ENTITY engine.tabs.label                "ٹیب">

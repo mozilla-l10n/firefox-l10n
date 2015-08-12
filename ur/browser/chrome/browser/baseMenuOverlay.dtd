@@ -14,10 +14,10 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "ہدایات"> 
 <!ENTITY helpMenuWin.accesskey    "ہ">
-
-
-
-
+<!ENTITY aboutProduct2.label      "&brandShortName; کے متعلق">
+<!ENTITY aboutProduct2.accesskey  "م">
+<!ENTITY productHelp2.label       "&brandShorterName; مدد">
+<!ENTITY productHelp2.accesskey   "م">
 <!ENTITY helpMac.commandkey       "؟">
 
 <!ENTITY helpKeyboardShortcuts.label     " کلیدی تختہ تیز راہیں">
@@ -25,10 +25,11 @@
 
 <!ENTITY helpSafeMode.label       "ایڈ اون نا اہل کر کے دوباره شروع کریں">
 <!ENTITY helpSafeMode.accesskey   "د">
+<!ENTITY helpSafeMode.stop.label       "ایڈ اون اہل کر کے دوباره شروع کریں">
+<!ENTITY helpSafeMode.stop.accesskey   "د">
 
-
-
-
+<!ENTITY healthReport2.label      "&brandShorterName; تندرستی رپورٹ">
+<!ENTITY healthReport2.accesskey  "ت">
 
 <!ENTITY helpTroubleshootingInfo.label      "ازالہ کاری معلومات">
 <!ENTITY helpTroubleshootingInfo.accesskey  "ا">

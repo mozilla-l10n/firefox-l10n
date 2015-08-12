@@ -48,8 +48,6 @@ that require it.  -->
 
 
 
-<!ENTITY itemPasswords.label               "محفوظ شدہ پاس ورڈ">
-<!ENTITY itemPasswords.accesskey           "پ">
 <!ENTITY itemCookies.label                 "کوکیاں">
 <!ENTITY itemCookies.accesskey             "ک">
 <!ENTITY itemCache.label                   "کیسہ">

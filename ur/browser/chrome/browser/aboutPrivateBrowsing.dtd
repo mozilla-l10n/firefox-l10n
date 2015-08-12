@@ -2,16 +2,45 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.title            "آپ رازداری سے براؤز کر رہے ہیں">
-<!ENTITY aboutPrivateBrowsing.title.normal     "نجی دریچہ کھولیں؟">
-
-<!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; اس دریچے کے لیے کوئی سابقات نہیں یاد رکھے گا۔">
-<!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName; نجی دریچوں کے کوئی سابقات نہیں یاد رکھے گا۔">
-
-
 <!ENTITY aboutPrivateBrowsing.notPrivate       "آپ فی الحال نجی دریچے میں نہیں۔">
-
-<!ENTITY aboutPrivateBrowsing.learnMore        "مزید سیکھیں۔">
-
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "آیک نجی دریچہ کھولیں">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "ن">
+
+<!ENTITY privateBrowsing.title                 "نجی براوزنگ">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
+     Width of the Private Browsing section.
+     -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
+     aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
+     These strings will be replaced by aboutPrivateBrowsing.forgotten and
+     aboutPrivateBrowsing.kept when the new visual design lands (bug 1192625).
+     -->
+
+<!ENTITY aboutPrivateBrowsing.title            "آپ رازداری سے براؤز کر رہے ہیں">
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.history     "سابقات">
+
+<!ENTITY aboutPrivateBrowsing.info.cookies     "کوکی">
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.downloads   "ڈاؤن لوڈ">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks   "نشانیاں">
+
+<!ENTITY aboutPrivateBrowsing.learnMore        "مزید سیکھیں۔">
+<!-- LOCALIZATION NOTE (trackingProtection.width):
+     Width of the Tracking Protection section. This should be enough to
+     accommodate the title as well as the enabled or disabled indicator.
+     -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.state.width):
+     Width of the element representing the enabled or disabled indicator.
+     -->
+
+
+
+
+
+

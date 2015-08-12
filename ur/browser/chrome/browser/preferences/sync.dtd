@@ -16,7 +16,6 @@
 
 <!ENTITY manageAccount.label          "اکاؤنٹ منظم کیجیئے">
 <!ENTITY manageAccount.accesskey      "م">
-<!ENTITY viewQuota.label              "کوٹا نظارہ کریں">
 <!ENTITY changePassword2.label        "پاس ورڈ تبدیل کریں…">
 <!ENTITY myRecoveryKey.label          "میری بازیافت کلید">
 <!ENTITY resetSync2.label             "سنک پھر سیٹ کریں…">
@@ -26,8 +25,6 @@
 <!ENTITY syncMy.label               "انہیں سنک کریں">
 <!ENTITY engine.bookmarks.label     "نشانیاں">
 <!ENTITY engine.bookmarks.accesskey "ن">
-
-
 <!ENTITY engine.tabs.label          "ٹیب">
 <!ENTITY engine.tabs.accesskey      "ٹ">
 <!ENTITY engine.history.label       "سابقات">
@@ -74,13 +71,24 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "آپ سائن ان نہیں ہیں۔">
 <!ENTITY signIn.label                "سائن ان کریں">
+
 <!ENTITY manage.label                "بندوبست کریں">
 <!ENTITY disconnect.label            "منقطع کریں…">
 <!ENTITY verify.label                "ای میل توثیق کریں">
 <!ENTITY forget.label                "اس ای میل کو بھول جائیں">
 
 <!ENTITY welcome.description "اپنے ٹیب، نشانیاں، پاس ورڈ اور مزید کی رسائی کریں جہاں پر بھی آپ &brandShortName; استعمال کری۔">
-<!ENTITY welcome.signIn.label " سائن ان کریں">
-<!ENTITY welcome.createAccount.label "اکاؤنٹ بنائیں">
+
+
 
 <!ENTITY welcome.useOldSync.label "Sync کا کوئی پرانا ورژن استعمال کر رہے ہیں؟">
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+
+

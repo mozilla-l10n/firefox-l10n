@@ -52,8 +52,8 @@
 <!ENTITY cmd.open.accesskey              "ک">
 <!ENTITY cmd.open_window.label           "نئے دریچے میں کھولیں">
 <!ENTITY cmd.open_window.accesskey       "ن">
-
-
+<!ENTITY cmd.open_private_window.label     "ربط نئے نجی دریچے میں کھولیں">
+<!ENTITY cmd.open_private_window.accesskey "ن">
 <!ENTITY cmd.open_tab.label              "نئی ٹیب میں کھولیں">
 <!ENTITY cmd.open_tab.accesskey          "ن">
 <!ENTITY cmd.open_all_in_tabs.label      "تمام ٹیبوں میں کھولیں">

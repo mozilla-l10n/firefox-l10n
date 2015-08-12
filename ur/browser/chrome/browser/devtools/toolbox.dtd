@@ -132,11 +132,6 @@
 
 <!ENTITY options.stylesheetAutocompletion.label      "CSS خود تکمیل کریں">
 
-<!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
-  -  heading of the group of JavaScript Profiler preferences in the options
-  -  panel. -->
-
-<!ENTITY options.profiler.label            "جاوا سکرپٹ پروفائلر">
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->
