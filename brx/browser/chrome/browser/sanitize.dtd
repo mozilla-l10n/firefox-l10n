@@ -49,8 +49,6 @@ that require it.  -->
 <!ENTITY itemHistoryAndDownloads.accesskey "B">
 <!ENTITY itemFormSearchHistory.label       "फर्म आरो नागिरनायनि जारिमिन">
 <!ENTITY itemFormSearchHistory.accesskey   "F">
-<!ENTITY itemPasswords.label               "थिना दोनखानाय पासवार्ड">
-<!ENTITY itemPasswords.accesskey           "P">
 <!ENTITY itemCookies.label                 "कुकिफोर">
 <!ENTITY itemCookies.accesskey             "क">
 <!ENTITY itemCache.label                   "केछ">

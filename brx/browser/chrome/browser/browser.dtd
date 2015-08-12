@@ -110,6 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "A">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; आव साइन-इन खालाम">
+
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; जों फिन फोनांजाब खालाम">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; खौ हाहोनाय खालामबाय">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; आ सिन्कखौ दसेनि थाखाय जागायगोन।">
@@ -126,8 +127,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "आबुं स्क्रिन म'ड निफ्राय ओंखार लां(F)">
 <!ENTITY fullScreenExit.accesskey "F">
-<!ENTITY fullscreenAllowButton.label "हगार">
-<!ENTITY fullscreenExitButton.label "होबथा">
 
 <!ENTITY fullscreenExitHint2.value "जायखि जाया समाव ओंखार लांनो थाखाय ESC खौ नारसिन">
 <!ENTITY leaveDOMFullScreen.label "आबुं स्क्रिन निफ्राय ओंखार लां">
@@ -393,6 +392,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.placeholder2          "थंखौ नागिर एबा हाबहो">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "टेबाव थां:">
+
+
+<!ENTITY urlbar.searchSuggestionsNotification.disable "नङा">
+<!ENTITY urlbar.searchSuggestionsNotification.enable "नंगौ">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -417,6 +420,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
+<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
+     These are set as the aria-label attribute for the search input box and
+     submit button in the in-content search UI, to be used by screen readers. -->
+
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -628,6 +635,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "C">
 
+
 <!ENTITY pageStyleMenu.label "बिलाइनि आदब(y)">
 <!ENTITY pageStyleMenu.accesskey "y">
 <!ENTITY pageStyleNoStyle.label "आदब गैया(N)">
@@ -666,10 +674,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "जाखांबाइ">
 <!ENTITY editBookmark.cancel.label                   "नेवसि">
-<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 
 
+
+
+
+<!-- Strings for connection state warnings. -->
+
+
+
+<!-- Strings for connection state warnings in the subview. -->
+
+
+
+
+
+
+
+
+
+
+<!ENTITY identity.disableMixedContentBlocking.label "दानि थाखाय रैखाथिखौ लोरबां खालाम">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 
 
 
@@ -746,27 +773,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "शेयार खालामनो माइक्र'फन:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+
 <!ENTITY getUserMedia.allWindowsShared.message "नोंथांनि स्क्रिननि गासै नुथाव उइन्ड'खौ शेयार खालामगोन।">
-<!-- Bad Content Blocker Doorhanger Notification -->
 
-<!ENTITY badContentBlocked.moreinfo "थानाय-आयदाखौ ब्लक खालामब्लाबो बांसिन वेबसाइटआ मोजाङै खामानि मावगोन।">
 
-<!ENTITY mixedContentBlocked2.message "रैखाथि-नङै थानाय-आयदा">
-<!ENTITY mixedContentBlocked2.moreinfo "बे वेबसाइटआव थानाय माखासे आनइनक्राइप्टेड गुदिमुवाखौ ब्लक खालामबाय।">
-<!ENTITY mixedContentBlocked2.learnMore "गोबां सोलों">
-<!ENTITY mixedContentBlocked2.options "उफ्रा">
-<!ENTITY mixedContentBlocked2.unblock.label "दानि थाखाय रैखाथिखौ लोरबां खालाम">
-<!ENTITY mixedContentBlocked2.unblock.accesskey "D">
-<!ENTITY mixedContentBlocked2.block.label "रैखाथिखौ हाहोनाय खालाम">
-<!ENTITY mixedContentBlocked2.block.accesskey "E">
-<!ENTITY mixedContentBlocked2.disabled.message "रैखाथिखौ लोरबां खालामनाय जायो">
+
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+
+
+
 
 <!ENTITY trackingContentBlocked.message "ट्रेक खालाम गासिनो दं">
 <!ENTITY trackingContentBlocked.moreinfo "नोंथांनि अनलाइन खामानिखौ ट्रेक खालामनाय बिलाइनि बाहागोखौ ब्लक खालामबाय।">
 <!ENTITY trackingContentBlocked.learnMore "गोबां सोलों">
-<!ENTITY trackingContentBlocked.options "उफ्रा">
-<!ENTITY trackingContentBlocked.unblock2.label "बे साइटनि थाखाय रैखाथिखौ लोरबां खालाम">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
+
+
+
 <!ENTITY trackingContentBlocked.block.label "रैखाथिखौ हाहोनाय खालाम">
 <!ENTITY trackingContentBlocked.block.accesskey "E">
 <!ENTITY trackingContentBlocked.disabled.message "रैखाथि ट्रेक खालामनायखौ लोरबां खालामनाय जायो।">
@@ -830,14 +859,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeNotificationsDontAskAgain.label       "आंनाव फिन सोंनो नाङा(D)">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "D">
-
-
-
-<!-- Pre-landed string for bug 1124153 -->
-<!-- Pre-landed string for bug 1133662 -->
-
-<!-- Pre-landed strings for bug 1123519 -->
-
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 
 

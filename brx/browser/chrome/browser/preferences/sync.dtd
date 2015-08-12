@@ -16,7 +16,6 @@
 
 <!ENTITY manageAccount.label          "एकाउन्टखौ मेनेज खालाम">
 <!ENTITY manageAccount.accesskey      "n">
-<!ENTITY viewQuota.label              "नुथाइ कोटा">
 <!ENTITY changePassword2.label        "पासवार्डखौ सोलाय...">
 <!ENTITY myRecoveryKey.label          "आंनि मोनफिननाय साबि">
 <!ENTITY resetSync2.label             "सिन्कखौ फिन फज...">
@@ -26,8 +25,6 @@
 <!ENTITY syncMy.label               "आंनि Sync">
 <!ENTITY engine.bookmarks.label     "बुकमाकॅफोर">
 <!ENTITY engine.bookmarks.accesskey "म">
-
-
 <!ENTITY engine.tabs.label          "टेबफोर">
 <!ENTITY engine.tabs.accesskey      "ट">
 <!ENTITY engine.history.label       "जारिमिन">
@@ -74,13 +71,24 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "नोंथाङा साइन-इन खालामाखै।">
 <!ENTITY signIn.label                "साइन-इन खालाम">
+
 <!ENTITY manage.label                "मेनेज खालाम">
 <!ENTITY disconnect.label            "फोनांजाबगैयै खालाम...">
 <!ENTITY verify.label                "इ-मेइलखौ थारबिजिर">
 <!ENTITY forget.label                "बे इ-मेइलखौ बावलां">
 
 <!ENTITY welcome.description "जेब्लानो नोंथाङा &brandShortName; खौ बाहायो अब्लानो नोंथांनि टेब, बुकमार्क, पासवार्डखौ हाबहो।">
-<!ENTITY welcome.signIn.label "साइन इन">
-<!ENTITY welcome.createAccount.label "एकाउन्ट सोरजि">
+
+
 
 <!ENTITY welcome.useOldSync.label "सिन्कनि गोजामसिन बिसानखौ बाहायगासिनो दं?">
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+
+

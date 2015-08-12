@@ -11,12 +11,18 @@
 
 <!ENTITY importFromIE.label             "माइक्र'सफ्ट इन्टारनेट एक्सप्ल'रार (M)">
 <!ENTITY importFromIE.accesskey         "M">
+
+
 <!ENTITY importFromNothing.label        "जेबो लाबोनो नाङा (D)">
 <!ENTITY importFromNothing.accesskey    "D">
 <!ENTITY importFromSafari.label         "साफारि (S)">
 <!ENTITY importFromSafari.accesskey     "S">
+
+
 <!ENTITY importFromChrome.label         "क्रम (C)">
 <!ENTITY importFromChrome.accesskey     "C">
+
+
 <!ENTITY importFromFirefox.label        "फायारफक्स (x)">
 <!ENTITY importFromFirefox.accesskey    "x">
 
