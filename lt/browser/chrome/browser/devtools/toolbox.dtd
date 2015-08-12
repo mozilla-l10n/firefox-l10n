@@ -169,11 +169,6 @@
 
 <!ENTITY options.stylesheetAutocompletion.label      "Automatiškai užbaigti CSS leksemas">
 <!ENTITY options.stylesheetAutocompletion.tooltip    "Automatiškai užbaigti renkamus CSS savybių vardus, reikšmes ir selektorius stilių rengyklėje">
-<!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
-  -  heading of the group of JavaScript Profiler preferences in the options
-  -  panel. -->
-
-<!ENTITY options.profiler.label            "„JavaScript“ profiliuoklė">
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->
