@@ -48,8 +48,8 @@
 <!ENTITY netTimeout.title "Isikhathi senethiwekhi siphelile">
 <!ENTITY netTimeout.longDesc "<p>Le ngosi oyicelile ayisabelanga futhi okokubheka sekuyekile ukulindela impendulo.</p><ul><li>Kungenzeka yini ukuthi le seva ifunwa kakhulu noma ayisebenzi okwesikhashana?  Phinda uzame kamuva.</li><li>Awukwazi yini ukubheka ezinye izingosi? Hlola ukuthi ikhompyutha ixhumekile yini kunethiwekhi.</li><li>Ikhompyutha yakho noma inethiwekhi ivikelwe yini ngesivikeli noma nge-proxy?  Indlela okuhleleke ngayo engalungile ingase iphazamise ukubheka iWebhu.</li><li>Usenenkinga namanje? Thintana nomqondisi wakho wenethiwekhi noma we-Inthanethi ukuze uthole usizo.</li></ul>">
 
-<!ENTITY protocolNotFound.title "Iprothokholi engaziwa">
-<!ENTITY protocolNotFound.longDesc "<p>Ikheli lisho iprothokholi (e.g. <q>wxyz://</q>) engaziwa okokubheka, ngakho okokubheka akukwazi ukuxhuma kahle kule ngosi.</p><ul><li>Uzama ukungena kwabezindaba yini noma kwezinye izinkonzo ezingenakho okubhaliwe? Hlola ingosi ukuze uthole okunye okudingekayo.</li><li>Amanye amaprothokholi angase afune olunye uhlaka olusetshenziswayo noma okupulakwayo ngaphambi kokuba okukubheka kuwabone.</li></ul>">
+<!ENTITY unknownProtocolFound.title "Iprothokholi engaziwa">
+<!ENTITY unknownProtocolFound.longDesc "<p>Ikheli lisho iprothokholi (e.g. <q>wxyz://</q>) engaziwa okokubheka, ngakho okokubheka akukwazi ukuxhuma kahle kule ngosi.</p><ul><li>Uzama ukungena kwabezindaba yini noma kwezinye izinkonzo ezingenakho okubhaliwe? Hlola ingosi ukuze uthole okunye okudingekayo.</li><li>Amanye amaprothokholi angase afune olunye uhlaka olusetshenziswayo noma okupulakwayo ngaphambi kokuba okukubheka kuwabone.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "Iseva ye-proxy yenqabile ukuxhuma">
 <!ENTITY proxyConnectFailure.longDesc "<p>Okokubheka kuhlelelwe ukusebenzisa iseva ye-proxy, kodwa i-proxy yenqabile ukuxhuma.</p><ul><li>Ukuhlelwa kwe-proxy yokokubheka kuqondile yini? Hlola indlela okuhleleke ngayo uphinde uzame.</li><li>Inkonzo ye-proxy iyakuvumela yini ukuxhuma okuvela kule nethiwekhi?</li><li>Usenenkinga namanje? Thintana nomqondisi wenethiwekhi noma we-Inthanethi ukuze uthole usizo.</li></ul>">
@@ -64,7 +64,7 @@
 <!ENTITY unknownSocketType.longDesc "<p>Le ngosi isabele esicelweni senethiwekhi ngendlela engalindelekile futhi okokubheka ngeke kuqhubeke.</p>">
 
 <!ENTITY nssFailure2.title "Uxhumo oluphephile luhlulekile">
-<!ENTITY nssFailure2.longDesc "<p>Ikhasi ozama ukulibuka alikwazi ukuboniswa ngenxa yokuthi ukuqinisekiswa kwedatha etholiwe akukwazi ukuqinisekiswa.</p><ul><li>Sicela uxhumane nabanikazi bewebhusayithi ukuze ubazise ngale nkinga.</li></ul>">
+<!ENTITY nssFailure2.longDesc2 "<p>Ikhasi ozama ukulibuka alikwazi ukuboniswa ngenxa yokuthi ukuqinisekiswa kwedatha etholiwe akukwazi ukuqinisekiswa.</p><ul><li>Sicela uxhumane nabanikazi bewebhusayithi ukuze ubazise ngale nkinga.</li></ul>">
 
 <!ENTITY nssBadCert.title "Uxhumo oluphephile luhlulekile">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
@@ -76,12 +76,14 @@
 <!ENTITY malwareBlocked.longDesc "<p>Amasayithi wokuhlasela azama ukufaka izinhlelo ezintshontsha ulwazi oluyimfihlo, sebenzisa ikhompyutha yakho ukuhlasela abanye, noma ukumosha uhlelo lwakho.</p> 
 <p>Abanikazi bewebhusayithi abakholelwa ukuthi isayithi labo libikwe njengesayithi lokuhlasela ngephutha okungaholela i-<a href='http://www.stopbadware.org/home/reviewinfo' > cela isibuyekezo</a>.</p>">
 
+
+
 <!ENTITY phishingBlocked.title "Ukusolwa kokubhumbuluzwa kwe-webhu!">
 <!ENTITY phishingBlocked.longDesc "<p>Ukufaka noma iyiphi imininingwane yakho kuleli khasi kungaholela ekuntshontweni kobunikazi noma obunye ubukhonyovu.</p> 
 <p>Lezi zinhlobo zokubhumbuluzwa kwewebhu sisetshenziswa ekuqolweni okwaziwa njengokuhlaselwa kwe-phishing, lapho khona amakhasi wewebhu anenkohliso nama-imeyili asetshenziselwa ukufaniswa nemithombo oyithembayo.</p>">
 
-<!ENTITY cspFrameAncestorBlocked.title "Kuvinjelwe inqubomgomo yokuqukethwe yezokuphepha">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Isiphequluli sivimbele leli khasi ukuba lilayishwe ngalendlela ngoba ikhasi linenqubomgomo yokuqukethwe kwezokuvikela okungalivumeli.</p>">
+<!ENTITY cspBlocked.title "Kuvinjelwe inqubomgomo yokuqukethwe yezokuphepha">
+<!ENTITY cspBlocked.longDesc "<p>Isiphequluli sivimbele leli khasi ukuba lilayishwe ngalendlela ngoba ikhasi linenqubomgomo yokuqukethwe kwezokuvikela okungalivumeli.</p>">
 
 <!ENTITY corruptedContentError.title "Iphutha lokumosheka kokuqukethwe">
 <!ENTITY corruptedContentError.longDesc "<p>Le khasi ozama ukulibuka alikwazi ukuboniswa ngoba lisebenzisa indlela yokuminyanisa engavumelekile noma engasekelwanga.</p><ul><li>Sicela uxhumane nabanikazi bewebhusayithi ukubazisa ngalenkinga.</li></ul>">

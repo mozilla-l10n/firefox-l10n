@@ -45,7 +45,7 @@
   -  sure you do not use the following letters: A, E, N and P. These are used
   -  for editing commands in text inputs. -->
 
-<!ENTITY btnPageCSS.tooltip "Bhala amaphutha wokuhlukaniswa kwe-CSS">
+
 
 
 <!ENTITY btnPageJS.tooltip  "Bhala ukungangeni kwe-javaScript">
@@ -65,6 +65,14 @@
 <!ENTITY btnConsoleLog          "Isiqubulo">
 
 
+<!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
+  -  should not be translated. -->
+<!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
+  -  should not be translated. -->
+<!-- LOCALIZATION NODE (btnConsoleWindowlessWorkers) the term "Workers"
+  -  should not be translated. -->
+
+
 
 
 
@@ -77,6 +85,8 @@
 
 <!ENTITY copyURLCmd.label     "Kopisha indawo yesixhumanisi">
 <!ENTITY copyURLCmd.accesskey "K">
+
+
 
 
 

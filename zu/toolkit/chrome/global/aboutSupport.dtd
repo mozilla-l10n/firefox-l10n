@@ -9,18 +9,32 @@
 uzama ukuxazulula inkinga. Uma ufuna izimpendulo zemibuzo ejwayelekile 
 mayelana ne-&brandShortName;, hlola i-<a id='supportLink'>support web site</a>.">
 
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like id.heading in crashes.dtd. -->
+
+
+
+
 <!ENTITY aboutSupport.extensionsTitle "Izithasiselo">
 <!ENTITY aboutSupport.extensionName "Igama">
 <!ENTITY aboutSupport.extensionEnabled "Kwenziwe kwasebenza">
 <!ENTITY aboutSupport.extensionVersion "Inguqulo">
-<!ENTITY aboutSupport.extensionId "Ubunikazi">
+
+
+
+
+<!ENTITY aboutSupport.experimentDescription "Incazelo">
+
+
+<!ENTITY aboutSupport.experimentHomepage "Ikhasi eliyisiqalo">
+
 
 <!ENTITY aboutSupport.appBasicsTitle "Okujwayelekile kohlelo lokusebenza">
 <!ENTITY aboutSupport.appBasicsName "Igama">
 <!ENTITY aboutSupport.appBasicsVersion "Inguqulo">
-<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
-"Update" is a noun here, not a verb. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+"Update" is a noun here, not a verb. -->
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Umlando wokufaka ukwaziswa kwamuva">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Bonisa umlando wokufaka ukwaziswa kwamuva">
 
@@ -33,8 +47,11 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Yenza kusebenze okuxhunyaniswayo">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Ukuhlelwa kokulungisa">
 <!ENTITY aboutSupport.appBasicsUserAgent "Ummeli womsebenzisi">
-<!ENTITY aboutSupport.appBasicsCrashIDs "Imibiko Yokumahlazeka">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Ukusetshenziswa kwememori">
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
+
+
+<!ENTITY aboutSupport.appBasicsSafeMode "Isimo esiphephile">
 
 <!ENTITY aboutSupport.showDir.label "Vula umkhombandlela">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
@@ -47,11 +64,14 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Izintandokazi eziguquliwe ezibalulekile">
 <!ENTITY aboutSupport.modifiedPrefsName "Igama">
-<!ENTITY aboutSupport.modifiedPrefsValue "Inani">
+
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
 <!ENTITY aboutSupport.userJSTitle "Izintandokazi zika user.js">
 <!ENTITY aboutSupport.userJSDescription "Ifolda yakho yephrofayela iqukethe <a id='prefs-user-js-link'>user.js file</a>, okubandakanya izintandwa ezingakhwanga yi-&brandShortName;.">
+
+
+
 
 <!ENTITY aboutSupport.graphicsTitle "Imibukiso">
 
@@ -69,3 +89,6 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Kopishela umbhalo ku-clipboard">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Kopisha ulwazi olungakasetshenziswa kwi-clipboard">
+
+
+

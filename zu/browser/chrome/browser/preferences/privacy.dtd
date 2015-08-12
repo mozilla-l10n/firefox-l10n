@@ -4,25 +4,28 @@
 
 <!ENTITY tracking.label                 "Ukulandela umhkondo">
 
-<!ENTITY dntTrackingNopref.label2       "Ungawatsheli lutho amasayithi mayelana nezintandokazi zokulandela">
-<!ENTITY dntTrackingNopref.accesskey    "o">
-<!ENTITY dntTrackingNotOkay.label2      "Tshela amasayithi ukuthi angifuni ukulandelwa">
-<!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY dntTrackingOkay.label2         "Tshela amasayithi ukuthi ngifuna ukulandelwa">
-<!ENTITY dntTrackingOkay.accesskey      "t">
-<!ENTITY doNotTrackInfo.label           "Funda kabanzi">
 
-<!ENTITY  history.label                 "Umlando">
+<!ENTITY doNotTrackInfo.label          "Funda kabanzi">
+
+
+
+
+
+
+
 
 <!ENTITY  locationBar.label             "Ibha yendawo">
 
-<!ENTITY  locbar.pre.label              "Uma usebenzisa ibha yendawo, hlongoza:">
-<!ENTITY  locbar.pre.accessKey          "u">
-<!ENTITY  locbar.post.label             "">
-<!ENTITY  locbar.both.label             "Umlando nokuphawulwa kokubekiswa">
-<!ENTITY  locbar.history.label          "Umlando">
-<!ENTITY  locbar.bookmarks.label        "Izimpawu zokubekisa">
-<!ENTITY  locbar.nothing.label          "Okungelutho">
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY  acceptCookies.label           "Yamukela amakhukhi kumasayithi">
 <!ENTITY  acceptCookies.accesskey       "Y">
@@ -33,8 +36,7 @@
 <!ENTITY  acceptThirdParty.never.label    "Ungalokothi">
 <!ENTITY  acceptThirdParty.visited.label  "Kusuka kokuvakashelwe">
 
-<!ENTITY  keepUntil.label               "Gcina kuze kube:">
-<!ENTITY  keepUntil.accesskey           "G">
+
 
 <!ENTITY  expire.label                  "ziphelelwa yisikhathi">
 <!ENTITY  close.label                   "Ngivala i-&brandShortName;">

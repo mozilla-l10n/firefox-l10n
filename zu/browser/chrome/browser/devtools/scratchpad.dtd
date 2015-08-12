@@ -48,6 +48,25 @@
 <!ENTITY closeCmd.key                 "W">
 <!ENTITY closeCmd.accesskey           "V">
 
+<!ENTITY viewMenu.label               "Bheka">
+<!ENTITY viewMenu.accesskey           "B">
+
+
+
+
+
+
+
+
+
+<!-- + is above this key on many keyboards -->
+
+
+
+
+
+
+
 <!ENTITY editMenu.label               "Hlela">
 <!ENTITY editMenu.accesskey           "H">
 
@@ -62,6 +81,9 @@
 <!ENTITY display.label                "Veza">
 <!ENTITY display.accesskey            "V">
 <!ENTITY display.key                  "l">
+
+
+
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
   -  menu in the text area. It refers to the JavaScript Environment (or context)
@@ -108,3 +130,8 @@
   -->
 
 <!ENTITY errorConsoleCmd.commandkey   "j">
+<!-- LOCALIZATION NOTE (evalFunction.label): This command allows the developer
+  -  to evaluate the top-level function that the cursor is currently at.
+  -->
+
+

@@ -9,6 +9,7 @@
 <!ENTITY fullscreenButton.enterfullscreenlabel "Iskrini esigcwele">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Iskrini esigcwele">
 
+
 <!ENTITY stats.media "Umthombo Wezindaba">
 <!ENTITY stats.size "Ubungako">
 <!ENTITY stats.activity "Umsebenzi">
@@ -17,8 +18,6 @@
 <!ENTITY stats.activityEnded "Iphelile">
 <!ENTITY stats.activitySeeking "(iyafuna)">
 <!ENTITY stats.volume "Ivolomu">
-<!ENTITY stats.channels "Amashaneli">
-<!ENTITY stats.sampleRate "Ukukala kwesampuli">
 <!ENTITY stats.framesParsed "Ozimele bahlahlelwe">
 <!ENTITY stats.framesDecoded "Amafulemi asusiwe ikhodi">
 <!ENTITY stats.framesPresented "Amafulemi ethuliwe">

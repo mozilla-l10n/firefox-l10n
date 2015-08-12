@@ -6,8 +6,11 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUse.label           "Vumela amakhasi akhethe imibala yawo, kunokuba athathe le engiyikhethe ngenhla">
-<!ENTITY  allowPagesToUse.accesskey       "V">
+
+
+<!ENTITY  overridePageColors.always.label "Njalo">
+
+<!ENTITY  overridePageColors.never.label  "Ungalokothi">
 
 <!ENTITY  color                           "Okubhaliwe nokungemuva">
 <!ENTITY  textColor.label                 "Umbhalo:">

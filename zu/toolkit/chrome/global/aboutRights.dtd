@@ -45,6 +45,7 @@
 <!ENTITY rights.intro-point4c-unbranded " isigaba.">
 
 <!ENTITY rights2.webservices-header "Izinsizakalo zolwazi ezigxile kwiwebhu ye-&brandFullName;">
+<!-- point 5 -->
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
      the UI, without this page being forgotten every time those strings are
@@ -60,7 +61,7 @@
 <!ENTITY rights.safebrowsing-b "Ukukhubaza isici sokudlulisa amehlo ngokuvikelekile asinconyiwe njengoba kungakuholela kumasayithi angavikelekile.  Uma ufuna ukukhubaza isici sonke, landela lezo zinyathelo:">
 <!ENTITY rights.safebrowsing-term1 "Vula izintandokazi zohlelokusebenza">
 <!ENTITY rights.safebrowsing-term2 "Khetha ukukhethwa kokuvikeleka">
-<!ENTITY rights.safebrowsing-term3 "Susa ukukhetha ku-&quot;blockAttackSites.label&quot; naku-&quot;&blockWebForgeries.label;&quot;">
+<!ENTITY rights.safebrowsing-term3 "Susa ukukhetha ku-&quot;&amp;blockAttackSites.label&quot; naku-&quot;&blockWebForgeries.label;&quot;">
 <!ENTITY rights.safebrowsing-term4 "Ukudlulisa amehlo manje kukhutshaziwe">
 <!-- location aware browsing points for branded builds -->
 

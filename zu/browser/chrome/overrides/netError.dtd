@@ -71,8 +71,8 @@ ukuthi i-&brandShortName; ivunyelwe ukungena kuwebhu.</li>
 <!ENTITY netTimeout.title "Ukuxhumana kuphelelwe isikhathi">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "Leli kheli aliqondakalanga">
-<!ENTITY protocolNotFound.longDesc "<ul> 
+<!ENTITY unknownProtocolFound.title "Leli kheli aliqondakalanga">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
  <li>Kungase kudingeke ukuba ufakele olunye uhlaka olusetshenziswayo ukuze uvule leli kheli.</li> 
 </ul>">
 
@@ -105,10 +105,7 @@ Okungowakho ofakelwe.</li>
 </ul>">
 
 <!ENTITY nssFailure2.title "Uxhumo oluvikelekile luhlulekile">
-<!ENTITY nssFailure2.longDesc "<ul> 
-<li>Ikhasi ozama ukulibuka alikwazi ukuboniswa ngoba ukuqinisekiswa kwedatha etholiwe akukwazanga ukuqinisekiswa.</li> 
-<li>Sicela uxhumane nabanikazi bewebhusayithi ukuze ubazise ngale nkinga. Okunye, sebenzisa umyalo otholakala kumenyu yosizo ukuze ubike leli sayithi eliphukile.</li> 
-</ul>">
+
 
 <!ENTITY nssBadCert.title "Uxhumo oluvikelekile luhlulekile">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
@@ -131,12 +128,14 @@ kwesikhashana.</li>
 <!ENTITY malwareBlocked.longDesc "<p>Amasayithi wokuhlasela angazama ukufaka izinhlelo zokuntshontsha imininingwane eyimfihlo, asebenzise ikhompyutha yakho ukuhlasela amanye, noma amoshe uhlelo lwakho.</p> 
 <p>Abanikazi bama webhusayithi abakholelwa ukuthi isayithi labo libikwe ngokuthi lingumhlaseli ngephutha <a href='http://www.stopbadware.org/home/reviewinfo' > bangacela isibuyekezo</a>.</p>">
 
+
+
 <!ENTITY phishingBlocked.title "Ukusolwa kokubhumbuluwa kwe webhu!">
 <!ENTITY phishingBlocked.longDesc "<p>Ukufaka noma iyiphi imininingwane yakho kule khasi kungaholela ekuntshontshweni kobunikazi noma kokuye ukukhohlisa.</p> 
 <p>Lezi zinhlobo zokubhumbuluzwa kwe webhu kusetshenziswa ekuqolweni okwaziwa ngokuhlaselwa kwe-phishing, lapho amakhasi wewebhu anenkohliso nama imeyili asetshenziselwa ukufaniswa nemithombo ongayethemba.</p>">
 
-<!ENTITY cspFrameAncestorBlocked.title "Kuvinjelwe yinqubomgomo yokuphepha okuqukethwe">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; ivimbele le khasi ekulayisheni ngale ndlela ngoba ikhasi linenqubomgomo yokuphepha kokuqukethwe okuyinqabelayo.</p>">
+<!ENTITY cspBlocked.title "Kuvinjelwe yinqubomgomo yokuphepha okuqukethwe">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; ivimbele le khasi ekulayisheni ngale ndlela ngoba ikhasi linenqubomgomo yokuphepha kokuqukethwe okuyinqabelayo.</p>">
 
 <!ENTITY corruptedContentError.title "Iphutha lokuqukethwe elimoshekile">
 <!ENTITY corruptedContentError.longDesc "<p>Le khasi ozama ukulibuka alikwazi ukuboniswa ngoba lisebenzisa indlela yokuminyanisa engavumelekile noma engasekelwanga.</p><ul><li>Sicela uxhumane nabanikazi bewebhusayithi ukubazisa ngalenkinga.</li></ul>">
@@ -156,5 +155,17 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
+
+
+
+
+
+
+
+
 <!ENTITY remoteXUL.title "Isilawuli-kude se-XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Sicela uxhumane nabanikazi bewebhusayithi ukuze ubazise ngalenkinga.</li></ul></p>">
+
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
+     "ssl_error_unsupported_version". -->
+
