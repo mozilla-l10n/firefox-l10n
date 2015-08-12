@@ -4,12 +4,14 @@
 
 <!ENTITY tracking.label                 "Monitorização da navegação">
 
-<!ENTITY dntTrackingNotOkay.label2      "Impedir os sites de monitorizarem a minha navegação">
-<!ENTITY dntTrackingNotOkay.accesskey   "N">
-<!ENTITY trackingProtection.label       "Impedir monitorização por parte dos sites">
-<!ENTITY trackingProtection.accesskey   "m">
-<!ENTITY trackingProtectionLearnMore.label "Saber mais">
-<!ENTITY doNotTrackInfo.label           "Saber mais">
+
+<!ENTITY doNotTrackInfo.label          "Saber mais">
+
+
+
+
+
+
 
 <!ENTITY  history.label                 "Histórico">
 
@@ -24,6 +26,8 @@
 <!ENTITY  locbar.openpage.accesskey     "o">
 <!ENTITY  locbar.searches.label         "Pesquisar relacionadas do motor de pesquisa por omissão">
 <!ENTITY  locbar.searches.accesskey     "d">
+
+
 
 <!ENTITY  acceptCookies.label           "Aceitar cookies de sites">
 <!ENTITY  acceptCookies.accesskey       "A">

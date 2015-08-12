@@ -9,6 +9,8 @@
 <!ENTITY provideSearchSuggestions.label        "Mostrar sugestões de pesquisa">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
 
+
+
 <!ENTITY redirectWindowsSearch.label "Utilizar este mecanismo de pesquisa para pesquisas no Windows">
 <!ENTITY redirectWindowsSearch.accesskey "W">
 
