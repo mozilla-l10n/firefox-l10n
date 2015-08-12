@@ -6,11 +6,11 @@
 
 
 <!ENTITY doNotTrackInfo.label          "Meer inligting">
+<!ENTITY trackingProtection5.label     "Gebruik volgbeskerming">
+<!ENTITY trackingProtection5.accesskey "v">
 
-
-
-
-
+<!ENTITY trackingProtectionPBM5.label         "Gebruik volgbeskerming in private vensters">
+<!ENTITY trackingProtectionPBM5.accesskey     "v">
 
 
 <!ENTITY  history.label                 "Geskiedenis">
