@@ -48,8 +48,6 @@ that require it.  -->
 
 
 
-<!ENTITY itemPasswords.label               "შენახული პაროლები">
-<!ENTITY itemPasswords.accesskey           "P">
 <!ENTITY itemCookies.label                 "ნაჭდევები">
 <!ENTITY itemCookies.accesskey             "C">
 <!ENTITY itemCache.label                   "ბუფერი">

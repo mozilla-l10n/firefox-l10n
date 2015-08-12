@@ -11,10 +11,16 @@
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
+
+
 <!ENTITY importFromNothing.label        "არაფრის გადმოტანა">
 <!ENTITY importFromNothing.accesskey    "D">
 <!ENTITY importFromSafari.label         "Safari">
 <!ENTITY importFromSafari.accesskey     "S">
+
+
+
+
 
 
 

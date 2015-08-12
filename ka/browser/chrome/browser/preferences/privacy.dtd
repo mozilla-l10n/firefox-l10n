@@ -3,13 +3,18 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
+<!ENTITY doNotTrackInfo.label          "დაწვრილებით">
 
 
 
-<!ENTITY doNotTrackInfo.label           "დაწვრილებით">
+
+
+
 
 
 <!ENTITY  locationBar.label             "მისამართების პანელი">
+
+
 
 
 
