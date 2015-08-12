@@ -26,29 +26,18 @@
 <!ENTITY checkSpelling.label             "Lekola mopeleto wa ka ge ke dutše ke tlanya">
 <!ENTITY checkSpelling.accesskey         "t">
 
-<!ENTITY systemDefaults.label            "Ditirelwa tša tshepedišo">
-<!--XXX-->
-<!ENTITY alwaysCheckDefault.label        "Ka mehla lekola go bona ge e ba &brandShortName; ke sephetli sa tirelwa ge o thoma">
-<!ENTITY alwaysCheckDefault.accesskey    "m">
-<!ENTITY setDefault.label                "Dira gore &brandShortName; e be praosara ya tirelwa">
-<!ENTITY setDefault.accesskey            "t">
-<!ENTITY isDefault.label                 "&brandShortName; gona bjale ke praosara ya gago ya tirelwa">
-
 <!ENTITY dataChoicesTab.label            "Dikgetho tša tsebišo">
 
-<!ENTITY healthReportSection.label       "Pego ya tša maphelo ya &brandShortName; ">
 <!ENTITY healthReportDesc.label          "E go thuša go kwešiša tsela yeo praosara ya gago e šomago ka yona le go abelana tsebišo le &vendorShortName; ka ga boemo bja tša maphelo bja praosara ya gago">
 <!ENTITY enableHealthReport.label        "Dumelela pego ya tša maphelo ya &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "e">
 <!ENTITY healthReportLearnMore.label     "Ithute ka mo go oketšegilego">
 
-<!ENTITY telemetrySection.label          "Thelemetri">
 <!ENTITY telemetryDesc.label             "E abelana tsela ya go šoma, tirišo, tsebišo ya hatewere le ya tlwaelantšo ka ga praosara ya gago le &vendorShortName; go thuša go dira gore &brandShortName; e be kaone">
-<!ENTITY enableTelemetry.label           "Dumelela Thelemetri">
-<!ENTITY enableTelemetry.accesskey       "T">
+
+
 <!ENTITY telemetryLearnMore.label        "Ithute ka mo go oketšegilego">
 
-<!ENTITY crashReporterSection.label      "Sebegi sa go pšhatlega">
 <!ENTITY crashReporterDesc.label         "&brandShortName; e romela dipego tša go pšhatlega go thuša &vendorShortName; go dira gore praosara ya gago e tie e be e šireletšege">
 <!ENTITY enableCrashReporter.label       "Dumelela sebegi sa go pšhatlega">
 <!ENTITY enableCrashReporter.accesskey   "t">
@@ -85,8 +74,8 @@
 <!ENTITY updateTab.label                 "Kaonafatšo">
 
 <!ENTITY updateApp.label                 "Dimpshafatšo tša &brandShortName;">
-<!ENTITY updateAuto.label                "Lokela dimpshafatšo ka maitirišo (e a hlohleletšwa; tšhireletšego yeo e kaonafaditšwego)">
-<!ENTITY updateAuto.accesskey            "a">
+<!ENTITY updateAuto1.label               "Lokela dimpshafatšo ka maitirišo (e a hlohleletšwa; tšhireletšego yeo e kaonafaditšwego)">
+<!ENTITY updateAuto1.accesskey           "a">
 <!ENTITY updateCheck.label               "Lekola dimpshafatšo, eupša e re ke kgethe ge eba ke tla di lokela">
 <!ENTITY updateCheck.accesskey           "a">
 <!ENTITY updateManual.label              "O se ke wa lekola dimpshafatšo (ga e hlohleletšwe, kotsi ya tšhireletšego)">
@@ -117,16 +106,15 @@
 <!ENTITY offlineAppRemove.confirm        "Tloša tsebišo yeo e sego inthaneteng">
 
 <!ENTITY certificateTab.label            "Ditifikeiti">
+
 <!ENTITY certSelection.description       "Ge seabi se kgopela setifikeiti sa ka:">
 <!ENTITY certs.auto                      "Kgetha e tee ka maitirišo">
-<!ENTITY certs.auto.accesskey            "t">
+
 <!ENTITY certs.ask                       "Mpotšiše nako le nako">
-<!ENTITY certs.ask.accesskey             "i">
-<!ENTITY viewCerts.label                 "Lebelela ditifikeiti">
-<!ENTITY viewCerts.accesskey             "d">
-<!ENTITY viewCRLs.label                  "Malokelelo a pitšo gape">
-<!ENTITY viewCRLs.accesskey              "p">
-<!ENTITY verify2.label                   "Tiišetšo">
-<!ENTITY verify2.accesskey               "T">
-<!ENTITY viewSecurityDevices.label       "Ditlabelo tša tšhireletšo">
-<!ENTITY viewSecurityDevices.accesskey   "l">
+
+
+
+
+
+
+

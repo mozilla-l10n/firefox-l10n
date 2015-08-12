@@ -9,15 +9,34 @@
 o leka go rarolla bothata. Ge e ba o nyaka dikarabo tša dipotšišo tše tlwaelegilego 
 ka ga &brandShortName;, lebelela wepesaete ya rena ya  <a id='supportLink'> ya thekgo</a>.">
 
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like id.heading in crashes.dtd. -->
+
+
+
+
 <!ENTITY aboutSupport.extensionsTitle "Dikoketšo">
 <!ENTITY aboutSupport.extensionName "Leina">
 <!ENTITY aboutSupport.extensionEnabled "Kgontšha">
 <!ENTITY aboutSupport.extensionVersion "Tokollo">
-<!ENTITY aboutSupport.extensionId "ID">
+
+
+
+
+<!ENTITY aboutSupport.experimentDescription "Tlhaloso">
+
+
+<!ENTITY aboutSupport.experimentHomepage "Letlakala la mathomo">
+
 
 <!ENTITY aboutSupport.appBasicsTitle "Metheo ya tirišo">
 <!ENTITY aboutSupport.appBasicsName "Leina">
 <!ENTITY aboutSupport.appBasicsVersion "Tokollo">
+
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+"Update" is a noun here, not a verb. -->
+
+
 
 <!ENTITY aboutSupport.appBasicsProfileDir "Tšhupetšo ya profaele">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
@@ -28,8 +47,11 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Ditsebišo-koketšo tšeo di kgontšhitšwego">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Peakanyo ya go aga">
 <!ENTITY aboutSupport.appBasicsUserAgent "Moemedi wa modiriši">
-<!ENTITY aboutSupport.appBasicsCrashIDs "Dipego tša go pšhatlega">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Tirišo ya polokelo">
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
+
+
+<!ENTITY aboutSupport.appBasicsSafeMode "Mokgwa o bolokegilego">
 
 <!ENTITY aboutSupport.showDir.label "Bula tšhupetšo">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
@@ -42,11 +64,14 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Dikganyogwa tše fetošitšwego tše bohlokwa">
 <!ENTITY aboutSupport.modifiedPrefsName "Leina">
-<!ENTITY aboutSupport.modifiedPrefsValue "Boleng">
+
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
 <!ENTITY aboutSupport.userJSTitle "Dikganyogwa tša user.js">
 <!ENTITY aboutSupport.userJSDescription "Foltara ya gago ya profaele e na le <a id='prefs-user-js-link'>faele ya user.js</a>, yeo e akaretšago dikganyogwa tšeo di sa hlangwago ke &brandShortName;.">
+
+
+
 
 <!ENTITY aboutSupport.graphicsTitle "Diswantšho">
 
@@ -60,7 +85,10 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.libraryVersionsTitle "Ditokollo tša bokgobapuku">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Histori ya go lokela">
-<!ENTITY aboutSupport.updateHistoryTitle "Mpshafatša histori">
+
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Kopiša sengwalwa go lenaneo-polokelo">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Kopiša tsebišo e sa tswakwago go lenaneo-polokelo">
+
+
+

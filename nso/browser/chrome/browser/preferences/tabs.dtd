@@ -8,14 +8,12 @@
 <!ENTITY warnCloseMultipleTabs.label  "Ntemoše ge go tswalelwa dithepo tše ntšhi">
 <!ENTITY warnCloseMultipleTabs.accesskey  "N">
 
-<!ENTITY warnOpenManyTabs.label       "Ntemoše ge go bula dithepo tše ntšhi go ka theoša lebelo la &brandShortName;">
-<!ENTITY warnOpenManyTabs.accesskey   "b">
 
-<!ENTITY restoreTabsOnDemand.label        "O se ke wa hlahlela dithepo go fihlela di kgethwa">
-<!ENTITY restoreTabsOnDemand.accesskey    "l">
 
-<!ENTITY switchToNewTabs.label        "Ge ke bula lomaganyo go thepo e mpsha, fetogela go yona ka pejana">
-<!ENTITY switchToNewTabs.accesskey    "f">
+
+
+
 
 <!ENTITY showTabsInTaskbar.label          "Laetša ditebelelopele tša thepo go thasekepaa ya Windows">
 <!ENTITY showTabsInTaskbar.accesskey      "k">
+<!ENTITY tabsGroup.label          "Dithepe">

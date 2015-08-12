@@ -27,7 +27,7 @@
 <!ENTITY closeWindow.commandkey         "W">
 
 <!ENTITY search.emptytext               "Nyaka">
-<!ENTITY searchHeader.label             "Search results">
+
 <!ENTITY toctab.label                   "Diteng">
 <!ENTITY toctab.accesskey               "D">
 <!-- LOCALIZATION NOTE :

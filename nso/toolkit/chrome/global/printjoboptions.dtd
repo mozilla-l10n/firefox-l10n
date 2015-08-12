@@ -9,15 +9,6 @@
 <!ENTITY paperInput.label "Bogolo bja pampiri:">
 <!ENTITY paperInput.accesskey "B">
 
-<!ENTITY plexInput.label "Mokgwa wa plex:">
-<!ENTITY plexInput.accesskey "M">
-
-<!ENTITY resolutionInput.label "Sephetho/Boleng:">
-<!ENTITY resolutionInput.accesskey "e">
-
-<!ENTITY cmdInput.label "Taelo ya kgatišo:">
-<!ENTITY cmdInput.accesskey "o">
-
 <!ENTITY jobTitleInput.label "Thaetlele ya mošomo:">
 <!ENTITY jobTitleInput.accesskey "T">
 
@@ -26,13 +17,6 @@
 <!ENTITY grayRadio.accesskey "S">
 <!ENTITY colorRadio.label "Mmala">
 <!ENTITY colorRadio.accesskey "M">
-
-<!ENTITY colorspaceInput.label "Sekgoba sa mmala:">
-<!ENTITY colorspaceInput.accesskey "S">
-
-<!ENTITY fontsGroup.label "Difonte:">
-<!ENTITY downloadFonts.label "Laolla difonte go segatiši">
-<!ENTITY downloadFonts.accesskey "L">
 
 <!ENTITY edgeMarginInput.label "Sekgoba go tloga ntlheng ya pampiri go ya mollwaneng">
 <!ENTITY topInput.label "Godimo:">

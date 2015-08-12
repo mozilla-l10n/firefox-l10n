@@ -4,17 +4,33 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Tsebišo ya thelemetri">
 
-<!ENTITY aboutTelemetry.telemetryEnabled "Thelemetri e <span>dumeletšwe</span>.">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "Thelemetri e <span>šitišitšwe</span>.">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutTelemetry.slowSqlSection "Ditatamente tše nanyago tša SQL">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "Praosara e a diega">
 
+
 <!ENTITY aboutTelemetry.histogramsSection "Dihistograma">
 
+
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "Ditekanyo tše bonolo">
+
 
 <!ENTITY aboutTelemetry.lateWritesSection "Dingwalwa tša ka morago ga nako">
 
@@ -22,9 +38,6 @@
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "Dihistograma tšeo di kgobokeditšwego ke ditlaleletši">
 
-<!ENTITY aboutTelemetry.toggleOn "Kgotla gore o atološe karolo">
-
-<!ENTITY aboutTelemetry.toggleOff "Kgotla gore o phuhlamiše karolo">
 
 <!ENTITY aboutTelemetry.emptySection "(Ga go na tsebišo e kgobokeditšwego)">
 
@@ -33,3 +46,4 @@
 <!ENTITY aboutTelemetry.fetchSymbols "Lata maina a ditiro bakeng sa mekgobo ya go diega">
 
 <!ENTITY aboutTelemetry.hideSymbols "Laetša tsebišo go tšwa go tšeo di diegago">
+

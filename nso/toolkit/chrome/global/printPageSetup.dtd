@@ -6,7 +6,6 @@
 
 <!ENTITY printSetup.title    "Peakanyo ya letlakala">
 
-<!ENTITY basic.tab           "Sebopego &amp; dikgetho">
 
 <!ENTITY formatGroup.label   "Sebopego">
 
@@ -25,10 +24,8 @@
 
 <!ENTITY optionsGroup.label  "Dikgetho">
 
-<!ENTITY printBG.label       "Gatiša bokamorago (mebala, &amp; diswantšho)">
-<!ENTITY printBG.accesskey   "b">
 
-<!ENTITY advanced.tab        "Mellwane &amp; hlogwana/bogomo">
+
 
 <!ENTITY marginGroup.label   "Mellwane (#1)">
 <!ENTITY marginUnits.inches  "dinoko">
@@ -42,7 +39,6 @@
 <!ENTITY marginRight.label   "La go ja:">
 <!ENTITY marginRight.accesskey "L">
 
-<!ENTITY headerFooter.label  "Dihlogwana &amp; magomo">
 
 <!ENTITY hfLeft.label        "Nngele:">
 <!ENTITY hfCenter.label      "Bogareng:">

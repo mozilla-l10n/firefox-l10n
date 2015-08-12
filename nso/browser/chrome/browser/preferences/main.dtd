@@ -22,10 +22,6 @@
 
 <!ENTITY downloads.label     "Ditaollo">
 
-<!ENTITY showWhenDownloading.label     "Laetša lefasetere la ditaollo ge o laolla faele">
-<!ENTITY showWhenDownloading.accesskey "d">
-<!ENTITY closeWhenDone.label "E tswalele ge ditaollo di feditše">
-<!ENTITY closeWhenDone.accesskey "g">
 <!ENTITY saveTo.label "Boloka difaele go">
 <!ENTITY saveTo.accesskey "k">
 <!ENTITY chooseFolderWin.label        "Phetla…">
@@ -34,3 +30,13 @@
 <!ENTITY chooseFolderMac.accesskey    "e">
 <!ENTITY alwaysAsk.label "Ka mehla mpotšiše moo go swanetšego go bolokelwa gona">
 <!ENTITY alwaysAsk.accesskey "K">
+
+
+
+
+<!ENTITY isDefault.label                  "&brandShortName; gona bjale ke praosara ya gago ya tirelwa">
+
+
+
+
+
