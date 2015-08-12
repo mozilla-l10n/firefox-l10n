@@ -2,18 +2,44 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.title            "Privát böngészést folytat">
-<!ENTITY aboutPrivateBrowsing.title.normal     "Megnyitja a privát ablakot?">
-
-<!ENTITY aboutPrivateBrowsing.subtitle         "A &brandShortName; semmit nem fog megjegyezni ebből az ablakból.">
-<!ENTITY aboutPrivateBrowsing.subtitle.normal  "A &brandShortName; nem fogja megjegyezni a privát ablakok előzményeit.">
-
-<!ENTITY aboutPrivateBrowsing.description      "Ez alatt a böngészés előzményeit, a keresés előzményeit, a letöltés előzményeit, az űrlapok előzményeit, a sütiket, illetve az ideiglenes internetfájlokat kell érteni. A letöltött fájlok és a könyvjelzők viszont megmaradnak.">
-
 <!ENTITY aboutPrivateBrowsing.notPrivate       "Jelenleg nem privát ablakot használ.">
-
-<!ENTITY aboutPrivateBrowsing.moreInfo         "Bár ezen a számítógépen nem lesznek tárolva a böngészési előzmények, az internetszolgáltatója vagy a munkáltatója ettől függetlenül is ellenőrizheti, hogy milyen oldalakat látogat meg.">
-<!ENTITY aboutPrivateBrowsing.learnMore        "Tudjon meg többet.">
-
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Privát ablak megnyitása">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
+
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
+     Width of the Private Browsing section.
+     -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
+     aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
+     These strings will be replaced by aboutPrivateBrowsing.forgotten and
+     aboutPrivateBrowsing.kept when the new visual design lands (bug 1192625).
+     -->
+
+<!ENTITY aboutPrivateBrowsing.title            "Privát böngészést folytat">
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.history     "Előzmények">
+
+<!ENTITY aboutPrivateBrowsing.info.cookies     "Sütik">
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.downloads   "Letöltések">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks   "Könyvjelzők">
+
+<!ENTITY aboutPrivateBrowsing.learnMore        "Tudjon meg többet.">
+<!-- LOCALIZATION NOTE (trackingProtection.width):
+     Width of the Tracking Protection section. This should be enough to
+     accommodate the title as well as the enabled or disabled indicator.
+     -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.state.width):
+     Width of the element representing the enabled or disabled indicator.
+     -->
+
+
+
+
+
+
