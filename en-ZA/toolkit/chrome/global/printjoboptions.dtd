@@ -15,7 +15,7 @@
 <!ENTITY colorGroup.label "Colour:">
 <!ENTITY grayRadio.label "Grayscale">
 <!ENTITY grayRadio.accesskey "G">
-<!ENTITY colorRadio.label "Color">
+<!ENTITY colorRadio.label "Colour">
 <!ENTITY colorRadio.accesskey "C">
 
 <!ENTITY edgeMarginInput.label "Gap from edge of paper to Margin">
