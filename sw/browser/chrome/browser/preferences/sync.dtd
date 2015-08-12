@@ -16,7 +16,6 @@
 
 <!ENTITY manageAccount.label          "Dhibiti Akaunti">
 <!ENTITY manageAccount.accesskey      "A">
-<!ENTITY viewQuota.label              "Angalia Kwota">
 <!ENTITY changePassword2.label        "Badilisha Neno la Siri…">
 <!ENTITY myRecoveryKey.label          "Ufunguo Wangu wa Afueni">
 <!ENTITY resetSync2.label             "Weka Upya Ulandanishi…">
@@ -26,8 +25,6 @@
 <!ENTITY syncMy.label               "Landanisha">
 <!ENTITY engine.bookmarks.label     "Alamisho">
 <!ENTITY engine.bookmarks.accesskey "s">
-
-
 <!ENTITY engine.tabs.label          "Vichupo">
 <!ENTITY engine.tabs.accesskey      "V">
 <!ENTITY engine.history.label       "Historia">
@@ -74,6 +71,17 @@ both, to better adapt this sentence to their language.
 
 
 
-<!ENTITY welcome.signIn.label "Ingia">
+
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
 
 

@@ -48,8 +48,6 @@ that require it.  -->
 
 
 
-<!ENTITY itemPasswords.label               "Maneno ya Siri Yaliyohifadhiwa">
-<!ENTITY itemPasswords.accesskey           "Y">
 <!ENTITY itemCookies.label                 "Vidakuzi">
 <!ENTITY itemCookies.accesskey             "V">
 <!ENTITY itemCache.label                   "Hifadhi muda">

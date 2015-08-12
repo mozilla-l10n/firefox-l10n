@@ -4,14 +4,19 @@
 
 <!ENTITY tracking.label                 "Ufuatiliaji">
 
-<!ENTITY dntTrackingNotOkay.accesskey   "n                ">
+
+<!ENTITY doNotTrackInfo.label          "Jifunze Zaidi">
 
 
 
-<!ENTITY doNotTrackInfo.label           "Jifunze Zaidi">
+
+
+
 
 
 <!ENTITY  locationBar.label             "Mwambaa wa Mahali">
+
+
 
 
 
