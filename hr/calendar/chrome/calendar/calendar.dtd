@@ -252,10 +252,14 @@
 <!ENTITY calendar.context.export.accesskey             "e">
 <!ENTITY calendar.context.properties.label             "Postavke">
 <!ENTITY calendar.context.properties.accesskey         "P">
-<!-- LOCALIZATION NOTE (calendar.context.togglevisible.accesskey)
+<!-- LOCALIZATION NOTE (calendar.context.showcalendar.accesskey)
      This is the access key used for the showCalendar string -->
 
-<!ENTITY calendar.context.togglevisible.accesskey      "P">
+<!ENTITY calendar.context.showcalendar.accesskey      "P">
+<!-- LOCALIZATION NOTE (calendar.context.hidecalendar.accesskey)
+     This is the access key used for the hideCalendar string -->
+
+<!ENTITY calendar.context.hidecalendar.accesskey      "S">
 <!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
      This is the access key used for the showOnlyCalendar string -->
 
