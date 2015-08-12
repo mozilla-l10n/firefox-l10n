@@ -17,30 +17,35 @@
      -->
 
 <!ENTITY aboutPrivateBrowsing.title            "U blaai nou privaat">
+<!ENTITY aboutPrivateBrowsing.subtitle         "In dié venster sal &brandShortName; geen geskiedenis onthou nie.">
 
-
+<!ENTITY aboutPrivateBrowsing.forgotten        "In dié venster sal &brandShortName; niks hiervan onthou nie:">
 
 <!ENTITY aboutPrivateBrowsing.info.history     "Geskiedenis">
-
+<!ENTITY aboutPrivateBrowsing.info.searches    "Soektogte">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Koekies">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Tydelike lêers">
 
-
-
+<!ENTITY aboutPrivateBrowsing.kept             "&brandShortName; sal die volgende hou:">
+<!ENTITY aboutPrivateBrowsing.info.kept        "Gehou">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Aflaaie">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Boekmerke">
 
+<!ENTITY aboutPrivateBrowsing.note1            "Let wel: u werkgewer of internetdiensverskaffer kan steeds 'n rekord hou van die bladsye wat u besoek.">
 <!ENTITY aboutPrivateBrowsing.learnMore        "Meer inligting.">
 <!-- LOCALIZATION NOTE (trackingProtection.width):
      Width of the Tracking Protection section. This should be enough to
      accommodate the title as well as the enabled or disabled indicator.
      -->
-
+<!ENTITY trackingProtection.title              "Volgbeskerming">
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
+<!ENTITY trackingProtection.state.enabled      "AAN">
+<!ENTITY trackingProtection.state.disabled     "AF">
 
+<!ENTITY trackingProtection.description1       "Private vensters blok nou dele van die bladsy wat dalk u blaaigedrag dophou.">
 
-
-
-
-
+<!ENTITY trackingProtection.disable            "Skakel volgbeskerming af">
+<!ENTITY trackingProtection.enable             "Skakel volgbeskerming aan">
+<!ENTITY trackingProtection.startTour1         "Sien hoe dit werk">
