@@ -171,11 +171,6 @@
 
 <!ENTITY options.stylesheetAutocompletion.label      "CSS awtomatiski wudopołniś">
 <!ENTITY options.stylesheetAutocompletion.tooltip    "CSS-kakosći, gódnoty a selektory w stilowem editorje pśi pisanju awtomatiski wudopołniś">
-<!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
-  -  heading of the group of JavaScript Profiler preferences in the options
-  -  panel. -->
-
-<!ENTITY options.profiler.label            "JavaScriptowa analyza běžnego casa">
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->
