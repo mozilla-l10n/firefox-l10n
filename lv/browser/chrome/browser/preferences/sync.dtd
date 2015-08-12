@@ -16,7 +16,6 @@
 
 <!ENTITY manageAccount.label          "Pārvaldīt kontu">
 <!ENTITY manageAccount.accesskey      "P">
-<!ENTITY viewQuota.label              "Aplūkot kvotu">
 <!ENTITY changePassword2.label        "Mainīt paroli…">
 <!ENTITY myRecoveryKey.label          "Mana atgūšanas atslēga">
 <!ENTITY resetSync2.label             "Atiestatīt sinhronizāciju…">
@@ -26,8 +25,6 @@
 <!ENTITY syncMy.label               "Ko sinhronizēt">
 <!ENTITY engine.bookmarks.label     "Grāmatzīmes">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.readinglist.label   "Lasīšanas saraksts">
-<!ENTITY engine.readinglist.accesskey "L">
 <!ENTITY engine.tabs.label          "Cilnes">
 <!ENTITY engine.tabs.accesskey      "C">
 <!ENTITY engine.history.label       "Vēsturi">
@@ -74,13 +71,24 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Jūs neesat pieslēdzies.">
 <!ENTITY signIn.label                "Pieslēgties">
+
 <!ENTITY manage.label                "Pārvaldīt">
 <!ENTITY disconnect.label            "Atslēgties…">
 <!ENTITY verify.label                "Apstiprināt epastu">
 <!ENTITY forget.label                "Aizmirst šo epastu">
 
 <!ENTITY welcome.description "Izmantojiet cilnes, grāmatzīmes un paroles visur, kur Jums ir &brandShortName;.">
-<!ENTITY welcome.signIn.label "Pieslēgties">
-<!ENTITY welcome.createAccount.label "Izveidot kontu">
+
+
 
 <!ENTITY welcome.useOldSync.label "Izmantojat veco sinhronizācijas versiju?">
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+
+

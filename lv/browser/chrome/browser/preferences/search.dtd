@@ -9,6 +9,8 @@
 <!ENTITY provideSearchSuggestions.label        "Piedāvāt meklēšanas ieteikumus">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
 
+
+
 <!ENTITY redirectWindowsSearch.label "Izmantot šo meklētāju, lai meklētu no Windows">
 <!ENTITY redirectWindowsSearch.accesskey "W">
 

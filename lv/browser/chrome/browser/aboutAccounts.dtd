@@ -4,7 +4,8 @@
 
 <!ENTITY aboutAccounts.welcome "Laipni lūgti &syncBrand.shortName.label;">
 
+
 <!ENTITY aboutAccountsConfig.description "Pierakstieties, lai sinhronizētu cilnes, grāmatzīmes, paroles un citas lietas.">
 <!ENTITY aboutAccountsConfig.startButton.label "Ar ko sākt">
 <!ENTITY aboutAccountsConfig.useOldSync.label "Izmantojat vecāku sinhronizēšanas versiju?">
-<!ENTITY aboutAccountsConfig.manage.label "Pārvaldīt">
+
