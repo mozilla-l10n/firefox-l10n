@@ -110,6 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "W">
 
 <!ENTITY fxaSignIn.label "Pla &syncBrand.shortName.label; pśizjawiś">
+
 <!ENTITY fxaSignInError.label "Z &syncBrand.shortName.label; znowego zwězaś">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; zmóžnjony">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; chapja we wokognuśu synchronizěrowaś.">
@@ -126,8 +127,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "b">
 <!ENTITY fullScreenExit.label "Modus połneje wobrazowki spušćiś">
 <!ENTITY fullScreenExit.accesskey "M">
-<!ENTITY fullscreenAllowButton.label "Dowóliś">
-<!ENTITY fullscreenExitButton.label "Wótpokazaś">
 
 <!ENTITY fullscreenExitHint2.value "Móžośo kuždy cas ESC tłocyś, aby wujšeł.">
 <!ENTITY leaveDOMFullScreen.label "Połnu wobrazowku spušćiś">
@@ -395,6 +394,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.placeholder2          "Pytaś abo adresu zapódaś">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "K rejtarkoju pśejś:">
+
+
+<!ENTITY urlbar.searchSuggestionsNotification.disable "Ně">
+<!ENTITY urlbar.searchSuggestionsNotification.enable "Jo">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -419,6 +422,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
+<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
+     These are set as the aria-label attribute for the search input box and
+     submit button in the in-content search UI, to be used by screen readers. -->
+
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -634,6 +641,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "Z">
 
+
 <!ENTITY pageStyleMenu.label "Stil boka">
 <!ENTITY pageStyleMenu.accesskey "l">
 <!ENTITY pageStyleNoStyle.label "Žeden stil">
@@ -672,12 +680,31 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "Dokóńcony">
 <!ENTITY editBookmark.cancel.label                   "Pśetergnuś">
-<!ENTITY editBookmark.removeBookmark.accessKey       "w">
+
 
 <!ENTITY identity.connectionSecure "Wěsty zwisk">
 <!ENTITY identity.connectionNotSecure "Zwisk njejo wěsty">
+
 <!ENTITY identity.connectionVerified "&brandShortName; jo zwěsćił, až maśo wěsty zwisk z toś tym sedłom, kótaregož wobgóspodarjowaŕ jo:">
 <!ENTITY identity.connectionInternal "To jo wěsty bok &brandShortName;.">
+<!-- Strings for connection state warnings. -->
+
+
+
+<!-- Strings for connection state warnings in the subview. -->
+
+
+
+
+
+
+
+
+
+
+<!ENTITY identity.disableMixedContentBlocking.label "Šćit nachylnje znjemóžniś">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "z">
+
 
 <!ENTITY identity.moreInfoLinkText2 "Dalšne informacije">
 
@@ -754,27 +781,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
 <!ENTITY getUserMedia.selectMicrophone.label "Mikrofon, kótaryž ma se gromaźe wužywaś:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+
 <!ENTITY getUserMedia.allWindowsShared.message "Wšykne widobne wokna na wašej wobrazowce budu se źěliś.">
-<!-- Bad Content Blocker Doorhanger Notification -->
 
-<!ENTITY badContentBlocked.moreinfo "Nejwěcej websedłow hyšći pórědnje funkcioněrujo, lěcrownož wopśimjeśe jo blokěrowane.">
 
-<!ENTITY mixedContentBlocked2.message "Njewěste wopśimjeśe">
-<!ENTITY mixedContentBlocked2.moreinfo "Někotare njeskoděrowane elementy na toś tom websedle su se blokěrowali.">
-<!ENTITY mixedContentBlocked2.learnMore "Dalšne informacije">
-<!ENTITY mixedContentBlocked2.options "Nastajenja">
-<!ENTITY mixedContentBlocked2.unblock.label "Šćit nachylnje znjemóžniś">
-<!ENTITY mixedContentBlocked2.unblock.accesskey "z">
-<!ENTITY mixedContentBlocked2.block.label "Šćit zmóžniś">
-<!ENTITY mixedContentBlocked2.block.accesskey "z">
-<!ENTITY mixedContentBlocked2.disabled.message "Šćit jo znjemóžnjony">
+
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+
+
+
 
 <!ENTITY trackingContentBlocked.message "Slědowanje">
 <!ENTITY trackingContentBlocked.moreinfo "Źěle boka, kótarež slěduju wašu online-aktiwitu, su se blokěrowali.">
 <!ENTITY trackingContentBlocked.learnMore "Dalšne informacije">
-<!ENTITY trackingContentBlocked.options "Nastajenja">
-<!ENTITY trackingContentBlocked.unblock2.label "Šćit za toś to sydło znjemóžniś">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "n">
+
+
+
 <!ENTITY trackingContentBlocked.block.label "Šćit zmóžniś">
 <!ENTITY trackingContentBlocked.block.accesskey "z">
 <!ENTITY trackingContentBlocked.disabled.message "Šćit pśeśiwo slědowanjeju jo znjemóžnjony">
@@ -840,18 +869,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeNotificationsNotNow.accesskey         "N">
 <!ENTITY emeNotificationsDontAskAgain.label       "Hyšći raz se njepšašaś">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "H">
-
-<!ENTITY readingList.label                        "Cytańska lisćina">
-<!ENTITY readingList.sidebar.commandKey           "R">
-<!ENTITY readingList.showSidebar.label            "Bócnicu cytańskeje lisćiny pokazaś">
-<!-- Pre-landed string for bug 1124153 -->
-<!ENTITY readingList.sidebar.showMore.label       "Wěcej pokazaś…">
-<!-- Pre-landed string for bug 1133662 -->
-<!ENTITY readingList.sidebar.emptyText            "Pśidajśo wašej cytańskej lisćinje nastawki, aby je za pózdźej składował a jo lažko namakał, gaž je trjebaśo.">
-<!ENTITY readingList.sidebar.delete.tooltip       "To z wašeje cytańskeje lisćiny wótpóraś">
-<!-- Pre-landed strings for bug 1123519 -->
-<!ENTITY readingList.sidebar.add.label            "Cytańskej lisćinje pśidaś">
-<!ENTITY readingList.sidebar.add.tooltip          "Wašej cytańskej lisćinje toś ten bok pśidaś">
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 
 <!ENTITY saveToPocketCmd.label     "Bok do Pocket składowaś">

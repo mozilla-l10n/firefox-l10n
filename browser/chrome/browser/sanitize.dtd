@@ -52,8 +52,6 @@ that require it.  -->
 <!ENTITY itemHistoryAndDownloads.accesskey "l">
 <!ENTITY itemFormSearchHistory.label       "Historija formularow a pytanja">
 <!ENTITY itemFormSearchHistory.accesskey   "f">
-<!ENTITY itemPasswords.label               "Składowane gronidła">
-<!ENTITY itemPasswords.accesskey           "S">
 <!ENTITY itemCookies.label                 "Cookieje">
 <!ENTITY itemCookies.accesskey             "C">
 <!ENTITY itemCache.label                   "Pufrowak">
