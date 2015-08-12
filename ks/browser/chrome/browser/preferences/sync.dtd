@@ -16,7 +16,6 @@
 
 <!ENTITY manageAccount.label          "ایکاوُنٹ کْریو منیج &amp;">
 <!ENTITY manageAccount.accesskey      "n">
-<!ENTITY viewQuota.label              "كوٹا وچھیو">
 <!ENTITY changePassword2.label        "خُفیئ لفظ بدلٲویو...">
 <!ENTITY myRecoveryKey.label          "مین واپس اَنَنچ كی">
 <!ENTITY resetSync2.label             "سینك كریو ری سیٹ...">
@@ -26,8 +25,6 @@
 <!ENTITY syncMy.label               "میون كریو سینك">
 <!ENTITY engine.bookmarks.label     "نشان زَد">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.readinglist.label   "ریڈینگ لِسٹْہ &amp;">
-<!ENTITY engine.readinglist.accesskey "L">
 <!ENTITY engine.tabs.label          "ٹیبس">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "تٲریخ">
@@ -74,13 +71,24 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "توہیہ چھیو نْہ ساینْڈ اِن۔">
 <!ENTITY signIn.label                "ساین  اِن">
+
 <!ENTITY manage.label                "منیج کْریو ">
 <!ENTITY disconnect.label            "ڈیسکنیکٹْہ کْریو ۔ ۔ ۔">
 <!ENTITY verify.label                "ایمیلس کْریو تصدیق">
 <!ENTITY forget.label                "یہ ایمیل گوو مشید">
 
 <!ENTITY welcome.description "ایسیس کْریو پنْنے ٹیب، بوک مارْک، پاس وأرڈ تْہ مزید ییتنس تِہ توہیہ استعمال کْریو &amp;برانڈ شاٹ ناو؛۔">
-<!ENTITY welcome.signIn.label "ساین اِن">
-<!ENTITY welcome.createAccount.label "ایکاوُنٹ بنأیو">
+
+
 
 <!ENTITY welcome.useOldSync.label "استعمال چھاہ کران اکھ پرون وْرجن سینکُک؟">
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+
+

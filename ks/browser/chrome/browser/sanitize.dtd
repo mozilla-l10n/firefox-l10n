@@ -52,8 +52,6 @@ that require it.  -->
 <!ENTITY itemHistoryAndDownloads.accesskey "B">
 <!ENTITY itemFormSearchHistory.label       "فارم &amp; تلاش ہسٹری">
 <!ENTITY itemFormSearchHistory.accesskey   "ف">
-<!ENTITY itemPasswords.label               "محفوظ تئ خُفیئ لفظ">
-<!ENTITY itemPasswords.accesskey           "P">
 <!ENTITY itemCookies.label                 "&amp; كوكیز">
 <!ENTITY itemCookies.accesskey             "C">
 <!ENTITY itemCache.label                   "كیش">

@@ -110,6 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "A">
 
 <!ENTITY fxaSignIn.label " سیٹ اَپ  كریو  &syncBrand.shortName.label;…">
+
 <!ENTITY fxaSignInError.label " سیٹ اَپ  كریو  &syncBrand.shortName.label;…">
 <!ENTITY syncStartPanel2.heading "سینک برانڈ۔شاٹ ناو۔ لیبل؛ چُھ اینیبْل کرنْہ آمُت&amp;">
 <!ENTITY syncStartPanel2.subTitle "برانڈ شاٹ ناو؛ کرِ شروع سینکینگ پْہرس باپت۔&amp;">
@@ -126,8 +127,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "پورئ سكرین موڈ كریو خٲرچ">
 <!ENTITY fullScreenExit.accesskey "F">
-<!ENTITY fullscreenAllowButton.label "اجازتھ">
-<!ENTITY fullscreenExitButton.label "انکار کریو">
 
 <!ENTITY fullscreenExitHint2.value "کْریو پریس کُنِہ تِہ سات ایکزیٹ کرنْہ باپت۔ESC">
 <!ENTITY leaveDOMFullScreen.label "پورئ پردئ كریو خٲرج">
@@ -393,6 +392,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.placeholder2          "تلاش کْریو یا اینٹر کْریو پتاہ">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "ٹیبس منز گژھیو">
+
+
+<!ENTITY urlbar.searchSuggestionsNotification.disable "نئ">
+<!ENTITY urlbar.searchSuggestionsNotification.enable "عئں">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -417,6 +420,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
+<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
+     These are set as the aria-label attribute for the search input box and
+     submit button in the in-content search UI, to be used by screen readers. -->
+
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -630,6 +637,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "C">
 
+
 <!ENTITY pageStyleMenu.label "صفحئ سٹایل">
 <!ENTITY pageStyleMenu.accesskey "y">
 <!ENTITY pageStyleNoStyle.label "كہین سٹایل نئ">
@@ -668,10 +676,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "سبدیے">
 <!ENTITY editBookmark.cancel.label                   "منسوخ">
-<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 
 
+
+
+
+<!-- Strings for connection state warnings. -->
+
+
+
+<!-- Strings for connection state warnings in the subview. -->
+
+
+
+
+
+
+
+
+
+
+<!ENTITY identity.disableMixedContentBlocking.label "حفاظت کْریو ڈیسیبْل وْنئ &amp;">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 
 
 
@@ -748,27 +775,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "مایکروفون یوس شییر کرُن چُھ &amp;">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+
 <!ENTITY getUserMedia.allWindowsShared.message "تُہندس سکرینس پیٹھ تمام ظأہر وینڈو یِین شییر کرنْہ ">
-<!-- Bad Content Blocker Doorhanger Notification -->
 
-<!ENTITY badContentBlocked.moreinfo "اکثر ویب سایٹْہ کرن اصل کأم اگر ذن کنٹینٹ بُلاک تِہ کرنْہ یِیہ۔">
 
-<!ENTITY mixedContentBlocked2.message "غیر محفوظ کنٹینٹ">
-<!ENTITY mixedContentBlocked2.moreinfo "کینہہ ان اینکریپٹیڈ ایلمینٹ چھ بُلاک کرنْہ آمْت۔ یتھ ویب سایٹِہ پیٹھ">
-<!ENTITY mixedContentBlocked2.learnMore "مزید ہیچھِو">
-<!ENTITY mixedContentBlocked2.options "آپشنس  ">
-<!ENTITY mixedContentBlocked2.unblock.label "حفاظت کْریو ڈیسیبْل وْنئ &amp;">
-<!ENTITY mixedContentBlocked2.unblock.accesskey "D">
-<!ENTITY mixedContentBlocked2.block.label "حفاظت کْریو اینیبْل&amp;">
-<!ENTITY mixedContentBlocked2.block.accesskey "E">
-<!ENTITY mixedContentBlocked2.disabled.message "حفاظت چھ ڈیسیبلْڈ">
+
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+
+
+
 
 <!ENTITY trackingContentBlocked.message "نظر تھَوان">
 <!ENTITY trackingContentBlocked.moreinfo "تمِہ پیجِک حصہ یوس ذن ٹریک کران چُھ تُہنز آن لاین ایکٹیوٹی چھ بُلاک کرنْہ آمْژ۔">
 <!ENTITY trackingContentBlocked.learnMore "مزید ہیچھِو">
-<!ENTITY trackingContentBlocked.options "آپشنس  ">
-<!ENTITY trackingContentBlocked.unblock2.label "حفاظت کْریو ڈیسیبْل یتھ سایٹِہ باپت &amp;">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
+
+
+
 <!ENTITY trackingContentBlocked.block.label "حفاظت کْریو اینیبْل&amp;">
 <!ENTITY trackingContentBlocked.block.accesskey "E">
 <!ENTITY trackingContentBlocked.disabled.message "ٹریکینگ حفاظت چھ ڈیسیبلْڈ">
@@ -834,18 +863,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeNotificationsNotNow.accesskey         "N">
 <!ENTITY emeNotificationsDontAskAgain.label       "می۪ی مئ پریژھیو دوبارئ">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "D">
-
-<!ENTITY readingList.label                        "ریڈینگ لِسٹْہ">
-<!ENTITY readingList.sidebar.commandKey           "R">
-<!ENTITY readingList.showSidebar.label            "ریڈینگ لِسٹْہ سایڈ بار ہأیو">
-<!-- Pre-landed string for bug 1124153 -->
-<!ENTITY readingList.sidebar.showMore.label       "مزید مْہ ہأیو۔ ۔ ۔">
-<!-- Pre-landed string for bug 1133662 -->
-<!ENTITY readingList.sidebar.emptyText            "جمع کْریو آرٹیکل پننِس ریڈینگ لِسٹس منز تِم برونہہ کُن محفوظ کرنْہ باپت تْہ لْبیو تِم آسأنی سان ییلہ توہیہ تمن ہْنز ضرورت پْیہ۔ ">
-<!ENTITY readingList.sidebar.delete.tooltip       "یہ ہٹأیو پننِہ ریڈینگ لِسٹْہ پیٹھ ">
-<!-- Pre-landed strings for bug 1123519 -->
-<!ENTITY readingList.sidebar.add.label            "ریڈینگ لِسٹس کْریو جمع">
-<!ENTITY readingList.sidebar.add.tooltip          "یہ پیج کْریو جمع پننِس ریڈینگ لِسٹس کُن">
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 
 

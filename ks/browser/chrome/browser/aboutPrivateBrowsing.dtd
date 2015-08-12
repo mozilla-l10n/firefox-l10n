@@ -2,18 +2,44 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.title            "توہیہ چھیو براوز کران پرایوٹ پأٹھ">
-<!ENTITY aboutPrivateBrowsing.title.normal     "اکھ پرایوٹ وینڈو کھولواہ؟">
-
-<!ENTITY aboutPrivateBrowsing.subtitle         "&amp; برانڈ شاٹ ناو؛ روزِ نْہ یاد کانہہ ہسٹری یتھ وینڈو باپت۔">
-<!ENTITY aboutPrivateBrowsing.subtitle.normal  "&amp; برانڈ شاٹ ناو؛ روزِ نْہ یاد کانہہ ہسٹری پرایوٹ وینڈوہن باپت۔">
-
-<!ENTITY aboutPrivateBrowsing.description      "تتھ منز چھ شأمل براوزینگ ہسٹری، تلاش ہسٹری، ڈاون لوڈ ہسٹری، ویب فارم ہسٹری، کوکی، تْہ سرسری انٹرنیٹ فایلہ۔ اماپوز،  یم فایلہ توہیہ ڈاون لوڈ کْریو تْہ یم بوک مارْک توہیہ بنأیو، تِم یِین موجود تھاونْہ۔">
-
 <!ENTITY aboutPrivateBrowsing.notPrivate       "توہیہ چھیو نْہ وْنکینس أکس پرایوٹ وینڈو منز۔">
-
-<!ENTITY aboutPrivateBrowsing.moreInfo         "اگر ذن نْہ یتھ کمپیوٹرس منز ریکارڈ روزِ تُہنزِ براوزینگ ہسٹری ہُند، تُہند ایمپلایر یا اِنٹرنیت سْروس پرووایڈر ہیکْہ توتِہ ٹریک کْرتھ تِم پیج یم توہیہ ویزیٹ کْرمِت چھ۔">
-<!ENTITY aboutPrivateBrowsing.learnMore        "مزید ہیچھیو">
-
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "اوپْن کْریو اکھ &amp; پرایوٹ وینڈو">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
+
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
+     Width of the Private Browsing section.
+     -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
+     aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
+     These strings will be replaced by aboutPrivateBrowsing.forgotten and
+     aboutPrivateBrowsing.kept when the new visual design lands (bug 1192625).
+     -->
+
+<!ENTITY aboutPrivateBrowsing.title            "توہیہ چھیو براوز کران پرایوٹ پأٹھ">
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.history     "تٲریخ">
+
+<!ENTITY aboutPrivateBrowsing.info.cookies     "كوكیز">
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.downloads   "ڈاونلوڈس">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks   "نشان زَد">
+
+<!ENTITY aboutPrivateBrowsing.learnMore        "مزید ہیچھیو">
+<!-- LOCALIZATION NOTE (trackingProtection.width):
+     Width of the Tracking Protection section. This should be enough to
+     accommodate the title as well as the enabled or disabled indicator.
+     -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.state.width):
+     Width of the element representing the enabled or disabled indicator.
+     -->
+
+
+
+
+
+

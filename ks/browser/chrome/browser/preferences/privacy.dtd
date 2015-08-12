@@ -4,12 +4,14 @@
 
 <!ENTITY tracking.label                 "نظر تھَوان">
 
-<!ENTITY dntTrackingNotOkay.label2      "سایٹن وْنیو بْہ چُھس نْہ یژھان ٹریک گژھُن">
-<!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY trackingProtection.label       "سایٹْہ رُکأیو بْہ ٹریک کرنْہ نِش&amp;">
-<!ENTITY trackingProtection.accesskey   "m">
-<!ENTITY trackingProtectionLearnMore.label "مزید  ہیچھِو">
-<!ENTITY doNotTrackInfo.label           "مزید ہیچھِو">
+
+<!ENTITY doNotTrackInfo.label          "مزید ہیچھِو">
+
+
+
+
+
+
 
 <!ENTITY  history.label                 "تٲریخ">
 
@@ -22,6 +24,8 @@
 <!ENTITY  locbar.bookmarks.accesskey    "k">
 <!ENTITY  locbar.openpage.label         "ٹیب  كھولیو">
 <!ENTITY  locbar.openpage.accesskey     "ٹ">
+
+
 
 
 
