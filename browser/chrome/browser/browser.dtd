@@ -110,6 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "a">
 
 <!ENTITY fxaSignIn.label "Skráðu þig inn í &syncBrand.shortName.label;">
+
 <!ENTITY fxaSignInError.label "Endurtengjast við &syncBrand.shortName.label;">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; virkt">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; mun samstilla eftir smástund.">
@@ -126,8 +127,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "F">
 <!ENTITY fullScreenExit.label "Ekki fylla skjá">
 <!ENTITY fullScreenExit.accesskey "f">
-<!ENTITY fullscreenAllowButton.label "Leyfa">
-<!ENTITY fullscreenExitButton.label "Hafna">
 
 <!ENTITY fullscreenExitHint2.value "Ýttu á ESC hvenær sem er til að hætta.">
 <!ENTITY leaveDOMFullScreen.label "Hætta í fullum skjá">
@@ -395,6 +394,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.placeholder2          "Leita eða sláðu inn veffang">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Fara á flipa:">
+
+
+<!ENTITY urlbar.searchSuggestionsNotification.disable "Nei">
+<!ENTITY urlbar.searchSuggestionsNotification.enable "Já">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -419,6 +422,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
+<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
+     These are set as the aria-label attribute for the search input box and
+     submit button in the in-content search UI, to be used by screen readers. -->
+
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -634,6 +641,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "L">
 
+
 <!ENTITY pageStyleMenu.label "Síðustíll">
 <!ENTITY pageStyleMenu.accesskey "u">
 <!ENTITY pageStyleNoStyle.label "Enginn stíll">
@@ -672,12 +680,31 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "Ljúka">
 <!ENTITY editBookmark.cancel.label                   "Hætta við">
-<!ENTITY editBookmark.removeBookmark.accessKey       "R">
+
 
 <!ENTITY identity.connectionSecure "Örugg tenging">
 <!ENTITY identity.connectionNotSecure "Tenging er ekki örugg">
+
 <!ENTITY identity.connectionVerified "&brandShortName; staðfesti að þú ert tengdur á öruggan hátt við þetta vefsvæði, sem er frá:">
 <!ENTITY identity.connectionInternal "Þetta er örugg &brandShortName; síða.">
+<!-- Strings for connection state warnings. -->
+
+
+
+<!-- Strings for connection state warnings in the subview. -->
+
+
+
+
+
+
+
+
+
+
+<!ENTITY identity.disableMixedContentBlocking.label "Hætta við vörn í bili">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "H">
+
 
 <!ENTITY identity.moreInfoLinkText2 "Nánari upplýsingar…">
 
@@ -754,27 +781,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "y">
 <!ENTITY getUserMedia.selectMicrophone.label "Hljóðnemi til að deila:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "m">
+
 <!ENTITY getUserMedia.allWindowsShared.message "Öllum sýnilegum gluggum á skjánum verður deilt.">
-<!-- Bad Content Blocker Doorhanger Notification -->
 
-<!ENTITY badContentBlocked.moreinfo "Flest vefsvæði munu halda áfram að virka jafnvel þótt lokað sé á þetta innihald.">
 
-<!ENTITY mixedContentBlocked2.message "Óöruggt innihald">
-<!ENTITY mixedContentBlocked2.moreinfo "Lokað var á nokkur ódulrituð einindi á þessu vefsvæði.">
-<!ENTITY mixedContentBlocked2.learnMore "Fræðast meira">
-<!ENTITY mixedContentBlocked2.options "Valkostir">
-<!ENTITY mixedContentBlocked2.unblock.label "Hætta við vörn í bili">
-<!ENTITY mixedContentBlocked2.unblock.accesskey "H">
-<!ENTITY mixedContentBlocked2.block.label "Virkja vernd">
-<!ENTITY mixedContentBlocked2.block.accesskey "e">
-<!ENTITY mixedContentBlocked2.disabled.message "Vörn er óvirk">
+
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+
+
+
 
 <!ENTITY trackingContentBlocked.message "Fylgjast með">
 <!ENTITY trackingContentBlocked.moreinfo "Lokað var á suma hluta af síðunni sem fylgjast með notkun þinni á netinu.">
 <!ENTITY trackingContentBlocked.learnMore "Vita meira">
-<!ENTITY trackingContentBlocked.options "Valkostir">
-<!ENTITY trackingContentBlocked.unblock2.label "Slökkva á vörn fyrir þetta vefsvæði">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "S">
+
+
+
 <!ENTITY trackingContentBlocked.block.label "Virkja vernd">
 <!ENTITY trackingContentBlocked.block.accesskey "e">
 <!ENTITY trackingContentBlocked.disabled.message "Vörn gegn því að fylgst sé með þér er óvirk">
@@ -840,18 +869,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeNotificationsNotNow.accesskey         "n">
 <!ENTITY emeNotificationsDontAskAgain.label       "Ekki spyrja aftur">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "E">
-
-<!ENTITY readingList.label                        "Leslisti">
-<!ENTITY readingList.sidebar.commandKey           "R">
-<!ENTITY readingList.showSidebar.label            "Sýn hliðslá fyrir leslista">
-<!-- Pre-landed string for bug 1124153 -->
-<!ENTITY readingList.sidebar.showMore.label       "Sýna meira…">
-<!-- Pre-landed string for bug 1133662 -->
-<!ENTITY readingList.sidebar.emptyText            "Bættu við greinum í leslistann til að vista þær og lesa seinna og finna auðveldlega þegar þú þarft á þeim að halda.">
-<!ENTITY readingList.sidebar.delete.tooltip       "Fjarlægja úr leslista">
-<!-- Pre-landed strings for bug 1123519 -->
-<!ENTITY readingList.sidebar.add.label            "Bæta við í leslista">
-<!ENTITY readingList.sidebar.add.tooltip          "Bæta við síðu í leslista">
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 
 <!ENTITY saveToPocketCmd.label     "Vista síðu í Pocket">
