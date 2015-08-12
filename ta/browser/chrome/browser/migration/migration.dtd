@@ -11,12 +11,18 @@
 
 <!ENTITY importFromIE.label             "மைக்ரோசாப்ட் இன்டர்நெட் எக்ஸ்ப்லோரர்">
 <!ENTITY importFromIE.accesskey         "ம">
+
+
 <!ENTITY importFromNothing.label        "எதையும் இறக்க வேண்டாம்">
 <!ENTITY importFromNothing.accesskey    "D">
 <!ENTITY importFromSafari.label         "சபாரி">
 <!ENTITY importFromSafari.accesskey     "ச">
+
+
 <!ENTITY importFromChrome.label         "கொறோம்">
 <!ENTITY importFromChrome.accesskey     "க">
+
+
 <!ENTITY importFromFirefox.label        "பயர்பாக்ஸ்(x)">
 <!ENTITY importFromFirefox.accesskey    "x">
 

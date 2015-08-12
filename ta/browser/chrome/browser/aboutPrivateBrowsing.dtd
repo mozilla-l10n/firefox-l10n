@@ -2,18 +2,45 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.title            "நீங்கள் தனித்து உலாவுகிறீர்கள்">
-<!ENTITY aboutPrivateBrowsing.title.normal     "ஒரு தனிப்பட்ட சாளரத்தைத் திற">
-
-<!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; இந்த சாளரத்திற்கான வரலாறு எதையும் நினைவில் கொள்ளாது.">
-<!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName; தனிப்பட்ட சாளரத்திற்கான வரலாறு எதையும் நினைவில் கொள்ளாது.">
-
-<!ENTITY aboutPrivateBrowsing.description      "தில் உலாவும் வரலாறு, தேடும் வரலாறு, பதிவிறக்க வரலாறு, இணைய படிவ வரலாறு, நினைவிகள், தற்காலிக இணைய கோப்புகள் போன்றவற்றையும் அடங்கும். எனினும், நீங்கள் பதிவிறக்கிய கோப்புகள் மற்றும் குறித்த புத்தகக்குறிகள் வைத்திருக்கப்படும்.">
-
 <!ENTITY aboutPrivateBrowsing.notPrivate       "நீங்கள் தற்போது தனிப்பட்ட சாளரத்தில் இல்லை.">
-
-<!ENTITY aboutPrivateBrowsing.moreInfo         "இந்த கணினி உங்கள் உலாவும் வரலாற்று பதிவை கொண்டிருக்காவிட்டால், உங்கள் இணைய சேவை வழங்குபவர் அல்லது நிறுவனம் நீங்கள் பார்க்கும் பக்கங்களை கண்டறியலாம்.">
-<!ENTITY aboutPrivateBrowsing.learnMore        "மேலும் அறிய.">
-
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "ஒரு தனிப்பட்ட சாளரத்தைத் திற">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "த">
+
+<!ENTITY privateBrowsing.title                 "தனிப்பட்ட உலாவல்">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
+     Width of the Private Browsing section.
+     -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
+     aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
+     These strings will be replaced by aboutPrivateBrowsing.forgotten and
+     aboutPrivateBrowsing.kept when the new visual design lands (bug 1192625).
+     -->
+
+<!ENTITY aboutPrivateBrowsing.title            "நீங்கள் தனித்து உலாவுகிறீர்கள்">
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.history     "வரலாறு">
+
+<!ENTITY aboutPrivateBrowsing.info.cookies     "குக்கீகள்">
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.downloads   "பதிவிறக்கங்கள்">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks   "புத்தகக்குறிகள்">
+
+<!ENTITY aboutPrivateBrowsing.learnMore        "மேலும் அறிய.">
+<!-- LOCALIZATION NOTE (trackingProtection.width):
+     Width of the Tracking Protection section. This should be enough to
+     accommodate the title as well as the enabled or disabled indicator.
+     -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.state.width):
+     Width of the element representing the enabled or disabled indicator.
+     -->
+
+
+
+
+
+

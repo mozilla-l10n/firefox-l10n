@@ -16,7 +16,6 @@
 
 <!ENTITY manageAccount.label          "கணக்கை நிர்வகி">
 <!ENTITY manageAccount.accesskey      "க">
-<!ENTITY viewQuota.label              "ஒதுக்கீடை பார்">
 <!ENTITY changePassword2.label        "கடவுச்சொல்லை மாற்றவும்...">
 <!ENTITY myRecoveryKey.label          "என் மீட்பு விசை">
 <!ENTITY resetSync2.label             "ஒத்திசைவை மீட்டமைக்க...">
@@ -26,8 +25,6 @@
 <!ENTITY syncMy.label               "என்னுடையதை ஒத்திசை">
 <!ENTITY engine.bookmarks.label     "புத்தகக்குறிகள்">
 <!ENTITY engine.bookmarks.accesskey "m">
-
-
 <!ENTITY engine.tabs.label          "கீற்றுகள்">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "வரலாறு">
@@ -74,13 +71,24 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "நீங்கள் உள்நுழையவில்லை.">
 <!ENTITY signIn.label                "உள்நுழை">
+
 <!ENTITY manage.label                "நிர்வாகி">
 <!ENTITY disconnect.label            "துண்டி...">
 <!ENTITY verify.label                "மின்னஞ்சலை உறுதிச்செய்">
 <!ENTITY forget.label                "இந்த மடலை மறந்துவிடு">
 
 <!ENTITY welcome.description "உங்களுடைய கீற்றுகள், புத்தகக்குறிகள், கடவுச்சொற்களை நீங்கள் எங்கு &brandShortName; பயன்படுத்தினாலும் அனுக முடியும்.">
-<!ENTITY welcome.signIn.label "உள்நுழை">
-<!ENTITY welcome.createAccount.label "கணக்கை உருவாக்கு">
+
+
 
 <!ENTITY welcome.useOldSync.label "ஒத்திசைவின் பழைய பதிப்பை பயன்னடுத்துகிறதா?">
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+
+

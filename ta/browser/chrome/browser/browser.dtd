@@ -110,6 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "A">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; வில் உள்நுழை">
+
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; உடன் மறுமுறை இணைக்கவும்">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; செயலிலுள்ளது">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; ஒத்திசைவு சிறிது நேரத்தில் தொடங்கிவிடும்.">
@@ -126,8 +127,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "முழுத்திரை முறைமையை விட்டு வெளியேறு">
 <!ENTITY fullScreenExit.accesskey "F">
-<!ENTITY fullscreenAllowButton.label "அனுமதி">
-<!ENTITY fullscreenExitButton.label "மறு">
 
 <!ENTITY fullscreenExitHint2.value "வெளியேற எந்த நேரத்திலும் ESC அழுத்தவும்.">
 <!ENTITY leaveDOMFullScreen.label "முழுத்திரை முறையிலிருந்து வெளியேறுக">
@@ -393,6 +392,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.placeholder2          "முகவரியைத் தேடவும் அல்லது உள்ளிடவும்">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "கீற்றுக்கு மாற்று:">
+
+
+<!ENTITY urlbar.searchSuggestionsNotification.disable "இல்லை">
+<!ENTITY urlbar.searchSuggestionsNotification.enable "ஆம்">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -417,6 +420,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
+<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
+     These are set as the aria-label attribute for the search input box and
+     submit button in the in-content search UI, to be used by screen readers. -->
+
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -630,6 +637,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "C">
 
+
 <!ENTITY pageStyleMenu.label "பக்கப் பாணி">
 <!ENTITY pageStyleMenu.accesskey "y">
 <!ENTITY pageStyleNoStyle.label "பாணி இல்லை">
@@ -668,10 +676,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "சரி">
 <!ENTITY editBookmark.cancel.label                   "ரத்து">
-<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 
 
+
+
+
+<!-- Strings for connection state warnings. -->
+
+
+
+<!-- Strings for connection state warnings in the subview. -->
+
+
+
+
+
+
+
+
+
+
+<!ENTITY identity.disableMixedContentBlocking.label "இப்பொழுது பாதுகாப்பை முடக்கு">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 
 
 
@@ -748,27 +775,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "பகிர வேண்டிய மைக்ரோஃபோன்:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+
 <!ENTITY getUserMedia.allWindowsShared.message "திரையில் பார்வையிலுள்ள அனைத்து சாளரங்களும் பகிரப்படும்.">
-<!-- Bad Content Blocker Doorhanger Notification -->
 
-<!ENTITY badContentBlocked.moreinfo "இந்த உள்ளடக்கம் தடுக்கபப்ட்டாலும், பெரும்பாலான வலைத்தளங்கள் சரியாக செயல்படும்.">
 
-<!ENTITY mixedContentBlocked2.message "பாதுகாப்பற்ற உள்ளடக்கம்">
-<!ENTITY mixedContentBlocked2.moreinfo "இந்த வலைதளத்தில் சில குறிமுறையாக்கப்படாத உறுப்புகள் தடுக்கப்பட்டுள்ளன.">
-<!ENTITY mixedContentBlocked2.learnMore "மேலும் அறிய">
-<!ENTITY mixedContentBlocked2.options "தேர்வுகள்">
-<!ENTITY mixedContentBlocked2.unblock.label "இப்பொழுது பாதுகாப்பை முடக்கு">
-<!ENTITY mixedContentBlocked2.unblock.accesskey "D">
-<!ENTITY mixedContentBlocked2.block.label "பாதுகாப்பைச் செயல்படுத்து">
-<!ENTITY mixedContentBlocked2.block.accesskey "E">
-<!ENTITY mixedContentBlocked2.disabled.message "பாதுகாப்பு முடங்கியுள்ளது">
+
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+
+
+
 
 <!ENTITY trackingContentBlocked.message "கண்காணிப்பு">
 <!ENTITY trackingContentBlocked.moreinfo "உங்கள் இணைய செயல்பாடுகளை கண்காணிக்கும் பகுதிகள் இந்த பக்கத்தில் தடுக்கப்பட்டுள்ளன.">
 <!ENTITY trackingContentBlocked.learnMore "மேலும் அறிய">
-<!ENTITY trackingContentBlocked.options "தேர்வுகள்">
-<!ENTITY trackingContentBlocked.unblock2.label "இந்தப் பக்கத்தில் பாதுகாப்பை முடக்கு">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
+
+
+
 <!ENTITY trackingContentBlocked.block.label "பாதுகாப்பைச் செயல்படுத்து ">
 <!ENTITY trackingContentBlocked.block.accesskey "E">
 <!ENTITY trackingContentBlocked.disabled.message "கண்காணிப்பு பாதுகாப்பு முடங்கியுள்ளது">
@@ -831,14 +860,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-
-
-
-<!-- Pre-landed string for bug 1124153 -->
-<!-- Pre-landed string for bug 1133662 -->
-
-<!-- Pre-landed strings for bug 1123519 -->
 
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 
