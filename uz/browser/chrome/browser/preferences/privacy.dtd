@@ -4,12 +4,14 @@
 
 <!ENTITY tracking.label                 "Kuzatish">
 
-<!ENTITY dntTrackingNotOkay.label2      "Kuzatishlarini xohlamasligim saytlarga aytilsin.">
-<!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY trackingProtection.label       "Saytlarni meni kuzatishlariga to‘sqinlik qilinsin">
-<!ENTITY trackingProtection.accesskey   "m">
-<!ENTITY trackingProtectionLearnMore.label "Ko‘proq o‘rganish">
-<!ENTITY doNotTrackInfo.label           "Ko‘proq o‘rganish">
+
+<!ENTITY doNotTrackInfo.label          "Ko‘proq o‘rganish">
+
+
+
+
+
+
 
 <!ENTITY  history.label                 "Tarix">
 
@@ -22,6 +24,8 @@
 <!ENTITY  locbar.bookmarks.accesskey    "X">
 <!ENTITY  locbar.openpage.label         "Ichki oynalarni ochish">
 <!ENTITY  locbar.openpage.accesskey     "o">
+
+
 
 
 

@@ -2,18 +2,45 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.title            "Siz maxfiy tarzda internetni ko‘ryapsiz">
-<!ENTITY aboutPrivateBrowsing.title.normal     "Maxfiy ko‘rish oynasi ochilsinmi?">
-
-<!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; ushbu oynadagi tarixni saqlab qolmaydi.">
-<!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName; maxfiy oynalardagi tarixni saqlab qolmaydi.">
-
-<!ENTITY aboutPrivateBrowsing.description      "Bunga brauzer tarixi, izlash tarixi, yuklab olish tarixi, veb shakli tarixi, kukilar va vaqtinchalik internet fayllari kiradi.  Shunday bo‘lsa ham, yuklab olgan fayllaringiz va xatcho‘plaringiz saqlanadi.">
-
 <!ENTITY aboutPrivateBrowsing.notPrivate       "Siz hozirda maxfiy oynada emassiz.">
-
-<!ENTITY aboutPrivateBrowsing.moreInfo         "Ushbu kompyuteringiz internetga kirgan saytlaringiz tarixini yozib qolmasa ham, ishxonangiz yoki internet xizmatini ko‘rsatuvchi provayderingiz siz kirgan sahifalarni kuzatishi mumkin.">
-<!ENTITY aboutPrivateBrowsing.learnMore        "Ko‘proq o‘rganish">
-
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Maxfiy ko‘rish oynasini ochish">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "M">
+
+<!ENTITY privateBrowsing.title                 "Maxfiy koʻrish">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
+     Width of the Private Browsing section.
+     -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
+     aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
+     These strings will be replaced by aboutPrivateBrowsing.forgotten and
+     aboutPrivateBrowsing.kept when the new visual design lands (bug 1192625).
+     -->
+
+<!ENTITY aboutPrivateBrowsing.title            "Siz maxfiy tarzda internetni ko‘ryapsiz">
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.history     "Tarix">
+
+<!ENTITY aboutPrivateBrowsing.info.cookies     "Kukilar">
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.downloads   "Yuklab olishlar">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks   "Xatchoʻplar">
+
+<!ENTITY aboutPrivateBrowsing.learnMore        "Ko‘proq o‘rganish">
+<!-- LOCALIZATION NOTE (trackingProtection.width):
+     Width of the Tracking Protection section. This should be enough to
+     accommodate the title as well as the enabled or disabled indicator.
+     -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.state.width):
+     Width of the element representing the enabled or disabled indicator.
+     -->
+
+
+
+
+
+

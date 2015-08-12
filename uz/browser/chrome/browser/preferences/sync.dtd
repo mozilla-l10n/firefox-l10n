@@ -16,7 +16,6 @@
 
 <!ENTITY manageAccount.label          "Hisoblarni boshqarish">
 <!ENTITY manageAccount.accesskey      "b">
-<!ENTITY viewQuota.label              "Boʻsh joyni koʻrish">
 <!ENTITY changePassword2.label        "Parolni oʻzgartirish">
 <!ENTITY myRecoveryKey.label          " Tiklash kaliti">
 <!ENTITY resetSync2.label             "Sinx-yani tiklash">
@@ -26,8 +25,6 @@
 <!ENTITY syncMy.label               "Quyidagilarni sinxronlash">
 <!ENTITY engine.bookmarks.label     "Xatchoʻplar">
 <!ENTITY engine.bookmarks.accesskey "X">
-<!ENTITY engine.readinglist.label   "O‘qish ro‘yxati">
-<!ENTITY engine.readinglist.accesskey "L">
 <!ENTITY engine.tabs.label          "Ichki oynalar">
 <!ENTITY engine.tabs.accesskey      "I">
 <!ENTITY engine.history.label       "Tarix">
@@ -74,13 +71,24 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Siz kirmagansiz.">
 <!ENTITY signIn.label                "Kirish">
+
 <!ENTITY manage.label                "Boshqarish">
 <!ENTITY disconnect.label            "Ajratilmoqda…">
 <!ENTITY verify.label                "E-pochtani tasdiqlash">
 <!ENTITY forget.label                "Ushbu e-pochtani unutish">
 
 <!ENTITY welcome.description "Qayerda &brandShortName;dan foydalansangiz, o‘sha yerdan ichki oynalar, xatcho‘plar, parollar va boshqa ma’lumotlarga kirish.">
-<!ENTITY welcome.signIn.label "Kirish">
-<!ENTITY welcome.createAccount.label "Hisob yaratish">
+
+
 
 <!ENTITY welcome.useOldSync.label "Sinx-yaning eskiroq versiyalaridan foydalanilsinmi?">
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+
+

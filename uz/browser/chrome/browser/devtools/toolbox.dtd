@@ -165,11 +165,6 @@
 
 <!ENTITY options.stylesheetAutocompletion.label      "Avtotugatish CSS">
 <!ENTITY options.stylesheetAutocompletion.tooltip    "&quot;Uslub tahrirchisi&quot; CSS xossalari, qiymatlari va tanlagichlarini yozuvingiz sifatida avtotugatish">
-<!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
-  -  heading of the group of JavaScript Profiler preferences in the options
-  -  panel. -->
-
-<!ENTITY options.profiler.label            "JavaScript Profiler">
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->
