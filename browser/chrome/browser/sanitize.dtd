@@ -49,8 +49,6 @@ that require it.  -->
 <!ENTITY itemHistoryAndDownloads.accesskey "P">
 <!ENTITY itemFormSearchHistory.label       "Formere &amp; Aslol Njiilaw">
 <!ENTITY itemFormSearchHistory.accesskey   "F">
-<!ENTITY itemPasswords.label               "Finndeeji Danndaaɗi">
-<!ENTITY itemPasswords.accesskey           "F">
 <!ENTITY itemCookies.label                 "Kukiije">
 <!ENTITY itemCookies.accesskey             "K">
 <!ENTITY itemCache.label                   "Kaasol">

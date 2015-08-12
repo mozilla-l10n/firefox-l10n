@@ -4,12 +4,14 @@
 
 <!ENTITY tracking.label                 "Rewindagol">
 
-<!ENTITY dntTrackingNotOkay.label2      "Haalan lowe wonde mi yiɗaa rewindeede">
-<!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY trackingProtection.label       "Haɗ lowe rewindaade-mi">
-<!ENTITY trackingProtection.accesskey   "o">
-<!ENTITY trackingProtectionLearnMore.label "Ɓeydu humpito">
-<!ENTITY doNotTrackInfo.label           "Ɓeydu Humpito">
+
+<!ENTITY doNotTrackInfo.label          "Ɓeydu Humpito">
+
+
+
+
+
+
 
 <!ENTITY  history.label                 "Aslol">
 
@@ -22,6 +24,8 @@
 <!ENTITY  locbar.bookmarks.accesskey    "t">
 <!ENTITY  locbar.openpage.label         "Uddit tabbe">
 <!ENTITY  locbar.openpage.accesskey     "U">
+
+
 
 
 

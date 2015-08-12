@@ -16,7 +16,6 @@
 
 <!ENTITY manageAccount.label          "Toppito Konte">
 <!ENTITY manageAccount.accesskey      "o">
-<!ENTITY viewQuota.label              "Hollu Kotaa">
 <!ENTITY changePassword2.label        "Waylu Finnde…">
 <!ENTITY myRecoveryKey.label          "Kelal jiytirgal Am">
 <!ENTITY resetSync2.label             "Artir Sync…">
@@ -26,8 +25,6 @@
 <!ENTITY syncMy.label               "Sanngoɗin">
 <!ENTITY engine.bookmarks.label     "Maantore am">
 <!ENTITY engine.bookmarks.accesskey "t">
-
-
 <!ENTITY engine.tabs.label          "Tabbe">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Aslol">
@@ -74,13 +71,24 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "A seŋaaki.">
 <!ENTITY signIn.label                "Winndito">
+
 <!ENTITY manage.label                "yiilde">
 <!ENTITY disconnect.label            "Seŋtondir">
 <!ENTITY verify.label                "Ƴeewto Iimeel">
 <!ENTITY forget.label                "Yejjit oo Iimeel">
 
 <!ENTITY welcome.description "Heɓ tabbe, maantore, finndeeji maa e geɗe goɗɗe tuma kala nde kuutori-ɗaa &brandShortName;.">
-<!ENTITY welcome.signIn.label "Winndito">
-<!ENTITY welcome.createAccount.label "Sos Konte Kese">
+
+
 
 <!ENTITY welcome.useOldSync.label "huutoraade baar Sync ɓooyɗo">
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+
+
