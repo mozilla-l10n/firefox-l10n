@@ -16,7 +16,6 @@
 
 <!ENTITY manageAccount.label          "Pengurusan akaun">
 <!ENTITY manageAccount.accesskey      "a">
-<!ENTITY viewQuota.label              "Papar Kuota">
 <!ENTITY changePassword2.label        "Menukar Katalaluan…">
 <!ENTITY myRecoveryKey.label          "Kekunci pemulihan saya">
 <!ENTITY resetSync2.label             "Melaras semula Sync…">
@@ -26,8 +25,6 @@
 <!ENTITY syncMy.label               "Sync saya punya">
 <!ENTITY engine.bookmarks.label     "Penandabuku">
 <!ENTITY engine.bookmarks.accesskey "P">
-
-
 <!ENTITY engine.tabs.label          "Tab">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Sejarah">
@@ -42,6 +39,10 @@
 
 <!ENTITY syncDeviceName.label       "Nama Peranti:">
 <!ENTITY syncDeviceName.accesskey   "m">
+
+
+<!ENTITY cancelChangeSyncDeviceName.label "Batal">
+<!ENTITY saveChangeSyncDeviceName.label "Simpan">
 <!ENTITY unlinkDevice.label           "Memutuskan sambungan peranti">
 <!-- Footer stuff -->
 
@@ -70,13 +71,24 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Anda tidak mendaftar masuk.">
 <!ENTITY signIn.label                "Daftar masuk">
+
 <!ENTITY manage.label                "Urus">
 <!ENTITY disconnect.label            "Terputus…">
 <!ENTITY verify.label                "Sahkan Emel">
 <!ENTITY forget.label                "Lupakan Emel ini">
 
 <!ENTITY welcome.description "Capai tab anda, penandabuku, kata laluan dan lagi apabila anda menggunakan &brandShortName;.">
-<!ENTITY welcome.signIn.label "Daftar Masuk">
-<!ENTITY welcome.createAccount.label "Cipta Akaun">
+
+
 
 <!ENTITY welcome.useOldSync.label "Menggunakan versi lama Sync?">
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+
+

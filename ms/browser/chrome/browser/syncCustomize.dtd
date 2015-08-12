@@ -15,8 +15,6 @@
 
 <!ENTITY engine.bookmarks.label           "Penandabuku">
 <!ENTITY engine.bookmarks.accesskey       "P">
-
-
 <!ENTITY engine.history.label             "Sejarah">
 <!ENTITY engine.history.accesskey         "r">
 <!ENTITY engine.tabs.label                "Tab">
