@@ -692,22 +692,27 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionInternal "Is leathanach slán &brandShortName; é seo.">
 <!-- Strings for connection state warnings. -->
 
-
-
+<!ENTITY identity.activeBlocked "Chuir &brandShortName; bac ar chodanna den leathanach seo nach bhfuil slán.">
+<!ENTITY identity.passiveLoaded "Tá codanna den leathanach seo neamhshlán (léithéidí íomhánna).">
+<!ENTITY identity.activeLoaded "Tá cosaint díchumasaithe agat ar an leathanach seo.">
+<!ENTITY identity.weakEncryption "Úsáideann an leathanach seo criptiú lag.">
 <!-- Strings for connection state warnings in the subview. -->
 
+<!ENTITY identity.description.insecure "Níl do cheangal leis an suíomh seo príobháideach. D'fhéadfadh daoine eile an t-eolas a aighníonn tú a fheiscint (leithéidí focail faire, teachtaireachtaí, cártaí creidmheasa, etc.)">
+<!ENTITY identity.description.weakCipher "Úsáideann do cheangal leis an suíomh seo criptiúchán lag nach bhfuil príobháideach.">
+<!ENTITY identity.description.weakCipher2 "Is féidir le daoine eile do shonraí a fheicint agus iompar an tsuímh a athrú.">
+<!ENTITY identity.description.activeBlocked "Chuir &brandShortName; bac ar chodanna den leathanach seo nach bhfuil slán.">
+<!ENTITY identity.description.passiveLoaded "Níl do cheangal príobháideach, leis seo d'fhéadfadh daoine eile aon eolas a roinneann tú ar an suíomh a fheiscint.">
+<!ENTITY identity.description.passiveLoaded2 "Tá ábhar neamhshlán ar an suíomh seo (leithéidí íomhánna).">
+<!ENTITY identity.description.passiveLoaded3 "Cé gur chuir &brandShortName; bac ar roinnt ábhar, tá ábhar neamhshlán ar an leathanach seo go fóill (leithéidí íomhánna).">
+<!ENTITY identity.description.activeLoaded "Tá ábhar neamhshlán ar an suíomh seo (leithéidí scripteanna) agus níl do cheangal leis príobháideach.">
+<!ENTITY identity.description.activeLoaded2 "D'fhéadfadh daoine eile an t-eolas a roinneann tú ar an suíomh seo a fheiscint (leithéidí focail faire, teachtaireachtaí, cártaí creidmheasa, etc.)">
 
-
-
-
-
-
-
-
-
+<!ENTITY identity.enableMixedContentBlocking.label "Cumasaigh cosaint">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "C">
 <!ENTITY identity.disableMixedContentBlocking.label "Díchumasaigh cosaint don am i láthair">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
-
+<!ENTITY identity.learnMore "Tuilleadh Eolais">
 
 <!ENTITY identity.moreInfoLinkText2 "Tuilleadh Eolais">
 
@@ -784,30 +789,32 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "Micreafón le comhroinnt:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
-
+<!ENTITY getUserMedia.audioCapture.label "Roinnfear fuaim ón gcluaisín.">
 <!ENTITY getUserMedia.allWindowsShared.message "Comhroinnfear gach fuinneog infheicthe ar do scáileáin.">
 
 <!ENTITY trackingProtection.title "Cosaint ar Rianú">
-
-
-
+<!ENTITY trackingProtection.detectedBlocked3 "Tá &brandShortName; ag cur bac ar chodanna den leathanach a d'fhéadfadh a bheith ag rianú do chuid brabhsála.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "Tá eilimintí ar an suíomh seo a d'fhéadfadh do bhrabhsáil a rianú. Tá cosaint díchumasaithe agat.">
+<!ENTITY trackingProtection.notDetected3 "Níor aimsíodh aon eilimint rianaithe ar an leathanach seo.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-
+<!ENTITY trackingProtection.unblock.label "Díchumasaigh cosaint don suíomh seo">
+<!ENTITY trackingProtection.unblock.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-
-
-
+<!ENTITY trackingProtection.unblockPrivate.label "Díchumasaigh cosaint don suíomh seo">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "D">
+<!ENTITY trackingProtection.block2.label "Cumasaigh cosaint">
+<!ENTITY trackingProtection.block2.accesskey "C">
 
 <!ENTITY trackingContentBlocked.message "Lorg">
 <!ENTITY trackingContentBlocked.moreinfo "Cuireadh cosc ar chodanna den leathanach a leanann do chuid ghníomhaíochta ar líne.">
 <!ENTITY trackingContentBlocked.learnMore "Tuilleadh Eolais">
-
-
-
+<!ENTITY trackingContentBlocked.options "Roghanna">
+<!ENTITY trackingContentBlocked.unblock2.label "Díchumasaigh cosaint don suíomh seo">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "Cumasaigh cosaint">
 <!ENTITY trackingContentBlocked.block.accesskey "C">
 <!ENTITY trackingContentBlocked.disabled.message "Tá cosaint ar lorg díchumasaithe">
