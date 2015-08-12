@@ -4,15 +4,19 @@
 
 <!ENTITY tracking.label                 "অনুসরণ">
 
-<!ENTITY dntTrackingNotOkay.label2      "ওয়েব সাইটগুলোকে বলা হোক, আমাকে যেনো অনুসরণ করা না হয়">
-<!ENTITY dntTrackingNotOkay.accesskey   "n">
+
+<!ENTITY doNotTrackInfo.label          "আরও জানুন">
 
 
 
-<!ENTITY doNotTrackInfo.label           "আরও জানুন">
+
+
+
 
 
 <!ENTITY  locationBar.label             "অবস্থান সূচক বার">
+
+
 
 
 

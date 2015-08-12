@@ -15,8 +15,6 @@
 
 <!ENTITY engine.bookmarks.label           "বুকমার্ক m">
 <!ENTITY engine.bookmarks.accesskey       "m">
-
-
 <!ENTITY engine.history.label             "ইতিহাস (r)">
 <!ENTITY engine.history.accesskey         "r">
 

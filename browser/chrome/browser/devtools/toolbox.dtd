@@ -155,11 +155,6 @@
 
 <!ENTITY options.stylesheetAutocompletion.label      "স্বয়ংসম্পূর্ণ CSS">
 
-<!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
-  -  heading of the group of JavaScript Profiler preferences in the options
-  -  panel. -->
-
-<!ENTITY options.profiler.label            "জাভাস্ক্রিপ্ট প্রোফাইলার">
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->

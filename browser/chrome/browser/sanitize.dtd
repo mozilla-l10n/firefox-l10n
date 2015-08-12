@@ -49,8 +49,6 @@ that require it.  -->
 <!ENTITY itemHistoryAndDownloads.accesskey "B">
 
 
-<!ENTITY itemPasswords.label               "সংরক্ষিত পাসওয়ার্ড (P)">
-<!ENTITY itemPasswords.accesskey           "P">
 <!ENTITY itemCookies.label                 "কুকি (C)">
 <!ENTITY itemCookies.accesskey             "C">
 <!ENTITY itemCache.label                   "ক্যাশ (a)">
