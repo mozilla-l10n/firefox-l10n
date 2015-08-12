@@ -16,7 +16,6 @@
 
 <!ENTITY manageAccount.label          "Gerenciar conta">
 <!ENTITY manageAccount.accesskey      "G">
-<!ENTITY viewQuota.label              "Ver cota">
 <!ENTITY changePassword2.label        "Modificar senha…">
 <!ENTITY myRecoveryKey.label          "Minha chave de recuperação">
 <!ENTITY resetSync2.label             "Reconfigurar Sync…">
@@ -26,8 +25,6 @@
 <!ENTITY syncMy.label               "Sincronizar">
 <!ENTITY engine.bookmarks.label     "Favoritos">
 <!ENTITY engine.bookmarks.accesskey "F">
-<!ENTITY engine.readinglist.label   "Lista de Leitura">
-<!ENTITY engine.readinglist.accesskey "L">
 <!ENTITY engine.tabs.label          "Abas">
 <!ENTITY engine.tabs.accesskey      "A">
 <!ENTITY engine.history.label       "Histórico">
@@ -74,13 +71,24 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Você não está conectado.">
 <!ENTITY signIn.label                "Identificar-se">
+
 <!ENTITY manage.label                "Gerenciar">
 <!ENTITY disconnect.label            "Desconectar…">
 <!ENTITY verify.label                "Confirmar email">
 <!ENTITY forget.label                "Esquecer este email">
 
 <!ENTITY welcome.description "Acesse suas abas, favoritos, senhas e muito mais, sempre que usar o &brandShortName;.">
-<!ENTITY welcome.signIn.label "Identificar-se">
-<!ENTITY welcome.createAccount.label "Criar conta">
+
+
 
 <!ENTITY welcome.useOldSync.label "Usando uma versão anterior do Sync?">
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+
+
