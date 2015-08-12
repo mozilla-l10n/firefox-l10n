@@ -52,8 +52,6 @@ that require it.  -->
 <!ENTITY itemHistoryAndDownloads.accesskey "ш">
 <!ENTITY itemFormSearchHistory.label       "Формалар және іздеу тарихы">
 <!ENTITY itemFormSearchHistory.accesskey   "Ф">
-<!ENTITY itemPasswords.label               "Сақталған парольдер">
-<!ENTITY itemPasswords.accesskey           "п">
 <!ENTITY itemCookies.label                 "Cookies">
 <!ENTITY itemCookies.accesskey             "C">
 <!ENTITY itemCache.label                   "Кэш">

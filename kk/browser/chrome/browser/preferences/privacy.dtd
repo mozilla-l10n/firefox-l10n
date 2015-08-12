@@ -4,12 +4,14 @@
 
 <!ENTITY tracking.label                 "Бақылау">
 
-<!ENTITY dntTrackingNotOkay.label2      "Веб сайттарға мені бақыламауды қалайтынымды айту">
-<!ENTITY dntTrackingNotOkay.accesskey   "н">
-<!ENTITY trackingProtection.label       "Сайттарға мені бақылауға жол бермеу">
-<!ENTITY trackingProtection.accesskey   "о">
-<!ENTITY trackingProtectionLearnMore.label "Көбірек білу">
-<!ENTITY doNotTrackInfo.label           "Көбірек білу">
+
+<!ENTITY doNotTrackInfo.label          "Көбірек білу">
+
+
+
+
+
+
 
 <!ENTITY  history.label                 "Тарихы">
 
@@ -24,6 +26,8 @@
 <!ENTITY  locbar.openpage.accesskey     "А">
 <!ENTITY  locbar.searches.label         "Негізгі іздеу жүйіесінен байланысқан іздеулер">
 <!ENTITY  locbar.searches.accesskey     "й">
+
+
 
 <!ENTITY  acceptCookies.label           "Cookies қабылдау">
 <!ENTITY  acceptCookies.accesskey       "д">

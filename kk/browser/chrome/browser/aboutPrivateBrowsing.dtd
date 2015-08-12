@@ -2,18 +2,45 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.title            "Сіз жекелік шолу режиміндесіз">
-<!ENTITY aboutPrivateBrowsing.title.normal     "Жекелік шолу режиміндегі терезені ашу керек пе?">
-
-<!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; бұл терезе үшін тарихты сақтамайды.">
-<!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName; жекелік терезелер үшін тарихты сақтамайды.">
-
-<!ENTITY aboutPrivateBrowsing.description      "Оның ішіне шолулар, іздеулер, жүктемелер, веб формалар тарихы, cookies және уақытша файлдар кіреді. Бірақ, жүктеліп алынған файлдар және жасалған бетбелгілер сақталады.">
-
 <!ENTITY aboutPrivateBrowsing.notPrivate       "Сіз қазір жекелік шолу терезесінде емессіз.">
-
-<!ENTITY aboutPrivateBrowsing.moreInfo         "Бұл компьютер сіздің қаралған беттер тарихын сақтамаса да, интернет провайдеріңіз не жұмыс берушіңіз сіз қараған беттер тарихын біле алады.">
-<!ENTITY aboutPrivateBrowsing.learnMore        "Көбірек білу.">
-
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Жекелік шолу режиміндегі терезені ашу">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "е">
+
+<!ENTITY privateBrowsing.title                 "Жекелік шолу">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
+     Width of the Private Browsing section.
+     -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
+     aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
+     These strings will be replaced by aboutPrivateBrowsing.forgotten and
+     aboutPrivateBrowsing.kept when the new visual design lands (bug 1192625).
+     -->
+
+<!ENTITY aboutPrivateBrowsing.title            "Сіз жекелік шолу режиміндесіз">
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.history     "Тарихы">
+
+<!ENTITY aboutPrivateBrowsing.info.cookies     "Cookies">
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.downloads   "Жүктемелер">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks   "Бетбелгілер">
+
+<!ENTITY aboutPrivateBrowsing.learnMore        "Көбірек білу.">
+<!-- LOCALIZATION NOTE (trackingProtection.width):
+     Width of the Tracking Protection section. This should be enough to
+     accommodate the title as well as the enabled or disabled indicator.
+     -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.state.width):
+     Width of the element representing the enabled or disabled indicator.
+     -->
+
+
+
+
+
+
