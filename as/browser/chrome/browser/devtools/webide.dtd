@@ -42,6 +42,8 @@
 
 
 
+
+
 <!ENTITY viewMenu_label "দৰ্শন কৰক">
 <!ENTITY viewMenu_accesskey "V">
 <!ENTITY viewMenu_toggleEditor_label "সম্পাদক টগল কৰক">
@@ -91,6 +93,7 @@
 <!ENTITY details_location "অৱস্থান">
 <!ENTITY details_manifestURL "এপ ID">
 <!ENTITY details_removeProject_button "প্ৰকল্প আতৰাওক">
+
 <!-- New App -->
 
 <!ENTITY newAppWindowTitle "নতুন এপ">
@@ -111,7 +114,9 @@
 <!ENTITY prefs_title "পছন্দসমূহ">
 <!ENTITY prefs_editor_title "সম্পাদক">
 <!ENTITY prefs_general_title "সাধাৰণ">
-<!ENTITY prefs_restore "অবিকল্পিতক পুনৰুদ্ধাৰ কৰক">
+
+
+
 
 <!ENTITY prefs_options_rememberlastproject "সৰ্বশেষ প্ৰকল্প মনত ৰাখক">
 <!ENTITY prefs_options_rememberlastproject_tooltip "WebIDE আৰম্ভ হওতে পূৰ্বৱৰ্তী প্ৰকল্পক পুনৰুদ্ধাৰ কৰিব">
@@ -133,21 +138,27 @@
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "অনুমতিসমূহ টেবুল">
-<!ENTITY permissionstable_name_header "নাম">
+
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "চলনসময় তথ্য">
 <!ENTITY runtimedetails_adbIsRoot "ADB ৰুট হয়: ">
 <!ENTITY runtimedetails_summonADBRoot "ৰুট ডিভাইচ">
 <!ENTITY runtimedetails_ADBRootWarning "(আনলক্ড বুটল'ডাৰৰ প্ৰয়োজন)">
-<!ENTITY runtimedetails_restrictedPrivileges "DevTools প্ৰতিৰোধিত সূবিধাসমূহ: ">
+
 <!ENTITY runtimedetails_requestPrivileges "উচ্চ সূবিধাসমূহ অনুৰোধ কৰক">
 <!ENTITY runtimedetails_privilegesWarning "(ডিবাইচক পুনাৰম্ভ কৰিব। ৰুট অভিগমৰ প্ৰয়োজন।)">
+<!-- Device Preferences and Settings -->
+
+
+<!ENTITY device_typeobject "বস্তু">
+
 <!-- Device Preferences -->
 
 
 
 
+<!-- Device Settings -->
 
 
 
@@ -156,3 +167,27 @@
 
 <!ENTITY monitor_title "মনিটৰ">
 <!ENTITY monitor_help "সহায়">
+<!-- WiFi Authentication -->
+<!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
+     that instructs the user to transfer an authentication token to the
+     server. -->
+<!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
+     user to transfer authentication info by scanning a QR code. -->
+<!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
+     devices that can't scan a QR code. -->
+<!-- LOCALIZATION NOTE (wifi_auth_yes_scanner): Link text to assist users with
+     devices that can scan a QR code. -->
+<!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
+     user to transfer authentication info by transferring a token. -->
+<!-- Logs panel -->
+<!-- Simulator Options -->
+
+
+
+
+<!ENTITY simulator_version "সংস্কৰণ">
+
+
+<!ENTITY simulator_device "ডিভাইচ">
+
+

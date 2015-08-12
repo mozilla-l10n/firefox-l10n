@@ -4,12 +4,14 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "নতুন টেব">
+
+
+
+
 <!ENTITY newtab.customize.title "আপোনাৰ নতুন টেব পৃষ্ঠাক স্বনিৰ্বাচিত কৰক">
-<!ENTITY newtab.customize.enhanced "সম্প্ৰসাৰিত">
-<!ENTITY newtab.customize.classic "ক্লাচিক">
-<!ENTITY newtab.customize.blank "ব্লেঙ্ক">
-<!ENTITY newtab.customize.what "এইখন কি পৃষ্ঠা?">
-<!ENTITY newtab.intro.header "এইখন কি পৃষ্ঠা?">
+
+
+
 <!ENTITY newtab.undo.removedLabel "থাম্বনেইল আতৰোৱা হৈছে।">
 <!ENTITY newtab.undo.undoButton "বাতিল কৰক।">
 <!ENTITY newtab.undo.restoreButton "সকলো পুনৰুদ্ধাৰ কৰক।">

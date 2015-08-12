@@ -23,10 +23,8 @@
 
 <!ENTITY canvasDebuggerUI.emptyNotice1    "এটা এনিমেশ্বন ফ্ৰেইমৰ কল স্টেক ৰেকৰ্ড কৰিবলে">
 <!ENTITY canvasDebuggerUI.emptyNotice2    "বুটামত ক্লিক কৰক।">
-<!-- LOCALIZATION NOTE (canvasDebuggerUI.reloadNotice1): This is the label shown
-  -  in the call list view while loading a snapshot. -->
-
-<!ENTITY canvasDebuggerUI.importNotice    "ল'ড কৰা হৈছে…">
+<!-- LOCALIZATION NOTE (canvasDebuggerUI.waitingNotice): This is the label shown
+  -  in the call list view while recording a snapshot. -->
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.recordSnapshot): This string is displayed
   -  on a button that starts a new snapshot. -->
 

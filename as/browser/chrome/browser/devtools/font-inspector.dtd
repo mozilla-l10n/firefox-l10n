@@ -10,3 +10,5 @@
 <!ENTITY usedAs "চিহ্নিত বস্তু হিচাপে ব্যৱহৃত: ">
 <!ENTITY system "চিস্টেম">
 <!ENTITY remote "দূৰৱৰ্তী">
+<!-- LOCALIZATION NOTE (previewHint): This is the label shown as the
+     placeholder in font inspector preview text box. -->

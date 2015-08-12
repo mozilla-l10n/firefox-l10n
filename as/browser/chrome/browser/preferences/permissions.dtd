@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                 "ব্যতিক্ৰম">
-<!ENTITY window.width                 "36em">
+
 
 <!ENTITY treehead.sitename.label      "ছাইট">
 <!ENTITY treehead.status.label        "অৱস্থা">
@@ -21,6 +21,7 @@
 <!ENTITY allow.accesskey              "A">
 <!ENTITY windowClose.key              "w">
 
-<!ENTITY button.close.label           "বন্ধ কৰক">
-<!ENTITY button.close.accesskey       "C">
+
+
+
 
