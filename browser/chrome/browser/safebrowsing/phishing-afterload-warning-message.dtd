@@ -12,6 +12,9 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Leli khasi lewebhu ku-<span id='malware_sitename'/> libikiwe njengekhasi lokulwisa futhi livinjelwe kuya ngezinketho zakho zokuvikeleka.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Amakhasi wokuhlasela azama ukufaka uhlelo olutshontsha imininingwane eyimfihlo, isebenzisa ikhompyutha yakho ukuze ihlasele abanye, noma imoshe uhlelo lakho.</p><p>Amanye amakhasi wokuhlasela ahambisa isofthiwe angalungile kulizwe lonke, kodwa amaningi ehlisiwa ngaphandle kokwazi noma kwemvume yabanikazi bayo.</p>">
 
+<!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+
+
 <!ENTITY safeb.blocked.phishingPage.title "Ukubhumbuluzwa kwewebhu okubikiwe!">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc "Leli khasi lewebhu eliku-<span id='phishing_sitename'/> libikwe njengalelo elibhumbuluza iwebhu futhi livinjelwe kuya ngezinketho zakho zokuvikeleka.">

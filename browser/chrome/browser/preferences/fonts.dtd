@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  fontsDialog.title                       "Izinhlobo zemibhalo">
-<!ENTITY  window.width                            "39em">
-<!ENTITY  window.macWidth                         "43em">
-<!ENTITY  window.unixWidth                        "41em">
 
 <!ENTITY  language.label                          "Izinhlobo zemibhalo zalokhu:">
 <!ENTITY  language.accesskey                      "I">
@@ -23,23 +20,21 @@
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "I-Monospace:">
 <!ENTITY  monospace.accesskey                     "M">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
-<!ENTITY  font.langGroup.latin1                   "Intshonalanga">
-<!ENTITY  font.langGroup.latin2                   "i-Yurophu emaphakathi">
-<!ENTITY  font.langGroup.japanese                 "isiJapane">
+<!ENTITY  font.langGroup.latin                    "Isi-Latin">
+
 <!ENTITY  font.langGroup.trad-chinese             "isiShayina sendabuko (sase-Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "isiShayina esenziwe lula">
 <!ENTITY  font.langGroup.trad-chinese-hk          "isiShayina sendabuko (sase-Hong Kong)">
-<!ENTITY  font.langGroup.korean                   "isi-Khoriya">
-<!ENTITY  font.langGroup.cyrillic                 "isi-Cyrillic">
-<!ENTITY  font.langGroup.baltic                   "isi-Baltic">
-<!ENTITY  font.langGroup.el                       "isi-Greek">
-<!ENTITY  font.langGroup.turkish                  "isi-Thekhi">
-<!ENTITY  font.langGroup.unicode                  "Ezinye izilimi">
-<!ENTITY  font.langGroup.user-def                 "Umsebenzisi uchaziwe">
-<!ENTITY  font.langGroup.thai                     "isi-Thai">
-<!ENTITY  font.langGroup.hebrew                   "isi-Hebheru">
-<!ENTITY  font.langGroup.arabic                   "isi-Arabhu">
+
+
+
+
+
+
+
 <!ENTITY  font.langGroup.devanagari               "isi-Devanagari">
 <!ENTITY  font.langGroup.tamil                    "isi-Tamil">
 <!ENTITY  font.langGroup.armenian                 "isi-Armenia">
@@ -51,6 +46,7 @@
 <!ENTITY  font.langGroup.gurmukhi                 "isi-Gurmukhi">
 <!ENTITY  font.langGroup.khmer                    "isi-Khmer">
 <!ENTITY  font.langGroup.malayalam                "isi-Malayalam">
+
 <!ENTITY  font.langGroup.oriya                    "isi-Oriya">
 <!ENTITY  font.langGroup.telugu                   "isi-Telugu">
 <!ENTITY  font.langGroup.kannada                  "isi-Kannada">
@@ -68,7 +64,33 @@
 <!ENTITY  allowPagesToUse.label                   "Vumela amakhasi ukuba azikhethele uhlobo lombhalo, esikhundleni saloku engikukhethe ngenhla">
 <!ENTITY  allowPagesToUse.accesskey               "V">
 
-<!ENTITY languages.customize.Fallback.grouplabel  "Ukumelelwa kwezinhlamvu ngezinye kokuqukethwe kwefa">
-<!ENTITY languages.customize.Fallback.label       "Ukumelelwa kwezinhlamvu ngezinye okubuyela emuva:">
-<!ENTITY languages.customize.Fallback.accesskey   "k">
-<!ENTITY languages.customize.Fallback.desc        "Lokhu kubhalwa ngekhodi kwenhlamvu kusetshenziselwa okuqukethwe kwefa okwehluleka ukuvumela ukubhala kwakhona.">
+
+
+
+
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
+     Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
+
+
+
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
+     Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.traditional):
+     Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
+
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.greek):
+     Translate "Greek" as an adjective for an encoding, not as the name of the language. -->
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.hebrew):
+     Translate "Hebrew" as an adjective for an encoding, not as the name of the language. -->
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.japanese):
+     Translate "Japanese" as an adjective for an encoding, not as the name of the language. -->
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.korean):
+     Translate "Korean" as an adjective for an encoding, not as the name of the language. -->
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.thai):
+     Translate "Thai" as an adjective for an encoding, not as the name of the language. -->
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.turkish):
+     Translate "Turkish" as an adjective for an encoding, not as the name of the language. -->
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
+     Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.vietnamese  "Isi-Vietnam">
+

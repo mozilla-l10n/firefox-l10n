@@ -4,17 +4,33 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Idatha ye-Telemetry">
 
-<!ENTITY aboutTelemetry.telemetryEnabled "  I-Telemetry <span>inikwe amandla </span>.">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "  I-Telemetry <span>inikwe amandla</span>.">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutTelemetry.slowSqlSection "  Izitatimende ze-SQL ezingasheshi">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  Izihengi zesibuki">
 
+
 <!ENTITY aboutTelemetry.histogramsSection "  Ama-Histograms">
 
+
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Izilinganiso ezilula">
+
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Abaloli bakamuva">
 
@@ -22,9 +38,6 @@
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  Ama-Histograms aqoqwe ngezenezelo">
 
-<!ENTITY aboutTelemetry.toggleOn "  Chofoza ukuze unwebise isigaba">
-
-<!ENTITY aboutTelemetry.toggleOff "  Chofoza ukuze wephule isigaba">
 
 <!ENTITY aboutTelemetry.emptySection "  (Ayikho idatha eqoqiwe)">
 
@@ -33,3 +46,4 @@
 <!ENTITY aboutTelemetry.fetchSymbols "  Landa amagama emisebenzi wezitaki ezihengiwe">
 
 <!ENTITY aboutTelemetry.hideSymbols "  Bonisa idatha engavuthiwe kusuka kumahengi">
+

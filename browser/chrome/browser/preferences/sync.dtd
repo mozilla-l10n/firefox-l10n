@@ -16,7 +16,6 @@
 
 <!ENTITY manageAccount.label          "Phatha i-akhawunti">
 <!ENTITY manageAccount.accesskey      "i">
-<!ENTITY viewQuota.label              "Bheka i-quota">
 <!ENTITY changePassword2.label        "Shintsha igama lokungena…">
 <!ENTITY myRecoveryKey.label          "Ukhiye wami Wokubuyisela">
 <!ENTITY resetSync2.label             "Misa kabusha i-Sync…">
@@ -40,8 +39,49 @@
 
 <!ENTITY syncDeviceName.label       "Igama ledivayisi:">
 <!ENTITY syncDeviceName.accesskey   "s">
+
+
+<!ENTITY cancelChangeSyncDeviceName.label "Khansela">
+<!ENTITY saveChangeSyncDeviceName.label "Gcina">
 <!ENTITY unlinkDevice.label           "Hlukanisa lesi sisetshenziswa">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "Imigomo yokusebenza">
 <!ENTITY prefs.ppLink.label         "Inqubo yemfihlo">
+<!-- Firefox Accounts stuff -->
+
+<!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
+signedInUnverified.aftername.label): these two string are used respectively
+before and after the account email address. Localizers can use one of them, or
+both, to better adapt this sentence to their language.
+-->
+
+<!ENTITY signedInUnverified.beforename.label "">
+
+<!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
+signedInLoginFailure.aftername.label): these two string are used respectively
+before and after the account email address. Localizers can use one of them, or
+both, to better adapt this sentence to their language.
+-->
+<!ENTITY signedInLoginFailure.aftername.label "">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+
+

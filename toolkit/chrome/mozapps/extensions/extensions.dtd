@@ -4,6 +4,7 @@
 <!ENTITY addons.windowTitle                   "Umphathi wokungezwayo">
 
 <!ENTITY search.placeholder                   "Sesha konke okungezwayo">
+
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
@@ -21,6 +22,8 @@
 
 <!ENTITY cmd.back.tooltip                     "Hlehla ngekhasi elilodwa">
 <!ENTITY cmd.forward.tooltip                  "Iya phambili ngekhasi elilodwa">
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Konke okwengezwayo kukhutshaziwe ngesimo sokuvikela.">
@@ -35,8 +38,6 @@
 <!ENTITY info.plugincheck.label                 "Hlola ukubona ukuthi ama-plugins wakho asesikhathini samanje na">
 <!ENTITY info.plugincheck.tooltip               "Hlola ukubona ukuthi ama-plugins wakho asesikhathini samanje na">
 <!-- categories / views -->
-
-<!ENTITY view.search.label                    "Sesha">
 <!ENTITY view.discover.label                  "Thola okungezwayo">
 <!ENTITY view.recentUpdates.label             "Ukuvuselela kwamanje">
 <!ENTITY view.availableUpdates.label          "Ukuvuselela okukona">
@@ -101,6 +102,8 @@
 <!ENTITY cmd.installAddon.accesskey           "F">
 <!ENTITY cmd.uninstallAddon.label             "Susa">
 <!ENTITY cmd.uninstallAddon.accesskey         "S">
+
+
 <!ENTITY cmd.showPreferencesWin.label         "Izinketho">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Shintasha izinketho zokwengezwayo">
 <!ENTITY cmd.showPreferencesUnix.label        "Okuthandwayo">
@@ -216,3 +219,25 @@ okwengezwayo okuhle kakhulu futhi nokwaziwayo ukuze ukuzame.">
 <!ENTITY eula.accept                          "Amukela bese ufake…">
 
 <!ENTITY settings.path.button.label           "Bheka…">
+<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
+     experiments are present on the "Experiments" tab of the add-ons manager.
+     This tab won't be displayed unless an Experiment add-on is installed.
+     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
+     to cause this tab to appear. -->
+<!ENTITY experiment.info.learnmore "Funda kabanzi">
+
+
+
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
+     These entities form a sentence, with
+     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
+     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
+     being a link to an external site. -->
+
+

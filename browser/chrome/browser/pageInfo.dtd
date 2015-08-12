@@ -22,11 +22,9 @@
 <!ENTITY  generalReferrer       "Ukubhekisela ku-URL:">
 <!ENTITY  generalSource         "Umthombo Wenqolobane:">
 <!ENTITY  generalModified       "Shintshiwe:">
-<!ENTITY  generalEncoding       "Ukufaka Ikhodi:">
+
 <!ENTITY  generalMetaName       "Igama">
 <!ENTITY  generalMetaContent    "Okuqukethwe">
-<!ENTITY  generalSecurityDetails   "Imininingwane">
-<!ENTITY  generalSecurityDetails.accesskey "D">
 
 <!ENTITY  mediaTab              "Umthombo Wezindaba">
 <!ENTITY  mediaTab.accesskey    "M">
@@ -58,23 +56,13 @@
 <!ENTITY  permAllowSession      "Vumela Kule Nkathi">
 <!ENTITY  permBlock             "Vimbela">
 <!ENTITY  permissionsFor        "Izimvume ze:">
-<!ENTITY  permImage             "Layisha izithombe">
-<!ENTITY  permPopup             "Vula iwindi elingugaxekile">
-<!ENTITY  permCookie            "Bheka amakhukhi">
-<!ENTITY  permNotifications     "Bonisa izaziso">
-<!ENTITY  permInstall           "Faka izandiso nezindikimba">
-<!ENTITY  permGeo               "Abelana ngendawo">
 <!ENTITY  permPlugins           "Sebenzisa ama-plugin">
-<!ENTITY  permFullscreen        "Faka iskrini esigcwele">
-<!ENTITY  permPointerLock2      "Fihla inkomba yemawuzi">
 
-<!ENTITY  permIndexedDB              "Nakekela ukulondoloza okungaxhunyiwe kwi-intanethi">
 <!ENTITY  permClearStorage           "Sula ukulondoloza">
 <!ENTITY  permClearStorage.accesskey "C">
 
 <!ENTITY  securityTab           "Ukulondeka">
 <!ENTITY  securityTab.accesskey "S">
-<!ENTITY  securityHeader        "Ukwaziswa kokuvikeleka kwaleli khasi">
 <!ENTITY  securityView.certView "Bheka isitifiketi">
 <!ENTITY  securityView.accesskey "V">
 <!ENTITY  securityView.unknown   "Akwaziwa">
@@ -85,7 +73,6 @@
 <!ENTITY  securityView.identity.domain   "Iwebhusayithi:">
 <!ENTITY  securityView.identity.verifier "Iqinisekiswe ngu:">
 
-<!ENTITY  securityView.privacy.header                   "Okwangasese nomlando">
 <!ENTITY  securityView.privacy.history                  "Ingabe ngiyivakashele le webhusayithi ngaphambi kwanamuhla?">
 <!ENTITY  securityView.privacy.cookies                  "Ingabe le webhu sayithi iyalugcina ulwazi (amakhukhi) kukhompyutha yami?">
 <!ENTITY  securityView.privacy.viewCookies              "Bheka amakhukhi">
@@ -95,3 +82,5 @@
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 
 <!ENTITY  securityView.technical.header                 "Imininingwane yemisebenzi esizayo">
+
+<!ENTITY  helpButton.label                              "Usizo">

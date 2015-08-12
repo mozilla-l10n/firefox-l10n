@@ -22,10 +22,6 @@
 
 <!ENTITY downloads.label     "Okulayishiwe kwangeniswa">
 
-<!ENTITY showWhenDownloading.label     "Bonisa iwindi lokulayisha uma kulayishwa ifayela">
-<!ENTITY showWhenDownloading.accesskey "l">
-<!ENTITY closeWhenDone.label "Yivale uma okulayishwayo kuqediwe">
-<!ENTITY closeWhenDone.accesskey "u">
 <!ENTITY saveTo.label "Gcina amafayela ku">
 <!ENTITY saveTo.accesskey "i">
 <!ENTITY chooseFolderWin.label        "Hambisa amehlo…">
@@ -34,3 +30,13 @@
 <!ENTITY chooseFolderMac.accesskey    "a">
 <!ENTITY alwaysAsk.label "Ngihlale ngibuzwa ukuthi amafayela agcinwe kuphi">
 <!ENTITY alwaysAsk.accesskey "N">
+
+
+
+
+<!ENTITY isDefault.label                  "I-&brandShortName; okwamanje isibukisi sakhona sakho">
+
+
+
+
+

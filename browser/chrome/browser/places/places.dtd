@@ -52,6 +52,8 @@
 <!ENTITY cmd.open.accesskey              "V">
 <!ENTITY cmd.open_window.label           "Vula efasiteleni elisha">
 <!ENTITY cmd.open_window.accesskey       "e">
+
+
 <!ENTITY cmd.open_tab.label              "Vula kumaki elisha">
 <!ENTITY cmd.open_tab.accesskey          "m">
 <!ENTITY cmd.open_all_in_tabs.label      "Vula konke kumamaki">
@@ -81,9 +83,8 @@
 <!ENTITY col.name.label          "Igama">
 <!ENTITY col.tags.label          "Amamaki">
 <!ENTITY col.url.label           "Indawo">
-<!ENTITY col.lastvisit.label     "Usuku lokuvakashela">
+
 <!ENTITY col.visitcount.label    "Ukubalwa kokuvakashela">
-<!ENTITY col.keyword.label       "Igama eliwukhiye">
 <!ENTITY col.description.label   "Incazelo">
 <!ENTITY col.dateadded.label     "Kwengeziwe">
 <!ENTITY col.lastmodified.label  "Ukugcinwa kokushintsha">

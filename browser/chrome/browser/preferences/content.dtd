@@ -7,7 +7,6 @@
 <!ENTITY  popupExceptions.label       "Okuhlukile…">
 <!ENTITY  popupExceptions.accesskey   "O">
 
-<!ENTITY  fontsAndColors.label        "Amafonti kanye nemibala">
 
 <!ENTITY  defaultFont.label           "Ifonti yakhona:">
 <!ENTITY  defaultFont.accesskey       "k">
@@ -25,3 +24,19 @@
 <!ENTITY chooseLanguage.label         "Khetha ulimi olithandayo lokuboniswa kwamakhasi">
 <!ENTITY chooseButton.label           "Khetha…">
 <!ENTITY chooseButton.accesskey       "e">
+
+
+<!ENTITY translateExceptions.label    "Okuhlukile…">
+<!ENTITY translateExceptions.accesskey "k">
+<!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
+  -                     translation.options.attribution.afterLogo):
+  -  These 2 strings are displayed before and after a 'Microsoft Translator'
+  -  logo.
+  -  The translations for these strings should match the translations in
+  -  browser/translation.dtd
+  -->
+<!ENTITY translation.options.attribution.afterLogo "">
+
+
+
+<!ENTITY  playDRMContent.learnMore.label "Funda kabanzi">

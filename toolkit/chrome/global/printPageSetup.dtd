@@ -6,7 +6,6 @@
 
 <!ENTITY printSetup.title    "Ukuhlelwa Kwekhasi">
 
-<!ENTITY basic.tab           "Ukwakheka &amp; ongakhetha kukho">
 
 <!ENTITY formatGroup.label   "Ukwakheka">
 
@@ -25,10 +24,8 @@
 
 <!ENTITY optionsGroup.label  "Ongakhetha Kukho">
 
-<!ENTITY printBG.label       "Nyathelisa isizinda (imibala kanye nezithombe)">
-<!ENTITY printBG.accesskey   "s">
 
-<!ENTITY advanced.tab        "Ukuqala Kombhalo &amp; Isihloko/Umphetho">
+
 
 <!ENTITY marginGroup.label   "Ukuqala Kombhalo (#1)">
 <!ENTITY marginUnits.inches  "ama-intshi">
@@ -42,7 +39,6 @@
 <!ENTITY marginRight.label   "Kwesokudla:">
 <!ENTITY marginRight.accesskey "w">
 
-<!ENTITY headerFooter.label  "Izihloko &amp; Imiphetho">
 
 <!ENTITY hfLeft.label        "Kwesobunxele:">
 <!ENTITY hfCenter.label      "Phakathi:">

@@ -7,11 +7,12 @@
 <!ENTITY     cookiesonsystem.label          "La makhukhi alandelayo alondolozwe kukhompyutha yakho:">
 <!ENTITY     cookiename.label               "Igama lekhukhi">
 <!ENTITY     cookiedomain.label             "Isayithi"> 
-<!ENTITY     button.removecookies.label     "Susa ikhukhi">
-<!ENTITY     button.removecookie.label      "Susa ikhukhi">
-<!ENTITY     button.removecookie.accesskey  "S">
-<!ENTITY     button.removeallcookies.label  "Susa wonke amakhukhi">
-<!ENTITY     button.removeallcookies.accesskey "w">
+<!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
+  The label associated with this accesskey can be found in 
+  preferences.properties as removeSelectedCookies.
+-->
+<!ENTITY     button.removeAllCookies.label "Susa Konke">
+<!ENTITY     button.removeAllCookies.accesskey "K">
 
 <!ENTITY     props.name.label               "Igama:">
 <!ENTITY     props.value.label              "Okuqukethwe:">
