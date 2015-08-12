@@ -11,22 +11,14 @@
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "I">
-
-
 <!ENTITY importFromNothing.label        "אל תייבא דבר">
 <!ENTITY importFromNothing.accesskey    "א">
 <!ENTITY importFromSafari.label         "Safari">
 <!ENTITY importFromSafari.accesskey     "S">
-
-
 <!ENTITY importFromChrome.label         "Chrome">
 <!ENTITY importFromChrome.accesskey     "C">
-
-
 <!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "x">
-
-
 
 <!ENTITY noMigrationSources.label       "לא נמצאו תוכנות שמכילות סימניות, היסטוריה, או מידע ססמאות.">
 

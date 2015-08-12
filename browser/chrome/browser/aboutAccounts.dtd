@@ -4,8 +4,6 @@
 
 <!ENTITY aboutAccounts.welcome "ברוך בואך ל־&syncBrand.shortName.label;">
 
-
 <!ENTITY aboutAccountsConfig.description "התחבר כדי לסנכרן את הלשוניות, הססמאות ושאר ההגדרות שלך.">
 <!ENTITY aboutAccountsConfig.startButton.label "בוא ונתחיל">
 <!ENTITY aboutAccountsConfig.useOldSync.label "משתמש בגרסה קודמת של Sync?">
-

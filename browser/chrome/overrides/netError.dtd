@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "בעיה בטעינת דף">
 <!ENTITY retry.label "נסה שוב">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "כישלון בהתחברות">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -68,7 +68,14 @@
 <!ENTITY netTimeout.title "תם הזמן המוקצב לחיבור">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-
+<!ENTITY unknownProtocolFound.title "כתובת זו אינה מובנת">
+<!ENTITY unknownProtocolFound.longDesc "
+<ul>
+  <li>
+    ייתכן שצריך להתקין יישום אחר כדי לגשת לכתובת זו.
+  </li>
+</ul>
+">
 
 <!ENTITY proxyConnectFailure.title "השרת המתווך דחה את ההתחברות">
 <!ENTITY proxyConnectFailure.longDesc "<ul> 
@@ -95,7 +102,16 @@
 </ul>">
 
 <!ENTITY nssFailure2.title "קישור מאובטח נכשל">
-
+<!ENTITY nssFailure2.longDesc2 "
+<ul>
+  <li>
+    דף זה לא ניתן להצגה כי לא ניתן לאמת את מהיימנות הנתונים שהתקבלו.
+  </li>
+  <li>
+    נא ליצור קשר עם בעלי האתר וליידע אותם על בעיה זו.
+  </li>
+</ul>
+">
 
 <!ENTITY nssBadCert.title "קישור מאובטח נכשל">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
@@ -114,7 +130,6 @@
 <p>בעלי אתרים המאמינים כי האתר שלהם דווח בטעות בתור אתר תוקף יכולים <a href='http://www.stopbadware.org/home/reviewinfo' >לבקש בדיקה חוזרת</a>.</p>">
 
 
-
 <!ENTITY phishingBlocked.title "חשד לזיוף ברשת!">
 <!ENTITY phishingBlocked.longDesc "<p>הכנסת מידע אישי לדף זה יכולה להסתיים בגניבת זהות או הונאה אחרת.</p> 
 <p>סוגי זיוף אלו משמשים להונאת משתמשים ומוכרים גם בתור &quot;מתקפות דיוג&quot;, בהן נוכלים שותלים דפים והודעות דואר אלקטרוני המהווים חיקוי של מקורות שאתה סומך עליהם.</p>">
@@ -129,28 +144,21 @@
 <!ENTITY securityOverride.linkText "באפשרותך גם להוסיף חריגה…">
 <!ENTITY securityOverride.getMeOutOfHereButton "תוציא אותי מכאן!">
 <!ENTITY securityOverride.exceptionButtonLabel "הוסף חריגה…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to firefox. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>מומלץ שלא להוסיף חריגה אם אתה משתמש בחיבור רשת בלתי מהימן לחלוטין או אם אינך רגיל לראות אזהרות עבור שרת זה.</p> 
  
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
-
-
 <!ENTITY errorReporting.learnMore "מידע נוסף…">
-
-
-
-
 
 <!ENTITY remoteXUL.title "XUL מרוחק">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>פנה אל בעלי האתר כדי ליידע אותם על הבעיה.</li></ul></p>">
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "ssl_error_unsupported_version". -->
-

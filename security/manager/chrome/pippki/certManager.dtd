@@ -24,14 +24,14 @@
 <!ENTITY certmgr.pending.label                "בודק אישורים...">
 <!ENTITY certmgr.subjectinfo.label            "הונפק ל">
 <!ENTITY certmgr.issuerinfo.label             "הונפק על־ידי">
-
+<!ENTITY certmgr.periodofvalidity.label       "תקופת תוקף" >
 <!ENTITY certmgr.fingerprints.label           "טביעות אצבע">
 <!ENTITY certmgr.certdetail.title             "פרטי אישור">
 <!ENTITY certmgr.certdetail.cn                "שם משותף">
 <!ENTITY certmgr.certdetail.o                 "ארגון">
 <!ENTITY certmgr.certdetail.ou                "יחידה ארגונית">
 <!ENTITY certmgr.certdetail.serialnumber      "מספר סידורי">
-
+<!ENTITY certmgr.certdetail.sha256fingerprint "טביעת אצבע SHA-256">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "טביעת אצבע SHA1">
 
 <!ENTITY certmgr.editcacert.title             "ערוך הגדרות אמון באישור של רשות אישורים">
@@ -46,7 +46,7 @@
 <!ENTITY certmgr.certserver                   "שרת">
 <!ENTITY certmgr.override_lifetime            "משך חיים">
 <!ENTITY certmgr.tokenname                    "התקן אבטחה">
-
+<!ENTITY certmgr.begins                       "תאריך תחילת תוקף">
 <!ENTITY certmgr.expires                      "תוקפו פג בתאריך">
 <!ENTITY certmgr.email                        "כתובת דוא״ל">
 <!ENTITY certmgr.serial                       "מספר סידורי">
@@ -73,8 +73,7 @@
 <!ENTITY certmgr.details.accesskey            "F">
 <!ENTITY certmgr.fields.label                 "ערך השדה">
 <!ENTITY certmgr.fields.accesskey             "V">
-
-
+<!ENTITY certmgr.hierarchy.label              "היררכיית אישור">
 <!ENTITY certmgr.addException.label           "הוסף חריגה…">
 <!ENTITY certmgr.addException.accesskey       "ח">
 

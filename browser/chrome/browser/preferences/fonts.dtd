@@ -20,9 +20,9 @@
 <!ENTITY  sans-serif.accesskey                    "ר">
 <!ENTITY  monospace.label                         "רוחב קבוע:">
 <!ENTITY  monospace.accesskey                     "ב">
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
-
 <!ENTITY  font.langGroup.latin                    "לטינית">
 <!ENTITY  font.langGroup.japanese                 "יפנית">
 <!ENTITY  font.langGroup.trad-chinese             "סינית מסורתית (טיוואן)">
@@ -31,7 +31,7 @@
 <!ENTITY  font.langGroup.korean                   "קוריאנית">
 <!ENTITY  font.langGroup.cyrillic                 "קירילי">
 <!ENTITY  font.langGroup.el                       "יוונית">
-
+<!ENTITY  font.langGroup.other                    "מערכות כתיבה אחרות">
 <!ENTITY  font.langGroup.thai                     "תאילנדית">
 <!ENTITY  font.langGroup.hebrew                   "עברית">
 <!ENTITY  font.langGroup.arabic                   "ערבית">
@@ -46,7 +46,7 @@
 <!ENTITY  font.langGroup.gurmukhi                 "גורמוחית">
 <!ENTITY  font.langGroup.khmer                    "חמר">
 <!ENTITY  font.langGroup.malayalam                "מליאלאם">
-
+<!ENTITY  font.langGroup.math                     "מתמטיקה">
 <!ENTITY  font.langGroup.oriya                    "אורייה">
 <!ENTITY  font.langGroup.telugu                   "טלוגו">
 <!ENTITY  font.langGroup.kannada                  "קנדית">
@@ -56,23 +56,24 @@
 <!ENTITY minSize.label                            "גודל גופן מינימלי:">
 <!ENTITY minSize.accesskey                        "פ">
 <!ENTITY minSize.none                             "ללא">
-<!-- default font type -->
 
+<!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "סריף">
 <!ENTITY  useDefaultFontSansSerif.label           "סאן־סריף">
 
 <!ENTITY  allowPagesToUse.label                   "אפשר לדפים לבחור את הגופנים שלהם במקום בחירתי למעלה">
 <!ENTITY  allowPagesToUse.accesskey               "ל">
 
-
-
-
+<!ENTITY languages.customize.Fallback2.grouplabel "קידוד טקסט לתוכן ישן">
+<!ENTITY languages.customize.Fallback2.label      "קידוד טקסט חלופי:">
+<!ENTITY languages.customize.Fallback2.accesskey  "ט">
+<!ENTITY languages.customize.Fallback2.desc       "קידוד טקסט זה מיועד עבור תוכן ישן שלא הוגדר עבורו קידוד.">
 
 <!ENTITY languages.customize.Fallback.auto        "בררת מחדל לשפה הנוכחית">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.arabic      "ערבית">
-
+<!ENTITY languages.customize.Fallback.baltic      "באלטי">
 <!ENTITY languages.customize.Fallback.ceiso       "מרכז אירופית, ISO">
 <!ENTITY languages.customize.Fallback.cewindows   "מרכז אירופית, Microsoft">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
@@ -99,6 +100,7 @@
 <!ENTITY languages.customize.Fallback.thai        "תאילנדית">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.turkish):
      Translate "Turkish" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.turkish     "טורקית">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.vietnamese  "וייטנאמית">

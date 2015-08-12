@@ -22,7 +22,7 @@
 <!ENTITY  generalReferrer       "כתובת קודמת:">
 <!ENTITY  generalSource         "מקור מטמון:">
 <!ENTITY  generalModified       "שינוי אחרון:">
-
+<!ENTITY  generalEncoding2      "קידוד טקסט:">
 <!ENTITY  generalMetaName       "שם">
 <!ENTITY  generalMetaContent    "תוכן">
 

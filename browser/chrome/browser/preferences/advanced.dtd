@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Note: each tab panel must contain unique accesskeys -->
 
+<!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label                "כללי">
 
@@ -26,20 +26,21 @@
 <!ENTITY checkSpelling.label             "בדוק איות בזמן שאני מקליד">
 <!ENTITY checkSpelling.accesskey         "א">
 
+<!ENTITY dataChoicesTab.label            "בחירות מידע">
 
 <!ENTITY healthReportDesc.label          "עוזר להבין את ביצועי הדפדפן שלך ואת הנתונים שמשותפים עם &vendorShortName;  על בריאות הדפדפן שלך">
-
-
+<!ENTITY enableHealthReport.label        "אפשר את דוח הבריאות של &brandShortName; ">
+<!ENTITY enableHealthReport.accesskey    "ד">
 <!ENTITY healthReportLearnMore.label     "מידע נוסף">
 
 <!ENTITY telemetryDesc.label             "שיתוף מידע על ביצועים, חומרה, שימוש והתאמות אישיות על הדפדפן שלך עם &vendorShortName; כדי לסייע לנו בשיפור &brandShortName;.">
-
-
+<!ENTITY enableTelemetryData.label       "שיתוף נתונים נוספים (כגון Telemetry)">
+<!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "מידע נוסף">
 
 <!ENTITY crashReporterDesc.label         "&brandShortName; שולח דיווחי קריסות כדי לעזור ל־&vendorShortName; לעשות את דפדפן שלך יותר יציב ובטוח">
-
-
+<!ENTITY enableCrashReporter.label       "אפשר את מדווח הקריסות">
+<!ENTITY enableCrashReporter.accesskey   "מ">
 <!ENTITY crashReporterLearnMore.label    "מידע נוסף">
 
 <!ENTITY networkTab.label                "רשת">
@@ -53,13 +54,13 @@
 <!ENTITY httpCache.label                 "תוכן רשת במטמון">
 
 <!ENTITY offlineStorage2.label           "תוכן רשת לא מקוון ונתוני משתמש">
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-
 <!ENTITY limitCacheSizeBefore.label      "הגבלת גודל המטמון ל־">
 <!ENTITY limitCacheSizeBefore.accesskey  "ה">
 <!ENTITY limitCacheSizeAfter.label       "מ״ב של מקום">
@@ -73,8 +74,8 @@
 <!ENTITY updateTab.label                 "עדכון">
 
 <!ENTITY updateApp.label                 "עדכוני &brandShortName;:">
-
-
+<!ENTITY updateAuto1.label               "התקנת עדכונים אוטומטית (מומלץ: אבטחה משופרת)">
+<!ENTITY updateAuto1.accesskey           "א">
 <!ENTITY updateCheck.label               "בדיקת עדכונים, אבל הצגת הודעה שתאפשר לי לבחור אם להתקין אותם">
 <!ENTITY updateCheck.accesskey           "ה">
 <!ENTITY updateManual.label              "לעולם לא לבצע בדיקת עדכונים (לא מומלץ: סיכוני אבטחה)">
@@ -105,15 +106,15 @@
 <!ENTITY offlineAppRemove.confirm        "הסר נתונים לא מקוונים">
 
 <!ENTITY certificateTab.label            "אישורים">
-
+<!ENTITY certSelection.label             "בקשות">
 <!ENTITY certSelection.description       "כאשר שרת מבקש את האישור האישי שלי:">
 <!ENTITY certs.auto                      "בחר באחד אוטומטית">
-
+<!ENTITY certs.auto.accesskey            "ב">
 <!ENTITY certs.ask                       "שאל אותי בכל פעם">
-
-
-
-
-
-
-
+<!ENTITY certs.ask.accesskey             "ש">
+<!ENTITY enableOCSP.label                "לתשאל שרתי  OCSP כדי לאמת תקפות נוכחית של אישורי אבטחה">
+<!ENTITY enableOCSP.accesskey            "ת">
+<!ENTITY viewCerts.label                 "הצג אישורים">
+<!ENTITY viewCerts.accesskey             "צ">
+<!ENTITY viewSecurityDevices.label       "התקני אבטחה">
+<!ENTITY viewSecurityDevices.accesskey   "ה">
