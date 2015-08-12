@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY privatebrowsingpage.title "Navegação privada">
-<!ENTITY privatebrowsingpage.title.normal "Não está no modo de navegação privada">
+<!-- Localisation note: the plus sign here is a shorthand way of expressing the word "and". Contextually the privatebrowsingpage.title.private string
+                        is used as a title, with the privatebrowsingpage.title string preceding it but on a separate line.
+                        So the final line will say "Private Browsing + Tracking Protection". -->
 
-<!ENTITY privatebrowsingpage.issueDesc.normal2 "Na navegação privada, os seus dados de navegação não serão guardados.">
-<!ENTITY privatebrowsingpage.issueDesc.private2 "Nós não guardados o seu histórico nem os seus cookies.">
+<!ENTITY privatebrowsingpage.title.private " + Proteção Contra a Monitorização">
+<!ENTITY privatebrowsingpage.title.normal1 "Não está no modo de navegação privada">
 
-<!ENTITY privatebrowsingpage.description2 "Os marcadores adicionados e os ficheiros descarregados serão guardados no dispositivo.">
-<!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
-<!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
+
 
 <!ENTITY privatebrowsingpage.link.private "Quer saber mais?">
 <!ENTITY privatebrowsingpage.link.normal "Abrir uma janela privada">
