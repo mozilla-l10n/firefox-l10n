@@ -66,6 +66,8 @@
   -  is displayed next to the filter button-->
 <!-- LOCALIZATION NOTE (performanceUI.options.tooltiptext): This is the tooltip
   -  for the options button. -->
+
+<!ENTITY performanceUI.options.gear.tooltiptext "Tsenya boikgetlhelo jwa tiragatso">
 <!-- LOCALIZATION NOTE (performanceUI.invertTree): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's call tree. -->
 
