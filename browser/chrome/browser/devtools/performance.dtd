@@ -49,6 +49,7 @@
 
 
 
+<!ENTITY performanceUI.table.totalPercentage.tooltip  "Bontlha bongwe jwa nako e e tserweng mo tirisong e le ditiriso tse e di bitsang">
 
 
 
@@ -56,8 +57,7 @@
 
 
 
-
-
+<!ENTITY performanceUI.table.totalAlloc.tooltip       "Palo yotlhe ya kabo ya dilo tse di tlhophilweng e le sekao mo lefelong le, le mo baamogeding">
 
 
 <!-- LOCALIZATION NOTE (performanceUI.newtab.tooltiptext): The tooltiptext shown
