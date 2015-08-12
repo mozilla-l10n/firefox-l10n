@@ -90,7 +90,7 @@
 <!ENTITY selectAllCmd.accesskey "D">
 <!ENTITY findBarCmd.label "Canfod…">
 <!ENTITY findBarCmd.accesskey "f">
-<!ENTITY findBarCmd.key "C">
+<!ENTITY findBarCmd.key "F">
 <!ENTITY findReplaceCmd.label "Canfod ac Amnewid…">
 <!ENTITY findReplaceCmd.accesskey "A">
 <!ENTITY findReplaceCmd.key "H">
