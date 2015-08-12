@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label "ماذا سيُزامَن">
 <!ENTITY sync.configure.engines.sync.my.title.label "زامِن…">
 <!ENTITY sync.configure.engines.title.bookmarks "العلامات">
-
+<!ENTITY sync.configure.engines.title.passwords2 "جلسات الولوج">
 <!ENTITY sync.configure.engines.title.history "التأريخ">
 <!ENTITY sync.configure.engines.title.tabs "الألسنة">
 <!-- Common text -->
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "تنبيه خصوصية">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "مرحبًا في &syncBrand.shortName.label;">
-
+<!ENTITY fxaccount_getting_started_description2 "لِج لمزامنة ألسنتك و علاماتك و جلسات ولوجك و غيرها المزيد.">
 <!ENTITY fxaccount_getting_started_get_started "ابدأ">
 <!ENTITY fxaccount_getting_started_old_firefox "أستخدم إصدارة أقدم من &syncBrand.shortName.label;؟">
 <!-- Localization note: the Firefox below should not change with the
@@ -212,7 +212,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating "انقر للولوج إلى حساب فَيَرفُكس الجديد.">
 <!ENTITY fxaccount_status_bookmarks "العلامات">
 <!ENTITY fxaccount_status_history "التأريخ">
-
+<!ENTITY fxaccount_status_passwords2 "جلسات الولوج">
 <!ENTITY fxaccount_status_tabs "الألسنة المفتوحة">
 <!ENTITY fxaccount_status_legal "قانوني" >
 <!-- Localization note: when tapped, the following two strings link to
@@ -230,6 +230,7 @@
 <!ENTITY fxaccount_remove_account_toast "أُزيل حساب فَيَرفُكس &formatS;.">
 
 <!ENTITY fxaccount_remove_account_menu_item "أزِل الحساب">
+
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 
