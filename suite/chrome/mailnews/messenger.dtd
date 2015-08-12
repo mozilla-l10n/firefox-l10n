@@ -115,7 +115,7 @@
 <!ENTITY showMessengerToolbarCmd.label "Barra de correio">
 <!ENTITY showMessengerToolbarCmd.accesskey "a">
 <!ENTITY showSearchToolbarCmd.label "Barra de pesquisa">
-<!ENTITY showSearchToolbarCmd.accesskey "e">
+<!ENTITY showSearchToolbarCmd.accesskey "a">
 <!ENTITY showTabsToolbarCmd.label "Barra de separadores">
 <!ENTITY showTabsToolbarCmd.accesskey "s">
 
