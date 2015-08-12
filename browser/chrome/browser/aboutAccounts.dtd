@@ -4,7 +4,8 @@
 
 <!ENTITY aboutAccounts.welcome "Dobrodošli u &syncBrand.shortName.label;">
 
+
 <!ENTITY aboutAccountsConfig.description "Prijavite se da biste mogli sinkronizirati vaše kartice, zabilješke, lozinke i više.">
 <!ENTITY aboutAccountsConfig.startButton.label "Započnite">
 <!ENTITY aboutAccountsConfig.useOldSync.label "Koristite stariju inačicu Synca?">
-<!ENTITY aboutAccountsConfig.manage.label "Upravljanje">
+
