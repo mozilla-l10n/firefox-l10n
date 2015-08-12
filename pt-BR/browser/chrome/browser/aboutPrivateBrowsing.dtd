@@ -2,18 +2,44 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.title            "Navegação privativa">
-<!ENTITY aboutPrivateBrowsing.title.normal     "Abrir uma janela privativa?">
-
-<!ENTITY aboutPrivateBrowsing.subtitle         "O &brandShortName; não memorizará o histórico desta janela.">
-<!ENTITY aboutPrivateBrowsing.subtitle.normal  "O &brandShortName; não memorizará o histórico de janelas privativas.">
-
-<!ENTITY aboutPrivateBrowsing.description      "Incluindo o histórico de navegação, de pesquisa, de download, de formulários, cookies e arquivos temporários. No entanto, os arquivos baixados e os favoritos criados serão mantidos.">
-
 <!ENTITY aboutPrivateBrowsing.notPrivate       "Você não está em uma janela privativa no momento.">
-
-<!ENTITY aboutPrivateBrowsing.moreInfo         "Embora este computador não possua registros do seu histórico, o seu empregador ou o provedor de internet podem rastrear as páginas que visita.">
-<!ENTITY aboutPrivateBrowsing.learnMore        "Saiba mais.">
-
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Abrir uma janela privativa">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
+
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
+     Width of the Private Browsing section.
+     -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
+     aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
+     These strings will be replaced by aboutPrivateBrowsing.forgotten and
+     aboutPrivateBrowsing.kept when the new visual design lands (bug 1192625).
+     -->
+
+<!ENTITY aboutPrivateBrowsing.title            "Navegação privativa">
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.history     "Histórico">
+
+<!ENTITY aboutPrivateBrowsing.info.cookies     "Cookies">
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.downloads   "Downloads">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks   "Favoritos">
+
+<!ENTITY aboutPrivateBrowsing.learnMore        "Saiba mais.">
+<!-- LOCALIZATION NOTE (trackingProtection.width):
+     Width of the Tracking Protection section. This should be enough to
+     accommodate the title as well as the enabled or disabled indicator.
+     -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.state.width):
+     Width of the element representing the enabled or disabled indicator.
+     -->
+
+
+
+
+
+

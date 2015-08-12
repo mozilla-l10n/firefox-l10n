@@ -4,7 +4,8 @@
 
 <!ENTITY aboutAccounts.welcome "Bem-vindo ao &syncBrand.shortName.label;">
 
+
 <!ENTITY aboutAccountsConfig.description "Entre para sincronizar suas abas, favoritos, senhas e muito mais.">
 <!ENTITY aboutAccountsConfig.startButton.label "Começar">
 <!ENTITY aboutAccountsConfig.useOldSync.label "Usando uma versão antiga do Sync?">
-<!ENTITY aboutAccountsConfig.manage.label "Gerenciar">
+
