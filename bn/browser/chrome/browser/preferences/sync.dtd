@@ -16,7 +16,6 @@
 
 <!ENTITY manageAccount.label          "অ্যাকাউন্ট ব্যবস্থাপনা n">
 <!ENTITY manageAccount.accesskey      "n">
-<!ENTITY viewQuota.label              "কোটা প্রদর্শন">
 <!ENTITY changePassword2.label        "পাসওয়ার্ড পরিবর্তন করুন…">
 <!ENTITY myRecoveryKey.label          "আমার পুনরুদ্ধার চাবি">
 <!ENTITY resetSync2.label             "সিঙ্ক রিসেট করুন...">
@@ -26,8 +25,6 @@
 <!ENTITY syncMy.label               "আমার সিঙ্ক">
 <!ENTITY engine.bookmarks.label     "বুকমার্ক m">
 <!ENTITY engine.bookmarks.accesskey "m">
-
-
 <!ENTITY engine.tabs.label          "ট্যাবসমূহ T">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "ইতিহাস (r)">
@@ -69,12 +66,23 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 
+
 <!ENTITY manage.label                "ব্যবস্থাপনা">
 
 
 
 
-<!ENTITY welcome.signIn.label "সাইন ইন">
+
 
 
 <!ENTITY welcome.useOldSync.label "পুরনো সিঙ্ক ব্যবহার করছেন?">
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+
+
