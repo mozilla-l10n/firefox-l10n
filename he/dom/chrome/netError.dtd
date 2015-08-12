@@ -4,8 +4,8 @@
 
 <!ENTITY loadError.label "שגיאה בטעינת דף">
 <!ENTITY retry.label "נסה שוב">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "כישלון בהתחברות">
 <!ENTITY connectionFailure.longDesc "<p>למרות שהאתר נראה תקף, הדפדפן לא הצליח ליצור התחברות.</p><ul><li>האם האתר אינו זמין כעת? נסה שוב מאוחר יותר.</li><li>האם אין באפשרותך לגלוש באתרים אחרים? בדוק את הגדרות החיבור לרשת של המחשב.</li><li>האם המחשב או הרשת מוגנים על־ידי חומת אש או שרת מתווך? הגדרות לא נכונות יכולות להפריע לגלישה באינטרנט.</li></ul>">
@@ -48,7 +48,8 @@
 <!ENTITY netTimeout.title "תם הזמן המוקצב ברשת">
 <!ENTITY netTimeout.longDesc "<p>האתר המבוקש לא הגיב לבקשת התחברות והדפדפן הפסיק להמתין לתגובה.</p><ul><li>האם ייתכן שהשרת חווה עומסים גבוהים או הפסקה זמנית? נסה שוב מאוחר יותר.</li><li>האם אין ביכולתך לגלוש באתרים אחרים? בדוק את הגדרות החיבור לרשת של המחשב.</li><li>האם המחשב או הרשת שלך מוגנים על־ידי חומת אש או שרת מתווך? הגדרות לא נכונות עלולות להפריע לגלישה באינטרנט.</li><li>עדיין נתקל בבעיות? היוועץ במנהל הרשת או בספק האינטרנט שלך לקבלת עזרה.</li></ul>">
 
-
+<!ENTITY unknownProtocolFound.title "פרוטוקול לא מוכר">
+<!ENTITY unknownProtocolFound.longDesc "<p>הכתובת ציינה פרוטוקול (לדוגמה: <q>wxyz://</q>) שהדפדפן אינו מזהה, ולכן הדפדפן אינו יכול להתחבר לאתר כראוי.</p><ul><li>האם אתה מנסה לגשת לשירות מולטימדיה או לשירות אחר שאינו מבוסס טקסט? בדוק אם קיימות לאתר דרישות נוספות.</li><li>פרוטוקולים מסויימים עשויים לדרוש שימוש ביישומי צד־שלישי או בתוספים חיצוניים לפני שהדפדפן יוכל לזהות אותם.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "השרת המתווך דחה את ההתחברות">
 <!ENTITY proxyConnectFailure.longDesc "<p>הדפדפן מוגדר להשתמש בשרת מתווך, אולם השרת המתווך דחה את ההתחברות.</p><ul><li> האם הגדרות שרת המתווך של הדפדפן מוגדרות כראוי? בדוק את ההגדרות ונסה שוב.</li><li>האם שירות השרת המתווך מאפשר חיבורים מרשת זו?</li><li>עדיין נתקל בבעיות? היוועץ במנהל הרשת או בספק האינטרנט שלך לקבלת עזרה.</li></ul>">
@@ -79,7 +80,6 @@
 <p>בעלי אתרים המאמינים כי האתר שלהם דווח בטעות בתור אתר תוקף יכולים <a href='http://www.stopbadware.org/home/reviewinfo' >לבקש בדיקה חוזרת</a>.</p>">
 
 
-
 <!ENTITY phishingBlocked.title "חשד לזיוף ברשת!">
 <!ENTITY phishingBlocked.longDesc "<p>הכנסת מידע אישי לדף זה יכולה להסתיים בגניבת זהות או הונאה אחרת.</p> 
 <p>סוגי זיוף אלו משמשים להונאת משתמשים ומוכרים גם בתור &quot;מתקפות דיוג&quot;, בהן נוכלים שותלים דפים והודעות דואר אלקטרוני המהווים חיקוי של מקורות שאתה סומך עליהם.</p>">
@@ -92,10 +92,10 @@
 
 <!ENTITY remoteXUL.title "XUL מרוחק">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>רצוי לפנות אל בעלי האתר וליידע אותם על הבעיה.</li></ul></p>">
+
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
      this inclusion needs to be intact for that approach to work correctly.
      Please, try to keep this at the end of the file. -->
-
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;

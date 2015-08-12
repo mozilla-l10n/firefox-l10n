@@ -45,8 +45,8 @@
 
 <!ENTITY  installerrors.wizard.title      "בעיה בהתקנת עדכונים">
 <!ENTITY  installerrors.intro.label       "&brandShortName; חווה בעיות בעדכון חלק מהתוספות שלך.">
-<!-- general strings used by several of the finish pages -->
 
+<!-- general strings used by several of the finish pages -->
 <!ENTITY  clickFinish.label               "לחץ על סיום כדי להמשיך בהפעלת &brandShortName;">
 <!ENTITY  clickFinish.labelMac            "לחץ על סיום כדי להמשיך בהפעלת &brandShortName;.">
 <!ENTITY  enableChecking.label            "אפשר ל־&brandShortName; לבדוק עדכונים.">

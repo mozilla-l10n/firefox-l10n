@@ -8,11 +8,11 @@
 <!ENTITY syncCustomize.title              "אלו פריטים ברצונך לסנכרן?">
 <!ENTITY syncCustomize.description        "ניתן לשנות את בחירה זו באפשרויות.">
 <!ENTITY syncCustomizeUnix.description    "ניתן לשנות את בחירה זו בהעדפות.">
+
 <!--
   These engine names are the same as in browser/preferences/sync.dtd except
   for the last two that are marked as being specific to Desktop browsers.
 -->
-
 <!ENTITY engine.bookmarks.label           "סימניות">
 <!ENTITY engine.bookmarks.accesskey       "מ">
 <!ENTITY engine.history.label             "היסטוריה">

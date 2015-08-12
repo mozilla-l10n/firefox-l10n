@@ -8,8 +8,8 @@
 
 <!ENTITY  columnLabel.name          "שם">
 <!ENTITY  columnLabel.keyword       "מילת מפתח">
-<!-- Buttons -->
 
+<!-- Buttons -->
 <!ENTITY  up.label                  "הזזה מעלה">
 <!ENTITY  up.accesskey              "ע">
 <!ENTITY  dn.label                  "הזזה מטה">

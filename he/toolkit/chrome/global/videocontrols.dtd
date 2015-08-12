@@ -8,7 +8,7 @@
 <!ENTITY muteButton.unmuteLabel "בטל השתקה">
 <!ENTITY fullscreenButton.enterfullscreenlabel "מסך מלא">
 <!ENTITY fullscreenButton.exitfullscreenlabel "יציאה ממסך מלא">
-
+<!ENTITY castingButton.castingLabel "שידור ל־Screen">
 
 <!ENTITY stats.media "מדיה">
 <!ENTITY stats.size "גודל ">
@@ -29,10 +29,10 @@
 <!ENTITY error.srcNotSupported "תסדיר הווידאו או סוג ה־MIME אינו נתמך.">
 <!ENTITY error.noSource2 "לא נמצא וידאו עם תסדיר וסוג MIME.">
 <!ENTITY error.generic "נגינת וידאו הופסקה בעקבות שגיאה לא ידועה.">
+
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
 "6:00:00", result string would be "5:00 of 6:00:00 elapsed".
 -->
-
 <!ENTITY scrubberScale.nameFormat "#1 מתוך #2">
