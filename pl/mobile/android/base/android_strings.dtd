@@ -579,3 +579,5 @@ it is applicable. -->
 <!ENTITY restriction_disallow_apps_description "Nie pozwala instalować aplikacji z Firefox Marketplace.">
 <!ENTITY restriction_disallow_devtools_title "Wyłączenie narzędzi dla programistów">
 <!ENTITY restriction_disallow_devtools_description "Nie pozwala używać narzędzi dla programistów.">
+<!ENTITY restriction_disallow_customize_home_title "Wyłączenie dostosowywania strony domowej">
+<!ENTITY restriction_disallow_customize_home_description "Nie pozwala na dostosowywanie paneli strony domowej.">
