@@ -471,10 +471,11 @@ it is applicable. -->
 <!ENTITY num_tabs2 "Karty (&formatD;)">
 
 <!ENTITY identity_connected_to "Połączono z">
-<!ENTITY identity_run_by "Witrynę prowadzi:">
-<!ENTITY identity_no_info "Ta witryna nie dostarcza informacji o swej tożsamości">
-<!ENTITY identity_not_encrypted "Połączenie z tą witryną nie jest szyfrowane.">
-<!ENTITY identity_encrypted "Szyfrowane">
+<!ENTITY identity_connection_secure "Zabezpieczone połączenie">
+<!ENTITY identity_connection_insecure "Niezabezpieczone połączenie">
+
+<!ENTITY mixed_content_blocked_all "Program &brandShortName; zablokował niezabezpieczone elementy na tej stronie.">
+<!ENTITY mixed_content_protection_disabled "Ochrona przed niezabezpieczonymi elementami jest wyłączona.">
 
 <!ENTITY loaded_mixed_content_message "Na tej stronie znajdują się niebezpieczne treści">
 <!ENTITY blocked_mixed_content_message_top "Przeglądarka &brandShortName; zablokowała niebezpieczne treści.">
