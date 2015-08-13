@@ -3,14 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY privatebrowsingpage.title "Brabhsadh prìobhaideach">
-<!ENTITY privatebrowsingpage.title.normal "Chan eil thu a’ dèanamh brabhsadh prìobhaideach">
+<!-- Localisation note: the plus sign here is a shorthand way of expressing the word "and". Contextually the privatebrowsingpage.title.private string
+                        is used as a title, with the privatebrowsingpage.title string preceding it but on a separate line.
+                        So the final line will say "Private Browsing + Tracking Protection". -->
 
-<!ENTITY privatebrowsingpage.issueDesc.normal2 "Cha chum sinn gin dhen eachdraidh bhrabhsaidh no na briosgaidean agad sa bhrabhsadh phrìobhaideach.">
-<!ENTITY privatebrowsingpage.issueDesc.private2 "Cha chum sinn gin dhen eachdraidh bhrabhsaidh no na briosgaidean agad.">
 
-<!ENTITY privatebrowsingpage.description2 "Thèid comharran-lìn a chuireas tu ris is faidhlichean a luchdaicheas tu a-nuas a shàbhaladh air an uidheam agad fhathast.">
-<!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
-<!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
+
 
 <!ENTITY privatebrowsingpage.link.private "A bheil thu ag iarraidh barrachd fiosrachaidh?">
 <!ENTITY privatebrowsingpage.link.normal "Fosgail taba prìobhaideach ùr">
