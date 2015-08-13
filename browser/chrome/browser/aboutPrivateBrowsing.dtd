@@ -10,6 +10,8 @@
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
      Width of the Private Browsing section.
      -->
+
+<!ENTITY aboutPrivateBrowsing.width            "25em">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
      aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
      These strings will be replaced by aboutPrivateBrowsing.forgotten and
@@ -17,15 +19,17 @@
      -->
 
 <!ENTITY aboutPrivateBrowsing.title            "Estás navegando en forma privada">
+<!ENTITY aboutPrivateBrowsing.subtitle         "En esta ventana, &brandShortName; no recordará nada del historial.">
 
-
-
+<!ENTITY aboutPrivateBrowsing.forgotten        "En esta ventana &brandShortName; no recordará nada.">
+<!ENTITY aboutPrivateBrowsing.info.forgotten   "Olvidado">
 <!ENTITY aboutPrivateBrowsing.info.history     "Historial">
-
+<!ENTITY aboutPrivateBrowsing.info.searches    "Búsquedas">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Cookies">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Archivos temporales">
 
-
-
+<!ENTITY aboutPrivateBrowsing.kept             "&brandShortName; conservará:">
+<!ENTITY aboutPrivateBrowsing.info.kept        "Mantenido">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Descargas">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Marcadores">
 
