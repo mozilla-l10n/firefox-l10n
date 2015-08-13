@@ -112,7 +112,7 @@ The locale includes both language and region concepts. -->
 <!ENTITY pref_category_display "Wyświetlanie">
 <!ENTITY pref_category_display_summary "Tekst, pasek tytułowy, przeglądanie pełnoekranowe">
 <!ENTITY pref_category_privacy_short "Prywatność">
-<!ENTITY pref_category_privacy_summary "Kontrola nad hasłami, ciasteczkami, śledzeniem i innymi danymi">
+<!ENTITY pref_category_privacy_summary2 "Kontrola nad danymi logowania, ciasteczkami, śledzeniem i innymi danymi">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "O programie &brandShortName;, najczęściej zadawane pytania, zarządzanie danymi">
 <!ENTITY pref_category_datareporting "Udostępnianie danych">
@@ -131,7 +131,7 @@ The locale includes both language and region concepts. -->
 <!ENTITY pref_category_devtools "Narzędzia dla programistów">
 <!ENTITY pref_developer_remotedebugging "Zdalne debugowanie">
 <!ENTITY pref_category_logins "Dane logowania">
-<!ENTITY pref_remember_signons "Pamiętaj hasła">
+<!ENTITY pref_remember_signons2 "Pamiętaj dane logowania">
 <!ENTITY pref_open_external_urls_privately_title "Otwieraj odnośniki w trybie prywatnym">
 <!ENTITY pref_open_external_urls_privately_summary "Dla wszystkich zewnętrznych odnośników otwieranych w programie &brandShortName;">
 <!ENTITY pref_manage_logins "Zarządzanie danymi logowania">
@@ -222,7 +222,7 @@ size. -->
 
 <!ENTITY pref_use_master_password "Używaj hasła głównego">
 <!ENTITY pref_sync "Sync">
-<!ENTITY pref_sync_summary "Synchronizuj karty, zakładki, hasła, historię">
+<!ENTITY pref_sync_summary2 "Synchronizuj karty, zakładki, dane logowania, historię">
 <!ENTITY pref_search_suggestions "Podpowiedzi wyszukiwania">
 <!ENTITY pref_import_android "Importuj z Androida">
 <!ENTITY pref_import_android_summary "Importuj zakładki i historię z domyślnej przeglądarki systemu Android">
@@ -230,7 +230,7 @@ size. -->
 <!ENTITY pref_private_data_searchHistory "Historia wyszukiwania">
 <!ENTITY pref_private_data_formdata2 "Historia formularzy">
 <!ENTITY pref_private_data_cookies2 "Ciasteczka i aktywne zalogowania">
-<!ENTITY pref_private_data_passwords "Zachowane hasła">
+<!ENTITY pref_private_data_passwords2 "Zachowane dane logowania">
 <!ENTITY pref_private_data_cache "Pamięć podręczna">
 <!ENTITY pref_private_data_offlineApps "Dane witryny w trybie offline">
 <!ENTITY pref_private_data_siteSettings2 "Ustawienia witryny">
@@ -516,7 +516,7 @@ it is applicable. -->
 <!ENTITY guest_session_dialog_continue "Kontynuuj">
 <!ENTITY guest_session_dialog_cancel "Anuluj">
 <!ENTITY new_guest_session_title "Program &brandShortName; zostanie uruchomiony ponownie">
-<!ENTITY new_guest_session_text "Osoba korzystająca z przeglądarki nie będzie widziała Twoich prywatnych informacji (takich, jak zachowane hasła, historia przeglądania czy zakładki). Kiedy gość skończy korzystać z przeglądarki, dane o sesji zostaną usunięte, a Twoja sesja zostanie przywrócona.">
+<!ENTITY new_guest_session_text2 "Osoba korzystająca z przeglądarki nie będzie widziała Twoich prywatnych informacji (takich, jak zachowane dane logowania, historia przeglądania czy zakładki). Kiedy gość skończy korzystać z przeglądarki, dane o sesji zostaną usunięte, a Twoja sesja zostanie przywrócona.">
 <!ENTITY guest_browsing_notification_title "Włączono tryb gościnny">
 <!ENTITY guest_browsing_notification_text "Stuknij, żeby wyjść">
 

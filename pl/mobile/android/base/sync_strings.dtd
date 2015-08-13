@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label 'Co synchronizować'>
 <!ENTITY sync.configure.engines.sync.my.title.label 'Synchronizuj…'>
 <!ENTITY sync.configure.engines.title.bookmarks 'Zakładki'>
-<!ENTITY sync.configure.engines.title.passwords 'Hasła'>
+<!ENTITY sync.configure.engines.title.passwords2 'Dane logowania'>
 <!ENTITY sync.configure.engines.title.history 'Historia przeglądania'>
 <!ENTITY sync.configure.engines.title.tabs 'Karty'>
 
@@ -140,7 +140,7 @@ the two uses differently. -->
 <!ENTITY fxaccount_remove_account_menu_item 'Usuń konto'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'Witaj w usłudze &syncBrand.shortName.label;'>
-<!ENTITY fxaccount_getting_started_description 'Zarejestruj się i synchronizuj swoje karty, zakładki, hasła i więcej.'>
+<!ENTITY fxaccount_getting_started_description2 'Zarejestruj się i synchronizuj swoje karty, zakładki, dane logowania i więcej.'>
 <!ENTITY fxaccount_getting_started_get_started 'Pierwsze kroki'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Korzystasz ze starej wersji usługi &syncBrand.shortName.label;?'>
 
@@ -207,7 +207,7 @@ the two uses differently. -->
 <!ENTITY fxaccount_status_needs_finish_migrating "Stuknij, aby zalogować do Twojego nowego konta Firefoksa.">
 <!ENTITY fxaccount_status_bookmarks 'Zakładki'>
 <!ENTITY fxaccount_status_history 'Historia'>
-<!ENTITY fxaccount_status_passwords 'Hasła'>
+<!ENTITY fxaccount_status_passwords2 'Dane logowania'>
 <!ENTITY fxaccount_status_tabs 'Otwarte karty'>
 <!ENTITY fxaccount_status_legal 'Podstawa prawna'>
 <!-- Localization note: when tapped, the following two strings link to
