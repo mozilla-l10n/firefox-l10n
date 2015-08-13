@@ -562,3 +562,15 @@ it is applicable. -->
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
 <!ENTITY devtools_auth_scan_header "Skanowanie kodu QR wyświetlonego na drugim urządzeniu">
+
+<!-- Restrictions -->
+<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+     a restricted profile (e.g. child). Used inside the Android settings UI. -->
+<!ENTITY restriction_disallow_tools_menu_title "Wyłączenie menu Narzędzia">
+<!ENTITY restriction_disallow_tools_menu_description "Ukrywa menu Narzędzia w interfejsie.">
+<!ENTITY restriction_disallow_report_site_issue_title "Wyłączenie „Zgłoś problem ze stroną”">
+<!ENTITY restriction_disallow_report_site_issue_description "Ukrywa element menu „Zgłoś problem ze stroną”.">
+<!ENTITY restriction_disallow_import_settings_title "Wyłączenie ustawień importowania">
+<!ENTITY restriction_disallow_import_settings_description "Nie pozwala importować ustawień z innych przeglądarek w systemie.">
+
+
