@@ -168,7 +168,7 @@ selected to be added to the home page. -->
 <!ENTITY pref_cookies_disabled "Nie akceptuj">
 
 <!ENTITY pref_tracking_protection_title "Ochrona przed śledzeniem">
-<!ENTITY pref_tracking_protection_summary "Blokowanie przez program &brandShortName; prób śledzenia aktywności użytkownika przez strony">
+<!ENTITY pref_tracking_protection_summary2 "Aktywne blokowanie elementów śledzących aktywność użytkownika w trybie prywatnym">
 <!ENTITY pref_donottrack_title "Ograniczanie śledzenia">
 <!ENTITY pref_donottrack_summary "Informuj witryny, że użytkownik nie chce być śledzony">
 
