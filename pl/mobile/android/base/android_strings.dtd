@@ -547,10 +547,6 @@ it is applicable. -->
 <!ENTITY actionbar_done "Gotowe">
 
 <!ENTITY voicesearch_prompt "Mów teraz">
-<!ENTITY voicesearch_failed_title "Wyszukiwanie głosowe programu &brandShortName;">
-<!ENTITY voicesearch_failed_message "Obecnie występują problemy z wyszukiwaniem głosowym. Proszę spróbować później.">
-<!ENTITY voicesearch_failed_message_recoverable "Niestety nie udało się rozpoznać słów. Proszę spróbować ponownie.">
-<!ENTITY voicesearch_failed_retry "Spróbuj ponownie">
 
 <!ENTITY remote_tabs_last_synced "Ostatnia synchronizacja: &formatS;">
 <!ENTITY remote_tabs_never_synced "Ostatnia synchronizacja: nigdy">
