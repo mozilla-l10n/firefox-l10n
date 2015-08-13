@@ -23,6 +23,8 @@
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a build that can run multiprocess Firefox, but just is not enabled. -->
+
+<!ENTITY performanceUI.disabledRealTime.disabledE10S "रियल टाइम में रिकॉर्डिंग डेटा प्रदान के लिए प्राथमिकताएँ में बहु प्रक्रिया फ़ायरफ़ॉक्स सक्षम करें.">
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusFull): This string
   -  is displayed when the profiler's circular buffer has started to overlap. -->
 
@@ -61,11 +63,11 @@
 <!ENTITY performanceUI.table.totalPercentage          "कुल लागत">
 
 <!ENTITY performanceUI.table.selfPercentage           "स्वयं लागत">
-
+<!ENTITY performanceUI.table.selfPercentage.tooltip   "केवल इस समारोह के भीतर अधिक समय बिताये.">
 <!ENTITY performanceUI.table.samples                  "नमूना">
 
 <!ENTITY performanceUI.table.function                 "फंक्शन">
-
+<!ENTITY performanceUI.table.function.tooltip         "नमूना समारोह के नाम और स्रोत स्थान.">
 <!ENTITY performanceUI.table.totalAlloc               "कुल नमूना आवंटन">
 
 <!ENTITY performanceUI.table.selfAlloc                "कुल नमूना आवंटन">
@@ -115,7 +117,7 @@
   -  measurements are enabled. -->
 
 <!ENTITY performanceUI.enableAllocations             "रेकॉर्ड आवंटन">
-
+<!ENTITY performanceUI.enableAllocations.tooltiptext "प्रोफाइलिंग के दौरान वस्तु आवंटन का रिकार्ड करें.">
 <!-- LOCALIZATION NOTE (performanceUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
