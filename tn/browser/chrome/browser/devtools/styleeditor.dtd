@@ -14,10 +14,11 @@
 
 <!ENTITY newButton.accesskey        "N">
 
-<!ENTITY importButton.label         "Tlisateng…">
-
+<!ENTITY importButton.label         "Tsaya">
+<!ENTITY importButton.tooltip       "Tsaya ebe o tlhakanya mokgwa o o ntseng ole teng mo tokumenteng ">
 <!ENTITY importButton.accesskey     "T">
 
+<!ENTITY visibilityToggle.tooltip   "Refosa mokgwa wa ponalo ya tsebe">
 
 <!ENTITY saveButton.label           "Boloka">
 
