@@ -10,7 +10,7 @@
 
 <!ENTITY privatebrowsingpage.description2 "Pobrane pliki i dodane zakładki zostaną zachowane na urządzeniu.">
 <!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
-<!ENTITY privatebrowsingpage.description.private "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
+<!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
 
 <!ENTITY privatebrowsingpage.link.private "Więcej informacji">
 <!ENTITY privatebrowsingpage.link.normal "Otwórz nową kartę prywatną">
