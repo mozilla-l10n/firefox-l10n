@@ -175,6 +175,11 @@ selected to be added to the home page. -->
 <!ENTITY pref_donottrack_title "Ograniczanie śledzenia">
 <!ENTITY pref_donottrack_summary "Informuj witryny, że użytkownik nie chce być śledzony">
 
+<!ENTITY tracking_protection_prompt_title "Nowa ochrona przed śledzeniem">
+<!ENTITY tracking_protection_prompt_text "Aktywne blokowanie elementów śledzących aktywność użytkownika.">
+<!ENTITY tracking_protection_prompt_tip_text "Więcej informacji w ustawieniach prywatności">
+<!ENTITY tracking_protection_prompt_action_button "Zamknij">
+
 <!ENTITY tab_queue_toast_message3 "Karta zapisana w programie &brandShortName;">
 <!ENTITY tab_queue_toast_action "Otwórz teraz">
 <!ENTITY tab_queue_prompt_title "Otwieranie wielu odnośników">
