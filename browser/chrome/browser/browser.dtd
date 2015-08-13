@@ -110,7 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "ز">
 
 <!ENTITY fxaSignIn.label "ورود به &syncBrand.shortName.label;">
-
+<!ENTITY fxaSignedIn.tooltip "باز کردن ترجیحات &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "بازگشت به &syncBrand.shortName.label;…">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; فعال شد">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; به زودی هم‌گام‌سازی را شروع میکند">
@@ -395,7 +395,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "پرش به زبانه:">
 
-
+<!ENTITY urlbar.searchSuggestionsNotification.question "آیا مایلید که تجربه‌ی جست‌وجو خود را با پیشنهادات بهبود دهید؟">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "اطلاعات بیشتر…">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "خیر">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "بله">
 <!-- 
@@ -426,6 +427,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      These are set as the aria-label attribute for the search input box and
      submit button in the in-content search UI, to be used by screen readers. -->
 
+<!ENTITY contentSearchInput.label     "عبارت جست‌وجو">
+<!ENTITY contentSearchSubmit.label    "ثبت جست‌وجو">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -641,6 +644,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "س">
 
+<!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "سبک صفحه">
 <!ENTITY pageStyleMenu.accesskey "ک">
@@ -680,31 +684,36 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "انجام شد">
 <!ENTITY editBookmark.cancel.label                   "انصراف">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "اتصال امن">
 <!ENTITY identity.connectionNotSecure "اتصال امن نیست">
-
+<!ENTITY identity.connectionFile "این صفحه بر روی رایانه شما ذخیره شده است.">
 <!ENTITY identity.connectionVerified "&brandShortName; تایید کرد امنیت اتصال شما را به این پایگاه، اداره شده توسط:">
 <!ENTITY identity.connectionInternal "این یک صفحۀ امن &brandShortName; است.">
 <!-- Strings for connection state warnings. -->
 
-
-
+<!ENTITY identity.activeBlocked "&brandShortName; قسمت‌هایی از این صفحه را که ایمن نیستند، مسدود کرده است.">
+<!ENTITY identity.passiveLoaded "قسمت‌هایی از این صفحه امن نیست (مانند تصاویر).">
+<!ENTITY identity.activeLoaded "شما محافظت را در این صفحه غیرفعال کرده‌اید.">
+<!ENTITY identity.weakEncryption "این صفحه از کدگذاری ضعیفی استفاده می‌کند.">
 <!-- Strings for connection state warnings in the subview. -->
 
+<!ENTITY identity.description.insecure "اتصال شما با این سایت خصوصی نیست. اطلاعاتی که شما ثبت می‌کنید ممکن است توسط دیگران دیده شود (مانند گذرواژه‌ها، پیام‌ها، کارت‌های بانکی و غیره).">
+<!ENTITY identity.description.weakCipher "اتصال شما با این سایت از کدگذاری ضعیفی استفاده می‌کند و خصوصی نیست.">
+<!ENTITY identity.description.weakCipher2 "افراد دیگر می‌توانند اطلاعات شما را ببینید یا رفتار سایت را تغییر دهند.">
+<!ENTITY identity.description.activeBlocked "&brandShortName; قسمت‌هایی از این صفحه را که ایمن نیستند، مسدود کرده است.">
+<!ENTITY identity.description.passiveLoaded "اتصال شما خصوصی نیست و اطلاعاتی که با سایت اشتراک می‌گذارید می‌تواند توسط دیگران دیده شود.">
+<!ENTITY identity.description.passiveLoaded2 "این سایت حاوی محتوایی است که ایمن نیستند (مانند تصاویر).">
+<!ENTITY identity.description.passiveLoaded3 "با اینکه &brandShortName; بعضی از محتوا را مسدود کرده است، هنوز محتوای در این سایت هستند که ایمن نیستند (مانند تصاویر).">
+<!ENTITY identity.description.activeLoaded "این سایت شامل محتوایی است که ایمن نیستند (مانند کدنوشته‌ها) و اتصال شما به آن خصوصی نیست.">
+<!ENTITY identity.description.activeLoaded2 "اطلاعاتی که با این سایت به‌اشتراک می‌گذارید ممکن است توسط دیگران دیده شوند (مانند گذرواژه‌ها، پیام‌ها، کارت‌های اعتباری و غیره).">
 
-
-
-
-
-
-
-
-
+<!ENTITY identity.enableMixedContentBlocking.label "فعال‌سازی محافظت">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "ف">
 <!ENTITY identity.disableMixedContentBlocking.label "فعلا محافظت غیرفعال شود.">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "غ">
-
+<!ENTITY identity.learnMore "بیشتر بدانید">
 
 <!ENTITY identity.moreInfoLinkText2 "اطلاعات بیشتر">
 
@@ -781,27 +790,30 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "د">
 <!ENTITY getUserMedia.selectMicrophone.label "میکروفون جهت به‌اشتراک‌گذاری:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "م">
-
+<!ENTITY getUserMedia.audioCapture.label "صدای مربوط به این زبانه به‌اشتراک گذاشته می‌شود.">
 <!ENTITY getUserMedia.allWindowsShared.message "همه‌ی پنجره‌هایی که مشاهده می‌کنید به اشتراک گذاشته می‌شود.">
 
-
-
-
+<!ENTITY trackingProtection.title "محافظت در برابر ردگیری">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; قسمت‌هایی از سایت را که مرور شما را ردگیری می‌کنند مسدود می‌کند.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "این سایت حاوی اجزایی‌ست که مرور شما را ردگیری می‌کند. شما امکان محافظت را غیرفعال کرده‌اید.">
+<!ENTITY trackingProtection.notDetected3 "هیچ عنصر ردگیری‌ای در این صفحه پیدا نشد.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-
+<!ENTITY trackingProtection.unblock.label "غیرفعال‌سازی حفاظت برای این وب سایت">
+<!ENTITY trackingProtection.unblock.accesskey "غ">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-
-
-
+<!ENTITY trackingProtection.unblockPrivate.label "غیرفعال‌سازی حفاظت برای این نشست">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "غ">
+<!ENTITY trackingProtection.block2.label "فعال‌سازی محافظت">
+<!ENTITY trackingProtection.block2.accesskey "ف">
 
 <!ENTITY trackingContentBlocked.message "ردگیری">
 <!ENTITY trackingContentBlocked.moreinfo "بخش‌هایی از این صفحه که فعالیت آنلاین شما را ردگیری می‌کنند مسدوده شده‌اند.">
 <!ENTITY trackingContentBlocked.learnMore "بیشتر بدانید">
-
+<!ENTITY trackingContentBlocked.options "گزینه‌ها">
 
 
 <!ENTITY trackingContentBlocked.block.label "فعال کردن محافظ">
