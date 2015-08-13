@@ -457,11 +457,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY tabView.commandkey           "e">
 
-<!ENTITY openLinkCmdInTab.label       "Abrir ligação em novo separador">
+<!ENTITY openLinkCmdInTab.label       "Abrir ligação num novo separador">
 <!ENTITY openLinkCmdInTab.accesskey   "s">
-<!ENTITY openLinkCmd.label            "Abrir a ligação em nova janela">
+<!ENTITY openLinkCmd.label            "Abrir ligação numa nova janela">
 <!ENTITY openLinkCmd.accesskey        "j">
-<!ENTITY openLinkInPrivateWindowCmd.label "Abrir ligação em nova janela privada">
+<!ENTITY openLinkInPrivateWindowCmd.label "Abrir ligação numa nova janela privada">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "p">
 <!ENTITY openLinkCmdInCurrent.label     "Abrir ligação">
 <!ENTITY openLinkCmdInCurrent.accesskey "A">
