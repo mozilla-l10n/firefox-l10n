@@ -3,14 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY privatebrowsingpage.title "Vafra í einkaglugga">
-<!ENTITY privatebrowsingpage.title.normal "Þú ert í huliðsstillingu">
+<!-- Localisation note: the plus sign here is a shorthand way of expressing the word "and". Contextually the privatebrowsingpage.title.private string
+                        is used as a title, with the privatebrowsingpage.title string preceding it but on a separate line.
+                        So the final line will say "Private Browsing + Tracking Protection". -->
 
-<!ENTITY privatebrowsingpage.issueDesc.normal2 "Firefox mun ekki muna ferla eða smákökur fyrir glugga í huliðsstillingu.">
-<!ENTITY privatebrowsingpage.issueDesc.private2 "Við munum ekki muna ferla eða smákökur.">
+<!ENTITY privatebrowsingpage.title.private " + Ekki fylgjast með mér vernd">
+<!ENTITY privatebrowsingpage.title.normal1 "Þú ert ekki í huliðsstillingu">
 
-<!ENTITY privatebrowsingpage.description2 "Bókarmerki sem þú bætir við og skrár sem þú niðurhalar munu samt vistast á tækið þitt.">
-<!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
-<!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
+<!ENTITY privatebrowsingpage.description.private3 "Firefox mun koma í veg fyrir að fylgst sé með þér og mun ekki skrá neitt ferli en skrár sem þú hleður niður og bókarmerki munu samt vistast á tækinu þínu.">
+<!ENTITY privatebrowsingpage.description.normal2 "Við geymum ekki neitt af ferli þínu né smákökum í huliðsvöfrun. Bókarmerki og skrár sem þú hleður niður munu samt vistast á tækinu þínu.">
 
 <!ENTITY privatebrowsingpage.link.private "Viltu vita meira?">
 <!ENTITY privatebrowsingpage.link.normal "Opna flipa í huliðsstillingu">
