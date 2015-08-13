@@ -10,6 +10,7 @@
 <!ENTITY  onboard_start_subtext3 "Lakait ho merdeiñ web hezoug da vezañ deoc\u0027h ho-unan.">
 <!ENTITY  onboard_start_button_account "Kennaskañ ouzh &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Krog da verdeiñ">
+<!ENTITY  onboard_start_restricted1 "Chomit diarvar ha dalc\u0027hit ar mestroniezh gant stumm eeunaet &brandShortName;.">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -68,6 +69,8 @@
 <!ENTITY edit_mode_cancel "Nullañ">
 
 <!ENTITY close_tab "Serriñ an ivinell">
+<!ENTITY tab_audio_playing "Aodio a vez sonet gant an ivinell-mañ">
+<!ENTITY tab_audio_muted "Mutet eo bet an ivinell-mañ">
 <!ENTITY one_tab "1 ivinell">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -155,6 +158,9 @@
 <!ENTITY pref_search_hint "TUN : Ouzhpennit ne vern pe lec\u0027hienn war ho roll pourchaserion glask en ur bouezañ hir war ar vaezienn glask ha pouezit war an arlun &formatI;">
 <!ENTITY pref_category_devtools "Ostilhoù an diorroer">
 <!ENTITY pref_developer_remotedebugging "Diveugañ a-bell">
+<!ENTITY pref_developer_remotedebugging_usb "Diveugañ a-bell dre USB">
+<!ENTITY pref_developer_remotedebugging_wifi "Diveugañ a-bell dre Wi-Fi">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Rankout a rit kaout un arload evit lenn bonegoù QR a-benn arverañ an diveugañ dre Wi-Fi.">
 <!ENTITY pref_category_logins "Titouroù kennaskañ">
 <!ENTITY pref_remember_signons2 "Derc\u0027hel-soñj eus an titouroù kennaskañ">
 <!ENTITY pref_open_external_urls_privately_title "Digeriñ ereoù er merdeiñ prevez">
@@ -192,15 +198,20 @@
 <!ENTITY pref_cookies_disabled "Diweredekaet">
 
 <!ENTITY pref_tracking_protection_title "Gwarez heuliañ">
-<!ENTITY pref_tracking_protection_summary "&brandShortName; a viro ouzh al lec\u0027hiennoù da heuliañ ac\u0027hanoc\u0027h">
+<!ENTITY pref_tracking_protection_summary3 "Gweredekaat er merdeiñ prevez">
 <!ENTITY pref_donottrack_title "N\u0027am heuilhit ket">
 <!ENTITY pref_donottrack_summary "&brandShortName; a lavaro d\u0027al lec\u0027hiennoù ne fell ket deoc\u0027h bezañ heuliet">
+
+<!ENTITY tracking_protection_prompt_title "Bremañ gant ar gwarez heuliañ">
+<!ENTITY tracking_protection_prompt_text "Stankañ elfennoù heuliañ en un doare oberiant evit bezañ dinec\u0027het.">
+<!ENTITY tracking_protection_prompt_tip_text "Sellit an arventennoù buhez prevez evit gouzout hiroc\u0027h">
+<!ENTITY tracking_protection_prompt_action_button "Komprenet \u0027m eus !">
 
 <!ENTITY tab_queue_toast_message3 "Ivinell enrollet e &brandShortName;">
 <!ENTITY tab_queue_toast_action "Digeriñ bremañ">
 <!ENTITY tab_queue_prompt_title "Digeriñ meur a ereoù ?">
-<!ENTITY tab_queue_prompt_text3 "Enrollit anezho betek ar wech a zeu ma vo digoret &brandShortName;">
-<!ENTITY tab_queue_prompt_tip_text "tu a vo deoc\u0027h kemmañ se en Arventennoù diwezhatoc\u0027h">
+<!ENTITY tab_queue_prompt_text4 "Enrollit anezho betek ar wech a zeu ma vo digoret &brandShortName; ganeoc\u0027h.">
+<!ENTITY tab_queue_prompt_tip_text2 "Gellout a rit kemmañ se en Arventennoù diwezhatoc\u0027h">
 <!ENTITY tab_queue_prompt_positive_action_button "Gweredekaat">
 <!ENTITY tab_queue_prompt_negative_action_button "Ket bremañ">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
@@ -330,7 +341,6 @@ size. -->
 <!ENTITY addons "Askouezhioù">
 <!ENTITY logins "Titouroù kennaskañ">
 <!ENTITY downloads "Pellgargadurioù">
-<!ENTITY apps "Arloadoù">
 <!ENTITY char_encoding "Bonegadur an arouezennoù">
 
 <!ENTITY share "Rannañ">
@@ -400,6 +410,11 @@ size. -->
 <!ENTITY pref_titlebar_mode "Barrenn ditl">
 <!ENTITY pref_titlebar_mode_title "Diskouez titl ar bajenn">
 <!ENTITY pref_titlebar_mode_url "Diskouez chomlec\u0027h ar bajenn">
+<!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
+     whether or not the magnifying glass is disabled. -->
+
+<!ENTITY pref_prevent_magnifying_glass "Skrammañ ar brasaer ">
+<!ENTITY pref_prevent_magnifying_glass_summary "Mirout ouzh arver ar brasaer evit diskoulmañ stokadennoù skramm forc\u0027hellek">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -407,7 +422,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "Kuzhat barrenn ditl &brandShortName; pa zibuner a-hed ur bajennad">
 
 <!ENTITY pref_tab_queue_title2 "Digeriñ meur a ereoù">
-<!ENTITY pref_tab_queue_summary3 "Enrollit anezho betek ar wech a zeu ma tigorit &brandShortName;">
+<!ENTITY pref_tab_queue_summary3 "Enrollit anezho betek ar wech a zeu ma vo digoret &brandShortName; ganeoc\u0027h">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -425,10 +440,10 @@ size. -->
 <!ENTITY site_settings_cancel       "Nullañ">
 <!ENTITY site_settings_clear        "Skarzhañ">
 <!ENTITY site_settings_no_settings  "N\u0027eus arventenn ebet da skarzhañ.">
-<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+<!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
 
-<!ENTITY reading_list_added2 "Ouzhpennet d\u0027ar roll">
+<!ENTITY reading_list_added3 "Ouzhpennet er Roll Lennadurioù">
 <!ENTITY reading_list_removed "Pajennad ouzhpennet war ho Roll Lennadurioù">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -545,21 +560,25 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_run_by "hag a zo lañset gant">
-<!ENTITY identity_no_info "Ne bourchas ket al lec\u0027hienn-mañ titouroù a-fet pivelezh.">
-<!ENTITY identity_not_encrypted "N\u0027eo ket enrineget ho kennask ouzh al lec\u0027hienn-mañ.">
-<!ENTITY identity_encrypted "Enrineget">
+<!ENTITY identity_connection_secure "Kennask diarvar">
+<!ENTITY identity_connection_insecure "Kennask arvarus">
 <!-- Mixed content notifications in site identity popup -->
+
+<!ENTITY mixed_content_blocked_all "Stanket eo bet elfennoù arvarus er bajenn gant &brandShortName;.">
+<!ENTITY mixed_content_blocked_some "Stanket eo bet elfennoù arvarus er bajenn gant &brandShortName;.">
+<!ENTITY mixed_content_display_loaded "Elfennoù arvarus a zo er bajenn-mañ.">
+<!ENTITY mixed_content_protection_disabled "Diweredekaet ho peus ar gwarez a-enep an elfennoù arvarus.">
 
 <!ENTITY loaded_mixed_content_message "Endalc\u0027had a vefe arvarus a zo skrammet gant ar bajennad-mañ.">
 <!ENTITY blocked_mixed_content_message_top "Harzet eo bet endalc\u0027had a vefe arvarus gant &brandShortName;.">
 <!ENTITY blocked_mixed_content_message_bottom "An darn vrasañ eus al lec\u0027hiennoù a yelo en-dro ent dereat ha pa vo harzet an endalc\u0027had-mañ.">
 <!-- Tracking content notifications in site identity popup -->
 
-<!ENTITY loaded_tracking_content_message_top "Gwarez a-enep an heuliañ diweredekaet.">
-<!ENTITY loaded_tracking_content_message_bottom "Lodennoù eus ar bajennad-mañ a c\u0027hallfe heuliañ hoc\u0027h obererezh enlinenn.">
-<!ENTITY blocked_tracking_content_message_top2 "Gwarez a-enep an heuliañ gweredekaet. ">
-<!ENTITY blocked_tracking_content_message_bottom2 "Kaelet eo bet lodennoù ar bajennad-mañ a heuilh hoc\u0027h obererezh enlinenn.">
+<!ENTITY doorhanger_tracking_title "Gwarez heuliañ">
+<!ENTITY doorhanger_tracking_state_enabled "Gweredekaet">
+<!ENTITY doorhanger_tracking_state_disabled "Diweredekaet">
+<!ENTITY doorhanger_tracking_message_enabled1 "Stanket eo bet ur c\u0027hlask heuliañ ho emzalc\u0027h enlinenn.">
+<!ENTITY doorhanger_tracking_message_disabled2 "Elfennoù a c\u0027hall heuliañ ho merdeiñ a zo ebarzhet er bajenn-mañ.">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "Gouzout hiroc\u0027h">
@@ -645,10 +664,6 @@ diouzh Android">
 <!-- Voice search in the awesome bar -->
 
 <!ENTITY voicesearch_prompt "Komzit bremañ">
-<!ENTITY voicesearch_failed_title "Klask dre vouezh &brandShortName;">
-<!ENTITY voicesearch_failed_message "Ur gudenn ez eus gant ar c\u0027hlask dre vouezh bremañ. Klaskit diwezhatoc\u0027h, mar plij.">
-<!ENTITY voicesearch_failed_message_recoverable "Digarezit ! N\u0027omp ket evit anavezout ho kerioù. Klaskit diwezhatoc\u0027h, mar plij.">
-<!ENTITY voicesearch_failed_retry "Klask en-dro">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -666,3 +681,26 @@ diouzh Android">
 <!ENTITY find_matchcase "Aa">
 
 <!ENTITY intent_uri_cannot_open "N\u0027haller ket digeriñ an ere">
+<!-- DevTools Authentication -->
+<!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
+     above a QR reader that is actively scanning for QR codes.  The expected QR
+     code has already been displayed by the client trying to connect (such as
+     desktop Firefox via WebIDE), so you just need to aim this device at the QR
+     code. -->
+
+<!ENTITY devtools_auth_scan_header "O c\u0027hwilerviñ ar boneg QR skrammet war ho trevnad all">
+<!-- Restrictions -->
+<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+     a restricted profile (e.g. child). Used inside the Android settings UI. -->
+
+<!ENTITY restriction_disallow_import_settings_title2 "Diweredekaat \u0027Enporzhiañ adalek Android\u0027">
+<!ENTITY restriction_disallow_addons_title2 "Diweredekaat staliadur an askouezhioù">
+<!ENTITY restriction_disallow_devtools_title2 "Diweredekaat an ostilhoù diorroer">
+<!ENTITY restriction_disallow_customize_home_title2 "Diweredekaat personeladur an degemer">
+<!ENTITY restriction_disallow_private_browsing_title2 "Diweredekaat ar merdeiñ prevez">
+<!ENTITY restriction_disallow_location_services_title2 "Diweredekaat ar gwazerezhioù lec\u0027hiañ">
+<!ENTITY restriction_disallow_display_settings_title2 "Diweredekaat ar gwazerezhioù skrammañ">
+<!ENTITY restriction_disallow_clear_history_title2 "Diweredekaat \u0027Skarzhañ ar roll istor\u0027">
+<!ENTITY restriction_disallow_master_password_title2 "Diweredekaat ar ger-tremen mestr">
+<!ENTITY restriction_disallow_guest_browsing_title2 "Diweredekaat ar merdeiñ kouviad">
+

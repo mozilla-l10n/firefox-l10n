@@ -3,14 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY privatebrowsingpage.title "Merdeiñ prevez">
-<!ENTITY privatebrowsingpage.title.normal "N'hoc'h ket er merdeiñ prevez">
+<!-- Localisation note: the plus sign here is a shorthand way of expressing the word "and". Contextually the privatebrowsingpage.title.private string
+                        is used as a title, with the privatebrowsingpage.title string preceding it but on a separate line.
+                        So the final line will say "Private Browsing + Tracking Protection". -->
 
-<!ENTITY privatebrowsingpage.issueDesc.normal2 "Er merdeiñ prevez ne vo dalc'het roll istor na toupin ebet.">
-<!ENTITY privatebrowsingpage.issueDesc.private2 "Ne vo dalc'het roll istor na toupin ebet .">
+<!ENTITY privatebrowsingpage.title.private "+ Gwarez heuliañ">
+<!ENTITY privatebrowsingpage.title.normal1 "N'hoc'h ket er merdeiñ prevez">
 
-<!ENTITY privatebrowsingpage.description2 "Ar sinedoù ouzhpennet hag ar restroù pellgarget a vo c'hoazh enrollet war ho trevnad.">
-<!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
-<!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
+<!ENTITY privatebrowsingpage.description.private3 "Gwarezet e viot a-enep an heuliañ gant Firefox ha ne vo dalc'het soñj eus roll istor ebet, met enrollet e vo ar restroù pellgarget hag ar sinedoù war ho trevnad.">
+<!ENTITY privatebrowsingpage.description.normal2 "Gant ar merdeiñ prevez, ne vo dalc'het roll istor na toupin ebet. Ar sinedoù ouzhpennet ganeoc'h hag ar restroù pellgarget a vo c'hoazh enrollet war ho trevnad. ">
 
 <!ENTITY privatebrowsingpage.link.private "Ha c'hoant hoc'h eus da c'houzout hiroc'h ?">
 <!ENTITY privatebrowsingpage.link.normal "Digeriñ un ivinell prevez nevez">
