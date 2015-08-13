@@ -110,7 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "t">
 
 <!ENTITY fxaSignIn.label "Iniciar sessão no &syncBrand.shortName.label;">
-
+<!ENTITY fxaSignedIn.tooltip "Abrir as preferências do &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Voltar a ligar ao &syncBrand.shortName.label;">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; ativado">
 <!ENTITY syncStartPanel2.subTitle "O &brandShortName; iniciará a sincronização brevemente.">
@@ -395,6 +395,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "a">
 <!ENTITY urlbar.switchToTab.label     "Mudar para o separador:">
 
+<!ENTITY urlbar.searchSuggestionsNotification.question "Gostaria de melhorar a sua experiência de pesquisa com sugestões?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Saber mais…">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Não">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Sim">
@@ -426,6 +427,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      These are set as the aria-label attribute for the search input box and
      submit button in the in-content search UI, to be used by screen readers. -->
 
+<!ENTITY contentSearchInput.label     "Termos da pesquisa">
+<!ENTITY contentSearchSubmit.label    "Submeter pesquisa">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
