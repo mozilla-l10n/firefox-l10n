@@ -130,6 +130,9 @@ The locale includes both language and region concepts. -->
 <!ENTITY pref_search_hint "RADA: Możesz dodać każdą witrynę do swojej listy wyszukiwarek, przytrzymując na niej pole wyszukiwania, a następnie stukając ikonę &formatI;.">
 <!ENTITY pref_category_devtools "Narzędzia dla programistów">
 <!ENTITY pref_developer_remotedebugging "Zdalne debugowanie">
+<!ENTITY pref_developer_remotedebugging_usb "Zdalne debugowanie przez USB">
+<!ENTITY pref_developer_remotedebugging_wifi "Zdalne debugowanie przez Wi-Fi">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Debugowanie przez Wi-Fi wymaga zainstalowania czytnika kodów QR na urządzeniu.">
 <!ENTITY pref_category_logins "Dane logowania">
 <!ENTITY pref_remember_signons2 "Pamiętaj dane logowania">
 <!ENTITY pref_open_external_urls_privately_title "Otwieraj odnośniki w trybie prywatnym">
@@ -547,3 +550,11 @@ it is applicable. -->
 <!ENTITY find_matchcase "Aa">
 
 <!ENTITY intent_uri_cannot_open "Nie można otworzyć odnośnika">
+
+<!-- DevTools Authentication -->
+<!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
+     above a QR reader that is actively scanning for QR codes.  The expected QR
+     code has already been displayed by the client trying to connect (such as
+     desktop Firefox via WebIDE), so you just need to aim this device at the QR
+     code. -->
+<!ENTITY devtools_auth_scan_header "Skanowanie kodu QR wyświetlonego na drugim urządzeniu">
