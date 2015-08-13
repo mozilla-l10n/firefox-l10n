@@ -468,6 +468,7 @@ it is applicable. -->
 <!ENTITY identity_run_by "Witrynę prowadzi:">
 <!ENTITY identity_no_info "Ta witryna nie dostarcza informacji o swej tożsamości">
 <!ENTITY identity_not_encrypted "Połączenie z tą witryną nie jest szyfrowane.">
+<!ENTITY identity_encrypted "Szyfrowane">
 
 <!ENTITY loaded_mixed_content_message "Na tej stronie znajdują się niebezpieczne treści">
 <!ENTITY blocked_mixed_content_message_top "Przeglądarka &brandShortName; zablokowała niebezpieczne treści.">
