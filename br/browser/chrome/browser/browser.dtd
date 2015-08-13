@@ -704,8 +704,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded "N'eo ket prevez ho kennask ha galloud a ra an titouroù rannet gant al lec'hienn bezañ gwelet gant tud all.">
 <!ENTITY identity.description.passiveLoaded2 "Endalc'hadoù el lec'hienn-mañ a zo arvarus (skeudennoù, da skouer).">
 
-
-
+<!ENTITY identity.description.activeLoaded "Endalc'hadoù arvarus a zo el lec'hienn (skriptoù, da skouer) ha n'eo ket prevez ho kennask.">
+<!ENTITY identity.description.activeLoaded2 "Gallout a ra an titouroù rannet gant al lec'hienn bezañ gwelet gant tud all (evel gerioù-tremen, kemennadennoù, kartennoù gred, hag all.).">
 
 
 <!ENTITY identity.disableMixedContentBlocking.label "Diweredekaat ar gwarez evit poent">
@@ -787,13 +787,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "W">
 <!ENTITY getUserMedia.selectMicrophone.label "Mikrofon da rannañ :">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
-
+<!ENTITY getUserMedia.audioCapture.label "Rannet e vo aodio an ivinell.">
 <!ENTITY getUserMedia.allWindowsShared.message "Rannet e vo an holl brenestroù gwelus war ho skramm.">
 
 <!ENTITY trackingProtection.title "Gwarez heuliañ">
+<!ENTITY trackingProtection.detectedBlocked3 "Stanket eo lodennoù eus ar bajenn a c'hellfe heuliañ ac'hanoc'h gant &brandShortName;.">
 
-
-
+<!ENTITY trackingProtection.notDetected3 "N'eo bet dinoet elfenn heuliañ ebet er bajenn.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
