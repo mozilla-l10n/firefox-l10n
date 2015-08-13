@@ -589,3 +589,5 @@ it is applicable. -->
 <!ENTITY restriction_disallow_display_settings_description "Nie pozwala zmieniać zaawansowanych ustawień wyświetlania.">
 <!ENTITY restriction_disallow_clear_history_title "Wyłączenie czyszczenia historii">
 <!ENTITY restriction_disallow_clear_history_description "Nie pozwala czyścić historii przeglądarki.">
+<!ENTITY restriction_disallow_master_password_title "Wyłączenie hasła głównego">
+<!ENTITY restriction_disallow_master_password_description "Nie pozwala ustawiać hasła głównego dla danych logowania.">
