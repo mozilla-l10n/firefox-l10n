@@ -285,7 +285,6 @@ size. -->
 <!ENTITY addons "Dodatki">
 <!ENTITY logins "Dane logowania">
 <!ENTITY downloads "Pobrane pliki">
-<!ENTITY apps "Aplikacje">
 <!ENTITY char_encoding "Kodowanie znaków">
 
 <!ENTITY share "Udostępnij">
