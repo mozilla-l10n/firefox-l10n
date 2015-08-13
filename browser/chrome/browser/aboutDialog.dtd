@@ -36,7 +36,7 @@
 <!ENTITY community.middle2          ", a">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "baagelani ba feletseng">
-<!ENTITY community.end3             " pereko mmogo go rurufatsa gore Webo e bulegile, ke ya botlhe ebile e letlelesega go dirisiwa ke botlhe.">
+<!ENTITY community.end3             " pereko mmogo go netefatsa fa Webo e tswelela e bulegile, e le ya sechaba ebile e letlelesega go dirisiwa ke botlhe.">
 
 <!ENTITY helpus.start               "O batla go thusa? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
