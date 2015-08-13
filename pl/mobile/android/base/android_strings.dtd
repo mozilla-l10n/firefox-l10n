@@ -76,7 +76,7 @@ is upper-case, to match Google and Android's convention. -->
 
 <!ENTITY settings "Ustawienia">
 <!ENTITY settings_title "Ustawienia">
-
+<!ENTITY pref_category_input_options "Opcje wprowadzania">
 <!ENTITY pref_category_advanced "Zaawansowane">
 <!ENTITY pref_category_customize "Dostosuj">
 <!ENTITY pref_category_customize_summary "Strona domowa, wyszukiwanie, karty, importowanie">
@@ -221,6 +221,8 @@ size. -->
 <!ENTITY pref_zoom_force_enabled_summary "Kontroluje możliwość wymuszenia możliwości powiększania dowolnej strony">
 <!ENTITY pref_voice_input "Sterowanie głosowe">
 <!ENTITY pref_voice_input_summary "Umożliwia sterowanie głosowe w pasku tytułu">
+<!ENTITY pref_qrcode_enabled "Czytnik kodów QR">
+<!ENTITY pref_qrcode_enabled_summary "Umożliwia używanie skanera kodów QR w pasku tytułu">
 
 <!ENTITY pref_use_master_password "Używaj hasła głównego">
 <!ENTITY pref_sync "Sync">
