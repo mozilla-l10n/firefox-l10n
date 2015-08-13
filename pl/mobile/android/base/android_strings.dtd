@@ -587,3 +587,5 @@ it is applicable. -->
 <!ENTITY restriction_disallow_location_services_description "Nie pozwala wysyłać danych lokalizacji w celu ulepszania usług geolokalizacyjnych.">
 <!ENTITY restriction_disallow_display_settings_title "Wyłączenie ustawień wyświetlania">
 <!ENTITY restriction_disallow_display_settings_description "Nie pozwala zmieniać zaawansowanych ustawień wyświetlania.">
+<!ENTITY restriction_disallow_clear_history_title "Wyłączenie czyszczenia historii">
+<!ENTITY restriction_disallow_clear_history_description "Nie pozwala czyścić historii przeglądarki.">
