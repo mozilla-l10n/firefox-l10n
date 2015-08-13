@@ -434,10 +434,6 @@ it is applicable. -->
 <!ENTITY home_remote_tabs_trouble_verifying "Masz problem z weryfikacją konta?">
 <!ENTITY home_remote_tabs_need_to_verify "Przed synchronizacją musisz zweryfikować konto Firefoksa.">
 
-<!ENTITY private_browsing_title "Tryb prywatny">
-<!ENTITY private_tabs_panel_empty_desc "Tu wyświetlą się twoje prywatne karty. Nie zachowamy historii przeglądania ani ciasteczek z tej sesji, ale zachowane zakładki i pobrane pliki zostaną na twoim urządzeniu.">
-<!ENTITY private_tabs_panel_learn_more "Chcesz dowiedzieć się więcej?">
-
 <!ENTITY remote_tabs_panel_moved_title "Gdzie zniknęły moje karty?">
 <!ENTITY remote_tabs_panel_moved_desc "Przenieśliśmy twoje karty z innych urządzeń do panelu na stronie domowej, gdzie możesz je łatwo znaleźć przy otwieraniu nowej karty.">
 <!ENTITY remote_tabs_panel_moved_link "Pokaż mi ten nowy panel.">
