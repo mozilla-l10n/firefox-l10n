@@ -23,7 +23,7 @@
 <!ENTITY aboutPrivateBrowsing.learnMore "Saber más.">
 <!ENTITY trackingProtection.width "22em">
 <!ENTITY trackingProtection.title "Protección contra rastreo">
-<!ENTITY trackingProtection.state.width "6ch">
+<!ENTITY trackingProtection.state.width "15ch">
 <!ENTITY trackingProtection.state.enabled "ENCENDIDO">
 <!ENTITY trackingProtection.state.disabled "DESACTIVADO">
 <!ENTITY trackingProtection.description "Las ventanas privadas bloquean ahora partes de la página que podrían rastrear su actividad de navegación.">
