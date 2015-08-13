@@ -7,11 +7,11 @@
 <!ENTITY popupWindowRejectCmd.accesskey "o">
 <!ENTITY popupWindowAllowCmd.label      "Permitir janelas pop-up deste site">
 <!ENTITY popupWindowAllowCmd.accesskey  "o">
-<!ENTITY openLinkCmdInTab.label       "Abrir ligação em novo separador">
+<!ENTITY openLinkCmdInTab.label       "Abrir ligação num novo separador">
 <!ENTITY openLinkCmdInTab.accesskey   "s">
-<!ENTITY openLinkCmd.label            "Abrir ligação em nova janela">
+<!ENTITY openLinkCmd.label            "Abrir ligação numa nova janela">
 <!ENTITY openLinkCmd.accesskey        "j">
-<!ENTITY openLinkCmdInPrivateWindow.label     "Abrir ligação em janela privada">
+<!ENTITY openLinkCmdInPrivateWindow.label     "Abrir ligação numa janela privada">
 <!ENTITY openLinkCmdInPrivateWindow.accesskey "d">
 <!ENTITY openLinkInWindowCmd.label    "Abrir">
 <!ENTITY openLinkInWindowCmd.accesskey "b">
