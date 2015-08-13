@@ -3,52 +3,52 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY minimizeWindow.key       "m">
-<!ENTITY minimizeWindow.label     "Ελαχιστοποίηση">
-<!ENTITY bringAllToFront.label    "Μεταφορά όλων μπροστά">
-<!ENTITY zoomWindow.label         "Μεγέθυνση">
-<!ENTITY windowMenu.label         "Παράθυρο">
+<!ENTITY minimizeWindow.label     "Minimize">
+<!ENTITY bringAllToFront.label    "Bring All to Front">
+<!ENTITY zoomWindow.label         "Zoom">
+<!ENTITY windowMenu.label         "Window">
 
-<!ENTITY helpMenu.label           "Βοήθεια"> 
-<!ENTITY helpMenu.accesskey       "Β"> 
+<!ENTITY helpMenu.label           "Help"> 
+<!ENTITY helpMenu.accesskey       "H"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "Βοήθεια"> 
-<!ENTITY helpMenuWin.accesskey    "Β">
-<!ENTITY aboutProduct2.label      "Περί &brandShorterName;">
-<!ENTITY aboutProduct2.accesskey  "ρ">
-<!ENTITY productHelp2.label       "Βοήθεια &brandShorterName;">
-<!ENTITY productHelp2.accesskey   "Β">
+<!ENTITY helpMenuWin.label        "Help"> 
+<!ENTITY helpMenuWin.accesskey    "H">
+<!ENTITY aboutProduct2.label      "About &brandShorterName;">
+<!ENTITY aboutProduct2.accesskey  "A">
+<!ENTITY productHelp2.label       "&brandShorterName; Help">
+<!ENTITY productHelp2.accesskey   "H">
 <!ENTITY helpMac.commandkey       "?">
 
-<!ENTITY helpKeyboardShortcuts.label     "Συντομεύσεις πληκτρολογίου">
-<!ENTITY helpKeyboardShortcuts.accesskey "υ">
+<!ENTITY helpKeyboardShortcuts.label     "Keyboard Shortcuts">
+<!ENTITY helpKeyboardShortcuts.accesskey "K">
 
-<!ENTITY helpSafeMode.label       "Επανεκκίνηση σε ασφαλή λειτουργία…">
-<!ENTITY helpSafeMode.accesskey   "φ">
+<!ENTITY helpSafeMode.label       "Restart with Add-ons Disabled…">
+<!ENTITY helpSafeMode.accesskey   "R">
 <!ENTITY helpSafeMode.stop.label       "Restart with Add-ons Enabled">
 <!ENTITY helpSafeMode.stop.accesskey   "R">
 
-<!ENTITY healthReport2.label      "Αναφορά υγείας &brandShorterName;">
-<!ENTITY healthReport2.accesskey  "γ">
+<!ENTITY healthReport2.label      "&brandShorterName; Health Report">
+<!ENTITY healthReport2.accesskey  "e">
 
-<!ENTITY helpTroubleshootingInfo.label      "Πληροφορίες αντιμετώπισης προβλημάτων">
-<!ENTITY helpTroubleshootingInfo.accesskey  "μ">
+<!ENTITY helpTroubleshootingInfo.label      "Troubleshooting Information">
+<!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
-<!ENTITY helpFeedbackPage.label      "Υποβολή σχολίων…">
-<!ENTITY helpFeedbackPage.accesskey  "χ">
+<!ENTITY helpFeedbackPage.label      "Submit Feedback…">
+<!ENTITY helpFeedbackPage.accesskey  "S">
 
-<!ENTITY helpShowTour2.label            "Ξενάγηση στον &brandShorterName;">
-<!ENTITY helpShowTour2.accesskey        "Ξ">
+<!ENTITY helpShowTour2.label            "&brandShorterName; Tour">
+<!ENTITY helpShowTour2.accesskey        "o">
 
-<!ENTITY preferencesCmdMac.label        "Προτιμήσεις...">
+<!ENTITY preferencesCmdMac.label        "Preferences…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
-<!ENTITY servicesMenuMac.label          "Υπηρεσίες">
+<!ENTITY servicesMenuMac.label          "Services">
 
-<!ENTITY hideThisAppCmdMac2.label       "Απόκρυψη &brandShorterName;">
+<!ENTITY hideThisAppCmdMac2.label       "Hide &brandShorterName;">
 <!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
-<!ENTITY hideOtherAppsCmdMac.label      "Απόκρυψη άλλων">
+<!ENTITY hideOtherAppsCmdMac.label      "Hide Others">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
-<!ENTITY showAllAppsCmdMac.label        "Εμφάνιση όλων">
+<!ENTITY showAllAppsCmdMac.label        "Show All">

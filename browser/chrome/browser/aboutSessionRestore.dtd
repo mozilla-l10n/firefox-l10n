@@ -2,25 +2,25 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY restorepage.tabtitle       "Επαναφορά συνεδρίας">
+<!ENTITY restorepage.tabtitle       "Restore Session">
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
-<!ENTITY restorepage.errorTitle     "Φαίνεται ότι κάτι δεν πάει καλά.">
-<!ENTITY restorepage.problemDesc    "Ο &brandShortName; δεν μπορεί να ανακτήσει τα παράθυρα και τις καρτέλες σας. Αυτό συνήθως συμβαίνει λόγω του ανοίγματος μιας πρόσφατης σελίδας.">
-<!ENTITY restorepage.tryThis        "Προσπαθήστε να:">
-<!ENTITY restorepage.restoreSome    "Απομακρύνετε μια ή περισσότερες καρτέλες που νομίζετε ότι δημιουργούν το πρόβλημα">
-<!ENTITY restorepage.startNew       "Ξεκινήστε μια νέα συνεδρία">
+<!ENTITY restorepage.errorTitle     "Well, this is embarrassing.">
+<!ENTITY restorepage.problemDesc    "&brandShortName; is having trouble recovering your windows and tabs. This is usually caused by a recently opened web page.">
+<!ENTITY restorepage.tryThis        "You can try:">
+<!ENTITY restorepage.restoreSome    "Removing one or more tabs that you think may be causing the problem">
+<!ENTITY restorepage.startNew       "Starting an entirely new browsing session">
 
-<!ENTITY restorepage.tryagainButton "Επαναφορά">
-<!ENTITY restorepage.restore.access "ρ">
-<!ENTITY restorepage.closeButton    "Κλείσιμο">
-<!ENTITY restorepage.close.access   "Κ">
+<!ENTITY restorepage.tryagainButton "Restore">
+<!ENTITY restorepage.restore.access "R">
+<!ENTITY restorepage.closeButton    "Close">
+<!ENTITY restorepage.close.access   "C">
 
-<!ENTITY restorepage.restoreHeader  "Επαναφορά">
-<!ENTITY restorepage.listHeader     "Παραθύρων και καρτελών">
+<!ENTITY restorepage.restoreHeader  "Restore">
+<!ENTITY restorepage.listHeader     "Windows and Tabs">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "Παραθύρου &#37;S">
+<!ENTITY restorepage.windowLabel    "Window &#37;S">
 
 
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
