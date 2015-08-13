@@ -219,6 +219,8 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled_summary "Kontroluje, czy strony mogą automatycznie odtwarzać filmy i inne treści">
 <!ENTITY pref_zoom_force_enabled "Wymuszanie możliwości powiększania">
 <!ENTITY pref_zoom_force_enabled_summary "Kontroluje możliwość wymuszenia możliwości powiększania dowolnej strony">
+<!ENTITY pref_voice_input "Sterowanie głosowe">
+<!ENTITY pref_voice_input_summary "Umożliwia sterowanie głosowe w pasku tytułu">
 
 <!ENTITY pref_use_master_password "Używaj hasła głównego">
 <!ENTITY pref_sync "Sync">
