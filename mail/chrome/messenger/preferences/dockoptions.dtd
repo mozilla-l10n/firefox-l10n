@@ -13,3 +13,4 @@
 <!ENTITY showAllUnreadMessagesCount.accesskey  "n">
 <!ENTITY dockIconBadge.label                   "Značka ikone programa">
 <!ENTITY dockIconShow.label                    "Dodaj značko ikoni programa:">
+<!ENTITY directNotificationSettings.label      "Značko lahko onemogočite v podoknu obvestil v sistemskih nastavitvah.">
