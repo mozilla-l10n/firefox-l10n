@@ -203,7 +203,7 @@
 <!ENTITY pref_donottrack_summary "&brandShortName; mun láta vefsvæði vita að þú vilt ekki láta fylgjast með þér">
 
 <!ENTITY tracking_protection_prompt_title "Nú með vörn gegn því að fylgst sé með þér">
-
+<!ENTITY tracking_protection_prompt_text "Virk lokun á eltibúnað svo þú þurfir ekki að hafa áhyggjur.">
 <!ENTITY tracking_protection_prompt_tip_text "Skoðaðu friðhelgis stillingar til að vita meira">
 <!ENTITY tracking_protection_prompt_action_button "Ég skil!">
 
