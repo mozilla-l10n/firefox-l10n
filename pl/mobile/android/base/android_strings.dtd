@@ -577,4 +577,5 @@ it is applicable. -->
 <!ENTITY restriction_disallow_addons_description "Nie pozwala instalować dodatków.">
 <!ENTITY restriction_disallow_apps_title "Wyłączenie aplikacji">
 <!ENTITY restriction_disallow_apps_description "Nie pozwala instalować aplikacji z Firefox Marketplace.">
-
+<!ENTITY restriction_disallow_devtools_title "Wyłączenie narzędzi dla programistów">
+<!ENTITY restriction_disallow_devtools_description "Nie pozwala używać narzędzi dla programistów.">
