@@ -364,13 +364,10 @@
 <!ENTITY identity_connected_to "Está conectado a">
 <!ENTITY identity_connection_secure "Conexión segura">
 <!ENTITY identity_connection_insecure "Conexión insegura">
-<!ENTITY mixed_content_blocked_all "&brandShortName; ha bloqueado elementos inseguros en esta página.">
-<!ENTITY mixed_content_blocked_some "&brandShortName; ha bloqueado algunos elementos inseguros en esta página.">
-<!ENTITY mixed_content_display_loaded "Esta página tiene algunos elementos inseguros.">
-<!ENTITY mixed_content_protection_disabled "Ha desactivado la protección contra elementos inseguros.">
-<!ENTITY loaded_mixed_content_message "Esta página está mostrando contenido que no es seguro.">
-<!ENTITY blocked_mixed_content_message_top "&brandShortName; ha bloqueado contenido que no es seguro.">
-<!ENTITY blocked_mixed_content_message_bottom "La mayoría de los sitios web funcionan correctamente incluso con este contenido bloqueado.">
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; ha bloqueado contenido inseguro en esta página.">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; ha bloqueado parte del contenido inseguro en esta página.">
+<!ENTITY mixed_content_display_loaded1 "Partes de esta página no son seguras (como imágenes).">
+<!ENTITY mixed_content_protection_disabled1 "Ha desactivado la protección del contenido inseguro.">
 <!ENTITY doorhanger_tracking_title "Protección contra rastreo">
 <!ENTITY doorhanger_tracking_state_enabled "Activado">
 <!ENTITY doorhanger_tracking_state_disabled "Desactivado">
