@@ -33,18 +33,25 @@
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Descargas">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Marcadores">
 
+<!ENTITY aboutPrivateBrowsing.note1            "Por favor, recuerda que tu empleador o proveedor de Internet todavía puede seguir las páginas que visites.">
 <!ENTITY aboutPrivateBrowsing.learnMore        "Saber más">
 <!-- LOCALIZATION NOTE (trackingProtection.width):
      Width of the Tracking Protection section. This should be enough to
      accommodate the title as well as the enabled or disabled indicator.
      -->
 
+<!ENTITY trackingProtection.width              "22em">
+<!ENTITY trackingProtection.title              "Rastreando protección">
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
 
+<!ENTITY trackingProtection.state.width        "6ch">
+<!ENTITY trackingProtection.state.enabled      "ON">
+<!ENTITY trackingProtection.state.disabled     "OFF">
 
+<!ENTITY trackingProtection.description1       "Las ventanas privadas ahora bloquean partes de la página que pueden seguir tu actividad de navegación.">
 
-
-
-
+<!ENTITY trackingProtection.disable            "Apagando protección de rastreo">
+<!ENTITY trackingProtection.enable             "Encendiendo protección de rastreo">
+<!ENTITY trackingProtection.startTour1         "Ver como esto trabaja">
