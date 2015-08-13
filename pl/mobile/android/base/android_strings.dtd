@@ -572,5 +572,8 @@ it is applicable. -->
 <!ENTITY restriction_disallow_report_site_issue_description "Ukrywa element menu „Zgłoś problem ze stroną”.">
 <!ENTITY restriction_disallow_import_settings_title "Wyłączenie ustawień importowania">
 <!ENTITY restriction_disallow_import_settings_description "Nie pozwala importować ustawień z innych przeglądarek w systemie.">
-
+<!ENTITY restriction_disallow_addons_title "Wyłączenie dodatków">
+<!ENTITY restriction_disallow_addons_description "Nie pozwala instalować dodatków.">
+<!ENTITY restriction_disallow_apps_title "Wyłączenie aplikacji">
+<!ENTITY restriction_disallow_apps_description "Nie pozwala instalować aplikacji z Firefox Marketplace.">
 
