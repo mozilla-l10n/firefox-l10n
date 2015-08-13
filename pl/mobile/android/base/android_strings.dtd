@@ -483,8 +483,8 @@ it is applicable. -->
 <!ENTITY doorhanger_tracking_title "Ochrona przed śledzeniem">
 <!ENTITY doorhanger_tracking_state_enabled "Włączone">
 <!ENTITY doorhanger_tracking_state_disabled "Wyłączone">
-<!ENTITY doorhanger_tracking_message_enabled "Blokowanie elementów śledzących aktywność użytkownika mogących wpływać na przeglądanie.">
-<!ENTITY doorhanger_tracking_message_disabled "Próby śledzenia aktywności użytkownika nie są blokowane.">
+<!ENTITY doorhanger_tracking_message_enabled1 "Zablokowano próby śledzenia aktywności użytkownika.">
+<!ENTITY doorhanger_tracking_message_disabled1 "Ta strona zawiera treści, które śledzą aktywność użytkownika.">
 
 <!ENTITY learn_more "Dowiedz się więcej">
 <!ENTITY enable_protection "Włącz ochronę">
