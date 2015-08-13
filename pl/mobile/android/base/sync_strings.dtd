@@ -138,6 +138,7 @@ the two uses differently. -->
 <!ENTITY fxaccount_remove_account_toast "Usunięto konto Firefoksa użytkownika &formatS;.">
 
 <!ENTITY fxaccount_remove_account_menu_item 'Usuń konto'>
+<!ENTITY fxaccount_enable_debug_mode 'Włącz debugowanie'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'Witaj w usłudze &syncBrand.shortName.label;'>
 <!ENTITY fxaccount_getting_started_description2 'Zarejestruj się i synchronizuj swoje karty, zakładki, dane logowania i więcej.'>
