@@ -474,10 +474,13 @@ it is applicable. -->
 <!ENTITY loaded_mixed_content_message "Na tej stronie znajdują się niebezpieczne treści">
 <!ENTITY blocked_mixed_content_message_top "Przeglądarka &brandShortName; zablokowała niebezpieczne treści.">
 <!ENTITY blocked_mixed_content_message_bottom "Większość witryn działa poprawnie nawet po zablokowaniu tych treści.">
-<!ENTITY loaded_tracking_content_message_top "Ochrona przed śledzeniem jest wyłączona">
-<!ENTITY loaded_tracking_content_message_bottom "Części tej strony mogą śledzić aktywność użytkownika.">
-<!ENTITY blocked_tracking_content_message_top2 "Ochrona przed śledzeniem jest włączona">
-<!ENTITY blocked_tracking_content_message_bottom2 "Części tej strony mogące śledzić aktywność użytkownika zostały zablokowane.">
+
+<!ENTITY doorhanger_tracking_title "Ochrona przed śledzeniem">
+<!ENTITY doorhanger_tracking_state_enabled "Włączone">
+<!ENTITY doorhanger_tracking_state_disabled "Wyłączone">
+<!ENTITY doorhanger_tracking_message_enabled "Blokowanie elementów śledzących aktywność użytkownika mogących wpływać na przeglądanie.">
+<!ENTITY doorhanger_tracking_message_disabled "Próby śledzenia aktywności użytkownika nie są blokowane.">
+
 <!ENTITY learn_more "Dowiedz się więcej">
 <!ENTITY enable_protection "Włącz ochronę">
 <!ENTITY disable_protection "Wyłącz ochronę">
