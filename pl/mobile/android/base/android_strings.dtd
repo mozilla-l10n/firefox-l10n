@@ -580,10 +580,10 @@ it is applicable. -->
 <!ENTITY restriction_disallow_devtools_title "Wyłączenie narzędzi dla programistów">
 <!ENTITY restriction_disallow_devtools_description "Nie pozwala używać narzędzi dla programistów.">
 <!ENTITY restriction_disallow_customize_home_title "Wyłączenie dostosowywania strony domowej">
-<!ENTITY restriction_disallow_customize_home_description "Nie pozwala na dostosowywanie paneli strony domowej.">
+<!ENTITY restriction_disallow_customize_home_description "Nie pozwala dostosowywać paneli strony domowej.">
 <!ENTITY restriction_disallow_private_browsing_title "Wyłączenie trybu prywatnego">
-<!ENTITY restriction_disallow_private_browsing_description "Nie pozwala na przeglądanie w trybie prywatnym.">
+<!ENTITY restriction_disallow_private_browsing_description "Nie pozwala przeglądać w trybie prywatnym.">
 <!ENTITY restriction_disallow_location_services_title "Wyłączenie usług lokalizacji">
-<!ENTITY restriction_disallow_location_services_description "Nie pozwala na wysyłanie danych lokalizacji w celu ulepszania usług geolokalizacyjnych.">
+<!ENTITY restriction_disallow_location_services_description "Nie pozwala wysyłać danych lokalizacji w celu ulepszania usług geolokalizacyjnych.">
 <!ENTITY restriction_disallow_display_settings_title "Wyłączenie ustawień wyświetlania">
 <!ENTITY restriction_disallow_display_settings_description "Nie pozwala zmieniać zaawansowanych ustawień wyświetlania.">
