@@ -384,7 +384,6 @@ size. -->
 <!ENTITY button_clear_data "Usuń dane">
 <!ENTITY button_set "Ustaw">
 <!ENTITY button_clear "Usuń">
-<!ENTITY button_remember "Zachowaj">
 <!ENTITY button_copy "Kopiuj">
 
 <!ENTITY firstrun_panel_title_welcome "Witamy">
