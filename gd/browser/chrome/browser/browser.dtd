@@ -695,22 +695,25 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.activeBlocked "Bhac &brandShortName; na pìosan dhen duilleag seo nach eil tèarainte.">
 <!ENTITY identity.passiveLoaded "Chan eil pìosan dhen duilleag seo tèarainte (mar dhealbhan).">
-
-
+<!ENTITY identity.activeLoaded "Chuir thu an dìon à comas air an duilleag seo.">
+<!ENTITY identity.weakEncryption "Tha an duilleag seo a’ cleachdadh crioptachadh lag.">
 <!-- Strings for connection state warnings in the subview. -->
 
+<!ENTITY identity.description.insecure "Chan eil an ceangal agad ris an làrach seo prìobhaideach. Dh’fhaoidte gum faic daoine eile dàta a chuireas tu a-null (mar fhaclan-faire, teachdaireachdan, cairtean-creideis is msaa.).">
+<!ENTITY identity.description.weakCipher "Tha an ceangal agad ris an làrach-lìn seo a’ cleachdadh crioptachadh lag agus chan eil e prìobhaideach.">
+<!ENTITY identity.description.weakCipher2 "Chì daoine eile am fiosrachadh agad agus is urrainn dhaibh giùlan a’ bhrabhsair agad atharrachadh.">
+<!ENTITY identity.description.activeBlocked "Bhac &brandShortName; na pìosan dhen duilleag seo nach eil tèarainte.">
+<!ENTITY identity.description.passiveLoaded "Chan eil an ceangal agad prìobhaideach agus dh’fhaoidte gum faic daoine eile dàta a chuireas tu gun làrach.">
+<!ENTITY identity.description.passiveLoaded2 "Tha susbaint air an làrach-lìn seo nach eil tèarainte (mar dhealbhan).">
+<!ENTITY identity.description.passiveLoaded3 "Ged a bhac &brandShortName; cuid dhen t-susbaint, tha susbaint air an duilleag seo fhathast nach eil tèarainte (mar dhealbhan).">
+<!ENTITY identity.description.activeLoaded "Tha susbaint air an làrach-lìn seo nach eil tèarainte (mar sgriobtan) agus chan eil an ceangal agad ris prìobhaideach.">
+<!ENTITY identity.description.activeLoaded2 "Dh’fhaoidte gum faic daoine eile dàta a chuireas tu gun làrach seo (mar fhaclan-faire, teachdaireachdan, cairtean-creideis is msaa.).">
 
-
-
-
-
-
-
-
-
+<!ENTITY identity.enableMixedContentBlocking.label "Cuir an comas an dìon">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "u">
 <!ENTITY identity.disableMixedContentBlocking.label "Cuir an dìon à comas an-dràsta fhèin">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "d">
-
+<!ENTITY identity.learnMore "Barrachd fiosrachaidh">
 
 <!ENTITY identity.moreInfoLinkText2 "Barrachd fiosrachaidh">
 
@@ -787,29 +790,32 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "c">
 <!ENTITY getUserMedia.selectMicrophone.label "Am micreofon a thèid a cho-roinneadh:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "m">
-
+<!ENTITY getUserMedia.audioCapture.label "Thèid fuaim on taba a cho-roinneadh.">
 <!ENTITY getUserMedia.allWindowsShared.message "Thèid gach uinneag a tha ri fhaicinn air an sgrìn agad a cho-roinneadh.">
 
-
-
-
+<!ENTITY trackingProtection.title "Dìon o thracadh">
+<!ENTITY trackingProtection.detectedBlocked3 "Tha &brandShortName; a’ bacadh nan rudan air an duilleag a dhèanadh tracadh ort.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "Tha rudan air an làrach seo a nì tracadh ort ma dh’fhaoidte. Chuir thu an dìon à comas.">
+<!ENTITY trackingProtection.notDetected3 "Cha do lorg sinn dad air an duilleag a nì tracadh.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-
+<!ENTITY trackingProtection.unblock.label "Cuir an dìon à comas air an làrach seo">
+<!ENTITY trackingProtection.unblock.accesskey "d">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-
-
-
+<!ENTITY trackingProtection.unblockPrivate.label "Cuir an dìon à comas rè an t-seisein seo">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "d">
+<!ENTITY trackingProtection.block2.label "Cuir an comas an dìon">
+<!ENTITY trackingProtection.block2.accesskey "u">
 
 <!ENTITY trackingContentBlocked.message "Tracadh">
 <!ENTITY trackingContentBlocked.moreinfo "Chaidh pìosan dhen duilleag a bha a' tracadh na tha thu ris air an eadar-lìon a bhacadh.">
 <!ENTITY trackingContentBlocked.learnMore "Barrachd fiosrachaidh">
-
-
-
+<!ENTITY trackingContentBlocked.options "Roghainnean">
+<!ENTITY trackingContentBlocked.unblock2.label "Cuir an dìon à comas air an làrach seo">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "d">
 <!ENTITY trackingContentBlocked.block.label "Cuir an comas an dìon">
 <!ENTITY trackingContentBlocked.block.accesskey "u">
 <!ENTITY trackingContentBlocked.disabled.message "Tha an dìon o thracadh à comas">

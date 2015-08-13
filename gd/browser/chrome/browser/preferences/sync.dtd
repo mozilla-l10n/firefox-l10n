@@ -71,24 +71,28 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Cha do rinn thu clàradh a-steach.">
 <!ENTITY signIn.label                "Clàraich a-steach">
-
+<!ENTITY profilePicture.tooltip      "Atharraich dealbh na pròifil">
 <!ENTITY manage.label                "Stiùirich">
 <!ENTITY disconnect.label            "Dì-cheangail…">
 <!ENTITY verify.label                "Dearbh am post-d">
 <!ENTITY forget.label                "Dìochuimhnich am post-d seo">
 
 <!ENTITY welcome.description "Faigh cothrom air na tabaichean. comharran-lìn, faclan-faire is mòran a bharrachd ge be càit an cleachd thu &brandShortName;.">
-
-
+<!ENTITY welcome.signIn.label "Clàraich a-steach">
+<!ENTITY welcome.createAccount.label "Cruthaich cunntas">
 
 <!ENTITY welcome.useOldSync.label "A' cleachdadh seann-tionndadh dhen ghleus sioncronachaidh?">
 
+<!ENTITY signedOut.caption            "Thoir leat an lìon">
+<!ENTITY signedOut.description        "Sioncronaich an eachdraidh, na comharran-lìn, na faclan-faire, tuilleadain is roghainnean agad air feadh nan uidheaman agad.">
+<!ENTITY signedOut.accountBox.title   "Dèan ceangal le &syncBrand.fxAccount.label;">
+<!ENTITY signedOut.accountBox.create  "Cruthaich cunntas">
+<!ENTITY signedOut.accountBox.signin  "Clàraich a-steach">
 
+<!ENTITY signedIn.engines.label       "Sioncronaich air feadh nan uidheaman uile">
 
-
-
-
-
+<!ENTITY mobilePromo.start            "Luchdaich a-nuas Firefox airson ">
 <!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
-
-
+<!ENTITY mobilePromo.androidLink      "Android™">
+<!ENTITY mobilePromo.end              " gus sioncronachadh a dhèanamh leis an uidheam mobile agad.">
+<!ENTITY androidAttribution           "Tha Android ’na chomharra-malairt aig Google Inc.">
