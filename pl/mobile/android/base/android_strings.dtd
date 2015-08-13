@@ -585,3 +585,5 @@ it is applicable. -->
 <!ENTITY restriction_disallow_private_browsing_description "Nie pozwala na przeglądanie w trybie prywatnym.">
 <!ENTITY restriction_disallow_location_services_title "Wyłączenie usług lokalizacji">
 <!ENTITY restriction_disallow_location_services_description "Nie pozwala na wysyłanie danych lokalizacji w celu ulepszania usług geolokalizacyjnych.">
+<!ENTITY restriction_disallow_display_settings_title "Wyłączenie ustawień wyświetlania">
+<!ENTITY restriction_disallow_display_settings_description "Nie pozwala zmieniać zaawansowanych ustawień wyświetlania.">
