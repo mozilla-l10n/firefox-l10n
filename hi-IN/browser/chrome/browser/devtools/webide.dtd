@@ -139,7 +139,7 @@
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "अनुमति सारणी">
-
+<!ENTITY permissionstable_name_header "नाम">
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "रनटाइम जानकारी">
@@ -200,11 +200,11 @@
 <!ENTITY simulator_title "सिमुलेटर विकल्प">
 <!ENTITY simulator_remove "सिमुलेटर मिटाएँ">
 <!ENTITY simulator_reset "डिफ़ॉल्ट पुनः स्थापित करे">
-
+<!ENTITY simulator_name "नाम">
 <!ENTITY simulator_software "सॉफ्टवेयर">
 <!ENTITY simulator_version "संस्करण">
 <!ENTITY simulator_profile "प्रोफाइल">
-
+<!ENTITY simulator_hardware "हार्डवेयर">
 <!ENTITY simulator_device "युक्ति">
-
-
+<!ENTITY simulator_screenSize "स्क्रीन">
+<!ENTITY simulator_pixelRatio "पिक्सल अनुपात">
