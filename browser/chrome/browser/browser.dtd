@@ -693,7 +693,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionInternal "Esta é uma página segura do &brandShortName;.">
 <!-- Strings for connection state warnings. -->
 
-
+<!ENTITY identity.activeLoaded "A proteção contra monitorização foi desativada por si para esta página.">
 <!ENTITY identity.weakEncryption "Esta página usa uma encriptação fraca.">
 <!-- Strings for connection state warnings in the subview. -->
 
@@ -789,8 +789,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY getUserMedia.allWindowsShared.message "Serão partilhadas todas as janelas visíveis no seu ecrã.">
 
+<!ENTITY trackingProtection.title "Proteção contra monitorização">
 
-
+<!ENTITY trackingProtection.detectedNotBlocked3 "Esta página contém elementos que podem monitorizar a sua navegação. A proteção contra monitorização foi desativada por si.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
