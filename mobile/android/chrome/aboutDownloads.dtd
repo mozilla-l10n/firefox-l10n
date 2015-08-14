@@ -7,8 +7,8 @@
 <!ENTITY aboutDownloads.empty                      "Nenhuma descarga">
 
 <!ENTITY aboutDownloads.open                       "Abrir">
-<!ENTITY aboutDownloads.remove                     "Eliminar">
-<!ENTITY aboutDownloads.removeAll                  "Eliminar tudo">
+<!ENTITY aboutDownloads.remove                     "Apagar">
+<!ENTITY aboutDownloads.removeAll                  "Apagar todas">
 <!ENTITY aboutDownloads.pause                      "Pausa">
 <!ENTITY aboutDownloads.resume                     "Retomar">
 <!ENTITY aboutDownloads.cancel                     "Cancelar">
