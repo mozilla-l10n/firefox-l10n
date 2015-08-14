@@ -495,7 +495,7 @@ it is applicable. -->
 <!ENTITY doorhanger_tracking_state_enabled "Włączone">
 <!ENTITY doorhanger_tracking_state_disabled "Wyłączone">
 <!ENTITY doorhanger_tracking_message_enabled1 "Zablokowano próby śledzenia aktywności użytkownika.">
-<!ENTITY doorhanger_tracking_message_disabled1 "Ta strona zawiera treści, które śledzą aktywność użytkownika.">
+<!ENTITY doorhanger_tracking_message_disabled2 "Ta strona zawiera elementy mogące śledzić aktywność użytkownika.">
 
 <!ENTITY learn_more "Dowiedz się więcej">
 <!ENTITY enable_protection "Włącz ochronę">
