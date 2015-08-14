@@ -22,9 +22,13 @@
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.nonE10SBuild): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a non-multiprocess build. -->
+
+<!ENTITY performanceUI.disabledRealTime.nonE10SBuild "Realtime recording data disabled on non-multiprocess Firefox.">
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a build that can run multiprocess Firefox, but just is not enabled. -->
+
+<!ENTITY performanceUI.disabledRealTime.disabledE10S "Enable multiprocess Firefox in preferences for rendering recording data in realtime.">
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusFull): This string
   -  is displayed when the profiler's circular buffer has started to overlap. -->
 
@@ -32,7 +36,7 @@
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the call list view while loading a profile. -->
 
-<!ENTITY performanceUI.loadingNotice "O kargañ…">
+<!ENTITY performanceUI.loadingNotice "Loading…">
 <!-- LOCALIZATION NOTE (performanceUI.recordButton): This string is displayed
   -  on a button that starts a new profile. -->
 
@@ -52,7 +56,9 @@
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
 
-<!ENTITY performanceUI.toolbar.memory-calltree "Derannadurioù">
+<!ENTITY performanceUI.toolbar.waterfall "Waterfall">
+<!ENTITY performanceUI.toolbar.js-calltree "Call Tree">
+<!ENTITY performanceUI.toolbar.memory-calltree "Allocations">
 <!ENTITY performanceUI.toolbar.js-flamegraph "JS Flame Chart">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "Allocations Flame Chart">
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
@@ -66,9 +72,9 @@
 <!ENTITY performanceUI.table.totalPercentage.tooltip  "The percentage of time spent in this function and functions it calls.">
 <!ENTITY performanceUI.table.selfPercentage           "Self Cost">
 <!ENTITY performanceUI.table.selfPercentage.tooltip   "The percentage of time spent only within this function.">
-<!ENTITY performanceUI.table.samples                  "Standilhonoù">
+<!ENTITY performanceUI.table.samples                  "Samples">
 <!ENTITY performanceUI.table.samples.tooltip          "The number of times this function was on the stack when the profiler took a sample.">
-<!ENTITY performanceUI.table.function                 "Arc'hwel">
+<!ENTITY performanceUI.table.function                 "Function">
 <!ENTITY performanceUI.table.function.tooltip         "The name and source location of the sampled function.">
 <!ENTITY performanceUI.table.totalAlloc               "Total Sampled Allocations">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "The total number of Object allocations sampled at this location and in callees.">

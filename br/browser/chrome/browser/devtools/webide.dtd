@@ -154,7 +154,7 @@
 <!ENTITY device_typeboolean "Boolean">
 <!ENTITY device_typenumber "Integer">
 <!ENTITY device_typestring "String">
-<!ENTITY device_typeobject "Ergorenn">
+<!ENTITY device_typeobject "Object">
 <!ENTITY device_typenone "Select a type">
 <!-- Device Preferences -->
 
@@ -202,7 +202,7 @@
 <!ENTITY simulator_reset "Restore Defaults">
 <!ENTITY simulator_name "Name">
 <!ENTITY simulator_software "Software">
-<!ENTITY simulator_version "Handelv">
+<!ENTITY simulator_version "Version">
 <!ENTITY simulator_profile "Profile">
 <!ENTITY simulator_hardware "Hardware">
 <!ENTITY simulator_device "Device">

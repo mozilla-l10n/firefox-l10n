@@ -33,7 +33,7 @@
 <!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
   -  shown next to error details when the Browser Toolbox is unable to open. -->
 
-<!ENTITY browserToolboxErrorMessage          "Fazi en ur zigeriñ Boestad ostilhoù ar Merdeer">
+<!ENTITY browserToolboxErrorMessage          "Error opening Browser Toolbox:">
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 
