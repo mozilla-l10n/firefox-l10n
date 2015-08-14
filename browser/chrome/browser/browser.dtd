@@ -110,7 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "a">
 
 <!ENTITY fxaSignIn.label "Skráðu þig inn í &syncBrand.shortName.label;">
-
+<!ENTITY fxaSignedIn.tooltip "Opna &syncBrand.shortName.label; stillingar">
 <!ENTITY fxaSignInError.label "Endurtengjast við &syncBrand.shortName.label;">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; virkt">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; mun samstilla eftir smástund.">
@@ -395,7 +395,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Fara á flipa:">
 
-
+<!ENTITY urlbar.searchSuggestionsNotification.question "Viltu bæta leitina með því að nota uppástungur?">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Vita meira…">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Nei">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Já">
 <!-- 
@@ -426,6 +427,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      These are set as the aria-label attribute for the search input box and
      submit button in the in-content search UI, to be used by screen readers. -->
 
+<!ENTITY contentSearchInput.label     "Leitar fyrirspurn">
+<!ENTITY contentSearchSubmit.label    "Senda leit">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -641,6 +644,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "L">
 
+<!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "Síðustíll">
 <!ENTITY pageStyleMenu.accesskey "u">
@@ -680,31 +684,36 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "Ljúka">
 <!ENTITY editBookmark.cancel.label                   "Hætta við">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Örugg tenging">
 <!ENTITY identity.connectionNotSecure "Tenging er ekki örugg">
-
+<!ENTITY identity.connectionFile "Þessi síða er vistuð á tölvunni þinni.">
 <!ENTITY identity.connectionVerified "&brandShortName; staðfesti að þú ert tengdur á öruggan hátt við þetta vefsvæði, sem er frá:">
 <!ENTITY identity.connectionInternal "Þetta er örugg &brandShortName; síða.">
 <!-- Strings for connection state warnings. -->
 
-
-
+<!ENTITY identity.activeBlocked "&brandShortName; hefur lokað á suma hluta á þessari síðu sem eru ekki öruggir.">
+<!ENTITY identity.passiveLoaded "Sumir hlutir á þessari síðu eru ekki öruggir (eins og myndir).">
+<!ENTITY identity.activeLoaded "Þú hefur slökkt á vernd fyrir þessa síðu.">
+<!ENTITY identity.weakEncryption "Þessi síða notar lélega dulkóðun.">
 <!-- Strings for connection state warnings in the subview. -->
 
+<!ENTITY identity.description.insecure "Tengingin við þetta vefsvæði er ekki læst. Þær upplýsingar sem þú sendir gætu aðrir skoðað (til dæmis lykilorð, skilaboð, greiðslukort, og fleira).">
+<!ENTITY identity.description.weakCipher "Tengingin við þetta vefsvæði notar lélega dulkóðun og er ekki lokuð.">
+<!ENTITY identity.description.weakCipher2 "Aðrir geta skoðað þessar upplýsingar eða breytt virkni vefsvæðisins.">
+<!ENTITY identity.description.activeBlocked "&brandShortName; hefur lokað á suma hluta á þessari síðu sem eru ekki öruggir.">
+<!ENTITY identity.description.passiveLoaded "Tengingin við þetta vefsvæði er ekki lokuð og upplýsingar sem þú sendir gætu aðrir skoðað.">
+<!ENTITY identity.description.passiveLoaded2 "Þetta vefsvæði inniheldur gögn sem eru ekki örugg (eins og myndir). ">
+<!ENTITY identity.description.passiveLoaded3 "Þótt &brandShortName; hafi lokað á suma hluta, er ennþá innihald á síðunni sem er ekki öruggt (eins og myndir).">
+<!ENTITY identity.description.activeLoaded "Þetta vefsvæði inniheldur gögn sem eru ekki örugg (eins og skriftur) og tengingin er ekki lokuð.">
+<!ENTITY identity.description.activeLoaded2 "Þær upplýsingar sem þú gefur upp á þessu vefsvæði gætu aðrir skoðað (til dæmis lykilorð, skilaboð, greiðslukort, og fleira). ">
 
-
-
-
-
-
-
-
-
+<!ENTITY identity.enableMixedContentBlocking.label "Virkja vernd">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "e">
 <!ENTITY identity.disableMixedContentBlocking.label "Hætta við vörn í bili">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "H">
-
+<!ENTITY identity.learnMore "Fræðast meira">
 
 <!ENTITY identity.moreInfoLinkText2 "Nánari upplýsingar…">
 
@@ -781,29 +790,32 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "y">
 <!ENTITY getUserMedia.selectMicrophone.label "Hljóðnemi til að deila:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "m">
-
+<!ENTITY getUserMedia.audioCapture.label "Hljóð frá flipa verður deilt.">
 <!ENTITY getUserMedia.allWindowsShared.message "Öllum sýnilegum gluggum á skjánum verður deilt.">
 
-
-
-
+<!ENTITY trackingProtection.title "Vörn gegn því að fylgst sé með þér">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; hefur lokað á suma hluta af þessari síðu sem gætu verið að fylgjast með vafra.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "Þessi síða inniheldur hluti sem gætu fylgst með þér. Þú hefur tekið af vörnina að fylgst sé með þér.">
+<!ENTITY trackingProtection.notDetected3 "Engir hlutir sem fylgjast með þér fundust á þessari síðu.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-
+<!ENTITY trackingProtection.unblock.label "Slökkva á vörn fyrir þetta vefsvæði">
+<!ENTITY trackingProtection.unblock.accesskey "S">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-
-
-
+<!ENTITY trackingProtection.unblockPrivate.label "Slökkva á vörn fyrir þessa lotu">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "S">
+<!ENTITY trackingProtection.block2.label "Virkja vernd">
+<!ENTITY trackingProtection.block2.accesskey "e">
 
 <!ENTITY trackingContentBlocked.message "Fylgjast með">
 <!ENTITY trackingContentBlocked.moreinfo "Lokað var á suma hluta af síðunni sem fylgjast með notkun þinni á netinu.">
 <!ENTITY trackingContentBlocked.learnMore "Vita meira">
-
-
-
+<!ENTITY trackingContentBlocked.options "Valkostir">
+<!ENTITY trackingContentBlocked.unblock2.label "Slökkva á vörn fyrir þetta vefsvæði">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "S">
 <!ENTITY trackingContentBlocked.block.label "Virkja vernd">
 <!ENTITY trackingContentBlocked.block.accesskey "e">
 <!ENTITY trackingContentBlocked.disabled.message "Vörn gegn því að fylgst sé með þér er óvirk">
