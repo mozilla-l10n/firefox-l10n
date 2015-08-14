@@ -19,7 +19,7 @@
 <!ENTITY search_pref_button_content_description "Definições">
 
 <!ENTITY pref_clearHistory_confirmation "Histórico limpo">
-<!ENTITY pref_clearHistory_dialogMessage "Eliminar todo o histórico de pesquisa deste dispositivo?">
+<!ENTITY pref_clearHistory_dialogMessage "Apagar todo o histórico de pesquisa deste dispositivo?">
 <!ENTITY pref_clearHistory_title "Limpar histórico de pesquisa">
 
 <!ENTITY pref_searchProvider_title "Motor de pesquisa">
