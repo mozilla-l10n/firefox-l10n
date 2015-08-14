@@ -11,7 +11,7 @@
      Width of the Private Browsing section.
      -->
 
-<!ENTITY aboutPrivateBrowsing.width            "26em">
+<!ENTITY aboutPrivateBrowsing.width            "25em">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
      aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
      These strings will be replaced by aboutPrivateBrowsing.forgotten and
@@ -33,25 +33,25 @@
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Descargas">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Marcadores">
 
-<!ENTITY aboutPrivateBrowsing.note1            "Por favor note que o seu empregador ou fornecedor de serviço de Internet pode, ainda assim, monitorizar as páginas que visita.">
-<!ENTITY aboutPrivateBrowsing.learnMore        "Saber mais">
+<!ENTITY aboutPrivateBrowsing.note1            "Por favor, note que o seu empregador ou a sua operadora do serviço de Internet pode, ainda assim, monitorizar as páginas que visitar.">
+<!ENTITY aboutPrivateBrowsing.learnMore        "Saber mais.">
 <!-- LOCALIZATION NOTE (trackingProtection.width):
      Width of the Tracking Protection section. This should be enough to
      accommodate the title as well as the enabled or disabled indicator.
      -->
 
-<!ENTITY trackingProtection.width              "26em">
+<!ENTITY trackingProtection.width              "22em">
 <!ENTITY trackingProtection.title              "Proteção contra monitorização">
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
 
 <!ENTITY trackingProtection.state.width        "6ch">
-<!ENTITY trackingProtection.state.enabled      "LIGADA">
-<!ENTITY trackingProtection.state.disabled     "DESLIGADA">
+<!ENTITY trackingProtection.state.enabled      "SIM">
+<!ENTITY trackingProtection.state.disabled     "NÃO">
 
 <!ENTITY trackingProtection.description1       "As janelas Privadas agora bloqueiam as partes da página que podem monitorizar a sua atividade de navegação.">
 
-<!ENTITY trackingProtection.disable            "Desligar a Proteção de Monitorização">
-<!ENTITY trackingProtection.enable             "Ligar a Proteção de Monitorização">
-<!ENTITY trackingProtection.startTour1         "Veja como isto funciona">
+<!ENTITY trackingProtection.disable            "Desativar a Proteção contra monitorização">
+<!ENTITY trackingProtection.enable             "Ativar a Proteção contra monitorização">
+<!ENTITY trackingProtection.startTour1         "Veja como funciona">

@@ -323,9 +323,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pasteCmd.label           "Colar">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "o"> 
-<!ENTITY deleteCmd.label          "Eliminar">  
+<!ENTITY deleteCmd.label          "Apagar">  
 <!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "E"> 
+<!ENTITY deleteCmd.accesskey        "A"> 
 <!ENTITY selectAllCmd.label         "Selecionar tudo">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "S"> 
@@ -694,14 +694,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings. -->
 
 
-
+<!ENTITY identity.weakEncryption "Esta página usa uma encriptação fraca.">
 <!-- Strings for connection state warnings in the subview. -->
 
+<!ENTITY identity.description.weakCipher2 "Outras pessoas podem ver a sua informação ou alterar o comportamento do site.">
 
 
 
-
-
+<!ENTITY identity.description.passiveLoaded3 "O &brandShortName; bloqueou alguns conteúdos, mas ainda existem elementos na página que não são seguros (como imagens).">
 
 
 
@@ -795,13 +795,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-
+<!ENTITY trackingProtection.unblock.label "Desativar proteção para este site">
+<!ENTITY trackingProtection.unblock.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 
-
-
+<!ENTITY trackingProtection.block2.label "Ativar proteção">
+<!ENTITY trackingProtection.block2.accesskey "v">
 
 <!ENTITY trackingContentBlocked.message "Monitorização">
 <!ENTITY trackingContentBlocked.moreinfo "Partes da página que monitorizam a sua atividade foram bloqueadas.">
@@ -847,8 +848,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The translation should do the same. -->
 
 <!ENTITY panicButton.view.mainActionDesc          "Se continuar, irá:">
-<!ENTITY panicButton.view.deleteCookies           "Eliminar os <html:strong>cookies</html:strong> recentes">
-<!ENTITY panicButton.view.deleteHistory           "Eliminar o <html:strong>histórico</html:strong> recente">
+<!ENTITY panicButton.view.deleteCookies           "Apagar os <html:strong>cookies</html:strong> recentes">
+<!ENTITY panicButton.view.deleteHistory           "Apagar o <html:strong>histórico</html:strong> recente">
 <!ENTITY panicButton.view.deleteTabsAndWindows    "Fechar todos os <html:strong>Separadores</html:strong> e <html:strong>Janelas</html:strong>">
 <!ENTITY panicButton.view.openNewWindow           "Abrir uma nova janela">
 
