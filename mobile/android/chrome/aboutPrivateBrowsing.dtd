@@ -3,14 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY privatebrowsingpage.title "Pori Preifat">
-<!ENTITY privatebrowsingpage.title.normal "Nid ydych yn pori'n breifat">
+<!-- Localisation note: the plus sign here is a shorthand way of expressing the word "and". Contextually the privatebrowsingpage.title.private string
+                        is used as a title, with the privatebrowsingpage.title string preceding it but on a separate line.
+                        So the final line will say "Private Browsing + Tracking Protection". -->
 
-<!ENTITY privatebrowsingpage.issueDesc.normal2 "Yn pori preifat, byddwn ni ddim yn cadw unrhyw rhan o'ch hanes pori na chwcis.">
-<!ENTITY privatebrowsingpage.issueDesc.private2 "Fyddwn ni ddim y cadw dim o'ch hanes pori na'ch cwcis.">
 
-<!ENTITY privatebrowsingpage.description2 "Bydd nodau tudalen rydych yn ei hychwanegu a ffeiliau rydych y eu llwytho i lawr yn cael eu cadw ar eich dyfais.">
-<!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
-<!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
+
 
 <!ENTITY privatebrowsingpage.link.private "Eisiau gwybod mwy?">
 <!ENTITY privatebrowsingpage.link.normal "Agor mewn tab preifat newydd">
