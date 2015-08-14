@@ -9,10 +9,10 @@
 
 <!ENTITY lightning.toolbar.sync.label "Sincronizar">
 <!ENTITY lightning.toolbar.sync.tooltip "Recarregar calendários e sincronizar alterações">
-<!ENTITY lightning.toolbar.delete.label "Eliminar">
-<!ENTITY lightning.toolbar.delete.tooltip "Eliminar eventos ou tarefas selecionadas">
+<!ENTITY lightning.toolbar.delete.label "Apagar">
+<!ENTITY lightning.toolbar.delete.tooltip "Apagar eventos ou tarefas selecionadas">
 <!ENTITY lightning.toolbar.edit.label "Editar">
-<!ENTITY lightning.toolbar.edit.tooltip "Eliminar evento ou tarefa selecionada">
+<!ENTITY lightning.toolbar.edit.tooltip "Apagar evento ou tarefa selecionada">
 <!ENTITY lightning.toolbar.gototoday.label "Ir para hoje">
 <!ENTITY lightning.toolbar.gototoday.tooltip "Ir para hoje">
 <!ENTITY lightning.toolbar.print.label "Imprimir">

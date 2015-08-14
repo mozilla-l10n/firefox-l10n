@@ -18,7 +18,7 @@
 <!ENTITY calendar.publish.label                 "Publicar…">
 <!ENTITY calendar.publish.accesskey             "b">
 
-<!ENTITY calendar.deletecalendar.label          "Eliminar calendário selecionado…">
+<!ENTITY calendar.deletecalendar.label          "Apagar calendário selecionado…">
 <!ENTITY calendar.deletecalendar.accesskey      "d">
 <!ENTITY calendar.unsubscribecalendar.label     "Cancelar subscrição do calendário selecionado…">
 <!ENTITY calendar.unsubscribecalendar.accesskey "u">

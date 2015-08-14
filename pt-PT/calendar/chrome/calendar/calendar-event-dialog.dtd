@@ -141,12 +141,12 @@
 <!-- Toolbar -->
 
 <!ENTITY  event.toolbar.save.label                        "Guardar e fechar">
-<!ENTITY  event.toolbar.delete.label                      "Eliminar">
+<!ENTITY  event.toolbar.delete.label                      "Apagar">
 <!ENTITY  event.toolbar.attendees.label                   "Convidar participantes">
 <!ENTITY  event.toolbar.privacy.label                     "Privacidade">
 
 <!ENTITY  event.toolbar.save.tooltip                      "Guardar e fechar">
-<!ENTITY  event.toolbar.delete.tooltip                    "Eliminar">
+<!ENTITY  event.toolbar.delete.tooltip                    "Apagar">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Convidar participantes">
 <!ENTITY  event.toolbar.attachments.tooltip               "Adicionar anexos">
 <!ENTITY  event.toolbar.privacy.tooltip                   "Alterar privacidade">
