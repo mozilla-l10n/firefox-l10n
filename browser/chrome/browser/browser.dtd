@@ -694,7 +694,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "Mae &brandShortName; wedi rhwystro rhannau o'r dudalen nad ydynt yn ddiogel.">
-<!ENTITY identity.passiveLoaded "Nid yw rhannau o'r dudalen hon yn ddiogel (megis delweddau)">
+<!ENTITY identity.passiveLoaded "Nid yw rhannau o'r dudalen hon yn ddiogel (megis delweddau).">
 <!ENTITY identity.activeLoaded "Rydych wedi analluogi diogelwch ar y dudalen hon.">
 <!ENTITY identity.weakEncryption "Mae'r dudalen hon yn defnyddio amgryptiad gwan.">
 <!-- Strings for connection state warnings in the subview. -->
@@ -795,7 +795,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.title "Diogelwch Rhag Tracio">
 <!ENTITY trackingProtection.detectedBlocked3 "Mae &brandShortName; yn rhwystro rhannau o'r dudalen gall fod yn tracio eich pori.">
-<!ENTITY trackingProtection.detectedNotBlocked3 "Rydych wedi analluogi diogelwch ar y dudalen hon. Rydych wedi analluogi diogelwch">
+<!ENTITY trackingProtection.detectedNotBlocked3 "Rydych wedi analluogi diogelwch ar y dudalen hon. Rydych wedi analluogi diogelwch.">
 <!ENTITY trackingProtection.notDetected3 "Nid oes elfennau tracio wedi eu canfod ar y dudalen hon.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
