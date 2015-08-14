@@ -576,26 +576,14 @@ it is applicable. -->
 <!-- Restrictions -->
 <!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
-<!ENTITY restriction_disallow_tools_menu_title "Wyłączenie menu Narzędzia">
-<!ENTITY restriction_disallow_tools_menu_description "Ukrywa menu Narzędzia w interfejsie.">
-<!ENTITY restriction_disallow_import_settings_title "Wyłączenie ustawień importowania">
-<!ENTITY restriction_disallow_import_settings_description "Nie pozwala importować ustawień z innych przeglądarek w systemie.">
-<!ENTITY restriction_disallow_addons_title "Wyłączenie dodatków">
-<!ENTITY restriction_disallow_addons_description "Nie pozwala instalować dodatków.">
-<!ENTITY restriction_disallow_devtools_title "Wyłączenie narzędzi dla programistów">
-<!ENTITY restriction_disallow_devtools_description "Nie pozwala używać narzędzi dla programistów.">
-<!ENTITY restriction_disallow_customize_home_title "Wyłączenie dostosowywania strony domowej">
-<!ENTITY restriction_disallow_customize_home_description "Nie pozwala dostosowywać paneli strony domowej.">
-<!ENTITY restriction_disallow_private_browsing_title "Wyłączenie trybu prywatnego">
-<!ENTITY restriction_disallow_private_browsing_description "Nie pozwala przeglądać w trybie prywatnym.">
-<!ENTITY restriction_disallow_location_services_title "Wyłączenie usług lokalizacji">
-<!ENTITY restriction_disallow_location_services_description "Nie pozwala wysyłać danych lokalizacji w celu ulepszania usług geolokalizacyjnych.">
-<!ENTITY restriction_disallow_display_settings_title "Wyłączenie ustawień wyświetlania">
-<!ENTITY restriction_disallow_display_settings_description "Nie pozwala zmieniać zaawansowanych ustawień wyświetlania.">
-<!ENTITY restriction_disallow_clear_history_title "Wyłączenie czyszczenia historii">
-<!ENTITY restriction_disallow_clear_history_description "Nie pozwala czyścić historii przeglądarki.">
-<!ENTITY restriction_disallow_master_password_title "Wyłączenie hasła głównego">
-<!ENTITY restriction_disallow_master_password_description "Nie pozwala ustawiać hasła głównego dla danych logowania.">
-<!ENTITY restriction_disallow_guest_browsing_title "Wyłączenie trybu gościnnego">
-<!ENTITY restriction_disallow_guest_browsing_description "Nie pozwala przeglądać w trybie gościnnym.">
+<!ENTITY restriction_disallow_import_settings_title2 "Wyłącz „Importuj z Androida”">
+<!ENTITY restriction_disallow_addons_title2 "Wyłącz instalację dodatków">
+<!ENTITY restriction_disallow_devtools_title2 "Wyłącz narzędzia dla programistów">
+<!ENTITY restriction_disallow_customize_home_title2 "Wyłącz dostosowywanie strony domowej">
+<!ENTITY restriction_disallow_private_browsing_title2 "Wyłącz tryb prywatny">
+<!ENTITY restriction_disallow_location_services_title2 "Wyłącz usługi lokalizacji">
+<!ENTITY restriction_disallow_display_settings_title2 "Wyłącz ustawienia wyświetlania">
+<!ENTITY restriction_disallow_clear_history_title2 "Wyłącz „Wyczyść historię przeglądania”">
+<!ENTITY restriction_disallow_master_password_title2 "Wyłącz hasło główne">
+<!ENTITY restriction_disallow_guest_browsing_title2 "Wyłącz tryb gościnny">
 
