@@ -8,10 +8,10 @@
                         is used as a title, with the privatebrowsingpage.title string preceding it but on a separate line.
                         So the final line will say "Private Browsing + Tracking Protection". -->
 <!ENTITY privatebrowsingpage.title.private "i ochrona przed śledzeniem">
-<!ENTITY privatebrowsingpage.title.normal "Karta nie jest otwarta w trybie prywatnym">
+<!ENTITY privatebrowsingpage.title.normal1 "Karta nie jest otwarta w trybie prywatnym">
 
 <!ENTITY privatebrowsingpage.description.private3 "Program Firefox będzie chronił przed śledzeniem aktywności użytkownika oraz nie zachowa historii przeglądania, ale pobrane pliki i dodane zakładki zostaną zachowane na urządzeniu.">
-<!ENTITY privatebrowsingpage.description.normal1 "W trybie prywatnym historia przeglądania i ciasteczka nie będą zachowywane, ale pobrane pliki i dodane zakładki zostaną zachowane na urządzeniu.">
+<!ENTITY privatebrowsingpage.description.normal2 "W trybie prywatnym historia przeglądania i ciasteczka nie będą zachowywane, ale pobrane pliki i dodane zakładki zostaną zachowane na urządzeniu.">
 
 <!ENTITY privatebrowsingpage.link.private "Więcej informacji">
 <!ENTITY privatebrowsingpage.link.normal "Otwórz nową kartę prywatną">
