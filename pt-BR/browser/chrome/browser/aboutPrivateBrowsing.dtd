@@ -10,6 +10,8 @@
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
      Width of the Private Browsing section.
      -->
+
+<!ENTITY aboutPrivateBrowsing.width            "25em">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
      aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
      These strings will be replaced by aboutPrivateBrowsing.forgotten and
@@ -17,16 +19,17 @@
      -->
 
 <!ENTITY aboutPrivateBrowsing.title            "Navegação privativa">
+<!ENTITY aboutPrivateBrowsing.subtitle         "Nesta janela, o &brandShortName; não memorizará o histórico.">
 
-
+<!ENTITY aboutPrivateBrowsing.forgotten        "Nesta janela, o &brandShortName; não memorizará:">
 
 <!ENTITY aboutPrivateBrowsing.info.history     "Histórico">
-
+<!ENTITY aboutPrivateBrowsing.info.searches    "Pesquisas">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Cookies">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Arquivos temporários">
 
 <!ENTITY aboutPrivateBrowsing.kept             "O &brandShortName; manterá:">
-
+<!ENTITY aboutPrivateBrowsing.info.kept        "Manter">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Downloads">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Favoritos">
 
@@ -35,10 +38,14 @@
      Width of the Tracking Protection section. This should be enough to
      accommodate the title as well as the enabled or disabled indicator.
      -->
+
+<!ENTITY trackingProtection.width              "22em">
 <!ENTITY trackingProtection.title              "Proteção contra rastreamento">
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
+
+<!ENTITY trackingProtection.state.width        "6ch">
 <!ENTITY trackingProtection.state.enabled      "Ligado">
 <!ENTITY trackingProtection.state.disabled     "Delisgado">
 
