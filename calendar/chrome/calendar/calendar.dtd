@@ -162,8 +162,8 @@
 <!ENTITY calendar.context.newevent.accesskey          "N">
 <!ENTITY calendar.context.newtodo.label               "Nova tarefa…">
 <!ENTITY calendar.context.newtodo.accesskey           "v">
-<!ENTITY calendar.context.deletetask.label            "Eliminar tarefa">
-<!ENTITY calendar.context.deletetask.accesskey        "E">
+<!ENTITY calendar.context.deletetask.label            "Apagar tarefa">
+<!ENTITY calendar.context.deletetask.accesskey        "A">
 <!ENTITY calendar.context.deleteevent.label           "Eliminar evento">
 <!ENTITY calendar.context.deleteevent.accesskey       "l">
 <!ENTITY calendar.context.cutevent.label              "Cortar">
@@ -226,7 +226,7 @@
 <!-- Note that the above *.context.* strings are currently used for the other
      task action buttons -->
 
-<!ENTITY calendar.taskview.delete.label     "Eliminar">
+<!ENTITY calendar.taskview.delete.label     "Apagar">
 <!-- Server Context Menu -->
 
 <!ENTITY calendar.context.newserver.label              "Novo calendário…">

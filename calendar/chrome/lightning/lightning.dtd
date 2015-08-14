@@ -50,8 +50,8 @@
 <!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Recusar convite do evento">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Recusar todos">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Recusar convite do evento para todas as ocorrências deste evento">
-<!ENTITY lightning.imipbar.btnDelete.label                                  "Eliminar">
-<!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Eliminar do calendário">
+<!ENTITY lightning.imipbar.btnDelete.label                                  "Apagar">
+<!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Apagar do calendário">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Detalhes">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Mostrar detalhes do evento">
 <!ENTITY lightning.imipbar.btnMore.label                                    "Mais">
