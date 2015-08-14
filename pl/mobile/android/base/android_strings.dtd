@@ -482,6 +482,8 @@ it is applicable. -->
 <!ENTITY identity_connection_insecure "Niezabezpieczone połączenie">
 
 <!ENTITY mixed_content_blocked_all "Program &brandShortName; zablokował niezabezpieczone elementy na tej stronie.">
+<!ENTITY mixed_content_blocked_some "Program &brandShortName; zablokował niektóre niezabezpieczone elementy na tej stronie.">
+<!ENTITY mixed_content_display_loaded "Niektóre elementy na tej stronie są niezabezpieczone.">
 <!ENTITY mixed_content_protection_disabled "Ochrona przed niezabezpieczonymi elementami jest wyłączona.">
 
 <!ENTITY loaded_mixed_content_message "Na tej stronie znajdują się niebezpieczne treści">
