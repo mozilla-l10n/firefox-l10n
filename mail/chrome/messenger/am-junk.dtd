@@ -13,7 +13,7 @@
 <!ENTITY junkFolderOn.accesskey "x">
 <!ENTITY otherFolder.label "Outra:">
 <!ENTITY otherFolder.accesskey "r">
-<!ENTITY purge1.label "Eliminar automaticamente o lixo eletrónico com mais de">
+<!ENTITY purge1.label "Apagar automaticamente o correio indesejado com mais de">
 <!ENTITY purge1.accesskey "u">
 <!ENTITY purge2.label "dias">
 

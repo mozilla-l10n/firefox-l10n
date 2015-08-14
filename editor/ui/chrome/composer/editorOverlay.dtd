@@ -235,8 +235,8 @@
 <!ENTITY tableSelectMenu2.accesskey "S">
 <!ENTITY tableInsertMenu2.label "Inserir tabela">
 <!ENTITY tableInsertMenu2.accesskey "I">
-<!ENTITY tableDeleteMenu2.label "Eliminar tabela">
-<!ENTITY tableDeleteMenu2.accesskey "E">
+<!ENTITY tableDeleteMenu2.label "Apagar tabela">
+<!ENTITY tableDeleteMenu2.accesskey "A">
 <!-- Insert SubMenu -->
 
 <!ENTITY tableInsertMenu.label "Inserir">

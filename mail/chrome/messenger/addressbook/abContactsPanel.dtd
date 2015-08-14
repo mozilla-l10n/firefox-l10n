@@ -8,8 +8,8 @@
 <!ENTITY searchInput.accesskey              "o">
 <!ENTITY SearchNameOrEmail.label            "Nome ou e-mail">
 
-<!ENTITY deleteAddrBookCard.label           "Eliminar">
-<!ENTITY deleteAddrBookCard.accesskey       "E">
+<!ENTITY deleteAddrBookCard.label           "Apagar">
+<!ENTITY deleteAddrBookCard.accesskey       "A">
 <!ENTITY addrBookCardProperties.label       "Propriedades">
 <!ENTITY addrBookCardProperties.accesskey   "P">
 <!ENTITY addtoToFieldMenu.label             "Adicionar ao campo Para ">
