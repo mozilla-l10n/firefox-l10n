@@ -14,9 +14,13 @@
 <!ENTITY browserStylesLabel    "ब्राउज़र शैलियों">
 <!-- LOCALIZATION NOTE (filterStylesPlaceholder): This is the placeholder that goes in
   -  the search box when no search term has been entered. -->
+
+<!ENTITY filterStylesPlaceholder      "फ़िल्टर शैली">
 <!-- LOCALIZATION NOTE (addRuleButtonTooltip): This is the tooltip shown when
   -  hovering the `Add new rule` button in the rules view toolbar. This should
   -  match ruleView.contextmenu.addNewRule in styleinspector.properties -->
+
+<!ENTITY addRuleButtonTooltip  "एक नया नियम जोड़े">
 <!-- LOCALIZATION NOTE (selectedElementLabel): This is the label for the path of
   -  the highlighted element in the web page. This path is based on the document
   -  tree. -->

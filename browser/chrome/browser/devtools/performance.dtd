@@ -20,6 +20,8 @@
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.nonE10SBuild): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a non-multiprocess build. -->
+
+<!ENTITY performanceUI.disabledRealTime.nonE10SBuild "रियल टाइम रिकॉर्डिंग डेटा गैर बहु प्रक्रिया फ़ायरफ़ॉक्स पर निष्क्रिय किया गया.">
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a build that can run multiprocess Firefox, but just is not enabled. -->
@@ -47,9 +49,11 @@
 <!ENTITY performanceUI.exportButton "सहेजें">
 <!-- LOCALIZATION NOTE (performanceUI.clearButton): This string is displayed
   -  on a button that removes all the recordings. -->
+
+<!ENTITY performanceUI.clearButton "साफ करें">
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
-
+<!ENTITY performanceUI.toolbar.js-calltree "कॉल शाखा">
 <!ENTITY performanceUI.toolbar.memory-calltree "आबंटन">
 <!ENTITY performanceUI.toolbar.js-flamegraph "जेएस फ्लैम चार्ट">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "आवंटन फ्लेम सूचि">
@@ -71,7 +75,7 @@
 <!ENTITY performanceUI.table.totalAlloc               "कुल नमूना आवंटन">
 
 <!ENTITY performanceUI.table.selfAlloc                "कुल नमूना आवंटन">
-
+<!ENTITY performanceUI.table.selfAlloc.tooltip        "इस स्थान पर वस्तु आवंटन की संख्या का नमूना.">
 <!-- LOCALIZATION NOTE (performanceUI.newtab.tooltiptext): The tooltiptext shown
   -  on the "+" (new tab) button for a profile when a selection is available. -->
 
