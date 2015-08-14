@@ -5,5 +5,5 @@
    %brandDTD;
 <!ENTITY aboutLogins.title                       "Mewngofnodion">
 <!ENTITY aboutLogins.update                      "Diweddaru">
-
-
+<!ENTITY aboutLogins.emptyLoginText              "Cadw eich mewngofnodi'n ddiogel">
+<!ENTITY aboutLogins.emptyLoginHint              "Bydd mewngofnodi a manylion rydych yn eu cadw wrth ddefnyddio &brandShortName; yn ymddangos yma.">
