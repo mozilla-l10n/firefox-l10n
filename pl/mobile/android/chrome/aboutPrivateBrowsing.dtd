@@ -3,14 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY privatebrowsingpage.title "Tryb prywatny">
+
+<!-- Localisation note: the plus sign here is a shorthand way of expressing the word "and". Contextually the privatebrowsingpage.title.private string
+                        is used as a title, with the privatebrowsingpage.title string preceding it but on a separate line.
+                        So the final line will say "Private Browsing + Tracking Protection". -->
+<!ENTITY privatebrowsingpage.title.private "i ochrona przed śledzeniem">
 <!ENTITY privatebrowsingpage.title.normal "Karta nie jest otwarta w trybie prywatnym">
 
-<!ENTITY privatebrowsingpage.issueDesc.normal2 "W trybie prywatnym historia przeglądania i ciasteczka nie będą zachowywane.">
-<!ENTITY privatebrowsingpage.issueDesc.private2 "Historia przeglądania i ciasteczka nie będą zachowywane.">
-
-<!ENTITY privatebrowsingpage.description2 "Pobrane pliki i dodane zakładki zostaną zachowane na urządzeniu.">
-<!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
-<!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
+<!ENTITY privatebrowsingpage.description.private3 "Program Firefox będzie chronił przed śledzeniem aktywności użytkownika oraz nie zachowa historii przeglądania, ale pobrane pliki i dodane zakładki zostaną zachowane na urządzeniu.">
+<!ENTITY privatebrowsingpage.description.normal1 "W trybie prywatnym historia przeglądania i ciasteczka nie będą zachowywane, ale pobrane pliki i dodane zakładki zostaną zachowane na urządzeniu.">
 
 <!ENTITY privatebrowsingpage.link.private "Więcej informacji">
 <!ENTITY privatebrowsingpage.link.normal "Otwórz nową kartę prywatną">
