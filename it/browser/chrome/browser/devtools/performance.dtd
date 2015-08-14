@@ -38,7 +38,6 @@
 <!ENTITY performanceUI.table.totalAlloc.tooltip "Il numero di allocazioni di oggetti campionate in questa posizione e in tutti gli elementi chiamati.">
 <!ENTITY performanceUI.table.selfAlloc "Allocazioni elemento">
 <!ENTITY performanceUI.table.selfAlloc.tooltip "Il numero di allocazioni di oggetti campionate in questa posizione.">
-<!ENTITY performanceUI.newtab.tooltiptext "Aggiungi nuova scheda dalla selezione">
 <!ENTITY performanceUI.options.filter.tooltiptext "Seleziona i dati da visualizzare nella sequenza temporale">
 <!ENTITY performanceUI.options.gear.tooltiptext "Configura preferenze prestazioni.">
 <!ENTITY performanceUI.invertTree "Inverti albero chiamate">
