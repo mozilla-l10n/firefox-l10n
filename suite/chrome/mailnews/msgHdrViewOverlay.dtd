@@ -42,5 +42,5 @@
 <!ENTITY saveAllAttachmentsCmd.accesskey   "u">
 <!ENTITY detachAllAttachmentsCmd.label     "Separar todos...">
 <!ENTITY detachAllAttachmentsCmd.accesskey "e">
-<!ENTITY deleteAllAttachmentsCmd.label     "Eliminar tudo…">
-<!ENTITY deleteAllAttachmentsCmd.accesskey "E">
+<!ENTITY deleteAllAttachmentsCmd.label     "Apagar tudo…">
+<!ENTITY deleteAllAttachmentsCmd.accesskey "A">

@@ -24,7 +24,7 @@
 <!ENTITY AddButton.label              "Adicionar…">
 <!ENTITY AddHtmlDomain.accesskey      "A">
 <!ENTITY AddPlainText.accesskey       "d">
-<!ENTITY DeleteButton.label           "Eliminar">
+<!ENTITY DeleteButton.label           "Apagar">
 <!ENTITY DeleteHtmlDomain.accesskey   "e">
 <!ENTITY DeletePlainText.accesskey    "l">
 <!-- Add Domain Name -->

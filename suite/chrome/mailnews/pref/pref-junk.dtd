@@ -11,8 +11,8 @@
 <!ENTITY manualMark.accesskey           "A">
 <!ENTITY manualMarkModeMove.label       "Mover para a pasta &quot;Lixo eletrónico&quot;">
 <!ENTITY manualMarkModeMove.accesskey   "M">
-<!ENTITY manualMarkModeDelete.label     "Eliminar">
-<!ENTITY manualMarkModeDelete.accesskey "E">
+<!ENTITY manualMarkModeDelete.label     "Apagar">
+<!ENTITY manualMarkModeDelete.accesskey "A">
 
 <!ENTITY markAsRead.intro               "Marcar mensagem como lida:">
 <!ENTITY autoMarkAsRead.label           "Quando o &brandShortName; determina que elas são lixo">

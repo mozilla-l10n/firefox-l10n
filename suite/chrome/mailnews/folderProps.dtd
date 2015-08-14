@@ -24,14 +24,14 @@
 <!ENTITY retentionCleanup.label "Guardar mensagens:">
 <!ENTITY retentionCleanupImap.label "Guardar mensagens, sejam as cópias locais ou as originais no servidor:">
 <!ENTITY retentionCleanupPop.label "Guardar mensagens, incluindo os originais no servidor:">
-<!ENTITY retentionDeleteMsg.label "Eliminar mensagens maiores que">
+<!ENTITY retentionDeleteMsg.label "Apagar mensagens maiores que">
 <!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Não eliminar mensagens">
 <!ENTITY retentionKeepAll.accesskey "a">
 <!ENTITY retentionKeepRecent.label "Eliminar todas menos as mais recentes">
 <!ENTITY retentionKeepRecent.accesskey "l">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Eliminar sempre todas as mensagens lidas(sobrepor as definições de idade)">
+<!ENTITY retentionKeepUnreadHidden.label "Apagar sempre todas as mensagens lidas (ignora as definições de idade)">
 <!ENTITY retentionApplyToFlagged.label "Manter sempre mensagens com estrela">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 

@@ -41,8 +41,8 @@
 
 <!ENTITY cmd.bookmarkLink.label         "Adicionar página aos marcadores…">
 <!ENTITY cmd.bookmarkLink.accesskey     "A">
-<!ENTITY cmd.delete.label               "Eliminar esta página">
-<!ENTITY cmd.delete.accesskey           "E">
+<!ENTITY cmd.delete.label               "Apagar esta página">
+<!ENTITY cmd.delete.accesskey           "A">
 <!ENTITY cmd.deleteDomainData.label     "Esquecer este sítio">
 <!ENTITY cmd.deleteDomainData.accesskey "s">
 

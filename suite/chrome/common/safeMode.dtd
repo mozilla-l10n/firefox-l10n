@@ -14,8 +14,8 @@
 <!ENTITY resetToolbars.label          "Repor barras de ferramentas e janelas">
 <!ENTITY resetToolbars.accesskey      "R">
 
-<!ENTITY deleteBookmarks.label        "Eliminar todos os marcadores exceto para backups">
-<!ENTITY deleteBookmarks.accesskey    "b">
+<!ENTITY deleteBookmarks.label        "Apagar todos os marcadores exceto para cópias de segurança">
+<!ENTITY deleteBookmarks.accesskey    "m">
 
 <!ENTITY resetUserPrefs.label         "Repor todas as preferências para as pré-definições do &brandShortName;">
 <!ENTITY resetUserPrefs.accesskey     "p">
