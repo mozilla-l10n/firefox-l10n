@@ -1,3 +1,4 @@
+
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
@@ -43,4 +44,4 @@
 <!ENTITY done.title                     "Importowanie zakończone">
 <!ENTITY done.label                     "Poniższe elementy zostały zaimportowane:">
 
-<!ENTITY closeSourceBrowser.label "Przed przejściem dalej, oroszę upewnić się, że wybrana przeglądarka jest wyłączona.">
+<!ENTITY closeSourceBrowser.label "Przed przejściem dalej proszę upewnić się, że wybrana przeglądarka jest wyłączona.">
