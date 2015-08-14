@@ -79,11 +79,11 @@
 <!ENTITY undeleteMsgCmd.accesskey "R">
 <!ENTITY cancelNewsMsgCmd.label "Cancelar mensagem">
 <!ENTITY cancelNewsMsgCmd.accesskey "n">
-<!ENTITY deleteMsgsCmd.label "Eliminar mensagens selecionadas">
+<!ENTITY deleteMsgsCmd.label "Apagar mensagens selecionadas">
 <!ENTITY deleteMsgsCmd.accesskey "d">
 <!ENTITY undeleteMsgsCmd.label "Restaurar mensagens selecionadas">
 <!ENTITY undeleteMsgsCmd.accesskey "d">
-<!ENTITY deleteFolderCmd.label "Eliminar pasta">
+<!ENTITY deleteFolderCmd.label "Apagar pasta">
 <!ENTITY deleteFolderCmd.accesskey "p">
 <!ENTITY unsubscribeNewsgroupCmd.label "Cancelar subscrição">
 <!ENTITY unsubscribeNewsgroupCmd.accesskey "n">
@@ -390,7 +390,7 @@
 <!ENTITY filtersApplyToMessage.accesskey "g">
 <!ENTITY runJunkControls.label "Executar filtros de lixo eletrónico na pasta">
 <!ENTITY runJunkControls.accesskey "x">
-<!ENTITY deleteJunk.label "Eliminar correio marcado como lixo na pasta">
+<!ENTITY deleteJunk.label "Apagar correio marcado como lixo na pasta">
 <!ENTITY deleteJunk.accesskey "e">
 <!ENTITY importCmd.label "Importar...">
 <!ENTITY importCmd.accesskey "I">
@@ -414,7 +414,7 @@
 <!ENTITY nextButton.label "Seguinte">
 <!ENTITY goBackButton.label "Recuar">
 <!ENTITY goForwardButton.label "Avançar">
-<!ENTITY deleteButton.label "Eliminar">
+<!ENTITY deleteButton.label "Apagar">
 <!ENTITY undeleteButton.label "Não eliminar">
 <!ENTITY markButton.label "Marcar">
 <!ENTITY stopButton.label "Parar">
@@ -437,7 +437,7 @@
 <!ENTITY nextButton.tooltip "Ir para a próxima mensagem não lida">
 <!ENTITY goBackButton.tooltip "Recuar uma mensagem">
 <!ENTITY goForwardButton.tooltip "Avançar uma mensagem">
-<!ENTITY deleteButton.tooltip "Eliminar pasta ou mensagem selecionada">
+<!ENTITY deleteButton.tooltip "Apagar pasta ou mensagem selecionada">
 <!ENTITY undeleteButton.tooltip "Não eliminar a mensagem selecionada">
 <!ENTITY markButton.tooltip "Marcar mensagens">
 <!ENTITY stopButton.tooltip "Parar transferência atual">
