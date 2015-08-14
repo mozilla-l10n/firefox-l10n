@@ -3,14 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY privatebrowsingpage.title "Privātā pārlūkošana">
-<!ENTITY privatebrowsingpage.title.normal "Jūs neatrodaties privātajā pārlūkošanas režīmā">
+<!-- Localisation note: the plus sign here is a shorthand way of expressing the word "and". Contextually the privatebrowsingpage.title.private string
+                        is used as a title, with the privatebrowsingpage.title string preceding it but on a separate line.
+                        So the final line will say "Private Browsing + Tracking Protection". -->
 
-<!ENTITY privatebrowsingpage.issueDesc.normal2 "Privātajā pārlūkošanas režīmā netiks saglabāta pārlūkošanas vēsture un sīkdatnes.">
-<!ENTITY privatebrowsingpage.issueDesc.private2 "Netiks saglabāta pārlūkošanas vēsture un sīkdatnes.">
 
-<!ENTITY privatebrowsingpage.description2 "Pievienotās grāmatzīmes un lejupielādētie faili joprojām tiks saglabāti jūsu ierīcē.">
-<!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
-<!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
+
 
 <!ENTITY privatebrowsingpage.link.private "Gribat zināt vairāk?">
 <!ENTITY privatebrowsingpage.link.normal "Atvērt jaunu privāto cilni">
