@@ -482,14 +482,10 @@ it is applicable. -->
 <!ENTITY identity_connection_secure "Zabezpieczone połączenie">
 <!ENTITY identity_connection_insecure "Niezabezpieczone połączenie">
 
-<!ENTITY mixed_content_blocked_all "Program &brandShortName; zablokował niezabezpieczone elementy na tej stronie.">
-<!ENTITY mixed_content_blocked_some "Program &brandShortName; zablokował niektóre niezabezpieczone elementy na tej stronie.">
-<!ENTITY mixed_content_display_loaded "Niektóre elementy na tej stronie są niezabezpieczone.">
-<!ENTITY mixed_content_protection_disabled "Ochrona przed niezabezpieczonymi elementami jest wyłączona.">
-
-<!ENTITY loaded_mixed_content_message "Na tej stronie znajdują się niebezpieczne treści">
-<!ENTITY blocked_mixed_content_message_top "Przeglądarka &brandShortName; zablokowała niebezpieczne treści.">
-<!ENTITY blocked_mixed_content_message_bottom "Większość witryn działa poprawnie nawet po zablokowaniu tych treści.">
+<!ENTITY mixed_content_blocked_all1 "Program &brandShortName; zablokował niezabezpieczoną treść na tej stronie.">
+<!ENTITY mixed_content_blocked_some1 "Program &brandShortName; zablokował część niezabezpieczonej treści na tej stronie.">
+<!ENTITY mixed_content_display_loaded1 "Części tej strony (np. obrazki) nie są niezabezpieczone.">
+<!ENTITY mixed_content_protection_disabled1 "Ochrona przed niezabezpieczoną treścią jest wyłączona.">
 
 <!ENTITY doorhanger_tracking_title "Ochrona przed śledzeniem">
 <!ENTITY doorhanger_tracking_state_enabled "Włączone">
