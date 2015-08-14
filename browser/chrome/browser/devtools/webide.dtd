@@ -198,7 +198,7 @@
 <!-- Simulator Options -->
 
 <!ENTITY simulator_title "Opções do simulador">
-<!ENTITY simulator_remove "Eliminar simulador">
+<!ENTITY simulator_remove "Apagar simulador">
 <!ENTITY simulator_reset "Restaurar predefinições">
 <!ENTITY simulator_name "Nome">
 <!ENTITY simulator_software "Software">

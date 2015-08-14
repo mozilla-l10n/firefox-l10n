@@ -40,7 +40,7 @@
 <!ENTITY certmgr.editcert.trustemail          "Este certificado pode identificar utilizadores de e-mail.">
 <!ENTITY certmgr.editcert.trustobjsign        "Este certificado pode identificar criadores de aplicações.">
 
-<!ENTITY certmgr.deletecert.title             "Eliminar certificado">
+<!ENTITY certmgr.deletecert.title             "Apagar certificado">
 
 <!ENTITY certmgr.certname                     "Nome do certificado">
 <!ENTITY certmgr.certserver                   "Servidor">
@@ -59,8 +59,8 @@
 <!ENTITY certmgr.edit3.accesskey              "E">
 <!ENTITY certmgr.export.label                 "Exportar…">
 <!ENTITY certmgr.export.accesskey             "x">
-<!ENTITY certmgr.delete2.label                "Eliminar…">
-<!ENTITY certmgr.delete2.accesskey            "E">
+<!ENTITY certmgr.delete2.label                "Apagar…">
+<!ENTITY certmgr.delete2.accesskey            "A">
 <!ENTITY certmgr.delete_builtin.label         "Eliminar/remover confiança…">
 <!ENTITY certmgr.delete_builtin.accesskey     "m">
 <!ENTITY certmgr.backup2.label                "Cópia de segurança…">
