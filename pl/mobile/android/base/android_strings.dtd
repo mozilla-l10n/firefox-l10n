@@ -576,14 +576,10 @@ it is applicable. -->
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 <!ENTITY restriction_disallow_tools_menu_title "Wyłączenie menu Narzędzia">
 <!ENTITY restriction_disallow_tools_menu_description "Ukrywa menu Narzędzia w interfejsie.">
-<!ENTITY restriction_disallow_report_site_issue_title "Wyłączenie „Zgłoś problem ze stroną”">
-<!ENTITY restriction_disallow_report_site_issue_description "Ukrywa element menu „Zgłoś problem ze stroną”.">
 <!ENTITY restriction_disallow_import_settings_title "Wyłączenie ustawień importowania">
 <!ENTITY restriction_disallow_import_settings_description "Nie pozwala importować ustawień z innych przeglądarek w systemie.">
 <!ENTITY restriction_disallow_addons_title "Wyłączenie dodatków">
 <!ENTITY restriction_disallow_addons_description "Nie pozwala instalować dodatków.">
-<!ENTITY restriction_disallow_apps_title "Wyłączenie aplikacji">
-<!ENTITY restriction_disallow_apps_description "Nie pozwala instalować aplikacji z Firefox Marketplace.">
 <!ENTITY restriction_disallow_devtools_title "Wyłączenie narzędzi dla programistów">
 <!ENTITY restriction_disallow_devtools_description "Nie pozwala używać narzędzi dla programistów.">
 <!ENTITY restriction_disallow_customize_home_title "Wyłączenie dostosowywania strony domowej">
@@ -598,3 +594,6 @@ it is applicable. -->
 <!ENTITY restriction_disallow_clear_history_description "Nie pozwala czyścić historii przeglądarki.">
 <!ENTITY restriction_disallow_master_password_title "Wyłączenie hasła głównego">
 <!ENTITY restriction_disallow_master_password_description "Nie pozwala ustawiać hasła głównego dla danych logowania.">
+<!ENTITY restriction_disallow_guest_browsing_title "Wyłączenie trybu gościnnego">
+<!ENTITY restriction_disallow_guest_browsing_description "Nie pozwala przeglądać w trybie gościnnym.">
+
