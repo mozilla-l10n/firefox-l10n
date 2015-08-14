@@ -784,7 +784,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY getUserMedia.allWindowsShared.message "Todas as janelas visíveis na sua tela serão compartilhadas.">
 
-<!ENTITY trackingProtection.title "Proteção contra rastreamento">
 
 
 
