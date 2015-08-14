@@ -10,6 +10,6 @@
 <!ENTITY commaRadio.label      "Vírgula">
 <!ENTITY spaceRadio.label      "Espaço">
 <!ENTITY otherRadio.label      "Outro:">
-<!ENTITY deleteCharCheck.label "Eliminar carácter separador">
+<!ENTITY deleteCharCheck.label "Apagar carácter separador">
 <!ENTITY collapseSpaces.label  "Ignorar espaços extra">
 <!ENTITY collapseSpaces.tooltip "Converter espaços adjacentes num separador">

@@ -60,12 +60,12 @@
 <!ENTITY pasteCmd.accesskey                             "o">
 <!ENTITY deleteCmd.label                                "Eliminar">
 <!ENTITY deleteCmd.accesskey                            "l">
-<!ENTITY deleteAbCmd.label                              "Eliminar livro de endereços">
-<!ENTITY deleteContactCmd.label                         "Eliminar contacto">
-<!ENTITY deleteContactsCmd.label                        "Eliminar contactos">
-<!ENTITY deleteListCmd.label                            "Eliminar lista">
-<!ENTITY deleteListsCmd.label                           "Eliminar listas">
-<!ENTITY deleteItemsCmd.label                           "Eliminar itens">
+<!ENTITY deleteAbCmd.label                              "Apagar livro de endereços">
+<!ENTITY deleteContactCmd.label                         "Apagar contacto">
+<!ENTITY deleteContactsCmd.label                        "Apagar contactos">
+<!ENTITY deleteListCmd.label                            "Apagar lista">
+<!ENTITY deleteListsCmd.label                           "Apagar listas">
+<!ENTITY deleteItemsCmd.label                           "Apagar elementos">
 <!ENTITY selectAllCmd.label                             "Selecionar tudo">
 <!ENTITY selectAllCmd.key                               "a">
 <!ENTITY searchAddressesCmd.key                         "f">
@@ -148,7 +148,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY editButton2.tooltip                            "Editar item selecionado">
 <!ENTITY newmsgButton.tooltip                           "Enviar uma mensagem">
 <!ENTITY newIM.tooltip                                  "Enviar mensagem instantânea ou de chat">
-<!ENTITY deleteButton2.tooltip                           "Eliminar item selecionado">
+<!ENTITY deleteButton2.tooltip                           "Apagar elemento selecionado">
 <!-- Dir Tree header -->
 
 <!ENTITY dirTreeHeader.label                            "Livros de endereços">

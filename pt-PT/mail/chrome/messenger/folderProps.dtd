@@ -31,7 +31,7 @@
 <!ENTITY retentionKeepRecent.label "Eliminar todas menos as mais recentes">
 <!ENTITY retentionKeepRecent.accesskey "l">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Eliminar sempre todas as mensagens lidas (sobrepor as definições de idade)">
+<!ENTITY retentionKeepUnreadHidden.label "Apagar sempre todas as mensagens lidas (ignora as definições de antiguidade)">
 <!ENTITY retentionApplyToFlagged.label "Manter sempre mensagens com estrela">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 

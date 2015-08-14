@@ -25,10 +25,10 @@
 <!ENTITY retentionKeepMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Não eliminar qualquer mensagem">
 <!ENTITY retentionKeepAll.accesskey "u">
-<!ENTITY retentionKeepRecent.label "Eliminar todas menos as mais recentes">
-<!ENTITY retentionKeepRecent.accesskey "t">
+<!ENTITY retentionKeepRecent.label "Apagar todas, exceto as mais recentes">
+<!ENTITY retentionKeepRecent.accesskey "r">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Eliminar sempre as mensagens lidas (sobrepõe as definições de idade)">
+<!ENTITY retentionKeepUnreadHidden.label "Apagar sempre todas as mensagens lidas (ignora as definições de iantiguidade)">
 <!ENTITY retentionApplyToFlagged.label "Manter sempre mensagens com estrela">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 <!ENTITY nntpRemoveMsgBody.label "Remover corpo das mensagens maiores que">

@@ -57,8 +57,8 @@
 <!ENTITY sendUnsentCmd.accesskey "e">
 <!ENTITY subscribeCmd.label "Subscrever...">
 <!ENTITY subscribeCmd.accesskey "b">
-<!ENTITY deleteFolder.label "Eliminar pasta">
-<!ENTITY deleteFolder.accesskey "E">
+<!ENTITY deleteFolder.label "Apagar pasta">
+<!ENTITY deleteFolder.accesskey "A">
 <!ENTITY renameFolder.label "Mudar nome da pasta...">
 <!ENTITY renameFolder.accesskey "M">
 <!ENTITY renameFolder.key "VK_F2">
@@ -475,8 +475,8 @@
 <!ENTITY filtersApplyToMessage.accesskey "r">
 <!ENTITY runJunkControls.label "Executar controlos de lixo eletrónico na pasta">
 <!ENTITY runJunkControls.accesskey "r">
-<!ENTITY deleteJunk.label "Eliminar lixo eletrónico desta pasta">
-<!ENTITY deleteJunk.accesskey "x">
+<!ENTITY deleteJunk.label "Apagar correio marcado como lixo na pasta">
+<!ENTITY deleteJunk.accesskey "e">
 <!ENTITY importCmd.label "Importar...">
 <!ENTITY importCmd.accesskey "m">
 <!ENTITY errorConsoleCmd.label "Consola de erros">
@@ -509,8 +509,8 @@
 <!ENTITY previousMsgButton.label "Anterior">
 <!ENTITY backButton1.label "Recuar">
 <!ENTITY goForwardButton1.label "Avançar">
-<!ENTITY deleteItem.title "Eliminar">
-<!ENTITY deleteButton.label "Eliminar">
+<!ENTITY deleteItem.title "Apagar">
+<!ENTITY deleteButton.label "Apagar">
 <!ENTITY undeleteButton.label "Restaurar">
 <!ENTITY markButton.label "Marcar">
 <!ENTITY printButton.label "Imprimir">
@@ -549,7 +549,7 @@
 <!ENTITY previousMsgButton.tooltip "Ir para a mensagem anterior">
 <!ENTITY goForwardButton.tooltip "Avançar uma mensagem">
 <!ENTITY goBackButton.tooltip "Recuar uma mensagem">
-<!ENTITY deleteButton.tooltip "Eliminar mensagem ou pasta selecionada">
+<!ENTITY deleteButton.tooltip "Apagar pasta ou mensagem selecionada">
 <!ENTITY undeleteButton.tooltip "Restaurar mensagem selecionada">
 <!ENTITY markButton.tooltip "Marcar mensagens">
 <!ENTITY printButton.tooltip "Imprimir esta mensagem">
