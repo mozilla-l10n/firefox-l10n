@@ -37,8 +37,8 @@
 <!ENTITY hdrForwardButton1.tooltip "Reencaminhar esta mensagem">
 <!ENTITY hdrJunkButton1.label "Lixo eletrónico">
 <!ENTITY hdrJunkButton1.tooltip "Marca esta mensagem como lixo eletrónico">
-<!ENTITY hdrTrashButton1.label "Eliminar">
-<!ENTITY hdrTrashButton1.tooltip "Eliminar esta mensagem">
+<!ENTITY hdrTrashButton1.label "Apagar">
+<!ENTITY hdrTrashButton1.tooltip "Apagar esta mensagem">
 
 <!ENTITY hdrViewToolbarShowFull.label "Mostrar ícones e texto">
 <!ENTITY hdrViewToolbarShowFull.accesskey "a">

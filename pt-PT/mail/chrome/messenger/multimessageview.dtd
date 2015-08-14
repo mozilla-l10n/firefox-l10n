@@ -5,4 +5,4 @@
 <!ENTITY window.title             "Resumo da mensagem">
 <!ENTITY selectedmessages.label   "Mensagens seleciondas">
 <!ENTITY archiveButton.label      "Arquivar">
-<!ENTITY deleteButton.label       "Eliminar">
+<!ENTITY deleteButton.label       "Apagar">
