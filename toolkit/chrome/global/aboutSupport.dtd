@@ -59,6 +59,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Ffenestri Amlbroses">
 
+<!ENTITY aboutSupport.appBasicsSafeMode "&amp;Modd Diogel">
 
 <!ENTITY aboutSupport.showDir.label "Agor Cyfeiriadur">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
