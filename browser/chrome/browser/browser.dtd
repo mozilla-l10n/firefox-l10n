@@ -93,7 +93,11 @@
 <!ENTITY fullScreenAutohide.accesskey "N">
 <!ENTITY fullScreenExit.label "Esci da schermo intero">
 <!ENTITY fullScreenExit.accesskey "E">
-<!ENTITY fullscreenExitHint2.value "Premere ESC in qualunque momento per uscire">
+<!ENTITY fullscreenWarning.beforeDomain.label "">
+<!ENTITY fullscreenWarning.afterDomain.label "è ora visualizzato a schermo intero">
+<!ENTITY fullscreenWarning.generic.label "Questo documento è ora visualizzato a schermo intero">
+<!ENTITY exitDOMFullscreen.button "Esci da schermo intero (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "Esci da schermo intero (esc)">
 <!ENTITY leaveDOMFullScreen.label "Esci da schermo intero">
 <!ENTITY leaveDOMFullScreen.accesskey "h">
 <!ENTITY closeWindow.label "Chiudi finestra">
