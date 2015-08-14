@@ -5,5 +5,5 @@
    %brandDTD;
 <!ENTITY aboutLogins.title                       "Clàraidhean a-steach">
 <!ENTITY aboutLogins.update                      "Ùraich">
-
-
+<!ENTITY aboutLogins.emptyLoginText              "Cum sàbhailte na clàraidhean agad">
+<!ENTITY aboutLogins.emptyLoginHint              "Nochdaidh clàraidhean, ainmean is faclan-faire a shàbhaileas tu le &brandShortName; an-seo.">
