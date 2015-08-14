@@ -354,6 +354,11 @@ size. -->
 <!ENTITY pref_titlebar_mode_title "Pokazywanie tytułu strony">
 <!ENTITY pref_titlebar_mode_url "Pokazywanie adresu strony">
 
+<!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
+     whether or not the magnifying glass is disabled. -->
+<!ENTITY pref_prevent_magnifying_glass "Wyłącz lupę ">
+<!ENTITY pref_prevent_magnifying_glass_summary "Wyłącz użycie lupy do rozstrzygania niejednoznacznych dotknięć ekranu">
+
 <!ENTITY pref_scroll_title_bar2 "Przeglądanie pełnoekranowe">
 <!ENTITY pref_scroll_title_bar_summary "Ukryj pasek tytułu przeglądarki &brandShortName; przy przewijaniu stron">
 
