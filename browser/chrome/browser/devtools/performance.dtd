@@ -53,7 +53,7 @@
   -  in the toolbar on buttons that select which view is currently shown. -->
 
 <!ENTITY performanceUI.toolbar.waterfall "Eas">
-
+<!ENTITY performanceUI.toolbar.js-calltree "Crann na nGlaonna">
 <!ENTITY performanceUI.toolbar.memory-calltree "Leithdháilte">
 <!ENTITY performanceUI.toolbar.js-flamegraph "Bladhmchairt JS">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "Bladhmchairt Leithdháilte">
