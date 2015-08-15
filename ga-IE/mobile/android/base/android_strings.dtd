@@ -414,7 +414,7 @@ size. -->
      whether or not the magnifying glass is disabled. -->
 
 <!ENTITY pref_prevent_magnifying_glass "Díchumasaigh an gloine formhéadúcháin ">
-
+<!ENTITY pref_prevent_magnifying_glass_summary "Ná húsáid an gloine formhéadúcháin le tadhaill dhoiléire a réiteach">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -567,16 +567,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixed_content_blocked_all "Chuir &brandShortName; cosc ar eilimintí neamhshlána ar an leathanach seo.">
 <!ENTITY mixed_content_blocked_some "Chuir &brandShortName; cosc ar roinnt eilimintí neamhshlána ar an leathanach seo.">
 <!ENTITY mixed_content_display_loaded "Tá roinnt eilimintí neamhshlána ar an leathanach seo.">
-
+<!ENTITY mixed_content_protection_disabled "Dhíchumasaigh tú cosaint ar eilimintí neamhshlána.">
 
 <!ENTITY loaded_mixed_content_message "Ábhar neamhshlán á thaispeáint ar an leathanach seo.">
 <!ENTITY blocked_mixed_content_message_top "Chuir &brandShortName; cosc ar ábhar neamhshlán.">
 <!ENTITY blocked_mixed_content_message_bottom "Feidhmíonn suímh Ghréasáin mar is ceart fiú nuair a bhíonn bac ar an ábhar seo.">
 <!-- Tracking content notifications in site identity popup -->
+
+<!ENTITY doorhanger_tracking_title "Cosaint ar lorg">
 <!ENTITY doorhanger_tracking_state_enabled "Cumasaithe">
 <!ENTITY doorhanger_tracking_state_disabled "Díchumasaithe">
-
-
+<!ENTITY doorhanger_tracking_message_enabled1 "Cuireadh cosc ar iarrachtaí d\u0027iompar ar líne a lorg.">
+<!ENTITY doorhanger_tracking_message_disabled2 "Tá eilimintí ar an leathanach seo a d\u0027fhéadfadh do bhrabhsáil a lorg.">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "Tuilleadh Eolais">
@@ -685,6 +687,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
+
+<!ENTITY devtools_auth_scan_header "Ag scanadh an chóid QR ar an ngléas eile">
 <!-- Restrictions -->
 <!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
