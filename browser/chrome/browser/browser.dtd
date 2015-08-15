@@ -692,23 +692,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionVerified "&brandShortName;(e)k egiaztatu du gune honetara modu segurua konektatuta zaudela. Arduraduna:">
 <!ENTITY identity.connectionInternal "&brandShortName; orri segurua da hau.">
 <!-- Strings for connection state warnings. -->
-
-
-
+<!ENTITY identity.passiveLoaded "Orri honetako zenbait atal ez dira seguruak (adib. irudiak).">
+<!ENTITY identity.activeLoaded "Babesa desgaitu duzu orri honetan.">
+<!ENTITY identity.weakEncryption "Orri honek zifraketa ahula erabiltzen du.">
 <!-- Strings for connection state warnings in the subview. -->
 
+<!ENTITY identity.description.insecure "Gune honetarako zure konexioa ez da pribatua. Bidaltzen duzun informazioa besteek ikus lezakete (adibidez pasahitzak, mezuak, kreditu txartelak, etab.).">
+<!ENTITY identity.description.weakCipher "Gune honetarako zure konexioak zifraketa ahula erabiltzen du eta ez da pribatua.">
+<!ENTITY identity.description.weakCipher2 "Besteek zure informazioa ikusi edo webgunearen portaera alda lezakete.">
+<!ENTITY identity.description.activeBlocked "&brandShortName;(e)k seguruak ez diren orri honetako atalak blokeatu ditu.">
+<!ENTITY identity.description.passiveLoaded "Zure konexioa ez da pribatua eta gunearekin partekatzen duzun informazioa besteek ikus lezakete.">
+<!ENTITY identity.description.passiveLoaded2 "Wegune honek segurua ez den edukia dauka (adibidez irudiak).">
+<!ENTITY identity.description.passiveLoaded3 "Nahiz eta &brandShortName;(e)k zenbait eduki blokeatu duen, segurua ez den edukia dauka oraindik orriak (adibidez irudiak).">
+<!ENTITY identity.description.activeLoaded "Wegune honek segurua ez den edukia dauka (adibidez script-ak) eta zure konexioa ez da pribatua.">
+<!ENTITY identity.description.activeLoaded2 "Gune honekin partekatzen duzun informazioa besteek ikus lezakete (adibidez pasahitzak, mezuak, kreditu txartelak, etab.).">
 
-
-
-
-
-
-
-
-
+<!ENTITY identity.enableMixedContentBlocking.label "Gaitu babesa">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "G">
 <!ENTITY identity.disableMixedContentBlocking.label "Desgaitu babesa momentuz">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
-
+<!ENTITY identity.learnMore "Argibide gehiago">
 
 <!ENTITY identity.moreInfoLinkText2 "Informazio gehiago">
 
@@ -785,29 +788,32 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "k">
 <!ENTITY getUserMedia.selectMicrophone.label "Partekatzeko mikrofonoa:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "m">
-
+<!ENTITY getUserMedia.audioCapture.label "Fitxatik datorren audioa partekatu egingo da.">
 <!ENTITY getUserMedia.allWindowsShared.message "Zure pantailan ikusgai dauden leiho guztiak partekatuko dira.">
 
+<!ENTITY trackingProtection.title "Jarraipenaren babesa">
 
 
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-
+<!ENTITY trackingProtection.unblock.label "Desgaitu babesa gune honetarako">
+<!ENTITY trackingProtection.unblock.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-
-
-
+<!ENTITY trackingProtection.unblockPrivate.label "Desgaitu babesa saio honetarako">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "D">
+<!ENTITY trackingProtection.block2.label "Gaitu babesa">
+<!ENTITY trackingProtection.block2.accesskey "G">
 
 <!ENTITY trackingContentBlocked.message "Jarraipena">
 <!ENTITY trackingContentBlocked.moreinfo "Zure lineako jardueraren jarraipena egiten duten orriaren zatiak blokeatu egin dira.">
 <!ENTITY trackingContentBlocked.learnMore "Argibide gehiago">
-
-
-
+<!ENTITY trackingContentBlocked.options "Aukerak">
+<!ENTITY trackingContentBlocked.unblock2.label "Desgaitu babesa gune honetarako">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "Gaitu babesa">
 <!ENTITY trackingContentBlocked.block.accesskey "G">
 <!ENTITY trackingContentBlocked.disabled.message "Jarraipenaren babesa desgaituta dago">
