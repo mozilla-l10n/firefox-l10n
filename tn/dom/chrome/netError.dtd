@@ -1,6 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY loadError.label "Phoso ya go laisa tsebe ">
 <!ENTITY retry.label "Leka Gape">
 <!-- Specific error messages -->
 
@@ -16,13 +18,16 @@
 
 <!ENTITY fileNotFound.longDesc "<ul><li>Fa selo se teilwe leina sesha, se ntshiwa kana se fudusitswe?</li><li>Aa gona le phosego ya mokwalo mo atereseng?</li><li>Aa o na le teseletso e e motia mo selong se o se batlang?</li></ul>">
 
+<!ENTITY generic.title "Ga e kgone go feleletsa topo">
+<!ENTITY generic.longDesc "<p>Tshedimosetso ya tlaleletso ka bothata jo kgotsa phoso gaeyo mo bogompienong.</p>">
 
-
-
+<!ENTITY malformedURI.title "Aterese ga se yone">
+<!ENTITY malformedURI.longDesc "<p>Aterese e o e tsentseng ga e mo moalong o o letlelesegang. Tsweetswee tlhola bara ya lefelo go ntsha diphoso ebe o leka gape.</p>">
 
 <!ENTITY netInterrupt.title "Phuduso ya tshedimosetso e kgaupeditswe">
 <!ENTITY netInterrupt.longDesc "<p>Sebatli se atlegile mo kgolaganong, mme kgolagano e kgaupeditswe ka nako ya phuduso ya tshedimosetso. Tsweetswee leka gape.</p><ul><li>Gao kgone go batla ditsha tse dingwe? Tlhola kgologano ya sebaladidikadike.</li><li>Ntse o tshwere bothata? Itomaganye le molaola kgolagono kgotsa moanamisa mafaratlhatlha a enthanet go go thusa.</li></ul>">
 
+<!ENTITY notCached.title "Tokumente e fetilwe ke nako">
 <!ENTITY notCached.longDesc "<p>Tokumente e kopilweng ga e teng mo polokotshedimosetso ya gangwe le gape ya sebatli.</p><ul><li>Ka Itiso ya pabalesego, sebatli ga se itirise go kopa gape ditokumente tsa sephiri .</li><li>Tobetsa Leka Gape go kopa gape tokumente mo webosaeteng.</li></ul>">
 
 <!ENTITY netOffline.longDesc2 "<p> Sebatli se dira ka mokgwa o sa golaganang mme ga se kake sa golagana le selwana se se kopilweng.</p><ul><li>A khomputara e golaganye le mafaratlhatlha a dirisiwang?</li><li>Tobetsa &quot;Leka Gape&quot; go fetolela mo mokgwa kgolaganong ka mafaratlhatlha a bo o tsenya sešwa tsebe.</li></ul>">
@@ -43,9 +48,11 @@
 <!ENTITY unknownProtocolFound.title "Tsamaiso e sa Itsiweng">
 <!ENTITY unknownProtocolFound.longDesc "<p>Aterese e papamatsa tsamaiso (e.g. <q>wxyz://</q>) sebatli gase e lemoge, kajalo sebatli gase kgone go golagana le setsha.</p><ul><li>Aa o leka go dirisa Mmediamentsi  kgotsa sepe se eseng mokwalo? Tlhola tse di batliwang ke setsha.</li><li>Ditsamaiso tse dingwe di ka gwetlha tiriso ya dirweboletla tsa tshereganyo kgotsa dioketswa pele ga sebatli se ka di lemoga.</li></ul>">
 
+<!ENTITY proxyConnectFailure.title "Sefara ya setshwareledi e ganne kgolagano">
 
 
-
+<!ENTITY proxyResolveFailure.title "Sefara ya kemelo ga e a bonwa">
+<!ENTITY proxyResolveFailure.longDesc "<p>Sebatli se dirilwe gore se dirise sefara ya tshwarelelo, mme setshwareledi ga se bonale.</p><ul><li>Aa kgolagano ya setshwareledi sa sebatli se siame? Tlhola dipaakanyo ebe o leka gape.</li><li>Aa sebaladidikadike se goketswe mo kgolaganong e e mo tirisong?</li><li>Fa go santse gona le bothata, itomaganye le mothokomedi wa dithaeletsanyo kgotsa moanamisa enthanet go go thusa.</li></ul>">
 
 <!ENTITY redirectLoop.title "Fetisa Poapoeletso">
 <!ENTITY redirectLoop.longDesc "<p>Sebatli se emisitse go leka go ntsha selwana se se kopilweng. Saete e fetisetsa kopo ka tsela e ka se tlholeng e digela.</p><ul><li>A o kganetse go dira kgotsa o thibetse dikhukhi tse di lopiwang ke saete e?</li><li><em>NTLHATLALELETSO</em>: Fa o amogela gore dikhukhi tsa saete e ga di baakanye bothata, e ka tswa e le bothata jwa thulaganyo ya sefara e seng khomputara ya gago.</li></ul>">
@@ -56,6 +63,7 @@
 <!ENTITY nssFailure2.title "Kgolagano e Sireletsegileng e Retetse">
 <!ENTITY nssFailure2.longDesc2 "<p>Tsebe e o lekang go e leba ga e kake ya bontshiwa ka gore boammaaruri jwa tshedimosetso e amogetsweng ga boa kgonwa go rurifadiwa.</p><ul><li>Tswêê-tswêê itshwaraganye le beng ba webosaete go ba itsise ka bothata jo.</li></ul>">
 
+<!ENTITY nssBadCert.title "Kgolagano e Sireletsegileng e Reteletswe ">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
 <li>Se ekatswa ele bothata jwa kgola gano ya sefara, kgotsa ele mongwe yo o lekang go itira sefara.</li> 
 <li>Fa okile wa atlega mo go ikgolaganyeng le sefara e, phoso ekatswa ele ya nakwana,kajalo o ka leka gape moragonyana.</li> 
@@ -69,7 +77,8 @@
 <!ENTITY unwantedBlocked.longDesc "<p>Tsebe ya serweboleta e sa batliweng e leka go tsenya serweboleta se seka nna le tsietso le go ama thulaganyo ka tsela e sa solofelwang.</p>">
 
 <!ENTITY phishingBlocked.title "Togo Maaka ya Webo e Belaesegang!">
-
+<!ENTITY phishingBlocked.longDesc "<p>Go tsenya tshedimosetso ka gagago mo tsebeng e go ka gwetlha bogodu jwa jwa tshedimosetso ya sephiri kgotsa metlhale e mengwe ya tsietso.</p> 
+<p>Mefuta e ya bogodu jwa webo e dirisiwa mo burukuthing jo bo itseweng ele tlhaselo ya ngokelothaelong,mo go dirisiwang ditsebe tsa webo tse eseng tsa boammaaruri le diImeile di dirisiwa go itira metswedi e o e tshephang.</p>">
 
 <!ENTITY cspBlocked.title "Go thibetswe ke molao wa tshireletso ya diteng">
 <!ENTITY cspBlocked.longDesc "<p>Sebatli se thibetse tsebe e go tsenya ka tsela e ntseng jaana ka gore tsebe e na le pholisi ya diteng pabalesego e sa e letleleleng.</p>">
