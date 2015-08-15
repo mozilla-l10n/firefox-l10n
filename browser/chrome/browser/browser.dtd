@@ -644,6 +644,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "D">
 
+<!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "Stíl Leathanaigh">
 <!ENTITY pageStyleMenu.accesskey "L">
@@ -683,7 +684,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "Déanta">
 <!ENTITY editBookmark.cancel.label                   "Cealaigh">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Ceangal Slán">
 <!ENTITY identity.connectionNotSecure "Ní Ceangal Slán é seo">
