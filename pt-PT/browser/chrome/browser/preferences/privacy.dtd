@@ -4,10 +4,11 @@
 
 <!ENTITY tracking.label                 "Monitorização da navegação">
 
-
+<!ENTITY dntTrackingNotOkay4.label     "Pedir aos sítios que não o monitorizem">
+<!ENTITY dntTrackingNotOkay4.accesskey "n">
 <!ENTITY doNotTrackInfo.label          "Saber mais">
-
-
+<!ENTITY trackingProtection5.label     "Utilizar proteção de monitorização">
+<!ENTITY trackingProtection5.accesskey "i">
 <!ENTITY trackingProtectionLearnMore.label "Saber mais">
 
 
