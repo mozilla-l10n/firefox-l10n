@@ -87,8 +87,9 @@
 <!ENTITY display.accesskey            "ض">
 <!ENTITY display.key                  "l">
 
+<!ENTITY pprint.label                 "جمّل">
 
-
+<!ENTITY pprint.accesskey             "ج">
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
   -  menu in the text area. It refers to the JavaScript Environment (or context)
