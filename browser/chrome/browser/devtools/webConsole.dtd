@@ -13,7 +13,7 @@
 
 <!ENTITY networkPanel.requestURLColon             "URL pedido:">
 <!ENTITY networkPanel.requestMethodColon          "Método do pedido:">
-<!ENTITY networkPanel.statusCodeColon             "Código do estado:">
+<!ENTITY networkPanel.statusCodeColon             "Código de estado:">
 
 <!ENTITY networkPanel.requestHeaders              "Cabeçalho do pedido">
 <!ENTITY networkPanel.requestCookie               "Cookie enviado">
