@@ -27,10 +27,11 @@
 
 <!ENTITY searchTextBox.clear.label "Očisti">
 
+<!ENTITY fillLoginMenu.label          "Popuni prijavu">
+<!ENTITY fillLoginMenu.accesskey      "o">
 
 
 
 
-
-
-
+<!ENTITY noLoginSuggestions.label     "(Nema predloženih prijava)">
+<!ENTITY viewSavedLogins.label        "Prikaži spašene prijave">
