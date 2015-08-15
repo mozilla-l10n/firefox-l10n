@@ -18,6 +18,10 @@
 <!ENTITY performanceUI.toolbar.memory-calltree "Аллокации">
 <!ENTITY performanceUI.toolbar.js-flamegraph "JS Flame Chart">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "Allocations Flame Chart">
+<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Shows the different operations the browser is performing during the recording, laid out sequentially as a waterfall.">
+<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Highlights JavaScript functions where the browser spent most time during the recording.">
+<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Shows the JavaScript call stack over the course of the recording.">
+<!ENTITY performanceUI.toolbar.allocations.tooltiptext "Shows where memory was allocated during the recording.">
 <!ENTITY performanceUI.table.totalDuration "Общее время">
 <!ENTITY performanceUI.table.totalDuration.tooltip "Количество времени, проведенного в этой функции, и функциях, которые она вызывает.">
 <!ENTITY performanceUI.table.selfDuration "Своё время">
@@ -34,7 +38,6 @@
 <!ENTITY performanceUI.table.totalAlloc.tooltip "Общее число аллокаций Объекта, замерянных в этом месте и в вызовах.">
 <!ENTITY performanceUI.table.selfAlloc "Замерянные у себя аллокации">
 <!ENTITY performanceUI.table.selfAlloc.tooltip "Число аллокаций Объекта, замерянных в этом месте.">
-<!ENTITY performanceUI.newtab.tooltiptext "Добавить из выбора новую вкладку">
 <!ENTITY performanceUI.options.filter.tooltiptext "Выберите данные для отображения на временной шкале">
 <!ENTITY performanceUI.options.gear.tooltiptext "Установить настройки производительности.">
 <!ENTITY performanceUI.invertTree "Инверсия дерева вызовов">

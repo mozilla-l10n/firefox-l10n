@@ -364,13 +364,10 @@
 <!ENTITY identity_connected_to "Вы соединены с">
 <!ENTITY identity_connection_secure "Защищённое соединение">
 <!ENTITY identity_connection_insecure "Незащищённое соединение">
-<!ENTITY mixed_content_blocked_all "&brandShortName; заблокировал небезопасные элементы на этой странице.">
-<!ENTITY mixed_content_blocked_some "&brandShortName; заблокировал некоторые небезопасные элементы на этой странице.">
-<!ENTITY mixed_content_display_loaded "На этой странице есть некоторые небезопасные элементы.">
-<!ENTITY mixed_content_protection_disabled "Вы отключили защиту от небезопасных элементов.">
-<!ENTITY loaded_mixed_content_message "Эта страница отображает содержимое, не являющееся безопасным.">
-<!ENTITY blocked_mixed_content_message_top "&brandShortName; заблокировал содержимое, не являющееся безопасным.">
-<!ENTITY blocked_mixed_content_message_bottom "Большинство веб-сайтов будут продолжать нормально работать, даже когда это содержимое заблокировано.">
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; заблокировал небезопасное содержимое на этой странице.">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; заблокировал некоторое небезопасное содержимое на этой странице.">
+<!ENTITY mixed_content_display_loaded1 "Части этой страницы (такие как изображения) не защищены.">
+<!ENTITY mixed_content_protection_disabled1 "Вы отключили защиту от небезопасного содержимого.">
 <!ENTITY doorhanger_tracking_title "Защита от отслеживания">
 <!ENTITY doorhanger_tracking_state_enabled "Включена">
 <!ENTITY doorhanger_tracking_state_disabled "Отключена">
