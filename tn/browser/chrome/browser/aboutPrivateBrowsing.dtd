@@ -6,7 +6,7 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Bula Window e Poraefete">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "W">
 
-<!ENTITY privateBrowsing.title                 "Patlo e Poraefete">
+<!ENTITY privateBrowsing.title                 "Patloya Sephiri">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
      Width of the Private Browsing section.
      -->
@@ -18,17 +18,17 @@
      aboutPrivateBrowsing.kept when the new visual design lands (bug 1192625).
      -->
 
-<!ENTITY aboutPrivateBrowsing.title            "O batlela mo sephiring">
-<!ENTITY aboutPrivateBrowsing.subtitle         "Mo window e, &brandShortName; ga e kake ya gakologelwa motlhala ope.">
+<!ENTITY aboutPrivateBrowsing.title            "O mo patlong ya sephiri">
+<!ENTITY aboutPrivateBrowsing.subtitle         "Mo letlhabaphefong ee, &brandShortName; ga e kake ya gakologelwa motlhala ope.">
 
-<!ENTITY aboutPrivateBrowsing.forgotten        "Mo window e, &brandShortName; ga e kake ya gakologelwa:">
-<!ENTITY aboutPrivateBrowsing.info.forgotten   "Lebetswe">
-<!ENTITY aboutPrivateBrowsing.info.history     "Tiragalo tse di fetileng">
+<!ENTITY aboutPrivateBrowsing.forgotten        "Mo letlhabaphefong le, &brandShortName; ga e kake ya gakologelwa:">
+<!ENTITY aboutPrivateBrowsing.info.forgotten   "lebetswe">
+<!ENTITY aboutPrivateBrowsing.info.history     "ditso">
 <!ENTITY aboutPrivateBrowsing.info.searches    "Dipatlo">
-<!ENTITY aboutPrivateBrowsing.info.cookies     "Dikhoki">
-<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Difaele tsa Nakwana">
+<!ENTITY aboutPrivateBrowsing.info.cookies     "Dikhukhi">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Difaele tsa nakwana">
 
-<!ENTITY aboutPrivateBrowsing.kept             "&brandShortName; e tla tshegetsa:">
+<!ENTITY aboutPrivateBrowsing.kept             "&brandShortName; e tla boloka:">
 <!ENTITY aboutPrivateBrowsing.info.kept        "Tshegeditswe">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Dikopololo">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Matshwaotsebe">
