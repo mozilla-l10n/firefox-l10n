@@ -563,8 +563,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all "&brandShortName; نے اس صفحے پر ناقابل بھروسا عناصر بلاک کر دیے ہیں۔">
-
-
+<!ENTITY mixed_content_blocked_some "&brandShortName; نے اس صفحے پر کچھ ناقابل بھروسا عناصر بلاک کر دیے ہیں۔ ">
+<!ENTITY mixed_content_display_loaded "اس صفحہصفحے پر کچھ ناقابل بھروسا عناصر ہیں۔">
 
 
 <!ENTITY loaded_mixed_content_message "یہ صفحہ مواد دکھا رہا ہے جو قابل بھروسا نہیں ہے۔">
@@ -650,6 +650,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      is a reserved caracter. In order to display one percent sign in the result of getString,
      double percent signs must be inserted in the format string.
      This entity is used in the zoomed view to display the zoom factor-->
+
+<!ENTITY percent "&formatS;&#037;&#037;">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
@@ -685,10 +687,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
-
-
-
-
+<!ENTITY restriction_disallow_devtools_title2 "ڈیولپر ٹول نا اہل بنائیں">
+<!ENTITY restriction_disallow_customize_home_title2 "ابتدائی صفحہ تخصیص کاری نا اہل بنائیں">
+<!ENTITY restriction_disallow_private_browsing_title2 "نجی براؤزنگ نا اہل بنائیں">
+<!ENTITY restriction_disallow_location_services_title2 "محل وقوع خدمات نا اہل بنائیں">
 
 
 
