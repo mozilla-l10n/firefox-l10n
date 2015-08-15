@@ -13,7 +13,7 @@
 
 <!ENTITY dnsNotFound.longDesc "<p>Sebatli ga se a kgona go bona pinagare ya sefara ya aterese e neetsweng.</p><ul><li>A o dirile phoso fa o tlanya bonno?(sekai <q><strong>ww</strong>.mozilla.org</q> boemong jwa <q><strong>www</strong>.mozilla.org</q>)</li><li>A o tlhomamisa fa aterese ya bonno e sa le gone?  Ikwadiso ya yone e ka tswa e khutlile tirisong.</li><li>A ga o kgone go batla disaete tse dingwe?  Tlhola mafaratlhatlha a kgolagano ya gago le dithulaganyo tsa sefara ya DNS.</li><li>A khomputara ya gago kgotsa mafaratlhatlha a sireleditswe ka mopakwana kgotsa kemela?  Dithulaganyo tse di sa Siamang di ka kgoreletsana le patlo ya Webo.</li></ul>">
 
-
+<!ENTITY fileNotFound.longDesc "<ul><li>Fa selo se teilwe leina sesha, se ntshiwa kana se fudusitswe?</li><li>Aa gona le phosego ya mokwalo mo atereseng?</li><li>Aa o na le teseletso e e motia mo selong se o se batlang?</li></ul>">
 
 
 
@@ -63,10 +63,11 @@
 <!ENTITY phishingBlocked.title "Togo Maaka ya Webo e Belaesegang!">
 
 
+<!ENTITY cspBlocked.title "Go thibetswe ke molao wa tshireletso ya diteng">
 <!ENTITY cspBlocked.longDesc "<p>Sebatli se thibetse tsebe e go tsenya ka tsela e ntseng jaana ka gore tsebe e na le pholisi ya diteng pabalesego e sa e letleleleng.</p>">
 
 <!ENTITY corruptedContentError.title "Phoso ya Diteng tse di Senyegileng">
-
+<!ENTITY corruptedContentError.longDesc "<p>Tsebe e o lekang go e leba ga e kake ya bontshiwa ka gore boammaaruri jwa tshedimosetso e amogetsweng ga boa kgonwa go rurifadiwa.</p><ul><li>Tswêê-tswêê itshwaraganye le beng ba webosaete go ba itsise ka bothata jo.</li></ul>">
 
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Tswêê-tswêê itshwaraganye le beng ba webosaete go ba itsese ka bothaka jo.</li></ul></p>">
 <!-- Include app-specific error messages - do not change this in localization!
