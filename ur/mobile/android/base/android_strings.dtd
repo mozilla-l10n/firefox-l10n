@@ -10,6 +10,7 @@
 <!ENTITY  onboard_start_subtext3 "اپنے موبائل براؤزنگ تجربے کو واقعی اپنا بنائیں۔">
 <!ENTITY  onboard_start_button_account "&brandShortName; میں سائن ان کریں">
 <!ENTITY  onboard_start_button_browser "براؤزنگ شروع کریں">
+<!ENTITY  onboard_start_restricted1 "&brandShortName; کی اس سادہ کردہ ورژن کے ساتھ محفوظ رہیں اور کنٹرول اپنے ہاتھ میں رکھیں۔">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -68,6 +69,8 @@
 <!ENTITY edit_mode_cancel "منسوخ کریں">
 
 <!ENTITY close_tab "ٹیب بند کردیں">
+
+
 <!ENTITY one_tab "1 ٹیب">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -155,6 +158,9 @@
 <!ENTITY pref_search_hint "ٹوٹکا: کسی بھی ویب سائٹ کو اپنے تلاش مہیا کنندہ کے فہرست میں ڈالنے کے لیے اس کی تلاش قطعہ پر لمبا دبائیں اور پھر &formatI; آئکن پر کلک کریں۔">
 <!ENTITY pref_category_devtools "ڈیولپر ٹول">
 <!ENTITY pref_developer_remotedebugging "بعید ٹھیک کاری">
+
+
+
 <!ENTITY pref_category_logins "لاگ ان">
 <!ENTITY pref_remember_signons2 "لاگ ان یاد رکھیں">
 <!ENTITY pref_open_external_urls_privately_title "ربط نجی براؤزنگ میں کھولیں">
@@ -191,16 +197,19 @@
 <!ENTITY pref_cookies_not_accept_foreign "اہل، ماسوائے تیسرے فریق">
 <!ENTITY pref_cookies_disabled "نااہل">
 
-<!ENTITY pref_tracking_protection_title "سراغ کاری حفاظت">
-<!ENTITY pref_tracking_protection_summary "&brandShortName; سائٹوں کو آپ کا سراغ لگانے سے روکے گا">
+
 <!ENTITY pref_donottrack_title "میرا سراغ نہ لگائیں">
 <!ENTITY pref_donottrack_summary "&brandShortName; سائٹوں کو بتائے گا کہ آپ اپنا سراغ نہیں لگوانا چاہتے">
+
+
+
+
 
 <!ENTITY tab_queue_toast_message3 "ٹیب &brandShortName; میں محفوظ کر دیا">
 <!ENTITY tab_queue_toast_action "ابھی کھولیں">
 <!ENTITY tab_queue_prompt_title "ایک سے زیادہ روابط کھولیں؟">
-<!ENTITY tab_queue_prompt_text3 "آپ کے اگلی بار &brandShortName; کھولنے تک انہیں محفوظ کریں">
-<!ENTITY tab_queue_prompt_tip_text "اس کو آپم بعد میں سیٹنگوں میں بدل سکتے ہیں">
+
+
 <!ENTITY tab_queue_prompt_positive_action_button "اہل بنائیں">
 <!ENTITY tab_queue_prompt_negative_action_button "ابھی نہیں">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
@@ -330,7 +339,6 @@ size. -->
 <!ENTITY addons "ایڈ اون">
 <!ENTITY logins "لاگ ان">
 <!ENTITY downloads "ڈاؤن لوڈ">
-<!ENTITY apps "ایپس">
 <!ENTITY char_encoding "کریکٹر ضابطہ بندی">
 
 <!ENTITY share "شیئر کریں">
@@ -400,6 +408,9 @@ size. -->
 <!ENTITY pref_titlebar_mode "عنوان بار">
 <!ENTITY pref_titlebar_mode_title "صفحہ عنوان دکھائیں">
 <!ENTITY pref_titlebar_mode_url "صفحہ کا پتہ دکھائیں">
+<!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
+     whether or not the magnifying glass is disabled. -->
+
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -425,10 +436,8 @@ size. -->
 <!ENTITY site_settings_cancel       "منسوخ کریں">
 <!ENTITY site_settings_clear        "صاف کریں">
 <!ENTITY site_settings_no_settings  "صاف کرنے کے لیے کوئی سیٹنگیں نہیں۔">
-<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+<!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
-
-<!ENTITY reading_list_added2 "فہرست میں اضافہ کردہ">
 <!ENTITY reading_list_removed "آپ کے پڑھنے والی فہرست سے صفحہ ہٹا دیا گیا">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -545,21 +554,20 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_run_by "جو جلائی جا رہی ہے بر">
-<!ENTITY identity_no_info "یہ ویب سائٹ شناخت کی معلومات نہیں دیتی۔">
-<!ENTITY identity_not_encrypted "آپ کی اس ویب سائٹ کے ساتھ کنکشن خفیہ کردہ نہیں ہے۔">
-<!ENTITY identity_encrypted "خفیہ کردہ">
+
 <!-- Mixed content notifications in site identity popup -->
+
+
+
 
 <!ENTITY loaded_mixed_content_message "یہ صفحہ مواد دکھا رہا ہے جو قابل بھروسا نہیں ہے۔">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; نے ناقابل بھروسا مواد بلاک کر دیا ہے۔">
 <!ENTITY blocked_mixed_content_message_bottom "اس مواد کے بلاک ہونے کے باوجود زیادہ تر ویب سائٹ ٹھیک چلیں گی۔">
 <!-- Tracking content notifications in site identity popup -->
 
-<!ENTITY loaded_tracking_content_message_top "سراغ کاری حفاظت نا اہل بنائیں۔">
-<!ENTITY loaded_tracking_content_message_bottom "اس صفحے کے کچھ حصے آپ کی آن لائن سرگرمیوں کا سراغ لگا سکتے ہیں۔">
-<!ENTITY blocked_tracking_content_message_top2 "سراغ کاری حفاظت اہل۔">
-<!ENTITY blocked_tracking_content_message_bottom2 "صفحہ کے کچھ حصے جو آپ کی آن لائن سرگرمیوں کا سراغ لگاتے ہیں انہیں بلاک کردیا گیا ہے۔">
+
+
+
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "اور سیکھیں">
@@ -643,10 +651,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Voice search in the awesome bar -->
 
 <!ENTITY voicesearch_prompt "ابھی بولیں">
-<!ENTITY voicesearch_failed_title "&brandShortName; آواز تلاش">
-<!ENTITY voicesearch_failed_message "اس وقت آواز تلاش میں کچھ مسلہ ہے۔ بعد میں کوشش کریں۔">
-<!ENTITY voicesearch_failed_message_recoverable "ہم آپ کے الفاظ پہچان نہیں سکے۔ پھر کوشش کریں۔">
-<!ENTITY voicesearch_failed_retry "دوبارہ کوشش کریں">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -664,3 +668,22 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY find_matchcase "Aa">
 
 <!ENTITY intent_uri_cannot_open "ربط نہیں کھول سکا">
+<!-- DevTools Authentication -->
+<!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
+     above a QR reader that is actively scanning for QR codes.  The expected QR
+     code has already been displayed by the client trying to connect (such as
+     desktop Firefox via WebIDE), so you just need to aim this device at the QR
+     code. -->
+<!-- Restrictions -->
+<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+     a restricted profile (e.g. child). Used inside the Android settings UI. -->
+
+
+
+
+
+
+
+
+
+
