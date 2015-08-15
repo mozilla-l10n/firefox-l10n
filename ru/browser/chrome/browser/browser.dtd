@@ -93,7 +93,11 @@
 <!ENTITY fullScreenAutohide.accesskey "к">
 <!ENTITY fullScreenExit.label "Выйти из полноэкранного режима">
 <!ENTITY fullScreenExit.accesskey "ы">
-<!ENTITY fullscreenExitHint2.value "Для выхода в любой момент нажмите клавишу ESC.">
+<!ENTITY fullscreenWarning.beforeDomain.label "">
+<!ENTITY fullscreenWarning.afterDomain.label "теперь находится в полноэкранном режиме">
+<!ENTITY fullscreenWarning.generic.label "Этот документ теперь находится в полноэкранном режиме">
+<!ENTITY exitDOMFullscreen.button "Выйти из полноэкранного режима (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "Выйти из полноэкранного режима (esc)">
 <!ENTITY leaveDOMFullScreen.label "Выйти из полноэкранного режима">
 <!ENTITY leaveDOMFullScreen.accesskey "ы">
 <!ENTITY closeWindow.label "Закрыть окно">
@@ -493,7 +497,7 @@
 <!ENTITY identity.connectionSecure "Защищённое соединение">
 <!ENTITY identity.connectionNotSecure "Незащищённое соединение">
 <!ENTITY identity.connectionFile "Эта страница хранится на вашем компьютере.">
-<!ENTITY identity.connectionVerified "&brandShortName; подтверждает, что вы подключились по защищённому соединению к этому сайту, управляемому:">
+<!ENTITY identity.connectionVerified1 "Вы подключились по защищённому соединению к этому сайту, управляемому:">
 <!ENTITY identity.connectionInternal "Это защищённая страница &brandShortName;.">
 <!ENTITY identity.activeBlocked "&brandShortName; заблокировал незащищённые части этой страницы.">
 <!ENTITY identity.passiveLoaded "Части этой страницы (такие как изображения) не защищены.">
@@ -518,8 +522,8 @@
 <!ENTITY tabsToolbar.label "Вкладки браузера">
 <!ENTITY syncTabsMenu2.label "Вкладки с других устройств">
 <!ENTITY syncBrand.shortName.label "Синхронизация">
-<!ENTITY syncSetup.label "Настроить синхронизацию…">
-<!ENTITY syncSetup.accesskey "с">
+<!ENTITY syncSignIn.label "Войти в Синхронизацию…">
+<!ENTITY syncSignIn.accesskey "о">
 <!ENTITY syncSyncNowItem.label "Синхронизировать">
 <!ENTITY syncSyncNowItem.accesskey "х">
 <!ENTITY syncReAuthItem.label "Присоединиться заново к Синхронизации…">
