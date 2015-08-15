@@ -9,8 +9,9 @@
 <!ENTITY connectionFailure.longDesc "<p>Lefa setsha se se lebega se siame, sebatli gasea kgona go bona kgolagano.</p><ul><li>Aa setsha gaseyo ka nakwana? Leka gape mogagonyana.</li><li>Gao kgone go batla mo ditsheng tsedingwe?Tlhola kgolagano ya sebaladidikadike.</li><li>Aa sebaladidikadike sa gago se sireleditswe ke mopakwana  kgotsa setshwareledi? Dithulaganyo tse eseng tsone di ka gwetlhagwetlhana le go batla ga gago mo webong.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Setshwaraganyi se Kganetswe ka Mabaka a tsa Pabalesego">
+<!ENTITY deniedPortAccess.longDesc "<p>Aterese e e kopilweng e papamaditse setshegetsi (e.g. <q>mozilla.org:80</q> for port 80 on mozilla.org) ka gale e dirisiwa go <em>other</em> gona le patol ya mo webong. Sebatli se emisitse topo go go sireletsa.</p>">
 
-
+<!ENTITY dnsNotFound.title "Aterese ga ya bonwa">
 <!ENTITY dnsNotFound.longDesc "<p>Sebatli ga se a kgona go bona pinagare ya sefara ya aterese e neetsweng.</p><ul><li>A o dirile phoso fa o tlanya bonno?(sekai <q><strong>ww</strong>.mozilla.org</q> boemong jwa <q><strong>www</strong>.mozilla.org</q>)</li><li>A o tlhomamisa fa aterese ya bonno e sa le gone?  Ikwadiso ya yone e ka tswa e khutlile tirisong.</li><li>A ga o kgone go batla disaete tse dingwe?  Tlhola mafaratlhatlha a kgolagano ya gago le dithulaganyo tsa sefara ya DNS.</li><li>A khomputara ya gago kgotsa mafaratlhatlha a sireleditswe ka mopakwana kgotsa kemela?  Dithulaganyo tse di sa Siamang di ka kgoreletsana le patlo ya Webo.</li></ul>">
 
 <!ENTITY fileNotFound.longDesc "<ul><li>Fa selo se teilwe leina sesha, se ntshiwa kana se fudusitswe?</li><li>Aa gona le phosego ya mokwalo mo atereseng?</li><li>Aa o na le teseletso e e motia mo selong se o se batlang?</li></ul>">
@@ -19,26 +20,28 @@
 
 
 
-
+<!ENTITY netInterrupt.title "Phuduso ya tshedimosetso e kgaupeditswe">
+<!ENTITY netInterrupt.longDesc "<p>Sebatli se atlegile mo kgolaganong, mme kgolagano e kgaupeditswe ka nako ya phuduso ya tshedimosetso. Tsweetswee leka gape.</p><ul><li>Gao kgone go batla ditsha tse dingwe? Tlhola kgologano ya sebaladidikadike.</li><li>Ntse o tshwere bothata? Itomaganye le molaola kgolagono kgotsa moanamisa mafaratlhatlha a enthanet go go thusa.</li></ul>">
 
 <!ENTITY notCached.longDesc "<p>Tokumente e kopilweng ga e teng mo polokotshedimosetso ya gangwe le gape ya sebatli.</p><ul><li>Ka Itiso ya pabalesego, sebatli ga se itirise go kopa gape ditokumente tsa sephiri .</li><li>Tobetsa Leka Gape go kopa gape tokumente mo webosaeteng.</li></ul>">
 
 <!ENTITY netOffline.longDesc2 "<p> Sebatli se dira ka mokgwa o sa golaganang mme ga se kake sa golagana le selwana se se kopilweng.</p><ul><li>A khomputara e golaganye le mafaratlhatlha a dirisiwang?</li><li>Tobetsa &quot;Leka Gape&quot; go fetolela mo mokgwa kgolaganong ka mafaratlhatlha a bo o tsenya sešwa tsebe.</li></ul>">
 
-
+<!ENTITY contentEncodingError.longDesc "<p>Tsebe e o lekang go e leba ga e kake ya bontshiwa ka gore boammaaruri jwa tshedimosetso e amogetsweng ga boa kgonwa go rurifadiwa.</p><ul><li>Tswêê-tswêê itshwaraganye le beng ba setsha se sa webo go ba itsise ka bothata jo.</li></ul> ">
 
 <!ENTITY unsafeContentType.title "Mofuta wa Faele o sa Babalesegang">
 <!ENTITY unsafeContentType.longDesc "<ul> 
 <li>Tswêê-tswêê itshwaraganye le beng ba webosaete go ba itsese ka bothaka jo.</li> 
 </ul>">
 
+<!ENTITY netReset.title "Kgolagano e kgaupeditswe">
 <!ENTITY netReset.longDesc "<p>Kgokagano ya mafaratlhatlha e ne ya kgaopediwa fa go buisanyediwa kgolagano.Tswêê-tswêê leka gape.</p>">
 
 <!ENTITY netTimeout.title "Kgolagano e fetilwe ke nako">
 <!ENTITY netTimeout.longDesc "<p> Saete e kopilweng ga e a tsibogela kopo ya kgolagano mme sebatli se emisitse go letela karabo.</p><ul><li>A e ka bo e le gore sefara e itemogela topo e kwa godimo kgotsa kgaogo ya nakwana?  Leka gape moragonyana.</li><li>A ga o kgone go batla disaete tse dingwe? Tlhola kgolagano ya mafaratlhatlha a khomputara.</li><li>A khomputara ya gago kgotsa mafaratlhatlha a sireleditswe ka mopakwana kgotsa kemela?  Dithulaganyo tse di sa siamang di kgoreletsana le Patlo ya webo.</li><li>O santse o na le bothata? Ikopanye le motsamaisa mafaratlhatlha wa gago kgotsa motlamedi wa inthanete go bona thuso.</li></ul>">
 
 <!ENTITY unknownProtocolFound.title "Tsamaiso e sa Itsiweng">
-
+<!ENTITY unknownProtocolFound.longDesc "<p>Aterese e papamatsa tsamaiso (e.g. <q>wxyz://</q>) sebatli gase e lemoge, kajalo sebatli gase kgone go golagana le setsha.</p><ul><li>Aa o leka go dirisa Mmediamentsi  kgotsa sepe se eseng mokwalo? Tlhola tse di batliwang ke setsha.</li><li>Ditsamaiso tse dingwe di ka gwetlha tiriso ya dirweboletla tsa tshereganyo kgotsa dioketswa pele ga sebatli se ka di lemoga.</li></ul>">
 
 
 
@@ -50,14 +53,19 @@
 <!ENTITY unknownSocketType.title "Phetolo e sa Siamang">
 <!ENTITY unknownSocketType.longDesc "<p>Saete e fetotse kopo ya mafaratlhatlha ka tsela e sa solofelwang mme sebatli ga se kake sa tswelela.</p>">
 
+<!ENTITY nssFailure2.title "Kgolagano e Sireletsegileng e Retetse">
 <!ENTITY nssFailure2.longDesc2 "<p>Tsebe e o lekang go e leba ga e kake ya bontshiwa ka gore boammaaruri jwa tshedimosetso e amogetsweng ga boa kgonwa go rurifadiwa.</p><ul><li>Tswêê-tswêê itshwaraganye le beng ba webosaete go ba itsise ka bothata jo.</li></ul>">
 
-
+<!ENTITY nssBadCert.longDesc2 "<ul> 
+<li>Se ekatswa ele bothata jwa kgola gano ya sefara, kgotsa ele mongwe yo o lekang go itira sefara.</li> 
+<li>Fa okile wa atlega mo go ikgolaganyeng le sefara e, phoso ekatswa ele ya nakwana,kajalo o ka leka gape moragonyana.</li> 
+</ul>">
 
 <!ENTITY malwareBlocked.title "Saete ya Tlhaselo e Belaesegang!">
 <!ENTITY malwareBlocked.longDesc "<p>Disaete tsa Tlhaselo di leka go tsenya porokeramo e utswang tshedimosetso e porokeramo, go dirisa khomputara ya gago go tlhasela ba bangwe, kgotsa go senya thulaganyo ya gago.</p> 
 <p>Beng ba di webosaete ba ba dumelang fa saete ya bone e begilwe e le saete ya tlhaselo mo phosong baka <a href='http://www.stopbadware.org/home/reviewinfo' >kopa tshekatsheko</a>.</p>">
 
+<!ENTITY unwantedBlocked.title "Pelaelo ya Serweboleta se sa Batliweng mo setsheng!">
 <!ENTITY unwantedBlocked.longDesc "<p>Tsebe ya serweboleta e sa batliweng e leka go tsenya serweboleta se seka nna le tsietso le go ama thulaganyo ka tsela e sa solofelwang.</p>">
 
 <!ENTITY phishingBlocked.title "Togo Maaka ya Webo e Belaesegang!">
@@ -69,6 +77,7 @@
 <!ENTITY corruptedContentError.title "Phoso ya Diteng tse di Senyegileng">
 <!ENTITY corruptedContentError.longDesc "<p>Tsebe e o lekang go e leba ga e kake ya bontshiwa ka gore boammaaruri jwa tshedimosetso e amogetsweng ga boa kgonwa go rurifadiwa.</p><ul><li>Tswêê-tswêê itshwaraganye le beng ba webosaete go ba itsise ka bothata jo.</li></ul>">
 
+<!ENTITY remoteXUL.title "Ntsha XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Tswêê-tswêê itshwaraganye le beng ba webosaete go ba itsese ka bothaka jo.</li></ul></p>">
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,
