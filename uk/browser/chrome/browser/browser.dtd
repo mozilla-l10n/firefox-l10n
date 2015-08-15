@@ -95,8 +95,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageInfoCmd.label "Інформація про сторінку">
 <!ENTITY pageInfoCmd.accesskey "І">
 <!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY mirrorTabCmd.label "Mirror Tab">
-<!ENTITY mirrorTabCmd.accesskey "m">
+<!ENTITY mirrorTabCmd.label "Дзеркальна вкладка">
+<!ENTITY mirrorTabCmd.accesskey "з">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "Повноекранний режим">
@@ -698,7 +698,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.weakEncryption "Ця сторінка використовує слабке шифрування.">
 
 <!-- Strings for connection state warnings in the subview. -->
+<!ENTITY identity.description.insecure "Ваше з'єднання з цим сайтом не є приватним. Інформація, яку ви відправляєте може бути переглянута іншими (наприклад, паролі, повідомлення, дані кредитних карт та ін.).">
+<!ENTITY identity.description.weakCipher "Ваше з'єднання з цим веб-сайтом використовує слабке шифрування і не є приватним.">
+<!ENTITY identity.description.weakCipher2 "Інші люди можуть переглядати вашу інформацію чи змінювати поведінку веб-сайту.">
+<!ENTITY identity.description.activeBlocked "&brandShortName; заблокував частини вмісту цієї сторінки, які не є безпечними.">
+<!ENTITY identity.description.passiveLoaded "Ваше з'єднання не є приватним й інформація, якою ви ділитесь з сайтом може бути переглянута іншими.">
+<!ENTITY identity.description.passiveLoaded2 "Цей веб-сайт має вміст, який не є безпечним (наприклад, зображення).">
+<!ENTITY identity.description.passiveLoaded3 "Хоча &brandShortName; заблокував деякий вміст, все ж на сторінці ще залишається вміст, який не є безпечним (наприклад, зображення).">
+<!ENTITY identity.description.activeLoaded "Цей веб-сайт має вміст, який не є безпечним (наприклад, сценарії) і ваше з'єднання з ним не є приватним.">
+<!ENTITY identity.description.activeLoaded2 "Інформація, якою ви ділитесь з цим сайтом може бути переглянута іншими (наприклад, паролі, повідомлення, дані кредитних карт та ін.).">
 
+<!ENTITY identity.enableMixedContentBlocking.label "Увімкнути захист">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "У">
+<!ENTITY identity.disableMixedContentBlocking.label "Тимчасово вимкнути захист">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "в">
+<!ENTITY identity.learnMore "Докладніше">
 
 <!ENTITY identity.moreInfoLinkText2 "Докладніше">
 
@@ -775,14 +789,25 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "к">
 <!ENTITY getUserMedia.selectMicrophone.label "Доступ до мікрофону:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "м">
+<!ENTITY getUserMedia.audioCapture.label "Аудіо з вкладки буде загальнодоступним.">
 <!ENTITY getUserMedia.allWindowsShared.message "Буде надано доступ до всіх видимих вікон на вашому дисплеї.">
 
+<!ENTITY trackingProtection.title "Захист від стеження">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; блокує частини сторінки, які можуть стежити за вашим переглядом.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "Цей сайт включає елементи, які можуть стежити за вашим переглядом. Ви вимкнули захист.">
+<!ENTITY trackingProtection.notDetected3 "На цій сторінці не виявлено елементів стеження.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock.label "Вимкнути захист для цього сайту">
+<!ENTITY trackingProtection.unblock.accesskey "В">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate.label "Вимкнути захист для цього сеансу">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "В">
+<!ENTITY trackingProtection.block2.label "Увімкнути захист">
+<!ENTITY trackingProtection.block2.accesskey "У">
 
 <!ENTITY trackingContentBlocked.message "Стеження">
 <!ENTITY trackingContentBlocked.moreinfo "Частини сторінки, які стежать за вашою активністю в Інтернеті заблоковано.">
