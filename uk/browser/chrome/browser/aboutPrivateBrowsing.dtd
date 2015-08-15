@@ -6,10 +6,12 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Відкрити приватне вікно">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "П">
 
+<!ENTITY privateBrowsing.title                 "Приватний перегляд">
 
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
      Width of the Private Browsing section.
      -->
+<!ENTITY aboutPrivateBrowsing.width            "25em">
 
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
      aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
@@ -19,17 +21,37 @@
 <!ENTITY aboutPrivateBrowsing.title            "Ви у приватному перегляді">
 <!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; не буде пам'ятати історію для цього вікна.">
 
+<!ENTITY aboutPrivateBrowsing.forgotten        "У цьому вікні &brandShortName; не буде запам'ятовувати:">
+<!ENTITY aboutPrivateBrowsing.info.forgotten   "Забуте">
+<!ENTITY aboutPrivateBrowsing.info.history     "Історію">
+<!ENTITY aboutPrivateBrowsing.info.searches    "Пошуки">
+<!ENTITY aboutPrivateBrowsing.info.cookies     "Куки">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Тимчасові файли">
 
+<!ENTITY aboutPrivateBrowsing.kept             "&brandShortName; буде зберігати:">
+<!ENTITY aboutPrivateBrowsing.info.kept        "Збережене">
+<!ENTITY aboutPrivateBrowsing.info.downloads   "Завантаження">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks   "Закладки">
 
+<!ENTITY aboutPrivateBrowsing.note1            "Зверніть увагу на те, що ваш роботодавець чи провайдер Інтернету все одно може відстежити відвідані вами сторінки.">
 <!ENTITY aboutPrivateBrowsing.learnMore        "Дізнатись більше.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.width):
      Width of the Tracking Protection section. This should be enough to
      accommodate the title as well as the enabled or disabled indicator.
      -->
+<!ENTITY trackingProtection.width              "22em">
+<!ENTITY trackingProtection.title              "Захист від стеження">
 
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
+<!ENTITY trackingProtection.state.width        "6ch">
+<!ENTITY trackingProtection.state.enabled      "Увімкнено">
+<!ENTITY trackingProtection.state.disabled     "Вимкнено">
 
+<!ENTITY trackingProtection.description1       "Приватні вікна тепер блокують частини сторінки, які можуть відстежувати вашу діяльність при перегляді.">
 
+<!ENTITY trackingProtection.disable            "Вимкнути захист від стеження">
+<!ENTITY trackingProtection.enable             "Увімкнути захист від стеження">
+<!ENTITY trackingProtection.startTour1         "Дивитись, як це працює">
