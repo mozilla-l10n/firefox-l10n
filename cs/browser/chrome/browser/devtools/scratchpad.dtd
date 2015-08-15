@@ -90,9 +90,9 @@
 <!ENTITY display.accesskey "Z">
 <!ENTITY display.key "l">
 
-<!ENTITY pprint.label                 "Pretty Print">
+<!ENTITY pprint.label                 "Formátovat">
 <!ENTITY pprint.key                   "p">
-<!ENTITY pprint.accesskey             "P">
+<!ENTITY pprint.accesskey             "F">
 
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
