@@ -5,5 +5,5 @@
    %brandDTD;
 <!ENTITY aboutLogins.title                       "Logálacha Isteach">
 <!ENTITY aboutLogins.update                      "Nuashonrú">
-
-
+<!ENTITY aboutLogins.emptyLoginText              "Cosain do chuid focal faire">
+<!ENTITY aboutLogins.emptyLoginHint              "Taispeánfar ainmneacha úsáideora agus focail fhaire a shábhálann tú i &brandShortName; anseo.">
