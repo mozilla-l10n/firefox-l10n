@@ -4,7 +4,7 @@
 <!-- for SearchDialog.xul -->
 
 <!ENTITY searchHeading.label         "Procurar mensagens em:">
-<!ENTITY searchHeading.accesskey     "r">
+<!ENTITY searchHeading.accesskey     "e">
 <!ENTITY searchSubfolders.label      "Pesquisar subpastas">
 <!ENTITY searchSubfolders.accesskey  "u">
 <!ENTITY searchOnHeading.label       "Pesquisar em:">
