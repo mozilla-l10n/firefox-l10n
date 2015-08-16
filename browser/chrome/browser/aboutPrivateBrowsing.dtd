@@ -40,7 +40,7 @@
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
-<!ENTITY trackingProtection.state.width        "8ch">
+<!ENTITY trackingProtection.state.width        "10ch">
 <!ENTITY trackingProtection.state.enabled      "ZAPNUTÁ">
 <!ENTITY trackingProtection.state.disabled     "VYPNUTÁ">
 
@@ -48,4 +48,4 @@
 
 <!ENTITY trackingProtection.disable            "Vypnúť Ochranu pred sledovaním">
 <!ENTITY trackingProtection.enable             "Zapnúť Ochranu pred sledovaním">
-<!ENTITY trackingProtection.startTour          "Ako toto funguje?">
+<!ENTITY trackingProtection.startTour1         "Ako toto funguje?">
