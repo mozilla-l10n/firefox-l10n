@@ -71,24 +71,27 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Oturum açmadınız.">
 <!ENTITY signIn.label                "Oturum aç">
-
+<!ENTITY profilePicture.tooltip      "Profil resmini değiştir">
 <!ENTITY manage.label                "Yönet">
 <!ENTITY disconnect.label            "Bağlantıyı kes…">
 <!ENTITY verify.label                "E-postayı doğrula">
 <!ENTITY forget.label                "Bu e-postayı unut">
 
 <!ENTITY welcome.description "&brandShortName; kullandığınız her yerde sekmelerinize, yer imlerinize, parolalarınıza ve daha fazlasına erişin.">
-
-
+<!ENTITY welcome.signIn.label "Giriş yap">
+<!ENTITY welcome.createAccount.label "Hesap oluştur">
 
 <!ENTITY welcome.useOldSync.label "Sync'in eski bir sürümünü mü kullanıyorsunuz?">
 
+<!ENTITY signedOut.caption            "Web’inizi yanınızda taşıyın">
 
 
+<!ENTITY signedOut.accountBox.create  "Hesap oluştur">
+<!ENTITY signedOut.accountBox.signin  "Giriş yap">
 
 
-
-
+<!ENTITY mobilePromo.start            "Mobil cihazınızla eşitleme yapmak için ">
 <!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
-
-
+<!ENTITY mobilePromo.androidLink      "Android™">
+<!ENTITY mobilePromo.end              " için Firefox'u indirin.">
+<!ENTITY androidAttribution           "Android, Google Inc.'in tescilli markasıdır.">
