@@ -120,7 +120,7 @@ tentar mais tarde.</li>
 </ul>">
 
 <!ENTITY sharedLongDesc "<ul> 
-<li>O site pode estar temporariamente indisponível ou ocupado. Volte a tentar 
+<li>O sítio pode estar temporariamente indisponível ou ocupado. Volte a tentar 
 dentro de alguns momentos.</li> 
 <li>Se não conseguir carregar qualquer página, certifique-se de que o seu 
 computador está ligado à Internet.</li> 
@@ -128,11 +128,11 @@ computador está ligado à Internet.</li>
 proxy, certifique-se de que o &brandShortName; tem permissão para aceder à Web.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "Suspeita de site perigoso!">
+<!ENTITY malwareBlocked.title "Suspeita de sítio de ataque!">
 <!ENTITY malwareBlocked.longDesc "<p>Os sítios de ataque tentam instalar programas que roubam informações pessoais, usam o seu computador para atacar outros ou causam danos ao seu sistema.</p> 
 <p>Os detentores de sítios web que acreditam que os seus sítios foram reportados erradamente podem <a href='http://www.stopbadware.org/home/reviewinfo' >pedir uma revisão da situação</a>.</p>">
 
-<!ENTITY unwantedBlocked.title "Site suspeito de software não solicitado!">
+<!ENTITY unwantedBlocked.title "Suspeita de sítio de software não-solicitado!">
 <!ENTITY unwantedBlocked.longDesc "<p>As páginas de software não solicitado tentam instalar software que pode ser decetivo e afetar o seu sistema de formas inesperadas. </p>">
 
 <!ENTITY phishingBlocked.title "Suspeita de wngodo!">

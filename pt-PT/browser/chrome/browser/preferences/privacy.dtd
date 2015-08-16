@@ -10,8 +10,8 @@
 <!ENTITY trackingProtection5.label     "Utilizar proteção de monitorização">
 <!ENTITY trackingProtection5.accesskey "i">
 <!ENTITY trackingProtectionLearnMore.label "Saber mais">
-
-
+<!ENTITY trackingProtectionPBM5.label         "Usar proteção contra monitorização em janelas privadas">
+<!ENTITY trackingProtectionPBM5.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Saber mais">
 
 <!ENTITY  history.label                 "Histórico">
@@ -31,7 +31,7 @@
 <!ENTITY  suggestionSettings.label      "Alterar preferências das sugestões do motores de pesquisa…">
 <!ENTITY  suggestionSettings.accesskey  "g">
 
-<!ENTITY  acceptCookies.label           "Aceitar cookies de sites">
+<!ENTITY  acceptCookies.label           "Aceitar cookies de sítios">
 <!ENTITY  acceptCookies.accesskey       "A">
 
 <!ENTITY  acceptThirdParty.pre.label      "Aceitar cookies de terceiros:">
@@ -60,7 +60,7 @@
 <!ENTITY  historyHeader.custom.label       "Utilizar definições personalizadas para o histórico">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "O &brandShortName; irá guardar o seu histórico de navegação, descargas, formulários e pesquisas, e irá manter os cookies dos sites que visitar.">
+<!ENTITY  rememberDescription.label      "O &brandShortName; irá guardar o seu histórico de navegação, descargas, formulários e pesquisas, e irá manter os cookies dos sítios web que visitar.">
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
