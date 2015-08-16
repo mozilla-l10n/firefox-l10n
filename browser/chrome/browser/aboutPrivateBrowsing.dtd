@@ -18,7 +18,7 @@
 <!ENTITY aboutPrivateBrowsing.forgotten        "V tomto okne &brandShortName; nebude ukladať:">
 <!ENTITY aboutPrivateBrowsing.info.forgotten   "Zabudnuté">
 <!ENTITY aboutPrivateBrowsing.info.history     "História">
-<!ENTITY aboutPrivateBrowsing.info.search      "Hľadania">
+<!ENTITY aboutPrivateBrowsing.info.searches    "Hľadania">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Cookies">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Dočasné súbory">
 
@@ -27,7 +27,7 @@
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Prevzaté súbory">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Záložky">
 
-<!ENTITY aboutPrivateBrowsing.note             "Váš poskytovateľ internetového pripojenia či zamestnávateľ môžu sledovať, ktoré stránky navštevujete.">
+<!ENTITY aboutPrivateBrowsing.note1            "Váš poskytovateľ internetového pripojenia či zamestnávateľ môžu sledovať, ktoré stránky navštevujete.">
 <!ENTITY aboutPrivateBrowsing.learnMore        "Ďalšie informácie.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.width):
@@ -44,7 +44,7 @@
 <!ENTITY trackingProtection.state.enabled      "ZAPNUTÁ">
 <!ENTITY trackingProtection.state.disabled     "VYPNUTÁ">
 
-<!ENTITY trackingProtection.description        "Súkromné okná teraz blokujú súčasti, pomocou ktorých môžu stránky sledovať vašu aktivitu na webe.">
+<!ENTITY trackingProtection.description1       "Súkromné okná teraz blokujú súčasti, pomocou ktorých môžu stránky sledovať vašu aktivitu na webe.">
 
 <!ENTITY trackingProtection.disable            "Vypnúť Ochranu pred sledovaním">
 <!ENTITY trackingProtection.enable             "Zapnúť Ochranu pred sledovaním">
