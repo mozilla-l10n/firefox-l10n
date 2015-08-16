@@ -7,8 +7,8 @@
 <!ENTITY findAsYouTypeTip.label "Dica: para iniciar manualmente a opção Localizar ao escrever, digite uma / para procurar texto ou ' para procurar ligações, seguido do texto que deseja localizar.">
 <!ENTITY findAsYouTypeTimeout.label "Limpar a pesquisa atual após alguns segundos de inatividade">
 <!ENTITY findAsYouTypeTimeout.accesskey "d">
-<!ENTITY findAsYouTypeSound.label "Tocar um som se o texto escrito não for encontrado">
-<!ENTITY findAsYouTypeSound.accesskey "T">
+<!ENTITY findAsYouTypeSound.label "Reproduzir um som se o texto não for encontrado">
+<!ENTITY findAsYouTypeSound.accesskey "p">
 <!ENTITY findAsYouTypeEnableAuto.label "Localizar automaticamente ao escrever numa página web:">
 <!ENTITY findAsYouTypeEnableAuto.accesskey "L">
 <!ENTITY findAsYouTypeAutoText.label "Qualquer texto na página">
