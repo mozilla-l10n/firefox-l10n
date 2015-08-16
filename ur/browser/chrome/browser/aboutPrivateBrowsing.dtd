@@ -19,11 +19,12 @@
 <!ENTITY aboutPrivateBrowsing.title            "آپ رازداری سے براؤز کر رہے ہیں">
 
 
-
+<!ENTITY aboutPrivateBrowsing.forgotten        "اس دریچے میں، &brandShortName; یاد نہیں رکھے گا:">
+<!ENTITY aboutPrivateBrowsing.info.forgotten   "بھول گیا">
 <!ENTITY aboutPrivateBrowsing.info.history     "سابقات">
-
+<!ENTITY aboutPrivateBrowsing.info.searches    "تلاش">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "کوکی">
-
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "عارضی مسلیں">
 
 
 <!ENTITY aboutPrivateBrowsing.info.downloads   "ڈاؤن لوڈ">
@@ -35,12 +36,16 @@
      accommodate the title as well as the enabled or disabled indicator.
      -->
 
+<!ENTITY trackingProtection.width              "22em">
+<!ENTITY trackingProtection.title              "سراغ کاری حفاظت">
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
 
+<!ENTITY trackingProtection.state.width        "6ch">
+<!ENTITY trackingProtection.state.enabled      "آن">
+<!ENTITY trackingProtection.state.disabled     "آف">
 
 
 
-
-
+<!ENTITY trackingProtection.startTour1         "دیکھیں کہ یہ کیسے کام کرتا ہے">
