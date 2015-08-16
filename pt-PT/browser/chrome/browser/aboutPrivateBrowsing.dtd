@@ -50,8 +50,8 @@
 <!ENTITY trackingProtection.state.enabled      "SIM">
 <!ENTITY trackingProtection.state.disabled     "NÃO">
 
-<!ENTITY trackingProtection.description1       "As janelas Privadas agora bloqueiam as partes da página que podem monitorizar a sua atividade de navegação.">
+<!ENTITY trackingProtection.description1       "As janelas privadas agora bloqueiam as partes da página que podem monitorizar a sua atividade de navegação.">
 
-<!ENTITY trackingProtection.disable            "Desativar a Proteção contra monitorização">
+<!ENTITY trackingProtection.disable            "Desativar a proteção contra monitorização">
 <!ENTITY trackingProtection.enable             "Ativar a Proteção contra monitorização">
 <!ENTITY trackingProtection.startTour1         "Veja como funciona">
