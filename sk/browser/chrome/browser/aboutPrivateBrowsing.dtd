@@ -28,7 +28,7 @@
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Záložky">
 
 <!ENTITY aboutPrivateBrowsing.note1            "Váš poskytovateľ internetového pripojenia či zamestnávateľ môžu sledovať, ktoré stránky navštevujete.">
-<!ENTITY aboutPrivateBrowsing.learnMore        "Ďalšie informácie.">
+<!ENTITY aboutPrivateBrowsing.learnMore        "Ďalšie informácie">
 
 <!-- LOCALIZATION NOTE (trackingProtection.width):
      Width of the Tracking Protection section. This should be enough to
