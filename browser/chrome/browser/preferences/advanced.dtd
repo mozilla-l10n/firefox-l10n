@@ -99,7 +99,7 @@
 <!ENTITY offlineNotifyExceptions.label   "Exceções…">
 <!ENTITY offlineNotifyExceptions.accesskey "x">
 
-<!ENTITY offlineAppsList2.label          "Os seguintes sites têm permissão para guardar dados no modo offline:">
+<!ENTITY offlineAppsList2.label          "Os seguintes sítios web têm permissão para guardar dados no modo offline:">
 <!ENTITY offlineAppsList.height          "8em">
 <!ENTITY offlineAppsListRemove.label     "Remover…">
 <!ENTITY offlineAppsListRemove.accesskey "R">
@@ -107,7 +107,7 @@
 
 <!ENTITY certificateTab.label            "Certificados">
 <!ENTITY certSelection.label             "Pedidos">
-<!ENTITY certSelection.description       "Se um site pedir um certificado pessoal:">
+<!ENTITY certSelection.description       "Se um servidor pedir o meu certificado pessoal:">
 <!ENTITY certs.auto                      "Selecionar um automaticamente">
 <!ENTITY certs.auto.accesskey            "u">
 <!ENTITY certs.ask                       "Perguntar sempre">
