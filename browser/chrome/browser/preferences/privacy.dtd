@@ -4,14 +4,15 @@
 
 <!ENTITY tracking.label                 "Lorg">
 
-
+<!ENTITY dntTrackingNotOkay4.label     "Iarr ar shuímh gan a bheith do do lorg">
+<!ENTITY dntTrackingNotOkay4.accesskey "n">
 <!ENTITY doNotTrackInfo.label          "Tuilleadh Eolais">
-
-
-
-
-
-
+<!ENTITY trackingProtection5.label     "Úsáid Cosaint ar Lorg">
+<!ENTITY trackingProtection5.accesskey "i">
+<!ENTITY trackingProtectionLearnMore.label "Tuilleadh eolais">
+<!ENTITY trackingProtectionPBM5.label         "Úsáid Cosaint ar Lorg i bhFuinneoga Príobháideacha">
+<!ENTITY trackingProtectionPBM5.accesskey     "b">
+<!ENTITY trackingProtectionPBMLearnMore.label "Tuilleadh eolais">
 
 <!ENTITY  history.label                 "Stair">
 

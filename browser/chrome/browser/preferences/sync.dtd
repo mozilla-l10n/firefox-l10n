@@ -71,19 +71,20 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Níl tú logáilte isteach.">
 <!ENTITY signIn.label                "Logáil isteach">
-
+<!ENTITY profilePicture.tooltip      "Athraigh an pictiúr próifíle">
 <!ENTITY manage.label                "Bainistigh">
 <!ENTITY disconnect.label            "Dícheangail…">
 <!ENTITY verify.label                "Dearbhaigh an Seoladh Ríomhphoist">
 <!ENTITY forget.label                "Déan Dearmad den Seoladh Ríomhphoist seo">
 
 <!ENTITY welcome.description "Is féidir teacht ar do chuid cluaisíní, leabharmharcanna, focal faire, agus araile cibé áit a n-úsáideann tú &brandShortName;.">
-
-
+<!ENTITY welcome.signIn.label "Logáil Isteach">
+<!ENTITY welcome.createAccount.label "Cruthaigh Cuntas">
 
 <!ENTITY welcome.useOldSync.label "An bhfuil seanleagan de Sync agat?">
 
-
+<!ENTITY signedOut.caption            "Beir do Ghréasán féin leat">
+<!ENTITY signedOut.description        "Siocrónaigh do chuid leabharmharcanna, stair, cluaisíní, focail fhaire, breiseáin, agus sainroghanna ar do ghléasanna go léir.">
 
 
 
