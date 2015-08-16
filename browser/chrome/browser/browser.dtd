@@ -696,18 +696,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.weakEncryption "Bu sayfada zayıf şifreleme kullanılıyor.">
 <!-- Strings for connection state warnings in the subview. -->
 
+<!ENTITY identity.description.insecure "Bu siteye bağlantınız size özel değil. Gönderdiğini bilgiler (parolalar, mesajlar, kredi kartı bilgileri vb.) başkaları tarafından görülebilir.">
+<!ENTITY identity.description.weakCipher "Bu siteye bağlatnınız zayıf bir şifreleme kullanıyor ve size özel değil.">
+<!ENTITY identity.description.weakCipher2 "Başkaları bilgilerinizi görebilir veya web sitesinin davranışını değiştirebilir.">
+<!ENTITY identity.description.activeBlocked "&brandShortName; bu sayfanın güvenli olmayan kısımlarını engelledi.">
 
 
 
 
 
 
-
-
-
+<!ENTITY identity.enableMixedContentBlocking.label "Korumayı etkinleştir">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "e">
 <!ENTITY identity.disableMixedContentBlocking.label "Korumayı şimdilik devre dışı bırak">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "d">
-
+<!ENTITY identity.learnMore "Daha fazla bilgi">
 
 <!ENTITY identity.moreInfoLinkText2 "Daha fazla bilgi">
 
@@ -784,29 +787,32 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "k">
 <!ENTITY getUserMedia.selectMicrophone.label "Paylaşılacak mikrofon:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "m">
-
+<!ENTITY getUserMedia.audioCapture.label "Sekmedeki sesler paylaşılacaktır.">
 <!ENTITY getUserMedia.allWindowsShared.message "Ekranınızdaki tüm görünür pencereler paylaşılacaktır.">
 
+<!ENTITY trackingProtection.title "İzlenme Koruması">
 
 
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-
+<!ENTITY trackingProtection.unblock.label "Bu sitede korumayı devre dışı bırak">
+<!ENTITY trackingProtection.unblock.accesskey "d">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-
-
-
+<!ENTITY trackingProtection.unblockPrivate.label "Bu oturumda korumayı devre dışı bırak">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "d">
+<!ENTITY trackingProtection.block2.label "Korumayı etkinleştir">
+<!ENTITY trackingProtection.block2.accesskey "e">
 
 <!ENTITY trackingContentBlocked.message "İzleme">
 <!ENTITY trackingContentBlocked.moreinfo "Sayfadaki çevrimiçi etkinliklerinizi izleyen kısımlar engellenmiştir.">
 <!ENTITY trackingContentBlocked.learnMore "Daha fazla bilgi">
-
-
-
+<!ENTITY trackingContentBlocked.options "Seçenekler">
+<!ENTITY trackingContentBlocked.unblock2.label "Bu sitede korumayı devre dışı bırak">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "d">
 <!ENTITY trackingContentBlocked.block.label "Korumayı etkinleştir">
 <!ENTITY trackingContentBlocked.block.accesskey "e">
 <!ENTITY trackingContentBlocked.disabled.message "İzleme koruması devre dışı">
