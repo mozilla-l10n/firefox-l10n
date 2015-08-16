@@ -160,7 +160,7 @@
 <!ENTITY pref_developer_remotedebugging "بعید ٹھیک کاری">
 <!ENTITY pref_developer_remotedebugging_usb "USB کے ذریعے بعید ٹھیک کاری">
 <!ENTITY pref_developer_remotedebugging_wifi "وائی فائی کے ذریعے بعید ٹھیک کاری ">
-
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "وائی فائی ٹھیک کاری کے لیے آپ کے آلے پر QR ضابطہ ناظر ایپ تنصیب شدہ ہونی چاہیے۔">
 <!ENTITY pref_category_logins "لاگ ان">
 <!ENTITY pref_remember_signons2 "لاگ ان یاد رکھیں">
 <!ENTITY pref_open_external_urls_privately_title "ربط نجی براؤزنگ میں کھولیں">
@@ -203,8 +203,8 @@
 <!ENTITY pref_donottrack_summary "&brandShortName; سائٹوں کو بتائے گا کہ آپ اپنا سراغ نہیں لگوانا چاہتے">
 
 <!ENTITY tracking_protection_prompt_title "اب سراغ کاری حفاظت کے ساتھ">
-
-
+<!ENTITY tracking_protection_prompt_text "خود سے سراغ کاری عناصر بلات کریں تاکہ آپ کو پریشانی نہ ہو۔">
+<!ENTITY tracking_protection_prompt_tip_text "مزید سیکھنے کے لیے رازداری سیٹکگیں دیکھیں">
 <!ENTITY tracking_protection_prompt_action_button "ٹھیک ہے!">
 
 <!ENTITY tab_queue_toast_message3 "ٹیب &brandShortName; میں محفوظ کر دیا">
