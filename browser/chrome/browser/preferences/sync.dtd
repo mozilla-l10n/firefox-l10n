@@ -85,11 +85,14 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY signedOut.caption            "Beir do Ghréasán féin leat">
 <!ENTITY signedOut.description        "Siocrónaigh do chuid leabharmharcanna, stair, cluaisíní, focail fhaire, breiseáin, agus sainroghanna ar do ghléasanna go léir.">
+<!ENTITY signedOut.accountBox.title   "Ceangail le &syncBrand.fxAccount.label;">
+<!ENTITY signedOut.accountBox.create  "Cruthaigh Cuntas">
+<!ENTITY signedOut.accountBox.signin  "Logáil Isteach">
 
+<!ENTITY signedIn.engines.label       "Sioncrónaigh trasna gach gléas">
 
-
-
-
+<!ENTITY mobilePromo.start            "Íosluchtaigh Firefox ar ">
 <!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
-
-
+<!ENTITY mobilePromo.androidLink      "Android™">
+<!ENTITY mobilePromo.end              " chun sioncrónú le do ghléas soghluaiste.">
+<!ENTITY androidAttribution           "Is trádmharc de chuid Google Inc. é &quot;Android&quot;">
