@@ -699,8 +699,8 @@ no Android">
 <!ENTITY restriction_disallow_customize_home_title2 "Deaktivēt sākumlapas pielāgojumus">
 <!ENTITY restriction_disallow_private_browsing_title2 "Deaktivēt privāto pārlūkošanu">
 <!ENTITY restriction_disallow_location_services_title2 "Deaktivēt atrašanās vietu pakalpojumu">
-
-
-
-
+<!ENTITY restriction_disallow_display_settings_title2 "Deaktivēt ekrāna iestatījumus">
+<!ENTITY restriction_disallow_clear_history_title2 "Deaktivēt \u0027Attīrīt pārlūkošanas vēsturi\u0027">
+<!ENTITY restriction_disallow_master_password_title2 "Deaktivēt galveno paroli">
+<!ENTITY restriction_disallow_guest_browsing_title2 "Deaktivēt viesa pārlūošanu">
 

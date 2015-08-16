@@ -5,5 +5,5 @@
    %brandDTD;
 <!ENTITY aboutLogins.title                       "Lietotājvārdi">
 <!ENTITY aboutLogins.update                      "Atjaunināt">
-
-
+<!ENTITY aboutLogins.emptyLoginText              "Nodrošiniet paroļu drošību">
+<!ENTITY aboutLogins.emptyLoginHint              "Lietotājvārdi un paroles ko saglabāsiet &brandShortName; tiks attēloti šeit.">
