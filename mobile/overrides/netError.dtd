@@ -115,8 +115,8 @@ reddedilmesi olabilmektedir.</li>
 </ul>">
 
 <!ENTITY unknownSocketType.title "Sunucudan beklenmeyen yanıt">
-<!ENTITY unknownSocketType.longDesc " <ul> 
-<li>Sisteminizde kişisel güvenlik yöneticisinin kurulu olduğundan emin olun.</li> 
+<!ENTITY unknownSocketType.longDesc "<ul> 
+<li>Sisteminizde Kişisel Güvenlik Yöneticisinin kurulu olduğundan emin olun.</li> 
 <li>Bu durum, standart dışı sunucu yapılandırmasından kaynaklanabilir.</li> 
 </ul>">
 
