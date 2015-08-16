@@ -110,7 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "s">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; oturumu aç">
-
+<!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; tercihlerini aç">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label;'e tekrar bağlan">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; etkinleştirildi">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; az sonra eşitlenmeye başlayacak.">
@@ -395,7 +395,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Geçilecek sekme:">
 
-
+<!ENTITY urlbar.searchSuggestionsNotification.question "Arama deneyiminizi önerilerle geliştirmek ister misiniz?">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Daha fazla bilgi al…">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Hayır">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Evet">
 <!-- 
@@ -426,6 +427,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      These are set as the aria-label attribute for the search input box and
      submit button in the in-content search UI, to be used by screen readers. -->
 
+<!ENTITY contentSearchInput.label     "Arama sorgusu">
+<!ENTITY contentSearchSubmit.label    "Aramayı gönder">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -678,17 +681,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "Tamam">
 <!ENTITY editBookmark.cancel.label                   "Vazgeç">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "s">
 
 <!ENTITY identity.connectionSecure "Güvenli bağlantı">
 <!ENTITY identity.connectionNotSecure "Bağlantı güvenli değil">
-
+<!ENTITY identity.connectionFile "Bu sayfa bilgisayarınızda depolanıyor.">
 <!ENTITY identity.connectionVerified "&brandShortName; bu siteye güvenli bir şekilde bağlandığınızı doğruladı. Siteyi işleten:">
-<!ENTITY identity.connectionInternal "Bu sayfa güvenli bir &brandShortName; sayfasıdır.">
+<!ENTITY identity.connectionInternal "Burası güvenli bir &brandShortName; sayfasıdır.">
 <!-- Strings for connection state warnings. -->
 
-
-
+<!ENTITY identity.activeBlocked "&brandShortName; bu sayfanın güvenli olmayan kısımlarını engelledi.">
+<!ENTITY identity.passiveLoaded "Bu safanın bazı kısımları (örneğin resimler) güvenli değil.">
+<!ENTITY identity.activeLoaded "Bu sayfada korumayı devre dışı bıraktınız.">
+<!ENTITY identity.weakEncryption "Bu sayfada zayıf şifreleme kullanılıyor.">
 <!-- Strings for connection state warnings in the subview. -->
 
 
