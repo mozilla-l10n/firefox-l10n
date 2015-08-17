@@ -122,15 +122,15 @@
 <!ENTITY messagePaneLayoutStyle.label "Rozmístění">
 <!ENTITY messagePaneLayoutStyle.accesskey "R">
 <!ENTITY messagePaneClassic.label "Klasický pohled">
-<!ENTITY messagePaneClassic.accesskey "l">
+<!ENTITY messagePaneClassic.accesskey "K">
 <!ENTITY messagePaneWide.label "Široký pohled">
 <!ENTITY messagePaneWide.accesskey "r">
 <!ENTITY messagePaneVertical.label "Svislý pohled">
-<!ENTITY messagePaneVertical.accesskey "V">
+<!ENTITY messagePaneVertical.accesskey "v">
 <!ENTITY showMessagePaneCmd.label "Panel zpráv">
 <!ENTITY showMessagePaneCmd.accesskey "z">
 <!ENTITY showThreadPaneCmd.label "Panel vláken">
-<!ENTITY showThreadPaneCmd.accesskey "v">
+<!ENTITY showThreadPaneCmd.accesskey "n">
 <!ENTITY showFolderPaneCmd.label "Panel složek">
 <!ENTITY showFolderPaneCmd.accesskey "s">
 

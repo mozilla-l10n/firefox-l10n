@@ -24,7 +24,7 @@
 <!ENTITY pref.defalarm4events.label "Výchozí nastavení upozornění pro události:">
 <!ENTITY pref.defalarm4events.accesskey "c">
 <!ENTITY pref.defalarm4todos.label "Výchozí nastavení upozornění pro úkoly:">
-<!ENTITY pref.defalarm4todos.accesskey "o">
+<!ENTITY pref.defalarm4todos.accesskey "n">
 <!ENTITY pref.alarm.on "Zapnuto">
 <!ENTITY pref.alarm.off "Vypnuto">
 <!ENTITY pref.defalarmlen4events.label "Výchozí čas pro upozornění na událost:">

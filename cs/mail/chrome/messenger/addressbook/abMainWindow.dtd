@@ -16,7 +16,7 @@
 <!ENTITY newListCmd.label "Skupina…">
 <!ENTITY newListCmd.accesskey "S">
 <!ENTITY newAddressBookCmd.label "Složka kontaktů…">
-<!ENTITY newAddressBookCmd.accesskey "k">
+<!ENTITY newAddressBookCmd.accesskey "a">
 <!ENTITY newLDAPDirectoryCmd.label "LDAP adresář…">
 <!ENTITY newLDAPDirectoryCmd.accesskey "D">
 <!ENTITY newMessageCmd.label "Zpráva">
@@ -57,7 +57,7 @@
 <!ENTITY copyCmd.accesskey "K">
 <!ENTITY pasteCmd.label "Vložit">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "l">
+<!ENTITY pasteCmd.accesskey "V">
 <!ENTITY deleteCmd.label "Smazat">
 <!ENTITY deleteCmd.accesskey "m">
 <!ENTITY deleteAbCmd.label "Smazat adresář">
@@ -76,14 +76,14 @@
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
 <!ENTITY propertiesCmd2.label "Vlastnosti">
-<!ENTITY propertiesCmd2.accesskey "V">
+<!ENTITY propertiesCmd2.accesskey "l">
 <!ENTITY propertiesCmd.key "i">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Zobrazení">
 <!ENTITY viewMenu.accesskey "Z">
 <!ENTITY viewToolbarsMenu.label "Nástrojové lišty">
-<!ENTITY viewToolbarsMenu.accesskey "r">
+<!ENTITY viewToolbarsMenu.accesskey "N">
 <!ENTITY menubarCmd.label "Lišta nabídky">
 <!ENTITY menubarCmd.accesskey "n">
 <!ENTITY showAbToolbarCmd.label "Lišta adresáře">
@@ -118,7 +118,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY messengerCmd.accesskey "P">
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY searchAddressesCmd.label "Hledat v kontaktech…">
-<!ENTITY searchAddressesCmd.accesskey "k">
+<!ENTITY searchAddressesCmd.accesskey "t">
 <!ENTITY importCmd.label "Importovat…">
 <!ENTITY importCmd.accesskey "I">
 <!ENTITY exportCmd.label "Exportovat…">
@@ -126,7 +126,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY preferencesCmd2.label "Možnosti">
 <!ENTITY preferencesCmd2.accesskey "M">
 <!ENTITY preferencesCmdUnix.label "Předvolby">
-<!ENTITY preferencesCmdUnix.accesskey "v">
+<!ENTITY preferencesCmdUnix.accesskey "e">
 
 <!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label "Nový kontakt">
@@ -134,7 +134,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newlistButton.label "Nová skupina">
 <!ENTITY newlistButton.accesskey "s">
 <!ENTITY editButton2.label "Vlastnosti">
-<!ENTITY editButton2.accesskey "V">
+<!ENTITY editButton2.accesskey "l">
 <!ENTITY newmsgButton.label "Nová zpráva">
 <!ENTITY newmsgButton.accesskey "N">
 <!ENTITY newIM.label "Zpráva přes IM">
