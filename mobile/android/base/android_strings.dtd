@@ -69,8 +69,8 @@
 <!ENTITY edit_mode_cancel "İptal">
 
 <!ENTITY close_tab "Sekmeyi kapat">
-
-
+<!ENTITY tab_audio_playing "Bu sekme ses çalıyor">
+<!ENTITY tab_audio_muted "Bu sekmenin sesi kapatıldı">
 <!ENTITY one_tab "1 sekme">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -158,8 +158,8 @@
 <!ENTITY pref_search_hint "İPUCU: Herhangi bir web sitesinin arama alanına uzun dokunduktan sonra &formatI; simgesine dokunarak onu arama sağlayıcı listenize ekleyebilirsiniz.">
 <!ENTITY pref_category_devtools "Geliştirici araçları">
 <!ENTITY pref_developer_remotedebugging "Uzaktan hata ayıklama">
-
-
+<!ENTITY pref_developer_remotedebugging_usb "USB ile uzaktan hata ayıklama">
+<!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi ile uzaktan hata ayıklama">
 
 <!ENTITY pref_category_logins "Hesaplar">
 <!ENTITY pref_remember_signons2 "Giriş bilgilerini hatırla">
@@ -197,19 +197,20 @@
 <!ENTITY pref_cookies_not_accept_foreign "Etkin, 3. parti hariç">
 <!ENTITY pref_cookies_disabled "Devre dışı">
 
+<!ENTITY pref_tracking_protection_title "İzlenme koruması">
 
 <!ENTITY pref_donottrack_title "Beni izleme">
 <!ENTITY pref_donottrack_summary "&brandShortName;sitelere izlenmek istemediğinizi söyleyecek">
 
 
 
-
+<!ENTITY tracking_protection_prompt_action_button "Anladım!">
 
 <!ENTITY tab_queue_toast_message3 "Sekme &brandShortName; üzerinde kaydedildi">
 <!ENTITY tab_queue_toast_action "Şimdi aç">
 <!ENTITY tab_queue_prompt_title "Çoklu bağlantı mı açıyorsunuz?">
 
-
+<!ENTITY tab_queue_prompt_tip_text2 "Bunu daha sonra Ayarlar\u0027dan değiştirebilisiniz">
 <!ENTITY tab_queue_prompt_positive_action_button "Etkinleştir">
 <!ENTITY tab_queue_prompt_negative_action_button "Şimdi değil">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
@@ -411,6 +412,8 @@ size. -->
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
+<!ENTITY pref_prevent_magnifying_glass "Büyüteci devre dışı bırak ">
+
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -438,6 +441,8 @@ size. -->
 <!ENTITY site_settings_no_settings  "Temizlenecek ayar yok.">
 <!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
+
+<!ENTITY reading_list_added3 "Okuma Listesi\u0027ne eklendi">
 <!ENTITY reading_list_removed "Sayfa, okuma listenizden silindi">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -554,8 +559,11 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-
+<!ENTITY identity_connection_secure "Güvenli bağlantı">
+<!ENTITY identity_connection_insecure "Güvenilmez bağlantı">
 <!-- Mixed content notifications in site identity popup -->
+
+<!ENTITY mixed_content_blocked_all "&brandShortName; bu sayfadaki güvenli olmayan öğeler engelledi.">
 
 
 
@@ -565,7 +573,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY blocked_mixed_content_message_bottom "Bu içerik engellense bile çoğu web sitesi düzgün çalışmaya devam edecektir.">
 <!-- Tracking content notifications in site identity popup -->
 
-
+<!ENTITY doorhanger_tracking_title "İzlenme koruması">
+<!ENTITY doorhanger_tracking_state_enabled "Etkin">
+<!ENTITY doorhanger_tracking_state_disabled "Devre dışı">
 
 
 <!-- Common mixed and tracking content strings in site identity popup -->
