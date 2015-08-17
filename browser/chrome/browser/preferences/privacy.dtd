@@ -28,6 +28,9 @@
 <!ENTITY  locbar.searches.label         "výsledky vyhľadávania z predvoleného vyhľadávacieho modulu">
 <!ENTITY  locbar.searches.accesskey     "d">
 
+<!ENTITY  suggestionSettings.label      "Zmeniť nastavenia pre návrhy vyhľadávania…">
+<!ENTITY  suggestionSettings.accesskey  "i">
+
 <!ENTITY  acceptCookies.label           "Povoliť serverom nastavovať cookies">
 <!ENTITY  acceptCookies.accesskey       "s">
 
