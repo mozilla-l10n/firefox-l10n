@@ -16,7 +16,7 @@
 <!ENTITY lightning.menupopup.new.task.label "Úkol…">
 <!ENTITY lightning.menupopup.new.task.accesskey "o">
 <!ENTITY lightning.menupopup.new.calendar.label "Kalendář…">
-<!ENTITY lightning.menupopup.new.calendar.accesskey "K">
+<!ENTITY lightning.menupopup.new.calendar.accesskey "e">
 
 <!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.label "Otevřít">
@@ -28,7 +28,7 @@
 
 <!-- View Menu -->
 <!ENTITY lightning.menu.view.calendar.label "Kalendář">
-<!ENTITY lightning.menu.view.calendar.accesskey "K">
+<!ENTITY lightning.menu.view.calendar.accesskey "e">
 <!ENTITY lightning.menu.view.tasks.label "Úkoly">
 <!ENTITY lightning.menu.view.tasks.accesskey "o">
 

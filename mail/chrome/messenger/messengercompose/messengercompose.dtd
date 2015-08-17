@@ -75,14 +75,14 @@
 <!ENTITY copyCmd.accesskey "K">
 <!ENTITY pasteCmd.label "Vložit">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteCmd.accesskey "l">
+<!ENTITY pasteCmd.accesskey "V">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY editRewrapCmd.accesskey "l">
 <!ENTITY deleteCmd.label "Smazat">
 <!ENTITY deleteCmd.accesskey "m">
 <!ENTITY editRewrapCmd.label "Zalomit">
 <!ENTITY editRewrapCmd.key "R">
+<!ENTITY editRewrapCmd.accesskey "i">
 <!ENTITY renameAttachmentCmd.label "Přejmenovat přílohu…">
 <!ENTITY renameAttachmentCmd.accesskey "e">
 <!ENTITY selectAllCmd.label "Vybrat vše">
@@ -99,7 +99,7 @@
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Najít předchozí">
-<!ENTITY findPrevCmd.accesskey "N">
+<!ENTITY findPrevCmd.accesskey "p">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
 
@@ -113,7 +113,7 @@
 <!ENTITY showCompositionToolbarCmd.label "Lišta pošty">
 <!ENTITY showCompositionToolbarCmd.accesskey "p">
 <!ENTITY showFormattingBarCmd.label "Lišta stylů">
-<!ENTITY showFormattingBarCmd.accesskey "s">
+<!ENTITY showFormattingBarCmd.accesskey "y">
 <!ENTITY showTaskbarCmd.label "Stavový řádek">
 <!ENTITY showTaskbarCmd.accesskey "S">
 <!ENTITY customizeToolbar.label "Vlastní…">
@@ -143,7 +143,7 @@
 <!ENTITY attachVCard.accesskey "v">
 
 <!ENTITY returnReceiptMenu.label "Potvrzení o přečtení">
-<!ENTITY returnReceiptMenu.accesskey "p">
+<!ENTITY returnReceiptMenu.accesskey "o">
 <!ENTITY dsnMenu.label "Potvrzení o doručení">
 <!ENTITY dsnMenu.accesskey "d">
 <!ENTITY deliveryFormatMenu.label "Formát doručení">
@@ -155,9 +155,9 @@
 <!ENTITY htmlFormatCmd.label "Pouze HTML">
 <!ENTITY htmlFormatCmd.accesskey "H">
 <!ENTITY bothFormatCmd.label "Prostý text a HTML">
-<!ENTITY bothFormatCmd.accesskey "P">
+<!ENTITY bothFormatCmd.accesskey "x">
 <!ENTITY priorityMenu.label "Priorita">
-<!ENTITY priorityMenu.accesskey "P">
+<!ENTITY priorityMenu.accesskey "r">
 <!ENTITY priorityButton.title "Priorita">
 <!ENTITY priorityButton.tooltiptext "Změní prioritu zprávy">
 <!ENTITY priorityButton.label "Priorita:">
@@ -190,7 +190,7 @@
 <!ENTITY preferencesCmd2.label "Možnosti">
 <!ENTITY preferencesCmd2.accesskey "M">
 <!ENTITY preferencesCmdUnix.label "Předvolby">
-<!ENTITY preferencesCmdUnix.accesskey "v">
+<!ENTITY preferencesCmdUnix.accesskey "e">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
@@ -271,7 +271,7 @@
 <!ENTITY copy.label "Kopírovat">
 <!ENTITY copy.accesskey "K">
 <!ENTITY paste.label "Vložit">
-<!ENTITY paste.accesskey "l">
+<!ENTITY paste.accesskey "V">
 <!ENTITY pasteQuote.label "Vložit jako citaci">
 <!ENTITY pasteQuote.accesskey "c">
 
