@@ -651,10 +651,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Voice search in the awesome bar -->
 <!ENTITY voicesearch_prompt "Hovorte teraz">
-<!ENTITY voicesearch_failed_title "Hlasové vyhľadávanie &brandShortName;">
-<!ENTITY voicesearch_failed_message "Vyskytol sa problém s hlasovým vyhľadávaním. Skúste to znova neskôr.">
-<!ENTITY voicesearch_failed_message_recoverable "Ospravedlňujeme sa, ale nevieme rozpoznať vaše slová. Skúste to znova.">
-<!ENTITY voicesearch_failed_retry "Skúsiť znova">
 
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
