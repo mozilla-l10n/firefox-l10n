@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label "Apa yang hendak diselaraskan">
 <!ENTITY sync.configure.engines.sync.my.title.label "Selaraskan anda punya …">
 <!ENTITY sync.configure.engines.title.bookmarks "Penandabuku">
-<!ENTITY sync.configure.engines.title.passwords "Kata laluan">
+
 <!ENTITY sync.configure.engines.title.history "Sejarah">
 <!ENTITY sync.configure.engines.title.tabs "Tab-tab">
 <!-- Common text -->
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "Notis Privasi">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Selamat Datang ke &syncBrand.shortName.label;">
-<!ENTITY fxaccount_getting_started_description "Daftar masuk untuk menyelaraskan tab anda, penandabuku, kata laluan &amp; banyak lagi.">
+
 <!ENTITY fxaccount_getting_started_get_started "Mulakan">
 <!ENTITY fxaccount_getting_started_old_firefox "Mulakan versi lama &syncBrand.shortName.label;?">
 <!-- Localization note: the Firefox below should not change with the
@@ -210,7 +210,7 @@
 
 <!ENTITY fxaccount_status_bookmarks "Penandabuku">
 <!ENTITY fxaccount_status_history "Sejarah">
-<!ENTITY fxaccount_status_passwords "Kata laluan">
+
 <!ENTITY fxaccount_status_tabs "Buka tab">
 <!ENTITY fxaccount_status_legal "Perundangan" >
 <!-- Localization note: when tapped, the following two strings link to
@@ -228,6 +228,7 @@
 <!ENTITY fxaccount_remove_account_toast "Akaun Firefox &formatS; disingkir.">
 
 <!ENTITY fxaccount_remove_account_menu_item "Singkir Akaun">
+
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 
