@@ -792,10 +792,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokuje časti stránky, ktoré môžu sledovať vaše prehliadanie.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Na tejto stránke boli nájdené prvky sledovania. Ochrana pred sledovaním je však pre túto stránku vypnutá.">
 <!ENTITY trackingProtection.notDetected3 "Na tejto stránke neboli zistené žiadne prvky sledovania.">
+<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "Vypnúť ochranu pre túto stránku">
 <!ENTITY trackingProtection.unblock.accesskey "V">
-<!ENTITY trackingProtection.block.label "Zapnúť ochranu pre túto stránku">
-<!ENTITY trackingProtection.block.accesskey "Z">
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate.label "Vypnúť ochranu pre túto reláciu">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "c">
+<!ENTITY trackingProtection.block2.label "Zapnúť ochranu">
+<!ENTITY trackingProtection.block2.accesskey "Z">
 
 <!ENTITY trackingContentBlocked.message "Sledovanie">
 <!ENTITY trackingContentBlocked.moreinfo "Časti stránky, ktoré sledujú vašu aktivitu na webe, boli zablokované.">
