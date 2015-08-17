@@ -84,11 +84,12 @@ both, to better adapt this sentence to their language.
 <!ENTITY welcome.useOldSync.label "Sync'in eski bir sürümünü mü kullanıyorsunuz?">
 
 <!ENTITY signedOut.caption            "Web’inizi yanınızda taşıyın">
-
-
+<!ENTITY signedOut.description        "Yer imlerinizi, geçmişinizi, sekmelerinizi, eklentilerinizi ve tercihlerinizi tüm cihazlarınız arasında senkronize edin.">
+<!ENTITY signedOut.accountBox.title   "&syncBrand.fxAccount.label; ile bağlanın">
 <!ENTITY signedOut.accountBox.create  "Hesap oluştur">
 <!ENTITY signedOut.accountBox.signin  "Giriş yap">
 
+<!ENTITY signedIn.engines.label       "Bunları tüm cihazlarımda eşitle">
 
 <!ENTITY mobilePromo.start            "Mobil cihazınızla eşitleme yapmak için ">
 <!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->

@@ -13,7 +13,7 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Gizli tarama)">
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Gizli Gezinti)">
 
 <!ENTITY appmenu.tooltip                     "Menüyü aç">
 <!ENTITY navbarOverflow.label                "Daha fazla araç…">
