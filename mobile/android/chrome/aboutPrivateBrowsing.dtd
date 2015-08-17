@@ -3,14 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY privatebrowsingpage.title "Súkromné prehliadanie">
+
+<!-- Localisation note: the plus sign here is a shorthand way of expressing the word "and". Contextually the privatebrowsingpage.title.private string
+                        is used as a title, with the privatebrowsingpage.title string preceding it but on a separate line.
+                        So the final line will say "Private Browsing + Tracking Protection". -->
+<!ENTITY privatebrowsingpage.title.private "+ Ochrana pre sledovaním">
 <!ENTITY privatebrowsingpage.title.normal "Nenachádzate sa v režime Súkromné prehliadanie">
 
-<!ENTITY privatebrowsingpage.issueDesc.normal2 "V režime Súkromné prehliadanie sa nebude ukladať história prehliadania ani súbory cookies.">
-<!ENTITY privatebrowsingpage.issueDesc.private2 "Nebude sa ukladať história prehliadania ani súbory cookies.">
-
-<!ENTITY privatebrowsingpage.description2 "Vytvorené záložky a prevzaté súbory však budú uložené.">
-<!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
-<!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
+<!ENTITY privatebrowsingpage.description.private3 "Firefox vás bude ochraňovať pred sledovaním a nebude ukladať žiadnu históriu, avšak prevzaté súbory a vytvorené záložky budú stále ukladané vo vašom zariadení.">
+<!ENTITY privatebrowsingpage.description.normal1 "V režime Súkromné prehliadanie sa nebude ukladať história prehliadania ani súbory cookies. Vytvorené záložky a prevzaté súbory však budú uložené.">
 
 <!ENTITY privatebrowsingpage.link.private "Chcete sa dozvedieť viac?">
 <!ENTITY privatebrowsingpage.link.normal "Otvoriť novú súkromnú kartu">
