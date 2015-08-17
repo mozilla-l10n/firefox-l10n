@@ -6,7 +6,7 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Gizli pencere aç">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "G">
 
-<!ENTITY privateBrowsing.title                 "Gizli tarama">
+<!ENTITY privateBrowsing.title                 "Gizli Gezinti">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
      Width of the Private Browsing section.
      -->
@@ -22,16 +22,18 @@
 <!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; bu pencerede geçmişi hatırlamayacaktır.">
 
 <!ENTITY aboutPrivateBrowsing.forgotten        "&brandShortName; bu pencerede şunları hatırlamayacaktır:">
-
+<!ENTITY aboutPrivateBrowsing.info.forgotten   "Unutulacak">
 <!ENTITY aboutPrivateBrowsing.info.history     "Geçmiş">
-
+<!ENTITY aboutPrivateBrowsing.info.searches    "Aramalar">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Çerezler">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Geçici dosyalar">
 
-
-
+<!ENTITY aboutPrivateBrowsing.kept             "&brandShortName; şunları saklayacak:">
+<!ENTITY aboutPrivateBrowsing.info.kept        "Tutulacak">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "İndirilenler">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Yer imleri">
 
+<!ENTITY aboutPrivateBrowsing.note1            "Lütfen unutmayın ki işvereniniz veya internet servis sağlayıcınız hâlâ ziyaret ettiğiniz sayfaları takip edebilir.">
 <!ENTITY aboutPrivateBrowsing.learnMore        "Daha fazla bilgi alın.">
 <!-- LOCALIZATION NOTE (trackingProtection.width):
      Width of the Tracking Protection section. This should be enough to
@@ -48,6 +50,8 @@
 <!ENTITY trackingProtection.state.enabled      "AÇIK">
 <!ENTITY trackingProtection.state.disabled     "KAPALI">
 
+<!ENTITY trackingProtection.description1       "Gizli pencereler, artık sayfalardaki gezinti etkinliğinizi izleyebilecek kısımları engelliyor.">
 
-
+<!ENTITY trackingProtection.disable            "İzleme korumasını kapat">
+<!ENTITY trackingProtection.enable             "İzleme korumasını aç">
 <!ENTITY trackingProtection.startTour1         "Nasıl çalıştığını görün">
