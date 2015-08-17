@@ -4,14 +4,14 @@
 
 <!ENTITY tracking.label                 "Sledovanie">
 
-<!ENTITY dntTrackingNotOkay3.label     "Požiadať webové stránky, aby nesledovali moju aktivitu">
-<!ENTITY dntTrackingNotOkay3.accesskey "w">
+<!ENTITY dntTrackingNotOkay4.label     "Požiadať webové stránky, aby nesledovali moju aktivitu">
+<!ENTITY dntTrackingNotOkay4.accesskey "w">
 <!ENTITY doNotTrackInfo.label          "Ďalšie informácie">
-<!ENTITY trackingProtection3.label     "Zabrániť stránkam ma sledovať">
-<!ENTITY trackingProtection3.accesskey "Z">
+<!ENTITY trackingProtection4.label     "Zabrániť stránkam ma sledovať">
+<!ENTITY trackingProtection4.accesskey "Z">
 <!ENTITY trackingProtectionLearnMore.label "Ďalšie informácie">
-<!ENTITY trackingProtectionPBM3.label          "Zabrániť stránkam sledovať moju aktivitu v režime Súkromné prehliadanie">
-<!ENTITY trackingProtectionPBM3.accesskey      "b">
+<!ENTITY trackingProtectionPBM4.label          "Zabrániť stránkam sledovať moju aktivitu v režime Súkromné prehliadanie">
+<!ENTITY trackingProtectionPBM4.accesskey      "b">
 <!ENTITY trackingProtectionPBMLearnMore.label "Ďalšie informácie">
 
 <!ENTITY  history.label                 "História">
