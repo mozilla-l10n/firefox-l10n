@@ -29,7 +29,7 @@
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Les marque-pages">
 
 <!ENTITY aboutPrivateBrowsing.note1            "Veuillez noter que votre fournisseur d'accès à Internet ou votre employeur peuvent toujours connaître les pages que vous visitez.">
-<!ENTITY aboutPrivateBrowsing.learnMore        "En savoir plus.">
+<!ENTITY aboutPrivateBrowsing.learnMore        "En savoir plus…">
 
 <!-- LOCALIZATION NOTE (trackingProtection.width):
      Width of the Tracking Protection section. This should be enough to
