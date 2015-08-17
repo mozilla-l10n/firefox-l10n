@@ -686,3 +686,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restriction_disallow_report_site_issue_description "V ponuke skryje položku \'Nahlásiť problém so stránkou\'.">
 <!ENTITY restriction_disallow_import_settings_title "Zakázať importovanie nastavení">
 <!ENTITY restriction_disallow_import_settings_description "Nepovolí importovanie nastavení z iných nainštalovaných prehliadačov.">
+<!ENTITY restriction_disallow_addons_title "Zakázať doplnky">
+<!ENTITY restriction_disallow_addons_description "Nepovolí inštaláciu doplnkov.">
+<!ENTITY restriction_disallow_apps_title "Zakázať aplikácie">
+<!ENTITY restriction_disallow_apps_description "Nepovolí inštaláciu aplikácií z Firefox Marketplace.">
