@@ -30,7 +30,7 @@
 <!ENTITY PhoneticField1.label "Foneticky:">
 <!ENTITY PhoneticField2.label "Foneticky:">
 <!ENTITY DisplayName.label "Zobrazované jméno:">
-<!ENTITY DisplayName.accesskey "o">
+<!ENTITY DisplayName.accesskey "b">
 <!ENTITY preferDisplayName.label "Vždy upřednostnit zobrazované jméno před hlavičkou zprávy">
 <!ENTITY preferDisplayName.accesskey "u">
 <!ENTITY NickName.label "Přezdívka:">
@@ -91,7 +91,7 @@
 <!ENTITY Company.label "Organizace:">
 <!ENTITY Company.accesskey "g">
 <!ENTITY WorkAddress.label "Adresa:">
-<!ENTITY WorkAddress.accesskey "e">
+<!ENTITY WorkAddress.accesskey "A">
 <!ENTITY WorkAddress2.label "">
 <!ENTITY WorkAddress2.accesskey "">
 <!ENTITY WorkCity.label "Město:">

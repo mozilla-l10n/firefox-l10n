@@ -188,11 +188,11 @@
 <!ENTITY bodyTextCmd.accesskey "t">
 <!-- isn't used in menu now, but may be added in future -->
 <!ENTITY advancedPropertiesCmd.label "Rozšířené vlastnosti">
-<!ENTITY advancedPropertiesCmd.accesskey "v">
+<!ENTITY advancedPropertiesCmd.accesskey "R">
 
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Zarovnání">
-<!ENTITY alignMenu.accesskey "a">
+<!ENTITY alignMenu.accesskey "Z">
 <!ENTITY alignLeft.label "Doleva">
 <!ENTITY alignLeft.accesskey "l">
 <!ENTITY alignLeft.tooltip "Zarovnání doleva">
@@ -219,7 +219,7 @@
 <!ENTITY decreaseIndent.key "-">
 
 <!ENTITY colorsAndBackground.label "Barvy a pozadí stránky…">
-<!ENTITY colorsAndBackground.accesskey "B">
+<!ENTITY colorsAndBackground.accesskey "a">
 
 <!-- Table Menu -->
 <!ENTITY tableMenu.label "Tabulka">
@@ -280,7 +280,7 @@
 <!ENTITY tableSplitCell.label "Rozdělit buňku">
 <!ENTITY tableSplitCell.accesskey "l">
 <!ENTITY convertToTable.label "Vytvořit tabulku z označeného">
-<!ENTITY convertToTable.accesskey "V">
+<!ENTITY convertToTable.accesskey "y">
 <!ENTITY tableProperties.label "Vlastnosti tabulky…">
 <!ENTITY tableProperties.accesskey "o">
 

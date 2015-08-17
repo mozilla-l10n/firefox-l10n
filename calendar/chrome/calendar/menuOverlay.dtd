@@ -21,7 +21,7 @@
 <!ENTITY calendar.deletecalendar.label "Smazat zvolený kalendář…">
 <!ENTITY calendar.deletecalendar.accesskey "m">
 <!ENTITY calendar.unsubscribecalendar.label     "Odhlásit zvolený kalendář…">
-<!ENTITY calendar.unsubscribecalendar.accesskey "O">
+<!ENTITY calendar.unsubscribecalendar.accesskey "h">
 
 <!-- LOCALIZATION NOTE (calendar.removecalendar.label): Removing the calendar
       is the general action of removing it, while deleting means to clear the
@@ -40,10 +40,10 @@
 <!ENTITY calendar.displaytodos.checkbox.accesskey "ú">
 
 <!ENTITY goTodayCmd.label "Dnes">
-<!ENTITY goTodayCmd.accesskey "n">
+<!ENTITY goTodayCmd.accesskey "e">
 
 <!ENTITY showCurrentView.label "Současný pohled">
 <!ENTITY showCurrentView.accesskey "h">
 
 <!ENTITY calendar.properties.label "Vlastnosti kalendáře">
-<!ENTITY calendar.properties.accesskey "k">
+<!ENTITY calendar.properties.accesskey "i">
