@@ -1,8 +1,7 @@
 amazondotcom
+bing
 eBay-in
 google
-yahoo-in
 rediff
-technorati
 wikipedia-bn
-bing
+yahoo-in
