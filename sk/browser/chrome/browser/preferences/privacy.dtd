@@ -7,10 +7,10 @@
 <!ENTITY dntTrackingNotOkay4.label     "Požiadať webové stránky, aby nesledovali moju aktivitu">
 <!ENTITY dntTrackingNotOkay4.accesskey "w">
 <!ENTITY doNotTrackInfo.label          "Ďalšie informácie">
-<!ENTITY trackingProtection5.label     "Používať ochranu pred sledovaním">
-<!ENTITY trackingProtection5.accesskey "o">
+<!ENTITY trackingProtection5.label     "Používať Ochranu pred sledovaním">
+<!ENTITY trackingProtection5.accesskey "O">
 <!ENTITY trackingProtectionLearnMore.label "Ďalšie informácie">
-<!ENTITY trackingProtectionPBM5.label          "Používať ochranu pred sledovaním v režime Súkromné prehliadanie">
+<!ENTITY trackingProtectionPBM5.label          "Používať Ochranu pred sledovaním v režime Súkromné prehliadanie">
 <!ENTITY trackingProtectionPBM5.accesskey      "c">
 <!ENTITY trackingProtectionPBMLearnMore.label "Ďalšie informácie">
 
