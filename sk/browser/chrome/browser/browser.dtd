@@ -766,19 +766,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectMicrophone.accesskey "m">
 <!ENTITY getUserMedia.allWindowsShared.message "Všetky okná viditeľné na vašej obrazovke budú zdieľané.">
 
-<!-- Bad Content Blocker Doorhanger Notification -->
-<!ENTITY badContentBlocked.moreinfo "Väčšina stránok bude po zablokovaní obsahu fungovať naďalej správne.">
-
-<!ENTITY mixedContentBlocked2.message "Nezabezpečený obsah">
-<!ENTITY mixedContentBlocked2.moreinfo "Niektoré nezašifrované prvky tejto stránky boli zablokované.">
-<!ENTITY mixedContentBlocked2.learnMore "Ďalšie informácie">
-<!ENTITY mixedContentBlocked2.options "Možnosti">
-<!ENTITY mixedContentBlocked2.unblock.label "Nateraz vypnúť ochranu">
-<!ENTITY mixedContentBlocked2.unblock.accesskey "N">
-<!ENTITY mixedContentBlocked2.block.label "Zapnúť ochranu">
-<!ENTITY mixedContentBlocked2.block.accesskey "c">
-<!ENTITY mixedContentBlocked2.disabled.message "Ochrana je vypnutá">
-
 <!ENTITY trackingProtection.title "Ochrana pred sledovaním">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokuje časti stránky, ktoré môžu sledovať vaše prehliadanie.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Na tejto stránke boli nájdené prvky sledovania. Ochrana pred sledovaním je však pre túto stránku vypnutá.">
