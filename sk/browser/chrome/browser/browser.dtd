@@ -126,8 +126,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "k">
 <!ENTITY fullScreenExit.label "Ukončiť režim Na celú obrazovku">
 <!ENTITY fullScreenExit.accesskey "U">
-<!ENTITY fullscreenAllowButton.label "Povoliť">
-<!ENTITY fullscreenExitButton.label "Zakázať">
 
 <!ENTITY fullscreenExitHint2.value "Stlačením klávesu ESC opustíte režim.">
 <!ENTITY leaveDOMFullScreen.label "Ukončiť režim Na celú obrazovku">
