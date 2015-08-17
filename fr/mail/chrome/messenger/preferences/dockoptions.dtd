@@ -13,3 +13,4 @@
 <!ENTITY showAllUnreadMessagesCount.accesskey  "o">
 <!ENTITY dockIconBadge.label                   "Badge de l'icône de l'application">
 <!ENTITY dockIconShow.label                    "Afficher sur l'icône de l'application :">
+<!ENTITY directNotificationSettings.label      "Vous pouvez désactiver le badge depuis le panneau Notification situé dans les préférences système.">
