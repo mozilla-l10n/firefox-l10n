@@ -10,3 +10,5 @@
 <!ENTITY addonAction.disable                    "Lumpuhkan">
 <!ENTITY addonAction.uninstall                  "Nyahpasang">
 <!ENTITY addonAction.undo                       "Kembali Asal">
+
+<!ENTITY addonUnsigned.learnMore                "Ketahui lagi">

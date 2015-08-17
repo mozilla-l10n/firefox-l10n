@@ -2,12 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                  "Melungsur Secara Peribadi">
+<!ENTITY privatebrowsingpage.title "Melungsur Secara Peribadi">
+<!-- Localisation note: the plus sign here is a shorthand way of expressing the word "and". Contextually the privatebrowsingpage.title.private string
+                        is used as a title, with the privatebrowsingpage.title string preceding it but on a separate line.
+                        So the final line will say "Private Browsing + Tracking Protection". -->
 
-<!ENTITY privatebrowsingpage.issueDesc.private      "Anda telah membuka tab peribadi baru.">
-<!ENTITY privatebrowsingpage.issueDesc.normal       "Anda bukan di tab peribadi.">
 
-<!ENTITY privatebrowsingpage.description            "Dalam tab peribadi, &brandShortName; tidak akan meyimpan sebarang sejarah pelayaran, sejarah carian, sejarah muat turun, sejarah borang web, kuki, atau fail-fail sementara internet. Namun begitu, fail yang dimuat turun dan penanda yang anda buat akan disimpan.">
-<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
 
-<!ENTITY privatebrowsingpage.moreInfo               "Walaupun peranti ini tidak menyimpan sebarang rekod mengenai sejarah pelayaran anda, pembekal perkhidmatan internet anda masih dapat mengesan halaman yang anda lawati.">
+
+<!ENTITY privatebrowsingpage.link.private "Ingin ketahui lebih lanjut?">
+
