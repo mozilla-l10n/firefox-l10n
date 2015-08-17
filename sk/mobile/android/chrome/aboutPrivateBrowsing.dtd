@@ -10,7 +10,7 @@
 <!ENTITY privatebrowsingpage.title.private "+ Ochrana pre sledovaním">
 <!ENTITY privatebrowsingpage.title.normal "Nenachádzate sa v režime Súkromné prehliadanie">
 
-<!ENTITY privatebrowsingpage.description.private3 "Firefox vás bude ochraňovať pred sledovaním a nebude ukladať žiadnu históriu, avšak prevzaté súbory a vytvorené záložky budú stále ukladané vo vašom zariadení.">
+<!ENTITY privatebrowsingpage.description.private4 "&brandShortName; vás bude ochraňovať pred sledovaním a nebude ukladať žiadnu históriu, avšak prevzaté súbory a vytvorené záložky budú stále ukladané vo vašom zariadení.">
 <!ENTITY privatebrowsingpage.description.normal1 "V režime Súkromné prehliadanie sa nebude ukladať história prehliadania ani súbory cookies. Vytvorené záložky a prevzaté súbory však budú uložené.">
 
 <!ENTITY privatebrowsingpage.link.private "Chcete sa dozvedieť viac?">
