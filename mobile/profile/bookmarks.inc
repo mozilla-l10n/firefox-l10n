@@ -27,4 +27,12 @@
 # link title for https://marketplace.firefox.com
 #define bookmarks_marketplace Firefox Marketplace
 
+# LOCALIZATION NOTE (bookmarks_restricted_support):
+# link title for https://support.mozilla.org/kb/kids
+#define bookmarks_restricted_support Pomocník a podpora pre zjednodušenú verziu Firefoxu pre deti
+
+# LOCALIZATION NOTE (bookmarks_restricted_webmaker):
+# link title for https://webmaker.org
+#define bookmarks_restricted_webmaker Naučte sa web: Mozilla Webmaker
+
 #unfilter emptyLines
