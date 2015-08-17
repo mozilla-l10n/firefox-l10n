@@ -11,6 +11,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY starting.label                   "Memulakan...">
 <!ENTITY scanning.label                   "Mengimbas virus…">
 
+<!ENTITY downloads.title                  "Muaturun">
 
 <!ENTITY cmd.pause.label                  "Jeda">
 <!ENTITY cmd.pause.accesskey              "J">
@@ -18,8 +19,8 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.resume.accesskey             "S">
 <!ENTITY cmd.cancel.label                 "Batal">
 <!ENTITY cmd.cancel.accesskey             "B">
-
-
+<!ENTITY cmd.show.label                   "Buka Fail Kandungan">
+<!ENTITY cmd.show.accesskey               "F">
 <!ENTITY cmd.showMac.label                "Tunjuk dalam Finder">
 <!ENTITY cmd.showMac.accesskey            "F">
 <!ENTITY cmd.open.label                   "Buka">
@@ -39,13 +40,13 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.close2.commandKey            "j">
 <!ENTITY cmd.close2Unix.commandKey        "y">
 <!ENTITY cmd.clearList.label              "Kosongkan Senarai">
-<!ENTITY cmd.clearList.tooltip            "Buang muat turun yang telah lengkap, batal dan gagal dari senarai">
+<!ENTITY cmd.clearList.tooltip            "Buang muaturun yang telah lengkap, batal dan gagal dari senarai">
 <!ENTITY cmd.clearList.accesskey          "K">
 <!ENTITY cmd.find.commandKey              "f">
 <!ENTITY cmd.search.commandKey            "k">
 
 <!ENTITY closeWhenDone.label              "Tutup apabila muaturun selesai">
-<!ENTITY closeWhenDone.tooltip            "Tutup tetingkap Muaturun apabila semua fail selesai dimuaturun">
+<!ENTITY closeWhenDone.tooltip            "Tutup tetingkap Muaturun apabila semua fail telah selesai dimuaturun">
 
 <!ENTITY showFolder.label                 "Tunjuk Folder ini">
 <!ENTITY searchBox.label                  "Carian...">
