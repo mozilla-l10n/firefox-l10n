@@ -636,6 +636,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                  "W">
 <!ENTITY closeCmd.accesskey            "Z">
 
+<!ENTITY toggleMuteCmd.key              "M">
+
 <!ENTITY pageStyleMenu.label           "Štýl stránky">
 <!ENTITY pageStyleMenu.accesskey       "n">
 <!ENTITY pageStyleNoStyle.label        "Žiadny štýl">
