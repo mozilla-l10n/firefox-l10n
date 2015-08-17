@@ -1,7 +1,7 @@
 #filter emptyLines
 
 # LOCALIZATION NOTE: The 'en-US' strings in the URLs will be replaced with
-# your locale code, and link to your translated pages as soon as they're 
+# your locale code, and link to your translated pages as soon as they're
 # live.
 
 # LOCALIZATION NOTE: Some of these URLs are currently 404s, but should be coming
@@ -26,5 +26,13 @@
 # LOCALIZATION NOTE (bookmarks_marketplace):
 # link title for https://marketplace.firefox.com
 #define bookmarks_marketplace Firefox Marketplace
+
+# LOCALIZATION NOTE (bookmarks_restricted_support):
+# link title for https://support.mozilla.org/kb/kids
+#define bookmarks_restricted_support Supporto per la versione semplificata di Firefox a misura di bambino
+
+# LOCALIZATION NOTE (bookmarks_restricted_webmaker):
+# link title for https://webmaker.org
+#define bookmarks_restricted_webmaker Impara il Web: Mozilla Webmaker
 
 #unfilter emptyLines
