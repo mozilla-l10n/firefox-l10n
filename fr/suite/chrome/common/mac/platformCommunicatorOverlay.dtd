@@ -61,6 +61,3 @@
 <!ENTITY ctrlKey.label                   "Ctrl">
 <!ENTITY altKey.label                    "Option">
 <!ENTITY shiftKey.label                  "Maj">
-
-<!ENTITY menubarCmd.label               "Barre de menus">
-<!ENTITY menubarCmd.accesskey           "B">
