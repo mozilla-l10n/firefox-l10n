@@ -567,8 +567,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY doorhanger_tracking_title "Ochrana pred sledovaním">
 <!ENTITY doorhanger_tracking_state_enabled "Zapnutá">
 <!ENTITY doorhanger_tracking_state_disabled "Vypnutá">
-<!ENTITY doorhanger_tracking_message_enabled "Blokujú sa prvky, ktoré umožňujú sledovať vašu aktivitu.">
-<!ENTITY doorhanger_tracking_message_disabled "Pokusy o sledovanie vašej aktivity online nie sú blokované.">
+<!ENTITY doorhanger_tracking_message_enabled1 "Pokusy o sledovanie vašej aktivity online boli zablokované.">
+<!ENTITY doorhanger_tracking_message_disabled1 "Táto stránka obsahuje prvky, ktoré sledujú vašu aktivitu online.">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Ďalšie informácie">
