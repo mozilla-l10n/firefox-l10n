@@ -12,7 +12,7 @@
 <!ENTITY trackingProtectionLearnMore.label "Conocer más">
 <!ENTITY trackingProtectionPBM5.label         "Usar protección de rastreo en ventanas privadas">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
-<!ENTITY doNotTrackInfo.label           "Conocer más">
+<!ENTITY trackingProtectionPBMLearnMore.label "Conocer más">
 
 <!ENTITY  history.label "Historial">
 
