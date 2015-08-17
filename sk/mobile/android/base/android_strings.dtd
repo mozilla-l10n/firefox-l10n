@@ -679,3 +679,5 @@ size. -->
 <!ENTITY restriction_disallow_apps_description "Nepovolí inštaláciu aplikácií z Firefox Marketplace.">
 <!ENTITY restriction_disallow_devtools_title "Zakázať vývojárske nástroje">
 <!ENTITY restriction_disallow_devtools_description "Nepovolí používanie vývojárskych nástrojov.">
+<!ENTITY restriction_disallow_customize_home_title "Zakázať prispôsobovať domovskú obrazovku">
+<!ENTITY restriction_disallow_customize_home_description "Nepovolí prispôsobiť domovské panely.">
