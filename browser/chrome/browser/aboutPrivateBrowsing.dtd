@@ -33,7 +33,7 @@
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Descargas">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Marcadores">
 
-<!ENTITY aboutPrivateBrowsing.note1            "Por favor, note que o seu empregador ou a sua operadora do serviço de Internet pode, ainda assim, monitorizar as páginas que visitar.">
+<!ENTITY aboutPrivateBrowsing.note1            "Por favor, note que o seu empregador ou operador do serviço de Internet podem, ainda assim, monitorizar as páginas que visitar.">
 <!ENTITY aboutPrivateBrowsing.learnMore        "Saber mais.">
 <!-- LOCALIZATION NOTE (trackingProtection.width):
      Width of the Tracking Protection section. This should be enough to
