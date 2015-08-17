@@ -10,13 +10,13 @@
 <!ENTITY useCustomPrefs.label "Nastavit vlastní potvrzení o přečtení pro tento účet">
 <!ENTITY useCustomPrefs.accesskey "t">
 <!ENTITY requestReceipt.label "Při odesílání zpráv vždy vyžadovat potvrzení o přečtení">
-<!ENTITY requestReceipt.accesskey "v">
+<!ENTITY requestReceipt.accesskey "i">
 <!ENTITY receiptArrive.label "Při přijetí potvrzení">
 <!ENTITY leaveIt.label "Ponechat ve složce Doručená pošta">
 <!ENTITY leaveIt.accesskey "D">
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
 <!ENTITY moveToSent.label "Přesunout do složky Odeslaná pošta">
-<!ENTITY moveToSent.accesskey "s">
+<!ENTITY moveToSent.accesskey "O">
 <!ENTITY requestMDN.label "Pokud zpráva obsahuje žádost potvrzení o přečtení:">
 <!ENTITY returnSome.label "Vracet potvrzení o přečtení pro některé zprávy">
 <!ENTITY returnSome.accesskey "r">
@@ -27,7 +27,7 @@
 <!ENTITY outsideDomain.label "Pokud je odesílatel z jiné domény:">
 <!ENTITY outsideDomain.accesskey "j">
 <!ENTITY otherCases.label "Ve všech ostatních případech:">
-<!ENTITY otherCases.accesskey "o">
+<!ENTITY otherCases.accesskey "e">
 <!ENTITY askMe.label "Zeptat se">
 <!ENTITY alwaysSend.label "Vždy odeslat">
 <!ENTITY neverSend.label "Nikdy neodeslat">

@@ -23,11 +23,11 @@
 <!ENTITY moveToNewWindow.label "Přesunout do nového okna">
 <!ENTITY moveToNewWindow.accesskey "P">
 <!ENTITY newVirtualFolderCmd.label "Uložené hledání…">
-<!ENTITY newVirtualFolderCmd.accesskey "U">
+<!ENTITY newVirtualFolderCmd.accesskey "l">
 <!ENTITY newOtherAccountsCmd.label "Další účty…">
 <!ENTITY newOtherAccountsCmd.accesskey "D">
 <!ENTITY newCreateEmailAccountCmd.label "Získat nový poštovní účet…">
-<!ENTITY newCreateEmailAccountCmd.accesskey "s">
+<!ENTITY newCreateEmailAccountCmd.accesskey "n">
 <!ENTITY newExistingEmailAccountCmd.label "Existující poštovní účet…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "E">
 <!ENTITY newIMAccountCmd.label "Účet chatu…">
@@ -113,7 +113,7 @@
 <!ENTITY folderPropsCmd2.label "Vlastnosti">
 <!ENTITY folderPropsFolderCmd2.label "Vlastnosti složky">
 <!ENTITY folderPropsNewsgroupCmd2.label "Vlastnosti diskusní skupiny">
-<!ENTITY folderPropsCmd.accesskey "i">
+<!ENTITY folderPropsCmd.accesskey "l">
 <!ENTITY undoDeleteMsgCmd.label "Zpět smazání zprávy">
 <!ENTITY redoDeleteMsgCmd.label "Znovu smazat zprávu">
 <!ENTITY undoMoveMsgCmd.label "Zpět přesunutí zprávy">
@@ -138,7 +138,7 @@
 <!ENTITY messagePaneLayoutStyle.label "Rozmístění">
 <!ENTITY messagePaneLayoutStyle.accesskey "R">
 <!ENTITY messagePaneClassic.label "Klasický pohled">
-<!ENTITY messagePaneClassic.accesskey "l">
+<!ENTITY messagePaneClassic.accesskey "K">
 <!ENTITY messagePaneWide.label "Široký pohled">
 <!ENTITY messagePaneWide.accesskey "r">
 <!ENTITY messagePaneVertical.label "Svislý pohled">
@@ -146,7 +146,7 @@
 <!ENTITY showFolderPaneCmd.label "Panel složek">
 <!ENTITY showFolderPaneCmd.accesskey "s">
 <!ENTITY showFolderPaneColsCmd.label "Sloupce panelu složek">
-<!ENTITY showFolderPaneColsCmd.accesskey "S">
+<!ENTITY showFolderPaneColsCmd.accesskey "l">
 <!ENTITY showMessageCmd.label "Panel zpráv">
 <!ENTITY showMessageCmd.accesskey "z">
 
@@ -169,13 +169,13 @@
 <!ENTITY sortMenu.label "Seřadit podle sloupce">
 <!ENTITY sortMenu.accesskey "p">
 <!ENTITY sortByDateCmd.label "Datum">
-<!ENTITY sortByDateCmd.accesskey "u">
+<!ENTITY sortByDateCmd.accesskey "D">
 <!ENTITY sortByReceivedCmd.label "Doručeno">
 <!ENTITY sortByReceivedCmd.accesskey "r">
 <!ENTITY sortByStarCmd.label "Hvězdička">
 <!ENTITY sortByStarCmd.accesskey "H">
 <!ENTITY sortByAttachmentsCmd.label "Přílohy">
-<!ENTITY sortByAttachmentsCmd.accesskey "h">
+<!ENTITY sortByAttachmentsCmd.accesskey "y">
 <!ENTITY sortByPriorityCmd.label "Priorita">
 <!ENTITY sortByPriorityCmd.accesskey "i">
 <!ENTITY sortBySizeCmd.label "Velikost">
@@ -185,13 +185,13 @@
 <!ENTITY sortByTagsCmd.label "Štítky">
 <!ENTITY sortByTagsCmd.accesskey "t">
 <!ENTITY sortByJunkStatusCmd.label "Druh zprávy">
-<!ENTITY sortByJunkStatusCmd.accesskey "D">
+<!ENTITY sortByJunkStatusCmd.accesskey "u">
 <!ENTITY sortBySubjectCmd.label "Předmět">
 <!ENTITY sortBySubjectCmd.accesskey "m">
 <!ENTITY sortByFromCmd.label "Od">
 <!ENTITY sortByFromCmd.accesskey "O">
 <!ENTITY sortByRecipientCmd.label "Příjemce">
-<!ENTITY sortByRecipientCmd.accesskey "c">
+<!ENTITY sortByRecipientCmd.accesskey "j">
 <!ENTITY sortByCorrespondentCmd.label "Korespondenti">
 <!ENTITY sortByCorrespondentCmd.accesskey "K">
 <!ENTITY sortByUnreadCmd.label "Přečtené">
@@ -296,7 +296,7 @@
 <!ENTITY nextStarredMsgCmd.label "Zpráva s hvězdičkou">
 <!ENTITY nextStarredMsgCmd.accesskey "h">
 <!ENTITY nextUnreadThread.label "Nepřečtené vlákno">
-<!ENTITY nextUnreadThread.accesskey "T">
+<!ENTITY nextUnreadThread.accesskey "v">
 <!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Předchozí">
 <!ENTITY prevMenu.accesskey "P">
@@ -362,7 +362,7 @@
 <!ENTITY editAsNewMsgCmd.accesskey "U">
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY createFilter.label "Vytvořit filtr ze zprávy…">
-<!ENTITY createFilter.accesskey "V">
+<!ENTITY createFilter.accesskey "y">
 <!ENTITY moveMsgToMenu.label "Přesunout do">
 <!ENTITY moveMsgToMenu.accesskey "s">
 <!ENTITY moveCopyMsgRecentMenu.label "Poslední">
@@ -423,10 +423,10 @@
 <!ENTITY recalculateJunkScoreCmd.label "Spustit kontrolu pošty">
 <!ENTITY recalculateJunkScoreCmd.accesskey "S">
 <!ENTITY openMessageWindowCmd.label "Otevřít zprávu">
-<!ENTITY openMessageWindowCmd.accesskey "v">
+<!ENTITY openMessageWindowCmd.accesskey "t">
 <!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY openConversationCmd.label "Otevřít v konverzaci">
-<!ENTITY openConversationCmd.accesskey "k">
+<!ENTITY openConversationCmd.accesskey "n">
 <!ENTITY openConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Přílohy">
 <!ENTITY openAttachmentListCmd.accesskey "h">

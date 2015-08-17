@@ -4,23 +4,23 @@
 
 <!ENTITY dialog.title "Potvrzení o přečtení">
 <!ENTITY requestReceipt.label "Při odesílání zpráv vždy vyžadovat potvrzení o přečtení">
-<!ENTITY requestReceipt.accesskey "P">
+<!ENTITY requestReceipt.accesskey "i">
 <!ENTITY receiptArrive.label "Při přijetí potvrzení">
 <!ENTITY leaveIt.label "Ponechat ve složce Doručená pošta">
-<!ENTITY leaveIt.accesskey "P">
+<!ENTITY leaveIt.accesskey "D">
 <!ENTITY moveToSent.label "Přesunout do složky Odeslaná pošta">
-<!ENTITY moveToSent.accesskey "P">
+<!ENTITY moveToSent.accesskey "O">
 <!ENTITY requestMDN.label "Pokud zpráva obsahuje žádost potvrzení o přečtení:">
 <!ENTITY never.label "Nikdy neodeslat potvrzení o přečtení">
 <!ENTITY never.accesskey "N">
 <!ENTITY returnSome.label "Vracet potvrzení o přečtení pro některé zprávy">
 <!ENTITY returnSome.accesskey "V">
 <!ENTITY notInToCc.label "Pokud nejsem uveden v Komu nebo Kopie:">
-<!ENTITY notInToCc.accesskey "P">
+<!ENTITY notInToCc.accesskey "K">
 <!ENTITY outsideDomain.label "Pokud je odesílatel z jiné domény:">
-<!ENTITY outsideDomain.accesskey "P">
+<!ENTITY outsideDomain.accesskey "j">
 <!ENTITY otherCases.label "Ve všech ostatních případech:">
-<!ENTITY otherCases.accesskey "V">
+<!ENTITY otherCases.accesskey "e">
 <!ENTITY askMe.label "Zeptat se">
 <!ENTITY alwaysSend.label "Vždy odeslat">
 <!ENTITY neverSend.label "Nikdy neodeslat">
