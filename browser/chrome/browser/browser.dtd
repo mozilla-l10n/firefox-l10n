@@ -86,7 +86,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "a">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Criar marcadores para todos os separadores…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "t">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "Desfazer Fechar separador">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Desfazer fechar separador">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "D">
 
 <!ENTITY pageSourceCmd.label "Código-fonte da página">

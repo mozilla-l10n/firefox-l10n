@@ -12,7 +12,7 @@
 <!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchStartTyping.label         "Pesquisar texto ao começar a escrever">
 <!ENTITY searchStartTyping.accesskey     "x">
-<!ENTITY blockAutoRefresh.label          "Avisar se os sites que visito tentarem redirecionar-me ou recarregar a página">
+<!ENTITY blockAutoRefresh.label          "Avisar se os sítios web que visito tentarem redirecionar-me ou recarregar a página">
 <!ENTITY blockAutoRefresh.accesskey      "t">
 
 <!ENTITY browsing.label                  "Navegação">
@@ -94,7 +94,7 @@
 <!ENTITY enableSearchUpdate.label        "Motores de pesquisa">
 <!ENTITY enableSearchUpdate.accesskey    "e">
 
-<!ENTITY offlineNotify.label             "Avisar quando um site pedir para guardar dados para o modo offline">
+<!ENTITY offlineNotify.label             "Avisar quando um sítio pedir para guardar dados para o modo offline">
 <!ENTITY offlineNotify.accesskey         "t">
 <!ENTITY offlineNotifyExceptions.label   "Exceções…">
 <!ENTITY offlineNotifyExceptions.accesskey "x">
