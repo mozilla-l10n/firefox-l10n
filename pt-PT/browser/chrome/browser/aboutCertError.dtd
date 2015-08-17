@@ -26,7 +26,7 @@ ser verificada.">
 <!ENTITY certerror.whatShouldIDo.content "Se costuma aceder regularmente a este site 
 sem problemas, este erro pode significar que alguém está a tentar 
 fazer-se passar por este site. Por essa razão, não deve continuar.">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Este sítio utiliza HTTP 
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Este site utiliza HTTP 
 Strict Transport Security (HSTS) para indicar que o &brandShortName; apenas se pode 
 ligar em segurança. Como resultado, não é possível adicionar um exceção para este 
 certificado.">
