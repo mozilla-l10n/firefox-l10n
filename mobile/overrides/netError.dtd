@@ -21,7 +21,10 @@
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 
 <!ENTITY fileNotFound.title "پرونده پیدا نشد">
-<!ENTITY fileNotFound.longDesc "<ul> <li>صحتِ نام پرونده را بررسی کنید.</li> <li>بررسی کنید که آیا پرونده جابه‌جا شده، تغییر نما یافته، یا پاک شده است.</li> </ul>">
+<!ENTITY fileNotFound.longDesc "<ul> 
+<li>صحتِ نام پرونده را برای احتمال وجود غلط املایی بررسی کنید. </li> 
+<li>بررسی کنید که آیا پرونده جابه‌جا شده، تغییر نام یافته، یا پاک شده است.</li> 
+</ul>">
 
 
 <!ENTITY generic.title "اوخ.">
@@ -58,7 +61,9 @@
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "نشانی قابل فهم نبود">
-<!ENTITY unknownProtocolFound.longDesc "<ul> <li>شاید نیاز به نصب برنامهٔ دیگری برای باز نمودن این نشانی دارید.</li> </ul>">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
+<li>برای باز کردن این نشانی، ممکن است نیاز به نصب نرم‌افزار دیگری داشته باشید.</li> 
+</ul>">
 
 <!ENTITY proxyConnectFailure.title "کارگزار پیشکار از اتصال خودداری می‌کند.">
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>تنظیمات پیشکار را بررسی کنید که صحیح باشند.</li> <li>با مدیر شبکه تماس بگیرید تا مطمئن شوید که کارگزار پیشکار عمل می‌کند.</li> </ul>">
