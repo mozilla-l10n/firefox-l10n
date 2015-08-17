@@ -30,7 +30,7 @@
    - This label and tooltip is used for the column with the checkbox in the
    - task tree view. -->
 <!ENTITY calendar.unifinder.tree.done.label                "Končano">
-<!ENTITY calendar.unifinder.tree.done.tooltip2             "Razvrsti po izvršitvi">
+<!ENTITY calendar.unifinder.tree.done.tooltip2             "Razvrsti po dokončanju">
 <!ENTITY calendar.unifinder.tree.priority.label            "Prednost">
 <!ENTITY calendar.unifinder.tree.priority.tooltip2         "Razvrsti po prednosti">
 <!ENTITY calendar.unifinder.tree.title.label               "Naziv">
@@ -254,7 +254,7 @@
 
 <!-- LOCALIZATION NOTE (calendar.context.showcalendar.accesskey)
      This is the access key used for the showCalendar string -->
-<!ENTITY calendar.context.showcalendar.accesskey      "k">
+<!ENTITY calendar.context.showcalendar.accesskey      "P">
 
 <!-- LOCALIZATION NOTE (calendar.context.hidecalendar.accesskey)
      This is the access key used for the hideCalendar string -->
