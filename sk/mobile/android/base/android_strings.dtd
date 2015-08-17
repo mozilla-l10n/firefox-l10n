@@ -677,3 +677,5 @@ size. -->
 <!ENTITY restriction_disallow_addons_description "Nepovolí inštaláciu doplnkov.">
 <!ENTITY restriction_disallow_apps_title "Zakázať aplikácie">
 <!ENTITY restriction_disallow_apps_description "Nepovolí inštaláciu aplikácií z Firefox Marketplace.">
+<!ENTITY restriction_disallow_devtools_title "Zakázať vývojárske nástroje">
+<!ENTITY restriction_disallow_devtools_description "Nepovolí používanie vývojárskych nástrojov.">
