@@ -5,5 +5,5 @@
    %brandDTD;
 <!ENTITY aboutLogins.title                       "Hesaplar">
 <!ENTITY aboutLogins.update                      "Güncelle">
-
-
+<!ENTITY aboutLogins.emptyLoginText              "Hesaplarınızı güvende tutun">
+<!ENTITY aboutLogins.emptyLoginHint              "&brandShortName; ile kaydettiğiniz hesap bilgileri burada görünecektir.">
