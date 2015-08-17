@@ -573,11 +573,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixed_content_display_loaded "Cette page possède certains éléments non sécurisés.">
 <!ENTITY mixed_content_protection_disabled "Vous avez désactivé la protection contre les éléments non sécurisés.">
 
-<!-- Tracking content notifications in site identity popup -->
-<!ENTITY loaded_tracking_content_message_top "La protection contre le pistage est désactivée.">
-<!ENTITY loaded_tracking_content_message_bottom "Certaines parties de cette page pourraient pister votre activité en ligne.">
-<!ENTITY blocked_tracking_content_message_top2 "La protection contre le pistage est activée.">
-<!ENTITY blocked_tracking_content_message_bottom2 "Les parties de la page qui pistent votre activité en ligne ont été bloquées.">
+<!ENTITY loaded_mixed_content_message "Cette page affiche du contenu non sécurisé.">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; a bloqué du contenu non sécurisé.">
+<!ENTITY blocked_mixed_content_message_bottom "La plupart des sites web continueront de fonctionner correctement même si ce contenu est bloqué.">
 
 <!-- Tracking content notifications in site identity popup -->
 <!ENTITY doorhanger_tracking_title "Protection contre le pistage">
