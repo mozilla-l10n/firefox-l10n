@@ -676,3 +676,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
 <!ENTITY devtools_auth_scan_header "Skenuje sa kód QR zobrazený na vašom ďalšom zariadení">
+
+<!-- Restrictions -->
+<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+     a restricted profile (e.g. child). Used inside the Android settings UI. -->
+<!ENTITY restriction_disallow_tools_menu_title "Zakázať ponuku Nástroje">
+<!ENTITY restriction_disallow_tools_menu_description "Skryje ponuku Nástroje z používateľského rozhrania.">
+<!ENTITY restriction_disallow_report_site_issue_title "Zakázať \'Nahlásiť problém so stránkou\'">
+<!ENTITY restriction_disallow_report_site_issue_description "V ponuke skryje položku \'Nahlásiť problém so stránkou\'.">
+<!ENTITY restriction_disallow_import_settings_title "Zakázať importovanie nastavení">
+<!ENTITY restriction_disallow_import_settings_description "Nepovolí importovanie nastavení z iných nainštalovaných prehliadačov.">
