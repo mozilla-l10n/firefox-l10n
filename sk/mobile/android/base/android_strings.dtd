@@ -683,3 +683,5 @@ size. -->
 <!ENTITY restriction_disallow_customize_home_description "Nepovolí prispôsobiť domovské panely.">
 <!ENTITY restriction_disallow_private_browsing_title "Zakázať Súkromné prehliadanie">
 <!ENTITY restriction_disallow_private_browsing_description "Nepovolí režim Súkromné prehliadanie.">
+<!ENTITY restriction_disallow_location_services_title "Zakázať služby zisťovania polohy">
+<!ENTITY restriction_disallow_location_services_description "Nepovolí zdieľanie údajov o umiestnení s cieľom vylepšiť službu zisťovania polohy.">
