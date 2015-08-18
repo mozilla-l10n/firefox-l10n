@@ -5,7 +5,7 @@
 <!ENTITY aboutPrivateBrowsing.notPrivate       "Vous ne vous trouvez pas dans une fenêtre de navigation privée.">
 
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Ouvrir une fenêtre de navigation privée">
-<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
+<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "u">
 
 <!ENTITY privateBrowsing.title                 "Navigation privée">
 
