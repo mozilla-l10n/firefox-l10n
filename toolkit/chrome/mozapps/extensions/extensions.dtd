@@ -134,7 +134,7 @@ cele mai utilizate și populare extensii pentru a vă permite să le încercați
 <!ENTITY detail.version.label                 "Versiune">
 <!ENTITY detail.lastupdated.label             "Ultima actualizare">
 <!ENTITY detail.creator.label                 "Dezvoltator">
-<!ENTITY detail.homepage.label                "Pagina principală">
+<!ENTITY detail.homepage.label                "Pagina de start">
 <!ENTITY detail.numberOfDownloads.label       "Descărcări">
 
 <!ENTITY detail.contributions.description     "Dezvoltatorul acestei extensii vă cere sprijinul pentru continuarea perfecționării acesteia printr-o mică donație.">
@@ -185,7 +185,7 @@ cele mai utilizate și populare extensii pentru a vă permite să le încercați
 <!ENTITY search.filter2.available.label       "Suplimente disponibile">
 <!ENTITY search.filter2.available.tooltip     "Arată suplimentele disponibile pentru instalare">
 
-<!ENTITY addon.homepage                       "Pagina suplimentului">
+<!ENTITY addon.homepage                       "Pagina de start">
 <!ENTITY addon.details.label                  "Mai multe">
 <!ENTITY addon.details.tooltip                "Arată mai multe detalii despre acest supliment">
 <!ENTITY addon.unknownDate                    "Necunoscut">
