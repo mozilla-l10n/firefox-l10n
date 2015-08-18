@@ -341,7 +341,6 @@ size. -->
 <!ENTITY addons "Doplnky">
 <!ENTITY logins "Heslá">
 <!ENTITY downloads "Prevzaté súbory">
-<!ENTITY apps "Aplikácie">
 <!ENTITY char_encoding "Kódovanie znakov">
 
 <!ENTITY share "Zdieľať">
