@@ -51,7 +51,7 @@
 <!ENTITY siteUrl.label                "Adresa de publicare (ex.: „ftp://ftp.isp.ro/numelemeu”):">
 <!ENTITY siteUrl.accesskey            "A">
 <!ENTITY siteUrl.tooltip              "Adresa FTP:// sau HTTP:// furnizată de ISP sau de serviciul de găzduire web">
-<!ENTITY browseUrl.label              "Adresa HTTP a paginii dumneavoastră personale (ex.: „http://www.isp.ro/numelemeu”):">
+<!ENTITY browseUrl.label              "Adresa HTTP a paginii de start (ex.: „http://www.isp.ro/numelemeu”):">
 <!ENTITY browseUrl.accesskey          "A">
 <!ENTITY browseUrl.tooltip            "Adresa HTTP:// a directorului dumneavoastră personal (nu includeți nume de fișier)">
 <!ENTITY username.label               "Nume utilizator:">
