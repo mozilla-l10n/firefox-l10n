@@ -43,3 +43,4 @@
 <!ENTITY done.title                     "Innflutningi lokið">
 <!ENTITY done.label                     "Eftirfarandi hluti tókst að flytja inn:">
 
+<!ENTITY closeSourceBrowser.label       "Gakktu úr skugga um að valinn vafri sé lokaður áður en haldið er áfram.">

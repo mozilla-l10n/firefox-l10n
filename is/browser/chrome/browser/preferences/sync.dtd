@@ -89,7 +89,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin  "Innskráning">
 
 
+<!ENTITY mobilePromo.start            "Hala niður Firefox fyrir ">
 <!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
 <!ENTITY mobilePromo.androidLink      "Android™">
-
+<!ENTITY mobilePromo.end              "  til að samstilla með farsímanum.">
 <!ENTITY androidAttribution           "Android er skrásett vörumerki Google Inc.">
