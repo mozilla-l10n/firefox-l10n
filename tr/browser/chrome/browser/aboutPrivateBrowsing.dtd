@@ -52,6 +52,6 @@
 
 <!ENTITY trackingProtection.description1       "Gizli pencereler, artık sayfalardaki gezinti etkinliğinizi izleyebilecek kısımları engelliyor.">
 
-<!ENTITY trackingProtection.disable            "İzleme korumasını kapat">
-<!ENTITY trackingProtection.enable             "İzleme korumasını aç">
+<!ENTITY trackingProtection.disable            "İzlenme korumasını kapat">
+<!ENTITY trackingProtection.enable             "İzlenme korumasını aç">
 <!ENTITY trackingProtection.startTour1         "Nasıl çalıştığını görün">
