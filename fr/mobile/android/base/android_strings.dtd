@@ -568,14 +568,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_insecure "Connexion non sécurisée">
 
 <!-- Mixed content notifications in site identity popup -->
-<!ENTITY mixed_content_blocked_all "&brandShortName; a bloqué des éléments non sécurisés sur cette page.">
-<!ENTITY mixed_content_blocked_some "&brandShortName; a bloqué certains éléments non sécurisés sur cette page.">
-<!ENTITY mixed_content_display_loaded "Cette page possède certains éléments non sécurisés.">
-<!ENTITY mixed_content_protection_disabled "Vous avez désactivé la protection contre les éléments non sécurisés.">
-
-<!ENTITY loaded_mixed_content_message "Cette page affiche du contenu non sécurisé.">
-<!ENTITY blocked_mixed_content_message_top "&brandShortName; a bloqué du contenu non sécurisé.">
-<!ENTITY blocked_mixed_content_message_bottom "La plupart des sites web continueront de fonctionner correctement même si ce contenu est bloqué.">
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; a bloqué du contenu non sécurisé sur cette page.">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; a bloqué une partie du contenu non sécurisé sur cette page.">
+<!ENTITY mixed_content_display_loaded1 "Certains éléments de la page ne sont pas sécurisés (tels que des images).">
+<!ENTITY mixed_content_protection_disabled1 "Vous avez désactivé la protection contre le contenu non sécurisé.">
 
 <!-- Tracking content notifications in site identity popup -->
 <!ENTITY doorhanger_tracking_title "Protection contre le pistage">
