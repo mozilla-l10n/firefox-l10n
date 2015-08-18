@@ -409,6 +409,11 @@ size. -->
 <!ENTITY pref_titlebar_mode_title "Zobrazovať titulok stránky">
 <!ENTITY pref_titlebar_mode_url "Zobrazovať adresu stránky">
 
+<!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
+     whether or not the magnifying glass is disabled. -->
+<!ENTITY pref_prevent_magnifying_glass "Zakázať zväčšovacie sklo">
+<!ENTITY pref_prevent_magnifying_glass_summary "Zablokuje používanie zväčšovacieho skla, aby sa zabránilo nejednoznačným dotykovým gestám">
+
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar2 "Prehliadanie na celú obrazovku">
