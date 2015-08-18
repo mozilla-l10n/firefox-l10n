@@ -563,7 +563,7 @@ size. -->
 <!ENTITY doorhanger_tracking_state_enabled "Zapnutá">
 <!ENTITY doorhanger_tracking_state_disabled "Vypnutá">
 <!ENTITY doorhanger_tracking_message_enabled1 "Pokusy o sledovanie vašej aktivity online boli zablokované.">
-<!ENTITY doorhanger_tracking_message_disabled1 "Táto stránka obsahuje prvky, ktoré sledujú vašu aktivitu online.">
+<!ENTITY doorhanger_tracking_message_disabled2 "Táto stránka obsahuje prvky, ktoré sledujú vašu aktivitu online.">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Ďalšie informácie">
