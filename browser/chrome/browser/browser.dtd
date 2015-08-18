@@ -644,6 +644,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "z">
 
+<!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "Lapas stils">
 <!ENTITY pageStyleMenu.accesskey "t">
@@ -692,10 +693,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionInternal "Šī ir droša &brandShortName; lapa.">
 <!-- Strings for connection state warnings. -->
 
-
-
+<!ENTITY identity.activeBlocked "&brandShortName; bloķēja nedrošo saturu šajā lapā.">
+<!ENTITY identity.passiveLoaded "Šīs lapas daļas (piemēram attēli) nav drošas.">
+<!ENTITY identity.activeLoaded "Nedrošu elementu aizsardzība ir deaktivēta.">
+<!ENTITY identity.weakEncryption "Šī lapa izmanto vāju šifrēšanu.">
 <!-- Strings for connection state warnings in the subview. -->
 
+<!ENTITY identity.description.insecure "Jūsu savienojums ar šo lapu nav drošs. Lapai nosūtītā informācija (piemēram paroles, ziņojumi vai kredītkartes dati) var būt pieejami citiem.">
+<!ENTITY identity.description.weakCipher "Jūsu savienojums ar šo lapu izmanto vāju šifrēšanu un nav privāts.">
 
 
 
