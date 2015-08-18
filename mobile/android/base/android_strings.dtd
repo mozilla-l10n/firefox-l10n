@@ -198,7 +198,7 @@
 <!ENTITY pref_cookies_disabled "Zakázané">
 
 <!ENTITY pref_tracking_protection_title "Ochrana pred sledovaním">
-<!ENTITY pref_tracking_protection_summary2 "Aktívne blokovať prvky sledovania v režime Súkromné prehliadanie">
+<!ENTITY pref_tracking_protection_summary3 "Povolená v režime Súkromné prehliadanie">
 <!ENTITY pref_donottrack_title "Funkcia Do not track">
 <!ENTITY pref_donottrack_summary "&brandShortName; požiada webové stránky, aby nesledovali vašu aktivitu">
 
