@@ -6,9 +6,12 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Ireki leiho pribatua">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "h">
 
+<!ENTITY privateBrowsing.title                 "Nabigatze pribatua">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
      Width of the Private Browsing section.
      -->
+
+<!ENTITY aboutPrivateBrowsing.width            "25em">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
      aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
      These strings will be replaced by aboutPrivateBrowsing.forgotten and
@@ -16,13 +19,14 @@
      -->
 
 <!ENTITY aboutPrivateBrowsing.title            "Modu pribatuan ari zara nabigatzen">
+<!ENTITY aboutPrivateBrowsing.subtitle         "Leiho honetan &brandShortName;(e)k ez du historiarik gogoratuko.">
 
-
+<!ENTITY aboutPrivateBrowsing.forgotten        "Leiho honetan &brandShortName;(e)k ez du gogoratuko:">
 
 <!ENTITY aboutPrivateBrowsing.info.history     "Historia">
-
+<!ENTITY aboutPrivateBrowsing.info.searches    "Bilaketak">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Cookieak">
-
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Behin-behineko fitxategiak">
 
 
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Deskargak">
@@ -34,12 +38,17 @@
      accommodate the title as well as the enabled or disabled indicator.
      -->
 
+<!ENTITY trackingProtection.width              "22em">
+<!ENTITY trackingProtection.title              "Jarraipenaren babesa">
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
 
+<!ENTITY trackingProtection.state.width        "6ch">
+<!ENTITY trackingProtection.state.enabled      "AKTIBATUTA">
+<!ENTITY trackingProtection.state.disabled     "DESAKTIBATUTA">
 
 
-
-
-
+<!ENTITY trackingProtection.disable            "Desaktibatu jarraipenaren babesa">
+<!ENTITY trackingProtection.enable             "Aktibatu jarraipenaren babesa">
+<!ENTITY trackingProtection.startTour1         "Ikusi nola dabilen">
