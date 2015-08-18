@@ -203,8 +203,8 @@
 <!ENTITY pref_donottrack_summary "&brandShortName; saytlara izlənmək istəmədiyinizi xəbər edəcək">
 
 <!ENTITY tracking_protection_prompt_title "Artıq İzləmə Qoruması ilə">
-
-
+<!ENTITY tracking_protection_prompt_text "Bütün izləmə elementlərini aktiv bloklayır və beləliklə sizin narahat olmanıza əsas qalmır.">
+<!ENTITY tracking_protection_prompt_tip_text "Ətraflı öyrənmək üçün Məxfilik tənzimləmələrinə daxil olun">
 <!ENTITY tracking_protection_prompt_action_button "Bildim!">
 
 <!ENTITY tab_queue_toast_message3 "&brandShortName; səyyahında saxlanmış vərəq">
@@ -413,6 +413,8 @@ size. -->
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
+<!ENTITY pref_prevent_magnifying_glass "Yaxınlaşdırıcını söndür ">
+<!ENTITY pref_prevent_magnifying_glass_summary "İkimənalı ekran toxunuşlarının qarşısını almaq üçün yaxınlaşdırıcının qarşısını alın">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
