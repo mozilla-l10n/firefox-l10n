@@ -564,8 +564,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_insecure "Təhlükəli bağlantı">
 <!-- Mixed content notifications in site identity popup -->
 
-
-
+<!ENTITY mixed_content_blocked_all "&brandShortName; bu səhifədə olan təhlükəli elementləri blokladı.">
+<!ENTITY mixed_content_blocked_some "&brandShortName; bu səhifədə olan bəzi təhlükəli elementləri blokladı.">
+<!ENTITY mixed_content_display_loaded "Bu səhifədə bəzi təhlükəli elementlər var.">
+<!ENTITY mixed_content_protection_disabled "Siz təhlükəli elementlərdən qorunmanı söndürmüsünüz.">
 
 <!ENTITY loaded_mixed_content_message "Bu səhifə təhlükəsizliyi olmayan məzmun göstərir.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; təhlükəsizliyi olmayan məzmunu bloklaşdırdı.">
@@ -575,8 +577,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY doorhanger_tracking_title "İzlənmə qoruması">
 <!ENTITY doorhanger_tracking_state_enabled "Aktivdir">
 <!ENTITY doorhanger_tracking_state_disabled "Söndürülüb">
-
-
+<!ENTITY doorhanger_tracking_message_enabled1 "Sizin onlayn aktivliyi izləmə cəhdi bloklandı.">
+<!ENTITY doorhanger_tracking_message_disabled2 "Bu səhifədə sizin səyahətinizi izləyə biləcək elementlər var.">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "Daha çox məlumat alın">
@@ -685,16 +687,20 @@ idxal edilir">
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
+
+<!ENTITY devtools_auth_scan_header "Digər cihazınızda göstərilən QR kod üçün tətqiq edilir.">
 <!-- Restrictions -->
 <!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
+
+<!ENTITY restriction_disallow_import_settings_title2 "\u0027Android-dən daxil et\u0027-i söndür">
 <!ENTITY restriction_disallow_addons_title2 "Əlavə quraşdırılması söndürülüb">
 <!ENTITY restriction_disallow_devtools_title2 "Tərtibatçı alətlərini söndür">
-
+<!ENTITY restriction_disallow_customize_home_title2 "Ana səhifəni fərdiləşdirməni söndür">
 <!ENTITY restriction_disallow_private_browsing_title2 "Məxfi Səyahəti söndür">
 <!ENTITY restriction_disallow_location_services_title2 "Lokasiya Xidmətini söndür">
-
-
+<!ENTITY restriction_disallow_display_settings_title2 "Ekran tənzimləmələrini söndür">
+<!ENTITY restriction_disallow_clear_history_title2 "\u0027Səyahət tarixçəsini təmizlə\u0027-məni söndür">
 <!ENTITY restriction_disallow_master_password_title2 "Ana şifrəni söndür">
 <!ENTITY restriction_disallow_guest_browsing_title2 "Qonaq Səyahətini söndür">
 
