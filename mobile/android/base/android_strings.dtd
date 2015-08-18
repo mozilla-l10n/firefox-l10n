@@ -687,3 +687,5 @@ size. -->
 <!ENTITY restriction_disallow_location_services_description "Nepovolí zdieľanie údajov o umiestnení s cieľom vylepšiť službu zisťovania polohy.">
 <!ENTITY restriction_disallow_display_settings_title "Zakázať nastavenia obrazovky">
 <!ENTITY restriction_disallow_display_settings_description "Nepovolí zmenu niektorých nastavení obrazovky.">
+<!ENTITY restriction_disallow_clear_history_title "Zakázať vymazanie histórie">
+<!ENTITY restriction_disallow_clear_history_description "Nepovolí vymazanie histórie prehliadania.">
