@@ -554,9 +554,10 @@ size. -->
 <!ENTITY identity_connection_insecure "Nezabezpečené pripojenie">
 
 <!-- Mixed content notifications in site identity popup -->
-<!ENTITY loaded_mixed_content_message "Táto stránka zobrazuje obsah, ktorý nie je bezpečný.">
-<!ENTITY blocked_mixed_content_message_top "&brandShortName; zablokoval obsah, ktorý nie je bezpečný.">
-<!ENTITY blocked_mixed_content_message_bottom "Väčšina webových stránok bude fungovať správne aj po zablokovaní tohto obsahu.">
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; zablokoval na tejto stránke obsah, ktorý nie je bezpečný.">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; zablokoval na tejto stránke časť nebezpečného obsahu.">
+<!ENTITY mixed_content_display_loaded1 "Časti tejto stránky nie sú bezpečné (ako napr. obrázky).">
+<!ENTITY mixed_content_protection_disabled1 "Ochrana pred nebezpečným obsahom je vypnutá.">
 
 <!-- Tracking content notifications in site identity popup -->
 <!ENTITY doorhanger_tracking_title "Ochrana pred sledovaním">
