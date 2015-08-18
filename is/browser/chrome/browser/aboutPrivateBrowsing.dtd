@@ -21,7 +21,7 @@
 <!ENTITY aboutPrivateBrowsing.title            "Þú ert í huliðsstillingu">
 
 
-
+<!ENTITY aboutPrivateBrowsing.info.forgotten   "Gleymt">
 <!ENTITY aboutPrivateBrowsing.info.history     "Ferill">
 
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Smákökur">
