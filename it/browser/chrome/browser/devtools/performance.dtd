@@ -11,17 +11,16 @@
 <!ENTITY performanceUI.loadingNotice "Caricamento…">
 <!ENTITY performanceUI.recordButton.tooltip "Attiva/disattiva lo stato di una registrazione.">
 <!ENTITY performanceUI.importButton "Importa…">
-<!ENTITY performanceUI.exportButton "Salva">
 <!ENTITY performanceUI.clearButton "Cancella">
 <!ENTITY performanceUI.toolbar.waterfall "Sequenza temporale">
-<!ENTITY performanceUI.toolbar.js-calltree "JavaScript">
-<!ENTITY performanceUI.toolbar.memory-calltree "Allocazioni">
-<!ENTITY performanceUI.toolbar.js-flamegraph "Flame chart JS">
-<!ENTITY performanceUI.toolbar.memory-flamegraph "Flame chart allocazioni">
 <!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Visualizza le diverse operazioni eseguite dal browser nel corso della registrazione, mostrandole in sequenza come una cascata.">
+<!ENTITY performanceUI.toolbar.js-calltree "JavaScript">
 <!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Evidenzia le funzioni JavaScript in cui il browser ha speso più tempo nel corso della registrazione.">
-<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Visualizza lo stack di chiamata JavaScript nel corso della registrazione.">
+<!ENTITY performanceUI.toolbar.memory-calltree "Allocazioni">
 <!ENTITY performanceUI.toolbar.allocations.tooltiptext "Visualizza in che modo è stata allocata la memoria nel corso della registrazione.">
+<!ENTITY performanceUI.toolbar.js-flamegraph "Flame chart JS">
+<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Visualizza lo stack di chiamata JavaScript nel corso della registrazione.">
+<!ENTITY performanceUI.toolbar.memory-flamegraph "Flame chart allocazioni">
 <!ENTITY performanceUI.table.totalDuration "Tempo totale">
 <!ENTITY performanceUI.table.totalDuration.tooltip "Il tempo trascorso in questa funzione e nelle funzioni chiamate.">
 <!ENTITY performanceUI.table.selfDuration "Tempo individuale">
