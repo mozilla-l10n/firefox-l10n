@@ -290,7 +290,7 @@
 <!ENTITY pref_titlebar_mode_title "Mostrar el título de la página">
 <!ENTITY pref_titlebar_mode_url "Mostrar la dirección de la página">
 <!ENTITY pref_prevent_magnifying_glass "Desactivar lupa de aumento">
-<!ENTITY pref_prevent_magnifying_glass_summary "Impedir que la lupa se use para resolver los toques en pantalla ambiguos">
+<!ENTITY pref_prevent_magnifying_glass_summary "Impedir la activación de la lupa por toques de pantalla ambiguos">
 <!ENTITY pref_scroll_title_bar2 "Navegación en pantalla completa">
 <!ENTITY pref_scroll_title_bar_summary "Ocultar la barra de título de &brandShortName; al bajar por una página">
 <!ENTITY pref_tab_queue_title2 "Abrir múltiples enlaces">
