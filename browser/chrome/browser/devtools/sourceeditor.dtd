@@ -16,4 +16,4 @@
 
 <!ENTITY gotoLineCmd.label "Přejít na řádek…">
 <!ENTITY gotoLineCmd.key "J">
-<!ENTITY gotoLineCmd.accesskey "j">
+<!ENTITY gotoLineCmd.accesskey "n">
