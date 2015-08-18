@@ -669,14 +669,10 @@ size. -->
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 <!ENTITY restriction_disallow_tools_menu_title "Zakázať ponuku Nástroje">
 <!ENTITY restriction_disallow_tools_menu_description "Skryje ponuku Nástroje z používateľského rozhrania.">
-<!ENTITY restriction_disallow_report_site_issue_title "Zakázať \'Nahlásiť problém so stránkou\'">
-<!ENTITY restriction_disallow_report_site_issue_description "V ponuke skryje položku \'Nahlásiť problém so stránkou\'.">
 <!ENTITY restriction_disallow_import_settings_title "Zakázať importovanie nastavení">
 <!ENTITY restriction_disallow_import_settings_description "Nepovolí importovanie nastavení z iných nainštalovaných prehliadačov.">
 <!ENTITY restriction_disallow_addons_title "Zakázať doplnky">
 <!ENTITY restriction_disallow_addons_description "Nepovolí inštaláciu doplnkov.">
-<!ENTITY restriction_disallow_apps_title "Zakázať aplikácie">
-<!ENTITY restriction_disallow_apps_description "Nepovolí inštaláciu aplikácií z Firefox Marketplace.">
 <!ENTITY restriction_disallow_devtools_title "Zakázať vývojárske nástroje">
 <!ENTITY restriction_disallow_devtools_description "Nepovolí používanie vývojárskych nástrojov.">
 <!ENTITY restriction_disallow_customize_home_title "Zakázať prispôsobovať domovskú obrazovku">
@@ -691,3 +687,5 @@ size. -->
 <!ENTITY restriction_disallow_clear_history_description "Nepovolí vymazanie histórie prehliadania.">
 <!ENTITY restriction_disallow_master_password_title "Zakázať hlavné heslo">
 <!ENTITY restriction_disallow_master_password_description "Nepovolí nastavenie hlavného hesla pre prihlasovacie údaje.">
+<!ENTITY restriction_disallow_guest_browsing_title "Zakázať režim Hosť">
+<!ENTITY restriction_disallow_guest_browsing_description "Nepovolí režim Hosť.">
