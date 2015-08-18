@@ -653,7 +653,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Estilo de página básico">
 <!ENTITY pageStylePersistentOnly.accesskey "b">
 
-<!ENTITY pageReportIcon.tooltip            "Alterar definições de janelas pop-up para este site">
+<!ENTITY pageReportIcon.tooltip            "Alterar definições de janelas pop-up para este sítio web">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -689,7 +689,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Ligação segura">
 <!ENTITY identity.connectionNotSecure "Ligação não segura">
 <!ENTITY identity.connectionFile "Esta página está guardada no seu computador.">
-<!ENTITY identity.connectionVerified "O &brandShortName; verificou que estabeleceu uma ligação segura a este site através de:">
+<!ENTITY identity.connectionVerified "O &brandShortName; verificou que estabeleceu uma ligação segura a este sítio através de:">
 <!ENTITY identity.connectionInternal "Esta é uma página segura do &brandShortName;.">
 <!-- Strings for connection state warnings. -->
 
@@ -699,9 +699,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.weakEncryption "Esta página usa uma encriptação fraca.">
 <!-- Strings for connection state warnings in the subview. -->
 
-<!ENTITY identity.description.insecure "A sua ligação a este site não é privada. As informações que submeter (tais como palavra-passe, mensagens, cartões de créditos, etc.) podem ser vistas por terceiros.">
-<!ENTITY identity.description.weakCipher "A sua ligação com este site utiliza encriptação fraca e não é privada.">
-<!ENTITY identity.description.weakCipher2 "Outras pessoas podem ver a sua informação ou alterar o comportamento do site.">
+<!ENTITY identity.description.insecure "A sua ligação a este sítio não é privada. As informações que submeter (tais como palavra-passe, mensagens, cartões de créditos, etc.) podem ser vistas por terceiros.">
+<!ENTITY identity.description.weakCipher "A sua ligação com este sítio web utiliza encriptação fraca e não é privada.">
+<!ENTITY identity.description.weakCipher2 "Outras pessoas podem ver a sua informação ou alterar o comportamento do sítio web.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; bloqueou partes desta página que não são seguras.">
 <!ENTITY identity.description.passiveLoaded "A sua ligação não é privada e a informação que partilha com o sítio pode ser vista por outros.">
 <!ENTITY identity.description.passiveLoaded2 "Este sítio web contém conteúdo que não é seguro (tal como imagens).">
