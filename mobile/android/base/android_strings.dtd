@@ -672,25 +672,13 @@ size. -->
 <!-- Restrictions -->
 <!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
-<!ENTITY restriction_disallow_tools_menu_title "Zakázať ponuku Nástroje">
-<!ENTITY restriction_disallow_tools_menu_description "Skryje ponuku Nástroje z používateľského rozhrania.">
-<!ENTITY restriction_disallow_import_settings_title "Zakázať importovanie nastavení">
-<!ENTITY restriction_disallow_import_settings_description "Nepovolí importovanie nastavení z iných nainštalovaných prehliadačov.">
-<!ENTITY restriction_disallow_addons_title "Zakázať doplnky">
-<!ENTITY restriction_disallow_addons_description "Nepovolí inštaláciu doplnkov.">
-<!ENTITY restriction_disallow_devtools_title "Zakázať vývojárske nástroje">
-<!ENTITY restriction_disallow_devtools_description "Nepovolí používanie vývojárskych nástrojov.">
-<!ENTITY restriction_disallow_customize_home_title "Zakázať prispôsobovať domovskú obrazovku">
-<!ENTITY restriction_disallow_customize_home_description "Nepovolí prispôsobiť domovské panely.">
-<!ENTITY restriction_disallow_private_browsing_title "Zakázať Súkromné prehliadanie">
-<!ENTITY restriction_disallow_private_browsing_description "Nepovolí režim Súkromné prehliadanie.">
-<!ENTITY restriction_disallow_location_services_title "Zakázať služby zisťovania polohy">
-<!ENTITY restriction_disallow_location_services_description "Nepovolí zdieľanie údajov o umiestnení s cieľom vylepšiť službu zisťovania polohy.">
-<!ENTITY restriction_disallow_display_settings_title "Zakázať nastavenia obrazovky">
-<!ENTITY restriction_disallow_display_settings_description "Nepovolí zmenu niektorých nastavení obrazovky.">
-<!ENTITY restriction_disallow_clear_history_title "Zakázať vymazanie histórie">
-<!ENTITY restriction_disallow_clear_history_description "Nepovolí vymazanie histórie prehliadania.">
-<!ENTITY restriction_disallow_master_password_title "Zakázať hlavné heslo">
-<!ENTITY restriction_disallow_master_password_description "Nepovolí nastavenie hlavného hesla pre prihlasovacie údaje.">
-<!ENTITY restriction_disallow_guest_browsing_title "Zakázať režim Hosť">
-<!ENTITY restriction_disallow_guest_browsing_description "Nepovolí režim Hosť.">
+<!ENTITY restriction_disallow_import_settings_title2 "Zakázať \'Import z Androidu\'">
+<!ENTITY restriction_disallow_addons_title2 "Zakázať inštaláciu doplnkov">
+<!ENTITY restriction_disallow_devtools_title2 "Zakázať vývojárske nástroje">
+<!ENTITY restriction_disallow_customize_home_title2 "Zakázať prispôsobovať domovskú obrazovku">
+<!ENTITY restriction_disallow_private_browsing_title2 "Zakázať Súkromné prehliadanie">
+<!ENTITY restriction_disallow_location_services_title2 "Zakázať služby zisťovania polohy">
+<!ENTITY restriction_disallow_display_settings_title2 "Zakázať nastavenia obrazovky">
+<!ENTITY restriction_disallow_clear_history_title2 "Zakázať \'Vymazať históriu prehliadania\'">
+<!ENTITY restriction_disallow_master_password_title2 "Zakázať hlavné heslo">
+<!ENTITY restriction_disallow_guest_browsing_title2 "Zakázať režim Hosť">
