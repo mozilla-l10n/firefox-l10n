@@ -689,3 +689,5 @@ size. -->
 <!ENTITY restriction_disallow_display_settings_description "Nepovolí zmenu niektorých nastavení obrazovky.">
 <!ENTITY restriction_disallow_clear_history_title "Zakázať vymazanie histórie">
 <!ENTITY restriction_disallow_clear_history_description "Nepovolí vymazanie histórie prehliadania.">
+<!ENTITY restriction_disallow_master_password_title "Zakázať hlavné heslo">
+<!ENTITY restriction_disallow_master_password_description "Nepovolí nastavenie hlavného hesla pre prihlasovacie údaje.">
