@@ -794,7 +794,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "ستُشارك كل النوافذ الظاهرة على شاشتك.">
 
 <!ENTITY trackingProtection.title "الحماية من التعقّب">
-
+<!ENTITY trackingProtection.detectedBlocked3 "يحظر &brandShortName; أجزاءً من الصفحة ربما تتعقب تصفّحك.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "في هذا الموقع عناصر قد تتعقّب تصفّحك. لقد عطّلتَ الحماية.">
 <!ENTITY trackingProtection.notDetected3 "لم تُكتشف أيّة عناصر تعقّب في هذه الصفحة.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):

@@ -7,12 +7,12 @@
 <!ENTITY dntTrackingNotOkay4.label     "اطلب من المواقع ألا تتعقّبك">
 <!ENTITY dntTrackingNotOkay4.accesskey "ق">
 <!ENTITY doNotTrackInfo.label          "اطّلع على المزيد">
-
-
-
+<!ENTITY trackingProtection5.label     "استخدم الحماية من التعقّب">
+<!ENTITY trackingProtection5.accesskey "ق">
+<!ENTITY trackingProtectionLearnMore.label "اطّلع على المزيد">
 <!ENTITY trackingProtectionPBM5.label         "استخدم الحماية من التعقّب في النوافذ الخاصة">
 <!ENTITY trackingProtectionPBM5.accesskey     "ص">
-
+<!ENTITY trackingProtectionPBMLearnMore.label "اطّلع على المزيد">
 
 <!ENTITY  history.label                 "التأريخ">
 
