@@ -84,7 +84,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY welcome.useOldSync.label "Ertu að nota gamla útgáfu af Sync?">
 
 
-
+<!ENTITY signedOut.accountBox.title   "Tengjast með &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Búa til reikning">
 <!ENTITY signedOut.accountBox.signin  "Innskráning">
 
