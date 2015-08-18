@@ -20,7 +20,6 @@
 <!ENTITY performanceUI.loadingNotice "Cargando…">
 <!ENTITY performanceUI.recordButton.tooltip "Cambia el estado de grabación de una grabación de rendimiento.">
 <!ENTITY performanceUI.importButton "Importar…">
-<!ENTITY performanceUI.exportButton "Guardar">
 <!ENTITY performanceUI.clearButton "Vaciar">
 <!ENTITY performanceUI.toolbar.waterfall "Cascada">
 <!ENTITY performanceUI.toolbar.js-calltree "Árbol de llamadas">
@@ -54,7 +53,7 @@
 <!ENTITY performanceUI.invertTree             "Invertir árbol de llamadas">
 <!ENTITY performanceUI.invertTree.tooltiptext "Invertir el árbol de llamadas muestra las ubicaciones de las llamadas perfiladas empezando por los cuadros más jóvenes, expandiéndose a los más antiguos.">
 <!ENTITY performanceUI.invertFlameGraph             "Invertir tabla de llamas">
-<!ENTITY performanceUI.invertFlameGraph.tooltiptext Invertir la tabla de llamas muestra las ubicaciones de las llamadas perfiladas empezando por los cuadros más jóvenes, expandiéndose a los más antiguos.">
+<!ENTITY performanceUI.invertFlameGraph.tooltiptext "Invertir la tabla de llamas muestra las ubicaciones de las llamadas perfiladas empezando por los cuadros más jóvenes, expandiéndose a los más antiguos.">
 
 <!ENTITY performanceUI.showPlatformData             "Mostrar datos de la plataforma Gecko">
 <!ENTITY performanceUI.showPlatformData.tooltiptext "Mostrar los datos de la plataforma permite que los reportes del Perfilador JavaScript incluyan símbolos de la plataforma Gecko.">

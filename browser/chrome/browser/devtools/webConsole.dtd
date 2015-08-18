@@ -44,7 +44,14 @@
 <!ENTITY btnConsoleWarnings "Advertencias">
 <!ENTITY btnConsoleLog "Registro">
 <!ENTITY btnConsoleXhr          "XHR">
-<!ENTITY btnConsoleReflows "Redibujados">
+<!ENTITY btnConsoleReflows "Redibujos">
+<!ENTITY btnServerLogging.label       "Servidor">
+<!ENTITY btnServerLogging.tooltip     "Registrar mensajes recibidos desde un servidor web">
+<!ENTITY btnServerLogging.accesskey   "S">
+<!ENTITY btnServerErrors              "Errores">
+<!ENTITY btnServerInfo                "Info">
+<!ENTITY btnServerWarnings            "Advertencias">
+<!ENTITY btnServerLog                 "Registro">
 <!ENTITY btnConsoleSharedWorkers "Shared Workers">
 <!ENTITY btnConsoleServiceWorkers "Service Workers">
 <!ENTITY btnConsoleWindowlessWorkers "Complemento o Workers de Chrome">
