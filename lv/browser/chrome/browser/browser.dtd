@@ -110,7 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "v">
 
 <!ENTITY fxaSignIn.label "Pierakstīties &syncBrand.shortName.label;">
-
+<!ENTITY fxaSignedIn.tooltip "Atvērt &syncBrand.shortName.label; iestatījumus">
 <!ENTITY fxaSignInError.label "Atkārtoti savienoties ar &syncBrand.shortName.label;">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; aktivēta">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; tūlīt sāksies.">
@@ -395,7 +395,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Pārslēgties uz cilni:">
 
-
+<!ENTITY urlbar.searchSuggestionsNotification.question "Vai vēlaties ieslēgt meklēšanas ieteikumus?">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Uzzināt vairāk…">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Nē">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Jā">
 <!-- 
@@ -426,6 +427,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      These are set as the aria-label attribute for the search input box and
      submit button in the in-content search UI, to be used by screen readers. -->
 
+<!ENTITY contentSearchInput.label     "Meklējamā frāze">
+<!ENTITY contentSearchSubmit.label    "Nosūtīt meklējumu">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -680,11 +683,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "Gatavs">
 <!ENTITY editBookmark.cancel.label                   "Atcelt">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "K">
 
 <!ENTITY identity.connectionSecure "Drošs savienojums">
 <!ENTITY identity.connectionNotSecure "Savienojums nav drošs">
-
+<!ENTITY identity.connectionFile "Šī lapa ir saglabāta jūsu datorā.">
 <!ENTITY identity.connectionVerified "&brandShortName; pārliecinājās, ka jūsu savienojums ar šo lapu ir drošs. Lapa pieder:">
 <!ENTITY identity.connectionInternal "Šī ir droša &brandShortName; lapa.">
 <!-- Strings for connection state warnings. -->
