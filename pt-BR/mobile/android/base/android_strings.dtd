@@ -70,7 +70,7 @@
 
 <!ENTITY close_tab "Fechar aba">
 <!ENTITY tab_audio_playing "Esta aba está reproduzindo áudio">
-
+<!ENTITY tab_audio_muted "Foi retirado o som desta aba">
 <!ENTITY one_tab "1 aba">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -687,6 +687,8 @@ do Android">
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
+
+<!ENTITY devtools_auth_scan_header "Digitalização do código QR apresentado no seu outro dispositivo">
 <!-- Restrictions -->
 <!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
