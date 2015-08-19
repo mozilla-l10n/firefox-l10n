@@ -88,6 +88,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.create  "Búa til reikning">
 <!ENTITY signedOut.accountBox.signin  "Innskráning">
 
+<!ENTITY signedIn.engines.label       "Samstilla með öllum tækjum">
 
 <!ENTITY mobilePromo.start            "Hala niður Firefox fyrir ">
 <!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
