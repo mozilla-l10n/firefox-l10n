@@ -19,18 +19,21 @@
      -->
 
 <!ENTITY aboutPrivateBrowsing.title            "Þú ert í huliðsstillingu">
+<!ENTITY aboutPrivateBrowsing.subtitle         "Í þessum glugga, mun &brandShortName; ekki geyma neinn feril.">
 
-
+<!ENTITY aboutPrivateBrowsing.forgotten        "Í þessum glugga, mun &brandShortName; ekki geyma:">
 <!ENTITY aboutPrivateBrowsing.info.forgotten   "Gleymt">
 <!ENTITY aboutPrivateBrowsing.info.history     "Ferill">
-
+<!ENTITY aboutPrivateBrowsing.info.searches    "Leit">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Smákökur">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Tímabundnar skrár">
 
-
-
+<!ENTITY aboutPrivateBrowsing.kept             "&brandShortName; mun geyma:">
+<!ENTITY aboutPrivateBrowsing.info.kept        "Geymt">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Niðurhal">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Bókamerki">
 
+<!ENTITY aboutPrivateBrowsing.note1            "Athugaðu að vinnuveitandi þinn eða netþjónustuaðili gæti samt sem áður fylgst með þeim síðum sem þú heimsækir.">
 <!ENTITY aboutPrivateBrowsing.learnMore        "Fræðast meira.">
 <!-- LOCALIZATION NOTE (trackingProtection.width):
      Width of the Tracking Protection section. This should be enough to
@@ -47,6 +50,8 @@
 <!ENTITY trackingProtection.state.enabled      "VIRKT">
 <!ENTITY trackingProtection.state.disabled     "ÓVIRKT">
 
+<!ENTITY trackingProtection.description1       "Huliðsgluggi hefur lokað á suma hluta af þessari síðu sem gætu verið að fylgjast með þér.">
 
-
-
+<!ENTITY trackingProtection.disable            "Slökkva á vörn gegn því að fylgst sé með þér">
+<!ENTITY trackingProtection.enable             "Kveikja á vörn gegn því að fylgst sé með þér">
+<!ENTITY trackingProtection.startTour1         "Sjá hvernig þetta virkar">
