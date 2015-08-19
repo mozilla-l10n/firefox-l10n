@@ -33,6 +33,7 @@
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Downloads">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Favoritos">
 
+<!ENTITY aboutPrivateBrowsing.note1            "Por favor, note que o seu empregador ou provedor de Internet podem rastrear as páginas que você visitou.">
 <!ENTITY aboutPrivateBrowsing.learnMore        "Saiba mais.">
 <!-- LOCALIZATION NOTE (trackingProtection.width):
      Width of the Tracking Protection section. This should be enough to
