@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY onlineContactsHeader.label    "Prieteni conectați">
-<!ENTITY offlineContactsHeader.label   "Prieteni deconectați">
+<!ENTITY offlineContactsHeader.label   "Prieteni offline">
 <!ENTITY conversationsHeader.label     "Conversații">
 <!ENTITY searchResultConversation.label "Rezultat căutare">
 <!ENTITY chat.noConv.title             "Conversația va fi afișată aici.">
@@ -38,7 +38,7 @@
 
 <!ENTITY status.available          "Disponibil">
 <!ENTITY status.unavailable        "Indisponibil">
-<!ENTITY status.offline            "Deconectat">
+<!ENTITY status.offline            "Offline">
 
 <!ENTITY openLinkCmd.label            "Deschide legătura…">
 <!ENTITY openLinkCmd.accesskey        "D">

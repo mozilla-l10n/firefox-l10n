@@ -39,12 +39,12 @@
 <!ENTITY folderCheckForNewMessages2.label         "La descărcarea mesajelor pentru acest cont, verifică întotdeauna dosarul acesta">
 <!ENTITY folderCheckForNewMessages2.accesskey     "c">
 
-<!ENTITY offlineFolder.check.label               "Selectează acest dosar pentru utilizare în mod deconectat">
+<!ENTITY offlineFolder.check.label               "Selectează acest dosar pentru folosire offline">
 <!ENTITY offlineFolder.check.accesskey           "S">
 <!ENTITY offlineFolder.button.label              "Descarcă acum">
 <!ENTITY offlineFolder.button.accesskey          "D">
 
-<!ENTITY selectofflineNewsgroup.check.label      "Selectează acest grup de discuții pentru utilizare offline">
+<!ENTITY selectofflineNewsgroup.check.label      "Selectează acest grup de discuții pentru folosire offline">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "o">
 <!ENTITY offlineNewsgroup.button.label           "Descarcă acum">
 <!ENTITY offlineNewsgroup.button.accesskey       "D">
