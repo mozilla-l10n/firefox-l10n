@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "Napaka pri nalaganju strani">
 <!ENTITY retry.label "Poskusite ponovno">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Povezava neuspešna">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -147,11 +147,11 @@ da ima &brandShortName; pravico dostopati do omrežja.</li>
 <!ENTITY securityOverride.linkText "Lahko pa dodate izjemo …">
 <!ENTITY securityOverride.getMeOutOfHereButton "Hočem vstran!">
 <!ENTITY securityOverride.exceptionButtonLabel "Dodaj izjemo …">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to thunderbird. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>Izjem ne dodajajte, če uporabljate internetne povezave, ki jim ne zaupate povsem, ali če za ta strežnik ne pričakujete opozoril.</p> 
  

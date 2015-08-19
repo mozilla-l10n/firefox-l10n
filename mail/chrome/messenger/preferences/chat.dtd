@@ -6,13 +6,13 @@
 <!ENTITY  startupAction.accesskey     "K">
 <!ENTITY  startupOffline.label        "pusti moje račune za klepet nepovezane">
 <!ENTITY  startupConnectAuto.label    "samodejno poveži moje račune za klepet">
+
 <!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
 there's a field where the user can enter a number, and itemTime is
 displayed at the end of the line. The translations of the
 reportIdleAfter.label and idleTime parts don't have to mean the exact
 same thing as in English; please try instead to translate the whole
 sentence. -->
-
 <!ENTITY  reportIdleAfter.label         "Naj moji stiki vedo, da sem odsoten po">
 <!ENTITY  reportIdleAfter.accesskey     "N">
 <!ENTITY  idleTime                      "minutah nedejavnosti">

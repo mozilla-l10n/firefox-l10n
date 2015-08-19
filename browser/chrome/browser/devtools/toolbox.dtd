@@ -21,6 +21,10 @@
 <!ENTITY toolboxZoomReset.key          "0">
 
 <!ENTITY toolboxReload.key             "r">
+<!-- This key is used with the accel+shift modifiers to minimize the toolbox -->
+<!ENTITY toolboxToggleMinimize.key     "U">
+
+<!ENTITY toolboxToggle.key             "d">
 <!-- LOCALIZATION NOTE (toolboxFramesButton): This is the label for
   -  the iframes menu list that appears only when the document has some.
   -  It allows you to switch the context of the whole toolbox. -->
@@ -42,7 +46,7 @@
   -  for the checkbox option to show user agent styles in the Inspector
   -  panel. -->
 <!ENTITY options.showUserAgentStyles.label "Prikaži sloge brskalnika">
-<!ENTITY options.showUserAgentStyles.tooltip "Vključitev te možnosti bo prikazala privzete sloge, ki jih naloži brskalnik.">
+<!ENTITY options.showUserAgentStyles.tooltip "Če vključite to možnost, boste prikazali privzete sloge, ki jih naloži brskalnik.">
 
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
@@ -80,13 +84,19 @@
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableChrome.label5    "Omogoči orodja za razhroščevanje brskalnika in dodatkov">
-<!ENTITY options.enableChrome.tooltip3  "Vključitev te možnosti bo omogočila uporabo razvojnih orodij v oknu brskalnika (meni Orodja > Spletni razvoj > Razvojna orodja brskalnika) in razhroščevanje dodatkov iz Upravitelja dodatkov">
+<!ENTITY options.enableChrome.tooltip3  "Če vključite to možnost, boste omogočili uporabo razvojnih orodij v oknu brskalnika (meni Orodja > Spletni razvoj > Razvojna orodja brskalnika) in razhroščevanje dodatkov iz Upravitelja dodatkov">
 
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableRemote.label3    "Omogoči oddaljeno razhroščevanje">
-<!ENTITY options.enableRemote.tooltip   "Vključitev te možnosti bo omogočila razhroščevanje oddaljenega primerka Firefoxa, npr. Firefox OS">
+<!ENTITY options.enableRemote.tooltip   "Če vključite to možnost, boste omogočili razhroščevanje oddaljenega primerka Firefoxa, npr. Firefox OS">
+
+<!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
+  -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
+  -  boolean preference in about:config, in the options panel. -->
+<!ENTITY options.enableWorkers.label    "Omogoči razhroščevanje workerjev (v razvoju)">
+<!ENTITY options.enableWorkers.tooltip  "Če vključite to možnost, boste omogočili razhroščevanje workerjev.">
 
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
@@ -160,11 +170,6 @@
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
 <!ENTITY options.stylesheetAutocompletion.label      "Samodokončaj CSS">
 <!ENTITY options.stylesheetAutocompletion.tooltip    "Med pisanjem v Urejevalniku sloga samodejno dokončaj lastnosti, vrednosti in izbirnike CSS">
-
-<!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
-  -  heading of the group of JavaScript Profiler preferences in the options
-  -  panel. -->
-<!ENTITY options.profiler.label            "Spremljanje delovanja JavaScripta">
 
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network

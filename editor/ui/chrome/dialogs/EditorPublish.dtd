@@ -1,15 +1,15 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Window title -->
 
+<!-- Window title -->
 <!ENTITY windowTitle.label            "Objavi stran">
 <!ENTITY windowTitleSettings.label    "Nastavitve za objavo">
 <!ENTITY publishTab.label             "Objavi">
 <!ENTITY settingsTab.label            "Nastavitve">
 <!ENTITY publishButton.label          "Objavi">
-<!-- Publish Tab Panel -->
 
+<!-- Publish Tab Panel -->
 <!ENTITY siteList.label               "Ime spletne strani:">
 <!ENTITY siteList.accesskey           "s">
 <!ENTITY siteList.tooltip             "Izberite spletno stran, kamor želite objaviti">
@@ -40,8 +40,8 @@
 <!ENTITY setDefaultButton.accesskey   "r">
 <!ENTITY removeButton.label           "Odstrani stran">
 <!ENTITY removeButton.accesskey       "O">
-<!-- Settings Tab Panel -->
 
+<!-- Settings Tab Panel -->
 <!ENTITY publishSites.label           "Spletne strani za objavo">
 <!ENTITY serverInfo.label             "Podatki o strežniku">
 <!ENTITY loginInfo.label              "Podatki za prijavo">

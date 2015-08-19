@@ -16,8 +16,8 @@
 <!ENTITY manageSubscriptions.accesskey "U">
 
 <!ENTITY feedWindowTitle.label "Čarovnik za račune virov">
-<!-- entities from rss.rdf -->
 
+<!-- entities from rss.rdf -->
 <!ENTITY feeds.accountName "Spletni dnevniki in viri novic">
 <!ENTITY feeds.wizardShortName "Viri">
 <!ENTITY feeds.wizardLongName "Spletni dnevniki in viri novic">

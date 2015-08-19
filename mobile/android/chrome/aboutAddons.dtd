@@ -10,3 +10,6 @@
 <!ENTITY addonAction.disable                    "Onemogoči">
 <!ENTITY addonAction.uninstall                  "Odstrani">
 <!ENTITY addonAction.undo                       "Razveljavi">
+
+<!ENTITY addonUnsigned.message                  "&brandShortName; ni mogel potrditi dodatka.">
+<!ENTITY addonUnsigned.learnMore                "Več o tem">

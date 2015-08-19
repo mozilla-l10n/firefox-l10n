@@ -39,13 +39,13 @@
 <!ENTITY offlineImapAdvancedOffline.accesskey "N">
 <!ENTITY syncGroupTitle.label "Usklajevanje sporočil">
 <!ENTITY diskspaceGroupTitle.label "Prostor na disku">
+
 <!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
   The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
   on a single line within the scope of useAutosync.ByAge as follows:
 
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
-
 <!ENTITY allAutosync.label               "Uskladi vsa sporočila krajevno, ne glede na starost">
 <!ENTITY allAutosync.accesskey           "v">
 <!ENTITY ageAutosyncBefore.label         "Uskladi za zadnjih">

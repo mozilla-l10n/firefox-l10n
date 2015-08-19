@@ -7,8 +7,8 @@
 <!ENTITY itemUpdate.label        "Posodobitve">
 <!ENTITY itemNetworking.label    "Omrežje in prostor na disku">
 <!ENTITY itemCertificates.label  "Potrdila">
-<!-- General Settings -->
 
+<!-- General Settings -->
 <!ENTITY enableGlodaSearch.label       "Omogoči splošno iskanje in kazalo">
 <!ENTITY enableGlodaSearch.accesskey   "m">
 <!ENTITY allowHWAccel.label            "Uporabi strojno pospeševanje, kadar je na voljo">
@@ -37,8 +37,8 @@
 <!ENTITY returnReceiptsInfo.label      "Določite, kako &brandShortName; obravnava povratnice">
 <!ENTITY showReturnReceipts.label      "Povratnice …">
 <!ENTITY showReturnReceipts.accesskey  "P">
-<!-- Data Choices -->
 
+<!-- Data Choices -->
 <!ENTITY telemetrySection.label          "Telemetrija">
 <!ENTITY telemetryDesc.label             "Deli zmogljivost, uporabo, strojno opremo in podatke o prilagoditvi vašega e-poštnega odjemalca s/z &vendorShortName;, da nam pomaga narediti &brandShortName; boljšega">
 <!ENTITY enableTelemetry.label           "Omogoči telemetrijo">
@@ -50,8 +50,8 @@
 <!ENTITY enableCrashReporter.label       "Omogoči Poročevalca o sesutju">
 <!ENTITY enableCrashReporter.accesskey   "P">
 <!ENTITY crashReporterLearnMore.label    "Več o tem">
-<!-- Update -->
 
+<!-- Update -->
 <!ENTITY updateApp.label                 "Posodobitve za &brandShortName;:">
 <!ENTITY updateAuto.label                "Samodejno namesti posodobitve (priporočeno: izboljšana varnost)">
 <!ENTITY updateAuto.accesskey            "S">
@@ -66,8 +66,8 @@
 
 <!ENTITY useService.label                "Za nameščanje posodobitev uporabljaj storitev v ozadju">
 <!ENTITY useService.accesskey            "Z">
-<!-- Networking and Disk Space -->
 
+<!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Nastavitve …">
 <!ENTITY showSettings.accesskey        "N">
 <!ENTITY proxiesConfigure.label        "Nastavite, kako naj se &brandShortName; poveže na internet.">
@@ -81,20 +81,20 @@
 <!ENTITY offlineCompactFolders.label     "Strni mape, kadar bo to skupaj prihranilo več kot">
 <!ENTITY offlineCompactFolders.accesskey "S">
 <!ENTITY offlineCompactFoldersMB.label   "MB">
+
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-
 <!ENTITY useCacheBefore.label            "Porabi do">
 <!ENTITY useCacheBefore.accesskey        "P">
 <!ENTITY useCacheAfter.label             "MB prostora za predpomnjenje.">
 <!ENTITY clearCacheNow.label             "Počisti zdaj">
 <!ENTITY clearCacheNow.accesskey         "o">
-<!-- Certificates -->
 
+<!-- Certificates -->
 <!ENTITY certSelection.description       "Ko strežnik zahteva moje osebno potrdilo:">
 <!ENTITY certs.auto                      "ga izberi samodejno">
 <!ENTITY certs.auto.accesskey            "s">

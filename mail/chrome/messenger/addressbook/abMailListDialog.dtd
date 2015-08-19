@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Title -->
 
+<!-- Title -->
 <!ENTITY mailListWindow.title           "Dopisni seznam">
 <!-- Labels -->
 <!ENTITY addToAddressBook.label         "Dodaj v: ">
@@ -14,8 +14,8 @@
 <!ENTITY AddressTitle.label             "Vnesite e-poštne naslove, ki bi jih radi dodali na dopisni seznam:">
 <!ENTITY UpButton.label                 "Premakni gor">
 <!ENTITY DownButton.label               "Premakni dol">
-<!-- Access Keys -->
 
+<!-- Access Keys -->
 <!ENTITY addToAddressBook.accesskey     "D">
 <!ENTITY ListName.accesskey             "m">
 <!ENTITY ListNickName.accesskey         "V">

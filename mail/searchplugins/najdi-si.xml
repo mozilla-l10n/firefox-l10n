@@ -11,5 +11,5 @@
   <Param name="q" value="{searchTerms}"/>
   <Param name="o" value="0"/>
 </Url>
-<SearchForm>http://www.najdi.si/search.jsp</SearchForm>
+<SearchForm>http://www.najdi.si/</SearchForm>
 </SearchPlugin>

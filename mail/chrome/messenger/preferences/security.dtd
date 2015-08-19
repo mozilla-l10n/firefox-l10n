@@ -6,8 +6,8 @@
 <!ENTITY itemPhishing.label      "E-poštne prevare">
 <!ENTITY itemPasswords.label     "Gesla">
 <!ENTITY itemAntiVirus.label     "Protivirusna zaščita">
-<!-- Junk Mail Controls -->
 
+<!-- Junk Mail Controls -->
 <!ENTITY junkMail.intro "Nastavite svoje privzete nastavitve za neželeno pošto. Nastavitve neželene pošte za posamezni račun lahko prilagodite v nastavitvah računa.">
 <!ENTITY manualMark.label "Med označevanjem sporočil kot neželenih:">
 <!ENTITY manualMark.accesskey "M">
@@ -23,15 +23,15 @@
 <!ENTITY openJunkLog.accesskey "P">
 <!ENTITY resetTrainingData.label "Ponastavi podatke za učenje">
 <!ENTITY resetTrainingData.accesskey "n">
-<!-- Phishing Detector -->
 
+<!-- Phishing Detector -->
 <!ENTITY phishingDetector1.intro  "&brandShortName; lahko z iskanjem pogosto uporabljenih metod za zavajanje preveri sporočila, za katera sumi, da vsebujejo e-poštno prevaro .">
 <!ENTITY enablePhishingDetector1.label    "Sporoči, če obstaja sum, da je prikazano sporočilo e-poštna prevara">
 <!ENTITY enablePhishingDetector1.accesskey  "S">
 <!ENTITY useDownloadedList.label "Uporabi prenesen seznam sumov e-poštnih prevar">
 <!ENTITY useDownloadedList.accesskey "U">
-<!-- Passwords -->
 
+<!-- Passwords -->
 <!ENTITY savedPasswords.intro           "&brandShortName; si lahko zapomni gesla za vse vaše račune.">
 <!ENTITY useMasterPassword.label        "Uporabi glavno geslo">
 <!ENTITY useMasterPassword.accesskey    "U">
@@ -40,8 +40,8 @@
 <!ENTITY changeMasterPassword.accesskey "N">
 <!ENTITY savedPasswords.label           "Shranjena gesla …">
 <!ENTITY savedPasswords.accesskey       "S">
-<!-- Anti Virus -->
 
+<!-- Anti Virus -->
 <!ENTITY antiVirus.intro      "&brandShortName; lahko omogoči protivirusnemu programu, da dohodna sporočila analizira, preden se krajevno shranijo.">
 <!ENTITY antiVirus.label      "Dovoli protivirusnim programom, da posamezna dohodna sporočila spravijo v karanteno">
 <!ENTITY antiVirus.accesskey  "D">

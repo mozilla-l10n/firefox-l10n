@@ -33,8 +33,8 @@
 
 <!ENTITY filterActionOrderWarning.label "Opomba: Dejanja filtra se bodo izvajala v drugačnem vrstnem redu.">
 <!ENTITY filterActionOrder.label "Vrstni red izvajanja">
-<!-- New Style Filter Rule Actions -->
 
+<!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Premakni sporočilo v">
 <!ENTITY copyMessage.label "Kopiraj sporočilo v">
 <!ENTITY forwardTo.label "Posreduj sporočilo v">
@@ -55,11 +55,11 @@
 
 <!ENTITY addAction.tooltip "Dodaj novo dejanje">
 <!ENTITY removeAction.tooltip "Odstrani to dejanje">
+
 <!-- LOCALIZATION NOTE
   The values below are used to control the widths of the filter action widgets.
   Change the values only when the localized strings in the popup menus
   are truncated in the widgets.
  -->
-
 <!ENTITY filterActionTypeFlexValue "1">
 <!ENTITY filterActionTargetFlexValue "4">
