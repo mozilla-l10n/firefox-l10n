@@ -17,5 +17,5 @@
 <!ENTITY checkOnStartup.label "Vedno preveri ob zagonu &brandShortName;a">
 <!ENTITY checkOnStartup.accesskey "V">
 
-<!ENTITY searchIntegration.label "Dovoli &searchIntegration.engineName; da preišče sporočila">
+<!ENTITY searchIntegration.label "Dovoli &searchIntegration.engineName;, da preišče sporočila">
 <!ENTITY searchIntegration.accesskey "D">

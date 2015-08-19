@@ -6,7 +6,7 @@
 <!ENTITY name.label                 "Ime:">
 <!ENTITY name.accesskey             "m">
 <!ENTITY description.label          "Ustvari kot podmapo v:">
-<!ENTITY description.accesskey      "C">
+<!ENTITY description.accesskey      "U">
 
 <!ENTITY searchTermCaption.label "Nastavite merila za iskanje, ki se uporabljajo za to mapo shranjenega iskanja: ">
 

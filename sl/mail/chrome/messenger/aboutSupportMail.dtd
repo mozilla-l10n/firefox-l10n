@@ -15,5 +15,6 @@
 <!ENTITY aboutSupport.accountsConnSecurity "Varnost povezave">
 <!ENTITY aboutSupport.accountsAuthMethod "Način preverjanja pristnosti">
 <!ENTITY aboutSupport.accountsDefault "Privzeto?">
+<!ENTITY aboutSupport.identityName "Identiteta">
 
 <!ENTITY aboutSupport.sendViaEmail.label "Pošlji po e-pošti">

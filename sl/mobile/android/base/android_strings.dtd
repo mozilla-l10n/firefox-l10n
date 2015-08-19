@@ -44,6 +44,10 @@
 <!ENTITY bookmark "Zaznamek">
 <!ENTITY bookmark_remove "Odstrani zaznamek">
 <!ENTITY bookmark_added "Zaznamek dodan">
+<!-- Localization note (bookmark_already_added) : This string is
+     used as a label in a toast. It is the verb "to bookmark", not
+     the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "Že med zaznamki">
 <!ENTITY bookmark_removed "Zaznamek odstranjen">
 <!ENTITY bookmark_updated "Zaznamek posodobljen">
 <!ENTITY bookmark_options "Možnosti">
@@ -77,6 +81,7 @@
 
 <!ENTITY settings "Nastavitve">
 <!ENTITY settings_title "Nastavitve">
+<!ENTITY pref_category_input_options "Možnosti vnosa">
 <!ENTITY pref_category_advanced "Napredno">
 <!ENTITY pref_category_customize "Po meri">
 <!ENTITY pref_category_customize_summary "Dom, iskanje, zavihki, uvoz">
@@ -132,7 +137,7 @@
 <!ENTITY pref_category_display "Prikaz">
 <!ENTITY pref_category_display_summary "Besedilo, naslovna vrstica, celozaslonsko brskanje">
 <!ENTITY pref_category_privacy_short "Zasebnost">
-<!ENTITY pref_category_privacy_summary "Nadzor gesel, piškotkov, sledenja, podatkov">
+<!ENTITY pref_category_privacy_summary2 "Upravljajte prijave, piškotke, sledenje in podatke">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "O &brandShortName;u, pogosta vprašanja, nastavitve podatkov">
 <!ENTITY pref_category_datareporting "Podatkovne možnosti">
@@ -151,7 +156,9 @@
 <!ENTITY pref_category_devtools "Razvojna orodja">
 <!ENTITY pref_developer_remotedebugging "Oddaljeno razhroščevanje">
 <!ENTITY pref_category_logins "Prijave">
-<!ENTITY pref_remember_signons "Zapomni si gesla">
+<!ENTITY pref_remember_signons2 "Shrani prijave">
+<!ENTITY pref_open_external_urls_privately_title "Odpiraj povezave v zasebnem brskanju">
+<!ENTITY pref_open_external_urls_privately_summary "Za vse zunanje povezave, ki jih odpre &brandShortName;">
 <!ENTITY pref_manage_logins "Upravljanje prijav">
 
 <!ENTITY pref_category_home "Domača stran">
@@ -185,15 +192,13 @@
 <!ENTITY pref_cookies_disabled "Onemogočeno">
 
 <!ENTITY pref_tracking_protection_title "Zaščita pred sledenjem">
-<!ENTITY pref_tracking_protection_summary "&brandShortName; bo stranem preprečil, da bi vam sledile">
 <!ENTITY pref_donottrack_title "Sledenje">
 <!ENTITY pref_donottrack_summary "&brandShortName; bo stranem sporočal, naj vam ne sledijo">
 
-<!ENTITY tab_queue_toast_message2 "Zavihek v čakalni vrsti &brandShortName;a">
+
+<!ENTITY tab_queue_toast_message3 "Zavihek shranjen v &brandShortName;">
 <!ENTITY tab_queue_toast_action "Odpri zdaj">
 <!ENTITY tab_queue_prompt_title "Odpirate več povezav?">
-<!ENTITY tab_queue_prompt_text2 "Odprite jih brez vsakokratnega preklapljanja na &brandShortName;.">
-<!ENTITY tab_queue_prompt_tip_text "odločitev lahko pozneje spremenite v nastavitvah">
 <!ENTITY tab_queue_prompt_positive_action_button "Omogoči">
 <!ENTITY tab_queue_prompt_negative_action_button "Ne zdaj">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
@@ -244,10 +249,14 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled_summary "Določite, ali lahko spletne strani samodejno predvajajo videe in druge vsebine">
 <!ENTITY pref_zoom_force_enabled "Vedno omogoči povečavo">
 <!ENTITY pref_zoom_force_enabled_summary "Vsili povečavo, tako da je mogoča na vsaki strani">
+<!ENTITY pref_voice_input "Glasovni vnos">
+<!ENTITY pref_voice_input_summary "Omogoči glasovne ukaze v vrstici z naslovom">
+<!ENTITY pref_qrcode_enabled "Bralnik QR-kode">
+<!ENTITY pref_qrcode_enabled_summary "Omogoči bralnik QR v vrstici z naslovom">
 
 <!ENTITY pref_use_master_password "Uporabi glavno geslo">
 <!ENTITY pref_sync "Sinhroniziraj">
-<!ENTITY pref_sync_summary "Sinhronizirajte zavihke, zaznamke, gesla in zgodovino">
+<!ENTITY pref_sync_summary2 "Sinhronizirajte zavihke, zaznamke, prijave in zgodovino">
 <!ENTITY pref_search_suggestions "Prikaži predloge iskanja">
 <!ENTITY pref_import_android "Uvozi iz Androida">
 <!ENTITY pref_import_android_summary "Uvozite zaznamke in zgodovino iz privzeto nameščenega brskalnika">
@@ -255,11 +264,12 @@ size. -->
 <!ENTITY pref_private_data_searchHistory "Zgodovina iskanja">
 <!ENTITY pref_private_data_formdata2 "Zgodovina obrazcev">
 <!ENTITY pref_private_data_cookies2 "Piškotke in aktivne prijave">
-<!ENTITY pref_private_data_passwords "Shranjena gesla">
+<!ENTITY pref_private_data_passwords2 "Shranjene prijave">
 <!ENTITY pref_private_data_cache "Predpomnilnik">
 <!ENTITY pref_private_data_offlineApps "Podatke pri delu brez povezave">
 <!ENTITY pref_private_data_siteSettings2 "Nastavitve strani">
 <!ENTITY pref_private_data_downloadFiles2 "Prenosi">
+<!ENTITY pref_private_data_syncedTabs "Sinhronizirani zavihki">
 
 
 <!ENTITY pref_about_firefox "O &brandShortName;u">
@@ -318,7 +328,6 @@ size. -->
 <!ENTITY addons "Dodatki">
 <!ENTITY logins "Prijave">
 <!ENTITY downloads "Prenosi">
-<!ENTITY apps "Aplikacije">
 <!ENTITY char_encoding "Kodiranje znakov">
 
 <!ENTITY share "Deli">
@@ -379,10 +388,18 @@ size. -->
 <!ENTITY doorhanger_login_edit_password_hint "Geslo">
 <!ENTITY doorhanger_login_edit_toggle "Prikaži geslo">
 <!ENTITY doorhanger_login_edit_toast_error "Shranjevanje prijave ni uspelo">
+<!ENTITY doorhanger_login_select_message "Kopiram geslo iz &formatS;?">
+<!ENTITY doorhanger_login_select_toast_copy "Geslo kopirano v odložišče">
+<!ENTITY doorhanger_login_select_toast_copy_error "Ni bilo mogoče kopirati gesla">
+<!ENTITY doorhanger_login_select_action_text "Izberite drugo prijavo">
+<!ENTITY doorhanger_login_select_title "Kopiraj geslo iz">
 
 <!ENTITY pref_titlebar_mode "Naslovna vrstica">
 <!ENTITY pref_titlebar_mode_title "Prikaži ime strani">
 <!ENTITY pref_titlebar_mode_url "Prikaži naslov strani">
+
+<!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
+     whether or not the magnifying glass is disabled. -->
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
@@ -390,7 +407,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "Skrij naslovno vrstico &brandShortName;a med drsenjem navzdol po strani">
 
 <!ENTITY pref_tab_queue_title2 "Odpiranje več povezav">
-<!ENTITY pref_tab_queue_summary2 "Dodajte jih v čakalno vrsto namesto vsakokratnega preklapljanja na &amp;brandShortName;">
+<!ENTITY pref_tab_queue_summary3 "Shranite jih, dokler naslednjič odprete &amp;brandShortName;">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -409,7 +426,8 @@ size. -->
 <!ENTITY site_settings_clear        "Počisti">
 <!ENTITY site_settings_no_settings  "Ni nastavitev za brisanje.">
 
-<!ENTITY reading_list_added "Stran dodana na bralni seznam">
+<!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
+     as possible. -->
 <!ENTITY reading_list_removed "Stran odstranjena z bralnega seznama">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -427,7 +445,7 @@ size. -->
 <!ENTITY page_action_dropmarker_description "Dodatna dejanja">
 
 <!ENTITY masterpassword_create_title "Ustvari glavno geslo">
-<!ENTITY masterpassword_remove_title "Odstrani glavnega gesla">
+<!ENTITY masterpassword_remove_title "Odstrani glavno geslo">
 <!ENTITY masterpassword_password "Geslo">
 <!ENTITY masterpassword_confirm "Potrditev gesla">
 
@@ -438,7 +456,7 @@ size. -->
 <!ENTITY button_clear_data "Počisti podatke">
 <!ENTITY button_set "Nastavi">
 <!ENTITY button_clear "Počisti">
-<!ENTITY button_remember "Zapomni si">
+<!ENTITY button_copy "Kopiraj">
 
 <!ENTITY firstrun_panel_title_welcome "Dobrodošli">
 
@@ -502,10 +520,6 @@ size. -->
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Prikaži izbrane naprave">
 
-<!ENTITY private_browsing_title "Zasebno brskanje">
-<!ENTITY private_tabs_panel_empty_desc "Tukaj bodo prikazani vaši zasebni zavihki. Medtem ko se zgodovina brskanja in piškotki ne bodo shranjevali, bodo zaznamki in prenesene datoteke še naprej shranjene na vaši napravi.">
-<!ENTITY private_tabs_panel_learn_more "Želite izvedeti več?">
-
 <!ENTITY remote_tabs_panel_moved_title "Kam so izginili moji zavihki?">
 <!ENTITY remote_tabs_panel_moved_desc "Vaši zavihki iz drugih naprav so bili premaknjeni na ploščo na vaši domači strani, ki je dostopna vedno, ko odprete nov zavihek.">
 <!ENTITY remote_tabs_panel_moved_link "Odpri novo ploščo.">
@@ -530,20 +544,14 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_run_by "za katero skrbi">
-<!ENTITY identity_no_info "Spletna stran ne vsebuje podatkov o identiteti.">
-<!ENTITY identity_not_encrypted "Vaša povezava na spletno stran ni šifrirana.">
 
 <!-- Mixed content notifications in site identity popup -->
+
 <!ENTITY loaded_mixed_content_message "Ta stran prikazuje vsebino, ki ni varna.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; je zavrnil vsebino, ki ni varna.">
 <!ENTITY blocked_mixed_content_message_bottom "Večina strani bo delovala pravilno, čeprav je ta vsebina zavrnjena.">
 
 <!-- Tracking content notifications in site identity popup -->
-<!ENTITY loaded_tracking_content_message_top "Zaščita pred sledenjem onemogočena.">
-<!ENTITY loaded_tracking_content_message_bottom "Deli strani lahko sledijo vašim dejanjem na spletu.">
-<!ENTITY blocked_tracking_content_message_top2 "Zaščita pred sledenjem omogočena.">
-<!ENTITY blocked_tracking_content_message_bottom2 "Deli strani, ki sledijo vašim dejanjem na spletu, so bili zavrnjeni.">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Več o tem">
@@ -599,7 +607,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "Nadaljuj">
 <!ENTITY guest_session_dialog_cancel "Prekliči">
 <!ENTITY new_guest_session_title "&brandShortName; se bo zdaj ponovno zagnal">
-<!ENTITY new_guest_session_text "Oseba, ki jo bo uporabljala, ne bo videla vaših podatkov o brskanju (npr. gesel, zgodovine ali zaznamkov). Ko bo končala z delom, bodo njeni podatki izbrisani in vaša seja se bo obnovila.">
+<!ENTITY new_guest_session_text2 "Oseba, ki ga uporablja, ne bo mogla videti vaših zasebnih podatkov (shranjenih prijav, zgodovine ali zaznamkov).\n\nKo bo vaš gost končal, bodo njegovi podatki izbrisani, vaša seja pa obnovljena.">
 <!ENTITY guest_browsing_notification_title "Gostujoče brskanje je omogočeno">
 <!ENTITY guest_browsing_notification_text "Tapnite za izhod">
 
@@ -629,10 +637,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Voice search in the awesome bar -->
 <!ENTITY voicesearch_prompt "Govorite">
-<!ENTITY voicesearch_failed_title "Glasovno iskanje &brandShortName;">
-<!ENTITY voicesearch_failed_message "Glasovno iskanje trenutno ne deluje. Poskusite pozneje.">
-<!ENTITY voicesearch_failed_message_recoverable "Vaših besed nismo uspeli prepoznati. Poskusite znova.">
-<!ENTITY voicesearch_failed_retry "Poskusi znova">
 
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
@@ -648,3 +652,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
 <!ENTITY find_matchcase "Aa">
+
+<!ENTITY intent_uri_cannot_open "Ni mogoče odpreti povezave">
+
+<!-- DevTools Authentication -->
+<!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
+     above a QR reader that is actively scanning for QR codes.  The expected QR
+     code has already been displayed by the client trying to connect (such as
+     desktop Firefox via WebIDE), so you just need to aim this device at the QR
+     code. -->
+
+<!-- Restrictions -->
+<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+     a restricted profile (e.g. child). Used inside the Android settings UI. -->
+

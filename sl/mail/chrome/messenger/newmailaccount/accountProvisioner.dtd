@@ -7,18 +7,18 @@
 <!ENTITY other.languages "Prikazujemo samo ponudnike na vašem področju.  Za prikaz vseh ponudnikov kliknite tu.">
 <!ENTITY error.line1 "Na žalost predlaganih e-naslovov ni bilo mogoče najti.">
 <!ENTITY error.line2 "Poskusite iskati z vzdevki ali s kakim drugim izrazom, če želite najti še več e-poštnih naslovov">
+
 <!-- LOCALIZATION NOTE(error.suggest.before, error.suggest.middle, error.suggest.after):
      error.suggest.before, error.suggest.middle, and error.suggest.after all go into
      one line with error.suggest.middle that links to a site which provides download
      of free account alternatives. -->
-
 <!ENTITY error.suggest.before "Lahko si tudi pogledate možnosti ">
 <!ENTITY error.suggest.middle "za brezplačen e-poštni naslov">
 <!ENTITY error.suggest.after ".">
+
 <!-- LOCALIZATION NOTE(success.title.before, success.title.after):
      success.title.before and success.title.after all go into one line, wrapping
      around the name that the user has typed in to the search input. -->
-
 <!ENTITY success.title.before "Pozdravljeni ">
 <!ENTITY success.title.after ", naslednji e-poštni naslovi so vam na razpolago:">
 <!ENTITY success.tip "(Če želite najti še več sporočil, lahko iščete z vzdevki ali kakim drugim izrazom)">

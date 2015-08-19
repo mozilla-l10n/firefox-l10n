@@ -10,6 +10,9 @@
 <!ENTITY provideSearchSuggestions.accesskey    "s">
 
 
+<!ENTITY redirectWindowsSearch.label "Uporabi ta iskalnik za iskanje v okolju Windows">
+<!ENTITY redirectWindowsSearch.accesskey "W">
+
 <!ENTITY oneClickSearchEngines.label           "Iskalniki, dostopni z enim klikom">
 
 <!ENTITY chooseWhichOneToDisplay.label         "Vrstica za iskanje omogoča dostop tudi do nekaterih drugih iskalnikov. Izberite, katere želite prikazati.">

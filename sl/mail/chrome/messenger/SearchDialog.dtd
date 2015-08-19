@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- for SearchDialog.xul -->
 
+<!-- for SearchDialog.xul -->
 <!ENTITY searchHeading.label         "Išči po sporočilih v:">
 <!ENTITY searchHeading.accesskey     "č">
 <!ENTITY searchSubfolders.label      "Išči v podmapah">
@@ -24,8 +24,8 @@
 <!ENTITY openInFolder.accesskey      "m">
 <!ENTITY saveAsVFButton.label        "Shrani kot iskalno mapo">
 <!ENTITY saveAsVFButton.accesskey    "S">
-<!-- for ABSearchDialog.xul -->
 
+<!-- for ABSearchDialog.xul -->
 <!ENTITY abSearchHeading.label       "Išči v:">
 <!ENTITY abSearchHeading.accesskey   "š">
 <!ENTITY propertiesButton.label      "Lastnosti">
@@ -35,8 +35,8 @@
 <!ENTITY deleteCardButton.label      "Izbriši">
 <!ENTITY deleteCardButton.accesskey  "b">
 <!ENTITY abSearchDialogTitle.label   "Napredno iskanje v imeniku">
-<!-- Thread Pane -->
 
+<!-- Thread Pane -->
 <!ENTITY threadColumn.label "Nit">
 <!ENTITY fromColumn.label "Od">
 <!ENTITY recipientColumn.label "Prejemnik">
@@ -56,8 +56,8 @@
 <!ENTITY starredColumn.label "Označeno z zvezdico">
 <!ENTITY locationColumn.label "Mesto">
 <!ENTITY idColumn.label "Vrstni red prejema">
-<!-- Thread Pane Tooltips -->
 
+<!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Izberite stolpce za prikaz">
 <!ENTITY threadColumn2.tooltip "Prikaži niti sporočila">
 <!ENTITY fromColumn2.tooltip "Razvrsti po Od">
