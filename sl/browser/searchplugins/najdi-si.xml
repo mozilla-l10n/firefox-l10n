@@ -12,5 +12,5 @@
   <Param name="o" value="0"/>
   <Param name="foxsbar" value="ff"/>
 </Url>
-<SearchForm>http://www.najdi.si/search.jsp</SearchForm>
+<SearchForm>http://www.najdi.si/</SearchForm>
 </SearchPlugin>
