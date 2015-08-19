@@ -11,7 +11,7 @@
 <!ENTITY newevent.to.label                  "إلى" >
 
 <!ENTITY newevent.status.label                    "الحالة" >
-<!ENTITY newevent.status.accesskey                "ا" >
+<!ENTITY newevent.status.accesskey                "ح" >
 <!ENTITY newevent.eventStatus.none.label          "غير محدّد" >
 <!ENTITY newevent.eventStatus.none.accesskey      "ح" >
 <!ENTITY newevent.todoStatus.none.label           "غير محدّد" >
