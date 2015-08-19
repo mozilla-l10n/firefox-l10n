@@ -27,10 +27,12 @@
 <!ENTITY aboutPrivateBrowsing.info.cookies     "עוגיות">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "קבצים זמניים">
 
+<!ENTITY aboutPrivateBrowsing.kept             "&brandShortName; ישמור על:">
 <!ENTITY aboutPrivateBrowsing.info.kept        "נשמרים">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "הורדות">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "סימניות">
 
+<!ENTITY aboutPrivateBrowsing.note1            "נא לשים לב שהמעסיק שלך או ספק האינטרנט שלך יכולים לעקוב אחר הדפים בהם אתה מבקר.">
 <!ENTITY aboutPrivateBrowsing.learnMore        "מידע נוסף.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.width):
@@ -45,4 +47,8 @@
 <!ENTITY trackingProtection.state.enabled      "פעילה">
 <!ENTITY trackingProtection.state.disabled     "כבויה">
 
+<!ENTITY trackingProtection.description1       "חלונות פרטיים חוסמים כעת חלקים מהדף שעשויים לעקוב אחר פעילות הגלישה שלך.">
 
+<!ENTITY trackingProtection.disable            "הפעלת הגנת מעקב">
+<!ENTITY trackingProtection.enable             "כיבוי הגנת מעקב">
+<!ENTITY trackingProtection.startTour1         "איך זה עובד">
