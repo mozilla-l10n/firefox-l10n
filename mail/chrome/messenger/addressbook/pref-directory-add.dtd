@@ -31,7 +31,7 @@
 <!ENTITY return.label                      "Nu întoarce mai mult de">
 <!ENTITY return.accesskey                  "r">
 <!ENTITY results.label                     "Rezultate">
-<!ENTITY offlineText.label                 "Puteți descărca o copie locală a acestui repertoar pentru a o avea la îndemână când nu sunteți conectat(ă) la rețea.">
+<!ENTITY offlineText.label                 "Puteți descărca o copie locală a acestui repertoar pentru a o avea la îndemână când sunteți offline.">
 <!ENTITY saslMechanism.label               "Metodă de autentificare: ">
 <!ENTITY saslMechanism.accesskey           "M">
 <!ENTITY saslOff.label                     "Simplu">

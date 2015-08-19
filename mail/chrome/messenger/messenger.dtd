@@ -458,7 +458,7 @@
 <!ENTITY imAccountsStatus.accesskey "S">
 <!ENTITY imStatus.available          "Disponibil">
 <!ENTITY imStatus.unavailable        "Indisponibil">
-<!ENTITY imStatus.offline            "Deconectat">
+<!ENTITY imStatus.offline            "Offline">
 <!ENTITY imStatus.showAccounts       "Afișează conturile…">
 <!ENTITY joinChatCmd.label "Conectează-te la chat…">
 <!ENTITY joinChatCmd.accesskey "C">
