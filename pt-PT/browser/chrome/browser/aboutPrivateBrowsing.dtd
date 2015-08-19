@@ -29,7 +29,7 @@
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Ficheiros temporários">
 
 <!ENTITY aboutPrivateBrowsing.kept             "O &brandShortName; memorizará:">
-<!ENTITY aboutPrivateBrowsing.info.kept        "Manter">
+<!ENTITY aboutPrivateBrowsing.info.kept        "Mantido">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Descargas">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Marcadores">
 
