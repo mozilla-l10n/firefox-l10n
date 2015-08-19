@@ -20,9 +20,14 @@
 <!ENTITY aboutPrivateBrowsing.title            "מצב גלישה פרטית מופעל!">
 <!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; לא יזכור היסטוריה כלשהי בחלון זה.">
 
+<!ENTITY aboutPrivateBrowsing.forgotten        "בחלון זה, &brandShortName; לא יזכור את הפרטים הבאים:">
+<!ENTITY aboutPrivateBrowsing.info.forgotten   "נשכחים">
 <!ENTITY aboutPrivateBrowsing.info.history     "היסטוריה">
+<!ENTITY aboutPrivateBrowsing.info.searches    "חיפושים">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "עוגיות">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "קבצים זמניים">
 
+<!ENTITY aboutPrivateBrowsing.info.kept        "נשמרים">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "הורדות">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "סימניות">
 
@@ -32,9 +37,12 @@
      Width of the Tracking Protection section. This should be enough to
      accommodate the title as well as the enabled or disabled indicator.
      -->
+<!ENTITY trackingProtection.title              "הגנה מפני מעקב">
 
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
+<!ENTITY trackingProtection.state.enabled      "פעילה">
+<!ENTITY trackingProtection.state.disabled     "כבויה">
 
 
