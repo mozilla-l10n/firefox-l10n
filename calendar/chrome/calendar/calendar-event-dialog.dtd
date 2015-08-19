@@ -221,42 +221,49 @@
 <!ENTITY event.statusbarpanel.privacy.label               "الخصوصية:">
 <!-- Recurrence dialog -->
 
+<!ENTITY recurrence.title.label                         "تحرير التكرارية">
+
+<!ENTITY event.repeat.does.not.repeat.label             "لا تكرر">
+<!ENTITY event.repeat.daily.label                       "يوميا">
+<!ENTITY event.repeat.weekly.label                      "أسبوعيا">
+
+<!ENTITY event.repeat.bi.weekly.label                   "كلّ أسبوعين">
+<!ENTITY event.repeat.monthly.label                     "شهريا">
+<!ENTITY event.repeat.yearly.label                      "سنويا">
+<!ENTITY event.repeat.custom.label                      "مخصّص…">
+
+<!ENTITY event.recurrence.pattern.label                 "نمط التكرارية">
+<!ENTITY event.recurrence.occurs.label                  "كرر" >
+<!ENTITY event.recurrence.day.label                     "يوميا" >
+<!ENTITY event.recurrence.week.label                    "أسبوعيا" >
+<!ENTITY event.recurrence.month.label                   "شهريا" >
+<!ENTITY event.recurrence.year.label                    "سنويا" >
+
+<!ENTITY event.recurrence.pattern.every.label           "كلّ" >
+<!ENTITY repeat.units.days.both                         "من الأيام" >
 
 
+<!ENTITY event.recurrence.pattern.weekly.every.label    "‪كلّ" >
+<!ENTITY repeat.units.weeks.both                        "من الأسابيع" >
+<!ENTITY event.recurrence.on.label                      "يوم:" >
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY event.recurrence.pattern.monthly.every.label   "كلّ" >
+<!ENTITY repeat.units.months.both                       "من الأشهر" >
+<!ENTITY event.recurrence.monthly.every.label           "كلّ" >
+<!ENTITY event.recurrence.monthly.first.label           "أوّل">
+<!ENTITY event.recurrence.monthly.second.label          "ثاني">
+<!ENTITY event.recurrence.monthly.third.label           "ثالث">
+<!ENTITY event.recurrence.monthly.fourth.label          "رابع">
+<!ENTITY event.recurrence.monthly.fifth.label           "خامس">
+<!ENTITY event.recurrence.monthly.last.label            "آخر">
+<!ENTITY event.recurrence.pattern.monthly.week.1.label  "أحد" >
+<!ENTITY event.recurrence.pattern.monthly.week.2.label  "إثنين" >
+<!ENTITY event.recurrence.pattern.monthly.week.3.label  "ثلاثاء" >
+<!ENTITY event.recurrence.pattern.monthly.week.4.label  "أربعاء" >
+<!ENTITY event.recurrence.pattern.monthly.week.5.label  "خميس" >
+<!ENTITY event.recurrence.pattern.monthly.week.6.label  "جمعة" >
+<!ENTITY event.recurrence.pattern.monthly.week.7.label  "سبت" >
+<!ENTITY event.recurrence.repeat.dayofmonth.label       "يوم من الشهر">
 
 
 
