@@ -266,8 +266,9 @@
 <!ENTITY event.recurrence.repeat.dayofmonth.label       "يوم من الشهر">
 
 
-
-
+<!ENTITY event.recurrence.every.label                        "كلّ" >
+<!ENTITY repeat.units.years.both                             "من السنين" >
+<!ENTITY event.recurrence.pattern.yearly.every.month.label   "كلّ" >
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
      Portuguese: 6 de Setembro
@@ -276,67 +277,71 @@
      Edit recurrence window -> Recurrence pattern -> Repeat yearly
 -->
 
-<!ENTITY event.recurrence.pattern.yearly.of.label            "" >
+<!ENTITY event.recurrence.pattern.yearly.of.label            "من" >
 
+<!ENTITY event.recurrence.pattern.yearly.month.1.label       "يناير/كانون الثاني" >
+<!ENTITY event.recurrence.pattern.yearly.month.2.label       "فبراير/شباط" >
+<!ENTITY event.recurrence.pattern.yearly.month.3.label       "مارس/آذار" >
+<!ENTITY event.recurrence.pattern.yearly.month.4.label       "أبريل/نيسان" >
+<!ENTITY event.recurrence.pattern.yearly.month.5.label       "مايو/أيار" >
+<!ENTITY event.recurrence.pattern.yearly.month.6.label       "يونيو/حزيران" >
+<!ENTITY event.recurrence.pattern.yearly.month.7.label       "يوليو/تموز" >
+<!ENTITY event.recurrence.pattern.yearly.month.8.label       "أغسطس/آب" >
+<!ENTITY event.recurrence.pattern.yearly.month.9.label       "سبتمبر/أيلول" >
+<!ENTITY event.recurrence.pattern.yearly.month.10.label      "أكتوبر/تشرين الأول" >
+<!ENTITY event.recurrence.pattern.yearly.month.11.label      "نوفمبر/تشرين الثاني" >
+<!ENTITY event.recurrence.pattern.yearly.month.12.label      "ديسمبر/كانون الأول" >
+<!ENTITY event.recurrence.yearly.every.label                 "كلّ">
+<!ENTITY event.recurrence.yearly.first.label                 "أوّل">
+<!ENTITY event.recurrence.yearly.second.label                "ثاني">
+<!ENTITY event.recurrence.yearly.third.label                 "ثالث">
+<!ENTITY event.recurrence.yearly.fourth.label                "رابع">
+<!ENTITY event.recurrence.yearly.fifth.label                 "خامس">
+<!ENTITY event.recurrence.yearly.last.label                  "آخر">
+<!ENTITY event.recurrence.pattern.yearly.week.1.label        "أحد" >
+<!ENTITY event.recurrence.pattern.yearly.week.2.label        "إثنين" >
+<!ENTITY event.recurrence.pattern.yearly.week.3.label        "ثلاثاء" >
+<!ENTITY event.recurrence.pattern.yearly.week.4.label        "أربعاء" >
+<!ENTITY event.recurrence.pattern.yearly.week.5.label        "خميس" >
+<!ENTITY event.recurrence.pattern.yearly.week.6.label        "جمعة" >
+<!ENTITY event.recurrence.pattern.yearly.week.7.label        "سبت" >
+<!ENTITY event.recurrence.pattern.yearly.day.label           "يوم" >
+<!ENTITY event.recurrence.of.label                           "من" >
+<!ENTITY event.recurrence.pattern.yearly.month2.1.label      "يناير/كانون الثاني" >
+<!ENTITY event.recurrence.pattern.yearly.month2.2.label      "فبراير/شباط" >
+<!ENTITY event.recurrence.pattern.yearly.month2.3.label      "مارس/آذار" >
+<!ENTITY event.recurrence.pattern.yearly.month2.4.label      "أبريل/نيسان" >
+<!ENTITY event.recurrence.pattern.yearly.month2.5.label      "مايو/أيار" >
+<!ENTITY event.recurrence.pattern.yearly.month2.6.label      "يونيو/حزيران" >
+<!ENTITY event.recurrence.pattern.yearly.month2.7.label      "يوليو/تموز" >
+<!ENTITY event.recurrence.pattern.yearly.month2.8.label      "أغسطس/آب" >
+<!ENTITY event.recurrence.pattern.yearly.month2.9.label      "سبتمبر/أيلول" >
+<!ENTITY event.recurrence.pattern.yearly.month2.10.label     "أكتوبر/تشرين الأول" >
+<!ENTITY event.recurrence.pattern.yearly.month2.11.label     "نوفمبر/تشرين الثاني" >
+<!ENTITY event.recurrence.pattern.yearly.month2.12.label     "ديسمبر/كانون الأول" >
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY event.recurrence.range.label                   "مدى التكرارية">
+<!ENTITY event.recurrence.forever.label                 "لا تاريخ انتهاء" >
+<!ENTITY event.recurrence.repeat.for.label              "أنشئ من المواعيد" >
+<!ENTITY event.recurrence.appointments.label            "‌" >
+<!ENTITY event.repeat.until.label                       "كرر حتى" >
+<!ENTITY event.recurrence.preview.label                 "معاينة">
 <!-- Attendees dialog -->
 
+<!ENTITY invite.title.label                     "دعوة الحضور">
+<!ENTITY event.organizer.label                  "المنظّم">
 
 
 
-
-
-
-
-
-
+<!ENTITY event.freebusy.zoom                    "التقريب:">
+<!ENTITY event.freebusy.legend.free             "متفرّغ" >
+<!ENTITY event.freebusy.legend.busy             "مشغول" >
+<!ENTITY event.freebusy.legend.busy_tentative   "مبدئي" >
+<!ENTITY event.freebusy.legend.busy_unavailable "خارج المكتب" >
+<!ENTITY event.freebusy.legend.unknown          "لا معلومات" >
 <!ENTITY event.attendee.role.required           "الحضور إلزامي">
 <!ENTITY event.attendee.role.optional           "الحضور اختياري">
-<!ENTITY event.attendee.role.chair              "الرئيس">
+<!ENTITY event.attendee.role.chair              "مقعد">
 <!ENTITY event.attendee.role.nonparticipant     "غير مشارك">
 <!ENTITY event.attendee.usertype.individual     "فرد">
 <!ENTITY event.attendee.usertype.group          "مجموعة">
@@ -344,22 +349,26 @@
 <!ENTITY event.attendee.usertype.room           "غرفة">
 <!-- Timezone dialog -->
 
+<!ENTITY timezone.title.label            "من فضلك حدد المنطقة الزمنية">
+<!ENTITY event.timezone.custom.label     "مناطق زمنية أخرى…">
 <!-- Read-Only dialog -->
 
+<!ENTITY read.only.general.label         "عام">
+<!ENTITY read.only.title.label           "العنوان:">
+<!ENTITY read.only.event.start.label     "تاريخ البدء:">
+<!ENTITY read.only.task.start.label      "تاريخ البدء:">
+<!ENTITY read.only.event.end.label       "تاريخ الانتهاء:">
 
 
-
-
-
-
-
+<!ENTITY read.only.location.label        "المكان:">
+<!ENTITY read.only.category.label        "الفئة:">
 <!ENTITY read.only.organizer.label       "المنظّم:">
+<!ENTITY read.only.reply.label           "الرد:">
+<!ENTITY read.only.accept.label          "سأحضر">
+<!ENTITY read.only.decline.label         "لن أحضر">
+<!ENTITY read.only.tentative.label       "قد أحضر">
+<!ENTITY read.only.needs.action.label    "سأؤكد ذلك لاحقا">
 
-
-
-
-
-
-
-
-
+<!ENTITY read.only.attendees.label       "الحضور">
+<!ENTITY read.only.description.label     "الوصف">
+<!ENTITY read.only.link.label            "رابط ذا صلة">
