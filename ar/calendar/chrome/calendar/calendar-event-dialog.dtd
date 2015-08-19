@@ -23,7 +23,7 @@
 <!ENTITY newevent.status.confirmed.label          "مُؤكّد" >
 <!ENTITY newevent.status.confirmed.accesskey      "م" >
 <!ENTITY newevent.status.needsaction.label        "يحتاج لإجراء" >
-<!ENTITY newevent.status.inprogress.label         "قيد العمل" >
+<!ENTITY newevent.status.inprogress.label         "يجري الآن" >
 <!ENTITY newevent.status.completed.label          "اكتمل في" >
 <!-- The following entity is for New Task dialog only -->
 
@@ -60,20 +60,20 @@
 <!ENTITY  event.menu.item.new.task.accesskey              "م">
 <!ENTITY  event.menu.item.new.message.label               "رسالة">
 <!ENTITY  event.menu.item.new.message.accesskey           "س">
-<!ENTITY  event.menu.item.new.contact.label               "دفتر العناوين الأسماء">
-<!ENTITY  event.menu.item.new.contact.accesskey           "ا">
+<!ENTITY  event.menu.item.new.contact.label               "دفتر العناوين المتراسلين">
+<!ENTITY  event.menu.item.new.contact.accesskey           "ت">
 <!ENTITY  event.menu.item.close.label                     "أغلق">
-<!ENTITY  event.menu.item.close.accesskey                 "أ">
-<!ENTITY  event.menu.item.save.label                      "حفظ">
+<!ENTITY  event.menu.item.close.accesskey                 "غ">
+<!ENTITY  event.menu.item.save.label                      "احفظ">
 <!ENTITY  event.menu.item.save.accesskey                  "ح">
 <!ENTITY  event.menu.item.saveandclose.label              "احفظ و أغلق">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "غ">
-<!ENTITY  event.menu.item.delete.label                    "حذف">
+<!ENTITY  event.menu.item.delete.label                    "احذف…">
 <!ENTITY  event.menu.item.delete.accesskey                "ح">
 <!ENTITY  event.menu.item.page.setup.label                "إعداد الصفحة">
 <!ENTITY  event.menu.item.page.setup.accesskey            "ع">
 <!ENTITY  event.menu.item.print.label                     "اطبع">
-<!ENTITY  event.menu.item.print.accesskey                 "ا">
+<!ENTITY  event.menu.item.print.accesskey                 "ط">
 
 <!ENTITY  event.menu.edit.label                           "حرّر">
 <!ENTITY  event.menu.edit.accesskey                       "ح">
@@ -85,30 +85,30 @@
 <!ENTITY  event.menu.edit.cut.accesskey                   "ص">
 <!ENTITY  event.menu.edit.copy.label                      "انسخ">
 <!ENTITY  event.menu.edit.copy.accesskey                  "ن">
-<!ENTITY  event.menu.edit.paste.label                     "لصق">
-<!ENTITY  event.menu.edit.paste.accesskey                 "ل">
+<!ENTITY  event.menu.edit.paste.label                     "ألصق">
+<!ENTITY  event.menu.edit.paste.accesskey                 "ص">
 <!ENTITY  event.menu.edit.select.all.label                "حدّد الكل">
 <!ENTITY  event.menu.edit.select.all.accesskey            "ك">
 
 <!ENTITY  event.menu.view.label                           "عرض">
 <!ENTITY  event.menu.view.accesskey                       "ع">
-<!ENTITY  event.menu.view.toolbars.label                  "شريط الأدوات ">
+<!ENTITY  event.menu.view.toolbars.label                  "أشرطة الأدوات">
 <!ENTITY  event.menu.view.toolbars.accesskey              "ش">
-<!ENTITY  event.menu.view.toolbars.event.label            "شريط أدوات الحدث ">
-<!ENTITY  event.menu.view.toolbars.event.accesskey        "ش">
-<!ENTITY  event.menu.view.toolbars.customize.label        "تخصيص">
-<!ENTITY  event.menu.view.toolbars.customize.accesskey    "ت">
+<!ENTITY  event.menu.view.toolbars.event.label            "شريط أدوات الحدث">
+<!ENTITY  event.menu.view.toolbars.event.accesskey        "ح">
+<!ENTITY  event.menu.view.toolbars.customize.label        "خصص…">
+<!ENTITY  event.menu.view.toolbars.customize.accesskey    "خ">
 <!ENTITY  event.menu.view.showlink.label                  "اعرض رابط مرتبط">
 <!ENTITY  event.menu.view.showlink.accesskey              "ر">
 
 <!ENTITY  event.menu.options.label                            "خيارات">
 <!ENTITY  event.menu.options.accesskey                        "خ">
-<!ENTITY  event.menu.options.attendees.label                  "دعوة الحضور...">
+<!ENTITY  event.menu.options.attendees.label                  "ادع الحضور…">
 <!ENTITY  event.menu.options.attendees.accesskey              "د">
 <!ENTITY  event.menu.options.timezone2.label                  "أظهر المناطق الزمنية">
 <!ENTITY  event.menu.options.timezone2.accesskey              "ط">
-<!ENTITY  event.menu.options.priority2.label                  "الأولويه">
-<!ENTITY  event.menu.options.priority2.accesskey              "y">
+<!ENTITY  event.menu.options.priority2.label                  "الأولويّة">
+<!ENTITY  event.menu.options.priority2.accesskey              "و">
 <!ENTITY  event.menu.options.priority.notspecified.label      "غير محددة">
 <!ENTITY  event.menu.options.priority.notspecified.accesskey  "ح">
 <!ENTITY  event.menu.options.priority.low.label               "منخفضة">
@@ -117,7 +117,7 @@
 <!ENTITY  event.menu.options.priority.normal.accesskey        "ع">
 <!ENTITY  event.menu.options.priority.high.label              "مرتفعة">
 <!ENTITY  event.menu.options.priority.high.accesskey          "ف">
-<!ENTITY  event.menu.options.privacy.label                    "خصوصيه">
+<!ENTITY  event.menu.options.privacy.label                    "الخصوصية">
 <!ENTITY  event.menu.options.privacy.accesskey                "خ">
 <!ENTITY  event.menu.options.privacy.public.label             "حدث عام">
 <!ENTITY  event.menu.options.privacy.public.accesskey         "ع">
@@ -127,17 +127,17 @@
 <!ENTITY  event.menu.options.privacy.private.accesskey        "خ">
 <!ENTITY  event.menu.options.show.time.label                  "اعرض الوقت ك‍">
 <!ENTITY  event.menu.options.show.time.accesskey              "ق">
-<!ENTITY  event.menu.options.show.time.busy.label             "مشغول ">
-<!ENTITY  event.menu.options.show.time.busy.accesskey         "م">
-<!ENTITY  event.menu.options.show.time.free.label             "مجاني">
-<!ENTITY  event.menu.options.show.time.free.accesskey         "م">
+<!ENTITY  event.menu.options.show.time.busy.label             "مشغول">
+<!ENTITY  event.menu.options.show.time.busy.accesskey         "غ">
+<!ENTITY  event.menu.options.show.time.free.label             "متفرغ">
+<!ENTITY  event.menu.options.show.time.free.accesskey         "ف">
 
-<!ENTITY event.invite.attendees.label                     "دعوة الحضور…">
+<!ENTITY event.invite.attendees.label                     "ادع الحضور…">
 <!ENTITY event.invite.attendees.accesskey                 "د">
-<!ENTITY event.email.attendees.label                      "اكتب بريد إلكتروني إلى كل الحضور…">
+<!ENTITY event.email.attendees.label                      "اكتب بريدا إلكترونيا إلى كل الحضور…">
 <!ENTITY event.email.attendees.accesskey                  "ك">
-<!ENTITY event.email.tentative.attendees.label            "إنشاء بريد إلكتروني الى &amp; الحضور المترددين">
-<!ENTITY event.email.tentative.attendees.accesskey        "U">
+<!ENTITY event.email.tentative.attendees.label            "اكتب بريدا إلكترونيا إلى الحضور المترددين…">
+<!ENTITY event.email.tentative.attendees.accesskey        "د">
 <!-- Toolbar -->
 
 <!ENTITY  event.toolbar.save.label                        "احفظ و أغلق">
@@ -176,47 +176,49 @@
 <!ENTITY event.to.accesskey                               "ه">
 <!ENTITY task.to.label                                    "تاريخ الاستحقاق:" >
 <!ENTITY task.to.accesskey                                "u">
-<!ENTITY task.status.label                                "الحالة" >
-<!ENTITY task.status.accesskey                            "a">
-<!ENTITY event.repeat.label                               "تكرار" >
-<!ENTITY event.repeat.accesskey                           "ت">
+<!ENTITY task.status.label                                "الحالة:" >
+<!ENTITY task.status.accesskey                            "ح">
+<!ENTITY event.repeat.label                               "كرر:" >
+<!ENTITY event.repeat.accesskey                           "ك">
 <!ENTITY event.until.label                                "حتى:">
-<!ENTITY event.until.accesskey                            "i">
-<!ENTITY event.reminder.label                             "تذكير:" >
-<!ENTITY event.reminder.accesskey                         "m">
-<!ENTITY event.description.label                          "وصف:" >
-<!ENTITY event.description.accesskey                      "p">
+<!ENTITY event.until.accesskey                            "ت">
+<!ENTITY event.reminder.label                             "ذكرني به:" >
+<!ENTITY event.reminder.accesskey                         "ذ">
+<!ENTITY event.description.label                          "الوصف:" >
+<!ENTITY event.description.accesskey                      "ص">
 <!ENTITY event.attachments.label                          "المرفقات:" >
-<!ENTITY event.attachments.accesskey                      "h" >
+<!ENTITY event.attachments.accesskey                      "ف" >
 <!ENTITY event.attachments.menubutton.label               "أرفق">
 <!ENTITY event.attachments.menubutton.accesskey           "ف">
-<!ENTITY event.attachments.url.label                      "صفحة ويب...">
-<!ENTITY event.attachments.url.accesskey                  "W">
-<!ENTITY event.attachments.popup.remove.label             "إزالة" >
-<!ENTITY event.attachments.popup.remove.accesskey         "إ" >
-<!ENTITY event.attachments.popup.open.label               "فتح" >
+<!ENTITY event.attachments.url.label                      "صفحة وِب…">
+<!ENTITY event.attachments.url.accesskey                  "ص">
+<!ENTITY event.attachments.popup.remove.label             "أزل" >
+<!ENTITY event.attachments.popup.remove.accesskey         "ز" >
+<!ENTITY event.attachments.popup.open.label               "افتح" >
 <!ENTITY event.attachments.popup.open.accesskey           "ف" >
-<!ENTITY event.attachments.popup.removeAll.label          "إزالة الكل" >
-<!ENTITY event.attachments.popup.removeAll.accesskey      "ا" >
-<!ENTITY event.attachments.popup.attachPage.label         "إرفاق صفحة ويب..." >
+<!ENTITY event.attachments.popup.removeAll.label          "أزل الكل" >
+<!ENTITY event.attachments.popup.removeAll.accesskey      "ك" >
+<!ENTITY event.attachments.popup.attachPage.label         "أرفق صفحة وِب…" >
 <!ENTITY event.attachments.popup.attachPage.accesskey     "ص" >
 <!ENTITY event.url.label                                  "رابط ذا صلة:" >
+<!ENTITY event.priority2.label                            "الأولويّة:">
 
+<!ENTITY event.reminder.none.label                        "لا تذكرني " >
+<!ENTITY event.reminder.0minutes.before.label             "مباشرة" >
+<!ENTITY event.reminder.5minutes.before.label             "قبل 5 دقائق" >
+<!ENTITY event.reminder.15minutes.before.label            "قبل 15 دقيقة" >
+<!ENTITY event.reminder.30minutes.before.label            "قبل 30 دقيقة" >
+<!ENTITY event.reminder.1hour.before.label                "قبل ساعة" >
+<!ENTITY event.reminder.2hours.before.label               "قبل ساعتين" >
+<!ENTITY event.reminder.12hours.before.label              "قبل 12 ساعة" >
+<!ENTITY event.reminder.1day.before.label                 "قبل يوم واحد" >
+<!ENTITY event.reminder.2days.before.label                "قبل يومين" >
+<!ENTITY event.reminder.1week.before.label                "قبل أسبوع واحد" >
+<!ENTITY event.reminder.custom.label                      "مخصّص…" >
 
+<!ENTITY event.reminder.multiple.label                    "تذكيرات متعددة…" >
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY event.statusbarpanel.privacy.label               "الخصوصية:">
 <!-- Recurrence dialog -->
 
 
