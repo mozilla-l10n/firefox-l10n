@@ -701,18 +701,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.description.insecure "Jūsu savienojums ar šo lapu nav drošs. Lapai nosūtītā informācija (piemēram paroles, ziņojumi vai kredītkartes dati) var būt pieejami citiem.">
 <!ENTITY identity.description.weakCipher "Jūsu savienojums ar šo lapu izmanto vāju šifrēšanu un nav privāts.">
+<!ENTITY identity.description.weakCipher2 "Citi cilvēki var aplūkot jūsu informāciju vai modificēt lapas uzvedību.">
+<!ENTITY identity.description.activeBlocked "&brandShortName; bloķēja nedrošo saturu šajā lapā.">
+<!ENTITY identity.description.passiveLoaded "Jūsu savienojums ar šo lapu nav drošs, lapai nosūtītā informācija var būt pieejami citiem.">
+<!ENTITY identity.description.passiveLoaded2 "Šīs lapas daļas (piemēram attēli) nav drošas.">
+<!ENTITY identity.description.passiveLoaded3 "Lai arī &brandShortName; bloķēja nedrošo saturu, lapā joprojām ir saturs, kas nav drošs (piemēram attēli).">
+<!ENTITY identity.description.activeLoaded "Šīs lapas daļas (piemēram attēli vai skripti) nav droši un jūsu savienojums nav privāts.">
+<!ENTITY identity.description.activeLoaded2 "Lapai nosūtītā informācija (piemēram paroles, ziņojumi vai kredītkartes dati) var būt pieejami citiem.">
 
-
-
-
-
-
-
-
-
+<!ENTITY identity.enableMixedContentBlocking.label "Aktivēt aizsardzību">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "b">
 <!ENTITY identity.disableMixedContentBlocking.label "Pagaidām deaktivēt aizsardzību">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "d">
-
+<!ENTITY identity.learnMore "Uzzināt vairāk">
 
 <!ENTITY identity.moreInfoLinkText2 "Sīkāka informācija">
 
@@ -789,29 +790,32 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "k">
 <!ENTITY getUserMedia.selectMicrophone.label "Izvēlies mikrofonu:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "m">
-
+<!ENTITY getUserMedia.audioCapture.label "Skaņa no cilnes tiks koplietota.">
 <!ENTITY getUserMedia.allWindowsShared.message "Visi uz ekrāna redzamie logi tiks koplietoti.">
 
-
-
-
+<!ENTITY trackingProtection.title "Izsekošanas aizsardzība">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; bloķē tās lapas daļas, kas var izsekot jūsu pārlūkošanas aktivitātēm.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "Šajā lapā ir elementi, kas var izsekot jūsu aktivitātēm internetā. Jūs esat deaktivējis aizsardzību.">
+<!ENTITY trackingProtection.notDetected3 "Šajā lapā nav izsekojošu elementu.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-
+<!ENTITY trackingProtection.unblock.label "Deaktivēt aizsardzību šajā lapā">
+<!ENTITY trackingProtection.unblock.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-
-
-
+<!ENTITY trackingProtection.unblockPrivate.label "Deaktivēt aizsardzību šajā sesijā">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "D">
+<!ENTITY trackingProtection.block2.label "Aktivēt aizsardzību">
+<!ENTITY trackingProtection.block2.accesskey "b">
 
 <!ENTITY trackingContentBlocked.message "Sekošana">
 <!ENTITY trackingContentBlocked.moreinfo "Daļa no lapas, kas seko jūsu aktivitātei internetā tika bloķēta.">
 <!ENTITY trackingContentBlocked.learnMore "Uzzināt vairāk">
-
-
-
+<!ENTITY trackingContentBlocked.options "Iestatījumi">
+<!ENTITY trackingContentBlocked.unblock2.label "Deaktivēt aizsardzību šajā lapā">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "Aktivēt aizsardzību">
 <!ENTITY trackingContentBlocked.block.accesskey "b">
 <!ENTITY trackingContentBlocked.disabled.message "Sekošanas aizsardzība ir deaktivēta">
