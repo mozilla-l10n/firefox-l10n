@@ -10,6 +10,7 @@
 <!ENTITY  onboard_start_subtext3 "Fă ca experiența de navigare mobilă pe Web să fie cu adevărat unică.">
 <!ENTITY  onboard_start_button_account "Autentifică-te în &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Începe navigarea">
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -67,6 +68,8 @@
 <!ENTITY edit_mode_cancel "Renunță">
 
 <!ENTITY close_tab "Închide fila">
+
+
 <!ENTITY one_tab "1 filă">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -154,6 +157,9 @@
 <!ENTITY pref_search_hint "PONT: Adaugă orice sait în lista motoarelor de căutare prin lunga apăsare pe câmpul de căutare al acestuia iar apoi apăsând iconița &formatI;.">
 <!ENTITY pref_category_devtools "Unelte de dezvoltare">
 <!ENTITY pref_developer_remotedebugging "Depanare de la distanță">
+
+
+
 <!ENTITY pref_category_logins "Autentificări">
 
 
@@ -190,15 +196,18 @@
 <!ENTITY pref_cookies_not_accept_foreign "Activate, excluzând terții">
 <!ENTITY pref_cookies_disabled "Dezactivate">
 
-<!ENTITY pref_tracking_protection_title "Protecție de urmărire">
-<!ENTITY pref_tracking_protection_summary "&brandShortName; va împiedica saiturile să te urmărească">
+
 <!ENTITY pref_donottrack_title "Nu mă urmări">
 <!ENTITY pref_donottrack_summary "&brandShortName; va spune saiturilor că nu dorești să fii urmărit">
+
+
+
+
 
 <!ENTITY tab_queue_toast_action "Deschide acum">
 <!ENTITY tab_queue_prompt_title "Deschizi multiple legături?">
 
-<!ENTITY tab_queue_prompt_tip_text "poți modifica acest lucru mai târziu din Setări">
+
 <!ENTITY tab_queue_prompt_positive_action_button "Activează">
 <!ENTITY tab_queue_prompt_negative_action_button "Nu acum">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
@@ -328,7 +337,6 @@ size. -->
 <!ENTITY addons "Suplimente">
 <!ENTITY logins "Autentificări">
 <!ENTITY downloads "Descărcări">
-<!ENTITY apps "Aplicații">
 <!ENTITY char_encoding "Codare caractere">
 
 <!ENTITY share "Împărtășește">
@@ -398,6 +406,9 @@ size. -->
 <!ENTITY pref_titlebar_mode "Bară de titlu">
 <!ENTITY pref_titlebar_mode_title "Arată titlul paginii">
 <!ENTITY pref_titlebar_mode_url "Arată adresa paginii">
+<!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
+     whether or not the magnifying glass is disabled. -->
+
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -423,7 +434,7 @@ size. -->
 <!ENTITY site_settings_cancel       "Renunță">
 <!ENTITY site_settings_clear        "Curăță">
 <!ENTITY site_settings_no_settings  "Nu sunt setări de curățat.">
-<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+<!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
 <!ENTITY reading_list_removed "Pagină eliminată din lista ta de citit">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
@@ -541,21 +552,20 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_run_by "care este menținut de">
-<!ENTITY identity_no_info "Acest sait nu furnizează informații despre identitatea sa.">
-<!ENTITY identity_not_encrypted "Conexiunea ta la acest sait nu este criptată.">
-<!ENTITY identity_encrypted "Criptat">
+
 <!-- Mixed content notifications in site identity popup -->
+
+
+
 
 <!ENTITY loaded_mixed_content_message "Această pagină afișează conținut care nu este sigur.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; a blocat conținutul care nu este sigur.">
 <!ENTITY blocked_mixed_content_message_bottom "Majoritatea saiturilor web vor funcționa corect în continuare chiar dacă acest tip de conținut e blocat.">
 <!-- Tracking content notifications in site identity popup -->
 
-<!ENTITY loaded_tracking_content_message_top "Protecția de urmărire e dezactivată.">
-<!ENTITY loaded_tracking_content_message_bottom "Părți ale acestei pagini pot urmări activitatea ta online.">
-<!ENTITY blocked_tracking_content_message_top2 "Protecția de urmărire e activată.">
-<!ENTITY blocked_tracking_content_message_bottom2 "Părți ale paginii care urmăresc activitatea ta online au fost blocate.">
+
+
+
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "Află mai multe">
@@ -641,10 +651,6 @@ din Android">
 <!-- Voice search in the awesome bar -->
 
 <!ENTITY voicesearch_prompt "Vorbește acum">
-<!ENTITY voicesearch_failed_title "Căutare vocală &brandShortName;">
-<!ENTITY voicesearch_failed_message "Există o problemă cu căutarea vocală. Te rugăm încearcă din nou.">
-<!ENTITY voicesearch_failed_message_recoverable "Scuze! Nu putem să recunoaștem cuvintele. Te rugăm încearcă din nou.">
-<!ENTITY voicesearch_failed_retry "Încearcă din nou">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -660,4 +666,23 @@ din Android">
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
 
 <!ENTITY find_matchcase "Aa">
+
+<!-- DevTools Authentication -->
+<!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
+     above a QR reader that is actively scanning for QR codes.  The expected QR
+     code has already been displayed by the client trying to connect (such as
+     desktop Firefox via WebIDE), so you just need to aim this device at the QR
+     code. -->
+<!-- Restrictions -->
+<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+     a restricted profile (e.g. child). Used inside the Android settings UI. -->
+
+
+
+
+
+
+
+
+
 
