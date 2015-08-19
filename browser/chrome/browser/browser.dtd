@@ -110,12 +110,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "כ">
 
 <!ENTITY fxaSignIn.label "התחברות אל &syncBrand.shortName.label;">
+<!ENTITY fxaSignedIn.tooltip "פתיחת ההעדפות של &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "התחברות מחדש אל &syncBrand.shortName.label;">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; מופעל">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; יתחיל בפעולת הסנכרון בתוך מספר רגעים.">
 <!ENTITY syncErrorPanel.heading "לא ניתן להתחבר אל &syncBrand.shortName.label;">
 <!ENTITY syncErrorPanel.subTitle "בבקשה להיכנס לחשבון כדי לחדש את הסינכון. ">
-<!ENTITY syncErrorPanel.signInButton.label "התחברות">
+<!ENTITY syncErrorPanel.signInButton.label "כניסה">
 <!ENTITY syncErrorPanel.signInButton.accesskey "ה">
 
 
@@ -394,6 +395,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "ח">
 <!ENTITY urlbar.switchToTab.label     "עבור ללשונית:">
 
+<!ENTITY urlbar.searchSuggestionsNotification.question "האם לשפר את חוויית החיפוש שלך בעזרת הצעות?">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "מידע נוסף…">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "לא">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "כן">
 
@@ -424,6 +427,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
      These are set as the aria-label attribute for the search input box and
      submit button in the in-content search UI, to be used by screen readers. -->
+<!ENTITY contentSearchInput.label     "Search query">
+<!ENTITY contentSearchSubmit.label    "שליחת החיפוש">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -681,13 +686,27 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connectionSecure "חיבור מאובטח">
 <!ENTITY identity.connectionNotSecure "חיבור זה אינו מאובטח">
+<!ENTITY identity.connectionFile "העמוד הזה מאוחסן במחשב שלך.">
 <!ENTITY identity.connectionVerified "&brandShortName; אימת שהחיבור שלך לאתר זה מאובטח, ומופעל על־ידי:">
 <!ENTITY identity.connectionInternal "דף זה הנו דף מאובטח של &brandShortName;.">
 
 <!-- Strings for connection state warnings. -->
+<!ENTITY identity.activeBlocked "&brandShortName; חסם חלקים שאינם בטוחים בדף זה.">
+<!ENTITY identity.passiveLoaded "חלקים מהדף הזה אינם בטוחים (כגון תמונות).">
+<!ENTITY identity.activeLoaded "ניטרלת את אמצעי האבטחה על דף זה.">
+<!ENTITY identity.weakEncryption "דף זה משתמש בהצפנה חלשה.">
 
 <!-- Strings for connection state warnings in the subview. -->
+<!ENTITY identity.description.insecure "החיבור שלך לאתר זה אינו פרטי. המידע שנשלח זמין לצפייה לאחרים (כגון ססמאות, הודעות, כרטיסי אשראי וכו׳).">
+<!ENTITY identity.description.weakCipher "החיבור שלך לאתר זה משתמש בהצפנה חלשה ואינו פרטי.">
+<!ENTITY identity.description.weakCipher2 "אנשים אחרים יכולים לצפות במידע שלך או לשנות את התנהגות האתר.">
+<!ENTITY identity.description.activeBlocked "&brandShortName; חסם חלקים מהדף שאינם בטוחים.">
 
+<!ENTITY identity.enableMixedContentBlocking.label "הפעלת הגנה">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "ג">
+<!ENTITY identity.disableMixedContentBlocking.label "נטרול ההגנה לבינתיים">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "נ">
+<!ENTITY identity.learnMore "מידע נוסף">
 
 <!ENTITY identity.moreInfoLinkText2 "מידע נוסף">
 
@@ -764,6 +783,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "צ">
 <!ENTITY getUserMedia.selectMicrophone.label "מיקרופון לשיתוף:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "מ">
+<!ENTITY getUserMedia.audioCapture.label "השמע מהלשונית יהיה שיתופי.">
 <!ENTITY getUserMedia.allWindowsShared.message "ישותפו כל החלונות הגלויים על המסך.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):

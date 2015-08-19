@@ -129,6 +129,10 @@
 <!ENTITY malwareBlocked.longDesc "<p>אתרים תוקפים מנסים להתקין תוכנות שגונבות מידע פרטי, משתמשות במחשב שלך לתקיפת אחרים או לגרום נזק למערכת שלך.</p> 
 <p>בעלי אתרים המאמינים כי האתר שלהם דווח בטעות בתור אתר תוקף יכולים <a href='http://www.stopbadware.org/home/reviewinfo' >לבקש בדיקה חוזרת</a>.</p>">
 
+<!ENTITY unwantedBlocked.title "אתר הפצת תכנה חשוד!">
+<!ENTITY unwantedBlocked.longDesc "
+<p>עמודים המפיצים ומנסים להתקין תכנה עשויים להיות מטעים ולהשפיע על המערכת שלך בדרכים בלתי צפויות.</p>
+">
 
 <!ENTITY phishingBlocked.title "חשד לזיוף ברשת!">
 <!ENTITY phishingBlocked.longDesc "<p>הכנסת מידע אישי לדף זה יכולה להסתיים בגניבת זהות או הונאה אחרת.</p> 
@@ -155,10 +159,20 @@ functionality specific to firefox. -->
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
+<!ENTITY errorReporting.title "דיווח על תקלה זו">
+<!ENTITY errorReporting.longDesc "דיווח על הכתובת ועל פרטי האישור עבור <span id='hostname'></span> יסייע לנו לזהות ולחסום אתרים זדוניים. תודה לך על הסיוע בהפיכת הרשת למקום בטוח יותר!">
+<!ENTITY errorReporting.automatic "דווח אוטומטי על שגיאות בעתיד">
 <!ENTITY errorReporting.learnMore "מידע נוסף…">
+<!ENTITY errorReporting.sending "הדיווח נשלח כעת">
+<!ENTITY errorReporting.sent "שליחת הדיווח הושלמה">
+<!ENTITY errorReporting.report "דיווח">
+<!ENTITY errorReporting.tryAgain "נסה שוב">
 
 <!ENTITY remoteXUL.title "XUL מרוחק">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>פנה אל בעלי האתר כדי ליידע אותם על הבעיה.</li></ul></p>">
 
+<!ENTITY sslv3Used.title "לא ניתן להיכנס באופן מאובטח">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "ssl_error_unsupported_version". -->
+<!ENTITY sslv3Used.longDesc "מידע מתקדם: ssl_error_unsupported_version">
+<!ENTITY sslv3Used.learnMore "מידע נוסף…">
