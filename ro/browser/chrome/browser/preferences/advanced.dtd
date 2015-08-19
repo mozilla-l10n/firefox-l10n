@@ -53,7 +53,7 @@
 
 <!ENTITY httpCache.label                 "Conținut web păstrat temporar">
 
-<!ENTITY offlineStorage2.label           "Conținut web și date stocate pentru uz offline">
+<!ENTITY offlineStorage2.label           "Conținut web și date stocate pentru folosirea offline">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -94,12 +94,12 @@
 <!ENTITY enableSearchUpdate.label        "Motoare de căutare">
 <!ENTITY enableSearchUpdate.accesskey    "M">
 
-<!ENTITY offlineNotify.label             "Spune-mi când un sait cere să stocheze date pentru uz offline">
+<!ENTITY offlineNotify.label             "Spune-mi când un site cere să stocheze date pentru folosire offline">
 <!ENTITY offlineNotify.accesskey         "t">
 <!ENTITY offlineNotifyExceptions.label   "Excepții…">
 <!ENTITY offlineNotifyExceptions.accesskey "x">
 
-<!ENTITY offlineAppsList2.label          "Următoarelor saituri web le este permis să stocheze date pentru uz offline:">
+<!ENTITY offlineAppsList2.label          "Următoarelor site-uri web le este permis să stocheze date pentru folosire offline:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Șterge…">
 <!ENTITY offlineAppsListRemove.accesskey "r">
