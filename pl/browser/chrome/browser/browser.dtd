@@ -652,10 +652,9 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
 <!ENTITY syncTabsMenu2.label     "Karty z innych urządzeń">
 
-<!ENTITY syncBrand.shortName.label  "Sync">
-
-<!ENTITY syncSetup.label              "Skonfiguruj usługę &syncBrand.shortName.label;…">
-<!ENTITY syncSetup.accesskey          "S">
+<!ENTITY syncBrand.shortName.label "Firefox Sync">
+<!ENTITY syncSignIn.label "Zaloguj się do &syncBrand.shortName.label;…">
+<!ENTITY syncSignIn.accesskey "s">
 <!ENTITY syncSyncNowItem.label        "Synchronizuj teraz">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label "Zaloguj się ponownie do &syncBrand.shortName.label;…">
