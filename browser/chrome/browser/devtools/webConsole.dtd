@@ -53,7 +53,7 @@
   -  for editing commands in text inputs. -->
 <!ENTITY btnPageNet.accesskeyMacOSX "ش">
 <!ENTITY btnPageCSS.label   "CSS">
-
+<!ENTITY btnPageCSS.tooltip2 "سجّل أخطاء الطرز المتراصة و تحذيراتها">
 <!ENTITY btnPageCSS.accesskey "C">
 
 <!ENTITY btnPageJS.tooltip  "سجّل استثناءات جافاسكربت">
