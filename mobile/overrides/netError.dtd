@@ -21,15 +21,15 @@
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 <!ENTITY dnsNotFound.longDesc4 "
 <ul>
-  <li>Перевіряти адресу на помилки введення, такі як
+  <li>Перевірте адресу на помилки введення, такі як
     <strong>ww</strong>.example.com замість
     <strong>www</strong>.example.com</li>
     <div id='searchbox'>
       <input id='searchtext' type='search'></input>
       <button id='searchbutton'>Пошук</button>
     </div>
-  <li>Якщо вам не вдається завантажити будь-які сторінки, перевірте чи у вашого пристрою працюють мобільні дані або з'єднання Wi-Fi.
-    <button id='wifi'>Активувати Wi-Fi</button>
+  <li>Якщо ви не можете завантажити жодної сторінки, перевірте з'єднання свого пристрою з мобільною чи Wi-Fi мережею.
+    <button id='wifi'>Увімкнути Wi-Fi</button>
   </li>
 </ul>
 ">
