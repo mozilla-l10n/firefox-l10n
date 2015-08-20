@@ -30,7 +30,7 @@
 <!ENTITY runFilters.accesskey "ش">
 <!ENTITY stopFilters.label "قف">
 <!ENTITY stopFilters.accesskey "ق">
-<!ENTITY folderPickerPrefix.label "شغّل المرشّح(ات) المختار(ة) على:">
+<!ENTITY folderPickerPrefix.label "شغّل المرشّحات المختارة على:">
 <!ENTITY folderPickerPrefix.accesskey "م">
 <!ENTITY helpButton.label "مساعدة">
 <!ENTITY helpButton.accesskey "م">

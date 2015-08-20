@@ -4,7 +4,7 @@
 
 <!ENTITY joinChatWindow.title           "انضم للدردشة">
 <!ENTITY name.label                     "الغرفة">
-<!ENTITY optional.label                 "اختياري)">
+<!ENTITY optional.label                 "(اختياري)">
 <!ENTITY account.label                  "الحساب">
 <!ENTITY autojoin.label                 "انضم تلقائيا لغرفة الدردشة هذه">
 <!ENTITY autojoin.accesskey             "ت">
