@@ -21,12 +21,13 @@
 
 
 <!ENTITY aboutPrivateBrowsing.info.history     "История">
-
+<!ENTITY aboutPrivateBrowsing.info.searches    "Търсения">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Бисквитки">
 
 
+<!ENTITY aboutPrivateBrowsing.kept             "&brandShortName; ще:">
 
-
+<!ENTITY aboutPrivateBrowsing.info.downloads   "Изтегляния">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Отметки">
 
 <!ENTITY aboutPrivateBrowsing.learnMore        "Научете повече.">

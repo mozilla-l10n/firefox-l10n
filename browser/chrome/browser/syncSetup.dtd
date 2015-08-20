@@ -79,7 +79,7 @@
 <!-- Sync Options -->
 
 <!ENTITY setup.optionsPage.title      "Настройки на Sync">
-<!ENTITY syncDeviceName.label       "Име на устройството">
+<!ENTITY syncDeviceName.label       "Име на устройството:">
 <!ENTITY syncDeviceName.accesskey   "м">
 
 <!ENTITY syncMy.label               "Sync за моите">

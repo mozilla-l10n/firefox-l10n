@@ -36,7 +36,7 @@
 <!ENTITY openRecentMenu.label         "Отваряне на скорошни">
 <!ENTITY openRecentMenu.accesskey     "с">
 
-<!ENTITY revertCmd.label              "Обръщане">
+<!ENTITY revertCmd.label              "Обръщане…">
 <!ENTITY revertCmd.accesskey          "щ">
 
 <!ENTITY saveFileCmd.label            "Запис">
