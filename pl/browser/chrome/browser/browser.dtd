@@ -116,7 +116,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.label "Opuść tryb pełnoekranowy">
 <!ENTITY fullScreenExit.accesskey "O">
 
-<!ENTITY fullscreenExitHint2.value "Naciśnij ESC w dowolnej chwili, by wyjść.">
+<!ENTITY fullscreenWarning.beforeDomain.label "">
+<!ENTITY fullscreenWarning.afterDomain.label "działa teraz w trybie pełnoekranowym">
+<!ENTITY fullscreenWarning.generic.label "Dokument jest teraz wyśitelany w trybie pełnoekranowym">
+<!ENTITY exitDOMFullscreen.button "Opuść tryb pełnoekranowy (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "Opuść tryb pełnoekranowy (esc)">
 <!ENTITY leaveDOMFullScreen.label "Opuść tryb pełnoekranowy">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
