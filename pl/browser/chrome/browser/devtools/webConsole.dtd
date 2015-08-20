@@ -66,6 +66,14 @@
 <!ENTITY btnConsoleXhr "XHR">
 <!ENTITY btnConsoleReflows "Reflows">
 
+<!ENTITY btnServerLogging.label "Serwer">
+<!ENTITY btnServerLogging.accesskey "S">
+<!ENTITY btnServerLogging.tooltip "Wpisy dziennika otrzymywane z serwera">
+<!ENTITY btnServerErrors "Błędy">
+<!ENTITY btnServerInfo "Informacje">
+<!ENTITY btnServerWarnings "Ostrzeżenia">
+<!ENTITY btnServerLog "Wpisy dziennika">
+
 <!ENTITY btnConsoleSharedWorkers "Wątki współdzielone">
 <!ENTITY btnConsoleServiceWorkers "Wątki usługowe">
 <!ENTITY btnConsoleWindowlessWorkers "Wątki chrome lub dodatków">
