@@ -57,12 +57,12 @@ asigurați-vă că &brandShortName; are permisiunea de a accesa Web-ul.</li>
 
 <!ENTITY contentEncodingError.title "Eroare de codare a conținutului">
 <!ENTITY contentEncodingError.longDesc "<ul> 
-<li>Vă rugăm să luați legătura cu proprietarii saitului pentru a-i informa despre această problemă.</li> 
+<li>Te rugăm să contactezi proprietarii site-ului pentru a-i informa despre această problemă.</li> 
 </ul>">
 
 <!ENTITY unsafeContentType.title "Tip de fișier nesigur">
 <!ENTITY unsafeContentType.longDesc "<ul> 
-<li>Vă rugăm să luați legătura cu proprietarii saitului pentru a-i informa despre această problemă.</li> 
+<li>Te rugăm să contactezi proprietarii site-ului pentru a-i informa despre această problemă.</li> 
 </ul>">
 
 <!ENTITY netReset.title "Conexiunea a fost reinițializată">
@@ -78,17 +78,17 @@ asigurați-vă că &brandShortName; are permisiunea de a accesa Web-ul.</li>
 
 <!ENTITY proxyConnectFailure.title "Serverul proxy refuză conexiuni">
 <!ENTITY proxyConnectFailure.longDesc "<ul> 
-<li>Asigurați-vă că parametrii proxy-ului sunt corecți.</li> 
+<li>Verificați setările proxy pentru a vă asigura că sunt corecte.</li> 
 <li>Luați legătura cu administratorul rețelei pentru a vă asigura că serverul proxy 
 funcționează.</li> 
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Nu se poate găsi serverul proxy">
 <!ENTITY proxyResolveFailure.longDesc "<ul> 
-<li>Asigurați-vă că parametrii proxy-ului sunt corecți.</li> 
+<li>Verificați setările proxy pentru a vă asigura că sunt corecte.</li> 
 <li>Asigurați-vă că sistemul dumneavoastră are o conexiune funcțională la rețea.</li> 
 <li>Dacă sistemul sau rețeaua dumneavoastră este protejat de un paravan (firewall) sau proxy, 
-asigurați-vă că &brandShortName; are permisiunea de a accesa Web-ul.</li> 
+asigurați-vă că &brandShortName; are permisiunea de a accesa webul.</li> 
 </ul>">
 
 <!ENTITY redirectLoop.title "Pagina nu redirecționează corect">
@@ -107,7 +107,7 @@ Personal Security Manager.</li> 
 <!ENTITY nssFailure2.title "Conexiunea securizată a eșuat">
 <!ENTITY nssFailure2.longDesc2 "<ul> 
 <li>Pagina pe care încercați să o vedeți nu poate fi afișată deoarece autenticitatea datelor primite nu poate fi verificată.</li> 
-<li>Vă rugăm să luați legătura cu proprietarii saitului pentru a-i informa despre această problemă.</li> 
+<li>Te rugăm să contactezi proprietarii site-ului pentru a-i informa despre această problemă.</li> 
 </ul>">
 
 <!ENTITY nssBadCert.title "Conexiunea securizată a eșuat">
@@ -159,4 +159,4 @@ functionality specific to thunderbird. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "XUL la distanță">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Vă rugăm să luați legătura cu proprietarii saitului pentru a-i informa despre această problemă.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Te rugăm să contactezi proprietarii site-ului pentru a-i informa despre această problemă.</li></ul></p>">
