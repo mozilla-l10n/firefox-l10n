@@ -285,7 +285,7 @@
 <!ENTITY renameAttachment.accesskey "ة">
 <!ENTITY selectAll.label "اختر الكل">
 <!ENTITY selectAll.accesskey "ك">
-<!ENTITY attachFile.label "أرفق الملفات…">
+<!ENTITY attachFile.label "أرفق ملفات…">
 <!ENTITY attachFile.accesskey "م">
 <!ENTITY attachCloud.label "Filelink…">
 <!ENTITY attachCloud.accesskey "i">
