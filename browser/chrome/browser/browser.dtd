@@ -693,7 +693,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; has blocked parts of this page that are not secure.">
-<!ENTITY identity.passiveLoaded "Parts of this page are not secure (such as images).">
+<!ENTITY identity.passiveLoaded "本頁面中的部分內容（例如圖片）並不安全。">
 <!ENTITY identity.activeLoaded "您已停用此頁面中的保護。">
 <!ENTITY identity.weakEncryption "此頁面使用了弱強度的加密。">
 
