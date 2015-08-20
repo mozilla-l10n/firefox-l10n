@@ -694,7 +694,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; has blocked parts of this page that are not secure.">
 <!ENTITY identity.passiveLoaded "Parts of this page are not secure (such as images).">
-<!ENTITY identity.activeLoaded "You have disabled protection on this page.">
+<!ENTITY identity.activeLoaded "您已停用此頁面中的保護。">
 <!ENTITY identity.weakEncryption "此頁面使用了弱強度的加密。">
 
 <!-- Strings for connection state warnings in the subview. -->
@@ -703,10 +703,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.weakCipher2 "Other people can view your information or modify the website's behavior.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; has blocked parts of this page that are not secure.">
 <!ENTITY identity.description.passiveLoaded "Your connection is not private and information you share with the site could be viewed by others.">
-<!ENTITY identity.description.passiveLoaded2 "This website contains content that is not secure (such as images).">
+<!ENTITY identity.description.passiveLoaded2 "此網站包含不安全的內容（例如圖片）。">
 <!ENTITY identity.description.passiveLoaded3 "Although &brandShortName; has blocked some content, there is still content on the page that is not secure (such as images).">
-<!ENTITY identity.description.activeLoaded "This website contains content that is not secure (such as scripts) and your connection to it is not private.">
-<!ENTITY identity.description.activeLoaded2 "Information you share with this site could be viewed by others (like passwords, messages, credit cards, etc.).">
+<!ENTITY identity.description.activeLoaded "此網站包含不安全的內容（例如指令碼），與其之間的連線並不私密。">
+<!ENTITY identity.description.activeLoaded2 "您提供給此網站的資訊（例如密碼、訊息、信用卡號等等）可能會被其他人看到。">
 
 <!ENTITY identity.enableMixedContentBlocking.label "啟用保護">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "E">
