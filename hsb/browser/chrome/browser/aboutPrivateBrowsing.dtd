@@ -29,7 +29,7 @@
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Nachwilne dataje">
 
 <!ENTITY aboutPrivateBrowsing.kept             "&brandShortName; wobchowa:">
-
+<!ENTITY aboutPrivateBrowsing.info.kept        "Wobchowany">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Sćehnjenja">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Zapołožki">
 
