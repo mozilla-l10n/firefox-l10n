@@ -71,24 +71,28 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Njejsće so zregistrował.">
 <!ENTITY signIn.label                "Registrować">
-
+<!ENTITY profilePicture.tooltip      "Profilowy wobraz změnić">
 <!ENTITY manage.label                "Rjadować">
 <!ENTITY disconnect.label            "Zwisk dźělić…">
 <!ENTITY verify.label                "E-mejl přepruwować">
 <!ENTITY forget.label                "Tutu e-mejl zabyć">
 
 <!ENTITY welcome.description "Mějće přistup na swoje rajtarki, zapołožki, hesła a wjace, hdźežkuli &brandShortName; wužiwaće.">
-
-
+<!ENTITY welcome.signIn.label "Přizjewić">
+<!ENTITY welcome.createAccount.label "Konto załožić">
 
 <!ENTITY welcome.useOldSync.label "Wužiwaće staršu wersiju programa Sync?">
 
+<!ENTITY signedOut.caption            "Wzmiće swój web sobu">
+<!ENTITY signedOut.description        "Synchronizujće swoje zapołožki, historiju, rajtarki, hesła, přidatki a nastajenja mjez wšěmi wašimi gratami.">
+<!ENTITY signedOut.accountBox.title   "Z &syncBrand.fxAccount.label; zwjazać">
+<!ENTITY signedOut.accountBox.create  "Konto załožić">
+<!ENTITY signedOut.accountBox.signin  "Přizjewić">
 
+<!ENTITY signedIn.engines.label       "Mjez wšěmi gratami synchronizować">
 
-
-
-
-
+<!ENTITY mobilePromo.start            "Firefox sćahnyć za ">
 <!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
-
-
+<!ENTITY mobilePromo.androidLink      "Android™">
+<!ENTITY mobilePromo.end              ", zo byšće ze swojim mobilnym gratom synchronizował.">
+<!ENTITY androidAttribution           "Android je wikowanske znamjo předewzaća Google Inc.">
