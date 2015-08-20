@@ -884,7 +884,7 @@
 <!ENTITY reloadCmd.accesskey "R">
 <!ENTITY openInBrowser.label "Deschide în navigator">
 <!ENTITY openInBrowser.accesskey "o">
-<!ENTITY openLinkInBrowser.label "Deschide legătura în navigator">
+<!ENTITY openLinkInBrowser.label "Deschide linkul în browser">
 <!ENTITY openLinkInBrowser.accesskey "o">
 <!-- Statusbar -->
 
