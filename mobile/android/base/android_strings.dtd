@@ -276,6 +276,8 @@
 <!ENTITY contextmenu_top_sites_pin "Blocca sito">
 <!ENTITY contextmenu_top_sites_unpin "Sblocca sito">
 <!ENTITY contextmenu_add_search_engine "Aggiungi motore di ricerca">
+<!ENTITY contextmenu_mark_read "Segna come letto">
+<!ENTITY contextmenu_mark_unread "Segna come non letto">
 <!ENTITY doorhanger_login_no_username "[nessun nome utente]">
 <!ENTITY doorhanger_login_edit_title "Modifica accesso">
 <!ENTITY doorhanger_login_edit_username_hint "Nome utente">
