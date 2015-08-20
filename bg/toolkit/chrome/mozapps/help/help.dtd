@@ -13,8 +13,8 @@
 
 <!ENTITY copyCmd.label                  "Копиране">
 <!ENTITY copyCmd.accesskey              "К">
-
-
+<!ENTITY selectAllCmd.label             "Избиране на всички">
+<!ENTITY selectAllCmd.accesskey         "в">
 
 
 <!ENTITY homeButton.label               "Начална страница">

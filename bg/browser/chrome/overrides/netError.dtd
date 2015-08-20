@@ -156,7 +156,7 @@ functionality specific to firefox. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY errorReporting.title "Докладване на тази грешка">
-<!ENTITY errorReporting.longDesc "Докладването на информация за адрес и сертификат на <span id='hostname'></span> ще ни помогне да намираме и блокираме зловредни страници. Благодарим ви за помощта да направим Мрежата по-сигурна.">
+<!ENTITY errorReporting.longDesc "Докладването на информация за адрес и сертификат на <span id='hostname'></span> ще ни помогне да намираме и блокираме зловредни страници. Благодарим ви за помощта да направим Мрежата по-сигурна!">
 <!ENTITY errorReporting.automatic "Автоматично докладване на грешки в бъдеще">
 <!ENTITY errorReporting.learnMore "Научете повече…">
 <!ENTITY errorReporting.sending "Изпращане на доклад">

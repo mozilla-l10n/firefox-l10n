@@ -304,7 +304,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "п">
 <!ENTITY newPrivateWindow.label     "Нов прозорец за поверително сърфиране">
 <!ENTITY newPrivateWindow.accesskey "с">
-<!ENTITY newNonRemoteWindow.label   "&amp;Нов еднопроцесен прозорец">
+<!ENTITY newNonRemoteWindow.label   "Нов еднопроцесен прозорец">
 
 <!ENTITY editMenu.label         "Редактиране"> 
 <!ENTITY editMenu.accesskey       "Р"> 
@@ -395,7 +395,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Превключване към подпрозорец:">
 
-
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Научете повече…">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Не">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Да">
 <!-- 
@@ -690,7 +690,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings. -->
 
 
-
+<!ENTITY identity.weakEncryption "Тази странница използва слабо шифриране.">
 <!-- Strings for connection state warnings in the subview. -->
 
 
@@ -701,10 +701,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
+<!ENTITY identity.enableMixedContentBlocking.label "Включване на защита">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "В">
 <!ENTITY identity.disableMixedContentBlocking.label "Изключване на защитата за момента">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "И">
-
+<!ENTITY identity.learnMore "Научете повече">
 
 <!ENTITY identity.moreInfoLinkText2 "Повече информация">
 
@@ -790,20 +791,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-
+<!ENTITY trackingProtection.unblock.label "Изключване на защитата за страницата">
+<!ENTITY trackingProtection.unblock.accesskey "И">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-
-
-
+<!ENTITY trackingProtection.unblockPrivate.label "Изключване на защитата за страницата">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "И">
+<!ENTITY trackingProtection.block2.label "Включване на защита">
+<!ENTITY trackingProtection.block2.accesskey "В">
 
 <!ENTITY trackingContentBlocked.message "Проследяване">
 <!ENTITY trackingContentBlocked.moreinfo "Част от страницата, която проследява вашата дейност в Мрежата е била блокирана.">
 <!ENTITY trackingContentBlocked.learnMore "Научете повече">
-
-
-
+<!ENTITY trackingContentBlocked.options "Настройки">
+<!ENTITY trackingContentBlocked.unblock2.label "Изключване на защитата за страницата">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "И">
 <!ENTITY trackingContentBlocked.block.label "Включване на защита">
 <!ENTITY trackingContentBlocked.block.accesskey "В">
 <!ENTITY trackingContentBlocked.disabled.message "Защитата от проследяване е изключена">

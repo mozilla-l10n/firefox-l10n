@@ -72,7 +72,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedPrefsValue "Стойност">
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
-<!ENTITY aboutSupport.userJSTitle "Настройки в user.js">
+<!ENTITY aboutSupport.userJSTitle "Настройки от user.js">
 <!ENTITY aboutSupport.userJSDescription "Вашата профилна папка съдържа файл <a id='prefs-user-js-link'>user.js</a>, който съдържа настройките, които не са създадени от &brandShortName;.">
 
 <!ENTITY aboutSupport.lockedKeyPrefsTitle "Важни заключени настройки">
