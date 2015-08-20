@@ -57,36 +57,42 @@
 
 
 
+<!ENTITY calendar.today.button.tooltip          "اذهب الى اليوم" >
+<!ENTITY calendar.todaypane.button.tooltip      "أظهر لوحة اليوم" >
 
+<!ENTITY calendar.day.button.tooltip            "بدّل إلى منظور اليوم" >
+<!ENTITY calendar.week.button.tooltip           "بدّل إلى منظور الأسبوع" >
+<!ENTITY calendar.month.button.tooltip          "بدّل إلى منظور الشهر" >
+<!ENTITY calendar.multiweek.button.tooltip      "بدّل إلى منظور الأسابيع المتعددة" >
 
+<!ENTITY calendar.nextday.label                 "اليوم التالي" >
+<!ENTITY calendar.prevday.label                 "اليوم السابق" >
+<!ENTITY calendar.nextday.accesskey             "ت" >
+<!ENTITY calendar.prevday.accesskey             "س" >
+<!ENTITY calendar.nextweek.label                "الأسبوع القادم" >
+<!ENTITY calendar.prevweek.label                "الأسبوع الماضي" >
+<!ENTITY calendar.nextweek.accesskey            "ق" >
+<!ENTITY calendar.prevweek.accesskey            "ض" >
+<!ENTITY calendar.nextmonth.label               "الشهر القادم" >
+<!ENTITY calendar.prevmonth.label               "الشهر الماضي" >
+<!ENTITY calendar.nextmonth.accesskey           "د" >
+<!ENTITY calendar.prevmonth.accesskey           "م" >
 
+<!ENTITY calendar.navigation.nextday.tooltip    "تقدّم يوما واحدا" >
+<!ENTITY calendar.navigation.prevday.tooltip    "ارجع يوما واحدا" >
+<!ENTITY calendar.navigation.nextweek.tooltip   "تقدّم أسبوعا واحدا" >
+<!ENTITY calendar.navigation.prevweek.tooltip   "ارجع أسبوعا واحدا" >
+<!ENTITY calendar.navigation.nextmonth.tooltip  "تقدّم شهرا واحدا" >
+<!ENTITY calendar.navigation.prevmonth.tooltip  "ارجع شهرا واحدا" >
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY calendar.newevent.button.label         "حدث جديد" >
+<!ENTITY calendar.newtask.button.label          "مهمة جديدة" >
 <!ENTITY calendar.print.button.label            "اطبع" >
 <!ENTITY calendar.print.button.accesskey        "ط">
 
-
-
+<!ENTITY calendar.day.button.label              "اليوم" >
+<!ENTITY calendar.week.button.label             "الأسبوع" >
+<!ENTITY calendar.month.button.label            "الشهر" >
 
 
 
