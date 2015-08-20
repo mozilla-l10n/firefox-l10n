@@ -202,6 +202,7 @@
 <!ENTITY pref_donottrack_title "لا تتعقبني">
 <!ENTITY pref_donottrack_summary "سيُخبر &brandShortName; المواقع أنك لا تريدها أن تتعقبك">
 
+<!ENTITY tracking_protection_prompt_title "الآن مع حماية من التعقّب">
 
 <!ENTITY tracking_protection_prompt_tip_text "طالع إعدادات الخصوصية للاطلاع على المزيد">
 <!ENTITY tracking_protection_prompt_action_button "فهمت!">
@@ -210,9 +211,9 @@
 <!ENTITY tab_queue_toast_action "افتح الآن">
 <!ENTITY tab_queue_prompt_title "أأفتح الألسنة المتعدّدة هذه؟">
 
-
+<!ENTITY tab_queue_prompt_tip_text2 "يمكنك تغيير هذا من الإعدادات لاحقًا">
 <!ENTITY tab_queue_prompt_positive_action_button "فعّل">
-
+<!ENTITY tab_queue_prompt_negative_action_button "ليس الآن">
 
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -281,7 +282,7 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "بيانات المواقع للعمل دون اتصال">
 <!ENTITY pref_private_data_siteSettings2 "إعدادات الموقع">
 <!ENTITY pref_private_data_downloadFiles2 "التنزيلات">
-
+<!ENTITY pref_private_data_syncedTabs "الألسنة المُزامنة">
 
 
 <!ENTITY pref_about_firefox "عن &brandShortName;">
@@ -397,7 +398,7 @@ size. -->
 <!ENTITY doorhanger_login_no_username "[لا اسم مستخدم]">
 <!ENTITY doorhanger_login_edit_title "حرّر الولوج">
 <!ENTITY doorhanger_login_edit_username_hint "اسم المستخدم">
-
+<!ENTITY doorhanger_login_edit_password_hint "كلمة السر">
 <!ENTITY doorhanger_login_edit_toggle "أظهِر كلمة السر">
 <!ENTITY doorhanger_login_edit_toast_error "فشل حفظ الولوج">
 <!ENTITY doorhanger_login_select_message "أأنسخ كلمة السر من &formatS;؟">
@@ -441,6 +442,8 @@ size. -->
 <!ENTITY site_settings_no_settings  "لا إعدادات لمسحها.">
 <!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
+
+<!ENTITY reading_list_added3 "أضِيفت إلى قائمة القراءة">
 <!ENTITY reading_list_removed "حُذِفت الصفحة من قائمة القراءة">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -459,7 +462,7 @@ size. -->
 
 <!ENTITY masterpassword_create_title "أنشئ كلمة سر رئيسية">
 <!ENTITY masterpassword_remove_title "أزِل كلمة السر الرئيسية">
-
+<!ENTITY masterpassword_password "كلمة السر">
 <!ENTITY masterpassword_confirm "أكد كلمة السر">
 
 <!ENTITY button_ok "حسنا">
@@ -564,14 +567,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixed_content_blocked_all "منع &brandShortName; العناصر غير الآمنة في هذه الصفحة.">
 <!ENTITY mixed_content_blocked_some "منع &brandShortName; بعض العناصر غير الآمنة في هذه الصفحة.">
 <!ENTITY mixed_content_display_loaded "في هذه الصفحة بعض العناصر غير الآمنة.">
-
+<!ENTITY mixed_content_protection_disabled "لقد أوقفت الحماية من العناصر غير الآمنة.">
 
 <!ENTITY loaded_mixed_content_message "تعرض هذه الصفحة محتوى غير آمن.">
 <!ENTITY blocked_mixed_content_message_top "منع &brandShortName; محتوًى غير آمن.">
 <!ENTITY blocked_mixed_content_message_bottom "ستظل أغلب المواقع تعمل جيدًا حتى بعد منع هذا المحتوى.">
 <!-- Tracking content notifications in site identity popup -->
-
-
+<!ENTITY doorhanger_tracking_state_enabled "مفعّلة">
+<!ENTITY doorhanger_tracking_state_disabled "مُعطّلة">
 <!ENTITY doorhanger_tracking_message_enabled1 "مُنعت محاولات لتعقّب سلوكك على الإنترنت.">
 <!ENTITY doorhanger_tracking_message_disabled2 "في هذه الصفحة عناصر قد تتعقّب التصفّح.">
 <!-- Common mixed and tracking content strings in site identity popup -->
