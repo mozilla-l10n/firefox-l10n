@@ -137,7 +137,7 @@
 <!ENTITY pref_category_search3 "Căutare">
 <!ENTITY pref_category_search_summary "Personalizează motoarele de căutare">
 <!ENTITY pref_category_display "Ecran">
-<!ENTITY pref_category_display_summary "Text, bară de titlu, navigare pe tot ecranul">
+<!ENTITY pref_category_display_summary "Text, bară de titlu, navigare pe ecran complet">
 <!ENTITY pref_category_privacy_short "Confidențialitate">
 
 <!ENTITY pref_category_vendor "&vendorShortName;">
@@ -412,7 +412,7 @@ size. -->
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
-<!ENTITY pref_scroll_title_bar2 "Navigare pe tot ecranul">
+<!ENTITY pref_scroll_title_bar2 "Navigare pe ecran complet">
 <!ENTITY pref_scroll_title_bar_summary "Ascunde bara de titlu a &brandShortName; când derulezi în josul paginii">
 
 <!ENTITY pref_tab_queue_title2 "Deschide multiple legături">
