@@ -77,7 +77,7 @@
 <!ENTITY overlay_share_send_tab_btn_label "Invia a un altro dispositivo">
 <!ENTITY overlay_share_no_url "Nessun link disponibile in questa condivisione">
 <!ENTITY overlay_share_select_device "Seleziona dispositivo">
-<!ENTITY overlay_no_synced_devices "Non è disponibile alcun dispositivo connesso a Firefox Account">
+<!ENTITY overlay_no_synced_devices "Non è disponibile alcun dispositivo connesso all’account Firefox">
 <!ENTITY overlay_share_tab_not_sent "Impossibile inviare la scheda.\nRiprovare più tardi.">
 <!ENTITY pref_category_search3 "Ricerca">
 <!ENTITY pref_category_search_summary "Personalizza i motori di ricerca">
@@ -334,10 +334,10 @@
 <!ENTITY home_remote_tabs_title "Schede sincronizzate">
 <!ENTITY home_remote_tabs_empty "In questa sezione verranno visualizzate le schede provenienti da altri dispositivi.">
 <!ENTITY home_remote_tabs_unable_to_connect "Impossibile connettersi">
-<!ENTITY home_remote_tabs_need_to_sign_in "Effettuare l’accesso per riconnettersi al proprio Firefox Account e proseguire la sincronizzazione.">
-<!ENTITY home_remote_tabs_need_to_finish_migrating "Firefox Account è pronto per l’uso.">
+<!ENTITY home_remote_tabs_need_to_sign_in "Effettuare l’accesso per riconnettersi al proprio account Firefox e proseguire la sincronizzazione.">
+<!ENTITY home_remote_tabs_need_to_finish_migrating "L’account Firefox è pronto per l’uso.">
 <!ENTITY home_remote_tabs_trouble_verifying "Problemi con la verifica dell’account?">
-<!ENTITY home_remote_tabs_need_to_verify "Verificare il proprio Firefox Account per avviare la sincronizzazione.">
+<!ENTITY home_remote_tabs_need_to_verify "Verificare il proprio account Firefox per avviare la sincronizzazione.">
 <!ENTITY home_remote_tabs_one_hidden_device "1 dispositivo nascosto">
 <!ENTITY home_remote_tabs_many_hidden_devices "&formatD; dispositivi nascosti">
 <!ENTITY home_remote_tabs_hidden_devices_title "Dispositivi nascosti">
