@@ -10,6 +10,8 @@
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
      Width of the Private Browsing section.
      -->
+
+<!ENTITY aboutPrivateBrowsing.width            "25em">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
      aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
      These strings will be replaced by aboutPrivateBrowsing.forgotten and
@@ -17,30 +19,39 @@
      -->
 
 <!ENTITY aboutPrivateBrowsing.title            "คุณกำลังท่องเว็บแบบส่วนตัว">
+<!ENTITY aboutPrivateBrowsing.subtitle         "ในหน้าต่างนี้ &brandShortName; จะไม่จดจำประวัติใด ๆ">
 
-
-
+<!ENTITY aboutPrivateBrowsing.forgotten        "ในหน้าต่างนี้ &brandShortName; จะไม่จดจำ:">
+<!ENTITY aboutPrivateBrowsing.info.forgotten   "จะถูกลืม">
 <!ENTITY aboutPrivateBrowsing.info.history     "ประวัติ">
-
+<!ENTITY aboutPrivateBrowsing.info.searches    "ค้นหา">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "คุกกี้">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "แฟ้มชั่วคราว">
 
-
-
-
+<!ENTITY aboutPrivateBrowsing.kept             "&brandShortName; จะเก็บ:">
+<!ENTITY aboutPrivateBrowsing.info.kept        "จะถูกเก็บ">
+<!ENTITY aboutPrivateBrowsing.info.downloads   "ดาวน์โหลด">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "ที่คั่นหน้า">
 
+<!ENTITY aboutPrivateBrowsing.note1            "โปรดรู้ไว้ว่าผู้ให้บริการอินเทอร์เน็ตที่คุณใช้หรือนายจ้างของคุณจะยังสามารถติดตามประวัติการดูเว็บของคุณได้อยู่">
 <!ENTITY aboutPrivateBrowsing.learnMore        "เรียนรู้เพิ่มเติม">
 <!-- LOCALIZATION NOTE (trackingProtection.width):
      Width of the Tracking Protection section. This should be enough to
      accommodate the title as well as the enabled or disabled indicator.
      -->
 
+<!ENTITY trackingProtection.width              "22em">
+<!ENTITY trackingProtection.title              "ป้องกันการติดตาม">
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
 
+<!ENTITY trackingProtection.state.width        "6ch">
+<!ENTITY trackingProtection.state.enabled      "เปิด">
+<!ENTITY trackingProtection.state.disabled     "ปิด">
 
+<!ENTITY trackingProtection.description1       "ขณะนี้หน้าต่างท่องเว็บแบบส่วนตัวได้ปิดกั้นบางส่วนของหน้านี้ที่อาจจะติดตามกิจกรรมการท่องเว็บของคุณ">
 
-
-
-
+<!ENTITY trackingProtection.disable            "ปิดการป้องกันการติดตาม">
+<!ENTITY trackingProtection.enable             "เปิดการป้องกันการติดตาม">
+<!ENTITY trackingProtection.startTour1         "ดูว่าทำงานอย่างไร">
