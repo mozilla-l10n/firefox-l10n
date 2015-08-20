@@ -99,12 +99,12 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY mirrorTabCmd.accesskey "l">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "Vedeți pe tot ecranul">
-<!ENTITY enterFullScreenCmd.accesskey "e">
-<!ENTITY exitFullScreenCmd.label "Ieșire din modul pe tot ecranul">
-<!ENTITY exitFullScreenCmd.accesskey "e">
-<!ENTITY fullScreenCmd.label "Pe tot ecranul">
-<!ENTITY fullScreenCmd.accesskey "n">
+<!ENTITY enterFullScreenCmd.label "Intrați în ecran complet">
+<!ENTITY enterFullScreenCmd.accesskey "r">
+<!ENTITY exitFullScreenCmd.label "Ieșiți din ecran complet">
+<!ENTITY exitFullScreenCmd.accesskey "r">
+<!ENTITY fullScreenCmd.label "Ecran complet">
+<!ENTITY fullScreenCmd.accesskey "r">
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Arată toate filele">
 <!ENTITY showAllTabsCmd.accesskey "A">
@@ -125,8 +125,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenClose.tooltip "Închide">
 <!ENTITY fullScreenAutohide.label "Ascunde barele de unelte">
 <!ENTITY fullScreenAutohide.accesskey "A">
-<!ENTITY fullScreenExit.label "Revenire din modul „ecran complet”">
-<!ENTITY fullScreenExit.accesskey "R">
+<!ENTITY fullScreenExit.label "Ieșiți din modul ecran complet">
+<!ENTITY fullScreenExit.accesskey "r">
 
 <!ENTITY fullscreenExitHint2.value "Apăsați ESC oricând pentru a ieși.">
 <!ENTITY leaveDOMFullScreen.label "Revenire la ecran normal">
@@ -582,8 +582,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaShowControls.accesskey "c">
 <!ENTITY mediaHideControls.label     "Ascunde controalele">
 <!ENTITY mediaHideControls.accesskey "c">
-<!ENTITY videoFullScreen.label       "Pe tot ecranul">
-<!ENTITY videoFullScreen.accesskey   "n">
+<!ENTITY videoFullScreen.label       "Ecran complet">
+<!ENTITY videoFullScreen.accesskey   "r">
 <!ENTITY videoSaveImage.label        "Salvează captura ca…">
 <!ENTITY videoSaveImage.accesskey    "S">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
