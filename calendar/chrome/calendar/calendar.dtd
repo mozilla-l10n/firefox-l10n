@@ -3,19 +3,25 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- General -->
 
+<!ENTITY calendar.calendar.label     "التقويم">
+<!ENTITY calendar.calendar.accesskey "ق">
 
+<!ENTITY calendar.newevent.button.tooltip         "أنشئ حدثا جديدا" >
+<!ENTITY calendar.newtask.button.tooltip          "أنشئ مهمة جديدة" >
 
+<!ENTITY calendar.unifinder.todoitems.label       "المهام" >
+<!ENTITY calendar.unifinder.showcompletedtodos.label "أظهر المهام المكتملة">
 
+<!ENTITY calendar.today.button.label          "اليوم">
+<!ENTITY calendar.tomorrow.button.label       "الغد">
+<!ENTITY calendar.upcoming.button.label       "الآتية">
 
-
-
-
-
-
-
-
-
-
+<!ENTITY calendar.events.filter.all.label "كل الأحداث">
+<!ENTITY calendar.events.filter.today.label "أحداث اليوم">
+<!ENTITY calendar.events.filter.future.label "كل الأحداث الآتية">
+<!ENTITY calendar.events.filter.current.label "اليوم المحدد حاليا">
+<!ENTITY calendar.events.filter.currentview.label "الأحداث في المنظور الحالي">
+<!ENTITY calendar.events.filter.next7Days.label "الأحداث في السبعة أيام القادمة">
 
 
 
@@ -23,28 +29,30 @@
    - This label and tooltip is used for the column with the checkbox in the
    - task tree view. -->
 
+<!ENTITY calendar.unifinder.tree.done.label                "تم">
+<!ENTITY calendar.unifinder.tree.done.tooltip2             "رتّب بالإتمام">
+<!ENTITY calendar.unifinder.tree.priority.label            "الأولوية">
+<!ENTITY calendar.unifinder.tree.priority.tooltip2         "رتّب بالأولوية">
+<!ENTITY calendar.unifinder.tree.title.label               "العنوان">
+<!ENTITY calendar.unifinder.tree.title.tooltip2            "رتّب بالعنوان">
+<!ENTITY calendar.unifinder.tree.percentcomplete.label     "نسبة الاكتمال">
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip2  "رتّب بنسبة الاكتمال">
+<!ENTITY calendar.unifinder.tree.startdate.label           "البدء">
+<!ENTITY calendar.unifinder.tree.startdate.tooltip2        "رتّب بتاريخ البدء">
+<!ENTITY calendar.unifinder.tree.enddate.label             "الانتهاء">
+<!ENTITY calendar.unifinder.tree.enddate.tooltip2          "رتّب بتاريخ الانتهاء">
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY calendar.unifinder.tree.completeddate.label       "الاكتمال">
+<!ENTITY calendar.unifinder.tree.completeddate.tooltip2    "رتّب بتاريخ الاكتمال">
+<!ENTITY calendar.unifinder.tree.categories.label          "الفئة">
+<!ENTITY calendar.unifinder.tree.categories.tooltip2       "رتّب بالفئة">
+<!ENTITY calendar.unifinder.tree.location.label            "المكان">
+<!ENTITY calendar.unifinder.tree.location.tooltip2         "رتّب بالمكان">
+<!ENTITY calendar.unifinder.tree.status.label              "الحالة">
+<!ENTITY calendar.unifinder.tree.status.tooltip2           "رتّب بالحالة">
+<!ENTITY calendar.unifinder.tree.calendarname.label        "اسم التقويم">
+<!ENTITY calendar.unifinder.tree.calendarname.tooltip2     "رتّب باسم التقويم">
 
 
 
