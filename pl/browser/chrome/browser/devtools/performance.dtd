@@ -42,8 +42,6 @@
 <!ENTITY performanceUI.table.selfAlloc "Własne próbki alokacji">
 <!ENTITY performanceUI.table.selfAlloc.tooltip "Liczba alokowanych obiektów próbkowanych dla tego położenia">
 
-<!ENTITY performanceUI.newtab.tooltiptext "Dodaj nową kartę z zaznaczeniem">
-
 <!ENTITY performanceUI.options.filter.tooltiptext "Wybierz, jakie dane wyświetlać na osi czasu">
 <!ENTITY performanceUI.options.gear.tooltiptext "Skonfiguruj ustawienia panelu wydajności">
 
