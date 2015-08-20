@@ -20,6 +20,11 @@
 <!ENTITY performanceUI.toolbar.js-flamegraph "Diagram JS">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "Diagram alokacji">
 
+<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Wyświetla różne operacje wykonywane przez przeglądarkę podczas rejestrowania, ułożone chronologicznie na osi czasu">
+<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Wyróżnia funkcje JavaScript w których przeglądarka spędziła najwięcej czasu podczas rejestrowania">
+<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Wyświetla zarejestrowany stos wywołań JavaScript">
+<!ENTITY performanceUI.toolbar.allocations.tooltiptext "Wyświetla zarejestrowane alokacje pamięci">
+
 <!ENTITY performanceUI.table.totalDuration "Całkowity czas">
 <!ENTITY performanceUI.table.totalDuration.tooltip "Czas spędzony podczas wykonywania tej funkcji i funkcji przez nią wywołanych">
 <!ENTITY performanceUI.table.selfDuration "Własny czas">
