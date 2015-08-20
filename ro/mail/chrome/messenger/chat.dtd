@@ -40,5 +40,5 @@
 <!ENTITY status.unavailable        "Indisponibil">
 <!ENTITY status.offline            "Offline">
 
-<!ENTITY openLinkCmd.label            "Deschide legătura…">
-<!ENTITY openLinkCmd.accesskey        "D">
+<!ENTITY openLinkCmd.label            "Deschide linkul…">
+<!ENTITY openLinkCmd.accesskey        "i">
