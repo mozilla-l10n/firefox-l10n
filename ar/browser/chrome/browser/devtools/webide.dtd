@@ -101,7 +101,7 @@
 <!ENTITY prefs_title "التفضيلات">
 
 <!ENTITY prefs_general_title "عام">
-
+<!ENTITY prefs_restore "استعد الإعدادات المبدئية">
 
 
 
@@ -125,7 +125,7 @@
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "جدول الصلاحيات">
-
+<!ENTITY permissionstable_name_header "الاسم">
 <!-- Runtime Details -->
 
 
@@ -139,16 +139,16 @@
 <!ENTITY device_typenumber "عدد صحيح">
 <!ENTITY device_typestring "نصّ">
 <!ENTITY device_typeobject "كائن">
-
+<!ENTITY device_typenone "اختر نوعًا">
 <!-- Device Preferences -->
 
 <!ENTITY devicepreference_title "تفضيلات الجهاز">
 
 
-
+<!ENTITY devicepreference_newtext "قيمة التّفضيل">
 
 <!-- Device Settings -->
-
+<!ENTITY devicesetting_search "ابحث في الإعدادات">
 
 
 
@@ -169,8 +169,8 @@
 <!-- Logs panel -->
 <!-- Simulator Options -->
 
-
-
+<!ENTITY simulator_reset "استعد الإعدادات المبدئية">
+<!ENTITY simulator_name "الاسم">
 
 <!ENTITY simulator_version "النسخة">
 
