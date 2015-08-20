@@ -71,7 +71,7 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Þú ert ekki skráður inn.">
 <!ENTITY signIn.label                "Innskráning">
-
+<!ENTITY profilePicture.tooltip      "Breyta notandamynd">
 <!ENTITY manage.label                "Umsjón">
 <!ENTITY disconnect.label            "Aftengja…">
 <!ENTITY verify.label                "Staðfesta tölvupóstfang">
@@ -83,7 +83,8 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY welcome.useOldSync.label "Ertu að nota gamla útgáfu af Sync?">
 
-
+<!ENTITY signedOut.caption            "Taktu vefinn með þér">
+<!ENTITY signedOut.description        "Samstilltu bókamerki, feril, flipa, lykilorð, viðbætur, og stillingará milli allra þinna tækja.">
 <!ENTITY signedOut.accountBox.title   "Tengjast með &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Búa til reikning">
 <!ENTITY signedOut.accountBox.signin  "Innskráning">
