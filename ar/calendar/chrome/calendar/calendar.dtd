@@ -335,25 +335,29 @@
 
 <!ENTITY calendar.select.dialog.title    "اختر تقويمًا">
 <!-- Calendar Printing -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY calendar.print.title.label "العنوان:">
+<!ENTITY calendar.print.layout.label "التخطيط:">
+<!ENTITY calendar.print.range.label "ما يجب طباعته">
+<!ENTITY calendar.print.currentView2.label "المنظور الحالي">
+<!ENTITY calendar.print.selectedEventsAndTasks.label "الأحداث/المهام المحددة">
+<!ENTITY calendar.print.tasks.label "المهام">
+<!ENTITY calendar.print.events.label "الأحداث">
+<!ENTITY calendar.print.custom.label "مدى تاريخ مخصّص:">
+<!ENTITY calendar.print.from.label "من:">
+<!ENTITY calendar.print.to.label "إلى:">
+<!ENTITY calendar.print.settingsGroup.label "إعدادات الطباعة">
+<!ENTITY calendar.print.optionsGroup.label "خيارات">
+<!ENTITY calendar.print.taskswithnoduedate.label "المهام بلا وقت إنجاز">
+<!ENTITY calendar.print.completedtasks.label "المهام المكتملة">
 <!-- Error reporting -->
 
+<!ENTITY calendar.error.detail "التفاصيل…">
+<!ENTITY calendar.error.code "رمز الخطأ:">
 <!ENTITY calendar.error.description "الوصف:">
-
+<!ENTITY calendar.error.title "حدث خطأ">
 <!-- Extract buttons in message header -->
 
+<!ENTITY calendar.extract.event.button         "أضفها كحدث">
+<!ENTITY calendar.extract.task.button          "أضفها كمهمة">
 
 
