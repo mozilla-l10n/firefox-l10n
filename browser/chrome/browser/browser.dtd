@@ -814,8 +814,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.moreinfo "بخش‌هایی از این صفحه که فعالیت آنلاین شما را ردگیری می‌کنند مسدوده شده‌اند.">
 <!ENTITY trackingContentBlocked.learnMore "بیشتر بدانید">
 <!ENTITY trackingContentBlocked.options "گزینه‌ها">
-
-
+<!ENTITY trackingContentBlocked.unblock2.label "غیرفعال سازی حفاظت برای این پایگاه">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "غ">
 <!ENTITY trackingContentBlocked.block.label "فعال کردن محافظ">
 <!ENTITY trackingContentBlocked.block.accesskey "ف">
 <!ENTITY trackingContentBlocked.disabled.message "محافظت در برابر ردگیری غیرفعال است‌‌">
