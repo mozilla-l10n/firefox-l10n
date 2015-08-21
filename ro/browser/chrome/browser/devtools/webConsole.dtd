@@ -9,7 +9,7 @@
 
 
 <!ENTITY window.title "Consolă web">
-<!ENTITY browserConsole.title "Consolă navigator">
+<!ENTITY browserConsole.title "Consolă pentru browser">
 
 <!ENTITY networkPanel.requestURLColon             "URL solicitat:">
 <!ENTITY networkPanel.requestMethodColon          "Metoda cererii:">
