@@ -28,7 +28,7 @@
 
 <!ENTITY aboutTelemetry.slowSqlSection "  Declarații SQL lente">
 
-<!ENTITY aboutTelemetry.chromeHangsSection "  Blocări navigator">
+<!ENTITY aboutTelemetry.chromeHangsSection "  Blocări ale browserului">
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Fire de execuție blocate">
 

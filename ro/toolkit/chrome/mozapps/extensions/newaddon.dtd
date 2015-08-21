@@ -8,7 +8,7 @@
 <!ENTITY warning         "Instalați suplimente doar de la autorii în care aveți încredere.">
 <!ENTITY allow           "Permite această instalare">
 <!ENTITY later           "Puteți să vă schimbați opțiunea oricând din 
-gestionarul de suplimente.">
+managerul de suplimente.">
 <!ENTITY continue        "Continuă">
 <!ENTITY restartMessage  "Trebuie să reporniți &brandShortName; pentru a încheia instalarea acestui supliment.">
 <!ENTITY restartButton   "Repornește &brandShortName;">
