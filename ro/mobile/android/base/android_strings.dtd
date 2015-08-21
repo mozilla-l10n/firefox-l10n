@@ -22,7 +22,7 @@
 <!ENTITY  switch_to_tab "Comută la filă">
 
 <!ENTITY  crash_reporter_title "Raportor de defecțiuni &brandShortName;">
-<!ENTITY  crash_message2 "&brandShortName; a avut o problemă și s-a închis neașteptat. Filele ar trebui să fie listate pe pagina de start &brandShortName; după ce repornești navigatorul.">
+<!ENTITY  crash_message2 "&brandShortName; a avut o problemă și s-a închis neașteptat. Filele ar trebui să fie listate pe pagina de start &brandShortName; după ce repornești browserul.">
 <!ENTITY  crash_send_report_message3 "Notifică &vendorShortName; despre această defecțiune astfel încât să o poată remedia">
 <!ENTITY  crash_include_url2 "Include adresa paginii pe care am fost">
 <!ENTITY  crash_sorry "Ne pare rău">
@@ -93,8 +93,8 @@
      UI. The locale includes both language and region concepts. -->
 
 <!ENTITY pref_category_language "Limbă">
-<!ENTITY pref_category_language_summary "Schimbă limba navigatorului">
-<!ENTITY pref_browser_locale "Limba navigatorului">
+<!ENTITY pref_category_language_summary "Schimbă limba browserului">
+<!ENTITY pref_browser_locale "Limba browserului">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
@@ -268,7 +268,7 @@ size. -->
 
 <!ENTITY pref_search_suggestions "Arată sugestii de căutare">
 <!ENTITY pref_import_android "Importă din Android">
-<!ENTITY pref_import_android_summary "Importă semnele de carte și istoricul din navigatorul nativ">
+<!ENTITY pref_import_android_summary "Importă semnele de carte și istoricul din browserul nativ">
 <!ENTITY pref_private_data_history2 "Istoricul navigării">
 <!ENTITY pref_private_data_searchHistory "Istoricul căutărilor">
 <!ENTITY pref_private_data_formdata2 "Istoricul formularelor">
@@ -311,11 +311,11 @@ size. -->
      crashReporterDesc.label). -->
 
 <!ENTITY datareporting_fhr_title "Raport de stare &brandShortName;">
-<!ENTITY datareporting_fhr_summary2 "Împărtășește date cu &vendorShortName; privind starea navigatorului și te ajută să înțelegi performanța navigatorului">
+<!ENTITY datareporting_fhr_summary2 "Împărtășește date cu &vendorShortName; privind starea browserului și te ajută să înțelegi performanța browserului">
 <!ENTITY datareporting_abouthr_title "Vezi raportul meu de stare">
 <!ENTITY datareporting_telemetry_title "Telemetrie">
-<!ENTITY datareporting_telemetry_summary "Împărtășește date privind performanța, consumul, hardware-ul și personalizările navigatorului cu &vendorShortName; pentru a ne ajuta să facem &brandShortName; mai bun">
-<!ENTITY datareporting_crashreporter_summary "&brandShortName; trimite rapoarte de defecțiuni pentru a ajuta &vendorShortName; să facă navigatorul mai stabil și sigur">
+<!ENTITY datareporting_telemetry_summary "Împărtășește date privind performanța, consumul, hardware-ul și personalizările browserului cu &vendorShortName; pentru a ne ajuta să facem &brandShortName; mai bun">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; trimite rapoarte de defecțiuni pentru a ajuta &vendorShortName; să facă browserul mai stabil și sigur">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Raportor de defecțiuni">
