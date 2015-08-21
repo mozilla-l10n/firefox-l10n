@@ -94,7 +94,7 @@
 <!ENTITY calendar.week.button.label             "الأسبوع" >
 <!ENTITY calendar.month.button.label            "الشهر" >
 
-<!ENTITY calendar.onlyworkday.checkbox.label    "أيام العمل فقط" >
+<!ENTITY calendar.onlyworkday.checkbox.label    "أيام العطل فقط" >
 <!ENTITY calendar.onlyworkday.checkbox.accesskey  "ع" >
 <!ENTITY calendar.displaytodos.checkbox.label   "المهام في المنظور" >
 <!ENTITY calendar.displaytodos.checkbox.accesskey "ه" >
@@ -113,23 +113,26 @@
 <!ENTITY calendar.task.filter.all.accesskey         "ك">
 <!ENTITY calendar.task.filter.today.label           "اليوم">
 <!ENTITY calendar.task.filter.today.accesskey       "ي">
+<!ENTITY calendar.task.filter.next7days.label       "الأيّام السبعة القادمة">
+<!ENTITY calendar.task.filter.next7days.accesskey   "س">
+<!ENTITY calendar.task.filter.notstarted.label      "المهام التي لم تبدأ">
+<!ENTITY calendar.task.filter.notstarted.accesskey  "ت">
 
 
-
-
-
-
-
-
-
-
+<!ENTITY calendar.task.filter.completed.label       "المهام المكتملة">
+<!ENTITY calendar.task.filter.completed.accesskey   "ك">
+<!ENTITY calendar.task.filter.open.label            "المهام غير المكتملة">
+<!ENTITY calendar.task.filter.open.accesskey        "غ">
 <!-- LOCALIZATION NOTE(calendar.task.filter.current.label)
      "Current Tasks" will show all tasks, except those with a start date set
      that is after today and after the selected date. If a task repeats, a
      separate entry will be shown for each of the occurrences that happen on or
      before today (or the selected date, whichever is later). -->
 
+<!ENTITY calendar.task.filter.current.label         "المهام الحالية">
+<!ENTITY calendar.task.filter.current.accesskey     "ح">
 
+<!ENTITY calendar.task-details.title.label           "العنوان">
 
 
 
