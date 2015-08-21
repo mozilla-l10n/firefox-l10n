@@ -7,8 +7,8 @@
 <!ENTITY  proxyTitle.label              "Configurare de servere proxy pentru acces la internet">
 <!ENTITY  noProxyTypeRadio.label        "Fără proxy">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
-<!ENTITY  systemTypeRadio.label         "Folosește setările proxy ale sistemului">
-<!ENTITY  systemTypeRadio.accesskey     "u">
+<!ENTITY  systemTypeRadio.label         "Utilizează setările proxy ale sistemului">
+<!ENTITY  systemTypeRadio.accesskey     "U">
 <!ENTITY  WPADTypeRadio.label           "Detectează automat setările de server proxy pentru această rețea">
 <!ENTITY  WPADTypeRadio.accesskey       "D">
 <!ENTITY  manualTypeRadio.label         "Configurare proxy manuală:">

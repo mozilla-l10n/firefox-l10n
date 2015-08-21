@@ -58,8 +58,8 @@
 <!ENTITY incomingServer.accesskey "S">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
 <!ENTITY incomingUsername.description "Introduceți numele de utilizator pentru primire oferit de furnizorul de servicii de e-mail (de exemplu, „ipopescu”).">
-<!ENTITY incomingUsername.label "Nume utilizator:">
-<!ENTITY incomingUsername.accesskey "N">
+<!ENTITY incomingUsername.label "Nume de utilizator:">
+<!ENTITY incomingUsername.accesskey "u">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label "Introduceți numele serverului de știri (NNTP) (de exemplu, „news.example.net”).">
 <!ENTITY newsServerLabel.label "Server grup de discuții/știri:">
@@ -73,8 +73,8 @@
 <!ENTITY outgoingServer.label "Server de trimitere:">
 <!ENTITY outgoingServer.accesskey "t">
 <!ENTITY outgoingUsername.description "Introduceți numele de utilizator pentru trimitere, dat de furnizorul dumneavoastră de e-mail (de obicei este același cu numele de utilizator pentru primire).">
-<!ENTITY outgoingUsername.label "Nume utilizator pentru trimitere:">
-<!ENTITY outgoingUsername.accesskey "N">
+<!ENTITY outgoingUsername.label "Nume de utilizator pentru trimitere:">
+<!ENTITY outgoingUsername.accesskey "u">
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
 -->

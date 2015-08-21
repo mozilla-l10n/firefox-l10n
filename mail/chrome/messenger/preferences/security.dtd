@@ -28,13 +28,13 @@
 <!ENTITY phishingDetector1.intro  "&brandShortName; poate analiza mesajele pentru a depista eventuale înșelătorii prin e-mail menite să vă inducă în eroare.">
 <!ENTITY enablePhishingDetector1.label    "Spune-mi dacă mesajul pe care-l citesc pare să fie o înșelătorie">
 <!ENTITY enablePhishingDetector1.accesskey  "t">
-<!ENTITY useDownloadedList.label "Folosește o listă de mesaje suspecte de înșelătorie">
-<!ENTITY useDownloadedList.accesskey "u">
+<!ENTITY useDownloadedList.label "Utilizează o listă de mesaje suspecte de înșelătorie">
+<!ENTITY useDownloadedList.accesskey "U">
 <!-- Passwords -->
 
 <!ENTITY savedPasswords.intro           "&brandShortName; poate reține parolele tuturor conturilor dumneavoastră.">
-<!ENTITY useMasterPassword.label        "Folosește o parolă generală">
-<!ENTITY useMasterPassword.accesskey    "F">
+<!ENTITY useMasterPassword.label        "Utilizează o parolă generală">
+<!ENTITY useMasterPassword.accesskey    "U">
 <!ENTITY masterPassword.intro           "O parolă generală protejează toate parolele dumneavoastră, dar trebuie să o introduceți o dată per sesiune.">
 <!ENTITY changeMasterPassword.label     "Schimbă parola generală…">
 <!ENTITY changeMasterPassword.accesskey "c">
