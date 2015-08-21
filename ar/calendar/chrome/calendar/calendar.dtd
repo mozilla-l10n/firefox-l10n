@@ -94,21 +94,25 @@
 <!ENTITY calendar.week.button.label             "الأسبوع" >
 <!ENTITY calendar.month.button.label            "الشهر" >
 
+<!ENTITY calendar.onlyworkday.checkbox.label    "أيام العمل فقط" >
+<!ENTITY calendar.onlyworkday.checkbox.accesskey  "ع" >
+<!ENTITY calendar.displaytodos.checkbox.label   "المهام في المنظور" >
+<!ENTITY calendar.displaytodos.checkbox.accesskey "ه" >
+<!ENTITY calendar.completedtasks.checkbox.label     "أظهر المهام المكتملة" >
+<!ENTITY calendar.completedtasks.checkbox.accesskey "ك" >
 
+<!ENTITY calendar.orientation.label "دوّر المنظور" >
+<!ENTITY calendar.orientation.accesskey "د" >
 
+<!ENTITY calendar.search.options.searchfor " التي تحوي">
 
+<!ENTITY calendar.list.header.label                 "التقويم">
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY calendar.task.filter.title.label           "أظهر">
+<!ENTITY calendar.task.filter.all.label             "الكل">
+<!ENTITY calendar.task.filter.all.accesskey         "ك">
+<!ENTITY calendar.task.filter.today.label           "اليوم">
+<!ENTITY calendar.task.filter.today.accesskey       "ي">
 
 
 
