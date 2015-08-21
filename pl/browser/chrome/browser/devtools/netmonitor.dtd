@@ -75,7 +75,6 @@
 <!ENTITY netmonitorUI.timings.wait        "Oczekiwanie:">
 <!ENTITY netmonitorUI.timings.receive     "Odbieranie:">
 
-<!ENTITY netmonitorUI.security.warning.sslv3 "Protokół SSL 3.0 jest przestarzały i niebezpieczny">
 <!ENTITY netmonitorUI.security.warning.cipher "Użyty szyfr jest przestarzały i niebezpieczny">
 <!ENTITY netmonitorUI.security.error "Wystąpił błąd:">
 <!ENTITY netmonitorUI.security.protocolVersion "Wersja protokołu:">
