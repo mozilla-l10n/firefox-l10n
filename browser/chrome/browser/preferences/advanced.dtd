@@ -28,17 +28,17 @@
 
 <!ENTITY dataChoicesTab.label            "Opțiuni de date">
 
-<!ENTITY healthReportDesc.label          "Ne ajută să înțelegem performanța navigatorului și împărtășește date cu &vendorShortName; despre stabilitatea navigatorului dumneavoastră">
+<!ENTITY healthReportDesc.label          "Ne ajută să înțelegem performanța browserului și împărtășește date cu &vendorShortName; privind stabilitatea browserului">
 <!ENTITY enableHealthReport.label        "Activează raportul de stare al &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "s">
 <!ENTITY healthReportLearnMore.label     "Află mai multe">
 
-<!ENTITY telemetryDesc.label             "Împărtășește date privind performanța, consumul, hardware-ul și personalizările navigatorului dumneavoastră cu &vendorShortName; pentru a ne ajuta să facem &brandShortName; mai bun">
+<!ENTITY telemetryDesc.label             "Împărtășește date privind performanța, consumul, hardware-ul și personalizările browserului cu &vendorShortName; pentru a ne ajuta să facem &brandShortName; mai bun">
 <!ENTITY enableTelemetryData.label       "Împărtășește date suplimentare (de exemplu Telemetrie)">
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Află mai multe">
 
-<!ENTITY crashReporterDesc.label         "&brandShortName; trimite rapoarte de defecte pentru a ajuta &vendorShortName; să facă navigatorul dumneavoastră mai stabil și sigur">
+<!ENTITY crashReporterDesc.label         "&brandShortName; trimite rapoarte de defecte pentru a ajuta &vendorShortName; să facă browserul mai stabil și sigur">
 <!ENTITY enableCrashReporter.label       "Activează raportarea defectelor">
 <!ENTITY enableCrashReporter.accesskey   "d">
 <!ENTITY crashReporterLearnMore.label    "Află mai multe">

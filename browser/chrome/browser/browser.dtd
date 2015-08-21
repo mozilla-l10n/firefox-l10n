@@ -235,7 +235,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY remoteWebConsoleCmd.label    "Consolă web la distanță">
 
-<!ENTITY browserConsoleCmd.label      "Consolă navigator">
+<!ENTITY browserConsoleCmd.label      "Consolă pentru browser">
 <!ENTITY browserConsoleCmd.commandkey "j">
 <!ENTITY browserConsoleCmd.accesskey  "C">
 
@@ -266,13 +266,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser toolbox UI in the Tools menu. -->
 
-<!ENTITY browserToolboxMenu.label     "Trusa de unelte pentru navigator">
+<!ENTITY browserToolboxMenu.label     "Trusa de unelte pentru browser">
 <!ENTITY browserToolboxMenu.accesskey "e">
 <!ENTITY browserToolboxCmd.commandkey "i">
 <!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 
+<!ENTITY browserContentToolboxMenu.label     "Trusa de unelte a conținutului pentru browser">
+<!ENTITY browserContentToolboxMenu.accesskey "x">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Închide bara de dezvoltare">
 <!ENTITY devToolbarMenu.label              "Bara de dezvoltare">
@@ -709,7 +711,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
-<!ENTITY tabsToolbar.label "Filele navigatorului">
+<!ENTITY tabsToolbar.label "Filele browserului">
 <!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
 
 <!ENTITY syncTabsMenu2.label     "File de pe alte dispozitive">

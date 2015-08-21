@@ -31,7 +31,7 @@
 <!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
   -  shown next to error details when the Browser Toolbox is unable to open. -->
 
-<!ENTITY browserToolboxErrorMessage          "Eroare la deschiderea trusei de unelte pentru navigator:">
+<!ENTITY browserToolboxErrorMessage          "Eroare la deschiderea trusei de unelte pentru browser:">
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 
@@ -44,7 +44,7 @@
   -  for the checkbox option to show user agent styles in the Inspector
   -  panel. -->
 
-<!ENTITY options.showUserAgentStyles.label "Afișează stiluri navigator">
+<!ENTITY options.showUserAgentStyles.label "Afișează stiluri pentru browser">
 <!ENTITY options.showUserAgentStyles.tooltip "Turning this on will show default styles that are loaded by the browser.">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
@@ -82,8 +82,8 @@
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 
-<!ENTITY options.enableChrome.label5    "Activează trusele de unelte pentru depanarea chrome a navigatorului și a suplimentelor">
-<!ENTITY options.enableChrome.tooltip3  "Pornind această opțiune vă va permite să folosiți diverse unelte de dezvoltare în contextul navigatorului (prin intermediul Unelte -> Dezvoltator web -> Trusa de unelte pentru navigator) și să depanați suplimente din Gestionarul de suplimente">
+<!ENTITY options.enableChrome.label5    "Activează trusele de unelte pentru depanarea chrome a browserului și a suplimentelor">
+<!ENTITY options.enableChrome.tooltip3  "Pornind această opțiune vă va permite să folosiți diverse unelte de dezvoltare în contextul browserului (prin intermediul Unelte -> Dezvoltator web -> Trusa de unelte pentru navigator) și să depanați suplimente din Gestionarul de suplimente">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
@@ -139,8 +139,8 @@
 <!-- LOCALIZATION NOTE (options.usedeveditiontheme.*) Options under the
   -  toolbox for enabling and disabling the Developer Edition browser theme. -->
 
-<!ENTITY options.usedeveditiontheme.label   "Utilizează tema Developer Edition în navigator">
-<!ENTITY options.usedeveditiontheme.tooltip "Comută la tema Developer Edition pentru navigator.">
+<!ENTITY options.usedeveditiontheme.label   "Utilizează tema de browser Developer Edition">
+<!ENTITY options.usedeveditiontheme.tooltip "Comută la tema Developer Edition pentru browser.">
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
 

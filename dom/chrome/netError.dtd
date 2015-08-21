@@ -8,13 +8,13 @@
 
 
 <!ENTITY connectionFailure.title "Conectare eșuată">
-<!ENTITY connectionFailure.longDesc "<p>Deși saitul pare valid, navigatorul nu a putut stabili o conexiune cu acesta.</p><ul><li>Se poate ca saitul să fie momentan indisponibil? Încercați din nou mai târziu.</li><li>Aveți probleme la navigarea pe alte saituri?  Verificați conexiunea la rețea a calculatorului dumneavoastră.</li><li>Calculatorul dumneavoastră este protejat de un firewall sau un proxy? Parametrii incorecți ai acestora ar putea afecta navigarea pe web.</li></ul>">
+<!ENTITY connectionFailure.longDesc "<p>Deși saitul pare valid, browserul nu a putut stabili o conexiune cu acesta.</p><ul><li>Se poate ca saitul să fie momentan indisponibil? Încercați din nou mai târziu.</li><li>Aveți probleme la navigarea pe alte saituri?  Verificați conexiunea la rețea a calculatorului dumneavoastră.</li><li>Calculatorul dumneavoastră este protejat de un firewall sau un proxy? Parametrii incorecți ai acestora ar putea afecta navigarea pe web.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "Port blocat din motive de securitate">
-<!ENTITY deniedPortAccess.longDesc "<p>Adresa cerută specifică un port (ex. <q>mozilla.org:80</q> înseamnă portul 80 la mozilla.org) care în mod normal e folosit pentru <em>alte</em> scopuri decât navigarea pe web. Navigatorul a anulat această cerere pentru securitatea și protecția dumneavoastră.</p>">
+<!ENTITY deniedPortAccess.longDesc "<p>Adresa cerută specifică un port (ex. <q>mozilla.org:80</q> înseamnă portul 80 la mozilla.org) care în mod normal e folosit pentru <em>alte</em> scopuri decât navigarea pe web. Browserul a anulat această cerere pentru securitatea și protecția dumneavoastră.</p>">
 
 <!ENTITY dnsNotFound.title "Adresa nu a fost găsită">
-<!ENTITY dnsNotFound.longDesc "<p>Navigatorul nu a găsit serverul gazdă al adresei specificate.</p><ul><li>Ați tastat greșit numele domeniului? (ex. <q><strong>ww</strong>.mozilla.org</q> în loc de <q><strong>www</strong>.mozilla.org</q>)</li><li>Sunteți sigur(ă) că acest domeniu există?  Se poate ca înregistrarea sa să fi expirat.</li><li>Aveți probleme cu navigarea pe alte saituri?  Verificați parametrii conexiunii la rețea și ai serverului DNS.</li><li>Calculatorul dumneavoastră este protejat de un firewall sau un proxy? Parametrii incorecți ai acestora ar putea afecta navigarea pe web.</li></ul>">
+<!ENTITY dnsNotFound.longDesc "<p>Browserul nu a găsit serverul gazdă al adresei specificate.</p><ul><li>Ați tastat greșit numele domeniului? (ex. <q><strong>ww</strong>.mozilla.org</q> în loc de <q><strong>www</strong>.mozilla.org</q>)</li><li>Sunteți sigur(ă) că acest domeniu există?  Se poate ca înregistrarea sa să fi expirat.</li><li>Aveți probleme cu navigarea pe alte saituri?  Verificați parametrii conexiunii la rețea și ai serverului DNS.</li><li>Calculatorul dumneavoastră este protejat de un firewall sau un proxy? Parametrii incorecți ai acestora ar putea afecta navigarea pe web.</li></ul>">
 
 <!ENTITY fileNotFound.title "Fișierul nu a fost găsit">
 <!ENTITY fileNotFound.longDesc "<ul><li>Se poate ca acesta să fi fost redenumit, mutat sau șters?</li><li>Adresa conține vreo eroare de tastare, sau majuscule în loc de minuscule ori invers?</li><li>Aveți suficiente drepturi de acces la fișierul cerut?</li></ul>">
@@ -26,13 +26,13 @@
 <!ENTITY malformedURI.longDesc "<p>Adresa introdusă nu este într-un format recunoscut. Verificați ca bara adresei să nu conțină greșeli și încercați din nou.</p>">
 
 <!ENTITY netInterrupt.title "Transfer de date întrerupt">
-<!ENTITY netInterrupt.longDesc "<p>Navigatorul s-a conectat cu succes, dar conexiunea a fost întreruptă în timp ce se transferau informații.  Vă rugăm încercați din nou.</p><ul><li>Aveți probleme cu navigarea pe alte saituri? Verificați conexiunea la rețea a calculatorului.</li><li>Problemele persistă? Consultați administratorul sau furnizorul dumneavoastră de servicii internet.</li></ul>">
+<!ENTITY netInterrupt.longDesc "<p>Browserul s-a conectat cu succes, dar conexiunea a fost întreruptă în timp ce se transferau informații.  Vă rugăm încercați din nou.</p><ul><li>Aveți probleme cu navigarea pe alte saituri? Verificați conexiunea la rețea a calculatorului.</li><li>Problemele persistă? Consultați administratorul sau furnizorul de servicii internet.</li></ul>">
 
 <!ENTITY notCached.title "Document expirat">
-<!ENTITY notCached.longDesc "<p>Documentul cerut nu mai este disponibil în cache-ul navigatorului.</p><ul><li>Ca o măsură de siguranță, navigatorul nu cere automat documente ce pot fi confidențiale.</li><li>Apăsați Încearcă din nou pentru a cere din nou documentul de pe sait.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Documentul cerut nu mai este disponibil în cache-ul browserului.</p><ul><li>Ca o măsură de siguranță, browserul nu cere automat documente ce pot fi confidențiale.</li><li>Apăsați Încearcă din nou pentru a cere din nou documentul de pe sait.</li></ul>">
 
 <!ENTITY netOffline.title "Mod offline">
-<!ENTITY netOffline.longDesc2 "<p>Navigatorul este în mod offline și nu se poate conecta la elementul cerut.</p><ul><li>Este calculatorul conectat la o rețea activă?</li><li>Apăsați „Încearcă din nou” pentru a comuta la modul online și a reîncărca pagina.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>Browserul este în mod offline și nu se poate conecta la elementul cerut.</p><ul><li>Este calculatorul conectat la o rețea activă?</li><li>Apăsați „Încearcă din nou” pentru a comuta la modul online și a reîncărca pagina.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Eroare de codare a conținutului">
 <!ENTITY contentEncodingError.longDesc "<p>Pagina pe care încercați să o vedeți nu poate fi afișată pentru că folosește o formă de compresie invalidă sau nesuportată.</p><ul><li>Vă rugăm să contactați proprietarii site-ului pentru a-i informa despre această problemă.</li></ul>">
@@ -46,7 +46,7 @@
 <!ENTITY netReset.longDesc "<p>Legătura de rețea a fost întreruptă în timp ce se negocia o conexiune. Vă rugăm încercați din nou.</p>">
 
 <!ENTITY netTimeout.title "Timp expirat">
-<!ENTITY netTimeout.longDesc "<p>Saitul cerut nu a răspuns cererii de conexiune, iar navigatorul a încetat să mai aștepte un răspuns.</p><ul><li>Se poate ca serverul să fie foarte solicitat sau să sufere o defecțiune temporară?  Încercați din nou mai târziu.</li><li>Aveți probleme cu navigarea pe alte saituri? Verificați conexiunea la rețea a calculatorului.</li><li>Calculatorul dumneavoastră este protejat de un firewall sau un proxy? Parametrii incorecți ai acestora ar putea afecta navigarea pe web.</li><li>Problemele persistă? Consultați administratorul sau furnizorul dumneavoastră de servicii internet.</li></ul>">
+<!ENTITY netTimeout.longDesc "<p>Site-ul cerut nu a răspuns cererii de conexiune, iar browserul a încetat să mai aștepte un răspuns.</p><ul><li>Se poate ca serverul să fie foarte solicitat sau să sufere o defecțiune temporară?  Încercați din nou mai târziu.</li><li>Aveți probleme cu navigarea pe alte saituri? Verificați conexiunea la rețea a calculatorului.</li><li>Calculatorul este protejat de un firewall sau un proxy? Parametrii incorecți ai acestora ar putea afecta navigarea pe web.</li><li>Problemele persistă? Consultați administratorul sau furnizorul de servicii internet.</li></ul>">
 
 <!ENTITY unknownProtocolFound.title "Protocol necunoscut">
 <!ENTITY unknownProtocolFound.longDesc "<p>Adresa specifică un protocol (de ex. <q>wxyz://</q>) pe care navigatorul nu îl cunoaște, astfel că navigatorul nu se poate conecta în mod corespunzător la sait.</p><ul><li>Încercați să accesați conținut multimedia sau alte servicii nontext? Verificați saitul pentru cerințe suplimentare.</li><li>Unele protocoale pot necesita programe terțe sau module înainte ca navigatorul să le poată recunoaște.</li></ul>">

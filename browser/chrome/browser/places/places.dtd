@@ -31,7 +31,7 @@
 <!ENTITY importBookmarksFromHTML.accesskey "I">
 <!ENTITY exportBookmarksToHTML.label       "Exportă semne de carte într-un fișier HTML…">
 <!ENTITY exportBookmarksToHTML.accesskey   "E">
-<!ENTITY importOtherBrowser.label          "Importă date din alt navigator…">
+<!ENTITY importOtherBrowser.label          "Importă date din alt browser…">
 <!ENTITY importOtherBrowser.accesskey      "a">
 
 <!ENTITY cmd.backup.label               "Copie de siguranță…">

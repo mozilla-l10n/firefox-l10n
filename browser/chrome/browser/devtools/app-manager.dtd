@@ -34,10 +34,10 @@
 <!ENTITY device.permissions "Permisiuni">
 <!ENTITY device.permissionsTooltip "View a table of the permissions accessible to the different types of apps.">
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
-<!ENTITY device.browserTabs "Filele navigatorului">
-<!ENTITY device.browserTabsTooltip "Vizualizați o listă cu file în navigatorul dispozitivului conectat">
+<!ENTITY device.browserTabs "Filele browserului">
+<!ENTITY device.browserTabsTooltip "Vizualizați o listă cu file în browserul dispozitivului conectat">
 <!ENTITY device.debugBrowserTab "Depanare">
-<!ENTITY device.debugBrowserTabTooltip "Deschideți uneltele de dezvoltare conectate filei navigatorului pe dispozitiv">
+<!ENTITY device.debugBrowserTabTooltip "Deschideți uneltele de dezvoltare conectate filei browserului pe dispozitiv">
 <!ENTITY device.help "Ajutor">
 
 <!ENTITY connection.connectTooltip "Connect to the device.">
