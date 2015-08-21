@@ -37,7 +37,7 @@
 
 
 
-#define bookmarks_aboutBrowser Firefox: despre navigatorul tău
+#define bookmarks_aboutBrowser Firefox: Despre browserul tău
 
 
 
