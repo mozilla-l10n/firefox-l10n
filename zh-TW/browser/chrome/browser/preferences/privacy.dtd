@@ -4,13 +4,13 @@
 
 <!ENTITY tracking.label                 "追蹤">
 
-<!ENTITY dntTrackingNotOkay4.label     "Request that sites not track you">
+<!ENTITY dntTrackingNotOkay4.label     "要求網站不要追蹤您">
 <!ENTITY dntTrackingNotOkay4.accesskey "n">
 <!ENTITY doNotTrackInfo.label          "更多資訊">
 <!ENTITY trackingProtection5.label     "使用追蹤保護">
 <!ENTITY trackingProtection5.accesskey "i">
 <!ENTITY trackingProtectionLearnMore.label "詳細資訊">
-<!ENTITY trackingProtectionPBM5.label         "Use Tracking Protection in Private Windows">
+<!ENTITY trackingProtectionPBM5.label         "在隱私瀏覽視窗中使用追蹤保護功能">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "詳細資訊">
 
