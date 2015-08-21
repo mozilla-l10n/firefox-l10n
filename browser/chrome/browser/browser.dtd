@@ -16,7 +16,7 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Mode Penjelajahan Pribadi)">
 
 <!ENTITY appmenu.tooltip                     "Buka menu">
-<!ENTITY navbarOverflow.label                "Alat lainnya…">
+
 <!-- Tab context menu -->
 
 <!ENTITY  reloadTab.label                    "Muat Ulang Tab">
