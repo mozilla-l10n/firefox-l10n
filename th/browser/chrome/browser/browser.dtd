@@ -782,9 +782,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY getUserMedia.allWindowsShared.message "หน้าตาที่ปรากฏอยู่ทั้งหมดบนหน้าจอของคุณจะถูกใช้ร่วมกัน">
 
+<!ENTITY trackingProtection.title "ป้องกันการติดตาม">
 
 
-
+<!ENTITY trackingProtection.notDetected3 "ไม่พบส่วนประกอบที่ทำการติดตามในหน้านี้">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
