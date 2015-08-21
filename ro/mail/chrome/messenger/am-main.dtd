@@ -22,7 +22,7 @@
 <!ENTITY signatureText.accesskey "x">
 <!ENTITY signatureHtml.label "Folosește HTML (ex: &lt;b&gt;bold&lt;/b&gt;)">
 <!ENTITY signatureHtml.accesskey "L">
-<!ENTITY signatureFile.label "Anexează semnătura dintr-un fișier (text, HTML sau imagine):">
+<!ENTITY signatureFile.label "A&amp;tașează semnătura dintr-un fișier (text, HTML sau imagine):">
 <!ENTITY signatureFile.accesskey "t">
 <!ENTITY edit.label "Editează…">
 <!ENTITY choose.label "Alege…">
@@ -30,7 +30,7 @@
 <!ENTITY editVCard.label "Editează fișă…">
 <!ENTITY editVCard.accesskey "f">
 <!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
-<!ENTITY attachVCard.label "Anexează vCard-ul meu la mesaje">
+<!ENTITY attachVCard.label "Atașează vCardul meu la mesaje">
 <!ENTITY attachVCard.accesskey "v">
 
 <!ENTITY manageIdentities.label "Gestiune identități…">

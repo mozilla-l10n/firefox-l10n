@@ -174,8 +174,8 @@
 <!ENTITY sortByReceivedCmd.accesskey "P">
 <!ENTITY sortByStarCmd.label "Steluță">
 <!ENTITY sortByStarCmd.accesskey "S">
-<!ENTITY sortByAttachmentsCmd.label "Anexe">
-<!ENTITY sortByAttachmentsCmd.accesskey "A">
+<!ENTITY sortByAttachmentsCmd.label "Atașamente">
+<!ENTITY sortByAttachmentsCmd.accesskey "m">
 <!ENTITY sortByPriorityCmd.label "Prioritate">
 <!ENTITY sortByPriorityCmd.accesskey "P">
 <!ENTITY sortBySizeCmd.label "Mărime">
@@ -255,8 +255,8 @@
 <!ENTITY viewFeedSummaryFeedPropsPref.label "Format implicit">
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "F">
 
-<!ENTITY viewAttachmentsInlineCmd.label "Afișează anexele în interiorul mesajului">
-<!ENTITY viewAttachmentsInlineCmd.accesskey "A">
+<!ENTITY viewAttachmentsInlineCmd.label "Afișează atașamentele în interiorul mesajului">
+<!ENTITY viewAttachmentsInlineCmd.accesskey "a">
 
 <!ENTITY pageSourceCmd.label "Sursă mesaj">
 <!ENTITY pageSourceCmd.accesskey "u">
@@ -356,7 +356,7 @@
 <!ENTITY forwardAsMenu.accesskey "c">
 <!ENTITY forwardAsInline.label "Mesaj inclus">
 <!ENTITY forwardAsInline.accesskey "i">
-<!ENTITY forwardAsAttachmentCmd.label "Anexă">
+<!ENTITY forwardAsAttachmentCmd.label "Atașament">
 <!ENTITY forwardAsAttachmentCmd.accesskey "A">
 <!ENTITY editAsNewMsgCmd.label "Editare ca mesaj nou">
 <!ENTITY editAsNewMsgCmd.accesskey "E">
@@ -676,7 +676,7 @@
 <!ENTITY starredColumn.label "Cu steluță">
 <!ENTITY locationColumn.label "Adresă">
 <!ENTITY idColumn.label "Ordinea primirii">
-<!ENTITY attachmentColumn.label "Anexe">
+<!ENTITY attachmentColumn.label "Atașamente">
 <!-- Thread Pane Tooltips -->
 
 <!ENTITY columnChooser2.tooltip "Selectați coloanele de afișat">
@@ -732,10 +732,10 @@
 <!ENTITY contextForwardAsMenu.accesskey "n">
 <!ENTITY contextForwardAsInline.label "Mesaj inclus">
 <!ENTITY contextForwardAsInline.accesskey "i">
-<!ENTITY contextForwardAsAttachmentItem.label "Anexă">
+<!ENTITY contextForwardAsAttachmentItem.label "Atașament">
 <!ENTITY contextForwardAsAttachmentItem.accesskey "A">
-<!ENTITY contextMultiForwardAsAttachment.label "Retrimite ca anexă">
-<!ENTITY contextMultiForwardAsAttachment.accesskey "R">
+<!ENTITY contextMultiForwardAsAttachment.label "Redirecționați ca atașamente">
+<!ENTITY contextMultiForwardAsAttachment.accesskey "o">
 <!ENTITY contextMoveMsgMenu.label "Mută în">
 <!ENTITY contextMoveMsgMenu.accesskey "M">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Recente">
