@@ -13,3 +13,4 @@
 <!ENTITY showAllUnreadMessagesCount.accesskey  "o">
 <!ENTITY dockIconBadge.label                   "Programmasymboolbadge">
 <!ENTITY dockIconShow.label                    "Programmasymbool markeren met:">
+<!ENTITY directNotificationSettings.label      "U kunt de badge uitschakelen via het paneel Berichtgeving in Systeemvoorkeuren.">
