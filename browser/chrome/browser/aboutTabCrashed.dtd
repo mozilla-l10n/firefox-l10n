@@ -2,8 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY tabCrashed.header "आधी वाईट बातमी: ही टॅब क्रॅश झाली आहे">
 
 
 
-
-
+<!ENTITY tabCrashed.closeTab "ही टॅब बंद करा">
+<!ENTITY tabCrashed.restoreTab "ही टॅब पूर्वस्थितीत आणा">
+<!ENTITY tabCrashed.restoreAll "सगळे क्रॅश झालेल्या टॅब्स पुन्हा उघडा">
