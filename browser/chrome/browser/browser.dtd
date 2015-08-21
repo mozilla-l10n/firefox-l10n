@@ -649,7 +649,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Stil principal">
 <!ENTITY pageStylePersistentOnly.accesskey "p">
 
-<!ENTITY pageReportIcon.tooltip            "Modifică parametrii de blocare a popupurilor pentru acest sait">
+<!ENTITY pageReportIcon.tooltip            "Modifică parametrii de blocare a popupurilor pentru acest site web">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -789,11 +789,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-
+<!ENTITY trackingProtection.unblock.label "Dezactivează protecția pentru acest site">
+<!ENTITY trackingProtection.unblock.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-
+<!ENTITY trackingProtection.unblockPrivate.label "Dezactivează protecția pentru această sesiune">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "D">
 
 
 
@@ -801,8 +803,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.moreinfo "Părți ale paginii care vă urmăresc activitatea online au fost blocate.">
 <!ENTITY trackingContentBlocked.learnMore "Aflați mai multe">
 
-
-
+<!ENTITY trackingContentBlocked.unblock2.label "Dezactivează protecția pentru acest site">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "Activează protecția">
 <!ENTITY trackingContentBlocked.block.accesskey "e">
 <!ENTITY trackingContentBlocked.disabled.message "Protecția de urmărire este dezactivată">
