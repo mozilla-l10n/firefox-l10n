@@ -174,8 +174,8 @@
 <!ENTITY task.from.accesskey                              "د">
 <!ENTITY event.to.label                                   "النهاية:" >
 <!ENTITY event.to.accesskey                               "ه">
-<!ENTITY task.to.label                                    "تاريخ الاستحقاق:" >
-<!ENTITY task.to.accesskey                                "u">
+<!ENTITY task.to.label                                    "تاريخ الإنجاز:" >
+<!ENTITY task.to.accesskey                                "ج">
 <!ENTITY task.status.label                                "الحالة:" >
 <!ENTITY task.status.accesskey                            "ح">
 <!ENTITY event.repeat.label                               "كرر:" >
@@ -218,6 +218,7 @@
 
 <!ENTITY event.reminder.multiple.label                    "تذكيرات متعددة…" >
 
+<!ENTITY event.statusbarpanel.freebusy.label              "الوقت ك‍:">
 <!ENTITY event.statusbarpanel.privacy.label               "الخصوصية:">
 <!-- Recurrence dialog -->
 
@@ -264,7 +265,7 @@
 <!ENTITY event.recurrence.pattern.monthly.week.6.label  "جمعة" >
 <!ENTITY event.recurrence.pattern.monthly.week.7.label  "سبت" >
 <!ENTITY event.recurrence.repeat.dayofmonth.label       "يوم من الشهر">
-
+<!ENTITY event.recurrence.repeat.recur.label            "كرّر في يوم/أيام">
 
 <!ENTITY event.recurrence.every.label                        "كلّ" >
 <!ENTITY repeat.units.years.both                             "من السنين" >
@@ -358,7 +359,7 @@
 <!ENTITY read.only.event.start.label     "تاريخ البدء:">
 <!ENTITY read.only.task.start.label      "تاريخ البدء:">
 <!ENTITY read.only.event.end.label       "تاريخ الانتهاء:">
-
+<!ENTITY read.only.task.due.label        "تاريخ الإنجاز:">
 
 <!ENTITY read.only.location.label        "المكان:">
 <!ENTITY read.only.category.label        "الفئة:">

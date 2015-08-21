@@ -41,8 +41,8 @@
 <!ENTITY calendar.unifinder.tree.startdate.tooltip2        "رتّب بتاريخ البدء">
 <!ENTITY calendar.unifinder.tree.enddate.label             "الانتهاء">
 <!ENTITY calendar.unifinder.tree.enddate.tooltip2          "رتّب بتاريخ الانتهاء">
-
-
+<!ENTITY calendar.unifinder.tree.duedate.label             "الإنجاز">
+<!ENTITY calendar.unifinder.tree.duedate.tooltip2          "رتّب بتاريخ الإنجاز">
 <!ENTITY calendar.unifinder.tree.completeddate.label       "الاكتمال">
 <!ENTITY calendar.unifinder.tree.completeddate.tooltip2    "رتّب بتاريخ الاكتمال">
 <!ENTITY calendar.unifinder.tree.categories.label          "الفئة">
@@ -133,43 +133,46 @@
 <!ENTITY calendar.task.filter.current.accesskey     "ح">
 
 <!ENTITY calendar.task-details.title.label           "العنوان">
+<!ENTITY calendar.task-details.organizer.label       "من">
+<!ENTITY calendar.task-details.priority.label        "الأولوية">
+<!ENTITY calendar.task-details.priority.low.label    "منخفضة">
+<!ENTITY calendar.task-details.priority.normal.label "عادية">
+<!ENTITY calendar.task-details.priority.high.label   "مرتفعة">
+<!ENTITY calendar.task-details.status.label          "الحالة">
+<!ENTITY calendar.task-details.category.label        "الفئة">
+<!ENTITY calendar.task-details.repeat.label          "التكرارية">
+<!ENTITY calendar.task-details.attachments.label     "المرفقات">
+<!ENTITY calendar.task-details.start.label           "تاريخ البدء">
+<!ENTITY calendar.task-details.due.label             "تاريخ الإنجاز">
 
+<!ENTITY calendar.task.complete.button.tooltip  "علّم المهام المحددة كمكتملة">
+<!ENTITY calendar.task.priority.button.tooltip  "غير الأولوية">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY calendar.task.text-filter.textbox.emptytext.base            "رشّح المهام… #1">
 
 
 <!-- Context Menu -->
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY calendar.context.modifyorviewitem.label      "افتح">
+<!ENTITY calendar.context.modifyorviewitem.accesskey  "ف">
+<!ENTITY calendar.context.modifyorviewtask.label      "افتح مهمة…">
+<!ENTITY calendar.context.modifyorviewtask.accesskey  "ف">
+<!ENTITY calendar.context.newevent.label              "حدث جديد…">
+<!ENTITY calendar.context.newevent.accesskey          "ج">
+<!ENTITY calendar.context.newtodo.label               "مهمة جديدة…">
+<!ENTITY calendar.context.newtodo.accesskey           "ه">
+<!ENTITY calendar.context.deletetask.label            "احذف المهمة">
+<!ENTITY calendar.context.deletetask.accesskey        "ح">
+<!ENTITY calendar.context.deleteevent.label           "احذف الحدث">
+<!ENTITY calendar.context.deleteevent.accesskey       "ح">
 <!ENTITY calendar.context.cutevent.label              "قص">
 <!ENTITY calendar.context.cutevent.accesskey          "ص">
 <!ENTITY calendar.context.copyevent.label             "انسخ">
 <!ENTITY calendar.context.copyevent.accesskey         "س">
 <!ENTITY calendar.context.pasteevent.label            "ألصق">
 <!ENTITY calendar.context.pasteevent.accesskey        "ص">
-
-
+<!ENTITY calendar.context.button.label                "لوحة اليوم" >
+<!ENTITY calendar.context.button.accesskey            "ي" >
 
 
 
