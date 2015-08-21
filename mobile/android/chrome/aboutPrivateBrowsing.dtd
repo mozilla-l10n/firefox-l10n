@@ -7,7 +7,7 @@
 <!-- Localisation note: the plus sign here is a shorthand way of expressing the word "and". Contextually the privatebrowsingpage.title.private string
                         is used as a title, with the privatebrowsingpage.title string preceding it but on a separate line.
                         So the final line will say "Private Browsing + Tracking Protection". -->
-<!ENTITY privatebrowsingpage.title.private "+ Tracking Protection">
+<!ENTITY privatebrowsingpage.title.private "+ 追蹤保護">
 <!ENTITY privatebrowsingpage.title.normal1 "You are not in Private Browsing">
 
 <!ENTITY privatebrowsingpage.description.private3 "Firefox will prevent you from being tracked and won't remember any history, but downloaded files and new bookmarks will still be saved to your device.">
