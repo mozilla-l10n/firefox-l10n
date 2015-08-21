@@ -71,6 +71,7 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Ви не увійшли.">
 <!ENTITY signIn.label                "Увійти">
+<!ENTITY profilePicture.tooltip      "Змінити зображення профілю">
 <!ENTITY manage.label                "Керувати">
 <!ENTITY disconnect.label            "Від’єднатись…">
 <!ENTITY verify.label                "Підтвердити ел. адресу">
@@ -82,6 +83,16 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY welcome.useOldSync.label "Використовуєте стару версію Синхронізації?">
 
+<!ENTITY signedOut.caption            "Візьміть свій інтернет з собою">
+<!ENTITY signedOut.description        "Синхронізуйте закладки, історію, вкладки, паролі, додатки, а також налаштування на всіх своїх пристроях.">
+<!ENTITY signedOut.accountBox.title   "Під’єднатися до облікового запису Firefox">
+<!ENTITY signedOut.accountBox.create  "Створити обліковий запис">
+<!ENTITY signedOut.accountBox.signin  "Вхід">
 
+<!ENTITY signedIn.engines.label       "Синхронізуйте всі свої пристрої">
 
+<!ENTITY mobilePromo.start            "Завантажити Firefox для ">
 <!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+<!ENTITY mobilePromo.androidLink      "Android™">
+<!ENTITY mobilePromo.end              " для синхронізації зі своїм мобільним пристроєм.">
+<!ENTITY androidAttribution           "Android є торговою маркою Google Inc.">
