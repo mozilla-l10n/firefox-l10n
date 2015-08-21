@@ -21,9 +21,9 @@
 <!ENTITY calendar.events.filter.future.label "كل الأحداث الآتية">
 <!ENTITY calendar.events.filter.current.label "اليوم المحدد حاليا">
 <!ENTITY calendar.events.filter.currentview.label "الأحداث في المنظور الحالي">
-<!ENTITY calendar.events.filter.next7Days.label "الأحداث في السبعة أيام القادمة">
-
-
+<!ENTITY calendar.events.filter.next7Days.label "الأحداث في السبع أيّام القادمة">
+<!ENTITY calendar.events.filter.next14Days.label "الأحداث في الأربعة عشر يوما القادمة">
+<!ENTITY calendar.events.filter.next31Days.label "الأحداث في الإحدى والثلاثين يوما القادمة">
 
 <!-- LOCALIZATION NOTE(calendar.unifinder.tree.done.tooltip)
    - This label and tooltip is used for the column with the checkbox in the
@@ -113,7 +113,7 @@
 <!ENTITY calendar.task.filter.all.accesskey         "ك">
 <!ENTITY calendar.task.filter.today.label           "اليوم">
 <!ENTITY calendar.task.filter.today.accesskey       "ي">
-<!ENTITY calendar.task.filter.next7days.label       "الأيّام السبعة القادمة">
+<!ENTITY calendar.task.filter.next7days.label       "السبع أيّام القادمة">
 <!ENTITY calendar.task.filter.next7days.accesskey   "س">
 <!ENTITY calendar.task.filter.notstarted.label      "المهام التي لم تبدأ">
 <!ENTITY calendar.task.filter.notstarted.accesskey  "ت">
