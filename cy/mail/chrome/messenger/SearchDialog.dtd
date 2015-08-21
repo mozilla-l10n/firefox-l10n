@@ -75,6 +75,6 @@
 <!ENTITY totalColumn2.tooltip "Cyfanswm y nifer o negeseuon yn yr edefyn">
 <!ENTITY readColumn2.tooltip "Trefnu yn ôl darllenwyd">
 <!ENTITY receivedColumn2.tooltip "Trefnu yn ôl dyddiad derbyniwyd">
-<!ENTITY starredColumn2.tooltip "Trefnu yn ôl seren">
+<!ENTITY starredColumn2.tooltip "Trefnu yn ôl sêr">
 <!ENTITY locationColumn2.tooltip "Trefnu yn ôl lleoliad">
 <!ENTITY idColumn2.tooltip "Trefnu yn ôl trefn derbyniwyd">
