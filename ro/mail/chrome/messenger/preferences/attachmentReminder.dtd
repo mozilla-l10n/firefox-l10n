@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY attachmentReminderDialog.title   "Cuvinte cheie pentru verificarea lipsei anexelor">
-<!ENTITY attachKeywordText.label          "&brandShortName; vă va avertiza dacă ați uitat să anexați fișierele pe baza cuvintelor cheie de aici care sunt găsite în mesaj.">
+<!ENTITY attachmentReminderDialog.title   "Cuvinte cheie pentru verificarea lipsei atașamentelor">
+<!ENTITY attachKeywordText.label          "&brandShortName; vă va avertiza dacă ați uitat să atașați fișierele pe baza cuvintelor cheie de aici care sunt găsite în mesaj.">
 <!ENTITY addKeywordButton.label           "Adaugă">
 <!ENTITY addKeywordButton.accesskey       "A">
 <!ENTITY editKeywordButton.label          "Editează">

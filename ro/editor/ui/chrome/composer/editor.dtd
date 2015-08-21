@@ -12,7 +12,7 @@
 
 <!ENTITY compositionToolbar.tooltip "Bară de redactare">
 <!ENTITY previewToolbarCmd.label "Răsfoiește">
-<!ENTITY previewToolbarCmd.tooltip "Încarcă această pagină în navigator">
+<!ENTITY previewToolbarCmd.tooltip "Încarcă această pagină în browser">
 <!-- File menu items -->
 
 <!ENTITY exportToTextCmd.label "Exportă ca text…">
@@ -64,4 +64,4 @@
 <!ENTITY PreviewModeTab.label "Previzualizează">
 <!ENTITY PreviewMode.label "Previzualizează">
 <!ENTITY PreviewMode.accesskey "P">
-<!ENTITY PreviewMode.tooltip "Afișează vizual (WYSIWYG, ca în Navigator)">
+<!ENTITY PreviewMode.tooltip "Afișează vizual (WYSIWYG, ca în browser)">

@@ -95,13 +95,13 @@
      include messages with attachments.
      -->
 
-<!ENTITY quickFilterBar.attachment.label "Anexă">
+<!ENTITY quickFilterBar.attachment.label "Atașament">
 <!-- LOCALIZATION NOTE (quickFilterBar.attachment.tooltip):
      The tooltip for the filter button that causes us to filter results to only
      include messages with attachments.
      -->
 
-<!ENTITY quickFilterBar.attachment.tooltip "Arată doar mesajele cu anexe">
+<!ENTITY quickFilterBar.attachment.tooltip "Arată doar mesajele cu atașamente">
 <!-- LOCALIZATION NOTE (quickFilterBar.resultsLabel.some.formatString):
      This is used to populate the results box; it either displays the
      number of messages found using this string, that there are no messages
