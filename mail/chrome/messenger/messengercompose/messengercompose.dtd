@@ -139,7 +139,7 @@
 <!ENTITY quoteCmd.accesskey "C">
 <!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
 
-<!ENTITY attachVCard.label "Anexează vCard personal">
+<!ENTITY attachVCard.label "Atașează card personal (vCard)">
 <!ENTITY attachVCard.accesskey "v">
 
 <!ENTITY returnReceiptMenu.label "Confirmare de primire">
@@ -203,7 +203,7 @@
 <!ENTITY sendButton.label "Trimite">
 <!ENTITY quoteButton.label "Citează">
 <!ENTITY addressButton.label "Adrese">
-<!ENTITY attachButton.label "Anexează">
+<!ENTITY attachButton.label "Atașează">
 <!ENTITY spellingButton.label "Ortografie">
 <!ENTITY saveButton.label "Salvează">
 <!ENTITY printButton.label "Tipărește">
@@ -213,7 +213,7 @@
 <!ENTITY sendlaterButton.tooltip "Trimite acest mesaj mai târziu">
 <!ENTITY quoteButton.tooltip "Citează din mesajul anterior">
 <!ENTITY addressButton.tooltip "Selectați destinatarul din agenda de contacte">
-<!ENTITY attachButton.tooltip "Anexează un fișier la acest mesaj">
+<!ENTITY attachButton.tooltip "Include un atașament">
 <!ENTITY spellingButton.tooltip "Verifică ortografia pentru zona selectată sau pentru întregul mesaj">
 <!ENTITY saveButton.tooltip "Salvează acest mesaj">
 <!ENTITY cutButton.tooltip              "Taie">
@@ -279,13 +279,13 @@
 <!ENTITY openAttachment.accesskey "D">
 <!ENTITY delete.label "Șterge">
 <!ENTITY delete.accesskey "t">
-<!ENTITY removeAttachment.label "Elimină anexa">
+<!ENTITY removeAttachment.label "Elimină atașamentul">
 <!ENTITY removeAttachment.accesskey "m">
 <!ENTITY renameAttachment.label "Redenumește…">
 <!ENTITY renameAttachment.accesskey "R">
 <!ENTITY selectAll.label "Selectează tot">
 <!ENTITY selectAll.accesskey "a">
-<!ENTITY attachFile.label "Anexează fișier(e)…">
+<!ENTITY attachFile.label "Atașează fișier(e)…">
 <!ENTITY attachFile.accesskey "f">
 <!ENTITY attachCloud.label "Filelink…">
 <!ENTITY attachCloud.accesskey "k">
@@ -295,7 +295,7 @@
 <!ENTITY cancelUpload.accesskey "A">
 <!ENTITY convertRegularAttachment.label "Atașament normal">
 <!ENTITY convertRegularAttachment.accesskey "t">
-<!ENTITY attachPage.label "Anexează pagină web…">
+<!ENTITY attachPage.label "Atașează pagină web…">
 <!ENTITY attachPage.accesskey "w">
 <!-- Spell checker context menu items -->
 

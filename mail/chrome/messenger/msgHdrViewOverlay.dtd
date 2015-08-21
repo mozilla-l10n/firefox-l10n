@@ -77,7 +77,7 @@
 <!ENTITY openAttachmentCmd.accesskey    "D">
 <!ENTITY saveAsAttachmentCmd.label    "Salvează ca…">
 <!ENTITY saveAsAttachmentCmd.accesskey    "a">
-<!ENTITY detachAttachmentCmd.label    "Elimină anexa…">
+<!ENTITY detachAttachmentCmd.label    "Elimină atașamentul…">
 <!ENTITY detachAttachmentCmd.accesskey    "E">
 <!ENTITY deleteAttachmentCmd.label    "Șterge">
 <!ENTITY deleteAttachmentCmd.accesskey    "e">
@@ -85,18 +85,18 @@
 <!ENTITY openAllAttachmentsCmd.accesskey    "o">
 <!ENTITY saveAllAttachmentsCmd.label    "Salvează toate…">
 <!ENTITY saveAllAttachmentsCmd.accesskey    "S">
-<!ENTITY detachAllAttachmentsCmd.label    "Elimină toate anexele…">
+<!ENTITY detachAllAttachmentsCmd.label    "Elimină toate atașamentele…">
 <!ENTITY detachAllAttachmentsCmd.accesskey    "l">
-<!ENTITY deleteAllAttachmentsCmd.label    "Șterge toate anexele…">
+<!ENTITY deleteAllAttachmentsCmd.label    "Șterge toate atașamentele…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
 
-<!ENTITY openAttachment.tooltip "Deschide fișierul anexat">
+<!ENTITY openAttachment.tooltip "Deschide fișierul atașat">
 <!-- Attachment toolbar items -->
 
 <!ENTITY saveAttachmentButton1.label       "Salvează">
-<!ENTITY saveAttachmentButton1.tooltip     "Salvează fișierul anexat">
+<!ENTITY saveAttachmentButton1.tooltip     "Salvează fișierul atașat">
 <!ENTITY saveAllAttachmentsButton1.label   "Salvează tot">
-<!ENTITY saveAllAttachmentsButton1.tooltip "Salvează toate fișierele anexate">
+<!ENTITY saveAllAttachmentsButton1.tooltip "Salvează toate fișierele atașate">
 
 <!ENTITY copyLinkCmd.label        "Copiază adresa legăturii">
 <!ENTITY copyLinkCmd.accesskey    "C">

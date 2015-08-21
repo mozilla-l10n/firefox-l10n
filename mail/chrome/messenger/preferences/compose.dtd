@@ -11,7 +11,7 @@
 <!ENTITY forwardMsg.label                     "Înaintează mesajele:">
 <!ENTITY forwardMsg.accesskey                 "n">
 <!ENTITY inline.label                         "Mesaj inclus">
-<!ENTITY asAttachment.label                   "Ca anexă">
+<!ENTITY asAttachment.label                   "Ca atașament">
 <!ENTITY addExtension.label                   "adaugă extensia la numele fișierului">
 <!ENTITY addExtension.accesskey               "f">
 
@@ -57,7 +57,7 @@
 <!ENTITY sendOptions.label                     "Opțiuni de trimitere…">
 <!ENTITY sendOptions.accesskey                 "O">
 
-<!ENTITY attachmentReminder.label              "Verifică dacă lipsesc anexele">
-<!ENTITY attachmentReminder.accesskey          "V">
+<!ENTITY attachmentReminder.label              "Verifică dacă lipsesc atașamentele">
+<!ENTITY attachmentReminder.accesskey          "m">
 <!ENTITY attachmentReminderOptions.label       "Cuvinte cheie…">
 <!ENTITY attachmentReminderOptions.accesskey   "C">
