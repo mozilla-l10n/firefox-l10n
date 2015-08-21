@@ -179,40 +179,46 @@
 
 <!-- Task Context Menu -->
 
-
-
-
-
+<!ENTITY calendar.context.progress.label              "التقدم">
+<!ENTITY calendar.context.progress.accesskey          "ق">
+<!ENTITY calendar.context.priority.label              "الأولوية">
+<!ENTITY calendar.context.priority.accesskey          "و">
+<!ENTITY calendar.context.postpone.label              "أجّل المهمة">
+<!ENTITY calendar.context.postpone.accesskey          "ج">
 <!--=percent sign-->
 
+<!ENTITY calendar.context.markcompleted.label     "علّم كمكتملة">
+<!ENTITY calendar.context.markcompleted.accesskey "ك">
+
+<!ENTITY progress.level.0             "مكتمل بنسبة 0&percnt;">
+<!ENTITY progress.level.0.accesskey   "0">
+<!ENTITY progress.level.25            "مكتمل بنسبة 25&percnt;">
+<!ENTITY progress.level.25.accesskey  "2">
+<!ENTITY progress.level.50            "مكتمل بنسبة 50&percnt;">
+<!ENTITY progress.level.50.accesskey  "5">
+<!ENTITY progress.level.75            "مكتمل بنسبة 75&percnt;">
+<!ENTITY progress.level.75.accesskey  "7">
+<!ENTITY progress.level.100            "مكتمل بنسبة 100&percnt;">
+<!ENTITY progress.level.100.accesskey  "1">
+
+<!ENTITY priority.level.none                "غير محدّدة">
+
+<!ENTITY priority.level.low                 "منخفضة">
+
+<!ENTITY priority.level.normal              "عادية">
+
+<!ENTITY priority.level.high                "مرتفعة">
 
 
+<!ENTITY calendar.context.postpone.1hour.label      "ساعة واحدة">
+<!ENTITY calendar.context.postpone.1hour.accesskey  "س">
+<!ENTITY calendar.context.postpone.1day.label       "يوم واحد">
+<!ENTITY calendar.context.postpone.1day.accesskey   "ي">
+<!ENTITY calendar.context.postpone.1week.label      "أسبوع واحد">
+<!ENTITY calendar.context.postpone.1week.accesskey  "ب">
 
-
-
-
-
-
-
-
-
-
-<!ENTITY priority.level.none                "غير محدّد">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY calendar.copylink.label       "انسخ مكان الرابط">
+<!ENTITY calendar.copylink.accesskey   "ن">
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
      task action buttons -->
@@ -220,91 +226,114 @@
 <!ENTITY calendar.taskview.delete.label     "احذف">
 <!-- Server Context Menu -->
 
-
-
-
-
+<!ENTITY calendar.context.newserver.label              "تقويم جديد…">
+<!ENTITY calendar.context.newserver.accesskey          "ج">
+<!ENTITY calendar.context.findcalendar.label           "ابحث عن تقويم…" >
+<!ENTITY calendar.context.findcalendar.accesskey       "ب" >
+<!ENTITY calendar.context.deleteserver2.label          "احذف التقويم…">
+<!ENTITY calendar.context.deleteserver2.accesskey      "ح">
 <!-- LOCALIZATION NOTE (calendar.context.removeserver.label): Removing the
       calendar is the general action of removing it, while deleting means to
       clear the data and unsubscribing means just taking it out of the calendar
       list. -->
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY calendar.context.removeserver.label           "أزل التقويم…">
+<!ENTITY calendar.context.removeserver.accesskey       "ز">
+<!ENTITY calendar.context.unsubscribeserver.label      "ألغ الاشتراك مع التقويم…">
+<!ENTITY calendar.context.unsubscribeserver.accesskey  "ش">
+<!ENTITY calendar.context.synccalendars.label          "زامن التقويمات">
+<!ENTITY calendar.context.synccalendars.accesskey      "ز">
+<!ENTITY calendar.context.publish.label                "انشر التقويم…">
+<!ENTITY calendar.context.publish.accesskey            "ش">
+<!ENTITY calendar.context.export.label                 "صدّر التقويم…">
+<!ENTITY calendar.context.export.accesskey             "ص">
+<!ENTITY calendar.context.properties.label             "خصائص">
+<!ENTITY calendar.context.properties.accesskey         "خ">
 <!-- LOCALIZATION NOTE (calendar.context.showcalendar.accesskey)
      This is the access key used for the showCalendar string -->
 <!-- LOCALIZATION NOTE (calendar.context.hidecalendar.accesskey)
      This is the access key used for the hideCalendar string -->
 <!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
      This is the access key used for the showOnlyCalendar string -->
+<!ENTITY calendar.context.showall.label                "أظهر كل التقويمات">
+<!ENTITY calendar.context.showall.accesskey            "ك">
+
+<!ENTITY calendar.context.convertmenu.label              "حوّل إلى">
 
 
+<!ENTITY calendar.context.convertmenu.event.label        "حدث…">
+<!ENTITY calendar.context.convertmenu.event.accesskey    "ح">
+<!ENTITY calendar.context.convertmenu.message.label      "رسالة…">
+<!ENTITY calendar.context.convertmenu.message.accesskey  "س">
+<!ENTITY calendar.context.convertmenu.task.label         "مهمَّة…">
+<!ENTITY calendar.context.convertmenu.task.accesskey     "ه">
 
+<!ENTITY calendar.tasks.view.minimonth.label           "الشهر المصغّر">
+<!ENTITY calendar.tasks.view.minimonth.accesskey       "غ">
 
+<!ENTITY calendar.tasks.view.calendarlist.label        "قائمة التقويمات">
+<!ENTITY calendar.tasks.view.calendarlist.accesskey    "ق">
 
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY calendar.tasks.view.filtertasks.label           "رشّح المهام">
+<!ENTITY calendar.tasks.view.filtertasks.accesskey       "ش">
 <!-- Calendar Alarm Dialog -->
 
 
+<!ENTITY calendar.alarm.location.label              "المكان:" >
+<!ENTITY calendar.alarm.details.label               "التفاصيل…" >
 
+<!ENTITY calendar.alarm.snoozefor.label             "غفوة لمدة" >
 
+<!ENTITY calendar.alarm.title.label                 "تذكيرات التقويمات" >
+<!ENTITY calendar.alarm.dismiss.label               "ارفض" >
+<!ENTITY calendar.alarm.dismissall.label            "ارفض الكل" >
 
-
-
-
-
-
-
-
-
-
+<!ENTITY calendar.alarm.snooze.5minutes.label       "5 دقائق" >
+<!ENTITY calendar.alarm.snooze.10minutes.label      "10 دقائق" >
+<!ENTITY calendar.alarm.snooze.15minutes.label      "15 دقيقة" >
+<!ENTITY calendar.alarm.snooze.30minutes.label      "30 دقيقة" >
+<!ENTITY calendar.alarm.snooze.45minutes.label      "45 دقيقة" >
+<!ENTITY calendar.alarm.snooze.1hour.label          "ساعة واحدة" >
+<!ENTITY calendar.alarm.snooze.2hours.label         "ساعتين" >
+<!ENTITY calendar.alarm.snooze.1day.label           "يوم واحد" >
 <!-- LOCALIZATION NOTE (calendar.alarm.snooze.cancel)
      This string is not seen in the UI, it is read by screen readers when the
      user focuses the "Cancel" button in the "Snooze for..." popup of the alarm
      dialog. -->
+
+<!ENTITY calendar.alarm.snooze.cancel               "ألغ الغفوة">
 <!-- Calendar Server Dialog -->
 
+<!ENTITY calendar.server.dialog.title.edit          "تحرير التقويم">
+<!ENTITY calendar.server.dialog.name.label          "اسم التقويم:">
 <!-- Calendar Properties -->
 
+<!ENTITY calendarproperties.color.label                    "اللون:">
 
 
 
+<!ENTITY calendarproperties.format.label                   "النسق:">
+<!ENTITY calendarproperties.location.label                 "المكان:">
+<!ENTITY calendarproperties.refreshInterval.label          "أنعش التقويم:">
+<!ENTITY calendarproperties.refreshInterval.manual.label   "يدويا">
+<!ENTITY calendarproperties.name.label                     "الاسم:">
+<!ENTITY calendarproperties.readonly.label                 "للقراءة فقط">
+<!ENTITY calendarproperties.firealarms.label               "اعرض التذكيرات">
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY calendarproperties.enabled.label                  "فعّل هذا التقويم">
+<!ENTITY calendarproperties.forceDisabled.label            "تعذر العثور على مزود هذا التقويم. يحدث هذا غالبا إن عطلت إضافات معينة أو كانت غير مثبتة.">
+<!ENTITY calendarproperties.unsubscribe.label              "ألغ الاشتراك">
+<!ENTITY calendarproperties.unsubscribe.accesskey          "غ">
 <!-- Calendar Publish Dialog -->
 
-
-
+<!ENTITY calendar.publish.dialog.title              "نشر التقويم">
+<!ENTITY calendar.publish.url.label                 "عنوان النشر">
+<!ENTITY calendar.publish.publish.button      "انشر">
+<!ENTITY calendar.publish.close.button      "أغلق">
 
 <!-- Select Calendar Dialog -->
+
+<!ENTITY calendar.select.dialog.title    "اختر تقويمًا">
 <!-- Calendar Printing -->
 
 
