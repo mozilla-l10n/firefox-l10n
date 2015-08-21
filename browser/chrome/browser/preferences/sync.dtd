@@ -83,13 +83,13 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY welcome.useOldSync.label "還在使用舊版的 Sync？">
 
-<!ENTITY signedOut.caption            "Take your Web with you">
+<!ENTITY signedOut.caption            "把 Web 隨身帶著走">
 <!ENTITY signedOut.description        "Synchronize your bookmarks, history, tabs, passwords, add-ons, and preferences across all your devices.">
 <!ENTITY signedOut.accountBox.title   "Connect with a &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "建立帳號">
 <!ENTITY signedOut.accountBox.signin  "登入">
 
-<!ENTITY signedIn.engines.label       "Sync across all devices">
+<!ENTITY signedIn.engines.label       "在所有裝置間同步">
 
 <!ENTITY mobilePromo.start            "下載 Firefox for">
 <!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
