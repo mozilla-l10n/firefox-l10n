@@ -8,8 +8,8 @@
 <!ENTITY addressingGroupTitle.label "Adrese">
 <!ENTITY addressingText.label      "La căutarea adreselor:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
-<!ENTITY useGlobal.label           "Folosește pentru acest cont preferințele globale pentru servere LDAP">
-<!ENTITY useGlobal.accesskey       "u">
+<!ENTITY useGlobal.label           "Utilizează pentru acest cont preferințele globale pentru servere LDAP">
+<!ENTITY useGlobal.accesskey       "U">
 <!ENTITY editDirectories.label     "Editează repertoare…">
 <!ENTITY editDirectories.accesskey "E">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->

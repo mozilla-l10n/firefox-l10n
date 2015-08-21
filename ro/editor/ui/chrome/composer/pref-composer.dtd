@@ -23,7 +23,7 @@
 <!ENTITY  maintainStructure.label       "Menține aspectul tabelului când se introduc sau se șterg celule">
 <!ENTITY  maintainStructure.tooltip     "Păstrează forma dreptunghiulară a tabelului prin adăugarea de celule după inserări sau ștergeri">
 <!ENTITY  maintainStructure.accesskey   "M">
-<!ENTITY  useCSS.label                  "Folosește stiluri CSS în loc de elemente și atribute HTML">
-<!ENTITY  useCSS.accesskey              "F">
+<!ENTITY  useCSS.label                  "Utilizează stiluri CSS în loc de elemente și atribute HTML">
+<!ENTITY  useCSS.accesskey              "U">
 <!ENTITY  crInPCreatesNewP.label        "Tasta Enter într-un paragraf creează întotdeauna un nou paragraf">
 <!ENTITY  crInPCreatesNewP.accesskey    "r">

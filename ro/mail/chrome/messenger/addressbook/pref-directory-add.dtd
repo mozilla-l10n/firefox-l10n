@@ -11,8 +11,8 @@
 <!ENTITY directoryBaseDN.accesskey         "b">
 <!ENTITY findButton.label                  "Caută">
 <!ENTITY findButton.accesskey              "C">
-<!ENTITY directorySecure.label             "Folosește conexiune securizată (SSL)">
-<!ENTITY directorySecure.accesskey         "u">
+<!ENTITY directorySecure.label             "Utilizează conexiune securizată (SSL)">
+<!ENTITY directorySecure.accesskey         "U">
 <!ENTITY directoryLogin.label              "Bind DN: ">
 <!ENTITY directoryLogin.accesskey          "i">
 <!ENTITY General.tab                       "Generalități">

@@ -21,8 +21,8 @@
 <!ENTITY publishImgCheckbox.label     "Include imaginile și celelalte fișiere">
 <!ENTITY publishImgCheckbox.accesskey "I">
 <!ENTITY publishImgCheckbox.tooltip   "Publică imaginile și celelalte fișiere de care are nevoie această pagină">
-<!ENTITY sameLocationRadio.label      "Folosește aceeași locație ca și pentru pagină">
-<!ENTITY sameLocationRadio.accesskey  "F">
+<!ENTITY sameLocationRadio.label      "Utilizează aceeași locație ca și pentru pagină">
+<!ENTITY sameLocationRadio.accesskey  "U">
 <!ENTITY sameLocationRadio.tooltip    "Publică fișierele la aceeași locație ca și pagina">
 <!ENTITY useSubdirRadio.label         "Folosește acest subdirector de pe sait:">
 <!ENTITY useSubdirRadio.accesskey     "d">
@@ -54,8 +54,8 @@
 <!ENTITY browseUrl.label              "Adresa HTTP a paginii de start (ex.: „http://www.isp.ro/numelemeu”):">
 <!ENTITY browseUrl.accesskey          "A">
 <!ENTITY browseUrl.tooltip            "Adresa HTTP:// a directorului dumneavoastră personal (nu includeți nume de fișier)">
-<!ENTITY username.label               "Nume utilizator:">
-<!ENTITY username.accesskey           "N">
+<!ENTITY username.label               "Nume de utilizator:">
+<!ENTITY username.accesskey           "u">
 <!ENTITY username.tooltip             "Numele de utilizator cu care vă autentificați la ISP sau la serviciul de găzduire web">
 <!ENTITY password.label               "Parolă:">
 <!ENTITY password.accesskey           "P">

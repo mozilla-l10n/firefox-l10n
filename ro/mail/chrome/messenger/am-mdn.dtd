@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY pane.title                   "Confirmări de primire">
-<!ENTITY useGlobalPrefs.label         "Folosește pentru acest cont preferințele globale legate de confirmările de primire">
-<!ENTITY useGlobalPrefs.accesskey     "F">
+<!ENTITY useGlobalPrefs.label         "Utilizează pentru acest cont preferințele globale legate de confirmările de primire">
+<!ENTITY useGlobalPrefs.accesskey     "U">
 <!ENTITY globalReceipts.label         "Preferințe globale…">
 <!ENTITY globalReceipts.accesskey     "g">
 <!ENTITY useCustomPrefs.label         "Personalizează pentru acest cont">

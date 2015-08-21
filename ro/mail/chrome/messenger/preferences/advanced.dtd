@@ -19,8 +19,8 @@
 <!ENTITY maildirStore.label            "Fișiere per mesaj (maildir)">
 
 <!ENTITY scrolling.label               "Derulare">
-<!ENTITY useAutoScroll.label           "Folosește derularea automată">
-<!ENTITY useAutoScroll.accesskey       "F">
+<!ENTITY useAutoScroll.label           "Utilizează derularea automată">
+<!ENTITY useAutoScroll.accesskey       "U">
 <!ENTITY useSmoothScrolling.label      "Folosește derularea lină">
 <!ENTITY useSmoothScrolling.accesskey  "o">
 
@@ -88,9 +88,9 @@
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
 
-<!ENTITY useCacheBefore.label            "Folosește până la">
-<!ENTITY useCacheBefore.accesskey        "F">
-<!ENTITY useCacheAfter.label             "MO de spațiu pentru cache">
+<!ENTITY useCacheBefore.label            "Utilizează până la">
+<!ENTITY useCacheBefore.accesskey        "U">
+<!ENTITY useCacheAfter.label             "MB de spațiu pentru cache">
 <!ENTITY clearCacheNow.label             "Curăță acum">
 <!ENTITY clearCacheNow.accesskey         "C">
 <!-- Certificates -->

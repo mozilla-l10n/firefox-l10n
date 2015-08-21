@@ -17,8 +17,8 @@
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "g">
 
 <!ENTITY retention.label "Politica de păstrare">
-<!ENTITY retentionUseAccount.label  "Folosește setările contului meu">
-<!ENTITY retentionUseAccount.accesskey "u">
+<!ENTITY retentionUseAccount.label  "Utilizează setările contului meu">
+<!ENTITY retentionUseAccount.accesskey "U">
 <!ENTITY daysOld.label "zile">
 <!ENTITY message.label "mesaje">
 <!ENTITY retentionCleanup.label "Pentru a câștiga spațiu pe disc, mesajele vechi pot fi șterse definitiv.">
