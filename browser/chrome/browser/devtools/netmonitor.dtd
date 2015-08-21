@@ -60,7 +60,6 @@
 <!ENTITY netmonitorUI.timings.send "Invio:">
 <!ENTITY netmonitorUI.timings.wait "In attesa:">
 <!ENTITY netmonitorUI.timings.receive "Ricezione:">
-<!ENTITY netmonitorUI.security.warning.sslv3 "Il protocollo SSL 3.0 è deprecato e insicuro.">
 <!ENTITY netmonitorUI.security.warning.cipher "L’algoritmo utilizzato per la cifratura è deprecato e insicuro.">
 <!ENTITY netmonitorUI.context.perfTools "Inizia analisi prestazioni…">
 <!ENTITY netmonitorUI.context.perfTools.accesskey "I">
