@@ -186,7 +186,7 @@
 <!ENTITY event.reminder.accesskey                         "M">
 <!ENTITY event.description.label                          "Descriere:" >
 <!ENTITY event.description.accesskey                      "D">
-<!ENTITY event.attachments.label                          "Anexe:" >
+<!ENTITY event.attachments.label                          "Atașamente:" >
 <!ENTITY event.attachments.accesskey                      "A" >
 <!ENTITY event.attachments.menubutton.label               "Anexează">
 <!ENTITY event.attachments.menubutton.accesskey           "x">
@@ -198,7 +198,7 @@
 <!ENTITY event.attachments.popup.open.accesskey           "D" >
 <!ENTITY event.attachments.popup.removeAll.label          "Înlătură-le pe toate" >
 <!ENTITY event.attachments.popup.removeAll.accesskey      "a" >
-<!ENTITY event.attachments.popup.attachPage.label         "Anexează o pagină web…" >
+<!ENTITY event.attachments.popup.attachPage.label         "Atașează o pagină web…" >
 <!ENTITY event.attachments.popup.attachPage.accesskey     "w" >
 <!ENTITY event.url.label                                  "Legătura către asocieri:" >
 <!ENTITY event.priority2.label                            "Prioritate:">
