@@ -10,6 +10,8 @@
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
      Width of the Private Browsing section.
      -->
+
+<!ENTITY aboutPrivateBrowsing.width            "25em">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
      aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
      These strings will be replaced by aboutPrivateBrowsing.forgotten and
@@ -21,11 +23,11 @@
 
 
 <!ENTITY aboutPrivateBrowsing.info.history     "इतिहास">
-
+<!ENTITY aboutPrivateBrowsing.info.searches    "खोजें">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "कूकीज">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "अस्थायी  फ़ाइल">
 
-
-
+<!ENTITY aboutPrivateBrowsing.info.kept        "रखा गया">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "डाउनलोड">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Bookmarks">
 
@@ -35,12 +37,14 @@
      accommodate the title as well as the enabled or disabled indicator.
      -->
 
+<!ENTITY trackingProtection.width              "22em">
+<!ENTITY trackingProtection.title              "ट्रैकिंग सुरक्षा">
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
+<!ENTITY trackingProtection.state.enabled      "चालू">
+<!ENTITY trackingProtection.state.disabled     "बंद">
 
 
 
-
-
-
+<!ENTITY trackingProtection.startTour1         "देखें यह कैसे काम करता है">

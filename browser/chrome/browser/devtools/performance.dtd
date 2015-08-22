@@ -53,6 +53,8 @@
 <!ENTITY performanceUI.clearButton "साफ करें">
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
+
+<!ENTITY performanceUI.toolbar.waterfall "वाटरफॉल">
 <!ENTITY performanceUI.toolbar.js-calltree "कॉल शाखा">
 <!ENTITY performanceUI.toolbar.memory-calltree "आबंटन">
 <!ENTITY performanceUI.toolbar.js-flamegraph "जेएस फ्लैम चार्ट">

@@ -396,9 +396,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.switchToTab.label     "टैब में जाएँ:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "क्या आप सुझावों के साथ अपना खोज अनुभव को बढ़ावा देना चाहते हैं?">
-
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "ओर जानें…">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "नहीं">
-
+<!ENTITY urlbar.searchSuggestionsNotification.enable "हाँ">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -427,6 +427,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      These are set as the aria-label attribute for the search input box and
      submit button in the in-content search UI, to be used by screen readers. -->
 
+<!ENTITY contentSearchInput.label     "क्वैरी खोजें">
+<!ENTITY contentSearchSubmit.label    "खोज जमा करें">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -689,10 +691,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connectionInternal "यह एक सुरक्षित &brandShortName; पेज हैं.">
 <!-- Strings for connection state warnings. -->
-
+<!ENTITY identity.passiveLoaded "इस पेज का भाग सुरक्षित नहीं हैं(जैसा की छवि).">
 <!ENTITY identity.activeLoaded "आपने इस पेज पर सुरक्षा निष्क्रिय कर दिए हैं.">
-
+<!ENTITY identity.weakEncryption "यह पेज कमजोर गोपन का उपयोग करता हैं.">
 <!-- Strings for connection state warnings in the subview. -->
+
+<!ENTITY identity.description.insecure "इस साइट पे आपका कनेक्शन निजी नहीं हैं. सुचना जो आप जमा करते हैं दुसरो के द्वारा देखा जा सकता(जैसे पासवर्ड,संदेश, क्रेडिट कार्ड, इत्यादि.).">
 
 
 
@@ -706,7 +710,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.enableMixedContentBlocking.accesskey "स">
 <!ENTITY identity.disableMixedContentBlocking.label "अब सुरक्षा निष्क्रिय करें">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
-
+<!ENTITY identity.learnMore "अधिक सीखे">
 
 <!ENTITY identity.moreInfoLinkText2 "अधिक जानकारी">
 
@@ -786,6 +790,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "टैब से ऑडियो साझा किया जायेगा.">
 <!ENTITY getUserMedia.allWindowsShared.message "आपके स्क्रीन पर सभी दृश्य विंडो साझा किए जाएँगे.">
 
+<!ENTITY trackingProtection.title "ट्रैकिंग सुरक्षा">
 
 
 <!ENTITY trackingProtection.notDetected3 "कोई भी ट्रैकिंग तत्व इस पेज पर जांचा नहीं गया.">
@@ -805,9 +810,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.message "ट्रैकिंग">
 <!ENTITY trackingContentBlocked.moreinfo "पृष्ठ का हिस्सा जो आपकी ऑनलाइन गतिविधि को ट्रैक करता है को ब्लॉक किया गया है.">
 <!ENTITY trackingContentBlocked.learnMore "और जानें">
-
-
-
+<!ENTITY trackingContentBlocked.options "विकल्प">
+<!ENTITY trackingContentBlocked.unblock2.label "इस साइट के लिए सुरक्षा निष्क्रिय करें">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "न">
 <!ENTITY trackingContentBlocked.block.label "सुरक्षा सक्रिय करें">
 <!ENTITY trackingContentBlocked.block.accesskey "स">
 <!ENTITY trackingContentBlocked.disabled.message "सुरक्षा ट्रैकिंग सक्रिय किया हुआ है">

@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAccounts.welcome "&syncBrand.shortName.label; मे स्वागत है">
-
+<!ENTITY aboutAccounts.connected "खाता कनेक्ट किया">
 
 <!ENTITY aboutAccountsConfig.description "अपने टैब, बुकमार्क, कूटशब्द और अन्य सिंक करने के लिए साइन इन करें.">
 <!ENTITY aboutAccountsConfig.startButton.label "प्रारंभ करें">
