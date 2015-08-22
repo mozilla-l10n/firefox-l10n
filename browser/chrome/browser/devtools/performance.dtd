@@ -11,17 +11,16 @@
 <!ENTITY performanceUI.loadingNotice "Загрузка…">
 <!ENTITY performanceUI.recordButton.tooltip "Переключает режим записи для записи профайлера.">
 <!ENTITY performanceUI.importButton "Импорт…">
-<!ENTITY performanceUI.exportButton "Сохранить">
 <!ENTITY performanceUI.clearButton "Очистить">
 <!ENTITY performanceUI.toolbar.waterfall "Водопад">
-<!ENTITY performanceUI.toolbar.js-calltree "Дерево вызовов">
-<!ENTITY performanceUI.toolbar.memory-calltree "Аллокации">
-<!ENTITY performanceUI.toolbar.js-flamegraph "JS Flame Chart">
-<!ENTITY performanceUI.toolbar.memory-flamegraph "Allocations Flame Chart">
 <!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Shows the different operations the browser is performing during the recording, laid out sequentially as a waterfall.">
+<!ENTITY performanceUI.toolbar.js-calltree "Дерево вызовов">
 <!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Highlights JavaScript functions where the browser spent most time during the recording.">
-<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Shows the JavaScript call stack over the course of the recording.">
+<!ENTITY performanceUI.toolbar.memory-calltree "Аллокации">
 <!ENTITY performanceUI.toolbar.allocations.tooltiptext "Shows where memory was allocated during the recording.">
+<!ENTITY performanceUI.toolbar.js-flamegraph "JS Flame Chart">
+<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Shows the JavaScript call stack over the course of the recording.">
+<!ENTITY performanceUI.toolbar.memory-flamegraph "Allocations Flame Chart">
 <!ENTITY performanceUI.table.totalDuration "Общее время">
 <!ENTITY performanceUI.table.totalDuration.tooltip "Количество времени, проведенного в этой функции, и функциях, которые она вызывает.">
 <!ENTITY performanceUI.table.selfDuration "Своё время">
