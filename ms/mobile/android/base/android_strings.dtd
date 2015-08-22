@@ -86,7 +86,7 @@
 <!ENTITY pref_category_advanced "Lanjutan">
 <!ENTITY pref_category_customize "Suaikan">
 <!ENTITY pref_category_customize_summary "Utama, carian, tab, import">
-<!ENTITY pref_category_customize_alt_summary "Laman Utama,carian, tab, buka kemudian, import">
+<!ENTITY pref_category_customize_alt_summary "Utama,carian, tab, buka kemudian, import">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -478,7 +478,7 @@ size. -->
 <!ENTITY home_most_recent_empty "Laman web yang kerap anda lawati baru-baru ini akan dipaparkan di sini.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
-<!ENTITY home_most_recent_emptyhint2 "Psst:Menggunakan &formatS1; Tab swasta baru&formatS2; tidak akan menyimpan sejarah anda.">
+<!ENTITY home_most_recent_emptyhint2 "Psst: Menggunakan &formatS1; Tab swasta baru&formatS2; tidak akan menyimpan sejarah anda.">
 <!ENTITY home_reading_list_empty "Artikel yang anda simpan untuk paparan kemudian dipaparkan di sini.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -500,17 +500,21 @@ size. -->
 <!ENTITY home_remote_tabs_title "Tab Diselaras">
 
 <!ENTITY home_remote_tabs_unable_to_connect "Tidak dapat menyambung ">
+<!ENTITY home_remote_tabs_need_to_sign_in "Sila log masuk untuk menyambungkan semula akaun Firefox anda dan meneruskan proses penyegerakan.">
+<!ENTITY home_remote_tabs_need_to_finish_migrating "Akaun Firefox baru anda sudah bersedia!">
 
+<!ENTITY home_remote_tabs_trouble_verifying "Hadapi masalah dalam mengesahkan akaun anda?">
+<!ENTITY home_remote_tabs_need_to_verify "Sila mengesahkan akaun Firefox anda untuk memulakan proses penyegerakan.">
 
-
-
-
+<!ENTITY home_remote_tabs_one_hidden_device "1 peranti tersembunyi">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; peranti tersembunyi">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "Peranti tersembunyi">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Nyah sorok peranti dipilih">
@@ -606,11 +610,11 @@ dari Android">
 <!ENTITY new_guest_session "Sesi Tetamu Baru">
 <!ENTITY exit_guest_session "Keluar Sesi Tetamu">
 <!ENTITY guest_session_dialog_continue "Sambung">
-
+<!ENTITY guest_session_dialog_cancel "Batal">
 <!ENTITY new_guest_session_title "&brandShortName; akan mula semula sekarang">
 
-
-
+<!ENTITY guest_browsing_notification_title "Pelayaran tetamu adalah dibenarkan">
+<!ENTITY guest_browsing_notification_text "Tap untuk keluar">
 
 <!ENTITY exit_guest_session_text "Data pelayaran dari sesi ini anda dihapuskan.">
 <!-- Miscellaneous -->
@@ -618,6 +622,9 @@ dari Android">
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
 
+<!ENTITY ellipsis "...">
+
+<!ENTITY colon ":">
 <!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
      display a percentage value. formatS is the number, #37 is the code to display a percent sign.
      This format string is typically used by getString method, in such method the percent sign
@@ -628,6 +635,8 @@ dari Android">
      They are never shown to users -->
 <!ENTITY actionbar_done "Selesai">
 <!-- Voice search in the awesome bar -->
+
+<!ENTITY voicesearch_prompt "Bersuara sekarang">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
