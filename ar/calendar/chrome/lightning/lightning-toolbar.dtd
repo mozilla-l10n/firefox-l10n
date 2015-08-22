@@ -37,9 +37,9 @@
 <!ENTITY lightning.toolbar.day.accesskey             "ي">
 <!ENTITY lightning.toolbar.week.label                "الأسبوع">
 <!ENTITY lightning.toolbar.week.accesskey            "س">
-<!ENTITY lightning.toolbar.multiweek.label           "عدة أسابيع">
+<!ENTITY lightning.toolbar.multiweek.label           "الأسابيع المتعددة">
 <!ENTITY lightning.toolbar.multiweek.accesskey       "د">
-<!ENTITY lightning.toolbar.month.label               "شهر">
+<!ENTITY lightning.toolbar.month.label               "الشهر">
 <!ENTITY lightning.toolbar.month.accesskey           "ش">
 <!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton1.tooltip
      from messenger.dtd -->
