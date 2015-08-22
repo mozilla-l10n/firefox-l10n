@@ -71,24 +71,27 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "आप साइन इन नहीं हैं">
 <!ENTITY signIn.label                "साइन इन">
-
+<!ENTITY profilePicture.tooltip      "प्रोफ़ाइल तस्वीर बदलें">
 <!ENTITY manage.label                "प्रबंधित">
 <!ENTITY disconnect.label            "डिस्कनेक्ट करें">
 <!ENTITY verify.label                "ईमेल सत्यापित करें">
 <!ENTITY forget.label                "इस ईमेल को भूल जाइए">
 
 <!ENTITY welcome.description "अपने टैब, पुस्तचिह्न, कूटशब्द और कुछ और की पहुँच लें जहाँ भी आप &brandShortName; का उपयोग करना चाहते हैं.">
-
-
+<!ENTITY welcome.signIn.label "साइन इन">
+<!ENTITY welcome.createAccount.label "खाता बनाएँ">
 
 <!ENTITY welcome.useOldSync.label "सिंक के पुराने संस्करण का उपयोग कर रहे हैं?">
 
+<!ENTITY signedOut.caption            "अपना वेब अपने साथ रखें">
 
 
+<!ENTITY signedOut.accountBox.create  "खाता बनाएँ">
+<!ENTITY signedOut.accountBox.signin  "साइन इन">
 
+<!ENTITY signedIn.engines.label       "सभी डिवाइस को सिंक करें">
 
-
-
+<!ENTITY mobilePromo.start            "के लिए फ़ायरफ़ॉक्स डाउनलोड करें">
 <!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
-
+<!ENTITY mobilePromo.end              "अपने मोबाइल डिवाइस के साथ सिंक करने के लिए">
 
