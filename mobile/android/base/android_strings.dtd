@@ -75,7 +75,7 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "file &formatD;">
 <!ENTITY new_tab_opened "Filă nouă deschisă">
-<!ENTITY new_private_tab_opened "Filă nouă fără urme deschisă">
+<!ENTITY new_private_tab_opened "Filă privată nouă deschisă">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
@@ -348,9 +348,9 @@ size. -->
 <!ENTITY page "Pagină">
 <!ENTITY tools "Unelte">
 <!ENTITY new_tab "Filă nouă">
-<!ENTITY new_private_tab "Filă nouă fără urme">
+<!ENTITY new_private_tab "Filă privată nouă">
 <!ENTITY close_all_tabs "Închide toate filele">
-<!ENTITY close_private_tabs "Închide paginile fără urme">
+<!ENTITY close_private_tabs "Închide filele private">
 <!ENTITY tabs_normal "File">
 <!ENTITY tabs_private "Privat">
 <!ENTITY tabs_synced "Sincronizate">
@@ -373,7 +373,7 @@ size. -->
 <!ENTITY media_stop "Oprește">
 
 <!ENTITY contextmenu_open_new_tab "Deschide în filă nouă">
-<!ENTITY contextmenu_open_private_tab "Deschide în filă fără urme">
+<!ENTITY contextmenu_open_private_tab "Deschide în filă privată">
 <!ENTITY contextmenu_remove "Elimină">
 <!ENTITY contextmenu_add_to_launcher "Adaugă la ecran principal">
 <!ENTITY contextmenu_share "Împărtășește">
@@ -487,7 +487,7 @@ size. -->
 <!ENTITY home_most_recent_empty "Saiturile pe care le-ai vizitat cel mai recent apar aici.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
-<!ENTITY home_most_recent_emptyhint2 "Psst: folosind o &formatS1;filă nouă fără urme&formatS2; nu se va salva istoricul.">
+<!ENTITY home_most_recent_emptyhint2 "Psst: folosind o &formatS1;filă privată nouă&formatS2; nu se va salva istoricul.">
 <!ENTITY home_reading_list_empty "Articolele pe care le-ai salvat pentru mai târziu apar aici.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
