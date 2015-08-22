@@ -68,7 +68,7 @@ actualizării incrementale pe care a transferat-o, astfel că acum descarcă 
 <!ENTITY  error.label                     "Au existat probleme cu verificarea, descărcarea sau instalarea 
 acestei actualizări. &brandShortName; nu poate fi actualizat pentru că:">
                                            
-<!ENTITY  errorManual.label               "Puteți actualiza &brandShortName; manual vizitând această legătură 
+<!ENTITY  errorManual.label               "Puteți actualiza &brandShortName; manual vizitând acest link 
 și descărcând ultima versiune:">
                                            
 <!ENTITY  errorpatching.intro             "Actualizarea parțială nu a putut fi aplicată. 

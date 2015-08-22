@@ -80,7 +80,7 @@ că &brandShortName; are permisiunea de a accesa webul.</li>
 <!ENTITY proxyConnectFailure.title "Serverul proxy refuză conexiuni">
 <!ENTITY proxyConnectFailure.longDesc "<ul> 
 <li>Verificați setările proxy pentru a vă asigura că sunt corecte.</li> 
-<li>Luați legătura cu administratorul rețelei pentru a vă asigura că serverul proxy 
+<li>Contactați administratorul rețelei pentru a vă asigura că serverul proxy 
 funcționează.</li> 
 </ul>">
 
@@ -120,9 +120,9 @@ temporară și puteți încerca din nou mai târziu.</li>
 </ul>">
 
 <!ENTITY sharedLongDesc "<ul> 
-<li>Acest sait poate fi indisponibil temporar sau prea ocupat. Încercați din nou în câteva 
+<li>Acest site poate fi indisponibil temporar sau prea ocupat. Încercați din nou în câteva 
 momente.</li> 
-<li>Dacă nu puteți încărca nicio pagină, verificați legătura la rețea a calculatorului 
+<li>Dacă nu puteți încărca nicio pagină, verificați conexiunea la rețea a calculatorului 
 dumneavoastră.</li> 
 <li>Dacă sistemul sau rețeaua este protejat de un firewall sau proxy, asigurați-vă 
 că &brandShortName; are permisiunea de a accesa webul.</li> 
