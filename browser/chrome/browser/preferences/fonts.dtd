@@ -53,7 +53,7 @@
 <!ENTITY  font.langGroup.sinhala                  "Singhalesisch">
 <!ENTITY  font.langGroup.tibetan                  "Tibetisch">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Minimale Schriftgröße:">
+<!ENTITY minSize.label                            "Mindestschriftgröße:">
 <!ENTITY minSize.accesskey                        "M">
 <!ENTITY minSize.none                             "Keine">
 
