@@ -6,6 +6,7 @@
 <!ENTITY  no_space_to_start_error "Tiada ruang yang mencukupi untuk memulakan &brandShortName;.">
 <!ENTITY  error_loading_file "Satu kesilapan berlaku apabila cuba untuk memuatkan fail yang diperlukan untuk menjalankan &brandShortName;">
 
+<!ENTITY  onboard_start_message3 "Layari dengan &brandShortName;">
 
 <!ENTITY  onboard_start_button_account "Daftar masuk ke &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Mulakan Pelayaran">
