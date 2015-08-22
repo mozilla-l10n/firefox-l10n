@@ -53,7 +53,6 @@
 <!ENTITY netmonitorUI.timings.send "Отправка:">
 <!ENTITY netmonitorUI.timings.wait "Ожидание:">
 <!ENTITY netmonitorUI.timings.receive "Получение:">
-<!ENTITY netmonitorUI.security.warning.sslv3 "Протокол SSL 3.0 является устаревшим и небезопасным.">
 <!ENTITY netmonitorUI.security.warning.cipher "Шифр, использованный для шифрования, является устаревшим и небезопасным.">
 <!ENTITY netmonitorUI.security.error "Произошла ошибка:">
 <!ENTITY netmonitorUI.security.protocolVersion "Версия протокола:">

@@ -275,6 +275,8 @@
 <!ENTITY contextmenu_top_sites_pin "Закрепить сайт">
 <!ENTITY contextmenu_top_sites_unpin "Открепить сайт">
 <!ENTITY contextmenu_add_search_engine "Добавить поисковую систему">
+<!ENTITY contextmenu_mark_read "Отметить как прочитанное">
+<!ENTITY contextmenu_mark_unread "Отметить как непрочитанное">
 <!ENTITY doorhanger_login_no_username "[Нет имени пользователя]">
 <!ENTITY doorhanger_login_edit_title "Изменить логин">
 <!ENTITY doorhanger_login_edit_username_hint "Имя пользователя">
@@ -289,8 +291,8 @@
 <!ENTITY pref_titlebar_mode "Панель заголовка">
 <!ENTITY pref_titlebar_mode_title "Отображать заголовок страницы">
 <!ENTITY pref_titlebar_mode_url "Отображать адрес страницы">
-<!ENTITY pref_prevent_magnifying_glass "Отключить увеличительное стекло">
-<!ENTITY pref_prevent_magnifying_glass_summary "Не давать использовать увеличительное стекло для разрешения неоднозначных касаний экрана">
+<!ENTITY pref_magnifying_glass_enabled "Увеличивать небольшие области">
+<!ENTITY pref_magnifying_glass_enabled_summary "Увеличивать ссылки и поля форм при касании рядом с ними">
 <!ENTITY pref_scroll_title_bar2 "Полноэкранный веб-серфинг">
 <!ENTITY pref_scroll_title_bar_summary "Скрывать панель заголовка &brandShortName; при прокрутке страницы вниз">
 <!ENTITY pref_tab_queue_title2 "Открытие множества ссылок">
