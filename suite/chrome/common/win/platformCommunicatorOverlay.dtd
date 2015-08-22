@@ -39,3 +39,5 @@
 <!ENTITY altKey.label                   "Alt">
 <!ENTITY shiftKey.label                 "Shift">
 
+<!ENTITY menubarCmd.label               "Panel Ponuka">
+<!ENTITY menubarCmd.accesskey           "P">
