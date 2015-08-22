@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.notPrivate       "Nu sunteți într-o fereastră fără urme.">
+<!ENTITY aboutPrivateBrowsing.notPrivate       "În prezent nu sunteți într-o fereastră privată.">
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Deschide o fereastră fără urme">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "m">
 
-<!ENTITY privateBrowsing.title                 "Navigare fără urme">
+<!ENTITY privateBrowsing.title                 "Navigare privată">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
      Width of the Private Browsing section.
      -->
@@ -16,7 +16,7 @@
      aboutPrivateBrowsing.kept when the new visual design lands (bug 1192625).
      -->
 
-<!ENTITY aboutPrivateBrowsing.title            "Navigați în mod fără urme">
+<!ENTITY aboutPrivateBrowsing.title            "Navigați în mod privat">
 
 
 

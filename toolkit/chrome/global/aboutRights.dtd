@@ -64,7 +64,7 @@
 <!ENTITY rights.safebrowsing-term1 "Deschideți preferințele aplicației">
 <!ENTITY rights.safebrowsing-term2 "Selectați tabul Securitate">
 <!ENTITY rights.safebrowsing-term3 "Debifați opțiunile „&blockAttackSites.label;” și „&blockWebForgeries.label;”">
-<!ENTITY rights.safebrowsing-term4 "Navigarea fără urme este dezactivată">
+<!ENTITY rights.safebrowsing-term4 "Navigarea privată este acum dezactivată">
 <!-- location aware browsing points for branded builds -->
 
 <!ENTITY rights.locationawarebrowsing-a "Navigare conștientă de locație: ">
