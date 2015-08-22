@@ -7,29 +7,36 @@
   -->
 
 
+<!ENTITY pref.mainbox.label "إعدادات عامة" >
+<!ENTITY pref.dateformat.label "صيغة التاريخ:" >
+<!ENTITY pref.dateformat.accesskey "ت">
+<!ENTITY pref.dateformat.long "الطويلة" >
+<!ENTITY pref.dateformat.short "القصيرة"  >
 
+<!ENTITY pref.timezones.caption "المنطقة الزمنية">
+<!ENTITY pref.timezones.label "اختر أقرب مدينة إلى منطتك الزمنية:">
+<!ENTITY pref.timezones.accesskey "خ">
 
-
-
-
-
-
+<!ENTITY pref.defaults.label "القيم الافتراضية للعناصر الجديدة">
+<!ENTITY pref.events.label "الأحداث">
 <!ENTITY pref.tasks.label "المهام">
 
+<!ENTITY pref.default_event_length.label "الطول الافتراضي:" >
+<!ENTITY pref.default_event_length.accesskey "ط">
 
-
-<!ENTITY pref.default_task_none.label "لا شيء">
-
-
-
-
+<!ENTITY pref.default_task_none.label "بلا">
+<!ENTITY pref.default_task_start_of_day.label "بداية اليوم">
+<!ENTITY pref.default_task_end_of_day.label "نهاية اليوم">
+<!ENTITY pref.default_task_tomorrow.label "الغد">
+<!ENTITY pref.default_task_next_week.label "الأسبوع القادم">
 
 
 
 
 <!ENTITY pref.calendar.todaypane.agenda.caption "لوحة اليوم">
+<!ENTITY pref.soondays.label "قسم &quot;القادمة&quot; يُظهر:">
+<!ENTITY pref.soondays.accesskey "u">
 
-
-
-
-
+<!ENTITY pref.accessibility.label "الإتاحة" >
+<!ENTITY pref.systemcolors.label "حسّن الألوان للإتاحة" >
+<!ENTITY pref.systemcolors.accesskey "ل">

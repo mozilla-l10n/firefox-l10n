@@ -17,7 +17,7 @@
 <!ENTITY pref.categories.removeButton.accesskey "ز">
 <!ENTITY pref.categories.name.label "الاسم">
 <!ENTITY pref.categories.color.label "اللون">
-
+<!ENTITY pref.categories.usecolor.label "استخدم لونا">
 <!ENTITY pref.categories.none.label "(بلا)">
 <!ENTITY pref.categories.overwrite "هناك تقويم بهذا الاسم بالفعل. \n أتريد الكتابة فوقه؟">
 
