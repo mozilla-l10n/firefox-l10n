@@ -4,6 +4,7 @@
 
 <!ENTITY aboutTelemetry.pageTitle " दूरमापी आंकड़ा">
 
+<!ENTITY aboutTelemetry.changeDataChoices "परिवर्तन">
 
 
 
@@ -14,6 +15,7 @@
 <!ENTITY aboutTelemetry.showCurrentPingData "वर्तमान पिंग डेटा">
 
 
+<!ENTITY aboutTelemetry.showSubsessionData "उपसत्र डेटा दिखाएँ">
 
 
 
