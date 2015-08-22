@@ -6,7 +6,7 @@
 <!ENTITY pref.locationBar.title                "Barra de localização">
 
 <!ENTITY autoComplete.label                    "Conclusão automática">
-<!ENTITY autoCompleteMatchHistory.label        "Sugerir automaticamente sítios web do Histórico">
+<!ENTITY autoCompleteMatchHistory.label        "Sugerir automaticamente sites do Histórico">
 <!ENTITY autoCompleteMatchHistory.accesskey    "a">
 <!ENTITY autoCompleteMatchBookmarks.label      "Sugerir automaticamente sítios web dos Marcadores">
 <!ENTITY autoCompleteMatchBookmarks.accesskey  "M">
