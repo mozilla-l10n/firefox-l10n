@@ -13,7 +13,7 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navigare fără urme)">
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navigare privată)">
 
 <!ENTITY appmenu.tooltip                     "Deschide meniul">
 <!ENTITY navbarOverflow.label                "Mai multe unelte…">
