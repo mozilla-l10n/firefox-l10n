@@ -110,7 +110,7 @@
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
 
-<!ENTITY overlay_share_bookmark_btn_label "Favoritar">
+<!ENTITY overlay_share_bookmark_btn_label "Favorito">
 <!ENTITY overlay_share_reading_list_btn_label "Adicionar à lista de leitura">
 <!ENTITY overlay_share_bookmark_btn_label_already "Já existe nos favoritos">
 <!ENTITY overlay_share_reading_list_btn_label_already "Já existe na lista de leitura">
