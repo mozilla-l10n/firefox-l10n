@@ -476,7 +476,7 @@ size. -->
 
 <!ENTITY firstrun_panel_title_welcome "Bem-vindo">
 
-<!ENTITY home_top_sites_title "Principais sítios">
+<!ENTITY home_top_sites_title "Sites mais visitados">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Adicionar um sítio">
