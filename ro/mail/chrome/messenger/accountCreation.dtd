@@ -78,7 +78,7 @@
 <!ENTITY changeSettings.label            "Schimbă setările">
 <!ENTITY changeSettings.accesskey        "S">
 
-<!ENTITY contactYourProvider.description "&brandShortName; vă poate permite accesarea contului de e-mail folosind configurația furnizată. Totuși, ar trebui să contactați administratorul sau furnizorul de e-mail în legătură cu aceste conexiuni improprii. Vedeți întrebările frecvente despre Thunderbird pentru mai multe informații.">
+<!ENTITY contactYourProvider.description "&brandShortName; vă poate permite accesarea contului de e-mail folosind configurația furnizată. Totuși, ar trebui să contactați administratorul sau furnizorul de e-mail în legătură cu aceste conexiuni improprii. Vedeți întrebările adresate frecvent privind Thunderbird pentru mai multe informații.">
 
 <!ENTITY insecureServer.tooltip.title    "Avertisment! Acesta este un server nesecurizat.">
 <!ENTITY insecureServer.tooltip.details  "Clic pe cerc pentru mai multe detalii.">

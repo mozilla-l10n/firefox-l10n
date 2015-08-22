@@ -79,7 +79,7 @@ că &brandShortName; are permisiunea de a accesa webul.</li>
 <!ENTITY proxyConnectFailure.title "Serverul proxy refuză conexiuni">
 <!ENTITY proxyConnectFailure.longDesc "<ul> 
 <li>Verificați setările proxy pentru a vă asigura că sunt corecte.</li> 
-<li>Luați legătura cu administratorul rețelei pentru a vă asigura că serverul proxy 
+<li>Contactați administratorul rețelei pentru a vă asigura că serverul proxy 
 funcționează.</li> 
 </ul>">
 
@@ -119,9 +119,9 @@ temporară și puteți încerca din nou mai târziu.</li>
 </ul>">
 
 <!ENTITY sharedLongDesc "<ul> 
-<li>Acest sait poate fi indisponibil temporar sau prea ocupat. Încercați din nou în câteva 
+<li>Site-ul poate fi indisponibil temporar sau prea ocupat. Încercați din nou în câteva 
 momente.</li> 
-<li>Dacă nu puteți încărca nicio pagină, verificați legătura la rețea a calculatorului 
+<li>Dacă nu puteți încărca nicio pagină, verificați conexiunea la rețea a calculatorului 
 dumneavoastră.</li> 
 <li>Dacă sistemul sau rețeaua este protejat de un firewall sau proxy, asigurați-vă 
 că &brandShortName; are permisiunea de a accesa webul.</li> 
@@ -142,7 +142,7 @@ că &brandShortName; are permisiunea de a accesa webul.</li>
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; a împiedicat această pagină să se încarce în acest mod deoarece pagina are o politică de securitate asupra conținutului ce nu permite asta.</p>">
 
 <!ENTITY corruptedContentError.title "Eroare cauzată de conținut corupt">
-<!ENTITY corruptedContentError.longDesc "<p>Conținutul pe care încercați să îl vedeți nu poate fi afișat, deoarece a fost detectată o eroare în transmisia de date.</p><ul><li>Vă rugăm să luați legătura cu proprietarii saitului pentru a-i informa despre această problemă.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>Conținutul pe care încercați să îl vedeți nu poate fi afișat, deoarece a fost detectată o eroare în transmisia de date.</p><ul><li>Vă rugăm să contactați proprietarii site-ului pentru a-i informa despre această problemă.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Sau, puteți adăuga o excepție…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Du-mă de aici!">
