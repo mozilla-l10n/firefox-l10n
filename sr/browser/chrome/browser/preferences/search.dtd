@@ -9,6 +9,9 @@
 <!ENTITY provideSearchSuggestions.label        "Пружи предлоге претраге">
 <!ENTITY provideSearchSuggestions.accesskey    "г">
 
+<!ENTITY showURLBarSuggestions.label           "Прикажи предлоге претраге у резултатима адресне траке">
+<!ENTITY showURLBarSuggestions.accesskey       "а">
+
 <!ENTITY redirectWindowsSearch.label "Користи овај претраживач за претраге из Windows-а">
 <!ENTITY redirectWindowsSearch.accesskey "п">
 
