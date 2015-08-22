@@ -51,7 +51,7 @@
 <!ENTITY performanceUI.clearButton "Limpiar">
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
-
+<!ENTITY performanceUI.toolbar.js-calltree "Árbol de llamadas">
 <!ENTITY performanceUI.toolbar.memory-calltree "Asignaciones">
 <!ENTITY performanceUI.toolbar.js-flamegraph "Gráfico de llamarada JS">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "Asignaciones de la cuadrícula">

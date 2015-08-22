@@ -707,7 +707,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded2 "Este sitio web tiene contenido que no es seguro (tales cómo imágenes).">
 <!ENTITY identity.description.passiveLoaded3 "Aunque &brandShortName; haya bloqueado algo del contenido, siempre existe contenido en la página que no es seguro (tales cómo imágenes).">
 <!ENTITY identity.description.activeLoaded "Este sitio web tiene contenido que no es seguro (tales como scripts) y tu conexión a ellos no es privada.">
-<!ENTITY identity.description.activeLoaded2 "La información que compartas con este sitio puede ser vista por otros (cómo contraseñas, mensajes, tarjetas de crédito, etc.).">
+<!ENTITY identity.description.activeLoaded2 "La información que compartas con este sitio puede ser vista por otros (como contraseñas, mensajes, tarjetas de crédito, etc.).">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Habilitar protección">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "H">
@@ -793,7 +793,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "El audio desde la pestaña se compartirá.">
 <!ENTITY getUserMedia.allWindowsShared.message "Todas las ventanas visibles en tu pantalla se compartirán.">
 
-<!ENTITY trackingProtection.title "Rastreando protección">
+<!ENTITY trackingProtection.title "Protección contra rastreo">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; está bloqueando partes de la página que pueden rastrear tu navegación.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Este sitio incluye elementos que pueden rastrear tu navegación. Tienes deshabilitada la protección.">
 <!ENTITY trackingProtection.notDetected3 "No se han detectado elementos de rastreo en esta página.">
@@ -805,7 +805,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate.label "Deshabilitar la protección para esta sesión">
+<!ENTITY trackingProtection.unblockPrivate.label "Desactivar la protección para esta sesión">
 <!ENTITY trackingProtection.unblockPrivate.accesskey "D">
 <!ENTITY trackingProtection.block2.label "Habilitar protección">
 <!ENTITY trackingProtection.block2.accesskey "H">

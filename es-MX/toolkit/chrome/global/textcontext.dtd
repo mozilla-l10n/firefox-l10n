@@ -28,9 +28,9 @@
 <!ENTITY searchTextBox.clear.label "Limpiar">
 
 
+<!ENTITY fillPasswordMenu.label       "Rellenar contraseña">
+<!ENTITY fillPasswordMenu.accesskey   "l">
 
 
-
-
-
-
+<!ENTITY noLoginSuggestions.label     "(No hay sugerencias de inicio de sesión)">
+<!ENTITY viewSavedLogins.label        "Ver Inicios de sesión guardados">
