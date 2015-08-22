@@ -395,6 +395,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "टैब में जाएँ:">
 
+<!ENTITY urlbar.searchSuggestionsNotification.question "क्या आप सुझावों के साथ अपना खोज अनुभव को बढ़ावा देना चाहते हैं?">
 
 <!ENTITY urlbar.searchSuggestionsNotification.disable "नहीं">
 
@@ -684,7 +685,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connectionSecure "रिमोट कनेक्शन">
 <!ENTITY identity.connectionNotSecure "कनेक्शन सुरक्षित नही हैं">
-
+<!ENTITY identity.connectionFile "यह पेज आपके कंप्यूटर में सहेजा जाता हैं.">
 
 <!ENTITY identity.connectionInternal "यह एक सुरक्षित &brandShortName; पेज हैं.">
 <!-- Strings for connection state warnings. -->
@@ -696,12 +697,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+<!ENTITY identity.description.passiveLoaded2 "यह वेबसाइट वह सामग्री शामिल करता है जो सुरक्षित नहीं हैं(जैसा की छवि).">
 
 
+<!ENTITY identity.description.activeLoaded2 "सुचना जो आप इस साइट के साथ साझा करते हैं दुसरो के द्वारा देखा जा सकता(जैसे पासवर्ड,संदेश, क्रेडिट कार्ड, इत्यादि.).">
 
-
-
-
+<!ENTITY identity.enableMixedContentBlocking.label "सुरक्षा सक्रिय करें">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "स">
 <!ENTITY identity.disableMixedContentBlocking.label "अब सुरक्षा निष्क्रिय करें">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 
@@ -786,17 +788,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
+<!ENTITY trackingProtection.notDetected3 "कोई भी ट्रैकिंग तत्व इस पेज पर जांचा नहीं गया.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-
+<!ENTITY trackingProtection.unblock.label "इस साइट पर सुरक्षा निष्क्रिय करें">
+<!ENTITY trackingProtection.unblock.accesskey "न">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-
-
-
+<!ENTITY trackingProtection.unblockPrivate.label "इस सत्र के लिए सुरक्षा निष्क्रिय करें">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "न">
+<!ENTITY trackingProtection.block2.label "सुरक्षा सक्रिय करें">
+<!ENTITY trackingProtection.block2.accesskey "स">
 
 <!ENTITY trackingContentBlocked.message "ट्रैकिंग">
 <!ENTITY trackingContentBlocked.moreinfo "पृष्ठ का हिस्सा जो आपकी ऑनलाइन गतिविधि को ट्रैक करता है को ब्लॉक किया गया है.">
