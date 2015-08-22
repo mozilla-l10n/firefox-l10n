@@ -7,15 +7,18 @@
   -->
 
 
+<!ENTITY pref.categories.add.title "أضف فئة">
+<!ENTITY pref.categories.addButton.label "أضف…">
+<!ENTITY pref.categories.addButton.accesskey "ض">
+<!ENTITY pref.categories.edit.title "حرر الفئة">
+<!ENTITY pref.categories.editButton.label "حرّر…">
+<!ENTITY pref.categories.editButton.accesskey "ح">
+<!ENTITY pref.categories.removeButton.label "أزل">
+<!ENTITY pref.categories.removeButton.accesskey "ز">
+<!ENTITY pref.categories.name.label "الاسم">
+<!ENTITY pref.categories.color.label "اللون">
 
+<!ENTITY pref.categories.none.label "(بلا)">
+<!ENTITY pref.categories.overwrite "هناك تقويم بهذا الاسم بالفعل. \n أتريد الكتابة فوقه؟">
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY pref.categories.noBlankCategories "عليك إدخال اسم الفئة.">

@@ -9,11 +9,11 @@
 
 
 
-
-
-
-
-
+<!ENTITY pref.calendar.alarms.sound.browse.label "تصفح…">
+<!ENTITY pref.calendar.alarms.sound.browse.accessKey "ص">
+<!ENTITY pref.calendar.alarms.sound.play.label "شغل">
+<!ENTITY pref.calendar.alarms.sound.play.accessKey "ش">
+<!ENTITY pref.showalarmbox "أظهر حوار التذكير">
 
 
 
