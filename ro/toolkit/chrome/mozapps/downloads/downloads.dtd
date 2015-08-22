@@ -31,7 +31,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.retry.accesskey              "R">
 <!ENTITY cmd.goToDownloadPage.label       "Mergi la pagina de descărcare">
 <!ENTITY cmd.goToDownloadPage.accesskey   "g">
-<!ENTITY cmd.copyDownloadLink.label       "Copiază legătura de descărcare">
+<!ENTITY cmd.copyDownloadLink.label       "Copiază linkul de descărcare">
 <!ENTITY cmd.copyDownloadLink.accesskey   "l">
 <!ENTITY cmd.removeFromList.label         "Elimină din listă">
 <!ENTITY cmd.removeFromList.accesskey     "E">

@@ -30,7 +30,7 @@
 <!ENTITY certmgr.certdetail.cn                "Nume comun (CN)">
 <!ENTITY certmgr.certdetail.o                 "Organizație (O)">
 <!ENTITY certmgr.certdetail.ou                "Unitate organizațională (OU)">
-<!ENTITY certmgr.certdetail.serialnumber      "Număr serie">
+<!ENTITY certmgr.certdetail.serialnumber      "Număr de serie">
 <!ENTITY certmgr.certdetail.sha256fingerprint "Amprentă SHA-256">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "Amprentă SHA1">
 
@@ -49,7 +49,7 @@
 <!ENTITY certmgr.begins                       "Începe la">
 <!ENTITY certmgr.expires                      "Expiră la">
 <!ENTITY certmgr.email                        "Adresă de e-mail">
-<!ENTITY certmgr.serial                       "Număr serie">
+<!ENTITY certmgr.serial                       "Număr de serie">
 
 <!ENTITY certmgr.close.label                  "Închide">
 <!ENTITY certmgr.close.accesskey              "c">
