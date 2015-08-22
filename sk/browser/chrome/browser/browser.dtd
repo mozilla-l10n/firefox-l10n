@@ -735,8 +735,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
-<!ENTITY syncSetup.label              "Nastaviť službu &syncBrand.shortName.label;…">
-<!ENTITY syncSetup.accesskey          "N">
+<!ENTITY syncSignIn.label             "Prihlásiť sa do služby &syncBrand.shortName.label;…">
+<!ENTITY syncSignIn.accesskey         "r">
 <!ENTITY syncSyncNowItem.label        "Synchronizovať teraz">
 <!ENTITY syncSyncNowItem.accesskey    "N">
 <!ENTITY syncReAuthItem.label         "Znova pripojiť k &syncBrand.shortName.label;…">
