@@ -38,8 +38,9 @@
 
 
 
-
-
-
-
-
+<!ENTITY onemonthbackward.tooltip "ارجع شهرا واحدا" >
+<!ENTITY onemonthforward.tooltip "تقدّم شهرا واحدا" >
+<!ENTITY showToday.tooltip "اذهب الى اليوم">
+<!ENTITY onedayforward.tooltip "تقدّم يوما واحدا">
+<!ENTITY onedaybackward.tooltip "ارجع يوما واحدا">
+<!ENTITY showselectedday.tooltip "اعرض أحداث اليوم المحدد">

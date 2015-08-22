@@ -9,10 +9,12 @@
 <!ENTITY initialpage.computer.label  "في الحاسوب">
 <!ENTITY initialpage.network.label  "في الشبكة">
 
+<!ENTITY locationpage.login.description   "اختياري: أدخل اسم المستخدم وكلمة السر" >
+<!ENTITY locationpage.username.label      "اسم المستخدم:" >
+<!ENTITY locationpage.password.label      "كلمة السّر:" >
+
+<!ENTITY custompage.shortdescription  "خصص التقويم" >
 
 
-
-
-
-
-
+<!ENTITY finishpage.shortdescription  "أُنشئ التقويم" >
+<!ENTITY finishpage.longdescription   "لقد أُنشئ التقويم." >
