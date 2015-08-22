@@ -16,7 +16,6 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Управљање налогом">
 <!ENTITY manageAccount.accesskey      "У">
-<!ENTITY viewQuota.label              "Преглед квота">
 <!ENTITY changePassword2.label        "Промена лозинке…">
 <!ENTITY myRecoveryKey.label          "Мој кључ за опоравак">
 <!ENTITY resetSync2.label             "Ресетуј Sync…">
@@ -26,8 +25,6 @@
 <!ENTITY syncMy.label               "Синхронизуј">
 <!ENTITY engine.bookmarks.label     "Забелешке">
 <!ENTITY engine.bookmarks.accesskey "З">
-<!ENTITY engine.readinglist.label   "Листа за читање">
-<!ENTITY engine.readinglist.accesskey "ч">
 <!ENTITY engine.tabs.label          "Језичци">
 <!ENTITY engine.tabs.accesskey      "Ј">
 <!ENTITY engine.history.label       "Историјат">
@@ -74,6 +71,7 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Нисте пријављени.">
 <!ENTITY signIn.label                "Пријави се">
+<!ENTITY profilePicture.tooltip      "Промени профилну слику>
 <!ENTITY manage.label                "Управљај">
 <!ENTITY disconnect.label            "Прекини конекцију…">
 <!ENTITY verify.label                "Верификуј е-пошту">
@@ -84,3 +82,17 @@ both, to better adapt this sentence to their language.
 <!ENTITY welcome.createAccount.label "Направи налог">
 
 <!ENTITY welcome.useOldSync.label "Користите старију Sync верзију?">
+
+<!ENTITY signedOut.caption            "Понесите веб са собом">
+<!ENTITY signedOut.description        "Синхронизујте забелешке, историјат, јазичке, лозинке, додатке и поставке на свим уређајима.">
+<!ENTITY signedOut.accountBox.title   "Повезивање са &syncBrand.fxAccount.label;">
+<!ENTITY signedOut.accountBox.create  "Направи налог">
+<!ENTITY signedOut.accountBox.signin  "Пријави се">
+
+<!ENTITY signedIn.engines.label       "Синхронизуј све уређаје">
+
+<!ENTITY mobilePromo.start            "Преузми Firefox за ">
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+<!ENTITY mobilePromo.androidLink      "Android™">
+<!ENTITY mobilePromo.end              " да синхронизујете са мобилним уређајем.">
+<!ENTITY androidAttribution           "Android припада Google Inc.">

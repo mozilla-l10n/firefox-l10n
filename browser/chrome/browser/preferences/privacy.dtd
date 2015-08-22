@@ -4,12 +4,15 @@
 
 <!ENTITY tracking.label                 "Праћење">
 
-<!ENTITY dntTrackingNotOkay.label2      "Обавести веб сајтове да не желим да будем праћен">
-<!ENTITY dntTrackingNotOkay.accesskey   "О">
-<!ENTITY trackingProtection.label       "Спречава сајтове да Вас прате">
-<!ENTITY trackingProtection.accesskey   "р">
+<!ENTITY dntTrackingNotOkay4.label     "Обавести веб сајтове да не желим да будем праћен">
+<!ENTITY dntTrackingNotOkay4.accesskey "О">
+<!ENTITY doNotTrackInfo.label          "Сазнајте више">
+<!ENTITY trackingProtection5.label     "Користи заштиту од праћења">
+<!ENTITY trackingProtection5.accesskey "з">
 <!ENTITY trackingProtectionLearnMore.label "Сазнајте више">
-<!ENTITY doNotTrackInfo.label           "Сазнајте више">
+<!ENTITY trackingProtectionPBM5.label         "Користи заштиту од праћења у приватним прозорима">
+<!ENTITY trackingProtectionPBM5.accesskey     "ш">
+<!ENTITY trackingProtectionPBMLearnMore.label "Сазнајте више">
 
 <!ENTITY  history.label                 "Историјат">
 
@@ -24,6 +27,9 @@
 <!ENTITY  locbar.openpage.accesskey     "ј">
 <!ENTITY  locbar.searches.label         "Повезане претраге са подразумеваног претраживача">
 <!ENTITY  locbar.searches.accesskey     "п">
+
+<!ENTITY  suggestionSettings.label      "Промени поставке за предлоге претраживача…">
+<!ENTITY  suggestionSettings.accesskey  "т">
 
 <!ENTITY  acceptCookies.label           "Прихватај колачиће са сајтова">
 <!ENTITY  acceptCookies.accesskey       "к">
