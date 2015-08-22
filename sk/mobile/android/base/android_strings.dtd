@@ -10,6 +10,7 @@
 <!ENTITY  onboard_start_subtext3 "Zážitok z mobilného prehliadania webu presne taký, ako ho chcete.">
 <!ENTITY  onboard_start_button_account "Prihlásiť sa k &brandShortName;u">
 <!ENTITY  onboard_start_button_browser "Začať prehliadať">
+<!ENTITY  onboard_start_restricted1 "Buďte v bezpečí a majte veci pod kontrolou s touto zjednodušenou verziou prehliadača &brandShortName;.">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
@@ -68,6 +69,8 @@
 <!ENTITY edit_mode_cancel "Zrušiť">
 
 <!ENTITY close_tab "Zavrieť kartu">
+<!ENTITY tab_audio_playing "Táto karta prehráva zvuk">
+<!ENTITY tab_audio_muted "Zvuk na tejto karte bol stlmený">
 <!ENTITY one_tab "1 karta">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -155,6 +158,9 @@
 <!ENTITY pref_search_hint "Tip: akúkoľvek stránku pridáte dlhým podržaním jej vyhľadávacieho poľa a následne ťuknutím na ikonu &formatI;.">
 <!ENTITY pref_category_devtools "Vývojárske nástroje">
 <!ENTITY pref_developer_remotedebugging "Vzdialené ladenie">
+<!ENTITY pref_developer_remotedebugging_usb "Vzdialené ladenie cez USB">
+<!ENTITY pref_developer_remotedebugging_wifi "Vzdialené ladenie cez Wi-Fi">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Ladenie cez sieť Wi-Fi vyžaduje, aby vaše zariadenie malo nainštalovanú aplikáciu čítačky kódov QR.">
 <!ENTITY pref_category_logins "Heslá">
 <!ENTITY pref_remember_signons2 "Pamätať si prihlasovacie údaje">
 <!ENTITY pref_open_external_urls_privately_title "Otvárať odkazy v režime Súkromné prehliadanie">
@@ -192,15 +198,20 @@
 <!ENTITY pref_cookies_disabled "Zakázané">
 
 <!ENTITY pref_tracking_protection_title "Ochrana pred sledovaním">
-<!ENTITY pref_tracking_protection_summary "&brandShortName; zabráni webovým stránkam sledovať vašu aktivitu">
+<!ENTITY pref_tracking_protection_summary3 "Povolená v režime Súkromné prehliadanie">
 <!ENTITY pref_donottrack_title "Funkcia Do not track">
 <!ENTITY pref_donottrack_summary "&brandShortName; požiada webové stránky, aby nesledovali vašu aktivitu">
+
+<!ENTITY tracking_protection_prompt_title "Teraz s Ochranou pred sledovaním">
+<!ENTITY tracking_protection_prompt_text "Aktívne blokuje prvky umožňujúce sledovanie, takže sa už viac nemusíte obávať.">
+<!ENTITY tracking_protection_prompt_tip_text "Ďalšie informácie v nastaveniach Súkromia">
+<!ENTITY tracking_protection_prompt_action_button "Rozumiem">
 
 <!ENTITY tab_queue_toast_message3 "Karta bola uložená do prehliadača &brandShortName;">
 <!ENTITY tab_queue_toast_action "Otvoriť teraz">
 <!ENTITY tab_queue_prompt_title "Otvoriť viaceré odkazy?">
-<!ENTITY tab_queue_prompt_text3 "Uložené budú až pokiaľ znova nespustíte &brandShortName;.">
-<!ENTITY tab_queue_prompt_tip_text "Toto nastavenie môžete neskôr zmeniť v Nastaveniach">
+<!ENTITY tab_queue_prompt_text4 "Uložené budú až pokiaľ znova nespustíte &brandShortName;.">
+<!ENTITY tab_queue_prompt_tip_text2 "Toto nastavenie môžete neskôr zmeniť v Nastaveniach">
 <!ENTITY tab_queue_prompt_positive_action_button "Povoliť">
 <!ENTITY tab_queue_prompt_negative_action_button "Teraz nie">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
@@ -330,7 +341,6 @@ size. -->
 <!ENTITY addons "Doplnky">
 <!ENTITY logins "Heslá">
 <!ENTITY downloads "Prevzaté súbory">
-<!ENTITY apps "Aplikácie">
 <!ENTITY char_encoding "Kódovanie znakov">
 
 <!ENTITY share "Zdieľať">
@@ -401,6 +411,11 @@ size. -->
 <!ENTITY pref_titlebar_mode_title "Zobrazovať titulok stránky">
 <!ENTITY pref_titlebar_mode_url "Zobrazovať adresu stránky">
 
+<!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
+     whether or not the magnifying glass is disabled. -->
+<!ENTITY pref_prevent_magnifying_glass "Zakázať zväčšovacie sklo">
+<!ENTITY pref_prevent_magnifying_glass_summary "Zablokuje používanie zväčšovacieho skla, aby sa zabránilo nejednoznačným dotykovým gestám">
+
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar2 "Prehliadanie na celú obrazovku">
@@ -426,9 +441,9 @@ size. -->
 <!ENTITY site_settings_clear        "Vymazať">
 <!ENTITY site_settings_no_settings  "Nie sú uložené žiadne údaje.">
 
-<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+<!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
-<!ENTITY reading_list_added2 "Pridaná do zoznamu">
+<!ENTITY reading_list_added3 "Pridaná do Zoznamu na prečítanie">
 <!ENTITY reading_list_removed "Stránka odstránená zo Zoznamu na prečítanie">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -534,32 +549,24 @@ size. -->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Pripojené k stránke">
-<!-- Localization note (identity_run_by) : This string appears between a
-domain name (above) and an organization name (below). E.g.
-
-example.com
-which is run by
-Example Enterprises, Inc.
-
-The layout of the identity dialog prevents combining this into a single string with
-substitution variables.  If it is difficult to translate the sense of the string
-with that structure, consider a translation which ignores the preceding domain and
-just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_run_by "Spravuje ju">
-<!ENTITY identity_no_info "Táto stránka neposkytuje informácie o svojej identite.">
-<!ENTITY identity_not_encrypted "Pripojenie k tejto stránke nie je zabezpečené.">
-<!ENTITY identity_encrypted "Zašifrované">
+<!ENTITY identity_connection_secure "Bezpečné pripojenie">
+<!ENTITY identity_connection_insecure "Nezabezpečené pripojenie">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY loaded_mixed_content_message "Táto stránka zobrazuje obsah, ktorý nie je bezpečný.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; zablokoval obsah, ktorý nie je bezpečný.">
 <!ENTITY blocked_mixed_content_message_bottom "Väčšina webových stránok bude fungovať správne aj po zablokovaní tohto obsahu.">
+<!ENTITY mixed_content_blocked_all "&brandShortName; zablokoval na tejto stránke obsah, ktorý nie je bezpečný.">
+<!ENTITY mixed_content_blocked_some "&brandShortName; zablokoval na tejto stránke časť nebezpečného obsahu.">
+<!ENTITY mixed_content_display_loaded "Časti tejto stránky nie sú bezpečné (ako napr. obrázky).">
+<!ENTITY mixed_content_protection_disabled "Ochrana pred nebezpečným obsahom je vypnutá.">
 
 <!-- Tracking content notifications in site identity popup -->
-<!ENTITY loaded_tracking_content_message_top "Ochrana pred sledovaním je vypnutá.">
-<!ENTITY loaded_tracking_content_message_bottom "Niektoré súčasti tejto stránky môžu sledovať vašu aktivitu.">
-<!ENTITY blocked_tracking_content_message_top2 "Ochrana pred sledovaním je zapnutá.">
-<!ENTITY blocked_tracking_content_message_bottom2 "Súčasti stránky, ktoré sledujú vašu aktivitu, boli zablokované.">
+<!ENTITY doorhanger_tracking_title "Ochrana pred sledovaním">
+<!ENTITY doorhanger_tracking_state_enabled "Zapnutá">
+<!ENTITY doorhanger_tracking_state_disabled "Vypnutá">
+<!ENTITY doorhanger_tracking_message_enabled1 "Pokusy o sledovanie vašej aktivity online boli zablokované.">
+<!ENTITY doorhanger_tracking_message_disabled2 "Táto stránka obsahuje prvky, ktoré sledujú vašu aktivitu online.">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Ďalšie informácie">
@@ -642,10 +649,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Voice search in the awesome bar -->
 <!ENTITY voicesearch_prompt "Hovorte teraz">
-<!ENTITY voicesearch_failed_title "Hlasové vyhľadávanie &brandShortName;">
-<!ENTITY voicesearch_failed_message "Vyskytol sa problém s hlasovým vyhľadávaním. Skúste to znova neskôr.">
-<!ENTITY voicesearch_failed_message_recoverable "Ospravedlňujeme sa, ale nevieme rozpoznať vaše slová. Skúste to znova.">
-<!ENTITY voicesearch_failed_retry "Skúsiť znova">
 
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
@@ -663,3 +666,25 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY find_matchcase "Aa">
 
 <!ENTITY intent_uri_cannot_open "Odkaz nie je možné otvoriť">
+
+<!-- DevTools Authentication -->
+<!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
+     above a QR reader that is actively scanning for QR codes.  The expected QR
+     code has already been displayed by the client trying to connect (such as
+     desktop Firefox via WebIDE), so you just need to aim this device at the QR
+     code. -->
+<!ENTITY devtools_auth_scan_header "Skenuje sa kód QR zobrazený na vašom ďalšom zariadení">
+
+<!-- Restrictions -->
+<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+     a restricted profile (e.g. child). Used inside the Android settings UI. -->
+<!ENTITY restriction_disallow_import_settings_title2 "Zakázať \'Import z Androidu\'">
+<!ENTITY restriction_disallow_addons_title2 "Zakázať inštaláciu doplnkov">
+<!ENTITY restriction_disallow_devtools_title2 "Zakázať vývojárske nástroje">
+<!ENTITY restriction_disallow_customize_home_title2 "Zakázať prispôsobovať domovskú obrazovku">
+<!ENTITY restriction_disallow_private_browsing_title2 "Zakázať Súkromné prehliadanie">
+<!ENTITY restriction_disallow_location_services_title2 "Zakázať služby zisťovania polohy">
+<!ENTITY restriction_disallow_display_settings_title2 "Zakázať nastavenia obrazovky">
+<!ENTITY restriction_disallow_clear_history_title2 "Zakázať \'Vymazať históriu prehliadania\'">
+<!ENTITY restriction_disallow_master_password_title2 "Zakázať hlavné heslo">
+<!ENTITY restriction_disallow_guest_browsing_title2 "Zakázať režim Hosť">
