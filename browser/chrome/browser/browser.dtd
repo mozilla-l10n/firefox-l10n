@@ -763,7 +763,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.directory.viewmore.text "Ver mais">
 
 <!ENTITY customizeMode.tabTitle "Personalizar o &brandShortName;">
-<!ENTITY customizeMode.menuAndToolbars.header2 "Mais ferramentas para adicionar ao menu e às barras de ferramentas">
+<!ENTITY customizeMode.menuAndToolbars.header2 "Mais funcionalidades e ferramentas">
 <!ENTITY customizeMode.menuAndToolbars.empty "Quer mais ferramentas?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Escolha-as nos extras">
 <!ENTITY customizeMode.restoreDefaults "Restaurar predefinições">
