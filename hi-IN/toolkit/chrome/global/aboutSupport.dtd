@@ -59,6 +59,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "बहुप्रक्रिया विंडोज़">
 
+<!ENTITY aboutSupport.appBasicsSafeMode "सेफ मोड">
 
 <!ENTITY aboutSupport.showDir.label "खुली निर्देशिका">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific

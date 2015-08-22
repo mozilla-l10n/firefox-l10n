@@ -17,10 +17,13 @@
 
 <!ENTITY aboutTelemetry.showSubsessionData "उपसत्र डेटा दिखाएँ">
 
+<!ENTITY aboutTelemetry.choosePing "पिंग चुनें:">
 
 
 
+<!ENTITY aboutTelemetry.archiveWeekHeader "सप्ताह">
 
+<!ENTITY aboutTelemetry.archivePingHeader "पिंग">
 
 <!ENTITY aboutTelemetry.generalDataSection "        सामान्य आंकड़ा">
 
