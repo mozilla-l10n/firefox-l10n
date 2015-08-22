@@ -391,6 +391,8 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Pripnúť stránku">
 <!ENTITY contextmenu_top_sites_unpin "Zrušiť pripnutie stránky">
 <!ENTITY contextmenu_add_search_engine "Pridať vyhľadávací modul">
+<!ENTITY contextmenu_mark_read "Označiť ako prečítané">
+<!ENTITY contextmenu_mark_unread "Označiť ako neprečítané">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
