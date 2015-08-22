@@ -689,7 +689,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionInternal "यह एक सुरक्षित &brandShortName; पेज हैं.">
 <!-- Strings for connection state warnings. -->
 
-
+<!ENTITY identity.activeLoaded "आपने इस पेज पर सुरक्षा निष्क्रिय कर दिए हैं.">
 
 <!-- Strings for connection state warnings in the subview. -->
 
@@ -781,7 +781,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "साझा करने के लिए माइक्रोफोन:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
-
+<!ENTITY getUserMedia.audioCapture.label "टैब से ऑडियो साझा किया जायेगा.">
 <!ENTITY getUserMedia.allWindowsShared.message "आपके स्क्रीन पर सभी दृश्य विंडो साझा किए जाएँगे.">
 
 
