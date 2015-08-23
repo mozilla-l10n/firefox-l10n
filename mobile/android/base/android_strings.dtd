@@ -198,7 +198,7 @@
 <!ENTITY pref_cookies_disabled "Онемогућени">
 
 <!ENTITY pref_tracking_protection_title "Заштита од праћења">
-<!ENTITY pref_tracking_protection_summary "&brandShortName; ће спречити сајтове да Вас прате">
+<!ENTITY pref_tracking_protection_summary3 "Омогућена у приватном прегледању">
 <!ENTITY pref_donottrack_title "Не желим да ме прате">
 <!ENTITY pref_donottrack_summary "&brandShortName; ће рећи сајтовима да не желите да будете праћени">
 
@@ -443,7 +443,7 @@ size. -->
 
 <!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
      as possible. -->
-<!ENTITY reading_list_added2 "Додато листи">
+<!ENTITY reading_list_added3 "Додато листи за читање">
 <!ENTITY reading_list_removed "Страница је уклоњена са листе за читање">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
