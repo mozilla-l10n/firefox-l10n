@@ -113,7 +113,7 @@ The locale includes both language and region concepts. -->
 <!ENTITY pref_category_search3 "Wyszukiwanie">
 <!ENTITY pref_category_search_summary "Dostosuj wyszukiwarki">
 <!ENTITY pref_category_display "Wyświetlanie">
-<!ENTITY pref_category_display_summary "Tekst, pasek tytułowy, przeglądanie pełnoekranowe">
+<!ENTITY pref_category_display_summary "Tekst, pasek tytułu, przeglądanie pełnoekranowe">
 <!ENTITY pref_category_privacy_short "Prywatność">
 <!ENTITY pref_category_privacy_summary2 "Kontrola nad danymi logowania, ciasteczkami, śledzeniem i innymi danymi">
 <!ENTITY pref_category_vendor "&vendorShortName;">
