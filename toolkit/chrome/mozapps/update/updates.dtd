@@ -78,8 +78,8 @@ acestei actualizări. &brandShortName; nu poate fi actualizat pentru că:">
 să vă asigurați că aveți ultima versiune de &brandShortName; de la:">
 <!ENTITY  errorCertAttrNoUpdate2.label    "Ceva împiedică &brandShortName; să fie actualizat în mod securizat. 
 Vă rugăm să vă asigurați că aveți ultima versiune de &brandShortName; de la:">
-<!ENTITY  errorCertAttrHasUpdate.label    "Cineva încearcă să păcălească &brandShortName; să accepte o 
-actualizare nesigură. Vă rugăm să contactați administratorul de rețea în legătură cu această problemă.">
+<!ENTITY  errorCertAttrHasUpdate.label    "Cineva încearcă să păcălească &brandShortName; să accepte o actualizare 
+nesigură. Vă rugăm să contactați furnizorul de rețea și să cereți ajutor.">
 
 <!ENTITY  finishedPage.title              "Actualizarea este gata de instalare">
 <!ENTITY  finishedPage.text               "Actualizarea va fi instalată la următoarea pornire a &brandShortName;. Puteți 

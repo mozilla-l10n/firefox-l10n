@@ -5,9 +5,9 @@
 <!ENTITY  updateWizard.title              "Actualizare &brandShortName;">
 
 <!ENTITY  offline.title                   "&brandShortName; e în modul offline">
-<!ENTITY  offline.description             "&brandShortName; trebuie să se conecteze pentru a vedea dacă sunt actualizări disponibile 
-pentru suplimentele dumneavoastră pentru a le face compatibile cu 
-această versiune.">
+<!ENTITY  offline.description             "&brandShortName; trebuie să se conecteze online pentru a vedea dacă sunt 
+actualizări disponibile pentru suplimentele dumneavoastră pentru a le face 
+compatibile cu această versiune.">
 <!ENTITY  offline.toggleOffline.label     "Mergeți online acum.">
 <!ENTITY  offline.toggleOffline.accesskey "g">
 
