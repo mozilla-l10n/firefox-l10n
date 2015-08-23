@@ -45,8 +45,8 @@
 <!ENTITY cmd.bookmarkLink.accesskey     "P">
 <!ENTITY cmd.delete.label               "Șterge această pagină">
 <!ENTITY cmd.delete.accesskey           "t">
-<!ENTITY cmd.deleteDomainData.label     "Uită totul despre acest sait">
-<!ENTITY cmd.deleteDomainData.accesskey "U">
+<!ENTITY cmd.deleteDomainData.label     "Uită totul despre acest site">
+<!ENTITY cmd.deleteDomainData.accesskey "d">
 
 <!ENTITY cmd.open.label                  "Deschide">
 <!ENTITY cmd.open.accesskey              "D">
@@ -114,11 +114,11 @@
 <!ENTITY view.accesskey           "V">
 <!ENTITY byDate.label             "După dată">
 <!ENTITY byDate.accesskey         "D">
-<!ENTITY bySite.label             "După sait">
+<!ENTITY bySite.label             "După site">
 <!ENTITY bySite.accesskey         "s">
 <!ENTITY byMostVisited.label      "După cele mai vizitate">
 <!ENTITY byMostVisited.accesskey  "v">
 <!ENTITY byLastVisited.label      "După ultimele vizitate">
 <!ENTITY byLastVisited.accesskey  "l">
-<!ENTITY byDayAndSite.label       "După dată și sait">
+<!ENTITY byDayAndSite.label       "După dată și site">
 <!ENTITY byDayAndSite.accesskey   "t">
