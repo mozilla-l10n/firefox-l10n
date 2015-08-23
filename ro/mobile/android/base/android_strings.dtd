@@ -120,7 +120,7 @@
      to. -->
 
 <!ENTITY overlay_share_send_tab_btn_label "Trimite către un alt dispozitiv">
-<!ENTITY overlay_share_no_url "Nicio legătură nu a fost găsită în această partajare">
+<!ENTITY overlay_share_no_url "Niciun link nu a fost găsit în această partajare">
 <!ENTITY overlay_share_select_device "Selectează un dispozitiv">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
@@ -205,7 +205,7 @@
 
 
 <!ENTITY tab_queue_toast_action "Deschide acum">
-<!ENTITY tab_queue_prompt_title "Deschizi multiple legături?">
+<!ENTITY tab_queue_prompt_title "Deschizi multiple linkuri?">
 
 
 <!ENTITY tab_queue_prompt_positive_action_button "Activează">
@@ -415,7 +415,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Navigare pe ecran complet">
 <!ENTITY pref_scroll_title_bar_summary "Ascunde bara de titlu a &brandShortName; când derulezi în josul paginii">
 
-<!ENTITY pref_tab_queue_title2 "Deschide multiple legături">
+<!ENTITY pref_tab_queue_title2 "Deschide multiple linkuri">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
