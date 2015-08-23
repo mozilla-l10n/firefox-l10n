@@ -52,7 +52,7 @@ button that pretty prints the selected source. -->
 
 <!-- LOCALIZATION NOTE (debuggerUI.sources.togglePromiseDebugger): This is the
   -  tooltip for the button that toggles the promise debugger. -->
-<!ENTITY debuggerUI.sources.togglePromiseDebugger "Toggle Promise Debugger">
+<!ENTITY debuggerUI.sources.togglePromiseDebugger "Intercambiar depurador promise">
 
 <!-- LOCALIZATION NOTE (debuggerUI.startTracing): This is the text displayed in
    - the button to start execution tracing. -->
@@ -65,6 +65,16 @@ button that pretty prints the selected source. -->
 <!-- LOCALIZATION NOTE (debuggerUI.clearButton.tooltip): This is the tooltip for
    -  the button that clears the collected tracing data in the tracing tab. -->
 <!ENTITY debuggerUI.clearButton.tooltip "Limpiar los rastros recolectados">
+
+<!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
+  -  checkbox that toggles pausing on exceptions. -->
+<!ENTITY debuggerUI.pauseExceptions          "Pausar en excepciones">
+<!ENTITY debuggerUI.pauseExceptions.accesskey "e">
+
+<!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
+  -  checkbox that toggles ignoring caught exceptions. -->
+<!ENTITY debuggerUI.ignoreCaughtExceptions     "Ignore caught exceptions">
+<!ENTITY debuggerUI.ignoreCaughtExceptions.accesskey "c">
 
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
   -  checkbox that toggles visibility of panes when opening the debugger. -->
