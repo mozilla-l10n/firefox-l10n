@@ -85,7 +85,7 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY signedOut.caption            "Leve a sua Web consigo">
 <!ENTITY signedOut.description        "Sincronize os marcadores, histórico, separadores, palavras-passe, extras e preferências entre os seus dispositivos.">
-<!ENTITY signedOut.accountBox.title   "Associe uma conta do &syncBrand.fxAccount.label;">
+<!ENTITY signedOut.accountBox.title   "Associe uma &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Criar conta">
 <!ENTITY signedOut.accountBox.signin  "Iniciar sessão">
 
