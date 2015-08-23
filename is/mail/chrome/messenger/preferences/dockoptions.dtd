@@ -12,3 +12,4 @@
 <!ENTITY showAllUnreadMessagesCount.accesskey "l">
 <!ENTITY dockIconBadge.label "App icon badge">
 <!ENTITY dockIconShow.label "Badge app icon með:">
+<!ENTITY directNotificationSettings.label "Þú getur gert badge óvirkt á tilkynningarflipa í kerfisstillingum.">
