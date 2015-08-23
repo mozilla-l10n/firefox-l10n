@@ -41,8 +41,8 @@
 <!ENTITY calendar.unifinder.tree.startdate.tooltip2        "رتّب بتاريخ البدء">
 <!ENTITY calendar.unifinder.tree.enddate.label             "الانتهاء">
 <!ENTITY calendar.unifinder.tree.enddate.tooltip2          "رتّب بتاريخ الانتهاء">
-<!ENTITY calendar.unifinder.tree.duedate.label             "الإنجاز">
-<!ENTITY calendar.unifinder.tree.duedate.tooltip2          "رتّب بتاريخ الإنجاز">
+<!ENTITY calendar.unifinder.tree.duedate.label             "الاستحقاق">
+<!ENTITY calendar.unifinder.tree.duedate.tooltip2          "رتّب بتاريخ الاستحقاق">
 <!ENTITY calendar.unifinder.tree.completeddate.label       "الاكتمال">
 <!ENTITY calendar.unifinder.tree.completeddate.tooltip2    "رتّب بتاريخ الاكتمال">
 <!ENTITY calendar.unifinder.tree.categories.label          "الفئة">
@@ -143,7 +143,7 @@
 <!ENTITY calendar.task-details.repeat.label          "التكرارية">
 <!ENTITY calendar.task-details.attachments.label     "المرفقات">
 <!ENTITY calendar.task-details.start.label           "تاريخ البدء">
-<!ENTITY calendar.task-details.due.label             "تاريخ الإنجاز">
+<!ENTITY calendar.task-details.due.label             "تاريخ الاستحقاق">
 
 <!ENTITY calendar.task.complete.button.tooltip  "علّم المهام المحددة كمكتملة">
 <!ENTITY calendar.task.priority.button.tooltip  "غير الأولوية">
@@ -350,7 +350,7 @@
 <!ENTITY calendar.print.to.label "إلى:">
 <!ENTITY calendar.print.settingsGroup.label "إعدادات الطباعة">
 <!ENTITY calendar.print.optionsGroup.label "خيارات">
-<!ENTITY calendar.print.taskswithnoduedate.label "المهام بلا وقت إنجاز">
+<!ENTITY calendar.print.taskswithnoduedate.label "المهام بلا وقت استحقاق">
 <!ENTITY calendar.print.completedtasks.label "المهام المكتملة">
 <!-- Error reporting -->
 

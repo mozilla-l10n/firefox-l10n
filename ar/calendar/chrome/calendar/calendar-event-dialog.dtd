@@ -359,7 +359,7 @@
 <!ENTITY read.only.event.start.label     "تاريخ البدء:">
 <!ENTITY read.only.task.start.label      "تاريخ البدء:">
 <!ENTITY read.only.event.end.label       "تاريخ الانتهاء:">
-<!ENTITY read.only.task.due.label        "تاريخ الإنجاز:">
+<!ENTITY read.only.task.due.label        "تاريخ الاستحقاق:">
 
 <!ENTITY read.only.location.label        "المكان:">
 <!ENTITY read.only.category.label        "الفئة:">
