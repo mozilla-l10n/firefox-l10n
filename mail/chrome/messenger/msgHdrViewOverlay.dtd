@@ -98,7 +98,7 @@
 <!ENTITY saveAllAttachmentsButton1.label   "Salvează tot">
 <!ENTITY saveAllAttachmentsButton1.tooltip "Salvează toate fișierele atașate">
 
-<!ENTITY copyLinkCmd.label        "Copiază adresa legăturii">
+<!ENTITY copyLinkCmd.label        "Copiază adresa linkului">
 <!ENTITY copyLinkCmd.accesskey    "C">
 
 <!ENTITY CopyMessageId.label "Copiază Message-ID">

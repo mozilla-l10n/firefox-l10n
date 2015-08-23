@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Window title -->
 
-<!ENTITY windowTitle.label     "Verificare locații imagini și legături">
+<!ENTITY windowTitle.label     "Verificare locații imagini și linkuri">
 <!ENTITY succeeded.label       "Reușit">
 <!ENTITY failed.label          "Nereușit">
 <!ENTITY closeButton.label     "Închide">
