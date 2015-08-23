@@ -33,8 +33,8 @@
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 <!ENTITY nntpRemoveMsgBody.label "Elimină corpul mesajelor mai mari de">
 <!ENTITY nntpRemoveMsgBody.accesskey "o">
-<!ENTITY offlineSelectNntp.label "Alegeți grupurile de știri pentru folosire offline…">
-<!ENTITY offlineSelectNntp.accesskey "A">
+<!ENTITY offlineSelectNntp.label "Selectați grupurile de știri pentru folosire offline…">
+<!ENTITY offlineSelectNntp.accesskey "S">
 <!ENTITY offlineImapAdvancedOffline.label "Avansat…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "A">
 <!ENTITY syncGroupTitle.label "Sincronizare mesaje">
