@@ -21,9 +21,9 @@
 <!ENTITY  useSystemColors.label           "Folosește culorile sistemului">
 <!ENTITY  useSystemColors.accesskey       "o">
 
-<!ENTITY  underlineLinks.label            "Subliniază legăturile">
+<!ENTITY  underlineLinks.label            "Subliniază linkurile">
 <!ENTITY  underlineLinks.accesskey        "u">
-<!ENTITY  links                           "Culori legături">
+<!ENTITY  links                           "Culori link">
 <!ENTITY  linkColor.label                 "Legături nevizitate:">
 <!ENTITY  linkColor.accesskey             "L">
 <!ENTITY  visitedLinkColor.label          "Legături vizitate:">
