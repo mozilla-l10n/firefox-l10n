@@ -37,13 +37,15 @@
 <!ENTITY helpFeedbackPage.label      "اپنی رائے بھیجیں...">
 <!ENTITY helpFeedbackPage.accesskey  "ب">
 
-
+<!ENTITY helpShowTour2.label            "&brandShorterName; جائزہ">
+<!ENTITY helpShowTour2.accesskey        "ج">
 
 <!ENTITY preferencesCmdMac.label        "ترجیحات ...">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "خدمات">
 
+<!ENTITY hideThisAppCmdMac2.label       "&brandShortName; چھپائیں">
 <!ENTITY hideThisAppCmdMac2.commandkey  "ہے">
 
 <!ENTITY hideOtherAppsCmdMac.label      "دیگر چھپائیں">
