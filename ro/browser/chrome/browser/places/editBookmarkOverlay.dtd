@@ -8,8 +8,8 @@
 <!ENTITY editBookmarkOverlay.location.accesskey              "A">
 <!ENTITY editBookmarkOverlay.feedLocation.label              "Adresa fluxului:">
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "A">
-<!ENTITY editBookmarkOverlay.siteLocation.label              "Adresa saitului:">
-<!ENTITY editBookmarkOverlay.siteLocation.accesskey          "A">
+<!ENTITY editBookmarkOverlay.siteLocation.label              "Adresa site-ului:">
+<!ENTITY editBookmarkOverlay.siteLocation.accesskey          "s">
 <!ENTITY editBookmarkOverlay.folder.label                    "Dosar:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Arată toate dosarele cu semne de carte">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Ascunde">
