@@ -59,7 +59,7 @@
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "أعد التأكيد">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "يُرسل إعادة تأكيد للمنظم">
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "احفظ نسخة">
-<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "احفظ نسخة من الحدث في التقويم، بشكل مستقل عن الر على المنظم. قائمة الحضور ستُمسح.">
+<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "احفظ نسخة من الحدث في التقويم، بشكل مستقل عن الرد على المنظم. قائمة الحضور ستُمسح.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "مبدئي">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "اقبل دعوة الحدث مبدئيًا">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "مبدئيًا للكل">
@@ -82,8 +82,8 @@
 <!ENTITY todaypane.showMinimonth.accesskey "ش">
 <!ENTITY todaypane.showMiniday.label "أظهر يوم مصغّر">
 <!ENTITY todaypane.showMiniday.accesskey  "ي">
-<!ENTITY todaypane.showNone.label "أظهر لا شيئ">
-<!ENTITY todaypane.showNone.accesskey "ل">
+<!ENTITY todaypane.showNone.label "لا تظهر شيء">
+<!ENTITY todaypane.showNone.accesskey "ه">
 <!ENTITY todaypane.showTodayPane.label "أظهر لوحة اليوم">
 <!ENTITY todaypane.showTodayPane.accesskey "ح">
 <!ENTITY todaypane.statusButton.label "لوحة اليوم">
