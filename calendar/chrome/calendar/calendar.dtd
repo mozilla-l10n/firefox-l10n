@@ -173,10 +173,10 @@
 <!ENTITY calendar.context.pasteevent.accesskey        "ص">
 <!ENTITY calendar.context.button.label                "لوحة اليوم" >
 <!ENTITY calendar.context.button.accesskey            "ي" >
-
-
-
-
+<!ENTITY calendar.context.attendance.menu.label       "الحضور" >
+<!ENTITY calendar.context.attendance.menu.accesskey   "ض" >
+<!ENTITY calendar.context.attendance.occurrence.label "هذا التكرار" >
+<!ENTITY calendar.context.attendance.all.label        "كل التكرارات" >
 <!-- Task Context Menu -->
 
 <!ENTITY calendar.context.progress.label              "التقدم">
@@ -331,10 +331,13 @@
 <!ENTITY calendar.publish.publish.button      "انشر">
 <!ENTITY calendar.publish.close.button      "أغلق">
 
+<!ENTITY calendar.publish.example.url.description   "رابط يشبه http://www.myserver.com/webdav/test.ics">
 <!-- Select Calendar Dialog -->
 
 <!ENTITY calendar.select.dialog.title    "اختر تقويمًا">
 <!-- Calendar Printing -->
+
+<!ENTITY calendar.print.window.title "طباعة تقويم">
 <!ENTITY calendar.print.title.label "العنوان:">
 <!ENTITY calendar.print.layout.label "التخطيط:">
 <!ENTITY calendar.print.range.label "ما يجب طباعته">
@@ -359,5 +362,5 @@
 
 <!ENTITY calendar.extract.event.button         "أضفها كحدث">
 <!ENTITY calendar.extract.task.button          "أضفها كمهمة">
-
-
+<!ENTITY calendar.extract.event.button.tooltip "استخرج معلومات التقويم من الرسالة وأضفها إلى تقويمي كحدث">
+<!ENTITY calendar.extract.task.button.tooltip  "استخرج معلومات التقويم من الرسالة وأضفها إلى تقويمي كمهمة">
