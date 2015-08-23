@@ -357,8 +357,8 @@ size. -->
 <!ENTITY pref_titlebar_mode_title "Pokazywanie tytułu strony">
 <!ENTITY pref_titlebar_mode_url "Pokazywanie adresu strony">
 
-<!ENTITY pref_prevent_magnifying_glass "Wyłącz lupę ">
-<!ENTITY pref_prevent_magnifying_glass_summary "Wyłącz użycie lupy do rozstrzygania niejednoznacznych dotknięć ekranu">
+<!ENTITY pref_magnifying_glass_enabled "Powiększanie małych obszarów">
+<!ENTITY pref_magnifying_glass_enabled_summary "Zwiększanie odnośników i pól formularzy po stuknięciu obok nich">
 
 <!ENTITY pref_scroll_title_bar2 "Przeglądanie pełnoekranowe">
 <!ENTITY pref_scroll_title_bar_summary "Ukryj pasek tytułu przeglądarki &brandShortName; przy przewijaniu stron">
