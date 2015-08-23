@@ -9,7 +9,7 @@
 <!ENTITY privatebrowsingpage.title.private       "Está numa janela de navegação privada">
 <!ENTITY privatebrowsingpage.title.normal        "Gostaria de iniciar a navegação privada?">
 
-<!ENTITY privatebrowsingpage.status.private      "O &brandShortName; não memorizará o histórico desta janela.">
+<!ENTITY privatebrowsingpage.status.private      "O &brandShortName; não irá guardar o histórico desta janela.">
 <!ENTITY privatebrowsingpage.status.normal       "Você não está numa janela de navegação privada.">
 
 <!ENTITY privatebrowsingpage.common.description  "Na janela de navegação privada, o &brandShortName; não guarda o histórico de navegação, pesquisa, descargas, formulários, cookies e ficheiros temporários. Contudo, os marcadores criados ou descargas efetuadas serão mantidos.">
