@@ -28,7 +28,7 @@
 <!ENTITY  locbar.searches.label         "Gerelateerde zoekopdrachten van de standaardzoekmachine">
 <!ENTITY  locbar.searches.accesskey     "k">
 
-`<!ENTITY  suggestionSettings.label     "Voorkeuren voor zoekmachinesuggesties wijzigen…">
+<!ENTITY  suggestionSettings.label      "Voorkeuren voor zoekmachinesuggesties wijzigen…">
 <!ENTITY  suggestionSettings.accesskey  "m">
 
 <!ENTITY  acceptCookies.label           "Cookies van websites accepteren">
