@@ -167,7 +167,7 @@
 
 <!ENTITY fxaccount_confirm_account_header "Confirmă contul">
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
-<!ENTITY fxaccount_confirm_account_verification_link "O legătură de verificare a fost trimisă către &formatS;">
+<!ENTITY fxaccount_confirm_account_verification_link "Un link de verificare a fost trimis către &formatS;">
 <!ENTITY fxaccount_confirm_account_resend_email "Retrimite e-mailul">
 <!ENTITY fxaccount_confirm_account_change_email "Uită această adresă de e-mail?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "E-mail de verificare trimis">
