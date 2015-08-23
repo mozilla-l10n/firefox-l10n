@@ -126,8 +126,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "h">
 <!ENTITY fullScreenExit.label "Salir de pantalla completa">
 <!ENTITY fullScreenExit.accesskey "S">
-<!ENTITY fullscreenAllowButton.label "Permitir">
-<!ENTITY fullscreenExitButton.label "Denegar">
 
 <!ENTITY fullscreenExitHint2.value "Pulse ESC en cualquier momento para salir.">
 <!ENTITY leaveDOMFullScreen.label "Salir de pantalla completa">
@@ -692,6 +690,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connectionSecure "Conexión segura">
 <!ENTITY identity.connectionNotSecure "Conexión insegura">
+<!ENTITY identity.connectionFile "Esta página está guardada en su computadora.">
 <!ENTITY identity.connectionVerified "&brandShortName; verificó que está en una conexión segura a este sitio, provisto por:">
 <!ENTITY identity.connectionInternal "Esta es una página de &brandShortName; segura.">
 
@@ -876,8 +875,6 @@ The word "toolbar" is appended automatically and should not be contained below! 
 <!ENTITY processHang.terminateProcess.label       "Matar proceso web">
 <!ENTITY processHang.terminateProcess.accessKey   "w">
 
-<!ENTITY readingList.label                        "Lista de lectura">
-<!ENTITY readingList.sidebar.commandKey           "r">
 <!ENTITY emeLearnMoreContextMenu.label            "Conocer más sobre DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
@@ -885,19 +882,6 @@ The word "toolbar" is appended automatically and should not be contained below! 
 <!ENTITY emeNotificationsNotNow.accesskey         "N">
 <!ENTITY emeNotificationsDontAskAgain.label       "No preguntarme nuevamente">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "o">
-
-<!ENTITY readingList.label                        "Lista de lectura">
-<!ENTITY readingList.sidebar.commandKey           "r">
-<!ENTITY readingList.showSidebar.label            "Mostrar barra lateral de lista de lectura">
-<!-- Pre-landed string for bug 1124153 -->
-<!ENTITY readingList.sidebar.showMore.label       "Mostrar más…">
-<!-- Pre-landed string for bug 1133662 -->
-<!ENTITY readingList.sidebar.emptyText            "Agregue artículos a su lista de lectura para guardarlos y encontrarlos fácilmente cuando los necesite en el futuro.">
-<!-- Pre-landed string for bug 1123525 -->
-<!ENTITY readingList.sidebar.delete.tooltip       "Eliminar de la lista de lectura">
-<!-- Pre-landed strings for bug 1123519 -->
-<!ENTITY readingList.sidebar.add.label            "Agregar a lista de lectura">
-<!ENTITY readingList.sidebar.add.tooltip          "Agregar esta página a la lista de lectura">
 
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 <!ENTITY saveToPocketCmd.label     "Guardar página en Pocket">
