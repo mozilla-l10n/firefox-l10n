@@ -73,7 +73,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.tab.timings): This is the label displayed
   -  in the network details pane identifying the timings tab. -->
-<!ENTITY netmonitorUI.tab.timings         "Horarios">
+<!ENTITY netmonitorUI.tab.timings         "Tiempo">
 
 <!-- LOCALIZATION NOTE (debuggerUI.tab.preview): This is the label displayed
   -  in the network details pane identifying the preview tab. -->

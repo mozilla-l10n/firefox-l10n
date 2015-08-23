@@ -5,6 +5,7 @@
      SYSTEM "chrome://branding/locale/brand.dtd">
    %brandDTD;
 <!ENTITY aboutLogins.title                       "Ingresos">
-<!ENTITY aboutLogins.save                        "Guardar">
-<!ENTITY aboutLogins.emptyLoginText              "Mantené tus ingresos seguros">
-<!ENTITY aboutLogins.emptyLoginHint              "Los ingresos y credenciales que guardás usando &brandShortName; se mostrarán acá.">
+<!ENTITY aboutLogins.update                      "Actualizar">
+<!ENTITY aboutLogins.emptyLoginText              "Mantener los ingresos seguros">
+<!ENTITY aboutLogins.emptyLoginHint              "Los ingresos y credenciales que guardés usando &brandShortName; se mostrarán acá.">
+
