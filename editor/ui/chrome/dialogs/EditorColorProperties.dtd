@@ -14,11 +14,11 @@
 
 <!ENTITY normalText.label "Text normal">
 <!ENTITY normalText.accessKey "n">
-<!ENTITY linkText.label "Text legătură">
+<!ENTITY linkText.label "Text link">
 <!ENTITY linkText.accessKey "l">
-<!ENTITY activeLinkText.label "Text legătură activă">
+<!ENTITY activeLinkText.label "Text link activ">
 <!ENTITY activeLinkText.accessKey "a">
-<!ENTITY visitedLinkText.label "Text legătură vizitată">
+<!ENTITY visitedLinkText.label "Text link vizitat">
 <!ENTITY visitedLinkText.accessKey "v">
 <!ENTITY background.label "Fundal:">
 <!ENTITY background.accessKey "F">

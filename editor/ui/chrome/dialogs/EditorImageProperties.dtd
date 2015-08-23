@@ -64,9 +64,9 @@
 <!ENTITY borderEditField.accessKey "B">
 <!-- These controls are in the Link Box -->
 
-<!ENTITY showImageLinkBorder.label "Afișează cu bordură imaginea cu legături">
+<!ENTITY showImageLinkBorder.label "Afișează cu bordură imaginea cu linkuri">
 <!ENTITY showImageLinkBorder.accessKey "A">
-<!ENTITY LinkAdvancedEditButton.label "Editare avansată a legăturii…">
+<!ENTITY LinkAdvancedEditButton.label "Editare avansată a linkului…">
 <!ENTITY LinkAdvancedEditButton.accessKey "l">
 <!ENTITY LinkAdvancedEditButton.tooltip "Adăugați sau modificați atribute HTML, stiluri, precum și cod JavaScript">
 <!-- These tabs are currently used in the image input dialog -->

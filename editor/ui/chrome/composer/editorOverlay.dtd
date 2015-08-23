@@ -48,10 +48,10 @@
 <!ENTITY insertBreakAllCmd.accesskey "n">
 <!-- Used just in context popup. -->
 
-<!ENTITY createLinkCmd.label "Creează legătură…">
-<!ENTITY createLinkCmd.accesskey "C">
-<!ENTITY editLinkCmd.label "Editează legătura în fereastră nouă Composer">
-<!ENTITY editLinkCmd.accesskey "E">
+<!ENTITY createLinkCmd.label "Creează linkul…">
+<!ENTITY createLinkCmd.accesskey "k">
+<!ENTITY editLinkCmd.label "Editează linkul în fereastră nouă Composer">
+<!ENTITY editLinkCmd.accesskey "t">
 <!-- Font Face SubMenu -->
 
 <!ENTITY FontFaceSelect.tooltip "Alegeți un font">
@@ -305,7 +305,7 @@
 <!ENTITY tableToolbarCmd.label "Tabel">
 <!ENTITY tableToolbarCmd.tooltip "Inserează un nou tabel sau editează proprietățile tabelului selectat">
 <!ENTITY linkToolbarCmd.label "Legătură">
-<!ENTITY linkToolbarCmd.tooltip "Inserează o nouă legătură sau editează proprietățile legăturii selectate">
+<!ENTITY linkToolbarCmd.tooltip "Inserează un nou link sau editează proprietățile linkului selectat">
 <!ENTITY anchorToolbarCmd.label "Ancoră">
 <!ENTITY anchorToolbarCmd.tooltip "Inserează o nouă ancoră cu nume sau editează proprietățile ancorei selectate">
 <!ENTITY TextColorButton.tooltip "Alege culoarea pentru text">
@@ -324,7 +324,7 @@
 <!ENTITY outdentToolbarCmd.tooltip "Scade indentarea textului (mută la stânga)">
 <!ENTITY indentToolbarCmd.tooltip "Crește indentarea textului (mută la dreapta)">
 <!ENTITY AlignPopupButton.tooltip "Alege alinierea textului">
-<!ENTITY InsertPopupButton.tooltip "Inserează legătură, ancoră, imagine, linie orizontală sau tabel">
+<!ENTITY InsertPopupButton.tooltip "Inserează un link, ancoră, imagine, linie orizontală sau tabel">
 <!ENTITY alignLeftButton.tooltip "Aliniază textul la stânga">
 <!ENTITY alignCenterButton.tooltip "Centrează textul">
 <!ENTITY alignRightButton.tooltip "Aliniază textul la dreapta">
