@@ -230,6 +230,7 @@
 <!ENTITY fxaccount_remove_account_toast 'Firefox налог &formatS; је уклоњен.'>
 
 <!ENTITY fxaccount_remove_account_menu_item 'Уклонити налог'>
+<!ENTITY fxaccount_enable_debug_mode 'Омогући отклањање грешака'>
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
@@ -268,4 +269,3 @@
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_finish_migrating_notification_text 'Притисните да се пријавите као &formatS;'>
-
