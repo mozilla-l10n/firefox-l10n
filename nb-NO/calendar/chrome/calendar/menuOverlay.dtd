@@ -35,6 +35,7 @@
 
 <!ENTITY showUnifinderCmd.label                 "Finn hendelser">
 <!ENTITY showUnifinderCmd.accesskey             "h">
+<!ENTITY showUnifinderCmd.tooltip               "Slå av/på finn hendelser">
 
 <!ENTITY calendar.displaytodos.checkbox.label       "Vis oppgaver i kalender">
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "p">
