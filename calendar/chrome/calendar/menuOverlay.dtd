@@ -16,11 +16,11 @@
 <!ENTITY calendar.export.accesskey              "E">
 
 <!ENTITY calendar.publish.label                 "Publiser …">
-<!ENTITY calendar.publish.accesskey             "b">
+<!ENTITY calendar.publish.accesskey             "P">
 
 <!ENTITY calendar.deletecalendar.label          "Slett vald kalender …">
-<!ENTITY calendar.deletecalendar.accesskey      "D">
-<!ENTITY calendar.unsubscribecalendar.label     "Stopp abonnement på valgd kalender …">
+<!ENTITY calendar.deletecalendar.accesskey      "S">
+<!ENTITY calendar.unsubscribecalendar.label     "Stopp abonnement på vald kalender …">
 <!ENTITY calendar.unsubscribecalendar.accesskey "t">
 
 <!-- LOCALIZATION NOTE (calendar.removecalendar.label): Removing the calendar
@@ -35,6 +35,7 @@
 
 <!ENTITY showUnifinderCmd.label                 "Finn hendingar">
 <!ENTITY showUnifinderCmd.accesskey             "F">
+<!ENTITY showUnifinderCmd.tooltip               "Slå søk i hendingar av eller på">
 
 <!ENTITY calendar.displaytodos.checkbox.label       "Vis oppgåver i kalenderen">
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "p">
@@ -45,5 +46,5 @@
 <!ENTITY showCurrentView.label                  "Aktiv vising">
 <!ENTITY showCurrentView.accesskey              "v">
 
-<!ENTITY calendar.properties.label              "Kalendereigenskapar …">
+<!ENTITY calendar.properties.label              "Kalender-eigenskapar …">
 <!ENTITY calendar.properties.accesskey          "K">

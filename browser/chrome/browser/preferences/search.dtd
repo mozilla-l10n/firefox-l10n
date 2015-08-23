@@ -9,6 +9,8 @@
 <!ENTITY provideSearchSuggestions.label        "Tilby søkjeforslag">
 <!ENTITY provideSearchSuggestions.accesskey    "T">
 
+<!ENTITY redirectWindowsSearch.label "Bruk denne søkjemotoren for søk frå Windows">
+<!ENTITY redirectWindowsSearch.accesskey "B">
 
 <!ENTITY oneClickSearchEngines.label           "Eittklikks-søkjemotorar">
 
