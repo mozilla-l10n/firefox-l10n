@@ -220,7 +220,7 @@
 <!ENTITY calendar.context.postpone.1week.label      "1 săptămână">
 <!ENTITY calendar.context.postpone.1week.accesskey  "s">
 
-<!ENTITY calendar.copylink.label       "Copiază adresa legăturii">
+<!ENTITY calendar.copylink.label       "Copiază adresa linkului">
 <!ENTITY calendar.copylink.accesskey   "C">
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
