@@ -9,7 +9,8 @@
 <!ENTITY provideSearchSuggestions.label        "عرضه پیشنهادهای جست‌وجو">
 <!ENTITY provideSearchSuggestions.accesskey    "ج">
 
-
+<!ENTITY showURLBarSuggestions.label           " نمایش نتایج پیشنهادهای جست و‌جو در نوار مکان">
+<!ENTITY showURLBarSuggestions.accesskey       "م">
 
 <!ENTITY redirectWindowsSearch.label "استفاه از از این موتور جست‌و‌جو برای جست‌وجو هایی از این پنجره">
 <!ENTITY redirectWindowsSearch.accesskey "پ">
