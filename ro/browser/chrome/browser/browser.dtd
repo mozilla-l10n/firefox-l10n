@@ -514,8 +514,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveFrameCmd.accesskey       "v">
 <!ENTITY printFrameCmd.label          "Tipărește cadrul…">
 <!ENTITY printFrameCmd.accesskey      "p">
-<!ENTITY saveLinkCmd.label            "Salvează legătura ca…">
-<!ENTITY saveLinkCmd.accesskey        "r">
+<!ENTITY saveLinkCmd.label            "Salvează linkul ca…">
+<!ENTITY saveLinkCmd.accesskey        "k">
 <!ENTITY saveImageCmd.label           "Salvează imaginea ca…">
 <!ENTITY saveImageCmd.accesskey       "v">
 <!ENTITY saveVideoCmd.label           "Salvează clipul ca…">
