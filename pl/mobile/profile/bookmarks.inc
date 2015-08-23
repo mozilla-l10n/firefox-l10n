@@ -25,7 +25,7 @@
 
 # LOCALIZATION NOTE (bookmarks_marketplace):
 # link title for https://marketplace.firefox.com
-#define bookmarks_marketplace Firefox Marketplace: Firefox Marketplace
+#define bookmarks_marketplace Firefox Marketplace
 
 # LOCALIZATION NOTE (bookmarks_restricted_support):
 # link title for https://support.mozilla.org/kb/kids
