@@ -204,7 +204,7 @@ selected to be added to the home page. -->
 <!ENTITY pref_clear_on_exit_dialog_title "Wybierz dane, które chcesz czyścić">
 <!ENTITY pref_plugins "Wtyczki">
 <!ENTITY pref_plugins_enabled "Włączone">
-<!ENTITY pref_plugins_tap_to_play "Dotknij, aby odtworzyć">
+<!ENTITY pref_plugins_tap_to_play "Stuknij, aby odtworzyć">
 <!ENTITY pref_plugins_disabled "Wyłączone">
 <!ENTITY pref_text_size "Rozmiar tekstu">
 <!ENTITY pref_reflow_on_zoom4 "Zmień układ tekstu">
