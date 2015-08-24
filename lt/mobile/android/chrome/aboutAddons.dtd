@@ -10,3 +10,5 @@
 <!ENTITY addonAction.disable                    "Išjungti">
 <!ENTITY addonAction.uninstall                  "Pašalinti">
 <!ENTITY addonAction.undo                       "Atšaukti">
+
+<!ENTITY addonUnsigned.learnMore                "Sužinoti daugiau">

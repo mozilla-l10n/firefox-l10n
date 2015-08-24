@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label "Ką sinchronizuoti">
 <!ENTITY sync.configure.engines.sync.my.title.label "Sinchronizuoti jūsų…">
 <!ENTITY sync.configure.engines.title.bookmarks "Adresyną">
-<!ENTITY sync.configure.engines.title.passwords "Slaptažodžius">
+
 <!ENTITY sync.configure.engines.title.history "Žurnalą">
 <!ENTITY sync.configure.engines.title.tabs "Korteles">
 <!-- Common text -->
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "Privatumo nuostatais">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Sveiki! Čia „&syncBrand.shortName.label;“">
-<!ENTITY fxaccount_getting_started_description "Prisijunkite, jeigu norite sinchronizuoti savo korteles, adresyną, slaptažodžius ir kitką.">
+
 <!ENTITY fxaccount_getting_started_get_started "Pradėti">
 <!ENTITY fxaccount_getting_started_old_firefox "Naudojatės senesne „&syncBrand.shortName.label;“ laida?">
 <!-- Localization note: the Firefox below should not change with the
@@ -212,7 +212,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating "Bakstelėkite, norėdami prisijungti prie savo naujosios „Firefox“ paskyros.">
 <!ENTITY fxaccount_status_bookmarks "Adresynas">
 <!ENTITY fxaccount_status_history "Žurnalas">
-<!ENTITY fxaccount_status_passwords "Slaptažodžiai">
+
 <!ENTITY fxaccount_status_tabs "Atvertos kortelės">
 <!ENTITY fxaccount_status_legal "Teisinė informacija" >
 <!-- Localization note: when tapped, the following two strings link to
@@ -230,6 +230,7 @@
 <!ENTITY fxaccount_remove_account_toast "„Firefox“ paskyra &formatS; pašalinta.">
 
 <!ENTITY fxaccount_remove_account_menu_item "Pašalinti paskyrą">
+
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 
