@@ -5,5 +5,5 @@
 <!ENTITY migration.title "&brandFullName;:استيراد البيانات">
 <!ENTITY migration.welcome "مرحبا">
 <!ENTITY migration.importing "الاستيراد">
-
-
+<!ENTITY migration.list.description "&brandShortName; يمكنه استيراد بيانات التقويم من العديد من التطبيقات المشهورة. عثرتُ على بيانات من التطبيقات الآتية في الحاسوب، لذا من فضلك اختر تلك التي تريد استيراد البيانات منها.">
+<!ENTITY migration.progress.description "يستورد البيانات المحددة">

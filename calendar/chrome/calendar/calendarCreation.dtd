@@ -9,12 +9,13 @@
 <!ENTITY initialpage.computer.label  "في الحاسوب">
 <!ENTITY initialpage.network.label  "في الشبكة">
 
+<!ENTITY locationpage.description         "اكتب المعلومات المطلوبة للوصول إلى التقويم البعيد" >
 <!ENTITY locationpage.login.description   "اختياري: أدخل اسم المستخدم وكلمة السر" >
 <!ENTITY locationpage.username.label      "اسم المستخدم:" >
 <!ENTITY locationpage.password.label      "كلمة السّر:" >
 
 <!ENTITY custompage.shortdescription  "خصص التقويم" >
-
+<!ENTITY custompage.longdescription   "يمكنك تسمية التقويم وتلوين أحداثه من هنا." >
 
 <!ENTITY finishpage.shortdescription  "أُنشئ التقويم" >
 <!ENTITY finishpage.longdescription   "لقد أُنشئ التقويم." >

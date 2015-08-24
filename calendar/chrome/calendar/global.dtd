@@ -19,12 +19,13 @@
 
 
 
-
-
-
-
-
-
+<!ENTITY day.1.name "الأحد" >
+<!ENTITY day.2.name "الإثنين" >
+<!ENTITY day.3.name "الثلاثاء" >
+<!ENTITY day.4.name "الأربعاء" >
+<!ENTITY day.5.name "الخميس" >
+<!ENTITY day.6.name "الجمعة" >
+<!ENTITY day.7.name "السبت" >
 
 
 
