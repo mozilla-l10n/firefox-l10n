@@ -5,7 +5,7 @@
 <!ENTITY window.title                 "Excepții">
 <!ENTITY window.width                 "50em">
 
-<!ENTITY treehead.sitename.label      "Sait">
+<!ENTITY treehead.sitename.label      "Site">
 <!ENTITY treehead.status.label        "Stare">
 <!ENTITY removepermission.label       "Elimină site-ul">
 <!ENTITY removepermission.accesskey   "l">

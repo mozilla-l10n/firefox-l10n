@@ -530,9 +530,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "Trimite e-mail cu fișierul audio…">
 <!ENTITY emailAudioCmd.accesskey      "a">
-<!ENTITY playPluginCmd.label          "Activează acest modul">
+<!ENTITY playPluginCmd.label          "Activează acest plugin">
 <!ENTITY playPluginCmd.accesskey      "c">
-<!ENTITY hidePluginCmd.label          "Ascunde acest modul">
+<!ENTITY hidePluginCmd.label          "Ascunde acest plugin">
 <!ENTITY hidePluginCmd.accesskey      "l">
 <!ENTITY copyLinkCmd.label            "Copiază adresa linkului">
 <!ENTITY copyLinkCmd.accesskey        "C">
@@ -817,7 +817,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pluginActivateNow.label "Permite acum">
 <!ENTITY pluginActivateAlways.label "Permite și ține minte">
-<!ENTITY pluginBlockNow.label "Blochează modulul">
+<!ENTITY pluginBlockNow.label "Blochează pluginul">
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
      blocked on a page. Should be wide enough to fit the pluginActivateNow.label
@@ -859,7 +859,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY processHang.terminateScript.accessKey    "s">
 <!ENTITY processHang.debugScript.label            "Depanare script">
 <!ENTITY processHang.debugScript.accessKey        "D">
-<!ENTITY processHang.terminatePlugin.label        "Oprește modulul">
+<!ENTITY processHang.terminatePlugin.label        "Oprește pluginul">
 <!ENTITY processHang.terminatePlugin.accessKey    "p">
 <!ENTITY processHang.terminateProcess.label       "Oprește procesul web">
 <!ENTITY processHang.terminateProcess.accessKey   "w">

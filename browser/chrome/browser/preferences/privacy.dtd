@@ -29,14 +29,14 @@
 
 
 
-<!ENTITY  acceptCookies.label           "Acceptă cookie-uri de la saituri">
+<!ENTITY  acceptCookies.label           "Acceptă cookie-uri de la site-uri">
 <!ENTITY  acceptCookies.accesskey       "A">
 
 <!ENTITY  acceptThirdParty.pre.label      "Acceptă cookie-uri terțe:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "k">
 <!ENTITY  acceptThirdParty.always.label   "Întotdeauna">
 <!ENTITY  acceptThirdParty.never.label    "Niciodată">
-<!ENTITY  acceptThirdParty.visited.label  "De la saiturile vizitate">
+<!ENTITY  acceptThirdParty.visited.label  "De la site-urile vizitate">
 
 <!ENTITY  keepUntil.label               "Păstrează-le până când:">
 <!ENTITY  keepUntil.accesskey           "P">
@@ -58,7 +58,7 @@
 <!ENTITY  historyHeader.custom.label       "Folosi setări personalizate pentru istoric">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; va memora istoricul navigării, al descărcărilor, al formularelor și al căutărilor și va păstra cookie-urile de la saiturile vizitate.">
+<!ENTITY  rememberDescription.label      "&brandShortName; va memora istoricul navigării, al descărcărilor, al formularelor și al căutărilor și va păstra cookie-urile de la site-urile vizitate.">
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->

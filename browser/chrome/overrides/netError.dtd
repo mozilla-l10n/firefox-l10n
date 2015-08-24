@@ -49,7 +49,7 @@ că &brandShortName; are permisiunea de a accesa webul.</li>
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Document expirat">
-<!ENTITY notCached.longDesc "<p>Documentul cerut nu mai este disponibil în memoria temporară creată de &brandShortName;.</p><ul><li>Ca o măsură de siguranță, &brandShortName; nu cere din nou automat documente ce par a fi confidențiale.</li><li>Clic pe Încearcă din nou pentru a cere din nou documentul de la saitul de unde provine.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Documentul cerut nu mai este disponibil în memoria temporară creată de &brandShortName;.</p><ul><li>Ca o măsură de siguranță, &brandShortName; nu cere din nou automat documente ce par a fi confidențiale.</li><li>Clic pe Încearcă din nou pentru a cere din nou documentul de la site-ul de unde provine.</li></ul>">
 
 <!ENTITY netOffline.title "Mod offline">
 <!ENTITY netOffline.longDesc2 "<ul> 
@@ -128,14 +128,14 @@ dumneavoastră.</li>
 că &brandShortName; are permisiunea de a accesa webul.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "Sait suspect de atacuri!">
-<!ENTITY malwareBlocked.longDesc "<p>Saiturile de atac încearcă să instaleze programe sau să fure informații private, folosind calculatorul dumneavoastră pentru a ataca altele sau provocând pagube calculatorului dumneavoastră.</p> 
-<p>Proprietarii saiturilor web care cred că saitul lor a fost raportat ca unul de atac dintr-o greșeală pot <a href='http://www.stopbadware.org/home/reviewinfo' >cere o recenzie</a>.</p>">
+<!ENTITY malwareBlocked.title "Site suspectat de atacuri!">
+<!ENTITY malwareBlocked.longDesc "<p>Site-urile de atac încearcă să instaleze programe care fură informații private, vă folosesc calculatorul pentru a ataca altele sau pentru a vă provoca pagube sistemului.</p> 
+<p>Proprietarii site-urilor web care cred că site-ul lor a fost raportat ca unul de atac dintr-o greșeală pot <a href='http://www.stopbadware.org/home/reviewinfo' >cere o revizuire</a>.</p>">
 
-<!ENTITY unwantedBlocked.title "Sait cu programe nedorite suspectat!">
+<!ENTITY unwantedBlocked.title "Site cu programe nedorite suspectat!">
 <!ENTITY unwantedBlocked.longDesc "<p>Paginile cu programe nedorite încearcă să instaleze programe care pot fi înșelătoare și vă afectează sistemul în moduri neașteptate.</p>">
 
-<!ENTITY phishingBlocked.title "Sait suspectat de fals!">
+<!ENTITY phishingBlocked.title "Site suspectat de fals!">
 <!ENTITY phishingBlocked.longDesc "<p>Introducerea de informații personale pe această pagină ar putea rezulta în furt de identitate sau altă fraudă.</p> 
 <p>Aceste tipuri de falsuri web sunt folosite în păcăleli cunoscute ca atacuri de tip „phishing”, în care pagini și e-mailuri frauduloase sunt folosite pentru a imita surse în care aveți încredere.</p>">
 
