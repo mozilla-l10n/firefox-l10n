@@ -862,7 +862,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY processHang.terminatePlugin.label        "Oprește pluginul">
 <!ENTITY processHang.terminatePlugin.accessKey    "p">
 <!ENTITY processHang.terminateProcess.label       "Oprește procesul web">
-<!ENTITY processHang.terminateProcess.accessKey   "w">
+<!ENTITY processHang.terminateProcess.accessKey   "l">
 
 <!ENTITY emeLearnMoreContextMenu.label            "Aflați mai multe despre DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
