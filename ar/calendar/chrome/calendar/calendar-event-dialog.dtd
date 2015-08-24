@@ -331,9 +331,9 @@
 
 <!ENTITY invite.title.label                     "دعوة الحضور">
 <!ENTITY event.organizer.label                  "المنظّم">
-
-
-
+<!ENTITY event.freebusy.suggest.slot            "فتحة الوقت المُقترح:">
+<!ENTITY event.freebusy.button.next.slot        "الفتحة التالية">
+<!ENTITY event.freebusy.button.previous.slot    "الفتحة السابقة">
 <!ENTITY event.freebusy.zoom                    "التقريب:">
 <!ENTITY event.freebusy.legend.free             "متفرّغ" >
 <!ENTITY event.freebusy.legend.busy             "مشغول" >
