@@ -6,13 +6,18 @@
 <!-- Localisation note: the plus sign here is a shorthand way of expressing the word "and". Contextually the privatebrowsingpage.title.private string
                         is used as a title, with the privatebrowsingpage.title string preceding it but on a separate line.
                         So the final line will say "Private Browsing + Tracking Protection". -->
+
+<!ENTITY privatebrowsingpage.title.private "+ apsauga nuo stebėjimo">
 <!-- Localization note (privatebrowsingpage.title.normal1): "Private Browsing"
      is capitalized in English to be consistent with our existing uses of the
      term. -->
+<!ENTITY privatebrowsingpage.title.normal1 "Jūs nesate privačiajame naršyme">
 
+<!ENTITY privatebrowsingpage.description.private3 "„Firefox“ neleis jūsų stebėti ir neįsimins jokios istorijos, tačiau parsisiųsti failai ir nauji adresyno įrašai vistiek liks išsaugoti jūsų įrenginyje.">
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing" is capitalized in English to be consistent with our existing uses
      of the term. -->
+<!ENTITY privatebrowsingpage.description.normal2 "Privačiojo naršymo režime mes nepaliksime jokios naršymo istorijos ar slapukų. Tačiau jei pridėsite įrašų į adresyną ar siųsitės failų, jie vistiek liks išsaugoti jūsų įrenginyje.">
 
 <!ENTITY privatebrowsingpage.link.private "Norite sužinoti daugiau?">
-
+<!ENTITY privatebrowsingpage.link.normal "Atverti naują privačiąją kortelę">

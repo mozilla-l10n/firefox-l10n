@@ -5,5 +5,5 @@
    %brandDTD;
 <!ENTITY aboutLogins.title                       "Prisijungimai">
 <!ENTITY aboutLogins.update                      "Pakeisti">
-
-
+<!ENTITY aboutLogins.emptyLoginText              "Laikykite savo slaptažodžius saugiai">
+<!ENTITY aboutLogins.emptyLoginHint              "Prisijungimų duomenys, kuriuos išsaugote naudojantis „&brandShortName;“, atsiras čia.">
