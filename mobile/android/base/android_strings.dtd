@@ -10,6 +10,7 @@
 <!ENTITY  onboard_start_subtext3 "Padarykite savo mobilųjį naršymą labiau asmenišku.">
 <!ENTITY  onboard_start_button_account "Jungtis prie „&brandShortName;“">
 <!ENTITY  onboard_start_button_browser "Pradėti naršymą">
+<!ENTITY  onboard_start_restricted1 "Būkite saugūs su šia supaprastinta „&brandShortName;“ versija.">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -44,6 +45,10 @@
 <!ENTITY bookmark "Įtraukti į adresyną">
 <!ENTITY bookmark_remove "Pašalinti adresą">
 <!ENTITY bookmark_added "Tinklalapis įtrauktas į adresyną">
+<!-- Localization note (bookmark_already_added) : This string is
+     used as a label in a toast. It is the verb "to bookmark", not
+     the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "Jau yra adresyne">
 <!ENTITY bookmark_removed "Tinklalapis pašalintas iš adresyno">
 <!ENTITY bookmark_updated "Adresyno įrašas atnaujintas">
 <!ENTITY bookmark_options "Savybės">
@@ -64,6 +69,8 @@
 <!ENTITY edit_mode_cancel "Atsisakyti">
 
 <!ENTITY close_tab "Užverti kortelę">
+<!ENTITY tab_audio_playing "Šioje kortelėje aktyvus garsas">
+<!ENTITY tab_audio_muted "Ši kortelė buvo nutildyta">
 <!ENTITY one_tab "1 kortelė">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -77,6 +84,7 @@
 
 <!ENTITY settings "Nuostatos">
 <!ENTITY settings_title "Nuostatos">
+<!ENTITY pref_category_input_options "Įvesties parinktys">
 <!ENTITY pref_category_advanced "Kitkas">
 <!ENTITY pref_category_customize "Individualizavimas">
 <!ENTITY pref_category_customize_summary "Pradžia, paieška, kortelės, importavimas">
@@ -132,7 +140,7 @@
 <!ENTITY pref_category_display "Rodymas">
 <!ENTITY pref_category_display_summary "Tekstas, antraštės juosta, naršymas visame ekrane">
 <!ENTITY pref_category_privacy_short "Privatumas">
-<!ENTITY pref_category_privacy_summary "Valdykite slaptažodžius, slapukus, stebėjimą, duomenis">
+<!ENTITY pref_category_privacy_summary2 "Valdykite slaptažodžius, slapukus, stebėjimą, duomenis">
 <!ENTITY pref_category_vendor "„&vendorShortName;“">
 <!ENTITY pref_category_vendor_summary "Apie „&brandShortName;“, DUK, duomenų siuntimą">
 <!ENTITY pref_category_datareporting "Duomenų siuntimas">
@@ -150,8 +158,13 @@
 <!ENTITY pref_search_hint "Patarimas: bet kurią svetainę galite pridėti kaip ieškyklę, palaikydami nuspaustą jos paieškos lauką, o tada bakstelėdami &formatI; piktogramą.">
 <!ENTITY pref_category_devtools "Programuotojų priemonės">
 <!ENTITY pref_developer_remotedebugging "Nuotolinis derinimas">
+<!ENTITY pref_developer_remotedebugging_usb "Nuotolinis derinimas per USB">
+<!ENTITY pref_developer_remotedebugging_wifi "Nuotolinis derinimas per Wi-Fi">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Derinimui per Wi-Fi reikia jūsų įrenginyje turėti QR kodo skaitlį.">
 <!ENTITY pref_category_logins "Prisijungimai">
-<!ENTITY pref_remember_signons "Įsiminti slaptažodžius">
+<!ENTITY pref_remember_signons2 "Įsiminti prisijungimus">
+<!ENTITY pref_open_external_urls_privately_title "Atverti saitus privačiojo naršymo režime">
+<!ENTITY pref_open_external_urls_privately_summary "Visiem per „&brandShortName;“ atvertiems išoriniams saitams">
 <!ENTITY pref_manage_logins "Tvarkyti prisijungimus">
 
 <!ENTITY pref_category_home "Pradžia">
@@ -185,15 +198,19 @@
 <!ENTITY pref_cookies_disabled "Neleidžiami">
 
 <!ENTITY pref_tracking_protection_title "Apsauga nuo stebėjimo">
-<!ENTITY pref_tracking_protection_summary "„&brandShortName;“ neleis svetainėms jūsų sekti">
+<!ENTITY pref_tracking_protection_summary3 "Įjungta privačiame naršyme">
 <!ENTITY pref_donottrack_title "Nestebėti">
 <!ENTITY pref_donottrack_summary "&brandShortName; praneš svetainėms, kad jūs nenorite būti stebimi">
 
-<!ENTITY tab_queue_toast_message2 "Kortelė laukia „&brandShortName;“ eilėje">
+<!ENTITY tracking_protection_prompt_title "Dabar ir su apsauga nuo stebėjimo">
+
+
+
+
 <!ENTITY tab_queue_toast_action "Atverti dabar">
 <!ENTITY tab_queue_prompt_title "Atveriate kelias nuorodas?">
-<!ENTITY tab_queue_prompt_text2 "Atverkite jas nepereidami į „&brandShortName;“ kiekvieną kartą.">
-<!ENTITY tab_queue_prompt_tip_text "vėliau tai galėsite pakeisti „Nuostatose“">
+
+
 <!ENTITY tab_queue_prompt_positive_action_button "Įjungti">
 <!ENTITY tab_queue_prompt_negative_action_button "Ne dabar">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
@@ -245,9 +262,13 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "Visada įgalinti artinimą">
 <!ENTITY pref_zoom_force_enabled_summary "Priverstinai įgalinti artinimą visuose tinklalapiuose">
 
+
+
+
+
 <!ENTITY pref_use_master_password "Naudoti pagrindinį slaptažodį">
 <!ENTITY pref_sync "Sinchronizavimas">
-<!ENTITY pref_sync_summary "Sinchronizuokite korteles, adresyną, slaptažodžius, istoriją">
+
 <!ENTITY pref_search_suggestions "Rodyti paieškos žodžių siūlymus">
 <!ENTITY pref_import_android "Importuoti iš „Android“">
 <!ENTITY pref_import_android_summary "Importuoti adresyną ir istoriją iš standartinės naršyklės">
@@ -255,11 +276,12 @@ size. -->
 <!ENTITY pref_private_data_searchHistory "Paieškos istorija">
 <!ENTITY pref_private_data_formdata2 "Formų istorija">
 <!ENTITY pref_private_data_cookies2 "Slapukai ir esami prisijungimai">
-<!ENTITY pref_private_data_passwords "Įrašyti slaptažodžiai">
+
 <!ENTITY pref_private_data_cache "Podėlis">
 <!ENTITY pref_private_data_offlineApps "Duomenys darbui neprisijungus">
 <!ENTITY pref_private_data_siteSettings2 "Svetainių nuostatos">
 <!ENTITY pref_private_data_downloadFiles2 "Atsiuntimai">
+
 
 
 <!ENTITY pref_about_firefox "Apie „&brandShortName;“">
@@ -318,7 +340,6 @@ size. -->
 <!ENTITY addons "Priedai">
 <!ENTITY logins "Prisijungimai">
 <!ENTITY downloads "Atsiuntimai">
-<!ENTITY apps "Programos">
 <!ENTITY char_encoding "Simbolių koduotė">
 
 <!ENTITY share "Dalintis tinklalapiu">
@@ -380,9 +401,17 @@ size. -->
 <!ENTITY doorhanger_login_edit_toggle "Rodyti slaptažodį">
 <!ENTITY doorhanger_login_edit_toast_error "Nepavyko išsaugoti prisijungimo">
 
+
+
+
+
+
 <!ENTITY pref_titlebar_mode "Antraštės juosta">
 <!ENTITY pref_titlebar_mode_title "Rodyti tinklalapio antraštę">
 <!ENTITY pref_titlebar_mode_url "Rodyti tinklalapio adresą">
+<!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
+     whether or not the magnifying glass is disabled. -->
+
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -390,7 +419,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "Nerodyti „&brandShortName;“ antraštės juostos, slenkant tinklalapį žemyn">
 
 <!ENTITY pref_tab_queue_title2 "Atverti kelias nuorodas">
-<!ENTITY pref_tab_queue_summary2 "Pridėti saitus į laukimo eilę vietoj perėjimo į „&brandShortName;“ kiekvieną kartą">
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -408,8 +437,8 @@ size. -->
 <!ENTITY site_settings_cancel       "Atsisakyti">
 <!ENTITY site_settings_clear        "Išvalyti">
 <!ENTITY site_settings_no_settings  "Valytinų nuostatų nėra.">
-
-<!ENTITY reading_list_added "Tinklalapis įtrauktas į skaitinių sąrašą">
+<!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
+     as possible. -->
 <!ENTITY reading_list_removed "Tinklalapis pašalintas iš skaitinių sąrašo">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -438,7 +467,7 @@ size. -->
 <!ENTITY button_clear_data "Valyti duomenis">
 <!ENTITY button_set "Nustatyti">
 <!ENTITY button_clear "Išvalyti">
-<!ENTITY button_remember "Prisiminti">
+<!ENTITY button_copy "Kopijuoti">
 
 <!ENTITY firstrun_panel_title_welcome "Sveiki">
 
@@ -502,10 +531,6 @@ size. -->
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Rodyti pasirinktus įrenginius">
 
-<!ENTITY private_browsing_title "Privatusis naršymas">
-<!ENTITY private_tabs_panel_empty_desc "Čia bus rodomos jūsų privačiosios kortelės. Nors programa nesaugo privačiojo naršymo žurnalo ir slapukų, jo metu sukurti adresyno įrašai ir parsiųsti failai lieka jūsų įrenginyje.">
-<!ENTITY private_tabs_panel_learn_more "Norite sužinoti daugiau?">
-
 <!ENTITY remote_tabs_panel_moved_title "Kur dingo mano kortelės?">
 <!ENTITY remote_tabs_panel_moved_desc "Mes perkėlėme jūsų korteles iš kitų įrenginių į skydelį jūsų pradžios tinklalapyje, kuris gali būti lengvai pasiekiamas kiekvieną kart atveriant naują kortelę.">
 <!ENTITY remote_tabs_panel_moved_link "Eiti į mano naująjį skydelį.">
@@ -530,20 +555,20 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_run_by "kurią valdo">
-<!ENTITY identity_no_info "Ši svetainė nepateikia tapatybės duomenų.">
-<!ENTITY identity_not_encrypted "Jūsų ryšys su šia svetaine nėra šifruotas.">
+
 <!-- Mixed content notifications in site identity popup -->
+
+
+
 
 <!ENTITY loaded_mixed_content_message "Šiame tinklalapyje esama įkelto neapsaugoto turinio.">
 <!ENTITY blocked_mixed_content_message_top "„&brandShortName;“ užblokavo neapsaugotą turinį.">
 <!ENTITY blocked_mixed_content_message_bottom "Dauguma svetainių veikia korektiškai net kai šis turinys blokuojamas.">
 <!-- Tracking content notifications in site identity popup -->
 
-<!ENTITY loaded_tracking_content_message_top "Apsauga nuo stebėjimo išjungta.">
-<!ENTITY loaded_tracking_content_message_bottom "Kai kurios šio tinklalapio dalys gali stebėti jūsų atliekamus veiksmus.">
-<!ENTITY blocked_tracking_content_message_top2 "Apsauga nuo stebėjimo įjungta.">
-<!ENTITY blocked_tracking_content_message_bottom2 "Buvo užblokuotos tam tikros tinklalapio dalys, kurios stebėtų jūsų atliekamus veiksmus.">
+
+
+
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "Sužinoti daugiau">
@@ -599,7 +624,7 @@ iš „Android“">
 <!ENTITY guest_session_dialog_continue "Tęsti">
 <!ENTITY guest_session_dialog_cancel "Atsisakyti">
 <!ENTITY new_guest_session_title "Dabar „&brandShortName;“ bus paleista iš naujo">
-<!ENTITY new_guest_session_text "Asmuo, kuris ja naudosis, nematys jokių jūsų asmeninių naršymo duomenų (įrašytų slaptažodžių, žurnalo, adresyno ir kitų).\n\nJūsų svečiui baigus naršymą, bus pašalinti jo naršymo duomenys ir atkurtas, jūsų naršymo seansas.">
+
 <!ENTITY guest_browsing_notification_title "Svečio naršymas įjungtas">
 <!ENTITY guest_browsing_notification_text "Bakstelėkite, norėdami išeiti">
 
@@ -629,10 +654,6 @@ iš „Android“">
 <!-- Voice search in the awesome bar -->
 
 <!ENTITY voicesearch_prompt "Kalbėkite dabar">
-<!ENTITY voicesearch_failed_title "„&brandShortName;“ paieška balsu">
-<!ENTITY voicesearch_failed_message "Šiuo metu yra problemų su paieška balsu. Prašome pabandyti vėliau.">
-<!ENTITY voicesearch_failed_message_recoverable "Atsiprašome! Mums nepavyko suprasti jūsų žodžių. Pabandykite dar kartą.">
-<!ENTITY voicesearch_failed_retry "Bandyti dar kartą">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -648,3 +669,23 @@ iš „Android“">
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
 
 <!ENTITY find_matchcase "Aa">
+
+<!-- DevTools Authentication -->
+<!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
+     above a QR reader that is actively scanning for QR codes.  The expected QR
+     code has already been displayed by the client trying to connect (such as
+     desktop Firefox via WebIDE), so you just need to aim this device at the QR
+     code. -->
+<!-- Restrictions -->
+<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+     a restricted profile (e.g. child). Used inside the Android settings UI. -->
+
+
+
+
+
+
+
+
+
+
