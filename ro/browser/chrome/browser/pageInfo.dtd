@@ -56,7 +56,7 @@
 <!ENTITY  permAllowSession      "Permite pentru sesiune">
 <!ENTITY  permBlock             "Blochează">
 <!ENTITY  permissionsFor        "Permisiuni pentru:">
-<!ENTITY  permPlugins           "Activează modulele">
+<!ENTITY  permPlugins           "Activează pluginurile">
 
 <!ENTITY  permClearStorage           "Curăță datele stocate">
 <!ENTITY  permClearStorage.accesskey "C">
@@ -70,7 +70,7 @@
 
 <!ENTITY  securityView.identity.header   "Identitate a site-ului web">
 <!ENTITY  securityView.identity.owner    "Proprietar:">
-<!ENTITY  securityView.identity.domain   "Sait web:">
+<!ENTITY  securityView.identity.domain   "Site web:">
 <!ENTITY  securityView.identity.verifier "Verificat de:">
 
 <!ENTITY  securityView.privacy.header                   "Confidențialitate și istoric">

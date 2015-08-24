@@ -60,7 +60,7 @@ that require it.  -->
 <!ENTITY itemOfflineApps.accesskey         "o">
 <!ENTITY itemActiveLogins.label            "Autentificările active">
 <!ENTITY itemActiveLogins.accesskey        "l">
-<!ENTITY itemSitePreferences.label         "Preferințele pentru saituri">
+<!ENTITY itemSitePreferences.label         "Preferințele pentru site-uri">
 <!ENTITY itemSitePreferences.accesskey     "s">
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI

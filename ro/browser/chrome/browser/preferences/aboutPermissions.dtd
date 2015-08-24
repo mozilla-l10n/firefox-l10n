@@ -4,7 +4,7 @@
 
 <!ENTITY permissionsManager.title        "Gestionar de permisiuni">
 
-<!ENTITY sites.search                    "Saituri căutate">
+<!ENTITY sites.search                    "Caută site-uri">
 <!ENTITY sites.allSites                  "Toate site-urile">
 <!-- LOCALIZATION NOTE (permissions.header.start, permissions.header.end): These strings
      surround the host name of the site to make the header for the permissions page.
@@ -33,7 +33,7 @@
 
 <!ENTITY geo.label                       "Împărtășește locația">
 
-<!ENTITY plugins.label                   "Module">
+<!ENTITY plugins.label                   "Pluginuri">
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
 
