@@ -3,14 +3,21 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY privatebrowsingpage.title "Privat surfning">
-<!ENTITY privatebrowsingpage.title.normal "Du surfar inte i privat läge">
+<!-- Localisation note: the plus sign here is a shorthand way of expressing the word "and". Contextually the privatebrowsingpage.title.private string
+                        is used as a title, with the privatebrowsingpage.title string preceding it but on a separate line.
+                        So the final line will say "Private Browsing + Tracking Protection". -->
 
-<!ENTITY privatebrowsingpage.issueDesc.normal2 "I privat surfläge, kommer vi inte spara någon av din webbhistorik eller kakor.">
-<!ENTITY privatebrowsingpage.issueDesc.private2 "Vi kommer inte spara något av din surf historik eller kakor.">
+<!ENTITY privatebrowsingpage.title.private "+ Spårnings skydd">
+<!-- Localization note (privatebrowsingpage.title.normal1): "Private Browsing"
+     is capitalized in English to be consistent with our existing uses of the
+     term. -->
+<!ENTITY privatebrowsingpage.title.normal1 "Du surfar inte i privat läge">
 
-<!ENTITY privatebrowsingpage.description2 "Bokmärken du har lagt till och filer du har laddat hem kommer fortfarande sparas på din enhet.">
-<!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
-<!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
+<!ENTITY privatebrowsingpage.description.private3 "Firefox kommer att hindra dig från att spåras och kommer inte ihåg något historia, men hämtade filer och nya bokmärken kommer fortfarande att sparas till enheten.">
+<!-- Localization note (privatebrowsingpage.description.normal2): "Private
+     Browsing" is capitalized in English to be consistent with our existing uses
+     of the term. -->
+<!ENTITY privatebrowsingpage.description.normal2 "I privat surfning, kommer vi inte att hålla någon av dina webbhistorik eller kakor. Bokmärken du lägga till och filer du laddar ner kommer fortfarande att sparas på din enhet.">
 
 <!ENTITY privatebrowsingpage.link.private "Vill du veta mer?">
 <!ENTITY privatebrowsingpage.link.normal "Öppna en ny privat flik ">
