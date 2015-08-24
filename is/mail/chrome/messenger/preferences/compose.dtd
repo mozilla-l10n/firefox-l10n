@@ -2,54 +2,52 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY itemGeneral.label "Almennt">
-<!ENTITY itemAutoComplete.label "Póstföng">
-<!ENTITY itemSpellCheck.label "Stafsetning">
-<!ENTITY dialogCompose.title "Ritun">
-<!ENTITY forwardMsg.label "Áframsenda póst:">
-<!ENTITY forwardMsg.accesskey "f">
-<!ENTITY inline.label "Innfellt">
-<!ENTITY asAttachment.label "Sem viðhengi">
-<!ENTITY addExtension.label "bæta skráarendingu við skráarnafn">
-<!ENTITY addExtension.accesskey "b">
-<!ENTITY htmlComposeHeader.label "HTML">
-<!ENTITY font.label "Letur:">
-<!ENTITY font.accesskey "L">
-<!ENTITY size.label "Stærð:">
-<!ENTITY size.accesskey "S">
-<!ENTITY fontColor.label "Stilla lit texta:">
-<!ENTITY fontColor.accesskey "x">
-<!ENTITY bgColor.label "Bakgrunnslitur:">
-<!ENTITY bgColor.accesskey "g">
-<!ENTITY restoreHTMLDefaults.label "Endurstilla sjálfgefin gildi">
-<!ENTITY restoreHTMLDefaults.accesskey "r">
-<!ENTITY spellCheck.label "Athuga stafsetningu áður en póstur er sendur">
-<!ENTITY spellCheck.accesskey "A">
-<!ENTITY spellCheckInline.label "Virkja leiðréttingu á stafsetningu fyrir innsleginn texta">
-<!ENTITY spellCheckInline1.accesskey "k">
-<!ENTITY languagePopup.label "Tungumál:">
-<!ENTITY languagePopup.accessKey "g">
-<!ENTITY downloadDictionaries.label "Hlaða niður fleiri orðabókum">
-<!ENTITY warnOnSendAccelKey.label "Staðfesta að senda póst þegar notað er lyklaborðsflýtivísun">
-<!ENTITY warnOnSendAccelKey.accesskey "i">
-<!ENTITY autoSave.label "Vista sjálfkrafa á">
-<!ENTITY autoSave.accesskey "V">
-<!ENTITY autoSaveEnd.label "mínútna fresti">
-<!ENTITY emailCollectionPicker.label "Bæta sjálfkrafa útsendum póst í:">
-<!ENTITY emailCollectionPicker.accesskey "t">
-<!ENTITY addressingTitle.label "Sjálfvirk útfylling fyrir póstfang">
-<!ENTITY autocompleteText.label "Þegar slegið er inn póstfang, leita að samsvörun í:">
-<!ENTITY addressingEnable.label "Staðbundnar nafnaskrár">
-<!ENTITY addressingEnable.accesskey "a">
-<!ENTITY directories.label "Netfangaþjónn:">
-<!ENTITY directories.accesskey "N">
-<!ENTITY directoriesNone.label "Engar">
-<!ENTITY editDirectories.label "Breyta netfangaþjónum…">
-<!ENTITY editDirectories.accesskey "e">
-<!ENTITY sendOptionsDescription.label "Skilgreina hegðun textasniðs">
-<!ENTITY sendOptions.label "Sendingarkostir…">
-<!ENTITY sendOptions.accesskey "k">
-<!ENTITY attachmentReminder.label "Athuga hvort viðhengi vantar">
-<!ENTITY attachmentReminder.accesskey "v">
-<!ENTITY attachmentReminderOptions.label "Stikkorð…">
-<!ENTITY attachmentReminderOptions.accesskey "k">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

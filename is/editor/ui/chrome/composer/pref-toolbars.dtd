@@ -2,33 +2,31 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pref.toolbars.title "Verkfæraslár">
-<!ENTITY composition.caption "Sýna þessa hnappa á samsetningar verkfæraslánni:">
-<!ENTITY new.label "Nýtt">
-<!ENTITY open.label "Opna">
-<!ENTITY save.label "Vista">
-<!ENTITY publish.label "Gefa út">
-<!ENTITY preview.label "Skoða">
-<!ENTITY cut.label "Klippa">
-<!ENTITY copy.label "Afrita">
-<!ENTITY paste.label "Líma">
-<!ENTITY print.label "Prenta">
-<!ENTITY find.label "Leita">
-<!ENTITY image.label "Mynd">
-<!ENTITY hline.label "Ló. Lína">
-<!ENTITY table.label "Tafla">
-<!ENTITY link.label "Tengill">
-<!ENTITY anchor.label "Markstikla">
-<!ENTITY formatting.caption "Sýna þessa hnappa á útlits verkfæraslánni:">
-<!ENTITY smaller.label "Minna">
-<!ENTITY larger.label "Stærra">
-<!ENTITY bold.label "Feitletrað">
-<!ENTITY bullets.label "Áherslumerki">
-<!ENTITY numbers.label "Tölur">
-<!ENTITY italic.label "Skáletrað">
-<!ENTITY outdent.label "Útdráttur">
-<!ENTITY indent.label "Draga inn">
-<!ENTITY underline.label "Undirstrikað">
-<!ENTITY absolutePosition.label "Algild staðsetning">
-<!ENTITY decreaseZIndex.label "Senda á bakvið">
-<!ENTITY increaseZIndex.label "Setja fremst">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
