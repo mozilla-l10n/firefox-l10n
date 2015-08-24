@@ -228,7 +228,7 @@
 <!ENTITY pref_clear_on_exit_title2 "Curăță la ieșire">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; va curăța automat datele de fiecare dată când selectezi \u201EIeși\u201D din meniul principal">
 <!ENTITY pref_clear_on_exit_dialog_title "Selectează ce date să ștergi">
-<!ENTITY pref_plugins "Module">
+<!ENTITY pref_plugins "Pluginuri">
 <!ENTITY pref_plugins_enabled "Activate">
 <!ENTITY pref_plugins_tap_to_play "Apasă pentru redare">
 <!ENTITY pref_plugins_disabled "Dezactivate">
