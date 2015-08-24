@@ -2,32 +2,30 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY dialog.title "Sendingarkostir">
-<!ENTITY sendMail.title "Textaform">
-<!ENTITY sendMaildesc.label "Þegar verið er að senda póst á HTML formi og einn eða fleiri viðtakendur eru ekki skilgreindir þannig að þeir geti tekið á móti HTML:">
-<!ENTITY askMe.label "Spyrja hvað gera skal">
-<!ENTITY askMe.accesskey "k">
-<!ENTITY convertPlain.label "Breyta pósti yfir í ósniðinn texta">
-<!ENTITY convertPlain.accesskey "B">
-<!ENTITY sendHTML.label "Senda póst samt sem áður sem HTML">
-<!ENTITY sendHTML.accesskey "s">
-<!ENTITY sendBoth.label "Senda póst bæði sem ósniðinn texta og HTML">
-<!ENTITY sendBoth.accesskey "e">
-<!ENTITY override.label "Athugið: Notaðu nafnaskrána til að skilgreina sjálfgefna textasniðsstillingu fyrir viðtakendur.">
-<!ENTITY domaindesc.label "Þegar þú sendir póst á póstfang sem er eitt af þessum lénum hér fyrir neðan, mun &brandShortName; senda póstinn sjálfkrafa á réttu sniði.">
-<!ENTITY HTMLTab.label "HTML lén">
-<!ENTITY HTMLTab.accesskey "H">
-<!ENTITY PlainTextTab.label "Lén fyrir ósniðinn texta">
-<!ENTITY PlainTextTab.accesskey "e">
-<!ENTITY AddHtmlDomain.label "Bæta við…">
-<!ENTITY AddHtmlDomain.accesskey "B">
-<!ENTITY AddPlainText.label "Bæta við…">
-<!ENTITY AddPlainText.accesskey "B">
-<!ENTITY DeleteHtmlDomain.label "Eyða">
-<!ENTITY DeleteHtmlDomain.accesskey "E">
-<!ENTITY DeletePlainText.label "Eyða">
-<!ENTITY DeletePlainText.accesskey "E">
-<!ENTITY add.htmltitle "Bæta við HTML léni">
-<!ENTITY add.htmldomain "HTML lén:">
-<!ENTITY add.plaintexttitle "Bæta við léni fyrir ósniðinn texta">
-<!ENTITY add.plaintextdomain "Nafn léns fyrir ósniðinn texta:">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,34 +1,31 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Mail Content -->
-<!ENTITY captionMailContent.label "Innihald pósts">
-<!ENTITY acceptRemoteContent.label "Leyfa fjartengd innihald í pósti">
-<!ENTITY acceptRemoteContent.accesskey "a">
-<!ENTITY remoteContentExceptions.label "Undanþágur…">
-<!ENTITY remoteContentExceptions.accesskey "U">
-<!ENTITY acceptRemoteContentInfo.label "Fræðast meira um friðhelgisvandamál í fjartengdu innihaldi">
+
+
+
+
+
 <!-- Web Content -->
-<!ENTITY captionWebContent.label "Vefur">
-<!ENTITY keepHistory.label "Muna eftir vefsvæðum og tenglum sem ég heimsæki">
-<!ENTITY keepHistory.accesskey "r">
-<!ENTITY acceptCookies.label "Þiggja smákökur frá vefsvæðum">
-<!ENTITY acceptCookies.accesskey "a">
-<!ENTITY acceptThirdParty.pre.label "Þiggja smákökur frá þriðja aðila:">
-<!ENTITY acceptThirdParty.pre.accesskey "ð">
-<!ENTITY acceptThirdParty.always.label "Alltaf">
-<!ENTITY acceptThirdParty.never.label "Aldrei">
-<!ENTITY acceptThirdParty.visited.label "Frá heimsóttum síðum">
-<!ENTITY keepUntil.label "Eiga þangað til:">
-<!ENTITY keepUntil.accesskey "ð">
-<!ENTITY expire.label "þær renna út">
-<!ENTITY close.label "Ég loka &brandShortName;">
-<!ENTITY askEachTime.label "spyrja í hvert skipti">
-<!ENTITY cookieExceptions.label "Undanþágur…">
-<!ENTITY cookieExceptions.accesskey "U">
-<!ENTITY showCookies.label "Sýna smákökur…">
-<!ENTITY showCookies.accesskey "S">
-<!ENTITY dntTrackingNotOkay.label2 "Segja vefsvæðum að ég vilji ekki láta fylgjast með mér">
-<!ENTITY dntTrackingNotOkay.accesskey "n">
-<!ENTITY doNotTrackInfo.label "Fræðast meira um fylgjast ekki með">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
