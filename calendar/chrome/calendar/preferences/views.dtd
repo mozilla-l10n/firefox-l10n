@@ -1,34 +1,31 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- WARNING! This file contains UTF-8 encoded characters!
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 
-<!ENTITY pref.calendar.view.allview.caption "Almennt">
-<!ENTITY pref.calendar.view.dayandweekviews.caption "Dagur og viku sýn">
-<!ENTITY pref.calendar.view.multiweekview.caption "Margra vikna sýn">
-<!ENTITY pref.calendar.view.workweek.caption "Vinnuvika">
-<!ENTITY pref.weekstarts.label "Byrja vikuna á:">
-<!ENTITY pref.weekstarts.accesskey "B">
-<!ENTITY pref.daysoff.label "Þessir dagar eru í vinnuviku:">
-<!ENTITY pref.calendar.view.daystart.label "Dagur byrjar kl:">
-<!ENTITY pref.calendar.view.daystart.accesskey "D">
-<!ENTITY pref.calendar.view.dayend.label "Dagur endar kl:">
-<!ENTITY pref.calendar.view.dayend.accesskey "a">
-<!ENTITY pref.calendar.view.visiblehours.label "Sýna:">
-<!ENTITY pref.calendar.view.visiblehours.accesskey "S">
-<!ENTITY pref.calendar.view.visiblehoursend.label "klukkustundir í einu">
-<!ENTITY pref.numberofweeks.label "Fjöldi vikna sem á að sýna (með fyrri vikum):">
-<!ENTITY pref.numberofweeks.accesskey "v">
-<!ENTITY pref.numberofpreviousweeks.label "Fyrri vikur sem á að sýna:">
-<!ENTITY pref.numberofpreviousweeks.accesskey "F">
-<!ENTITY pref.numberofweeks.0 "engar">
-<!ENTITY pref.numberofweeks.1 "1 vika">
-<!ENTITY pref.numberofweeks.2 "2 vikur">
-<!ENTITY pref.numberofweeks.3 "3 vikur">
-<!ENTITY pref.numberofweeks.4 "4 vikur">
-<!ENTITY pref.numberofweeks.5 "5 vikur">
-<!ENTITY pref.numberofweeks.6 "6 vikur">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
