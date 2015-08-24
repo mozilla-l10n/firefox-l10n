@@ -7,6 +7,9 @@
   -->
 
 
+<!ENTITY pref.alarmgoesoff.label "عندما يُستحق التذكير:">
+
+
 
 
 <!ENTITY pref.calendar.alarms.sound.browse.label "تصفح…">
