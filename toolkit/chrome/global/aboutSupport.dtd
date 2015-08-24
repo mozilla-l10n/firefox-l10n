@@ -59,7 +59,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Çok işlemli pencereler">
 
-<!ENTITY aboutSupport.appBasicsSafeMode "Güvenlik Kip">
+<!ENTITY aboutSupport.appBasicsSafeMode "Güvenli Kip">
 
 <!ENTITY aboutSupport.showDir.label "Dizini aç">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
