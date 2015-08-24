@@ -12,3 +12,4 @@
 <!ENTITY showAllUnreadMessagesCount.accesskey "C">
 <!ENTITY dockIconBadge.label "Contrassegno nell'icona dell'applicazione">
 <!ENTITY dockIconShow.label "Contrassegna l'icona dell'applicazione con:">
+<!ENTITY directNotificationSettings.label "È possibile disabilitare il contrassegno nella sezione Notifiche delle Impostazioni del Sistema">
