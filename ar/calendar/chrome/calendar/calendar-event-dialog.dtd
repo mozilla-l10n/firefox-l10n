@@ -360,7 +360,7 @@
 <!ENTITY read.only.task.start.label      "تاريخ البدء:">
 <!ENTITY read.only.event.end.label       "تاريخ الانتهاء:">
 <!ENTITY read.only.task.due.label        "تاريخ الاستحقاق:">
-
+<!ENTITY read.only.repeat.label          "الت&amp;كرارية:">
 <!ENTITY read.only.location.label        "المكان:">
 <!ENTITY read.only.category.label        "الفئة:">
 <!ENTITY read.only.organizer.label       "المنظّم:">
@@ -369,7 +369,7 @@
 <!ENTITY read.only.decline.label         "لن أحضر">
 <!ENTITY read.only.tentative.label       "قد أحضر">
 <!ENTITY read.only.needs.action.label    "سأؤكد ذلك لاحقا">
-
+<!ENTITY read.only.reminder.label        "التذكير:">
 <!ENTITY read.only.attendees.label       "الحضور">
 <!ENTITY read.only.description.label     "الوصف">
 <!ENTITY read.only.link.label            "رابط ذا صلة">
