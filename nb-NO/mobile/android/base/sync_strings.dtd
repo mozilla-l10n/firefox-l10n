@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label 'Hva skal synkroniseres'>
 <!ENTITY sync.configure.engines.sync.my.title.label 'Synkroniser dine …'>
 <!ENTITY sync.configure.engines.title.bookmarks 'Bokmerker'>
-<!ENTITY sync.configure.engines.title.passwords 'Passord'>
+<!ENTITY sync.configure.engines.title.passwords2 'Innlogginger'>
 <!ENTITY sync.configure.engines.title.history 'Historikk'>
 <!ENTITY sync.configure.engines.title.tabs 'Faner'>
 
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy 'personvern'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'Velkommen til &syncBrand.shortName.label;'>
-<!ENTITY fxaccount_getting_started_description 'Logg inn for å synkronisere faner, bokmerker, passord m.m.'>
+<!ENTITY fxaccount_getting_started_description2 'Logg inn for å synkronisere faner, bokmerker, innlogginger m.m.'>
 <!ENTITY fxaccount_getting_started_get_started 'Kom i gang'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Bruker du en eldre versjon av &syncBrand.shortName.label;?'>
 
@@ -212,7 +212,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating 'Trykk for å logge inn med din nye Firefox-konto.'>
 <!ENTITY fxaccount_status_bookmarks 'Bokmerker'>
 <!ENTITY fxaccount_status_history 'Historikk'>
-<!ENTITY fxaccount_status_passwords 'Passord'>
+<!ENTITY fxaccount_status_passwords2 'Innlogginger'>
 <!ENTITY fxaccount_status_tabs 'Åpne faner'>
 <!ENTITY fxaccount_status_legal 'Juridisk' >
 <!-- Localization note: when tapped, the following two strings link to
