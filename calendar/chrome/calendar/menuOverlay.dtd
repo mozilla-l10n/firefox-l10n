@@ -35,7 +35,7 @@
 
 <!ENTITY showUnifinderCmd.label                 "اعثر على أحداث">
 <!ENTITY showUnifinderCmd.accesskey             "ع">
-
+<!ENTITY showUnifinderCmd.tooltip               "بدّل عرض لوحة البحث عن الأحداث">
 
 <!ENTITY calendar.displaytodos.checkbox.label       "اعرض المهام في التقويم">
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "ه">
