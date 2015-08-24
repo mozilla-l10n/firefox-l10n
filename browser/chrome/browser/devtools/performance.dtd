@@ -22,9 +22,13 @@
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.nonE10SBuild): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a non-multiprocess build. -->
+
+<!ENTITY performanceUI.disabledRealTime.nonE10SBuild "Reālā laika datu ierakstīšana ir deaktivēta ne-multiprocesu Firefox.">
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a build that can run multiprocess Firefox, but just is not enabled. -->
+
+<!ENTITY performanceUI.disabledRealTime.disabledE10S "Aktivējiet vairāku procesu Firefox iestatījumos, lai reālajā laikā renderētu ieraksta datus.">
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusFull): This string
   -  is displayed when the profiler's circular buffer has started to overlap. -->
 
@@ -52,6 +56,8 @@
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
 
+<!ENTITY performanceUI.toolbar.waterfall "Ūdenskritums">
+<!ENTITY performanceUI.toolbar.js-calltree "Izsaukumu koks">
 <!ENTITY performanceUI.toolbar.memory-calltree "Piešķiršanas">
 <!ENTITY performanceUI.toolbar.js-flamegraph "JS Flame grafiks">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "Piešķiršanas liesmu grafiks">
