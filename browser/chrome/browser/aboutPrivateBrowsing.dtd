@@ -2,18 +2,56 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.title            "Du besöker webbsidor privat">
-<!ENTITY aboutPrivateBrowsing.title.normal     "Öppna ett privat fönster?">
-
-<!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; kommer inte spara någon historik för det här fönstret.">
-<!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName; kommer inte spara någon historik för privata fönster.">
-
-<!ENTITY aboutPrivateBrowsing.description      "Det inkluderar webbläsarhistorik, sökhistorik, filhämtningshistorik, formulärhistorik, kakor och tillfälliga internetfiler. Filer du hämtar och bokmärken du lägger till kommer däremot att bevaras.">
-
 <!ENTITY aboutPrivateBrowsing.notPrivate       "Du är nu inte i ett privat fönster.">
-
-<!ENTITY aboutPrivateBrowsing.moreInfo         "Även om det inte kommer att sparas någon information om din webbläsarhistorik på din dator kan din internetleverantör eller arbetsgivare ändå spåra vilka sidor du besöker.">
-<!ENTITY aboutPrivateBrowsing.learnMore        "Ta reda på mer.">
-
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Öppna ett privat fönster">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
+
+<!ENTITY privateBrowsing.title                 "Privat surfning">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
+     Width of the Private Browsing section.
+     -->
+
+<!ENTITY aboutPrivateBrowsing.width            "25em">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
+     aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
+     These strings will be replaced by aboutPrivateBrowsing.forgotten and
+     aboutPrivateBrowsing.kept when the new visual design lands (bug 1192625).
+     -->
+
+<!ENTITY aboutPrivateBrowsing.title            "Du besöker webbsidor privat">
+<!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; kommer inte spara någon historik för det här fönstret.">
+
+<!ENTITY aboutPrivateBrowsing.forgotten        "I det här fönstret kommer &brandShortName; inte att spara:">
+<!ENTITY aboutPrivateBrowsing.info.forgotten   "Glömt">
+<!ENTITY aboutPrivateBrowsing.info.history     "Historik">
+<!ENTITY aboutPrivateBrowsing.info.searches    "Sökningar">
+<!ENTITY aboutPrivateBrowsing.info.cookies     "Cookies">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Temporära Filer">
+
+<!ENTITY aboutPrivateBrowsing.kept             "&brandShortName; kommer att spara:">
+<!ENTITY aboutPrivateBrowsing.info.kept        "Sparat">
+<!ENTITY aboutPrivateBrowsing.info.downloads   "Hämtningar">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks   "Bokmärken">
+
+<!ENTITY aboutPrivateBrowsing.note1            "Vänligen notera att din arbetsgivare eller internetleverantör fortfarande kan spåra sidorna du besöker.">
+<!ENTITY aboutPrivateBrowsing.learnMore        "Ta reda på mer.">
+<!-- LOCALIZATION NOTE (trackingProtection.width):
+     Width of the Tracking Protection section. This should be enough to
+     accommodate the title as well as the enabled or disabled indicator.
+     -->
+
+<!ENTITY trackingProtection.width              "22em">
+<!ENTITY trackingProtection.title              "Spårnings skydd">
+<!-- LOCALIZATION NOTE (trackingProtection.state.width):
+     Width of the element representing the enabled or disabled indicator.
+     -->
+
+<!ENTITY trackingProtection.state.width        "6ch">
+<!ENTITY trackingProtection.state.enabled      "På">
+<!ENTITY trackingProtection.state.disabled     "Av">
+
+<!ENTITY trackingProtection.description1       "Privata fönster blockerar nu delar av hemsidan som kan spåra de hemsidor du besöker.">
+
+<!ENTITY trackingProtection.disable            "Stäng av Spårningsskydd">
+<!ENTITY trackingProtection.enable             "Sätt på Spårningsskydd">
+<!ENTITY trackingProtection.startTour1         "Se hur det här fungerar">
