@@ -24,7 +24,8 @@
 
 
 
-
+<!ENTITY pref.numberofweeks.label "عدد الأسابيع الظاهرة (بما في ذلك السابقة):">
+<!ENTITY pref.numberofweeks.accesskey "ع">
 
 
 <!ENTITY pref.numberofweeks.0 "بلا">

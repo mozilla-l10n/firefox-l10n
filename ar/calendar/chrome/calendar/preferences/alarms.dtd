@@ -8,19 +8,19 @@
 
 
 <!ENTITY pref.alarmgoesoff.label "عندما يُستحق التذكير:">
+<!ENTITY pref.playasound "اعزف صوتا">
 
-
-
-
+<!ENTITY pref.calendar.alarms.sound.useDefault.label "استخدم الصوت المبدئي">
+<!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "م">
 <!ENTITY pref.calendar.alarms.sound.browse.label "تصفح…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "ص">
 <!ENTITY pref.calendar.alarms.sound.play.label "شغل">
 <!ENTITY pref.calendar.alarms.sound.play.accessKey "ش">
 <!ENTITY pref.showalarmbox "أظهر حوار التذكير">
 
+<!ENTITY pref.missedalarms "اعرض التذكيرات الفائتة">
 
-
-
+<!ENTITY pref.calendar.alarms.defaults.label "افتراضيات التذكيرات">
 
 
 
