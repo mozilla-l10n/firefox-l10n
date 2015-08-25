@@ -57,7 +57,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Zregistrowane &quot;service workers&quot;">
 
-<!ENTITY aboutSupport.appBasicsMultiProcessSupport "MUltiprocesowy Windows">
+<!ENTITY aboutSupport.appBasicsMultiProcessSupport "Multiprocesowe wokna">
 
 <!ENTITY aboutSupport.appBasicsSafeMode "Wěsty modus">
 
