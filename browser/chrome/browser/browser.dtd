@@ -110,7 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "D">
 
 <!ENTITY fxaSignIn.label "Tsena tirong mo &syncBrand.shortName.label;">
-
+<!ENTITY fxaSignedIn.tooltip "Bula &syncBrand.shortName.label; dikgethwa">
 <!ENTITY fxaSignInError.label "Golaganya-gape le &syncBrand.shortName.label;">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; kgontshitswe">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; go tla simolodisiwa thulaganyo ka tsamaisano mo motsotsong.">
@@ -395,7 +395,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Fetolela ko thebeng:">
 
-
+<!ENTITY urlbar.searchSuggestionsNotification.question "A o tla batla go tokafatsa maitemogelo a patlo ya gago ka dikakgelo?">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Ithute mo go tseneletseng...">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Nnyaa">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Ee">
 <!-- 
@@ -426,6 +427,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      These are set as the aria-label attribute for the search input box and
      submit button in the in-content search UI, to be used by screen readers. -->
 
+<!ENTITY contentSearchInput.label     "Patlophenekololo">
+<!ENTITY contentSearchSubmit.label    "Romela patlo">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -641,6 +644,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "T">
 
+<!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "Setaele sa Tsebe">
 <!ENTITY pageStyleMenu.accesskey "t">
@@ -680,25 +684,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "Feditse">
 <!ENTITY editBookmark.cancel.label                   "Khansela">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Kgolagano e Sireletsegileng">
 <!ENTITY identity.connectionNotSecure "Kgolagano e ga e a Sireletsega">
-
+<!ENTITY identity.connectionFile "Tsebe eno e bolokilwe mo khomputareng ya gago.">
 <!ENTITY identity.connectionVerified "&brandShortName; go tlhomamisitswe gore golaganye mo go sireletsegileng mo saeteng e, e laolwa ke:">
 <!ENTITY identity.connectionInternal "Ke e sireletsegileng &brandShortName; tsebe.">
 <!-- Strings for connection state warnings. -->
 
-
-
+<!ENTITY identity.activeBlocked "&brandShortName; e kgoreleditse dikarolo tsa tsebe e tse di sa sireletsegang.">
+<!ENTITY identity.passiveLoaded "Dikarolo tsa tsebe e ga di a sireletsega (jaaka ditshwantsho).">
+<!ENTITY identity.activeLoaded "O thibetse go dira ga tshireletso mo tsebeng e.">
+<!ENTITY identity.weakEncryption "Tsebe eno e dirisa mokgwatshireletso o bokoa.">
 <!-- Strings for connection state warnings in the subview. -->
 
-
-
-
-
-
-
+<!ENTITY identity.description.insecure "Kgolagano ya gago mo saete eno ga e poraefete. Tshedimosetso e o e romelang e ka lebiwa ke batho ba bangwe (jaaka dikhunololamoraba, melaetsa, dikaratamolato, le tse dingwe.).">
+<!ENTITY identity.description.weakCipher "Kgolagano ya gago mo saete eno e dirisa mokgwatshireletso o bokoa gape ga e poraefete.">
+<!ENTITY identity.description.weakCipher2 "Batho bangwe ba kgona go leba tshedimosetso ya gago kgotsa go fetola tiro - tsamaiso ya webosaete.">
+<!ENTITY identity.description.activeBlocked "&brandShortName; e kgoreleditse dikarolo tsa tsebe eno tse di sa sireletsegang.">
+<!ENTITY identity.description.passiveLoaded "Kgolagano ya gago ga e poraefete ka jalo tshedimosetso e o e abelanang le saete e ka lebiwa ke batho ba bangwe.">
+<!ENTITY identity.description.passiveLoaded2 "Webosaete eno e tshotse diteng tse di sa sireletsegang (jaaka ditshwantsho).">
+<!ENTITY identity.description.passiveLoaded3 "Le mororo &brandShortName; e kgoreleditse diteng dingwe, go santse gona le diteng tse di sa sireletsegang mo tsebeng (jaaka ditshwantsho).">
+<!ENTITY identity.description.activeLoaded "Webosaete eno e tshotse diteng tse di sa sireletsegang (jaaka disekeripiti) gape kgolagano ya gago mo go yone ga e poraefete.">
 
 
 
