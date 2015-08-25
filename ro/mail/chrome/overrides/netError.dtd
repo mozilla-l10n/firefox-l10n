@@ -153,7 +153,7 @@ button is included here (instead of netError.xhtml) because it exposes
 functionality specific to thunderbird. -->
 
 
-<!ENTITY securityOverride.warningContent "<p>Nu ar trebui să adăugați o excepție dacă utilizați o conexiune la internet în care nu aveți încredere în întregime sau dacă nu sunteți obișnuit să vedeți un avertisment pentru acest server.</p> 
+<!ENTITY securityOverride.warningContent "<p>Nu ar trebui să adăugați o excepție dacă folosiți o conexiune la internet în care nu aveți încredere în totalitate sau dacă nu sunteți obișnuit să vedeți un avertisment pentru acest server.</p> 
  
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
