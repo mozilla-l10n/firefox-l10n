@@ -33,7 +33,7 @@
 <!ENTITY sync.input.password.label "Parolă">
 <!ENTITY sync.input.key.label "Cheie de recuperare">
 <!ENTITY sync.checkbox.server.label "Folosește un server personalizat">
-<!ENTITY sync.input.server.label "Adresa serverului">
+<!ENTITY sync.input.server.label "URL-ul serverului">
 <!-- Setup Fail -->
 
 <!ENTITY sync.title.fail.label "Nu se poate seta &syncBrand.shortName.label;">
@@ -99,7 +99,7 @@
 <!-- Incorrect settings and changing credentials. -->
 
 <!ENTITY sync.invalidcreds.label "Nume de cont sau parolă incorectă.">
-<!ENTITY sync.invalidserver.label "Te rugăm să introduci o adresă validă de server">
+<!ENTITY sync.invalidserver.label "Te rugăm să introduci un URL valid al serverului">
 <!ENTITY sync.verifying.label "Se verifică…">
 <!ENTITY sync.new.recoverykey.status.incorrect "Cheia de recuperare e incorectă. Te rugăm să încerci din nou.">
 <!-- Send tab to device. -->
