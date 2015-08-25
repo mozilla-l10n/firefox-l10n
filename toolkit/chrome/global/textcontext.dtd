@@ -6,7 +6,7 @@
 <!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "Kopěrować">
 <!ENTITY copyCmd.accesskey "K">
-<!ENTITY pasteCmd.label "Zasunyć">
+<!ENTITY pasteCmd.label "Zasadźić">
 <!ENTITY pasteCmd.accesskey "Z">
 <!ENTITY undoCmd.label "Cofnyć">
 <!ENTITY undoCmd.accesskey "C">
