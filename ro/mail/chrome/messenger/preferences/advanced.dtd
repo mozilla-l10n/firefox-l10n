@@ -45,9 +45,9 @@
 <!ENTITY enableTelemetry.accesskey       "t">
 <!ENTITY telemetryLearnMore.label        "Află mai multe">
 
-<!ENTITY crashReporterSection.label      "Raportor de probleme">
+<!ENTITY crashReporterSection.label      "Raportor de defecțiuni">
 <!ENTITY crashReporterDesc.label         "&brandShortName; trimite rapoarte de probleme pentru a ajuta &vendorShortName; să facă clientul dumneavoastră de e-mail mai stabil și sigur">
-<!ENTITY enableCrashReporter.label       "Activează raportorul de probleme">
+<!ENTITY enableCrashReporter.label       "Activează raportorul de defecțiuni">
 <!ENTITY enableCrashReporter.accesskey   "c">
 <!ENTITY crashReporterLearnMore.label    "Află mai multe">
 <!-- Update -->
