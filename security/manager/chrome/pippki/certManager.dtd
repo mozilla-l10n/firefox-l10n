@@ -6,13 +6,13 @@
 
 <!ENTITY certmgr.tab.mine                     "Certificatele dumneavoastră">
 <!ENTITY certmgr.tab.others2                  "Ale altora">
-<!ENTITY certmgr.tab.websites3                "Saituri web">
+<!ENTITY certmgr.tab.websites3                "Servere">
 <!ENTITY certmgr.tab.ca                       "Autorități">
 <!ENTITY certmgr.tab.orphan2                  "Extra">
 
 <!ENTITY certmgr.mine                         "Posedați certificate de la următoarele organizații care vă identifică:">
 <!ENTITY certmgr.others                       "Aveți stocate certificate care identifică următoarele persoane:">
-<!ENTITY certmgr.websites2                    "Aveți stocate certificate care identifică următoarele saituri web:">
+<!ENTITY certmgr.websites2                    "Aveți stocate certificate care identifică aceste servere:">
 <!ENTITY certmgr.cas                          "Aveți stocate certificate care identifică următoarele autorități de certificare:">
 <!ENTITY certmgr.orphans                      "Aveți certificate salvate care nu se încadrează în niciuna din celelalte categorii:">
 
@@ -36,7 +36,7 @@
 
 <!ENTITY certmgr.editcacert.title             "Editare parametri credit certificat AC">
 <!ENTITY certmgr.editcert.edittrust           "Editare parametri credit:">
-<!ENTITY certmgr.editcert.trustssl            "Acest certificat poate identifica saituri web.">
+<!ENTITY certmgr.editcert.trustssl            "Acest certificat poate identifica site-uri web.">
 <!ENTITY certmgr.editcert.trustemail          "Acest certificat poate identifica utilizatori de e-mail.">
 <!ENTITY certmgr.editcert.trustobjsign        "Acest certificat poate identifica creatori de software.">
 
@@ -81,7 +81,7 @@
 <!ENTITY exceptionMgr.title                   "Adaugă excepție de la securitate">
 <!ENTITY exceptionMgr.exceptionButton.label   "Confirmă excepția de la securitate">
 <!ENTITY exceptionMgr.exceptionButton.accesskey "C">
-<!ENTITY exceptionMgr.supplementalWarning     "Băncile autorizate, magazinele și alte saituri publice nu vă vor cere să faceți asta.">
+<!ENTITY exceptionMgr.supplementalWarning     "Băncile autorizate, magazinele și alte site-uri publice nu vă vor cere să faceți asta.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Server">
 <!ENTITY exceptionMgr.certlocation.url        "Adresă:">
 <!ENTITY exceptionMgr.certlocation.download   "Ia certificatul">
