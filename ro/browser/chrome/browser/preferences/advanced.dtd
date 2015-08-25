@@ -99,7 +99,7 @@
 <!ENTITY offlineNotifyExceptions.label   "Excepții…">
 <!ENTITY offlineNotifyExceptions.accesskey "x">
 
-<!ENTITY offlineAppsList2.label          "Următoarele site-uri au permisiunea de a stoca date pentru folosire offline:">
+<!ENTITY offlineAppsList2.label          "Următoarele site-uri web au permisiunea de a stoca date pentru folosire offline:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Șterge…">
 <!ENTITY offlineAppsListRemove.accesskey "r">
