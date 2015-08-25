@@ -13,7 +13,7 @@
 <!ENTITY  WPADTypeRadio.accesskey       "D">
 <!ENTITY  manualTypeRadio.label         "Configurare proxy manuală:">
 <!ENTITY  manualTypeRadio.accesskey     "m">
-<!ENTITY  autoTypeRadio.label           "URL pentru configurare automată proxy:">
+<!ENTITY  autoTypeRadio.label           "URL pentru configurarea automată a proxy-ului:">
 <!ENTITY  autoTypeRadio.accesskey       "a">
 <!ENTITY  reload.label                  "Reîncarcă">
 <!ENTITY  reload.accesskey              "R">

@@ -856,8 +856,8 @@
 <!ENTITY CopyEmailAddress.accesskey "C">
 <!ENTITY CopyNewsgroupName.label "Copiază numele grupului de discuții">
 <!ENTITY CopyNewsgroupName.accesskey "C">
-<!ENTITY CopyNewsgroupURL.label "Copiază adresa grupului de discuții">
-<!ENTITY CopyNewsgroupURL.accesskey "u">
+<!ENTITY CopyNewsgroupURL.label "Copiază URL-ul grupului de discuții">
+<!ENTITY CopyNewsgroupURL.accesskey "U">
 <!ENTITY CreateFilterFrom.label "Creează filtru din…">
 <!ENTITY CreateFilterFrom.accesskey "f">
 <!ENTITY reportPhishingURL.label "Raportează înșelătorie prin e-mail">

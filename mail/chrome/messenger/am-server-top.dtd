@@ -78,7 +78,7 @@
 <!ENTITY localPath.label "Director local:">
 <!ENTITY localFolderPicker.label "Alegeți directorul local">
 <!ENTITY browseFolder.label "Răsfoiește…">
-<!ENTITY browseFolder.accesskey "R">
+<!ENTITY browseFolder.accesskey "f">
 <!ENTITY browseNewsrc.label "Răsfoiește…">
 <!ENTITY browseNewsrc.accesskey "e">
 
