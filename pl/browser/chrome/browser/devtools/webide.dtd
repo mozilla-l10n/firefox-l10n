@@ -26,6 +26,8 @@
 <!ENTITY projectMenu_showPrefs_accesskey "a">
 <!ENTITY projectMenu_manageComponents_label "Zarządzaj dodatkowymi komponentami">
 <!ENTITY projectMenu_manageComponents_accesskey "k">
+<!ENTITY projectMenu_refreshTabs_label "Odśwież karty">
+<!ENTITY projectMenu_refreshTabs_accesskey "r">
 
 <!ENTITY runtimeMenu_label "Środowisko">
 <!ENTITY runtimeMenu_accesskey "o">
