@@ -18,7 +18,7 @@
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
 <!ENTITY support.pre3              "Vizitează ">
-<!ENTITY support.link2             "saitul nostru de asistență">
+<!ENTITY support.link2             "site-ul nostru de suport">
 <!ENTITY support.post3             " pentru a primi răspunsuri la problemele comune.">
 
 <!ENTITY happy.header              "Asta e minunat să auzim!">
@@ -38,7 +38,7 @@
 <!ENTITY sad.header                "O, nu!">
 <!ENTITY sad.message               "Ne pare rău că ai întâmpinat niște probleme cu &brandShortName;. Spune-ne ce s-a întâmplat astfel încât să o putem remedia.">
 <!ENTITY sad.placeholder           "Introdu opinia aici">
-<!ENTITY sad.lastSite2             "Include saitul vizitat ultima dată">
+<!ENTITY sad.lastSite2             "Include site-ul vizitat ultima dată">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 
 <!ENTITY sad.urlPlaceholder        "http://">

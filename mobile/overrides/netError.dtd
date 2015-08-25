@@ -60,7 +60,7 @@ fi <strong>ww</strong>.exemplu.ro în loc de
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Document expirat">
-<!ENTITY notCached.longDesc "<p>Documentul cerut nu e disponibil în cache-ul &brandShortName;.</p><ul><li>Ca o măsură de siguranță, &brandShortName; nu cere din nou automat documente ce par a fi confidențiale.</li><li>Clic pe Încearcă din nou pentru a cere din nou documentul de la saitul de unde provine.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Documentul cerut nu e disponibil în cache-ul &brandShortName;.</p><ul><li>Ca o măsură de siguranță, &brandShortName; nu cere din nou automat documente ce par a fi confidențiale.</li><li>Clic pe Încearcă din nou pentru a cere din nou documentul de la site-ul de unde provine.</li></ul>">
 
 <!ENTITY netOffline.title "Mod offline">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
@@ -139,7 +139,7 @@ temporară și poți încerca din nou mai târziu.</li>
      The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY sharedLongDesc3 "<ul> 
-<li>Saitul ar putea fi temporar indisponibil sau foarte încărcat. Încearcă din nou în câteva momente.</li> 
+<li>Site-ul ar putea fi temporar indisponibil sau foarte încărcat. Încearcă din nou în câteva momente.</li> 
 <li>Dacă nu poți să încarci nicio pagină, verifică conexiunea de date sau Wi-Fi a dispozitivului. 
 <button id='wifi'>Activează Wi-Fi</button> 
 </li> 

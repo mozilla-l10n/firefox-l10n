@@ -198,7 +198,7 @@
 
 
 <!ENTITY pref_donottrack_title "Nu mă urmări">
-<!ENTITY pref_donottrack_summary "&brandShortName; va spune saiturilor că nu dorești să fii urmărit">
+<!ENTITY pref_donottrack_summary "&brandShortName; va spune site-urilor că nu dorești să fii urmărit">
 
 
 
@@ -255,7 +255,7 @@ size. -->
 <!ENTITY pref_font_size_preview_text "Vulpea portocalie ageră face un salt peste așteptările tale cu mai multă viteză, mai multă flexibilitate și mai multă securitate. Fiind organizație nonprofit, suntem liberi să inovăm în folosul tău fără nicio presiune ca să facem compromisuri. Asta înseamnă o experiență mai bună pentru tine și un viitor mai luminos pentru web.">
 
 <!ENTITY pref_media_autoplay_enabled "Permite redarea automată">
-<!ENTITY pref_media_autoplay_enabled_summary "Controlează dacă saiturile pot rula automat videoclipuri și alt conținut media">
+<!ENTITY pref_media_autoplay_enabled_summary "Controlează dacă site-urile web pot rula automat videoclipuri și alt conținut media">
 <!ENTITY pref_zoom_force_enabled "Activează mereu zoom-ul">
 <!ENTITY pref_zoom_force_enabled_summary "Forțează suprascrierea ca să poți face focalizare pe orice pagină">
 
@@ -275,8 +275,8 @@ size. -->
 <!ENTITY pref_private_data_cookies2 "Cookie-uri și autentificări active">
 
 <!ENTITY pref_private_data_cache "Cache">
-<!ENTITY pref_private_data_offlineApps "Datele saiturilor offline">
-<!ENTITY pref_private_data_siteSettings2 "Setările saiturilor">
+<!ENTITY pref_private_data_offlineApps "Datele site-urilor offline">
+<!ENTITY pref_private_data_siteSettings2 "Setările site-urilor">
 <!ENTITY pref_private_data_downloadFiles2 "Descărcări">
 
 
@@ -382,10 +382,10 @@ size. -->
 <!ENTITY contextmenu_copyurl "Copiază adresa">
 <!ENTITY contextmenu_edit_bookmark "Editează">
 <!ENTITY contextmenu_subscribe "Abonare la pagină">
-<!ENTITY contextmenu_site_settings "Editează setările saitului">
+<!ENTITY contextmenu_site_settings "Editează setările site-ului">
 <!ENTITY contextmenu_top_sites_edit "Editează">
-<!ENTITY contextmenu_top_sites_pin "Fixează saitul">
-<!ENTITY contextmenu_top_sites_unpin "Anulează fixarea saitului">
+<!ENTITY contextmenu_top_sites_pin "Fixează site-ul">
+<!ENTITY contextmenu_top_sites_unpin "Anulează fixarea site-ului">
 <!ENTITY contextmenu_add_search_engine "Adaugă motor de căutare">
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -430,7 +430,7 @@ size. -->
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
-<!ENTITY site_settings_title3       "Setări sait">
+<!ENTITY site_settings_title3       "Setările site-ului">
 <!ENTITY site_settings_cancel       "Renunță">
 <!ENTITY site_settings_clear        "Curăță">
 <!ENTITY site_settings_no_settings  "Nu sunt setări de curățat.">
@@ -468,10 +468,10 @@ size. -->
 
 <!ENTITY firstrun_panel_title_welcome "Bun venit">
 
-<!ENTITY home_top_sites_title "Saituri de top">
+<!ENTITY home_top_sites_title "Site-uri de top">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
-<!ENTITY home_top_sites_add "Adaugă un sait">
+<!ENTITY home_top_sites_add "Adaugă un site">
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
 
@@ -484,7 +484,7 @@ size. -->
 <!ENTITY home_last_tabs_title "Filele de ultima dată">
 <!ENTITY home_last_tabs_empty "Filele tale recente apar aici.">
 <!ENTITY home_open_all "Deschide toate">
-<!ENTITY home_most_recent_empty "Saiturile pe care le-ai vizitat cel mai recent apar aici.">
+<!ENTITY home_most_recent_empty "Site-urile pe care le-ai vizitat cel mai recent apar aici.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: folosind o &formatS1;filă privată nouă&formatS2; nu se va salva istoricul.">
@@ -560,7 +560,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY loaded_mixed_content_message "Această pagină afișează conținut care nu este sigur.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; a blocat conținutul care nu este sigur.">
-<!ENTITY blocked_mixed_content_message_bottom "Majoritatea saiturilor web vor funcționa corect în continuare chiar dacă acest tip de conținut e blocat.">
+<!ENTITY blocked_mixed_content_message_bottom "Majoritatea site-urilor web vor funcționa corect în continuare chiar dacă acest tip de conținut e blocat.">
 <!-- Tracking content notifications in site identity popup -->
 
 
