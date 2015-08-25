@@ -707,12 +707,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded2 "Webosaete eno e tshotse diteng tse di sa sireletsegang (jaaka ditshwantsho).">
 <!ENTITY identity.description.passiveLoaded3 "Le mororo &brandShortName; e kgoreleditse diteng dingwe, go santse gona le diteng tse di sa sireletsegang mo tsebeng (jaaka ditshwantsho).">
 <!ENTITY identity.description.activeLoaded "Webosaete eno e tshotse diteng tse di sa sireletsegang (jaaka disekeripiti) gape kgolagano ya gago mo go yone ga e poraefete.">
+<!ENTITY identity.description.activeLoaded2 "Tshedimosetso e o e abelanang le saete eno e ka lebiwa ke batho ba bangwe (jaaka dikhunololamoraba, melaetsa, dikaratamolato , le tse dingwe.).">
 
-
-
+<!ENTITY identity.enableMixedContentBlocking.label "Kgontsha tshireletso">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "K">
 <!ENTITY identity.disableMixedContentBlocking.label "Thibela go dira ga tshireletso ga jaana">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "T">
-
+<!ENTITY identity.learnMore "Ithute mo go Tseneletseng">
 
 <!ENTITY identity.moreInfoLinkText2 "Tshedimosetso e Tletseng">
 
@@ -789,29 +790,32 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "S">
 <!ENTITY getUserMedia.selectMicrophone.label "Sekapamodumo se se ka abelanwang:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "S">
-
+<!ENTITY getUserMedia.audioCapture.label "Modumo go tswa mo thebeng o tla abelanwa.">
 <!ENTITY getUserMedia.allWindowsShared.message "Windows tse di bonagalang tsotlhe mo sekerini sa gago di tla abelanwa.">
 
-
-
-
+<!ENTITY trackingProtection.title "Tshireletso ya Tatediso">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; e kgoreletsa dikarolo tsa tsebe tse di ka latedisang patlo ya gago.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "Saete eno e tsentse ditlhakakaelo tse di ka latedisang patlo ya gago. O thibetse go dira ga tshireletso.">
+<!ENTITY trackingProtection.notDetected3 "Ga gona ditlhakakaelo tatediso tse di lemogilweng mo tsebeng eno.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-
+<!ENTITY trackingProtection.unblock.label "Thibela go dira ga tshireletso ya saete eno">
+<!ENTITY trackingProtection.unblock.accesskey "T">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-
-
-
+<!ENTITY trackingProtection.unblockPrivate.label "Thibela go dira ga tshireletso mo botlameladikopanelwa ga jaana">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "T">
+<!ENTITY trackingProtection.block2.label "Kgontsha tshireletso">
+<!ENTITY trackingProtection.block2.accesskey "K">
 
 <!ENTITY trackingContentBlocked.message "Tatediso">
 <!ENTITY trackingContentBlocked.moreinfo "Mefama ya tsebe e latedisang tiro ya gago mo kgolaganong ka mafaratlhatlha e thibetswe.">
 <!ENTITY trackingContentBlocked.learnMore "Ithute Thata">
-
-
-
+<!ENTITY trackingContentBlocked.options "Diitlhophelwa">
+<!ENTITY trackingContentBlocked.unblock2.label "Thibela go dira ga tshireletso mo saete eno">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "T">
 <!ENTITY trackingContentBlocked.block.label "Kgontsha tshireletso">
 <!ENTITY trackingContentBlocked.block.accesskey "K">
 <!ENTITY trackingContentBlocked.disabled.message "Tshireletso ya tatediso ga e dire">
