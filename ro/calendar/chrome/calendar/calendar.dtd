@@ -336,7 +336,7 @@
 <!-- Calendar Publish Dialog -->
 
 <!ENTITY calendar.publish.dialog.title              "Publicare calendar">
-<!ENTITY calendar.publish.url.label                 "Adresa URL de publicare">
+<!ENTITY calendar.publish.url.label                 "URL-ul de publicare">
 <!ENTITY calendar.publish.publish.button      "Publică">
 <!ENTITY calendar.publish.close.button      "Închide">
 
