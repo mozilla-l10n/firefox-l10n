@@ -24,7 +24,7 @@
 <!ENTITY rights.intro-point2-c ".">
 <!-- point 2.5 text for official branded builds -->
 
-<!ENTITY rights.intro-point2.5 "Unele funcționalități din &brandShortName;, cum ar fi raportorul de defecte vă dau opțiunea să vă faceți părerile auzite de către &vendorShortName;. Alegând să trimiteți reacțiile dumneavoastră, ajutați la îmbunătățirea produselor &vendorShortName; și permiteți publicarea lor pe saiturile sale web, precum și distribuirea lor.">
+<!ENTITY rights.intro-point2.5 "Unele funcționalități din &brandShortName;, cum ar fi raportorul de defecțiuni vă oferă posibilitatea să vă faceți părerile auzite la &vendorShortName;. Alegând să trimiteți reacțiile dumneavoastră, îi dați permisiunea lui &vendorShortName; să folosească reacțiile pentru a-și îmbunătăți produsele, să publice reacțiile pe propriile site-uri web și să distribuie reacțiile.">
 <!-- point 3 text for official branded builds -->
 
 <!ENTITY rights2.intro-point3a "Felul în care folosim datele dumneavoastră personale și reacțiile trimise către &vendorShortName; prin &brandShortName; este descris în ">
@@ -41,7 +41,7 @@
 <!-- point 4 text for unbranded builds -->
 
 <!ENTITY rights.intro-point4a-unbranded "Dacă produsul acesta include servicii web, orice termeni aplicabili serviciilor ar trebui să fie accesibili în secțiunea ">
-<!ENTITY rights.intro-point4b-unbranded "„Servicii de informare asupra saiturilor”">
+<!ENTITY rights.intro-point4b-unbranded "Servicii ale site-urilor web">
 <!ENTITY rights.intro-point4c-unbranded " .">
 
 <!ENTITY rights2.webservices-header "Servicii de informare bazate pe web folosite în &brandFullName;">
@@ -60,7 +60,7 @@
 <!-- safe browsing points for branded builds -->
 
 <!ENTITY rights.safebrowsing-a "Navigare sigură: ">
-<!ENTITY rights.safebrowsing-b "Dezactivarea navigării sigure nu e recomandată deoarece ar putea avea ca rezultat navigarea dumneavoastră pe saituri nesigure.  Dacă doriți să dezactivați această funcționalitate, urmați acești pași:">
+<!ENTITY rights.safebrowsing-b "Dezactivarea funcției de navigare sigură nu e recomandată deoarece ar putea avea ca rezultat navigarea pe site-uri nesigure.  Dacă doriți să dezactivați această funcție, urmați acești pași:">
 <!ENTITY rights.safebrowsing-term1 "Deschideți preferințele aplicației">
 <!ENTITY rights.safebrowsing-term2 "Selectați tabul Securitate">
 <!ENTITY rights.safebrowsing-term3 "Debifați opțiunile „&blockAttackSites.label;” și „&blockWebForgeries.label;”">
@@ -76,13 +76,13 @@
 <!ENTITY rights.locationawarebrowsing-term4 "Navigarea conștientă de locație este acum dezactivată">
 <!-- intro paragraph for unbranded builds -->
 
-<!ENTITY rights.webservices-unbranded "Aici ar trebui inclusă o privire de ansamblu asupra serviciilor de informare asupra saiturilor pe care acest produs le include împreună cu instrucțiuni cum pot fi dezactivate, dacă e cazul.">
+<!ENTITY rights.webservices-unbranded "O privire de ansamblu a serviciilor de informare asupra site-urilor pe care acest produs le include împreună cu instrucțiuni cum pot fi dezactivate, dacă e cazul, ar trebui incluse aici.">
 <!-- point 1 text for unbranded builds -->
 
 <!ENTITY rights.webservices-term1-unbranded "Aici ar trebui listați orice termeni aplicabili serviciului pentru acest product.">
 <!-- points 1-7 text for branded builds -->
 
-<!ENTITY rights2.webservices-term1 "&vendorShortName; și contribuitorii săi, licențiatorii și partenerii săi muncesc pentru a vă furniza serviciile cele mai actuale și cele mai exacte. Cu toate acestea, nu putem garanta că informațiile sunt complete și fără erori. De exemplu, serviciul de navigare sigură ar putea să nu identifice unele saituri riscante și ar putea identifica greșit uneori unele saituri ca fiind riscante iar locațiile furnizate de serviciul de navigare conștientă de locație sunt doar estimative și nici noi, nici furnizorii serviciului nu pot garanta acuratețea locațiilor detectate.">
+<!ENTITY rights2.webservices-term1 "&vendorShortName; și contribuitorii săi, licențiatorii și partenerii săi lucrează pentru a vă furniza serviciile cele mai actuale și cele mai exacte.  Cu toate acestea, nu putem garanta că informațiile sunt complete și fără erori. De exemplu, serviciul de navigare sigură ar putea să nu identifice unele site-uri riscante și ar putea identifica greșit uneori unele site-uri ca fiind riscante iar locațiile furnizate de serviciul de navigare conștientă de locație sunt doar estimative și nici noi, nici furnizorii serviciului nu pot garanta acuratețea locațiilor detectate.">
 <!ENTITY rights.webservices-term2 "&vendorShortName; poate întrerupe sau schimba serviciul în orice moment.">
 <!ENTITY rights2.webservices-term3 "Sunteți binevenit să utilizați aceste servicii împreună cu versiunea ce însoțește &brandShortName; și &vendorShortName; vă acordă drepturile pentru aceasta. &vendorShortName; și licențiatorii își rezervă toate celelalte drepturi asupra acestor servicii.  Acești termeni nu sunt destinați să limiteze drepturile acordate în temeiul licențelor libere aplicabile &brandShortName; și versiunilor corespunzătoare ale codului sursă pentru &brandShortName;.">
 <!ENTITY rights.webservices-term4 "Serviciile sunt furnizate „ca atare”.  &vendorShortName;, colaboratorii săi, licențiatorii și distribuitorii declină toate garanțiile, explicite ori implicite, inclusiv, dar fără a se limita la garanțiile că Serviciile sunt comercializabile și potrivite scopurilor dumneavoastră particulare.  Vă asumați integral riscurile în ceea ce privește selectarea Serviciilor în scopurile dumneavoastră, precum și în privința calității și performanței Serviciilor. Unele jurisdicții nu permit excluderea sau limitarea anumitor garanții implicite, astfel încât această derogare de responsabilitate s-ar putea să nu se aplice în cazul dumneavoastră.">
