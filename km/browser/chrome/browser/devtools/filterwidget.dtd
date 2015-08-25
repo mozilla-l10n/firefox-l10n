@@ -14,7 +14,11 @@
 <!ENTITY addNewFilterButton "បន្ថែម">
 <!-- LOCALIZATION NOTE (newPresetPlaceholder): This string is used as
    - a placeholder in the list of presets which is used to save a new preset -->
+
+<!ENTITY newPresetPlaceholder "ឈ្មោះ​ដាក់​​ជា​មុន">
 <!-- LOCALIZATION NOTE (savePresetButton): This string is displayed on a button used to save a new preset -->
 
 <!ENTITY savePresetButton "រក្សា​ទុក">
 <!-- LOCALIZATION NOTE(presetsToggleButton): This string is used in a button which toggles the presets list -->
+
+<!ENTITY presetsToggleButton "ការ​កំណត់​ជា​មុន">
