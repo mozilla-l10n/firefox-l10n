@@ -2,22 +2,24 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY addressbookPicker.label "Nafnaskrá:">
+<!ENTITY addressbookPicker.accesskey "k">
+<!ENTITY searchInput.label "Leita að:">
+<!ENTITY searchInput.accesskey "L">
+<!ENTITY SearchNameOrEmail.label "Nafn eða tölvupóstfang">
+<!ENTITY deleteAddrBookCard.label "Eyða">
+<!ENTITY deleteAddrBookCard.accesskey "E">
+<!ENTITY addrBookCardProperties.label "Eiginleikar">
+<!ENTITY addrBookCardProperties.accesskey "E">
+<!ENTITY addtoToFieldMenu.label "Bæta við í Til svæði">
+<!ENTITY addtoToFieldMenu.accesskey "a">
+<!ENTITY addtoCcFieldMenu.label "Bæta við Afrit svæði">
+<!ENTITY addtoCcFieldMenu.accesskey "A">
+<!ENTITY addtoBccFieldMenu.label "Bæta við í Falið afrit svæði">
+<!ENTITY addtoBccFieldMenu.accesskey "B">
+<!ENTITY toButton.label "Bæta við í Til:">
+<!ENTITY toButton.accesskey "a">
+<!ENTITY ccButton.label "Bæta við í Afrit:">
+<!ENTITY ccButton.accesskey "æ">
+<!ENTITY bccButton.label "Bæta við í falið afrit:">
+<!ENTITY bccButton.accesskey "B">

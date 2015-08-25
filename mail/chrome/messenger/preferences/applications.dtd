@@ -2,28 +2,30 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY typeColumn.label "Efnistegund">
+<!ENTITY typeColumn.accesskey "t">
+<!ENTITY actionColumn2.label "Aðgerð">
+<!ENTITY actionColumn2.accesskey "A">
+<!ENTITY focusSearch1.key "f">
+<!ENTITY focusSearch2.key "k">
+<!ENTITY filter.placeholder "Leita">
+<!ENTITY saveTo.label "Vista skrár yfir á">
+<!ENTITY saveTo.accesskey "s">
+<!ENTITY alwaysAsk.label "Alltaf spyrja hvar á að vista skrár">
+<!ENTITY alwaysAsk.accesskey "A">
+<!ENTITY chooseFolderWin.label "Velja…">
+<!ENTITY chooseFolderWin.accesskey "V">
+<!ENTITY chooseFolderMac.label "Velja…">
+<!ENTITY chooseFolderMac.accesskey "V">
+<!ENTITY attachments.incoming.label "Utanaðkomandi">
+<!ENTITY attachments.outgoing.label "Útsent">
+<!ENTITY addCloudFileAccount.label "Bæta við">
+<!ENTITY addCloudFileAccount.accesskey "a">
+<!ENTITY addCloudFileAccount.description "Bæta við nýrri geymsluþjónustu fyrir skrár">
+<!ENTITY removeCloudFileAccount.label "Fjarlægja">
+<!ENTITY removeCloudFileAccount.accesskey "r">
+<!ENTITY authRequired.description "Þarfnast auðkenningar til að sjá stillingar fyrir þessa geymsluþjónustu.">
+<!ENTITY authRequired.button.label "Heimila">
+<!ENTITY authRequired.button.accesskey "H">
+<!ENTITY enableCloudFileAccountOffer.label "Bjóðast til að deila stærri skrám en">
+<!ENTITY enableCloudFileAccountOffer.mb "MB">

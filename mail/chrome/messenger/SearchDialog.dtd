@@ -1,72 +1,78 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- for SearchDialog.xul -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY searchHeading.label "Leita að póstum í:">
+<!ENTITY searchHeading.accesskey "L">
+<!ENTITY searchSubfolders.label "Leita í undirmöppum">
+<!ENTITY searchSubfolders.accesskey "e">
+<!ENTITY searchOnServer.label "Keyra leit á netþjóni">
+<!ENTITY searchOnServer.accesskey "K">
+<!ENTITY resetButton.label "Hreinsa">
+<!ENTITY resetButton.accesskey "H">
+<!ENTITY openButton.label "Opna">
+<!ENTITY openButton.accesskey "n">
+<!ENTITY deleteButton.label "Eyða">
+<!ENTITY deleteButton.accesskey "E">
+<!ENTITY searchDialogTitle.label "Leita í póstum">
+<!ENTITY results.label "Niðurstöður">
+<!ENTITY moveButton.label "Færa í">
+<!ENTITY moveButton.accesskey "æ">
+<!ENTITY closeCmd.key "W">
+ 
+<!ENTITY openInFolder.label "Opna í möppu">
+<!ENTITY openInFolder.accesskey "m">
+<!ENTITY saveAsVFButton.label "Vista sem leitarmöppu">
+<!ENTITY saveAsVFButton.accesskey "V">
 <!-- for ABSearchDialog.xul -->
-
-
-
-
-
-
-
-
+<!ENTITY abSearchHeading.label "Leita í:">
+<!ENTITY abSearchHeading.accesskey "L">
+<!ENTITY propertiesButton.label "Eiginleikar">
+<!ENTITY propertiesButton.accesskey "E">
+<!ENTITY composeButton.label "Skrifa">
+<!ENTITY composeButton.accesskey "S">
+<!ENTITY deleteCardButton.label "Eyða">
+<!ENTITY deleteCardButton.accesskey "ð">
+<!ENTITY abSearchDialogTitle.label "Ítarleg nafnaskrá leit">
 <!-- Thread Pane -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY threadColumn.label "Umræða">
+<!ENTITY fromColumn.label "Frá">
+<!ENTITY recipientColumn.label "Viðtakandi">
+<!ENTITY correspondentColumn.label "Þátttakendur">
+<!ENTITY subjectColumn.label "Efni">
+<!ENTITY dateColumn.label "Dagsetning">
+<!ENTITY priorityColumn.label "Forgangur">
+<!ENTITY tagsColumn.label "Flokkar">
+<!ENTITY accountColumn.label "Þjónusta">
+<!ENTITY statusColumn.label "Staða">
+<!ENTITY sizeColumn.label "Stærð">
+<!ENTITY junkStatusColumn.label "Rusl staða">
+<!ENTITY unreadColumn.label "Ólesið">
+<!ENTITY totalColumn.label "Allt">
+<!ENTITY readColumn.label "Lesa">
+<!ENTITY receivedColumn.label "Móttekið">
+<!ENTITY starredColumn.label "Stjörnumerkt">
+<!ENTITY locationColumn.label "Staðsetning">
+<!ENTITY idColumn.label "Í móttekinni röð">
 <!-- Thread Pane Tooltips -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY columnChooser2.tooltip "Veldu dálka til að birta">
+<!ENTITY threadColumn2.tooltip "Sýna póstþræði">
+<!ENTITY fromColumn2.tooltip "Raða eftir frá">
+<!ENTITY recipientColumn2.tooltip "Raða eftir móttakanda">
+<!ENTITY correspondentColumn2.tooltip "Raða eftir þátttakendum">
+<!ENTITY subjectColumn2.tooltip "Flokka eftir efnislínu">
+<!ENTITY dateColumn2.tooltip "Raða eftir dagsetningu">
+<!ENTITY priorityColumn2.tooltip "Raða eftir forgangi">
+<!ENTITY tagsColumn2.tooltip "Raða eftir tögum">
+<!ENTITY accountColumn2.tooltip "Raða eftir reikningi">
+<!ENTITY statusColumn2.tooltip "Raða eftir stöðu">
+<!ENTITY sizeColumn2.tooltip "Raða eftir Stærð">
+<!ENTITY junkStatusColumn2.tooltip "Raða eftir ruslpóststöðu">
+<!ENTITY unreadColumn2.tooltip "Fjöldi ólesinna pósta í umræðu">
+<!ENTITY totalColumn2.tooltip "Heildarfjöldi pósta í umræðu">
+<!ENTITY readColumn2.tooltip "Raða eftir lesið">
+<!ENTITY receivedColumn2.tooltip "Raða eftir móttekinni dagsetningu">
+<!ENTITY starredColumn2.tooltip "Raða eftir stjörnumerkingu">
+<!ENTITY locationColumn2.tooltip "Raða eftir staðsetningu">
+<!ENTITY idColumn2.tooltip "Raða eftir móttekinni röð">

@@ -2,59 +2,66 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY itemFormatting.label "Snið">
+<!ENTITY itemTags.label "Flokkar">
+<!ENTITY itemAdvanced.label "Ítarlegt">
+<!ENTITY style.label "Stíll:">
+<!ENTITY style.accesskey "t">
+<!ENTITY regularStyle.label "Venjulegt">
+<!ENTITY bold.label "Feitletrað">
+<!ENTITY italic.label "Skáletrað">
+<!ENTITY boldItalic.label "Feit- og skáletrað">
+<!ENTITY size.label "Stærð:">
+<!ENTITY size.accesskey "S">
+<!ENTITY regularSize.label "Venjuleg">
+<!ENTITY bigger.label "Stærra">
+<!ENTITY smaller.label "Minna">
+<!ENTITY quotedTextColor.label "Litur:">
+<!ENTITY quotedTextColor.accesskey "L">
+<!ENTITY displayWidth.label "Ósniðinn textapóstur">
+<!ENTITY displayText.label "Þegar birtur er ósniðinn texti með tilvitnun:">
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
-
+<!ENTITY convertEmoticons.label "Birta broskalla sem myndir">
+<!ENTITY convertEmoticons.accesskey "m">
 <!-- labels -->
-
-
-
-
-
-
+<!ENTITY displayTagsText.label "Hægt er að nota flokka til að flokka og forgangsraða póstum.">
+<!ENTITY addTagButton.label "Bæta við">
+<!ENTITY addTagButton.accesskey "B">
+<!ENTITY editTagButton.label "Breyta">
+<!ENTITY editTagButton.accesskey "e">
+<!ENTITY removeTagButton.label "Eyða">
+<!ENTITY removeTagButton.accesskey "y">
 <!-- Fonts and Colors -->
-
-
-
-
-
-
-
-
+<!ENTITY fontsAndColors1.label "Letur og litir">
+<!ENTITY defaultFont.label "Sjálfgefin leturgerð:">
+<!ENTITY defaultFont.accesskey "j">
+<!ENTITY defaultSize.label "Stærð:">
+<!ENTITY defaultSize.accesskey "S">
+<!ENTITY fontOptions.accesskey "u">
+<!ENTITY fontOptions.label "Leturgerðir…">
+<!ENTITY colorButton.label "Litir…">
+<!ENTITY colorButton.accesskey "L">
 <!-- Advanced -->
-
-
-
-
-
-
-
+<!ENTITY reading.caption "Lesa">
+<!ENTITY display.caption "Sýna">
+<!ENTITY showCondensedAddresses.label "Sýna aðeins birtingarnafn fyrir tengiliði í nafnaskránni">
+<!ENTITY showCondensedAddresses.accesskey "S">
+<!ENTITY autoMarkAsRead.label "Merkja sjálfkrafa póst sem lesinn">
+<!ENTITY autoMarkAsRead.accesskey "a">
+<!ENTITY markAsReadNoDelay.label "Strax við birtingu">
+<!ENTITY markAsReadNoDelay.accesskey "x">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY markAsReadDelay.label "Eftir birtingu í">
+<!ENTITY markAsReadDelay.accesskey "b">
+<!ENTITY secondsLabel.label "sekúndur">
+<!ENTITY openMsgIn.label "Opna póst í:">
+<!ENTITY openMsgInNewTab.label "Nýjum flipa">
+<!ENTITY openMsgInNewTab.accesskey "f">
+<!ENTITY reuseExpRadio0.label "Í nýjum glugga">
+<!ENTITY reuseExpRadio0.accesskey "n">
+<!ENTITY reuseExpRadio1.label "Í glugga sem er til fyrir">
+<!ENTITY reuseExpRadio1.accesskey "e">
+<!ENTITY closeMsgOnMoveOrDelete.label "Loka póstglugga/flipa þegar verið er að færa eða eyða">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "L">
