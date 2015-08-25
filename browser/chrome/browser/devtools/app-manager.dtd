@@ -62,7 +62,7 @@
 <!ENTITY connection.installOneSimulator "Tsenya Seka thulaganyo-tiriso">
 <!ENTITY connection.installOneSimulatorTooltip "Tsenya mofuta wa Seka thulaganyo-tiriso ka go kopolola seoketswa se amanang">
 <!ENTITY connection.installAnotherSimulator "Tsenya">
-
+<!ENTITY connection.installAnotherSimulatorTooltip "Tsenya koketso mofuta wa Seka-thulaganyo-tiriso ka go kopolola seoketswa sese amanang">
 <!ENTITY connection.startRegisteredSimulator "Simolola:">
 
 <!ENTITY projects.localApps "Ditiriso tsa Selegae">
@@ -73,16 +73,16 @@
 <!ENTITY projects.addHostedTooltip "Tsenya tiriso e ntšha e tshegeditsweng (kgokagano mo faeleng ya manifest.webapp) go tswa mo Webosaete e kgakala">
 <!ENTITY projects.title "Ditiriso tsa Selegae">
 <!ENTITY projects.appDetails "Dintlha tsa Tiriso">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY projects.removeAppFromList "Tlosa tiriso eno go tsweng mo lenaane la ditiriso tse o berekelang mo go tsone. Se gase ka ke sa e tlosa mo sediriswa kgotsa seka-thulaganyo-tiriso.">
+<!ENTITY projects.updateApp "Tlhabolola">
+<!ENTITY projects.updateAppTooltip "Simolodisa netefatso tlholo le go tlhabolola tiriso mo sedirisweng se se golananyeng">
+<!ENTITY projects.debugApp "Rarabolola">
+<!ENTITY projects.debugAppTooltip "Bula Didiriswa tsa Badiri tse di golaganyeng le tiriso eno">
+<!ENTITY projects.saveManifest "Boloka">
+<!ENTITY projects.saveManifestTooltip "Boloka diteng tsa Setselaganyi sa Pônatsô fa tlase">
+<!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/tiriso/pônatsô.webapp">
+<!ENTITY projects.noProjects "Ga gona diporojeke. Tsenya sephuthelo se sesha sa tiriso fa tlase (Lenaneofaele le le gaufi) kgotsa tiriso e tshegeditsweng ( kgokagano mo faeleng ya pônatsô).">
+<!ENTITY projects.manifestEditor "Setselaganyi sa Pônatsô">
 
 
 
