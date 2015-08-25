@@ -3,14 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY privatebrowsingpage.title "Privénavigatie">
-<!ENTITY privatebrowsingpage.title.normal "U gebruikt geen privénavigatie">
 
-<!ENTITY privatebrowsingpage.issueDesc.normal2 "In privénavigatie worden geen navigatiegeschiedenis of cookies van u bewaard.">
-<!ENTITY privatebrowsingpage.issueDesc.private2 "Er worden geen navigatiegeschiedenis of cookies van u bewaard.">
+<!-- Localisation note: the plus sign here is a shorthand way of expressing the word "and". Contextually the privatebrowsingpage.title.private string
+                        is used as a title, with the privatebrowsingpage.title string preceding it but on a separate line.
+                        So the final line will say "Private Browsing + Tracking Protection". -->
+<!ENTITY privatebrowsingpage.title.private "+ Bescherming tegen volgen">
+<!ENTITY privatebrowsingpage.title.normal1 "U gebruikt geen Privénavigatie">
 
-<!ENTITY privatebrowsingpage.description2 "Bladwijzers die u toevoegt en bestanden die u downloadt worden wel op uw apparaat opgeslagen.">
-<!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
-<!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
+<!ENTITY privatebrowsingpage.description.private3 "Firefox zal voorkomen dat u wordt gevolgd en geen geschiedenis onthouden, maar gedownloade bestanden en nieuwe bladwijzers worden wel op uw apparaat opgeslagen.">
+<!ENTITY privatebrowsingpage.description.normal2 "In Privénavigatie worden geen navigatiegeschiedenis of cookies bewaard. Bladwijzers die u toevoegt en bestanden die u downloadt worden wel op uw apparaat opgeslagen.">
 
 <!ENTITY privatebrowsingpage.link.private "Wilt u meer weten?">
 <!ENTITY privatebrowsingpage.link.normal "Een nieuw privétabblad openen">

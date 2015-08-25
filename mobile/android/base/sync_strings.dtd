@@ -230,6 +230,7 @@
 <!ENTITY fxaccount_remove_account_toast 'Firefox-account &formatS; verwijderd.'>
 
 <!ENTITY fxaccount_remove_account_menu_item 'Account verwijderen'>
+<!ENTITY fxaccount_enable_debug_mode 'Debugmodus inschakelen'>
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
@@ -256,7 +257,7 @@
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Server is bezet, probeer het later opnieuw'>
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Server is bezet, probeer het later opnieuw'>
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Er was een probleem'>
-<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT 'Kan niet verbinden met het netwerk'>
+<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT 'Kan niet verbinden met netwerk'>
 <!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Account is vergrendeld. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; is niet verbonden'>
