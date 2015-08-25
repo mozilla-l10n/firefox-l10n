@@ -64,7 +64,7 @@
 <!ENTITY menu "Meniu">
 <!ENTITY back "Înapoi">
 <!ENTITY stop "Oprire">
-<!ENTITY site_security "Securitatea saitului">
+<!ENTITY site_security "Securitatea site-ului">
 <!ENTITY edit_mode_cancel "Renunță">
 
 <!ENTITY close_tab "Închide fila">
@@ -154,7 +154,7 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint "PONT: Adaugă orice sait în lista motoarelor de căutare prin lunga apăsare pe câmpul de căutare al acestuia iar apoi apăsând iconița &formatI;.">
+<!ENTITY pref_search_hint "PONT: Adaugă orice site în lista motoarelor de căutare prin lunga apăsare pe câmpul de căutare al acestuia iar apoi apăsând iconița &formatI;.">
 <!ENTITY pref_category_devtools "Unelte de dezvoltare">
 <!ENTITY pref_developer_remotedebugging "Depanare de la distanță">
 
@@ -179,8 +179,8 @@
 <!ENTITY pref_home_updates "Actualizări automate">
 <!ENTITY pref_home_updates_enabled "Activate">
 <!ENTITY pref_home_updates_wifi "Doar prin Wi-Fi">
-<!ENTITY pref_home_suggested_sites "Arată sugestii de saituri">
-<!ENTITY pref_home_suggested_sites_summary "Afișează scurtături pe pagina de start către saituri pe care noi credem că le-ai putea considera interesante">
+<!ENTITY pref_home_suggested_sites "Arată sugestii de site-uri">
+<!ENTITY pref_home_suggested_sites_summary "Afișează scurtături pe pagina de start către site-uri pe care noi credem că le-ai putea considera interesante">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Personalizare">
