@@ -21,6 +21,6 @@
 <!ENTITY  chooseHandlerMac.label      "Alege…">
 <!ENTITY  chooseHandlerMac.accesskey  "A">
 <!ENTITY  chooseHandler.label         "Răsfoiește…">
-<!ENTITY  chooseHandler.accesskey     "R">
+<!ENTITY  chooseHandler.accesskey     "f">
 
 <!ENTITY  unknownPromptText.label     "Doriți să salvați acest fișier?">

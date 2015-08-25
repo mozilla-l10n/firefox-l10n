@@ -35,7 +35,7 @@
 <!ENTITY report.failed                                       "Trimitere eșuată.">
 <!ENTITY report.unavailable                                  "Niciun raport disponibil.">
 <!ENTITY report.comment                                      "Adăugați un comentariu (comentariile sunt vizibile publicului)">
-<!ENTITY report.pageURL                                      "Include adresa paginii">
+<!ENTITY report.pageURL                                      "Include URL-ul paginii">
 
 <!ENTITY plugin.file                                         "Fișier">
 <!ENTITY plugin.mimeTypes                                    "Tipuri MIME">
