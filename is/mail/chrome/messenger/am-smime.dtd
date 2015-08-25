@@ -2,28 +2,30 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY securityTitle.label "Öryggi">
+<!ENTITY securityTab.label "Öryggi">
+<!ENTITY securityHeading.label "Til að senda og taka á móti dulkóðuðum pósti, þarftu að skilgreina bæði rafræna undirskrift og skilríki fyrir dulkóðun.">
+<!ENTITY encryptionGroupTitle.label "Dulritun">
+<!ENTITY encryptionChoiceLabel.label "Sjálfgefnar dulkóðunarstillingar þegar verið er að senda póst:">
+<!ENTITY neverEncrypt.label "Aldrei (ekki nota dulkóðun)">
+<!ENTITY neverEncrypt.accesskey "n">
+<!ENTITY alwaysEncryptMessage.label "Nauðsynlegt (ekki er hægt að senda póst nema allir viðtakendur séu með skilríki)">
+<!ENTITY alwaysEncryptMessage.accesskey "u">
+<!ENTITY encryptionCert.message "Nota þetta skilríki til að dulkóða og afkóða póst sem er sendur á þig:">
+<!ENTITY digitalSign.certificate.button "Velja…">
+<!ENTITY digitalSign.certificate.accesskey "V">
+<!ENTITY digitalSign.certificate_clear.button "Hreinsa">
+<!ENTITY digitalSign.certificate_clear.accesskey "H">
+<!ENTITY encryption.certificate.button "Velja…">
+<!ENTITY encryption.certificate.accesskey "e">
+<!ENTITY encryption.certificate_clear.button "Hreinsa">
+<!ENTITY encryption.certificate_clear.accesskey "r">
+<!ENTITY signingGroupTitle.label "Rafræn undirskrift">
+<!ENTITY signMessage.label "Skrifa undir póst með rafrænni undirskrift (sjálfgefið)">
+<!ENTITY signMessage.accesskey "d">
+<!ENTITY signingCert.message "Nota þetta skilríki fyrir rafræna undirskrift á pósti sem þú sendir:">
+<!ENTITY certificates.label "Skilríki">
+<!ENTITY manageCerts.label "Skoða skilríki">
+<!ENTITY manageCerts.accesskey "S">
+<!ENTITY manageDevices.label "Öryggistæki">
+<!ENTITY manageDevices.accesskey "y">

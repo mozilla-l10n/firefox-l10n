@@ -2,88 +2,96 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
+<!ENTITY itemGeneral.label "Almennt">
+<!ENTITY dataChoicesTab.label "Meðhöndlun gagna">
+<!ENTITY itemUpdate.label "Uppfærslur">
+<!ENTITY itemNetworking.label "Netkerfi og diskpláss">
+<!ENTITY itemCertificates.label "Skilríki">
 <!-- General Settings -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY enableGlodaSearch.label "Virkja víðtæka leit og atriðaskrá">
+<!ENTITY enableGlodaSearch.accesskey "i">
+<!ENTITY allowHWAccel.label "Nota vélbúnaðarhröðun ef mögulegt">
+<!ENTITY allowHWAccel.accesskey "h">
+<!ENTITY storeType.label "Tegund geymslu fyrir nýja reikninga:">
+<!ENTITY storeType.accesskey "T">
+<!ENTITY mboxStore2.label "Skrá per möppu (mbox)">
+<!ENTITY maildirStore.label "Skrá per skilaboð (maildir)">
+<!ENTITY scrolling.label "Skrun">
+<!ENTITY useAutoScroll.label "Nota sjálfvirka skrunun">
+<!ENTITY useAutoScroll.accesskey "u">
+<!ENTITY useSmoothScrolling.label "Nota fíngerða skrunun">
+<!ENTITY useSmoothScrolling.accesskey "f">
+<!ENTITY systemIntegration.label "Samþætting kerfis">
+<!ENTITY alwaysCheckDefault.label "Alltaf athuga hvort &brandShortName; sé sjálfgefið póstforrit í ræsingu">
+<!ENTITY alwaysCheckDefault.accesskey "l">
+<!ENTITY searchIntegration.label "Leyfa &searchIntegration.engineName; að leita í pósti">
+<!ENTITY searchIntegration.accesskey "s">
+<!ENTITY checkDefaultsNow.label "Kanna núna…">
+<!ENTITY checkDefaultsNow.accesskey "n">
+<!ENTITY configEditDesc.label "Ítarlegar stillingar">
+<!ENTITY configEdit.label "Stillinga ritill…">
+<!ENTITY configEdit.accesskey "g">
+<!ENTITY returnReceiptsInfo.label "Skilgreina hvernig &brandShortName; meðhöndlar staðfestingu á móttöku pósts">
+<!ENTITY showReturnReceipts.label "Staðfesting á lestri…">
+<!ENTITY showReturnReceipts.accesskey "S">
 <!-- Data Choices -->
-
-
-
-
-
-
-
-
-
+<!ENTITY telemetrySection.label "Fjarmæling">
+<!ENTITY telemetryDesc.label "Deila afkastagetu, notkun, vélbúnaði og stillingum fyrir tölvupóstforritið með &vendorShortName; til að hjálpa okkur að gera &brandShortName; betri">
+<!ENTITY enableTelemetry.label "Kveikja á fjarmælingu">
+<!ENTITY enableTelemetry.accesskey "f">
+<!ENTITY telemetryLearnMore.label "Fræðast meira">
+<!ENTITY crashReporterSection.label "Tilkynna hrun">
+<!ENTITY crashReporterDesc.label "&brandShortName; sendir hrunskýrslur til að hjálpa &vendorShortName; að gera póstforritið þitt betra og öruggara">
+<!ENTITY enableCrashReporter.label "Virkja hrunskýrslu">
+<!ENTITY enableCrashReporter.accesskey "V">
+<!ENTITY crashReporterLearnMore.label "Fræðast meira">
 <!-- Update -->
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY updateApp.label "&brandShortName; uppfærslur:">
+<!ENTITY updateAuto.label "Setja sjálfvirkt inn uppfærslur (mælt með: eykur öryggi)">
+<!ENTITY updateAuto.accesskey "a">
+<!ENTITY updateCheck.label "Athuga með uppfærslur, en leyfa mér að velja hvenær á að setja þær upp">
+<!ENTITY updateCheck.accesskey "A">
+<!ENTITY updateManual.label "Aldrei athuga með uppfærslur (ekki mælt með: öryggisáhætta)">
+<!ENTITY updateManual.accesskey "A">
+<!ENTITY updateAutoAddonWarn.label "Vara við ef uppfærslan gerir einhverja viðbót óvirka">
+<!ENTITY updateAutoAddonWarn.accesskey "V">
+<!ENTITY updateHistory.label "Sýna uppfærslusögu">
+<!ENTITY updateHistory.accesskey "p">
+<!ENTITY useService.label "Nota bakgrunnsþjónustu til að setja inn uppfærslur">
+<!ENTITY useService.accesskey "b">
 <!-- Networking and Disk Space -->
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY showSettings.label "Stillingar…">
+<!ENTITY showSettings.accesskey "n">
+<!ENTITY proxiesConfigure.label "Stilla hvernig &brandShortName; tengist við Internetið">
+<!ENTITY connectionsInfo.caption "Tenging">
+<!ENTITY offlineInfo.caption "Ónettengdur">
+<!ENTITY offlineInfo.label "Stilla ónettengdar stillingar">
+<!ENTITY showOffline.label "Ónettengdur…">
+<!ENTITY showOffline.accesskey "t">
+<!ENTITY Diskspace "Diskpláss">
+<!ENTITY offlineCompactFolders.label "Þjappa öllum möppum þegar vistað er yfir">
+<!ENTITY offlineCompactFolders.accesskey "a">
+<!ENTITY offlineCompactFoldersMB.label "MB alls">
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-
-
-
-
+<!ENTITY useCacheBefore.label "Nota að hámarki">
+<!ENTITY useCacheBefore.accesskey "o">
+<!ENTITY useCacheAfter.label "MB af plássi fyrir flýtiminni">
+<!ENTITY clearCacheNow.label "Hreinsa núna">
+<!ENTITY clearCacheNow.accesskey "H">
 <!-- Certificates -->
-
-
-
-
-
-
-
-
-
-
+<!ENTITY certSelection.description "Þegar netþjónn biður um mitt skilríki:">
+<!ENTITY certs.auto "Velja eitt sjálfkrafa">
+<!ENTITY certs.auto.accesskey "V">
+<!ENTITY certs.ask "Spyrja í hvert skipti">
+<!ENTITY certs.ask.accesskey "a">
+<!ENTITY enableOCSP.label "Tala við OCSP svarþjóna til að staðfesta gildi núverandi skílríkja">
+<!ENTITY enableOCSP.accesskey "T">
+<!ENTITY viewCertificates.label "Skoða skilríki">
+<!ENTITY viewCertificates.accesskey "k">
+<!ENTITY viewSecurityDevices.label "Öryggistæki">
+<!ENTITY viewSecurityDevices.accesskey "Ö">

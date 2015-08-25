@@ -2,37 +2,42 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
+<!ENTITY itemJunk.label "Ruslpóstur">
+<!ENTITY itemPhishing.label "Svikapóstur">
+<!ENTITY itemPasswords.label "Lykilorð">
+<!ENTITY itemAntiVirus.label "Vírusvörn">
 <!-- Junk Mail Controls -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY junkMail.intro "Stilla sjálfgefnar ruslpóstsstillingar. Stillingar fyrir ruslpóst fyrir ákveðinn reikning er hægt að stilla í stillingum reiknings.">
+<!ENTITY manualMark.label "Þegar ég flokka póst sem ruslpóst:">
+<!ENTITY manualMark.accesskey "Þ">
+<!ENTITY manualMarkModeMove.label "Færa þá í &quot;Ruslpóstur&quot; möppuna">
+<!ENTITY manualMarkModeMove.accesskey "F">
+<!ENTITY manualMarkModeDelete.label "Eyða þeim">
+<!ENTITY manualMarkModeDelete.accesskey "E">
+<!ENTITY markAsReadOnSpam.label "Merkja staðfestan ruslpóst sem lesinn">
+<!ENTITY markAsReadOnSpam.accesskey "M">
+<!ENTITY enableAdaptiveJunkLogging.label "Virkja atburðaskrá fyrir þjálfaða ruslpóstsíu">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "V">
+<!ENTITY openJunkLog.label "Sýna kladda">
+<!ENTITY openJunkLog.accesskey "S">
+<!ENTITY resetTrainingData.label "Endursetja þjálfunargögn">
+<!ENTITY resetTrainingData.accesskey "ö">
 <!-- Phishing Detector -->
-
-
-
-
+<!ENTITY phishingDetector1.intro "&brandShortName; getur reynt að greina hvort póstur er svikapóstur með því að leita eftir dæmigerðum aðferðum í svikapóstum.">
+<!ENTITY enablePhishingDetector1.label "Láta vita ef ég les póst sem er grunaður um að vera falsaður">
+<!ENTITY enablePhishingDetector1.accesskey "t">
+<!ENTITY useDownloadedList.label "Nota niðurhalaðan lista af grunuðum svikapósti">
+<!ENTITY useDownloadedList.accesskey "N">
 <!-- Passwords -->
-
-
-
-
-
-
-
+<!ENTITY savedPasswords.intro "&brandShortName; getur munað öll þín lykilorð þannig að þú þurfir ekki að slá þau inn aftur.">
+<!ENTITY useMasterPassword.label "Nota aðallykilorð">
+<!ENTITY useMasterPassword.accesskey "N">
+<!ENTITY masterPassword.intro "Aðallykilorð verndar öll önnur lykilorð en þú verður að slá það inn í hverri vafralotu.">
+<!ENTITY changeMasterPassword.label "Breyta aðallykilorði…">
+<!ENTITY changeMasterPassword.accesskey "B">
+<!ENTITY savedPasswords.label "Vistuð lykilorð…">
+<!ENTITY savedPasswords.accesskey "V">
 <!-- Anti Virus -->
-
-
-
+<!ENTITY antiVirus.intro "&brandShortName; gerir vírusvörnum kleyft að athuga allan innkominn póst varðandi vírusa áður en pósturinn er geymdur.">
+<!ENTITY antiVirus.label "Leyfa vírusvörn að setja einstaka innkomna pósta í sóttkví">
+<!ENTITY antiVirus.accesskey "L">
