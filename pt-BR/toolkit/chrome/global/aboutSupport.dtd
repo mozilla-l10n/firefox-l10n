@@ -59,6 +59,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Janelas multiprocesso">
 
+<!ENTITY aboutSupport.appBasicsSafeMode "Modo de segurança">
 
 <!ENTITY aboutSupport.showDir.label "Abrir pasta">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
