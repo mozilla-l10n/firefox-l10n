@@ -105,5 +105,5 @@
 <!ENTITY CopyMessageId.accesskey "C">
 <!ENTITY OpenMessageForMsgId.label "Deschide mesajul pentru ID">
 <!ENTITY OpenMessageForMsgId.accesskey "h">
-<!ENTITY OpenBrowserWithMsgId.label "Deschide navigatorul cu Message-ID">
-<!ENTITY OpenBrowserWithMsgId.accesskey "g">
+<!ENTITY OpenBrowserWithMsgId.label "Deschide browserul cu Message-ID">
+<!ENTITY OpenBrowserWithMsgId.accesskey "b">

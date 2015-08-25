@@ -18,7 +18,7 @@
 <!ENTITY alwaysAsk.label              "Întreabă-mă întotdeauna unde să fie salvate fișierele">
 <!ENTITY alwaysAsk.accesskey          "a">
 <!ENTITY chooseFolderWin.label        "Răsfoiește…">
-<!ENTITY chooseFolderWin.accesskey    "R">
+<!ENTITY chooseFolderWin.accesskey    "f">
 <!ENTITY chooseFolderMac.label        "Alege…">
 <!ENTITY chooseFolderMac.accesskey    "A">
 

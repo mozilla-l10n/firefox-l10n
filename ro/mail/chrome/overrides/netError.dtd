@@ -52,7 +52,7 @@ că &brandShortName; are permisiunea de a accesa webul.</li>
 
 <!ENTITY netOffline.title "Mod offline">
 <!ENTITY netOffline.longDesc2 "<ul> 
-<li>Apasă &quot;Încearcă din nou&quot; pentru a comuta la navigarea în modul online și reîncarcă pagina.</li> 
+<li>Apăsați pe „Încearcă din nou” pentru a comuta la modul online și a reîncărca pagina.</li> 
 </ul>">
 
 <!ENTITY contentEncodingError.title "Eroare de codare a conținutului">

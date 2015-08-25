@@ -34,6 +34,6 @@
 <!ENTITY customsound.label                "Utilizează următorul fișier de sunet">
 <!ENTITY customsound.accesskey            "U">
 <!ENTITY browse.label                     "Răsfoiește…">
-<!ENTITY browse.accesskey                 "R">
+<!ENTITY browse.accesskey                 "f">
 
 <!ENTITY defaultSearchEngine.label        "Motorul de căutare implicit">
