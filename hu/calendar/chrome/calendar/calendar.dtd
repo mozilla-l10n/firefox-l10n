@@ -252,10 +252,14 @@
 <!ENTITY calendar.context.export.accesskey             "x">
 <!ENTITY calendar.context.properties.label             "Tulajdonságok">
 <!ENTITY calendar.context.properties.accesskey         "T">
-<!-- LOCALIZATION NOTE (calendar.context.togglevisible.accesskey)
+<!-- LOCALIZATION NOTE (calendar.context.showcalendar.accesskey)
      This is the access key used for the showCalendar string -->
 
-<!ENTITY calendar.context.togglevisible.accesskey      "N">
+<!ENTITY calendar.context.showcalendar.accesskey      "m">
+<!-- LOCALIZATION NOTE (calendar.context.hidecalendar.accesskey)
+     This is the access key used for the hideCalendar string -->
+
+<!ENTITY calendar.context.hidecalendar.accesskey      "r">
 <!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
      This is the access key used for the showOnlyCalendar string -->
 
