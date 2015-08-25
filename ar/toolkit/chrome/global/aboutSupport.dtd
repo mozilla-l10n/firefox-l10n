@@ -57,6 +57,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "نوافذ متعددة السيرورات">
 
+<!ENTITY aboutSupport.appBasicsSafeMode "الوضع الآمن">
 
 <!ENTITY aboutSupport.showDir.label "افتح المجلد">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
