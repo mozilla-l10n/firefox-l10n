@@ -13,3 +13,4 @@
 <!ENTITY showAllUnreadMessagesCount.accesskey  "O">
 <!ENTITY dockIconBadge.label                   "Appikon megjelölése">
 <!ENTITY dockIconShow.label                    "Appikon megjelölése ezzel:">
+<!ENTITY directNotificationSettings.label      "A kitűzőt a Rendszerbeállítások Értesítés lapján tudja letiltani.">
