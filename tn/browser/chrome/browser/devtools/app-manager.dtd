@@ -83,18 +83,19 @@
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/tiriso/pônatsô.webapp">
 <!ENTITY projects.noProjects "Ga gona diporojeke. Tsenya sephuthelo se sesha sa tiriso fa tlase (Lenaneofaele le le gaufi) kgotsa tiriso e tshegeditsweng ( kgokagano mo faeleng ya pônatsô).">
 <!ENTITY projects.manifestEditor "Setselaganyi sa Pônatsô">
-
-
-
+<!ENTITY projects.manifestEditorTooltip "Tseleganya tiriso ya gago ya pônatsô mo phaneleng fa tlase. Konopo ya tlhabololo e tla boloka diphetogo tsa gago le go tlhabolola tiriso.">
+<!ENTITY projects.manifestViewer "Sebontsha Pônatsô">
+<!ENTITY projects.manifestViewerTooltip "Tlhatlhoba tiriso pônatsô ya gago mo phaneleng fa tlase">
 <!ENTITY projects.valid "Boammaaruri">
 <!ENTITY projects.error "Phoso">
+<!ENTITY projects.warning "Tsiboso">
+<!ENTITY projects.hosted "Tshegeditse">
+<!ENTITY projects.packaged "Phuthetswe">
 
-
-
-
+<!ENTITY help.title "Molaola Tiriso">
 <!ENTITY help.close "Tswala">
-
-
+<!ENTITY help.intro "Sediriswa seno se tla go thusa go aga le go tsenya ditiriso tsa webo mo sediriswa se se tsamaelana (sekaô Tsamaisotiriso ya Firefox). Thebe ya <strong>Ditiriso</strong> e tla go thusa mo netefatso le thulaganyo-tsenyô ya tiriso ya gago. Thebe ya <strong>Sediriswa</strong>e tla go fa tshedimosetso ka sediriswa se se golaganyeng. Dirisa bara ya didiriswa e fa tlase go golaganya le sediriswa kgotsa go simolodisa se ka thulaganyo - tiriso.">
+<!ENTITY help.usefullLinks "Dikgokagano tse di Molemô:">
 
 
 
