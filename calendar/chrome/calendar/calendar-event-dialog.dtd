@@ -98,7 +98,7 @@
 <!ENTITY  event.menu.view.toolbars.event.accesskey        "e">
 <!ENTITY  event.menu.view.toolbars.customize.label        "Personalizează…">
 <!ENTITY  event.menu.view.toolbars.customize.accesskey    "P">
-<!ENTITY  event.menu.view.showlink.label                  "Arată legătura către „Asocieri”">
+<!ENTITY  event.menu.view.showlink.label                  "Arată linkul către „Asocieri”">
 <!ENTITY  event.menu.view.showlink.accesskey              "r">
 
 <!ENTITY  event.menu.options.label                            "Opțiuni">
@@ -200,7 +200,7 @@
 <!ENTITY event.attachments.popup.removeAll.accesskey      "a" >
 <!ENTITY event.attachments.popup.attachPage.label         "Atașează o pagină web…" >
 <!ENTITY event.attachments.popup.attachPage.accesskey     "w" >
-<!ENTITY event.url.label                                  "Legătura către asocieri:" >
+<!ENTITY event.url.label                                  "Linkul către asocieri:" >
 <!ENTITY event.priority2.label                            "Prioritate:">
 
 <!ENTITY event.reminder.none.label                        "Fără memento " >
@@ -372,4 +372,4 @@
 <!ENTITY read.only.reminder.label        "Memento:">
 <!ENTITY read.only.attendees.label       "Participanți">
 <!ENTITY read.only.description.label     "Descriere">
-<!ENTITY read.only.link.label            "Legătura către asocieri">
+<!ENTITY read.only.link.label            "Linkul către asocieri">
