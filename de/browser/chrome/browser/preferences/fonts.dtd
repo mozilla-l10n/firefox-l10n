@@ -65,7 +65,7 @@
 <!ENTITY  allowPagesToUse.accesskey               "d">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Textkodierung für veralteten Inhalt">
-<!ENTITY languages.customize.Fallback2.label      "Rückfall-Textkodierung:">
+<!ENTITY languages.customize.Fallback2.label      "Ersatz-Textkodierung:">
 <!ENTITY languages.customize.Fallback2.accesskey  "T">
 <!ENTITY languages.customize.Fallback2.desc       "Diese Zeichenkodierung wird für veraltete Inhalte verwendet, welche ihre Zeichenkodierung nicht angeben.">
 
