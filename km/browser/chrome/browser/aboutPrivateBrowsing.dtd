@@ -10,6 +10,8 @@
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
      Width of the Private Browsing section.
      -->
+
+<!ENTITY aboutPrivateBrowsing.width            "25em">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
      aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
      These strings will be replaced by aboutPrivateBrowsing.forgotten and
@@ -17,30 +19,39 @@
      -->
 
 <!ENTITY aboutPrivateBrowsing.title            "អ្នក​កំពុង​រុករក​ដោយ​ភាព​ឯកជន">
+<!ENTITY aboutPrivateBrowsing.subtitle         "នៅ​ក្នុង​បង្អួច​នេះ, &brandShortName; នឹង​មិន​ចងចាំ​ប្រវត្តិ​ណា​មួយ​ឡើយ។">
 
-
-
+<!ENTITY aboutPrivateBrowsing.forgotten        "នៅ​ក្នុង​បង្អួច​នេះ, &brandShortName; នឹង​មិន​ចងចាំ៖">
+<!ENTITY aboutPrivateBrowsing.info.forgotten   "បំភ្លេច">
 <!ENTITY aboutPrivateBrowsing.info.history     "ប្រវត្តិ">
-
+<!ENTITY aboutPrivateBrowsing.info.searches    "ស្វែងរក">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "​ខូគី">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "ឯកសារ​បណ្ដោះអាសន្ន">
 
-
-
+<!ENTITY aboutPrivateBrowsing.kept             "&brandShortName; នឹង​រក្សា៖">
+<!ENTITY aboutPrivateBrowsing.info.kept        "បាន​រក្សា">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "ទាញ​យក">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "ចំណាំ">
 
+<!ENTITY aboutPrivateBrowsing.note1            "សូម​ចំណាំ​ថា​និយោជក​របស់​អ្នក ឬ​អ្នក​ផ្ដល់​សេវាកម្ម​អ៊ីនធឺណិត​​នៅ​តែ​អាច​តាមដាន​ទំព័រ​ដែល​អ្នក​​ចូល​មើល។">
 <!ENTITY aboutPrivateBrowsing.learnMore        "ស្វែងយល់​បន្ថែម។">
 <!-- LOCALIZATION NOTE (trackingProtection.width):
      Width of the Tracking Protection section. This should be enough to
      accommodate the title as well as the enabled or disabled indicator.
      -->
 
+<!ENTITY trackingProtection.width              "22em">
+<!ENTITY trackingProtection.title              "ការ​ទប់ស្កាត់​ការ​តាមដាន">
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
 
+<!ENTITY trackingProtection.state.width        "6ch">
+<!ENTITY trackingProtection.state.enabled      "បើក">
+<!ENTITY trackingProtection.state.disabled     "បិទ">
 
+<!ENTITY trackingProtection.description1       "ឥឡូវ​នេះ​បង្អួច​ឯកជន​​បាន​បិទ​ផ្នែក​ខ្លះ​នៃ​ទំព័រ​​ដែល​អាច​តាមដាន​សកម្មភាព​រក​មើល​របស់​អ្នក។">
 
-
-
-
+<!ENTITY trackingProtection.disable            "បិទ​ការ​ទប់ស្កាត់​ការ​តាមដាន">
+<!ENTITY trackingProtection.enable             "បើក​ការ​ទប់ស្កាត់​ការ​តាមដាន">
+<!ENTITY trackingProtection.startTour1         "មើល​​ថា​វា​ដំណើរការ​ដូច​ម្ដេច">
