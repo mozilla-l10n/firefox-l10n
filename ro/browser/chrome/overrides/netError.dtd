@@ -155,13 +155,13 @@ button is included here (instead of netError.xhtml) because it exposes
 functionality specific to firefox. -->
 
 
-<!ENTITY securityOverride.warningContent "<p>Nu ar trebui să adăugați o excepție dacă utilizați o conexiune la internet în care nu aveți încredere în întregime sau dacă nu sunteți obișnuit să vedeți un avertisment pentru acest server.</p> 
+<!ENTITY securityOverride.warningContent "<p>Nu ar trebui să adăugați o excepție dacă folosiți o conexiune la internet în care nu aveți încredere în totalitate sau dacă nu sunteți obișnuit să vedeți un avertisment pentru acest server.</p> 
  
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY errorReporting.title "Raportați această eroare">
-<!ENTITY errorReporting.longDesc "Raportarea adresei și informațiilor din certificat pentru <span id='hostname'></span> ne va ajuta să identificăm și să blocăm saiturile malițioase. Vă mulțumim pentru ajutor la crearea un web mai sigur!">
+<!ENTITY errorReporting.longDesc "Raportarea adresei și informațiilor din certificat pentru <span id='hostname'></span> ne va ajuta să identificăm și să blocăm site-urile malițioase. Vă mulțumim pentru ajutor la crearea un web mai sigur!">
 <!ENTITY errorReporting.automatic "Raportează automat erorile în viitor">
 <!ENTITY errorReporting.learnMore "Aflați mai multe…">
 <!ENTITY errorReporting.sending "Se trimite raportul">
