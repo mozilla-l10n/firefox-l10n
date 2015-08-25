@@ -16,13 +16,13 @@
 
 <!ENTITY keepHistory.label "Reține site-urile și linkurile pe care le-am vizitat">
 <!ENTITY keepHistory.accesskey "R">
-<!ENTITY acceptCookies.label "Acceptă cookie-uri de la saituri">
+<!ENTITY acceptCookies.label "Acceptă cookie-uri de la site-uri">
 <!ENTITY acceptCookies.accesskey "c">
 <!ENTITY acceptThirdParty.pre.label "Acceptă cookie-uri terțe:">
 <!ENTITY acceptThirdParty.pre.accesskey "c">
 <!ENTITY acceptThirdParty.always.label "Întotdeauna">
 <!ENTITY acceptThirdParty.never.label "Niciodată">
-<!ENTITY acceptThirdParty.visited.label "De la saiturile vizitate">
+<!ENTITY acceptThirdParty.visited.label "De la site-urile vizitate">
 <!ENTITY keepUntil.label "Păstrează-le până când:">
 <!ENTITY keepUntil.accesskey "P">
 <!ENTITY expire.label "expiră">
@@ -33,6 +33,6 @@
 <!ENTITY showCookies.label "Arată cookie-urile…">
 <!ENTITY showCookies.accesskey "A">
 
-<!ENTITY dntTrackingNotOkay.label2 "Informează saiturile web că nu vreau să fiu urmărit">
+<!ENTITY dntTrackingNotOkay.label2 "Informează site-urile web că nu vreau să fiu urmărit">
 <!ENTITY dntTrackingNotOkay.accesskey "n">
 <!ENTITY doNotTrackInfo.label "Află mai multe despre Nu mă urmări">

@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Window title -->
 
-<!ENTITY siteUrl.label         "Adresă sait:">
+<!ENTITY siteUrl.label         "URL-ul site-ului:">
 <!ENTITY docSubdir.label       "Subdirector pagini:">
 <!ENTITY otherSubdir.label     "Subdirector imagini:">
 

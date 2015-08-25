@@ -27,7 +27,7 @@
 
 <!ENTITY insertMenu.label "Inserare">
 <!ENTITY insertMenu.accesskey "I">
-<!ENTITY insertLinkCmd.label "Legătură…">
+<!ENTITY insertLinkCmd.label "Link…">
 <!ENTITY insertLinkCmd.accesskey "L">
 <!ENTITY insertLinkCmd.key "L">
 <!ENTITY insertAnchorCmd.label "Ancoră cu nume…">
@@ -304,7 +304,7 @@
 <!ENTITY hruleToolbarCmd.tooltip "Inserează o linie orizontală sau editează proprietățile liniei selectate">
 <!ENTITY tableToolbarCmd.label "Tabel">
 <!ENTITY tableToolbarCmd.tooltip "Inserează un nou tabel sau editează proprietățile tabelului selectat">
-<!ENTITY linkToolbarCmd.label "Legătură">
+<!ENTITY linkToolbarCmd.label "Link">
 <!ENTITY linkToolbarCmd.tooltip "Inserează un nou link sau editează proprietățile linkului selectat">
 <!ENTITY anchorToolbarCmd.label "Ancoră">
 <!ENTITY anchorToolbarCmd.tooltip "Inserează o nouă ancoră cu nume sau editează proprietățile ancorei selectate">
