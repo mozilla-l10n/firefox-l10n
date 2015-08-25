@@ -29,8 +29,7 @@ att &brandShortName; har tillstånd att ansluta till webben.</li>
 
 <!ENTITY fileNotFound.title "Filen kan inte hittas">
 <!ENTITY fileNotFound.longDesc "<ul> 
-<li>Kontrollera om det finns stavfel eller andra typografiska fel i 
-filnamnet.</li> 
+<li>Kontrollera om det finns stavfel eller andra typografiska fel i filnamnet.</li> 
 <li>Kontrollera om filen flyttats, fått ett annat namn eller tagits bort.</li> 
 </ul>">
 
@@ -101,7 +100,8 @@ emot kakor.</li>
 
 <!ENTITY unknownSocketType.title "Oväntat svar från servern">
 <!ENTITY unknownSocketType.longDesc "<ul> 
-<li>Kontrollera att Personal Security Manager finns installerat på datorn.</li> 
+<li>Kontrollera att Personal Security Manager finns installerat 
+ på datorn.</li> 
 <li>Det här kan ibland bero på en ovanlig konfiguration på servern.</li> 
 </ul>">
 
