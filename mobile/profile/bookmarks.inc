@@ -37,7 +37,7 @@
 
 
 
-#define bookmarks_aboutBrowser Firefox: sobre o seu navegador
+#define bookmarks_aboutBrowser Firefox: Sobre o seu navegador
 
 
 
@@ -49,7 +49,7 @@
 
 
 
-#define bookmarks_addons Firefox: personalize com complementos
+#define bookmarks_addons Firefox: Personalize com complementos
 
 
 
@@ -61,7 +61,7 @@
 
 
 
-#define bookmarks_support Firefox: suporte
+#define bookmarks_support Firefox: Suporte
 
 
 
