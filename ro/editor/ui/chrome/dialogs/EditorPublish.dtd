@@ -10,13 +10,13 @@
 <!ENTITY publishButton.label          "Publică">
 <!-- Publish Tab Panel -->
 
-<!ENTITY siteList.label               "Nume sait:">
+<!ENTITY siteList.label               "Numele site-ului:">
 <!ENTITY siteList.accesskey           "e">
-<!ENTITY siteList.tooltip             "Alegeți saitul pe care doriți să publicați">
-<!ENTITY newSiteButton.label          "Sait nou">
+<!ENTITY siteList.tooltip             "Alegeți site-ul pe care doriți să publicați">
+<!ENTITY newSiteButton.label          "Site nou">
 <!ENTITY newSiteButton.accesskey      "n">
-<!ENTITY docDirList.label             "Subdirectorul acestei pagini pe sait:">
-<!ENTITY docDirList.accesskey         "S">
+<!ENTITY docDirList.label             "Subdirectorul site-ului pentru această pagină:">
+<!ENTITY docDirList.accesskey         "s">
 <!ENTITY docDirList.tooltip           "Alegeți sau introduceți numele directorului aflat la distanță pentru această pagină">
 <!ENTITY publishImgCheckbox.label     "Include imaginile și celelalte fișiere">
 <!ENTITY publishImgCheckbox.accesskey "I">
@@ -24,7 +24,7 @@
 <!ENTITY sameLocationRadio.label      "Utilizează aceeași locație ca și pentru pagină">
 <!ENTITY sameLocationRadio.accesskey  "U">
 <!ENTITY sameLocationRadio.tooltip    "Publică fișierele la aceeași locație ca și pagina">
-<!ENTITY useSubdirRadio.label         "Folosește acest subdirector de pe sait:">
+<!ENTITY useSubdirRadio.label         "Folosește acest subdirector de pe site:">
 <!ENTITY useSubdirRadio.accesskey     "d">
 <!ENTITY useSubdirRadio.tooltip       "Publică fișierele în directorul de la distanță selectat">
 <!ENTITY otherDirList.tooltip         "Alegeți sau introduceți numele unui subdirector la distanță unde se vor publica fișierele">
@@ -38,16 +38,16 @@
 <!ENTITY filenameExample.label        "ex.: „pagina mea.html”">
 <!ENTITY setDefaultButton.label       "Implicit">
 <!ENTITY setDefaultButton.accesskey   "I">
-<!ENTITY removeButton.label           "Elimină saitul">
+<!ENTITY removeButton.label           "Elimină site-ul">
 <!ENTITY removeButton.accesskey       "E">
 <!-- Settings Tab Panel -->
 
-<!ENTITY publishSites.label           "Saituri de publicare">
+<!ENTITY publishSites.label           "Site-uri de publicare">
 <!ENTITY serverInfo.label             "Informații despre server">
 <!ENTITY loginInfo.label              "Informații de autentificare">
-<!ENTITY siteName.label               "Nume sait:">
+<!ENTITY siteName.label               "Numele site-ului:">
 <!ENTITY siteName.accesskey           "e">
-<!ENTITY siteName.tooltip             "Un nume scurt care identifică acest sit de publicare (ex.: „SaitulMeu”)">
+<!ENTITY siteName.tooltip             "Un nume scurt care identifică acest site de publicare (ex.: „Site-ulMeu”)">
 <!ENTITY siteUrl.label                "Adresa de publicare (ex.: „ftp://ftp.isp.ro/numelemeu”):">
 <!ENTITY siteUrl.accesskey            "A">
 <!ENTITY siteUrl.tooltip              "Adresa FTP:// sau HTTP:// furnizată de ISP sau de serviciul de găzduire web">

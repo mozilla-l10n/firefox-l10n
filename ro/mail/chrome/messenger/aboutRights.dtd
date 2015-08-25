@@ -38,10 +38,10 @@
 <!-- point 4 text for unbranded builds -->
 
 <!ENTITY rights.intro-point4a-unbranded "Dacă produsul acesta include servicii web, orice termeni aplicabili serviciilor ar trebui să fie accesibili în secțiunea ">
-<!ENTITY rights.intro-point4b-unbranded "„Servicii de informare asupra saiturilor”">
+<!ENTITY rights.intro-point4b-unbranded "„Servicii de informare asupra site-urilor”">
 <!ENTITY rights.intro-point4c-unbranded " secțiune.">
 
-<!ENTITY rights.webservices-header "Servicii &brandFullName; de informare asupra saiturilor">
+<!ENTITY rights.webservices-header "Servicii &brandFullName; de informare asupra site-urilor">
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
      the UI, without this page being forgotten every time those strings are
@@ -55,7 +55,7 @@
 <!ENTITY rights.webservices-e " unde trebuie să nu bifați opțiunile din secțiunea „Caută automat actualizări pentru”.">
 <!-- intro paragraph for unbranded builds -->
 
-<!ENTITY rights.webservices-unbranded "Aici ar trebui inclusă o privire de ansamblu asupra serviciilor de informare asupra saiturilor pe care acest produs le include împreună cu instrucțiuni cum pot fi dezactivate, dacă e cazul.">
+<!ENTITY rights.webservices-unbranded "O privire de ansamblu a serviciilor de informare asupra site-urilor pe care acest produs le include împreună cu instrucțiuni cum pot fi dezactivate, dacă e cazul, ar trebui incluse aici.">
 <!-- point 1 text for unbranded builds -->
 
 <!ENTITY rights.webservices-term1-unbranded "Aici ar trebui listați orice termeni aplicabili serviciului pentru acest product.">

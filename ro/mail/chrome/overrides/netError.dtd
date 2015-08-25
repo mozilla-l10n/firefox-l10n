@@ -48,7 +48,7 @@ că &brandShortName; are permisiunea de a accesa webul.</li>
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Document expirat">
-<!ENTITY notCached.longDesc "<p>Documentul cerut nu e disponibil în cache.</p><ul><li>Ca o măsură de siguranță, &brandShortName; nu cere din nou automat documente ce par a fi confidențiale.</li><li>Clic pe Încearcă din nou pentru a cere din nou documentul de la saitul de unde provine.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Documentul cerut nu e disponibil în cache.</p><ul><li>Ca o măsură de siguranță, &brandShortName; nu cere din nou automat documente ce par a fi confidențiale.</li><li>Clic pe Încearcă din nou pentru a cere din nou documentul de la site-ul web de unde provine.</li></ul>">
 
 <!ENTITY netOffline.title "Mod offline">
 <!ENTITY netOffline.longDesc2 "<ul> 
@@ -131,7 +131,7 @@ că &brandShortName; are permisiunea de a accesa webul.</li>
 <!ENTITY malwareBlocked.longDesc "<p>Site-urile de atac încearcă să instaleze programe care fură informații private, vă folosesc calculatorul pentru a ataca altele sau pentru a vă provoca pagube sistemului.</p> 
 <p>Proprietarii site-urilor web care cred că site-ul lor a fost raportat ca unul de atac dintr-o greșeală pot <a href='http://www.stopbadware.org/home/reviewinfo'>cere o revizuire</a>.</p>">
 
-<!ENTITY unwantedBlocked.title "Sait cu programe nedorite suspectat!">
+<!ENTITY unwantedBlocked.title "Site cu programe nedorite suspectat!">
 <!ENTITY unwantedBlocked.longDesc "<p>Paginile cu programe nedorite încearcă să instaleze programe care pot fi înșelătoare și vă afectează sistemul în moduri neașteptate.</p>">
 
 <!ENTITY phishingBlocked.title "Site suspectat de fals!">

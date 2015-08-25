@@ -19,7 +19,7 @@
 <!ENTITY image.label            "Imagine">
 <!ENTITY hline.label            "H. Linie">
 <!ENTITY table.label            "Tabel">
-<!ENTITY link.label             "Legătură">
+<!ENTITY link.label             "Link">
 <!ENTITY anchor.label           "Ancoră">
 
 <!ENTITY formatting.caption     "Afișează următoarele butoane în bara de formatare:">

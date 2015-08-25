@@ -19,7 +19,7 @@
 <!ENTITY referencesField4.label "Referințe">
 <!ENTITY messageIdField4.label "ID mesaj">
 <!ENTITY inReplyToField4.label "Ca răspuns la">
-<!ENTITY originalWebsite4.label "Sait web">
+<!ENTITY originalWebsite4.label "Site web">
 
 <!ENTITY hdrArchiveButton1.label "Arhivează">
 <!ENTITY hdrArchiveButton1.tooltip "Arhivează acest mesaj">
