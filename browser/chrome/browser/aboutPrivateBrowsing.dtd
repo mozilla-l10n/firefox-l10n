@@ -27,7 +27,7 @@
 <!ENTITY aboutPrivateBrowsing.info.cookies     "ಕುಕಿಗಳು">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "ತಾತ್ಕಾಲಿಕ ಕಡತಗಳು">
 
-
+<!ENTITY aboutPrivateBrowsing.info.kept        "ಇರಿಸಲಾದ">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "ಇಳಿಕೆಗಳು">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "ಪುಟಗುರುತುಗಳು">
 
@@ -37,11 +37,15 @@
      accommodate the title as well as the enabled or disabled indicator.
      -->
 
+<!ENTITY trackingProtection.width              "22em">
+<!ENTITY trackingProtection.title              "ಜಾಡು ಇರಿಸುವಿಕೆಗೆ ರಕ್ಷಣೆ">
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
 
-
+<!ENTITY trackingProtection.state.width        "6ch">
+<!ENTITY trackingProtection.state.enabled      "ON">
+<!ENTITY trackingProtection.state.disabled     "OFF">
 
 
 
