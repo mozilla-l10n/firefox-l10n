@@ -303,6 +303,8 @@
 <!ENTITY netmonitorUI.context.copyResponse "ចម្លង​ការ​ឆ្លើយតប">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyRespose.accesskey): This is the access key
   -  for the Copy Response menu item displayed in the context menu for a request -->
+
+<!ENTITY netmonitorUI.context.copyResponse.accesskey  "R">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyImageAsDataUri): This is the label displayed
   -  on the context menu that copies the selected image as data uri -->
 
