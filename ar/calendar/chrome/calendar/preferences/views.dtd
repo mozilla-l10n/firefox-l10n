@@ -8,7 +8,7 @@
 
 
 <!ENTITY pref.calendar.view.allview.caption "عام">
-
+<!ENTITY pref.calendar.view.dayandweekviews.caption "منظورا اليوم والأسبوع">
 <!ENTITY pref.calendar.view.multiweekview.caption "منظور الأسابيع المتعددة">
 <!ENTITY pref.calendar.view.workweek.caption "أسبوع العمل">
 
