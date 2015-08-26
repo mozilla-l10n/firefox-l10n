@@ -10,6 +10,7 @@
 <!ENTITY  onboard_start_subtext3 "ធ្វើ​ឲ្យ​បទពិសោធន៍​រក​មើល​​តាម​បណ្ដាញ​ចល័ត​របស់​អ្នក​​ជា​ម្ចាស់​របស់​អ្នក​ពិតៗ។">
 <!ENTITY  onboard_start_button_account "ចូល​ &brandShortName;">
 <!ENTITY  onboard_start_button_browser "ចាប់​ផ្ដើម​រុករក">
+<!ENTITY  onboard_start_restricted1 "មាន​សុវត្ថិភាព និង​​ស្ថិត​ក្នុង​​ការ​ត្រួតពិនិត្យ​ជាមួយ​កំណែ​ &brandShortName; ដែល​បាន​ធ្វើ​ឲ្យ​សាមញ្ញ​នេះ។">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -68,6 +69,8 @@
 <!ENTITY edit_mode_cancel "បោះបង់">
 
 <!ENTITY close_tab "បិទ​ផ្ទាំង">
+<!ENTITY tab_audio_playing "ផ្ទាំង​នេះ​កំពុង​លេង​អូឌីយ៉ូ">
+<!ENTITY tab_audio_muted "ផ្ទាំង​នេះ​ត្រូវបាន​បិទ​សំឡេង">
 <!ENTITY one_tab "ផ្ទាំង ១">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -155,6 +158,9 @@
 <!ENTITY pref_search_hint "ព័ត៌មាន​ជំនួយ៖ បន្ថែម​តំបន់បណ្ដាញ​ណាមួយ​ទៅកាន់​​ក្រុមហ៊ុន​ផ្ដល់​​ការ​ស្វែងរក ដោយ​ចុច​​លើ​វាល​ស្វែងរក​របស់​វា បន្ទាប់​មក​ប៉ះ​រូបតំណាង &formatI; ។">
 <!ENTITY pref_category_devtools "ឧបករណ៍​អ្នក​អភិវឌ្ឍន៍">
 <!ENTITY pref_developer_remotedebugging "ការ​បំបាត់​កំហុស​ពី​ចម្ងាយ">
+<!ENTITY pref_developer_remotedebugging_usb "បញ្ជា​​កែ​កំហុស​ពី​ចម្ងាយ​តាមរយៈ​យូអេសប៊ី">
+<!ENTITY pref_developer_remotedebugging_wifi "បញ្ជា​​​កែ​កំហុស​ពី​ចម្ងាយ​តាមរយៈ​វ៉ាយហ្វាយ">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "ការ​​កែ​កំហុស​តាម​វ៉ាយហ្វាយ​ទាមទារ​ឧបករណ៍​របស់​អ្នក​​ដំឡើង​កម្មវិធី​អាន​កូដ QR ។">
 <!ENTITY pref_category_logins "ចូល">
 <!ENTITY pref_remember_signons2 "ចងចាំ​ការ​ចូល">
 <!ENTITY pref_open_external_urls_privately_title "បើក​តំណ​ក្នុង​ការ​រក​មើល​ឯកជន">
@@ -191,16 +197,21 @@
 <!ENTITY pref_cookies_not_accept_foreign "បាន​បើក រួមបញ្ចូល​ទាំង​ភាគី​ទី៣">
 <!ENTITY pref_cookies_disabled "បាន​បិទ">
 
-<!ENTITY pref_tracking_protection_title "រារាំង​ការ​តាមដាន">
-<!ENTITY pref_tracking_protection_summary "&brandShortName; នឹង​រារាំង​តំបន់បណ្ដាញ​ពី​ការ​តាមដាន​អ្នក">
+<!ENTITY pref_tracking_protection_title "ការ​ទប់ស្កាត់​ការ​តាមដាន">
+<!ENTITY pref_tracking_protection_summary3 "បាន​អនុញ្ញាត​​នៅ​ក្នុង​ការ​​រក​មើល​ជា​ឯកជន">
 <!ENTITY pref_donottrack_title "កុំ​តាមដាន">
 <!ENTITY pref_donottrack_summary "&brandShortName; នឹង​ប្រាប់​តំបន់បណ្ដាញ​ថា​អ្នក​មិន​ចង់​ឲ្យ​តាមដាន​ទេ">
+
+<!ENTITY tracking_protection_prompt_title "ឥឡូវ​ដោយ​​​ប្រើ​ការ​ទប់ស្កាត់​ការ​តាមដាន">
+
+
+
 
 <!ENTITY tab_queue_toast_message3 "ផ្ទាំង​ដែល​បាន​រក្សាទុក​ក្នុង &brandShortName;">
 <!ENTITY tab_queue_toast_action "បើក​ឥឡូវ​នេះ">
 <!ENTITY tab_queue_prompt_title "បើក​តំណ​ច្រើន​មែនទេ?">
-<!ENTITY tab_queue_prompt_text3 "រក្សាទុក​វា​រហូត​ដល់​ពេល​ក្រោយ​ដែល​អ្នក​បើក &brandShortName;">
-<!ENTITY tab_queue_prompt_tip_text "អ្នក​អាច​ផ្លាស់ប្ដូរ​វា​បាន​ពេល​ក្រោយ​នៅ​ក្នុង​ការ​កំណត់">
+
+
 <!ENTITY tab_queue_prompt_positive_action_button "បើក​ដំណើរការ">
 <!ENTITY tab_queue_prompt_negative_action_button "​មិនមែន​ឥឡូវ">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
@@ -330,7 +341,6 @@ size. -->
 <!ENTITY addons "កម្មវិធី​បន្ថែម">
 <!ENTITY logins "ចូល">
 <!ENTITY downloads "ទាញ​យក">
-<!ENTITY apps "កម្មវិធី">
 <!ENTITY char_encoding "ការ​អ៊ិនកូដ​តួអក្សរ">
 
 <!ENTITY share "ចែករំលែក">
@@ -400,6 +410,9 @@ size. -->
 <!ENTITY pref_titlebar_mode "របារ​ចំណង​ជើង">
 <!ENTITY pref_titlebar_mode_title "បង្ហាញ​ចំណងជើង​ទំព័រ">
 <!ENTITY pref_titlebar_mode_url "បង្ហាញ​អាសយដ្ឋាន​ទំព័រ">
+<!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
+     whether or not the magnifying glass is disabled. -->
+
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -407,7 +420,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "លាក់​របារ​ចំណង​ជើង &brandShortName; ពេល​រមូរ​ទំព័រ​ចុះក្រោម">
 
 <!ENTITY pref_tab_queue_title2 "បើក​តំណ​ច្រើន">
-<!ENTITY pref_tab_queue_summary3 "រក្សាទុក​វា​រហូតដល់​ពេលក្រោយ​ដែល​អ្នក​បើក &brandShortName;">
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -425,10 +438,8 @@ size. -->
 <!ENTITY site_settings_cancel       "បោះបង់">
 <!ENTITY site_settings_clear        "សម្អាត">
 <!ENTITY site_settings_no_settings  "មិន​មាន​ការ​កំណត់​ដែល​ត្រូវ​សម្អាត​ទេ។">
-<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+<!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
-
-<!ENTITY reading_list_added2 "បាន​បន្ថែម​ទៅ​បញ្ជី">
 <!ENTITY reading_list_removed "បាន​យក​ទំព័រ​ចេញពី​បញ្ជី​អាន​របស់​អ្នក">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -545,21 +556,20 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_run_by "ដែល​បាន​ដំណើរការ​ដោយ">
-<!ENTITY identity_no_info "តំបន់បណ្ដាញ​នេះ​មិន​ផ្ដល់​ព័ត៌មាន​អំពី​អត្តសញ្ញាណ​ទេ។">
-<!ENTITY identity_not_encrypted "ការ​តភ្ជាប់​របស់​អ្នក​ទៅកាន់​តំបន់បណ្ដាញ​នេះ​មិន​ត្រូវ​បាន​ដាក់​លេខ​កូដ​ទេ។">
-<!ENTITY identity_encrypted "បាន​អ៊ិនគ្រីប">
+
 <!-- Mixed content notifications in site identity popup -->
+
+
+
 
 <!ENTITY loaded_mixed_content_message "ទំព័រ​នេះ​កំពុង​បង្ហាញ​មាតិកា​ដែល​គ្មាន​សុវត្ថិភាព។">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; បាន​ទប់ស្កាត់​មាតិកា​ដែល​គ្មាន​សុវត្ថិភាព។">
 <!ENTITY blocked_mixed_content_message_bottom "តំបន់​បណ្ដាញ​ភាគច្រើន​នឹង​នៅតែ​ដំណើរការ​ធម្មតា ទោះបី​មាតិកា​នេះ​ត្រូវ​បាន​បិទ​ក៏ដោយ។">
 <!-- Tracking content notifications in site identity popup -->
 
-<!ENTITY loaded_tracking_content_message_top "បាន​បិទ​ការ​រារាំង​​ការ​តាមដាន។">
-<!ENTITY loaded_tracking_content_message_bottom "ផ្នែក​នៃ​ទំព័រ​នេះ​អាច​តាមដាន​សកម្មភាព​លើ​បណ្ដាញ​របស់​អ្នក។">
-<!ENTITY blocked_tracking_content_message_top2 "បាន​បើក​ការ​រារាំង​ការ​តាមដាន។">
-<!ENTITY blocked_tracking_content_message_bottom2 "ផ្នែក​នៃ​ទំព័រ​ដែល​តាមដាន​សកម្មភាព​លើ​បណ្ដាញ​របស់​អ្នក ត្រូវ​បាន​ទប់ស្កាត់។">
+
+
+
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "ស្វែងយល់​​បន្ថែម">
@@ -645,10 +655,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Voice search in the awesome bar -->
 
 <!ENTITY voicesearch_prompt "និយាយ​ឥឡូវ">
-<!ENTITY voicesearch_failed_title "&brandShortName; ស្វែងរក​តាម​សំឡេង">
-<!ENTITY voicesearch_failed_message "ឥឡូវនេះ​មាន​បញ្ហា​ជាមួយ​ការ​ស្វែងរក​តាម​សំឡេង។ សូម​ព្យាយាម​នៅ​ពេល​ក្រោយ។">
-<!ENTITY voicesearch_failed_message_recoverable "សុំទោស! យើង​មិន​អាច​ស្គាល់​ពាក្យ​របស់​អ្នក។ សូម​ព្យាយាម​ម្ដងទៀត។">
-<!ENTITY voicesearch_failed_retry "ព្យាយាម​ម្ដងទៀត">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -666,3 +672,22 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY find_matchcase "Aa">
 
 <!ENTITY intent_uri_cannot_open "មិន​អាច​បើក​តំណ">
+<!-- DevTools Authentication -->
+<!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
+     above a QR reader that is actively scanning for QR codes.  The expected QR
+     code has already been displayed by the client trying to connect (such as
+     desktop Firefox via WebIDE), so you just need to aim this device at the QR
+     code. -->
+<!-- Restrictions -->
+<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+     a restricted profile (e.g. child). Used inside the Android settings UI. -->
+
+
+
+
+
+
+
+
+
+
