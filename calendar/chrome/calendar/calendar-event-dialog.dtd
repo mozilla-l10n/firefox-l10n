@@ -90,8 +90,8 @@
 <!ENTITY  event.menu.edit.select.all.label                "حدّد الكل">
 <!ENTITY  event.menu.edit.select.all.accesskey            "ك">
 
-<!ENTITY  event.menu.view.label                           "عرض">
-<!ENTITY  event.menu.view.accesskey                       "ع">
+<!ENTITY  event.menu.view.label                           "منظور">
+<!ENTITY  event.menu.view.accesskey                       "ظ">
 <!ENTITY  event.menu.view.toolbars.label                  "أشرطة الأدوات">
 <!ENTITY  event.menu.view.toolbars.accesskey              "ش">
 <!ENTITY  event.menu.view.toolbars.event.label            "شريط أدوات الحدث">
