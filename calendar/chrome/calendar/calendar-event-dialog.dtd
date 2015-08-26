@@ -104,7 +104,7 @@
 <!ENTITY  event.menu.options.label                            "Налаштування">
 <!ENTITY  event.menu.options.accesskey                        "Н">
 <!ENTITY  event.menu.options.attendees.label                  "Запросити учасників…">
-<!ENTITY  event.menu.options.attendees.accesskey              "I">
+<!ENTITY  event.menu.options.attendees.accesskey              "с">
 <!ENTITY  event.menu.options.timezone2.label                  "Show Timezones">
 <!ENTITY  event.menu.options.timezone2.accesskey              "z">
 <!ENTITY  event.menu.options.priority2.label                  "Пріоритет">

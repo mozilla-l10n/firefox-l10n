@@ -276,7 +276,7 @@
      But value must be set here for accesskey to draw properly
 -->
 <!ENTITY tableJoinCells.label "j">
-<!ENTITY tableJoinCells.accesskey "є">
+<!ENTITY tableJoinCells.accesskey "j">
 <!ENTITY tableSplitCell.label "Розбити клітинки табл.">
 <!ENTITY tableSplitCell.accesskey "Р">
 <!ENTITY convertToTable.label "Створити таблицю з виділення">

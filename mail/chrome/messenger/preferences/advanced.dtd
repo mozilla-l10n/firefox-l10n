@@ -104,6 +104,6 @@
 <!ENTITY enableOCSP.accesskey            "Q">
 
 <!ENTITY viewCertificates.label         "Перегляд сертифікатів">
-<!ENTITY viewCertificates.accesskey     "C">
+<!ENTITY viewCertificates.accesskey     "г">
 <!ENTITY viewSecurityDevices.label      "Пристрої захисту">
 <!ENTITY viewSecurityDevices.accesskey  "з">

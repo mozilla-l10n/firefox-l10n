@@ -9,7 +9,7 @@
 <!ENTITY fileMenu.label                                 "Файл">
 <!ENTITY fileMenu.accesskey                             "Ф">
 <!ENTITY newMenu.label                                  "Новий">
-<!ENTITY newMenu.accesskey                              "С">
+<!ENTITY newMenu.accesskey                              "Н">
 <!ENTITY newContact.label                               "Запис в адресній книзі…">
 <!ENTITY newContact.accesskey                           "п">
 <!ENTITY newContact.key                                 "N">
@@ -45,7 +45,7 @@
 <!ENTITY editMenu.accesskey                             "Р">
 <!ENTITY undoCmd.label                                  "Скасувати">
 <!ENTITY undoCmd.key                                    "Z">
-<!ENTITY undoCmd.accesskey                              "н">
+<!ENTITY undoCmd.accesskey                              "к">
 <!ENTITY redoCmd.label                                  "Повторити">
 <!ENTITY redoCmd.key                                    "Y">
 <!ENTITY redoCmd.accesskey                              "т">
@@ -194,7 +194,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY sortDescending.label                           "За спаданням">
 <!ENTITY sortDescending.accesskey                       "м">
 <!ENTITY _PhoneticName.label                            "Фонетичне ім’я">
-<!ENTITY _PhoneticName.accesskey                        "в">
+<!ENTITY _PhoneticName.accesskey                        "т">
 
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
