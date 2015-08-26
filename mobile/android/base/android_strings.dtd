@@ -197,7 +197,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ, 3ನೆಯವರನ್ನು ಹೊರತುಪಡಿಸಿ">
 <!ENTITY pref_cookies_disabled "ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ">
 
-
+<!ENTITY pref_tracking_protection_title "ಜಾಡು ಇರಿಸುವಿಕೆ ಇಂದ ರಕ್ಷಣೆ">
+<!ENTITY pref_tracking_protection_summary3 "ಖಾಸಗಿ ವೀಕ್ಷಣೆಯಲ್ಲಿ ಸಕ್ರಿಯಗೊಳಿಸು">
 <!ENTITY pref_donottrack_title "ಜಾಡು ಇರಿಸಬೇಡ">
 <!ENTITY pref_donottrack_summary "&brandShortName; ನಿಮ್ಮ ಜಾಡನ್ನು ಇರಿಸದಂತೆ ಜಾಲಗಳಿಗೆ ತಿಳಿಸುತ್ತದೆ">
 
