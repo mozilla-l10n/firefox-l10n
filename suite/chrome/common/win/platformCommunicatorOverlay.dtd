@@ -37,4 +37,6 @@
 <!ENTITY altKey.label                   "Alt">
 <!ENTITY shiftKey.label                 "Shift">
 
+<!ENTITY menubarCmd.label               "選單列">
+<!ENTITY menubarCmd.accesskey           "e">
 
