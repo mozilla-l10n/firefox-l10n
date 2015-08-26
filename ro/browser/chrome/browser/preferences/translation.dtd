@@ -17,7 +17,7 @@
 <!ENTITY treehead.siteName.label          "Site-uri">
 <!ENTITY removeSite.label                 "Elimină site-ul">
 <!ENTITY removeSite.accesskey             "s">
-<!ENTITY removeAllSites.label             "Elimină toate saiturile">
+<!ENTITY removeAllSites.label             "Elimină toate site-urile">
 <!ENTITY removeAllSites.accesskey         "i">
 
 <!ENTITY button.close.label               "Închide">

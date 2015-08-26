@@ -9,13 +9,13 @@
 încercați să rezolvați o problemă. Dacă sunteți în căutarea de răspunsuri la întrebări comune 
 despre &brandShortName;, verificați <a id='supportLink'>site-ul nostru pentru suport</a>.">
 
-<!ENTITY aboutSupport.crashes.title "Rapoarte de eroare">
+<!ENTITY aboutSupport.crashes.title "Rapoarte de defecțiuni">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.id "ID raport">
 <!ENTITY aboutSupport.crashes.sendDate "Trimis">
-<!ENTITY aboutSupport.crashes.allReports "Toate rapoartele de eroare">
-<!ENTITY aboutSupport.crashes.noConfig "Această aplicație nu a fost configurată pentru afișarea rapoartelor de defecte.">
+<!ENTITY aboutSupport.crashes.allReports "Toate rapoartele de defecțiuni">
+<!ENTITY aboutSupport.crashes.noConfig "Această aplicație nu a fost configurată pentru afișarea rapoartelor de defecțiuni.">
 
 <!ENTITY aboutSupport.extensionsTitle "Suplimente">
 <!ENTITY aboutSupport.extensionName "Nume">
