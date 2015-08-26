@@ -12,7 +12,10 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "הדף בכתובת  <span id='malware_sitename'/> דווח בתור דף תקיפה ונחסם בהתאם להגדרות האבטחה שלך.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>דפי תקיפה מנסים להתקין תוכנות שגונבות נתונים פרטיים, עושות שימוש במחשב שלך כדי לתקוף אחרים, או בפוגעות במערכת שלך.</p><p>חלק מדפי התקיפה מפיצים בכוונה תוכנות מסוכנות, בעוד דפים אחרים שובשו ללא ידיעת בעלי האתר או בהסכמתם.</p>">
 
+<!ENTITY safeb.blocked.unwantedPage.title "דף תכנה בלתי רצויה מדווח!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "הדף בכתובת <span id='unwanted_sitename'/> דווח כיוון שהוא מכיל תכנה בלתי רצויה ולכן נחסם בהתאם להעדפות האבטחה שלך.">
+<!ENTITY safeb.blocked.unwantedPage.longDesc "<p>דפי תכנה בלתי רצויה מנסים להתקין תכניות שעשויות להוליך שולל ולהשפיע על המערכת שלך בדרכים בלתי צפויות.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title "הונאת רשת מדווחת!">
 <!-- Localization note (safeb.blocked.phishing.shortDesc) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
