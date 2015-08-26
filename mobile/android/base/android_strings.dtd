@@ -10,7 +10,7 @@
 <!ENTITY  onboard_start_subtext3 "讓您的行動網頁瀏覽體驗能有您自己的風格。">
 <!ENTITY  onboard_start_button_account "登入至 &brandShortName;">
 <!ENTITY  onboard_start_button_browser "開始瀏覽">
-<!ENTITY  onboard_start_restricted1 "Stay safe and in control with this simplified version of &brandShortName;.">
+<!ENTITY  onboard_start_restricted1 "透過這個簡單版的 &brandShortName; 保持安全與控制程度。">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
@@ -198,7 +198,7 @@
 <!ENTITY pref_cookies_disabled "停用">
 
 <!ENTITY pref_tracking_protection_title "追蹤保護">
-<!ENTITY pref_tracking_protection_summary3 "Enabled in Private Browsing">
+<!ENTITY pref_tracking_protection_summary3 "在隱私瀏覽中打開">
 <!ENTITY pref_donottrack_title "Do not track">
 <!ENTITY pref_donottrack_summary "&brandShortName; 將會告訴網站您不想被追蹤">
 
@@ -414,7 +414,7 @@ size. -->
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 <!ENTITY pref_prevent_magnifying_glass "停用放大鏡">
-<!ENTITY pref_prevent_magnifying_glass_summary "Prevent magnifying glass for use in resolving ambiguous screen touches">
+<!ENTITY pref_prevent_magnifying_glass_summary "不使用放大鏡確認要點擊的連結">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
@@ -565,9 +565,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all "&brandShortName; 已封鎖此頁面中不安全的元素。">
-<!ENTITY mixed_content_blocked_some "&brandShortName; has blocked some insecure elements on this page.">
+<!ENTITY mixed_content_blocked_some "&brandShortName; 已封鎖此頁面中某些不安全的元素。">
 <!ENTITY mixed_content_display_loaded "此頁面中有一些不安全的元素。">
-<!ENTITY mixed_content_protection_disabled "You have disabled protection from insecure elements.">
+<!ENTITY mixed_content_protection_disabled "你已經停用不安全元素的保護。">
 
 <!ENTITY loaded_mixed_content_message "此頁面包含不安全的內容。">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; 已封鎖了不安全的內容。">
@@ -578,7 +578,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY doorhanger_tracking_state_enabled "已開啟">
 <!ENTITY doorhanger_tracking_state_disabled "已關閉">
 <!ENTITY doorhanger_tracking_message_enabled1 "已防止網站追蹤您的線上行為。">
-<!ENTITY doorhanger_tracking_message_disabled2 "This page includes elements that may track your browsing.">
+<!ENTITY doorhanger_tracking_message_disabled2 "此頁面中可能包含了會追蹤您的瀏覽行為的元素。">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "更多資訊">
