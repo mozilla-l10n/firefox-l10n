@@ -93,7 +93,7 @@
 <!ENTITY calendar.day.button.label              "اليوم" >
 <!ENTITY calendar.week.button.label             "الأسبوع" >
 <!ENTITY calendar.month.button.label            "الشهر" >
-
+<!ENTITY calendar.multiweek.button.label        "الأسابيع المتعددة" >
 <!ENTITY calendar.onlyworkday.checkbox.label    "أيام العطل فقط" >
 <!ENTITY calendar.onlyworkday.checkbox.accesskey  "ع" >
 <!ENTITY calendar.displaytodos.checkbox.label   "المهام في المنظور" >
