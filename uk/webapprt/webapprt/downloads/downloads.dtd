@@ -24,7 +24,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.showMac.label                "Показати у Finder">
 <!ENTITY cmd.showMac.accesskey            "F">
 <!ENTITY cmd.open.label                   "Відкрити">
-<!ENTITY cmd.open.accesskey               "О">
+<!ENTITY cmd.open.accesskey               "к">
 <!ENTITY cmd.openWith.label               "Відкрити за допомогою…">
 <!ENTITY cmd.openWith.accesskey           "д">
 <!ENTITY cmd.retry.label                  "Повторити">

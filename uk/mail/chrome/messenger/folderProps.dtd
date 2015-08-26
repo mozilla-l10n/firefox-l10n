@@ -11,7 +11,7 @@
 <!ENTITY folderCharsetEnforce2.accesskey         "A">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Перебудувати файл індекса">
 <!ENTITY folderRebuildSummaryFile2.label         "Відремонтувати теку">
-<!ENTITY folderRebuildSummaryFile2.accesskey     "ч">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "о">
 <!ENTITY folderRebuildSummaryFile.explanation    "Іноді фал індекса теки (.msf) пошкоджується, і листи можуть здаватись зниклими, або можуть з’являтись видалені; ремонтування теки може вирішити ці проблеми.">
 <!ENTITY folderIncludeInGlobalSearch.label       "Включати листи у цій теці в результати Глобального пошуку">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "Г">
@@ -37,7 +37,7 @@
 
 <!ENTITY folderSynchronizationTab.label          "Синхронізація">
 <!ENTITY folderCheckForNewMessages2.label         "При отриманні нових повідомлень для цього облікового запису, завжди перевіряти цю теку">
-<!ENTITY folderCheckForNewMessages2.accesskey     "c">
+<!ENTITY folderCheckForNewMessages2.accesskey     "п">
 
 <!ENTITY offlineFolder.check.label               "Вибрати цю теку для автономної роботи">
 <!ENTITY offlineFolder.check.accesskey           "В">

@@ -88,7 +88,7 @@
 <!ENTITY calendar.newevent.button.label         "Нова подія" >
 <!ENTITY calendar.newtask.button.label          "Нове завдання" >
 <!ENTITY calendar.print.button.label            "Друк" >
-<!ENTITY calendar.print.button.accesskey        "P">
+<!ENTITY calendar.print.button.accesskey        "Д">
 
 <!ENTITY calendar.day.button.label              "День" >
 <!ENTITY calendar.week.button.label             "Тиждень" >

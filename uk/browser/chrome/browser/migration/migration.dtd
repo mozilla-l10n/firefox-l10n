@@ -12,7 +12,7 @@
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
 <!ENTITY importFromEdge.label           "Microsoft Edge">
-<!ENTITY importFromEdge.accesskey       "">
+<!ENTITY importFromEdge.accesskey       "E">
 <!ENTITY importFromNothing.label        "Не імпортувати нічого">
 <!ENTITY importFromNothing.accesskey    "Н">
 <!ENTITY importFromSafari.label         "Safari">

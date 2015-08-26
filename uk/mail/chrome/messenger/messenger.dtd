@@ -249,7 +249,7 @@
 <!ENTITY bodyMenuFeed.label "Повідомлення зі стрічки новин як">
 <!ENTITY bodyMenuFeed.accesskey "с">
 <!ENTITY viewFeedWebPage.label "Веб сторінка">
-<!ENTITY viewFeedWebPage.accesskey "">
+<!ENTITY viewFeedWebPage.accesskey "е">
 <!ENTITY viewFeedSummary.label "Підсумку">
 <!ENTITY viewFeedSummary.accesskey "П">
 <!ENTITY viewFeedSummaryFeedPropsPref.label "Типовий формат">
@@ -808,7 +808,7 @@
 <!ENTITY contextMute.label "Вимкнути звук">
 <!ENTITY contextMute.accesskey "и">
 <!ENTITY contextUnmute.label "Увімкнути звук">
-<!ENTITY contextUnmute.accesskey "m">
+<!ENTITY contextUnmute.accesskey "в">
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):

@@ -86,7 +86,7 @@
 <!ENTITY saveAllAttachmentsCmd.label    "Зберегти всі…">
 <!ENTITY saveAllAttachmentsCmd.accesskey    "З">
 <!ENTITY detachAllAttachmentsCmd.label    "Викласти всі…">
-<!ENTITY detachAllAttachmentsCmd.accesskey    "д">
+<!ENTITY detachAllAttachmentsCmd.accesskey    "л">
 <!ENTITY deleteAllAttachmentsCmd.label    "Видалити всі…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "д">
 
