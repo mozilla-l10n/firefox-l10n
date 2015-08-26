@@ -10,6 +10,7 @@
 <!ENTITY  onboard_start_subtext3 "Mobil telefon brauzeri orqali tajriba orttiring.">
 <!ENTITY  onboard_start_button_account "&brandShortName;ga kirish">
 <!ENTITY  onboard_start_button_browser "Ko‘rishni boshlash">
+<!ENTITY  onboard_start_restricted1 "&brandShortName;ning soddalashtirilgan versiyasi bilan osongina boshqaring va xavfsiz qoling.">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -47,6 +48,7 @@
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "Allaqachon xatcho‘plarga qo‘shildi">
 <!ENTITY bookmark_removed "Xatcho‘p olib tashlandi">
 <!ENTITY bookmark_updated "Xatcho‘p yangilandi">
 <!ENTITY bookmark_options "Parametrlar">
@@ -67,6 +69,8 @@
 <!ENTITY edit_mode_cancel "Bekor qilish">
 
 <!ENTITY close_tab "Ichki oynani yopish">
+<!ENTITY tab_audio_playing "Bu ichki oynada audio qo‘yilmoqda">
+<!ENTITY tab_audio_muted "Bu ichki oynada ovoz o‘chirib qo‘yilgan">
 <!ENTITY one_tab "1 ta ichki oyna">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -80,7 +84,7 @@
 
 <!ENTITY settings "Sozlamalar">
 <!ENTITY settings_title "Sozlamalar">
-
+<!ENTITY pref_category_input_options "Kirish parametrlari">
 <!ENTITY pref_category_advanced "Qo‘shimcha">
 <!ENTITY pref_category_customize "Moslash">
 <!ENTITY pref_category_customize_summary "Uy, izlash, ichki oynalar, import">
@@ -108,7 +112,7 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "Xatcho‘p">
 <!ENTITY overlay_share_reading_list_btn_label "O‘qish ro‘yxatiga qo‘shish">
-
+<!ENTITY overlay_share_bookmark_btn_label_already "Allaqachon xatcho‘plarga qo‘shilgan">
 <!ENTITY overlay_share_reading_list_btn_label_already "Allaqachon o‘qish ro‘yxatida">
 <!ENTITY overlay_share_send_other "Boshqa qurilmalarga jo‘natish">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -136,7 +140,7 @@
 <!ENTITY pref_category_display "Ko‘rsatish">
 <!ENTITY pref_category_display_summary "Matn, sarlavha paneli, butun ekranda ko‘rish">
 <!ENTITY pref_category_privacy_short "Maxfiylik">
-
+<!ENTITY pref_category_privacy_summary2 "Parollar, kukilar, kuzatish, ma’lumotlarni boshqarish">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "&brandShortName;, KSSlar, ma’lumotlarni tanlash haqida">
 <!ENTITY pref_category_datareporting "Tanlangan ma’lumotlar">
@@ -154,10 +158,13 @@
 <!ENTITY pref_search_hint "MASLAHAT: birorta veb sahifani izlash xizmatlari ro‘yxatiga qo‘shmoqchi bo‘lsangiz, o‘sha saytning izlash maydonchasiga barmog‘ingizni bosib turing, so‘ngra &formatI; nishonchasiga bosing.">
 <!ENTITY pref_category_devtools "Dasturlash asboblari">
 <!ENTITY pref_developer_remotedebugging "Masofadan tuzatish">
+<!ENTITY pref_developer_remotedebugging_usb "USB orqali masofadan nozozlikni tuzatish">
+<!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi orqali masofadan nosozlikni tuzatish">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi orqali tuzatish uchun qurilmangizda QR kodini o‘qiydigan ilova dastur o‘rnatilgan bo‘lishi kerak.">
 <!ENTITY pref_category_logins "Taxalluslar">
-
-
-
+<!ENTITY pref_remember_signons2 "Loginlarni eslab qolish">
+<!ENTITY pref_open_external_urls_privately_title "Maxfiy ko‘rish usulida linklarni ochish">
+<!ENTITY pref_open_external_urls_privately_summary "Barcha tashqi linklar &brandShortName;da ochildi">
 <!ENTITY pref_manage_logins "Kirishlarni boshqarish">
 
 <!ENTITY pref_category_home "Uy sahifasi">
@@ -191,14 +198,20 @@
 <!ENTITY pref_cookies_disabled "O‘chirib qo‘yilgan">
 
 <!ENTITY pref_tracking_protection_title "Kuzatishdan himoyalanish">
-<!ENTITY pref_tracking_protection_summary "&brandShortName; sizni kuzatmoqchi bo‘lgan saytlarni to‘sib qo‘ymoqda">
+<!ENTITY pref_tracking_protection_summary3 "Maxfiy ko‘rish usulida yoqib qo‘yildi">
 <!ENTITY pref_donottrack_title "Kuzatmang">
 <!ENTITY pref_donottrack_summary "&brandShortName; saytlarga sizni kuzatishlarini xohlamsaligingiz aytiladi.">
 
+<!ENTITY tracking_protection_prompt_title "Hozir kuzatishdan himoyalanish bilan">
+<!ENTITY tracking_protection_prompt_text "Kuzatish elementlari faol ravishda bloklanmoqda, shuning uchun xavotir olmang.">
+<!ENTITY tracking_protection_prompt_tip_text "Ko‘proq ma’lumot olish uchun Maxfiylik sozlamalariga kiring">
+<!ENTITY tracking_protection_prompt_action_button "Tushundim!">
+
+<!ENTITY tab_queue_toast_message3 "Ichki oyna &brandShortName;ga saqlandi">
 <!ENTITY tab_queue_toast_action "Hozir ochish">
 <!ENTITY tab_queue_prompt_title "Bir nechta vazifalar ochilsinmi">
-
-<!ENTITY tab_queue_prompt_tip_text "siz uni keyinroq \&quot;Sozlamalar\&quot;dan o‘zgartirishingiz mumkin">
+<!ENTITY tab_queue_prompt_text4 "Keyingi safar ularni &brandShortName;da ochish uchun saqlab qo‘ying.">
+<!ENTITY tab_queue_prompt_tip_text2 "Siz uni keyinroq Sozlamalar’dan o‘zgartirishingiz mumkin">
 <!ENTITY tab_queue_prompt_positive_action_button "Yoqib qo‘yilgan">
 <!ENTITY tab_queue_prompt_negative_action_button "Hozir emas">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
@@ -249,14 +262,14 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled_summary "Agar vebsaytlar videolar va boshqa media tarkiblarni avto ijro etilsa, boshqarilsin">
 <!ENTITY pref_zoom_force_enabled "Doimo kattalashtirish/kichiklashtirishni yoqish">
 <!ENTITY pref_zoom_force_enabled_summary "Majburiy almashtirilsa, siz har qanday sahifani kattalashtirib ko‘rishingiz mumkin">
-
-
-
-
+<!ENTITY pref_voice_input "Ovoz kiritish">
+<!ENTITY pref_voice_input_summary "Sarlavha qatorida ovozli o‘qishga ruxsat berish">
+<!ENTITY pref_qrcode_enabled "QR kod o‘qigich">
+<!ENTITY pref_qrcode_enabled_summary "Sarlavha qatorida QR skanerga ruxsat berish">
 
 <!ENTITY pref_use_master_password "Parol ustasidan foydalaning">
 <!ENTITY pref_sync "Sinxronlash">
-
+<!ENTITY pref_sync_summary2 "Ichki oynalar, xatcho‘plar, loginlar va tarixni sinxronlash">
 <!ENTITY pref_search_suggestions "Izlash bo‘yicha tavsiyalarni ko‘rsatish">
 <!ENTITY pref_import_android "Androiddan emport qilish">
 <!ENTITY pref_import_android_summary "Asosiy brauzerdan xatcho‘plar va tarixni import qilish">
@@ -264,12 +277,12 @@ size. -->
 <!ENTITY pref_private_data_searchHistory "Izlash tarixi">
 <!ENTITY pref_private_data_formdata2 "Tarixdan">
 <!ENTITY pref_private_data_cookies2 "Kukilar va faol kirishlar">
-
+<!ENTITY pref_private_data_passwords2 "Saqlangan loginlar">
 <!ENTITY pref_private_data_cache "Kesh">
 <!ENTITY pref_private_data_offlineApps "Oflayn veb sayt ma’lumotlari">
 <!ENTITY pref_private_data_siteSettings2 "Sayt sozlamalari">
 <!ENTITY pref_private_data_downloadFiles2 "Yuklab olishlar">
-
+<!ENTITY pref_private_data_syncedTabs "Sinxronlangan ichki oynalar">
 
 
 <!ENTITY pref_about_firefox "&brandShortName; haqida">
@@ -328,7 +341,6 @@ size. -->
 <!ENTITY addons "Qo‘shimcha dasturlar">
 <!ENTITY logins "Kirishlar">
 <!ENTITY downloads "Yuklab olishlar">
-<!ENTITY apps "Ilova dasturlar">
 <!ENTITY char_encoding "Kodlash usuli">
 
 <!ENTITY share "Bo‘lishish">
@@ -389,15 +401,20 @@ size. -->
 <!ENTITY doorhanger_login_edit_password_hint "Parol">
 <!ENTITY doorhanger_login_edit_toggle "Parolni ko‘rsatish">
 <!ENTITY doorhanger_login_edit_toast_error "Kirishga saqlab bo‘lmadi">
-
-
-
-
-
+<!ENTITY doorhanger_login_select_message "&formatS;dagi paroldan nusxa olinsinmi?">
+<!ENTITY doorhanger_login_select_toast_copy "Paroldan vaqtinchalik xotiraga nusxa ko‘chirildi">
+<!ENTITY doorhanger_login_select_toast_copy_error "Paroldan nusxa olib bo‘lmadi">
+<!ENTITY doorhanger_login_select_action_text "Boshqa loginni tanlang">
+<!ENTITY doorhanger_login_select_title "Paroldan nusxa olish:">
 
 <!ENTITY pref_titlebar_mode "Sahifa nomi paneli">
 <!ENTITY pref_titlebar_mode_title "Sahifa nomini ko‘rsatish">
 <!ENTITY pref_titlebar_mode_url "Sahifa manzilini ko‘rsatish">
+<!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
+     whether or not the magnifying glass is disabled. -->
+
+<!ENTITY pref_prevent_magnifying_glass "Lupani o‘chirib qo‘yish ">
+
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -423,7 +440,7 @@ size. -->
 <!ENTITY site_settings_cancel       "Bekor qilish">
 <!ENTITY site_settings_clear        "Tozalash">
 <!ENTITY site_settings_no_settings  "Tozalash uchun sozlamalar mavjud emas.">
-<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+<!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
 <!ENTITY reading_list_removed "Sahifa \&quot;O‘qilganlar ro‘yxati\&quot;dan olib tashlandi">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
@@ -541,21 +558,20 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_run_by "ushbu tomonidan bajariladi:">
-<!ENTITY identity_no_info "Ushbu sayt ma’lumotni tasdiqdan o‘tkazishni qo‘llamaydi.">
-<!ENTITY identity_not_encrypted "Ushbu saytga ulanish kodlanmagan.">
-<!ENTITY identity_encrypted "Shifrlangan">
+
 <!-- Mixed content notifications in site identity popup -->
+
+
+
 
 <!ENTITY loaded_mixed_content_message "Ushbu sahifa xavfsiz bo‘lmagan tarkibni ko‘rsatmoqda.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; saytni xavfsiz bo‘lmagani uchun to‘sib qo‘ydi">
 <!ENTITY blocked_mixed_content_message_bottom "Ko‘pgina saytlar bloklangandan so‘ng ham yaxshi ishlayveradi.">
 <!-- Tracking content notifications in site identity popup -->
 
-<!ENTITY loaded_tracking_content_message_top "Kuzatishdan himoya o‘chirildi.">
-<!ENTITY loaded_tracking_content_message_bottom "Ushbu sahifa qismlari onlayn faoliyatingizni kuzatishi mumkin.">
-<!ENTITY blocked_tracking_content_message_top2 "Kuzatishdan himoya yoqib qo‘yildi.">
-<!ENTITY blocked_tracking_content_message_bottom2 "Sizning onlayn faoliyatingizni kuzatuvchi sahifalar qismlari bloklandi.">
+
+
+
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "Ko‘proq o‘rganish">
@@ -641,10 +657,6 @@ import qilinmoqda">
 <!-- Voice search in the awesome bar -->
 
 <!ENTITY voicesearch_prompt "Hozir so‘zlang">
-<!ENTITY voicesearch_failed_title "&brandShortName; ovoz yordamida izlash">
-<!ENTITY voicesearch_failed_message "Hozirda ovoz yordamida izlashda mammo bor. Uzr, keyinroq urinib ko‘ring.">
-<!ENTITY voicesearch_failed_message_recoverable "Kechirasiz! Biz ovozingizni ajrata olmadik. Uzr, yana urinib ko‘ring.">
-<!ENTITY voicesearch_failed_retry "Yana urinib ko‘rish">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -660,4 +672,23 @@ import qilinmoqda">
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
 
 <!ENTITY find_matchcase "Aa">
+
+<!-- DevTools Authentication -->
+<!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
+     above a QR reader that is actively scanning for QR codes.  The expected QR
+     code has already been displayed by the client trying to connect (such as
+     desktop Firefox via WebIDE), so you just need to aim this device at the QR
+     code. -->
+<!-- Restrictions -->
+<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+     a restricted profile (e.g. child). Used inside the Android settings UI. -->
+
+
+
+
+
+
+
+
+
 
