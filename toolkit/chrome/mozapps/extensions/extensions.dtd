@@ -115,10 +115,10 @@
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "Contribuie la dezvoltarea acestui supliment">
 
-<!ENTITY cmd.showReleaseNotes.label           "Arată notele asupra ediției">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Arată notele asupra ediției pentru această actualizare">
-<!ENTITY cmd.hideReleaseNotes.label           "Ascunde notele asupra ediției">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "Ascunde notele asupra ediției pentru această actualizare">
+<!ENTITY cmd.showReleaseNotes.label           "Arată notele privind lansarea">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Arată notele privind lansarea pentru această actualizare">
+<!ENTITY cmd.hideReleaseNotes.label           "Ascunde notele privind lansarea">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "Ascunde notele privind lansarea pentru această actualizare">
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -210,9 +210,9 @@ cele mai utilizate și populare extensii pentru a vă permite să le încercați
 <!ENTITY addon.includeUpdate.label            "Inclus în actualizare">
 <!ENTITY addon.updateAvailable.label          "Este disponibilă o actualizare">
 <!ENTITY addon.checkingForUpdates.label       "Se caută actualizări…">
-<!ENTITY addon.releaseNotes.label             "Note asupra ediției:">
+<!ENTITY addon.releaseNotes.label             "Notele privind lansarea:">
 <!ENTITY addon.loadingReleaseNotes.label      "Încărcare…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Ne pare rău, dar a intervenit o eroare la încărcarea notelor asupra ediției.">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Ne pare rău, dar a intervenit o eroare la încărcarea notelor privind lansarea.">
 
 <!ENTITY addon.createdBy.label                "Creat de ">
 
