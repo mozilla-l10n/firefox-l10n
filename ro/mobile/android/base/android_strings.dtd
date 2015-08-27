@@ -10,7 +10,7 @@
 <!ENTITY  onboard_start_subtext3 "Fă ca experiența de navigare mobilă pe Web să fie cu adevărat unică.">
 <!ENTITY  onboard_start_button_account "Autentifică-te în &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Începe navigarea">
-
+<!ENTITY  onboard_start_restricted1 "Rămâi în siguranță și păstrează controlul cu această versiune simplificată de &brandShortName;.">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -48,6 +48,7 @@
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "Însemnat deja">
 <!ENTITY bookmark_removed "Semn de carte șters">
 <!ENTITY bookmark_updated "Semn de carte actualizat">
 <!ENTITY bookmark_options "Opțiuni">
