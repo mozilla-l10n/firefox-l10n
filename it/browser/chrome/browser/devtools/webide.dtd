@@ -26,7 +26,6 @@
 <!ENTITY projectMenu_manageComponents_label "Gestione componenti extra">
 <!ENTITY projectMenu_manageComponents_accesskey "G">
 <!ENTITY projectMenu_refreshTabs_label "Aggiorna schede">
-<!ENTITY projectMenu_refreshTabs_accesskey "o">
 <!ENTITY runtimeMenu_label "Runtime">
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "Disconnetti">
