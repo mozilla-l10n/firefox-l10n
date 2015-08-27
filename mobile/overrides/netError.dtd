@@ -122,13 +122,13 @@ cookie-uri.</li> 
 a serverului.</li> 
 </ul>">
 
-<!ENTITY nssFailure2.title "Conexiunea sigură a eșuat">
+<!ENTITY nssFailure2.title "Conexiunea securizată a eșuat">
 <!ENTITY nssFailure2.longDesc2 "<ul> 
 <li>Pagina pe care încerci să o vezi nu poate fi afișată deoarece nu s-a putut verifica autenticitatea datelor primite.</li> 
 <li>Te rugăm să contactezi proprietarii site-ului pentru a-i informa despre această problemă.</li> 
 </ul>">
 
-<!ENTITY nssBadCert.title "Conexiunea sigură a eșuat">
+<!ENTITY nssBadCert.title "Conexiunea securizată a eșuat">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
 <li>Acest lucru s-ar putea datora unei probleme în configurația serverului, sau s-ar 
 putea ca cineva să încerce să pretindă în mod fraudulos că este acest server.</li> 
