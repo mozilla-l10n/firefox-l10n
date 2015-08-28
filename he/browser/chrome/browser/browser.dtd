@@ -643,6 +643,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "ג">
 
+<!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "סגנון דף">
 <!ENTITY pageStyleMenu.accesskey "נ">
@@ -701,6 +702,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.weakCipher "החיבור שלך לאתר זה משתמש בהצפנה חלשה ואינו פרטי.">
 <!ENTITY identity.description.weakCipher2 "אנשים אחרים יכולים לצפות במידע שלך או לשנות את התנהגות האתר.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; חסם חלקים מהדף שאינם בטוחים.">
+<!ENTITY identity.description.passiveLoaded "החיבור שלך לאתר זה אינו פרטי מידע שישותף עם האתר עשוי להיות נגיש לאחרים.">
+<!ENTITY identity.description.passiveLoaded2 "אתר זה מכיל תוכן שאינו מאובטח (כגון תמונות).">
+<!ENTITY identity.description.passiveLoaded3 "למרות ש־&brandShortName; חסם חלק מהתוכן, עדיין קיים בדף תוכן שאינו מאובטח (כגון תמונות).">
+<!ENTITY identity.description.activeLoaded "אתר זה מכיל תוכן שאינו מאובטח (כגון תסריטים) והחיבור שלך אליו אינו פרטי.">
+<!ENTITY identity.description.activeLoaded2 "מידע שישותף עם אתר זה, כגון ססמאות, הודעות, פרטי כרטיס האשראי וכדומה, עשוי להיות נגיש לאחרים.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "הפעלת הגנה">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "ג">
@@ -793,9 +799,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock.label "נטרול ההגנה עבור אתר זה">
+<!ENTITY trackingProtection.unblock.accesskey "א">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate.label "נטרול ההגנה להפעלה זו">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "נ">
+<!ENTITY trackingProtection.block2.label "הפעלת הגנה">
+<!ENTITY trackingProtection.block2.accesskey "פ">
 
 <!ENTITY trackingContentBlocked.message "מעקב">
 <!ENTITY trackingContentBlocked.moreinfo "נחסמו חלקים מדף זה העוקבים אחר הפעילות המקוונת שלך.">
