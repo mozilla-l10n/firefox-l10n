@@ -700,10 +700,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
+<!ENTITY identity.description.passiveLoaded "आपका कनेक्शन निजी नही हैं और सुचना जो आप इस साइट के साथ साझा करते है दुसरो के द्वारा देखा जा सकता. ">
 <!ENTITY identity.description.passiveLoaded2 "यह वेबसाइट वह सामग्री शामिल करता है जो सुरक्षित नहीं हैं(जैसा की छवि).">
 
-
+<!ENTITY identity.description.activeLoaded "यह वेबसाइट उस सामग्री को सम्मिलित करता है जो सुरक्षित नही हैं(जैसा की स्क्रिप्ट) और कनेक्शन भी निजी नही हैं.">
 <!ENTITY identity.description.activeLoaded2 "सुचना जो आप इस साइट के साथ साझा करते हैं दुसरो के द्वारा देखा जा सकता(जैसे पासवर्ड,संदेश, क्रेडिट कार्ड, इत्यादि.).">
 
 <!ENTITY identity.enableMixedContentBlocking.label "सुरक्षा सक्रिय करें">
@@ -792,7 +792,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.title "ट्रैकिंग सुरक्षा">
 
-
+<!ENTITY trackingProtection.detectedNotBlocked3 "यह साइट उस तत्वो को शामिल करता है जो आपके ब्राउज़िंग पर नजर रख सकता हैं. आप सुरक्षा निष्क्रिय कर दिये हैं.">
 <!ENTITY trackingProtection.notDetected3 "कोई भी ट्रैकिंग तत्व इस पेज पर जांचा नहीं गया.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
