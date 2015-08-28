@@ -21,7 +21,7 @@
 <!ENTITY aboutPrivateBrowsing.title            "आप निजी तौर पर ब्राउज़ कर रहे हैं">
 
 
-
+<!ENTITY aboutPrivateBrowsing.info.forgotten   "भूल गए">
 <!ENTITY aboutPrivateBrowsing.info.history     "इतिहास">
 <!ENTITY aboutPrivateBrowsing.info.searches    "खोजें">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "कूकीज">
