@@ -1,8 +1,7 @@
 amazon-en-GB
 bing
-creativecommons
-elebila
 eBay-es
+elebila
 google
-yahoo
 wikipedia-eu
+yahoo
