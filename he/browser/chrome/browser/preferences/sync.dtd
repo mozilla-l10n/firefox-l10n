@@ -39,6 +39,8 @@
 <!-- Device Settings -->
 <!ENTITY syncDeviceName.label       "שם ההתקן:">
 <!ENTITY syncDeviceName.accesskey   "ש">
+<!ENTITY fxaSyncDeviceName.label       "שם התקן">
+<!ENTITY changeSyncDeviceName.label "שינוי שם התקן…">
 <!ENTITY cancelChangeSyncDeviceName.label "ביטול">
 <!ENTITY saveChangeSyncDeviceName.label "שמירה">
 <!ENTITY unlinkDevice.label           "נתק התקן זה">
@@ -69,6 +71,7 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "לא מחובר לחשבון.">
 <!ENTITY signIn.label                "כניסה">
+<!ENTITY profilePicture.tooltip      "שינוי תמונת פרופיל">
 <!ENTITY manage.label                "ניהול">
 <!ENTITY disconnect.label            "התנתקות…">
 <!ENTITY verify.label                "אימות דואר אלקטרוני">
@@ -80,6 +83,14 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY welcome.useOldSync.label "משתמשים בגרסה ישנה יותר של Sync?">
 
+<!ENTITY signedOut.caption            "קחו את הרשת עמכם">
+<!ENTITY signedOut.accountBox.title   "התחברות עם &syncBrand.fxAccount.label;">
+<!ENTITY signedOut.accountBox.create  "יצירת חשבון">
+<!ENTITY signedOut.accountBox.signin  "כניסה">
 
+<!ENTITY signedIn.engines.label       "סנכרון בין התקנים">
 
+<!ENTITY mobilePromo.start            "הורדת Firefox עבור ">
 <!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+<!ENTITY mobilePromo.androidLink      "Android™">
+<!ENTITY androidAttribution           "Android הנו סימן רשום של Google Inc.">
