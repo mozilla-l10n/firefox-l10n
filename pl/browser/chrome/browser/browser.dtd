@@ -494,13 +494,10 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlay.accesskey         "z">
 <!ENTITY mediaPause.label            "Wstrzymaj">
 <!ENTITY mediaPause.accesskey        "W">
-<!-- LOCALIZATION NOTE: The access keys for "Mute" and
-"Unmute" are the same because the two context-menu
-items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "Wycisz">
 <!ENTITY mediaMute.accesskey         "c">
-<!ENTITY mediaUnmute.label           "Przywróć głośność">
-<!ENTITY mediaUnmute.accesskey       "P">
+<!ENTITY mediaUnmute.label "Włącz dźwięk">
+<!ENTITY mediaUnmute.accesskey "c">
 <!ENTITY mediaPlaybackRate.label     "Szybkość odtwarzania">
 <!ENTITY mediaPlaybackRate.accesskey "b">
 <!ENTITY mediaPlaybackRate050x.label "Zwolnione tempo (0.5×)">

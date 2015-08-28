@@ -756,8 +756,8 @@
 <!ENTITY contextPause.accesskey  "W">
 <!ENTITY contextMute.label       "Wycisz">
 <!ENTITY contextMute.accesskey   "z">
-<!ENTITY contextUnmute.label     "Przywróć głośność">
-<!ENTITY contextUnmute.accesskey "P">
+<!ENTITY contextUnmute.label "Włącz dźwięk">
+<!ENTITY contextUnmute.accesskey "z">
 
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key                 "k">
