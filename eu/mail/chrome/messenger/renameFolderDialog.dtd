@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
    
 <!ENTITY renameFolderDialog.title          "Aldatu izena karpetari">
-<!ENTITY rename.label                      "Idatzi karpetaren izen berria:">
-<!ENTITY rename.accesskey                  "I">
+<!ENTITY rename.label                      "Sartu karpetarentzako izen berria:">
+<!ENTITY rename.accesskey                  "S">
 <!ENTITY accept.label                      "Aldatu izena">
 <!ENTITY accept.accesskey                  "i">

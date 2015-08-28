@@ -14,8 +14,8 @@
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "l">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Arakatu…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "A">
-<!ENTITY pref.calendar.alarms.sound.preview.label "Aurreikusi">
-<!ENTITY pref.calendar.alarms.sound.preview.accessKey "i">
+<!ENTITY pref.calendar.alarms.sound.play.label "Erreproduzitu">
+<!ENTITY pref.calendar.alarms.sound.play.accessKey "E">
 <!ENTITY pref.showalarmbox "Erakutsi gogorarazlearen elkarrizketa-koadroa">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "x">
 <!ENTITY pref.missedalarms "Erakutsi galdutako gogorarazpenak">

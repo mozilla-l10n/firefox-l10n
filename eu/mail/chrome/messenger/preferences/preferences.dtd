@@ -4,8 +4,9 @@
 
 <!ENTITY  prefWindow.titleWin     "Aukerak">
 <!ENTITY  prefWindow.titleGNOME   "&brandShortName;(r)en hobespenak">
+<!ENTITY  prefWindow.titleMAC     "Hobespenak">
 <!ENTITY  prefWindow.styleWindows "width: 44em; min-height: 38.5em;">
-<!ENTITY  prefWindow.styleMac     "width: 50em;">
+<!ENTITY  prefWindow.styleMac     "width: 52em;">
 <!ENTITY  prefWindow.styleGNOME   "width: 42em; min-height: 38em;">
 
 <!ENTITY paneGeneral.title        "Orokorra">
@@ -16,3 +17,7 @@
 <!ENTITY panePrivacy.title        "Pribatutasuna">
 <!ENTITY paneSecurity.title       "Segurtasuna">
 <!ENTITY paneAdvanced.title       "Aurreratua">
+<!ENTITY paneAccount.title        "Kontuak">
+
+<!ENTITY okButton.title           "Ados">
+<!ENTITY okButton.accesskey       "A">

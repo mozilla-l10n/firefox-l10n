@@ -15,8 +15,8 @@
 <!ENTITY saveCmd.accesskey "G">
 <!ENTITY saveAsCmd.label "Gorde honela…">
 <!ENTITY saveAsCmd.accesskey "h">
-<!ENTITY saveAsChangeEncodingCmd.label "Gorde eta aldatu karaktere-kodeketa">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "k">
+<!ENTITY saveAsChangeEncodingCmd2.label "Gorde eta aldatu kodeketa">
+<!ENTITY saveAsChangeEncodingCmd2.accesskey "k">
 <!ENTITY publishCmd.label "Argitaratu">
 <!ENTITY publishCmd.accesskey "A">
 <!ENTITY publishCmd.key "S">
@@ -31,7 +31,7 @@
 <!-- Toolbar buttons/items -->
 
 <!ENTITY newToolbarCmd.label "Berria">
-<!ENTITY newToolbarCmd.tooltip "Sortu Composer orri berria">
+<!ENTITY newToolbarCmd.tooltip "Sortu Composer orrialde berria">
 <!ENTITY openToolbarCmd.label "Ireki">
 <!ENTITY openToolbarCmd.tooltip "Ireki fitxategi lokala">
 <!ENTITY saveToolbarCmd.tooltip "Gorde fitxategia kokaleku lokalean">

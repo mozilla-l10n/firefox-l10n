@@ -3,9 +3,5 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY fileExceedsQuota.title   "Hightail">
 <!ENTITY fileExceedsQuota.storageLimitReached   "Biltegiratze-muga iritsi da">
-<!ENTITY fileExceedsQuota.accept "Bertsio-berritu">
-<!ENTITY fileExceedsQuota.cancel "Utzi">
 <!ENTITY fileExceedsQuota.description "Zure kontuaren 2GBko biltegiratze-mugara heldu zara.">
 <!ENTITY fileExceedsQuota.description1 "Uneko biltegiratze-erabilpena #XXX GB da.">
-<!ENTITY fileExceedsQuota.description2 "Bertsio-berritu Pro Plus kontura eta eskuratu biltegiratze gehiago.">
-<!ENTITY fileExceedsQuota.description3 "Zure kontuko fitxategiak ezabatzea ere aukera dezakezu toki gehiago egiteko.">

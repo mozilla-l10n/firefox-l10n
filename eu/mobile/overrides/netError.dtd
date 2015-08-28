@@ -11,17 +11,22 @@
 
 
 <!ENTITY connectionFailure.title "Ezin da konektatu">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "Helbide hau murriztuta dago">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Zerbitzaria ez da aurkitu">
-<!ENTITY dnsNotFound.longDesc2 "<ul> 
-<li>Egiaztatu helbideak idazketa-erroreak dituen, adibidez: 
-<strong>ww</strong>.adibidea.com 
-<strong>www</strong>.adibidea.com ordez</li> 
-<li>Ezin badituzu orriak kargatu, egiaztatu zure gailuaren datuen edo WiFi-aren konexioa.</li> 
+<!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "<ul> 
+<li>Helbidea ondo begiratu mota honetako erroreak ekiditeko: <strong>ww</strong>.adibidea.net <strong>www</strong>.adibidea.net-en ordez</li> 
+<div id='searchbox'> 
+<input id='searchtext' type='search'></input> 
+<button id='searchbutton'>Search</button> 
+</div> 
+<li>Ezin baduzu inolako orririk kargatu, begiratu zure gailuaren datu- edo WiFi-konexioa.</li> 
+<button id='wifi'>Gaitu Wi-Fia</button> 
 </ul>">
 
 <!ENTITY fileNotFound.title "Ez da fitxategia aurkitu">
@@ -35,22 +40,32 @@
 <!ENTITY generic.longDesc "<p>&brandShortName;ek ezin du orria kargatu.</p>">
 
 <!ENTITY malformedURI.title "Helbidea ez da baliozkoa">
-<!ENTITY malformedURI.longDesc "<ul> 
-<li>Orokorrean web helbideak honela idazten dira 
+<!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "<ul> 
+<li>Orokorrean web helbideak honela idazten dira: 
 <strong>http://www.adibidea.com/</strong></li> 
+<div id='searchbox'> 
+<input id='searchtext' type='search'></input> 
+<button id='searchbutton'>Bilatu</button> 
+</div> 
 <li>Egiaztatu aurrerantzako barrak erabiltzen ari zarela (hau da, 
 <strong>/</strong>).</li> 
 </ul>">
 
 <!ENTITY netInterrupt.title "Konexioa eten egin da">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Dokumentua iraungita">
 <!ENTITY notCached.longDesc "<p>Eskatutako dokumentua ez dago &brandShortName;(r)en cache memorian.</p><ul><li>Segurtasun-neurri gisa, &brandShortName;(e)k ez ditu berriro automatikoki eskatzen informazio pertsonala izan dezaketen dokumentuak.</li><li>Egin klik 'Saiatu berriro' botoian webguneko dokumentua berriro eskatzeko.</li></ul>">
 
 <!ENTITY netOffline.title "Lineaz kanpo">
-<!ENTITY netOffline.longDesc2 "<ul> 
-<li>Saiatu berriro. &brandShortName; konexioa irekitzen saiatuko da eta orria berrituko du.</li> 
+<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY netOffline.longDesc3 "<ul> 
+<li>Saiatu berriro. Konexioa ireki eta orria berritzen saiatuko da &brandShortName;. 
+<button id='wifi'>Gaitu Wi-Fia</button> 
+</li> 
 </ul>">
 
 <!ENTITY contentEncodingError.title "Edukien kodeketa-errorea">
@@ -64,10 +79,10 @@
 </ul>">
 
 <!ENTITY netReset.title "Konexioa berrezarri egin da">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "Konexioa denboraz kanpo gelditu da">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "Ez da helbidea ulertu">
 <!ENTITY unknownProtocolFound.longDesc "<ul> 
@@ -81,9 +96,13 @@
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Proxy-zerbitzaria ezin da aurkitu">
-<!ENTITY proxyResolveFailure.longDesc2 "<ul> 
-<li>Egiaztatu proxyaren ezarpenak zuzenak direla ziurtatzeko.</li> 
-<li>Egiaztatu zure gailuak datuen edo WiFi-aren konexioa daukala.</li> 
+<!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY proxyResolveFailure.longDesc3 "<ul> 
+<li>Egiaztatu proxyaren konexioaren ezarpenak.</li> 
+<li>Egiaztatu zure gailuaren datu- edo WiFi-konexioa badabilela. 
+<button id='wifi'>Gaitu Wi-Fia</button> 
+</li> 
 </ul>">
 
 <!ENTITY redirectLoop.title "Orriak ez du birbidalketa ondo egiten">
@@ -108,14 +127,18 @@
 <li>Hau zerbitzariaren konfigurazio arazo bat izan zitekeen, edo batenbat zerbitzariaren nortasuna bidegabe bereganatzen saiatzen ibiltzea.</li> 
 <li>Zerbitzari honetara arazorik gabe konektatu bazara iraganean, errorea unekoa izan daiteke eta geroago saia zaitezke.</li> 
 </ul>">
+<!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
-<!ENTITY sharedLongDesc2 "<ul> 
+<!ENTITY sharedLongDesc3 "<ul> 
 <li>Gunea une batez desgaituta edo oso lanpetuta egon daiteke. Saiatu berriro minutu batzuen buruan.</li> 
-<li>Ezin badituzu orriak kargatu, egiaztatu zure gailu mugikorraren datuen edo WiFi-aren konexioa.</li> 
+<li>Ezin baduzu beste orririk kargatu, egiaztatu zure gailu mugikorraren datu- edo WiFi-konexioa. 
+<button id='wifi'>Gaitu Wi-Fia</button> 
+</li> 
 </ul>">
 
-<!ENTITY cspFrameAncestorBlocked.title "Edukien segurtasun-politikak blokeatuta">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName;(e)k orri hau modu honetan kargatzea eragotzi du onartzen ez den edukien-segurtasun politika duelako.</p>">
+<!ENTITY cspBlocked.title "Edukien segurtasun-politikak blokeatuta">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName;(e)k orri hau modu honetan kargatzea eragotzi du onartzen ez den edukien-segurtasun politika duelako.</p>">
 
 <!ENTITY corruptedContentError.title "Hondatutako edukiaren errorea">
 <!ENTITY corruptedContentError.longDesc "<p>Ikusten saiatzen ari zaren orria ezin da erakutsi errore bat detektatu delako datu-transmisioan.</p><ul><li>Jarri harremanetan gunearen arduradunarekin arazo honen berri emateko.</li></ul>">

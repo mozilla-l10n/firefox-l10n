@@ -5,7 +5,7 @@
 
 <!ENTITY windowTitle.label "Txertatu matematika">
 
-<!ENTITY sourceEditField.label "Idatzi LaTeX iturburu-kodea:">
+<!ENTITY sourceEditField.label "Sartu LaTeX iturburu-kodea:">
 
 <!ENTITY options.label "Aukerak">
 <!ENTITY optionInline.label "Barneko modua">
@@ -16,10 +16,6 @@
 <!ENTITY optionLTR.accesskey "z">
 <!ENTITY optionRTL.label "Eskuinetik ezkerrerako norantzan">
 <!ENTITY optionRTL.accesskey "s">
-
-<!ENTITY example.label "Adibidea: ">
-<!-- LOCALIZATION NOTE (exampleText.label): DONT_TRANSLATE. This is a LaTeX example. -->
-<!ENTITY exampleText.label "\sqrt{x_1} + \frac{π^3}{2}">
 
 <!ENTITY insertButton.label "Txertatu">
 <!ENTITY insertButton.accesskey "x">

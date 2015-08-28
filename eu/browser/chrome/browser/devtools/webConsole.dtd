@@ -73,7 +73,18 @@
 <!ENTITY btnConsoleInfo         "Informazioa">
 <!ENTITY btnConsoleWarnings     "Abisuak">
 <!ENTITY btnConsoleLog          "Erregistroa">
+<!ENTITY btnConsoleXhr          "XHR">
 <!ENTITY btnConsoleReflows      "Egokitzeak">
+<!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
+  -  should not be translated. -->
+
+<!ENTITY btnConsoleSharedWorkers "Partekatutako langileak">
+<!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
+  -  should not be translated. -->
+<!ENTITY btnConsoleServiceWorkers "Zerbitzu-langileak">
+<!-- LOCALIZATION NODE (btnConsoleWindowlessWorkers) the term "Workers"
+  -  should not be translated. -->
+<!ENTITY btnConsoleWindowlessWorkers "Gehigarrien edo interfazearen langileak">
 
 <!ENTITY filterOutput.placeholder "Iragazi irteera">
 <!ENTITY btnClear.label        "Garbitu">
@@ -97,3 +108,5 @@
 <!ENTITY closeCmd.key         "W">
 <!ENTITY findCmd.key          "F">
 <!ENTITY clearOutputCtrl.key  "L">
+<!ENTITY openInVarViewCmd.label "Ireki aldagaien ikuspegian">
+<!ENTITY openInVarViewCmd.accesskey "a">

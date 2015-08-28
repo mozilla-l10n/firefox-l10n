@@ -13,6 +13,10 @@
 <!ENTITY pref.dateformat.long "Luzea" >
 <!ENTITY pref.dateformat.short "Laburra"  >
 
+<!ENTITY pref.timezones.caption "Ordu zonaldeak">
+<!ENTITY pref.timezones.label "Zure ordu-zonaldetik gertueneko hiria hautatu:">
+<!ENTITY pref.timezones.accesskey "Z">
+
 <!ENTITY pref.defaults.label "Elementu berrien balio lehenetsiak">
 <!ENTITY pref.events.label "Gertaerak">
 <!ENTITY pref.tasks.label "Zereginak">
@@ -28,6 +32,10 @@
 <!ENTITY pref.default_task_offset_current.label "Uneko orduarekiko erlatiboa">
 <!ENTITY pref.default_task_offset_start.label "Hasierarekiko erlatiboa">
 <!ENTITY pref.default_task_offset_next_hour.label "Hurrengo orduarekiko erlatiboa">
+
+<!ENTITY pref.calendar.todaypane.agenda.caption "Gaurko panela">
+<!ENTITY pref.soondays.label "Hurrengo atalak erakusten du:">
+<!ENTITY pref.soondays.accesskey "H">
 
 <!ENTITY pref.accessibility.label "Erabilgarritasuna" >
 <!ENTITY pref.systemcolors.label "Optimizatu koloreak erabilgarritasunerako" >

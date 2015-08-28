@@ -3,18 +3,20 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "Orokorra">
-<!ENTITY itemDisplay.label       "Irakurtzea eta bistaratzea">
+<!ENTITY dataChoicesTab.label    "Datu aukerak">
 <!ENTITY itemUpdate.label        "Eguneraketak">
 <!ENTITY itemNetworking.label    "Sarea eta diskoko lekua">
 <!ENTITY itemCertificates.label  "Ziurtagiriak">
 <!-- General Settings -->
 
-
-<!ENTITY submitTelemetry.label         "Bidali errendimenduaren inguruko datuak">
-<!ENTITY submitTelemetry.accesskey     "e">
-<!ENTITY telemetryInfoLink.label       "Telemetry-ri buruzko informazio gehiago">
 <!ENTITY enableGlodaSearch.label       "Gaitu bilaketa orokorra eta indexatzailea">
 <!ENTITY enableGlodaSearch.accesskey   "i">
+<!ENTITY allowHWAccel.label            "Erabili hardware azelerazioa erabilgarri dagoenean">
+<!ENTITY allowHWAccel.accesskey        "h">
+<!ENTITY storeType.label               "Mezuen biltegiratze mota kontu berrientzako:">
+<!ENTITY storeType.accesskey           "m">
+
+<!ENTITY maildirStore.label            "Fitxategia mezuko (maildir)">
 
 <!ENTITY scrolling.label               "Korritzea">
 <!ENTITY useAutoScroll.label           "Erabili korritze automatikoa">
@@ -35,32 +37,19 @@
 <!ENTITY returnReceiptsInfo.label      "Zehaztu hartu-agiriak nola kudeatzen dituen &brandShortName;(e)k">
 <!ENTITY showReturnReceipts.label      "Hartu-agiriak…">
 <!ENTITY showReturnReceipts.accesskey  "r">
-<!-- Display and Reading Settings -->
+<!-- Data Choices -->
 
-<!ENTITY reading.caption               "Irakurketa">
-<!ENTITY display.caption               "Bistaratzea">
-<!ENTITY showCondensedAddresses.label  "Erakutsi nire helbide-liburuko pertsonen bistarazte-izena bakarrik">
-<!ENTITY showCondensedAddresses.accesskey "p">
+<!ENTITY telemetrySection.label          "Telemetria">
+<!ENTITY telemetryDesc.label             "Errendimendu, erabilera, hardware eta pertsonalizazio informazioa bidaltzen dio &vendorShortName;(r)i &brandShortName; hobetzen laguntzeko">
+<!ENTITY enableTelemetry.label           "Gaitu telemetria">
+<!ENTITY enableTelemetry.accesskey       "t">
+<!ENTITY telemetryLearnMore.label        "Ikasi gehiago">
 
-<!ENTITY autoMarkAsRead.label          "Markatu automatikoki mezuak irakurrita gisa">
-<!ENTITY autoMarkAsRead.accesskey      "a">
-<!ENTITY markAsReadNoDelay.label       "Bistaratu bezain laster">
-<!ENTITY markAsReadNoDelay.accesskey   "B">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label         "Denbora batez bistaratu eta gero:">
-<!ENTITY markAsReadDelay.accesskey     "e">
-<!ENTITY secondsLabel.label            "segundoz">
-<!ENTITY openMsgIn.label               "Ireki mezuak:">
-<!ENTITY openMsgInNewTab.label         "Fitxa berrian">
-<!ENTITY openMsgInNewTab.accesskey     "t">
-<!ENTITY reuseExpRadio0.label          "Mezu-leiho berrian">
-<!ENTITY reuseExpRadio0.accesskey      "h">
-<!ENTITY reuseExpRadio1.label          "Dagoen mezu-leihoan">
-<!ENTITY reuseExpRadio1.accesskey      "D">
-<!ENTITY closeMsgOnMoveOrDelete.label  "Itxi mezu-leihoa/fitxa lekuz aldatzean edo ezabatzean">
-<!ENTITY closeMsgOnMoveOrDelete.accesskey "I">
+<!ENTITY crashReporterSection.label      "Hutsegiteen berriemailea">
+<!ENTITY crashReporterDesc.label         "&brandShortName;(e)k hutsegite-txostenak bidaltzen ditu &vendorShortName;(e)ri zure e-posta bezeroa egonkorragoa eta seguruagoa egiten laguntzeko">
+<!ENTITY enableCrashReporter.label       "Gaitu hutsegiteen berriemailea">
+<!ENTITY enableCrashReporter.accesskey   "h">
+<!ENTITY crashReporterLearnMore.label    "Ikasi gehiago">
 <!-- Update -->
 
 <!ENTITY updateApp.label                 "&brandShortName;(r)en eguneraketak:">
@@ -108,13 +97,13 @@
 
 <!ENTITY certSelection.description       "Webgune batek nire ziurtagiri pertsonala eskatzen duenean:">
 <!ENTITY certs.auto                      "Hautatu bat automatikoki">
-
+<!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "Galdetu beti">
 <!ENTITY certs.ask.accesskey             "G">
-
-
+<!ENTITY enableOCSP.label                "Galdetu OCSP erantzule-zerbitzariei ziurtagiriak baliozkoak diren egiaztatzeko">
+<!ENTITY enableOCSP.accesskey            "G">
 
 <!ENTITY viewCertificates.label         "Ikusi ziurtagiriak">
 <!ENTITY viewCertificates.accesskey     "a">
-
-
+<!ENTITY viewSecurityDevices.label      "Segurtasun-gailuak">
+<!ENTITY viewSecurityDevices.accesskey  "u">

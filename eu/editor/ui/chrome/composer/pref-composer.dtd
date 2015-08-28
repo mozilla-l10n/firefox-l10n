@@ -8,16 +8,16 @@
 
 
 <!ENTITY  pref.composer.title           "Composer">
-<!ENTITY  recentFiles.title             "Azken orrien menua">
-<!ENTITY  documentsInMenu.label         "Zerrendatutako gehienezko orri kopurua">
+<!ENTITY  recentFiles.title             "Azken orrialdeen menua">
+<!ENTITY  documentsInMenu.label         "Zerrendatutako gehienezko orrialde kopurua">
 <!ENTITY  documentsInMenu.accesskey     "n">
-<!ENTITY  savingFiles.title             "Orriak gorde edo argitaratzean">
+<!ENTITY  savingFiles.title             "Orrialdeak gorde edo argitaratzean">
 <!ENTITY  preserveExisting.label        "Jatorrizko iturburu formatua mantendu">
 <!ENTITY  preserveExisting.accesskey    "m">
 <!ENTITY  preserveExisting.tooltip      "Jatorrizko iturburu formatua eta lerro amaierak mantendu">
-<!ENTITY  saveAssociatedFiles.label     "Orriak gordetzerakoan lotutako irudi eta beste fitxategiak gorde">
+<!ENTITY  saveAssociatedFiles.label     "Orrialdeak gordetzerakoan lotutako irudi eta beste fitxategiak gorde">
 <!ENTITY  saveAssociatedFiles.accesskey "s">
-<!ENTITY  showPublishDialog.label       "Erakutsi beti argitaratze elkarrizketa orriak argitaratzean">
+<!ENTITY  showPublishDialog.label       "Erakutsi beti argitaratze elkarrizketa orrialdeak argitaratzean">
 <!ENTITY  showPublishDialog.accesskey   "a">
 <!ENTITY  composerEditing.label         "Editatzea">
 <!ENTITY  maintainStructure.label       "Mantendu taula diseinua gelaxkak gehitu edo ezabatzerakoan">

@@ -15,6 +15,7 @@
 
 <!ENTITY  paneGeneral.title       "Orokorra">
 <!ENTITY  paneTabs.title          "Fitxak">
+<!ENTITY  paneSearch.title        "Bilaketa">
 <!ENTITY  paneContent.title       "Edukia">
 <!ENTITY  paneApplications.title  "Aplikazioak">
 <!ENTITY  panePrivacy.title       "Pribatutasuna">
@@ -23,7 +24,5 @@
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 
 <!ENTITY  paneSync.title          "Sync">
-<!ENTITY  buttonForward.tooltip   "Joan orri bat aurrera">
-<!ENTITY  buttonBack.tooltip      "Joan orri bat atzera">
 
 <!ENTITY  helpButton.label        "Laguntza">

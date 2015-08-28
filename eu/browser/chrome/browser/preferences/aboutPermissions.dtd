@@ -18,7 +18,7 @@
 <!ENTITY permissions.forgetSite          "Ahaztu gune honetaz">
 
 <!ENTITY permission.alwaysAsk            "Galdetu beti">
-<!ENTITY permission.allow                "Onartu">
+<!ENTITY permission.allow                "Baimendu">
 <!ENTITY permission.allowForSession      "Baimendu saio honetarako">
 <!ENTITY permission.allowFirstPartyOnly  "Debekatu hirugarrenenak">
 <!ENTITY permission.block                "Blokeatu">
@@ -41,6 +41,6 @@
 
 <!ENTITY popup.label                     "Ireki popup leihoak">
 
-<!ENTITY fullscreen.label                "Pantaila osoa">
+<!ENTITY push.label                      "Jaso push jakinarazpenak">
 <!ENTITY camera.label                    "Erabili kamera">
 <!ENTITY microphone.label                "Erabili mikrofonoa">
