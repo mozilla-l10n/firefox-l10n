@@ -11,6 +11,7 @@
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
      Width of the Private Browsing section.
      -->
+<!ENTITY aboutPrivateBrowsing.width            "25em">
 
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
      aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
@@ -39,11 +40,13 @@
      Width of the Tracking Protection section. This should be enough to
      accommodate the title as well as the enabled or disabled indicator.
      -->
+<!ENTITY trackingProtection.width              "22em">
 <!ENTITY trackingProtection.title              "הגנה מפני מעקב">
 
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
+<!ENTITY trackingProtection.state.width        "6ch">
 <!ENTITY trackingProtection.state.enabled      "פעילה">
 <!ENTITY trackingProtection.state.disabled     "כבויה">
 
