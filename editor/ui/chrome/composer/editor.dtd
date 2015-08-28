@@ -12,14 +12,14 @@
 
 <!ENTITY compositionToolbar.tooltip "Mezuak prestatzeko tresna-barra">
 <!ENTITY previewToolbarCmd.label "Kudeatu">
-<!ENTITY previewToolbarCmd.tooltip "Kargatu orri hau nabigatzailean">
+<!ENTITY previewToolbarCmd.tooltip "Kargatu orrialde hau nabigatzailean">
 <!-- File menu items -->
 
 <!ENTITY exportToTextCmd.label "Esportatu testura…">
 <!ENTITY exportToTextCmd.accesskey "t">
-<!ENTITY previewCmd.label "Arakatu orria">
+<!ENTITY previewCmd.label "Arakatu orrialdea">
 <!ENTITY previewCmd.accesskey "k">
-<!ENTITY sendPageCmd.label "Bidali orria…">
+<!ENTITY sendPageCmd.label "Bidali orrialdea…">
 <!ENTITY sendPageCmd.accesskey "d">
 <!-- View menu items -->
 
@@ -35,7 +35,7 @@
 <!ENTITY formatMenu.accesskey "o">
 <!ENTITY grid.label "Kokatze-sareta">
 <!ENTITY grid.accesskey "t">
-<!ENTITY pageProperties.label "Orriaren izenburua eta propietateak…">
+<!ENTITY pageProperties.label "Orrialdearen izenburua eta propietateak…">
 <!ENTITY pageProperties.accesskey "O">
 <!-- Tools menu items -->
 

@@ -17,8 +17,8 @@ sentence. -->
 <!ENTITY  reportIdleAfter.accesskey     "i">
 <!ENTITY  idleTime                      "minutu ondoren">
 
-<!ENTITY  andSetStatusToAway.label      "eta ezarri nire egoera 'kanpoan' egoera-mezu honekin:">
-<!ENTITY  andSetStatusToAway.accesskey  "k">
+<!ENTITY  andSetStatusToAway.label      "eta ezarri nire egoera Kanpoan egoera-mezu honekin:">
+<!ENTITY  andSetStatusToAway.accesskey  "K">
 
 <!ENTITY  sendTyping.label              "Bidali idazketa-jakinarazpenak berriketetan">
 <!ENTITY  sendTyping.accesskey          "d">

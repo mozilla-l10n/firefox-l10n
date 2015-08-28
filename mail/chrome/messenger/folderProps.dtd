@@ -5,17 +5,17 @@
 <!ENTITY folderProps.windowtitle.label           "Propietateak">
 
 <!ENTITY generalInfo.label                       "Argibide orokorrak">
-<!ENTITY folderCharsetFallback.label             "Karaktere-kodeketa alternatiboa:">
-<!ENTITY folderCharsetFallback.accesskey         "K">
-<!ENTITY folderCharsetEnforce.label              "Aplikatu kodeketa karpetako mezu guztiei (banakako mezuen karaktere-kodeketako ezarpenei eta detekzio automatikoari ezikusi egingo zaie)">
-<!ENTITY folderCharsetEnforce.accesskey          "A">
+
+
+
+
 <!ENTITY folderRebuildSummaryFileTip2.label      "Berreraiki laburpen-fitxategiaren indizea">
 <!ENTITY folderRebuildSummaryFile2.label         "Konpondu karpeta">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "K">
 <!ENTITY folderRebuildSummaryFile.explanation    "Batzutan karpetaren indize-fitxategia (.msf) kaltetu egiten da eta mezuak faltan daudela edo ezabatutako mezuak oraindik erakusten direla eman lezake; karpeta konpontzeak arazo hauek desagerraraz ditzake.">
 <!ENTITY folderIncludeInGlobalSearch.label       "Sartu karpeta honetako mezuak bilaketa globalaren emaitzetan">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "g">
-     
+
 <!ENTITY retention.label "Gordetze-politika">
 <!ENTITY retentionUseAccount.label  "Erabili nire kontu-ezarpenak">
 <!ENTITY retentionUseAccount.accesskey "E">

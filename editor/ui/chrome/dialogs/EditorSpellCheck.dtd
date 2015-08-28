@@ -28,7 +28,7 @@
 <!ENTITY addToUserDictionaryButton.accessKey "g">
 <!ENTITY editUserDictionaryButton.label "Editatu...">
 <!ENTITY editUserDictionaryButton.accessKey "E">
-<!ENTITY recheckButton.label "Aztertu orria berriro">
+<!ENTITY recheckButton.label "Aztertu orrialdea berriro">
 <!ENTITY recheckButton.accessKey "o">
 <!ENTITY closeButton.label "Itxi">
 <!ENTITY closeButton.accessKey "I">

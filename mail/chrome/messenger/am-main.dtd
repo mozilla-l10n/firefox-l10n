@@ -37,6 +37,6 @@
 <!ENTITY manageIdentities.accesskey "K">
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
 
-<!ENTITY smtpName.label "Posta bidaltzeko zerbitzaria (SMTP):">
+<!ENTITY smtpName.label "Irteerako SMTP zerbitzaria:">
 <!ENTITY smtpName.accesskey "o">
 <!ENTITY smtpDefaultServer.label "Erabili lehenetsitako zerbitzaria">

@@ -7,9 +7,9 @@
 
 
 
-<!ENTITY windowTitle.label "Gorde eta aldatu karaktere-kodeketa">
-<!ENTITY documentTitleTitle.label "Orriaren izenburua">
-<!ENTITY documentCharsetTitle.label "Karaktere-kodeketa">
-<!ENTITY documentCharsetDesc.label "Aukeratu dokumentuan erabili nahi duzun karaktere-kodeketa:">
+<!ENTITY windowTitle2.label "Gorde eta aldatu testuaren kodeketa">
+<!ENTITY documentTitleTitle.label "Orrialdearen izenburua">
+<!ENTITY documentCharsetTitle2.label "Testuaren kodeketa">
+<!ENTITY documentCharsetDesc2.label "Aukeratu dokumentuan erabili nahi duzun testu-kodeketa:">
 <!ENTITY documentExportToText.label "Esportatu testura">
 

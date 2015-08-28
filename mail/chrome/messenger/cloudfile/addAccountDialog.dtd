@@ -8,6 +8,6 @@
 <!ENTITY addAccountDialog.noAccountText "Sentitzen dugu baina uneko &brandShortName; bertsioak lineako biltegiratze-zerbitzu bakoitzerako kontu bakarra onartzen du.">
 <!ENTITY addAccountDialog.createAccountText2 "Tamaina handiko eranskinak lineako biltegiratze-zerbitzuetakoren bat erabiliz bidal ditzakezu. Konfiguratu badagoen kontua edo sortu kontu berria.">
 <!ENTITY addAccountDialog.authorizing "Baimena egiaztatzen…">
-<!ENTITY addAccountDialog.error "Errorea gertatu da kontua konfiguratzean!">
+<!ENTITY addAccountDialog.error "Errore bat gertatu da kontua konfiguratzean!">
 <!ENTITY addAccountDialog.acceptButton.label "Konfiguratu kontua">
 <!ENTITY addAccountDialog.learnMore "Argibide gehiago…">

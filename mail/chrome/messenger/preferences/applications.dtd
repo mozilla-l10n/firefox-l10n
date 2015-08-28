@@ -13,7 +13,7 @@
 
 <!ENTITY  filter.placeholder          "Bilatu">
 
-<!ENTITY saveTo.label                 "Gorde fitxategiak hemen: ">
+<!ENTITY saveTo.label                 "Gorde fitxategiak hemen:">
 <!ENTITY saveTo.accesskey             "G">
 <!ENTITY alwaysAsk.label              "Beti galdetu niri fitxategiak non  gorde">
 <!ENTITY alwaysAsk.accesskey          "B">
@@ -27,7 +27,7 @@
 
 <!ENTITY addCloudFileAccount.label        "Gehitu">
 <!ENTITY addCloudFileAccount.accesskey    "G">
-<!ENTITY addCloudFileAccount.description  "Gehitu 'Filelink' biltegiratze-zerbitzu berria">
+<!ENTITY addCloudFileAccount.description  "Gehitu Filelink biltegiratze-zerbitzu berri bat">
 <!ENTITY removeCloudFileAccount.label     "Kendu">
 <!ENTITY removeCloudFileAccount.accesskey "K">
 <!ENTITY authRequired.description         "Beharrezkoa da zure baimena biltegiratze-zerbitzu honen ezarpenak ikusteko.">

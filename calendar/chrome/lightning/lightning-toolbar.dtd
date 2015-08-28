@@ -8,10 +8,15 @@
 <!ENTITY lightning.toolbar.task.name.accesskey "Z">
 
 <!ENTITY lightning.toolbar.sync.label "Sinkronizatu">
+
 <!ENTITY lightning.toolbar.delete.label "Ezabatu">
+
 <!ENTITY lightning.toolbar.edit.label "Editatu">
-<!ENTITY lightning.toolbar.gototoday.label "Joan gaurko egunera">
+
+
+
 <!ENTITY lightning.toolbar.print.label "Inprimatu">
+
 <!-- Mode Toolbar -->
 
 <!ENTITY lightning.toolbar.calendar.label     "Egutegia">
@@ -23,7 +28,9 @@
 <!-- Toolbar write button -->
 
 <!ENTITY lightning.toolbar.newevent.label     "Gertaera">
+<!ENTITY lightning.toolbar.newevent.tooltip   "Sortu gertaera berria">
 <!ENTITY lightning.toolbar.newtask.label      "Zeregina">
+<!ENTITY lightning.toolbar.newtask.tooltip    "Sortu zeregin berria">
 <!-- Calendar and Task Mode Toolbar -->
 
 <!ENTITY lightning.toolbar.day.label                 "Egun">

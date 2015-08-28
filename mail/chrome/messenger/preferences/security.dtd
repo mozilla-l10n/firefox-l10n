@@ -2,22 +2,22 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY itemJunk.label          "Zabor-posta">
+<!ENTITY itemJunk.label          "Zaborra">
 <!ENTITY itemPhishing.label      "Posta-iruzurrak">
 <!ENTITY itemPasswords.label     "Pasahitzak">
 <!ENTITY itemAntiVirus.label     "Antibirusa">
 <!-- Junk Mail Controls -->
 
-<!ENTITY junkMail.intro "Ezarri zabor-postaren lehenetsitako ezarpenak. Kontu bakoitzari lotutako zabor-postaren ezarpenak kontu-ezarpenetan konfigura daitezke.">
-<!ENTITY manualMark.label "Mezuak zabor gisa markatzean:">
+<!ENTITY junkMail.intro "Ezarri zabor-postaren lehenetsitako ezarpenak. Kontu bakoitzari lotutako zabor-postaren ezarpenak kontu-ezarpenetan konfiguratu daitezke.">
+<!ENTITY manualMark.label "Mezuak zabor gisa markatzen ditudanean:">
 <!ENTITY manualMark.accesskey "z">
-<!ENTITY manualMarkModeMove.label "Aldatu lekuz kontuaren &quot;Zabor-posta&quot; karpetara">
+<!ENTITY manualMarkModeMove.label "Aldatu lekuz kontuaren &quot;Zaborra&quot; karpetara">
 <!ENTITY manualMarkModeMove.accesskey "d">
 <!ENTITY manualMarkModeDelete.label "Ezabatu">
 <!ENTITY manualMarkModeDelete.accesskey "E">
 <!ENTITY markAsReadOnSpam.label "Markatu zabor-mezuak irakurrita gisa">
 <!ENTITY markAsReadOnSpam.accesskey "M">
-<!ENTITY enableAdaptiveJunkLogging.label "Gaitu zabor-posta iragazki moldakorraren loga">
+<!ENTITY enableAdaptiveJunkLogging.label "Gaitu zabor-iragazki moldakorraren loga">
 <!ENTITY enableAdaptiveJunkLogging.accesskey "G">
 <!ENTITY openJunkLog.label "Erakutsi loga">
 <!ENTITY openJunkLog.accesskey "s">
@@ -35,7 +35,7 @@
 <!ENTITY savedPasswords.intro           "&brandShortName;(e)k pasahitzen informazioa gogora dezake zure kontu guztientzat.">
 <!ENTITY useMasterPassword.label        "Erabili pasahitz nagusia">
 <!ENTITY useMasterPassword.accesskey    "n">
-<!ENTITY masterPassword.intro           "Pasahitz nagusiak zure pasahitz guztiak babesten ditu, baina saioko behin idatzi behar duzu.">
+<!ENTITY masterPassword.intro           "Pasahitz nagusiak zure pasahitz guztiak babesten ditu, baina saio bakoitzeko behin sartu behar duzu.">
 <!ENTITY changeMasterPassword.label     "Aldatu pasahitz nagusia…">
 <!ENTITY changeMasterPassword.accesskey "A">
 <!ENTITY savedPasswords.label           "Gordetako pasahitzak…">

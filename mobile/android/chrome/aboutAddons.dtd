@@ -5,9 +5,11 @@
 <!ENTITY aboutAddons.title2                     "Gehigarriak">
 <!ENTITY aboutAddons.header2                    "Zure gehigarriak">
 <!ENTITY aboutAddons.options                    "Aukerak">
-<!ENTITY aboutAddons.browseAll                  "Arakatu Firefoxerako gehigarri guztiak">
 
 <!ENTITY addonAction.enable                     "Gaitu">
 <!ENTITY addonAction.disable                    "Desgaitu">
 <!ENTITY addonAction.uninstall                  "Desinstalatu">
 <!ENTITY addonAction.undo                       "Desegin">
+
+<!ENTITY addonUnsigned.message                  "&brandShortName;(e)k ezin izan du gehigarri hau egiaztatu.">
+<!ENTITY addonUnsigned.learnMore                "Argibide gehiago">

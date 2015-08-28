@@ -95,6 +95,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageInfoCmd.label "Orriaren informazioa">
 <!ENTITY pageInfoCmd.accesskey "i">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY mirrorTabCmd.label "Ispilatu fitxa">
+<!ENTITY mirrorTabCmd.accesskey "I">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "Sartu pantaila osoan">
@@ -108,6 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "z">
 
 <!ENTITY fxaSignIn.label "Hasi saioa &syncBrand.shortName.label;(e)n">
+<!ENTITY fxaSignedIn.tooltip "Ireki &syncBrand.shortName.label; hobespenak">
 <!ENTITY fxaSignInError.label "Birkonektatu &syncBrand.shortName.label;(e)ra">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; gaituta">
 <!ENTITY syncStartPanel2.subTitle "Une batetik bestera hasiko da sinkronizatzen &brandShortName;.">
@@ -124,8 +127,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "E">
 <!ENTITY fullScreenExit.label "Irten pantaila osoko ikuspegitik">
 <!ENTITY fullScreenExit.accesskey "p">
-<!ENTITY fullscreenAllowButton.label "Onartu">
-<!ENTITY fullscreenExitButton.label "Ukatu">
 
 <!ENTITY fullscreenExitHint2.value "Sakatu ESK edozein unetan irteteko.">
 <!ENTITY leaveDOMFullScreen.label "Irten pantaila osotik">
@@ -140,17 +141,22 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Editatu laster-marka">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
+<!-- LOCALIZATION NOTE (findShareServices.label):
+  -  Use the unicode ellipsis char, \u2026,
+  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
+<!ENTITY findShareServices.label "Bilatu partekatzeko zerbitzu gehiago…">
 <!ENTITY sharePageCmd.label "Partekatu orri hau">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "P">
-<!ENTITY shareLinkCmd.label "Partekatu lotura hau">
-<!ENTITY shareLinkCmd.accesskey "P">
-<!ENTITY shareImageCmd.label "Partekatu irudi hau">
-<!ENTITY shareImageCmd.accesskey "P">
-<!ENTITY shareSelectCmd.label "Partekatu hautapena">
-<!ENTITY shareSelectCmd.accesskey "P">
-<!ENTITY shareVideoCmd.label "Partekatu bideo hau">
-<!ENTITY shareVideoCmd.accesskey "P">
+<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
+<!ENTITY shareLink.label "Partekatu lotura hau">
+<!ENTITY shareLink.accesskey "P">
+<!ENTITY shareImage.label "Partekatu irudi hau">
+<!ENTITY shareImage.accesskey "P">
+<!ENTITY shareSelect.label "Partekatu hautapena">
+<!ENTITY shareSelect.accesskey "P">
+<!ENTITY shareVideo.label "Partekatu bideo hau">
+<!ENTITY shareVideo.accesskey "P">
 <!ENTITY feedsMenu.label "Harpidetu">
 <!ENTITY subscribeToPageMenupopup.label "Harpidetu orri honetara">
 <!ENTITY subscribeToPageMenuitem.label "Harpidetu orri honetara…">
@@ -212,6 +218,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "Gehigarriak">
 <!ENTITY addons.accesskey             "G">
 <!ENTITY addons.commandkey            "A">
+<!ENTITY webapps.label                "Aplikazioak">
+<!ENTITY webapps.accesskey            "p">
 
 <!ENTITY webDeveloperMenu.label       "Web garapena">
 <!ENTITY webDeveloperMenu.accesskey   "W">
@@ -260,6 +268,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY browserToolboxMenu.label     "Nabigatzailearen tresna-koadroa">
 <!ENTITY browserToolboxMenu.accesskey "N">
+<!ENTITY browserToolboxCmd.commandkey "i">
+<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
+  -  application menu item that opens the browser content toolbox UI in the Tools menu.
+  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
+
+<!ENTITY browserContentToolboxMenu.label     "Nabigatzaile-edukiaren tresna-kutxa">
+<!ENTITY browserContentToolboxMenu.accesskey "x">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Itxi garatzailearen tresna-barra">
 <!ENTITY devToolbarMenu.label              "Garatzailearen tresna-barra">
@@ -268,6 +283,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devAppMgrMenu.accesskey           "A">
 <!ENTITY webide.label                      "WebIDE">
 <!ENTITY webide.accesskey                  "W">
+<!ENTITY webide.keycode                    "VK_F8">
+<!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "Txandakatu tresnak">
@@ -287,6 +304,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "L">
 <!ENTITY newPrivateWindow.label     "Leiho pribatu berria">
 <!ENTITY newPrivateWindow.accesskey "h">
+<!ENTITY newNonRemoteWindow.label   "E10s ez den leiho berria">
 
 <!ENTITY editMenu.label         "Editatu"> 
 <!ENTITY editMenu.accesskey       "E"> 
@@ -373,9 +391,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.accesskey "G">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder2          "Bilatu edo idatzi helbidea">
+<!ENTITY urlbar.placeholder2          "Idatzi bilaketa edo helbidea">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Aldatu fitxara:">
+
+<!ENTITY urlbar.searchSuggestionsNotification.question "Bilaketen esperientzia hobetu nahi duzu gomendioekin?">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Argibide gehiago…">
+<!ENTITY urlbar.searchSuggestionsNotification.disable "Ez">
+<!ENTITY urlbar.searchSuggestionsNotification.enable "Bai">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -400,6 +423,37 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
+<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
+     These are set as the aria-label attribute for the search input box and
+     submit button in the in-content search UI, to be used by screen readers. -->
+
+<!ENTITY contentSearchInput.label     "Bilaketa-katea">
+<!ENTITY contentSearchSubmit.label    "Bidali bilaketa">
+<!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
+     These two strings are used to build the header above the list of one-click
+     search providers:  "Search for <used typed keywords> with:" -->
+
+<!ENTITY searchFor.label              "Bilatu ">
+<!ENTITY searchWith.label             " hau erabiliz:">
+<!-- LOCALIZATION NOTE (search.label, searchAfter.label):
+     This string is used to build the header above the list of one-click search
+     providers when a one off engine has been selected.  The searchAfter text is
+     intentionally left empty for en-US and can be used by other localizations to
+     display a string after the search engine name.  This string will be displayed
+     as:  "Search <selected engine name><searchAfter.label text>" -->
+
+<!ENTITY search.label                 "Bilatu ">
+<!ENTITY searchAfter.label            "">
+<!-- LOCALIZATION NOTE (searchWithHeader.label):
+     The wording of this string should be as close as possible to
+     searchFor.label and searchWith.label. This string will be used instead of
+     them when the user has not typed any keyword. -->
+
+<!ENTITY searchWithHeader.label       "Bilatu honekin:">
+<!-- LOCALIZATION NOTE (changeSearchSettings.button):
+     This string won't wrap, so if the translated string is longer,
+     consider translating it as if it said only "Search Settings". -->
+<!ENTITY changeSearchSettings.button  "Aldatu bilaketa-ezarpenak">
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -452,7 +506,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Egin marko honen laster-marka">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
-<!ENTITY emailPageCmd.label           "Bidali lotura posta elektronikoz…">
+<!ENTITY emailPageCmd.label           "Bidali lotura postaz…">
 <!ENTITY emailPageCmd.accesskey       "s">
 <!ENTITY savePageCmd.label            "Gorde orria honela…">
 <!ENTITY savePageCmd.accesskey        "a">
@@ -471,11 +525,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveVideoCmd.accesskey       "b">
 <!ENTITY saveAudioCmd.label           "Gorde audioa honela…">
 <!ENTITY saveAudioCmd.accesskey       "r">
-<!ENTITY emailImageCmd.label          "Bidali irudia posta elektronikoz…">
+<!ENTITY emailImageCmd.label          "Bidali irudia postaz…">
 <!ENTITY emailImageCmd.accesskey      "a">
-<!ENTITY emailVideoCmd.label          "Bidali bideoa posta elektronikoz…">
+<!ENTITY emailVideoCmd.label          "Bidali bideoa postaz…">
 <!ENTITY emailVideoCmd.accesskey      "a">
-<!ENTITY emailAudioCmd.label          "Bidali audioa posta elektronikoz…">
+<!ENTITY castVideoCmd.label           "Bidali bideoa gailura">
+<!ENTITY castVideoCmd.accesskey       "B">
+<!ENTITY emailAudioCmd.label          "Bidali audioa postaz…">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "Aktibatu plugin hau">
 <!ENTITY playPluginCmd.accesskey      "k">
@@ -573,20 +629,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sidebarCloseButton.tooltip     "Itxi alboko barra">
 
-<!ENTITY quitApplicationCmdWin.label       "Irten"> 
-<!ENTITY quitApplicationCmdWin.accesskey   "I">
-<!ENTITY quitApplicationCmdWin.tooltip     "Irten &brandShortName;(e)tik">
+<!ENTITY quitApplicationCmdWin2.label       "Irten">
+<!ENTITY quitApplicationCmdWin2.accesskey   "I">
+<!ENTITY quitApplicationCmdWin2.tooltip     "Irten &brandShorterName;(e)tik">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Irten"> 
 <!ENTITY quitApplicationCmd.accesskey   "I">
-<!ENTITY quitApplicationCmdMac.label    "Utzi &brandShortName;">
+<!ENTITY quitApplicationCmdMac2.label   "Irten &brandShorterName;(e)tik">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "Q">
 
 <!ENTITY closeCmd.label                 "Itxi">  
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "x">
+
+<!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "Orriaren estiloa">
 <!ENTITY pageStyleMenu.accesskey "e">
@@ -628,29 +686,36 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label                   "Utzi">
 <!ENTITY editBookmark.removeBookmark.accessKey       "K">
 
-<!ENTITY identity.unverifiedsite2 "Webgune honek ez du identitate informaziorik eskaintzen.">
-<!ENTITY identity.connectedTo "Hona konektatuta: ">
-<!-- Localization note (identity.runBy) : This string appears between a
-domain name (above) and an organization name (below). E.g.
+<!ENTITY identity.connectionSecure "Konexio segurua">
+<!ENTITY identity.connectionNotSecure "Konexioa ez da segurua">
+<!ENTITY identity.connectionFile "Orri hau zure ordenagailuan biltegiratuta dago.">
+<!ENTITY identity.connectionVerified "&brandShortName;(e)k egiaztatu du gune honetara modu segurua konektatuta zaudela. Arduraduna:">
+<!ENTITY identity.connectionInternal "&brandShortName; orri segurua da hau.">
+<!-- Strings for connection state warnings. -->
+<!ENTITY identity.passiveLoaded "Orri honetako zenbait atal ez dira seguruak (adib. irudiak).">
+<!ENTITY identity.activeLoaded "Babesa desgaitu duzu orri honetan.">
+<!ENTITY identity.weakEncryption "Orri honek zifraketa ahula erabiltzen du.">
+<!-- Strings for connection state warnings in the subview. -->
 
-example.com
-which is run by
-Example Enterprises, Inc.
+<!ENTITY identity.description.insecure "Gune honetarako zure konexioa ez da pribatua. Bidaltzen duzun informazioa besteek ikus lezakete (adibidez pasahitzak, mezuak, kreditu txartelak, etab.).">
+<!ENTITY identity.description.weakCipher "Gune honetarako zure konexioak zifraketa ahula erabiltzen du eta ez da pribatua.">
+<!ENTITY identity.description.weakCipher2 "Besteek zure informazioa ikusi edo webgunearen portaera alda lezakete.">
+<!ENTITY identity.description.activeBlocked "&brandShortName;(e)k seguruak ez diren orri honetako atalak blokeatu ditu.">
+<!ENTITY identity.description.passiveLoaded "Zure konexioa ez da pribatua eta gunearekin partekatzen duzun informazioa besteek ikus lezakete.">
+<!ENTITY identity.description.passiveLoaded2 "Wegune honek segurua ez den edukia dauka (adibidez irudiak).">
+<!ENTITY identity.description.passiveLoaded3 "Nahiz eta &brandShortName;(e)k zenbait eduki blokeatu duen, segurua ez den edukia dauka oraindik orriak (adibidez irudiak).">
+<!ENTITY identity.description.activeLoaded "Wegune honek segurua ez den edukia dauka (adibidez script-ak) eta zure konexioa ez da pribatua.">
+<!ENTITY identity.description.activeLoaded2 "Gune honekin partekatzen duzun informazioa besteek ikus lezakete (adibidez pasahitzak, mezuak, kreditu txartelak, etab.).">
 
-The layout of the identity dialog prevents combining this into a single string with
-substitution variables.  If it is difficult to translate the sense of the string
-with that structure, consider a translation which ignores the preceding domain and
-just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "Honen menpe dago: ">
+<!ENTITY identity.enableMixedContentBlocking.label "Gaitu babesa">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "G">
+<!ENTITY identity.disableMixedContentBlocking.label "Desgaitu babesa momentuz">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "D">
+<!ENTITY identity.learnMore "Argibide gehiago">
 
-<!ENTITY identity.moreInfoLinkText "Argibide gehiago…">
+<!ENTITY identity.moreInfoLinkText2 "Informazio gehiago">
 
 <!ENTITY identity.permissions "Baimenak">
-<!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
-     localized title of this SUMO article
-     https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
-
-<!ENTITY identity.help.tooltip "Nola jakin webgune baterako nire konexioa ziurra den?">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -689,7 +754,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.accesskey "A">
 <!ENTITY social.closeNotificationItem.label "Une honetan ez">
 
-
+<!ENTITY social.directory.label "Aktibazioen direktorioa">
+<!ENTITY social.directory.text "Partekatzeko zerbitzuak direktoriotik parteka ditzakezu.">
+<!ENTITY social.directory.button "Eraman nazazu hara!">
+<!ENTITY social.directory.introText "Egin klik zerbitzu batean &brandShortName;(e)ra gehitzeko.">
+<!ENTITY social.directory.viewmore.text "Ikusi gehiago">
 
 <!ENTITY customizeMode.tabTitle "Pertsonalizatu &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Tresna eta eginbide gehigarriak">
@@ -698,6 +767,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.restoreDefaults "Berrezarri lehenetsiak">
 <!ENTITY customizeMode.toolbars "Erakutsi/ezkutatu tresna-barrak">
 <!ENTITY customizeMode.titlebar "Titulu-barra">
+<!ENTITY customizeMode.lwthemes "Gaiak">
+<!ENTITY customizeMode.lwthemes.myThemes "Nire gaiak">
+<!ENTITY customizeMode.lwthemes.recommended "Gomendatuak">
+<!ENTITY customizeMode.lwthemes.menuManage "Kudeatu">
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "K">
+<!ENTITY customizeMode.lwthemes.menuGetMore "Lortu gai gehiago">
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "L">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Ezarri fokua txatetan">
@@ -710,18 +786,37 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY getUserMedia.selectCamera.label "Partekatzeko kamera:">
 <!ENTITY getUserMedia.selectCamera.accesskey "k">
-<!ENTITY getUserMedia.selectWindowOrScreen.label "Partekatu beharreko leihoa edo pantaila:">
-<!ENTITY getUserMedia.selectWindowOrScreen.accesskey "l">
 <!ENTITY getUserMedia.selectMicrophone.label "Partekatzeko mikrofonoa:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "m">
+<!ENTITY getUserMedia.audioCapture.label "Fitxatik datorren audioa partekatu egingo da.">
 <!ENTITY getUserMedia.allWindowsShared.message "Zure pantailan ikusgai dauden leiho guztiak partekatuko dira.">
 
-<!ENTITY webrtcIndicatorButton.label "Kamera / Mikrofono atzipena">
-<!ENTITY webrtcIndicatorButton.tooltip "Bistaratu une honetan zein gunerekin partekatzen duzun kamera edo mikrofonoa">
+<!ENTITY trackingProtection.title "Jarraipenaren babesa">
 
-<!ENTITY loopCallButton.tooltip "Gonbidatu norbait hitz egitera">
 
-<!ENTITY mixedContentBlocked.moreinfo "Webgune gehienak ondo ibiliko dira eduki hau blokeatuta ere.">
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock.label "Desgaitu babesa gune honetarako">
+<!ENTITY trackingProtection.unblock.accesskey "D">
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate.label "Desgaitu babesa saio honetarako">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "D">
+<!ENTITY trackingProtection.block2.label "Gaitu babesa">
+<!ENTITY trackingProtection.block2.accesskey "G">
+
+<!ENTITY trackingContentBlocked.message "Jarraipena">
+<!ENTITY trackingContentBlocked.moreinfo "Zure lineako jardueraren jarraipena egiten duten orriaren zatiak blokeatu egin dira.">
+<!ENTITY trackingContentBlocked.learnMore "Argibide gehiago">
+<!ENTITY trackingContentBlocked.options "Aukerak">
+<!ENTITY trackingContentBlocked.unblock2.label "Desgaitu babesa gune honetarako">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
+<!ENTITY trackingContentBlocked.block.label "Gaitu babesa">
+<!ENTITY trackingContentBlocked.block.accesskey "G">
+<!ENTITY trackingContentBlocked.disabled.message "Jarraipenaren babesa desgaituta dago">
 
 <!ENTITY pointerLock.notification.message "Berriro erakusteko, sakatu ESK tekla edozein unetan.">
 
@@ -740,14 +835,54 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY pluginNotification.width "44em">
 
-<!ENTITY tabCrashed.header "Fitxak huts egin du">
-<!ENTITY tabCrashed.message "Tira, pixka bat lotsagarria da hau. Web orri hau bistaratzen saiatu gara baina ez du erantzuten.">
-<!ENTITY tabCrashed.checkSendReport "Eman &vendorShortName;(r)i hutsegite honen berri konpontzeko modua izan dezaten.">
-<!ENTITY tabCrashed.tryAgain "Saiatu berriro">
-
 <!ENTITY uiTour.infoPanel.close "Itxi">
 
 <!ENTITY appMenuSidebars.label         "Alboko barrak">
+<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
+     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
+     Please ensure that this remains the case in the translation. -->
 
-<!ENTITY switchToMetroCmd2.label       "Berrabiarazi Windows 8 Touch-erako &brandShortName;(e)n">
+<!ENTITY panicButton.view.mainTimeframeDesc       "Ahaztu azken:">
+<!ENTITY panicButton.view.5min                    "Bost minutuak">
+<!ENTITY panicButton.view.2hr                     "Bi orduak">
+<!ENTITY panicButton.view.day                     "24 orduak">
+<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
+     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
+     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
+     The translation should do the same. -->
 
+<!ENTITY panicButton.view.mainActionDesc          "Jarraitzearekin bat:">
+<!ENTITY panicButton.view.deleteCookies           "Azken <html:strong>cookieak</html:strong> ezabatu egingo dira">
+<!ENTITY panicButton.view.deleteHistory           "Azken <html:strong>historia</html:strong> ezabatu egingo da">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "<html:strong>Fitxa</html:strong> eta <html:strong>leiho</html:strong> guztiak itxi egingo dira">
+<!ENTITY panicButton.view.openNewWindow           "Ireki leiho garbi berria">
+
+<!ENTITY panicButton.view.undoWarning             "Aldaketa hau ezin da desegin.">
+<!ENTITY panicButton.view.forgetButton            "Ahaztu!">
+
+<!ENTITY panicButton.thankyou.msg1                "Azken historia garbitu egin da.">
+<!ENTITY panicButton.thankyou.msg2                "Nabigatu seguru!">
+<!ENTITY panicButton.thankyou.buttonlabel         "Eskerrik asko!">
+
+<!ENTITY processHang.terminateScript.label        "Gelditu scripta">
+<!ENTITY processHang.terminateScript.accessKey    "G">
+<!ENTITY processHang.debugScript.label            "Ireki araztailean">
+<!ENTITY processHang.debugScript.accessKey        "a">
+<!ENTITY processHang.terminatePlugin.label        "Hil plugina">
+<!ENTITY processHang.terminatePlugin.accessKey    "p">
+<!ENTITY processHang.terminateProcess.label       "Hil web prozesua">
+<!ENTITY processHang.terminateProcess.accessKey   "H">
+
+<!ENTITY emeLearnMoreContextMenu.label            "DRMri buruzko argibide gehiago…">
+<!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+<!ENTITY emeNotificationsNotNow.label             "Une honetan ez">
+<!ENTITY emeNotificationsNotNow.accesskey         "e">
+<!ENTITY emeNotificationsDontAskAgain.label       "Ez galdetu berriz">
+<!ENTITY emeNotificationsDontAskAgain.accesskey   "d">
+<!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
+
+<!ENTITY saveToPocketCmd.label     "Gorde orria Pocket-era">
+<!ENTITY saveToPocketCmd.accesskey "k">
+<!ENTITY saveLinkToPocketCmd.label     "Gorde lotura Pocket-era">
+<!ENTITY saveLinkToPocketCmd.accesskey "l">
+<!ENTITY pocketMenuitem.label      "Ikusi Pocket-eko zerrenda">
