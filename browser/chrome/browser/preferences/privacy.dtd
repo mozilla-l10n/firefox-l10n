@@ -4,7 +4,8 @@
 
 <!ENTITY tracking.label                 "តាមដាន">
 
-
+<!ENTITY dntTrackingNotOkay4.label     "ស្នើសុំ​ឲ្យ​តំបន់​បណ្តាញ​​ឈប់​តាម​ដាន​អ្នក​">
+<!ENTITY dntTrackingNotOkay4.accesskey "n">
 <!ENTITY doNotTrackInfo.label          "សិក្សា​​បន្ថែម">
 <!ENTITY trackingProtection5.label     "ប្រើប្រាស់​ការ​ទប់​ស្កាត់​ការ​តាម​ដាន">
 <!ENTITY trackingProtection5.accesskey "i">
@@ -27,7 +28,8 @@
 <!ENTITY  locbar.searches.label         "ការ​ស្វែង​រក​ដែល​ពាក់​ព័ន្ធ​ពី​ម៉ាសុីន​ស្វែង​រក​លំនាំ​ដើម​">
 <!ENTITY  locbar.searches.accesskey     "d">
 
-
+<!ENTITY  suggestionSettings.label      "ផ្លាស់ប្តូរ​ចំ​ណូលចិត្ត​​សម្រាប់​ការ​ស្នើ​ម៉ាសុីន​ស្វែង​រក​">
+<!ENTITY  suggestionSettings.accesskey  "g">
 
 <!ENTITY  acceptCookies.label           "ទទួលយក​ខូគី​ពី​តំបន់​បណ្ដាញ">
 <!ENTITY  acceptCookies.accesskey       "ញ">
