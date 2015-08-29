@@ -6,10 +6,14 @@
 <!-- Localisation note: the plus sign here is a shorthand way of expressing the word "and". Contextually the privatebrowsingpage.title.private string
                         is used as a title, with the privatebrowsingpage.title string preceding it but on a separate line.
                         So the final line will say "Private Browsing + Tracking Protection". -->
+
+<!ENTITY privatebrowsingpage.title.private "+ ការ​ទប់ស្កាត់​ការ​តាមដាន">
 <!-- Localization note (privatebrowsingpage.title.normal1): "Private Browsing"
      is capitalized in English to be consistent with our existing uses of the
      term. -->
+<!ENTITY privatebrowsingpage.title.normal1 "អ្នក​មិន​ស្ថិត​នៅ​ក្នុង​ការ​រក​មើល​ជា​ឯកជន​ទេ">
 
+<!ENTITY privatebrowsingpage.description.private3 "Firefox នឹង​​ការពារ​អ្នក​ពី​​​ការ​តាមដាន និង​មិន​ចងចាំ​ប្រវត្តិ​ទាំងឡាយ​ណា​ឡើយ ប៉ុន្តែ​ឯកសារ​ដែល​បាន​ទាញ​យក និង​ការ​ចំណាំ​ថ្មី​នឹង​នៅ​តែ​ត្រូវ​បាន​​រក្សាទុក​ទៅ​ឧបករណ៍​របស់​អ្នក។">
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing" is capitalized in English to be consistent with our existing uses
      of the term. -->
