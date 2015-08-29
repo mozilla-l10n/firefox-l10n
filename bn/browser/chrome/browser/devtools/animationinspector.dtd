@@ -9,11 +9,19 @@
      tools. A good criteria is the language in which you'd find the best
      documentation on web development on the web. -->
 <!-- LOCALIZATION NOTE (title): This is the label shown in the sidebar tab -->
+
+
+
+<!ENTITY title "অ্যানিমেশন">
 <!-- LOCALIZATION NOTE (invalidElement): This is the label shown in the panel
      when an invalid node is currently selected in the inspector. -->
+
+<!ENTITY invalidElement "কোন অ্যানিমেশন বর্তমান উপাদানে পাওয়া যায়নি।">
 <!-- LOCALIZATION NOTE (selectElement): This is the label shown in the panel
      when an invalid node is currently selected in the inspector, to invite the
      user to select a new node by clicking on the element-picker icon. -->
+
+<!ENTITY selectElement "পাতাটি থেকে অন্য একটি উপাদান বেছে নিন।">
 <!-- LOCALIZATION NOTE (allAnimations): This is the label shown at the bottom of
      the panel, in a toolbar, to let the user know the toolbar applies to all
      animations, not just the ones applying to the current element. -->

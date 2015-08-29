@@ -32,6 +32,7 @@
 <!ENTITY aboutPrivateBrowsing.info.downloads   "ডাউনলোড">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "বুকমার্ক">
 
+<!ENTITY aboutPrivateBrowsing.note1            "দয়া করে নোট করুন যেন আপনার নিয়োগকারী অথবা ইন্টারনেট সেবা প্রদানকারী এখনও আপনার পরিদর্শন করা পৃষ্ঠা ট্র্যাক করতে পারেন।">
 <!ENTITY aboutPrivateBrowsing.learnMore        "আরও জানুন।">
 <!-- LOCALIZATION NOTE (trackingProtection.width):
      Width of the Tracking Protection section. This should be enough to
@@ -49,5 +50,6 @@
 <!ENTITY trackingProtection.state.disabled     "OFF">
 
 
+<!ENTITY trackingProtection.disable            "ট্র্যাকিং প্রোটেকশন বন্ধ">
 
 <!ENTITY trackingProtection.startTour1         "দেখুন এটা কিভাবে কাজ করে">
