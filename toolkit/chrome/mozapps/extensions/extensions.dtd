@@ -23,6 +23,7 @@
 <!ENTITY cmd.back.tooltip                     "ย้อนกลับไปหนึ่งหน้า">
 <!ENTITY cmd.forward.tooltip                  "ไปข้างหน้าหนึ่งหน้า">
 
+<!ENTITY showUnsignedExtensions.button.label  "ส่วนขยายบางส่วนไม่สามารถยืนยันความถูกต้องได้">
 <!ENTITY showAllExtensions.button.label       "แสดงส่วนขยายทั้งหมด">
 <!-- global warnings -->
 
@@ -104,8 +105,8 @@
 <!ENTITY cmd.installAddon.accesskey           "ต">
 <!ENTITY cmd.uninstallAddon.label             "เอาออก">
 <!ENTITY cmd.uninstallAddon.accesskey         "อ">
-
-
+<!ENTITY cmd.debugAddon.label                 "ดีบั๊ก">
+<!ENTITY cmd.debugAddon.accesskey             "บ">
 <!ENTITY cmd.showPreferencesWin.label         "ตัวเลือก">
 <!ENTITY cmd.showPreferencesWin.tooltip       "แก้ไขตัวเลือกของส่วนเสริมนี้">
 <!ENTITY cmd.showPreferencesUnix.label        "ปรับแต่ง">
@@ -235,11 +236,13 @@
 
 <!ENTITY setting.learnmore "เรียนรู้เพิ่มเติม…">
 
+<!ENTITY disabledUnsigned.heading "ส่วนเสริมบางอันถูกปิดการใช้งาน">
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-
-
+<!ENTITY disabledUnsigned.description.start "ส่วนเสริมต่อไปนี้ไม่ได้ถูกยืนยันความถูกต้องเพื่อที่จะใช้งานใน &brandShortName; คุณสามารถ ">
+<!ENTITY disabledUnsigned.description.findAddonsLink "หาตัวแทนที่">
+<!ENTITY disabledUnsigned.description.end " หรือถามนักพัฒนาเพื่อทำให้ส่วนเสริมได้รับการยืนยัน">
 
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
