@@ -20,7 +20,7 @@
 <!ENTITY spellUndoAddToDictionary.label "Hoàn tác việc thêm vào từ điển">
 <!ENTITY spellUndoAddToDictionary.accesskey "n">
 <!ENTITY spellCheckToggle.label "Kiểm tra chính tả">
-<!ENTITY spellCheckToggle.accesskey "g">
+<!ENTITY spellCheckToggle.accesskey "K">
 <!ENTITY spellNoSuggestions.label "(Không có gợi ý sửa chính tả)">
 <!ENTITY spellDictionaries.label "Ngôn ngữ">
 <!ENTITY spellDictionaries.accesskey "N">
