@@ -15,7 +15,7 @@
 <!ENTITY allowHWAccel.accesskey        "ប">
 <!ENTITY storeType.label               "ប្រភេទ​ឧបករណ៍​ផ្ទុកសារ​សម្រាប់​គណនី​ថ្មី៖">
 <!ENTITY storeType.accesskey           "ស">
-
+<!ENTITY mboxStore2.label              "ឯកសារ​ក្នុង​មួយ​ថត (mbox)">
 <!ENTITY maildirStore.label            "ឯកសារ​ក្នុង​សារ​មួយ (maildir)">
 
 <!ENTITY scrolling.label               "រមូរ">
