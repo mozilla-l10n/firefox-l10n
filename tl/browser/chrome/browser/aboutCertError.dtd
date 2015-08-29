@@ -29,7 +29,8 @@ mangangahulugang may nagtatangkang gayahin ang website, at dapat huwag ng magpat
 
 
 <!ENTITY certerror.expert.heading "Nauunawan ko ang mga Panganib">
-<!ENTITY certerror.expert.content "Pwede mong itakda sa &brandShortName; na pagkatiwalaan ang website na ito.<b>Kahit aprubado mo ang website na ito, maaaring may tao na nakiki-alam sa connection mo.</b>">
+<!ENTITY certerror.expert.content "Kung naiintindihan mo ang nangyayari, pwede mong 
+itakda ang &brandShortName; na simulang magtiwalan sa pagkakakilanlan ng website. <b>Kahit na nagtitiwala ka sa website, ang kamaliang ito ay maaring mangangahulugang may nagmamanipula ng iyong koneksyon.</b>">
 <!ENTITY certerror.expert.contentPara2 "Huwag magdagdag ng exception maliban kung
 may magandang rason ang site na ito na hindi gumamit ng trusted identification.">
 

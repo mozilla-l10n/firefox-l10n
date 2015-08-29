@@ -22,7 +22,7 @@
 
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Ipakita ang lahat ng tags">
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "I-load ang bookmark na ito sa sidebar">
-<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "h">
+<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "n">
 <!ENTITY editBookmarkOverlay.choose.label                    "Mamili">
 
 

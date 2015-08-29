@@ -9,7 +9,7 @@
 <!ENTITY organize.tooltip      "Ayusin ang iyong mga bookmark">
 
 <!ENTITY file.close.label               "Isara">
-<!ENTITY file.close.accesskey           "C">
+<!ENTITY file.close.accesskey           "I">
 <!ENTITY cmd.close.key                  "w">
 <!ENTITY views.label                    "Views">
 <!ENTITY views.accesskey                "V">
