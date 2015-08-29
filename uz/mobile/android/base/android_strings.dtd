@@ -414,7 +414,7 @@ size. -->
      whether or not the magnifying glass is disabled. -->
 
 <!ENTITY pref_prevent_magnifying_glass "Lupani o‘chirib qo‘yish ">
-
+<!ENTITY pref_prevent_magnifying_glass_summary "Ko‘p martalab ekranga teginishni tiklashda foydalanish uchun kattalashtiruvchi oynani taqiqlash">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -422,7 +422,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "Sahifa pastga o‘tayotganda &brandShortName;ning sarlavha paneli yashirilsin">
 
 <!ENTITY pref_tab_queue_title2 "Bir nechta havolalarni ochish">
-
+<!ENTITY pref_tab_queue_summary3 "Keyingi safar &brandShortName; ochilgunga qadar ular saqlansin">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -442,6 +442,8 @@ size. -->
 <!ENTITY site_settings_no_settings  "Tozalash uchun sozlamalar mavjud emas.">
 <!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
+
+<!ENTITY reading_list_added3 "O‘qish ro‘yxatiga qo‘shildi">
 <!ENTITY reading_list_removed "Sahifa \&quot;O‘qilganlar ro‘yxati\&quot;dan olib tashlandi">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -558,20 +560,25 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-
+<!ENTITY identity_connection_secure "Xavfsiz ulanish">
+<!ENTITY identity_connection_insecure "Xavfli ulanish">
 <!-- Mixed content notifications in site identity popup -->
 
-
-
+<!ENTITY mixed_content_blocked_all "Sahifadagi xavfli elementlarni &brandShortName; blokladi.">
+<!ENTITY mixed_content_blocked_some "Sahifadagi bir nechta xavfli elementlarni &brandShortName; blokladi.">
+<!ENTITY mixed_content_display_loaded "Sahifada bir nechta xavfli elementlar bor.">
+<!ENTITY mixed_content_protection_disabled "Xavfli elementlardan himoyalanishni o‘chirib qo‘ygansiz.">
 
 <!ENTITY loaded_mixed_content_message "Ushbu sahifa xavfsiz bo‘lmagan tarkibni ko‘rsatmoqda.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; saytni xavfsiz bo‘lmagani uchun to‘sib qo‘ydi">
 <!ENTITY blocked_mixed_content_message_bottom "Ko‘pgina saytlar bloklangandan so‘ng ham yaxshi ishlayveradi.">
 <!-- Tracking content notifications in site identity popup -->
 
-
-
-
+<!ENTITY doorhanger_tracking_title "Kuzatishdan himoyalanish">
+<!ENTITY doorhanger_tracking_state_enabled "Yoqib qo‘yildi">
+<!ENTITY doorhanger_tracking_state_disabled "O‘chirib qo‘yildi">
+<!ENTITY doorhanger_tracking_message_enabled1 "Sizni onlayn kuzatishga urinishlar xususiyati bloklandi.">
+<!ENTITY doorhanger_tracking_message_disabled2 "Bu sahifada sizni internetdagi faoliyatingizni kuzishi mumkin bo‘lgan elementlar bor.">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "Ko‘proq o‘rganish">
@@ -627,7 +634,7 @@ import qilinmoqda">
 <!ENTITY guest_session_dialog_continue "Davom etish">
 <!ENTITY guest_session_dialog_cancel "Bekor qilish">
 <!ENTITY new_guest_session_title "&brandShortName; hozir qayta ishga tushiriladi">
-
+<!ENTITY new_guest_session_text2 "Foydalanayotgan inson sizning birorta ham shaxsiy ko‘rish ma’lumotlaringizni (saqlangan parollar, tarix va xatcho‘plar kabilarni) ko‘ra olmaydi.\n\n Mehmoningiz ishini tugatgandan so‘ng, uning ko‘rish ma’lumotlari o‘chiriladi va sizning seansingiz tiklanadi.">
 <!ENTITY guest_browsing_notification_title "Mehmon sifatida kirish yoqilgan">
 <!ENTITY guest_browsing_notification_text "Chiqish uchun bosing">
 
@@ -673,16 +680,21 @@ import qilinmoqda">
 
 <!ENTITY find_matchcase "Aa">
 
+<!ENTITY intent_uri_cannot_open "Havola ochilmadi">
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
      above a QR reader that is actively scanning for QR codes.  The expected QR
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
+
+<!ENTITY devtools_auth_scan_header "Skanerlash uchun QR kodi boshqa qurilmangizda ko‘rinadi">
 <!-- Restrictions -->
 <!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
+<!ENTITY restriction_disallow_import_settings_title2 "Androiddan import qilishni o‘chirish">
+<!ENTITY restriction_disallow_addons_title2 "Qo‘sh. dastur o‘rnatishni o‘chirish">
 
 
 
