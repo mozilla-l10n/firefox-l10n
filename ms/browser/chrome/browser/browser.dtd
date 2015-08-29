@@ -266,7 +266,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY browserToolboxMenu.label     "Alatan Pelayar">
 <!ENTITY browserToolboxMenu.accesskey "a">
-
+<!ENTITY browserToolboxCmd.commandkey "i">
 <!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
@@ -391,7 +391,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Tukar ke tab:">
 
-
+<!ENTITY urlbar.searchSuggestionsNotification.question "Adakah anda ingin meningkatkan pengalaman carian anda dengan cadangan?">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Ketahui lebih lanjut…">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Tidak">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Ya">
 <!-- 
@@ -421,7 +422,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
      These are set as the aria-label attribute for the search input box and
      submit button in the in-content search UI, to be used by screen readers. -->
-
+<!ENTITY contentSearchSubmit.label    "Hantar carian">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -440,6 +441,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
+<!ENTITY changeSearchSettings.button  "Ubah Tetapan Carian">
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -515,8 +517,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "E">
 <!ENTITY emailVideoCmd.label          "Emailkan Video…">
 <!ENTITY emailVideoCmd.accesskey      "V">
-
-
+<!ENTITY castVideoCmd.label           "Hantar Video Ke Peranti">
+<!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "Emailkan Audio…">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "Activate plugin ini">
@@ -630,6 +632,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "T">
 
+<!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "Gaya Halaman">
 <!ENTITY pageStyleMenu.accesskey "y">
@@ -669,9 +672,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "Selesai">
 <!ENTITY editBookmark.cancel.label                   "Batal">
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
-
-
+<!ENTITY identity.connectionNotSecure "Sambungan Tidak Selamat">
 
 
 
@@ -770,6 +773,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY getUserMedia.allWindowsShared.message "Semua tetingkap yang kelihatan pada skrin anda akan dikongsi.">
 
+<!ENTITY trackingProtection.title "Perlindungan Penjejakan">
 
 
 
@@ -787,12 +791,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.message "Penjejakan">
 
 
+<!ENTITY trackingContentBlocked.options "Pilihan">
+<!ENTITY trackingContentBlocked.unblock2.label "Lumpuhkan perlindungan pada halaman ini">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "d">
 
 
-
-
-
-
+<!ENTITY trackingContentBlocked.disabled.message "Perlindungan penjejakan dilumpuhkan">
 
 <!ENTITY pointerLock.notification.message "Tekan ESC bila-bila masa untuk paparkan semula.">
 
@@ -817,9 +821,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
-
-
-
+<!ENTITY panicButton.view.5min                    "Lima minit">
+<!ENTITY panicButton.view.2hr                     "Dua jam">
+<!ENTITY panicButton.view.day                     "24 jam">
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
@@ -833,6 +837,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+<!ENTITY panicButton.thankyou.buttonlabel         "Terima kasih!">
+
+<!ENTITY processHang.terminateScript.label        "Hentikan Skrip">
+<!ENTITY processHang.terminateScript.accessKey    "S">
 
 
 
@@ -841,15 +849,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-
-
-
-
+<!ENTITY emeNotificationsNotNow.label             "Bukan sekarang">
+<!ENTITY emeNotificationsNotNow.accesskey         "n">
 <!ENTITY emeNotificationsDontAskAgain.label       "Jangan tanya saya lagi">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "J">
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 
-
-
+<!ENTITY saveToPocketCmd.label     "Simpan Halaman ke Pocket">
+<!ENTITY saveToPocketCmd.accesskey "k">
+<!ENTITY saveLinkToPocketCmd.label     "Simpan Pautan ke Pocket">
+<!ENTITY saveLinkToPocketCmd.accesskey "o">
 

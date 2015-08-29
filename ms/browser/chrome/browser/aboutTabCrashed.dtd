@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY tabCrashed.sendReport "Hantar laporan ranap untuk membantu mencegah lebih banyak kerosakan ">
-
+<!ENTITY tabCrashed.reportSent "Laporan ranap telah dihantar; terima kasih kerana membantu menjadikan &brandShortName; lebih baik!">
 <!ENTITY tabCrashed.closeTab "Tutup Tab Ini">
-
-
+<!ENTITY tabCrashed.restoreTab "Pulihkan Tab Ini">
+<!ENTITY tabCrashed.restoreAll "Pulihkan Semua Tab Yang Ranap">
