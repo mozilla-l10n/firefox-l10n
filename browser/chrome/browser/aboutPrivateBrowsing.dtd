@@ -6,9 +6,12 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Buka Jendela Pribadi">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
+<!ENTITY privateBrowsing.title                 "Penjelajahan Pribadi">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
      Width of the Private Browsing section.
      -->
+
+<!ENTITY aboutPrivateBrowsing.width            "26em">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
      aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
      These strings will be replaced by aboutPrivateBrowsing.forgotten and
