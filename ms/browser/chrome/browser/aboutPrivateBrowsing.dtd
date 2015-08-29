@@ -28,18 +28,23 @@
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Fail Sementara">
 
 
-
+<!ENTITY aboutPrivateBrowsing.info.downloads   "Muat turun">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Penandabuku">
 
+<!ENTITY aboutPrivateBrowsing.note1            "Sila ambil perhatian bahawa majikan atau pembekal perkhidmatan Internet anda masih boleh menjejaki halaman yang anda lawati.">
 <!ENTITY aboutPrivateBrowsing.learnMore        "Ketahui Lanjut.">
 <!-- LOCALIZATION NOTE (trackingProtection.width):
      Width of the Tracking Protection section. This should be enough to
      accommodate the title as well as the enabled or disabled indicator.
      -->
 
+<!ENTITY trackingProtection.width              "22em">
+<!ENTITY trackingProtection.title              "Perlindungan Penjejakan">
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
+
+<!ENTITY trackingProtection.state.width        "6ch">
 
 
 
