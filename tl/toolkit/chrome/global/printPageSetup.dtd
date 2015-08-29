@@ -24,11 +24,11 @@
 
 <!ENTITY marginTop.label     "Tuktok:">
 <!ENTITY marginTop.accesskey "T">
-<!ENTITY marginBottom.label  "Ilalim:">
+<!ENTITY marginBottom.label  "Bottom:">
 <!ENTITY marginBottom.accesskey "B">
 <!ENTITY marginLeft.label    "Kaliwa:">
 <!ENTITY marginLeft.accesskey "l">
-<!ENTITY marginRight.label   "Kanan:">
+<!ENTITY marginRight.label   "Right:">
 <!ENTITY marginRight.accesskey "R">
 
 

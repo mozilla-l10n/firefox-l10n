@@ -9,7 +9,7 @@
 
 <!ENTITY useCursorNavigation.label       "Palagiang gamitin ang mga cursor key upang libutin ang mga pahina">
 <!ENTITY useCursorNavigation.accesskey   "c">
-<!ENTITY searchStartTyping.label         "Maghanap ng teksto kapag nagsimula akong mag-type">
+<!ENTITY searchStartTyping.label         "Search for text when I start typing">
 <!ENTITY searchStartTyping.accesskey     "x">
 <!ENTITY blockAutoRefresh.label          "Warn me when web sites try to redirect or reload the page">
 <!ENTITY blockAutoRefresh.accesskey      "b">

@@ -5,7 +5,8 @@
 
 
 
-
+<!ENTITY fileCheck.label "I-print sa File">
+<!ENTITY fileCheck.accesskey "F">
 
 
 
@@ -19,7 +20,7 @@
 <!ENTITY rangeRadio.accesskey  "P">
 <!ENTITY frompageInput.label  "mula">
 <!ENTITY frompageInput.accesskey  "m">
-<!ENTITY topageInput.label  "sa">
+<!ENTITY topageInput.label  "to">
 <!ENTITY topageInput.accesskey  "t">
 
 
@@ -27,6 +28,7 @@
 <!ENTITY numCopies.label "Bilang ng kopya:">
 <!ENTITY numCopies.accesskey "B">
 
+<!ENTITY printframeGroup.label "I-&amp;Print ang mga Frame">
 
 
 <!ENTITY selectedframeRadio.label  "Piniling frame">

@@ -39,8 +39,10 @@
 <!ENTITY view.availableUpdates.label          "Mga Available na Update">
 <!-- addon updates -->
 
+<!ENTITY updates.checkForUpdates.label        "Maghanap ng mga Update">
+<!ENTITY updates.checkForUpdates.accesskey    "M">
 <!ENTITY updates.viewUpdates.label            "Tingnan ang mga Bagong Updates">
-<!ENTITY updates.viewUpdates.accesskey        "V">
+<!ENTITY updates.viewUpdates.accesskey        "T">
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
      is a checkbox that toggles the default global behavior for add-on update
      checking. -->
@@ -69,12 +71,12 @@
 <!ENTITY cmd.showDetails.accesskey            "s">
 <!ENTITY cmd.findUpdates.label                "Hanapin ang mga Update">
 <!ENTITY cmd.findUpdates.accesskey            "H">
-
-
+<!ENTITY cmd.preferencesWin.label             "Options">
+<!ENTITY cmd.preferencesWin.accesskey         "O">
 <!ENTITY cmd.preferencesUnix.label            "Mga Preferences">
 <!ENTITY cmd.preferencesUnix.accesskey        "P">
 <!ENTITY cmd.about.label                      "Tungkol">
-<!ENTITY cmd.about.accesskey                  "A">
+<!ENTITY cmd.about.accesskey                  "T">
 
 
 
@@ -93,7 +95,7 @@
 
 
 <!ENTITY cmd.uninstallAddon.label             "Alisin">
-<!ENTITY cmd.uninstallAddon.accesskey         "R">
+<!ENTITY cmd.uninstallAddon.accesskey         "A">
 
 
 <!ENTITY cmd.showPreferencesWin.label         "Options">

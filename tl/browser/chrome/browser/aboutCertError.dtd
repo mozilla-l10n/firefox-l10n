@@ -9,18 +9,19 @@ a replacement for the standard security certificate errors produced
 by NSS/PSM via netError.xhtml. -->
 
 
-<!ENTITY certerror.pagetitle  "Hindi aprubadong connection">
-<!ENTITY certerror.longpagetitle "Ang Koneksiyon na ito ay Mapanganib">
+<!ENTITY certerror.pagetitle  "Untrusted Connection">
+<!ENTITY certerror.longpagetitle "This Connection is Untrusted">
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-<!ENTITY certerror.introPara1 "Sinubukan mong mag-connect sa <b>#1</b>, pero hindi kami sigurado kung ligtas ang connection na ito.">
+<!ENTITY certerror.introPara1 "You have asked &brandShortName; to connect 
+securely to <b>#1</b>, but we can't confirm that your connection is secure.">
 <!ENTITY certerror.introPara2 "Sa normal na sitwasyon, kapag sinubukan mong mag-connect nang secure, 
 ang mga site ay mag-present ng trusted identification upang mapatunayan na ikaw ay 
 patungo sa tamang lugar. Pero, ang identity ng site ay hindi ma-verify. ">
 
-<!ENTITY certerror.whatShouldIDo.heading "Anong dapat kong gawin?">
+<!ENTITY certerror.whatShouldIDo.heading "Ano ang dapat kong gawin?">
 <!ENTITY certerror.whatShouldIDo.content "Kung ikaw ay kadalasang kumkunek 
 sa website na ito ng walang problema, ang kamaliang ito ay maaring 
 mangangahulugang may nagtatangkang gayahin ang website, at dapat huwag ng magpatuloy.">
@@ -29,6 +30,7 @@ mangangahulugang may nagtatangkang gayahin ang website, at dapat huwag ng magpat
 
 <!ENTITY certerror.expert.heading "Nauunawan ko ang mga Panganib">
 <!ENTITY certerror.expert.content "Pwede mong itakda sa &brandShortName; na pagkatiwalaan ang website na ito.<b>Kahit aprubado mo ang website na ito, maaaring may tao na nakiki-alam sa connection mo.</b>">
-<!ENTITY certerror.expert.contentPara2 "Wag kang magdagdag ng eksepsyon kung wala kang sapat na dahilan para pagkatiwalaan ang identipikasyon ng website na ito.">
+<!ENTITY certerror.expert.contentPara2 "Huwag magdagdag ng exception maliban kung
+may magandang rason ang site na ito na hindi gumamit ng trusted identification.">
 
 

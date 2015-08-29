@@ -5,7 +5,7 @@
 <!ENTITY newWindowsAsTabs.label       "Sa halip, buksan ang mga bagong window sa bagong tab">
 <!ENTITY newWindowsAsTabs.accesskey   "t">
 
-<!ENTITY warnCloseMultipleTabs.label  "Bigyan ako ng babala kung isasara lahat ng tabs">
+<!ENTITY warnCloseMultipleTabs.label  "Warn me when closing multiple tabs">
 <!ENTITY warnCloseMultipleTabs.accesskey  "m">
 
 

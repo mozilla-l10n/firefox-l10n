@@ -5,9 +5,9 @@
 <!ENTITY undoCmd.label             "I-undo">
 <!ENTITY undoCmd.key               "Z">
 <!ENTITY undoCmd.accesskey         "I">
-<!ENTITY redoCmd.label             "I-redo">
+<!ENTITY redoCmd.label             "Ulitin">
 <!ENTITY redoCmd.key               "Y">
-<!ENTITY redoCmd.accesskey         "R">
+<!ENTITY redoCmd.accesskey         "U">
 
 <!ENTITY cutCmd.key                "X">
 

@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY window.title                 "Mga E&amp;xception">
+
 
 
 
@@ -11,7 +13,7 @@
 <!ENTITY address.label                "Address of web site:">
 <!ENTITY address.accesskey            "d">
 <!ENTITY block.label                  "Harangin">
-<!ENTITY block.accesskey              "B">
+<!ENTITY block.accesskey              "H">
 
 
 <!ENTITY allow.label                  "Payagan">

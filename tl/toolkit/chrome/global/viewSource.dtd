@@ -23,8 +23,8 @@
 <!ENTITY printCmd.label "I-print...">
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.commandkey "P">
-
-
+<!ENTITY closeCmd.label "Close">
+<!ENTITY closeCmd.accesskey "C">
 <!ENTITY closeCmd.commandkey "W">
 <!-- LOCALIZATION NOTE :
 textEnlarge.commandkey3, textReduce.commandkey2 and
@@ -41,10 +41,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY textReset.commandkey "0">
 <!ENTITY textReset.commandkey2 "">
 
-
+<!ENTITY goToLineCmd.label "Go to Line">
+<!ENTITY goToLineCmd.accesskey "G">
 <!ENTITY goToLineCmd.commandkey "L">
 
-
+<!ENTITY viewMenu.label           "Ipakita">
+<!ENTITY viewMenu.accesskey       "I">
 
 
 <!ENTITY reloadCmd.commandkey "r">
@@ -55,9 +57,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_textSize.label "Laki ng Teksto">
 <!ENTITY menu_textSize.accesskey "k">
 <!ENTITY menu_textEnlarge.label "Dagdagan">
-<!ENTITY menu_textEnlarge.accesskey "I">
+<!ENTITY menu_textEnlarge.accesskey "D">
 <!ENTITY menu_textReduce.label "Bawasan">
-<!ENTITY menu_textReduce.accesskey "D">
+<!ENTITY menu_textReduce.accesskey "B">
 
 
 

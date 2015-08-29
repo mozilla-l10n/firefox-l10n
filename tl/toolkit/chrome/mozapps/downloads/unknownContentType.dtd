@@ -15,8 +15,8 @@
 
 
 <!ENTITY  chooseHandlerMac.label      "Mamili">
-<!ENTITY  chooseHandlerMac.accesskey  "C">
-
-
+<!ENTITY  chooseHandlerMac.accesskey  "M">
+<!ENTITY  chooseHandler.label         "Browse…">
+<!ENTITY  chooseHandler.accesskey     "r">
 
 <!ENTITY  unknownPromptText.label     "Nais mo bang i-save ang file na ito?">

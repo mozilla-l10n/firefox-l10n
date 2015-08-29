@@ -11,7 +11,7 @@
 
 
 <!ENTITY languages.customize.deleteButton.label         "Alisin">
-<!ENTITY languages.customize.deleteButton.accesskey     "R">
+<!ENTITY languages.customize.deleteButton.accesskey     "A">
 <!ENTITY languages.customize.selectLanguage.label       "Pumili ng isang wika na idagdag…">
 <!ENTITY languages.customize.addButton.label            "Idagdag">
 <!ENTITY languages.customize.addButton.accesskey        "a">

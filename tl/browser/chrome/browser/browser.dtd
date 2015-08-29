@@ -36,7 +36,7 @@ can reach it easily. -->
 
 
 
-<!ENTITY  moveToGroup.label                  "Ilipat sa Grupo">
+<!ENTITY  moveToGroup.label                  "Move to Group">
 <!ENTITY  moveToGroup.accesskey              "M">
 <!ENTITY  moveToNewGroup.label               "Bagong Grupo">
 
@@ -406,7 +406,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmd.accesskey        "W">
 
 
-<!ENTITY openLinkCmdInCurrent.label     "Buksan ang Link">
+<!ENTITY openLinkCmdInCurrent.label     "Open Link">
 <!ENTITY openLinkCmdInCurrent.accesskey "O">
 <!ENTITY openFrameCmdInTab.label      "Buksan ang Frame sa Bagong Tab">
 <!ENTITY openFrameCmdInTab.accesskey  "T">
@@ -435,13 +435,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageCmd.label           "Tanawan ang Imahe">
 <!ENTITY viewImageCmd.accesskey       "I">
 <!ENTITY viewImageInfoCmd.label       "Ipakita ang imahe at impormasyon">
-<!ENTITY viewImageInfoCmd.accesskey   "f">
+<!ENTITY viewImageInfoCmd.accesskey   "i">
 
 
 <!ENTITY viewVideoCmd.label           "Tanawan ang Bidyo">
 <!ENTITY viewVideoCmd.accesskey       "i">
-<!ENTITY viewBGImageCmd.label         "Ipakita ang Imahe ng Background">
-<!ENTITY viewBGImageCmd.accesskey     "w">
+<!ENTITY viewBGImageCmd.label         "Ipakita ang Background Image">
+<!ENTITY viewBGImageCmd.accesskey     "k">
 <!ENTITY setDesktopBackgroundCmd.label      "Gawing Background sa Desktop…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "s">
 
@@ -499,7 +499,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 "Pause" are the same because the two context-menu
 items are mutually exclusive. -->
 
-<!ENTITY mediaPause.label            "I-pause">
+<!ENTITY mediaPause.label            "Pause">
 <!ENTITY mediaPause.accesskey        "P">
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
 "Unmute" are the same because the two context-menu
@@ -524,7 +524,7 @@ fast. -->
 items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label     "Ipakita ang Controls">
 <!ENTITY mediaShowControls.accesskey "C">
-<!ENTITY mediaHideControls.label     "Itago at Kontrolin">
+<!ENTITY mediaHideControls.label     "Itago ang Controls">
 <!ENTITY mediaHideControls.accesskey "C">
 <!ENTITY videoFullScreen.label       "Buong Screen">
 <!ENTITY videoFullScreen.accesskey   "B">
@@ -568,11 +568,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goForwardCmd.commandKey "]">
 
 
-
+<!ENTITY quitApplicationCmdMac2.label   "Quit &brandShorterName;">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 
+<!ENTITY closeCmd.label                 "Isara">  
 <!ENTITY closeCmd.key                   "W">  
-
+<!ENTITY closeCmd.accesskey             "I">
 
 
 <!ENTITY pageStyleMenu.label "Style ng Page">
@@ -596,7 +597,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.label        "Lumipat ng Page Direction">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Lumipat ng Text Direction">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "L">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Hanapin sa web page na ito…">
@@ -663,8 +664,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-
+<!ENTITY social.learnMore.label "Learn more…">
+<!ENTITY social.learnMore.accesskey "L">
 <!ENTITY social.closeNotificationItem.label "Hindi Ngayon">
 
 

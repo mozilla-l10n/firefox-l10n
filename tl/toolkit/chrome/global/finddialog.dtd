@@ -7,8 +7,8 @@
 <!ENTITY findDialog.title "Hanapin sa Pahinang Ito">
 <!ENTITY findField.label "Ano ang Hahahapin :">
 <!ENTITY findField.accesskey "n">
-<!ENTITY caseSensitiveCheckbox.label "Tumugmang kaso">
-<!ENTITY caseSensitiveCheckbox.accesskey "c">
+<!ENTITY caseSensitiveCheckbox.label "Tumutugma">
+<!ENTITY caseSensitiveCheckbox.accesskey "T">
 
 
 

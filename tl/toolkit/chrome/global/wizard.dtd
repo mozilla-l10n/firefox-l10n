@@ -4,8 +4,8 @@
 
 <!ENTITY  button-back-mac.label        "Bumalik">
 <!ENTITY  button-back-mac.accesskey    "B">
-
-
+<!ENTITY  button-next-mac.label        "Continue">
+<!ENTITY  button-next-mac.accesskey    "C">
 
 
 

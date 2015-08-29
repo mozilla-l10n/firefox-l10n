@@ -12,7 +12,7 @@
 
 
 <!ENTITY colorRadio.label "Kulay">
-<!ENTITY colorRadio.accesskey "C">
+<!ENTITY colorRadio.accesskey "K">
 
 <!ENTITY topInput.label "Tuktok:">
 <!ENTITY topInput.accesskey "T">
@@ -20,5 +20,5 @@
 <!ENTITY bottomInput.accesskey "I">
 <!ENTITY leftInput.label "Kaliwa:">
 <!ENTITY leftInput.accesskey "l">
-<!ENTITY rightInput.label "Kanan:">
+<!ENTITY rightInput.label "Right:">
 <!ENTITY rightInput.accesskey "R">

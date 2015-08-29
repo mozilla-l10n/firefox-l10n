@@ -10,7 +10,7 @@
 <!ENTITY importFromIE.accesskey         "M">
 
 
-<!ENTITY importFromNothing.label        "Huwag i-import ang alin man">
+<!ENTITY importFromNothing.label        "Don't import anything">
 <!ENTITY importFromNothing.accesskey    "D">
 <!ENTITY importFromSafari.label         "Safari">
 <!ENTITY importFromSafari.accesskey     "S">

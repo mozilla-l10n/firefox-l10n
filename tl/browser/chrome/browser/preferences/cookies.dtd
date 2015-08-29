@@ -24,6 +24,8 @@
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
+<!ENTITY     filter.label                   "Hanapin:">
+<!ENTITY     filter.accesskey               "H">
 
-
-
+<!ENTITY     button.close.label             "Isarado">
+<!ENTITY     button.close.accesskey         "s">

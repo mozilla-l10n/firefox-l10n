@@ -64,7 +64,7 @@
 <!ENTITY  securityTab.accesskey "S">
 <!ENTITY  securityView.certView "Tingnan ang Sertipiko">
 <!ENTITY  securityView.accesskey "v">
-
+<!ENTITY  securityView.unknown   "Unknown">
 
 
 <!ENTITY  securityView.identity.header   "Web Site Identity">

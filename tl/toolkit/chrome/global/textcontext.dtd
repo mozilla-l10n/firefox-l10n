@@ -10,8 +10,8 @@
 <!ENTITY undoCmd.accesskey "I">
 
 
-
-
+<!ENTITY deleteCmd.label "Delete">
+<!ENTITY deleteCmd.accesskey "D">
 
 
 
