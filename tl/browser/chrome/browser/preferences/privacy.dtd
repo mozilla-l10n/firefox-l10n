@@ -43,7 +43,7 @@
 <!ENTITY  showCookies.label             "Ipakita ang Cookies…">
 <!ENTITY  showCookies.accesskey         "k">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; ay:">
+<!ENTITY  historyHeader.pre.label          "&brandShortName; will:">
 <!ENTITY  historyHeader.pre.accesskey      "w">
 
 

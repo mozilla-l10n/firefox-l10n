@@ -24,7 +24,8 @@
 <!ENTITY newWindowCmd.accesskey       "n">
 <!ENTITY newWindowCmd.commandkey      "n">
 
-
+<!ENTITY openFileCmd.label            "Open File…">
+<!ENTITY openFileCmd.accesskey        "O">
 <!ENTITY openFileCmd.commandkey       "O">
 
 
@@ -35,10 +36,12 @@
 <!ENTITY saveFileCmd.accesskey        "s">
 <!ENTITY saveFileCmd.commandkey       "S">
 
+<!ENTITY saveFileAsCmd.label          "Save As…">
+<!ENTITY saveFileAsCmd.accesskey      "A">
 
-
+<!ENTITY closeCmd.label               "Close">
 <!ENTITY closeCmd.key                 "I">
-
+<!ENTITY closeCmd.accesskey           "C">
 
 <!ENTITY viewMenu.label               "Tingnan">
 <!ENTITY viewMenu.accesskey           "T">

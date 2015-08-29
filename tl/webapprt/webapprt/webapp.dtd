@@ -36,9 +36,9 @@
 
 <!ENTITY pasteCmd.key                       "I">
 
-
+<!ENTITY deleteCmd.label                    "Burahin">
 <!ENTITY deleteCmd.key                      "B">
-
+<!ENTITY deleteCmd.accesskey                "B">
 
 <!ENTITY selectAllCmd.key                   "a">
 

@@ -7,4 +7,4 @@
 
 
 <!ENTITY securityOverride.linkText "O makakadagdag ka ang exception…">
-<!ENTITY securityOverride.warningContent "<p>Hindi ka dapat magdagdag ng isang eksepsyon kung ikaw ay gumagamit ng isang koneksyon sa internet na hindi mo pinagkakatiwalaan ng ganap o kung hindi sanay na nakakakita ng isang babala para sa server na ito.</p><p>Kung nais mo pa ring magdagdag ng isang eksepsyon para sa site na ito, maaari mong gawin ito sa iyong advanced na mga setting ng encryption.</p>">
+<!ENTITY securityOverride.warningContent "<p>You should not add an exception if you are using an internet connection that you do not trust completely or if you are not used to seeing a warning for this server.</p> <p>If you still wish to add an exception for this site, you can do so in your advanced encryption settings.</p>">

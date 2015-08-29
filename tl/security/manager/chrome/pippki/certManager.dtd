@@ -13,9 +13,10 @@
 <!ENTITY certmgr.cas                          "Mayroon kang mga sertipiko sa file na kilalanin ng mga certificate authorities na ito:">
 <!ENTITY certmgr.orphans                      "Mayroon kang mga sertipiko sa file na hindi magkasya sa anumang iba pang mga kategorya:">
 
-
-
-
+<!ENTITY certmgr.detail.general_tab.title     "Pangkalahatan">
+<!ENTITY certmgr.detail.general_tab.accesskey "P">
+<!ENTITY certmgr.detail.prettyprint_tab.title "Mga Detalye">
+<!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
 
 <!ENTITY certmgr.pending.label                "Kasalukuyan pang beneberipika ang certificate...">
 
@@ -47,15 +48,16 @@
 
 
 
-
-<!ENTITY certmgr.view2.label                  "Tingnan…">
-<!ENTITY certmgr.view2.accesskey              "V">
+<!ENTITY certmgr.close.label                  "Isara">
+<!ENTITY certmgr.close.accesskey              "I">
+<!ENTITY certmgr.view2.label                  "Tingnan">
+<!ENTITY certmgr.view2.accesskey              "T">
 
 
 <!ENTITY certmgr.export.label                 "I-export...">
 <!ENTITY certmgr.export.accesskey             "x">
 <!ENTITY certmgr.delete2.label                "Burahin…">
-<!ENTITY certmgr.delete2.accesskey            "D">
+<!ENTITY certmgr.delete2.accesskey            "B">
 
 
 

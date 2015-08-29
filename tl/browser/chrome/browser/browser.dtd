@@ -18,8 +18,8 @@
 
 <!-- Tab context menu -->
 
-<!ENTITY  reloadTab.label                    "I-load ang Tab muli">
-<!ENTITY  reloadTab.accesskey                "R">
+<!ENTITY  reloadTab.label                    "E-load ang Tab">
+<!ENTITY  reloadTab.accesskey                "E">
 
 
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
@@ -271,9 +271,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY undoCmd.key            "Z">  
 
-<!ENTITY redoCmd.label            "I-redo">  
+<!ENTITY redoCmd.label            "Ulitin">  
 <!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "R"> 
+<!ENTITY redoCmd.accesskey          "U"> 
 
 <!ENTITY cutCmd.key             "X">  
 
@@ -434,7 +434,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadImageCmd.accesskey     "l">
 <!ENTITY viewImageCmd.label           "Tanawan ang Imahe">
 <!ENTITY viewImageCmd.accesskey       "I">
-<!ENTITY viewImageInfoCmd.label       "Ipakita ang Impormasyon ng Imahe">
+<!ENTITY viewImageInfoCmd.label       "Ipakita ang imahe at impormasyon">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
 
 
@@ -492,8 +492,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 
 
-<!ENTITY thisFrameMenu.label              "Itong Frame">
-<!ENTITY thisFrameMenu.accesskey          "h">
+<!ENTITY thisFrameMenu.label              "Eto ang Frame">
+<!ENTITY thisFrameMenu.accesskey          "t">
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
@@ -524,7 +524,7 @@ fast. -->
 items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label     "Ipakita ang Controls">
 <!ENTITY mediaShowControls.accesskey "C">
-<!ENTITY mediaHideControls.label     "Itago ang mga Kontrol">
+<!ENTITY mediaHideControls.label     "Itago at Kontrolin">
 <!ENTITY mediaHideControls.accesskey "C">
 <!ENTITY videoFullScreen.label       "Buong Screen">
 <!ENTITY videoFullScreen.accesskey   "B">
@@ -552,7 +552,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
-
+<!ENTITY fullZoomResetCmd.label         "I-reset">
+<!ENTITY fullZoomResetCmd.accesskey     "-">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
@@ -562,7 +563,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
+<!ENTITY quitApplicationCmdWin2.tooltip     "Lumabas &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 

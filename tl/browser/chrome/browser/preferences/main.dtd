@@ -21,11 +21,11 @@
 <!ENTITY downloads.label     "Mga Download">
 
 
-<!ENTITY chooseFolderWin.label        "Tingnan">
+<!ENTITY chooseFolderWin.label        "Browse…">
 <!ENTITY chooseFolderWin.accesskey    "o">
-<!ENTITY chooseFolderMac.label        "Mamili">
+<!ENTITY chooseFolderMac.label        "Choose…">
 <!ENTITY chooseFolderMac.accesskey    "e">
-<!ENTITY alwaysAsk.label "Palaging itanong kung saan i-save ang files">
+<!ENTITY alwaysAsk.label "Always ask me where to save files">
 <!ENTITY alwaysAsk.accesskey "A">
 
 

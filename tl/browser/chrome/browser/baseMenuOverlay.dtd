@@ -12,10 +12,10 @@
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
 
-
-
-
-
+<!ENTITY aboutProduct2.label      "About &brandShorterName;">
+<!ENTITY aboutProduct2.accesskey  "A">
+<!ENTITY productHelp2.label       "&brandShorterName; Help">
+<!ENTITY productHelp2.accesskey   "H">
 <!ENTITY helpMac.commandkey       "?">
 
 
@@ -31,7 +31,8 @@
 <!ENTITY helpFeedbackPage.label      "Ipasa ang Katugunan">
 <!ENTITY helpFeedbackPage.accesskey  "s">
 
-
+<!ENTITY helpShowTour2.label            "&brandShortName; Tour">
+<!ENTITY helpShowTour2.accesskey        "o">
 
 <!ENTITY preferencesCmdMac.label        "Mga Preferences…">
 <!ENTITY preferencesCmdMac.commandkey   ",">

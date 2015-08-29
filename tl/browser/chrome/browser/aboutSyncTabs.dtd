@@ -9,7 +9,7 @@
 
 <!ENTITY tabs.context.openTab.label                   "Buksan Ang Tab na ito">
 <!ENTITY tabs.context.openTab.accesskey               "o">
-<!ENTITY tabs.context.openMultipleTabs.label          "Buksan ang mga Pinili na Tab">
+<!ENTITY tabs.context.openMultipleTabs.label          "Open Selected Tabs">
 <!ENTITY tabs.context.openMultipleTabs.accesskey      "O">
 <!ENTITY tabs.context.bookmarkSingleTab.label         "i-Bukmark ang Tab na ito...">
 <!ENTITY tabs.context.bookmarkSingleTab.accesskey     "B">
