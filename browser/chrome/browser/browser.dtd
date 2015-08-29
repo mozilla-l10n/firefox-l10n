@@ -273,6 +273,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 
+<!ENTITY browserContentToolboxMenu.label     "Browser Content Toolbox">
+<!ENTITY browserContentToolboxMenu.accesskey "x">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Đóng thanh công cụ lập trình">
 <!ENTITY devToolbarMenu.label              "Thanh công cụ lập trình">
@@ -393,6 +395,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Chuyển qua thẻ:">
 
+<!ENTITY urlbar.searchSuggestionsNotification.question "Bạn có muốn cải thiện trải nghiệm tìm kiếm có gợi ý không?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Tìm hiểu thêm…">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Không">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Có">
@@ -425,7 +428,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      submit button in the in-content search UI, to be used by screen readers. -->
 
 <!ENTITY contentSearchInput.label     "Câu tìm kiếm">
-
+<!ENTITY contentSearchSubmit.label    "Tìm kiếm">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
