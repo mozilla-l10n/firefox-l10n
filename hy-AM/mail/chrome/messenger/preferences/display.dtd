@@ -41,8 +41,8 @@
 <!ENTITY defaultFont.accesskey   "D">
 <!ENTITY defaultSize.label       "Չափը.">
 <!ENTITY defaultSize.accesskey   "S">
-<!ENTITY fontOptions.accesskey   "A">
-<!ENTITY fontOptions.label       "A">
+<!ENTITY fontOptions.accesskey   "Ը">
+<!ENTITY fontOptions.label       "Ընդլայնված...">
 <!ENTITY colorButton.label       "Գույներ…">
 <!ENTITY colorButton.accesskey   "C">
 <!-- Advanced -->
