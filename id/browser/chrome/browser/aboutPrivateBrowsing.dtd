@@ -23,10 +23,11 @@
 
 
 <!ENTITY aboutPrivateBrowsing.info.history     "Riwayat">
-
+<!ENTITY aboutPrivateBrowsing.info.searches    "Pencarian">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Kuki">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Berkas Sementara">
 
-
+<!ENTITY aboutPrivateBrowsing.kept             "&brandShortName; akan menyimpan:">
 
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Unduhan">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Daftar Markah">
