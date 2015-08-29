@@ -45,15 +45,15 @@
 <!ENTITY cmd.deleteDomainData.label     "Kalimutan ang pahinang ito">
 <!ENTITY cmd.deleteDomainData.accesskey "K">
 
-<!ENTITY cmd.open.label                  "Buksan">
+<!ENTITY cmd.open.label                  "Open">
 <!ENTITY cmd.open.accesskey              "O">
 <!ENTITY cmd.open_window.label           "Buksan sa Bagong Window">
 <!ENTITY cmd.open_window.accesskey       "n">
 
 
-<!ENTITY cmd.open_tab.label              "Buksan sa Bagong Tab">
+<!ENTITY cmd.open_tab.label              "Open in a New Tab">
 <!ENTITY cmd.open_tab.accesskey          "w">
-<!ENTITY cmd.open_all_in_tabs.label      "Buksan Lahat sa mga Tab">
+<!ENTITY cmd.open_all_in_tabs.label      "Open All in Tabs">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "O">
 
 
@@ -85,7 +85,7 @@
 <!ENTITY col.dateadded.label     "Idinagdag">
 <!ENTITY col.lastmodified.label  "Huling Binago">
 
-<!ENTITY search.label                              "Hanapin:">
+<!ENTITY search.label                              "Search:">
 <!ENTITY search.accesskey                          "S">
 
 <!ENTITY cmd.find.key  "f">
@@ -98,13 +98,13 @@
 
 <!ENTITY forwardButton.tooltip  "Sulong">
 
-<!ENTITY detailsPane.more.label "Karagdagan">
+<!ENTITY detailsPane.more.label "More">
 <!ENTITY detailsPane.more.accesskey "e">
 <!ENTITY detailsPane.less.label "Less">
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.selectAnItemText.description "Pumili ng item na titingnan at i-edit ang mga properties nito">
 
-<!ENTITY find.label               "Hanapin:">
+<!ENTITY find.label               "Search:">
 <!ENTITY find.accesskey           "S">
 
 

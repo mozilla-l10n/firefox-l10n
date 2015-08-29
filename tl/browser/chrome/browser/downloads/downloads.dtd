@@ -34,12 +34,12 @@
      that's 21 characters, so we set the minimum width to 21ch.
      -->
 
-<!ENTITY cmd.pause.label                  "I-pause">
+<!ENTITY cmd.pause.label                  "Pause">
 <!ENTITY cmd.pause.accesskey              "P">
 <!ENTITY cmd.resume.label                 "Ipagpatuloy">
-<!ENTITY cmd.resume.accesskey             "R">
-<!ENTITY cmd.cancel.label                 "I-cancel">
-<!ENTITY cmd.cancel.accesskey             "C">
+<!ENTITY cmd.resume.accesskey             "I">
+<!ENTITY cmd.cancel.label                 "Icancel">
+<!ENTITY cmd.cancel.accesskey             "c">
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
      cmd.showMac.accesskey):
      The show and showMac commands are never shown together, thus they can share
@@ -58,8 +58,8 @@
 
 
 
-
-
+<!ENTITY cmd.clearDownloads.label         "Clear Downloads">
+<!ENTITY cmd.clearDownloads.accesskey     "D">
 <!-- LOCALIZATION NOTE (cmd.unblock.label):
      This command may be shown in the context menu, as a menu button item, or as
      a text link when malware or potentially unwanted downloads are blocked.
@@ -88,7 +88,7 @@
      -->
 
 <!ENTITY downloadsHistory.label           "Ipakita ang Lahat ng Downloads">
-<!ENTITY downloadsHistory.accesskey       "S">
+<!ENTITY downloadsHistory.accesskey       "L">
 
 
 <!-- LOCALIZATION NOTE (downloadsListEmpty.label):

@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY editBookmarkOverlay.name.label                      "Pangalan:">
+<!ENTITY editBookmarkOverlay.name.label                      "Name:">
 <!ENTITY editBookmarkOverlay.name.accesskey                  "N">
 <!ENTITY editBookmarkOverlay.location.label                  "Lokasyon:">
 <!ENTITY editBookmarkOverlay.location.accesskey              "L">
@@ -16,7 +16,7 @@
 
 
 
-<!ENTITY editBookmarkOverlay.description.label               "Paglalarawan:">
+<!ENTITY editBookmarkOverlay.description.label               "Description:">
 <!ENTITY editBookmarkOverlay.description.accesskey           "D">
 
 

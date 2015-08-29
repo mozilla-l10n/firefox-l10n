@@ -51,7 +51,7 @@
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
 
-<!ENTITY limitCacheSizeBefore.label      "Bigyan hangganan ang cache sa ">
+<!ENTITY limitCacheSizeBefore.label      "Limit cache to">
 <!ENTITY limitCacheSizeBefore.accesskey  "L">
 <!ENTITY limitCacheSizeAfter.label       "MB ng espasyo">
 
