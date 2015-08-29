@@ -705,8 +705,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-
+<!ENTITY identity.disableMixedContentBlocking.label "এখন সুরক্ষা নিষ্ক্রিয় করুন">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "এ">
 
 
 
@@ -749,6 +749,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.learnMore.accesskey "L">
 <!ENTITY social.closeNotificationItem.label "এখন নয়">
 
+<!ENTITY social.directory.label "ডিরেক্টরির সক্রিয়করণব্যবস্থা">
 <!ENTITY social.directory.text "এই ডাইরেক্টরি থেকে আপনি শেয়ার পরিষেবা সক্রিয় করতে পারবেন।">
 <!ENTITY social.directory.button "আমাকে সেখানে নিয়ে যান!">
 <!ENTITY social.directory.introText "কোন পরিষেবা তে ক্লিক করে তাকে &brandShortName; এর সাথে যুক্ত করতে পারবেন।">
@@ -761,8 +762,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY customizeMode.toolbars "টুলবার প্রদর্শন / লুকান">
 <!ENTITY customizeMode.titlebar "শিরোনাম বার">
-
-
+<!ENTITY customizeMode.lwthemes "থিম">
+<!ENTITY customizeMode.lwthemes.myThemes "আমার থিমগুলি">
 
 <!ENTITY customizeMode.lwthemes.menuManage "ব্যবস্থাপনা">
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
@@ -807,7 +808,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
+<!ENTITY trackingContentBlocked.disabled.message "ট্র্যাকিং সুরক্ষা নিষ্ক্রিয় করা হয়েছে">
 
 <!ENTITY pointerLock.notification.message "যেকোনো সময়ে এটিকে আবার দেখতে ESC চাপুন।">
 
@@ -839,26 +840,31 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
+
+<!ENTITY panicButton.view.mainActionDesc          "কার্যধারায় হবে:">
 <!ENTITY panicButton.view.deleteCookies           "সাম্প্রতিক<html:strong>কুকিগুলি</html:strong> মুছে ফেলুন">
 <!ENTITY panicButton.view.deleteHistory           "সাম্প্রতিক <html:strong> ইতিহাস </html:strong> মুছে ফেলুন">
 <!ENTITY panicButton.view.deleteTabsAndWindows    "সব <html:strong>ট্যাবগুলি</html:strong> এবং <html:strong>উইন্ডো</html:strong> বন্ধ করুন">
 <!ENTITY panicButton.view.openNewWindow           "একটি নতুন পরিষ্কার উইন্ডো খুলুন">
 
 <!ENTITY panicButton.view.undoWarning             "এই পরিবর্তনটি অপরিবর্তনীয়!">
+<!ENTITY panicButton.view.forgetButton            "ভুলে যাওয়া!">
+
+<!ENTITY panicButton.thankyou.msg1                "আপনার সাম্প্রতিক ইতিহাস অপসারণ করা হয়েছে।">
+<!ENTITY panicButton.thankyou.msg2                "নিরাপদ ব্রাউজিং!">
+<!ENTITY panicButton.thankyou.buttonlabel         "ধন্যবাদ!">
+
+<!ENTITY processHang.terminateScript.label        "স্ক্রিপ্ট বন্ধ করুন">
+<!ENTITY processHang.terminateScript.accessKey    "স">
 
 
+<!ENTITY processHang.terminatePlugin.label        "প্লাগিন(P) বন্ধ করুন">
+<!ENTITY processHang.terminatePlugin.accessKey    "P">
+<!ENTITY processHang.terminateProcess.label       "ওয়েব প্রসেসকে বন্ধ করুন(K)">
+<!ENTITY processHang.terminateProcess.accessKey   "K">
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY emeLearnMoreContextMenu.label            "DRM সম্পর্কে আরও জানুন…">
+<!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
 
 
@@ -867,4 +873,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
+<!ENTITY pocketMenuitem.label      "পকেট তালিকা দেখুন">
