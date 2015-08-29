@@ -27,4 +27,5 @@
 <!ENTITY            offlineState.label    "অফলাইনে কাজ (o)">
 <!ENTITY            offlineState.accesskey "o">
 
-
+<!ENTITY            useSelected.label       "শুরুর সময় জিজ্ঞেস না করে নির্বাচিত প্রোফাইল ব্যবহার করুন s">
+<!ENTITY            useSelected.accesskey   "s">
