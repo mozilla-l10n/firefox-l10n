@@ -33,14 +33,16 @@ that require it.  -->
      of the "Details" progressive disclosure button.  See UI mockup at bug
      480169 -->
 
+<!ENTITY detailsProgressiveDisclosure.label     "Mga Detalye">
+<!ENTITY detailsProgressiveDisclosure.accesskey "e">
 
 
 
 
 
 
-
-
+<!ENTITY itemCookies.label                 "Cookies">
+<!ENTITY itemCookies.accesskey             "C">
 
 
 

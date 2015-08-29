@@ -28,7 +28,7 @@
 <!ENTITY numCopies.label "Bilang ng kopya:">
 <!ENTITY numCopies.accesskey "B">
 
-<!ENTITY printframeGroup.label "I-&amp;Print ang mga Frame">
+<!ENTITY printframeGroup.label "I-Print ang mga Frame">
 
 
 <!ENTITY selectedframeRadio.label  "Piniling frame">

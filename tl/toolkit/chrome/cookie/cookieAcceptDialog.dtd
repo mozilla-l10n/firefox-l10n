@@ -13,7 +13,7 @@
 <!ENTITY     button.allow.accesskey         "a">
 <!ENTITY     button.session.label           "Allow for Session">
 <!ENTITY     button.session.accesskey       "S">
-<!ENTITY     button.deny.label              "Itakwil">
+<!ENTITY     button.deny.label              "Deny">
 <!ENTITY     button.deny.accesskey          "D">
 
 <!ENTITY     dialog.title                   "Pumayag na gumawa ng cookie">

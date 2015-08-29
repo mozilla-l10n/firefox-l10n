@@ -36,7 +36,7 @@
 <!ENTITY cmd.restore2.label             "Ibalik">
 <!ENTITY cmd.restore2.accesskey         "I">
 <!ENTITY cmd.restoreFromFile.label      "Pumili ng File…">
-<!ENTITY cmd.restoreFromFile.accesskey  "C">
+<!ENTITY cmd.restoreFromFile.accesskey  "P">
 
 <!ENTITY cmd.bookmarkLink.label         "Bookmark This Page">
 <!ENTITY cmd.bookmarkLink.accesskey     "B">

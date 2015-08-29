@@ -66,7 +66,7 @@
 <!ENTITY updateAuto1.label               "Kusang i-install ang mga update (inirerekomenda: pinabuting seguridad)">
 <!ENTITY updateAuto1.accesskey           "a">
 <!ENTITY updateCheck.label               "Maghanap ng updates, ngunit ako ang pipili kung i-install ang mga ito">
-<!ENTITY updateCheck.accesskey           "C">
+<!ENTITY updateCheck.accesskey           "M">
 <!ENTITY updateManual.label              "Huwag kailanmang i-check para sa mga update (hindi inirerekomenda: mapanganib na seguridad)">
 <!ENTITY updateManual.accesskey          "n">
 
@@ -88,7 +88,7 @@
 
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Tanggalin…">
-<!ENTITY offlineAppsListRemove.accesskey "R">
+<!ENTITY offlineAppsListRemove.accesskey "T">
 <!ENTITY offlineAppRemove.confirm        "Tanggalin ang naka-offline na datos">
 
 

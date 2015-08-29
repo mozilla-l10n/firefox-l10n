@@ -10,8 +10,8 @@
 <!ENTITY errors.accesskey   "E">
 <!ENTITY warnings.label     "Mga Babala">
 <!ENTITY warnings.accesskey "M">
-
-
+<!ENTITY messages.label     "Mga Mensahe">
+<!ENTITY messages.accesskey "M">
 
 
 

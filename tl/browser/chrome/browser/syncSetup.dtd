@@ -15,15 +15,15 @@
 <!ENTITY serverType.custom2.label   "Gamitin ang isang custom server…">
 
 
-
-
+<!ENTITY signIn.password.label      "Password">
+<!ENTITY signIn.password.accesskey  "P">
 
 
 <!-- New Account Page 1: Basic Account Info -->
 
 <!ENTITY setup.newAccountDetailsPage.title.label "Mga Detalye ng Account">
-
-
+<!ENTITY setup.emailAddress.label     "Email Address">
+<!ENTITY setup.emailAddress.accesskey "E">
 <!ENTITY setup.choosePassword.label      "Mamili ng Password">
 <!ENTITY setup.choosePassword.accesskey  "P">
 <!ENTITY setup.confirmPassword.label     "Ikumpirma ang Password">
@@ -42,23 +42,23 @@
 
 <!ENTITY setup.newRecoveryKeyPage.title.label "Nagmamalasakit ang &brandShortName; sa Iyong Pagkapribado">
 
-<!ENTITY recoveryKeyEntry.label        "ang iyong pagrecovery na susi">
+<!ENTITY recoveryKeyEntry.label        "Ang iyong Recovery Key">
 <!ENTITY recoveryKeyEntry.accesskey    "K">
 
 
 
 <!ENTITY button.syncKeyBackup.print.label     "I-print...">
 <!ENTITY button.syncKeyBackup.print.accesskey "p">
-<!ENTITY button.syncKeyBackup.save.label      "Itala…">
-<!ENTITY button.syncKeyBackup.save.accesskey  "S">
+<!ENTITY button.syncKeyBackup.save.label      "I-save…">
+<!ENTITY button.syncKeyBackup.save.accesskey  "I">
 <!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
 
 <!ENTITY pairDevice.title.label             "I-pares sa isa pang Aparato">
 <!ENTITY addDevice.showMeHow.label          "Ipakita sa akin kung papaano.">
 <!ENTITY addDevice.dontHaveDevice.label     "Wala sa akin ang kagamitan">
-
+<!ENTITY pairDevice.setup.description.label  "Para i-activate, piliin ang &quot;Pare a Device&quot; sa iyong isa pang device.">
 <!ENTITY addDevice.setup.enterCode.label    "Kung gayon, ipasok ang code na ito:">
-
+<!ENTITY pairDevice.dialog.description.label "Para i-activate ang bago mong device, piliin ang &quot;Set Up Sync&quot; sa iyong device.">
 <!ENTITY addDevice.dialog.enterCode.label   "I-enter ang code na pinapakita ng device:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Paki subukan muli.">
 <!ENTITY addDevice.dialog.successful.label  "Matagumpay na nadagdag ang inyong device. Magsisimula ang pangunang synchronization sa iilang minute at matatapos habang naka-background.">
@@ -80,12 +80,12 @@
 <!ENTITY syncMy.label               "Sync ang aking">
 <!ENTITY engine.bookmarks.label     "Mga Bukmark">
 <!ENTITY engine.bookmarks.accesskey "m">
+<!ENTITY engine.tabs.label          "Tabs">
+<!ENTITY engine.tabs.accesskey      "T">
 
 
-
-
-
-
+<!ENTITY engine.passwords.label     "Passwords">
+<!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "Mga Preferences">
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "Mga Add-ons">
@@ -97,7 +97,7 @@
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "Kumpirmahin">
-
+<!ENTITY confirm.merge2.label    "I-merge ng &syncBrand.fullName.label; ang lahat ng data ng device na ito sa iyong Sync account.">
 
 
 <!ENTITY confirm.server2.label         "Babala: Papalitan ng inyong local data ang mga datos sa mga sumusunod na device:">

@@ -12,7 +12,8 @@
 <!ENTITY  noupdatesfound.title            "Hindi Nahanap ang mga Update">
 <!ENTITY  noupdatesautoenabled.intro      "Walang mga update na magagamit. &brandShortName; ay magsusuri 
 paminsan-minsan para sa mga update">
-<!ENTITY  noupdatesautodisabled.intro     "Walang mga update magagamit.Mangyaring suriin muli sa paglaon o paganahin ang &brandShortName; awtomatikong pag-update ng pagsuri.">
+<!ENTITY  noupdatesautodisabled.intro     "Walang mga update na magagamit. Mangyaring suriin muli sa paglaon o paganahin ang awtomatikong pagsusuri ng pagupdate ng 
+ &brandShortName;.">
 
 <!ENTITY  manualUpdate.title              "Hindi Maka-update">
 
@@ -48,8 +49,8 @@ i-update ang para &brandShortName; sa lalong madaling panahon.">
 
 
 
-<!ENTITY  error.label                     "May mga problema check para, download, o i-install ito 
-update. &amp;brandShortName.">
+<!ENTITY  error.label                     "May mga problema nag-check sa mga, downloading, o nag-install ng
+update. &brandShortName; hindi ma-update dahil:">
                                            
 <!ENTITY  errorManual.label               "Maaari mong i-update ang &brandShortName; ng mano-mano sa pamamagitan ng pagbisita sa link na ito 
 at I-download ang pinakabagong version:">

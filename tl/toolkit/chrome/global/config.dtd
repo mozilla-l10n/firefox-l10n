@@ -11,7 +11,8 @@
 <!ENTITY aboutWarningButton.label "Mag-iingat ako, Nangangako ako!">
 <!ENTITY aboutWarningCheckbox.label "Ipakita ang babalang ito sa susunod">
 
-
+<!ENTITY searchPrefs.label "Hanapin:">
+<!ENTITY searchPrefs.accesskey "H">
 <!ENTITY focusSearch.key "r">
 <!-- Columns -->
 
@@ -32,10 +33,10 @@
 
 
 
-
-
+<!ENTITY reset.label "I-reset">
+<!ENTITY reset.accesskey "I">
 <!ENTITY new.label "Bago">
-<!ENTITY new.accesskey "w">
+<!ENTITY new.accesskey "B">
 
 
 
