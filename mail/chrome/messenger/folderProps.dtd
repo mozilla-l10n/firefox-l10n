@@ -5,10 +5,10 @@
 <!ENTITY folderProps.windowtitle.label           "Properties">
 
 <!ENTITY generalInfo.label                       "General Information">
-
-
-
-
+<!ENTITY folderCharsetFallback2.label            "ការ​អ៊ិនកូដ​អត្ថបត​ត្រឡប់​ក្រោយ៖">
+<!ENTITY folderCharsetFallback2.accesskey        "E">
+<!ENTITY folderCharsetEnforce2.label             "អនុវត្ត​ការ​អ៊ិនកូដ​សារ​ទាំងអស់​ក្នុង​ថត (ការកំណត់​អ៊ិនកូដ​តួអក្សរ​សារ​នីមួយៗ និង​ការ​រក​ឃើញ​ស្វ័យ​ប្រវត្តិ​នឹង​ត្រូវ​បាន​មិន​អើពើ)">
+<!ENTITY folderCharsetEnforce2.accesskey         "A">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Rebuild Summary File Index">
 <!ENTITY folderRebuildSummaryFile2.label         "Վերականգնել">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">
