@@ -28,7 +28,7 @@
 <!ENTITY community.exp.creditsLink  "գլոբալ համայնք, ">
 <!ENTITY community.exp.end          " որն աշխատում է մեկ նպատակով՝ ապահովել համացանցի հասանելիությունը բոլորի համար:">
 
-<!ENTITY community.start2           "&brandShortName;-ը ստեղծել է  ">
+<!ENTITY community.start2           "&brandShortName;-ը ստեղծել է ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;-ը">
 <!ENTITY community.middle2          "-ն՝ ">
