@@ -116,7 +116,8 @@
 
 <!ENTITY discover.title                       "Ano ang mga Add-ons?">
 <!ENTITY discover.description2                "And mga Add-ons application na hayaan mong personalize &amp; brandShortName; sa karagdagang pag-andar o estilo.Subukan ang isang pagtitipid ng panahon sidebar, isang panahon notifier, o ng isang tema na hitsura sa gumawa &amp; brandShortName ng; iyong sariling.">
-<!ENTITY discover.footer                      "  Pag konektado ka sa Internet, ipapakita ng pane na ito ang ilan sa pinakamagaganda at sikat na add-ons para masubukan rin ninyo.">
+<!ENTITY discover.footer                      "Pag konektado ka sa Internet, ipapakita ng pane na ito 
+ang ilan sa pinakamagaganda at sikat na add-ons para masubukan mo.">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Bersyon">
@@ -137,10 +138,11 @@
 
 <!ENTITY detail.size                          "Sukat">
 
-
+<!ENTITY detail.checkForUpdates.label         "Maghanap ng mga Update">
+<!ENTITY detail.checkForUpdates.accesskey     "n">
 <!ENTITY detail.checkForUpdates.tooltip       "Tingnan para sa mga update para sa add-on na ito">
-
-
+<!ENTITY detail.showPreferencesWin.label      "Options">
+<!ENTITY detail.showPreferencesWin.accesskey  "O">
 <!ENTITY detail.showPreferencesWin.tooltip    "Palitan ang options ng add-on na ito">
 <!ENTITY detail.showPreferencesUnix.label     "Mga Preferences">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
@@ -152,7 +154,7 @@
 
 
 <!ENTITY sort.name.label                      "Pangalan">
-
+<!ENTITY sort.name.tooltip                    "I-sort ayon sa Pangalan">
 <!ENTITY sort.dateUpdated.label               "Huling In-update">
 
 <!ENTITY sort.relevance.label                 "Pinakamagandang match">
@@ -167,7 +169,7 @@
 
 <!ENTITY addon.details.label                  "Karagdagan">
 <!ENTITY addon.details.tooltip                "Magpakita ng mga detalye tungkol sa add-on na ito">
-
+<!ENTITY addon.unknownDate                    "Unknown">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->

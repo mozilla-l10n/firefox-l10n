@@ -28,7 +28,7 @@
 <!ENTITY search.emptytext               "Hanapin">
 <!ENTITY searchHeader.label             "Mga Resulta ng Paghahanap">
 <!ENTITY toctab.label                   "Mga Nilalaman">
-<!ENTITY toctab.accesskey               "C">
+<!ENTITY toctab.accesskey               "M">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.

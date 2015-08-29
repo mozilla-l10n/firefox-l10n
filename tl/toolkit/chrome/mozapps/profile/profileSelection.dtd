@@ -14,8 +14,8 @@
 
 <!ENTITY            availprofiles.label    "Mga Magagamit na Pangunahing File">
 
-<!ENTITY            newButton.label        "Gumawa ang Profile…">
-<!ENTITY            newButton.accesskey    "C">
+<!ENTITY            newButton.label        "Gumawa ng Profile…">
+<!ENTITY            newButton.accesskey    "G">
 <!ENTITY            renameButton.label     "I-rename ang Profile…">
 <!ENTITY            renameButton.accesskey "r">
 <!ENTITY            deleteButton.label     "Burahin ang Profile…">
