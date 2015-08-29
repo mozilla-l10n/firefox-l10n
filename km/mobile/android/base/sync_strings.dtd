@@ -230,7 +230,7 @@
 <!ENTITY fxaccount_remove_account_toast "បាន​លុប​ &formatS; គណនី Firefox ។">
 
 <!ENTITY fxaccount_remove_account_menu_item "លុប​គណនី​ចេញ">
-
+<!ENTITY fxaccount_enable_debug_mode "អនុញ្ញាត​​របៀប​កែ​កំហុស">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 
