@@ -4,12 +4,12 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "ផ្ទាំង​ថ្មី">
-
-
-
-
+<!ENTITY newtab.customize.classic "បង្ហាញ​តំបន់បណ្ដាញ​ពេញនិយម​របស់​​អ្នក​">
+<!ENTITY newtab.customize.cog.enhanced "បញ្ចូល​តំបន់បណ្ដាញ​ដែល​ស្នើ">
+<!ENTITY newtab.customize.cog.title2 "ការត្រួតពិនិត្យ​មើល​ផ្ទាំងថ្មី">
+<!ENTITY newtab.customize.cog.learn "សិក្សា​អំពី​ផ្ទាំង​ថ្មី">
 <!ENTITY newtab.customize.title "ប្ដូរ​ទំព័រ​ផ្ទាំង​ថ្មី​របស់​អ្នក​តាម​តម្រូវ​ការ">
-
+<!ENTITY newtab.customize.suggested "បង្ហាញតំបន់ដែល​ស្នើ និង​ពេញនិយម​របស់​អ្នក">
 <!ENTITY newtab.customize.topsites "បង្ហាញ​តំបន់បណ្ដាញ​ពេញនិយមរបស់​អ្នក">
 
 <!ENTITY newtab.undo.removedLabel "បាន​យក​រូបភាព​តូច​ចេញ។">
