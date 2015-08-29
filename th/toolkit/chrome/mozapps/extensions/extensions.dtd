@@ -243,9 +243,10 @@
 <!ENTITY disabledUnsigned.description.start "ส่วนเสริมต่อไปนี้ไม่ได้ถูกยืนยันความถูกต้องเพื่อที่จะใช้งานใน &brandShortName; คุณสามารถ ">
 <!ENTITY disabledUnsigned.description.findAddonsLink "หาตัวแทนที่">
 <!ENTITY disabledUnsigned.description.end " หรือถามนักพัฒนาเพื่อทำให้ส่วนเสริมได้รับการยืนยัน">
-
+<!ENTITY disabledUnsigned.learnMore "เรียนรู้เพิ่มเติมเกี่ยวกับความพยายามของเราที่ช่วยให้ปลอดภัยยามคุณออนไลน์">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
+<!ENTITY disabledUnsigned.devInfo.start "นักพัฒนาที่สนใจที่จะทำให้ส่วนเสริมได้รับการยืนยันสามารถดำเนินการต่อได้จากการอ่านของเรา ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "ด้วยตนเอง">
-
+<!ENTITY disabledUnsigned.devInfo.end ".">
