@@ -10,6 +10,8 @@
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
      Width of the Private Browsing section.
      -->
+
+<!ENTITY aboutPrivateBrowsing.width            "25em">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
      aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
      These strings will be replaced by aboutPrivateBrowsing.forgotten and
@@ -23,7 +25,7 @@
 <!ENTITY aboutPrivateBrowsing.info.history     "Sejarah">
 
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Cookie">
-
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Fail Sementara">
 
 
 
