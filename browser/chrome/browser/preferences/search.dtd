@@ -9,7 +9,8 @@
 <!ENTITY provideSearchSuggestions.label        "ਖੋਜ ਸੁਝਾਅ ਦਿੰਦਾ ਹੈ">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
 
-
+<!ENTITY redirectWindowsSearch.label "Windows ਤੋਂ ਖੋਜਾਂ ਲਈ ਇਹ ਖੋਜ ਇੰਜਣ ਵਰਤੋਂ">
+<!ENTITY redirectWindowsSearch.accesskey "W">
 <!ENTITY oneClickSearchEngines.label           "ਇੱਕ-ਕਲਿੱਕ ਖੋਜ ਇੰਜਣ">
 
 <!ENTITY chooseWhichOneToDisplay.label         "ਖੋਜ ਪੱਟੀ ਤੁਹਾਨੂੰ ਬਦਲਵੇਂ ਖੋਜ ਇੰਜਣ ਨਾਲ ਸਿੱਧੀ ਖੋਜ ਕਰਨ ਦਿੰਦੀ ਹੈ। ਚੋਣ ਕਰੋ ਕਿ ਕਿਹੜੇ ਵਿਖਾਉਣੇ ਹਨ।">

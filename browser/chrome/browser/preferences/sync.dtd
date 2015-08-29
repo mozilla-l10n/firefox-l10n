@@ -44,6 +44,10 @@
 <!-- Device Settings -->
 <!ENTITY syncDeviceName.label       "ਜੰਤਰ ਨਾਂ:">
 <!ENTITY syncDeviceName.accesskey   "c">
+<!ENTITY fxaSyncDeviceName.label       "ਜੰਤਰ ਨਾਂ">
+<!ENTITY changeSyncDeviceName.label "…ਜੰਤਰ ਨਾਂ ਬਦਲੋ">
+<!ENTITY cancelChangeSyncDeviceName.label "ਰੱਦ ਕਰੋ">
+<!ENTITY saveChangeSyncDeviceName.label "ਸੰਭਾਲੋ">
 <!ENTITY unlinkDevice.label           "ਇਹ ਜੰਤਰ ਅਣ-ਲਿੰਕ ਕਰੋ">
 
 
