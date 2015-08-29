@@ -1,9 +1,0 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-<!ENTITY aboutApps.title2                          "ਐਪਸ">
-<!ENTITY aboutApps.header                          "ਤੁਹਾਡੇ ਐਪਸ">
-<!ENTITY aboutApps.browseMarketplace "ਫਾਇਰਫਾਕਸ ਮੰਡੀ ਵਿੱਚੋਂ ਵੇਖੋ">
-<!ENTITY aboutApps.uninstall "ਅਣ-ਇੰਸਟਾਲ">
-<!ENTITY aboutApps.checkForUpdates "ਅੱਪਡੇਟ ਲਈ ਜਾਂਚ ਕਰੋ">
