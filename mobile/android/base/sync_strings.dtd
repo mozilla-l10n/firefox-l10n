@@ -207,8 +207,8 @@
 <!ENTITY fxaccount_status_needs_verification2 'Ваш обліковий запис потрібно підтвердити. Торкніться для відправлення листа підтверждення.'>
 <!ENTITY fxaccount_status_needs_credentials 'Неможливо з’єднатись. Торкніться, щоб увійти.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Для входу вам потрібно оновити &brandShortName;.'>
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; налаштовано, але не синхронізовано автоматично. Перемкніть “Автосинхронізація” в налаштуваннях Android &gt; Використання даних.'>
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; налаштовано, але не синхронізовано автоматично. Перемкніть “Автосинхронізація” в налаштуваннях Android &gt; Облікові записи та синхронізація.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; налаштована, але автоматично не запущена. Встановіть прапорець “Автоматична синхронізація” в налаштуваннях Android &gt; Використання даних.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; налаштована, але автоматично не запущена. Встановіть прапорець “Автоматична синхронізація” в налаштуваннях Android &gt; Облікові записи та синхронізація.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Торкніться, щоб увійти в свій обліковий запис Firefox.'>
 <!ENTITY fxaccount_status_bookmarks 'Закладки'>
 <!ENTITY fxaccount_status_history 'Історія'>
@@ -219,7 +219,7 @@
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-<!ENTITY fxaccount_status_linktos 'Умови користування'>
+<!ENTITY fxaccount_status_linktos 'Умови надання послуги'>
 <!ENTITY fxaccount_status_linkprivacy 'Повідомлення про приватність'>
 <!ENTITY fxaccount_status_more 'Докладніше&ellipsis;'>
 

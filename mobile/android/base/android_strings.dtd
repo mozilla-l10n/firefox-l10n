@@ -138,7 +138,7 @@
 <!ENTITY pref_category_search3 "Пошук">
 <!ENTITY pref_category_search_summary "Налаштувати засоби пошуку">
 <!ENTITY pref_category_display "Відображення">
-<!ENTITY pref_category_display_summary "Текст, панель заголовку, повноекранний перегляд">
+<!ENTITY pref_category_display_summary "Текст, панель заголовка, повноекранний перегляд">
 <!ENTITY pref_category_privacy_short "Приватність">
 <!ENTITY pref_category_privacy_summary2 "Керування логінами, куками, стеженням та даними">
 <!ENTITY pref_category_vendor "&vendorShortName;">
