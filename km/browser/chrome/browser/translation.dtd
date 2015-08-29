@@ -71,3 +71,5 @@
   -  the other two strings when yandex translation engine is preferred by the
   -  user.
   -->
+
+<!ENTITY translation.options.attribution.yandexTranslate "គ្រប់គ្រង​ដោយ​​ Yandex.Translate">
