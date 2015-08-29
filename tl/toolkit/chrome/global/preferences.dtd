@@ -5,5 +5,5 @@
 <!ENTITY  windowClose.key                         "w">
 <!ENTITY  preferencesDefaultTitleMac.title        "Mga Preferences">
 <!ENTITY  preferencesDefaultTitleWin.title        "Options">
-<!ENTITY  preferencesCloseButton.label            "Isara">
-<!ENTITY  preferencesCloseButton.accesskey        "I">
+<!ENTITY  preferencesCloseButton.label            "Isarado">
+<!ENTITY  preferencesCloseButton.accesskey        "C">

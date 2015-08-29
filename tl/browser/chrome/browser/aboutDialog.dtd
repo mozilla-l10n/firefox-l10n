@@ -10,8 +10,8 @@
 
 
 
-
-
+<!ENTITY update.applyButtonBillboard.label        "Buksan muli para magupdate">
+<!ENTITY update.applyButtonBillboard.accesskey    "B">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
 
@@ -94,4 +94,4 @@
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
-<!ENTITY channel.description.end    "i-update ang channel.">
+<!ENTITY channel.description.end    " i-update ang channel. ">
