@@ -78,10 +78,10 @@
 <!ENTITY pasteCmd.accesskey "P">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY editRewrapCmd.accesskey "w">
+<!ENTITY editRewrapCmd.accesskey "ղ">
 <!ENTITY deleteCmd.label "Ջնջել">
 <!ENTITY deleteCmd.accesskey "D">
-<!ENTITY editRewrapCmd.label "w">
+<!ENTITY editRewrapCmd.label "Տողադարձ">
 <!ENTITY editRewrapCmd.key "Վ">
 <!ENTITY renameAttachmentCmd.label "Անվանափոխել կցորդը...">
 <!ENTITY renameAttachmentCmd.accesskey "Ա">

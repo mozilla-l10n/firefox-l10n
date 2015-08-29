@@ -13,3 +13,4 @@
 <!ENTITY showAllUnreadMessagesCount.accesskey  "վ">
 <!ENTITY dockIconBadge.label                   "Ծրագրի պատկերակի Նշանը">
 <!ENTITY dockIconShow.label                    "Ծրագրի պատկերակի նշանը +">
+<!ENTITY directNotificationSettings.label      "Կարող եք անջատել նշանը Ծանուցումներից">
