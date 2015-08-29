@@ -63,7 +63,7 @@
 <!ENTITY sync.configure.engines.title.label 'ਕੀ ਸਿੰਕ ਕਰਨਾ ਹੈ'>
 <!ENTITY sync.configure.engines.sync.my.title.label 'ਸਿੰਕ ਕਰੋ ਆਪਣੇ…'>
 <!ENTITY sync.configure.engines.title.bookmarks 'ਬੁੱਕਮਾਰਕ'>
-<!ENTITY sync.configure.engines.title.passwords 'ਪਾਸਵਰਡ'>
+<!ENTITY sync.configure.engines.title.passwords2 'ਲਾਗਇਨ'>
 <!ENTITY sync.configure.engines.title.history 'ਅਤੀਤ'>
 <!ENTITY sync.configure.engines.title.tabs 'ਟੈਬ'>
 
@@ -139,7 +139,8 @@
 <!ENTITY fxaccount_policy_linkprivacy 'ਪਰਦੇਦਾਰੀ ਨੀਤੀ'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync '&syncBrand.shortName.label; ਲਈ ਜੀ ਆਇਆਂ ਨੂੰ'>
-<!ENTITY fxaccount_getting_started_description 'ਆਪਣੀਆਂ ਟੈਬਾਂ, ਬੁੱਕਮਾਰਕ, ਪਾਸਵਰਡ ਤੇ ਹੋਰਾਂ ਨੂੰ ਸਿੰਕ ਕਰਨ ਲਈ ਸਾਇਨ ਇਨ ਕਰੋ।'>
+<!ENTITY fxaccount_getting_started_description2 ''ਆਪਣੀਆਂ ਟੈਬਾਂ, ਬੁੱਕਮਾਰਕ, ਲਾਗਇਨ 
+ਤੇ ਹੋਰਾਂ ਨੂੰ ਸਿੰਕ ਕਰਨ ਲਈ ਸਾਇਨ ਇਨ ਕਰੋ।'>
 <!ENTITY fxaccount_getting_started_get_started 'ਸ਼ੁਰੂ ਕਰੀਏ'>
 <!ENTITY fxaccount_getting_started_old_firefox ' &syncBrand.shortName.label; ਦੇ ਪੁਰਾਣੇ ਵਰਜ਼ਨ ਦੀ ਵਰਤੋਂ ਨਾਲ?'>
 
@@ -210,7 +211,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating 'ਆਪਣੇ ਨਵੇਂ ਫਾਇਰਫਾਕਸ ਖਆਤੇ ਵਿੱਚ ਸਾਇਨ ਇਨ ਕਰਨ ਲਈ ਛੂਹੋ।'>
 <!ENTITY fxaccount_status_bookmarks 'ਬੁੱਕਮਾਰਕ'>
 <!ENTITY fxaccount_status_history 'ਅਤੀਤ'>
-<!ENTITY fxaccount_status_passwords 'ਪਾਸਵਰਡ'>
+<!ENTITY fxaccount_status_passwords2 'ਲਾਗਇਨ'>
 <!ENTITY fxaccount_status_tabs 'ਟੈਬਾਂ ਖੋਲ੍ਹੋ'>
 <!ENTITY fxaccount_status_legal 'ਕਾਨੂੰਨੀ' >
 

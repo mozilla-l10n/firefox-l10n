@@ -2,12 +2,21 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                  "ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ">
+<!ENTITY privatebrowsingpage.title "ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ">
+<!ENTITY privatebrowsingpage.title.normal "ਤੁਸੀਂ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਵਿੱਚ ਨਹੀਂ 
+ਹੋ">
 
-<!ENTITY privatebrowsingpage.issueDesc.private      "ਤੁਸੀਂ ਨਵੀਂ ਪ੍ਰਾਈਵੇਟ ਟੈਬ ਖੋਲ੍ਹ ਸਕਦੇ ਹੋ।">
-<!ENTITY privatebrowsingpage.issueDesc.normal       "ਤੁਸੀਂ ਪ੍ਰਾਈਵੇਟ ਟੈਬ ਵਿੱਚ ਨਹੀਂ ਹੋ।">
+<!ENTITY privatebrowsingpage.issueDesc.normal2 "In private browsing, we won't 
+keep any of your browsing history or cookies.">
+<!ENTITY privatebrowsingpage.issueDesc.private2 "We won't keep any of your 
+browsing history or cookies.">
 
-<!ENTITY privatebrowsingpage.description            "ਪ੍ਰਾਈਵੇਟ ਟੈਬ ਵਿੱਚ, &brandShortName; ਕੋਈ ਵੀ ਬਰਾਊਜ਼ ਕਰਨ ਅਤੀਤ, ਖੋਜ ਅਤੀਤ, ਡਾਊਨਲੋਡ ਅਤੀਤ, ਵੈੱਬ ਫਾਰਮ ਅਤੀਤ, ਕੂਕੀਜ਼ ਜਾਂ ਆਰਜ਼ੀ ਇੰਟਰਨੈੱਟ ਫਾਇਲਾਂ ਨਹੀਂ ਰੱਖੇਗਾ। ਪਰ ਤੁਹਾਡੇ ਵਲੋਂ ਡਾਊਨਲੋਡ ਕੀਤੀਆਂ ਫਾਇਲਾਂ ਤੇ ਬਣਾਏ ਗਏ ਬੁੱਕਮਾਰਕ ਰੱਖੇਗਾ ਜਾਣਗੇ।">
-<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+<!ENTITY privatebrowsingpage.description2 "Bookmarks you add and files you 
+download will still be saved on your device.">
+<!ENTITY privatebrowsingpage.description.normal 
+"&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
+<!ENTITY privatebrowsingpage.description.private2 
+"&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
 
-<!ENTITY privatebrowsingpage.moreInfo               "ਜਦੋਂ ਕਿ ਇਹ ਜੰਤਰ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ ਕਰਨ ਅਤੀਤ ਨੂੰ ਰਿਕਾਰਡ ਨਹੀਂ ਕਰੇਗਾ, ਪਰ ਤੁਹਾਡਾ ਇੰਟਰਨੈੱਟ ਉਪਲੱਬਧ ਕਰਵਾਉਣ ਵਾਲਾ ਤੁਹਾਡੇ ਵਲੋਂ ਖੋਲ੍ਹੇ ਪੇਜ਼ਾਂ ਬਾਰੇ ਸੁਰਾਗ ਰੱਖ ਸਕਦਾ ਹੈ।">
+<!ENTITY privatebrowsingpage.link.private "ਹੋਰ ਜਾਣਨਾ ਚਾਹੁੰਦੇ ਹੋ?">
+<!ENTITY privatebrowsingpage.link.normal "ਨਵੀਂ ਪ੍ਰਾਈਵੇਟ ਟੈਬ ਖੋਲ੍ਹੋ">
