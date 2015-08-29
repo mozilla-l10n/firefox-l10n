@@ -25,8 +25,8 @@
 
 <!ENTITY helpSafeMode.label       "Mulakan semula tanpa Addon…">
 <!ENTITY helpSafeMode.accesskey   "M">
-
-
+<!ENTITY helpSafeMode.stop.label       "Mulakan semula dengan Add-ons">
+<!ENTITY helpSafeMode.stop.accesskey   "M">
 
 <!ENTITY healthReport2.label      "&brandShorterName; Pelapor Kerosakan">
 <!ENTITY healthReport2.accesskey  "e">

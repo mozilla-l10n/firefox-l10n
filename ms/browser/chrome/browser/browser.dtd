@@ -674,8 +674,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label                   "Batal">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
+<!ENTITY identity.connectionSecure "Sambungan Selamat">
 <!ENTITY identity.connectionNotSecure "Sambungan Tidak Selamat">
-
+<!ENTITY identity.connectionFile "Halaman ini disimpan dalam komputer anda.">
 
 
 <!-- Strings for connection state warnings. -->
@@ -859,4 +860,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY saveToPocketCmd.accesskey "k">
 <!ENTITY saveLinkToPocketCmd.label     "Simpan Pautan ke Pocket">
 <!ENTITY saveLinkToPocketCmd.accesskey "o">
-
+<!ENTITY pocketMenuitem.label      "Lihat Senarai Poket">
