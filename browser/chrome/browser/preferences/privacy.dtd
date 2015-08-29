@@ -8,10 +8,10 @@
 <!ENTITY doNotTrackInfo.label          "เรียนรู้เพิ่ม">
 
 
-
+<!ENTITY trackingProtectionLearnMore.label "เรียนรู้เพิ่มเติม">
 <!ENTITY trackingProtectionPBM5.label         "ใช้การป้องกันการติดตามในหน้าต่างท่องเว็บส่วนตัว">
 <!ENTITY trackingProtectionPBM5.accesskey     "ส">
-
+<!ENTITY trackingProtectionPBMLearnMore.label "เรียนรู้เพิ่มเติม">
 
 <!ENTITY  history.label                 "ประวัติ">
 

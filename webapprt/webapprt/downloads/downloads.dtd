@@ -14,8 +14,8 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY downloads.title                  "ดาวน์โหลด">
 
 
-
-
+<!ENTITY cmd.resume.label                 "ทำต่อ">
+<!ENTITY cmd.resume.accesskey             "ท">
 <!ENTITY cmd.cancel.label                 "ยกเลิก">
 <!ENTITY cmd.cancel.accesskey             "ย">
 <!ENTITY cmd.show.label                   "เปิดโฟลเดอร์ที่บรรจุ">

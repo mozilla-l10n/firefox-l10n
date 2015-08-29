@@ -110,7 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "ม">
 
 <!ENTITY fxaSignIn.label "เข้าใช้ &syncBrand.shortName.label;">
-
+<!ENTITY fxaSignedIn.tooltip "เปิดการปรับแต่ง &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "เชื่อมต่อ &syncBrand.shortName.label; ใหม่">
 <!ENTITY syncStartPanel2.heading "เปิดใช้งาน &syncBrand.shortName.label; แล้ว">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; จะทำการซิงก์ในไม่ช้า">
@@ -273,6 +273,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 
+<!ENTITY browserContentToolboxMenu.label     "กล่องเครื่องมือเนื้อหาเบราว์เซอร์">
+<!ENTITY browserContentToolboxMenu.accesskey "อ">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "ปิดแถบเครื่องมือนักพัฒนา">
 <!ENTITY devToolbarMenu.label              "แถบเครื่องมือนักพัฒนา">
@@ -393,7 +395,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "สลับไปยังแท็บ:">
 
-
+<!ENTITY urlbar.searchSuggestionsNotification.question "คุณต้องการทำให้ประสบการณ์การค้นหาของคุณดีขึ้นด้วยการแนะนำคำค้นหรือไม่?">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "เรียนรู้เพิ่มเติม…">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "ไม่">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "ใช่">
 <!-- 
@@ -424,6 +427,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      These are set as the aria-label attribute for the search input box and
      submit button in the in-content search UI, to be used by screen readers. -->
 
+<!ENTITY contentSearchInput.label     "คำค้นหา">
+<!ENTITY contentSearchSubmit.label    "ค้นหา">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -682,27 +687,30 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connectionSecure "การเชื่อมต่อนิรภัย">
 <!ENTITY identity.connectionNotSecure "การเชื่อมต่อไม่นิรภัย">
-
-
-
+<!ENTITY identity.connectionFile "หน้านี้ถูกจัดเก็บบนคอมพิวเตอร์ของคุณ">
+<!ENTITY identity.connectionVerified "&brandShortName; ได้ยืนยันความถูกต้องว่าคุณเชื่อมต่อไซต์นี้แบบนิรภัย ดำเนินงานโดย:">
+<!ENTITY identity.connectionInternal "นี้คือหน้า &brandShortName; ที่ปลอดภัย">
 <!-- Strings for connection state warnings. -->
 
-
-
+<!ENTITY identity.activeBlocked "&brandShortName; ได้ปิดกั้นบางส่วนของหน้านี้ที่ไม่เข้ารหัส">
+<!ENTITY identity.passiveLoaded "บางส่วนของหน้านี้มีเนื้อหาที่ไม่ได้เข้ารหัส (เช่น รูปภาพ)">
+<!ENTITY identity.activeLoaded "คุณได้ปิดใช้งานการปกป้องหน้านี้">
+<!ENTITY identity.weakEncryption "หน้านี้ใช้การเข้ารหัสแบบอ่อนแอ">
 <!-- Strings for connection state warnings in the subview. -->
 
 
+<!ENTITY identity.description.activeBlocked "&brandShortName; ได้ปิดกั้นบางส่วนของหน้านี้ที่ไม่ปลอดภัย">
+<!ENTITY identity.description.passiveLoaded "การเชื่อมต่อของคุณไม่เป็นส่วนตัวและข้อมูลที่คุณแบ่งปันกับเว็บไซต์คนอื่นสามารถดูได้">
+<!ENTITY identity.description.passiveLoaded2 "เว็บไซต์นี้มีเนื้อหาที่ไม่ได้เข้ารหัส (เช่น รูปภาพ)">
 
 
 
 
-
-
-
-
+<!ENTITY identity.enableMixedContentBlocking.label "เปิดใช้งานการปกป้อง">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "เ">
 <!ENTITY identity.disableMixedContentBlocking.label "ปิดการปกป้องสำหรับตอนนี้">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "ป">
-
+<!ENTITY identity.learnMore "เรียนรู้เพิ่มเติม">
 
 <!ENTITY identity.moreInfoLinkText2 "ข้อมูลเพิ่มเติม">
 
@@ -779,17 +787,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "ก">
 <!ENTITY getUserMedia.selectMicrophone.label "แบ่งปันไมโครโฟน:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "ม">
-
+<!ENTITY getUserMedia.audioCapture.label "เสียงจากแท็บจะถูกแบ่งปัน">
 <!ENTITY getUserMedia.allWindowsShared.message "หน้าตาที่ปรากฏอยู่ทั้งหมดบนหน้าจอของคุณจะถูกใช้ร่วมกัน">
 
 <!ENTITY trackingProtection.title "ป้องกันการติดตาม">
 
-
+<!ENTITY trackingProtection.detectedNotBlocked3 "เว็บไซต์นี้มีส่วนประกอบที่อาจจะตามรอยการเปิดเว็บของคุณ คุณได้ปิดใช้การป้องกัน">
 <!ENTITY trackingProtection.notDetected3 "ไม่พบส่วนประกอบที่ทำการติดตามในหน้านี้">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-
+<!ENTITY trackingProtection.unblock.label "ปิดใช้งานการปกป้องสำหรับไซต์นี้">
+<!ENTITY trackingProtection.unblock.accesskey "ป">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -800,7 +809,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.message "การติดตาม">
 <!ENTITY trackingContentBlocked.moreinfo "บางส่วนของหน้าที่ติดตามกิจกรรมออนไลน์ของคุณถูกปิดกั้น">
 <!ENTITY trackingContentBlocked.learnMore "เรียนรู้เพิ่ม">
-
+<!ENTITY trackingContentBlocked.options "ตัวเลือก">
 
 
 <!ENTITY trackingContentBlocked.block.label "เปิดการปกป้อง">
