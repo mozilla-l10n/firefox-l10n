@@ -62,7 +62,7 @@
 <!ENTITY threadColumn2.tooltip "បង្ហាញ​ប្រធាន​បទ​​តែមួយ​​​សម្រាប់​សារ">
 <!ENTITY fromColumn2.tooltip "តម្រៀប​តាម​ពី">
 <!ENTITY recipientColumn2.tooltip "តម្រៀប​តាម​អ្នក​ទទួល">
-
+<!ENTITY correspondentColumn2.tooltip "តម្រៀប​តាម​ការ​ឆ្លើយតប">
 <!ENTITY subjectColumn2.tooltip "តម្រៀប​តាម​ប្រធានបទ">
 <!ENTITY dateColumn2.tooltip "តម្រៀប​តាម​កាលបរិច្ឆេទ​">
 <!ENTITY priorityColumn2.tooltip "តម្រៀប​តាម​អាទិភាព">

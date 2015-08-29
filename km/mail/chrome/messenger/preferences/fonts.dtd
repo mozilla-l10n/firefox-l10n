@@ -22,6 +22,8 @@
 <!ENTITY  monospace.accesskey                     "M">
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
+
+<!ENTITY  font.langGroup.latin                    "ឡាតាំង">
 <!ENTITY  font.langGroup.japanese                 "Japanese">
 <!ENTITY  font.langGroup.trad-chinese             "Traditional Chinese (Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Simplified Chinese">
@@ -29,7 +31,7 @@
 <!ENTITY  font.langGroup.korean                   "Korean">
 <!ENTITY  font.langGroup.cyrillic                 "Cyrillic">
 <!ENTITY  font.langGroup.el                       "Greek">
-
+<!ENTITY  font.langGroup.other                    "ប្រព័ន្ធ​សរសេរ​ផ្សេងទៀត">
 <!ENTITY  font.langGroup.thai                     "Thai">
 <!ENTITY  font.langGroup.hebrew                   "Hebrew">
 <!ENTITY  font.langGroup.arabic                   "Arabic">
@@ -44,12 +46,12 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
 <!ENTITY  font.langGroup.khmer                    "Khmer">
 <!ENTITY  font.langGroup.malayalam                "Malayalam">
-
-
+<!ENTITY  font.langGroup.math                     "គណិត​វិទ្យា">
+<!ENTITY  font.langGroup.oriya                    "អូរីយ៉ា">
 <!ENTITY  font.langGroup.telugu                   "តេលូហ្គូ​">
-
-
-
+<!ENTITY  font.langGroup.kannada                  "កិណាដា">
+<!ENTITY  font.langGroup.sinhala                  "ស៊ីនហាឡា">
+<!ENTITY  font.langGroup.tibetan                  "ទីបេ">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Minimum font size:">
 <!ENTITY minSize.accesskey                        "z">

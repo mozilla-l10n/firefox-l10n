@@ -4,7 +4,7 @@
 
 <!ENTITY itemFormatting.label             "Formatting">
 <!ENTITY itemTags.label                   "Tags">
-
+<!ENTITY itemAdvanced.label               "កម្រិត​ខ្ពស់">
 
 <!ENTITY style.label                      "Style:">
 <!ENTITY style.accesskey                  "y">
