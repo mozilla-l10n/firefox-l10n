@@ -43,3 +43,4 @@
 <!ENTITY done.title                     "İdxal tamamlandı">
 <!ENTITY done.label                     "Aşağıdakı obyektlər uğurla idxal edildi:">
 
+<!ENTITY closeSourceBrowser.label       "Davam etməzdən əvvəl seçilən səyyahın qapalı olduğundan əmin olun.">

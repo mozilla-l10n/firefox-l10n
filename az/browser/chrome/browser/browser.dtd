@@ -110,7 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "s">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; daxil ol">
-
+<!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; nizamlamalarını aç">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; Yenidən bağlan">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; aktivdir">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; dərhal sinxronlaşmağa başlayacaq.">
@@ -395,6 +395,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Keçiləcək vərəq:">
 
+<!ENTITY urlbar.searchSuggestionsNotification.question "Axtarış təcrübənizi təkliflərlə yaxşılaşdırmaq istərdiniz?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Ətraflı öyrən…">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Xeyir">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Hə">
