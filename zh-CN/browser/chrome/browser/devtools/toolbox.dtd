@@ -171,11 +171,6 @@
 
 <!ENTITY options.stylesheetAutocompletion.label      "自动补全 CSS">
 <!ENTITY options.stylesheetAutocompletion.tooltip    "在样式编辑器中自动补全您输入的 CSS 属性、值和选择器">
-<!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
-  -  heading of the group of JavaScript Profiler preferences in the options
-  -  panel. -->
-
-<!ENTITY options.profiler.label            "JavaScript 分析器">
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->

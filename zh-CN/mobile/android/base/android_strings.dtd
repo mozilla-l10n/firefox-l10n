@@ -10,6 +10,7 @@
 <!ENTITY  onboard_start_subtext3 "独具风格的移动网络浏览体验。">
 <!ENTITY  onboard_start_button_account "登录到 &brandShortName;">
 <!ENTITY  onboard_start_button_browser "开始浏览">
+<!ENTITY  onboard_start_restricted1 "使用简化的 &brandShortName; 版本，确保安全和可控。">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -68,6 +69,8 @@
 <!ENTITY edit_mode_cancel "取消">
 
 <!ENTITY close_tab "关闭标签页">
+<!ENTITY tab_audio_playing "此标签页正在播放音频">
+<!ENTITY tab_audio_muted "此标签页已被静音">
 <!ENTITY one_tab "1 个标签页">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -156,6 +159,9 @@
 <!ENTITY pref_search_hint "提示：长按搜索框后点击 &formatI; 图标添加任意网站到您的搜索服务提供者列表。">
 <!ENTITY pref_category_devtools "开发者工具">
 <!ENTITY pref_developer_remotedebugging "远程调试">
+<!ENTITY pref_developer_remotedebugging_usb "通过 USB 远程调试">
+<!ENTITY pref_developer_remotedebugging_wifi "通过 Wi-Fi 远程调试">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi 调试需要您的设备已安装一个 QR 码扫描应用。">
 <!ENTITY pref_category_logins "登录项">
 <!ENTITY pref_remember_signons2 "记住登录项">
 <!ENTITY pref_open_external_urls_privately_title "在隐私浏览模式中打开链接">
@@ -193,15 +199,20 @@
 <!ENTITY pref_cookies_disabled "已停用">
 
 <!ENTITY pref_tracking_protection_title "跟踪保护">
-<!ENTITY pref_tracking_protection_summary "&brandShortName; 将阻止网站的跟踪行为">
+<!ENTITY pref_tracking_protection_summary3 "在隐私浏览中启用">
 <!ENTITY pref_donottrack_title "请勿跟踪">
 <!ENTITY pref_donottrack_summary "&brandShortName; 将会告诉网站您不想被追踪">
+
+<!ENTITY tracking_protection_prompt_title "立即使用跟踪保护">
+<!ENTITY tracking_protection_prompt_text "主动屏蔽跟踪元素，让您不再担心。">
+<!ENTITY tracking_protection_prompt_tip_text "访问“隐私”设置了解更多信息">
+<!ENTITY tracking_protection_prompt_action_button "前往">
 
 <!ENTITY tab_queue_toast_message3 "&brandShortName; 中已保存的标签页">
 <!ENTITY tab_queue_toast_action "立即打开">
 <!ENTITY tab_queue_prompt_title "打开多个链接？">
-<!ENTITY tab_queue_prompt_text3 "保存它们，供您下次打开 &brandShortName; 时使用">
-<!ENTITY tab_queue_prompt_tip_text "您以后可以在“设置”中更改此行为">
+<!ENTITY tab_queue_prompt_text4 "保存它们，供您下次打开 &brandShortName; 时使用。">
+<!ENTITY tab_queue_prompt_tip_text2 "您以后可以在“设置”中更改此行为">
 <!ENTITY tab_queue_prompt_positive_action_button "启用">
 <!ENTITY tab_queue_prompt_negative_action_button "暂时不要">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
@@ -331,7 +342,6 @@ size. -->
 <!ENTITY addons "附加组件">
 <!ENTITY logins "登录项">
 <!ENTITY downloads "下载">
-<!ENTITY apps "应用">
 <!ENTITY char_encoding "字符编码">
 
 <!ENTITY share "共享">
@@ -401,6 +411,11 @@ size. -->
 <!ENTITY pref_titlebar_mode "标题栏">
 <!ENTITY pref_titlebar_mode_title "显示页面标题">
 <!ENTITY pref_titlebar_mode_url "显示页面地址">
+<!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
+     whether or not the magnifying glass is disabled. -->
+
+<!ENTITY pref_prevent_magnifying_glass "禁用放大镜">
+<!ENTITY pref_prevent_magnifying_glass_summary "避免放大镜的使用影响含糊的屏幕触摸">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -426,10 +441,10 @@ size. -->
 <!ENTITY site_settings_cancel       "取消">
 <!ENTITY site_settings_clear        "清除">
 <!ENTITY site_settings_no_settings  "没有要清除的设置。">
-<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+<!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
 
-<!ENTITY reading_list_added2 "已添加到列表">
+<!ENTITY reading_list_added3 "已添加到阅读列表">
 <!ENTITY reading_list_removed "页面已从您的阅读列表移除">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -546,21 +561,25 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_run_by "它的经营者为">
-<!ENTITY identity_no_info "此网站没有提供身份信息。">
-<!ENTITY identity_not_encrypted "您与此网站的连接未加密。">
-<!ENTITY identity_encrypted "已加密">
+<!ENTITY identity_connection_secure "安全连接">
+<!ENTITY identity_connection_insecure "不安全连接">
 <!-- Mixed content notifications in site identity popup -->
+
+<!ENTITY mixed_content_blocked_all "&brandShortName; 已阻止此页面上的不安全元素。">
+<!ENTITY mixed_content_blocked_some "&brandShortName; 已阻止此页面上的部分不安全元素。">
+<!ENTITY mixed_content_display_loaded "此页面有部分不安全元素。">
+<!ENTITY mixed_content_protection_disabled "您已禁用对不安全元素的保护。">
 
 <!ENTITY loaded_mixed_content_message "此页面显示的内容无法保证安全性。">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; 已阻止非安全传输的内容。">
 <!ENTITY blocked_mixed_content_message_bottom "即使此类内容被屏蔽，大多数网站仍能正常工作。">
 <!-- Tracking content notifications in site identity popup -->
 
-<!ENTITY loaded_tracking_content_message_top "跟踪保护已停用。">
-<!ENTITY loaded_tracking_content_message_bottom "本页面中得部分内容可能会追踪您的线上行为。">
-<!ENTITY blocked_tracking_content_message_top2 "跟踪保护已启用。">
-<!ENTITY blocked_tracking_content_message_bottom2 "已阻止本页面中部分追踪您线上行为的内容。">
+<!ENTITY doorhanger_tracking_title "跟踪保护">
+<!ENTITY doorhanger_tracking_state_enabled "已启用">
+<!ENTITY doorhanger_tracking_state_disabled "已停用">
+<!ENTITY doorhanger_tracking_message_enabled1 "跟踪您的在线行为的尝试已被阻止。">
+<!ENTITY doorhanger_tracking_message_disabled2 "此页面包含可能跟踪您的浏览行为的元素。">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "详细了解">
@@ -643,10 +662,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Voice search in the awesome bar -->
 
 <!ENTITY voicesearch_prompt "现在请说">
-<!ENTITY voicesearch_failed_title "&brandShortName; 语音搜索">
-<!ENTITY voicesearch_failed_message "语音搜索目前遇到问题。请稍后再试。">
-<!ENTITY voicesearch_failed_message_recoverable "抱歉。我们无法识别您的话语。请稍候再试。">
-<!ENTITY voicesearch_failed_retry "重试">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -664,3 +679,26 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY find_matchcase "Aa">
 
 <!ENTITY intent_uri_cannot_open "无法打开链接">
+<!-- DevTools Authentication -->
+<!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
+     above a QR reader that is actively scanning for QR codes.  The expected QR
+     code has already been displayed by the client trying to connect (such as
+     desktop Firefox via WebIDE), so you just need to aim this device at the QR
+     code. -->
+
+<!ENTITY devtools_auth_scan_header "在您的其他设备上扫描该 QR 码">
+<!-- Restrictions -->
+<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+     a restricted profile (e.g. child). Used inside the Android settings UI. -->
+
+<!ENTITY restriction_disallow_import_settings_title2 "禁用“从 Android 导入”">
+<!ENTITY restriction_disallow_addons_title2 "禁用附加组件的安装">
+<!ENTITY restriction_disallow_devtools_title2 "禁用开发者工具">
+<!ENTITY restriction_disallow_customize_home_title2 "禁用首页定制">
+<!ENTITY restriction_disallow_private_browsing_title2 "禁用隐私浏览">
+<!ENTITY restriction_disallow_location_services_title2 "禁用地理位置服务">
+<!ENTITY restriction_disallow_display_settings_title2 "禁用“显示”设置">
+<!ENTITY restriction_disallow_clear_history_title2 "禁用“清除浏览记录”">
+<!ENTITY restriction_disallow_master_password_title2 "禁用主密码功能">
+<!ENTITY restriction_disallow_guest_browsing_title2 "禁用访客浏览">
+
