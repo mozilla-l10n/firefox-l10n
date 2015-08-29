@@ -17,7 +17,7 @@
 
 <!ENTITY rights.intro-point1a "&brandShortName; 提供给您时依照的条款为 ">
 <!ENTITY rights.intro-point1b "Mozilla 公共许可证（MPL）">
-<!ENTITY rights.intro-point1c "。这表示您可以使用、复制以及向他人分发 &brandShortName; 。我们也非常欢迎您按自己的需要修改 &brandShortName; 的源代码。 Mozilla 公共许可证也允许您分发自己修改过的软件。">
+<!ENTITY rights.intro-point1c "。这表示您可以使用、复制以及向他人分发 &brandShortName;。我们也非常欢迎您按自己的需要修改 &brandShortName; 的源代码。 Mozilla 公共许可证也允许您分发自己修改过的软件。">
 
 <!ENTITY rights.intro-point2a "Mozilla 并不授予您任何关于 Mozilla 以及 Thunderbird 商标或标志的权利。欲了解更详细的商标相关的信息，请参见 ">
 <!ENTITY rights.intro-point2b "这里">
