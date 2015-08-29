@@ -794,8 +794,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 
-
-
+<!ENTITY trackingProtection.block2.label "เปิดใช้งานการปกป้อง">
+<!ENTITY trackingProtection.block2.accesskey "เ">
 
 <!ENTITY trackingContentBlocked.message "การติดตาม">
 <!ENTITY trackingContentBlocked.moreinfo "บางส่วนของหน้าที่ติดตามกิจกรรมออนไลน์ของคุณถูกปิดกั้น">
