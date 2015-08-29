@@ -87,10 +87,14 @@
   -  checkbox that toggles visibility of hidden (non-enumerable) variables and
   -  properties in stack views. The "enumerable" flag is a state of a property
   -  defined in JavaScript. When in doubt, leave untranslated. -->
+
+<!ENTITY debuggerUI.showOnlyEnum           "শুধু গণনাযোগ্য বৈশিষ্ট্যসমূহ প্রদর্শন করো">
 <!ENTITY debuggerUI.showOnlyEnum.accesskey "P">
 <!-- LOCALIZATION NOTE (debuggerUI.showOriginalSource): This is the label for
   -  the checkbox that toggles the display of original or sourcemap-derived
   -  sources. -->
+
+<!ENTITY debuggerUI.showOriginalSource           "মূল উৎস প্রদর্শন করা হবে">
 <!ENTITY debuggerUI.showOriginalSource.accesskey "O">
 <!-- LOCALIZATION NOTE (debuggerUI.autoBlackBox): This is the label for
   -  the checkbox that toggles whether sources that we suspect are minified are
@@ -104,16 +108,22 @@
 <!ENTITY debuggerUI.searchPanelOperators    "অপারেটরগুলো:">
 <!-- LOCALIZATION NOTE (debuggerUI.searchFile): This is the text that appears
   -  in the source editor's context menu for the scripts search operation. -->
+
+<!ENTITY debuggerUI.searchFile           "স্ক্রিপ্ট ফিল্টার করো">
 <!ENTITY debuggerUI.searchFile.key       "P">
 <!ENTITY debuggerUI.searchFile.altkey    "O">
 <!ENTITY debuggerUI.searchFile.accesskey "P">
 <!-- LOCALIZATION NOTE (debuggerUI.searchGlobal): This is the text that appears
   -  in the source editor's context menu for the global search operation. -->
+
+<!ENTITY debuggerUI.searchGlobal           "সকল ফাইলে অনুসন্ধান করুন">
 <!ENTITY debuggerUI.searchGlobal.key       "F">
 <!ENTITY debuggerUI.searchGlobal.accesskey "F">
 <!-- LOCALIZATION NOTE (debuggerUI.searchFunction): This is the text that appears
   -  in the source editor's context menu for the function search operation. -->
 
+<!ENTITY debuggerUI.searchFunction           "ফাংশনের ডেফিনিশন খোঁজা হবে">
+<!ENTITY debuggerUI.searchFunction.key       "D">
 <!ENTITY debuggerUI.searchFunction.accesskey "D">
 <!-- LOCALIZATION NOTE (debuggerUI.searchToken): This is the text that appears
   -  in the source editor's context menu for the token search operation. -->
@@ -124,13 +134,19 @@
 <!-- LOCALIZATION NOTE (debuggerUI.searchLine): This is the text that appears
   -  in the source editor's context menu for the line search operation. -->
 
+<!ENTITY debuggerUI.searchGoToLine           "এই লাইনে যান…">
+<!ENTITY debuggerUI.searchGoToLine.key       "L">
 <!ENTITY debuggerUI.searchGoToLine.accesskey "L">
 <!-- LOCALIZATION NOTE (debuggerUI.searchVariable): This is the text that appears
   -  in the source editor's context menu for the variables search operation. -->
+
+<!ENTITY debuggerUI.searchVariable           "ভ্যারিয়েবল ফিল্টার করুন">
 <!ENTITY debuggerUI.searchVariable.key       "V">
 <!ENTITY debuggerUI.searchVariable.accesskey "V">
 <!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
   -  in the source editor's context menu for the variables focus operation. -->
+
+<!ENTITY debuggerUI.focusVariables           "ভেরিয়েবল ট্রি ফোকাস করুন">
 <!ENTITY debuggerUI.focusVariables.key       "V">
 <!ENTITY debuggerUI.focusVariables.accesskey "V">
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
@@ -139,10 +155,14 @@
 <!ENTITY debuggerUI.condBreakPanelTitle "শুধুমাত্র প্রদত্ত অভিব্যক্তি সত্যি হলেই এই ব্রেকপয়েন্ট সঞ্চালন করা বন্ধ করবে">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for adding a breakpoint. -->
+
+<!ENTITY debuggerUI.seMenuBreak     "ব্রেকপয়েন্ট যোগ করা">
 <!ENTITY debuggerUI.seMenuBreak.key "B">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuCondBreak): This is the text that
   -  appears in the source editor context menu for adding a conditional
   -  breakpoint. -->
+
+<!ENTITY debuggerUI.seMenuCondBreak     "শর্তাধীন ব্রেকপয়েন্ট যোগ করুন">
 <!ENTITY debuggerUI.seMenuCondBreak.key "B">
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
@@ -155,12 +175,18 @@
 <!ENTITY debuggerUI.tabs.events         "ঘটনাসমূহ">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
   -  appears in the source editor context menu for adding an expression. -->
+
+<!ENTITY debuggerUI.seMenuAddWatch      "এক্সপ্রেশন দেখার নিমিত্তে নির্বাচন">
 <!ENTITY debuggerUI.seMenuAddWatch.key  "E">
 <!-- LOCALIZATION NOTE (debuggerUI.addWatch): This is the text that
   -  appears in the watch expressions context menu for adding an expression. -->
+
+<!ENTITY debuggerUI.addWatch            "পর্যবেক্ষণ অভিব্যাক্তি যোগ করুন">
 <!ENTITY debuggerUI.addWatch.accesskey  "E">
 <!-- LOCALIZATION NOTE (debuggerUI.removeWatch): This is the text that
   -  appears in the watch expressions context menu for removing all expressions. -->
+
+<!ENTITY debuggerUI.removeAllWatch           "দেখে নেওয়া এক্সপ্রেশনগুলো সরিয়ে ফেলুন">
 <!ENTITY debuggerUI.removeAllWatch.key       "E">
 <!ENTITY debuggerUI.removeAllWatch.accesskey "E">
 <!-- LOCALIZATION NOTE (debuggerUI.stepping): These are the keycodes that
