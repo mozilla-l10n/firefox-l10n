@@ -6,7 +6,7 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Открыть приватное окно">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "о">
 <!ENTITY privateBrowsing.title "Приватный просмотр">
-<!ENTITY aboutPrivateBrowsing.width "25em">
+<!ENTITY aboutPrivateBrowsing.width1 "30em">
 <!ENTITY aboutPrivateBrowsing.title "Вы работаете в режиме приватности">
 <!ENTITY aboutPrivateBrowsing.subtitle "В этом окне &brandShortName; не будет запоминать никакой истории.">
 <!ENTITY aboutPrivateBrowsing.forgotten "В этом окне &brandShortName; не будет запоминать:">
@@ -21,7 +21,7 @@
 <!ENTITY aboutPrivateBrowsing.info.bookmarks "Закладки">
 <!ENTITY aboutPrivateBrowsing.note1 "Обратите внимание, что ваш работодатель или интернет-провайдер всё ещё могут следить за тем, какие страницы вы посещаете.">
 <!ENTITY aboutPrivateBrowsing.learnMore "Подробнее.">
-<!ENTITY trackingProtection.width "22em">
+<!ENTITY trackingProtection.width1 "22em">
 <!ENTITY trackingProtection.title "Защита от отслеживания">
 <!ENTITY trackingProtection.state.width "6ch">
 <!ENTITY trackingProtection.state.enabled "ВКЛ.">

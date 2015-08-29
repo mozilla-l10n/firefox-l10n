@@ -25,6 +25,7 @@
 <!ENTITY projectMenu_showPrefs_accesskey "с">
 <!ENTITY projectMenu_manageComponents_label "Управление дополнительными компонентами">
 <!ENTITY projectMenu_manageComponents_accesskey "п">
+<!ENTITY projectMenu_refreshTabs_label "Обновить вкладки">
 <!ENTITY runtimeMenu_label "Runtime">
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "Отсоединить">
