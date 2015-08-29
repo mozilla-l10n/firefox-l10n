@@ -11,6 +11,10 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.perfNotice1/2): These are the labels displayed
   -  in the network table when empty to start performance analysis. -->
 
+
+
+<!ENTITY netmonitorUI.perfNotice1         "ক্লিক করুন">
+
 <!-- LOCALIZATION NOTE (netmonitorUI.reload1/2/3): These are the labels displayed
   -  in the network table when empty to start logging network requests. -->
 <!ENTITY netmonitorUI.reloadNotice2       "পুনরায় লোড">
@@ -213,6 +217,8 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.security.connection): This is the label displayed
   -  in the security tab describing the section containing information related to
   -  the secure connection. -->
+
+<!ENTITY netmonitorUI.security.connection "সংযুক্ত করা হচ্ছে:">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.certificate): This is the label displayed
   -  in the security tab describing the server certificate section. -->
 
@@ -253,12 +259,16 @@
 <!ENTITY netmonitorUI.context.copyAsCurl.accesskey "C">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyRequestHeaders): This is the label displayed
   -  on the context menu that copies the selected item's request headers -->
+
+<!ENTITY netmonitorUI.context.copyRequestHeaders     "অনুরোধ হেডার কপি করুন">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyRequestHeaders.accesskey): This is the access key
   -  for the Copy Request Headers menu item displayed in the context menu for a request -->
 
 <!ENTITY netmonitorUI.context.copyRequestHeaders.accesskey  "Q">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyResponseHeaders): This is the label displayed
   -  on the context menu that copies the selected item's response headers -->
+
+<!ENTITY netmonitorUI.context.copyResponseHeaders     "রেসপন্স হেডার কপি করুন">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyResponseHeaders.accesskey): This is the access key
   -  for the Copy Response Headers menu item displayed in the context menu for a response -->
 
@@ -311,8 +321,12 @@
 <!ENTITY netmonitorUI.summary.rawHeaders "র হেডার">
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.rawHeaders.requestHeaders): This is the label displayed
   -  in the network details headers tab identifying the raw request headers textarea -->
+
+<!ENTITY netmonitorUI.summary.rawHeaders.requestHeaders "হেডার রিকোয়েস্ট করুন:">
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.rawHeaders.responseHeaders): This is the label displayed
   -  in the network details headers tab identifying the raw response headers textarea -->
+
+<!ENTITY netmonitorUI.summary.rawHeaders.responseHeaders "প্রতুত্তর শীর্ষচরণ:">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.newTab):  This is the label
   -  for the Open in New Tab menu item displayed in the context menu of the
   -  network container  -->
