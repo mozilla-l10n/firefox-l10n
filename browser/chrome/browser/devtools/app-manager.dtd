@@ -47,7 +47,7 @@
 <!ENTITY connection.connectTo "সংযোগ করুন:">
 <!ENTITY connection.noDeviceFound "কোন ডিভাইস পাওয়া যায়নি। একটি ডিভাইস যুক্ত করুন">
 <!ENTITY connection.changeHostAndPort "পরিবর্তন">
-
+<!ENTITY connection.changeHostAndPortTooltip "ডিভাইসের সাথে সংযোগ করতে ব্যবহৃত হোস্ট এবং পোর্ট পরিবর্তন করুন। (পূর্বনির্ধারিত মান localhost:6000)">
 <!ENTITY connection.startSimulator "সিমুলেটর চালু করুন">
 
 <!ENTITY connection.saveConnectionInfo "সংরক্ষণ">

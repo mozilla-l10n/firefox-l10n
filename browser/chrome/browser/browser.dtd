@@ -520,8 +520,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveLinkCmd.accesskey        "k">
 <!ENTITY saveImageCmd.label           "ছবি নতুনভাবে সংরক্ষণ… (v)">
 <!ENTITY saveImageCmd.accesskey       "v">
-
-
+<!ENTITY saveVideoCmd.label           "V ভিডিও নতুনভাবে সংরক্ষণ…">
+<!ENTITY saveVideoCmd.accesskey       "V">
 <!ENTITY saveAudioCmd.label           "অডিও নতুনভাবে সংরক্ষণ… (v)">
 <!ENTITY saveAudioCmd.accesskey       "v">
 <!ENTITY emailImageCmd.label          "ছবি ইমেইল করুন... g">
@@ -530,8 +530,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.accesskey      "a">
 <!ENTITY castVideoCmd.label           "ডিভাইসে ভিডিও পাঠান e">
 <!ENTITY castVideoCmd.accesskey       "e">
-
-
+<!ENTITY emailAudioCmd.label          "A অডিও ইমেইল করুন...">
+<!ENTITY emailAudioCmd.accesskey      "A">
 <!ENTITY playPluginCmd.label          "এই প্লাগইনটি সচল করুন c">
 <!ENTITY playPluginCmd.accesskey      "c">
 <!ENTITY hidePluginCmd.label          "প্লাগইনটি আড়াল করুন H">
@@ -704,11 +704,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
+<!ENTITY identity.enableMixedContentBlocking.label "E ইমেইলের নিরাপত্তা">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "E">
 <!ENTITY identity.disableMixedContentBlocking.label "এখন সুরক্ষা নিষ্ক্রিয় করুন">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "এ">
+<!ENTITY identity.learnMore "আরও জানুন">
 
-
+<!ENTITY identity.moreInfoLinkText2 "আরও তথ্য">
 
 <!ENTITY identity.permissions "অনুমোদন (P)">
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -759,12 +761,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.header2 "অতিরিক্ত টুল এবং ফিচার">
 <!ENTITY customizeMode.menuAndToolbars.empty "আরো টুলস চান?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "হাজারেরও বেশি অ্যাড-অন থেকে পছন্দ করুন">
-
+<!ENTITY customizeMode.restoreDefaults "ডিফল্ট মান পুনরায় স্থাপন করুন">
 <!ENTITY customizeMode.toolbars "টুলবার প্রদর্শন / লুকান">
 <!ENTITY customizeMode.titlebar "শিরোনাম বার">
 <!ENTITY customizeMode.lwthemes "থিম">
 <!ENTITY customizeMode.lwthemes.myThemes "আমার থিমগুলি">
-
+<!ENTITY customizeMode.lwthemes.recommended "সুপারিশকৃত">
 <!ENTITY customizeMode.lwthemes.menuManage "ব্যবস্থাপনা">
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "আরও থিম পান">
@@ -797,17 +799,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 
-
-
+<!ENTITY trackingProtection.block2.label "ইমেইলের নিরাপত্তা E">
+<!ENTITY trackingProtection.block2.accesskey "E">
 
 <!ENTITY trackingContentBlocked.message "অনুসরণ">
 <!ENTITY trackingContentBlocked.moreinfo "পৃষ্ঠার যে অংশগুলি অাপনার অন-লাইন কার্যকলাপ ট্র্যাক করে সেগুলি প্রতিরোধ করা হয়েছে।">
 <!ENTITY trackingContentBlocked.learnMore "আরও জানুন">
+<!ENTITY trackingContentBlocked.options "অপশন">
 
 
-
-
-
+<!ENTITY trackingContentBlocked.block.label "E ইমেইলের নিরাপত্তা">
+<!ENTITY trackingContentBlocked.block.accesskey "E">
 <!ENTITY trackingContentBlocked.disabled.message "ট্র্যাকিং সুরক্ষা নিষ্ক্রিয় করা হয়েছে">
 
 <!ENTITY pointerLock.notification.message "যেকোনো সময়ে এটিকে আবার দেখতে ESC চাপুন।">
@@ -856,8 +858,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY processHang.terminateScript.label        "স্ক্রিপ্ট বন্ধ করুন">
 <!ENTITY processHang.terminateScript.accessKey    "স">
-
-
+<!ENTITY processHang.debugScript.label            "D স্ক্রিপ্ট ডিবাগ">
+<!ENTITY processHang.debugScript.accessKey        "D">
 <!ENTITY processHang.terminatePlugin.label        "প্লাগিন(P) বন্ধ করুন">
 <!ENTITY processHang.terminatePlugin.accessKey    "P">
 <!ENTITY processHang.terminateProcess.label       "ওয়েব প্রসেসকে বন্ধ করুন(K)">
@@ -865,10 +867,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "DRM সম্পর্কে আরও জানুন…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
-
-
-
-
+<!ENTITY emeNotificationsNotNow.label             "N এখন নয়">
+<!ENTITY emeNotificationsNotNow.accesskey         "N">
+<!ENTITY emeNotificationsDontAskAgain.label       "D পুনরায় জিজ্ঞেস করা হবে না">
+<!ENTITY emeNotificationsDontAskAgain.accesskey   "D">
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 
 
