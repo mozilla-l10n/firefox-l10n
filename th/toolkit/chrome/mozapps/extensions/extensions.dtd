@@ -4,7 +4,7 @@
 <!ENTITY addons.windowTitle                   "ตัวจัดการส่วนเสริม">
 
 <!ENTITY search.placeholder                   "ค้นหาส่วนเสริมทั้งหมด">
-
+<!ENTITY search.buttonlabel                   "ค้นหา">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
@@ -23,7 +23,7 @@
 <!ENTITY cmd.back.tooltip                     "ย้อนกลับไปหนึ่งหน้า">
 <!ENTITY cmd.forward.tooltip                  "ไปข้างหน้าหนึ่งหน้า">
 
-
+<!ENTITY showAllExtensions.button.label       "แสดงส่วนขยายทั้งหมด">
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "ส่วนเสริมทั้งหมดถูกปิดใช้งานเมื่ออยู่ในโหมดปลอดภัย">
@@ -38,6 +38,8 @@
 <!ENTITY info.plugincheck.label                 "ตรวจสอบว่าโปรแกรมเสริมของคุณปรับรุ่นแล้วหรือยัง">
 <!ENTITY info.plugincheck.tooltip               "ตรวจสอบว่าโปรแกรมเสริมของคุณเป็นรุ่นล่าสุดแล้วหรือยัง">
 <!-- categories / views -->
+
+<!ENTITY view.search.label                    "ค้นหา">
 <!ENTITY view.discover.label                  "ติดตั้งส่วนเสริม">
 <!ENTITY view.recentUpdates.label             "การปรับรุ่นเมื่อเร็ว ๆ นี้">
 <!ENTITY view.availableUpdates.label          "การปรับรุ่นที่ตรวจพบ">
@@ -231,6 +233,7 @@
 <!ENTITY experiment.info.changetelemetry "ตั้งค่าการวัดและส่งข้อมูลทางไกล">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
 
+<!ENTITY setting.learnmore "เรียนรู้เพิ่มเติม…">
 
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
@@ -241,5 +244,5 @@
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
-
+<!ENTITY disabledUnsigned.devInfo.linkToManual "ด้วยตนเอง">
 
