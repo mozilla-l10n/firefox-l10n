@@ -19,8 +19,9 @@
      -->
 
 <!ENTITY aboutPrivateBrowsing.title            "আপনি ব্যাক্তিগত ব্রাউজিং করছেন">
+<!ENTITY aboutPrivateBrowsing.subtitle         "এই উইন্ডো, &brandShortName; কোন ইতিহাস মনে রাখবে না।">
 
-
+<!ENTITY aboutPrivateBrowsing.forgotten        "&brandShortName; এই উইন্ডোর কোনো ইতিহাস মনে রাখবে না।">
 <!ENTITY aboutPrivateBrowsing.info.forgotten   "ভুলে গেছে">
 <!ENTITY aboutPrivateBrowsing.info.history     "ইতিহাস">
 <!ENTITY aboutPrivateBrowsing.info.searches    "অনুসন্ধান">
@@ -49,7 +50,8 @@
 <!ENTITY trackingProtection.state.enabled      "ON">
 <!ENTITY trackingProtection.state.disabled     "OFF">
 
+<!ENTITY trackingProtection.description1       "পৃষ্ঠার যে অংশগুলি অাপনার অনলাইন কার্যকলাপ ট্র্যাক করে সেগুলি ব্যাক্তিগত উইন্ডো প্রতিরোধ করেছে।">
 
 <!ENTITY trackingProtection.disable            "ট্র্যাকিং প্রোটেকশন বন্ধ">
-
+<!ENTITY trackingProtection.enable             "ট্রাকিং সুরক্ষা চালু করুন">
 <!ENTITY trackingProtection.startTour1         "দেখুন এটা কিভাবে কাজ করে">

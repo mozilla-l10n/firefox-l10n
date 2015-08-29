@@ -110,7 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "A">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; এ সাইন ইন করুন">
-
+<!ENTITY fxaSignedIn.tooltip "পছন্দসমূহ &syncBrand.shortName.label; খুলুন">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; এ পুনরায় সংযুক্ত হউন">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; সক্রিয়">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; কিছুক্ষনের মধ্যে সিঙ্ক করা শুরু করবে।">
@@ -395,6 +395,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "ট্যাবে যান:">
 
+<!ENTITY urlbar.searchSuggestionsNotification.question "আপনি পরামর্শ দিয়ে আপনার অনুসন্ধান অভিজ্ঞতা উন্নত করতে চান?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "আরও জানুন…">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "না">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "হ্যাঁ">
@@ -692,17 +693,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionInternal "এটি একটি সুরক্ষিত &brandShortName; পৃষ্ঠা।">
 <!-- Strings for connection state warnings. -->
 
-
-
+<!ENTITY identity.activeBlocked "&brandShortName; নিরাপদ নয় তাই এই পৃষ্ঠার অংশ ব্লক করা হয়েছে।">
+<!ENTITY identity.passiveLoaded "এই পৃষ্ঠার অংশগুলো নিরাপদ নয়. (যেমন ছবি)">
+<!ENTITY identity.activeLoaded "আপনি এই পাতায় সুরক্ষা বন্ধ করেছেন.">
+<!ENTITY identity.weakEncryption "এই পাতা দুর্বল এনক্রিপশন ব্যবহার করে।">
 <!-- Strings for connection state warnings in the subview. -->
 
-
-
-
-
-
-
-
+<!ENTITY identity.description.insecure "এই সাইট এ আপনার সংযোগ ব্যক্তিগত নয়। আপনার জমা দেওয়া তথ্য অন্যদের দ্বারা দেখা যেতে পারে। (যেমন পাসওয়ার্ড, বার্তা, ক্রেডিট কার্ড ইত্যাদি)।">
+<!ENTITY identity.description.weakCipher "এই ওয়েবসাইটে আপনার সংযোগ দুর্বল এনক্রিপশন ব্যবহার করে এবং এটি ব্যক্তিগত নয়।">
+<!ENTITY identity.description.weakCipher2 "যে কেউ আপনার দেয়া তথ্য দেখতে পারে বা ওয়েব সাইটের আচরন পরিবর্তন করতে পারে।">
+<!ENTITY identity.description.activeBlocked "&brandShortName; নিরাপদ নয় তাই এই পৃষ্ঠার কিছু অংশ ব্লক করা হয়েছে।">
+<!ENTITY identity.description.passiveLoaded "আপনার সংযোগটি ব্যক্তিগত নয় এবং এই সাইটে আপনার শেয়ার করা তথ্য অন্যদের দ্বারা দেখা যেতে পারে।">
+<!ENTITY identity.description.passiveLoaded2 "এই ওয়েবসাইটে কিছু অনিরাপদ বিষয়বস্তু রয়েছে (যেমন ছবি)।">
+<!ENTITY identity.description.passiveLoaded3 "যদিও &brandShortName; কিছু কন্টেন্ট প্রতিরোধ করেছে, তবুও পেজটিতে এখনও কিছু কন্টেন্ট আছে যা নিরাপদ নয় (যেমন ছবি)।">
+<!ENTITY identity.description.activeLoaded "এই ওয়েবসাইটে যে বিষয়বস্তু রয়েছে তা নিরাপদ নয় (যেমন স্ক্রিপ্ট) এবং আপনার সংযোগটি ব্যক্তিগত নয়।">
+<!ENTITY identity.description.activeLoaded2 "আপনার এই সাইটে শেয়ার করা তথ্য অন্যরা দেখতে পারেন (যেমন পাসওয়ার্ড, বার্তা, ক্রেডিট কার্ড, ইত্যাদি।)।">
 
 <!ENTITY identity.enableMixedContentBlocking.label "E ইমেইলের নিরাপত্তা">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "E">
@@ -785,16 +790,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "যেসকল মাইক্রোফোন শেয়ার করা হবে: M">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
-
+<!ENTITY getUserMedia.audioCapture.label "এই ট্যাব এর অডিও শেয়ার করা হবে।">
 <!ENTITY getUserMedia.allWindowsShared.message "আপনার স্ক্রিনের সব দৃশ্যমান উইন্ডো শেয়ার করা হবে।">
 
-
-
-
+<!ENTITY trackingProtection.title "ট্রাকিং সুরক্ষা">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; পেজটির এই অংশগুলি প্রতিরোধ করেছে যা আপনার ব্রাউজিং ট্র্যাক করতে পারে।">
+<!ENTITY trackingProtection.detectedNotBlocked3 "এই সাইটে কিছু বস্তু আছে যা আপনার ব্রাউজার ট্রাক করবে। আপনি সুরক্ষা বন্ধ করেছেন।">
+<!ENTITY trackingProtection.notDetected3 "ট্রাকিং করার মত কোন কিছু এই পেজে পাওয়া যায়নি।">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-
+<!ENTITY trackingProtection.unblock.label "এই সাইটের জন্য সুরক্ষা বন্ধ করুন। D">
+<!ENTITY trackingProtection.unblock.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->

@@ -39,4 +39,4 @@
 
 <!ENTITY plugin.file                                         "ফাইল">
 <!ENTITY plugin.mimeTypes                                    "MIME এর ধরন">
-
+<!ENTITY plugin.flashProtectedMode.label                     "Adobe Flash সুরক্ষিত মোড সক্রিয় করুন">
