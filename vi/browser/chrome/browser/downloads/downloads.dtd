@@ -41,18 +41,18 @@
 <!ENTITY downloadsSummary.minWidth2       "21ch">
 
 <!ENTITY cmd.pause.label                  "Tạm dừng">
-<!ENTITY cmd.pause.accesskey              "P">
+<!ENTITY cmd.pause.accesskey              "m">
 <!ENTITY cmd.resume.label                 "Tiếp tục">
-<!ENTITY cmd.resume.accesskey             "R">
+<!ENTITY cmd.resume.accesskey             "T">
 <!ENTITY cmd.cancel.label                 "Hủy bỏ">
-<!ENTITY cmd.cancel.accesskey             "C">
+<!ENTITY cmd.cancel.accesskey             "H">
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
      cmd.showMac.accesskey):
      The show and showMac commands are never shown together, thus they can share
      the same access key (though the two access keys can also be different).
      -->
 <!ENTITY cmd.show.label                   "Mở thư mục chứa">
-<!ENTITY cmd.show.accesskey               "F">
+<!ENTITY cmd.show.accesskey               "m">
 <!ENTITY cmd.showMac.label                "Hiển thị trong Finder">
 <!ENTITY cmd.showMac.accesskey            "F">
 <!ENTITY cmd.retry.label                  "Thử lại">
@@ -97,8 +97,8 @@
      the panel at all.
      -->
 
-<!ENTITY downloadsHistory.label           "Xem tất cả Tải về">
-<!ENTITY downloadsHistory.accesskey       "S">
+<!ENTITY downloadsHistory.label           "Xem tất cả tải về">
+<!ENTITY downloadsHistory.accesskey       "c">
 
 <!ENTITY clearDownloadsButton.label       "Xóa các tải về">
 <!ENTITY clearDownloadsButton.tooltip     "Xóa các tải về thành công, bị hủy và thất bại">
