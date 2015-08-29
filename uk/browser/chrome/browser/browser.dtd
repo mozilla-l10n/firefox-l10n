@@ -767,7 +767,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Оберіть з тисяч додатків">
 <!ENTITY customizeMode.restoreDefaults "Відновити типові">
 <!ENTITY customizeMode.toolbars "Показати / Сховати панелі">
-<!ENTITY customizeMode.titlebar "Панель заголовку">
+<!ENTITY customizeMode.titlebar "Панель заголовка">
 <!ENTITY customizeMode.lwthemes "Теми">
 <!ENTITY customizeMode.lwthemes.myThemes "Мої теми">
 <!ENTITY customizeMode.lwthemes.recommended "Рекомендовані">
