@@ -42,7 +42,7 @@
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
 
-
+<!ENTITY performanceUI.toolbar.memory-calltree "অ্যাপ্লিকেশন">
 
 
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
@@ -54,7 +54,7 @@
 
 
 
-
+<!ENTITY performanceUI.table.samples                  "নমুনা">
 
 
 
@@ -77,6 +77,8 @@
 <!-- LOCALIZATION NOTE (performanceUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
   -  is displayed in the profiler. -->
+
+<!ENTITY performanceUI.showPlatformData             "গেকো প্ল্যাটফর্ম ডাটা দেখান">
 
 <!-- LOCALIZATION NOTE (performanceUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
