@@ -29,9 +29,9 @@
 <!ENTITY pref.default_task_end_of_day.label "نهاية اليوم">
 <!ENTITY pref.default_task_tomorrow.label "الغد">
 <!ENTITY pref.default_task_next_week.label "الأسبوع القادم">
-
-
-
+<!ENTITY pref.default_task_offset_current.label "ذا صلة بالوقت الحالي">
+<!ENTITY pref.default_task_offset_start.label "ذا صلة بالبدء">
+<!ENTITY pref.default_task_offset_next_hour.label "ذا صلة بالساعة القادمة">
 
 <!ENTITY pref.calendar.todaypane.agenda.caption "لوحة اليوم">
 <!ENTITY pref.soondays.label "قسم &quot;القادمة&quot; يُظهر:">
