@@ -805,7 +805,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-
+<!ENTITY trackingProtection.unblockPrivate.label "এই সেশনের জন্য সুরক্ষা নিষ্ক্রিয় D">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "D">
 <!ENTITY trackingProtection.block2.label "ইমেইলের নিরাপত্তা E">
 <!ENTITY trackingProtection.block2.accesskey "E">
 
