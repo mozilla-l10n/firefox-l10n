@@ -10,7 +10,10 @@
 <!ENTITY privatebrowsingpage.title.private "+ protección de rastreo">
 <!ENTITY privatebrowsingpage.title.normal1 "No estás en navegación privada">
 
-<!ENTITY privatebrowsingpage.description.private3 "Firefox evitará que te rastreen y no recordará el historial, pero los archivos descargados y los nuevos marcadores serán guardados en el dispositivo.">
+<!ENTITY privatebrowsingpage.description.private4 "&brandShortName; evitará que te rastreen y no recordará el historial, pero los archivos descargados y los nuevos marcadores serán guardados en el dispositivo.">
+<!-- Localization note (privatebrowsingpage.description.normal2): "Private
+     Browsing is capitalized in English to be consistent with our existing uses
+     of the term. -->
 <!ENTITY privatebrowsingpage.description.normal2 "En la navegación privada, no mantendremos el historial de navegación o cookies. Los marcadores agregados y archivos descargados serán guardados en el dispositivo.">
 
 <!ENTITY privatebrowsingpage.link.private "¿Querés saber más?">
