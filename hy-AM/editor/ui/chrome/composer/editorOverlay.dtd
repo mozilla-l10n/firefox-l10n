@@ -311,7 +311,7 @@
 <!ENTITY TextColorButton.tooltip "Ընտրեք տեքստի գույները">
 <!ENTITY BackgroundColorButton.tooltip "Ընտրեք խորապատկերի գույները">
 <!ENTITY throbber.tooltip "Անցնել &vendorShortName; մեկնարկային էջին">
-<!ENTITY HighlightColorButton.tooltip "Ընտրել ընդգծված գույնը տեքստի համար">
+<!ENTITY HighlightColorButton.tooltip "Ընտրել գունանշման գույնը տեքստի համար">
 <!-- Editor toolbar -->
 
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Տառատեսակը փոքր">
