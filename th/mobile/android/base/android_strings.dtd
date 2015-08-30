@@ -10,6 +10,7 @@
 <!ENTITY  onboard_start_subtext3 "สัมผัสประสบการณ์การท่องเว็บที่คุณเป็นเจ้าของอย่างแท้จริง">
 <!ENTITY  onboard_start_button_account "ลงชื่อเข้าใช้เพื่อใช้งาน &brandShortName;">
 <!ENTITY  onboard_start_button_browser "เริ่มต้นเข้าเว็บกันเลย">
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -67,6 +68,8 @@
 <!ENTITY edit_mode_cancel "ยกเลิก">
 
 <!ENTITY close_tab "ปิดแท็ป">
+
+
 <!ENTITY one_tab "1 แท็บ">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -154,6 +157,9 @@
 <!ENTITY pref_search_hint "เคล็ดลับ: เพิ่มเว็บไซต์ใดๆ เข้าในรายการผู้ให้บริการค้นหาของคุณ โดยการแตะค้างบนช่องค้นหาเว็บไซต์ จากนั้นแตะที่ไอคอน &formatI;">
 <!ENTITY pref_category_devtools "เครื่องมือนักพัฒนา">
 <!ENTITY pref_developer_remotedebugging "การดีบักผ่านเครือข่าย">
+
+
+
 <!ENTITY pref_category_logins "เข้าระบบ">
 
 
@@ -190,15 +196,18 @@
 <!ENTITY pref_cookies_not_accept_foreign "เปิดใช้งาน ยกเว้นจากเว็บที่ไม่ได้กำลังเปิด">
 <!ENTITY pref_cookies_disabled "ปิดใช้งาน">
 
-<!ENTITY pref_tracking_protection_title "ป้องกันการติดตาม">
-<!ENTITY pref_tracking_protection_summary "&brandShortName; จะป้องกันเว็บไซต์จากการติดตามคุณ">
+
 <!ENTITY pref_donottrack_title "ไม่ต้องติดตามการเชื่อมต่อ">
 <!ENTITY pref_donottrack_summary "&brandShortName; จะบอกไซต์ที่คุณไม่ต้องการถูกติดตาม">
+
+
+
+
 
 <!ENTITY tab_queue_toast_action "เปิดทันที">
 <!ENTITY tab_queue_prompt_title "เปิดหลายลิงก์?">
 
-<!ENTITY tab_queue_prompt_tip_text "คุณสามารถเปลี่ยนค่าได้ทีหลังจากหน้าการตั้งค่า">
+
 <!ENTITY tab_queue_prompt_positive_action_button "เปิดใช้งาน">
 <!ENTITY tab_queue_prompt_negative_action_button "ไม่ใช่ตอนนี้">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
@@ -301,7 +310,7 @@ size. -->
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 
-<!ENTITY datareporting_fhr_title "&brandShortName; ตัวรายงานข้อขัดข้อง">
+<!ENTITY datareporting_fhr_title "รายงานข้อมูลสุขภาพ &brandShortName;">
 <!ENTITY datareporting_fhr_summary2 "แบ่งปันข้อมูลสุขภาวะของเบราว์เซอร์ของคุณให้กับ &vendorShortName; เพื่อช่วยให้คุณเข้าใจประสิทธิภาพของเบราว์เซอร์ของคุณ">
 <!ENTITY datareporting_abouthr_title "ดูรายงานข้อมูลสุขภาพของฉัน">
 <!ENTITY datareporting_telemetry_title "การวัดและส่งข้อมูลทางไกล">
@@ -328,7 +337,6 @@ size. -->
 <!ENTITY addons "ส่วนเสริม">
 <!ENTITY logins "เข้าระบบ">
 <!ENTITY downloads "ดาวน์โหลด">
-<!ENTITY apps "แอป">
 <!ENTITY char_encoding "รหัสอักขระ">
 
 <!ENTITY share "แบ่งปัน">
@@ -398,6 +406,9 @@ size. -->
 <!ENTITY pref_titlebar_mode "แถบหัวเรื่อง">
 <!ENTITY pref_titlebar_mode_title "แสดงหัวเรื่องเว็บ">
 <!ENTITY pref_titlebar_mode_url "แสดงที่อยู่เว็บ">
+<!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
+     whether or not the magnifying glass is disabled. -->
+
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -423,7 +434,7 @@ size. -->
 <!ENTITY site_settings_cancel       "ยกเลิก">
 <!ENTITY site_settings_clear        "ล้าง">
 <!ENTITY site_settings_no_settings  "ไม่มีการตั้งค่าให้ล้าง">
-<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+<!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
 <!ENTITY reading_list_removed "ลบหน้าเว็บออกจากรายการอ่านของคุณแล้ว">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
@@ -541,21 +552,20 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_run_by "ให้บริการโดย">
-<!ENTITY identity_no_info "เว็บไซต์นี้ไม่ระบุข้อมูลอัตลักษณ์">
-<!ENTITY identity_not_encrypted "การเชื่อมต่อไปยังเว็บไซต์นี้ไม่มีการเข้ารหัส">
-<!ENTITY identity_encrypted "ถูกเข้ารหัสลับ">
+
 <!-- Mixed content notifications in site identity popup -->
+
+
+
 
 <!ENTITY loaded_mixed_content_message "หน้าเว็บนี้กำลังแสดงเนื้อหาที่ไม่ปลอดภัย">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; ได้ปิดกั้นเนื้อหาที่ไม่ปลอดภัย">
 <!ENTITY blocked_mixed_content_message_bottom "เว็บไซต์ส่วนใหญ่ยังสามารถทำงานได้ถูกต้องแม้เนื้อหานี้จะถูกปิดกั้น">
 <!-- Tracking content notifications in site identity popup -->
 
-<!ENTITY loaded_tracking_content_message_top "ปิดการป้องกันการติดตามแล้ว">
-<!ENTITY loaded_tracking_content_message_bottom "มีบางส่วนในหน้านี้อาจติดตามกิจกรรมออนไลน์ของคุณ">
-<!ENTITY blocked_tracking_content_message_top2 "เปิดการป้องกันการติดตามแล้ว">
-<!ENTITY blocked_tracking_content_message_bottom2 "ส่วนของหน้าที่ติดตามกิจกรรมออนไลน์ของคุณถูกปิดกั้น">
+
+
+
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "เรียนรู้เพิ่ม">
@@ -641,10 +651,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Voice search in the awesome bar -->
 
 <!ENTITY voicesearch_prompt "พูดตอนนี้">
-<!ENTITY voicesearch_failed_title "การค้นหาด้วยเสียง &brandShortName;">
-<!ENTITY voicesearch_failed_message "ไม่สามารถใช้การค้นหาด้วยเสียงได้ในขณะนี้ โปรดลองใหม่ทีหลัง">
-<!ENTITY voicesearch_failed_message_recoverable "ขออภัย! เราไม่เข้าใจที่คุณพูด โปรดลองอีกครั้ง">
-<!ENTITY voicesearch_failed_retry "ลองใหม่">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -662,3 +668,22 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY find_matchcase "Aa">
 
 <!ENTITY intent_uri_cannot_open "ไม่สามารถเปิดลิงก์">
+<!-- DevTools Authentication -->
+<!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
+     above a QR reader that is actively scanning for QR codes.  The expected QR
+     code has already been displayed by the client trying to connect (such as
+     desktop Firefox via WebIDE), so you just need to aim this device at the QR
+     code. -->
+<!-- Restrictions -->
+<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+     a restricted profile (e.g. child). Used inside the Android settings UI. -->
+
+
+
+
+
+
+
+
+
+
