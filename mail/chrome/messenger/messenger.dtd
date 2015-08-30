@@ -203,7 +203,7 @@
 <!ENTITY sortDescending.label "Նվազող">
 <!ENTITY sortDescending.accesskey "D">
 <!ENTITY sortThreaded.label "Թեմատիկ">
-<!ENTITY sortThreaded.accesskey "T">
+<!ENTITY sortThreaded.accesskey "Թ">
 <!ENTITY sortUnthreaded.label "Անթեմատիկ">
 <!ENTITY sortUnthreaded.accesskey "h">
 <!ENTITY groupBySort.label "Դասավորված ըստ տեսակի">
@@ -214,20 +214,20 @@
 <!ENTITY threads.accesskey "e">
 <!ENTITY allMsgsCmd.label "Բոլորը">
 <!ENTITY allMsgsCmd.accesskey "A">
-<!ENTITY expandAllThreadsCmd.label "Բացազատել բոլորը">
-<!ENTITY expandAllThreadsCmd.accesskey "E">
+<!ENTITY expandAllThreadsCmd.label "Ընդարձակել բոլորը">
+<!ENTITY expandAllThreadsCmd.accesskey "Ը">
 <!ENTITY expandAllThreadsCmd.key "*">
-<!ENTITY collapseAllThreadsCmd.label "Հավաքել բոլորը">
-<!ENTITY collapseAllThreadsCmd.accesskey "C">
+<!ENTITY collapseAllThreadsCmd.label "Կոծկել բոլորը">
+<!ENTITY collapseAllThreadsCmd.accesskey "Կ">
 <!ENTITY collapseAllThreadsCmd.key "\">
 <!ENTITY unreadMsgsCmd.label "Չընթերցված">
 <!ENTITY unreadMsgsCmd.accesskey "U">
 <!ENTITY threadsWithUnreadCmd.label "Շղթաները Չընթերցվածների հետ">
-<!ENTITY threadsWithUnreadCmd.accesskey "T">
+<!ENTITY threadsWithUnreadCmd.accesskey "Շ">
 <!ENTITY watchedThreadsWithUnreadCmd.label "Դիտված շղթաներ՝ Չընթերցվածների հետ">
-<!ENTITY watchedThreadsWithUnreadCmd.accesskey "W">
+<!ENTITY watchedThreadsWithUnreadCmd.accesskey "Դ">
 <!ENTITY ignoredThreadsCmd.label "Անտեսված շղթաներ">
-<!ENTITY ignoredThreadsCmd.accesskey "I">
+<!ENTITY ignoredThreadsCmd.accesskey "Ա">
 
 <!ENTITY headersMenu.label "Գլխագրեր">
 <!ENTITY headersMenu.accesskey "H">
@@ -296,7 +296,7 @@
 <!ENTITY nextStarredMsgCmd.label "Աստղիկով նամակ">
 <!ENTITY nextStarredMsgCmd.accesskey "S">
 <!ENTITY nextUnreadThread.label "Չընթերցված շղթա">
-<!ENTITY nextUnreadThread.accesskey "T">
+<!ENTITY nextUnreadThread.accesskey "շ">
 <!ENTITY nextUnreadThread.key "Չ">
 <!ENTITY prevMenu.label "Նախորդը">
 <!ENTITY prevMenu.accesskey "P">
@@ -378,7 +378,7 @@
 <!ENTITY killThreadMenu.accesskey "Ա">
 <!ENTITY killThreadMenu.key "Ա">
 <!ENTITY killSubthreadMenu.label "Անտեսել ենթաշղթան">
-<!ENTITY killSubthreadMenu.accesskey "S">
+<!ENTITY killSubthreadMenu.accesskey "ե">
 <!ENTITY killSubthreadMenu.key "Ա">
 <!ENTITY watchThreadMenu.label "Հետևել շղթային">
 <!ENTITY watchThreadMenu.accesskey "Հ">

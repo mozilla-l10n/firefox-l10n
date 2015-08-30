@@ -29,7 +29,7 @@
 <!ENTITY actualSize.label "Իրական չափը.">
 <!ENTITY actualSizeRadio.label "Իրական չափը">
 <!ENTITY actualSizeRadio.accessKey "Ի">
-<!ENTITY actualSizeRadio.tooltip "Ետարկել նկարի իրական չափը">
+<!ENTITY actualSizeRadio.tooltip "Հետադարձել նկարի իրական չափը">
 <!ENTITY customSizeRadio.label "Որոշված չափ">
 <!ENTITY customSizeRadio.accessKey "Ո">
 <!ENTITY customSizeRadio.tooltip "Փոխել նկարի չափը, ինչպես որ էջում է">
