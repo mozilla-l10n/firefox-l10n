@@ -6,7 +6,7 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Buka satu tetingkap sulit">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
 
-<!ENTITY privateBrowsing.title                 "Melayari Secara Peribadi">
+<!ENTITY privateBrowsing.title                 "Pelayaran Persendirian">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
      Width of the Private Browsing section.
      -->
@@ -21,7 +21,7 @@
 <!ENTITY aboutPrivateBrowsing.title            "Anda melayari secara privasi">
 <!ENTITY aboutPrivateBrowsing.subtitle         "Dalam tetingkap ini, &brandShortName; tidak akan menyimpan sebarang sejarah.">
 
-
+<!ENTITY aboutPrivateBrowsing.info.forgotten   "Dilupakan">
 <!ENTITY aboutPrivateBrowsing.info.history     "Sejarah">
 
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Cookie">
