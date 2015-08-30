@@ -34,6 +34,6 @@
      preferences/options item on about:home on Linux and OS X -->
 <!ENTITY abouthome.preferencesButtonUnix.label  "ਮੇਰੀ ਪਸੰਦ">
 <!ENTITY abouthome.addonsButton.label    "ਐਡ-ਆਨ">
-<!ENTITY abouthome.appsButton.label      "ਬਾਜ਼ਾਰ">
+<!ENTITY abouthome.appsButton2.label     "ਐਪਸ">
 <!ENTITY abouthome.downloadsButton.label "ਡਾਊਨਲੋਡ">
 <!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">

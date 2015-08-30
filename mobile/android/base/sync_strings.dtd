@@ -139,8 +139,7 @@
 <!ENTITY fxaccount_policy_linkprivacy 'ਪਰਦੇਦਾਰੀ ਨੀਤੀ'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync '&syncBrand.shortName.label; ਲਈ ਜੀ ਆਇਆਂ ਨੂੰ'>
-<!ENTITY fxaccount_getting_started_description2 ''ਆਪਣੀਆਂ ਟੈਬਾਂ, ਬੁੱਕਮਾਰਕ, ਲਾਗਇਨ 
-ਤੇ ਹੋਰਾਂ ਨੂੰ ਸਿੰਕ ਕਰਨ ਲਈ ਸਾਇਨ ਇਨ ਕਰੋ।'>
+<!ENTITY fxaccount_getting_started_description2 'ਆਪਣੀਆਂ ਟੈਬਾਂ, ਬੁੱਕਮਾਰਕ, ਲਾਗਇਨ ਤੇ ਹੋਰਾਂ ਨੂੰ ਸਿੰਕ ਕਰਨ ਲਈ ਸਾਇਨ ਇਨ ਕਰੋ।'>
 <!ENTITY fxaccount_getting_started_get_started 'ਸ਼ੁਰੂ ਕਰੀਏ'>
 <!ENTITY fxaccount_getting_started_old_firefox ' &syncBrand.shortName.label; ਦੇ ਪੁਰਾਣੇ ਵਰਜ਼ਨ ਦੀ ਵਰਤੋਂ ਨਾਲ?'>
 
