@@ -9,10 +9,10 @@
 <!ENTITY doNotTrackInfo.label          "សិក្សា​​បន្ថែម">
 <!ENTITY trackingProtection5.label     "ប្រើប្រាស់​ការ​ទប់​ស្កាត់​ការ​តាម​ដាន">
 <!ENTITY trackingProtection5.accesskey "i">
-
+<!ENTITY trackingProtectionLearnMore.label "ស្វែងយល់​បន្ថែម​">
 <!ENTITY trackingProtectionPBM5.label         "ប្រើ​ការ​ទប់​ស្កាត់​ការ​តាម​ដាន​នៅ​ក្នុង​បង្អួចឯកជន​">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
-
+<!ENTITY trackingProtectionPBMLearnMore.label "ស្វែងយល់​បន្ថែម​">
 
 <!ENTITY  history.label                 "ប្រវត្តិ">
 
