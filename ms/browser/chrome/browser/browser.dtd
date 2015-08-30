@@ -762,7 +762,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.recommended "Disyorkan">
 <!ENTITY customizeMode.lwthemes.menuManage "Urus">
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
-
+<!ENTITY customizeMode.lwthemes.menuGetMore "Dapatkan Lagi Banyak Tema">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 
 <!ENTITY social.chatBar.commandkey "c">
