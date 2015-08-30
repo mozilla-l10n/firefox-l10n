@@ -25,18 +25,18 @@
 <!ENTITY community.exp.start        "দেখান">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
-<!ENTITY community.exp.middle       "হচ্ছে">
+<!ENTITY community.exp.middle       " হচ্ছে একটি ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
-<!ENTITY community.exp.creditsLink  "আন্তর্জাতিক সম্প্রদায়">
-<!ENTITY community.exp.end          " যারা ওয়েব কে মুক্ত, সার্বজনীন ও প্রবেশযোগ্য রাখতে, একসাথে কাজ করে যাচ্ছে।">
+<!ENTITY community.exp.creditsLink  "আন্তর্জাতিক সম্প্রদায় ">
+<!ENTITY community.exp.end          "যারা ওয়েব কে মুক্ত, সার্বজনীন ও প্রবেশযোগ্য রাখতে, একসাথে কাজ করে যাচ্ছে। ">
 
-<!ENTITY community.start2           "&brandShortName;  নকশা করেছে">
+<!ENTITY community.start2           "&brandShortName; নকশা করেছে ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
-<!ENTITY community.mozillaLink      "&vendorShortName;">
-<!ENTITY community.middle2          ", a ">
+<!ENTITY community.mozillaLink      "&vendorShortName; ">
+<!ENTITY community.middle2          ", একটি ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "আন্তর্জাতিক সম্প্রদায়">
-<!ENTITY community.end3             " যারা ওয়েব কে মুক্ত, সার্বজনীন ও প্রবেশযোগ্য রাখতে, একসাথে কাজ করে যাচ্ছে।">
+<!ENTITY community.creditsLink      "আন্তর্জাতিক সম্প্রদায় ">
+<!ENTITY community.end3             " যারা ওয়েব কে মুক্ত, সার্বজনীন ও প্রবেশযোগ্য রাখতে, একসাথে কাজ করে যাচ্ছে। ">
 
 <!ENTITY helpus.start               "সাহায্য করতে চান? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
@@ -50,17 +50,17 @@
 <!ENTITY bottomLinks.license        "লাইসেন্স এর তথ্য">
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
 
-<!ENTITY bottomLinks.rights         "প্রান্তিক ব্যবহারকারীর অধিকার">
+<!ENTITY bottomLinks.rights         "প্রান্তিক ব্যবহারকারীর অধিকার ">
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
 
-<!ENTITY bottomLinks.privacy        "গোপনীয়তা নীতি">
+<!ENTITY bottomLinks.privacy        "গোপনীয়তা নীতি ">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.checkingForUpdates  "হালনাগাদ পরীক্ষা করা হচ্ছে...">
+<!ENTITY update.checkingForUpdates  "হালনাগাদ পরীক্ষা করা হচ্ছে... ">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.noUpdatesFound      "&brandShortName; হালনাগাদ করা হয়েছে">
+<!ENTITY update.noUpdatesFound      "&brandShortName; হালনাগাদ করা হয়েছে ">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "সিস্টেম প্রশাসক কর্তৃক হালনাগাদ নিস্ক্রিয় করা রয়েছে">
+<!ENTITY update.adminDisabled       "সিস্টেম প্রশাসক কর্তৃক হালনাগাদ নিস্ক্রিয় করা রয়েছে ">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; অন্য স্থানে হালনাগাদ হয়েছে">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
@@ -77,7 +77,7 @@
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.manual.start        "হালনাগাদ পাওয়া যাবে ">
+<!ENTITY update.manual.start        "হালনাগাদ যেখানে পাওয়া যাবে ">
 <!ENTITY update.manual.end          "">
 <!-- LOCALIZATION NOTE (update.unsupported.start,update.unsupported.linkText,update.unsupported.end):
      update.unsupported.start, update.unsupported.linkText, and
