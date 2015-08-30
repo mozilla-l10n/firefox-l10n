@@ -22,7 +22,7 @@
 <!ENTITY publishCmd.key "Հ">
 <!ENTITY publishAsCmd.label "Հրապարակել որպես...">
 <!ENTITY publishAsCmd.accesskey "Հ">
-<!ENTITY fileRevert.label "Ետարկել ">
+<!ENTITY fileRevert.label "Հետադարձել">
 <!ENTITY fileRevert.accesskey "լ">
 <!-- Edit menu items -->
 

@@ -12,7 +12,7 @@
 <!ENTITY checkbox.value "Ընտրադաշտը">
 <!ENTITY radio.value "Ռադիոյի կոճակը">
 <!ENTITY submit.value "Ուղարկելու կոճակը">
-<!ENTITY reset.value "Ետարկելու կոճակը">
+<!ENTITY reset.value "Վերակայելու կոճակը">
 <!ENTITY file.value "Ֆայլ">
 <!ENTITY hidden.value "Թաքնված">
 <!ENTITY image.value "Նկար">
