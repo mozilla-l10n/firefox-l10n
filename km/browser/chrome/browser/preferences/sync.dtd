@@ -71,7 +71,7 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "អ្នក​មិន​បាន​ចូល។">
 <!ENTITY signIn.label                "ចូល">
-
+<!ENTITY profilePicture.tooltip      "ផ្លាស់ប្តូរ​​រូប​ប្រូ​ហ្វាល់">
 <!ENTITY manage.label                "គ្រប់គ្រង">
 <!ENTITY disconnect.label            "កំពុង​ផ្ដាច់...">
 <!ENTITY verify.label                "ផ្ទៀងផ្ទាត់​អ៊ីមែល">
@@ -85,7 +85,7 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY signedOut.caption            "យក​បណ្ដាញ​របស់​អ្នក​ជាមួយ​អ្នក">
 <!ENTITY signedOut.description        "ធ្វើ​សម​កាល​កម្ម​ចំណាំ​ ប្រវត្តិ ផ្ទាំង ពាក្យ​សម្ងាត់​ កម្មវិធី​ផ្នែក​បន្ថែម​ និង​ចំណូល​ចិត្ត​របស់​អ្នក​ ចំពោះ​គ្រប់​ឧបករណ៍​របស់​អ្នក។​">
-
+<!ENTITY signedOut.accountBox.title   "ភ្ជាប់​ជាមួយ​ &syncBrand.fxAccount.label;">
 
 <!ENTITY signedOut.accountBox.signin  "ចូល">
 
@@ -93,5 +93,6 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY mobilePromo.start            "ទាញ​យក​ Firefox សម្រាប់​">
 <!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
-
+<!ENTITY mobilePromo.androidLink      "Android™">
+<!ENTITY mobilePromo.end              "​ធ្វើ​សម​កាល​កម្ម​​ឧបករណ៍​ចល័ត​របស់​អ្នក។">
 <!ENTITY androidAttribution           "Android គឺ​ជា​ពាណិជ្ជ​សញ្ញា​​​របស់ Google Inc.">
