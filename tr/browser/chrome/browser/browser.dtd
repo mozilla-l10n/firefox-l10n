@@ -701,9 +701,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.weakCipher "Bu siteye bağlatnınız zayıf bir şifreleme kullanıyor ve size özel değil.">
 <!ENTITY identity.description.weakCipher2 "Başkaları bilgilerinizi görebilir veya web sitesinin davranışını değiştirebilir.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; bu sayfanın güvenli olmayan kısımlarını engelledi.">
-
-
-
+<!ENTITY identity.description.passiveLoaded "Bağlantınız size özel değil ve bu siteyle paylaştığınız bilgiler başkaları tarafından görülebilir.">
+<!ENTITY identity.description.passiveLoaded2 "Bu sitede güvenli olmayan içerikler var (resim vb).">
+<!ENTITY identity.description.passiveLoaded3 "&brandShortName; bazı içerikleri engellemiş olmasına rağmen bu sayfada hâlâ güvenli olmayan içerikler (örn. resimler) var.">
 
 
 
