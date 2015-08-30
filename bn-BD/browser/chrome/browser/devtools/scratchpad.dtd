@@ -58,13 +58,16 @@
 
 
 
+<!ENTITY highlightTrailingSpace.label     "ট্রেইলিং স্পেস হাইলাইট করুন H">
+<!ENTITY highlightTrailingSpace.accesskey "H">
 
-
-
+<!ENTITY largerFont.label             "বড় ফন্ট a">
+<!ENTITY largerFont.accesskey         "a">
 
 <!-- + is above this key on many keyboards -->
 
-
+<!ENTITY smallerFont.label            "ছোট ফন্ট m">
+<!ENTITY smallerFont.accesskey        "m">
 
 
 
