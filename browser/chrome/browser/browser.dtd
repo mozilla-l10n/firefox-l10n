@@ -644,6 +644,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "w">  
 <!ENTITY closeCmd.accesskey             "ป">
 
+<!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "รูปแบบหน้า">
 <!ENTITY pageStyleMenu.accesskey "บ">
@@ -683,7 +684,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "เสร็จ">
 <!ENTITY editBookmark.cancel.label                   "ยกเลิก">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "การเชื่อมต่อนิรภัย">
 <!ENTITY identity.connectionNotSecure "การเชื่อมต่อไม่นิรภัย">
@@ -793,7 +794,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "หน้าตาที่ปรากฏอยู่ทั้งหมดบนหน้าจอของคุณจะถูกใช้ร่วมกัน">
 
 <!ENTITY trackingProtection.title "ป้องกันการติดตาม">
-
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; กำลังปิดกั้นบางส่วนของหน้านี้ที่อาจจะติดตามการท่องเว็บของคุณ">
 <!ENTITY trackingProtection.detectedNotBlocked3 "เว็บไซต์นี้มีส่วนประกอบที่อาจจะตามรอยการเปิดเว็บของคุณ คุณได้ปิดใช้การป้องกัน">
 <!ENTITY trackingProtection.notDetected3 "ไม่พบส่วนประกอบที่ทำการติดตามในหน้านี้">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
