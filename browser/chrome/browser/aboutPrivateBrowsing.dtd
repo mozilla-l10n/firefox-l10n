@@ -19,7 +19,7 @@
      -->
 
 <!ENTITY aboutPrivateBrowsing.title            "Anda melayari secara privasi">
-
+<!ENTITY aboutPrivateBrowsing.subtitle         "Dalam tetingkap ini, &brandShortName; tidak akan menyimpan sebarang sejarah.">
 
 
 <!ENTITY aboutPrivateBrowsing.info.history     "Sejarah">
@@ -27,7 +27,7 @@
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Cookie">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Fail Sementara">
 
-
+<!ENTITY aboutPrivateBrowsing.info.kept        "Disimpan">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Muat turun">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Penandabuku">
 
@@ -48,6 +48,7 @@
 
 
 
+<!ENTITY trackingProtection.description1       "Tetingkap Persendirian kini menghalang sebahagian daripada halaman yang mungkin menjejaki aktiviti pelayaran anda.">
 
 <!ENTITY trackingProtection.disable            "Matikan Perlindungan Penjejakan">
 <!ENTITY trackingProtection.enable             "Hidupkan Perlindungan Penjejakan">
