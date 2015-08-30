@@ -244,7 +244,7 @@
 <!ENTITY calendar.context.unsubscribeserver.label      "Odhlásit kalendář…">
 <!ENTITY calendar.context.unsubscribeserver.accesskey  "d">
 <!ENTITY calendar.context.synccalendars.label "Synchronizovat kalendáře">
-<!ENTITY calendar.context.synccalendars.accesskey "S">
+<!ENTITY calendar.context.synccalendars.accesskey "y">
 <!ENTITY calendar.context.publish.label "Publikovat kalendář">
 <!ENTITY calendar.context.publish.accesskey "P">
 <!ENTITY calendar.context.export.label "Exportovat kalendář…">
@@ -252,13 +252,17 @@
 <!ENTITY calendar.context.properties.label "Možnosti">
 <!ENTITY calendar.context.properties.accesskey "M">
 
-<!-- LOCALIZATION NOTE (calendar.context.togglevisible.accesskey)
+<!-- LOCALIZATION NOTE (calendar.context.showcalendar.accesskey)
      This is the access key used for the showCalendar string -->
-<!ENTITY calendar.context.togglevisible.accesskey      "Z">
+<!ENTITY calendar.context.showcalendar.accesskey      "Z">
+
+<!-- LOCALIZATION NOTE (calendar.context.hidecalendar.accesskey)
+     This is the access key used for the hideCalendar string -->
+<!ENTITY calendar.context.hidecalendar.accesskey      "S">
 
 <!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
      This is the access key used for the showOnlyCalendar string -->
-<!ENTITY calendar.context.showonly.accesskey           "p">
+<!ENTITY calendar.context.showonly.accesskey           "o">
 <!ENTITY calendar.context.showall.label                "Zobrazit všechny kalendáře">
 <!ENTITY calendar.context.showall.accesskey            "v">
 
