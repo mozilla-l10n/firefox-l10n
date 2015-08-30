@@ -695,7 +695,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.activeBlocked "&brandShortName; নিরাপদ নয় তাই এই পৃষ্ঠার অংশ ব্লক করা হয়েছে।">
 <!ENTITY identity.passiveLoaded "এই পৃষ্ঠার অংশগুলো নিরাপদ নয়. (যেমন ছবি)">
-<!ENTITY identity.activeLoaded "আপনি এই পাতায় সুরক্ষা বন্ধ করেছেন.">
+<!ENTITY identity.activeLoaded "আপনি এই পাতায় সুরক্ষা বন্ধ করেছেন।">
 <!ENTITY identity.weakEncryption "এই পাতা দুর্বল এনক্রিপশন ব্যবহার করে।">
 <!-- Strings for connection state warnings in the subview. -->
 
@@ -814,7 +814,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.moreinfo "পৃষ্ঠার যে অংশগুলি অাপনার অন-লাইন কার্যকলাপ ট্র্যাক করে সেগুলি প্রতিরোধ করা হয়েছে।">
 <!ENTITY trackingContentBlocked.learnMore "আরও জানুন">
 <!ENTITY trackingContentBlocked.options "অপশন">
-<!ENTITY trackingContentBlocked.unblock2.label "এই সাইটের জন্য সুরক্ষা বন্ধ করুন। D">
+<!ENTITY trackingContentBlocked.unblock2.label "এই সাইটের জন্য সুরক্ষা বন্ধ করুন D">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "E ইমেইলের নিরাপত্তা">
 <!ENTITY trackingContentBlocked.block.accesskey "E">
@@ -843,6 +843,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
+
+<!ENTITY panicButton.view.mainTimeframeDesc       "আগেরটি ভুলে যান:">
 <!ENTITY panicButton.view.5min                    "পাঁচ মিনিট">
 <!ENTITY panicButton.view.2hr                     "দুই ঘণ্টা">
 <!ENTITY panicButton.view.day                     "24 ঘন্টা">
@@ -881,6 +883,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "D">
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 
-
-
+<!ENTITY saveToPocketCmd.label     "পকেট এ পাতাটি সংরক্ষণ করুন k">
+<!ENTITY saveToPocketCmd.accesskey "k">
+<!ENTITY saveLinkToPocketCmd.label     "পকেট এ লিঙ্কটি সংরক্ষণ করুন o">
+<!ENTITY saveLinkToPocketCmd.accesskey "o">
 <!ENTITY pocketMenuitem.label      "পকেট তালিকা দেখুন">
