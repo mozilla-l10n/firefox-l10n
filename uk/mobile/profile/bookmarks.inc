@@ -4,7 +4,7 @@
 #filter emptyLines
 
 # LOCALIZATION NOTE: The 'en-US' strings in the URLs will be replaced with
-# your locale code, and link to your translated pages as soon as they're
+# your locale code, and link to your translated pages as soon as they're 
 # live.
 
 # LOCALIZATION NOTE: Some of these URLs are currently 404s, but should be coming
@@ -23,7 +23,7 @@
 #define bookmarks_addons Firefox: Пристосування додатками
 
 # LOCALIZATION NOTE (bookmarks_support):
-# link title for https://mobile.support.mozilla.com
+# link title for https://support.mozilla.org/
 #define bookmarks_support Firefox: Підтримка
 
 # LOCALIZATION NOTE (bookmarks_marketplace):

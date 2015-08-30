@@ -10,7 +10,7 @@
 <!-- Main titles. -->
 <!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
 <!ENTITY sync.title.connect.label 'Під’єднатись до &syncBrand.shortName.label;'>
-<!ENTITY sync.title.adddevice.label 'Додати акаунт &syncBrand.fullName.label;'>
+<!ENTITY sync.title.adddevice.label 'Додати обліковий запис &syncBrand.fullName.label;'>
 <!ENTITY sync.title.pair.label 'Під’єднати пристрій'>
 
 <!-- J-PAKE Key Screen -->
@@ -28,7 +28,7 @@
 <!ENTITY sync.jpake.subtitle.waiting.label 'Чекаю на інший пристрій…'>
 
 <!-- Account Login Screen -->
-<!ENTITY sync.subtitle.account.label 'Введіть дані вашого акаунта &syncBrand.fullName.label;'>
+<!ENTITY sync.subtitle.account.label 'Введіть дані свого облікового запису &syncBrand.fullName.label;'>
 <!ENTITY sync.input.username.label 'Користувач'>
 <!ENTITY sync.input.password.label 'Пароль'>
 <!ENTITY sync.input.key.label 'Ключ відновлення'>
@@ -41,22 +41,22 @@
 <!ENTITY sync.button.tryagain.label 'Спробувати ще'>
 <!ENTITY sync.button.manual.label 'Налаштувати вручну'>
 <!ENTITY sync.subtitle.nointernet.label 'З’єднання з інтернетом відсутнє.'>
-<!ENTITY sync.subtitle.failaccount.label 'Створити акаунт на пристрої не вдалось.'>
-<!ENTITY sync.subtitle.failmultiple.label 'У вас встановлено кілька Firefox’ів? Наразі &syncBrand.fullName.label; підтримує лише одну інсталяцію Firefox. Вилучте інші щоб використовувати &syncBrand.shortName.label;.'>
+<!ENTITY sync.subtitle.failaccount.label 'Не вдалося створити обліковий запис на вашому пристрої.'>
+<!ENTITY sync.subtitle.failmultiple.label 'У вас встановлено більше одного Firefox? В даний момент &syncBrand.fullName.label; підтримує роботу лише з одним встановленням Firefox. Для використання Синхронізації, вилучіть інші встановлення.'>
 
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Налаштування завершено'>
-<!ENTITY sync.subtitle.success.label1 'Ваші дані завантажуються походу. Ви можете зайти в Настройки щоб керувати вашим акаунтом, чи почати перегляд з &brandShortName;.'>
+<!ENTITY sync.subtitle.success.label1 'Ваші дані завантажуються в фоновому режимі. Ви можете перейти в Налаштування, щоб керувати своїм обліковим записом, або почати перегляд з &brandShortName;.'>
 <!ENTITY sync.settings.label 'Настройки'>
-<!ENTITY sync.subtitle.manage.label1 'Ваш акаунт &syncBrand.fullName.label; вже налаштовано. Ви можете зайти в Настройки щоб керувати вашим акаунтом, чи запустити &brandShortName;.'>
+<!ENTITY sync.subtitle.manage.label1 'Ваш обліковий запис &syncBrand.fullName.label; вже налаштовано. Ви можете перейти в Налаштування, щоб керувати своїм обліковим записом, або запустити &brandShortName;.'>
 
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label 'Спробуйте ще раз.'>
-<!ENTITY sync.pair.connectlocation.label 'Щоб активувати ваш новий пристрій, виберіть «Налаштувати &syncBrand.shortName.label;» на пристрої і потів виберіть “Я вже маю акаунт.”'>
+<!ENTITY sync.pair.connectlocation.label 'Щоб активувати свій новий пристрій, виберіть «Налаштувати &syncBrand.shortName.label;» на пристрої і потім виберіть “Я маю обліковий запис”.'>
 
 <!-- Firefox SyncAdapter Settings Screen -->
 <!ENTITY sync.settings.options.label 'Настройки'>
-<!ENTITY sync.summary.pair.label 'Під’єднати ще один пристрій до вашого акаунту &syncBrand.shortName.label;'>
+<!ENTITY sync.summary.pair.label 'Під’єднати ще один пристрій до вашого облікового запису &syncBrand.shortName.label;'>
 
 <!-- Configure Engines -->
 <!ENTITY sync.configure.engines.title.label 'Що синхронізувати'>
@@ -94,11 +94,11 @@
 <!ENTITY bookmarks.folder.pinned.label 'Прикріплені'>
 
 <!-- Notification strings -->
-<!ENTITY sync.notification.oneaccount.label 'Підтримується лише один акаунт &syncBrand.fullName.label;.'>
+<!ENTITY sync.notification.oneaccount.label 'Підтримується лише один обліковий запис &syncBrand.fullName.label;.'>
 <!ENTITY sync.notification.configure.saved 'Ваш вибір збережено було збережено.'>
 
 <!-- Incorrect settings and changing credentials. -->
-<!ENTITY sync.invalidcreds.label 'Неправильне ім’я акаунту або пароль.'>
+<!ENTITY sync.invalidcreds.label 'Неправильне ім’я облікового запису або пароль.'>
 <!ENTITY sync.invalidserver.label 'Введіть чинний URL сервера'>
 <!ENTITY sync.verifying.label 'Перевірка…'>
 <!ENTITY sync.new.recoverykey.status.incorrect 'Ключ відновлення не вірний. Спробуйте ще раз.'>
@@ -149,12 +149,12 @@
      particular version of Firefox installed (Release, Beta, Aurora,
      etc).  The account remains a "Firefox Account". -->
 <!ENTITY fxaccount_create_account_header2 'Створити обліковий запис Firefox'>
-<!ENTITY fxaccount_create_account_password_length_restriction 'Має бути щонайменше 8 символів'>
+<!ENTITY fxaccount_create_account_password_length_restriction 'Повинно бути щонайменше 8 символів'>
 <!ENTITY fxaccount_create_account_day_of_birth 'День'>
 <!ENTITY fxaccount_create_account_month_of_birth 'Місяць'>
 <!ENTITY fxaccount_create_account_year_of_birth 'Рік народження'>
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text2 'Продовжуючи, я приймаю &formatS1; та &formatS2; Firefox’ових онлайнових служб.'>
+<!ENTITY fxaccount_create_account_policy_text2 'Продовжуючи, я приймаю &formatS1; та &formatS2; хмарних служб Firefox.'>
 <!ENTITY fxaccount_create_account_button 'Далі'>
 <!ENTITY fxaccount_create_account_choose_what_to_sync 'Оберіть що синхронізувати'>
 <!ENTITY fxaccount_create_account_sign_in_instead 'Вже маєте обліковий запис? Увійдіть'>
@@ -167,11 +167,11 @@
 
 <!ENTITY fxaccount_confirm_account_header 'Підтвердіть ваш обліковий запис'>
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
-<!ENTITY fxaccount_confirm_account_verification_link 'Посилання на підтвердження було надіслано на  &formatS;'>
-<!ENTITY fxaccount_confirm_account_resend_email 'Пепослати листа'>
+<!ENTITY fxaccount_confirm_account_verification_link 'Посилання для підтвердження було надіслане на &formatS;'>
+<!ENTITY fxaccount_confirm_account_resend_email 'Повторно надіслати лист'>
 <!ENTITY fxaccount_confirm_account_change_email 'Забути цю електронну адресу?'>
-<!ENTITY fxaccount_confirm_account_verification_link_sent2 'Підтверджуючий лист послано'>
-<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Неможливо послати підтверджуючий лист'>
+<!ENTITY fxaccount_confirm_account_verification_link_sent2 'Підтверджуючий лист надіслано'>
+<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Неможливо надіслати підтверджуючий лист'>
 <!ENTITY fxaccount_resend_unlock_code_button_label 'Повторно надіслати лист для розблокування'>
 <!ENTITY fxaccount_unlock_code_sent 'Лист для розблокування облікового запису надіслано'>
 <!ENTITY fxaccount_unlock_code_not_sent 'Не вдалося надіслати лист для розблокування облікового запису'>
@@ -207,19 +207,19 @@
 <!ENTITY fxaccount_status_needs_verification2 'Ваш обліковий запис потрібно підтвердити. Торкніться для відправлення листа підтверждення.'>
 <!ENTITY fxaccount_status_needs_credentials 'Неможливо з’єднатись. Торкніться, щоб увійти.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Для входу вам потрібно оновити &brandShortName;.'>
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; налаштовано, але не синхронізовано автоматично. Перемкніть “Автосинхронізація” в налаштуваннях Android &gt; Використання даних.'>
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; налаштовано, але не синхронізовано автоматично. Перемкніть “Автосинхронізація” в налаштуваннях Android &gt; Облікові записи та синхронізація.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; налаштована, але автоматично не запущена. Встановіть прапорець “Автоматична синхронізація” в налаштуваннях Android &gt; Використання даних.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; налаштована, але автоматично не запущена. Встановіть прапорець “Автоматична синхронізація” в налаштуваннях Android &gt; Облікові записи та синхронізація.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Торкніться, щоб увійти в свій обліковий запис Firefox.'>
 <!ENTITY fxaccount_status_bookmarks 'Закладки'>
 <!ENTITY fxaccount_status_history 'Історія'>
 <!ENTITY fxaccount_status_passwords2 'Логіни'>
 <!ENTITY fxaccount_status_tabs 'Відкриті вкладки'>
-<!ENTITY fxaccount_status_legal 'Юридична інформація'>
+<!ENTITY fxaccount_status_legal 'Юридична інформація' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-<!ENTITY fxaccount_status_linktos 'Умови користування'>
+<!ENTITY fxaccount_status_linktos 'Умови надання послуги'>
 <!ENTITY fxaccount_status_linkprivacy 'Повідомлення про приватність'>
 <!ENTITY fxaccount_status_more 'Докладніше&ellipsis;'>
 
@@ -230,6 +230,7 @@
 <!ENTITY fxaccount_remove_account_toast 'Обліковий запис Firefox &formatS; вилучено.'>
 
 <!ENTITY fxaccount_remove_account_menu_item 'Вилучити обліковий запис'>
+<!ENTITY fxaccount_enable_debug_mode 'Увімкнути режим зневадження'>
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
@@ -253,8 +254,8 @@
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Недійсна ел.пошта або пароль'>
 <!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Недійсна ел.пошта або пароль'>
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Обліковий запис не підтверджено'>
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Сервер перегружений, спробуйте ще перегодом'>
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Сервер перегружений, спробуйте ще перегодом'>
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Сервер зайнятий, спробуйте знову пізніше'>
+<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Сервер зайнятий, спробуйте знову пізніше'>
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Якась проблема'>
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT 'Неможливо з’єднатись з мережею'>
 <!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Обліковий запис заблоковано. &formatS1;'>

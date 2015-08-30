@@ -10,23 +10,23 @@
 <!ENTITY useDefault.label                 "Відновити">
 <!ENTITY useDefault.accesskey             "н">
 
-<!ENTITY changeDockIconOptions.label      "Change preferences for the app icon">
-<!ENTITY dockOptions.label                "App Icon Options…">
-<!ENTITY dockOptions.accesskey            "n">
+<!ENTITY changeDockIconOptions.label      "Змінити налаштування для іконки програми">
+<!ENTITY dockOptions.label                "Налаштування іконки програми…">
+<!ENTITY dockOptions.accesskey            "л">
 
 <!ENTITY newMessagesArrive.label          "При появі нових листів:">
-<!ENTITY playSound.label                  "Подати звуковий сигнал">
+<!ENTITY playSound.label                  "Відтворити звук">
 <!ENTITY playSound1.accesskey              "з">
 <!ENTITY showAnimatedAlert.label          "Показувати сповіщення">
 <!ENTITY showAnimatedAlert.accesskey      "с">
 <!ENTITY customizeMailAlert.label         "Налаштувати…">
 <!ENTITY customizeMailAlert.accesskey     "л">
 
-<!ENTITY showTrayIcon.label               "Show a tray icon">
-<!ENTITY showTrayIcon.accesskey           "t">
+<!ENTITY showTrayIcon.label               "Показувати іконку в треї">
+<!ENTITY showTrayIcon.accesskey           "і">
 
-<!ENTITY play.label                       "Програти">
-<!ENTITY play.accesskey                   "П">
+<!ENTITY play.label                       "Відтворити">
+<!ENTITY play.accesskey                   "в">
 <!ENTITY systemsound.label                "Стандартний системний звук для нової пошти">
 <!ENTITY systemsoundMac.label             "Звук системного повідомлення">
 <!ENTITY systemsoundMac.accesskey         "у">
@@ -36,4 +36,4 @@
 <!ENTITY browse.label                     "Огляд…">
 <!ENTITY browse.accesskey                 "О">
 
-<!ENTITY defaultSearchEngine.label        "Default Search Engine">
+<!ENTITY defaultSearchEngine.label        "Типовий засіб пошуку">

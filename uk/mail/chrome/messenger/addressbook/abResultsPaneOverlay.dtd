@@ -11,7 +11,7 @@
 <!ENTITY Company.label                         "Організація">
 <!ENTITY Company.accesskey                     "О">
 <!ENTITY _PhoneticName.label                   "Фонетичне ім’я">
-<!ENTITY _PhoneticName.accesskey               "В">
+<!ENTITY _PhoneticName.accesskey               "т">
 <!ENTITY NickName.label                        "Псевдонім">
 <!ENTITY NickName.accesskey                    "с">
 <!ENTITY SecondEmail.label                     "Дод. адреса електронної пошти">

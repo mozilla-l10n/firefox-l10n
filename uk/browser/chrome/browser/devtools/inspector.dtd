@@ -82,7 +82,7 @@
 
 <!ENTITY inspector.selectButton.tooltip     "Вибрати елемент мишею">
 
-<!-- LOCALIZATION NOTE (inspectorSearchHTML.label): This is the label shown as
+<!-- LOCALIZATION NOTE (inspectorSearchHTML.label2): This is the label shown as
      the placeholder in inspector search box -->
 <!ENTITY inspectorSearchHTML.label2          "Шукати з селекторами CSS">
 <!ENTITY inspectorSearchHTML.key            "F">

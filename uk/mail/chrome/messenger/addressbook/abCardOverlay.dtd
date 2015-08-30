@@ -32,7 +32,7 @@
 <!ENTITY DisplayName.label              "Відображати як:">
 <!ENTITY DisplayName.accesskey          "В">
 <!ENTITY preferDisplayName.label        "Завжди вживати відображувані імена, а не заголовки листа">
-<!ENTITY preferDisplayName.accesskey    "y">
+<!ENTITY preferDisplayName.accesskey    "і">
 <!ENTITY NickName.label                 "Псевдонім:">
 <!ENTITY NickName.accesskey             "д">
 
