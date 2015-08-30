@@ -8,7 +8,7 @@
 <!-- Tools menu -->
 
 
-<!ENTITY lightning.preferencesLabel "تقويم">
+<!ENTITY lightning.preferencesLabel "التقويم">
 <!-- New menu popup in File menu -->
 
 <!ENTITY lightning.menupopup.new.event.label    "حدث…">
