@@ -683,18 +683,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionInternal "Ini adalah halaman &brandShortName; yang selamat.">
 <!-- Strings for connection state warnings. -->
 
-<!ENTITY identity.activeLoaded "Anda telah melumpuhkan perlindungan pada halaman ini.">
+<!ENTITY identity.activeBlocked "&brandShortName; telah menghalang sebahagian halaman ini yang tidak selamat">
+<!ENTITY identity.passiveLoaded "Sebahagian daripada halaman ini tidak selamat (seperti imej).">
+<!ENTITY identity.activeLoaded "Anda telah melumpuhkan perlindungan untuk halaman ini.">
 <!ENTITY identity.weakEncryption "Halaman ini menggunakan enkripsi yang lemah.">
 <!-- Strings for connection state warnings in the subview. -->
 
 <!ENTITY identity.description.insecure "Sambungan anda ke laman ini adalah terbuka. Maklumat yang anda hantar mampu dilihat oleh orang lain (seperti kata laluan, mesej, kad kredit, dll.).">
-
-
-
+<!ENTITY identity.description.weakCipher "Sambungan anda ke halaman ini menggunakan enkripsi yang lemah dan bukan secara persendirian.">
+<!ENTITY identity.description.weakCipher2 "Orang lain boleh melihat maklumat anda atau mengubah tingkah laku laman web.">
+<!ENTITY identity.description.activeBlocked "&brandShortName; telah menyekat sebahagian halaman ini yang tidak selamat">
 <!ENTITY identity.description.passiveLoaded "Sambungan anda adalah terbuka dan maklumat yang anda kongsi dengan halaman ini mampu dilihat oleh orang lain.">
 <!ENTITY identity.description.passiveLoaded2 "Laman web ini mengandungi kandungan yang tidak selamat (seperti imej).">
 <!ENTITY identity.description.passiveLoaded3 "Walaupun &brandShortName; telah menyekat beberapa kandungan, masih ada kandungan pada halaman ini yang tidak selamat (seperti imej).">
-
+<!ENTITY identity.description.activeLoaded "Laman web ini mengandungi kandungan yang tidak selamat (seperti skrip) dan sambungan anda kepadanya adalah terbuka.">
 <!ENTITY identity.description.activeLoaded2 "Maklumat yang anda kongsi dengan laman ini boleh dilihat oleh orang lain (seperti kata laluan, mesej, kad kredit, dll.).">
 
 
@@ -742,10 +744,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.learnMore.accesskey "K">
 <!ENTITY social.closeNotificationItem.label "Bukan Sekarang">
 
+<!ENTITY social.directory.label "Direktori Pengaktifan">
 <!ENTITY social.directory.text "Anda boleh mengaktifkan perkhidmatan Kongsi dari direktori. ">
 <!ENTITY social.directory.button "Bawa saya keluar dari sini!">
-
-
+<!ENTITY social.directory.introText "Klik pada perkhidmatan untuk menambahkannya ke &brandShortName;.">
+<!ENTITY social.directory.viewmore.text "Lihat Lagi">
 
 <!ENTITY customizeMode.tabTitle "Menyesuai &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Alatan dan Ciri Tambahan ">
@@ -841,6 +844,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.undoWarning             "Tindakan ini tidak dapat dilakukan.">
 <!ENTITY panicButton.view.forgetButton            "Lupakan!">
 
+<!ENTITY panicButton.thankyou.msg1                "Sejarah terbaru anda telah dibersihkan.">
 <!ENTITY panicButton.thankyou.msg2                "Berhati-hati dalam pelayaran!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Terima kasih!">
 
