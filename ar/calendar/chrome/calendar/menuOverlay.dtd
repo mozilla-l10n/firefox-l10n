@@ -4,10 +4,10 @@
 <!-- Event Menu -->
 
 <!ENTITY event.new.event                        "حدث جديد…">
-
+<!ENTITY event.new.event.accesskey              "ج">
 
 <!ENTITY event.new.task                         "مهمة جديدة…">
-
+<!ENTITY event.new.task.accesskey               "ه">
 
 <!ENTITY calendar.import.label                  "استورد…">
 <!ENTITY calendar.import.accesskey              "س">

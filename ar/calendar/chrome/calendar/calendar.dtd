@@ -202,13 +202,13 @@
 <!ENTITY progress.level.100.accesskey  "1">
 
 <!ENTITY priority.level.none                "غير محدّدة">
-
+<!ENTITY priority.level.none.accesskey      "ح">
 <!ENTITY priority.level.low                 "منخفضة">
-
+<!ENTITY priority.level.low.accesskey       "خ">
 <!ENTITY priority.level.normal              "عادية">
-
+<!ENTITY priority.level.normal.accesskey    "ع">
 <!ENTITY priority.level.high                "مرتفعة">
-
+<!ENTITY priority.level.high.accesskey      "ف">
 
 <!ENTITY calendar.context.postpone.1hour.label      "ساعة واحدة">
 <!ENTITY calendar.context.postpone.1hour.accesskey  "س">
@@ -251,16 +251,22 @@
 <!ENTITY calendar.context.properties.accesskey         "خ">
 <!-- LOCALIZATION NOTE (calendar.context.showcalendar.accesskey)
      This is the access key used for the showCalendar string -->
+
+<!ENTITY calendar.context.showcalendar.accesskey      "ظ">
 <!-- LOCALIZATION NOTE (calendar.context.hidecalendar.accesskey)
      This is the access key used for the hideCalendar string -->
+
+<!ENTITY calendar.context.hidecalendar.accesskey      "خ">
 <!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
      This is the access key used for the showOnlyCalendar string -->
+
+<!ENTITY calendar.context.showonly.accesskey           "ط">
 <!ENTITY calendar.context.showall.label                "أظهر كل التقويمات">
 <!ENTITY calendar.context.showall.accesskey            "ك">
 
 <!ENTITY calendar.context.convertmenu.label              "حوّل إلى">
-
-
+<!ENTITY calendar.context.convertmenu.accesskey.mail     "ح">
+<!ENTITY calendar.context.convertmenu.accesskey.calendar "و">
 <!ENTITY calendar.context.convertmenu.event.label        "حدث…">
 <!ENTITY calendar.context.convertmenu.event.accesskey    "ح">
 <!ENTITY calendar.context.convertmenu.message.label      "رسالة…">
