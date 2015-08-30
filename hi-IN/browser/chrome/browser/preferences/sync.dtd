@@ -84,7 +84,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY welcome.useOldSync.label "सिंक के पुराने संस्करण का उपयोग कर रहे हैं?">
 
 <!ENTITY signedOut.caption            "अपना वेब अपने साथ रखें">
-
+<!ENTITY signedOut.description        "अपने सभी उपकरणों पर अपने बुकमार्क, इतिहास, टैब, पासवर्ड, ऐड-ऑन, और वरीयताओं को समकालित करें.">
 
 <!ENTITY signedOut.accountBox.create  "खाता बनाएँ">
 <!ENTITY signedOut.accountBox.signin  "साइन इन">
@@ -94,4 +94,4 @@ both, to better adapt this sentence to their language.
 <!ENTITY mobilePromo.start            "के लिए फ़ायरफ़ॉक्स डाउनलोड करें">
 <!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
 <!ENTITY mobilePromo.end              "अपने मोबाइल डिवाइस के साथ सिंक करने के लिए">
-
+<!ENTITY androidAttribution           "एंड्रॉयड Google Inc का व्यापार-चिह्न हैं.">

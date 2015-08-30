@@ -31,6 +31,7 @@
 <!ENTITY aboutPrivateBrowsing.info.downloads   "डाउनलोड">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Bookmarks">
 
+<!ENTITY aboutPrivateBrowsing.note1            "कृपया नोट करे की आपका कर्मचारी या इन्टरनेट सेवा प्रदाता वो पृष्ठ जो आप देखते है उसपर नजर रख सकता हैं.">
 <!ENTITY aboutPrivateBrowsing.learnMore        "अधिक जानें">
 <!-- LOCALIZATION NOTE (trackingProtection.width):
      Width of the Tracking Protection section. This should be enough to
@@ -46,5 +47,6 @@
 <!ENTITY trackingProtection.state.disabled     "बंद">
 
 
-
+<!ENTITY trackingProtection.disable            "ट्रैकिंग सुरक्षा बंद करें">
+<!ENTITY trackingProtection.enable             "ट्रैकिंग सुरक्षा चालू करें">
 <!ENTITY trackingProtection.startTour1         "देखें यह कैसे काम करता है">
