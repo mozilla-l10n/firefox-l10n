@@ -144,17 +144,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
+<!ENTITY findShareServices.label "Cari lebih banyak perkhidmatan Kongsi…">
 <!ENTITY sharePageCmd.label "Kongsi Halaman Ini">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "K">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-
-
-
-
-
-
-
+<!ENTITY shareLink.label "Kongsi Pautan Ini">
+<!ENTITY shareLink.accesskey "i">
+<!ENTITY shareImage.label "Kongsi Imej Ini">
+<!ENTITY shareImage.accesskey "i">
+<!ENTITY shareSelect.label "Kongsi Pilihan">
+<!ENTITY shareSelect.accesskey "i">
+<!ENTITY shareVideo.label "Kongsi Video Ini">
+<!ENTITY shareVideo.accesskey "i">
 <!ENTITY feedsMenu.label "Langgan">
 <!ENTITY subscribeToPageMenupopup.label "Langgan ke Laman Ini">
 <!ENTITY subscribeToPageMenuitem.label "Langgan ke Laman Ini…">
@@ -216,8 +218,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "Add-ons">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
-
-
+<!ENTITY webapps.label                "Aplikasi">
+<!ENTITY webapps.accesskey            "p">
 
 <!ENTITY webDeveloperMenu.label       "Pembangun Web">
 <!ENTITY webDeveloperMenu.accesskey   "W">
@@ -678,13 +680,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionNotSecure "Sambungan Tidak Selamat">
 <!ENTITY identity.connectionFile "Halaman ini disimpan dalam komputer anda.">
 
-
+<!ENTITY identity.connectionInternal "Ini adalah halaman &brandShortName; yang selamat.">
 <!-- Strings for connection state warnings. -->
 
-
+<!ENTITY identity.activeLoaded "Anda telah melumpuhkan perlindungan pada halaman ini.">
 
 <!-- Strings for connection state warnings in the subview. -->
 
+<!ENTITY identity.description.insecure "Sambungan anda ke laman ini adalah terbuka. Maklumat yang anda hantar mampu dilihat oleh orang lain (seperti kata laluan, mesej, kad kredit, dll.).">
 
 
 
@@ -695,7 +698,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
+<!ENTITY identity.disableMixedContentBlocking.label "Lumpuhkan perlindungan untuk sekarang">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "L">
 
 
 
@@ -739,7 +743,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.closeNotificationItem.label "Bukan Sekarang">
 
 
-
+<!ENTITY social.directory.button "Bawa saya keluar dari sini!">
 
 
 
@@ -777,7 +781,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.title "Perlindungan Penjejakan">
 
 
-
+<!ENTITY trackingProtection.notDetected3 "Tiada elemen dijumpai pada laman ini.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
@@ -837,7 +841,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.undoWarning             "Tindakan ini tidak dapat dilakukan.">
 
 
-
+<!ENTITY panicButton.thankyou.msg2                "Berhati-hati dalam pelayaran!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Terima kasih!">
 
 <!ENTITY processHang.terminateScript.label        "Hentikan Skrip">

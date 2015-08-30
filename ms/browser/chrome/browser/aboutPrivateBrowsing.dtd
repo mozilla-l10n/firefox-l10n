@@ -49,5 +49,6 @@
 
 
 
-
-
+<!ENTITY trackingProtection.disable            "Matikan Perlindungan Penjejakan">
+<!ENTITY trackingProtection.enable             "Hidupkan Perlindungan Penjejakan">
+<!ENTITY trackingProtection.startTour1         "Ketahui cara ia berfungsi">
