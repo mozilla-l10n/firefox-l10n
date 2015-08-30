@@ -6,11 +6,11 @@
 
 
 <!ENTITY doNotTrackInfo.label          "और जानें">
-
-
+<!ENTITY trackingProtection5.label     "ट्रैकिंग सुरक्षा का उपयोग करें">
+<!ENTITY trackingProtection5.accesskey "ग">
 <!ENTITY trackingProtectionLearnMore.label "अधिक जानें">
-
-
+<!ENTITY trackingProtectionPBM5.label         "निजी विंडोज में ट्रैकिंग सुरक्षा का उपयोग करें">
+<!ENTITY trackingProtectionPBM5.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "अधिक जानें">
 
 <!ENTITY  history.label                 "इतिहास">
