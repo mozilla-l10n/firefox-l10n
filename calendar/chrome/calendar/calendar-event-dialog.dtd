@@ -174,8 +174,8 @@
 <!ENTITY task.from.accesskey                              "د">
 <!ENTITY event.to.label                                   "النهاية:" >
 <!ENTITY event.to.accesskey                               "ه">
-<!ENTITY task.to.label                                    "تاريخ الإنجاز:" >
-<!ENTITY task.to.accesskey                                "ج">
+<!ENTITY task.to.label                                    "تاريخ الاستحقاق:" >
+<!ENTITY task.to.accesskey                                "ق">
 <!ENTITY task.status.label                                "الحالة:" >
 <!ENTITY task.status.accesskey                            "ح">
 <!ENTITY event.repeat.label                               "كرر:" >
@@ -227,7 +227,7 @@
 <!ENTITY event.repeat.does.not.repeat.label             "لا تكرر">
 <!ENTITY event.repeat.daily.label                       "يوميا">
 <!ENTITY event.repeat.weekly.label                      "أسبوعيا">
-<!ENTITY event.repeat.every.weekday.label               "كلّ يوم عمل">
+<!ENTITY event.repeat.every.weekday.label               "كلّ أيام العمل">
 <!ENTITY event.repeat.bi.weekly.label                   "كلّ أسبوعين">
 <!ENTITY event.repeat.monthly.label                     "شهريا">
 <!ENTITY event.repeat.yearly.label                      "سنويا">
@@ -242,7 +242,7 @@
 
 <!ENTITY event.recurrence.pattern.every.label           "كلّ" >
 <!ENTITY repeat.units.days.both                         "من الأيام" >
-<!ENTITY event.recurrence.pattern.every.weekday.label   "كلّ يوم عمل" >
+<!ENTITY event.recurrence.pattern.every.weekday.label   "كلّ أيام العمل" >
 
 <!ENTITY event.recurrence.pattern.weekly.every.label    "‪كلّ" >
 <!ENTITY repeat.units.weeks.both                        "من الأسابيع" >

@@ -9,7 +9,7 @@
 
 <!ENTITY pref.alarmgoesoff.label "عندما يُستحق التذكير:">
 <!ENTITY pref.playasound "اعزف صوتا">
-
+<!ENTITY pref.calendar.alarms.playsound.accessKey "ز">
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "استخدم الصوت المبدئي">
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "م">
 <!ENTITY pref.calendar.alarms.sound.browse.label "تصفح…">
@@ -17,19 +17,20 @@
 <!ENTITY pref.calendar.alarms.sound.play.label "شغل">
 <!ENTITY pref.calendar.alarms.sound.play.accessKey "ش">
 <!ENTITY pref.showalarmbox "أظهر حوار التذكير">
-
+<!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "ذ">
 <!ENTITY pref.missedalarms "اعرض التذكيرات الفائتة">
-
-<!ENTITY pref.calendar.alarms.defaults.label "افتراضيات التذكيرات">
-
-
-
-
-
-
+<!ENTITY pref.calendar.alarms.missedAlarms.accessKey "ئ">
+<!ENTITY pref.calendar.alarms.defaults.label "إعدادات التذكيرات الافتراضية">
+<!ENTITY pref.defalarm4events.label "الإعداد الافتراضي لتذكيرات الأحداث:">
+<!ENTITY pref.defalarm4events.accesskey "ف">
+<!ENTITY pref.defalarm4todos.label "الإعداد الافتراضي لتذكيرات المهام:">
+<!ENTITY pref.defalarm4todos.accesskey "ت">
 
 
+<!ENTITY pref.defalarmlen4events.label "الوقت الافتراضي للتذكير قبل الحدث:">
+<!ENTITY pref.defalarmlen4events.accesskey "ض">
+<!ENTITY pref.defalarmlen4todos.label "الوقت الافتراضي للتذكير قبل المهمة:">
+<!ENTITY pref.defalarmlen4todos.accesskey "ق">
 
-
-
-
+<!ENTITY pref.defaultsnoozelength.label "المدة الافتراضية للغفوة:" >
+<!ENTITY pref.defaultsnoozelength.accesskey "غ">

@@ -20,14 +20,14 @@
 <!ENTITY pref.calendar.view.daystart.accesskey "ي">
 <!ENTITY pref.calendar.view.dayend.label "ينتهي اليوم في:">
 <!ENTITY pref.calendar.view.dayend.accesskey "ن">
-
-
-
+<!ENTITY pref.calendar.view.visiblehours.label "عدد الساعات المعروضة في آن واحد:">
+<!ENTITY pref.calendar.view.visiblehours.accesskey "س">
+<!ENTITY pref.calendar.view.visiblehoursend.label "‌">
 
 <!ENTITY pref.numberofweeks.label "عدد الأسابيع الظاهرة (بما في ذلك السابقة):">
 <!ENTITY pref.numberofweeks.accesskey "ع">
-
-
+<!ENTITY pref.numberofpreviousweeks.label "عدد الأسابيع الماضية المعروضة:">
+<!ENTITY pref.numberofpreviousweeks.accesskey "ض">
 <!ENTITY pref.numberofweeks.0 "بلا">
 <!ENTITY pref.numberofweeks.1 "أسبوع واحد">
 <!ENTITY pref.numberofweeks.2 "أسبوعان">

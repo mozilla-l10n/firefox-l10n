@@ -53,8 +53,8 @@
 <!ENTITY calendar.unifinder.tree.status.tooltip2           "رتّب بالحالة">
 <!ENTITY calendar.unifinder.tree.calendarname.label        "اسم التقويم">
 <!ENTITY calendar.unifinder.tree.calendarname.tooltip2     "رتّب باسم التقويم">
-
-
+<!ENTITY calendar.unifinder.tree.duration.label            "وقت الاستحقاق">
+<!ENTITY calendar.unifinder.tree.duration.tooltip2         "رتّب بالوقت حتى الاستحقاق">
 
 
 <!ENTITY calendar.today.button.tooltip          "اذهب الى اليوم" >
@@ -327,7 +327,7 @@
 <!ENTITY calendarproperties.firealarms.label               "اعرض التذكيرات">
 
 <!ENTITY calendarproperties.enabled.label                  "فعّل هذا التقويم">
-<!ENTITY calendarproperties.forceDisabled.label            "تعذر العثور على مزود هذا التقويم. يحدث هذا غالبا إن عطلت إضافات معينة أو كانت غير مثبتة.">
+<!ENTITY calendarproperties.forceDisabled.label            "تعذر العثور على موفّر هذا التقويم. يحدث هذا غالبا إن عطلت إضافات معينة أو كانت غير مثبتة.">
 <!ENTITY calendarproperties.unsubscribe.label              "ألغ الاشتراك">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "غ">
 <!-- Calendar Publish Dialog -->

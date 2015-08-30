@@ -6,6 +6,7 @@
 <!ENTITY wizard.label             "أنشئ تقويمًا جديدًا" >
 <!ENTITY wizard.description       "حدّد مكان التقويم" >
 
+<!ENTITY initialpage.description    "يمكنك حفظ التقويم في الحاسوب أو الخادوم وذلك لتصل إليه من بعيد أو لتشاركه مع أصدقائك أو زملائك في العمل." >
 <!ENTITY initialpage.computer.label  "في الحاسوب">
 <!ENTITY initialpage.network.label  "في الشبكة">
 

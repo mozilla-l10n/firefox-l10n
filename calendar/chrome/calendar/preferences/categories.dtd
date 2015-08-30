@@ -20,5 +20,5 @@
 <!ENTITY pref.categories.usecolor.label "استخدم لونا">
 <!ENTITY pref.categories.none.label "(بلا)">
 <!ENTITY pref.categories.overwrite "هناك تقويم بهذا الاسم بالفعل. \n أتريد الكتابة فوقه؟">
-
+<!ENTITY pref.categories.overwrite.title "تحذير: الاسم موجود">
 <!ENTITY pref.categories.noBlankCategories "عليك إدخال اسم الفئة.">
