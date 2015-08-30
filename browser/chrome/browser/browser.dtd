@@ -679,23 +679,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Sambungan Selamat">
 <!ENTITY identity.connectionNotSecure "Sambungan Tidak Selamat">
 <!ENTITY identity.connectionFile "Halaman ini disimpan dalam komputer anda.">
-
+<!ENTITY identity.connectionVerified "&brandShortName; telah mengesahkan yang anda disambungkan ke halaman ini dengan selamat, yang dijalankan oleh:">
 <!ENTITY identity.connectionInternal "Ini adalah halaman &brandShortName; yang selamat.">
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeLoaded "Anda telah melumpuhkan perlindungan pada halaman ini.">
-
+<!ENTITY identity.weakEncryption "Halaman ini menggunakan enkripsi yang lemah.">
 <!-- Strings for connection state warnings in the subview. -->
 
 <!ENTITY identity.description.insecure "Sambungan anda ke laman ini adalah terbuka. Maklumat yang anda hantar mampu dilihat oleh orang lain (seperti kata laluan, mesej, kad kredit, dll.).">
 
 
 
+<!ENTITY identity.description.passiveLoaded "Sambungan anda adalah terbuka dan maklumat yang anda kongsi dengan halaman ini mampu dilihat oleh orang lain.">
+<!ENTITY identity.description.passiveLoaded2 "Laman web ini mengandungi kandungan yang tidak selamat (seperti imej).">
+<!ENTITY identity.description.passiveLoaded3 "Walaupun &brandShortName; telah menyekat beberapa kandungan, masih ada kandungan pada halaman ini yang tidak selamat (seperti imej).">
 
-
-
-
-
+<!ENTITY identity.description.activeLoaded2 "Maklumat yang anda kongsi dengan laman ini boleh dilihat oleh orang lain (seperti kata laluan, mesej, kad kredit, dll.).">
 
 
 <!ENTITY identity.disableMixedContentBlocking.label "Lumpuhkan perlindungan untuk sekarang">
@@ -742,7 +742,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.learnMore.accesskey "K">
 <!ENTITY social.closeNotificationItem.label "Bukan Sekarang">
 
-
+<!ENTITY social.directory.text "Anda boleh mengaktifkan perkhidmatan Kongsi dari direktori. ">
 <!ENTITY social.directory.button "Bawa saya keluar dari sini!">
 
 
@@ -775,12 +775,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
 <!ENTITY getUserMedia.selectMicrophone.label "Mikrofon untuk dikongsi:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
-
+<!ENTITY getUserMedia.audioCapture.label "Audio dari tab akan dikongsi.">
 <!ENTITY getUserMedia.allWindowsShared.message "Semua tetingkap yang kelihatan pada skrin anda akan dikongsi.">
 
 <!ENTITY trackingProtection.title "Perlindungan Penjejakan">
-
-
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; sedang menyekat sebahagian halaman yang mungkin menjejaki pelayaran anda.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "Laman ini mengandungi elemen yang boleh menjejaki pelayaran anda. Anda telah melumpuhkan perlindungan.">
 <!ENTITY trackingProtection.notDetected3 "Tiada elemen dijumpai pada laman ini.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
@@ -794,7 +794,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY trackingContentBlocked.message "Penjejakan">
-
+<!ENTITY trackingContentBlocked.moreinfo "Sebahagian daripada halaman yang menjejaki aktiviti dalam talian anda telah disekat.">
 
 <!ENTITY trackingContentBlocked.options "Pilihan">
 <!ENTITY trackingContentBlocked.unblock2.label "Lumpuhkan perlindungan pada halaman ini">
@@ -839,7 +839,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY panicButton.view.undoWarning             "Tindakan ini tidak dapat dilakukan.">
-
+<!ENTITY panicButton.view.forgetButton            "Lupakan!">
 
 <!ENTITY panicButton.thankyou.msg2                "Berhati-hati dalam pelayaran!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Terima kasih!">
@@ -853,7 +853,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
+<!ENTITY emeLearnMoreContextMenu.label            "Ketahui lebih lanjut mengenai DRM…">
+<!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 <!ENTITY emeNotificationsNotNow.label             "Bukan sekarang">
 <!ENTITY emeNotificationsNotNow.accesskey         "n">
 <!ENTITY emeNotificationsDontAskAgain.label       "Jangan tanya saya lagi">
