@@ -55,7 +55,7 @@
 <!ENTITY calendar.unifinder.tree.calendarname.tooltip2     "رتّب باسم التقويم">
 <!ENTITY calendar.unifinder.tree.duration.label            "وقت الاستحقاق">
 <!ENTITY calendar.unifinder.tree.duration.tooltip2         "رتّب بالوقت حتى الاستحقاق">
-
+<!ENTITY calendar.unifinder.close.tooltip                  "أغلق قائمة الأحداث وكذلك مربع البحث">
 
 <!ENTITY calendar.today.button.tooltip          "اذهب الى اليوم" >
 <!ENTITY calendar.todaypane.button.tooltip      "أظهر لوحة اليوم" >
@@ -145,6 +145,7 @@
 <!ENTITY calendar.task-details.start.label           "تاريخ البدء">
 <!ENTITY calendar.task-details.due.label             "تاريخ الاستحقاق">
 
+<!ENTITY calendar.task.category.button.tooltip  "صنّف المهام">
 <!ENTITY calendar.task.complete.button.tooltip  "علّم المهام المحددة كمكتملة">
 <!ENTITY calendar.task.priority.button.tooltip  "غير الأولوية">
 
@@ -186,6 +187,8 @@
 <!ENTITY calendar.context.postpone.label              "أجّل المهمة">
 <!ENTITY calendar.context.postpone.accesskey          "ج">
 <!--=percent sign-->
+
+<!ENTITY percnt "&#38;#37;" >
 
 <!ENTITY calendar.context.markcompleted.label     "علّم كمكتملة">
 <!ENTITY calendar.context.markcompleted.accesskey "ك">
@@ -315,9 +318,9 @@
 <!-- Calendar Properties -->
 
 <!ENTITY calendarproperties.color.label                    "اللون:">
-
-
-
+<!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)‎">
+<!ENTITY calendarproperties.caldav.label                   "CalDAV">
+<!ENTITY calendarproperties.wcap.label                     "خادوم نظام سَن جافا للتقويمات (WCAP)">
 <!ENTITY calendarproperties.format.label                   "النسق:">
 <!ENTITY calendarproperties.location.label                 "المكان:">
 <!ENTITY calendarproperties.refreshInterval.label          "أنعش التقويم:">
@@ -325,7 +328,7 @@
 <!ENTITY calendarproperties.name.label                     "الاسم:">
 <!ENTITY calendarproperties.readonly.label                 "للقراءة فقط">
 <!ENTITY calendarproperties.firealarms.label               "اعرض التذكيرات">
-
+<!ENTITY calendarproperties.cache3.label                   "دعم اللااتصال">
 <!ENTITY calendarproperties.enabled.label                  "فعّل هذا التقويم">
 <!ENTITY calendarproperties.forceDisabled.label            "تعذر العثور على موفّر هذا التقويم. يحدث هذا غالبا إن عطلت إضافات معينة أو كانت غير مثبتة.">
 <!ENTITY calendarproperties.unsubscribe.label              "ألغ الاشتراك">

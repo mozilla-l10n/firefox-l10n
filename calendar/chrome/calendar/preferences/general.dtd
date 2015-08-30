@@ -35,7 +35,7 @@
 
 <!ENTITY pref.calendar.todaypane.agenda.caption "لوحة اليوم">
 <!ENTITY pref.soondays.label "قسم &quot;القادمة&quot; يُظهر:">
-<!ENTITY pref.soondays.accesskey "u">
+<!ENTITY pref.soondays.accesskey "ق">
 
 <!ENTITY pref.accessibility.label "الإتاحة" >
 <!ENTITY pref.systemcolors.label "حسّن الألوان للإتاحة" >

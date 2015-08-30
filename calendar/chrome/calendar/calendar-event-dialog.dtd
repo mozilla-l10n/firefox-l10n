@@ -280,7 +280,7 @@
 
 <!ENTITY event.recurrence.pattern.yearly.of.label            "من" >
 
-<!ENTITY event.recurrence.pattern.yearly.month.1.label       "يناير/كانون الثاني" >
+<!ENTITY event.recurrence.pattern.yearly.month.1.label       "يناير" >
 <!ENTITY event.recurrence.pattern.yearly.month.2.label       "فبراير/شباط" >
 <!ENTITY event.recurrence.pattern.yearly.month.3.label       "مارس/آذار" >
 <!ENTITY event.recurrence.pattern.yearly.month.4.label       "أبريل/نيسان" >

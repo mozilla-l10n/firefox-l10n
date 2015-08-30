@@ -15,5 +15,5 @@
 <!ENTITY calendar.invitations.list.alldayevent.text                     "حدث طوال اليوم">
 <!ENTITY calendar.invitations.list.location.text                        "المكان: ">
 <!ENTITY calendar.invitations.list.organizer.text                       "المنظّم: ">
-
+<!ENTITY calendar.invitations.list.attendee.text                        "الحاضر: ">
 <!ENTITY calendar.invitations.list.none.text                            "لا شيء">
