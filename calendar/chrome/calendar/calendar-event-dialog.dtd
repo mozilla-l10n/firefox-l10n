@@ -104,9 +104,9 @@
 <!ENTITY  event.menu.options.label                            "Налаштування">
 <!ENTITY  event.menu.options.accesskey                        "Н">
 <!ENTITY  event.menu.options.attendees.label                  "Запросити учасників…">
-<!ENTITY  event.menu.options.attendees.accesskey              "I">
-<!ENTITY  event.menu.options.timezone2.label                  "Show Timezones">
-<!ENTITY  event.menu.options.timezone2.accesskey              "z">
+<!ENTITY  event.menu.options.attendees.accesskey              "с">
+<!ENTITY  event.menu.options.timezone2.label                  "Показати часові пояси">
+<!ENTITY  event.menu.options.timezone2.accesskey              "ч">
 <!ENTITY  event.menu.options.priority2.label                  "Пріоритет">
 <!ENTITY  event.menu.options.priority2.accesskey              "р">
 <!ENTITY  event.menu.options.priority.notspecified.label      "Не визначено">
@@ -145,14 +145,14 @@
 <!ENTITY  event.toolbar.attendees.label                   "Запросити учасників">
 <!ENTITY  event.toolbar.privacy.label                     "Приватність">
 
-<!ENTITY  event.toolbar.save.tooltip                      "Save and Close">
-<!ENTITY  event.toolbar.delete.tooltip                    "Delete">
-<!ENTITY  event.toolbar.attendees.tooltip                 "Invite Attendees">
-<!ENTITY  event.toolbar.attachments.tooltip               "Add Attachments">
-<!ENTITY  event.toolbar.privacy.tooltip                   "Change Privacy">
-<!ENTITY  event.toolbar.priority.tooltip                  "Change Priority">
-<!ENTITY  event.toolbar.status.tooltip                    "Change Status">
-<!ENTITY  event.toolbar.freebusy.tooltip                  "Change Free/Busy time">
+<!ENTITY  event.toolbar.save.tooltip                      "Зберегти й закрити">
+<!ENTITY  event.toolbar.delete.tooltip                    "Вилучити">
+<!ENTITY  event.toolbar.attendees.tooltip                 "Запросити учасників">
+<!ENTITY  event.toolbar.attachments.tooltip               "Додати вкладення">
+<!ENTITY  event.toolbar.privacy.tooltip                   "Змінити приватність">
+<!ENTITY  event.toolbar.priority.tooltip                  "Змінити пріоритет">
+<!ENTITY  event.toolbar.status.tooltip                    "Змінити стан">
+<!ENTITY  event.toolbar.freebusy.tooltip                  "Змінити час Вільний/Зайнятий">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Назва:" >
@@ -161,9 +161,9 @@
 <!ENTITY event.location.accesskey                         "М">
 <!ENTITY event.categories.label                           "Категорія:">
 <!ENTITY event.categories.accesskey                       "К">
-<!ENTITY event.categories.textbox.label                   "Add a new category" >
-<!ENTITY event.calendar.label                             "Calendar:" >
-<!ENTITY event.calendar.accesskey                         "C">
+<!ENTITY event.categories.textbox.label                   "Додати нову категорію" >
+<!ENTITY event.calendar.label                             "Календар:" >
+<!ENTITY event.calendar.accesskey                         "К">
 <!ENTITY event.attendees.label                            "Учасники:" >
 <!ENTITY event.attendees.accesskey                        "У" >
 <!ENTITY event.alldayevent.label                          "Весь день" >
@@ -180,8 +180,8 @@
 <!ENTITY task.status.accesskey                            "т">
 <!ENTITY event.repeat.label                               "Повторення:" >
 <!ENTITY event.repeat.accesskey                           "П">
-<!ENTITY event.until.label                                "Until:">
-<!ENTITY event.until.accesskey                            "i">
+<!ENTITY event.until.label                                "До:">
+<!ENTITY event.until.accesskey                            "Д">
 <!ENTITY event.reminder.label                             "Нагадування:" >
 <!ENTITY event.reminder.accesskey                         "г">
 <!ENTITY event.description.label                          "Опис:" >
@@ -204,22 +204,22 @@
 <!ENTITY event.priority2.label                            "Пріоритет:">
 
 <!ENTITY event.reminder.none.label                        "Не нагадувати " >
-<!ENTITY event.reminder.0minutes.before.label             "за 0 хвилин до" >
-<!ENTITY event.reminder.5minutes.before.label             "за 5 хвилин до" >
-<!ENTITY event.reminder.15minutes.before.label            "за 15 хвилин до" >
-<!ENTITY event.reminder.30minutes.before.label            "за 30 хвилин до" >
-<!ENTITY event.reminder.1hour.before.label                "за 1 годину до" >
-<!ENTITY event.reminder.2hours.before.label               "за 2 години до" >
-<!ENTITY event.reminder.12hours.before.label              "за 12 годин до" >
-<!ENTITY event.reminder.1day.before.label                 "за 1 день до" >
-<!ENTITY event.reminder.2days.before.label                "за 2 дня до" >
-<!ENTITY event.reminder.1week.before.label                "за 1 тиждень до" >
+<!ENTITY event.reminder.0minutes.before.label             "за 0 хвилин" >
+<!ENTITY event.reminder.5minutes.before.label             "за 5 хвилин" >
+<!ENTITY event.reminder.15minutes.before.label            "за 15 хвилин" >
+<!ENTITY event.reminder.30minutes.before.label            "за 30 хвилин" >
+<!ENTITY event.reminder.1hour.before.label                "за 1 годину" >
+<!ENTITY event.reminder.2hours.before.label               "за 2 години" >
+<!ENTITY event.reminder.12hours.before.label              "за 12 годин" >
+<!ENTITY event.reminder.1day.before.label                 "за 1 день" >
+<!ENTITY event.reminder.2days.before.label                "за 2 дні" >
+<!ENTITY event.reminder.1week.before.label                "за 1 тиждень" >
 <!ENTITY event.reminder.custom.label                      "Налаштувати…" >
 
-<!ENTITY event.reminder.multiple.label                    "Кількаразові нагадування…" >
+<!ENTITY event.reminder.multiple.label                    "Багаторазові нагадування…" >
 
-<!ENTITY event.statusbarpanel.freebusy.label              "Time as:">
-<!ENTITY event.statusbarpanel.privacy.label               "Privacy:">
+<!ENTITY event.statusbarpanel.freebusy.label              "Час як:">
+<!ENTITY event.statusbarpanel.privacy.label               "Приватність:">
 
 <!-- Recurrence dialog -->
 <!ENTITY recurrence.title.label                         "Редагувати повторення">
@@ -227,7 +227,7 @@
 <!ENTITY event.repeat.does.not.repeat.label             "Не повторювати">
 <!ENTITY event.repeat.daily.label                       "Щоденно">
 <!ENTITY event.repeat.weekly.label                      "Щотижня">
-<!ENTITY event.repeat.every.weekday.label               "Кожного буднього дня">
+<!ENTITY event.repeat.every.weekday.label               "Кожний будній день">
 <!ENTITY event.repeat.bi.weekly.label                   "Кожні 2 тижні">
 <!ENTITY event.repeat.monthly.label                     "Щомісяця">
 <!ENTITY event.repeat.yearly.label                      "Щороку">
@@ -332,8 +332,8 @@
 <!ENTITY invite.title.label                     "Запрошення учасників">
 <!ENTITY event.organizer.label                  "Організатор">
 <!ENTITY event.freebusy.suggest.slot            "Запропонувати інтервал часу:">
-<!ENTITY event.freebusy.button.next.slot        "Next slot">
-<!ENTITY event.freebusy.button.previous.slot    "Previous slot">
+<!ENTITY event.freebusy.button.next.slot        "Наступний проміжок">
+<!ENTITY event.freebusy.button.previous.slot    "Попередній проміжок">
 <!ENTITY event.freebusy.zoom                    "Масштаб:">
 <!ENTITY event.freebusy.legend.free             "Вільний" >
 <!ENTITY event.freebusy.legend.busy             "Зайнятий" >
@@ -356,10 +356,10 @@
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Загальне">
 <!ENTITY read.only.title.label           "Назва:">
-<!ENTITY read.only.event.start.label     "Start Date:">
-<!ENTITY read.only.task.start.label      "Start Date:">
-<!ENTITY read.only.event.end.label       "End Date:">
-<!ENTITY read.only.task.due.label        "Due Date:">
+<!ENTITY read.only.event.start.label     "Дата початку:">
+<!ENTITY read.only.task.start.label      "Дата початку:">
+<!ENTITY read.only.event.end.label       "Дата завершення:">
+<!ENTITY read.only.task.due.label        "Дата завершення:">
 <!ENTITY read.only.repeat.label          "Повторюється:">
 <!ENTITY read.only.location.label        "Місце:">
 <!ENTITY read.only.category.label        "Категорія:">

@@ -53,5 +53,5 @@
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 <!ENTITY sad.thanksMessageBottom   "Або хай начуваються.">
 
-<!ENTITY feedback.privacy2          "Задля вашої приватності, не включайте ніяких особистих даних у свій відгук.">
+<!ENTITY feedback.privacy2         "Задля вашої приватності, не включайте ніяких особистих даних у свій відгук.">
 <!ENTITY feedback.send             "Відправити відгук">

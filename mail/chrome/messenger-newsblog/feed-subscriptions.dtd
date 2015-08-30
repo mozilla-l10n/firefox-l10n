@@ -7,7 +7,7 @@
 <!ENTITY learnMore.label             "Learn more about Feeds">
 
 <!ENTITY feedTitle.label             "Заголовок:">
-<!ENTITY feedTitle.accesskey         "T">
+<!ENTITY feedTitle.accesskey         "З">
 
 <!ENTITY feedLocation.label          "URL стрічки:">
 <!ENTITY feedLocation.accesskey      "U">

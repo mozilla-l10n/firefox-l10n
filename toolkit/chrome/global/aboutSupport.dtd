@@ -39,7 +39,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsVersion "Версія">
 <!ENTITY aboutSupport.appBasicsBuildID "ID збірки">
 
-<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
 <!ENTITY aboutSupport.appBasicsUpdateChannel "Канал оновлення">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Історія оновлень">
@@ -60,6 +60,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Зареєстровані Service Workers">
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Багатопроцесові вікна">
+
+<!ENTITY aboutSupport.appBasicsSafeMode "Безпечний режим">
 
 <!ENTITY aboutSupport.showDir.label "Відкрити каталог">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
