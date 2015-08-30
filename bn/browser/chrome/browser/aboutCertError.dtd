@@ -22,8 +22,8 @@ was trying to connect. -->
 আপনি সঠিক গন্তব্যে যাচ্ছেন। কিন্তু, এই সাইটের পরিচয়ের সত্যতা যাচাই করা যাচ্ছে না।">
 
 <!ENTITY certerror.whatShouldIDo.heading "আমার কি করা উচিৎ?">
-<!ENTITY certerror.whatShouldIDo.content "যদি আপনি সাধারণত  
- কোন সমস্যা ছাড়াই এই সাইটে গিয়ে থাকেন, এই ত্রুটির অর্থ হতে পারে যে কেউ  
+<!ENTITY certerror.whatShouldIDo.content "যদি আপনি সাধারণত
+কোন সমস্যা ছাড়াই এই সাইটে গিয়ে থাকেন, এই ত্রুটির অর্থ হতে পারে যে কেউ 
  এই সাইটটি জাল করার চেষ্টা করছে, এবং আপনার এটির সাথে সংযোগ বিচ্ছিন্ন করা উচিৎ।">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "সাইটটি HTTP ব্যবহার করে 
 পরিবহনে সর্বোচ্চ নিরাপত্তা (HSTS) নিশ্চিত করতে হবে যে &brandShortName; এর সাথেই একমাত্র 
@@ -40,4 +40,4 @@ was trying to connect. -->
 অাপনি জানেন এই সাইট দ্বারা বিশ্বস্ত সার্টিফিকেট ব্যবহার না করার কোনো গুরুত্বপূর্ণ কারণ অাছে।">
 <!ENTITY certerror.addException.label "ব্যতিক্রম যোগ…">
 
-<!ENTITY certerror.technical.heading "প্রযুক্তিগত বিবরণ">
+<!ENTITY certerror.technical.heading "টেকনিক্যাল বিবরণ">
