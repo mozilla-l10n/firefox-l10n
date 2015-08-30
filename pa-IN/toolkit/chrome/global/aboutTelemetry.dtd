@@ -4,6 +4,9 @@
 
 <!ENTITY aboutTelemetry.pageTitle "ਟੈਲੀਮੈਂਟਰੀ ਡਾਟਾ">
 
+<!ENTITY aboutTelemetry.changeDataChoices "
+  ਬਦਲੋ
+">
 
 <!ENTITY aboutTelemetry.uploadEnabled "
   FHR data upload is <span>enabled</span>.
@@ -13,8 +16,56 @@
   FHR data upload is <span>disabled</span>.
 ">
 
+<!ENTITY aboutTelemetry.extendedRecordingEnabled "
+  Extended Telemetry recording is <span>enabled</span>.
+">
+
+<!ENTITY aboutTelemetry.extendedRecordingDisabled "
+  Extended Telemetry recording is <span>disabled</span>.
+">
+
+<!ENTITY aboutTelemetry.pingDataSource "
+Ping data source:
+">
+
+<!ENTITY aboutTelemetry.showCurrentPingData "
+Current ping data
+">
+
+<!ENTITY aboutTelemetry.showArchivedPingData "
+Archived ping data
+">
+
+<!ENTITY aboutTelemetry.showSubsessionData "
+Show subsession data
+">
+
+<!ENTITY aboutTelemetry.choosePing "
+Choose ping:
+">
+
+<!ENTITY aboutTelemetry.showNewerPing "
+&lt;&lt; Newer ping
+">
+
+<!ENTITY aboutTelemetry.showOlderPing "
+Older ping &gt;&gt;
+">
+
+<!ENTITY aboutTelemetry.archiveWeekHeader "
+Week
+">
+
+<!ENTITY aboutTelemetry.archivePingHeader "
+Ping
+">
+
 <!ENTITY aboutTelemetry.generalDataSection "
   ਆਮ ਡਾਟਾ
+">
+
+<!ENTITY aboutTelemetry.environmentDataSection "
+  Environment Data
 ">
 
 <!ENTITY aboutTelemetry.telemetryLogSection "
