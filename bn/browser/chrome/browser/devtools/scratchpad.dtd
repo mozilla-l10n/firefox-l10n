@@ -53,7 +53,8 @@
 <!ENTITY viewMenu.label               "প্রদর্শন (V)">
 <!ENTITY viewMenu.accesskey           "V">
 
-
+<!ENTITY lineNumbers.label             "লাইন নম্বর দেখাও L">
+<!ENTITY lineNumbers.accesskey         "L">
 
 
 
