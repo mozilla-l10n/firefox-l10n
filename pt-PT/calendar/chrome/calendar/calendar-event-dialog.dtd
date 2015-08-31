@@ -68,8 +68,8 @@
 <!ENTITY  event.menu.item.save.accesskey                  "G">
 <!ENTITY  event.menu.item.saveandclose.label              "Guardar e fechar">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "f">
-<!ENTITY  event.menu.item.delete.label                    "Eliminar">
-<!ENTITY  event.menu.item.delete.accesskey                "l">
+<!ENTITY  event.menu.item.delete.label                    "Apagar…">
+<!ENTITY  event.menu.item.delete.accesskey                "A">
 <!ENTITY  event.menu.item.page.setup.label                "Configurar página">
 <!ENTITY  event.menu.item.page.setup.accesskey            "C">
 <!ENTITY  event.menu.item.print.label                     "Imprimir">
