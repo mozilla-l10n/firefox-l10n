@@ -6,7 +6,7 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Apri una finestra anonima">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "A">
 <!ENTITY privateBrowsing.title "Navigazione anonima">
-<!ENTITY aboutPrivateBrowsing.width "30em">
+<!ENTITY aboutPrivateBrowsing.width "32em">
 <!ENTITY aboutPrivateBrowsing.title "Navigazione anonima">
 <!ENTITY aboutPrivateBrowsing.subtitle "In questa finestra &brandShortName; non conserverà alcuna cronologia.">
 <!ENTITY aboutPrivateBrowsing.forgotten "In questa finestra &brandShortName; non conserverà:">
@@ -21,7 +21,7 @@
 <!ENTITY aboutPrivateBrowsing.info.bookmarks "Segnalibri">
 <!ENTITY aboutPrivateBrowsing.note1 "Si noti che il proprio datore di lavoro o il fornitore di servizi internet in uso saranno comunque in grado di mantenere un registro delle pagine visitate.">
 <!ENTITY aboutPrivateBrowsing.learnMore "Ulteriori informazioni.">
-<!ENTITY trackingProtection.width "27em">
+<!ENTITY trackingProtection.width "24em">
 <!ENTITY trackingProtection.title "Protezione antitracciamento">
 <!ENTITY trackingProtection.state.width "12ch">
 <!ENTITY trackingProtection.state.enabled "ATTIVATA">
