@@ -8,9 +8,15 @@
                         So the final line will say "Private Browsing + Tracking Protection". -->
 
 <!ENTITY privatebrowsingpage.title.private " + Proteção Contra a Monitorização">
+<!-- Localization note (privatebrowsingpage.title.normal1): "Private Browsing"
+     is capitalized in English to be consistent with our existing uses of the
+     term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "Não está no modo de navegação privada">
 
 <!ENTITY privatebrowsingpage.description.private3 "O Firefox irá impedir que seja monitorizado e não irá guardar qualquer histórico, mas ficheiros transferidos e novos marcadores serão guardados no seu dispositivo.">
+<!-- Localization note (privatebrowsingpage.description.normal2): "Private
+     Browsing" is capitalized in English to be consistent with our existing uses
+     of the term. -->
 <!ENTITY privatebrowsingpage.description.normal2 "Na Navegação Privada, não mantemos qualquer histórico de navegação ou cookies. Marcadores que adicione e os ficheiros que transferir serão guardados no seu dispositivo.">
 
 <!ENTITY privatebrowsingpage.link.private "Quer saber mais?">

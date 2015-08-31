@@ -35,7 +35,7 @@
 <!ENTITY fileNotFound.title "Ficheiro não encontrado">
 <!ENTITY fileNotFound.longDesc "<ul> 
 <li>Verifique se existem erros no nome do ficheiro.</li>
-<li>Verifique se o ficheiro foi movido, eliminado ou renomeado.</li>
+<li>Verifique se o ficheiro foi movido, apagado ou renomeado.</li>
 </ul>">
 
 
