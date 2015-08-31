@@ -18,13 +18,13 @@
 <!ENTITY nntpNotDownloadRead.accesskey "L">
 <!ENTITY nntpDownloadMsg.label "Mais mensagens que">
 <!ENTITY nntpDownloadMsg.accesskey "e">
-<!ENTITY retentionCleanup.label "Para ganhar espaço em disco, as mensagens antigas podem ser permanentemente eliminadas.">
-<!ENTITY retentionCleanupImap.label "Para ganhar espaço em disco, as mensagens antigas podem ser permanentemente eliminadas, tanto as cópias locais como os originais no servidor remoto.">
-<!ENTITY retentionCleanupPop.label "Para ganhar espaço em disco, as mensagens antigas podem ser permanentemente eliminadas, incluindo os originais no servidor remoto.">
+<!ENTITY retentionCleanup.label "Para ganhar espaço em disco, as mensagens antigas podem ser permanentemente apagadas.">
+<!ENTITY retentionCleanupImap.label "Para ganhar espaço em disco, as mensagens antigas podem ser permanentemente apagadas, tanto as cópias locais como os originais no servidor remoto.">
+<!ENTITY retentionCleanupPop.label "Para ganhar espaço em disco, as mensagens antigas podem ser permanentemente apagadas, incluindo os originais no servidor remoto.">
 <!ENTITY retentionKeepMsg.label "Apagar mensagens com mais de">
 <!ENTITY retentionKeepMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Não apagar quaisquer mensagens">
-<!ENTITY retentionKeepAll.accesskey "g">
+<!ENTITY retentionKeepAll.accesskey "N">
 <!ENTITY retentionKeepRecent.label "Apagar todas, exceto as mais recentes">
 <!ENTITY retentionKeepRecent.accesskey "r">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->

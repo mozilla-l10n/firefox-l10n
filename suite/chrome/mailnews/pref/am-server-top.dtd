@@ -38,16 +38,16 @@
 <!ENTITY deleteByAgeFromServer.label "Durante">
 <!ENTITY deleteByAgeFromServer.accesskey "D">
 <!ENTITY daysEnd.label "dias">
-<!ENTITY deleteOnServer2.label "Até eu as eliminar">
+<!ENTITY deleteOnServer2.label "Até eu as apagar">
 <!ENTITY deleteOnServer2.accesskey "A">
 <!ENTITY downloadOnBiff.label "Descarregar novas mensagens automaticamente">
 <!ENTITY downloadOnBiff.accesskey "m">
 <!ENTITY username.label "Nome de acesso">
-<!ENTITY deleteMessagePrefix.label "Se eu eliminar uma mensagem:">
+<!ENTITY deleteMessagePrefix.label "Se eu apagar uma mensagem:">
 <!ENTITY modelMoveToTrash.label "Mover para esta pasta:">
 <!ENTITY modelMoveToTrash.accesskey "o">
-<!ENTITY modelMarkDeleted.label "Marcar como eliminada">
-<!ENTITY modelMarkDeleted.accesskey "e">
+<!ENTITY modelMarkDeleted.label "Marcar como apagada">
+<!ENTITY modelMarkDeleted.accesskey "a">
 <!ENTITY modelDeleteImmediately.label "Remover imediatamente">
 <!ENTITY modelDeleteImmediately.accesskey "d">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->

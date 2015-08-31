@@ -106,7 +106,7 @@
 
 <!ENTITY setup.optionsConfirmPage.title "Confirmar">
 <!ENTITY confirm.merge.label    "&syncBrand.fullName.label; vai juntar a informação deste navegador na sua conta Sync.">
-<!ENTITY confirm.client2.label         "Aviso: os seguintes dados do &brandShortName; neste computador serão eliminados:">
+<!ENTITY confirm.client2.label         "Aviso: os seguintes dados do &brandShortName; neste computador serão apagados:">
 <!ENTITY confirm.client.moreinfo.label "O &brandShortName; depois copiará a informação do &syncBrand.fullName.label; para este computador.">
 <!ENTITY confirm.server2.label         "Aviso: os seguintes dispositivos serão sobrescritos pelos seus dados locais:">
 <!-- New & Existing Account: Setup Complete -->
