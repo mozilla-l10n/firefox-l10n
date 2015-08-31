@@ -9,7 +9,7 @@
 <!ENTITY provideSearchSuggestions.label        "提供搜尋建議">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
 
-<!ENTITY showURLBarSuggestions.label           "Show search suggestions in location bar results">
+<!ENTITY showURLBarSuggestions.label           "在網址列結果中列出搜尋建議">
 <!ENTITY showURLBarSuggestions.accesskey       "l">
 
 <!ENTITY redirectWindowsSearch.label "從 Windows 中進行搜尋時使用此搜尋引擎">
