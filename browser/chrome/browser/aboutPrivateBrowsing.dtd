@@ -8,10 +8,11 @@
 
 <!ENTITY privateBrowsing.title                 "Patloya Sephiri">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
-     Width of the Private Browsing section.
+     Width of the Private Browsing section. This should depend primarily on the
+     length of the headers and text, but should be roughly 1.5 times the width
+     of the Tracking Protection section, and in general not much larger than
+     30em to prevent the sections from wrapping on smaller window sizes.
      -->
-
-<!ENTITY aboutPrivateBrowsing.width            "25em">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
      aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
      These strings will be replaced by aboutPrivateBrowsing.forgotten and
@@ -22,22 +23,26 @@
 <!ENTITY aboutPrivateBrowsing.subtitle         "Mo letlhabaphefong ee, &brandShortName; ga e kake ya gakologelwa motlhala ope.">
 
 <!ENTITY aboutPrivateBrowsing.forgotten        "Mo letlhabaphefong le, &brandShortName; ga e kake ya gakologelwa:">
-<!ENTITY aboutPrivateBrowsing.info.forgotten   "lebetswe">
+
 <!ENTITY aboutPrivateBrowsing.info.history     "ditso">
 <!ENTITY aboutPrivateBrowsing.info.searches    "Dipatlo">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Dikhukhi">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Difaele tsa nakwana">
 
 <!ENTITY aboutPrivateBrowsing.kept             "&brandShortName; e tla boloka:">
-<!ENTITY aboutPrivateBrowsing.info.kept        "Tshegeditswe">
+
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Dikopololo">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Matshwaotsebe">
 
 <!ENTITY aboutPrivateBrowsing.note1            "Tswêê-tswêê itse fa mmereki wa gago kgotsa motlamedi wa tirelo ya inthanete a ka nna a latedisa ditsebe tse o di etelang.">
 <!ENTITY aboutPrivateBrowsing.learnMore        "Ithute mo Gontsi.">
 <!-- LOCALIZATION NOTE (trackingProtection.width):
-     Width of the Tracking Protection section. This should be enough to
-     accommodate the title as well as the enabled or disabled indicator.
+     Width of the Tracking Protection section. It is fine for the enabled or
+     disabled indicator or the words in the title to wrap to the next line, but
+     you can expand or reduce this section to fit better, as long as the width
+     of the Private Browsing section is roughly 1.5 times the width of this one.
+     Note that the required space may vary between platforms because fonts are
+     different, so testing on Windows, Mac, and Linux is encouraged.
      -->
 
 <!ENTITY trackingProtection.width              "22em">
