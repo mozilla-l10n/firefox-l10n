@@ -224,7 +224,7 @@
 <!ENTITY fxaccount_status_more "Mais&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "Remover Conta do Firefox?">
-<!ENTITY fxaccount_remove_account_dialog_message "O &brandShortName; irá parar de sincronizar a sua conta, mas não irá eliminar os dados de navegação neste dispositivo.">
+<!ENTITY fxaccount_remove_account_dialog_message "O &brandShortName; irá parar de sincronizar a sua conta, mas não irá apagar os dados de navegação neste dispositivo.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "Conta do Firefox &formatS; removida.">
