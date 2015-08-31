@@ -30,7 +30,7 @@ ligação do seu computador à rede.</li>
 <!ENTITY fileNotFound.title "Ficheiro não encontrado">
 <!ENTITY fileNotFound.longDesc "<ul> 
 <li>Verifique se existem erros de escrita no nome do ficheiro.</li> 
-<li>Verifique se o ficheiro foi movido, renomeado ou eliminado.</li> 
+<li>Verifique se o ficheiro foi movido, renomeado ou apagado.</li> 
 </ul>">
 
 
