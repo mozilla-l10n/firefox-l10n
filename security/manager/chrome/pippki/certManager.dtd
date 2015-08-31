@@ -61,8 +61,8 @@
 <!ENTITY certmgr.export.accesskey             "x">
 <!ENTITY certmgr.delete2.label                "Apagar…">
 <!ENTITY certmgr.delete2.accesskey            "A">
-<!ENTITY certmgr.delete_builtin.label         "Eliminar/remover confiança…">
-<!ENTITY certmgr.delete_builtin.accesskey     "m">
+<!ENTITY certmgr.delete_builtin.label         "Apagar/remover confiança…">
+<!ENTITY certmgr.delete_builtin.accesskey     "A">
 <!ENTITY certmgr.backup2.label                "Cópia de segurança…">
 <!ENTITY certmgr.backup2.accesskey            "s">
 <!ENTITY certmgr.backupall2.label             "Copiar todos…">
