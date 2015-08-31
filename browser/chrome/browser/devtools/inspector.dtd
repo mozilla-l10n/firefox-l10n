@@ -77,7 +77,7 @@
      the inspector contextual-menu for the item that lets users delete the
      current node -->
 
-<!ENTITY inspectorHTMLDelete.label          "Eliminar nó">
+<!ENTITY inspectorHTMLDelete.label          "Apagar nó">
 <!ENTITY inspectorHTMLDelete.accesskey      "n">
 
 <!ENTITY inspector.selectButton.tooltip     "Selecione o elemento com o rato">
