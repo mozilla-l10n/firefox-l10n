@@ -32,8 +32,8 @@
 <!ENTITY addTagButton.accesskey    "A">
 <!ENTITY editTagButton.label       "Editar">
 <!ENTITY editTagButton.accesskey   "E">
-<!ENTITY removeTagButton.label     "Eliminar">
-<!ENTITY removeTagButton.accesskey "l">
+<!ENTITY removeTagButton.label     "Apagar">
+<!ENTITY removeTagButton.accesskey "A">
 <!-- Fonts and Colors -->
 
 <!ENTITY fontsAndColors1.label   "Tipos de letra">
@@ -69,5 +69,5 @@
 <!ENTITY reuseExpRadio0.accesskey         "v">
 <!ENTITY reuseExpRadio1.label             "Na janela existente">
 <!ENTITY reuseExpRadio1.accesskey         "j">
-<!ENTITY closeMsgOnMoveOrDelete.label     "Fechar janela/separador de mensagem ao mover ou eliminar">
+<!ENTITY closeMsgOnMoveOrDelete.label     "Fechar janela/separador de mensagem ao mover ou apagar">
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "F">

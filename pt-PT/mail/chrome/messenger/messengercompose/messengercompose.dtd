@@ -79,8 +79,8 @@
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.accesskey "w">
-<!ENTITY deleteCmd.label "Eliminar">
-<!ENTITY deleteCmd.accesskey "l">
+<!ENTITY deleteCmd.label "Apagar">
+<!ENTITY deleteCmd.accesskey "A">
 <!ENTITY editRewrapCmd.label "w">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY renameAttachmentCmd.label "Mudar nome do anexo...">
@@ -277,8 +277,8 @@
 
 <!ENTITY openAttachment.label "Abrir">
 <!ENTITY openAttachment.accesskey "A">
-<!ENTITY delete.label "Eliminar">
-<!ENTITY delete.accesskey "l">
+<!ENTITY delete.label "Apagar">
+<!ENTITY delete.accesskey "A">
 <!ENTITY removeAttachment.label "Remover anexo">
 <!ENTITY removeAttachment.accesskey "m">
 <!ENTITY renameAttachment.label "Mudar nome...">

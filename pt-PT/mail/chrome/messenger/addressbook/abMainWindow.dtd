@@ -58,8 +58,8 @@
 <!ENTITY pasteCmd.label                                 "Colar">
 <!ENTITY pasteCmd.key                                   "V">
 <!ENTITY pasteCmd.accesskey                             "o">
-<!ENTITY deleteCmd.label                                "Eliminar">
-<!ENTITY deleteCmd.accesskey                            "l">
+<!ENTITY deleteCmd.label                                "Apagar">
+<!ENTITY deleteCmd.accesskey                            "A">
 <!ENTITY deleteAbCmd.label                              "Apagar livro de endereços">
 <!ENTITY deleteContactCmd.label                         "Apagar contacto">
 <!ENTITY deleteContactsCmd.label                        "Apagar contactos">
@@ -139,8 +139,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.accesskey                         "E">
 <!ENTITY newIM.label                                    "Mensagem instantânea">
 <!ENTITY newIM.accesskey                                "M">
-<!ENTITY deleteButton2.label                            "Eliminar">
-<!ENTITY deleteButton2.accesskey                        "l">
+<!ENTITY deleteButton2.label                            "Apagar">
+<!ENTITY deleteButton2.accesskey                        "A">
 <!-- Address Book Toolbar Tooltips -->
 
 <!ENTITY newContactButton.tooltip                       "Criar novo contacto no livro de endereços">

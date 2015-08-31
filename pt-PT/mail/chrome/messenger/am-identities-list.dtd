@@ -9,7 +9,7 @@
 <!ENTITY identitiesListEdit.accesskey "E">
 <!ENTITY identitiesListDefault.label "Pré-definida">
 <!ENTITY identitiesListDefault.accesskey "P">
-<!ENTITY identitiesListDelete.label "Eliminar">
-<!ENTITY identitiesListDelete.accesskey "l">
+<!ENTITY identitiesListDelete.label "Apagar">
+<!ENTITY identitiesListDelete.accesskey "A">
 <!ENTITY identitiesListClose.label "Fechar">
 <!ENTITY identitiesListClose.accesskey "c">

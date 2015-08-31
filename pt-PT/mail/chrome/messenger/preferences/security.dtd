@@ -13,8 +13,8 @@
 <!ENTITY manualMark.accesskey "A">
 <!ENTITY manualMarkModeMove.label "Mover para a pasta &quot;Lixo eletrónico&quot;">
 <!ENTITY manualMarkModeMove.accesskey "o">
-<!ENTITY manualMarkModeDelete.label "Eliminar">
-<!ENTITY manualMarkModeDelete.accesskey "l">
+<!ENTITY manualMarkModeDelete.label "Apagar">
+<!ENTITY manualMarkModeDelete.accesskey "A">
 <!ENTITY markAsReadOnSpam.label "Marcar mensagens consideradas lixo eletrónico como lidas">
 <!ENTITY markAsReadOnSpam.accesskey "m">
 <!ENTITY enableAdaptiveJunkLogging.label "Ativar registo inteligente do filtro do lixo eletrónico">

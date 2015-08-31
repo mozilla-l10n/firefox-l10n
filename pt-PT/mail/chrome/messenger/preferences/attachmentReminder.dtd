@@ -8,5 +8,5 @@
 <!ENTITY addKeywordButton.accesskey       "A">
 <!ENTITY editKeywordButton.label          "Editar">
 <!ENTITY editKeywordButton.accesskey      "E">
-<!ENTITY removeKeywordButton.label        "Eliminar">
-<!ENTITY removeKeywordButton.accesskey    "l">
+<!ENTITY removeKeywordButton.label        "Apagar">
+<!ENTITY removeKeywordButton.accesskey    "A">

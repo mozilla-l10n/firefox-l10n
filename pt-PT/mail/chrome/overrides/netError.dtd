@@ -30,7 +30,7 @@ se o &brandShortName; tem permissão para aceder à web.</li>
 <!ENTITY fileNotFound.title "Ficheiro não encontrado">
 <!ENTITY fileNotFound.longDesc "<ul> 
 <li>Verifique no nome do ficheiro por letras maiúsculas ou outros erros de escrita.</li> 
-<li>Verifique se o ficheiro foi movido, renomeado ou eliminado.</li> 
+<li>Verifique se o ficheiro foi movido, renomeado ou apagado.</li> 
 </ul>">
 
 <!ENTITY generic.title "Bolas">

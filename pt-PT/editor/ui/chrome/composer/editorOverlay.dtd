@@ -269,8 +269,8 @@
 <!ENTITY tableCellAfter.label "Célula à direita">
 <!ENTITY tableCellAfter.accesskey "e">
 <!-- Delete SubMenu -->
-<!ENTITY tableDeleteMenu.label "Eliminar">
-<!ENTITY tableDeleteMenu.accesskey "l">
+<!ENTITY tableDeleteMenu.label "Apagar">
+<!ENTITY tableDeleteMenu.accesskey "A">
 <!-- text for "Join Cells" is in editor.properties 
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings

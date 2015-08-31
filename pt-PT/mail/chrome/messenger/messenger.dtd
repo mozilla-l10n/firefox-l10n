@@ -87,16 +87,16 @@
 <!ENTITY printSetupCmd.accesskey "C">
 <!-- Edit Menu -->
 
-<!ENTITY deleteMsgCmd.label "Eliminar mensagem">
-<!ENTITY deleteMsgCmd.accesskey "l">
+<!ENTITY deleteMsgCmd.label "Apagar mensagem">
+<!ENTITY deleteMsgCmd.accesskey "A">
 <!ENTITY undeleteMsgCmd.label "Recuperar mensagem">
 <!ENTITY undeleteMsgCmd.accesskey "u">
-<!ENTITY deleteMsgsCmd.label "Eliminar mensagens selecionadas">
-<!ENTITY deleteMsgsCmd.accesskey "l">
+<!ENTITY deleteMsgsCmd.label "Apagar mensagens selecionadas">
+<!ENTITY deleteMsgsCmd.accesskey "d">
 <!ENTITY undeleteMsgsCmd.label "Recuperar mensagens selecionadas">
-<!ENTITY undeleteMsgsCmd.accesskey "u">
-<!ENTITY deleteFolderCmd.label "Eliminar pasta">
-<!ENTITY deleteFolderCmd.accesskey "i">
+<!ENTITY undeleteMsgsCmd.accesskey "d">
+<!ENTITY deleteFolderCmd.label "Apagar pasta">
+<!ENTITY deleteFolderCmd.accesskey "A">
 <!ENTITY unsubscribeNewsgroupCmd.label "Cancelar subscrição">
 <!ENTITY unsubscribeNewsgroupCmd.accesskey "c">
 <!ENTITY selectMenu.label "Selecionar">
@@ -511,7 +511,7 @@
 <!ENTITY goForwardButton1.label "Avançar">
 <!ENTITY deleteItem.title "Apagar">
 <!ENTITY deleteButton.label "Apagar">
-<!ENTITY undeleteButton.label "Restaurar">
+<!ENTITY undeleteButton.label "Recuperar">
 <!ENTITY markButton.label "Marcar">
 <!ENTITY printButton.label "Imprimir">
 <!ENTITY stopButton.label "Parar">
@@ -550,7 +550,7 @@
 <!ENTITY goForwardButton.tooltip "Avançar uma mensagem">
 <!ENTITY goBackButton.tooltip "Recuar uma mensagem">
 <!ENTITY deleteButton.tooltip "Apagar pasta ou mensagem selecionada">
-<!ENTITY undeleteButton.tooltip "Restaurar mensagem selecionada">
+<!ENTITY undeleteButton.tooltip "Recuperar mensagem selecionada">
 <!ENTITY markButton.tooltip "Marcar mensagens">
 <!ENTITY printButton.tooltip "Imprimir esta mensagem">
 <!ENTITY stopButton.tooltip "Parar transferência atual">
@@ -559,7 +559,7 @@
 <!ENTITY addressBookButton.tooltip "Ir para o livro de endereços">
 <!ENTITY chatButton.tooltip "Mostrar o separador de chat">
 <!ENTITY tagButton.tooltip "Classificar mensagens">
-<!ENTITY compactButton.tooltip "Remover mensagens eliminadas da pasta selecionada">
+<!ENTITY compactButton.tooltip "Remover mensagens apagadas da pasta selecionada">
 <!ENTITY appmenuButton1.tooltip "Mostrar menu do &brandShortName;">
 <!-- Toolbar Button Popup -->
 
@@ -613,8 +613,8 @@
 <!ENTITY folderContextNew.accesskey "N">
 <!ENTITY folderContextRename.label "Mudar nome">
 <!ENTITY folderContextRename.accesskey "M">
-<!ENTITY folderContextRemove.label "Eliminar">
-<!ENTITY folderContextRemove.accesskey "l">
+<!ENTITY folderContextRemove.label "Apagar">
+<!ENTITY folderContextRemove.accesskey "A">
 <!ENTITY folderContextCompact.label "Compactar">
 <!ENTITY folderContextCompact.accesskey "C">
 <!ENTITY folderContextEmptyTrash.label "Esvaziar lixo">

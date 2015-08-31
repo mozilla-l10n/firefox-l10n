@@ -13,8 +13,8 @@
 <!ENTITY resetButton.accesskey       "L">
 <!ENTITY openButton.label            "Abrir">
 <!ENTITY openButton.accesskey        "A">
-<!ENTITY deleteButton.label          "Eliminar">
-<!ENTITY deleteButton.accesskey      "m">
+<!ENTITY deleteButton.label          "Apagar">
+<!ENTITY deleteButton.accesskey      "A">
 <!ENTITY searchDialogTitle.label     "Pesquisar mensagens">
 <!ENTITY results.label               "Resultados">
 <!ENTITY moveButton.label            "Mover para">
@@ -32,8 +32,8 @@
 <!ENTITY propertiesButton.accesskey  "P">
 <!ENTITY composeButton.label         "Escrever">
 <!ENTITY composeButton.accesskey     "s">
-<!ENTITY deleteCardButton.label      "Eliminar">
-<!ENTITY deleteCardButton.accesskey  "l">
+<!ENTITY deleteCardButton.label      "Apagar">
+<!ENTITY deleteCardButton.accesskey  "A">
 <!ENTITY abSearchDialogTitle.label   "Pesquisa avançada no livro de endereços">
 <!-- Thread Pane -->
 

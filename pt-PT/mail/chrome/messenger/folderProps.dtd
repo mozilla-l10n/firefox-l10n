@@ -12,7 +12,7 @@
 <!ENTITY folderRebuildSummaryFileTip2.label      "Recriar índice de ficheiros">
 <!ENTITY folderRebuildSummaryFile2.label         "Reparar pasta">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">
-<!ENTITY folderRebuildSummaryFile.explanation    "Por vezes, o índice da pasta (.msf) fica danificado e as mensagens poderão desaparecer ou as já eliminadas continuam a aparecer. A reparação de pasta poderá resolver este problema.">
+<!ENTITY folderRebuildSummaryFile.explanation    "Às vezes, o índice da pasta (.msf) fica danificado e algumas mensagens podem desaparecer ou mensagens apagadas continuam a aparecer; a reparação da pasta pode corrigir estes problemas.">
 <!ENTITY folderIncludeInGlobalSearch.label       "Incluir mensagens desta pasta nos resultados de pesquisa global">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "g">
 
@@ -21,12 +21,12 @@
 <!ENTITY retentionUseAccount.accesskey "d">
 <!ENTITY daysOld.label "dias de antiguidade">
 <!ENTITY message.label "mensagens">
-<!ENTITY retentionCleanup.label "Para economizar espaço em disco, as mensagens antigas podem ser eliminadas permanentemente.">
-<!ENTITY retentionCleanupImap.label "Para economizar espaço em disco, as mensagens antigas podem ser eliminadas permanentemente, tanto as cópias locais como as existentes no servidor remoto.">
-<!ENTITY retentionCleanupPop.label "Para economizar espaço em disco, as mensagens antigas podem ser eliminadas permanentemente, incluindo as existentes no servidor remoto.">
-<!ENTITY retentionDeleteMsg.label "Eliminar mensagens maiores que">
+<!ENTITY retentionCleanup.label "Para ganhar espaço em disco, as mensagens antigas podem ser permanentemente apagadas.">
+<!ENTITY retentionCleanupImap.label "Para ganhar espaço em disco, as mensagens antigas podem ser permanentemente apagadas, tanto as cópias locais como os originais no servidor remoto.">
+<!ENTITY retentionCleanupPop.label "Para ganhar espaço em disco, as mensagens antigas podem ser permanentemente apagadas, incluindo os originais no servidor remoto.">
+<!ENTITY retentionDeleteMsg.label "Apagar mensagens maiores que">
 <!ENTITY retentionDeleteMsg.accesskey "m">
-<!ENTITY retentionKeepAll.label "Não eliminar mensagens">
+<!ENTITY retentionKeepAll.label "Não apagar quaisquer mensagens">
 <!ENTITY retentionKeepAll.accesskey "a">
 <!ENTITY retentionKeepRecent.label "Eliminar todas menos as mais recentes">
 <!ENTITY retentionKeepRecent.accesskey "l">

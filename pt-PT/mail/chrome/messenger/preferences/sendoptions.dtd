@@ -24,10 +24,10 @@
 <!ENTITY AddHtmlDomain.accesskey      "A">
 <!ENTITY AddPlainText.label           "Adicionar…">
 <!ENTITY AddPlainText.accesskey       "A">
-<!ENTITY DeleteHtmlDomain.label       "Eliminar">
-<!ENTITY DeleteHtmlDomain.accesskey   "l">
-<!ENTITY DeletePlainText.label        "Eliminar">
-<!ENTITY DeletePlainText.accesskey    "l">
+<!ENTITY DeleteHtmlDomain.label       "Apagar">
+<!ENTITY DeleteHtmlDomain.accesskey   "A">
+<!ENTITY DeletePlainText.label        "Apagar">
+<!ENTITY DeletePlainText.accesskey    "A">
 
 <!ENTITY add.htmltitle                "Adicionar nome de domínio HTML">
 <!ENTITY add.htmldomain               "Nome do domínio HTML:">
