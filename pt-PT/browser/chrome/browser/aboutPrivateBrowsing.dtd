@@ -8,10 +8,11 @@
 
 <!ENTITY privateBrowsing.title                 "Navegação privada">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
-     Width of the Private Browsing section.
+     Width of the Private Browsing section. This should depend primarily on the
+     length of the headers and text, but should be roughly 1.5 times the width
+     of the Tracking Protection section, and in general not much larger than
+     30em to prevent the sections from wrapping on smaller window sizes.
      -->
-
-<!ENTITY aboutPrivateBrowsing.width            "25em">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
      aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
      These strings will be replaced by aboutPrivateBrowsing.forgotten and
@@ -22,22 +23,26 @@
 <!ENTITY aboutPrivateBrowsing.subtitle         "Nesta janela, o &brandShortName; não irá guardar o seu histórico de navegação.">
 
 <!ENTITY aboutPrivateBrowsing.forgotten        "Nesta janela, o &brandShortName; não irá guardar:">
-<!ENTITY aboutPrivateBrowsing.info.forgotten   "Esquecido">
+<!ENTITY aboutPrivateBrowsing.info.forgotten   "Não guardado">
 <!ENTITY aboutPrivateBrowsing.info.history     "Histórico">
 <!ENTITY aboutPrivateBrowsing.info.searches    "Pesquisas">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Cookies">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Ficheiros temporários">
 
 <!ENTITY aboutPrivateBrowsing.kept             "O &brandShortName; memorizará:">
-<!ENTITY aboutPrivateBrowsing.info.kept        "Mantido">
+<!ENTITY aboutPrivateBrowsing.info.kept        "Guardado">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Descargas">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Marcadores">
 
 <!ENTITY aboutPrivateBrowsing.note1            "Por favor, note que o seu empregador ou a operadora do serviço de Internet podem, ainda assim, monitorizar as páginas a que aceder.">
 <!ENTITY aboutPrivateBrowsing.learnMore        "Saber mais.">
 <!-- LOCALIZATION NOTE (trackingProtection.width):
-     Width of the Tracking Protection section. This should be enough to
-     accommodate the title as well as the enabled or disabled indicator.
+     Width of the Tracking Protection section. It is fine for the enabled or
+     disabled indicator or the words in the title to wrap to the next line, but
+     you can expand or reduce this section to fit better, as long as the width
+     of the Private Browsing section is roughly 1.5 times the width of this one.
+     Note that the required space may vary between platforms because fonts are
+     different, so testing on Windows, Mac, and Linux is encouraged.
      -->
 
 <!ENTITY trackingProtection.width              "22em">
