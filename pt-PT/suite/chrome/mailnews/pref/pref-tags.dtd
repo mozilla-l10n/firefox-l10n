@@ -10,8 +10,8 @@
 <!ENTITY defaultTagName.label       "Etiqueta sem nome">
 <!ENTITY addTagButton.label         "Adicionar">
 <!ENTITY addTagButton.accesskey     "A">
-<!ENTITY deleteTagButton.label      "Eliminar">
-<!ENTITY deleteTagButton.accesskey  "l">
+<!ENTITY deleteTagButton.label      "Apagar">
+<!ENTITY deleteTagButton.accesskey  "A">
 <!ENTITY raiseTagButton.label       "Aumentar importância">
 <!ENTITY raiseTagButton.accesskey   "u">
 <!ENTITY lowerTagButton.label       "Baixar Importância">

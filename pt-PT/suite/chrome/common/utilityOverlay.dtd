@@ -57,8 +57,8 @@
 
 <!ENTITY pasteSearchCmd.label             "Colar e pesquisar">
 <!ENTITY pasteSearchCmd.accesskey         "e">
-<!ENTITY deleteCmd.label                  "Eliminar">
-<!ENTITY deleteCmd.accesskey              "l">
+<!ENTITY deleteCmd.label                  "Apagar">
+<!ENTITY deleteCmd.accesskey              "A">
 <!ENTITY selectAllCmd.label               "Selecionar tudo">
 <!ENTITY selectAllCmd.key                 "a">
 <!ENTITY selectAllCmd.accesskey           "S">

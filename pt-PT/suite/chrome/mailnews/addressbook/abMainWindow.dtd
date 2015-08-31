@@ -77,8 +77,8 @@
 <!ENTITY editItemButton.accesskey                       "P">
 <!ENTITY newmsgButton.label                             "Criar">  
 <!ENTITY newmsgButton.accesskey                         "C">  
-<!ENTITY deleteItemButton.label                         "Eliminar">
-<!ENTITY deleteItemButton.accesskey                     "a">
+<!ENTITY deleteItemButton.label                         "Apagar">
+<!ENTITY deleteItemButton.accesskey                     "A">
 <!ENTITY newimButton.label                              "Mensagem instantânea">  
 <!ENTITY newimButton.accesskey                          "i">  
 <!ENTITY searchNameAndEmail.placeholder                 "Pesquisar nome e e-mail">
