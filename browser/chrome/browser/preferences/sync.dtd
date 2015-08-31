@@ -84,8 +84,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY welcome.useOldSync.label "還在使用舊版的 Sync？">
 
 <!ENTITY signedOut.caption            "把 Web 隨身帶著走">
-<!ENTITY signedOut.description        "Synchronize your bookmarks, history, tabs, passwords, add-ons, and preferences across all your devices.">
-<!ENTITY signedOut.accountBox.title   "Connect with a &syncBrand.fxAccount.label;">
+<!ENTITY signedOut.description        "同步您所以裝置的書籤、歷史紀錄、分頁、密碼、附加元件以及偏好。">
+<!ENTITY signedOut.accountBox.title   "連線到 &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "建立帳號">
 <!ENTITY signedOut.accountBox.signin  "登入">
 

@@ -28,7 +28,7 @@
 <!ENTITY  locbar.searches.label         "預設搜尋引擎的相關搜尋結果">
 <!ENTITY  locbar.searches.accesskey     "d">
 
-<!ENTITY  suggestionSettings.label      "Change preferences for search engine suggestions…">
+<!ENTITY  suggestionSettings.label      "改變搜尋建議偏好⋯">
 <!ENTITY  suggestionSettings.accesskey  "g">
 
 <!ENTITY  acceptCookies.label           "允許網站設定 Cookie">
