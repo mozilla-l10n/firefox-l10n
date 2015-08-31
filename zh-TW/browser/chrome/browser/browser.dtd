@@ -692,19 +692,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionInternal "這是安全的 &brandShortName; 頁面。">
 
 <!-- Strings for connection state warnings. -->
-<!ENTITY identity.activeBlocked "&brandShortName; 已經封鎖部分不安全的頁面。">
+<!ENTITY identity.activeBlocked "&brandShortName; 已經封鎖此頁面中不安全的部分。">
 <!ENTITY identity.passiveLoaded "本頁面中的部分內容（例如圖片）並不安全。">
 <!ENTITY identity.activeLoaded "您已停用此頁面中的保護。">
 <!ENTITY identity.weakEncryption "此頁面使用了弱強度的加密。">
 
 <!-- Strings for connection state warnings in the subview. -->
-<!ENTITY identity.description.insecure "您到此網站的連線並不私密。你發送的資訊（像是密碼、訊息、信用卡等等）可能會被第三者看到。">
-<!ENTITY identity.description.weakCipher "您到此網站的連線使用了弱強度的加密，因此不私密。">
+<!ENTITY identity.description.insecure "您到此網站的連線並不私密。您發送的資訊（像是密碼、訊息、信用卡等等）可能會被其他人看到。">
+<!ENTITY identity.description.weakCipher "您與此網站間的連線使用了弱強度的加密，並不私密。">
 <!ENTITY identity.description.weakCipher2 "其他人可以看到您的資訊，或修改網站的行為。">
-<!ENTITY identity.description.activeBlocked "&brandShortName; 已經封鎖部分不安全的頁面。">
+<!ENTITY identity.description.activeBlocked "&brandShortName; 已經封鎖此頁面中不安全的部分。">
 <!ENTITY identity.description.passiveLoaded "您的連線並不私密，您提供給此網站的資訊可能會被其他人看到。">
 <!ENTITY identity.description.passiveLoaded2 "此網站包含不安全的內容（例如圖片）。">
-<!ENTITY identity.description.passiveLoaded3 "雖然 &brandShortName; 已經封鎖部分內容，但網頁上依然有不安全的內容（例如圖片）。">
+<!ENTITY identity.description.passiveLoaded3 "雖然 &brandShortName; 已經封鎖部分內容，但頁面中還是有不安全的內容（例如圖片）。">
 <!ENTITY identity.description.activeLoaded "此網站包含不安全的內容（例如指令碼），與其之間的連線並不私密。">
 <!ENTITY identity.description.activeLoaded2 "您提供給此網站的資訊（例如密碼、訊息、信用卡號等等）可能會被其他人看到。">
 
@@ -793,8 +793,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "將分享您畫面上所有可見的視窗。">
 
 <!ENTITY trackingProtection.title "追蹤保護">
-<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; 已經封鎖部分可能會追蹤您的瀏覽的頁面。">
-<!ENTITY trackingProtection.detectedNotBlocked3 "網站包含可能會追蹤您瀏覽的元素，但您已停用保護。">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; 已經封鎖頁面中可能會追蹤您瀏覽行為的部分。">
+<!ENTITY trackingProtection.detectedNotBlocked3 "此網站包含可能會追蹤您瀏覽行為的元素，但您已停用保護。">
 <!ENTITY trackingProtection.notDetected3 "未在此頁面偵測到追蹤元素。">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
