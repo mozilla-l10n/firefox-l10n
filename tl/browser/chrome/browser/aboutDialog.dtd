@@ -8,10 +8,10 @@
 # the about dialog (see bug 596813 for screenshots).
 -->
 
+<!ENTITY update.updateButton.label2                "Patakbuhin ulit ang &brandShortName; upang mailapat ang Pagbabago">
 
-
-<!ENTITY update.applyButtonBillboard.label        "Buksan muli para magupdate">
-<!ENTITY update.applyButtonBillboard.accesskey    "B">
+<!ENTITY update.applyButtonBillboard.label        "Gamitin sa pag update">
+<!ENTITY update.applyButtonBillboard.accesskey    "G">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
 

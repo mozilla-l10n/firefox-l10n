@@ -66,7 +66,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.commandkey "p">
 
-
+<!ENTITY goOfflineCmd.label "Gumawa kahit walang Internet">
+<!ENTITY goOfflineCmd.accesskey "k">
 
 
 
@@ -596,8 +597,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "Lumipat ng Page Direction">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
-<!ENTITY bidiSwitchTextDirectionItem.label        "Lumipat ng Text Direction">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey    "L">
+<!ENTITY bidiSwitchTextDirectionItem.label        "Switch Text Direction">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Hanapin sa web page na ito…">
@@ -664,8 +665,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-<!ENTITY social.learnMore.label "Learn more…">
-<!ENTITY social.learnMore.accesskey "L">
+<!ENTITY social.learnMore.label "Alamin pa">
+<!ENTITY social.learnMore.accesskey "A">
 <!ENTITY social.closeNotificationItem.label "Hindi Ngayon">
 
 
