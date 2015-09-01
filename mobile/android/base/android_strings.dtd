@@ -239,6 +239,7 @@
 <!ENTITY share_title "Condividi con">
 <!ENTITY share_image_failed "Impossibile condividere questa immagine">
 <!ENTITY save_as_pdf "Salva come PDF">
+<!ENTITY print "Stampa">
 <!ENTITY find_in_page "Trova nella pagina">
 <!ENTITY desktop_mode "Modalità desktop">
 <!ENTITY page "Pagina">
