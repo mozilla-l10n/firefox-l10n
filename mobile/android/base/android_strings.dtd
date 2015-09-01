@@ -204,8 +204,8 @@
 
 <!ENTITY tracking_protection_prompt_title "Ahora con protección contra rastreo.">
 
-
-
+<!ENTITY tracking_protection_prompt_tip_text "Visita la configuración de privacidad para saber más">
+<!ENTITY tracking_protection_prompt_action_button "¡Lo tengo!">
 
 <!ENTITY tab_queue_toast_message3 "Pestaña guardada en &brandShortName;">
 <!ENTITY tab_queue_toast_action "Abrir ahora">
@@ -556,7 +556,8 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-
+<!ENTITY identity_connection_secure "Conexión segura">
+<!ENTITY identity_connection_insecure "Conexión insegura">
 <!-- Mixed content notifications in site identity popup -->
 
 
