@@ -60,12 +60,12 @@
 <!ENTITY cmd.goToDownloadPage.accesskey   "g">
 <!ENTITY cmd.copyDownloadLink.label       "Sao chép liên kết tải về">
 <!ENTITY cmd.copyDownloadLink.accesskey   "l">
-<!ENTITY cmd.removeFromHistory.label      "Xóa khỏi lịch sử (e)">
-<!ENTITY cmd.removeFromHistory.accesskey  "e">
+<!ENTITY cmd.removeFromHistory.label      "Xóa khỏi nhật ký">
+<!ENTITY cmd.removeFromHistory.accesskey  "X">
 <!ENTITY cmd.clearList.label              "Xóa trắng danh sách">
 <!ENTITY cmd.clearList.accesskey          "a">
-<!ENTITY cmd.clearDownloads.label         "Xóa các tải về (D)">
-<!ENTITY cmd.clearDownloads.accesskey     "D">
+<!ENTITY cmd.clearDownloads.label         "Xóa các tải về">
+<!ENTITY cmd.clearDownloads.accesskey     "v">
 <!-- LOCALIZATION NOTE (cmd.unblock.label):
      This command may be shown in the context menu, as a menu button item, or as
      a text link when malware or potentially unwanted downloads are blocked.
