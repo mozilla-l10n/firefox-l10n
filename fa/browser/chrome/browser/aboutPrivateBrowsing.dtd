@@ -8,8 +8,13 @@
 
 <!ENTITY privateBrowsing.title                 "مرور خصوصی">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
-     Width of the Private Browsing section.
+     Width of the Private Browsing section. This should depend primarily on the
+     length of the headers and text, but should be roughly 1.5 times the width
+     of the Tracking Protection section, and in general not much larger than
+     30em to prevent the sections from wrapping on smaller window sizes.
      -->
+
+<!ENTITY aboutPrivateBrowsing.width            "30em">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
      aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
      These strings will be replaced by aboutPrivateBrowsing.forgotten and
@@ -20,30 +25,36 @@
 <!ENTITY aboutPrivateBrowsing.subtitle         "در این پنجره، &brandShortName; هیچگونه تاریخچه‌ای را به خاطر نمی‌سپارد.">
 
 <!ENTITY aboutPrivateBrowsing.forgotten        "در این پنجره، &brandShortName; به خاطر نمی‌سپارد:">
-<!ENTITY aboutPrivateBrowsing.info.forgotten   "فراموش شده">
+<!ENTITY aboutPrivateBrowsing.info.forgotten   "ذخیره نشد">
 <!ENTITY aboutPrivateBrowsing.info.history     "تاریخچه">
 <!ENTITY aboutPrivateBrowsing.info.searches    "جست‌وجوها">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "کوکی‌ها">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "پرونده‌های موقتی">
 
 <!ENTITY aboutPrivateBrowsing.kept             "&brandShortName; اینها را نگه خواهد داشت:">
-<!ENTITY aboutPrivateBrowsing.info.kept        "نگه داشته شده">
+<!ENTITY aboutPrivateBrowsing.info.kept        "ذخیره شده">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "بارگیری‌ها">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "نشانک‌ها">
 
 <!ENTITY aboutPrivateBrowsing.note1            "لطفا توجه داشته باشید که کارفرما یا ارائه دهنده خدمات اینترنت شما همچنان می تواند صفحاتی را که بازدید می کنید ردیابی کند.">
 <!ENTITY aboutPrivateBrowsing.learnMore        "بیشتر بدانید.">
 <!-- LOCALIZATION NOTE (trackingProtection.width):
-     Width of the Tracking Protection section. This should be enough to
-     accommodate the title as well as the enabled or disabled indicator.
+     Width of the Tracking Protection section. It is fine for the enabled or
+     disabled indicator or the words in the title to wrap to the next line, but
+     you can expand or reduce this section to fit better, as long as the width
+     of the Private Browsing section is roughly 1.5 times the width of this one.
+     Note that the required space may vary between platforms because fonts are
+     different, so testing on Windows, Mac, and Linux is encouraged.
      -->
-
+<!ENTITY trackingProtection.title              "محافظت در برابر ردگیری">
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
 <!ENTITY trackingProtection.state.enabled      "روشن">
 <!ENTITY trackingProtection.state.disabled     "خاموش">
 
+<!ENTITY trackingProtection.description1       "پنجره خصوصی در حال حاضر بخشی از صفحه ای که امکان داشت فعالیت های مرورگر شما را ردگیری کند را مسدودکرد. ">
 
-
-
+<!ENTITY trackingProtection.disable            "غیرفعال کردن ردگیری">
+<!ENTITY trackingProtection.enable             "فعال کردن محافظ دربرابر ردگیری">
+<!ENTITY trackingProtection.startTour1         "ببینید این چگونه کار می‌کند">
