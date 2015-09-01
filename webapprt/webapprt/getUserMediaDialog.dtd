@@ -14,4 +14,4 @@
 <!ENTITY getUserMediaDialog.video.label             "Одабери камеру">
 <!ENTITY getUserMediaDialog.video.noVideo           "Нема видеа">
 <!ENTITY getUserMediaDialog.audio.label             "Одабери микрофон">
-<!ENTITY getUserMediaDialog.audio.noAudio           "Нема аудио">
+<!ENTITY getUserMediaDialog.audio.noAudio           "Нема звука">
