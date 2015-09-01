@@ -8,14 +8,16 @@
 # the about dialog (see bug 596813 for screenshots).
 -->
 
+<!ENTITY update.checkForUpdatesButton.label       "Magsiyasat ng Updates">
+<!ENTITY update.checkForUpdatesButton.accesskey   "M">
 <!ENTITY update.updateButton.label2                "Patakbuhin ulit ang &brandShortName; upang mailapat ang Pagbabago">
 
-<!ENTITY update.applyButtonBillboard.label        "Gamitin sa pag update">
+<!ENTITY update.applyButtonBillboard.label        "Gamitin sa pag-update">
 <!ENTITY update.applyButtonBillboard.accesskey    "G">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
 
-<!ENTITY warningDesc.version        "Experimental ang &brandShortName; at maaring unstable pa ito.">
+<!ENTITY warningDesc.version        "Ang &brandShortName; ay kasalukuyang pinag-aaralan pa at maaring hindi pa gagana ng maigi.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
@@ -35,9 +37,12 @@
 <!ENTITY community.creditsLink      "pangdaigdigan komunidad">
 <!ENTITY community.end3             "sama-samang nagtatrabaho upang panatilihing bukasang Web, pampubliko at naa-access ng lahat. ">
 
+<!ENTITY helpus.start               "Gusto mong tumulong?">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
+<!ENTITY helpus.donateLink          "Gumawa ng donasyon">
 
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY helpus.getInvolvedLink     "Makilahok na!">
 <!ENTITY helpus.end                 "">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
@@ -54,7 +59,7 @@
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; ay up to date">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "Ang pag-dagdag ng mga pagbabago ay pinawalang bisa ng system administrator">
+<!ENTITY update.adminDisabled       "Ang pagdadagdag ng mga pagbabago ay pinawalang bisa ng iyong system administrator.">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; ay binabago ng isa pang instance">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
@@ -80,7 +85,7 @@
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
 
-<!ENTITY update.unsupported.start    "Hindi na maari ang paglalagay ng mga pagbabago sa system na ito.">
+<!ENTITY update.unsupported.start    "Hindi na maari makapag-update ng pagbabago sa system na ito.">
 
 <!ENTITY update.unsupported.end      "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
@@ -94,4 +99,6 @@
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
+
+<!ENTITY channel.description.start  "Ikaw ay kasalukuyang nasa">
 <!ENTITY channel.description.end    " i-update ang channel. ">
