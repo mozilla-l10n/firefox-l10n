@@ -46,6 +46,6 @@
 <!ENTITY deleteCmd.label                    "Избриши ставку">
 <!ENTITY deleteCmd.key                      "D">
 <!ENTITY deleteCmd.accesskey                "И">
-<!ENTITY selectAllCmd.label                 "Одабери све">
+<!ENTITY selectAllCmd.label                 "Изабери све">
 <!ENTITY selectAllCmd.key                   "A">
 <!ENTITY selectAllCmd.accesskey             "с">
