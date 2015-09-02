@@ -21,12 +21,12 @@
 <!ENTITY pref.missedalarms "اعرض التذكيرات الفائتة">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "ئ">
 <!ENTITY pref.calendar.alarms.defaults.label "إعدادات التذكيرات الافتراضية">
-<!ENTITY pref.defalarm4events.label "الإعداد الافتراضي لتذكيرات الأحداث:">
+<!ENTITY pref.defalarm4events.label "إعداد تذكير للأحداث افتراضيا:">
 <!ENTITY pref.defalarm4events.accesskey "ف">
-<!ENTITY pref.defalarm4todos.label "الإعداد الافتراضي لتذكيرات المهام:">
+<!ENTITY pref.defalarm4todos.label "إعداد تذكير للمهام افتراضيا:">
 <!ENTITY pref.defalarm4todos.accesskey "ت">
-
-
+<!ENTITY pref.alarm.on "أعدّ">
+<!ENTITY pref.alarm.off "لا تعدّ">
 <!ENTITY pref.defalarmlen4events.label "الوقت الافتراضي للتذكير قبل الحدث:">
 <!ENTITY pref.defalarmlen4events.accesskey "ض">
 <!ENTITY pref.defalarmlen4todos.label "الوقت الافتراضي للتذكير قبل المهمة:">
