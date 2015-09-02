@@ -48,10 +48,6 @@
 <!ENTITY ScreenName.label "Komunikator AIM:">
 <!ENTITY ScreenName.accesskey "A">
 
-<!ENTITY allowRemoteContent1.label "Zezwalaj na wyświetlanie zdalnej zawartości w wiadomościach">
-<!ENTITY allowRemoteContent1.accesskey "Z">
-<!ENTITY allowRemoteContent1.tooltip "Wiadomości HTML mogą zawierać zdalną zawartość. Ich otwarcie spowoduje nawiązanie połączenia ze zdalnym zasobem, co może umożliwić nadawcy śledzenie, czy wiadomość została odczytana. Zaznaczenie tego pola pozwoli na automatyczne wczytywanie zdalnej zawartości w wiadomościach od tego kontaktu.">
-
 <!ENTITY WorkPhone.label "Praca:">
 <!ENTITY WorkPhone.accesskey "P">
 <!ENTITY HomePhone.label "Dom:">

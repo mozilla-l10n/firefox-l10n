@@ -445,6 +445,12 @@
 <!ENTITY junkButton.tooltip "Oznacz wybraną wiadomość jako niechcianą">
 <!ENTITY notJunkButton.tooltip "Oznacz wybraną wiadomość jako pożądaną">
 
+<!-- Remote Content Button Popup -->
+<!ENTITY remoteContentOptionsAllowForMsg.label "Wyświetl zdalną zawartość w tej wiadomości">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "W">
+<!ENTITY editRemoteContentSettings.label "Edytuj uprawnienia wyświetlania zdalnej zawartości…">
+<!ENTITY editRemoteContentSettings.accesskey "E">
+
 <!-- Statusbar -->
 <!ENTITY statusText.label "Zakończono">
 
