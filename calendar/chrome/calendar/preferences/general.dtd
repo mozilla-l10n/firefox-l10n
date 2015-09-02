@@ -30,10 +30,10 @@
 <!ENTITY pref.default_task_tomorrow.label "Завтра">
 <!ENTITY pref.default_task_next_week.label "Наступного тижня">
 <!ENTITY pref.default_task_offset_current.label "Відносно поточного часу">
-<!ENTITY pref.default_task_offset_start.label "Relative to Start">
-<!ENTITY pref.default_task_offset_next_hour.label "Relative to Next Hour">
+<!ENTITY pref.default_task_offset_start.label "Відносно початку">
+<!ENTITY pref.default_task_offset_next_hour.label "Відносно наступної години">
 
-<!ENTITY pref.calendar.todaypane.agenda.caption "Today Pane">
+<!ENTITY pref.calendar.todaypane.agenda.caption "Панель дня">
 <!ENTITY pref.soondays.label "The upcoming section shows:">
 <!ENTITY pref.soondays.accesskey "u">
 
