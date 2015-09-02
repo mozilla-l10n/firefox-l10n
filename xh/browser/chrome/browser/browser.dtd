@@ -110,7 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "z">
 
 <!ENTITY fxaSignIn.label "Ngena &syncBrand.shortName.label;">
-
+<!ENTITY fxaSignedIn.tooltip "Vula &syncBrand.shortName.ileyibhile; iipriferensi">
 <!ENTITY fxaSignInError.label "Qhagamshelanisa ngokutsha &syncBrand.shortName.label;">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; yenziwe yasebenza">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; iza kuqalisa ukungqamanisa okomzuzwana.">
@@ -395,7 +395,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Tshintshela kwithebhu:">
 
-
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Funda ngakumbi…">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Hayi">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Ewe">
 <!-- 
