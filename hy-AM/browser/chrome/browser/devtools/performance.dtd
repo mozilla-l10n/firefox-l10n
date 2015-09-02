@@ -11,6 +11,10 @@
 <!-- LOCALIZATION NOTE (performanceUI.startRecording/performanceUI.stopRecording): These are
   -  the labels shown on the main recording buttons to start/stop recording. -->
 
+
+
+<!ENTITY performanceUI.startRecording "Գրառել արտադրողականությունը">
+<!ENTITY performanceUI.stopRecording  "Կանգնեցնել արտադրողականության գրառումը">
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusTooltip): This string
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.nonE10SBuild): This string
@@ -41,7 +45,7 @@
 <!ENTITY performanceUI.clearButton "Մաքրել">
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
-
+<!ENTITY performanceUI.toolbar.js-calltree "Կանչել ծառը">
 <!ENTITY performanceUI.toolbar.memory-calltree "Բաշխումներ">
 
 
