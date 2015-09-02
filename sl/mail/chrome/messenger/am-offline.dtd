@@ -16,7 +16,7 @@
 <!ENTITY message.label "sporočil">
 <!ENTITY nntpNotDownloadRead.label "beri sporočila">
 <!ENTITY nntpNotDownloadRead.accesskey "b">
-<!ENTITY nntpDownloadMsg.label "Sporočil starejših od">
+<!ENTITY nntpDownloadMsg.label "sporočil starejših od">
 <!ENTITY nntpDownloadMsg.accesskey "a">
 <!ENTITY retentionCleanup.label "Prostor na disku lahko prihranite, če trajno izbrišete stara sporočila.">
 <!ENTITY retentionCleanupImap.label "Prostor na disku lahko prihranite, če trajno izbrišete stara sporočila, krajevno in na oddaljenem strežniku.">
