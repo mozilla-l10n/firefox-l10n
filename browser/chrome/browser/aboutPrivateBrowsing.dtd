@@ -48,13 +48,17 @@
      -->
 
 <!ENTITY trackingProtection.width              "24em">
-
+<!ENTITY trackingProtection.title              "Պատշտանություն հետագծումից">
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
 
+<!ENTITY trackingProtection.state.width        "6ch">
+<!ENTITY trackingProtection.state.enabled      "ՄԻԱՑ.">
+<!ENTITY trackingProtection.state.disabled     "ԱՆՋ.">
 
+<!ENTITY trackingProtection.description1       "Գաղտնի պատուհանները այժմ կողպել են էջի մասերը, որոնք կարող են հետագծել դիտարկման ձեր ակտիվությունը:">
 
-
-
-
+<!ENTITY trackingProtection.disable            "Անջ. հետագծման պաշտպանությունը">
+<!ENTITY trackingProtection.enable             "Միաց. հետագծման պաշտպանությունը">
+<!ENTITY trackingProtection.startTour1         "Դիտեք, թե ինչպես է այն աշխատում">

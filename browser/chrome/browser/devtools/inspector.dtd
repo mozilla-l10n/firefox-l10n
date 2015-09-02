@@ -31,6 +31,8 @@
      in the inspector contextual-menu for the item that lets users paste inner
      HTML in the current node -->
 
+<!ENTITY inspectorHTMLPasteInner.label      "Տեղադրել ներքին HTML">
+<!ENTITY inspectorHTMLPasteInner.accesskey  "ե">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteExtraSubmenu.label): This is the label
      shown in the inspector contextual-menu for the sub-menu of the other Paste
      items, which allow to paste HTML:
@@ -39,22 +41,32 @@
      - as the first child of the current node
      - as the last child of the current node -->
 
+<!ENTITY inspectorHTMLPasteExtraSubmenu.label      "Տեղադրել...">
+<!ENTITY inspectorHTMLPasteExtraSubmenu.accesskey  "ե">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteBefore.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste
      the HTML before the current node -->
 
+<!ENTITY inspectorHTMLPasteBefore.label      "Մինչև">
+<!ENTITY inspectorHTMLPasteBefore.accesskey  "Մ">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteAfter.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste
      the HTML after the current node -->
 
+<!ENTITY inspectorHTMLPasteAfter.label       "Հետո">
+<!ENTITY inspectorHTMLPasteAfter.accesskey   "Հ">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteFirstChild.label): This is the label
      shown in the inspector contextual-menu for the item that lets users paste
      the HTML as the first child the current node -->
 
+<!ENTITY inspectorHTMLPasteFirstChild.label      "Որպես առաջին զավակ">
+<!ENTITY inspectorHTMLPasteFirstChild.accesskey  "ա">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteLastChild.label): This is the label
      shown in the inspector contextual-menu for the item that lets users paste
      the HTML as the last child the current node -->
 
+<!ENTITY inspectorHTMLPasteLastChild.label       "Որպես վերջին զավակ">
+<!ENTITY inspectorHTMLPasteLastChild.accesskey   "զ">
 <!-- LOCALIZATION NOTE (inspectorScrollNodeIntoView.label): This is the label
      shown in the inspector contextual-menu for the item that lets users scroll
      the current node into view -->
