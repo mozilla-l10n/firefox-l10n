@@ -83,7 +83,7 @@
 <!ENTITY cmd.preferencesWin.accesskey         "O">
 <!ENTITY cmd.preferencesUnix.label            "Nizamlamalar">
 <!ENTITY cmd.preferencesUnix.accesskey        "P">
-<!ENTITY cmd.about.label                      "Hakkında">
+<!ENTITY cmd.about.label                      "Haqqında">
 <!ENTITY cmd.about.accesskey                  "H">
 
 <!ENTITY cmd.enableAddon.label                "Fəallaşdır">
