@@ -5,16 +5,16 @@
 <!ENTITY pref.locationBar.title "Pasek adresu">
 
 <!ENTITY autoComplete.label "Automatyczne uzupełnianie">
-<!ENTITY enableAutoComplete.label "Automatycznie uzupełniaj na podstawie historii przeglądania">
-<!ENTITY enableAutoComplete.accesskey "A">
+<!ENTITY autoCompleteMatchHistory.label "Automatycznie proponuj wyniki na podstawie historii przeglądania">
+<!ENTITY autoCompleteMatchHistory.accesskey "h">
+<!ENTITY autoCompleteMatchBookmarks.label "Automatycznie proponuj wyniki na podstawie zakładek">
+<!ENTITY autoCompleteMatchBookmarks.accesskey "z">
 <!ENTITY autoCompleteAutoFill.label "Automatycznie uzupełniaj najodpowiedniejszą propozycją">
 <!ENTITY autoCompleteAutoFill.accesskey "u">
 <!ENTITY autoCompleteShowPopup.label "Pokazuj listę pasujących wyników">
 <!ENTITY autoCompleteShowPopup.accesskey "o">
 <!ENTITY autoCompleteMatchOnlyTyped.label "Uwzględniaj tylko adresy, które zostały wpisane ręcznie">
 <!ENTITY autoCompleteMatchOnlyTyped.accesskey "r">
-<!ENTITY autoCompleteMatchOnlyURLs.label "Wyłącznie w adresach (bez tytułów stron)">
-<!ENTITY autoCompleteMatchOnlyURLs.accesskey "z">
 <!ENTITY autoCompleteMatch.label "Szukaj">
 <!ENTITY autoCompleteMatch.accesskey "S">
 <!ENTITY autoCompleteMatchAnywhere "Gdziekolwiek w adresie bądź tytule">
