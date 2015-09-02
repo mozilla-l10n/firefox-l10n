@@ -8,7 +8,10 @@
 
 <!ENTITY privateBrowsing.title                 "व्यक्तिगत संचारन">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
-     Width of the Private Browsing section.
+     Width of the Private Browsing section. This should depend primarily on the
+     length of the headers and text, but should be roughly 1.5 times the width
+     of the Tracking Protection section, and in general not much larger than
+     30em to prevent the sections from wrapping on smaller window sizes.
      -->
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
      aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
@@ -20,21 +23,25 @@
 <!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; ह्या पटलाकरिता कोणताही इतिहास लक्षात ठेवत नाही.">
 
 <!ENTITY aboutPrivateBrowsing.forgotten        "&brandShortName; ह्या पटलाकरिता काहीही साठवून ठेवत नाही.">
-<!ENTITY aboutPrivateBrowsing.info.forgotten   "विसरला">
+
 <!ENTITY aboutPrivateBrowsing.info.history     "इतिहास">
 
 <!ENTITY aboutPrivateBrowsing.info.cookies     "कूकिज">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "तात्पुरत्या फाइल्स">
 
-<!ENTITY aboutPrivateBrowsing.info.kept        "ठेवले">
+
 
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "ओळखचिन्हे">
 
 <!ENTITY aboutPrivateBrowsing.note1            "आपला इंटरनेट सेवा प्रदाता आपण भेट दिलेल्या पानांची नोंद ठेवू शकतो, याची कृपया नोंद घ्यावी.">
 <!ENTITY aboutPrivateBrowsing.learnMore        "आणखी जाणा.">
 <!-- LOCALIZATION NOTE (trackingProtection.width):
-     Width of the Tracking Protection section. This should be enough to
-     accommodate the title as well as the enabled or disabled indicator.
+     Width of the Tracking Protection section. It is fine for the enabled or
+     disabled indicator or the words in the title to wrap to the next line, but
+     you can expand or reduce this section to fit better, as long as the width
+     of the Private Browsing section is roughly 1.5 times the width of this one.
+     Note that the required space may vary between platforms because fonts are
+     different, so testing on Windows, Mac, and Linux is encouraged.
      -->
 <!ENTITY trackingProtection.title              "मागोवा सुरक्षा">
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
