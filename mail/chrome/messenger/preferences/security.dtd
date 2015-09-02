@@ -42,7 +42,7 @@
 <!ENTITY savedPasswords.accesskey       "S">
 <!-- Anti Virus -->
 
-<!ENTITY antiVirus.intro      "&brandShortName;-ը կարող է հեշտացնել ստացված նամակների հակավիրուսային ստուգումը՝ մինչև դրանք համակարգիչ բեռնելը։">
+<!ENTITY antiVirus.intro      "&brandShortName;-ը կարող է հեշտացնել ստացված նամակների հակավիրուսային ստուգումը՝ մինչև դրանք համակարգիչ ներբեռնելը։">
 <!ENTITY antiVirus.label      "Թույլատրել հակավիրուսին նամակները տեղափոխել կարանտին։">
 <!ENTITY antiVirus.accesskey  "A">
 
