@@ -13,10 +13,10 @@
 <!ENTITY gdata.migration.upgrade.accesskey "О">
 <!ENTITY gdata.migration.showagain.label "Завжди перевіряти ">
 
-<!ENTITY gdata.reminder.default "Default Reminder">
+<!ENTITY gdata.reminder.default "Типове нагадування">
 <!ENTITY gdata.reminder.action.sms.label "Надіслати текстове повідомлення">
 
-<!ENTITY gdata.wizard.session.description "Please pick an existing session or enter your email address to create a new session. You only need one session per account.">
-<!ENTITY gdata.wizard.calendars.description "Please select the calendars and task lists you would like to subscribe to.">
+<!ENTITY gdata.wizard.session.description "Виберіть наявний сеанс або введіть свою адресу електронної пошти для створення нового сеансу. Вам потрібен лише один сеанс на обліковий запис.">
+<!ENTITY gdata.wizard.calendars.description "Виберіть календарі та списки завдань, на які ви бажаєте підписатися.">
 
-<!ENTITY gdata.wizard.nextstep.description "Please advance to the next step to set up your calendars.">
+<!ENTITY gdata.wizard.nextstep.description "Перейдіть до наступного кроку для встановлення своїх календарів.">
