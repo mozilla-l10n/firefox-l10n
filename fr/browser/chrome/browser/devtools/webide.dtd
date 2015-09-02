@@ -26,6 +26,7 @@
 <!ENTITY projectMenu_showPrefs_accesskey "r">
 <!ENTITY projectMenu_manageComponents_label "Gérer les composants additionnels">
 <!ENTITY projectMenu_manageComponents_accesskey "G">
+<!ENTITY projectMenu_refreshTabs_label "Actualiser les onglets">
 
 <!ENTITY runtimeMenu_label "Environnement">
 <!ENTITY runtimeMenu_accesskey "E">
