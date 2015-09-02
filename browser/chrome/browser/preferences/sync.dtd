@@ -38,7 +38,7 @@
 <!-- Device Settings -->
 
 <!ENTITY syncDeviceName.label       "Tên thiết bị:">
-<!ENTITY syncDeviceName.accesskey   "c">
+<!ENTITY syncDeviceName.accesskey   "b">
 
 
 <!ENTITY cancelChangeSyncDeviceName.label "Hủy bỏ">

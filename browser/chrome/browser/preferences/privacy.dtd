@@ -81,7 +81,7 @@
 <!ENTITY  privateBrowsingPermanent2.accesskey "y">
 
 <!ENTITY  rememberHistory2.label      "Ghi nhớ lịch sử truy cập và tải về của tôi">
-<!ENTITY  rememberHistory2.accesskey  "b">
+<!ENTITY  rememberHistory2.accesskey  "n">
 
 <!ENTITY  rememberSearchForm.label       "Ghi nhớ lược sử biểu mẫu và tìm kiếm">
 <!ENTITY  rememberSearchForm.accesskey   "b">
