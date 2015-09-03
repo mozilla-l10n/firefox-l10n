@@ -690,7 +690,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionNotSecure "Unxibelelwano alukhuselekanga">
 <!ENTITY identity.connectionFile "Eli phepha liyagcinwa kwikhompyutha yakho.">
 <!ENTITY identity.connectionVerified "I-&brandShortName; iqinisekise ukuba unxibelelene ngokukhuselekileyo kule sayithi, esetyeniswa yi:">
-<!ENTITY identity.connectionInternal "Le yi-&amp;brandShortName ekhuselekileyo; indawo yolawulo.">
+<!ENTITY identity.connectionInternal "Le yi-&brandShortName; ekhuselekileyo indawo yolawulo.">
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "&brandShortName; ibhloke iinxalenye zeli phepha ezingakhuselekanga.">
