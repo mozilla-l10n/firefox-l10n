@@ -517,7 +517,7 @@ size. -->
 <!ENTITY home_remote_tabs_title "File sincronizate">
 <!ENTITY home_remote_tabs_empty "Filele tale de pe alte dispozitive apar aici.">
 <!ENTITY home_remote_tabs_unable_to_connect "Nu se poate conecta">
-<!ENTITY home_remote_tabs_need_to_sign_in "Te rugăm să te autenfici pentru a te reconecta în contul Firefox și a continua sincronizarea.">
+<!ENTITY home_remote_tabs_need_to_sign_in "Te rugăm să te autentifici pentru a te reconecta în contul Firefox și a continua sincronizarea.">
 <!ENTITY home_remote_tabs_need_to_finish_migrating "Noul tău cont Firefox este gata!">
 
 <!ENTITY home_remote_tabs_trouble_verifying "Probleme la verificarea contului?">
