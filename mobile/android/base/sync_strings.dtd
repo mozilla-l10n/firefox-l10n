@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label "Ce se sincronizează">
 <!ENTITY sync.configure.engines.sync.my.title.label "Sincronizează…">
 <!ENTITY sync.configure.engines.title.bookmarks "Semne de carte">
-
+<!ENTITY sync.configure.engines.title.passwords2 "Autentificări">
 <!ENTITY sync.configure.engines.title.history "Istoric">
 <!ENTITY sync.configure.engines.title.tabs "File">
 <!-- Common text -->
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "Politica de confidențialitate">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Bun venit la &syncBrand.shortName.label;">
-
+<!ENTITY fxaccount_getting_started_description2 "Autentifică-te pentru a sincroniza filele, semnele de carte, parolele și altele.">
 <!ENTITY fxaccount_getting_started_get_started "Începe">
 <!ENTITY fxaccount_getting_started_old_firefox "Folosești o versiune mai veche de &syncBrand.shortName.label;?">
 <!-- Localization note: the Firefox below should not change with the
@@ -154,7 +154,7 @@
 <!ENTITY fxaccount_create_account_month_of_birth "Lună">
 <!ENTITY fxaccount_create_account_year_of_birth "Anul nașterii">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text2 "Continunând, sunt de acord cu &formatS1; și &formatS2; a serviciilor cloud Firefox.">
+<!ENTITY fxaccount_create_account_policy_text2 "Continuând, sunt de acord cu &formatS1; și &formatS2; a serviciilor cloud Firefox.">
 <!ENTITY fxaccount_create_account_button "Următor">
 <!ENTITY fxaccount_create_account_choose_what_to_sync "Alege ce sincronizezi">
 <!ENTITY fxaccount_create_account_sign_in_instead "Ai un cont deja? Autentifică-te">
@@ -212,7 +212,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating "Apasă pentru a te autentifica în noul cont Firefox.">
 <!ENTITY fxaccount_status_bookmarks "Semne de carte">
 <!ENTITY fxaccount_status_history "Istoric">
-
+<!ENTITY fxaccount_status_passwords2 "Autentificări">
 <!ENTITY fxaccount_status_tabs "File deschise">
 <!ENTITY fxaccount_status_legal "Mențiuni legale" >
 <!-- Localization note: when tapped, the following two strings link to
@@ -230,7 +230,7 @@
 <!ENTITY fxaccount_remove_account_toast "Contul Firefox &formatS; eliminat.">
 
 <!ENTITY fxaccount_remove_account_menu_item "Elimină contul">
-
+<!ENTITY fxaccount_enable_debug_mode "Intră în modul depanare">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 

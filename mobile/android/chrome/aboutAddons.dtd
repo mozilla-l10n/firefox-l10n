@@ -11,4 +11,5 @@
 <!ENTITY addonAction.uninstall                  "Dezinstalează">
 <!ENTITY addonAction.undo                       "Anulează">
 
+<!ENTITY addonUnsigned.message                  "Acest supliment nu a putut fi verificat de &brandShortName;.">
 <!ENTITY addonUnsigned.learnMore                "Află mai multe">
