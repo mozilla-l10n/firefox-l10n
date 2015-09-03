@@ -10,16 +10,14 @@
 
 <!ENTITY aboutPrivateBrowsing.width1           "30em">
 <!ENTITY aboutPrivateBrowsing.title            "Está navegando de forma privada">
-<!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; no recordará ningún historial para esta ventana.">
 
-<!ENTITY aboutPrivateBrowsing.forgotten        "En esta ventana, &brandShortName; no recordará:">
-<!ENTITY aboutPrivateBrowsing.info.forgotten   "Olvidará">
+<!ENTITY aboutPrivateBrowsing.info.notsaved    "No guardado">
 <!ENTITY aboutPrivateBrowsing.info.history     "Historial">
 <!ENTITY aboutPrivateBrowsing.info.searches    "Búsquedas">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Cookies">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Archivos temporales">
 
-<!ENTITY aboutPrivateBrowsing.kept             "&brandShortName; mantendrá:">
+<!ENTITY aboutPrivateBrowsing.info.saved       "Guardado">
 <!ENTITY aboutPrivateBrowsing.info.kept        "Mantendrá">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Descargas">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Marcadores">
@@ -30,9 +28,9 @@
 <!ENTITY trackingProtection.width1             "22em">
 <!ENTITY trackingProtection.title              "Protección de seguimiento">
 
-<!ENTITY trackingProtection.state.width        "8ch">
-<!ENTITY trackingProtection.state.enabled      "ACTIVA">
-<!ENTITY trackingProtection.state.disabled     "INACTIVA">
+<!ENTITY trackingProtection.state.width        "11ch">
+<!ENTITY trackingProtection.state.enabled      "ACTIVADA">
+<!ENTITY trackingProtection.state.disabled     "DESACTIVADA">
 
 <!ENTITY trackingProtection.description1       "Las ventanas privadas ahora bloquean partes de la página que pueden seguir su actividad de navegación.">
 
