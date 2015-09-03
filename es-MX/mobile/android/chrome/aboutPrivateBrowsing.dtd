@@ -6,13 +6,18 @@
 <!-- Localisation note: the plus sign here is a shorthand way of expressing the word "and". Contextually the privatebrowsingpage.title.private string
                         is used as a title, with the privatebrowsingpage.title string preceding it but on a separate line.
                         So the final line will say "Private Browsing + Tracking Protection". -->
+
+<!ENTITY privatebrowsingpage.title.private "+ Protección contra rastreo">
 <!-- Localization note (privatebrowsingpage.title.normal1): "Private Browsing"
      is capitalized in English to be consistent with our existing uses of the
      term. -->
+<!ENTITY privatebrowsingpage.title.normal1 "No estás navegando en forma privada">
 
+<!ENTITY privatebrowsingpage.description.private3 "Firefox evitará que seas rastreado y no recordará ningún historial, pero los archivos descargados y los nuevos marcadores continuarán guardados en tu dispositivo.">
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing" is capitalized in English to be consistent with our existing uses
      of the term. -->
+<!ENTITY privatebrowsingpage.description.normal2 "En la navegación privada, no se conserva tu historial de navegación ni las cookies. Los marcadores que añadas y los archivos que descargues sí continuarán guardados en tu dispositivo.">
 
 <!ENTITY privatebrowsingpage.link.private "¿Quieres saber más?">
 <!ENTITY privatebrowsingpage.link.normal "Abrir una nueva pestaña privada">
