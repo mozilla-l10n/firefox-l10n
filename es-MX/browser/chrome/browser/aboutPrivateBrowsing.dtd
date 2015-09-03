@@ -13,6 +13,8 @@
      of the Tracking Protection section, and in general not much larger than
      30em to prevent the sections from wrapping on smaller window sizes.
      -->
+
+<!ENTITY aboutPrivateBrowsing.width            "30em">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
      aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
      These strings will be replaced by aboutPrivateBrowsing.forgotten and
@@ -23,14 +25,14 @@
 <!ENTITY aboutPrivateBrowsing.subtitle         "En esta ventana, &brandShortName; no recordará nada del historial.">
 
 <!ENTITY aboutPrivateBrowsing.forgotten        "En esta ventana &brandShortName; no recordará nada.">
-
+<!ENTITY aboutPrivateBrowsing.info.forgotten   "No guardado">
 <!ENTITY aboutPrivateBrowsing.info.history     "Historial">
 <!ENTITY aboutPrivateBrowsing.info.searches    "Búsquedas">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Cookies">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Archivos temporales">
 
 <!ENTITY aboutPrivateBrowsing.kept             "&brandShortName; conservará:">
-
+<!ENTITY aboutPrivateBrowsing.info.kept        "Guardado">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Descargas">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Marcadores">
 
