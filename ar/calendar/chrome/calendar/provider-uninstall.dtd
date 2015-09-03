@@ -9,4 +9,4 @@
 <!ENTITY providerUninstall.cancel.accesskey                "ب">
 <!ENTITY providerUninstall.preName.label                   "طلبت إزالة أو تعطيل:">
 <!ENTITY providerUninstall.postName.label                  "هذا سيعطّل التقويمات أدناه.">
-
+<!ENTITY providerUninstall.reinstallNote.label             "إذا كنت لا تخطط لإزالة هذا المزود فيمكنك إلغاء الاشتراك في تقاويمه.">
