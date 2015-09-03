@@ -35,7 +35,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.sources.blackBoxTooltip): This is the tooltip
   -  for the button that black boxes the selected source. -->
 
-<!ENTITY debuggerUI.sources.blackBoxTooltip "Toggle Black Boxing">
+<!ENTITY debuggerUI.sources.blackBoxTooltip "Comută black boxing">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.prettyPrint): This is the tooltip for the
   -  button that pretty prints the selected source. -->
 

@@ -77,10 +77,14 @@
 <!ENTITY btnConsoleReflows      "Reflows">
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
+
+<!ENTITY btnConsoleSharedWorkers "Workeri partajați">
 <!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
   -  should not be translated. -->
+<!ENTITY btnConsoleServiceWorkers "Service workers">
 <!-- LOCALIZATION NODE (btnConsoleWindowlessWorkers) the term "Workers"
   -  should not be translated. -->
+<!ENTITY btnConsoleWindowlessWorkers "Workeri de suplimente sau Chrome">
 
 <!ENTITY filterOutput.placeholder "Ieșire filtru">
 <!ENTITY btnClear.label        "Curăță">
@@ -104,5 +108,5 @@
 <!ENTITY closeCmd.key         "W">
 <!ENTITY findCmd.key          "F">
 <!ENTITY clearOutputCtrl.key  "L">
-
-
+<!ENTITY openInVarViewCmd.label "Deschide în vizualizarea variabilelor">
+<!ENTITY openInVarViewCmd.accesskey "v">
