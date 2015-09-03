@@ -61,9 +61,11 @@
 
 
 
-
-
+<!ENTITY largerFont.label             "Մեծ տառատեսակ">
+<!ENTITY largerFont.accesskey         "ե">
+<!ENTITY largerFont.commandkey        "+">
 <!-- + is above this key on many keyboards -->
+<!ENTITY largerFont.commandkey2       "="> 
 
 <!ENTITY smallerFont.label            "Փոքր տառատեսակ">
 <!ENTITY smallerFont.accesskey        "ո">
