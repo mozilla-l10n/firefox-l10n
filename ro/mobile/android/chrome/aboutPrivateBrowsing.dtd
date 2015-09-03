@@ -6,13 +6,18 @@
 <!-- Localisation note: the plus sign here is a shorthand way of expressing the word "and". Contextually the privatebrowsingpage.title.private string
                         is used as a title, with the privatebrowsingpage.title string preceding it but on a separate line.
                         So the final line will say "Private Browsing + Tracking Protection". -->
+
+<!ENTITY privatebrowsingpage.title.private "+ Protecție față de urmărire">
 <!-- Localization note (privatebrowsingpage.title.normal1): "Private Browsing"
      is capitalized in English to be consistent with our existing uses of the
      term. -->
+<!ENTITY privatebrowsingpage.title.normal1 "Nu ești în modul de navigare privată">
 
+<!ENTITY privatebrowsingpage.description.private3 "Firefox va preveni urmărirea ta și nu va reține niciun istoric, dar fișierele descărcate, noile semne de carte vor fi încă salvate pe dispozitiv.">
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing" is capitalized in English to be consistent with our existing uses
      of the term. -->
+<!ENTITY privatebrowsingpage.description.normal2 "În modul de navigare privată nu vom păstra nimic din istoricul de navigare sau cookie-uri. Semnele de carte adăugate și fișierele descărcate vor fi încă salvate pe dispozitiv.">
 
 <!ENTITY privatebrowsingpage.link.private "Vrei să afli mai multe?">
-
+<!ENTITY privatebrowsingpage.link.normal "Deschide o filă nouă privată">

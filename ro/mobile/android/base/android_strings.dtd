@@ -575,10 +575,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Tracking content notifications in site identity popup -->
 
 <!ENTITY doorhanger_tracking_title "Protecție de urmărire">
-
-
-
-
+<!ENTITY doorhanger_tracking_state_enabled "Activat">
+<!ENTITY doorhanger_tracking_state_disabled "Dezactivat">
+<!ENTITY doorhanger_tracking_message_enabled1 "Au fost blocate tentative de urmărire a comportamentului tău online.">
+<!ENTITY doorhanger_tracking_message_disabled2 "Această pagină include elemente care îți pot urmări navigarea.">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "Află mai multe">
@@ -634,7 +634,7 @@ din Android">
 <!ENTITY guest_session_dialog_continue "Continuă">
 <!ENTITY guest_session_dialog_cancel "Renunță">
 <!ENTITY new_guest_session_title "&brandShortName; va reporni acum">
-
+<!ENTITY new_guest_session_text2 "Persoana care va folosi aceasta nu va putea să vadă niciuna din datele tale personale de navigare (precum parolele salvate, istoricul sau semnele de carte).\n\nCând vizita s-a încheiat, datele de navigare vor fi șterse iar sesiunea va fi restaurată.">
 <!ENTITY guest_browsing_notification_title "Navigarea în mod vizitator e activată">
 <!ENTITY guest_browsing_notification_text "Apasă pentru ieșire">
 
@@ -680,6 +680,7 @@ din Android">
 
 <!ENTITY find_matchcase "Aa">
 
+<!ENTITY intent_uri_cannot_open "Nu se poate deschide linkul">
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
      above a QR reader that is actively scanning for QR codes.  The expected QR
@@ -690,12 +691,14 @@ din Android">
 <!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
-
-
-
-
-
-
-
-
+<!ENTITY restriction_disallow_import_settings_title2 "Dezactivează „Importă din Android”">
+<!ENTITY restriction_disallow_addons_title2 "Dezactivează instalarea suplimentelor">
+<!ENTITY restriction_disallow_devtools_title2 "Dezactivează uneltele de dezvoltare">
+<!ENTITY restriction_disallow_customize_home_title2 "Dezactivează personalizarea paginii de start">
+<!ENTITY restriction_disallow_private_browsing_title2 "Dezactivează navigarea privată">
+<!ENTITY restriction_disallow_location_services_title2 "Dezactivează serviciile de localizare">
+<!ENTITY restriction_disallow_display_settings_title2 "Dezactivează setările de afișare">
+<!ENTITY restriction_disallow_clear_history_title2 "Dezactivează „Curăță istoricul de navigare”">
+<!ENTITY restriction_disallow_master_password_title2 "Dezactivează parola generală">
+<!ENTITY restriction_disallow_guest_browsing_title2 "Dezactivează navigarea în mod „Vizitator”">
 
