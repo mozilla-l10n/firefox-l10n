@@ -18,7 +18,7 @@
 <!ENTITY importButton.tooltip       "Importă și adaugă o foaie de stil existentă documentului">
 <!ENTITY importButton.accesskey     "I">
 
-<!ENTITY visibilityToggle.tooltip   "Alternează vizibilitatea foii de stil">
+<!ENTITY visibilityToggle.tooltip   "Comută vizibilitatea foii de stil">
 
 <!ENTITY saveButton.label           "Salvează">
 <!ENTITY saveButton.tooltip         "Salvează această foaie de stil într-un fișier">
