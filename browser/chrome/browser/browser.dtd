@@ -110,7 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "z">
 
 <!ENTITY fxaSignIn.label "Ngena &syncBrand.shortName.label;">
-<!ENTITY fxaSignedIn.tooltip "Vula &syncBrand.shortName.ileyibhile; iipriferensi">
+<!ENTITY fxaSignedIn.tooltip "Vula &syncBrand.shortName.label; iipriferensi">
 <!ENTITY fxaSignInError.label "Qhagamshelanisa ngokutsha &syncBrand.shortName.label;">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; yenziwe yasebenza">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; iza kuqalisa ukungqamanisa okomzuzwana.">
@@ -706,13 +706,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded "Uqhagamshelo lwakho alukho bucala yaye inkcazelo owabelana ngayo nale sayithi inokubonwa ngabanye.">
 <!ENTITY identity.description.passiveLoaded2 "Le webhsayithi ineziqulatho ezingakhuselekanga (njengemifanekiso).">
 <!ENTITY identity.description.passiveLoaded3 "Nangona &brandShortName; ibhloke esinye isiqulatho, kusekho isiqulatho kwiphepha elingakhuselekanga (njengemifanekiso).">
+<!ENTITY identity.description.activeLoaded "Le webhsayithi inesiqulatho esingakhuselekanga (njengezikripti) yaye uqhagamshelo lwakho kuyo alukho bucala.">
+<!ENTITY identity.description.activeLoaded2 "Inkcazelo owabelana ngayo nale sayithi inokujongwa ngabanye (njengeephaswedi, imiyalezo, iikhredit khadi, njl. njl.).">
 
-
-
-
+<!ENTITY identity.enableMixedContentBlocking.label "Vumela ukhuseleko">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "V">
 <!ENTITY identity.disableMixedContentBlocking.label "Kunye nokhuseleko lusayekiwe">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "K">
-
+<!ENTITY identity.learnMore "Funda Ngakumbi">
 
 <!ENTITY identity.moreInfoLinkText2 "Inkcazelo engaphezulu">
 
@@ -789,29 +790,32 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "I">
 <!ENTITY getUserMedia.selectMicrophone.label "Imayikhrofowuni yokubolekisana:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "I">
-
+<!ENTITY getUserMedia.audioCapture.label "I-odiyo ekwithebhu iya kwabiwa.">
 <!ENTITY getUserMedia.allWindowsShared.message "Zonke iiwindowu ezikwiskrini sakho ziya kwabiwa.">
 
-
-
-
+<!ENTITY trackingProtection.title "Itreka Ukhuseleko">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; ibhloka iinxalenye zeli phepha ezinokutreka ukubhrawuza kwakho.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "Le sayithi iquka ii-elementi ezinokutreka ukubrawuza kwakho. Uye walucima ukhuseleko.">
+<!ENTITY trackingProtection.notDetected3 "Azikho ii-elementi zokutreka ezifunyanisiweyo kweli phepha.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-
+<!ENTITY trackingProtection.unblock.label "Yekisa ukhuseleko kule sayithi">
+<!ENTITY trackingProtection.unblock.accesskey "Y">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-
-
-
+<!ENTITY trackingProtection.unblockPrivate.label "Yekisa ukhuseleko kule seshoni">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "Y">
+<!ENTITY trackingProtection.block2.label "Vumela ukhuseleko">
+<!ENTITY trackingProtection.block2.accesskey "V">
 
 <!ENTITY trackingContentBlocked.message "Ukulanda umkhondo">
 <!ENTITY trackingContentBlocked.moreinfo "Iindawo zephepha lewebhu ezilanda umsebenzi wakho we-intanethi zithintelwe.">
 <!ENTITY trackingContentBlocked.learnMore "Funda ngakumbi">
-
-
-
+<!ENTITY trackingContentBlocked.options "Ekunokukhethwa kuko">
+<!ENTITY trackingContentBlocked.unblock2.label "Yekisa ukhuseleko kule sayithi">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "Y">
 <!ENTITY trackingContentBlocked.block.label "Vumela ukhuseleko">
 <!ENTITY trackingContentBlocked.block.accesskey "V">
 <!ENTITY trackingContentBlocked.disabled.message "Ukulandela ukhuselo akusebenzi">
