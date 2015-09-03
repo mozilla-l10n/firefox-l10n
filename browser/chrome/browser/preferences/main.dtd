@@ -42,3 +42,4 @@
 <!ENTITY useFirefoxSync.label             "Pont: Acesta folosește profiluri separate. Folosește Sincronizare pentru a împărtăși date între ele.">
 <!ENTITY getStarted.label                 "Începeți să folosiți Sincronizare…">
 
+<!ENTITY e10sEnabled.label                "Activați &brandShortName; multi-proces">

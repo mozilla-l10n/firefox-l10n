@@ -8,14 +8,22 @@
 
 
 
+<!ENTITY aboutTelemetry.extendedRecordingEnabled "  Înregistrarea telemetriei extinse este <span>activată</span>.">
+
+<!ENTITY aboutTelemetry.extendedRecordingDisabled "  Înregistrarea telemetriei extinse este <span>dezactivată</span>.">
 
 
+<!ENTITY aboutTelemetry.showCurrentPingData "Date actuale ping">
 
+<!ENTITY aboutTelemetry.showArchivedPingData "Date ping arhivate">
 
+<!ENTITY aboutTelemetry.showSubsessionData "Arată datele pentru subsesiune">
 
+<!ENTITY aboutTelemetry.choosePing "Alege ping:">
 
+<!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; ping mai recent">
 
-
+<!ENTITY aboutTelemetry.showOlderPing "&gt;&gt; ping mai vechi">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Săptămână">
 
@@ -23,6 +31,7 @@
 
 <!ENTITY aboutTelemetry.generalDataSection "  Date generale">
 
+<!ENTITY aboutTelemetry.environmentDataSection "  Date mediu">
 
 <!ENTITY aboutTelemetry.telemetryLogSection "  Jurnalul telemetriei">
 
