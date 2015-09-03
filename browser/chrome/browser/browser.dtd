@@ -395,6 +395,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Tshintshela kwithebhu:">
 
+<!ENTITY urlbar.searchSuggestionsNotification.question "Ngaba ungathanda ukuphucula amava akho okukhangela ngamacebiso?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Funda ngakumbi…">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Hayi">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Ewe">
@@ -426,6 +427,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      These are set as the aria-label attribute for the search input box and
      submit button in the in-content search UI, to be used by screen readers. -->
 
+<!ENTITY contentSearchInput.label     "Umbuzo wokukhangela">
+<!ENTITY contentSearchSubmit.label    "Faka ukukhangela">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -641,6 +644,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "V">
 
+<!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "Isimbo sephepha">
 <!ENTITY pageStyleMenu.accesskey "m">
@@ -680,15 +684,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "Kwenziwe">
 <!ENTITY editBookmark.cancel.label                   "Rhoxisa">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Unxibelelwano lonxibelelwano">
 <!ENTITY identity.connectionNotSecure "Unxibelelwano alukhuselekanga">
-
+<!ENTITY identity.connectionFile "Eli phepha liyagcinwa kwikhompyutha yakho.">
 <!ENTITY identity.connectionVerified "I-&brandShortName; iqinisekise ukuba unxibelelene ngokukhuselekileyo kule sayithi, esetyeniswa yi:">
 <!ENTITY identity.connectionInternal "Le yi-&amp;brandShortName ekhuselekileyo; indawo yolawulo.">
 <!-- Strings for connection state warnings. -->
 
+<!ENTITY identity.activeBlocked "&brandShortName; ibhloke iinxalenye zeli phepha ezingakhuselekanga.">
+<!ENTITY identity.passiveLoaded "Iinxalenye zeli phepha azikhuselekangae (njengemifanekiso).">
 
 
 <!-- Strings for connection state warnings in the subview. -->
