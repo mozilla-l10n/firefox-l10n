@@ -81,6 +81,7 @@
   -  should not be translated. -->
 <!-- LOCALIZATION NODE (btnConsoleWindowlessWorkers) the term "Workers"
   -  should not be translated. -->
+<!ENTITY btnConsoleWindowlessWorkers "កម្ម​វិធី​បន្ថែម​ ឬ Chrome Workers">
 
 <!ENTITY filterOutput.placeholder "លទ្ធផល​តម្រង">
 <!ENTITY btnClear.label        "សម្អាត">
