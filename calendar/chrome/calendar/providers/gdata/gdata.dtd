@@ -4,13 +4,14 @@
 
 <!ENTITY gdata-provider.label "تقويم جوجل">
 
-
+<!ENTITY gdata.privacy.default.label "إعدادات جوجل المبدئية">
+<!ENTITY gdata.privacy.default.accesskey "م">
 
 <!ENTITY gdata.migration.title "ترحيل التقويمات التي للقراءة فقط">
 <!ENTITY gdata.migration.description "اكتشف موفّر تقويم جوجل أن التقويمات الموجودة يمكنها الوصول إلى تقويم جوجل في وضع القراءة فقط. إن أردت ترقية أيّ من هذه التقويمات، فمن فضلك حددها أدناه">
 <!ENTITY gdata.migration.upgrade.label "رقِّ">
 <!ENTITY gdata.migration.upgrade.accesskey "ر">
-
+<!ENTITY gdata.migration.showagain.label "تحقق دائما ">
 
 <!ENTITY gdata.reminder.default "التذكير الافتراضي">
 <!ENTITY gdata.reminder.action.sms.label "أرسل رسالة نصية">
