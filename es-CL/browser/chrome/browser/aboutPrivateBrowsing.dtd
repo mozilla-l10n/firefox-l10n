@@ -8,7 +8,7 @@
 
 <!ENTITY privateBrowsing.title                 "Navegación privada">
 
-<!ENTITY aboutPrivateBrowsing.width            "25em">
+<!ENTITY aboutPrivateBrowsing.width            "30em">
 <!ENTITY aboutPrivateBrowsing.title            "Está navegando de forma privada">
 <!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; no recordará ningún historial para esta ventana.">
 
@@ -30,7 +30,7 @@
 <!ENTITY trackingProtection.width              "22em">
 <!ENTITY trackingProtection.title              "Protección de seguimiento">
 
-<!ENTITY trackingProtection.state.width        "6ch">
+<!ENTITY trackingProtection.state.width        "11ch">
 <!ENTITY trackingProtection.state.enabled      "ACTIVADA">
 <!ENTITY trackingProtection.state.disabled     "DESACTIVADA">
 
