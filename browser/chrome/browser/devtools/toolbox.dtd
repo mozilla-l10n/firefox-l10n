@@ -94,8 +94,8 @@
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
   -  boolean preference in about:config, in the options panel. -->
 
-<!ENTITY options.enableWorkers.label    "Activează depanarea worker-ilor (în dezvoltare)">
-<!ENTITY options.enableWorkers.tooltip  "Activarea opțiunii va permite uneltelor de dezvoltare să realizeze depanare pentru workeri">
+<!ENTITY options.enableWorkers.label    "Activează depanarea workerilor (în dezvoltare)">
+<!ENTITY options.enableWorkers.tooltip  "Pornirea acestei opțiuni va permite uneltelor de dezvoltare să depaneze workerii">
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
@@ -113,7 +113,7 @@
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
 
 <!ENTITY options.enableServiceWorkersHTTP.label     "Activează Service Workers prin HTTP (când e deschisă trusa de unelte)">
-
+<!ENTITY options.enableServiceWorkersHTTP.tooltip   "Prin pornirea acestei opțiuni se vor activa service workers peste HTTP pentru toate filele care au trusa de unelte deschisă.">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
