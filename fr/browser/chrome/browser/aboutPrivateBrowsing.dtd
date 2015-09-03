@@ -18,7 +18,7 @@
 <!ENTITY aboutPrivateBrowsing.width1           "30em">
 <!ENTITY aboutPrivateBrowsing.title            "Nouvelle fenêtre de navigation privée">
 
-<!ENTITY aboutPrivateBrowsing.info.notsaved    "Ńon conservé">
+<!ENTITY aboutPrivateBrowsing.info.notsaved    "Non conservé">
 <!ENTITY aboutPrivateBrowsing.info.history     "L'historique">
 <!ENTITY aboutPrivateBrowsing.info.searches    "Les recherches">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Les cookies">
