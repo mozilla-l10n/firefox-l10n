@@ -24,8 +24,8 @@
 <!ENTITY  locbar.bookmarks.accesskey    "S">
 <!ENTITY  locbar.openpage.label         "Deschide filele">
 <!ENTITY  locbar.openpage.accesskey     "D">
-
-
+<!ENTITY  locbar.searches.label         "Căutări similare de la motorul de căutare implicit">
+<!ENTITY  locbar.searches.accesskey     "d">
 
 
 

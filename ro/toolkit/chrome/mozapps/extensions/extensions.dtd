@@ -241,11 +241,12 @@ cele mai utilizate și populare extensii pentru a vă permite să le încercați
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
 <!ENTITY disabledUnsigned.description.start "Următoarele suplimente nu au fost verificate pentru a fi folosite în &brandShortName;. Poți ">
-
-
-
+<!ENTITY disabledUnsigned.description.findAddonsLink "găsește înlocuitori">
+<!ENTITY disabledUnsigned.description.end " sau întreabă dezvoltatorii pentru a fi verificate..">
+<!ENTITY disabledUnsigned.learnMore "Aflați mai multe despre eforturile noastre de a vă ține în siguranță online.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
-
+<!ENTITY disabledUnsigned.devInfo.start "Dezvoltatorii interesați în obținerea verificării pentru suplimente pot continua să citească ">
+<!ENTITY disabledUnsigned.devInfo.linkToManual "manual">
 <!ENTITY disabledUnsigned.devInfo.end ".">

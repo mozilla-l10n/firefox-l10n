@@ -11,7 +11,8 @@
 
 
 
-
+<!ENTITY redirectWindowsSearch.label "Utilizați acest motor de căutare pentru căutări din Windows">
+<!ENTITY redirectWindowsSearch.accesskey "W">
 
 <!ENTITY oneClickSearchEngines.label           "Motoare de căutare la un singur clic distanță">
 

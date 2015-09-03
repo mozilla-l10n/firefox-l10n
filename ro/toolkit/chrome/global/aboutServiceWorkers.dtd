@@ -5,5 +5,8 @@
 
 <!ENTITY aboutServiceWorkers.title                     "Despre Service Workers">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
+<!ENTITY aboutServiceWorkers.maintitle                 "Service workeri înregistrați">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
+<!ENTITY aboutServiceWorkers.warning_not_enabled       "Service workeri nu sunt activați.">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
+<!ENTITY aboutServiceWorkers.warning_no_serviceworkers "Niciun service worker înregistrat.">
