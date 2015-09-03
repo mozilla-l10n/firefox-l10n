@@ -9,7 +9,7 @@
 
 <!ENTITY privateBrowsing.title "Przeglądanie prywatne">
 
-<!ENTITY aboutPrivateBrowsing.width "25em">
+<!ENTITY aboutPrivateBrowsing.width1 "27em">
 <!ENTITY aboutPrivateBrowsing.title "O przeglądaniu prywatnym">
 <!ENTITY aboutPrivateBrowsing.subtitle "W tym oknie &brandShortName; nie zachowa historii przeglądania.">
 
@@ -28,7 +28,7 @@
 <!ENTITY aboutPrivateBrowsing.note1 "Należy jednak pamiętać, że pracodawca lub dostawca usług internetowych może w dalszym ciągu monitorować odwiedzane strony.">
 <!ENTITY aboutPrivateBrowsing.learnMore "Więcej informacji.">
 
-<!ENTITY trackingProtection.width "22em">
+<!ENTITY trackingProtection.width1 "23em">
 <!ENTITY trackingProtection.title "Ochrona przed śledzeniem">
 <!ENTITY trackingProtection.state.width "11ch">
 <!ENTITY trackingProtection.state.enabled "Włączona">
