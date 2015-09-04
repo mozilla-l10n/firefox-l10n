@@ -26,10 +26,10 @@ was trying to connect. -->
 <!ENTITY certerror.getMeOutOfHere.label "Желим да напустим сајт!">
 
 <!ENTITY certerror.expert.heading "Прихватам ризик">
-<!ENTITY certerror.expert.content "Ако Вам је јасно шта се догађа, 
+<!ENTITY certerror.expert.content "Ако вам је јасно шта се догађа, 
 можете да наложите програму &brandShortName; да верује идентификацији сајта.
 <b>Чак и ако верујете сајту, ова грешка може да значи да неко покушава 
-да манипулише Вашом везом.</b>">
+да манипулише са везом.</b>">
 <!ENTITY certerror.expert.contentPara2 "Немојте додавати изузетке осим ако 
 знате да постоји добар разлог зашто сајт не користи идентификацију од поверења.">
 <!ENTITY certerror.addTemporaryException.label "Посети сајт">

@@ -14,10 +14,10 @@
 <!ENTITY sync.title.pair.label 'Упари уређај'>
 
 <!-- J-PAKE Key Screen -->
-<!ENTITY sync.subtitle.connect.label 'Да активирате нови уређај, изаберите “Подеси &syncBrand.shortName.label;” на Вашем уређају.'>
+<!ENTITY sync.subtitle.connect.label 'Да активирате нови уређај, изаберите “Подеси &syncBrand.shortName.label;” на уређају.'>
 <!ENTITY sync.subtitle.header2.label 'Унесите код на другом уређају'>
-<!ENTITY sync.subtitle.connectlocation2.label 'Изаберите “&sync.title.pair.label;” у &syncBrand.shortName.label; секцији Firefox поставки Вашег другог уређаја.'>
-<!ENTITY sync.subtitle.pair.label 'Да активирате, изаберите “Упари уређај” на Вашем другом уређају.'>
+<!ENTITY sync.subtitle.connectlocation2.label 'Изаберите “&sync.title.pair.label;” у &syncBrand.shortName.label; секцији Firefox поставки другог уређаја.'>
+<!ENTITY sync.subtitle.pair.label 'Да активирате, изаберите “Упари уређај” на другом уређају.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
 <!ENTITY sync.pin.oneline.label '...'>
 <!ENTITY sync.link.show.label 'Покажи ми како.'>
@@ -41,22 +41,22 @@
 <!ENTITY sync.button.tryagain.label 'Покушај поново'>
 <!ENTITY sync.button.manual.label 'Ручно подешавање'>
 <!ENTITY sync.subtitle.nointernet.label 'Интернет веза није доступна.'>
-<!ENTITY sync.subtitle.failaccount.label 'Прављење рачуна на Вашем уређају није успело.'>
-<!ENTITY sync.subtitle.failmultiple.label 'Да ли имате више од једног Firefox-а инсталирано? Тренутно, &syncBrand.fullName.label; подржава само једну Firefox инсталацију. Молимо Вас да деинсталирате други &syncBrand.shortName.label;.'>
+<!ENTITY sync.subtitle.failaccount.label 'Прављење рачуна на уређају није успело.'>
+<!ENTITY sync.subtitle.failmultiple.label 'Да ли имате више од једног Firefox-а инсталирано? Тренутно, &syncBrand.fullName.label; подржава само једну Firefox инсталацију. Деинсталирајте други &syncBrand.shortName.label;.'>
   
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label 'Подешавање завршено'>
-<!ENTITY sync.subtitle.success.label1 'Ваши подаци се сада преузимају у позадини. Можете да одете на Поставке да управљате налогом или да почнете да прегледавате са &brandShortName;.'>
+<!ENTITY sync.subtitle.success.label1 'Подаци се сада преузимају у позадини. Можете да одете на Поставке да управљате налогом или да почнете да прегледавате са &brandShortName;.'>
 <!ENTITY sync.settings.label 'Поставке'>
 <!ENTITY sync.subtitle.manage.label1 'Ваш &syncBrand.fullName.label; налог је већ подешен. Можете да одете на Поставке да управљате налогом или да покренете &brandShortName;.'>
 
 <!-- Pair Device -->
-<!ENTITY sync.pair.tryagain.label 'Молимо Вас покушајте поново.'>
-<!ENTITY sync.pair.connectlocation.label 'Да активирате Ваш нови уређај, изаберите “Подеси &syncBrand.shortName.label;” на уређају, и затим изаберите “Имам налог.”'>
+<!ENTITY sync.pair.tryagain.label 'Покушајте поново.'>
+<!ENTITY sync.pair.connectlocation.label 'Да активирате нови уређај, изаберите “Подеси &syncBrand.shortName.label;” на уређају, и затим изаберите “Имам налог.”'>
 
 <!-- Firefox SyncAdapter Settings Screen -->
 <!ENTITY sync.settings.options.label 'Опције'>
-<!ENTITY sync.summary.pair.label 'Повежите други уређај на Ваш &syncBrand.shortName.label; налог'>
+<!ENTITY sync.summary.pair.label 'Повежите други уређај на &syncBrand.shortName.label; налог'>
 
 <!-- Configure Engines -->
 <!ENTITY sync.configure.engines.title.label 'Шта да синхронизујем'>
@@ -99,8 +99,8 @@
 
 <!-- Incorrect settings and changing credentials. -->
 <!ENTITY sync.invalidcreds.label 'Нетачно име налога или лозинка.'>
-<!ENTITY sync.invalidserver.label 'Молимо Вас унесите валидан URL сервера'>
-<!ENTITY sync.verifying.label 'Верификујем…'>
+<!ENTITY sync.invalidserver.label 'Унесите валидан URL сервера'>
+<!ENTITY sync.verifying.label 'Потврђујем…'>
 <!ENTITY sync.new.recoverykey.status.incorrect 'Кључ за опоравак је неисправан. Покушајте поново касније.'>
 
 <!-- Send tab to device. -->
@@ -167,11 +167,11 @@
 
 <!ENTITY fxaccount_confirm_account_header 'Потврдите налог'>
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
-<!ENTITY fxaccount_confirm_account_verification_link 'Верификациона веза је послата на &formatS;'>
+<!ENTITY fxaccount_confirm_account_verification_link 'Веза за потврду је послата на &formatS;'>
 <!ENTITY fxaccount_confirm_account_resend_email 'Поново пошаљи'>
 <!ENTITY fxaccount_confirm_account_change_email 'Заборавити ову адресу е-поште?'>
-<!ENTITY fxaccount_confirm_account_verification_link_sent2 'Верификациона е-пошта је послата'>
-<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Нисам могао послати верификациону е-пошту'>
+<!ENTITY fxaccount_confirm_account_verification_link_sent2 'Е-пошта за потврду је послата'>
+<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Нисам могао послати е-пошту за потврду'>
 <!ENTITY fxaccount_resend_unlock_code_button_label 'Поново пошаљи е-пошту за откључавање'>
 <!ENTITY fxaccount_unlock_code_sent 'Е-пошта за откључавање налога је послата'>
 <!ENTITY fxaccount_unlock_code_not_sent 'Нисам успео послати е-потшу за откључавање'>
@@ -182,7 +182,7 @@
 <!ENTITY fxaccount_sign_in_create_account_instead 'Направи налог'>
 <!ENTITY fxaccount_sign_in_unknown_error 'Не могу да се пријавим'>
 
-<!ENTITY fxaccount_account_verified_sub_header 'Налог је верификован'>
+<!ENTITY fxaccount_account_verified_sub_header 'Налог је потврђен'>
 <!ENTITY fxaccount_account_verified_description2 'Ваши подаци ће започети да се синхронизују.'>
 
 <!ENTITY fxaccount_migration_finished_header 'Надоградња је завршена'>
@@ -204,12 +204,12 @@
 <!ENTITY fxaccount_status_sync_server 'Sync сервер'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: омогућен'>
-<!ENTITY fxaccount_status_needs_verification2 'Ваш налог мора бити верификован. Притисните да поново пошаљете е-пошту.'>
+<!ENTITY fxaccount_status_needs_verification2 'Налог мора бити потврђен. Притисните да поново пошаљете е-пошту.'>
 <!ENTITY fxaccount_status_needs_credentials 'Не могу се повезати. Притисните да се пријавите.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Морате да надоградите &brandShortName; да бисте се пријавили.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; је подешен, али не синхронизује аутоматски. Активирајте “Auto-sync data” у Android поставкама &gt; Data Usage.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; је подешен, али не синхронизује аутоматски. Активирајте “Auto-sync data” у Android поставкама &gt; Accounts.'>
-<!ENTITY fxaccount_status_needs_finish_migrating 'Притисните да се пријавите на Ваш нови Firefox налог.'>
+<!ENTITY fxaccount_status_needs_finish_migrating 'Притисните да се пријавите на Firefox налог.'>
 <!ENTITY fxaccount_status_bookmarks 'Забелешке'>
 <!ENTITY fxaccount_status_history 'Историја'>
 <!ENTITY fxaccount_status_passwords2 'Пријаве'>
@@ -224,7 +224,7 @@
 <!ENTITY fxaccount_status_more 'Више&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title 'Уклонити Firefox налог?'>
-<!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; ће зауставити синхронизацију са Вашим налогом, али неће избрисати Ваше податке прегледања на овом уређају.'>
+<!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; ће зауставити синхронизацију са вашим налогом, али неће избрисати податке прегледања на овом уређају.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast 'Firefox налог &formatS; је уклоњен.'>
@@ -253,7 +253,7 @@
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'Налог већ постоји. &formatS1;'>
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Неисправна е-пошта или лозинка'>
 <!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Неисправна е-пошта или лозинка'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Налог није верификован'>
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Налог није потврђен'>
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Сервер је заузет, покушајте поново касније'>
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Сервер је заузет, покушајте поново касније'>
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Дошло је до проблема'>

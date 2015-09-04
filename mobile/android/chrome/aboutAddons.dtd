@@ -6,10 +6,10 @@
 <!ENTITY aboutAddons.header2                    "Ваши додаци">
 <!ENTITY aboutAddons.options                    "Опције">
 
-<!ENTITY addonAction.enable                     "Укључи">
-<!ENTITY addonAction.disable                    "Искључи">
+<!ENTITY addonAction.enable                     "Омогући">
+<!ENTITY addonAction.disable                    "Онемогући">
 <!ENTITY addonAction.uninstall                  "Деинсталирај">
 <!ENTITY addonAction.undo                       "Опозови">
 
-<!ENTITY addonUnsigned.message                  "Овај додатак није верификован од стране &brandShortName;.">
+<!ENTITY addonUnsigned.message                  "Овај додатак није потврђен од стране &brandShortName;.">
 <!ENTITY addonUnsigned.learnMore                "Сазнајте више">
