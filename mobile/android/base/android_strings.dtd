@@ -41,8 +41,9 @@
 <!ENTITY bookmark_options "Opzioni">
 <!ENTITY history_today_section "Oggi">
 <!ENTITY history_yesterday_section "Ieri">
-<!ENTITY history_week_section2 "Ultima settimana">
-<!ENTITY history_older_section2 "Ultimo mese">
+<!ENTITY history_week_section3 "Ultimi 7 giorni">
+<!ENTITY history_this_month_section "Questo mese">
+<!ENTITY history_older_section3 "Più vecchi di 6 mesi">
 <!ENTITY go "Vai">
 <!ENTITY search "Cerca">
 <!ENTITY reload "Ricarica">
