@@ -702,7 +702,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.weakCipher2 "Başkaları bilgilerinizi görebilir veya web sitesinin davranışını değiştirebilir.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; bu sayfanın güvenli olmayan kısımlarını engelledi.">
 <!ENTITY identity.description.passiveLoaded "Bağlantınız size özel değil ve bu siteyle paylaştığınız bilgiler başkaları tarafından görülebilir.">
-<!ENTITY identity.description.passiveLoaded2 "Bu sitede güvenli olmayan içerikler var (resim vb).">
+<!ENTITY identity.description.passiveLoaded2 "Bu sitede güvenli olmayan içerikler (resimler vb.) var.">
 <!ENTITY identity.description.passiveLoaded3 "&brandShortName; bazı içerikleri engellemiş olmasına rağmen bu sayfada hâlâ güvenli olmayan içerikler (örn. resimler) var.">
 <!ENTITY identity.description.activeLoaded "Bu web sitesinde güvenli olmayan içerikler var (örn. betikler) ve siteye olan bağlantınız gizli değil.">
 <!ENTITY identity.description.activeLoaded2 "Bu siteyle paylaştığınız bilgiler (örn. parolalar, mesajlar, kredi kartı bilgileri vb.) başkaları tarafından görülebilir.">
