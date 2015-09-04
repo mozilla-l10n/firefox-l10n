@@ -702,5 +702,5 @@ esuka kwi-Android">
 <!ENTITY restriction_disallow_display_settings_title2 "Vala iiSetingi Zokubonisa">
 <!ENTITY restriction_disallow_clear_history_title2 "Vala u \u0027Cima imbali yokubhrawza\u0027">
 <!ENTITY restriction_disallow_master_password_title2 "Vala iphaswedi eyimasta">
-
+<!ENTITY restriction_disallow_guest_browsing_title2 "Vala UkuBhrawza Kondwendwe">
 
