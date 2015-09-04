@@ -689,7 +689,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Ceangal Slán">
 <!ENTITY identity.connectionNotSecure "Ní Ceangal Slán é seo">
 <!ENTITY identity.connectionFile "Stóráiltear an leathanach seo ar do ríomhaire.">
-<!ENTITY identity.connectionVerified "Dheimhnigh &brandShortName; go bhfuil tú ceangal slán agat leis an suíomh seo, suíomh faoi stiúir:">
+<!ENTITY identity.connectionVerified "Dheimhnigh &brandShortName; go bhfuil ceangal slán agat leis an suíomh seo, suíomh faoi stiúir:">
 <!ENTITY identity.connectionInternal "Is leathanach slán &brandShortName; é seo.">
 <!-- Strings for connection state warnings. -->
 
