@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.notPrivate       "You are currently not in a private window.">
+<!ENTITY aboutPrivateBrowsing.notPrivate       "Αυτή τη στιγμή δε βρίσκεστε σε παράθυρο ιδιωτικής περιήγησης.">
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Άνοιγμα παραθύρου Ιδιωτικής περιήγησης">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "δ">
 
@@ -14,23 +14,29 @@
      of the Tracking Protection section, and in general not much larger than
      30em to prevent the sections from wrapping on smaller window sizes.
      -->
+<!ENTITY aboutPrivateBrowsing.width            "30em">
 
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
      aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
      These strings will be replaced by aboutPrivateBrowsing.forgotten and
      aboutPrivateBrowsing.kept when the new visual design lands (bug 1192625).
      -->
-<!ENTITY aboutPrivateBrowsing.title            "You're browsing privately">
-<!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; won't remember any history for this window.">
+<!ENTITY aboutPrivateBrowsing.title            "Βρίσκεστε σε ιδιωτική περιήγηση">
+<!ENTITY aboutPrivateBrowsing.subtitle         "Ο &brandShortName; δεν θα αποθηκεύσει ιστορικό για αυτό το παράθυρο.">
 
+<!ENTITY aboutPrivateBrowsing.forgotten        "Σε αυτό το παράθυρο, ο &brandShortName; δεν θα διατηρήσει:">
+<!ENTITY aboutPrivateBrowsing.info.forgotten   "Μη αποθηκευμένα δεδομένα">
 <!ENTITY aboutPrivateBrowsing.info.history     "Ιστορικό">
+<!ENTITY aboutPrivateBrowsing.info.searches    "Αναζητήσεις">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Cookies">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Προσωρινά αρχεία">
 
 <!ENTITY aboutPrivateBrowsing.kept             "Ο &brandShortName; θα διατηρήσει:">
+<!ENTITY aboutPrivateBrowsing.info.kept        "Αποθηκευμένα δεδομένα">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Λήψεις">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Σελιδοδείκτες">
 
+<!ENTITY aboutPrivateBrowsing.note1            "Παρακαλούμε σημειώστε ότι ο εργοδότης σας ή ο πάροχος ίντερνετ μπορεί ακόμα να καταγράφει τις σελίδες που επισκέπτεστε.">
 <!ENTITY aboutPrivateBrowsing.learnMore        "Μάθετε περισσότερα">
 
 <!-- LOCALIZATION NOTE (trackingProtection.width):
@@ -46,6 +52,8 @@
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
+<!ENTITY trackingProtection.state.enabled      "ΕΝΕΡΓΟΠΟΙΗΜΕΝΗ">
+<!ENTITY trackingProtection.state.disabled     "ΑΠΕΝΕΡΓΟΠΟΙΗΜΕΝΗ">
 
 <!ENTITY trackingProtection.description1       "Από τώρα τα παράθυρα ιδιωτικής περιήγησης θα εμποδίζουν τμήματα των ιστοσελίδων που προσπαθούν να καταγράψουν τη δραστηριότητά σας.">
 
