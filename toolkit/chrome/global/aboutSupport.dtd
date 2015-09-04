@@ -59,6 +59,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "IWindows yeenkqubo ezininzi">
 
+<!ENTITY aboutSupport.appBasicsSafeMode "IMowudi Ekhuselekileyo">
 
 <!ENTITY aboutSupport.showDir.label "Isalathiso esivulekileyo">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
