@@ -689,7 +689,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Konexio segurua">
 <!ENTITY identity.connectionNotSecure "Konexioa ez da segurua">
 <!ENTITY identity.connectionFile "Orri hau zure ordenagailuan biltegiratuta dago.">
-<!ENTITY identity.connectionVerified "&brandShortName;(e)k egiaztatu du gune honetara modu segurua konektatuta zaudela. Arduraduna:">
+<!ENTITY identity.connectionVerified "&brandShortName;(e)k egiaztatu du gune honetara modu seguruan konektatuta zaudela. Arduraduna:">
 <!ENTITY identity.connectionInternal "&brandShortName; orri segurua da hau.">
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.passiveLoaded "Orri honetako zenbait atal ez dira seguruak (adib. irudiak).">
