@@ -689,7 +689,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Säker Anslutning">
 <!ENTITY identity.connectionNotSecure "Anslutningen är inte säker ">
 <!ENTITY identity.connectionFile "Den här sidan är lagrad på din dator.">
-<!ENTITY identity.connectionVerified "&brandShortName; veriferat att du är säkert ansluten till sidan, körd av: ">
+<!ENTITY identity.connectionVerified "&brandShortName; veriferade att du är säkert ansluten till sidan, körd av: ">
 <!ENTITY identity.connectionInternal "Detta är en säker &brandShortName; sida.">
 <!-- Strings for connection state warnings. -->
 
