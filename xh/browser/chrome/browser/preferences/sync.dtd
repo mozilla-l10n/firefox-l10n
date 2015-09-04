@@ -71,24 +71,28 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Akungenanga.">
 <!ENTITY signIn.label                "Ngena">
-
+<!ENTITY profilePicture.tooltip      "Tshintsha umfanekiso weprofayili">
 <!ENTITY manage.label                "Lawula">
 <!ENTITY disconnect.label            "Khupha kuqhagamshelo…">
 <!ENTITY verify.label                "Qinisekisa i-imeyili">
 <!ENTITY forget.label                "Yilibale le imeyili">
 
 <!ENTITY welcome.description "Ngena kwiithebhu, iibhukhmakhi, iipasiwedi nokunye okungakumbi naphi na xa usebenzisa &brandShortName;.">
-
-
+<!ENTITY welcome.signIn.label "Sayina uNgene">
+<!ENTITY welcome.createAccount.label "Yenza i-Akhawunti">
 
 <!ENTITY welcome.useOldSync.label "Usebenzisa uhlelo oludala lokuNgqamanisa?">
 
+<!ENTITY signedOut.caption            "Phatha iWebhu yakho apho ukhoyo">
+<!ENTITY signedOut.description        "Ngqamanisa iibhukmakhi zakho, iimbali, iithebhu, iiphaswedi, ezongezelelwayo, kunye neepreferensi kuzo zonke izixhobo zakho.">
+<!ENTITY signedOut.accountBox.title   "Qhagamshela nge&syncBrand.fxAccount.label;">
+<!ENTITY signedOut.accountBox.create  "Yenza i-Akhawunti">
+<!ENTITY signedOut.accountBox.signin  "Sayina uNgene">
 
+<!ENTITY signedIn.engines.label       "Ngqamanisa zonke izixhobo">
 
-
-
-
-
+<!ENTITY mobilePromo.start            "Dawnlowuda iFirefox ye">
 <!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
-
-
+<!ENTITY mobilePromo.androidLink      "Android™">
+<!ENTITY mobilePromo.end              "ukuze ungqamanise nezixhobo zakho zemobhayili.">
+<!ENTITY androidAttribution           "IAndroid luphawu lorhwebo lukaGoogle Inc.">
