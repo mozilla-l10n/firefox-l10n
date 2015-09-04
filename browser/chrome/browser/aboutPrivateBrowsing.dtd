@@ -6,6 +6,7 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Άνοιγμα παραθύρου Ιδιωτικής περιήγησης">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "δ">
 
+<!ENTITY privateBrowsing.title                 "Ιδιωτική Περιήγηση">
 
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
      Width of the Private Browsing section. This should depend primarily on the
@@ -22,7 +23,13 @@
 <!ENTITY aboutPrivateBrowsing.title            "You're browsing privately">
 <!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; won't remember any history for this window.">
 
+<!ENTITY aboutPrivateBrowsing.info.history     "Ιστορικό">
+<!ENTITY aboutPrivateBrowsing.info.cookies     "Cookies">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Προσωρινά αρχεία">
 
+<!ENTITY aboutPrivateBrowsing.kept             "Ο &brandShortName; θα διατηρήσει:">
+<!ENTITY aboutPrivateBrowsing.info.downloads   "Λήψεις">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks   "Σελιδοδείκτες">
 
 <!ENTITY aboutPrivateBrowsing.learnMore        "Μάθετε περισσότερα">
 
@@ -34,9 +41,14 @@
      Note that the required space may vary between platforms because fonts are
      different, so testing on Windows, Mac, and Linux is encouraged.
      -->
+<!ENTITY trackingProtection.title              "Προστασία Εντοπισμού">
 
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
 
+<!ENTITY trackingProtection.description1       "Από τώρα τα παράθυρα ιδιωτικής περιήγησης θα εμποδίζουν τμήματα των ιστοσελίδων που προσπαθούν να καταγράψουν τη δραστηριότητά σας.">
 
+<!ENTITY trackingProtection.disable            "Απενεργοποίηση προστασίας εντοπισμού">
+<!ENTITY trackingProtection.enable             "Ενεργοποίηση προστασίας εντοπισμού">
+<!ENTITY trackingProtection.startTour1         "Δείτε πως λειτουργεί">
