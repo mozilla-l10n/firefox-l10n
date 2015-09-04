@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "Isaziso sabucala">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Wamkelekile kwi-&syncBrand.shortName.label;">
-
+<!ENTITY fxaccount_getting_started_description2 "Sayina ungene ukuze ungqamanise iithebhu, iibhukhmakhi, iilogini nokunye kwakho.">
 <!ENTITY fxaccount_getting_started_get_started "Qalisa">
 <!ENTITY fxaccount_getting_started_old_firefox "Usebenzisa uhlelo oludadlala lwe-&syncBrand.shortName.label;?">
 <!-- Localization note: the Firefox below should not change with the
@@ -212,7 +212,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating "Cofa ukusayina ungene kwi-akhawunti yakho entsha ka-Firefox.">
 <!ENTITY fxaccount_status_bookmarks "Iibhukhmakhi">
 <!ENTITY fxaccount_status_history "Imbali">
-
+<!ENTITY fxaccount_status_passwords2 "IiLogini">
 <!ENTITY fxaccount_status_tabs "Vula iithebhu">
 <!ENTITY fxaccount_status_legal "Isemthethweni" >
 <!-- Localization note: when tapped, the following two strings link to
@@ -230,7 +230,7 @@
 <!ENTITY fxaccount_remove_account_toast "I-Akhawunti yeFirefox &formatS; isusiwe.">
 
 <!ENTITY fxaccount_remove_account_menu_item "Susa i-Akhawunti">
-
+<!ENTITY fxaccount_enable_debug_mode "Vula IMowudi Yokususa Ibhagi">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 

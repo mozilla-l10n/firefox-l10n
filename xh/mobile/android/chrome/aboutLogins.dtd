@@ -5,5 +5,5 @@
    %brandDTD;
 <!ENTITY aboutLogins.title                       "Izinto zokuNgena ekhompyutheni">
 <!ENTITY aboutLogins.update                      "Hlaziya">
-
-
+<!ENTITY aboutLogins.emptyLoginText              "Gcina iilogini zakho zikhuselekile">
+<!ENTITY aboutLogins.emptyLoginHint              "IiLogini neenkcazelo ozigcinayo usebenzisa &brandShortName; iza kubonakala apha.">

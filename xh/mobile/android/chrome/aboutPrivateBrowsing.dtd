@@ -6,13 +6,18 @@
 <!-- Localisation note: the plus sign here is a shorthand way of expressing the word "and". Contextually the privatebrowsingpage.title.private string
                         is used as a title, with the privatebrowsingpage.title string preceding it but on a separate line.
                         So the final line will say "Private Browsing + Tracking Protection". -->
+
+<!ENTITY privatebrowsingpage.title.private "+ Ukhuseleko Lokukhangela">
 <!-- Localization note (privatebrowsingpage.title.normal1): "Private Browsing"
      is capitalized in English to be consistent with our existing uses of the
      term. -->
+<!ENTITY privatebrowsingpage.title.normal1 "UkwiBhrawuza Yabucala">
 
+<!ENTITY privatebrowsingpage.description.private3 "IFirefox iya kukuthintela ekubeni utrekwe yaye ayisayi kukhumbula mbali, kodwa iifayile ezidawnlowudweyo neebhukmakhi ezintsha ziya kugcinwa kwisixhobo sakho.">
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing" is capitalized in English to be consistent with our existing uses
      of the term. -->
+<!ENTITY privatebrowsingpage.description.normal2 "KukuBhrawuza Kwabucala, asisayi kugcina nayiphi na imbali yakho yokubhrawuza okanye iikhuki. Iibhukmaki ozongezayo neeefayile ozidawnlowuudayo ziya kugcinwa kwisixhobo sakho.">
 
 <!ENTITY privatebrowsingpage.link.private "Ufuna ukufunda ngaphezulu?">
-
+<!ENTITY privatebrowsingpage.link.normal "Vula ithebhu entsha yabucala">
