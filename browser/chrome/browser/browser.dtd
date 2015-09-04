@@ -80,6 +80,7 @@
 <!ENTITY fxaSignIn.label "Conectarse a &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Abrir preferencias de &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Reconectar a &syncBrand.shortName.label;">
+<!ENTITY fxaUnverified.label "Verifique su cuenta">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; activado">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; comenzará a sincronizar en breves momentos.">
 <!ENTITY syncErrorPanel.heading "No se puede conectar a &syncBrand.shortName.label;">
@@ -93,7 +94,11 @@
 <!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "Salir del modo pantalla completa">
 <!ENTITY fullScreenExit.accesskey "m">
-<!ENTITY fullscreenExitHint2.value "Pulse ESC en cualquier momento para salir.">
+<!ENTITY fullscreenWarning.beforeDomain.label "">
+<!ENTITY fullscreenWarning.afterDomain.label "está ahora en pantalla completa">
+<!ENTITY fullscreenWarning.generic.label "Este documento está ahora en pantalla completa">
+<!ENTITY exitDOMFullscreen.button "Salir del modo pantalla completa (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "Salir del modo pantalla completa (esc)">
 <!ENTITY leaveDOMFullScreen.label "Salir de la pantalla completa">
 <!ENTITY leaveDOMFullScreen.accesskey "p">
 <!ENTITY closeWindow.label "Cerrar ventana">
@@ -493,7 +498,7 @@
 <!ENTITY identity.connectionSecure "Conexión segura">
 <!ENTITY identity.connectionNotSecure "La conexión no es segura">
 <!ENTITY identity.connectionFile "Esta página se guarda en su equipo.">
-<!ENTITY identity.connectionVerified "&brandShortName; ha verificado que está conectado de modo seguro a este sitio, gestionado por:">
+<!ENTITY identity.connectionVerified1 "Está conectado de forma segura a este sitio, mantenido por:">
 <!ENTITY identity.connectionInternal "Esta es una página segura de &brandShortName;.">
 <!ENTITY identity.activeBlocked "&brandShortName; ha bloqueado partes de esta página que no son seguras.">
 <!ENTITY identity.passiveLoaded "Partes de esta página no son seguras (como imágenes).">
@@ -518,8 +523,8 @@
 <!ENTITY tabsToolbar.label "Pestañas del navegador">
 <!ENTITY syncTabsMenu2.label "Pestañas de otros dispositivos">
 <!ENTITY syncBrand.shortName.label "Sync">
-<!ENTITY syncSetup.label "Configurar &syncBrand.shortName.label;…">
-<!ENTITY syncSetup.accesskey "f">
+<!ENTITY syncSignIn.label "Conectarse a &syncBrand.shortName.label;…">
+<!ENTITY syncSignIn.accesskey "Y">
 <!ENTITY syncSyncNowItem.label "Sincronizar ahora">
 <!ENTITY syncSyncNowItem.accesskey "z">
 <!ENTITY syncReAuthItem.label "Reconectar a &syncBrand.shortName.label;…">

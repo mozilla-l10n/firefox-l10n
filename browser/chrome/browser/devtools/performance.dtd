@@ -11,12 +11,15 @@
 <!ENTITY performanceUI.loadingNotice "Cargando…">
 <!ENTITY performanceUI.recordButton.tooltip "Alterne el estado de registro de una grabación de rendimiento.">
 <!ENTITY performanceUI.importButton "Importar…">
-<!ENTITY performanceUI.exportButton "Guardar">
 <!ENTITY performanceUI.clearButton "Limpiar">
 <!ENTITY performanceUI.toolbar.waterfall "Cascada">
+<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Muestra las diferentes operaciones que está llevando a cabo el navegador durante la grabación, dispuestas secuencialmente como una cascada.">
 <!ENTITY performanceUI.toolbar.js-calltree "Árbol de llamadas">
+<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Resalta las funciones de JavaScript en las que el navegador ha empleado más tiempo durante la grabación.">
 <!ENTITY performanceUI.toolbar.memory-calltree "Asignaciones de memoria">
+<!ENTITY performanceUI.toolbar.allocations.tooltiptext "Muestra dónde se asignó memoria durante la grabación.">
 <!ENTITY performanceUI.toolbar.js-flamegraph "Gráfico de llamarada JS">
+<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Muestra la pila de llamadas de JavaScript a lo largo de la grabación.">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "Gráfico de llamaradas de asignaciones de memoria">
 <!ENTITY performanceUI.table.totalDuration "Tiempo total">
 <!ENTITY performanceUI.table.totalDuration.tooltip "La cantidad de tiempo empleada en esta función y las funciones a las que llama.">
@@ -34,7 +37,6 @@
 <!ENTITY performanceUI.table.totalAlloc.tooltip "El número total de asignaciones de objeto recogidas en esta ubicación y sus objetos llamados.">
 <!ENTITY performanceUI.table.selfAlloc "Asignaciones de memoria automuestreadas">
 <!ENTITY performanceUI.table.selfAlloc.tooltip "El número de asignaciones de objeto recogidos en esta ubicación.">
-<!ENTITY performanceUI.newtab.tooltiptext "Añadir nueva pestaña a partir de la selección">
 <!ENTITY performanceUI.options.filter.tooltiptext "Seleccione qué datos mostrar en la línea de tiempos">
 <!ENTITY performanceUI.options.gear.tooltiptext "Configurar preferencias de rendimiento.">
 <!ENTITY performanceUI.invertTree "Invertir árbol de llamadas">
