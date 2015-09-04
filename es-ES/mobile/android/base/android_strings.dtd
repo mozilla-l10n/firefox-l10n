@@ -238,6 +238,7 @@
 <!ENTITY share_title "Compartir por">
 <!ENTITY share_image_failed "Imposible compartir esta imagen">
 <!ENTITY save_as_pdf "Guardar como PDF">
+<!ENTITY print "Imprimir">
 <!ENTITY find_in_page "Buscar en la página">
 <!ENTITY desktop_mode "Pedir sitio de escritorio">
 <!ENTITY page "Página">
@@ -275,6 +276,8 @@
 <!ENTITY contextmenu_top_sites_pin "Fijar sitio">
 <!ENTITY contextmenu_top_sites_unpin "Soltar sitio">
 <!ENTITY contextmenu_add_search_engine "Añadir un buscador">
+<!ENTITY contextmenu_mark_read "Marcar como leído">
+<!ENTITY contextmenu_mark_unread "Marcar como no leído">
 <!ENTITY doorhanger_login_no_username "[Sin nombre]">
 <!ENTITY doorhanger_login_edit_title "Editar credencial">
 <!ENTITY doorhanger_login_edit_username_hint "Nombre de usuario">
@@ -289,8 +292,8 @@
 <!ENTITY pref_titlebar_mode "Barra de título">
 <!ENTITY pref_titlebar_mode_title "Mostrar el título de la página">
 <!ENTITY pref_titlebar_mode_url "Mostrar la dirección de la página">
-<!ENTITY pref_prevent_magnifying_glass "Desactivar lupa de aumento">
-<!ENTITY pref_prevent_magnifying_glass_summary "Impedir la activación de la lupa por toques de pantalla ambiguos">
+<!ENTITY pref_magnifying_glass_enabled "Aumentar áreas pequeñas">
+<!ENTITY pref_magnifying_glass_enabled_summary "Aumentar enlaces y campos de formularios al tocar cerca de ellos">
 <!ENTITY pref_scroll_title_bar2 "Navegación en pantalla completa">
 <!ENTITY pref_scroll_title_bar_summary "Ocultar la barra de título de &brandShortName; al bajar por una página">
 <!ENTITY pref_tab_queue_title2 "Abrir múltiples enlaces">
@@ -431,3 +434,9 @@
 <!ENTITY restriction_disallow_clear_history_title2 "Desactivar \'Limpiar historial de navegación\'">
 <!ENTITY restriction_disallow_master_password_title2 "Desactivar contraseña maestra">
 <!ENTITY restriction_disallow_guest_browsing_title2 "Desactivar navegación de invitado">
+<!ENTITY bookmarks_about_browser "Firefox: acerca de su navegador">
+<!ENTITY bookmarks_addons "Firefox: personalizar con complementos">
+<!ENTITY bookmarks_support "Ayuda de Firefox">
+<!ENTITY bookmarks_marketplace "Firefox Marketplace">
+<!ENTITY bookmarks_restricted_support "Ayuda y asistencia de Firefox para una versión de Firefox simplificada y dirigida a los niños.">
+<!ENTITY bookmarks_restricted_webmaker "Aprenda la web: Mozilla Webmaker">
