@@ -706,12 +706,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded2 "Acest site are conținut nesigur (cum ar fi imagini).">
 <!ENTITY identity.description.passiveLoaded3 "Deși &brandShortName; a blocat o parte din conținut, mai este conținut nesigur pe pagină (cum ar fi imagini).">
 <!ENTITY identity.description.activeLoaded "Acest site web are conținut care nu este securizat (cum ar fi scripturile), iar conexiunea către acesta nu este privată.">
+<!ENTITY identity.description.activeLoaded2 "Informația împărtășită cu acest site ar putea fi văzută de alții (cum ar fi parole, mesaje, carduri de credit, etc)">
 
-
-
+<!ENTITY identity.enableMixedContentBlocking.label "Activează protecția">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "e">
 <!ENTITY identity.disableMixedContentBlocking.label "Dezactivați protecția deocamdată">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
-
+<!ENTITY identity.learnMore "Aflați mai multe">
 
 <!ENTITY identity.moreInfoLinkText2 "Mai multe informații">
 
@@ -791,9 +792,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY getUserMedia.allWindowsShared.message "Toate ferestrele vizibile pe ecran vor fi partajate.">
 
-
-
-
+<!ENTITY trackingProtection.title "Protecție față de urmărire">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blochează elemente din pagină care v-ar putea urmări navigarea.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "Acest site include elemente care v-ar putea urmări navigarea. Ați dezactivat protecția.">
+<!ENTITY trackingProtection.notDetected3 "Nu s-au detectat elemente de urmărire pe această pagină.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
@@ -804,13 +806,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 <!ENTITY trackingProtection.unblockPrivate.label "Dezactivează protecția pentru această sesiune">
 <!ENTITY trackingProtection.unblockPrivate.accesskey "D">
-
-
+<!ENTITY trackingProtection.block2.label "Activează protecția">
+<!ENTITY trackingProtection.block2.accesskey "e">
 
 <!ENTITY trackingContentBlocked.message "Urmărire">
 <!ENTITY trackingContentBlocked.moreinfo "Părți ale paginii care vă urmăresc activitatea online au fost blocate.">
 <!ENTITY trackingContentBlocked.learnMore "Aflați mai multe">
-
+<!ENTITY trackingContentBlocked.options "Opțiuni">
 <!ENTITY trackingContentBlocked.unblock2.label "Dezactivează protecția pentru acest site">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "Activează protecția">
