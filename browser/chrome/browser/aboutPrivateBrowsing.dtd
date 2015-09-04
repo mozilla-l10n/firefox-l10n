@@ -13,6 +13,8 @@
      of the Tracking Protection section, and in general not much larger than
      30em to prevent the sections from wrapping on smaller window sizes.
      -->
+
+<!ENTITY aboutPrivateBrowsing.width            "30em">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
      aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
      These strings will be replaced by aboutPrivateBrowsing.forgotten and
@@ -20,18 +22,21 @@
      -->
 
 <!ENTITY aboutPrivateBrowsing.title            "Ubhrawuza ngokusemfihlweni">
+<!ENTITY aboutPrivateBrowsing.subtitle         "Kule festile, &brandShortName; ayisayi kukhumbula nayiphi na imbali.">
 
-
-
+<!ENTITY aboutPrivateBrowsing.forgotten        "Kule festile, &brandShortName; ayisayi kukhumbula:">
+<!ENTITY aboutPrivateBrowsing.info.forgotten   "Ayigcinanga">
 <!ENTITY aboutPrivateBrowsing.info.history     "Imbali">
-
+<!ENTITY aboutPrivateBrowsing.info.searches    "Ukhangelo">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Ii-Cookies">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Iifayile Zexeshana">
 
-
-
-
+<!ENTITY aboutPrivateBrowsing.kept             "&brandShortName; iya kugcina:">
+<!ENTITY aboutPrivateBrowsing.info.kept        "Igcinile">
+<!ENTITY aboutPrivateBrowsing.info.downloads   "Iidownlowudi">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Iibhukhmakhi">
 
+<!ENTITY aboutPrivateBrowsing.note1            "Sicela uphawule ukuba umqeshi wakho okanye umnikezeli wakho we-Intanethi uza kutreka amaphepha owatyelelayo">
 <!ENTITY aboutPrivateBrowsing.learnMore        "Funda ngakumbi.">
 <!-- LOCALIZATION NOTE (trackingProtection.width):
      Width of the Tracking Protection section. It is fine for the enabled or
@@ -42,12 +47,18 @@
      different, so testing on Windows, Mac, and Linux is encouraged.
      -->
 
+<!ENTITY trackingProtection.width              "26em">
+<!ENTITY trackingProtection.title              "Itreka Ukhuseleko">
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
 
+<!ENTITY trackingProtection.state.width        "6ch">
+<!ENTITY trackingProtection.state.enabled      "ILAYITILE">
+<!ENTITY trackingProtection.state.disabled     "ICIMILE">
 
+<!ENTITY trackingProtection.description1       "IiFestile Zabucala ngoku ibhloka iinxalenye zephepha elinokutreka ukubhrawuza kwakho.">
 
-
-
-
+<!ENTITY trackingProtection.disable            "Cima Ukhuseleko Lokutreka">
+<!ENTITY trackingProtection.enable             "Vula Ukhuseleko Lokutreka">
+<!ENTITY trackingProtection.startTour1         "Bona indlela okusebenza ngayo oku">
