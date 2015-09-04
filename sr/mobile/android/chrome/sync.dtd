@@ -14,7 +14,7 @@
 <!ENTITY sync.setup.title           "Повежи се на Sync">
 <!ENTITY sync.setup.pair            "Да активирате, изаберите &#x0022;Упари уређај&#x0022; на другом уређају.">
 <!ENTITY sync.fallback              "Нисам близу мог рачунара…">
-<!ENTITY sync.setup.manual          "Унесите Ваше информације Sync налога">
+<!ENTITY sync.setup.manual          "Унесите информације Sync налога">
 <!ENTITY sync.account               "Име">
 <!ENTITY sync.password              "Лозинка">
 <!ENTITY sync.recoveryKey           "Кључ за опоравак">

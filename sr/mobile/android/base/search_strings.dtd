@@ -9,7 +9,7 @@
 <!ENTITY search_bar_hint 'Претражи са &formatS;'>
 
 <!ENTITY search_empty_title2 'Започни претрагу'>
-<!ENTITY search_empty_message 'Брзо претражите све што Вас занима'>
+<!ENTITY search_empty_message 'Брзо претражите све што вас занима'>
 
 <!--  Localization note (search_plus_content_description): This is the content description
       for the "+" icon that appears at the end of search suggestions. -->
@@ -26,5 +26,5 @@
 
 <!ENTITY search_widget_button_label 'Претражи'>
 
-<!ENTITY network_error_title 'Нема интернет конекције'>
+<!ENTITY network_error_title 'Нема интернет везе'>
 <!ENTITY network_error_message 'Притисните да проверите поставке мреже'>

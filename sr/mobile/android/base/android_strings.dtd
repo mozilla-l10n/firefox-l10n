@@ -7,7 +7,7 @@
 <!ENTITY  error_loading_file "Дошло је до грешке приликом покушаја учитавања датотеке потребне за покретање &brandShortName;">
 
 <!ENTITY  onboard_start_message3 "Прегледавајте са &brandShortName;!">
-<!ENTITY  onboard_start_subtext3 "Учините искуство мобилног прегледања Вашим.">
+<!ENTITY  onboard_start_subtext3 "Учините искуство мобилног прегледања вашим.">
 <!ENTITY  onboard_start_button_account "Пријавите се на &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Започните прегледање">
 <!ENTITY  onboard_start_restricted1 "Останите безбедни и у контроли са поједностављеном &brandShortName; верзијом.">
@@ -29,7 +29,7 @@
 <!ENTITY  crash_comment "Додај коментар (коментари су јавно видљиви)">
 <!ENTITY  crash_allow_contact2 "Дозволи &vendorShortName; да ме контактира о овом извештају">
 <!ENTITY  crash_email "Ваша е-пошта">
-<!ENTITY  crash_closing_alert "Изађи без слања извештаја о рушењу?">
+<!ENTITY  crash_closing_alert "Изаћи без слања извештаја о рушењу?">
 <!ENTITY  sending_crash_report "Шаљем извештај о рушењу\u2026">
 <!ENTITY  crash_close_label "Затвори">
 <!ENTITY  crash_restart_label "Рестартуј &brandShortName;">
@@ -133,7 +133,7 @@
      divided into two lines (use the newline escape character, "\n", between
      them): the first notifying the user about the failure and the second
      telling the user what to do about it. -->
-<!ENTITY overlay_share_tab_not_sent "Ваш језичак није могао бити послат.\nМолимо Вас покушајте поново касније.">
+<!ENTITY overlay_share_tab_not_sent "Језичак није могао бити послат.\nПокушајте поново касније.">
 
 <!ENTITY pref_category_search3 "Претрага">
 <!ENTITY pref_category_search_summary "Прилагодите провајдере претраге">
@@ -175,13 +175,13 @@
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
-<!ENTITY home_add_panel_installed "\'&formatS;\' додат на почетну страницу">
+<!ENTITY home_add_panel_installed "\'&formatS;\' је додат на почетну страницу">
 <!ENTITY pref_category_home_content_settings "Поставке садржаја">
 <!ENTITY pref_home_updates "Аутоматско ажурирање">
 <!ENTITY pref_home_updates_enabled "Омогућено">
 <!ENTITY pref_home_updates_wifi "Само преко Wi-Fi">
 <!ENTITY pref_home_suggested_sites "Прикажи предлоге сајта">
-<!ENTITY pref_home_suggested_sites_summary "Приказује пречице оних сајтова за које мислимо да ће Вам бити интересантни на Вашој почетној страници">
+<!ENTITY pref_home_suggested_sites_summary "На почетној страници приказује пречице оних сајтова за које мислимо да ће бити интересантни">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Прилагоди">
@@ -230,8 +230,8 @@
 <!ENTITY pref_clear_private_data2 "Обриши">
 <!ENTITY pref_clear_private_data_category "Обриши приватне податке">
 <!ENTITY pref_clear_on_exit_title2 "Обриши при изласку">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; ће аутоматски обрисати Ваше податке сваки пут када изаберете Изађи из главног менија">
-<!ENTITY pref_clear_on_exit_dialog_title "Изаберите који подаци да се обришу">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; ће аутоматски обрисати податке сваки пут када изаберете Изађи из главног менија">
+<!ENTITY pref_clear_on_exit_dialog_title "Изаберите који подаци да се бришу">
 <!ENTITY pref_plugins "Прикључци">
 <!ENTITY pref_plugins_enabled "Омогућени">
 <!ENTITY pref_plugins_tap_to_play "Притисните">
@@ -256,7 +256,7 @@ size. -->
 
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
-<!ENTITY pref_font_size_preview_text "Брза наранџаста лисица надмашује Ваша очекивања са више брзине, више флексибилности и више сигурности. Као непрофитни, ми смо слободни да иновирамо у Ваше име без икаквог притиска на компромис. Самим тим Ви имате бољи доживљај и обезбеђујемо светлију будућност за веб.">
+<!ENTITY pref_font_size_preview_text "Брза наранџаста лисица надмашује ваша очекивања са више брзине, више флексибилности и више сигурности. Као непрофитни, ми смо слободни да иновирамо у ваше име без икаквог притиска на компромис. Самим тим имате бољи доживљај и обезбеђујемо светлију будућност за веб.">
 
 <!ENTITY pref_media_autoplay_enabled "Дозволи аутоматску репродукцију">
 <!ENTITY pref_media_autoplay_enabled_summary "Контролишите да ли веб сајтови могу да аутоматски репродукују видео или други медија садржај">
@@ -293,7 +293,7 @@ size. -->
 <!ENTITY pref_dialog_default "Подразумевано">
 <!ENTITY pref_dialog_remove "Уклони">
 
-<!ENTITY pref_search_last_toast "Не можете уклонити или онемогућити Ваш последњи претраживач.">
+<!ENTITY pref_search_last_toast "Не можете уклонити или онемогућити последњи претраживач.">
 
 <!ENTITY pref_panels_show "Прикажи">
 <!ENTITY pref_panels_hide "Сакриј">
@@ -304,8 +304,8 @@ size. -->
 <!ENTITY datareporting_notification_title "&brandShortName; статус и подаци">
 <!ENTITY datareporting_notification_action_long "Изаберите које информације да делите">
 <!ENTITY datareporting_notification_action "Изаберите шта делити">
-<!ENTITY datareporting_notification_summary "Да би смо побољшали Ваше искуство, &brandShortName; аутоматски шаље неке информације &vendorShortName;.">
-<!ENTITY datareporting_notification_summary_short "Да бисмо побољшали Ваше искуство, &brandShortName;…">
+<!ENTITY datareporting_notification_summary "Да би смо побољшали искуство, &brandShortName; аутоматски шаље неке информације &vendorShortName;.">
+<!ENTITY datareporting_notification_summary_short "Да бисмо побољшали искуство, &brandShortName;…">
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
@@ -315,16 +315,16 @@ size. -->
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; извештај здравља">
-<!ENTITY datareporting_fhr_summary2 "Дели податке са &vendorShortName; о здрављу Вашег прегледача и помаже Вам да разумете перформансе прегледача">
+<!ENTITY datareporting_fhr_summary2 "Дели податке са &vendorShortName; о здрављу вашег прегледача и помаже да разумете перформансе прегледача">
 <!ENTITY datareporting_abouthr_title "Прикажи мој извештај здравља">
 <!ENTITY datareporting_telemetry_title "Телеметрија">
-<!ENTITY datareporting_telemetry_summary "Делите податке о перформансама, коришћењу, хардверу и подешавањима који се тичу Вашег прегледача са &vendorShortName;-ом да бисте нам помогли да учинимо &brandShortName; бољим">
-<!ENTITY datareporting_crashreporter_summary "&brandShortName; шаље извештаје о рушењу да би помогао &vendorShortName;-и да учини Ваш прегледач још стабилнијим и још сигурнијим">
+<!ENTITY datareporting_telemetry_summary "Делите податке о перформансама, коришћењу, хардверу и подешавањима који се тичу прегледача са &vendorShortName;-ом да бисте нам помогли да учинимо &brandShortName; бољим">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; шаље извештаје о рушењу да би помогао &vendorShortName;-и да учини прегледач још стабилнијим и још сигурнијим">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Извештач о рушењу">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; Сервис за локацију">
-<!ENTITY datareporting_wifi_geolocation_summary4 "Помозите &vendorShortName; да мапира свет! Поделите приближну Wi-Fi и мобилну локацију Вашег уређаја да би унапредили сервис геолокације.">
+<!ENTITY datareporting_wifi_geolocation_summary4 "Помозите &vendorShortName; да мапира свет! Поделите приближну Wi-Fi и мобилну локацију вашег уређаја да би унапредили сервис геолокације.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -486,7 +486,7 @@ size. -->
 <!ENTITY home_title "&brandShortName; почетна страница">
 <!ENTITY home_history_title "Историја">
 <!ENTITY home_clear_history_button "Избриши податке прегледавања">
-<!ENTITY home_clear_history_confirm "Да ли сте сигурни да желите да обришете Ваш историјат?">
+<!ENTITY home_clear_history_confirm "Да ли сте сигурни да желите да обришете историјат?">
 <!ENTITY home_bookmarks_empty "Забелешке које сте снимили су приказане овде.">
 <!ENTITY home_closed_tabs_title "Недавно затворени језичци">
 <!ENTITY home_last_tabs_title "Језичци из последње сесије">
@@ -495,16 +495,16 @@ size. -->
 <!ENTITY home_most_recent_empty "Веб сајтови које сте посетили су приказани овде.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
-<!ENTITY home_most_recent_emptyhint2 "Псст: коришћење &formatS1; Нови приватан језичак&formatS2; неће снимити Ваш историјат.">
+<!ENTITY home_most_recent_emptyhint2 "Псст: коришћење &formatS1; Нови приватан језичак&formatS2; неће снимити историјат.">
 <!ENTITY home_reading_list_empty "Чланци које сте сачували за касније су приказани овде.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY home_reading_list_hint2 "САВЕТ: Сачувајте чланке на Вашу листу за читање тако што ћете дуго притиснути иконицу &formatI; када се појави у насловној траци.">
+<!ENTITY home_reading_list_hint2 "САВЕТ: Сачувајте чланке на листу за читање тако што ћете дуго притиснути иконицу &formatI; када се појави у насловној траци.">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible "САВЕТ: Cачувајте чланке на Вашу листу за читање тако што ћете дуго притиснути дугме за режим за читање када се појави у насловној траци.">
+<!ENTITY home_reading_list_hint_accessible "САВЕТ: Cачувајте чланке на листу за читање тако што ћете дуго притиснути дугме за режим за читање када се појави у насловној траци.">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
@@ -516,14 +516,14 @@ size. -->
 
 <!ENTITY home_remote_tabs_title "Синхронизовани језичци">
 <!ENTITY home_remote_tabs_empty "Ваши језичци са других уређаја су приказани овде.">
-<!ENTITY home_remote_tabs_unable_to_connect "Не могу да се конектујем">
-<!ENTITY home_remote_tabs_need_to_sign_in "Пријавите се да бисте се поново повезали на Ваш Firefox налог и наставили са синхронизацијом.">
+<!ENTITY home_remote_tabs_unable_to_connect "Не могу да се повежем">
+<!ENTITY home_remote_tabs_need_to_sign_in "Пријавите се да бисте се поново повезали на Firefox налог и наставили са синхронизацијом.">
 <!ENTITY home_remote_tabs_need_to_finish_migrating "Ваш нови Firefox налог је спреман!">
 
-<!ENTITY home_remote_tabs_trouble_verifying "Проблеми при верификацији налога?">
-<!ENTITY home_remote_tabs_need_to_verify "Молимо Вас верификујте Ваш Firefox налог да бисте започели синхронизацију.">
+<!ENTITY home_remote_tabs_trouble_verifying "Проблеми при потврди налога?">
+<!ENTITY home_remote_tabs_need_to_verify "Потврдите Firefox налог да бисте започели синхронизацију.">
 
-<!ENTITY home_remote_tabs_one_hidden_device "1 device hidden">
+<!ENTITY home_remote_tabs_one_hidden_device "1 уређај сакривен">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
@@ -537,7 +537,7 @@ size. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Прикажи одабране уређаје">
 
 <!ENTITY remote_tabs_panel_moved_title "Где су моји језичци отишли?">
-<!ENTITY remote_tabs_panel_moved_desc "Преместили смо језичке са других уређаја на панел на Вашој почетној страници ради лакшег приступа при отварању новог језичка.">
+<!ENTITY remote_tabs_panel_moved_desc "Преместили смо језичке са других уређаја на панел на почетној страници ради лакшег приступа при отварању новог језичка.">
 <!ENTITY remote_tabs_panel_moved_link "Одведи ме до новог панела.">
 
 <!ENTITY pin_site_dialog_hint "Унесите кључну реч за претрагу">
@@ -596,7 +596,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
                                            са Android-а">
 <!ENTITY bookmarkhistory_import_history "Увозим историјат
                                          са Android-а">
-<!ENTITY bookmarkhistory_import_wait "Молим Вас сачекајте…">
+<!ENTITY bookmarkhistory_import_wait "Сачекајте…">
 
 <!ENTITY suggestions_prompt3 "Да ли желите да укључите предлоге претраге?">
 <!--  Localization note (search_bar_item_desc): When the user clicks the url bar
@@ -633,12 +633,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY exit_guest_session "Изађи из сесије за госте">
 <!ENTITY guest_session_dialog_continue "Настави">
 <!ENTITY guest_session_dialog_cancel "Откажи">
-<!ENTITY new_guest_session_title "&brandShortName; се неће рестартовати">
-<!ENTITY new_guest_session_text2 "Особа која га користи неће моћи да види било које од Ваших личних података прегледања (као сачуване пријаве, историја или забелешке).\n\nКад је Ваш гост готов са прегледавањем, подаци ће бити обрисани и Ваша сесија ће се обновити.">
+<!ENTITY new_guest_session_title "&brandShortName; ће се поново покренути">
+<!ENTITY new_guest_session_text2 "Особа која га користи неће моћи да види било шта од личних података прегледања (као сачуване пријаве, историја или забелешке).\n\nКад је гост готов са прегледавањем, подаци ће бити обрисани и сесија ће се обновити.">
 <!ENTITY guest_browsing_notification_title "Прегледање у сесији за госте је омогућено">
 <!ENTITY guest_browsing_notification_text "Притисните да изађете">
 
-<!ENTITY exit_guest_session_title "&brandShortName; ће се сада поново покренути">
+<!ENTITY exit_guest_session_title "&brandShortName; ће се поново покренути">
 <!ENTITY exit_guest_session_text "Подаци прегледања из ове сесије ће бити обрисани.">
 
 <!-- Miscellaneous -->
@@ -686,7 +686,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
      above a QR reader that is actively scanning for QR codes.  The expected QR
      code has already been displayed by the client trying to connect (such as
-     desktop Firefox via WebIDE), so you just need t	o aim this device at the QR
+     desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
 <!ENTITY devtools_auth_scan_header "Скенирам QR код који је приказан да другом уређају">
 
