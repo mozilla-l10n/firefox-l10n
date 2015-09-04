@@ -13,6 +13,8 @@
      of the Tracking Protection section, and in general not much larger than
      30em to prevent the sections from wrapping on smaller window sizes.
      -->
+
+<!ENTITY aboutPrivateBrowsing.width            "32em">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
      aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
      These strings will be replaced by aboutPrivateBrowsing.forgotten and
@@ -20,18 +22,21 @@
      -->
 
 <!ENTITY aboutPrivateBrowsing.title            "Navigați în mod privat">
+<!ENTITY aboutPrivateBrowsing.subtitle         "În această fereastră, &brandShortName; nu va reține niciun istoric.">
 
-
-
+<!ENTITY aboutPrivateBrowsing.forgotten        "În această fereastră, &brandShortName; nu va reține:">
+<!ENTITY aboutPrivateBrowsing.info.forgotten   "Nu a fost salvat">
 <!ENTITY aboutPrivateBrowsing.info.history     "Istoric">
-
+<!ENTITY aboutPrivateBrowsing.info.searches    "Căutări">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Cookie-uri">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Fișiere temporare">
 
-
-
+<!ENTITY aboutPrivateBrowsing.kept             "&brandShortName; va păstra:">
+<!ENTITY aboutPrivateBrowsing.info.kept        "Salvat">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Descărcări">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Semne de carte">
 
+<!ENTITY aboutPrivateBrowsing.note1            "Vă rugăm să rețineți că angajatorul sau furnizorul de internet încă pot să urmărească ce pagini vizitați.">
 <!ENTITY aboutPrivateBrowsing.learnMore        "Aflați mai multe.">
 <!-- LOCALIZATION NOTE (trackingProtection.width):
      Width of the Tracking Protection section. It is fine for the enabled or
@@ -42,9 +47,13 @@
      different, so testing on Windows, Mac, and Linux is encouraged.
      -->
 
+<!ENTITY trackingProtection.width              "22em">
+<!ENTITY trackingProtection.title              "Protecție față de urmărire">
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
+
+<!ENTITY trackingProtection.state.width        "6ch">
 
 
 
