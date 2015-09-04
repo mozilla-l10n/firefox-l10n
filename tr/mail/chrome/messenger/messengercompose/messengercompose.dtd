@@ -158,6 +158,8 @@
 <!ENTITY bothFormatCmd.accesskey "v">
 <!ENTITY priorityMenu.label "Öncelik">
 <!ENTITY priorityMenu.accesskey "Ö">
+
+
 <!ENTITY priorityButton.label "Öncelik:">
 <!ENTITY lowestPriorityCmd.label "En düşük">
 <!ENTITY lowestPriorityCmd.accesskey "n">

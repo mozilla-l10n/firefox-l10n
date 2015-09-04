@@ -15,5 +15,6 @@
 <!ENTITY aboutSupport.accountsConnSecurity "Bağlantı güvenliği">
 <!ENTITY aboutSupport.accountsAuthMethod "Yetkilendirme yöntemi">
 <!ENTITY aboutSupport.accountsDefault "Varsayılan mı?">
+<!ENTITY aboutSupport.identityName "Kimlik">
 
 <!ENTITY aboutSupport.sendViaEmail.label "E-posta ile gönder">

@@ -5,6 +5,7 @@
 <!ENTITY itemFormatting.label             "Biçimlendirme">
 <!ENTITY itemTags.label                   "Etiketler">
 
+
 <!ENTITY style.label                      "Biçem:">
 <!ENTITY style.accesskey                  "B">
 <!ENTITY regularStyle.label               "Normal">
@@ -44,3 +45,29 @@
 <!ENTITY fontOptions.label       "Gelişmiş…">
 <!ENTITY colorButton.label       "Renkler…">
 <!ENTITY colorButton.accesskey   "R">
+<!-- Advanced -->
+
+<!ENTITY reading.caption                  "Okuma">
+<!ENTITY display.caption                  "Görünüm">
+<!ENTITY showCondensedAddresses.label     "Adres defterimdeki kişilerin sadece gösterilen adını göster">
+<!ENTITY showCondensedAddresses.accesskey "d">
+
+<!ENTITY autoMarkAsRead.label             "İletileri otomatik olarak okunmuş olarak işaretle">
+<!ENTITY autoMarkAsRead.accesskey         "o">
+<!ENTITY markAsReadNoDelay.label          "İletiye bakar bakmaz">
+<!ENTITY markAsReadNoDelay.accesskey      "z">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label            "Baktıktan">
+<!ENTITY markAsReadDelay.accesskey        "k">
+
+<!ENTITY openMsgIn.label                  "Yeni postayı:">
+<!ENTITY openMsgInNewTab.label            "Yeni sekmede aç">
+<!ENTITY openMsgInNewTab.accesskey        "s">
+<!ENTITY reuseExpRadio0.label             "Yeni ileti penceresinde aç">
+<!ENTITY reuseExpRadio0.accesskey         "i">
+<!ENTITY reuseExpRadio1.label             "Mevcut bir ileti penceresinde aç">
+<!ENTITY reuseExpRadio1.accesskey         "c">
+<!ENTITY closeMsgOnMoveOrDelete.label     "Taşınınca veya silinince ileti penceresini/sekmesini kapat">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "k">
