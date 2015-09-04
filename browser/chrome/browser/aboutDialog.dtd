@@ -38,16 +38,16 @@
 <!ENTITY community.creditsLink      "παγκόσμια κοινότητα">
 <!ENTITY community.end3             " που συνεργάζεται για να κάνει το διαδίκτυο ανοικτό, ελεύθερο και προσβάσιμο από όλους χωρίς κανένα περιορισμό.">
 
-<!ENTITY helpus.start               "Want to help? ">
+<!ENTITY helpus.start               "Θέλετε να βοηθήσετε;">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
-<!ENTITY helpus.donateLink          "Make a donation">
-<!ENTITY helpus.middle              " or ">
+<!ENTITY helpus.donateLink          "Κάντε μια δωρεά">
+<!ENTITY helpus.middle              "ή">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY helpus.getInvolvedLink     "get involved!">
+<!ENTITY helpus.getInvolvedLink     "συμμετέχετε εθελοντικά!">
 <!ENTITY helpus.end                 "">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
-<!ENTITY bottomLinks.license        "Licensing Information">
+<!ENTITY bottomLinks.license        "Πληροφορίες άδειας">
 
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
 <!ENTITY bottomLinks.rights         "Δικαιώματα χρήστη">
