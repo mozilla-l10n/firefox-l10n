@@ -59,6 +59,7 @@
 <!ENTITY new_tab_opened "Aperta nuova scheda">
 <!ENTITY new_private_tab_opened "Aperta nuova scheda anonima">
 <!ENTITY switch_button_message "PASSA A">
+<!ENTITY tab_title_prefix_is_playing_audio "Riproduzione audio – &formatS;">
 <!ENTITY settings "Impostazioni">
 <!ENTITY settings_title "Impostazioni">
 <!ENTITY pref_category_input_options "Opzioni di input">
