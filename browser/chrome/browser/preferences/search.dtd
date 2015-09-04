@@ -9,7 +9,8 @@
 <!ENTITY provideSearchSuggestions.label        "Furnizează sugestii de căutare">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
 
-
+<!ENTITY showURLBarSuggestions.label           "Arată sugestiile de căutare în rezultatele din bara de adrese.">
+<!ENTITY showURLBarSuggestions.accesskey       "l">
 
 <!ENTITY redirectWindowsSearch.label "Utilizați acest motor de căutare pentru căutări din Windows">
 <!ENTITY redirectWindowsSearch.accesskey "W">

@@ -71,24 +71,28 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Nu sunteți autentificat.">
 <!ENTITY signIn.label                "Autentificare">
-
+<!ENTITY profilePicture.tooltip      "Schimbă fotografia de profil">
 <!ENTITY manage.label                "Gestionează">
 <!ENTITY disconnect.label            "Deconectează-te…">
 <!ENTITY verify.label                "Verificați e-mailul">
 <!ENTITY forget.label                "Uită acest e-mail">
 
 <!ENTITY welcome.description "Accesați filele dumneavoastră, semnele de carte, parolele și altele ori de câte ori folosiți &brandShortName;.">
-
-
+<!ENTITY welcome.signIn.label "Autentificare">
+<!ENTITY welcome.createAccount.label "Creare cont">
 
 <!ENTITY welcome.useOldSync.label "Utilizați o versiune mai veche de Sincronizare?">
 
+<!ENTITY signedOut.caption            "Ia Webul cu tine">
+<!ENTITY signedOut.description        "Sincronizați semnele de carte, istoricul, file, parole, suplimente și preferințe pe toate dispozitivele">
+<!ENTITY signedOut.accountBox.title   "Conectare cu &syncBrand.fxAccount.label;">
+<!ENTITY signedOut.accountBox.create  "Creare cont">
+<!ENTITY signedOut.accountBox.signin  "Autentificare">
 
+<!ENTITY signedIn.engines.label       "Sincronizare pentru toate dispozitivele">
 
-
-
-
-
+<!ENTITY mobilePromo.start            "Descarcă Firefox pentru ">
 <!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
-
-
+<!ENTITY mobilePromo.androidLink      "Android™">
+<!ENTITY mobilePromo.end              " pentru a fi sincronizat cu dispozitivul mobil.">
+<!ENTITY androidAttribution           "Android este o marcă înregistrată a Google Inc.">
