@@ -230,7 +230,7 @@
 <!ENTITY fxaccount_remove_account_toast "Firefox Hesabı &formatS; kaldırıldı.">
 
 <!ENTITY fxaccount_remove_account_menu_item "Hesabı kaldır">
-
+<!ENTITY fxaccount_enable_debug_mode "Hata ayıklama modunu etkinleştir">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 
