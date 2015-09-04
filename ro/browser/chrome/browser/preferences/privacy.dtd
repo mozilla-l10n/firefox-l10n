@@ -4,14 +4,15 @@
 
 <!ENTITY tracking.label                 "Urmărire">
 
-
+<!ENTITY dntTrackingNotOkay4.label     "Solicitați ca site-urile să nu vă urmărească">
+<!ENTITY dntTrackingNotOkay4.accesskey "n">
 <!ENTITY doNotTrackInfo.label          "Află mai multe">
-
-
-
-
-
-
+<!ENTITY trackingProtection5.label     "Utilizează protecție față de urmărire">
+<!ENTITY trackingProtection5.accesskey "i">
+<!ENTITY trackingProtectionLearnMore.label "Aflați mai multe">
+<!ENTITY trackingProtectionPBM5.label         "Utilizează protecția față de urmărire în ferestre private">
+<!ENTITY trackingProtectionPBM5.accesskey     "v">
+<!ENTITY trackingProtectionPBMLearnMore.label "Aflați mai multe">
 
 <!ENTITY  history.label                 "Istoric">
 
@@ -27,7 +28,8 @@
 <!ENTITY  locbar.searches.label         "Căutări similare de la motorul de căutare implicit">
 <!ENTITY  locbar.searches.accesskey     "d">
 
-
+<!ENTITY  suggestionSettings.label      "Schimbă preferințele pentru sugestiile motoarelor de căutare…">
+<!ENTITY  suggestionSettings.accesskey  "g">
 
 <!ENTITY  acceptCookies.label           "Acceptă cookie-uri de la site-uri">
 <!ENTITY  acceptCookies.accesskey       "A">
