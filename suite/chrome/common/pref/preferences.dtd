@@ -23,7 +23,7 @@
 <!ENTITY popups.label "Ventanas emergentes">
 <!ENTITY passwords.label "Contraseñas">
 <!ENTITY masterpass.label "Contraseñas maestras">
-<!ENTITY ssl.label "SSL">
+<!ENTITY ssltls.label "SSL/TLS">
 <!ENTITY certs.label "Certificados">
 <!ENTITY sync.label "Sync">
 <!ENTITY advance.label "Avanzadas">
