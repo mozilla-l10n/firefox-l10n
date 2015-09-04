@@ -25,14 +25,14 @@
 <!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; kommer inte spara någon historik för det här fönstret.">
 
 <!ENTITY aboutPrivateBrowsing.forgotten        "I det här fönstret kommer &brandShortName; inte att spara:">
-<!ENTITY aboutPrivateBrowsing.info.forgotten   "Inte sparad">
+<!ENTITY aboutPrivateBrowsing.info.forgotten   "Inte sparat">
 <!ENTITY aboutPrivateBrowsing.info.history     "Historik">
 <!ENTITY aboutPrivateBrowsing.info.searches    "Sökningar">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Cookies">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Temporära Filer">
 
 <!ENTITY aboutPrivateBrowsing.kept             "&brandShortName; kommer att spara:">
-<!ENTITY aboutPrivateBrowsing.info.kept        "Sparad">
+<!ENTITY aboutPrivateBrowsing.info.kept        "Sparat">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Hämtningar">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Bokmärken">
 
