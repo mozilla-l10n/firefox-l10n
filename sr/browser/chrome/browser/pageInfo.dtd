@@ -64,7 +64,7 @@
 <!ENTITY  securityTab           "Безбедност">
 <!ENTITY  securityTab.accesskey "Б">
 <!ENTITY  securityView.certView "Преглед сертификата">
-<!ENTITY  securityView.accesskey "Н">
+<!ENTITY  securityView.accesskey "с">
 <!ENTITY  securityView.unknown   "Непознат">
 
 
