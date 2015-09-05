@@ -204,12 +204,12 @@
 <!ENTITY fxaccount_status_sync_server "Serverul de sincronizare">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: activată">
-<!ENTITY fxaccount_status_needs_verification2 "Contul trebuie să fie verificat. Apasă pentru a retrimite e-mailul de verificare.">
-<!ENTITY fxaccount_status_needs_credentials "Nu se poate conecta. Apasă pentru a te autentifica.">
+<!ENTITY fxaccount_status_needs_verification2 "Contul trebuie să fie verificat. Atinge pentru a retrimite e-mailul de verificare.">
+<!ENTITY fxaccount_status_needs_credentials "Nu se poate conecta. Atinge pentru a te autentifica.">
 <!ENTITY fxaccount_status_needs_upgrade "Trebuie să actualizezi &brandShortName; pentru a te autentifica.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; este configurat, însă sincronizarea automată e dezactivată. Comută „Sincronizați automat datele” în setările Android &gt; Utilizare date.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; este configurat, însă sincronizarea automată e dezactivată. Comută „Sincronizați automat datele” în setările Android &gt; Conturi.">
-<!ENTITY fxaccount_status_needs_finish_migrating "Apasă pentru a te autentifica în noul cont Firefox.">
+<!ENTITY fxaccount_status_needs_finish_migrating "Atinge pentru a te autentifica în contul nou Firefox.">
 <!ENTITY fxaccount_status_bookmarks "Semne de carte">
 <!ENTITY fxaccount_status_history "Istoric">
 <!ENTITY fxaccount_status_passwords2 "Autentificări">
@@ -263,9 +263,9 @@
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; nu este conectat">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Apasă pentru a te autentifica ca &formatS;">
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Atinge pentru a te autentifica ca &formatS;">
 
 <!ENTITY fxaccount_sync_finish_migrating_notification_title "Ai termiant actualizarea &syncBrand.shortName.label;?">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_finish_migrating_notification_text "Apasă pentru a te autentifica ca &formatS;">
+<!ENTITY fxaccount_sync_finish_migrating_notification_text "Atinge pentru a te autentifica ca &formatS;">
