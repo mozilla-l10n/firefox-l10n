@@ -564,10 +564,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_insecure "Несигурна веза">
 
 <!-- Mixed content notifications in site identity popup -->
-<!ENTITY mixed_content_blocked_all "&brandShortName; је блокирао несигурне елементе на овој странице.">
+<!ENTITY mixed_content_blocked_all "&brandShortName; је блокирао несигурне елементе на овој страници.">
 <!ENTITY mixed_content_blocked_some "&brandShortName; је блокирао неке несигурне елементе на овој страници.">
-<!ENTITY mixed_content_display_loaded "Страница има несигуне елементе.">
-<!ENTITY mixed_content_protection_disabled "Можете искључите заштиту од несигурних елемената.">
+<!ENTITY mixed_content_display_loaded "Страница има несигурне елементе.">
+<!ENTITY mixed_content_protection_disabled "Можете да искључите заштиту од несигурних елемената.">
 
 <!ENTITY loaded_mixed_content_message "Ова страница приказује садржај који није сигуран.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; је блокирао садржај који није сигуран.">
