@@ -13,12 +13,12 @@
 <!ENTITY restorepage.startNew       "एक पूर्ण नया ब्राउज़िग सत्र आरंभ कर रहा है">
 
 <!ENTITY restorepage.tryagainButton "पुनर्स्थापित करें">
-<!ENTITY restorepage.restore.access "R">
+<!ENTITY restorepage.restore.access "आर">
 <!ENTITY restorepage.closeButton    "बंद करें">
-<!ENTITY restorepage.close.access   "C">
+<!ENTITY restorepage.close.access   "सी">
 
 <!ENTITY restorepage.restoreHeader  "पुनर्स्थापित करें">
-<!ENTITY restorepage.listHeader     "विंडोज और टैब">
+<!ENTITY restorepage.listHeader     "विंडोज व टैब्स">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "विंडो &#037;S">
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
