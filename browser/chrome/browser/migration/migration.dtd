@@ -11,18 +11,18 @@
 
 <!ENTITY importFromIE.label             "Microsoft इंटरनेट एक्सप्लोरर">
 <!ENTITY importFromIE.accesskey         "M">
-
-
+<!ENTITY importFromEdge.label           "माइक्रोसॉफ्ट एज">
+<!ENTITY importFromEdge.accesskey       "ए">
 <!ENTITY importFromNothing.label        "कुछ भी आयात न करें">
 <!ENTITY importFromNothing.accesskey    "D">
 <!ENTITY importFromSafari.label         "सफारी">
 <!ENTITY importFromSafari.accesskey     "S">
-
-
+<!ENTITY importFromCanary.label         "क्रोम कैनरी">
+<!ENTITY importFromCanary.accesskey     "n">
 <!ENTITY importFromChrome.label         "क्रोम">
 <!ENTITY importFromChrome.accesskey     "C">
-
-
+<!ENTITY importFromChromium.label       "क्रोमियम">
+<!ENTITY importFromChromium.accesskey   "u">
 <!ENTITY importFromFirefox.label        "फ़ायरफ़ॉक्स">
 <!ENTITY importFromFirefox.accesskey    "x">
 <!ENTITY importFrom360se.label          "360 सुरक्षित ब्राउज़र">
@@ -43,3 +43,4 @@
 <!ENTITY done.title                     "आयात संपन्न">
 <!ENTITY done.label                     "यह वस्तुएं सफलतापूर्वक आयात की गई:">
 
+<!ENTITY closeSourceBrowser.label       "आगे  बढ़ने से पहले  कृपया सुनिश्चित करें , कि चुना हुआ ब्राउज़र बंद हो">

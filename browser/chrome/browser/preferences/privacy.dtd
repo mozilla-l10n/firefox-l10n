@@ -4,7 +4,8 @@
 
 <!ENTITY tracking.label                 "ट्रैकिंग">
 
-
+<!ENTITY dntTrackingNotOkay4.label     "अनुरोध करें , कि साइट्स ट्रैक न करें">
+<!ENTITY dntTrackingNotOkay4.accesskey "n">
 <!ENTITY doNotTrackInfo.label          "और जानें">
 <!ENTITY trackingProtection5.label     "ट्रैकिंग सुरक्षा का उपयोग करें">
 <!ENTITY trackingProtection5.accesskey "ग">
@@ -27,7 +28,8 @@
 <!ENTITY  locbar.searches.label         "डिफ़ॉल्ट खोज इंजिन से Related खोजें">
 <!ENTITY  locbar.searches.accesskey     "d">
 
-
+<!ENTITY  suggestionSettings.label      "खोज इंजिन सुझाव के लिए प्राथमिकताएँ बदलें...">
+<!ENTITY  suggestionSettings.accesskey  "g">
 
 <!ENTITY  acceptCookies.label           "साइटों से कुकीज़ स्वीकारें">
 <!ENTITY  acceptCookies.accesskey       "A">
