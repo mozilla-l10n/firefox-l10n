@@ -155,7 +155,7 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint "PONT: Adaugă orice site în lista motoarelor de căutare prin lunga apăsare pe câmpul de căutare al acestuia iar apoi apăsând iconița &formatI;.">
+<!ENTITY pref_search_hint "PONT: Adaugă orice site în lista motoarelor de căutare prin atingerea lungă pe câmpul de căutare al acestuia iar apoi apăsând pe iconița &formatI;.">
 <!ENTITY pref_category_devtools "Unelte de dezvoltare">
 <!ENTITY pref_developer_remotedebugging "Depanare de la distanță">
 <!ENTITY pref_developer_remotedebugging_usb "Depanare de la distanță via USB">
@@ -234,7 +234,7 @@
 <!ENTITY pref_clear_on_exit_dialog_title "Selectează ce date să ștergi">
 <!ENTITY pref_plugins "Pluginuri">
 <!ENTITY pref_plugins_enabled "Activate">
-<!ENTITY pref_plugins_tap_to_play "Apasă pentru redare">
+<!ENTITY pref_plugins_tap_to_play "Atinge pentru redare">
 <!ENTITY pref_plugins_disabled "Dezactivate">
 <!ENTITY pref_text_size "Mărimea textului">
 <!ENTITY pref_reflow_on_zoom4 "Reîncadrarea textului">
@@ -636,7 +636,7 @@ din Android">
 <!ENTITY new_guest_session_title "&brandShortName; va reporni acum">
 <!ENTITY new_guest_session_text2 "Persoana care va folosi aceasta nu va putea să vadă niciuna din datele tale personale de navigare (precum parolele salvate, istoricul sau semnele de carte).\n\nCând vizita s-a încheiat, datele de navigare vor fi șterse iar sesiunea va fi restaurată.">
 <!ENTITY guest_browsing_notification_title "Navigarea în mod vizitator e activată">
-<!ENTITY guest_browsing_notification_text "Apasă pentru ieșire">
+<!ENTITY guest_browsing_notification_text "Atinge pentru ieșire">
 
 <!ENTITY exit_guest_session_title "&brandShortName; va reporni acum">
 <!ENTITY exit_guest_session_text "Datele de navigare de la această sesiune vor fi șterse.">
