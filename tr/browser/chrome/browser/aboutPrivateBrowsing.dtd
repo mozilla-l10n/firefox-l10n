@@ -53,7 +53,7 @@
      Width of the element representing the enabled or disabled indicator.
      -->
 
-<!ENTITY trackingProtection.state.width        "6ch">
+<!ENTITY trackingProtection.state.width        "8ch">
 <!ENTITY trackingProtection.state.enabled      "AÇIK">
 <!ENTITY trackingProtection.state.disabled     "KAPALI">
 
