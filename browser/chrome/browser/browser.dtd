@@ -114,7 +114,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "Поново се повежи на &syncBrand.shortName.label;">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; омогућен">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; ће започети синхронизацију моментално.">
-<!ENTITY syncErrorPanel.heading "Онемогућена конекција на &syncBrand.shortName.label;">
+<!ENTITY syncErrorPanel.heading "Не могу се повезати на &syncBrand.shortName.label;">
 <!ENTITY syncErrorPanel.subTitle "Пријавите се да бисте наставили синхронизацију.">
 <!ENTITY syncErrorPanel.signInButton.label "Пријави се">
 <!ENTITY syncErrorPanel.signInButton.accesskey "П">
@@ -365,7 +365,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomizeExit.tooltip "Завршите прилагођавање">
 <!ENTITY appMenuHistory.label "Историјат">
 <!ENTITY appMenuHistory.showAll.label "Прикажи целу историју">
-<!ENTITY appMenuHistory.clearRecent.label "Обриши скорашњу историјат…">
+<!ENTITY appMenuHistory.clearRecent.label "Обриши скорашњи историјат…">
 <!ENTITY appMenuHistory.restoreSession.label "Обнови претходну сесију">
 <!ENTITY appMenuHistory.viewSidebar.label "Прикажи бочну палету историјата">
 <!ENTITY appMenuHelp.tooltip "Отворите мени за помоћ">
@@ -563,8 +563,8 @@ items are mutually exclusive. -->
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
 "Unmute" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY mediaMute.label             "Искљ. звук">
-<!ENTITY mediaMute.accesskey         "И">
+<!ENTITY mediaMute.label             "Пригуши">
+<!ENTITY mediaMute.accesskey         "П">
 <!ENTITY mediaUnmute.label           "Пусти тон">
 <!ENTITY mediaUnmute.accesskey       "т">
 <!ENTITY mediaPlaybackRate.label     "Брзина пуштања">
@@ -590,7 +590,7 @@ items are mutually exclusive. -->
 <!ENTITY videoFullScreen.label       "Користи цео екран">
 <!ENTITY videoFullScreen.accesskey   "ц">
 <!ENTITY videoSaveImage.label        "Сачувај слику као…">
-<!ENTITY videoSaveImage.accesskey    "S">
+<!ENTITY videoSaveImage.accesskey    "и">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -687,7 +687,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connectionSecure "Безбедна веза">
 <!ENTITY identity.connectionNotSecure "Веза није безбедна">
-<!ENTITY identity.connectionFile "Ова страница се складишти на вашем рачунару.">
+<!ENTITY identity.connectionFile "Ова страница се складишти на рачунару.">
 <!ENTITY identity.connectionVerified "&brandShortName; је потрдио да сте безбедно повезани на овај сајт, којим управља:">
 <!ENTITY identity.connectionInternal "Ово је безбедна &brandShortName; страница.">
 
@@ -731,11 +731,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSetup.accesskey          "и">
 <!ENTITY syncSyncNowItem.label        "Синхронизуј сада">
 <!ENTITY syncSyncNowItem.accesskey    "С">
-<!ENTITY syncReAuthItem.label         "Поново се конектуј на &syncBrand.shortName.label;…">
+<!ENTITY syncReAuthItem.label         "Поново се повежи на &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "к">
 <!ENTITY syncToolbarButton.label      "Sync">
 
-<!ENTITY socialToolbar.title        "Social Button трака">
+<!ENTITY socialToolbar.title        "Друштвена трака">
 
 <!ENTITY social.ok.label       "У реду">
 <!ENTITY social.ok.accesskey   "У">
@@ -755,8 +755,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.learnMore.accesskey "С">
 <!ENTITY social.closeNotificationItem.label "Не сад">
 
-<!ENTITY social.directory.label "Директоријум активација">
-<!ENTITY social.directory.text "Можете активирати сервисе за дељење из директоријума.">
+<!ENTITY social.directory.label "Фасцикла активација">
+<!ENTITY social.directory.text "Можете активирати сервисе за дељење из фасцикле.">
 <!ENTITY social.directory.button "Одведи ме тамо!">
 <!ENTITY social.directory.introText "Кликните на сервис да бисте га додали на &brandShortName;.">
 <!ENTITY social.directory.viewmore.text "Прикажи више">
@@ -777,8 +777,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "Н">
 
 <!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "Focus chats">
-<!ENTITY social.chatBar.accesskey "c">
+<!ENTITY social.chatBar.label "Разговори">
+<!ENTITY social.chatBar.accesskey "Р">
 
 <!ENTITY social.markpageMenu.accesskey "с">
 <!ENTITY social.markpageMenu.label "Сачувај страницу…">
@@ -790,7 +790,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectMicrophone.label "Микрофон за дељење:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "М">
 <!ENTITY getUserMedia.audioCapture.label "Звук из овог језичка ће бити подељен.">
-<!ENTITY getUserMedia.allWindowsShared.message "Сви видљиви прозори на Вашем екрану ће бити подељени.">
+<!ENTITY getUserMedia.allWindowsShared.message "Сви видљиви прозори на екрану ће бити подељени.">
 
 <!ENTITY trackingProtection.title "Заштита од праћења">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; блокира делове странице који можда прате ваше активности.">
@@ -810,7 +810,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.accesskey "О">
 
 <!ENTITY trackingContentBlocked.message "Праћење">
-<!ENTITY trackingContentBlocked.moreinfo "Делови странице које прате Ваше активности на мрежи су блокиране.">
+<!ENTITY trackingContentBlocked.moreinfo "Делови странице које прате ваше активности на мрежи су блокиране.">
 <!ENTITY trackingContentBlocked.learnMore "Сазнајте више">
 <!ENTITY trackingContentBlocked.options "Опције">
 <!ENTITY trackingContentBlocked.unblock2.label "Онемогући заштиту за овај сајт">
@@ -861,7 +861,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.undoWarning             "Ова радња не може да се поништи.">
 <!ENTITY panicButton.view.forgetButton            "Заборави!">
 
-<!ENTITY panicButton.thankyou.msg1                "Ваша недавна историја је обрисана.">
+<!ENTITY panicButton.thankyou.msg1                "Недавна историја је обрисана.">
 <!ENTITY panicButton.thankyou.msg2                "Безбедно прегледање!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Хвала!">
 
