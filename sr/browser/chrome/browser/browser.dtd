@@ -701,10 +701,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecure "Веза до овог сајта није приватна. Информације које шаљете могу бити прочитане од стране других (као што су лозинке, поруке, кредитне картице, итд.).">
 <!ENTITY identity.description.weakCipher "Веза до овог сајта користи слабо шифровање и није приватна.">
 <!ENTITY identity.description.weakCipher2 "Друге особе могу да виде ваше информације или да модификују понашање веб сајта.">
-<!ENTITY identity.description.activeBlocked "&brandShortName; је локирао делове сајта који нису сигурни.">
+<!ENTITY identity.description.activeBlocked "&brandShortName; је лоцирао делове сајта који нису сигурни.">
 <!ENTITY identity.description.passiveLoaded "Веза није приватна и информације које делите могу бити прочитане од стране других.">
-<!ENTITY identity.description.passiveLoaded2 "Сајт садржи садржај који нје безбедан (као што су слике).">
-<!ENTITY identity.description.passiveLoaded3 "Иако је &brandShortName; блокирао неки саджрај, још увек има садржаја на странци који није безбедан (као што су слике).">
+<!ENTITY identity.description.passiveLoaded2 "Сајт садржи садржај који није безбедан (као што су слике).">
+<!ENTITY identity.description.passiveLoaded3 "Иако је &brandShortName; блокирао неки садржај, још увек има садржаја на странци који није безбедан (као што су слике).">
 <!ENTITY identity.description.activeLoaded "Сајт садржи садржај који није безбедан (као што су скрипте) и веза није приватна.">
 <!ENTITY identity.description.activeLoaded2 "Информације које делите могу бити виђене од стране осталих (као што су лозинке, поруке, кредитне картице, итд.).">
 
@@ -804,7 +804,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate.label "Онемогући заштиту за ову сесији">
+<!ENTITY trackingProtection.unblockPrivate.label "Онемогући заштиту за ову сесију">
 <!ENTITY trackingProtection.unblockPrivate.accesskey "н">
 <!ENTITY trackingProtection.block2.label "Омогући заштиту">
 <!ENTITY trackingProtection.block2.accesskey "О">
