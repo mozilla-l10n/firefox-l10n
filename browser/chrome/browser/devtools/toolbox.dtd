@@ -32,6 +32,10 @@
   -  the heading of the advanced settings group in the options panel. -->
 <!ENTITY options.context.advancedSettings "Rregullime të mëtejshme">
 
+<!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
+  -  shown next to error details when the Browser Toolbox is unable to open. -->
+<!ENTITY browserToolboxErrorMessage          "Gabim gjatë hapjes së Grupit të Mjeteve të Shfletuesit:">
+
 <!-- LOCALIZATION NOTE (options.context.inspector): This is the label for
   -  the heading of the Inspector group in the options panel. -->
 <!ENTITY options.context.inspector "Shqyrtues">
