@@ -71,7 +71,7 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Você não está conectado.">
 <!ENTITY signIn.label                "Identificar-se">
-
+<!ENTITY profilePicture.tooltip      "Alterar imagem do perfil">
 <!ENTITY manage.label                "Gerenciar">
 <!ENTITY disconnect.label            "Desconectar…">
 <!ENTITY verify.label                "Confirmar email">
@@ -83,12 +83,15 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY welcome.useOldSync.label "Usando uma versão anterior do Sync?">
 
-
-
+<!ENTITY signedOut.caption            "Leve a sua web com você">
+<!ENTITY signedOut.description        "Sincronize os favoritos, histórico, abas, senhas, complementos e preferências entre os seus dispositivos.">
+<!ENTITY signedOut.accountBox.title   "Conecte-se com uma &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Criar conta">
 <!ENTITY signedOut.accountBox.signin  "Entrar">
 
+<!ENTITY signedIn.engines.label       "Sincronização entre dispositivos">
 
+<!ENTITY mobilePromo.start            "Baixe o Firefox para ">
 <!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
 <!ENTITY mobilePromo.androidLink      "Android™">
 <!ENTITY mobilePromo.end              " para sincronizar com o seu dispositivo móvel.">
