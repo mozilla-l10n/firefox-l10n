@@ -9,6 +9,6 @@
 
 # variable definition and use the format specified.
 
-#define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>Rajesh Ranjan (mozilla hindi coordinator, email: rajeshkajha@yahoo.com) </em:contributor> <em:contributor>Vaibhav Agarwal, Matrubhasha Team</em:contributor><em:contributor>Ashishi Gupta, Matrubhasha Team</em:contributor>
+#define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>Rajesh Ranjan (mozilla hindi coordinator, email: rajeshkajha@yahoo.com) </em:contributor><em:contributor>Vaibhav Agarwal, Matrubhasha Team</em:contributor><em:contributor>Ashishi Gupta, Matrubhasha Team</em:contributor>
 
 #unfilter emptyLines
