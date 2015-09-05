@@ -693,10 +693,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionInternal "Бұл - қауіпсіз &brandShortName; беті.">
 <!-- Strings for connection state warnings. -->
 
-
-
+<!ENTITY identity.activeBlocked "&brandShortName; бұл парақтың кейбір қауіпсіз емес бөліктерін блоктаған.">
+<!ENTITY identity.passiveLoaded "Бұл парақтың кейбір бөліктеру қауіпсіз емес (суреттер сияқты).">
+<!ENTITY identity.activeLoaded "Бұл парақта қорғанысты сөндіргенсіз.">
+<!ENTITY identity.weakEncryption "Бұл парақ әлсіз шифрлеуді қолданады.">
 <!-- Strings for connection state warnings in the subview. -->
 
+<!ENTITY identity.description.insecure "Бұл веб сайтқа байланысыңыз шынымен жеке емес. Басқа адамдар сіздің жіберетін ақпаратыңызды көре алады (парольдер, хабарламалар, кредит карталар, т.б.).">
+<!ENTITY identity.description.weakCipher "Бұл веб сайтқа байланысыңыз әлсіз шифрлеуді қолданады және шын жеке емес.">
 
 
 
