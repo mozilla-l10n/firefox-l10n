@@ -28,7 +28,8 @@
 <!ENTITY  locbar.searches.label         "Негізгі іздеу жүйіесінен байланысқан іздеулер">
 <!ENTITY  locbar.searches.accesskey     "й">
 
-
+<!ENTITY  suggestionSettings.label      "Іздеу жүйесінің ұсыныстары үшін қалауларды өзгерту…">
+<!ENTITY  suggestionSettings.accesskey  "г">
 
 <!ENTITY  acceptCookies.label           "Cookies қабылдау">
 <!ENTITY  acceptCookies.accesskey       "д">
