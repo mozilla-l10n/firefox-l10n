@@ -4,14 +4,15 @@
 
 <!ENTITY tracking.label                 "Бақылау">
 
-
+<!ENTITY dntTrackingNotOkay4.label     "Сайттар сізді бақыламайтынын талап ету">
+<!ENTITY dntTrackingNotOkay4.accesskey "н">
 <!ENTITY doNotTrackInfo.label          "Көбірек білу">
-
-
-
-
-
-
+<!ENTITY trackingProtection5.label     "Бақылаудан қорғанысты қолдану">
+<!ENTITY trackingProtection5.accesskey "ы">
+<!ENTITY trackingProtectionLearnMore.label "Көбірек білу">
+<!ENTITY trackingProtectionPBM5.label         "Жекелік шолу терезелерінде бақылаудан қорғанысты қолдану">
+<!ENTITY trackingProtectionPBM5.accesskey     "v">
+<!ENTITY trackingProtectionPBMLearnMore.label "Көбірек білу">
 
 <!ENTITY  history.label                 "Тарихы">
 

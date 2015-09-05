@@ -694,22 +694,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "&brandShortName; бұл парақтың кейбір қауіпсіз емес бөліктерін блоктаған.">
-<!ENTITY identity.passiveLoaded "Бұл парақтың кейбір бөліктеру қауіпсіз емес (суреттер сияқты).">
+<!ENTITY identity.passiveLoaded "Бұл парақтың кейбір бөліктері қауіпсіз емес (суреттер сияқты).">
 <!ENTITY identity.activeLoaded "Бұл парақта қорғанысты сөндіргенсіз.">
 <!ENTITY identity.weakEncryption "Бұл парақ әлсіз шифрлеуді қолданады.">
 <!-- Strings for connection state warnings in the subview. -->
 
 <!ENTITY identity.description.insecure "Бұл веб сайтқа байланысыңыз шынымен жеке емес. Басқа адамдар сіздің жіберетін ақпаратыңызды көре алады (парольдер, хабарламалар, кредит карталар, т.б.).">
 <!ENTITY identity.description.weakCipher "Бұл веб сайтқа байланысыңыз әлсіз шифрлеуді қолданады және шын жеке емес.">
+<!ENTITY identity.description.weakCipher2 "Басқа адамдар сіздің ақпаратыңызды көре алады немесе веб сайттың мінез-құлығын өзгерте алады.">
+<!ENTITY identity.description.activeBlocked "&brandShortName; бұл парақтың кейбір қауіпсіз емес бөліктерін блоктаған.">
+<!ENTITY identity.description.passiveLoaded "Бұл веб сайтқа байланысыңыз шынымен жеке емес және басқа адамдар сіз осы сайтпен бөліскен ақпаратты көре алады.">
+<!ENTITY identity.description.passiveLoaded2 "Бұл веб сайттың кейбір құрамасы қауіпсіз емес (суреттер сияқты).">
+<!ENTITY identity.description.passiveLoaded3 "&brandShortName; кейбір құраманы блоктаса да, бұл парақтың кейбір құрамасы қауіпсіз емес (суреттер сияқты).">
+<!ENTITY identity.description.activeLoaded "Бұл веб сайттың кейбір құрамасы қауіпсіз емес (скрипттер сияқты) және сіздің оған байланысыңыз шынымен жеке емес.">
+<!ENTITY identity.description.activeLoaded2 "Бұл сайтпен сіз бөліскен ақпаратты басқа адамдар көре алады (парольдер, хабарламалар, кредит карталар, т.б.).">
 
-
-
-
-
-
-
-
-
+<!ENTITY identity.enableMixedContentBlocking.label "Қорғанысты іске қосу">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "е">
 <!ENTITY identity.disableMixedContentBlocking.label "Қорғанысты қазірге сөндіру">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "н">
 <!ENTITY identity.learnMore "Көбірек білу">
@@ -789,29 +790,32 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "м">
 <!ENTITY getUserMedia.selectMicrophone.label "Бөлісу үшін микрофон:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "м">
-
+<!ENTITY getUserMedia.audioCapture.label "Беттің аудиосымен бөлісетін боласыз.">
 <!ENTITY getUserMedia.allWindowsShared.message "Экраныңыздаға барлық көрінетін терезелермен бөлісетін боласыз.">
 
-
-
-
+<!ENTITY trackingProtection.title "Бақылаудан қорғаныс">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; бұл парақтың сіздің желідегі әрекеттеріңізді бақылай алатын бөліктерін блоктаған.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "Бұл сайтта сіздің желідегі әрекеттеріңізді бақылай алатын элементтер бар. Сіз бақылаудан қорғанысты сөндіргенсіз.">
+<!ENTITY trackingProtection.notDetected3 "Бұл парақта бақылайтын элементтер табылмады.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-
+<!ENTITY trackingProtection.unblock.label "Бұл сайтта қорғанысты сөндіру">
+<!ENTITY trackingProtection.unblock.accesskey "д">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-
-
-
+<!ENTITY trackingProtection.unblockPrivate.label "Бұл сессияда қорғанысты сөндіру">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "д">
+<!ENTITY trackingProtection.block2.label "Қорғанысты іске қосу">
+<!ENTITY trackingProtection.block2.accesskey "е">
 
 <!ENTITY trackingContentBlocked.message "Тексеріп отыру">
 <!ENTITY trackingContentBlocked.moreinfo "Беттің сіздің желілік белсенділікті бақылайтын құрамасы блокталды.">
 <!ENTITY trackingContentBlocked.learnMore "Көбірек білу">
-
-
-
+<!ENTITY trackingContentBlocked.options "Опциялар">
+<!ENTITY trackingContentBlocked.unblock2.label "Бұл сайт үшін қорғанысты сөндіру">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "д">
 <!ENTITY trackingContentBlocked.block.label "Қорғанысты іске қосу">
 <!ENTITY trackingContentBlocked.block.accesskey "е">
 <!ENTITY trackingContentBlocked.disabled.message "Бақылаудан қорғаныс сөндірілген">
