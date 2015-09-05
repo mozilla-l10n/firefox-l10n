@@ -160,7 +160,7 @@
 <!ENTITY pref_developer_remotedebugging "Қашықтан жөндеу">
 <!ENTITY pref_developer_remotedebugging_usb "USB арқылы қашықтан жөндеу">
 <!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi арқылы қашықтан жөндеу">
-
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi арқылы жөндеу құрылғыңызда QR кодын оқитын қолданбаның орнатылып тұрғанын талап етеді.">
 <!ENTITY pref_category_logins "Логиндер">
 <!ENTITY pref_remember_signons2 "Логиндерді есте сақтау">
 <!ENTITY pref_open_external_urls_privately_title "Сілтемелерді жекелік шолу режимінде ашу">
@@ -197,19 +197,21 @@
 <!ENTITY pref_cookies_not_accept_foreign "Іске қосылған, 3 жақты сайттардан басқа">
 <!ENTITY pref_cookies_disabled "Сөндірілген">
 
-
+<!ENTITY pref_tracking_protection_title "Бақылаудан қорғаныс">
+<!ENTITY pref_tracking_protection_summary3 "Жекелік шолу режимінде іске қосылған">
 <!ENTITY pref_donottrack_title "Бақыламау">
 <!ENTITY pref_donottrack_summary "&brandShortName; сайттарға сіз өзіңізді бақыламауды қалайтыныңыз туралы айтады">
 
-
-
-
+<!ENTITY tracking_protection_prompt_title "Енді бақылаудан қорғанысы бар">
+<!ENTITY tracking_protection_prompt_text "Бақылайтын элементтерді белсенді түрде блоктайды.">
+<!ENTITY tracking_protection_prompt_tip_text "Көбірек білу үшін жекелік баптауларын шолыңыз">
+<!ENTITY tracking_protection_prompt_action_button "Түсіндім!">
 
 <!ENTITY tab_queue_toast_message3 "&brandShortName; ішінде сақталған бет">
 <!ENTITY tab_queue_toast_action "Қазір ашу">
 <!ENTITY tab_queue_prompt_title "Бірнеше сілтемені ашу керек пе?">
-
-
+<!ENTITY tab_queue_prompt_text4 "Оларды &brandShortName; келесі рет ашқаныңызға дейін сақтаңыз.">
+<!ENTITY tab_queue_prompt_tip_text2 "Бұны сіз кейін де Баптаулар ішінде өзгерте аласыз">
 <!ENTITY tab_queue_prompt_positive_action_button "Іске қосу">
 <!ENTITY tab_queue_prompt_negative_action_button "Қазір емес">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
@@ -411,6 +413,8 @@ size. -->
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
+<!ENTITY pref_prevent_magnifying_glass "Үлкейткішті сөндіру ">
+<!ENTITY pref_prevent_magnifying_glass_summary "Экранды даулы тиюлерді ажыратуда үлкейткішті қолдануға тыйым салу">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -418,7 +422,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "Парақ астына айналдыру кезінде &brandShortName; атау жолағын жасыру">
 
 <!ENTITY pref_tab_queue_title2 "Бірнеше сілтемені ашу">
-
+<!ENTITY pref_tab_queue_summary3 "Оларды &brandShortName; келесі рет ашқаныңызға дейін сақтаңыз">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -438,6 +442,8 @@ size. -->
 <!ENTITY site_settings_no_settings  "Тазарту үшін баптаулар жоқ.">
 <!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
+
+<!ENTITY reading_list_added3 "Оқу тізіміне қосылды">
 <!ENTITY reading_list_removed "Парақ сіздің Оқу тізіміңізден өшірілді">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -554,20 +560,25 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-
+<!ENTITY identity_connection_secure "Қауіпсіз байланыс">
+<!ENTITY identity_connection_insecure "Қауіпсіз емес байланыс">
 <!-- Mixed content notifications in site identity popup -->
 
-
-
+<!ENTITY mixed_content_blocked_all "&brandShortName; бұл парақтағы қауіпсіз емес элементтерді блоктаған.">
+<!ENTITY mixed_content_blocked_some "&brandShortName; бұл парақтағы кейбір қауіпсіз емес элементтерді блоктаған.">
+<!ENTITY mixed_content_display_loaded "Бұл парақта бірнеше қауіпсіз емес элементтер бар.">
+<!ENTITY mixed_content_protection_disabled "Сіз қауіпсіз емес элементтерден қорғанысты сөндіргенсіз.">
 
 <!ENTITY loaded_mixed_content_message "Бұл парақ қауіпсіз емес құраманы көрсетіп тұр.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; қауіпсіз емес құраманы блоктады.">
 <!ENTITY blocked_mixed_content_message_bottom "Веб-сайттардың көбі бұл құрама сөндірілген болса да, дұрыс жұмыс жасай береді.">
 <!-- Tracking content notifications in site identity popup -->
 
-
-
-
+<!ENTITY doorhanger_tracking_title "Бақылаудан қорғаныс">
+<!ENTITY doorhanger_tracking_state_enabled "Іске қосулы">
+<!ENTITY doorhanger_tracking_state_disabled "Сөндірілген">
+<!ENTITY doorhanger_tracking_message_enabled1 "Сіздің желілік белсенділікті бақылау талаптары блокталған.">
+<!ENTITY doorhanger_tracking_message_disabled2 "Бұл парақта сіздің желідегі әрекеттеріңізді бақылай алатын элементтер бар.">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "Көбірек білу">
@@ -674,16 +685,20 @@ Android-тан импорттау">
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
+
+<!ENTITY devtools_auth_scan_header "QR кодтарын сканерлеу сіздің басқа құрылғыңызда сөндірілген">
 <!-- Restrictions -->
 <!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
-
-
-
-
-
-
-
-
+<!ENTITY restriction_disallow_import_settings_title2 "\u0027Android-тан импорттауды\u0027 сөндіру">
+<!ENTITY restriction_disallow_addons_title2 "Қосымшаларды орнатуды сөндіру">
+<!ENTITY restriction_disallow_devtools_title2 "Өндеуші саймандарын сөндіру">
+<!ENTITY restriction_disallow_customize_home_title2 "Үй парағын баптауды сөндіру">
+<!ENTITY restriction_disallow_private_browsing_title2 "Жекелік шолуды сөндіру">
+<!ENTITY restriction_disallow_location_services_title2 "Орналасулар қызметтерін сөндіру">
+<!ENTITY restriction_disallow_display_settings_title2 "Көрсету баптауларын сөндіру">
+<!ENTITY restriction_disallow_clear_history_title2 "\u0027Шолу тарихын өшіру\u0027 мүмкіндігін сөндіру">
+<!ENTITY restriction_disallow_master_password_title2 "Мастер парольді сөндіру">
+<!ENTITY restriction_disallow_guest_browsing_title2 "Қоңақ шолу режимін сөндіру">
 

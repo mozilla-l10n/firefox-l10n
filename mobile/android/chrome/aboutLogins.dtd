@@ -5,5 +5,5 @@
    %brandDTD;
 <!ENTITY aboutLogins.title                       "Логиндер">
 <!ENTITY aboutLogins.update                      "Жаңарту">
-
-
+<!ENTITY aboutLogins.emptyLoginText              "Логиндеріңізді қауіпті етіп ұстаңыз">
+<!ENTITY aboutLogins.emptyLoginHint              "&brandShortName; ішінде сақталған логиндер және тіркелу деректеріңіз осында көрсетіледі.">
