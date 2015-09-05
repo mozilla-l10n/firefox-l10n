@@ -644,6 +644,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "c">
 
+<!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "Stil pagină">
 <!ENTITY pageStyleMenu.accesskey "p">
@@ -683,7 +684,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "Gata">
 <!ENTITY editBookmark.cancel.label                   "Renunță">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Conexiune securizată">
 <!ENTITY identity.connectionNotSecure "Conexiunea nu este securizată">
