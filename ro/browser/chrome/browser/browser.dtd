@@ -109,7 +109,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Arată toate filele">
 <!ENTITY showAllTabsCmd.accesskey "A">
 
-<!ENTITY fxaSignIn.label "Conectare la &syncBrand.shortName.label;">
+<!ENTITY fxaSignIn.label "Autentificare la &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Deschide preferințe &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Reconectare la &syncBrand.shortName.label;">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; activat">
