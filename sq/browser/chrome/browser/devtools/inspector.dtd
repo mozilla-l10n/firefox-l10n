@@ -83,3 +83,18 @@
      be shown as the placeholder in the future, once the inspector search box
      supports the full text HTML search in Bug 835896. -->
 <!ENTITY inspectorSearchHTML.label3 "Kërko për HTML">
+
+<!-- LOCALIZATION NOTE (inspectorExpandNode.label): This is the label
+     shown in the inspector contextual-menu for recursively expanding
+     mark-up elements -->
+<!ENTITY inspectorExpandNode.label       "Zgjeroji Krejt">
+
+<!-- LOCALIZATION NOTE (inspectorCollapseNode.label): This is the label
+     shown in the inspector contextual-menu for recursively collapsing
+     mark-up elements -->
+<!ENTITY inspectorCollapseNode.label       "Tkurri">
+
+<!-- LOCALIZATION NOTE (inspectorScreenshotNode.label): This is the label
+     shown in the inspector contextual-menu for the item that lets users take
+     a screenshot of the currently selected node. -->
+<!ENTITY inspectorScreenshotNode.label       "Foto ekrani Për Nyjen">
