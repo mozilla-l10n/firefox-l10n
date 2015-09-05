@@ -162,7 +162,6 @@
 <!ENTITY pref_plugins_tap_to_play "Tocca per avviare">
 <!ENTITY pref_plugins_disabled "Disattivati">
 <!ENTITY pref_text_size "Dimensioni testo">
-<!ENTITY pref_reflow_on_zoom4 "Adatta il testo">
 <!ENTITY pref_restore "Schede">
 <!ENTITY pref_restore_always "Ripristina sempre">
 <!ENTITY pref_restore_quit "Non ripristinare dopo aver chiuso &brandShortName;">
