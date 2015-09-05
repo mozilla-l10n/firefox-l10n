@@ -28,7 +28,7 @@
 <!ENTITY  locbar.searches.label         "ការ​ស្វែង​រក​ដែល​ពាក់​ព័ន្ធ​ពី​ម៉ាសុីន​ស្វែង​រក​លំនាំ​ដើម​">
 <!ENTITY  locbar.searches.accesskey     "d">
 
-<!ENTITY  suggestionSettings.label      "ផ្លាស់ប្តូរ​ចំ​ណូលចិត្ត​​សម្រាប់​ការ​ស្នើ​ម៉ាសុីន​ស្វែង​រក​">
+<!ENTITY  suggestionSettings.label      "ផ្លាស់​ប្តូរ​ចំ​ណូល​ចិត្ត​​សម្រាប់​ការ​ស្នើ​ម៉ាសុីន​ស្វែង​រក​">
 <!ENTITY  suggestionSettings.accesskey  "g">
 
 <!ENTITY  acceptCookies.label           "ទទួលយក​ខូគី​ពី​តំបន់​បណ្ដាញ">
