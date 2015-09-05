@@ -110,7 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "A">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; में साइन इन करें ">
-<!ENTITY fxaSignedIn.tooltip "Open &syncBrand.shortName.label; वरीयताएँ खोलें">
+<!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; वरीयताएँ खोलें">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; फिर से कनेक्ट करें">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; सक्षम">
 <!ENTITY syncStartPanel2.subTitle "क्षण भर में &brandShortName; सिंक्रनाइज़ शुरू हो जाएगा.">
@@ -689,21 +689,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "रिमोट कनेक्शन">
 <!ENTITY identity.connectionNotSecure "कनेक्शन सुरक्षित नही हैं">
 <!ENTITY identity.connectionFile "यह पेज आपके कंप्यूटर में सहेजा जाता हैं.">
-
+<!ENTITY identity.connectionVerified "&brandShortName; ने सत्यापित किया कि आप इस साइट से सुरक्षित रूप से जुड़े है, जो इनके द्वारा चलाई जाती है:">
 <!ENTITY identity.connectionInternal "यह एक सुरक्षित &brandShortName; पेज हैं.">
 <!-- Strings for connection state warnings. -->
+
+<!ENTITY identity.activeBlocked "&brandShortName; इस पृष्ठ के कुछ हिस्सों को अवरुद्ध कर दिया है जो सुरक्षित नहीं हैं।">
 <!ENTITY identity.passiveLoaded "इस पेज का भाग सुरक्षित नहीं हैं(जैसा की छवि).">
 <!ENTITY identity.activeLoaded "आपने इस पेज पर सुरक्षा निष्क्रिय कर दिए हैं.">
 <!ENTITY identity.weakEncryption "यह पेज कमजोर गोपन का उपयोग करता हैं.">
 <!-- Strings for connection state warnings in the subview. -->
 
 <!ENTITY identity.description.insecure "इस साइट पे आपका कनेक्शन निजी नहीं हैं. सुचना जो आप जमा करते हैं दुसरो के द्वारा देखा जा सकता(जैसे पासवर्ड,संदेश, क्रेडिट कार्ड, इत्यादि.).">
-
-
-
+<!ENTITY identity.description.weakCipher "इस वेबसाइट से आपका कनेक्शन कमज़ोर एन्क्रिप्शन का उपयोग करता है और निजी नहीं है।">
+<!ENTITY identity.description.weakCipher2 "अन्य लोग आपकी जानकारी को देख सकते हैं या वेबसाइट के व्यवहार को बदल सकते हैं।">
+<!ENTITY identity.description.activeBlocked "&brandShortName; इस पृष्ठ के कुछ हिस्सों को अवरुद्ध कर दिया है जो सुरक्षित नहीं हैं।">
 <!ENTITY identity.description.passiveLoaded "आपका कनेक्शन निजी नही हैं और सुचना जो आप इस साइट के साथ साझा करते है दुसरो के द्वारा देखा जा सकता. ">
 <!ENTITY identity.description.passiveLoaded2 "यह वेबसाइट वह सामग्री शामिल करता है जो सुरक्षित नहीं हैं(जैसा की छवि).">
-
+<!ENTITY identity.description.passiveLoaded3 "हालांकि &brandShortName; ने कुछ सामग्री को रोक दिया है, इस पृष्ठ पर कुछ ऐसी सामग्री है जो असुरक्षित है (जैसे कि छवियाँ)।">
 <!ENTITY identity.description.activeLoaded "यह वेबसाइट उस सामग्री को सम्मिलित करता है जो सुरक्षित नही हैं(जैसा की स्क्रिप्ट) और कनेक्शन भी निजी नही हैं.">
 <!ENTITY identity.description.activeLoaded2 "सुचना जो आप इस साइट के साथ साझा करते हैं दुसरो के द्वारा देखा जा सकता(जैसे पासवर्ड,संदेश, क्रेडिट कार्ड, इत्यादि.).">
 
@@ -792,7 +794,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "आपके स्क्रीन पर सभी दृश्य विंडो साझा किए जाएँगे.">
 
 <!ENTITY trackingProtection.title "ट्रैकिंग सुरक्षा">
-
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; पृष्ठ के उन हिस्सों को ब्लॉक कर रहा है जो आपके ऑनलाइन गतिविधियों को ट्रैक कर सकते हैं।">
 <!ENTITY trackingProtection.detectedNotBlocked3 "यह साइट उस तत्वो को शामिल करता है जो आपके ब्राउज़िंग पर नजर रख सकता हैं. आप सुरक्षा निष्क्रिय कर दिये हैं.">
 <!ENTITY trackingProtection.notDetected3 "कोई भी ट्रैकिंग तत्व इस पेज पर जांचा नहीं गया.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):

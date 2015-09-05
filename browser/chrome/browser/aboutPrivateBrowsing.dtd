@@ -24,7 +24,8 @@
 <!ENTITY aboutPrivateBrowsing.title            "आप निजी तौर पर ब्राउज़ कर रहे हैं">
 <!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; इस विंडो का कोई इतिहास नहीं रखेगा।">
 
-
+<!ENTITY aboutPrivateBrowsing.forgotten        "इस विंडो में &brandShortName; नहीं रखेगा:">
+<!ENTITY aboutPrivateBrowsing.info.forgotten   "नहीं सहेजा गया">
 <!ENTITY aboutPrivateBrowsing.info.history     "इतिहास">
 <!ENTITY aboutPrivateBrowsing.info.searches    "खोजें">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "कूकीज">
