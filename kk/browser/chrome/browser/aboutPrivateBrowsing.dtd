@@ -13,6 +13,8 @@
      of the Tracking Protection section, and in general not much larger than
      30em to prevent the sections from wrapping on smaller window sizes.
      -->
+
+<!ENTITY aboutPrivateBrowsing.width            "30em">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
      aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
      These strings will be replaced by aboutPrivateBrowsing.forgotten and
@@ -20,18 +22,21 @@
      -->
 
 <!ENTITY aboutPrivateBrowsing.title            "Сіз жекелік шолу режиміндесіз">
+<!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; бұл терезе үшін тарихты сақтамайды.">
 
-
-
+<!ENTITY aboutPrivateBrowsing.forgotten        "Бұл терезе үшін &brandShortName; келесіні есте сақтамайды:">
+<!ENTITY aboutPrivateBrowsing.info.forgotten   "Сақталмаған">
 <!ENTITY aboutPrivateBrowsing.info.history     "Тарихы">
-
+<!ENTITY aboutPrivateBrowsing.info.searches    "Іздеулер">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Cookies">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Уақытша файлдар">
 
-
-
+<!ENTITY aboutPrivateBrowsing.kept             "&brandShortName; сақтайды:">
+<!ENTITY aboutPrivateBrowsing.info.kept        "Сақталған">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Жүктемелер">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Бетбелгілер">
 
+<!ENTITY aboutPrivateBrowsing.note1            "Жұмыс берушіңіз немесе интернет провайдеріңіз сонда да сіз қараған беттер тарихын біле алады.">
 <!ENTITY aboutPrivateBrowsing.learnMore        "Көбірек білу.">
 <!-- LOCALIZATION NOTE (trackingProtection.width):
      Width of the Tracking Protection section. It is fine for the enabled or
@@ -42,12 +47,18 @@
      different, so testing on Windows, Mac, and Linux is encouraged.
      -->
 
+<!ENTITY trackingProtection.width              "26em">
+<!ENTITY trackingProtection.title              "Бақылаудан қорғаныс">
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
 
+<!ENTITY trackingProtection.state.width        "6ch">
+<!ENTITY trackingProtection.state.enabled      "ON">
+<!ENTITY trackingProtection.state.disabled     "OFF">
 
+<!ENTITY trackingProtection.description1       "Жекелік терезелері енді сіздің желідегі әрекеттеріңізді бақылай алатын парақ бөліктерін блоктайды.">
 
-
-
-
+<!ENTITY trackingProtection.disable            "Бақылаудан қорғанысты сөндіру">
+<!ENTITY trackingProtection.enable             "Бақылаудан қорғанысты іске қосу">
+<!ENTITY trackingProtection.startTour1         "Бұл қалай жұмыс жасайтынын қарау">

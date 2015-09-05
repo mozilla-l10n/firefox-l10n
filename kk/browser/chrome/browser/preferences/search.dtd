@@ -9,7 +9,8 @@
 <!ENTITY provideSearchSuggestions.label        "Іздеу ұсыныстарын көрсету">
 <!ENTITY provideSearchSuggestions.accesskey    "с">
 
-
+<!ENTITY showURLBarSuggestions.label           "Орналасулар жолағы нәтижелерінде іздеу ұсыныстарын көрсету">
+<!ENTITY showURLBarSuggestions.accesskey       "л">
 
 <!ENTITY redirectWindowsSearch.label "Бұл іздеу жүйесін Windows-тан іздеулер үшін қолдану">
 <!ENTITY redirectWindowsSearch.accesskey "W">
