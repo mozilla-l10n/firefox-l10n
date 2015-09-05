@@ -53,11 +53,11 @@
 <!ENTITY  showCookies.label             "Прикажи колачиће…">
 <!ENTITY  showCookies.accesskey         "л">
 
-<!ENTITY  historyHeader.pre.label          "Програм &brandShortName;:">
+<!ENTITY  historyHeader.pre.label          "&brandShortName;:">
 <!ENTITY  historyHeader.pre.accesskey      "м">
-<!ENTITY  historyHeader.remember.label     "бележиће историјат">
+<!ENTITY  historyHeader.remember.label     "ће бележити историјат">
 <!ENTITY  historyHeader.dontremember.label "никада неће бележити историјат">
-<!ENTITY  historyHeader.custom.label       "користиће посебна подешавања за историјат">
+<!ENTITY  historyHeader.custom.label       "ће користити посебна подешавања за историјат">
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; ће запамтити историјат прегледања, преузимања, формулара и претраге и чуваће колачиће са веб сајтова које посећујете.">

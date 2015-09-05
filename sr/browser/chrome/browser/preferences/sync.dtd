@@ -5,7 +5,7 @@
 <!-- The page shown when not logged in... -->
 <!ENTITY setupButton.label          "Подеси &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "П">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; Вам дозвољава приступ Вашем историјату, забелешкама, лозинкама и отвореним језичцима на свим уређајима.">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; дозвољава приступ историјату, забелешкама, лозинкама и отвореним језичцима на свим уређајима.">
 
 <!-- The page shown when logged in... -->
 
@@ -51,7 +51,7 @@
 
 <!-- Firefox Accounts stuff -->
 <!ENTITY fxaPrivacyNotice.link.label "Обавештење о приватности">
-<!ENTITY determiningAcctStatus.label     "Утврђујем стање Вашег налога…">
+<!ENTITY determiningAcctStatus.label     "Утврђујем стање налога…">
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
@@ -59,14 +59,14 @@ before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
 <!ENTITY signedInUnverified.beforename.label "">
-<!ENTITY signedInUnverified.aftername.label "није верификован.">
+<!ENTITY signedInUnverified.aftername.label "није потврђен.">
 
 <!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
 signedInLoginFailure.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
-<!ENTITY signedInLoginFailure.beforename.label "Пријавите се да бисте се поново конектовали">
+<!ENTITY signedInLoginFailure.beforename.label "Пријавите се да бисте се поново повезали">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 <!ENTITY notSignedIn.label           "Нисте пријављени.">
@@ -74,10 +74,10 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Промени профилну слику">
 <!ENTITY manage.label                "Управљај">
 <!ENTITY disconnect.label            "Прекини конекцију…">
-<!ENTITY verify.label                "Верификуј е-пошту">
+<!ENTITY verify.label                "Потврди е-пошту">
 <!ENTITY forget.label                "Заборави на ову е-пошту">
 
-<!ENTITY welcome.description "Приступите Вашим језичцима, забелешкама и лозинкама кад год користите &brandShortName;.">
+<!ENTITY welcome.description "Приступите језичцима, забелешкама и лозинкама кад год користите &brandShortName;.">
 <!ENTITY welcome.signIn.label "Пријави се">
 <!ENTITY welcome.createAccount.label "Направи налог">
 
