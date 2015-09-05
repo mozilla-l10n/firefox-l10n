@@ -30,7 +30,8 @@
 <!ENTITY aboutPrivateBrowsing.info.cookies     "कूकीज">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "अस्थायी  फ़ाइल">
 
-
+<!ENTITY aboutPrivateBrowsing.kept             "&brandShortName; रखेगा:">
+<!ENTITY aboutPrivateBrowsing.info.kept        "सहेजा गया">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "डाउनलोड">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Bookmarks">
 
@@ -50,9 +51,12 @@
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
+
+<!ENTITY trackingProtection.state.width        "6ch">
 <!ENTITY trackingProtection.state.enabled      "चालू">
 <!ENTITY trackingProtection.state.disabled     "बंद">
 
+<!ENTITY trackingProtection.description1       "पृष्ठ के भाग जो आपके ऑनलाइन गतिविधि ट्रैक कर सकते हैं, अब निजी विंडो उन्हें ब्लॉक कर सकते है।">
 
 <!ENTITY trackingProtection.disable            "ट्रैकिंग सुरक्षा बंद करें">
 <!ENTITY trackingProtection.enable             "ट्रैकिंग सुरक्षा चालू करें">
