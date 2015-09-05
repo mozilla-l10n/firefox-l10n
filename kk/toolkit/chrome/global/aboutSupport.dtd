@@ -57,6 +57,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Мультипроцесс терезелері">
 
+<!ENTITY aboutSupport.appBasicsSafeMode "Қауіпсіз режимі">
 
 <!ENTITY aboutSupport.showDir.label "Буманы ашу">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific

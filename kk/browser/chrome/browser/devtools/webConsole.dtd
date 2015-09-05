@@ -104,5 +104,5 @@
 <!ENTITY closeCmd.key         "W">
 <!ENTITY findCmd.key          "F">
 <!ENTITY clearOutputCtrl.key  "з">
-
-
+<!ENTITY openInVarViewCmd.label "Айнымалылар көрінісінде ашу">
+<!ENTITY openInVarViewCmd.accesskey "А">
