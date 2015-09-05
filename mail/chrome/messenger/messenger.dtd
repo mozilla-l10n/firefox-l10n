@@ -45,7 +45,7 @@
 <!ENTITY saveAsFileCmd.key "a">
 <!ENTITY saveAsTemplateCmd.label "قالب">
 <!ENTITY saveAsTemplateCmd.accesskey "ق">
-<!ENTITY getNewMsgForCmd.label "اجلب الرسائل  الجديدة ل‍">
+<!ENTITY getNewMsgForCmd.label "اجلب الرسائل الجديدة ل‍">
 <!ENTITY getNewMsgForCmd.accesskey "ج">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "جميع الحسابات">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "ج">

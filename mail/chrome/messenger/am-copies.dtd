@@ -5,7 +5,7 @@
 
 
 <!ENTITY copyAndFolderTitle.label "النُّسخ و المجلدات">
-<!ENTITY sendingPrefix.label "عند إرسال الرسائل، آليًا:">
+<!ENTITY sendingPrefix.label "عند إرسال الرسائل، آليًا: ">
 <!ENTITY fccMailFolder.label "ضع نسخة في:">
 <!ENTITY fccMailFolder.accesskey "ض">
 <!ENTITY fccReplyFollowsParent.label "ضع الرّدود في مجلد الرّسالة التّي يتم الرّد عليها">

@@ -3,11 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY newDirectoryTitle.label           "خصائص خادوم الدليل">
-<!ENTITY directoryName.label               "الاسم :">
+<!ENTITY directoryName.label               "الاسم: ">
 <!ENTITY directoryName.accesskey           "س">
-<!ENTITY directoryHostname.label           "اسم المستضيف:">
+<!ENTITY directoryHostname.label           "اسم المستضيف: ">
 <!ENTITY directoryHostname.accesskey       "م">
-<!ENTITY directoryBaseDN.label             "‏DN الأساسي:">
+<!ENTITY directoryBaseDN.label             "‏DN‏ الأساسي: ">
 <!ENTITY directoryBaseDN.accesskey         "ا">
 <!ENTITY findButton.label                  "ابحث">
 <!ENTITY findButton.accesskey              "ب">
@@ -18,11 +18,11 @@
 <!ENTITY General.tab                       "عام">
 <!ENTITY Offline.tab                       "غير متّصل">
 <!ENTITY Advanced.tab                      "متقدم">
-<!ENTITY portNumber.label                  "رقم المَنْفذ:">
+<!ENTITY portNumber.label                  "رقم المَنْفذ: ">
 <!ENTITY portNumber.accesskey              "م">
-<!ENTITY searchFilter.label                "مُرشِّح البحث:">
+<!ENTITY searchFilter.label                "مُرشِّح البحث: ">
 <!ENTITY searchFilter.accesskey            "ش">
-<!ENTITY scope.label                       "الهدف:">
+<!ENTITY scope.label                       "الهدف: ">
 <!ENTITY scope.accesskey                   "ه">
 <!ENTITY scopeOneLevel.label               "مستوى واحد">
 <!ENTITY scopeOneLevel.accesskey           "ى">

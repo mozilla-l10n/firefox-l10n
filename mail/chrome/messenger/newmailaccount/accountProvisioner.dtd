@@ -4,7 +4,7 @@
 
 <!ENTITY window.title "مرحبًا بك في &brandShortName;">
 <!ENTITY header2.label "أتريد عنوان بريد إلكتروني جديد؟">
-<!ENTITY other.languages "سنُظهر فقط المزودين الذين يعرضون عناوين البريد في منطقتك. انقر هنا لعرض كافة المزودين.">
+<!ENTITY other.languages "سنُظهر فقط المزودين الذين يعرضون عناوين البريد في منطقتك.  انقر هنا لعرض كافة المزودين.">
 <!ENTITY error.line1 "المعذرة، لم نستطع أن نعثر على أي عناوين بريد مقترحة.">
 <!ENTITY error.line2 "يمكنك أن تجرب البحث عن أسماء مستعارة أو اي كلمات أخرى لإيجاد المزيد من العناوين البريدية">
 <!-- LOCALIZATION NOTE(error.suggest.before, error.suggest.middle, error.suggest.after):

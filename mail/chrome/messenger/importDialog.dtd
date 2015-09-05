@@ -27,7 +27,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY  window.width            "40em">
 <!ENTITY  window.macWidth         "45em">
 
-<!ENTITY importTitle.label        "مرشد استيراد بريد &brandShortName; ">
+<!ENTITY importTitle.label        "مرشد استيراد بريد &brandShortName;">
 <!ENTITY importShortDesc.label    "استورد البريد، ودفاتر العناوين، والإعدادات، والمرشحات من برامج أخرى">
 
 <!ENTITY importDescription1.label "هذا المرشد سوف يستورد رسائل البريد، ومدخلات دفاتر العناوين، والتفضيلات، والمرشحات من برامج بريد أخرى ومن صيغ دفاتر عناوين شائعة إلى &brandShortName;.">

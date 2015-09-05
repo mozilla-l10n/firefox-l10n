@@ -7,7 +7,7 @@
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
 
-<!ENTITY clearTimeDuration.label          "المدى الزمني الذي سيُمسح:">
+<!ENTITY clearTimeDuration.label          "المدى الزمني الذي سيُمسح: ">
 <!ENTITY clearTimeDuration.accesskey      "م">
 <!ENTITY clearTimeDuration.lastHour       "آخر ساعة">
 <!ENTITY clearTimeDuration.last2Hours     "آخر ساعتين">
