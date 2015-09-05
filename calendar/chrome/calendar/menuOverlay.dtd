@@ -35,6 +35,7 @@
 
 <!ENTITY showUnifinderCmd.label                 "Chattar occurrenzas">
 <!ENTITY showUnifinderCmd.accesskey             "C">
+<!ENTITY showUnifinderCmd.tooltip               "Mussar/zuppentar la lastra per chattar eveniments">
 
 <!ENTITY calendar.displaytodos.checkbox.label       "Mussar pensums en il chalender">
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "p">
