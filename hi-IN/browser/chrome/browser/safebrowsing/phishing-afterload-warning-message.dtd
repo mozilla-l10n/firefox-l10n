@@ -14,6 +14,7 @@
 
 <!ENTITY safeb.blocked.unwantedPage.title "अवांछित सॉफ्टवेयर पेज रिपोर्ट किया गया!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "<span id='unwanted_sitename'/>पर यह वेब पेज अवांछित सॉफ्टवेयर रखने हेतु सूचित किया गया और आपकी सुरक्षा वरीयता के आधार पर अवरुद्ध कर दिया गया है!">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "<p>अवांछित सॉफ्टवेयर पृष्ठ वह सॉफ्टवेयर स्थापित करने का प्रयास करता हैं जो भ्रामक हो सकता है और अप्रत्याशित तरीके में आपके तंत्र को प्रभावित कर सकता है.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title "रिपोर्ट की गई वेब धोखाधड़ी!">
