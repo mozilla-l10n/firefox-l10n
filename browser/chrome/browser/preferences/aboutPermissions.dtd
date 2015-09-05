@@ -2,68 +2,29 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tracking.label "Rastreo">
-<!ENTITY dntTrackingNotOkay4.label     "Solicitar que los sitios no le sigan">
-<!ENTITY dntTrackingNotOkay4.accesskey "n">
-<!ENTITY doNotTrackInfo.label           "Aprender más">
-<!ENTITY trackingProtection5.label     "Usar protección de seguimiento">
-<!ENTITY trackingProtection5.accesskey "m">
-<!ENTITY trackingProtectionLearnMore.label "Aprender más">
-<!ENTITY trackingProtectionPBM5.label         "Usar protección de seguimiento en ventanas privadas">
-<!ENTITY trackingProtectionPBM5.accesskey     "y">
-<!ENTITY trackingProtectionPBMLearnMore.label "Aprender más">
-<!ENTITY history.label "Historial">
-<!ENTITY locationBar.label "Barra de direcciones">
-<!ENTITY locbar.suggest.label "Al usar la barra de direcciones, sugerir:">
-<!ENTITY locbar.history.label "Historial">
-<!ENTITY locbar.history.accesskey      "H">
-<!ENTITY locbar.bookmarks.label "Marcadores">
-<!ENTITY locbar.bookmarks.accesskey    "k">
-<!ENTITY locbar.openpage.label "Abrir en pestañas">
-<!ENTITY locbar.openpage.accesskey     "O">
-<!ENTITY locbar.searches.label         "Búsquedas relacionadas del motor de búsqueda predeterminado">
-<!ENTITY locbar.searches.accesskey     "d">
-<!ENTITY  suggestionSettings.label      "Cambiar preferencias para las sugerencias del motor de búsqueda…">
-<!ENTITY  suggestionSettings.accesskey  "g">
-<!ENTITY acceptCookies.label "Aceptar cookies de los sitios">
-<!ENTITY acceptCookies.accesskey "c">
-<!ENTITY acceptThirdParty.pre.label      "Aceptar cookies de terceros:">
-<!ENTITY acceptThirdParty.pre.accesskey  "k">
-<!ENTITY acceptThirdParty.always.label   "Siempre">
-<!ENTITY acceptThirdParty.never.label    "Nunca">
-<!ENTITY acceptThirdParty.visited.label  "De los visitados">
-<!ENTITY keepUntil.label "Mantener hasta que:">
-<!ENTITY keepUntil.accesskey "M">
-<!ENTITY expire.label "venzan">
-<!ENTITY close.label "cierre &brandShortName;">
-<!ENTITY askEachTime.label "pregunte cada vez">
-<!ENTITY cookieExceptions.label "Excepciones…">
-<!ENTITY cookieExceptions.accesskey "E">
-<!ENTITY showCookies.label "Mostrar Cookies…">
-<!ENTITY showCookies.accesskey "s">
-<!ENTITY historyHeader.pre.label "&brandShortName;:">
-<!ENTITY historyHeader.pre.accesskey "F">
-<!ENTITY historyHeader.remember.label "Recordará el historial">
-<!ENTITY historyHeader.dontremember.label "Nunca recordará el historial">
-<!ENTITY historyHeader.custom.label "Usará configuraciones personalizadas para el historial">
-<!ENTITY historyHeader.post.label "">
-<!ENTITY rememberDescription.label "&brandShortName; recordará su historial de navegación, descargas, formularios y búsquedas, y mantendrá las cookies de los sitios Web que usted visite.">
-<!ENTITY rememberActions.pre.label "Usted podría querer ">
-<!ENTITY rememberActions.clearHistory.label "limpiar su historial reciente">
-<!ENTITY rememberActions.middle.label ", o ">
-<!ENTITY rememberActions.removeCookies.label "remover cookies individuales">
-<!ENTITY rememberActions.post.label ".">
-<!ENTITY dontrememberDescription.label "&brandShortName; usará las mismas configuraciones de la navegación privada, y no recordará historial alguno de páginas que usted visite en la Web.">
-<!ENTITY dontrememberActions.pre.label "Usted también podría querer ">
-<!ENTITY dontrememberActions.clearHistory.label "limpiar todo el historial actual">
-<!ENTITY dontrememberActions.post.label ".">
-<!ENTITY privateBrowsingPermanent2.label "Siempre usar el modo de navegación privada">
-<!ENTITY privateBrowsingPermanent2.accesskey "p">
-<!ENTITY rememberHistory2.label "Recordar mi historial de navegación y descargas">
-<!ENTITY rememberHistory2.accesskey "h">
-<!ENTITY rememberSearchForm.label "Recordar historial de formularios y búsquedas">
-<!ENTITY rememberSearchForm.accesskey "r">
-<!ENTITY clearOnClose.label "Limpiar historial cuando cierre &brandShortName;">
-<!ENTITY clearOnClose.accesskey "i">
-<!ENTITY clearOnCloseSettings.label "Configuraciones…">
-<!ENTITY clearOnCloseSettings.accesskey "g">
+<!ENTITY permissionsManager.title "Administrador de permisos">
+<!ENTITY sites.search "Buscar sitios">
+<!ENTITY sites.allSites "Todos los sitios">
+<!ENTITY header.site.start "Permisos para">
+<!ENTITY header.site.end "">
+<!ENTITY header.defaults "Permisos predeterminados para todos los sitios">
+<!ENTITY permissions.forgetSite "Olvidarse de este sitio">
+<!ENTITY permission.alwaysAsk "Preguntar siempre">
+<!ENTITY permission.allow "Permitir">
+<!ENTITY permission.allowForSession "Permitir por esta sesión">
+<!ENTITY permission.allowFirstPartyOnly "Permitir solo oficiales">
+<!ENTITY permission.block "Bloquear">
+<!ENTITY password.label "Guardar contraseñas">
+<!ENTITY password.manage "Administrar contraseñas…">
+<!ENTITY cookie.label "Establecer cookies">
+<!ENTITY cookie.remove		"Borrar cookies">
+<!ENTITY cookie.manage		"Administrar cookies…">
+<!ENTITY cookie.removeAll	"Borrar todas las cookies">
+<!ENTITY geo.label			"Compartir ubicación">
+<!ENTITY plugins.label		"Complementos">
+<!ENTITY indexedDB.label	"Mantener almacenamiento sin conexión">
+<!ENTITY popup.label		"Abrir ventanas emergentes">
+<!ENTITY push.label			"Recibir notificaciones Push">
+<!ENTITY camera.label		"Usar la cámara">
+<!ENTITY microphone.label	"Usar el micrófono">
+<!ENTITY focusSearch.key                 "f">
