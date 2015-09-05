@@ -9,7 +9,7 @@
 
 <!ENTITY question.label "هل ترغب في تحويل الرسالة إلى نص صِرف أو إرسالها في صيغة ‍HTML على أية حال؟">
 
-<!ENTITY plainTextAndHtml.label "أرسل نصا صرفًا و HTML ">
+<!ENTITY plainTextAndHtml.label "أرسل نصا صرفًا و HTML">
 <!ENTITY plainTextAndHtml.accesskey "ر">
 <!ENTITY plainTextOnly.label "أرسِل نصًا صرفًا فقط">
 <!ENTITY plainTextOnly.accesskey "ص">

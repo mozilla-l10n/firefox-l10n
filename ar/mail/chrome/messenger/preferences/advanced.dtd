@@ -34,7 +34,7 @@
 <!ENTITY configEditDesc.label          "الإعدادات المتقدمة">
 <!ENTITY configEdit.label              "محرر الإعدادات…">
 <!ENTITY configEdit.accesskey          "ت">
-<!ENTITY returnReceiptsInfo.label      "حدد كيف يتعامل &brandShortName;  مع إعلامات الوصول">
+<!ENTITY returnReceiptsInfo.label      "حدد كيف يتعامل &brandShortName; مع إعلامات الوصول">
 <!ENTITY showReturnReceipts.label      "إعلامات الوصول…">
 <!ENTITY showReturnReceipts.accesskey  "ع">
 <!-- Data Choices -->
@@ -77,7 +77,7 @@
 <!ENTITY showOffline.label             "غير متصل…">
 <!ENTITY showOffline.accesskey         "ص">
 
-<!ENTITY Diskspace                       "مساحة القرص ">
+<!ENTITY Diskspace                       "مساحة القرص">
 <!ENTITY offlineCompactFolders.label     "ادمج كل المجلدات إذا كانت ستوفِّر أكثر من">
 <!ENTITY offlineCompactFolders.accesskey "و">
 <!ENTITY offlineCompactFoldersMB.label   "م.بايت">

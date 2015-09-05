@@ -28,7 +28,7 @@
 <!ENTITY community.exp.creditsLink  "مجتمع عالمي">
 <!ENTITY community.exp.end          " يعمل للمحافظة على انفتاح الوب وعموميتها وإتاحتها للجميع.">
 
-<!ENTITY community.start2           "‫&brandShortName; صممه">
+<!ENTITY community.start2           "صمّمَ &brandShortName; ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          "، ">
@@ -85,7 +85,7 @@
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
 
-<!ENTITY update.unsupported.start    "لا يمكنك إجراء أي تحديثات أخرى على هذا النظام.">
+<!ENTITY update.unsupported.start    "لا يمكنك إجراء أي تحديثات أخرى على هذا النظام. ">
 <!ENTITY update.unsupported.linkText "اطّلع على المزيد">
 <!ENTITY update.unsupported.end      "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 

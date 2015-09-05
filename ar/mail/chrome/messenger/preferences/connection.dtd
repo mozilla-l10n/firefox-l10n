@@ -36,5 +36,5 @@
 <!ENTITY  noproxy.label                 "لا وسيط لأجل:">
 <!ENTITY  noproxy.accesskey             "و">
 <!ENTITY  noproxyExplain.label          "مثال: .mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY  shareproxy.label              "استخدم الخادوم الوسيط هذا لكل البروتوكولات ">
+<!ENTITY  shareproxy.label              "استخدم الخادوم الوسيط هذا لكل البروتوكولات">
 <!ENTITY  shareproxy.accesskey          "و">

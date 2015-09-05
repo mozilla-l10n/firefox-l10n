@@ -29,7 +29,7 @@
 <!ENTITY DeletePlainText.label        "احذف">
 <!ENTITY DeletePlainText.accesskey    "ذ">
 
-<!ENTITY add.htmltitle                "أضِف اسم نطاق HTML ">
+<!ENTITY add.htmltitle                "أضِف اسم نطاق HTML">
 <!ENTITY add.htmldomain               "اسم نطاق HTML:">
 <!ENTITY add.plaintexttitle           "أضِف اسم نطاق نص صِرْف">
 <!ENTITY add.plaintextdomain          "اسم نطاق نص صِرْف:">

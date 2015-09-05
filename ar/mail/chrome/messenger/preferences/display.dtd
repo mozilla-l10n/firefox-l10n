@@ -19,7 +19,7 @@
 <!ENTITY smaller.label                    "أصغر">
 <!ENTITY quotedTextColor.label            "اللون:">
 <!ENTITY quotedTextColor.accesskey        "ل">
-<!ENTITY displayWidth.label               "رسائل النص الصرف ">
+<!ENTITY displayWidth.label               "رسائل النص الصرف">
 <!ENTITY displayText.label                "عند عرض رسائل النص الصرف مقتبسة:">
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 
@@ -65,7 +65,7 @@
 <!ENTITY openMsgIn.label                  "افتح الرسائل في:">
 <!ENTITY openMsgInNewTab.label            "لسان جديد">
 <!ENTITY openMsgInNewTab.accesskey        "ن">
-<!ENTITY reuseExpRadio0.label             "نافذة رسالة جديدة ">
+<!ENTITY reuseExpRadio0.label             "نافذة رسالة جديدة">
 <!ENTITY reuseExpRadio0.accesskey         "ن">
 <!ENTITY reuseExpRadio1.label             "نافذة رسالة موجودة">
 <!ENTITY reuseExpRadio1.accesskey         "م">

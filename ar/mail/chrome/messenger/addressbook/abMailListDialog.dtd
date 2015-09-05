@@ -5,11 +5,11 @@
 
 <!ENTITY mailListWindow.title           "قائمة بريدية">
 <!-- Labels -->
-<!ENTITY addToAddressBook.label         "أضِف إلى:">
+<!ENTITY addToAddressBook.label         "أضِف إلى: ">
 
-<!ENTITY ListName.label                 "اسم القائمة:">
-<!ENTITY ListNickName.label             "كُنية القائمة:">
-<!ENTITY ListDescription.label          "الوصف:">
+<!ENTITY ListName.label                 "اسم القائمة: ">
+<!ENTITY ListNickName.label             "كُنية القائمة: ">
+<!ENTITY ListDescription.label          "الوصف: ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label             "اكتب عناوين بريد لإضافتها إلى القائمة البريدية:">
 <!ENTITY UpButton.label                 "لأعلى">
