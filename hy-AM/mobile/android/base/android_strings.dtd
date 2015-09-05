@@ -194,7 +194,7 @@
 
 <!ENTITY pref_cookies_menu "Cookie-ներ">
 <!ENTITY pref_cookies_accept_all "Միացնել">
-<!ENTITY pref_cookies_not_accept_foreign "Միացնել՝ բացառելով կողմնակի կայքերը">
+<!ENTITY pref_cookies_not_accept_foreign "Միացված՝ բացառելով երրորդ կողմի կայքերը">
 <!ENTITY pref_cookies_disabled "Անջատել">
 
 <!ENTITY pref_tracking_protection_title "Հետագծման պաշտպանություն">
