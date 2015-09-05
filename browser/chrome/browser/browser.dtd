@@ -56,29 +56,29 @@ can reach it easily. -->
 
 <!ENTITY tabCmd.label "नया टैब">
 <!ENTITY tabCmd.accesskey "T">
-<!ENTITY tabCmd.commandkey "t">
+<!ENTITY tabCmd.commandkey "टी">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "स्थान खोलें…">
-<!ENTITY openFileCmd.label "फ़ाइल खोलें…">
+<!ENTITY openFileCmd.label "Open फ़ाइल…">
 <!ENTITY openFileCmd.accesskey "O">
-<!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "पृष्ठ सेटअप…">
+<!ENTITY openFileCmd.commandkey "ओ">
+<!ENTITY printSetupCmd.label "पृष्ठ Setup…">
 <!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printPreviewCmd.label "छपाई पूर्वावलोकन">
+<!ENTITY printPreviewCmd.label "छपाई Preview">
 <!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printCmd.label "छापें…">
+<!ENTITY printCmd.label "Print…">
 <!ENTITY printCmd.accesskey "P">
-<!ENTITY printCmd.commandkey "p">
+<!ENTITY printCmd.commandkey "पी">
 
 <!ENTITY goOfflineCmd.label "ऑफ़लाइन काम करें">
 <!ENTITY goOfflineCmd.accesskey "k">
 
-<!ENTITY menubarCmd.label "मेन्यू पट्टी">
+<!ENTITY menubarCmd.label "Menu पट्टी">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "संचरण औज़ारपट्टी">
-<!ENTITY personalbarCmd.label "पुस्तचिह्नित औज़ारपट्टी">
+<!ENTITY personalbarCmd.label "Bookmarks टूलबार">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "औज़ारपट्टी मद पुस्तचिह्नित करता है">
 
@@ -94,8 +94,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "पृष्ठ सूचना">
 <!ENTITY pageInfoCmd.accesskey "I">
-<!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY mirrorTabCmd.label "Mirror टैब ">
+<!ENTITY pageInfoCmd.commandkey "आई">
+<!ENTITY mirrorTabCmd.label "Mirror टैब">
 <!ENTITY mirrorTabCmd.accesskey "M">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
@@ -103,50 +103,50 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "F">
 <!ENTITY exitFullScreenCmd.label "पूर्ण स्क्रीन से निकलें">
 <!ENTITY exitFullScreenCmd.accesskey "F">
-<!ENTITY fullScreenCmd.label "पूर्ण स्क्रीन">
+<!ENTITY fullScreenCmd.label "Full स्क्रीन">
 <!ENTITY fullScreenCmd.accesskey "F">
-<!ENTITY fullScreenCmd.macCommandKey "f">
-<!ENTITY showAllTabsCmd.label "सभी टैब दिखाएँ">
+<!ENTITY fullScreenCmd.macCommandKey "एफ">
+<!ENTITY showAllTabsCmd.label "All टैब दिखाएँ">
 <!ENTITY showAllTabsCmd.accesskey "A">
 
-<!ENTITY fxaSignIn.label "&syncBrand.shortName.label; में साइन इन करें ">
+<!ENTITY fxaSignIn.label "&syncBrand.shortName.label; में साइन इन करें">
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; वरीयताएँ खोलें">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; फिर से कनेक्ट करें">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; सक्षम">
 <!ENTITY syncStartPanel2.subTitle "क्षण भर में &brandShortName; सिंक्रनाइज़ शुरू हो जाएगा.">
 <!ENTITY syncErrorPanel.heading "&syncBrand.shortName.label; से कनेक्ट नहीं कर सकते">
-<!ENTITY syncErrorPanel.subTitle "सिंक्रनाइज़ पुनरारंभ करने के लिए साइन इन करें.">
-<!ENTITY syncErrorPanel.signInButton.label "साइन इन">
+<!ENTITY syncErrorPanel.subTitle "सिंक्रनाइज़ पुन: आरंभ करने के लिए साइन इन करें.">
+<!ENTITY syncErrorPanel.signInButton.label "Sign In">
 <!ENTITY syncErrorPanel.signInButton.accesskey "S">
 
 
 <!ENTITY fullScreenMinimize.tooltip "न्यूनतम करें">
 <!ENTITY fullScreenRestore.tooltip "फिर संग्रहित करें">
 <!ENTITY fullScreenClose.tooltip "बंद करें">
-<!ENTITY fullScreenAutohide.label "औज़ार पट्ट छुपाएँ">
+<!ENTITY fullScreenAutohide.label "Hide औज़ार पट्ट">
 <!ENTITY fullScreenAutohide.accesskey "H">
-<!ENTITY fullScreenExit.label "पूर्ण स्क्रीन मोड से बाहर निकलें">
+<!ENTITY fullScreenExit.label "Full स्क्रीन मोड से बाहर निकलें">
 <!ENTITY fullScreenExit.accesskey "F">
 
 <!ENTITY fullscreenExitHint2.value "बाहर निकलने के लिए ESC को किसी भी दबाएँ.">
 <!ENTITY leaveDOMFullScreen.label "पूर्ण स्क्रीन से निकलें">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
-<!ENTITY closeWindow.label "विंडो बंद करें">
+<!ENTITY closeWindow.label "Window बंद करें">
 <!ENTITY closeWindow.accesskey "d">
 
 <!ENTITY bookmarksMenu.label "पुस्तचिह्न">
 <!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY bookmarkThisPageCmd.label "यह पृष्ठ पुस्तचिह्नित करें">
 <!ENTITY editThisBookmarkCmd.label "यह पुस्तचिह्न संपादित करें">
-<!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "l">
+<!ENTITY bookmarkThisPageCmd.commandkey "डी">
+<!ENTITY markPageCmd.commandkey "एल">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
 <!ENTITY findShareServices.label "अधिक साझा सेवाओं का पता लगाएं ...">
-<!ENTITY sharePageCmd.label "इस पृष्ठ को साझा करें">
-<!ENTITY sharePageCmd.commandkey "S">
+<!ENTITY sharePageCmd.label "This पृष्ठ को साझा करें">
+<!ENTITY sharePageCmd.commandkey "एस">
 <!ENTITY sharePageCmd.accesskey "s">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 <!ENTITY shareLink.label "इस कड़ी को साझा करें">
@@ -266,7 +266,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser toolbox UI in the Tools menu. -->
 
-<!ENTITY browserToolboxMenu.label     "ब्राउज़र औजारपट्टी">
+<!ENTITY browserToolboxMenu.label     "Browser औजारपट्टी">
 <!ENTITY browserToolboxMenu.accesskey "e">
 <!ENTITY browserToolboxCmd.commandkey "i">
 <!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
@@ -360,7 +360,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "पसंदीदा करें">
-<!ENTITY appMenuCustomize.tooltip "मेनू और औज़ारपट्टी अनुकूलित करें">
+<!ENTITY appMenuCustomize.tooltip "मेनू और उपकरण पट्टियाँ अनुकूलित">
 <!ENTITY appMenuCustomizeExit.label "अनुकूलित निकास">
 <!ENTITY appMenuCustomizeExit.tooltip "अनुकूलित समाप्त करें">
 <!ENTITY appMenuHistory.label "इतिहास">
@@ -370,20 +370,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.viewSidebar.label "इतिहास बाज़ूपट्टी दिखाएँ">
 <!ENTITY appMenuHelp.tooltip "मदद मेनू खोलें">
 
-<!ENTITY customizeMenu.addToToolbar.label "औज़ार पट्टी में जोड़ें">
+<!ENTITY customizeMenu.addToToolbar.label "औज़ार पट्टी में Add">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
-<!ENTITY customizeMenu.addToPanel.label "मेनू में जोड़ें">
+<!ENTITY customizeMenu.addToPanel.label "Menu में जोड़ें">
 <!ENTITY customizeMenu.addToPanel.accesskey "M">
-<!ENTITY customizeMenu.moveToToolbar.label "औज़ार पट्टी पर ले जाएं">
+<!ENTITY customizeMenu.moveToToolbar.label "औज़ार पट्टी पर Move">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "o">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
      same context menu as menubarCmd and personalbarCmd, so they should have
      different access keys. customizeMenu.moveToToolbar and 
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
-<!ENTITY customizeMenu.moveToPanel.label "मेन्यू पर ले जाएं">
+<!ENTITY customizeMenu.moveToPanel.label "मेन्यू पर Move">
 <!ENTITY customizeMenu.moveToPanel.accesskey "o">
-<!ENTITY customizeMenu.removeFromToolbar.label "औजारपट्टी से निकालें">
+<!ENTITY customizeMenu.removeFromToolbar.label "औजारपट्टी से Remove">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.removeFromMenu.label "मेन्यू से निकालें">
 <!ENTITY customizeMenu.removeFromMenu.accesskey "R">
