@@ -23,7 +23,7 @@
 <!ENTITY helpKeyboardShortcuts.label     "कुंजीपट शॉर्टकट">
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
 
-<!ENTITY helpSafeMode.label       "सहयुक्तियों के साथ फिर आरंभ करना निष्क्रिय…">
+<!ENTITY helpSafeMode.label       "सहयुक्तियों के निष्क्रिय के साथ Restart …">
 <!ENTITY helpSafeMode.accesskey   "R">
 <!ENTITY helpSafeMode.stop.label       "ऐड-ऑन सक्षम के साथ फिर आरंभ करे">
 <!ENTITY helpSafeMode.stop.accesskey   "आ">
