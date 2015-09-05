@@ -395,7 +395,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "з">
 <!ENTITY urlbar.switchToTab.label     "Бетке ауысу:">
 
-
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Көбірек білу…">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Жоқ">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Иә">
 <!-- 
@@ -704,7 +704,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.disableMixedContentBlocking.label "Қорғанысты қазірге сөндіру">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "н">
-
+<!ENTITY identity.learnMore "Көбірек білу">
 
 <!ENTITY identity.moreInfoLinkText2 "Көбірек білу">
 
