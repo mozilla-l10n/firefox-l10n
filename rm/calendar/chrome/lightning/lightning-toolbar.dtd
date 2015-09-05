@@ -8,10 +8,15 @@
 <!ENTITY lightning.toolbar.task.name.accesskey "T">
 
 <!ENTITY lightning.toolbar.sync.label "Sincronisar">
+<!ENTITY lightning.toolbar.sync.tooltip "Rechargiar ils chalenders e sincronisar las modificaziuns">
 <!ENTITY lightning.toolbar.delete.label "Stizzar">
+<!ENTITY lightning.toolbar.delete.tooltip "Stizzar las incumbensas u ils eveniments tschernids">
 <!ENTITY lightning.toolbar.edit.label "Modifitgar">
-<!ENTITY lightning.toolbar.gototoday.label "Oz">
+<!ENTITY lightning.toolbar.edit.tooltip "Modifitgar l'incumbensa u l'eveniment tschernì">
+<!ENTITY lightning.toolbar.gototoday.label "Siglir tar Oz">
+<!ENTITY lightning.toolbar.gototoday.tooltip "Siglir tar Oz">
 <!ENTITY lightning.toolbar.print.label "Stampar">
+<!ENTITY lightning.toolbar.print.tooltip "Stampar eveniments u incumbensas">
 <!-- Mode Toolbar -->
 
 <!ENTITY lightning.toolbar.calendar.label     "Chalender">
@@ -23,7 +28,9 @@
 <!-- Toolbar write button -->
 
 <!ENTITY lightning.toolbar.newevent.label     "Occurrenza">
+<!ENTITY lightning.toolbar.newevent.tooltip   "Crear ina nova occurrenza">
 <!ENTITY lightning.toolbar.newtask.label      "Pensum">
+<!ENTITY lightning.toolbar.newtask.tooltip    "Crear in nov pensum">
 <!-- Calendar and Task Mode Toolbar -->
 
 <!ENTITY lightning.toolbar.day.label                 "Di">

@@ -1,16 +1,22 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY wizard.title             "Crear in nov chalender" >
 <!ENTITY wizard.label             "Crear in nov chalender" >
+<!ENTITY wizard.description       "Posiziun dal chalender" >
 
+<!ENTITY initialpage.description    "Ti pos memorisar tes chalender sin tes computer u sin in server per l'access a distanza e per al cundivider cun tes amis u collavuraturs." >
+<!ENTITY initialpage.computer.label  "Sin mes computer">
+<!ENTITY initialpage.network.label  "En la rait">
 
+<!ENTITY locationpage.description         "Endatescha las infurmaziuns necessarias per l'access a distanza al chalender" >
+<!ENTITY locationpage.login.description   "Opziunal: endatescha in num d'utilisader ed in pled-clav" >
+<!ENTITY locationpage.username.label      "Num d'utilisader:" >
+<!ENTITY locationpage.password.label      "Pled-clav:" >
 
+<!ENTITY custompage.shortdescription  "Persunalisescha tes chalender" >
+<!ENTITY custompage.longdescription   "Ti pos dar in num a tes chalender ed attribuir ina colur als eveniments da quest chalender." >
 
-
-
-
-
-
-
-
-
+<!ENTITY finishpage.shortdescription  "Creà l'agenda" >
+<!ENTITY finishpage.longdescription   "Tes chalender è vegnì creà." >
