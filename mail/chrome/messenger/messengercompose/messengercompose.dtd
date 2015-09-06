@@ -191,6 +191,7 @@
 <!ENTITY addressButton.tooltip "Выбрать адресата из адресной книги">
 <!ENTITY attachButton.tooltip "Вложить файл в это сообщение">
 <!ENTITY spellingButton.tooltip "Проверить орфографию выделенного отрывка или всего сообщения">
+<!ENTITY statusLanguageText.tooltip "Язык проверки орфографии">
 <!ENTITY saveButton.tooltip "Сохранить это сообщение">
 <!ENTITY cutButton.tooltip "Вырезать">
 <!ENTITY copyButton.tooltip "Копировать">

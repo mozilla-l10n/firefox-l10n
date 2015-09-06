@@ -30,6 +30,7 @@
 <!ENTITY inspectorSearchHTML.label3 "Поиск в HTML">
 <!ENTITY inspectorCopyImageDataUri.label "Копировать URL данных изображения">
 <!ENTITY inspectorShowDOMProperties.label "Показать свойства DOM">
+<!ENTITY inspectorUseInConsole.label "Использовать в Консоли">
 <!ENTITY inspectorExpandNode.label "Развернуть все">
 <!ENTITY inspectorCollapseNode.label "Свернуть">
 <!ENTITY inspectorScreenshotNode.label "Скриншот узла">

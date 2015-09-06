@@ -80,6 +80,7 @@
 <!ENTITY fxaSignIn.label "Войти в Синхронизацию">
 <!ENTITY fxaSignedIn.tooltip "Открыть настройки Синхронизации">
 <!ENTITY fxaSignInError.label "Снова подсоединиться к Синхронизации">
+<!ENTITY fxaUnverified.label "Подтвердить свой аккаунт">
 <!ENTITY syncStartPanel2.heading "Синхронизация включена">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; сейчас начнёт синхронизироваться.">
 <!ENTITY syncErrorPanel.heading "Не удалось соединиться с сервером Синхронизации">
@@ -519,6 +520,8 @@
 <!ENTITY identity.learnMore "Подробнее">
 <!ENTITY identity.moreInfoLinkText2 "Подробнее">
 <!ENTITY identity.permissions "Разрешения">
+<!ENTITY identity.permissionsPageFunctionality "Функциональность страницы">
+<!ENTITY identity.permissionsSystemAccess "Доступ к системе">
 <!ENTITY tabsToolbar.label "Вкладки браузера">
 <!ENTITY syncTabsMenu2.label "Вкладки с других устройств">
 <!ENTITY syncBrand.shortName.label "Синхронизация">

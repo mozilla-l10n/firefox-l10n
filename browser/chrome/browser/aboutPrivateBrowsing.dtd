@@ -8,24 +8,21 @@
 <!ENTITY privateBrowsing.title "Приватный просмотр">
 <!ENTITY aboutPrivateBrowsing.width1 "30em">
 <!ENTITY aboutPrivateBrowsing.title "Вы работаете в режиме приватности">
-<!ENTITY aboutPrivateBrowsing.subtitle "В этом окне &brandShortName; не будет запоминать никакой истории.">
-<!ENTITY aboutPrivateBrowsing.forgotten "В этом окне &brandShortName; не будет запоминать:">
-<!ENTITY aboutPrivateBrowsing.info.forgotten "Забыто">
+<!ENTITY aboutPrivateBrowsing.info.notsaved "Не сохраняются">
 <!ENTITY aboutPrivateBrowsing.info.history "История">
 <!ENTITY aboutPrivateBrowsing.info.searches "Поиски">
 <!ENTITY aboutPrivateBrowsing.info.cookies "Куки">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Временные файлы">
-<!ENTITY aboutPrivateBrowsing.kept "&brandShortName; будет сохранять:">
-<!ENTITY aboutPrivateBrowsing.info.kept "Сохранено">
+<!ENTITY aboutPrivateBrowsing.info.saved "Сохраняются">
 <!ENTITY aboutPrivateBrowsing.info.downloads "Загрузки">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks "Закладки">
 <!ENTITY aboutPrivateBrowsing.note1 "Обратите внимание, что ваш работодатель или интернет-провайдер всё ещё могут следить за тем, какие страницы вы посещаете.">
-<!ENTITY aboutPrivateBrowsing.learnMore "Подробнее.">
+<!ENTITY aboutPrivateBrowsing.learnMore "Подробнее">
 <!ENTITY trackingProtection.width1 "22em">
 <!ENTITY trackingProtection.title "Защита от отслеживания">
 <!ENTITY trackingProtection.state.width "6ch">
-<!ENTITY trackingProtection.state.enabled "ВКЛ.">
-<!ENTITY trackingProtection.state.disabled "ОТКЛ.">
+<!ENTITY trackingProtection.state.enabled "ВКЛЮЧЕНА">
+<!ENTITY trackingProtection.state.disabled "ОТКЛЮЧЕНА">
 <!ENTITY trackingProtection.description1 "Приватные окна теперь блокируют части страницы, которые могут отслеживать ваше поведение в Интернете.">
 <!ENTITY trackingProtection.disable "Отключить защиту от отслеживания">
 <!ENTITY trackingProtection.enable "Включить защиту от отслеживания">
