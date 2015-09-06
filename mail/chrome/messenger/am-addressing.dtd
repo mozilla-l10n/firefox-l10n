@@ -10,8 +10,8 @@
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
 <!ENTITY useGlobal.label           "Utilizar preferências do meu servidor global LDAP para esta conta">
 <!ENTITY useGlobal.accesskey       "U">
-<!ENTITY editDirectories.label     "A editar diretórios...">
-<!ENTITY editDirectories.accesskey "A">
+<!ENTITY editDirectories.label     "Editar diretórios…">
+<!ENTITY editDirectories.accesskey "E">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "Utilizar outro servidor LDAP:">
 <!ENTITY directories.accesskey     "t">
