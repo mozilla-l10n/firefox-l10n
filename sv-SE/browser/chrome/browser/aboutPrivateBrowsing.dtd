@@ -28,7 +28,7 @@
 <!ENTITY aboutPrivateBrowsing.info.forgotten   "Inte sparat">
 <!ENTITY aboutPrivateBrowsing.info.history     "Historik">
 <!ENTITY aboutPrivateBrowsing.info.searches    "Sökningar">
-<!ENTITY aboutPrivateBrowsing.info.cookies     "Cookies">
+<!ENTITY aboutPrivateBrowsing.info.cookies     "Kakor">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Temporära Filer">
 
 <!ENTITY aboutPrivateBrowsing.kept             "&brandShortName; kommer att spara:">
@@ -54,11 +54,11 @@
      -->
 
 <!ENTITY trackingProtection.state.width        "6ch">
-<!ENTITY trackingProtection.state.enabled      "På">
-<!ENTITY trackingProtection.state.disabled     "Av">
+<!ENTITY trackingProtection.state.enabled      "PÅ">
+<!ENTITY trackingProtection.state.disabled     "AV">
 
-<!ENTITY trackingProtection.description1       "Privata fönster blockerar nu delar av hemsidan som kan spåra de hemsidor du besöker.">
+<!ENTITY trackingProtection.description1       "Privata fönster blockerar nu delar av sidan som kan spåra din surfaktivitet.">
 
 <!ENTITY trackingProtection.disable            "Stäng av Spårningsskydd">
 <!ENTITY trackingProtection.enable             "Sätt på Spårningsskydd">
-<!ENTITY trackingProtection.startTour1         "Se hur det här fungerar">
+<!ENTITY trackingProtection.startTour1         "Se hur det fungerar">
