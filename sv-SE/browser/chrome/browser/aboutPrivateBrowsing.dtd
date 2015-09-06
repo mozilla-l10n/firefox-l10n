@@ -48,7 +48,7 @@
      -->
 
 <!ENTITY trackingProtection.width              "22em">
-<!ENTITY trackingProtection.title              "Spårnings skydd">
+<!ENTITY trackingProtection.title              "Spårningsskydd">
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
