@@ -23,8 +23,8 @@
 <!ENTITY inReplyToField.label "Em-Resposta-Para: ">
 <!ENTITY originalWebsite.label "Página web: ">
 
-<!ENTITY editMessage.label                 "Editar rascunho...">
-<!ENTITY editMessage.accesskey             "r">
+<!ENTITY editMessage.label                 "Editar rascunho…">
+<!ENTITY editMessage.accesskey             "d">
 
 <!ENTITY attachmentsTree.label             "Anexos:">
 <!ENTITY attachmentsTree.accesskey         "x">

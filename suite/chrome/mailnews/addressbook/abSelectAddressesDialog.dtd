@@ -14,7 +14,7 @@
 <!ENTITY bccButton.accesskey                 "B">  
 <!ENTITY newButton.label                     "Novo..."> 
 <!ENTITY newButton.accesskey                 "N"> 
-<!ENTITY editButton.label                    "Editar..."> 
+<!ENTITY editButton.label                    "Editar…"> 
 <!ENTITY editButton.accesskey                "E">
 <!ENTITY removeButton.label                  "Remover"> 
 <!ENTITY removeButton.accesskey              "R"> 
