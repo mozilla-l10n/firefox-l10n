@@ -66,8 +66,6 @@
 <!ENTITY edit_mode_cancel "Anuluj">
 
 <!ENTITY close_tab "Zamknij kartę">
-<!ENTITY tab_audio_playing "Karta odtwarza dźwięk">
-<!ENTITY tab_audio_muted "Wyciszona karta">
 <!ENTITY new_tab "Nowa karta">
 <!ENTITY one_tab "Kart: 1">
 <!ENTITY new_tab_opened "Otwarto nową kartę">
