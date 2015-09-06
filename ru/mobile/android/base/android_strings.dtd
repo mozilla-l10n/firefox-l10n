@@ -40,8 +40,9 @@
 <!ENTITY bookmark_options "Настройки">
 <!ENTITY history_today_section "Сегодня">
 <!ENTITY history_yesterday_section "Вчера">
-<!ENTITY history_week_section2 "Прошлая неделя">
-<!ENTITY history_older_section2 "Прошлый месяц">
+<!ENTITY history_week_section3 "Последние 7 дней">
+<!ENTITY history_this_month_section "Этот месяц">
+<!ENTITY history_older_section3 "Старше 6 месяцев">
 <!ENTITY go "Перейти">
 <!ENTITY search "Поиск">
 <!ENTITY reload "Обновить">
@@ -52,13 +53,12 @@
 <!ENTITY site_security "Защита сайта">
 <!ENTITY edit_mode_cancel "Отмена">
 <!ENTITY close_tab "Закрыть вкладку">
-<!ENTITY tab_audio_playing "В этой вкладке играет аудио">
-<!ENTITY tab_audio_muted "В этой вкладке убран звук">
 <!ENTITY one_tab "1 вкладка">
 <!ENTITY num_tabs2 "&formatD; вкладок">
 <!ENTITY new_tab_opened "Открыта новая вкладка">
 <!ENTITY new_private_tab_opened "Открыта новая приватная вкладка">
 <!ENTITY switch_button_message "ПЕРЕЙТИ">
+<!ENTITY tab_title_prefix_is_playing_audio "Воспроизведение аудио – &formatS;">
 <!ENTITY settings "Параметры">
 <!ENTITY settings_title "Параметры">
 <!ENTITY pref_category_input_options "Настройки ввода">
@@ -161,7 +161,6 @@
 <!ENTITY pref_plugins_tap_to_play "По нажатию">
 <!ENTITY pref_plugins_disabled "Отключены">
 <!ENTITY pref_text_size "Размер текста">
-<!ENTITY pref_reflow_on_zoom4 "Перерисовка текста">
 <!ENTITY pref_restore "Вкладки">
 <!ENTITY pref_restore_always "Всегда восстанавливать">
 <!ENTITY pref_restore_quit "Не восстанавливать после выхода из &brandShortName;">
@@ -238,6 +237,7 @@
 <!ENTITY share_title "Поделиться через">
 <!ENTITY share_image_failed "Не удалось поделиться этим изображением">
 <!ENTITY save_as_pdf "Сохранить как PDF">
+<!ENTITY print "Печать">
 <!ENTITY find_in_page "Найти на странице">
 <!ENTITY desktop_mode "Полная версия сайта">
 <!ENTITY page "Страница">
@@ -430,3 +430,9 @@
 <!ENTITY restriction_disallow_clear_history_title2 "Отключить \'Удаление истории веб-сёрфинга\'">
 <!ENTITY restriction_disallow_master_password_title2 "Отключить мастер-пароль">
 <!ENTITY restriction_disallow_guest_browsing_title2 "Отключить Гостевой веб-серфинг">
+<!ENTITY bookmarks_about_browser "Firefox: О вашем браузере">
+<!ENTITY bookmarks_addons "Firefox: Настройка с помощью дополнений">
+<!ENTITY bookmarks_support "Firefox: Поддержка">
+<!ENTITY bookmarks_marketplace "Firefox Marketplace">
+<!ENTITY bookmarks_restricted_support "Справка и поддержка Firefox для упрощённой и понятной для детей версии Firefox">
+<!ENTITY bookmarks_restricted_webmaker "Научитесь создавать Интернет: Mozilla Вебмейкер">

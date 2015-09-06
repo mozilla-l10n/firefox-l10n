@@ -12,5 +12,8 @@
 <!ENTITY cmd.open.accesskey "ы">
 <!ENTITY cmd.removeFromHistory.label "Удалить из истории">
 <!ENTITY cmd.removeFromHistory.accesskey "а">
-<!ENTITY cmd.clearDownloads.label "Очистить загрузки">
-<!ENTITY cmd.clearDownloads.accesskey "и">
+<!ENTITY cmd.clearList.label "Очистить список">
+<!ENTITY cmd.clearList.accesskey "и">
+<!ENTITY cmd.clearList.tooltip "Удалить все записи из списка сохранённых файлов, за исключением текущих загрузок.">
+<!ENTITY cmd.searchDownloads.label "Поиск…">
+<!ENTITY cmd.searchDownloads.key "F">
