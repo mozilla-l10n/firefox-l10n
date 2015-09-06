@@ -574,3 +574,10 @@ it is applicable. -->
 <!ENTITY restriction_disallow_master_password_title2 "Wyłącz hasło główne">
 <!ENTITY restriction_disallow_guest_browsing_title2 "Wyłącz tryb gościnny">
 
+<!ENTITY bookmarks_title "Mozilla Firefox">
+<!ENTITY bookmarks_about_browser "Firefox: O przeglądarce">
+<!ENTITY bookmarks_addons "Firefox: Dostosuj dodatkami">
+<!ENTITY bookmarks_support "Firefox: Pomoc">
+<!ENTITY bookmarks_marketplace "Firefox Marketplace">
+<!ENTITY bookmarks_restricted_support "Firefox: Pomoc dla uproszczonej wersji przeglądarki Firefox dla dzieci">
+<!ENTITY bookmarks_restricted_webmaker "Twórz Internet: Mozilla Webmaker">
