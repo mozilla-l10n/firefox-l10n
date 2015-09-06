@@ -714,8 +714,8 @@
 <!ENTITY contextOpenConversation.accesskey "n">
 <!ENTITY contextOpenContainingFolder.label "Abrir mensagem na pasta">
 <!ENTITY contextOpenContainingFolder.accesskey "n">
-<!ENTITY contextEditMsgAsNew.label "Editar como nova...">
-<!ENTITY contextEditMsgAsNew.accesskey "d">
+<!ENTITY contextEditMsgAsNew.label "Editar como nova">
+<!ENTITY contextEditMsgAsNew.accesskey "E">
 <!ENTITY contextArchive.label "Arquivar">
 <!ENTITY contextArchive.accesskey "q">
 <!ENTITY contextReplySender.label "Responder apenas ao remetente">
@@ -844,7 +844,7 @@
 <!ENTITY AddToAddressBook.accesskey "A">
 <!ENTITY AddDirectlyToAddressBook.label "Adicionar ao livro de endereços">
 <!ENTITY AddDirectlyToAddressBook.accesskey "v">
-<!ENTITY EditContact1.label "Editar contacto...">
+<!ENTITY EditContact1.label "Editar contacto">
 <!ENTITY EditContact1.accesskey "E">
 <!ENTITY ViewContact.label "Ver contacto">
 <!ENTITY ViewContact.accesskey "V">
