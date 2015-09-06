@@ -592,8 +592,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_button_import "Импорттау">
 <!ENTITY bookmarkhistory_import_both "Бетбелгілер және тарихты 
 Android-тан импорттау">
-<!ENTITY bookmarkhistory_import_bookmarks "Бетбелгілерді Android-тан импорттау">
-<!ENTITY bookmarkhistory_import_history "Тарихты Android-тан импорттау">
+<!ENTITY bookmarkhistory_import_bookmarks "Бетбелгілерді Android-тан 
+импорттау">
+<!ENTITY bookmarkhistory_import_history "Тарихты Android-тан 
+импорттау">
 <!ENTITY bookmarkhistory_import_wait "Күте тұрыңыз…">
 
 <!ENTITY suggestions_prompt3 "Іздеу ұсыныстарын іске қосу керек пе?">
