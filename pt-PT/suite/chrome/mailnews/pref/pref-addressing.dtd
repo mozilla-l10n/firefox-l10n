@@ -18,5 +18,5 @@
 <!ENTITY directories.label                     "Diretório do servidor:">
 <!ENTITY directories.accesskey                 "D">
 <!ENTITY directoriesNone.label                 "Nenhuma">
-<!ENTITY editDirectories.label                 "Editar pastas...">
+<!ENTITY editDirectories.label                 "Editar diretórios…">
 <!ENTITY editDirectories.accesskey             "E">

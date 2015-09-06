@@ -9,7 +9,7 @@
 
 <!ENTITY smtpListAdd.label  "Adicionar...">
 <!ENTITY smtpListAdd.accesskey  "A">
-<!ENTITY smtpListEdit.label "Editar...">
+<!ENTITY smtpListEdit.label "Editar…">
 <!ENTITY smtpListEdit.accesskey "E">
 <!ENTITY smtpListDelete.label "Apagar">
 <!ENTITY smtpListDelete.accesskey "g">
