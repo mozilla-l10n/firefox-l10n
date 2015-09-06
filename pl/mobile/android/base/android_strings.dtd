@@ -302,6 +302,7 @@ size. -->
 <!ENTITY share_title "Udostępnij przez">
 <!ENTITY share_image_failed "Tego obrazka nie można udostępnić">
 <!ENTITY save_as_pdf "Zapisz jako PDF">
+<!ENTITY print "Drukuj">
 <!ENTITY desktop_mode "Tryb stacjonarny">
 <!ENTITY page "Strona">
 <!ENTITY find_in_page "Znajdź na stronie">
