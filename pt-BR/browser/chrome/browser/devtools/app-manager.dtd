@@ -9,10 +9,10 @@
 
 <!ENTITY device.debugMainProcess "Depurar processo principal">
 <!ENTITY device.debugMainProcessTooltip "Abrir as ferramentas do desenvolvedor conectadas ao processo principal no dispositivo">
-<!ENTITY device.screenshot "Imagem da página">
+<!ENTITY device.screenshot "Captura de tela">
 <!ENTITY device.screenshotTooltip "Abrir a captura de tela do estado atual do dispositivo em uma nova aba">
 <!ENTITY device.title "Centro de controle do dispositivo">
-<!ENTITY device.notConnected "Não conectado. Por favor, conecte abaixo o seu dispositivo.">
+<!ENTITY device.notConnected "Não conectado. Por favor, conecte o seu dispositivo abaixo.">
 <!ENTITY device.startApp "Iniciar">
 <!ENTITY device.startAppTooltip "Iniciar este aplicativo no dispositivo">
 <!ENTITY device.stopApp "Parar">
@@ -20,12 +20,12 @@
 <!ENTITY device.debugApp "Depurar">
 <!ENTITY device.debugAppTooltip "Abrir as ferramentas do desenvolvedor conectadas a este aplicativo no dispositivo">
 <!ENTITY device.name "Nome">
-<!ENTITY device.plain "Normal (padrão)">
+<!ENTITY device.plain "Simples (padrão)">
 <!ENTITY device.privileged "Privilegiado">
 <!ENTITY device.certified "Certificado">
 <!ENTITY device.allow "Permitir">
 <!ENTITY device.allowTooltip "Esta permissão pode ser concedida para aplicativos deste tipo">
-<!ENTITY device.prompt "Confirmação">
+<!ENTITY device.prompt "Prompt">
 <!ENTITY device.promptTooltip "Esta permissão necessita da confirmação do usuário para aplicativos deste tipo">
 <!ENTITY device.deny "Negar">
 <!ENTITY device.denyTooltip "Esta permissão não pode ser concedida para aplicativos deste tipo">
