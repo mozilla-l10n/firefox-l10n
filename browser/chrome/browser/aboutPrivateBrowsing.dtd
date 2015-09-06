@@ -13,6 +13,8 @@
      of the Tracking Protection section, and in general not much larger than
      30em to prevent the sections from wrapping on smaller window sizes.
      -->
+
+<!ENTITY aboutPrivateBrowsing.width            "30em">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
      aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
      These strings will be replaced by aboutPrivateBrowsing.forgotten and
@@ -22,13 +24,15 @@
 <!ENTITY aboutPrivateBrowsing.title            "Anda melayari secara privasi">
 <!ENTITY aboutPrivateBrowsing.subtitle         "Dalam tetingkap ini, &brandShortName; tidak akan menyimpan sebarang sejarah.">
 
-
+<!ENTITY aboutPrivateBrowsing.forgotten        "Dalam tetingkap ini, &brandShortName; tidak akan menyimpan sebarang sejarah:">
+<!ENTITY aboutPrivateBrowsing.info.forgotten   "Tidak Simpan">
 <!ENTITY aboutPrivateBrowsing.info.history     "Sejarah">
-
+<!ENTITY aboutPrivateBrowsing.info.searches    "Carian">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Cookie">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Fail Sementara">
 
-
+<!ENTITY aboutPrivateBrowsing.kept             "&brandShortName; akan menyimpan:">
+<!ENTITY aboutPrivateBrowsing.info.kept        "Simpan">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Muat turun">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Penandabuku">
 
@@ -50,8 +54,8 @@
      -->
 
 <!ENTITY trackingProtection.state.width        "6ch">
-
-
+<!ENTITY trackingProtection.state.enabled      "Hidupkan">
+<!ENTITY trackingProtection.state.disabled     "Matikan">
 
 <!ENTITY trackingProtection.description1       "Tetingkap Persendirian kini menghalang sebahagian daripada halaman yang mungkin menjejaki aktiviti pelayaran anda.">
 
