@@ -46,6 +46,8 @@
 
 <!ENTITY rights2.webservices-header "&brandFullName; Web-Based Information Services">
 <!-- point 5 -->
+
+<!ENTITY rights.intro-point5 "कुछ विशिष्ट प्रकार के वीडियोस को चलाने के लिए, &brandShortName; अन्य पक्षों की मदद से डीक्रिप्शन मॉड्यूल डाउनलोड करता है.">
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
      the UI, without this page being forgotten every time those strings are
