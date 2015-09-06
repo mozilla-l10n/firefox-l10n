@@ -22,14 +22,14 @@
      -->
 
 <!ENTITY aboutPrivateBrowsing.title            "Du besöker webbsidor privat">
-<!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; kommer inte spara någon historik för det här fönstret.">
+<!ENTITY aboutPrivateBrowsing.subtitle         "I det här fönstret, kommer &brandShortName; inte spara någon historik.">
 
 <!ENTITY aboutPrivateBrowsing.forgotten        "I det här fönstret kommer &brandShortName; inte att spara:">
 <!ENTITY aboutPrivateBrowsing.info.forgotten   "Inte sparat">
 <!ENTITY aboutPrivateBrowsing.info.history     "Historik">
 <!ENTITY aboutPrivateBrowsing.info.searches    "Sökningar">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Kakor">
-<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Temporära Filer">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Temporära filer">
 
 <!ENTITY aboutPrivateBrowsing.kept             "&brandShortName; kommer att spara:">
 <!ENTITY aboutPrivateBrowsing.info.kept        "Sparat">
