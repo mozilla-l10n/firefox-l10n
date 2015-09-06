@@ -210,10 +210,6 @@
   -  in a "receive" state. -->
 <!ENTITY netmonitorUI.timings.receive     "Recibiendo:">
 
-<!-- LOCALIZATION NOTE (netmonitorUI.security.warning.protocol): A tooltip
-  -  for warning icon that indicates a connection uses insecure protocol. -->
-<!ENTITY netmonitorUI.security.warning.sslv3      "El protocolo SSL 3.0 es obsoleto e inseguro.">
-
 <!-- LOCALIZATION NOTE (netmonitorUI.security.warning.cipher): A tooltip
   -  for warning icon that indicates a connection uses insecure cipher suite. -->
 <!ENTITY netmonitorUI.security.warning.cipher     "El cifrado usado es obsoleto e inseguro.">
