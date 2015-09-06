@@ -46,6 +46,8 @@
 
 <!ENTITY rights2.webservices-header "សេវា​ព័ត៌មាន​ដែល​ផ្អែកលើ​បណ្ដាញ​របស់ &brandFullName;">
 <!-- point 5 -->
+
+<!ENTITY rights.intro-point5 "ដើម្បី​ចាក់​​ប្រភេទ​ជាក់​លាក់​នៃ​វីដេអូ​ឡើង​វិញ​ &brandShortName; ទាញ​យក​ម៉ូឌុល​ឌីគ្រីប​​មាតិកា​ជាក់​លាក់​ពី​ភាគី​ទី​បី">
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
      the UI, without this page being forgotten every time those strings are
