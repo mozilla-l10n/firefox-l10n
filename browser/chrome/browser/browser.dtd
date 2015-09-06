@@ -711,7 +711,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.enableMixedContentBlocking.label "Aktivera skydd">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "A">
-<!ENTITY identity.disableMixedContentBlocking.label "Inaktivera skydd tillfälligt ">
+<!ENTITY identity.disableMixedContentBlocking.label "Inaktivera skydd tillfälligt">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "I">
 <!ENTITY identity.learnMore "Lär dig mer">
 
@@ -793,7 +793,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Ljud från denna fliken kommer att delas.">
 <!ENTITY getUserMedia.allWindowsShared.message "Alla synliga fönster på din skärm kommer att delas.">
 
-<!ENTITY trackingProtection.title "Spårnings skydd">
+<!ENTITY trackingProtection.title "Spårningsskydd">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blockerar delar av sidan som kan spåra din surfning.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Den här webbplatsen innehåller element som kan spåra din surfning. Ditt skydd är inaktiverat.">
 <!ENTITY trackingProtection.notDetected3 "Inga spårningselement upptäcka på den här sidan.">
