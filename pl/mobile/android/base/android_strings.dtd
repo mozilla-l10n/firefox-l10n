@@ -207,7 +207,6 @@ selected to be added to the home page. -->
 <!ENTITY pref_plugins_tap_to_play "Stuknij, aby odtworzyć">
 <!ENTITY pref_plugins_disabled "Wyłączone">
 <!ENTITY pref_text_size "Rozmiar tekstu">
-<!ENTITY pref_reflow_on_zoom4 "Zmień układ tekstu">
 <!ENTITY pref_restore "Karty">
 <!ENTITY pref_restore_always "Przywracaj zawsze">
 <!ENTITY pref_restore_quit "Nie przywracaj po wyłączeniu przeglądarki &brandShortName;">
