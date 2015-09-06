@@ -8,7 +8,7 @@
 <!ENTITY searchBar.tooltip               "Barra de pesquisa">
 
 <!ENTITY search.placeholder              "Pesquise descargas">
-<!ENTITY search.label                    "Pesquisar nas descargas">
+<!ENTITY search.label                    "Pesquise descargas">
 <!ENTITY search.accesskey                "s">
 <!ENTITY search.key                      "f">
 
