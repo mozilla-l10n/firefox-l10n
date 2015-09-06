@@ -95,7 +95,8 @@
 <!ENTITY proxyConnectFailure.title "Прокси сервері сұранымдарды үзіп тұр">
 <!ENTITY proxyConnectFailure.longDesc "<ul> 
 <li>Прокси баптауларын дұрыс болуына тексеріңіз.</li> 
-<li>Прокси жұмыс істеуіне көз жеткізу үшін желі әкімшіңізбен хабарласыңыз.</li> 
+<li>Прокси жұмыс істеуіне көз жеткізу үшін желі әкімшіңізбен 
+хабарласыңыз.</li> 
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Прокси сервері табылмады">
@@ -110,7 +111,8 @@
 
 <!ENTITY redirectLoop.title "Парақтағы бағдарлау дұрыс емес">
 <!ENTITY redirectLoop.longDesc "<ul> 
-<li>Бұл мәселе анда-санда cookies қабылдау сөндірілген кезде болуы мүмкін.</li> 
+<li>Бұл мәселе анда-санда cookies қабылдау сөндірілген кезде болуы 
+мүмкін.</li> 
 </ul>">
 
 <!ENTITY unknownSocketType.title "Сервердің жауабы күтпеген түрде">
