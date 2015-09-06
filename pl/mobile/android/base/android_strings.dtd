@@ -75,6 +75,7 @@
 as possible because it's shown as a label in a toast.  Ideally, this string
 is upper-case, to match Google and Android's convention. -->
 <!ENTITY switch_button_message "PRZEJDŹ">
+<!ENTITY tab_title_prefix_is_playing_audio "Odtwarza dźwięk – &formatS;">
 
 <!ENTITY settings "Ustawienia">
 <!ENTITY settings_title "Ustawienia">
