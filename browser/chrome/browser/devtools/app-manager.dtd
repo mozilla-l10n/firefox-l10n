@@ -26,7 +26,7 @@
 <!ENTITY device.allow "Permitir">
 <!ENTITY device.allowTooltip "Esta permissão pode ser concedida para aplicativos deste tipo">
 <!ENTITY device.prompt "Prompt">
-<!ENTITY device.promptTooltip "Esta permissão necessita da confirmação do usuário para aplicativos deste tipo">
+<!ENTITY device.promptTooltip "Esta permissão requer um prompt do usuário para aplicativos deste tipo">
 <!ENTITY device.deny "Negar">
 <!ENTITY device.denyTooltip "Esta permissão não pode ser concedida para aplicativos deste tipo">
 <!ENTITY device.installedApps "Aplicativos instalados">
