@@ -18,7 +18,7 @@
      These strings will be replaced by aboutPrivateBrowsing.forgotten and
      aboutPrivateBrowsing.kept when the new visual design lands (bug 1192625).
      -->
-<!ENTITY aboutPrivateBrowsing.title            "Ви прегледавате у приватном режиму">
+<!ENTITY aboutPrivateBrowsing.title            "Прегледавате у приватном режиму">
 <!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; неће запамтити никакву историју за овај прозор.">
 
 <!ENTITY aboutPrivateBrowsing.forgotten        "У овом прозору, &brandShortName; неће памтити:">
@@ -33,7 +33,7 @@
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Преузимања">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Забелешке">
 
-<!ENTITY aboutPrivateBrowsing.note1            "Имајте у виду да послодавац или интернет провајдер и даље могу да прате странице које посетите.">
+<!ENTITY aboutPrivateBrowsing.note1            "Имајте у виду да послодавац или интернет провајдер и даље могу да прате које странице посећујете.">
 <!ENTITY aboutPrivateBrowsing.learnMore        "Сазнајте више.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.width):
@@ -46,7 +46,7 @@
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
-<!ENTITY trackingProtection.state.width        "6ch">
+<!ENTITY trackingProtection.state.width        "12ch">
 <!ENTITY trackingProtection.state.enabled      "Укључена">
 <!ENTITY trackingProtection.state.disabled     "Искључена">
 

@@ -692,7 +692,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionInternal "Ово је безбедна &brandShortName; страница.">
 
 <!-- Strings for connection state warnings. -->
-<!ENTITY identity.activeBlocked "&brandShortName; has blocked parts of this page that are not secure.">
+<!ENTITY identity.activeBlocked "&brandShortName; је блокирао делове странице које нису безбедне.">
 <!ENTITY identity.passiveLoaded "Делови ове странице нису безбедни (као што су слике).">
 <!ENTITY identity.activeLoaded "Заштита на овој страници је искључена.">
 <!ENTITY identity.weakEncryption "Страница користи слабо шифровање.">
