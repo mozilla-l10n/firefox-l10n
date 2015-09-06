@@ -200,7 +200,7 @@
 <!ENTITY pref_tracking_protection_title "Apsauga nuo stebėjimo">
 <!ENTITY pref_tracking_protection_summary3 "Įjungta privačiame naršyme">
 <!ENTITY pref_donottrack_title "Nestebėti">
-<!ENTITY pref_donottrack_summary "&brandShortName; praneš svetainėms, kad jūs nenorite būti stebimi">
+<!ENTITY pref_donottrack_summary "„&brandShortName;“ praneš svetainėms, kad jūs nenorite būti stebimi">
 
 <!ENTITY tracking_protection_prompt_title "Dabar ir su apsauga nuo stebėjimo">
 <!ENTITY tracking_protection_prompt_text "Aktyviai blokuoti stebėjimo elementus, kad jums nereikėtų jaudintis.">
@@ -476,7 +476,7 @@ size. -->
 
 <!ENTITY firstrun_panel_title_welcome "Sveiki">
 
-<!ENTITY home_top_sites_title "Lankomiausios">
+<!ENTITY home_top_sites_title "Lankomiausi">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Pridėti svetainę">
