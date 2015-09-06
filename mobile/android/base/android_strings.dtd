@@ -55,8 +55,9 @@
 
 <!ENTITY history_today_section "Hoy">
 <!ENTITY history_yesterday_section "Ayer">
-<!ENTITY history_week_section2 "La semana pasada">
-<!ENTITY history_older_section2 "El mes pasado">
+<!ENTITY history_week_section3 "Últimos 7 días">
+<!ENTITY history_this_month_section "Este mes">
+<!ENTITY history_older_section3 "Más de 6 meses">
 
 <!ENTITY go "Ir">
 <!ENTITY search "Buscar">
@@ -69,8 +70,6 @@
 <!ENTITY edit_mode_cancel "Cancelar">
 
 <!ENTITY close_tab "Cerrar pestaña">
-<!ENTITY tab_audio_playing "Esta pestaña está reproduciendo audio">
-<!ENTITY tab_audio_muted "Esta pestaña ha sido enmudecida">
 <!ENTITY one_tab "1 pestaña">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -81,6 +80,14 @@
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
 <!ENTITY switch_button_message "CAMBIAR">
+<!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
+     visible in the UI, but rather used as a text-to-speech content description
+     for sight-impaired a11y users. The content description is set on a tab
+     title in a list of open tabs when content in that tab is playing audio.
+     &formatS; will be replaced with the title of the tab, as received from the
+     web page. When audio is not playing in a tab, &formatS; will be used as
+     the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "Reproduciendo audio – &formatS;">
 
 <!ENTITY settings "Configuración">
 <!ENTITY settings_title "Configuración">
@@ -348,6 +355,7 @@ size. -->
 <!ENTITY share_title "Compartir vía">
 <!ENTITY share_image_failed "No se puede compartir esta imagen">
 <!ENTITY save_as_pdf "Guardar como PDF">
+<!ENTITY print "Imprimir">
 <!ENTITY find_in_page "Buscar en la página">
 <!ENTITY desktop_mode "Pedir versión de escritorio">
 <!ENTITY page "Página">
@@ -706,3 +714,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restriction_disallow_master_password_title2 "Deshabilitar contraseña maestra">
 <!ENTITY restriction_disallow_guest_browsing_title2 "Deshabilitar navegación de invitado">
 
+<!-- Default Bookmarks titles-->
+<!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
+<!ENTITY bookmarks_title "Móvil">
+<!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!ENTITY bookmarks_about_browser "Firefox: Acerca del navegador">
+<!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "Firefox: Personalizar con complementos">
+<!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "Firefox: Soporte">
+<!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
+<!ENTITY bookmarks_marketplace "Firefox Marketplace">
+<!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/kids -->
+<!ENTITY bookmarks_restricted_support "Ayuda y soporte de Firefox para una versión simplificada de Firefox especial para niños">
+<!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!ENTITY bookmarks_restricted_webmaker "Conozca la web: Mozilla Webmaker">
