@@ -8,4 +8,4 @@
 <!ENTITY aboutAccountsConfig.description "Daftar masuk untuk sync tab anda, penanda halaman, kata laluan &amp; lain-lain.">
 <!ENTITY aboutAccountsConfig.startButton.label "Mulakan">
 <!ENTITY aboutAccountsConfig.useOldSync.label "Menggunakan versi lama Sync?">
-
+<!ENTITY aboutAccountsConfig.syncPreferences.label "Buka keutamaan">
