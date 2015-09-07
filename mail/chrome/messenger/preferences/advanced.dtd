@@ -7,8 +7,8 @@
 <!ENTITY itemUpdate.label        "Atualizações">
 <!ENTITY itemNetworking.label    "Rede e espaço em disco">
 <!ENTITY itemCertificates.label  "Certificados">
-<!-- General Settings -->
 
+<!-- General Settings -->
 <!ENTITY enableGlodaSearch.label       "Ativar pesquisa global e indexação">
 <!ENTITY enableGlodaSearch.accesskey   "A">
 <!ENTITY allowHWAccel.label            "Usar aceleração de hardware quando disponível">
@@ -37,8 +37,8 @@
 <!ENTITY returnReceiptsInfo.label      "Determine como o &brandShortName; trata as confirmações de leitura.">
 <!ENTITY showReturnReceipts.label      "Confirmações de leitura…">
 <!ENTITY showReturnReceipts.accesskey  "C">
-<!-- Data Choices -->
 
+<!-- Data Choices -->
 <!ENTITY telemetrySection.label          "Telemetria">
 <!ENTITY telemetryDesc.label             "Compartilha o desempenho, a utilização, o hardware e os dados de personalização sobre o cliente de e-mail com a &vendorShortName; para ajudar a melhorar o &brandShortName;">
 <!ENTITY enableTelemetry.label           "Ativar telemetria">
@@ -50,8 +50,8 @@
 <!ENTITY enableCrashReporter.label       "Ativar o Crash Reporter">
 <!ENTITY enableCrashReporter.accesskey   "C">
 <!ENTITY crashReporterLearnMore.label    "Saiba mais">
-<!-- Update -->
 
+<!-- Update -->
 <!ENTITY updateApp.label                 "Atualizações do &brandShortName;:">
 <!ENTITY updateAuto.label                "Instalar atualizações automaticamente (recomendado: melhoria da segurança)">
 <!ENTITY updateAuto.accesskey            "a">
@@ -66,8 +66,8 @@
 
 <!ENTITY useService.label                "Usar um serviço em segundo plano para instalar atualizações">
 <!ENTITY useService.accesskey            "s">
-<!-- Networking and Disk Space -->
 
+<!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Configurar conexão…">
 <!ENTITY showSettings.accesskey        "C">
 <!ENTITY proxiesConfigure.label        "Determine como o &brandShortName; conecta-se à internet.">
@@ -81,20 +81,20 @@
 <!ENTITY offlineCompactFolders.label     "Condensar todas as pastas se puder liberar pelo menos">
 <!ENTITY offlineCompactFolders.accesskey "n">
 <!ENTITY offlineCompactFoldersMB.label   "MB">
+
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-
 <!ENTITY useCacheBefore.label            "Usar no máximo">
 <!ENTITY useCacheBefore.accesskey        "s">
 <!ENTITY useCacheAfter.label             "MB de espaço para o cache">
 <!ENTITY clearCacheNow.label             "Limpar cache agora">
 <!ENTITY clearCacheNow.accesskey         "L">
-<!-- Certificates -->
 
+<!-- Certificates -->
 <!ENTITY certSelection.description       "Quando um servidor solicitar meu certificado pessoal:">
 <!ENTITY certs.auto                      "Selecionar um automaticamente">
 <!ENTITY certs.auto.accesskey            "S">

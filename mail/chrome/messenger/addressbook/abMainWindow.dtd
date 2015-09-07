@@ -39,8 +39,8 @@
 <!ENTITY printContactCmd.key                            "p">
 <!ENTITY printAddressBook.label                         "Imprimir catálogo de endereços…">
 <!ENTITY printAddressBook.accesskey                     "a">
-<!-- Edit Menu -->
 
+<!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Editar">
 <!ENTITY editMenu.accesskey                             "E">
 <!ENTITY undoCmd.label                                  "Desfazer">
@@ -78,8 +78,8 @@
 <!ENTITY propertiesCmd2.label                           "Propriedades">
 <!ENTITY propertiesCmd2.accesskey                       "P">
 <!ENTITY propertiesCmd.key                              "i">
-<!-- View Menu -->
 
+<!-- View Menu -->
 <!ENTITY viewMenu.label                                 "Exibir">
 <!ENTITY viewMenu.accesskey                             "x">
 <!ENTITY viewToolbarsMenu.label                         "Barras de ferramentas">
@@ -110,8 +110,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY displayNameCmd.accesskey                       "m">
 <!ENTITY sortMenu.label                                 "Ordenar por">
 <!ENTITY sortMenu.accesskey                             "d">
-<!-- Tools Menu -->
 
+<!-- Tools Menu -->
 <!ENTITY tasksMenu.label                                "Ferramentas">
 <!ENTITY tasksMenu.accesskey                            "F">
 <!ENTITY messengerCmd.label                             "Mensagens">
@@ -127,8 +127,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY preferencesCmd2.accesskey                      "O">
 <!ENTITY preferencesCmdUnix.label                       "Preferências">
 <!ENTITY preferencesCmdUnix.accesskey                   "P">
-<!-- Address Book Toolbar and Context Menus -->  
 
+<!-- Address Book Toolbar and Context Menus -->  
 <!ENTITY newContactButton.label                         "Novo contato">
 <!ENTITY newContactButton.accesskey                     "N">
 <!ENTITY newlistButton.label                            "Nova lista">
@@ -141,26 +141,26 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newIM.accesskey                                "M">
 <!ENTITY deleteButton2.label                            "Excluir">
 <!ENTITY deleteButton2.accesskey                        "x">
-<!-- Address Book Toolbar Tooltips -->
 
+<!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "Criar um novo contato de catálogo de endereços">
 <!ENTITY newlistButton.tooltip                          "Criar uma nova lista">
 <!ENTITY editButton2.tooltip                            "Editar o item selecionado">
 <!ENTITY newmsgButton.tooltip                           "Nova mensagem">
 <!ENTITY newIM.tooltip                                  "Enviar uma mensagem instantânea ou de bate-papo">
 <!ENTITY deleteButton2.tooltip                           "Excluir o item selecionado">
+
 <!-- Dir Tree header -->
-
 <!ENTITY dirTreeHeader.label                            "Catálogos de endereços">
-<!-- Search Bar -->
 
+<!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Localizar nome ou e-mail">
 <!ENTITY SearchNameOrEmail.accesskey                    "z">
 <!ENTITY advancedButton.tooltip                         "Mais opções de pesquisa">
 <!ENTITY quickSearchCmd.key                             "K">
 <!ENTITY searchItem.title "Busca Rápida">
-<!-- Results Pane -->
 
+<!-- Results Pane -->
 <!ENTITY Addrbook.label                                 "Catálogo de endereços">
 <!ENTITY Addrbook.accesskey                             "e">
 <!ENTITY GeneratedName.label                            "Nome">
@@ -195,9 +195,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY sortDescending.accesskey                       "r">
 <!ENTITY _PhoneticName.label                            "Nome fonético">
 <!ENTITY _PhoneticName.accesskey                        "f">
+
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
-
 <!ENTITY contact.heading                                "Contato">
 <!ENTITY home.heading                                   "Endereço residencial">
 <!ENTITY other.heading                                  "Outros">
@@ -210,11 +210,11 @@ because displayed names don't have the comma in between. -->
 <!-- For Map It! -->
 <!ENTITY mapItButton.label                              "Mapa">
 <!ENTITY mapIt.tooltip                                  "Exibir um mapa deste endereço web">
+
 <!-- Status Bar -->
-
 <!ENTITY statusText.label "">
-<!--  Mac OS X Window Menu -->
 
+<!--  Mac OS X Window Menu -->
 <!ENTITY windowMenu.label "Janela">
 <!ENTITY minimizeWindow.label "Minimizar">
 <!ENTITY minimizeWindow.key "M">

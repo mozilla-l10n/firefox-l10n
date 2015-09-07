@@ -16,8 +16,8 @@
 <!ENTITY manageSubscriptions.accesskey "I">
 
 <!ENTITY feedWindowTitle.label "Assistente de contas de Feed">
-<!-- entities from rss.rdf -->
 
+<!-- entities from rss.rdf -->
 <!ENTITY feeds.accountName "RSS de blogs e notícias">
 <!ENTITY feeds.wizardShortName "RSS">
 <!ENTITY feeds.wizardLongName "RSS de blogs e notícias">

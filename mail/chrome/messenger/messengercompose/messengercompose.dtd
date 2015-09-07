@@ -1,11 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
-
 <!ENTITY msgComposeWindow.title "Edição: (assunto em branco)">
-<!-- File Menu -->
 
+<!-- File Menu -->
 <!ENTITY fileMenu.label "Arquivo">
 <!ENTITY fileMenu.accesskey "A">
 <!ENTITY newMenu.label "Novo">
@@ -57,8 +57,8 @@
 <!ENTITY printCmd.label "Imprimir…">
 <!ENTITY printCmd.key "p">
 <!ENTITY printCmd.accesskey "I">
-<!-- Edit Menu -->
 
+<!-- Edit Menu -->
 <!ENTITY editMenu.label "Editar">
 <!ENTITY editMenu.accesskey "E">
 <!ENTITY undoCmd.label "Desfazer">
@@ -102,8 +102,8 @@
 <!ENTITY findPrevCmd.accesskey "a">
 <!ENTITY findPrevCmd.key "g">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!-- View Menu -->
 
+<!-- View Menu -->
 <!ENTITY viewMenu.label "Exibir">
 <!ENTITY viewMenu.accesskey "x">
 <!ENTITY viewToolbarsMenuNew.label "Barras de ferramentas">
@@ -121,12 +121,12 @@
 
 <!ENTITY addressSidebar.label "Painel de contatos">
 <!ENTITY addressSidebar.accesskey "a">
-<!-- Format Menu -->
 
+<!-- Format Menu -->
 <!ENTITY formatMenu.label "Formatar">
 <!ENTITY formatMenu.accesskey "m">
-<!-- Options Menu -->
 
+<!-- Options Menu -->
 <!ENTITY optionsMenu.label "Opções">
 <!ENTITY optionsMenu.accesskey "O">
 <!ENTITY checkSpellingCmd2.label "Verificar ortografia…">
@@ -137,8 +137,8 @@
 <!ENTITY enableInlineSpellChecker.accesskey "e">
 <!ENTITY quoteCmd.label "Citar a mensagem">
 <!ENTITY quoteCmd.accesskey "t">
-<!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
 
+<!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCard.label "Anexar vCard">
 <!ENTITY attachVCard.accesskey "v">
 
@@ -174,8 +174,8 @@
 <!ENTITY fileCarbonCopyCmd.label "Guardar uma cópia em">
 <!ENTITY fileCarbonCopyCmd.accesskey "G">
 <!ENTITY fileHereMenu.label "(Nesta pasta)">
-<!-- Tools Menu -->
 
+<!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Ferramentas">
 <!ENTITY tasksMenu.accesskey "F">
 <!ENTITY messengerCmd.label "Mensagens">
@@ -191,15 +191,15 @@
 <!ENTITY preferencesCmd2.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Preferências">
 <!ENTITY preferencesCmdUnix.accesskey "P">
-<!--  Mac OS X Window Menu -->
 
+<!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "M">
 <!ENTITY minimizeWindow.label "Minimizar">
 <!ENTITY bringAllToFront.label "Trazer Todas para Frente">
 <!ENTITY zoomWindow.label "Ampliar/Reduzir">
 <!ENTITY windowMenu.label "Janela">
-<!-- Mail Toolbar -->
 
+<!-- Mail Toolbar -->
 <!ENTITY sendButton.label "Enviar agora">
 <!ENTITY quoteButton.label "Citar">
 <!ENTITY addressButton.label "Contatos">
@@ -207,8 +207,8 @@
 <!ENTITY spellingButton.label "Ortografia">
 <!ENTITY saveButton.label "Salvar">
 <!ENTITY printButton.label "Imprimir">
-<!-- Mail Toolbar Tooltips -->
 
+<!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Enviar esta mensagem agora">
 <!ENTITY sendlaterButton.tooltip "Enviar esta mensagem mais tarde">
 <!ENTITY quoteButton.tooltip "Citar a mensagem anterior">
@@ -220,10 +220,10 @@
 <!ENTITY copyButton.tooltip             "Copiar">
 <!ENTITY pasteButton.tooltip            "Colar">
 <!ENTITY printButton.tooltip "Imprimir a mensagem">
+
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
-
 <!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "De:">
 <!ENTITY fromAddr.accesskey "D">
@@ -238,8 +238,8 @@
 <!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
      to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY attachments.accesskey "n">
-<!-- Format Toolbar, imported from editorAppShell.xul -->
 
+<!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Inserir um smiley">
 <!ENTITY smiley1Cmd.label "Alegre">
 <!ENTITY smiley2Cmd.label "Triste">
@@ -257,8 +257,8 @@
 <!ENTITY smiley14Cmd.label "Ingênuo">
 <!ENTITY smiley15Cmd.label "Choro">
 <!ENTITY smiley16Cmd.label "Boca fechada">
-<!-- Message Pane Context Menu -->
 
+<!-- Message Pane Context Menu -->
 <!ENTITY spellCheckNoSuggestions.label "Nenhuma sugestão">
 <!ENTITY spellCheckIgnoreWord.label "Ignorar palavra">
 <!ENTITY spellCheckIgnoreWord.accesskey "r">
@@ -297,11 +297,11 @@
 <!ENTITY convertRegularAttachment.accesskey "A">
 <!ENTITY attachPage.label "Anexar página da web…">
 <!ENTITY attachPage.accesskey "w">
-<!-- Spell checker context menu items -->
 
+<!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Adicionar dicionários…">
 <!ENTITY spellAddDictionaries.accesskey "A">
-<!-- Title for the address picker panel -->
 
+<!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Contatos">
 
