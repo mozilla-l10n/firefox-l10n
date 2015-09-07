@@ -12,11 +12,13 @@
 <!ENTITY trackingProtectionLearnMore.label "আরো জানতে">
 <!ENTITY trackingProtectionPBM5.label         "ব্যক্তিগত উইন্ডোতে ট্রাকিং সুরক্ষা ব্যবহার করুন v">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
+<!ENTITY trackingProtectionPBMLearnMore.label "আরও জানুন">
 
-
+<!ENTITY  history.label                 "ইতিহাস">
 
 <!ENTITY  locationBar.label             "অবস্থান সূচক বার">
 
+<!ENTITY  locbar.suggest.label          "অবস্থান বার ব্যবহার করার সময় পরামর্শ দিন:">
 <!ENTITY  locbar.history.label          "ইতিহাস (H)">
 <!ENTITY  locbar.history.accesskey      "H">
 
