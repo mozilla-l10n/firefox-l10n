@@ -46,6 +46,8 @@
 
 <!ENTITY rights2.webservices-header "&brandFullName; ওয়েব ভিত্তিক তথ্য সেবা">
 <!-- point 5 -->
+
+<!ENTITY rights.intro-point5 "নির্দিষ্ট ভিডিও কন্টেন্ট ধরনের, &brandShortName; প্লে ব্যাক করার জন্য; তৃতীয় পক্ষের থেকে জনপ্রিয়তা নির্দিষ্ট কন্টেন্ট ডিক্রিপশন মডিউল।">
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
      the UI, without this page being forgotten every time those strings are
