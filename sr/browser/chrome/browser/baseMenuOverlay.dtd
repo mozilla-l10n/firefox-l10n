@@ -23,9 +23,9 @@
 <!ENTITY helpKeyboardShortcuts.label     "Пречице на тастатури">
 <!ENTITY helpKeyboardShortcuts.accesskey "т">
 
-<!ENTITY helpSafeMode.label       "Ресетуј са онемогућеним додацима">
+<!ENTITY helpSafeMode.label       "Рестартуј са онемогућеним додацима">
 <!ENTITY helpSafeMode.accesskey   "д">
-<!ENTITY helpSafeMode.stop.label       "Ресетуј са омогућеним додацима">
+<!ENTITY helpSafeMode.stop.label       "Рестартуј са омогућеним додацима">
 <!ENTITY helpSafeMode.stop.accesskey   "д">
 
 <!ENTITY healthReport2.label      "&brandShorterName; извештај здравља">
