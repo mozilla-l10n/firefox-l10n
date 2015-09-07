@@ -693,3 +693,19 @@ size. -->
 <!ENTITY restriction_disallow_clear_history_title2 "Zakázať \'Vymazať históriu prehliadania\'">
 <!ENTITY restriction_disallow_master_password_title2 "Zakázať hlavné heslo">
 <!ENTITY restriction_disallow_guest_browsing_title2 "Zakázať režim Hosť">
+
+<!-- Default Bookmarks titles-->
+<!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
+<!ENTITY bookmarks_title "Záložky">
+<!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!ENTITY bookmarks_about_browser "Firefox: O vašom prehliadači">
+<!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "Firefox: Prispôsobenie pomocou doplnkov">
+<!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "Firefox: Podpora">
+<! --LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
+<!ENTITY bookmarks_marketplace "Firefox Marketplace">
+<!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/kids -->
+<!ENTITY bookmarks_restricted_support "Pomocník a podpora pre zjednodušenú verziu Firefoxu pre deti">
+<!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!ENTITY bookmarks_restricted_webmaker "Naučte sa web: Mozilla Webmaker">
