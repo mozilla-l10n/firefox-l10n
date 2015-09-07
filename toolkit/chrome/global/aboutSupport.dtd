@@ -104,4 +104,4 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
 
 <!ENTITY aboutSupport.safeModeTitle "Покушај безбедни режим">
-<!ENTITY aboutSupport.restartInSafeMode.label "Ресетуј са онемогућеним додацима…">
+<!ENTITY aboutSupport.restartInSafeMode.label "Рестартуј са онемогућеним додацима…">
