@@ -699,18 +699,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.weakEncryption "Enrinegañ gwan a vez arveret gant ar bajenn-mañ.">
 <!-- Strings for connection state warnings in the subview. -->
 
-<!ENTITY identity.description.weakCipher2 "Gallout a ra tud all sellet ouzh ho titouroù pe kemmañ emzalc'h al lec'hienn.">
+<!ENTITY identity.description.insecure "N'eo ket prevez ho kennask war al lec'hienn-mañ. Gallout a ra an titouroù kinniget ganeoc'h bezañ gwelet gant tud all (gerioù-tremen, kemennadennoù, kartennoù gred en o zouez).">
 
+<!ENTITY identity.description.weakCipher2 "Gallout a ra tud all sellet ouzh ho titouroù pe kemmañ emzalc'h al lec'hienn.">
+<!ENTITY identity.description.activeBlocked "Stanket eo bet gant &brandShortName; lodennoù arvarus er bajennad.">
 <!ENTITY identity.description.passiveLoaded "N'eo ket prevez ho kennask ha galloud a ra an titouroù rannet gant al lec'hienn bezañ gwelet gant tud all.">
 <!ENTITY identity.description.passiveLoaded2 "Endalc'hadoù el lec'hienn-mañ a zo arvarus (skeudennoù, da skouer).">
-
+<!ENTITY identity.description.passiveLoaded3 "Daoust m'eo bet stanked endalc'hadoù gant &brandShortName; e chom endalc'hadoù arvarus er bajennad (skeudennoù, da skouer).">
 <!ENTITY identity.description.activeLoaded "Endalc'hadoù arvarus a zo el lec'hienn (skriptoù, da skouer) ha n'eo ket prevez ho kennask.">
 <!ENTITY identity.description.activeLoaded2 "Gallout a ra an titouroù rannet gant al lec'hienn bezañ gwelet gant tud all (evel gerioù-tremen, kemennadennoù, kartennoù gred, hag all.).">
 
-
+<!ENTITY identity.enableMixedContentBlocking.label "Gweredekaat ar gwarez">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "G">
 <!ENTITY identity.disableMixedContentBlocking.label "Diweredekaat ar gwarez evit poent">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
-
+<!ENTITY identity.learnMore "Gouzout hiroc'h">
 
 <!ENTITY identity.moreInfoLinkText2 "Muioc'h a stlennoù">
 
@@ -792,12 +795,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.title "Gwarez heuliañ">
 <!ENTITY trackingProtection.detectedBlocked3 "Stanket eo lodennoù eus ar bajenn a c'hellfe heuliañ ac'hanoc'h gant &brandShortName;.">
-
+<!ENTITY trackingProtection.detectedNotBlocked3 "Endalc'het eo elfennoù a c'hell heuliañ ho merdeiñ el lec'hienn. Diweredekaet ho peus ar gwarez.">
 <!ENTITY trackingProtection.notDetected3 "N'eo bet dinoet elfenn heuliañ ebet er bajenn.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-
+<!ENTITY trackingProtection.unblock.label "Diweredekaat ar gwarez evit al lec'hienn-mañ">
+<!ENTITY trackingProtection.unblock.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -809,9 +813,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.message "Heuliañ ho roudoù">
 <!ENTITY trackingContentBlocked.moreinfo "Harzet eo bet al lodoù eus ar bajenn a heuilh hoc'h oberiantiz enlinenn.">
 <!ENTITY trackingContentBlocked.learnMore "Gouzout hiroc'h">
-
-
-
+<!ENTITY trackingContentBlocked.options "Dibarzhioù">
+<!ENTITY trackingContentBlocked.unblock2.label "Diweredekaat ar gwarez evit al lec'hienn-mañ">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "Gweredekaat ar gwarez">
 <!ENTITY trackingContentBlocked.block.accesskey "G">
 <!ENTITY trackingContentBlocked.disabled.message "Diweredekaet eo ar gwarez ouzh an heuliañ.">
