@@ -112,6 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignIn.label "Prihlásiť sa k službe &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Otvoriť nastavenia služby &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Obnoviť pripojenie k službe &syncBrand.shortName.label;">
+<!ENTITY fxaUnverified.label "Overte svoj účet">
 <!ENTITY syncStartPanel2.heading "Synchronizácia je zapnutá">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; sa práve začína synchronizovať">
 <!ENTITY syncErrorPanel.heading "Nie je možné pripojiť k službe &syncBrand.shortName.label;">
