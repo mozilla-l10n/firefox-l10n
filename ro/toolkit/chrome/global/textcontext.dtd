@@ -27,10 +27,11 @@
 
 <!ENTITY searchTextBox.clear.label "Curăță">
 
-
-
-
-
-
-
-
+<!ENTITY fillLoginMenu.label          "Precompletare date autentificare">
+<!ENTITY fillLoginMenu.accesskey      "f">
+<!ENTITY fillPasswordMenu.label       "Precompletare parolă">
+<!ENTITY fillPasswordMenu.accesskey   "r">
+<!ENTITY fillUsernameMenu.label       "Precompletare utilizator">
+<!ENTITY fillUsernameMenu.accesskey   "r">
+<!ENTITY noLoginSuggestions.label     "(nicio sugestie de autentificare)">
+<!ENTITY viewSavedLogins.label        "Autentificări salvate">
