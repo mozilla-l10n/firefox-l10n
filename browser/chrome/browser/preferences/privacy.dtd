@@ -40,8 +40,8 @@
 <!ENTITY  acceptThirdParty.never.label    "Никад">
 <!ENTITY  acceptThirdParty.visited.label  "Од посећених">
 
-<!ENTITY  keepUntil.label               "Рок за чување:">
-<!ENTITY  keepUntil.accesskey           "Р">
+<!ENTITY  keepUntil.label               "Чувај док:">
+<!ENTITY  keepUntil.accesskey           "Ч">
 
 <!ENTITY  expire.label                  "не истекну">
 <!ENTITY  close.label                   "не затворим &brandShortName;">
@@ -54,7 +54,7 @@
 <!ENTITY  showCookies.accesskey         "л">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName;:">
-<!ENTITY  historyHeader.pre.accesskey      "м">
+<!ENTITY  historyHeader.pre.accesskey      "F">
 <!ENTITY  historyHeader.remember.label     "ће бележити историјат">
 <!ENTITY  historyHeader.dontremember.label "никада неће бележити историјат">
 <!ENTITY  historyHeader.custom.label       "ће користити посебна подешавања за историјат">
