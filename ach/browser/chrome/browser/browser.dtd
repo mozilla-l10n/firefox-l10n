@@ -696,19 +696,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Strings for connection state warnings in the subview. -->
 
+<!ENTITY identity.description.insecure "Kube ni ki kakube man pe tye i mung. Jo mukene twero neno ngec ma i cwalo (calo mung me donyo, kwena, ka me wil, ki mukene).">
 
+<!ENTITY identity.description.weakCipher2 "Jo mukene twero neno ngec mamegi onyo loko time pa kakube.">
+<!ENTITY identity.description.activeBlocked "&brandShortName; ogengo but potbuk man ma pe tye ki ber bedo.">
+<!ENTITY identity.description.passiveLoaded "Kube mamegi pe tye ki ber bedo kadong jo mukene twero neno ngec ma i nywako ki kakube ne.">
+<!ENTITY identity.description.passiveLoaded2 "Kakube man tye ki jami mogo ma pe tye ki ber bedo (calo cal).">
+<!ENTITY identity.description.passiveLoaded3 "Kadi bed &brandShortName; ogengo jami mogo, pud tye jami i potbuk man ma pe tye ki ber bedo (calo cal).">
+<!ENTITY identity.description.activeLoaded "Kakube man tye ki jami ma pe tye ki ber bedo (calo coc) ki kube mamegi iye pe tye i mung.">
+<!ENTITY identity.description.activeLoaded2 "Jo mukene twero neno ngec ma i nywako ki kakube man (calo mung me donyo, kwena, ka me wil, ki mukene).">
 
-
-
-
-
-
-
-
+<!ENTITY identity.enableMixedContentBlocking.label "Cak gwoke">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "C">
 <!ENTITY identity.disableMixedContentBlocking.label "Juk gwoke pi kombedi">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "J">
+<!ENTITY identity.learnMore "Nong ngec mapol">
 
-
+<!ENTITY identity.moreInfoLinkText2 "Ngec mapol">
 
 <!ENTITY identity.permissions "Rukuca">
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -786,26 +790,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY getUserMedia.allWindowsShared.message "Ki binywako dirica weng ma nen i wang kompiuta ni.">
 
-
-
-
+<!ENTITY trackingProtection.title "Gwokke ikom lubo kor">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; tye kagengo but potbuk ma twero lubo kor yeny mamegi.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "Kakube man tye ki jami ma twero lubo kor yeny mamegi. I juko woko gwokke.">
+<!ENTITY trackingProtection.notDetected3 "Pe kinongo jami ma lubo kor i potbuk man.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-
+<!ENTITY trackingProtection.unblock.label "Juk gwokke pi pot buk man">
+<!ENTITY trackingProtection.unblock.accesskey "J">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-
-
-
+<!ENTITY trackingProtection.unblockPrivate.label "Juk gwokke pi kare man">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "J">
+<!ENTITY trackingProtection.block2.label "Cak gwokke">
+<!ENTITY trackingProtection.block2.accesskey "C">
 
 <!ENTITY trackingContentBlocked.message "Lubo">
 <!ENTITY trackingContentBlocked.moreinfo "Kigengo woko but pot buk ma lubo kor tici me wi yamo.">
 <!ENTITY trackingContentBlocked.learnMore "Nong ngec mapol">
 
-
-
+<!ENTITY trackingContentBlocked.unblock2.label "Juk gwokke pi kakube man">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "J">
 <!ENTITY trackingContentBlocked.block.label "Cak gwoke">
 <!ENTITY trackingContentBlocked.block.accesskey "C">
 <!ENTITY trackingContentBlocked.disabled.message "Kijuko woko gwokke me lubo kor">
@@ -858,12 +865,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY processHang.terminateScript.label        "Juk coc">
 <!ENTITY processHang.terminateScript.accessKey    "J">
-
-
-
-
-
-
+<!ENTITY processHang.debugScript.label            "Coc me nongo bal">
+<!ENTITY processHang.debugScript.accessKey        "n">
+<!ENTITY processHang.terminatePlugin.label        "Nek larwak">
+<!ENTITY processHang.terminatePlugin.accessKey    "a">
+<!ENTITY processHang.terminateProcess.label       "Nek tic me Kakube">
+<!ENTITY processHang.terminateProcess.accessKey   "N">
 
 <!ENTITY emeLearnMoreContextMenu.label            "Nong ngec mapol ikom DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
