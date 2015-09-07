@@ -39,7 +39,7 @@
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
 <!ENTITY runtimeMenu_showMonitor_label "মনিটর">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
-
+<!ENTITY runtimeMenu_showDevicePrefs_label "সাইট সংক্রান্ত পছন্দসমূহ">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 <!ENTITY runtimeMenu_showSettings_label "ডিভাইস সেটিং">
 <!ENTITY runtimeMenu_showSettings_accesskey "s">
@@ -89,8 +89,8 @@
 
 <!ENTITY details_valid_header "বৈধ">
 
-
-
+<!ENTITY details_error_header "ত্রুটিসমূহ">
+<!ENTITY details_description "বিবরণ/বর্ণনা">
 <!ENTITY details_location "অবস্থান">
 <!ENTITY details_manifestURL "অ্যাপ ID">
 
@@ -117,17 +117,17 @@
 <!ENTITY prefs_manage_components "বাড়তি উপাদান ব্যবস্থাপনা">
 <!ENTITY prefs_options_autoconnectruntime "পূর্ববর্তী রানটাইম পুনঃসংযোগ করুন">
 <!ENTITY prefs_options_autoconnectruntime_tooltip "WebIDE আরম্ভ হলে আগের রানটাইম পুনঃসংযোগ করুন">
-
+<!ENTITY prefs_options_rememberlastproject "সর্বশেষ প্রকল্প স্বরণ করুন">
 <!ENTITY prefs_options_rememberlastproject_tooltip "WebIDE শুরু করার আগে পূর্ববর্তী প্রকল্পটি পুনরুদ্ধার করুন">
 <!ENTITY prefs_options_templatesurl "টেমপ্লেট URL">
-
+<!ENTITY prefs_options_templatesurl_tooltip "পর্যাপ্ত টেমপ্লেটের সূচিপত্র">
 <!ENTITY prefs_options_showeditor "এডিটর দেখাও">
 <!ENTITY prefs_options_showeditor_tooltip "অভ্যন্তরীণ এডিটর দেখাও">
 <!ENTITY prefs_options_tabsize "ট্যাব আকার">
 <!ENTITY prefs_options_expandtab "সফট ট্যাব">
 <!ENTITY prefs_options_expandtab_tooltip "ট্যাব ক্যারেক্টারের পরিবর্তে স্পেস ব্যবহার করুন">
 <!ENTITY prefs_options_detectindentation "অটোইন্ডেন্ট">
-
+<!ENTITY prefs_options_detectindentation_tooltip "উৎসের বিষয়বস্তুর ভিত্তিতে ইন্ডেন্টেশন ধারণা করুন">
 <!ENTITY prefs_options_autocomplete "অটোকমপ্লিট">
 <!ENTITY prefs_options_autocomplete_tooltip "কোড অটোকমপ্লিশন সক্রিয় করুন">
 <!ENTITY prefs_options_autoclosebrackets "অটোক্লোজ ব্র্যাকেট">
@@ -141,17 +141,17 @@
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "রানটাইম তথ্য">
-
+<!ENTITY runtimedetails_adbIsRoot "ADB মূল:">
 <!ENTITY runtimedetails_summonADBRoot "root ডিভাইস">
-
-
-
+<!ENTITY runtimedetails_ADBRootWarning "(লকহীন বুটলোডার প্রয়োজন)">
+<!ENTITY runtimedetails_unrestrictedPrivileges "অবাধ DevTools-এর অধিকার: ">
+<!ENTITY runtimedetails_requestPrivileges "উচ্চ অধিকারের অনুরোধ করুন">
 <!ENTITY runtimedetails_privilegesWarning "(ডিভাইস পুনরায় বুট করা হবে। রুটের অধিকার প্রয়োজন।)">
 <!-- Device Preferences and Settings -->
 
 
 <!ENTITY device_typeobject "অবজেক্ট">
-
+<!ENTITY device_typenone "একটি ধরন নির্বাচন করুন">
 <!-- Device Preferences -->
 <!ENTITY devicepreference_search "সার্চের পছন্দসমূহ">
 <!ENTITY devicepreference_newname "নতুন পছন্দের নাম">
@@ -161,8 +161,8 @@
 
 <!ENTITY devicesetting_title "ডিভাইস সেটিং">
 
-
-
+<!ENTITY devicesetting_newname "সেটিং এর নতুন নাম">
+<!ENTITY devicesetting_newtext "সেটিং এর মান">
 <!ENTITY devicesetting_addnew "নতুন সেটিং যোগ করুন">
 <!-- Monitor -->
 
@@ -172,23 +172,30 @@
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
      server. -->
+
+<!ENTITY wifi_auth_header "ক্লায়েন্ট পরিচয় প্রমাণ প্রক্রিয়া">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
+<!ENTITY wifi_auth_scan_request "আপনি যে প্রান্তে সংজুক্ত হচ্ছেন তা নির্ভরযোগ্য প্রমানে আরো তথ্য প্রয়োজন। অনুগ্রহ করে আপনার ডিভাইসের prompt এর মাধ্যমে নিচের QR কোড স্ক্যান করুন।  ">
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
      devices that can't scan a QR code. -->
+<!ENTITY wifi_auth_no_scanner "কোন উত্তেজিত QR scanner নেই?">
 <!-- LOCALIZATION NOTE (wifi_auth_yes_scanner): Link text to assist users with
      devices that can scan a QR code. -->
 <!ENTITY wifi_auth_yes_scanner "একটি QR স্ক্যানার প্রম্পট আছে?">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
+<!ENTITY wifi_auth_token_request "আপনার অন্য ডিভাইস যদি QR কোড স্ক্যানিং এর পরিবর্তে একটি টোকেন চায়, তবে অনুগ্রহ করে সেই ডিভাইসের নিচের মানটি অনুলিপি করে রাখুন:">
 <!-- Logs panel -->
+
+<!ENTITY logs_title "প্রি-প্যাকেজ কমান্ড লগ">
 <!-- Simulator Options -->
 
 <!ENTITY simulator_title "সিমুলেটর অপশনস">
+<!ENTITY simulator_remove "সিমুলেটর মুছে ফেলুন">
 
-
-
-
+<!ENTITY simulator_name "নাম">
+<!ENTITY simulator_software "সফ্টওয়্যার">
 <!ENTITY simulator_version "সংস্করণ">
 
 <!ENTITY simulator_hardware "হার্ডওয়্যার">

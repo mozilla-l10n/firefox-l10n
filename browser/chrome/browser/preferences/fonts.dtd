@@ -46,7 +46,7 @@
 <!ENTITY  font.langGroup.gurmukhi                 "গুরমূখী">
 <!ENTITY  font.langGroup.khmer                    "খেমার">
 <!ENTITY  font.langGroup.malayalam                "মালায়ালাম">
-
+<!ENTITY  font.langGroup.math                     "গণিত">
 <!ENTITY  font.langGroup.oriya                    "ওড়িয়া">
 <!ENTITY  font.langGroup.telugu                   "তেলেগু">
 <!ENTITY  font.langGroup.kannada                  "কান্নাডা">
@@ -64,8 +64,8 @@
 <!ENTITY  allowPagesToUse.label                   "উপরে নির্বাচিত ফন্ট উপেক্ষা করে, পৃষ্ঠাগুলো নিজস্ব ফন্ট ব্যবহার করতে পারবে (A)">
 <!ENTITY  allowPagesToUse.accesskey               "A">
 
-
-
+<!ENTITY languages.customize.Fallback2.label      "ফলব্যাক T টেক্সট এনকোডিং:">
+<!ENTITY languages.customize.Fallback2.accesskey  "T">
 
 
 <!ENTITY languages.customize.Fallback.auto        "বর্তমান লোকেলের জন্য পূর্বনির্ধারিত">

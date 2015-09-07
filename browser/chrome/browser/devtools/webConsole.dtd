@@ -53,7 +53,7 @@
   -  for editing commands in text inputs. -->
 <!ENTITY btnPageNet.accesskeyMacOSX "t">
 <!ENTITY btnPageCSS.label   "CSS">
-
+<!ENTITY btnPageCSS.tooltip2 "লগ নিরাপত্তা ত্রুটি ও সতর্কীকরণ">
 <!ENTITY btnPageCSS.accesskey "C">
 <!ENTITY btnPageJS.label    "JS">
 <!ENTITY btnPageJS.tooltip  "জাভাস্ক্রিপ্টের ব্যতিক্রমে লগ করুন">
@@ -74,7 +74,7 @@
 <!ENTITY btnConsoleWarnings     "সতর্কবার্তা">
 <!ENTITY btnConsoleLog          "লগ">
 <!ENTITY btnConsoleXhr          "XHR">
-
+<!ENTITY btnConsoleReflows      "পুনঃপ্রবাহ">
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
 

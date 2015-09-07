@@ -89,23 +89,31 @@
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableRemote.label3    "রিমোট ডিবাগিং সক্রিয় করুন">
-<!ENTITY options.enableRemote.tooltip   "এই অপশন চালু করার ফলে ডেভেলপার টুল রিমোট ফায়ারফক্স ইন্সটেন্স যেমন ফায়ারফক্স ওএস ডিবাগ করতে পারবে">
+<!ENTITY options.enableRemote.tooltip   "এই অপশন চালু করার ফলে ডেভেলপার টুল রিমোট Firefox ইন্সটেন্স যেমন Firefox OS ডিবাগ করতে পারবে">
 <!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
   -  boolean preference in about:config, in the options panel. -->
 
+<!ENTITY options.enableWorkers.label    "ওয়ার্কার ডিবাগিং সক্রিয় করুন (ডেভেলপিং চলমান)">
+<!ENTITY options.enableWorkers.tooltip  "এই অপশন অন করলে ওয়ার্কাররা ডেভলপারদের টুল ডিবাগ করতে পারবে ">
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
+
+<!ENTITY options.disableJavaScript.label     "জাভাস্ক্রিপ্ট নিস্ক্রিয় করুন*">
 <!ENTITY options.disableJavaScript.tooltip   "এই অপশন চালুর ফলে বর্তমান ট্যাবে জাভাস্ক্রিপ্ট নিস্ক্রিয় হবে। যদি ট্যাব অথবা টুলবক্স বন্ধ করা হয় তবে এই সেটিং ভুলে যাবে।">
 <!-- LOCALIZATION NOTE (options.disableCache.label2,
   -  options.disableCache.tooltip2): This is the options panel label and
   -  tooltip for the checkbox that toggles the cache on or off. -->
 
+<!ENTITY options.disableCache.label2     "ক্যাশে নিষ্ক্রিয়করণ(টুলবক্স খোলা থাকাকালীন)">
+<!ENTITY options.disableCache.tooltip2   "এই অপশন চালু করলে যেসব ট্যাবের টুলবক্স খোলা আছে সেগুলো সব নিষ্ক্রিয় হয়ে যাবে।">
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
 
+<!ENTITY options.enableServiceWorkersHTTP.label     "HTTP এ সার্ভিস ওয়ার্কারদের সক্রিয় করুন (যখন টুলবক্স খোলা থাকে)">
+<!ENTITY options.enableServiceWorkersHTTP.tooltip   "এই অপশন চালু থাকলে যেসব ট্যাবের টুলবক্স খোলা আছে সেগুলোর HTTP এ সার্ভিস ওয়ার্কারদের সক্রিয় করে দিবে। ">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
@@ -120,6 +128,8 @@
 <!-- LOCALIZATION NOTE (options.selectEnabledToolboxButtons.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tool buttons. -->
+
+<!ENTITY options.selectEnabledToolboxButtons.label     "প্রাপ্তিসাধ্য টুলবক্স বাটন">
 <!-- LOCALIZATION NOTE (options.toolNotSupported.label): This is the label for
   -  the explanation of the * marker on a tool which is currently not supported
   -  for the target of the toolbox. -->
@@ -128,9 +138,13 @@
 <!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label2): This is the label for
   -  the heading of the radiobox corresponding to the theme of the developer
   -  tools. -->
+
+<!ENTITY options.selectDevToolsTheme.label2   "থিম">
 <!-- LOCALIZATION NOTE (options.usedeveditiontheme.*) Options under the
   -  toolbox for enabling and disabling the Developer Edition browser theme. -->
 
+<!ENTITY options.usedeveditiontheme.label   "ডেভলপার সংস্করণের ব্রাউজার থিম ব্যবহার করুন">
+<!ENTITY options.usedeveditiontheme.tooltip "ডেভলপার সংস্করণের ব্রাউজার থিম টগল করুন।">
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
 
@@ -149,15 +163,17 @@
    - label for the checkbox that toggles showing original sources in the Style Editor -->
 
 <!ENTITY options.stylesheetSourceMaps.label      "মূল উৎস প্রদর্শন করা হবে">
-
+<!ENTITY options.stylesheetSourceMaps.tooltip    "স্টাইল সম্পাদক ও পরিদর্শকের অংশে মূল উৎস দেখান (বি.দ্র. Sass ফাইল) ">
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
 
 <!ENTITY options.stylesheetAutocompletion.label      "স্বয়ংসম্পূর্ণ CSS">
-
+<!ENTITY options.stylesheetAutocompletion.tooltip    "স্টাইল সম্পাদকের অংশে আপনার লিপিবদ্ধকৃত স্বয়ংসম্পূর্ণ CSS বৈশিষ্ট্যাবলী, মান ও নির্বাচক ">
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->
+
+<!ENTITY options.commonPrefs.label           "সাধারন অগ্রাধিকার">
 <!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
   -  label for the checkbox that toggles persistent logs in the Web Console and
   -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
@@ -175,11 +191,11 @@
 অর্ন্তভূক্ত রাখবে">
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
-
-
+<!ENTITY options.sourceeditor.detectindentation.label   "ইনডেন্টেশন শনাক্তকরণ">
+<!ENTITY options.sourceeditor.detectindentation.tooltip "উৎসের বিষয়বস্তুর ভিত্তিতে ইনডেন্টেশন ধারণা করুন">
 <!ENTITY options.sourceeditor.autoclosebrackets.label   "অটোক্লোজ ব্র্যাকেট">
 <!ENTITY options.sourceeditor.autoclosebrackets.tooltip "স্বয়ংক্রিয়ভাবে ক্লোজিং ব্র্যাকেট দিন">
-
+<!ENTITY options.sourceeditor.expandtab.label           "ফাঁকাস্থান ব্যবহার করে ইনডেন্ট করুন">
 <!ENTITY options.sourceeditor.expandtab.tooltip         "ট্যাব ক্যারেক্টারের পরিবর্তে স্পেস ব্যবহার করুন">
 
 
