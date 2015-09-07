@@ -66,7 +66,7 @@
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY netOffline.longDesc3 "<ul> 
-<li>Yeniden deneyin. &brandShortName; bağlantıyı açıp sayfayı tazelemeyi çalışacaktır. 
+<li>Yeniden deneyin. &brandShortName; bağlantıyı açıp sayfayı tazelemeye çalışacaktır. 
 <button id='wifi'>Wi-Fi&#39;ı etkinleştir</button> 
 </li> 
 </ul>">
@@ -95,7 +95,8 @@
 <!ENTITY proxyConnectFailure.title "Vekil sunucu bağlantı kabul etmiyor">
 <!ENTITY proxyConnectFailure.longDesc "<ul> 
 <li>Vekil sunucu ayarlarınızın doğru olup olmadığına bakın.</li> 
-<li>Ağ yöneticinize başvurup vekil sunucunun çalıp çalışmadığıyla ilgili bilgi alın.</li> 
+<li>Ağ yöneticinize başvurup vekil sunucunun çalıp çalışmadığıyla ilgili 
+bilgi alın.</li> 
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Vekil sunucu bulunamadı">
@@ -103,7 +104,7 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> 
 <li>Vekil sunucu ayarlarını kontrol ederek doğruluğundan emin olun.</li> 
-<li>Aygınızın veri veya Wi-Fi bağlantısını kontrol ederek çalışmakta olduğundan emin olun. 
+<li>Cihazınızın veri veya Wi-Fi bağlantısını kontrol ederek çalıştığından emin olun. 
 <button id='wifi'>Wi-Fi&#39;ı etkinleştir</button> 
 </li> 
 </ul>">
