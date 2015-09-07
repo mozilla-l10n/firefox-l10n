@@ -688,7 +688,7 @@ din Android">
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
 
-<!ENTITY devtools_auth_scan_header "Scanare pentru codul QR afișat pe un alt dispozitiv de-al tău">
+<!ENTITY devtools_auth_scan_header "Se scanează codul QR afișat pe celălalt dispozitiv">
 <!-- Restrictions -->
 <!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
