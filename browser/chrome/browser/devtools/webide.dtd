@@ -20,9 +20,9 @@
 <!ENTITY projectMenu_stop_accesskey "S">
 <!ENTITY projectMenu_debug_label "ডিবাগ অ্যাপ">
 <!ENTITY projectMenu_debug_accesskey "D">
-
+<!ENTITY projectMenu_remove_label "প্রকল্প অপসারণ করুন">
 <!ENTITY projectMenu_remove_accesskey "R">
-
+<!ENTITY projectMenu_showPrefs_label "পছন্দসমূহ">
 <!ENTITY projectMenu_showPrefs_accesskey "e">
 <!ENTITY projectMenu_manageComponents_label "বাড়তি কম্পোনেন্ট ব্যবস্থাপনা">
 <!ENTITY projectMenu_manageComponents_accesskey "M">
@@ -88,12 +88,12 @@
 <!-- Lense -->
 
 <!ENTITY details_valid_header "বৈধ">
-
+<!ENTITY details_warning_header "সতর্কবার্তা">
 <!ENTITY details_error_header "ত্রুটিসমূহ">
 <!ENTITY details_description "বিবরণ/বর্ণনা">
 <!ENTITY details_location "অবস্থান">
 <!ENTITY details_manifestURL "অ্যাপ ID">
-
+<!ENTITY details_removeProject_button "প্রকল্প অপসারণ করুন">
 <!ENTITY details_showPrepackageLog_button "প্রি-প্যাকেজ লগ দেখান">
 <!-- New App -->
 
@@ -111,9 +111,11 @@
 <!ENTITY addons_title "অতিরিক্ত উপাদানগুলো">
 <!ENTITY addons_aboutaddons "অ্যাড-অন ব্যবস্থাপক খুলুন">
 <!-- Prefs -->
+
+<!ENTITY prefs_title "পছন্দসমূহ">
 <!ENTITY prefs_editor_title "এডিটর">
 <!ENTITY prefs_general_title "সাধারণ">
-
+<!ENTITY prefs_restore "ডিফল্ট মান পুনরায় স্থাপন">
 <!ENTITY prefs_manage_components "বাড়তি উপাদান ব্যবস্থাপনা">
 <!ENTITY prefs_options_autoconnectruntime "পূর্ববর্তী রানটাইম পুনঃসংযোগ করুন">
 <!ENTITY prefs_options_autoconnectruntime_tooltip "WebIDE আরম্ভ হলে আগের রানটাইম পুনঃসংযোগ করুন">
@@ -137,7 +139,7 @@
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "অনুমতি টেবিল">
-
+<!ENTITY permissionstable_name_header "নাম">
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "রানটাইম তথ্য">
@@ -149,18 +151,22 @@
 <!ENTITY runtimedetails_privilegesWarning "(ডিভাইস পুনরায় বুট করা হবে। রুটের অধিকার প্রয়োজন।)">
 <!-- Device Preferences and Settings -->
 
-
+<!ENTITY device_typeboolean "বুলিয়ান">
+<!ENTITY device_typenumber "পূর্ণসংখ্যা">
+<!ENTITY device_typestring "স্ট্রিং">
 <!ENTITY device_typeobject "অবজেক্ট">
 <!ENTITY device_typenone "একটি ধরন নির্বাচন করুন">
 <!-- Device Preferences -->
+
+<!ENTITY devicepreference_title "সাইট সংক্রান্ত পছন্দসমূহ">
 <!ENTITY devicepreference_search "সার্চের পছন্দসমূহ">
 <!ENTITY devicepreference_newname "নতুন পছন্দের নাম">
-
+<!ENTITY devicepreference_newtext "পছন্দের মান">
 <!ENTITY devicepreference_addnew "নতুন পছন্দ যোগ করুন">
 <!-- Device Settings -->
 
 <!ENTITY devicesetting_title "ডিভাইস সেটিং">
-
+<!ENTITY devicesetting_search "সেটিং খুঁজুন">
 <!ENTITY devicesetting_newname "সেটিং এর নতুন নাম">
 <!ENTITY devicesetting_newtext "সেটিং এর মান">
 <!ENTITY devicesetting_addnew "নতুন সেটিং যোগ করুন">
@@ -193,11 +199,11 @@
 
 <!ENTITY simulator_title "সিমুলেটর অপশনস">
 <!ENTITY simulator_remove "সিমুলেটর মুছে ফেলুন">
-
+<!ENTITY simulator_reset "ডিফল্ট মান পুনরায় স্থাপন">
 <!ENTITY simulator_name "নাম">
 <!ENTITY simulator_software "সফ্টওয়্যার">
 <!ENTITY simulator_version "সংস্করণ">
-
+<!ENTITY simulator_profile "প্রোফাইল">
 <!ENTITY simulator_hardware "হার্ডওয়্যার">
 <!ENTITY simulator_device "ডিভাইস">
 <!ENTITY simulator_screenSize "পর্দা">
