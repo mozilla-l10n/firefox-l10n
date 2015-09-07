@@ -5,6 +5,7 @@
 
 <!ENTITY aboutServiceWorkers.title                     "អំពី Service Workers">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
+<!ENTITY aboutServiceWorkers.maintitle                 "Service Workers ដែល​បាន​ចុះ​ឈ្មោះ">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
-<!ENTITY aboutServiceWorkers.warning_not_enabled       "មិន​បាន​បើក​​ Worker សេវា។">
+<!ENTITY aboutServiceWorkers.warning_not_enabled       "មិន​បាន​បើក Service Workers។">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
