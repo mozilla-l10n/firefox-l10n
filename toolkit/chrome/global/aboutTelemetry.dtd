@@ -6,7 +6,9 @@
 
 <!ENTITY aboutTelemetry.changeDataChoices "  Modifică">
 
+<!ENTITY aboutTelemetry.uploadEnabled "   Încărcare date pentru raportul de stare (FHR) <span>activată</span>.">
 
+<!ENTITY aboutTelemetry.uploadDisabled "   Încărcare date pentru raportul de stare (FHR) <span>dezactivată</span>.">
 
 <!ENTITY aboutTelemetry.extendedRecordingEnabled "  Înregistrarea telemetriei extinse este <span>activată</span>.">
 
