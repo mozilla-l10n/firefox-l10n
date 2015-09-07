@@ -17,7 +17,7 @@
 
 <!ENTITY oneClickSearchEngines.label           "Бірлік шертумен іздеу қызметтері">
 
-<!ENTITY chooseWhichOneToDisplay.label         "Іздеу жолағы арқылы қосымша іздеу қызметтері арқылы іздеуге мүмкін етеді. Көрсетілетіндерді таңдаңыз.">
+<!ENTITY chooseWhichOneToDisplay.label         "Іздеу жолағында қосымша іздеу қызметтері арқылы іздеуге болады. Көрсетілетіндерді таңдаңыз.">
 
 <!ENTITY engineNameColumn.label                "Іздеу жүйесі">
 <!ENTITY engineKeywordColumn.label             "Кілтсөз">
