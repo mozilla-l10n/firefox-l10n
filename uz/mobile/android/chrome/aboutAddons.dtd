@@ -11,4 +11,5 @@
 <!ENTITY addonAction.uninstall                  "O‘chirish">
 <!ENTITY addonAction.undo                       "Amalni orqaga qaytarish">
 
+<!ENTITY addonUnsigned.message                  "Ushbu qo‘shimcha dastur &brandShortName; tomonidan tasdiqlanmadi.">
 <!ENTITY addonUnsigned.learnMore                "Koʻproq o‘rganish">

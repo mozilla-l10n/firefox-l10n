@@ -695,12 +695,12 @@ import qilinmoqda">
 
 <!ENTITY restriction_disallow_import_settings_title2 "Androiddan import qilishni o‘chirish">
 <!ENTITY restriction_disallow_addons_title2 "Qo‘sh. dastur o‘rnatishni o‘chirish">
-
-
-
-
-
-
-
-
+<!ENTITY restriction_disallow_devtools_title2 "Dasturchi asboblarini o‘chirish">
+<!ENTITY restriction_disallow_customize_home_title2 "Bosh sahifani moslashni o‘chirish">
+<!ENTITY restriction_disallow_private_browsing_title2 "\&quot;Maxfiy ko‘rish\&quot;ni o‘chirish">
+<!ENTITY restriction_disallow_location_services_title2 "Joylashuv xizmatlarini o‘chirish">
+<!ENTITY restriction_disallow_display_settings_title2 "Ekran sozlamalarini o‘chirish">
+<!ENTITY restriction_disallow_clear_history_title2 "\&quot;Ko‘rish tarixini tozalash\&quot;ni o‘chirish">
+<!ENTITY restriction_disallow_master_password_title2 "Parol ustasini o‘chirib qo‘yish">
+<!ENTITY restriction_disallow_guest_browsing_title2 "Mehmon rejimida ko‘rishni o‘chirish">
 
