@@ -329,7 +329,7 @@
 <!ENTITY openFrameCmdInTab.accesskey "t">
 <!ENTITY openFrameCmd.label "Abrir marco en nueva ventana">
 <!ENTITY openFrameCmd.accesskey "A">
-<!ENTITY showOnlyThisFrameCmd.label "Mostrar sólo este marco">
+<!ENTITY showOnlyThisFrameCmd.label "Mostrar solo este marco">
 <!ENTITY showOnlyThisFrameCmd.accesskey "s">
 <!ENTITY reloadCmd.commandkey "r">
 <!ENTITY reloadFrameCmd.label "Recargar marco">
@@ -451,7 +451,7 @@
 <!ENTITY fullZoomResetCmd.accesskey "R">
 <!ENTITY fullZoomResetCmd.commandkey "0">
 <!ENTITY fullZoomResetCmd.commandkey2 "">
-<!ENTITY fullZoomToggleCmd.label "Zoom sólo en el texto">
+<!ENTITY fullZoomToggleCmd.label "Zoom solo en el texto">
 <!ENTITY fullZoomToggleCmd.accesskey "t">
 <!ENTITY fullZoom.label "Acercar">
 <!ENTITY fullZoom.accesskey "A">
