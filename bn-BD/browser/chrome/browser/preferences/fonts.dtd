@@ -64,15 +64,16 @@
 <!ENTITY  allowPagesToUse.label                   "উপরে নির্বাচিত ফন্ট উপেক্ষা করে, পৃষ্ঠাগুলো নিজস্ব ফন্ট ব্যবহার করতে পারবে (A)">
 <!ENTITY  allowPagesToUse.accesskey               "A">
 
+<!ENTITY languages.customize.Fallback2.grouplabel "লিগ্যাসি কন্টেটের জন্য ক্যারেক্টার এনকোডিং">
 <!ENTITY languages.customize.Fallback2.label      "ফলব্যাক T টেক্সট এনকোডিং:">
 <!ENTITY languages.customize.Fallback2.accesskey  "T">
-
+<!ENTITY languages.customize.Fallback2.desc       "এই অক্ষরের এনকোডিং ব্যবহৃত হয়েছে লিগ্যাসি বিষয়বস্তুর জন্য যা এর এনকোডিং ডিক্লেয়ার করতে ব্যর্থ।">
 
 <!ENTITY languages.customize.Fallback.auto        "বর্তমান লোকেলের জন্য পূর্বনির্ধারিত">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.arabic      "আরবি">
-
+<!ENTITY languages.customize.Fallback.baltic      "বাল্টিক">
 <!ENTITY languages.customize.Fallback.ceiso       "মধ্য ইউরোপীয়, আইএসও">
 <!ENTITY languages.customize.Fallback.cewindows   "মধ্য ইউরোপীয়, মাইক্রোসফট">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
@@ -99,6 +100,7 @@
 <!ENTITY languages.customize.Fallback.thai        "থাই">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.turkish):
      Translate "Turkish" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.turkish     "তুর্কি">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.vietnamese  "ভিয়েতনামী">

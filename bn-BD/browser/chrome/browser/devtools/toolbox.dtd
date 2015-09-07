@@ -78,6 +78,8 @@
 <!-- LOCALIZATION NOTE (options.context.triggersPageRefresh): This is the
   -  triggers page refresh footnote under the advanced settings group in the
   -  options panel and is used for settings that trigger page reload. -->
+
+<!ENTITY options.context.triggersPageRefresh  "*কেবল বর্তমান সেশন, পৃষ্ঠা পুনরায় লোড করে">
 <!-- LOCALIZATION NOTE (options.enableChrome.label4): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
@@ -180,7 +182,7 @@
   -  about:config, in the options panel. -->
 
 <!ENTITY options.enablePersistentLogs.label    "নিয়মিত লগ সক্রিয় করুন">
-
+<!ENTITY options.enablePersistentLogs.tooltip  "যদি আপনি এই অপশনটি সক্রিয় করেন তবে ওয়েব কনসোল এবং নেটওয়ার্ক মনিটর প্রতিবার আউটপুট পরিষ্কার করবে না যখন আপনি নতুন একটি পৃষ্ঠায় যাবেন">
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
@@ -191,15 +193,18 @@
 অর্ন্তভূক্ত রাখবে">
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
+
+
+<!ENTITY options.sourceeditor.label                     "এডিটর পছন্দসমূহ">
 <!ENTITY options.sourceeditor.detectindentation.label   "ইনডেন্টেশন শনাক্তকরণ">
 <!ENTITY options.sourceeditor.detectindentation.tooltip "উৎসের বিষয়বস্তুর ভিত্তিতে ইনডেন্টেশন ধারণা করুন">
 <!ENTITY options.sourceeditor.autoclosebrackets.label   "অটোক্লোজ ব্র্যাকেট">
 <!ENTITY options.sourceeditor.autoclosebrackets.tooltip "স্বয়ংক্রিয়ভাবে ক্লোজিং ব্র্যাকেট দিন">
 <!ENTITY options.sourceeditor.expandtab.label           "ফাঁকাস্থান ব্যবহার করে ইনডেন্ট করুন">
 <!ENTITY options.sourceeditor.expandtab.tooltip         "ট্যাব ক্যারেক্টারের পরিবর্তে স্পেস ব্যবহার করুন">
-
-
-
-
+<!ENTITY options.sourceeditor.tabsize.label             "ট্যাবের আকার T">
+<!ENTITY options.sourceeditor.tabsize.accesskey         "T">
+<!ENTITY options.sourceeditor.keybinding.label          "কীবাইন্ডিং  K">
+<!ENTITY options.sourceeditor.keybinding.accesskey      "K">
 <!ENTITY options.sourceeditor.keybinding.default.label  "পূর্বনির্ধারিত">
 
