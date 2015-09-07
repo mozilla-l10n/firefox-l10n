@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- for SearchDialog.xul -->
 
+<!-- for SearchDialog.xul -->
 <!ENTITY searchHeading.label         "Localizar em:">
 <!ENTITY searchHeading.accesskey     "z">
 <!ENTITY searchSubfolders.label      "Incluir subpastas">
@@ -24,8 +24,8 @@
 <!ENTITY openInFolder.accesskey      "b">
 <!ENTITY saveAsVFButton.label        "Salvar como pasta de pesquisa…">
 <!ENTITY saveAsVFButton.accesskey    "S">
-<!-- for ABSearchDialog.xul -->
 
+<!-- for ABSearchDialog.xul -->
 <!ENTITY abSearchHeading.label       "Pesquisar no:">
 <!ENTITY abSearchHeading.accesskey   "s">
 <!ENTITY propertiesButton.label      "Propriedades">
@@ -35,8 +35,8 @@
 <!ENTITY deleteCardButton.label      "Excluir">
 <!ENTITY deleteCardButton.accesskey  "x">
 <!ENTITY abSearchDialogTitle.label   "Pesquisar catálogo">
-<!-- Thread Pane -->
 
+<!-- Thread Pane -->
 <!ENTITY threadColumn.label "Tópico">
 <!ENTITY fromColumn.label "De">
 <!ENTITY recipientColumn.label "Destinatário">
@@ -56,8 +56,8 @@
 <!ENTITY starredColumn.label "Com estrela">
 <!ENTITY locationColumn.label "Pasta">
 <!ENTITY idColumn.label "Ordem de chegada">
-<!-- Thread Pane Tooltips -->
 
+<!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Selecionar colunas a serem exibidas">
 <!ENTITY threadColumn2.tooltip "Exibir mensagens agrupadas">
 <!ENTITY fromColumn2.tooltip "Ordenar por remetente">

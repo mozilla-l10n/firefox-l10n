@@ -1,48 +1,48 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Window title -->
 <!-- LOCALIZATION NOTE  (editorWindow.titlemodifier): DONT_TRANSLATE -->
-
 <!ENTITY editorWindow.titlemodifier "Composer"> 
 <!ENTITY editorWindow.titlemodifiermenuseparator " - ">
+
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
+
 <!-- Toolbar-only items -->
-
-
 <!ENTITY compositionToolbar.tooltip "Barra de ferramentas">
 <!ENTITY previewToolbarCmd.label "Visualizar">
 <!ENTITY previewToolbarCmd.tooltip "Carregar esta página no navegador">
-<!-- File menu items -->
 
+<!-- File menu items -->
 <!ENTITY exportToTextCmd.label "Exportar como texto…">
 <!ENTITY exportToTextCmd.accesskey "x">
 <!ENTITY previewCmd.label "Visualizar">
 <!ENTITY previewCmd.accesskey "z">
 <!ENTITY sendPageCmd.label "Enviar página">
 <!ENTITY sendPageCmd.accesskey "E">
-<!-- View menu items -->
 
+<!-- View menu items -->
 <!ENTITY compositionToolbarCmd.label "Barra de ferramentas">
 <!ENTITY compositionToolbarCmd.accesskey "B">
 <!ENTITY formattingToolbarCmd.label "Barra de formatação">
 <!ENTITY formattingToolbarCmd.accesskey "f">
 <!ENTITY editmodeToolbarCmd.label "Modo de edição">
 <!ENTITY editmodeToolbarCmd.accesskey "e">
-<!-- Format menu items -->
 
+<!-- Format menu items -->
 <!ENTITY formatMenu.label "Formatar">
 <!ENTITY formatMenu.accesskey "m">
 <!ENTITY grid.label "Posicionar no grid…">
 <!ENTITY grid.accesskey "s">
 <!ENTITY pageProperties.label "Propriedades da página…">
 <!ENTITY pageProperties.accesskey "r">
-<!-- Tools menu items -->
 
+<!-- Tools menu items -->
 <!ENTITY validateCmd.label "Validar HTML">
 <!ENTITY validateCmd.accesskey "V">
-<!-- Display Mode toolbar and View menu items -->
 
+<!-- Display Mode toolbar and View menu items -->
 <!ENTITY NormalModeTab.label "Normal">
 <!ENTITY NormalMode.label "Normal">
 <!ENTITY NormalMode.accesskey "N">

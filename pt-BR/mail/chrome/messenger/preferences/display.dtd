@@ -21,12 +21,12 @@
 <!ENTITY quotedTextColor.accesskey        "o">
 <!ENTITY displayWidth.label               "Mensagens sem formatação">
 <!ENTITY displayText.label                "Ao exibir texto citado:">
-<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 
+<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label        "Representar smileys como imagens">
 <!ENTITY convertEmoticons.accesskey    "R">
-<!-- labels -->
 
+<!-- labels -->
 <!ENTITY displayTagsText.label     "As tags podem ser usadas para organizar suas mensagens.">
 <!ENTITY addTagButton.label        "Nova…">
 <!ENTITY addTagButton.accesskey    "N">
@@ -34,8 +34,8 @@
 <!ENTITY editTagButton.accesskey   "E">
 <!ENTITY removeTagButton.label     "Excluir">
 <!ENTITY removeTagButton.accesskey "x">
-<!-- Fonts and Colors -->
 
+<!-- Fonts and Colors -->
 <!ENTITY fontsAndColors1.label   "Fontes">
 <!ENTITY defaultFont.label       "Fonte padrão:">
 <!ENTITY defaultFont.accesskey   "F">
@@ -45,8 +45,8 @@
 <!ENTITY fontOptions.label       "Avançado…">
 <!ENTITY colorButton.label       "Cores…">
 <!ENTITY colorButton.accesskey   "C">
-<!-- Advanced -->
 
+<!-- Advanced -->
 <!ENTITY reading.caption                  "Leitura">
 <!ENTITY display.caption                  "Exibição">
 <!ENTITY showCondensedAddresses.label     "Para pessoas em meus contatos, exibir somente o nome">

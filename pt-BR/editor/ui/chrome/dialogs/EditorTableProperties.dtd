@@ -64,8 +64,8 @@
 <!ENTITY cellAlignJustify.label           "Justificado">
 <!ENTITY cellInheritColor.label           "(célula transparente)">
 <!ENTITY cellUseCheckboxHelp.label        "Marque os campos cujas propriedades devem ser aplicadas nas células selecionadas.">
-<!-- Used in both Table and Cell panels  -->
 
+<!-- Used in both Table and Cell panels  -->
 <!ENTITY size.label                       "Tamanho">
 <!ENTITY pixels.label                     "pixels (borda)">
 <!ENTITY backgroundColor.label            "Cor do plano de fundo:">

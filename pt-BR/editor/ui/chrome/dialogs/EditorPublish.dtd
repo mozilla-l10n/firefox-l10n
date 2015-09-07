@@ -1,15 +1,15 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Window title -->
 
+<!-- Window title -->
 <!ENTITY windowTitle.label            "Publicar página">
 <!ENTITY windowTitleSettings.label    "Configurações de publicação">
 <!ENTITY publishTab.label             "Publicar">
 <!ENTITY settingsTab.label            "Configurações">
 <!ENTITY publishButton.label          "Publicar">
-<!-- Publish Tab Panel -->
 
+<!-- Publish Tab Panel -->
 <!ENTITY siteList.label               "Nome do site:">
 <!ENTITY siteList.accesskey           "N">
 <!ENTITY siteList.tooltip             "Selecione o site no qual você deseja publicar">
@@ -40,8 +40,8 @@
 <!ENTITY setDefaultButton.accesskey   "c">
 <!ENTITY removeButton.label           "Remover site">
 <!ENTITY removeButton.accesskey       "R">
-<!-- Settings Tab Panel -->
 
+<!-- Settings Tab Panel -->
 <!ENTITY publishSites.label           "Sites para publicação">
 <!ENTITY serverInfo.label             "Informações do servidor">
 <!ENTITY loginInfo.label              "Informações de login">

@@ -12,7 +12,7 @@
 <!ENTITY makeUrlRelative.label "O URL é relativo à localização da página">
 <!ENTITY makeUrlRelative.accessKey "r">
 <!ENTITY makeUrlRelative.tooltip "Alterar entre URL relativo e absoluto. Você deve salvar a página antes para alterar isto.">
-<!-- Shared by Link and Image dialogs -->
 
+<!-- Shared by Link and Image dialogs -->
 <!ENTITY LinkURLEditField.label "Forneça o endereço da página, um arquivo do computador ou selecione uma âncora nomeada ou título:">
 <!ENTITY LinkURLEditField.accessKey "F">

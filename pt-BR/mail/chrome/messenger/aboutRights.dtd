@@ -6,6 +6,7 @@
 <!ENTITY rights.title            "Sobre os seus direitos">
 <!ENTITY rights.intro-header     "Sobre os seus direitos">
 <!ENTITY rights.intro "O &brandFullName; é um software livre e de código aberto, criado por uma comunidade de milhares de pessoas ao redor do mundo. Há algumas coisas que você deve saber:">
+
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
      split into chunks for text before the link, the link text, and the text
@@ -14,7 +15,6 @@
 
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
-
 <!ENTITY rights.intro-point1a "O &brandShortName; é disponibilizado de acordo com os termos da ">
 <!ENTITY rights.intro-point1b "Licença Pública Mozilla">
 <!ENTITY rights.intro-point1c ". Isso significa que pode usar, copiar e distribuir o &brandShortName; para outras pessoas.  Também é bem-vindo para modificar o código-fonte do &brandShortName; para atender suas necessidades. A Licença Pública Mozilla também lhe dá o direito de distribuir as suas versões modificadas.">
@@ -22,45 +22,45 @@
 <!ENTITY rights.intro-point2a "A Mozilla não lhe concede quaisquer direitos sobre as marcas comerciais ou logotipos Mozilla e Thunderbird. Informações adicionais sobre as marcas comerciais podem ser encontradas ">
 <!ENTITY rights.intro-point2b "aqui">
 <!ENTITY rights.intro-point2c ".">
-<!-- point 3 text for official branded builds -->
 
+<!-- point 3 text for official branded builds -->
 <!ENTITY rights.intro-point3a "A política de privacidade dos produtos da &vendorShortName; pode ser encontrada ">
 <!ENTITY rights.intro-point3b "aqui">
 <!ENTITY rights.intro-point3c ".">
+
 <!-- point 3 text for unbranded builds -->
-
 <!ENTITY rights.intro-point3-unbranded "Quaisquer políticas de privacidade aplicáveis a este produto devem ser listadas aqui.">
-<!-- point 4 text for official branded builds -->
 
+<!-- point 4 text for official branded builds -->
 <!ENTITY rights.intro-point4a "O &brandShortName; também oferece serviços opcionais, tais como a atualização de complementos; no entanto, não podemos garantir que sejam 100&#037; precisos ou livres de erro. Mais informações, incluindo sobre como desativar os serviços, podem ser encontradas nos ">
 <!ENTITY rights.intro-point4b "termos de serviço">
 <!ENTITY rights.intro-point4c ".">
-<!-- point 4 text for unbranded builds -->
 
+<!-- point 4 text for unbranded builds -->
 <!ENTITY rights.intro-point4a-unbranded "Se este produto incorporar serviços web, quaisquer termos do serviço aplicáveis ao(s) serviço(s) devem possuir um link para a seção ">
 <!ENTITY rights.intro-point4b-unbranded "serviços web">
 <!ENTITY rights.intro-point4c-unbranded " seção.">
 
 <!ENTITY rights.webservices-header "Serviços web do &brandFullName;">
+
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-
 <!ENTITY rights.webservices-a "O &brandFullName; oferece serviços opcionais (“Serviços”), tais como a atualização de complementos, que estão disponíveis para seu uso com esta versão binária do &brandShortName;, como descrito abaixo. Se você não quiser usar os Serviços ou não aceitar os termos a seguir, você pode desativar o serviço de atualização de complemento: abra as preferências do aplicativo, selecione o painel ">
 <!ENTITY rights.webservices-b "Avançado">
 <!ENTITY rights.webservices-c ", clique na aba ">
 <!ENTITY rights.webservices-d "Atualizações">
 <!ENTITY rights.webservices-e " e desmarque os itens referentes a “Verificar automaticamente se há atualizações para”.">
+
 <!-- intro paragraph for unbranded builds -->
-
 <!ENTITY rights.webservices-unbranded "Uma visão geral dos serviços web que o produto inclui, assim como instruções de como os desativar (se aplicáveis), deve ser colocada aqui.">
+
 <!-- point 1 text for unbranded builds -->
-
 <!ENTITY rights.webservices-term1-unbranded "Quaisquer termos de serviço aplicáveis a este produto devem ser listados aqui.">
-<!-- points 1-7 text for branded builds -->
 
+<!-- points 1-7 text for branded builds -->
 <!ENTITY rights.webservices-term1 "A &vendorShortName; pode descontinuar ou alterar os Serviços a critério dela.">
 <!ENTITY rights.webservices-term2 "Você é bem-vindo para utilizar estes Serviços com a versão associada do &brandShortName;, e possui todos os direitos necessários para fazê-lo. A &vendorShortName; e seus licenciadores reservam todos os outros direitos sobre os Serviços. Estes termos não são intencionados a limitar nenhum dos direitos concedidos com as licenças de código aberto aplicáveis ao &brandShortName; e as correspondentes versões do código-fonte do &brandShortName;.">
 <!ENTITY rights.webservices-term3 "Os Serviços são fornecidos “tais como estão”. A &vendorShortName;, seus colaboradores, licenciadores e distribuidores se isentam de todas as garantias, sejam expressas ou implícitas, incluindo, entre outras, garantias de que os Serviços sejam comercializáveis e apropriados para os seus fins particulares. Você tolera todo o risco quanto a seleção dos Serviços para os seus fins e quanto à qualidade e desempenho dos Serviços. Algumas jurisdições não permitem a exclusão ou limitação de garantias implícitas, de forma que esta isenção pode não se aplicar a você.">

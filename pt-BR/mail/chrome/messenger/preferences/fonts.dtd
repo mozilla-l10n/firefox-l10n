@@ -20,9 +20,9 @@
 <!ENTITY  sans-serif.accesskey                    "S">
 <!ENTITY  monospace.label                         "Monoespaçada:">
 <!ENTITY  monospace.accesskey                     "o">
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
-
 <!ENTITY  font.langGroup.latin                    "Latino">
 <!ENTITY  font.langGroup.japanese                 "Japonês">
 <!ENTITY  font.langGroup.trad-chinese             "Chinês tradicional (Taiwan)">
@@ -56,19 +56,19 @@
 <!ENTITY minSize.label                            "Tamanho mínimo permitido:">
 <!ENTITY minSize.accesskey                        "m">
 <!ENTITY minSize.none                             "Nenhum">
-<!-- default font type -->
 
+<!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "Com serifa">
 <!ENTITY  useDefaultFontSansSerif.label           "Sem serifa">
-<!-- fonts in message -->
 
+<!-- fonts in message -->
 <!ENTITY  fontControl.label                       "Controle das fontes">
 <!ENTITY  useFixedWidthForPlainText.label         "Usar fonte monoespaçada em mensagens sem formatação">
 <!ENTITY  fixedWidth.accesskey                    "U">
 <!ENTITY  useDocumentFonts.label                  "Mensagens podem usar outras fontes">
 <!ENTITY  useDocumentFonts.accesskey              "n">
-<!-- Language settings -->
 
+<!-- Language settings -->
 <!ENTITY sendDefaultCharset.label         "Para mensagens enviadas:">
 <!ENTITY sendDefaultCharset.accesskey     "r">
 <!ENTITY languagesTitle2.label            "Codificação do texto">
