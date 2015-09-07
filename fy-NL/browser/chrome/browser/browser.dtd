@@ -789,6 +789,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
 <!ENTITY getUserMedia.selectMicrophone.label "Mikrofoan om te dielen:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+<!ENTITY getUserMedia.audioCapture.label "Audio fan it ljepblêd wurdt dield.">
 <!ENTITY getUserMedia.allWindowsShared.message "Alle sichtbere finsters op jo skerm sille dield wurde.">
 
 <!ENTITY trackingProtection.title "Beskerming tsjin folgjen">
