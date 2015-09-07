@@ -21,6 +21,10 @@
 <!ENTITY allowContextmenuDisable.label "Désactiver ou remplacer le menu contextuel d'une page">
 <!ENTITY allowHideStatusBar.label "Masquer la barre d'état">
 
+<!ENTITY enableDrmMedia.label            "Activer les DRM pour">
+<!ENTITY enableEmeForSuite.label         "Modules de déchiffrement de contenu tiers">
+<!ENTITY enableEmeForSuite.accesskey     "o">
+
 <!ENTITY enablePlugins.label "Activer les plugins pour">
 <!ENTITY enablePluginForSuite.label "la Suite">
 <!ENTITY enablePluginForSuite.accesskey "u">

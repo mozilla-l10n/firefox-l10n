@@ -56,8 +56,9 @@
 
 <!ENTITY history_today_section "Aujourd\u0027hui">
 <!ENTITY history_yesterday_section "Hier">
-<!ENTITY history_week_section2 "La semaine dernière">
-<!ENTITY history_older_section2 "Le mois dernier">
+<!ENTITY history_week_section3 "Les 7 derniers jours">
+<!ENTITY history_this_month_section "Ce mois-ci">
+<!ENTITY history_older_section3 "Il y a plus de 6 mois">
 
 <!ENTITY go "Aller">
 <!ENTITY search "Rechercher">
@@ -70,8 +71,6 @@
 <!ENTITY edit_mode_cancel "Annuler">
 
 <!ENTITY close_tab "Fermer l\u0027onglet">
-<!ENTITY tab_audio_playing "Cet onglet émet du son">
-<!ENTITY tab_audio_muted "Cet onglet a été rendu muet">
 <!ENTITY one_tab "1 onglet">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -82,6 +81,15 @@
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
 <!ENTITY switch_button_message "S\u0027Y RENDRE">
+<!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
+     visible in the UI, but rather used as a text-to-speech content description
+     for sight-impaired a11y users. The content description is set on a tab
+     title in a list of open tabs when content in that tab is playing audio.
+     &formatS; will be replaced with the title of the tab, as received from the
+     web page. When audio is not playing in a tab, &formatS; will be used as
+     the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "Émet du son – &formatS;">
+
 
 <!ENTITY settings "Paramètres">
 <!ENTITY settings_title "Paramètres">
@@ -240,7 +248,6 @@
 <!ENTITY pref_plugins_tap_to_play "Appuyer pour lancer la lecture">
 <!ENTITY pref_plugins_disabled "Désactivés">
 <!ENTITY pref_text_size "Taille du texte">
-<!ENTITY pref_reflow_on_zoom4 "Adaptation du texte">
 <!ENTITY pref_restore "Onglets">
 <!ENTITY pref_restore_always "Toujours restaurer">
 <!ENTITY pref_restore_quit "Ne pas restaurer après avoir quitté &brandShortName;">

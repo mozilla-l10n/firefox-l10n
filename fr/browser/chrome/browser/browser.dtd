@@ -114,6 +114,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignIn.label "Se connecter à &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Ouvrir les préférences de &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Se reconnecter à &syncBrand.shortName.label;">
+<!ENTITY fxaUnverified.label "Confirmer votre compte">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; activé">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; débutera la synchronisation dans un instant.">
 <!ENTITY syncErrorPanel.heading "Connexion à &syncBrand.shortName.label; impossible">
@@ -725,6 +726,8 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY identity.moreInfoLinkText2 "Plus d'informations">
 
 <!ENTITY identity.permissions "Permissions">
+<!ENTITY identity.permissionsPageFunctionality "Fonctionnalités de la page">
+<!ENTITY identity.permissionsSystemAccess "Accès système">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->

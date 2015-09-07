@@ -2,12 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  SSLProtocolVersions.caption "Versions du protocole SSL">
-<!ENTITY  SSLWarnings.caption "Avertissements SSL">
+<!ENTITY  SSLTLSProtocolVersions.caption "Versions du protocole SSL/TLS">
+<!ENTITY  SSLTLSWarnings.caption "Avertissements SSL/TLS">
 <!ENTITY  SSLMixedContent.caption "Contenu mixte">
 <!ENTITY  SSLClientAuthMethod.caption "Sélection du certificat client">
 
-<!ENTITY pref.ssl.title "Protocole SSL">
+<!ENTITY pref.ssltls.title                  "Protocole SSL/TLS">
 <!ENTITY limit.description                  "Vous pouvez restreindre les protocoles de chiffrement à utiliser pour les connexions sécurisées. Choisissez une version unique ou une plage contiguë de versions.">
 <!ENTITY limit.enable.label                 "Autoriser :">
 <!ENTITY limit.ssl30.label                  "SSL 3.0">
