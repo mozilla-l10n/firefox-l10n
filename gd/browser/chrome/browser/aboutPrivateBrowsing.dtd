@@ -13,6 +13,8 @@
      of the Tracking Protection section, and in general not much larger than
      30em to prevent the sections from wrapping on smaller window sizes.
      -->
+
+<!ENTITY aboutPrivateBrowsing.width            "35em">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
      aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
      These strings will be replaced by aboutPrivateBrowsing.forgotten and
@@ -23,14 +25,14 @@
 <!ENTITY aboutPrivateBrowsing.subtitle         "Cha chum &brandShortName; eachdraidh na h-uinneige seo ’na chuimhne idir.">
 
 <!ENTITY aboutPrivateBrowsing.forgotten        "Cha chum &brandShortName; na leanas ’na chuimhne:">
-
+<!ENTITY aboutPrivateBrowsing.info.forgotten   "Gun sàbhaladh">
 <!ENTITY aboutPrivateBrowsing.info.history     "Eachdraidh">
 <!ENTITY aboutPrivateBrowsing.info.searches    "Na chaidh a lorg">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Briosgaidean">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Faidhlichean sealach">
 
 <!ENTITY aboutPrivateBrowsing.kept             "Cumaidh &brandShortName; na leanas:">
-
+<!ENTITY aboutPrivateBrowsing.info.kept        "Air a shàbhaladh">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Luchdaidhean a-nuas">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Comharran-lìn">
 
