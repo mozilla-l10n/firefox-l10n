@@ -139,7 +139,7 @@
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "Meca me twero">
-
+<!ENTITY permissionstable_name_header "Nying">
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "Ngec me cawa me tic">
@@ -162,7 +162,7 @@
 <!ENTITY devicepreference_newtext "Wel pi ma imaro">
 <!ENTITY devicepreference_addnew "Med ma imaro manyen">
 <!-- Device Settings -->
-
+<!ENTITY devicesetting_search "Ter me yeny">
 
 
 
@@ -186,7 +186,7 @@
 <!-- Simulator Options -->
 
 
-
+<!ENTITY simulator_name "Nying">
 
 <!ENTITY simulator_version "Cik">
 

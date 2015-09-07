@@ -39,7 +39,7 @@
 
 <!ENTITY syncDeviceName.label       "Nying Nyonyo:">
 <!ENTITY syncDeviceName.accesskey   "y">
-
+<!ENTITY fxaSyncDeviceName.label       "Nying Nyonyo">
 
 <!ENTITY cancelChangeSyncDeviceName.label "Juk">
 <!ENTITY saveChangeSyncDeviceName.label "Gwok">
@@ -78,15 +78,15 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.label                "Wek wiyi owil ikom email man">
 
 <!ENTITY welcome.description "Nong dirica matino, alama me buk, mung me donyo ki mukene mamegi ka itiyo ki &brandShortName;.">
-
-
+<!ENTITY welcome.signIn.label "Dony iye">
+<!ENTITY welcome.createAccount.label "Cwe akaunt">
 
 <!ENTITY welcome.useOldSync.label "Itye katic ki kit Tim marom macon?">
 
 
 
-
-
+<!ENTITY signedOut.accountBox.create  "Cwe akaunt">
+<!ENTITY signedOut.accountBox.signin  "Dony iye">
 
 
 <!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
