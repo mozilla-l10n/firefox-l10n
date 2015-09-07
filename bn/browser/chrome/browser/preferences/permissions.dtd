@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                 "ব্যতিক্রম">
-
+<!ENTITY window.width                 "45em">
 
 <!ENTITY treehead.sitename.label      "সাইট">
 <!ENTITY treehead.status.label        "অবস্থা">
@@ -23,6 +23,6 @@
 
 <!ENTITY button.cancel.label          "বাতিল (C)">
 <!ENTITY button.cancel.accesskey      "C">
-
-
+<!ENTITY button.ok.label              "Sপরিবর্তনগুলি সংরক্ষন করুন">
+<!ENTITY button.ok.accesskey          "S">
 

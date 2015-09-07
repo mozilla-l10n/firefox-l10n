@@ -90,7 +90,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterHTML): This is the label displayed
   -  in the network details footer for the "HTML" filtering button. -->
 
-<!ENTITY netmonitorUI.footer.filterHTML   "এইচ টি এম এল">
+<!ENTITY netmonitorUI.footer.filterHTML   "HTML">
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterCSS): This is the label displayed
   -  in the network details footer for the "CSS" filtering button. -->
 
@@ -189,7 +189,7 @@
   -  in the network details timings tab identifying the amount of time spent
   -  in a "dns" state. -->
 
-<!ENTITY netmonitorUI.timings.dns         "ডিএনএস রেজুলেশন:">
+<!ENTITY netmonitorUI.timings.dns         "DNS রেজুলেশন:">
 <!-- LOCALIZATION NOTE (netmonitorUI.timings.connect): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "connect" state. -->
@@ -213,7 +213,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.security.warning.protocol): A tooltip
   -  for warning icon that indicates a connection uses insecure protocol. -->
 
-<!ENTITY netmonitorUI.security.warning.sslv3      "প্রোটোকল SSL- র 3.0 অসমর্থিত এবং নিরাপদ নয়।">
+<!ENTITY netmonitorUI.security.warning.sslv3      "প্রোটোকল SSL- র 3.0 অসমর্থিত এবং অনিরাপদ হয়।">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.warning.cipher): A tooltip
   -  for warning icon that indicates a connection uses insecure cipher suite. -->
 

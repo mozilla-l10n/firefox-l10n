@@ -24,7 +24,7 @@
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
 
-<!ENTITY remoteHelp "ফায়ারফক্স ডেভেলপার টুল রিমোট ডিভাইস (যেমন, এন্ড্রয়েডের জন্য ফায়ারফক্স এবং ফায়ারফক্স ওএস) ডিবাগ করতে পারে। নিশ্চিত করুন যে, আপনি রিমোট ডিভাইসের 'রিমোট ডিবাগিং' অপশনটি চালু রেখেছেন। আরো জানার জন্য, দেখুন ">
+<!ENTITY remoteHelp "ফায়ারফক্স ডেভেলপার টুল রিমোট ডিভাইস (যেমন, Android জন্য Firefox এবং Firefox OS) ডিবাগ করতে পারে। নিশ্চিত করুন যে, আপনি রিমোট ডিভাইসের 'রিমোট ডিবাগিং' অপশনটি চালু রেখেছেন। আরো জানার জন্য, দেখুন ">
 <!ENTITY remoteDocumentation "ডকুমেন্টেশন">
 <!ENTITY remoteHelpSuffix ".">
 
