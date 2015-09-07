@@ -726,6 +726,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.moreInfoLinkText2 "Ďalšie informácie">
 
 <!ENTITY identity.permissions "Povolenia">
+<!ENTITY identity.permissionsPageFunctionality "Funkcionalita stránky">
+<!ENTITY identity.permissionsSystemAccess "Prístup k systému">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
