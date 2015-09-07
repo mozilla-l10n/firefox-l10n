@@ -16,17 +16,14 @@
      -->
 <!ENTITY aboutPrivateBrowsing.width1           "30em">
 <!ENTITY aboutPrivateBrowsing.title            "Ste v režime Súkromné prehliadanie">
-<!ENTITY aboutPrivateBrowsing.subtitle         "V tomto okne &brandShortName; nebude ukladať žiadnu históriu.">
 
-<!ENTITY aboutPrivateBrowsing.forgotten        "V tomto okne &brandShortName; nebude ukladať:">
-<!ENTITY aboutPrivateBrowsing.info.forgotten   "Zabudnuté">
+<!ENTITY aboutPrivateBrowsing.info.notsaved    "Neukladá sa">
 <!ENTITY aboutPrivateBrowsing.info.history     "História">
 <!ENTITY aboutPrivateBrowsing.info.searches    "Hľadania">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Cookies">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Dočasné súbory">
 
-<!ENTITY aboutPrivateBrowsing.kept             "&brandShortName; zachová:">
-<!ENTITY aboutPrivateBrowsing.info.kept        "Ponechané">
+<!ENTITY aboutPrivateBrowsing.info.saved       "Ukladá sa">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Prevzaté súbory">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Záložky">
 
