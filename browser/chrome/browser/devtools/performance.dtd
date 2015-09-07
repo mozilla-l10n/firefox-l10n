@@ -11,8 +11,14 @@
 <!-- LOCALIZATION NOTE (performanceUI.startRecording/performanceUI.stopRecording): These are
   -  the labels shown on the main recording buttons to start/stop recording. -->
 
+
+
+<!ENTITY performanceUI.startRecording "রেকর্ডিং কার্যকারীতা শুরু করুন">
+<!ENTITY performanceUI.stopRecording  "রেকর্ডিং কার্যকারিতা বন্ধ করুন">
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusTooltip): This string
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
+
+<!ENTITY performanceUI.bufferStatusTooltip "প্রোফাইলার একটি বিজ্ঞপ্তি বাফারে নমুনা সঞ্চয়, এবং বাফার একটি রেকর্ডিং জন্য সীমা ছুঁয়েছে, নতুন নমুনা রেকর্ডিং শুরুতে নমুনা মুছে ফেলা শুরু.">
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.nonE10SBuild): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a non-multiprocess build. -->
