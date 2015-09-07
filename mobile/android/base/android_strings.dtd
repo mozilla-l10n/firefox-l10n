@@ -237,7 +237,6 @@
 <!ENTITY pref_plugins_tap_to_play "Prehrávať po ťuknutí">
 <!ENTITY pref_plugins_disabled "Zakázané">
 <!ENTITY pref_text_size "Veľkosť textu">
-<!ENTITY pref_reflow_on_zoom4 "Zaostriť text">
 <!ENTITY pref_restore "Karty">
 <!ENTITY pref_restore_always "Vždy obnoviť karty">
 <!ENTITY pref_restore_quit "Neobnovovať po ukončení &brandShortName;u">
