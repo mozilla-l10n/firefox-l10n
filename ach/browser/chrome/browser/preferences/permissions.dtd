@@ -23,6 +23,6 @@
 
 <!ENTITY button.cancel.label          "Juk">
 <!ENTITY button.cancel.accesskey      "J">
-
-
+<!ENTITY button.ok.label              "Gwok alokaloka">
+<!ENTITY button.ok.accesskey          "G">
 

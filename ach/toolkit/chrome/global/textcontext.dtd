@@ -25,6 +25,7 @@
 <!ENTITY spellDictionaries.label "Leb">
 <!ENTITY spellDictionaries.accesskey "L">
 
+<!ENTITY searchTextBox.clear.label "Jwa">
 
 
 
@@ -32,4 +33,4 @@
 
 
 
-
+<!ENTITY viewSavedLogins.label        "Nen donyoiyie kigwoko">

@@ -174,4 +174,5 @@ functionality specific to firefox. -->
 <!ENTITY sslv3Used.title "Pe twero kube ma ber bedo tye">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "ssl_error_unsupported_version". -->
+<!ENTITY sslv3Used.longDesc "Ngec me lamal: ssl_error_unsupported_version">
 <!ENTITY sslv3Used.learnMore "Nong ngec mapol…">

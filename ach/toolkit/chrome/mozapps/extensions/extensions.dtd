@@ -4,7 +4,7 @@
 <!ENTITY addons.windowTitle                   "Lalo med-ikome">
 
 <!ENTITY search.placeholder                   "Yeny med-ikome weng">
-
+<!ENTITY search.buttonlabel                   "Yeny">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
@@ -38,6 +38,8 @@
 <!ENTITY info.plugincheck.label                 "Ngi me neno kace larwak mamegi tye kakare">
 <!ENTITY info.plugincheck.tooltip               "Roti pi neno ka gi rwako ni tye kakare">
 <!-- categories / views -->
+
+<!ENTITY view.search.label                    "Yeny">
 <!ENTITY view.discover.label                  "Gam med-ikome">
 <!ENTITY view.recentUpdates.label             "Ngec manyen ma cokki">
 <!ENTITY view.availableUpdates.label          "Ngec manyen matye">
@@ -102,8 +104,8 @@
 <!ENTITY cmd.installAddon.accesskey           "K">
 <!ENTITY cmd.uninstallAddon.label             "Kwany woko">
 <!ENTITY cmd.uninstallAddon.accesskey         "K">
-
-
+<!ENTITY cmd.debugAddon.label                 "Nong bal">
+<!ENTITY cmd.debugAddon.accesskey             "n">
 <!ENTITY cmd.showPreferencesWin.label         "Gin ayera">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Lok gin ayera me med-ikome man">
 <!ENTITY cmd.showPreferencesUnix.label        "Gin ma imito">
@@ -231,6 +233,7 @@ med-ikome mogo ma beco loyo dok ngen tutwal pi yin me temo gi.">
 <!ENTITY experiment.info.changetelemetry "Ter me Pimo tic">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
 
+<!ENTITY setting.learnmore "Nong ngec Mapol…">
 
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
