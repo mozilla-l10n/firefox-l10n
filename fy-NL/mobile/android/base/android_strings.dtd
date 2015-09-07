@@ -10,6 +10,7 @@
 <!ENTITY  onboard_start_subtext3 "Meitsje jo mobile webbrowserûnderfining echt fan josels.">
 <!ENTITY  onboard_start_button_account "Meld jo oan by &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Start mei browsen">
+<!ENTITY  onboard_start_restricted1 "Bliuw feilich en yn kontrôle mei dizze ferienfâldige ferzje fan &brandShortName;.">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
@@ -68,6 +69,8 @@
 <!ENTITY edit_mode_cancel "Annulearje">
 
 <!ENTITY close_tab "Ljepblêd slute">
+<!ENTITY tab_audio_playing "Dit ljepblêd spilet audio ôf">
+<!ENTITY tab_audio_muted "Dit ljepblêd is dempt">
 <!ENTITY one_tab "1 ljepblêd">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -155,6 +158,9 @@
 <!ENTITY pref_search_hint "TIP: foegje in website oan jo list mei sykproviders ta troch jo finger op it sykfjild dêrfan te hâlden en dêrnei op it piktogram &formatI; te tikken.">
 <!ENTITY pref_category_devtools "Untwikkelersark">
 <!ENTITY pref_developer_remotedebugging "Remote debugging">
+<!ENTITY pref_developer_remotedebugging_usb "Remote debugging fia USB">
+<!ENTITY pref_developer_remotedebugging_wifi "Remote debugging fia wifi">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wifi-debugging vereist dat een QR-codelezer-app op uw apparaat is geïnstalleerd.">
 <!ENTITY pref_category_logins "Oanmeldingen">
 <!ENTITY pref_remember_signons2 "Oanmeldingen ûnthâlde">
 <!ENTITY pref_open_external_urls_privately_title "Keppelingen iepenje yn Priveenavigaasje">
@@ -169,7 +175,7 @@
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
-<!ENTITY home_add_panel_installed "\'&formatS;\' tafoege oan startside">
+<!ENTITY home_add_panel_installed "‘&formatS;’ tafoege oan startside">
 <!ENTITY pref_category_home_content_settings "Ynhâldsynstellingen">
 <!ENTITY pref_home_updates "Automatyske fernijingen">
 <!ENTITY pref_home_updates_enabled "Ynskeakele">
@@ -192,15 +198,20 @@
 <!ENTITY pref_cookies_disabled "Utskeakele">
 
 <!ENTITY pref_tracking_protection_title "Beskerming tsjin folgjen">
-<!ENTITY pref_tracking_protection_summary "&brandShortName; sil opkeare dat websites jo folgje">
+<!ENTITY pref_tracking_protection_summary3 "Ynskeakele yn Priveenavigaasje">
 <!ENTITY pref_donottrack_title "Net folgje">
 <!ENTITY pref_donottrack_summary "&brandShortName; sil websites witte litte dat jo net folge wurde wol">
+
+<!ENTITY tracking_protection_prompt_title "No mei Beskerming tsjin folgjen">
+<!ENTITY tracking_protection_prompt_text "Blokkearje aktyf folcheleminten, sadat jo jo gjin soargen hoege te meitsjen.">
+<!ENTITY tracking_protection_prompt_tip_text "Besykje Privacyynstellingen foar mear ynfo">
+<!ENTITY tracking_protection_prompt_action_button "Begrepen!">
 
 <!ENTITY tab_queue_toast_message3 "Ljepblêd bewarre yn &brandShortName;">
 <!ENTITY tab_queue_toast_action "No iepenje">
 <!ENTITY tab_queue_prompt_title "Mear keppelingen iepenje?">
-<!ENTITY tab_queue_prompt_text3 "Bewarje se foar de folgjende kear dat jo &brandShortName; iepenje">
-<!ENTITY tab_queue_prompt_tip_text "jo kinne dit letter wizigjen yn Ynstellingen">
+<!ENTITY tab_queue_prompt_text4 "Bewarje se foar de folgjende kear dat jo &brandShortName; iepenje.">
+<!ENTITY tab_queue_prompt_tip_text2 "Jo kinne dit letter wizigje yn Ynstellingen">
 <!ENTITY tab_queue_prompt_positive_action_button "Ynskeakelje">
 <!ENTITY tab_queue_prompt_negative_action_button "No net">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
@@ -330,7 +341,6 @@ size. -->
 <!ENTITY addons "Add-ons">
 <!ENTITY logins "Oanmeldingen">
 <!ENTITY downloads "Downloads">
-<!ENTITY apps "Apps">
 <!ENTITY char_encoding "Tekenset">
 
 <!ENTITY share "Diele">
@@ -401,6 +411,11 @@ size. -->
 <!ENTITY pref_titlebar_mode_title "Sidetitel toane">
 <!ENTITY pref_titlebar_mode_url "Side-adres toane">
 
+<!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
+     whether or not the magnifying glass is disabled. -->
+<!ENTITY pref_prevent_magnifying_glass "Fergrutglês útskeakelje ">
+<!ENTITY pref_prevent_magnifying_glass_summary "Fergrutglês foarkomme foar gebrûk by ferhelpen fan net-ienduidige skermoanrakingen">
+
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar2 "Folsleinskerm browse">
@@ -426,10 +441,10 @@ size. -->
 <!ENTITY site_settings_clear        "Wiskje">
 <!ENTITY site_settings_no_settings  "Der binne gjin ynstellingen om te wiskjen.">
 
-<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+<!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
-<!ENTITY reading_list_added2 "Tafoege oan list">
-<!ENTITY reading_list_removed "Side út jo lêslist fuortsmiten">
+<!ENTITY reading_list_added3 "Tafoege oan lêslist">
+<!ENTITY reading_list_removed "Side fan jo lêslist fuortsmiten">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
 <!ENTITY reading_list_remove "Fuortsmite fan lêslist">
@@ -480,7 +495,7 @@ size. -->
 <!ENTITY home_most_recent_empty "Meast resint besochte websites komme hjir.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
        The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
-<!ENTITY home_most_recent_emptyhint2 "Psst: in &formatS1;Nij priveeljepblêd&formatS2; iepenje sil jo skiednis net bewarje.">
+<!ENTITY home_most_recent_emptyhint2 "Psst: in &formatS1;Nij priveeljepblêd&formatS2; iepenje sil gjin skiednis fan jo bewarje.">
 <!ENTITY home_reading_list_empty "Artikelen dy\'t jo foar letter bewarje ferskine hjir.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -545,21 +560,25 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_run_by "dy\'t beheard wurdt troch">
-<!ENTITY identity_no_info "Dizze website jout gjin identiteitsynformaasje.">
-<!ENTITY identity_not_encrypted "Jo ferbining mei dizze website is net fersifere.">
-<!ENTITY identity_encrypted "Fersifere">
+<!ENTITY identity_connection_secure "Befeilige ferbining">
+<!ENTITY identity_connection_insecure "Net-befeilige ferbining">
 
 <!-- Mixed content notifications in site identity popup -->
-<!ENTITY loaded_mixed_content_message "Dizze side jout ynhâld wer dy\'t net befeilige is.">
-<!ENTITY blocked_mixed_content_message_top "&brandShortName; hat ynhâld dy\'t net befeilige is blokkearre.">
+<!ENTITY mixed_content_blocked_all "&brandShortName; hat ûnfeilige eleminten op dize side blokkearre.">
+<!ENTITY mixed_content_blocked_some "&brandShortName; hat inkele ûnfeilige eleminten op dizze side blokkearre.">
+<!ENTITY mixed_content_display_loaded "Dizze side befettet inkele ûnfeilige eleminten.">
+<!ENTITY mixed_content_protection_disabled "Jo hawwe befeiliging tsjin ûnfeilige eleminten útskeakele.">
+
+<!ENTITY loaded_mixed_content_message "Dizze side jout ynhâld wer dy\'t net feilich is.">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; hat ynhâld dy\'t net feilich is blokkearre.">
 <!ENTITY blocked_mixed_content_message_bottom "De measte websites sille gewoanwei wurkje, sels wannear\'t dizze ynhâld blokkearre wurdt.">
 
 <!-- Tracking content notifications in site identity popup -->
-<!ENTITY loaded_tracking_content_message_top "Beskerming tsjin folgjen útskeakele.">
-<!ENTITY loaded_tracking_content_message_bottom "Dielen fan dizze side kinne miskien jo online-aktiviteit folgje.">
-<!ENTITY blocked_tracking_content_message_top2 "Beskerming tsjin folgjen ynskeakele.">
-<!ENTITY blocked_tracking_content_message_bottom2 "Dielen fan de side dy\'t jo online-aktiviteit folgje binne blokkearre.">
+<!ENTITY doorhanger_tracking_title "Beskerming tsjin folgjen">
+<!ENTITY doorhanger_tracking_state_enabled "Ynskeakele">
+<!ENTITY doorhanger_tracking_state_disabled "Utskeakele">
+<!ENTITY doorhanger_tracking_message_enabled1 "Besykjen om jo onlinegedrach te folgjen binne blokkearre.">
+<!ENTITY doorhanger_tracking_message_disabled2 "Dizze side befettet eleminten dy\'t jo sneupgedrach folgje soene kinne.">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Mear ynfo">
@@ -645,10 +664,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Voice search in the awesome bar -->
 <!ENTITY voicesearch_prompt "Sprek no">
-<!ENTITY voicesearch_failed_title "&brandShortName; Spraaksykjen">
-<!ENTITY voicesearch_failed_message "Der is op dit stuit in probleem mei spraaksykjen. Probearje it letter opnij.">
-<!ENTITY voicesearch_failed_message_recoverable "Sorry! Wy koenen jo wurden net werkenne. Probearje it opnij.">
-<!ENTITY voicesearch_failed_retry "Opnij probearje">
 
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
@@ -666,3 +681,25 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY find_matchcase "Aa">
 
 <!ENTITY intent_uri_cannot_open "Kin keppeling net iepenje">
+
+<!-- DevTools Authentication -->
+<!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
+     above a QR reader that is actively scanning for QR codes.  The expected QR
+     code has already been displayed by the client trying to connect (such as
+     desktop Firefox via WebIDE), so you just need to aim this device at the QR
+     code. -->
+<!ENTITY devtools_auth_scan_header "QR-code skanne dy\'t op jo oare apparaat werjûn wurdt">
+
+<!-- Restrictions -->
+<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+     a restricted profile (e.g. child). Used inside the Android settings UI. -->
+<!ENTITY restriction_disallow_import_settings_title2 "‘Ymportearje út Android’ útskeakelje">
+<!ENTITY restriction_disallow_addons_title2 "Add-on-ynstallaasje útskeakelje">
+<!ENTITY restriction_disallow_devtools_title2 "Untwikkelershelpmiddelen útskeakelje">
+<!ENTITY restriction_disallow_customize_home_title2 "Startside-oanpassing útskeakelje">
+<!ENTITY restriction_disallow_private_browsing_title2 "Priveenavigaasje útskeakelje">
+<!ENTITY restriction_disallow_location_services_title2 "Lokaasjeservices útskeakelje">
+<!ENTITY restriction_disallow_display_settings_title2 "Werjefte-ynstellingen útskeakelje">
+<!ENTITY restriction_disallow_clear_history_title2 "‘Skiednis wiskje’ útskeakelje">
+<!ENTITY restriction_disallow_master_password_title2 "Haadwachtwurd útskeakelje">
+<!ENTITY restriction_disallow_guest_browsing_title2 "Gastnavigaasje útskeakelje">

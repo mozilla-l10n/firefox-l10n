@@ -230,6 +230,7 @@
 <!ENTITY fxaccount_remove_account_toast 'Firefox-account &formatS; fuortsmiten.'>
 
 <!ENTITY fxaccount_remove_account_menu_item 'Account fuortsmite'>
+<!ENTITY fxaccount_enable_debug_mode 'Debugmoadus ynskeakelje'>
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
@@ -256,7 +257,7 @@
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Tsjinner is dwaande, probearje it letter opnij'>
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Tsjinner is dwaande, probearje it letter opnij'>
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Der wie in probleem'>
-<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT 'Kin net ferbine mei it netwurk'>
+<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT 'Kin net ferbine mei netwurk'>
 <!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Account is beskoattele. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; is net ferbûn'>
