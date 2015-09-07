@@ -13,6 +13,8 @@
      of the Tracking Protection section, and in general not much larger than
      30em to prevent the sections from wrapping on smaller window sizes.
      -->
+
+<!ENTITY aboutPrivateBrowsing.width            "30em">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
      aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
      These strings will be replaced by aboutPrivateBrowsing.forgotten and
@@ -23,14 +25,14 @@
 <!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; njebudźe sej historiju w tutym woknje spomjatkować.">
 
 <!ENTITY aboutPrivateBrowsing.forgotten        "W tutym woknje &brandShortName; njebudźe sej spomjatkować:">
-
+<!ENTITY aboutPrivateBrowsing.info.forgotten   "Njeskładowany">
 <!ENTITY aboutPrivateBrowsing.info.history     "Historija">
 <!ENTITY aboutPrivateBrowsing.info.searches    "Pytanja">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Placki">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Nachwilne dataje">
 
 <!ENTITY aboutPrivateBrowsing.kept             "&brandShortName; wobchowa:">
-
+<!ENTITY aboutPrivateBrowsing.info.kept        "Składowany">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Sćehnjenja">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Zapołožki">
 
