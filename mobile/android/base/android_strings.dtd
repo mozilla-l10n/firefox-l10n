@@ -353,6 +353,7 @@ size. -->
 <!ENTITY share_title "Zdieľať cez">
 <!ENTITY share_image_failed "Nie je možné zdieľať tento obrázok">
 <!ENTITY save_as_pdf "Uložiť ako PDF">
+<!ENTITY print "Tlačiť">
 <!ENTITY find_in_page "Hľadať na stránke">
 <!ENTITY desktop_mode "Plná verzia stránky">
 <!ENTITY page "Stránka">
