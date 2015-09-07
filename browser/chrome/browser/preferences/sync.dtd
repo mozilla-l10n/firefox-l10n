@@ -82,12 +82,15 @@ both, to better adapt this sentence to their language.
 <!ENTITY welcome.useOldSync.label "পুরনো সিঙ্ক ব্যবহার করছেন?">
 
 <!ENTITY signedOut.caption            "আপনার সঙ্গে আপনার ওয়েব নিন">
+<!ENTITY signedOut.description        "আপনার সকল ডিভাইস জুড়ে আপনার বুকমার্ক, ইতিহাস, ট্যাব, পাসওয়ার্ড, অ্যাড টার্ন, এবং পছন্দ সিংক্রোনাইজ করুন.">
+<!ENTITY signedOut.accountBox.title   "&syncBrand.fxAccount.label; এর সাথে কানেক্ট করো">
+<!ENTITY signedOut.accountBox.create  "অ্যাকাউন্ট তৈরি করুন">
 
 
+<!ENTITY signedIn.engines.label       "সব ডিভাইসগুলি জুড়ে সিঙ্ক করুন">
 
-
-
-
+<!ENTITY mobilePromo.start            "ফায়ারফক্স ডাউনলোড">
 <!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
-
-
+<!ENTITY mobilePromo.androidLink      "Android™">
+<!ENTITY mobilePromo.end              "আপনার মোবাইল ডিভাইসের সাথে সিঙ্ক করতে।">
+<!ENTITY androidAttribution           "অ্যানড্রইড গুগল ইনক একটি ট্রেডমার্ক">

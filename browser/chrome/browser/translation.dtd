@@ -12,9 +12,12 @@
   -  the correct grammar case to keep the same structure of the original
   -  sentence. -->
 
+<!ENTITY translation.thisPageIsIn.label         "এই পৃষ্ঠাটি আছে">
+<!ENTITY translation.translateThisPage.label    "এই পাতাটি অনুবাদ করবেন ?">
+<!ENTITY translation.translate.button           "অনুবাদ">
+<!ENTITY translation.notNow.button              "এই মূহুর্তে নয়।">
 
-
-
+<!ENTITY translation.translatingContent.label   "পাতা বিষয়বস্তু অনুবাদ করা হচ্ছে...">
 <!-- LOCALIZATION NOTE (translation.translatedFrom.label,
   -                     translation.translatedTo.label,
   -                     translation.translatedToSuffix.label):
@@ -68,3 +71,5 @@
   -  the other two strings when yandex translation engine is preferred by the
   -  user.
   -->
+
+<!ENTITY translation.options.attribution.yandexTranslate "Yandex দ্বারা চালিত । অনুবাদ করা">
