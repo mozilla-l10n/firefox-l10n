@@ -56,22 +56,25 @@
 <!ENTITY lineNumbers.label             "লাইন নম্বর দেখাও L">
 <!ENTITY lineNumbers.accesskey         "L">
 
-
+<!ENTITY wordWrap.label                "টেক্সট মোড়ানো W">
+<!ENTITY wordWrap.accesskey            "W">
 
 <!ENTITY highlightTrailingSpace.label     "ট্রেইলিং স্পেস হাইলাইট করুন H">
 <!ENTITY highlightTrailingSpace.accesskey "H">
 
 <!ENTITY largerFont.label             "বড় ফন্ট a">
 <!ENTITY largerFont.accesskey         "a">
-
+<!ENTITY largerFont.commandkey        "+">
 <!-- + is above this key on many keyboards -->
+<!ENTITY largerFont.commandkey2       "="> 
 
-<!ENTITY smallerFont.label            "ছোট ফন্ট m">
+<!ENTITY smallerFont.label            "ছোট অক্ষর">
 <!ENTITY smallerFont.accesskey        "m">
+<!ENTITY smallerFont.commandkey       "-">
 
-
-
-
+<!ENTITY normalSize.label             "সাধারণ আকার N">
+<!ENTITY normalSize.accesskey         "N">
+<!ENTITY normalSize.commandkey        "0">
 
 <!ENTITY editMenu.label               "সম্পাদনা (E)">
 <!ENTITY editMenu.accesskey           "E">
@@ -88,8 +91,9 @@
 <!ENTITY display.accesskey            "D">
 <!ENTITY display.key                  "l">
 
+<!ENTITY pprint.label                 "চমত্কার মুদ্রণ P">
 <!ENTITY pprint.key                   "p">
-
+<!ENTITY pprint.accesskey             "P">
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
   -  menu in the text area. It refers to the JavaScript Environment (or context)
@@ -121,7 +125,7 @@
 <!ENTITY helpMenuWin.label            "সহায়তা H">
 <!ENTITY helpMenuWin.accesskey        "H">
 
-<!ENTITY documentationLink.label      "M &amp; DN এর স্ক্র্যাচপ্যাড সহায়তা">
+<!ENTITY documentationLink.label      "MDN-এ উপস্থিত Scratchpad-র সহায়তা">
 <!ENTITY documentationLink.accesskey  "D">
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.

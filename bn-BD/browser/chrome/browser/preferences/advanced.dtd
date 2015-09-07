@@ -34,8 +34,8 @@
 <!ENTITY healthReportLearnMore.label     "আরও জানুন…">
 
 <!ENTITY telemetryDesc.label             "&brandShortName;-কে আরও ভাল করে তুলতে আমাদের সাহায্য করার জন্য আপনার ব্রাউজারের কর্মক্ষমতা, ব্যবহার, হার্ডওয়্যার এবং স্বনির্ধারণ সম্পর্কিত তথ্য &vendorShortName;-কে জানায়">
-
-
+<!ENTITY enableTelemetryData.label       "সহযোগী ডেটা শেয়ার করুন (i.e &amp; telemetry)">
+<!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "আরও জানুন…">
 
 <!ENTITY crashReporterDesc.label         "&brandShortName; ক্র্যাশ প্রতিবেদন জমা দিয়ে &vendorShortName; কে সাহায্য করে, এতে আপনার ব্রাউজারে আরো স্থিতিশীল ও নিরাপদ হয়">
@@ -112,9 +112,9 @@
 <!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "প্রতিবার জিজ্ঞেস করা হবে">
 <!ENTITY certs.ask.accesskey             "A">
-
-
-
-
-
-
+<!ENTITY enableOCSP.label                "ইস্যুকারীর OCSP উত্তরের রিপোর্ট সার্টিফিকেটের যোগ্যতা বাতিল করা হয়েছে।">
+<!ENTITY enableOCSP.accesskey            "Q">
+<!ENTITY viewCerts.label                 " সার্টিফিকেট দেখুন (V)">
+<!ENTITY viewCerts.accesskey             "V">
+<!ENTITY viewSecurityDevices.label       "নিরাপত্তা ডিভাইস (Y) ">
+<!ENTITY viewSecurityDevices.accesskey   "Y">

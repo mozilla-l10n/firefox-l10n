@@ -20,6 +20,8 @@
 <!ENTITY webAudioEditorUI.reloadNotice2   "অডিও কনটেক্সট দেখতে এবং সম্পাদনা করতে এই পৃষ্ঠাটি।">
 <!-- LOCALIZATION NOTE (webAudioEditorUI.emptyNotice): This is the label shown
   -  while the page is refreshing and the tool waits for a audio context. -->
+
+<!ENTITY webAudioEditorUI.emptyNotice     "একটি অডিও প্রেক্ষাপট তৈরি করার জন্য অপেক্ষা করা হচ্ছে ">
 <!-- LOCALIZATION NOTE (webAudioEditorUI.tab.properties2): This is the label shown
   -  for the properties tab view. -->
 
