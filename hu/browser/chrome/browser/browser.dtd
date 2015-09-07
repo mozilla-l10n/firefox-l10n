@@ -432,7 +432,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      display a string after the search engine name.  This string will be displayed
      as:  "Search <selected engine name><searchAfter.label text>" -->
 
-<!ENTITY search.label                 "Search ">
+<!ENTITY search.label                 "">
 <!ENTITY searchAfter.label            " keresés">
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
