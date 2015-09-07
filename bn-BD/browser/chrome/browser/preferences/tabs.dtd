@@ -8,7 +8,8 @@
 <!ENTITY warnCloseMultipleTabs.label  "একাধিক ট্যাব বন্ধ করার চেষ্টা করা হলে সতর্ক করা হবে (m)">
 <!ENTITY warnCloseMultipleTabs.accesskey  "m">
 
-
+<!ENTITY warnOpenManyTabs.label       "একাধিক ট্যাব খোলার ফলে &brandShortName; ধীর হয়ে যাবার সম্ভবনা থাকলে সতর্ক করুন">
+<!ENTITY warnOpenManyTabs.accesskey   "d">
 
 
 
