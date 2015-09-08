@@ -52,15 +52,15 @@
 <!ENTITY event.dialog.select.all.key              "A">
 <!-- Menubar -->
 
-<!ENTITY  event.menu.item.new.label                       "Creează">
-<!ENTITY  event.menu.item.new.accesskey                   "C">
+<!ENTITY  event.menu.item.new.label                       "Nou">
+<!ENTITY  event.menu.item.new.accesskey                   "N">
 <!ENTITY  event.menu.item.new.event.label                 "Eveniment">
 <!ENTITY  event.menu.item.new.event.accesskey             "E">
 <!ENTITY  event.menu.item.new.task.label                  "Sarcină">
-<!ENTITY  event.menu.item.new.task.accesskey              "S">
+<!ENTITY  event.menu.item.new.task.accesskey              "r">
 <!ENTITY  event.menu.item.new.message.label               "Mesaj">
 <!ENTITY  event.menu.item.new.message.accesskey           "M">
-<!ENTITY  event.menu.item.new.contact.label               "Contact în agenda de contacte">
+<!ENTITY  event.menu.item.new.contact.label               "Contact în agendă">
 <!ENTITY  event.menu.item.new.contact.accesskey           "C">
 <!ENTITY  event.menu.item.close.label                     "Închide">
 <!ENTITY  event.menu.item.close.accesskey                 "c">
@@ -117,8 +117,8 @@
 <!ENTITY  event.menu.options.priority.normal.accesskey        "N">
 <!ENTITY  event.menu.options.priority.high.label              "Mare">
 <!ENTITY  event.menu.options.priority.high.accesskey          "M">
-<!ENTITY  event.menu.options.privacy.label                    "Intimitate">
-<!ENTITY  event.menu.options.privacy.accesskey                "I">
+<!ENTITY  event.menu.options.privacy.label                    "Confidențialitate">
+<!ENTITY  event.menu.options.privacy.accesskey                "i">
 <!ENTITY  event.menu.options.privacy.public.label             "Eveniment public">
 <!ENTITY  event.menu.options.privacy.public.accesskey         "u">
 <!ENTITY  event.menu.options.privacy.confidential.label       "Arată numai data și ora">
@@ -196,7 +196,7 @@
 <!ENTITY event.attachments.popup.remove.accesskey         "r" >
 <!ENTITY event.attachments.popup.open.label               "Deschide" >
 <!ENTITY event.attachments.popup.open.accesskey           "D" >
-<!ENTITY event.attachments.popup.removeAll.label          "Înlătură-le pe toate" >
+<!ENTITY event.attachments.popup.removeAll.label          "Elimină-le pe toate" >
 <!ENTITY event.attachments.popup.removeAll.accesskey      "a" >
 <!ENTITY event.attachments.popup.attachPage.label         "Atașează o pagină web…" >
 <!ENTITY event.attachments.popup.attachPage.accesskey     "w" >
