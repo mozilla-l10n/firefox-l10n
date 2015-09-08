@@ -6,7 +6,7 @@
 <!ENTITY Addrbook.accesskey                    "A">
 <!ENTITY GeneratedName.label                   "Nume">
 <!ENTITY GeneratedName.accesskey               "N">
-<!ENTITY PrimaryEmail.label                    "Email">
+<!ENTITY PrimaryEmail.label                    "E-mail">
 <!ENTITY PrimaryEmail.accesskey                "E">
 <!ENTITY Company.label                         "Organizație">
 <!ENTITY Company.accesskey                     "O">

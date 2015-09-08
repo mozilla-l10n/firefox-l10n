@@ -36,7 +36,7 @@
 <!ENTITY NickName.label                 "Pseudonim:">
 <!ENTITY NickName.accesskey             "n">
 
-<!ENTITY PrimaryEmail.label             "Email:">
+<!ENTITY PrimaryEmail.label             "E-mail:">
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "Email suplimentar:">
 <!ENTITY SecondEmail.accesskey          "m">
