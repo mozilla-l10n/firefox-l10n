@@ -17,11 +17,11 @@
 <!ENTITY engine.bookmarks.accesskey       "m">
 <!ENTITY engine.history.label             "ইতিহাস (r)">
 <!ENTITY engine.history.accesskey         "r">
-
-
+<!ENTITY engine.tabs.label                "ট্যাব T">
+<!ENTITY engine.tabs.accesskey            "T">
 <!ENTITY engine.passwords.label           "পাসওয়ার্ড (P)">
 <!ENTITY engine.passwords.accesskey       "P">
 <!ENTITY engine.addons.label              "ডেক্সটপ Aঅ্যাড-অন্স">
 <!ENTITY engine.addons.accesskey          "A">
-
-
+<!ENTITY engine.prefs.label               "ডেস্কটপ সংক্রান্ত পছন্দসমূহ s">
+<!ENTITY engine.prefs.accesskey           "s">
