@@ -13,11 +13,11 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "Nu ești în modul de navigare privată">
 
-<!ENTITY privatebrowsingpage.description.private3 "Firefox va preveni urmărirea ta și nu va reține niciun istoric, dar fișierele descărcate, noile semne de carte vor fi încă salvate pe dispozitiv.">
+<!ENTITY privatebrowsingpage.description.private3 "Firefox va împiedica urmărirea ta și nu va reține istoricul, însă fișierele descărcate, semnele noi de carte vor fi încă salvate pe dispozitiv.">
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing" is capitalized in English to be consistent with our existing uses
      of the term. -->
-<!ENTITY privatebrowsingpage.description.normal2 "În modul de navigare privată nu vom păstra nimic din istoricul de navigare sau cookie-uri. Semnele de carte adăugate și fișierele descărcate vor fi încă salvate pe dispozitiv.">
+<!ENTITY privatebrowsingpage.description.normal2 "În modul de navigare privată nu vom păstra nimic din istoricul de navigare sau cookie-uri. Semnele de carte pe care le adaugi și fișierele pe care le descarci vor fi încă salvate pe dispozitiv.">
 
 <!ENTITY privatebrowsingpage.link.private "Vrei să afli mai multe?">
 <!ENTITY privatebrowsingpage.link.normal "Deschide o filă nouă privată">

@@ -154,7 +154,7 @@
 <!ENTITY fxaccount_create_account_month_of_birth "Lună">
 <!ENTITY fxaccount_create_account_year_of_birth "Anul nașterii">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text2 "Continuând, sunt de acord cu &formatS1; și &formatS2; a serviciilor cloud Firefox.">
+<!ENTITY fxaccount_create_account_policy_text2 "Continuând, sunt de acord cu &formatS1; și &formatS2; a serviciilor în cloud Firefox.">
 <!ENTITY fxaccount_create_account_button "Următor">
 <!ENTITY fxaccount_create_account_choose_what_to_sync "Alege ce sincronizezi">
 <!ENTITY fxaccount_create_account_sign_in_instead "Ai un cont deja? Autentifică-te">
