@@ -31,13 +31,17 @@
 
 <!ENTITY csscoverage.optimize.body1 "আপনি কখনো স্থানান্তর করেও গতি বাড়াতে পারেন">
 <!ENTITY csscoverage.optimize.body2 "পৃষ্ঠার নিচে ট্যাগ করে এবং একটি নতুন ইনলাইন তৈরি করে">
-
+<!ENTITY csscoverage.optimize.body3 "'লোড' হওয়ার পূর্বে প্রয়োজনীয় স্টাইলের সাথে উপাদান আবশ্যক। আপনার প্রয়োজনীয় স্টাইল ব্লক দেওয়া আছে:">
 <!-- LOCALIZATION NOTE (csscoverage.optimize.bodyX):
   -  This is what we say when we have no optimization suggestions -->
+
+<!ENTITY csscoverage.optimize.bodyX "সমস্যা নিরয়ম ইনলাইন করা আছে।">
 <!-- LOCALIZATION NOTE (csscoverage.footer1, csscoverage.footer2a,
   -  csscoverage.footer3, csscoverage.footer4): The text displayed at the
   -  bottom of the page, with 2a being the URL opened when the link text in 3
   -  is clicked -->
 
-
-
+<!ENTITY csscoverage.footer1 "দেখুন">
+<!ENTITY csscoverage.footer2a "https://developer.mozilla.org/docs/Tools/CSS_Coverage">
+<!ENTITY csscoverage.footer3 "CSS কভারেজ টুল নেভিগেশনের MDN নিবন্ধ">
+<!ENTITY csscoverage.footer4 "এই রিপোর্ট তৈরী হবার আদেশ।">
