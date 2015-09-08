@@ -34,8 +34,8 @@
 <!ENTITY helpTroubleshootingInfo.label      "Informații de depanare">
 <!ENTITY helpTroubleshootingInfo.accesskey  "I">
 
-<!ENTITY helpFeedbackPage.label      "Trimiteți reacțiile dumneavoastră…">
-<!ENTITY helpFeedbackPage.accesskey  "s">
+<!ENTITY helpFeedbackPage.label      "Trimiteți feedbackul…">
+<!ENTITY helpFeedbackPage.accesskey  "d">
 
 <!ENTITY helpShowTour2.label            "Tur &brandShorterName;">
 <!ENTITY helpShowTour2.accesskey        "T">

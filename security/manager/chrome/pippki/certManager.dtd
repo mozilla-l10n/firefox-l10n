@@ -34,7 +34,7 @@
 <!ENTITY certmgr.certdetail.sha256fingerprint "Amprentă SHA-256">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "Amprentă SHA1">
 
-<!ENTITY certmgr.editcacert.title             "Editare parametri credit certificat AC">
+<!ENTITY certmgr.editcacert.title             "Editează parametrii certificatului de încredere AC">
 <!ENTITY certmgr.editcert.edittrust           "Editare parametri credit:">
 <!ENTITY certmgr.editcert.trustssl            "Acest certificat poate identifica site-uri web.">
 <!ENTITY certmgr.editcert.trustemail          "Acest certificat poate identifica utilizatori de e-mail.">

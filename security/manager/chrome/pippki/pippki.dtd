@@ -23,7 +23,7 @@
 <!ENTITY downloadCert.trustObjSign "Acreditează această AC pentru identificarea creatorilor de software.">
 <!ENTITY downloadCert.message3 "Înainte de a acredita această AC, ar trebui să îi examinați certificatul, precum și politicile și procedurile (dacă există).">
 <!ENTITY downloadCert.viewCert.label "Vizualizează">
-<!ENTITY downloadCert.viewCert.text "Examinează certificat AC">
+<!ENTITY downloadCert.viewCert.text "Examinează certificatul AC">
 <!-- Strings for the SSL client auth ask dialog -->
 
 <!ENTITY clientAuthAsk.title "Cerere identificare utilizator">
