@@ -83,12 +83,14 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY welcome.useOldSync.label "Emaoc'h oc'h arverañ un handelv gozh eus Sync ?">
 
-
-
+<!ENTITY signedOut.caption            "Kemerit ho web ganeoc'h">
+<!ENTITY signedOut.description        "Goubredit ho sinedoù, roll istor, ivinelloù, gerioù-tremen, askouezhioù ha gwellvezioù dre veur a urzhiataer pe trevnad.">
+<!ENTITY signedOut.accountBox.title   "Kennaskit gant un &syncBrand.fxAccount.label;">
 
 
 
 
 <!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
-
+<!ENTITY mobilePromo.androidLink      "Android™">
+<!ENTITY mobilePromo.end              " evit goubredañ gant ho trevnad hezoug.">
 

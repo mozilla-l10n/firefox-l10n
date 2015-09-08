@@ -6,8 +6,8 @@
 
 
 <!ENTITY doNotTrackInfo.label          "Gouzout hiroc'h">
-
-
+<!ENTITY trackingProtection5.label     "Arverañ ar gwarez heuliañ">
+<!ENTITY trackingProtection5.accesskey "i">
 
 <!ENTITY trackingProtectionPBM5.label         "Arverañ ar gwarez heuliañ er prenestroù prevez">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
