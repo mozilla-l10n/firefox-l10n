@@ -572,8 +572,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Tracking content notifications in site identity popup -->
 
 
-
-
+<!ENTITY doorhanger_tracking_message_enabled1 "আপনার অনলাইন কার্যকলাপ ট্র্যাক করার প্রচেষ্টা অবরোধ করা হয়েছে।">
+<!ENTITY doorhanger_tracking_message_disabled2 "আপনার ব্রাউজিং ট্র্যাক করতে পারে এমন উপাদান এই পাতায় রয়েছে।">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "আরও জানুন">
