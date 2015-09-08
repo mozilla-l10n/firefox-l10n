@@ -49,6 +49,8 @@
 <!ENTITY prefs.tosLink.label        "সেবার শর্ত">
 <!ENTITY prefs.ppLink.label         "গোপনীয়তা নীতি">
 <!-- Firefox Accounts stuff -->
+
+<!ENTITY fxaPrivacyNotice.link.label "গোপনীয়তার নীতি">
 <!ENTITY determiningAcctStatus.label     "আপনার অ্যাকাউন্ট অবস্থা নির্ধারণ করা হচ্ছে ...">
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
@@ -68,15 +70,15 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 <!ENTITY notSignedIn.label           "আপনি সাইন ইন করেন নি।">
-
+<!ENTITY signIn.label                "সাইন ইন">
 <!ENTITY profilePicture.tooltip      "প্রোফাইলের ছবি পরিবর্তন করুন">
 <!ENTITY manage.label                "ব্যবস্থাপনা">
-
+<!ENTITY disconnect.label            "বিচ্ছিন্ন করুন...">
 <!ENTITY verify.label                "ইমেল যাচাই">
 <!ENTITY forget.label                "এই ইমেইল ভুলে যাওয়া হবে">
 
 <!ENTITY welcome.description "যেকোন স্থান থেকেই &brandShortName; ব্যবহার করুন না কেন আপনার ট্যাব, বুকমার্ক, পাসওয়ার্ড এবং অন্যান্য সব কিছুই পাবেন।">
-
+<!ENTITY welcome.signIn.label "সাইন ইন">
 <!ENTITY welcome.createAccount.label "অ্যাকাউন্ট তৈরি করুন">
 
 <!ENTITY welcome.useOldSync.label "পুরনো সিঙ্ক ব্যবহার করছেন?">
@@ -85,7 +87,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "আপনার সকল ডিভাইস জুড়ে আপনার বুকমার্ক, ইতিহাস, ট্যাব, পাসওয়ার্ড, অ্যাড টার্ন, এবং পছন্দ সিংক্রোনাইজ করুন.">
 <!ENTITY signedOut.accountBox.title   "&syncBrand.fxAccount.label; এর সাথে কানেক্ট করো">
 <!ENTITY signedOut.accountBox.create  "অ্যাকাউন্ট তৈরি করুন">
-
+<!ENTITY signedOut.accountBox.signin  "সাইন ইন">
 
 <!ENTITY signedIn.engines.label       "সব ডিভাইসগুলি জুড়ে সিঙ্ক করুন">
 

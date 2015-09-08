@@ -31,7 +31,7 @@
 <!ENTITY certmgr.certdetail.o                 "সংস্থা (O)">
 <!ENTITY certmgr.certdetail.ou                "সংস্থার ইউনিট (OU)">
 <!ENTITY certmgr.certdetail.serialnumber      "ক্রমিক সংখ্যা">
-
+<!ENTITY certmgr.certdetail.sha256fingerprint "SHA-256 ফিঙ্গারপ্রিন্ট">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "SHA1 ফিঙ্গারপ্রিন্ট">
 
 <!ENTITY certmgr.editcacert.title             "CA সার্টিফিকেটের বিশ্বস্ততা সংক্রান্ত বৈশিষ্ট্য সম্পাদনা">

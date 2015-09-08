@@ -21,11 +21,11 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionName "নাম">
 <!ENTITY aboutSupport.extensionEnabled "সক্রিয়">
 <!ENTITY aboutSupport.extensionVersion "সংস্করণ">
-
+<!ENTITY aboutSupport.extensionId "ID">
 
 <!ENTITY aboutSupport.experimentsTitle "পরীক্ষামূলক বৈশিষ্ট্য">
-
-
+<!ENTITY aboutSupport.experimentName "নাম">
+<!ENTITY aboutSupport.experimentId "ID">
 <!ENTITY aboutSupport.experimentDescription "বিবরণ/বর্ণনা">
 <!ENTITY aboutSupport.experimentActive "সক্রিয়">
 <!ENTITY aboutSupport.experimentEndDate "সমাপ্তির তারিখ">
@@ -72,13 +72,14 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "গুরুত্বপূর্ণ পরিমিত পছন্দ সমূহ">
 <!ENTITY aboutSupport.modifiedPrefsName "নাম">
-
+<!ENTITY aboutSupport.modifiedPrefsValue "মান">
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
 <!ENTITY aboutSupport.userJSTitle "user.js পছন্দসমূহ">
 <!ENTITY aboutSupport.userJSDescription "আপনার প্রোফাইল ফোল্ডারে একটি <a id='prefs-user-js-link'> user.js ফাইল রয়েছে</a>, যাতে &brandShortName; কর্তৃক তৈরিকৃত নয় এমন পছন্দসমূহ অর্ন্তভূক্ত।">
 
-
+<!ENTITY aboutSupport.lockedKeyPrefsTitle "গুরুত্বপূর্ণ পরিমিত পছন্দ সমূহ">
+<!ENTITY aboutSupport.lockedPrefsName "নাম">
 <!ENTITY aboutSupport.lockedPrefsValue "মান">
 
 <!ENTITY aboutSupport.graphicsTitle "গ্রাফিক্স">
@@ -101,4 +102,4 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.sandboxTitle "স্যান্ডবক্স">
 
 <!ENTITY aboutSupport.safeModeTitle "সুরক্ষিত মোডে চেষ্টা করুন">
-
+<!ENTITY aboutSupport.restartInSafeMode.label "অ্যাড-অন নিস্ক্রিয় করে রিস্টার্ট করুন…">

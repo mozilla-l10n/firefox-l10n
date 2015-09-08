@@ -21,10 +21,10 @@
 <!ENTITY  locbar.suggest.label          "অবস্থান বার ব্যবহার করার সময় পরামর্শ দিন:">
 <!ENTITY  locbar.history.label          "ইতিহাস (H)">
 <!ENTITY  locbar.history.accesskey      "H">
-
-
-
-
+<!ENTITY  locbar.bookmarks.label        "বুকমার্কসমূহ k">
+<!ENTITY  locbar.bookmarks.accesskey    "k">
+<!ENTITY  locbar.openpage.label         "ট্যাব খুলুন O">
+<!ENTITY  locbar.openpage.accesskey     "O">
 <!ENTITY  locbar.searches.label         "পূর্বনির্ধারিত অনুসন্ধান ইঞ্জিন থেকে সংশ্লিষ্ট অনুসন্ধানসমূহ d">
 <!ENTITY  locbar.searches.accesskey     "d">
 
@@ -40,7 +40,8 @@
 <!ENTITY  acceptThirdParty.never.label    "কখনো নয়">
 <!ENTITY  acceptThirdParty.visited.label  "প্রদর্শিত হতে">
 
-
+<!ENTITY  keepUntil.label               "সংরক্ষণের সময়কাল: u">
+<!ENTITY  keepUntil.accesskey           "u">
 
 <!ENTITY  expire.label                  "তাদের মেয়াদ উত্তীর্ণ হয়েছে">
 <!ENTITY  close.label                   "আমি &brandShortName; বন্ধ করি">
