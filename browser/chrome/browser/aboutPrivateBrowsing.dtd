@@ -23,14 +23,14 @@
 <!ENTITY aboutPrivateBrowsing.subtitle         "In dié venster sal &brandShortName; geen geskiedenis onthou nie.">
 
 <!ENTITY aboutPrivateBrowsing.forgotten        "In dié venster sal &brandShortName; niks hiervan onthou nie:">
-
+<!ENTITY aboutPrivateBrowsing.info.forgotten   "Nie gestoor nie">
 <!ENTITY aboutPrivateBrowsing.info.history     "Geskiedenis">
 <!ENTITY aboutPrivateBrowsing.info.searches    "Soektogte">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Koekies">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Tydelike lêers">
 
 <!ENTITY aboutPrivateBrowsing.kept             "&brandShortName; sal die volgende hou:">
-
+<!ENTITY aboutPrivateBrowsing.info.kept        "Gestoor">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Aflaaie">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Boekmerke">
 

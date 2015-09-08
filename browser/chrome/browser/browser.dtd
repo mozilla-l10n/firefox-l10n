@@ -810,7 +810,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.message "Monitering">
 <!ENTITY trackingContentBlocked.moreinfo "Dele van die bladsy wat u aanlyn aktiwiteit beloer is geblok.">
 <!ENTITY trackingContentBlocked.learnMore "Meer inligting">
-
+<!ENTITY trackingContentBlocked.options "Opsies">
 <!ENTITY trackingContentBlocked.unblock2.label "Deaktiveer beskerming vir dié werf">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "Aktiveer beskerming">
