@@ -21,18 +21,18 @@
      aboutPrivateBrowsing.kept when the new visual design lands (bug 1192625).
      -->
 
-<!ENTITY aboutPrivateBrowsing.title            "Rydych yn pori'n breifat">
+<!ENTITY aboutPrivateBrowsing.title            "Rydych nawr yn pori'n breifat">
 <!ENTITY aboutPrivateBrowsing.subtitle         "Yn y ffenestr hon, ni fydd &brandShortName; yn cofio unrhyw hanes.">
 
 <!ENTITY aboutPrivateBrowsing.forgotten        "Yn y ffenestr hon, ni fydd &brandShortName; yn cofio:">
-<!ENTITY aboutPrivateBrowsing.info.forgotten   "Heb Gadw">
+<!ENTITY aboutPrivateBrowsing.info.forgotten   "Ddim yn Cadw">
 <!ENTITY aboutPrivateBrowsing.info.history     "Hanes">
 <!ENTITY aboutPrivateBrowsing.info.searches    "Chwilio">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Cwcis">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Ffeiliau Dros Dro">
 
 <!ENTITY aboutPrivateBrowsing.kept             "Bydd &brandShortName; yn cadw:">
-<!ENTITY aboutPrivateBrowsing.info.kept        "Wedi Cadw">
+<!ENTITY aboutPrivateBrowsing.info.kept        "Yn Cadw">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Llwythi">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Nodau Tudalen">
 
