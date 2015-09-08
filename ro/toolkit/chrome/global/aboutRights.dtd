@@ -24,10 +24,10 @@
 <!ENTITY rights.intro-point2-c ".">
 <!-- point 2.5 text for official branded builds -->
 
-<!ENTITY rights.intro-point2.5 "Unele funcționalități din &brandShortName;, cum ar fi raportorul de defecțiuni vă oferă posibilitatea să vă faceți părerile auzite la &vendorShortName;. Alegând să trimiteți reacțiile dumneavoastră, îi dați permisiunea lui &vendorShortName; să folosească reacțiile pentru a-și îmbunătăți produsele, să publice reacțiile pe propriile site-uri web și să distribuie reacțiile.">
+<!ENTITY rights.intro-point2.5 "Unele funcționalități din &brandShortName;, cum ar fi raportorul de defecțiuni vă oferă posibilitatea să furnizați feedback la &vendorShortName;. Alegând să trimiteți feedback, îi dați permisiunea lui &vendorShortName; să folosească feedbackurile pentru a-și îmbunătăți produsele, să publice feedbackurile pe propriile site-uri web și să distribuie feedbackurile.">
 <!-- point 3 text for official branded builds -->
 
-<!ENTITY rights2.intro-point3a "Felul în care folosim datele dumneavoastră personale și reacțiile trimise către &vendorShortName; prin &brandShortName; este descris în ">
+<!ENTITY rights2.intro-point3a "Felul în care folosim datele dumneavoastră personale și feedbackurile trimise la &vendorShortName; prin &brandShortName; este descris în ">
 <!ENTITY rights2.intro-point3b "Politica de confidențialitate &brandShortName;">
 <!ENTITY rights.intro-point3c ".">
 <!-- point 3 text for unbranded builds -->
