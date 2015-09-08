@@ -6,7 +6,7 @@
 <!ENTITY window.maxWidth              "400">
 
 <!ENTITY startSafeMode.label          "নিরাপদ মোডে শুরু করুন">
-
+<!ENTITY refreshProfile.label         "&brandShortName; পুনঃনির্ধারণ করা হবে">
 
 <!ENTITY safeModeDescription3.label   "&brandShortName; এর নিরাপদ মোড হচ্ছে একটি বিশেষ মোড যা কিনা বিভিন্ন বিষয়ের সমস্যার সমাধানে ব্যবহৃত হয়।">
 <!ENTITY safeModeDescription4.label   "আপনার অ্যাড-অন এবং স্বনির্বাচিত সেটিংস সাময়িকভাবে নিষ্ক্রিয় করা হবে।">

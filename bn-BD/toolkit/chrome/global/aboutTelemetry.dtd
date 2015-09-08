@@ -4,6 +4,7 @@
 
 <!ENTITY aboutTelemetry.pageTitle "টেলিমেট্রি ডাটা">
 
+<!ENTITY aboutTelemetry.changeDataChoices "  পরিবর্তন">
 
 <!ENTITY aboutTelemetry.uploadEnabled "FHR  তথ্য আপলোডে <span>সক্রিয়</span>।">
 
@@ -45,6 +46,7 @@
 
 <!ENTITY aboutTelemetry.histogramsSection "  বারলেখ">
 
+<!ENTITY aboutTelemetry.keyedHistogramsSection "  উদ্দীপিত হিস্টোগ্রামসমূহ">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  সহজ পরিমাপ">
 
@@ -56,6 +58,7 @@
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  অ্যাড-অন দ্বারা হিস্টোগ্রাম সংগৃহীত">
 
+<!ENTITY aboutTelemetry.toggle "   সেকশন অদলবদল করার জন্য ক্লিক করুন">
 
 <!ENTITY aboutTelemetry.emptySection "  (কোন ডাটা সংগ্রহ করা হয়নি)">
 
@@ -65,3 +68,4 @@
 
 <!ENTITY aboutTelemetry.hideSymbols "  হ্যাং থেকে অবিন্যস্ত ডাটা প্রদর্শন করুন">
 
+<!ENTITY aboutTelemetry.filterText "  ফিল্টার (স্ট্রিং অথবা /regexp/)">
