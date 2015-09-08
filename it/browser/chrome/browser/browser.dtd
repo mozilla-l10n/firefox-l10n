@@ -586,7 +586,7 @@
 <!ENTITY trackingProtection.unblock.accesskey "D">
 <!ENTITY trackingProtection.unblockPrivate.label "Disattiva protezione per questa sessione">
 <!ENTITY trackingProtection.unblockPrivate.accesskey "D">
-<!ENTITY trackingProtection.block2.label "Attiva protezione per questo sito">
+<!ENTITY trackingProtection.block2.label "Attiva protezione">
 <!ENTITY trackingProtection.block2.accesskey "A">
 <!ENTITY trackingContentBlocked.message "Tracciamento">
 <!ENTITY trackingContentBlocked.moreinfo "Sono stati bloccati alcuni elementi in questa pagina in grado di tracciare la navigazione.">
