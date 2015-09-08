@@ -8,7 +8,7 @@
 <!ENTITY editContactName.label "Nume:">
 <!ENTITY editContactName.accesskey "N">
 
-<!ENTITY editContactEmail.label "Email:">
+<!ENTITY editContactEmail.label "E-mail:">
 <!ENTITY editContactEmail.accesskey "E">
 
 <!ENTITY editContactAddressBook.label "Agendă de contacte:">

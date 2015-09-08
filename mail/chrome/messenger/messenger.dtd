@@ -805,10 +805,10 @@
 <!ENTITY contextPlay.accesskey "R">
 <!ENTITY contextPause.label "Pauză">
 <!ENTITY contextPause.accesskey "P">
-<!ENTITY contextMute.label "Mut">
-<!ENTITY contextMute.accesskey "M">
-<!ENTITY contextUnmute.label "Activează sonorul">
-<!ENTITY contextUnmute.accesskey "A">
+<!ENTITY contextMute.label "Dezactivează sunetul">
+<!ENTITY contextMute.accesskey "n">
+<!ENTITY contextUnmute.label "Activează sunetul">
+<!ENTITY contextUnmute.accesskey "n">
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
      This is actually the key used for the global message search box; we have
