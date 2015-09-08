@@ -14,7 +14,7 @@
 
 <!ENTITY aboutTelemetry.extendedRecordingDisabled "  Înregistrarea telemetriei extinse este <span>dezactivată</span>.">
 
-<!ENTITY aboutTelemetry.pingDataSource "Ping sursă date:">
+<!ENTITY aboutTelemetry.pingDataSource "Sursa datelor pentru ping:">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "Date actuale ping">
 
