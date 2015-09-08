@@ -287,7 +287,7 @@ size. -->
 
 <!ENTITY pref_about_firefox "Despre &brandShortName;">
 <!ENTITY pref_vendor_faqs "Întrebări frecvente">
-<!ENTITY pref_vendor_feedback "Spune-ne opinia">
+<!ENTITY pref_vendor_feedback "Oferă feedback">
 
 <!ENTITY pref_dialog_set_default "Setează ca implicit">
 <!ENTITY pref_dialog_default "Standard">

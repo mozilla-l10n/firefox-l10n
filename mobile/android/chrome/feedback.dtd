@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY feedbackHeader2.label          "Unelte de opinie">
+<!ENTITY feedbackHeader2.label          "Unelte pentru feedback">
 
 <!ENTITY feedback.communicate.title     "Comunică cu noi!">
-<!ENTITY feedback.feedback.title        "Trimite-ne opinia ta">
+<!ENTITY feedback.feedback.title        "Oferă feedback">
 <!ENTITY feedback.feedback.good         "Bun">
 <!ENTITY feedback.feedback.bad          "Rău">
 
