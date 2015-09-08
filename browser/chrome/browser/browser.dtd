@@ -77,7 +77,7 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY menubarCmd.label "মেনু বার (M)">
 <!ENTITY menubarCmd.accesskey "M">
-<!ENTITY navbarCmd.label "ন্যাবিগেশন টুলবার (&amp;N)">
+<!ENTITY navbarCmd.label "নেভিগেশন টুলবার">
 <!ENTITY personalbarCmd.label "বুকমার্ক টুলবার (B)">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "বুকমার্ক টুলবারের আইটেম">
