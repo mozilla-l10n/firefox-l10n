@@ -10,7 +10,7 @@
 <!ENTITY  onboard_start_subtext3 "ওয়েব ব্রাউজিং করার অভিজ্ঞতা যথাযথ ভাবে আপনার নিজের মত করে করুন।">
 <!ENTITY  onboard_start_button_account "&brandShortName; এ সাইন ইন করুন">
 <!ENTITY  onboard_start_button_browser "ব্রাউজিং শুরু করুন">
-
+<!ENTITY  onboard_start_restricted1 "&amp;brandShortName এর সরলীকৃত সংস্করণের সাথে নিরাপদ ও নিয়ন্ত্রণে থাকুন;">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -69,8 +69,8 @@
 <!ENTITY edit_mode_cancel "বাতিল করুন">
 
 <!ENTITY close_tab "ট্যাব বন্ধ করুন">
-
-
+<!ENTITY tab_audio_playing "এই ট্যাবে অডিও চলছে">
+<!ENTITY tab_audio_muted "এই ট্যাবটি নীরব রয়েছে">
 <!ENTITY one_tab "১ ট্যাব">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -158,9 +158,9 @@
 <!ENTITY pref_search_hint "পরামর্শ: যেকোনো ওয়েবসাইটকে আপনার অনুসন্ধান প্রদানকারীদের তালিকায় যুক্ত করতে সেই ওয়েবসাইটের অনুসন্ধানক্ষেত্রে কিছুক্ষন চেপে রেখে &formatI; আইকনে ক্লিক করুন।">
 <!ENTITY pref_category_devtools "ডেভলপার টুলসমূহ">
 <!ENTITY pref_developer_remotedebugging "রিমোট ডিবাগিং">
-
-
-
+<!ENTITY pref_developer_remotedebugging_usb "USB এর মাধ্যমে রিমোট ডিবাগিং">
+<!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi এর মাধ্যমে রিমোট ডিবাগিং">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi ডিবাগিং এর জন্য আপনার ডিভাইসে একটি QR code reader অ্যাপ ইন্সটল করা থাকতে হবে।">
 <!ENTITY pref_category_logins "লগইন">
 <!ENTITY pref_remember_signons2 "লগইন মনে রাখো">
 <!ENTITY pref_open_external_urls_privately_title "প্রাইভেট ব্রাউসিং এ লিঙ্ক খুলুন">
@@ -197,13 +197,14 @@
 <!ENTITY pref_cookies_not_accept_foreign "সক্রিয়, তৃতীয় পক্ষ ব্যতীত">
 <!ENTITY pref_cookies_disabled "নিষ্ক্রিয়">
 
-
+<!ENTITY pref_tracking_protection_summary3 "প্রাইভেট ব্রাউজিং এ সক্রিয় থাকুন">
 <!ENTITY pref_donottrack_title "ট্র্যাক করবেন না">
 <!ENTITY pref_donottrack_summary "&brandShortName; সাইট দের বলে যে আপনি ট্র্যাক হতে চান না">
 
-
-
-
+<!ENTITY tracking_protection_prompt_title "এখন ট্র্যাকিং সুরক্ষিত আছে">
+<!ENTITY tracking_protection_prompt_text "ট্র্যাকিং উপাদান সক্রিয়ভাবে অবরোধ করা হচ্ছে তাই আপনি দুশ্চিন্তা করবেন না।">
+<!ENTITY tracking_protection_prompt_tip_text "বিস্তারিত জানতে ব্যাক্তিগত গোপনীয়তা সেটিংস এ যান">
+<!ENTITY tracking_protection_prompt_action_button "পেয়েছি!">
 
 <!ENTITY tab_queue_toast_message3 "&brandShortName; নামে ট্যাব সংরক্ষিত হয়েছে">
 <!ENTITY tab_queue_toast_action "এখনি খুলুন">
@@ -411,6 +412,8 @@ size. -->
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
+<!ENTITY pref_prevent_magnifying_glass "ম্যাগনিফাইং গ্লাস নিস্ক্রিয় করুন">
+
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -561,7 +564,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixed_content_blocked_all "&brandShortName; এই পাতায় নিরাপত্তাহীন উপাদান ব্লক করা হয়েছে।">
 <!ENTITY mixed_content_blocked_some "&brandShortName; এই পাতায় কিছু নিরাপত্তাহীন উপাদান ব্লক করা হয়েছে।">
 <!ENTITY mixed_content_display_loaded "এই পাতায় নিরাপত্তাহীন উপাদান রয়েছে।">
-
+<!ENTITY mixed_content_protection_disabled "অনিরাপদ উপাদান থেকে সুরক্ষা আপনি নিষ্ক্রিয় করে রেখেছেন।">
 
 <!ENTITY loaded_mixed_content_message "এই পৃষ্ঠাটি এমন কন্টেন্ট প্রদর্শন করছে যা সুরক্ষিত নয়।">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; বিপজ্জনক সামগ্রী প্রতিরোধ করেছে।">
