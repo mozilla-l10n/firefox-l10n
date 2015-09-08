@@ -70,7 +70,7 @@
 
 <!ENTITY close_tab "Închide fila">
 <!ENTITY tab_audio_playing "Această filă redă conținut audio">
-<!ENTITY tab_audio_muted "Această filă are sunetul oprit">
+<!ENTITY tab_audio_muted "Această filă are sunetul dezactivat">
 <!ENTITY one_tab "1 filă">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -171,7 +171,7 @@
 <!ENTITY pref_category_home_summary "Personalizează pagina de start">
 <!ENTITY pref_category_home_panels "Panouri">
 <!ENTITY home_add_panel_title "Adaugă un nou panou">
-<!ENTITY home_add_panel_empty "Scuze, nu am găsit niciun panou pe care să-l poți adăuga.">
+<!ENTITY home_add_panel_empty "Ne pare rău, nu am găsit niciun panou pe care să-l poți adăuga.">
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
@@ -702,5 +702,5 @@ din Android">
 <!ENTITY restriction_disallow_display_settings_title2 "Dezactivează setările de afișare">
 <!ENTITY restriction_disallow_clear_history_title2 "Dezactivează „Curăță istoricul de navigare”">
 <!ENTITY restriction_disallow_master_password_title2 "Dezactivează parola generală">
-<!ENTITY restriction_disallow_guest_browsing_title2 "Dezactivează navigarea în mod „Vizitator”">
+<!ENTITY restriction_disallow_guest_browsing_title2 "Dezactivează navigarea în mod vizitator">
 
