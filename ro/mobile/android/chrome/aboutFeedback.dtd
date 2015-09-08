@@ -6,7 +6,7 @@
      your language and/or locale. More detailed notes below. -->
 
 
-<!ENTITY pageTitle                 "Opinie despre &brandShortName;">
+<!ENTITY pageTitle                 "Feedback pentru &brandShortName;">
 
 <!ENTITY intro.header              "Ai un minut?">
 <!ENTITY intro.message             "Spune-ne ce crezi despre &brandShortName; pentru Android până acum.">
@@ -37,7 +37,7 @@
 
 <!ENTITY sad.header                "O, nu!">
 <!ENTITY sad.message               "Ne pare rău că ai întâmpinat niște probleme cu &brandShortName;. Spune-ne ce s-a întâmplat astfel încât să o putem remedia.">
-<!ENTITY sad.placeholder           "Introdu opinia aici">
+<!ENTITY sad.placeholder           "Introdu feedbackul aici">
 <!ENTITY sad.lastSite2             "Include site-ul vizitat ultima dată">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 
@@ -46,12 +46,12 @@
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
 
-<!ENTITY sad.thanksMessageTop      "Muncim mereu ca să facem &brandShortName; mai bun. Fii siguri că persoane reale se vor uita la opinia ta și vor face tot posibilul pentru a-ți rezolva problema.">
+<!ENTITY sad.thanksMessageTop      "Muncim încontinuu ca să facem &brandShortName; mai bun. Fii sigur că persoane reale se vor uita la feedbackul tău și vor face tot posibilul pentru a rezolva problema.">
 <!-- LOCALIZATION NOTE (sad.thanksMessageBottom): We're suggesting that there will be consequences for the people working
      on Firefox if they don't resolve the user's problem, like "or if they don't fix it, we'll fire them." If this doesn't
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 
 <!ENTITY sad.thanksMessageBottom   "Sau alta.">
 
-<!ENTITY feedback.privacy2         "Pentru confidențialitatea ta, te rugăm să nu incluzi nicio informație personală în opinie.">
-<!ENTITY feedback.send             "Trimite opinie">
+<!ENTITY feedback.privacy2         "Pentru confidențialitatea ta, te rugăm să nu incluzi nicio informație personală în feedback.">
+<!ENTITY feedback.send             "Trimite feedbackul">
