@@ -197,7 +197,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "Activate, excluzând terții">
 <!ENTITY pref_cookies_disabled "Dezactivate">
 
-<!ENTITY pref_tracking_protection_title "Protecție de urmărire">
+<!ENTITY pref_tracking_protection_title "Protecția față de urmărire">
 <!ENTITY pref_tracking_protection_summary3 "Activată în navigarea fără urme">
 <!ENTITY pref_donottrack_title "Nu mă urmări">
 <!ENTITY pref_donottrack_summary "&brandShortName; va spune site-urilor că nu dorești să fii urmărit">
@@ -574,7 +574,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY blocked_mixed_content_message_bottom "Majoritatea site-urilor web vor funcționa corect în continuare chiar dacă acest tip de conținut e blocat.">
 <!-- Tracking content notifications in site identity popup -->
 
-<!ENTITY doorhanger_tracking_title "Protecție de urmărire">
+<!ENTITY doorhanger_tracking_title "Protecția față de urmărire">
 <!ENTITY doorhanger_tracking_state_enabled "Activat">
 <!ENTITY doorhanger_tracking_state_disabled "Dezactivat">
 <!ENTITY doorhanger_tracking_message_enabled1 "Au fost blocate tentative de urmărire a comportamentului tău online.">
