@@ -57,7 +57,6 @@
 <!ENTITY trackingProtection.state.enabled      "Pornit">
 <!ENTITY trackingProtection.state.disabled     "Oprit">
 
-<!ENTITY trackingProtection.description1       "Ferestrele private acum blochează părțile din pagină care vă pot urmări activitatea de navigare.">
 
 <!ENTITY trackingProtection.disable            "Oprește protecția față de urmărire">
 <!ENTITY trackingProtection.enable             "Pornește protecția față de urmărire">
