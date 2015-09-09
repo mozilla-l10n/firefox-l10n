@@ -110,7 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "a">
 
 <!ENTITY fxaSignIn.label "Log ind på &syncBrand.shortName.label;">
-<!ENTITY fxaSignedIn.tooltip "Åbn indstillinger for  &syncBrand.shortName.label;">
+<!ENTITY fxaSignedIn.tooltip "Åbn indstillinger for &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Genopret forbindelse til &syncBrand.shortName.label;">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; er aktiveret">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; begynder straks at synkronisere.">
@@ -697,15 +697,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.weakEncryption "Denne side bruger svag kryptering.">
 
 <!-- Strings for connection state warnings in the subview. -->
-<!ENTITY identity.description.insecure "Din forbindelse til dette websted er ikke privat. Andre kan se de informationer, du indsender (såsom adgangskoder, beskeder, oplysninger om betalingskort osv.)">
+<!ENTITY identity.description.insecure "Din forbindelse til dette websted er ikke privat. Andre kan se de informationer, du indsender (fx adgangskoder, beskeder og oplysninger om betalingskort )">
 <!ENTITY identity.description.weakCipher "Din forbindelse til dette websted anvender svag kryptering og er ikke privat.">
 <!ENTITY identity.description.weakCipher2 "Andre kan se dine informationer eller ændre webstedets opførsel.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; har blokeret usikre dele af denne side.">
 <!ENTITY identity.description.passiveLoaded "Din forbindelse er ikke privat og de informationer, du deler, kan ses af andre.">
-<!ENTITY identity.description.passiveLoaded2 "Noget af dette websteds indhold (såsom billeder) er usikkert.">
-<!ENTITY identity.description.passiveLoaded3 "Selvom &brandShortName; har blokeret noget af indholdet, så findes der stadig usikkert indhold på siden (såsom billeder).">
-<!ENTITY identity.description.activeLoaded "Dette websted indeholder usikkert indhold (såsom scripts) og din forbindelse til det er ikke privat.">
-<!ENTITY identity.description.activeLoaded2 "Information, du deler med dette websted (såsom adgangskoder, beskeder, oplysninger om betalingskort osv.) kan ses af andre.">
+<!ENTITY identity.description.passiveLoaded2 "Noget af dette websteds indhold (fx billeder) er usikkert.">
+<!ENTITY identity.description.passiveLoaded3 "Selvom &brandShortName; har blokeret noget af indholdet, så findes der stadig usikkert indhold på siden (fx billeder).">
+<!ENTITY identity.description.activeLoaded "Dette websted indeholder usikkert indhold (fx scripts), og din forbindelse til det er ikke privat.">
+<!ENTITY identity.description.activeLoaded2 "Information, du deler med dette websted (fx adgangskoder, beskeder og oplysninger om betalingskort osv.) kan ses af andre.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Slå beskyttelse til">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "t">
