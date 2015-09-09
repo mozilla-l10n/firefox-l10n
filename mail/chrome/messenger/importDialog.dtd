@@ -33,7 +33,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importDescription1.label "Acest asistent va importa mesajele, intrările din agenda de contacte, preferințele și/sau filtrele din alte programe de e-mail, precum și formatul agendei de contacte în &brandShortName;.">
 <!ENTITY importDescription2.label "Odată ce acestea au fost importate, le veți putea accesa din cadrul &brandShortName;.">
 
-<!ENTITY selectDescription.label  "Vă rugăm alegeți tipul de fișier din care doriți să importați:">
+<!ENTITY selectDescription.label  "Vă rugăm să selectați tipul de fișier din care doriți să importați:">
 <!ENTITY selectDescriptionB.label "Vă rugăm selectați un cont existent sau creați un cont nou:">
 <!ENTITY selectDescription.accesskey "V">
 <!ENTITY acctName.label           "Nume:">
@@ -44,7 +44,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY finish.label             "Termină">
 <!ENTITY cancel.label             "Renunță">
 
-<!ENTITY select.label             "sau alegeți tipul de date ce se vor importa:">
+<!ENTITY select.label             "sau să selectați tipul de date ce se vor importa:">
 
 <!ENTITY title.label              "Titlu">
 <!ENTITY processing.label         "Import…">

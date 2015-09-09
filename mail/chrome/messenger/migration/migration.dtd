@@ -21,7 +21,7 @@
 
 <!ENTITY importSource.title             "Importă setări și dosare de mesaje din">
 <!ENTITY importItems.title              "Elemente de importat">
-<!ENTITY importItems.label              "Alegeți care elemente vor fi importate:">
+<!ENTITY importItems.label              "Selectați care elemente vor fi importate:">
 
 <!ENTITY migrating.title                "Se importă…">
 <!ENTITY migrating.label                "Se importă următoarele elemente…">

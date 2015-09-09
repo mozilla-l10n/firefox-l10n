@@ -7,8 +7,8 @@
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "Server repertoar LDAP:">
 <!-- LOCALIZATION NOTE (directoriesText.label) : do not translate "LDAP" in below line -->
-<!ENTITY directoriesText.label     "Alegeți un server de directoare LDAP:">
-<!ENTITY directoriesText.accesskey "A">
+<!ENTITY directoriesText.label     "Selectați un server de directoare LDAP:">
+<!ENTITY directoriesText.accesskey "S">
 <!ENTITY addDirectory.label        "Adaugă">
 <!ENTITY addDirectory.accesskey    "A">
 <!ENTITY editDirectory.label       "Editează">
