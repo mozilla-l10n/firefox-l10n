@@ -686,7 +686,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.removeBookmark.accessKey       "F">
 
 <!ENTITY identity.connectionSecure "Sikker forbindelse">
-<!ENTITY identity.connectionNotSecure "Usikker forbindelse">
+<!ENTITY identity.connectionNotSecure "Forbindelsen er usikker">
+<!ENTITY identity.connectionFile "Denne side er gemt på din computer.">
 <!ENTITY identity.connectionVerified "&brandShortName; bekræfter, at du er forbundet med en sikker forbindelse til dette websted, som ejes af:">
 <!ENTITY identity.connectionInternal "Dette er en sikker &brandShortName;-side.">
 
@@ -697,7 +698,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.weakEncryption "Denne side bruger svag kryptering.">
 
 <!-- Strings for connection state warnings in the subview. -->
-<!ENTITY identity.description.insecure "Din forbindelse til dette websted er ikke privat. Andre kan se de informationer, du indsender (fx adgangskoder, beskeder og oplysninger om betalingskort )">
+<!ENTITY identity.description.insecure "Din forbindelse til dette websted er ikke privat. Andre kan se de informationer, du indsender (fx adgangskoder, beskeder og oplysninger om betalingskort)">
 <!ENTITY identity.description.weakCipher "Din forbindelse til dette websted anvender svag kryptering og er ikke privat.">
 <!ENTITY identity.description.weakCipher2 "Andre kan se dine informationer eller ændre webstedets opførsel.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; har blokeret usikre dele af denne side.">
@@ -705,7 +706,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded2 "Noget af dette websteds indhold (fx billeder) er usikkert.">
 <!ENTITY identity.description.passiveLoaded3 "Selvom &brandShortName; har blokeret noget af indholdet, så findes der stadig usikkert indhold på siden (fx billeder).">
 <!ENTITY identity.description.activeLoaded "Dette websted indeholder usikkert indhold (fx scripts), og din forbindelse til det er ikke privat.">
-<!ENTITY identity.description.activeLoaded2 "Information, du deler med dette websted (fx adgangskoder, beskeder og oplysninger om betalingskort osv.) kan ses af andre.">
+<!ENTITY identity.description.activeLoaded2 "Information, du deler med dette websted (fx adgangskoder, beskeder og oplysninger om betalingskort) kan ses af andre.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Slå beskyttelse til">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "t">
