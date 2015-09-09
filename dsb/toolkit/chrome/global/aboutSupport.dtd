@@ -59,6 +59,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Multiprocesowe wokna">
 
+<!ENTITY aboutSupport.appBasicsSafeMode "Wěsty modus">
 
 <!ENTITY aboutSupport.showDir.label "Zarědnik wócyniś">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
