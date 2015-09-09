@@ -75,12 +75,12 @@
 <!-- Bookmarks Menu -->
 <!ENTITY bookmarksMenu.label "Bokmärken">
 <!ENTITY bookmarksMenu.accesskey "B">
-<!ENTITY addCurPageCmd.label "Lägg till aktuell sida">
+<!ENTITY addCurPageCmd.label "Bokmärk denna sida">
 <!ENTITY addCurPageCmd.accesskey "a">
-<!ENTITY addCurPageAsCmd.label "Lägg till sidan här…">
+<!ENTITY addCurPageAsCmd.label "Lägg till bokmärke…">
 <!ENTITY addCurPageAsCmd.accesskey "g">
 <!ENTITY addCurPageAsCmd.commandkey "d">
-<!ENTITY addCurTabsAsCmd.label "Lägg till flikgruppen…">
+<!ENTITY addCurTabsAsCmd.label "Bokmärk alla flikar…">
 <!ENTITY addCurTabsAsCmd.accesskey "f">
 <!ENTITY manBookmarksCmd.label "Hantera bokmärken…">
 <!ENTITY manBookmarksCmd.accesskey "m">
