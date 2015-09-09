@@ -110,7 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "a">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label;ga kirish">
-
+<!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; parametrlarini ochish">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label;ga qayta ulanish">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; yoqib qo‘yildi">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; sinxronlashni hoziroq boshlaydi.">
@@ -273,6 +273,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 
+<!ENTITY browserContentToolboxMenu.label     "Brauzer kontent asboblar paneli">
+<!ENTITY browserContentToolboxMenu.accesskey "a">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Dasturchi panelini yopish">
 <!ENTITY devToolbarMenu.label              "Dasturchi asboblari paneli">
@@ -302,7 +304,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "n">
 <!ENTITY newPrivateWindow.label     "Yangi maxfiy oyna">
 <!ENTITY newPrivateWindow.accesskey "o">
-
+<!ENTITY newNonRemoteWindow.label   "Yangi Non-e10s oyna">
 
 <!ENTITY editMenu.label         "Tahrirlash"> 
 <!ENTITY editMenu.accesskey       "T"> 
@@ -393,7 +395,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Ichki oynaga o‘tish:">
 
-
+<!ENTITY urlbar.searchSuggestionsNotification.question "Tavsiyalar yordamida izlash bo‘yicha tajribangizni oshirishni xohlaysizmi?">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Ko‘proq o‘rganish…">
 
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Ha">
 <!-- 
