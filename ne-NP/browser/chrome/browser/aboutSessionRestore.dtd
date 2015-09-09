@@ -26,8 +26,10 @@
 
 
 
+<!ENTITY welcomeback2.pageTitle     "सफलता!">
+<!ENTITY welcomeback2.pageInfo1     " &brandShortName; जान तयार छ।">
 
-
+<!ENTITY welcomeback2.label.restoreAll  "सबै सञ्झ्यालहरुलाई पुन:स्थापना गर्नुहोस्">
 
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively

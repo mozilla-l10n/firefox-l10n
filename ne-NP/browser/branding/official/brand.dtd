@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  brandShorterName      "फायरफक्स">
+<!ENTITY  brandShortName        "फायरफक्स">
 <!ENTITY  brandFullName         "मोजिल्ला फायरफक्स">
 <!ENTITY  vendorShortName       "मोजिल्ला">
 <!ENTITY  trademarkInfo.part1   "फायरफक्स र फायरफक्स लोगोहरु मोजिल्ला संस्थानका ट्रेडमार्कहरू हुन्।">

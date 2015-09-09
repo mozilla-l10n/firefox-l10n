@@ -11,24 +11,28 @@
      of the Tracking Protection section, and in general not much larger than
      30em to prevent the sections from wrapping on smaller window sizes.
      -->
+
+<!ENTITY aboutPrivateBrowsing.width            "30em">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
      aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
      These strings will be replaced by aboutPrivateBrowsing.forgotten and
      aboutPrivateBrowsing.kept when the new visual design lands (bug 1192625).
      -->
+<!ENTITY aboutPrivateBrowsing.subtitle         " &brandShortName;ले यस सञ्झ्यालको लागि कुनै इतिहास याद राख्दैन।">
 
-
-
+<!ENTITY aboutPrivateBrowsing.forgotten        " &brandShortName;ले यस सञ्झ्यालको लागि कुनै इतिहास याद राख्दैन।">
+<!ENTITY aboutPrivateBrowsing.info.forgotten   "बचत गरिएको छैन">
 <!ENTITY aboutPrivateBrowsing.info.history     "इतिहास">
-
+<!ENTITY aboutPrivateBrowsing.info.searches    "खोजी">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "कुकिज">
 
 
-
+<!ENTITY aboutPrivateBrowsing.kept             "&brandShortName; will keep:">
+<!ENTITY aboutPrivateBrowsing.info.kept        "बचत गरियो">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "डाउनलोडहरू">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "पुस्तकचिनोहरू">
 
-
+<!ENTITY aboutPrivateBrowsing.learnMore        "अझ जान्नुहोस्।">
 <!-- LOCALIZATION NOTE (trackingProtection.width):
      Width of the Tracking Protection section. It is fine for the enabled or
      disabled indicator or the words in the title to wrap to the next line, but
@@ -38,11 +42,15 @@
      different, so testing on Windows, Mac, and Linux is encouraged.
      -->
 
+<!ENTITY trackingProtection.width              "22em">
+<!ENTITY trackingProtection.title              "सुरक्षा ट्रयाक गरिँदै ">
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
 
-
+<!ENTITY trackingProtection.state.width        "6ch">
+<!ENTITY trackingProtection.state.enabled      "चालु">
+<!ENTITY trackingProtection.state.disabled     "बन्द">
 
 
 
