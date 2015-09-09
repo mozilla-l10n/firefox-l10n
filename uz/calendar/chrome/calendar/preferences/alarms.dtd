@@ -7,26 +7,30 @@
   -->
 
 
+<!ENTITY pref.alarmgoesoff.label "Eslatkich vaqti bo‘lganda:">
+<!ENTITY pref.playasound "Tovushni tinglash">
+<!ENTITY pref.calendar.alarms.playsound.accessKey "s">
+<!ENTITY pref.calendar.alarms.sound.useDefault.label "Standart tovushdan foydalanish">
+<!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "S">
+<!ENTITY pref.calendar.alarms.sound.browse.label "Ko‘rish…">
+<!ENTITY pref.calendar.alarms.sound.browse.accessKey "K">
+<!ENTITY pref.calendar.alarms.sound.play.label "Ijro etish">
+<!ENTITY pref.calendar.alarms.sound.play.accessKey "I">
+<!ENTITY pref.showalarmbox "Eslatkich oynasini ko‘rsatish">
+<!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "x">
+<!ENTITY pref.missedalarms "O‘tib ketgan eslatkichlarni ko‘rsatish">
+<!ENTITY pref.calendar.alarms.missedAlarms.accessKey "m">
+<!ENTITY pref.calendar.alarms.defaults.label "Eslatkich standartlari">
+<!ENTITY pref.defalarm4events.label "Tadbirlar uchun standart eslatkich sozlamasi:">
+<!ENTITY pref.defalarm4events.accesskey "e">
+<!ENTITY pref.defalarm4todos.label "Vazifalar uchun standart eslatkich sozlamasi:">
+<!ENTITY pref.defalarm4todos.accesskey "s">
+<!ENTITY pref.alarm.on "Yoqish">
+<!ENTITY pref.alarm.off "O‘chirish">
+<!ENTITY pref.defalarmlen4events.label "Tadbirdan oldin o‘rnatilgan standart vaqt eslatkichi:">
+<!ENTITY pref.defalarmlen4events.accesskey "u">
+<!ENTITY pref.defalarmlen4todos.label "Vazifadan oldin o‘rnatilgan standart vaqt eslatkichi:">
+<!ENTITY pref.defalarmlen4todos.accesskey "o">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY pref.defaultsnoozelength.label "Joriy ortga surish uzunligi:" >
+<!ENTITY pref.defaultsnoozelength.accesskey "o">

@@ -7,17 +7,22 @@
   -->
 
 
+<!ENTITY pref.calendar.view.allview.caption "Umumiy">
+<!ENTITY pref.calendar.view.dayandweekviews.caption "Kun va hafta ko‘rinishlari">
+<!ENTITY pref.calendar.view.multiweekview.caption "Bir nechta hafta ko‘rinishi">
+<!ENTITY pref.calendar.view.workweek.caption "Ish haftasi">
 
+<!ENTITY pref.weekstarts.label "Boshlanadigan hafta:">
+<!ENTITY pref.weekstarts.accesskey "a">
+<!ENTITY pref.daysoff.label "Bu kunlarni ish haftasiga qo‘shish:">
 
-
-
-
-
-
-
-
-
-
+<!ENTITY pref.calendar.view.daystart.label "Kun boshlanadigan vaqt:">
+<!ENTITY pref.calendar.view.daystart.accesskey "K">
+<!ENTITY pref.calendar.view.dayend.label "Kun tugaydigan vaqt:">
+<!ENTITY pref.calendar.view.dayend.accesskey "y">
+<!ENTITY pref.calendar.view.visiblehours.label "Ko‘rsatish:">
+<!ENTITY pref.calendar.view.visiblehours.accesskey "o">
+<!ENTITY pref.calendar.view.visiblehoursend.label "vaqtdagi soatlar:">
 
 
 

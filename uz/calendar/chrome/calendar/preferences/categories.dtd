@@ -7,15 +7,18 @@
   -->
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY pref.categories.add.title "Turkum qo‘shish">
+<!ENTITY pref.categories.addButton.label "Qo‘shish…">
+<!ENTITY pref.categories.addButton.accesskey "Q">
+<!ENTITY pref.categories.edit.title "Turkumni tahrirlash">
+<!ENTITY pref.categories.editButton.label "Tahrirlash…">
+<!ENTITY pref.categories.editButton.accesskey "T">
+<!ENTITY pref.categories.removeButton.label "Olib tashlash">
+<!ENTITY pref.categories.removeButton.accesskey "O">
+<!ENTITY pref.categories.name.label "Nom">
+<!ENTITY pref.categories.color.label "Rang">
+<!ENTITY pref.categories.usecolor.label "Rangdan foydalanish">
+<!ENTITY pref.categories.none.label "(yo‘q)">
+<!ENTITY pref.categories.overwrite "Shu nomdagi turkum allaqachon mavjud. \n Uni ustidan yozilishini xohlaysizmi?">
+<!ENTITY pref.categories.overwrite.title "Diqqat: Nusxadagi nom">
+<!ENTITY pref.categories.noBlankCategories "Turkum nomini kiritishingiz kerak.">
