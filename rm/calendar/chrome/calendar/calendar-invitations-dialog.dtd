@@ -13,7 +13,7 @@
 <!ENTITY calendar.invitations.list.decline.button.label                 "Refusar">
 <!ENTITY calendar.invitations.list.recurrentevent.text                  "Eveniment repetitiv">
 <!ENTITY calendar.invitations.list.alldayevent.text                     "&amp;Tuttadi">
-
-
-
+<!ENTITY calendar.invitations.list.location.text                        "Lieu: ">
+<!ENTITY calendar.invitations.list.organizer.text                       "Organisatur: ">
+<!ENTITY calendar.invitations.list.attendee.text                        "Participants: ">
 <!ENTITY calendar.invitations.list.none.text                            "Nagin">
