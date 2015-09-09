@@ -57,7 +57,7 @@
 <!ENTITY trackingProtection.state.enabled      "TSHUBA">
 <!ENTITY trackingProtection.state.disabled     "TIMA">
 
-<!ENTITY trackingProtection.description1       "Windows tsa Poraefete ga jaana di thibela dikarolo tsa tsebe tse di ka latedisang tiro-patlo ya gago.">
+<!ENTITY trackingProtection.description1       "Windows tsa poraefete ga jaana di thibela dikarolo tsa tsebe tse di ka latedisang tiro-patlo ya gago.">
 
 <!ENTITY trackingProtection.disable            "Tobetsa go Tima Tshireletso ya Tatediso">
 <!ENTITY trackingProtection.enable             "Tobetsa go Dirisa Tshireletso ya Tatediso">
