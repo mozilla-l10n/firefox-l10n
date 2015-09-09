@@ -8,7 +8,7 @@
 <!ENTITY gdata.privacy.default.accesskey "d">
 
 <!ENTITY gdata.migration.title "Migrare calendare disponibile numai pentru citire">
-<!ENTITY gdata.migration.description "Furnizorul de date pentru calendarul Google a detectat că aveți calendare existente care pot accesa calendarul Google doar pentru a citi din el. Dacă doriți să actualizați aceste calendare pentru a se putea scrie în ele, selectați-le mai jos">
+<!ENTITY gdata.migration.description "Furnizorul de date pentru calendarul Google a detectat că aveți calendare existente care pot accesa calendarul Google doar pentru a citi din el. Dacă doriți să actualizați aceste calendare pentru a se putea scrie în ele, vă rugăm să le selectați mai jos">
 <!ENTITY gdata.migration.upgrade.label "Actualizare">
 <!ENTITY gdata.migration.upgrade.accesskey "u">
 <!ENTITY gdata.migration.showagain.label "Verifică întotdeauna ">
