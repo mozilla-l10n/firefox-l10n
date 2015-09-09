@@ -115,7 +115,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; activat">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; va începe sincronizarea în câteva momente.">
 <!ENTITY syncErrorPanel.heading "Nu mă pot conecta la &syncBrand.shortName.label;">
-<!ENTITY syncErrorPanel.subTitle "Vă rugam autentificați-vă pentru a relua sincronizarea.">
+<!ENTITY syncErrorPanel.subTitle "Vă rugam să vă autentificați pentru a relua sincronizarea.">
 <!ENTITY syncErrorPanel.signInButton.label "Autentificare">
 <!ENTITY syncErrorPanel.signInButton.accesskey "A">
 
