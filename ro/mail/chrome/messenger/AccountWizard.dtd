@@ -11,8 +11,8 @@
 
 <!ENTITY accountSetupInfo2.label "Pentru a putea primi mesaje, trebuie să adăugați un cont.">
 <!ENTITY accountTypeTitle.label "Creare cont nou">
-<!ENTITY accountTypeDesc2.label "Această fereastră va colecta informațiile necesare setării unui cont. Dacă nu cunoști informațiile necesare, contactează administratorul de sistem sau furnizorul de Internet.">
-<!ENTITY accountTypeDirections.label "Alegeți tipul de cont pe care doriți să-l creați:">
+<!ENTITY accountTypeDesc2.label "Această fereastră va colecta informațiile necesare setării unui cont. Dacă nu cunoști informațiile necesare, te rugăm să contactezi administratorul de sistem sau furnizorul de Internet.">
+<!ENTITY accountTypeDirections.label "Selectați tipul de cont pe care doriți să-l creați:">
 <!ENTITY accountTypeMail.label "Cont de email">
 <!ENTITY accountTypeMail.accesskey "m">
 <!ENTITY accountTypeNews.label "Cont pentru grupuri de discuții">
@@ -39,7 +39,7 @@
 
 
 <!ENTITY incomingTitle.label "Informații server de intrare">
-<!ENTITY incomingServerTypeDesc.label "Alegeți tipul serverului de primire pe care îl folosiți.">
+<!ENTITY incomingServerTypeDesc.label "Selectați tipul serverului de primire pe care îl folosiți.">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
 <!ENTITY imapType.accesskey "I">

@@ -76,7 +76,7 @@
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY serverDefaultCharset2.label "Codarea implicită pentru text:">
 <!ENTITY localPath.label "Director local:">
-<!ENTITY localFolderPicker.label "Alegeți directorul local">
+<!ENTITY localFolderPicker.label "Selectați directorul local">
 <!ENTITY browseFolder.label "Răsfoiește…">
 <!ENTITY browseFolder.accesskey "f">
 <!ENTITY browseNewsrc.label "Răsfoiește…">

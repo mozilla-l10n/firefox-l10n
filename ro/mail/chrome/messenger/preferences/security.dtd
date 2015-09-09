@@ -8,7 +8,7 @@
 <!ENTITY itemAntiVirus.label     "Antivirus">
 <!-- Junk Mail Controls -->
 
-<!ENTITY junkMail.intro "Alegeți setările implicite pentru mesajele nesolicitate. Se pot alege și setări specifice fiecărui cont din setările contului.">
+<!ENTITY junkMail.intro "Setați setările implicite pentru mesajele nesolicitate. Se pot alege și setări specifice fiecărui cont din setările contului.">
 <!ENTITY manualMark.label "Când marchez mesaje ca nesolicitate:">
 <!ENTITY manualMark.accesskey "C">
 <!ENTITY manualMarkModeMove.label "Mută-le în dosarul cu mesaje nesolicitate al contului">
