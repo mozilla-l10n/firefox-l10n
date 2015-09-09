@@ -57,6 +57,7 @@
 <!ENTITY trackingProtection.state.enabled      "ZAPINJENY">
 <!ENTITY trackingProtection.state.disabled     "WUPINJENY">
 
+<!ENTITY trackingProtection.description1       "Priwatne wokna blokuja nětko dźěle strony, kotrež móhli wašu přeładowansku aktiwitu slědować.">
 
 <!ENTITY trackingProtection.disable            "Slědowanski škit znjemóžnić">
 <!ENTITY trackingProtection.enable             "Slědowanski škit zmóžnić">
