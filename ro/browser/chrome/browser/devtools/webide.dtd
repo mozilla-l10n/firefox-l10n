@@ -191,7 +191,7 @@
 <!ENTITY wifi_auth_yes_scanner "Have a QR scanner prompt?">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
-<!ENTITY wifi_auth_token_request "If your other device asks for a token instead of scanning a QR code, please copy the value below to the other device:">
+<!ENTITY wifi_auth_token_request "Dacă dispozitivul solicită un token în loc de scanarea unui cod QR, te rugăm să copiezi valoarea de mai jos pe celălalt dispozitiv:">
 <!-- Logs panel -->
 
 <!ENTITY logs_title "Pre-packaging Command Logs">

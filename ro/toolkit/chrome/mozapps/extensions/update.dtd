@@ -22,7 +22,7 @@ compatibile, ale acestor suplimente.">
 <!ENTITY  checking.status                 "Aceasta poate dura câteva minute">
 
 <!ENTITY  found.wizard.title               "S-au găsit suplimente compatibile">
-<!ENTITY  found.top.label                 "Alegeți suplimentele pe care doriți să le instalați:">
+<!ENTITY  found.top.label                 "Selectați suplimentele pe care doriți să le instalați:">
 <!ENTITY  found.disabledXPinstall.label   "Aceste actualizări nu pot fi instalate deoarece instalarea de software este actualmente 
 dezactivată. Puteți schimba această setare mai jos.">
 <!ENTITY  found.enableXPInstall.label     "Permite ca site-urile web să instaleze programe">
