@@ -292,7 +292,7 @@
 <!ENTITY calendar.alarm.details.label               "Detagls…" >
 
 <!ENTITY calendar.alarm.snoozefor.label             "Puspè regurdar en" >
-
+<!ENTITY calendar.alarm.snoozeallfor.label          "Per tuts puspè regurdar en" >
 <!ENTITY calendar.alarm.title.label                 "Promemorias dal chalender" >
 <!ENTITY calendar.alarm.dismiss.label               "Serrar" >
 <!ENTITY calendar.alarm.dismissall.label            "Serrar tut" >
@@ -309,6 +309,8 @@
      This string is not seen in the UI, it is read by screen readers when the
      user focuses the "Cancel" button in the "Snooze for..." popup of the alarm
      dialog. -->
+
+<!ENTITY calendar.alarm.snooze.cancel               "Betg pli regurdar">
 <!-- Calendar Server Dialog -->
 
 <!ENTITY calendar.server.dialog.title.edit          "Modifitgar il chalender">
