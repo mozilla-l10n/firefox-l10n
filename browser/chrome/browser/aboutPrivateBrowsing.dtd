@@ -57,7 +57,7 @@
 <!ENTITY trackingProtection.state.enabled      "PÅ">
 <!ENTITY trackingProtection.state.disabled     "AV">
 
-<!ENTITY trackingProtection.description1       "Privat fönster blockerar nu delar av sidan som kan spåra din surfaktivitet.">
+<!ENTITY trackingProtection.description1       "privata fönster blockerar nu delar av sidan som kan spåra din surfaktivitet.">
 
 <!ENTITY trackingProtection.disable            "Stäng av Spårningsskydd">
 <!ENTITY trackingProtection.enable             "Sätt på Spårningsskydd">
