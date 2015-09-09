@@ -220,8 +220,10 @@
 
 
 
-<!-- LOCALIZATION NOTE (calendar.context.togglevisible.accesskey)
+<!-- LOCALIZATION NOTE (calendar.context.showcalendar.accesskey)
      This is the access key used for the showCalendar string -->
+<!-- LOCALIZATION NOTE (calendar.context.hidecalendar.accesskey)
+     This is the access key used for the hideCalendar string -->
 <!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
      This is the access key used for the showOnlyCalendar string -->
 

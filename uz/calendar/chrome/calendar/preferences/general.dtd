@@ -7,29 +7,36 @@
   -->
 
 
+<!ENTITY pref.mainbox.label "Umumiy sozlamalar" >
+<!ENTITY pref.dateformat.label "Matn formati sanasi:" >
+<!ENTITY pref.dateformat.accesskey "s">
+<!ENTITY pref.dateformat.long "Uzun" >
+<!ENTITY pref.dateformat.short "Qisqa"  >
 
+<!ENTITY pref.timezones.caption "Vaqt hududi">
+<!ENTITY pref.timezones.label "Vaqt hududingizdagi eng yaqin shaharni tanlang:">
+<!ENTITY pref.timezones.accesskey "t">
 
-
-
-
-
-
+<!ENTITY pref.defaults.label "Yangi elementlar uchun standart qiymatlar">
+<!ENTITY pref.events.label "Tadbirlar">
 <!ENTITY pref.tasks.label "Vazifalar">
 
-
+<!ENTITY pref.default_event_length.label "Standart uzunlik:" >
+<!ENTITY pref.default_event_length.accesskey "t">
 
 <!ENTITY pref.default_task_none.label "Yo‘q">
-
-
-
-
-
-
-
+<!ENTITY pref.default_task_start_of_day.label "Kunning boshi">
+<!ENTITY pref.default_task_end_of_day.label "Kunning oxiri">
+<!ENTITY pref.default_task_tomorrow.label "Ertaga">
+<!ENTITY pref.default_task_next_week.label "Keyingi hafta">
+<!ENTITY pref.default_task_offset_current.label "Joriy vaqtga aloqador">
+<!ENTITY pref.default_task_offset_start.label "Boshlanishiga aloqador">
+<!ENTITY pref.default_task_offset_next_hour.label "Keyingi soatga aloqador">
 
 <!ENTITY pref.calendar.todaypane.agenda.caption "Bugun yon oynasi">
+<!ENTITY pref.soondays.label "Kelayotgan qism ko‘rishlari:">
+<!ENTITY pref.soondays.accesskey "u">
 
-
-
-
-
+<!ENTITY pref.accessibility.label "Qulaylik" >
+<!ENTITY pref.systemcolors.label "Qulaylashtirish uchun ranglarni moslash" >
+<!ENTITY pref.systemcolors.accesskey "r">

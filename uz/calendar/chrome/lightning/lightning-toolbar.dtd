@@ -8,10 +8,15 @@
 <!ENTITY lightning.toolbar.task.name.accesskey "T">
 
 <!ENTITY lightning.toolbar.sync.label "Sinxronlash">
+
 <!ENTITY lightning.toolbar.delete.label "O‘chirish">
+
 <!ENTITY lightning.toolbar.edit.label "Tahrirlash">
-<!ENTITY lightning.toolbar.gototoday.label "Bugunga o‘tish">
+
+
+
 <!ENTITY lightning.toolbar.print.label "Chop qilish">
+
 <!-- Mode Toolbar -->
 
 <!ENTITY lightning.toolbar.calendar.label     "Taqvim">
@@ -23,7 +28,9 @@
 <!-- Toolbar write button -->
 
 <!ENTITY lightning.toolbar.newevent.label     "Tadbir">
+
 <!ENTITY lightning.toolbar.newtask.label      "Vazifa">
+
 <!-- Calendar and Task Mode Toolbar -->
 
 <!ENTITY lightning.toolbar.day.label                 "Kun">
