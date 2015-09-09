@@ -12,5 +12,5 @@
 <!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
 <!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
 
-<!ENTITY privatebrowsingpage.link.private "Wollen Sie mehr erfahren?">
+<!ENTITY privatebrowsingpage.link.private "Weitere Informationen">
 <!ENTITY privatebrowsingpage.link.normal "In einem neuen Tab öffnen">
