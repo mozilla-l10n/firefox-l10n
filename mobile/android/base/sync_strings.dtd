@@ -230,6 +230,7 @@
 <!ENTITY fxaccount_remove_account_toast "ফায়ারফক্স অ্যাকাউন্ট &formatS; মুছে ফেলা হয়েছে।">
 
 <!ENTITY fxaccount_remove_account_menu_item "অ্যাকাউন্ট মুছে ফেলুন">
+
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 

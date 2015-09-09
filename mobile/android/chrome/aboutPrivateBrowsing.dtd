@@ -3,14 +3,16 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY privatebrowsingpage.title "ব্যক্তিগত ব্রাউজিং ব্যবস্থা">
-<!ENTITY privatebrowsingpage.title.normal "আপনি গোপন ব্রাউজিং এ নেই">
+<!-- Localisation note: the plus sign here is a shorthand way of expressing the word "and". Contextually the privatebrowsingpage.title.private string
+                        is used as a title, with the privatebrowsingpage.title string preceding it but on a separate line.
+                        So the final line will say "Private Browsing + Tracking Protection". -->
+<!-- Localization note (privatebrowsingpage.title.normal1): "Private Browsing"
+     is capitalized in English to be consistent with our existing uses of the
+     term. -->
 
-<!ENTITY privatebrowsingpage.issueDesc.normal2 "গোপন ব্রাউজিং এ, আমরা আপনার কোন ব্রাউজিং ইতিহাস বা কুকি রেখে দিই না।">
-<!ENTITY privatebrowsingpage.issueDesc.private2 "আমরা আপনার কোন ব্রাউজিং ইতিহাস বা কুকি রেখে দিই না।">
-
-<!ENTITY privatebrowsingpage.description2 "যেই বুকমার্ক গুলি আপনি অ্যাড করেন এবং ফাইল গুলি আপনি ডাউনলোড করেন সেগুলি আপনার ডিভাইসে সংরক্ষিত থাকবে।">
-<!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
-<!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
+<!-- Localization note (privatebrowsingpage.description.normal2): "Private
+     Browsing" is capitalized in English to be consistent with our existing uses
+     of the term. -->
 
 <!ENTITY privatebrowsingpage.link.private "আরো জানতে চান?">
 <!ENTITY privatebrowsingpage.link.normal "একটি নতুন গোপন ট্যাব খুলুন">
