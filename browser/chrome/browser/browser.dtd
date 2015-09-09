@@ -97,8 +97,8 @@
 <!ENTITY fullscreenWarning.beforeDomain.label "">
 <!ENTITY fullscreenWarning.afterDomain.label "está ahora en pantalla completa">
 <!ENTITY fullscreenWarning.generic.label "Este documento está ahora en pantalla completa">
-<!ENTITY exitDOMFullscreen.button "Salir del modo pantalla completa (Esc)">
-<!ENTITY exitDOMFullscreenMac.button "Salir del modo pantalla completa (esc)">
+<!ENTITY exitDOMFullscreen.button "Salir de pantalla completa (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "Salir de pantalla completa (esc)">
 <!ENTITY leaveDOMFullScreen.label "Salir de la pantalla completa">
 <!ENTITY leaveDOMFullScreen.accesskey "p">
 <!ENTITY closeWindow.label "Cerrar ventana">
