@@ -57,7 +57,7 @@
 <!ENTITY trackingProtection.state.enabled      "YMLAEN">
 <!ENTITY trackingProtection.state.disabled     "DIFFODD">
 
-<!ENTITY trackingProtection.description1       "Mae Ffenestri Preifat yn rhwystro rhannau o'r dudalen gall fod yn tracio eich pori.">
+<!ENTITY trackingProtection.description1       "Mae ffenestri preifat yn rhwystro rhannau o'r dudalen gall fod yn tracio eich pori.">
 
 <!ENTITY trackingProtection.disable            "Diffodd Diogelwch Rhag Tracio">
 <!ENTITY trackingProtection.enable             "Cychwyn Diogelwch Rhag Tracio">
