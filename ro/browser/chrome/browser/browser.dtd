@@ -818,7 +818,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "Activează protecția">
 <!ENTITY trackingContentBlocked.block.accesskey "e">
-<!ENTITY trackingContentBlocked.disabled.message "Protecția de urmărire este dezactivată">
+<!ENTITY trackingContentBlocked.disabled.message "Protecția față de urmărire este dezactivată">
 
 <!ENTITY pointerLock.notification.message "Apasă ESC oricând pentru a-l afișa din nou.">
 
