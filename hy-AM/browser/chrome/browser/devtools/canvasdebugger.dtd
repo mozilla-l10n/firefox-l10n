@@ -16,6 +16,8 @@
 <!ENTITY canvasDebuggerUI.reloadNotice1   "Կրկին բեռնել">
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.reloadNotice2): This is the label shown
   -  along with the button that triggers a page refresh. -->
+
+<!ENTITY canvasDebuggerUI.reloadNotice2   "էջը, որպեսզի հնարավորություն լինի վրիպազերծել &lt;canvas&gt; համաշարերը:">
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.emptyNotice1/2): This is the label shown
   -  in the call list view when empty. -->
 
