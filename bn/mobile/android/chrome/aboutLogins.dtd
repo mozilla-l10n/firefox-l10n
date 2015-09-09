@@ -5,5 +5,5 @@
    %brandDTD;
 <!ENTITY aboutLogins.title                       "লগইন">
 <!ENTITY aboutLogins.update                      "হালনাগাদ">
-
-
+<!ENTITY aboutLogins.emptyLoginText              "আপনার লগইন নিরাপদ রাখুন">
+<!ENTITY aboutLogins.emptyLoginHint              "&brandShortName; ব্যবহার করে সংরক্ষিত লগইন এবং পরিচয়াদি এখানে দেখা যাবে।">
