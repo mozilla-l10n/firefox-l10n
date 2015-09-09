@@ -280,7 +280,8 @@
 <!ENTITY calendar.tasks.view.minimonth.label           "Mini-mais">
 <!ENTITY calendar.tasks.view.minimonth.accesskey       "M">
 
-
+<!ENTITY calendar.tasks.view.calendarlist.label        "Glista da chalenders">
+<!ENTITY calendar.tasks.view.calendarlist.accesskey    "l">
 
 <!ENTITY calendar.tasks.view.filtertasks.label           "Filtrar incumbensas">
 <!ENTITY calendar.tasks.view.filtertasks.accesskey       "F">
@@ -292,8 +293,8 @@
 
 <!ENTITY calendar.alarm.snoozefor.label             "Puspè regurdar en" >
 
-
-
+<!ENTITY calendar.alarm.title.label                 "Promemorias dal chalender" >
+<!ENTITY calendar.alarm.dismiss.label               "Serrar" >
 <!ENTITY calendar.alarm.dismissall.label            "Serrar tut" >
 
 <!ENTITY calendar.alarm.snooze.5minutes.label       "5 minutas" >
@@ -301,9 +302,9 @@
 <!ENTITY calendar.alarm.snooze.15minutes.label      "15 minutas" >
 <!ENTITY calendar.alarm.snooze.30minutes.label      "30 minutas" >
 <!ENTITY calendar.alarm.snooze.45minutes.label      "45 minutas" >
-
+<!ENTITY calendar.alarm.snooze.1hour.label          "1 &amp;ura" >
 <!ENTITY calendar.alarm.snooze.2hours.label         "2 uras" >
-
+<!ENTITY calendar.alarm.snooze.1day.label           "1 &amp;di" >
 <!-- LOCALIZATION NOTE (calendar.alarm.snooze.cancel)
      This string is not seen in the UI, it is read by screen readers when the
      user focuses the "Cancel" button in the "Snooze for..." popup of the alarm
@@ -320,12 +321,12 @@
 <!ENTITY calendarproperties.wcap.label                     "Sun Java System Calendar Server (WCAP)">
 <!ENTITY calendarproperties.format.label                   "Format:">
 <!ENTITY calendarproperties.location.label                 "Lieu:">
-
+<!ENTITY calendarproperties.refreshInterval.label          "Actualisar il chalender:">
 <!ENTITY calendarproperties.refreshInterval.manual.label   "Manualmain">
 <!ENTITY calendarproperties.name.label                     "Num:">
 <!ENTITY calendarproperties.readonly.label                 "Mo per lectura">
 <!ENTITY calendarproperties.firealarms.label               "Mussar las promemorias">
-
+<!ENTITY calendarproperties.cache3.label                   "Cumpatibel cun il modus senza connexiun">
 <!ENTITY calendarproperties.enabled.label                  "Activar quest chalender">
 <!ENTITY calendarproperties.forceDisabled.label            "Impussibel da chattar il provider da quest chalender. Quai po capitar sche ti has deactivà u deinstallà tscherts supplements.">
 <!ENTITY calendarproperties.unsubscribe.label              "Deabunar">
@@ -333,18 +334,20 @@
 <!-- Calendar Publish Dialog -->
 
 <!ENTITY calendar.publish.dialog.title              "Publitgar il chalender">
-
+<!ENTITY calendar.publish.url.label                 "URL da publicaziun">
 <!ENTITY calendar.publish.publish.button      "Publitgar">
 <!ENTITY calendar.publish.close.button      "Serrar">
 
 <!ENTITY calendar.publish.example.url.description   "Per exempel http://www.messerver.com/webdav/test.ics">
 <!-- Select Calendar Dialog -->
+
+<!ENTITY calendar.select.dialog.title    "Tscherner in chalender">
 <!-- Calendar Printing -->
 
 <!ENTITY calendar.print.window.title "Stampar in chalender">
 <!ENTITY calendar.print.title.label "Titel:">
-
-
+<!ENTITY calendar.print.layout.label "Disposiziun:">
+<!ENTITY calendar.print.range.label "Tge stampar">
 <!ENTITY calendar.print.currentView2.label "Vista actuala">
 <!ENTITY calendar.print.selectedEventsAndTasks.label "Incumbensas/eveniments tschernids">
 <!ENTITY calendar.print.tasks.label "Incumbensas">
@@ -355,7 +358,7 @@
 <!ENTITY calendar.print.settingsGroup.label "Configuraziun da stampa">
 <!ENTITY calendar.print.optionsGroup.label "Opziuns">
 <!ENTITY calendar.print.taskswithnoduedate.label "Incumbensas senza data da scadenza">
-
+<!ENTITY calendar.print.completedtasks.label "Incumbensas cumplettadas">
 <!-- Error reporting -->
 
 <!ENTITY calendar.error.detail "Detagls…">
