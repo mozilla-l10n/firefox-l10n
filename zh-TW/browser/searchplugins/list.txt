@@ -1,8 +1,7 @@
+findbook-zh-TW
 google
-yahoo-zh-TW
-yahoo-zh-TW-HK
+wikipedia-zh-TW
 yahoo-answer-zh-TW
 yahoo-bid-zh-TW
-findbook-zh-TW
-creativecommons
-wikipedia-zh-TW
+yahoo-zh-TW
+yahoo-zh-TW-HK
