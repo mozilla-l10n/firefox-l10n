@@ -10,7 +10,7 @@
 <!ENTITY  onboard_start_subtext3 "ওয়েব ব্রাউজিং করার অভিজ্ঞতা যথাযথ ভাবে আপনার নিজের মত করে করুন।">
 <!ENTITY  onboard_start_button_account "&brandShortName; এ সাইন ইন করুন">
 <!ENTITY  onboard_start_button_browser "ব্রাউজিং শুরু করুন">
-<!ENTITY  onboard_start_restricted1 "&amp;brandShortName এর সরলীকৃত সংস্করণের সাথে নিরাপদ ও নিয়ন্ত্রণে থাকুন;">
+<!ENTITY  onboard_start_restricted1 "&brandShortName; এর সরলীকৃত সংস্করণের সাথে নিরাপদ ও নিয়ন্ত্রণে থাকুন।">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -58,8 +58,8 @@
 <!ENTITY history_week_section2 "গত সপ্তাহে">
 <!ENTITY history_older_section2 "গত মাসে">
 
-<!ENTITY go "যান">
-<!ENTITY search "খুজুন">
+<!ENTITY go "যাও">
+<!ENTITY search "খুঁজুন">
 <!ENTITY reload "পুনরায় লোড">
 <!ENTITY forward "পরবর্তী">
 <!ENTITY menu "মেনু">
@@ -197,6 +197,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "সক্রিয়, তৃতীয় পক্ষ ব্যতীত">
 <!ENTITY pref_cookies_disabled "নিষ্ক্রিয়">
 
+<!ENTITY pref_tracking_protection_title "ট্র্যাকিং সুরক্ষা">
 <!ENTITY pref_tracking_protection_summary3 "প্রাইভেট ব্রাউজিং এ সক্রিয় থাকুন">
 <!ENTITY pref_donottrack_title "ট্র্যাক করবেন না">
 <!ENTITY pref_donottrack_summary "&brandShortName; সাইট দের বলে যে আপনি ট্র্যাক হতে চান না">
@@ -209,8 +210,8 @@
 <!ENTITY tab_queue_toast_message3 "&brandShortName; নামে ট্যাব সংরক্ষিত হয়েছে">
 <!ENTITY tab_queue_toast_action "এখনি খুলুন">
 <!ENTITY tab_queue_prompt_title "একাধিক লিঙ্ক খুলছেন?">
-
-
+<!ENTITY tab_queue_prompt_text4 "সংরক্ষণ করুন যতক্ষণ না আপনি পরবর্তীতে কখনো &brandShortName; খুলছেন।">
+<!ENTITY tab_queue_prompt_tip_text2 "আপনি পরে সেটিং এ এটি পরিবর্তন করতে পারবেন">
 <!ENTITY tab_queue_prompt_positive_action_button "সক্রিয়">
 <!ENTITY tab_queue_prompt_negative_action_button "এখনি নয়">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
@@ -413,7 +414,7 @@ size. -->
      whether or not the magnifying glass is disabled. -->
 
 <!ENTITY pref_prevent_magnifying_glass "ম্যাগনিফাইং গ্লাস নিস্ক্রিয় করুন">
-
+<!ENTITY pref_prevent_magnifying_glass_summary "সন্দেহজনক স্ক্রিন টাচ সমাধানে ম্যাগনিগাইং গ্লাস প্রতিরোধ করুন">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -421,7 +422,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "যখন একটি পাতায় স্ক্রল করছেন তখন &brandShortName; টাইটেল বার কে লুকান">
 
 <!ENTITY pref_tab_queue_title2 "একাধিক লিঙ্ক খুলুন">
-
+<!ENTITY pref_tab_queue_summary3 "পরবর্তীতে যখন &brandShortName; খুলবেন ততক্ষণ পর্যন্ত তাদের সংরক্ষণ করুন">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -441,6 +442,8 @@ size. -->
 <!ENTITY site_settings_no_settings  "পরিস্কার করার জন্য কোন সেটিংস নেই।">
 <!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
+
+<!ENTITY reading_list_added3 "পঠন তালিকায় যোগ করা হয়েছে">
 <!ENTITY reading_list_removed "আপনার পঠন তালিকায় পৃষ্ঠা অপসারণ করা হয়েছে">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -571,7 +574,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY blocked_mixed_content_message_bottom "এই বিষয়বস্তু আটকানো থাকা সত্বেও অধিকাংশ ওয়েবসাইট সঠিকভাবে কাজ করবে।">
 <!-- Tracking content notifications in site identity popup -->
 
-
+<!ENTITY doorhanger_tracking_title "ট্র্যাকিং সুরক্ষা">
+<!ENTITY doorhanger_tracking_state_enabled "সক্রিয় হয়েছে">
+<!ENTITY doorhanger_tracking_state_disabled "নিষ্ক্রিয় হয়েছে">
 <!ENTITY doorhanger_tracking_message_enabled1 "আপনার অনলাইন কার্যকলাপ ট্র্যাক করার প্রচেষ্টা অবরোধ করা হয়েছে।">
 <!ENTITY doorhanger_tracking_message_disabled2 "আপনার ব্রাউজিং ট্র্যাক করতে পারে এমন উপাদান এই পাতায় রয়েছে।">
 <!-- Common mixed and tracking content strings in site identity popup -->
@@ -682,16 +687,20 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
+
+<!ENTITY devtools_auth_scan_header "QR কোড স্ক্যান হচ্ছে যা আপনার অন্য ডিভাইসে প্রদর্শিত হবে">
 <!-- Restrictions -->
 <!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
-
-
-
-
-
-
-
-
+<!ENTITY restriction_disallow_import_settings_title2 "\u0027অ্যান্ড্রয়েড থেকে ইম্পোর্ট করুন\u0027 নিষ্ক্রিয় করুন">
+<!ENTITY restriction_disallow_addons_title2 "অ্যাড-অন ইন্সটলেশন নিষ্ক্রিয় করুন">
+<!ENTITY restriction_disallow_devtools_title2 "ডেভেলপার টুল নিষ্ক্রিয় করুন">
+<!ENTITY restriction_disallow_customize_home_title2 "হোম কাস্টমাইজেশন নিষ্ক্রিয় করুন">
+<!ENTITY restriction_disallow_private_browsing_title2 "ব্যক্তিগত ব্রাউজিং নিষ্ক্রিয় করুন">
+<!ENTITY restriction_disallow_location_services_title2 "লোকেশন সার্ভিস নিষ্ক্রিয় করুন">
+<!ENTITY restriction_disallow_display_settings_title2 "প্রদর্শনী সেটিং নিষ্ক্রিয় করুন">
+<!ENTITY restriction_disallow_clear_history_title2 "\u0027ব্রাউজিং ইতিহাস মুছে ফেলুন\u0027 নিষ্ক্রিয় করুন">
+<!ENTITY restriction_disallow_master_password_title2 "মাস্টার পাসওয়ার্ড নিষ্ক্রিয় করুন">
+<!ENTITY restriction_disallow_guest_browsing_title2 "অতিথি ব্রাউজিং নিষ্ক্রিয় করুন">
 
