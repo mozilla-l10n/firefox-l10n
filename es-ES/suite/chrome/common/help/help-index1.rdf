@@ -662,9 +662,9 @@
          nc:link="mailnews_account_settings.xhtml#security"/>
      </rdf:li>
      <rdf:li>
-       <rdf:Description ID="settings:SSL"
-         nc:name="configuraci&#243;n de SSL"
-	 nc:link="ssl_help.xhtml#ssl_settings"/>
+       <rdf:Description ID="settings:SSLTLS"
+         nc:name="configuraci&#243;n de SSL/TLS"
+	 nc:link="ssl_help.xhtml#ssltls_settings"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
@@ -1919,9 +1919,9 @@
 	 nc:link="privsec_help.xhtml"/>
      </rdf:li>
      <rdf:li>
-       <rdf:Description ID="preferences:SSL"
-         nc:name="preferencias de SSL"
-	 nc:link="ssl_help.xhtml#privacy_and_security_preferences_ssl"/>
+       <rdf:Description ID="preferences:SSLTLS"
+         nc:name="preferencias de SSL/TLS"
+	 nc:link="ssl_help.xhtml#privacy_and_security_preferences_ssltls"/>
      </rdf:li>
      <rdf:li>
        <rdf:Description ID="preferences:Tabbed_Browsing"
@@ -2057,8 +2057,8 @@
          nc:name="sin conexi&#243;n" />
      </rdf:li>
      <rdf:li>
-       <rdf:Description ID="SSL"
-         nc:name="SSL"
+       <rdf:Description ID="SSLTLS"
+         nc:name="SSL/TLS"
 	 nc:link="ssl_help.xhtml"/>
      </rdf:li>
      <rdf:li>
@@ -2128,27 +2128,27 @@
    </nc:subheadings>
 </rdf:Description>
 
-<rdf:Description about="#SSL">
+<rdf:Description about="#SSLTLS">
    <nc:subheadings>
      <rdf:Seq><rdf:li>
-       <rdf:Description ID="SSL:warnings"
-         nc:name="advertencias SSL"
-         nc:link="ssl_help.xhtml#ssl_warnings"/>
+       <rdf:Description ID="SSLTLS:warnings"
+         nc:name="advertencias SSL/TLS"
+         nc:link="ssl_help.xhtml#ssltls_warnings"/>
      </rdf:li>
      <rdf:li>
-       <rdf:Description ID="SSL:mixed_content"
+       <rdf:Description ID="SSLTLS:mixed_content"
          nc:name="contenido mezclado"
          nc:link="ssl_help.xhtml#mixed_content"/>
      </rdf:li>
      <rdf:li>
-       <rdf:Description ID="SSL:preferences"
-         nc:name="preferencias SSL"
-         nc:link="ssl_help.xhtml#privacy_and_security_preferences_ssl"/>
+       <rdf:Description ID="SSLTLS:preferences"
+         nc:name="preferencias SSL/TLS"
+         nc:link="ssl_help.xhtml#privacy_and_security_preferences_ssltls"/>
      </rdf:li>
      <rdf:li>
-       <rdf:Description ID="SSL:protocols"
-         nc:name="protocolos SSL"
-         nc:link="ssl_help.xhtml#ssl_protocol_versions"/>
+       <rdf:Description ID="SSLTLS:protocols"
+         nc:name="protocolos SSL/TLS"
+         nc:link="ssl_help.xhtml#ssltls_protocol_versions"/>
      </rdf:li></rdf:Seq>
    </nc:subheadings>
 </rdf:Description>
