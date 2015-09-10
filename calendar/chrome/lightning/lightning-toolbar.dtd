@@ -17,22 +17,22 @@
 <!ENTITY lightning.toolbar.gototoday.tooltip "Siglir tar Oz">
 <!ENTITY lightning.toolbar.print.label "Stampar">
 <!ENTITY lightning.toolbar.print.tooltip "Stampar eveniments u incumbensas">
-<!-- Mode Toolbar -->
 
+<!-- Mode Toolbar -->
 <!ENTITY lightning.toolbar.calendar.label     "Chalender">
 <!ENTITY lightning.toolbar.calendar.tooltip   "Midar al tab dal chalender">
 <!ENTITY lightning.toolbar.calendar.accesskey "C">
 <!ENTITY lightning.toolbar.task.label         "Pensums">
 <!ENTITY lightning.toolbar.task.tooltip       "Midar al tab da pensums">
 <!ENTITY lightning.toolbar.task.accesskey     "P">
-<!-- Toolbar write button -->
 
+<!-- Toolbar write button -->
 <!ENTITY lightning.toolbar.newevent.label     "Occurrenza">
 <!ENTITY lightning.toolbar.newevent.tooltip   "Crear ina nova occurrenza">
 <!ENTITY lightning.toolbar.newtask.label      "Pensum">
 <!ENTITY lightning.toolbar.newtask.tooltip    "Crear in nov pensum">
-<!-- Calendar and Task Mode Toolbar -->
 
+<!-- Calendar and Task Mode Toolbar -->
 <!ENTITY lightning.toolbar.day.label                 "Di">
 <!ENTITY lightning.toolbar.day.accesskey             "D">
 <!ENTITY lightning.toolbar.week.label                "Emna">
