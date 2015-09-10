@@ -1,45 +1,45 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- WARNING! This file contains UTF-8 encoded characters!
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
+
 <!-- Tools menu -->
-
-
 <!ENTITY lightning.preferencesLabel "Chalender">
-<!-- New menu popup in File menu -->
 
+<!-- New menu popup in File menu -->
 <!ENTITY lightning.menupopup.new.event.label    "Occurrenza…">
 <!ENTITY lightning.menupopup.new.event.accesskey "O">
 <!ENTITY lightning.menupopup.new.task.label     "Pensum…">
 <!ENTITY lightning.menupopup.new.task.accesskey "P">
 <!ENTITY lightning.menupopup.new.calendar.label "Chalendar…">
 <!ENTITY lightning.menupopup.new.calendar.accesskey "n">
-<!-- Open menu popup in File menu -->
 
+<!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.label               "Avrir">
 <!ENTITY lightning.menupopup.open.accesskey           "A">
 <!ENTITY lightning.menupopup.open.message.label       "Messadi memorisà…">
 <!ENTITY lightning.menupopup.open.message.accesskey   "m">
 <!ENTITY lightning.menupopup.open.calendar.label      "Datoteca da chalender…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "c">
-<!-- View Menu -->
 
+<!-- View Menu -->
 <!ENTITY lightning.menu.view.calendar.label            "Chalender">
 <!ENTITY lightning.menu.view.calendar.accesskey        "n">
 <!ENTITY lightning.menu.view.tasks.label               "Pensums">
 <!ENTITY lightning.menu.view.tasks.accesskey           "u">
-<!-- Events and Tasks menu -->
 
+<!-- Events and Tasks menu -->
 <!ENTITY lightning.menu.eventtask.label                "Ocurrenzas e pensums">
 <!ENTITY lightning.menu.eventtask.accesskey            "r">
+
 <!-- properties dialog, calendar creation wizard -->
-
 <!ENTITY lightning.calendarproperties.email.label               "E-Mail:">
-<!-- iMIP Bar (meeting support) -->
 
+<!-- iMIP Bar (meeting support) -->
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Acceptar">
 <!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "Acceptar l'invitaziun a l'occurrenza">
 <!ENTITY lightning.imipbar.btnAcceptRecurrences.label                       "Acceptar tuts">
@@ -67,17 +67,17 @@
 <!ENTITY lightning.imipbar.btnUpdate.label                                  "Actualisar">
 <!ENTITY lightning.imipbar.btnUpdate.tooltiptext                            "Actualisar l'occurrenza en il chalender">
 <!ENTITY lightning.imipbar.description                                      "Quest messadi cuntegna ina invitiaziun ad in'occurrenza.">
-<!-- Lightning specific keybindings -->
 
+<!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
 <!ENTITY lightning.keys.event.showTasks.key "D">
 <!ENTITY lightning.keys.event.new "I">
 <!ENTITY lightning.keys.todo.new "D">
+
 <!-- Account Central page -->
-
 <!ENTITY lightning.acctCentral.newCalendar.label "Crear in nov chalender">
-<!-- today-pane-specific -->
 
+<!-- today-pane-specific -->
 <!ENTITY todaypane.showMinimonth.label "Mussar Mini-mais">
 <!ENTITY todaypane.showMinimonth.accesskey "M">
 <!ENTITY todaypane.showMiniday.label "Mussar Mini-di">
