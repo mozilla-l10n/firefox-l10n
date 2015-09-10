@@ -57,7 +57,7 @@
 <!ENTITY trackingProtection.state.enabled      "ON">
 <!ENTITY trackingProtection.state.disabled     "OFF">
 
-<!ENTITY trackingProtection.description1       "Las ventanas privadas ahora bloquean partes de la página que pueden seguir tu actividad de navegación.">
+<!ENTITY trackingProtection.description1       "Las ventanas privadas ahora bloquean partes de la página que pueden rastrear tu actividad de navegación.">
 
 <!ENTITY trackingProtection.disable            "Apagando protección de rastreo">
 <!ENTITY trackingProtection.enable             "Encendiendo protección de rastreo">
