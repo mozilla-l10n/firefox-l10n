@@ -40,8 +40,8 @@
       certificados</a></li>
     <li><a href="#managing_smart_cards_and_other_security_devices">Administración
       de tarjetas inteligentes y dispositivos de seguridad</a></li>
-    <li><a href="#managing_ssl_warnings_and_settings">SSL: gestión de
-      advertencias y configuración</a></li>
+    <li><a href="#managing_ssltls_warnings_and_settings">Gestionar
+      advertencias y configuración SSL/TLS</a></li>
     <li><a href="#controlling_validation">Control de validación</a></li>
   </ul>
 </div>
@@ -162,10 +162,10 @@
   estado del cifrado de la página durante la recepción en su
   equipo. Para recibir un aviso cuando envía o recibe información no
   cifrada, o para bloquear contenido mezclado potencialmente dañino,
-  seleccione las opciones adecuadas de advertencias SSL y contenido
+  seleccione las opciones adecuadas de advertencias SSL/TLS y contenido
   mezclado. Si desea más información, consulte
-  <a href="ssl_help.xhtml">Preferencias de confidencialidad y
-  seguridad: SSL</a>.</p>
+  <a href="ssl_help.xhtml">Preferencias de privacidad y
+  seguridad - SSL/TLS</a>.</p>
 
 <p>[<a href="#using_certificates">Volver al principio de la
   sección</a>]</p>
@@ -564,8 +564,8 @@
 <p>[<a href="#managing_smart_cards_and_other_security_devices">Volver al
   principio de la sección</a>]</p>
   
-<h1 id="managing_ssl_warnings_and_settings">SSL: gestión de
-  advertencias y configuración</h1>
+<h1 id="managing_ssl_warnings_and_settings">Gestionar advertencias y
+  configuración SSL/TLS</h1>
 
 <p>El protocolo de Capa de Conexiones Seguras (SSL) permite al equipo
   intercambiar en forma cifrada información en Internet con otros
@@ -575,31 +575,30 @@
   "glossary.xhtml#certificate">certificados</a>.</p>
 
 <p>El protocolo TLS (Seguridad de la Capa de Transporte) es una norma nueva
-  basada en SSL. Por defecto, el navegador admite tanto SSL como TLS. Esto
-  funciona para la mayoría de las personas, ya que garantiza que el
-  navegador podrá trabajar con prácticamente todo el software
-  existente en Internet que admita cualquier versión de SSL o TLS.</p>
+  basada en SSL. Las antiguas versiones SSL han sido desaprobadas por motivos
+  de seguridad y TLS es el único protocolo admitido. El conjunto por defecto
+  de versiones TLS funciona para la mayoría de la gente con los servidores
+  actuales. Sin embargo, en algunas circunstancias los administradores de
+  sistemas u otras personas con el conocimiento adecuado pueden querer
+  ajustar las opciones de SSL/TLS para afinarlos correctamente para cubrir
+  necesidades especiales de seguridad o para tener en cuenta las capacidades
+  limitadas de algunos servidores antiguos.</p>  
 
-<p>Sin embargo, en algunas circunstancias es posible que el administrador del
-  sistema u otras personas informadas deseen ajustar la configuración de
-  SSL para acoplarla a las necesidades especiales de seguridad o para evitar
-  errores ya existentes en productos de software anteriores.</p>
-
-<p>No debe ajustar la configuración de SSL de su navegador a menos que
+<p>No debe ajustar la configuración de SSL/TLS de su navegador a menos que
   sepa lo que está haciendo o reciba asistencia de una persona que tenga
-  conocimientos. Si por alguna razón necesita ajustar la
-  configuración, siga estos pasos:</p>
+  conocimientos. Si por alguna razón necesita ajustar la configuración, siga
+  estos pasos:</p>
 
 <ol>
   <li>Abra el menú <span class="mac">&brandShortName;</span>
     <span class="noMac">Editar</span> y elija <q>Preferencias</q>.</li>
-  <li>En la categoría Privacidad y seguridad, seleccione SSL (si no
+  <li>En la categoría Privacidad y seguridad, seleccione SSL/TLS (si no
     aparece ninguna subcategoría, haga doble clic en Seguridad y
     privacidad para expandir la lista).</li>
 </ol>
 
 <p>Si desea más información, consulte <a href=
-  "ssl_help.xhtml">Configuración SSL</a>.</p>
+  "ssl_help.xhtml">Configuración SSL/TLS</a>.</p>
 
 <p>[<a href="#using_certificates">Volver al principio de la
   sección</a>]</p>

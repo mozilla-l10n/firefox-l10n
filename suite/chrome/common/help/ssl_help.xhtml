@@ -17,46 +17,49 @@
 </head>
 <body>
 
-<h1 id="ssl_settings">Configuración de SSL</h1>
+<h1 id="ssl_settings">Configuración de SSL/TLS</h1>
 
-<p>Esta sección describe cómo configurar sus preferencias SSL.</p>
+<p>Esta sección describe cómo configurar sus preferencias SSL/TLS.</p>
   
 <div class="contentsBox">En esta sección:
   <ul>
-    <li><a href="#privacy_and_security_preferences_ssl">Preferencias de
-      privacidad y seguridad - SSL</a></li>
+    <li><a href="#privacy_and_security_preferences_ssltls">Preferencias de
+      privacidad y seguridad - SSL/TLS</a></li>
   </ul>
 </div>
 
-<h2 id="privacy_and_security_preferences_ssl">Preferencias de privacidad y
-  seguridad - SSL</h2>
+<h2 id="privacy_and_security_preferences_ssltls">Preferencias de privacidad y
+  seguridad - SSL/TLS</h2>
 
 <p>Esta sección describe cómo utilizar el panel de preferencias
-  SSL. Si no está viendo el panel, siga estos pasos:</p>
+  SSL/TLS. Si no está viendo el panel, siga estos pasos:</p>
 
 <ol>
   <li>Abra el menú <span class="mac">&brandShortName;</span>
     <span class="noMac">Editar</span> y elija <q>Preferencias</q>.</li>
   <li>Bajo la categoría Privacidad y seguridad, escoja la
-    subcategoría SSL. Si no aparece ninguna subcategoría, haga
+    subcategoría SSL/TLS. Si no aparece ninguna subcategoría, haga
     doble clic en Privacidad y seguridad para expandir la lista.</li>
 </ol>
   
-<h3 id="ssl_protocol_versions">Versiones del protocolo SSL</h3>
+<h3 id="ssltls_protocol_versions">Versiones del protocolo SSL/TLS</h3>
 
 <p>El protocolo <a href="glossary.xhtml#ssl">Capa de Conexiones Seguras
-  (SSL)</a> define las reglas que rigen la identificación mutua entre un sitio
-  web y un navegador y el cifrado de la información que fluye entre ambos.
-  También se usa para la comunicación segura en otros protocolos, p.e., para
-  la protección de información confidencial intercambiada con servidores de
-  correo, calendario o directorio. Los protocolos SSL 2.0 y SSL 3.0 son
-  inseguros y por tanto obsoletos. El más reciente protocolo de Seguridad
-  de la Capa de Transporte (TLS) es un estándar IEF basado en SSL pero con su
-  propia numeración de versiones. TLS 1.0 puede ser considerado equivalente a
-  SSL 3.1, TLS 1.1 es a su vez una actualización de TLS 1.0, etc. Se prefieren
-  los protocolos más recientes a los más antiguos, ya que proporcionan mejor
-  seguridad y más características. Los protocolos más antiguos se admiten para
-  asegurar la compatibilidad.</p>
+  (SSL)</a> y su sucesor, el protocolo <a href="glossary.xhtml#tls">Seguridad
+  de la Capa de Transporte (TLS)</a> son estándares que definen las reglas que
+  dirigen la identificación mutua entre un sitio web y un navegador web y el
+  cifrado de información que fluye entre ellos. También se usan para
+  comunicaciones seguras en varios protocolos más, p.e., para la protección de
+  información confidencial intercambiada con servidores de correo electrónico,
+  calendario o directorio.</p>
+  
+<p>Los protocolos SSL 2.0 y SSL 3.0 son inseguros y por ello desaprobados. El
+  protocolo actual TLS se basa en SSL pero con su propia numeración de
+  versiones. TLS 1.0 puede ser considerado equivalente a SSL 3.1, TLS 1.1 es a
+  su vez una actualización de TLS 1.0, etc. Los protocolos más recientes se
+  prefieren a los más antiguos, ya que proporcionan mejor seguridad y más
+  características. Los protocolos más antiguos se admiten para asegurar la
+  compatibilidad.</p>
 
 <p>Por defecto, &brandShortName; seleccionará la versión más segura admitida
   con carácter general para conectar al servidor. Si ese intento no tiene
@@ -89,7 +92,7 @@
     para poder acceder a las versiones intermedias.</li>
 </ul>
 
-<h3 id="ssl_warnings">Advertencias SSL</h3>
+<h3 id="ssltls_warnings">Advertencias SSL/TLS</h3>
 
 <p>Es fácil saber cuándo el servidor web que se está visitando utiliza una
   conexión cifrada. Si la conexión está cifrada, el candado en la esquina
@@ -102,7 +105,7 @@
   (<img src="chrome://communicator/skin/icons/lock-broken.png"/>).</p>
 
 <p>Si usted desea advertencias adicionales, puede seleccionar una o
-  más de las casillas de advertencia en el panel de preferencias SSL.
+  más de las casillas de advertencia en el panel de preferencias SSL/TLS.
   A menos que se indique lo contrario, se presentará una barra de
   notificación en la parte superior de la página que ha provocado el
   aviso, con una opción para entrar en este panel para cambiar la
