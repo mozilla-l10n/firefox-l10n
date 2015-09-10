@@ -71,7 +71,7 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "คุณยังไม่ได้เข้าใช้งาน">
 <!ENTITY signIn.label                "เข้าใช้งาน">
-
+<!ENTITY profilePicture.tooltip      "เปลี่ยนรูปโพรไฟล์">
 <!ENTITY manage.label                "จัดการ">
 <!ENTITY disconnect.label            "ยกเลิกการเชื่อมต่อ…">
 <!ENTITY verify.label                "ตรวจความถูกต้องของอีเมล">
@@ -83,13 +83,16 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY welcome.useOldSync.label "ใช้ Sync รุ่นเก่าอยู่?">
 
-
-
+<!ENTITY signedOut.caption            "นำเว็บไปกับคุณ">
+<!ENTITY signedOut.description        "ผสานที่คั่นเว็บ ประวัติ แท็บ รหัสผ่าน ส่วนเสริม และการตั้งค่าของคุณผ่านอุปกรณ์ของคุณทั้งหมด">
+<!ENTITY signedOut.accountBox.title   "เชื่อมต่อกับ &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "สร้างบัญชี">
 <!ENTITY signedOut.accountBox.signin  "เข้าสู่ระบบ">
 
+<!ENTITY signedIn.engines.label       "ผสานข้อมูลอุปกรณ์ของคุณทั้งหมด">
 
 <!ENTITY mobilePromo.start            "ดาวน์โหลด Firefox สำหรับ ">
 <!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
-
-
+<!ENTITY mobilePromo.androidLink      "Android™">
+<!ENTITY mobilePromo.end              " เพื่อซิงก์ข้อมูลกับอุปกรณ์เคลื่อนที่ของคุณ">
+<!ENTITY androidAttribution           "Android เป็นเครื่องหมายการค้าของ Google Inc.">
