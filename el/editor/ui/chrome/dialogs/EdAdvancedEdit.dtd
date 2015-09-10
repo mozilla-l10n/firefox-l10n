@@ -12,7 +12,7 @@
 <!ENTITY tree.valueHeader.label         "Τιμή">
 <!ENTITY tabHTML.label                  "Χαρακτηριστικά HTML ">
 <!ENTITY tabCSS.label                   "Inline Style">
-<!ENTITY tabJSE.label                   "Γεγονότα Javascript">
+<!ENTITY tabJSE.label                   "Γεγονότα JavaScript">
 
 <!ENTITY editAttribute.label    "Πατήστε σε ένα αρχείο για να τροποποιήσετε την τιμή του">
 <!ENTITY removeAttribute.label  "Αφαίρεση γνωρίσματος">
