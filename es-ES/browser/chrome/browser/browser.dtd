@@ -520,6 +520,8 @@
 <!ENTITY identity.learnMore "Saber más">
 <!ENTITY identity.moreInfoLinkText2 "Más información">
 <!ENTITY identity.permissions "Permisos">
+<!ENTITY identity.permissionsPageFunctionality "Funcionalidad de la página">
+<!ENTITY identity.permissionsSystemAccess "Acceso al sistema">
 <!ENTITY tabsToolbar.label "Pestañas del navegador">
 <!ENTITY syncTabsMenu2.label "Pestañas de otros dispositivos">
 <!ENTITY syncBrand.shortName.label "Sync">

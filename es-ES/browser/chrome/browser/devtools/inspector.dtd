@@ -30,6 +30,7 @@
 <!ENTITY inspectorSearchHTML.label3 "Buscar en HTML">
 <!ENTITY inspectorCopyImageDataUri.label "Copiar Data-URL de la imagen">
 <!ENTITY inspectorShowDOMProperties.label "Mostrar propiedades DOM">
+<!ENTITY inspectorUseInConsole.label "Usar en consola">
 <!ENTITY inspectorExpandNode.label "Expandir todo">
 <!ENTITY inspectorCollapseNode.label "Contraer">
 <!ENTITY inspectorScreenshotNode.label "Capturar pantalla del nodo">
