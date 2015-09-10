@@ -40,8 +40,9 @@
 <!ENTITY bookmark_options "Opciones">
 <!ENTITY history_today_section "Hoy">
 <!ENTITY history_yesterday_section "Ayer">
-<!ENTITY history_week_section2 "Última semana">
-<!ENTITY history_older_section2 "Último mes">
+<!ENTITY history_week_section3 "En los últimos 7 días">
+<!ENTITY history_this_month_section "Este mes">
+<!ENTITY history_older_section3 "Hace más de 6 meses">
 <!ENTITY go "Ir">
 <!ENTITY search "Buscar">
 <!ENTITY reload "Recargar">
@@ -52,13 +53,12 @@
 <!ENTITY site_security "Seguridad del sitio">
 <!ENTITY edit_mode_cancel "Cancelar">
 <!ENTITY close_tab "Cerrar pestaña">
-<!ENTITY tab_audio_playing "Esta pestaña está reproduciendo audio">
-<!ENTITY tab_audio_muted "Esta pestaña ha sido silenciada">
 <!ENTITY one_tab "1 pestaña">
 <!ENTITY num_tabs2 "&formatD; pestañas">
 <!ENTITY new_tab_opened "Pestaña nueva abierta">
 <!ENTITY new_private_tab_opened "Abierta nueva pestaña privada">
 <!ENTITY switch_button_message "CAMBIAR">
+<!ENTITY tab_title_prefix_is_playing_audio "Reproduciendo audio – &formatS;">
 <!ENTITY settings "Configuración">
 <!ENTITY settings_title "Configuración">
 <!ENTITY pref_category_input_options "Opciones de entrada">
@@ -161,7 +161,6 @@
 <!ENTITY pref_plugins_tap_to_play "Pulsar para activar">
 <!ENTITY pref_plugins_disabled "Desactivados">
 <!ENTITY pref_text_size "Tamaño del texto">
-<!ENTITY pref_reflow_on_zoom4 "Reajuste de texto">
 <!ENTITY pref_restore "Pestañas">
 <!ENTITY pref_restore_always "Restaurar siempre">
 <!ENTITY pref_restore_quit "No restaurar tras salir de &brandShortName;">
