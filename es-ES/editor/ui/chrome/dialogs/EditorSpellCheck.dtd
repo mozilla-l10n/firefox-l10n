@@ -19,15 +19,15 @@
 <!ENTITY replaceAllButton.label "Reemplazar todo">
 <!ENTITY replaceAllButton.accessKey "A">
 <!ENTITY stopButton.label "Detener">
-<!ENTITY stopButton.accessKey "t">
+<!ENTITY stopButton.accessKey "o">
 <!ENTITY userDictionary.label "Diccionario personal:">
 <!ENTITY moreDictionaries.label "Descargar más diccionarios…">
 <!ENTITY addToUserDictionaryButton.label "Añadir palabra">
 <!ENTITY addToUserDictionaryButton.accessKey "d">
 <!ENTITY editUserDictionaryButton.label "Editar…">
 <!ENTITY editUserDictionaryButton.accessKey "E">
-<!ENTITY recheckButton.label "Volver a revisar la página">
-<!ENTITY recheckButton.accessKey "P">
+<!ENTITY recheckButton2.label "Recomprobar texto">
+<!ENTITY recheckButton2.accessKey "b">
 <!ENTITY closeButton.label "Cerrar">
 <!ENTITY closeButton.accessKey "C">
 <!ENTITY sendButton.label "Enviar">

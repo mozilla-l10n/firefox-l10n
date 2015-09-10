@@ -8,6 +8,8 @@
 <!ENTITY pref.calendar.view.workweek.caption "Semana laboral">
 <!ENTITY pref.weekstarts.label "Comenzar la semana en:">
 <!ENTITY pref.weekstarts.accesskey "z">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Mostrar el número de semana en las vias y el minimes">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "M">
 <!ENTITY pref.daysoff.label "Incluir estos días en la semana laboral:">
 <!ENTITY pref.calendar.view.daystart.label "El día comienza a las:">
 <!ENTITY pref.calendar.view.daystart.accesskey "d">
