@@ -71,24 +71,28 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "شما وارد نشده‌اید.">
 <!ENTITY signIn.label                "ورود">
-
+<!ENTITY profilePicture.tooltip      "تغییرتصویر نمایه">
 <!ENTITY manage.label                "مدیریت">
 <!ENTITY disconnect.label            "قطع ارتباط…">
 <!ENTITY verify.label                "تایید پست‌الکترونیکی">
 <!ENTITY forget.label                "این پست‌الکترونیکی را فراموش کن">
 
 <!ENTITY welcome.description "به زبانه‌ها، نشانک‌ها و گذرواژه‌های خود هنگام استفاده از &brandShortName; دسترسی داشته باشید.">
-
-
+<!ENTITY welcome.signIn.label "ورود">
+<!ENTITY welcome.createAccount.label "ساخت حساب">
 
 <!ENTITY welcome.useOldSync.label "آیا از نسخه قدیمی‌تر هم‌گام‌سازی استفاده می‌کنید؟">
 
+<!ENTITY signedOut.caption            "وب را با خودتان همراه کنید">
+<!ENTITY signedOut.description        "نشانک‌ها، تاریخچه، زبانه‌ها، گذرواژه‌ها، افزونه‌ها و ترجیحات خود را در تمام دستگاه‌هایتان همگام کنید.">
+<!ENTITY signedOut.accountBox.title   "اتصال به یک &syncBrand.fxAccount.label;">
+<!ENTITY signedOut.accountBox.create  "ساخت حساب">
+<!ENTITY signedOut.accountBox.signin  "ورود">
 
+<!ENTITY signedIn.engines.label       "همگام‌سازی در بین تمام دستگاه‌ها">
 
-
-
-
-
+<!ENTITY mobilePromo.start            "بارگیری فایرفاکس برای ">
 <!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
-
-
+<!ENTITY mobilePromo.androidLink      "اندروید™">
+<!ENTITY mobilePromo.end              " جهت همگام‌سازی با دستگاه همراه شما.">
+<!ENTITY androidAttribution           "اندروید نماد تجاری شرکت گوگل است">

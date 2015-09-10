@@ -4,14 +4,15 @@
 
 <!ENTITY tracking.label                 "ره‌گیری">
 
-
+<!ENTITY dntTrackingNotOkay4.label     "درخواست می‌کند تا سایت‌ها شما را ردگیری نکنند">
+<!ENTITY dntTrackingNotOkay4.accesskey "ن">
 <!ENTITY doNotTrackInfo.label          "بیشتر بدانید">
-
-
-
-
-
-
+<!ENTITY trackingProtection5.label     "بکارگیری محافظت از ردگیری">
+<!ENTITY trackingProtection5.accesskey "ر">
+<!ENTITY trackingProtectionLearnMore.label "اطلاعات بیشتر">
+<!ENTITY trackingProtectionPBM5.label         "از محافظت ردگیری در پنجره‌های خصوصی استفاده کنید">
+<!ENTITY trackingProtectionPBM5.accesskey     "خ">
+<!ENTITY trackingProtectionPBMLearnMore.label "اطلاعات بیشتر">
 
 <!ENTITY  history.label                 "تاریخچه">
 
@@ -27,7 +28,8 @@
 <!ENTITY  locbar.searches.label         "جست‌وجو‌های مرتبط از موتور جست‌وجوی پیش‌فرض">
 <!ENTITY  locbar.searches.accesskey     "م">
 
-
+<!ENTITY  suggestionSettings.label      "ترجیحات مربوط به پیشنهادات موتورهای جست‌وجو را تغییر دهید…">
+<!ENTITY  suggestionSettings.accesskey  "ت">
 
 <!ENTITY  acceptCookies.label           "به وب‌گاه‌ها اجازهٔ استفاده از کوکی داده شود">
 <!ENTITY  acceptCookies.accesskey       "ج">
