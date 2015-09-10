@@ -57,7 +57,7 @@
 <!ENTITY trackingProtection.state.enabled      "روشن">
 <!ENTITY trackingProtection.state.disabled     "خاموش">
 
-<!ENTITY trackingProtection.description1       "پنجره خصوصی در حال حاضر بخشی از صفحه ای که امکان داشت فعالیت های مرورگر شما را ردگیری کند را مسدودکرد. ">
+<!ENTITY trackingProtection.description1       "پنجره‌های خصوصی حالا قسمت‌های از صفحه که ممکن است مرور شما را ردگیری کنند، مسدود می‌کند.">
 
 <!ENTITY trackingProtection.disable            "غیرفعال کردن ردگیری">
 <!ENTITY trackingProtection.enable             "فعال کردن محافظ دربرابر ردگیری">
