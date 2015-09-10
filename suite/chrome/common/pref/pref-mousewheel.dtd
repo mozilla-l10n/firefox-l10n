@@ -14,13 +14,13 @@
 <!ENTITY sameAsVertical.accesskey "L">
 <!ENTITY doNothing.label "No hacer nada">
 <!ENTITY doNothing.accesskey "N">
-<!ENTITY doNothingHoriz.accesskey "N">
+<!ENTITY doNothingHoriz.accesskey "h">
 <!ENTITY scrollDocument.label "Desplazar el documento">
 <!ENTITY scrollDocument.accesskey "D">
 <!ENTITY scrollDocumentHoriz.accesskey "c">
 <!ENTITY history.label "Moverse adelante y atrás en el historial de navegación">
 <!ENTITY history.accesskey "M">
-<!ENTITY historyHoriz.accesskey "b">
+<!ENTITY historyHoriz.accesskey "r">
 <!ENTITY zoom.label "Aumentar o reducir el tamaño de la página">
 <!ENTITY zoom.accesskey "A">
 <!ENTITY zoomHoriz.accesskey "o">
