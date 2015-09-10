@@ -21,13 +21,13 @@
 <!ENTITY pref.missedalarms "Mussar promemorias manchentadas">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "m">
 <!ENTITY pref.calendar.alarms.defaults.label "Standards per promemorias">
-<!ENTITY pref.defalarm4events.label "Configuraziun da standard per occurrenzas:">
+<!ENTITY pref.defalarm4events.label "Configuraziun da standard per eveniments:">
 <!ENTITY pref.defalarm4events.accesskey "t">
 <!ENTITY pref.defalarm4todos.label "Configuraziun da standard per pensums:">
 <!ENTITY pref.defalarm4todos.accesskey "t">
 <!ENTITY pref.alarm.on "Activà">
 <!ENTITY pref.alarm.off "Deactivà">
-<!ENTITY pref.defalarmlen4events.label "Temp da standard per ina promemoria avant ina occurrenza:">
+<!ENTITY pref.defalarmlen4events.label "Temp da standard per ina promemoria avant in eveniment:">
 <!ENTITY pref.defalarmlen4events.accesskey "r">
 <!ENTITY pref.defalarmlen4todos.label "Temp da standard per ina promemoria avant in pensum:">
 <!ENTITY pref.defalarmlen4todos.accesskey "r">

@@ -18,7 +18,7 @@
 <!ENTITY pref.timezones.accesskey "T">
 
 <!ENTITY pref.defaults.label "Valurs da standard per novs elements">
-<!ENTITY pref.events.label "Occurrenzas">
+<!ENTITY pref.events.label "Eveniments">
 <!ENTITY pref.tasks.label "Pensums">
 
 <!ENTITY pref.default_event_length.label "Durada da standard:" >

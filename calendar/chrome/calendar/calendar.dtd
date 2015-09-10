@@ -6,7 +6,7 @@
 <!ENTITY calendar.calendar.label     "Chalender">
 <!ENTITY calendar.calendar.accesskey "C">
 
-<!ENTITY calendar.newevent.button.tooltip         "Crear ina nova occurrenza" >
+<!ENTITY calendar.newevent.button.tooltip         "Crear in nov eveniment" >
 <!ENTITY calendar.newtask.button.tooltip          "Crear in nov pensum" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Pensums" >
@@ -16,15 +16,15 @@
 <!ENTITY calendar.tomorrow.button.label       "Damaun">
 <!ENTITY calendar.upcoming.button.label       "Proxims">
 
-<!ENTITY calendar.events.filter.all.label "Tut las occurrenzas">
-<!ENTITY calendar.events.filter.today.label "Las occurrenzas dad oz">
-<!ENTITY calendar.events.filter.future.label "Tut las occurrenzas en il futur">
+<!ENTITY calendar.events.filter.all.label "Tut ils eveniments">
+<!ENTITY calendar.events.filter.today.label "Ils eveniments dad oz">
+<!ENTITY calendar.events.filter.future.label "Tut ils eveniments en il futur">
 <!ENTITY calendar.events.filter.current.label "Il di tschernì actualmain">
-<!ENTITY calendar.events.filter.currentview.label "Occurrenzas dal di tschernì">
-<!ENTITY calendar.events.filter.next7Days.label "Occurrenzas en ils proxims 7 dis">
-<!ENTITY calendar.events.filter.next14Days.label "Occurrenzas en ils proxims 14 dis">
-<!ENTITY calendar.events.filter.next31Days.label "Occurrenzas en ils proxims 31 dis">
-<!ENTITY calendar.events.filter.thisCalendarMonth.label "Occurrenzas en quest mais da chalender">
+<!ENTITY calendar.events.filter.currentview.label "Eveniments dal di tschernì">
+<!ENTITY calendar.events.filter.next7Days.label "Eveniments en ils proxims 7 dis">
+<!ENTITY calendar.events.filter.next14Days.label "Eveniments en ils proxims 14 dis">
+<!ENTITY calendar.events.filter.next31Days.label "Eveniments en ils proxims 31 dis">
+<!ENTITY calendar.events.filter.thisCalendarMonth.label "Eveniments en quest mais da chalender">
 
 <!-- LOCALIZATION NOTE(calendar.unifinder.tree.done.tooltip)
    - This label and tooltip is used for the column with the checkbox in the
@@ -55,7 +55,7 @@
 <!ENTITY calendar.unifinder.tree.calendarname.tooltip2     "Zavrar tenor num da chalender">
 <!ENTITY calendar.unifinder.tree.duration.label            "Scada en">
 <!ENTITY calendar.unifinder.tree.duration.tooltip2         "Temp enfin la scadenza">
-<!ENTITY calendar.unifinder.close.tooltip                  "Serra la glista per tschertgar e mussar occurrenzas">
+<!ENTITY calendar.unifinder.close.tooltip                  "Serrar la tschertga dad eveniments e la glista dad eveniments">
 
 <!ENTITY calendar.today.button.tooltip          "Siglir ad oz" >
 <!ENTITY calendar.todaypane.button.tooltip      "Mussar la lastra dad oz" >
@@ -85,7 +85,7 @@
 <!ENTITY calendar.navigation.nextmonth.tooltip  "In mais enavant" >
 <!ENTITY calendar.navigation.prevmonth.tooltip  "In mais enavos" >
 
-<!ENTITY calendar.newevent.button.label         "Nova occurrenza" >
+<!ENTITY calendar.newevent.button.label         "Nov eveniment" >
 <!ENTITY calendar.newtask.button.label          "Nov pensum" >
 <!ENTITY calendar.print.button.label            "Stampar" >
 <!ENTITY calendar.print.button.accesskey        "S">
@@ -158,13 +158,13 @@
 <!ENTITY calendar.context.modifyorviewitem.accesskey  "A">
 <!ENTITY calendar.context.modifyorviewtask.label      "Avrir in pensum…">
 <!ENTITY calendar.context.modifyorviewtask.accesskey  "A">
-<!ENTITY calendar.context.newevent.label              "Nova occurrenza…">
+<!ENTITY calendar.context.newevent.label              "Nov eveniment…">
 <!ENTITY calendar.context.newevent.accesskey          "N">
 <!ENTITY calendar.context.newtodo.label               "Nov pensum…">
 <!ENTITY calendar.context.newtodo.accesskey           "u">
 <!ENTITY calendar.context.deletetask.label            "Stizzar il pensum">
 <!ENTITY calendar.context.deletetask.accesskey        "z">
-<!ENTITY calendar.context.deleteevent.label           "Stizzar l'occurrenza">
+<!ENTITY calendar.context.deleteevent.label           "Stizzar l'eveniment">
 <!ENTITY calendar.context.deleteevent.accesskey       "z">
 <!ENTITY calendar.context.cutevent.label              "Tagliar ora">
 <!ENTITY calendar.context.cutevent.accesskey          "T">
@@ -176,8 +176,8 @@
 <!ENTITY calendar.context.button.accesskey            "L" >
 <!ENTITY calendar.context.attendance.menu.label       "Participaziun" >
 <!ENTITY calendar.context.attendance.menu.accesskey   "i" >
-<!ENTITY calendar.context.attendance.occurrence.label "Quest eveniment" >
-<!ENTITY calendar.context.attendance.all.label        "Tut ils eveniments" >
+<!ENTITY calendar.context.attendance.occurrence.label "Questa occurrenza" >
+<!ENTITY calendar.context.attendance.all.label        "Tut las occurrenzas" >
 
 <!-- Task Context Menu -->
 <!ENTITY calendar.context.progress.label              "Progress">
@@ -269,7 +269,7 @@
 <!ENTITY calendar.context.convertmenu.label              "Convertar a">
 <!ENTITY calendar.context.convertmenu.accesskey.mail     "n">
 <!ENTITY calendar.context.convertmenu.accesskey.calendar "v">
-<!ENTITY calendar.context.convertmenu.event.label        "Occurrenza…">
+<!ENTITY calendar.context.convertmenu.event.label        "Eveniment…">
 <!ENTITY calendar.context.convertmenu.event.accesskey    "O">
 <!ENTITY calendar.context.convertmenu.message.label      "Messadi…">
 <!ENTITY calendar.context.convertmenu.message.accesskey  "M">

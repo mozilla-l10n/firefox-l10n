@@ -27,8 +27,8 @@
 <!ENTITY lightning.toolbar.task.accesskey     "P">
 
 <!-- Toolbar write button -->
-<!ENTITY lightning.toolbar.newevent.label     "Occurrenza">
-<!ENTITY lightning.toolbar.newevent.tooltip   "Crear ina nova occurrenza">
+<!ENTITY lightning.toolbar.newevent.label     "Eveniment">
+<!ENTITY lightning.toolbar.newevent.tooltip   "Crear in nov eveniment">
 <!ENTITY lightning.toolbar.newtask.label      "Pensum">
 <!ENTITY lightning.toolbar.newtask.tooltip    "Crear in nov pensum">
 

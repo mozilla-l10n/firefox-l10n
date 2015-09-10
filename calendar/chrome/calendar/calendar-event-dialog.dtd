@@ -54,7 +54,7 @@
 <!-- Menubar -->
 <!ENTITY  event.menu.item.new.label                       "Nov">
 <!ENTITY  event.menu.item.new.accesskey                   "N">
-<!ENTITY  event.menu.item.new.event.label                 "Occurrenza">
+<!ENTITY  event.menu.item.new.event.label                 "Eveniment">
 <!ENTITY  event.menu.item.new.event.accesskey             "O">
 <!ENTITY  event.menu.item.new.task.label                  "Pensum">
 <!ENTITY  event.menu.item.new.task.accesskey              "P">
@@ -94,7 +94,7 @@
 <!ENTITY  event.menu.view.accesskey                       "V">
 <!ENTITY  event.menu.view.toolbars.label                  "Travs d'utensils">
 <!ENTITY  event.menu.view.toolbars.accesskey              "T">
-<!ENTITY  event.menu.view.toolbars.event.label            "Trav d'utensils d'occurrenzas">
+<!ENTITY  event.menu.view.toolbars.event.label            "Trav d'utensils d'eveniments">
 <!ENTITY  event.menu.view.toolbars.event.accesskey        "o">
 <!ENTITY  event.menu.view.toolbars.customize.label        "Persunalisar…">
 <!ENTITY  event.menu.view.toolbars.customize.accesskey    "P">

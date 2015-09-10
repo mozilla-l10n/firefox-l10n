@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Event Menu -->
-<!ENTITY event.new.event                        "Nova occurrenza…">
+<!ENTITY event.new.event                        "Nov eveniment…">
 <!ENTITY event.new.event.accesskey              "N">
 
 <!ENTITY event.new.task                         "Nov pensum…">
@@ -33,7 +33,7 @@
 <!ENTITY calendar.menu.customize.label          "Persumalisar…">
 <!ENTITY calendar.menu.customize.accesskey      "P">
 
-<!ENTITY showUnifinderCmd.label                 "Chattar occurrenzas">
+<!ENTITY showUnifinderCmd.label                 "Chattar eveniments">
 <!ENTITY showUnifinderCmd.accesskey             "C">
 <!ENTITY showUnifinderCmd.tooltip               "Mussar/zuppentar la lastra per chattar eveniments">
 
