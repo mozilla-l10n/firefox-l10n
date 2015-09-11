@@ -373,8 +373,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Czy wyświetlać w podpowiedziach paska adresu podpowiedzi dostarczane przez wyszukiwarki?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Więcej informacji…">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "W">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Nie">
+<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "N">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Tak">
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "T">
 
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
