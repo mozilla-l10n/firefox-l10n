@@ -4,6 +4,21 @@
 
 <!ENTITY window.title "Console web">
 <!ENTITY browserConsole.title "Console del browser">
+<!ENTITY networkPanel.requestURLColon "URL richiesta:">
+<!ENTITY networkPanel.requestMethodColon "Metodo di richiesta:">
+<!ENTITY networkPanel.statusCodeColon "Codice di stato:">
+<!ENTITY networkPanel.requestHeaders "Header della richiesta">
+<!ENTITY networkPanel.requestCookie "Cookie inviato">
+<!ENTITY networkPanel.requestBody "Corpo della richiesta">
+<!ENTITY networkPanel.requestFormData "Dati dei moduli inviati">
+<!ENTITY networkPanel.responseHeaders "Header della risposta">
+<!ENTITY networkPanel.responseCookie "Cookie ricevuto">
+<!ENTITY networkPanel.responseBody "Corpo della risposta">
+<!ENTITY networkPanel.responseBodyCached "Dati in cache">
+<!ENTITY networkPanel.responseBodyUnknownType "Tipo di contenuto sconosciuto">
+<!ENTITY networkPanel.responseNoBody "Nessun corpo della risposta">
+<!ENTITY networkPanel.responseImage "Immagine ricevuta">
+<!ENTITY networkPanel.responseImageCached "Immagine in cache">
 <!ENTITY saveBodies.label "Registra richiesta e corpo delle risposte">
 <!ENTITY saveBodies.accesskey "R">
 <!ENTITY openURL.label "Apri URL in una nuova scheda">
