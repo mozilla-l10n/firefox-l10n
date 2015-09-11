@@ -523,8 +523,6 @@
 <!ENTITY identity.learnMore "Ulteriori informazioni">
 <!ENTITY identity.moreInfoLinkText2 "Ulteriori informazioni">
 <!ENTITY identity.permissions "Permessi">
-<!ENTITY identity.permissionsPageFunctionality "Funzionalità della pagina">
-<!ENTITY identity.permissionsSystemAccess "Accesso al sistema">
 <!ENTITY tabsToolbar.label "Schede del browser">
 <!ENTITY syncTabsMenu2.label "Schede da altri dispositivi">
 <!ENTITY syncBrand.shortName.label "Sync">
