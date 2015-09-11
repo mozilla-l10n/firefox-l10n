@@ -299,8 +299,11 @@
 <!ENTITY urlbar.switchToTab.label "Passa alla scheda:">
 <!ENTITY urlbar.searchSuggestionsNotification.question "Migliorare l’esperienza di ricerca attivando i suggerimenti?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Ulteriori informazioni…">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "U">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "No">
+<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "N">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Sì">
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "S">
 <!ENTITY searchFocus.commandkey "k">
 <!ENTITY searchFocus.commandkey2 "e">
 <!ENTITY searchFocusUnix.commandkey "j">
