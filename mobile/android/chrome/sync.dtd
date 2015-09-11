@@ -7,18 +7,15 @@
 <!ENTITY sync.connect               "Σύνδεση">
 <!ENTITY sync.connected             "Συνδεδεμένο">
 <!ENTITY sync.details               "Λεπτομέρειες">
-<!ENTITY sync.synchronize           "Ενεργοποίηση Sync">
 <!ENTITY sync.deviceName            "Αυτή η συσκευή">
 <!ENTITY sync.disconnect            "Αποσύνδεση">
 <!ENTITY sync.syncNow               "Sync Τώρα">
 
 <!ENTITY sync.setup.title           "Σύνδεση στο Sync">
-<!ENTITY sync.setup.jpake           "Από έναν υπολογιστή με Firefox που είναι συνδεδεμένος με το Sync, πηγαίνετε στις επιλογές Sync και επιλέξτε &#x0022;Προσθήκη συσκευής&#x0022;">
 <!ENTITY sync.fallback              "Δεν είμαι κοντά στον υπολογιστή μου…">
 <!ENTITY sync.setup.manual          "Εισάγετε τις πληροφορίες λογαριασμού σας στο Sync">
 <!ENTITY sync.account               "Όνομα λογαριασμού">
 <!ENTITY sync.password              "Κωδικός">
-<!ENTITY sync.syncKey               "Κλειδί Sync">
 <!ENTITY sync.customServer          "Χρήση προσαρμοσμένου εξυπηρετητή">
 <!ENTITY sync.serverURL             "URL  εξυπηρετητή">
 <!ENTITY sync.setup.connect         "Σύνδεση">
