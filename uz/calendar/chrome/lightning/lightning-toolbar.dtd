@@ -8,15 +8,15 @@
 <!ENTITY lightning.toolbar.task.name.accesskey "T">
 
 <!ENTITY lightning.toolbar.sync.label "Sinxronlash">
-
+<!ENTITY lightning.toolbar.sync.tooltip "Taqvimlarni qayta yuklash va o‘zgarishlarni sinxornlash">
 <!ENTITY lightning.toolbar.delete.label "O‘chirish">
-
+<!ENTITY lightning.toolbar.delete.tooltip "Tanlangan tadbir va vazifalarni o‘chirish">
 <!ENTITY lightning.toolbar.edit.label "Tahrirlash">
-
-
-
+<!ENTITY lightning.toolbar.edit.tooltip "Tanlangan tadbir yoki vazifani tahrirlash">
+<!ENTITY lightning.toolbar.gototoday.label "Bugunga o‘tish">
+<!ENTITY lightning.toolbar.gototoday.tooltip "Bugunga o‘tish">
 <!ENTITY lightning.toolbar.print.label "Chop qilish">
-
+<!ENTITY lightning.toolbar.print.tooltip "Tadbir yoki vazifalarni o‘chirish">
 <!-- Mode Toolbar -->
 
 <!ENTITY lightning.toolbar.calendar.label     "Taqvim">
@@ -28,9 +28,9 @@
 <!-- Toolbar write button -->
 
 <!ENTITY lightning.toolbar.newevent.label     "Tadbir">
-
+<!ENTITY lightning.toolbar.newevent.tooltip   "Yangi tadbir yaratish">
 <!ENTITY lightning.toolbar.newtask.label      "Vazifa">
-
+<!ENTITY lightning.toolbar.newtask.tooltip    "Yangi vazifa yaratish">
 <!-- Calendar and Task Mode Toolbar -->
 
 <!ENTITY lightning.toolbar.day.label                 "Kun">
