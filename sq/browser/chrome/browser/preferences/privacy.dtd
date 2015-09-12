@@ -14,13 +14,15 @@
 
 <!ENTITY  locationBar.label             "Shtyllë Vendesh">
 
-<!ENTITY  locbar.suggest.label          "Kur përdoret shtylla e vendeve, jep sugjerime:">
+<!ENTITY  locbar.suggest.label          "Kur përdoret shtylla e vendeve, jep sugjerime nga:">
 <!ENTITY  locbar.history.label          "Historiku">
 <!ENTITY  locbar.history.accesskey      "H">
-<!ENTITY  locbar.bookmarks.label        "Faqerojtësish">
+<!ENTITY  locbar.bookmarks.label        "Faqerojtësit">
 <!ENTITY  locbar.bookmarks.accesskey    "F">
-<!ENTITY  locbar.openpage.label         "Skedash të hapura">
+<!ENTITY  locbar.openpage.label         "Skeda të hapura">
 <!ENTITY  locbar.openpage.accesskey     "S">
+<!ENTITY  locbar.searches.label         "Kërkime të afërta, nga motori parazgjedhje i kërkimeve">
+<!ENTITY  locbar.searches.accesskey     "p">
 
 <!ENTITY  acceptCookies.label           "Prano cookie prej sajtesh">
 <!ENTITY  acceptCookies.accesskey       "s">
