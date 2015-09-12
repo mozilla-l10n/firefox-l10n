@@ -8,10 +8,11 @@
 
 <!ENTITY privateBrowsing.title                 "Privātā pārlūkošana">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
-     Width of the Private Browsing section.
+     Width of the Private Browsing section. This should depend primarily on the
+     length of the headers and text, but should be roughly 1.5 times the width
+     of the Tracking Protection section, and in general not much larger than
+     30em to prevent the sections from wrapping on smaller window sizes.
      -->
-
-<!ENTITY aboutPrivateBrowsing.width            "26em">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
      aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
      These strings will be replaced by aboutPrivateBrowsing.forgotten and
@@ -29,15 +30,19 @@
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Pagaidu faili">
 
 <!ENTITY aboutPrivateBrowsing.kept             "&brandShortName; atcerēsies:">
-<!ENTITY aboutPrivateBrowsing.info.kept        "Saglaāts">
+<!ENTITY aboutPrivateBrowsing.info.kept        "Saglabāts">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Lejupielādes">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Grāmatzīmes">
 
 <!ENTITY aboutPrivateBrowsing.note1            "Ņemiet vērā, ka jūsu darba devējs vai interneta pakalpojumu sniedzējs joprojām var noteikt lapas, kuras apmeklējat.">
 <!ENTITY aboutPrivateBrowsing.learnMore        "Uzzināt vairāk.">
 <!-- LOCALIZATION NOTE (trackingProtection.width):
-     Width of the Tracking Protection section. This should be enough to
-     accommodate the title as well as the enabled or disabled indicator.
+     Width of the Tracking Protection section. It is fine for the enabled or
+     disabled indicator or the words in the title to wrap to the next line, but
+     you can expand or reduce this section to fit better, as long as the width
+     of the Private Browsing section is roughly 1.5 times the width of this one.
+     Note that the required space may vary between platforms because fonts are
+     different, so testing on Windows, Mac, and Linux is encouraged.
      -->
 
 <!ENTITY trackingProtection.width              "26em">
@@ -50,7 +55,6 @@
 <!ENTITY trackingProtection.state.enabled      "Iesl.">
 <!ENTITY trackingProtection.state.disabled     "Izsl.">
 
-<!ENTITY trackingProtection.description1       "Privātais logs šobrīd bloķē tās lapas daļas, kas var izsekot jūsu pārlūkošanas aktivitātēm.">
 
 <!ENTITY trackingProtection.disable            "Izslēgt izsekošanas aizsardzību">
 <!ENTITY trackingProtection.enable             "Ieslēgt izsekošanas aizsardzību">
