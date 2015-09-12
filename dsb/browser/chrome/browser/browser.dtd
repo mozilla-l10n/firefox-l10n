@@ -795,25 +795,27 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.title "Slědowański šćit">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokěrujo źěle boka, kótarež by mógli wašo pśeglědowanje slědowaś.">
-
-
+<!ENTITY trackingProtection.detectedNotBlocked3 "Toś to sedło wopśimujo elementy, kótarež by mógli wašo pśeglědowanje slědowaś. Sćo šćit znjemóžnił.">
+<!ENTITY trackingProtection.notDetected3 "Žedne slědowańske elementy na toś tom boku namakane.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-
+<!ENTITY trackingProtection.unblock.label "Šćit za toś to sydło znjemóžniś">
+<!ENTITY trackingProtection.unblock.accesskey "n">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-
-
-
+<!ENTITY trackingProtection.unblockPrivate.label "Šćit za toś to pósejźenje znjemóžniś">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "n">
+<!ENTITY trackingProtection.block2.label "Šćit zmóžniś">
+<!ENTITY trackingProtection.block2.accesskey "z">
 
 <!ENTITY trackingContentBlocked.message "Slědowanje">
 <!ENTITY trackingContentBlocked.moreinfo "Źěle boka, kótarež slěduju wašu online-aktiwitu, su se blokěrowali.">
 <!ENTITY trackingContentBlocked.learnMore "Dalšne informacije">
-
-
-
+<!ENTITY trackingContentBlocked.options "Nastajenja">
+<!ENTITY trackingContentBlocked.unblock2.label "Šćit za toś to sydło znjemóžniś">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "n">
 <!ENTITY trackingContentBlocked.block.label "Šćit zmóžniś">
 <!ENTITY trackingContentBlocked.block.accesskey "z">
 <!ENTITY trackingContentBlocked.disabled.message "Šćit pśeśiwo slědowanjeju jo znjemóžnjony">
