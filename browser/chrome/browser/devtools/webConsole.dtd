@@ -4,21 +4,6 @@
 
 <!ENTITY window.title "Веб-консоль">
 <!ENTITY browserConsole.title "Консоль браузера">
-<!ENTITY networkPanel.requestURLColon "URL запроса:">
-<!ENTITY networkPanel.requestMethodColon "Метод запроса:">
-<!ENTITY networkPanel.statusCodeColon "Код состояния:">
-<!ENTITY networkPanel.requestHeaders "Заголовки запроса">
-<!ENTITY networkPanel.requestCookie "Отправленная кука">
-<!ENTITY networkPanel.requestBody "Тело запроса">
-<!ENTITY networkPanel.requestFormData "Отправленные данные формы">
-<!ENTITY networkPanel.responseHeaders "Заголовки ответа">
-<!ENTITY networkPanel.responseCookie "Полученная кука">
-<!ENTITY networkPanel.responseBody "Тело ответа">
-<!ENTITY networkPanel.responseBodyCached "Кэшированные данные">
-<!ENTITY networkPanel.responseBodyUnknownType "Неизвестный тип содержимого">
-<!ENTITY networkPanel.responseNoBody "Нет тела запроса">
-<!ENTITY networkPanel.responseImage "Полученное изображение">
-<!ENTITY networkPanel.responseImageCached "Кэшированное изображение">
 <!ENTITY saveBodies.label "Сохранять в лог содержимое запроса и ответа">
 <!ENTITY saveBodies.accesskey "х">
 <!ENTITY openURL.label "Открыть URL в новой вкладке">
