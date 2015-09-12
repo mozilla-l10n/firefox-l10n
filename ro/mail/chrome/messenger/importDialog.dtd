@@ -34,7 +34,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importDescription2.label "Odată ce acestea au fost importate, le veți putea accesa din cadrul &brandShortName;.">
 
 <!ENTITY selectDescription.label  "Vă rugăm să selectați tipul de fișier din care doriți să importați:">
-<!ENTITY selectDescriptionB.label "Vă rugăm selectați un cont existent sau creați un cont nou:">
+<!ENTITY selectDescriptionB.label "Vă rugăm să selectați un cont existent sau să creați un cont nou:">
 <!ENTITY selectDescription.accesskey "V">
 <!ENTITY acctName.label           "Nume:">
 <!ENTITY acctName.accesskey       "N">

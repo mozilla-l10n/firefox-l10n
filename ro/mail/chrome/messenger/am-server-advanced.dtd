@@ -27,7 +27,7 @@
 <!ENTITY pop3Desc.label "Când se descarcă mesaje pop3 de pe acest server, folosește următorul dosar pentru mesajele noi:" >
 <!ENTITY accountDirectory.label "Căsuță poștală pentru contul acestui server">
 <!ENTITY accountDirectory.accesskey "s">
-<!ENTITY deferToServer.label "Căsuța poștală pentru alt cont">
-<!ENTITY deferToServer.accesskey "C">
+<!ENTITY deferToServer.label "Căsuța poștală pentru cont diferit">
+<!ENTITY deferToServer.accesskey "d">
 <!ENTITY deferGetNewMail.label "Include acest server la recepționarea mesajelor noi">
 <!ENTITY deferGetNewMail.accesskey "I">

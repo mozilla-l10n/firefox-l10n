@@ -16,7 +16,7 @@
 <!ENTITY leaveIt.accesskey            "c">
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
 <!ENTITY moveToSent.label             "Se mută în dosarul „Mesaje trimise”">
-<!ENTITY moveToSent.accesskey         "M">
+<!ENTITY moveToSent.accesskey         "m">
 <!ENTITY requestMDN.label             "Când mi se cere confirmare de primire:">
 <!ENTITY returnSome.label             "Trimite confirmare pentru unele mesaje">
 <!ENTITY returnSome.accesskey         "r">
