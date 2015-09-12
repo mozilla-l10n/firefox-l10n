@@ -23,7 +23,7 @@
 <!ENTITY aboutPrivateBrowsing.learnMore "Подробнее.">
 <!ENTITY trackingProtection.width "22em">
 <!ENTITY trackingProtection.title "Защита от отслеживания">
-<!ENTITY trackingProtection.state.width "6ch">
+<!ENTITY trackingProtection.state.width "13ch">
 <!ENTITY trackingProtection.state.enabled "ВКЛЮЧЕНА">
 <!ENTITY trackingProtection.state.disabled "ОТКЛЮЧЕНА">
 <!ENTITY trackingProtection.description1 "Приватные окна теперь блокируют части страницы, которые могут отслеживать ваше поведение в Интернете.">
