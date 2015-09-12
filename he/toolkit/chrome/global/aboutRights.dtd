@@ -47,6 +47,7 @@
 <!ENTITY rights2.webservices-header "שירותי מידע מבוססי רשת של &brandFullName;">
 
 <!-- point 5 -->
+<!ENTITY rights.intro-point5 "כדי לנגן סוגים מסוימים של תוכן וידאו, על &brandShortName; להוריד רכיבי פענוח תוכן מסוימים מגורמי צד שלישי.">
 
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in

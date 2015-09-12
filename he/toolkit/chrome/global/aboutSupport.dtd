@@ -55,9 +55,11 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsMemoryUse "שימוש בזכרון">
 
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
+<!ENTITY aboutSupport.appBasicsServiceWorkers "Service Workers רשומים">
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "חלונות מרובי תהליכים">
 
+<!ENTITY aboutSupport.appBasicsSafeMode "מצב בטוח">
 
 <!ENTITY aboutSupport.showDir.label "פתיחת תיקייה">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
