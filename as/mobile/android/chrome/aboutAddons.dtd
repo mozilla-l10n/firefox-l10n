@@ -10,3 +10,5 @@
 <!ENTITY addonAction.disable                    "অসামৰ্থবান কৰক">
 <!ENTITY addonAction.uninstall                  "আনইনস্টল কৰক">
 <!ENTITY addonAction.undo                       "বাতিল কৰক">
+
+<!ENTITY addonUnsigned.learnMore                "অধিক জানক">

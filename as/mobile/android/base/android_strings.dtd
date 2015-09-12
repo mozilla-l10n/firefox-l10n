@@ -6,10 +6,10 @@
 <!ENTITY  no_space_to_start_error "&brandShortName; আৰম্ভ হবলে পৰ্যাপ্ত স্থান নাই।">
 <!ENTITY  error_loading_file "&brandShortName; চলিবলে প্ৰয়োজনীয় ফাইলসমূহ ল\u0027ড কৰোতে এটা ত্ৰুটি দেখা দিলে ">
 
-<!ENTITY  onboard_start_message2 "&brandShortName; লৈ স্বাগতম">
-<!ENTITY  onboard_start_subtext2 "অতিৰিক্ত গোপনীয়তা বৈশিষ্ট্য আৰু আগতকৈ অধিক স্বনিৰ্বাচন কৰাৰ পদ্ধতিসমূহ।">
+
 <!ENTITY  onboard_start_button_account "&brandShortName; ত ছাইন ইন কৰক">
 <!ENTITY  onboard_start_button_browser "ব্ৰাউছিং আৰম্ভ কৰক">
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -29,7 +29,7 @@
 <!ENTITY  crash_allow_contact2 "&vendorShortName; ক মোক এই সংবাদৰ বাবে যোগাযোগ কৰাৰ অনুমতি দিয়ক">
 <!ENTITY  crash_email "আপোনাৰ ইমেইল">
 <!ENTITY  crash_closing_alert "এটা স্খলন সংবাদ প্ৰেৰণ নকৰাকৈ প্ৰস্থান কৰিব নে?">
-<!ENTITY  sending_crash_report "স্খলন সংবাদ\u2026 পঠোৱা হৈ আছে ">
+<!ENTITY  sending_crash_report "স্খলন সংবাদ\u2026 পঠোৱা হৈছে ">
 <!ENTITY  crash_close_label "বন্ধ কৰক">
 <!ENTITY  crash_restart_label "&brandShortName; পুনৰাম্ভ কৰক">
 <!ENTITY  exit_label "প্ৰস্থান কৰক">
@@ -44,6 +44,9 @@
 <!ENTITY bookmark "পত্ৰচিহ্ন">
 <!ENTITY bookmark_remove "পত্ৰচিহ্ন আঁতৰাওক">
 <!ENTITY bookmark_added "পত্ৰচিহ্ন যোগ কৰা হল">
+<!-- Localization note (bookmark_already_added) : This string is
+     used as a label in a toast. It is the verb "to bookmark", not
+     the noun "a bookmark". -->
 <!ENTITY bookmark_removed "পত্ৰচিহ্ন আতৰোৱা হল">
 <!ENTITY bookmark_updated "পত্ৰচিহ্ন আপডেইট কৰা হল">
 <!ENTITY bookmark_options "বিকল্পসমূহ">
@@ -64,6 +67,8 @@
 <!ENTITY edit_mode_cancel "বাতিল কৰক">
 
 <!ENTITY close_tab "টেব বন্ধ কৰক">
+
+
 <!ENTITY one_tab "১ টেব">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -75,8 +80,9 @@
      is upper-case, to match Google and Android's convention. -->
 <!ENTITY switch_button_message "চুইচ কৰক">
 
-<!ENTITY settings "সংহতিসমূহ">
-<!ENTITY settings_title "সংহতিসমূহ">
+<!ENTITY settings "ছেটিংছ্">
+<!ENTITY settings_title "ছেটিংছ্">
+
 <!ENTITY pref_category_advanced "উন্নত">
 <!ENTITY pref_category_customize "স্বনিৰ্বাচন কৰক">
 <!ENTITY pref_category_customize_summary "আৰম্ভণি পৃষ্ঠা, সন্ধান, টেবসমূহ, ইমপৰ্ট">
@@ -104,7 +110,7 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "পত্ৰচিহ্ন">
 <!ENTITY overlay_share_reading_list_btn_label "পঢ়াৰ তালিকালৈ যোগ কৰক">
-<!ENTITY overlay_share_bookmark_btn_label_already "ইতিমধ্যে পত্ৰচিহ্নিত">
+
 <!ENTITY overlay_share_reading_list_btn_label_already "ইতিমধ্যে পঢ়া তালিকাত">
 <!ENTITY overlay_share_send_other "অন্য ডিভাইচসমূহলৈ পঠাওক">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -114,7 +120,6 @@
 
 <!ENTITY overlay_share_send_tab_btn_label "অন্য ডিভাইচলৈ পঠাওক">
 <!ENTITY overlay_share_no_url "এই অংশত কোনো লিঙ্ক পোৱা নগল">
-<!ENTITY overlay_share_retry "পুনৰ চেষ্টা কৰক">
 <!ENTITY overlay_share_select_device "ডিভাইচ বাছক">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
@@ -133,7 +138,7 @@
 <!ENTITY pref_category_display "প্ৰদৰ্শন">
 <!ENTITY pref_category_display_summary "লিখনি, শীৰ্ষক বাৰ, সম্পূৰ্ণ-পৰ্দা ব্ৰাউছিং">
 <!ENTITY pref_category_privacy_short "গোপনীয়তা">
-<!ENTITY pref_category_privacy_summary "পাছৱৰ্ডসমূহ, কুকিসমূহ, অনুকৰণ, তথ্য নিয়ন্ত্ৰণ কৰক">
+
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "&brandShortName; ৰ বিষয়ে, FAQs, তথ্যৰ পছন্দসমূহ">
 <!ENTITY pref_category_datareporting "তথ্যৰ পছন্দসমূহ">
@@ -150,11 +155,14 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "সহায়: আপোনাৰ সন্ধান প্ৰদানকাৰী তালিকালৈ যিকোনো ৱেবছাইট যোগ কৰিবলে তাৰ সন্ধান ফিল্ডত টিপি &formatI; আইকনক টেপ কৰক।">
 <!ENTITY pref_category_devtools "উন্নয়নকাৰী সঁজুলিসমূহ">
-<!ENTITY pref_category_devtools_summary "দূৰৱৰ্তী ডিবাগিং, পেইণ্ট ফ্লেশ্বিং">
-<!ENTITY pref_developer_paint_flashing "পেইন্ট ফ্লেশ্বিং">
 <!ENTITY pref_developer_remotedebugging "দূৰৱৰ্তী ডিবাগিং">
+
+
+
 <!ENTITY pref_category_logins "লগিনসমূহ">
-<!ENTITY pref_remember_signons "পাছৱৰ্ডসমূহ মনত ৰাখক">
+
+
+
 <!ENTITY pref_manage_logins "লগিনসমূহ ব্যৱস্থাপনা কৰক">
 
 <!ENTITY pref_category_home "ঘৰ">
@@ -166,7 +174,7 @@
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
 <!ENTITY home_add_panel_installed "&formatS; ঘৰপৃষ্ঠালৈ যোগ কৰা হল">
-<!ENTITY pref_category_home_content_settings "সমল সংহতিসমূহ">
+<!ENTITY pref_category_home_content_settings "সমল ছেটিংছ্">
 <!ENTITY pref_home_updates "স্বচালিত আপডেইটসমূহ">
 <!ENTITY pref_home_updates_enabled "সামৰ্থবান">
 <!ENTITY pref_home_updates_wifi "কেৱল Wi-Fi ৰে">
@@ -187,27 +195,27 @@
 <!ENTITY pref_cookies_not_accept_foreign "সামৰ্থবান কৰা আছে, তৃতীয় দল বাদ দিয়া হৈছে">
 <!ENTITY pref_cookies_disabled "অসামৰ্থবান">
 
-<!ENTITY pref_tracking_protection_title "অনুকৰণৰ পৰা সুৰক্ষা">
-<!ENTITY pref_tracking_protection_summary "&brandShortName; এ ছাইটসমূহক আপোনাক অনুকৰণ কৰাৰ পৰা প্ৰতিৰোধ কৰিব">
+
 <!ENTITY pref_donottrack_title "অনুকৰণ নকৰিব">
 <!ENTITY pref_donottrack_summary "&brandShortName; এ ছাইটসমূহক আপোনাক অনুকৰণ নকৰিবলৈ ক\u0027ব">
 
-<!ENTITY tab_queue_toast_message "পিছত খোলিব">
+
+
+
+
 <!ENTITY tab_queue_toast_action "এতিয়া খোলক">
-<!-- Localization note (tab_queue_notification_text_plural) : The
+
+
+
+
+
+
+<!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY tab_queue_notification_text_plural "&formatD; টেবসমূহ শাৰীবদ্ধ">
-<!-- Localization note (tab_queue_notification_title_plural) : This is the
-     title of a notification; we expect more than one tab queued. -->
-<!ENTITY tab_queue_notification_title_plural "টেবসমূহ শাৰীবদ্ধ">
-<!-- Localization note (tab_queue_notification_title_singular) : This is the
-     title of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_title_singular "টেব শাৰীবদ্ধ">
-<!-- Localization note (tab_queue_notification_text_singular) : This is the
+<!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_text_singular "1 টেব শাৰীবদ্ধ">
 
 <!ENTITY pref_char_encoding "আখৰ এনক\u0027ডিং">
 <!ENTITY pref_char_encoding_on "মেনু দেখাওক">
@@ -248,20 +256,26 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "জুম সদায় সামৰ্থবান ৰাখক">
 <!ENTITY pref_zoom_force_enabled_summary "আপুনি যিকোনো পৃষ্ঠা জুম কৰিবলৈ সক্ষম হবলে অভাৰৰাইড বলৱৎ কৰ">
 
+
+
+
+
 <!ENTITY pref_use_master_password "প্ৰমুখ পাছৱৰ্ড ব্যৱহাৰ কৰক">
-<!ENTITY pref_sync "সংমিহলি কৰক">
-<!ENTITY pref_sync_summary "আপোনাৰ টেবসমূহ, পত্ৰচিহ্নসমূহ, পাছৱৰ্ডসমূহ, ইতিহাস সংমিহলি কৰক">
+<!ENTITY pref_sync "চিঙ্ক কৰক">
+
 <!ENTITY pref_search_suggestions "সন্ধানৰ পৰামৰ্শসমূহ দেখুৱাওক">
 <!ENTITY pref_import_android "Android ৰ পৰা আমদানি কৰক">
 <!ENTITY pref_import_android_summary "স্থানীয় ব্ৰাউছাৰৰ পৰা পত্ৰচিহ্ন আৰু ইতিহাস ইমপৰ্ট কৰক">
 <!ENTITY pref_private_data_history2 "ব্ৰাউছিংৰ ইতিহাস">
-<!ENTITY pref_private_data_formdata "ফৰ্ম আৰু সন্ধানৰ ইতিহাস">
+
+
 <!ENTITY pref_private_data_cookies2 "কুকিসমূহ আৰু সক্ৰিয় লগিনসমূহ">
-<!ENTITY pref_private_data_passwords "সংৰক্ষিত পাছৱৰ্ডসমূহ">
+
 <!ENTITY pref_private_data_cache "কেছ্‌">
 <!ENTITY pref_private_data_offlineApps "অফলাইন ৱেবছাইটৰ তথ্য">
-<!ENTITY pref_private_data_siteSettings2 "ছাইট সংহতিসমূহ">
+<!ENTITY pref_private_data_siteSettings2 "ছাইট ছেটিংছ্">
 <!ENTITY pref_private_data_downloadFiles2 "ডাউনল\u0027ডসমূহ">
+
 
 
 <!ENTITY pref_about_firefox "&brandShortName; ৰ বিষয়ে">
@@ -320,7 +334,6 @@ size. -->
 <!ENTITY addons "এড-অনসমূহ">
 <!ENTITY logins "লগিনসমূহ">
 <!ENTITY downloads "ডাউনল\u0027ডসমূহ">
-<!ENTITY apps "এপ্লিকেচনসমূহ">
 <!ENTITY char_encoding "আখৰ এনক\u0027ডিং">
 
 <!ENTITY share "অংশীদাৰী কৰক">
@@ -337,7 +350,7 @@ size. -->
 <!ENTITY close_private_tabs "ব্যক্তিগত টেবসমূহ বন্ধ কৰক">
 <!ENTITY tabs_normal "টেবসমূহ">
 <!ENTITY tabs_private "ব্যক্তিগত">
-<!ENTITY tabs_synced "সংমিহলিত">
+<!ENTITY tabs_synced "চিঙ্কত">
 <!ENTITY set_image_fail "ছবি স্থাপন কৰিবলৈ অক্ষম">
 <!ENTITY set_image_path_fail "ছবি সংৰক্ষণ কৰিবলৈ অক্ষম">
 <!ENTITY set_image_chooser_title "ছবিক এই ধৰণে সংৰক্ষণ কৰক">
@@ -366,7 +379,7 @@ size. -->
 <!ENTITY contextmenu_copyurl "ঠিকনা কপি কৰক">
 <!ENTITY contextmenu_edit_bookmark "সম্পাদনা কৰক">
 <!ENTITY contextmenu_subscribe "পৃষ্ঠালৈ স্বাক্ষৰ কৰক">
-<!ENTITY contextmenu_site_settings "ছাইটৰ সংহতিসমূহ সম্পাদনা কৰক">
+<!ENTITY contextmenu_site_settings "ছাইটৰ ছেটিংছ্ সম্পাদনা কৰক">
 <!ENTITY contextmenu_top_sites_edit "সম্পাদনা কৰক">
 <!ENTITY contextmenu_top_sites_pin "ছাইটক চিহ্ন দিয়ক">
 <!ENTITY contextmenu_top_sites_unpin "ছাইটৰ চিহ্ন আতৰাওক">
@@ -381,17 +394,25 @@ size. -->
 <!ENTITY doorhanger_login_edit_password_hint "পাছৱৰ্ড">
 <!ENTITY doorhanger_login_edit_toggle "পাছৱৰ্ড দেখুৱাওক">
 
+
+
+
+
+
+
 <!ENTITY pref_titlebar_mode "শীৰ্ষক বাৰ">
 <!ENTITY pref_titlebar_mode_title "পৃষ্ঠাৰ শীৰ্ষক দেখুৱাওক">
 <!ENTITY pref_titlebar_mode_url "পৃষ্ঠাৰ ঠিকনা দেখুৱাওক">
+<!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
+     whether or not the magnifying glass is disabled. -->
+
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar2 "সম্পূৰ্ণ-পৰ্দা ব্ৰাউছিং">
 <!ENTITY pref_scroll_title_bar_summary "এটা পৃষ্ঠা তললৈ স্ক্ৰল কৰোতে &brandShortName; শীৰ্ষক বাৰ লুকুৱাওক">
 
-<!ENTITY pref_tab_queue_title "পিছত খোলক">
-<!ENTITY pref_tab_queue_summary "টেবসমূহ তৎক্ষনাত খোলাৰ পৰা প্ৰতিৰোধ কৰক, কিন্তু সকলো শাৰীবদ্ধ টেব &brandShortName; পৰৱৰ্তীবাৰ ল\u0027ড হওতে খোলক।">
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -405,12 +426,12 @@ size. -->
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
-<!ENTITY site_settings_title3       "ছাইট সংহতিসমূহ">
+<!ENTITY site_settings_title3       "ছাইট ছেটিংছ্">
 <!ENTITY site_settings_cancel       "বাতিল কৰক">
 <!ENTITY site_settings_clear        "পৰিষ্কাৰ কৰক">
 <!ENTITY site_settings_no_settings  "পৰিষ্কাৰ কৰিবলে কোনো সংহতি নাই।">
-
-<!ENTITY reading_list_added "পৃষ্ঠাক আপোনাৰ পঢ়াৰ তালিকালৈ যোগ কৰা হৈছে">
+<!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
+     as possible. -->
 <!ENTITY reading_list_removed "পৃষ্ঠাক আপোনাৰ পঢ়াৰ তালিকাৰ পৰা আতৰোৱা হৈছে">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -439,7 +460,8 @@ size. -->
 <!ENTITY button_clear_data "তথ্য আতৰাওক">
 <!ENTITY button_set "ছেট">
 <!ENTITY button_clear "পৰিষ্কাৰ কৰক">
-<!ENTITY button_remember "মনত ৰাখক">
+<!ENTITY button_copy "কপি">
+
 
 <!ENTITY home_top_sites_title "সৰ্বোত্তম ছাইটসমূহ">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -479,14 +501,14 @@ size. -->
 
 <!ENTITY home_move_up_to_filter "&formatS; লৈ">
 
-<!ENTITY home_remote_tabs_title "সংমিহলিত টেবসমূহ">
+<!ENTITY home_remote_tabs_title "চিঙ্কত টেবসমূহ">
 <!ENTITY home_remote_tabs_empty "অন্য ডিভাইচসমূহৰ পৰা আপোনাৰ টেবসমূহ ইয়াত দেখি পাব।">
 <!ENTITY home_remote_tabs_unable_to_connect "সংযোগ কৰাত অক্ষম">
-<!ENTITY home_remote_tabs_need_to_sign_in "আপোনাৰ Firefox একাওণ্ট পুনৰসংযোগ কৰি সংমিহলি অব্যাহত ৰাখিবলৈ অনুগ্ৰহ কৰি ছাইন ইন কৰক।">
+<!ENTITY home_remote_tabs_need_to_sign_in "আপোনাৰ Firefox একাওণ্ট পুনৰসংযোগ কৰি চিঙ্ক অব্যাহত ৰাখিবলৈ অনুগ্ৰহ কৰি ছাইন ইন কৰক।">
 <!ENTITY home_remote_tabs_need_to_finish_migrating "আপোনাৰ নতুন Firefox একাওণ্ট প্ৰস্তুত!">
 
 <!ENTITY home_remote_tabs_trouble_verifying "আপোনাৰ একাওণ্ট সত্যাপন কৰোতে সমস্যা হৈছে নেকি?">
-<!ENTITY home_remote_tabs_need_to_verify "সংমিহলি আৰম্ভ কৰিবলৈ অনুগ্ৰহ কৰি আপোনাৰ Firefox একাওণ্ট সত্যাপন কৰক।">
+<!ENTITY home_remote_tabs_need_to_verify "চিঙ্ক আৰম্ভ কৰিবলৈ অনুগ্ৰহ কৰি আপোনাৰ Firefox একাওণ্ট সত্যাপন কৰক।">
 
 <!ENTITY home_remote_tabs_one_hidden_device "1 ডিভাইচ লুকুৱা আছে">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
@@ -500,10 +522,6 @@ size. -->
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "নিৰ্বাচিত ডিভাইচসমূহ উন্মুক্ত কৰক">
-
-<!ENTITY private_browsing_title "ব্যক্তিগত ব্ৰাউছ কাৰ্য্য">
-<!ENTITY private_tabs_panel_empty_desc "আপোনাৰ ব্যক্তিগত টেবসমূহ ইয়াত দেখি পাব। যদিও আমি আপোনাৰ কোনো ব্ৰাউছিং ইতিহাস অথবা কুকি নাৰাখো, পত্ৰচিহ্নসমূহ আৰু আপুনি ডাউনল\u0027ড কৰা ফাইলসমূহ তথাপিও আপোনাৰ ডিভাইচত সংৰক্ষণ কৰা হব।">
-<!ENTITY private_tabs_panel_learn_more "অধিক জানিব খোজে?">
 
 <!ENTITY remote_tabs_panel_moved_title "মোৰ টেবসমূহ কলৈ গল?">
 <!ENTITY remote_tabs_panel_moved_desc "আমি আপোনাৰ টেবসমূহক অন্য ডিভাইচসমূহৰ পৰা আপোনাৰ আৰম্ভণি পৃষ্ঠাৰ এটা পেনেললৈ স্থানান্তৰ কৰিছো যি আপুনি প্ৰতিবাৰ এটা নতুন টেব খোলোতে সহজে অভিগম কৰিব পাৰিব।">
@@ -529,20 +547,20 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_run_by "যাক চলোৱা হয়">
-<!ENTITY identity_no_info "এই ৱেবছাইটে পৰিচয় তথ্য যোগান নিদিয়ে">
-<!ENTITY identity_not_encrypted "এই ৱেবছাইটলে আপোনাৰ সংযোগ ইনক্ৰিপ্টেড নহয়।">
+
 <!-- Mixed content notifications in site identity popup -->
+
+
+
 
 <!ENTITY loaded_mixed_content_message "এই পৃষ্ঠায় অসুৰক্ষিত সমল প্ৰদৰ্শন কৰি আছে।">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; এ অসুৰক্ষিত সমলক প্ৰতিৰোধ কৰিছে।">
 <!ENTITY blocked_mixed_content_message_bottom "এই সমল প্ৰতিৰোধিত অৱস্থাতো বেছিৰভাগ ৱেবছাইটে সঠিকভাৱে কাৰ্য্য কৰিব।">
 <!-- Tracking content notifications in site identity popup -->
 
-<!ENTITY loaded_tracking_content_message_top "অনুকৰণ সুৰক্ষা অসামৰ্থবান কৰা আছে।">
-<!ENTITY loaded_tracking_content_message_bottom "এই পৃষ্ঠাৰ অংশবোৰে আপোনাৰ অনলাইন কাৰ্য্য অনুকৰণ কৰিব পাৰে।">
-<!ENTITY blocked_tracking_content_message_top2 "অনুকৰণ সুৰক্ষা সামৰ্থবান কৰা আছে।">
-<!ENTITY blocked_tracking_content_message_bottom2 "আপোনাৰ অনলাইন কাৰ্য্য অনুকৰণ কৰা পৃষ্ঠাৰ অংশবোৰ প্ৰতিৰোধ কৰা হৈছে।">
+
+
+
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "অধিক জানক">
@@ -554,9 +572,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_fail "কিছুমান ব্যক্তিগত তথ্য আতৰাব পৰা নগল">
 
 <!ENTITY bookmarkhistory_button_import "আমদানি কৰক">
-<!ENTITY bookmarkhistory_import_both "Android ৰ পৰা পত্ৰচিহ্ন আৰু ইতিহাস আমদানি কৰা হৈছে">
-<!ENTITY bookmarkhistory_import_bookmarks "Android ৰ পৰা পত্ৰচিহ্নসমূহ আমদানি কৰা হৈছে">
-<!ENTITY bookmarkhistory_import_history "Android ৰ পৰা ইতিহাস আমদানি কৰা হৈছে">
+<!ENTITY bookmarkhistory_import_both "Android ৰ পৰা পত্ৰচিহ্ন আৰু ইতিহাস 
+আমদানি কৰা">
+<!ENTITY bookmarkhistory_import_bookmarks "Android ৰ পৰা পত্ৰচিহ্নসমূহ 
+আমদানি কৰা">
+<!ENTITY bookmarkhistory_import_history "Android ৰ পৰা ইতিহাস 
+আমদানি কৰা">
 <!ENTITY bookmarkhistory_import_wait "অনুগ্ৰহ কৰি অপেক্ষা কৰক...">
 
 <!ENTITY suggestions_prompt3 "আপুনি সন্ধান পৰামৰ্শ অন কৰিব খোজে নে?">
@@ -581,7 +602,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_start_title2 "&brandShortName; ৰ বাবে আপডেইঠ উপলব্ধ">
 <!ENTITY updater_start_select2 "ডাউনল\u0027ড কৰিবলে স্পৰ্শ কৰক">
 
-<!ENTITY updater_downloading_title2 "&brandShortName; ডাউনলোড কৰা হৈ আছে">
+<!ENTITY updater_downloading_title2 "&brandShortName; ডাউনলোড কৰা হৈছে">
 <!ENTITY updater_downloading_title_failed2 "ডাউনল\u0027ড ব্যৰ্থ হল">
 <!ENTITY updater_downloading_select2 "ডাউনল\u0027ড হোৱাৰ পিছত আপডেইট প্ৰয়োগ কৰিবলে স্পৰ্শ কৰক">
 <!ENTITY updater_downloading_retry2 "পুনৰ চেষ্টা কৰিবলে স্পৰ্শ কৰক">
@@ -595,7 +616,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "চলাই নিয়ক">
 <!ENTITY guest_session_dialog_cancel "বাতিল কৰক">
 <!ENTITY new_guest_session_title "&brandShortName; এতিয়া পুনাৰম্ভ হব">
-<!ENTITY new_guest_session_text "ইয়াক ব্যৱহাৰ কৰা মানুহজনে আপোনাৰ কোনো ব্যক্তিগত তথ্য (যেনে সংৰক্ষিত পাছৱৰ্ড, ইতিহাস অথবা পত্ৰচিহ্ন) চাব নোৱাৰিব। \\nযেতিয়া আপোনাৰ অতিথিৰ কাৰ্য্য সম্পূৰ্ণ হব, তেওঁৰ ব্ৰাউছিং তথ্য মচি পেলোৱা হব আৰু আপোনাৰ অধিবেশন পুনাৰম্ভ কৰা হব।">
+<!ENTITY new_guest_session_text2 "ইয়াক ব্যৱহাৰ কৰা মানুহজনে আপোনাৰ কোনো ব্যক্তিগত তথ্য (যেনে সংৰক্ষিত পাছৱৰ্ড, ইতিহাস অথবা পত্ৰচিহ্ন) চাব নোৱাৰিব। \n\nযেতিয়া আপোনাৰ অতিথিৰ কাৰ্য্য সম্পূৰ্ণ হব, তেওঁৰ ব্ৰাউছিং তথ্য মচি পেলোৱা হব আৰু আপোনাৰ অধিবেশন পুনাৰম্ভ কৰা হব।">
 <!ENTITY guest_browsing_notification_title "অতিথি ব্ৰাউছিং সামৰ্থবান কৰা আছে">
 <!ENTITY guest_browsing_notification_text "প্ৰস্থান কৰিবলৈ টেপ কৰক">
 
@@ -609,6 +630,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
+<!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
+     display a percentage value. formatS is the number, #37 is the code to display a percent sign.
+     This format string is typically used by getString method, in such method the percent sign
+     is a reserved caracter. In order to display one percent sign in the result of getString,
+     double percent signs must be inserted in the format string.
+     This entity is used in the zoomed view to display the zoom factor-->
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
@@ -617,10 +644,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Voice search in the awesome bar -->
 
 <!ENTITY voicesearch_prompt "এতিয়া কওক">
-<!ENTITY voicesearch_failed_title "&brandShortName; শব্দ সন্ধান">
-<!ENTITY voicesearch_failed_message "শব্দ সন্ধানৰ সৈতে এটা সমস্যা হৈছে। অনু্গ্ৰহ কৰি পিছত পুনৰ চেষ্টা কৰক।">
-<!ENTITY voicesearch_failed_message_recoverable "ক্ষমা কৰিব! আমি আপুনি কোৱা শব্দবোৰ চিনাক্ত কৰিব নোৱাৰিলো। অনুগ্ৰহ কৰি পুনৰ চেষ্টা কৰক।">
-<!ENTITY voicesearch_failed_retry "পুনৰ চেষ্টা কৰক">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -628,11 +651,31 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 
-<!ENTITY remote_tabs_last_synced "সৰ্বশেষ সংমিহলি: &formatS;">
+<!ENTITY remote_tabs_last_synced "সৰ্বশেষ চিঙ্ক: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
-<!ENTITY remote_tabs_never_synced "সৰ্বশেষ সংমিহলিত: কেতিয়াও নহয়">
+<!ENTITY remote_tabs_never_synced "সৰ্বশেষ চিঙ্কত: কেতিয়াও নহয়">
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
 
 <!ENTITY find_matchcase "Aa">
+
+<!-- DevTools Authentication -->
+<!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
+     above a QR reader that is actively scanning for QR codes.  The expected QR
+     code has already been displayed by the client trying to connect (such as
+     desktop Firefox via WebIDE), so you just need to aim this device at the QR
+     code. -->
+<!-- Restrictions -->
+<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+     a restricted profile (e.g. child). Used inside the Android settings UI. -->
+
+
+
+
+
+
+
+
+
+

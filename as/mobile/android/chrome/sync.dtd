@@ -2,19 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY sync.title                 "সংমিহলি কৰক">
+<!ENTITY sync.title                 "চিঙ্ক কৰক">
 <!ENTITY sync.notconnected          "সংযুক্ত নহয়">
 <!ENTITY sync.connect               "সংযোগ কৰক">
 <!ENTITY sync.connected             "সংযুক্ত">
 <!ENTITY sync.details               "বিৱৰণ">
 <!ENTITY sync.deviceName            "এই ডিভাইচ">
 <!ENTITY sync.disconnect            "বিচ্ছিন্ন কৰক">
-<!ENTITY sync.syncNow               "এতিয়া সংমিহলি কৰক">
+<!ENTITY sync.syncNow               "এতিয়া চিঙ্ক কৰক">
 
-<!ENTITY sync.setup.title           "সংমিহলি কৰিবলৈ সংযোগ কৰক">
+<!ENTITY sync.setup.title           "চিঙ্ক কৰিবলৈ সংযোগ কৰক">
 <!ENTITY sync.setup.pair            "সক্ৰিয় কৰিবলে, আপোনাৰ অন্য ডিভাইচত &quot;এটা ডিভাইচ যোৰ কৰক&quot; বাছক।">
 <!ENTITY sync.fallback              "মই মোৰ কমপিউটাৰৰ ওচৰত নাই…">
-<!ENTITY sync.setup.manual          "আপোনাৰ সংমিহলি একাউণ্টৰ তথ্য সুমুৱাওক">
+<!ENTITY sync.setup.manual          "আপোনাৰ চিঙ্ক একাউণ্টৰ তথ্য সুমুৱাওক">
 <!ENTITY sync.account               "একাউণ্ট নাম">
 <!ENTITY sync.password              "পাছৱৰ্ড">
 <!ENTITY sync.recoveryKey           "উদ্ধাৰ কি'">
@@ -26,6 +26,6 @@
 <!ENTITY sync.setup.waiting2        "অন্য ডিভাইচৰ বাবে অপেক্ষা কৰা হৈছে…">
 
 <!ENTITY sync.pair.title            "এটা ডিভাইচ সংযুক্ত কৰক">
-<!ENTITY sync.pair.description      "আপোনাৰ নতুন ডিভাইচ সক্ৰিয় কৰিবলে, ডিভাইচত &quot;সংমিহলি সংস্থাপন কৰক&quot; বাছক।">
+<!ENTITY sync.pair.description      "আপোনাৰ নতুন ডিভাইচ সক্ৰিয় কৰিবলে, ডিভাইচত &quot;চিঙ্ক সংস্থাপন কৰক&quot; বাছক।">
 <!ENTITY sync.setup.close           "বন্ধ কৰক">
 <!ENTITY sync.setup.waitingdownload "আপোনাৰ তথ্যক এতিয়া পটভূমিত ডাউনল'ড কৰা হৈছে। আপুনি এই উইন্ডোক যিকোনো সময়তে বন্ধ কৰিব পাৰিব।">
