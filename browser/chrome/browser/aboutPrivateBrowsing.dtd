@@ -57,7 +57,7 @@
 <!ENTITY trackingProtection.state.enabled      "चालू">
 <!ENTITY trackingProtection.state.disabled     "बंद">
 
-<!ENTITY trackingProtection.description1       "पृष्ठ के भाग जो आपके ऑनलाइन गतिविधि ट्रैक कर सकते हैं, अब निजी विंडो उन्हें ब्लॉक कर सकते है।">
+<!ENTITY trackingProtection.description1       "पृष्ठ के भाग जो आपके ऑनलाइन गतिविधि ट्रैक कर सकते हैं, अब निजी विंडो उन्हें ब्लॉक कर सकते है.">
 
 <!ENTITY trackingProtection.disable            "ट्रैकिंग सुरक्षा बंद करें">
 <!ENTITY trackingProtection.enable             "ट्रैकिंग सुरक्षा चालू करें">
