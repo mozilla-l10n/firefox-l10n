@@ -5,7 +5,7 @@
 
 <!ENTITY setPassword.title  "Schimbare parolă generală">
 <!ENTITY setPassword.tokenName.label "Dispozitiv de securitate">
-<!ENTITY setPassword.oldPassword.label "Parola curentă:">
+<!ENTITY setPassword.oldPassword.label "Parola actuală:">
 <!ENTITY setPassword.newPassword.label "Parola nouă:">
 <!ENTITY setPassword.reenterPassword.label "Parola nouă (din nou):">
 <!ENTITY setPassword.meter.label "Calitatea parolei">
@@ -40,7 +40,7 @@
 <!ENTITY pkcs12.setpassword.message  "Parola pe care o setați aici protejează fișierul de siguranță pe care sunteți pe cale să-l creați.  Trebuie să setați această parolă pentru a continua salvarea de siguranță.">
 <!ENTITY pkcs12.setpassword.label1 "Parola de siguranță pentru certificate:">
 <!ENTITY pkcs12.setpassword.label2 "Parola de siguranță pentru certificate (din nou):">
-<!ENTITY pkcs12.setpassword.reminder "Important: Dacă uitați parola de siguranță pentru certificate, nu veți putea reface această copie mai târziu.  Aveți grijă să o păstrați într-un loc sigur.">
+<!ENTITY pkcs12.setpassword.reminder "Important: Dacă uitați parola de siguranță pentru certificate, nu veți putea reface această copie mai târziu.  Vă rugăm să aveți grijă să o păstrați într-un loc sigur.">
 
 <!ENTITY chooseToken.title  "Alege tokenul">
 <!ENTITY chooseToken.message1 "Vă rugăm să alegeți un token.">
@@ -48,9 +48,9 @@
 
 <!ENTITY createCertInfo.title "Generez o cheie privată">
 <!ENTITY createCertInfo.msg1 "Generarea cheii în curs… Aceasta poate dura câteva minute….">
-<!ENTITY createCertInfo.msg2 "Vă rugăm așteptați…">
+<!ENTITY createCertInfo.msg2 "Vă rugăm să așteptați…">
 <!-- Strings for protectedAuth dialog -->
 
 <!ENTITY protectedAuth.title "Autentificare prin identificator protejat">
-<!ENTITY protectedAuth.msg "Vă rugăm autentificați-vă cu token. Metoda de autentificare depinde de tipul tokenului dumneavoastră.">
+<!ENTITY protectedAuth.msg "Vă rugăm să vă autentificați cu tokenul. Metoda de autentificare depinde de tipul tokenului dumneavoastră.">
 <!ENTITY protectedAuth.tokenName.label "Identificator:">

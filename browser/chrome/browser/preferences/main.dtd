@@ -12,9 +12,9 @@
 
 <!ENTITY homepage.label            "Pagina de start:">
 <!ENTITY homepage.accesskey        "P">
-<!ENTITY useCurrentPage.label      "Folosește pagina curentă">
+<!ENTITY useCurrentPage.label      "Folosește pagina actuală">
 <!ENTITY useCurrentPage.accesskey  "c">
-<!ENTITY useMultiple.label         "Folosește paginile curente">
+<!ENTITY useMultiple.label         "Folosește paginile actuale">
 <!ENTITY chooseBookmark.label      "Folosește un semn de carte…">
 <!ENTITY chooseBookmark.accesskey  "s">
 <!ENTITY restoreDefault.label      "Folosește opțiunea implicită">
