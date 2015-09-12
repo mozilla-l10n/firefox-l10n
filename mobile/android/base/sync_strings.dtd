@@ -230,6 +230,7 @@
 <!ENTITY fxaccount_remove_account_toast "&formatS; konta Firefox wótpórany.">
 
 <!ENTITY fxaccount_remove_account_menu_item "Konto wótpóraś">
+
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 
