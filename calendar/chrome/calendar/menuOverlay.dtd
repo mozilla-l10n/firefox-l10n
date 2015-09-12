@@ -43,7 +43,7 @@
 <!ENTITY goTodayCmd.label                       "Ziua de azi">
 <!ENTITY goTodayCmd.accesskey                   "Z">
 
-<!ENTITY showCurrentView.label                  "Vizualizare curentă">
+<!ENTITY showCurrentView.label                  "Vizualizare actuală">
 <!ENTITY showCurrentView.accesskey              "V">
 
 <!ENTITY calendar.properties.label              "Proprietăți calendar…">

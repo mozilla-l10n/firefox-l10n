@@ -29,7 +29,7 @@
 <!ENTITY pref.default_task_end_of_day.label "Ziua de finalizat">
 <!ENTITY pref.default_task_tomorrow.label "Mâine">
 <!ENTITY pref.default_task_next_week.label "Săptămâna viitoare">
-<!ENTITY pref.default_task_offset_current.label "Relativ față de ora curentă">
+<!ENTITY pref.default_task_offset_current.label "Relativ față de ora actuală">
 <!ENTITY pref.default_task_offset_start.label "Relativ față de pornire">
 <!ENTITY pref.default_task_offset_next_hour.label "Relativ față ora următoare">
 
