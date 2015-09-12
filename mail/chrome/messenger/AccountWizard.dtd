@@ -103,14 +103,14 @@
 
 <!ENTITY accnameTitle.label "Nume cont">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
-<!ENTITY accnameDesc.label "Introduceți un nume pe care doriți să-l acordați acestui cont (de exemplu, „Cont Serviciu”, „Cont Acasă” sau „Cont Știri”).">
+<!ENTITY accnameDesc.label "Introduceți un nume pe care doriți să-l acordați acestui cont (de exemplu, „Cont de la serviciu”, „Cont de acasă” sau „Cont pentru știri”).">
 <!ENTITY accnameLabel.label "Nume cont:">
 <!ENTITY accnameLabel.accesskey "c">
 <!-- Entities for Done (Congratulations) page -->
 
 
 <!ENTITY completionTitle.label "Felicitări!">
-<!ENTITY completionText.label "Vă rugăm verificați ca datele de mai jos să fie corecte.">
+<!ENTITY completionText.label "Vă rugăm să verificați ca datele de mai jos să fie corecte.">
 <!ENTITY serverTypePrefix.label "Tip server de primire:">
 <!ENTITY serverNamePrefix.label "Nume server de primire:">
 <!ENTITY smtpServerNamePrefix.label "Nume server de trimitere (SMTP):">

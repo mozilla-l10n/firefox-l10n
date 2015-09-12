@@ -12,7 +12,7 @@
 <!ENTITY chat.noAccount.title             "Încă nu ați configurat un cont de chat.">
 <!ENTITY chat.noAccount.description       "Permiteți &brandShortName; să vă ghideze prin procesul de configurare al contului de chat.">
 <!ENTITY chat.accountWizard.button       "Începe">
-<!ENTITY chat.noConnectedAccount.title             "Conturile dumneavoastră de chat nu sunt conectate.">
+<!ENTITY chat.noConnectedAccount.title             "Conturile de chat nu vă sunt conectate.">
 <!ENTITY chat.noConnectedAccount.description       "You can connect them from the 'Chat status' dialog:">
 <!ENTITY chat.showAccountManager.button       "Arată statusul chatului">
 

@@ -13,8 +13,8 @@
 <!ENTITY editDirectories.label     "Editează repertoare…">
 <!ENTITY editDirectories.accesskey "E">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
-<!ENTITY directories.label         "Folosește un alt server LDAP:">
-<!ENTITY directories.accesskey     "A">
+<!ENTITY directories.label         "Folosește un server diferit LDAP:">
+<!ENTITY directories.accesskey     "d">
 <!ENTITY directoriesNone.label     "Niciunul">
 <!-- am-addressing.xul -->
 

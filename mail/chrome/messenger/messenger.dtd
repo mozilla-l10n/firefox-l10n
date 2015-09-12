@@ -49,8 +49,8 @@
 <!ENTITY getNewMsgForCmd.accesskey "o">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Toate conturile">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "a">
-<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Contul curent">
-<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "C">
+<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Contul actual">
+<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "c">
 <!ENTITY getNextNMsgCmd.label "Adu următoarele 500 de discuții">
 <!ENTITY getNextNMsgCmd.accesskey "t">
 <!ENTITY sendUnsentCmd.label "Trimite mesajele neexpediate">
@@ -553,7 +553,7 @@
 <!ENTITY undeleteButton.tooltip "Recuperează mesajul selectat">
 <!ENTITY markButton.tooltip "Marchează mesajele">
 <!ENTITY printButton.tooltip "Tipărește acest mesaj">
-<!ENTITY stopButton.tooltip "Oprește transferul curent">
+<!ENTITY stopButton.tooltip "Oprește transferul actual">
 <!ENTITY junkButton.tooltip "Marchează mesajul ca nesolicitat">
 <!ENTITY notJunkButton.tooltip "Marchează mesajele selectate ca nefiind nesolicitate">
 <!ENTITY addressBookButton.tooltip "Mergi la agenda de contacte">

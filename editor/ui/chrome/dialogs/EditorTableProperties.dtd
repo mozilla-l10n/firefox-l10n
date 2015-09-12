@@ -44,7 +44,7 @@
 <!ENTITY cellSelectNext.accessKey         "i">
 <!ENTITY cellSelectPrevious.label         "Înapoi">
 <!ENTITY cellSelectPrevious.accessKey     "p">
-<!ENTITY applyBeforeChange.label          "Schimbările curente vor fi aplicate înainte de schimbarea selecției.">
+<!ENTITY applyBeforeChange.label          "Schimbările actuale vor fi aplicate înainte de schimbarea selecției.">
 <!ENTITY cellContentAlignment.label       "Aliniere conținut">
 <!ENTITY cellHorizontal.label             "Orizontală:">
 <!ENTITY cellHorizontal.accessKey         "z">
