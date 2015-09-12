@@ -40,12 +40,16 @@
 <!ENTITY engine.addons.accesskey    "t">
 
 <!-- Device Settings -->
-<!ENTITY syncDeviceName.label       "Emri i Pajisjes:">
+<!ENTITY syncDeviceName.label       "Emër Pajisjeje:">
 <!ENTITY syncDeviceName.accesskey   "E">
+<!ENTITY fxaSyncDeviceName.label    "Emër Pajisjeje">
+<!ENTITY changeSyncDeviceName.label "Ndryshoni Emër Pajisjeje…">
+<!ENTITY cancelChangeSyncDeviceName.label "Anuloje">
+<!ENTITY saveChangeSyncDeviceName.label "Ruaje">
 <!ENTITY unlinkDevice.label           "Shkëpute Këtë Pajisje">
 
 <!-- Footer stuff -->
-<!ENTITY prefs.tosLink.label        "Kushtet e Shërbimit">
+<!ENTITY prefs.tosLink.label        "Kushte Shërbimi">
 <!ENTITY prefs.ppLink.label         "Rregulla Privatësie">
 
 <!-- Firefox Accounts stuff -->

@@ -138,6 +138,10 @@
   -  in the network details headers tab identifying the method. -->
 <!ENTITY netmonitorUI.summary.method      "Metodë kërkese:">
 
+<!-- LOCALIZATION NOTE (netmonitorUI.summary.address): This is the label displayed
+  -  in the network details headers tab identifying the remote address. -->
+<!ENTITY netmonitorUI.summary.address     "Adresë e largët:">
+
 <!-- LOCALIZATION NOTE (debuggerUI.summary.status): This is the label displayed
   -  in the network details headers tab identifying the status code. -->
 <!ENTITY netmonitorUI.summary.status      "Kod gjendjeje:">
@@ -327,6 +331,22 @@
   -  in the network table toolbar, above the "transferred" column, which is the
   -  compressed / encoded size. -->
 <!ENTITY netmonitorUI.toolbar.transferred "Të shpërngulura">
+
+<!-- LOCALIZATION NOTE (netmonitorUI.context.copyAllAsHar): This is the label displayed
+  -  on the context menu that copies all as HAR format -->
+<!ENTITY netmonitorUI.context.copyAllAsHar "Kopjoji Krejt Si HAR">
+
+<!-- LOCALIZATION NOTE (netmonitorUI.context.copyAllAsHar.accesskey): This is the access key
+  -  for the Copy All As HAR menu item displayed in the context menu for a network panel -->
+<!ENTITY netmonitorUI.context.copyAllAsHar.accesskey "K">
+
+<!-- LOCALIZATION NOTE (netmonitorUI.context.saveAllAsHar): This is the label displayed
+  -  on the context menu that saves all as HAR format -->
+<!ENTITY netmonitorUI.context.saveAllAsHar "Ruaji Krejt Si HAR">
+
+<!-- LOCALIZATION NOTE (netmonitorUI.context.saveAllAsHar.accesskey): This is the access key
+  -  for the Save All As HAR menu item displayed in the context menu for a network panel -->
+<!ENTITY netmonitorUI.context.saveAllAsHar.accesskey "R">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyAsCUrl.accesskey): This is the access key
   -  for the Copy as cURL menu item displayed in the context menu for a request -->
