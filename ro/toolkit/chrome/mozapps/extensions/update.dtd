@@ -47,8 +47,8 @@ când sunt găsite actualizări pentru suplimente.">
 
 <!ENTITY  adminDisabled.wizard.title      "Nu se pot căuta actualizări">
 <!ENTITY  adminDisabled.warning.label     "Nu se pot căuta actualizări pentru suplimentele incompatibile 
-deoarece instalarea software în &brandShortName; a fost dezactivată. 
-Vă rugăm contactați administratorul sistemului pentru asistență.">
+deoarece instalarea software pentru &brandShortName; a fost dezactivată. 
+Vă rugăm să contactați administratorul sistemului pentru asistență.">
 
 <!ENTITY  versioninfo.wizard.title        "Verificare compatibilitate suplimente">
 <!ENTITY  versioninfo.top.label           "Se verifică compatibilitatea suplimentelor instalate cu această 

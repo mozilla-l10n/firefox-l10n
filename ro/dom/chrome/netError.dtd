@@ -23,10 +23,10 @@
 <!ENTITY generic.longDesc "<p>Momentan nu sunt disponibile informații suplimentare despre această problemă sau eroare.</p>">
 
 <!ENTITY malformedURI.title "Adresă greșită">
-<!ENTITY malformedURI.longDesc "<p>Adresa introdusă nu este într-un format recunoscut. Verificați ca bara adresei să nu conțină greșeli și încercați din nou.</p>">
+<!ENTITY malformedURI.longDesc "<p>Adresa introdusă nu este într-un format recunoscut. Vă rugăm să verificați ca bara adresei să nu conțină greșeli și încercați din nou.</p>">
 
 <!ENTITY netInterrupt.title "Transfer de date întrerupt">
-<!ENTITY netInterrupt.longDesc "<p>Browserul s-a conectat cu succes, dar conexiunea a fost întreruptă în timp ce se transferau informații.  Vă rugăm încercați din nou.</p><ul><li>Aveți probleme cu navigarea pe alte site-uri? Verificați conexiunea la rețea a calculatorului.</li><li>Problemele persistă? Consultați administratorul sau furnizorul de servicii internet pentru asistență.</li></ul>">
+<!ENTITY netInterrupt.longDesc "<p>Browserul s-a conectat cu succes, dar conexiunea a fost întreruptă în timp ce se transferau informații.  Vă rugăm să încercați din nou.</p><ul><li>Aveți probleme cu navigarea pe alte site-uri? Verificați conexiunea la rețea a calculatorului.</li><li>Problemele persistă? Consultați administratorul sau furnizorul de servicii internet pentru asistență.</li></ul>">
 
 <!ENTITY notCached.title "Document expirat">
 <!ENTITY notCached.longDesc "<p>Documentul cerut nu mai este disponibil în cache-ul browserului.</p><ul><li>Ca o măsură de siguranță, browserul nu cere automat documente ce pot fi confidențiale.</li><li>Apăsați Încearcă din nou pentru a cere din nou documentul de pe site.</li></ul>">
@@ -43,7 +43,7 @@
 </ul>">
 
 <!ENTITY netReset.title "Conexiune întreruptă">
-<!ENTITY netReset.longDesc "<p>Legătura de rețea a fost întreruptă în timp ce se negocia o conexiune. Vă rugăm încercați din nou.</p>">
+<!ENTITY netReset.longDesc "<p>Legătura de rețea a fost întreruptă în timp ce se negocia o conexiune. Vă rugăm să încercați din nou.</p>">
 
 <!ENTITY netTimeout.title "Timp expirat">
 <!ENTITY netTimeout.longDesc "<p>Site-ul cerut nu a răspuns cererii de conexiune, iar browserul a încetat să mai aștepte un răspuns.</p><ul><li>Se poate ca serverul să fie foarte solicitat sau să sufere o defecțiune temporară?  Încercați din nou mai târziu.</li><li>Aveți probleme cu navigarea pe alte site-uri? Verificați conexiunea la rețea a calculatorului.</li><li>Calculatorul este protejat de un firewall sau proxy? Parametrii incorecți ai acestora ar putea afecta navigarea pe web.</li><li>Problemele persistă? Consultați administratorul sau furnizorul de servicii internet pentru asistență.</li></ul>">

@@ -115,7 +115,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; activat">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; va începe sincronizarea în câteva momente.">
 <!ENTITY syncErrorPanel.heading "Nu mă pot conecta la &syncBrand.shortName.label;">
-<!ENTITY syncErrorPanel.subTitle "Vă rugam să vă autentificați pentru a relua sincronizarea.">
+<!ENTITY syncErrorPanel.subTitle "Vă rugăm să vă autentificați pentru a relua sincronizarea.">
 <!ENTITY syncErrorPanel.signInButton.label "Autentificare">
 <!ENTITY syncErrorPanel.signInButton.accesskey "A">
 
@@ -855,11 +855,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY panicButton.view.mainActionDesc          "Dacă veți continua:">
 <!ENTITY panicButton.view.deleteCookies           "Se șterg <html:strong>cookie-urile</html:strong> recente">
-<!ENTITY panicButton.view.deleteHistory           "Se șterge <html:strong>istoricul</html:strong>recent">
+<!ENTITY panicButton.view.deleteHistory           "Se șterge <html:strong>istoricul</html:strong> recent">
 <!ENTITY panicButton.view.deleteTabsAndWindows    "Se închid toate <html:strong>filele</html:strong> și <html:strong>ferestrele</html:strong>">
 <!ENTITY panicButton.view.openNewWindow           "Se deschide o nouă fereastră goală">
 
-<!ENTITY panicButton.view.undoWarning             "Acțiunea este ireversibilă.">
+<!ENTITY panicButton.view.undoWarning             "Această acțiune este ireversibilă.">
 <!ENTITY panicButton.view.forgetButton            "Uită!">
 
 <!ENTITY panicButton.thankyou.msg1                "Istoricul dumnevoastră recent a fost șters.">
