@@ -699,7 +699,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.weakEncryption "Tuta strona słabe zaklučowanje wužiwa.">
 <!-- Strings for connection state warnings in the subview. -->
 
-<!ENTITY identity.description.insecure "Waš zwisk z tutym sydłom priwatny njeje. Druzy ludźo móhli Informacije widźeće, kotrež sćeleće (na přikład hesła, powěsće, kreditne karty atd.).">
+<!ENTITY identity.description.insecure "Waš zwisk z tutym sydłom priwatny njeje. Druzy ludźo móhli Informacije widźeć, kotrež sćeleće (na přikład hesła, powěsće, kreditne karty atd.).">
 <!ENTITY identity.description.weakCipher "Waš zwisk z websydłom słabe zaklučowanje wužiwa a njeje priwatny.">
 <!ENTITY identity.description.weakCipher2 "Druzy ludźo móža sej waše informacije wobhladać abo zadźerženje websydła změnić.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; je dźěle tuteje strony zablokował, kotrež wěste njejsu.">
@@ -794,7 +794,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Wšě widźomne wokna na wašej wobrazowce budu so dźělić.">
 
 <!ENTITY trackingProtection.title "Slědowanski škit">
-<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokuje dźěle strony, kotrež móhli waš pehladowanje slědować.">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokuje dźěle strony, kotrež móhli waše přehladowanje slědować.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Tute sydło wobsahuje elementy, kotrež móhli waše přehladowanje slědować. Sće škit znjemóžnił.">
 <!ENTITY trackingProtection.notDetected3 "Žane slědowanske elementy na tutej stronje namakane.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
