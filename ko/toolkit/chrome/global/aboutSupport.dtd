@@ -61,8 +61,9 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "다중프로세스 윈도우">
 
+<!ENTITY aboutSupport.appBasicsSafeMode "안전 모드">
 
-<!ENTITY aboutSupport.showDir.label "디렉터리 열기">
+<!ENTITY aboutSupport.showDir.label "디렉토리 열기">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
