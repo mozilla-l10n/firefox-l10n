@@ -13,6 +13,8 @@
      of the Tracking Protection section, and in general not much larger than
      30em to prevent the sections from wrapping on smaller window sizes.
      -->
+
+<!ENTITY aboutPrivateBrowsing.width            "30em">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
      aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
      These strings will be replaced by aboutPrivateBrowsing.forgotten and
@@ -20,18 +22,21 @@
      -->
 
 <!ENTITY aboutPrivateBrowsing.title            "Pśeglědujośo w priwatnem modusu">
+<!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; njebuźo se historiju w toś tom woknje spomnjeś.">
 
-
-
+<!ENTITY aboutPrivateBrowsing.forgotten        "W toś tom woknje &brandShortName; njebuźo se spomnjeś:">
+<!ENTITY aboutPrivateBrowsing.info.forgotten   "Njeskładowany">
 <!ENTITY aboutPrivateBrowsing.info.history     "Historija">
-
+<!ENTITY aboutPrivateBrowsing.info.searches    "Pytanja">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Cookieje">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Nachylne dataje">
 
-
-
+<!ENTITY aboutPrivateBrowsing.kept             "&brandShortName; wobchowajo:">
+<!ENTITY aboutPrivateBrowsing.info.kept        "Składowany">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Ześěgnjenja">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Cytańske znamjenja">
 
+<!ENTITY aboutPrivateBrowsing.note1            "Pšosym źiwajśo na to, až waš źěłodawar abo internetny póbitowaŕ móžo sedła slědowaś, kótarež se woglědujośo.">
 <!ENTITY aboutPrivateBrowsing.learnMore        "Dalšne informacije">
 <!-- LOCALIZATION NOTE (trackingProtection.width):
      Width of the Tracking Protection section. It is fine for the enabled or
@@ -42,12 +47,18 @@
      different, so testing on Windows, Mac, and Linux is encouraged.
      -->
 
+<!ENTITY trackingProtection.width              "22em">
+<!ENTITY trackingProtection.title              "Slědowański šćit">
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
 
+<!ENTITY trackingProtection.state.width        "6ch">
+<!ENTITY trackingProtection.state.enabled      "ZAŠALTOWANY">
+<!ENTITY trackingProtection.state.disabled     "WUŠALTOWANY">
 
+<!ENTITY trackingProtection.description1       "Priwatne wokna blokěruua něnto źěle boka, kótarež by móhli wašu pśeglědowańsku aktiwitu slědowaś.">
 
-
-
-
+<!ENTITY trackingProtection.disable            "Slědowański šćit wušaltowany">
+<!ENTITY trackingProtection.enable             "Slědowański šćit zašaltowany">
+<!ENTITY trackingProtection.startTour1         "Glědajśo, kak to funkcioněrujo">
