@@ -4,14 +4,15 @@
 
 <!ENTITY tracking.label                 "Slědowanje">
 
-
+<!ENTITY dntTrackingNotOkay4.label     "Pominajśo, až sedła njamaju was slědowaś">
+<!ENTITY dntTrackingNotOkay4.accesskey "n">
 <!ENTITY doNotTrackInfo.label          "Dalšne informacije">
-
-
-
-
-
-
+<!ENTITY trackingProtection5.label     "Slědowański šćit wužywaś">
+<!ENTITY trackingProtection5.accesskey "d">
+<!ENTITY trackingProtectionLearnMore.label "Dalšne informacije">
+<!ENTITY trackingProtectionPBM5.label         "Slědowański šćit w priwatnych woknach wužywaś">
+<!ENTITY trackingProtectionPBM5.accesskey     "r">
+<!ENTITY trackingProtectionPBMLearnMore.label "Dalšne informacije">
 
 <!ENTITY  history.label                 "Historija">
 
@@ -27,7 +28,8 @@
 <!ENTITY  locbar.searches.label         "Pśiswójźbne pytanja ze standardneju pytnicu">
 <!ENTITY  locbar.searches.accesskey     "s">
 
-
+<!ENTITY  suggestionSettings.label      "Nastajenja za naraźenja pytnice změniś…">
+<!ENTITY  suggestionSettings.accesskey  "s">
 
 <!ENTITY  acceptCookies.label           "Cookieje ze sedłow akceptěrowaś">
 <!ENTITY  acceptCookies.accesskey       "c">
