@@ -51,6 +51,8 @@
 <!ENTITY debuggerUI.sources.toggleBreakpoints "Wšykne zastankowe dypki zmóžniś/znjemóžniś">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.togglePromiseDebugger): This is the
   -  tooltip for the button that toggles the promise debugger. -->
+
+<!ENTITY debuggerUI.sources.togglePromiseDebugger "Pytanje zmólkow Promise pśešaltowaś">
 <!-- LOCALIZATION NOTE (debuggerUI.startTracing): This is the text displayed in
   - the button to start execution tracing. -->
 
@@ -100,7 +102,7 @@
   -  the checkbox that toggles whether sources that we suspect are minified are
   -  automatically black boxed or not. -->
 
-<!ENTITY debuggerUI.autoBlackBox           "Pomjeńšone žrědłowe dataje, kótarež su se awtomiski do carnego kašćika pśesunuli.">
+<!ENTITY debuggerUI.autoBlackBox           "Pomjeńšone žrědłowe dataje, kótarež su se awtomiski do carnego kašćika pśesunuli">
 <!ENTITY debuggerUI.autoBlackBox.accesskey "P">
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
   -  appears in the filter panel popup as a header for the operators part. -->
