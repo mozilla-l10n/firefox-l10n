@@ -20,7 +20,7 @@
 <!ENTITY calendar.events.filter.today.label "Evenimentele de astăzi">
 <!ENTITY calendar.events.filter.future.label "Evenimente în viitor">
 <!ENTITY calendar.events.filter.current.label "Ziua selectată">
-<!ENTITY calendar.events.filter.currentview.label "Evenimente în vizualizarea curentă">
+<!ENTITY calendar.events.filter.currentview.label "Evenimente în vizualizarea actuală">
 <!ENTITY calendar.events.filter.next7Days.label "Evenimente în următoarele 7 zile">
 <!ENTITY calendar.events.filter.next14Days.label "Evenimente în următoarele 14 zile">
 <!ENTITY calendar.events.filter.next31Days.label "Evenimente în următoarele 31 de zile">
@@ -129,8 +129,8 @@
      separate entry will be shown for each of the occurrences that happen on or
      before today (or the selected date, whichever is later). -->
 
-<!ENTITY calendar.task.filter.current.label         "Sarcini curente">
-<!ENTITY calendar.task.filter.current.accesskey     "S">
+<!ENTITY calendar.task.filter.current.label         "Sarcini actuale">
+<!ENTITY calendar.task.filter.current.accesskey     "u">
 
 <!ENTITY calendar.task-details.title.label           "titlu">
 <!ENTITY calendar.task-details.organizer.label       "de la">
@@ -350,7 +350,7 @@
 <!ENTITY calendar.print.title.label "Titlu:">
 <!ENTITY calendar.print.layout.label "Aranjare în pagină:">
 <!ENTITY calendar.print.range.label "Ce se tipărește">
-<!ENTITY calendar.print.currentView2.label "Vedere curentă">
+<!ENTITY calendar.print.currentView2.label "Vizualizare actuală">
 <!ENTITY calendar.print.selectedEventsAndTasks.label "Sarcini/evenimente selectate">
 <!ENTITY calendar.print.tasks.label "Sarcini">
 <!ENTITY calendar.print.events.label "Evenimente">

@@ -16,7 +16,7 @@
 <!ENTITY gdata.reminder.default "Reamintire implicită">
 <!ENTITY gdata.reminder.action.sms.label "Trimite un mesaj text">
 
-<!ENTITY gdata.wizard.session.description "Vă rugăm alegeți o sesiune existentă sau introduceți-vă adresa de e-mail pentru a crea o nouă sesiune. Este necesară doar o sesiune per cont.">
+<!ENTITY gdata.wizard.session.description "Vă rugăm să alegeți o sesiune existentă sau introduceți-vă adresa de e-mail pentru a crea o nouă sesiune. Este necesară doar o sesiune per cont.">
 <!ENTITY gdata.wizard.calendars.description "Vă rugăm să selectați calendarele și listele de sarcini la care doriți să vă abonați.">
 
 <!ENTITY gdata.wizard.nextstep.description "Vă rugăm să treceți la pasul următor pentru a vă configura calendarele.">
