@@ -208,7 +208,7 @@
 <!ENTITY fxaccount_status_needs_credentials "Zwisk njemóžno. Podótkńće so, zo byšće so přizjewił.">
 <!ENTITY fxaccount_status_needs_upgrade "Dyrbiće &brandShortName; aktualizować, zo byšće so přizjewił.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; je připrawjeny, ale njesynchronizuje awtomatisce. Zmóžńće “Daty awtomatisce synchronizować” w Androidowych nastajenjach &gt; Wužiwanje datow.">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; je připrawjeny, ale njesynchronizuje awtomatisce. Zmóžńće “Daty awtomatisce synchronizować” w meniju Androidowe nastajenja a konta.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; je připrawjeny, ale njesynchronizuje awtomatisce. Zmóžńće „Daty awtomatisce synchronizować“ w meniju Androidowe nastajenja a konta.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Podótkńće so, zo byšće so pola swojeho noweho konta Firefox přizjewił.">
 <!ENTITY fxaccount_status_bookmarks "Zapołožki">
 <!ENTITY fxaccount_status_history "Historija">
@@ -230,6 +230,7 @@
 <!ENTITY fxaccount_remove_account_toast "&formatS; konta Firefox wotstronjeny.">
 
 <!ENTITY fxaccount_remove_account_menu_item "Konto wotstronić">
+<!ENTITY fxaccount_enable_debug_mode "Modus pytanja zmylkow zmóžnić">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 
