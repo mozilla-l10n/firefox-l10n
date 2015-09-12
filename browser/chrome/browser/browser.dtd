@@ -110,7 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "W">
 
 <!ENTITY fxaSignIn.label "Pla &syncBrand.shortName.label; pśizjawiś">
-
+<!ENTITY fxaSignedIn.tooltip "Nastajenja &syncBrand.shortName.label; wócyniś">
 <!ENTITY fxaSignInError.label "Z &syncBrand.shortName.label; znowego zwězaś">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; zmóžnjony">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; chapja we wokognuśu synchronizěrowaś.">
@@ -395,7 +395,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "K rejtarkoju pśejś:">
 
-
+<!ENTITY urlbar.searchSuggestionsNotification.question "Cośo swójo pytańske dožywjenje z naraźenjami pólěpšyś?">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Dalšne informacije…">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Ně">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Jo">
 <!-- 
@@ -426,6 +427,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      These are set as the aria-label attribute for the search input box and
      submit button in the in-content search UI, to be used by screen readers. -->
 
+<!ENTITY contentSearchInput.label     "Pytańske napšašowanje">
+<!ENTITY contentSearchSubmit.label    "Pytanje startowaś">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -641,6 +644,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "Z">
 
+<!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "Stil boka">
 <!ENTITY pageStyleMenu.accesskey "l">
@@ -680,31 +684,36 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "Dokóńcony">
 <!ENTITY editBookmark.cancel.label                   "Pśetergnuś">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "W">
 
 <!ENTITY identity.connectionSecure "Wěsty zwisk">
 <!ENTITY identity.connectionNotSecure "Zwisk njejo wěsty">
-
+<!ENTITY identity.connectionFile "Toś ten bok jo se na wašom licadle składł.">
 <!ENTITY identity.connectionVerified "&brandShortName; jo zwěsćił, až maśo wěsty zwisk z toś tym sedłom, kótaregož wobgóspodarjowaŕ jo:">
 <!ENTITY identity.connectionInternal "To jo wěsty bok &brandShortName;.">
 <!-- Strings for connection state warnings. -->
 
-
-
+<!ENTITY identity.activeBlocked "&brandShortName; jo źěle toś togo boka blokěrował, kótarež njejsu wěste.">
+<!ENTITY identity.passiveLoaded "Źěle toś togo boka njejsu wěste (na pśikład wobraze).">
+<!ENTITY identity.activeLoaded "Sćo šćit na toś tom boku znjemóžnił.">
+<!ENTITY identity.weakEncryption "Toś ten bok wužywa słabe koděrowanje.">
 <!-- Strings for connection state warnings in the subview. -->
 
+<!ENTITY identity.description.insecure "Waš zwisk z toś tym sedłom njejo priwatny. Druge luźe by mógli Informacije wiźeś, kótarež sćelośo (na pśikład gronidła, powěsći, kreditne kórty atd.).">
+<!ENTITY identity.description.weakCipher "Waš zwisk z websedłom wužywa słabe koděrowanje a njejo priwatny.">
+<!ENTITY identity.description.weakCipher2 "Druge luźe mógu se waše informacije woglědaś abo zaźaržanje websedła změniś.">
+<!ENTITY identity.description.activeBlocked "&brandShortName; jo źěle toś togo boka blokěrował, kótarež njejsu wěste.">
+<!ENTITY identity.description.passiveLoaded "Waš zwisk njejo priwatny a druge mógli informacije wiźeś, kótarež źěliśo ze sedłom.">
+<!ENTITY identity.description.passiveLoaded2 "Websedło wopśimujo wopśimjeśe, kótarež njejo wěste (ako na pśikład wobraze).">
+<!ENTITY identity.description.passiveLoaded3 "Lěcrownož &brandShortName; jo wopśimjeśe blokěrował, jo hyšći wopśimjeśe na boku, kótarež njejo wěste (na pśikład wobraze).">
+<!ENTITY identity.description.activeLoaded "Toś to websedło wopśimujo wopśimjeśe, kótarež njejo wěste (na pśikład skripty) a waš zwisk z nim njejo priwatny.">
+<!ENTITY identity.description.activeLoaded2 "Druge luźe mógu informacije wiźeś, kótarež źěliśo z toś tym sedłom (na pśikład gronidła, powěsći, kreditne kórty atd.).">
 
-
-
-
-
-
-
-
-
+<!ENTITY identity.enableMixedContentBlocking.label "Šćit zmóžniś">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "z">
 <!ENTITY identity.disableMixedContentBlocking.label "Šćit nachylnje znjemóžniś">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "z">
-
+<!ENTITY identity.learnMore "Dalšne informacije">
 
 <!ENTITY identity.moreInfoLinkText2 "Dalšne informacije">
 
@@ -781,10 +790,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
 <!ENTITY getUserMedia.selectMicrophone.label "Mikrofon, kótaryž ma se gromaźe wužywaś:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
-
+<!ENTITY getUserMedia.audioCapture.label "Awdio z rejtarka buźo se źěliś.">
 <!ENTITY getUserMedia.allWindowsShared.message "Wšykne widobne wokna na wašej wobrazowce budu se źěliś.">
 
-
+<!ENTITY trackingProtection.title "Slědowański šćit">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokěrujo źěle boka, kótarež by mógli wašo pśeglědowanje slědowaś.">
 
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
