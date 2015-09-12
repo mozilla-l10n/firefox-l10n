@@ -57,7 +57,7 @@
 <!ENTITY trackingProtection.state.enabled      "Ligado">
 <!ENTITY trackingProtection.state.disabled     "Delisgado">
 
-<!ENTITY trackingProtection.description1       "As janelas privativas agora bloqueiam partes da página que podem rastrear sua atividade de navegação.">
+<!ENTITY trackingProtection.description1       "As janelas privativas, agora bloqueiam partes da página que podem rastrear sua atividade de navegação.">
 
 <!ENTITY trackingProtection.disable            "Desligar proteção contra rastreamento">
 <!ENTITY trackingProtection.enable             "Ligar proteção contra rastreamento">
