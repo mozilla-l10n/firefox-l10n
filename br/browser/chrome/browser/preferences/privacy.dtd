@@ -8,7 +8,7 @@
 <!ENTITY doNotTrackInfo.label          "Gouzout hiroc'h">
 <!ENTITY trackingProtection5.label     "Arverañ ar gwarez heuliañ">
 <!ENTITY trackingProtection5.accesskey "i">
-
+<!ENTITY trackingProtectionLearnMore.label "Gouzout hiroc'h">
 <!ENTITY trackingProtectionPBM5.label         "Arverañ ar gwarez heuliañ er prenestroù prevez">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
 
@@ -27,7 +27,8 @@
 <!ENTITY  locbar.searches.label         "Enklaskoù kar adalek al lusker enklask dre ziouer ">
 <!ENTITY  locbar.searches.accesskey     "o">
 
-
+<!ENTITY  suggestionSettings.label      "Kemmañ ar gwellvezioù evit ar c'hinnigoù luskerioù enklask...">
+<!ENTITY  suggestionSettings.accesskey  "g">
 
 <!ENTITY  acceptCookies.label           "Degemer toupinoù adalek lec'hiennoù">
 <!ENTITY  acceptCookies.accesskey       "D">
