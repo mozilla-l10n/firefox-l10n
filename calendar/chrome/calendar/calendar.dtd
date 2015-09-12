@@ -24,7 +24,7 @@
 <!ENTITY calendar.events.filter.next7Days.label "الأحداث في السبع أيّام القادمة">
 <!ENTITY calendar.events.filter.next14Days.label "الأحداث في الأربعة عشر يوما القادمة">
 <!ENTITY calendar.events.filter.next31Days.label "الأحداث في الإحدى والثلاثين يوما القادمة">
-
+<!ENTITY calendar.events.filter.thisCalendarMonth.label "أحداث هذا الشهر">
 <!-- LOCALIZATION NOTE(calendar.unifinder.tree.done.tooltip)
    - This label and tooltip is used for the column with the checkbox in the
    - task tree view. -->
@@ -117,8 +117,8 @@
 <!ENTITY calendar.task.filter.next7days.accesskey   "س">
 <!ENTITY calendar.task.filter.notstarted.label      "المهام التي لم تبدأ">
 <!ENTITY calendar.task.filter.notstarted.accesskey  "ت">
-
-
+<!ENTITY calendar.task.filter.overdue.label         "المهام الفائت موعدها">
+<!ENTITY calendar.task.filter.overdue.accesskey     "ف">
 <!ENTITY calendar.task.filter.completed.label       "المهام المكتملة">
 <!ENTITY calendar.task.filter.completed.accesskey   "ك">
 <!ENTITY calendar.task.filter.open.label            "المهام غير المكتملة">
@@ -292,7 +292,7 @@
 <!ENTITY calendar.alarm.details.label               "التفاصيل…" >
 
 <!ENTITY calendar.alarm.snoozefor.label             "غفوة لمدة" >
-
+<!ENTITY calendar.alarm.snoozeallfor.label          "غفوة الكل لمدة" >
 <!ENTITY calendar.alarm.title.label                 "تذكيرات التقويمات" >
 <!ENTITY calendar.alarm.dismiss.label               "ارفض" >
 <!ENTITY calendar.alarm.dismissall.label            "ارفض الكل" >
