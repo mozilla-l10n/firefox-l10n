@@ -106,6 +106,7 @@
 <!ENTITY cmd.uninstallAddon.label             "הסרה">
 <!ENTITY cmd.uninstallAddon.accesskey         "ה">
 <!ENTITY cmd.debugAddon.label                 "ניפוי שגיאות">
+<!ENTITY cmd.debugAddon.accesskey             "נ">
 <!ENTITY cmd.showPreferencesWin.label         "אפשרויות">
 <!ENTITY cmd.showPreferencesWin.tooltip       "שנה את האפשרויות של תוספת זו">
 <!ENTITY cmd.showPreferencesUnix.label        "העדפות">
