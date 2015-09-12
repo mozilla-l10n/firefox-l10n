@@ -36,7 +36,7 @@
 <!ENTITY happy.noThanks            "Nu mulțumesc">
 
 <!ENTITY sad.header                "O, nu!">
-<!ENTITY sad.message               "Ne pare rău că ai întâmpinat niște probleme cu &brandShortName;. Spune-ne ce s-a întâmplat astfel încât să o putem remedia.">
+<!ENTITY sad.message               "Ne pare rău că ai întâmpinat niște probleme cu &brandShortName;. Te rugăm să ne spui ce s-a întâmplat astfel încât să o putem remedia.">
 <!ENTITY sad.placeholder           "Introdu feedbackul aici">
 <!ENTITY sad.lastSite2             "Include site-ul vizitat ultima dată">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
