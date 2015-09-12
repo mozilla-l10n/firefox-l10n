@@ -2,12 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                  "ব্যক্তিগত ব্ৰাউছ কাৰ্য্য">
+<!ENTITY privatebrowsingpage.title "ব্যক্তিগত ব্ৰাউছ কাৰ্য্য">
+<!-- Localisation note: the plus sign here is a shorthand way of expressing the word "and". Contextually the privatebrowsingpage.title.private string
+                        is used as a title, with the privatebrowsingpage.title string preceding it but on a separate line.
+                        So the final line will say "Private Browsing + Tracking Protection". -->
+<!-- Localization note (privatebrowsingpage.title.normal1): "Private Browsing"
+     is capitalized in English to be consistent with our existing uses of the
+     term. -->
 
-<!ENTITY privatebrowsingpage.issueDesc.private      "আপুনি এটা নতুন ব্যক্তিগত টেব খোলিছে।">
-<!ENTITY privatebrowsingpage.issueDesc.normal       "আপুনি এটা ব্যক্তিগত টেবত নাই।">
+<!-- Localization note (privatebrowsingpage.description.normal2): "Private
+     Browsing" is capitalized in English to be consistent with our existing uses
+     of the term. -->
 
-<!ENTITY privatebrowsingpage.description            "ব্যক্তিগত টেবসমূহত, &brandShortName; এ আপোনাৰ ব্ৰাউছ কৰাৰ ইতিহাস, সন্ধানৰ ইতিহাস, ডাউনল'ডৰ ইতিহাস, ৱেব ফৰ্মৰ ইতিহাস, কুকি, বা অস্থায়ী ইন্টাৰনেট ফাইল নাৰাখে। কিন্তু, ডাউনল'ড কৰা ফাইল আৰু পত্ৰচিহ্নসমূহ ৰখা হ'ব।">
-<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private;&privatebrowsingpage.description;">
+<!ENTITY privatebrowsingpage.link.private "অধিক জানিব খোজে?">
 
-<!ENTITY privatebrowsingpage.moreInfo               "যদিও এই ডিভাইচৰ আপোনাৰ ব্ৰাউছিং ইতিহাসৰ কোনো ৰেকৰ্ড নাথাকিব, আপোনাৰ ইন্টাৰনেট সেৱা প্ৰদানকাৰীয়ে আপুনি দৰ্শন কৰা পৃষ্ঠাৰ কথা জানিব পাৰিব।">

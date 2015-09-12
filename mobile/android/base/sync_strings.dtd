@@ -4,8 +4,8 @@
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
 
-<!ENTITY syncBrand.fullName.label "Firefox সংমিহলি">
-<!ENTITY syncBrand.shortName.label "সংমিহলি কৰক">
+<!ENTITY syncBrand.fullName.label "Firefox চিঙ্ক">
+<!ENTITY syncBrand.shortName.label "চিঙ্ক কৰক">
 <!-- Main titles. -->
 
 <!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
@@ -46,9 +46,9 @@
 <!-- Setup Success -->
 
 <!ENTITY sync.title.success.label "সংস্থাপন সম্পূৰ্ণ">
-<!ENTITY sync.subtitle.success.label1 "আপোনাৰ তথ্যবোৰ পটভূমিত ডাউনল\u0027ড কৰা হৈ আছে। আপুনি সংহতিসমূহলৈ গৈ আপোনাৰ একাউণ্ট যতনাব পাৰে, অথবা &brandShortName; ৰ সৈতে ব্ৰাউছ কৰা আৰম্ভ কৰিব পাৰে।">
-<!ENTITY sync.settings.label "সংহতিসমূহ">
-<!ENTITY sync.subtitle.manage.label1 "আপোনাৰ &syncBrand.fullName.label; একাউণ্ট ইতিমধ্যে সংস্থাপিত আছে। আপুনি সংহতিসমূহলৈ গৈ আপোনাৰ একাউণ্ট যতনাব পাৰে, অথবা &brandShortName; আৰম্ভ কৰিব পাৰে।">
+<!ENTITY sync.subtitle.success.label1 "আপোনাৰ তথ্যবোৰ পটভূমিত ডাউনল\u0027ড কৰা হৈছে। আপুনি ছেটিংছ্লৈ গৈ আপোনাৰ একাউণ্ট যতনাব পাৰে, অথবা &brandShortName; ৰ সৈতে ব্ৰাউছ কৰা আৰম্ভ কৰিব পাৰে।">
+<!ENTITY sync.settings.label "ছেটিংছ্">
+<!ENTITY sync.subtitle.manage.label1 "আপোনাৰ &syncBrand.fullName.label; একাউণ্ট ইতিমধ্যে সংস্থাপিত আছে। আপুনি ছেটিংছ্লৈ গৈ আপোনাৰ একাউণ্ট যতনাব পাৰে, অথবা &brandShortName; আৰম্ভ কৰিব পাৰে।">
 <!-- Pair Device -->
 
 <!ENTITY sync.pair.tryagain.label "অনুগ্ৰহ কৰি পুনৰ চেষ্টা কৰক।">
@@ -59,10 +59,10 @@
 <!ENTITY sync.summary.pair.label "আপোনাৰ &syncBrand.shortName.label; একাউণ্টৰ লগত আন এটা ডিভাইচ সংযোগ কৰক">
 <!-- Configure Engines -->
 
-<!ENTITY sync.configure.engines.title.label "কি সংমিহলি কৰা হব">
-<!ENTITY sync.configure.engines.sync.my.title.label "সংমিহলি কৰক আপোনাৰ…">
+<!ENTITY sync.configure.engines.title.label "কি চিঙ্ক কৰা হব">
+<!ENTITY sync.configure.engines.sync.my.title.label "চিঙ্ক কৰক আপোনাৰ…">
 <!ENTITY sync.configure.engines.title.bookmarks "পত্ৰচিহ্নসমূহ">
-<!ENTITY sync.configure.engines.title.passwords "পাছৱৰ্ডসমূহ">
+
 <!ENTITY sync.configure.engines.title.history "ইতিহাস">
 <!ENTITY sync.configure.engines.title.tabs "টেবসমূহ">
 <!-- Common text -->
@@ -100,7 +100,7 @@
 
 <!ENTITY sync.invalidcreds.label "ভুল একাউণ্ট নাম অথবা পাছৱৰ্ড">
 <!ENTITY sync.invalidserver.label "অনুগ্ৰহ কৰি এটা বৈধ চাৰ্ভাৰ URL সুমুৱাওক">
-<!ENTITY sync.verifying.label "সতা সত্য নিৰূপণ কৰা হৈ আছে…">
+<!ENTITY sync.verifying.label "সত্যাপন কৰা হৈছে…">
 <!ENTITY sync.new.recoverykey.status.incorrect "উদ্ধাৰ কি\u0027 ভুল হৈছে। অনুগ্ৰহ কৰি পুনৰ চেষ্টা কৰক।">
 <!-- Send tab to device. -->
 
@@ -117,7 +117,7 @@
 <!ENTITY fxaccount_full_label "Firefox একাউণ্টসমূহ">
 
 <!ENTITY fxaccount_custom_server_account_title "চাৰ্ভাৰত একাওন্ট ব্যৱহাৰ কৰা">
-<!ENTITY fxaccount_custom_server_sync_title "চাৰ্ভাৰত সংমিহলি তথ্য সংৰক্ষণ কৰা">
+<!ENTITY fxaccount_custom_server_sync_title "চাৰ্ভাৰত চিঙ্ক তথ্য সংৰক্ষণ কৰা">
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "গোপনীয়তা জাননি">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label; লৈ স্বাগতম">
-<!ENTITY fxaccount_getting_started_description "আপোনাৰ টেবসমূহ, পত্ৰচিহ্নসমূহ, পাছৱৰ্ডসমূহ আৰু অধিক সংমিহলি কৰিবলে ছাইন ইন কৰক।">
+
 <!ENTITY fxaccount_getting_started_get_started "আৰম্ভ কৰক">
 <!ENTITY fxaccount_getting_started_old_firefox "&syncBrand.shortName.label; ৰ এটা পুৰনি সংস্কৰণ ব্যৱহাৰ কৰি আছে?">
 <!-- Localization note: the Firefox below should not change with the
@@ -156,7 +156,7 @@
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "আগবাঢ়ি, মই Firefox cloud সেৱাসমূহৰ &formatS1; আৰু &formatS2; মানি লৈছো">
 <!ENTITY fxaccount_create_account_button "পৰৱৰ্তী">
-<!ENTITY fxaccount_create_account_choose_what_to_sync "কি সংমিহলি কৰা হব বাছক">
+<!ENTITY fxaccount_create_account_choose_what_to_sync "কি চিঙ্ক কৰা হব বাছক">
 <!ENTITY fxaccount_create_account_sign_in_instead "ইতিমধ্যে এটা একাউণ্ট আছে? ছাইন ইন কৰক">
 <!ENTITY fxaccount_create_account_1990_or_earlier "1990 অথবা আগৰ">
 <!ENTITY fxaccount_create_account_unknown_error "একাউণ্ট সৃষ্টি কৰিব পৰা নগল">
@@ -183,7 +183,7 @@
 <!ENTITY fxaccount_sign_in_unknown_error "ছাইন ইন কৰিব পৰা নগ\u0027ল">
 
 <!ENTITY fxaccount_account_verified_sub_header "একাউণ্ট সতাসত্য নিৰূপণ কৰা হল">
-<!ENTITY fxaccount_account_verified_description2 "আপোনাৰ তথ্য কিছু সময়ত সংমিহলি আৰম্ভ কৰিব">
+<!ENTITY fxaccount_account_verified_description2 "আপোনাৰ তথ্য কিছু সময়ত চিঙ্ক আৰম্ভ কৰিব">
 
 <!ENTITY fxaccount_migration_finished_header "উন্নয়ন সমাপ্ত">
 
@@ -198,21 +198,21 @@
 <!ENTITY fxaccount_status_header2 "Firefox একাউণ্ট">
 <!ENTITY fxaccount_status_signed_in_as "এই ধৰণে ছাইন ইন কৰক">
 <!ENTITY fxaccount_status_auth_server "একাওন্ট চাৰ্ভাৰ">
-<!ENTITY fxaccount_status_sync_now "এতিয়া সংমিহলি কৰক">
-<!ENTITY fxaccount_status_syncing2 "সংমিহলি কৰা হৈছে…">
+<!ENTITY fxaccount_status_sync_now "এতিয়া চিঙ্ক কৰক">
+<!ENTITY fxaccount_status_syncing2 "চিঙ্ক কৰা হৈছে…">
 <!ENTITY fxaccount_status_device_name "ডিভাইচৰ নাম">
-<!ENTITY fxaccount_status_sync_server "সংমিহলি চাৰ্ভাৰ">
+<!ENTITY fxaccount_status_sync_server "চিঙ্ক চাৰ্ভাৰ">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: সামৰ্থবান">
 <!ENTITY fxaccount_status_needs_verification2 "আপোনাৰ একাউণ্ট সত্যাপন কৰাৰ প্ৰয়োজন। সত্যাপন ইমেইল পুনৰ পঠিয়াবলৈ টেপ কৰক।">
 <!ENTITY fxaccount_status_needs_credentials "সংযোগ কৰিব নোৱাৰি। ছাইন ইন কৰিবলে টেপ কৰক।">
 <!ENTITY fxaccount_status_needs_upgrade "ছাইন ইন কৰিবলৈ আপুনি &brandShortName; ক উন্নত কৰিব লাগিব।">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; সংস্থাপিত, কিন্তু স্বচালিতভাৱে সংমিহলি কৰা নাই। Android সংহতিসমূহ &gt; তথ্য ব্যৱহাৰত “তথ্য স্ব-সংমিহলি কৰক” টগল কৰক।">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; সংস্থাপিত, কিন্তু স্বচালিতভাৱে সংমিহলি কৰা নাই। Android সংহতিসমূহ &gt; একাওণ্টসমূহত “তথ্য স্ব-সংমিহলি কৰক” টগল কৰক।">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; সংস্থাপিত, কিন্তু স্বচালিতভাৱে চিঙ্ক কৰা নাই। Android ছেটিংছ্ &gt; তথ্য ব্যৱহাৰত “তথ্য স্ব-চিঙ্ক কৰক” টগল কৰক।">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; সংস্থাপিত, কিন্তু স্বচালিতভাৱে চিঙ্ক কৰা নাই। Android ছেটিংছ্ &gt; একাওণ্টসমূহত “তথ্য স্ব-চিঙ্ক কৰক” টগল কৰক।">
 <!ENTITY fxaccount_status_needs_finish_migrating "আপোনাৰ নতুন Firefox একাওণ্টত ছাইন ইন কৰিবলে টেপ কৰক।">
 <!ENTITY fxaccount_status_bookmarks "পত্ৰচিহ্নসমূহ">
 <!ENTITY fxaccount_status_history "ইতিহাস">
-<!ENTITY fxaccount_status_passwords "পাছৱৰ্ডসমূহ">
+
 <!ENTITY fxaccount_status_tabs "খোলা টেবসমূহ">
 <!ENTITY fxaccount_status_legal "আইনসন্মত" >
 <!-- Localization note: when tapped, the following two strings link to
@@ -224,12 +224,13 @@
 <!ENTITY fxaccount_status_more "অধিক&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "Firefox একাওন্ট আতৰাব নে?">
-<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; এ আপোনাৰ একাওন্টৰ সৈতে সংমিহলি বন্ধ কৰিব, কিন্তু এই ডিভাইচত আপোনাৰ কোনো ব্ৰাউছিং তথ্য নমচিব।">
+<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; এ আপোনাৰ একাওন্টৰ সৈতে চিঙ্ক বন্ধ কৰিব, কিন্তু এই ডিভাইচত আপোনাৰ কোনো ব্ৰাউছিং তথ্য নমচিব।">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "Firefox একাওন্ট &formatS; আতৰোৱা হল।">
 
 <!ENTITY fxaccount_remove_account_menu_item "একাওন্ট আতৰাওক">
+
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 

@@ -94,15 +94,16 @@
 
 <!ENTITY proxyConnectFailure.title "প্ৰক্সি চাৰ্ভাৰে সংযোগ প্ৰত্যাখ্যান কৰিছে">
 <!ENTITY proxyConnectFailure.longDesc "<ul> 
-<li>প্ৰক্সিৰ পছন্দ শুদ্ধ হোৱাটো পৰীক্ষা কৰক।</li> 
-<li>প্ৰক্সি চাৰ্ভাৰ সঠিকভাবে কাম কৰা নিশ্চিত কৰিবলৈ আপোনাৰ নেটৱৰ্ক প্ৰশাসকক সংযোগ কৰক।</li> 
+<li>প্ৰক্সিৰ ছেটিংছ শুদ্ধ হোৱাটো সুনিশ্চিত কৰক।</li> 
+<li>প্ৰক্সি চাৰ্ভাৰ সঠিকভাবে কাম কৰা সুনিশ্চিত কৰিবলৈ আপোনাৰ নেটৱৰ্ক প্ৰশাসকক 
+সংযোগ কৰক।</li> 
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "প্ৰক্সি চাৰ্ভাৰ পোৱা ন'গ'ল">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> 
-<li>প্ৰক্সি সংহতিসমূহ সঠিক আছে নে সুনিশ্চিত কৰক।</li> 
+<li>প্ৰক্সি ছেটিংছ্ সঠিক আছে নে সুনিশ্চিত কৰক।</li> 
 <li>আপোনাৰ ডিভাইচৰ এটা কাৰ্য্যকৰী তথ্য আৰু Wi-Fi সংযোগ থকাটো সুনিশ্চিত কৰক। 
 <button id='wifi'>Wi-Fi সামৰ্থবান কৰক</button> 
 </li> 
@@ -110,13 +111,15 @@
 
 <!ENTITY redirectLoop.title "এই পৃষ্ঠাই শুদ্ধভাবে পুনৰ দিশ দিয়া নাই">
 <!ENTITY redirectLoop.longDesc "<ul> 
-<li>এই সমস্যা কেতিয়াবা কুকি নিষ্ক্ৰীয় কৰি বা গ্ৰহণ নকৰি হ'ব পাৰে।</li> 
+<li>এই সমস্যা কেতিয়াবা কুকি অসামৰ্থবান কৰাৰ বাবে অথবা গ্ৰহণ নকৰাৰ বাবে 
+হ'ব পাৰে।</li> 
 </ul>">
 
 <!ENTITY unknownSocketType.title "চাৰ্ভাৰৰ পৰা অপ্ৰত্যাশিত উত্তৰ">
 <!ENTITY unknownSocketType.longDesc "<ul> 
-<li>আপোনাৰ চিস্টেমত ব্যক্তিগত সুৰক্ষা ব্যৱস্থাপক ইনস্টল হোৱা সুনিশ্চিত কৰক।</li> 
-<li>এইটো চাৰ্ভাৰত মান প্ৰাপ্ত নথকা সংৰূপৰ বাবেও হ'ব পাৰে।</li> 
+<li>আপোনাৰ চিস্টেমত ব্যক্তিগত সুৰক্ষা ব্যৱস্থাপক থকাটো 
+সুনিশ্চিত কৰক।</li> 
+<li>ই চাৰ্ভাৰত মান প্ৰাপ্ত নথকা সংৰূপৰ বাবেও হ'ব পাৰে।</li> 
 </ul>">
 
 <!ENTITY nssFailure2.title "সুৰক্ষিত সংযোগ ব্যৰ্থ হৈছে">
@@ -127,8 +130,10 @@
 
 <!ENTITY nssBadCert.title "সুৰক্ষিত সংযোগ ব্যৰ্থ হৈছে">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>এই সমস্যা চাৰ্ভাৰৰ সংৰূপৰ বাবেও হ'ব পাৰে, বা কোনোবা বেলেগে চাৰ্ভাৰ হোৱাৰ ভাও ধৰিছে।</li> 
-<li>যদি অতিতত এই চাৰ্ভাৰৰ লগত সফলভাবে সংযোগ কৰিছে, ভুল অস্থায়ী হ'ব পাৰে, আৰু আপুনি পিছত পুনৰ চেষ্টা কৰিব পাৰে।</li> 
+<li>এই সমস্যা চাৰ্ভাৰৰ সংৰূপৰ বাবেও হ'ব পাৰে, অথবা কোনোবাই চাৰ্ভাৰ 
+আয়ত্ত কৰাৰ চেষ্টা কৰাও হ'ব পাৰে।</li> 
+<li>যদি আপুনি আগতে এই চাৰ্ভাৰৰ লগত সফলভাবে সংযোগ কৰিছে, ত্ৰুটি 
+অস্থায়ী হ'ব পাৰে, আৰু আপুনি পিছত পুনৰ চেষ্টা কৰিব পাৰে।</li> 
 </ul>">
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->

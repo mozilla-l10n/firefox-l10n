@@ -10,7 +10,7 @@
 <!ENTITY aboutPage.checkForUpdates.checking     "আপডেইটসমূহ সন্ধান কৰা হৈছে...">
 <!ENTITY aboutPage.checkForUpdates.none         "কোনো আপডেইট উপলব্ধ নাই">
 <!ENTITY aboutPage.checkForUpdates.available2   "আপডেইট ডাউনল'ড কৰক">
-<!ENTITY aboutPage.checkForUpdates.downloading  "আপডেইট ডাউনল'ড কৰা হৈ আছে…">
+<!ENTITY aboutPage.checkForUpdates.downloading  "আপডেইট ডাউনল'ড কৰা হৈছে…">
 <!ENTITY aboutPage.checkForUpdates.downloaded2  "আপডেইট ইনস্টল কৰক">
 <!ENTITY aboutPage.faq.label                    "FAQ">
 <!ENTITY aboutPage.support.label                "সমৰ্থন">
