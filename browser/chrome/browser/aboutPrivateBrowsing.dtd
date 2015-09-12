@@ -57,6 +57,7 @@
 <!ENTITY trackingProtection.state.enabled      "ILAYITILE">
 <!ENTITY trackingProtection.state.disabled     "ICIMILE">
 
+<!ENTITY trackingProtection.description1       "IiFestile Zabucala ngoku zibhloka iinxalenye zephepha ezinokutreka ukubhrawuza kwakho.">
 
 <!ENTITY trackingProtection.disable            "Cima Ukhuseleko Lokutreka">
 <!ENTITY trackingProtection.enable             "Vula Ukhuseleko Lokutreka">
