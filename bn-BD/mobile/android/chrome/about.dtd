@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "&brandShortName; সম্পর্কে">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; হচ্ছে পরীক্ষামূলক এবং সম্ভবত পরিবর্তনশীল।">
-<!ENTITY aboutPage.telemetryStart               "এটি স্বয়ংক্রিয়ভাবে সম্পাদিত কার্য, হার্ডওয়্যার, ব্যবহার এবং স্বনির্ধারণ সম্পর্কে তথ্য প্রেরণ করে">
+<!ENTITY aboutPage.telemetryStart               " এটি স্বয়ংক্রিয়ভাবে সম্পাদিত কার্য, হার্ডওয়্যার, ব্যবহার এবং স্বনির্ধারণ সম্পর্কে তথ্য প্রেরণ করে ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 "&brandShortName; কে উন্নত করতে সহায়তা করা।">
+<!ENTITY aboutPage.telemetryEnd                 " &brandShortName; কে উন্নত করতে সহায়তা করা।">
 <!ENTITY aboutPage.checkForUpdates.link         "হালনাগাদ করতে পরীক্ষা করুন»">
 <!ENTITY aboutPage.checkForUpdates.checking     "হালনাগাদ অনুসন্ধান করা হচ্ছে...">
 <!ENTITY aboutPage.checkForUpdates.none         "কোন হালনাগাদ উপস্থিত নেই">
