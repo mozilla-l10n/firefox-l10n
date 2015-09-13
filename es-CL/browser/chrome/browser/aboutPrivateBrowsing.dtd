@@ -18,7 +18,6 @@
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Archivos temporales">
 
 <!ENTITY aboutPrivateBrowsing.info.saved       "Guardado">
-<!ENTITY aboutPrivateBrowsing.info.kept        "Mantendrá">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Descargas">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Marcadores">
 

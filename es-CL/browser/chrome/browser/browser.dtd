@@ -80,6 +80,7 @@
 <!ENTITY fxaSignIn.label "Conectarse a &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Abrir preferencias de &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Reconectarse a &syncBrand.shortName.label;">
+<!ENTITY fxaUnverified.label "Verifique su cuenta">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; activado">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; empezará a sincronizarse momentáneamente.">
 <!ENTITY syncErrorPanel.heading "No se puede conectar a &syncBrand.shortName.label;">
@@ -301,8 +302,11 @@
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "¿Desea mejorar su experiencia de búsqueda con sugerencias?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Aprender más…">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "No">
+<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Si">
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 
 <!ENTITY searchFocus.commandkey "k">
 <!ENTITY searchFocus.commandkey2 "e">
