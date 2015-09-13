@@ -11,24 +11,6 @@
 <!ENTITY window.title "Consola web">
 <!ENTITY browserConsole.title "Consola del navegador">
 
-<!ENTITY networkPanel.requestURLColon             "URL solicitada:">
-<!ENTITY networkPanel.requestMethodColon          "Método solicitado:">
-<!ENTITY networkPanel.statusCodeColon             "Código de estado:">
-
-<!ENTITY networkPanel.requestHeaders              "Encabezados solicitados">
-<!ENTITY networkPanel.responseCookie              "Cookie recibida">
-<!ENTITY networkPanel.requestCookie               "Cookie enviada">
-<!ENTITY networkPanel.requestBody                 "Cuerpo solicitado">
-<!ENTITY networkPanel.requestFormData             "Datos de formulario enviados">
-
-<!ENTITY networkPanel.responseHeaders             "Encabezados de respuesta">
-<!ENTITY networkPanel.responseBody                "Cuerpo de respuesta">
-<!ENTITY networkPanel.responseBodyCached          "Datos en caché">
-<!ENTITY networkPanel.responseBodyUnknownType     "Tipo de contenido desconocido">
-<!ENTITY networkPanel.responseNoBody              "No hay cuerpo de respuesta">
-<!ENTITY networkPanel.responseImage               "Imagen recibida">
-<!ENTITY networkPanel.responseImageCached         "Imagen en caché">
-
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
 <!ENTITY saveBodies.label     "Registrar pedidos y cuerpos de respuesta">
