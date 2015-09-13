@@ -230,6 +230,7 @@
 <!ENTITY fxaccount_remove_account_toast 'Firefox-tili &formatS; poistettiin.'>
 
 <!ENTITY fxaccount_remove_account_menu_item 'Poista tili'>
+<!ENTITY fxaccount_enable_debug_mode 'Enable Debug Mode'>
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
