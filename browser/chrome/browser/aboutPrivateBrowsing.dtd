@@ -8,7 +8,7 @@
 
 <!ENTITY privateBrowsing.title                 "Navegación privada">
 
-<!ENTITY aboutPrivateBrowsing.width            "30em">
+<!ENTITY aboutPrivateBrowsing.width            "28em">
 <!ENTITY aboutPrivateBrowsing.title            "Está navegando de forma privada">
 <!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; no recordará ningún historial para esta ventana.">
 
