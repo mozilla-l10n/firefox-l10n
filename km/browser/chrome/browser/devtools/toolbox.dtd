@@ -32,6 +32,8 @@
 <!ENTITY toolboxFramesTooltip          "ជ្រើស​ស៊ុម​ជា​ឯកសារ​គោលដៅ​បច្ចុប្បន្ន">
 <!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
   -  shown next to error details when the Browser Toolbox is unable to open. -->
+
+<!ENTITY browserToolboxErrorMessage          "មាន​កំហុស​ពេល​បើក​ប្រអប់​​ឧបករណ៍​កម្មវិធី​​អ៊ីនធឺណិត៖">
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 
@@ -82,6 +84,8 @@
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 
+<!ENTITY options.enableChrome.label5    "បើក​ប្រអប់​ឧបករណ៍​កែ​កំហុស​កម្មវិធី​ផ្នែក​បន្ថែម និង​កម្មវិធី​អ៊ីនធឺណិត Chrome">
+<!ENTITY options.enableChrome.tooltip3  "ការ​បើក​ជម្រើស​នេះ​​នឹង​អនុញ្ញាត​ឲ្យ​អ្នក​ប្រើ​ឧបករណ៍​អ្នក​អភិវឌ្ឍ​ជា​ច្រើន​នៅ​ក្នុង​បរិបទ​កម្មវិធី​អ៊ីនធឺណិត (តាម ឧបករណ៍ > អ្នក​អភិវឌ្ឍ​បណ្ដាញ > ប្រអប់​ឧបករណ៍​កម្មវិធី​អ៊ីនធឺណិត) និង​កែ​កំហុស​កម្មវិធី​ផ្នែក​បន្ថែម​ពី​កម្មវិធី​គ្រប់គ្រង​ផ្នែក​បន្ថែម">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
@@ -92,6 +96,8 @@
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
   -  boolean preference in about:config, in the options panel. -->
 
+<!ENTITY options.enableWorkers.label    "បើក​ការ​កែ​កំហុស Worker (នៅ​ក្នុង​ការ​អភិវឌ្ឍ)">
+<!ENTITY options.enableWorkers.tooltip  "ការ​បើក​ជម្រើស​នេះ​​នឹង​អនុញ្ញាត​ឲ្យ​ឧបករណ៍​អ្នក​អភិវឌ្ឍ​ធ្វើការ​កែ​កំហុស​ Workers">
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->

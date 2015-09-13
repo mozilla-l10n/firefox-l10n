@@ -14,6 +14,7 @@
 
 
 
+<!ENTITY aboutTelemetry.choosePing "ជ្រើស​ភីង៖">
 
 
 
@@ -22,6 +23,7 @@
 
 <!ENTITY aboutTelemetry.generalDataSection "  ទិន្នន័យ​ទូទៅ">
 
+<!ENTITY aboutTelemetry.environmentDataSection "  ទិន្នន័យ​បរិស្ថាន">
 
 <!ENTITY aboutTelemetry.telemetryLogSection "  កំណត់​ហេតុ Telemetry">
 

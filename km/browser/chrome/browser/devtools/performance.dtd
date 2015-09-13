@@ -76,7 +76,7 @@
 
 <!ENTITY performanceUI.table.function                 "​អនុគមន៍">
 
-
+<!ENTITY performanceUI.table.totalAlloc               "ការបែងចែក​គំរូសរុប">
 
 
 
@@ -86,6 +86,8 @@
 <!ENTITY performanceUI.newtab.tooltiptext "បន្ថែម​ផ្ទាំង​ថ្មី​ពី​ជម្រើស">
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
+
+<!ENTITY performanceUI.options.filter.tooltiptext "ជ្រើសរើស​ទិន្នន័យ​អ្វី​ត្រូវ​បង្ហាញ​ក្នុង​កាលប្រវត្តិ​">
 <!-- LOCALIZATION NOTE (performanceUI.options.tooltiptext): This is the tooltip
   -  for the options button. -->
 
@@ -122,6 +124,8 @@
   -  is displayed next to a checkbox determining whether or not allocation
   -  measurements are enabled. -->
 
+<!ENTITY performanceUI.enableAllocations             "ការ​បែងចែក​កំណត់ត្រា">
+
 <!-- LOCALIZATION NOTE (performanceUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
@@ -132,14 +136,20 @@
   -  is displayed next to a checkbox determining whether or not JIT optimization data
   -  should be recorded. -->
 
+<!ENTITY performanceUI.enableJITOptimizations             "កត់ត្រា​ការធ្វើឲ្យប្រសើរឡើង​នៃ JIT">
+
 <!-- LOCALIZATION NOTE (performanceUI.JITOptimizationsTitle): This string
   -  is displayed as the title of the JIT Optimizations panel. -->
 <!-- LOCALIZATION NOTE (performanceUI.console.recordingNoticeStart/recordingNoticeEnd):
   -  This string is displayed when a recording is selected that started via console.profile.
   -  Wraps the command used to start, like "Currently recording via console.profile("label")" -->
+
+<!ENTITY performanceUI.console.recordingNoticeStart "កត់ត្រា​បច្ចុប្បន្ន​តាម">
 <!ENTITY performanceUI.console.recordingNoticeEnd   "">
 <!-- LOCALIZATION NOTE (performanceUI.console.stopCommandStart/stopCommandEnd):
   -  This string is displayed when a recording is selected that started via console.profile.
   -  Indicates how to stop the recording, wrapping the command, like
   -  "Stop recording by entering console.profileEnd("label") into the console." -->
+
+<!ENTITY performanceUI.console.stopCommandStart "ឈប់​កត់ត្រា​ទុក​ដោយ​​ការ​បញ្ចូល">
 
