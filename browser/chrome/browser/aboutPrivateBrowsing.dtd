@@ -13,6 +13,8 @@
      of the Tracking Protection section, and in general not much larger than
      30em to prevent the sections from wrapping on smaller window sizes.
      -->
+
+<!ENTITY aboutPrivateBrowsing.width            "30em">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
      aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
      These strings will be replaced by aboutPrivateBrowsing.forgotten and
@@ -23,16 +25,17 @@
 <!ENTITY aboutPrivateBrowsing.subtitle         "Leiho honetan &brandShortName;(e)k ez du historiarik gogoratuko.">
 
 <!ENTITY aboutPrivateBrowsing.forgotten        "Leiho honetan &brandShortName;(e)k ez du gogoratuko:">
-
+<!ENTITY aboutPrivateBrowsing.info.forgotten   "Gorde gabe">
 <!ENTITY aboutPrivateBrowsing.info.history     "Historia">
 <!ENTITY aboutPrivateBrowsing.info.searches    "Bilaketak">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Cookieak">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Behin-behineko fitxategiak">
 
-
+<!ENTITY aboutPrivateBrowsing.info.kept        "Gordeta">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Deskargak">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Laster-markak">
 
+<!ENTITY aboutPrivateBrowsing.note1            "Kontuan izan zure enplegatzaileak edo Interneteko zerbitzu-hornitzaileak bisitatzen dituzun orrien jarraipena egin dezakeela.">
 <!ENTITY aboutPrivateBrowsing.learnMore        "Argibide gehiago.">
 <!-- LOCALIZATION NOTE (trackingProtection.width):
      Width of the Tracking Protection section. It is fine for the enabled or
@@ -49,7 +52,7 @@
      Width of the element representing the enabled or disabled indicator.
      -->
 
-<!ENTITY trackingProtection.state.width        "6ch">
+<!ENTITY trackingProtection.state.width        "16ch">
 <!ENTITY trackingProtection.state.enabled      "AKTIBATUTA">
 <!ENTITY trackingProtection.state.disabled     "DESAKTIBATUTA">
 
