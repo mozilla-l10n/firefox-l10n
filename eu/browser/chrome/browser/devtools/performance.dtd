@@ -52,6 +52,8 @@
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
 
+<!ENTITY performanceUI.toolbar.waterfall "Ur-jauzia">
+<!ENTITY performanceUI.toolbar.js-calltree "Deien zuhaitza">
 <!ENTITY performanceUI.toolbar.memory-calltree "Esleipenak">
 <!ENTITY performanceUI.toolbar.js-flamegraph "JS sugar-diagrama">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "Esleipenen sugar-diagrama">

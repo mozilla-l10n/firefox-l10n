@@ -6,12 +6,12 @@
 
 
 <!ENTITY doNotTrackInfo.label          "Argibide gehiago">
-
-
-
-
-
-
+<!ENTITY trackingProtection5.label     "Erabili jarraipenaren babesa">
+<!ENTITY trackingProtection5.accesskey "j">
+<!ENTITY trackingProtectionLearnMore.label "Argibide gehiago">
+<!ENTITY trackingProtectionPBM5.label         "Erabili jarraipenaren babesa leiho pribatuetan">
+<!ENTITY trackingProtectionPBM5.accesskey     "h">
+<!ENTITY trackingProtectionPBMLearnMore.label "Argibide gehiago">
 
 <!ENTITY  history.label                 "Historia">
 
@@ -27,7 +27,8 @@
 <!ENTITY  locbar.searches.label         "Bilaketa-motor lehenetsiko erlazionatutako bilaketak">
 <!ENTITY  locbar.searches.accesskey     "z">
 
-
+<!ENTITY  suggestionSettings.label      "Aldatu bilaketa-motorren gomendioetarako hobespenak…">
+<!ENTITY  suggestionSettings.accesskey  "d">
 
 <!ENTITY  acceptCookies.label           "Onartu guneetako cookieak">
 <!ENTITY  acceptCookies.accesskey       "O">
