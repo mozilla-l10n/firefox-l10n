@@ -242,7 +242,7 @@
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
 <!ENTITY disabledUnsigned.description.start "নিম্নলিখিত অ্যাড-অনসমূহ &brandShortName; ব্যবহারের জন্য যাচাই করা হয় নি। আপনি যা করতে পারেন ">
 <!ENTITY disabledUnsigned.description.findAddonsLink "প্রতিস্থাপন খুঁজুন">
-<!ENTITY disabledUnsigned.description.end "অথবা ডেভেলপার কে জিজ্ঞাসা করুন যাচাই করার জন্য">
+<!ENTITY disabledUnsigned.description.end " অথবা ডেভেলপার কে জিজ্ঞাসা করুন যাচাই করার জন্য">
 <!ENTITY disabledUnsigned.learnMore "আপনাকে অনলাইনে নিরাপদ রাখতে সাহায্য করতে আমাদের প্রচেষ্টা সম্পর্কে আরও জানুন.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual

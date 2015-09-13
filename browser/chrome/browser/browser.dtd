@@ -569,16 +569,16 @@ items are mutually exclusive. -->
 <!ENTITY mediaUnmute.accesskey       "m">
 <!ENTITY mediaPlaybackRate.label     "চলার গতি l">
 <!ENTITY mediaPlaybackRate.accesskey "l">
-<!ENTITY mediaPlaybackRate050x.label "বিলম্বিত গতি (০.৫×) S">
+<!ENTITY mediaPlaybackRate050x.label "বিলম্বিত গতি (0.5×) S">
 <!ENTITY mediaPlaybackRate050x.accesskey "S">
 <!ENTITY mediaPlaybackRate100x.label "সাধারণ গতি N">
 <!ENTITY mediaPlaybackRate100x.accesskey "N">
-<!ENTITY mediaPlaybackRate150x.label "দ্রুত গতি (১.৫x) H">
+<!ENTITY mediaPlaybackRate150x.label "দ্রুত গতি (1.5x) H">
 <!ENTITY mediaPlaybackRate150x.accesskey "H">
 <!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "দ্রুত গতি (২x) L">
+<!ENTITY mediaPlaybackRate200x.label "দ্রুত গতি (2x) L">
 <!ENTITY mediaPlaybackRate200x.accesskey "L">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
@@ -835,7 +835,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
 
-<!ENTITY pluginNotification.width "36em">
+<!ENTITY pluginNotification.width "28em">
 
 <!ENTITY uiTour.infoPanel.close "বন্ধ">
 

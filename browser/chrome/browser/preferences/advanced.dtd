@@ -21,7 +21,7 @@
 <!ENTITY useAutoScroll.accesskey         "A">
 <!ENTITY useSmoothScrolling.label        "স্মুথ-স্ক্রলিং ব্যবহার করা হবে m">
 <!ENTITY useSmoothScrolling.accesskey    "m">
-<!ENTITY allowHWAccel.label              " হার্ডওয়্যার এক্সিলারেশন বিদ্যমান থাকলে তা ব্যবহার করা হবে r">
+<!ENTITY allowHWAccel.label              "হার্ডওয়্যার এক্সিলারেশন বিদ্যমান থাকলে তা ব্যবহার করা হবে r">
 <!ENTITY allowHWAccel.accesskey          "r">
 <!ENTITY checkSpelling.label             "টাইপ করার সময় বানান পরীক্ষা করা হবে (T)">
 <!ENTITY checkSpelling.accesskey         "T">
@@ -114,7 +114,7 @@
 <!ENTITY certs.ask.accesskey             "A">
 <!ENTITY enableOCSP.label                "ইস্যুকারীর OCSP উত্তরের রিপোর্ট সার্টিফিকেটের যোগ্যতা বাতিল করা হয়েছে।">
 <!ENTITY enableOCSP.accesskey            "Q">
-<!ENTITY viewCerts.label                 " সার্টিফিকেট দেখুন (V)">
+<!ENTITY viewCerts.label                 "সার্টিফিকেট দেখুন V">
 <!ENTITY viewCerts.accesskey             "V">
 <!ENTITY viewSecurityDevices.label       "নিরাপত্তা ডিভাইস (Y) ">
 <!ENTITY viewSecurityDevices.accesskey   "Y">

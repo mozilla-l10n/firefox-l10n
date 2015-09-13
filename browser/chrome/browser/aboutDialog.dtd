@@ -28,7 +28,7 @@
 <!ENTITY community.exp.middle       " হচ্ছে একটি ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "আন্তর্জাতিক সম্প্রদায় ">
-<!ENTITY community.exp.end          "যারা ওয়েব কে মুক্ত, সার্বজনীন ও প্রবেশযোগ্য রাখতে, একসাথে কাজ করে যাচ্ছে। ">
+<!ENTITY community.exp.end          " যারা ওয়েব কে মুক্ত, সার্বজনীন ও প্রবেশযোগ্য রাখতে, একসাথে কাজ করে যাচ্ছে। ">
 
 <!ENTITY community.start2           "&brandShortName; নকশা করেছে ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->

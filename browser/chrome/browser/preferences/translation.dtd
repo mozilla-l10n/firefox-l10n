@@ -13,7 +13,7 @@
 <!ENTITY removeAllLanguages.label         "সব ভাষা মুছে ফেলুন R">
 <!ENTITY removeAllLanguages.accesskey     "R">
 
-<!ENTITY noTranslationForSites.label      " নিচের সাইটগুলোর জন্য অনুবাদ প্রস্তাব করা হবেনা।">
+<!ENTITY noTranslationForSites.label      "নিচের সাইটগুলোর জন্য অনুবাদ প্রস্তাব করা হবেনা।">
 <!ENTITY treehead.siteName.label          "সাইট সমূহ">
 <!ENTITY removeSite.label                 "সাইট অপসারণ S">
 <!ENTITY removeSite.accesskey             "S">
