@@ -2,12 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                  "निज ब्राउजिंग">
+<!ENTITY privatebrowsingpage.title "निज ब्राउजिंग">
+<!-- Localisation note: the plus sign here is a shorthand way of expressing the word "and". Contextually the privatebrowsingpage.title.private string
+                        is used as a title, with the privatebrowsingpage.title string preceding it but on a separate line.
+                        So the final line will say "Private Browsing + Tracking Protection". -->
+<!-- Localization note (privatebrowsingpage.title.normal1): "Private Browsing"
+     is capitalized in English to be consistent with our existing uses of the
+     term. -->
 
-<!ENTITY privatebrowsingpage.issueDesc.private      "अहाँ एकटा नव निज टैब खोललक अछि.">
-<!ENTITY privatebrowsingpage.issueDesc.normal       "अहाँ एकटा निज टैब मे नहि कए रहल अछि.">
+<!-- Localization note (privatebrowsingpage.description.normal2): "Private
+     Browsing" is capitalized in English to be consistent with our existing uses
+     of the term. -->
 
-<!ENTITY privatebrowsingpage.description            "ककरो निज ब्राउजिंग सत्र मे, &brandShortName; ककरो ब्राउज़र इतिहास, खोज इतिहास, डाउनलोड इतिहास, खोज इतिहास, डाउनलोड इतिहास, वेब फ़ार्म इतिहास, कुकी, अथवा अस्थायी इंटरनेट  फाइलकेँ नहि रखताह.  मुदा, कोनो फाइल जकरा अहाँ डाउनलोड कएने छी अथवा पुस्तकचिह्न जकरा अहाँ बनैने छी केँ संरक्षित राखल जएताह.">
-<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+<!ENTITY privatebrowsingpage.link.private "आओर बेसी जानबाक लेल चाहैत छी?">
 
-<!ENTITY privatebrowsingpage.moreInfo               "जहँ एहि कंप्यूटर मे अहाँक ब्राउजिंग इतिहास क रिकार्ड नहि रहताह अहाँक इंटरनेट सेवा प्रदाता अथवा नियोक्ता अहाँक द्वारा देखल गेल पन्नासभकेँ ट्रैक कए सकैत अछि .">
