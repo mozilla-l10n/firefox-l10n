@@ -73,13 +73,13 @@
 <!ENTITY performanceUI.table.selfPercentage           "ថ្លៃ​ដើម​ផ្ទាល់ខ្លួន">
 <!ENTITY performanceUI.table.selfPercentage.tooltip   "ភាគរយ​នៃ​ពេលវេលា​បាន​ចំណាយ​សម្រាប់​តែ​ក្នុង​មុខងារ​នេះ​។​">
 <!ENTITY performanceUI.table.samples                  "គំរូ">
-
+<!ENTITY performanceUI.table.samples.tooltip          "ចំនួន​នៃ​ពេលវេលា​ដែល​មុខងារ​នេះ​បាន​ស្ថិត​នៅ​ជា​ជង់​នៅពេល​ម្ចាស់ប្រវត្តិរូប​យក​ជា​គំរូ​។​">
 <!ENTITY performanceUI.table.function                 "​អនុគមន៍">
-
+<!ENTITY performanceUI.table.function.tooltip         "ឈ្មោះ និង​ទីតាំង​ប្រភព​នៃ​មុខងារ​គំរូ។">
 <!ENTITY performanceUI.table.totalAlloc               "ការបែងចែក​គំរូសរុប">
-
-
-
+<!ENTITY performanceUI.table.totalAlloc.tooltip       "ចំនួន​សរុប​ការ​បែងចែក​វត្ថុ​​ដែល​បាន​ធ្វើ​ជា​គំរូ​នៅ​​ទីតាំង​នេះ និង​​ក្នុង​អ្នក​ហៅ។">
+<!ENTITY performanceUI.table.selfAlloc                "ការបែងចែក​គំរូ​ផ្ទាល់ខ្លួន​">
+<!ENTITY performanceUI.table.selfAlloc.tooltip        "ចំនួន​នៃ​ការបែងចែក​វត្ថុ​នៅ​ទីតាំង​នេះ​។">
 <!-- LOCALIZATION NOTE (performanceUI.newtab.tooltiptext): The tooltiptext shown
   -  on the "+" (new tab) button for a profile when a selection is available. -->
 
@@ -125,7 +125,7 @@
   -  measurements are enabled. -->
 
 <!ENTITY performanceUI.enableAllocations             "ការ​បែងចែក​កំណត់ត្រា">
-
+<!ENTITY performanceUI.enableAllocations.tooltiptext "កត់ត្រា​ការបែងចែក​វត្ថុ​ពេល​ធ្វើ​ប្រវត្តិរូប​។​">
 <!-- LOCALIZATION NOTE (performanceUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
@@ -137,9 +137,11 @@
   -  should be recorded. -->
 
 <!ENTITY performanceUI.enableJITOptimizations             "កត់ត្រា​ការធ្វើឲ្យប្រសើរឡើង​នៃ JIT">
-
+<!ENTITY performanceUI.enableJITOptimizations.tooltiptext "កត់ត្រា​ទិន្នន័យ​ការ​ធ្វើ​ឲ្យ​ប្រសើរ JIT ដែល​បាន​ធ្វើ​ជា​គំរូ​នៅ​ក្នុង​ស៊ុម JavaScript នីមួយៗ។">
 <!-- LOCALIZATION NOTE (performanceUI.JITOptimizationsTitle): This string
   -  is displayed as the title of the JIT Optimizations panel. -->
+
+<!ENTITY performanceUI.JITOptimizationsTitle "ការ​ធ្វើ​ឲ្យ​ប្រសើរ JIT">
 <!-- LOCALIZATION NOTE (performanceUI.console.recordingNoticeStart/recordingNoticeEnd):
   -  This string is displayed when a recording is selected that started via console.profile.
   -  Wraps the command used to start, like "Currently recording via console.profile("label")" -->
@@ -152,4 +154,4 @@
   -  "Stop recording by entering console.profileEnd("label") into the console." -->
 
 <!ENTITY performanceUI.console.stopCommandStart "ឈប់​កត់ត្រា​ទុក​ដោយ​​ការ​បញ្ចូល">
-
+<!ENTITY performanceUI.console.stopCommandEnd   "ទៅ​ក្នុង​កុងសូល។">

@@ -115,7 +115,7 @@
 <!ENTITY prefs_title "ចំណូលចិត្ត">
 <!ENTITY prefs_editor_title "កម្មវិធី​កែសម្រួល">
 <!ENTITY prefs_general_title "ទូទៅ">
-
+<!ENTITY prefs_restore "ស្ដារ​លំនាំ​ដើម">
 <!ENTITY prefs_manage_components "គ្រប់គ្រង​សមាសភាគ​បន្ថែម">
 <!ENTITY prefs_options_autoconnectruntime "តភ្ជាប់​ឡើងវិញ​ទៅ​​ដំណើរការ​ពីមុន">
 <!ENTITY prefs_options_autoconnectruntime_tooltip "តភ្ជាប់​ឡើងវិញ​ទៅ​ពេលវេលា​ដំណើរការ ពេល WebIDE ចាប់ផ្ដើម">
@@ -139,7 +139,7 @@
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "តារាង​គ្រប់គ្រង​សិទ្ធិ">
-
+<!ENTITY permissionstable_name_header "ឈ្មោះ">
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "ព័ត៌មាន​ពេល​ដំណើរការ">
@@ -197,12 +197,14 @@
 <!ENTITY logs_title "កំណត់ហេតុ​ពាក្យ​បញ្ជា​ការ​វេច​ខ្ចប់​ជាមុន">
 <!-- Simulator Options -->
 
-
-
-
+<!ENTITY simulator_title "ជម្រើស​​កម្មវិធី​​ធ្វើ​តេស្ដ">
+<!ENTITY simulator_remove "លុប​កម្មវិធី​ធ្វើ​តេស្ដ">
+<!ENTITY simulator_reset "ស្ដារ​លំនាំ​ដើម">
+<!ENTITY simulator_name "ឈ្មោះ">
+<!ENTITY simulator_software "សុសវែរ">
 <!ENTITY simulator_version "កំណែ">
-
-
+<!ENTITY simulator_profile "ប្រវត្តិរូប">
+<!ENTITY simulator_hardware "ហាដវែរ">
 <!ENTITY simulator_device "ឧបករណ៍">
 <!ENTITY simulator_screenSize "អេក្រង់">
-
+<!ENTITY simulator_pixelRatio "ផលធៀប​ជា​ភីកសែល">
