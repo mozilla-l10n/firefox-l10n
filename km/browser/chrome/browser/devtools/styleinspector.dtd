@@ -14,6 +14,8 @@
 <!ENTITY browserStylesLabel    "រចនាប័ទ្ម​កម្មវិធី​អ៊ីនធឺណិត">
 <!-- LOCALIZATION NOTE (filterStylesPlaceholder): This is the placeholder that goes in
   -  the search box when no search term has been entered. -->
+
+<!ENTITY filterStylesPlaceholder      "របៀប​ធ្វើ​តម្រង">
 <!-- LOCALIZATION NOTE (addRuleButtonTooltip): This is the tooltip shown when
   -  hovering the `Add new rule` button in the rules view toolbar. This should
   -  match ruleView.contextmenu.addNewRule in styleinspector.properties -->
