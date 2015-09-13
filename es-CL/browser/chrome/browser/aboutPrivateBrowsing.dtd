@@ -8,7 +8,7 @@
 
 <!ENTITY privateBrowsing.title                 "Navegación privada">
 
-<!ENTITY aboutPrivateBrowsing.width1           "30em">
+<!ENTITY aboutPrivateBrowsing.width1           "28em">
 <!ENTITY aboutPrivateBrowsing.title            "Está navegando de forma privada">
 
 <!ENTITY aboutPrivateBrowsing.info.notsaved    "No guardado">
