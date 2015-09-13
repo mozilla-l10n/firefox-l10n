@@ -6,6 +6,7 @@
 <!ENTITY  no_space_to_start_error "Δεν υπάρχει αρκετός ελεύθερος χώρος για να ξεκινήσει ο &brandShortName;.">
 <!ENTITY  error_loading_file "Σφάλμα κατά την φόρτωση των απαραίτητων αρχείων για την εκτέλεση του &brandShortName;">
 
+<!ENTITY  onboard_start_message3 "Περιηγηθείτε με το &brandShortName;">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
