@@ -32,7 +32,7 @@
 <!ENTITY  crash_closing_alert "ক্র্যাশ প্রতিবেদন না পাঠিয়ে প্রস্থান করবেন?">
 <!ENTITY  sending_crash_report "ক্র্যাশ প্রতিবেদন পাঠানো হচ্ছে\u2026">
 <!ENTITY  crash_close_label "বন্ধ করুন">
-<!ENTITY  crash_restart_label " &brandShortName; পুনরায় চালু করুন">
+<!ENTITY  crash_restart_label "&brandShortName; পুনরায় চালু করুন">
 <!ENTITY  exit_label "প্রস্থান">
 
 <!ENTITY  launcher_shortcuts_title "&brandShortName; ওয়েব অ্যাপস">
