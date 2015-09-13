@@ -5,5 +5,5 @@
    %brandDTD;
 <!ENTITY aboutLogins.title                       "লগ-ইন">
 <!ENTITY aboutLogins.update                      "আপডেট করুন">
-
-
+<!ENTITY aboutLogins.emptyLoginText              "আপনার লগইন নিরাপদ রাখুন">
+<!ENTITY aboutLogins.emptyLoginHint              "লগইন ও প্রমাণপত্রাদি &brandShortName; দ্বারা সংরক্ষিত, এখানে দেখানো হবে।">

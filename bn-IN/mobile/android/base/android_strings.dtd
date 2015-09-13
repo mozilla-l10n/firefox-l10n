@@ -700,7 +700,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restriction_disallow_private_browsing_title2 "ব্যক্তিগত ব্রাউজিং নিষ্ক্রিয়করন">
 <!ENTITY restriction_disallow_location_services_title2 "অবস্থান পরিষেবাগুলি নিষ্ক্রিয়করন">
 <!ENTITY restriction_disallow_display_settings_title2 "ডিসপ্লে সেটিংস নিষ্ক্রিয়করন">
-
-
-
+<!ENTITY restriction_disallow_clear_history_title2 "\u0027ব্রাউজিং -র পূর্ববর্তী তথ্য মুছুন \u0027 নিষ্ক্রিয়করন">
+<!ENTITY restriction_disallow_master_password_title2 "মূখ্য পাসওয়ার্ড নিষ্ক্রিয়করন">
+<!ENTITY restriction_disallow_guest_browsing_title2 "অতিথি ব্রাউজিং নিষ্ক্রিয়করন">
 
