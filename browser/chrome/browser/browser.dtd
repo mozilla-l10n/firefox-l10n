@@ -413,8 +413,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "¿Desea mejorar la experienca de búsquedas con sugerencias?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Conocer más…">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "c">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "No">
+<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Sí">
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "S">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -733,8 +736,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.moreInfoLinkText2 "Más información">
 
 <!ENTITY identity.permissions "Permisos">
-<!ENTITY identity.permissionsPageFunctionality "Funcionalidad de página">
-<!ENTITY identity.permissionsSystemAccess "Acceso al sistema">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
 The word "toolbar" is appended automatically and should not be contained below! -->
