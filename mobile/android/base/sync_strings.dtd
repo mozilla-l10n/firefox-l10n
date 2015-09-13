@@ -229,6 +229,7 @@
 <!ENTITY fxaccount_remove_account_toast 'Firefox 계정 &formatS; 삭제됨.'>
 
 <!ENTITY fxaccount_remove_account_menu_item '계정 삭제'>
+<!ENTITY fxaccount_enable_debug_mode '디버그 모드 활성화'>
 
 
 <!-- Localization note: this is the name shown by the Android system

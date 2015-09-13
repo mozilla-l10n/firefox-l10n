@@ -3,14 +3,21 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY privatebrowsingpage.title                  "사생활 보호모드">
-<!ENTITY privatebrowsingpage.title.normal "사생활 보호모드가 아닙니다">
 
-<!ENTITY privatebrowsingpage.issueDesc.normal2 "사생활 보호모드에서는 어떠한 브라우징 이력이나 쿠키도 남기지 않습니다.">
-<!ENTITY privatebrowsingpage.issueDesc.private2 "어떠한 브라우징 이력이나 쿠키도 남기지 않습니다.">
+<!-- Localisation note: the plus sign here is a shorthand way of expressing the word "and". Contextually the privatebrowsingpage.title.private string
+                         is used as a title, with the privatebrowsingpage.title string preceding it but on a separate line.
+                         So the final line will say "Private Browsing + Tracking Protection". -->
+<!ENTITY privatebrowsingpage.title.private "+ 추적 방지">
+<!-- Localization note (privatebrowsingpage.title.normal1): "Private Browsing"
+      is capitalized in English to be consistent with our existing uses of the
+      term. -->
+<!ENTITY privatebrowsingpage.title.normal1 "사생활 보호모드가 아닙니다">
 
-<!ENTITY privatebrowsingpage.description2 "직접 추가한 북마크나 다운로드 받은 파일은 기기에 남아있게 됩니다.">
-<!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
-<!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
+<!ENTITY privatebrowsingpage.description.private3 "Firefox는 여러분들이 추적 받지 않도록 하며 어떠한 기록도 남기지 않습니다. 다만, 다운로드 받은 파일이나 추가한 북마크는 기기에 저장됩니다.">
+<!-- Localization note (privatebrowsingpage.description.normal2): "Private
+      Browsing" is capitalized in English to be consistent with our existing uses
+      of the term. -->
+<!ENTITY privatebrowsingpage.description.normal2 "사생활 보호모드에서는 어떠한 브라우징 이력이나 쿠키도 남기지 않습니다. 직접 추가한 북마크나 다운로드 받은 파일은 기기에 남아있게 됩니다.">
 
 <!ENTITY privatebrowsingpage.link.private "더 알고 싶은가요?">
 <!ENTITY privatebrowsingpage.link.normal "새 사생활 보호모드 탭 열기">
