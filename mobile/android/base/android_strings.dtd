@@ -10,7 +10,7 @@
 <!ENTITY  onboard_start_subtext3 "বানান আপনার ওয়েব ব্রাউজিং করার অভিজ্ঞতা যথাযথ ভাবে আপনার নিজের।">
 <!ENTITY  onboard_start_button_account "&brandShortName; এ সাইন ইন করুন">
 <!ENTITY  onboard_start_button_browser "ব্রাউজিং শুরু করুন">
-
+<!ENTITY  onboard_start_restricted1 "নিরাপদ থাকুন ও &brandShortName; -এর সরলীকৃত সংস্করণ সঙ্গে নিয়ন্ত্রণ করুন।">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -69,7 +69,7 @@
 <!ENTITY edit_mode_cancel "বাতিল করুন">
 
 <!ENTITY close_tab "ট্যাব বন্ধ করুন">
-
+<!ENTITY tab_audio_playing "এই ট্যাবটি অডিও বাজায়">
 <!ENTITY tab_audio_muted "এই ট্যাবটিকে নীরব করা হয়েছে">
 <!ENTITY one_tab "1 ট্যাব">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
