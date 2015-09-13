@@ -587,7 +587,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY keep_blocking "Continuar bloqueando">
 
 <!ENTITY private_data_success "Dados de navegação limpos">
-<!ENTITY private_data_fail "Alguns dados de navegação podem não ter sido limpos">
+<!ENTITY private_data_fail "Alguns dados privativos não puderam ser limpos">
 
 <!ENTITY bookmarkhistory_button_import "Importar">
 <!ENTITY bookmarkhistory_import_both "Importando favoritos e histórico 
