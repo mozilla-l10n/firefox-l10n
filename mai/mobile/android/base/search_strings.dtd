@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY search_app_name "&brandShortName;  खोजू">
+<!ENTITY search_app_name "&brandShortName; खोजू">
 <!--  Localization note (search_bar_hint): The &formatS; will be replaced with the name of
       the currently selected search engine. -->
 
@@ -16,7 +16,7 @@
 <!ENTITY search_plus_content_description "खोज पट्टीकेँ जोड़ू">
 
 <!ENTITY search_pref_title "सेटिंग्स">
-
+<!ENTITY search_pref_button_content_description "सेटिंग्स">
 
 <!ENTITY pref_clearHistory_confirmation "इतिहास साफ कएल गेल">
 <!ENTITY pref_clearHistory_dialogMessage "इ युक्तिसँ अपन सभटा खोज इतिहास मेटाउ?">

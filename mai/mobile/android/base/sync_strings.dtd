@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label "तुल्यकालित करब कलेल की">
 <!ENTITY sync.configure.engines.sync.my.title.label "अपन समन्वयन करू...">
 <!ENTITY sync.configure.engines.title.bookmarks "पुस्तकचिह्न">
-<!ENTITY sync.configure.engines.title.passwords "गुड़किल्ली">
+
 <!ENTITY sync.configure.engines.title.history "इतिहास">
 <!ENTITY sync.configure.engines.title.tabs "टैग">
 <!-- Common text -->
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "गोपनीयता नीति">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label; मे अहाँक स्वागत अछि ;">
-<!ENTITY fxaccount_getting_started_description "टैब, पुस्तकचिह्न, गुड़किल्ली आदि सिंक करब कलेल साइन इन करू">
+
 <!ENTITY fxaccount_getting_started_get_started "आरंभ करू">
 <!ENTITY fxaccount_getting_started_old_firefox "&syncBrand.shortName.label; क पुरान संस्करण क उपयोग कए रहल अछि?">
 <!-- Localization note: the Firefox below should not change with the
@@ -212,7 +212,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating "अपन नवका फायरफॉक्स खाता में साइन इन करबाक लेल टीपू.">
 <!ENTITY fxaccount_status_bookmarks "पृष्ठस्मृति">
 <!ENTITY fxaccount_status_history "इतिहास">
-<!ENTITY fxaccount_status_passwords "कूटशब्द">
+
 <!ENTITY fxaccount_status_tabs "टैब खोलू">
 <!ENTITY fxaccount_status_legal "कानूनी" >
 <!-- Localization note: when tapped, the following two strings link to
@@ -230,6 +230,7 @@
 <!ENTITY fxaccount_remove_account_toast "फायरफॉक्स खाताकेँ &formatS; हटाएल गेल.">
 
 <!ENTITY fxaccount_remove_account_menu_item "खाता हटाउ">
+
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 
