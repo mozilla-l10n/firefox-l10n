@@ -10,6 +10,9 @@
 <!ENTITY  onboard_start_subtext3 "나만의 모바일 웹 브라우징 경험을 만들어보세요.">
 <!ENTITY  onboard_start_button_account "&brandShortName; 가입">
 <!ENTITY  onboard_start_button_browser "브라우징 시작">
+<!ENTITY  onboard_start_restricted1 "&brandShortName; 간소화 버전으로 더 쉽고 안전하고 사용하세요.">
+
+
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
@@ -68,6 +71,8 @@
 <!ENTITY edit_mode_cancel "취소">
 
 <!ENTITY close_tab "탭 닫기">
+<!ENTITY tab_audio_playing "이 탭은 오디오 재생 중">
+<!ENTITY tab_audio_muted "이 탭은 음소거됨">
 <!ENTITY one_tab "한 개의 탭">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -155,6 +160,9 @@
 <!ENTITY pref_search_hint "팁: 검색창을 길게 누른 후 &formatI; 아이콘을 탭하여 검색 엔진 목록에 웹사이트를 추가하세요.">
 <!ENTITY pref_category_devtools "개발자 도구">
 <!ENTITY pref_developer_remotedebugging "원격 디버깅">
+<!ENTITY pref_developer_remotedebugging_usb "USB 원격 디버깅">
+<!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi 원격 디버깅">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi 디버깅을 하려면 QR 코드 리더 앱을 설치해야 합니다.">
 <!ENTITY pref_category_logins "로그인">
 <!ENTITY pref_remember_signons2 "로그인 저장">
 <!ENTITY pref_open_external_urls_privately_title "사생활 보호 모드로 링크 열기">
@@ -191,16 +199,21 @@
 <!ENTITY pref_cookies_not_accept_foreign "사용하기 (제3자 쿠키 제외)">
 <!ENTITY pref_cookies_disabled "사용 안 함">
 
-<!ENTITY pref_tracking_protection_title "추적 보호 기능">
-<!ENTITY pref_tracking_protection_summary "&brandShortName;가 사이트의 추적을 차단합니다">
+<!ENTITY pref_tracking_protection_title "추적 방지">
+<!ENTITY pref_tracking_protection_summary3 "사생활 보호모드 활성화됨">
 <!ENTITY pref_donottrack_title "추적 중지">
 <!ENTITY pref_donottrack_summary "&brandShortName;가 사이트들에 방문자 추적 중지 요청을 합니다.">
+
+<!ENTITY tracking_protection_prompt_title "추적 방지 시작">
+<!ENTITY tracking_protection_prompt_text "적극적으로 추척 요소들을 차단합니다. 더 이상 걱정할 필요 없습니다.">
+<!ENTITY tracking_protection_prompt_tip_text "더 자세한 내용은 사생활 설정에서 확인하세요">
+<!ENTITY tracking_protection_prompt_action_button "알겠습니다!">
 
 <!ENTITY tab_queue_toast_message3 "&brandShortName;에 저장된 탭">
 <!ENTITY tab_queue_toast_action "지금 열기">
 <!ENTITY tab_queue_prompt_title "여러 개의 링크를 열까요?">
-<!ENTITY tab_queue_prompt_text3 "다음번 &brandShortName;를 열 때까지 저장합니다.">
-<!ENTITY tab_queue_prompt_tip_text "나중에 설정에서 변경할 수 있습니다">
+<!ENTITY tab_queue_prompt_text4 "다음번 &brandShortName;를 열 때까지 저장합니다.">
+<!ENTITY tab_queue_prompt_tip_text2 "나중에 설정에서 변경할 수 있습니다">
 <!ENTITY tab_queue_prompt_positive_action_button "활성화">
 <!ENTITY tab_queue_prompt_negative_action_button "나중에 하기">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
@@ -330,7 +343,6 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY addons "부가 기능">
 <!ENTITY logins "로그인">
 <!ENTITY downloads "다운로드">
-<!ENTITY apps "앱">
 <!ENTITY char_encoding "문자 인코딩">
 
 <!ENTITY share "공유">
@@ -402,6 +414,11 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY pref_titlebar_mode_title "페이지 제목 표시">
 <!ENTITY pref_titlebar_mode_url "페이지 주소 표시">
 
+<!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
+     whether or not the magnifying glass is disabled. -->
+<!ENTITY pref_prevent_magnifying_glass "돋보기 비활성화 ">
+<!ENTITY pref_prevent_magnifying_glass_summary "모호한 스크린 터치 문제를 해결하기 위해 돋보기 기능을 비활성화">
+
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar2 "전체 화면 브라우징">
@@ -427,9 +444,9 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY site_settings_clear        "변경">
 <!ENTITY site_settings_no_settings  "변경할 웹 페이지 설정이 없습니다.">
 
-<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+<!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
-<!ENTITY reading_list_added2 "읽기 목록에 추가됨">
+<!ENTITY reading_list_added3 "읽기 목록에 추가됨">
 <!ENTITY reading_list_removed "읽기 목록에 페이지 삭제됨">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -543,21 +560,27 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_run_by "운영 업체 정보:">
-<!ENTITY identity_no_info "이 웹 사이트는 신원 정보를 제공하지 않습니다.">
-<!ENTITY identity_not_encrypted "현재 웹 사이트와는 암호화 통신을 하고 있지 않습니다.">
-<!ENTITY identity_encrypted "암호화됨">
+<!ENTITY identity_connection_secure "보안 연결">
+<!ENTITY identity_connection_insecure "비보안 연결">
 
 <!-- Mixed content notifications in site identity popup -->
+<!ENTITY mixed_content_blocked_all "&brandShortName;가 이 페이지의 비보안 요소들을 차단했습니다.">
+<!ENTITY mixed_content_blocked_some "&brandShortName;가 이 페이지의 일부 비보안 요소들을 차단했습니다.">
+<!ENTITY mixed_content_display_loaded "이 페이지는 일부 비보안 요소들을 가지고 있습니다.">
+<!ENTITY mixed_content_protection_disabled "비보안 요소 차단을 비활성화 하였습니다.">
+
 <!ENTITY loaded_mixed_content_message "이 페이지는 안전하지 않은 콘텐츠를 보여주고 있습니다.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName;가 안전하지 않은 콘텐츠를 차단했습니다.">
 <!ENTITY blocked_mixed_content_message_bottom "이 콘텐츠가 차단되어도 대부분의 웹사이트들은 잘 작동할 것입니다.">
 
 <!-- Tracking content notifications in site identity popup -->
-<!ENTITY loaded_tracking_content_message_top "추적 보호 기능이 비활성화됨.">
-<!ENTITY loaded_tracking_content_message_bottom "이 페이지의 일부는 온라인 활동을 추적할 수도 있습니다.">
-<!ENTITY blocked_tracking_content_message_top2 "추적 보호 기능이 활성화됨.">
-<!ENTITY blocked_tracking_content_message_bottom2 "이 페이지에서 온라인 활동을 추적하는 부분은 차단되었습니다.">
+<!ENTITY doorhanger_tracking_title "추적 방지">
+<!ENTITY doorhanger_tracking_state_enabled "활성화됨">
+<!ENTITY doorhanger_tracking_state_disabled "비활성화됨">
+<!ENTITY doorhanger_tracking_message_enabled1 "여러분의 온라인 활동을 추적하고자 하는 시도들을 차단합니다.">
+<!ENTITY doorhanger_tracking_message_disabled2 "이 페이지는 브라우징 활동을 추적하는 요소들을 포함하고 있을 수 있습니다.">
+
+
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "더 알아보기">
@@ -643,10 +666,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Voice search in the awesome bar -->
 <!ENTITY voicesearch_prompt "지금 말하세요">
-<!ENTITY voicesearch_failed_title "&brandShortName; 음성 검색">
-<!ENTITY voicesearch_failed_message "음성 검색에 문제가 있습니다. 나중에 다시 시도해보세요.">
-<!ENTITY voicesearch_failed_message_recoverable "죄송합니다! 제대로 인식하지 못 했습니다. 다시 말해주세요.">
-<!ENTITY voicesearch_failed_retry "다시 하기">
 
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
@@ -664,3 +683,25 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY find_matchcase "Aa">
 
 <!ENTITY intent_uri_cannot_open "링크를 열 수 없음">
+
+<!-- DevTools Authentication -->
+<!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
+     above a QR reader that is actively scanning for QR codes.  The expected QR
+     code has already been displayed by the client trying to connect (such as
+     desktop Firefox via WebIDE), so you just need to aim this device at the QR
+     code. -->
+<!ENTITY devtools_auth_scan_header "다른 기기에 표시된 QR 코드 스캔하기">
+
+<!-- Restrictions -->
+<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+     a restricted profile (e.g. child). Used inside the Android settings UI. -->
+<!ENTITY restriction_disallow_import_settings_title2 "\'안드로이드에서 가져오기\' 비활성화">
+<!ENTITY restriction_disallow_addons_title2 "부가 기능 설치 비활성화">
+<!ENTITY restriction_disallow_devtools_title2 "개발자 도구 비활성화">
+<!ENTITY restriction_disallow_customize_home_title2 "홈 개인화 비활성화">
+<!ENTITY restriction_disallow_private_browsing_title2 "사생활 보호모드 비활성화">
+<!ENTITY restriction_disallow_location_services_title2 "위치 서비스 비활성화">
+<!ENTITY restriction_disallow_display_settings_title2 "디스플레이 설정 비활성화">
+<!ENTITY restriction_disallow_clear_history_title2 "\'방문 기록 삭제\' 비활성화">
+<!ENTITY restriction_disallow_master_password_title2 "기본 암호 비활성화">
+<!ENTITY restriction_disallow_guest_browsing_title2 "손님 브라우징 비활성화">
