@@ -185,13 +185,13 @@
 <!ENTITY fxaccount_account_verified_sub_header "Konto jo pśeglědane">
 <!ENTITY fxaccount_account_verified_description2 "Waše daty budu se za mało wokognuśow synchronizěrowaś.">
 
-<!ENTITY fxaccount_migration_finished_header "Aktualizacija skóńcona.">
+<!ENTITY fxaccount_migration_finished_header "Aktualizacija skóńcona">
 
 <!ENTITY fxaccount_update_credentials_header "Pśizjawiś">
 <!ENTITY fxaccount_update_credentials_button_label "Pśizjawiś">
 <!ENTITY fxaccount_update_credentials_unknown_error "Pśizjawjenje njejo móžno">
 
-<!ENTITY fxaccount_finish_migrating_header "Pśizjawśo se, aby aktualizěrowanje dokóńcył.">
+<!ENTITY fxaccount_finish_migrating_header "Pśizjawśo se, aby aktualizěrowanje dokóńcył">
 <!ENTITY fxaccount_finish_migrating_button_label "Aktualizěrowanje skóńcyś">
 <!ENTITY fxaccount_finish_migrating_description "Aktualizěrowanje móžo wjele datow pśenosowaś. Cynśo to nejlěpjej we WLAN-seśi.">
 
@@ -230,7 +230,7 @@
 <!ENTITY fxaccount_remove_account_toast "&formatS; konta Firefox wótpórany.">
 
 <!ENTITY fxaccount_remove_account_menu_item "Konto wótpóraś">
-
+<!ENTITY fxaccount_enable_debug_mode "Modus pytanja zmólkow zmóžniś">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 
