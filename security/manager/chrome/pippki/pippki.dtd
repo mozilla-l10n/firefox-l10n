@@ -32,7 +32,7 @@
 <!ENTITY clientAuthAsk.message3 "Detaliile certificatului selectat:">
 <!-- Strings for the cert picker dialog -->
 
-<!ENTITY certPicker.title "Alegere certificat">
+<!ENTITY certPicker.title "Selectați certificat">
 <!ENTITY certPicker.info  "Certificat:">
 <!ENTITY certPicker.detailsLabel "Detaliile certificatului selectat:">
 
