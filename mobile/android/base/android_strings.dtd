@@ -68,6 +68,7 @@
 <!ENTITY edit_mode_cancel "Prekliči">
 
 <!ENTITY close_tab "Zapri zavihek">
+<!ENTITY tab_audio_playing "Na tem zavihku se predvaja zvok">
 <!ENTITY one_tab "1 zavihek">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -155,6 +156,7 @@
 <!ENTITY pref_search_hint "Nasvet: poljubno spletno stran lahko dodate na seznam iskalnikov, tako da dolgo pritisnete na njeno polje za iskanje in tapnete ikono &formatI;.">
 <!ENTITY pref_category_devtools "Razvojna orodja">
 <!ENTITY pref_developer_remotedebugging "Oddaljeno razhroščevanje">
+<!ENTITY pref_developer_remotedebugging_wifi "Oddaljeno razhroščevanje preko Wi-Fi">
 <!ENTITY pref_category_logins "Prijave">
 <!ENTITY pref_remember_signons2 "Shrani prijave">
 <!ENTITY pref_open_external_urls_privately_title "Odpiraj povezave v zasebnem brskanju">
