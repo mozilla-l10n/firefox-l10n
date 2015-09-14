@@ -161,16 +161,16 @@
 
 
 <!ENTITY pref_category_logins "ورود">
-
+<!ENTITY pref_remember_signons2 "بخاطر سپردن ورودها">
 <!ENTITY pref_open_external_urls_privately_title "باز کردن پیوند در زبانه خصوصی">
 <!ENTITY pref_open_external_urls_privately_summary "برای تمامی پیوندهای خارجی که بازشده اند در &brandShortName;">
-
+<!ENTITY pref_manage_logins "مدیریت ورودها">
 
 <!ENTITY pref_category_home "خانه">
 <!ENTITY pref_category_home_summary "صفحه‌آغازین خود را شخصی سازی کنید">
 
 
-
+<!ENTITY home_add_panel_empty "متاسفانه, ما قادر به پیدا کردن هیچ گونه قطعه ای برای اضافه کردن برای شما نیستیم.">
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
@@ -202,6 +202,7 @@
 
 
 
+<!ENTITY tab_queue_toast_message3 "زبانه در &brandShortName; ذخیره شد">
 
 
 
@@ -222,7 +223,7 @@
 
 <!ENTITY pref_clear_private_data_category "پاک‌سازی اطلاعات خصوصی">
 
-
+<!ENTITY pref_clear_on_exit_summary2 "هنگامی که شما\u0022Quit\u0022 از منو اصلی را انتخاب کنید brandShortName;به صورت خودکار اطلاعات شما را پاکسازی خواهدکرد">
 
 <!ENTITY pref_plugins "افزونه‌ها">
 
@@ -260,7 +261,7 @@ size. -->
 
 <!ENTITY pref_use_master_password "استفاده از گذرواژهٔ اصلی">
 <!ENTITY pref_sync "هم‌گام‌سازی">
-
+<!ENTITY pref_sync_summary2 "زبانه‌ها,نشانک‌ها, ورودها و تاریخچه خود را همگام سازی کنید">
 <!ENTITY pref_search_suggestions "نمایش پیشنهادهای جست‌وجو">
 <!ENTITY pref_import_android "وارد کردن از آندروید">
 
@@ -289,7 +290,7 @@ size. -->
 <!ENTITY pref_panels_show "نمایش">
 
 
-
+<!ENTITY pref_panels_move_up "انتقال به بالا">
 
 
 <!ENTITY datareporting_notification_title "&brandShortName; آمار و داده‌ها">
@@ -315,7 +316,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "گزارش‌گر فروپاشی">
 
-
+<!ENTITY datareporting_wifi_geolocation_summary4 "کمک کنید تا &vendorShortName; نقشه دنیا را بکشد! محل تقریبی Wi-Fi و آنتن مخابراتی دستگاه خود را به اشتراک بگذارید، تا به بهبود سرویس مکان‌یابی ما کمک کنید.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -338,7 +339,7 @@ size. -->
 <!ENTITY save_as_pdf "ذخیره به صورت PDF">
 <!ENTITY find_in_page "پیدا کردن در صفحه">
 <!ENTITY desktop_mode "درخواست وب‌سایت دسکتاپ">
-
+<!ENTITY page "صفحه">
 <!ENTITY tools "ابزارها">
 <!ENTITY new_tab "زبانهٔ جدید">
 <!ENTITY new_private_tab "زبانه‌ی خصوصی جدید">
@@ -357,6 +358,8 @@ size. -->
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY media_sending_to "ارسال به دستگاه">
 <!ENTITY media_play "پخش">
 <!ENTITY media_pause "مکث">
 
@@ -383,11 +386,11 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "نام کاربر">
 
 
+<!ENTITY doorhanger_login_edit_toast_error "ذخیره ورود ناموفق بود">
 
 
 
-
-
+<!ENTITY doorhanger_login_select_action_text "اطلاعات ورود دیگری را انتخاب کنید">
 
 
 <!ENTITY pref_titlebar_mode "نوار عنوان">
@@ -447,6 +450,7 @@ size. -->
 
 <!ENTITY button_copy "رونوشت">
 
+<!ENTITY firstrun_panel_title_welcome "خوش آمدید">
 
 <!ENTITY home_top_sites_title "سایت‌های برتر">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -457,13 +461,13 @@ size. -->
 
 <!ENTITY home_title "خانه &brandShortName;">
 
-
+<!ENTITY home_clear_history_button "پاک کردن تاریخچه مرور">
 
 <!ENTITY home_bookmarks_empty "نشانک‌هایی که ذخیره می‌کنید، در اینجا نمایش داده می‌شوند.">
 
 <!ENTITY home_last_tabs_title "زبانه‌های مربوط به آخرین بار">
 <!ENTITY home_last_tabs_empty "زبانه‌های اخیر شما در اینجا نمایش داده می‌شوند.">
-
+<!ENTITY home_open_all "بازکردن همه">
 <!ENTITY home_most_recent_empty "وبسایت‌هایی را که اخیرا بیشتر بازدید کرده‌اید در اینجا نمایش داده می‌شوند.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -489,14 +493,17 @@ size. -->
 
 
 
+<!ENTITY home_remote_tabs_trouble_verifying "مشکلی در تایید کردن حساب کاربری خود دارید؟">
 
 
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD;دستگاه های مخفی هستند">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "دستگاه‌های مخفی">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 
@@ -522,7 +529,8 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-
+<!ENTITY identity_connection_secure "اتصال امن">
+<!ENTITY identity_connection_insecure "اتصال نا امن">
 <!-- Mixed content notifications in site identity popup -->
 
 
@@ -600,6 +608,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
 
+<!ENTITY ellipsis "…">
+
 <!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
      display a percentage value. formatS is the number, #37 is the code to display a percent sign.
      This format string is typically used by getString method, in such method the percent sign
@@ -619,6 +629,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "آخرین همگام سازی: هیچ وقت">
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->

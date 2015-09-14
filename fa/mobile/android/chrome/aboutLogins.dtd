@@ -5,5 +5,5 @@
    %brandDTD;
 <!ENTITY aboutLogins.title                       "ورود">
 <!ENTITY aboutLogins.update                      "به‌هنگام‌سازی">
-
+<!ENTITY aboutLogins.emptyLoginText              "ورود خود را امن کنید">
 

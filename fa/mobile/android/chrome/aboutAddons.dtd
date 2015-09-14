@@ -11,4 +11,5 @@
 <!ENTITY addonAction.uninstall                  "عزل">
 <!ENTITY addonAction.undo                       "برگردان">
 
+<!ENTITY addonUnsigned.message                  "امکان تایید این افزونه توسط &brandShortName; وجود ندارد.">
 <!ENTITY addonUnsigned.learnMore                "اطلاعات بیشتر">
