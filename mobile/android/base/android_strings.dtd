@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  no_space_to_start_error "শুরু করার জন্য &brandShortName; এ পর্যাপ্ত পরিমান জায়গা নেই।">
+<!ENTITY  no_space_to_start_error "&brandShortName; আরম্ভ করার জন্যে পর্যাপ্ত পরিমান জায়গা নেই।">
 <!ENTITY  error_loading_file "&brandShortName; চালাতে প্রয়োজনীয় ফাইল লোড করার সময় ত্রুটি ঘটেছে">
 
 <!ENTITY  onboard_start_message3 "&brandShortName;-এর সাথে ব্রাউজ করুন">
