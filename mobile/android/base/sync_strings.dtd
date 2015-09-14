@@ -193,7 +193,7 @@
 
 <!ENTITY fxaccount_finish_migrating_header "Mewngofnodwch i orffen diweddaru">
 <!ENTITY fxaccount_finish_migrating_button_label "Wedi gorffen diweddaru">
-<!ENTITY fxaccount_finish_migrating_description "Gall diweddaru drosglwyddo lot o ddata. Mae\u0027n well gwneud ar rwydwaith diwyfr.">
+<!ENTITY fxaccount_finish_migrating_description "Gall diweddaru drosglwyddo lot o ddata. Mae\u0027n well gwneud ar rwydwaith diwifr.">
 
 <!ENTITY fxaccount_status_header2 "Cyfrif Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Mewngofnodwyd fel">
