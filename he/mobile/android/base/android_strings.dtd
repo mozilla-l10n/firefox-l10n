@@ -501,6 +501,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_fail "חלק מהנתונים הפרטיים אינם ניתנים למחיקה">
 
 <!ENTITY bookmarkhistory_button_import "ייבוא">
+<!ENTITY bookmarkhistory_import_both "יבוא סימניות והיסטוריה
+                                       מ־Android">
+<!ENTITY bookmarkhistory_import_bookmarks "יבוא סימניות
+                                           מ־Android">
+<!ENTITY bookmarkhistory_import_wait "נא להמתין…">
 
 <!--  Localization note (search_bar_item_desc): When the user clicks the url bar
       and starts typing, a list of icons of search engines appears at the bottom
@@ -513,6 +518,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
 
+<!ENTITY webapp_generic_name "יישומון">
 
 
  <!-- Updater notifications -->
@@ -520,13 +526,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 <!-- Guest mode -->
+<!ENTITY guest_session_dialog_continue "המשך">
+<!ENTITY guest_session_dialog_cancel "ביטול">
+<!ENTITY new_guest_session_title "&brandShortName; כעת יופעל מחדש">
 
 
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
+<!ENTITY ellipsis "…">
 
+<!ENTITY colon ":">
 
 <!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
      display a percentage value. formatS is the number, #37 is the code to display a percent sign.
@@ -534,9 +545,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      is a reserved caracter. In order to display one percent sign in the result of getString,
      double percent signs must be inserted in the format string.
      This entity is used in the zoomed view to display the zoom factor-->
+<!ENTITY percent "&formatS;&#37;&#37;">
 
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
+<!ENTITY actionbar_menu "תפריט">
 
 <!-- Voice search in the awesome bar -->
 
@@ -551,7 +564,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
+<!ENTITY find_matchcase "Aa">
 
+<!ENTITY intent_uri_cannot_open "לא ניתן לפתוח קישור">
 
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
