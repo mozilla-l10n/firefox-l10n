@@ -198,7 +198,7 @@
 
 
 
-
+<!ENTITY tracking_protection_prompt_text "به صورت خودکار عناصر ردیابی بلاک می شود بنابراین جایی برای نگرانی وجود ندارد.">
 
 
 
@@ -244,6 +244,7 @@
 same character/combination is used to increase the preview font size. It should be a concise
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
+<!ENTITY pref_font_size_adjust_char "A">
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
@@ -477,6 +478,8 @@ size. -->
 <!ENTITY home_reading_list_hint_accessible "نکته: مقالات را با فشردن طولانی مدت دکمه «حالت خواندن» هنگامی که در نوار عنوان ظاهر می‌شود در فهرست خواندن خود اضافه کنید.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
+
+<!ENTITY home_default_empty "هیچ محتوایی برای این پنل پیدا نشد.">
 <!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
 
@@ -607,6 +610,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      They are never shown to users -->
 <!ENTITY actionbar_done "انجام شد">
 <!-- Voice search in the awesome bar -->
+
+<!ENTITY voicesearch_prompt "صحبت کنید">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -633,9 +638,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
+<!ENTITY restriction_disallow_location_services_title2 "غیر فعال کردن خدمات مکان">
 
 
 
-
-
+<!ENTITY restriction_disallow_guest_browsing_title2 "غیرفعال کردن مرور مهمان">
 
