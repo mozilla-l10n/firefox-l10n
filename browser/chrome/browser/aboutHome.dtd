@@ -12,9 +12,6 @@
 
 <!ENTITY abouthome.pageTitle "Faqja e Fillimit për &brandFullName;-in">
 
-<!-- LOCALIZATION NOTE (brandStart): brandShortName must be in a <span/> -->
-<!ENTITY abouthome.searchEngineButton.label "Kërkoni">
-
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
