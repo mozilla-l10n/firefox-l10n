@@ -23,7 +23,7 @@
 <!ENTITY popups.label "Finestre pop-up">
 <!ENTITY passwords.label "Password">
 <!ENTITY masterpass.label "Password principale">
-<!ENTITY ssl.label "SSL">
+<!ENTITY ssltls.label "SSL/TLS">
 <!ENTITY certs.label "Certificati">
 <!ENTITY sync.label "Sync">
 <!ENTITY advance.label "Avanzate">
