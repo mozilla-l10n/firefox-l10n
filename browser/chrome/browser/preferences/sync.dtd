@@ -83,7 +83,7 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY welcome.useOldSync.label "在使用旧版本的同步？">
 
-<!ENTITY signedOut.caption            "网络相连">
+<!ENTITY signedOut.caption            "把网络随身携带">
 <!ENTITY signedOut.description        "跨越您的所有设备，同步您的书签、历史记录、标签页、密码、附加组件、首选项。">
 <!ENTITY signedOut.accountBox.title   "使用 &syncBrand.fxAccount.label; 连接">
 <!ENTITY signedOut.accountBox.create  "创建账户">
