@@ -137,10 +137,11 @@
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_button "بعدی">
 
+<!ENTITY fxaccount_create_account_sign_in_instead "حساب کاربری دارید؟ وارد شوید">
 
 
 
-
+<!ENTITY fxaccount_account_create_not_allowed "امکان ایجاد حساب‌کاربری وجود ندارد">
 
 <!ENTITY fxaccount_account_create_not_allowed_learn_more "اطلاعات بیشتر">
 
@@ -156,7 +157,7 @@
 
 
 
-
+<!ENTITY fxaccount_sign_in_unknown_error "امکان وارد شدن وجود ندارد">
 
 
 
