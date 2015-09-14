@@ -1,0 +1,148 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+
+<!ENTITY loadError.label "Problem sa učitavanjem stranice">
+<!ENTITY retry.label "Pokušaj ponovo">
+<!-- Specific error messages -->
+
+
+<!ENTITY connectionFailure.title "Ne mogu da se povežem">
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
+
+<!ENTITY deniedPortAccess.title "Ova adresa je zabranjena">
+<!ENTITY deniedPortAccess.longDesc "">
+
+<!ENTITY dnsNotFound.title "Server nije pronađen">
+<!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "<ul> 
+<li>Provjerite adresu za greške u tipkanju poput 
+<strong>ww</strong>.primjer.ba umjesto 
+<strong>www</strong>.primjer.ba</li> 
+<div id='searchbox'> 
+<input id='searchtext' type='search'></input> 
+<button id='searchbutton'>Traži</button> 
+</div> 
+<li>Ukoliko ne možete učitati niti jednu stranicu, provjerite podatkovnu ili Wi-Fi vezu vašeg uređaja. 
+<button id='wifi'>Omogući Wi-Fi</button> 
+</li> 
+</ul>">
+
+<!ENTITY fileNotFound.title "Fajl nije pronađen">
+<!ENTITY fileNotFound.longDesc "<ul> 
+<li>Provjerite da li u nazivu fajla postoji greška u velikim/malim slovima, ili neka druga greška.</li> 
+<li>Provjerite da li je fajl premješten, obrisan ili mu je promijenjen naziv.</li> 
+</ul>">
+
+
+<!ENTITY generic.title "Ups.">
+<!ENTITY generic.longDesc "<p>&brandShortName; iz nekog razloga ne može da učita stranicu.</p>">
+
+<!ENTITY malformedURI.title "Adresa je nevažeća">
+<!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "<ul> 
+<li>Web adrese se obično pišu kao 
+<strong>http://www.primjer.ba/</strong></li> 
+<div id='searchbox'> 
+<input id='searchtext' type='search'></input> 
+<button id='searchbutton'>Traži</button> 
+</div> 
+<li>Provjerite da li koristite kose crte nagnute naprijed (npr. 
+<strong>/</strong>).</li> 
+</ul>">
+
+<!ENTITY netInterrupt.title "Veza je prekinuta">
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
+
+<!ENTITY notCached.title "Dokument je istekao">
+<!ENTITY notCached.longDesc "<p>Traženi dokument nije dostupan u &brandShortName; kešu.</p><ul><li>Kao sigurnosna predostrožnost, &brandShortName; automatski ne traži ponovo osjetljive dokumente.</li><li>Kliknite Pokušaj ponovo da ponovo zatražite dokument od web stranice.</li></ul>">
+
+<!ENTITY netOffline.title "Offline režim">
+<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY netOffline.longDesc3 "<ul> 
+<li>Pokušajte ponovo. &brandShortName; će pokušati otvoriti vezu i ponovo učitati stranicu. 
+<button id='wifi'>Omogući Wi-Fi</button> 
+</li> 
+</ul>">
+
+<!ENTITY contentEncodingError.title "Greška u enkodiranju sadržaja">
+<!ENTITY contentEncodingError.longDesc "<ul> 
+<li>Molimo da kontaktirate vlasnike web stranice kako biste ih informisali o ovom problemu.</li> 
+</ul>">
+
+<!ENTITY unsafeContentType.title "Nesiguran tip fajla">
+<!ENTITY unsafeContentType.longDesc "<ul> 
+<li>Molimo da kontaktirate vlasnike web stranice kako biste ih informisali o ovom problemu.</li> 
+</ul>">
+
+<!ENTITY netReset.title "Veza je resetovana">
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
+
+<!ENTITY netTimeout.title "Veza je istekla">
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
+
+<!ENTITY unknownProtocolFound.title "Adresa nije razumiva">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
+<li>Možda ćete trebati instalirati dodatni softver da otvorite ovu adresu.</li> 
+</ul>">
+
+<!ENTITY proxyConnectFailure.title "Proxy server odbija veze">
+<!ENTITY proxyConnectFailure.longDesc "<ul> 
+<li>Provjerite da li su postavke proxyja ispravne.</li> 
+<li>Kontaktirajte vašeg mrežnog administratora da provjerite da li proxy 
+server radi.</li> 
+</ul>">
+
+<!ENTITY proxyResolveFailure.title "Ne mogu da pronađem proxy server">
+<!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY proxyResolveFailure.longDesc3 "<ul> 
+<li>Provjerite da li su postavke proxyja ispravne.</li> 
+<li>Provjerite radi li podatkovna ili Wi-Fi veza vašeg uređaja. 
+<button id='wifi'>Omogući Wi-Fi</button> 
+</li> 
+</ul>">
+
+<!ENTITY redirectLoop.title "Stranica ne preusmjerava pravilno">
+<!ENTITY redirectLoop.longDesc "<ul> 
+<li>Ovaj problem ponekad može biti izazvan onemogućavanjem ili odbijanjem prihvatanja 
+kolačića.</li> 
+</ul>">
+
+<!ENTITY unknownSocketType.title "Neočekivani odgovor od servera">
+<!ENTITY unknownSocketType.longDesc "<ul> 
+<li>Provjerite da li je na vaš sistem instaliran Personal Security 
+Manager.</li> 
+<li>Ovo može biti usljed nestandardne konfiguracije servera.</li> 
+</ul>">
+
+<!ENTITY nssFailure2.title "Neuspjela sigurna veza">
+<!ENTITY nssFailure2.longDesc2 "<ul> 
+<li>Stranica koju pokušavate otvoriti ne može biti prikazana jer autentičnost primljenih podataka nije moguće provjeriti.</li> 
+<li>Molimo da kontaktirate vlasnike web stranice i da ih obavijestite o ovom problemu.</li> 
+</ul>">
+
+<!ENTITY nssBadCert.title "Neuspjela sigurna veza">
+
+<!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <xul:button> tags.  The only language content is the label= field,
+which uses strings already defined above. The button is included here (instead of
+netError.xhtml) because it exposes functionality specific to firefox. -->
+
+
+
