@@ -71,18 +71,19 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Niste prijavljeni.">
 <!ENTITY signIn.label                "Prijava">
-
+<!ENTITY profilePicture.tooltip      "Primijeni sliku profila">
 <!ENTITY manage.label                "Upravljanje">
 <!ENTITY disconnect.label            "Prekini vezu...">
 <!ENTITY verify.label                "Potvrda e-pošte">
 <!ENTITY forget.label                "Zaboravi ovu adresu e-pošte">
 
 <!ENTITY welcome.description "Pristupite svojim karticama, lozinkama i ostalim stvarima gdje god koristili &brandShortName;.">
-
-
+<!ENTITY welcome.signIn.label "Prijava">
+<!ENTITY welcome.createAccount.label "Stvori račun">
 
 <!ENTITY welcome.useOldSync.label "Koristite stariju inačicu Synca?">
 
+<!ENTITY signedOut.caption            "Ponesite vaš Web sa sobom">
 
 
 
