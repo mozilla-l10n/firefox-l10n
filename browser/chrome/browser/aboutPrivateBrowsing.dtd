@@ -13,6 +13,8 @@
      of the Tracking Protection section, and in general not much larger than
      30em to prevent the sections from wrapping on smaller window sizes.
      -->
+
+<!ENTITY aboutPrivateBrowsing.width            "30em">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
      aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
      These strings will be replaced by aboutPrivateBrowsing.forgotten and
@@ -55,6 +57,7 @@
 <!ENTITY trackingProtection.state.enabled      "Iesl.">
 <!ENTITY trackingProtection.state.disabled     "Izsl.">
 
+<!ENTITY trackingProtection.description1       "Privātais logs šobrīd bloķē tās lapas daļas, kas var izsekot jūsu pārlūkošanas aktivitātēm.">
 
 <!ENTITY trackingProtection.disable            "Izslēgt izsekošanas aizsardzību">
 <!ENTITY trackingProtection.enable             "Ieslēgt izsekošanas aizsardzību">
