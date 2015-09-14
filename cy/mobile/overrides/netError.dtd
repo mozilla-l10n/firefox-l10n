@@ -27,8 +27,8 @@
 <input id='searchtext' type='search'></input> 
 <button id='searchbutton'>Chwilio</button> 
 </div> 
-<li>Os nad oeddech yn gallu llwytho unrhyw dudalennau, gwiriwch ddata eich dyfais neu'r cysylltiad diwyfr. 
-<button id='wifi'>Galluogi'r Diwyfr</button> 
+<li>Os nad oeddech yn gallu llwytho unrhyw dudalennau, gwiriwch ddata eich dyfais neu'r cysylltiad diwifr. 
+<button id='wifi'>Galluogi'r Diwifr</button> 
 </li> 
 </ul>">
 
@@ -67,7 +67,7 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY netOffline.longDesc3 "<ul> 
 <li>Ceisiwch eto. Bydd &brandShortName; yn ceisio agor cysylltiad ac ailagor y dudalen. 
-<button id='wifi'>Galluogi Diwyfr</button> 
+<button id='wifi'>Galluogi Diwifr</button> 
 </li> 
 </ul>">
 
@@ -105,7 +105,7 @@
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> 
 <li>Gwiriwch eich gosodiadau dirprwy i sicrhau eu bod yn gywir.</li> 
 <li>Gwiriwch i sicrhau fod gennych gysylltiad data a Wi-Fi sy'n gweithio. 
-<button id='wifi'>Galluogi Diwyfr</button> 
+<button id='wifi'>Galluogi Diwifr</button> 
 </li> 
 </ul>">
 
@@ -141,7 +141,7 @@ mai gwall dros dro ydyw ac i geisio eto.</li>
 <!ENTITY sharedLongDesc3 "<ul> 
 <li>Mae'n bosib fod y wefan yn brysur neu ddim ar gael. Ceisiwch eto cyn bo hir.</li> 
 <li>Os nad oes modd i chi lwytho unrhyw dudalennau, gwiriwch gysylltiad data neu ddiwifr eich dyfais symudol. 
-<button id='wifi'>Galluogi Diwyfr</button> 
+<button id='wifi'>Galluogi Diwifr</button> 
 </li> 
 </ul>">
 

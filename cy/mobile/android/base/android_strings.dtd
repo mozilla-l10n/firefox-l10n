@@ -159,8 +159,8 @@
 <!ENTITY pref_category_devtools "Offer datblygwyr">
 <!ENTITY pref_developer_remotedebugging "Dadfygio pell">
 <!ENTITY pref_developer_remotedebugging_usb "Dadfygio pell drwy USB">
-<!ENTITY pref_developer_remotedebugging_wifi "Dadfygio pell drwy\u0027r diwyfr">
-<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Mae dadfygio pell drwy\u0027r diwyfr angen i\u0027ch dyfais gael ap darllenydd QR wedi ei osod.">
+<!ENTITY pref_developer_remotedebugging_wifi "Dadfygio pell drwy\u0027r diwifr">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Mae dadfygio pell drwy\u0027r diwifr angen i\u0027ch dyfais gael ap darllenydd QR wedi ei osod.">
 <!ENTITY pref_category_logins "Mewngofnodion">
 <!ENTITY pref_remember_signons2 "Cofio mewngfnodion">
 <!ENTITY pref_open_external_urls_privately_title "Agor dolenni o fewn pori Preifat">
@@ -324,12 +324,12 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Adroddwr Chwalu">
 <!ENTITY datareporting_wifi_title2 "Gwasanaethau Lleoliad &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary4 "Cynorthwywch &vendorShortName; i fapio\u0027r byd! Rhannwch leoliadau diwyfr a cellol bras eich dyfais er mwyn gwella ein gwasanaeth geoleoliad.">
+<!ENTITY datareporting_wifi_geolocation_summary4 "Cynorthwywch &vendorShortName; i fapio\u0027r byd! Rhannwch leoliadau diwifr a cellol bras eich dyfais er mwyn gwella ein gwasanaeth geoleoliad.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
 <!ENTITY pref_update_autodownload2 "Llwytho ddiweddariadau i lawr yn awtomatig">
-<!ENTITY pref_update_autodownload_wifi "Dim ond ar ddiwyfr">
+<!ENTITY pref_update_autodownload_wifi "Dim ond ar diwifr">
 <!ENTITY pref_update_autodownload_never "Byth">
 <!ENTITY pref_update_autodownload_always "Bob tro">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
