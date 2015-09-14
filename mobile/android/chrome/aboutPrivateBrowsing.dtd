@@ -6,13 +6,18 @@
 <!-- Localisation note: the plus sign here is a shorthand way of expressing the word "and". Contextually the privatebrowsingpage.title.private string
                         is used as a title, with the privatebrowsingpage.title string preceding it but on a separate line.
                         So the final line will say "Private Browsing + Tracking Protection". -->
+
+<!ENTITY privatebrowsingpage.title.private "+ Slědowański šćit">
 <!-- Localization note (privatebrowsingpage.title.normal1): "Private Browsing"
      is capitalized in English to be consistent with our existing uses of the
      term. -->
+<!ENTITY privatebrowsingpage.title.normal1 "Njejsćo w priwatnem modusu">
 
+<!ENTITY privatebrowsingpage.description.private3 "Firefox zajźujo, až so slědujośo a njemarkujo žednu historiju, ale ześěgnjone dataje a nowe cytańska znamjenja składuju se na wašom rěźe.">
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing" is capitalized in English to be consistent with our existing uses
      of the term. -->
+<!ENTITY privatebrowsingpage.description.normal2 "W priwatnem modusu waša pśeglědowańska historija abo waše cookiejei njewuchowaju. Cytańske znamjenja, kótarež pśidawaśo a dataje, kótarež ześěgujośo, składuju se na wašom rěźe.">
 
 <!ENTITY privatebrowsingpage.link.private "Cośo wěcej zgóniś?">
 <!ENTITY privatebrowsingpage.link.normal "W nowem priwatnem rejtarku wócyniś">
