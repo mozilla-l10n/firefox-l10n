@@ -3,14 +3,21 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY privatebrowsingpage.title "隐私浏览">
-<!ENTITY privatebrowsingpage.title.normal "您目前未处于隐私浏览模式">
+<!-- Localisation note: the plus sign here is a shorthand way of expressing the word "and". Contextually the privatebrowsingpage.title.private string
+                        is used as a title, with the privatebrowsingpage.title string preceding it but on a separate line.
+                        So the final line will say "Private Browsing + Tracking Protection". -->
 
-<!ENTITY privatebrowsingpage.issueDesc.normal2 "在隐私浏览模式中，我们不会保留您的任何浏览记录或者 Cookie。">
-<!ENTITY privatebrowsingpage.issueDesc.private2 "我们不会保留您的任何浏览记录或者 Cookie。">
+<!ENTITY privatebrowsingpage.title.private "+ 跟踪保护">
+<!-- Localization note (privatebrowsingpage.title.normal1): "Private Browsing"
+     is capitalized in English to be consistent with our existing uses of the
+     term. -->
+<!ENTITY privatebrowsingpage.title.normal1 "您目前未处于隐私浏览模式">
 
-<!ENTITY privatebrowsingpage.description2 "您添加的书签和您下载的文件仍将保存在您的设备上。">
-<!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
-<!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
+<!ENTITY privatebrowsingpage.description.private3 "Firefox 将避免您被跟踪，并且不会记录任何历史记录，但已下载的文件和添加的书签仍会保存到您的设备。">
+<!-- Localization note (privatebrowsingpage.description.normal2): "Private
+     Browsing" is capitalized in English to be consistent with our existing uses
+     of the term. -->
+<!ENTITY privatebrowsingpage.description.normal2 "在隐私浏览模式下，我们不会保存您的浏览记录或 Cookie。您添加的书签和下载的文件仍将保存到您的设备上。">
 
 <!ENTITY privatebrowsingpage.link.private "想了解更多？">
 <!ENTITY privatebrowsingpage.link.normal "打开一个新的隐私浏览标签页">

@@ -7,5 +7,5 @@
      example: You are currently on the _Stable_ update channel. -->
 
 <!ENTITY channel.description.start  "您目前在 ">
-<!ENTITY channel.description.end    "”软件更新通道。">
+<!ENTITY channel.description.end    " 更新通道。">
 <!ENTITY about.userAgent            "用户代理: ">

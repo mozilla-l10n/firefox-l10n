@@ -1,5 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+   %brandDTD;
 <!ENTITY aboutLogins.title                       "登录项">
+<!ENTITY aboutLogins.update                      "更新">
+<!ENTITY aboutLogins.emptyLoginText              "保护您的登录项的安全">
+<!ENTITY aboutLogins.emptyLoginHint              "使用 &brandShortName; 登录并保存，然后您的凭据就能出现在这里。">

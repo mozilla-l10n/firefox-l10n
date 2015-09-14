@@ -46,7 +46,7 @@
 <!ENTITY reloadButton.label           "重新加载">
 <!ENTITY reloadButton.tooltip         "重新载入当前页面">
 <!ENTITY stopButton.label             "停止">
-<!ENTITY stopButton.tooltip           "停止载入当前页">
+<!ENTITY stopButton.tooltip           "停止载入此页面">
 <!ENTITY searchButton.label           "检索">
 <!ENTITY searchButton.tooltip         "在左边的区域中输入文本并单击 搜索">
 <!ENTITY goButton.label               "转到">
