@@ -125,7 +125,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaHideControls.accesskey  "a">
 <!ENTITY videoFullScreen.label        "全屏">
 <!ENTITY videoFullScreen.accesskey    "F">
-<!ENTITY videoSaveImage.label         "将快照另存为…">
+<!ENTITY videoSaveImage.label         "将截图另存为…">
 <!ENTITY videoSaveImage.accesskey     "S">
 <!ENTITY videoShowStats.label         "显示统计信息">
 <!ENTITY videoShowStats.accesskey     "t">

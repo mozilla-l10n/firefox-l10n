@@ -115,7 +115,7 @@
 <!ENTITY showMessengerToolbarCmd.label "邮件工具栏">
 <!ENTITY showMessengerToolbarCmd.accesskey "M">
 <!ENTITY showSearchToolbarCmd.label "搜索栏">
-<!ENTITY showSearchToolbarCmd.accesskey "e">
+<!ENTITY showSearchToolbarCmd.accesskey "a">
 <!ENTITY showTabsToolbarCmd.label "标签工具栏">
 <!ENTITY showTabsToolbarCmd.accesskey "T">
 
