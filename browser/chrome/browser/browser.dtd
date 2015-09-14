@@ -110,7 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "s">
 
 <!ENTITY fxaSignIn.label "Prijavite se u &syncBrand.shortName.label;">
-
+<!ENTITY fxaSignedIn.tooltip "Otvori &syncBrand.shortName.label; postavke">
 <!ENTITY fxaSignInError.label "Ponovno povezivanje na &syncBrand.shortName.label;">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; omogućen">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; će ubrzo započeti sa sinkronizacijom.">
@@ -395,7 +395,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Prebaci na karticu:">
 
-
+<!ENTITY urlbar.searchSuggestionsNotification.question "Želite li unaprijediti vaše iskustvo pretraživanja sa prijedlozima?">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Saznajte više…">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Ne">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Da">
 <!-- 
@@ -426,6 +427,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      These are set as the aria-label attribute for the search input box and
      submit button in the in-content search UI, to be used by screen readers. -->
 
+<!ENTITY contentSearchInput.label     "Pojam pretraživanja">
+<!ENTITY contentSearchSubmit.label    "Pošalji pretragu">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -641,6 +644,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "Z">
 
+<!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "Stil stranice">
 <!ENTITY pageStyleMenu.accesskey "S">
@@ -680,31 +684,36 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "Gotovo">
 <!ENTITY editBookmark.cancel.label                   "Odustani">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "U">
 
 <!ENTITY identity.connectionSecure "Sigurna veza">
 <!ENTITY identity.connectionNotSecure "Veza nije sigurna">
-
+<!ENTITY identity.connectionFile "Ova stranica je spremljena na vaše računalo.">
 <!ENTITY identity.connectionVerified "&brandShortName; je potvrdio da ste sigurno povezani na ovu stranicu, koju pokreće:">
 <!ENTITY identity.connectionInternal "Ovo je sigurna &brandShortName; stranica.">
 <!-- Strings for connection state warnings. -->
 
-
-
+<!ENTITY identity.activeBlocked "&brandShortName; je blokirao dijelove ove stranice koji nisu sigurni.">
+<!ENTITY identity.passiveLoaded "Dijelovi ove stranice nisu sigurni (poput slika).">
+<!ENTITY identity.activeLoaded "Isključili ste zaštitu za ovu stranicu.">
+<!ENTITY identity.weakEncryption "Ova stranica koristi slabu enkripciju.">
 <!-- Strings for connection state warnings in the subview. -->
 
+<!ENTITY identity.description.insecure "Vaša veza s ovom stranicom nije privatna. Informacije koje pošaljete (npr. lozinke, poruke, broj kreditne kartice itd.) može vidjeti treća strana.">
+<!ENTITY identity.description.weakCipher "Vaša veza s ovom stranicom koristi slabu enkripciju i nije privatna.">
+<!ENTITY identity.description.weakCipher2 "Drugi ljudi mogu vidjeti vaše informacije ili modificirati ponašanje stranice.">
+<!ENTITY identity.description.activeBlocked "&brandShortName; je blokirao dijelove ove stranice koji nisu sigurni.">
+<!ENTITY identity.description.passiveLoaded "Vaša veza nije privatna i informacije koje dijelite s ovom stranicom mogu vidjeti drugi.">
+<!ENTITY identity.description.passiveLoaded2 "Ova stranica ima sadržaj koji nije siguran (npr. slike).">
+<!ENTITY identity.description.passiveLoaded3 "Iako je &brandShortName; blokirao dio sadržaja, još uvijek postoje nesigurni sadržaji na ovoj stranici (poput slika).">
+<!ENTITY identity.description.activeLoaded "Ova stranica ima nesiguran sadržaj (poput skripti) i vaša veza nije privatna.">
+<!ENTITY identity.description.activeLoaded2 "Informacije koje dijelite s ovom stranicom (npr. lozinke, poruke, broj kreditne kartice itd.) može vidjeti treća strana.">
 
-
-
-
-
-
-
-
-
+<!ENTITY identity.enableMixedContentBlocking.label "Omogući zaštitu">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "O">
 <!ENTITY identity.disableMixedContentBlocking.label "Onemogući zaštitu za sada">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "d">
-
+<!ENTITY identity.learnMore "Saznajte više">
 
 <!ENTITY identity.moreInfoLinkText2 "Više informacija">
 
@@ -781,29 +790,32 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
 <!ENTITY getUserMedia.selectMicrophone.label "Mikrofor za dijeljenje:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
-
+<!ENTITY getUserMedia.audioCapture.label "Zvuk iz kartice će biti dijeljen.">
 <!ENTITY getUserMedia.allWindowsShared.message "Svi vidljivi prozori na vašem ekranu će biti dijeljeni.">
 
-
-
-
+<!ENTITY trackingProtection.title "Zaštita od praćenja">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; sada blokiraj dijelove stranice koji mogu vratiti vašu aktivnost.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "Ova stranica sadrži elemente koji mogu pratiti vaše pretraživanje. Isključili ste zaštitu.">
+<!ENTITY trackingProtection.notDetected3 "Na ovoj stranici nisu pronađeni elementi za praćenje.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-
+<!ENTITY trackingProtection.unblock.label "Onemogući zaštitu na ovoj stranici">
+<!ENTITY trackingProtection.unblock.accesskey "n">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-
-
-
+<!ENTITY trackingProtection.unblockPrivate.label "Onemogući zaštitu za ovu sesiju">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "n">
+<!ENTITY trackingProtection.block2.label "Omogući zaštitu">
+<!ENTITY trackingProtection.block2.accesskey "O">
 
 <!ENTITY trackingContentBlocked.message "Praćenje">
 <!ENTITY trackingContentBlocked.moreinfo "Dijelovi stranice koji prate vašu online aktivnost su blokirani.">
 <!ENTITY trackingContentBlocked.learnMore "Saznajte više">
-
-
-
+<!ENTITY trackingContentBlocked.options "Mogućnosti">
+<!ENTITY trackingContentBlocked.unblock2.label "Onemogući zaštitu na ovoj stranici">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "n">
 <!ENTITY trackingContentBlocked.block.label "Omogući zaštitu">
 <!ENTITY trackingContentBlocked.block.accesskey "O">
 <!ENTITY trackingContentBlocked.disabled.message "Zaštita od praćenja je isključena">
