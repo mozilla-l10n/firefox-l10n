@@ -10,7 +10,7 @@
 <!ENTITY  onboard_start_subtext3 "Čińće swoje mobilne webpřehladowanske dožiwjenje woprawdźe k swojemu.">
 <!ENTITY  onboard_start_button_account "Pola &brandShortName; přizjewić">
 <!ENTITY  onboard_start_button_browser "Přehladowanje startować">
-<!ENTITY  onboard_start_restricted1 "Wostańće dale wěsty a mějće dale kontrolu z tutej zjednorjenej weriju &brandShortName;.">
+<!ENTITY  onboard_start_restricted1 "Wostańće dale wěsty a mějće dale kontrolu z tutej zjednorjenej wersiju &brandShortName;.">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -560,7 +560,7 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_connection_secure "Wěsty zisk">
+<!ENTITY identity_connection_secure "Wěsty zwisk">
 <!ENTITY identity_connection_insecure "Njewěsty zwisk">
 <!-- Mixed content notifications in site identity popup -->
 
