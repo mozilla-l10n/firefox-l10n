@@ -131,6 +131,8 @@
      particular version of Firefox installed (Release, Beta, Aurora,
      etc).  The account remains a "Firefox Account". -->
 
+<!ENTITY fxaccount_create_account_header2 "ایجاد یک حساب کاربری فایرفاکس">
+
 
 
 
@@ -146,12 +148,12 @@
 <!ENTITY fxaccount_account_create_not_allowed_learn_more "اطلاعات بیشتر">
 
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
+<!ENTITY fxaccount_confirm_account_resend_email "ارسال مجدد پست الکترونیکی ">
+
+<!ENTITY fxaccount_confirm_account_verification_link_sent2 "پست‌الکترونیکی تایید ارسال شد">
 
 
-
-
-
-
+<!ENTITY fxaccount_unlock_code_sent " پست الکترونیکی بازکردن حساب کاربری ارسال شد">
 
 
 
@@ -159,6 +161,7 @@
 
 <!ENTITY fxaccount_sign_in_unknown_error "امکان وارد شدن وجود ندارد">
 
+<!ENTITY fxaccount_account_verified_sub_header "حساب تایید شد">
 
 
 
@@ -166,7 +169,7 @@
 
 
 
-
+<!ENTITY fxaccount_finish_migrating_description "ارتقا مقدار زیادی داده منتقل می‌کند. بهتر است از Wi-Fi استفاده شود.">
 
 
 
@@ -176,6 +179,7 @@
 <!ENTITY fxaccount_status_sync_server "کارگزار هم‌گام‌سازی">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: فعال شد">
+<!ENTITY fxaccount_status_needs_verification2 "حساب کاربری شما نیاز به تایید شدن دارد. برای ارسال دوباره نامه الکترونیکی تایید، تپ کنید">
 
 
 
@@ -185,16 +189,15 @@
 
 
 
-
-
+<!ENTITY fxaccount_status_legal "قانونی" >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
+<!ENTITY fxaccount_status_linkprivacy "شرایط حفظ حریم خصوصی">
 
 
-
-
+<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; همگام سازی با حساب شما را متوقف می‌کند, اما هیچ کدوم از اطلاعات مرورگر شما بر روی دستگاه را حذف نمی‌کند.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "حساب فایرفاکس &formatS; حذف شد">
@@ -226,11 +229,12 @@
 
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "مشکلی پیش آمده است">
 
-
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "حساب قفل شده است. &formatS1;">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; به شبکه وصل نیست">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 
+<!ENTITY fxaccount_sync_finish_migrating_notification_title "اتمام هم‌گام‌سازی &syncBrand.shortName.label;؟">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->

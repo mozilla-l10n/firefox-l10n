@@ -73,5 +73,8 @@
 
 
 
+#define bookmarks_marketplace فروشگاه فایرفاکس
+
+
 
 #unfilter emptyLines
