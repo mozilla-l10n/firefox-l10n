@@ -69,8 +69,8 @@
 <!ENTITY edit_mode_cancel "انصراف">
 
 <!ENTITY close_tab "بستن زبانه">
-
-
+<!ENTITY tab_audio_playing "این زبانه در حال پخش صدا است">
+<!ENTITY tab_audio_muted "صدای این زبانه قطع شده است">
 <!ENTITY one_tab "1 زبانه">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -87,7 +87,7 @@
 <!ENTITY pref_category_input_options "تنظیمات ورودی ">
 <!ENTITY pref_category_advanced "پیشرفته">
 <!ENTITY pref_category_customize "سفارشی‌سازی">
-
+<!ENTITY pref_category_customize_summary "خانه، جستجو، زبانه‌ها، وارد کردن">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -138,9 +138,9 @@
 <!ENTITY pref_category_search3 "جستجو">
 <!ENTITY pref_category_search_summary "جستجوگر خود را شخصی سازی نمایید">
 <!ENTITY pref_category_display "نمایش">
-
+<!ENTITY pref_category_display_summary "متن, نوار عنوان, مرورگر کردن به صورت تمام صفحه">
 <!ENTITY pref_category_privacy_short "حریم‌خصوصی">
-
+<!ENTITY pref_category_privacy_summary2 "مدیریت ورود, کوکی‌ها, ره‌گیری, داده">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 
 <!ENTITY pref_category_datareporting "انتخاب داده‌ها">
@@ -155,11 +155,12 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY pref_search_hint "نکته: هر وب سایتی را با فشردن طولانی بر روی فیلد جستجو و تپ بر روی ایکون&formatI;  به فهرست تامین کننده‌های جستجو اضافه کنید.">
 <!ENTITY pref_category_devtools "ابزارهای توسعه‌دهندگان">
 <!ENTITY pref_developer_remotedebugging "رفع‌اشکال از راه دور">
-
-
-
+<!ENTITY pref_developer_remotedebugging_usb "رفع اشکال راه دور به واسطه‌ی USB">
+<!ENTITY pref_developer_remotedebugging_wifi "رفع اشکال از راه دور به وسیله Wi-Fi">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "رفع اشکال زدایی توسط Wi-Fi نیازمند نصب برنامه ‌تشخیص کد QR بر روی دستگاه شما می باشد.">
 <!ENTITY pref_category_logins "ورود">
 <!ENTITY pref_remember_signons2 "بخاطر سپردن ورودها">
 <!ENTITY pref_open_external_urls_privately_title "باز کردن پیوند در زبانه خصوصی">
@@ -180,7 +181,7 @@
 
 
 <!ENTITY pref_home_suggested_sites "نمایش پیشنهادهای سایت">
-
+<!ENTITY pref_home_suggested_sites_summary "ما تصور می کنیم نمایش کلیدهای میانبربه وب سایت های شما بر روی صفحه خانگی ممکن است جذاب باشد">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 
@@ -194,13 +195,14 @@
 <!ENTITY pref_cookies_not_accept_foreign "فعال شده، بدون شخص ثالث">
 <!ENTITY pref_cookies_disabled "غیرفعال شد">
 
+<!ENTITY pref_tracking_protection_title "محافظت در برابر ردگیری">
 
 
-
+<!ENTITY pref_donottrack_summary "&brandShortName; به سایت‌ها خواهد گفت که شما نمی‌خواهید ردیابی شوید.">
 
 <!ENTITY tracking_protection_prompt_text "به صورت خودکار عناصر ردیابی بلاک می شود بنابراین جایی برای نگرانی وجود ندارد.">
 
-
+<!ENTITY tracking_protection_prompt_action_button "گرفتم!">
 
 <!ENTITY tab_queue_toast_message3 "زبانه در &brandShortName; ذخیره شد">
 
@@ -223,7 +225,7 @@
 
 <!ENTITY pref_clear_private_data_category "پاک‌سازی اطلاعات خصوصی">
 
-<!ENTITY pref_clear_on_exit_summary2 "هنگامی که شما\u0022Quit\u0022 از منو اصلی را انتخاب کنید brandShortName;به صورت خودکار اطلاعات شما را پاکسازی خواهدکرد">
+
 
 <!ENTITY pref_plugins "افزونه‌ها">
 
@@ -255,7 +257,7 @@ size. -->
 
 
 
-
+<!ENTITY pref_voice_input_summary "مجوز فرمان صوتی در نوار عنوان">
 
 
 
@@ -265,8 +267,8 @@ size. -->
 <!ENTITY pref_search_suggestions "نمایش پیشنهادهای جست‌وجو">
 <!ENTITY pref_import_android "وارد کردن از آندروید">
 
-
-
+<!ENTITY pref_private_data_history2 "تاریخچه‌ی مرورگر">
+<!ENTITY pref_private_data_searchHistory "جست‌وجو در تاریخچه">
 
 
 

@@ -66,7 +66,11 @@
 </ul>">
 
 <!ENTITY proxyConnectFailure.title "کارگزار پیشکار از اتصال خودداری می‌کند.">
-<!ENTITY proxyConnectFailure.longDesc "<ul> <li>تنظیمات پیشکار را بررسی کنید که صحیح باشند.</li> <li>با مدیر شبکه تماس بگیرید تا مطمئن شوید که کارگزار پیشکار عمل می‌کند.</li> </ul>">
+<!ENTITY proxyConnectFailure.longDesc "<ul> 
+<li>صحت تنظیمات پیشکاررا جهت اطمینان بررسی کنید.</li>
+<li> با مدیر شبکه خود جهت اطمینان از صحت کارکرد تنظیمات کارگزار پیشکار 
+ خود تماس بگیرید.</li>
+</ul>">
 
 <!ENTITY proxyResolveFailure.title "کارگزار پیشکار پیدا نمی‌شود">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
