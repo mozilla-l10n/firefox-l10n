@@ -13,3 +13,4 @@
 <!ENTITY showAllUnreadMessagesCount.accesskey  "u">
 <!ENTITY dockIconBadge.label                   "Rakenduse ikooni valikud">
 <!ENTITY dockIconShow.label                    "Rakenduse ikoonil kuvatakse:">
+<!ENTITY directNotificationSettings.label      "Rakenduse ikooni loendur on võimalik keelata süsteemi seadetes, teavituste paneelis.">
