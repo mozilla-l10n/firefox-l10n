@@ -72,7 +72,7 @@
 <!ENTITY projects.addHosted "افزودن برنامه میزبانی شده">
 
 <!ENTITY projects.title "برنامه‌های محلی">
-
+<!ENTITY projects.appDetails "جزئیات برنامه">
 
 <!ENTITY projects.updateApp "به‌هنگام‌سازی">
 
@@ -89,7 +89,7 @@
 <!ENTITY projects.valid "معتبر">
 <!ENTITY projects.error "خطا">
 <!ENTITY projects.warning "هشدار">
-
+<!ENTITY projects.hosted "میزبانی شده">
 
 
 <!ENTITY help.title "مدیریت برنامه">
