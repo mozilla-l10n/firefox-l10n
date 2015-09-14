@@ -26,7 +26,7 @@
 <!ENTITY migrating.title                "Se importă…">
 <!ENTITY migrating.label                "Se importă următoarele elemente…">
 
-<!ENTITY selectProfile.title            "Alegere profil">
+<!ENTITY selectProfile.title            "Selectați profilul">
 <!ENTITY selectProfile.label            "Puteți importa din următoarele profiluri:">
 
 <!ENTITY done.title                     "Import încheiat">
