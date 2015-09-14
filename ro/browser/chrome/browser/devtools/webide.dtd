@@ -98,7 +98,7 @@
 <!-- New App -->
 
 <!ENTITY newAppWindowTitle "Aplicație nouă">
-<!ENTITY newAppHeader "Alegere șablon">
+<!ENTITY newAppHeader "Selectați șablon">
 <!ENTITY newAppLoadingTemplate "Se încarcă șabloanele…">
 <!ENTITY newAppProjectName "Numele proiectului:">
 <!-- Decks -->
