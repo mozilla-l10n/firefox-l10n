@@ -711,7 +711,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.enableMixedContentBlocking.accesskey "P">
 <!ENTITY identity.disableMixedContentBlocking.label "Vypnout ochranu nyní">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "V">
-<!ENTITY identity.learnMore "Zjistit více"
+<!ENTITY identity.learnMore "Zjistit více">
    
 <!ENTITY identity.moreInfoLinkText2 "Další informace">
 
