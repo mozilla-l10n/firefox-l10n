@@ -9,6 +9,9 @@
 <!ENTITY provideSearchSuggestions.label        "Ofro këshillime kërkimesh">
 <!ENTITY provideSearchSuggestions.accesskey    "O">
 
+<!ENTITY showURLBarSuggestions.label           "Shfaq te përfundimet për shtyllë vendesh këshillime kërkimi">
+<!ENTITY showURLBarSuggestions.accesskey       "k">
+
 <!ENTITY redirectWindowsSearch.label "Përdor këtë motor kërkimesh për kërkime nga Windows">
 <!ENTITY redirectWindowsSearch.accesskey "W">
 
