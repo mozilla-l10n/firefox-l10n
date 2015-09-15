@@ -8,7 +8,7 @@
 <!ENTITY index.help "Cabhair">
 
 <!ENTITY device.debugMainProcess "Dífhabhtaigh an príomhphróiseas">
-<!ENTITY device.debugMainProcessTooltip "Oscail na hUirlisí Forbróra ceangailte leis an bpríomhphróiseas ar an ngléas">
+<!ENTITY device.debugMainProcessTooltip "Oscail na hUirlisí Forbartha ceangailte leis an bpríomhphróiseas ar an ngléas">
 <!ENTITY device.screenshot "Seat den Scáileán">
 <!ENTITY device.screenshotTooltip "Oscail seat den scáileán mar atá sé faoi láthair i gcluaisín nua">
 <!ENTITY device.title "Lárionad Rialaithe">

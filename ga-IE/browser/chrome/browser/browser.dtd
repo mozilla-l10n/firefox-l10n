@@ -276,7 +276,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY browserContentToolboxMenu.label     "Bosca Uirlisí Ábhair Bhrabhsálaí">
 <!ENTITY browserContentToolboxMenu.accesskey "U">
 
-<!ENTITY devToolbarCloseButton.tooltiptext "Dún an Barra Uirlisí d'Fhorbróirí">
+<!ENTITY devToolbarCloseButton.tooltiptext "Dún Barra na nUirlisí Forbartha">
 <!ENTITY devToolbarMenu.label              "Barra Uirlisí d'Fhorbróirí">
 <!ENTITY devToolbarMenu.accesskey          "b">
 <!ENTITY devAppMgrMenu.label               "Bainisteoir Aipeanna">
