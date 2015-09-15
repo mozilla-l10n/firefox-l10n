@@ -110,7 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "k">
 
 <!ENTITY fxaSignIn.label "Jungtis prie „&syncBrand.shortName.label;“">
-
+<!ENTITY fxaSignedIn.tooltip "Atverti „&syncBrand.shortName.label;“ nuostatas">
 <!ENTITY fxaSignInError.label "Iš naujo jungtis prie „&syncBrand.shortName.label;“">
 <!ENTITY syncStartPanel2.heading "„&syncBrand.shortName.label;“ įgalinta">
 <!ENTITY syncStartPanel2.subTitle "„&brandShortName;“ tuoj pat pradės sinchronizavimą.">
@@ -425,7 +425,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
      These are set as the aria-label attribute for the search input box and
      submit button in the in-content search UI, to be used by screen readers. -->
-
+<!ENTITY contentSearchSubmit.label    "Išsiųsti paiešką">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -689,14 +689,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionInternal "Tai yra saugus „&brandShortName;“ tinklalapis.">
 <!-- Strings for connection state warnings. -->
 
+<!ENTITY identity.activeBlocked "„&brandShortName;“ užblokavo nesaugias šio tinklalapio dalis.">
 
-
+<!ENTITY identity.activeLoaded "Šiame tinklalapyje esate išjungę apsaugą.">
+<!ENTITY identity.weakEncryption "Šis tinklalapis naudoja silpną šifravimą.">
 <!-- Strings for connection state warnings in the subview. -->
 
+<!ENTITY identity.description.insecure "Jūsų ryšys su šia svetaine nėra privatus. Jūsų pateikta informacija gali būti peržiūrėta kitų (pvz., slaptažodžiai, žinutės, banko kortelės, kita).">
 
 
-
-
+<!ENTITY identity.description.activeBlocked "„&brandShortName;“ užblokavo nesaugias šio tinklalapio dalis.">
+<!ENTITY identity.description.passiveLoaded "Jūsų ryšys nėra privatus, tad šiai svetainei pateikta informacija gali būti peržiūrėta kitų.">
+<!ENTITY identity.description.passiveLoaded2 "Šioje svetainėje yra nesaugaus turinio (pvz., paveikslų).">
 
 
 
@@ -704,7 +708,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.disableMixedContentBlocking.label "Laikinai išjungti apsaugą">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "L">
-
+<!ENTITY identity.learnMore "Sužinoti daugiau">
 
 <!ENTITY identity.moreInfoLinkText2 "Daugiau informacijos">
 
@@ -784,7 +788,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY getUserMedia.allWindowsShared.message "Bus leidžiama matyti visus jūsų ekrane matomus langus.">
 
-
+<!ENTITY trackingProtection.detectedBlocked3 "„&brandShortName;“ blokuoja jūsų naršymą galinčias stebėti šio tinklalapio dalis.">
 
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
@@ -802,8 +806,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.moreinfo "Tinklalapio dalys, stebinčios jūsų veiksmus internete, buvo užblokuotos.">
 <!ENTITY trackingContentBlocked.learnMore "Sužinoti daugiau">
 
-
-
+<!ENTITY trackingContentBlocked.unblock2.label "Išjungti apsaugą šioje svetainėje">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "I">
 <!ENTITY trackingContentBlocked.block.label "Įjungti apsaugą">
 <!ENTITY trackingContentBlocked.block.accesskey "Į">
 <!ENTITY trackingContentBlocked.disabled.message "Apsauga nuo stebėjimo yra išjungta">
