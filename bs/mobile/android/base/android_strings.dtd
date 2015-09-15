@@ -3,17 +3,25 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
+<!ENTITY  no_space_to_start_error "Nema dovoljno prostora za pokretanje &brandShortName;a.">
+<!ENTITY  error_loading_file "Došlo je do greške prilikom učitavanja fajlova potrebnih za pokretanje &brandShortName;a">
 
-
-
-
+<!ENTITY  onboard_start_message3 "Surfajte s &brandShortName;om">
+<!ENTITY  onboard_start_subtext3 "Učinite svoje mobilno iskustvo surfanja internetom jedinstvenim.">
+<!ENTITY  onboard_start_button_account "Prijavi se u &brandShortName;">
+<!ENTITY  onboard_start_button_browser "Započni surfanje">
+<!ENTITY  onboard_start_restricted1 "Ostanite sigurni i zadržite kontrolu s ovom pojednostavljenom verzijom &brandShortName;a.">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
+<!ENTITY  bookmarks_title "Zabilješke">
+<!ENTITY  history_title "Historija">
+<!ENTITY  reading_list_title "Lista za čitanje">
+<!ENTITY  recent_tabs_title "Nedavni tabovi">
 
+<!ENTITY  switch_to_tab "Prebaci na tab">
 
-
-
+<!ENTITY  crash_reporter_title "&brandShortName; izvjestilac o rušenju">
 
 
 

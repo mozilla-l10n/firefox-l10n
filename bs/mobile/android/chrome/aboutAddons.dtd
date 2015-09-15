@@ -2,10 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY aboutAddons.title2                     "Add-oni">
+<!ENTITY aboutAddons.header2                    "Vaši add-oni">
+<!ENTITY aboutAddons.options                    "Opcije">
 
+<!ENTITY addonAction.enable                     "Omogući">
+<!ENTITY addonAction.disable                    "Onemogući">
+<!ENTITY addonAction.uninstall                  "Deinstaliraj">
+<!ENTITY addonAction.undo                       "Poništi">
 
-
-
-
-
-
+<!ENTITY addonUnsigned.message                  "&brandShortName; nije mogao verifikovati ovaj add-on.">
+<!ENTITY addonUnsigned.learnMore                "Saznajte više">
