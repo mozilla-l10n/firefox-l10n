@@ -17,5 +17,3 @@
 <!ENTITY cmd.open.accesskey                        "O">
 <!ENTITY cmd.removeFromHistory.label               "Odstrániť z histórie">
 <!ENTITY cmd.removeFromHistory.accesskey           "d">
-<!ENTITY cmd.clearDownloads.label                  "Vymazať zoznam prevzatých súborov">
-<!ENTITY cmd.clearDownloads.accesskey              "V">
