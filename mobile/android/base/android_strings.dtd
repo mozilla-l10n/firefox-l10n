@@ -156,7 +156,7 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_search_hint "LEID: Is féidir aon suíomh Gréasáin a chur le do liosta de sholáthraithe cuardaigh trí fhadbhrú ar a réimse cuardaigh, ansin an deilbhín &formatI; a thapáil.">
-<!ENTITY pref_category_devtools "Uirlisí forbróra">
+<!ENTITY pref_category_devtools "Uirlisí forbartha">
 <!ENTITY pref_developer_remotedebugging "Cian-dífhabhtú">
 <!ENTITY pref_developer_remotedebugging_usb "Dífhabhtú i gcéin trí USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Dífhabhtú i gcéin trí Wi-Fi">
@@ -190,7 +190,7 @@
 <!ENTITY pref_header_help "Cabhair">
 <!ENTITY pref_header_language "Teanga">
 <!ENTITY pref_header_vendor "&vendorShortName;">
-<!ENTITY pref_header_devtools "Uirlisí forbróra">
+<!ENTITY pref_header_devtools "Uirlisí forbartha">
 
 <!ENTITY pref_cookies_menu "Fianáin">
 <!ENTITY pref_cookies_accept_all "Cumasaithe">
