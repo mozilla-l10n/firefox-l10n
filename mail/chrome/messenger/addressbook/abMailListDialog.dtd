@@ -7,8 +7,8 @@
 <!-- Labels -->
 <!ENTITY addToAddressBook.label         "Ychwanegu at: ">
 
-<!ENTITY ListName.label                 "Rhestr Enwau: ">
-<!ENTITY ListNickName.label             "Rhestr Llys Enw: ">
+<!ENTITY ListName.label                 "Enw'r Rhestr: ">
+<!ENTITY ListNickName.label             "Llys Enw'r Rhestr: ">
 <!ENTITY ListDescription.label          "Disgrifiad: ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label             "Teipiwch gyfeiriadau e-bost i'w hychwanegu at y rhestr e-bostio:">
@@ -17,7 +17,7 @@
 <!-- Access Keys -->
 
 <!ENTITY addToAddressBook.accesskey     "Y">
-<!ENTITY ListName.accesskey             "E">
+<!ENTITY ListName.accesskey             "R">
 <!ENTITY ListNickName.accesskey         "L">
 <!ENTITY ListDescription.accesskey      "D">
 
