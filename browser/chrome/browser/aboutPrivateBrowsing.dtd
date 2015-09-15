@@ -36,7 +36,7 @@
 <!ENTITY aboutPrivateBrowsing.info.downloads                "allalaadmised">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks                "järjehoidjad">
 
-<!ENTITY aboutPrivateBrowsing.note1                         "NB: sinu interneti teenusepakkuja või tööandja siiski sinu poolt külastatavaid lehti jälgida.">
+<!ENTITY aboutPrivateBrowsing.note1                         "NB: sinu interneti teenusepakkuja või tööandja võib siiski sinu poolt külastatavaid lehti jälgida.">
 <!ENTITY aboutPrivateBrowsing.learnMore                     "Rohkem teavet.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.width):
