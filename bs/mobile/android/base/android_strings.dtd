@@ -268,39 +268,45 @@ size. -->
 <!ENTITY pref_qrcode_enabled_summary "Dozvoli QR skener u naslovnoj traci">
 
 <!ENTITY pref_use_master_password "Koristi glavnu lozinku">
+<!ENTITY pref_sync "Sync">
+<!ENTITY pref_sync_summary2 "Sinhronizujte svoje tabove, zabilješke, prijave, historiju">
+<!ENTITY pref_search_suggestions "Prikaži prijedloge pretraživanja">
+<!ENTITY pref_import_android "Uvezi iz Androida">
+<!ENTITY pref_import_android_summary "Uvezi zabilješke i historiju iz nativnog browsera">
+<!ENTITY pref_private_data_history2 "Historija surfanja">
+<!ENTITY pref_private_data_searchHistory "Historija pretraživanja">
+<!ENTITY pref_private_data_formdata2 "Historija formulara">
+<!ENTITY pref_private_data_cookies2 "Kolačići i aktivne prijave">
+<!ENTITY pref_private_data_passwords2 "Spašene prijave">
+<!ENTITY pref_private_data_cache "Keš">
+<!ENTITY pref_private_data_offlineApps "Offline podaci web stranice">
+<!ENTITY pref_private_data_siteSettings2 "Postavke stranice">
+<!ENTITY pref_private_data_downloadFiles2 "Preuzimanja">
+<!ENTITY pref_private_data_syncedTabs "Sinhronizovani tabovi">
 
 
+<!ENTITY pref_about_firefox "O &brandShortName;u">
+<!ENTITY pref_vendor_faqs "Često postavljena pitanja">
+<!ENTITY pref_vendor_feedback "Dajte povratnu informaciju">
 
+<!ENTITY pref_dialog_set_default "Postavi kao glavno">
+<!ENTITY pref_dialog_default "Izvorno">
+<!ENTITY pref_dialog_remove "Ukloni">
 
+<!ENTITY pref_search_last_toast "Ne možete ukloniti niti onemogućiti vaš zadnji pretraživač.">
 
+<!ENTITY pref_panels_show "Prikaži">
+<!ENTITY pref_panels_hide "Sakrij">
+<!ENTITY pref_panels_reorder "Promijeni redoslijed">
+<!ENTITY pref_panels_move_up "Pomjeri gore">
+<!ENTITY pref_panels_move_down "Pomjeri dolje">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY datareporting_notification_title "&brandShortName; statistika i podaci">
+<!ENTITY datareporting_notification_action_long "Izaberite informacije koje ćete dijeliti">
+<!ENTITY datareporting_notification_action "Izaberite šta ćete dijeliti">
+<!ENTITY datareporting_notification_summary "Kako bismo poboljšali vaše iskustvo, &brandShortName; automatski šalje neke informacije &vendorShortName;-i.">
+<!ENTITY datareporting_notification_summary_short "Kako bismo poboljšali vaše iskustvo, &brandShortName;…">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
@@ -308,182 +314,241 @@ size. -->
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 
-
-
-
-
+<!ENTITY datareporting_fhr_title "&brandShortName; izvještaj o zdravlju">
+<!ENTITY datareporting_fhr_summary2 "Dijeli podatke sa &vendorShortName;-om o zdravlju vašeg browsera i pomaže vam da razumijete performanse istog.">
+<!ENTITY datareporting_abouthr_title "Prikaži moj izvještaj o zdravlju">
+<!ENTITY datareporting_telemetry_title "Telemetrija">
+<!ENTITY datareporting_telemetry_summary "Dijeli podatke o performansama, upotrebi, hardveru i prilagođenjima vašeg browsera sa &vendorShortName;-om kako bi nam pomogli da unaprijedimo &brandShortName;">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; šalje izvještaje o rušenju kako bi pomogli &vendorShortName;-i da učini vaš browser stabilnijim i sigurnijim">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
-
-
+<!ENTITY datareporting_crashreporter_title_short "Izvjestilac o rušenju">
+<!ENTITY datareporting_wifi_title2 "&vendorShortName; usluga lociranja">
+<!ENTITY datareporting_wifi_geolocation_summary4 "Pomozite &vendorShortName;-i da mapira svijet! Podijelite približnu Wi-Fi i mobilnu lokaciju svog uređaja kako biste poboljšali našu geolokacijsku uslugu.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-
-
-
+<!ENTITY pref_update_autodownload2 "Automatski preuzmi nadogradnje">
+<!ENTITY pref_update_autodownload_wifi "Samo preko Wi-Fi">
+<!ENTITY pref_update_autodownload_never "Nikad">
+<!ENTITY pref_update_autodownload_always "Uvijek">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
+<!ENTITY help_menu "Pomoć">
 
+<!ENTITY quit "Izlaz">
 
+<!ENTITY addons "Add-oni">
+<!ENTITY logins "Prijave">
+<!ENTITY downloads "Preuzimanja">
+<!ENTITY char_encoding "Enkodiranje karaktera">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY share "Dijeli">
+<!ENTITY share_title "Dijeli putem">
+<!ENTITY share_image_failed "Ne mogu podijeliti ovu sliku">
+<!ENTITY save_as_pdf "Spasi kao PDF">
+<!ENTITY find_in_page "Pronađi na stranici">
+<!ENTITY desktop_mode "Zatraži desktop stranicu">
+<!ENTITY page "Stranica">
+<!ENTITY tools "Alati">
+<!ENTITY new_tab "Novi tab">
+<!ENTITY new_private_tab "Novi privatni tab">
+<!ENTITY close_all_tabs "Zatvori sve tabove">
+<!ENTITY close_private_tabs "Zatvori privatne tabove">
+<!ENTITY tabs_normal "Tabovi">
+<!ENTITY tabs_private "Privatno">
+<!ENTITY tabs_synced "Sinhronizirano">
+<!ENTITY set_image_fail "Ne mogu postaviti sliku">
+<!ENTITY set_image_path_fail "Ne mogu spasiti sliku">
+<!ENTITY set_image_chooser_title "Postavi sliku kao">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
-
-
+<!ENTITY find_text "Pronađi na stranici">
+<!ENTITY find_prev "Prethodno">
+<!ENTITY find_next "Sljedeće">
+<!ENTITY find_close "Zatvori">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
+<!ENTITY media_sending_to "Šaljem na uređaj">
+<!ENTITY media_play "Play">
+<!ENTITY media_pause "Pauza">
+<!ENTITY media_stop "Zaustavi">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY contextmenu_open_new_tab "Otvori u novom tabu">
+<!ENTITY contextmenu_open_private_tab "Otvori u privatnom tabu">
+<!ENTITY contextmenu_remove "Ukloni">
+<!ENTITY contextmenu_add_to_launcher "Dodaj na početni ekran">
+<!ENTITY contextmenu_share "Dijeli">
+<!ENTITY contextmenu_pasteandgo "Zalijepi i otvori">
+<!ENTITY contextmenu_paste "Zalijepi">
+<!ENTITY contextmenu_copyurl "Kopiraj adresu">
+<!ENTITY contextmenu_edit_bookmark "Uredi">
+<!ENTITY contextmenu_subscribe "Pretplati se na stranicu">
+<!ENTITY contextmenu_site_settings "Uredi postavke stranice">
+<!ENTITY contextmenu_top_sites_edit "Uredi">
+<!ENTITY contextmenu_top_sites_pin "Zakači stranicu">
+<!ENTITY contextmenu_top_sites_unpin "Otkači stranicu">
+<!ENTITY contextmenu_add_search_engine "Dodaj pretraživač">
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
 
+<!ENTITY doorhanger_login_no_username "[Nema korisničkog imena]">
+<!ENTITY doorhanger_login_edit_title "Uredi prijavu">
+<!ENTITY doorhanger_login_edit_username_hint "Korisničko ime">
+<!ENTITY doorhanger_login_edit_password_hint "Lozinka">
+<!ENTITY doorhanger_login_edit_toggle "Prikaži lozinku">
+<!ENTITY doorhanger_login_edit_toast_error "Neuspjelo spašavanje prijave">
+<!ENTITY doorhanger_login_select_message "Kopiraj lozinku iz &formatS;?">
+<!ENTITY doorhanger_login_select_toast_copy "Lozinka kopirana u clipboard">
+<!ENTITY doorhanger_login_select_toast_copy_error "Neuspjelo kopiranje lozinke">
+<!ENTITY doorhanger_login_select_action_text "Izaberite drugu prijavu">
+<!ENTITY doorhanger_login_select_title "Kopiraj lozinku iz">
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY pref_titlebar_mode "Naslovna traka">
+<!ENTITY pref_titlebar_mode_title "Prikaži naslov stranice">
+<!ENTITY pref_titlebar_mode_url "Prikaži adresu stranice">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
+<!ENTITY pref_prevent_magnifying_glass "Onemogući povećalo ">
+<!ENTITY pref_prevent_magnifying_glass_summary "Spriječi upotrebu povećala u rješavanju nerazumljivih dodira ekrana">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
+<!ENTITY pref_scroll_title_bar2 "Surfanje preko cijelog ekrana">
+<!ENTITY pref_scroll_title_bar_summary "Sakrij &brandShortName; naslovnu traku prilikom skrolanja dolje po stranici">
 
-
+<!ENTITY pref_tab_queue_title2 "Otvori više linkova">
+<!ENTITY pref_tab_queue_summary3 "Spasite ih do sljedećeg pokretanja &brandShortName;a">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 
+<!ENTITY page_removed "Stranica uklonjena">
 
-
-
+<!ENTITY bookmark_edit_title "Uredi zabilješku">
+<!ENTITY bookmark_edit_name "Naziv">
+<!ENTITY bookmark_edit_location "Lokacija">
+<!ENTITY bookmark_edit_keyword "Ključna riječ">
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
-
-
+<!ENTITY site_settings_title3       "Postavke stranice">
+<!ENTITY site_settings_cancel       "Otkaži">
+<!ENTITY site_settings_clear        "Obriši">
+<!ENTITY site_settings_no_settings  "Nema postavki za brisanje.">
 <!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
 
+<!ENTITY reading_list_added3 "Dodano na listu za čitanje">
+<!ENTITY reading_list_removed "Stranica uklonjena sa liste za čitanje">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
-
+<!ENTITY reading_list_remove "Ukloni sa liste za čitanje">
+<!ENTITY reading_list_duplicate "Stranica je već na listi za čitanje">
 <!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
      panel on the home page to give the user an estimate of how many minutes it will take to
      read an article. The word "minute" should be abbreviated if possible. -->
 
+<!ENTITY reading_list_time_minutes2 "&formatD; min">
+<!ENTITY reading_list_time_over_an_hour "Više od sata">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
+<!ENTITY page_action_dropmarker_description "Dodatne radnje">
 
+<!ENTITY masterpassword_create_title "Kreiraj glavnu lozinku">
+<!ENTITY masterpassword_remove_title "Ukloni glavnu lozinku">
+<!ENTITY masterpassword_password "Lozinka">
+<!ENTITY masterpassword_confirm "Potvrdite lozinku">
 
+<!ENTITY button_ok "OK">
+<!ENTITY button_cancel "Otkaži">
+<!ENTITY button_yes "Da">
+<!ENTITY button_no "Ne">
+<!ENTITY button_clear_data "Obriši podatke">
+<!ENTITY button_set "Postavi">
+<!ENTITY button_clear "Obriši">
+<!ENTITY button_copy "Kopiraj">
 
+<!ENTITY firstrun_panel_title_welcome "Dobrodošli">
 
-
-
-
-
-
-
-
-
-
+<!ENTITY home_top_sites_title "Najposjećenije stranice">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
+<!ENTITY home_top_sites_add "Dodaj stranicu">
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
 
-
-
-
-
-
-
-
-
+<!ENTITY home_title "&brandShortName; početna">
+<!ENTITY home_history_title "Historija">
+<!ENTITY home_clear_history_button "Obriši historiju surfanja">
+<!ENTITY home_clear_history_confirm "Da li ste sigurni da želite obrisati vašu historiju?">
+<!ENTITY home_bookmarks_empty "Zabilješke koje spasite se pojave ovdje.">
+<!ENTITY home_closed_tabs_title "Nedavno zatvoreni tabovi">
+<!ENTITY home_last_tabs_title "Tabovi od zadnjeg puta">
+<!ENTITY home_last_tabs_empty "Vaši nedavno korišteni tabovi se pojave ovdje.">
+<!ENTITY home_open_all "Otvori sve">
+<!ENTITY home_most_recent_empty "Vaše najposjećenije stranice se pojave ovdje.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
-
+<!ENTITY home_most_recent_emptyhint2 "Šššš: korištenjem &formatS1;Novog privatnog taba&formatS2; vaša historija se neće pamtiti.">
+<!ENTITY home_reading_list_empty "Članci koje spasite za kasnije će se pojaviti ovdje.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY home_reading_list_hint2 "SAVJET: Spasite članke u listu za čitanje dugim pritiskom na &formatI; ikonu kada se pojavi u naslovnoj traci.">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
+<!ENTITY home_reading_list_hint_accessible "SAVJET: Spasite članke u listu za čitanje dugim pritiskom na dugme režima za čitanje kada se pojavi u naslovnoj traci.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
+
+<!ENTITY home_default_empty "Nije pronađen sadržaj za ovaj panel.">
 <!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
 
+<!ENTITY home_move_up_to_filter "Gore na &formatS;">
 
+<!ENTITY home_remote_tabs_title "Sinhronizovani tabovi">
+<!ENTITY home_remote_tabs_empty "Vaši tabovi sa drugih uređaja se pojave ovdje.">
+<!ENTITY home_remote_tabs_unable_to_connect "Ne mogu se povezati">
+<!ENTITY home_remote_tabs_need_to_sign_in "Prijavite se kako biste ponovno povezali vaš Firefox račun i nastavili sinhronizaciju.">
+<!ENTITY home_remote_tabs_need_to_finish_migrating "Vaš novi Firefox račun je spreman!">
 
+<!ENTITY home_remote_tabs_trouble_verifying "Problemi s potvrđivanjem vašeg računa?">
+<!ENTITY home_remote_tabs_need_to_verify "Potvrdite vaš Firefox račun da započnete sinhronizaciju.">
 
-
-
-
-
+<!ENTITY home_remote_tabs_one_hidden_device "1 skriveni uređaj">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; skrivenih uređaja">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "Skriveni uređaji">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "Prikaži izabrane uređaje">
 
+<!ENTITY remote_tabs_panel_moved_title "Gdje su nestali moji tabovi?">
+<!ENTITY remote_tabs_panel_moved_desc "Premjestili smo vaše tabove sa drugih uređaja u panel na vašoj početnoj stranici, kojem možete jednostavno pristupiti svaki put kada otvorite novi tab.">
+<!ENTITY remote_tabs_panel_moved_link "Odvedi me do novog panela.">
 
+<!ENTITY pin_site_dialog_hint "Unesite ključnu riječ za pretragu">
 
-
-
-
-
-
+<!ENTITY filepicker_title "Izaberi fajl">
+<!ENTITY filepicker_audio_title "Izaberite ili snimite zvuk">
+<!ENTITY filepicker_image_title "Izaberite ili snimite sliku">
+<!ENTITY filepicker_video_title "Izaberite ili snimite video">
 <!-- Site identity popup -->
+
+<!ENTITY identity_connected_to "Povezani ste na">
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -495,102 +560,147 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-
+<!ENTITY identity_connection_secure "Sigurna veza">
+<!ENTITY identity_connection_insecure "Nesigurna veza">
 <!-- Mixed content notifications in site identity popup -->
 
+<!ENTITY mixed_content_blocked_all "&brandShortName; je blokirao nesigurne elemente na stranici.">
+<!ENTITY mixed_content_blocked_some "&brandShortName; je blokirao neke nesigurne elemente na stranici.">
+<!ENTITY mixed_content_display_loaded "Ova stranica sadrži nekoliko nesigurnih elemenata.">
+<!ENTITY mixed_content_protection_disabled "Onemogućili ste zaštitu od nesigurnih elemenata.">
 
-
-
-
-
+<!ENTITY loaded_mixed_content_message "Ova stranica prikazuje sadržaj koji nije siguran.">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; je blokirao nesiguran sadržaj.">
+<!ENTITY blocked_mixed_content_message_bottom "Većina web stranica će ispravno raditi čak i ako je ovaj sadržaj blokiran.">
 <!-- Tracking content notifications in site identity popup -->
 
-
-
-
+<!ENTITY doorhanger_tracking_title "Zaštita od praćenja">
+<!ENTITY doorhanger_tracking_state_enabled "Omogućeno">
+<!ENTITY doorhanger_tracking_state_disabled "Onemogućeno">
+<!ENTITY doorhanger_tracking_message_enabled1 "Blokirani su pokušaju praćenja vašeg online ponašanja.">
+<!ENTITY doorhanger_tracking_message_disabled2 "Ova stranica sadrži elemente koji bi mogli pratiti vaše surfanje.">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
+<!ENTITY learn_more "Saznajte više">
+<!ENTITY enable_protection "Omogući zaštitu">
+<!ENTITY disable_protection "Onemogući zaštitu">
+<!ENTITY keep_blocking "Nastavi blokiranje">
 
+<!ENTITY private_data_success "Privatni podaci obrisani">
+<!ENTITY private_data_fail "Neki privatni podaci nisu mogli biti obrisani">
 
+<!ENTITY bookmarkhistory_button_import "Uvezi">
+<!ENTITY bookmarkhistory_import_both "Uvoz zabilješki i historije 
+iz Androida">
+<!ENTITY bookmarkhistory_import_bookmarks "Uvoz zabilješki 
+iz Androida">
+<!ENTITY bookmarkhistory_import_history "Uvoz historije 
+iz Androida">
+<!ENTITY bookmarkhistory_import_wait "Pričekajte...">
 
-
-
-
-
-
-
-
+<!ENTITY suggestions_prompt3 "Želite li uključiti prijedloge pretraživanja?">
 <!--  Localization note (search_bar_item_desc): When the user clicks the url bar
       and starts typing, a list of icons of search engines appears at the bottom
       of the screen. When a user clicks an icon, the entered text will be searched
       via the search engine that uses the icon they clicked. This text is used
       for screen reader users when they hover each icon - &formatS; will be
       replaced with the name of the currently highlighted icon. -->
+<!ENTITY search_bar_item_desc "Traži s &formatS;">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
 
+<!ENTITY suggestion_for_engine "Pretraži &formatS1; za &formatS2;">
 
-<!-- Updater notifications -->
+<!ENTITY webapp_generic_name "Aplikacija">
 
+<!ENTITY searchable_description "Zabilješke i historija">
+<!-- Updater notifications --> 
 
+<!ENTITY updater_start_title2 "Dostupna nadogradnja za &brandShortName;">
+<!ENTITY updater_start_select2 "Dodirnite za preuzimanje">
 
+<!ENTITY updater_downloading_title2 "Preuzimam &brandShortName;">
+<!ENTITY updater_downloading_title_failed2 "Neuspjelo preuzimanje">
+<!ENTITY updater_downloading_select2 "Dodirnite za primjenu nadogradnje nakon preuzimanja">
+<!ENTITY updater_downloading_retry2 "Dodirnite za novi pokušaj">
 
-
-
-
+<!ENTITY updater_apply_title2 "Dostupna nadogradnja za &brandShortName;">
+<!ENTITY updater_apply_select2 "Dodirnite za nadogradnju">
 <!-- Guest mode -->
 
+<!ENTITY new_guest_session "Nova gostujuća sesija">
+<!ENTITY exit_guest_session "Izlaz iz gostujuće sesije">
+<!ENTITY guest_session_dialog_continue "Nastavi">
+<!ENTITY guest_session_dialog_cancel "Otkaži">
+<!ENTITY new_guest_session_title "&brandShortName; će se restartovati">
+<!ENTITY new_guest_session_text2 "Osoba koja koristi uređaj neće moći vidjeti vaše privatne podatke o surfanju (poput spašenih prijava, historije ili zabilješki).\n\nKada vaš gost završi, njihovi podaci o surfanju će biti obrisani, a vaša sesija vraćena.">
+<!ENTITY guest_browsing_notification_title "Gostujuće surfanje je omogućeno">
+<!ENTITY guest_browsing_notification_text "Dodirnite za izlaz">
 
-
-
-
-
-
-
-
+<!ENTITY exit_guest_session_title "&brandShortName; će se restartovati">
+<!ENTITY exit_guest_session_text "Podaci o surfanju iz ove sesije će biti obrisani.">
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
 
+<!ENTITY ellipsis "…">
+
+<!ENTITY colon ":">
 <!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
      display a percentage value. formatS is the number, #37 is the code to display a percent sign.
      This format string is typically used by getString method, in such method the percent sign
      is a reserved caracter. In order to display one percent sign in the result of getString,
      double percent signs must be inserted in the format string.
      This entity is used in the zoomed view to display the zoom factor-->
+
+<!ENTITY percent "&formatS;&#037;&#037;">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
+<!ENTITY actionbar_menu "Meni">
+<!ENTITY actionbar_done "Gotovo">
 <!-- Voice search in the awesome bar -->
+
+<!ENTITY voicesearch_prompt "Pričajte">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
+
+<!ENTITY remote_tabs_last_synced "Zadnja sinhronizacija: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "Zadnja sinhronizacija: nikad">
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
 
+<!ENTITY find_matchcase "Aa">
+
+<!ENTITY intent_uri_cannot_open "Ne mogu otvoriti link">
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
      above a QR reader that is actively scanning for QR codes.  The expected QR
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
+
+<!ENTITY devtools_auth_scan_header "Skeniram za QR kod prikazan na vašem drugom uređaju">
 <!-- Restrictions -->
 <!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
-
-
-
-
-
-
-
-
+<!ENTITY restriction_disallow_import_settings_title2 "Onemogući \u0027Uvoz iz Androida\u0027">
+<!ENTITY restriction_disallow_addons_title2 "Onemogući instalaciju add-ona">
+<!ENTITY restriction_disallow_devtools_title2 "Onemogući razvojne alate">
+<!ENTITY restriction_disallow_customize_home_title2 "Onemogući prilagođavanje početnog ekrana">
+<!ENTITY restriction_disallow_private_browsing_title2 "Onemogući privatno surfanje">
+<!ENTITY restriction_disallow_location_services_title2 "Onemogući usluge lociranja">
+<!ENTITY restriction_disallow_display_settings_title2 "Onemogući postavke ekrana">
+<!ENTITY restriction_disallow_clear_history_title2 "Onemogući \u0027Obriši historiju surfanja\u0027">
+<!ENTITY restriction_disallow_master_password_title2 "Onemogući glavnu lozinku">
+<!ENTITY restriction_disallow_guest_browsing_title2 "Onemogući gostujuće surfanje">
 

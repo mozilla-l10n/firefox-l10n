@@ -4,31 +4,43 @@
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
 
+<!ENTITY syncBrand.fullName.label "Firefox Sync">
+<!ENTITY syncBrand.shortName.label "Sync">
 <!-- Main titles. -->
 
-
-
+<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
+<!ENTITY sync.title.connect.label "Poveži se na &syncBrand.shortName.label;">
+<!ENTITY sync.title.adddevice.label "Dodaj &syncBrand.fullName.label; račun">
+<!ENTITY sync.title.pair.label "Upari uređaj">
 <!-- J-PAKE Key Screen -->
 
-
-
-
-
-
-
-
+<!ENTITY sync.subtitle.connect.label "Za aktivaciju novog uređaja, izaberite “Podesi &syncBrand.shortName.label;” na uređaju.">
+<!ENTITY sync.subtitle.header2.label "Unesite ovaj kod na vašem drugom uređaju">
+<!ENTITY sync.subtitle.connectlocation2.label "Izaberite “&sync.title.pair.label;” u &syncBrand.shortName.label; sekciji Firefox opcija vašeg drugog uređaja.">
+<!ENTITY sync.subtitle.pair.label "Za aktivaciju, izaberite “Upari uređaj” na vašem drugom uređaju.">
+<!ENTITY sync.pin.default.label "...\n...\n...\n">
+<!ENTITY sync.pin.oneline.label "...">
+<!ENTITY sync.link.show.label "Pokaži mi kako.">
+<!ENTITY sync.link.advancedsetup.label "Napredno podešavanje…">
+<!ENTITY sync.link.nodevice.label "Nemam uređaj sa sobom…">
 <!-- J-PAKE Waiting Screen -->
+
+<!ENTITY sync.jpake.subtitle.waiting.label "Čekanje drugog uređaja…">
 <!-- Account Login Screen -->
 
+<!ENTITY sync.subtitle.account.label "Unesite informacije svog &syncBrand.fullName.label; računa">
+<!ENTITY sync.input.username.label "Naziv računa">
+<!ENTITY sync.input.password.label "Lozinka">
+<!ENTITY sync.input.key.label "Ključ za oporavak">
 
-
-
-
+<!ENTITY sync.input.server.label "URL servera">
 <!-- Setup Fail -->
 
-
-
-
+<!ENTITY sync.title.fail.label "Ne mogu podesiti &syncBrand.shortName.label;">
+<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; se nije uspio povezati na server. Želite li pokušati ponovo?">
+<!ENTITY sync.button.tryagain.label "Ponovo">
+<!ENTITY sync.button.manual.label "Ručno podešavanje">
+<!ENTITY sync.subtitle.nointernet.label "Nema internet konekcije">
 
 
 <!-- Setup Success -->
