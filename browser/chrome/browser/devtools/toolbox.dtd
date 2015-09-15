@@ -171,12 +171,6 @@
 <!ENTITY options.stylesheetAutocompletion.label      "Automatické doplňování CSS">
 <!ENTITY options.stylesheetAutocompletion.tooltip    "Automatické doplňování při psaní vlastností CSS, hodnot a selektorů v Editoru stylů">
 
-
-<!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
-  -  heading of the group of JavaScript Profiler preferences in the options
-  -  panel. -->
-<!ENTITY options.profiler.label            "Profiler JavaScriptu">
-
 <!-- LOCALICATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->
