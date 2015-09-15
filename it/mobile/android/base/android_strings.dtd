@@ -120,6 +120,9 @@
 <!ENTITY pref_home_updates_wifi "Solo con Wi-Fi">
 <!ENTITY pref_home_suggested_sites "Visualizza siti consigliati">
 <!ENTITY pref_home_suggested_sites_summary "Visualizza nella pagina iniziale dei link a siti che riteniamo interessanti per gli utenti">
+<!ENTITY pref_category_home_homepage "Pagina iniziale">
+<!ENTITY home_homepage_title "Imposta una pagina iniziale">
+<!ENTITY home_homepage_use_current_tab "Utilizza la scheda corrente">
 <!ENTITY pref_header_customize "Personalizzazione">
 <!ENTITY pref_header_display "Visualizzazione">
 <!ENTITY pref_header_privacy_short "Privacy">
