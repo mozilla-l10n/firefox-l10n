@@ -10,6 +10,7 @@
 <!ENTITY  onboard_start_subtext3 "Atera zukua web mugikorreko zure nabigatze-esperientziari.">
 <!ENTITY  onboard_start_button_account "Hasi saioa &brandShortName;(e)n">
 <!ENTITY  onboard_start_button_browser "Hasi nabigatzen">
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -68,6 +69,8 @@
 <!ENTITY edit_mode_cancel "Utzi">
 
 <!ENTITY close_tab "Itxi fitxa">
+<!ENTITY tab_audio_playing "Fitxa hau audioa erreproduzitzen ari da">
+<!ENTITY tab_audio_muted "Fitxa hau mututu egin da">
 <!ENTITY one_tab "fitxa 1">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -156,6 +159,9 @@ Saiatu geroago mesedez.">
 <!ENTITY pref_search_hint "Aholkua: Gehitu edozein webgune bilaketa-hornitzaileen zerrendan denbora luzez bere bilaketa-eremua sakatuz eta ondoren &formatI; ikonoan sakatuz.">
 <!ENTITY pref_category_devtools "Garatzaile-tresnak">
 <!ENTITY pref_developer_remotedebugging "Urruneko arazketa">
+<!ENTITY pref_developer_remotedebugging_usb "USB bidezko urruneko arazketa">
+<!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi bidezko urruneko arazketa">
+
 <!ENTITY pref_category_logins "Saio-hasierak">
 <!ENTITY pref_remember_signons2 "Gogoratu saio-hasierak">
 <!ENTITY pref_open_external_urls_privately_title "Ireki loturak nabigatze pribatuan">
@@ -192,16 +198,21 @@ Saiatu geroago mesedez.">
 <!ENTITY pref_cookies_not_accept_foreign "Gaituta, hirugarrenenak salbu">
 <!ENTITY pref_cookies_disabled "Desgaituta">
 
-<!ENTITY pref_tracking_protection_title "Jarraipenaren aurkako babesa">
-<!ENTITY pref_tracking_protection_summary "Guneei zure jarraipena egitea eragotziko die &brandShortName;(e)k">
+<!ENTITY pref_tracking_protection_title "Jarraipenaren babesa">
+<!ENTITY pref_tracking_protection_summary3 "Nabigatze pribatuan gaituta">
 <!ENTITY pref_donottrack_title "Do Not Track">
 <!ENTITY pref_donottrack_summary "Zure jarraipenik ez egiteko esango die guneei &brandShortName;(e)k">
+
+<!ENTITY tracking_protection_prompt_title "Orain jarraipenaren babesarekin">
+
+
+<!ENTITY tracking_protection_prompt_action_button "Ulertu dut!">
 
 <!ENTITY tab_queue_toast_message3 "Fitxa &brandShortName;(e)n gordeta">
 <!ENTITY tab_queue_toast_action "Ireki orain">
 <!ENTITY tab_queue_prompt_title "Hainbat lotura ireki nahi?">
-<!ENTITY tab_queue_prompt_text3 "Gorde itzazu &brandShortName; irekitzen duzun hurrengo aldirako">
-<!ENTITY tab_queue_prompt_tip_text "geroago ezarpenetan alda dezakezu hau">
+<!ENTITY tab_queue_prompt_text4 "Gorde itzazu &brandShortName; irekitzen duzun hurrengo aldirako.">
+<!ENTITY tab_queue_prompt_tip_text2 "Geroago ezarpenetan alda dezakezu hau">
 <!ENTITY tab_queue_prompt_positive_action_button "Gaitu">
 <!ENTITY tab_queue_prompt_negative_action_button "Orain ez">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
@@ -331,7 +342,6 @@ size. -->
 <!ENTITY addons "Gehigarriak">
 <!ENTITY logins "Saio-hasierak">
 <!ENTITY downloads "Deskargak">
-<!ENTITY apps "Aplikazioak">
 <!ENTITY char_encoding "Karaktere-kodeketa">
 
 <!ENTITY share "Partekatu">
@@ -401,6 +411,9 @@ size. -->
 <!ENTITY pref_titlebar_mode "Titulu-barra">
 <!ENTITY pref_titlebar_mode_title "Erakutsi orriaren titulua">
 <!ENTITY pref_titlebar_mode_url "Erakutsi orriaren helbidea">
+<!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
+     whether or not the magnifying glass is disabled. -->
+
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -408,7 +421,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "Ezkutatu &brandShortName;(r)en titulu-barra orria behera korritzean">
 
 <!ENTITY pref_tab_queue_title2 "Ireki hainbat lotura">
-<!ENTITY pref_tab_queue_summary3 "Gorde itzazu &brandShortName; irekitzen duzun hurrengo aldirako">
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -426,10 +439,10 @@ size. -->
 <!ENTITY site_settings_cancel       "Utzi">
 <!ENTITY site_settings_clear        "Garbitu">
 <!ENTITY site_settings_no_settings  "Ez dago garbitzeko ezarpenik.">
-<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+<!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
 
-<!ENTITY reading_list_added2 "Zerrendara gehituta">
+<!ENTITY reading_list_added3 "Irakurketa-zerrendan gehituta">
 <!ENTITY reading_list_removed "Orria irakurketa-zerrendatik kendu da">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -546,21 +559,25 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_run_by "Honen menpe dago: ">
-<!ENTITY identity_no_info "Webgune honek ez du identitate-informaziorik eskaintzen.">
-<!ENTITY identity_not_encrypted "Webgune honetarako konexioa ez dago zifratuta.">
-<!ENTITY identity_encrypted "Zifratuta">
+<!ENTITY identity_connection_secure "Konexio segurua">
+<!ENTITY identity_connection_insecure "Konexio ez-segurua">
 <!-- Mixed content notifications in site identity popup -->
+
+<!ENTITY mixed_content_blocked_all "&brandShortName;(e)k seguruak ez diren orri honetako atalak blokeatu ditu.">
+
+
+
 
 <!ENTITY loaded_mixed_content_message "Orri hau segurua ez den edukia ari da bistaratzen.">
 <!ENTITY blocked_mixed_content_message_top "Segurua ez den edukia blokeatu du &brandShortName;(e)k.">
 <!ENTITY blocked_mixed_content_message_bottom "Webgune gehienak ondo ibiliko dira eduki hau blokeatuta egonda ere.">
 <!-- Tracking content notifications in site identity popup -->
 
-<!ENTITY loaded_tracking_content_message_top "Jarraipen-babesa desgaituta.">
-<!ENTITY loaded_tracking_content_message_bottom "Orri honen zenbait zatik zure jardueraren jarraipena egin lezakete.">
-<!ENTITY blocked_tracking_content_message_top2 "Jarraipen-babesa gaituta.">
-<!ENTITY blocked_tracking_content_message_bottom2 "Zure jardueraren jarraipena egiten duten orriaren zatiak blokeatu egin dira.">
+<!ENTITY doorhanger_tracking_title "Jarraipenaren babesa">
+<!ENTITY doorhanger_tracking_state_enabled "Gaituta">
+<!ENTITY doorhanger_tracking_state_disabled "Desgaituta">
+
+
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "Argibide gehiago…">
@@ -646,10 +663,6 @@ Android-etik">
 <!-- Voice search in the awesome bar -->
 
 <!ENTITY voicesearch_prompt "Hitz egin orain">
-<!ENTITY voicesearch_failed_title "&brandShortName; ahots bidezko bilaketa">
-<!ENTITY voicesearch_failed_message "Arazo bat dago ahots bidezko bilaketarekin une honetan. Saiatu geroago mesedez.">
-<!ENTITY voicesearch_failed_message_recoverable "Barkatu! Ezin izan ditugu zure hitzak ezagutu. Saiatu berriro mesedez.">
-<!ENTITY voicesearch_failed_retry "Saiatu berriro">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -667,3 +680,24 @@ Android-etik">
 <!ENTITY find_matchcase "Aa">
 
 <!ENTITY intent_uri_cannot_open "Ezin da lotura ireki">
+<!-- DevTools Authentication -->
+<!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
+     above a QR reader that is actively scanning for QR codes.  The expected QR
+     code has already been displayed by the client trying to connect (such as
+     desktop Firefox via WebIDE), so you just need to aim this device at the QR
+     code. -->
+<!-- Restrictions -->
+<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+     a restricted profile (e.g. child). Used inside the Android settings UI. -->
+
+<!ENTITY restriction_disallow_import_settings_title2 "Desgaitu \u0027Inportatu Android\u0027-etik">
+<!ENTITY restriction_disallow_addons_title2 "Desgaitu gehigarrien instalazioa">
+<!ENTITY restriction_disallow_devtools_title2 "Desgaitu garatzaile-tresnak">
+<!ENTITY restriction_disallow_customize_home_title2 "Desgaitu hasiera-orriaren pertsonalizazioa">
+<!ENTITY restriction_disallow_private_browsing_title2 "Desgaitu nabigatze pribatua">
+<!ENTITY restriction_disallow_location_services_title2 "Desgaitu kokapen-zerbitzuak">
+<!ENTITY restriction_disallow_display_settings_title2 "Desgaitu bistaratze-hobespenak">
+<!ENTITY restriction_disallow_clear_history_title2 "Desgaitu \u0027Garbitu nabigatze-historia\u0027">
+<!ENTITY restriction_disallow_master_password_title2 "Desgaitu pasahitz nagusia">
+<!ENTITY restriction_disallow_guest_browsing_title2 "Desgaitu gonbidatu-saioekin nabigatzea">
+
