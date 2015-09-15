@@ -33,5 +33,5 @@
 <!ENTITY fillPasswordMenu.accesskey   "F">
 <!ENTITY fillUsernameMenu.label       "填写用户名">
 <!ENTITY fillUsernameMenu.accesskey   "F">
-<!ENTITY noLoginSuggestions.label     "（无登录项建议）">
-<!ENTITY viewSavedLogins.label        "查看已保存的登录项">
+<!ENTITY noLoginSuggestions.label     "（无登录信息建议）">
+<!ENTITY viewSavedLogins.label        "查看已保存的登录信息">
