@@ -6,13 +6,16 @@
   - in the Web Developer menu.
   - -->
 
+
+<!ENTITY title      "Golaganya">
+<!ENTITY header     "Golaganya le sediriswa sa kgokaganokgakala">
 <!ENTITY host       "Khomphiutarakgolo:">
 <!ENTITY port       "Segokaganyi:">
-
-
-
-
-
+<!ENTITY connect    "Golaganya">
+<!ENTITY connecting "E a golagana…">
+<!ENTITY availableAddons "Dioketswa tsa kgokaganokgakala tse di teng:">
+<!ENTITY availableTabs "Dithebe tsa kgokaganokgakala tse di teng:">
+<!ENTITY availableProcesses "Dithulaganyo tsa kgokaganokgakala tse di teng:">
 <!ENTITY connectionError "Phoso:">
 
 
