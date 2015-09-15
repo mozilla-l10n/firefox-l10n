@@ -22,107 +22,131 @@
 <!ENTITY  switch_to_tab "Prebaci na tab">
 
 <!ENTITY  crash_reporter_title "&brandShortName; izvjestilac o rušenju">
+<!ENTITY  crash_message2 "&brandShortName; je naišao na problem i srušio se. Vaši tabovi bi trebali biti izlistani na &brandShortName; početnoj stranici nakon pokretanja.">
+<!ENTITY  crash_send_report_message3 "Obavijestite &vendorShortName; o ovom rušenju, kako bi ga mogli popraviti">
+<!ENTITY  crash_include_url2 "Uključi adresu stranice na kojoj sam se nalazio">
+<!ENTITY  crash_sorry "Žao nam je">
+<!ENTITY  crash_comment "Dodajte komentar (komentari su javno vidljivi)">
+<!ENTITY  crash_allow_contact2 "Dozvoli &vendorShortName; da me kontaktira vezano za ovaj izvještaj">
+<!ENTITY  crash_email "Vaš email">
+<!ENTITY  crash_closing_alert "Izađi bez slanja izvještaja o rušenju?">
+<!ENTITY  sending_crash_report "Šaljem izvještaj o rušenju\u2026">
+<!ENTITY  crash_close_label "Zatvori">
+<!ENTITY  crash_restart_label "Restartuj &brandShortName;">
+<!ENTITY  exit_label "Izlaz">
 
+<!ENTITY  launcher_shortcuts_title "&brandShortName; web aplikacije">
+<!ENTITY  launcher_shortcuts_empty "Nema pronađenih web aplikacija">
 
+<!ENTITY choose_file "Izaberi fajl">
 
+<!ENTITY url_bar_default_text2 "Tražite ili upišite adresu">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY bookmark "Zabilješka">
+<!ENTITY bookmark_remove "Ukloni zabilješku">
+<!ENTITY bookmark_added "Zabilješka dodana">
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "Već zabilježeno">
+<!ENTITY bookmark_removed "Zabilješka uklonjena">
+<!ENTITY bookmark_updated "Zabilješka ažurirana">
+<!ENTITY bookmark_options "Opcije">
 
+<!ENTITY history_today_section "Danas">
+<!ENTITY history_yesterday_section "Jučer">
+<!ENTITY history_week_section2 "Prošle sedmice">
+<!ENTITY history_older_section2 "Prošli mjesec">
 
+<!ENTITY go "Idi">
+<!ENTITY search "Traži">
+<!ENTITY reload "Ponovo učitaj">
+<!ENTITY forward "Naprijed">
+<!ENTITY menu "Meni">
+<!ENTITY back "Nazad">
+<!ENTITY stop "Zaustavi">
+<!ENTITY site_security "Sigurnost stranice">
+<!ENTITY edit_mode_cancel "Otkaži">
 
+<!ENTITY close_tab "Zatvori tab">
+<!ENTITY tab_audio_playing "Ovaj tab svira audio">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY one_tab "1 tab">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-
-
+<!ENTITY num_tabs2 "&formatD; tabova">
+<!ENTITY new_tab_opened "Otvoren novi tab">
+<!ENTITY new_private_tab_opened "Otvoren novi privatni tab">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "PREBACI">
 
-
-
-
-
-
-
+<!ENTITY settings "Postavke">
+<!ENTITY settings_title "Postavke">
+<!ENTITY pref_category_input_options "Opcije unosa">
+<!ENTITY pref_category_advanced "Napredno">
+<!ENTITY pref_category_customize "Prilagodi">
+<!ENTITY pref_category_customize_summary "Početna, pretraživanje, tabovi, uvoz">
+<!ENTITY pref_category_customize_alt_summary "Početna, pretraživanje, tabovi, otvori kasnije, uvoz">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 
-
+<!ENTITY pref_category_language "Jezik">
+<!ENTITY pref_category_language_summary "Promijenite jezik vašeg browsera">
+<!ENTITY pref_browser_locale "Jezik browsera">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
+
+<!ENTITY locale_system_default "Izvorni sistemski">
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
+
+<!ENTITY overlay_share_label "Dodaj u &brandShortName;">
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
 
-
-
-
+<!ENTITY overlay_share_bookmark_btn_label "Zabilježi">
+<!ENTITY overlay_share_reading_list_btn_label "Dodaj na listu za čitanje">
+<!ENTITY overlay_share_bookmark_btn_label_already "Već zabilježeno">
+<!ENTITY overlay_share_reading_list_btn_label_already "Već na listi za čitanje">
+<!ENTITY overlay_share_send_other "Pošalji na druge uređaje">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
 
-
+<!ENTITY overlay_share_send_tab_btn_label "Pošalji na drugi uređaj">
+<!ENTITY overlay_share_no_url "Nijedan link nije pronađen u ovom dijeljenju">
+<!ENTITY overlay_share_select_device "Izaberite uređaj">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
+<!ENTITY overlay_no_synced_devices "Nisu pronađeni uređaji povezani na Firefox račun">
 <!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
      to send a tab to a synced device is pressed and there is an error
      connecting to the server so the tab could not be sent. The text should be
      divided into two lines (use the newline escape character, "\n", between
      them): the first notifying the user about the failure and the second
      telling the user what to do about it. -->
+<!ENTITY overlay_share_tab_not_sent "Vaš tab nije poslan.\nPokušajte ponovo.">
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY pref_category_search3 "Traži">
+<!ENTITY pref_category_search_summary "Prilagodite svoje pretraživače">
+<!ENTITY pref_category_display "Ekran">
+<!ENTITY pref_category_display_summary "Tekst, naslovna traka, surfanje preko cijelog ekrana">
+<!ENTITY pref_category_privacy_short "Privatnost">
+<!ENTITY pref_category_privacy_summary2 "Kontrola prijava, kolačići, praćenje, podaci">
+<!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_vendor_summary "O &brandShortName;u, često postavljana pitanja, izbori podataka">
+<!ENTITY pref_category_datareporting "Izbori podataka">
+<!ENTITY pref_learn_more "Saznajte više">
+<!ENTITY pref_category_installed_search_engines "Instalirani pretraživači">
+<!ENTITY pref_category_add_search_providers "Dodajte više pretraživača">
 
 
 
@@ -131,94 +155,110 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY pref_search_hint "SAVJET: Dodajte bilo koju stranicu na listu pretraživača dugim pritiskom na njeno polje za pretragu i zatim dodirom na &formatI; ikonu.">
+<!ENTITY pref_category_devtools "Razvojni alati">
+<!ENTITY pref_developer_remotedebugging "Udaljeno debagiranje">
+<!ENTITY pref_developer_remotedebugging_usb "Udaljeno debagiranje preko USB-a">
+<!ENTITY pref_developer_remotedebugging_wifi "Udaljeno debagiranje preko Wi-Fi">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi debagiranje zahtijeva d vaš uređaj ima instaliran čitač QR koda.">
+<!ENTITY pref_category_logins "Prijave">
+<!ENTITY pref_remember_signons2 "Zapamti prijave">
+<!ENTITY pref_open_external_urls_privately_title "Otvori linkove u privatnom surfanju">
+<!ENTITY pref_open_external_urls_privately_summary "Za sve vanjske linkove otvorene u &brandShortName;u">
+<!ENTITY pref_manage_logins "Upravljanje prijavama">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY pref_category_home "Početna">
+<!ENTITY pref_category_home_summary "Prilagodite početnu stranicu">
+<!ENTITY pref_category_home_panels "Paneli">
+<!ENTITY home_add_panel_title "Dodaj novi panel">
+<!ENTITY home_add_panel_empty "Nažalost nismo mogli pronaći nijedan panel koji biste mogli dodati.">
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
-
-
-
-
-
-
+<!ENTITY home_add_panel_installed "&formatS; dodan na početnu stranicu">
+<!ENTITY pref_category_home_content_settings "Postavke sadržaja">
+<!ENTITY pref_home_updates "Automatske nadogradnje">
+<!ENTITY pref_home_updates_enabled "Omogućeno">
+<!ENTITY pref_home_updates_wifi "Samo preko Wi-Fi">
+<!ENTITY pref_home_suggested_sites "Prikaži prijedloge stranica">
+<!ENTITY pref_home_suggested_sites_summary "Na početnoj stranici prikazati linkove na stranice za koje mislimo da će vam biti interesantne">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
+<!ENTITY pref_header_customize "Prilagodi">
+<!ENTITY pref_header_display "Ekran">
+<!ENTITY pref_header_privacy_short "Privatnost">
+<!ENTITY pref_header_help "Pomoć">
+<!ENTITY pref_header_language "Jezik">
+<!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "Razvojni alati">
 
+<!ENTITY pref_cookies_menu "Kolačići">
+<!ENTITY pref_cookies_accept_all "Omogućeno">
+<!ENTITY pref_cookies_not_accept_foreign "Omogućeno, isključujući treća lica">
+<!ENTITY pref_cookies_disabled "Onemogućeno">
 
+<!ENTITY pref_tracking_protection_title "Zaštita od praćenja">
+<!ENTITY pref_tracking_protection_summary3 "Omogućeno u privatnom surfanju">
+<!ENTITY pref_donottrack_title "Nemoj me pratiti">
+<!ENTITY pref_donottrack_summary "&brandShortName; će reći stranicama da ne želite biti praćeni">
 
+<!ENTITY tracking_protection_prompt_title "Sada sa zaštitom od praćenja">
+<!ENTITY tracking_protection_prompt_text "Aktivno blokira elemente koji prate da se ne biste brinuli.">
+<!ENTITY tracking_protection_prompt_tip_text "Posjetite postavke privatnosti da saznate više">
+<!ENTITY tracking_protection_prompt_action_button "Razumijem!">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY tab_queue_toast_message3 "Tab spašen u &brandShortName;">
+<!ENTITY tab_queue_toast_action "Otvori odmah">
+<!ENTITY tab_queue_prompt_title "Otvori više linkova?">
+<!ENTITY tab_queue_prompt_text4 "Spasite ih do sljedećeg pokretanja &brandShortName;a.">
+<!ENTITY tab_queue_prompt_tip_text2 "Ovo možete promijeniti kasnije u Postavkama">
+<!ENTITY tab_queue_prompt_positive_action_button "Omogući">
+<!ENTITY tab_queue_prompt_negative_action_button "Ne sada">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY tab_queue_notification_text_plural2 "&formatD; tabova na čekanju">
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_text_singular2 "1 tab na čekanju">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY pref_char_encoding "Enkodiranje karaktera">
+<!ENTITY pref_char_encoding_on "Prikaži meni">
+<!ENTITY pref_char_encoding_off "Ne prikazuj meni">
+<!ENTITY pref_clear_private_data2 "Obriši odmah">
+<!ENTITY pref_clear_private_data_category "Obriši privatne podatke">
+<!ENTITY pref_clear_on_exit_title2 "Obriši pri izlazu">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; će automatski brisati vaše podatke svaki put kada izaberete \u0022Quit\u0022 u glavnom meniju">
+<!ENTITY pref_clear_on_exit_dialog_title "Izaberite podatke za brisanje">
+<!ENTITY pref_plugins "Plugini">
+<!ENTITY pref_plugins_enabled "Omogućeno">
+<!ENTITY pref_plugins_tap_to_play "Dodirnite za play">
+<!ENTITY pref_plugins_disabled "Onemogućeno">
+<!ENTITY pref_text_size "Veličina teksta">
+<!ENTITY pref_reflow_on_zoom4 "Tok teksta">
+<!ENTITY pref_restore "Tabovi">
+<!ENTITY pref_restore_always "Uvijek vrati">
+<!ENTITY pref_restore_quit "Ne vraćaj nakon izlaza iz &brandShortName;a">
+<!ENTITY pref_font_size_tiny "Sićušan">
+<!ENTITY pref_font_size_small "Mali">
+<!ENTITY pref_font_size_medium "Srednji">
+<!ENTITY pref_font_size_large "Veliki">
+<!ENTITY pref_font_size_xlarge "Veoma veliki">
+<!ENTITY pref_font_size_set "Postavi">
 <!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
 (or combination of characters) is used to decrease the preview font size; a larger version of the
 same character/combination is used to increase the preview font size. It should be a concise
 representation of the language it is used in that will help show the text in the preview will change
 size. -->
+<!ENTITY pref_font_size_adjust_char "A">
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
+<!ENTITY pref_font_size_preview_text "Brza narandžasta lisica preskače vaša očekivanja sa još više brzine, više fleksibilnosti i više sigurnosti. Kao neprofitna organizacija, slobodni smo inovirati u vaše ime bez pritiska na kompromise. To znači bolje iskustvo za vas i svjetlija budućnost za Web.">
+
+<!ENTITY pref_media_autoplay_enabled "Dozvoli autoplay">
 
 
 
