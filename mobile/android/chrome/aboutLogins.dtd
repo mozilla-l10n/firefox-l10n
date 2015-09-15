@@ -5,3 +5,6 @@
      SYSTEM "chrome://branding/locale/brand.dtd">
    %brandDTD;
 <!ENTITY aboutLogins.title                       "Prijave">
+<!ENTITY aboutLogins.update                      "Posodobi">
+<!ENTITY aboutLogins.emptyLoginText              "Ohranite svoje prijave varne">
+<!ENTITY aboutLogins.emptyLoginHint              "Prijave in poverilnice, ki jih shranite z &brandShortName; se bodo prikazale tu.">
