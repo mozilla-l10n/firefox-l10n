@@ -4,7 +4,8 @@
 
 <!ENTITY tracking.label                 "Jarraipena">
 
-
+<!ENTITY dntTrackingNotOkay4.label     "Eskatu guneei zure jarraipenik ez egiteko">
+<!ENTITY dntTrackingNotOkay4.accesskey "j">
 <!ENTITY doNotTrackInfo.label          "Argibide gehiago">
 <!ENTITY trackingProtection5.label     "Erabili jarraipenaren babesa">
 <!ENTITY trackingProtection5.accesskey "j">

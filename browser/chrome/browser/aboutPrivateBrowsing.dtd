@@ -31,6 +31,7 @@
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Cookieak">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Behin-behineko fitxategiak">
 
+<!ENTITY aboutPrivateBrowsing.kept             "&brandShortName;(e)&amp;k ondorengoa mantenduko du:">
 <!ENTITY aboutPrivateBrowsing.info.kept        "Gordeta">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Deskargak">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Laster-markak">
@@ -56,6 +57,7 @@
 <!ENTITY trackingProtection.state.enabled      "AKTIBATUTA">
 <!ENTITY trackingProtection.state.disabled     "DESAKTIBATUTA">
 
+<!ENTITY trackingProtection.description1       "Zure nabigazioaren jarraipena egin lezaketen orriaren zatiak blokeatzen dituzte leiho pribatuek.">
 
 <!ENTITY trackingProtection.disable            "Desaktibatu jarraipenaren babesa">
 <!ENTITY trackingProtection.enable             "Aktibatu jarraipenaren babesa">

@@ -692,6 +692,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionVerified "&brandShortName;(e)k egiaztatu du gune honetara modu seguruan konektatuta zaudela. Arduraduna:">
 <!ENTITY identity.connectionInternal "&brandShortName; orri segurua da hau.">
 <!-- Strings for connection state warnings. -->
+
+<!ENTITY identity.activeBlocked "&brandShortName;(e)k seguruak ez diren orri honetako atalak blokeatu ditu.">
 <!ENTITY identity.passiveLoaded "Orri honetako zenbait atal ez dira seguruak (adib. irudiak).">
 <!ENTITY identity.activeLoaded "Babesa desgaitu duzu orri honetan.">
 <!ENTITY identity.weakEncryption "Orri honek zifraketa ahula erabiltzen du.">
@@ -792,8 +794,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Zure pantailan ikusgai dauden leiho guztiak partekatuko dira.">
 
 <!ENTITY trackingProtection.title "Jarraipenaren babesa">
-
-
+<!ENTITY trackingProtection.detectedBlocked3 "Zure nabigazioaren jarraipena egin lezaketen orriaren zatiak blokeatzen ari da &brandShortName;.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "Gune honek zure nabigazioaren jarraipena egin lezaketen zatiak ditu. Babesa desgaituta daukazu.">
 <!ENTITY trackingProtection.notDetected3 "Ez da jarraipeneko elementurik atzeman orri honetan.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
