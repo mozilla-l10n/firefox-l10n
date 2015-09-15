@@ -4,12 +4,15 @@
 
 <!ENTITY tracking.label "Sledování">
 
-<!ENTITY dntTrackingNotOkay.label2      "Informovat servery, že nechci být sledován">
-<!ENTITY dntTrackingNotOkay.accesskey   "o">
-<!ENTITY trackingProtection.label       "Zamezit stránkám mě sledovat">
-<!ENTITY trackingProtection.accesskey   "Z">
+<!ENTITY dntTrackingNotOkay4.label     "Požadovat od serverů, aby mne nesledovaly">
+<!ENTITY dntTrackingNotOkay4.accesskey "o">
+<!ENTITY doNotTrackInfo.label          "Zjistit více">
+<!ENTITY trackingProtection5.label     "Používat Ochranu proti sledování">
+<!ENTITY trackingProtection5.accesskey "l">
 <!ENTITY trackingProtectionLearnMore.label "Zjistit více">
-<!ENTITY doNotTrackInfo.label "Zjistit více">
+<!ENTITY trackingProtectionPBM5.label         "Používat Ochranu proti sledování v Anonymním okně">
+<!ENTITY trackingProtectionPBM5.accesskey     "v">
+<!ENTITY trackingProtectionPBMLearnMore.label "Zjistit více">
 
 <!ENTITY history.label "Historie">
 
@@ -24,6 +27,9 @@
 <!ENTITY  locbar.openpage.accesskey     "e">
 <!ENTITY  locbar.searches.label         "Související vyhledávání od výchozího vyhledávacího modulu">
 <!ENTITY  locbar.searches.accesskey     "v">
+
+<!ENTITY  suggestionSettings.label      "Změnit předvolby našeptávání vyhledávače…">
+<!ENTITY  suggestionSettings.accesskey  "y">
 
 <!ENTITY acceptCookies.label "Povolit serverům nastavovat cookies">
 <!ENTITY acceptCookies.accesskey "c">
