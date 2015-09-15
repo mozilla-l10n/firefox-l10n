@@ -215,3 +215,7 @@
 <!ENTITY debuggerUI.context.copyUrl           "Kopjoji URL-në">
 <!ENTITY debuggerUI.context.copyUrl.accesskey "K">
 <!ENTITY debuggerUI.context.copyUrl.key "C">
+
+<!-- LOCALIZATION NOTE (debuggerUI.sources.togglePromiseDebugger): This is the
+  -  tooltip for the button that toggles the promise debugger. -->
+<!ENTITY debuggerUI.sources.togglePromiseDebugger "Hapni/Mbyllni Diagnostikuesin Promise">
