@@ -259,14 +259,15 @@ size. -->
 <!ENTITY pref_font_size_preview_text "Brza narandžasta lisica preskače vaša očekivanja sa još više brzine, više fleksibilnosti i više sigurnosti. Kao neprofitna organizacija, slobodni smo inovirati u vaše ime bez pritiska na kompromise. To znači bolje iskustvo za vas i svjetlija budućnost za Web.">
 
 <!ENTITY pref_media_autoplay_enabled "Dozvoli autoplay">
+<!ENTITY pref_media_autoplay_enabled_summary "Kontrolišite da li web stranice mogu automatski reproducirati video i drugi medijski sadržaj">
+<!ENTITY pref_zoom_force_enabled "Uvijek omogući zumiranje">
 
+<!ENTITY pref_voice_input "Glasovni unos">
 
+<!ENTITY pref_qrcode_enabled "Čitač QR koda">
+<!ENTITY pref_qrcode_enabled_summary "Dozvoli QR skener u naslovnoj traci">
 
-
-
-
-
-
+<!ENTITY pref_use_master_password "Koristi glavnu lozinku">
 
 
 
