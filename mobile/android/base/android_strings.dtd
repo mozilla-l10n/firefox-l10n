@@ -141,7 +141,7 @@
 <!ENTITY pref_category_display "显示">
 <!ENTITY pref_category_display_summary "文字、标题栏、全屏浏览">
 <!ENTITY pref_category_privacy_short "隐私">
-<!ENTITY pref_category_privacy_summary2 "控制登录项、Cookie、跟踪、数据">
+<!ENTITY pref_category_privacy_summary2 "控制登录信息、Cookie、跟踪、数据">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "有关 &brandShortName;、常见问题、数据选择权">
 <!ENTITY pref_category_datareporting "反馈">
@@ -162,11 +162,11 @@
 <!ENTITY pref_developer_remotedebugging_usb "通过 USB 远程调试">
 <!ENTITY pref_developer_remotedebugging_wifi "通过 Wi-Fi 远程调试">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi 调试需要您的设备已安装一个 QR 码扫描应用。">
-<!ENTITY pref_category_logins "登录项">
-<!ENTITY pref_remember_signons2 "记住登录项">
+<!ENTITY pref_category_logins "登录信息">
+<!ENTITY pref_remember_signons2 "记住登录信息">
 <!ENTITY pref_open_external_urls_privately_title "在隐私浏览模式中打开链接">
 <!ENTITY pref_open_external_urls_privately_summary "所有外部链接都在 &brandShortName; 中打开">
-<!ENTITY pref_manage_logins "管理登录项">
+<!ENTITY pref_manage_logins "管理登录信息">
 
 <!ENTITY pref_category_home "主页">
 <!ENTITY pref_category_home_summary "自定义您的主页">
@@ -270,7 +270,7 @@ size. -->
 
 <!ENTITY pref_use_master_password "使用主密码">
 <!ENTITY pref_sync "同步">
-<!ENTITY pref_sync_summary2 "同步您的标签页、书签、登录项、历史记录">
+<!ENTITY pref_sync_summary2 "同步您的标签页、书签、登录信息、历史记录">
 <!ENTITY pref_search_suggestions "显示搜索建议">
 <!ENTITY pref_import_android "从 Android 导入">
 <!ENTITY pref_import_android_summary "从原生浏览器导入书签和历史记录">
@@ -278,7 +278,7 @@ size. -->
 <!ENTITY pref_private_data_searchHistory "搜索历史记录">
 <!ENTITY pref_private_data_formdata2 "表单历史记录">
 <!ENTITY pref_private_data_cookies2 "Cookie 及当前的登录状态">
-<!ENTITY pref_private_data_passwords2 "已保存的登录项">
+<!ENTITY pref_private_data_passwords2 "已保存的登录信息">
 <!ENTITY pref_private_data_cache "高速缓存">
 <!ENTITY pref_private_data_offlineApps "离线站点数据">
 <!ENTITY pref_private_data_siteSettings2 "站点设置">
@@ -340,7 +340,7 @@ size. -->
 <!ENTITY quit "退出">
 
 <!ENTITY addons "附加组件">
-<!ENTITY logins "登录项">
+<!ENTITY logins "登录信息">
 <!ENTITY downloads "下载">
 <!ENTITY char_encoding "字符编码">
 
@@ -397,7 +397,7 @@ size. -->
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
 
 <!ENTITY doorhanger_login_no_username "[无用户名]">
-<!ENTITY doorhanger_login_edit_title "编辑登录项">
+<!ENTITY doorhanger_login_edit_title "编辑登录信息">
 <!ENTITY doorhanger_login_edit_username_hint "用户名">
 <!ENTITY doorhanger_login_edit_password_hint "密码">
 <!ENTITY doorhanger_login_edit_toggle "显示密码">
@@ -405,7 +405,7 @@ size. -->
 <!ENTITY doorhanger_login_select_message "复制 &formatS; 的密码？">
 <!ENTITY doorhanger_login_select_toast_copy "密码已复制到剪贴板">
 <!ENTITY doorhanger_login_select_toast_copy_error "未能复制密码">
-<!ENTITY doorhanger_login_select_action_text "选择其他登录项">
+<!ENTITY doorhanger_login_select_action_text "选择其他登录信息">
 <!ENTITY doorhanger_login_select_title "复制密码从">
 
 <!ENTITY pref_titlebar_mode "标题栏">
@@ -632,7 +632,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "继续">
 <!ENTITY guest_session_dialog_cancel "取消">
 <!ENTITY new_guest_session_title "&brandShortName; 将重新启动">
-<!ENTITY new_guest_session_text2 "使用此模式的人将不会看到您的任何个人数据（如保存的登录项、历史记录和书签）。\n\n当您的访客退出后，他们的浏览数据也将被删除，您的会话也将被恢复。">
+<!ENTITY new_guest_session_text2 "使用此模式的人将不会看到您的任何个人数据（如已保存的登录信息、历史记录和书签）。\n\n当您的访客退出后，他们的浏览数据也将被删除，您的会话也将被恢复。">
 <!ENTITY guest_browsing_notification_title "访客浏览已启用">
 <!ENTITY guest_browsing_notification_text "点按退出">
 
