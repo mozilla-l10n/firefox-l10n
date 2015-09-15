@@ -41,7 +41,7 @@
      accommodate the title as well as the enabled or disabled indicator.
      -->
 <!ENTITY trackingProtection.width              "22em">
-<!ENTITY trackingProtection.title              "Ochrana sledování">
+<!ENTITY trackingProtection.title              "Ochrana proti sledování">
 
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
@@ -52,6 +52,6 @@
 
 <!ENTITY trackingProtection.description1       "Anonymní okna nyní budou blokovat části stránky, které mohou sledovat vaši aktivitu prohlížení.">
 
-<!ENTITY trackingProtection.disable            "Vypnout Ochranu sledování">
-<!ENTITY trackingProtection.enable             "Zapnout Ochranu sledování">
+<!ENTITY trackingProtection.disable            "Vypnout Ochranu proti sledování">
+<!ENTITY trackingProtection.enable             "Zapnout Ochranu proti sledování">
 <!ENTITY trackingProtection.startTour1         "Podívejte se, jak to funguje">
