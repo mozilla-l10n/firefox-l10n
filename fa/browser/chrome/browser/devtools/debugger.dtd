@@ -30,6 +30,8 @@
   -  button that pretty prints the selected source. -->
 <!-- LOCALIZATION NOTE (debuggerUI.autoPrettyPrint): This is the label for the
   -  checkbox that toggles auto pretty print. -->
+
+<!ENTITY debuggerUI.autoPrettyPrint     "زیباسازی و کوچک‌سازی خودکار منابع">
 <!ENTITY debuggerUI.autoPrettyPrint.accesskey "‌P">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.toggleBreakpoints): This is the tooltip for the
   -  button that toggles all breakpoints for all sources. -->
@@ -39,6 +41,8 @@
   -  tooltip for the button that toggles the promise debugger. -->
 <!-- LOCALIZATION NOTE (debuggerUI.startTracing): This is the text displayed in
   - the button to start execution tracing. -->
+
+<!ENTITY debuggerUI.startTracing "شروع ردیابی">
 <!-- LOCALIZATION NOTE (debuggerUI.clearButton): This is the label for
   -  the button that clears the collected tracing data in the tracing tab. -->
 
@@ -78,7 +82,7 @@
 <!ENTITY debuggerUI.searchPanelOperators    "عملگرها:">
 <!-- LOCALIZATION NOTE (debuggerUI.searchFile): This is the text that appears
   -  in the source editor's context menu for the scripts search operation. -->
-
+<!ENTITY debuggerUI.searchFile.key       "P">
 
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchGlobal): This is the text that appears
