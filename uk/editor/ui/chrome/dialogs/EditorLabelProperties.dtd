@@ -2,17 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle.label "Властивості мітки">
+<!ENTITY windowTitle.label "Label Properties">
 
-<!ENTITY Settings.label "Параметри">
-<!ENTITY Settings.accesskey "П">
+<!ENTITY Settings.label "Settings">
+<!ENTITY Settings.accesskey "S">
 
-<!ENTITY EditLabelText.label "Змінити текст:">
-<!ENTITY EditLabelText.accesskey "З">
-<!ENTITY LabelFor.label "Для елементу:">
-<!ENTITY LabelFor.accesskey "Д">
-<!ENTITY AccessKey.label "Клавіша доступу:">
-<!ENTITY AccessKey.accesskey "К">
+<!ENTITY EditLabelText.label "Edit Text:">
+<!ENTITY EditLabelText.accesskey "T">
+<!ENTITY LabelFor.label "For Control:">
+<!ENTITY LabelFor.accesskey "F">
+<!ENTITY AccessKey.label "Access Key:">
+<!ENTITY AccessKey.accesskey "K">
 
-<!ENTITY RemoveLabel.label "Вилучити мітку">
-<!ENTITY RemoveLabel.accesskey "В">
+<!ENTITY RemoveLabel.label "Remove Label">
+<!ENTITY RemoveLabel.accesskey "R">

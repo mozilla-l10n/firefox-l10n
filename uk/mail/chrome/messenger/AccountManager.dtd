@@ -4,22 +4,22 @@
 
 <!-- extracted from AccountManager.xul -->
 
-<!ENTITY accountManagerTitle.label "Параметри облікових записів">
+<!ENTITY accountManagerTitle.label "Account Settings">
 
-<!ENTITY accountActionsButton.label "Дії з обліковими записами">
-<!ENTITY accountActionsButton.accesskey "Д">
-<!ENTITY addMailAccountButton.label "Додати поштовий запис…">
-<!ENTITY addMailAccountButton.accesskey "п">
-<!ENTITY addIMAccountButton.label "Додати чатовий запис…">
-<!ENTITY addIMAccountButton.accesskey "Ч">
+<!ENTITY accountActionsButton.label "Account Actions">
+<!ENTITY accountActionsButton.accesskey "A">
+<!ENTITY addMailAccountButton.label "Add Mail Account…">
+<!ENTITY addMailAccountButton.accesskey "A">
+<!ENTITY addIMAccountButton.label "Add Chat Account…">
+<!ENTITY addIMAccountButton.accesskey "C">
 <!ENTITY addFeedAccountButton.label "Add Feed Account…">
 <!ENTITY addFeedAccountButton.accesskey "F">
-<!ENTITY addOtherAccountButton.label "Додати інший запис…">
-<!ENTITY addOtherAccountButton.accesskey "і">
-<!ENTITY setDefaultButton.label "За умовчанням">
-<!ENTITY setDefaultButton.accesskey "у">
-<!ENTITY removeButton.label "Вилучити обліковий запис">
-<!ENTITY removeButton.accesskey "В">
+<!ENTITY addOtherAccountButton.label "Add Other Account…">
+<!ENTITY addOtherAccountButton.accesskey "O">
+<!ENTITY setDefaultButton.label "Set as Default">
+<!ENTITY setDefaultButton.accesskey "D">
+<!ENTITY removeButton.label "Remove Account">
+<!ENTITY removeButton.accesskey "R">
 
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account

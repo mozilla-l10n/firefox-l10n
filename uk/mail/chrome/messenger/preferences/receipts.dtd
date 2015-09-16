@@ -2,25 +2,25 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY dialog.title                  "Сповіщення про доставку">
-<!ENTITY requestReceipt.label          "Завжди просити сповіщення при надсиланні листів">
-<!ENTITY requestReceipt.accesskey      "з">
-<!ENTITY receiptArrive.label           "При отриманні сповіщення:">
-<!ENTITY leaveIt.label                 "Залишати його в теці «Вхідні»">
-<!ENTITY leaveIt.accesskey             "В">
-<!ENTITY moveToSent.label              "Перемістити його в теку «Відіслані»">
-<!ENTITY moveToSent.accesskey          "О">
-<!ENTITY requestMDN.label              "При отриманні запиту на сповіщення:">
-<!ENTITY never.label                   "Ніколи не висилати сповіщення про доставку">
-<!ENTITY never.accesskey               "Н">
-<!ENTITY returnSome.label              "Висилати сповіщення для деяких листів">
-<!ENTITY returnSome.accesskey          "с">
-<!ENTITY notInToCc.label               "Якщо я не знаходжуся в списку «Кому» або «Копія»:">
-<!ENTITY notInToCc.accesskey           "Я">
-<!ENTITY outsideDomain.label           "Якщо відправник не знаходиться в моєму домені:">
-<!ENTITY outsideDomain.accesskey       "м">
-<!ENTITY otherCases.label              "У решті випадків:">
-<!ENTITY otherCases.accesskey          "ш">
-<!ENTITY askMe.label                   "Запитати мене">
-<!ENTITY alwaysSend.label              "Відсилати">
-<!ENTITY neverSend.label               "Не відсилати">
+<!ENTITY dialog.title                  "Return Receipts">
+<!ENTITY requestReceipt.label          "When sending messages, always request a return receipt">
+<!ENTITY requestReceipt.accesskey      "W">
+<!ENTITY receiptArrive.label           "When a receipt arrives:">
+<!ENTITY leaveIt.label                 "Leave it in my Inbox">
+<!ENTITY leaveIt.accesskey             "i">
+<!ENTITY moveToSent.label              "Move it to my &quot;Sent&quot; folder">
+<!ENTITY moveToSent.accesskey          "m">
+<!ENTITY requestMDN.label              "When I receive a request for a return receipt:">
+<!ENTITY never.label                   "Never send a return receipt">
+<!ENTITY never.accesskey               "n">
+<!ENTITY returnSome.label              "Allow return receipts for some messages">
+<!ENTITY returnSome.accesskey          "r">
+<!ENTITY notInToCc.label               "If I'm not in the To or Cc of the message:">
+<!ENTITY notInToCc.accesskey           "f">
+<!ENTITY outsideDomain.label           "If the sender is outside my domain:">
+<!ENTITY outsideDomain.accesskey       "t">
+<!ENTITY otherCases.label              "In all other cases:">
+<!ENTITY otherCases.accesskey          "a">
+<!ENTITY askMe.label                   "Ask me">
+<!ENTITY alwaysSend.label              "Always send">
+<!ENTITY neverSend.label               "Never send">

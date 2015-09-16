@@ -2,72 +2,72 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY itemFormatting.label             "Форматування">
-<!ENTITY itemTags.label                   "Мітки">
+<!ENTITY itemFormatting.label             "Formatting">
+<!ENTITY itemTags.label                   "Tags">
 <!ENTITY itemAdvanced.label               "Advanced">
 
-<!ENTITY style.label                      "Стиль:">
-<!ENTITY style.accesskey                  "С">
-<!ENTITY regularStyle.label               "Звичайний">
-<!ENTITY bold.label                       "Напівжирний">
-<!ENTITY italic.label                     "Курсив">
-<!ENTITY boldItalic.label                 "Напівжирний курсив">
-<!ENTITY size.label                       "Розмір:">
-<!ENTITY size.accesskey                   "Р">
-<!ENTITY regularSize.label                "Звичайний">
-<!ENTITY bigger.label                     "Більший">
-<!ENTITY smaller.label                    "Менший">
-<!ENTITY quotedTextColor.label            "Колір:">
-<!ENTITY quotedTextColor.accesskey        "К">
-<!ENTITY displayWidth.label               "Лист у текстовому форматі">
-<!ENTITY displayText.label                "Використовувати наступні параметри відображення цитат в листах текстового формату:">
+<!ENTITY style.label                      "Style:">
+<!ENTITY style.accesskey                  "y">
+<!ENTITY regularStyle.label               "Regular">
+<!ENTITY bold.label                       "Bold">
+<!ENTITY italic.label                     "Italic">
+<!ENTITY boldItalic.label                 "Bold Italic">
+<!ENTITY size.label                       "Size:">
+<!ENTITY size.accesskey                   "z">
+<!ENTITY regularSize.label                "Regular">
+<!ENTITY bigger.label                     "Bigger">
+<!ENTITY smaller.label                    "Smaller">
+<!ENTITY quotedTextColor.label            "Color:">
+<!ENTITY quotedTextColor.accesskey        "o">
+<!ENTITY displayWidth.label               "Plain Text Messages">
+<!ENTITY displayText.label                "When displaying quoted plain text messages:">
 
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
-<!ENTITY convertEmoticons.label        "Відображати смайліки як графіку">
-<!ENTITY convertEmoticons.accesskey    "б">
+<!ENTITY convertEmoticons.label        "Display emoticons as graphics">
+<!ENTITY convertEmoticons.accesskey    "e">
 
 <!-- labels -->
-<!ENTITY displayTagsText.label     "Мітки використовують для сортування та зазначення пріоритетів листів.">
-<!ENTITY addTagButton.label        "Додати">
-<!ENTITY addTagButton.accesskey    "Д">
-<!ENTITY editTagButton.label       "Змінити">
-<!ENTITY editTagButton.accesskey   "З">
-<!ENTITY removeTagButton.label     "Вилучити">
-<!ENTITY removeTagButton.accesskey "В">
+<!ENTITY displayTagsText.label     "Tags can be used to categorize and prioritize your messages.">
+<!ENTITY addTagButton.label        "Add">
+<!ENTITY addTagButton.accesskey    "A">
+<!ENTITY editTagButton.label       "Edit">
+<!ENTITY editTagButton.accesskey   "E">
+<!ENTITY removeTagButton.label     "Delete">
+<!ENTITY removeTagButton.accesskey "D">
 
 <!-- Fonts and Colors -->
 <!ENTITY fontsAndColors1.label   "Fonts &amp; Colors">
-<!ENTITY defaultFont.label       "Типовий шрифт:">
-<!ENTITY defaultFont.accesskey   "Т">
-<!ENTITY defaultSize.label       "Розмір:">
-<!ENTITY defaultSize.accesskey   "Р">
-<!ENTITY fontOptions.accesskey   "Ш">
-<!ENTITY fontOptions.label       "Шрифти…">
+<!ENTITY defaultFont.label       "Default font:">
+<!ENTITY defaultFont.accesskey   "D">
+<!ENTITY defaultSize.label       "Size:">
+<!ENTITY defaultSize.accesskey   "S">
+<!ENTITY fontOptions.accesskey   "A">
+<!ENTITY fontOptions.label       "Advanced…">
 <!ENTITY colorButton.label       "Colors…">
 <!ENTITY colorButton.accesskey   "C">
 
 <!-- Advanced -->
-<!ENTITY reading.caption                  "Читання">
-<!ENTITY display.caption                  "Відображення">
-<!ENTITY showCondensedAddresses.label     "Показувати тільки ім’я людей, що знаходяться в моїй адресній книзі">
-<!ENTITY showCondensedAddresses.accesskey "м">
+<!ENTITY reading.caption                  "Reading">
+<!ENTITY display.caption                  "Display">
+<!ENTITY showCondensedAddresses.label     "Show only display name for people in my address book">
+<!ENTITY showCondensedAddresses.accesskey "S">
 
-<!ENTITY autoMarkAsRead.label             "Автоматично позначати листи як прочитані">
-<!ENTITY autoMarkAsRead.accesskey         "А">
-<!ENTITY markAsReadNoDelay.label          "Зразу після відображення">
-<!ENTITY markAsReadNoDelay.accesskey      "З">
+<!ENTITY autoMarkAsRead.label             "Automatically mark messages as read">
+<!ENTITY autoMarkAsRead.accesskey         "A">
+<!ENTITY markAsReadNoDelay.label          "Immediately on display">
+<!ENTITY markAsReadNoDelay.accesskey      "o">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label            "Як мине">
-<!ENTITY markAsReadDelay.accesskey        "Я">
-<!ENTITY secondsLabel.label               "секунд">
-<!ENTITY openMsgIn.label                  "Відкривати листи у:">
-<!ENTITY openMsgInNewTab.label            "Новій вкладці">
-<!ENTITY openMsgInNewTab.accesskey        "в">
-<!ENTITY reuseExpRadio0.label             "новому вікні">
-<!ENTITY reuseExpRadio0.accesskey         "н">
-<!ENTITY reuseExpRadio1.label             "вже існуючому вікні">
-<!ENTITY reuseExpRadio1.accesskey         "у">
-<!ENTITY closeMsgOnMoveOrDelete.label     "Закривати вікно листа після видалення/переміщення">
-<!ENTITY closeMsgOnMoveOrDelete.accesskey "З">
+<!ENTITY markAsReadDelay.label            "After displaying for">
+<!ENTITY markAsReadDelay.accesskey        "d">
+<!ENTITY secondsLabel.label               "seconds">
+<!ENTITY openMsgIn.label                  "Open messages in:">
+<!ENTITY openMsgInNewTab.label            "A new tab">
+<!ENTITY openMsgInNewTab.accesskey        "t">
+<!ENTITY reuseExpRadio0.label             "A new message window">
+<!ENTITY reuseExpRadio0.accesskey         "n">
+<!ENTITY reuseExpRadio1.label             "An existing message window">
+<!ENTITY reuseExpRadio1.accesskey         "e">
+<!ENTITY closeMsgOnMoveOrDelete.label     "Close message window/tab on move or delete">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "C">

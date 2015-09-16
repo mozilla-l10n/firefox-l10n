@@ -2,21 +2,21 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle.label "Колір">
-<!ENTITY lastPickedColor.label "Останній вибраний колір">
-<!ENTITY lastPickedColor.accessKey "О">
-<!ENTITY setColor1.label "Клацніть на кольорі або">
-<!ENTITY setColor2.label "введіть його HTML-код">
-<!ENTITY setColor2.accessKey "в">
-<!ENTITY setColorExample.label "(приклад: «#0000ff» або «blue»):">
-<!ENTITY default.label "За умовчанням">
-<!ENTITY default.accessKey "З">
-<!ENTITY palette.label "Палітра:">
-<!ENTITY standardPalette.label "Стандартна">
-<!ENTITY webPalette.label "«Безпечні» кольори">
-<!ENTITY background.label "Фон для:">
-<!ENTITY background.accessKey "Ф">
-<!ENTITY table.label "Таблиця">
-<!ENTITY table.accessKey "Т">
-<!ENTITY cell.label "Клітинок табл.">
-<!ENTITY cell.accessKey "К">
+<!ENTITY windowTitle.label "Color">
+<!ENTITY lastPickedColor.label "Last-picked color">
+<!ENTITY lastPickedColor.accessKey "L">
+<!ENTITY setColor1.label "Click on a color or">
+<!ENTITY setColor2.label "enter an HTML color string">
+<!ENTITY setColor2.accessKey "H">
+<!ENTITY setColorExample.label "(e.g.: &quot;#0000ff&quot; or &quot;blue&quot;):">
+<!ENTITY default.label "Default">
+<!ENTITY default.accessKey "D">
+<!ENTITY palette.label "Palette:">
+<!ENTITY standardPalette.label "Standard">
+<!ENTITY webPalette.label "All web colors">
+<!ENTITY background.label "Background for:">
+<!ENTITY background.accessKey "B">
+<!ENTITY table.label "Table">
+<!ENTITY table.accessKey "T">
+<!ENTITY cell.label "Cell(s)">
+<!ENTITY cell.accessKey "C">

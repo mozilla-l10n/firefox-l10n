@@ -2,15 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY dockOptionsDialog.title               "Опції іконки програми">
+<!ENTITY dockOptionsDialog.title               "App icon options">
 <!ENTITY window.macWidth                       "35em">
 
-<!ENTITY bounceSystemDockIcon.label            "Анімація іконки програми при отриманні нового повідомлення">
-<!ENTITY bounceSystemDockIcon.accesskey        "і">
-<!ENTITY newMessagesCountDock.label            "Рахувати нові повідомлення">
-<!ENTITY newMessagesCountDock.accesskey        "а">
-<!ENTITY showAllUnreadMessagesCount.label      "Рахувати непрочитані повідомлення">
-<!ENTITY showAllUnreadMessagesCount.accesskey  "е">
-<!ENTITY dockIconBadge.label                   "Значок іконки програми">
-<!ENTITY dockIconShow.label                    "Значок іконки програми з:">
-<!ENTITY directNotificationSettings.label      "Ви можете вимкнути значок в панелі сповіщень системних налаштувань.">
+<!ENTITY bounceSystemDockIcon.label            "Animate the app icon when a new message arrives">
+<!ENTITY bounceSystemDockIcon.accesskey        "i">
+<!ENTITY newMessagesCountDock.label            "Count of new messages">
+<!ENTITY newMessagesCountDock.accesskey        "n">
+<!ENTITY showAllUnreadMessagesCount.label      "Count of unread messages">
+<!ENTITY showAllUnreadMessagesCount.accesskey  "u">
+<!ENTITY dockIconBadge.label                   "App icon badge">
+<!ENTITY dockIconShow.label                    "Badge app icon with:">
+<!ENTITY directNotificationSettings.label      "You can disable the badge on the Notification pane of System Preferences.">
