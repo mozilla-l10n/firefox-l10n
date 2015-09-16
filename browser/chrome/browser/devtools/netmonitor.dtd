@@ -73,6 +73,8 @@
   -  in the network details footer for the "JS" filtering button. -->
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterXHR): This is the label displayed
   -  in the network details footer for the "XHR" filtering button. -->
+
+<!ENTITY netmonitorUI.footer.filterXHR    "XHR">
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterFonts): This is the label displayed
   -  in the network details footer for the "Fonts" filtering button. -->
 
@@ -93,7 +95,7 @@
 <!ENTITY netmonitorUI.footer.filterOther  "دیگر">
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterFreetext): This is the label displayed
   -  in the network details footer for the url filtering textbox. -->
-
+<!ENTITY netmonitorUI.footer.filterFreetext.key  "F">
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.clear): This is the label displayed
   -  in the network details footer for the "Clear" button. -->
 
