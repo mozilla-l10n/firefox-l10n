@@ -2,15 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY itemGeneral.label       "Загальні">
+<!ENTITY itemGeneral.label       "General">
 <!ENTITY dataChoicesTab.label    "Data Choices">
-<!ENTITY itemUpdate.label        "Оновлення">
-<!ENTITY itemNetworking.label    "Мережа та диск">
-<!ENTITY itemCertificates.label  "Сертифікати">
+<!ENTITY itemUpdate.label        "Update">
+<!ENTITY itemNetworking.label    "Network &amp; Disk Space">
+<!ENTITY itemCertificates.label  "Certificates">
 
 <!-- General Settings -->
-<!ENTITY enableGlodaSearch.label       "Ввімкнути глобальний пошук та індексацію">
-<!ENTITY enableGlodaSearch.accesskey   "і">
+<!ENTITY enableGlodaSearch.label       "Enable Global Search and Indexer">
+<!ENTITY enableGlodaSearch.accesskey   "E">
 <!ENTITY allowHWAccel.label            "Use hardware acceleration when available">
 <!ENTITY allowHWAccel.accesskey        "h">
 <!ENTITY storeType.label               "Message Store Type for new accounts:">
@@ -18,25 +18,25 @@
 <!ENTITY mboxStore2.label              "File per folder (mbox)">
 <!ENTITY maildirStore.label            "File per message (maildir)">
 
-<!ENTITY scrolling.label               "Прокрутка">
-<!ENTITY useAutoScroll.label           "Використовувати автопрокрутку">
-<!ENTITY useAutoScroll.accesskey       "а">
-<!ENTITY useSmoothScrolling.label      "Використовувати плавну прокрутку">
-<!ENTITY useSmoothScrolling.accesskey  "п">
+<!ENTITY scrolling.label               "Scrolling">
+<!ENTITY useAutoScroll.label           "Use autoscrolling">
+<!ENTITY useAutoScroll.accesskey       "U">
+<!ENTITY useSmoothScrolling.label      "Use smooth scrolling">
+<!ENTITY useSmoothScrolling.accesskey  "m">
 
-<!ENTITY systemIntegration.label       "Системна інтеграція">
-<!ENTITY alwaysCheckDefault.label      "Перевіряти на старті чи &brandShortName; є типовою поштовою програмою">
-<!ENTITY alwaysCheckDefault.accesskey  "ш">
-<!ENTITY searchIntegration.label       "Дозволити &searchIntegration.engineName; шукати листи">
+<!ENTITY systemIntegration.label       "System Integration">
+<!ENTITY alwaysCheckDefault.label      "Always check to see if &brandShortName; is the default mail client on startup">
+<!ENTITY alwaysCheckDefault.accesskey  "A">
+<!ENTITY searchIntegration.label       "Allow &searchIntegration.engineName; to search messages">
 <!ENTITY searchIntegration.accesskey   "S">
-<!ENTITY checkDefaultsNow.label        "Перевірити зараз…">
-<!ENTITY checkDefaultsNow.accesskey    "з">
-<!ENTITY configEditDesc.label          "Додаткові налаштування">
-<!ENTITY configEdit.label              "Редактор налаштувань">
-<!ENTITY configEdit.accesskey          "Р">
-<!ENTITY returnReceiptsInfo.label      "Вкажіть, як &brandShortName; має обробляти сповіщення про доставку">
-<!ENTITY showReturnReceipts.label      "Сповіщення про доставку…">
-<!ENTITY showReturnReceipts.accesskey  "д">
+<!ENTITY checkDefaultsNow.label        "Check Now…">
+<!ENTITY checkDefaultsNow.accesskey    "N">
+<!ENTITY configEditDesc.label          "Advanced Configuration">
+<!ENTITY configEdit.label              "Config Editor…">
+<!ENTITY configEdit.accesskey          "C">
+<!ENTITY returnReceiptsInfo.label      "Determine how &brandShortName; handles return receipts">
+<!ENTITY showReturnReceipts.label      "Return Receipts…">
+<!ENTITY showReturnReceipts.accesskey  "R">
 
 <!-- Data Choices -->
 <!ENTITY telemetrySection.label          "Telemetry">
@@ -64,23 +64,23 @@
 <!ENTITY updateHistory.label             "Show Update History">
 <!ENTITY updateHistory.accesskey         "p">
 
-<!ENTITY useService.label                "Використовувати фонову службу для встановлення оновлень">
-<!ENTITY useService.accesskey            "ф">
+<!ENTITY useService.label                "Use a background service to install updates">
+<!ENTITY useService.accesskey            "b">
 
 <!-- Networking and Disk Space -->
-<!ENTITY showSettings.label            "Настройки…">
-<!ENTITY showSettings.accesskey        "Н">
-<!ENTITY proxiesConfigure.label        "Настройте як &brandShortName; з’єднується з інтернетом">
-<!ENTITY connectionsInfo.caption       "З’єднання">
-<!ENTITY offlineInfo.caption           "Автономний режим">
-<!ENTITY offlineInfo.label             "Налаштуйте параметри автономного режиму">
-<!ENTITY showOffline.label             "Автономний режим…">
-<!ENTITY showOffline.accesskey         "А">
+<!ENTITY showSettings.label            "Settings…">
+<!ENTITY showSettings.accesskey        "S">
+<!ENTITY proxiesConfigure.label        "Configure how &brandShortName; connects to the Internet">
+<!ENTITY connectionsInfo.caption       "Connection">
+<!ENTITY offlineInfo.caption           "Offline">
+<!ENTITY offlineInfo.label             "Configure offline settings">
+<!ENTITY showOffline.label             "Offline…">
+<!ENTITY showOffline.accesskey         "O">
 
-<!ENTITY Diskspace                       "Дисковий простір">
-<!ENTITY offlineCompactFolders.label     "Стискати всі теки, якщо це звільнить більш ніж">
-<!ENTITY offlineCompactFolders.accesskey "в">
-<!ENTITY offlineCompactFoldersMB.label   "MB загалом">
+<!ENTITY Diskspace                       "Disk Space">
+<!ENTITY offlineCompactFolders.label     "Compact all folders when it will save over">
+<!ENTITY offlineCompactFolders.accesskey "a">
+<!ENTITY offlineCompactFoldersMB.label   "MB in total">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
@@ -88,22 +88,22 @@
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-<!ENTITY useCacheBefore.label            "Використовувати до">
-<!ENTITY useCacheBefore.accesskey        "и">
-<!ENTITY useCacheAfter.label             "MB місця під кеш">
-<!ENTITY clearCacheNow.label             "Очистити зараз">
-<!ENTITY clearCacheNow.accesskey         "О">
+<!ENTITY useCacheBefore.label            "Use up to">
+<!ENTITY useCacheBefore.accesskey        "U">
+<!ENTITY useCacheAfter.label             "MB of space for the cache">
+<!ENTITY clearCacheNow.label             "Clear Now">
+<!ENTITY clearCacheNow.accesskey         "C">
 
 <!-- Certificates -->
-<!ENTITY certSelection.description       "Коли сервер запитує мій персональний сертифікат:">
-<!ENTITY certs.auto                      "Вибрати автоматично">
-<!ENTITY certs.auto.accesskey            "а">
-<!ENTITY certs.ask                       "Питати щоразу">
-<!ENTITY certs.ask.accesskey             "П">
+<!ENTITY certSelection.description       "When a server requests my personal certificate:">
+<!ENTITY certs.auto                      "Select one automatically">
+<!ENTITY certs.auto.accesskey            "S">
+<!ENTITY certs.ask                       "Ask me every time">
+<!ENTITY certs.ask.accesskey             "A">
 <!ENTITY enableOCSP.label                "Query OCSP responder servers to confirm the current validity of certificates">
 <!ENTITY enableOCSP.accesskey            "Q">
 
-<!ENTITY viewCertificates.label         "Перегляд сертифікатів">
-<!ENTITY viewCertificates.accesskey     "г">
-<!ENTITY viewSecurityDevices.label      "Пристрої захисту">
-<!ENTITY viewSecurityDevices.accesskey  "з">
+<!ENTITY viewCertificates.label         "View Certificates">
+<!ENTITY viewCertificates.accesskey     "C">
+<!ENTITY viewSecurityDevices.label      "Security Devices">
+<!ENTITY viewSecurityDevices.accesskey  "D">

@@ -4,16 +4,16 @@
 
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Вставка символу">
-<!ENTITY category.label "Категорія">
-<!ENTITY letter.label "Літери:">
-<!ENTITY letter.accessKey "Л">
-<!ENTITY character.label "Символ:">
-<!ENTITY character.accessKey "С">
-<!ENTITY accentUpper.label "Заголовні з діакритичними знаками">
-<!ENTITY accentLower.label "Рядкові з діакритичними знаками">
-<!ENTITY otherUpper.label "Інші заголовні">
-<!ENTITY otherLower.label "Інші рядкові">
-<!ENTITY commonSymbols.label "Загальні символи">
-<!ENTITY insertButton.label "Вставити">
-<!ENTITY closeButton.label "Закрити">
+<!ENTITY windowTitle.label "Insert Character">
+<!ENTITY category.label "Category">
+<!ENTITY letter.label "Letter:">
+<!ENTITY letter.accessKey "L">
+<!ENTITY character.label "Character:">
+<!ENTITY character.accessKey "C">
+<!ENTITY accentUpper.label "Accent Uppercase">
+<!ENTITY accentLower.label "Accent Lowercase">
+<!ENTITY otherUpper.label "Other Uppercase">
+<!ENTITY otherLower.label "Other Lowercase">
+<!ENTITY commonSymbols.label "Common Symbols">
+<!ENTITY insertButton.label "Insert">
+<!ENTITY closeButton.label "Close">

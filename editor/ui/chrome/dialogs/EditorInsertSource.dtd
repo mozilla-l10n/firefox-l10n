@@ -3,13 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Вставка HTML">
-<!ENTITY sourceEditField.label "Введіть HTML-теги і текст:">
-<!ENTITY example.label "Приклад:">
+<!ENTITY windowTitle.label "Insert HTML">
+<!ENTITY sourceEditField.label "Enter HTML tags and text:">
+<!ENTITY example.label "Example: ">
 <!-- LOCALIZATION NOTE (exampleOpenTag.label): DONT_TRANSLATE: they are text for HTML tagnames: "<i>" and "</i>" -->
 <!ENTITY exampleOpenTag.label "&lt;i&gt;">
 <!-- LOCALIZATION NOTE (exampleCloseTag.label): DONT_TRANSLATE: they are text for HTML tagnames: "<i>" and "</i>" -->
 <!ENTITY exampleCloseTag.label "&lt;/i&gt;">
-<!ENTITY exampleText.label "Вітаю!">
-<!ENTITY insertButton.label "Вставити">
-<!ENTITY insertButton.accesskey "В">
+<!ENTITY exampleText.label "Hello World!">
+<!ENTITY insertButton.label "Insert">
+<!ENTITY insertButton.accesskey "I">

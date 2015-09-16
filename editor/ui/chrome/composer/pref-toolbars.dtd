@@ -2,38 +2,38 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pref.toolbars.title    "Панелі інструментів">
+<!ENTITY pref.toolbars.title    "Toolbars">
 
-<!ENTITY composition.caption    "Показувати ці кнопки на панелі інструментів для написання:">
+<!ENTITY composition.caption    "Show these buttons in the Composition Toolbar:">
 
-<!ENTITY new.label              "Новий">
-<!ENTITY open.label             "Відкрити">
-<!ENTITY save.label             "Зберегти">
-<!ENTITY publish.label          "Опублікувати">
-<!ENTITY preview.label          "Оглянути">
-<!ENTITY cut.label              "Вирізати">
-<!ENTITY copy.label             "Копіювати">
-<!ENTITY paste.label            "Вставити">
-<!ENTITY print.label            "Надрукувати">
-<!ENTITY find.label             "Пошук">
-<!ENTITY image.label            "Зображення">
-<!ENTITY hline.label            "Горизонтальна лінія">
-<!ENTITY table.label            "Таблиця">
-<!ENTITY link.label             "Посилання">
-<!ENTITY anchor.label           "Якір">
+<!ENTITY new.label              "New">
+<!ENTITY open.label             "Open">
+<!ENTITY save.label             "Save">
+<!ENTITY publish.label          "Publish">
+<!ENTITY preview.label          "Browse">
+<!ENTITY cut.label              "Cut">
+<!ENTITY copy.label             "Copy">
+<!ENTITY paste.label            "Paste">
+<!ENTITY print.label            "Print">
+<!ENTITY find.label             "Find">
+<!ENTITY image.label            "Image">
+<!ENTITY hline.label            "H. Line">
+<!ENTITY table.label            "Table">
+<!ENTITY link.label             "Link">
+<!ENTITY anchor.label           "Anchor">
 
-<!ENTITY formatting.caption     "Показувати ці кнопки в панелі інструментів форматування:">
+<!ENTITY formatting.caption     "Show these buttons in the Formatting Toolbar:">
 
-<!ENTITY smaller.label          "Менше">
-<!ENTITY larger.label           "Більше">
-<!ENTITY bold.label             "Жирний">
-<!ENTITY bullets.label          "Маркери">
-<!ENTITY numbers.label          "Числа">
-<!ENTITY italic.label           "Курсив">
-<!ENTITY outdent.label          "Виступ">
-<!ENTITY indent.label           "Відступ">
-<!ENTITY underline.label        "Підкреслення">
+<!ENTITY smaller.label          "Smaller">
+<!ENTITY larger.label           "Larger">
+<!ENTITY bold.label             "Bold">
+<!ENTITY bullets.label          "Bullets">
+<!ENTITY numbers.label          "Numbers">
+<!ENTITY italic.label           "Italic">
+<!ENTITY outdent.label          "Outdent">
+<!ENTITY indent.label           "Indent">
+<!ENTITY underline.label        "Underline">
 
-<!ENTITY absolutePosition.label "Абсолютна позиція">
-<!ENTITY decreaseZIndex.label   "Відіслати на задній план">
-<!ENTITY increaseZIndex.label   "Піднести на передній план">
+<!ENTITY absolutePosition.label "Absolute positioning">
+<!ENTITY decreaseZIndex.label   "Send to back">
+<!ENTITY increaseZIndex.label   "Bring to front">

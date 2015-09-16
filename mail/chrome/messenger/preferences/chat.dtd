@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  startupAction.label         "Коли &brandShortName; запускається:">
-<!ENTITY  startupAction.accesskey     "з">
-<!ENTITY  startupOffline.label        "Тримати мої чатові облікові записи в офлайні">
-<!ENTITY  startupConnectAuto.label    "Під'єднати мої облікові записи автоматично">
+<!ENTITY  startupAction.label         "When &brandShortName; starts:">
+<!ENTITY  startupAction.accesskey     "s">
+<!ENTITY  startupOffline.label        "Keep my Chat Accounts offline">
+<!ENTITY  startupConnectAuto.label    "Connect my chat accounts automatically">
 
 <!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
 there's a field where the user can enter a number, and itemTime is
@@ -13,15 +13,15 @@ displayed at the end of the line. The translations of the
 reportIdleAfter.label and idleTime parts don't have to mean the exact
 same thing as in English; please try instead to translate the whole
 sentence. -->
-<!ENTITY  reportIdleAfter.label         "Дозволити моїм контактам знати, що я бездіяльний після">
-<!ENTITY  reportIdleAfter.accesskey     "я">
-<!ENTITY  idleTime                      "хвилин неактивності">
+<!ENTITY  reportIdleAfter.label         "Let my contacts know that I am Idle after">
+<!ENTITY  reportIdleAfter.accesskey     "I">
+<!ENTITY  idleTime                      "minutes of inactivity">
 
-<!ENTITY  andSetStatusToAway.label      "та встановлювати мені статус Відійшов із повідомленням статусу:">
-<!ENTITY  andSetStatusToAway.accesskey  "В">
+<!ENTITY  andSetStatusToAway.label      "and set my status to Away with this status message:">
+<!ENTITY  andSetStatusToAway.accesskey  "A">
 
-<!ENTITY  sendTyping.label              "Надсилати сповіщення про набір у бесідах">
-<!ENTITY  sendTyping.accesskey          "н">
+<!ENTITY  sendTyping.label              "Send typing notifications in conversations">
+<!ENTITY  sendTyping.accesskey          "t">
 
 <!ENTITY  chatNotifications.label             "When messages directed at you arrive:">
 <!ENTITY  desktopChatNotifications.label      "Show a notification:">

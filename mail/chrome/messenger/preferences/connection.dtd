@@ -2,39 +2,39 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  connectionsDialog.title       "Параметри з’єднання">
+<!ENTITY  connectionsDialog.title       "Connection Settings">
 
-<!ENTITY  proxyTitle.label              "Налаштування проксі для доступу в Інтернет">
-<!ENTITY  noProxyTypeRadio.label        "Без проксі">
-<!ENTITY  noProxyTypeRadio.accesskey    "Б">
-<!ENTITY  systemTypeRadio.label         "Використовувати системні параметри проксі">
-<!ENTITY  systemTypeRadio.accesskey     "с">
-<!ENTITY  WPADTypeRadio.label           "Автоматичне визначення налаштувань проксі для даної мережі">
-<!ENTITY  WPADTypeRadio.accesskey       "в">
-<!ENTITY  manualTypeRadio.label         "Налаштування проксі вручну:">
-<!ENTITY  manualTypeRadio.accesskey     "в">
-<!ENTITY  autoTypeRadio.label           "URL автоматичної налаштування проксі:">
-<!ENTITY  autoTypeRadio.accesskey       "а">
-<!ENTITY  reload.label                  "Оновити">
-<!ENTITY  reload.accesskey              "О">
-<!ENTITY  http.label                    "HTTP-проксі:">
-<!ENTITY  http.accesskey                "к">
-<!ENTITY  ssl.label                     "SSL-проксі:">
-<!ENTITY  ssl.accesskey                 "S">
-<!ENTITY  socks.label                   "SOCKS-проксі:">
-<!ENTITY  socks.accesskey               "S">
-<!ENTITY  socks4.label                  "SOCKS 4">
-<!ENTITY  socks4.accesskey              "4">
-<!ENTITY  socks5.label                  "SOCKS 5">
-<!ENTITY  socks5.accesskey              "5">
-<!ENTITY  HTTPport.label                "Порт:">
-<!ENTITY  HTTPport.accesskey            "о">
-<!ENTITY  SSLport.label                 "Порт:">
-<!ENTITY  SSLport.accesskey             "р">
-<!ENTITY  SOCKSport.label               "Порт:">
-<!ENTITY  SOCKSport.accesskey           "т">
-<!ENTITY  noproxy.label                 "Не використовувати проксі для:">
-<!ENTITY  noproxy.accesskey             "д">
-<!ENTITY  noproxyExplain.label          "Приклад: .example.ua, .net.nz, 192.168.1.0/24">
-<!ENTITY  shareproxy.label              "Використовувати цей проксі-сервер для всіх протоколів">
-<!ENTITY  shareproxy.accesskey          "с">
+<!ENTITY  proxyTitle.label              "Configure Proxies to Access the Internet">
+<!ENTITY  noProxyTypeRadio.label        "No proxy">
+<!ENTITY  noProxyTypeRadio.accesskey    "y">
+<!ENTITY  systemTypeRadio.label         "Use system proxy settings">
+<!ENTITY  systemTypeRadio.accesskey     "u">
+<!ENTITY  WPADTypeRadio.label           "Auto-detect proxy settings for this network">
+<!ENTITY  WPADTypeRadio.accesskey       "w">
+<!ENTITY  manualTypeRadio.label         "Manual proxy configuration:">
+<!ENTITY  manualTypeRadio.accesskey     "m">
+<!ENTITY  autoTypeRadio.label           "Automatic proxy configuration URL:">
+<!ENTITY  autoTypeRadio.accesskey       "A">
+<!ENTITY  reload.label                  "Reload">
+<!ENTITY  reload.accesskey              "l">
+<!ENTITY  http.label                    "HTTP Proxy:">
+<!ENTITY  http.accesskey                "h">
+<!ENTITY  ssl.label                     "SSL Proxy:">
+<!ENTITY  ssl.accesskey                 "s">
+<!ENTITY  socks.label                   "SOCKS Host:">
+<!ENTITY  socks.accesskey               "c">
+<!ENTITY  socks4.label                  "SOCKS v4">
+<!ENTITY  socks4.accesskey              "k">
+<!ENTITY  socks5.label                  "SOCKS v5">
+<!ENTITY  socks5.accesskey              "v">
+<!ENTITY  HTTPport.label                "Port:">
+<!ENTITY  HTTPport.accesskey            "p">
+<!ENTITY  SSLport.label                 "Port:">
+<!ENTITY  SSLport.accesskey             "o">
+<!ENTITY  SOCKSport.label               "Port:">
+<!ENTITY  SOCKSport.accesskey           "t">
+<!ENTITY  noproxy.label                 "No Proxy for:">
+<!ENTITY  noproxy.accesskey             "n">
+<!ENTITY  noproxyExplain.label          "Example: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Use this proxy server for all protocols">
+<!ENTITY  shareproxy.accesskey          "x">

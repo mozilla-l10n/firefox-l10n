@@ -4,24 +4,24 @@
 
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Властивості горизонтального роздільника">
+<!ENTITY windowTitle.label "Horizontal Line Properties">
 
-<!ENTITY dimensionsBox.label "Розміри">
-<!ENTITY heightEditField.label "Висота:">
-<!ENTITY heightEditField.accessKey "В">
-<!ENTITY widthEditField.label "Ширина:">
-<!ENTITY widthEditField.accessKey "Ш">
-<!ENTITY pixelsPopup.value "пікселів">
-<!ENTITY alignmentBox.label "Вирівнювання">
-<!ENTITY leftRadio.label "Вліво">
-<!ENTITY leftRadio.accessKey "В">
-<!ENTITY centerRadio.label "По центру">
-<!ENTITY centerRadio.accessKey "П">
-<!ENTITY rightRadio.label "Вправо">
-<!ENTITY rightRadio.accessKey "п">
+<!ENTITY dimensionsBox.label "Dimensions">
+<!ENTITY heightEditField.label "Height:">
+<!ENTITY heightEditField.accessKey "G">
+<!ENTITY widthEditField.label "Width:">
+<!ENTITY widthEditField.accessKey "W">
+<!ENTITY pixelsPopup.value "pixels">
+<!ENTITY alignmentBox.label "Alignment">
+<!ENTITY leftRadio.label "Left">
+<!ENTITY leftRadio.accessKey "L">
+<!ENTITY centerRadio.label "Center">
+<!ENTITY centerRadio.accessKey "C">
+<!ENTITY rightRadio.label "Right">
+<!ENTITY rightRadio.accessKey "R">
 
-<!ENTITY threeDShading.label "3D-тінь">
-<!ENTITY threeDShading.accessKey "т">
-<!ENTITY saveSettings.label "Використовувати за умовчанням">
-<!ENTITY saveSettings.accessKey "к">
-<!ENTITY saveSettings.tooltip "Зберегти ці параметри, щоб використовувати їх при вставці нових роздільників">
+<!ENTITY threeDShading.label "3-D Shading">
+<!ENTITY threeDShading.accessKey "S">
+<!ENTITY saveSettings.label "Use as Default">
+<!ENTITY saveSettings.accessKey "D">
+<!ENTITY saveSettings.tooltip "Save these settings to use when inserting new horizontal lines">

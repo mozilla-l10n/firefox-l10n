@@ -4,17 +4,17 @@
 
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Властивості списку">
+<!ENTITY windowTitle.label "List Properties">
 
-<!ENTITY ListType.label "Тип списку">
-<!ENTITY bulletStyle.label "Стиль маркованого списку:">
-<!ENTITY startingNumber.label "Починати з:">
-<!ENTITY startingNumber.accessKey "Н">
-<!ENTITY none.value "Нічого">
-<!ENTITY bulletList.value "Маркований (ненумерований) список">
-<!ENTITY numberList.value "Нумерований список">
-<!ENTITY definitionList.value "Список визначень">
-<!ENTITY changeEntireListRadio.label "Змінити весь список">
-<!ENTITY changeEntireListRadio.accessKey "З">
-<!ENTITY changeSelectedRadio.label "Змінити вибрані елементи">
-<!ENTITY changeSelectedRadio.accessKey "в">
+<!ENTITY ListType.label "List Type">
+<!ENTITY bulletStyle.label "Bullet Style:">
+<!ENTITY startingNumber.label "Start at:">
+<!ENTITY startingNumber.accessKey "S">
+<!ENTITY none.value "None">
+<!ENTITY bulletList.value "Bullet (Unnumbered) List">
+<!ENTITY numberList.value "Numbered List">
+<!ENTITY definitionList.value "Definition List">
+<!ENTITY changeEntireListRadio.label "Change entire list">
+<!ENTITY changeEntireListRadio.accessKey "C">
+<!ENTITY changeSelectedRadio.label "Change just selected items">
+<!ENTITY changeSelectedRadio.accessKey "I">
