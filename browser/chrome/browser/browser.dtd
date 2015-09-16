@@ -110,7 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "a">
 
 <!ENTITY fxaSignIn.label "Connectar-se a &syncBrand.shortName.label;">
-
+<!ENTITY fxaSignedIn.tooltip "Ubre as preferencias d'o &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Tornar a connectar-se a &syncBrand.shortName.label;">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; activau">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; prencipiará a sincronizar en breu.">
@@ -395,7 +395,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Ir ta la pestanya:">
 
-
+<!ENTITY urlbar.searchSuggestionsNotification.question "Quiere amillorar a suya experiencia de busca con sucherencias?">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Saber-ne &amp;mas…">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "No">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Sí">
 <!-- 
@@ -426,6 +427,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      These are set as the aria-label attribute for the search input box and
      submit button in the in-content search UI, to be used by screen readers. -->
 
+<!ENTITY contentSearchInput.label     "Consulta de busca">
+<!ENTITY contentSearchSubmit.label    "Ninvia la busca">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -641,6 +644,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "Z">
 
+<!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "Estilo de pachina">
 <!ENTITY pageStyleMenu.accesskey "i">
@@ -680,24 +684,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "Rematar">
 <!ENTITY editBookmark.cancel.label                   "Cancelar">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Connexión segura">
 <!ENTITY identity.connectionNotSecure "A connexion no ye segura">
-
+<!ENTITY identity.connectionFile "Ista pachina s'alza en o suyo ordinadora">
 <!ENTITY identity.connectionVerified "&brandShortName; ha verificau que yes connectau a iste puesto de traza segura, fendo:">
 <!ENTITY identity.connectionInternal "Ista ye una pachina segura de &brandShortName;.">
 <!-- Strings for connection state warnings. -->
 
-
-
+<!ENTITY identity.activeBlocked "&brandShortName; ha blocau partes d'ista pachina que no son seguras.">
+<!ENTITY identity.passiveLoaded "Bella parte d'ista pachina no ye segura (como as imachens)">
+<!ENTITY identity.activeLoaded "Ha desactivau a protección en ista pachina.">
+<!ENTITY identity.weakEncryption "Ista pachina fa servir zifrau feble.">
 <!-- Strings for connection state warnings in the subview. -->
 
-
-
-
-
-
+<!ENTITY identity.description.insecure "A connexión ta iste puesto no ye privada. A información que ninvia podría estar visualizada por atras personas (como claus, mensaches, tarchetas de credito, etc.).">
+<!ENTITY identity.description.weakCipher "A suya connexión ta ista web fa servir un zifrau feble y no ye privada.">
+<!ENTITY identity.description.weakCipher2 "Atras personas podrían visualizar a información u modificar o comportamiento d'o puesto">
+<!ENTITY identity.description.activeBlocked "&brandShortName; ha blocau partes d'ista pachina que no son seguras.">
+<!ENTITY identity.description.passiveLoaded "A connexión no ye privada y a información que comparte con o puesto podría estar visualizada por atras personas.">
+<!ENTITY identity.description.passiveLoaded2 "Iste puesto web inclui contenius que no son seguros (p. eix. imachens).">
+<!ENTITY identity.description.passiveLoaded3 "Tot y que &brandShortName; ha blocau bell conteniu, encara queda conteniu no seguro en a pachina (p.eix. imachens).">
 
 
 
