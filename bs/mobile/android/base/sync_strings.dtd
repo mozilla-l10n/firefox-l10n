@@ -32,7 +32,7 @@
 <!ENTITY sync.input.username.label "Naziv računa">
 <!ENTITY sync.input.password.label "Lozinka">
 <!ENTITY sync.input.key.label "Ključ za oporavak">
-
+<!ENTITY sync.checkbox.server.label "Koristi poseban server">
 <!ENTITY sync.input.server.label "URL servera">
 <!-- Setup Fail -->
 

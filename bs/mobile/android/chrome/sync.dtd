@@ -2,26 +2,30 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY sync.title                 "Sync">
+<!ENTITY sync.notconnected          "Nije povezan">
+<!ENTITY sync.connect               "Poveži">
+<!ENTITY sync.connected             "Povezan">
+<!ENTITY sync.details               "Detalji">
+<!ENTITY sync.deviceName            "Ovaj uređaj">
+<!ENTITY sync.disconnect            "Prekini vezu">
+<!ENTITY sync.syncNow               "Sinhronizuj odmah">
 
+<!ENTITY sync.setup.title           "Spoji se na Sync">
+<!ENTITY sync.setup.pair            "Za aktivaciju, izaberite &quot;Upari uređaj&quot; na vašem drugom uređaju.">
+<!ENTITY sync.fallback              "Nisam blizu svog računara…">
+<!ENTITY sync.setup.manual          "Unesite informacije o svom Sync računu">
+<!ENTITY sync.account               "Naziv računa">
+<!ENTITY sync.password              "Lozinka">
+<!ENTITY sync.recoveryKey           "Ključ za oporavak">
+<!ENTITY sync.customServer          "Koristi poseban server">
+<!ENTITY sync.serverURL             "URL servera">
+<!ENTITY sync.setup.connect         "Poveži">
+<!ENTITY sync.setup.cancel          "Otkaži">
+<!ENTITY sync.setup.tutorial        "Pokaži mi kako">
+<!ENTITY sync.setup.waiting2        "Čekanje drugog uređaja…">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY sync.pair.title            "Upari uređaj">
+<!ENTITY sync.pair.description      "Za aktivaciju vašeg novog uređaja, izaberite &quot;Podesi Sync&quot; na uređaju.">
+<!ENTITY sync.setup.close           "Zatvori">
+<!ENTITY sync.setup.waitingdownload "Vaši podaci se preuzimaju u pozadini. Možete slobodno zatvoriti ovaj prozor.">

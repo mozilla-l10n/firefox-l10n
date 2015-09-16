@@ -70,7 +70,7 @@
 
 <!ENTITY close_tab "Zatvori tab">
 <!ENTITY tab_audio_playing "Ovaj tab svira audio">
-
+<!ENTITY tab_audio_muted "Isključen je zvuk ovom tabu">
 <!ENTITY one_tab "1 tab">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -147,9 +147,9 @@
 <!ENTITY pref_learn_more "Saznajte više">
 <!ENTITY pref_category_installed_search_engines "Instalirani pretraživači">
 <!ENTITY pref_category_add_search_providers "Dodajte više pretraživača">
-
-
-
+<!ENTITY pref_category_search_restore_defaults "Povrati pretraživače">
+<!ENTITY pref_search_restore_defaults "Vrati na izvorno">
+<!ENTITY pref_search_restore_defaults_summary "Vrati na izvorno">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
@@ -261,9 +261,9 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled "Dozvoli autoplay">
 <!ENTITY pref_media_autoplay_enabled_summary "Kontrolišite da li web stranice mogu automatski reproducirati video i drugi medijski sadržaj">
 <!ENTITY pref_zoom_force_enabled "Uvijek omogući zumiranje">
-
+<!ENTITY pref_zoom_force_enabled_summary "Prisilno zaobiđi postavke da bi mogli zumirati svaku stranicu">
 <!ENTITY pref_voice_input "Glasovni unos">
-
+<!ENTITY pref_voice_input_summary "Dozvoli unos glasom u naslovnu traku">
 <!ENTITY pref_qrcode_enabled "Čitač QR koda">
 <!ENTITY pref_qrcode_enabled_summary "Dozvoli QR skener u naslovnoj traci">
 
