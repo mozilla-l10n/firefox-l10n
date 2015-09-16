@@ -22,18 +22,21 @@
      -->
 
 <!ENTITY aboutPrivateBrowsing.title            "Ye navegando de traza privada">
+<!ENTITY aboutPrivateBrowsing.subtitle         "En ista finestra, o &brandShortName; no conservará o historial.">
 
-
-
+<!ENTITY aboutPrivateBrowsing.forgotten        "En ista finestra, o &brandShortName; no conservará:">
+<!ENTITY aboutPrivateBrowsing.info.forgotten   "Sin alzar">
 <!ENTITY aboutPrivateBrowsing.info.history     "Historial">
 <!ENTITY aboutPrivateBrowsing.info.searches    "Buscas">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Cookies">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Ficheros temporals">
 
-
+<!ENTITY aboutPrivateBrowsing.kept             "O &brandShortName; conservará:">
+<!ENTITY aboutPrivateBrowsing.info.kept        "Alzau">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Descargas">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Marcapachinas">
 
+<!ENTITY aboutPrivateBrowsing.note1            "Considere que o suyo proveyedor d'Internet u o suyo chefe sí que podrían saber as pachinas que visita.">
 <!ENTITY aboutPrivateBrowsing.learnMore        "Saber-ne mas.">
 <!-- LOCALIZATION NOTE (trackingProtection.width):
      Width of the Tracking Protection section. It is fine for the enabled or
@@ -45,7 +48,7 @@
      -->
 
 <!ENTITY trackingProtection.width              "22em">
-
+<!ENTITY trackingProtection.title              "Protección contra o seguimiento">
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
@@ -54,6 +57,8 @@
 <!ENTITY trackingProtection.state.enabled      "Activada">
 <!ENTITY trackingProtection.state.disabled     "Desactivada">
 
+<!ENTITY trackingProtection.description1       "As finestras privadas blocan agora partes d'a pachina que pueden fer seguimiento d'a suya navegación.">
 
-
-
+<!ENTITY trackingProtection.disable            "Activa a protección contra o seguimiento">
+<!ENTITY trackingProtection.enable             "Desactiva a protección contra o seguimiento">
+<!ENTITY trackingProtection.startTour1         "Cómo funciona?">

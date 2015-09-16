@@ -694,7 +694,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "&brandShortName; ha blocau partes d'ista pachina que no son seguras.">
-<!ENTITY identity.passiveLoaded "Bella parte d'ista pachina no ye segura (como as imachens)">
+<!ENTITY identity.passiveLoaded "Bella parte d'ista pachina no ye segura (p. eix. imachens)">
 <!ENTITY identity.activeLoaded "Ha desactivau a protección en ista pachina.">
 <!ENTITY identity.weakEncryption "Ista pachina fa servir zifrau feble.">
 <!-- Strings for connection state warnings in the subview. -->
@@ -706,13 +706,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded "A connexión no ye privada y a información que comparte con o puesto podría estar visualizada por atras personas.">
 <!ENTITY identity.description.passiveLoaded2 "Iste puesto web inclui contenius que no son seguros (p. eix. imachens).">
 <!ENTITY identity.description.passiveLoaded3 "Tot y que &brandShortName; ha blocau bell conteniu, encara queda conteniu no seguro en a pachina (p.eix. imachens).">
+<!ENTITY identity.description.activeLoaded "Iste puesto web tien contenius que no son seguros (p. eix. scripts) y a suya connexión no ye privada.">
+<!ENTITY identity.description.activeLoaded2 "A información que comparte con iste puesto podría estar vista por atros (como claus, mensaches, tarchetas de credito, etc.).">
 
-
-
-
+<!ENTITY identity.enableMixedContentBlocking.label "Activar a protección">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "v">
 <!ENTITY identity.disableMixedContentBlocking.label "Desactivar a protección por agora">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
-
+<!ENTITY identity.learnMore "Saber-ne mas">
 
 <!ENTITY identity.moreInfoLinkText2 "Mas información">
 
@@ -789,29 +790,32 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "Microfono ta compartir:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
-
+<!ENTITY getUserMedia.audioCapture.label "Se compartirá audio d'a pestanya.">
 <!ENTITY getUserMedia.allWindowsShared.message "Se compartirán todas as finestras visibles en a suya pantalla.">
 
-
-
-
+<!ENTITY trackingProtection.title "Protección contra o seguimiento">
+<!ENTITY trackingProtection.detectedBlocked3 "O &brandShortName; ha blocau as partes d'a pachina que podrían fer o seguimiento d'a suya navegación.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "Iste puesto inclui elementos que pueden seguir a suya navegación. Ha desactivau a protección.">
+<!ENTITY trackingProtection.notDetected3 "No s'ha detectau elementos de seguimiento en ista pachina.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-
+<!ENTITY trackingProtection.unblock.label "Desactivar a protección ta iste puesto">
+<!ENTITY trackingProtection.unblock.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-
-
-
+<!ENTITY trackingProtection.unblockPrivate.label "Desactivar a protección ta ista sesión">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "D">
+<!ENTITY trackingProtection.block2.label "Activar a protección">
+<!ENTITY trackingProtection.block2.accesskey "v">
 
 <!ENTITY trackingContentBlocked.message "Seguimiento">
 <!ENTITY trackingContentBlocked.moreinfo "S'ha blocau bellas partes d'a pachina que fan seguimiento d'a suya actividat online">
 <!ENTITY trackingContentBlocked.learnMore "Saber-ne mas">
-
-
-
+<!ENTITY trackingContentBlocked.options "Opcions">
+<!ENTITY trackingContentBlocked.unblock2.label "Desactivar a protección ta iste puesto">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "Activar a protección">
 <!ENTITY trackingContentBlocked.block.accesskey "v">
 <!ENTITY trackingContentBlocked.disabled.message "A protección d'o seguimiento ye desactivada">
