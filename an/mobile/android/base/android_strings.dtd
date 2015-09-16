@@ -10,7 +10,7 @@
 <!ENTITY  onboard_start_subtext3 "Fe que a tuya experiencia de navegación web mobil siga tuya nomás.">
 <!ENTITY  onboard_start_button_account "Dentrar en &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Encetar navego">
-
+<!ENTITY  onboard_start_restricted1 "Está-te seguro y con o control con ista versión simplificada de &brandShortName;.">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -69,8 +69,8 @@
 <!ENTITY edit_mode_cancel "Cancelar">
 
 <!ENTITY close_tab "Zarrar a pestanya">
-
-
+<!ENTITY tab_audio_playing "Ista pestanya ye reproducindo audio">
+<!ENTITY tab_audio_muted "Ista pestanya ye silenciada">
 <!ENTITY one_tab "1 pestanya">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -158,9 +158,9 @@
 <!ENTITY pref_search_hint "CONSELLO: adhiba qualsieuir puesto web en a suya lista de motors de busca con una pretada larga en o suyo campo de busca y dimpués tocando l\u0027icono &formatI;.">
 <!ENTITY pref_category_devtools "Ferramientas ta desembolicadors">
 <!ENTITY pref_developer_remotedebugging "Depuración remota">
-
-
-
+<!ENTITY pref_developer_remotedebugging_usb "Depuración remota vía USB">
+<!ENTITY pref_developer_remotedebugging_wifi "Depuración remota vía Wi-Fi">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "A depuración Wi-Fi requiere que o tuyo dispositivo tienga instalada un app lectora de codigo QR.">
 <!ENTITY pref_category_logins "Inicios de sesión">
 <!ENTITY pref_remember_signons2 "Remerar inicios de sesión">
 <!ENTITY pref_open_external_urls_privately_title "Ubrir vinclos en navegación privada">
@@ -197,19 +197,21 @@
 <!ENTITY pref_cookies_not_accept_foreign "Autorizadas, fueras d\u0027as de tercers">
 <!ENTITY pref_cookies_disabled "No autorizadas">
 
-
+<!ENTITY pref_tracking_protection_title "Protección contra o seguimiento">
+<!ENTITY pref_tracking_protection_summary3 "Activada en Navegación Privada">
 <!ENTITY pref_donottrack_title "No me sigas">
 <!ENTITY pref_donottrack_summary "&brandShortName; indicará a os puestos web que no quiere que le sigan">
 
-
-
-
+<!ENTITY tracking_protection_prompt_title "Agora con Protección contra Seguimiento">
+<!ENTITY tracking_protection_prompt_text "Blocar activament os elementos que faigan seguimiento de manera que no t\u0027has de preocupar.">
+<!ENTITY tracking_protection_prompt_tip_text "Ves ta os achustes de Privacidat pa saber-ne mas.">
+<!ENTITY tracking_protection_prompt_action_button "Lo pillo!">
 
 <!ENTITY tab_queue_toast_message3 "Pestanya alzada en &brandShortName;">
 <!ENTITY tab_queue_toast_action "Ubrir agora">
 <!ENTITY tab_queue_prompt_title "Ye ubrindo multiples vinclos?">
-
-
+<!ENTITY tab_queue_prompt_text4 "Alza-los dica la vinient vegada que ubras &brandShortName;">
+<!ENTITY tab_queue_prompt_tip_text2 "Puet cambiar-lo dimpués en Achustes">
 <!ENTITY tab_queue_prompt_positive_action_button "Activar">
 <!ENTITY tab_queue_prompt_negative_action_button "No pas agora">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
@@ -411,6 +413,8 @@ size. -->
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
+<!ENTITY pref_prevent_magnifying_glass "Desactivar a lupa ">
+<!ENTITY pref_prevent_magnifying_glass_summary "Privar a lupa quan se resuelvan toques de pantalla ambigos.">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -418,7 +422,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "Amagar a barra de titol &brandShortName; quan se desplace enta abaixo en una pachina">
 
 <!ENTITY pref_tab_queue_title2 "Ubrir multiples finestras">
-
+<!ENTITY pref_tab_queue_summary3 "Alza-los dica la vinient vegada que ubras &brandShortName;">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -438,6 +442,8 @@ size. -->
 <!ENTITY site_settings_no_settings  "No i hai garra opción por limpiar.">
 <!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
+
+<!ENTITY reading_list_added3 "Anyader t\u0027a Lista de Lectura">
 <!ENTITY reading_list_removed "Pachina sacada d\u0027a suya lista de lectura">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -554,20 +560,25 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-
+<!ENTITY identity_connection_secure "Connexión segura">
+<!ENTITY identity_connection_insecure "Connexión insegura">
 <!-- Mixed content notifications in site identity popup -->
 
-
-
+<!ENTITY mixed_content_blocked_all "&brandShortName; ha blocau os elementos inseguros d\u0027ista pachina.">
+<!ENTITY mixed_content_blocked_some "&brandShortName; ha blocau bells elementos inseguros d\u0027ista pachina.">
+<!ENTITY mixed_content_display_loaded "Ista pachina tien bells elementos inseguros.">
+<!ENTITY mixed_content_protection_disabled "Has desactivau a protección d\u0027elementos inseguros.">
 
 <!ENTITY loaded_mixed_content_message "Ista pachina amuestra conteniu no seguro.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; ha blocau o conteniu no seguro.">
 <!ENTITY blocked_mixed_content_message_bottom "A mayoría de pachinas web continan funcionando correctament encara que s\u0027haiga blocau conteniu.">
 <!-- Tracking content notifications in site identity popup -->
 
-
-
-
+<!ENTITY doorhanger_tracking_title "Protección contra o seguimiento">
+<!ENTITY doorhanger_tracking_state_enabled "Activada">
+<!ENTITY doorhanger_tracking_state_disabled "Desactivau">
+<!ENTITY doorhanger_tracking_message_enabled1 "S\u0027ha blocau intentos de fer seguimiento d\u0027o tuyo comportamiento en linia.">
+<!ENTITY doorhanger_tracking_message_disabled2 "Ista pachina inclui elementos que pueden fer seguimiento d\u0027a tuya navegación.">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "Aprender-ne mas">
@@ -676,16 +687,20 @@ dende Android">
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
+
+<!ENTITY devtools_auth_scan_header "Escaniando o code QR amostrau en l\u0027atro dispositivo">
 <!-- Restrictions -->
 <!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
-
-
-
-
-
-
-
-
+<!ENTITY restriction_disallow_import_settings_title2 "Desactivar \u0027Importar dende Android\u0027">
+<!ENTITY restriction_disallow_addons_title2 "Desactivar a instalación de complementos">
+<!ENTITY restriction_disallow_devtools_title2 "Desactivar as ferramientas de desenrollador">
+<!ENTITY restriction_disallow_customize_home_title2 "Desactivar a personalización d\u0027o inicio">
+<!ENTITY restriction_disallow_private_browsing_title2 "Desactivar a Navegación Privada">
+<!ENTITY restriction_disallow_location_services_title2 "Desactivar os Servicio d\u0027ubicación">
+<!ENTITY restriction_disallow_display_settings_title2 "Desactivar os achustes de visualización">
+<!ENTITY restriction_disallow_clear_history_title2 "Desactivar \u0027Limpiar o historial de navegación\u0027">
+<!ENTITY restriction_disallow_master_password_title2 "Fer servir a clau mayestra">
+<!ENTITY restriction_disallow_guest_browsing_title2 "Desactivar a navegación \&quot;como convidau\&quot;">
 
