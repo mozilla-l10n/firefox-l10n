@@ -84,12 +84,15 @@ both, to better adapt this sentence to their language.
 <!ENTITY welcome.useOldSync.label "Koristite stariju inačicu Synca?">
 
 <!ENTITY signedOut.caption            "Ponesite vaš Web sa sobom">
+<!ENTITY signedOut.description        "Sinkronizirajte vaše zabilješke, povijest, kartice, lozinke, dodatke i postavke na sve vaše uređaje.">
+<!ENTITY signedOut.accountBox.title   "Povežite se sa &syncBrand.fxAccount.label;">
+<!ENTITY signedOut.accountBox.create  "Stvori račun">
+<!ENTITY signedOut.accountBox.signin  "Prijava">
 
+<!ENTITY signedIn.engines.label       "Sinkroniziraj na sve uređaje">
 
-
-
-
-
+<!ENTITY mobilePromo.start            "Preuzmite Firefox za ">
 <!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
-
-
+<!ENTITY mobilePromo.androidLink      "Android™">
+<!ENTITY mobilePromo.end              " da biste sinkronizirali s vašim mobilnim uređajem.">
+<!ENTITY androidAttribution           "Android je zaštitni znak Google Inc.">
