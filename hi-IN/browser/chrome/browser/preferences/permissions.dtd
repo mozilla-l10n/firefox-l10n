@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                 "अपवाद">
-<!ENTITY window.width                 "45ईएम">
+<!ENTITY window.width                 "45em">
 
 <!ENTITY treehead.sitename.label      "साइट">
 <!ENTITY treehead.status.label        "स्थिति">
