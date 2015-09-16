@@ -2,10 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY feedbackHeader2.label          "Alati za povratnu informaciju">
 
+<!ENTITY feedback.communicate.title     "Komunicirajte s nama!">
+<!ENTITY feedback.feedback.title        "Dajte povratnu informaciju">
+<!ENTITY feedback.feedback.good         "Dobar">
+<!ENTITY feedback.feedback.bad          "Loš">
 
-
-
-
-
-
+<!ENTITY feedback.tools.title           "Alati">
+<!ENTITY feedback.allowTelemetry.title  "Šalji podatke o performansama">
+<!ENTITY feedback.forceCompat.title     "Forsiraj kompatibilnost add-ona">
+<!ENTITY feedback.errorConsole.title    "Omogući konzolu grešaka">
