@@ -641,6 +641,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "U">
 
+<!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "Tinklalapio stilius">
 <!ENTITY pageStyleMenu.accesskey "k">
@@ -703,7 +704,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded2 "Šioje svetainėje yra nesaugaus turinio (pvz., paveikslų).">
 
 
-
+<!ENTITY identity.description.activeLoaded2 "Šiai svetainei pateikta informacija gali būti peržiūrėta kitų (pvz., slaptažodžiai, žinutės, banko kortelės, kita).">
 
 
 <!ENTITY identity.disableMixedContentBlocking.label "Laikinai išjungti apsaugą">
@@ -789,8 +790,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Bus leidžiama matyti visus jūsų ekrane matomus langus.">
 
 <!ENTITY trackingProtection.detectedBlocked3 "„&brandShortName;“ blokuoja jūsų naršymą galinčias stebėti šio tinklalapio dalis.">
-
-
+<!ENTITY trackingProtection.detectedNotBlocked3 "Šiame tinklalapyje yra jūsų naršymą galinčių stebėti elementų. Jūsų apsauga yra išjungta.">
+<!ENTITY trackingProtection.notDetected3 "Tinklalapyje nerasta stebėjimui naudojamų elementų.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
@@ -799,8 +800,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 
-
-
+<!ENTITY trackingProtection.block2.label "Įjungti apsaugą">
+<!ENTITY trackingProtection.block2.accesskey "Į">
 
 <!ENTITY trackingContentBlocked.message "Stebėjimas">
 <!ENTITY trackingContentBlocked.moreinfo "Tinklalapio dalys, stebinčios jūsų veiksmus internete, buvo užblokuotos.">
