@@ -47,7 +47,7 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
-
+<!ENTITY performanceUI.table.totalDuration.tooltip    "مدت زمان صرف شده جهت این تابع و تابع فراخوانده شده توسط آن.">
 
 
 
@@ -77,6 +77,8 @@
 <!-- LOCALIZATION NOTE (performanceUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
   -  is displayed in the profiler. -->
+
+<!ENTITY performanceUI.showPlatformData             "نمایش اطلاعات بستر Gecko">
 
 <!-- LOCALIZATION NOTE (performanceUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
