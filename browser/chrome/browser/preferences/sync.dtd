@@ -71,24 +71,28 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "No ha encetau garra sesión.">
 <!ENTITY signIn.label                "Connectar-se">
-
+<!ENTITY profilePicture.tooltip      "Cambiar a imachen de perfil">
 <!ENTITY manage.label                "Administrar">
 <!ENTITY disconnect.label            "Desconnectar...">
 <!ENTITY verify.label                "Verificar mensache">
 <!ENTITY forget.label                "Oblide iste mensache">
 
 <!ENTITY welcome.description "Acceda a las suyas pestanyas, marcapachinas, claus y mas siempre que faiga servir &brandShortName;.">
-
-
+<!ENTITY welcome.signIn.label "Connectar-se">
+<!ENTITY welcome.createAccount.label "Creyar una cuenta">
 
 <!ENTITY welcome.useOldSync.label "Fer servir una versión antiga de Sync?">
 
+<!ENTITY signedOut.caption            "Leva-te o tuyo Web">
+<!ENTITY signedOut.description        "Sincroniza os tuyos marcapachinas, historial, pestanyas, claus, complementos y preferencias entre totz os tuyos dispositivos.">
+<!ENTITY signedOut.accountBox.title   "Connectar con una &syncBrand.fxAccount.label;">
+<!ENTITY signedOut.accountBox.create  "Creyar una cuenta">
+<!ENTITY signedOut.accountBox.signin  "Connectar-se">
 
+<!ENTITY signedIn.engines.label       "Sincronizar entre totz os dispositivos">
 
-
-
-
-
+<!ENTITY mobilePromo.start            "Descargar Firefos pa ">
 <!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
-
-
+<!ENTITY mobilePromo.androidLink      "Android™">
+<!ENTITY mobilePromo.end              " sincronizar con o tuyo dispositivo mobil.">
+<!ENTITY androidAttribution           "Android ye una marca rechistrada de Google Inc.">
