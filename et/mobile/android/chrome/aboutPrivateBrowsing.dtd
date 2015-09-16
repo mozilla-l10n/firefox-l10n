@@ -3,14 +3,21 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY privatebrowsingpage.title                  "Privaatne veebilehitsemine">
-<!ENTITY privatebrowsingpage.title.normal           "Sa pole privaatse veebilehitsemise režiimis">
 
-<!ENTITY privatebrowsingpage.issueDesc.normal2      "Privaatse veebilehitsemise režiimis ei säilitata sinu veebilehitsemise ajalugu ega küpsiseid.">
-<!ENTITY privatebrowsingpage.issueDesc.private2     "Me ei säilita sinu lehitsemise ajalugu ega küpsiseid.">
+<!-- Localisation note: the plus sign here is a shorthand way of expressing the word "and". Contextually the privatebrowsingpage.title.private string
+                        is used as a title, with the privatebrowsingpage.title string preceding it but on a separate line.
+                        So the final line will say "Private Browsing + Tracking Protection". -->
+<!ENTITY privatebrowsingpage.title.private          "+ jälitamisvastane kaitse">
+<!-- Localization note (privatebrowsingpage.title.normal1): "Private Browsing"
+     is capitalized in English to be consistent with our existing uses of the
+     term. -->
+<!ENTITY privatebrowsingpage.title.normal1          "Sa pole privaatse veebilehitsemise režiimis">
 
-<!ENTITY privatebrowsingpage.description2           "Lisatud järjehoidjad ja allalaaditud failid siiski säilitatakse.">
-<!ENTITY privatebrowsingpage.description.normal     "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
-<!ENTITY privatebrowsingpage.description.private2   "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
+<!ENTITY privatebrowsingpage.description.private3   "Firefox takistab veebilehtedel sinu tegevuse jälitamise ja ei pea meeles lehitsemise ajalugu. Küll aga säilitatakse allalaaditud failid ja lisatud järjehoidjad.">
+<!-- Localization note (privatebrowsingpage.description.normal2): "Private
+     Browsing" is capitalized in English to be consistent with our existing uses
+     of the term. -->
+<!ENTITY privatebrowsingpage.description.normal2    "Privaatse veebilehitsemise režiimis ei säilitata sinu veebilehitsemise ajalugu ega küpsiseid. Lisatud järjehoidjad ja allalaaditud failid siiski säilitatakse.">
 
 <!ENTITY privatebrowsingpage.link.private           "Kas soovid rohkem teavet?">
 <!ENTITY privatebrowsingpage.link.normal            "Ava uus privaatne kaart">
