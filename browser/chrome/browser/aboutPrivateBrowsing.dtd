@@ -22,14 +22,14 @@
 <!ENTITY aboutPrivateBrowsing.subtitle         "Aplikace &brandShortName; si nebude pro toto okno pamatovat historii.">
 
 <!ENTITY aboutPrivateBrowsing.forgotten        "V tomto okně si aplikace &brandShortName; nebude pamatovat:">
-<!ENTITY aboutPrivateBrowsing.info.forgotten   "Zapomene">
+<!ENTITY aboutPrivateBrowsing.info.forgotten   "Nebude uloženo">
 <!ENTITY aboutPrivateBrowsing.info.history     "Historii">
 <!ENTITY aboutPrivateBrowsing.info.searches    "Vyhledávání">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Cookies">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Dočasné soubory">
 
 <!ENTITY aboutPrivateBrowsing.kept             "Aplikace &brandShortName; si bude pamatovat:">
-<!ENTITY aboutPrivateBrowsing.info.kept        "Pamatuje">
+<!ENTITY aboutPrivateBrowsing.info.kept        "Zůstane uloženo">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Stahování">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Záložky">
 
