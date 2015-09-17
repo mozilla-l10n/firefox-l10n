@@ -395,6 +395,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Pereiti į kortelę:">
 
+<!ENTITY urlbar.searchSuggestionsNotification.question "Ar norėtumėte paieškos metu matyti siūlymus?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Sužinoti daugiau…">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Ne">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Taip">
@@ -683,7 +684,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "Įrašyti">
 <!ENTITY editBookmark.cancel.label                   "Atsisakyti">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "š">
 
 <!ENTITY identity.connectionSecure "Saugus ryšys">
 <!ENTITY identity.connectionNotSecure "Ryšys nėra saugus">
@@ -693,22 +694,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "„&brandShortName;“ užblokavo nesaugias šio tinklalapio dalis.">
-
+<!ENTITY identity.passiveLoaded "Kai kurios šio tinklalapio dalys nėra saugios (pvz., paveikslai).">
 <!ENTITY identity.activeLoaded "Šiame tinklalapyje esate išjungę apsaugą.">
 <!ENTITY identity.weakEncryption "Šis tinklalapis naudoja silpną šifravimą.">
 <!-- Strings for connection state warnings in the subview. -->
 
 <!ENTITY identity.description.insecure "Jūsų ryšys su šia svetaine nėra privatus. Jūsų pateikta informacija gali būti peržiūrėta kitų (pvz., slaptažodžiai, žinutės, banko kortelės, kita).">
 <!ENTITY identity.description.weakCipher "Jūsų ryšys su šia svetaine naudoja silpną šifravimą ir nėra privatus.">
-
+<!ENTITY identity.description.weakCipher2 "Pašaliniai asmenys gali matyti jūsų duomenis ir keisti svetainės elgseną.">
 <!ENTITY identity.description.activeBlocked "„&brandShortName;“ užblokavo nesaugias šio tinklalapio dalis.">
 <!ENTITY identity.description.passiveLoaded "Jūsų ryšys nėra privatus, tad šiai svetainei pateikta informacija gali būti peržiūrėta kitų.">
 <!ENTITY identity.description.passiveLoaded2 "Šioje svetainėje yra nesaugaus turinio (pvz., paveikslų).">
-
+<!ENTITY identity.description.passiveLoaded3 "Nors „&brandShortName;“ užblokavo dalį turinio, šiame tinklalapyje vis dar yra nesaugaus turinio (pvz., paveikslų).">
 <!ENTITY identity.description.activeLoaded "Šioje svetainėje yra nesaugaus turinio (pvz., scenarijų), be to, jūsų ryšys su ja nėra privatus.">
 <!ENTITY identity.description.activeLoaded2 "Šiai svetainei pateikta informacija gali būti peržiūrėta kitų (pvz., slaptažodžiai, žinutės, banko kortelės, kita).">
 
-
+<!ENTITY identity.enableMixedContentBlocking.label "Įjungti apsaugą">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "Į">
 <!ENTITY identity.disableMixedContentBlocking.label "Laikinai išjungti apsaugą">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "L">
 <!ENTITY identity.learnMore "Sužinoti daugiau">
@@ -791,13 +793,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Bus pasiekiamas kortelės garsas.">
 <!ENTITY getUserMedia.allWindowsShared.message "Bus leidžiama matyti visus jūsų ekrane matomus langus.">
 
+<!ENTITY trackingProtection.title "Apsauga nuo stebėjimo">
 <!ENTITY trackingProtection.detectedBlocked3 "„&brandShortName;“ blokuoja jūsų naršymą galinčias stebėti šio tinklalapio dalis.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Šiame tinklalapyje yra jūsų naršymą galinčių stebėti elementų. Jūsų apsauga yra išjungta.">
 <!ENTITY trackingProtection.notDetected3 "Tinklalapyje nerasta stebėjimui naudojamų elementų.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-
+<!ENTITY trackingProtection.unblock.label "Išjungti apsaugą šioje svetainėje">
+<!ENTITY trackingProtection.unblock.accesskey "I">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -809,7 +813,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.message "Stebėjimas">
 <!ENTITY trackingContentBlocked.moreinfo "Tinklalapio dalys, stebinčios jūsų veiksmus internete, buvo užblokuotos.">
 <!ENTITY trackingContentBlocked.learnMore "Sužinoti daugiau">
-
+<!ENTITY trackingContentBlocked.options "Nuostatos">
 <!ENTITY trackingContentBlocked.unblock2.label "Išjungti apsaugą šioje svetainėje">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "I">
 <!ENTITY trackingContentBlocked.block.label "Įjungti apsaugą">
