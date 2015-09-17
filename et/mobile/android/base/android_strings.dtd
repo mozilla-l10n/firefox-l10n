@@ -10,7 +10,7 @@
 <!ENTITY  onboard_start_subtext3         "Muuda mobiilne veebilehitsemine tõeliselt isikupäraseks.">
 <!ENTITY  onboard_start_button_account   "Logi &brandShortName;i sisse">
 <!ENTITY  onboard_start_button_browser   "Alusta lehitsemist">
-<!ENTITY  onboard_start_restricted1      "Selle lihtsustatud versiooniga &brandShortName; on sulle tagatud ohutu kasutuskogemus.">
+<!ENTITY  onboard_start_restricted1      "Selle lihtsustatud versiooniga &brandShortName;ist on sulle tagatud ohutu kasutuskogemus.">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
@@ -414,7 +414,7 @@ size. -->
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 <!ENTITY pref_prevent_magnifying_glass   "Suurendusklaas keelatakse ">
-<!ENTITY pref_prevent_magnifying_glass_summary "Suurendusklaas keelatakse, et ära hoida ebaselgete puudutuste poolt põhjustatud suuendamist">
+<!ENTITY pref_prevent_magnifying_glass_summary "Suurendusklaas keelatakse, et ära hoida ebaselgete puudutuste poolt põhjustatud suurendamine">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
@@ -564,9 +564,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_insecure    "Ühendus on ebaturvaline">
 
 <!-- Mixed content notifications in site identity popup -->
-<!ENTITY mixed_content_blocked_all       "&brandShortName; blokkis ebaturvalised elemendid sellel lehel.">
-<!ENTITY mixed_content_blocked_some      "&brandShortName; blokkis mõned ebaturvalised elemendid sellel lehel.">
-<!ENTITY mixed_content_display_loaded    "Sellel lehe sisus on ebaturvalisi elemente.">
+<!ENTITY mixed_content_blocked_all       "&brandShortName; blokkis selle lehe ebaturvalised elemendid.">
+<!ENTITY mixed_content_blocked_some      "&brandShortName; blokkis mõned selle lehe ebaturvalised elemendid.">
+<!ENTITY mixed_content_display_loaded    "Selle lehe sisus on ebaturvalisi elemente.">
 <!ENTITY mixed_content_protection_disabled "Kaitse ebaturvaliste elementide eest on keelatud.">
 
 <!ENTITY loaded_mixed_content_message    "See leht kuvab ebaturvalist sisu.">
@@ -694,7 +694,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 <!ENTITY restriction_disallow_import_settings_title2 "Keelatakse Androidist importimine">
-<!ENTITY restriction_disallow_addons_title2 "Keelatakse lisada paigaldamine">
+<!ENTITY restriction_disallow_addons_title2 "Keelatakse lisade paigaldamine">
 <!ENTITY restriction_disallow_devtools_title2 "Keelatakse arendaja tööriistad">
 <!ENTITY restriction_disallow_customize_home_title2 "Keelatakse avalehe kohandamine">
 <!ENTITY restriction_disallow_private_browsing_title2 "Keelatakse privaatne veebilehitsemine">
