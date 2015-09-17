@@ -95,8 +95,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageInfoCmd.label "Info Laman">
 <!ENTITY pageInfoCmd.accesskey "L">
 <!ENTITY pageInfoCmd.commandkey "L">
-
-
+<!ENTITY mirrorTabCmd.label "Cermin Tab">
+<!ENTITY mirrorTabCmd.accesskey "C">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "Masukkan Skrin Penuh">
@@ -429,17 +429,23 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
 
+<!ENTITY searchFor.label              "Mencari: ">
+<!ENTITY searchWith.label             " dengan:">
 <!-- LOCALIZATION NOTE (search.label, searchAfter.label):
      This string is used to build the header above the list of one-click search
      providers when a one off engine has been selected.  The searchAfter text is
      intentionally left empty for en-US and can be used by other localizations to
      display a string after the search engine name.  This string will be displayed
      as:  "Search <selected engine name><searchAfter.label text>" -->
+
+<!ENTITY search.label                 "Carian ">
 <!ENTITY searchAfter.label            "">
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
+
+<!ENTITY searchWithHeader.label       "Laman Carian:">
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -699,11 +705,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.activeLoaded "Laman web ini mengandungi kandungan yang tidak selamat (seperti skrip) dan sambungan anda kepadanya adalah terbuka.">
 <!ENTITY identity.description.activeLoaded2 "Maklumat yang anda kongsi dengan laman ini boleh dilihat oleh orang lain (seperti kata laluan, mesej, kad kredit, dll.).">
 
-
+<!ENTITY identity.enableMixedContentBlocking.label "Bolehkan perlindungan">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "B">
 <!ENTITY identity.disableMixedContentBlocking.label "Lumpuhkan perlindungan untuk sekarang">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "L">
+<!ENTITY identity.learnMore "Ketahui Lebih Lanjut">
 
-
+<!ENTITY identity.moreInfoLinkText2 "Lebih Banyak Maklumat">
 
 <!ENTITY identity.permissions "Kebenaran">
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -788,22 +796,24 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-
+<!ENTITY trackingProtection.unblock.label "Lumpuhkan perlindungan pada halaman ini">
+<!ENTITY trackingProtection.unblock.accesskey "L">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-
-
-
+<!ENTITY trackingProtection.unblockPrivate.label "Lumpuhkan perlindungan pada halaman ini">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "L">
+<!ENTITY trackingProtection.block2.label "Bolehkan perlindungan">
+<!ENTITY trackingProtection.block2.accesskey "B">
 
 <!ENTITY trackingContentBlocked.message "Penjejakan">
 <!ENTITY trackingContentBlocked.moreinfo "Sebahagian daripada halaman yang menjejaki aktiviti dalam talian anda telah disekat.">
-
+<!ENTITY trackingContentBlocked.learnMore "Ketahui Lebih Lanjut">
 <!ENTITY trackingContentBlocked.options "Pilihan">
 <!ENTITY trackingContentBlocked.unblock2.label "Lumpuhkan perlindungan pada halaman ini">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "d">
-
-
+<!ENTITY trackingContentBlocked.block.label "Bolehkan perlindungan">
+<!ENTITY trackingContentBlocked.block.accesskey "B">
 <!ENTITY trackingContentBlocked.disabled.message "Perlindungan penjejakan dilumpuhkan">
 
 <!ENTITY pointerLock.notification.message "Tekan ESC bila-bila masa untuk paparkan semula.">
@@ -839,7 +849,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
+<!ENTITY panicButton.view.openNewWindow           "Buka tetingkap pelayar yang baru">
 
 <!ENTITY panicButton.view.undoWarning             "Tindakan ini tidak dapat dilakukan.">
 <!ENTITY panicButton.view.forgetButton            "Lupakan!">
@@ -850,8 +860,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY processHang.terminateScript.label        "Hentikan Skrip">
 <!ENTITY processHang.terminateScript.accessKey    "S">
-
-
+<!ENTITY processHang.debugScript.label            "Skrip nyahpijat">
+<!ENTITY processHang.debugScript.accessKey        "S">
 
 
 
