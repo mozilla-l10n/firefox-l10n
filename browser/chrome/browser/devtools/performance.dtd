@@ -135,7 +135,7 @@
   -  should be recorded. -->
 
 <!ENTITY performanceUI.enableJITOptimizations             "Įrašinėti JIT optimizacijas">
-
+<!ENTITY performanceUI.enableJITOptimizations.tooltiptext "Įrašinėti JIT optimizacijų duomenis pateiktus kiekviename „JavaScript“ kadre.">
 <!-- LOCALIZATION NOTE (performanceUI.JITOptimizationsTitle): This string
   -  is displayed as the title of the JIT Optimizations panel. -->
 

@@ -20,7 +20,7 @@
   -  hovering the `Add new rule` button in the rules view toolbar. This should
   -  match ruleView.contextmenu.addNewRule in styleinspector.properties -->
 
-<!ENTITY addRuleButtonTooltip  "Pridėti naują sąlygą">
+<!ENTITY addRuleButtonTooltip  "Pridėti naują taisyklę">
 <!-- LOCALIZATION NOTE (selectedElementLabel): This is the label for the path of
   -  the highlighted element in the web page. This path is based on the document
   -  tree. -->

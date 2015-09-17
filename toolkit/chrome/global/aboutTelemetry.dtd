@@ -11,12 +11,16 @@
 
 
 
+<!ENTITY aboutTelemetry.pingDataSource "Patikrinti duomenų šaltinio ryšį:">
+
+<!ENTITY aboutTelemetry.showCurrentPingData "Dabartinio ryšio patikrinimo duomenys">
 
 
-
+<!ENTITY aboutTelemetry.showSubsessionData "Rodyti posesijinius duomenis">
 
 <!ENTITY aboutTelemetry.choosePing "Pasirinkite ryšio patikrinimą:">
 
+<!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; Niekada netikrinti ryšio">
 
 <!ENTITY aboutTelemetry.showOlderPing "Senesnis ryšio patikrinimas &gt;&gt;">
 
