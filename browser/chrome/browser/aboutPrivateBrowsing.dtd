@@ -6,12 +6,15 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Privát ablak megnyitása">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
+<!ENTITY privateBrowsing.title                 "Privát böngészés">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
      Width of the Private Browsing section. This should depend primarily on the
      length of the headers and text, but should be roughly 1.5 times the width
      of the Tracking Protection section, and in general not much larger than
      30em to prevent the sections from wrapping on smaller window sizes.
      -->
+
+<!ENTITY aboutPrivateBrowsing.width            "30em">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
      aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
      These strings will be replaced by aboutPrivateBrowsing.forgotten and
@@ -19,18 +22,21 @@
      -->
 
 <!ENTITY aboutPrivateBrowsing.title            "Privát böngészést folytat">
+<!ENTITY aboutPrivateBrowsing.subtitle         "Ebben az ablakban a &brandShortName; nem fogja megjegyezni az előzményeket.">
 
-
-
+<!ENTITY aboutPrivateBrowsing.forgotten        "Ebben az ablakban a &brandShortName; nem fogja megjegyezni:">
+<!ENTITY aboutPrivateBrowsing.info.forgotten   "Nem mentett">
 <!ENTITY aboutPrivateBrowsing.info.history     "Előzmények">
-
+<!ENTITY aboutPrivateBrowsing.info.searches    "Keresések">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Sütik">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Ideiglenes fájlok">
 
-
-
+<!ENTITY aboutPrivateBrowsing.kept             "&amp;A &brandShortName; meg fogja tartani:">
+<!ENTITY aboutPrivateBrowsing.info.kept        "Mentett">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Letöltések">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Könyvjelzők">
 
+<!ENTITY aboutPrivateBrowsing.note1            "Ne feledje, hogy az internetszolgáltatója vagy a munkáltatója ettől függetlenül is ellenőrizheti, hogy milyen oldalakat látogat meg.">
 <!ENTITY aboutPrivateBrowsing.learnMore        "Tudjon meg többet.">
 <!-- LOCALIZATION NOTE (trackingProtection.width):
      Width of the Tracking Protection section. It is fine for the enabled or
@@ -41,12 +47,18 @@
      different, so testing on Windows, Mac, and Linux is encouraged.
      -->
 
+<!ENTITY trackingProtection.width              "26em">
+<!ENTITY trackingProtection.title              "Védelem követés ellen">
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
 
+<!ENTITY trackingProtection.state.width        "6ch">
+<!ENTITY trackingProtection.state.enabled      "BE">
+<!ENTITY trackingProtection.state.disabled     "KI">
 
+<!ENTITY trackingProtection.description1       "A privát ablakok mostantól blokkolják az oldal azon részeit, amelyek követhetik az Ön böngészési tevékenységét.">
 
-
-
-
+<!ENTITY trackingProtection.disable            "Követés elleni védelem kikapcsolása">
+<!ENTITY trackingProtection.enable             "Követés elleni védelem bekapcsolása">
+<!ENTITY trackingProtection.startTour1         "Nézze meg ennek működését">
