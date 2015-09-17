@@ -10,8 +10,11 @@
 
 
 
+<!ENTITY aboutTelemetry.pingDataSource "ប្រភព​ទិន្នន័យ​ភីង៖">
 
+<!ENTITY aboutTelemetry.showCurrentPingData "ទិន្នន័យ​ភីង​បច្ចុប្បន្ន">
 
+<!ENTITY aboutTelemetry.showArchivedPingData "ទិន្នន័យ​ភីង​​បាន​រក្សាទុក​ក្នុង​ប័ណ្ណសារ">
 
 
 <!ENTITY aboutTelemetry.choosePing "ជ្រើស​ភីង៖">
