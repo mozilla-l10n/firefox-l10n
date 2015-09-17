@@ -60,6 +60,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Daugiaprocesiai langai">
 
+<!ENTITY aboutSupport.appBasicsSafeMode "Ribotoji veiksena">
 
 <!ENTITY aboutSupport.showDir.label "Atverti aplanką">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
