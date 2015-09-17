@@ -1,7 +1,6 @@
-google
-wikipedia-bs
-pik
-tajpi
-twitter
 eBay
+google
+olx
+twitter
+wikipedia-bs
 yahoo
