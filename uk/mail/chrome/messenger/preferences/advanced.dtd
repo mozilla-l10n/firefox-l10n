@@ -104,6 +104,6 @@
 <!ENTITY enableOCSP.accesskey            "Q">
 
 <!ENTITY viewCertificates.label         "View Certificates">
-<!ENTITY viewCertificates.accesskey     "г">
+<!ENTITY viewCertificates.accesskey     "C">
 <!ENTITY viewSecurityDevices.label      "Security Devices">
 <!ENTITY viewSecurityDevices.accesskey  "D">

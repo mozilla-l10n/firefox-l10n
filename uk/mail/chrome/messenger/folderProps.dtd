@@ -37,7 +37,7 @@
 
 <!ENTITY folderSynchronizationTab.label          "Synchronization">
 <!ENTITY folderCheckForNewMessages2.label         "When getting new messages for this account, always check this folder">
-<!ENTITY folderCheckForNewMessages2.accesskey     "п">
+<!ENTITY folderCheckForNewMessages2.accesskey     "c">
 
 <!ENTITY offlineFolder.check.label               "Select this folder for offline use">
 <!ENTITY offlineFolder.check.accesskey           "S">
