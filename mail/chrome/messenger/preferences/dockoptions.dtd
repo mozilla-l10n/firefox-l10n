@@ -12,4 +12,5 @@
 <!ENTITY showAllUnreadMessagesCount.label      "Počet nepřečtených zpráv">
 <!ENTITY showAllUnreadMessagesCount.accesskey  "P">
 <!ENTITY dockIconBadge.label                   "Ikona notifikace">
-<!ENTITY dockIconShow.label                    "Badge app icon with:">
+<!ENTITY dockIconShow.label                    "Ikona notifikace s:">
+<!ENTITY directNotificationSettings.label      "You can disable the badge on the Notification pane of System Preferences.">
