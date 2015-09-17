@@ -66,6 +66,7 @@
 <!ENTITY largerFont.accesskey         "d">
 <!ENTITY largerFont.commandkey        "+">
 <!-- + is above this key on many keyboards -->
+<!ENTITY largerFont.commandkey2       "="> 
 
 <!ENTITY smallerFont.label            "Sumažinti šriftą">
 <!ENTITY smallerFont.accesskey        "m">
