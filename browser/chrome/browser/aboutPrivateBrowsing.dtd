@@ -24,13 +24,14 @@
 <!ENTITY aboutPrivateBrowsing.title            "Sètz a navigar d'un biais privat">
 
 
-
+<!ENTITY aboutPrivateBrowsing.info.forgotten   "Pas enregistrat">
 <!ENTITY aboutPrivateBrowsing.info.history     "Istoric">
-
+<!ENTITY aboutPrivateBrowsing.info.searches    "Recèrcas">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Cookies">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Fichièrs temporaris">
 
-
-
+<!ENTITY aboutPrivateBrowsing.kept             "Lo &brandShortName; conservarà :">
+<!ENTITY aboutPrivateBrowsing.info.kept        "Enregistrat">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Telecargaments">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Marcapaginas">
 
@@ -44,11 +45,15 @@
      different, so testing on Windows, Mac, and Linux is encouraged.
      -->
 
+<!ENTITY trackingProtection.width              "26em">
+<!ENTITY trackingProtection.title              "Proteccion contra lo seguiment">
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
 
-
+<!ENTITY trackingProtection.state.width        "6ch">
+<!ENTITY trackingProtection.state.enabled      "Activada">
+<!ENTITY trackingProtection.state.disabled     "Desactivada">
 
 
 
