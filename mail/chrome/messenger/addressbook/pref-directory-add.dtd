@@ -2,45 +2,45 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY newDirectoryTitle.label           "Directory Server Properties">
-<!ENTITY directoryName.label               "Name: ">
-<!ENTITY directoryName.accesskey           "n">
-<!ENTITY directoryHostname.label           "Hostname: ">
-<!ENTITY directoryHostname.accesskey       "o">
-<!ENTITY directoryBaseDN.label             "Base DN: ">
-<!ENTITY directoryBaseDN.accesskey         "b">
-<!ENTITY findButton.label                  "Find">
-<!ENTITY findButton.accesskey              "f">
-<!ENTITY directorySecure.label             "Use secure connection (SSL)">
-<!ENTITY directorySecure.accesskey         "U">
-<!ENTITY directoryLogin.label              "Bind DN: ">
-<!ENTITY directoryLogin.accesskey          "i">
-<!ENTITY General.tab                       "General">
-<!ENTITY Offline.tab                       "Offline">
-<!ENTITY Advanced.tab                      "Advanced">
-<!ENTITY portNumber.label                  "Port number: ">
-<!ENTITY portNumber.accesskey              "p">
-<!ENTITY searchFilter.label                "Search filter: ">
-<!ENTITY searchFilter.accesskey            "f">
-<!ENTITY scope.label                       "Scope: ">
-<!ENTITY scope.accesskey                   "c">
-<!ENTITY scopeOneLevel.label               "One Level">
-<!ENTITY scopeOneLevel.accesskey           "L">
-<!ENTITY scopeSubtree.label                "Subtree">
-<!ENTITY scopeSubtree.accesskey            "S">
-<!ENTITY return.label                      "Don't return more than">
-<!ENTITY return.accesskey                  "r">
-<!ENTITY results.label                     "results">
-<!ENTITY offlineText.label                 "You can download a local copy of this directory so that it is available for use when you are working offline.">
-<!ENTITY saslMechanism.label               "Login method: ">
-<!ENTITY saslMechanism.accesskey           "m">
-<!ENTITY saslOff.label                     "Simple">
-<!ENTITY saslOff.accesskey                 "l">
-<!ENTITY saslGSSAPI.label                  "Kerberos (GSSAPI)">
-<!ENTITY saslGSSAPI.accesskey              "K">
+<!ENTITY newDirectoryTitle.label           "Властивості сервера каталогів">
+<!ENTITY directoryName.label               "Назва:">
+<!ENTITY directoryName.accesskey           "Н">
+<!ENTITY directoryHostname.label           "Ім’я сервера:">
+<!ENTITY directoryHostname.accesskey       "с">
+<!ENTITY directoryBaseDN.label             "Кореневий елемент (Base DN):">
+<!ENTITY directoryBaseDN.accesskey         "л">
+<!ENTITY findButton.label                  "Знайти">
+<!ENTITY findButton.accesskey              "З">
+<!ENTITY directorySecure.label             "Використовувати захищене з’єднання (SSL)">
+<!ENTITY directorySecure.accesskey         "з">
+<!ENTITY directoryLogin.label              "Ім’я користувача (Bind DN):">
+<!ENTITY directoryLogin.accesskey          "к">
+<!ENTITY General.tab                       "Основне">
+<!ENTITY Offline.tab                       "Автономно">
+<!ENTITY Advanced.tab                      "Додатково">
+<!ENTITY portNumber.label                  "Порт:">
+<!ENTITY portNumber.accesskey              "П">
+<!ENTITY searchFilter.label                "Фільтр пошуку:">
+<!ENTITY searchFilter.accesskey            "Ф">
+<!ENTITY scope.label                       "Область пошуку:">
+<!ENTITY scope.accesskey                   "О">
+<!ENTITY scopeOneLevel.label               "Один рівень">
+<!ENTITY scopeOneLevel.accesskey           "і">
+<!ENTITY scopeSubtree.label                "Піддерево">
+<!ENTITY scopeSubtree.accesskey            "е">
+<!ENTITY return.label                      "Не повертати більш ніж">
+<!ENTITY return.accesskey                  "в">
+<!ENTITY results.label                     "результатів">
+<!ENTITY offlineText.label                 "Ви можете завантажити копію цього каталогу для використання в автономному режимі.">
+<!ENTITY saslMechanism.label               "Спосіб входу: ">
+<!ENTITY saslMechanism.accesskey           "с">
+<!ENTITY saslOff.label                     "Простий">
+<!ENTITY saslOff.accesskey                 "П">
+<!ENTITY saslGSSAPI.label                  "Кербер (GSSAPI)">
+<!ENTITY saslGSSAPI.accesskey              "К">
 
 <!-- Localization note: this is here because the width of the dialog 
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.
 -->
-<!ENTITY newDirectoryWidth                 "36em">
+<!ENTITY newDirectoryWidth                 "48em">

@@ -4,47 +4,47 @@
 
 <!-- extracted from am-copies.xul -->
 
-<!ENTITY copyAndFolderTitle.label "Copies &amp; Folders">
-<!ENTITY sendingPrefix.label "When sending messages, automatically: ">
-<!ENTITY fccMailFolder.label "Place a copy in:">
-<!ENTITY fccMailFolder.accesskey "P">
-<!ENTITY fccReplyFollowsParent.label "Place replies in the folder of the message being replied to">
-<!ENTITY fccReplyFollowsParent.accesskey "R">
+<!ENTITY copyAndFolderTitle.label "Копії та теки">
+<!ENTITY sendingPrefix.label "При відсиланні пошти автоматично: ">
+<!ENTITY fccMailFolder.label "Зберегти копію в:">
+<!ENTITY fccMailFolder.accesskey "б">
+<!ENTITY fccReplyFollowsParent.label "Зберегти відповідь у теці з початковим листом">
+<!ENTITY fccReplyFollowsParent.accesskey "ч">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->
-<!ENTITY ccAddress.label "Cc these email addresses:">
+<!ENTITY ccAddress.label "Слати Cc на ці поштові адреси:">
 <!ENTITY ccAddress.accesskey "C">
-<!ENTITY ccAddressList.placeholder "Separate addresses with commas">
+<!ENTITY ccAddressList.placeholder "Розділяйте адреси комами">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
-<!ENTITY bccAddress.label "Bcc these email addresses:">
-<!ENTITY bccAddress.accesskey "B">
-<!ENTITY bccAddressList.placeholder "Separate addresses with commas">
-<!ENTITY saveMessageDlg.label "Show confirmation dialog when messages are saved">
-<!ENTITY saveMessageDlg.accesskey "w">
+<!ENTITY bccAddress.label "Слати Bcc на ці адреси:">
+<!ENTITY bccAddress.accesskey "т">
+<!ENTITY bccAddressList.placeholder "Розділяйте адреси комами">
+<!ENTITY saveMessageDlg.label "Показувати діалог підтвердження під час збереження пошти">
+<!ENTITY saveMessageDlg.accesskey "к">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY sentFolderOn.label "&quot;Sent&quot; Folder on:">
-<!ENTITY sentFolderOn.accesskey "S">
-<!ENTITY sentInOtherFolder.label "Other:">
-<!ENTITY sentInOtherFolder.accesskey "O">
+<!ENTITY sentFolderOn.label "Тека «Відіслані» у:">
+<!ENTITY sentFolderOn.accesskey "в">
+<!ENTITY sentInOtherFolder.label "Інші:">
+<!ENTITY sentInOtherFolder.accesskey "І">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY archivesTitle.label "Message Archives">
-<!ENTITY keepArchives.label "Keep message archives in:">
-<!ENTITY keepArchives.accesskey "K">
-<!ENTITY archiveHierarchyButton.label "Archive options…">
-<!ENTITY archiveHierarchyButton.accesskey "A">
-<!ENTITY archivesFolderOn.label "&quot;Archives&quot; Folder on:">
-<!ENTITY archivesFolderOn.accesskey "n">
-<!ENTITY archiveInOtherFolder.label "Other:">
-<!ENTITY archiveInOtherFolder.accesskey "h">
-<!ENTITY specialFolders.label "Drafts and Templates">
-<!ENTITY keepDrafts.label "Keep message drafts in:">
+<!ENTITY archivesTitle.label "Архів листів">
+<!ENTITY keepArchives.label "Зберігати архіви листів у:">
+<!ENTITY keepArchives.accesskey "а">
+<!ENTITY archiveHierarchyButton.label "Налаштування архіву…">
+<!ENTITY archiveHierarchyButton.accesskey "л">
+<!ENTITY archivesFolderOn.label "Тека «Архіви» у:">
+<!ENTITY archivesFolderOn.accesskey "А">
+<!ENTITY archiveInOtherFolder.label "Інші:">
+<!ENTITY archiveInOtherFolder.accesskey "і">
+<!ENTITY specialFolders.label "Чернетки та шаблони">
+<!ENTITY keepDrafts.label "Зберігати чернетки листів у:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY draftsFolderOn.label "&quot;Drafts&quot; Folder on:">
-<!ENTITY draftsFolderOn.accesskey "D">
-<!ENTITY draftInOtherFolder.label "Other:">
-<!ENTITY draftInOtherFolder.accesskey "t">
-<!ENTITY keepTemplates.label "Keep message templates in:">
+<!ENTITY draftsFolderOn.label "Тека «Чернетки» у:">
+<!ENTITY draftsFolderOn.accesskey "Ч">
+<!ENTITY draftInOtherFolder.label "Інші:">
+<!ENTITY draftInOtherFolder.accesskey "н">
+<!ENTITY keepTemplates.label "Зберігати шаблони листів у:">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY templatesFolderOn.label "&quot;Templates&quot; Folder on:">
-<!ENTITY templatesFolderOn.accesskey "m">
-<!ENTITY templateInOtherFolder.label "Other:">
-<!ENTITY templateInOtherFolder.accesskey "e">
+<!ENTITY templatesFolderOn.label "Тека «Шаблони» у:">
+<!ENTITY templatesFolderOn.accesskey "ш">
+<!ENTITY templateInOtherFolder.label "Інші:">
+<!ENTITY templateInOtherFolder.accesskey "і">

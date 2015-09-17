@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY attachmentReminderDialog.title   "Attachment Reminder Keywords">
-<!ENTITY attachKeywordText.label          "&brandShortName; will warn you about missing attachments if you're about to send an e-mail containing one of these keywords.">
-<!ENTITY addKeywordButton.label           "Add">
-<!ENTITY addKeywordButton.accesskey       "A">
-<!ENTITY editKeywordButton.label          "Edit">
-<!ENTITY editKeywordButton.accesskey      "E">
-<!ENTITY removeKeywordButton.label        "Delete">
-<!ENTITY removeKeywordButton.accesskey    "D">
+<!ENTITY attachmentReminderDialog.title   "Ключові слова Вкладень">
+<!ENTITY attachKeywordText.label          "&brandShortName; буде попереджати вас про відсутні вкладення, якщо у листі що ви збираєтесь відіслати є одне з цих ключових слів.">
+<!ENTITY addKeywordButton.label           "Додати">
+<!ENTITY addKeywordButton.accesskey       "Д">
+<!ENTITY editKeywordButton.label          "Редагувати">
+<!ENTITY editKeywordButton.accesskey      "Р">
+<!ENTITY removeKeywordButton.label        "Вилучити">
+<!ENTITY removeKeywordButton.accesskey    "В">

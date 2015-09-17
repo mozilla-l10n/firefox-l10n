@@ -2,27 +2,27 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY emailSectionHdr.label        "Email">
-<!ENTITY readMsgsLink.label           "Read messages">
-<!ENTITY composeMsgLink.label         "Write a new message">
+<!ENTITY emailSectionHdr.label        "Електронна пошта">
+<!ENTITY readMsgsLink.label           "Прочитати лист">
+<!ENTITY composeMsgLink.label         "Написати лист">
 
-<!ENTITY newsSectionHdr.label         "Newsgroups">
-<!ENTITY subscribeNewsLink.label      "Manage newsgroup subscriptions">
+<!ENTITY newsSectionHdr.label         "Групи новин">
+<!ENTITY subscribeNewsLink.label      "Упорядкувати групи новин">
 
-<!ENTITY feedsSectionHdr.label        "Feeds">
-<!ENTITY subscribeFeeds.label         "Manage subscriptions">
+<!ENTITY feedsSectionHdr.label        "Стрічки">
+<!ENTITY subscribeFeeds.label         "Упорядкувати підписки">
 
 <!ENTITY chat.label                   "Chat">
 <!ENTITY movemail.label               "Movemail">
 
-<!ENTITY accountsSectionHdr.label     "Accounts">
-<!ENTITY subscribeImapFolders.label   "Manage folder subscriptions">
-<!ENTITY settingsLink.label           "View settings for this account">
-<!ENTITY newAcctLink.label            "Create a new account">
+<!ENTITY accountsSectionHdr.label     "Облікові записи">
+<!ENTITY subscribeImapFolders.label   "Упорядкувати підписки на теки">
+<!ENTITY settingsLink.label           "Перегляд параметрів цього облікового запису">
+<!ENTITY newAcctLink.label            "Створити обліковий запис">
 <!ENTITY newAcct.label                "Create a new account:">
 
-<!ENTITY advFeaturesSectionHdr.label  "Advanced Features">
-<!ENTITY searchMsgsLink.label         "Search messages">
-<!ENTITY filtersLink.label            "Manage message filters">
-<!ENTITY junkSettings.label           "Junk mail settings">
-<!ENTITY offlineLink.label            "Offline settings">
+<!ENTITY advFeaturesSectionHdr.label  "Додаткові властивості">
+<!ENTITY searchMsgsLink.label         "Пошук листів…">
+<!ENTITY filtersLink.label            "Створити фільтри листів">
+<!ENTITY junkSettings.label           "Параметри анти-спам фільтрів">
+<!ENTITY offlineLink.label            "Параметри автономної роботи">

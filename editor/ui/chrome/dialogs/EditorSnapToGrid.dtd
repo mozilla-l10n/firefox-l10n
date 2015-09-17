@@ -4,12 +4,12 @@
 
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Snap to Grid">
+<!ENTITY windowTitle.label "Підгін під сітку">
 
-<!ENTITY enableSnapToGrid.label "enable Snap to Grid">
-<!ENTITY enableSnapToGrid.accessKey "e">
+<!ENTITY enableSnapToGrid.label "Підганяти під сітку">
+<!ENTITY enableSnapToGrid.accessKey "П">
 
-<!ENTITY sizeEditField.label "Size:">
-<!ENTITY sizeEditField.accessKey "S">
+<!ENTITY sizeEditField.label "Розмір:">
+<!ENTITY sizeEditField.accessKey "Р">
 
-<!ENTITY pixelsLabel.value "pixels">
+<!ENTITY pixelsLabel.value "Пікселів">
