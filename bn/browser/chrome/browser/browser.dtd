@@ -49,36 +49,36 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "বন্ধ করা ট্যাব পুনরায় খুলুন U">
 <!ENTITY  undoCloseTab.accesskey             "U">
-<!ENTITY  closeTab.label                     "ট্যাব বন্ধ (C)">
+<!ENTITY  closeTab.label                     "ট্যাব বন্ধ C">
 <!ENTITY  closeTab.accesskey                 "C">
 
 <!ENTITY  listAllTabs.label      "সব ট্যাবের তালিকা">
 
-<!ENTITY tabCmd.label "নতুন ট্যাব (T)">
+<!ENTITY tabCmd.label "নতুন ট্যাব T">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "অবস্থান খুলুন…">
-<!ENTITY openFileCmd.label "ফাইল খুলুন… (O)">
+<!ENTITY openFileCmd.label "ফাইল খুলুন… O">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "পৃষ্ঠার বিন্যাস… (u)">
+<!ENTITY printSetupCmd.label "পৃষ্ঠার বিন্যাস… u">
 <!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printPreviewCmd.label "মুদ্রণের প্রাকদর্শন (v)">
+<!ENTITY printPreviewCmd.label "মুদ্রণের প্রাকদর্শন v">
 <!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printCmd.label "মুদ্রণ… (P)">
+<!ENTITY printCmd.label "মুদ্রণ… P">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
 
 <!ENTITY goOfflineCmd.label "অফলাইন অবস্থায় কাজ k">
 <!ENTITY goOfflineCmd.accesskey "k">
 
-<!ENTITY menubarCmd.label "মেনু বার (M)">
+<!ENTITY menubarCmd.label "মেনু বার M">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "নেভিগেশন টুলবার">
-<!ENTITY personalbarCmd.label "বুকমার্ক টুলবার (B)">
+<!ENTITY personalbarCmd.label "বুকমার্ক টুলবার B">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "বুকমার্ক টুলবারের আইটেম">
 
@@ -89,10 +89,10 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.undoCloseTab.label "বন্ধ করা ট্যাব পুনরায় খুলুন U">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
 
-<!ENTITY pageSourceCmd.label "পৃষ্ঠার সোর্স (o)">
+<!ENTITY pageSourceCmd.label "পৃষ্ঠার সোর্স o">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
-<!ENTITY pageInfoCmd.label "পৃষ্ঠা সংক্রান্ত তথ্য (I)">
+<!ENTITY pageInfoCmd.label "পৃষ্ঠা সংক্রান্ত তথ্য I">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY mirrorTabCmd.label "মিরর M ট্যাব">
@@ -101,9 +101,9 @@ when there are no windows but Firefox is still running. -->
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "পূর্ণ পর্দাজুড়ে প্রদর্শন F">
 <!ENTITY enterFullScreenCmd.accesskey "F">
-<!ENTITY exitFullScreenCmd.label "পূর্ণ পর্দাজুড়ে প্রদর্শন মোড থেকে প্রস্থান (F)">
+<!ENTITY exitFullScreenCmd.label "পূর্ণ পর্দাজুড়ে প্রদর্শন মোড থেকে প্রস্থান F">
 <!ENTITY exitFullScreenCmd.accesskey "F">
-<!ENTITY fullScreenCmd.label "পর্দাজুড়ে প্রদর্শন (F)">
+<!ENTITY fullScreenCmd.label "পর্দাজুড়ে প্রদর্শন F">
 <!ENTITY fullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "সব ট্যাব দেখানো হবে (A)">
