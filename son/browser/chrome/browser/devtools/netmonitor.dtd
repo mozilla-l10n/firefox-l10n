@@ -300,7 +300,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyResponse): This is the label displayed
   -  on the context menu that copies the selected response as a string -->
 
-<!ENTITY netmonitorUI.context.copyResponse "Zaaboo berandi">
+<!ENTITY netmonitorUI.context.copyResponse "Tuuruyan filla">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyRespose.accesskey): This is the access key
   -  for the Copy Response menu item displayed in the context menu for a request -->
 
