@@ -6,4 +6,4 @@
 <!ENTITY aboutLogins.title                       "Saio-hasierak">
 <!ENTITY aboutLogins.update                      "Eguneratu">
 <!ENTITY aboutLogins.emptyLoginText              "Mantendu seguru zure saio-hasierak">
-
+<!ENTITY aboutLogins.emptyLoginHint              "&brandShortName; erabiliz gordetzen dituzun saio-hasierak eta kredentzialak erakutsiko dira hemen.">
