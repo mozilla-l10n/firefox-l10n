@@ -1,7 +1,6 @@
-google
 amazondotcom
 eBay-in
-yahoo-in
-creativecommons
-wikipedia-mr
+google
 rediff
+wikipedia-mr
+yahoo-in
