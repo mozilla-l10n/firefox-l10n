@@ -204,8 +204,8 @@ Saiatu geroago mesedez.">
 <!ENTITY pref_donottrack_summary "Zure jarraipenik ez egiteko esango die guneei &brandShortName;(e)k">
 
 <!ENTITY tracking_protection_prompt_title "Orain jarraipenaren babesarekin">
-
-
+<!ENTITY tracking_protection_prompt_text "Blokeatu modu aktiboan jarraipena egiten duten elementuak.">
+<!ENTITY tracking_protection_prompt_tip_text "Bisitatu pribatutasun-ezarpenak argibide gehiagorako">
 <!ENTITY tracking_protection_prompt_action_button "Ulertu dut!">
 
 <!ENTITY tab_queue_toast_message3 "Fitxa &brandShortName;(e)n gordeta">
@@ -414,6 +414,8 @@ size. -->
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
+<!ENTITY pref_prevent_magnifying_glass "Desgaitu lupa ">
+<!ENTITY pref_prevent_magnifying_glass_summary "Eragotzi lupa erabiltzea pantaila-ukipen anbiguoak ebaztean">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -421,7 +423,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "Ezkutatu &brandShortName;(r)en titulu-barra orria behera korritzean">
 
 <!ENTITY pref_tab_queue_title2 "Ireki hainbat lotura">
-
+<!ENTITY pref_tab_queue_summary3 "Gorde itzazu &brandShortName; irekitzen duzun hurrengo aldirako">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -564,9 +566,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all "&brandShortName;(e)k seguruak ez diren orri honetako atalak blokeatu ditu.">
-
-
-
+<!ENTITY mixed_content_blocked_some "&brandShortName;(e)k seguruak ez diren orri honetako zenbait atal blokeatu ditu.">
+<!ENTITY mixed_content_display_loaded "Orri honek seguruak ez diren zenbait elementu ditu.">
+<!ENTITY mixed_content_protection_disabled "Babesa desgaitu duzu seguruak ez diren elementuetatik.">
 
 <!ENTITY loaded_mixed_content_message "Orri hau segurua ez den edukia ari da bistaratzen.">
 <!ENTITY blocked_mixed_content_message_top "Segurua ez den edukia blokeatu du &brandShortName;(e)k.">
@@ -576,8 +578,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY doorhanger_tracking_title "Jarraipenaren babesa">
 <!ENTITY doorhanger_tracking_state_enabled "Gaituta">
 <!ENTITY doorhanger_tracking_state_disabled "Desgaituta">
-
-
+<!ENTITY doorhanger_tracking_message_enabled1 "Zure lineako jardueraren jarraipena egiteko saiakerak blokeatu egin dira.">
+<!ENTITY doorhanger_tracking_message_disabled2 "Orri honek zure nabigazioaren jarraipena egin lezaketen elementuak ditu.">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "Argibide gehiago…">
