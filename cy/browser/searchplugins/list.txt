@@ -1,5 +1,4 @@
 amazon-en-GB
-creativecommons
 eBay-en-GB
 google
 palasprint
