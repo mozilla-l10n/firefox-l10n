@@ -91,6 +91,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.create  "Krijoje Llogarinë">
 <!ENTITY signedOut.accountBox.signin  "Hyni">
 
+<!ENTITY signedIn.engines.label       "Njëkohëso nëpër krejt pajisjet">
+
 <!ENTITY mobilePromo.start            "Shkarkoni Firefox-in për ">
 <!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
 <!ENTITY mobilePromo.androidLink      "Android™">
