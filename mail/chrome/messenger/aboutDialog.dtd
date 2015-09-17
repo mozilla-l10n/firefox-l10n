@@ -1,4 +1,4 @@
-<!ENTITY aboutDialog.title          "Про &brandFullName;">
+<!ENTITY aboutDialog.title          "About &brandFullName;">
 
 
 <!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*, update.applyButtonBillboard.*):
@@ -28,13 +28,13 @@
 <!ENTITY community.exp.creditsLink  "global community">
 <!ENTITY community.exp.end          " working together to keep the Web open, public and accessible to all.">
 
-<!ENTITY community.start2           "&brandShortName; був розроблений в ">
+<!ENTITY community.start2           "&brandShortName; is designed by ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
-<!ENTITY community.middle2          " — ">
+<!ENTITY community.middle2          ", a ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "глобальній спільноті">
-<!ENTITY community.end3             ", котра гуртом намагається зробити інтернет кращим. Ми віримо в те, що інтернет має бути відкритим, громадським, доступним кожному без жодних обмежень.">
+<!ENTITY community.creditsLink      "global community">
+<!ENTITY community.end3             " working together to keep the Web open, public and accessible to all.">
 
 <!ENTITY helpus.start               "Want to help? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
@@ -45,20 +45,20 @@
 <!ENTITY helpus.end                 "">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
-<!ENTITY bottomLinks.license        "Ліцензійна інформація">
+<!ENTITY bottomLinks.license        "Licensing Information">
 
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
-<!ENTITY bottomLinks.rights         "Права кінцевого користувача">
+<!ENTITY bottomLinks.rights         "End-User Rights">
 
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
-<!ENTITY bottomLinks.privacy        "Політика конфіденційності">
+<!ENTITY bottomLinks.privacy        "Privacy Policy">
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingForUpdates  "Перевіряю оновлення…">
+<!ENTITY update.checkingForUpdates  "Checking for updates…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.noUpdatesFound      "Маєте найновішу версію &brandShortName;">
+<!ENTITY update.noUpdatesFound      "&brandShortName; is up to date">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "Оновлення вимкнені системним адміністратором">
+<!ENTITY update.adminDisabled       "Updates disabled by your system administrator">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; is being updated by another instance">
 
@@ -67,16 +67,16 @@
      one line with linkText being wrapped in an anchor that links to a site to download
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.failed.start        "Оновлення не вдалось. ">
-<!ENTITY update.failed.linkText     "Завантажити останню версію">
+<!ENTITY update.failed.start        "Update failed. ">
+<!ENTITY update.failed.linkText     "Download the latest version">
 <!ENTITY update.failed.end          "">
 
 <!-- LOCALIZATION NOTE (update.manual.start,update.manual.end): update.manual.start and update.manual.end
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.manual.start        "Завантажити ">
-<!ENTITY update.manual.linkText     "останню версію">
+<!ENTITY update.manual.start        "Download the ">
+<!ENTITY update.manual.linkText     "latest version">
 <!ENTITY update.manual.end          "">
 
 <!-- LOCALIZATION NOTE (update.unsupported.start,update.unsupported.linkText,update.unsupported.end):
@@ -94,15 +94,15 @@
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
-<!ENTITY update.downloading.start   "Завантажую оновлення — ">
+<!ENTITY update.downloading.start   "Downloading update — ">
 <!ENTITY update.downloading.end     "">
 
-<!ENTITY update.applying            "Застосовую оновлення…">
+<!ENTITY update.applying            "Applying update…">
 
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
-<!ENTITY channel.description.start  "Ви зараз на каналі оновлень ">
-<!ENTITY channel.description.end    ". ">
+<!ENTITY channel.description.start  "You are currently on the ">
+<!ENTITY channel.description.end    " update channel. ">
 
 <!ENTITY cmdCloseMac.commandKey "w">

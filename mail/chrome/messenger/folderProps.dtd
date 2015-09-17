@@ -2,72 +2,72 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY folderProps.windowtitle.label           "Властивості">
+<!ENTITY folderProps.windowtitle.label           "Properties">
 
-<!ENTITY generalInfo.label                       "Основна інформація">
+<!ENTITY generalInfo.label                       "General Information">
 <!ENTITY folderCharsetFallback2.label            "Fallback Text Encoding:">
 <!ENTITY folderCharsetFallback2.accesskey        "E">
 <!ENTITY folderCharsetEnforce2.label             "Apply encoding to all messages in the folder (individual message text encoding settings and auto-detection will be ignored)">
 <!ENTITY folderCharsetEnforce2.accesskey         "A">
-<!ENTITY folderRebuildSummaryFileTip2.label      "Перебудувати файл індекса">
-<!ENTITY folderRebuildSummaryFile2.label         "Відремонтувати теку">
-<!ENTITY folderRebuildSummaryFile2.accesskey     "о">
-<!ENTITY folderRebuildSummaryFile.explanation    "Іноді фал індекса теки (.msf) пошкоджується, і листи можуть здаватись зниклими, або можуть з’являтись видалені; ремонтування теки може вирішити ці проблеми.">
-<!ENTITY folderIncludeInGlobalSearch.label       "Включати листи у цій теці в результати Глобального пошуку">
-<!ENTITY folderIncludeInGlobalSearch.accesskey   "Г">
+<!ENTITY folderRebuildSummaryFileTip2.label      "Rebuild Summary File Index">
+<!ENTITY folderRebuildSummaryFile2.label         "Repair Folder">
+<!ENTITY folderRebuildSummaryFile2.accesskey     "R">
+<!ENTITY folderRebuildSummaryFile.explanation    "Sometimes the folder index (.msf) file becomes damaged and messages may appear missing or deleted messages continue showing; repairing the folder may fix these issues.">
+<!ENTITY folderIncludeInGlobalSearch.label       "Include messages in this folder in Global Search results">
+<!ENTITY folderIncludeInGlobalSearch.accesskey   "G">
 
-<!ENTITY retention.label "Налаштування збереження листів">
-<!ENTITY retentionUseAccount.label  "Використовувати налаштування мого облікового запису">
-<!ENTITY retentionUseAccount.accesskey "м">
-<!ENTITY daysOld.label "днів">
-<!ENTITY message.label "листів">
-<!ENTITY retentionCleanup.label "Для вивільнення місця на диску старі листи можуть бути видалені">
-<!ENTITY retentionCleanupImap.label "Щоб вивільнити місце на диску, старі повідомлення можуть бути видалені назавжди. Як локальні копії, так і оригінали на віддаленому сервері.">
-<!ENTITY retentionCleanupPop.label "Щоб вивільнити місце на диску, старі повідомлення можуть бути видалені назавжди, включно з оригіналами на віддаленому сервері.">
-<!ENTITY retentionDeleteMsg.label "Видаляти листи старші за">
-<!ENTITY retentionDeleteMsg.accesskey "л">
-<!ENTITY retentionKeepAll.label "Не видаляти листи">
-<!ENTITY retentionKeepAll.accesskey "Н">
-<!ENTITY retentionKeepRecent.label "Видаляти все крім останніх">
-<!ENTITY retentionKeepRecent.accesskey "о">
+<!ENTITY retention.label "Retention Policy">
+<!ENTITY retentionUseAccount.label  "Use my account settings">
+<!ENTITY retentionUseAccount.accesskey "U">
+<!ENTITY daysOld.label "days old">
+<!ENTITY message.label "messages">
+<!ENTITY retentionCleanup.label "To recover disk space, old messages can be permanently deleted.">
+<!ENTITY retentionCleanupImap.label "To recover disk space, old messages can be permanently deleted, both local copies and originals on the remote server.">
+<!ENTITY retentionCleanupPop.label "To recover disk space, old messages can be permanently deleted, including originals on the remote server.">
+<!ENTITY retentionDeleteMsg.label "Delete messages more than">
+<!ENTITY retentionDeleteMsg.accesskey "m">
+<!ENTITY retentionKeepAll.label "Don't delete any messages">
+<!ENTITY retentionKeepAll.accesskey "A">
+<!ENTITY retentionKeepRecent.label "Delete all but the most recent">
+<!ENTITY retentionKeepRecent.accesskey "l">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Завжди видаляти прочитані листи (ігнорувати вік листів)">
-<!ENTITY retentionApplyToFlagged.label "Зберігати листи з зірочкою завжди">
-<!ENTITY retentionApplyToFlagged.accesskey "з">
+<!ENTITY retentionKeepUnreadHidden.label "Always delete read messages (overrides age settings)">
+<!ENTITY retentionApplyToFlagged.label "Always keep starred messages">
+<!ENTITY retentionApplyToFlagged.accesskey "e">
 
-<!ENTITY folderSynchronizationTab.label          "Синхронізація">
-<!ENTITY folderCheckForNewMessages2.label         "При отриманні нових повідомлень для цього облікового запису, завжди перевіряти цю теку">
+<!ENTITY folderSynchronizationTab.label          "Synchronization">
+<!ENTITY folderCheckForNewMessages2.label         "When getting new messages for this account, always check this folder">
 <!ENTITY folderCheckForNewMessages2.accesskey     "п">
 
-<!ENTITY offlineFolder.check.label               "Вибрати цю теку для автономної роботи">
-<!ENTITY offlineFolder.check.accesskey           "В">
-<!ENTITY offlineFolder.button.label              "Завантажити">
-<!ENTITY offlineFolder.button.accesskey          "З">
+<!ENTITY offlineFolder.check.label               "Select this folder for offline use">
+<!ENTITY offlineFolder.check.accesskey           "S">
+<!ENTITY offlineFolder.button.label              "Download Now">
+<!ENTITY offlineFolder.button.accesskey          "D">
 
-<!ENTITY selectofflineNewsgroup.check.label      "Вибрати цю групу новин для автономної роботи">
-<!ENTITY selectofflineNewsgroup.check.accesskey  "а">
-<!ENTITY offlineNewsgroup.button.label           "Завантажити">
-<!ENTITY offlineNewsgroup.button.accesskey       "З">
+<!ENTITY selectofflineNewsgroup.check.label      "Select this newsgroup for offline use">
+<!ENTITY selectofflineNewsgroup.check.accesskey  "o">
+<!ENTITY offlineNewsgroup.button.label           "Download Now">
+<!ENTITY offlineNewsgroup.button.accesskey       "D">
 
-<!ENTITY folderProps.name.label                  "Назва:">
-<!ENTITY folderProps.name.accesskey              "а">
-<!ENTITY folderProps.location.label              "Розташування:">
-<!ENTITY folderProps.location.accesskey          "о">
+<!ENTITY folderProps.name.label                  "Name:">
+<!ENTITY folderProps.name.accesskey              "N">
+<!ENTITY folderProps.location.label              "Location:">
+<!ENTITY folderProps.location.accesskey          "L">
 
-<!ENTITY folderSharingTab.label                  "Сумісне використання">
-<!ENTITY privileges.button.label                 "Привілеї…">
-<!ENTITY privileges.button.accesskey             "П">
-<!ENTITY permissionsDesc.label                   "У вас є наступні права:">
-<!ENTITY folderType.label                        "Тип теки:">
+<!ENTITY folderSharingTab.label                  "Sharing">
+<!ENTITY privileges.button.label                 "Privileges…">
+<!ENTITY privileges.button.accesskey             "P">
+<!ENTITY permissionsDesc.label                   "You have the following permissions:">
+<!ENTITY folderType.label                        "Folder Type:">
 
-<!ENTITY folderQuotaTab.label                    "Квота">
-<!ENTITY folderQuotaRoot.label                   "Квота:">
-<!ENTITY folderQuotaUsage.label                  "Використано:">
-<!ENTITY folderQuotaStatus.label                 "Стан:">
+<!ENTITY folderQuotaTab.label                    "Quota">
+<!ENTITY folderQuotaRoot.label                   "Quota Root:">
+<!ENTITY folderQuotaUsage.label                  "Usage:">
+<!ENTITY folderQuotaStatus.label                 "Status:">
 
-<!ENTITY numberOfMessages.label                  "Кількість листів:">
+<!ENTITY numberOfMessages.label                  "Number of messages:">
 <!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
-<!ENTITY numberUnknown.label                     "невідома">
-<!ENTITY sizeOnDisk.label                        "Розмір на диску:">
+<!ENTITY numberUnknown.label                     "unknown">
+<!ENTITY sizeOnDisk.label                        "Size on disk:">
 <!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
-<!ENTITY sizeUnknown.label                       "невідомий">
+<!ENTITY sizeUnknown.label                       "unknown">

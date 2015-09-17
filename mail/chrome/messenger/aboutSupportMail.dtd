@@ -2,19 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutSupport.appBasicsAppBuildID "ID складання програми">
+<!ENTITY aboutSupport.appBasicsAppBuildID "Application Build ID">
 
-<!ENTITY aboutSupport.accountsTitle "Облікові записи електронної пошти та новин">
-<!ENTITY aboutSupport.showPrivateData.mainText "Включити імена облікових записів">
-<!ENTITY aboutSupport.showPrivateData.explanationText "(можливо ідентифікуюча інформація)">
+<!ENTITY aboutSupport.accountsTitle "Mail and News Accounts">
+<!ENTITY aboutSupport.showPrivateData.mainText "Include account names">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(possibly identifying information)">
 <!ENTITY aboutSupport.accountsID "ID">
-<!ENTITY aboutSupport.accountsName "Ім'я">
-<!ENTITY aboutSupport.accountsIncomingServer "Сервер вхідної пошти">
-<!ENTITY aboutSupport.accountsOutgoingServers "Сервер вихідної пошти">
-<!ENTITY aboutSupport.accountsServerName "Ім'я">
-<!ENTITY aboutSupport.accountsConnSecurity "Захист з'єднання">
-<!ENTITY aboutSupport.accountsAuthMethod "Метод автентифікації">
-<!ENTITY aboutSupport.accountsDefault "Типово?">
-<!ENTITY aboutSupport.identityName "Ідентифікатор">
+<!ENTITY aboutSupport.accountsName "Name">
+<!ENTITY aboutSupport.accountsIncomingServer "Incoming server">
+<!ENTITY aboutSupport.accountsOutgoingServers "Outgoing servers">
+<!ENTITY aboutSupport.accountsServerName "Name">
+<!ENTITY aboutSupport.accountsConnSecurity "Connection security">
+<!ENTITY aboutSupport.accountsAuthMethod "Authentication method">
+<!ENTITY aboutSupport.accountsDefault "Default?">
+<!ENTITY aboutSupport.identityName "Identity">
 
-<!ENTITY aboutSupport.sendViaEmail.label "Надіслати електронною поштою">
+<!ENTITY aboutSupport.sendViaEmail.label "Send via email">

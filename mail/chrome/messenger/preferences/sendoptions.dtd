@@ -2,34 +2,34 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY dialog.title                 "Параметри надсилання">
-<!ENTITY sendMail.title               "Текстовому форматі">
-<!ENTITY sendMaildesc.label           "При відсиланні листів у форматі HTML, якщо вказано, що один або декілька з адресатів не можуть отримувати пошту у форматі HTML:">
-<!ENTITY askMe.label                  "Запитувати (поштовий клієнт запитає, який формат використовувати)">
-<!ENTITY askMe.accesskey              "З">
-<!ENTITY convertPlain.label           "Перетворити лист у текстовий (частину форматування може бути втрачено)">
-<!ENTITY convertPlain.accesskey       "р">
-<!ENTITY sendHTML.label               "Відсилати лист в HTML">
-<!ENTITY sendHTML.accesskey           "а">
-<!ENTITY sendBoth.label               "Відсилати лист у текстовому та в HTML-форматах (більший розмір листа)">
-<!ENTITY sendBoth.accesskey           "т">
-<!ENTITY override.label               "Примітка: переважні формати можна указувати в адресній книзі.">
+<!ENTITY dialog.title                 "Send Options">
+<!ENTITY sendMail.title               "Text Format">
+<!ENTITY sendMaildesc.label           "When sending messages in HTML format and one or more recipients are not listed as being able to receive HTML:">
+<!ENTITY askMe.label                  "Ask me what to do">
+<!ENTITY askMe.accesskey              "k">
+<!ENTITY convertPlain.label           "Convert the message to plain text">
+<!ENTITY convertPlain.accesskey       "C">
+<!ENTITY sendHTML.label               "Send the message in HTML anyway">
+<!ENTITY sendHTML.accesskey           "S">
+<!ENTITY sendBoth.label               "Send the message in both plain text and HTML">
+<!ENTITY sendBoth.accesskey           "e">
+<!ENTITY override.label               "Note: Use the Address Book to specify preferred text formats for recipients.">
 
-<!ENTITY domaindesc.label             "При надсиланні листа на адресу, доменна частина якої знаходиться в одному із списків нижче &brandShortName; автоматично посилає лист в правильному форматі.">
-<!ENTITY HTMLTab.label                "Домени, що підтримують HTML">
-<!ENTITY HTMLTab.accesskey            "т">
-<!ENTITY PlainTextTab.label           "Домени, що підтримують тільки текст">
-<!ENTITY PlainTextTab.accesskey       "п">
-<!ENTITY AddHtmlDomain.label          "Додати…">
-<!ENTITY AddHtmlDomain.accesskey      "Д">
-<!ENTITY AddPlainText.label           "Додати…">
-<!ENTITY AddPlainText.accesskey       "о">
-<!ENTITY DeleteHtmlDomain.label       "Вилучити">
-<!ENTITY DeleteHtmlDomain.accesskey   "и">
-<!ENTITY DeletePlainText.label        "Вилучити">
-<!ENTITY DeletePlainText.accesskey    "В">
+<!ENTITY domaindesc.label             "When you send a message to an address with one of the domain names listed below, &brandShortName; automatically sends the message in the correct format.">
+<!ENTITY HTMLTab.label                "HTML Domains">
+<!ENTITY HTMLTab.accesskey            "H">
+<!ENTITY PlainTextTab.label           "Plain Text Domains">
+<!ENTITY PlainTextTab.accesskey       "P">
+<!ENTITY AddHtmlDomain.label          "Add…">
+<!ENTITY AddHtmlDomain.accesskey      "A">
+<!ENTITY AddPlainText.label           "Add…">
+<!ENTITY AddPlainText.accesskey       "A">
+<!ENTITY DeleteHtmlDomain.label       "Delete">
+<!ENTITY DeleteHtmlDomain.accesskey   "D">
+<!ENTITY DeletePlainText.label        "Delete">
+<!ENTITY DeletePlainText.accesskey    "D">
 
-<!ENTITY add.htmltitle                "Додати доменне ім’я HTML">
-<!ENTITY add.htmldomain               "Ім’я домена:">
-<!ENTITY add.plaintexttitle           "Додати доменне ім’я простого тексту">
-<!ENTITY add.plaintextdomain          "Ім’я домену:">
+<!ENTITY add.htmltitle                "Add HTML Domain Name">
+<!ENTITY add.htmldomain               "HTML Domain Name:">
+<!ENTITY add.plaintexttitle           "Add Plain Text Domain Name">
+<!ENTITY add.plaintextdomain          "Plain Text Domain Name:">
