@@ -21,8 +21,8 @@
 
 <!ENTITY importFromChrome.label         "Chrome">
 <!ENTITY importFromChrome.accesskey     "C">
-
-
+<!ENTITY importFromChromium.label       "„Chromium“">
+<!ENTITY importFromChromium.accesskey   "u">
 <!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "F">
 <!ENTITY importFrom360se.label          "„360 Secure Browser“">

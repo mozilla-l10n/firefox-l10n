@@ -86,7 +86,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.caption            "Pasiimkite savo saityną kartu">
 <!ENTITY signedOut.description        "Sinchronizuokite savo adresyną, žurnalą, korteles, slaptažodžius, priedus bei nuostatas visuose savo įrenginiuose.">
 <!ENTITY signedOut.accountBox.title   "Jungtis su „&syncBrand.fxAccount.label;“">
-
+<!ENTITY signedOut.accountBox.create  "Kurti paskyrą">
 <!ENTITY signedOut.accountBox.signin  "Prisijungti">
 
 <!ENTITY signedIn.engines.label       "Sinchronizuokite visuose įrenginiuose">
