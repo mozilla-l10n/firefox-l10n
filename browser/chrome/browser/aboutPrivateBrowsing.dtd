@@ -52,6 +52,7 @@
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
+<!ENTITY trackingProtection.state.width        "21ch">
 <!ENTITY trackingProtection.state.enabled      "ΕΝΕΡΓΟΠΟΙΗΜΕΝΗ">
 <!ENTITY trackingProtection.state.disabled     "ΑΠΕΝΕΡΓΟΠΟΙΗΜΕΝΗ">
 
