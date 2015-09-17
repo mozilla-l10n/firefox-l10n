@@ -57,7 +57,7 @@
 <!ENTITY trackingProtection.state.enabled      "開啟">
 <!ENTITY trackingProtection.state.disabled     "關閉">
 
-<!ENTITY trackingProtection.description1       "隱私瀏覽視窗現在會封鎖在頁面中追蹤您瀏覽行為的部分。">
+<!ENTITY trackingProtection.description1       "隱私瀏覽視窗現在會封鎖頁面中追蹤您瀏覽行為的部分。">
 
 <!ENTITY trackingProtection.disable            "關閉追蹤保護">
 <!ENTITY trackingProtection.enable             "開啟追蹤保護">
