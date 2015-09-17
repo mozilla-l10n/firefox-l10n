@@ -71,24 +71,28 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Jūs nesate prisijungę.">
 <!ENTITY signIn.label                "Prisijungti">
-
+<!ENTITY profilePicture.tooltip      "Keisti profilio nuotrauką">
 <!ENTITY manage.label                "Tvarkyti">
 <!ENTITY disconnect.label            "Atsijungti…">
 <!ENTITY verify.label                "Patvirtinti el. pašto adresą">
 <!ENTITY forget.label                "Užmiršti šį el. pašto adresą">
 
 <!ENTITY welcome.description "Pasiekite savo korteles, adresyną, slaptažodžius ir kitką – kur besinaudotumėte „&brandShortName;“.">
-
-
+<!ENTITY welcome.signIn.label "Prisijungti">
+<!ENTITY welcome.createAccount.label "Kurti paskyrą">
 
 <!ENTITY welcome.useOldSync.label "Naudojatės senesne „Sync“ versija?">
 
+<!ENTITY signedOut.caption            "Pasiimkite savo saityną kartu">
+<!ENTITY signedOut.description        "Sinchronizuokite savo adresyną, žurnalą, korteles, slaptažodžius, priedus bei nuostatas visuose savo įrenginiuose.">
+<!ENTITY signedOut.accountBox.title   "Jungtis su „&syncBrand.fxAccount.label;“">
 
+<!ENTITY signedOut.accountBox.signin  "Prisijungti">
 
+<!ENTITY signedIn.engines.label       "Sinchronizuokite visuose įrenginiuose">
 
-
-
-
+<!ENTITY mobilePromo.start            "Parsisiųskite „Firefox“, skirtą ">
 <!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
-
-
+<!ENTITY mobilePromo.androidLink      "„Android“">
+<!ENTITY mobilePromo.end              ", norėdami sinchronizuoti savo mobiliajame įrenginyje.">
+<!ENTITY androidAttribution           "„Android“ yra „Google Inc.“ prekės ženklas">

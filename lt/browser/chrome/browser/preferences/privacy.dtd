@@ -4,14 +4,15 @@
 
 <!ENTITY tracking.label                 "Stebėjimas">
 
-
+<!ENTITY dntTrackingNotOkay4.label     "Pranešti svetainėms, kad nenorite būti stebimi.">
+<!ENTITY dntTrackingNotOkay4.accesskey "n">
 <!ENTITY doNotTrackInfo.label          "Sužinoti daugiau">
-
-
-
-
-
-
+<!ENTITY trackingProtection5.label     "Naudoti apsaugą nuo stebėjimo">
+<!ENTITY trackingProtection5.accesskey "b">
+<!ENTITY trackingProtectionLearnMore.label "Sužinoti daugiau">
+<!ENTITY trackingProtectionPBM5.label         "Naudoti apsaugą nuo stebėjimo privačiuosiuose languose">
+<!ENTITY trackingProtectionPBM5.accesskey     "v">
+<!ENTITY trackingProtectionPBMLearnMore.label "Sužinoti daugiau">
 
 <!ENTITY  history.label                 "Žurnalas">
 
@@ -27,7 +28,8 @@
 <!ENTITY  locbar.searches.label         "Susiję paieškos iš numatytosios ieškyklės">
 <!ENTITY  locbar.searches.accesskey     "j">
 
-
+<!ENTITY  suggestionSettings.label      "Keisti ieškyklių siūlymų nuostatas…">
+<!ENTITY  suggestionSettings.accesskey  "e">
 
 <!ENTITY  acceptCookies.label           "Leisti įrašyti slapukus">
 <!ENTITY  acceptCookies.accesskey       "L">
