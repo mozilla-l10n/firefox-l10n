@@ -8,22 +8,22 @@
 
 <!--LOCALIZATION NOTE (pref.composer.title): DONT_TRANSLATE -->
 <!ENTITY  pref.composer.title           "Composer">
-<!ENTITY  recentFiles.title             "Recent Pages Menu">
-<!ENTITY  documentsInMenu.label         "Maximum number of pages listed:">
-<!ENTITY  documentsInMenu.accesskey     "n">
-<!ENTITY  savingFiles.title             "When Saving or Publishing Pages">
-<!ENTITY  preserveExisting.label        "Preserve original source formatting">
-<!ENTITY  preserveExisting.accesskey    "P">
-<!ENTITY  preserveExisting.tooltip      "Preserves line breaks and page's original formatting">
-<!ENTITY  saveAssociatedFiles.label     "Save images and other associated files when saving pages">
-<!ENTITY  saveAssociatedFiles.accesskey "S">
-<!ENTITY  showPublishDialog.label       "Always show Publish dialog when publishing pages">
-<!ENTITY  showPublishDialog.accesskey   "A">
-<!ENTITY  composerEditing.label         "Editing">
-<!ENTITY  maintainStructure.label       "Maintain table layout when inserting or deleting cells">
-<!ENTITY  maintainStructure.tooltip     "Preserves table's rectangular shape by automatically adding cells after inserting or deleting cells">
-<!ENTITY  maintainStructure.accesskey   "M">
-<!ENTITY  useCSS.label                  "Use CSS styles instead of HTML elements and attributes">
-<!ENTITY  useCSS.accesskey              "U">
-<!ENTITY  crInPCreatesNewP.label        "Return in a paragraph always creates a new paragraph">
-<!ENTITY  crInPCreatesNewP.accesskey    "R">
+<!ENTITY  recentFiles.title             "Меню недавніх сторінок">
+<!ENTITY  documentsInMenu.label         "Найбільше число сторінок у списку:">
+<!ENTITY  documentsInMenu.accesskey     "Н">
+<!ENTITY  savingFiles.title             "При збереженні чи публікації сторінок">
+<!ENTITY  preserveExisting.label        "Зберігати оригінальне форматування початкового коду">
+<!ENTITY  preserveExisting.accesskey    "З">
+<!ENTITY  preserveExisting.tooltip      "Зберігати форматування та переноси оригінальної сторінки">
+<!ENTITY  saveAssociatedFiles.label     "Зберегти зображення та інші пов’язані файли при збереженні сторінок">
+<!ENTITY  saveAssociatedFiles.accesskey "п">
+<!ENTITY  showPublishDialog.label       "Завжди показувати діалог при публікації сторінок">
+<!ENTITY  showPublishDialog.accesskey   "д">
+<!ENTITY  composerEditing.label         "Редагування">
+<!ENTITY  maintainStructure.label       "Підтримувати макет таблиці при внесенні/вилученні клітин">
+<!ENTITY  maintainStructure.tooltip     "Зберігає прямокутну форму таблиці, автоматично додаючи клітини після вставки чи вилучення клітин">
+<!ENTITY  maintainStructure.accesskey   "М">
+<!ENTITY  useCSS.label                  "Використовувати стилі CSS замість атрибутів та елементів HTML">
+<!ENTITY  useCSS.accesskey              "с">
+<!ENTITY  crInPCreatesNewP.label        "Клавіша Enter в абзаці створює новий абзац">
+<!ENTITY  crInPCreatesNewP.accesskey    "К">

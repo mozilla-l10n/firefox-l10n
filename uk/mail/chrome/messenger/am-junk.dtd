@@ -2,30 +2,30 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY junkSettings.label "Junk Settings">
-<!ENTITY trainingDescription.label "If enabled, you must first train &brandShortName; to identify junk mail by using the Junk toolbar button to mark messages as junk or not. You need to identify both junk and non junk messages. After that &brandShortName; will be able to mark junk automatically.">
-<!ENTITY level.label "Enable adaptive junk mail controls for this account">
-<!ENTITY level.accesskey "E">
+<!ENTITY junkSettings.label "Налаштування спаму">
+<!ENTITY trainingDescription.label "Якщо увімнути, то вам спершу треба буди навчити  &brandShortName; розпізнавати спам, використовуючи кнопку «Спам» на панелі інструментів стосовно небажаних листів. Вам потрібно визначати як небажану, так і звичайну пошту. Після цього &brandShortName; зможе визначати спам автоматично.">
+<!ENTITY level.label "Ввімкнути контроль спаму для цього облікового запису">
+<!ENTITY level.accesskey "В">
 
-<!ENTITY move.label "Move new junk messages to:">
-<!ENTITY move.accesskey "M">
-<!ENTITY junkFolderOn.label "&quot;Junk&quot; folder on:">
-<!ENTITY junkFolderOn.accesskey "J">
-<!ENTITY otherFolder.label "Other:">
-<!ENTITY otherFolder.accesskey "O">
-<!ENTITY purge1.label "Automatically delete junk mail older than">
-<!ENTITY purge1.accesskey "u">
-<!ENTITY purge2.label "days">
+<!ENTITY move.label "Переміщати спам в:">
+<!ENTITY move.accesskey "м">
+<!ENTITY junkFolderOn.label "Теку „Спам“ на:">
+<!ENTITY junkFolderOn.accesskey "с">
+<!ENTITY otherFolder.label "Інше:">
+<!ENTITY otherFolder.accesskey "і">
+<!ENTITY purge1.label "Автоматично вилучати спам, давніший за">
+<!ENTITY purge1.accesskey "д">
+<!ENTITY purge2.label "днів">
 
-<!ENTITY whitelistHeader.label "Do not automatically mark mail as junk if the sender is in: ">
-<!ENTITY whitelistHeader.accesskey "D">
+<!ENTITY whitelistHeader.label "Не позначати пошту як спам, якщо відправник перебуває у: ">
+<!ENTITY whitelistHeader.accesskey "і">
 
-<!ENTITY ispHeadersWarning.label "If enabled, &brandShortName; will automatically consider messages marked by this external classifier as junk.">
-<!ENTITY ispHeaders.label "Trust junk mail headers set by: ">
-<!ENTITY ispHeaders.accesskey "T">
+<!ENTITY ispHeadersWarning.label "Якщо увімкути, то &brandShortName; буде вважати позначені цим зовнішнім класифікатором листи спамом автоматично.">
+<!ENTITY ispHeaders.label "Вірити полям заголовків листів, встановлених: ">
+<!ENTITY ispHeaders.accesskey "р">
 
-<!ENTITY junkClassification.label "Selection">
-<!ENTITY junkActions.label "Destination and Retention">
+<!ENTITY junkClassification.label "Вибірка">
+<!ENTITY junkActions.label "Призначення і затримка">
 
-<!ENTITY globalJunkPrefs.label "Global Junk Preferences…">
-<!ENTITY globalJunkPrefs.accesskey "G">
+<!ENTITY globalJunkPrefs.label "Глобальні налаштування спаму…">
+<!ENTITY globalJunkPrefs.accesskey "Г">

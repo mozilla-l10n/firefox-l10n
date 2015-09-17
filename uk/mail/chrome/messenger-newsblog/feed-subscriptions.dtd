@@ -3,23 +3,23 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Subscription Dialog -->
-<!ENTITY feedSubscriptions.label     "Feed Subscriptions">
+<!ENTITY feedSubscriptions.label     "Підписки на стрічки">
 <!ENTITY learnMore.label             "Learn more about Feeds">
 
-<!ENTITY feedTitle.label             "Title:">
-<!ENTITY feedTitle.accesskey         "T">
+<!ENTITY feedTitle.label             "Заголовок:">
+<!ENTITY feedTitle.accesskey         "З">
 
-<!ENTITY feedLocation.label          "Feed URL:">
+<!ENTITY feedLocation.label          "URL стрічки:">
 <!ENTITY feedLocation.accesskey      "U">
-<!ENTITY feedLocation.placeholder    "Enter a valid feed url to Add">
+<!ENTITY feedLocation.placeholder    "Введіть дійсну адресу стрічки, котру треба додати">
 <!ENTITY locationValidate.label      "Validate">
 <!ENTITY validateText.label          "Check validation and retrieve a valid url.">
 
-<!ENTITY feedFolder.label            "Store Articles in:">
-<!ENTITY feedFolder.accesskey        "S">
+<!ENTITY feedFolder.label            "Зберігати статті в:">
+<!ENTITY feedFolder.accesskey        "з">
 
-<!ENTITY quickMode.label             "Show the article summary instead of loading the web page">
-<!ENTITY quickMode.accesskey         "h">
+<!ENTITY quickMode.label             "Показувати короткий опис статті замість завантаження веб-сторінки">
+<!ENTITY quickMode.accesskey         "к">
 
 <!ENTITY autotagEnable.label         "Automatically create tags from feed &lt;category&gt; names">
 <!ENTITY autotagEnable.accesskey     "c">
@@ -27,17 +27,17 @@
 <!ENTITY autotagUsePrefix.accesskey  "P">
 <!ENTITY autoTagPrefix.placeholder   "Enter a tag prefix">
 
-<!ENTITY button.addFeed.label        "Add">
-<!ENTITY button.addFeed.accesskey    "A">
-<!ENTITY button.editFeed.label       "Update">
-<!ENTITY button.editFeed.accesskey   "U">
-<!ENTITY button.removeFeed.label     "Remove">
-<!ENTITY button.removeFeed.accesskey "R">
-<!ENTITY button.importOPML.label     "Import">
-<!ENTITY button.importOPML.accesskey "I">
-<!ENTITY button.exportOPML.label     "Export">
-<!ENTITY button.exportOPML.accesskey "X">
-<!ENTITY button.exportOPML.tooltip   "Export Feeds with folder structure; ctrl click or ctrl enter to export Feeds as a list">
+<!ENTITY button.addFeed.label        "Додати">
+<!ENTITY button.addFeed.accesskey    "Д">
+<!ENTITY button.editFeed.label       "Змінити">
+<!ENTITY button.editFeed.accesskey   "З">
+<!ENTITY button.removeFeed.label     "Вилучити">
+<!ENTITY button.removeFeed.accesskey "В">
+<!ENTITY button.importOPML.label     "Імпорт">
+<!ENTITY button.importOPML.accesskey "І">
+<!ENTITY button.exportOPML.label     "Експорт">
+<!ENTITY button.exportOPML.accesskey "Е">
+<!ENTITY button.exportOPML.tooltip   "Експортувати стрічки з структурою тек; Ctrl+клаць чи Ctrl+Enter щоб експортувати стрічки як список">
 
 <!ENTITY cmd.close.commandKey        "w">
 <!ENTITY button.close.label          "Close">

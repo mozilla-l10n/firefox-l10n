@@ -2,47 +2,47 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY itemJunk.label          "Junk">
-<!ENTITY itemPhishing.label      "E-mail Scams">
-<!ENTITY itemPasswords.label     "Passwords">
-<!ENTITY itemAntiVirus.label     "Anti-Virus">
+<!ENTITY itemJunk.label          "Спам">
+<!ENTITY itemPhishing.label      "Анти-фішинг">
+<!ENTITY itemPasswords.label     "Паролі">
+<!ENTITY itemAntiVirus.label     "Робота з антивірусом">
 
 <!-- Junk Mail Controls -->
-<!ENTITY junkMail.intro "Set your default junk mail settings. Account-specific junk mail settings can be configured in Account Settings.">
-<!ENTITY manualMark.label "When I mark messages as junk:">
-<!ENTITY manualMark.accesskey "W">
-<!ENTITY manualMarkModeMove.label "Move them to the account's &quot;Junk&quot; folder">
-<!ENTITY manualMarkModeMove.accesskey "o">
-<!ENTITY manualMarkModeDelete.label "Delete them">
-<!ENTITY manualMarkModeDelete.accesskey "D">
-<!ENTITY markAsReadOnSpam.label "Mark messages determined to be Junk as read">
-<!ENTITY markAsReadOnSpam.accesskey "M">
-<!ENTITY enableAdaptiveJunkLogging.label "Enable adaptive junk filter logging">
-<!ENTITY enableAdaptiveJunkLogging.accesskey "E">
-<!ENTITY openJunkLog.label "Show log">
-<!ENTITY openJunkLog.accesskey "S">
-<!ENTITY resetTrainingData.label "Reset Training Data">
-<!ENTITY resetTrainingData.accesskey "R">
+<!ENTITY junkMail.intro "Налаштуйте загальні параметри спам-фільтрів. Специфічні для облікових записів параметри можуть бути змінені в налаштуваннях облікового запису.">
+<!ENTITY manualMark.label "Коли я позначаю лист як спам:">
+<!ENTITY manualMark.accesskey "я">
+<!ENTITY manualMarkModeMove.label "Перемістити їх у теку «Спам»">
+<!ENTITY manualMarkModeMove.accesskey "т">
+<!ENTITY manualMarkModeDelete.label "Знищити їх">
+<!ENTITY manualMarkModeDelete.accesskey "н">
+<!ENTITY markAsReadOnSpam.label "Відмітити такі листи прочитаними">
+<!ENTITY markAsReadOnSpam.accesskey "ч">
+<!ENTITY enableAdaptiveJunkLogging.label "Увімкнути журнал роботи адаптивного анти-спам фільтра">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "ж">
+<!ENTITY openJunkLog.label "Показати журнал">
+<!ENTITY openJunkLog.accesskey "к">
+<!ENTITY resetTrainingData.label "Скинути дані тренувань">
+<!ENTITY resetTrainingData.accesskey "С">
 
 <!-- Phishing Detector -->
-<!ENTITY phishingDetector1.intro  "&brandShortName; can analyze messages for suspected email scams by looking for common techniques used to deceive you.">
-<!ENTITY enablePhishingDetector1.label    "Tell me if the message I'm reading is a suspected email scam">
-<!ENTITY enablePhishingDetector1.accesskey  "T">
-<!ENTITY useDownloadedList.label "Use a downloaded list of suspected email scams">
-<!ENTITY useDownloadedList.accesskey "U">
+<!ENTITY phishingDetector1.intro  "&brandShortName; може аналізувати листи на предмет шахрайства, виявляючи усталені методи обману.">
+<!ENTITY enablePhishingDetector1.label    "Повідомляти мене, коли щодо листа, який я читаю, є підозри у шахрайстві">
+<!ENTITY enablePhishingDetector1.accesskey  "П">
+<!ENTITY useDownloadedList.label "Використовувати завантажений список електронних шахраїв">
+<!ENTITY useDownloadedList.accesskey "В">
 
 <!-- Passwords -->
-<!ENTITY savedPasswords.intro           "&brandShortName; can remember passwords for all of your accounts.">
-<!ENTITY useMasterPassword.label        "Use a master password">
-<!ENTITY useMasterPassword.accesskey    "U">
-<!ENTITY masterPassword.intro           "A Master Password protects all your passwords, but you must enter it once per session.">
-<!ENTITY changeMasterPassword.label     "Change Master Password…">
-<!ENTITY changeMasterPassword.accesskey "C">
-<!ENTITY savedPasswords.label           "Saved Passwords…">
-<!ENTITY savedPasswords.accesskey       "S">
+<!ENTITY savedPasswords.intro           "&brandShortName; може запам’ятовувати реєстраційну інформацію для всіх ваших облікових записів так, що вам не доведеться вводити її знову. ">
+<!ENTITY useMasterPassword.label        "Встановити головний пароль">
+<!ENTITY useMasterPassword.accesskey    "В">
+<!ENTITY masterPassword.intro           "Будучи встановленим, головний пароль буде використаний для захисту всіх ваших паролів. Вам потрібно буде вводити його один раз в сесію.">
+<!ENTITY changeMasterPassword.label     "Зміна головного паролю…">
+<!ENTITY changeMasterPassword.accesskey "З">
+<!ENTITY savedPasswords.label           "Збережені паролі…">
+<!ENTITY savedPasswords.accesskey       "б">
 
 <!-- Anti Virus -->
-<!ENTITY antiVirus.intro      "&brandShortName; can make it easy for anti-virus software to analyze incoming mail messages for viruses before they are stored locally.">
-<!ENTITY antiVirus.label      "Allow anti-virus clients to quarantine individual incoming messages">
-<!ENTITY antiVirus.accesskey  "A">
+<!ENTITY antiVirus.intro      "&brandShortName; може полегшити роботу антивіруса при перевірці вхідних листів на наявність вірусів перед тим, як зберегти їх в поштові теки.">
+<!ENTITY antiVirus.label      "Дозволити антивірусу поміщати в карантин окремі вхідні листи">
+<!ENTITY antiVirus.accesskey  "Д">
 

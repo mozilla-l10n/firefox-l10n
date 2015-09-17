@@ -7,11 +7,11 @@
 <!-- This button is for the progressive disclosure of additional editing functionality -->
 
 <!-- These strings are for use specifically in the editor's link dialog. -->
-<!ENTITY windowTitle2.label "Save And Change Text Encoding">
-<!ENTITY documentTitleTitle.label "Page Title">
-<!ENTITY documentCharsetTitle2.label "Text Encoding">
-<!ENTITY documentCharsetDesc2.label "Select the text encoding you want to save a document in:">
-<!ENTITY documentExportToText.label "Export to Text">
+<!ENTITY windowTitle2.label "Зберегти зі зміненим кодуванням">
+<!ENTITY documentTitleTitle.label "Назва сторінки">
+<!ENTITY documentCharsetTitle2.label "Кодування">
+<!ENTITY documentCharsetDesc2.label "Оберіть кодування, в якому ви хочете зберегти файл:">
+<!ENTITY documentExportToText.label "Експорт тексту">
 
 
 

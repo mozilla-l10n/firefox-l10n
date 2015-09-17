@@ -2,221 +2,221 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY addressbookWindow.title                        "Address Book">
+<!ENTITY addressbookWindow.title                        "Адресна книга">
 <!ENTITY blankResultsPaneMessage.label                  "This address book shows contacts only after a search">
 <!ENTITY localResultsOnlyMessage.label                  "Contacts from remote address books are not shown until you search">
 <!-- File Menu -->
-<!ENTITY fileMenu.label                                 "File">
-<!ENTITY fileMenu.accesskey                             "f">
-<!ENTITY newMenu.label                                  "New">
-<!ENTITY newMenu.accesskey                              "N">
-<!ENTITY newContact.label                               "Address Book Contact…">
-<!ENTITY newContact.accesskey                           "C">
+<!ENTITY fileMenu.label                                 "Файл">
+<!ENTITY fileMenu.accesskey                             "Ф">
+<!ENTITY newMenu.label                                  "Новий">
+<!ENTITY newMenu.accesskey                              "Н">
+<!ENTITY newContact.label                               "Запис в адресній книзі…">
+<!ENTITY newContact.accesskey                           "п">
 <!ENTITY newContact.key                                 "N">
-<!ENTITY newListCmd.label                               "Mailing List…">
-<!ENTITY newListCmd.accesskey                           "L">
-<!ENTITY newAddressBookCmd.label                        "Address Book…">
-<!ENTITY newAddressBookCmd.accesskey                    "B">
-<!ENTITY newLDAPDirectoryCmd.label                      "LDAP Directory…">
-<!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
-<!ENTITY newMessageCmd.label                            "Message">
+<!ENTITY newListCmd.label                               "Список розсилки…">
+<!ENTITY newListCmd.accesskey                           "С">
+<!ENTITY newAddressBookCmd.label                        "Адресна книга…">
+<!ENTITY newAddressBookCmd.accesskey                    "А">
+<!ENTITY newLDAPDirectoryCmd.label                      "Каталог LDAP…">
+<!ENTITY newLDAPDirectoryCmd.accesskey                  "л">
+<!ENTITY newMessageCmd.label                            "Лист">
 <!ENTITY newMessageCmd.key                              "M">
-<!ENTITY newMessageCmd.accesskey                        "m">
+<!ENTITY newMessageCmd.accesskey                        "Л">
 <!-- LOCALIZATION NOTE (osxAddressBook) : These entities are only used on Mac -->
-<!ENTITY osxAddressBook.label                           "Use Mac OS X Address Book">
-<!ENTITY osxAddressBook.accesskey                       "O">
-<!ENTITY closeCmd.label                                 "Close">
+<!ENTITY osxAddressBook.label                           "Використовувати адресну книгу Mac OS X">
+<!ENTITY osxAddressBook.accesskey                       "О">
+<!ENTITY closeCmd.label                                 "Закрити">
 <!ENTITY closeCmd.key                                   "W">
-<!ENTITY closeCmd.accesskey                             "c">
-<!ENTITY printSetupCmd.label                            "Page Setup…">
-<!ENTITY printSetupCmd.accesskey                        "u">
-<!ENTITY printPreviewContactCmd.label                   "Print Preview Contact">
-<!ENTITY printPreviewContactCmd.accesskey               "v">
-<!ENTITY printPreviewAddressBook.label                  "Print Preview Address Book">
-<!ENTITY printPreviewAddressBook.accesskey              "B">
-<!ENTITY printContactCmd.label                          "Print Contact…">
-<!ENTITY printContactCmd.accesskey                      "P">
+<!ENTITY closeCmd.accesskey                             "З">
+<!ENTITY printSetupCmd.label                            "Параметри сторінки…">
+<!ENTITY printSetupCmd.accesskey                        "м">
+<!ENTITY printPreviewContactCmd.label                   "Попередній перегляд картки">
+<!ENTITY printPreviewContactCmd.accesskey               "П">
+<!ENTITY printPreviewAddressBook.label                  "Попередній перегляд адресної книги">
+<!ENTITY printPreviewAddressBook.accesskey              "а">
+<!ENTITY printContactCmd.label                          "Роздрукувати картку…">
+<!ENTITY printContactCmd.accesskey                      "Д">
 <!ENTITY printContactCmd.key                            "P">
-<!ENTITY printAddressBook.label                         "Print Address Book…">
-<!ENTITY printAddressBook.accesskey                     "A">
+<!ENTITY printAddressBook.label                         "Друк адресної книги…">
+<!ENTITY printAddressBook.accesskey                     "е">
 
 <!-- Edit Menu -->
-<!ENTITY editMenu.label                                 "Edit">
-<!ENTITY editMenu.accesskey                             "e">
-<!ENTITY undoCmd.label                                  "Undo">
+<!ENTITY editMenu.label                                 "Редагування">
+<!ENTITY editMenu.accesskey                             "Р">
+<!ENTITY undoCmd.label                                  "Скасувати">
 <!ENTITY undoCmd.key                                    "Z">
-<!ENTITY undoCmd.accesskey                              "u">
-<!ENTITY redoCmd.label                                  "Redo">
+<!ENTITY undoCmd.accesskey                              "к">
+<!ENTITY redoCmd.label                                  "Повторити">
 <!ENTITY redoCmd.key                                    "Y">
-<!ENTITY redoCmd.accesskey                              "r">
-<!ENTITY cutCmd.label                                   "Cut">
+<!ENTITY redoCmd.accesskey                              "т">
+<!ENTITY cutCmd.label                                   "Вирізати">
 <!ENTITY cutCmd.key                                     "X">
-<!ENTITY cutCmd.accesskey                               "t">
-<!ENTITY copyCmd.label                                  "Copy">
+<!ENTITY cutCmd.accesskey                               "и">
+<!ENTITY copyCmd.label                                  "Копіювати">
 <!ENTITY copyCmd.key                                    "C">
-<!ENTITY copyCmd.accesskey                              "c">
-<!ENTITY pasteCmd.label                                 "Paste">
+<!ENTITY copyCmd.accesskey                              "о">
+<!ENTITY pasteCmd.label                                 "Вставити">
 <!ENTITY pasteCmd.key                                   "V">
-<!ENTITY pasteCmd.accesskey                             "p">
-<!ENTITY deleteCmd.label                                "Delete">
-<!ENTITY deleteCmd.accesskey                            "d">
-<!ENTITY deleteAbCmd.label                              "Delete Address Book">
-<!ENTITY deleteContactCmd.label                         "Delete Contact">
-<!ENTITY deleteContactsCmd.label                        "Delete Contacts">
-<!ENTITY deleteListCmd.label                            "Delete List">
-<!ENTITY deleteListsCmd.label                           "Delete Lists">
-<!ENTITY deleteItemsCmd.label                           "Delete Items">
-<!ENTITY selectAllCmd.label                             "Select All">
+<!ENTITY pasteCmd.accesskey                             "с">
+<!ENTITY deleteCmd.label                                "Вилучити">
+<!ENTITY deleteCmd.accesskey                            "В">
+<!ENTITY deleteAbCmd.label                              "Вилучити адресну книгу">
+<!ENTITY deleteContactCmd.label                         "Вилучити картку">
+<!ENTITY deleteContactsCmd.label                        "Вилучити кілька карток">
+<!ENTITY deleteListCmd.label                            "Видалити список">
+<!ENTITY deleteListsCmd.label                           "Видалити списки">
+<!ENTITY deleteItemsCmd.label                           "Видалити елементи">
+<!ENTITY selectAllCmd.label                             "Виділити все">
 <!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
-<!ENTITY selectAllCmd.accesskey                         "a">
-<!ENTITY swapFirstNameLastNameCmd.label                 "Swap First/Last Name">
-<!ENTITY swapFirstNameLastNameCmd.accesskey             "w">
+<!ENTITY selectAllCmd.accesskey                         "с">
+<!ENTITY swapFirstNameLastNameCmd.label                 "Поміняти місцями ім’я і прізвище">
+<!ENTITY swapFirstNameLastNameCmd.accesskey             "П">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd2.label                           "Properties">
-<!ENTITY propertiesCmd2.accesskey                       "i">
+<!ENTITY propertiesCmd2.label                           "Властивості">
+<!ENTITY propertiesCmd2.accesskey                       "т">
 <!ENTITY propertiesCmd.key                              "i">
 
 <!-- View Menu -->
-<!ENTITY viewMenu.label                                 "View">
-<!ENTITY viewMenu.accesskey                             "v">
-<!ENTITY viewToolbarsMenu.label                         "Toolbars">
-<!ENTITY viewToolbarsMenu.accesskey                     "T"> 
-<!ENTITY menubarCmd.label                               "Menu Bar">
-<!ENTITY menubarCmd.accesskey                           "M">
-<!ENTITY showAbToolbarCmd.label                         "Address Book Toolbar">
-<!ENTITY showAbToolbarCmd.accesskey                     "o">
-<!ENTITY showTaskbarCmd.label                           "Status Bar">
-<!ENTITY showTaskbarCmd.accesskey                       "S">
-<!ENTITY customizeToolbar.label                         "Customize…">
-<!ENTITY customizeToolbar.accesskey                     "C">
-<!ENTITY layoutMenu.label                               "Layout">
-<!ENTITY layoutMenu.accesskey                           "L">
-<!ENTITY showDirectoryPane.label                        "Directory Pane">
-<!ENTITY showDirectoryPane.accesskey                    "D">
-<!ENTITY showContactPane2.label                         "Contact Pane">
-<!ENTITY showContactPane2.accesskey                     "C">
-<!ENTITY menu_ShowNameAs.label                          "Show Name As">
-<!ENTITY menu_ShowNameAs.accesskey                      "n"> 
+<!ENTITY viewMenu.label                                 "Вигляд">
+<!ENTITY viewMenu.accesskey                             "В">
+<!ENTITY viewToolbarsMenu.label                         "Панелі інструментів">
+<!ENTITY viewToolbarsMenu.accesskey                     "П"> 
+<!ENTITY menubarCmd.label                               "Панель меню">
+<!ENTITY menubarCmd.accesskey                           "м">
+<!ENTITY showAbToolbarCmd.label                         "Панель адресної книги">
+<!ENTITY showAbToolbarCmd.accesskey                     "а">
+<!ENTITY showTaskbarCmd.label                           "Рядок стану">
+<!ENTITY showTaskbarCmd.accesskey                       "я">
+<!ENTITY customizeToolbar.label                         "Налаштувати…">
+<!ENTITY customizeToolbar.accesskey                     "Н">
+<!ENTITY layoutMenu.label                               "Розбивка">
+<!ENTITY layoutMenu.accesskey                           "Р">
+<!ENTITY showDirectoryPane.label                        "Панель директорій">
+<!ENTITY showDirectoryPane.accesskey                    "д">
+<!ENTITY showContactPane2.label                         "Панель контактів">
+<!ENTITY showContactPane2.accesskey                     "к">
+<!ENTITY menu_ShowNameAs.label                          "Показувати ім’я як">
+<!ENTITY menu_ShowNameAs.accesskey                      "П"> 
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
-<!ENTITY firstLastCmd2.label                            "First Last">
-<!ENTITY firstLastCmd2.accesskey                        "f"> 
-<!ENTITY lastFirstCmd.label                             "Last, First">
-<!ENTITY lastFirstCmd.accesskey                         "l">
-<!ENTITY displayNameCmd.label                           "Display Name">
-<!ENTITY displayNameCmd.accesskey                       "d">
-<!ENTITY sortMenu.label                                 "Sort by">
-<!ENTITY sortMenu.accesskey                             "S">
+<!ENTITY firstLastCmd2.label                            "Ім’я, прізвище">
+<!ENTITY firstLastCmd2.accesskey                        "І"> 
+<!ENTITY lastFirstCmd.label                             "Прізвище, ім’я">
+<!ENTITY lastFirstCmd.accesskey                         "П">
+<!ENTITY displayNameCmd.label                           "Відображуване ім’я">
+<!ENTITY displayNameCmd.accesskey                       "і">
+<!ENTITY sortMenu.label                                 "Сортування">
+<!ENTITY sortMenu.accesskey                             "р">
 
 <!-- Tools Menu -->
-<!ENTITY tasksMenu.label                                "Tools">
-<!ENTITY tasksMenu.accesskey                            "T">
-<!ENTITY messengerCmd.label                             "Mail &amp; Newsgroups">
-<!ENTITY messengerCmd.accesskey                         "m">
+<!ENTITY tasksMenu.label                                "Інструменти">
+<!ENTITY tasksMenu.accesskey                            "І">
+<!ENTITY messengerCmd.label                             "Пошта і новини">
+<!ENTITY messengerCmd.accesskey                         "П">
 <!ENTITY messengerCmd.commandkey                        "1">
-<!ENTITY searchAddressesCmd.label                       "Search Addresses…">
-<!ENTITY searchAddressesCmd.accesskey                   "S">
-<!ENTITY importCmd.label                                "Import…">
-<!ENTITY importCmd.accesskey                            "I">
-<!ENTITY exportCmd.label                                "Export…">
-<!ENTITY exportCmd.accesskey                            "E">
-<!ENTITY preferencesCmd2.label                          "Options">
-<!ENTITY preferencesCmd2.accesskey                      "O">
-<!ENTITY preferencesCmdUnix.label                       "Preferences">
-<!ENTITY preferencesCmdUnix.accesskey                   "n">
+<!ENTITY searchAddressesCmd.label                       "Пошук адрес…">
+<!ENTITY searchAddressesCmd.accesskey                   "а">
+<!ENTITY importCmd.label                                "Імпорт…">
+<!ENTITY importCmd.accesskey                            "І">
+<!ENTITY exportCmd.label                                "Експорт…">
+<!ENTITY exportCmd.accesskey                            "Е">
+<!ENTITY preferencesCmd2.label                          "Налаштування…">
+<!ENTITY preferencesCmd2.accesskey                      "Н">
+<!ENTITY preferencesCmdUnix.label                       "Налаштування">
+<!ENTITY preferencesCmdUnix.accesskey                   "Н">
 
 <!-- Address Book Toolbar and Context Menus -->  
-<!ENTITY newContactButton.label                         "New Contact">
-<!ENTITY newContactButton.accesskey                     "C">
-<!ENTITY newlistButton.label                            "New List">
-<!ENTITY newlistButton.accesskey                        "L">
-<!ENTITY editButton2.label                              "Properties">
-<!ENTITY editButton2.accesskey                          "P">
-<!ENTITY newmsgButton.label                             "Write">
-<!ENTITY newmsgButton.accesskey                         "W">
-<!ENTITY newIM.label                                    "Instant Message">
-<!ENTITY newIM.accesskey                                "I">
-<!ENTITY deleteButton2.label                            "Delete">
-<!ENTITY deleteButton2.accesskey                        "D">
+<!ENTITY newContactButton.label                         "Створити картку">
+<!ENTITY newContactButton.accesskey                     "С">
+<!ENTITY newlistButton.label                            "Створити список">
+<!ENTITY newlistButton.accesskey                        "С">
+<!ENTITY editButton2.label                              "Редагувати">
+<!ENTITY editButton2.accesskey                          "Р">
+<!ENTITY newmsgButton.label                             "Лист">
+<!ENTITY newmsgButton.accesskey                         "Л">
+<!ENTITY newIM.label                                    "Звісточку">
+<!ENTITY newIM.accesskey                                "З">
+<!ENTITY deleteButton2.label                            "Вилучити">
+<!ENTITY deleteButton2.accesskey                        "В">
 
 <!-- Address Book Toolbar Tooltips -->
-<!ENTITY newContactButton.tooltip                       "Create a new address book contact">
-<!ENTITY newlistButton.tooltip                          "Create a new list">
-<!ENTITY editButton2.tooltip                            "Edit the selected item">
-<!ENTITY newmsgButton.tooltip                           "Send a mail message">
-<!ENTITY newIM.tooltip                                  "Send an instant message or chat">
-<!ENTITY deleteButton2.tooltip                           "Delete selected item">
+<!ENTITY newContactButton.tooltip                       "Створити нову картку в адресній книзі">
+<!ENTITY newlistButton.tooltip                          "Створити новий список розсилки">
+<!ENTITY editButton2.tooltip                            "Змінити властивості виділеного елемента">
+<!ENTITY newmsgButton.tooltip                           "Написати листа">
+<!ENTITY newIM.tooltip                                  "Відіслати звісточку чи почати бесіду">
+<!ENTITY deleteButton2.tooltip                           "Вилучити обраний елемент">
 
 <!-- Dir Tree header -->
-<!ENTITY dirTreeHeader.label                            "Address Books">
+<!ENTITY dirTreeHeader.label                            "Адресні книги">
 
 <!-- Search Bar -->
-<!ENTITY SearchNameOrEmail.label                        "Name or Email">
-<!ENTITY SearchNameOrEmail.accesskey                    "N">
-<!ENTITY advancedButton.tooltip                         "Advanced address search">
+<!ENTITY SearchNameOrEmail.label                        "Ім’я або адреса електронної пошти:">
+<!ENTITY SearchNameOrEmail.accesskey                    "І">
+<!ENTITY advancedButton.tooltip                         "Розширений режим пошуку адрес">
 <!ENTITY quickSearchCmd.key                             "k">
 <!ENTITY searchItem.title "Quick Search">
 
 <!-- Results Pane -->
 <!ENTITY Addrbook.label                                 "Address Book">
 <!ENTITY Addrbook.accesskey                             "B">
-<!ENTITY GeneratedName.label                            "Name">
-<!ENTITY GeneratedName.accesskey                        "N">
-<!ENTITY PrimaryEmail.label                             "Email">
-<!ENTITY PrimaryEmail.accesskey                         "E">
-<!ENTITY ChatName.label                                 "Chat Name">
-<!ENTITY ChatName.accesskey                             "C">
-<!ENTITY Company.label                                  "Organization">
-<!ENTITY Company.accesskey                              "z">
-<!ENTITY NickName.label                                 "Nickname">
-<!ENTITY NickName.accesskey                             "i">
-<!ENTITY SecondEmail.label                              "Additional Email">
-<!ENTITY SecondEmail.accesskey                          "l">
-<!ENTITY Department.label                               "Department">
-<!ENTITY Department.accesskey                           "r">
-<!ENTITY JobTitle.label                                 "Title">
-<!ENTITY JobTitle.accesskey                             "T">
-<!ENTITY CellularNumber.label                           "Mobile">
-<!ENTITY CellularNumber.accesskey                       "M">
-<!ENTITY PagerNumber.label                              "Pager">
-<!ENTITY PagerNumber.accesskey                          "P">
-<!ENTITY FaxNumber.label                                "Fax">
-<!ENTITY FaxNumber.accesskey                            "F">
-<!ENTITY HomePhone.label                                "Home Phone">
-<!ENTITY HomePhone.accesskey                            "H">
-<!ENTITY WorkPhone.label                                "Work Phone">
-<!ENTITY WorkPhone.accesskey                            "W">
-<!ENTITY sortAscending.label                            "Ascending">
-<!ENTITY sortAscending.accesskey                        "A">
-<!ENTITY sortDescending.label                           "Descending">
-<!ENTITY sortDescending.accesskey                       "D">
-<!ENTITY _PhoneticName.label                            "Phonetic Name">
-<!ENTITY _PhoneticName.accesskey                        "o">
+<!ENTITY GeneratedName.label                            "Ім’я">
+<!ENTITY GeneratedName.accesskey                        "І">
+<!ENTITY PrimaryEmail.label                             "Електронна пошта">
+<!ENTITY PrimaryEmail.accesskey                         "Е">
+<!ENTITY ChatName.label                                 "Ім’я в чаті">
+<!ENTITY ChatName.accesskey                             "ч">
+<!ENTITY Company.label                                  "Компанія">
+<!ENTITY Company.accesskey                              "К">
+<!ENTITY NickName.label                                 "Псевдонім">
+<!ENTITY NickName.accesskey                             "в">
+<!ENTITY SecondEmail.label                              "Дод. адреса електронної пошти">
+<!ENTITY SecondEmail.accesskey                          "о">
+<!ENTITY Department.label                               "Відділення">
+<!ENTITY Department.accesskey                           "д">
+<!ENTITY JobTitle.label                                 "Посада">
+<!ENTITY JobTitle.accesskey                             "с">
+<!ENTITY CellularNumber.label                           "Мобільний">
+<!ENTITY CellularNumber.accesskey                       "М">
+<!ENTITY PagerNumber.label                              "Пейджер">
+<!ENTITY PagerNumber.accesskey                          "п">
+<!ENTITY FaxNumber.label                                "Факс">
+<!ENTITY FaxNumber.accesskey                            "Ф">
+<!ENTITY HomePhone.label                                "Домашній телефон">
+<!ENTITY HomePhone.accesskey                            "Д">
+<!ENTITY WorkPhone.label                                "Робочий телефон">
+<!ENTITY WorkPhone.accesskey                            "Р">
+<!ENTITY sortAscending.label                            "За зростанням">
+<!ENTITY sortAscending.accesskey                        "з">
+<!ENTITY sortDescending.label                           "За спаданням">
+<!ENTITY sortDescending.accesskey                       "м">
+<!ENTITY _PhoneticName.label                            "Фонетичне ім’я">
+<!ENTITY _PhoneticName.accesskey                        "т">
 
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
-<!ENTITY contact.heading                                "Contact">
-<!ENTITY home.heading                                   "Home">
-<!ENTITY other.heading                                  "Other">
-<!ENTITY chat.heading                                   "Chat">
-<!ENTITY phone.heading                                  "Phone">
-<!ENTITY work.heading                                   "Work">
+<!ENTITY contact.heading                                "Контакт">
+<!ENTITY home.heading                                   "Домашня адреса">
+<!ENTITY other.heading                                  "Інші">
+<!ENTITY chat.heading                                   "Чат">
+<!ENTITY phone.heading                                  "Телефон">
+<!ENTITY work.heading                                   "Робочий">
 <!-- Special Box Headings, for mailing lists -->
-<!ENTITY description.heading                            "Description">
-<!ENTITY addresses.heading                              "Addresses">
+<!ENTITY description.heading                            "Опис">
+<!ENTITY addresses.heading                              "Адреси">
 <!-- For Map It! -->
-<!ENTITY mapItButton.label                              "Get Map">
-<!ENTITY mapIt.tooltip                                  "Display a map of this address from the Web">
+<!ENTITY mapItButton.label                              "Показати на карті">
+<!ENTITY mapIt.tooltip                                  "Показати адресу на карті в Інтернеті">
 
 <!-- Status Bar -->
 <!ENTITY statusText.label "">
 
 <!--  Mac OS X Window Menu -->
-<!ENTITY windowMenu.label "Window">
-<!ENTITY minimizeWindow.label "Minimize">
+<!ENTITY windowMenu.label "Вікно">
+<!ENTITY minimizeWindow.label "Згорнути вікно">
 <!ENTITY minimizeWindow.key "m">
-<!ENTITY bringAllToFront.label "Bring All to Front">
-<!ENTITY zoomWindow.label "Zoom">
+<!ENTITY bringAllToFront.label "Помістити все на передній план">
+<!ENTITY zoomWindow.label "Розгонути вікно">
