@@ -59,6 +59,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Service Workers të Regjistruar">
 
+<!ENTITY aboutSupport.appBasicsSafeMode "Mënyrë e Sigurt">
+
 <!ENTITY aboutSupport.showDir.label "Hap Drejtorinë">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
