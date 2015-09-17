@@ -10,7 +10,7 @@
 <!ENTITY  onboard_start_subtext3 "Atera zukua web mugikorreko zure nabigatze-esperientziari.">
 <!ENTITY  onboard_start_button_account "Hasi saioa &brandShortName;(e)n">
 <!ENTITY  onboard_start_button_browser "Hasi nabigatzen">
-
+<!ENTITY  onboard_start_restricted1 "Egon seguru eta kontrolpean &brandShortName;(r)en bertsio sinplifikatu honekin.">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -161,7 +161,7 @@ Saiatu geroago mesedez.">
 <!ENTITY pref_developer_remotedebugging "Urruneko arazketa">
 <!ENTITY pref_developer_remotedebugging_usb "USB bidezko urruneko arazketa">
 <!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi bidezko urruneko arazketa">
-
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi bidezko arazketak zure gailuak QR kodeen irakugailua instalatuta izatea behar du.">
 <!ENTITY pref_category_logins "Saio-hasierak">
 <!ENTITY pref_remember_signons2 "Gogoratu saio-hasierak">
 <!ENTITY pref_open_external_urls_privately_title "Ireki loturak nabigatze pribatuan">
