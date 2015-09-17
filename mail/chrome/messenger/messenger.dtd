@@ -808,7 +808,7 @@
 <!ENTITY contextMute.label "Mute">
 <!ENTITY contextMute.accesskey "M">
 <!ENTITY contextUnmute.label "Unmute">
-<!ENTITY contextUnmute.accesskey "в">
+<!ENTITY contextUnmute.accesskey "m">
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):

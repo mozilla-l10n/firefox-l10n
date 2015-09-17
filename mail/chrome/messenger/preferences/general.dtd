@@ -10,9 +10,9 @@
 <!ENTITY useDefault.label                 "Restore Default">
 <!ENTITY useDefault.accesskey             "R">
 
-<!ENTITY changeDockIconOptions.label      "Змінити налаштування для іконки програми">
-<!ENTITY dockOptions.label                "Налаштування іконки програми…">
-<!ENTITY dockOptions.accesskey            "л">
+<!ENTITY changeDockIconOptions.label      "Change preferences for the app icon">
+<!ENTITY dockOptions.label                "App Icon Options…">
+<!ENTITY dockOptions.accesskey            "n">
 
 <!ENTITY newMessagesArrive.label          "When new messages arrive:">
 <!ENTITY playSound.label                  "Play a sound">
@@ -22,8 +22,8 @@
 <!ENTITY customizeMailAlert.label         "Customize…">
 <!ENTITY customizeMailAlert.accesskey     "C">
 
-<!ENTITY showTrayIcon.label               "Показувати іконку в треї">
-<!ENTITY showTrayIcon.accesskey           "і">
+<!ENTITY showTrayIcon.label               "Show a tray icon">
+<!ENTITY showTrayIcon.accesskey           "t">
 
 <!ENTITY play.label                       "Play">
 <!ENTITY play.accesskey                   "P">
@@ -36,4 +36,4 @@
 <!ENTITY browse.label                     "Browse…">
 <!ENTITY browse.accesskey                 "B">
 
-<!ENTITY defaultSearchEngine.label        "Типовий засіб пошуку">
+<!ENTITY defaultSearchEngine.label        "Default Search Engine">

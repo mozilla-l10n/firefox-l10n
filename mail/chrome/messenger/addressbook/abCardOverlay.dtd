@@ -32,7 +32,7 @@
 <!ENTITY DisplayName.label              "Display:">
 <!ENTITY DisplayName.accesskey          "D">
 <!ENTITY preferDisplayName.label        "Always prefer display name over message header">
-<!ENTITY preferDisplayName.accesskey    "і">
+<!ENTITY preferDisplayName.accesskey    "y">
 <!ENTITY NickName.label                 "Nickname:">
 <!ENTITY NickName.accesskey             "N">
 
