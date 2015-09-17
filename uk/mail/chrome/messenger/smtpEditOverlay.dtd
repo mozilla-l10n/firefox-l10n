@@ -2,23 +2,23 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY settings.caption "Налаштування">
-<!ENTITY security.caption "Безпека і аутентифікація">
-<!ENTITY serverName.label "Назва сервера:">
-<!ENTITY serverName.accesskey "Н">
-<!ENTITY serverDescription.label "Опис:">
-<!ENTITY serverDescription.accesskey "О">
-<!ENTITY serverPort.label "Порт:">
-<!ENTITY serverPort.accesskey "П">
-<!ENTITY userName.label "Ім’я користувача:">
-<!ENTITY userName.accesskey "к">
-<!ENTITY connectionSecurity.label "Безпека з’єднання:">
-<!ENTITY connectionSecurity.accesskey "Б">
-<!ENTITY connectionSecurityType-0.label "Жодної">
-<!ENTITY connectionSecurityType-1.label "STARTTLS, якщо є">
+<!ENTITY settings.caption "Settings">
+<!ENTITY security.caption "Security and Authentication">
+<!ENTITY serverName.label "Server Name:">
+<!ENTITY serverName.accesskey "S">
+<!ENTITY serverDescription.label "Description:">
+<!ENTITY serverDescription.accesskey "D">
+<!ENTITY serverPort.label "Port:">
+<!ENTITY serverPort.accesskey "P">
+<!ENTITY userName.label "User Name:">
+<!ENTITY userName.accesskey "m">
+<!ENTITY connectionSecurity.label "Connection security:">
+<!ENTITY connectionSecurity.accesskey "n">
+<!ENTITY connectionSecurityType-0.label "None">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, if available">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!ENTITY smtpEditTitle.label "SMTP-сервер">
-<!ENTITY serverPortDefault.label "Типово:">
-<!ENTITY authMethod.label "Метод автентифікації:">
-<!ENTITY authMethod.accesskey "ї">
+<!ENTITY smtpEditTitle.label "SMTP Server">
+<!ENTITY serverPortDefault.label "Default:">
+<!ENTITY authMethod.label "Authentication method:">
+<!ENTITY authMethod.accesskey "i">

@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY window.title  "Про спам">
-<!ENTITY window.width  "460">
-<!ENTITY info1a.label  "&brandShortName; автоматично визначає вхідні повідомлення, які схожі на спам (небажану рекламу). Повідомлення, які &brandShortName; вважає спамом, позначаються спеціальним значком">
+<!ENTITY window.title  "About Junk Mail">
+<!ENTITY window.width  "450">
+<!ENTITY info1a.label  "&brandShortName; automatically detects incoming messages that appear to be junk mail (also known as spam). Messages that &brandShortName; thinks are junk will display a junk icon">
 <!ENTITY info1b.label  ".">
-<!ENTITY info2.label   "Спочатку вам слід навчити &brandShortName; визначати спам, натискаючи на кнопку «Спам», щоб позначити повідомлення як спам або як не спам.">
-<!ENTITY info3.label   "Як тільки &brandShortName; навчиться правильно визначати спам, ви можете використовувати  анти-спам фільтри, щоб такі повідомлення автоматично переміщалися в теку «Спам».">
-<!ENTITY info4.label   "Щоб отримати докладнішу інформацію, натисніть кнопку «Довідка».">
+<!ENTITY info2.label   "At first, you must train &brandShortName; to identify junk mail by using the Junk toolbar button to mark messages as junk or not junk.">
+<!ENTITY info3.label   "Once &brandShortName; is correctly identifying junk mail, you can use the Junk Mail Controls to automatically move incoming junk mail to the Junk folder.">
+<!ENTITY info4.label   "For more information, click Help.">

@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY window.title             "Зведення листів">
-<!ENTITY selectedmessages.label   "Вибрані листи">
-<!ENTITY archiveButton.label      "Архівувати">
-<!ENTITY deleteButton.label       "Видалити">
+<!ENTITY window.title             "Message Summary">
+<!ENTITY selectedmessages.label   "Selected Messages">
+<!ENTITY archiveButton.label      "Archive">
+<!ENTITY deleteButton.label       "Delete">

@@ -2,15 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY Window.title        "Зміст">
-<!ENTITY buildToc.label      "Створити зміст на основі:">
-<!ENTITY tag.label           "тега:">
-<!ENTITY class.label         "класу:">
-<!ENTITY header1.label       "Рівень 1">
-<!ENTITY header2.label       "Рівень 2">
-<!ENTITY header3.label       "Рівень 3">
-<!ENTITY header4.label       "Рівень 4">
-<!ENTITY header5.label       "Рівень 5">
-<!ENTITY header6.label       "Рівень 6">
-<!ENTITY makeReadOnly.label  "Заборонити зміну змісту">
-<!ENTITY orderedList.label   "Пронумерувати всі елементи в змісті">
+<!ENTITY Window.title        "Table of Contents">
+<!ENTITY buildToc.label      "Build table of contents from:">
+<!ENTITY tag.label           "Tag:">
+<!ENTITY class.label         "Class:">
+<!ENTITY header1.label       "Level 1">
+<!ENTITY header2.label       "Level 2">
+<!ENTITY header3.label       "Level 3">
+<!ENTITY header4.label       "Level 4">
+<!ENTITY header5.label       "Level 5">
+<!ENTITY header6.label       "Level 6">
+<!ENTITY makeReadOnly.label  "Make the table of contents read-only">
+<!ENTITY orderedList.label   "Number all entries in the table of contents">
