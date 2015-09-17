@@ -1,6 +1,5 @@
 amazondotcom
 bing
-creativecommons
 eBay
 google
 longdo
