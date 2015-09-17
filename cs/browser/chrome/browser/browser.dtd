@@ -687,6 +687,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connectionSecure "Zabezpečené přípojení">
 <!ENTITY identity.connectionNotSecure "Připojení není zabezpečeno">
+<!ENTITY identity.connectionFile "Tato stránka je uložena na vašem počítači.">
 <!ENTITY identity.connectionVerified "Aplikace &brandShortName; ověřila, že jste zabezpečeně připojeni na tuto stránku, provozovanou:">
 <!ENTITY identity.connectionInternal "Toto je zabezpečená stránka aplikace &brandShortName;.">
 
