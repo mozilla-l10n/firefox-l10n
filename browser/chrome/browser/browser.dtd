@@ -95,8 +95,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageInfoCmd.label "Informacion sus la pagina">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
-
-
+<!ENTITY mirrorTabCmd.label "Duplicar l'onglet">
+<!ENTITY mirrorTabCmd.accesskey "D">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "Passar en mòde ecran complet">
@@ -144,6 +144,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
+<!ENTITY findShareServices.label "Descobrir mai de servicis de partiment…">
 <!ENTITY sharePageCmd.label "Partejar aquesta pagina">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "P">
@@ -267,11 +268,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY browserToolboxMenu.label     "Bóstia d'aisinas del navigador">
 <!ENTITY browserToolboxMenu.accesskey "i">
-
+<!ENTITY browserToolboxCmd.commandkey "i">
 <!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 
+<!ENTITY browserContentToolboxMenu.label     "Bóstia d'aisinas de centengut del navigador">
+<!ENTITY browserContentToolboxMenu.accesskey "B">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Tampar la barra de desvolopament">
 <!ENTITY devToolbarMenu.label              "Barra de desvolopament">
@@ -301,7 +304,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "n">
 <!ENTITY newPrivateWindow.label     "Novèla fenèstra de navigacion privada">
 <!ENTITY newPrivateWindow.accesskey "N">
-
+<!ENTITY newNonRemoteWindow.label   "Novèla fenèstra no-e10s">
 
 <!ENTITY editMenu.label         "Edicion"> 
 <!ENTITY editMenu.accesskey       "n"> 
@@ -392,7 +395,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Anar a l'onglet :">
 
-
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Ne saber mai…">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Non">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Òc">
 <!-- 
@@ -422,19 +425,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
      These are set as the aria-label attribute for the search input box and
      submit button in the in-content search UI, to be used by screen readers. -->
-
+<!ENTITY contentSearchSubmit.label    "Mandar la recèrca">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
 
 <!ENTITY searchFor.label              "Recercar">
-
+<!ENTITY searchWith.label             " amb :">
 <!-- LOCALIZATION NOTE (search.label, searchAfter.label):
      This string is used to build the header above the list of one-click search
      providers when a one off engine has been selected.  The searchAfter text is
      intentionally left empty for en-US and can be used by other localizations to
      display a string after the search engine name.  This string will be displayed
      as:  "Search <selected engine name><searchAfter.label text>" -->
+
+<!ENTITY search.label                 "Recèrca ">
 <!ENTITY searchAfter.label            "">
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
@@ -445,6 +450,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
+<!ENTITY changeSearchSettings.button  "Paramètres de recèrca">
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -520,8 +526,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "t">
 <!ENTITY emailVideoCmd.label          "Mandar la vidèo per corrièr electronic...">
 <!ENTITY emailVideoCmd.accesskey      "d">
-
-
+<!ENTITY castVideoCmd.label           "Mandar la vidèo a un aparelh">
+<!ENTITY castVideoCmd.accesskey       "p">
 <!ENTITY emailAudioCmd.label          "Mandar lo fichièr àudio per corrièr electronic...">
 <!ENTITY emailAudioCmd.accesskey      "d">
 <!ENTITY playPluginCmd.label          "Activar aqueste plugin">
@@ -635,6 +641,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "a">
 
+<!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "Estil de la pagina">
 <!ENTITY pageStyleMenu.accesskey "i">
@@ -674,9 +681,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "Acabar">
 <!ENTITY editBookmark.cancel.label                   "Anullar">
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
-
-
+<!ENTITY identity.connectionSecure "Connexion securizada">
+<!ENTITY identity.connectionNotSecure "La connexion es pas securizada">
 
 
 

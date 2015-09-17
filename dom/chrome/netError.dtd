@@ -46,8 +46,19 @@
 <!ENTITY netReset.longDesc "<p>The network link was interrupted while negotiating a connection. Please try again.</p>">
 
 <!ENTITY netTimeout.title "Network Timeout">
-<!ENTITY netTimeout.longDesc "<p>Lo navigador a esperat tròp longtemps al moment de la connexion al site e a arrestat d'esperar una responsa.</p><ul><li>Benlèu que lo servidor es en suscarga o es temporàriament en pana?  Ensajatz pus tard.</li><li>D'autres sites son tanben inaccessibles ? Verificatz la connexion a la ret de vòstre ordenador.</li><li>Vòstre ordenador o vòstra ret es protegida per un parafuòc o un proxy?  De paramètres incorrèctes pòdon interferir amb la navigacion sus 
-lo Web.</li><li>Avètz totjorn de problèmas ? Consultatz vòstre administrator de la ret o vòstre provesidor d'accès a Internet per obténer d'ajuda.</li></ul>">
+<!ENTITY netTimeout.longDesc "<p>Lo navigador a esperat tròp longtemps al moment de la connexion al site e a 
+arrestat d'esperar una responsa.</p> 
+<ul> 
+<li>Benlèu que lo servidor es en suscarga o es temporàriament en pana ? 
+Ensajatz pus tard.</li>
+<li>D'autres sites son tanben inaccessibles ? Verificatz la connexion a la 
+ret de vòstre ordenador.</li> 
+<li>Vòstre ordenador o vòstra ret es protegida per un parafuòc o un proxy? 
+ De paramètres incorrèctes pòdon interferir amb la navigacion sus 
+lo Web.</li> 
+<li>Avètz totjorn de problèmas ? Consultatz vòstre administrator de la ret 
+o vòstre provesidor d'accès a Internet per obténer d'ajuda.</li> 
+</ul>">
 
 <!ENTITY unknownProtocolFound.title "Unknown Protocol">
 <!ENTITY unknownProtocolFound.longDesc "<p>L'adreça indica un protocòl (per ex. <q>wxyz://</q>) desconegut del navigador que doncas se pòt pas connectar corrèctament al site.</p><ul><li>Ensajatz d'accedir a de contengut multimèdia o d'autres servicis que son pas de tèxte ? Verificatz los prerequesits logicials del site.</li><li>D'unes protocòls pòdon necessitar un logiciel tèrç o de plugins per que lo navigador los pòsca reconéisser.</li></ul>">
