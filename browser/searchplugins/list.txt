@@ -1,6 +1,4 @@
-google
 amazondotcom
 eBay
+google
 yahoo
-creativecommons
-answers
