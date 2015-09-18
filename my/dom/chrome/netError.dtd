@@ -76,7 +76,8 @@
 <!ENTITY malwareBlocked.longDesc "<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p> 
 <p>Website owners who believe their site has been reported as an attack site in error may <a href='http://www.stopbadware.org/home/reviewinfo' >request a review</a>.</p>">
 
-
+<!ENTITY unwantedBlocked.title "သံသယရှိသည့် မလိုအပ်သည့်ဆော့ဖ်ဝဲများ ဆိုက်။!">
+<!ENTITY unwantedBlocked.longDesc "<p>မလိုအပ်သည့် ဆော့ဖ်ဝဲ စာမျက်နှာများသည် သင့်စနစ်ကို ပုံမှန်မလည်ပတ်စေရန် ဆောင်ရွက်စေသည့် ဆော့ဖ်ဝဲများ တပ်ဆင်ရန် ကြိုးစားကြသည်။</p>">
 
 <!ENTITY phishingBlocked.title "သံသယဖြစ်ဖွယ် ကွန်ရက်တု။">
 <!ENTITY phishingBlocked.longDesc "<p>ဒီစာမျက်နှာပေါ်မှာ ကိုယ်ရေး အချက်အလက် တခုခု ရေးထည့်လိုက်ခြင်းကြောင့် တူညီတဲ့ ခိုးယူမှု (သို့) အခြား လိမ်လည်မှု ကို ဖြစ်စေနိုင်တယ်။</p> 

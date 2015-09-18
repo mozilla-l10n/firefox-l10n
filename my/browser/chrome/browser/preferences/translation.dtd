@@ -17,7 +17,8 @@
 <!ENTITY treehead.siteName.label          "ဝတ်ဆိုဒ်များ">
 <!ENTITY removeSite.label                 "(S) ဝတ်ဆိုဒ်ကို ဖျက်">
 <!ENTITY removeSite.accesskey             "S">
+<!ENTITY removeAllSites.label             "ဆိုက်i အားလုံးကို ဖယ်ရှားပါ">
+<!ENTITY removeAllSites.accesskey         "i">
 
-
-
-
+<!ENTITY button.close.label               "Cပိတ်ပါ">
+<!ENTITY button.close.accesskey           "C">

@@ -4,7 +4,7 @@
 <!ENTITY addons.windowTitle                   "Add-ons Manager">
 
 <!ENTITY search.placeholder                   "အက်အွန်အားလုံးကိုရှာပါ">
-
+<!ENTITY search.buttonlabel                   "ရှာဖွေရန်">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f ">
@@ -23,7 +23,8 @@
 <!ENTITY cmd.back.tooltip                     "နောက် တမျက်နှာ သွားပါ">
 <!ENTITY cmd.forward.tooltip                  "ရှေ့ တမျက်နှာ သွားပါ">
 
-
+<!ENTITY showUnsignedExtensions.button.label  "နောက်တွဲ ပရိုဂရမ်တချို့ကို အတည်မပြုနိုင်ပါ">
+<!ENTITY showAllExtensions.button.label       "နောက်တွဲ ပရိုဂရမ်အားလုံးကို ပြပါ">
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "လုံခြုံရေးအပြင်အဆင်အရအတ်အွန်အားလုံးအားပိတ်သိမ်းထားသည်။">
@@ -38,6 +39,8 @@
 <!ENTITY info.plugincheck.label                 "သင်၏ပလပ်အင်များ အဆင့်မှီမမှီစစ်ဆေးမည်။">
 <!ENTITY info.plugincheck.tooltip               "သင်၏ပလပ်အင်များ အဆင့်မှီမမှီစစ်ဆေးမည်။">
 <!-- categories / views -->
+
+<!ENTITY view.search.label                    "ရှာဖွေရန်">
 <!ENTITY view.discover.label                  "အက်အွန်ရယူပါ">
 <!ENTITY view.recentUpdates.label             "လက်ရှိ အသစ်">
 <!ENTITY view.availableUpdates.label          "ရရှိနိုင်သော အဆင့်မြင်တင်မှု">
@@ -102,8 +105,8 @@
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "ဖယ်ရှားပါ ">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
-
-
+<!ENTITY cmd.debugAddon.label                 "အမှားစစ်ရန် b">
+<!ENTITY cmd.debugAddon.accesskey             "b">
 <!ENTITY cmd.showPreferencesWin.label         "ရွေးစရာများ">
 <!ENTITY cmd.showPreferencesWin.tooltip       "ယခုအက်အွန်၏ ရွေးချယ်ပိုင်ခွင့်အား ပြုပြင်ပါ">
 <!ENTITY cmd.showPreferencesUnix.label        "ဦးစားပေး အချက်များ">
@@ -231,15 +234,19 @@
 <!ENTITY experiment.info.changetelemetry "Telemetry အပြင်အဆင်များ">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
 
+<!ENTITY setting.learnmore "ပိုမို လေ့လာရန်…">
 
+<!ENTITY disabledUnsigned.heading "အတ်အွန်တချို့ကို ပိတ်ထားသည်">
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-
-
-
+<!ENTITY disabledUnsigned.description.start "&brandShortName; တွင် အသုံးပြုရန်အတွက် အောက်ပါ အတ်အွန်များကို အတည်မပြုရသေးပါ။">
+<!ENTITY disabledUnsigned.description.findAddonsLink "သင်သည် အစားထိုးမှု ပြုလုပ်နိုင်သည်">
+<!ENTITY disabledUnsigned.description.end "သို့မဟုတ် အတ်အွန်များကို အတည်ပြုပြီးဖြစ်စေရန် ဖန်တီးသူကို တောင်းဆိုနိုင်သည်။">
+<!ENTITY disabledUnsigned.learnMore "သင့်ကို အွန်လိုင်းတွင် အမြဲလုံခြုံစေရန် ကျွန်တော်တို့၏ အားထုတ်မှုများကို ပိုမို လေ့လာနိုင်ပါသည်။">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
-
-
+<!ENTITY disabledUnsigned.devInfo.start "ဖန်တီးသူများသည် သူတို့၏ အတ်အွန်များ အတည်ပြုပြီးခြင်းကို လိုလားသည်။ ကျွန်တော်တို့၏">
+<!ENTITY disabledUnsigned.devInfo.linkToManual "အသုံးပြုသူလက်စွဲကို ဖတ်ခြင်းဖြင့် ဆက်လက်ဆောင်ရွက်နိုင်သည်။">
+<!ENTITY disabledUnsigned.devInfo.end ".">

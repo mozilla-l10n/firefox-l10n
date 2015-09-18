@@ -4,19 +4,14 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "ဝတ်စာမျက်နှာအသစ်ကြည့်မည်">
-
-
-<!--
-  LOCALIZATION NOTE(newtab.customize.cog.title): This string is for the new
-  tab cog menu title. It will be transformed to uppercase.
--->
-
-
-
-
-
-
-
+<!ENTITY newtab.customize.classic "သင့်ရဲ့ ထိပ်တန်း ဝက်ဆိုဒ်များ">
+<!ENTITY newtab.customize.cog.enhanced "အကြံပြုထားသည့် ဆိုက်များကို ပါဝင်စေပါ">
+<!ENTITY newtab.customize.cog.title2 "စာမျက်နှာခွဲအသစ် ထိန်းချုပ်ကိရိယာများ">
+<!ENTITY newtab.customize.cog.learn "စာမျက်နှာခွဲအသစ် အကြောင်း ပိုမိုလေ့လာပါ">
+<!ENTITY newtab.customize.title "သင့် စာမျက်နှာခွဲအသစ်ကို စိတ်ကြိုက်ပြုပြင်ပါ">
+<!ENTITY newtab.customize.suggested "အကြံပြုထားသည့် ဆိုက်များနှင့် သင့် ထိပ်တန်းဆိုက်များကို ပြရန်">
+<!ENTITY newtab.customize.topsites "သင့်ရဲ့ ထိပ်တန်း ဆိုက်များ">
+<!ENTITY newtab.customize.blank2 "စာမျက်နှာ အလွတ်ကို ‌ပြပါ">
 <!ENTITY newtab.undo.removedLabel "ပုံသေး အားဖယ်ရှားပြီး">
 <!ENTITY newtab.undo.undoButton "နောက်ပြန်">
 <!ENTITY newtab.undo.restoreButton "အားလုံးပြန်ခေါ်">

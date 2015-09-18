@@ -22,7 +22,7 @@
 <!ENTITY  generalReferrer       "အညွန်း URL:">
 <!ENTITY  generalSource         "ကေရှ် ဇစ်မြစ်၊">
 <!ENTITY  generalModified       "ပြုပြင်ချက်၊">
-
+<!ENTITY  generalEncoding2      "စာသားသိမ်းဆည်းမှုစနစ်။">
 <!ENTITY  generalMetaName       "အမည်">
 <!ENTITY  generalMetaContent    "ပါဝင်ပစ္စည်း">
 

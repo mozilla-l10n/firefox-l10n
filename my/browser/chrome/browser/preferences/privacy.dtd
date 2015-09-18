@@ -4,22 +4,32 @@
 
 <!ENTITY tracking.label                 "ခြေရာခံခြင်း">
 
-<!ENTITY dntTrackingNotOkay.label2      "သင်ခြေရာမခံလိုသော၀တ်ဆိုက်များအားပြောပါ">
-<!ENTITY dntTrackingNotOkay.accesskey   "n">
+<!ENTITY dntTrackingNotOkay4.label     "သင့်ကို ခြေရာမခံသည့် ဆိုက်များစာရင်းကို တောင်းခံပါ">
+<!ENTITY dntTrackingNotOkay4.accesskey "n">
+<!ENTITY doNotTrackInfo.label          "ဆက်လက်ဖတ်ရှူရန်">
+<!ENTITY trackingProtection5.label     "ခြေရာခံ ကာကွယ်မှုကို အသုံးပြုပါ i">
+<!ENTITY trackingProtection5.accesskey "i">
+<!ENTITY trackingProtectionLearnMore.label "ပိုမိုလေ့လာရန်">
+<!ENTITY trackingProtectionPBM5.label         "ခြေရာခံခြင်း ကာကွယ်မှုကို သီးသန့် ဝင်းဒိုးများတွင် အသုံးပြုပါ v">
+<!ENTITY trackingProtectionPBM5.accesskey     "v">
+<!ENTITY trackingProtectionPBMLearnMore.label "ပိုမိုလေ့လာရန်">
 
-
-
-<!ENTITY doNotTrackInfo.label           "ဆက်လက်ဖတ်ရှူရန်">
-
+<!ENTITY  history.label                 "မှတ်တမ်း">
 
 <!ENTITY  locationBar.label             "တည်နေရာ အတန်း">
 
+<!ENTITY  locbar.suggest.label          "တည်နေရာဘားတန်းကို အသုံးပြုပါက အကြံပေးလိုပါသည်၊">
+<!ENTITY  locbar.history.label          "မှတ်တမ်း H">
+<!ENTITY  locbar.history.accesskey      "H">
+<!ENTITY  locbar.bookmarks.label        "စာမှတ်များ">
+<!ENTITY  locbar.bookmarks.accesskey    "k">
+<!ENTITY  locbar.openpage.label         "ဖွင့်ထားသည့် စာမျက်နှာများ O">
+<!ENTITY  locbar.openpage.accesskey     "O">
+<!ENTITY  locbar.searches.label         "မူသေ ရှာဖွေရေးအင်ဂျင်မှ ဆက်စပ်သည့် ရှာဖွေမှုများ d">
+<!ENTITY  locbar.searches.accesskey     "d">
 
-
-
-
-
-
+<!ENTITY  suggestionSettings.label      "ရှာဖွေရေးအင်ဂျင်၏ အကြံပေးချက်များအတွက် အပြင်အဆင်ကို ပြောင်းလဲရန် g">
+<!ENTITY  suggestionSettings.accesskey  "g">
 
 <!ENTITY  acceptCookies.label           "Aကွန်ရက်များမှ ကွတ်ကီးများကို လက်ခံပါ။">
 <!ENTITY  acceptCookies.accesskey       "A">
@@ -30,7 +40,8 @@
 <!ENTITY  acceptThirdParty.never.label    "ဘယ်တော့မှ">
 <!ENTITY  acceptThirdParty.visited.label  "လည်ပတ်ကြည့်ရှုပီးသည်မှ">
 
-
+<!ENTITY  keepUntil.label               "ထိုအချိန်ထိ သိမ်းထားပါ u၊">
+<!ENTITY  keepUntil.accesskey           "u">
 
 <!ENTITY  expire.label                  "သူတို့ သက်တမ်းပြီ">
 <!ENTITY  close.label                   "&brandShortName; ကို ပိတ်လိုက်တယ်">

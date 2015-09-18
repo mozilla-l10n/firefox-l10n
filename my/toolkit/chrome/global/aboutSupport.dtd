@@ -55,7 +55,11 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsMemoryUse "မှတ်ဉာဏ်သုံးဆွဲမှူ">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
+<!ENTITY aboutSupport.appBasicsServiceWorkers "စာရင်းပြုထားသည့် Service Workers">
+
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "တစ်ပြိုင်နက်လုပ်ဆောင်ချက် ဝင်းဒိုးများ">
+
+<!ENTITY aboutSupport.appBasicsSafeMode "အန္တရာယ်ကင်း စနစ်">
 
 <!ENTITY aboutSupport.showDir.label "ဖွင့်ထားသော လမ်းညွှန်">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific

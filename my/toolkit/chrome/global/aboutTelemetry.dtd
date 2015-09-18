@@ -4,12 +4,39 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Telemetry Data">
 
-<!ENTITY aboutTelemetry.telemetryEnabled "    Telemetry is <span>enabled</span>.">
+<!ENTITY aboutTelemetry.changeDataChoices "  ပြောင်းလဲရန်">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "    Telemetry is <span>disabled</span>.">
+<!ENTITY aboutTelemetry.uploadEnabled "  FHR ဒေတာပို့လွှတ်မှုကို <span>ဖွင့်ထားသည်</span>။">
+
+<!ENTITY aboutTelemetry.uploadDisabled "  FHR ဒေတာပို့လွှတ်မှုကို <span>ပိတ်ထားသည်</span>။">
+
+<!ENTITY aboutTelemetry.extendedRecordingEnabled "  Extended Telemetry ရုပ်/သံသွင်းခြင်းကို <span>ဖွင့်ထားသည်</span>။">
+
+<!ENTITY aboutTelemetry.extendedRecordingDisabled "  Extended Telemetry ရုပ်/သံသွင်းခြင်းကို <span>ပိတ်ထားသည်</span>။">
+
+<!ENTITY aboutTelemetry.pingDataSource "ကွန်ယက်စာတို(ပင်းန်) ဒေတာရင်းမြစ်။">
+
+<!ENTITY aboutTelemetry.showCurrentPingData "လက်ရှိ ပင်းန် ဒေတာ">
+
+<!ENTITY aboutTelemetry.showArchivedPingData "သိမ်းထားသည့် ပင်းန် ဒေတာ">
+
+<!ENTITY aboutTelemetry.showSubsessionData "အချိန်ခွဲသိမ်း ဒေတာကို ပြပါ">
+
+<!ENTITY aboutTelemetry.choosePing "ပင်းန်ကို ရွေးရန်။">
+
+<!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; ပင်းန် အသစ်">
+
+<!ENTITY aboutTelemetry.showOlderPing "ပင်းန် အဟောင်း &gt;&gt;">
+
+<!ENTITY aboutTelemetry.archiveWeekHeader "ရက်သတ္တပတ်">
+
+<!ENTITY aboutTelemetry.archivePingHeader "ပင်းန်">
 
 <!ENTITY aboutTelemetry.generalDataSection "  အထွေထွေ အချက်အလက်">
 
+<!ENTITY aboutTelemetry.environmentDataSection "  Environment Data">
+
+<!ENTITY aboutTelemetry.telemetryLogSection "  Telemetry မှတ်တမ်း">
 
 <!ENTITY aboutTelemetry.slowSqlSection " Slow SQL Statements">
 

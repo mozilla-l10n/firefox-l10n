@@ -52,8 +52,8 @@
 <!ENTITY cmd.open.accesskey              "O">
 <!ENTITY cmd.open_window.label           "၀င်းဒိုးအသစ် တခုမှာ ဖွင့်ပါ">
 <!ENTITY cmd.open_window.accesskey       "N">
-
-
+<!ENTITY cmd.open_private_window.label     "သီးသန့် ဝင်းဒိုးအသစ်ထဲတွင် ဖွင့်ပါ။ P">
+<!ENTITY cmd.open_private_window.accesskey "P">
 <!ENTITY cmd.open_tab.label              "စာအမှတ် အသစ်တခုမှာ ဖွင့်ပါ">
 <!ENTITY cmd.open_tab.accesskey          "w">
 <!ENTITY cmd.open_all_in_tabs.label      "အားလုံးကို စာအမှတ်များနဲ့ ဖွင့်ပါ">

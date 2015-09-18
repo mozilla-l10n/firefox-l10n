@@ -9,15 +9,6 @@
 <!ENTITY paperInput.label "စာရွတ် အရွယ်အစား -">
 <!ENTITY paperInput.accesskey "P">
 
-<!ENTITY plexInput.label "Plex စနစ် -">
-<!ENTITY plexInput.accesskey "P">
-
-<!ENTITY resolutionInput.label "ရှင်းလင်းပြက်သားမှု/အရည်အသွေး -">
-<!ENTITY resolutionInput.accesskey "e">
-
-<!ENTITY cmdInput.label "ပုံနှိုပ်ရန် အမိန့်">
-<!ENTITY cmdInput.accesskey "o">
-
 <!ENTITY jobTitleInput.label "အလုပ် ခေါင်းစဉ် -">
 <!ENTITY jobTitleInput.accesskey "J">
 
@@ -26,13 +17,6 @@
 <!ENTITY grayRadio.accesskey "G">
 <!ENTITY colorRadio.label "အရောင်">
 <!ENTITY colorRadio.accesskey "C">
-
-<!ENTITY colorspaceInput.label "အရောင်ကွက်လပ်">
-<!ENTITY colorspaceInput.accesskey "s">
-
-<!ENTITY fontsGroup.label "ဖောင့်များ -">
-<!ENTITY downloadFonts.label "ပုံနှိုပ်စက်အတွက် ဖောင့်များကို ဆွဲချပါ">
-<!ENTITY downloadFonts.accesskey "D">
 
 <!ENTITY edgeMarginInput.label "စာရွတ်အစွန်မှ ဘေးမျဉ်းကြား ကွာဟချက်">
 <!ENTITY topInput.label "ထိပ် -">

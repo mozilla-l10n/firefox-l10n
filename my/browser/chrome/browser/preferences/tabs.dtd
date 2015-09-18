@@ -8,11 +8,14 @@
 <!ENTITY warnCloseMultipleTabs.label  "m စာအမှတ်အများကို ပိတ်တဲ့အခါ သတိပေးပါ">
 <!ENTITY warnCloseMultipleTabs.accesskey  "m">
 
+<!ENTITY warnOpenManyTabs.label       "စာမျက်နှာအများအပြားဖွင့်ခြင်းသည် &brandShortName; ကို နှေးကွေးစေနိုင်လျှင် ကျွန်တော်/မကို သတိပေးပါ d">
+<!ENTITY warnOpenManyTabs.accesskey   "d">
 
+<!ENTITY restoreTabsOnDemand.label        "မရွေးချယ်ထားသည့် စာမျက်နှာများကို မဖွင့်ပါနှင့် u">
+<!ENTITY restoreTabsOnDemand.accesskey    "u">
 
-
-
-
+<!ENTITY switchToNewTabs.label        "လင့်ခ်တစ်ခုကို စာမျက်နှာအသစ်တွင် ဖွင့်လိုက်ပါက ထိုစာမျက်နှာကို ချက်ခြင်း ပြပါ h">
+<!ENTITY switchToNewTabs.accesskey    "h">
 
 <!ENTITY showTabsInTaskbar.label          "kဝင်းဒိုးတက်စ်ဘားတွင်တပ်များအားဖော်ပြထားမည်">
 <!ENTITY showTabsInTaskbar.accesskey      "k">

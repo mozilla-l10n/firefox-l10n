@@ -11,14 +11,16 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY starting.label                   "စတင်နေတယ်...">
 <!ENTITY scanning.label                   "ဗိုင်းရပ်စ်များကို ရှာဖွေ စစ်ဆေးနေတယ်...">
 
+<!ENTITY downloads.title                  "ဆွဲယူကူးထားမှုများ">
 
-
-
-
-
-
-
-
+<!ENTITY cmd.pause.label                  "ခဏရပ် P">
+<!ENTITY cmd.pause.accesskey              "P">
+<!ENTITY cmd.resume.label                 "ခဏရပ်ခြင်းမှ စတင်ရန် R">
+<!ENTITY cmd.resume.accesskey             "R">
+<!ENTITY cmd.cancel.label                 "မဆောင်ရွက်တော့ပါ C">
+<!ENTITY cmd.cancel.accesskey             "C">
+<!ENTITY cmd.show.label                   "ဖိုင်ရှိသည့် နေရာကို ဖွင့်ပါ F">
+<!ENTITY cmd.show.accesskey               "F">
 <!ENTITY cmd.showMac.label                "ရှာဖွေကိရိယာမှာ ဖေါ်ပြပါ">
 <!ENTITY cmd.showMac.accesskey            "F">
 <!ENTITY cmd.open.label                   "ဖွင့်ပါ">
@@ -29,8 +31,8 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.retry.accesskey              "R">
 <!ENTITY cmd.goToDownloadPage.label       "ဆွဲချတဲ့ စာမျက်နှာဆီ သွားပါ">
 <!ENTITY cmd.goToDownloadPage.accesskey   "G">
-
-
+<!ENTITY cmd.copyDownloadLink.label       "ဆွဲကူးယူနိုင်သည့် လင့်ခ်ကို ကူးယူပါ L">
+<!ENTITY cmd.copyDownloadLink.accesskey   "L">
 <!ENTITY cmd.removeFromList.label         "စာရင်းထဲမှ ဖယ်ရှားပါ">
 <!ENTITY cmd.removeFromList.accesskey     "e">
 

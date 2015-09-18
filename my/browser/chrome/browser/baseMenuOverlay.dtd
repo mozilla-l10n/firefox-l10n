@@ -25,10 +25,11 @@
 
 <!ENTITY helpSafeMode.label       "Add-on များမပါပဲပြန်လည်အသုံးပြုမည်။">
 <!ENTITY helpSafeMode.accesskey   "A">
+<!ENTITY helpSafeMode.stop.label       "Add-on များမပါပဲ (R)ပြန်လည်အသုံးပြုမည်။">
+<!ENTITY helpSafeMode.stop.accesskey   "R">
 
-
-
-
+<!ENTITY healthReport2.label      "&brandShorterName; eကျန်းမာရေးအစီရင်ခံစာ">
+<!ENTITY healthReport2.accesskey  "e">
 
 <!ENTITY helpTroubleshootingInfo.label      "အခက်အခဲဆိုင်ရာဖြေရှင်းခြင်းနည်းလမ်းများ။">
 <!ENTITY helpTroubleshootingInfo.accesskey  "အ">
@@ -36,13 +37,15 @@
 <!ENTITY helpFeedbackPage.label      "အကြုံပြုချက်အား ပေးပို့မည်။">
 <!ENTITY helpFeedbackPage.accesskey  "အ">
 
-
+<!ENTITY helpShowTour2.label            "&brandShorterName; o  အလည်">
+<!ENTITY helpShowTour2.accesskey        "o">
 
 <!ENTITY preferencesCmdMac.label        "ဦးစားပေးချက်များ...">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "၀န်ဆောင်မှုများ">
 
+<!ENTITY hideThisAppCmdMac2.label       "&brandShorterName; ကို ဖျောက်ထားပါ">
 <!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "အခြားများကို ဖျောက်ထားပါ">

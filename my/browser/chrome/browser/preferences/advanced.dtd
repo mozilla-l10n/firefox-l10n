@@ -34,8 +34,8 @@
 <!ENTITY healthReportLearnMore.label     "ဆက်လက်ဖတ်ရှူရန်">
 
 <!ENTITY telemetryDesc.label             "လုပ်ဆောင်ချက်များ ၊ ဟတ်ဒ်ဝဲနှင့် ပြင်ဆင်မှူအချက်အလက်များအား &vendorShortName; အားမျှဝေပေးခြင်း အားဖြင့် &brandShortName; အားပိုကောင်းအောင်လုပ်ရန်ကူညီပါ။">
-
-
+<!ENTITY enableTelemetryData.label       "အခြားအချက်အလက်များကို မျှဝေရန် (နမူနာ၊ တယ်လီမတြီ T)">
+<!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "ဆက်လက်ဖတ်ရှူရန်">
 
 <!ENTITY crashReporterDesc.label         "&brandShortName; သည် အချက်အလက်အချို့အား &vendorShortName; သို့ပေးပို့ခြင်းအားဖြင့် သင်၏ သုံးဆွဲမှူအားပိုမိုတည်ငြိမ်လုံခြုံအောင် လုပ်ရန် ကူညီပါ။">
@@ -106,15 +106,15 @@
 <!ENTITY offlineAppRemove.confirm        "ချိတ်ဆက်မဲ့ အချက်အလက်ကြမ်းကို ဖယ်ရှားပါ">
 
 <!ENTITY certificateTab.label            "အသိအမှတ်ပြုလက်မှတ်များ">
-
+<!ENTITY certSelection.label             "တောင်းခံချက်များ">
 <!ENTITY certSelection.description       "ဆာဗာ တခုမှ ကျွန်ပ် ကိုယ်ရေး လက်မှတ်ကို တောင်းဆိုတဲ့အခါ">
 <!ENTITY certs.auto                      "တခုကို အလိုအလျောက် ရွေးချယ်ပါ">
-
+<!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "အချိန်တိုင်း ကျွန်ပ်ကို မေးပါ">
-
-
-
-
-
-
-
+<!ENTITY certs.ask.accesskey             "A">
+<!ENTITY enableOCSP.label                "လက်ရှိအထောက်အထားများ၏ ခိုင်လုံမှုကို အတည်ပြုရန် OSCP responder servers များကို ဆွဲထုတ်ပါ Q">
+<!ENTITY enableOCSP.accesskey            "Q">
+<!ENTITY viewCerts.label                 "အထောက်အထားများကို ကြည့်ရန် C">
+<!ENTITY viewCerts.accesskey             "C">
+<!ENTITY viewSecurityDevices.label       "လုံခြုံရေး ကိရိယာများ D">
+<!ENTITY viewSecurityDevices.accesskey   "D">

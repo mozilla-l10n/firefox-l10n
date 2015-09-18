@@ -3,8 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAccounts.welcome "&syncBrand.shortName.label; မှ ကြိုဆိုပါသည်">
+<!ENTITY aboutAccounts.connected "ချိတ်ဆက်ထားသည့် အကောင့်">
 
 <!ENTITY aboutAccountsConfig.description "သင့် tab များ၊ မှတ်တမ်းများ၊ စကားဝှက်များ နှင့် အခြားတို့ကို တပြေးညီဖြစ်စေရန် ဝင်ရောက်ပါ">
 <!ENTITY aboutAccountsConfig.startButton.label "စတင်ကြမယ်">
 <!ENTITY aboutAccountsConfig.useOldSync.label "Sync ဝန်ဆောင်မှုအဟောင်းကို အသုံးပြုနေပါသလား။">
-<!ENTITY aboutAccountsConfig.manage.label "စီမံရန်">
+<!ENTITY aboutAccountsConfig.syncPreferences.label "အပြင်အဆင်များကို တပြေးညီလုပ်ရန်">

@@ -31,7 +31,7 @@
 <!ENTITY  font.langGroup.korean                   "ကိုရီးယား">
 <!ENTITY  font.langGroup.cyrillic                 "ဆိုင်ရိလ်လစ်">
 <!ENTITY  font.langGroup.el                       "ဂရိ">
-
+<!ENTITY  font.langGroup.other                    "အခြား စာရေးစနစ်များ">
 <!ENTITY  font.langGroup.thai                     "ထိုင်း">
 <!ENTITY  font.langGroup.hebrew                   "ဟီးဗရူး">
 <!ENTITY  font.langGroup.arabic                   "အာရေဗစ်">
@@ -46,6 +46,7 @@
 <!ENTITY  font.langGroup.gurmukhi                 "ကူရ်မူကီ စာလုံး">
 <!ENTITY  font.langGroup.khmer                    "ခမာ">
 <!ENTITY  font.langGroup.malayalam                "မလေးရာလမ်">
+<!ENTITY  font.langGroup.math                     "သင်္ချာ">
 <!ENTITY  font.langGroup.oriya                    "အိုရီယား">
 <!ENTITY  font.langGroup.telugu                   "တယ်လကူ">
 <!ENTITY  font.langGroup.kannada                  "ကန်နာဒါ">
@@ -63,15 +64,16 @@
 <!ENTITY  allowPagesToUse.label                   "Aအထက်ပါ ကျွန်ပ် ရွေးချယ်ချက်များ အစား၊ သူတို့ ကိုယ်ပိုင် ဖောင့်များ ရွေးထားဖို့ စာမျက်နှာများကို ခွင့်​ပြုပါ">
 <!ENTITY  allowPagesToUse.accesskey               "A">
 
-
-
-
+<!ENTITY languages.customize.Fallback2.grouplabel "စနစ်ဟောင်းဖြင့်ဖန်တီထားသည့် အကြောင်းအရာများအတွက် စာသား သိမ်းဆည်းမှုစနစ်">
+<!ENTITY languages.customize.Fallback2.label      "အရေးပေါ် စာသား သိမ်းဆည်းမှု စနစ်">
+<!ENTITY languages.customize.Fallback2.accesskey  "T">
+<!ENTITY languages.customize.Fallback2.desc       "စနစ်ဟောင်းဖြင့် ဖန်တီးထားသည့် အကြောင်းအရာများသည် ၄င်းတို့၏ စာသားသိမ်းဆည်းမှုစနစ်ကို မဖော်ပြနိုင်လျှင် ယခု စာသားသိမ်းဆည်းမှုစနစ်ကို အသုံးပြုမည်။">
 
 <!ENTITY languages.customize.Fallback.auto        "လက်ရှိဘာသာစကား အပြင်အဆင်စံ">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.arabic      "အာရေဗစ်">
-
+<!ENTITY languages.customize.Fallback.baltic      "ဘောလ်တစ်နှင့်ဆိုင်သော">
 <!ENTITY languages.customize.Fallback.ceiso       "ဥရောပ အလယ်‌ပိုင်း ISO">
 <!ENTITY languages.customize.Fallback.cewindows   "ဥရောပအလယ်ပိုင်း, မိုက်ကရိုဆော့ဖ်">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
@@ -98,6 +100,7 @@
 <!ENTITY languages.customize.Fallback.thai        "ထိုင်း">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.turkish):
      Translate "Turkish" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.turkish     "တူရကီနှင့်ဆိုင်သော">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.vietnamese  "ဗီယက်နမ်မီး">
