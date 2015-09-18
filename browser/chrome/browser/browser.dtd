@@ -684,7 +684,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName;-i ka bllokuar pjesë të kësaj faqeje që s&apos;janë të sigurta.">
-<!ENTITY identity.passiveLoaded "Pjesë të kësaj faqeje s&apos;janë të sigurta (fjala vjen, figura).">
+<!ENTITY identity.passiveLoaded "Pjesë të kësaj faqeje (fjala vjen, figura) s&apos;janë të sigurta.">
 <!ENTITY identity.activeLoaded "E keni çaktivizuar mbrojtjen për këtë faqe.">
 <!ENTITY identity.weakEncryption "Kjo faqe përdor fshehtëzim të dobët.">
 
