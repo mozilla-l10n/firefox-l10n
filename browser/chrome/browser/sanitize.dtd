@@ -56,7 +56,7 @@ that require it.  -->
 <!ENTITY itemCookies.accesskey             "C">
 <!ENTITY itemCache.label                   "Cache-ul">
 <!ENTITY itemCache.accesskey               "a">
-<!ENTITY itemOfflineApps.label             "Datele pentru accesul offline">
+<!ENTITY itemOfflineApps.label             "Date offline ale site-urilor web">
 <!ENTITY itemOfflineApps.accesskey         "o">
 <!ENTITY itemActiveLogins.label            "Autentificările active">
 <!ENTITY itemActiveLogins.accesskey        "l">

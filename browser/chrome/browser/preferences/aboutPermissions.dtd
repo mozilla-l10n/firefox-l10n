@@ -39,7 +39,7 @@
 
 <!ENTITY indexedDB.label                 "Stocare pentru uz offline">
 
-<!ENTITY popup.label                     "Deschide ferestrele popup">
+<!ENTITY popup.label                     "Deschide ferestrele pop-up">
 
 <!ENTITY push.label                      "Primiți notificări push">
 <!ENTITY camera.label                    "Utilizați Camera">

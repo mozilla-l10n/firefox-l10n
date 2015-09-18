@@ -94,7 +94,7 @@
 <!ENTITY enableSearchUpdate.label        "Motoare de căutare">
 <!ENTITY enableSearchUpdate.accesskey    "M">
 
-<!ENTITY offlineNotify.label             "Spune-mi când un site cere să stocheze date pentru folosire offline">
+<!ENTITY offlineNotify.label             "Spune-mi când un site web solicită să stocheze date pentru folosire offline">
 <!ENTITY offlineNotify.accesskey         "t">
 <!ENTITY offlineNotifyExceptions.label   "Excepții…">
 <!ENTITY offlineNotifyExceptions.accesskey "x">

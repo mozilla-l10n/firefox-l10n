@@ -653,14 +653,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Stil principal">
 <!ENTITY pageStylePersistentOnly.accesskey "p">
 
-<!ENTITY pageReportIcon.tooltip            "Modifică parametrii de blocare a popupurilor pentru acest site web">
+<!ENTITY pageReportIcon.tooltip            "Modifică parametrii de blocare a ferestrelor pop-up pentru acest site web">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "Editează preferințele de blocare a ferestrelor popup…">
-<!ENTITY editPopupSettings.label "Editează opțiunile de blocare a ferestrelor popup…">
+<!ENTITY editPopupSettingsUnix.label "Editează preferințele de blocare a ferestrelor pop-up…">
+<!ENTITY editPopupSettings.label "Editează opțiunile de blocare a ferestrelor pop-up…">
 <!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "D">
 
