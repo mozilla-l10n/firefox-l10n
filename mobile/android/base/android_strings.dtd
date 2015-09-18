@@ -10,6 +10,7 @@
 <!ENTITY  onboard_start_subtext3 "Přizpůsobte si své mobilní prohlížení k obrazu svému.">
 <!ENTITY  onboard_start_button_account "Přihlásit se k aplikaci &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Začít prohlížet">
+<!ENTITY  onboard_start_restricted1 "Zůstaňte v bezpečí a mějte kontrolu s touto zjednodušenou verzí aplikace &brandShortName;.">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
@@ -68,6 +69,8 @@
 <!ENTITY edit_mode_cancel "Zrušit">
 
 <!ENTITY close_tab "Zavřít panel">
+<!ENTITY tab_audio_playing "Tento panel přehrává audio">
+<!ENTITY tab_audio_muted "Tento panel byl ztlumen">
 <!ENTITY one_tab "1 panel">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one. 
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -155,6 +158,9 @@
 <!ENTITY pref_search_hint "TIP: Přidejte libovolnou stránku do svého seznamu poskytovatelů vyhledávání dlouhým stiskem, a následně klepněte na ikonu &formatI;.">
 <!ENTITY pref_category_devtools "Nástroje vývojáře">
 <!ENTITY pref_developer_remotedebugging "Vzdálené ladění">
+<!ENTITY pref_developer_remotedebugging_usb "Vzdálené ladění pomocí USB">
+<!ENTITY pref_developer_remotedebugging_wifi "Vzdálené ladění pomocí Wi-Fi">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Ladění pomocí Wi-Fi vyžaduje, aby vaše zařízení mělo nainstalovanou čtečku QR kódů.">
 <!ENTITY pref_category_logins "Přihlášení">
 <!ENTITY pref_remember_signons2 "Pamatovat si přihlášení">
 <!ENTITY pref_open_external_urls_privately_title "Otevřít odkazy v anonymním režimu">
@@ -192,15 +198,20 @@
 <!ENTITY pref_cookies_disabled "Zakázat">
 
 <!ENTITY pref_tracking_protection_title "Ochrana proti sledování">
-<!ENTITY pref_tracking_protection_summary "&brandShortName; zamezí stránkám, aby vás sledovaly">
+<!ENTITY pref_tracking_protection_summary3 "Povolena v režimu anonymního prohlížení">
 <!ENTITY pref_donottrack_title "Funkce Do not track">
 <!ENTITY pref_donottrack_summary "&brandShortName; požádá webové stránky, aby nesledovaly vaši aktivitu">
+
+<!ENTITY tracking_protection_prompt_title "Nyní s Ochranou proti sledování">
+<!ENTITY tracking_protection_prompt_text "Aktivně blokuje prvky, které vás mohou sledovat, abyste se o ně více nemusely starat.">
+<!ENTITY tracking_protection_prompt_tip_text "Pro více informací se navštivte nastavení Soukromí">
+<!ENTITY tracking_protection_prompt_action_button "Rozumím!">
 
 <!ENTITY tab_queue_toast_message3 "Panel uložen do aplikace &brandShortName;">
 <!ENTITY tab_queue_toast_action "Otevřít nyní">
 <!ENTITY tab_queue_prompt_title "Otevíráte více odkazů?">
-<!ENTITY tab_queue_prompt_text3 "Uložte je na později do příštího otevření aplikace &brandShortName;">
-<!ENTITY tab_queue_prompt_tip_text "lze změnit kdykoliv později v Nastavení">
+<!ENTITY tab_queue_prompt_text4 "Uložte je do příštího otevření aplikace &brandShortName;.">
+<!ENTITY tab_queue_prompt_tip_text2 "Toto můžete změnit kdykoliv později v Nastavení">
 <!ENTITY tab_queue_prompt_positive_action_button "Povolit">
 <!ENTITY tab_queue_prompt_negative_action_button "Nyní ne">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
@@ -330,7 +341,6 @@ size. -->
 <!ENTITY addons "Doplňky">
 <!ENTITY logins "Přihlášení">
 <!ENTITY downloads "Stahování">
-<!ENTITY apps "Aplikace">
 <!ENTITY char_encoding "Znaková sada">
 
 <!ENTITY share "Sdílet">
@@ -401,6 +411,11 @@ size. -->
 <!ENTITY pref_titlebar_mode_title "Zobrazit nadpis stránky">
 <!ENTITY pref_titlebar_mode_url "Zobrazit adresu stránky">
 
+<!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
+     whether or not the magnifying glass is disabled. -->
+<!ENTITY pref_prevent_magnifying_glass "Zakázat zvětšovací sklo ">
+<!ENTITY pref_prevent_magnifying_glass_summary "Zakázat zvětšovací sklo pro nejasné doteky na obrazovce">
+
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar2 "Prohlížení přes celou obrazovku">
@@ -426,9 +441,9 @@ size. -->
 <!ENTITY site_settings_clear "Vymazat">
 <!ENTITY site_settings_no_settings "Žádné nastavení neexistuje.">
 
-<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+<!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
-<!ENTITY reading_list_added2 "Přidáno do seznamu">
+<!ENTITY reading_list_added3 "Přidáno do Seznamu ke čtení">
 <!ENTITY reading_list_removed "Stránka odebrána ze Seznamu ke čtení">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -544,21 +559,25 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_run_by "která je provozována">
-<!ENTITY identity_no_info "Tato stránka neposkytuje informace o své identitě.">
-<!ENTITY identity_not_encrypted "Připojení k této stránce není zabezpečené.">
-<!ENTITY identity_encrypted "Zašifrováno">
+<!ENTITY identity_connection_secure "Zabezpečené přípojení">
+<!ENTITY identity_connection_insecure "Nezabezpečené přípojení">
 
 <!-- Mixed content notifications in site identity popup -->
-<!ENTITY loaded_mixed_content_message "Tato stránka zobrazuje obsah, který není zabezpečený.">      
+<!ENTITY mixed_content_blocked_all "Aplikace &brandShortName; zablokovala nezabezpečené prvky na této stránce.">
+<!ENTITY mixed_content_blocked_some "Aplikace &brandShortName; zablokovala některé nezabezpečené prvky na této stránce.">
+<!ENTITY mixed_content_display_loaded "Některé prvky na této stránce nejsou zabezpečené.">
+<!ENTITY mixed_content_protection_disabled "Vypnuli jste ochranu proti nezabezpečeným prvkům.">
+
+<!ENTITY loaded_mixed_content_message "Tato stránka zobrazuje obsah, který není zabezpečený.">
 <!ENTITY blocked_mixed_content_message_top "Aplikace &brandShortName; zablokovala obsah, který není zabezpečený.">
 <!ENTITY blocked_mixed_content_message_bottom "Většina stránek bude fungovat přesto, že by tento obsah zablokován.">
 
 <!-- Tracking content notifications in site identity popup -->
-<!ENTITY loaded_tracking_content_message_top "Ochrana před sledováním je vypnuta.">
-<!ENTITY loaded_tracking_content_message_bottom "Některé součásti této stránky mohou sledovat vaši aktivitu.">
-<!ENTITY blocked_tracking_content_message_top2 "Ochrana před sledováním je zapnutá.">
-<!ENTITY blocked_tracking_content_message_bottom2 "Součásti stránky, které sledují vaši aktivitu, byly zablokovány.">
+<!ENTITY doorhanger_tracking_title "Ochrana proti sledování">
+<!ENTITY doorhanger_tracking_state_enabled "Zapnuta">
+<!ENTITY doorhanger_tracking_state_disabled "Vypnuta">
+<!ENTITY doorhanger_tracking_message_enabled1 "Pokusy o sledování vašeho chování online byly zablokovány.">
+<!ENTITY doorhanger_tracking_message_disabled2 "Tato stránka obsahuje části, které mohou sledovat vaše prohlížení.">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Zjistit více">
@@ -642,10 +661,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Voice search in the awesome bar -->
 <!ENTITY voicesearch_prompt "Nyní hovořte">
-<!ENTITY voicesearch_failed_title "Hlasové vyhledávání aplikace &brandShortName;">
-<!ENTITY voicesearch_failed_message "Při práci s hlasovým vyhledáváním se vyskytl problém. Zkuste to později.">
-<!ENTITY voicesearch_failed_message_recoverable "Omlouváme se, ale nerozpoznali jsme vaše slova. Zkuste to prosím znovu.">
-<!ENTITY voicesearch_failed_retry "Zkusit znovu">
 
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
@@ -663,3 +678,25 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY find_matchcase "Aa">
 
 <!ENTITY intent_uri_cannot_open "Odkaz nelze otevřít">
+
+<!-- DevTools Authentication -->
+<!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
+     above a QR reader that is actively scanning for QR codes.  The expected QR
+     code has already been displayed by the client trying to connect (such as
+     desktop Firefox via WebIDE), so you just need to aim this device at the QR
+     code. -->
+<!ENTITY devtools_auth_scan_header "Skenování QR kódu zobrazeného na vašem dalším zařízení">
+
+<!-- Restrictions -->
+<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+     a restricted profile (e.g. child). Used inside the Android settings UI. -->
+<!ENTITY restriction_disallow_import_settings_title2 "Zakázat \'Import z Androidu\'">
+<!ENTITY restriction_disallow_addons_title2 "Zakázat instalaci doplňků">
+<!ENTITY restriction_disallow_devtools_title2 "Zakázat vývojářské nástroje">
+<!ENTITY restriction_disallow_customize_home_title2 "Zakázat přizpůsobení domovské stránky">
+<!ENTITY restriction_disallow_private_browsing_title2 "Zakázat režim anonymního prohlížení">
+<!ENTITY restriction_disallow_location_services_title2 "Zakázat služby zjištění pozice">
+<!ENTITY restriction_disallow_display_settings_title2 "Zakázat nastavení zobrazení">
+<!ENTITY restriction_disallow_clear_history_title2 "Zakázat \'Vymazat historii prohlížení\'">
+<!ENTITY restriction_disallow_master_password_title2 "Zakázat hlavní heslo">
+<!ENTITY restriction_disallow_guest_browsing_title2 "Zakázat Prohlížení pro hosty">
