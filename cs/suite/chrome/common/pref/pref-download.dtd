@@ -19,7 +19,7 @@
 <!ENTITY saveTo.accesskey "U">
 <!ENTITY chooseDownloadFolder.label "Vybrat složku…">
 <!ENTITY chooseDownloadFolder.accesskey "b">
-<!ENTITY alwaysAsk.label "Vždy se dotázat, kam uložit soubory">
+<!ENTITY alwaysAsk.label "Vždy se zeptat, kam uložit soubory">
 <!ENTITY alwaysAsk.accesskey "t">
 
 <!ENTITY downloadHistory.label "Historie stahování">

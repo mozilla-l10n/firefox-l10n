@@ -27,7 +27,7 @@
 <!ENTITY keepUntil.accesskey "d">
 <!ENTITY expire.label "konce doby platnosti">
 <!ENTITY close.label "ukončení aplikace &brandShortName;">
-<!ENTITY askEachTime.label "vždy se dotázat">
+<!ENTITY askEachTime.label "vždy se zeptat">
 <!ENTITY cookieExceptions.label "Výjimky…">
 <!ENTITY cookieExceptions.accesskey "m">
 <!ENTITY showCookies.label "Správce cookies…">

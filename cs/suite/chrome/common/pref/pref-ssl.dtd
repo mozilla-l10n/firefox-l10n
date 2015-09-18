@@ -42,5 +42,5 @@
 <!ENTITY certselect.description "Rozhodněte, jaký certifikát má aplikace &brandShortName; předkládat stránkám, které jej vyžadují">
 <!ENTITY certselect.auto "Vybírat automaticky">
 <!ENTITY certselect.auto.accesskey "b">
-<!ENTITY certselect.ask "Vždy se dotázat">
+<!ENTITY certselect.ask "Vždy se zeptat">
 <!ENTITY certselect.ask.accesskey "d">
