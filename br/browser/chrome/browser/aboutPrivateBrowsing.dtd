@@ -57,7 +57,7 @@
 <!ENTITY trackingProtection.state.enabled      "GWEREDEKAET">
 <!ENTITY trackingProtection.state.disabled     "DIWEREDEKAET">
 
-<!ENTITY trackingProtection.description1       "Adalek bremañ eo stanket gant ar prenestroù prevez lodennoù eus ar bajenn a c'hallfe heuliañ ho oberiantiz merdeiñ.">
+<!ENTITY trackingProtection.description1       "Adalek bremañ eo stanket gant ar prenestroù prevez lodennoù eus ar bajenn a c'hallfe heuliañ hoc'h oberiantiz merdeiñ.">
 
 <!ENTITY trackingProtection.disable            "Diweredekaat ar gwarez heuliañ">
 <!ENTITY trackingProtection.enable             "Gweredekaat ar gwarez heuliañ">
