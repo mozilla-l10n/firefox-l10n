@@ -9,12 +9,15 @@
 
 <!ENTITY aboutTelemetry.uploadDisabled "  FHR duomenų išsiuntimas yra <span>išjungtas</span>.">
 
+<!ENTITY aboutTelemetry.extendedRecordingEnabled "  Išplėstinis telemetrijos įrašinėjimas yra <span>įjungtas</span>.">
 
+<!ENTITY aboutTelemetry.extendedRecordingDisabled "  Išplėstinis telemetrijos įrašinėjimas yra <span>išjungtas</span>.">
 
 <!ENTITY aboutTelemetry.pingDataSource "Patikrinti duomenų šaltinio ryšį:">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "Dabartinio ryšio patikrinimo duomenys">
 
+<!ENTITY aboutTelemetry.showArchivedPingData "Archyve esantys ryšio tikrinimo duomenys">
 
 <!ENTITY aboutTelemetry.showSubsessionData "Rodyti posesijinius duomenis">
 
@@ -24,6 +27,7 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "Senesnis ryšio patikrinimas &gt;&gt;">
 
+<!ENTITY aboutTelemetry.archiveWeekHeader "Savaitė">
 
 <!ENTITY aboutTelemetry.archivePingHeader "Ryšio patikrinimas">
 
