@@ -125,6 +125,7 @@
 <!ENTITY fxaccount_finish_migrating_description "L’aggiornamento può richiedere il trasferimento di grandi quantità di dati. Si consiglia di utilizzare una rete Wi-Fi.">
 <!ENTITY fxaccount_status_header2 "Account Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Identificato come">
+<!ENTITY fxaccount_status_manage_account "Gestisci account">
 <!ENTITY fxaccount_status_auth_server "Server account">
 <!ENTITY fxaccount_status_sync_now "Sincronizza adesso">
 <!ENTITY fxaccount_status_syncing2 "Sincronizzazione…">
