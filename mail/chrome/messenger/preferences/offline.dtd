@@ -9,8 +9,8 @@
 <!ENTITY titleStartUp "Při startu:">
 <!ENTITY radioRememberPrevState.label "Pamatovat si předchozí stav">
 <!ENTITY radioRememberPrevState.accesskey "P">
-<!ENTITY radioAskState.label "Dotázat se na stav online">
-<!ENTITY radioAskState.accesskey "D">
+<!ENTITY radioAskState.label "Zeptat se na stav online">
+<!ENTITY radioAskState.accesskey "p">
 <!ENTITY radioAlwaysOnlineState.label "Vždy začít v režimu online">
 <!ENTITY radioAlwaysOnlineState.accesskey "V">
 <!ENTITY radioAlwaysOffline.label "Vždy začít v režimu offline">

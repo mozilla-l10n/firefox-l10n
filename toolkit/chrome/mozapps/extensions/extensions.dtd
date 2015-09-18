@@ -95,7 +95,7 @@
 <!ENTITY cmd.disableTheme.label "Nepoužívat motiv vzhledu">
 <!ENTITY cmd.disableTheme.accesskey "m">
 <!ENTITY cmd.askToActivate.label "Spustit na vyžádání">
-<!ENTITY cmd.askToActivate.tooltip "Na spuštění zásuvného modulu se vždy dotázat">
+<!ENTITY cmd.askToActivate.tooltip "Na spuštění zásuvného modulu se vždy zeptat">
 <!ENTITY cmd.alwaysActivate.label "Vždy spustit">
 <!ENTITY cmd.alwaysActivate.tooltip "Zásuvný modul bude vždy spuštěn">
 <!ENTITY cmd.neverActivate.label "Nespouštět">

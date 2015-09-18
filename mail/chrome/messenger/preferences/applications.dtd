@@ -15,7 +15,7 @@
 
 <!ENTITY saveTo.label "Uložit soubory do">
 <!ENTITY saveTo.accesskey "U">
-<!ENTITY alwaysAsk.label "Vždy se dotázat kam uložit soubory">
+<!ENTITY alwaysAsk.label "Vždy se zeptat kam uložit soubory">
 <!ENTITY alwaysAsk.accesskey "V">
 <!ENTITY chooseFolderWin.label "Prohlížet…">
 <!ENTITY chooseFolderWin.accesskey "P">

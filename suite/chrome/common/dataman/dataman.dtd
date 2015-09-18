@@ -63,7 +63,7 @@
 
 <!-- permissions -->
 <!ENTITY perm.UseDefault "Použít výchozí">
-<!ENTITY perm.AskAlways "Vždy se dotázat">
+<!ENTITY perm.AskAlways "Vždy se zeptat">
 <!ENTITY perm.NeverSave "Nikdy neukládat">
 <!ENTITY perm.Allow "Povolit">
 <!ENTITY perm.AllowSameDomain "Povolit pro stejnou doménu">

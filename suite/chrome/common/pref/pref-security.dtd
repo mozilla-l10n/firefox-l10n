@@ -18,8 +18,8 @@
 <!ENTITY geoLocation.label                "Prohlížení se znalostí polohy">
 <!ENTITY geoIntro.label                   "Webové stránky mohou požadovat více informací o vaší současné poloze.">
 
-<!ENTITY geoEnabled.label                 "Dotázat se na povolení příchozího požadavku">
-<!ENTITY geoEnabled.accesskey             "D">
+<!ENTITY geoEnabled.label                 "Zeptat se na povolení příchozího požadavku">
+<!ENTITY geoEnabled.accesskey             "d">
 <!ENTITY geoDisabled.label                "Zakázat tuto funkci a odmítat všechny požadavky">
 <!ENTITY geoDisabled.accesskey            "Z">
 

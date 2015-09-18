@@ -13,8 +13,8 @@
 <!ENTITY alwaysClear.label "Při ukončení aplikace &brandShortName; vymazat důvěrná data">
 <!ENTITY alwaysClear.accesskey "u">
 
-<!ENTITY askBeforeClear.label "Dotázat se před vymazáním důvěrných dat">
-<!ENTITY askBeforeClear.accesskey "D">
+<!ENTITY askBeforeClear.label "Zeptat se před vymazáním důvěrných dat">
+<!ENTITY askBeforeClear.accesskey "d">
 
 <!ENTITY clearDataSettings.label "Při mazání důvěrných dat z aplikace &brandShortName; vymazat následující:">
 

@@ -23,7 +23,7 @@
 <!ENTITY allowDebugger.accesskey          "P">
 <!ENTITY allowRemoteConnections.label     "Povolit připojení z jiných počítačů">
 <!ENTITY allowRemoteConnections.accesskey "v">
-<!ENTITY connectionPrompt.label           "Dotázat se pro příchozí připojení">
-<!ENTITY connectionPrompt.accesskey       "D">
+<!ENTITY connectionPrompt.label           "Zeptat se pro příchozí připojení">
+<!ENTITY connectionPrompt.accesskey       "Z">
 <!ENTITY remoteDebuggerPort.label         "Port pro připojení:">
 <!ENTITY remoteDebuggerPort.accesskey     "r">
