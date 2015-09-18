@@ -78,7 +78,7 @@
 <!ENTITY resetSyncKey.label           "Pamestas kitas sinchronizuojamas įrenginys.">
 <!-- Sync Options -->
 
-<!ENTITY setup.optionsPage.title      "Sinchronizavimo parinktys">
+<!ENTITY setup.optionsPage.title      "Sinchronizavimo nuostatos">
 <!ENTITY syncDeviceName.label       "Įrenginio vardas:">
 <!ENTITY syncDeviceName.accesskey   "v">
 
@@ -110,5 +110,5 @@
 <!-- New & Existing Account: Setup Complete -->
 
 <!ENTITY setup.successPage.title "Konfigūravimas baigtas!">
-<!ENTITY changeOptions.label "Šią nuostatą galite pakeisti spustelėję žemiau esantį mygtuką „Sinchronizavimo parinktys“.">
+<!ENTITY changeOptions.label "Šią nuostatą galite pakeisti spustelėję žemiau esantį mygtuką „Sinchronizavimo nuostatos“.">
 <!ENTITY continueUsing.label "Dabar darbą su „&brandShortName;“ galite tęsti.">

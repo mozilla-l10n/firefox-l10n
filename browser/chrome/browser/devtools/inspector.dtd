@@ -97,7 +97,7 @@
      here Image Data URL). For more information:
      https://developer.mozilla.org/en-US/docs/Web/HTTP/data_URIs -->
 
-<!ENTITY inspectorCopyImageDataUri.label       "Kopijuoti paveikslo data-URI">
+<!ENTITY inspectorCopyImageDataUri.label       "Kopijuoti paveikslo Data-URI">
 <!-- LOCALIZATION NOTE (inspectorShowDOMProperties.label): This is the label
      shown in the inspector contextual-menu for the item that lets users see
      the DOM properties of the current node. When triggered, this item

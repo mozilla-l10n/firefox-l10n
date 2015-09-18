@@ -329,8 +329,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY selectAllCmd.label         "Pažymėti viską">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "v"> 
-<!ENTITY preferencesCmd2.label       "Parinktys">
-<!ENTITY preferencesCmd2.accesskey     "P">
+<!ENTITY preferencesCmd2.label       "Nuostatos">
+<!ENTITY preferencesCmd2.accesskey     "N">
 <!ENTITY preferencesCmdUnix.label       "Nuostatos">
 <!ENTITY preferencesCmdUnix.accesskey     "N"> 
 
@@ -728,7 +728,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
-<!ENTITY syncSetup.label              "Konfigūruoti sinchronizavimą…">
+<!ENTITY syncSetup.label              "Konfigūruoti „&syncBrand.shortName.label;“…">
 <!ENTITY syncSetup.accesskey          "K">
 <!ENTITY syncSyncNowItem.label        "Sinchronizuoti dabar">
 <!ENTITY syncSyncNowItem.accesskey    "S">
