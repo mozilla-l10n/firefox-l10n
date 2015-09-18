@@ -110,7 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "A">
 
 <!ENTITY fxaSignIn.label "Autentificare la &syncBrand.shortName.label;">
-<!ENTITY fxaSignedIn.tooltip "Deschide preferințe &syncBrand.shortName.label;">
+<!ENTITY fxaSignedIn.tooltip "Deschide preferințele &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Reconectare la &syncBrand.shortName.label;">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; activat">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; va începe sincronizarea în câteva momente.">
@@ -169,7 +169,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backButton.tooltip           "Mergi cu o pagină înapoi">
 <!ENTITY forwardCmd.label             "Înainte">
 <!ENTITY forwardButton.tooltip        "Mergi cu o pagină înainte">
-<!ENTITY backForwardButtonMenu.tooltip "Clic dreapta sau trageți în jos pentru a vedea istoricul">
+<!ENTITY backForwardButtonMenu.tooltip "Clic dreapta sau trage în jos pentru a afișa istoricul">
 <!ENTITY backForwardButtonMenuMac.tooltip "Trage în jos pentru a afișa istoricul">
 <!ENTITY reloadCmd.label              "Reîncarcă">
 <!ENTITY reloadButton.tooltip         "Reîncarcă pagina actuală">
@@ -653,7 +653,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Stil principal">
 <!ENTITY pageStylePersistentOnly.accesskey "p">
 
-<!ENTITY pageReportIcon.tooltip            "Modifică parametrii de blocare a ferestrelor pop-up pentru acest site web">
+<!ENTITY pageReportIcon.tooltip            "Modifică setările de blocare a ferestrelor pop-up pentru acest site web">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
