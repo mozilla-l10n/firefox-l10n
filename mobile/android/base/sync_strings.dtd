@@ -224,7 +224,7 @@
 <!ENTITY fxaccount_status_more "Mai multe&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "Elimini contul Firefox?">
-<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; va opri sincronizarea cu contul tău, dar nu va șterge niciuna din datele tale de navigare pe acest dispozitiv.">
+<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; va opri sincronizarea cu contul, dar nu va șterge niciuna din datele de navigare de pe acest dispozitiv.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "Contul Firefox &formatS; eliminat.">
