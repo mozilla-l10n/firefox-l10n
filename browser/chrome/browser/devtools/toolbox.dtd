@@ -97,7 +97,7 @@
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableWorkers.label    "Įjungti scenarijų derinimą (programuojant)">
-
+<!ENTITY options.enableWorkers.tooltip  "Įjungdami šią nuostatą leisite programuotojo įrankiams derinti scenarijus">
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->

@@ -4,6 +4,7 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Telemetrijos duomenys">
 
+<!ENTITY aboutTelemetry.changeDataChoices "  Keisti">
 
 <!ENTITY aboutTelemetry.uploadEnabled "  FHR duomenų išsiuntimas yra <span>įungtas</span>.">
 
@@ -33,6 +34,7 @@
 
 <!ENTITY aboutTelemetry.generalDataSection "  Įprasti duomenys">
 
+<!ENTITY aboutTelemetry.environmentDataSection "  Aplinkos duomenys">
 
 <!ENTITY aboutTelemetry.telemetryLogSection "  Telemetrijos žurnalas">
 
