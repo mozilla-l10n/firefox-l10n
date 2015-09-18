@@ -36,8 +36,8 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 
-<!ENTITY  pinTab.label                       "Fixare filă">
-<!ENTITY  pinTab.accesskey                   "F">
+<!ENTITY  pinTab.label                       "Fixează fila">
+<!ENTITY  pinTab.accesskey                   "i">
 <!ENTITY  unpinTab.label                     "Anulează fixarea">
 <!ENTITY  unpinTab.accesskey                 "x">
 <!ENTITY  moveToGroup.label                  "Mută în grup">
@@ -52,7 +52,7 @@ can reach it easily. -->
 <!ENTITY  closeTab.label                     "Închide fila">
 <!ENTITY  closeTab.accesskey                 "c">
 
-<!ENTITY  listAllTabs.label      "Listă cu toate filele">
+<!ENTITY  listAllTabs.label      "Listează toate filele">
 
 <!ENTITY tabCmd.label "Filă nouă">
 <!ENTITY tabCmd.accesskey "F">
