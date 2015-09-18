@@ -80,7 +80,7 @@
 <!ENTITY inspectorHTMLDelete.label          "Șterge nodul">
 <!ENTITY inspectorHTMLDelete.accesskey      "n">
 
-<!ENTITY inspector.selectButton.tooltip     "Selectează elementul cu mausul">
+<!ENTITY inspector.selectButton.tooltip     "Selectează elementul cu mouse">
 <!-- LOCALIZATION NOTE (inspectorSearchHTML.label2): This is the label shown as
      the placeholder in inspector search box -->
 
