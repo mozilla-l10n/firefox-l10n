@@ -24,10 +24,10 @@
 <!ENTITY crash_reporter_title "Hlášení pádů">
 <!ENTITY crash_message2 "Aplikace &brandShortName; spadla. Po restartu aplikace &brandShortName; budou otevřené panely uvedeny na startovní stránce.">
 <!ENTITY crash_send_report_message3 "Odeslat organizaci &vendorShortName; hlášení o pádu, aby jej mohla opravit">
-<!ENTITY crash_include_url2 "Zahrnout adresu stránky, kde jsem se nacházel(a)">
+<!ENTITY crash_include_url2 "Zahrnout adresu stránky, kde jsem se nacházeli">
 <!ENTITY crash_sorry "Omlouváme se">
 <!ENTITY crash_comment "Přidat komentář (komentáře jsou veřejně dostupné)">
-<!ENTITY crash_allow_contact2 "Povolit organizaci &vendorShortName;, aby mě v souvislosti s tímto hlášením kontaktoval(a)">
+<!ENTITY crash_allow_contact2 "Povolit organizaci &vendorShortName;, aby mě v souvislosti s tímto hlášením kontaktovala">
 <!ENTITY crash_email "Váš e-mail">
 <!ENTITY crash_closing_alert "Ukončit bez odeslání hlášení o pádu?">
 <!ENTITY sending_crash_report "Odesílání hlášení o pádu\u2026">
