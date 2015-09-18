@@ -108,5 +108,5 @@
 <!ENTITY closeCmd.key         "W">
 <!ENTITY findCmd.key          "F">
 <!ENTITY clearOutputCtrl.key  "L">
-
-
+<!ENTITY openInVarViewCmd.label "Atverti kintamųjų rodinyje">
+<!ENTITY openInVarViewCmd.accesskey "k">
