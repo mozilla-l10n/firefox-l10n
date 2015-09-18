@@ -168,6 +168,8 @@
 <!ENTITY debuggerUI.seMenuCondBreak.key "B">
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
+
+<!ENTITY debuggerUI.tabs.workers        "Scenarijai">
 <!ENTITY debuggerUI.tabs.sources        "Ištekliai">
 <!ENTITY debuggerUI.tabs.traces         "Pėdsakai">
 <!ENTITY debuggerUI.tabs.callstack      "Kreipinių dėklas">
