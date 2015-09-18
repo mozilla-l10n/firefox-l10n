@@ -388,7 +388,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "K">
 <!ENTITY urlbar.switchToTab.label     "Kalo te skeda:">
 
-<!ENTITY urlbar.searchSuggestionsNotification.question "Do të donit të përmirësoheshin kërkimet tuaj me këshillime?">
+<!ENTITY urlbar.searchSuggestionsNotification.question "Do të donit të përmirësoheshin kërkimet tuaja me këshillime?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Mësoni më tepër…">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Jo">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Po">

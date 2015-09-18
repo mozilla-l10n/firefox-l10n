@@ -69,8 +69,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.beforename.label "Ju lutemi, bëni hyrjen që të rilidheni">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
-<!ENTITY notSignedIn.label           "You are not signed in.">
-<!ENTITY signIn.label                "Sign in">
+<!ENTITY notSignedIn.label           "Nuk jeni i futur.">
+<!ENTITY signIn.label                "Hyni">
 <!ENTITY notSignedIn.label           "Nuk jeni i futur.">
 <!ENTITY signIn.label                "Hyni">
 <!ENTITY profilePicture.tooltip      "Ndryshoni foto profili">
