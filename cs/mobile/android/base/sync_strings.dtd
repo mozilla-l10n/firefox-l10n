@@ -229,6 +229,7 @@
 <!ENTITY fxaccount_remove_account_toast "Účet Firefoxu &formatS; byl odebrán.">
 
 <!ENTITY fxaccount_remove_account_menu_item "Odebrat účet">
+<!ENTITY fxaccount_enable_debug_mode "Povolit ladící mód">
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox account. Don't localize this. -->
