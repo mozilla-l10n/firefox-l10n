@@ -22,7 +22,7 @@
 <!ENTITY  switch_to_tab "Comută la filă">
 
 <!ENTITY  crash_reporter_title "Raportor de defecțiuni &brandShortName;">
-<!ENTITY  crash_message2 "&brandShortName; a avut o problemă și s-a închis neașteptat. Filele ar trebui să fie listate pe pagina de start &brandShortName; după ce repornești browserul.">
+<!ENTITY  crash_message2 "&brandShortName; a întâlnit o problemă și s-a închis neașteptat. Filele ar trebui să fie listate pe pagina de start &brandShortName; după ce repornești browserul.">
 <!ENTITY  crash_send_report_message3 "Notifică &vendorShortName; despre această defecțiune astfel încât să o poată remedia">
 <!ENTITY  crash_include_url2 "Include adresa paginii pe care am fost">
 <!ENTITY  crash_sorry "Ne pare rău">
@@ -279,7 +279,7 @@ size. -->
 <!ENTITY pref_private_data_cookies2 "Cookie-uri și autentificări active">
 <!ENTITY pref_private_data_passwords2 "Autentificări salvate">
 <!ENTITY pref_private_data_cache "Cache">
-<!ENTITY pref_private_data_offlineApps "Datele site-urilor offline">
+<!ENTITY pref_private_data_offlineApps "Date offline ale site-urilor web">
 <!ENTITY pref_private_data_siteSettings2 "Setările site-urilor">
 <!ENTITY pref_private_data_downloadFiles2 "Descărcări">
 <!ENTITY pref_private_data_syncedTabs "File sincronizate">
@@ -381,7 +381,7 @@ size. -->
 <!ENTITY contextmenu_remove "Elimină">
 <!ENTITY contextmenu_add_to_launcher "Adaugă la ecran principal">
 <!ENTITY contextmenu_share "Împărtășește">
-<!ENTITY contextmenu_pasteandgo "Inserează și accesează">
+<!ENTITY contextmenu_pasteandgo "Lipește și accesează">
 <!ENTITY contextmenu_paste "Lipește">
 <!ENTITY contextmenu_copyurl "Copiază adresa">
 <!ENTITY contextmenu_edit_bookmark "Editează">

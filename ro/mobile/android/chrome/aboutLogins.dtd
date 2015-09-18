@@ -6,4 +6,4 @@
 <!ENTITY aboutLogins.title                       "Autentificări">
 <!ENTITY aboutLogins.update                      "Actualizează">
 <!ENTITY aboutLogins.emptyLoginText              "Securizează datele de autentificare">
-<!ENTITY aboutLogins.emptyLoginHint              "Datele de autentificare salvate cu ajutorul &brandShortName; apar aici.">
+<!ENTITY aboutLogins.emptyLoginHint              "Datele de autentificare salvate cu ajutorul &brandShortName; vor apărea aici.">
