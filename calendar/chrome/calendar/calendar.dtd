@@ -7,10 +7,10 @@
 <!ENTITY calendar.calendar.accesskey "C">
 
 <!ENTITY calendar.newevent.button.tooltip         "Crear in nov eveniment" >
-<!ENTITY calendar.newtask.button.tooltip          "Crear in nov pensum" >
+<!ENTITY calendar.newtask.button.tooltip          "Crear ina nova incumbensa" >
 
-<!ENTITY calendar.unifinder.todoitems.label       "Pensums" >
-<!ENTITY calendar.unifinder.showcompletedtodos.label "Mussar ils pensums cumplettads">
+<!ENTITY calendar.unifinder.todoitems.label       "Incumbensas" >
+<!ENTITY calendar.unifinder.showcompletedtodos.label "Mussar las incumbensas cumplettadas">
 
 <!ENTITY calendar.today.button.label          "Oz">
 <!ENTITY calendar.tomorrow.button.label       "Damaun">
@@ -86,7 +86,7 @@
 <!ENTITY calendar.navigation.prevmonth.tooltip  "In mais enavos" >
 
 <!ENTITY calendar.newevent.button.label         "Nov eveniment" >
-<!ENTITY calendar.newtask.button.label          "Nov pensum" >
+<!ENTITY calendar.newtask.button.label          "Nova incumbensa" >
 <!ENTITY calendar.print.button.label            "Stampar" >
 <!ENTITY calendar.print.button.accesskey        "S">
 
@@ -96,9 +96,9 @@
 <!ENTITY calendar.multiweek.button.label        "Pliras emnas" >
 <!ENTITY calendar.onlyworkday.checkbox.label    "Be dis da lavur" >
 <!ENTITY calendar.onlyworkday.checkbox.accesskey  "l" >
-<!ENTITY calendar.displaytodos.checkbox.label   "Pensums en vista" >
+<!ENTITY calendar.displaytodos.checkbox.label   "Incumbensas en vista" >
 <!ENTITY calendar.displaytodos.checkbox.accesskey "u" >
-<!ENTITY calendar.completedtasks.checkbox.label     "Mussar ils pensums cumpletads" >
+<!ENTITY calendar.completedtasks.checkbox.label     "Mussar las incumbensas cumplettadas" >
 <!ENTITY calendar.completedtasks.checkbox.accesskey "c" >
 
 <!ENTITY calendar.orientation.label "Rotar la vista" >
@@ -115,13 +115,13 @@
 <!ENTITY calendar.task.filter.today.accesskey       "O">
 <!ENTITY calendar.task.filter.next7days.label       "Proxims set dis">
 <!ENTITY calendar.task.filter.next7days.accesskey   "P">
-<!ENTITY calendar.task.filter.notstarted.label      "Pensums betg cumenzads">
+<!ENTITY calendar.task.filter.notstarted.label      "Incumbensas betg cumenzadas">
 <!ENTITY calendar.task.filter.notstarted.accesskey  "P">
-<!ENTITY calendar.task.filter.overdue.label         "Pensums en retard">
+<!ENTITY calendar.task.filter.overdue.label         "Incumbensas en retard">
 <!ENTITY calendar.task.filter.overdue.accesskey     "P">
-<!ENTITY calendar.task.filter.completed.label       "Pensums cumpletads">
+<!ENTITY calendar.task.filter.completed.label       "Incumbensas cumplettadas">
 <!ENTITY calendar.task.filter.completed.accesskey   "P">
-<!ENTITY calendar.task.filter.open.label            "Pensums nuncumplets">
+<!ENTITY calendar.task.filter.open.label            "Incumbensa nuncumplettas">
 <!ENTITY calendar.task.filter.open.accesskey        "m">
 
 <!-- LOCALIZATION NOTE(calendar.task.filter.current.label)
@@ -129,7 +129,7 @@
      that is after today and after the selected date. If a task repeats, a
      separate entry will be shown for each of the occurrences that happen on or
      before today (or the selected date, whichever is later). -->
-<!ENTITY calendar.task.filter.current.label         "Pensums actuals">
+<!ENTITY calendar.task.filter.current.label         "Incumbensas actualas">
 <!ENTITY calendar.task.filter.current.accesskey     "l">
 
 <!ENTITY calendar.task-details.title.label           "titel">
@@ -145,24 +145,24 @@
 <!ENTITY calendar.task-details.start.label           "data da cumenzament">
 <!ENTITY calendar.task-details.due.label             "data da scadenza">
 
-<!ENTITY calendar.task.category.button.tooltip  "Categorisar ils pensums">
-<!ENTITY calendar.task.complete.button.tooltip  "Marcar ils pensums tschernids sco cumplettads">
+<!ENTITY calendar.task.category.button.tooltip  "Categorisar las incumbensas">
+<!ENTITY calendar.task.complete.button.tooltip  "Marcar las incumbensas tschernidas sco cumplettadas">
 <!ENTITY calendar.task.priority.button.tooltip  "Midar la prioritad">
 
-<!ENTITY calendar.task.text-filter.textbox.emptytext.base            "Filtrar ils pensums … #1">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.base            "Filtrar las incumbensas… #1">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Shift+K&gt;">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
 
 <!-- Context Menu -->
 <!ENTITY calendar.context.modifyorviewitem.label      "Avrir">
 <!ENTITY calendar.context.modifyorviewitem.accesskey  "A">
-<!ENTITY calendar.context.modifyorviewtask.label      "Avrir in pensum…">
+<!ENTITY calendar.context.modifyorviewtask.label      "Avrir ina incumbensa…">
 <!ENTITY calendar.context.modifyorviewtask.accesskey  "A">
 <!ENTITY calendar.context.newevent.label              "Nov eveniment…">
 <!ENTITY calendar.context.newevent.accesskey          "N">
-<!ENTITY calendar.context.newtodo.label               "Nov pensum…">
+<!ENTITY calendar.context.newtodo.label               "Nova incumbensa…">
 <!ENTITY calendar.context.newtodo.accesskey           "u">
-<!ENTITY calendar.context.deletetask.label            "Stizzar il pensum">
+<!ENTITY calendar.context.deletetask.label            "Stizzar l'incumbensa">
 <!ENTITY calendar.context.deletetask.accesskey        "z">
 <!ENTITY calendar.context.deleteevent.label           "Stizzar l'eveniment">
 <!ENTITY calendar.context.deleteevent.accesskey       "z">
@@ -184,7 +184,7 @@
 <!ENTITY calendar.context.progress.accesskey          "P">
 <!ENTITY calendar.context.priority.label              "Prioritad">
 <!ENTITY calendar.context.priority.accesskey          "P">
-<!ENTITY calendar.context.postpone.label              "Spustar il pensum">
+<!ENTITY calendar.context.postpone.label              "Spustar l'incumbensa">
 <!ENTITY calendar.context.postpone.accesskey          "s">
 
 <!ENTITY percnt "&#38;#37;" ><!--=percent sign-->
@@ -273,7 +273,7 @@
 <!ENTITY calendar.context.convertmenu.event.accesskey    "O">
 <!ENTITY calendar.context.convertmenu.message.label      "Messadi…">
 <!ENTITY calendar.context.convertmenu.message.accesskey  "M">
-<!ENTITY calendar.context.convertmenu.task.label         "Pensum…">
+<!ENTITY calendar.context.convertmenu.task.label         "Incumbensa…">
 <!ENTITY calendar.context.convertmenu.task.accesskey     "P">
 
 <!ENTITY calendar.tasks.view.minimonth.label           "Mini-mais">
@@ -371,4 +371,4 @@
 <!ENTITY calendar.extract.event.button         "Agiuntar sco eveniment">
 <!ENTITY calendar.extract.task.button          "Agiuntar sco incumbensa">
 <!ENTITY calendar.extract.event.button.tooltip "Extrair infurmaziuns da chalender ord il messadi e las agiuntar a tes chalender sco eveniment">
-<!ENTITY calendar.extract.task.button.tooltip  "Extrair infurmaziuns da chalender ord il messadi e las agiuntar a tes chalender sco incumbensa ">
+<!ENTITY calendar.extract.task.button.tooltip  "Extrair infurmaziuns da chalender ord il messadi e las agiuntar a tes chalender sco incumbensa">

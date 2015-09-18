@@ -4,7 +4,7 @@
 
 <!ENTITY lightning.toolbar.calendar.name "Trav d'utensils dal chalender">
 <!ENTITY lightning.toolbar.calendar.name.accesskey "C">
-<!ENTITY lightning.toolbar.task.name "Trav d'utensils da pensums">
+<!ENTITY lightning.toolbar.task.name "Trav d'utensils dad incumbensas">
 <!ENTITY lightning.toolbar.task.name.accesskey "T">
 
 <!ENTITY lightning.toolbar.sync.label "Sincronisar">
@@ -22,15 +22,15 @@
 <!ENTITY lightning.toolbar.calendar.label     "Chalender">
 <!ENTITY lightning.toolbar.calendar.tooltip   "Midar al tab dal chalender">
 <!ENTITY lightning.toolbar.calendar.accesskey "C">
-<!ENTITY lightning.toolbar.task.label         "Pensums">
-<!ENTITY lightning.toolbar.task.tooltip       "Midar al tab da pensums">
+<!ENTITY lightning.toolbar.task.label         "Incumbensas">
+<!ENTITY lightning.toolbar.task.tooltip       "Midar al tab dad incumbensas">
 <!ENTITY lightning.toolbar.task.accesskey     "P">
 
 <!-- Toolbar write button -->
 <!ENTITY lightning.toolbar.newevent.label     "Eveniment">
 <!ENTITY lightning.toolbar.newevent.tooltip   "Crear in nov eveniment">
-<!ENTITY lightning.toolbar.newtask.label      "Pensum">
-<!ENTITY lightning.toolbar.newtask.tooltip    "Crear in nov pensum">
+<!ENTITY lightning.toolbar.newtask.label      "Incumbensa">
+<!ENTITY lightning.toolbar.newtask.tooltip    "Crear ina nova incumbensa">
 
 <!-- Calendar and Task Mode Toolbar -->
 <!ENTITY lightning.toolbar.day.label                 "Di">

@@ -6,7 +6,7 @@
 <!ENTITY event.new.event                        "Nov eveniment…">
 <!ENTITY event.new.event.accesskey              "N">
 
-<!ENTITY event.new.task                         "Nov pensum…">
+<!ENTITY event.new.task                         "Nova incumbensa…">
 <!ENTITY event.new.task.accesskey               "m">
 
 <!ENTITY calendar.import.label                  "Importar…">
@@ -37,7 +37,7 @@
 <!ENTITY showUnifinderCmd.accesskey             "C">
 <!ENTITY showUnifinderCmd.tooltip               "Mussar/zuppentar la lastra per chattar eveniments">
 
-<!ENTITY calendar.displaytodos.checkbox.label       "Mussar pensums en il chalender">
+<!ENTITY calendar.displaytodos.checkbox.label       "Mussar incumbensas en il chalender">
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "p">
 
 <!ENTITY goTodayCmd.label                       "Oz">

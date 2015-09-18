@@ -13,7 +13,7 @@
 <!-- New menu popup in File menu -->
 <!ENTITY lightning.menupopup.new.event.label    "Eveniment…">
 <!ENTITY lightning.menupopup.new.event.accesskey "O">
-<!ENTITY lightning.menupopup.new.task.label     "Pensum…">
+<!ENTITY lightning.menupopup.new.task.label     "Incumbensa…">
 <!ENTITY lightning.menupopup.new.task.accesskey "P">
 <!ENTITY lightning.menupopup.new.calendar.label "Chalendar…">
 <!ENTITY lightning.menupopup.new.calendar.accesskey "n">
@@ -29,7 +29,7 @@
 <!-- View Menu -->
 <!ENTITY lightning.menu.view.calendar.label            "Chalender">
 <!ENTITY lightning.menu.view.calendar.accesskey        "n">
-<!ENTITY lightning.menu.view.tasks.label               "Pensums">
+<!ENTITY lightning.menu.view.tasks.label               "Incumbensas">
 <!ENTITY lightning.menu.view.tasks.accesskey           "u">
 
 <!-- Events and Tasks menu -->

@@ -56,7 +56,7 @@
 <!ENTITY  event.menu.item.new.accesskey                   "N">
 <!ENTITY  event.menu.item.new.event.label                 "Eveniment">
 <!ENTITY  event.menu.item.new.event.accesskey             "O">
-<!ENTITY  event.menu.item.new.task.label                  "Pensum">
+<!ENTITY  event.menu.item.new.task.label                  "Incumbensa">
 <!ENTITY  event.menu.item.new.task.accesskey              "P">
 <!ENTITY  event.menu.item.new.message.label               "Messadi">
 <!ENTITY  event.menu.item.new.message.accesskey           "M">

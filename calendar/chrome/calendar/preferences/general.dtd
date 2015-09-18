@@ -19,7 +19,7 @@
 
 <!ENTITY pref.defaults.label "Valurs da standard per novs elements">
 <!ENTITY pref.events.label "Eveniments">
-<!ENTITY pref.tasks.label "Pensums">
+<!ENTITY pref.tasks.label "Incumbensas">
 
 <!ENTITY pref.default_event_length.label "Durada da standard:" >
 <!ENTITY pref.default_event_length.accesskey "t">
