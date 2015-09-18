@@ -312,7 +312,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyImageAsDataUri.accesskey): This is the access key
   -  for the Copy Image As Data URI menu item displayed in the context menu for a request -->
 
-<!ENTITY netmonitorUI.context.copyImageAsDataUri.accesskey  "d">
+<!ENTITY netmonitorUI.context.copyImageAsDataUri.accesskey  "I">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyAllAsHar): This is the label displayed
   -  on the context menu that copies all as HAR format -->
 
