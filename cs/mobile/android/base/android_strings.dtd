@@ -486,7 +486,7 @@ size. -->
 <!ENTITY home_title "Úvodní stránka &brandShortName;">
 <!ENTITY home_history_title "Historie">
 <!ENTITY home_clear_history_button "Vymazat historii prohlížení">
-<!ENTITY home_clear_history_confirm "Jste si jist(a), že chcete vymazat svou historii?">
+<!ENTITY home_clear_history_confirm "Opravdu chcete vymazat svou historii?">
 <!ENTITY home_bookmarks_empty "Záložky, které uložíte, se zobrazí zde.">
 <!ENTITY home_closed_tabs_title "Nedávno zavřené panely">
 <!ENTITY home_last_tabs_title "Panely z minula">
