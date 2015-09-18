@@ -7,6 +7,7 @@
 <!ENTITY importFrom.label "Importo Mundësi, Faqerojtës, Historik, Fjalëkalime dhe të dhëna të tjera prej:">
 <!ENTITY importFromBookmarks.label "Importo Faqerojtës prej:">
 <!ENTITY importFromIE.accesskey "M">
+
 <!ENTITY importFromIE.label "Microsoft Internet Explorer">
 <!ENTITY importFromNothing.accesskey "J">
 <!ENTITY importFromNothing.label "Mos importo gjë">
