@@ -88,7 +88,7 @@
 <!ENTITY bookmarks.folder.toolbar.label "Bara pentru semne de carte">
 <!ENTITY bookmarks.folder.unfiled.label "Semne de carte nesortate">
 <!ENTITY bookmarks.folder.desktop.label "Semne de carte de pe desktop">
-<!ENTITY bookmarks.folder.mobile.label "Semne de carte de pe mobil">
+<!ENTITY bookmarks.folder.mobile.label "Semne de carte mobile">
 <!ENTITY bookmarks.folder.readinglist.label "Listă de citit">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "Fixat">
