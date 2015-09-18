@@ -197,7 +197,7 @@
 <!ENTITY logs_title "Paruošimo komandų žurnalas">
 <!-- Simulator Options -->
 
-<!ENTITY simulator_title "Simuliatoriaus parinktys">
+<!ENTITY simulator_title "Simuliatoriaus nuostatos">
 <!ENTITY simulator_remove "Pašalinti simuliatorių">
 <!ENTITY simulator_reset "Grąžinti numatytąsias nuostatas">
 <!ENTITY simulator_name "Pavadinimas">
