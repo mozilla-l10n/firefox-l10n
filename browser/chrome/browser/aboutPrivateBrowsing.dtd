@@ -25,14 +25,14 @@
 <!ENTITY aboutPrivateBrowsing.subtitle         "Ο &brandShortName; δεν θα αποθηκεύσει ιστορικό για αυτό το παράθυρο.">
 
 <!ENTITY aboutPrivateBrowsing.forgotten        "Σε αυτό το παράθυρο, ο &brandShortName; δεν θα διατηρήσει:">
-<!ENTITY aboutPrivateBrowsing.info.forgotten   "Μη αποθηκευμένα δεδομένα">
+<!ENTITY aboutPrivateBrowsing.info.forgotten   "Δεν αποθηκεύονται">
 <!ENTITY aboutPrivateBrowsing.info.history     "Ιστορικό">
 <!ENTITY aboutPrivateBrowsing.info.searches    "Αναζητήσεις">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Cookies">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Προσωρινά αρχεία">
 
 <!ENTITY aboutPrivateBrowsing.kept             "Ο &brandShortName; θα διατηρήσει:">
-<!ENTITY aboutPrivateBrowsing.info.kept        "Αποθηκευμένα δεδομένα">
+<!ENTITY aboutPrivateBrowsing.info.kept        "Αποθηκεύονται">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Λήψεις">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Σελιδοδείκτες">
 
@@ -47,7 +47,7 @@
      Note that the required space may vary between platforms because fonts are
      different, so testing on Windows, Mac, and Linux is encouraged.
      -->
-<!ENTITY trackingProtection.title              "Προστασία Εντοπισμού">
+<!ENTITY trackingProtection.title              "Προστασία Δεδομένων Περιήγησης">
 
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
@@ -58,6 +58,6 @@
 
 <!ENTITY trackingProtection.description1       "Από τώρα τα παράθυρα ιδιωτικής περιήγησης θα εμποδίζουν τμήματα των ιστοσελίδων που προσπαθούν να καταγράψουν τη δραστηριότητά σας.">
 
-<!ENTITY trackingProtection.disable            "Απενεργοποίηση προστασίας εντοπισμού">
-<!ENTITY trackingProtection.enable             "Ενεργοποίηση προστασίας εντοπισμού">
+<!ENTITY trackingProtection.disable            "Απενεργοποίηση προστασίας δεδομένων περιήγησης">
+<!ENTITY trackingProtection.enable             "Ενεργοποίηση προστασίας δεδομένων περιήγησης">
 <!ENTITY trackingProtection.startTour1         "Δείτε πως λειτουργεί">
