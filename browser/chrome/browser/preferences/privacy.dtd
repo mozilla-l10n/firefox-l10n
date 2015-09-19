@@ -4,14 +4,15 @@
 
 <!ENTITY tracking.label                 "Следене">
 
-
+<!ENTITY dntTrackingNotOkay4.label     "Искане до сайтовете да не ви проследяват">
+<!ENTITY dntTrackingNotOkay4.accesskey "п">
 <!ENTITY doNotTrackInfo.label          "Научете повече">
-
-
-
-
-
-
+<!ENTITY trackingProtection5.label     "Използване на защитата от проследяване">
+<!ENTITY trackingProtection5.accesskey "з">
+<!ENTITY trackingProtectionLearnMore.label "Научете повече">
+<!ENTITY trackingProtectionPBM5.label         "Използване на защитата от проследяване при поверителните прозорци">
+<!ENTITY trackingProtectionPBM5.accesskey     "п">
+<!ENTITY trackingProtectionPBMLearnMore.label "Научете повече">
 
 <!ENTITY  history.label                 "История">
 
