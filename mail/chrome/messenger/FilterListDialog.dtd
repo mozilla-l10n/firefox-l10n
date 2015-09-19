@@ -9,8 +9,8 @@
 <!ENTITY newButton.accesskey "N">
 <!ENTITY editButton.label "Editar...">
 <!ENTITY editButton.accesskey "E">
-<!ENTITY deleteButton.label "Eliminar">
-<!ENTITY deleteButton.accesskey "l">
+<!ENTITY deleteButton.label "Apagar">
+<!ENTITY deleteButton.accesskey "A">
 <!ENTITY reorderTopButton "Mover para o topo">
 <!ENTITY reorderTopButton.accessKey "o">
 <!ENTITY reorderTopButton.toolTip "Arranjar filtro para que seja executado antes de todos os outros">

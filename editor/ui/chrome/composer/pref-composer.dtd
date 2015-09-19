@@ -20,8 +20,8 @@
 <!ENTITY  showPublishDialog.label       "Mostrar sempre a janela de publicação ao publicar páginas">
 <!ENTITY  showPublishDialog.accesskey   "a">
 <!ENTITY  composerEditing.label         "Editar">
-<!ENTITY  maintainStructure.label       "Manter esquema da tabela ao inserir ou eliminar células">
-<!ENTITY  maintainStructure.tooltip     "Manter forma retangular da tabela ao adicionar células automaticamente após inserir ou eliminar células">
+<!ENTITY  maintainStructure.label       "Manter esquema da tabela ao inserir ou remover células">
+<!ENTITY  maintainStructure.tooltip     "Manter forma retangular da tabela ao adicionar células automaticamente após inserir ou remover células">
 <!ENTITY  maintainStructure.accesskey   "M">
 <!ENTITY  useCSS.label                  "Utilizar estilos CSS em vez de elementos e atributos HTML">
 <!ENTITY  useCSS.accesskey              "U">
