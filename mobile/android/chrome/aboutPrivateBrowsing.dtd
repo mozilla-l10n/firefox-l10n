@@ -2,12 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                  "Shfletim Privat">
+<!ENTITY privatebrowsingpage.title "Shfletim Privat">
+<!ENTITY privatebrowsingpage.title.normal "S&apos;gjendeni nën shfletim privat">
 
-<!ENTITY privatebrowsingpage.issueDesc.private      "Keni hapur një skedë të re private.">
-<!ENTITY privatebrowsingpage.issueDesc.normal       "Nuk jeni në një skedë private.">
+<!ENTITY privatebrowsingpage.issueDesc.normal2 "Nën shfletim privat, s&apos;do të ruajmë gjë nga historiku juaj i shfletimeve apo cookies.">
+<!ENTITY privatebrowsingpage.issueDesc.private2 "S&apos;do të ruajmë gjë nga historiku juaj i shfletimeve apo cookies.">
 
-<!ENTITY privatebrowsingpage.description            "Në skedat private, &brandShortName;-u nuk do të ruajë ndonjë historik shfletimesh, hitorik kërkimesh, historik shkarkimesh, historik plotësimesh formularësh web, cookies, ose kartela të përkohshme internet. Por, kartelat që shkarkoni dhe faqerojtësit që krijoni, do të ruhen.">
-<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+<!ENTITY privatebrowsingpage.description2 "Por faqerojtësit që shtoni dhe kartelat që shkarkoni do të ruhen në pajisjen tuaj.">
+<!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
+<!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
 
-<!ENTITY privatebrowsingpage.moreInfo               "Edhe pse kjo pajisje nuk do të ketë gjë të regjistruar lidhur me historikun e shfletimeve tuaja, mundësuesi juaj i shërbimeve internet mundet prapëseprapë të ndjekë faqet që vizitoni.">
+<!ENTITY privatebrowsingpage.link.private "Doni të mësoni më tepër?">
+<!ENTITY privatebrowsingpage.link.normal "Hapni një skedë të re private">
