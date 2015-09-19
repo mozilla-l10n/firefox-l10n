@@ -9,6 +9,11 @@
 <!ENTITY onboard_start_button_account "Accedi a &brandShortName;">
 <!ENTITY onboard_start_button_browser "Inizia a navigare">
 <!ENTITY onboard_start_restricted1 "Sicurezza e controllo garantiti grazie a questa versione semplificata di &brandShortName;.">
+<!ENTITY firstrun_import_title "Importa">
+<!ENTITY firstrun_import_message "Benvenuto in &brandShortName;">
+<!ENTITY firstrun_import_subtext "Importa segnalibri e cronologia da un altro browser.">
+<!ENTITY firstrun_import_action "Trasferisci in &brandShortName;">
+<!ENTITY firstrun_import_dialog_button "Avvia">
 <!ENTITY bookmarks_title "Segnalibri">
 <!ENTITY home_title "&brandShortName; Home">
 <!ENTITY history_title "Cronologia">
@@ -329,7 +334,6 @@
 <!ENTITY button_set "Imposta">
 <!ENTITY button_clear "Cancella">
 <!ENTITY button_copy "Copia">
-<!ENTITY firstrun_panel_title_welcome "Benvenuto">
 <!ENTITY home_top_sites_title "Siti principali">
 <!ENTITY home_top_sites_add "Aggiungi un sito">
 <!ENTITY home_history_title "Cronologia">
