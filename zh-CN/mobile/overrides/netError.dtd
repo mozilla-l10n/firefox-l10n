@@ -138,7 +138,7 @@
 <!ENTITY corruptedContentError.longDesc "<p>您尝试查看的页面无法显示，因为检测到一个数据传输错误。</p><ul><li>请联系网站所有者告知此问题。</li></ul>">
 
 <!ENTITY securityOverride.linkText "或者，您可以添加一个例外…">
-<!ENTITY securityOverride.getMeOutOfHereButton "让我离开这里！">
+<!ENTITY securityOverride.getMeOutOfHereButton "带我离开！">
 <!ENTITY securityOverride.exceptionButtonLabel "添加例外…">
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,

@@ -114,7 +114,7 @@
 <!ENTITY corruptedContentError.longDesc "<p>您要查看的该页面无法显示，因为检测到数据传输错误。</p><ul><li>请联系网站所有者通知他们这个问题。</li></ul>">
 
 <!ENTITY securityOverride.linkText "或者，您可以添加一个例外…">
-<!ENTITY securityOverride.getMeOutOfHereButton "让我离开！">
+<!ENTITY securityOverride.getMeOutOfHereButton "带我离开！">
 <!ENTITY securityOverride.exceptionButtonLabel "添加例外…">
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
