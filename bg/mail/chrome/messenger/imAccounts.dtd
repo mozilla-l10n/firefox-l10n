@@ -29,4 +29,4 @@
 <!ENTITY account.copyDebugLog.accesskey "К">
 <!ENTITY account.connecting           "Свързване…">
 <!ENTITY account.disconnecting        "Изключване…">
-<!ENTITY account.disconnected         "Няма свързване">
+<!ENTITY account.disconnected         "Не е свързано">

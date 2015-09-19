@@ -15,5 +15,6 @@
 <!ENTITY aboutSupport.accountsConnSecurity "Сигурност на връзката">
 <!ENTITY aboutSupport.accountsAuthMethod "Метод за удостоверяване">
 <!ENTITY aboutSupport.accountsDefault "По подразбиране?">
+<!ENTITY aboutSupport.identityName "Идентичност">
 
 <!ENTITY aboutSupport.sendViaEmail.label "Изпращане чрез е-поща">
