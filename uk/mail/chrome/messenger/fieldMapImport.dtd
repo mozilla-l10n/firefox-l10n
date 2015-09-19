@@ -2,19 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY fieldMapImport.title "Import Address Book">
+<!ENTITY fieldMapImport.title "Імпорт адресної книги">
 <!ENTITY fieldMapImport.size "width: 40em; height: 30em;">
-<!ENTITY fieldMapImport.recordNumber "Imported data for Record: ">
-<!ENTITY fieldMapImport.next.label "Next">
-<!ENTITY fieldMapImport.next.accesskey "N">
-<!ENTITY fieldMapImport.previous.label "Previous">
-<!ENTITY fieldMapImport.previous.accesskey "P">
-<!ENTITY fieldMapImport.text "Use Move Up and Move Down to match the address book fields on the left to the correct data for import on the right. Uncheck items you do not want to import.">
-<!ENTITY fieldMapImport.up.label "Move Up">
-<!ENTITY fieldMapImport.up.accesskey "U">
-<!ENTITY fieldMapImport.down.label "Move Down">
-<!ENTITY fieldMapImport.down.accesskey "D">
-<!ENTITY fieldMapImport.fieldListTitle "Address Book fields">
-<!ENTITY fieldMapImport.dataTitle "Record data to import">
-<!ENTITY fieldMapImport.skipFirstRecord.label "First record contains field names">
-<!ENTITY fieldMapImport.skipFirstRecord.accessKey "F">
+<!ENTITY fieldMapImport.recordNumber "Запис:">
+<!ENTITY fieldMapImport.next.label "Далі">
+<!ENTITY fieldMapImport.next.accesskey "Д">
+<!ENTITY fieldMapImport.previous.label "Назад">
+<!ENTITY fieldMapImport.previous.accesskey "з">
+<!ENTITY fieldMapImport.text "Використовуйте кнопки «Вгору» та «Вниз», щоб впорядкувати адресні книжки зліва відповідно до імпортованих даних справа. Зніміть прапорці з даних, які ви не хочете імпортувати.">
+<!ENTITY fieldMapImport.up.label "Вгору">
+<!ENTITY fieldMapImport.up.accesskey "г">
+<!ENTITY fieldMapImport.down.label "Донизу">
+<!ENTITY fieldMapImport.down.accesskey "н">
+<!ENTITY fieldMapImport.fieldListTitle "Поля адресної книги">
+<!ENTITY fieldMapImport.dataTitle "Дані записів для імпорту">
+<!ENTITY fieldMapImport.skipFirstRecord.label "Перший запис містить назви полів">
+<!ENTITY fieldMapImport.skipFirstRecord.accessKey "П">

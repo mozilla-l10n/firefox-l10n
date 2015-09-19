@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label     "Check Image and Link Locations">
-<!ENTITY succeeded.label       "Succeeded">
-<!ENTITY failed.label          "Failed">
-<!ENTITY closeButton.label     "Close">
+<!ENTITY windowTitle.label     "Перевірити знаходження зображення та посилання">
+<!ENTITY succeeded.label       "Успіх">
+<!ENTITY failed.label          "Невдача">
+<!ENTITY closeButton.label     "Закрити">

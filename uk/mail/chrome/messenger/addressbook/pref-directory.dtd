@@ -3,15 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE (window.title) : do not translate "LDAP" in below line -->
-<!ENTITY pref.ldap.window.title    "LDAP Directory Servers">
+<!ENTITY pref.ldap.window.title    "Сервер каталогів LDAP">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
-<!ENTITY directories.label         "LDAP Directory Server:">
+<!ENTITY directories.label         "Сервер каталогів LDAP:">
 <!-- LOCALIZATION NOTE (directoriesText.label) : do not translate "LDAP" in below line -->
-<!ENTITY directoriesText.label     "Select an LDAP Directory Server:">
-<!ENTITY directoriesText.accesskey "S">
-<!ENTITY addDirectory.label        "Add">
-<!ENTITY addDirectory.accesskey    "a">
-<!ENTITY editDirectory.label       "Edit">
-<!ENTITY editDirectory.accesskey   "e">
-<!ENTITY deleteDirectory.label     "Delete">
-<!ENTITY deleteDirectory.accesskey "d">
+<!ENTITY directoriesText.label     "Виберіть сервер каталогів LDAP:">
+<!ENTITY directoriesText.accesskey "В">
+<!ENTITY addDirectory.label        "Додати">
+<!ENTITY addDirectory.accesskey    "Д">
+<!ENTITY editDirectory.label       "Змінити">
+<!ENTITY editDirectory.accesskey   "З">
+<!ENTITY deleteDirectory.label     "Вилучити">
+<!ENTITY deleteDirectory.accesskey "В">

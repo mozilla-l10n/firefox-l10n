@@ -2,43 +2,43 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY doNotDownloadPop3Movemail.label "To save disk space, do not download:">
-<!ENTITY doNotDownloadNntp.label "To save disk space, do not download for offline use:">
-<!ENTITY doNotDownloadImap.label "To save disk space, downloading messages from the server and keeping local copies for offline use can be restricted by age or size.">
-<!ENTITY allFoldersOffline.label "Keep messages for this account on this computer">
-<!ENTITY allFoldersOffline.accesskey "o">
-<!ENTITY offlineNotDownload.label "Messages larger than">
-<!ENTITY offlineNotDownload.accesskey "M">
-<!ENTITY autosyncNotDownload.label "Don't download messages larger than">
-<!ENTITY autosyncNotDownload.accesskey "m">
-<!ENTITY kb.label "KB">
-<!ENTITY daysOld.label "days old">
-<!ENTITY message.label "messages">
-<!ENTITY nntpNotDownloadRead.label "Read messages">
-<!ENTITY nntpNotDownloadRead.accesskey "d">
-<!ENTITY nntpDownloadMsg.label "Messages more than">
-<!ENTITY nntpDownloadMsg.accesskey "e">
-<!ENTITY retentionCleanup.label "To recover disk space, old messages can be permanently deleted.">
-<!ENTITY retentionCleanupImap.label "To recover disk space, old messages can be permanently deleted, both local copies and originals on the remote server.">
-<!ENTITY retentionCleanupPop.label "To recover disk space, old messages can be permanently deleted, including originals on the remote server.">
-<!ENTITY retentionKeepMsg.label "Delete messages more than">
-<!ENTITY retentionKeepMsg.accesskey "t">
-<!ENTITY retentionKeepAll.label "Don't delete any messages">
-<!ENTITY retentionKeepAll.accesskey "n">
-<!ENTITY retentionKeepRecent.label "Delete all but the most recent">
-<!ENTITY retentionKeepRecent.accesskey "b">
+<!ENTITY doNotDownloadPop3Movemail.label "Щоб зекономити місце на диску, не завантажувати:">
+<!ENTITY doNotDownloadNntp.label "Щоб зекономити місце на диску, не завантажувати для роботи в автономному режимі:">
+<!ENTITY doNotDownloadImap.label "Щоб зекономити місце на диску, на завантаження листів з сервера та зберігання локальних копій може бути накладене обмеження за віком та розміром.">
+<!ENTITY allFoldersOffline.label "Залишати листи облікового запису на цьому комп'ютері">
+<!ENTITY allFoldersOffline.accesskey "а">
+<!ENTITY offlineNotDownload.label "Листи, більші за">
+<!ENTITY offlineNotDownload.accesskey "Б">
+<!ENTITY autosyncNotDownload.label "Не завантажувати листи більші за">
+<!ENTITY autosyncNotDownload.accesskey "Б">
+<!ENTITY kb.label "Кбайт">
+<!ENTITY daysOld.label "днів">
+<!ENTITY message.label "листів">
+<!ENTITY nntpNotDownloadRead.label "Завантажувати тільки непрочитані листи">
+<!ENTITY nntpNotDownloadRead.accesskey "З">
+<!ENTITY nntpDownloadMsg.label "Листи тільки за останні">
+<!ENTITY nntpDownloadMsg.accesskey "о">
+<!ENTITY retentionCleanup.label "Для звільнення місця на диску старі листи можуть бути вилучені">
+<!ENTITY retentionCleanupImap.label "Щоб вивільнити місце на диску, старі листи можна стерти назавжди, як локальні копії, так і оригінали на віддаленому сервері.">
+<!ENTITY retentionCleanupPop.label "Щоб вивільнити місце на диску, старі листи можна стерти назавжди, включно з оригіналами на віддаленому сервері.">
+<!ENTITY retentionKeepMsg.label "Вилучати листи давніші за">
+<!ENTITY retentionKeepMsg.accesskey "д">
+<!ENTITY retentionKeepAll.label "Не вилучати листи">
+<!ENTITY retentionKeepAll.accesskey "Н">
+<!ENTITY retentionKeepRecent.label "Вилучати всі, крім останніх">
+<!ENTITY retentionKeepRecent.accesskey "к">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Always delete read messages (overrides age settings)">
-<!ENTITY retentionApplyToFlagged.label "Always keep starred messages">
-<!ENTITY retentionApplyToFlagged.accesskey "k">
-<!ENTITY nntpRemoveMsgBody.label "Remove bodies from messages more than">
-<!ENTITY nntpRemoveMsgBody.accesskey "o">
-<!ENTITY offlineSelectNntp.label "Select newsgroups for offline use…">
-<!ENTITY offlineSelectNntp.accesskey "S">
-<!ENTITY offlineImapAdvancedOffline.label "Advanced…">
-<!ENTITY offlineImapAdvancedOffline.accesskey "v">
-<!ENTITY syncGroupTitle.label "Message Synchronizing">
-<!ENTITY diskspaceGroupTitle.label "Disk Space">
+<!ENTITY retentionKeepUnreadHidden.label "Завжди вилучати прочитані листи (перекриває настройку давньості)">
+<!ENTITY retentionApplyToFlagged.label "Зберігати листи з зірочкою завжди">
+<!ENTITY retentionApplyToFlagged.accesskey "з">
+<!ENTITY nntpRemoveMsgBody.label "Вилучати тіла листів більші за">
+<!ENTITY nntpRemoveMsgBody.accesskey "б">
+<!ENTITY offlineSelectNntp.label "Виберіть групи новин для роботи в автономному режимі…">
+<!ENTITY offlineSelectNntp.accesskey "В">
+<!ENTITY offlineImapAdvancedOffline.label "Додатково…">
+<!ENTITY offlineImapAdvancedOffline.accesskey "о">
+<!ENTITY syncGroupTitle.label "Синхронізація листів">
+<!ENTITY diskspaceGroupTitle.label "Дисковий простір">
 
 <!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
   The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
@@ -46,13 +46,13 @@
 
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
-<!ENTITY allAutosync.label               "Synchronize all messages locally regardless of age">
-<!ENTITY allAutosync.accesskey           "c">
-<!ENTITY ageAutosyncBefore.label         "Synchronize the most recent">
-<!ENTITY ageAutosync.accesskey           "z">
+<!ENTITY allAutosync.label               "Синхронізувати всі листи локально, незважаючи на вік">
+<!ENTITY allAutosync.accesskey           "С">
+<!ENTITY ageAutosyncBefore.label         "Синхронізувати за останні">
+<!ENTITY ageAutosync.accesskey           "о">
 <!ENTITY ageAutosyncMiddle.label         "">
-<!ENTITY dayAgeInterval.label            "Days">
-<!ENTITY weekAgeInterval.label           "Weeks">
-<!ENTITY monthAgeInterval.label          "Months">
-<!ENTITY yearAgeInterval.label           "Years">
+<!ENTITY dayAgeInterval.label            "Днів">
+<!ENTITY weekAgeInterval.label           "Тижнів">
+<!ENTITY monthAgeInterval.label          "Місяців">
+<!ENTITY yearAgeInterval.label           "Років">
 <!ENTITY ageAutosyncAfter.label          "">
