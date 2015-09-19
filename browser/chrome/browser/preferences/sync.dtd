@@ -83,7 +83,7 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY welcome.useOldSync.label "Bruger du en ældre version af Sync?">
 
-<!ENTITY signedOut.caption            "Tag dig net med dig">
+<!ENTITY signedOut.caption            "Tag dit net med dig">
 <!ENTITY signedOut.description        "Synkroniser dine bogmærker, historik, faneblade, adgangskoder, tilføjelser og indstillinger mellem alle dine enheder.">
 <!ENTITY signedOut.accountBox.title   "Opret forbindelse med en &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Opret en konto">
