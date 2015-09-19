@@ -164,8 +164,8 @@
 <!ENTITY calendar.context.newtodo.accesskey           "v">
 <!ENTITY calendar.context.deletetask.label            "Apagar tarefa">
 <!ENTITY calendar.context.deletetask.accesskey        "A">
-<!ENTITY calendar.context.deleteevent.label           "Eliminar evento">
-<!ENTITY calendar.context.deleteevent.accesskey       "l">
+<!ENTITY calendar.context.deleteevent.label           "Apagar evento">
+<!ENTITY calendar.context.deleteevent.accesskey       "A">
 <!ENTITY calendar.context.cutevent.label              "Cortar">
 <!ENTITY calendar.context.cutevent.accesskey          "t">
 <!ENTITY calendar.context.copyevent.label             "Copiar">
