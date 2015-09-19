@@ -11,6 +11,9 @@
 <!ENTITY  onboard_start_button_account "Prihlásiť sa k &brandShortName;u">
 <!ENTITY  onboard_start_button_browser "Začať prehliadať">
 <!ENTITY  onboard_start_restricted1 "Buďte v bezpečí a majte veci pod kontrolou s touto zjednodušenou verziou prehliadača &brandShortName;.">
+<!ENTITY firstrun_button_next "Ďalej">
+
+<!ENTITY firstrun_import_progress_title "Prenáša sa">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
