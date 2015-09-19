@@ -15,7 +15,7 @@
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
 
-<!ENTITY rights.intro-point1a "&brandShortName; vă este disponibil sub termenii">
+<!ENTITY rights.intro-point1a "&brandShortName; este disponibil sub termenii ">
 <!ENTITY rights.intro-point1b "Licenței Publice Mozilla">
 <!ENTITY rights.intro-point1c ". Acest lucru înseamnă că puteți folosi, copia și distribui &brandShortName; altora. Sunteți, de asemenea, binevenit să modificați codul sursă al &brandShortName;, cum doriți, pentru a vă satisface nevoile. Mozilla Public License vă oferă și dreptul de a vă distribui versiunile modificate.">
 
