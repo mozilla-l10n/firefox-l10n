@@ -169,7 +169,7 @@
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
 
-<!ENTITY options.stylesheetAutocompletion.label      "Completar CSS automaticamente">
+<!ENTITY options.stylesheetAutocompletion.label      "Conclusão automática de CSS">
 <!ENTITY options.stylesheetAutocompletion.tooltip    "Completa automaticamente as propriedades CSS, os valores e os seletores no editor de estilos assim que forme escritos">
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
