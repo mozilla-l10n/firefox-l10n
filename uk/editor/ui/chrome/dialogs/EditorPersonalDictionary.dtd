@@ -3,18 +3,18 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Словник користувача">
+<!ENTITY windowTitle.label "Personal Dictionary">
 
-<!ENTITY wordEditField.label "Нове слово:">
-<!ENTITY wordEditField.accessKey "Н">
-<!ENTITY AddButton.label "Додати">
-<!ENTITY AddButton.accessKey "Д">
-<!ENTITY DictionaryList.label "Слова в словнику:">
-<!ENTITY DictionaryList.accessKey "С">
-<!ENTITY ReplaceButton.label "Замінити">
-<!ENTITY ReplaceButton.accessKey "м">
-<!ENTITY RemoveButton.label "Прибрати">
-<!ENTITY RemoveButton.accessKey "П">
+<!ENTITY wordEditField.label "New word:">
+<!ENTITY wordEditField.accessKey "N">
+<!ENTITY AddButton.label "Add">
+<!ENTITY AddButton.accessKey "A">
+<!ENTITY DictionaryList.label "Words in dictionary:">
+<!ENTITY DictionaryList.accessKey "W">
+<!ENTITY ReplaceButton.label "Replace">
+<!ENTITY ReplaceButton.accessKey "R">
+<!ENTITY RemoveButton.label "Remove">
+<!ENTITY RemoveButton.accessKey "e">
 
-<!ENTITY CloseButton.label "Закрити">
-<!ENTITY CloseButton.accessKey "З">
+<!ENTITY CloseButton.label "Close">
+<!ENTITY CloseButton.accessKey "C">

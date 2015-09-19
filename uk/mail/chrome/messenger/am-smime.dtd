@@ -2,31 +2,31 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "Захист">
-<!ENTITY securityTab.label "Безпека">
-<!ENTITY securityHeading.label "Щоб отримувати і відсилати зашифровані листи або листи з цифровим підписом, вам потрібно вказати сертифікат ключа шифрування і сертифікат ключа підпису.">
-<!ENTITY encryptionGroupTitle.label "Шифрування">
-<!ENTITY encryptionChoiceLabel.label "Використовувати шифрування при відсиланні листів:">
-<!ENTITY neverEncrypt.label "Ніколи (не використовувати шифрування)">
-<!ENTITY neverEncrypt.accesskey "Н">
-<!ENTITY alwaysEncryptMessage.label "Завжди (листа не буде відіслано, якщо не у всіх адресатів є сертифікати)">
-<!ENTITY alwaysEncryptMessage.accesskey "З">
-<!ENTITY encryptionCert.message "Особистий сертифікат для шифрування: ">
-<!ENTITY digitalSign.certificate.button "Вибрати…">
-<!ENTITY digitalSign.certificate.accesskey "В">
-<!ENTITY digitalSign.certificate_clear.button "Очистити">
-<!ENTITY digitalSign.certificate_clear.accesskey "ч">
-<!ENTITY encryption.certificate.button "Вибрати…">
-<!ENTITY encryption.certificate.accesskey "т">
-<!ENTITY encryption.certificate_clear.button "Очистити">
-<!ENTITY encryption.certificate_clear.accesskey "и">
-<!ENTITY signingGroupTitle.label "Цифровий підпис">
-<!ENTITY signMessage.label "Підписувати листи цифровим підписом (типово)">
-<!ENTITY signMessage.accesskey "і">
-<!ENTITY signingCert.message "Особистий сертифікат для підпису:">
+<!ENTITY securityTitle.label "Security">
+<!ENTITY securityTab.label "Security">
+<!ENTITY securityHeading.label "To send and receive signed or encrypted messages, you should specify both a digital signing certificate and an encryption certificate.">
+<!ENTITY encryptionGroupTitle.label "Encryption">
+<!ENTITY encryptionChoiceLabel.label "Default encryption setting when sending messages:">
+<!ENTITY neverEncrypt.label "Never (do not use encryption)">
+<!ENTITY neverEncrypt.accesskey "N">
+<!ENTITY alwaysEncryptMessage.label "Required (can't send message unless all recipients have certificates)">
+<!ENTITY alwaysEncryptMessage.accesskey "u">
+<!ENTITY encryptionCert.message "Use this certificate to encrypt &amp; decrypt messages sent to you:">
+<!ENTITY digitalSign.certificate.button "Select…">
+<!ENTITY digitalSign.certificate.accesskey "S">
+<!ENTITY digitalSign.certificate_clear.button "Clear">
+<!ENTITY digitalSign.certificate_clear.accesskey "C">
+<!ENTITY encryption.certificate.button "Select…">
+<!ENTITY encryption.certificate.accesskey "t">
+<!ENTITY encryption.certificate_clear.button "Clear">
+<!ENTITY encryption.certificate_clear.accesskey "e">
+<!ENTITY signingGroupTitle.label "Digital Signing">
+<!ENTITY signMessage.label "Digitally sign messages (by default)">
+<!ENTITY signMessage.accesskey "D">
+<!ENTITY signingCert.message "Use this certificate to digitally sign messages you send:">
 
-<!ENTITY certificates.label "Сертифікати">
-<!ENTITY manageCerts.label "Перегляд сертифікатів">
-<!ENTITY manageCerts.accesskey "П">
-<!ENTITY manageDevices.label "Керувати пристроями">
-<!ENTITY manageDevices.accesskey "К">
+<!ENTITY certificates.label "Certificates">
+<!ENTITY manageCerts.label "View Certificates">
+<!ENTITY manageCerts.accesskey "V">
+<!ENTITY manageDevices.label "Security Devices">
+<!ENTITY manageDevices.accesskey "y">

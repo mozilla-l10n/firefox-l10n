@@ -3,21 +3,21 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Title -->
-<!ENTITY mailListWindow.title           "Список розсилки">
+<!ENTITY mailListWindow.title           "Mailing List">
 <!-- Labels -->
-<!ENTITY addToAddressBook.label         "Додати в:">
+<!ENTITY addToAddressBook.label         "Add to: ">
 
-<!ENTITY ListName.label                 "Назва списку:">
-<!ENTITY ListNickName.label             "Псевдонім списку:">
-<!ENTITY ListDescription.label          "Опис:">
+<!ENTITY ListName.label                 "List Name: ">
+<!ENTITY ListNickName.label             "List Nickname: ">
+<!ENTITY ListDescription.label          "Description: ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-<!ENTITY AddressTitle.label             "Введіть імена або перетягніть адреси в наведений список розсилки.">
-<!ENTITY UpButton.label                 "Вгору">
-<!ENTITY DownButton.label               "Вниз">
+<!ENTITY AddressTitle.label             "Type email addresses to add them to the mailing list:">
+<!ENTITY UpButton.label                 "Move Up">
+<!ENTITY DownButton.label               "Move Down">
 
 <!-- Access Keys -->
-<!ENTITY addToAddressBook.accesskey     "Д">
-<!ENTITY ListName.accesskey             "Н">
-<!ENTITY ListNickName.accesskey         "П">
-<!ENTITY ListDescription.accesskey      "О">
+<!ENTITY addToAddressBook.accesskey     "A">
+<!ENTITY ListName.accesskey             "L">
+<!ENTITY ListNickName.accesskey         "N">
+<!ENTITY ListDescription.accesskey      "e">
 

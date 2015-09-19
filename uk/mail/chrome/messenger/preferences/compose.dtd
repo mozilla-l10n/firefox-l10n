@@ -2,62 +2,62 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY itemGeneral.label                   "Основні">
-<!ENTITY itemAutoComplete.label              "Автодоповнення">
-<!ENTITY itemSpellCheck.label                "Орфографія">
+<!ENTITY itemGeneral.label                   "General">
+<!ENTITY itemAutoComplete.label              "Addressing">
+<!ENTITY itemSpellCheck.label                "Spelling">
 
 <!ENTITY dialogCompose.title                 "Composing">
 
-<!ENTITY forwardMsg.label                     "Пересилати листи:">
-<!ENTITY forwardMsg.accesskey                 "П">
-<!ENTITY inline.label                         "Усередині листа">
-<!ENTITY asAttachment.label                   "Як вкладення">
-<!ENTITY addExtension.label                   "додати розширення до імені файлу">
-<!ENTITY addExtension.accesskey               "ф">
+<!ENTITY forwardMsg.label                     "Forward messages:">
+<!ENTITY forwardMsg.accesskey                 "F">
+<!ENTITY inline.label                         "Inline">
+<!ENTITY asAttachment.label                   "As Attachment">
+<!ENTITY addExtension.label                   "add extension to file name">
+<!ENTITY addExtension.accesskey               "e">
 
 <!ENTITY htmlComposeHeader.label              "HTML">
-<!ENTITY font.label                           "Шрифт:">
-<!ENTITY font.accesskey                       "Ш">
-<!ENTITY size.label                           "Розмір:">
-<!ENTITY size.accesskey                       "Р">
-<!ENTITY fontColor.label                      "Колір тексту:">
-<!ENTITY fontColor.accesskey                  "т">
-<!ENTITY bgColor.label                        "Колір тла:">
-<!ENTITY bgColor.accesskey                    "т">
-<!ENTITY restoreHTMLDefaults.label            "Відновити типові значення">
-<!ENTITY restoreHTMLDefaults.accesskey        "В">
+<!ENTITY font.label                           "Font:">
+<!ENTITY font.accesskey                       "n">
+<!ENTITY size.label                           "Size:">
+<!ENTITY size.accesskey                       "z">
+<!ENTITY fontColor.label                      "Text Color:">
+<!ENTITY fontColor.accesskey                  "T">
+<!ENTITY bgColor.label                        "Background Color:">
+<!ENTITY bgColor.accesskey                    "B">
+<!ENTITY restoreHTMLDefaults.label            "Restore Defaults">
+<!ENTITY restoreHTMLDefaults.accesskey        "R">
 
-<!ENTITY spellCheck.label                     "Перевіряти орфографію перед відсиланням листа">
-<!ENTITY spellCheck.accesskey                 "і">
-<!ENTITY spellCheckInline.label               "Перевіряти орфографію при наборі тексту">
-<!ENTITY spellCheckInline1.accesskey          "е">
-<!ENTITY languagePopup.label                  "Мова:">
-<!ENTITY languagePopup.accessKey              "М">
-<!ENTITY downloadDictionaries.label           "Завантажити додаткові словники">
+<!ENTITY spellCheck.label                     "Check spelling before sending">
+<!ENTITY spellCheck.accesskey                 "C">
+<!ENTITY spellCheckInline.label               "Enable spell check as you type">
+<!ENTITY spellCheckInline1.accesskey          "E">
+<!ENTITY languagePopup.label                  "Language:">
+<!ENTITY languagePopup.accessKey              "L">
+<!ENTITY downloadDictionaries.label           "Download More Dictionaries">
 
-<!ENTITY warnOnSendAccelKey.label             "Запитувати підтвердження при використанні клавіатурних скорочень для надсилання листа">
-<!ENTITY warnOnSendAccelKey.accesskey         "З">
-<!ENTITY autoSave.label                       "Автоматично зберігати лист кожні">
-<!ENTITY autoSave.accesskey                   "А">
-<!ENTITY autoSaveEnd.label                    "хвилин">
+<!ENTITY warnOnSendAccelKey.label             "Confirm when using keyboard shortcut to send message">
+<!ENTITY warnOnSendAccelKey.accesskey         "C">
+<!ENTITY autoSave.label                       "Auto Save every">
+<!ENTITY autoSave.accesskey                   "A">
+<!ENTITY autoSaveEnd.label                    "minutes">
 
-<!ENTITY emailCollectionPicker.label           "Автоматично додавати адреси з вихідних листів в:">
-<!ENTITY emailCollectionPicker.accesskey       "А">
-<!ENTITY addressingTitle.label                 "Автодоповнення адрес">
-<!ENTITY autocompleteText.label                "При введенні адреси шукати відповідні поштові адреси у:">
-<!ENTITY addressingEnable.label                "Локальних адресних книгах">
-<!ENTITY addressingEnable.accesskey            "Л">
-<!ENTITY directories.label                     "Сервері каталогів:">
-<!ENTITY directories.accesskey                 "С">
-<!ENTITY directoriesNone.label                 "Ніякому">
-<!ENTITY editDirectories.label                 "Змінити каталоги…">
-<!ENTITY editDirectories.accesskey             "З">
+<!ENTITY emailCollectionPicker.label           "Automatically add outgoing e-mail addresses to my:">
+<!ENTITY emailCollectionPicker.accesskey       "A">
+<!ENTITY addressingTitle.label                 "Address Autocompletion">
+<!ENTITY autocompleteText.label                "When addressing messages, look for matching entries in:">
+<!ENTITY addressingEnable.label                "Local Address Books">
+<!ENTITY addressingEnable.accesskey            "L">
+<!ENTITY directories.label                     "Directory Server:">
+<!ENTITY directories.accesskey                 "D">
+<!ENTITY directoriesNone.label                 "None">
+<!ENTITY editDirectories.label                 "Edit Directories…">
+<!ENTITY editDirectories.accesskey             "E">
 
-<!ENTITY sendOptionsDescription.label          "Текстовий формат:">
-<!ENTITY sendOptions.label                     "Параметри надсилання…">
-<!ENTITY sendOptions.accesskey                 "П">
+<!ENTITY sendOptionsDescription.label          "Configure text format behavior">
+<!ENTITY sendOptions.label                     "Send Options…">
+<!ENTITY sendOptions.accesskey                 "S">
 
-<!ENTITY attachmentReminder.label              "Перевіряти відсутні вкладення">
-<!ENTITY attachmentReminder.accesskey          "в">
-<!ENTITY attachmentReminderOptions.label       "Ключові слова…">
-<!ENTITY attachmentReminderOptions.accesskey   "К">
+<!ENTITY attachmentReminder.label              "Check for missing attachments">
+<!ENTITY attachmentReminder.accesskey          "m">
+<!ENTITY attachmentReminderOptions.label       "Keywords…">
+<!ENTITY attachmentReminderOptions.accesskey   "K">
