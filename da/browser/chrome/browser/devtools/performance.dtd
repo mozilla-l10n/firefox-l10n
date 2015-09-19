@@ -79,7 +79,7 @@
 <!ENTITY performanceUI.table.totalAlloc1       "Totale allokeringer">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Det totale antal objektallokeringer foretaget af denne fuktion, og funktioner den kalder.">
 <!ENTITY performanceUI.table.selfAlloc1        "Egne allokationer">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "Antal objekt-allokationer udtaget på denne placering.">
+<!ENTITY performanceUI.table.selfAlloc.tooltip        "Antal objekt-allokationer indsamlet på denne placering.">
 
 <!-- LOCALIZATION NOTE (performanceUI.newtab.tooltiptext): The tooltiptext shown
   -  on the "+" (new tab) button for a profile when a selection is available. -->
