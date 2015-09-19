@@ -25,10 +25,11 @@
 <!ENTITY  locbar.bookmarks.accesskey    "О">
 <!ENTITY  locbar.openpage.label         "Отворените подпрозорци">
 <!ENTITY  locbar.openpage.accesskey     "п">
+<!ENTITY  locbar.searches.label         "Подобни търсения в стандартната търсеща машина">
+<!ENTITY  locbar.searches.accesskey     "П">
 
-
-
-
+<!ENTITY  suggestionSettings.label      "Промяна настройките на подсказките от търсещите машини">
+<!ENTITY  suggestionSettings.accesskey  "р">
 
 <!ENTITY  acceptCookies.label           "Разрешаване на бисквитките">
 <!ENTITY  acceptCookies.accesskey       "Р">
