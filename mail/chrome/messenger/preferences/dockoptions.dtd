@@ -13,4 +13,4 @@
 <!ENTITY showAllUnreadMessagesCount.accesskey  "е">
 <!ENTITY dockIconBadge.label                   "Значок іконки програми">
 <!ENTITY dockIconShow.label                    "Значок іконки програми з:">
-<!ENTITY directNotificationSettings.label      "Ви можете вимкнути значок в панелі сповіщень системних налаштувань.">
+<!ENTITY directNotificationSettings.label      "You can disable the badge on the Notification pane of System Preferences.">

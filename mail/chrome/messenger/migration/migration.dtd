@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY migrationWizard.title          "Майстер імпорту">
+<!ENTITY migrationWizard.title          "Import Wizard">
 
-<!ENTITY importFromWin.label            "Імпорт налаштувань, параметрів облікового запису, адресної книги, фільтрів та інших даних із:">
-<!ENTITY importFromNonWin.label         "Імпорт налаштувань, параметрів облікового запису, адресної книги, фільтрів та інших даних із:">
+<!ENTITY importFromWin.label            "Import Options, Account Settings, Address Book, Filters and other data from:">
+<!ENTITY importFromNonWin.label         "Import Preferences, Account Settings, Address Book, Filters, and other data from:">
 
-<!ENTITY importFromNothing.label        "Не імпортувати нічого">
-<!ENTITY importFromNothing.accesskey    "н">
-<!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 та старше">
+<!ENTITY importFromNothing.label        "Don't import anything">
+<!ENTITY importFromNothing.accesskey    "D">
+<!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 or later">
 <!ENTITY importFromSeamonkey3.accesskey "S">
 <!ENTITY importFromOExpress.label       "Outlook Express">
 <!ENTITY importFromOExpress.accesskey   "u">
@@ -19,15 +19,15 @@
 <!ENTITY importFromEudora.label         "Eudora">
 <!ENTITY importFromEudora.accesskey     "E">
 
-<!ENTITY importSource.title             "Імпортувати налаштування і дані з">
-<!ENTITY importItems.title              "Об’єкти для імпорту">
-<!ENTITY importItems.label              "Виберіть об’єкти для імпорту:">
+<!ENTITY importSource.title             "Import Settings and Mail Folders">
+<!ENTITY importItems.title              "Items to Import">
+<!ENTITY importItems.label              "Select which items to import:">
 
-<!ENTITY migrating.title                "Імпортую…">
-<!ENTITY migrating.label                "Наступні об’єкти імпортуються зараз…">
+<!ENTITY migrating.title                "Importing…">
+<!ENTITY migrating.label                "The following items are currently being imported…">
 
-<!ENTITY selectProfile.title            "Вибір профілю">
-<!ENTITY selectProfile.label            "Імпорт може бути здійснений з наступних профілів:">
+<!ENTITY selectProfile.title            "Select Profile">
+<!ENTITY selectProfile.label            "The following profiles are available to import from:">
 
-<!ENTITY done.title                     "Імпорт завершений">
-<!ENTITY done.label                     "Наступні об’єкти були успішно імпортовані:">
+<!ENTITY done.title                     "Import Complete">
+<!ENTITY done.label                     "The following items were successfully imported:">

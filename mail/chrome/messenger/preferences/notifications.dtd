@@ -2,16 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY notificationsDialog2.title       "Налаштувати сповіщення про наявність нових листів">
+<!ENTITY notificationsDialog2.title       "Customize New Mail Alert">
 <!ENTITY window.width                     "30em">
 
-<!ENTITY alertCustomization.intro         "Оберіть поля, які слід показувати у сповіщенні:">
-<!ENTITY previewText.label                "Попередній перегляд тексту">
-<!ENTITY previewText.accesskey            "П">
-<!ENTITY subject.label                    "Тема">
-<!ENTITY subject.accesskey                "Т">
-<!ENTITY sender.label                     "Відправник">
-<!ENTITY sender.accesskey                 "В">
+<!ENTITY alertCustomization.intro         "Choose which fields to show in the alert notification:">
+<!ENTITY previewText.label                "Message Preview Text">
+<!ENTITY previewText.accesskey            "M">
+<!ENTITY subject.label                    "Subject">
+<!ENTITY subject.accesskey                "S">
+<!ENTITY sender.label                     "Sender">
+<!ENTITY sender.accesskey                 "e">
 
 <!-- LOCALIZATION NOTE: totalOpenTimeBefore.label is displayed first, then
 there's a field where the user can enter a number, and totalOpenTimeEnd.label

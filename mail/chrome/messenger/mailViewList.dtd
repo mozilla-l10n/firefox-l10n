@@ -4,6 +4,6 @@
 
 <!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
 
-<!ENTITY mailViewListTitle.label "Налаштування режимів перегляду повідомлень">
-<!ENTITY viewName.label "Режим перегляду">
+<!ENTITY mailViewListTitle.label "Customize Message Views">
+<!ENTITY viewName.label "View Name">
 
