@@ -730,7 +730,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "Ďalšie informácie">
 
-<!ENTITY identity.permissions "Povolenia">
+<!ENTITY identity.permissions "Oprávnenia">
+<!ENTITY identity.permissionsEmpty "Tejto stránke ste neurčili žiadne špeciálne oprávnenia.">
 <!ENTITY identity.permissionsPageFunctionality "Funkcionalita stránky">
 <!ENTITY identity.permissionsSystemAccess "Prístup k systému">
 
