@@ -230,7 +230,7 @@
 <!ENTITY fxaccount_remove_account_toast "Firefox račun &formatS; je uklonjen.">
 
 <!ENTITY fxaccount_remove_account_menu_item "Ukloni račun">
-
+<!ENTITY fxaccount_enable_debug_mode "Omogući Debug način rada">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 
