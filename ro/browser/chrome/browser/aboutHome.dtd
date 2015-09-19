@@ -20,7 +20,7 @@
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "Este ușor să vă personalizați Firefox exact în felul în care doriți. <a>Alegeți din mii de suplimente</a>.">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
-<!ENTITY abouthome.rightsSnippet "&brandFullName; este un program liber și cu sursă deschisă de la Fundația non-profit Mozilla. <a>Cunoașteți-vă drepturile…</a>">
+<!ENTITY abouthome.rightsSnippet "&brandFullName; este un program liber și cu sursă deschisă de la fundația nonprofit Mozilla. <a>Cunoașteți-vă drepturile…</a>">
 
 <!ENTITY abouthome.bookmarksButton.label "Semne de carte">
 <!ENTITY abouthome.historyButton.label   "Istoric">
