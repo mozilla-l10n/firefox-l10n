@@ -714,7 +714,7 @@ size. -->
 <!ENTITY bookmarks_support "Firefox: Podpora">
 <!-- LOCALIZATION NOTE (bookmarks_marketplace): link title for https://marketplace.firefox.com -->
 <!ENTITY bookmarks_marketplace "Firefox Marketplace">
-<!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/kids -->
+<!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!ENTITY bookmarks_restricted_support "Pomocník a podpora pre zjednodušenú verziu Firefoxu pre deti">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
 <!ENTITY bookmarks_restricted_webmaker "Naučte sa web: Mozilla Webmaker">
