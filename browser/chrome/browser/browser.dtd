@@ -704,6 +704,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Táto stránka je uložená vo vašom počítači.">
 <!ENTITY identity.connectionVerified1 "Pripojenie k tejto stránke je zabezpečené. Spravuje ju:">
 <!ENTITY identity.connectionInternal "Toto je bezpečná stránka prehliadača &brandShortName;">
+<!ENTITY identity.insecureLoginForms "Vaše prihlasovacie údaje môžu byť zneužité.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; zablokoval súčasti tejto stránky, ktoré nie sú bezpečné.">
@@ -713,6 +714,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Strings for connection state warnings in the subview. -->
 <!ENTITY identity.description.insecure "Pripojenie k tejto stránke nie je súkromné. Zadané informácie (ako heslá, správy, informácie o platobných kartách, atď.) môžu byť viditeľné pre iných ľudí.">
+<!ENTITY identity.description.insecureLoginForms "Prihlasovacie údaje zadané na tejto stránke nie sú chránené a môžu byť zneužité.">
 <!ENTITY identity.description.weakCipher "Pripojenie k tejto webovej stránke používa slabé zabezpečenie a nie je súkromné.">
 <!ENTITY identity.description.weakCipher2 "Iní ľudia môžu zobraziť vaše údaje alebo zmeniť správanie stránky.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; zablokoval súčasti tejto stránky, ktoré nie sú bezpečné.">
