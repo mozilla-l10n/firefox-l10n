@@ -233,7 +233,7 @@
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.key "u">
 
-<!ENTITY findCmd.label "在消息中查找…">
+<!ENTITY findCmd.label "在此消息中查找…">
 <!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
      This is the key used to show the Lightning quick filter bar. -->
 
