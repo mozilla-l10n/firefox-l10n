@@ -23,7 +23,8 @@
 <!ENTITY cmd.back.tooltip                     "Връщане назад с една страница">
 <!ENTITY cmd.forward.tooltip                  "Отиване напред с една страница">
 
-
+<!ENTITY showUnsignedExtensions.button.label  "Някои разширения не можаха да бъдат проверени">
+<!ENTITY showAllExtensions.button.label       "Показване на всички разширения">
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Всички добавки са изключени от Надеждния режим.">
@@ -235,14 +236,17 @@
 
 <!ENTITY setting.learnmore "Научете повече…">
 
+<!ENTITY disabledUnsigned.heading "Някои добавки бяха изключени">
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-
-
-
+<!ENTITY disabledUnsigned.description.start "Следните добавки не са проверени, за да могат да се използват от &brandShortName;. Можете ">
+<!ENTITY disabledUnsigned.description.findAddonsLink "да намерите заместители">
+<!ENTITY disabledUnsigned.description.end " или да поискате от разработчиците тяхната добавка да премине проверка.">
+<!ENTITY disabledUnsigned.learnMore "Научете повече за нашите усилия да поддържаме безопасността ви, докато сте онлайн.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
-
-
+<!ENTITY disabledUnsigned.devInfo.start "Разработчиците, интересуващи се от преминаване на проверка за техните добавки, могат да прочетат повече в нашето ">
+<!ENTITY disabledUnsigned.devInfo.linkToManual "ръководство">
+<!ENTITY disabledUnsigned.devInfo.end ".">
