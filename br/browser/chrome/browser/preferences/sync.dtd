@@ -78,16 +78,16 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.label                "Ankouaat ar chomlec'h postel-mañ">
 
 <!ENTITY welcome.description "Haezit hoc'h ivinelloù, ho sinedoù, ho kerioù-tremen hag ouzhpenn e forzh pelec'h ez arverit &brandShortName;.">
-
-
+<!ENTITY welcome.signIn.label "Kennaskañ">
+<!ENTITY welcome.createAccount.label "Krouiñ ur gont">
 
 <!ENTITY welcome.useOldSync.label "Emaoc'h oc'h arverañ un handelv gozh eus Sync ?">
 
 <!ENTITY signedOut.caption            "Kemerit ho web ganeoc'h">
 <!ENTITY signedOut.description        "Goubredit ho sinedoù, roll istor, ivinelloù, gerioù-tremen, askouezhioù ha gwellvezioù dre veur a urzhiataer pe trevnad.">
 <!ENTITY signedOut.accountBox.title   "Kennaskit gant un &syncBrand.fxAccount.label;">
-
-
+<!ENTITY signedOut.accountBox.create  "Krouiñ ur gont">
+<!ENTITY signedOut.accountBox.signin  "Kennaskañ">
 
 <!ENTITY signedIn.engines.label       "Goubredañ dre an holl trevnadoù">
 

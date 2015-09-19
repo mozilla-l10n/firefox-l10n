@@ -4,14 +4,15 @@
 
 <!ENTITY tracking.label                 "Heuliañ ho roudoù">
 
-
+<!ENTITY dntTrackingNotOkay4.label     "Goulenn ne vefen ket heuliet gant al lec'hiennoù">
+<!ENTITY dntTrackingNotOkay4.accesskey "h">
 <!ENTITY doNotTrackInfo.label          "Gouzout hiroc'h">
 <!ENTITY trackingProtection5.label     "Arverañ ar gwarez heuliañ">
 <!ENTITY trackingProtection5.accesskey "i">
 <!ENTITY trackingProtectionLearnMore.label "Gouzout hiroc'h">
 <!ENTITY trackingProtectionPBM5.label         "Arverañ ar gwarez heuliañ er prenestroù prevez">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
-
+<!ENTITY trackingProtectionPBMLearnMore.label "Gouzout hiroc'h">
 
 <!ENTITY  history.label                 "Roll istor">
 

@@ -700,7 +700,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings in the subview. -->
 
 <!ENTITY identity.description.insecure "N'eo ket prevez ho kennask war al lec'hienn-mañ. Gallout a ra an titouroù kinniget ganeoc'h bezañ gwelet gant tud all (gerioù-tremen, kemennadennoù, kartennoù gred en o zouez).">
-
+<!ENTITY identity.description.weakCipher "Enrinegañ gwan a vez arveret gant ho kennask d'al lec'hienn-mañ ha n'eo ket prevez.">
 <!ENTITY identity.description.weakCipher2 "Gallout a ra tud all sellet ouzh ho titouroù pe kemmañ emzalc'h al lec'hienn.">
 <!ENTITY identity.description.activeBlocked "Stanket eo bet gant &brandShortName; lodennoù arvarus er bajennad.">
 <!ENTITY identity.description.passiveLoaded "N'eo ket prevez ho kennask ha galloud a ra an titouroù rannet gant al lec'hienn bezañ gwelet gant tud all.">
