@@ -11,9 +11,9 @@
 <!ENTITY  onboard_start_subtext3 "Zážitok z mobilného prehliadania webu presne taký, ako ho chcete.">
 <!ENTITY  onboard_start_button_account "Prihlásiť sa k &brandShortName;u">
 <!ENTITY  onboard_start_button_browser "Začať prehliadať">
+<!ENTITY firstrun_button_next "Ďalej">
 
 <!ENTITY  onboard_start_restricted1 "Buďte v bezpečí a majte veci pod kontrolou s touto zjednodušenou verziou prehliadača &brandShortName;.">
-<!ENTITY firstrun_button_next "Ďalej">
 
 <!ENTITY firstrun_import_title "Import">
 <!ENTITY firstrun_import_message "Víta vás &brandShortName;">
@@ -189,16 +189,19 @@
 <!ENTITY pref_category_home_panels "Panely">
 <!ENTITY home_add_panel_title "Pridať nový panel">
 <!ENTITY home_add_panel_empty "Ospravedlňujeme sa, nebolo možné nájsť žiadne panely vhodné na pridanie.">
+<!-- Localization note (home_add_panel_installed):
+     The &formatS; will be replaced with the name of the new panel the user just
+     selected to be added to the home page. -->
+<!ENTITY home_add_panel_installed "Panel \'&formatS;\' pridaný na úvodnú stránku">
 <!ENTITY pref_category_home_content_settings "Nastavenia obsahu">
 <!ENTITY pref_home_updates "Automatické aktualizácie">
 <!ENTITY pref_home_updates_enabled "Povolené">
 <!ENTITY pref_home_updates_wifi "Len cez Wi-Fi">
 <!ENTITY pref_home_suggested_sites "Zobrazovať navrhované stránky">
 <!ENTITY pref_home_suggested_sites_summary "Na vašej domovskej stránke zobrazuje odkazy na stránky, o ktorých si myslímte, že by Vás mohli zaujímať.">
-<!-- Localization note (home_add_panel_installed):
-     The &formatS; will be replaced with the name of the new panel the user just
-     selected to be added to the home page. -->
-<!ENTITY home_add_panel_installed "Panel \'&formatS;\' pridaný na úvodnú stránku">
+<!ENTITY pref_category_home_homepage "Domovská stránka">
+<!ENTITY home_homepage_title "Nastaviť domovskú stránku">
+<!ENTITY home_homepage_use_current_tab "Použiť aktuálnu kartu">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Prispôsobenie">
@@ -300,6 +303,7 @@ size. -->
 <!ENTITY pref_private_data_siteSettings2 "Nastavenia stránok">
 <!ENTITY pref_private_data_downloadFiles2 "Prevzaté súbory">
 <!ENTITY pref_private_data_syncedTabs "Synchronizované karty">
+
 
 <!ENTITY pref_about_firefox "Čo je &brandShortName;">
 <!ENTITY pref_vendor_faqs "Často kladené otázky">
@@ -566,6 +570,17 @@ size. -->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Pripojené k stránke">
+<!-- Localization note (identity_run_by) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Bezpečné pripojenie">
 <!ENTITY identity_connection_insecure "Nezabezpečené pripojenie">
 
