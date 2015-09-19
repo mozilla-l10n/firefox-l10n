@@ -110,7 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "д">
 
 <!ENTITY fxaSignIn.label "Вписване в &syncBrand.shortName.label;">
-
+<!ENTITY fxaSignedIn.tooltip "Отваряне настройките на &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Свържете се наново в &syncBrand.shortName.label;">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; включен">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; скоро ще започне синхронизация.">
@@ -395,6 +395,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Превключване към подпрозорец:">
 
+<!ENTITY urlbar.searchSuggestionsNotification.question "Искате ли да се показват предложения при въвеждане на думи за търсене?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Научете повече…">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Не">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Да">
@@ -426,6 +427,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      These are set as the aria-label attribute for the search input box and
      submit button in the in-content search UI, to be used by screen readers. -->
 
+<!ENTITY contentSearchInput.label     "Заявка за търсене">
+<!ENTITY contentSearchSubmit.label    "Изпращане заявка за търсене">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -641,6 +644,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "З">
 
+<!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "Оформление на страницата">
 <!ENTITY pageStyleMenu.accesskey "ф">
@@ -680,26 +684,30 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "Готово">
 <!ENTITY editBookmark.cancel.label                   "Отказ">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "П">
 
 <!ENTITY identity.connectionSecure "Защитена връзка">
 <!ENTITY identity.connectionNotSecure "Връзката е незащитена">
-
+<!ENTITY identity.connectionFile "Страницата е запазена в компютъра.">
 <!ENTITY identity.connectionVerified "&brandShortName; потвърждава защитата на връзката към тази страница, управлявана от:">
 <!ENTITY identity.connectionInternal "Това е защитена страница на &brandShortName;.">
 <!-- Strings for connection state warnings. -->
 
-
+<!ENTITY identity.activeBlocked "&brandShortName; блокира части от страницата, които не са шифрирани.">
+<!ENTITY identity.passiveLoaded "Части от страницата, като например изображения, не са шифрирани.">
+<!ENTITY identity.activeLoaded "Изключихте защитата за тази страница.">
 <!ENTITY identity.weakEncryption "Тази странница използва слабо шифриране.">
 <!-- Strings for connection state warnings in the subview. -->
 
-
-
-
-
-
-
-
+<!ENTITY identity.description.insecure "Връзката ви със сайта не е поверителна. Изпращаната информация, като например пароли, съобщения, кредитни карти и др., може да бъде видяна от други.">
+<!ENTITY identity.description.weakCipher "Връзката ви с този уебсайт използва слабо шифриране и не е поверителна.">
+<!ENTITY identity.description.weakCipher2 "Други хора могат да виждат ваша информация и да променят поведението на уебсайта.">
+<!ENTITY identity.description.activeBlocked "&brandShortName; блокира части от страницата, които не са шифрирани.">
+<!ENTITY identity.description.passiveLoaded "Връзката не е поверителна и споделяната информация със сайта може да бъде видяна от други.">
+<!ENTITY identity.description.passiveLoaded2 "Уебсайтът има нешифрирано съдържание, като например изображения.">
+<!ENTITY identity.description.passiveLoaded3 "&brandShortName; блокира част от съдържанието, но все още има съдържание, което не е шифрирано, като например изображения.">
+<!ENTITY identity.description.activeLoaded "Уебсайтът има съдържание, като например скриптове, което не е шифрирано, и връзката със сайта не е поверителна.">
+<!ENTITY identity.description.activeLoaded2 "Споделяната със сайта информация, като например пароли, съобщения, кредитни карти и др., може да бъде виждана от други.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Включване на защита">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "В">
@@ -782,12 +790,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "К">
 <!ENTITY getUserMedia.selectMicrophone.label "Микрофон за споделяне:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "М">
-
+<!ENTITY getUserMedia.audioCapture.label "Микрофонът ще бъде споделян от подпрозореца.">
 <!ENTITY getUserMedia.allWindowsShared.message "Всички видими прозорци на вашия екран ще бъдат споделени.">
 
-
-
-
+<!ENTITY trackingProtection.title "Защита от проследяване">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; блокира части от страницата, които биха могли да проследяват вашето браузване.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "Този сайт включва елементи, които бига могли да проследяват вашето браузване. Защитата от проследяване е изключена.">
+<!ENTITY trackingProtection.notDetected3 "Не са открити проследяващи елементи в страницата.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
