@@ -40,7 +40,7 @@
 <!ENTITY syncDeviceName.label       "Име на устройството:">
 <!ENTITY syncDeviceName.accesskey   "И">
 <!ENTITY fxaSyncDeviceName.label       "Име на устройството">
-
+<!ENTITY changeSyncDeviceName.label "Промяна името на устройството…">
 <!ENTITY cancelChangeSyncDeviceName.label "Прекъсване">
 <!ENTITY saveChangeSyncDeviceName.label "Запис">
 <!ENTITY unlinkDevice.label           "Разкачване на устройството">
@@ -71,24 +71,28 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Не сте вписани.">
 <!ENTITY signIn.label                "Вписване">
-
+<!ENTITY profilePicture.tooltip      "Промяна снимката на профила">
 <!ENTITY manage.label                "Управление">
 <!ENTITY disconnect.label            "Развързване…">
 <!ENTITY verify.label                "Проверка на мейла">
 <!ENTITY forget.label                "Забравяне на този мейл">
 
 <!ENTITY welcome.description "С &brandShortName; навсякъде може да имате достъп до вашите подпрозорци, отметки, пароли и други.">
-
-
+<!ENTITY welcome.signIn.label "Вписване">
+<!ENTITY welcome.createAccount.label "Създаване на регистрация">
 
 <!ENTITY welcome.useOldSync.label "Използвате по-стара версия на Sync ли?">
 
+<!ENTITY signedOut.caption            "Вземете Мрежата със себе си">
+<!ENTITY signedOut.description        "Синхронизирайте вашите отметки, история, подпрозорци, добавки и настройки по всички ваши устройства.">
+<!ENTITY signedOut.accountBox.title   "Свържете ги с &syncBrand.fxAccount.label;">
+<!ENTITY signedOut.accountBox.create  "Създаване на профил">
+<!ENTITY signedOut.accountBox.signin  "Вписване">
 
+<!ENTITY signedIn.engines.label       "Синхронизиране по всички устройства">
 
-
-
-
-
+<!ENTITY mobilePromo.start            "Изтеглете Firefox за ">
 <!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
-
-
+<!ENTITY mobilePromo.androidLink      "Android™">
+<!ENTITY mobilePromo.end              ", за да синхронизирате вашето мобилно устройство">
+<!ENTITY androidAttribution           "Android е търговска марка на Google Inc.">
