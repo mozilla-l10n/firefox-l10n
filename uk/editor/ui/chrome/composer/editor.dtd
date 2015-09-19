@@ -5,63 +5,63 @@
 <!-- Window title -->
 <!-- LOCALIZATION NOTE  (editorWindow.titlemodifier): DONT_TRANSLATE -->
 <!ENTITY editorWindow.titlemodifier "Composer"> 
-<!ENTITY editorWindow.titlemodifiermenuseparator " - ">
+<!ENTITY editorWindow.titlemodifiermenuseparator " — ">
 
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
 
 <!-- Toolbar-only items -->
-<!ENTITY compositionToolbar.tooltip "Composition Toolbar">
-<!ENTITY previewToolbarCmd.label "Browse">
-<!ENTITY previewToolbarCmd.tooltip "Load this page in the browser">
+<!ENTITY compositionToolbar.tooltip "Панель написання">
+<!ENTITY previewToolbarCmd.label "Переглянути">
+<!ENTITY previewToolbarCmd.tooltip "Завантажити цю сторінку в браузер">
 
 <!-- File menu items -->
-<!ENTITY exportToTextCmd.label "Export to Text…">
-<!ENTITY exportToTextCmd.accesskey "x">
-<!ENTITY previewCmd.label "Browse Page">
-<!ENTITY previewCmd.accesskey "w">
-<!ENTITY sendPageCmd.label "Send Page…">
-<!ENTITY sendPageCmd.accesskey "d">
+<!ENTITY exportToTextCmd.label "Експорт в текст…">
+<!ENTITY exportToTextCmd.accesskey "т">
+<!ENTITY previewCmd.label "Переглянути сторінку">
+<!ENTITY previewCmd.accesskey "П">
+<!ENTITY sendPageCmd.label "Надіслати сторінку…">
+<!ENTITY sendPageCmd.accesskey "с">
 
 <!-- View menu items -->
-<!ENTITY compositionToolbarCmd.label "Composition Toolbar">
-<!ENTITY compositionToolbarCmd.accesskey "C">
-<!ENTITY formattingToolbarCmd.label "Format Toolbar">
-<!ENTITY formattingToolbarCmd.accesskey "F">
-<!ENTITY editmodeToolbarCmd.label "Edit Mode Toolbar">
-<!ENTITY editmodeToolbarCmd.accesskey "E">
+<!ENTITY compositionToolbarCmd.label "Панель написання">
+<!ENTITY compositionToolbarCmd.accesskey "П">
+<!ENTITY formattingToolbarCmd.label "Панель форматування">
+<!ENTITY formattingToolbarCmd.accesskey "ф">
+<!ENTITY editmodeToolbarCmd.label "Панель режиму редагування">
+<!ENTITY editmodeToolbarCmd.accesskey "р">
 
 <!-- Format menu items -->
-<!ENTITY formatMenu.label "Format">
-<!ENTITY formatMenu.accesskey "o">
-<!ENTITY grid.label "Positioning grid">
-<!ENTITY grid.accesskey "t">
-<!ENTITY pageProperties.label "Page Title and Properties…">
-<!ENTITY pageProperties.accesskey "g">
+<!ENTITY formatMenu.label "Формат">
+<!ENTITY formatMenu.accesskey "о">
+<!ENTITY grid.label "Позиційна сітка">
+<!ENTITY grid.accesskey "с">
+<!ENTITY pageProperties.label "Сторінка Назви та Властивостей...">
+<!ENTITY pageProperties.accesskey "р">
 
 <!-- Tools menu items -->
-<!ENTITY validateCmd.label "Validate HTML">
-<!ENTITY validateCmd.accesskey "V">
+<!ENTITY validateCmd.label "Затвердження коду HTML">
+<!ENTITY validateCmd.accesskey "З">
 
 <!-- Display Mode toolbar and View menu items -->
-<!ENTITY NormalModeTab.label "Normal">
-<!ENTITY NormalMode.label "Normal Edit Mode">
-<!ENTITY NormalMode.accesskey "N">
-<!ENTITY NormalMode.tooltip "Show table borders and named anchors">
-<!ENTITY AllTagsModeTab.label "HTML Tags">
-<!ENTITY AllTagsMode.label "HTML Tags">
-<!ENTITY AllTagsMode.accesskey "a">
-<!ENTITY AllTagsMode.tooltip "Display icons for all HTML tags">
+<!ENTITY NormalModeTab.label "Нормальний">
+<!ENTITY NormalMode.label "Нормальний режим редагування">
+<!ENTITY NormalMode.accesskey "Н">
+<!ENTITY NormalMode.tooltip "Показати границі таблиці та іменовані якоря">
+<!ENTITY AllTagsModeTab.label "HTML теги">
+<!ENTITY AllTagsMode.label "HTML теги">
+<!ENTITY AllTagsMode.accesskey "г">
+<!ENTITY AllTagsMode.tooltip "Показувати іконки для всіх тегів HTML tags">
 <!-- LOCALIZATION NOTE: (HTMLSourceModeTab.dir, HTMLSourceModeTab.label)
      Do NOT translate text for 'HTMLSourceModeTab.dir', use latin "ltr" if
      you want the <html> image to left of the 'HTMLSourceModeTab.label' text,
      or use latin "rtl" if you want this image to the right of text. You do
      not need to include HTML in the label 'HTMLSourceModeTab.label' -->
 <!ENTITY HTMLSourceModeTab.dir "ltr">
-<!ENTITY HTMLSourceModeTab.label "Source">
-<!ENTITY HTMLSourceMode.label "HTML Source">
+<!ENTITY HTMLSourceModeTab.label "Документ">
+<!ENTITY HTMLSourceMode.label "HTML документ">
 <!ENTITY HTMLSourceMode.accesskey "H">
-<!ENTITY HTMLSourceMode.tooltip "Edit HTML source">
-<!ENTITY PreviewModeTab.label "Preview">
-<!ENTITY PreviewMode.label "Preview">
-<!ENTITY PreviewMode.accesskey "P">
-<!ENTITY PreviewMode.tooltip "Display as WYSIWYG (as in the browser)">
+<!ENTITY HTMLSourceMode.tooltip "Редагувати HTML документ">
+<!ENTITY PreviewModeTab.label "Попередній перегляд">
+<!ENTITY PreviewMode.label "Попередній перегляд">
+<!ENTITY PreviewMode.accesskey "п">
+<!ENTITY PreviewMode.tooltip "Показати як WYSIWYG (як в браузері)">

@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY viewLog.title "Filter Log">
-<!ENTITY viewLogInfo.text "The Filter Log documents the filters that have been run for this account. Use the check box below to enable logging.">
-<!ENTITY clearLog.label "Clear Log">
-<!ENTITY clearLog.accesskey "C">
-<!ENTITY enableLog.label "Enable the Filter Log">
-<!ENTITY enableLog.accesskey "E">
-<!ENTITY closeLog.label "Close">
-<!ENTITY closeLog.accesskey "o">
+<!ENTITY viewLog.title "Журнал фільтрів">
+<!ENTITY viewLogInfo.text "У журналі фільтрів записується, які фільтри були запущені для даного облікового запису. Щоб вирішити запис в цей журнал, відзначте прапорцем опцію внизу.">
+<!ENTITY clearLog.label "Очистити журнал">
+<!ENTITY clearLog.accesskey "ч">
+<!ENTITY enableLog.label "Записувати дані в журнал фільтрів">
+<!ENTITY enableLog.accesskey "п">
+<!ENTITY closeLog.label "Закрити">
+<!ENTITY closeLog.accesskey "к">

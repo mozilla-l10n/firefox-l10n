@@ -2,31 +2,31 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY offlineDialog.title "Offline Settings">
+<!ENTITY offlineDialog.title "Налаштування автономного режиму">
 
 <!ENTITY checkAutoDetect.label "Automatically follow detected online state">
 <!ENTITY checkAutoDetect.accesskey "d">
 <!ENTITY titleStartUp "Manual state when starting up:">
-<!ENTITY radioRememberPrevState.label "Remember previous online state">
-<!ENTITY radioRememberPrevState.accesskey "R">
-<!ENTITY radioAskState.label "Ask me for online state">
-<!ENTITY radioAskState.accesskey "k">
+<!ENTITY radioRememberPrevState.label "Пам'ятати про автономний режим">
+<!ENTITY radioRememberPrevState.accesskey "р">
+<!ENTITY radioAskState.label "Питати мене про онлайн-режим при запуску">
+<!ENTITY radioAskState.accesskey "и">
 <!ENTITY radioAlwaysOnlineState.label "Online">
 <!ENTITY radioAlwaysOnlineState.accesskey "l">
 <!ENTITY radioAlwaysOffline.label "Offline">
 <!ENTITY radioAlwaysOffline.accesskey "f">
 
-<!ENTITY textGoingOnline "Send unsent messages when going online?">
-<!ENTITY radioAutoSend.label "Yes">
-<!ENTITY radioAutoSend.accesskey "Y">
-<!ENTITY radioNotSend.label "No">
-<!ENTITY radioNotSend.accesskey "N">
-<!ENTITY radioAskUnsent.label "Ask me">
-<!ENTITY radioAskUnsent.accesskey "s">
-<!ENTITY textGoingOffline "Download messages for offline use when going offline?">
-<!ENTITY radioAutoDownload.label "Yes">
-<!ENTITY radioAutoDownload.accesskey "e">
-<!ENTITY radioNotDownload.label "No">
-<!ENTITY radioNotDownload.accesskey "o">
-<!ENTITY radioAskDownload.label "Ask me">
-<!ENTITY radioAskDownload.accesskey "a">
+<!ENTITY textGoingOnline "Відсилати невідіслані листи перед виходом в автономний режим?">
+<!ENTITY radioAutoSend.label "Так">
+<!ENTITY radioAutoSend.accesskey "а">
+<!ENTITY radioNotSend.label "Ні">
+<!ENTITY radioNotSend.accesskey "і">
+<!ENTITY radioAskUnsent.label "Питати мене">
+<!ENTITY radioAskUnsent.accesskey "т">
+<!ENTITY textGoingOffline "Завантажувати листи перед виходом в автономний режим?">
+<!ENTITY radioAutoDownload.label "Так">
+<!ENTITY radioAutoDownload.accesskey "Т">
+<!ENTITY radioNotDownload.label "Ні">
+<!ENTITY radioNotDownload.accesskey "Н">
+<!ENTITY radioAskDownload.label "Питати мене">
+<!ENTITY radioAskDownload.accesskey "П">
