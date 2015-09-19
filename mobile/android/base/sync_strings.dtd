@@ -168,6 +168,7 @@
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 
+
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 <!-- Localization note: these are shown by the Android system itself,
@@ -180,6 +181,8 @@
      has been made to the remote server, and an error of some type has
      been returned. -->
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
+
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "Съществуваща регистрация. &formatS1;">
 
 
 
