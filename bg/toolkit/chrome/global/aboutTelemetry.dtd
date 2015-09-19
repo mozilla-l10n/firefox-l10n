@@ -6,21 +6,35 @@
 
 <!ENTITY aboutTelemetry.changeDataChoices "Промяна">
 
+<!ENTITY aboutTelemetry.uploadEnabled "Качването на FHR данни е <span>включено</span>.">
 
+<!ENTITY aboutTelemetry.uploadDisabled "Качването на FHR данни е <span>изключено</span>.">
 
+<!ENTITY aboutTelemetry.extendedRecordingEnabled "Разширеното записване на телеметрия е <span>включено</span>.">
 
+<!ENTITY aboutTelemetry.extendedRecordingDisabled "Разширеното записване на телеметрия е <span>изключено</span>.">
 
+<!ENTITY aboutTelemetry.pingDataSource "Пинг на източника на данни:">
 
+<!ENTITY aboutTelemetry.showCurrentPingData "Текущи данни на пинг">
 
+<!ENTITY aboutTelemetry.showArchivedPingData "Архивирани данни на пинг">
 
+<!ENTITY aboutTelemetry.showSubsessionData "Показване на подробни данни">
 
+<!ENTITY aboutTelemetry.choosePing "Избиране на пинг:">
 
+<!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; По-нов пинг">
 
+<!ENTITY aboutTelemetry.showOlderPing "По-стар пинг &gt;&gt;">
 
+<!ENTITY aboutTelemetry.archiveWeekHeader "Седмица">
 
+<!ENTITY aboutTelemetry.archivePingHeader "Пинг">
 
 <!ENTITY aboutTelemetry.generalDataSection "Основни данни">
 
+<!ENTITY aboutTelemetry.environmentDataSection "Данни за обкръжението">
 
 <!ENTITY aboutTelemetry.telemetryLogSection "Журнал на Телеметрията">
 
