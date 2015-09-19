@@ -315,6 +315,10 @@
 <!ENTITY search.label "Cerca con ">
 <!ENTITY searchAfter.label "">
 <!ENTITY changeSearchSettings.button "Impostazioni ricerca">
+<!ENTITY searchInNewTab.label "Cerca in una nuova scheda">
+<!ENTITY searchInNewTab.accesskey "n">
+<!ENTITY searchSetAsDefault.label "Imposta come motore di ricerca predefinito">
+<!ENTITY searchSetAsDefault.accesskey "m">
 <!ENTITY tabView.commandkey "e">
 <!ENTITY openLinkCmdInTab.label "Apri link in nuova scheda">
 <!ENTITY openLinkCmdInTab.accesskey "s">
