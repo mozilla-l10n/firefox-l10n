@@ -410,8 +410,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Chcete vylepšiť vyhľadávanie zahrnutím návrhov z vyhľadávacích modulov?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Ďalšie informácie…">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "a">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Nie">
+<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "N">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Áno">
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "o">
 
 <!--
   Comment duplicated from browser-sets.inc:
