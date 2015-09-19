@@ -5,19 +5,19 @@
 <!ENTITY editContactPanelDeleteContact.label "Delete">
 <!ENTITY editContactPanelDeleteContact.accesskey "l">
 
-<!ENTITY editContactName.label "Name:">
-<!ENTITY editContactName.accesskey "N">
+<!ENTITY editContactName.label "Ім’я:">
+<!ENTITY editContactName.accesskey "І">
 
 <!ENTITY editContactEmail.label "Email:">
 <!ENTITY editContactEmail.accesskey "E">
 
-<!ENTITY editContactAddressBook.label "Address Book:">
-<!ENTITY editContactAddressBook.accesskey "A">
+<!ENTITY editContactAddressBook.label "Адресна книга:">
+<!ENTITY editContactAddressBook.accesskey "А">
 
-<!ENTITY editContactPanelCancel.label "Cancel">
-<!ENTITY editContactPanelCancel.accesskey "C">
+<!ENTITY editContactPanelCancel.label "Скасувати">
+<!ENTITY editContactPanelCancel.accesskey "С">
 
-<!ENTITY editContactPanelDone.label "Done">
-<!ENTITY editContactPanelDone.accesskey "D">
+<!ENTITY editContactPanelDone.label "Готово">
+<!ENTITY editContactPanelDone.accesskey "Г">
 
-<!ENTITY contactMoveDisabledWarning.description "You can't change the address book because the contact is in a mailing list.">
+<!ENTITY contactMoveDisabledWarning.description "Ви не можете змінити адресну книгу бо контакт є у списку розсилки.">

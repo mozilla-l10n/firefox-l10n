@@ -2,59 +2,59 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY window.title "Filter Rules">
+<!ENTITY window.title "Правила фільтрації">
 <!ENTITY filterEditorDialog.dimensions "width: 100ch;">
-<!ENTITY filterName.label "Filter name:">
-<!ENTITY filterName.accesskey "i">
+<!ENTITY filterName.label "Назва фільтру:">
+<!ENTITY filterName.accesskey "І">
 
-<!ENTITY junk.label "Junk">
-<!ENTITY notJunk.label "Not Junk">
+<!ENTITY junk.label "Спам">
+<!ENTITY notJunk.label "Не спам">
 
-<!ENTITY lowestPriorityCmd.label "Lowest">
-<!ENTITY lowPriorityCmd.label "Low">
-<!ENTITY normalPriorityCmd.label "Normal">
-<!ENTITY highPriorityCmd.label "High">
-<!ENTITY highestPriorityCmd.label "Highest">
+<!ENTITY lowestPriorityCmd.label "найнижчу">
+<!ENTITY lowPriorityCmd.label "низьку">
+<!ENTITY normalPriorityCmd.label "звичайну">
+<!ENTITY highPriorityCmd.label "високу">
+<!ENTITY highestPriorityCmd.label "найвищу">
 
-<!ENTITY contextDesc.label "Apply filter when:">
-<!ENTITY contextIncomingMail.label "Getting New Mail:">
-<!ENTITY contextIncomingMail.accesskey "G">
-<!ENTITY contextManual.label "Manually Run">
-<!ENTITY contextManual.accesskey "R">
-<!ENTITY contextBeforeCls.label "Filter before Junk Classification">
-<!ENTITY contextAfterCls.label "Filter after Junk Classification">
+<!ENTITY contextDesc.label "Застосувати фільтр:">
+<!ENTITY contextIncomingMail.label "Отримання нової пошти:">
+<!ENTITY contextIncomingMail.accesskey "О">
+<!ENTITY contextManual.label "Вручну">
+<!ENTITY contextManual.accesskey "р">
+<!ENTITY contextBeforeCls.label "(перед перевіркою чи не спам)">
+<!ENTITY contextAfterCls.label "(по перевірці чи не спам)">
 <!ENTITY contextOutgoing.label "After Sending">
 <!ENTITY contextOutgoing.accesskey "S">
 <!ENTITY contextArchive.label "Archiving">
 <!ENTITY contextArchive.accesskey "A">
 
-<!ENTITY filterActionDesc.label "Perform these actions:">
-<!ENTITY filterActionDesc.accesskey "P">
+<!ENTITY filterActionDesc.label "Виконувати наступні дії:">
+<!ENTITY filterActionDesc.accesskey "и">
 
 <!ENTITY filterActionOrderWarning.label "Note: Filter actions will be run in a different order.">
 <!ENTITY filterActionOrder.label "See execution order">
 
 <!-- New Style Filter Rule Actions -->
-<!ENTITY moveMessage.label "Move Message to">
-<!ENTITY copyMessage.label "Copy Message to">
-<!ENTITY forwardTo.label "Forward Message to">
-<!ENTITY replyWithTemplate.label "Reply with Template">
-<!ENTITY markMessageRead.label "Mark As Read">
-<!ENTITY markMessageUnread.label "Mark As Unread">
-<!ENTITY markMessageStarred.label "Add Star">
-<!ENTITY setPriority.label "Set Priority to">
-<!ENTITY addTag.label "Tag Message">
-<!ENTITY setJunkScore.label "Set Junk Status to">
-<!ENTITY deleteMessage.label "Delete Message">
-<!ENTITY deleteFromPOP.label "Delete From POP Server">
-<!ENTITY fetchFromPOP.label "Fetch From POP Server">
-<!ENTITY ignoreThread.label "Ignore Thread">
-<!ENTITY ignoreSubthread.label "Ignore Subthread">
-<!ENTITY watchThread.label "Watch Thread">
-<!ENTITY stopExecution.label "Stop Filter Execution">
+<!ENTITY moveMessage.label "Перемістити повідомлення у">
+<!ENTITY copyMessage.label "Копіювати повідомлення у">
+<!ENTITY forwardTo.label "Переслати повідомлення до">
+<!ENTITY replyWithTemplate.label "Відповісти за шаблоном">
+<!ENTITY markMessageRead.label "Позначити як прочитане">
+<!ENTITY markMessageUnread.label "Позначити як нечитане">
+<!ENTITY markMessageStarred.label "Додати зірочку">
+<!ENTITY setPriority.label "Змінити важливість на">
+<!ENTITY addTag.label "Помітити повідомлення">
+<!ENTITY setJunkScore.label "Встановити ознаку спаму">
+<!ENTITY deleteMessage.label "Вилучити повідомлення">
+<!ENTITY deleteFromPOP.label "Вилучити з поштового сервера">
+<!ENTITY fetchFromPOP.label "Завантажити з поштового сервера">
+<!ENTITY ignoreThread.label "Ігнорувати гілку">
+<!ENTITY ignoreSubthread.label "Ігнорувати підгілку">
+<!ENTITY watchThread.label "Відстежувати гілку">
+<!ENTITY stopExecution.label "Припинити роботу фільтра">
 
-<!ENTITY addAction.tooltip "Add a new action">
-<!ENTITY removeAction.tooltip "Remove this action">
+<!ENTITY addAction.tooltip "Додати нову дію">
+<!ENTITY removeAction.tooltip "Вилучити цю дію">
 
 <!-- LOCALIZATION NOTE
   The values below are used to control the widths of the filter action widgets.

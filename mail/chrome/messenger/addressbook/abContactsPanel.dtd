@@ -2,26 +2,26 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY addressbookPicker.label            "Address Book:">
-<!ENTITY addressbookPicker.accesskey        "k">
-<!ENTITY searchInput.label                  "Search For:">
-<!ENTITY searchInput.accesskey              "o">
-<!ENTITY SearchNameOrEmail.label            "Name or Email">
+<!ENTITY addressbookPicker.label            "Адресна книга:">
+<!ENTITY addressbookPicker.accesskey        "к">
+<!ENTITY searchInput.label                  "Пошук:">
+<!ENTITY searchInput.accesskey              "о">
+<!ENTITY SearchNameOrEmail.label            "Ім’я або адреса електронної пошти">
 
-<!ENTITY deleteAddrBookCard.label           "Delete">
-<!ENTITY deleteAddrBookCard.accesskey       "D">
-<!ENTITY addrBookCardProperties.label       "Properties">
-<!ENTITY addrBookCardProperties.accesskey   "P">
-<!ENTITY addtoToFieldMenu.label             "Add to To field">
-<!ENTITY addtoToFieldMenu.accesskey         "A">
-<!ENTITY addtoCcFieldMenu.label             "Add to Cc field">
-<!ENTITY addtoCcFieldMenu.accesskey         "C">
-<!ENTITY addtoBccFieldMenu.label            "Add to Bcc field">
-<!ENTITY addtoBccFieldMenu.accesskey        "B">
+<!ENTITY deleteAddrBookCard.label           "Видалити">
+<!ENTITY deleteAddrBookCard.accesskey       "д">
+<!ENTITY addrBookCardProperties.label       "Властивості">
+<!ENTITY addrBookCardProperties.accesskey   "л">
+<!ENTITY addtoToFieldMenu.label             "Кому">
+<!ENTITY addtoToFieldMenu.accesskey         "К">
+<!ENTITY addtoCcFieldMenu.label             "Копія">
+<!ENTITY addtoCcFieldMenu.accesskey         "п">
+<!ENTITY addtoBccFieldMenu.label            "Прихована копія">
+<!ENTITY addtoBccFieldMenu.accesskey        "х">
 
-<!ENTITY toButton.label                     "Add to To:">
-<!ENTITY toButton.accesskey                 "A">
-<!ENTITY ccButton.label                     "Add to Cc:">
-<!ENTITY ccButton.accesskey                 "C">
-<!ENTITY bccButton.label                    "Add to Bcc:">
-<!ENTITY bccButton.accesskey                "B">
+<!ENTITY toButton.label                     "Кому:">
+<!ENTITY toButton.accesskey                 "м">
+<!ENTITY ccButton.label                     "Копія:">
+<!ENTITY ccButton.accesskey                 "і">
+<!ENTITY bccButton.label                    "Прихована копія:">
+<!ENTITY bccButton.accesskey                "П">

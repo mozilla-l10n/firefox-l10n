@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY all.label          "Download all headers">
-<!ENTITY all.accesskey      "D">
+<!ENTITY all.label          "Завантажити всі заголовки">
+<!ENTITY all.accesskey      "с">
 <!--LOCALIZATION NOTE (download.label):
     consider the download.label and headers.label as a single sentence
    with the number of headers to be downloaded inserted between them:
@@ -11,10 +11,10 @@
    Either label could be set to null ("") if required grammatically.
 -->
 
-<!ENTITY download.label     "Download">
-<!ENTITY download.accesskey "o">
+<!ENTITY download.label     "Завантажити">
+<!ENTITY download.accesskey "З">
 <!--LOCALIZATION NOTE (headers.label): see note for download.label -->
-<!ENTITY headers.label      "headers">
-<!ENTITY headers.accesskey  "h">
-<!ENTITY mark.label         "Mark remaining headers as read">
-<!ENTITY mark.accesskey     "M">
+<!ENTITY headers.label      "заголовків">
+<!ENTITY headers.accesskey  "г">
+<!ENTITY mark.label         "Позначити решту прочитаними">
+<!ENTITY mark.accesskey     "П">
