@@ -6,13 +6,20 @@
 <!ENTITY  no_space_to_start_error "Na spustenie prehliadača &brandShortName; nie je dostatok miesta.">
 <!ENTITY  error_loading_file "Pri načítavaní súborov potrebných na spustenie prehliadača &brandShortName; sa vyskytla chyba.">
 
+<!ENTITY firstrun_panel_title_welcome "Vitajte">
 <!ENTITY  onboard_start_message3 "Prehliadate pomocou prehladača &brandShortName;">
 <!ENTITY  onboard_start_subtext3 "Zážitok z mobilného prehliadania webu presne taký, ako ho chcete.">
 <!ENTITY  onboard_start_button_account "Prihlásiť sa k &brandShortName;u">
 <!ENTITY  onboard_start_button_browser "Začať prehliadať">
+
 <!ENTITY  onboard_start_restricted1 "Buďte v bezpečí a majte veci pod kontrolou s touto zjednodušenou verziou prehliadača &brandShortName;.">
 <!ENTITY firstrun_button_next "Ďalej">
 
+<!ENTITY firstrun_import_title "Import">
+<!ENTITY firstrun_import_message "Víta vás &brandShortName;">
+<!ENTITY firstrun_import_subtext "Importuje vaše záložky a históriu z iného prehliadača.">
+<!ENTITY firstrun_import_action "Preniesť do prehliadača &brandShortName;">
+<!ENTITY firstrun_import_dialog_button "Preniesť">
 <!ENTITY firstrun_import_progress_title "Prenáša sa">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -485,8 +492,6 @@ size. -->
 <!ENTITY button_set "Nastaviť">
 <!ENTITY button_clear "Vymazať">
 <!ENTITY button_copy "Kopírovať">
-
-<!ENTITY firstrun_panel_title_welcome "Vitajte">
 
 <!ENTITY home_top_sites_title "Top stránky">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
