@@ -4,16 +4,19 @@
 
 <!ENTITY no_space_to_start_error "Spazio libero insufficiente per avviare &brandShortName;.">
 <!ENTITY error_loading_file "Si è verificato un errore durante il caricamento di un file necessario per l’esecuzione di &brandShortName;">
+<!ENTITY firstrun_panel_title_welcome "Benvenuto">
 <!ENTITY onboard_start_message3 "Naviga con &brandShortName;">
 <!ENTITY onboard_start_subtext3 "Un’esperienza di navigazione che si adatta alle tue esigenze.">
 <!ENTITY onboard_start_button_account "Accedi a &brandShortName;">
 <!ENTITY onboard_start_button_browser "Inizia a navigare">
+<!ENTITY firstrun_button_next "Successivo">
 <!ENTITY onboard_start_restricted1 "Sicurezza e controllo garantiti grazie a questa versione semplificata di &brandShortName;.">
 <!ENTITY firstrun_import_title "Importa">
 <!ENTITY firstrun_import_message "Benvenuto in &brandShortName;">
 <!ENTITY firstrun_import_subtext "Importa segnalibri e cronologia da un altro browser.">
 <!ENTITY firstrun_import_action "Trasferisci in &brandShortName;">
 <!ENTITY firstrun_import_dialog_button "Avvia">
+<!ENTITY firstrun_import_progress_title "Trasferimento">
 <!ENTITY bookmarks_title "Segnalibri">
 <!ENTITY home_title "&brandShortName; Home">
 <!ENTITY history_title "Cronologia">
