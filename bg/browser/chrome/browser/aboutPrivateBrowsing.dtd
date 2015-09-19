@@ -13,6 +13,8 @@
      of the Tracking Protection section, and in general not much larger than
      30em to prevent the sections from wrapping on smaller window sizes.
      -->
+
+<!ENTITY aboutPrivateBrowsing.width            "30em">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
      aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
      These strings will be replaced by aboutPrivateBrowsing.forgotten and
@@ -20,19 +22,21 @@
      -->
 
 <!ENTITY aboutPrivateBrowsing.title            "Сърфирате поверително">
+<!ENTITY aboutPrivateBrowsing.subtitle         "В този прозорец &brandShortName; няма да запомни историята на браузването.">
 
-
-
+<!ENTITY aboutPrivateBrowsing.forgotten        "В този прозорец &brandShortName; няма да запомни:">
+<!ENTITY aboutPrivateBrowsing.info.forgotten   "Забравено">
 <!ENTITY aboutPrivateBrowsing.info.history     "История">
 <!ENTITY aboutPrivateBrowsing.info.searches    "Търсения">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Бисквитки">
-
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Временни файлове">
 
 <!ENTITY aboutPrivateBrowsing.kept             "&brandShortName; ще:">
-
+<!ENTITY aboutPrivateBrowsing.info.kept        "Запомнено">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Изтегляния">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Отметки">
 
+<!ENTITY aboutPrivateBrowsing.note1            "Имайте предвид, че вашият работодател или Интернет доставчик все още биха могли да проследят кои страници посещавате.">
 <!ENTITY aboutPrivateBrowsing.learnMore        "Научете повече.">
 <!-- LOCALIZATION NOTE (trackingProtection.width):
      Width of the Tracking Protection section. It is fine for the enabled or
@@ -43,12 +47,18 @@
      different, so testing on Windows, Mac, and Linux is encouraged.
      -->
 
+<!ENTITY trackingProtection.width              "22em">
+<!ENTITY trackingProtection.title              "Защита от проследяване">
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
 
+<!ENTITY trackingProtection.state.width        "6ch">
+<!ENTITY trackingProtection.state.enabled      "Включена">
+<!ENTITY trackingProtection.state.disabled     "Изключена">
 
+<!ENTITY trackingProtection.description1       "Поверителните прозорци вече блокират елементи от страницата, които биха могли да проследяват вашето браузване.">
 
-
-
-
+<!ENTITY trackingProtection.disable            "Изключване на защитата от проследяване">
+<!ENTITY trackingProtection.enable             "Включване на защитата от проследяване">
+<!ENTITY trackingProtection.startTour1         "Как работи защитата от проследяване">
