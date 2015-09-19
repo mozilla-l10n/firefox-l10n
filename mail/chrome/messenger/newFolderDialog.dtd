@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
    
 <!-- Labels -->
-<!ENTITY newFolderDialog.title      "New Folder">
-<!ENTITY name.label                 "Name:">
-<!ENTITY name.accesskey             "n">
-<!ENTITY description.label          "Create as a subfolder of:">
-<!ENTITY description.accesskey      "c">
-<!ENTITY folderRestriction1.label   "This server restricts folders to two special kinds.">
-<!ENTITY folderRestriction2.label   "Allow your new folder to contain:">
-<!ENTITY foldersOnly.label          "Folders Only">
-<!ENTITY messagesOnly.label         "Messages Only">
-<!ENTITY accept.label               "Create Folder">
-<!ENTITY accept.accesskey           "r">
+<!ENTITY newFolderDialog.title      "Створити теку">
+<!ENTITY name.label                 "Назва:">
+<!ENTITY name.accesskey             "Н">
+<!ENTITY description.label          "Створити як вкладену теку:">
+<!ENTITY description.accesskey      "С">
+<!ENTITY folderRestriction1.label   "Цей сервер розділяє теки на два типи.">
+<!ENTITY folderRestriction2.label   "Дозволити новій теці містити:">
+<!ENTITY foldersOnly.label          "Теки">
+<!ENTITY messagesOnly.label         "Листи">
+<!ENTITY accept.label               "Створити теку">
+<!ENTITY accept.accesskey           "и">

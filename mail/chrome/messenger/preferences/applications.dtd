@@ -2,37 +2,37 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  typeColumn.label            "Content Type">
-<!ENTITY  typeColumn.accesskey        "T">
+<!ENTITY  typeColumn.label            "Тип вмісту">
+<!ENTITY  typeColumn.accesskey        "Т">
 
-<!ENTITY  actionColumn2.label         "Action">
-<!ENTITY  actionColumn2.accesskey     "A">
+<!ENTITY  actionColumn2.label         "Дія">
+<!ENTITY  actionColumn2.accesskey     "Д">
 
 <!ENTITY  focusSearch1.key            "f">
 <!ENTITY  focusSearch2.key            "k">
 
-<!ENTITY  filter.placeholder          "Search">
+<!ENTITY  filter.placeholder          "Пошук">
 
-<!ENTITY saveTo.label                 "Save files to">
-<!ENTITY saveTo.accesskey             "S">
-<!ENTITY alwaysAsk.label              "Always ask me where to save files">
-<!ENTITY alwaysAsk.accesskey          "A">
-<!ENTITY chooseFolderWin.label        "Browse…">
-<!ENTITY chooseFolderWin.accesskey    "B">
-<!ENTITY chooseFolderMac.label        "Choose…">
-<!ENTITY chooseFolderMac.accesskey    "C">
+<!ENTITY saveTo.label                 "Зберігати файли до">
+<!ENTITY saveTo.accesskey             "З">
+<!ENTITY alwaysAsk.label              "Завжди питати мене куди зберігати файли">
+<!ENTITY alwaysAsk.accesskey          "п">
+<!ENTITY chooseFolderWin.label        "Вибрати…">
+<!ENTITY chooseFolderWin.accesskey    "В">
+<!ENTITY chooseFolderMac.label        "Вибрати…">
+<!ENTITY chooseFolderMac.accesskey    "В">
 
-<!ENTITY attachments.incoming.label   "Incoming">
-<!ENTITY attachments.outgoing.label   "Outgoing">
+<!ENTITY attachments.incoming.label   "Вхідні">
+<!ENTITY attachments.outgoing.label   "Вихідні">
 
-<!ENTITY addCloudFileAccount.label        "Add">
-<!ENTITY addCloudFileAccount.accesskey    "A">
-<!ENTITY addCloudFileAccount.description  "Add a new Filelink storage service">
-<!ENTITY removeCloudFileAccount.label     "Remove">
-<!ENTITY removeCloudFileAccount.accesskey "R">
-<!ENTITY authRequired.description         "Your authorization is required in order to see the settings for this storage service.">
-<!ENTITY authRequired.button.label        "Authorize">
-<!ENTITY authRequired.button.accesskey    "U">
+<!ENTITY addCloudFileAccount.label        "Додати">
+<!ENTITY addCloudFileAccount.accesskey    "Д">
+<!ENTITY addCloudFileAccount.description  "Додати нову службу зберігання Filelink">
+<!ENTITY removeCloudFileAccount.label     "Вилучити">
+<!ENTITY removeCloudFileAccount.accesskey "В">
+<!ENTITY authRequired.description         "Для перегляду налаштувань цієї служби зберігання потрібна ваша авторизація.">
+<!ENTITY authRequired.button.label        "Авторизуватись">
+<!ENTITY authRequired.button.accesskey    "А">
 
-<!ENTITY enableCloudFileAccountOffer.label "Offer to share for files larger than">
-<!ENTITY enableCloudFileAccountOffer.mb "MB">
+<!ENTITY enableCloudFileAccountOffer.label "Пропонувати поділитись для файлів більших за ">
+<!ENTITY enableCloudFileAccountOffer.mb "Мб">

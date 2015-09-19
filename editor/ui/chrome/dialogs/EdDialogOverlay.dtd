@@ -2,17 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY AdvancedEditButton.label "Advanced Edit…">
-<!ENTITY AdvancedEditButton.accessKey "E">
-<!ENTITY AdvancedEditButton.tooltip "Add or modify HTML attributes, style attributes, and JavaScript">
-<!ENTITY chooseFileButton.label "Choose File...">
-<!ENTITY chooseFileButton.accessKey "F">
-<!ENTITY chooseFileLinkButton.label "Choose File...">
-<!ENTITY chooseFileLinkButton.accessKey "o">
-<!ENTITY makeUrlRelative.label "URL is relative to page location">
-<!ENTITY makeUrlRelative.accessKey "r">
-<!ENTITY makeUrlRelative.tooltip "Change between relative and absolute URL. You must first save the page to change this.">
+<!ENTITY AdvancedEditButton.label "Додатково…">
+<!ENTITY AdvancedEditButton.accessKey "Д">
+<!ENTITY AdvancedEditButton.tooltip "Додавання або зміна HTML-атрибутів, атрибутів стилів і JavaScript">
+<!ENTITY chooseFileButton.label "Вибрати файл…">
+<!ENTITY chooseFileButton.accessKey "ф">
+<!ENTITY chooseFileLinkButton.label "Вибрати файл…">
+<!ENTITY chooseFileLinkButton.accessKey "а">
+<!ENTITY makeUrlRelative.label "Відносний URL">
+<!ENTITY makeUrlRelative.accessKey "с">
+<!ENTITY makeUrlRelative.tooltip "Змінити абсолютний URL на відносний. Перед зміною вам потрібно зберегти сторінку.">
 
 <!-- Shared by Link and Image dialogs -->
-<!ENTITY LinkURLEditField.label "Enter a web page location, a local file, or select a Named Anchor or Heading from the popup list:">
-<!ENTITY LinkURLEditField.accessKey "w">
+<!ENTITY LinkURLEditField.label "Введіть адресу веб-сторінки, локального файлу або виберіть якір або заголовок з ім’ям із списку:">
+<!ENTITY LinkURLEditField.accessKey "а">
