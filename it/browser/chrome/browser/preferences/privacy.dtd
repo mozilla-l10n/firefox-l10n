@@ -12,7 +12,7 @@
 <!ENTITY trackingProtectionPBM5.label "Attiva la protezione antitracciamento in modalità Navigazione anonima">
 <!ENTITY trackingProtectionPBM5.accesskey "e">
 <!ENTITY trackingProtectionPBMLearnMore.label "Ulteriori informazioni">
-<!ENTITY changeBlockList.label "Cambia elenco per blocco elementi traccianti">
+<!ENTITY changeBlockList.label "Seleziona elenco">
 <!ENTITY changeBlockList.accesskey "l">
 <!ENTITY history.label "Cronologia">
 <!ENTITY locationBar.label "Barra degli indirizzi">
