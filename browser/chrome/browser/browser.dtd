@@ -395,7 +395,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Превключване към подпрозорец:">
 
-<!ENTITY urlbar.searchSuggestionsNotification.question "Искате ли да се показват предложения при въвеждане на думи за търсене?">
+<!ENTITY urlbar.searchSuggestionsNotification.question "Искате ли да се показват подсказки при въвеждане на думи за търсене?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Научете повече…">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Не">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Да">
