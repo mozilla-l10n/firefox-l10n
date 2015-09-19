@@ -55,8 +55,11 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsMemoryUse "Използване на паметта">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
+<!ENTITY aboutSupport.appBasicsServiceWorkers "Регистрирани скрити обслужващи страници">
+
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Многопроцесни прозорци">
 
+<!ENTITY aboutSupport.appBasicsSafeMode "Надежден режим">
 
 <!ENTITY aboutSupport.showDir.label "Отваряне на директория">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
