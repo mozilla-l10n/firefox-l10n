@@ -79,16 +79,16 @@
 <!ENTITY saveAsAttachmentCmd.accesskey    "G">
 <!ENTITY detachAttachmentCmd.label    "Separar…">
 <!ENTITY detachAttachmentCmd.accesskey    "S">
-<!ENTITY deleteAttachmentCmd.label    "Eliminar">
-<!ENTITY deleteAttachmentCmd.accesskey    "l">
+<!ENTITY deleteAttachmentCmd.label    "Apagar">
+<!ENTITY deleteAttachmentCmd.accesskey    "A">
 <!ENTITY openAllAttachmentsCmd.label    "Abrir tudo…">
 <!ENTITY openAllAttachmentsCmd.accesskey    "o">
 <!ENTITY saveAllAttachmentsCmd.label    "Guardar tudo...">
 <!ENTITY saveAllAttachmentsCmd.accesskey    "u">
 <!ENTITY detachAllAttachmentsCmd.label    "Separar tudo...">
 <!ENTITY detachAllAttachmentsCmd.accesskey    "e">
-<!ENTITY deleteAllAttachmentsCmd.label    "Eliminar tudo...">
-<!ENTITY deleteAllAttachmentsCmd.accesskey    "l">
+<!ENTITY deleteAllAttachmentsCmd.label    "Apagar tudo...">
+<!ENTITY deleteAllAttachmentsCmd.accesskey    "A">
 
 <!ENTITY openAttachment.tooltip "Abrir ficheiro anexo">
 <!-- Attachment toolbar items -->

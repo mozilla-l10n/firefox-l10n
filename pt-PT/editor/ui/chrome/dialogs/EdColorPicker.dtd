@@ -11,7 +11,7 @@
 <!ENTITY setColorExample.label "(ex.: &quot;#0000ff&quot; ou &quot;blue&quot;):">
 <!ENTITY default.label "Pré-definido">
 <!ENTITY default.accessKey "d">
-<!ENTITY palette.label "Palete:">
+<!ENTITY palette.label "Paleta:">
 <!ENTITY standardPalette.label "Padrão">
 <!ENTITY webPalette.label "Todas as cores web">
 <!ENTITY background.label "Fundo para:">
