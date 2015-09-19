@@ -19,7 +19,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.whatShouldIDo.heading "怎么办？">
 <!ENTITY certerror.whatShouldIDo.content "如果您过去曾连接到此网站且没有遇到该问题，那么此错误表示可能有人试图冒充该网站，因此您应该停止浏览。">
-<!ENTITY certerror.getMeOutOfHere.label "让我离开！">
+<!ENTITY certerror.getMeOutOfHere.label "带我离开！">
 
 <!ENTITY certerror.expert.heading "我已充分了解可能的风险">
 <!ENTITY certerror.expert.content "如果您了解现在所发生的一切，您可以让 &brandShortName; 开始信任此站点的凭据。<b>即便您信任此站点，这个错误也可能表明有人试图干涉您的连接。</b>">

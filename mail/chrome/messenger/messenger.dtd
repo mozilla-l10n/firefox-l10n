@@ -267,7 +267,7 @@
 
 <!ENTITY findMenu.label "查找">
 <!ENTITY findMenu.accesskey "F">
-<!ENTITY findCmd.label "在消息中查找…">
+<!ENTITY findCmd.label "在此消息中查找…">
 <!ENTITY findCmd.accesskey "F">
 <!ENTITY findCmd.key "f">
 <!ENTITY findAgainCmd.label "再次查找">
