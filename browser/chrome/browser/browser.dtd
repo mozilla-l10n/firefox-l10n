@@ -464,6 +464,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchWithHeader.label       "Vyhľadávať pomocou:">
 <!ENTITY changeSearchSettings.button  "Zmeniť nastavenia vyhľadávania">
 
+<!ENTITY searchInNewTab.label         "Hľadať na novej karte">
+<!ENTITY searchInNewTab.accesskey     "H">
+<!ENTITY searchSetAsDefault.label     "Nastaviť ako predvolený vyhľadávací modul">
+<!ENTITY searchSetAsDefault.accesskey "N">
+
 <!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label "Otvoriť odkaz na novej karte">
