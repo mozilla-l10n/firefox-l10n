@@ -5,5 +5,5 @@
    %brandDTD;
 <!ENTITY aboutLogins.title                       "Prijave">
 <!ENTITY aboutLogins.update                      "Ažuriraj">
-
-
+<!ENTITY aboutLogins.emptyLoginText              "Držite svoje prijave sigurnima">
+<!ENTITY aboutLogins.emptyLoginHint              "Prijave i vjerodajnice koje spremite koristeći &brandShortName; će se pojaviti ovdje.">
