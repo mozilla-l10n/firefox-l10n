@@ -8,10 +8,15 @@
 <!ENTITY lightning.toolbar.task.name.accesskey "T">
 
 <!ENTITY lightning.toolbar.sync.label "Синхронизиране">
+
 <!ENTITY lightning.toolbar.delete.label "Изтриване">
+
 <!ENTITY lightning.toolbar.edit.label "Редактиране">
-<!ENTITY lightning.toolbar.gototoday.label "Отиване в днешния ден">
+
+
+
 <!ENTITY lightning.toolbar.print.label "Отпечатване">
+
 <!-- Mode Toolbar -->
 
 <!ENTITY lightning.toolbar.calendar.label     "Календар">
@@ -23,7 +28,9 @@
 <!-- Toolbar write button -->
 
 <!ENTITY lightning.toolbar.newevent.label     "Събитие">
+<!ENTITY lightning.toolbar.newevent.tooltip   "Създаване на ново събитие">
 <!ENTITY lightning.toolbar.newtask.label      "Задача">
+<!ENTITY lightning.toolbar.newtask.tooltip    "Създаване на нова задача">
 <!-- Calendar and Task Mode Toolbar -->
 
 <!ENTITY lightning.toolbar.day.label                 "Ден">

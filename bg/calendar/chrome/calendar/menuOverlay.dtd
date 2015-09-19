@@ -34,6 +34,7 @@
 <!ENTITY showUnifinderCmd.label                 "Намиране на събития">
 <!ENTITY showUnifinderCmd.accesskey             "м">
 
+
 <!ENTITY calendar.displaytodos.checkbox.label       "Показване на задачите в календара">
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "з">
 
