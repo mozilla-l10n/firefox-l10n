@@ -6,12 +6,21 @@
 <!ENTITY  no_space_to_start_error "Il n\u0027y a pas assez d\u0027espace disponible pour permettre à &brandShortName; de démarrer.">
 <!ENTITY  error_loading_file "Une erreur est survenue en essayant de charger des fichiers nécessaires pour lancer &brandShortName;">
 
+<!ENTITY firstrun_panel_title_welcome "Bienvenue">
 <!ENTITY  onboard_start_message3 "Naviguez avec &brandShortName;">
 <!ENTITY  onboard_start_subtext3 "Personnalisez facilement votre navigation web mobile.">
 <!ENTITY  onboard_start_button_account "Se connecter à &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Commencer la navigation">
+<!ENTITY firstrun_button_next "Suivant">
+
 <!ENTITY  onboard_start_restricted1 "Restez en sécurité et aux commandes avec cette version simplifiée de &brandShortName;.">
 
+<!ENTITY firstrun_import_title "Importer">
+<!ENTITY firstrun_import_message "Bienvenue dans &brandShortName;">
+<!ENTITY firstrun_import_subtext "Importez vos marque-pages et votre historique depuis un autre navigateur.">
+<!ENTITY firstrun_import_action "Transférer sur &brandShortName;">
+<!ENTITY firstrun_import_dialog_button "Transférer">
+<!ENTITY firstrun_import_progress_title "Transfert en cours">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
@@ -192,6 +201,9 @@
 <!ENTITY pref_home_updates_wifi "Seulement par Wi-Fi">
 <!ENTITY pref_home_suggested_sites "Suggestions de sites">
 <!ENTITY pref_home_suggested_sites_summary "Afficher sur votre écran d\u0027accueil des raccourcis vers des sites que nous pensons que vous trouverez intéressants">
+<!ENTITY pref_category_home_homepage "Page d\u0027accueil">
+<!ENTITY home_homepage_title "Définir une page d\u0027accueil">
+<!ENTITY home_homepage_use_current_tab "Utilise l\u0027onglet actuel">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Personnalisation">
@@ -720,7 +732,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarks_support "Firefox : assistance">
 <!-- LOCALIZATION NOTE (bookmarks_marketplace): link title for https://marketplace.firefox.com -->
 <!ENTITY bookmarks_marketplace "Firefox Marketplace">
-<!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/kids -->
-<!ENTITY bookmarks_restricted_support "Aide et assistance de Firefox pour la version simplifiée de Firefox conçue pour les enfants">
+<!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!ENTITY bookmarks_restricted_support2 "Aide et assistance de Firefox pour les profils restreints sur les tablettes Android">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker): link title for https://webmaker.org -->
 <!ENTITY bookmarks_restricted_webmaker "Apprenez le Web : Mozilla Webmaker">

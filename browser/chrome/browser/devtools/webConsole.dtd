@@ -11,24 +11,6 @@
 <!ENTITY window.title "Console web">
 <!ENTITY browserConsole.title "Console du navigateur">
 
-<!ENTITY networkPanel.requestURLColon             "URL de la requête :">
-<!ENTITY networkPanel.requestMethodColon          "Méthode de la requête :">
-<!ENTITY networkPanel.statusCodeColon             "Code d'état :">
-
-<!ENTITY networkPanel.requestHeaders              "En-têtes de la requête">
-<!ENTITY networkPanel.requestCookie               "Cookie envoyé">
-<!ENTITY networkPanel.requestBody                 "Contenu de la requête">
-<!ENTITY networkPanel.requestFormData             "Données de formulaire envoyées">
-
-<!ENTITY networkPanel.responseHeaders             "En-têtes de la réponse">
-<!ENTITY networkPanel.responseCookie              "Cookie reçu">
-<!ENTITY networkPanel.responseBody                "Contenu de la réponse">
-<!ENTITY networkPanel.responseBodyCached          "Données en cache">
-<!ENTITY networkPanel.responseBodyUnknownType     "Type de contenu inconnu">
-<!ENTITY networkPanel.responseNoBody              "Aucun contenu dans la réponse">
-<!ENTITY networkPanel.responseImage               "Image reçue">
-<!ENTITY networkPanel.responseImageCached         "Image en cache">
-
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
 <!ENTITY saveBodies.label     "Journaliser le contenu des requêtes et des réponses">

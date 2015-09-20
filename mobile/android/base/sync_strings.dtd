@@ -206,6 +206,7 @@
 
 <!ENTITY fxaccount_status_header2 'Compte Firefox'>
 <!ENTITY fxaccount_status_signed_in_as 'Connecté en tant que'>
+<!ENTITY fxaccount_status_manage_account 'Gérer le compte'>
 <!ENTITY fxaccount_status_auth_server 'Serveur de comptes'>
 <!ENTITY fxaccount_status_sync_now 'Synchroniser maintenant'>
 <!ENTITY fxaccount_status_syncing2 'Synchronisation…'>
