@@ -415,6 +415,8 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Épingler ce site">
 <!ENTITY contextmenu_top_sites_unpin "Relâcher ce site">
 <!ENTITY contextmenu_add_search_engine "Ajouter moteur recherche">
+<!ENTITY contextmenu_mark_read "Marquer comme lu">
+<!ENTITY contextmenu_mark_unread "Marquer comme non lu">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
