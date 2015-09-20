@@ -36,6 +36,7 @@
 <!ENTITY aboutPrivateBrowsing.info.downloads   "ডাউনলোডসমূহ">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Bookmarks">
 
+<!ENTITY aboutPrivateBrowsing.note1            "আপনার নিয়োগকর্তা বা ইন্টারনেট পরিষেবা প্রদানকারী এখনও আপনার পরিদর্শন করা পৃষ্ঠা ট্র্যাক করতে পারেন দয়া করে নোট করুন |">
 <!ENTITY aboutPrivateBrowsing.learnMore        "আরও জানুন।">
 <!-- LOCALIZATION NOTE (trackingProtection.width):
      Width of the Tracking Protection section. It is fine for the enabled or
@@ -46,12 +47,18 @@
      different, so testing on Windows, Mac, and Linux is encouraged.
      -->
 
+<!ENTITY trackingProtection.width              "26em">
+<!ENTITY trackingProtection.title              "ট্র্যাকিং সুরক্ষা">
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
 
+<!ENTITY trackingProtection.state.width        "6ch">
+<!ENTITY trackingProtection.state.enabled      "চালু">
+<!ENTITY trackingProtection.state.disabled     "বন্ধ">
 
+<!ENTITY trackingProtection.description1       "ব্যক্তিগত উইন্ডোতে এখন আপনার ব্রাউজিং কার্যকলাপ ট্র্যাক করতে পারে পৃষ্ঠার এমান অংশেকে অবরোধ করছে।">
 
-
-
-
+<!ENTITY trackingProtection.disable            "ট্র্যাকিং সুরক্ষা বন্ধ">
+<!ENTITY trackingProtection.enable             "ট্র্যাকিং সুরক্ষা চালু">
+<!ENTITY trackingProtection.startTour1         "এটিই কিভাবে কাজ করে দেখুন">
