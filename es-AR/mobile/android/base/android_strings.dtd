@@ -6,11 +6,22 @@
 <!ENTITY  no_space_to_start_error "No hay suficiente espacio para que &brandShortName; pueda iniciarse.">
 <!ENTITY  error_loading_file "Ha ocurrido un error mientras se trataban de cargar los archivos necesarios para ejecutar &brandShortName;">
 
+<!ENTITY firstrun_panel_title_welcome "Bienvenido">
 <!ENTITY  onboard_start_message3 "Navegar con &brandShortName;">
 <!ENTITY  onboard_start_subtext3 "Hacé que tu experiencia de navegación web móvil sea verdaderamente tuya.">
 <!ENTITY  onboard_start_button_account "Ingresar a &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Iniciar navegación">
 <!ENTITY  onboard_start_restricted1 "Mantenete seguro y en control con esta versión simplificada de &brandShortName;.">
+<!ENTITY firstrun_button_next "Siguiente">
+
+<!ENTITY  onboard_start_restricted1 "Mantenete seguro y en control con esta versión simplificada de &brandShortName;.">
+
+<!ENTITY firstrun_import_title "Importar">
+<!ENTITY firstrun_import_message "Bienvenido a &brandShortName;">
+<!ENTITY firstrun_import_subtext "Importa tus marcadores e historial desde otro navegador.">
+<!ENTITY firstrun_import_action "Transferrir a &brandShortName;">
+<!ENTITY firstrun_import_dialog_button "Transferir">
+<!ENTITY firstrun_import_progress_title "Transfiriendo">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
@@ -189,6 +200,9 @@
 <!ENTITY pref_home_updates_wifi "Solo sobre Wi-Fi">
 <!ENTITY pref_home_suggested_sites "Mostrar sugerencias de sitios">
 <!ENTITY pref_home_suggested_sites_summary "Mostrar accesos a sitios en tu página de inicio que pensamos que podés encontrar interesantes">
+<!ENTITY pref_category_home_homepage "Página de inicio">
+<!ENTITY home_homepage_title "Establecer una página de inicio">
+<!ENTITY home_homepage_use_current_tab "Usar pestaña actual">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Personalizar">
@@ -724,7 +738,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarks_support "Firefox: Soporte">
 <!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
 <!ENTITY bookmarks_marketplace "Firefox Marketplace">
-<!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/kids -->
-<!ENTITY bookmarks_restricted_support "Ayuda y soporte de Firefox para una versión simplificada de Firefox especial para niños">
+<!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!ENTITY bookmarks_restricted_support2 "Ayuda y soporte de Firefox para perfiles restringidos en tablets con Android">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
 <!ENTITY bookmarks_restricted_webmaker "Conozca la web: Mozilla Webmaker">

@@ -192,6 +192,7 @@
 
 <!ENTITY fxaccount_status_header2 'Cuenta de Firefox'>
 <!ENTITY fxaccount_status_signed_in_as 'Ingresado como'>
+<!ENTITY fxaccount_status_manage_account 'Administrar cuenta'>
 <!ENTITY fxaccount_status_auth_server 'Servidor de cuenta'>
 <!ENTITY fxaccount_status_sync_now 'Sincronizar ahora'>
 <!ENTITY fxaccount_status_syncing2 'Sincronizando…'>
