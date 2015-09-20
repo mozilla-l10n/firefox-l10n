@@ -471,6 +471,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchWithHeader.label       "Buscar con:">
 <!ENTITY changeSearchSettings.button  "Cambiar configuración de búsqueda">
 
+<!ENTITY searchInNewTab.label         "Buscar en nueva pestaña">
+<!ENTITY searchInNewTab.accesskey     "T">
+<!ENTITY searchSetAsDefault.label     "Configurar como buscador predeterminado">
+<!ENTITY searchSetAsDefault.accesskey "D">
+
 <!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmd.label "Abrir enlace en nueva ventana">
@@ -709,6 +714,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Esta página está guardada en su computadora.">
 <!ENTITY identity.connectionVerified1 "Está conectado de forma segura a este sitio, provisto por:">
 <!ENTITY identity.connectionInternal "Esta es una página de &brandShortName; segura.">
+<!ENTITY identity.insecureLoginForms "El ingreso puede estar comprometido.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; ha bloqueado partes de esta página que no son seguras.">
@@ -718,6 +724,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Strings for connection state warnings in the subview. -->
 <!ENTITY identity.description.insecure "La conexión a este sitio no es privada. La información que envíe puede ser vista por otros (como contraseñas, mensajes, tarjetas de crédito, etc.).">
+<!ENTITY identity.description.insecureLoginForms "La información de ingreso que se usó en esta página no es segura puede estar comprometida.">
 <!ENTITY identity.description.weakCipher "La conexión a este sitio usa cifrado débil y no es privada.">
 <!ENTITY identity.description.weakCipher2 "Otras personas pueden ver la información o modificar el comportamiento del sitio.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; ha bloqueado partes de esta página que no son seguras.">
@@ -736,6 +743,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.moreInfoLinkText2 "Más información">
 
 <!ENTITY identity.permissions "Permisos">
+<!ENTITY identity.permissionsEmpty "No ha dado permisos especiales a este sitio.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
 The word "toolbar" is appended automatically and should not be contained below! -->
