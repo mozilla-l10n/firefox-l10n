@@ -154,7 +154,7 @@
 <!ENTITY fxaccount_create_account_month_of_birth "Mês">
 <!ENTITY fxaccount_create_account_year_of_birth "Data de nascimento">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text2 "Ao continuar, eu concordo com a &formatS1; e a &formatS2; dos serviços na nuvem do Firefox.">
+<!ENTITY fxaccount_create_account_policy_text2 "Ao continuar, eu concordo com a &formatS1; e a &formatS2; dos serviços do Firefox na nuvem.">
 <!ENTITY fxaccount_create_account_button "Seguinte">
 <!ENTITY fxaccount_create_account_choose_what_to_sync "Escolher o que sincronizar">
 <!ENTITY fxaccount_create_account_sign_in_instead "Já tem uma conta? Inicie sessão">
