@@ -644,6 +644,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "B">
 
+<!ENTITY toggleMuteCmd.key              "N">
 
 <!ENTITY pageStyleMenu.label "Oldalstílus">
 <!ENTITY pageStyleMenu.accesskey "s">
@@ -683,20 +684,24 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "Kész">
 <!ENTITY editBookmark.cancel.label                   "Mégse">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "E">
 
 <!ENTITY identity.connectionSecure "Biztonságos kapcsolat">
 <!ENTITY identity.connectionNotSecure "A kapcsolat nem biztonságos">
-
+<!ENTITY identity.connectionFile "Ez az oldal a számítógépén van tárolva.">
 <!ENTITY identity.connectionVerified "A &brandShortName; ellenőrizte, hogy biztonságosan kapcsolódott ehhez ez oldalhoz; az üzemeltetője:">
 <!ENTITY identity.connectionInternal "Ez egy biztonságos &brandShortName; oldal.">
 <!-- Strings for connection state warnings. -->
 
-
-
+<!ENTITY identity.activeBlocked "A &brandShortName; néhány blokkolta az oldal néhány nem biztonságos elemét.">
+<!ENTITY identity.passiveLoaded "A weboldal egyes részei nem biztonságosak (például a képek).">
+<!ENTITY identity.activeLoaded "Kikapcsolta a védelmet ezen az oldalon.">
+<!ENTITY identity.weakEncryption "Ez az oldal gyenge titkosítást használ.">
 <!-- Strings for connection state warnings in the subview. -->
 
-
+<!ENTITY identity.description.insecure "A kapcsolat ehhez az oldalhoz nem biztonságos. Az elküldött információkat mások is láthatják (például a jelszavakat, üzeneteket, bankkártya-adatokat stb.).">
+<!ENTITY identity.description.weakCipher "A kapcsolat ehhez a weboldalhoz túl gyenge titkosítást használ, és nem biztonságos.">
+<!ENTITY identity.description.weakCipher2 " Mások megjeleníthetik információit, vagy módosíthatják a weboldal viselkedését.">
 
 
 
