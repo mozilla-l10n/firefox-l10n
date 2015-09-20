@@ -8,3 +8,6 @@
 
 <!ENTITY aboutAccounts.noConnection.title "Brak połączenia">
 <!ENTITY aboutAccounts.retry.label "Spróbuj ponownie">
+
+<!ENTITY aboutAccounts.restrictedError.title "Ograniczenie">
+<!ENTITY aboutAccounts.restrictedError.description "Nie można zarządzać kontami Firefoksa z tego profilu.">
