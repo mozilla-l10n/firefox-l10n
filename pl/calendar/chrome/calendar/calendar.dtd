@@ -245,7 +245,14 @@
 <!ENTITY calendar.context.properties.label             "Właściwości">
 <!ENTITY calendar.context.properties.accesskey         "W">
 
-<!ENTITY calendar.context.togglevisible.accesskey "k">
+<!-- LOCALIZATION NOTE (calendar.context.showcalendar.accesskey)
+     This is the access key used for the showCalendar string -->
+<!ENTITY calendar.context.showcalendar.accesskey      "k">
+
+<!-- LOCALIZATION NOTE (calendar.context.hidecalendar.accesskey)
+     This is the access key used for the hideCalendar string -->
+<!ENTITY calendar.context.hidecalendar.accesskey      "k">
+
 <!ENTITY calendar.context.showonly.accesskey "a">
 <!ENTITY calendar.context.showall.label "Pokaż wszystkie kalendarze">
 <!ENTITY calendar.context.showall.accesskey "w">
