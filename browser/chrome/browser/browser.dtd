@@ -794,26 +794,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "A képernyő minden látható ablaka meg lesz osztva.">
 
 <!ENTITY trackingProtection.title "Védelem követés ellen">
-
-
-
+<!ENTITY trackingProtection.detectedBlocked3 "A &brandShortName; az oldal olyan részeit blokkolja, amelyek követhetik a böngészését.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "Ez az oldal olyan elemeket tartalmaz, amelyek követhetik az Ön böngészését. A védelmet kikapcsolta.">
+<!ENTITY trackingProtection.notDetected3 "Az oldalon nem találhatók követő elemek.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-
+<!ENTITY trackingProtection.unblock.label "Védelem kikapcsolása ezen az oldalon">
+<!ENTITY trackingProtection.unblock.accesskey "k">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-
-
-
+<!ENTITY trackingProtection.unblockPrivate.label "Védelem kikapcsolása ebben a munkamenetben">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "k">
+<!ENTITY trackingProtection.block2.label "Védelem bekapcsolása">
+<!ENTITY trackingProtection.block2.accesskey "b">
 
 <!ENTITY trackingContentBlocked.message "Követés">
 <!ENTITY trackingContentBlocked.moreinfo "Az oldalnak az Ön online tevékenységét követő részei blokkolva lettek.">
 <!ENTITY trackingContentBlocked.learnMore "További tudnivalók">
-
-
-
+<!ENTITY trackingContentBlocked.options "Beállítások">
+<!ENTITY trackingContentBlocked.unblock2.label "Védelem kikapcsolása ezen az oldalon">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "k">
 <!ENTITY trackingContentBlocked.block.label "Védelem bekapcsolása">
 <!ENTITY trackingContentBlocked.block.accesskey "b">
 <!ENTITY trackingContentBlocked.disabled.message "A követés elleni védelem kikapcsolva">
