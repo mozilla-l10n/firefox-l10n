@@ -110,7 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "স">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; প্রস্তুত করুন">
-
+<!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; খুলুন পছন্দসমূহ">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; প্রস্তুত করুন">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; সক্রিয়">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; এখুনি সিঙ্ক করা শুরু করবে।">
@@ -395,7 +395,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "চিহ্নিত ট্যাবে পরিবর্তন করুন:">
 
-
+<!ENTITY urlbar.searchSuggestionsNotification.question "আপনি পরামর্শ দিয়ে আপনার অনুসন্ধান অভিজ্ঞতা উন্নত করতে চান?">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "আরও জানুন...">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "না">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "হ্যাঁ">
 <!-- 
@@ -426,6 +427,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      These are set as the aria-label attribute for the search input box and
      submit button in the in-content search UI, to be used by screen readers. -->
 
+<!ENTITY contentSearchInput.label     "অনুসনধান করুন">
+<!ENTITY contentSearchSubmit.label    "অনুসন্ধান জমা করুন">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -641,6 +644,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "ব">
 
+<!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "পৃষ্ঠার বিন্যাস">
 <!ENTITY pageStyleMenu.accesskey "প">
@@ -680,19 +684,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "সমাপ্ত">
 <!ENTITY editBookmark.cancel.label                   "বাতিল">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "সুরক্ষিত সংযোগ">
 <!ENTITY identity.connectionNotSecure "সংযোগ সুরক্ষিত নয়">
-
+<!ENTITY identity.connectionFile "এই পাতাটি আপনার কম্পিউটার এ সংরক্ষন করা হয়েছে।">
 <!ENTITY identity.connectionVerified "&brandShortName; যাঁচাই করে যে আপনি নিরাপদভাবে, এই সাইটের সাথে সংযুক্ত হয়েছেন যা চালনা করে:">
 <!ENTITY identity.connectionInternal "এটি একটি সুরক্ষিত &brandShortName; পৃষ্ঠা।">
 <!-- Strings for connection state warnings. -->
 
-
-
+<!ENTITY identity.activeBlocked "&brandShortName; এই পৃষ্ঠাতে কিছু নিরাপদ নয় এমন উপাদানকে অবরোধ করেছে।">
+<!ENTITY identity.passiveLoaded "এই পাতাটির অংশ নিরাপদ নয় (যেমন ছবি)।">
+<!ENTITY identity.activeLoaded "আপনি নিরাপদ নয় এমন উপাদানের থেকে সুরক্ষা নিষ্ক্রিয় করে রেখেছেন।">
+<!ENTITY identity.weakEncryption "এই পৃষ্ঠাটি দুর্বল এনক্রিপশন ব্যবহার করে।">
 <!-- Strings for connection state warnings in the subview. -->
 
+<!ENTITY identity.description.insecure "এই সাইট টি তে আপনার কানেক্সন নিরাপদ নয়। আপনি যে তথ্যগুলি জমা করেছেন, সেগুলি অন্ন কেউ দেখতে পেতে পারেন(পাসওয়ার্ড, বার্তা, ক্রেডিট কার্ড ইত্যাদি )।">
+<!ENTITY identity.description.weakCipher "এই ওয়েবসাইটে আপনার সংযোগ দুর্বল এনক্রিপশন ব্যবহার করে এবং ব্যক্তিগত নয়।">
 
 
 
