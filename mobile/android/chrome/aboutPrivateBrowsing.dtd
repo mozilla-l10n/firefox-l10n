@@ -3,14 +3,21 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY privatebrowsingpage.title "Privát böngészés">
-<!ENTITY privatebrowsingpage.title.normal "Nincs privát böngészésben">
+<!-- Localisation note: the plus sign here is a shorthand way of expressing the word "and". Contextually the privatebrowsingpage.title.private string
+                        is used as a title, with the privatebrowsingpage.title string preceding it but on a separate line.
+                        So the final line will say "Private Browsing + Tracking Protection". -->
 
-<!ENTITY privatebrowsingpage.issueDesc.normal2 "Privát böngészésnél nem tároljuk böngészési előzményeit vagy sütijeit.">
-<!ENTITY privatebrowsingpage.issueDesc.private2 "Nem tároljuk böngészési előzményeit vagy sütijeit.">
+<!ENTITY privatebrowsingpage.title.private "+ védelem követés ellen">
+<!-- Localization note (privatebrowsingpage.title.normal1): "Private Browsing"
+     is capitalized in English to be consistent with our existing uses of the
+     term. -->
+<!ENTITY privatebrowsingpage.title.normal1 "Nincs privát böngészésben">
 
-<!ENTITY privatebrowsingpage.description2 "A felvett könyvjelzők és a letöltött fájlok azonban megmaradnak az eszközön.">
-<!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
-<!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
+<!ENTITY privatebrowsingpage.description.private3 "A Firefox megakadályozza, hogy kövessék és nem jegyez meg előzményeket, de a letöltött fájlok és az új könyvjelzők továbbra is a készülékére lesznek mentve.">
+<!-- Localization note (privatebrowsingpage.description.normal2): "Private
+     Browsing" is capitalized in English to be consistent with our existing uses
+     of the term. -->
+<!ENTITY privatebrowsingpage.description.normal2 "Privát böngészésben nem tároljuk böngészési előzményeit vagy sütiket. Az új könyvjelzők és a letöltött fájlok továbbra is a készülékére lesznek mentve.">
 
 <!ENTITY privatebrowsingpage.link.private "Szeretne többet tudni?">
 <!ENTITY privatebrowsingpage.link.normal "Új privát böngészőlap megnyitása">
