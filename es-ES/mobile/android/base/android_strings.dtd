@@ -4,11 +4,19 @@
 
 <!ENTITY no_space_to_start_error "No hay suficiente espacio para que &brandShortName; pueda iniciarse.">
 <!ENTITY error_loading_file "Ha ocurrido un error mientras se intentaba cargar los archivos para usar &brandShortName;">
+<!ENTITY firstrun_panel_title_welcome "Bienvenido">
 <!ENTITY onboard_start_message3 "Navegar con &brandShortName;">
 <!ENTITY onboard_start_subtext3 "Haga realmente suya su experiencia de navegación web móvil.">
 <!ENTITY onboard_start_button_account "Iniciar sesión en &brandShortName;">
 <!ENTITY onboard_start_button_browser "Comenzar a navegar">
+<!ENTITY firstrun_button_next "Siguiente">
 <!ENTITY onboard_start_restricted1 "Permanezca seguro y mantenga el control con esta versión simplificada de &brandShortName;.">
+<!ENTITY firstrun_import_title "Importar">
+<!ENTITY firstrun_import_message "Bienvenido a &brandShortName;">
+<!ENTITY firstrun_import_subtext "Importar sus marcadores e historial desde otro navegador.">
+<!ENTITY firstrun_import_action "Transferir a &brandShortName;">
+<!ENTITY firstrun_import_dialog_button "Transferir">
+<!ENTITY firstrun_import_progress_title "Transfiriendo">
 <!ENTITY bookmarks_title "Marcadores">
 <!ENTITY history_title "Historial">
 <!ENTITY reading_list_title "Lista de lectura">
@@ -119,6 +127,9 @@
 <!ENTITY pref_home_updates_wifi "Sólo bajo Wi-Fi">
 <!ENTITY pref_home_suggested_sites "Mostrar sugerencias de sitios">
 <!ENTITY pref_home_suggested_sites_summary "Mostrar en su página de inicio accesos directos a sitios que pensamos que puede encontrar interesantes">
+<!ENTITY pref_category_home_homepage "Página de inicio">
+<!ENTITY home_homepage_title "Establecer una página de inicio">
+<!ENTITY home_homepage_use_current_tab "Usar la pestaña actual">
 <!ENTITY pref_header_customize "Personalizar">
 <!ENTITY pref_header_display "Visualización">
 <!ENTITY pref_header_privacy_short "Privacidad">
@@ -325,7 +336,6 @@
 <!ENTITY button_set "Configurar">
 <!ENTITY button_clear "Limpiar">
 <!ENTITY button_copy "Copiar">
-<!ENTITY firstrun_panel_title_welcome "Bienvenido">
 <!ENTITY home_top_sites_title "Frecuentes">
 <!ENTITY home_top_sites_add "Añadir un sitio">
 <!ENTITY home_title "Página de inicio de &brandShortName;">
@@ -437,5 +447,5 @@
 <!ENTITY bookmarks_addons "Firefox: personalizar con complementos">
 <!ENTITY bookmarks_support "Ayuda de Firefox">
 <!ENTITY bookmarks_marketplace "Firefox Marketplace">
-<!ENTITY bookmarks_restricted_support "Ayuda y asistencia de Firefox para una versión de Firefox simplificada y dirigida a los niños.">
+<!ENTITY bookmarks_restricted_support2 "Ayuda y asistencia de Firefox para perfiles limitados en tabletas Android">
 <!ENTITY bookmarks_restricted_webmaker "Aprenda la web: Mozilla Webmaker">
