@@ -5,7 +5,7 @@
 <!ENTITY tracking.label                 "Sporing">
 
 <!ENTITY dntTrackingNotOkay4.label     "Anmod websteder om ikke at spore dig">
-<!ENTITY dntTrackingNotOkay.accesskey  "i">
+<!ENTITY dntTrackingNotOkay4.accesskey "i">
 <!ENTITY doNotTrackInfo.label          "Læs mere">
 <!ENTITY trackingProtection5.label     "Brug sporings-beskyttelse">
 <!ENTITY trackingProtection5.accesskey "i">

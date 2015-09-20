@@ -56,17 +56,17 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
-<!ENTITY performance.toolbar.waterfall "Tidslinje">
-<!ENTITY performance.toolbar.js-calltree "JavaScript">
-<!ENTITY performance.toolbar.memory-calltree1 "Allokationer">
-<!ENTITY performance.toolbar.js-flamegraph "JS Flame Chart">
-<!ENTITY performance.toolbar.memory-flamegraph1 "Allokations-Flame Chart">
+<!ENTITY performanceUI.toolbar.waterfall "Tidslinje">
+<!ENTITY performanceUI.toolbar.js-calltree "JavaScript">
+<!ENTITY performanceUI.toolbar.memory-calltree "Allokationer">
+<!ENTITY performanceUI.toolbar.js-flamegraph "JS Flame Chart">
+<!ENTITY performanceUI.toolbar.memory-flamegraph "Allokations-Flame Chart">
 
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
-<!ENTITY performanceUI.table.totalDuration2   "Samlet tid">
+<!ENTITY performanceUI.table.totalDuration   "Samlet tid">
 <!ENTITY performanceUI.table.totalDuration.tooltip    "Mængde af tid tilbragt i denne funktion og de funktioner, den kalder.">
-<!ENTITY performanceUI.table.selfDuration2    "Egen tid">
+<!ENTITY performanceUI.table.selfDuration    "Egen tid">
 <!ENTITY performanceUI.table.selfDuration.tooltip     "Mængde af tid tilbragt udelukkende i denne funktion.">
 <!ENTITY performanceUI.table.totalPercentage "Total omkostning">
 <!ENTITY performanceUI.table.totalPercentage.tooltip  "Procentdel tid tilbragt i denne funktion og de funktioner, den kalder.">
@@ -76,9 +76,9 @@
 <!ENTITY performanceUI.table.samples.tooltip          "Antal gange denne funktion var på stakken, når ydelsesværktøjet udtog prøver.">
 <!ENTITY performanceUI.table.function        "Funktion">
 <!ENTITY performanceUI.table.function.tooltip         "Navn og kilde for den prøveudtagne funktion.">
-<!ENTITY performanceUI.table.totalAlloc1       "Totale allokeringer">
+<!ENTITY performanceUI.table.totalAlloc       "Totale allokeringer">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Det totale antal objektallokeringer foretaget af denne fuktion, og funktioner den kalder.">
-<!ENTITY performanceUI.table.selfAlloc1        "Egne allokationer">
+<!ENTITY performanceUI.table.selfAlloc        "Egne allokationer">
 <!ENTITY performanceUI.table.selfAlloc.tooltip        "Antal objekt-allokationer indsamlet på denne placering.">
 
 <!-- LOCALIZATION NOTE (performanceUI.newtab.tooltiptext): The tooltiptext shown
