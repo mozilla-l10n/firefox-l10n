@@ -17,3 +17,5 @@
 <!ENTITY cmd.open.accesskey                        "Ö">
 <!ENTITY cmd.removeFromHistory.label               "Aus Liste entfernen">
 <!ENTITY cmd.removeFromHistory.accesskey           "e">
+<!ENTITY cmd.clearDownloads.label                  "Liste leeren">
+<!ENTITY cmd.clearDownloads.accesskey              "L">
