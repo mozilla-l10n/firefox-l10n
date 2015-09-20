@@ -406,9 +406,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.switchToTab.label     "Aller à l'onglet :">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Voulez-vous améliorer la façon dont vous effectuez des recherches en activant les suggestions ?">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "V">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "En savoir plus…">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Non">
+<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "N">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Oui">
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "O">
 
 <!--
   Comment duplicated from browser-sets.inc:
@@ -462,6 +465,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Paramètres de recherche">
+
+<!ENTITY searchInNewTab.label         "Rechercher dans un nouvel onglet">
+<!ENTITY searchInNewTab.accesskey     "R">
+<!ENTITY searchSetAsDefault.label     "Définir comme moteur de recherche par défaut">
+<!ENTITY searchSetAsDefault.accesskey "D">
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -699,6 +707,7 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY identity.connectionFile "Cette page est stockée sur votre ordinateur.">
 <!ENTITY identity.connectionVerified1 "Vous êtes connecté de façon sécurisée à ce site, dont le détenteur est :">
 <!ENTITY identity.connectionInternal "Ceci est une page sécurisée de &brandShortName;.">
+<!ENTITY identity.insecureLoginForms "Votre identifiant pourrait être compromis.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; a bloqué des éléments non sécurisés sur cette page.">
@@ -708,6 +717,7 @@ you can use these alternative items. Otherwise, their values should be empty.
 
 <!-- Strings for connection state warnings in the subview. -->
 <!ENTITY identity.description.insecure "Votre connexion à ce site n'est pas privée. Les informations que vous transmettez peuvent être visualisées par d'autres personnes (comme par exemple les mots de passe, les messages, les cartes de crédit, etc.).">
+<!ENTITY identity.description.insecureLoginForms "Les informations d'identification que vous saisissez sur cette page ne sont pas sécurisées et pourraient être compromises.">
 <!ENTITY identity.description.weakCipher "Votre connexion à ce site web n'est pas privée et utilise un faible niveau de chiffrement.">
 <!ENTITY identity.description.weakCipher2 "D'autres personnes peuvent accéder à vos informations ou modifier le comportement du site web.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; a bloqué des éléments non sécurisés sur cette page.">
@@ -726,8 +736,7 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY identity.moreInfoLinkText2 "Plus d'informations">
 
 <!ENTITY identity.permissions "Permissions">
-<!ENTITY identity.permissionsPageFunctionality "Fonctionnalités de la page">
-<!ENTITY identity.permissionsSystemAccess "Accès système">
+<!ENTITY identity.permissionsEmpty "Vous n'avez pas accordé de permission particulière à ce site.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
