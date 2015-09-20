@@ -5,11 +5,19 @@
 <!ENTITY no_space_to_start_error "Na dysku jest za mało wolnego miejsca, aby uruchomić program &brandShortName;">
 <!ENTITY  error_loading_file "Podczas wczytywania plików wymaganych do uruchomienia programu &brandShortName; wystąpił błąd.">
 
+<!ENTITY firstrun_panel_title_welcome "Witamy">
 <!ENTITY onboard_start_message3 "Przeglądaj z programem &brandShortName;">
 <!ENTITY onboard_start_subtext3 "Spraw, aby przeglądanie mobilne stało się prawdziwie Twoim.">
 <!ENTITY  onboard_start_button_account "Zaloguj się do przeglądarki &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Zacznij przeglądać Internet">
+
 <!ENTITY  onboard_start_restricted1 "Bądź bezpieczny dzięki uproszczonej wersji przeglądarki &brandShortName;.">
+
+<!ENTITY firstrun_import_title "Importowanie">
+<!ENTITY firstrun_import_message "Witamy w przeglądarce &brandShortName;">
+<!ENTITY firstrun_import_subtext "Można zaimportować zakładki i historię z innej przeglądarki.">
+<!ENTITY firstrun_import_action "Prześlij do przeglądarki &brandShortName;">
+<!ENTITY firstrun_import_dialog_button "Prześlij">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
@@ -405,8 +413,6 @@ size. -->
 <!ENTITY button_set "Ustaw">
 <!ENTITY button_clear "Usuń">
 <!ENTITY button_copy "Kopiuj">
-
-<!ENTITY firstrun_panel_title_welcome "Witamy">
 
 <!ENTITY home_top_sites_title "Popularne">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
