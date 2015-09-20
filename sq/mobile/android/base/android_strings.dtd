@@ -6,8 +6,8 @@
 <!ENTITY  no_space_to_start_error "Nuk ka vend të mjaftueshëm për nisjen e &brandShortName;-ut.">
 <!ENTITY  error_loading_file "Ndodhi një gabim, teksa provohej ngarkimi i kartelave të domosdoshme për xhirimin e &brandShortName;-ut">
 
-<!ENTITY  onboard_start_message2 "Mirë se vini te &brandShortName;-i">
-<!ENTITY  onboard_start_subtext2 "Më tepër veçori privatësie dhe rrugë për personalizim se kurrë.">
+<!ENTITY  onboard_start_message3 "Shfletoni me &brandShortName;">
+<!ENTITY  onboard_start_subtext3 "Bëjeni shfletimin në Web me celular ashtu si e doni.">
 <!ENTITY  onboard_start_button_account "Hyni te &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Filloni të Shfletoni">
 
@@ -43,9 +43,14 @@
 <!ENTITY url_bar_default_text2 "Kërkoni ose shkruani adresë">
 
 <!ENTITY bookmark "Faqeruaje">
+<!ENTITY bookmark_remove "Hiqe faqerojtësin">
 <!ENTITY bookmark_added "Faqerojtësi u shtua">
+<!-- Localization note (bookmark_already_added) : This string is
+     used as a label in a toast. It is the verb "to bookmark", not
+     the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "Faqeruajtur një herë">
 <!ENTITY bookmark_removed "Faqerojtësi u hoq">
-<!ENTITY bookmark_updated "Faqeruajtësi u përditësua">
+<!ENTITY bookmark_updated "Faqerojtësi u përditësua">
 <!ENTITY bookmark_options "Mundësi">
 
 <!ENTITY history_today_section "Sot">
@@ -77,9 +82,12 @@
 
 <!ENTITY settings "Rregullime">
 <!ENTITY settings_title "Rregullime">
+<!ENTITY pref_category_input_options "Mundësi futjesh">
 <!ENTITY pref_category_advanced "Të mëtejshme">
 <!ENTITY pref_category_customize "Personalizim">
 <!ENTITY pref_category_customize_summary "Kreu, kërkim, skeda, importim">
+<!ENTITY pref_category_customize_alt_summary "Kreu, kërkim, skeda, hapi më vonë, importim">
+
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -115,13 +123,24 @@
 <!ENTITY overlay_share_no_url "Nuk u gjet lidhje këtu">
 <!ENTITY overlay_share_retry "Riprovoni">
 <!ENTITY overlay_share_select_device "Përzgjidhni pajisje">
+<!-- Localization note (overlay_no_synced_devices) : Used when the menu option
+     to send a tab to a synced device is pressed and no other synced devices
+     are found. -->
+<!ENTITY overlay_no_synced_devices "S&apos;u gjetën pajisje të lidhura përmes Llogarish Firefox">
+<!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
+     to send a tab to a synced device is pressed and there is an error
+     connecting to the server so the tab could not be sent. The text should be
+     divided into two lines (use the newline escape character, "\n", between
+     them): the first notifying the user about the failure and the second
+     telling the user what to do about it. -->
+<!ENTITY overlay_share_tab_not_sent "Skeda juaj s&apos;u dërgua dot.\nJu lutemi, riprovoni më vonë.">
 
 <!ENTITY pref_category_search3 "Kërkim">
 <!ENTITY pref_category_search_summary "Personalizoni mundësuesit e kërkimeve tuaja">
 <!ENTITY pref_category_display "Ekran">
 <!ENTITY pref_category_display_summary "Tekst, shtyllë titujsh, shfletim sa krejt ekrani">
 <!ENTITY pref_category_privacy_short "Privatësi">
-<!ENTITY pref_category_privacy_summary "Mbani nën kontroll fjalëkalime, cookie, gjurmime, të dhëna">
+<!ENTITY pref_category_privacy_summary2 "Mbani nën kontroll të dhëna hyrjesh, cookie-t, gjurmimet, të dhënat">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "Mbi &brandShortName;-in, FAQ, zgjedhje mbi të dhënat">
 <!ENTITY pref_category_datareporting "Zgjedhje të dhënash">
@@ -138,9 +157,13 @@
      it is applicable. -->
 <!ENTITY pref_search_hint "NDIHMËZ: Shtoni çfarëdo sajti te lista juaj e mundësuesve të kërkimeve duke mbajtur të shtypur për disa sekonda fushën e tij të kërkimeve dhe mandej duke prekur ikonën &formatI;.">
 <!ENTITY pref_category_devtools "Mjete zhvilluesi">
-<!ENTITY pref_category_devtools_summary "Diagnostikim së largëti, xixëllim ngjyrosjeje">
-<!ENTITY pref_developer_paint_flashing "Xixëllim ngjyrosjeje">
 <!ENTITY pref_developer_remotedebugging "Diagnostikim së largëti">
+<!ENTITY pref_category_logins "Hyrje">
+<!ENTITY pref_remember_signons2 "Mbaji mend hyrjet">
+<!ENTITY pref_open_external_urls_privately_title "Hapi lidhjen nën shfletim Privat">
+<!ENTITY pref_open_external_urls_privately_summary "Për krejt lidhjet e jashtme të hapura nën &brandShortName;">
+<!ENTITY pref_manage_logins "Administroni hyrjet">
+
 <!ENTITY pref_remember_signons "Mbaji mend fjalëkalimet">
 
 <!ENTITY pref_category_home "Kreu">
@@ -225,9 +248,10 @@ size. -->
 <!ENTITY pref_import_android "Importoni prej Android-i">
 <!ENTITY pref_import_android_summary "Importoni faqerojtës dhe historik prej shfletuesit të Android-it">
 <!ENTITY pref_private_data_history2 "Historik shfletimesh">
-<!ENTITY pref_private_data_formdata "Historik formularësh &amp; kërkimesh">
+<!ENTITY pref_private_data_formdata2 "Historik formularësh">
+<!ENTITY pref_private_data_searchHistory "Historik kërkimesh">
 <!ENTITY pref_private_data_cookies2 "Cookies &amp; hyrje aktive">
-<!ENTITY pref_private_data_passwords "Fjalëkalime të ruajtur">
+<!ENTITY pref_private_data_passwords2 "Të dhëna hyrjesh të ruajtura">
 <!ENTITY pref_private_data_cache "Fshehtinë">
 <!ENTITY pref_private_data_offlineApps "Të dhëna sajtesh për jo në linjë">
 <!ENTITY pref_private_data_siteSettings2 "Rregullime sajti">
@@ -272,7 +296,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Njoftues Vithisjesh">
 <!ENTITY datareporting_wifi_title2 "Shërbime Lokalizimi &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary3 "Ndihmojeni &vendorShortName; të hartëzojë botën! Ndani të dhëna të përafërta të vendit të Wi-Fi-it dhe celularit për pajisjen tuaj, që të përmirësohet shërbimi ynë i gjeovendëzimit">
+<!ENTITY datareporting_wifi_geolocation_summary4 "Ndihmojeni &vendorShortName; të hartëzojë botën! Ndani me ne të dhëna të përafërta të vendit të Wi-Fi-it dhe celularit për pajisjen tuaj, që të përmirësohet shërbimi ynë i gjeovendëzimit.">
 
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
@@ -288,6 +312,7 @@ size. -->
 <!ENTITY quit "Dilni">
 
 <!ENTITY addons "Shtesa">
+<!ENTITY logins "Hyrje">
 <!ENTITY downloads "Shkarkime">
 <!ENTITY apps "Aplikacione">
 <!ENTITY char_encoding "Kodim Shkronjash">
@@ -340,6 +365,21 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Fiksojeni Sajtin">
 <!ENTITY contextmenu_top_sites_unpin "Çfiksojeni Sajtin">
 <!ENTITY contextmenu_add_search_engine "Shtoni një Motor Kërkimesh">
+
+<!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
+     where normally a username would be displayed. In this case, no username was found, and this placeholder
+     contains brackets to indicate this is not actually a username, but rather a placeholder -->
+<!ENTITY doorhanger_login_no_username "[Pa emër përdoruesi]">
+<!ENTITY doorhanger_login_edit_title "Përpunoni të dhëna hyrjeje">
+<!ENTITY doorhanger_login_edit_username_hint "Emër përdoruesi">
+<!ENTITY doorhanger_login_edit_password_hint "Fjalëkalim">
+<!ENTITY doorhanger_login_edit_toggle "Shfaqni fjalëkalimin">
+<!ENTITY doorhanger_login_edit_toast_error "Dështoi ruajtja e të dhënave të hyrjes">
+<!ENTITY doorhanger_login_select_message "Të kopjohet fjalëkalimi nga &formatS;?">
+<!ENTITY doorhanger_login_select_toast_copy "Fjalëkalimi u kopjua te e papastra">
+<!ENTITY doorhanger_login_select_toast_copy_error "S&apos;u kopjua dot fjalëkalimi">
+<!ENTITY doorhanger_login_select_action_text "Përzgjidhni një tjetër hyrje">
+<!ENTITY doorhanger_login_select_title "Fjalëkalimin kopjoje prej">
 
 <!ENTITY pref_titlebar_mode "Shtyllë titujsh">
 <!ENTITY pref_titlebar_mode_title "Shfaq titull faqeje">
@@ -396,6 +436,9 @@ size. -->
 <!ENTITY button_clear_data "Pastroji të dhënat">
 <!ENTITY button_set "Caktoje">
 <!ENTITY button_clear "Pastroje">
+<!ENTITY button_copy "Kopjoje">
+
+<!ENTITY firstrun_panel_title_welcome "Mirë se vini">
 
 <!ENTITY home_top_sites_title "Sajtet Kryesues">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -489,6 +532,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "që i përket">
 <!ENTITY identity_no_info "Ky sajt nuk jep të dhëna identiteti.">
 <!ENTITY identity_not_encrypted "Lidhja juaj me këtë sajt nuk është e fshehtëzuar.">
+<!ENTITY identity_encrypted "E fshehtëzuar">
 
 
 <!-- Mixed content notifications in site identity popup -->
@@ -549,7 +593,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "Vazhdo">
 <!ENTITY guest_session_dialog_cancel "Anuloje">
 <!ENTITY new_guest_session_title "&brandShortName;-u tani do të riniset">
-<!ENTITY new_guest_session_text "Personi që po e përdor nuk do të jetë në gjendje të shohë ndonjë të dhënë tuajën personale shfletimesh (të tilla si fjalëkalime, historik ose faqerojtës të ruajtur).\n\nKur mysafiri juaj të ketë mbaruar punë, të dhënat e tij të shfletimit do të fshihen dhe do të rikthehet sesioni juaj.">
+<!ENTITY new_guest_session_text2 "Personi që po e përdor s&apos;do të jetë në gjendje të shohë ndonjë të dhënë tuajën personale shfletimesh (të tilla si të dhëna hyrjesh, historik ose faqerojtës të ruajtur).\n\nKur mysafiri juaj të ketë mbaruar punë, të dhënat e tij të shfletimit do të fshihen dhe do të rikthehet sesioni juaj.">
 <!ENTITY guest_browsing_notification_title "Shfletimi si mysafir është i aktivizuar">
 <!ENTITY guest_browsing_notification_text "Prekeni që të dilet prej tij">
 
@@ -563,6 +607,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
+
+<!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
+     display a percentage value. formatS is the number, #37 is the code to display a percent sign.
+     This format string is typically used by getString method, in such method the percent sign
+     is a reserved caracter. In order to display one percent sign in the result of getString,
+     double percent signs must be inserted in the format string.
+     This entity is used in the zoomed view to display the zoom factor-->
+<!ENTITY percent "&formatS;&#37;&#37;">
 
 <!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
@@ -590,3 +642,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
 <!ENTITY find_matchcase "Aa">
+
+<!ENTITY intent_uri_cannot_open "S&apos;hapet dot lidhja">
