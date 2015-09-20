@@ -171,11 +171,6 @@
 <!ENTITY options.stylesheetAutocompletion.label      "Autofuldfør CSS">
 <!ENTITY options.stylesheetAutocompletion.tooltip    "Autofuldfør CSS-egenskaber, -værdier og -selektorer, mens du skriver i CSS-editoren">
 
-<!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
-  -  heading of the group of JavaScript Profiler preferences in the options
-  -  panel. -->
-<!ENTITY options.profiler.label            "Profileringsværktøj til JavaScript">
-
 <!-- LOCALICATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->
