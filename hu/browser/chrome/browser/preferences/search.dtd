@@ -9,7 +9,8 @@
 <!ENTITY provideSearchSuggestions.label        "Keresési javaslatok">
 <!ENTITY provideSearchSuggestions.accesskey    "K">
 
-
+<!ENTITY showURLBarSuggestions.label           "Keresési javaslatok és a címsáv találatainak megjelenítése">
+<!ENTITY showURLBarSuggestions.accesskey       "K">
 
 <!ENTITY redirectWindowsSearch.label "Ezen keresőmotor használata a Windowsból keresésre">
 <!ENTITY redirectWindowsSearch.accesskey "W">
