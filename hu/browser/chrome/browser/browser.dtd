@@ -693,7 +693,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionInternal "Ez egy biztonságos &brandShortName; oldal.">
 <!-- Strings for connection state warnings. -->
 
-<!ENTITY identity.activeBlocked "A &brandShortName; néhány blokkolta az oldal néhány nem biztonságos elemét.">
+<!ENTITY identity.activeBlocked "A &brandShortName; blokkolta az oldal néhány nem biztonságos elemét.">
 <!ENTITY identity.passiveLoaded "A weboldal egyes részei nem biztonságosak (például a képek).">
 <!ENTITY identity.activeLoaded "Kikapcsolta a védelmet ezen az oldalon.">
 <!ENTITY identity.weakEncryption "Ez az oldal gyenge titkosítást használ.">
@@ -701,18 +701,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.description.insecure "A kapcsolat ehhez az oldalhoz nem biztonságos. Az elküldött információkat mások is láthatják (például a jelszavakat, üzeneteket, bankkártya-adatokat stb.).">
 <!ENTITY identity.description.weakCipher "A kapcsolat ehhez a weboldalhoz túl gyenge titkosítást használ, és nem biztonságos.">
-<!ENTITY identity.description.weakCipher2 " Mások megjeleníthetik információit, vagy módosíthatják a weboldal viselkedését.">
+<!ENTITY identity.description.weakCipher2 "Mások megjeleníthetik információit, vagy módosíthatják a weboldal viselkedését.">
+<!ENTITY identity.description.activeBlocked "A &brandShortName; blokkolta az oldal néhány nem biztonságos elemét.">
+<!ENTITY identity.description.passiveLoaded "A kapcsolat nem biztonságos, és az oldalnak elküldött információkat mások is láthatják.">
+<!ENTITY identity.description.passiveLoaded2 "A weboldal nem biztonságos elemeket (például képeket) tartalmaz.">
+<!ENTITY identity.description.passiveLoaded3 "Noha a &brandShortName; blokkolt bizonyos tartalmakat, még mindig van nem biztonságos tartalom (például képek) az oldalon.">
+<!ENTITY identity.description.activeLoaded "A weboldal nem biztonságos elemeket (például parancsfájlokat) tartalmaz, és a kapcsolat nem biztonságos.">
+<!ENTITY identity.description.activeLoaded2 "Az oldalnak elküldött információkat mások is láthatják (például a jelszavakat, üzeneteket, bankkártya-adatokat stb.).">
 
-
-
-
-
-
-
-
+<!ENTITY identity.enableMixedContentBlocking.label "Védelem bekapcsolása">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "b">
 <!ENTITY identity.disableMixedContentBlocking.label "Védelem kikapcsolása most">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "k">
-
+<!ENTITY identity.learnMore "További tudnivalók">
 
 <!ENTITY identity.moreInfoLinkText2 "További tudnivalók">
 
