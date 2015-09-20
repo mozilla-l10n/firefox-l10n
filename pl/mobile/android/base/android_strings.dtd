@@ -28,7 +28,7 @@
 
 <!ENTITY  switch_to_tab "Przełącz na kartę">
 
-<!ENTITY  crash_reporter_title "&brandShortName; - narzędzie zgłaszania awarii">
+<!ENTITY  crash_reporter_title "&brandShortName; – Narzędzie zgłaszania awarii">
 <!ENTITY crash_message2 "Przeglądarka &brandShortName; uległa awarii. Ostatnio otwarte karty powinny być dostępne na stronie startowej po ponownym uruchomieniu.">
 <!ENTITY  crash_send_report_message3 "Prześlij zgłoszenie problemu do organizacji &vendorShortName;, aby mogła go rozwiązać">
 <!ENTITY  crash_include_url2 "Załącz adres strony, na której wystąpił problem">
