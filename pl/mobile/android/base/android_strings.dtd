@@ -10,6 +10,7 @@
 <!ENTITY onboard_start_subtext3 "Spraw, aby przeglądanie mobilne stało się prawdziwie Twoim.">
 <!ENTITY  onboard_start_button_account "Zaloguj się do przeglądarki &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Zacznij przeglądać Internet">
+<!ENTITY firstrun_button_next "Dalej">
 
 <!ENTITY  onboard_start_restricted1 "Bądź bezpieczny dzięki uproszczonej wersji przeglądarki &brandShortName;.">
 
@@ -18,6 +19,7 @@
 <!ENTITY firstrun_import_subtext "Można zaimportować zakładki i historię z innej przeglądarki.">
 <!ENTITY firstrun_import_action "Prześlij do przeglądarki &brandShortName;">
 <!ENTITY firstrun_import_dialog_button "Prześlij">
+<!ENTITY firstrun_import_progress_title "Przesyłanie">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
