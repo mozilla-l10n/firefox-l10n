@@ -8,7 +8,7 @@
 <!ENTITY index.help "Ajutor">
 
 <!ENTITY device.debugMainProcess "Depanare proces principal">
-<!ENTITY device.debugMainProcessTooltip "Deschideți uneltele de dezvoltare conectate procesului principal pe dispozitiv">
+<!ENTITY device.debugMainProcessTooltip "Deschide uneltele de dezvoltare conectate procesului principal pe dispozitiv">
 <!ENTITY device.screenshot "Captură de ecran">
 <!ENTITY device.screenshotTooltip "Open a screenshot of the current state of the device in a new tab.">
 <!ENTITY device.title "Centrul de control pentru dispozitiv">
@@ -30,7 +30,7 @@
 <!ENTITY device.deny "Respins">
 <!ENTITY device.denyTooltip "This permission is denied for apps of this type.">
 <!ENTITY device.installedApps "Aplicații instalate">
-<!ENTITY device.installedAppsTooltip "Vedeți o listă de aplicații instalate pe dispozitiv. Unele aplicații, cum ar fi aplicațiile certificate, pot fi excluse din această listă.">
+<!ENTITY device.installedAppsTooltip "Vezi o listă de aplicații instalate pe dispozitiv. Unele aplicații, cum ar fi aplicațiile certificate, pot fi excluse din această listă.">
 <!ENTITY device.permissions "Permisiuni">
 <!ENTITY device.permissionsTooltip "View a table of the permissions accessible to the different types of apps.">
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">

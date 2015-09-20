@@ -121,7 +121,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY fullScreenMinimize.tooltip "Minimizează">
-<!ENTITY fullScreenRestore.tooltip "Revino">
+<!ENTITY fullScreenRestore.tooltip "Restaurează">
 <!ENTITY fullScreenClose.tooltip "Închide">
 <!ENTITY fullScreenAutohide.label "Ascunde barele de unelte">
 <!ENTITY fullScreenAutohide.accesskey "A">
@@ -291,7 +291,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolboxMenuItem.accesskey      "t">
 <!ENTITY devToolboxMenuItem.keytext        "I">
 
-<!ENTITY devToolbarToolsButton.tooltip     "Activează uneltele de dezvoltare">
+<!ENTITY devToolbarToolsButton.tooltip     "Comută uneltele de dezvoltare">
 <!ENTITY devToolbarOtherToolsButton.label  "Mai multe unelte">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Obțineți mai multe unelte">
@@ -617,8 +617,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
-<!ENTITY fullZoomResetCmd.label         "Reinițializare">
-<!ENTITY fullZoomResetCmd.accesskey     "n">
+<!ENTITY fullZoomResetCmd.label         "Resetează">
+<!ENTITY fullZoomResetCmd.accesskey     "R">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 

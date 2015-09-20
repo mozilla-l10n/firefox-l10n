@@ -52,7 +52,7 @@
 <!ENTITY viewMenu_zoomin_accesskey "I">
 <!ENTITY viewMenu_zoomout_label "Micșorează">
 <!ENTITY viewMenu_zoomout_accesskey "O">
-<!ENTITY viewMenu_resetzoom_label "Reinițializează scalarea">
+<!ENTITY viewMenu_resetzoom_label "Resetează scalarea">
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "Deschide aplicația">
