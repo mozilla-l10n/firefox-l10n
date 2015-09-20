@@ -38,7 +38,7 @@
 <!ENTITY filenameExample.label        "ex.:: &quot;minhapagina.html&quot;">
 <!ENTITY setDefaultButton.label       "Utilizar como pré-definição">
 <!ENTITY setDefaultButton.accesskey   "d">
-<!ENTITY removeButton.label           "Remover sítio">
+<!ENTITY removeButton.label           "Remover site">
 <!ENTITY removeButton.accesskey       "R">
 <!-- Settings Tab Panel -->
 
