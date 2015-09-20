@@ -4,14 +4,15 @@
 
 <!ENTITY tracking.label                 "Követés">
 
-
+<!ENTITY dntTrackingNotOkay4.label     "Kérem, hogy az oldalak ne kövessenek">
+<!ENTITY dntTrackingNotOkay4.accesskey "n">
 <!ENTITY doNotTrackInfo.label          "További tudnivalók">
-
-
-
-
-
-
+<!ENTITY trackingProtection5.label     "Követés elleni védelem használata">
+<!ENTITY trackingProtection5.accesskey "v">
+<!ENTITY trackingProtectionLearnMore.label "További tudnivalók">
+<!ENTITY trackingProtectionPBM5.label         "Követés elleni védelem használata privát ablakokban">
+<!ENTITY trackingProtectionPBM5.accesskey     "p">
+<!ENTITY trackingProtectionPBMLearnMore.label "További tudnivalók">
 
 <!ENTITY  history.label                 "Előzmények">
 
@@ -27,7 +28,8 @@
 <!ENTITY  locbar.searches.label         "Kapcsolódó keresések az alapértelmezett keresőszolgáltatásból">
 <!ENTITY  locbar.searches.accesskey     "c">
 
-
+<!ENTITY  suggestionSettings.label      "Keresőszolgáltatás-javaslatok beállításainak módosítása…">
+<!ENTITY  suggestionSettings.accesskey  "r">
 
 <!ENTITY  acceptCookies.label           "Sütik elfogadása webhelyekről">
 <!ENTITY  acceptCookies.accesskey       "w">
