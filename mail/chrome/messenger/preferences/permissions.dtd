@@ -7,7 +7,7 @@
 
 <!ENTITY treehead.sitename.label      "Site">
 <!ENTITY treehead.status.label        "Estado">
-<!ENTITY removepermission.label       "Remover sítio">
+<!ENTITY removepermission.label       "Remover site">
 <!ENTITY removepermission.accesskey   "R">
 <!ENTITY removeallpermissions.label   "Remover todos os sítios">
 <!ENTITY removeallpermissions.accesskey "e">
