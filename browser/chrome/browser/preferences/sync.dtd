@@ -71,24 +71,28 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "আপনার সাইন ইন করা নেই।">
 <!ENTITY signIn.label                "সাইন-ইন করুন">
-
+<!ENTITY profilePicture.tooltip      "প্রোফাইল ছবি পরিবর্তন করুন">
 <!ENTITY manage.label                "পরিচালনা">
 <!ENTITY disconnect.label            "বিচ্ছিন্ন করুন…">
 <!ENTITY verify.label                "ইমেল যাঁচাই করুন">
 <!ENTITY forget.label                "এই ইমেল ভুলে যাওয়া হোক">
 
 <!ENTITY welcome.description "যেখান থেকেই &brandShortName; ব্যবহার করুন না কেন আপনার ট্যাব, বুকমার্ক, পাসওয়ার্ড এবং অন্যন্যগুলি ব্যবহার করতে পারবেন।">
-
-
+<!ENTITY welcome.signIn.label "সাইন-ইন করুন">
+<!ENTITY welcome.createAccount.label "অ্যাকাউন্ট তৈরি করুন">
 
 <!ENTITY welcome.useOldSync.label "সিঙ্ক এর কোন পুরানো সংস্করণ ব্যবহার করছেন?">
 
+<!ENTITY signedOut.caption            "আপনার সাথে আপনার ওয়েব নিন">
+<!ENTITY signedOut.description        "আপনার সকল ডিভাইস জুড়ে আপনার বুকমার্ক, ইতিহাস, ট্যাব, পাসওয়ার্ড, অ্যাড টার্ন, এবং পছন্দসমূহ সুসংগত করুন।">
+<!ENTITY signedOut.accountBox.title   "&syncBrand.fxAccount.label; সাথে সংযোগ স্থাপন করুন">
+<!ENTITY signedOut.accountBox.create  "অ্যাকাউন্ট তৈরি করুন">
+<!ENTITY signedOut.accountBox.signin  "সাইন ইন করুন">
 
+<!ENTITY signedIn.engines.label       "সব ডিভাইস জুড়ে সুসংগত করুন">
 
-
-
-
-
+<!ENTITY mobilePromo.start            "Firefox ডাউনলোড ">
 <!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
-
-
+<!ENTITY mobilePromo.androidLink      "Android™">
+<!ENTITY mobilePromo.end              " আপনার মোবাইল ডিভাইসের সাথে সুসংগত করতে।">
+<!ENTITY androidAttribution           "Android হল Google Inc -র ট্রেডমার্ক">

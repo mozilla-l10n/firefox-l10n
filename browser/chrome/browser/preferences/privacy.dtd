@@ -4,14 +4,15 @@
 
 <!ENTITY tracking.label                 "অনুসরণকরণ">
 
-
+<!ENTITY dntTrackingNotOkay4.label     "সেই সাইটকে অনুরোধ করুন যা আপনাকে ট্র্যাক করে না (n)">
+<!ENTITY dntTrackingNotOkay4.accesskey "n">
 <!ENTITY doNotTrackInfo.label          "আরও জানুন">
-
-
-
-
-
-
+<!ENTITY trackingProtection5.label     "ট্র্যাকিং সুরক্ষা ব্যবহার করুন(i)">
+<!ENTITY trackingProtection5.accesskey "i">
+<!ENTITY trackingProtectionLearnMore.label "আরও জানুন">
+<!ENTITY trackingProtectionPBM5.label         "ট্র্যাকিং সুরক্ষা ব্যবহার করুন ব্যক্তিগত উইন্ডোতে (v)">
+<!ENTITY trackingProtectionPBM5.accesskey     "v">
+<!ENTITY trackingProtectionPBMLearnMore.label "আরও জানুন">
 
 <!ENTITY  history.label                 "পূর্ববর্তী তথ্য">
 
@@ -27,7 +28,8 @@
 <!ENTITY  locbar.searches.label         "ডিফল্ট সার্চ ইঞ্জিন থেকে এ সম্পর্কিত আরো অনুসন্ধান (d)">
 <!ENTITY  locbar.searches.accesskey     "d">
 
-
+<!ENTITY  suggestionSettings.label      "সার্চ ইঞ্জিনের পরিবর্তনের পছন্দসমূহ পরামর্শের জন্য (g)…">
+<!ENTITY  suggestionSettings.accesskey  "g">
 
 <!ENTITY  acceptCookies.label           "সাইট থেকে কুকি গ্রহণ করা হবে">
 <!ENTITY  acceptCookies.accesskey       "স">
