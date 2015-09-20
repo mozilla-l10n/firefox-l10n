@@ -564,17 +564,21 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_insecure "Nem biztonságos kapcsolat">
 <!-- Mixed content notifications in site identity popup -->
 
-
-
+<!ENTITY mixed_content_blocked_all "A &brandShortName; nem biztonságos elemeket blokkolt ezen az oldalon.">
+<!ENTITY mixed_content_blocked_some "A &brandShortName; néhány nem biztonságos elemet blokkolt ezen az oldalon.">
+<!ENTITY mixed_content_display_loaded "Az oldalon nem biztonságos elemek vannak.">
+<!ENTITY mixed_content_protection_disabled "Kikapcsolta a nem biztonságos elemek elleni védelmet.">
 
 <!ENTITY loaded_mixed_content_message "Ez az oldal nem biztonságos tartalmat jelenít meg.">
 <!ENTITY blocked_mixed_content_message_top "A &brandShortName; nem biztonságos tartalmat blokkolt.">
 <!ENTITY blocked_mixed_content_message_bottom "A legtöbb weboldal ezen tartalom blokkolása után is megfelelően fog működni.">
 <!-- Tracking content notifications in site identity popup -->
 
-
-
-
+<!ENTITY doorhanger_tracking_title "Védelem követés ellen">
+<!ENTITY doorhanger_tracking_state_enabled "Engedélyezve">
+<!ENTITY doorhanger_tracking_state_disabled "Tiltva">
+<!ENTITY doorhanger_tracking_message_enabled1 "Az online viselkedésének követésére irányuló kísérletek blokkolva lettek.">
+<!ENTITY doorhanger_tracking_message_disabled2 "Ez az oldal olyan elemeket tartalmaz, amelyek követhetik az Ön böngészését.">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "További tudnivalók">
@@ -683,16 +687,20 @@ Androidról">
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
+
+<!ENTITY devtools_auth_scan_header "A másik eszközön megjelenített QR kód beolvasása">
 <!-- Restrictions -->
 <!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
-
-
-
-
-
-
-
-
+<!ENTITY restriction_disallow_import_settings_title2 "Az „Importálás Androidról” letiltása">
+<!ENTITY restriction_disallow_addons_title2 "Kiegészítőtelepítés letiltása">
+<!ENTITY restriction_disallow_devtools_title2 "Fejlesztői eszközök letiltása">
+<!ENTITY restriction_disallow_customize_home_title2 "Kezdőoldal testreszabásának letiltása">
+<!ENTITY restriction_disallow_private_browsing_title2 "Privát böngészés letiltása">
+<!ENTITY restriction_disallow_location_services_title2 "Helymeghatározás letiltása">
+<!ENTITY restriction_disallow_display_settings_title2 "Kijelzőbeállítások letiltása">
+<!ENTITY restriction_disallow_clear_history_title2 "„Böngészési előzmények törlésének” letiltása">
+<!ENTITY restriction_disallow_master_password_title2 "Mesterjelszó letiltása">
+<!ENTITY restriction_disallow_guest_browsing_title2 "Vendég böngészés letiltása">
 
