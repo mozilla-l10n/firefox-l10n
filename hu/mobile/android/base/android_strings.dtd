@@ -10,6 +10,7 @@
 <!ENTITY  onboard_start_subtext3 "Tegye a mobil webböngészési élményét igazán egyedivé.">
 <!ENTITY  onboard_start_button_account "Bejelentkezés &brandShortName;ba">
 <!ENTITY  onboard_start_button_browser "Böngészés megkezdése">
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -68,6 +69,8 @@
 <!ENTITY edit_mode_cancel "Mégse">
 
 <!ENTITY close_tab "Lap bezárása">
+
+
 <!ENTITY one_tab "1 lap">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -155,6 +158,9 @@
 <!ENTITY pref_search_hint "TIPP: bármely weboldalt hozzáadhatja a keresőkhöz a keresőmezőjének hosszú megérintésével, majd a &formatI; ikonra koppintással.">
 <!ENTITY pref_category_devtools "Fejlesztői eszközök">
 <!ENTITY pref_developer_remotedebugging "Távoli hibakeresés">
+
+
+
 <!ENTITY pref_category_logins "Bejelentkezések">
 <!ENTITY pref_remember_signons2 "Bejelentkezések megjegyzése">
 <!ENTITY pref_open_external_urls_privately_title "Hivatkozások megnyitása privát böngészésben">
@@ -191,16 +197,19 @@
 <!ENTITY pref_cookies_not_accept_foreign "Engedélyezve, kivéve harmadik féltől származó">
 <!ENTITY pref_cookies_disabled "Tiltva">
 
-<!ENTITY pref_tracking_protection_title "Védelem követés ellen">
-<!ENTITY pref_tracking_protection_summary "A &brandShortName; megakadályozza, hogy a weboldalak kövessék">
+
 <!ENTITY pref_donottrack_title "Ne kövessenek">
 <!ENTITY pref_donottrack_summary "A &brandShortName; közli a webhelyekkel, hogy Ön nem szeretné, ha követnék">
+
+
+
+
 
 <!ENTITY tab_queue_toast_message3 "Lap mentve a &brandShortName;ban">
 <!ENTITY tab_queue_toast_action "Megnyitás most">
 <!ENTITY tab_queue_prompt_title "Megnyit több hivatkozást?">
-<!ENTITY tab_queue_prompt_text3 "Mentés a &brandShortName; következő megnyitásáig">
-<!ENTITY tab_queue_prompt_tip_text "ezt később a Beállításokban módosíthatja">
+
+
 <!ENTITY tab_queue_prompt_positive_action_button "Engedélyezés">
 <!ENTITY tab_queue_prompt_negative_action_button "Most nem">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
@@ -330,7 +339,6 @@ size. -->
 <!ENTITY addons "Kiegészítők">
 <!ENTITY logins "Bejelentkezések">
 <!ENTITY downloads "Letöltések">
-<!ENTITY apps "Alkalmazások">
 <!ENTITY char_encoding "Karakterkódolás">
 
 <!ENTITY share "Megosztás">
@@ -400,6 +408,9 @@ size. -->
 <!ENTITY pref_titlebar_mode "Címsor">
 <!ENTITY pref_titlebar_mode_title "Oldalcím megjelenítése">
 <!ENTITY pref_titlebar_mode_url "Oldal webcímének megjelenítése ">
+<!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
+     whether or not the magnifying glass is disabled. -->
+
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -407,7 +418,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "A &brandShortName; címsorának elrejtése oldal legörgetésekor">
 
 <!ENTITY pref_tab_queue_title2 "Több hivatkozás megnyitása">
-<!ENTITY pref_tab_queue_summary3 "Mentés a &brandShortName; következő megnyitásáig">
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -425,10 +436,8 @@ size. -->
 <!ENTITY site_settings_cancel       "Mégse">
 <!ENTITY site_settings_clear        "Törlés">
 <!ENTITY site_settings_no_settings  "Nincsenek törölhető beállítások.">
-<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+<!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
-
-<!ENTITY reading_list_added2 "Listához adva">
 <!ENTITY reading_list_removed "Az oldal eltávolítva az olvasási listából">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -545,21 +554,20 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_run_by "Működtetője:">
-<!ENTITY identity_no_info "Ez a webhely nem ad meg azonosító információkat.">
-<!ENTITY identity_not_encrypted "A kapcsolat a webhelyhez nem titkosított.">
-<!ENTITY identity_encrypted "Titkosított">
+
 <!-- Mixed content notifications in site identity popup -->
+
+
+
 
 <!ENTITY loaded_mixed_content_message "Ez az oldal nem biztonságos tartalmat jelenít meg.">
 <!ENTITY blocked_mixed_content_message_top "A &brandShortName; nem biztonságos tartalmat blokkolt.">
 <!ENTITY blocked_mixed_content_message_bottom "A legtöbb weboldal ezen tartalom blokkolása után is megfelelően fog működni.">
 <!-- Tracking content notifications in site identity popup -->
 
-<!ENTITY loaded_tracking_content_message_top "Követés elleni védelem kikapcsolva.">
-<!ENTITY loaded_tracking_content_message_bottom "Ezen oldal részei követhetik az online tevékenységét.">
-<!ENTITY blocked_tracking_content_message_top2 "Követés elleni védelem bekapcsolva.">
-<!ENTITY blocked_tracking_content_message_bottom2 "Az oldal azon részei, amelyek követhetik az online tevékenységét, blokkolva vannak.">
+
+
+
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "További tudnivalók">
@@ -645,10 +653,6 @@ Androidról">
 <!-- Voice search in the awesome bar -->
 
 <!ENTITY voicesearch_prompt "Beszéljen most">
-<!ENTITY voicesearch_failed_title "&brandShortName; hangos keresés">
-<!ENTITY voicesearch_failed_message "Hiba történt a hangos kereséssel. Próbálja meg később.">
-<!ENTITY voicesearch_failed_message_recoverable "Elnézést! Nem sikerült felismerni a szavait. Próbálja újra.">
-<!ENTITY voicesearch_failed_retry "Újra">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -666,3 +670,22 @@ Androidról">
 <!ENTITY find_matchcase "Aa">
 
 <!ENTITY intent_uri_cannot_open "Nem nyitható meg a hivatkozás">
+<!-- DevTools Authentication -->
+<!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
+     above a QR reader that is actively scanning for QR codes.  The expected QR
+     code has already been displayed by the client trying to connect (such as
+     desktop Firefox via WebIDE), so you just need to aim this device at the QR
+     code. -->
+<!-- Restrictions -->
+<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+     a restricted profile (e.g. child). Used inside the Android settings UI. -->
+
+
+
+
+
+
+
+
+
+
