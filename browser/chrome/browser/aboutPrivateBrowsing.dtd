@@ -25,14 +25,14 @@
 <!ENTITY aboutPrivateBrowsing.subtitle         "В този прозорец &brandShortName; няма да запомни историята на браузването.">
 
 <!ENTITY aboutPrivateBrowsing.forgotten        "В този прозорец &brandShortName; няма да запомни:">
-<!ENTITY aboutPrivateBrowsing.info.forgotten   "Забравено">
+<!ENTITY aboutPrivateBrowsing.info.forgotten   "Забравяно">
 <!ENTITY aboutPrivateBrowsing.info.history     "История">
 <!ENTITY aboutPrivateBrowsing.info.searches    "Търсения">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Бисквитки">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Временни файлове">
 
 <!ENTITY aboutPrivateBrowsing.kept             "&brandShortName; ще:">
-<!ENTITY aboutPrivateBrowsing.info.kept        "Запомнено">
+<!ENTITY aboutPrivateBrowsing.info.kept        "Запомняно">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Изтегляния">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Отметки">
 
@@ -54,8 +54,8 @@
      -->
 
 <!ENTITY trackingProtection.state.width        "6ch">
-<!ENTITY trackingProtection.state.enabled      "Включена">
-<!ENTITY trackingProtection.state.disabled     "Изключена">
+<!ENTITY trackingProtection.state.enabled      "ВКЛ">
+<!ENTITY trackingProtection.state.disabled     "ИЗКЛ">
 
 <!ENTITY trackingProtection.description1       "Поверителните прозорци вече блокират елементи от страницата, които биха могли да проследяват вашето браузване.">
 
