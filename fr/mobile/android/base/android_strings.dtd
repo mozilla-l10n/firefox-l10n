@@ -203,7 +203,7 @@
 <!ENTITY pref_home_suggested_sites_summary "Afficher sur votre écran d\u0027accueil des raccourcis vers des sites que nous pensons que vous trouverez intéressants">
 <!ENTITY pref_category_home_homepage "Page d\u0027accueil">
 <!ENTITY home_homepage_title "Définir une page d\u0027accueil">
-<!ENTITY home_homepage_use_current_tab "Utilise l\u0027onglet actuel">
+<!ENTITY home_homepage_use_current_tab "Utiliser l\u0027onglet actuel">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Personnalisation">
