@@ -4,41 +4,41 @@
 
 <!-- extracted from printdialog.xul -->
 
-<!ENTITY printButton.label "Natisni">
+<!ENTITY printButton.label "Print">
 
-<!ENTITY printDialog.title "Tiskanje">
+<!ENTITY printDialog.title "Print">
 
-<!ENTITY fpDialog.title "Shranjevanje datoteke">
+<!ENTITY fpDialog.title "Save File">
 
-<!ENTITY fileCheck.label "Natisni v datoteko">
-<!ENTITY fileCheck.accesskey "d">
-<!ENTITY propertiesButton.label "Lastnosti ...">
-<!ENTITY propertiesButton.accesskey "L">
-<!ENTITY descText.label "Opis tiskalnika:">
-<!ENTITY printer.label "Tiskalnik">
-<!ENTITY printerInput.label "Tiskalnik:">
-<!ENTITY printerInput.accesskey "T">
+<!ENTITY fileCheck.label "Print to File">
+<!ENTITY fileCheck.accesskey "F">
+<!ENTITY propertiesButton.label "Properties…">
+<!ENTITY propertiesButton.accesskey "o">
+<!ENTITY descText.label "Printer Description:">
+<!ENTITY printer.label "Printer">
+<!ENTITY printerInput.label "Printer Name:">
+<!ENTITY printerInput.accesskey "N">
 
-<!ENTITY printrangeGroup.label "Obseg tiskanja">
-<!ENTITY allpagesRadio.label "Vse strani">
-<!ENTITY allpagesRadio.accesskey "V">
-<!ENTITY rangeRadio.label  "Strani">
-<!ENTITY rangeRadio.accesskey  "S">
-<!ENTITY frompageInput.label  "iz">
-<!ENTITY frompageInput.accesskey  "i">
-<!ENTITY topageInput.label  "v">
-<!ENTITY topageInput.accesskey  "v">
-<!ENTITY selectionRadio.label "Izbrano">
-<!ENTITY selectionRadio.accesskey "I">
+<!ENTITY printrangeGroup.label "Print Range">
+<!ENTITY allpagesRadio.label "All Pages">
+<!ENTITY allpagesRadio.accesskey "A">
+<!ENTITY rangeRadio.label  "Pages">
+<!ENTITY rangeRadio.accesskey  "P">
+<!ENTITY frompageInput.label  "from">
+<!ENTITY frompageInput.accesskey  "r">
+<!ENTITY topageInput.label  "to">
+<!ENTITY topageInput.accesskey  "t">
+<!ENTITY selectionRadio.label "Selection">
+<!ENTITY selectionRadio.accesskey "S">
 
-<!ENTITY copies.label "Kopije">
-<!ENTITY numCopies.label "Število kopij:">
-<!ENTITY numCopies.accesskey "k">
+<!ENTITY copies.label "Copies">
+<!ENTITY numCopies.label "Number of copies:">
+<!ENTITY numCopies.accesskey "c">
 
-<!ENTITY printframeGroup.label "Tiskanje okvirjev">
-<!ENTITY aslaidoutRadio.label "Kot postavljeno na zaslonu">
-<!ENTITY aslaidoutRadio.accesskey "p">
-<!ENTITY selectedframeRadio.label  "Izbrani okvir">
-<!ENTITY selectedframeRadio.accesskey  "o">
-<!ENTITY eachframesepRadio.label  "Vsak okvir posebej">
-<!ENTITY eachframesepRadio.accesskey  "p">
+<!ENTITY printframeGroup.label "Print Frames">
+<!ENTITY aslaidoutRadio.label "As laid out on the screen">
+<!ENTITY aslaidoutRadio.accesskey "u">
+<!ENTITY selectedframeRadio.label  "The selected frame">
+<!ENTITY selectedframeRadio.accesskey  "m">
+<!ENTITY eachframesepRadio.label  "Each frame separately">
+<!ENTITY eachframesepRadio.accesskey  "E">

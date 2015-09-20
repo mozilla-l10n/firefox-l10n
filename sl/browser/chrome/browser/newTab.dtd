@@ -3,16 +3,16 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- These strings are used in the about:newtab page -->
-<!ENTITY newtab.pageTitle "Nov zavihek">
-<!ENTITY newtab.customize.classic "Prikaži glavne strani">
-<!ENTITY newtab.customize.cog.enhanced "Vključi predlagane strani">
-<!ENTITY newtab.customize.cog.title2 "NASTAVITVE NOVEGA ZAVIHKA">
-<!ENTITY newtab.customize.cog.learn "Več o novem zavihku">
-<!ENTITY newtab.customize.title "Prilagodite stran novega zavihka">
-<!ENTITY newtab.customize.suggested "Prikaži predlagane in glavne strani">
-<!ENTITY newtab.customize.topsites "Prikaži glavne strani">
-<!ENTITY newtab.customize.blank2 "Prikaži prazno stran">
-<!ENTITY newtab.undo.removedLabel "Sličica odstranjena.">
-<!ENTITY newtab.undo.undoButton "Razveljavi.">
-<!ENTITY newtab.undo.restoreButton "Obnovi vse.">
-<!ENTITY newtab.undo.closeTooltip "Skrij">
+<!ENTITY newtab.pageTitle "New Tab">
+<!ENTITY newtab.customize.classic "Show your top sites">
+<!ENTITY newtab.customize.cog.enhanced "Include suggested sites">
+<!ENTITY newtab.customize.cog.title2 "NEW TAB CONTROLS">
+<!ENTITY newtab.customize.cog.learn "Learn about New Tab">
+<!ENTITY newtab.customize.title "Customize your New Tab page">
+<!ENTITY newtab.customize.suggested "Show suggested and your top sites">
+<!ENTITY newtab.customize.topsites "Show your top sites">
+<!ENTITY newtab.customize.blank2 "Show blank page">
+<!ENTITY newtab.undo.removedLabel "Thumbnail removed.">
+<!ENTITY newtab.undo.undoButton "Undo.">
+<!ENTITY newtab.undo.restoreButton "Restore All.">
+<!ENTITY newtab.undo.closeTooltip "Hide">

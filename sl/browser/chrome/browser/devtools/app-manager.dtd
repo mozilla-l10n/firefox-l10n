@@ -2,102 +2,102 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY index.title "Upravitelj aplikacij">
-<!ENTITY index.projects2 "Aplikacije">
-<!ENTITY index.device2 "Naprava">
-<!ENTITY index.help "Pomoč">
+<!ENTITY index.title "App Manager">
+<!ENTITY index.projects2 "Apps">
+<!ENTITY index.device2 "Device">
+<!ENTITY index.help "Help">
 
-<!ENTITY device.debugMainProcess "Razhroščevanje glavnega procesa">
-<!ENTITY device.debugMainProcessTooltip "Odpri razvojna orodja, povezana z glavnim procesom naprave">
-<!ENTITY device.screenshot "Posnetek zaslona">
-<!ENTITY device.screenshotTooltip "Odpri posnetek zaslona trenutnega stanja naprave v novem zavihku.">
-<!ENTITY device.title "Nadzorno središče naprave">
-<!ENTITY device.notConnected "Ni povezave. Povežite svojo napravo spodaj.">
-<!ENTITY device.startApp "Zaženi">
-<!ENTITY device.startAppTooltip "Zaženi to aplikacijo na napravi.">
-<!ENTITY device.stopApp "Ustavi">
-<!ENTITY device.stopAppTooltip "Ustavi to aplikacijo na napravi.">
-<!ENTITY device.debugApp "Razhroščevanje">
-<!ENTITY device.debugAppTooltip "Odpri razvojna orodja, povezana s to aplikacijo na napravi.">
-<!ENTITY device.name "Ime">
-<!ENTITY device.plain "Navadno (privzeto)">
-<!ENTITY device.privileged "Prednostna">
-<!ENTITY device.certified "Potrjena">
-<!ENTITY device.allow "Dovoli">
-<!ENTITY device.allowTooltip "Ta pravica je dovoljena za aplikacije te vrste.">
-<!ENTITY device.prompt "Opozori">
-<!ENTITY device.promptTooltip "Ta pravica zahteva opozorilo uporabnika za aplikacije te vrste.">
-<!ENTITY device.deny "Zavrni">
-<!ENTITY device.denyTooltip "Ta pravica je zavrnjena za aplikacije te vrste.">
-<!ENTITY device.installedApps "Nameščene aplikacije">
-<!ENTITY device.installedAppsTooltip "Oglejte si seznam aplikacij, nameščenih na tej napravi. Nekatere, npr. potrjene, so lahko izločene iz seznama.">
-<!ENTITY device.permissions "Pravice">
-<!ENTITY device.permissionsTooltip "Oglejte si tabelo pravic, dostopnih različnim vrstam aplikacij.">
+<!ENTITY device.debugMainProcess "Debug main process">
+<!ENTITY device.debugMainProcessTooltip "Open the Developer Tools connected to the main process on the device">
+<!ENTITY device.screenshot "Screenshot">
+<!ENTITY device.screenshotTooltip "Open a screenshot of the current state of the device in a new tab">
+<!ENTITY device.title "Device Control Center">
+<!ENTITY device.notConnected "Not connected. Please connect your device below.">
+<!ENTITY device.startApp "Start">
+<!ENTITY device.startAppTooltip "Start this app on the device">
+<!ENTITY device.stopApp "Stop">
+<!ENTITY device.stopAppTooltip "Stop this app on the device">
+<!ENTITY device.debugApp "Debug">
+<!ENTITY device.debugAppTooltip "Open the Developer Tools connected to this app on the device">
+<!ENTITY device.name "Name">
+<!ENTITY device.plain "Plain (default)">
+<!ENTITY device.privileged "Privileged">
+<!ENTITY device.certified "Certified">
+<!ENTITY device.allow "Allow">
+<!ENTITY device.allowTooltip "This permission is allowed for apps of this type">
+<!ENTITY device.prompt "Prompt">
+<!ENTITY device.promptTooltip "This permission requires a user prompt for apps of this type">
+<!ENTITY device.deny "Deny">
+<!ENTITY device.denyTooltip "This permission is denied for apps of this type">
+<!ENTITY device.installedApps "Installed Apps">
+<!ENTITY device.installedAppsTooltip "View a list of apps installed on the device. Some apps, such as certified apps, may be excluded from this view.">
+<!ENTITY device.permissions "Permissions">
+<!ENTITY device.permissionsTooltip "View a table of the permissions accessible to the different types of apps">
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
-<!ENTITY device.browserTabs "Zavihki brskalnika">
-<!ENTITY device.browserTabsTooltip "Ogled seznama zavihkov brskalnika na priključeni napravi">
-<!ENTITY device.debugBrowserTab "Razhroščevanje">
-<!ENTITY device.debugBrowserTabTooltip "Odpri razvojna orodja, povezana s tem zavihkom brskalnika na napravi">
-<!ENTITY device.help "Pomoč">
+<!ENTITY device.browserTabs "Browser Tabs">
+<!ENTITY device.browserTabsTooltip "View a list of tabs in the browser of the connected device">
+<!ENTITY device.debugBrowserTab "Debug">
+<!ENTITY device.debugBrowserTabTooltip "Open the Developer Tools connected to this browser tab on the device">
+<!ENTITY device.help "Help">
 
-<!ENTITY connection.connectTooltip "Poveži se z napravo.">
-<!ENTITY connection.disconnect "Prekini povezavo">
-<!ENTITY connection.disconnectTooltip "Prekinite povezavo s trenutno napravo ali simulatorjem.">
-<!ENTITY connection.notConnected2 "Ni povezave.">
-<!ENTITY connection.connectTo "Poveži se z:">
-<!ENTITY connection.noDeviceFound "Naprav ni mogoče najti. Priklopite napravo">
-<!ENTITY connection.changeHostAndPort "Spremeni">
-<!ENTITY connection.changeHostAndPortTooltip "Spremeni gostitelja in vrata za povezavo na napravo. (Privzeto: localhost:6000)">
-<!ENTITY connection.startSimulator "Zaženi simulator">
-<!ENTITY connection.startSimulatorTooltip "Zaženi simulator in se poveži nanj.">
-<!ENTITY connection.saveConnectionInfo "Shrani">
-<!ENTITY connection.saveConnectionInfoTooltip "Shrani gostitelja in vrata.">
-<!ENTITY connection.connecting "Povezovanje …">
-<!ENTITY connection.disconnecting "Prekinjanje povezave …">
-<!ENTITY connection.cancel "Prekliči">
-<!ENTITY connection.cancelConnectTooltip "Prekliči trenutno povezavo.">
-<!ENTITY connection.cancelShowSimulatorTooltip "Končaj povezavo s simulatorjem in se vrni na začetni poziv.">
-<!ENTITY connection.or "ali">
-<!ENTITY connection.noSimulatorInstalled "Simulator ni nameščen.">
-<!ENTITY connection.installOneSimulator "Namesti simulator">
-<!ENTITY connection.installOneSimulatorTooltip "Namesti različico simulatorja s prenosom ustreznega dodatka.">
-<!ENTITY connection.installAnotherSimulator "Dodaj">
-<!ENTITY connection.installAnotherSimulatorTooltip "Namesti dodatno različico simulatorja s prenosom ustreznega dodatka.">
-<!ENTITY connection.startRegisteredSimulator "Zaženi:">
+<!ENTITY connection.connectTooltip "Connect to the device">
+<!ENTITY connection.disconnect "Disconnect">
+<!ENTITY connection.disconnectTooltip "Disconnect from the current device or simulator">
+<!ENTITY connection.notConnected2 "Not Connected.">
+<!ENTITY connection.connectTo "Connect to:">
+<!ENTITY connection.noDeviceFound "No device found. Plug a device">
+<!ENTITY connection.changeHostAndPort "Change">
+<!ENTITY connection.changeHostAndPortTooltip "Change the host and port used to connect to the device (defaults to localhost:6000)">
+<!ENTITY connection.startSimulator "Start Simulator">
+<!ENTITY connection.startSimulatorTooltip "Start an instance of the Simulator and connect to it">
+<!ENTITY connection.saveConnectionInfo "Save">
+<!ENTITY connection.saveConnectionInfoTooltip "Save the host and port">
+<!ENTITY connection.connecting "Connecting…">
+<!ENTITY connection.disconnecting "Disconnecting…">
+<!ENTITY connection.cancel "Cancel">
+<!ENTITY connection.cancelConnectTooltip "Cancel the connection in progress">
+<!ENTITY connection.cancelShowSimulatorTooltip "Exit the Simulator connection mode and return to the initial prompt">
+<!ENTITY connection.or "or">
+<!ENTITY connection.noSimulatorInstalled "No simulator installed.">
+<!ENTITY connection.installOneSimulator "Install Simulator">
+<!ENTITY connection.installOneSimulatorTooltip "Install a version of the Simulator by downloading the relevant add-on">
+<!ENTITY connection.installAnotherSimulator "Add">
+<!ENTITY connection.installAnotherSimulatorTooltip "Install an additional version of the Simulator by downloading the relevant add-on">
+<!ENTITY connection.startRegisteredSimulator "Start:">
 
-<!ENTITY projects.localApps "Lokalne aplikacije">
-<!ENTITY projects.addApp "Dodaj">
-<!ENTITY projects.addPackaged "Dodaj zapakirano aplikacijo">
-<!ENTITY projects.addPackagedTooltip "Dodaj novo zapakirano aplikacijo (mapo) iz računalnika.">
-<!ENTITY projects.addHosted "Dodaj gostovano aplikacijo">
-<!ENTITY projects.addHostedTooltip "Dodaj novo gostovano aplikacijo (povezava na datoteko manifest.webapp) iz oddaljene spletne strani.">
-<!ENTITY projects.title "Lokalne aplikacije">
-<!ENTITY projects.appDetails "Podrobnosti aplikacije">
-<!ENTITY projects.removeAppFromList "Odstrani aplikacijo iz seznama aplikacij, na katerih delate. To je ne bo odstranilo iz naprave ali simulatorja.">
-<!ENTITY projects.updateApp "Posodobi">
-<!ENTITY projects.updateAppTooltip "Izvedi preverjanje in posodobi aplikacijo na povezano napravo">
-<!ENTITY projects.debugApp "Razhroščevanje">
-<!ENTITY projects.debugAppTooltip "Odpri razvojna orodja, povezana s to aplikacijo">
-<!ENTITY projects.saveManifest "Shrani">
-<!ENTITY projects.saveManifestTooltip "Shrani vsebino urejevalnika manifesta spodaj.">
-<!ENTITY projects.hostedManifestPlaceHolder2 "http://primer.com/aplikacija/manifest.webapp">
-<!ENTITY projects.noProjects "Ni projektov. Dodajte novo zapakirano aplikacijo spodaj (lokalna mapa) ali gostovano aplikacijo (povezava na datoteko z manifestom).">
-<!ENTITY projects.manifestEditor "Urejevalnik manifesta">
-<!ENTITY projects.manifestEditorTooltip "Uredite manifest vaše aplikacije spodaj. Z gumbom Posodobi boste shranili vaše spremembe in posodobili aplikacijo.">
-<!ENTITY projects.manifestViewer "Pregledovalnik manifesta">
-<!ENTITY projects.manifestViewerTooltip "Preizkusite manifest vaše aplikacije spodaj.">
-<!ENTITY projects.valid "Veljavno">
-<!ENTITY projects.error "Napaka">
-<!ENTITY projects.warning "Opozorilo">
-<!ENTITY projects.hosted "Gostovano">
-<!ENTITY projects.packaged "Zapakirano">
+<!ENTITY projects.localApps "Local Apps">
+<!ENTITY projects.addApp "Add">
+<!ENTITY projects.addPackaged "Add Packaged App">
+<!ENTITY projects.addPackagedTooltip "Add a new packaged app (a directory) from your computer">
+<!ENTITY projects.addHosted "Add Hosted App">
+<!ENTITY projects.addHostedTooltip "Add a new hosted app (link to a manifest.webapp file) from a remote website">
+<!ENTITY projects.title "Local Apps">
+<!ENTITY projects.appDetails "App Details">
+<!ENTITY projects.removeAppFromList "Remove this app from the list of apps you are working on. This will not remove it from a device or a simulator.">
+<!ENTITY projects.updateApp "Update">
+<!ENTITY projects.updateAppTooltip "Execute validation checks and update the app to the connected device">
+<!ENTITY projects.debugApp "Debug">
+<!ENTITY projects.debugAppTooltip "Open Developer Tools connected to this app">
+<!ENTITY projects.saveManifest "Save">
+<!ENTITY projects.saveManifestTooltip "Save the contents of the Manifest Editor below">
+<!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
+<!ENTITY projects.noProjects "No projects. Add a new packaged app below (local directory) or a hosted app (link to a manifest file).">
+<!ENTITY projects.manifestEditor "Manifest Editor">
+<!ENTITY projects.manifestEditorTooltip "Edit your app's manifest in the panel below. The Update button will save your changes and update the app.">
+<!ENTITY projects.manifestViewer "Manifest Viewer">
+<!ENTITY projects.manifestViewerTooltip "Examine your app's manifest in the panel below">
+<!ENTITY projects.valid "Valid">
+<!ENTITY projects.error "Error">
+<!ENTITY projects.warning "Warning">
+<!ENTITY projects.hosted "Hosted">
+<!ENTITY projects.packaged "Packaged">
 
-<!ENTITY help.title "Upravitelj aplikacij">
-<!ENTITY help.close "Zapri">
-<!ENTITY help.intro "To orodje vam bo pomagalo pri razvoju in nameščanju spletnih aplikacij na združljive naprave (npr. Firefox OS). Zavihek <strong>Aplikacije</strong> bo v pomoč med preverjanjem in nameščanjem vaše aplikacije. Zavihek <strong>Naprava</strong> bo prikazal podatke o povezani napravi. Uporabite spodnjo orodno vrstico za povezavo z napravo ali zagonom simulatorja.">
-<!ENTITY help.usefullLinks "Uporabne povezave:">
-<!ENTITY help.appMgrDoc "Dokumentacija: Uporaba upravitelja aplikacij">
-<!ENTITY help.configuringDevice "Kako nastaviti vašo napravo s Firefox OS">
-<!ENTITY help.troubleShooting "Odpravljanje težav">
-<!ENTITY help.simulatorAddon "Namesti dodatek Simulator">
-<!ENTITY help.adbHelperAddon "Namesti dodatek Adb Helper">
+<!ENTITY help.title "App Manager">
+<!ENTITY help.close "Close">
+<!ENTITY help.intro "This tool will help you build and install web apps on compatible devices (i.e. Firefox OS). The <strong>Apps</strong> tab will assist you in the validation and installation process of your app. The <strong>Device</strong> tab will give you information about the connected device. Use the bottom toolbar to connect to a device or start the simulator.">
+<!ENTITY help.usefullLinks "Useful links:">
+<!ENTITY help.appMgrDoc "Documentation: Using the App Manager">
+<!ENTITY help.configuringDevice "How to setup your Firefox OS device">
+<!ENTITY help.troubleShooting "Troubleshooting">
+<!ENTITY help.simulatorAddon "Install Simulator Add-on">
+<!ENTITY help.adbHelperAddon "Install Adb Helper Add-on">
