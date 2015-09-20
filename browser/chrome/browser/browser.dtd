@@ -701,18 +701,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.description.insecure "এই সাইট টি তে আপনার কানেক্সন নিরাপদ নয়। আপনি যে তথ্যগুলি জমা করেছেন, সেগুলি অন্ন কেউ দেখতে পেতে পারেন(পাসওয়ার্ড, বার্তা, ক্রেডিট কার্ড ইত্যাদি )।">
 <!ENTITY identity.description.weakCipher "এই ওয়েবসাইটে আপনার সংযোগ দুর্বল এনক্রিপশন ব্যবহার করে এবং ব্যক্তিগত নয়।">
+<!ENTITY identity.description.weakCipher2 "অন্ন কেউ আপনার তথ্য দেখে নিয়ে সেটিকে পরিবরতন করতে পারে।">
+<!ENTITY identity.description.activeBlocked "&brandShortName; এই পৃষ্ঠাতে কিছু নিরাপদ নয় উপাদান অবরোধ করেছে।">
+<!ENTITY identity.description.passiveLoaded "আপনার সংযোগ সুরক্ষিত নয় এবনং সেটি অন্য কেউ দেখতে পেতে পারে।">
+<!ENTITY identity.description.passiveLoaded2 "এই ওয়েবসাইটে নিরাপদ নয় এমন সামগ্রী রয়েছে (যেমন ছবি)।">
+<!ENTITY identity.description.passiveLoaded3 "&brandShortName; যদিও কিছু বিপজ্জনক সামগ্রী প্রতিরোধ করেছে, তাও সেটি পুরপুরি নিরাপদ নয় (যেমন ছবি)।">
+<!ENTITY identity.description.activeLoaded "এই ওয়েবসাইট থেকে সংযোগ সম্পূর্ণরূপে নিরাপদ নয় কারণ এটিতে এনক্রিপশনবিহীন উপাদান (যেমন ছবি) উপস্থিত রয়েছে।">
+<!ENTITY identity.description.activeLoaded2 "আপনি কি এই সাইটের সাথে তথ্য শেয়ার করলে সবাই দেখতে পারে (পাসওয়ার্ড, বার্তা, ক্রেডিট কার্ড ইত্যাদি)।">
 
-
-
-
-
-
-
-
-
+<!ENTITY identity.enableMixedContentBlocking.label "সুরক্ষা সক্রিয় করুন (E)">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "E">
 <!ENTITY identity.disableMixedContentBlocking.label "এখনকার জন্য সুরক্ষা নিষ্ক্রিয় করুন (D)">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
-
+<!ENTITY identity.learnMore "আরও জানুন">
 
 <!ENTITY identity.moreInfoLinkText2 "অধিক বিবরণ">
 
@@ -789,29 +790,32 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "শেয়ার করার মাইক্রোফোন (M):">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
-
+<!ENTITY getUserMedia.audioCapture.label "ট্যাব থেকে অডিও শেয়ার করা হবে।">
 <!ENTITY getUserMedia.allWindowsShared.message "আপনার স্ক্রিনে সব দৃশ্যমান উইন্ডো শেয়ার করা হবে।">
 
-
-
-
+<!ENTITY trackingProtection.title "ট্র্যাকিং সুরক্ষা">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; পৃষ্ঠার যে অংশগুলি আপনার অন-লাইন কার্যকলাপ ট্র্যাক করে সেগুলি প্রতিরোধ করা হয়েছে।">
+<!ENTITY trackingProtection.detectedNotBlocked3 "এই সাইটটিতে আপনার ব্রাউজিং ট্র্যাক করতে পারে এমন উপাদান রয়েছে। আপনি সুরক্ষা বন্ধ করেছেন।">
+<!ENTITY trackingProtection.notDetected3 "এই পৃষ্ঠাতে নিরাপদ নয় এমন উপাদান ধরা পরেনি।">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-
+<!ENTITY trackingProtection.unblock.label "এই সাইটে সুরক্ষা নিষ্ক্রিয় করুন (D)">
+<!ENTITY trackingProtection.unblock.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-
-
-
+<!ENTITY trackingProtection.unblockPrivate.label "এই সেশনে সুরক্ষা নিষ্ক্রিয় করুন (D)">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "D">
+<!ENTITY trackingProtection.block2.label "সুরক্ষা সক্রিয় করুন (E)">
+<!ENTITY trackingProtection.block2.accesskey "E">
 
 <!ENTITY trackingContentBlocked.message "অনুসরণকরণ">
 <!ENTITY trackingContentBlocked.moreinfo "পৃষ্ঠার যে অংশগুলি অাপনার অন-লাইন কার্যকলাপ ট্র্যাক করে সেগুলি প্রতিরোধ করা হয়েছে।">
 <!ENTITY trackingContentBlocked.learnMore "আরও জানুন">
-
-
-
+<!ENTITY trackingContentBlocked.options "বিকল্প">
+<!ENTITY trackingContentBlocked.unblock2.label "এই সাইটে সুরক্ষা নিষ্ক্রিয় করুন (D)">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "সুরক্ষা সক্রিয় করুন">
 <!ENTITY trackingContentBlocked.block.accesskey "স">
 <!ENTITY trackingContentBlocked.disabled.message "ট্র্যাকিং সুরক্ষা নিষ্ক্রিয় করা হয়েছে">
