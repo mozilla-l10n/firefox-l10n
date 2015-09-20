@@ -26,8 +26,8 @@
 <!ENTITY addToUserDictionaryButton.accessKey "D">
 <!ENTITY editUserDictionaryButton.label      "Edytuj…">
 <!ENTITY editUserDictionaryButton.accessKey  "E">
-<!ENTITY recheckButton.label "Sprawdź ponownie">
-<!ENTITY recheckButton.accessKey "p">
+<!ENTITY recheckButton2.label "Sprawdź ponownie">
+<!ENTITY recheckButton2.accessKey "p">
 <!ENTITY closeButton.label "Zamknij">
 <!ENTITY closeButton.accessKey "Z">
 <!ENTITY sendButton.label "Wyślij">
