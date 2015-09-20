@@ -22,9 +22,13 @@
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.nonE10SBuild): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a non-multiprocess build. -->
+
+<!ENTITY performanceUI.disabledRealTime.nonE10SBuild "A valós idejű felvételadatok ki vannak kapcsolva a nem többszálú Firefoxban.">
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a build that can run multiprocess Firefox, but just is not enabled. -->
+
+<!ENTITY performanceUI.disabledRealTime.disabledE10S "Engedélyezze a többszálú Firefoxot a beállításokban a felvételadatok valós idejű megjelenítéséhez.">
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusFull): This string
   -  is displayed when the profiler's circular buffer has started to overlap. -->
 
@@ -47,9 +51,13 @@
 <!ENTITY performanceUI.exportButton "Mentés">
 <!-- LOCALIZATION NOTE (performanceUI.clearButton): This string is displayed
   -  on a button that removes all the recordings. -->
+
+<!ENTITY performanceUI.clearButton "Törlés">
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
 
+<!ENTITY performanceUI.toolbar.waterfall "Vízesés">
+<!ENTITY performanceUI.toolbar.js-calltree "Hívási fa">
 <!ENTITY performanceUI.toolbar.memory-calltree "Foglalások">
 <!ENTITY performanceUI.toolbar.js-flamegraph "JS lángdiagram">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "Foglalások lángdiagram">
