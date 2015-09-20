@@ -4,63 +4,63 @@
 
 <!-- extracted from printjoboptions.xul -->
 
-<!ENTITY printSetup.title    "Nastavitve strani">
+<!ENTITY printSetup.title    "Page Setup">
 
-<!ENTITY basic.tab           "Oblika in možnosti">
+<!ENTITY basic.tab           "Format &amp; Options">
 
-<!ENTITY formatGroup.label   "Oblika">
+<!ENTITY formatGroup.label   "Format">
 
-<!ENTITY orientation.label   "Usmerjenost:">
-<!ENTITY portrait.label      "Pokončno">
+<!ENTITY orientation.label   "Orientation:">
+<!ENTITY portrait.label      "Portrait">
 <!ENTITY portrait.accesskey  "P">
-<!ENTITY landscape.label     "Ležeče">
+<!ENTITY landscape.label     "Landscape">
 <!ENTITY landscape.accesskey "L">
 
-<!ENTITY scale.label         "Merilo:">
-<!ENTITY scale.accesskey     "M">
-<!ENTITY scalePercent        " &#037;">
+<!ENTITY scale.label         "Scale:">
+<!ENTITY scale.accesskey     "S">
+<!ENTITY scalePercent        "&#037;">
 
-<!ENTITY shrinkToFit.label   "Skrči, da bo ustrezalo širini strani">
-<!ENTITY shrinkToFit.accesskey "k">
+<!ENTITY shrinkToFit.label   "Shrink to fit Page Width">
+<!ENTITY shrinkToFit.accesskey "W">
 
-<!ENTITY optionsGroup.label  "Možnosti">
+<!ENTITY optionsGroup.label  "Options">
 
-<!ENTITY printBG.label       "Natisni ozadje (barve in slike)">
-<!ENTITY printBG.accesskey   "N">
+<!ENTITY printBG.label       "Print Background (colors &amp; images)">
+<!ENTITY printBG.accesskey   "B">
 
-<!ENTITY advanced.tab        "Robovi ter glava in noga">
+<!ENTITY advanced.tab        "Margins &amp; Header/Footer">
 
-<!ENTITY marginGroup.label   "Robovi (#1)">
-<!ENTITY marginUnits.inches  "palci">
-<!ENTITY marginUnits.metric  "milimetri">
-<!ENTITY marginTop.label     "Zgoraj:">
-<!ENTITY marginTop.accesskey "Z">
-<!ENTITY marginBottom.label  "Spodaj:">
-<!ENTITY marginBottom.accesskey "S">
-<!ENTITY marginLeft.label    "Levo:">
+<!ENTITY marginGroup.label   "Margins (#1)">
+<!ENTITY marginUnits.inches  "inches">
+<!ENTITY marginUnits.metric  "millimeters">
+<!ENTITY marginTop.label     "Top:">
+<!ENTITY marginTop.accesskey "T">
+<!ENTITY marginBottom.label  "Bottom:">
+<!ENTITY marginBottom.accesskey "B">
+<!ENTITY marginLeft.label    "Left:">
 <!ENTITY marginLeft.accesskey "L">
-<!ENTITY marginRight.label   "Desno:">
-<!ENTITY marginRight.accesskey "D">
+<!ENTITY marginRight.label   "Right:">
+<!ENTITY marginRight.accesskey "R">
 
-<!ENTITY headerFooter.label  "Glave in noge">
+<!ENTITY headerFooter.label  "Headers &amp; Footers">
 
-<!ENTITY hfLeft.label        "Levo:">
-<!ENTITY hfCenter.label      "Sredina:">
-<!ENTITY hfRight.label       "Desno:">
-<!ENTITY headerLeft.tip      "Leva glava">
-<!ENTITY headerCenter.tip    "Središčna glava">
-<!ENTITY headerRight.tip     "Desna glava">
-<!ENTITY footerLeft.tip      "Leva noga">
-<!ENTITY footerCenter.tip    "Središčna noga">
-<!ENTITY footerRight.tip     "Desna noga">
+<!ENTITY hfLeft.label        "Left:">
+<!ENTITY hfCenter.label      "Center:">
+<!ENTITY hfRight.label       "Right:">
+<!ENTITY headerLeft.tip      "Left header">
+<!ENTITY headerCenter.tip    "Center header">
+<!ENTITY headerRight.tip     "Right header">
+<!ENTITY footerLeft.tip      "Left footer">
+<!ENTITY footerCenter.tip    "Center footer">
+<!ENTITY footerRight.tip     "Right footer">
 
-<!ENTITY hfTitle             "Naslov">
+<!ENTITY hfTitle             "Title">
 <!ENTITY hfURL               "URL">
-<!ENTITY hfDateAndTime       "Datum/čas">
-<!ENTITY hfPage              "Stran #">
-<!ENTITY hfPageAndTotal      "Stran # od #">
-<!ENTITY hfBlank             "--prazno--">
-<!ENTITY hfCustom            "Po meri ...">
+<!ENTITY hfDateAndTime       "Date/Time">
+<!ENTITY hfPage              "Page #">
+<!ENTITY hfPageAndTotal      "Page # of #">
+<!ENTITY hfBlank             "--blank--">
+<!ENTITY hfCustom            "Custom…">
 
-<!ENTITY customPrompt.title  "Po meri ...">
-<!ENTITY customPrompt.prompt "Vnesite besedilo za glavo/nogo po meri">
+<!ENTITY customPrompt.title  "Custom…">
+<!ENTITY customPrompt.prompt "Enter your custom header/footer text">

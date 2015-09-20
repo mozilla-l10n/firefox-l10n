@@ -3,10 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
-<!ENTITY aboutServiceWorkers.title                     "O Service Workerjih">
+<!ENTITY aboutServiceWorkers.title                     "About Service Workers">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
-<!ENTITY aboutServiceWorkers.maintitle                 "Registrirani Service Workerji">
+<!ENTITY aboutServiceWorkers.maintitle                 "Registered Service Workers">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
-<!ENTITY aboutServiceWorkers.warning_not_enabled       "Service Workerji niso omogočeni.">
+<!ENTITY aboutServiceWorkers.warning_not_enabled       "Service Workers are not enabled.">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
-<!ENTITY aboutServiceWorkers.warning_no_serviceworkers "Ni registriranih Service Workerjev.">
+<!ENTITY aboutServiceWorkers.warning_no_serviceworkers "No Service Workers registered.">
