@@ -9,7 +9,8 @@
 <!ENTITY provideSearchSuggestions.label        "সার্চ(s) সাজেশন প্রদান করুন">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
 
-
+<!ENTITY showURLBarSuggestions.label           "অনুসন্ধানের প্রস্তাবিত ফলাফল প্রদর্শন করা হবে (l)">
+<!ENTITY showURLBarSuggestions.accesskey       "l">
 
 <!ENTITY redirectWindowsSearch.label "এই সার্চ ইঞ্জিনটি ব্যাবহার করুন Windows থেকে অনুসন্ধান করার জন্য">
 <!ENTITY redirectWindowsSearch.accesskey "W">

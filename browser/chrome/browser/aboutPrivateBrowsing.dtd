@@ -13,6 +13,8 @@
      of the Tracking Protection section, and in general not much larger than
      30em to prevent the sections from wrapping on smaller window sizes.
      -->
+
+<!ENTITY aboutPrivateBrowsing.width            "30em">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
      aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
      These strings will be replaced by aboutPrivateBrowsing.forgotten and
@@ -20,16 +22,18 @@
      -->
 
 <!ENTITY aboutPrivateBrowsing.title            "অাপনি গোপনে ব্রাউজিং করছেন">
+<!ENTITY aboutPrivateBrowsing.subtitle         "এই উইন্ডোতে, &brandShortName; পূর্ববর্তী তথ্য মনে রাখবে না।">
 
-
-
+<!ENTITY aboutPrivateBrowsing.forgotten        "এই উইন্ডোতে, &brandShortName; মনে রাখবে না।">
+<!ENTITY aboutPrivateBrowsing.info.forgotten   "সংরক্ষিত হয় নি">
 <!ENTITY aboutPrivateBrowsing.info.history     "পূর্ববর্তী তথ্য">
-
+<!ENTITY aboutPrivateBrowsing.info.searches    "অনুসন্ধান">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "কুকি">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "অস্থায়ী ফাইল">
 
-
-
-
+<!ENTITY aboutPrivateBrowsing.kept             "&brandShortName; রাখা হবে:">
+<!ENTITY aboutPrivateBrowsing.info.kept        "সংরক্ষিত">
+<!ENTITY aboutPrivateBrowsing.info.downloads   "ডাউনলোডসমূহ">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Bookmarks">
 
 <!ENTITY aboutPrivateBrowsing.learnMore        "আরও জানুন।">

@@ -27,10 +27,11 @@
 
 <!ENTITY searchTextBox.clear.label "মুছে ফেলুন">
 
-
-
-
-
-
-
-
+<!ENTITY fillLoginMenu.label          "লগইন দিন (F)">
+<!ENTITY fillLoginMenu.accesskey      "F">
+<!ENTITY fillPasswordMenu.label       "পাসস্বরদ দিন (F)">
+<!ENTITY fillPasswordMenu.accesskey   "F">
+<!ENTITY fillUsernameMenu.label       "ব্যবহারকারীর নাম দিন (F)">
+<!ENTITY fillUsernameMenu.accesskey   "F">
+<!ENTITY noLoginSuggestions.label     "(প্রস্তাবিত লগইন অনুপস্থিত) ">
+<!ENTITY viewSavedLogins.label        "সংরক্ষিত লগইন প্রদর্শন">
