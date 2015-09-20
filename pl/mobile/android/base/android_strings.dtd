@@ -158,6 +158,9 @@ selected to be added to the home page. -->
 
 <!ENTITY pref_home_suggested_sites "Sugerowane witryny">
 <!ENTITY pref_home_suggested_sites_summary "Wyświetlanie na stronie domowej skrótów do interesujących witryn">
+<!ENTITY pref_category_home_homepage "Strona domowa">
+<!ENTITY home_homepage_title "Ustaw stronę domową">
+<!ENTITY home_homepage_use_current_tab "Użyj bieżącej karty">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Dostosuj">
