@@ -5,82 +5,82 @@
 <!-- extracted from am-server-top.xul -->
 
 <!ENTITY messageStorage.label "Message Storage">
-<!ENTITY securitySettings.label "Налаштування захисту">
-<!ENTITY serverSettings.label "Параметри сервера">
-<!ENTITY serverType.label "Тип сервера:">
-<!ENTITY serverName.label "Ім’я сервера:">
-<!ENTITY serverName.accesskey "с">
-<!ENTITY userName.label "Ім’я користувача:">
-<!ENTITY userName.accesskey "к">
-<!ENTITY port.label "Порт:">
-<!ENTITY port.accesskey "П">
-<!ENTITY serverPortDefault.label "За умовчанням:">
+<!ENTITY securitySettings.label "Security Settings">
+<!ENTITY serverSettings.label "Server Settings">
+<!ENTITY serverType.label "Server Type:">
+<!ENTITY serverName.label "Server Name:">
+<!ENTITY serverName.accesskey "S">
+<!ENTITY userName.label "User Name:">
+<!ENTITY userName.accesskey "N">
+<!ENTITY port.label "Port:">
+<!ENTITY port.accesskey "P">
+<!ENTITY serverPortDefault.label "Default:">
 <!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
         For example, in Japanese cases:
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
 -->
-<!ENTITY biffStart.label "Перевіряти наявність нових листів кожні ">
-<!ENTITY biffStart.accesskey "е">
-<!ENTITY biffEnd.label "хвилин">
-<!ENTITY connectionSecurity.label "Безпека з’єднання:">
-<!ENTITY connectionSecurity.accesskey "Б">
-<!ENTITY connectionSecurityType-0.label "Жодної">
-<!ENTITY connectionSecurityType-1.label "STARTTLS, якщо є">
+<!ENTITY biffStart.label "Check for new messages every ">
+<!ENTITY biffStart.accesskey "y">
+<!ENTITY biffEnd.label "minutes">
+<!ENTITY connectionSecurity.label "Connection security:">
+<!ENTITY connectionSecurity.accesskey "u">
+<!ENTITY connectionSecurityType-0.label "None">
+<!ENTITY connectionSecurityType-1.label "STARTTLS, if available">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!ENTITY authMethod.label "Метод автентифікації:">
-<!ENTITY authMethod.accesskey "в">
-<!ENTITY leaveOnServer.label "Залишати копії листів на сервері">
-<!ENTITY leaveOnServer.accesskey "ш">
-<!ENTITY headersOnly.label "Завантажувати тільки заголовки листів">
-<!ENTITY headersOnly.accesskey "ж">
-<!ENTITY deleteByAgeFromServer.label "Не більш">
-<!ENTITY deleteByAgeFromServer.accesskey "е">
-<!ENTITY daysEnd.label "днів">
-<!ENTITY deleteOnServer2.label "Доки я їх не зітру">
-<!ENTITY deleteOnServer2.accesskey "к">
-<!ENTITY downloadOnBiff.label "Автоматично завантажувати нові листи">
-<!ENTITY downloadOnBiff.accesskey "о">
-<!ENTITY username.label "Ваше реєстраційне ім’я">
-<!ENTITY deleteMessagePrefix.label "При вилученні листа:">
-<!ENTITY modelMoveToTrash.label "Перемістити його в теку «Кошик»">
-<!ENTITY modelMoveToTrash.accesskey "К">
-<!ENTITY modelMarkDeleted.label "Позначити його для вилучення">
-<!ENTITY modelMarkDeleted.accesskey "у">
-<!ENTITY modelDeleteImmediately.label "Вилучити його одразу">
-<!ENTITY modelDeleteImmediately.accesskey "о">
+<!ENTITY authMethod.label "Authentication method:">
+<!ENTITY authMethod.accesskey "i">
+<!ENTITY leaveOnServer.label "Leave messages on server">
+<!ENTITY leaveOnServer.accesskey "g">
+<!ENTITY headersOnly.label "Fetch headers only">
+<!ENTITY headersOnly.accesskey "e">
+<!ENTITY deleteByAgeFromServer.label "For at most">
+<!ENTITY deleteByAgeFromServer.accesskey "o">
+<!ENTITY daysEnd.label "days">
+<!ENTITY deleteOnServer2.label "Until I delete them">
+<!ENTITY deleteOnServer2.accesskey "d">
+<!ENTITY downloadOnBiff.label "Automatically download new messages">
+<!ENTITY downloadOnBiff.accesskey "m">
+<!ENTITY username.label "Your Login Name">
+<!ENTITY deleteMessagePrefix.label "When I delete a message:">
+<!ENTITY modelMoveToTrash.label "Move it to this folder:">
+<!ENTITY modelMoveToTrash.accesskey "o">
+<!ENTITY modelMarkDeleted.label "Just mark it as deleted">
+<!ENTITY modelMarkDeleted.accesskey "k">
+<!ENTITY modelDeleteImmediately.label "Remove it immediately">
+<!ENTITY modelDeleteImmediately.accesskey "d">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY expungeOnExit.label "Стискати теку «Вхідні» при виході">
-<!ENTITY expungeOnExit.accesskey "т">
-<!ENTITY emptyTrashOnExit.label "Очищувати «Кошик» при виході">
-<!ENTITY emptyTrashOnExit.accesskey "ч">
-<!ENTITY loginAtStartup.label "Перевіряти пошту при запуску">
-<!ENTITY loginAtStartup.accesskey "в">
+<!ENTITY expungeOnExit.label "Clean up (&quot;Expunge&quot;) Inbox on Exit">
+<!ENTITY expungeOnExit.accesskey "E">
+<!ENTITY emptyTrashOnExit.label "Empty Trash on Exit">
+<!ENTITY emptyTrashOnExit.accesskey "x">
+<!ENTITY loginAtStartup.label "Check for new messages at startup">
+<!ENTITY loginAtStartup.accesskey "C">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
    of messages between them
 -->
-<!ENTITY maxMessagesStart.label "Питати перед завантаженням більш ніж">
-<!ENTITY maxMessagesStart.accesskey "П">
+<!ENTITY maxMessagesStart.label "Ask me before downloading more than">
+<!ENTITY maxMessagesStart.accesskey "m">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
-<!ENTITY maxMessagesEnd.label "листів">
-<!ENTITY alwaysAuthenticate.label "Завжди проводити аутентифікацію при підключенні до цього сервера">
-<!ENTITY alwaysAuthenticate.accesskey "З">
-<!ENTITY newsrcFilePath.label "файл newsrc:">
-<!ENTITY newsrcPicker.label "Вибрати файл newsrc">
-<!ENTITY abbreviate.label "Показувати назви груп новин як:">
-<!ENTITY abbreviateOn.label "Повні (наприклад, «netscape.public.mozilla.mail-news»)">
-<!ENTITY abbreviateOff.label "Абревіатури (наприклад, «n.p.m.mail-news»)">
-<!ENTITY advancedButton.label "Додатково…">
-<!ENTITY advancedButton.accesskey "Д">
-<!ENTITY serverDefaultCharset2.label "Кодування за умовчанням:">
-<!ENTITY localPath.label "Локальна тека:">
-<!ENTITY localFolderPicker.label "Розташування локальних тек">
-<!ENTITY browseFolder.label "Огляд…">
-<!ENTITY browseFolder.accesskey "О">
-<!ENTITY browseNewsrc.label "Огляд…">
-<!ENTITY browseNewsrc.accesskey "О">
+<!ENTITY maxMessagesEnd.label "messages">
+<!ENTITY alwaysAuthenticate.label "Always request authentication when connecting to this server">
+<!ENTITY alwaysAuthenticate.accesskey "w">
+<!ENTITY newsrcFilePath.label "newsrc file:">
+<!ENTITY newsrcPicker.label "Select newsrc File">
+<!ENTITY abbreviate.label "Show newsgroup names in the Mail Folder pane as:">
+<!ENTITY abbreviateOn.label "Full names (For example, 'netscape.public.mozilla.mail-news')">
+<!ENTITY abbreviateOff.label "Abbreviate names (For example, 'n.p.m.mail-news')">
+<!ENTITY advancedButton.label "Advanced…">
+<!ENTITY advancedButton.accesskey "v">
+<!ENTITY serverDefaultCharset2.label "Default Text Encoding:">
+<!ENTITY localPath.label "Local directory:">
+<!ENTITY localFolderPicker.label "Select Local Directory">
+<!ENTITY browseFolder.label "Browse…">
+<!ENTITY browseFolder.accesskey "B">
+<!ENTITY browseNewsrc.label "Browse…">
+<!ENTITY browseNewsrc.accesskey "e">
 
 <!ENTITY accountTitle.label "Account Settings">
 <!ENTITY accountSettingsDesc.label "The following is a special account.  There are no identities associated with it.">
