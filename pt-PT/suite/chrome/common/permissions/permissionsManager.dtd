@@ -5,7 +5,7 @@
 <!ENTITY windowtitle.label              "Exceções">
 <!ENTITY treehead.sitename.label        "Site">
 <!ENTITY treehead.status.label          "Estado">
-<!ENTITY remove.label                   "Remover sítio">
+<!ENTITY remove.label                   "Remover site">
 <!ENTITY remove.accesskey               "R">
 <!ENTITY removeall.label                "Remover todos os sítios">
 <!ENTITY removeall.accesskey            "e">

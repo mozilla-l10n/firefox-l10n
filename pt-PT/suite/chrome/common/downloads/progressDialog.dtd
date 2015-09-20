@@ -6,7 +6,7 @@
 <!ENTITY closeWindow.key                 "f">
 <!ENTITY cmd.pause.tooltip               "Pausa">
 <!ENTITY cmd.resume.tooltip              "Retomar">
-<!ENTITY cmd.retry.tooltip               "Tentar novamente">
+<!ENTITY cmd.retry.tooltip               "Voltar a tentar">
 <!ENTITY cmd.cancel.tooltip              "Cancelar">
 <!ENTITY cmd.open.label                  "Abrir">
 <!ENTITY cmd.open.accesskey              "A">

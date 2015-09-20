@@ -39,7 +39,7 @@
 <!ENTITY     allowSite.accesskey            "P">
 <!ENTITY     allowSiteSession.label         "Sessão">
 <!ENTITY     allowSiteSession.accesskey     "S">
-<!ENTITY     removepermission.label         "Remover sítio">
+<!ENTITY     removepermission.label         "Remover site">
 <!ENTITY     removepermission.accesskey     "R">
 <!ENTITY     removeallpermissions.label     "Remover todos os sítios">
 <!ENTITY     removeallpermissions.accesskey "e">
