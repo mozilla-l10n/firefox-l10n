@@ -10,7 +10,7 @@
 <!ENTITY  onboard_start_subtext3 "Tegye a mobil webböngészési élményét igazán egyedivé.">
 <!ENTITY  onboard_start_button_account "Bejelentkezés &brandShortName;ba">
 <!ENTITY  onboard_start_button_browser "Böngészés megkezdése">
-
+<!ENTITY  onboard_start_restricted1 "Maradjon biztonságban, tartsa magánál az irányítást a &brandShortName; ezen egyszerű változatával.">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -69,8 +69,8 @@
 <!ENTITY edit_mode_cancel "Mégse">
 
 <!ENTITY close_tab "Lap bezárása">
-
-
+<!ENTITY tab_audio_playing "Ez a lap hangot játszik le">
+<!ENTITY tab_audio_muted "Ez a lap el lett némítva">
 <!ENTITY one_tab "1 lap">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -158,9 +158,9 @@
 <!ENTITY pref_search_hint "TIPP: bármely weboldalt hozzáadhatja a keresőkhöz a keresőmezőjének hosszú megérintésével, majd a &formatI; ikonra koppintással.">
 <!ENTITY pref_category_devtools "Fejlesztői eszközök">
 <!ENTITY pref_developer_remotedebugging "Távoli hibakeresés">
-
-
-
+<!ENTITY pref_developer_remotedebugging_usb "Távoli hibakeresés USB-n">
+<!ENTITY pref_developer_remotedebugging_wifi "Távoli hibakeresés Wi-Fi-n">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "A Wi-Fi hibakereséshez egy, a készülékére telepített QR kódolvasó app szükséges.">
 <!ENTITY pref_category_logins "Bejelentkezések">
 <!ENTITY pref_remember_signons2 "Bejelentkezések megjegyzése">
 <!ENTITY pref_open_external_urls_privately_title "Hivatkozások megnyitása privát böngészésben">
@@ -197,10 +197,12 @@
 <!ENTITY pref_cookies_not_accept_foreign "Engedélyezve, kivéve harmadik féltől származó">
 <!ENTITY pref_cookies_disabled "Tiltva">
 
-
+<!ENTITY pref_tracking_protection_title "Védelem követés ellen">
+<!ENTITY pref_tracking_protection_summary3 "Engedélyezve privát böngészésben">
 <!ENTITY pref_donottrack_title "Ne kövessenek">
 <!ENTITY pref_donottrack_summary "A &brandShortName; közli a webhelyekkel, hogy Ön nem szeretné, ha követnék">
 
+<!ENTITY tracking_protection_prompt_title "Most követés elleni védelemmel">
 
 
 
