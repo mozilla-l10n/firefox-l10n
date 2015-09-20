@@ -193,6 +193,7 @@ the two uses differently. -->
 
 <!ENTITY fxaccount_status_header2 "Konto Firefoksa">
 <!ENTITY fxaccount_status_signed_in_as 'Zalogowano jako'>
+<!ENTITY fxaccount_status_manage_account 'Zarządzaj kontem'>
 <!ENTITY fxaccount_status_auth_server 'Serwer konta'>
 <!ENTITY fxaccount_status_sync_now "Synchronizuj">
 <!ENTITY fxaccount_status_syncing2 "Synchronizowanie…">
