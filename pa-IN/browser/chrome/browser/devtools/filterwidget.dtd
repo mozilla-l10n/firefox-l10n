@@ -8,7 +8,7 @@
 
 <!-- LOCALIZATION NOTE (filterListSelectPlaceholder): This string is used as
    - a preview option in the list of possible filters <select> -->
-<!ENTITY filterListSelectPlaceholder "Select a Filter">
+<!ENTITY filterListSelectPlaceholder "ਫਿਲਟਰ ਚੁਣੋ">
 
 <!-- LOCALIZATION NOTE (addNewFilterButton): This string is displayed on a button used to add new filters -->
-<!ENTITY addNewFilterButton "Add">
+<!ENTITY addNewFilterButton "ਜੋੜੋ">

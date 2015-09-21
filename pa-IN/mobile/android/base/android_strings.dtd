@@ -6,7 +6,7 @@
 <!ENTITY  error_loading_file "&brandShortName; ਨੂੰ ਚਲਾਉਣ ਲਈ ਲੋੜੀਦੀਆਂ ਫਾਈਲਾਂ ਲੋਡ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਦੇ ਦੌਰਾਨ ਗਲਤੀ ਆਈ ਹੈ।">
 
 <!ENTITY  onboard_start_message3 "&brandShortName; ਨਾਲ ਬਰਾਊਜ਼ ਕਰੋ">
-<!ENTITY  onboard_start_subtext3 "ਆਪਣੇ ਮੋਬਾਇਲ ਵੈਬ ਬਰਾਊਜ਼ਿੰਗ ਤਜਰਬੇ ਨੂੰ ਬਿਲਕੁਲ ਆਪਣਾ ਬਣਾਉ।">
+<!ENTITY  onboard_start_subtext3 "Make your mobile Web browsing experience truly your own.">
 <!ENTITY  onboard_start_button_account "&brandShortName; ਵਿੱਚ ਸਾਇਨ ਇਨ ਕਰੋ">
 <!ENTITY  onboard_start_button_browser "ਬਰਾਊਜ਼ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰੋ">
 
@@ -42,10 +42,6 @@
 <!ENTITY bookmark "ਬੁੱਕਮਾਰਕ">
 <!ENTITY bookmark_remove "ਬੁੱਕਮਾਰਕ ਹਟਾਓ">
 <!ENTITY bookmark_added "ਬੁੱਕਮਾਰਕ ਜੋੜਿਆ">
-<!-- Localization note (bookmark_already_added) : This string is
-     used as a label in a toast. It is the verb "to bookmark", not
-     the noun "a bookmark". -->
-<!ENTITY bookmark_already_added "ਪਹਿਲਾਂ ਹੀ ਬੁੱਕਮਾਰਕ ਕੀਤਾ">
 <!ENTITY bookmark_removed "ਬੁੱਕਮਾਰਕ ਹਟਾਇਆ">
 <!ENTITY bookmark_updated "ਬੁੱਕਮਾਰਕ ਅੱਪਡੇਟ ਕੀਤਾ">
 <!ENTITY bookmark_options "ਚੋਣਾਂ">
@@ -80,11 +76,10 @@
 
 <!ENTITY settings "ਸੈਟਿੰਗ">
 <!ENTITY settings_title "ਸੈਟਿੰਗ">
-<!ENTITY pref_category_input_options "ਇਨਪੁਟ ਚੋਣਾਂ">
 <!ENTITY pref_category_advanced "ਤਕਨੀਕੀ">
 <!ENTITY pref_category_customize "ਪਸੰਦ">
 <!ENTITY pref_category_customize_summary "ਘਰ, ਖੋਜ, ਟੈਬਾਂ, ਦਰਾਮਦ">
-<!ENTITY pref_category_customize_alt_summary "Home, search, tabs, open later, import">
+<!ENTITY pref_category_customize_alt_summary "ਘਰ, ਖੋਜ, ਟੈਬਾਂ, ਬਾਅਦ 'ਚ ਖੋਲ੍ਹੋ,ਦਰਾਮਦ">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -122,14 +117,14 @@
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
-<!ENTITY overlay_no_synced_devices "ਕਨੈਕਟ ਯੰਤਰ ਉੱਤੇ ਕੋਈ ਫਾਇਰਫਾਕਸ ਅਕਾਊਂਟ ਨਹੀਂ ਲੱਭਿਆ">
+<!ENTITY overlay_no_synced_devices "ਕੋਈ ਵੀ ਫਾਇਰਫਾਕਸ ਖਾਤੇ ਨਾਲ ਕਨੈਕਟ ਡਿਵਾਇਸ ਨਹੀਂ ਲੱਭਿਆ">
 <!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
      to send a tab to a synced device is pressed and there is an error
      connecting to the server so the tab could not be sent. The text should be
      divided into two lines (use the newline escape character, "\n", between
      them): the first notifying the user about the failure and the second
      telling the user what to do about it. -->
-<!ENTITY overlay_share_tab_not_sent "ਤੁਹਾਡੀ ਟੈਬ ਹੁਣ ਭੇਜੀ ਨਹੀਂ ਜਾ ਸਕੀ।\nਬਾਅਦ ਵਿੱਚ ਕੋਸ਼ਿਸ਼ ਕਰੋ।">
+<!ENTITY overlay_share_tab_not_sent "ਤੁਹਾਡੀ ਟੈਬ ਨੂੰ ਭੇਜਿਆ ਨਹੀਂ ਜਾ ਸਕਿਆ।\nਬਾਅਦ 'ਚ ਕੋਸ਼ਿਸ਼ ਕਰੋ।">
 
 <!ENTITY pref_category_search3 "ਖੋਜ">
 <!ENTITY pref_category_search_summary "ਤੁਹਾਡੇ ਖੋਜ ਉਪਲੱਬਧ ਕਰਵਾਉਣ ਵਾਲਿਆਂ ਦੀ ਪਸੰਦ">
@@ -151,11 +146,9 @@
 <!ENTITY pref_search_hint "ਟੋਟਕਾ: ਕਿਸੇ ਵੀ ਵੈੱਬਸਾਈਟ ਨੂੰ ਖੋਜ ਉਪਲੱਬਧ ਕਰਵਾਉਣ ਵਾਲਿਆਂ ਦੀ ਆਪਣੀ ਸੂਚੀ ਵਿੱਚ ਇਸ ਦੇ ਖੋਜ ਖੇਤਰ ਨੂੰ ਲੰਮਾ ਸਮਾਂ ਦਬਾ ਕੇ ਰੱਖ ਕੇ ਅਤੇ ਫੇਰ &formatI; ਆਈਕਾਨ ਛੂਹ ਕੇ ਜੋੜੋ">
 <!ENTITY pref_category_devtools "ਡਿਵੈਲਪਰ ਟੂਲ">
 <!ENTITY pref_developer_remotedebugging "ਰਿਮੋਟ ਡੀਬੱਗ ਕਰਨਾ">
-<!ENTITY pref_category_logins "ਲਾਗਇਨ">
-<!ENTITY pref_remember_signons2 "ਲਾਗਇਨ ਯਾਦ ਰੱਕੋ">
-<!ENTITY pref_open_external_urls_privately_title "ਲਿੰਕ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਵਿੱਚ ਖੋਲ੍ਹੋ">
-<!ENTITY pref_open_external_urls_privately_summary "For all external links opened in &brandShortName;">
-<!ENTITY pref_manage_logins "ਲਾਗਇਨ ਪਰਬੰਧ">
+<!ENTITY pref_category_logins "Logins">
+<!ENTITY pref_remember_signons "ਪਾਸਵਰਡ ਯਾਦ ਰੱਖੋ">
+<!ENTITY pref_manage_logins "Manage logins">
 
 <!ENTITY pref_category_home "ਮੁੱਖ-ਸਫ਼ਾ">
 <!ENTITY pref_category_home_summary "ਆਪਣਾ ਮੁੱਖ-ਸਫ਼ਾ ਪਸੰਦੀਦਾ ਬਣਾਓ">
@@ -182,8 +175,7 @@
 <!ENTITY pref_category_display "ਵਿਖਾਉਣਾ">
 <!ENTITY pref_category_display_summary "ਪਾਠ, ਟਾਈਟਲ ਪੱਟੀ, ਪੂਰੀ ਸਕਰੀਨ ਉੱਤੇ ਬਰਾਊਜ਼ ਕਰਨਾ">
 <!ENTITY pref_category_privacy_short "ਪਰਦੇਦਾਰੀ">
-<!ENTITY pref_category_privacy_summary2 "ਲਾਗਇਨ, ਕੂਕੀਜ਼, ਟਰੈਕ ਕਰਨ, ਡਾਟੇ ਨੂੰ 
-ਕੰਟਰੋਲ ਕਰੋ">
+<!ENTITY pref_category_privacy_summary "ਪਾਸਵਰਡ, ਕੂਕੀਜ਼, ਟਰੈਕ ਕਰਨ, ਡਾਟੇ ਨੂੰ ਕੰਟਰੋਲ ਕਰੋ">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "&brandShortName;, ਸਵਾਲ-ਜਵਾਬ, ਡਾਟਾ ਚੋਣਾਂ ਬਾਰੇ ਜਾਣੋ">
 <!ENTITY pref_category_datareporting "ਡਾਟਾ ਚੋਣਾਂ">
@@ -201,6 +193,8 @@
 <!ENTITY pref_search_hint "ਗੁਰ: ਕਿਸੇ ਵੀ ਵੈੱਬਸਾਈਟ ਨੂੰ ਆਪਣੇ ਖੋਜ ਉਪਲੱਬਧ ਕਰਵਾਉਣ ਵਾਲੀਆਂ ਦੀ ਸੂਚੀ ਵਿੱਚ ਇਸ ਦੇ ਖੋਜ ਖੇਤਰ ਵਿੱਚ ਲੰਮਾ ਸਮਾਂ ਦਬਾਈ ਰੱਖਣ ਦੇ ਬਾਅਦ &formatI; ਆਈਕਾਨ ਨੂੰ ਕਲਿੱਕ ਕਰਕੇ ਜੋੜੋ">
 <!ENTITY pref_category_devtools "ਡਿਵੈਲਪਰ ਟੂਲ">
 <!ENTITY pref_developer_remotedebugging "ਰਿਮੋਟ ਡੀਬੱਗ ਕਰਨਾ">
+
+<!ENTITY pref_remember_signons "ਪਾਸਵਰਡ ਯਾਦ ਰੱਖੋ">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "ਪਸੰਦ">
@@ -223,12 +217,12 @@
 <!ENTITY pref_donottrack_title "ਟਰੈਕ ਨਾ ਕਰੋ">
 <!ENTITY pref_donottrack_summary "&brandShortName; ਸਾਈਟਾਂ ਨੂੰ ਦੱਸੇਗਾ ਕਿ ਤੁਸੀਂ ਟਰੈਕ ਨਹੀਂ ਕੀਤੇ ਜਾਣਾ ਚਾਹੁੰਦੇ ਹੋ">
 
-<!ENTITY tab_queue_toast_message3 "Tab saved in &brandShortName;">
+<!ENTITY tab_queue_toast_message2 "ਟੈਬ &brandShortName; ਵਿੱਚ ਕਤਾਰਬੱਧ ਕੀਤੀ">
 <!ENTITY tab_queue_toast_action "ਹੁਣ ਖੋਲ੍ਹੋ">
 <!ENTITY tab_queue_prompt_title "ਕੀ ਕਈ ਲਿੰਕ ਖੋਲ੍ਹਣੇ ਹਨ?">
-<!ENTITY tab_queue_prompt_text3 "ਉਹਨਾਂ ਨੂੰ ਤੁਹਾਡੇ ਵਲੋਂ ਅਗਲੀ ਵਾਰ &brandShortName; ਖੋਲ੍ਹਣ ਤੱਕ ਸੰਭਾਲੋ">
-<!ENTITY tab_queue_prompt_tip_text "ਤੁਸੀਂ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਇਸ ਨੂੰ ਬਾਅਦ ਵਿੱਚ ਬਦਲ ਸਕਦੇ ਹੋ">
-<!ENTITY tab_queue_prompt_positive_action_button "ਸਮਰੱਥ ਕਰੋ">
+<!ENTITY tab_queue_prompt_text2 "ਉਹਨਾਂ ਨੂੰ ਬਾਅਦ ਵਿੱਚ &brandShortName; ਉੱਤੇ ਜਾਣ ਸਮੇਂ ਖੋਲ੍ਹੋ।">
+<!ENTITY tab_queue_prompt_tip_text "ਤੁਸੀਂ ਇਸ ਨੂੰ ਬਾਅਦ ਵਿੱਚ ਸੈਟਿੰਗ ਰਾਹੀਂ ਬਦਲ ਸਕਦੇ ਹੋ">
+<!ENTITY tab_queue_prompt_positive_action_button "ਚਾਲੂ ਕਰੋ">
 <!ENTITY tab_queue_prompt_negative_action_button "ਹੁਣ ਨਹੀਂ">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
@@ -278,15 +272,11 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled_summary "ਕੰਟਰੋਲ ਕਰੋ ਕਿ ਜੇ ਵੈੱਬਸਾਈਟਾਂ ਆਪਣੇ-ਆਪ ਵੀਡੀਓ ਤੇ ਹੋਰ ਮੀਡੀਆ ਸਮੱਗਰੀ ਨੂੰ ਚਲਾ ਸਕਦੀਆਂ ਹਨ">
 
 <!ENTITY pref_zoom_force_enabled "ਹਮੇਸ਼ਾ ਜ਼ੂਮ ਸਮਰੱਥ ਕਰੋ">
-<!ENTITY pref_zoom_force_enabled_summary "Force override so you can zoom any page">
-<!ENTITY pref_voice_input "ਆਵਾਜ਼ ਇਨਪੁਟ">
-<!ENTITY pref_voice_input_summary "Allow voice dictation in the title bar">
-<!ENTITY pref_qrcode_enabled "QR ਕੋਡ ਰੀਡਰ">
-<!ENTITY pref_qrcode_enabled_summary "Allow QR scanner in the title bar">
+<!ENTITY pref_zoom_force_enabled_summary "ਅਣਡਿੱਠਾ ਕਰਨ ਲਈ ਮਜ਼ਬੂਰ ਕਰੋ ਤਾਂ ਤੁਸੀਂ ਕਿਸੇ ਵੀ ਸਫ਼ੇ ਨੂੰ ਜ਼ੂਮ ਕਰ ਸਕੋ">
 
 <!ENTITY pref_use_master_password "ਮਾਸਟਰ ਪਾਸਵਰਡ ਵਰਤੋਂ">
 <!ENTITY pref_sync "ਸਿੰਕ">
-<!ENTITY pref_sync_summary2 "ਆਪਣੀਆਂ ਟੈਬਾਂ, ਬੁੱਕਮਾਰਕ, ਲਾਗਇਨ, ਅਤੀਤ ਸਿੰਕ ਕਰੋ">
+<!ENTITY pref_sync_summary "ਆਪਣੀਆਂ ਟੈਬਾਂ, ਬੁੱਕਮਾਰਕ, ਪਾਸਵਰਡ, ਅਤੀਤ ਸਿੰਕ ਕਰੋ">
 <!ENTITY pref_search_suggestions "ਖੋਜ ਸੁਝਾਅ ਵੇਖਾਓ">
 <!ENTITY pref_import_android "ਐਂਡਰਾਇਡ ਤੋਂ ਦਰਾਮਦ ਕਰੋ">
 <!ENTITY pref_import_android_summary "ਮੂਲ ਬਰਾਊਜ਼ਰ ਤੋਂ ਬੁੱਕਮਾਰਕ ਤੇ ਅਤੀਤ ਦਰਾਮਦ ਕਰੋ">
@@ -294,13 +284,11 @@ size. -->
 <!ENTITY pref_private_data_searchHistory "ਖੋਜ ਅਤੀਤ">
 <!ENTITY pref_private_data_formdata2 "ਫਾਰਮ ਅਤੀਤ">
 <!ENTITY pref_private_data_cookies2 "ਕੂਕੀਜ਼ ਤੇ ਸਰਗਰਮ ਲਾਗਇਨ">
-<!ENTITY pref_private_data_passwords2 "ਸੰਭਾਲੇ ਲਾਗਇਨ">
+<!ENTITY pref_private_data_passwords "ਸੰਭਾਲੇ ਪਾਸਵਰਡ">
 <!ENTITY pref_private_data_cache "ਕੈਸ਼">
 <!ENTITY pref_private_data_offlineApps "ਆਫਲਾਈਨ ਵੈੱਬਸਾਈਟ ਡਾਟਾ">
 <!ENTITY pref_private_data_siteSettings2 "ਸਾਈਟ ਸੈਟਿੰਗ">
 <!ENTITY pref_private_data_downloadFiles2 "ਡਾਊਨਲੋਡ">
-<!ENTITY pref_private_data_syncedTabs "Synced tabs">
-
 
 <!ENTITY pref_about_firefox "&brandShortName; ਬਾਰੇ">
 <!ENTITY pref_vendor_faqs "ਸਵਾਲ-ਜਵਾਬ">
@@ -416,17 +404,12 @@ size. -->
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
-<!ENTITY doorhanger_login_no_username "[ਕੋਈ ਵਰਤੋਂਕਾਰ ਨਾਂ ਨਹੀਂ]">
+<!ENTITY doorhanger_login_no_username "[ਕੋਈ ਵਰਤੋਂਕਾਰ-ਨਾਂ ਨਹੀਂ]">
 <!ENTITY doorhanger_login_edit_title "ਲਾਗਇਨ ਸੋਧੋ">
-<!ENTITY doorhanger_login_edit_username_hint "ਵਰਤੋਂਕਾਰ ਨਾਂ">
+<!ENTITY doorhanger_login_edit_username_hint "ਵਰਤੋਂਕਾਰ-ਨਾਂ">
 <!ENTITY doorhanger_login_edit_password_hint "ਪਾਸਵਰਡ">
-<!ENTITY doorhanger_login_edit_toggle "ਪਾਸਵਰਡ ਵੇਖੋ">
+<!ENTITY doorhanger_login_edit_toggle "ਪਾਸਵਰਡ ਸੰਭਾਲੋ">
 <!ENTITY doorhanger_login_edit_toast_error "ਲਾਗਇਨ ਸੰਭਾਲਣ ਲਈ ਫੇਲ੍ਹ ਹੈ">
-<!ENTITY doorhanger_login_select_message "&formatS; ਤੋਂ ਪਾਸਵਰਡ ਕਾਪੀ ਕਰਨਾ ਹੈ?">
-<!ENTITY doorhanger_login_select_toast_copy "ਪਾਸਵਰਡ ਕਲਿੱਪਬੋਰਡ ਵਿੱਚ ਕਾਪੀ ਕੀਤਾ">
-<!ENTITY doorhanger_login_select_toast_copy_error "ਪਾਸਵਰਡ ਕਾਪੀ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ">
-<!ENTITY doorhanger_login_select_action_text "ਹੋਰ ਲਾਗਇਨ ਚੁਣੋ">
-<!ENTITY doorhanger_login_select_title "ਇਸ ਤੋਂ ਪਾਸਵਰਡ ਕਾਪੀ ਕਰੋ">
 
 
 <!ENTITY pref_titlebar_mode "ਟਾਈਟਲ ਪੱਟੀ">
@@ -439,7 +422,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "ਸਫ਼ੇ ਨੂੰ ਹੇਠਾਂ ਸਕਰਾਉਣ ਦੇ ਦੌਰਾਨ &brandShortName; ਟਾਈਟਲ ਪੱਟੀ ਓਹਲੇ ਕਰੋ">
   
 <!ENTITY pref_tab_queue_title2 "ਕਈ ਲਿੰਕ ਖੋਲ੍ਹੋ">
-<!ENTITY pref_tab_queue_summary3 "ਅਗਲੀ ਵਾਰ ਤੁਹਾਡੇ ਵਲੋਂ &brandShortName; ਨੂੰ ਖੋਲ੍ਹਣ ਤੱਕ ਸੰਭਾਲੋ">
+<!ENTITY pref_tab_queue_summary2 "ਹਰ ਵਾਰ &brandShortName; ਖੋਲ੍ਹਣ ਦੀ ਬਜਾਏ ਲਿੰਕ ਨੂੰ ਬਾਅਦ ਵਿੱਚ ਖੋਲ੍ਹਣ ਲਈ ਕਤਾਰਬੱਧ ਕਰੋ">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -459,10 +442,7 @@ size. -->
 <!ENTITY site_settings_no_settings  "ਸਾਫ਼ ਕਰਨ ਲਈ ਕੋਈ ਸੈਟਿੰਗ ਨਹੀਂ ਹੈ।">
 
 
-<!-- Localization note (reading_list_added2) : Used in a toast, please keep as 
-short
-     as possible. -->
-<!ENTITY reading_list_added2 "ਸੂਚੀ ਵਿੱਚ ਜੋੜਿਆ">
+<!ENTITY reading_list_added "ਸਫ਼ੇ ਨੂੰ ਤੁਹਾਡੀ ਪੜ੍ਹਨ ਸੂਚੀ ਵਿੱਚ ਜੋੜਿਆ ਗਿਆ">
 <!ENTITY reading_list_removed "ਤੁਹਾਡੀ ਪੜ੍ਹਨ ਸੂਚੀ ਤੋਂ ਸਫ਼ੇ ਨੂੰ ਹਟਾਇਆ">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -491,7 +471,6 @@ short
 <!ENTITY button_clear_data "ਡਾਟਾ ਸਾਫ਼ ਕਰੋ">
 <!ENTITY button_set "ਸੈੱਟ">
 <!ENTITY button_clear "ਸਾਫ਼">
-<!ENTITY button_copy "Copy">
 
 <!ENTITY firstrun_panel_title_welcome "ਜੀ ਆਇਆਂ ਨੂੰ">
 
@@ -556,6 +535,9 @@ short
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "ਚੁਣੇ ਯੰਤਰ ਵੇਖਾਓ">
 
+<!ENTITY private_browsing_title "ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ">
+<!ENTITY private_tabs_panel_empty_desc "ਤੁਹਾਡੀਆਂ ਪ੍ਰਾਈਵੇਟ ਟੈਬਾਂ ਨੂੰ ਇੱਥੇ ਵਿਖਾਇਆ ਜਾਵੇਗਾ। ਜਦੋਂ ਕੀ ਅਸੀਂ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਕਰਨ ਅਤੀਤ ਜਾਂ ਕੂਕੀਜ਼ ਵਿੱਚੋਂ ਕਿਸੇ ਨੂੰ ਵੀ ਨਹੀਂ ਰੱਖਦੇ ਹਾਂ, ਤੁਹਾਡੇ ਕੀਤੇ ਬੁੱਕਮਾਰਕ ਤੇ ਡਾਊਨਲੋਡ ਕੀਤੀਆਂ ਫਾਈਲਾਂ ਨੂੰ ਤੁਹਾਡੇ ਯੰਤਰ ਉੱਤੇ ਸੰਭਾਲਿਆ ਜਾਵੇਗਾ।">
+<!ENTITY private_tabs_panel_learn_more "ਹੋਰ ਜਾਣਨਾ ਚਾਹੁੰਦੇ ਹੋ?">
 <!ENTITY remote_tabs_panel_moved_title "ਮੇਰੀਆਂ ਟੈਬਾਂ ਕਿੱਥੇ ਗਈਆਂ?">
 <!ENTITY remote_tabs_panel_moved_desc "ਅਸੀਂ ਹੋਰ ਯੰਤਰਾਂ ਤੋਂ ਤੁਹਾਡੀਆਂ ਟੈਬਾਂ ਨੂੰ ਤੁਹਾਡੇ ਮੁੱਖ ਸਫ਼ੇ ਉੱਤੇ ਪੈਨਲ ਵਿੱਚ ਤਬਦੀਲ ਕਰ ਦਿੱਤਾ ਹੈ ਤਾਂ ਕਿ ਤੁਹਾਡੇ ਵਲੋਂ ਨਵੀਂ ਟੈਬ ਖੋਲ੍ਹਣ ਉੱਤੇ ਸੌਖੀ ਤਰ੍ਹਾਂ ਵਰਤਿਆ ਜਾ ਸਕੇ।">
 <!ENTITY remote_tabs_panel_moved_link "ਮੈਨੂੰ ਨਵੇਂ ਪੈਨਲ ਉੱਤੇ ਲੈ ਜਾਉ।">
@@ -584,9 +566,6 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "ਜੋ ਕਿ ਚਲਾਈ ਜਾਂਦੀ ਹੈ">
-<!ENTITY identity_no_info "ਇਹ ਵੈਬਸਾਈਟ ਪਛਾਣ ਜਾਣਕਾਰੀ ਨਹੀਂ ਦਿੰਦੀ ਹੈ।">
-<!ENTITY identity_not_encrypted "ਇਸ ਵੈਬਸਾਈਟ ਨਾਲ ਤੁਹਾਡਾ ਕਨੈਕਸ਼ਨ ਇੰਕ੍ਰਿਪਟ ਨਹੀਂ ਕੀਤਾ ਹੈ।">
-<!ENTITY identity_encrypted "ਇੰਕ੍ਰਿਪਟ ਕੀਤਾ ਹੈ">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY loaded_mixed_content_message "ਇਹ ਸਫ਼ਾ ਸਮੱਗਰੀ ਵੇਖਾਉਂਦਾ ਹੈ, ਜੋ ਕਿ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਹੈ।">
@@ -650,10 +629,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "ਜਾਰੀ ਰੱਖੋ">
 <!ENTITY guest_session_dialog_cancel "ਰੱਦ ਕਰੋ">
 <!ENTITY new_guest_session_title "&brandShortName; ਨੂੰ ਮੁੜ-ਚਾਲੂ ਕੀਤਾ ਜਾਵੇਗਾ">
-<!ENTITY new_guest_session_text2 "ਇਸ ਦੀ ਵਰਤੋਂ ਕਰਨ ਵਾਲਾ ਵਿਅਕਤੀ ਤੁਹਾਡੇ ਨਿੱਜੀ 
-ਬਰਾਊਜ਼ਿੰਗ ਡਾਟੇ (ਜਿਵੇਂ ਕਿ ਸੰਭਾਲੇ ਪਾਸਵਰਡ, ਅਤੀਤ ਜਾਂ ਬੁੱਕਮਾਰਕ) ਨੂੰ ਵੇਖ ਨਹੀਂ 
-ਸਕੇਗਾ\n\nਜਦੋਂ ਤੁਹਾਡੇ ਮਹਿਮਾਨ ਨੇ ਕੰਮ ਖਤਮ ਕਰ ਲਿਆ ਤਾਂ ਉਹਨਾਂ ਦੇ ਬਰਾਊਜ਼ਿੰਗ ਡਾਟੇ ਨੂੰ 
-ਹਟਾਇਆ ਜਾਵੇਗਾ ਅਤੇ ਤੁਹਾਡਾ ਸ਼ੈਸ਼ਨ ਮੁੜ-ਸਟੋਰ ਕੀਤਾ ਜਾਵੇਗਾ।">
+<!ENTITY new_guest_session_text "ਇਸ ਦੀ ਵਰਤੋਂ ਕਰਨ ਵਾਲਾ ਵਿਅਕਤੀ ਤੁਹਾਡੇ ਨਿੱਜੀ ਬਰਾਊਜ਼ਿੰਗ ਡਾਟੇ (ਜਿਵੇਂ ਕਿ ਸੰਭਾਲੇ ਪਾਸਵਰਡ, ਅਤੀਤ ਜਾਂ ਬੁੱਕਮਾਰਕ) ਨੂੰ ਵੇਖ ਨਹੀਂ ਸਕੇਗਾ।\n\nਜਦੋਂ ਤੁਹਾਡੇ ਮਹਿਮਾਨ ਨੇ ਕੰਮ ਖਤਮ ਕਰ ਲਿਆ ਤਾਂ ਉਹਨਾਂ ਦੇ ਬਰਾਊਜ਼ਿੰਗ ਡਾਟੇ ਨੂੰ ਹਟਾਇਆ ਜਾਵੇਗਾ ਅਤੇ ਤੁਹਾਡਾ ਸ਼ੈਸ਼ਨ ਮੁੜ-ਸਟੋਰ ਕੀਤਾ ਜਾਵੇਗਾ।">
 <!ENTITY guest_browsing_notification_title "ਮਹਿਮਾਨ ਬਰਾਊਜ਼ਰ ਕਰਨਾ ਸਮਰੱਥ ਹੈ">
 <!ENTITY guest_browsing_notification_text "ਬਾਹਰ ਜਾਣ ਲਈ ਛੂਹੋ">
 
@@ -700,6 +676,3 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
 <!ENTITY find_matchcase "Aa">
-
-
-<!ENTITY intent_uri_cannot_open "ਲਿੰਕ ਖੋਲ੍ਹਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ">

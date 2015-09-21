@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle "Firefox WebIDE">
+<!ENTITY windowTitle "ਫਾਇਰਫਾਕਸ WebIDE">
 
-<!ENTITY projectMenu_label "Project">
+<!ENTITY projectMenu_label "ਪ੍ਰੋਜੈਕਟ">
 <!ENTITY projectMenu_accesskey "P">
 <!ENTITY projectMenu_newApp_label "New App…">
 <!ENTITY projectMenu_newApp_accesskey "N">
@@ -22,12 +22,12 @@
 <!ENTITY projectMenu_debug_accesskey "D">
 <!ENTITY projectMenu_remove_label "Remove Project">
 <!ENTITY projectMenu_remove_accesskey "R">
-<!ENTITY projectMenu_showPrefs_label "Preferences">
+<!ENTITY projectMenu_showPrefs_label "ਮੇਰੀ ਪਸੰਦ">
 <!ENTITY projectMenu_showPrefs_accesskey "e">
 <!ENTITY projectMenu_manageComponents_label "Manage Extra Components">
 <!ENTITY projectMenu_manageComponents_accesskey "M">
 
-<!ENTITY runtimeMenu_label "Runtime">
+<!ENTITY runtimeMenu_label "ਰਨਟਾਈਮ">
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "Disconnect">
 <!ENTITY runtimeMenu_disconnect_accesskey "D">
@@ -44,7 +44,7 @@
 <!ENTITY runtimeMenu_showSettings_label "Device Settings">
 <!ENTITY runtimeMenu_showSettings_accesskey "s">
 
-<!ENTITY viewMenu_label "View">
+<!ENTITY viewMenu_label "ਵੇਖੋ">
 <!ENTITY viewMenu_accesskey "V">
 <!ENTITY viewMenu_toggleEditor_label "Toggle Editor">
 <!ENTITY viewMenu_toggleEditor_accesskey "E">
@@ -55,7 +55,7 @@
 <!ENTITY viewMenu_resetzoom_label "Reset Zoom">
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
-<!ENTITY projectButton_label "Open App">
+<!ENTITY projectButton_label "ਐਪ ਖੋਲ੍ਹੋ">
 <!ENTITY runtimeButton_label "Select Runtime">
 
 <!-- We try to repicate Firefox' bindings: -->
@@ -97,7 +97,7 @@
 <!ENTITY details_showPrepackageLog_button "Show Pre-package Log">
 
 <!-- New App -->
-<!ENTITY newAppWindowTitle "New App">
+<!ENTITY newAppWindowTitle "ਨਵੀਂ ਐਪ">
 <!ENTITY newAppHeader "Select template">
 <!ENTITY newAppLoadingTemplate "Loading templates…">
 <!ENTITY newAppProjectName "Project Name:">
@@ -105,16 +105,16 @@
 
 <!-- Decks -->
 
-<!ENTITY deck_close "Close">
+<!ENTITY deck_close "ਬੰਦ ਕਰੋ">
 
 <!-- Addons -->
 <!ENTITY addons_title "Extra Components">
 <!ENTITY addons_aboutaddons "Open Add-ons Manager">
 
 <!-- Prefs -->
-<!ENTITY prefs_title "Preferences">
-<!ENTITY prefs_editor_title "Editor">
-<!ENTITY prefs_general_title "General">
+<!ENTITY prefs_title "ਮੇਰੀ ਪਸੰਦ">
+<!ENTITY prefs_editor_title "ਐਡੀਟਰ">
+<!ENTITY prefs_general_title "ਆਮ">
 <!ENTITY prefs_restore "Restore Defaults">
 <!ENTITY prefs_manage_components "Manage Extra Components">
 <!ENTITY prefs_options_autoconnectruntime "Reconnect to previous runtime">

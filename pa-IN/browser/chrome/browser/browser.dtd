@@ -889,6 +889,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 <!ENTITY saveToPocketCmd.label     "ਸਫ਼ੇ ਨੂੰ ਪਾਕੇਟ ਵਿੱਚ ਸੰਭਾਲੋ">
 <!ENTITY saveToPocketCmd.accesskey "k">
-<!ENTITY saveLinkToPocketCmd.label     "Save Link to Pocket">
+<!ENTITY saveLinkToPocketCmd.label     "ਲਿੰਕ ਪਾਕੇਟ ਵਿੱਚ ਸੰਭਾਲੋ">
 <!ENTITY saveLinkToPocketCmd.accesskey "o">
 <!ENTITY pocketMenuitem.label      "ਪਾਕੇਟ ਲਿਸਟ ਵੇਖੋ">
