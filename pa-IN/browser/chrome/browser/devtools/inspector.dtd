@@ -41,19 +41,19 @@
      - after the current node
      - as the first child of the current node
      - as the last child of the current node -->
-<!ENTITY inspectorHTMLPasteExtraSubmenu.label      "Paste…">
+<!ENTITY inspectorHTMLPasteExtraSubmenu.label      "ਚੇਪੋ...">
 <!ENTITY inspectorHTMLPasteExtraSubmenu.accesskey  "t">
 
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteBefore.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste
      the HTML before the current node -->
-<!ENTITY inspectorHTMLPasteBefore.label      "Before">
+<!ENTITY inspectorHTMLPasteBefore.label      "ਪਹਿਲਾਂ">
 <!ENTITY inspectorHTMLPasteBefore.accesskey  "B">
 
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteAfter.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste
      the HTML after the current node -->
-<!ENTITY inspectorHTMLPasteAfter.label       "After">
+<!ENTITY inspectorHTMLPasteAfter.label       "ਬਾਅਦ">
 <!ENTITY inspectorHTMLPasteAfter.accesskey   "A">
 
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteFirstChild.label): This is the label
@@ -77,7 +77,7 @@
 <!-- LOCALIZATION NOTE (inspectorHTMLDelete.label): This is the label shown in
      the inspector contextual-menu for the item that lets users delete the
      current node -->
-<!ENTITY inspectorHTMLDelete.label          "Delete Node">
+<!ENTITY inspectorHTMLDelete.label          "ਨੋਡ ਹਟਾਓ">
 <!ENTITY inspectorHTMLDelete.accesskey      "D">
 
 <!ENTITY inspector.selectButton.tooltip     "Select element with mouse">
@@ -90,7 +90,7 @@
 <!-- LOCALIZATION NOTE (inspectorSearchHTML.label3): This is the label that will
      be shown as the placeholder in the future, once the inspector search box
      supports the full text HTML search in Bug 835896. -->
-<!ENTITY inspectorSearchHTML.label3 "Search HTML">
+<!ENTITY inspectorSearchHTML.label3 "ਖੋਜ  HTML">
 
 <!-- LOCALIZATION NOTE (inspectorCopyImageDataUri.label): This is the label
      shown in the inspector contextual-menu for the item that lets users copy
@@ -104,3 +104,18 @@
      the DOM properties of the current node. When triggered, this item
      opens the split Console and displays the properties in its side panel. -->
 <!ENTITY inspectorShowDOMProperties.label       "Show DOM Properties">
+
+<!-- LOCALIZATION NOTE (inspectorExpandNode.label): This is the label
+     shown in the inspector contextual-menu for recursively expanding
+     mark-up elements -->
+<!ENTITY inspectorExpandNode.label       "ਸਭ ਫੈਲਾਓ">
+
+<!-- LOCALIZATION NOTE (inspectorCollapseNode.label): This is the label
+     shown in the inspector contextual-menu for recursively collapsing
+     mark-up elements -->
+<!ENTITY inspectorCollapseNode.label       "ਸਮੇਟੋ">
+
+<!-- LOCALIZATION NOTE (inspectorScreenshotNode.label): This is the label
+     shown in the inspector contextual-menu for the item that lets users take
+     a screenshot of the currently selected node. -->
+<!ENTITY inspectorScreenshotNode.label       "Screenshot Node">
