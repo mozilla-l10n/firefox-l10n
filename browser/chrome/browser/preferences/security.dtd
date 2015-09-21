@@ -18,7 +18,7 @@
 <!ENTITY  blockAttackSites.accesskey "হ">
 
 <!ENTITY  blockWebForgeries.label     "চিহ্নিত ওয়েব জালিয়াতীর সাইট প্রদর্শনে প্রতিরোধ করা হবে">
-<!ENTITY  blockWebForgeries.accesskey "চ">
+<!ENTITY  blockWebForgeries.accesskey "B">
 
 <!ENTITY  addonExceptions.label         "ব্যতিক্রম...">
 <!ENTITY  addonExceptions.accesskey     "ব">

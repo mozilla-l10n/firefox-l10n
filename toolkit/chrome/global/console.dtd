@@ -9,7 +9,7 @@
 <!ENTITY errColumn.label "কলাম:">
 
 <!ENTITY all.label          "সমগ্র">
-<!ENTITY all.accesskey      "স">
+<!ENTITY all.accesskey      "A">
 <!ENTITY errors.label       "ত্রুটি">
 <!ENTITY errors.accesskey   "ত">
 <!ENTITY warnings.label     "সতর্কবার্তা">

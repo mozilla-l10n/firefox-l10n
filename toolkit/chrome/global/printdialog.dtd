@@ -21,7 +21,7 @@
 
 <!ENTITY printrangeGroup.label "প্রিন্ট করার বিষয়বস্তু">
 <!ENTITY allpagesRadio.label "সমস্ত পৃষ্ঠা">
-<!ENTITY allpagesRadio.accesskey "স">
+<!ENTITY allpagesRadio.accesskey "A">
 <!ENTITY rangeRadio.label  "পৃষ্ঠা সংখ্যা">
 <!ENTITY rangeRadio.accesskey  "প">
 <!ENTITY frompageInput.label  "আরম্ভ">

@@ -10,7 +10,7 @@
 <!ENTITY     props.expires.label            "মেয়াদ:">
 
 <!ENTITY     button.allow.label             "অনুমতি প্রদান করুন">
-<!ENTITY     button.allow.accesskey         "অ">
+<!ENTITY     button.allow.accesskey         "A">
 <!ENTITY     button.session.label           "সেশানের জন্য অনুমতি প্রদান করুন">
 <!ENTITY     button.session.accesskey       "স">
 <!ENTITY     button.deny.label              "প্রত্যাখ্যান করুন">

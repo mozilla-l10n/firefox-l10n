@@ -16,7 +16,7 @@
 <!ENTITY useCurrentPage.accesskey  "ব">
 <!ENTITY useMultiple.label         "বর্তমান পৃষ্ঠাগুলি প্রয়োগ করা হবে">
 <!ENTITY chooseBookmark.label      "বুকমার্ক প্রয়োগ করা হবে…">
-<!ENTITY chooseBookmark.accesskey  "ব">
+<!ENTITY chooseBookmark.accesskey  "B">
 <!ENTITY restoreDefault.label      "ডিফল্ট মান পুনরায় স্থাপন করা হবে">
 <!ENTITY restoreDefault.accesskey  "ড">
 
@@ -33,7 +33,7 @@
 
 <!ENTITY alwaysCheckDefault2.label        "সর্বদা পরীক্ষা করুন &brandShortName; ডিফল্ট ব্রাউজার রূপে ব্যবহার করা যাবে কি না">
 <!ENTITY alwaysCheckDefault2.accesskey    "র">
-<!ENTITY setAsMyDefaultBrowser2.label     "ডিফল্ট বানান (D)">
+<!ENTITY setAsMyDefaultBrowser2.label     "ডিফল্ট বানান">
 <!ENTITY setAsMyDefaultBrowser2.accesskey "D">
 <!ENTITY isDefault.label                  "&brandShortName; বর্তমানে আপনার ডিফল্ট ব্রাউজার রূপে নির্ধারিত রয়েছে।">
 <!ENTITY isNotDefault.label               "&brandShortName; বর্তমানে আপনার ডিফল্ট ব্রাউজার রূপে নির্ধারিত রয়েছে।">

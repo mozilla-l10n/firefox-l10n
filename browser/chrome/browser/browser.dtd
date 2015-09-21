@@ -19,7 +19,7 @@
 <!ENTITY navbarOverflow.label                "অতিরিক্ত সরঞ্জাম…">
 <!-- Tab context menu -->
 
-<!ENTITY  reloadTab.label                    "ট্যাব পুনরায় লোড(R) করুন">
+<!ENTITY  reloadTab.label                    "ট্যাব পুনরায় লোড করুন">
 <!ENTITY  reloadTab.accesskey                "R">
 <!ENTITY  reloadAllTabs.label                "সকল ট্যাব পুনরায় লোড করুন">
 <!ENTITY  reloadAllTabs.accesskey            "A">
@@ -43,18 +43,18 @@ can reach it easily. -->
 <!ENTITY  moveToGroup.label                  "গ্রুপে স্থানান্তর করুন">
 <!ENTITY  moveToGroup.accesskey              "M">
 <!ENTITY  moveToNewGroup.label               "নতুন শ্রেণী">
-<!ENTITY  moveToNewWindow.label              "নতুন উইন্ডোর(W) মধ্যে স্থানান্তর করুন">
+<!ENTITY  moveToNewWindow.label              "নতুন উইন্ডোর মধ্যে স্থানান্তর করুন">
 <!ENTITY  moveToNewWindow.accesskey          "W">
-<!ENTITY  bookmarkAllTabs.label              "সকল ট্যাব বুকমার্ক করুন (T)…">
+<!ENTITY  bookmarkAllTabs.label              "সকল ট্যাব বুকমার্ক করুন…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
-<!ENTITY  undoCloseTab.label                 "বন্ধ করা ট্যাব পুনরায় খুলুন (U)">
+<!ENTITY  undoCloseTab.label                 "বন্ধ করা ট্যাব পুনরায় খুলুন">
 <!ENTITY  undoCloseTab.accesskey             "U">
-<!ENTITY  closeTab.label                     "ট্যাব বন্ধ করুন(C)">
+<!ENTITY  closeTab.label                     "ট্যাব বন্ধ করুন">
 <!ENTITY  closeTab.accesskey                 "C">
 
 <!ENTITY  listAllTabs.label      "সকল ট্যাবের তালিকা প্রদর্শন করা হবে">
 
-<!ENTITY tabCmd.label "নতুন ট্যাব(T)">
+<!ENTITY tabCmd.label "নতুন ট্যাব">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
@@ -84,9 +84,9 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "সকল ট্যাব পুনরায় লোড করুন">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "সকল ট্যাব বুকমার্ক করুন (T)…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "সকল ট্যাব বুকমার্ক করুন…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "বন্ধ করা ট্যাব পুনরায় খুলুন (U)">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "বন্ধ করা ট্যাব পুনরায় খুলুন">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
 
 <!ENTITY pageSourceCmd.label "পৃষ্ঠার উৎস(o)">
@@ -107,7 +107,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.accesskey "স">
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "সকল ট্যাব প্রদর্শন">
-<!ENTITY showAllTabsCmd.accesskey "স">
+<!ENTITY showAllTabsCmd.accesskey "A">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; প্রস্তুত করুন">
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; খুলুন পছন্দসমূহ">
@@ -133,10 +133,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY leaveDOMFullScreen.accesskey "স">
 
 <!ENTITY closeWindow.label "উইন্ডো বন্ধ করুন">
-<!ENTITY closeWindow.accesskey "উ">
+<!ENTITY closeWindow.accesskey "d">
 
 <!ENTITY bookmarksMenu.label "বুকমার্ক">
-<!ENTITY bookmarksMenu.accesskey "ব">
+<!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY bookmarkThisPageCmd.label "চিহ্নিত পৃষ্ঠা বুকমার্ক করুন">
 <!ENTITY editThisBookmarkCmd.label "চিহ্নিত বুকমার্ক পরিবর্তন করুন">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -216,7 +216,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "অতিরিক্ত সামগ্রী">
-<!ENTITY addons.accesskey             "অ">
+<!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
 <!ENTITY webapps.label                "অ্যাপসমূহ">
 <!ENTITY webapps.accesskey            "প">
@@ -230,8 +230,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devtoolsConnect.label        "সংযোগ করুন (e)...">
 <!ENTITY devtoolsConnect.accesskey    "e">
 
-<!ENTITY errorConsoleCmd.label        "Error কনসোল">
-<!ENTITY errorConsoleCmd.accesskey    "E">
+<!ENTITY errorConsoleCmd.label        "ত্রুটি কনসোল">
+<!ENTITY errorConsoleCmd.accesskey    "C">
 
 <!ENTITY remoteWebConsoleCmd.label    "দূরবর্তী ওয়েব কনসোল">
 
@@ -287,7 +287,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "ট্যোগল টুলসমূহ (T)">
+<!ENTITY devToolboxMenuItem.label          "ট্যোগল টুলসমূ">
 <!ENTITY devToolboxMenuItem.accesskey      "T">
 <!ENTITY devToolboxMenuItem.keytext        "I">
 
@@ -302,13 +302,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.label        "নতুন উইন্ডো">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "ন">
-<!ENTITY newPrivateWindow.label     "নতুন ব্যক্তিগত উইন্ডো (W)">
+<!ENTITY newPrivateWindow.label     "নতুন ব্যক্তিগত উইন্ডো">
 <!ENTITY newPrivateWindow.accesskey "W">
 <!ENTITY newNonRemoteWindow.label   "নতুন Non-e10s window">
 
 <!ENTITY editMenu.label         "সম্পাদনা"> 
 <!ENTITY editMenu.accesskey       "স"> 
-<!ENTITY undoCmd.label            "পূর্বাবস্থা (U)">  
+<!ENTITY undoCmd.label            "পূর্বাবস্থা">  
 <!ENTITY undoCmd.key            "Z">  
 <!ENTITY undoCmd.accesskey          "U"> 
 <!ENTITY redoCmd.label            "পুনরাবৃত্তি">  
@@ -319,7 +319,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.accesskey         "ক"> 
 <!ENTITY copyCmd.label            "কপি করুন">  
 <!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "ক"> 
+<!ENTITY copyCmd.accesskey          "C"> 
 <!ENTITY pasteCmd.label           "পেস্ট করুন">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "প"> 
@@ -328,7 +328,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY deleteCmd.accesskey        "ম"> 
 <!ENTITY selectAllCmd.label         "সমগ্র নির্বাচন করুন">  
 <!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "স"> 
+<!ENTITY selectAllCmd.accesskey       "A"> 
 <!ENTITY preferencesCmd2.label       "বিবিধ বিকল্প">
 <!ENTITY preferencesCmd2.accesskey     "ব">
 <!ENTITY preferencesCmdUnix.label       "বিবিধ বৈশিষ্ট্য">
@@ -347,7 +347,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.label "সাইডবার">
 <!ENTITY viewSidebarMenu.accesskey "স">
 <!ENTITY viewCustomizeToolbar.label       "পছন্দ অনুযায়ী নির্বাচন..."> 
-<!ENTITY viewCustomizeToolbar.accesskey     "প">
+<!ENTITY viewCustomizeToolbar.accesskey     "C">
 
 <!ENTITY historyMenu.label "পূর্ববর্তী তথ্য">
 <!ENTITY historyMenu.accesskey "প">
@@ -493,7 +493,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageCmd.accesskey       "ছ">
 <!ENTITY viewImageInfoCmd.label       "ছবি সংক্রান্ত তথ্য দেখুন">
 <!ENTITY viewImageInfoCmd.accesskey   "ছ">
-<!ENTITY viewImageDescCmd.label       "দৃশ্যাবলী এবং বিবরণী(D)">
+<!ENTITY viewImageDescCmd.label       "দৃশ্যাবলী এবং বিবরণী">
 <!ENTITY viewImageDescCmd.accesskey   "D">
 <!ENTITY viewVideoCmd.label           "ভিডিও দেখুন">
 <!ENTITY viewVideoCmd.accesskey       "ভ">
@@ -509,7 +509,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailPageCmd.label           "লিংক ই-মেইল করুন…">
 <!ENTITY emailPageCmd.accesskey       "ল">
 <!ENTITY savePageCmd.label            "নতুন নামে পৃষ্ঠা সংরক্ষণ করুন…">
-<!ENTITY savePageCmd.accesskey        "ন">
+<!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "p">
 <!ENTITY savePageCmd.commandkey       "s">
@@ -569,7 +569,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaUnmute.accesskey       "স">
 <!ENTITY mediaPlaybackRate.label     "চলার গতি (l)">
 <!ENTITY mediaPlaybackRate.accesskey "l">
-<!ENTITY mediaPlaybackRate050x.label "বিলম্বিত গতি (০.৫×)(S)">
+<!ENTITY mediaPlaybackRate050x.label "বিলম্বিত গতি (0.5×)">
 <!ENTITY mediaPlaybackRate050x.accesskey "S">
 <!ENTITY mediaPlaybackRate100x.label "স্বাভাবিক গতি">
 <!ENTITY mediaPlaybackRate100x.accesskey "N">
@@ -584,9 +584,9 @@ fast. -->
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label     "নিয়ন্ত্রণের বাটন প্রদর্শন করা হবে">
-<!ENTITY mediaShowControls.accesskey "ন">
+<!ENTITY mediaShowControls.accesskey "C">
 <!ENTITY mediaHideControls.label     "নিয়ন্ত্রণের বাটন আড়াল করা হবে">
-<!ENTITY mediaHideControls.accesskey "ন">
+<!ENTITY mediaHideControls.accesskey "C">
 <!ENTITY videoFullScreen.label       "সম্পূর্ণ পর্দা জুড়ে প্রদর্শন">
 <!ENTITY videoFullScreen.accesskey   "F">
 <!ENTITY videoSaveImage.label        "নতুন রূপে স্ন্যাপ-শট সংরক্ষণ করুন…">
@@ -642,7 +642,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY closeCmd.label                 "বন্ধ করুন">  
 <!ENTITY closeCmd.key                   "W">  
-<!ENTITY closeCmd.accesskey             "ব">
+<!ENTITY closeCmd.accesskey             "C">
 
 <!ENTITY toggleMuteCmd.key              "M">
 
@@ -651,7 +651,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStyleNoStyle.label "বিন্যাস বিহীন">
 <!ENTITY pageStyleNoStyle.accesskey "ব">
 <!ENTITY pageStylePersistentOnly.label "পৃষ্ঠার মৌলিক বিন্যাস">
-<!ENTITY pageStylePersistentOnly.accesskey "প">
+<!ENTITY pageStylePersistentOnly.accesskey "B">
 
 <!ENTITY pageReportIcon.tooltip            "বর্তমান ওয়েব-সাইটে পপ-আপ উইন্ডো প্রদর্শন রোধ করার জন্য নির্ধারিত বৈশিষ্ট্য পরিবর্তন করুন">
 
@@ -680,7 +680,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY spellAddDictionaries.label "অভিধান যোগ করুন...">
-<!ENTITY spellAddDictionaries.accesskey "অ">
+<!ENTITY spellAddDictionaries.accesskey "A">
 
 <!ENTITY editBookmark.done.label                     "সমাপ্ত">
 <!ENTITY editBookmark.cancel.label                   "বাতিল">
@@ -709,9 +709,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.activeLoaded "এই ওয়েবসাইট থেকে সংযোগ সম্পূর্ণরূপে নিরাপদ নয় কারণ এটিতে এনক্রিপশনবিহীন উপাদান (যেমন ছবি) উপস্থিত রয়েছে।">
 <!ENTITY identity.description.activeLoaded2 "আপনি কি এই সাইটের সাথে তথ্য শেয়ার করলে সবাই দেখতে পারে (পাসওয়ার্ড, বার্তা, ক্রেডিট কার্ড ইত্যাদি)।">
 
-<!ENTITY identity.enableMixedContentBlocking.label "সুরক্ষা সক্রিয় করুন (E)">
+<!ENTITY identity.enableMixedContentBlocking.label "সুরক্ষা সক্রিয় করুন">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "E">
-<!ENTITY identity.disableMixedContentBlocking.label "এখনকার জন্য সুরক্ষা নিষ্ক্রিয় করুন (D)">
+<!ENTITY identity.disableMixedContentBlocking.label "এখনকার জন্য সুরক্ষা নিষ্ক্রিয় করুন">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "আরও জানুন">
 
@@ -786,7 +786,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.marklinkMenu.accesskey "L">
 <!ENTITY social.marklinkMenu.label "নতুন রূপে লিঙ্ক সংরক্ষণ করুন…">
 
-<!ENTITY getUserMedia.selectCamera.label "শেয়ার করার ক্যামেরা (C):">
+<!ENTITY getUserMedia.selectCamera.label "শেয়ার করার ক্যামেরা:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "শেয়ার করার মাইক্রোফোন :">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
@@ -800,21 +800,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock.label "এই সাইটে সুরক্ষা নিষ্ক্রিয় করুন (D)">
+<!ENTITY trackingProtection.unblock.label "এই সাইটে সুরক্ষা নিষ্ক্রিয় করুন">
 <!ENTITY trackingProtection.unblock.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate.label "এই সেশনে সুরক্ষা নিষ্ক্রিয় করুন (D)">
+<!ENTITY trackingProtection.unblockPrivate.label "এই সেশনে সুরক্ষা নিষ্ক্রিয় করুন">
 <!ENTITY trackingProtection.unblockPrivate.accesskey "D">
-<!ENTITY trackingProtection.block2.label "সুরক্ষা সক্রিয় করুন (E)">
+<!ENTITY trackingProtection.block2.label "সুরক্ষা সক্রিয় করুন">
 <!ENTITY trackingProtection.block2.accesskey "E">
 
 <!ENTITY trackingContentBlocked.message "অনুসরণকরণ">
 <!ENTITY trackingContentBlocked.moreinfo "পৃষ্ঠার যে অংশগুলি অাপনার অন-লাইন কার্যকলাপ ট্র্যাক করে সেগুলি প্রতিরোধ করা হয়েছে।">
 <!ENTITY trackingContentBlocked.learnMore "আরও জানুন">
 <!ENTITY trackingContentBlocked.options "বিকল্প">
-<!ENTITY trackingContentBlocked.unblock2.label "এই সাইটে সুরক্ষা নিষ্ক্রিয় করুন (D)">
+<!ENTITY trackingContentBlocked.unblock2.label "এই সাইটে সুরক্ষা নিষ্ক্রিয় করুন">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "সুরক্ষা সক্রিয় করুন">
 <!ENTITY trackingContentBlocked.block.accesskey "স">
@@ -822,7 +822,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pointerLock.notification.message "যেকোনো সময়ে এটিকে আবার দেখাতে ESC টিপুন।">
 
-<!ENTITY pluginNotification.showAll.label "সব প্রদর্শন(S)">
+<!ENTITY pluginNotification.showAll.label "সব প্রদর্শন">
 <!ENTITY pluginNotification.showAll.accesskey "S">
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 
@@ -866,9 +866,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg2                "সুরক্ষিত ব্রাউজিং!">
 <!ENTITY panicButton.thankyou.buttonlabel         "ধন্যবাদ!">
 
-<!ENTITY processHang.terminateScript.label        "স্ক্রিপ্ট বন্ধ করুন (S)">
+<!ENTITY processHang.terminateScript.label        "স্ক্রিপ্ট বন্ধ করুন">
 <!ENTITY processHang.terminateScript.accessKey    "S">
-<!ENTITY processHang.debugScript.label            "স্ক্রিপ্ট ডিবাগ করুন(D)">
+<!ENTITY processHang.debugScript.label            "স্ক্রিপ্ট ডিবাগ করুন">
 <!ENTITY processHang.debugScript.accessKey        "D">
 <!ENTITY processHang.terminatePlugin.label        "প্লাগিন বন্ধ করুন">
 <!ENTITY processHang.terminatePlugin.accessKey    "P">

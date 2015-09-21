@@ -25,7 +25,7 @@
 
 <!ENTITY optionsGroup.label  "বিকল্প">
 
-<!ENTITY printBG.label       "ব্যাকগ্রাউন্ড প্রিন্ট করা হবে (রং &amp; ছবি)">
+<!ENTITY printBG.label       "ব্যাকগ্রাউন্ড প্রিন্ট করা হবে (রং ও ছবি)">
 <!ENTITY printBG.accesskey   "B">
 
 <!ENTITY advanced.tab        "মার্জিন &amp; হেডার/Footer">
@@ -36,7 +36,7 @@
 <!ENTITY marginTop.label     "ঊর্ধ্বে:">
 <!ENTITY marginTop.accesskey "ঊ">
 <!ENTITY marginBottom.label  "নীচে:">
-<!ENTITY marginBottom.accesskey "ন">
+<!ENTITY marginBottom.accesskey "B">
 <!ENTITY marginLeft.label    "বাঁদিকে:">
 <!ENTITY marginLeft.accesskey "ব">
 <!ENTITY marginRight.label   "ডানদিকে:">

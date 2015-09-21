@@ -34,7 +34,7 @@
 <!ENTITY healthReportLearnMore.label     "আরও জানুন">
 
 <!ENTITY telemetryDesc.label             "&brandShortName;-কে আরও ভাল করে তুলতে আমাদের সাহায্য করার জন্য আপনার ব্রাউজারের কর্মক্ষমতা, ব্যবহার, হার্ডওয়্যার এবং স্বনির্ধারণ সম্পর্কিত তথ্য &vendorShortName;-কে জানায়">
-<!ENTITY enableTelemetryData.label       "বাড়তি ডাটা শেয়ার করুন (টেলিমেট্রি(T))">
+<!ENTITY enableTelemetryData.label       "বাড়তি ডাটা শেয়ার করুন (টেলিমেট্রি)">
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "আরও জানুন">
 
@@ -75,14 +75,14 @@
 
 <!ENTITY updateApp.label                 "&brandShortName;-র আপডেট:">
 <!ENTITY updateAuto1.label               "স্বয়ংক্রিয়ভাবে আপডেট ইনস্টল করা হবে (প্রস্তাবিত: উন্নত নিরাপত্তার খাতিরে)">
-<!ENTITY updateAuto1.accesskey           "স">
+<!ENTITY updateAuto1.accesskey           "A">
 <!ENTITY updateCheck.label               "আপডেট পরীক্ষা করা হবে, কিন্তু ইনস্টল করা হবে কি না তা ব্যবহারকারী স্বয়ং নির্বাচন করবেন">
 <!ENTITY updateCheck.accesskey           "আ">
 <!ENTITY updateManual.label              "কখনো আপডেট পরীক্ষা করা হবে না (প্রস্তাবিত নয়: বিপজ্জনক)">
 <!ENTITY updateManual.accesskey          "ক">
 
 <!ENTITY updateAutoAddonWarn.label       "উপস্থিত কোনো অতিরিক্ত সামগ্রী এর ফলে নিষ্ক্রিয় হওয়ার সম্ভাবনা থাকলে সতর্ক করা হবে">
-<!ENTITY updateAutoAddonWarn.accesskey   "উ">
+<!ENTITY updateAutoAddonWarn.accesskey   "W">
 
 <!ENTITY updateHistory.label             "আপডেট কর্ম সংক্রান্ত পূর্ববর্তী তথ্য প্রদর্শন">
 <!ENTITY updateHistory.accesskey         "আ">
@@ -101,7 +101,7 @@
 
 <!ENTITY offlineAppsList2.label          "অফ-লাইন অবস্থায় ব্যবহারের উদ্দেশ্যে নিম্নলিখিত ওয়েব-সাইটগুলি তথ্য সংরক্ষণ করতে অনুমোদিত রয়েছে:">
 <!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "সরিয়ে ফেলুন (R)">
+<!ENTITY offlineAppsListRemove.label     "সরিয়ে ফেলুন">
 <!ENTITY offlineAppsListRemove.accesskey "R">
 <!ENTITY offlineAppRemove.confirm        "অফ-লাইন ব্যবহারের তথ্য মুছে ফেলুন">
 
@@ -112,9 +112,9 @@
 <!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "প্রতিবার জিজ্ঞাসা করা হবে">
 <!ENTITY certs.ask.accesskey             "A">
-<!ENTITY enableOCSP.label                "কোয়েরি OCSP রিস্পন্ডার সার্ভার বর্তমান শংসাপত্রের বৈধতা নিশ্চিত করে (Q)">
+<!ENTITY enableOCSP.label                "কোয়েরি OCSP রিস্পন্ডার সার্ভার বর্তমান শংসাপত্রের বৈধতা নিশ্চিত করে">
 <!ENTITY enableOCSP.accesskey            "Q">
-<!ENTITY viewCerts.label                 "সার্টিফিকেট প্রদর্শন(C)">
+<!ENTITY viewCerts.label                 "সার্টিফিকেট প্রদর্শন">
 <!ENTITY viewCerts.accesskey             "C">
-<!ENTITY viewSecurityDevices.label       "নিরাপত্তা ডিভাইস(D)">
+<!ENTITY viewSecurityDevices.label       "নিরাপত্তা ডিভাইস">
 <!ENTITY viewSecurityDevices.accesskey   "D">

@@ -9,7 +9,7 @@
 <!ENTITY previous.tooltip "চিহ্নিত পংক্তির পূর্ববর্তী উপস্থিতি অনুসন্ধান করুন">
 <!ENTITY findCloseButton.tooltip "অনুসন্ধান বার বন্ধ করুন">
 <!ENTITY highlightAll.label "সমগ্র উজ্জ্বল করুন">
-<!ENTITY highlightAll.accesskey "স">
+<!ENTITY highlightAll.accesskey "A">
 <!ENTITY highlightAll.tooltiptext "চিহ্নিত পংক্তি সর্বস্থানে উজ্জ্বল করুন">
 <!ENTITY caseSensitive.label "হরফের ছাঁদ মেলানো হবে">
 <!ENTITY caseSensitive.accesskey "হ">

@@ -20,7 +20,7 @@
 
 <!ENTITY visibilityToggle.tooltip   "Toggle style sheet visibility">
 
-<!ENTITY saveButton.label           "Save">
+<!ENTITY saveButton.label           "সংরক্ষণ">
 <!ENTITY saveButton.tooltip         "Save this style sheet to a file">
 <!ENTITY saveButton.accesskey       "S">
 

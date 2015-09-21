@@ -26,7 +26,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.open.label                   "খুলুন">
 <!ENTITY cmd.open.accesskey               "খ">
 <!ENTITY cmd.openWith.label               "উল্লিখিত অ্যাপ্লিকেশন সহযোগে খুলুন...">
-<!ENTITY cmd.openWith.accesskey           "উ">
+<!ENTITY cmd.openWith.accesskey           "h">
 <!ENTITY cmd.retry.label                  "পুনরায় প্রচেষ্টা">
 <!ENTITY cmd.retry.accesskey              "প">
 <!ENTITY cmd.goToDownloadPage.label       "ডাউনলোড পৃষ্ঠায় চলুন">

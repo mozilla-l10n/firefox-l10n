@@ -26,7 +26,7 @@
 <!ENTITY  found.disabledXPinstall.label   "সফ্টওয়্যার ইনস্টলেশন বর্তমানে নিষ্ক্রিয় থাকার ফলে এই আপডেটগুলি 
 ইনস্টল করা সম্ভব হবে না। নিম্নলিখিত স্থানে এই বৈশিষ্ট্য পরিবর্তন করা যাবে।">
 <!ENTITY  found.enableXPInstall.label     "ওয়েব-সাইট দ্বারা সফ্টওয়্যার ইনস্টল করার অনুমতি প্রদান করা হবে">
-<!ENTITY  found.enableXPInstall.accesskey "ও">
+<!ENTITY  found.enableXPInstall.accesskey "A">
 
 <!ENTITY  installing.wizard.title         "সুসংগত অতিরিক্ত সামগ্রী ইনস্টলেশন">
 <!ENTITY  installing.top.label            "উপস্থিত অতিরিক্ত সামগ্রী সংক্রান্ত আপডেট ডাউনলোড করে ইনস্টল করা হচ্ছে...">

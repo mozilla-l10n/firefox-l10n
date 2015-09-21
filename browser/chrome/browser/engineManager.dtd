@@ -11,7 +11,7 @@
 <!-- Buttons -->
 
 <!ENTITY  up.label                  "উপরে স্থানান্তর">
-<!ENTITY  up.accesskey              "উ">
+<!ENTITY  up.accesskey              "U">
 <!ENTITY  dn.label                  "নীচে স্থানান্তর">
 <!ENTITY  dn.accesskey              "ন">
 <!ENTITY  remove.label              "মুছে ফেলুন">

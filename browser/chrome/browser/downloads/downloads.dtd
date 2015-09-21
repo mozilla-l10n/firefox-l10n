@@ -64,7 +64,7 @@
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
 <!ENTITY cmd.clearList.label              "তালিকা পরিশ্রুত করুন">
 <!ENTITY cmd.clearList.accesskey          "ত">
-<!ENTITY cmd.clearDownloads.label         "ডাউনলোড পরিশ্রুত করুন (D)">
+<!ENTITY cmd.clearDownloads.label         "ডাউনলোড পরিশ্রুত করুন">
 <!ENTITY cmd.clearDownloads.accesskey     "D">
 <!-- LOCALIZATION NOTE (cmd.unblock.label):
      This command may be shown in the context menu, as a menu button item, or as
@@ -97,7 +97,7 @@
      the panel at all.
      -->
 
-<!ENTITY downloadsHistory.label           "সকল ডাউনলোড দেখাও (S)">
+<!ENTITY downloadsHistory.label           "সকল ডাউনলোড দেখাও">
 <!ENTITY downloadsHistory.accesskey       "S">
 
 <!ENTITY clearDownloadsButton.label       "ডাউনলোড পরিষ্কার করুন">

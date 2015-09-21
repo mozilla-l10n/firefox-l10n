@@ -10,7 +10,7 @@
 <!ENTITY  copy.accesskey        "ক">
 <!ENTITY  selectall.key         "A">
 <!ENTITY  selectall.label       "সমগ্র নির্বাচন করুন">
-<!ENTITY  selectall.accesskey   "স">
+<!ENTITY  selectall.accesskey   "A">
 <!ENTITY  closeWindow.key       "w">
 
 <!ENTITY  generalTab            "সাধারণ">

@@ -36,7 +36,7 @@
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
 
-<!ENTITY openURL.label     "Open URL in New Tab">
+<!ENTITY openURL.label     "নতুন ট্যাবের মধ্যে খুলুন">
 <!ENTITY openURL.accesskey "T">
 <!-- LOCALIZATION NOTE (btnPageNet.label): This string is used for the menu
   -  button that allows users to toggle the network logging output.
@@ -52,7 +52,7 @@
   -  sure you do not use the following letters: A, E, N and P. These are used
   -  for editing commands in text inputs. -->
 <!ENTITY btnPageNet.accesskeyMacOSX "t">
-<!ENTITY btnPageCSS.label   "CSS(C)">
+<!ENTITY btnPageCSS.label   "CSS">
 <!ENTITY btnPageCSS.tooltip2 "CSS ত্রুটি এবং সতর্কতার লগ">
 <!ENTITY btnPageCSS.accesskey "C">
 <!ENTITY btnPageJS.label    "JS">
@@ -108,5 +108,5 @@
 <!ENTITY closeCmd.key         "W">
 <!ENTITY findCmd.key          "F">
 <!ENTITY clearOutputCtrl.key  "L">
-<!ENTITY openInVarViewCmd.label "Variables দৃশ্যে খোলা">
+<!ENTITY openInVarViewCmd.label "পরিবর্তনশীল দৃশ্যে খোলা">
 <!ENTITY openInVarViewCmd.accesskey "V">
