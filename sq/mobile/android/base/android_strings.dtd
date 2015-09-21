@@ -162,7 +162,7 @@
 <!ENTITY pref_open_external_urls_privately_summary "Për krejt lidhjet e jashtme të hapura nën &brandShortName;">
 <!ENTITY pref_manage_logins "Administroni hyrjet">
 
-<!ENTITY pref_remember_signons "Mbaji mend fjalëkalimet">
+<!ENTITY pref_remember_signons2 "Mba mend të dhëna hyrjesh">
 
 <!ENTITY pref_category_home "Kreu">
 <!ENTITY pref_category_home_summary "Personalizoni kreun tuaj">
