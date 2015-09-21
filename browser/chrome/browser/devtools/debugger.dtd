@@ -52,6 +52,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.sources.togglePromiseDebugger): This is the
   -  tooltip for the button that toggles the promise debugger. -->
+<!ENTITY debuggerUI.sources.togglePromiseDebugger "Preklopi Razhroščevalnik Promise">
 
 <!-- LOCALIZATION NOTE (debuggerUI.startTracing): This is the text displayed in
   - the button to start execution tracing. -->
