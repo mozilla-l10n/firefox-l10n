@@ -2,25 +2,25 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  intro2.label                "You have chosen to open:">
-<!ENTITY  from.label                  "from:">
-<!ENTITY  actionQuestion.label        "What should &brandShortName; do with this file?">
+<!ENTITY  intro2.label                "Izbrali ste odpiranje:">
+<!ENTITY  from.label                  "iz:">
+<!ENTITY  actionQuestion.label        "Kaj naj &brandShortName; stori s to datoteko?">
 
-<!ENTITY  openWith.label              "Open with">
+<!ENTITY  openWith.label              "Odpri s programom">
 <!ENTITY  openWith.accesskey          "o">
-<!ENTITY  other.label                 "Other…">
+<!ENTITY  other.label                 "Drugo …">
 
-<!ENTITY  saveFile.label              "Save File">
+<!ENTITY  saveFile.label              "Shrani datoteko">
 <!ENTITY  saveFile.accesskey          "s">
 
-<!ENTITY  rememberChoice.label        "Do this automatically for files like this from now on.">
+<!ENTITY  rememberChoice.label        "Od zdaj naprej naredi to samodejno za tovrstne datoteke.">
 <!ENTITY  rememberChoice.accesskey    "a">
 
-<!ENTITY  whichIs.label              "which is:">
+<!ENTITY  whichIs.label              "ki je vrste:">
 
-<!ENTITY  chooseHandlerMac.label      "Choose…">
-<!ENTITY  chooseHandlerMac.accesskey  "C">
-<!ENTITY  chooseHandler.label         "Browse…">
+<!ENTITY  chooseHandlerMac.label      "Izberi …">
+<!ENTITY  chooseHandlerMac.accesskey  "I">
+<!ENTITY  chooseHandler.label         "Prebrskaj …">
 <!ENTITY  chooseHandler.accesskey     "B">
 
-<!ENTITY  unknownPromptText.label     "Would you like to save this file?">
+<!ENTITY  unknownPromptText.label     "Želite shraniti to datoteko?">

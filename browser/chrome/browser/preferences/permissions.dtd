@@ -2,27 +2,27 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY window.title                 "Exceptions">
+<!ENTITY window.title                 "Izjeme">
 <!ENTITY window.width                 "45em">
 
-<!ENTITY treehead.sitename.label      "Site">
-<!ENTITY treehead.status.label        "Status">
-<!ENTITY removepermission.label       "Remove Site">
-<!ENTITY removepermission.accesskey   "R">
-<!ENTITY removeallpermissions.label   "Remove All Sites">
-<!ENTITY removeallpermissions.accesskey "e">
-<!ENTITY address.label                "Address of website:">
-<!ENTITY address.accesskey            "d">
-<!ENTITY block.label                  "Block">
-<!ENTITY block.accesskey              "B">
-<!ENTITY session.label                "Allow for Session">
+<!ENTITY treehead.sitename.label      "Stran">
+<!ENTITY treehead.status.label        "Stanje">
+<!ENTITY removepermission.label       "Odstrani stran">
+<!ENTITY removepermission.accesskey   "O">
+<!ENTITY removeallpermissions.label   "Odstrani vse strani">
+<!ENTITY removeallpermissions.accesskey "v">
+<!ENTITY address.label                "Naslov strani:">
+<!ENTITY address.accesskey            "N">
+<!ENTITY block.label                  "Prepovej">
+<!ENTITY block.accesskey              "P">
+<!ENTITY session.label                "Dovoli v tej seji">
 <!ENTITY session.accesskey            "S">
-<!ENTITY allow.label                  "Allow">
-<!ENTITY allow.accesskey              "A">
+<!ENTITY allow.label                  "Dovoli">
+<!ENTITY allow.accesskey              "D">
 <!ENTITY windowClose.key              "w">
 
-<!ENTITY button.cancel.label          "Cancel">
-<!ENTITY button.cancel.accesskey      "C">
-<!ENTITY button.ok.label              "Save Changes">
+<!ENTITY button.cancel.label          "Prekliči">
+<!ENTITY button.cancel.accesskey      "P">
+<!ENTITY button.ok.label              "Shrani spremembe">
 <!ENTITY button.ok.accesskey          "S">
 

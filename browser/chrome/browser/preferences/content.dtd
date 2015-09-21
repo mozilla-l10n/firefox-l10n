@@ -2,36 +2,36 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  popups.label                "Pop-ups">
+<!ENTITY  popups.label                "Pojavna okna">
 
-<!ENTITY  blockPopups.label           "Block pop-up windows">
-<!ENTITY  blockPopups.accesskey       "B">
-<!ENTITY  popupExceptions.label       "Exceptions…">
-<!ENTITY  popupExceptions.accesskey   "E">
+<!ENTITY  blockPopups.label           "Prepovej pojavna okna">
+<!ENTITY  blockPopups.accesskey       "r">
+<!ENTITY  popupExceptions.label       "Izjeme …">
+<!ENTITY  popupExceptions.accesskey   "I">
 
-<!ENTITY  fontsAndColors.label        "Fonts &amp; Colors">
+<!ENTITY  fontsAndColors.label        "Pisave in barve">
 
-<!ENTITY  defaultFont.label           "Default font:">
-<!ENTITY  defaultFont.accesskey       "D">
-<!ENTITY  defaultSize.label           "Size:">
-<!ENTITY  defaultSize.accesskey       "S">
+<!ENTITY  defaultFont.label           "Privzeta pisava:">
+<!ENTITY  defaultFont.accesskey       "a">
+<!ENTITY  defaultSize.label           "Velikost:">
+<!ENTITY  defaultSize.accesskey       "V">
 
-<!ENTITY  advancedFonts.label         "Advanced…">
-<!ENTITY  advancedFonts.accesskey     "A">
+<!ENTITY  advancedFonts.label         "Napredno …">
+<!ENTITY  advancedFonts.accesskey     "D">
 
-<!ENTITY  colors.label                "Colors…">
-<!ENTITY  colors.accesskey            "C">
+<!ENTITY  colors.label                "Barve …">
+<!ENTITY  colors.accesskey            "B">
 
 
-<!ENTITY languages.label              "Languages">
-<!ENTITY chooseLanguage.label         "Choose your preferred language for displaying pages">
-<!ENTITY chooseButton.label           "Choose…">
-<!ENTITY chooseButton.accesskey       "o">
+<!ENTITY languages.label              "Jeziki">
+<!ENTITY chooseLanguage.label         "Izberite prednosten jezik za prikazovanje strani">
+<!ENTITY chooseButton.label           "Izberi …">
+<!ENTITY chooseButton.accesskey       "e">
 
-<!ENTITY translateWebPages.label      "Translate web content">
+<!ENTITY translateWebPages.label      "Prevajanje spletne vsebine">
 <!ENTITY translateWebPages.accesskey  "T">
-<!ENTITY translateExceptions.label    "Exceptions…">
-<!ENTITY translateExceptions.accesskey "x">
+<!ENTITY translateExceptions.label    "Izjeme …">
+<!ENTITY translateExceptions.accesskey "I">
 
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
@@ -40,11 +40,11 @@
   -  The translations for these strings should match the translations in
   -  browser/translation.dtd
   -->
-<!ENTITY translation.options.attribution.beforeLogo "Translations by">
+<!ENTITY translation.options.attribution.beforeLogo "Prevode zagotavlja">
 <!ENTITY translation.options.attribution.afterLogo "">
 
-<!ENTITY  drmContent.label             "DRM content">
+<!ENTITY  drmContent.label             "Vsebina DRM">
 
-<!ENTITY  playDRMContent.label         "Play DRM content">
+<!ENTITY  playDRMContent.label         "Predvajaj vsebino DRM">
 <!ENTITY  playDRMContent.accesskey     "P">
-<!ENTITY  playDRMContent.learnMore.label "Learn more">
+<!ENTITY  playDRMContent.learnMore.label "Več o tem">

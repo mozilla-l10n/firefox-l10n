@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY quota.dialogTitle.label    "Server Quota">
-<!ENTITY quota.retrievingInfo.label "Retrieving quota information…">
-<!ENTITY quota.typeColumn.label     "Type">
-<!ENTITY quota.sizeColumn.label     "Size">
+<!ENTITY quota.dialogTitle.label    "Omejitve strežnika">
+<!ENTITY quota.retrievingInfo.label "Pridobivanje podatkov o omejitvah …">
+<!ENTITY quota.typeColumn.label     "Vrsta">
+<!ENTITY quota.sizeColumn.label     "Velikost">

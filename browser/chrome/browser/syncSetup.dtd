@@ -2,113 +2,113 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; Setup">
+<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label;: namestitev">
 
 <!-- First page of the wizard -->
 
-<!ENTITY setup.pickSetupType.description2 "Welcome! If you've never used &syncBrand.fullName.label; before, you will need to create a new account.">
-<!ENTITY button.createNewAccount.label "Create a New Account">
-<!ENTITY button.haveAccount.label      "I Have an Account">
+<!ENTITY setup.pickSetupType.description2 "Pozdravljeni! Če še niste uporabljali &syncBrand.fullName.label;, morate najprej ustvariti račun.">
+<!ENTITY button.createNewAccount.label "Ustvari nov račun">
+<!ENTITY button.haveAccount.label      "Imam račun">
 
-<!ENTITY setup.choicePage.title.label     "Have you used &syncBrand.fullName.label; before?">
-<!ENTITY setup.choicePage.new.label       "I've never used &syncBrand.shortName.label; before">
-<!ENTITY setup.choicePage.existing2.label "I'm already using &syncBrand.shortName.label; on another device">
+<!ENTITY setup.choicePage.title.label     "Ali ste že kdaj prej uporabljali &syncBrand.fullName.label;?">
+<!ENTITY setup.choicePage.new.label       "Nikoli prej nisem uporabljal &syncBrand.shortName.label;">
+<!ENTITY setup.choicePage.existing2.label "&syncBrand.shortName.label; že uporabljam na drugi napravi">
 
 <!-- New Account AND Existing Account -->
-<!ENTITY server.label               "Server">
-<!ENTITY serverType.default.label      "Default: Mozilla &syncBrand.fullName.label; server">
-<!ENTITY serverType.custom2.label   "Use a custom server…">
-<!ENTITY signIn.account2.label      "Account">
-<!ENTITY signIn.account2.accesskey  "A">
-<!ENTITY signIn.password.label      "Password">
-<!ENTITY signIn.password.accesskey  "P">
-<!ENTITY signIn.recoveryKey.label       "Recovery Key">
+<!ENTITY server.label               "Strežnik">
+<!ENTITY serverType.default.label      "Privzet strežnik Mozille: &syncBrand.fullName.label;">
+<!ENTITY serverType.custom2.label   "Uporabi strežnik po meri …">
+<!ENTITY signIn.account2.label      "Račun">
+<!ENTITY signIn.account2.accesskey  "R">
+<!ENTITY signIn.password.label      "Geslo">
+<!ENTITY signIn.password.accesskey  "G">
+<!ENTITY signIn.recoveryKey.label       "Obnovitveni ključ">
 <!ENTITY signIn.recoveryKey.accesskey   "K">
 
 <!-- New Account Page 1: Basic Account Info -->
-<!ENTITY setup.newAccountDetailsPage.title.label "Account Details">
-<!ENTITY setup.emailAddress.label     "Email Address">
+<!ENTITY setup.newAccountDetailsPage.title.label "Podrobnosti računa">
+<!ENTITY setup.emailAddress.label     "Elektronska pošta">
 <!ENTITY setup.emailAddress.accesskey "E">
-<!ENTITY setup.choosePassword.label      "Choose a Password">
-<!ENTITY setup.choosePassword.accesskey  "P">
-<!ENTITY setup.confirmPassword.label     "Confirm Password">
-<!ENTITY setup.confirmPassword.accesskey "m">
+<!ENTITY setup.choosePassword.label      "Izberite geslo">
+<!ENTITY setup.choosePassword.accesskey  "I">
+<!ENTITY setup.confirmPassword.label     "Potrdite geslo">
+<!ENTITY setup.confirmPassword.accesskey "t">
 
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
-<!ENTITY setup.tosAgree1.label      "I agree to the">
+<!ENTITY setup.tosAgree1.label      "Soglašam s">
 <!ENTITY setup.tosAgree1.accesskey  "a">
-<!ENTITY setup.tosLink.label        "Terms of Service">
-<!ENTITY setup.tosAgree2.label      "and the">
-<!ENTITY setup.ppLink.label         "Privacy Policy">
+<!ENTITY setup.tosLink.label        "pogoji uporabe">
+<!ENTITY setup.tosAgree2.label      "in">
+<!ENTITY setup.ppLink.label         "politiko zasebnosti">
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 
 <!-- My Recovery Key dialog -->
-<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; Cares About Your Privacy">
-<!ENTITY setup.newRecoveryKeyPage.description.label "To ensure your total privacy, all of your data is encrypted prior to being uploaded. The Recovery Key which is necessary to decrypt your data is not uploaded.">
-<!ENTITY recoveryKeyEntry.label        "Your Recovery Key">
+<!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; spoštuje vašo zasebnost">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Za zagotovitev najvišje stopnje zasebnosti se vsi vaši podatki pred prenosom šifrirajo. Obnovitveni ključ, ki je potreben za dešifriranje, pa se ne prenaša.">
+<!ENTITY recoveryKeyEntry.label        "Vaš obnovitveni ključ">
 <!ENTITY recoveryKeyEntry.accesskey    "K">
-<!ENTITY syncGenerateNewKey.label  "Generate a new key">
-<!ENTITY recoveryKeyBackup.description "Your Recovery Key is required to access &syncBrand.fullName.label; on other machines. Please create a backup copy. We cannot help you recover your Recovery Key.">
+<!ENTITY syncGenerateNewKey.label  "Ustvari nov ključ">
+<!ENTITY recoveryKeyBackup.description "Obnovitveni ključ potrebujete za dostop do &syncBrand.fullName.label; na drugih napravah. Ustvarite varnostno kopijo, saj vam ga ne moremo obnoviti.">
 
-<!ENTITY button.syncKeyBackup.print.label     "Print…">
-<!ENTITY button.syncKeyBackup.print.accesskey "P">
-<!ENTITY button.syncKeyBackup.save.label      "Save…">
+<!ENTITY button.syncKeyBackup.print.label     "Natisni …">
+<!ENTITY button.syncKeyBackup.print.accesskey "N">
+<!ENTITY button.syncKeyBackup.save.label      "Shrani …">
 <!ENTITY button.syncKeyBackup.save.accesskey  "S">
 
 <!-- Existing Account Page 1: Pair a Device (incl. Pair a Device dialog strings) -->
-<!ENTITY pairDevice.title.label             "Pair a Device">
-<!ENTITY addDevice.showMeHow.label          "Show me how.">
-<!ENTITY addDevice.dontHaveDevice.label     "I don't have the device with me">
-<!ENTITY pairDevice.setup.description.label  "To activate, select &#x0022;Pair a Device&#x0022; on your other device.">
-<!ENTITY addDevice.setup.enterCode.label    "Then, enter this code:">
-<!ENTITY pairDevice.dialog.description.label "To activate your new device, select &#x0022;Set Up Sync&#x0022; on the device.">
-<!ENTITY addDevice.dialog.enterCode.label   "Enter the code that the device provides:">
-<!ENTITY addDevice.dialog.tryAgain.label    "Please try again.">
-<!ENTITY addDevice.dialog.successful.label  "The device has been successfully added. The initial synchronization can take several minutes and will finish in the background.">
-<!ENTITY addDevice.dialog.recoveryKey.label     "To activate your device you will need to enter your Recovery Key. Please print or save this key and take it with you.">
-<!ENTITY addDevice.dialog.connected.label   "Device Connected">
+<!ENTITY pairDevice.title.label             "Dodaj napravo">
+<!ENTITY addDevice.showMeHow.label          "Prikaži, kako.">
+<!ENTITY addDevice.dontHaveDevice.label     "Naprave nimam pri sebi">
+<!ENTITY pairDevice.setup.description.label  "Za vklop izberite &#x0022;Dodaj napravo&#x0022; na vaši drugi napravi.">
+<!ENTITY addDevice.setup.enterCode.label    "Nato vnesite to kodo:">
+<!ENTITY pairDevice.dialog.description.label "Za vklop vaše nove naprave na njej izberite &#x0022;Nastavi Sync&#x0022;.">
+<!ENTITY addDevice.dialog.enterCode.label   "Vnesite kodo, ki jo ponuja naprava:">
+<!ENTITY addDevice.dialog.tryAgain.label    "Poskusite znova.">
+<!ENTITY addDevice.dialog.successful.label  "Naprava je bila uspešno dodana. Prva sinhronizacija lahko traja nekaj minut in se bo končala v ozadju.">
+<!ENTITY addDevice.dialog.recoveryKey.label     "Za vklop vaše naprave boste morali vnesti svoj obnovitveni ključ. Natisnite ga ali shranite in ga imejte pri sebi.">
+<!ENTITY addDevice.dialog.connected.label   "Naprava je povezana">
 
 <!-- Existing Account Page 2: Manual Login -->
-<!ENTITY setup.signInPage.title.label "Sign In">
-<!ENTITY existingRecoveryKey.description "You can get a copy of your Recovery Key by going to &syncBrand.shortName.label; Options on your other device, and selecting  &#x0022;My Recovery Key&#x0022; under &#x0022;Manage Account&#x0022;.">
-<!ENTITY verifying.label              "Verifying…">
-<!ENTITY resetPassword.label          "Reset Password">
-<!ENTITY resetSyncKey.label           "I have lost my other device.">
+<!ENTITY setup.signInPage.title.label "Prijava">
+<!ENTITY existingRecoveryKey.description "Kopijo obnovitvenega ključa lahko najdete v nastavitvah &syncBrand.shortName.label; vaše druge naprave. Izberite &#x0022;Upravljanje računa&#x0022; in nato &#x0022;Moj obnovitveni ključ&#x0022;.">
+<!ENTITY verifying.label              "Preverjanje …">
+<!ENTITY resetPassword.label          "Ponastavi geslo">
+<!ENTITY resetSyncKey.label           "Izgubil sem drugo napravo.">
 
 <!-- Sync Options -->
-<!ENTITY setup.optionsPage.title      "Sync Options">
-<!ENTITY syncDeviceName.label       "Device Name:">
-<!ENTITY syncDeviceName.accesskey   "c">
+<!ENTITY setup.optionsPage.title      "Možnosti sinhronizacije">
+<!ENTITY syncDeviceName.label       "Ime naprave:">
+<!ENTITY syncDeviceName.accesskey   "r">
 
-<!ENTITY syncMy.label               "Sync My">
-<!ENTITY engine.bookmarks.label     "Bookmarks">
+<!ENTITY syncMy.label               "Sinhroniziraj:">
+<!ENTITY engine.bookmarks.label     "Zaznamke">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label          "Tabs">
-<!ENTITY engine.tabs.accesskey      "T">
-<!ENTITY engine.history.label       "History">
-<!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "Passwords">
-<!ENTITY engine.passwords.accesskey "P">
-<!ENTITY engine.prefs.label         "Preferences">
-<!ENTITY engine.prefs.accesskey     "S">
-<!ENTITY engine.addons.label        "Add-ons">
+<!ENTITY engine.tabs.label          "Zavihke">
+<!ENTITY engine.tabs.accesskey      "Z">
+<!ENTITY engine.history.label       "Zgodovino">
+<!ENTITY engine.history.accesskey   "d">
+<!ENTITY engine.passwords.label     "Gesla">
+<!ENTITY engine.passwords.accesskey "G">
+<!ENTITY engine.prefs.label         "Nastavitve">
+<!ENTITY engine.prefs.accesskey     "N">
+<!ENTITY engine.addons.label        "Dodatke">
 <!ENTITY engine.addons.accesskey    "A">
 
-<!ENTITY choice2a.merge.main.label       "Merge this device's data with my &syncBrand.shortName.label; data">
-<!ENTITY choice2.merge.recommended.label "Recommended:">
-<!ENTITY choice2a.client.main.label      "Replace all data on this device with my &syncBrand.shortName.label; data">
-<!ENTITY choice2a.server.main.label      "Replace all other devices with this device's data">
+<!ENTITY choice2a.merge.main.label       "Združi podatke te naprave in storitve &syncBrand.shortName.label;">
+<!ENTITY choice2.merge.recommended.label "Priporočeno:">
+<!ENTITY choice2a.client.main.label      "Zamenjaj podatke te naprave s podatki storitve &syncBrand.shortName.label;">
+<!ENTITY choice2a.server.main.label      "Zamenjaj podatke ostalih naprav s podatki te naprave">
 
 <!-- Confirm Merge Options -->
-<!ENTITY setup.optionsConfirmPage.title "Confirm">
-<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; will now merge all this device's browser data into your Sync account.">
-<!ENTITY confirm.client3.label         "Warning: The following &brandShortName; data on this device  will be deleted:">
-<!ENTITY confirm.client2.moreinfo.label "&brandShortName; will then copy your &syncBrand.fullName.label; data to this device.">
-<!ENTITY confirm.server2.label         "Warning: The following devices will be overwritten with your local data:">
+<!ENTITY setup.optionsConfirmPage.title "Potrditev">
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; bo zdaj združil vse podatke brskalnika na tej napravi s podatki na vašem računu.">
+<!ENTITY confirm.client3.label         "Opozorilo: naslednji podatki brskalnika &brandShortName; na tej napravi bodo odstranjeni:">
+<!ENTITY confirm.client2.moreinfo.label "&brandShortName; bo potem skopiral vaše podatke s &syncBrand.fullName.label; na to napravo.">
+<!ENTITY confirm.server2.label         "Opozorilo: podatki na naslednjih napravah bodo prepisani s podatki na tej napravi:">
 
 <!-- New & Existing Account: Setup Complete -->
-<!ENTITY setup.successPage.title "Setup Complete">
-<!ENTITY changeOptions.label "You can change this preference by selecting Sync Options below.">
-<!ENTITY continueUsing.label "You may now continue using &brandShortName;.">
+<!ENTITY setup.successPage.title "Namestitev končana!">
+<!ENTITY changeOptions.label "To nastavitev lahko spremenite z izbiro Možnosti sinhronizacije.">
+<!ENTITY continueUsing.label "Zdaj lahko nadaljujete z uporabo &brandShortName;a.">
