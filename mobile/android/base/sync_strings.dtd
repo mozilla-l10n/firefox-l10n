@@ -125,6 +125,7 @@
 <!ENTITY fxaccount_finish_migrating_description "При обновлении может передаваться большое количество данных. Лучше всего подключиться к сети Wi-Fi.">
 <!ENTITY fxaccount_status_header2 "Учётная запись Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Вошёл как">
+<!ENTITY fxaccount_status_manage_account "Управление аккаунтом">
 <!ENTITY fxaccount_status_auth_server "Сервер учётной записи">
 <!ENTITY fxaccount_status_sync_now "Синхронизировать">
 <!ENTITY fxaccount_status_syncing2 "Синхронизация…">

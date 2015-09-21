@@ -4,11 +4,19 @@
 
 <!ENTITY no_space_to_start_error "Недостаточно свободного места для запуска &brandShortName;.">
 <!ENTITY error_loading_file "При попытке загрузки файлов, требуемых для запуска &brandShortName;, произошла ошибка.">
+<!ENTITY firstrun_panel_title_welcome "Добро пожаловать">
 <!ENTITY onboard_start_message3 "Браузер &brandShortName;">
 <!ENTITY onboard_start_subtext3 "Делает ваш мобильный веб-сёрфинг по-настоящему уникальным.">
 <!ENTITY onboard_start_button_account "Войти в &brandShortName;">
 <!ENTITY onboard_start_button_browser "Начать веб-сёрфинг">
+<!ENTITY firstrun_button_next "Далее">
 <!ENTITY onboard_start_restricted1 "Будьте в безопасности и установите свой контроль с этой упрощённой версией &brandShortName;.">
+<!ENTITY firstrun_import_title "Импорт">
+<!ENTITY firstrun_import_message "Добро пожаловать в &brandShortName;">
+<!ENTITY firstrun_import_subtext "Импорт закладок и истории из другого браузера.">
+<!ENTITY firstrun_import_action "Передать в &brandShortName;">
+<!ENTITY firstrun_import_dialog_button "Передать">
+<!ENTITY firstrun_import_progress_title "Передача">
 <!ENTITY bookmarks_title "Закладки">
 <!ENTITY history_title "История">
 <!ENTITY reading_list_title "Список для чтения">
@@ -119,6 +127,9 @@
 <!ENTITY pref_home_updates_wifi "Только через Wi-Fi">
 <!ENTITY pref_home_suggested_sites "Показывать предложения сайтов">
 <!ENTITY pref_home_suggested_sites_summary "Отображать ярлыки на сайты на вашей домашней странице, которые, как мы думаем, вы можете найти интересными">
+<!ENTITY pref_category_home_homepage "Домашняя страница">
+<!ENTITY home_homepage_title "Установка домашней страницы">
+<!ENTITY home_homepage_use_current_tab "Использовать текущую вкладку">
 <!ENTITY pref_header_customize "Настройка">
 <!ENTITY pref_header_display "Отображение">
 <!ENTITY pref_header_privacy_short "Приватность">
@@ -325,7 +336,6 @@
 <!ENTITY button_set "Установить">
 <!ENTITY button_clear "Очистить">
 <!ENTITY button_copy "Копировать">
-<!ENTITY firstrun_panel_title_welcome "Добро пожаловать">
 <!ENTITY home_top_sites_title "Топ сайтов">
 <!ENTITY home_top_sites_add "Добавить сайт">
 <!ENTITY home_title "Дом &brandShortName;">
@@ -434,5 +444,5 @@
 <!ENTITY bookmarks_addons "Firefox: Настройка с помощью дополнений">
 <!ENTITY bookmarks_support "Firefox: Поддержка">
 <!ENTITY bookmarks_marketplace "Firefox Marketplace">
-<!ENTITY bookmarks_restricted_support "Справка и поддержка Firefox для упрощённой и понятной для детей версии Firefox">
+<!ENTITY bookmarks_restricted_support2 "Справка и поддержка Firefox для ограниченных профилей на планшетах Android">
 <!ENTITY bookmarks_restricted_webmaker "Научитесь создавать Интернет: Mozilla Вебмейкер">
