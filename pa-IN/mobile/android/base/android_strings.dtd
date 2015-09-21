@@ -42,6 +42,10 @@
 <!ENTITY bookmark "ਬੁੱਕਮਾਰਕ">
 <!ENTITY bookmark_remove "ਬੁੱਕਮਾਰਕ ਹਟਾਓ">
 <!ENTITY bookmark_added "ਬੁੱਕਮਾਰਕ ਜੋੜਿਆ">
+<!-- Localization note (bookmark_already_added) : This string is
+     used as a label in a toast. It is the verb "to bookmark", not
+     the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "ਪਹਿਲਾਂ ਹੀ ਬੁੱਕਮਾਰਕ ਹੈ">
 <!ENTITY bookmark_removed "ਬੁੱਕਮਾਰਕ ਹਟਾਇਆ">
 <!ENTITY bookmark_updated "ਬੁੱਕਮਾਰਕ ਅੱਪਡੇਟ ਕੀਤਾ">
 <!ENTITY bookmark_options "ਚੋਣਾਂ">
@@ -76,10 +80,11 @@
 
 <!ENTITY settings "ਸੈਟਿੰਗ">
 <!ENTITY settings_title "ਸੈਟਿੰਗ">
+<!ENTITY pref_category_input_options "ਇਨਪੁਟ ਚੋਣਾਂ">
 <!ENTITY pref_category_advanced "ਤਕਨੀਕੀ">
 <!ENTITY pref_category_customize "ਪਸੰਦ">
 <!ENTITY pref_category_customize_summary "ਘਰ, ਖੋਜ, ਟੈਬਾਂ, ਦਰਾਮਦ">
-<!ENTITY pref_category_customize_alt_summary "ਘਰ, ਖੋਜ, ਟੈਬਾਂ, ਬਾਅਦ 'ਚ ਖੋਲ੍ਹੋ,ਦਰਾਮਦ">
+<!ENTITY pref_category_customize_alt_summary "ਘਰ, ਖੋਜ, ਟੈਬਾਂ, ਬਾਅਦ \'ਚ ਖੋਲ੍ਹੋ,ਦਰਾਮਦ">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -124,7 +129,7 @@
      divided into two lines (use the newline escape character, "\n", between
      them): the first notifying the user about the failure and the second
      telling the user what to do about it. -->
-<!ENTITY overlay_share_tab_not_sent "ਤੁਹਾਡੀ ਟੈਬ ਨੂੰ ਭੇਜਿਆ ਨਹੀਂ ਜਾ ਸਕਿਆ।\nਬਾਅਦ 'ਚ ਕੋਸ਼ਿਸ਼ ਕਰੋ।">
+<!ENTITY overlay_share_tab_not_sent "ਤੁਹਾਡੀ ਟੈਬ ਨੂੰ ਭੇਜਿਆ ਨਹੀਂ ਜਾ ਸਕਿਆ।\nਬਾਅਦ \'ਚ ਕੋਸ਼ਿਸ਼ ਕਰੋ।">
 
 <!ENTITY pref_category_search3 "ਖੋਜ">
 <!ENTITY pref_category_search_summary "ਤੁਹਾਡੇ ਖੋਜ ਉਪਲੱਬਧ ਕਰਵਾਉਣ ਵਾਲਿਆਂ ਦੀ ਪਸੰਦ">
@@ -146,9 +151,11 @@
 <!ENTITY pref_search_hint "ਟੋਟਕਾ: ਕਿਸੇ ਵੀ ਵੈੱਬਸਾਈਟ ਨੂੰ ਖੋਜ ਉਪਲੱਬਧ ਕਰਵਾਉਣ ਵਾਲਿਆਂ ਦੀ ਆਪਣੀ ਸੂਚੀ ਵਿੱਚ ਇਸ ਦੇ ਖੋਜ ਖੇਤਰ ਨੂੰ ਲੰਮਾ ਸਮਾਂ ਦਬਾ ਕੇ ਰੱਖ ਕੇ ਅਤੇ ਫੇਰ &formatI; ਆਈਕਾਨ ਛੂਹ ਕੇ ਜੋੜੋ">
 <!ENTITY pref_category_devtools "ਡਿਵੈਲਪਰ ਟੂਲ">
 <!ENTITY pref_developer_remotedebugging "ਰਿਮੋਟ ਡੀਬੱਗ ਕਰਨਾ">
-<!ENTITY pref_category_logins "Logins">
-<!ENTITY pref_remember_signons "ਪਾਸਵਰਡ ਯਾਦ ਰੱਖੋ">
-<!ENTITY pref_manage_logins "Manage logins">
+<!ENTITY pref_category_logins "ਲਾਗਇਨ">
+<!ENTITY pref_remember_signons2 "ਲਾਗਇਨ ਯਾਦ ਰੱਖੋ">
+<!ENTITY pref_open_external_urls_privately_title "ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਵਿੱਚ ਲਿੰਕ ਖੋਲ੍ਹੋ">
+<!ENTITY pref_open_external_urls_privately_summary "&brandShortName; ਵਿੱਚ ਸਭ ਬਾਹਰੀ ਲਿੰਕ ਖੋਲ੍ਹਣ ਲਈ">
+<!ENTITY pref_manage_logins "ਲਾਗਇਨ ਪਰਬੰਧ">
 
 <!ENTITY pref_category_home "ਮੁੱਖ-ਸਫ਼ਾ">
 <!ENTITY pref_category_home_summary "ਆਪਣਾ ਮੁੱਖ-ਸਫ਼ਾ ਪਸੰਦੀਦਾ ਬਣਾਓ">
@@ -175,7 +182,7 @@
 <!ENTITY pref_category_display "ਵਿਖਾਉਣਾ">
 <!ENTITY pref_category_display_summary "ਪਾਠ, ਟਾਈਟਲ ਪੱਟੀ, ਪੂਰੀ ਸਕਰੀਨ ਉੱਤੇ ਬਰਾਊਜ਼ ਕਰਨਾ">
 <!ENTITY pref_category_privacy_short "ਪਰਦੇਦਾਰੀ">
-<!ENTITY pref_category_privacy_summary "ਪਾਸਵਰਡ, ਕੂਕੀਜ਼, ਟਰੈਕ ਕਰਨ, ਡਾਟੇ ਨੂੰ ਕੰਟਰੋਲ ਕਰੋ">
+<!ENTITY pref_category_privacy_summary2 "ਲਾਗਇਨ, ਕੂਕੀਜ਼, ਟਰੈਕ ਕਰਨ, ਡਾਟੇ ਨੂੰ ਕੰਟਰੋਲ ਕਰੋ">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "&brandShortName;, ਸਵਾਲ-ਜਵਾਬ, ਡਾਟਾ ਚੋਣਾਂ ਬਾਰੇ ਜਾਣੋ">
 <!ENTITY pref_category_datareporting "ਡਾਟਾ ਚੋਣਾਂ">
@@ -410,7 +417,11 @@ size. -->
 <!ENTITY doorhanger_login_edit_password_hint "ਪਾਸਵਰਡ">
 <!ENTITY doorhanger_login_edit_toggle "ਪਾਸਵਰਡ ਸੰਭਾਲੋ">
 <!ENTITY doorhanger_login_edit_toast_error "ਲਾਗਇਨ ਸੰਭਾਲਣ ਲਈ ਫੇਲ੍ਹ ਹੈ">
-
+<!ENTITY doorhanger_login_select_message "&formatS; ਤੋਂ ਪਾਸਵਰਡ ਕਾਪੀ ਕਰਨੇ ਹਨ?">
+<!ENTITY doorhanger_login_select_toast_copy "ਪਾਸਵਰਡ ਕਲਿੱਪਬੋਰਡ ਵਿੱਚ ਕਾਪੀ ਕੀਤਾ">
+<!ENTITY doorhanger_login_select_toast_copy_error "ਪਾਸਵਰਡ ਕਾਪੀ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ">
+<!ENTITY doorhanger_login_select_action_text "ਹੋਰ ਲਾਗਇਨ ਚੁਣੋ">
+<!ENTITY doorhanger_login_select_title "ਪਾਸਵਰਡ ਇਸ ਤੋਂ ਕਾਪੀ ਕਰੋ">
 
 <!ENTITY pref_titlebar_mode "ਟਾਈਟਲ ਪੱਟੀ">
 <!ENTITY pref_titlebar_mode_title "ਸਫ਼ਾ ਟਾਈਟਲ ਵੇਖਾਓ">
@@ -470,7 +481,8 @@ size. -->
 <!ENTITY button_no "ਨਹੀਂ">
 <!ENTITY button_clear_data "ਡਾਟਾ ਸਾਫ਼ ਕਰੋ">
 <!ENTITY button_set "ਸੈੱਟ">
-<!ENTITY button_clear "ਸਾਫ਼">
+<!ENTITY button_clear "ਸਾਫ਼ ਕਰੋ">
+<!ENTITY button_copy "ਕਾਪੀ">
 
 <!ENTITY firstrun_panel_title_welcome "ਜੀ ਆਇਆਂ ਨੂੰ">
 
@@ -553,6 +565,7 @@ size. -->
 <!ENTITY identity_connected_to "ਤੁਸੀਂ ਜੁੜੇ ਹੋਏ ਹੋ ">
 <!ENTITY identity_no_info "ਇਹ ਵੈੱਬਸਾਈਟ ਕੋਈ ਵੀ ਪਛਾਣ ਜਾਣਕਾਰੀ ਨਹੀਂ ਦਿੰਦੀ ਹੈ।">
 <!ENTITY identity_not_encrypted "ਇਸ ਵੈੱਬਸਾਈਟ ਨਾਲ ਤੁਹਾਡਾ ਕਨੈਕਸ਼ਨ ਇੰਕ੍ਰਿਪਟ ਨਹੀਂ ਕੀਤਾ ਹੈ।">
+<!ENTITY identity_encrypted "ਇੰਕ੍ਰਿਪਟ ਹੈ">
 
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
@@ -629,7 +642,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "ਜਾਰੀ ਰੱਖੋ">
 <!ENTITY guest_session_dialog_cancel "ਰੱਦ ਕਰੋ">
 <!ENTITY new_guest_session_title "&brandShortName; ਨੂੰ ਮੁੜ-ਚਾਲੂ ਕੀਤਾ ਜਾਵੇਗਾ">
-<!ENTITY new_guest_session_text "ਇਸ ਦੀ ਵਰਤੋਂ ਕਰਨ ਵਾਲਾ ਵਿਅਕਤੀ ਤੁਹਾਡੇ ਨਿੱਜੀ ਬਰਾਊਜ਼ਿੰਗ ਡਾਟੇ (ਜਿਵੇਂ ਕਿ ਸੰਭਾਲੇ ਪਾਸਵਰਡ, ਅਤੀਤ ਜਾਂ ਬੁੱਕਮਾਰਕ) ਨੂੰ ਵੇਖ ਨਹੀਂ ਸਕੇਗਾ।\n\nਜਦੋਂ ਤੁਹਾਡੇ ਮਹਿਮਾਨ ਨੇ ਕੰਮ ਖਤਮ ਕਰ ਲਿਆ ਤਾਂ ਉਹਨਾਂ ਦੇ ਬਰਾਊਜ਼ਿੰਗ ਡਾਟੇ ਨੂੰ ਹਟਾਇਆ ਜਾਵੇਗਾ ਅਤੇ ਤੁਹਾਡਾ ਸ਼ੈਸ਼ਨ ਮੁੜ-ਸਟੋਰ ਕੀਤਾ ਜਾਵੇਗਾ।">
+<!ENTITY new_guest_session_text2 "ਇਸ ਦੀ ਵਰਤੋਂ ਕਰਨ ਵਾਲਾ ਵਿਅਕਤੀ ਤੁਹਾਡੇ ਨਿੱਜੀ ਬਰਾਊਜ਼ਿੰਗ ਡਾਟੇ (ਜਿਵੇਂ ਕਿ ਸੰਭਾਲੇ ਲਾਗਇਨ, ਅਤੀਤ ਜਾਂ ਬੁੱਕਮਾਰਕ) ਨੂੰ ਵੇਖ ਨਹੀਂ ਸਕੇਗਾ।\n\nਜਦੋਂ ਤੁਹਾਡੇ ਮਹਿਮਾਨ ਨੇ ਕੰਮ ਖਤਮ ਕਰ ਲਿਆ ਤਾਂ ਉਹਨਾਂ ਦੇ ਬਰਾਊਜ਼ਿੰਗ ਡਾਟੇ ਨੂੰ ਹਟਾਇਆ ਜਾਵੇਗਾ ਅਤੇ ਤੁਹਾਡਾ ਸ਼ੈਸ਼ਨ ਮੁੜ-ਸਟੋਰ ਕੀਤਾ ਜਾਵੇਗਾ।">
 <!ENTITY guest_browsing_notification_title "ਮਹਿਮਾਨ ਬਰਾਊਜ਼ਰ ਕਰਨਾ ਸਮਰੱਥ ਹੈ">
 <!ENTITY guest_browsing_notification_text "ਬਾਹਰ ਜਾਣ ਲਈ ਛੂਹੋ">
 
@@ -676,3 +689,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
 <!ENTITY find_matchcase "Aa">
+
+
+<!ENTITY intent_uri_cannot_open "ਲਿੰਕ ਖੋਲ੍ਹਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ">
