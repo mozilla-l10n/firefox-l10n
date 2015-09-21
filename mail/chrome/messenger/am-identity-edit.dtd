@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY identityDialog.style "width: 67ch;">
-<!ENTITY identityTitle.label "Identity Settings">
-<!ENTITY identityListDesc.label "Configure the settings for this identity:">
+<!ENTITY identityTitle.label "Налаштування ідентифікатора">
+<!ENTITY identityListDesc.label "Налаштувати параметри для цього ідентифікатора:">
 
-<!ENTITY settingsTab.label       "Settings">
-<!ENTITY copiesFoldersTab.label "Copies &amp; Folders">
-<!ENTITY addressingTab.label    "Composition &amp; Addressing">
+<!ENTITY settingsTab.label       "Параметри">
+<!ENTITY copiesFoldersTab.label "Копії та теки">
+<!ENTITY addressingTab.label    "Написання та адресація">
