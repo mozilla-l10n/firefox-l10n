@@ -325,7 +325,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pasteCmd.accesskey         "প"> 
 <!ENTITY deleteCmd.label          "মুছে ফেলুন">  
 <!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "ম"> 
+<!ENTITY deleteCmd.accesskey        "D"> 
 <!ENTITY selectAllCmd.label         "সমগ্র নির্বাচন করুন">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "A"> 
@@ -578,7 +578,7 @@ items are mutually exclusive. -->
 <!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x.label "হাস্যকর গতি (২×)">
+<!ENTITY mediaPlaybackRate200x.label "হাস্যকর গতি (2×)">
 <!ENTITY mediaPlaybackRate200x.accesskey "L">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu

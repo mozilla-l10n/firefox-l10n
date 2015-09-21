@@ -26,7 +26,7 @@
 <!ENTITY filter2.accesskey  "F">
 
 <!ENTITY copyCmd.label       "কপি করুন">  
-<!ENTITY copyCmd.accesskey   "ক"> 
+<!ENTITY copyCmd.accesskey   "C"> 
 <!ENTITY copyCmd.commandkey  "C"> 
 <!ENTITY sortFirst.label     "প্রথম> সর্বশেষ ক্রম বিন্যাস">
 <!ENTITY sortFirst.accesskey "প">

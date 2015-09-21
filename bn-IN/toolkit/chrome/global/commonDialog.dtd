@@ -8,6 +8,6 @@
 <!ENTITY editfield1.label "পাসওয়ার্ড:"> 
 <!ENTITY checkbox.label   "পরীক্ষণ">
 <!ENTITY copyCmd.label    "কপি করুন">
-<!ENTITY copyCmd.accesskey "ক">
+<!ENTITY copyCmd.accesskey "C">
 <!ENTITY selectAllCmd.label "সমগ্র নির্বাচন করুন">
 <!ENTITY selectAllCmd.accesskey "A">

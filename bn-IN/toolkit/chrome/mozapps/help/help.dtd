@@ -15,7 +15,7 @@
 <!ENTITY forwardButton.accesskey        "প">
 <!ENTITY forwardButton.tooltip          "প্রদর্শিত পৃষ্ঠার অনুক্রম অনুযায়ী, পরবর্তী পৃষ্ঠায় এগিয়ে চলুন">
 <!ENTITY copyCmd.label                  "কপি করুন">
-<!ENTITY copyCmd.accesskey              "ক">
+<!ENTITY copyCmd.accesskey              "C">
 <!ENTITY selectAllCmd.label             "সমগ্র নির্বাচন">
 <!ENTITY selectAllCmd.accesskey         "A">
 <!ENTITY goBackCmd.commandkey           "[">
