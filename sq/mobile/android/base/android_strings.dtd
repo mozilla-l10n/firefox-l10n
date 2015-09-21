@@ -21,7 +21,7 @@
 <!ENTITY  switch_to_tab "Kalo te skeda">
 
 <!ENTITY  crash_reporter_title "Njoftues Vithisjesh &brandShortName;-u">
-<!ENTITY  crash_message2 "&brandShortName;-u pati një problem dhe u vithis. Skedat tuaja do të duhej t\&apos;i shihnit te faqja e Fillimit të &brandShortName;-ut, kur ta rinisni.">
+<!ENTITY  crash_message2 "&brandShortName;-u pati një problem dhe u vithis. Skedat tuaja do të duhej t’i shihnit te faqja e Fillimit të &brandShortName;-ut, kur ta rinisni.">
 <!ENTITY  crash_send_report_message3 "Tregojini &vendorShortName;-s për këtë vithisje, që kështu të mund ta ndreqin">
 <!ENTITY  crash_include_url2 "Përfshije adresën e faqes ku gjendesha">
 <!ENTITY  crash_sorry "Na vjen keq">
@@ -121,19 +121,18 @@
      to. -->
 <!ENTITY overlay_share_send_tab_btn_label "Dërgojeni në pajisje tjetër">
 <!ENTITY overlay_share_no_url "Nuk u gjet lidhje këtu">
-<!ENTITY overlay_share_retry "Riprovoni">
 <!ENTITY overlay_share_select_device "Përzgjidhni pajisje">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
-<!ENTITY overlay_no_synced_devices "S&apos;u gjetën pajisje të lidhura përmes Llogarish Firefox">
+<!ENTITY overlay_no_synced_devices "S’u gjetën pajisje të lidhura përmes Llogarish Firefox">
 <!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
      to send a tab to a synced device is pressed and there is an error
      connecting to the server so the tab could not be sent. The text should be
      divided into two lines (use the newline escape character, "\n", between
      them): the first notifying the user about the failure and the second
      telling the user what to do about it. -->
-<!ENTITY overlay_share_tab_not_sent "Skeda juaj s&apos;u dërgua dot.\nJu lutemi, riprovoni më vonë.">
+<!ENTITY overlay_share_tab_not_sent "Skeda juaj s’u dërgua dot.\nJu lutemi, riprovoni më vonë.">
 
 <!ENTITY pref_category_search3 "Kërkim">
 <!ENTITY pref_category_search_summary "Personalizoni mundësuesit e kërkimeve tuaja">
@@ -159,7 +158,6 @@
 <!ENTITY pref_category_devtools "Mjete zhvilluesi">
 <!ENTITY pref_developer_remotedebugging "Diagnostikim së largëti">
 <!ENTITY pref_category_logins "Hyrje">
-<!ENTITY pref_remember_signons2 "Mbaji mend hyrjet">
 <!ENTITY pref_open_external_urls_privately_title "Hapi lidhjen nën shfletim Privat">
 <!ENTITY pref_open_external_urls_privately_summary "Për krejt lidhjet e jashtme të hapura nën &brandShortName;">
 <!ENTITY pref_manage_logins "Administroni hyrjet">
@@ -170,7 +168,7 @@
 <!ENTITY pref_category_home_summary "Personalizoni kreun tuaj">
 <!ENTITY pref_category_home_panels "Panele">
 <!ENTITY home_add_panel_title "Shtoni panel të ri">
-<!ENTITY home_add_panel_empty "Na ndjeni, s\&apos;gjetëm dot panele që t\&apos;i shtoni.">
+<!ENTITY home_add_panel_empty "Na ndjeni, s’gjetëm dot panele që t’i shtoni.">
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
@@ -180,7 +178,7 @@
 <!ENTITY pref_home_updates_enabled "Të aktivizuara">
 <!ENTITY pref_home_updates_wifi "Vetëm përmes Wi-Fi">
 <!ENTITY pref_home_suggested_sites "Shfaq sugjerime sajtesh">
-<!ENTITY pref_home_suggested_sites_summary "Shfaq te kreu juaj shkurtore për te sajte të cilët mendojmë se mund t\&apos;ju duken interesante">
+<!ENTITY pref_home_suggested_sites_summary "Shfaq te kreu juaj shkurtore për te sajte të cilët mendojmë se mund t’ju duken interesante">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Personalizojeni">
@@ -197,9 +195,26 @@
 <!ENTITY pref_cookies_disabled "Të çaktivizuara">
 
 <!ENTITY pref_tracking_protection_title "Mbrojtje nga gjurmimi">
-<!ENTITY pref_tracking_protection_summary "&brandShortName;-i do t\&apos;i pengojë sajtet t\&apos;ju gjurmojnë">
+<!ENTITY pref_tracking_protection_summary "&brandShortName;-i do t’i pengojë sajtet t’ju gjurmojnë">
 <!ENTITY pref_donottrack_title "Mos më gjurmo">
-<!ENTITY pref_donottrack_summary "&brandShortName;-i do t\&apos;u thotë sajteve se nuk doni të gjurmoheni">
+<!ENTITY pref_donottrack_summary "&brandShortName;-i do t’u thotë sajteve se nuk doni të gjurmoheni">
+
+<!ENTITY tab_queue_toast_message3 "Skeda u ruajt në &brandShortName;">
+<!ENTITY tab_queue_toast_action "Të hapet tani">
+<!ENTITY tab_queue_prompt_title "Të hapen lidhje të shumëfishta?">
+<!ENTITY tab_queue_prompt_text3 "Ruajini deri për herën pasues që hapni &brandShortName;-un">
+<!ENTITY tab_queue_prompt_tip_text "Këtë mund ta ndryshoni më vonë te Rregullimet">
+<!ENTITY tab_queue_prompt_positive_action_button "Aktivizoje">
+<!ENTITY tab_queue_prompt_negative_action_button "Jo tani">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
+<!-- Localization note (tab_queue_notification_text_plural2) : The
+     formatD is replaced with the number of tabs queued.  The
+     number of tabs queued is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY tab_queue_notification_text_plural2 "&formatD; skeda në pritje">
+<!-- Localization note (tab_queue_notification_text_singular2) : This is the
+     text of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_text_singular2 "1 skedë në pritje">
 
 <!ENTITY pref_char_encoding "Kodim shkronjash">
 <!ENTITY pref_char_encoding_on "Shfaqe menunë">
@@ -237,13 +252,17 @@ size. -->
 <!ENTITY pref_font_size_preview_text "Dhelpra e shpejtë ngjyrë portokalli kërcen më lart se çka prisnit, me më shumë shpejtësi, më tepër zhdërvjelltësi dhe më tepër siguri. Si një organizëm jofitimprurës, jemi të lirë të sjellim për ju risi, pa trysni për komprometim. Kjo përkthehet në punim më të mirë për ju dhe të ardhme më të ndritur për Web-in.">
 
 <!ENTITY pref_media_autoplay_enabled "Lejo vetëluajtje">
-<!ENTITY pref_media_autoplay_enabled_summary "Kontrollo nëse sajtet mund të vetëluajnë video dhe tjetër lëndë media">
+<!ENTITY pref_media_autoplay_enabled_summary "Kontrolloni nëse sajtet mund të vetëluajnë video dhe tjetër lëndë media">
 <!ENTITY pref_zoom_force_enabled "Aktivizoje përherë zoom-in">
 <!ENTITY pref_zoom_force_enabled_summary "Detyroni anashkakalim, që të mund të zmadhoni ose zvogëloni cilëndo faqe">
+<!ENTITY pref_voice_input "Futje zëri">
+<!ENTITY pref_voice_input_summary "Lejo diktim me zë te shtylla e titullit">
+<!ENTITY pref_qrcode_enabled "Lexues kodesh QR">
+<!ENTITY pref_qrcode_enabled_summary "Lejo skaner QR te shtylla e titullit">
 
 <!ENTITY pref_use_master_password "Përdor fjalëkalim të përgjithshëm">
 <!ENTITY pref_sync "Sync">
-<!ENTITY pref_sync_summary "Njëkohësoni skedat, faqerojtësit, fjalëkalimet dhe historikun tuaj">
+<!ENTITY pref_sync_summary2 "Njëkohësoni skedat, faqerojtësit, të dhëna hyrjesh dhe historikun tuaj">
 <!ENTITY pref_search_suggestions "Shfaq këshillime kërkimi">
 <!ENTITY pref_import_android "Importoni prej Android-i">
 <!ENTITY pref_import_android_summary "Importoni faqerojtës dhe historik prej shfletuesit të Android-it">
@@ -256,7 +275,7 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "Të dhëna sajtesh për jo në linjë">
 <!ENTITY pref_private_data_siteSettings2 "Rregullime sajti">
 <!ENTITY pref_private_data_downloadFiles2 "Shkarkime">
-
+<!ENTITY pref_private_data_syncedTabs "Skeda të njëkohësuara">
 <!ENTITY pref_about_firefox "Rreth &brandShortName;-ut">
 <!ENTITY pref_vendor_faqs "FAQ">
 <!ENTITY pref_vendor_feedback "Jepni përshtypjet">
@@ -274,8 +293,8 @@ size. -->
 <!ENTITY pref_panels_move_down "Zbrite poshtë">
 
 <!ENTITY datareporting_notification_title "Statistika &amp; të dhëna &brandShortName;-u ">
-<!ENTITY datareporting_notification_action_long "Zgjidhni ç\u0027të dhëna të ndahen me të tjerët">
-<!ENTITY datareporting_notification_action "Zgjidhni ç\u0027të ndahet me të tjerët">
+<!ENTITY datareporting_notification_action_long "Zgjidhni ç’të dhëna të ndahen me të tjerët">
+<!ENTITY datareporting_notification_action "Zgjidhni ç’të ndahet me të tjerët">
 <!ENTITY datareporting_notification_summary "Për përmirësimin e punimit tuaj, &brandShortName;-u dërgon vetvetiu te &vendorShortName; disa të dhëna.">
 <!ENTITY datareporting_notification_summary_short "Për përmirësimin e punimit tuaj, &brandShortName;-u…">
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
@@ -377,7 +396,7 @@ size. -->
 <!ENTITY doorhanger_login_edit_toast_error "Dështoi ruajtja e të dhënave të hyrjes">
 <!ENTITY doorhanger_login_select_message "Të kopjohet fjalëkalimi nga &formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "Fjalëkalimi u kopjua te e papastra">
-<!ENTITY doorhanger_login_select_toast_copy_error "S&apos;u kopjua dot fjalëkalimi">
+<!ENTITY doorhanger_login_select_toast_copy_error "S’u kopjua dot fjalëkalimi">
 <!ENTITY doorhanger_login_select_action_text "Përzgjidhni një tjetër hyrje">
 <!ENTITY doorhanger_login_select_title "Fjalëkalimin kopjoje prej">
 
@@ -389,6 +408,9 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar2 "Shfletim në ekran të plotë">
 <!ENTITY pref_scroll_title_bar_summary "Fshihe shtyllën e titujve për &brandShortName;-in kur rrëshqitet poshtë një faqe">
+
+<!ENTITY pref_tab_queue_title2 "Hapni lidhje të shumëfishta">
+<!ENTITY pref_tab_queue_summary3 "Ruajini deri për herën pasuese që hapni &brandShortName;-un">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -405,9 +427,11 @@ size. -->
 <!ENTITY site_settings_title3       "Rregullime Sajti">
 <!ENTITY site_settings_cancel       "Anuloje">
 <!ENTITY site_settings_clear        "Pastroje">
-<!ENTITY site_settings_no_settings  "Nuk ka rregullime për t\u0027i pastruar.">
+<!ENTITY site_settings_no_settings  "Nuk ka rregullime për t’i pastruar.">
 
-<!ENTITY reading_list_added "Faqja u shtua te Lista juaj e Leximeve">
+<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+     as possible. -->
+<!ENTITY reading_list_added2 "U shtua te lista">
 <!ENTITY reading_list_removed "Faqe e hequr nga Lista juaj e Leximeve">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -501,10 +525,6 @@ size. -->
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Çfshihi pajisjet e përzgjedhura">
 
-<!ENTITY private_browsing_title "Shfletim Privat">
-<!ENTITY private_tabs_panel_empty_desc "Skedat tuaja private do të duken këtu. Ne nuk ruajmë gjë nga historiku i shfletimeve apo cookie-t tuaja, kurse faqerojtësit dhe kartelat që shkarkoni do të ruhen te pajisja juaj.">
-<!ENTITY private_tabs_panel_learn_more "Doni të dini më tepër?">
-
 <!ENTITY remote_tabs_panel_moved_title "Ku shkuan skedat e mia?">
 <!ENTITY remote_tabs_panel_moved_desc "Skedat tuaja prej pajisjesh të tjera i kemi kaluar te një panel në faqen tuaj hyrëse, nga ku mund të përdoren kollaj sa herë hapni një skedë të re.">
 <!ENTITY remote_tabs_panel_moved_link "Shpjemëni te paneli im i ri.">
@@ -565,6 +585,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_wait "Ju lutemi, prisni...">
 
 <!ENTITY suggestions_prompt3 "Do të donit të aktivizohen këshillime kërkimi?">
+<!--  Localization note (search_bar_item_desc): When the user clicks the url bar
+      and starts typing, a list of icons of search engines appears at the bottom
+      of the screen. When a user clicks an icon, the entered text will be searched
+      via the search engine that uses the icon they clicked. This text is used
+      for screen reader users when they hover each icon - &formatS; will be
+      replaced with the name of the currently highlighted icon. -->
+<!ENTITY search_bar_item_desc "Kërkoni me &formatS;">
 
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
@@ -593,7 +620,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "Vazhdo">
 <!ENTITY guest_session_dialog_cancel "Anuloje">
 <!ENTITY new_guest_session_title "&brandShortName;-u tani do të riniset">
-<!ENTITY new_guest_session_text2 "Personi që po e përdor s&apos;do të jetë në gjendje të shohë ndonjë të dhënë tuajën personale shfletimesh (të tilla si të dhëna hyrjesh, historik ose faqerojtës të ruajtur).\n\nKur mysafiri juaj të ketë mbaruar punë, të dhënat e tij të shfletimit do të fshihen dhe do të rikthehet sesioni juaj.">
+<!ENTITY new_guest_session_text2 "Personi që po e përdor s’do të jetë në gjendje të shohë ndonjë të dhënë tuajën personale shfletimesh (të tilla si të dhëna hyrjesh, historik ose faqerojtës të ruajtur).\n\nKur mysafiri juaj të ketë mbaruar punë, të dhënat e tij të shfletimit do të fshihen dhe do të rikthehet sesioni juaj.">
 <!ENTITY guest_browsing_notification_title "Shfletimi si mysafir është i aktivizuar">
 <!ENTITY guest_browsing_notification_text "Prekeni që të dilet prej tij">
 
@@ -643,4 +670,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
 <!ENTITY find_matchcase "Aa">
 
-<!ENTITY intent_uri_cannot_open "S&apos;hapet dot lidhja">
+<!ENTITY intent_uri_cannot_open "S’hapet dot lidhja">
