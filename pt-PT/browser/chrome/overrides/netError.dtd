@@ -53,7 +53,7 @@ ligação do seu computador à rede.</li>
 
 <!ENTITY netOffline.title "Modo offline">
 <!ENTITY netOffline.longDesc2 "<ul> 
-<li>Prima &quot;Tentar novamente&quot; para ficar online e recarregar a página.</li> 
+<li>Prima &quot;Voltar a tentar&quot; para ficar online e recarregar a página.</li> 
 </ul>">
 
 <!ENTITY contentEncodingError.title "Erro de codificação de conteúdo">
@@ -108,7 +108,7 @@ instalado.</li>
 <!ENTITY nssFailure2.title "Falha na ligação protegida">
 <!ENTITY nssFailure2.longDesc2 "<ul> 
 <li>A página que está a tentar ver não pode ser mostrada porque não foi possível verificar a autenticidade dos dados recebidos.</li> 
-<li>Por favor reporte o problema aos detentores do sítio. Alternativamente, use o comando do menu Ajuda para reportar o erro.</li> 
+<li>Por favor, reporte o problema aos proprietários do site. Alternativamente, use o comando do menu Ajuda para reportar o erro.</li> 
 </ul>">
 
 <!ENTITY nssBadCert.title "Falha na ligação protegida">
