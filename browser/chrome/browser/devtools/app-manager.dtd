@@ -12,7 +12,7 @@
 <!ENTITY device.screenshot "Captura de ecrã">
 <!ENTITY device.screenshotTooltip "Mostra a captura de ecrã do atual estado do dispositivo num novo separador">
 <!ENTITY device.title "Centro de controlo do dispositivo">
-<!ENTITY device.notConnected "Não ligado. Por favor ligue o seu dispositivo em baixo.">
+<!ENTITY device.notConnected "Não ligado. Por favor, ligue o seu dispositivo em baixo.">
 <!ENTITY device.startApp "Iniciar">
 <!ENTITY device.startAppTooltip "Iniciar esta aplicação no dispositivo">
 <!ENTITY device.stopApp "Parar">

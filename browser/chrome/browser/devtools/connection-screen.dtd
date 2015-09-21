@@ -17,7 +17,7 @@
 <!ENTITY availableTabs "Separadores remotos disponíveis:">
 <!ENTITY availableProcesses "Processos remotos disponíveis:">
 <!ENTITY connectionError "Erro:">
-<!ENTITY errorTimeout "Erro: ligação expirada.">
+<!ENTITY errorTimeout "Erro: a ligação excedeu o tempo limite.">
 <!ENTITY errorRefused "Erro: ligação recusada.">
 <!ENTITY errorUnexpected "Erro desconhecido.">
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
