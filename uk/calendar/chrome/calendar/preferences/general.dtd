@@ -13,27 +13,27 @@
 <!ENTITY pref.dateformat.long "Повний" >
 <!ENTITY pref.dateformat.short "Стислий"  >
 
-<!ENTITY pref.timezones.caption "Timezone">
-<!ENTITY pref.timezones.label "Select the closest city in your timezone:">
-<!ENTITY pref.timezones.accesskey "S">
+<!ENTITY pref.timezones.caption "Часовий пояс">
+<!ENTITY pref.timezones.label "Виберіть найближче місце в своєму часовому поясі:">
+<!ENTITY pref.timezones.accesskey "В">
 
-<!ENTITY pref.defaults.label "Default Values for New Items">
-<!ENTITY pref.events.label "Events">
-<!ENTITY pref.tasks.label "Tasks">
+<!ENTITY pref.defaults.label "Типові значення для нових об'єктів">
+<!ENTITY pref.events.label "Події">
+<!ENTITY pref.tasks.label "Завдання">
 
-<!ENTITY pref.default_event_length.label "Default Length:" >
-<!ENTITY pref.default_event_length.accesskey "E">
+<!ENTITY pref.default_event_length.label "Типова тривалість:" >
+<!ENTITY pref.default_event_length.accesskey "т">
 
-<!ENTITY pref.default_task_none.label "None">
-<!ENTITY pref.default_task_start_of_day.label "Start of Day">
-<!ENTITY pref.default_task_end_of_day.label "End of Day">
-<!ENTITY pref.default_task_tomorrow.label "Tomorrow">
-<!ENTITY pref.default_task_next_week.label "Next Week">
-<!ENTITY pref.default_task_offset_current.label "Relative to Current Time">
-<!ENTITY pref.default_task_offset_start.label "Relative to Start">
-<!ENTITY pref.default_task_offset_next_hour.label "Relative to Next Hour">
+<!ENTITY pref.default_task_none.label "Немає">
+<!ENTITY pref.default_task_start_of_day.label "Початок дня">
+<!ENTITY pref.default_task_end_of_day.label "Кінець дня">
+<!ENTITY pref.default_task_tomorrow.label "Завтра">
+<!ENTITY pref.default_task_next_week.label "Наступного тижня">
+<!ENTITY pref.default_task_offset_current.label "Відносно поточного часу">
+<!ENTITY pref.default_task_offset_start.label "Відносно початку">
+<!ENTITY pref.default_task_offset_next_hour.label "Відносно наступної години">
 
-<!ENTITY pref.calendar.todaypane.agenda.caption "Today Pane">
+<!ENTITY pref.calendar.todaypane.agenda.caption "Панель дня">
 <!ENTITY pref.soondays.label "The upcoming section shows:">
 <!ENTITY pref.soondays.accesskey "u">
 
