@@ -62,10 +62,10 @@
 <!ENTITY sync.summary.pair.label "Lidhni te llogaria juaj &syncBrand.shortName.label; një pajisje tjetër">
 
 <!-- Configure Engines -->
-<!ENTITY sync.configure.engines.title.label "Ç\&apos;të njëkohësohet">
+<!ENTITY sync.configure.engines.title.label "Ç’të njëkohësohet">
 <!ENTITY sync.configure.engines.sync.my.title.label "Njëkohësoni…">
 <!ENTITY sync.configure.engines.title.bookmarks "Faqerojtësit tuaj">
-<!ENTITY sync.configure.engines.title.passwords "Fjalëkalimet tuaja">
+<!ENTITY sync.configure.engines.title.passwords2 "Të dhëna hyrjesh tuajat">
 <!ENTITY sync.configure.engines.title.history "Historikun tuaj">
 <!ENTITY sync.configure.engines.title.tabs "Skedat tuaja">
 
@@ -82,7 +82,7 @@
      will be replaced by the name of the Firefox release channel and &formatS2
      by the model name of the Android device. Examples look like "Aurora on
      GT-I1950" and "Fennec on MI 2S". -->
-<!ENTITY sync.default.client.name '&formatS1; në &formatS2;'>
+<!ENTITY sync.default.client.name "&formatS1; në &formatS2;">
 
 <!-- Bookmark folder strings -->
 <!ENTITY bookmarks.folder.menu.label "Menu Faqerojtësish">
@@ -138,7 +138,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "Shënim Privatësie">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Mirë se vini te &syncBrand.shortName.label;">
-<!ENTITY fxaccount_getting_started_description "Bëni hyrjen që të njëkohësoni skedat, faqerojtësit, fjalëkalimet tuaja &amp; etj.">
+<!ENTITY fxaccount_getting_started_description2 "Bëni hyrjen që të njëkohësoni skedat, faqerojtësit, të dhëna hyrjesh &amp; etj.">
 <!ENTITY fxaccount_getting_started_get_started "Fillojani">
 <!ENTITY fxaccount_getting_started_old_firefox "Po përdorni një version të vjetër të &syncBrand.shortName.label;-ut">
 
@@ -153,7 +153,7 @@
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "Duke vazhduar më tej, pajtohem me &formatS1; dhe &formatS2; të shërbimeve Firefox në re.">
 <!ENTITY fxaccount_create_account_button "Pasuesi">
-<!ENTITY fxaccount_create_account_choose_what_to_sync "Zgjidhni ç\&apos;të njëkohësohen">
+<!ENTITY fxaccount_create_account_choose_what_to_sync "Zgjidhni ç’të njëkohësohen">
 <!ENTITY fxaccount_create_account_sign_in_instead "Keni tashmë një llogari? Hyni në të">
 <!ENTITY fxaccount_create_account_1990_or_earlier "1990 ose më herët">
 <!ENTITY fxaccount_create_account_unknown_error "Nuk u krijua dot llogari">
@@ -168,29 +168,29 @@
 <!ENTITY fxaccount_confirm_account_resend_email "Ridërgoje email-in">
 <!ENTITY fxaccount_confirm_account_change_email "Të harrohet kjo adresë email?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Email-i i verifikimit u dërgua">
-<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "S\&apos;u dërgua dot email-i i verifikimit">
-<!ENTITY fxaccount_resend_unlock_code_button_label 'Ridërgoje email-in për zhbllokim'>
-<!ENTITY fxaccount_unlock_code_sent 'Email-i për zhbllokimin e llogarisë u dërgua'>
-<!ENTITY fxaccount_unlock_code_not_sent 'S\&apos;u dërgua dot email-i për zhbllokimin e llogarisë'>
+<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "S’u dërgua dot email-i i verifikimit">
+<!ENTITY fxaccount_resend_unlock_code_button_label "Ridërgoje email-in për zhbllokim">
+<!ENTITY fxaccount_unlock_code_sent "Email-i për zhbllokimin e llogarisë u dërgua">
+<!ENTITY fxaccount_unlock_code_not_sent "S’u dërgua dot email-i për zhbllokimin e llogarisë">
 
 <!ENTITY fxaccount_sign_in_sub_header "Hyni">
 <!ENTITY fxaccount_sign_in_button_label "Hyni">
 <!ENTITY fxaccount_sign_in_forgot_password "Harruat fjalëkalimin?">
 <!ENTITY fxaccount_sign_in_create_account_instead "Krijoni një llogari">
-<!ENTITY fxaccount_sign_in_unknown_error "S\&apos;u bë dot hyrja">
+<!ENTITY fxaccount_sign_in_unknown_error "S’u bë dot hyrja">
 
 <!ENTITY fxaccount_account_verified_sub_header "Llogaria u verifikua">
 <!ENTITY fxaccount_account_verified_description2 "Njëkohësimi i të dhënave tuaja do të fillojë në çast.">
 
-<!ENTITY fxaccount_migration_finished_header 'Përmirësimi përfundoi'>
+<!ENTITY fxaccount_migration_finished_header "Përmirësimi përfundoi">
 
 <!ENTITY fxaccount_update_credentials_header "Hyni">
 <!ENTITY fxaccount_update_credentials_button_label "Hyni">
 <!ENTITY fxaccount_update_credentials_unknown_error "Nuk u bë dot hyrja">
 
-<!ENTITY fxaccount_finish_migrating_header 'Hyni, që të përfundohet përmirësimi'>
-<!ENTITY fxaccount_finish_migrating_button_label 'Përfundoje përmirësimin'>
-<!ENTITY fxaccount_finish_migrating_description 'Përmirësimi mund të mbartë shumë të dhëna. Më e mira do të ishte të jeni në një rrjet WiFi.'>
+<!ENTITY fxaccount_finish_migrating_header "Hyni, që të përfundohet përmirësimi">
+<!ENTITY fxaccount_finish_migrating_button_label "Përfundoje përmirësimin">
+<!ENTITY fxaccount_finish_migrating_description "Përmirësimi mund të mbartë shumë të dhëna. Më e mira do të ishte të jeni në një rrjet WiFi.">
 
 <!ENTITY fxaccount_status_header2 "Llogari Firefox">
 <!ENTITY fxaccount_status_signed_in_as "I futur si">
@@ -205,11 +205,11 @@
 <!ENTITY fxaccount_status_needs_credentials "Nuk lidhet dot. Prekeni që të hyni.">
 <!ENTITY fxaccount_status_needs_upgrade "Lypset të përmirësoni &brandShortName;-un që të hyni.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; është rregulluar, por nuk njëkohëson vetvetiu. Zgjidhni “Vetënjëkohësim të dhënash” te Rregullime Për Android &gt; Përdorim të Dhënash.">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 'është rregulluar, por nuk njëkohëson vetvetiu. Zgjidhni “Vetënjëkohësim të dhënash” te Rregullime Për Android &gt; Llogari.'>
-<!ENTITY fxaccount_status_needs_finish_migrating 'Prekeni që të bëni hyrjen te Llogaria juaj e re Firefox.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "është rregulluar, por nuk njëkohëson vetvetiu. Zgjidhni “Vetënjëkohësim të dhënash” te Rregullime Për Android &gt; Llogari.">
+<!ENTITY fxaccount_status_needs_finish_migrating "Prekeni që të bëni hyrjen te Llogaria juaj e re Firefox.">
 <!ENTITY fxaccount_status_bookmarks "Faqerojtës">
 <!ENTITY fxaccount_status_history "Historik">
-<!ENTITY fxaccount_status_passwords "Fjalëkalime">
+<!ENTITY fxaccount_status_passwords2 "Hyrje">
 <!ENTITY fxaccount_status_tabs "Skeda të hapura">
 <!ENTITY fxaccount_status_legal "Ligjore" >
 <!-- Localization note: when tapped, the following two strings link to
@@ -221,7 +221,7 @@
 <!ENTITY fxaccount_status_more "Më tepër&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "Të hiqet Llogaria Firefox?">
-<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName;-i do të reshtë së njëkohësuari me llogarinë tuaj, por s\’do të fshijë ndonjë nga të dhënat e shfletimit tuaj në këtë pajisje.">
+<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName;-i do të reshtë së njëkohësuari me llogarinë tuaj, por s’do të fshijë ndonjë nga të dhënat e shfletimit tuaj në këtë pajisje.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "Llogaria Firefox për &formatS; u hoq.">
@@ -255,14 +255,14 @@
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Shërbyes i zënë, riprovoni së shpejti">
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Pati një problem">
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Nuk lidhet dot në rrjet">
-<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Llogaria është e kyçur. &formatS1;'>
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "Llogaria është e kyçur. &formatS1;">
 
-<!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label;-u nuk është i lidhur">
+<!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label;-u s’është i lidhur">
 <!-- Note to translators: the format string below will be replaced
      with the Firefox account"s email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Prekeni që të hyni si &formatS;">
 
-<!ENTITY fxaccount_sync_finish_migrating_notification_title 'Të përfundohet përmirësimi i &syncBrand.shortName.label;-ut?'>
+<!ENTITY fxaccount_sync_finish_migrating_notification_title "Të përfundohet përmirësimi i &syncBrand.shortName.label;-ut?">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_finish_migrating_notification_text 'Prekeni që të hyni si &formatS;'>
+<!ENTITY fxaccount_sync_finish_migrating_notification_text "Prekeni që të hyni si &formatS;">
