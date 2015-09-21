@@ -44,7 +44,7 @@
 <!ENTITY saveFileCmd.commandkey       "s">
 
 <!ENTITY saveFileAsCmd.label          "নতুন রূপে সংরক্ষণ…">
-<!ENTITY saveFileAsCmd.accesskey      "ন">
+<!ENTITY saveFileAsCmd.accesskey      "A">
 
 <!ENTITY closeCmd.label               "বন্ধ করুন">
 <!ENTITY closeCmd.key                 "W">
@@ -56,7 +56,7 @@
 <!ENTITY lineNumbers.label             "লাইন সংখ্যা দেখান">
 <!ENTITY lineNumbers.accesskey         "ল">
 
-<!ENTITY wordWrap.label                "পাঠ্য মোড়ান(W)">
+<!ENTITY wordWrap.label                "পাঠ্য মোড়ান">
 <!ENTITY wordWrap.accesskey            "W">
 
 <!ENTITY highlightTrailingSpace.label     "ট্রেলিং স্পেস হাইলাইট করুন">
@@ -115,7 +115,7 @@
   -->
 
 <!ENTITY browserContext.label         "ব্রাউজার">
-<!ENTITY browserContext.accesskey     "ব">
+<!ENTITY browserContext.accesskey     "B">
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
   -  for the help button in the menubar but Gnome does not.
   -->
@@ -125,7 +125,7 @@
 <!ENTITY helpMenuWin.label            "সহায়তা">
 <!ENTITY helpMenuWin.accesskey        "H">
 
-<!ENTITY documentationLink.label      "MDN-এ উপস্থিত Scratchpad-র সহায়তা">
+<!ENTITY documentationLink.label      "MDN-এ উপস্থিত স্ক্র্যাচপ্যাডের সহায়তা">
 <!ENTITY documentationLink.accesskey  "D">
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.

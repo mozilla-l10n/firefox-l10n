@@ -11,11 +11,11 @@
 
 <!ENTITY importFromIE.label             "Microsoft ইন্টারনেট এক্সপ্লোরার">
 <!ENTITY importFromIE.accesskey         "M">
-<!ENTITY importFromEdge.label           "Microsoft এজ (E)">
+<!ENTITY importFromEdge.label           "Microsoft এজ">
 <!ENTITY importFromEdge.accesskey       "E">
-<!ENTITY importFromNothing.label        "Don't import anything">
+<!ENTITY importFromNothing.label        "কিছু আমদানি করতে হবে না">
 <!ENTITY importFromNothing.accesskey    "D">
-<!ENTITY importFromSafari.label         "Safari">
+<!ENTITY importFromSafari.label         "সাফারি">
 <!ENTITY importFromSafari.accesskey     "S">
 <!ENTITY importFromCanary.label         "Chrome ক্যানারি (n)">
 <!ENTITY importFromCanary.accesskey     "n">

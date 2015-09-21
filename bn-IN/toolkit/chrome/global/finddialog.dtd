@@ -16,7 +16,7 @@
 <!ENTITY cancelButton.label "বাতিল">
 <!ENTITY closeButton.label "বন্ধ">
 <!ENTITY up.label "উপরে">
-<!ENTITY up.accesskey "উ">
+<!ENTITY up.accesskey "U">
 <!ENTITY down.label "নীচে">
 <!ENTITY down.accesskey "ন">
 <!ENTITY direction.label "দিশা">

@@ -54,7 +54,7 @@
      is a checkbox that toggles the default global behavior for add-on update
      checking. -->
 <!ENTITY updates.updateAddonsAutomatically.label     "স্বয়ংক্রিয়ভাবে অতিরিক্ত সামগ্রী আপডেট করা হবে">
-<!ENTITY updates.updateAddonsAutomatically.accesskey "স">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "A">
 <!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
      Specific addons can have custom update checking behaviors ("Manually",
      "Automatically", "Use default global behavior"). These menu items reset the
@@ -84,7 +84,7 @@
 <!ENTITY cmd.preferencesUnix.label            "পছন্দ">
 <!ENTITY cmd.preferencesUnix.accesskey        "প">
 <!ENTITY cmd.about.label                      "পরিচিতি">
-<!ENTITY cmd.about.accesskey                  "প">
+<!ENTITY cmd.about.accesskey                  "A">
 
 <!ENTITY cmd.enableAddon.label                "সক্রিয় করুন">
 <!ENTITY cmd.enableAddon.accesskey            "স">

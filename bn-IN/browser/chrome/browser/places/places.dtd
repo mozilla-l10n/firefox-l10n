@@ -23,7 +23,7 @@
 <!ENTITY view.unsorted.label            "অবিন্যাস্ত">
 <!ENTITY view.unsorted.accesskey        "অ">
 <!ENTITY view.sortAscending.label       "ছোট থেকে বড়">
-<!ENTITY view.sortAscending.accesskey   "ছ">
+<!ENTITY view.sortAscending.accesskey   "A">
 <!ENTITY view.sortDescending.label      "বড় থেকে ছোট">
 <!ENTITY view.sortDescending.accesskey  "ব">
 
@@ -32,17 +32,17 @@
 <!ENTITY exportBookmarksToHTML.label       "HTML-এ বুকমার্ক এক্সপোর্ট করুন…">
 <!ENTITY exportBookmarksToHTML.accesskey   "E">
 <!ENTITY importOtherBrowser.label          "অন্য ব্রাউজার থেকে তথ্য ইম্পোর্ট করুন…">
-<!ENTITY importOtherBrowser.accesskey      "অ">
+<!ENTITY importOtherBrowser.accesskey      "A">
 
 <!ENTITY cmd.backup.label               "ব্যাক-আপ করুন…">
-<!ENTITY cmd.backup.accesskey           "ব">
+<!ENTITY cmd.backup.accesskey           "B">
 <!ENTITY cmd.restore2.label             "পুনরুদ্ধার">
 <!ENTITY cmd.restore2.accesskey         "প">
 <!ENTITY cmd.restoreFromFile.label      "ফাইল নির্বাচন করুন…">
 <!ENTITY cmd.restoreFromFile.accesskey  "ফ">
 
 <!ENTITY cmd.bookmarkLink.label         "বর্তমান পৃষ্ঠা বুকমার্ক করুন…">
-<!ENTITY cmd.bookmarkLink.accesskey     "ব">
+<!ENTITY cmd.bookmarkLink.accesskey     "B">
 <!ENTITY cmd.delete.label               "বর্তমান পৃষ্ঠা মুছে ফেলুন">
 <!ENTITY cmd.delete.accesskey           "ব">
 <!ENTITY cmd.deleteDomainData.label     "এই সাইট সম্বন্ধে তথ্য সংরক্ষণ করা হবে না">
@@ -67,7 +67,7 @@
 <!ENTITY cmd.context_sortby_name.accesskey  "r">
 
 <!ENTITY cmd.new_bookmark.label            "নতুন বুকমার্ক…">
-<!ENTITY cmd.new_bookmark.accesskey        "ন">
+<!ENTITY cmd.new_bookmark.accesskey        "B">
 <!ENTITY cmd.new_folder.label              "নতুন ফোল্ডার…">
 <!ENTITY cmd.new_folder.accesskey          "ন">
 <!ENTITY cmd.context_new_folder.accesskey  "F">

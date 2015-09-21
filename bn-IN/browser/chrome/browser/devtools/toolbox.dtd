@@ -202,7 +202,7 @@ Gecko প্ল্যাটফর্ম সংকেত অন্তর্ভু
 <!ENTITY options.sourceeditor.autoclosebrackets.tooltip "সমাপ্তি বন্ধনী স্বয়ংক্রিয় ভাবে দিন">
 <!ENTITY options.sourceeditor.expandtab.label           "শূন্যস্থান দিয়ে ইন্ডেন্ট">
 <!ENTITY options.sourceeditor.expandtab.tooltip         "ট্যাব অক্ষরের বদলে স্পেস ব্যবহার করুন">
-<!ENTITY options.sourceeditor.tabsize.label             "ট্যাবের মাপ(T)">
+<!ENTITY options.sourceeditor.tabsize.label             "ট্যাবের মাপ">
 <!ENTITY options.sourceeditor.tabsize.accesskey         "T">
 <!ENTITY options.sourceeditor.keybinding.label          "কি-বাইন্ডিং">
 <!ENTITY options.sourceeditor.keybinding.accesskey      "K">

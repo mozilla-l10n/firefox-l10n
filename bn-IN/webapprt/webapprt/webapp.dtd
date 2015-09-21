@@ -26,24 +26,24 @@
 
 <!ENTITY quitApplicationCmdUnix.key          "Q">
 
-<!ENTITY editMenu.label                     "সম্পাদনা (E)">
+<!ENTITY editMenu.label                     "সম্পাদনা">
 <!ENTITY editMenu.accesskey                 "E">
-<!ENTITY undoCmd.label                      "পূর্বাবস্থা (U)">
+<!ENTITY undoCmd.label                      "পূর্বাবস্থা">
 <!ENTITY undoCmd.key                        "Z">
 <!ENTITY undoCmd.accesskey                  "U">
-<!ENTITY redoCmd.label                      "পুনরাবৃত্তি (R)">
+<!ENTITY redoCmd.label                      "পুনরাবৃত্তি">
 <!ENTITY redoCmd.key                        "Y">
 <!ENTITY redoCmd.accesskey                  "R">
 <!ENTITY cutCmd.label                       "কাট করুন (t)">
 <!ENTITY cutCmd.key                         "X">
 <!ENTITY cutCmd.accesskey                   "t">
-<!ENTITY copyCmd.label                      "কপি করুন (C)">
+<!ENTITY copyCmd.label                      "কপি করুন">
 <!ENTITY copyCmd.key                        "C">
 <!ENTITY copyCmd.accesskey                  "C">
 <!ENTITY pasteCmd.label                     "পেস্ট করুন">
 <!ENTITY pasteCmd.key                       "V">
 <!ENTITY pasteCmd.accesskey                 "P">
-<!ENTITY deleteCmd.label                    "মুছে ফেলুন (D)">
+<!ENTITY deleteCmd.label                    "মুছে ফেলুন">
 <!ENTITY deleteCmd.key                      "D">
 <!ENTITY deleteCmd.accesskey                "D">
 <!ENTITY selectAllCmd.label                 "সমগ্র নির্বাচন করুন">

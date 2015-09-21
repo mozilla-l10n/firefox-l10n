@@ -23,18 +23,18 @@
 <!ENTITY helpKeyboardShortcuts.label     "এবং কিবোর্ড শর্টকাট সমূহ">
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
 
-<!ENTITY helpSafeMode.label       "অতিরিক্ত সামগ্রী নিষ্ক্রিয় করে পুনরারম্ভ(R) করুন…">
+<!ENTITY helpSafeMode.label       "অতিরিক্ত সামগ্রী নিষ্ক্রিয় করে পুনরারম্ভ করুন…">
 <!ENTITY helpSafeMode.accesskey   "R">
-<!ENTITY helpSafeMode.stop.label       "অ্যাড-অন সক্রিয় করে পুনরায় চালু করুন(R)">
+<!ENTITY helpSafeMode.stop.label       "অ্যাড-অন সক্রিয় করে পুনরায় চালু করুন">
 <!ENTITY helpSafeMode.stop.accesskey   "R">
 
 <!ENTITY healthReport2.label      "&brandShorterName; স্বাস্থ্য রিপোর্ট">
 <!ENTITY healthReport2.accesskey  "e">
 
-<!ENTITY helpTroubleshootingInfo.label      "সমস্যা সমাধান(T) সংক্রান্ত তথ্য">
+<!ENTITY helpTroubleshootingInfo.label      "সমস্যা সমাধান সংক্রান্ত তথ্য">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
-<!ENTITY helpFeedbackPage.label      "মতামত জানান(S)…">
+<!ENTITY helpFeedbackPage.label      "মতামত জানান…">
 <!ENTITY helpFeedbackPage.accesskey  "S">
 
 <!ENTITY helpShowTour2.label            "&brandShorterName; ট্যুর">

@@ -32,7 +32,7 @@
 <!ENTITY  suggestionSettings.accesskey  "g">
 
 <!ENTITY  acceptCookies.label           "সাইট থেকে কুকি গ্রহণ করা হবে">
-<!ENTITY  acceptCookies.accesskey       "স">
+<!ENTITY  acceptCookies.accesskey       "A">
 
 <!ENTITY  acceptThirdParty.pre.label      "তৃতীয় পক্ষের কুকি গ্রহণ করুন:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "ত">

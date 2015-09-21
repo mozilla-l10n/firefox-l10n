@@ -64,7 +64,7 @@
 <!ENTITY certmgr.delete_builtin.label         "মুছে ফেলুন অথবা অবিশ্বস্ত রূপে চিহ্নিত করুন…">
 <!ENTITY certmgr.delete_builtin.accesskey     "ম">
 <!ENTITY certmgr.backup2.label                "ব্যাক-আপ করুন…">
-<!ENTITY certmgr.backup2.accesskey            "ব">
+<!ENTITY certmgr.backup2.accesskey            "B">
 <!ENTITY certmgr.backupall2.label             "সমগ্র ব্যাক-আপ করুন…">
 <!ENTITY certmgr.backupall2.accesskey         "স">
 <!ENTITY certmgr.restore2.label               "ইম্পোর্ট করুন…">

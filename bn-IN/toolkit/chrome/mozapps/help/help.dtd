@@ -9,7 +9,7 @@
 <!ENTITY findAgainCmd.commandkey2       "VK_F3">
 
 <!ENTITY backButton.label               "পূর্ববর্তী">
-<!ENTITY backButton.accesskey           "প">
+<!ENTITY backButton.accesskey           "B">
 <!ENTITY backButton.tooltip             "সর্বশেষ পূর্ববর্তী পৃষ্ঠায় প্রত্যাবর্তন করুন">
 <!ENTITY forwardButton.label            "পরবর্তী">
 <!ENTITY forwardButton.accesskey        "প">
@@ -17,7 +17,7 @@
 <!ENTITY copyCmd.label                  "কপি করুন">
 <!ENTITY copyCmd.accesskey              "ক">
 <!ENTITY selectAllCmd.label             "সমগ্র নির্বাচন">
-<!ENTITY selectAllCmd.accesskey         "স">
+<!ENTITY selectAllCmd.accesskey         "A">
 <!ENTITY goBackCmd.commandkey           "[">
 <!ENTITY goForwardCmd.commandkey        "]">
 <!ENTITY homeButton.label               "হোম">

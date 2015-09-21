@@ -17,7 +17,7 @@
 <!ENTITY  manualTypeRadio.label         "ব্যবহারকারী দ্বারা প্রক্সি কনফিগারেশন">
 <!ENTITY  manualTypeRadio.accesskey     "ব">
 <!ENTITY  autoTypeRadio.label           "স্বয়ংক্রিয়ভাবে প্রক্সি কনফিগার করার URL:">
-<!ENTITY  autoTypeRadio.accesskey       "স">
+<!ENTITY  autoTypeRadio.accesskey       "A">
 <!ENTITY  reload.label                  "পুনরায় লোড">
 <!ENTITY  reload.accesskey              "প">
 <!ENTITY  ftp.label                     "FTP প্রক্সি:">
@@ -26,7 +26,7 @@
 <!ENTITY  http.accesskey                "x">
 <!ENTITY  ssl.label                     "SSL প্রক্সি:">
 <!ENTITY  ssl.accesskey                 "L">
-<!ENTITY  socks.label                   "SOCKS হোস্ট:">
+<!ENTITY  socks.label                   "সক্স হোস্ট:">
 <!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "সক্স v4">
 <!ENTITY  socks4.accesskey              "K">

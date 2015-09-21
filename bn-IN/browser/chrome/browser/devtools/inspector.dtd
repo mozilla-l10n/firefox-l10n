@@ -1,7 +1,7 @@
 <!-- LOCALIZATION NOTE (inspectorHTMLEdit.label): This is the label shown
      in the inspector contextual-menu for the item that lets users edit the
      (outer) HTML of the current node -->
-<!ENTITY inspectorHTMLEdit.label       "HTML হিসাবে সম্পাদনা করুন(E)">
+<!ENTITY inspectorHTMLEdit.label       "HTML হিসাবে সম্পাদনা করুন">
 <!ENTITY inspectorHTMLEdit.accesskey   "E">
 <!-- LOCALIZATION NOTE (inspectorHTMLCopyInner.label): This is the label shown
      in the inspector contextual-menu for the item that lets users copy the
@@ -19,7 +19,7 @@
      shown in the inspector contextual-menu for the item that lets users copy
      the CSS Selector of the current node -->
 
-<!ENTITY inspectorCopyUniqueSelector.label       "Copy Unique Selector">
+<!ENTITY inspectorCopyUniqueSelector.label       "অনন্য সিলেক্টর কপি করো">
 <!ENTITY inspectorCopyUniqueSelector.accesskey   "U">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteOuter.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste outer
@@ -71,13 +71,13 @@
      shown in the inspector contextual-menu for the item that lets users scroll
      the current node into view -->
 
-<!ENTITY inspectorScrollNodeIntoView.label       "দেখতে হলে স্ক্রল করুন(S)">
+<!ENTITY inspectorScrollNodeIntoView.label       "দেখতে হলে স্ক্রল করুন">
 <!ENTITY inspectorScrollNodeIntoView.accesskey   "S">
 <!-- LOCALIZATION NOTE (inspectorHTMLDelete.label): This is the label shown in
      the inspector contextual-menu for the item that lets users delete the
      current node -->
 
-<!ENTITY inspectorHTMLDelete.label          "Delete Node">
+<!ENTITY inspectorHTMLDelete.label          "নোড মুছে ফেলুন">
 <!ENTITY inspectorHTMLDelete.accesskey      "D">
 
 <!ENTITY inspector.selectButton.tooltip     "Select element with mouse">

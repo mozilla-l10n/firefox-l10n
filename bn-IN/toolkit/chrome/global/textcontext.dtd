@@ -4,15 +4,15 @@
 
 <!ENTITY cutCmd.label "কাট করুন (t)">
 <!ENTITY cutCmd.accesskey "t">
-<!ENTITY copyCmd.label "কপি করুন (C)">
+<!ENTITY copyCmd.label "কপি করুন">
 <!ENTITY copyCmd.accesskey "C">
 <!ENTITY pasteCmd.label "পেস্ট করুন">
 <!ENTITY pasteCmd.accesskey "P">
-<!ENTITY undoCmd.label "পূর্বাবস্থা (U)">
+<!ENTITY undoCmd.label "পূর্বাবস্থা">
 <!ENTITY undoCmd.accesskey "U">
 <!ENTITY selectAllCmd.label "সমগ্র নির্বাচন করুন">
 <!ENTITY selectAllCmd.accesskey "A">
-<!ENTITY deleteCmd.label "মুছে ফেলুন (D)">
+<!ENTITY deleteCmd.label "মুছে ফেলুন">
 <!ENTITY deleteCmd.accesskey "D">
 
 <!ENTITY spellAddToDictionary.label "অভিধানে যোগ করুন (o)">

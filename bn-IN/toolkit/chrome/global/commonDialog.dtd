@@ -10,4 +10,4 @@
 <!ENTITY copyCmd.label    "কপি করুন">
 <!ENTITY copyCmd.accesskey "ক">
 <!ENTITY selectAllCmd.label "সমগ্র নির্বাচন করুন">
-<!ENTITY selectAllCmd.accesskey "স">
+<!ENTITY selectAllCmd.accesskey "A">
