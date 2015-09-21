@@ -83,10 +83,6 @@
 <!ENTITY fxaUnverified.label "Подтвердить свой аккаунт">
 <!ENTITY syncStartPanel2.heading "Синхронизация включена">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; сейчас начнёт синхронизироваться.">
-<!ENTITY syncErrorPanel.heading "Не удалось соединиться с сервером Синхронизации">
-<!ENTITY syncErrorPanel.subTitle "Войдите, чтобы возобновить синхронизацию.">
-<!ENTITY syncErrorPanel.signInButton.label "Войти">
-<!ENTITY syncErrorPanel.signInButton.accesskey "о">
 <!ENTITY fullScreenMinimize.tooltip "Свернуть">
 <!ENTITY fullScreenRestore.tooltip "Восстановить">
 <!ENTITY fullScreenClose.tooltip "Закрыть">
@@ -315,6 +311,10 @@
 <!ENTITY searchAfter.label "">
 <!ENTITY searchWithHeader.label "Искать в:">
 <!ENTITY changeSearchSettings.button "Изменить настройки поиска">
+<!ENTITY searchInNewTab.label "Искать в новой вкладке">
+<!ENTITY searchInNewTab.accesskey "а">
+<!ENTITY searchSetAsDefault.label "Установить как поисковую систему по умолчанию">
+<!ENTITY searchSetAsDefault.accesskey "о">
 <!ENTITY tabView.commandkey "e">
 <!ENTITY openLinkCmdInTab.label "Открыть ссылку в новой вкладке">
 <!ENTITY openLinkCmdInTab.accesskey "в">
@@ -503,11 +503,13 @@
 <!ENTITY identity.connectionFile "Эта страница хранится на вашем компьютере.">
 <!ENTITY identity.connectionVerified1 "Вы подключились по защищённому соединению к этому сайту, управляемому:">
 <!ENTITY identity.connectionInternal "Это защищённая страница &brandShortName;.">
+<!ENTITY identity.insecureLoginForms "Ваш логин может быть скомпрометирован.">
 <!ENTITY identity.activeBlocked "&brandShortName; заблокировал незащищённые части этой страницы.">
 <!ENTITY identity.passiveLoaded "Части этой страницы (такие как изображения) не защищены.">
 <!ENTITY identity.activeLoaded "Вы отключили защиту на этой странице.">
 <!ENTITY identity.weakEncryption "Эта страница использует слабое шифрование.">
 <!ENTITY identity.description.insecure "Ваше соединение с этим сайтом не защищено. Вводимая вами информация может быть видна посторонним (например, пароли, сообщения, номера кредитных карт и т.д.).">
+<!ENTITY identity.description.insecureLoginForms "Данные логина, вводимые вами на этой странице, не защищены и могут быть скомпрометированы.">
 <!ENTITY identity.description.weakCipher "Ваше соединение с этим веб-сайтом использует слабое шифрование и не защищено.">
 <!ENTITY identity.description.weakCipher2 "Посторонние лица могут просматривать вашу информацию или изменять поведение веб-сайта.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; заблокировал незащищённые части этой страницы.">
@@ -523,6 +525,7 @@
 <!ENTITY identity.learnMore "Подробнее">
 <!ENTITY identity.moreInfoLinkText2 "Подробнее">
 <!ENTITY identity.permissions "Разрешения">
+<!ENTITY identity.permissionsEmpty "Вы не давали этому сайту каких-либо специальных разрешений.">
 <!ENTITY tabsToolbar.label "Вкладки браузера">
 <!ENTITY syncTabsMenu2.label "Вкладки с других устройств">
 <!ENTITY syncBrand.shortName.label "Синхронизация">

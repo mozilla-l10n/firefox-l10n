@@ -9,8 +9,6 @@
 <!ENTITY pref.ssltls.title "Безопасность транспортного уровня (SSL/TLS)">
 <!ENTITY limit.description "Вы можете ограничить набор протоколов шифрования, используемый для защищённых соединений. Выберите одну версию или непрерывный диапазон версий.">
 <!ENTITY limit.enable.label "Включить:">
-<!ENTITY limit.ssl30.label "SSL 3.0">
-<!ENTITY limit.ssl30.accesskey "3">
 <!ENTITY limit.tls10.label "TLS 1.0">
 <!ENTITY limit.tls10.accesskey "T">
 <!ENTITY limit.tls11.label "TLS 1.1">
