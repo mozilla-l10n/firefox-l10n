@@ -5,7 +5,7 @@
 <!ENTITY  typeColumn.label        "বিষয়বস্তু প্রকৃতি(T)">
 <!ENTITY  typeColumn.accesskey    "T">
 
-<!ENTITY  actionColumn2.label     "কর্ম(A)">
+<!ENTITY  actionColumn2.label     "কর্ম">
 <!ENTITY  actionColumn2.accesskey "A">
 
 <!ENTITY  focusSearch1.key        "f">

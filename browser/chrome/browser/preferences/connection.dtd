@@ -23,12 +23,12 @@
 <!ENTITY  ftp.label                     "FTP প্রক্সি:">
 <!ENTITY  ftp.accesskey                 "F">
 <!ENTITY  http.label                    "HTTP প্রক্সি:">
-<!ENTITY  http.accesskey                "H">
+<!ENTITY  http.accesskey                "x">
 <!ENTITY  ssl.label                     "SSL প্রক্সি:">
 <!ENTITY  ssl.accesskey                 "L">
 <!ENTITY  socks.label                   "SOCKS হোস্ট:">
 <!ENTITY  socks.accesskey               "C">
-<!ENTITY  socks4.label                  "SOCKS v4">
+<!ENTITY  socks4.label                  "সক্স v4">
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">

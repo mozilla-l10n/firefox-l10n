@@ -28,9 +28,9 @@
 <!ENTITY view.sortDescending.accesskey  "ব">
 
 <!ENTITY importBookmarksFromHTML.label     "HTML থেকে বুকমার্ক ইম্পোর্ট করুন…">
-<!ENTITY importBookmarksFromHTML.accesskey "H">
+<!ENTITY importBookmarksFromHTML.accesskey "I">
 <!ENTITY exportBookmarksToHTML.label       "HTML-এ বুকমার্ক এক্সপোর্ট করুন…">
-<!ENTITY exportBookmarksToHTML.accesskey   "H">
+<!ENTITY exportBookmarksToHTML.accesskey   "E">
 <!ENTITY importOtherBrowser.label          "অন্য ব্রাউজার থেকে তথ্য ইম্পোর্ট করুন…">
 <!ENTITY importOtherBrowser.accesskey      "অ">
 
@@ -52,7 +52,7 @@
 <!ENTITY cmd.open.accesskey              "খ">
 <!ENTITY cmd.open_window.label           "নতুন উইন্ডোর মধ্যে খোলা হবে">
 <!ENTITY cmd.open_window.accesskey       "ন">
-<!ENTITY cmd.open_private_window.label     "নতুন এবং গোপন(P) উইন্ডোর মধ্যে খুলুন">
+<!ENTITY cmd.open_private_window.label     "নতুন এবং গোপন উইন্ডোর মধ্যে খুলুন">
 <!ENTITY cmd.open_private_window.accesskey "P">
 <!ENTITY cmd.open_tab.label              "নতুন ট্যাবের মধ্যে খোলা হবে">
 <!ENTITY cmd.open_tab.accesskey          "ন">

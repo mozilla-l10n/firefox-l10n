@@ -59,10 +59,10 @@
 <!ENTITY wordWrap.label                "পাঠ্য মোড়ান(W)">
 <!ENTITY wordWrap.accesskey            "W">
 
-<!ENTITY highlightTrailingSpace.label     "ট্রেলিং স্পেস হাইলাইট করুন(H)">
+<!ENTITY highlightTrailingSpace.label     "ট্রেলিং স্পেস হাইলাইট করুন">
 <!ENTITY highlightTrailingSpace.accesskey "H">
 
-<!ENTITY largerFont.label             "অপেক্ষাকৃত বড় হরফ(a)">
+<!ENTITY largerFont.label             "অপেক্ষাকৃত বড় হরফ">
 <!ENTITY largerFont.accesskey         "a">
 <!ENTITY largerFont.commandkey        "+">
 <!-- + is above this key on many keyboards -->
@@ -120,9 +120,9 @@
   -  for the help button in the menubar but Gnome does not.
   -->
 
-<!ENTITY helpMenu.label               "সহায়তা (H)">
+<!ENTITY helpMenu.label               "সহায়তা">
 <!ENTITY helpMenu.accesskey           "H">
-<!ENTITY helpMenuWin.label            "সহায়তা (H)">
+<!ENTITY helpMenuWin.label            "সহায়তা">
 <!ENTITY helpMenuWin.accesskey        "H">
 
 <!ENTITY documentationLink.label      "MDN-এ উপস্থিত Scratchpad-র সহায়তা">

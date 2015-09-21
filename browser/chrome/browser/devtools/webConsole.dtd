@@ -31,7 +31,7 @@
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
 
-<!ENTITY saveBodies.label     "Log Request and Response Bodies">
+<!ENTITY saveBodies.label     "লগ আবেদন ও রেস্পন্স বডি">
 <!ENTITY saveBodies.accesskey "L">
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
@@ -43,7 +43,7 @@
   -  This string and the following strings toggle various kinds of output
   -  filters. -->
 
-<!ENTITY btnPageNet.label   "নেট(N)">
+<!ENTITY btnPageNet.label   "নেট">
 <!ENTITY btnPageNet.tooltip "Log network access">
 <!ENTITY btnPageNet.accesskey "N">
 <!-- LOCALIZATION NOTE (btnPageNet.accesskeyMacOSX): This string is used as
@@ -102,7 +102,7 @@
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY copyURLCmd.label     "Copy Link Location">
+<!ENTITY copyURLCmd.label     "লিংকের অবস্থান অনুলিপি করুন">
 <!ENTITY copyURLCmd.accesskey "a">
 
 <!ENTITY closeCmd.key         "W">

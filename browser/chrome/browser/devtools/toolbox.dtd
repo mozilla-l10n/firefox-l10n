@@ -102,7 +102,7 @@
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
 
-<!ENTITY options.disableJavaScript.label     "&amp;JavaScript * নিষ্ক্রিয় করুন">
+<!ENTITY options.disableJavaScript.label     "JavaScript* নিষ্ক্রিয় করুন">
 <!ENTITY options.disableJavaScript.tooltip   "এই বিকল্প চালু করা হলে, বর্তমান ট্যাবের ক্ষেত্রে JavaScript নিষ্ক্রিয় করা হবে। ট্যাব বা টুলবক্স বন্ধ থাকলে, এই সেটিং প্রযোজ্য হবে না।">
 <!-- LOCALIZATION NOTE (options.disableCache.label2,
   -  options.disableCache.tooltip2): This is the options panel label and
@@ -204,7 +204,7 @@ Gecko প্ল্যাটফর্ম সংকেত অন্তর্ভু
 <!ENTITY options.sourceeditor.expandtab.tooltip         "ট্যাব অক্ষরের বদলে স্পেস ব্যবহার করুন">
 <!ENTITY options.sourceeditor.tabsize.label             "ট্যাবের মাপ(T)">
 <!ENTITY options.sourceeditor.tabsize.accesskey         "T">
-<!ENTITY options.sourceeditor.keybinding.label          "কি-বাইন্ডিং(K)">
+<!ENTITY options.sourceeditor.keybinding.label          "কি-বাইন্ডিং">
 <!ENTITY options.sourceeditor.keybinding.accesskey      "K">
 <!ENTITY options.sourceeditor.keybinding.default.label  "ডিফল্ট">
 
