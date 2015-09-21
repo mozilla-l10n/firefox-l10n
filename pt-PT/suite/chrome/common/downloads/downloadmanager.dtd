@@ -22,9 +22,9 @@
 <!ENTITY col.status.label                "Estado">
 <!ENTITY col.status.accesskey            "s">
 <!ENTITY col.status.tooltip              "Estado">
-<!ENTITY col.actionPlay.label            "Pausa/retomar/tentar novamente">
+<!ENTITY col.actionPlay.label            "Pausar/Retomar/Voltar a tentar">
 <!ENTITY col.actionPlay.accesskey        "u">
-<!ENTITY col.actionPlay.tooltip          "Pausa/retomar/tentar novamente">
+<!ENTITY col.actionPlay.tooltip          "Pausar/Retomar/Voltar a tentar">
 <!ENTITY col.actionStop.label            "Cancelar/remover">
 <!ENTITY col.actionStop.accesskey        "C">
 <!ENTITY col.actionStop.tooltip          "Cancelar/remover">
