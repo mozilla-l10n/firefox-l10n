@@ -18,7 +18,7 @@
 <!ENTITY  serif.accesskey                         "S">
 <!ENTITY  sans-serif.label                        "সান্স-সেরিফ (Sans-serif):">
 <!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "মোনোস্পেস (Monospace):">
+<!ENTITY  monospace.label                         "মোনোস্পেস:">
 <!ENTITY  monospace.accesskey                     "M">
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->

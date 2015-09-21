@@ -7,13 +7,13 @@
      in the inspector contextual-menu for the item that lets users copy the
      inner HTML of the current node -->
 
-<!ENTITY inspectorHTMLCopyInner.label       "Copy Inner HTML">
+<!ENTITY inspectorHTMLCopyInner.label       "ভেতরের HTML অনুলিপি করুন">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "I">
 <!-- LOCALIZATION NOTE (inspectorHTMLCopyOuter.label): This is the label shown
      in the inspector contextual-menu for the item that lets users copy the
      outer HTML of the current node -->
 
-<!ENTITY inspectorHTMLCopyOuter.label       "Copy Outer HTML">
+<!ENTITY inspectorHTMLCopyOuter.label       "বাইরের HTML অনুলিপি করুন">
 <!ENTITY inspectorHTMLCopyOuter.accesskey   "O">
 <!-- LOCALIZATION NOTE (inspectorCopyUniqueSelector.label): This is the label
      shown in the inspector contextual-menu for the item that lets users copy
@@ -25,7 +25,7 @@
      in the inspector contextual-menu for the item that lets users paste outer
      HTML in the current node -->
 
-<!ENTITY inspectorHTMLPasteOuter.label      "অাউটার HTML পেস্ট করুন(P)">
+<!ENTITY inspectorHTMLPasteOuter.label      "অাউটার HTML পেস্ট করুন">
 <!ENTITY inspectorHTMLPasteOuter.accesskey  "P">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteInner.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste inner
@@ -47,25 +47,25 @@
      in the inspector contextual-menu for the item that lets users paste
      the HTML before the current node -->
 
-<!ENTITY inspectorHTMLPasteBefore.label      "পূর্বে(B)">
+<!ENTITY inspectorHTMLPasteBefore.label      "পূর্বে">
 <!ENTITY inspectorHTMLPasteBefore.accesskey  "B">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteAfter.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste
      the HTML after the current node -->
 
-<!ENTITY inspectorHTMLPasteAfter.label       "পরে(A)">
+<!ENTITY inspectorHTMLPasteAfter.label       "পরে">
 <!ENTITY inspectorHTMLPasteAfter.accesskey   "A">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteFirstChild.label): This is the label
      shown in the inspector contextual-menu for the item that lets users paste
      the HTML as the first child the current node -->
 
-<!ENTITY inspectorHTMLPasteFirstChild.label      "প্রথম সন্তান হিসেবে(F)">
+<!ENTITY inspectorHTMLPasteFirstChild.label      "প্রথম সন্তান হিসেবে">
 <!ENTITY inspectorHTMLPasteFirstChild.accesskey  "F">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteLastChild.label): This is the label
      shown in the inspector contextual-menu for the item that lets users paste
      the HTML as the last child the current node -->
 
-<!ENTITY inspectorHTMLPasteLastChild.label       "শেষ সন্তান হিসেবে(L)">
+<!ENTITY inspectorHTMLPasteLastChild.label       "শেষ সন্তান হিসেবে">
 <!ENTITY inspectorHTMLPasteLastChild.accesskey   "L">
 <!-- LOCALIZATION NOTE (inspectorScrollNodeIntoView.label): This is the label
      shown in the inspector contextual-menu for the item that lets users scroll

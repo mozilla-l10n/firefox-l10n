@@ -56,9 +56,9 @@ that require it.  -->
 <!ENTITY itemCookies.accesskey             "C">
 <!ENTITY itemCache.label                   "&amp;ক্যাশে(C)">
 <!ENTITY itemCache.accesskey               ")">
-<!ENTITY itemOfflineApps.label             "অফ-লাইন ওয়েব-সাইটের তথ্য(O)">
+<!ENTITY itemOfflineApps.label             "অফ-লাইন ওয়েব-সাইটের তথ্য">
 <!ENTITY itemOfflineApps.accesskey         "O">
-<!ENTITY itemActiveLogins.label            "সক্রিয় প্লাগ-ইন(L)">
+<!ENTITY itemActiveLogins.label            "সক্রিয় প্লাগ-ইন">
 <!ENTITY itemActiveLogins.accesskey        "L">
 <!ENTITY itemSitePreferences.label         "সাইট সংক্রান্ত পছন্দসই মান(S)">
 <!ENTITY itemSitePreferences.accesskey     "S">

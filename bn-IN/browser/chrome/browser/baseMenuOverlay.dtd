@@ -8,19 +8,19 @@
 <!ENTITY zoomWindow.label         "বড় করে প্রদর্শন">
 <!ENTITY windowMenu.label         "উইন্ডো">
 
-<!ENTITY helpMenu.label           "সহায়তা(H)"> 
+<!ENTITY helpMenu.label           "সহায়তা"> 
 <!ENTITY helpMenu.accesskey       "H"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "সহায়তা(H)"> 
+<!ENTITY helpMenuWin.label        "সহায়তা"> 
 <!ENTITY helpMenuWin.accesskey    "H">
-<!ENTITY aboutProduct2.label      "About &brandShorterName;">
+<!ENTITY aboutProduct2.label      "&brandShorterName; সম্পর্কে">
 <!ENTITY aboutProduct2.accesskey  "A">
 <!ENTITY productHelp2.label       "&brandShorterName; সহায়তা">
 <!ENTITY productHelp2.accesskey   "H">
 <!ENTITY helpMac.commandkey       "?">
 
-<!ENTITY helpKeyboardShortcuts.label     "এবং কিবোর্ড(K) শর্টকাট সমূহ">
+<!ENTITY helpKeyboardShortcuts.label     "এবং কিবোর্ড শর্টকাট সমূহ">
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
 
 <!ENTITY helpSafeMode.label       "অতিরিক্ত সামগ্রী নিষ্ক্রিয় করে পুনরারম্ভ(R) করুন…">

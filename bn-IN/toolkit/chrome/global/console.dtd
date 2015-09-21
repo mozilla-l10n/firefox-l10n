@@ -22,7 +22,7 @@
 <!ENTITY codeEval.accesskey "ক">
 <!ENTITY evaluate.label     "পরিসংখ্যান">
 <!ENTITY evaluate.accesskey "প">
-<!ENTITY filter2.label      "ফিল্টার: (F)">
+<!ENTITY filter2.label      "ফিল্টার:">
 <!ENTITY filter2.accesskey  "F">
 
 <!ENTITY copyCmd.label       "কপি করুন">  

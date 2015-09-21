@@ -10,11 +10,11 @@
      on web development on the web. -->
 
 
-<!ENTITY newButton.label            "New">
+<!ENTITY newButton.label            "নতুন">
 <!ENTITY newButton.tooltip          "Create and append a new style sheet to the document">
 <!ENTITY newButton.accesskey        "N">
 
-<!ENTITY importButton.label         "Import…">
+<!ENTITY importButton.label         "আমদানি…">
 <!ENTITY importButton.tooltip       "Import and append an existing style sheet to the document">
 <!ENTITY importButton.accesskey     "I">
 

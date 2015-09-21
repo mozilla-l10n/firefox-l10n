@@ -40,12 +40,12 @@
 <!ENTITY copyCmd.label                      "কপি করুন (C)">
 <!ENTITY copyCmd.key                        "C">
 <!ENTITY copyCmd.accesskey                  "C">
-<!ENTITY pasteCmd.label                     "পেস্ট করুন (P)">
+<!ENTITY pasteCmd.label                     "পেস্ট করুন">
 <!ENTITY pasteCmd.key                       "V">
 <!ENTITY pasteCmd.accesskey                 "P">
 <!ENTITY deleteCmd.label                    "মুছে ফেলুন (D)">
 <!ENTITY deleteCmd.key                      "D">
 <!ENTITY deleteCmd.accesskey                "D">
-<!ENTITY selectAllCmd.label                 "সমগ্র নির্বাচন করুন (A)">
+<!ENTITY selectAllCmd.label                 "সমগ্র নির্বাচন করুন">
 <!ENTITY selectAllCmd.key                   "A">
 <!ENTITY selectAllCmd.accesskey             "A">

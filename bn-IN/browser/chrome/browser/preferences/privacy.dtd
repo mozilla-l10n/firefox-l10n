@@ -19,11 +19,11 @@
 <!ENTITY  locationBar.label             "অবস্থানসূচক বার">
 
 <!ENTITY  locbar.suggest.label          "অবস্থানসূচক বার ব্যবহারের সময় নিম্নলিখিত প্রস্তাবিত তথ্য প্রদর্শন করা হবে:">
-<!ENTITY  locbar.history.label          "পূর্ববর্তী তথ্য(H)">
+<!ENTITY  locbar.history.label          "পূর্ববর্তী তথ্য">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "বুকমার্কসমূহ(k)">
 <!ENTITY  locbar.bookmarks.accesskey    "k">
-<!ENTITY  locbar.openpage.label         "ট্যাব খুলুন(O)">
+<!ENTITY  locbar.openpage.label         "ট্যাব খুলুন">
 <!ENTITY  locbar.openpage.accesskey     "O">
 <!ENTITY  locbar.searches.label         "ডিফল্ট সার্চ ইঞ্জিন থেকে এ সম্পর্কিত আরো অনুসন্ধান (d)">
 <!ENTITY  locbar.searches.accesskey     "d">
