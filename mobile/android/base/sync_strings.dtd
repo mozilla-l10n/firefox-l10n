@@ -37,8 +37,8 @@
 <!-- Setup Fail -->
 
 <!ENTITY sync.title.fail.label "Não foi possível configurar &syncBrand.shortName.label;">
-<!ENTITY sync.subtitle.fail.label "O &syncBrand.fullName.label; não se conseguiu ligar ao servidor. Deseja tentar novamente?">
-<!ENTITY sync.button.tryagain.label "Tentar novamente">
+<!ENTITY sync.subtitle.fail.label "O &syncBrand.fullName.label; não se conseguiu ligar ao servidor. Pretende voltar a tentar?">
+<!ENTITY sync.button.tryagain.label "Voltar a tentar">
 <!ENTITY sync.button.manual.label "Configuração manual">
 <!ENTITY sync.subtitle.nointernet.label "Nenhuma ligação de Internet disponível.">
 <!ENTITY sync.subtitle.failaccount.label "A criação da conta no seu dispositivo falhou.">
