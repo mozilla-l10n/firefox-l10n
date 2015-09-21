@@ -3,44 +3,37 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY migrationWizard.title          "Import Wizard">
+<!ENTITY migrationWizard.title          "Čarovnik za uvoz">
 
-<!ENTITY importFrom.label               "Import Options, Bookmarks, History, Passwords and other data from:">
-<!ENTITY importFromUnix.label           "Import Preferences, Bookmarks, History, Passwords and other data from:">
-<!ENTITY importFromBookmarks.label      "Import Bookmarks from:">
+<!ENTITY importFrom.label               "Uvozi možnosti, zaznamke, zgodovino, gesla in ostale podatke iz:">
+<!ENTITY importFromUnix.label           "Uvozi nastavitve, zaznamke, zgodovino, gesla in ostale podatke iz:">
+<!ENTITY importFromBookmarks.label      "Uvozi zaznamke iz:">
 
-<!ENTITY importFromIE.label             "Microsoft Internet Explorer">
+<!ENTITY importFromIE.label             "Microsoft Internet Explorerja">
 <!ENTITY importFromIE.accesskey         "M">
-<!ENTITY importFromEdge.label           "Microsoft Edge">
-<!ENTITY importFromEdge.accesskey       "E">
-<!ENTITY importFromNothing.label        "Don't import anything">
-<!ENTITY importFromNothing.accesskey    "D">
-<!ENTITY importFromSafari.label         "Safari">
+<!ENTITY importFromNothing.label        "Ne uvozi ničesar">
+<!ENTITY importFromNothing.accesskey    "N">
+<!ENTITY importFromSafari.label         "Safarija">
 <!ENTITY importFromSafari.accesskey     "S">
-<!ENTITY importFromCanary.label         "Chrome Canary">
-<!ENTITY importFromCanary.accesskey     "n">
-<!ENTITY importFromChrome.label         "Chrome">
+<!ENTITY importFromChrome.label         "Chroma">
 <!ENTITY importFromChrome.accesskey     "C">
-<!ENTITY importFromChromium.label       "Chromium">
-<!ENTITY importFromChromium.accesskey   "u">
-<!ENTITY importFromFirefox.label        "Firefox">
+<!ENTITY importFromFirefox.label        "Firefoxa">
 <!ENTITY importFromFirefox.accesskey    "X">
 <!ENTITY importFrom360se.label          "360 Secure Browser">
 <!ENTITY importFrom360se.accesskey      "3">
 
-<!ENTITY noMigrationSources.label       "No programs that contain bookmarks, history or password data could be found.">
+<!ENTITY noMigrationSources.label       "Ni bilo mogoče najti nobenega programa z zaznamki, zgodovino ali gesli za uvoz.">
 
-<!ENTITY importSource.title             "Import Settings and Data">
-<!ENTITY importItems.title              "Items to Import">
-<!ENTITY importItems.label              "Select which items to import:">
+<!ENTITY importSource.title             "Uvoz nastavitev in podatkov">
+<!ENTITY importItems.title              "Možnosti uvoza">
+<!ENTITY importItems.label              "Izberite, kaj želite uvoziti:">
 
-<!ENTITY migrating.title                "Importing…">
-<!ENTITY migrating.label                "The following items are currently being imported…">
+<!ENTITY migrating.title                "Uvoz ...">
+<!ENTITY migrating.label                "Trenutno se uvaža ...">
 
-<!ENTITY selectProfile.title            "Select Profile">
-<!ENTITY selectProfile.label            "The following profiles are available to import from:">
+<!ENTITY selectProfile.title            "Izbira profila">
+<!ENTITY selectProfile.label            "Uvoz je možen iz naslednjih profilov:">
 
-<!ENTITY done.title                     "Import Complete">
-<!ENTITY done.label                     "The following items were successfully imported:">
+<!ENTITY done.title                     "Konec uvoza">
+<!ENTITY done.label                     "Uspešno je bilo uvoženo naslednje:">
 
-<!ENTITY closeSourceBrowser.label       "Please ensure the selected browser is closed before continuing.">

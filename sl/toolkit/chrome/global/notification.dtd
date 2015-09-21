@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY closeNotification.tooltip "Close this message">
+<!ENTITY closeNotification.tooltip "Zapri to sporočilo">
 
-<!ENTITY closeNotificationItem.label "Not Now">
+<!ENTITY closeNotificationItem.label "Zaenkrat ne">
 
-<!ENTITY checkForUpdates "Check for updates…">
+<!ENTITY checkForUpdates "Preveri posodobitve …">
 
-<!ENTITY learnMore "Learn more…">
+<!ENTITY learnMore "Več o tem …">

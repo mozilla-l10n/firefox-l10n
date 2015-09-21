@@ -2,94 +2,85 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tracking.label                 "Tracking">
+<!ENTITY tracking.label                 "Sledenje">
 
-<!ENTITY dntTrackingNotOkay4.label     "Request that sites not track you">
-<!ENTITY dntTrackingNotOkay4.accesskey "n">
-<!ENTITY doNotTrackInfo.label          "Learn More">
-<!ENTITY trackingProtection5.label     "Use Tracking Protection">
-<!ENTITY trackingProtection5.accesskey "i">
-<!ENTITY trackingProtectionLearnMore.label "Learn more">
-<!ENTITY trackingProtectionPBM5.label         "Use Tracking Protection in Private Windows">
-<!ENTITY trackingProtectionPBM5.accesskey     "v">
-<!ENTITY trackingProtectionPBMLearnMore.label "Learn more">
+<!ENTITY doNotTrackInfo.label          "Več o tem">
+<!ENTITY trackingProtectionLearnMore.label "Več o tem">
 
-<!ENTITY  history.label                 "History">
+<!ENTITY  history.label                 "Zgodovina">
 
-<!ENTITY  locationBar.label             "Location Bar">
+<!ENTITY  locationBar.label             "Vrstica z naslovom">
 
-<!ENTITY  locbar.suggest.label          "When using the location bar, suggest:">
-<!ENTITY  locbar.history.label          "History">
-<!ENTITY  locbar.history.accesskey      "H">
-<!ENTITY  locbar.bookmarks.label        "Bookmarks">
+<!ENTITY  locbar.suggest.label          "Pri uporabi vrstice z naslovom predlagaj:">
+<!ENTITY  locbar.history.label          "Zgodovino">
+<!ENTITY  locbar.history.accesskey      "Z">
+<!ENTITY  locbar.bookmarks.label        "Zaznamke">
 <!ENTITY  locbar.bookmarks.accesskey    "k">
-<!ENTITY  locbar.openpage.label         "Open tabs">
+<!ENTITY  locbar.openpage.label         "Odprte zavihke">
 <!ENTITY  locbar.openpage.accesskey     "O">
-<!ENTITY  locbar.searches.label         "Related searches from the default search engine">
-<!ENTITY  locbar.searches.accesskey     "d">
+<!ENTITY  locbar.searches.label         "Povezana iskanja privzetega iskalnika">
+<!ENTITY  locbar.searches.accesskey     "P">
 
-<!ENTITY  suggestionSettings.label      "Change preferences for search engine suggestions…">
-<!ENTITY  suggestionSettings.accesskey  "g">
 
-<!ENTITY  acceptCookies.label           "Accept cookies from sites">
-<!ENTITY  acceptCookies.accesskey       "A">
+<!ENTITY  acceptCookies.label           "Dovoli stranem, da ustvarijo piškotke.">
+<!ENTITY  acceptCookies.accesskey       "v">
 
-<!ENTITY  acceptThirdParty.pre.label      "Accept third-party cookies:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "c">
-<!ENTITY  acceptThirdParty.always.label   "Always">
-<!ENTITY  acceptThirdParty.never.label    "Never">
-<!ENTITY  acceptThirdParty.visited.label  "From visited">
+<!ENTITY  acceptThirdParty.pre.label      "Sprejemaj piškotke tretjih strani:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "r">
+<!ENTITY  acceptThirdParty.always.label   "Vedno">
+<!ENTITY  acceptThirdParty.never.label    "Nikoli">
+<!ENTITY  acceptThirdParty.visited.label  "Izmed obiskanih">
 
-<!ENTITY  keepUntil.label               "Keep until:">
-<!ENTITY  keepUntil.accesskey           "u">
+<!ENTITY  keepUntil.label               "Obdrži jih:">
+<!ENTITY  keepUntil.accesskey           "O">
 
-<!ENTITY  expire.label                  "they expire">
-<!ENTITY  close.label                   "I close &brandShortName;">
-<!ENTITY  askEachTime.label             "ask me every time">
+<!ENTITY  expire.label                  "dokler ne pretečejo">
+<!ENTITY  close.label                   "dokler ne zaprem &brandShortName;a">
+<!ENTITY  askEachTime.label             "vsakokrat me vprašaj">
 
-<!ENTITY  cookieExceptions.label        "Exceptions…">
-<!ENTITY  cookieExceptions.accesskey    "E">
+<!ENTITY  cookieExceptions.label        "Izjeme …">
+<!ENTITY  cookieExceptions.accesskey    "Z">
 
-<!ENTITY  showCookies.label             "Show Cookies…">
-<!ENTITY  showCookies.accesskey         "S">
+<!ENTITY  showCookies.label             "Pokaži piškotke …">
+<!ENTITY  showCookies.accesskey         "K">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; will:">
-<!ENTITY  historyHeader.pre.accesskey      "w">
-<!ENTITY  historyHeader.remember.label     "Remember history">
-<!ENTITY  historyHeader.dontremember.label "Never remember history">
-<!ENTITY  historyHeader.custom.label       "Use custom settings for history">
+<!ENTITY  historyHeader.pre.label          "&brandShortName; naj:">
+<!ENTITY  historyHeader.pre.accesskey      "J">
+<!ENTITY  historyHeader.remember.label     "Shranjuje zgodovino">
+<!ENTITY  historyHeader.dontremember.label "Ne shranjuje zgodovine">
+<!ENTITY  historyHeader.custom.label       "Uporablja posebne nastavitve za zgodovino">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; will remember your browsing, download, form and search history, and keep cookies from websites you visit.">
+<!ENTITY  rememberDescription.label      "&brandShortName; si bo zapomnil zgodovino brskanja, prenosov, obrazcev in iskanja ter shranil piškotke spletnih strani, ki jih obiščete.">
 
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-<!ENTITY  rememberActions.pre.label           "You may want to ">
-<!ENTITY  rememberActions.clearHistory.label  "clear your recent history">
-<!ENTITY  rememberActions.middle.label        ", or ">
-<!ENTITY  rememberActions.removeCookies.label "remove individual cookies">
+<!ENTITY  rememberActions.pre.label           "Morda želite ">
+<!ENTITY  rememberActions.clearHistory.label  "počistiti nedavno zgodovino">
+<!ENTITY  rememberActions.middle.label        " ali ">
+<!ENTITY  rememberActions.removeCookies.label "odstraniti posamezne piškotke">
 <!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY  dontrememberDescription.label  "&brandShortName; will use the same settings as private browsing, and will not remember any history as you browse the Web.">
+<!ENTITY  dontrememberDescription.label  "&brandShortName; bo uporabljal enake nastavitve kot pri zasebnem brskanju in med brskanjem ne bo hranil nobene zgodovine.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-<!ENTITY  dontrememberActions.pre.label          "You may also want to ">
-<!ENTITY  dontrememberActions.clearHistory.label "clear all current history">
+<!ENTITY  dontrememberActions.pre.label          "Morda želite ">
+<!ENTITY  dontrememberActions.clearHistory.label "počistiti vso trenutno zgodovino">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent2.label "Always use private browsing mode">
-<!ENTITY  privateBrowsingPermanent2.accesskey "p">
+<!ENTITY  privateBrowsingPermanent2.label "Vedno uporabljaj zasebno brskanje">
+<!ENTITY  privateBrowsingPermanent2.accesskey "S">
 
-<!ENTITY  rememberHistory2.label      "Remember my browsing and download history">
+<!ENTITY  rememberHistory2.label      "Shranjuj zgodovino brskanja in prenosov">
 <!ENTITY  rememberHistory2.accesskey  "b">
 
-<!ENTITY  rememberSearchForm.label       "Remember search and form history">
-<!ENTITY  rememberSearchForm.accesskey   "f">
+<!ENTITY  rememberSearchForm.label       "Shranjuj zgodovino iskanja in obrazcev">
+<!ENTITY  rememberSearchForm.accesskey   "i">
 
-<!ENTITY  clearOnClose.label             "Clear history when &brandShortName; closes">
-<!ENTITY  clearOnClose.accesskey         "r">
+<!ENTITY  clearOnClose.label             "Počisti zgodovino ob izhodu iz programa &brandShortName;">
+<!ENTITY  clearOnClose.accesskey         "g">
 
-<!ENTITY  clearOnCloseSettings.label     "Settings…">
+<!ENTITY  clearOnCloseSettings.label     "Nastavitve …">
 <!ENTITY  clearOnCloseSettings.accesskey "t">

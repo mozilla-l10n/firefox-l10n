@@ -2,104 +2,104 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY loadError.label "Page Load Error">
-<!ENTITY retry.label "Try Again">
+<!ENTITY loadError.label "Napaka pri nalaganju strani">
+<!ENTITY retry.label "Poskusite znova">
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Failed to Connect">
-<!ENTITY connectionFailure.longDesc "<p>Though the site seems valid, the browser was unable to establish a connection.</p><ul><li>Could the site be temporarily unavailable? Try again later.</li><li>Are you unable to browse other sites?  Check the computer's network connection.</li><li>Is your computer or network protected by a firewall or proxy? Incorrect settings can interfere with Web browsing.</li></ul>">
+<!ENTITY connectionFailure.title "Povezava neuspešna">
+<!ENTITY connectionFailure.longDesc "<p>Brskalnik se ne more povezati na izbrano stran, čeprav je videti, da bi lahko obstajala.</p><ul><li>Morda je stran trenutno nedosegljiva. Poskusite ponovno nekoliko pozneje.</li><li>Če ne morete uporabljati nobene strani, preverite povezavo svojega računalnika do interneta.</li><li>Če uporabljate posrednika ali požarni zid, se prepričajte, da so vaše nastavitve pravilne.</li></ul>">
 
-<!ENTITY deniedPortAccess.title "Port Restricted for Security Reasons">
-<!ENTITY deniedPortAccess.longDesc "<p>The requested address specified a port (e.g. <q>mozilla.org:80</q> for port 80 on mozilla.org) normally used for purposes <em>other</em> than Web browsing. The browser has canceled the request for your protection and security.</p>">
+<!ENTITY deniedPortAccess.title "Vrata nesprejemljiva iz varnostnih razlogov">
+<!ENTITY deniedPortAccess.longDesc "<p>Zahtevan naslov določa, katera vrata naj se uporabijo (npr. <q>mozilla.org:80</q> pomeni vrata 80 na strežniku mozilla.org). Določena vrata se običajno uporabljajo za namene, ki <em>niso</em> brskanje po spletu. Brskalnik je preprečil to zahtevo zaradi varnostnih razlogov.</p>">
 
-<!ENTITY dnsNotFound.title "Address Not Found">
-<!ENTITY dnsNotFound.longDesc "<p>The browser could not find the host server for the provided address.</p><ul><li>Did you make a mistake when typing the domain? (e.g. <q><strong>ww</strong>.mozilla.org</q> instead of <q><strong>www</strong>.mozilla.org</q>)</li><li>Are you certain this domain address exists?  Its registration may have expired.</li><li>Are you unable to browse other sites?  Check your network connection and DNS server settings.</li><li>Is your computer or network protected by a firewall or proxy?  Incorrect settings can interfere with Web browsing.</li></ul>">
+<!ENTITY dnsNotFound.title "Naslova ni mogoče najti">
+<!ENTITY dnsNotFound.longDesc "<p>Brskalnik ne more najti gostitelja izbrane strani.</p><ul><li>Morda ste se zmotili pri črkovanju naslova (npr. <q><strong>ww</strong>.mozilla.org</q> namesto <q><strong>www</strong>.mozilla.org</q>).</li><li>Ste prepričani, da ta domena obstaja? Morda ji je pretekla registracija.</li><li>Če se težava pojavlja na več straneh, imate morda napačno nastavljeno povezavo in DNS.</li><li>Če uporabljate posrednika ali požarni zid, se prepričajte, da so vaše nastavitve pravilne.</li></ul>">
 
-<!ENTITY fileNotFound.title "File Not Found">
-<!ENTITY fileNotFound.longDesc "<ul><li>Could the item have been renamed, removed, or relocated?</li><li>Is there a spelling, capitalization, or other typographical error in the address?</li><li>Do you have sufficient access permissions to the requested item?</li></ul>">
+<!ENTITY fileNotFound.title "Datoteke ni mogoče najti">
+<!ENTITY fileNotFound.longDesc "<ul><li>Morda je bila želena datoteka preimenovana, izbrisana ali prestavljena.</li><li>Je njeno ime napačno črkovano, napisano z nepravilnimi velikimi in malimi črkami ali kako drugače narobe napisano?</li><li>Imate ustrezna dovoljenja za dostop do želene datoteke?</li></ul>">
 
-<!ENTITY generic.title "Cannot Complete Request">
-<!ENTITY generic.longDesc "<p>Additional information about this problem or error is currently unavailable.</p>">
+<!ENTITY generic.title "Zahteve ni mogoče izpolniti">
+<!ENTITY generic.longDesc "<p>Trenutno ni na voljo dodatnih podatkov o tem problemu oziroma o tej napaki.</p>">
 
-<!ENTITY malformedURI.title "Invalid Address">
-<!ENTITY malformedURI.longDesc "<p>The provided address is not in a recognized format. Please check the location bar for mistakes and try again.</p>">
+<!ENTITY malformedURI.title "Neveljaven naslov">
+<!ENTITY malformedURI.longDesc "Naslov ni v pravem formatu. Prosim, preverite, da se niste zmotili.">
 
-<!ENTITY netInterrupt.title "Data Transfer Interrupted">
-<!ENTITY netInterrupt.longDesc "<p>The browser connected successfully, but the connection was interrupted while transferring information.  Please try again.</p><ul><li>Are you unable to browse other sites? Check the computer's network connection.</li><li>Still having trouble? Consult your network administrator or Internet provider for assistance.</li></ul>">
+<!ENTITY netInterrupt.title "Prenos podatkov prekinjen">
+<!ENTITY netInterrupt.longDesc "<p>Brskalnik se je uspešno povezal, vendar je bila povezava prekinjena med prenosom podatkov. Prosim, poskusite znova.</p><ul><li>Če ne morete uporabljati nobene strani, preverite povezavo svojega računalnika do interneta.</li><li>Če težava ne izgine, se posvetujte s svojim skrbnikom sistema ali s ponudnikom internetnih storitev.</li></ul>">
 
-<!ENTITY notCached.title "Document Expired">
-<!ENTITY notCached.longDesc "<p>The requested document is not available in the browser's cache.</p><ul><li>As a security precaution, the browser does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
+<!ENTITY notCached.title "Dokument je potekel">
+<!ENTITY notCached.longDesc "<p>Zahtevan dokument ni več na voljo v predpomnilniku brskalnika.</p><ul><li>Brskalnik občutljivih dokumentov iz varnostnih razlogov samodejno ne nalaga ponovno.</li><li>Kliknite poskusi znova za ponovno nalaganje dokumenta s spletne strani.</li></ul>">
 
-<!ENTITY netOffline.title "Offline Mode">
-<!ENTITY netOffline.longDesc2 "<p>The browser is operating in its offline mode and cannot connect to the requested item.</p><ul><li>Is the computer connected to an active network?</li><li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li></ul>">
+<!ENTITY netOffline.title "Brez povezave">
+<!ENTITY netOffline.longDesc2 "<p>Brskalnik trenutno deluje v načinu brez povezave in se zato ne more povezati na zahtevano stran.</p><ul><li>Je računalnik povezan v delujoče omrežje?</li><li>Spremenite način brskalnika v delo s povezavo in poskusite ponovno.</li></ul>">
 
-<!ENTITY contentEncodingError.title "Content Encoding Error">
-<!ENTITY contentEncodingError.longDesc "<p>The page you are trying to view cannot be shown because it uses an invalid or unsupported form of compression.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
+<!ENTITY contentEncodingError.title "Napaka pri šifriranju vsebine">
+<!ENTITY contentEncodingError.longDesc "<p>Strani, ki si jo želite ogledati, ni mogoče prikazati, ker uporablja neveljavno ali nepodprto obliko kompresije.</p><ul><li>Obrnite se na lastnike spletne strani in jih obvestite o težavi.</li></ul>">
 
-<!ENTITY unsafeContentType.title "Unsafe File Type">
+<!ENTITY unsafeContentType.title "Nevarni datotečni tip">
 <!ENTITY unsafeContentType.longDesc "
-<ul>
-  <li>Please contact the website owners to inform them of this problem.</li>
+<ul> 
+<li>Obrnite se na lastnike spletne strani in jih obvestite o težavi.</li> 
 </ul>
 ">
 
-<!ENTITY netReset.title "Connection Interrupted">
-<!ENTITY netReset.longDesc "<p>The network link was interrupted while negotiating a connection. Please try again.</p>">
+<!ENTITY netReset.title "Povezava prekinjena">
+<!ENTITY netReset.longDesc "<p>Povezava s stranjo je bila nepričakovano prekinjena med pogajanjem za povezavo ali med prenašanjem podatkov. Prosim, poskusite ponovno.</p>">
 
-<!ENTITY netTimeout.title "Network Timeout">
-<!ENTITY netTimeout.longDesc "<p>The requested site did not respond to a connection request and the browser has stopped waiting for a reply.</p><ul><li>Could the server be experiencing high demand or a temporary outage?  Try again later.</li><li>Are you unable to browse other sites? Check the computer's network connection.</li><li>Is your computer or network protected by a firewall or proxy?  Incorrect settings can interfere with Web browsing.</li><li>Still having trouble? Consult your network administrator or Internet provider for assistance.</li></ul>">
+<!ENTITY netTimeout.title "Dovoljeni čas pretekel">
+<!ENTITY netTimeout.longDesc "<p>Zahtevana stran ni odgovorila na zahtevo po povezavi, brskalnik pa je prenehal čakati na odgovor.</p><ul><li>Če mislite, da bi strežnik lahko bil zelo obremenjen ali trenutno nedostopen, poskusite znova nekoliko kasneje.</li><li>Če ne morete uporabljati nobene strani, preverite povezavo svojega računalnika do interneta.</li><li>Če uporabljate posrednika ali požarni zid, se prepričajte, da so vaše nastavitve pravilne.</li><li>Če težava ne izgine, se posvetujte s svojim skrbnikom sistema ali s ponudnikom internetnih storitev.</li></ul>">
 
-<!ENTITY unknownProtocolFound.title "Unknown Protocol">
-<!ENTITY unknownProtocolFound.longDesc "<p>The address specifies a protocol (e.g. <q>wxyz://</q>) the browser does not recognize, so the browser cannot properly connect to the site.</p><ul><li>Are you trying to access multimedia or other non-text services? Check the site for extra requirements.</li><li>Some protocols may require third-party software or plugins before the browser can recognize them.</li></ul>">
+<!ENTITY unknownProtocolFound.title "Neznan protokol">
+<!ENTITY unknownProtocolFound.longDesc "<p>Naslov navaja protokol (npr. <q>wxyz://</q>), ki ga brskalnik ne pozna, zato se ne more pravilno povezati s stranjo.</p><ul><li>Želite uporabiti večpredstavnost ali drugo nebesedilno storitev? Preverite morebitne dodatne programske zahteve strani.</li><li>Nekateri protokoli zahtevajo programsko opremo drugih izdelovalcev ali dodatke, preden jih lahko brskalnik uporablja.</li></ul>">
 
-<!ENTITY proxyConnectFailure.title "Proxy Server Refused Connection">
-<!ENTITY proxyConnectFailure.longDesc "<p>The browser is configured to use a proxy server, but the proxy refused a connection.</p><ul><li>Is the browser's proxy configuration correct? Check the settings and try again.</li><li>Does the proxy service allow connections from this network?</li><li>Still having trouble? Consult your network administrator or Internet provider for assistance.</li></ul>">
+<!ENTITY proxyConnectFailure.title "Posrednik zavrnil povezavo">
+<!ENTITY proxyConnectFailure.longDesc "<p>Povezava z internetom je nastavljena prek posrednika, ki pa odklanja povezavo.</p><ul><li>Je nastavitev posrednika ustrezna? Preverite nastavitve in poskusite ponovno.</li><li>Ali ta posrednik dovoli povezave s te mreže?</li><li>Če težava ne izgine, se posvetujte s svojim skrbnikom sistema ali s ponudnikom internetnih storitev.</li></ul>">
 
-<!ENTITY proxyResolveFailure.title "Proxy Server Not Found">
-<!ENTITY proxyResolveFailure.longDesc "<p>The browser is configured to use a proxy server, but the proxy could not be found.</p><ul><li>Is the browser's proxy configuration correct? Check the settings and try again.</li><li>Is the computer connected to an active network?</li><li>Still having trouble? Consult your network administrator or Internet provider for assistance.</li></ul>">
+<!ENTITY proxyResolveFailure.title "Posrednika ni mogoče najti">
+<!ENTITY proxyResolveFailure.longDesc "<p>Povezava z internetom je nastavljena prek posrednika, ki ga ni mogoče najti.</p><ul><li>Je nastavitev posrednika ustrezna? Preverite nastavitve in poskusite ponovno.</li><li>Je računalnik povezan v aktivno mrežo?</li><li>Če težava ne izgine, se posvetujte s svojim skrbnikom sistema ali s ponudnikom internetnih storitev.</li></ul>">
 
-<!ENTITY redirectLoop.title "Redirect Loop">
-<!ENTITY redirectLoop.longDesc "<p>The browser has stopped trying to retrieve the requested item. The site is redirecting the request in a way that will never complete.</p><ul><li>Have you disabled or blocked cookies required by this site?</li><li><em>NOTE</em>: If accepting the site's cookies does not resolve the problem, it is likely a server configuration issue and not your computer.</li></ul>">
+<!ENTITY redirectLoop.title "Krog preusmeritev">
+<!ENTITY redirectLoop.longDesc "<p>Povezava je bila prekinjena, kajti stran preusmerja nase, kar pomeni, da se krog ne bi nikoli zaključil.</p><ul><li>Ste onemogočili ali prepovedali piškotke, ki bi jih ta stran potrebovala?</li><li><em>OPOMBA</em>: Če sprejetje piškotkov te strani problema ne razreši, potem je to skoraj gotovo napaka nastavitev strežnika in nima zveze z vašim računalnikom.</li></ul>">
 
-<!ENTITY unknownSocketType.title "Incorrect Response">
-<!ENTITY unknownSocketType.longDesc "<p>The site responded to the network request in an unexpected way and the browser cannot continue.</p>">
+<!ENTITY unknownSocketType.title "Nepričakovan odgovor">
+<!ENTITY unknownSocketType.longDesc "<p>Stran je na mrežno zahtevo odgovorila na nepričakovan način in brskalnik ne more nadaljevati.</p>">
 
-<!ENTITY nssFailure2.title "Secure Connection Failed">
-<!ENTITY nssFailure2.longDesc2 "<p>The page you are trying to view cannot be shown because the authenticity of the received data could not be verified.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
+<!ENTITY nssFailure2.title "Varna povezava ni uspela">
+<!ENTITY nssFailure2.longDesc2 "<p>Strani, ki si jo želite ogledati, ni mogoče prikazati, ker ni mogoče preveriti pristnosti prejetih podatkov.</p><ul><li>Obrnite se na lastnike spletne strani in jih obvestite o težavi.</li></ul>">
 
-<!ENTITY nssBadCert.title "Secure Connection Failed">
-<!ENTITY nssBadCert.longDesc2 "<ul>
-<li>This could be a problem with the server's configuration, or it could be someone trying to impersonate the server.</li>
-<li>If you have connected to this server successfully in the past, the error may be temporary, and you can try again later.</li>
+<!ENTITY nssBadCert.title "Varna povezava ni uspela">
+<!ENTITY nssBadCert.longDesc2 "<ul> 
+<li>Težava se lahko nahaja v nastavitvah strežnika ali pa se kdo poskuša lažno predstaviti z njim.</li> 
+<li>Če ste se v preteklosti že uspešno povezali na ta strežnik, je napaka morda samo začasna, zato lahko ponovno poskusite kasneje.</li> 
 </ul>
 ">
 
-<!ENTITY malwareBlocked.title "Suspected Attack Site!">
+<!ENTITY malwareBlocked.title "Prijavljena napadalna stran!">
 <!ENTITY malwareBlocked.longDesc "
-<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p>
-<p>Website owners who believe their site has been reported as an attack site in error may <a href='http://www.stopbadware.org/home/reviewinfo' >request a review</a>.</p>
+<p>Napadalne strani poskušajo namestiti programe za krajo osebnih podatkov, uporabijo vaš računalnik za napad na druge ali poškodujejo vaš sistem.</p> 
+<p>Lastniki spletnih strani, ki so bile po njihovem mnenju zmotno prijavljene kot napadalne, lahko <a href='http://www.stopbadware.org/home/reviewinfo' >zahtevajo pregled</a>.</p>
 ">
 
-<!ENTITY unwantedBlocked.title "Suspected Unwanted Software Site!">
+<!ENTITY unwantedBlocked.title "Morebitna stran z neželeno programsko opremo!">
 <!ENTITY unwantedBlocked.longDesc "
-<p>Unwanted software pages try to install software that can be deceptive and affect your system in unexpected ways.</p>
+<p>Strani z neželeno programsko opremo poskušajo namestiti programsko opremo, ki je lahko zavajajoča in lahko neželeno vpliva na vaš sistem.</p>
 ">
 
-<!ENTITY phishingBlocked.title "Suspected Web Forgery!">
+<!ENTITY phishingBlocked.title "Morebitna spletna prevara!">
 <!ENTITY phishingBlocked.longDesc "
-<p>Entering any personal information on this page may result in identity theft or other fraud.</p>
-<p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>
+<p>Vnos osebnih podatkov na tej strani lahko pripelje do kraje identitete ali drugih zlorab.</p> 
+<p>Tovrstne spletne prevare se uporabljajo v zlorabah, znanih kot ribarjenje, kjer zlonamerne spletne strani ali elektronska pošta oponašajo vire, ki jim zaupate.</p>
 ">
 
-<!ENTITY cspBlocked.title "Blocked by Content Security Policy">
-<!ENTITY cspBlocked.longDesc "<p>The browser prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
+<!ENTITY cspBlocked.title "Zavrnjeno zaradi varnostne politike vsebine">
+<!ENTITY cspBlocked.longDesc "<p>Brskalnik je preprečil nalaganje strani v taki obliki, ker tako določa varnostna politika vsebine strani.</p>">
 
-<!ENTITY corruptedContentError.title "Corrupted Content Error">
-<!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
+<!ENTITY corruptedContentError.title "Okvara vsebine">
+<!ENTITY corruptedContentError.longDesc "<p>Strani, ki si jo želite ogledati, ni mogoče prikazati, ker je bila med prenosom podatkov odkrita napaka.</p> <ul><li>O napaki obvestite lastnike spletne strani.</li></ul>">
 
-<!ENTITY remoteXUL.title "Remote XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Please contact the website owners to inform them of this problem.</li></ul></p>">
+<!ENTITY remoteXUL.title "Oddaljeni XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Obrnite se na lastnike spletne strani in jih obvestite o težavi.</li></ul></p>">
 
 <!-- Include app-specific error messages - do not change this in localization!
      Some applications might override netErrorApp.dtd with their specific version,

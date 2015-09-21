@@ -9,31 +9,31 @@
 
 <!-- These strings are used in the about:home page -->
 
-<!ENTITY abouthome.pageTitle "&brandFullName; Start Page">
+<!ENTITY abouthome.pageTitle "&brandFullName;: domača stran">
 
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
-<!ENTITY abouthome.defaultSnippet1.v1 "Thanks for choosing Firefox! To get the most out of your browser, learn more about the <a>latest features</a>.">
+<!ENTITY abouthome.defaultSnippet1.v1 "Hvala, da ste izbrali Firefox! Da bi kar najbolje izkoristili vaš brskalnik, spoznajte <a>zadnje novosti</a>.">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
-<!ENTITY abouthome.defaultSnippet2.v1 "It's easy to customize your Firefox exactly the way you want it. <a>Choose from thousands of add-ons</a>.">
+<!ENTITY abouthome.defaultSnippet2.v1 "Firefox lahko na preprost način prilagodite svojim željam. <a>Izbirate lahko med tisoči dodatkov</a>.">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
-<!ENTITY abouthome.rightsSnippet "&brandFullName; is free and open source software from the non-profit Mozilla Foundation. <a>Know your rights…</a>">
+<!ENTITY abouthome.rightsSnippet "&brandFullName; je brezplačna in odprtokodna programska oprema neprofitne organizacije Mozilla Foundation. <a>Spoznajte svoje pravice …</a>">
 
-<!ENTITY abouthome.bookmarksButton.label "Bookmarks">
-<!ENTITY abouthome.historyButton.label   "History">
+<!ENTITY abouthome.bookmarksButton.label "Zaznamki">
+<!ENTITY abouthome.historyButton.label   "Zgodovina">
 <!-- LOCALIZATION NOTE (abouthome.preferencesButtonWin.label): The label for the
      preferences/options item on about:home on Windows -->
-<!ENTITY abouthome.preferencesButtonWin.label  "Options">
+<!ENTITY abouthome.preferencesButtonWin.label  "Možnosti">
 <!-- LOCALIZATION NOTE (abouthome.preferencesButtonUnix.label): The label for the
      preferences/options item on about:home on Linux and OS X -->
-<!ENTITY abouthome.preferencesButtonUnix.label  "Preferences">
-<!ENTITY abouthome.addonsButton.label    "Add-ons">
+<!ENTITY abouthome.preferencesButtonUnix.label  "Nastavitve">
+<!ENTITY abouthome.addonsButton.label    "Dodatki">
 <!-- LOCALIZATION NOTE (abouthome.appsButton2.label): This string should be consistent with
      the Apps menu item in the Tools menu (webapps.label in browser.dtd) and the Apps toolbar button in
      Firefox's customization palette (web-apps-button.label in customizableWidgets.properties) -->
-<!ENTITY abouthome.appsButton2.label     "Apps">
-<!ENTITY abouthome.downloadsButton.label "Downloads">
+<!ENTITY abouthome.appsButton2.label     "Aplikacije">
+<!ENTITY abouthome.downloadsButton.label "Prenosi">
 <!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">

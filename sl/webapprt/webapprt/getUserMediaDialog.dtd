@@ -5,13 +5,13 @@
 <!-- LOCALIZATION NOTE: These are localized strings for the getUserMedia dialog
    - to ask permissions in the webapp runtime. -->
 
-<!ENTITY getUserMediaDialog.title                   "Media Sharing">
-<!ENTITY getUserMediaDialog.button.accept.label     "Share">
-<!ENTITY getUserMediaDialog.button.accept.accesskey "S">
-<!ENTITY getUserMediaDialog.button.cancel.label     "Cancel">
-<!ENTITY getUserMediaDialog.button.cancel.accesskey "n">
+<!ENTITY getUserMediaDialog.title                   "Uporaba predstavnosti">
+<!ENTITY getUserMediaDialog.button.accept.label     "Uporabi">
+<!ENTITY getUserMediaDialog.button.accept.accesskey "U">
+<!ENTITY getUserMediaDialog.button.cancel.label     "Prekliči">
+<!ENTITY getUserMediaDialog.button.cancel.accesskey "P">
 
-<!ENTITY getUserMediaDialog.video.label             "Select camera">
-<!ENTITY getUserMediaDialog.video.noVideo           "No video">
-<!ENTITY getUserMediaDialog.audio.label             "Select microphone">
-<!ENTITY getUserMediaDialog.audio.noAudio           "No audio">
+<!ENTITY getUserMediaDialog.video.label             "Izberi kamero">
+<!ENTITY getUserMediaDialog.video.noVideo           "Brez videa">
+<!ENTITY getUserMediaDialog.audio.label             "Izberi mikrofon">
+<!ENTITY getUserMediaDialog.audio.noAudio           "Brez zvoka">

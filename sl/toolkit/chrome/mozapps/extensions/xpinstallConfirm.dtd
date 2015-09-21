@@ -4,10 +4,10 @@
 
 <!-- extracted from institems.xul -->
 
-<!ENTITY dialog.title            "Software Installation">
+<!ENTITY dialog.title            "Namestitev programske opreme">
 <!ENTITY dialog.style            "width: 45em">
-<!ENTITY warningPrimary.label    "Install add-ons only from authors whom you trust.">
-<!ENTITY warningSecondary.label  "Malicious software can damage your computer or violate your privacy.">
+<!ENTITY warningPrimary.label    "Namestite samo dodatke, katerih avtorjem zaupate.">
+<!ENTITY warningSecondary.label  "Škodljiva programska oprema lahko poškoduje vaš računalnik in zlorabi vašo zasebnost.">
 
-<!ENTITY from.label "from:">
+<!ENTITY from.label "iz:">
 

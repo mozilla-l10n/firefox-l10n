@@ -4,26 +4,26 @@
 
 <!-- extracted from printjoboptions.xul -->
 
-<!ENTITY printJobOptions.title "Printer Properties">
+<!ENTITY printJobOptions.title "Lastnosti tiskalnika">
 
-<!ENTITY paperInput.label "Paper Size:">
-<!ENTITY paperInput.accesskey "P">
+<!ENTITY paperInput.label "Velikost papirja:">
+<!ENTITY paperInput.accesskey "V">
 
-<!ENTITY jobTitleInput.label "Job Title:">
-<!ENTITY jobTitleInput.accesskey "J">
+<!ENTITY jobTitleInput.label "Ime naloge:">
+<!ENTITY jobTitleInput.accesskey "n">
 
-<!ENTITY colorGroup.label "Color:">
-<!ENTITY grayRadio.label "Grayscale">
-<!ENTITY grayRadio.accesskey "G">
-<!ENTITY colorRadio.label "Color">
-<!ENTITY colorRadio.accesskey "C">
+<!ENTITY colorGroup.label "Barva:">
+<!ENTITY grayRadio.label "Odtenki sive">
+<!ENTITY grayRadio.accesskey "s">
+<!ENTITY colorRadio.label "Barvno">
+<!ENTITY colorRadio.accesskey "B">
 
-<!ENTITY edgeMarginInput.label "Gap from edge of paper to Margin">
-<!ENTITY topInput.label "Top:">
-<!ENTITY topInput.accesskey "T">
-<!ENTITY bottomInput.label "Bottom:">
-<!ENTITY bottomInput.accesskey "B">
-<!ENTITY leftInput.label "Left:">
+<!ENTITY edgeMarginInput.label "Velikost roba">
+<!ENTITY topInput.label "Zgoraj:">
+<!ENTITY topInput.accesskey "Z">
+<!ENTITY bottomInput.label "Spodaj:">
+<!ENTITY bottomInput.accesskey "o">
+<!ENTITY leftInput.label "Levo:">
 <!ENTITY leftInput.accesskey "L">
-<!ENTITY rightInput.label "Right:">
-<!ENTITY rightInput.accesskey "R">
+<!ENTITY rightInput.label "Desno:">
+<!ENTITY rightInput.accesskey "D">

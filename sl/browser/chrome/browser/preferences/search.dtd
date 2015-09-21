@@ -2,30 +2,28 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY defaultSearchEngine.label             "Default Search Engine">
+<!ENTITY defaultSearchEngine.label             "Privzet iskalnik">
 
-<!ENTITY chooseYourDefaultSearchEngine.label   "Choose your default search engine. &brandShortName; uses it in the location bar, search bar, and start page.">
+<!ENTITY chooseYourDefaultSearchEngine.label   "Izberite privzet iskalnik. &brandShortName; ga uporablja v vrstici z naslovom, v vrstici za iskanje in na začetnih straneh.">
 
-<!ENTITY provideSearchSuggestions.label        "Provide search suggestions">
+<!ENTITY provideSearchSuggestions.label        "Predlogi iskanja">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
 
-<!ENTITY showURLBarSuggestions.label           "Show search suggestions in location bar results">
-<!ENTITY showURLBarSuggestions.accesskey       "l">
 
-<!ENTITY redirectWindowsSearch.label "Use this search engine for searches from Windows">
+<!ENTITY redirectWindowsSearch.label "Uporabi ta iskalnik za iskanje v okolju Windows">
 <!ENTITY redirectWindowsSearch.accesskey "W">
 
-<!ENTITY oneClickSearchEngines.label           "One-click search engines">
+<!ENTITY oneClickSearchEngines.label           "Iskalniki, dostopni z enim klikom">
 
-<!ENTITY chooseWhichOneToDisplay.label         "The search bar lets you search alternate engines directly. Choose which ones to display.">
+<!ENTITY chooseWhichOneToDisplay.label         "Vrstica za iskanje omogoča dostop tudi do nekaterih drugih iskalnikov. Izberite, katere želite prikazati.">
 
-<!ENTITY engineNameColumn.label                "Search Engine">
-<!ENTITY engineKeywordColumn.label             "Keyword">
+<!ENTITY engineNameColumn.label                "Iskalnik">
+<!ENTITY engineKeywordColumn.label             "Ključna beseda">
 
-<!ENTITY restoreDefaultSearchEngines.label     "Restore Default Search Engines">
+<!ENTITY restoreDefaultSearchEngines.label     "Ponastavi privzete iskalnike">
 <!ENTITY restoreDefaultSearchEngines.accesskey "d">
 
-<!ENTITY removeEngine.label                    "Remove">
+<!ENTITY removeEngine.label                    "Odstrani">
 <!ENTITY removeEngine.accesskey                "r">
 
-<!ENTITY addMoreSearchEngines.label            "Add more search engines…">
+<!ENTITY addMoreSearchEngines.label            "Dodaj več iskalnikov …">

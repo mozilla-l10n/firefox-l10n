@@ -11,32 +11,32 @@
 <!-- LOCALIZATION NOTE (browserStylesLabel): This is the label for the checkbox
   -  that specifies whether the styles that are not from the user's stylesheet
   -  should be displayed or not. -->
-<!ENTITY browserStylesLabel    "Browser styles">
+<!ENTITY browserStylesLabel    "Slogi brskalnika">
 
 <!-- LOCALIZATION NOTE (filterStylesPlaceholder): This is the placeholder that goes in
   -  the search box when no search term has been entered. -->
-<!ENTITY filterStylesPlaceholder      "Filter Styles">
+<!ENTITY filterStylesPlaceholder      "Filtriraj sloge">
 
 <!-- LOCALIZATION NOTE (addRuleButtonTooltip): This is the tooltip shown when
   -  hovering the `Add new rule` button in the rules view toolbar. This should
   -  match ruleView.contextmenu.addNewRule in styleinspector.properties -->
-<!ENTITY addRuleButtonTooltip  "Add new rule">
+<!ENTITY addRuleButtonTooltip  "Dodaj novo pravilo">
 
 <!-- LOCALIZATION NOTE (selectedElementLabel): This is the label for the path of
   -  the highlighted element in the web page. This path is based on the document
   -  tree. -->
-<!ENTITY selectedElementLabel  "Selected element:">
+<!ENTITY selectedElementLabel  "Izbran element:">
 
 <!-- LOCALIZATION NOTE (togglePseudoClassPanel): This is the tooltip
   -  shown when hovering over the `Toggle Pseudo Class Panel` button in the
   -  rule view toolbar. -->
-<!ENTITY togglePseudoClassPanel  "Toggle pseudo-classes">
+<!ENTITY togglePseudoClassPanel  "Preklopi psevdorazrede">
 
 <!-- LOCALIZATION NOTE (noPropertiesFound): In the case where there are no CSS
   -  properties to display e.g. due to search criteria this message is
   -  displayed. -->
-<!ENTITY noPropertiesFound     "No CSS properties found.">
+<!ENTITY noPropertiesFound     "Lastnosti CSS ni bilo mogoče najti.">
 
 <!-- FIXME: notes -->
-<!ENTITY computedViewTitle     "Computed">
-<!ENTITY ruleViewTitle         "Rules">
+<!ENTITY computedViewTitle     "Izračunano">
+<!ENTITY ruleViewTitle         "Pravila">

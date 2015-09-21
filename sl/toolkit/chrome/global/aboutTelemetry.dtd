@@ -2,58 +2,58 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutTelemetry.pageTitle "Telemetry Data">
+<!ENTITY aboutTelemetry.pageTitle "Telemetrija">
 
 <!ENTITY aboutTelemetry.changeDataChoices "
-  Change
+  Spremeni
 ">
 
 <!ENTITY aboutTelemetry.uploadEnabled "
-  FHR data upload is <span>enabled</span>.
+  Nalaganje podatkov FHR je <span>omogočeno</span>.
 ">
 
 <!ENTITY aboutTelemetry.uploadDisabled "
-  FHR data upload is <span>disabled</span>.
+  Nalaganje podatkov FHR je <span>onemogočeno</span>.
 ">
 
 <!ENTITY aboutTelemetry.extendedRecordingEnabled "
-  Extended Telemetry recording is <span>enabled</span>.
+  Razširjenjo spremljanje telemetrije je <span>omogočeno</span>.
 ">
 
 <!ENTITY aboutTelemetry.extendedRecordingDisabled "
-  Extended Telemetry recording is <span>disabled</span>.
+  Razširjenjo spremljanje telemetrije je <span>onemogočeno</span>.
 ">
 
 <!ENTITY aboutTelemetry.pingDataSource "
-Ping data source:
+Podatkovni vir pinga:
 ">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "
-Current ping data
+Trenutni podatki pinga
 ">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "
-Archived ping data
+Arhivirani podatki pinga
 ">
 
 <!ENTITY aboutTelemetry.showSubsessionData "
-Show subsession data
+Prikaži podatke podseje
 ">
 
 <!ENTITY aboutTelemetry.choosePing "
-Choose ping:
+Izberite ping:
 ">
 
 <!ENTITY aboutTelemetry.showNewerPing "
-&lt;&lt; Newer ping
+&lt;&lt; Novejši ping
 ">
 
 <!ENTITY aboutTelemetry.showOlderPing "
-Older ping &gt;&gt;
+Starejši ping &gt;&gt;
 ">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "
-Week
+Teden
 ">
 
 <!ENTITY aboutTelemetry.archivePingHeader "
@@ -61,77 +61,76 @@ Ping
 ">
 
 <!ENTITY aboutTelemetry.generalDataSection "
-  General Data
+  Splošni podatki
 ">
 
 <!ENTITY aboutTelemetry.environmentDataSection "
-  Environment Data
-">
+  Podatki o okolju">
 
 <!ENTITY aboutTelemetry.telemetryLogSection "
-  Telemetry Log
+  Dnevnik telemetrije
 ">
 
 <!ENTITY aboutTelemetry.slowSqlSection "
-  Slow SQL Statements
+  Počasni stavki SQL
 ">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "
-  Browser Hangs
+  Sesutja brskalnika
 ">
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "
-  Thread Hangs
+  Sesutja niti
 ">
 
 <!ENTITY aboutTelemetry.histogramsSection "
-  Histograms
+  Histogrami
 ">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "
-  Keyed Histograms
+  Histogrami s ključi
 ">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
-  Simple Measurements
+  Enostavne meritve
 ">
 
 <!ENTITY aboutTelemetry.addonDetailsSection "
-  Add-on Details
+  Podrobnosti dodatkov
 ">
 
 <!ENTITY aboutTelemetry.lateWritesSection "
-  Late Writes
+  Poznejša pisanja
 ">
 
 <!ENTITY aboutTelemetry.systemInfoSection "
-  System Information
+  Sistemski podatki
 ">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "
-  Histograms Collected by Add-ons
+  Histogrami dodatkov
 ">
 
 <!ENTITY aboutTelemetry.toggle "
-  Click to toggle section
+  Kliknite za preklop odseka
 ">
 
 <!ENTITY aboutTelemetry.emptySection "
-  (No data collected)
+  (Ni zbranih podatkov)
 ">
 
 <!ENTITY aboutTelemetry.fullSqlWarning "
-  NOTE: Slow SQL debugging is enabled. Full SQL strings may be displayed below but they will not be submitted to Telemetry.
+  Opomba: Vključeno je razhroščevanje počasnega SQL. Spodaj se lahko pojavijo celotni nizi SQL, vendar ne bodo poslani telemetriji.
 ">
 
 <!ENTITY aboutTelemetry.fetchSymbols "
-  Fetch function names for hang stacks
+  Zbiraj imena funkcij za sklade sesutij
 ">
 
 <!ENTITY aboutTelemetry.hideSymbols "
-  Show raw data from hangs
+  Prikaži neobdelane podatke sesutij
 ">
 
 <!ENTITY aboutTelemetry.filterText "
-  Filter (strings or /regexp/)
+  Filtriraj (nizi ali /regexp/)
 ">

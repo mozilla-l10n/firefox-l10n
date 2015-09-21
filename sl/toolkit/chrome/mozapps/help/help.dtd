@@ -8,28 +8,28 @@
 <!ENTITY findAgainCmd.commandkey        "G">
 <!ENTITY findAgainCmd.commandkey2       "VK_F3">
 
-<!ENTITY backButton.label               "Back">
-<!ENTITY backButton.accesskey           "B">
-<!ENTITY backButton.tooltip             "Go back one page">
-<!ENTITY forwardButton.label            "Forward">
-<!ENTITY forwardButton.accesskey        "F">
-<!ENTITY forwardButton.tooltip          "Go forward one page">
-<!ENTITY copyCmd.label                  "Copy">
-<!ENTITY copyCmd.accesskey              "C">
-<!ENTITY selectAllCmd.label             "Select All">
-<!ENTITY selectAllCmd.accesskey         "A">
+<!ENTITY backButton.label               "Nazaj">
+<!ENTITY backButton.accesskey           "N">
+<!ENTITY backButton.tooltip             "Pojdi na prejšnjo stran">
+<!ENTITY forwardButton.label            "Naprej">
+<!ENTITY forwardButton.accesskey        "P">
+<!ENTITY forwardButton.tooltip          "Pojdi na naslednjo stran">
+<!ENTITY copyCmd.label                  "Kopiraj">
+<!ENTITY copyCmd.accesskey              "K">
+<!ENTITY selectAllCmd.label             "Izberi vse">
+<!ENTITY selectAllCmd.accesskey         "V">
 <!ENTITY goBackCmd.commandkey           "[">
 <!ENTITY goForwardCmd.commandkey        "]">
-<!ENTITY homeButton.label               "Home">
-<!ENTITY homeButton.tooltip             "Go to the Help Start Page">
-<!ENTITY printButton.label              "Print">
-<!ENTITY printButton.tooltip            "Print this page">
+<!ENTITY homeButton.label               "Domov">
+<!ENTITY homeButton.tooltip             "Pojdi na domačo stran pomoči">
+<!ENTITY printButton.label              "Natisni">
+<!ENTITY printButton.tooltip            "Natisni to stran">
 <!ENTITY closeWindow.commandkey         "W">
 
-<!ENTITY search.emptytext               "Search">
-<!ENTITY searchHeader.label             "Search results">
-<!ENTITY toctab.label                   "Contents">
-<!ENTITY toctab.accesskey               "C">
+<!ENTITY search.emptytext               "Iskanje">
+<!ENTITY searchHeader.label             "Rezultati iskanja">
+<!ENTITY toctab.label                   "Vsebina">
+<!ENTITY toctab.accesskey               "V">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -47,10 +47,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY helpSearch.commandkey          "k">
 
-<!ENTITY zLevel.label                   "Always on Top">
-<!ENTITY zLevel.accesskey               "T">
+<!ENTITY zLevel.label                   "Vselej na vrhu">
+<!ENTITY zLevel.accesskey               "H">
 
-<!ENTITY fullZoomReduceBtn.label        "Zoom Out">
-<!ENTITY fullZoomReduceBtn.accesskey    "O">
-<!ENTITY fullZoomEnlargeBtn.label       "Zoom In">
-<!ENTITY fullZoomEnlargeBtn.accesskey   "I">
+<!ENTITY fullZoomReduceBtn.label        "Pomanjšaj">
+<!ENTITY fullZoomReduceBtn.accesskey    "M">
+<!ENTITY fullZoomEnlargeBtn.label       "Povečaj">
+<!ENTITY fullZoomEnlargeBtn.accesskey   "V">

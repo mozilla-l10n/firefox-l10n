@@ -2,45 +2,45 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY permissionsManager.title        "Permissions Manager">
+<!ENTITY permissionsManager.title        "Upravitelj dovoljenj">
 
-<!ENTITY sites.search                    "Search Sites">
-<!ENTITY sites.allSites                  "All Sites">
+<!ENTITY sites.search                    "Išči po straneh">
+<!ENTITY sites.allSites                  "Vse strani">
 
 <!-- LOCALIZATION NOTE (permissions.header.start, permissions.header.end): These strings
      surround the host name of the site to make the header for the permissions page.
      example: "Permissions for mozilla.org" -->
-<!ENTITY header.site.start               "Permissions for">
+<!ENTITY header.site.start               "Dovoljenja za">
 <!ENTITY header.site.end                 "">
 
-<!ENTITY header.defaults                 "Default Permissions for All Sites">
+<!ENTITY header.defaults                 "Privzeta dovoljenja za vse strani">
 
-<!ENTITY permissions.forgetSite          "Forget About This Site">
+<!ENTITY permissions.forgetSite          "Pozabi na to stran">
 
-<!ENTITY permission.alwaysAsk            "Always Ask">
-<!ENTITY permission.allow                "Allow">
-<!ENTITY permission.allowForSession      "Allow for Session">
-<!ENTITY permission.allowFirstPartyOnly  "Allow First Party Only">
-<!ENTITY permission.block                "Block">
+<!ENTITY permission.alwaysAsk            "Vedno vprašaj">
+<!ENTITY permission.allow                "Dovoli">
+<!ENTITY permission.allowForSession      "Dovoli za sejo">
+<!ENTITY permission.allowFirstPartyOnly  "Dovoli samo lastne">
+<!ENTITY permission.block                "Zavrni">
 
-<!ENTITY password.label                  "Store Passwords">
-<!ENTITY password.manage                 "Manage Passwords…">
+<!ENTITY password.label                  "Shranjevanje gesel">
+<!ENTITY password.manage                 "Upravljanje gesel…">
 
-<!ENTITY cookie.label                    "Set Cookies">
-<!ENTITY cookie.remove                   "Remove Cookies">
-<!ENTITY cookie.manage                   "Manage Cookies…">
-<!ENTITY cookie.removeAll                "Remove All Cookies">
+<!ENTITY cookie.label                    "Shranjevanje piškotkov">
+<!ENTITY cookie.remove                   "Odstrani piškotke">
+<!ENTITY cookie.manage                   "Upravljanje piškotkov …">
+<!ENTITY cookie.removeAll                "Odstrani vse piškotke">
 
-<!ENTITY geo.label                       "Share Location">
+<!ENTITY geo.label                       "Objava položaja">
 
-<!ENTITY plugins.label                   "Plugins">
+<!ENTITY plugins.label                   "Vtičniki">
 
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
-<!ENTITY indexedDB.label                 "Maintain Offline Storage">
+<!ENTITY indexedDB.label                 "Shramba za delo brez povezave">
 
-<!ENTITY popup.label                     "Open Pop-up Windows">
+<!ENTITY popup.label                     "Odpiranje pojavnih oken">
 
-<!ENTITY push.label                      "Receive Push Notifications">
-<!ENTITY camera.label                    "Use the Camera">
-<!ENTITY microphone.label                "Use the Microphone">
+<!ENTITY push.label                      "Sprejmi potisna obvestila">
+<!ENTITY camera.label                    "Uporabi kamero">
+<!ENTITY microphone.label                "Uporabi mikrofon">
