@@ -6,7 +6,7 @@
 %brandDTD;
 
 <!ENTITY loadError.label "Ocorreu um erro ao carregar a página">
-<!ENTITY retry.label "Tentar novamente">
+<!ENTITY retry.label "Voltar a tentar">
 <!-- Specific error messages -->
 
 
@@ -48,11 +48,11 @@ se o &brandShortName; tem permissão para aceder à web.</li>
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Documento expirado">
-<!ENTITY notCached.longDesc "<p>O documento pedido não está disponível em cache.</p><ul><li>Por precaução, o &brandShortName; não efetua automaticamente um novo pedido de documentos sensíveis.</li><li>Clique Tentar novamente para efetuar um novo pedido do documento ao sítio web.</li></ul>">
+<!ENTITY notCached.longDesc "<p>O documento pedido não está disponível em cache.</p><ul><li>Por precaução, o &brandShortName; não efetua automaticamente um novo pedido de documentos sensíveis.</li><li>Clique em Voltar a tentar para efetuar um novo pedido do documento ao site.</li></ul>">
 
 <!ENTITY netOffline.title "Modo offline">
 <!ENTITY netOffline.longDesc2 "<ul> 
-<li>>Prima &quot;Tentar novamente&quot; para ativar o modo online e recarregar a página.</li> 
+<li>>Prima &quot;Voltar a tentar&quot; para ativar o modo online e recarregar a página.</li> 
 </ul>">
 
 <!ENTITY contentEncodingError.title "Erro de codificação do conteúdo">
