@@ -201,8 +201,6 @@
 <!ENTITY pref_category_devtools "ਡਿਵੈਲਪਰ ਟੂਲ">
 <!ENTITY pref_developer_remotedebugging "ਰਿਮੋਟ ਡੀਬੱਗ ਕਰਨਾ">
 
-<!ENTITY pref_remember_signons "ਪਾਸਵਰਡ ਯਾਦ ਰੱਖੋ">
-
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "ਪਸੰਦ">
 <!ENTITY pref_header_display "ਵੇਖਾਓ">
@@ -224,10 +222,11 @@
 <!ENTITY pref_donottrack_title "ਟਰੈਕ ਨਾ ਕਰੋ">
 <!ENTITY pref_donottrack_summary "&brandShortName; ਸਾਈਟਾਂ ਨੂੰ ਦੱਸੇਗਾ ਕਿ ਤੁਸੀਂ ਟਰੈਕ ਨਹੀਂ ਕੀਤੇ ਜਾਣਾ ਚਾਹੁੰਦੇ ਹੋ">
 
-<!ENTITY tab_queue_toast_message2 "ਟੈਬ &brandShortName; ਵਿੱਚ ਕਤਾਰਬੱਧ ਕੀਤੀ">
+<!ENTITY tab_queue_toast_message3 "&brandShortName; ਵਿੱਚ ਸੰਭਾਲੀ">
 <!ENTITY tab_queue_toast_action "ਹੁਣ ਖੋਲ੍ਹੋ">
 <!ENTITY tab_queue_prompt_title "ਕੀ ਕਈ ਲਿੰਕ ਖੋਲ੍ਹਣੇ ਹਨ?">
 <!ENTITY tab_queue_prompt_text2 "ਉਹਨਾਂ ਨੂੰ ਬਾਅਦ ਵਿੱਚ &brandShortName; ਉੱਤੇ ਜਾਣ ਸਮੇਂ ਖੋਲ੍ਹੋ।">
+<!ENTITY tab_queue_prompt_text3 "ਉਹਨਾਂ ਨੂੰ ਆਪਣੇ ਵਲੋਂ &brandShortName; ਨੂੰ ਖੋਲ੍ਹੇ ਜਾਣ ਤੱਕ ਸੰਭਾਲੋ">
 <!ENTITY tab_queue_prompt_tip_text "ਤੁਸੀਂ ਇਸ ਨੂੰ ਬਾਅਦ ਵਿੱਚ ਸੈਟਿੰਗ ਰਾਹੀਂ ਬਦਲ ਸਕਦੇ ਹੋ">
 <!ENTITY tab_queue_prompt_positive_action_button "ਚਾਲੂ ਕਰੋ">
 <!ENTITY tab_queue_prompt_negative_action_button "ਹੁਣ ਨਹੀਂ">
@@ -280,10 +279,15 @@ size. -->
 
 <!ENTITY pref_zoom_force_enabled "ਹਮੇਸ਼ਾ ਜ਼ੂਮ ਸਮਰੱਥ ਕਰੋ">
 <!ENTITY pref_zoom_force_enabled_summary "ਅਣਡਿੱਠਾ ਕਰਨ ਲਈ ਮਜ਼ਬੂਰ ਕਰੋ ਤਾਂ ਤੁਸੀਂ ਕਿਸੇ ਵੀ ਸਫ਼ੇ ਨੂੰ ਜ਼ੂਮ ਕਰ ਸਕੋ">
+<!ENTITY pref_voice_input "ਆਵਾਜ਼ ਇਨਪੁਟ">
+<!ENTITY pref_voice_input_summary "ਟਾਈਟਲ ਪੱਟੀ ਵਿੱਚ ਆਵਾਜ਼ ਰਾਹੀਂ ਬੋਲ ਕੇ ਲਿਖਣ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ">
+<!ENTITY pref_qrcode_enabled "QR ਕੋਡ ਰੀਡਰ">
+<!ENTITY pref_qrcode_enabled_summary "ਟਾਈਟਲ ਪੱਟੀ ਵਿੱਚ QR ਸਕੈਨਰ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ">
+
 
 <!ENTITY pref_use_master_password "ਮਾਸਟਰ ਪਾਸਵਰਡ ਵਰਤੋਂ">
 <!ENTITY pref_sync "ਸਿੰਕ">
-<!ENTITY pref_sync_summary "ਆਪਣੀਆਂ ਟੈਬਾਂ, ਬੁੱਕਮਾਰਕ, ਪਾਸਵਰਡ, ਅਤੀਤ ਸਿੰਕ ਕਰੋ">
+<!ENTITY pref_sync_summary2 "Sਆਪਣੀਆਂ ਟੈਬਾਂ, ਬੁੱਕਮਾਰਕ, ਲਾਗਇਨ, ਅਤੀਤ ਸਿੰਕ ਕਰੋ">
 <!ENTITY pref_search_suggestions "ਖੋਜ ਸੁਝਾਅ ਵੇਖਾਓ">
 <!ENTITY pref_import_android "ਐਂਡਰਾਇਡ ਤੋਂ ਦਰਾਮਦ ਕਰੋ">
 <!ENTITY pref_import_android_summary "ਮੂਲ ਬਰਾਊਜ਼ਰ ਤੋਂ ਬੁੱਕਮਾਰਕ ਤੇ ਅਤੀਤ ਦਰਾਮਦ ਕਰੋ">
@@ -291,11 +295,12 @@ size. -->
 <!ENTITY pref_private_data_searchHistory "ਖੋਜ ਅਤੀਤ">
 <!ENTITY pref_private_data_formdata2 "ਫਾਰਮ ਅਤੀਤ">
 <!ENTITY pref_private_data_cookies2 "ਕੂਕੀਜ਼ ਤੇ ਸਰਗਰਮ ਲਾਗਇਨ">
-<!ENTITY pref_private_data_passwords "ਸੰਭਾਲੇ ਪਾਸਵਰਡ">
+<!ENTITY pref_private_data_passwords2 "ਸੰਭਾਲੇ ਲਾਗਇਨ">
 <!ENTITY pref_private_data_cache "ਕੈਸ਼">
 <!ENTITY pref_private_data_offlineApps "ਆਫਲਾਈਨ ਵੈੱਬਸਾਈਟ ਡਾਟਾ">
 <!ENTITY pref_private_data_siteSettings2 "ਸਾਈਟ ਸੈਟਿੰਗ">
 <!ENTITY pref_private_data_downloadFiles2 "ਡਾਊਨਲੋਡ">
+<!ENTITY pref_private_data_syncedTabs "ਸਿੰਕ ਕੀਤੀਆਂ ਟੈਬਾਂ">
 
 <!ENTITY pref_about_firefox "&brandShortName; ਬਾਰੇ">
 <!ENTITY pref_vendor_faqs "ਸਵਾਲ-ਜਵਾਬ">
@@ -434,7 +439,7 @@ size. -->
   
 <!ENTITY pref_tab_queue_title2 "ਕਈ ਲਿੰਕ ਖੋਲ੍ਹੋ">
 <!ENTITY pref_tab_queue_summary2 "ਹਰ ਵਾਰ &brandShortName; ਖੋਲ੍ਹਣ ਦੀ ਬਜਾਏ ਲਿੰਕ ਨੂੰ ਬਾਅਦ ਵਿੱਚ ਖੋਲ੍ਹਣ ਲਈ ਕਤਾਰਬੱਧ ਕਰੋ">
-
+<!ENTITY pref_tab_queue_summary3 "ਉਹਨਾਂ ਨੂੰ ਆਪਣੇ ਵਲੋਂ ਅਗਲੀ ਵਾਰ &brandShortName; ਖੋਲ੍ਹਣ ਤੱਕ ਸੰਭਾਲੋ">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -453,7 +458,9 @@ size. -->
 <!ENTITY site_settings_no_settings  "ਸਾਫ਼ ਕਰਨ ਲਈ ਕੋਈ ਸੈਟਿੰਗ ਨਹੀਂ ਹੈ।">
 
 
-<!ENTITY reading_list_added "ਸਫ਼ੇ ਨੂੰ ਤੁਹਾਡੀ ਪੜ੍ਹਨ ਸੂਚੀ ਵਿੱਚ ਜੋੜਿਆ ਗਿਆ">
+<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+     as possible. -->
+<!ENTITY reading_list_added2 "ਸੂਚੀ \'ਚ ਜੋੜਿਆ">
 <!ENTITY reading_list_removed "ਤੁਹਾਡੀ ਪੜ੍ਹਨ ਸੂਚੀ ਤੋਂ ਸਫ਼ੇ ਨੂੰ ਹਟਾਇਆ">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -547,9 +554,6 @@ size. -->
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "ਚੁਣੇ ਯੰਤਰ ਵੇਖਾਓ">
 
-<!ENTITY private_browsing_title "ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ">
-<!ENTITY private_tabs_panel_empty_desc "ਤੁਹਾਡੀਆਂ ਪ੍ਰਾਈਵੇਟ ਟੈਬਾਂ ਨੂੰ ਇੱਥੇ ਵਿਖਾਇਆ ਜਾਵੇਗਾ। ਜਦੋਂ ਕੀ ਅਸੀਂ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਕਰਨ ਅਤੀਤ ਜਾਂ ਕੂਕੀਜ਼ ਵਿੱਚੋਂ ਕਿਸੇ ਨੂੰ ਵੀ ਨਹੀਂ ਰੱਖਦੇ ਹਾਂ, ਤੁਹਾਡੇ ਕੀਤੇ ਬੁੱਕਮਾਰਕ ਤੇ ਡਾਊਨਲੋਡ ਕੀਤੀਆਂ ਫਾਈਲਾਂ ਨੂੰ ਤੁਹਾਡੇ ਯੰਤਰ ਉੱਤੇ ਸੰਭਾਲਿਆ ਜਾਵੇਗਾ।">
-<!ENTITY private_tabs_panel_learn_more "ਹੋਰ ਜਾਣਨਾ ਚਾਹੁੰਦੇ ਹੋ?">
 <!ENTITY remote_tabs_panel_moved_title "ਮੇਰੀਆਂ ਟੈਬਾਂ ਕਿੱਥੇ ਗਈਆਂ?">
 <!ENTITY remote_tabs_panel_moved_desc "ਅਸੀਂ ਹੋਰ ਯੰਤਰਾਂ ਤੋਂ ਤੁਹਾਡੀਆਂ ਟੈਬਾਂ ਨੂੰ ਤੁਹਾਡੇ ਮੁੱਖ ਸਫ਼ੇ ਉੱਤੇ ਪੈਨਲ ਵਿੱਚ ਤਬਦੀਲ ਕਰ ਦਿੱਤਾ ਹੈ ਤਾਂ ਕਿ ਤੁਹਾਡੇ ਵਲੋਂ ਨਵੀਂ ਟੈਬ ਖੋਲ੍ਹਣ ਉੱਤੇ ਸੌਖੀ ਤਰ੍ਹਾਂ ਵਰਤਿਆ ਜਾ ਸਕੇ।">
 <!ENTITY remote_tabs_panel_moved_link "ਮੈਨੂੰ ਨਵੇਂ ਪੈਨਲ ਉੱਤੇ ਲੈ ਜਾਉ।">
