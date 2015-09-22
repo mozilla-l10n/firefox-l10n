@@ -5,6 +5,7 @@
 <!ENTITY itemFormatting.label             "Пішімдеу">
 <!ENTITY itemTags.label                   "Тегтер">
 
+
 <!ENTITY style.label                      "Стиль:">
 <!ENTITY style.accesskey                  "т">
 <!ENTITY regularStyle.label               "Қалыпты">
@@ -38,3 +39,27 @@
 <!ENTITY fontOptions.label       "Қосымша…">
 <!ENTITY colorButton.label       "Түстер…">
 <!ENTITY colorButton.accesskey   "Т">
+<!-- Advanced -->
+
+<!ENTITY reading.caption                  "Оқу">
+<!ENTITY display.caption                  "Көрсету">
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+
+<!ENTITY secondsLabel.label               "секунд">
+
+<!ENTITY openMsgInNewTab.label            "Жаңа бет">
+<!ENTITY openMsgInNewTab.accesskey        "т">
+
+
+
+
+
+

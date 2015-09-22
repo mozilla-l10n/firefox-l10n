@@ -4,7 +4,6 @@
 
 <!ENTITY itemGeneral.label       "Жалпы">
 
-
 <!ENTITY itemUpdate.label        "Жаңартулар">
 
 <!ENTITY itemCertificates.label  "Сертификаттар">
@@ -38,30 +37,6 @@
 
 
 
-
-
-
-
-
-
-<!-- Display and Reading Settings -->
-
-<!ENTITY reading.caption               "Оқу">
-<!ENTITY display.caption               "Көрсету">
-
-
-
-
-
-
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-
-<!ENTITY secondsLabel.label            "секунд">
-
-<!ENTITY openMsgInNewTab.label         "Жаңа бет">
-<!ENTITY openMsgInNewTab.accesskey     "т">
 
 
 
