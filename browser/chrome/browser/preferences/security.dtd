@@ -24,10 +24,7 @@
 <!ENTITY  addonExceptions.accesskey     "W">
 
 
-<!ENTITY  passwords.label               "Hesła">
 
-<!ENTITY  rememberPasswords.label       "Hesła za sydła sej spomjatkować">
-<!ENTITY  rememberPasswords.accesskey   "H">
 <!ENTITY  passwordExceptions.label      "Wuwzaća…">
 <!ENTITY  passwordExceptions.accesskey  "u">
 
@@ -36,5 +33,4 @@
 <!ENTITY  changeMasterPassword.label     "Hłowne hesło změnić…">
 <!ENTITY  changeMasterPassword.accesskey "m">
 
-<!ENTITY  savedPasswords.label            "Składowane hesła…">
-<!ENTITY  savedPasswords.accesskey        "S">
+
