@@ -197,6 +197,7 @@
 
 <!ENTITY fxaccount_status_header2 "Firefox kontua">
 <!ENTITY fxaccount_status_signed_in_as "Saioa hasita:">
+
 <!ENTITY fxaccount_status_auth_server "Kontuaren zerbitzaria">
 <!ENTITY fxaccount_status_sync_now "Sinkronizatu orain">
 <!ENTITY fxaccount_status_syncing2 "SInkronizatzen…">

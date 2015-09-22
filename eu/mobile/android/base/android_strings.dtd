@@ -6,15 +6,24 @@
 <!ENTITY  no_space_to_start_error "Ez dago toki libre nahikorik &brandShortName; hasteko.">
 <!ENTITY  error_loading_file "Errorea gertatu da &brandShortName; exekutatzeko behar diren fitxategiak kargatzean">
 
+<!ENTITY firstrun_panel_title_welcome "Ongi etorri">
 <!ENTITY  onboard_start_message3 "Nabigatu &brandShortName; erabiliz">
 <!ENTITY  onboard_start_subtext3 "Atera zukua web mugikorreko zure nabigatze-esperientziari.">
 <!ENTITY  onboard_start_button_account "Hasi saioa &brandShortName;(e)n">
 <!ENTITY  onboard_start_button_browser "Hasi nabigatzen">
+
+
 <!ENTITY  onboard_start_restricted1 "Egon seguru eta kontrolpean &brandShortName;(r)en bertsio sinplifikatu honekin.">
+
+<!ENTITY firstrun_import_message "Ongi etorri &brandShortName;(e)ra">
+
+
+
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
-<!ENTITY  bookmarks_title "Laster-markak">
+<!ENTITY  bookmarks_title "Bookmarks">
 <!ENTITY  history_title "Historia">
 <!ENTITY  reading_list_title "Irakurketa-zerrenda">
 <!ENTITY  recent_tabs_title "Azken fitxak">
@@ -55,8 +64,9 @@
 
 <!ENTITY history_today_section "Gaur">
 <!ENTITY history_yesterday_section "Atzo">
-<!ENTITY history_week_section2 "Azken astea">
-<!ENTITY history_older_section2 "Azken hilabetea">
+
+
+
 
 <!ENTITY go "Joan">
 <!ENTITY search "Bilatu">
@@ -69,8 +79,6 @@
 <!ENTITY edit_mode_cancel "Utzi">
 
 <!ENTITY close_tab "Itxi fitxa">
-<!ENTITY tab_audio_playing "Fitxa hau audioa erreproduzitzen ari da">
-<!ENTITY tab_audio_muted "Fitxa hau mututu egin da">
 <!ENTITY one_tab "fitxa 1">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -81,6 +89,13 @@
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
 <!ENTITY switch_button_message "ALDATU">
+<!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
+     visible in the UI, but rather used as a text-to-speech content description
+     for sight-impaired a11y users. The content description is set on a tab
+     title in a list of open tabs when content in that tab is playing audio.
+     &formatS; will be replaced with the title of the tab, as received from the
+     web page. When audio is not playing in a tab, &formatS; will be used as
+     the content description. -->
 
 <!ENTITY settings "Ezarpenak">
 <!ENTITY settings_title "Ezarpenak">
@@ -183,6 +198,9 @@ Saiatu geroago mesedez.">
 <!ENTITY pref_home_updates_wifi "Wi-Fi bidez soilik">
 <!ENTITY pref_home_suggested_sites "Erakutsi guneen gomendioak">
 <!ENTITY pref_home_suggested_sites_summary "Bistaratu hasiera-orrian interesgarriak izan daitezkeen guneetarako lasterbideak">
+
+
+
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Pertsonalizatu">
@@ -238,7 +256,6 @@ Saiatu geroago mesedez.">
 <!ENTITY pref_plugins_tap_to_play "Sakatu erreproduzitzeko">
 <!ENTITY pref_plugins_disabled "Desgaituta">
 <!ENTITY pref_text_size "Testuaren tamaina">
-<!ENTITY pref_reflow_on_zoom4 "Egokitu testua">
 <!ENTITY pref_restore "Fitxak">
 <!ENTITY pref_restore_always "Berreskuratu beti">
 <!ENTITY pref_restore_quit "Ez berreskuratu &brandShortName;(e)tik irten ondoren">
@@ -348,6 +365,7 @@ size. -->
 <!ENTITY share_title "Partekatu">
 <!ENTITY share_image_failed "Ezin da irudia partekatu">
 <!ENTITY save_as_pdf "Gorde PDF gisa">
+
 <!ENTITY find_in_page "Bilatu orrian">
 <!ENTITY desktop_mode "Mahaigaineko gunea">
 <!ENTITY page "Orria">
@@ -367,7 +385,7 @@ size. -->
 
 <!ENTITY find_text "Bilatu orrian">
 <!ENTITY find_prev "Aurrekoa">
-<!ENTITY find_next "Hurrengoa">
+
 <!ENTITY find_close "Itxi">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -392,6 +410,8 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Ainguratu gunea">
 <!ENTITY contextmenu_top_sites_unpin "Desainguratu gunea">
 <!ENTITY contextmenu_add_search_engine "Gehitu bilaketa-motorra">
+
+
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
@@ -414,8 +434,6 @@ size. -->
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
-<!ENTITY pref_prevent_magnifying_glass "Desgaitu lupa ">
-<!ENTITY pref_prevent_magnifying_glass_summary "Eragotzi lupa erabiltzea pantaila-ukipen anbiguoak ebaztean">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -474,8 +492,6 @@ size. -->
 <!ENTITY button_set "Ezarri">
 <!ENTITY button_clear "Garbitu">
 <!ENTITY button_copy "Kopiatu">
-
-<!ENTITY firstrun_panel_title_welcome "Ongi etorri">
 
 <!ENTITY home_top_sites_title "Gune erabilienak">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -565,14 +581,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_insecure "Konexio ez-segurua">
 <!-- Mixed content notifications in site identity popup -->
 
-<!ENTITY mixed_content_blocked_all "&brandShortName;(e)k seguruak ez diren orri honetako atalak blokeatu ditu.">
-<!ENTITY mixed_content_blocked_some "&brandShortName;(e)k seguruak ez diren orri honetako zenbait atal blokeatu ditu.">
-<!ENTITY mixed_content_display_loaded "Orri honek seguruak ez diren zenbait elementu ditu.">
-<!ENTITY mixed_content_protection_disabled "Babesa desgaitu duzu seguruak ez diren elementuetatik.">
 
-<!ENTITY loaded_mixed_content_message "Orri hau segurua ez den edukia ari da bistaratzen.">
-<!ENTITY blocked_mixed_content_message_top "Segurua ez den edukia blokeatu du &brandShortName;(e)k.">
-<!ENTITY blocked_mixed_content_message_bottom "Webgune gehienak ondo ibiliko dira eduki hau blokeatuta egonda ere.">
+
 <!-- Tracking content notifications in site identity popup -->
 
 <!ENTITY doorhanger_tracking_title "Jarraipenaren babesa">
@@ -590,7 +600,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Datu pribatuak garbituta">
 <!ENTITY private_data_fail "Datu pribatu batzuk ezin izan dira garbitu">
 
-<!ENTITY bookmarkhistory_button_import "Inportatu">
 <!ENTITY bookmarkhistory_import_both "Laster-markak eta historia inportatzen 
 Android-etik">
 <!ENTITY bookmarkhistory_import_bookmarks "Laster-markak inportatzen 
@@ -704,4 +713,11 @@ Android-etik">
 <!ENTITY restriction_disallow_clear_history_title2 "Desgaitu \u0027Garbitu nabigatze-historia\u0027">
 <!ENTITY restriction_disallow_master_password_title2 "Desgaitu pasahitz nagusia">
 <!ENTITY restriction_disallow_guest_browsing_title2 "Desgaitu gonbidatu-saioekin nabigatzea">
-
+<!-- Default Bookmarks titles-->
+<!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
+<!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
+<!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
