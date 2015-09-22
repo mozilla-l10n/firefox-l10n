@@ -10,3 +10,5 @@
 <!ENTITY addonAction.disable                    "ନିଷ୍କ୍ରିୟ">
 <!ENTITY addonAction.uninstall                  "ବିସ୍ଥାପନ">
 <!ENTITY addonAction.undo                       "ପଛକୁ ଫେରାନ୍ତୁ">
+
+<!ENTITY addonUnsigned.learnMore                "ଅଧିକ ଜ୍ଞାନ ଆହରଣ କରନ୍ତୁ">

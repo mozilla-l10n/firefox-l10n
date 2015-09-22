@@ -2,12 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                  "ବ୍ୟକ୍ତିଗତ ବ୍ରାଉଜିଙ୍ଗ">
+<!ENTITY privatebrowsingpage.title "ବ୍ୟକ୍ତିଗତ ବ୍ରାଉଜିଙ୍ଗ">
+<!-- Localisation note: the plus sign here is a shorthand way of expressing the word "and". Contextually the privatebrowsingpage.title.private string
+                        is used as a title, with the privatebrowsingpage.title string preceding it but on a separate line.
+                        So the final line will say "Private Browsing + Tracking Protection". -->
+<!-- Localization note (privatebrowsingpage.title.normal1): "Private Browsing"
+     is capitalized in English to be consistent with our existing uses of the
+     term. -->
 
-<!ENTITY privatebrowsingpage.issueDesc.private      "ଆପଣ  ନୂତନ ଏକ ବ୍ୟକ୍ତିଗତ ଟ୍ୟାବ ଖୋଲିଛନ୍ତି।">
-<!ENTITY privatebrowsingpage.issueDesc.normal       "ଆପଣ ବ୍ୟକ୍ତିଗତ ଟ୍ୟାବରେ ନାହାନ୍ତି।">
+<!-- Localization note (privatebrowsingpage.description.normal2): "Private
+     Browsing is capitalized in English to be consistent with our existing uses
+     of the term. -->
 
-<!ENTITY privatebrowsingpage.description            "ବ୍ୟକ୍ତିଗତ ବ୍ରାଟ୍ୟାବରେ, &brandShortName; କୌଣସି ବ୍ରାଉଜିଙ୍ଗ ପୁରୁଣା ତଥ୍ୟ, ସନ୍ଧାନ ପୁରୁଣା ତଥ୍ୟ, ଆହରଣ ପୁରୁଣା ତଥ୍ୟ, ୱେବ ଫର୍ମ ପୁରୁଣା ତଥ୍ୟ, କୁକିଗୁଡ଼ିକୁ, କିମ୍ବା ଅସ୍ଥାୟୀ ଇଣ୍ଟର୍ନେଟ ଫାଇଲଗୁଡ଼ିକୁ  ରଖିନଥାଏ। ତଥାପି, ଆପଣ ଆହରଣ ଏବଂ ଚିହ୍ନଟ କରିଥିବା ଫାଇଲଗୁଡ଼ିକୁ ରଖାଯାଇଥାଏ।">
-<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+<!ENTITY privatebrowsingpage.link.private "ଅଧିକ ଜାଣିବାକୁ ଚାହୁଁଛନ୍ତି କି?">
 
-<!ENTITY privatebrowsingpage.moreInfo               "ଏହି ଉପକରଣରେ ଆପଣଙ୍କର ବ୍ରାଉଜିଙ୍ଗ ପୁରୁଣା ତଥ୍ୟର କୌଣସି ବିବରଣୀ ନଥିଲେ ମଧ୍ଯ, ଆପଣଙ୍କର ସର୍ଭିସପ୍ରଦାନକାରୀ କିମ୍ବା ନିଯୁକ୍ତିଦାତା ଆପଣ ପରିଦର୍ଶନ କରିଥିବା ପୃଷ୍ଠାଗୁଡ଼ିକୁ ଅନୁସରଣ କରିପାରିବେ।">

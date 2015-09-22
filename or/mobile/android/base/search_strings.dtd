@@ -1,20 +1,17 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-<!ENTITY search_app_name "&brandShortName; ସନ୍ଧାନ">
 <!--  Localization note (search_bar_hint): The &formatS; will be replaced with the name of
       the currently selected search engine. -->
 
 <!ENTITY search_bar_hint "&formatS; ସହିତ ଖୋଜନ୍ତୁ">
 
-<!ENTITY search_empty_title "&brandShortName; ସନ୍ଧାନ">
 
 <!--  Localization note (search_plus_content_description): This is the content description
       for the "+" icon that appears at the end of search suggestions. -->
 
 <!ENTITY search_pref_title "ସଂରଚନା">
-<!ENTITY search_pref_button_content_description "ସଂରଚନା">
+
 
 <!ENTITY pref_clearHistory_confirmation "ପୁରୁଣା ତଥ୍ୟ ସଫାହୋଇଛି">
 <!ENTITY pref_clearHistory_dialogMessage "ଏହି ଉପକରଣରୁ ସମସ୍ତ ସନ୍ଧାନ ପୁରୁଣା ତଥ୍ୟକୁ ଅପସାରଣ କରିବେ କି?">
