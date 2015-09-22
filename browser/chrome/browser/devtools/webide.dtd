@@ -26,6 +26,7 @@
 <!ENTITY projectMenu_showPrefs_accesskey "l">
 <!ENTITY projectMenu_manageComponents_label "Bainistigh Comhpháirteanna Breise">
 <!ENTITY projectMenu_manageComponents_accesskey "B">
+<!ENTITY projectMenu_refreshTabs_label "Athnuaigh Cluaisíní">
 
 <!ENTITY runtimeMenu_label "Am rite">
 <!ENTITY runtimeMenu_accesskey "R">
