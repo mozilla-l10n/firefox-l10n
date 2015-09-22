@@ -7,32 +7,13 @@
 <!ENTITY setPassword.tokenName.label "Befeiligingsapparaat">
 <!ENTITY setPassword.oldPassword.label "Aktueel wachtwurd">
 <!ENTITY setPassword.newPassword.label "Nij wachtwurd">
-<!ENTITY setPassword.reenterPassword.label "Nij wachtwurd (op 'e nij)">
+<!ENTITY setPassword.reenterPassword.label "Nij wachtwurd (opnij)">
 <!ENTITY setPassword.meter.label "Wachtwurdkwaliteitsmeter:">
-<!ENTITY setPassword.meter.loading "Dwaande mei laden">
    
 <!-- Values for resetpassword.xul -->
-<!ENTITY resetPasswordButtonLabel "Op 'e nij inisjalisearje">
-<!ENTITY resetPassword.title  "Haadwachtwurd op 'e nij inisjalisearje">
-<!ENTITY resetPassword.text  "As jo jo haadwachtwurd op 'e nij ynstelle sille, al jo bewarre web- en e-mailwachtwurden, formuliergegevens, persoanlijke sertifikaten en privee-kaaien fergetten wurde. Binne jo wis dat jo jo haadwachtwurd op 'e nij inisjalisearje wolle?">
-
-<!-- Values for getpassword.xul -->
-<!ENTITY getPassword.title  "Fier haadwachtwurd yn">
-<!ENTITY getPassword.tokenName2.label "Befeiligingsapparaat:">
-<!ENTITY getPassword.password.label "Wachtwurd:">
-
-<!-- These should be common -->
-<!ENTITY piperror.title "Flater">
-<!ENTITY pipalert.title "Flater - ferhelpe net mooglik">
-
-<!-- Prefs panel strings -->
-<!ENTITY pref.security.general.lHeader "Befeiliging">
-<!ENTITY pref.security.general.rHeader "Ynstellings foar algemiene befeiliging">
-<!ENTITY pref.security.general.header "Ynstellings foar algemiene befeiliging">
-<!ENTITY pref.security.general.level.title "Befeiligingsniveau">
-<!ENTITY pref.security.general.paranoid.label "Brûk paranoïde befeiligingsynstellings">
-<!ENTITY pref.security.general.certificates.title "Sertifikaten">
-<!ENTITY pref.security.general.manageCert.label "Sertifikaten behearje">
+<!ENTITY resetPasswordButtonLabel "Opnij inisjalisearje">
+<!ENTITY resetPassword.title  "Haadwachtwurd opnij inisjalisearje">
+<!ENTITY resetPassword.text  "As jo jo haadwachtwurd opnij ynstelle sille, al jo bewarre web- en e-mailwachtwurden, formuliergegevens, persoanlijke sertifikaten en privee-kaaien fergetten wurde. Binne jo wis dat jo jo haadwachtwurd op 'e nij inisjalisearje wolle?">
 
 <!-- Downloading a cert -->
 <!ENTITY downloadCert.title "Dwaande sertifikaat op te heljen">
@@ -42,9 +23,7 @@
 <!ENTITY downloadCert.trustObjSign "Fertrouw dizze CA foar it identifisearjen fan ûntwiklers fan programmatuer.">
 <!ENTITY downloadCert.message3 "Foardat jo dizze CA fertrouwe foar watfoar gebrûk dan ek, moatte jo har sertifikaat bestudearje, lyk as har belied en procedures (as se beskikber binne).">
 <!ENTITY downloadCert.viewCert.label "Werjaan">
-<!ENTITY downloadCert.viewPolicy.label "Belied">
 <!ENTITY downloadCert.viewCert.text "CA-sertifikaat bestudearje">
-<!ENTITY downloadCert.viewPolicy.text "CA-belied en -prosedueres bestudearje">
 
 <!-- Strings for the SSL client auth ask dialog -->
 <!ENTITY clientAuthAsk.title "Brûkersydentifikaasjefersyk">
@@ -63,18 +42,8 @@
 <!ENTITY pkcs12.setpassword.label2 "Wachtwurd foar de reservekopy fan it sertifikaat (op 'e nij):">
 <!ENTITY pkcs12.setpassword.reminder "Belangryk: as jo jo wachtwurd foar de reservekopy fan it sertifikaat fejitte, kinne jo dizze reservekopy letter net ferhelpe.  Bewarje it op in feilich plak.">
 
-<!ENTITY pkcs12.getpassword.title  "Wachtwurdynfierdialoochfinster">
-<!ENTITY pkcs12.getpassword.message "Fier it wachtwurd yn dat brûkt wurde by it kodearjen fan de reservekopy fan dit sertifikaat.">
-
 <!ENTITY chooseToken.title  "Tokenkardialoochfinster">
 <!ENTITY chooseToken.message1 "Kies in token.">
-
-<!ENTITY escrowWarn.title "kodearingskaaikopy">
-<!ENTITY escrowWarn.message1 "Belangryk: dizze sertifikaasjeautoriteit hat jo frege om in reservekopy te meitsjen fan jo privee-befeiligingskaai.">
-<!ENTITY escrowWarn.benefit1 "It foardiel is dat as jo de tagong ta jo privee-befeiligingskaai ferlieze, jo in kopy opfreegje kinne by dizze sertifikaasjeautoriteit.">
-<!ENTITY escrowWarn.message2 "Jo privee-befeiligingskaai wurdt echter bewarre troch de sertifikaasjeautoriteit en soe brûkt wurde kinne om sûnder jo tastemming jo kodearre e-mail of dokuminten te lêzen.">
-<!ENTITY examineCert.label "Toan Sertifikaat">
-<!ENTITY examineCert.accesskey "T">
 
 <!-- Strings for the CreateCertInfo dialog  -->
 <!ENTITY createCertInfo.title "Dwaande in priveekaai te meitsjen">

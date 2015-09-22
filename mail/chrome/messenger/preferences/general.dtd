@@ -35,3 +35,5 @@
 <!ENTITY customsound.accesskey            "l">
 <!ENTITY browse.label                     "Blêdzje…">
 <!ENTITY browse.accesskey                 "B">
+
+<!ENTITY defaultSearchEngine.label        "Standertsykmasine">

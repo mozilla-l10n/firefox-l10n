@@ -8,10 +8,15 @@
 <!ENTITY lightning.toolbar.task.name.accesskey "T">
 
 <!ENTITY lightning.toolbar.sync.label "Syngronisearje">
+<!ENTITY lightning.toolbar.sync.tooltip "Aginda’s opnij lade en wizigingen syngronisearje">
 <!ENTITY lightning.toolbar.delete.label "Fuortsmite">
+<!ENTITY lightning.toolbar.delete.tooltip "Selektearre barrens of taken fuortsmite">
 <!ENTITY lightning.toolbar.edit.label "Bewurkje">
-<!ENTITY lightning.toolbar.gototoday.label "Gean nei hjoed">
+<!ENTITY lightning.toolbar.edit.tooltip "Selektearre barren of taak bewurjke">
+<!ENTITY lightning.toolbar.gototoday.label "Nei hjoed gean">
+<!ENTITY lightning.toolbar.gototoday.tooltip "Nei hjoed gean">
 <!ENTITY lightning.toolbar.print.label "Ofdrukke">
+<!ENTITY lightning.toolbar.print.tooltip "Barren of taken ôfdrukke">
 
 <!-- Mode Toolbar -->
 <!ENTITY lightning.toolbar.calendar.label     "Aginda">
@@ -23,7 +28,9 @@
 
 <!-- Toolbar write button -->
 <!ENTITY lightning.toolbar.newevent.label     "Barren">
+<!ENTITY lightning.toolbar.newevent.tooltip   "In nij barren meitsje">
 <!ENTITY lightning.toolbar.newtask.label      "Taak">
+<!ENTITY lightning.toolbar.newtask.tooltip    "In nije taak meitsje">
 
 <!-- Messenger Toolbar -->
 <!ENTITY lightning.toolbar.day.label                 "Dei">

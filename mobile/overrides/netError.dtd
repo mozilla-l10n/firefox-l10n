@@ -28,7 +28,7 @@
       <input id='searchtext' type='search'></input>
       <button id='searchbutton'>Sykje</button>
     </div>
-  <li>Kontrolearje de data- of wifi-ferbining fan jo apparaat as jo gjin inkele side lade kinne.
+  <li>As jo gjin inkele side lade kinne, kontrolearje dan de data- of wifi-ferbining fan jo apparaat.
       <button id='wifi'>Wifi ynskeakelje</button>
   </li>
 </ul>
@@ -45,7 +45,7 @@
 
 <!ENTITY generic.title "Oei.">
 <!ENTITY generic.longDesc "
-<p>&brandShortName; kin om ien of oare reden dizze side net lade.</p>
+<p>&brandShortName; kin om ien oft oare reden dizze side net lade.</p>
 ">
 
 <!ENTITY malformedURI.title "It adres jildt net">
@@ -68,7 +68,7 @@
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Dokumint ferrûn">
-<!ENTITY notCached.longDesc "<p>It fersochte dokumint is net beskikber yn &brandShortName;'s-buffer.</p><ul><li>Fanwege in feilichheidsfoarsoarchmaatregel sil &brandShortName; fertroulike dokuminten net automatysk opnij oanfreegje.</li><li>Klik om it dokumint opnij oan te freegjen fan it webstee.</li></ul>">
+<!ENTITY notCached.longDesc "<p>It fersochte dokumint is net beskikber yn de buffer fan &brandShortName;.</p><ul><li>Fanwege in feilichheidsfoarsoarchmaatregel sil &brandShortName; fertroulike dokuminten net automatysk opnij oanfreegje.</li><li>Klik om it dokumint opnij oan te freegjen fan it webstee.</li></ul>">
 
 <!ENTITY netOffline.title "Offline-moadus">
 <!ENTITY netOffline.longDesc3 "
@@ -136,8 +136,8 @@
 <!ENTITY unknownSocketType.title "Unferwacht antwurd fan de tsjinner">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
-  <li>Gean nei oft de persoanlike befeiligingsbeheerder ynstallearre is op
-    jo systeem.</li>
+  <li>Soargje derfoar dat de persoanlike befeiligingsbehearder op jo systeem
+    ynstallearre is.</li>
   <li>Dit kin it gefolch wêze fan in net-standert konfiguraasje fan de tsjinner.</li>
 </ul>
 ">
@@ -161,14 +161,14 @@
 <!ENTITY sharedLongDesc3 "
 <ul>
   <li>De side koe tydlik net beskikber of te drok wêze. Probearje letter opnij.</li>
-  <li>As jo hielendalk gjin siden lade kinne, kontrolearje dan jo de data- of wifi-ferbining fan jo apparaat.
+  <li>As jo gjin inkele side lade kinne, kontrolearje dan de gegevens- of wifi-ferbining fan jo apparaat.
     <button id='wifi'>Wifi ynskeakelje</button>
   </li>
 </ul>
 ">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blokkearre troch ynhâldsfeilichheidsbelied">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; hat foarkommen dat dizze side laden op dizze wize wurdt, omdat de side in ynhâldsfeilichheidsbelied hat dy't dat net tastiet.</p>">
+<!ENTITY cspBlocked.title "Blokkearre troch ynhâldsbefeiligingsbelied">
+<!ENTITY cspBlocked.longDesc "<p>De browser hat opkeard dat de side op dizze manier laden wurd, omdat de side in ynhâldsbefeiligingsbelied hat dat dit net tastiet.</p>">
 
 <!ENTITY corruptedContentError.title "Korruptearre ynhâldsflater">
 <!ENTITY corruptedContentError.longDesc "<p>De side dy't jo probearje te besjen kin net toand wurde omdat der in flater yn de gegevensoerdracht ûntdekt waard.</p><ul><li>Nim kontakt op mei de webstee-eigners om se te ynformearjen oer dit probleem.</li></ul>">

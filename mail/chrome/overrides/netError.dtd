@@ -155,20 +155,25 @@
 </ul>
 ">
 
-<!ENTITY malwareBlocked.title "Fertochte Oanfal Side!">
+<!ENTITY malwareBlocked.title "Fertochte oanfalside!">
 <!ENTITY malwareBlocked.longDesc "<p>
 Oanfalsides probearje om programmatuer te ynstallearjen dy't privee-ynformaasje stêle kinne, jo komjûter brûke om oaren oan te fallen, of jo systeem skansearje.</p>
 <p>Jo soenen better dizze side net besykje!</p>
 ">
 
-<!ENTITY phishingBlocked.title "Fertochte Web Ferfalsking!">
+<!ENTITY unwantedBlocked.title "Fertochte website mei net-winske software!">
+<!ENTITY unwantedBlocked.longDesc "
+<p>Siden mei net-winske software probearje software te ynstallearjen dy't misliedend wêze kinne en jo systeem op ûnferwachte manieren beÿnfloedzje kin.</p>
+">
+
+<!ENTITY phishingBlocked.title "Fertochte webferfalsking!">
 <!ENTITY phishingBlocked.longDesc "
 <p>It ynfieren fan persoanlike ynformaasje op dizze side kin resultearje yn identeitsstellerij of oare fraude.</p>
 <p>Dizze typen fan webferfalsking wurde brûkt yn scams bekend as phishing oanfallen, weryn frauduleuse websides en emails brûkt wurde om boarnes dy't jo fertrouwe te imitearjen.</p>
 ">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blokkearre troch ynhâldsfeilichheidsbelied">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; hat foarkommen dat dizze side laden op dizze wize wurdt, omdat de side in ynhâldsfeilichheidsbelied hat dy't dat net tastiet.</p>">
+<!ENTITY cspBlocked.title "Blokkearre troch ynhâldsbefeiligingsbelied">
+<!ENTITY cspBlocked.longDesc "<p>De browser hat opkeard dat de side op dizze manier laden wurd, omdat de side in ynhâldsbefeiligingsbelied hat dat dit net tastiet.</p>">
 
 <!ENTITY corruptedContentError.title "Korruptearre ynhâldsflater">
 <!ENTITY corruptedContentError.longDesc "<p>De side dy't jo probearje te besjen kin net toand wurde omdat der in flater yn de gegevensoerdracht ûntdekt waard.</p><ul><li>Nim kontakt op mei de webstee-eigners om se te ynformearjen oer dit probleem.</li></ul>">

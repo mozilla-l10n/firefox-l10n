@@ -4,6 +4,5 @@
 
 <!ENTITY  paneGeneral.title       "Algemien">
 <!ENTITY  paneAlarms.title        "Alarmen">
-<!ENTITY  paneCategories.title    "Kategorieën">
+<!ENTITY  paneCategories.title    "Kategoryën">
 <!ENTITY  paneViews.title         "Oersichten">
-<!ENTITY  paneTimezones.title     "Tiidsône">

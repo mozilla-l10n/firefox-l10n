@@ -3,7 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title 						"Adresboek">
-
+<!ENTITY blankResultsPaneMessage.label                  "Dit adresboek toant allnnich kontakten nei in sykopdracht">
+<!ENTITY localResultsOnlyMessage.label                  "Kontakten út eksterne adresboeken wurde pas nei in sykopdracht toand">
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Bestân">
 <!ENTITY fileMenu.accesskey                             "B">
@@ -160,6 +161,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY searchItem.title                               "Fluch sykje">
 
 <!-- Results Pane -->
+<!ENTITY Addrbook.label                                 "Adresboek">
+<!ENTITY Addrbook.accesskey                             "s">
 <!ENTITY GeneratedName.label                            "Namme">
 <!ENTITY GeneratedName.accesskey                        "N">
 <!ENTITY PrimaryEmail.label                             "E-mail">

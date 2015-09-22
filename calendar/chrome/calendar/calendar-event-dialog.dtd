@@ -188,16 +188,10 @@
 <!ENTITY event.description.accesskey                      "w">
 <!ENTITY event.attachments.label                          "Bylagen:" >
 <!ENTITY event.attachments.accesskey                      "B" >
-
-<!-- LOCALIZATION NOTE - These 4 strings are not in production yet,
-  but I want to land Filelink support for Lightning soon. The attach
-  button will become a dropdown button that allows to attach links
-  as usual, but also files via the Filelink providers. -->
 <!ENTITY event.attachments.menubutton.label               "Tafoegje">
 <!ENTITY event.attachments.menubutton.accesskey           "T">
 <!ENTITY event.attachments.url.label                      "Webside…">
 <!ENTITY event.attachments.url.accesskey                  "W">
-
 <!ENTITY event.attachments.popup.remove.label             "Fuortsmite" >
 <!ENTITY event.attachments.popup.remove.accesskey         "F" >
 <!ENTITY event.attachments.popup.open.label               "Iepenje" >
@@ -312,6 +306,7 @@
 <!ENTITY event.recurrence.pattern.yearly.week.5.label        "tongersdei" >
 <!ENTITY event.recurrence.pattern.yearly.week.6.label        "freed" >
 <!ENTITY event.recurrence.pattern.yearly.week.7.label        "sneon" >
+<!ENTITY event.recurrence.pattern.yearly.day.label           "dei" >
 <!ENTITY event.recurrence.of.label                           "fan" >
 <!ENTITY event.recurrence.pattern.yearly.month2.1.label      "jannewaris" >
 <!ENTITY event.recurrence.pattern.yearly.month2.2.label      "febrewaris" >

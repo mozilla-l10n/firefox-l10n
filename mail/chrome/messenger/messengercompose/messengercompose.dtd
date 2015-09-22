@@ -158,6 +158,8 @@
 <!ENTITY bothFormatCmd.accesskey "e">
 <!ENTITY priorityMenu.label "Prioriteit">
 <!ENTITY priorityMenu.accesskey "P">
+<!ENTITY priorityButton.title "Prioriteit">
+<!ENTITY priorityButton.tooltiptext "De prioriteit fan it berjocht wizigje">
 <!ENTITY priorityButton.label "Prioriteit:">
 <!ENTITY lowestPriorityCmd.label "Leechst">
 <!ENTITY lowestPriorityCmd.accesskey "c">

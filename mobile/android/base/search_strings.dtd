@@ -8,7 +8,7 @@
       the currently selected search engine. -->
 <!ENTITY search_bar_hint 'Sykje mei &formatS;'>
 
-<!ENTITY search_empty_title '&brandShortName;-sykje'>
+<!ENTITY search_empty_title2 'Start sykjen'>
 <!ENTITY search_empty_message 'Fluch sykje nei wat jo mar wolle'>
 
 <!--  Localization note (search_plus_content_description): This is the content description

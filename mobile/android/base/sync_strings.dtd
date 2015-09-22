@@ -14,10 +14,10 @@
 <!ENTITY sync.title.pair.label 'In apparaat keppelje'>
 
 <!-- J-PAKE Key Screen -->
-<!ENTITY sync.subtitle.connect.label 'Selektearje &syncBrand.shortName.label; ynstelle” op it apparaat om jo nije apparaat te aktivearjen.'>
+<!ENTITY sync.subtitle.connect.label 'Selektearje ‘&syncBrand.shortName.label; ynstelle’ op it apparaat om jo nije apparaat te aktivearjen.'>
 <!ENTITY sync.subtitle.header2.label 'Fier dizze koade yn op jo oare apparaat'>
-<!ENTITY sync.subtitle.connectlocation2.label 'Selektearje “&sync.title.pair.label;” yn de &syncBrand.shortName.label; seksje fa de opsjes fan Firefox op jo oare appaaraat.'>
-<!ENTITY sync.subtitle.pair.label 'Selektearje “In apparaat keppelje” op jo oare apparaat om te aktivearjen.'>
+<!ENTITY sync.subtitle.connectlocation2.label 'Selektearje ‘&sync.title.pair.label;’ yn de &syncBrand.shortName.label; seksje fa de opsjes fan Firefox op jo oare appaaraat.'>
+<!ENTITY sync.subtitle.pair.label 'Selektearje ‘In apparaat keppelje’ op jo oare apparaat om te aktivearjen.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
 <!ENTITY sync.pin.oneline.label '...'>
 <!ENTITY sync.link.show.label 'Toane hoe.'>
@@ -52,7 +52,7 @@
 
 <!-- Pair Device -->
 <!ENTITY sync.pair.tryagain.label 'Probearje it opnij.'>
-<!ENTITY sync.pair.connectlocation.label 'Selektearje “&syncBrand.shortName.label; ynstelle” op jo nije apparaat en dan  “Ik haw in account.” om it te aktivearjen'>
+<!ENTITY sync.pair.connectlocation.label 'Selektearje ‘&syncBrand.shortName.label; ynstelle’ op jo nije apparaat en dan  ‘Ik haw in account.’ om it te aktivearjen'>
 
 <!-- Firefox SyncAdapter Settings Screen -->
 <!ENTITY sync.settings.options.label 'Opsjes'>
@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label 'Wat te syngronisearjen'>
 <!ENTITY sync.configure.engines.sync.my.title.label 'Syngronisearje:'>
 <!ENTITY sync.configure.engines.title.bookmarks 'Blêdwizers'>
-<!ENTITY sync.configure.engines.title.passwords 'Wachtwurden'>
+<!ENTITY sync.configure.engines.title.passwords2 'Oanmeldingen'>
 <!ENTITY sync.configure.engines.title.history 'Skiednis'>
 <!ENTITY sync.configure.engines.title.tabs 'Ljepblêden'>
 
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy 'Privacyferklearring (Ing)'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'Wolkom by &syncBrand.shortName.label;'>
-<!ENTITY fxaccount_getting_started_description 'Meld jo oan om jo ljepblêden, blêdwizers, wachtwurden en mear te syngronisearjen.'>
+<!ENTITY fxaccount_getting_started_description2 'Meld jo oan om jo ljepblêden, blêdwizers, oanmeldingen en mear te syngronisearjen.'>
 <!ENTITY fxaccount_getting_started_get_started 'Begjinne'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Brûke jo in âldere ferzje fan &syncBrand.shortName.label;?'>
 
@@ -150,6 +150,8 @@
      etc).  The account remains a "Firefox" account. -->
 <!ENTITY fxaccount_create_account_header2 'Firefox-account oanmeitsje'>
 <!ENTITY fxaccount_create_account_password_length_restriction 'Moat op syn minst 8 tekens wêze'>
+<!ENTITY fxaccount_create_account_day_of_birth 'Dei'>
+<!ENTITY fxaccount_create_account_month_of_birth 'Moanne'>
 <!ENTITY fxaccount_create_account_year_of_birth 'Bertejier'>
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 'Troch fierder te gean akseptearje ik de &formatS1; en &formatS2; fan de Firefox-cloudtsjinsten.'>
@@ -167,8 +169,12 @@
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link 'Der is in ferifikaasjekeppeling ferstjoerd nei &formatS;'>
 <!ENTITY fxaccount_confirm_account_resend_email 'E-mail opnij ferstjoere'>
+<!ENTITY fxaccount_confirm_account_change_email 'Dit e-mailadres ferjitte?'>
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 'Ferifikaasje-e-mail ferstjoerd'>
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Kin gjin ferifikaasje-e-mail ferstjoere'>
+<!ENTITY fxaccount_resend_unlock_code_button_label 'ûntskoattel-e-mail opnij ferstjoere'>
+<!ENTITY fxaccount_unlock_code_sent 'Account ûntskoattel-e-mail ferstjoerd'>
+<!ENTITY fxaccount_unlock_code_not_sent 'Kin gjin account ûntskoattel-e-mail ferstjoere'>
 
 <!ENTITY fxaccount_sign_in_sub_header 'Oanmelde'>
 <!ENTITY fxaccount_sign_in_button_label 'Oanmelde'>
@@ -179,13 +185,21 @@
 <!ENTITY fxaccount_account_verified_sub_header 'Account ferifiearre'>
 <!ENTITY fxaccount_account_verified_description2 'It syngronisearjen fan jo gegevens sil oer inkele mominten begjinne.'>
 
+<!ENTITY fxaccount_migration_finished_header 'Fernijing foltôge'>
+
 <!ENTITY fxaccount_update_credentials_header 'Oanmelde'>
 <!ENTITY fxaccount_update_credentials_button_label 'Oanmelde'>
 <!ENTITY fxaccount_update_credentials_unknown_error 'Kin net oanmelde'>
 
+<!ENTITY fxaccount_finish_migrating_header 'Meld jo oan om it fernijen te foltôgjen'>
+<!ENTITY fxaccount_finish_migrating_button_label 'Fernijen foltôgje'>
+<!ENTITY fxaccount_finish_migrating_description 'Fernijen kin in protte gegevens ferstjoere. Jo kinne it bêste mei in wifi-netwurk ferbûn wêze.'>
+
 <!ENTITY fxaccount_status_header2 'Firefox-account'>
 <!ENTITY fxaccount_status_signed_in_as 'Oanmeld as'>
 <!ENTITY fxaccount_status_auth_server 'Accounttsjinner'>
+<!ENTITY fxaccount_status_sync_now 'No syngronisearje'>
+<!ENTITY fxaccount_status_syncing2 'Syngronisearje…'>
 <!ENTITY fxaccount_status_device_name 'Apparaatnamme'>
 <!ENTITY fxaccount_status_sync_server 'Synctsjinner'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
@@ -193,11 +207,12 @@
 <!ENTITY fxaccount_status_needs_verification2 'Jo account moat ferifiearre wurde. Tik om de ferifikaasje-e-mail opnij te ferstjoeren.'>
 <!ENTITY fxaccount_status_needs_credentials 'Kin net ferbine. Tik om jo oan te melden.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Jo moatte &brandShortName; fernije om jo oan te melden.'>
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; is ynsteld, mar syngronisearret net automatysk. Skeakel “Auto-sync gegevens yn Android Instellingen &gt; Gegevengebruik.'>
-<!ENTITY fxaccount_status_needs_account_enabled '&syncBrand.shortName.label; is ynsteld, mar syngronisearret net automatysk. Tik om syngronisearjen te starten.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; is ynsteld, mar syngronisearret net automatysk. Skeakel ‘Automatysk syngronisearje’ om yn Android-instellingen &gt; Gegevensgebruik.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; is ynsteld, mar syngronisearret net automatysk. Skeakel ‘Automatysk syngronisearje’ om yn it menu fan Android-instellingen &gt; Accounts.'>
+<!ENTITY fxaccount_status_needs_finish_migrating 'Tik om jo oan te melden by jo nije Firefox-account.'>
 <!ENTITY fxaccount_status_bookmarks 'Blêdwizers'>
 <!ENTITY fxaccount_status_history 'Skiednis'>
-<!ENTITY fxaccount_status_passwords 'Wachtwurden'>
+<!ENTITY fxaccount_status_passwords2 'Oanmeldingen'>
 <!ENTITY fxaccount_status_tabs 'Iepene ljepblêden'>
 <!ENTITY fxaccount_status_legal 'Juridysk' >
 <!-- Localization note: when tapped, the following two strings link to
@@ -215,7 +230,7 @@
 <!ENTITY fxaccount_remove_account_toast 'Firefox-account &formatS; fuortsmiten.'>
 
 <!ENTITY fxaccount_remove_account_menu_item 'Account fuortsmite'>
-
+<!ENTITY fxaccount_enable_debug_mode 'Debugmoadus ynskeakelje'>
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
@@ -242,9 +257,16 @@
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Tsjinner is dwaande, probearje it letter opnij'>
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Tsjinner is dwaande, probearje it letter opnij'>
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Der wie in probleem'>
-<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT 'Kin net ferbine mei it netwurk'>
+<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT 'Kin net ferbine mei netwurk'>
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Account is beskoattele. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; is net ferbûn'>
 <!-- Note to translators: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Tik om jo oan te melden as &formatS;'>
+
+<!ENTITY fxaccount_sync_finish_migrating_notification_title '&syncBrand.shortName.label; fernijen foltôgje?'>
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text 'Tik om jo oan te melden as &formatS;'>
+

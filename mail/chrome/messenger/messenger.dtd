@@ -145,6 +145,8 @@
 <!ENTITY messagePaneVertical.accesskey "F">
 <!ENTITY showFolderPaneCmd.label "Mappaniel">
 <!ENTITY showFolderPaneCmd.accesskey "M">
+<!ENTITY showFolderPaneColsCmd.label "Mappenfinsterkolommen">
+<!ENTITY showFolderPaneColsCmd.accesskey "o">
 <!ENTITY showMessageCmd.label "Berjochtefinster">
 <!ENTITY showMessageCmd.accesskey "e">
 
@@ -190,6 +192,8 @@
 <!ENTITY sortByFromCmd.accesskey "n">
 <!ENTITY sortByRecipientCmd.label "Untfanger">
 <!ENTITY sortByRecipientCmd.accesskey "t">
+<!ENTITY sortByCorrespondentCmd.label "Korrespondinten">
+<!ENTITY sortByCorrespondentCmd.accesskey "e">
 <!ENTITY sortByUnreadCmd.label "Lêzen">
 <!ENTITY sortByUnreadCmd.accesskey "z">
 <!ENTITY sortByOrderReceivedCmd.label "Folchoarder fan ûntfangst">
@@ -202,7 +206,7 @@
 <!ENTITY sortThreaded.accesskey "P">
 <!ENTITY sortUnthreaded.label "Gjin petearen">
 <!ENTITY sortUnthreaded.accesskey "e">
-<!ENTITY groupBySort.label "Groepearre op soarte">
+<!ENTITY groupBySort.label "Groepearre op sortearing">
 <!ENTITY groupBySort.accesskey "G">
 <!ENTITY msgsMenu.label "Berjochten">
 <!ENTITY msgsMenu.accesskey "B">
@@ -593,7 +597,9 @@
 <!ENTITY manageTags.accesskey "L">
 
 <!-- Folder Pane -->
-<!ENTITY folderColumn.label "Namme">
+<!ENTITY folderNameColumn.label "Namme">
+<!ENTITY folderUnreadColumn.label "Net lêzen">
+<!ENTITY folderTotalColumn.label "Totaal">
 <!ENTITY folderSizeColumn.label "Grutte">
 
 <!-- Folder Pane Context Menu -->
@@ -654,6 +660,7 @@
 <!ENTITY threadColumn.label "Petear">
 <!ENTITY fromColumn.label "Fan">
 <!ENTITY recipientColumn.label "Untfanger">
+<!ENTITY correspondentColumn.label "Korrespondinten">
 <!ENTITY subjectColumn.label "Underwerp">
 <!ENTITY dateColumn.label "Datum">
 <!ENTITY priorityColumn.label "Prioriteit">
@@ -676,6 +683,7 @@
 <!ENTITY threadColumn2.tooltip "Berjochtpetearen toane">
 <!ENTITY fromColumn2.tooltip "Sortearje op fan">
 <!ENTITY recipientColumn2.tooltip "Sortearje op ûntfanger">
+<!ENTITY correspondentColumn2.tooltip "Sortearje op korrespondinten">
 <!ENTITY subjectColumn2.tooltip "Sortearje op ûnderwerp">
 <!ENTITY dateColumn2.tooltip "Sortearje op datum">
 <!ENTITY priorityColumn2.tooltip "Sortearje op prioriteit">

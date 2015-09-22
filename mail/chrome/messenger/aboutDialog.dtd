@@ -1,5 +1,6 @@
 <!ENTITY aboutDialog.title      	"Oer &brandFullName;">
 
+
 <!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*, update.applyButtonBillboard.*):
 # Only one button is present at a time.
 # The button when displayed is located directly under the Thunderbird version in
@@ -12,18 +13,36 @@
 <!ENTITY update.applyButtonBillboard.label        "Fernijing tapasse…">
 <!ENTITY update.applyButtonBillboard.accesskey    "F">
 
+
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+<!ENTITY warningDesc.version        "&brandShortName; is eksperimenteel en kin net stabyl wêze.">
+<!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetryDesc  "Der wurde automatysk gegevens oer prestaasjes, hardware, gebrûk en persoanlike oanpassingen nei &vendorShortName; ferstjoerd, sadat &brandShortName; ferbettere wurde kin.">
+
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+<!ENTITY community.exp.start        "">
+<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
+<!ENTITY community.exp.middle       " is in ">
+<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "wrâldwiide mienkip">
+<!ENTITY community.exp.end          " dy't gearwurket om it ynternet iepen, iepenbier en foar eltsenien tagonklik te hâlden.">
+
 <!ENTITY community.start2           "&brandShortName; is makke troch ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", in ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "wrâldwiide mienskip">
-<!ENTITY community.end2             " dy't gearwurket om it ynternet better te meitsjen. Wy leauwe dat it ynternet iepen wêze moat, iepenbier, en tagonklik foar elkenien sûnder ien oft oare beheining.">
+<!ENTITY community.end3             " dy't gearwurket om it ynternet iepen, iepenbier, en foar eltsenien tagonklik te hâlden.">
 
-<!ENTITY contribute.start           "Klinkt ynteressant? ">
-<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "Doch mei!">
-<!ENTITY contribute.end             "">
+<!ENTITY helpus.start               "Wolle jo helpe? ">
+<!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
+<!ENTITY helpus.donateLink          "Jou in donaasje">
+<!ENTITY helpus.middle              " of ">
+<!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY helpus.getInvolvedLink     "doch mei!">
+<!ENTITY helpus.end                 "">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 <!ENTITY bottomLinks.license        "Lisinsje-ynformaasje">
@@ -40,6 +59,8 @@
 <!ENTITY update.noUpdatesFound      "&brandShortName; is by de tiid">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "Fernijingen útskeakele troch jo systeembehearder">
+<!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
+<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; wurdt troch in oar eksemplaar bywurke">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
@@ -65,7 +86,7 @@
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
 <!ENTITY update.unsupported.start    "Jo kin gjin fernijingen mear útfiere op dit systeem. ">
-<!ENTITY update.unsupported.linkText "Lês mear">
+<!ENTITY update.unsupported.linkText "Mear ynfo">
 <!ENTITY update.unsupported.end      "">
 
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
@@ -82,6 +103,6 @@
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
 <!ENTITY channel.description.start  "Jo binne op dit stuit op it ">
-<!ENTITY channel.description.end    " fernijingskanaal. ">
+<!ENTITY channel.description.end    "-fernijingskanaal. ">
 
 <!ENTITY cmdCloseMac.commandKey 	"w">

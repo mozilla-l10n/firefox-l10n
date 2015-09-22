@@ -95,6 +95,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageInfoCmd.label "Side-ynfo">
 <!ENTITY pageInfoCmd.accesskey "y">
 <!ENTITY pageInfoCmd.commandkey "y">
+<!ENTITY mirrorTabCmd.label "Ljepblêd spegelje">
+<!ENTITY mirrorTabCmd.accesskey "s">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "Skermfoljende werjefte">
@@ -108,6 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "A">
 
 <!ENTITY fxaSignIn.label "Oanmelde by &syncBrand.shortName.label;">
+<!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label;-foarkarren iepenje">
 <!ENTITY fxaSignInError.label "Opnij ferbine mei &syncBrand.shortName.label;">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; ynskeakele">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; sil ynkoarten starte mei syngronisearjen.">
@@ -124,8 +127,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "A">
 <!ENTITY fullScreenExit.label "Folsleinskermmoadus ôfslute">
 <!ENTITY fullScreenExit.accesskey "F">
-<!ENTITY fullscreenAllowButton.label "Tastean">
-<!ENTITY fullscreenExitButton.label "Wegerje">
 
 <!ENTITY fullscreenExitHint2.value "Druk op ESC om te ferlitten wannear't jo dat wolle.">
 <!ENTITY leaveDOMFullScreen.label "Folsleinskerm ferlitte">
@@ -210,7 +211,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.label           "Kaaiwurd foar dizze sykopdracht tafoegje…">
 <!ENTITY keywordfield.accesskey       "K">
 
-<!ENTITY downloads.label              "Ynladen bestannen">
+<!ENTITY downloads.label              "Downloads">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "Y">
@@ -266,7 +267,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser toolbox UI in the Tools menu. -->
 <!ENTITY browserToolboxMenu.label     "Browserwurkset">
-<!ENTITY browserToolboxMenu.accesskey "e">
+<!ENTITY browserToolboxMenu.accesskey "t">
+<!ENTITY browserToolboxCmd.commandkey "i">
+
+<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
+  -  application menu item that opens the browser content toolbox UI in the Tools menu.
+  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
+<!ENTITY browserContentToolboxMenu.label     "Browserynhâldswurkset">
+<!ENTITY browserContentToolboxMenu.accesskey "u">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Untwikkelersarkbalke slute">
 <!ENTITY devToolbarMenu.label 		   "Untwikkelersarkbalke">
@@ -296,6 +304,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey    "N">
 <!ENTITY newPrivateWindow.label     "Nij priveefinster">
 <!ENTITY newPrivateWindow.accesskey "p">
+<!ENTITY newNonRemoteWindow.label   "Nij net-e10s-finster">
 
 <!ENTITY editMenu.label               "Bewurkje"> 
 <!ENTITY editMenu.accesskey           "W"> 
@@ -384,7 +393,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Fier in sykterm of adres yn">
 <!ENTITY urlbar.accesskey             "d">
-<!ENTITY urlbar.switchToTab.label     "Skeakel nei ljepblêd:">
+<!ENTITY urlbar.switchToTab.label     "Wikselje nei ljepblêd:">
+
+<!ENTITY urlbar.searchSuggestionsNotification.question "Wolle jo jo sykûnderfining ferbetterje mei suggestjes?">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Mear ynfo…">
+<!ENTITY urlbar.searchSuggestionsNotification.disable "Nee">
+<!ENTITY urlbar.searchSuggestionsNotification.enable "Ja">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -409,6 +423,37 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
+
+<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
+     These are set as the aria-label attribute for the search input box and
+     submit button in the in-content search UI, to be used by screen readers. -->
+<!ENTITY contentSearchInput.label     "Sykterm">
+<!ENTITY contentSearchSubmit.label    "Sykopdracht ferstjoere">
+
+<!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
+     These two strings are used to build the header above the list of one-click
+     search providers:  "Search for <used typed keywords> with:" -->
+<!ENTITY searchFor.label              "Sykje nei ">
+<!ENTITY searchWith.label             " mei:">
+
+<!-- LOCALIZATION NOTE (search.label, searchAfter.label):
+     This string is used to build the header above the list of one-click search
+     providers when a one off engine has been selected.  The searchAfter text is
+     intentionally left empty for en-US and can be used by other localizations to
+     display a string after the search engine name.  This string will be displayed
+     as:  "Search <selected engine name><searchAfter.label text>" -->
+<!ENTITY search.label                 "Sykje by ">
+<!ENTITY searchAfter.label            "">
+
+<!-- LOCALIZATION NOTE (searchWithHeader.label):
+     The wording of this string should be as close as possible to
+     searchFor.label and searchWith.label. This string will be used instead of
+     them when the user has not typed any keyword. -->
+<!ENTITY searchWithHeader.label       "Sykje mei:">
+<!-- LOCALIZATION NOTE (changeSearchSettings.button):
+     This string won't wrap, so if the translated string is longer,
+     consider translating it as if it said only "Search Settings". -->
+<!ENTITY changeSearchSettings.button  "Sykynstellingen wizigje">
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -583,20 +628,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sidebarCloseButton.tooltip     "Sidebalke slute">
 
-<!ENTITY quitApplicationCmdWin.label       "Ofslute">
-<!ENTITY quitApplicationCmdWin.accesskey   "O">
-<!ENTITY quitApplicationCmdWin.tooltip     "&brandShortName; ôfslute">
+<!ENTITY quitApplicationCmdWin2.label       "Ofslute">
+<!ENTITY quitApplicationCmdWin2.accesskey   "O">
+<!ENTITY quitApplicationCmdWin2.tooltip     "&brandShorterName; ôfslute">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Ofslute"> 
 <!ENTITY quitApplicationCmd.accesskey   "O">
-<!ENTITY quitApplicationCmdMac.label    "&brandShortName; ôfslute">
+<!ENTITY quitApplicationCmdMac2.label    "&brandShorterName; ôfslute">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "Q">
 
 <!ENTITY closeCmd.label                 "Slute">  
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "S">
+
+<!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "Sidestyl">
 <!ENTITY pageStyleMenu.accesskey "S">
@@ -638,29 +685,38 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label                   "Annulearje">
 <!ENTITY editBookmark.removeBookmark.accessKey       "F">
 
-<!ENTITY identity.unverifiedsite2 "Dit webstee jout gjin identiteitsynformaasje.">
-<!ENTITY identity.connectedTo "Jo binne ferbûn mei">
-<!-- Localization note (identity.runBy) : This string appears between a
-domain name (above) and an organization name (below). E.g.
+<!ENTITY identity.connectionSecure "Befeilige ferbining">
+<!ENTITY identity.connectionNotSecure "Ferbining is net befeilige">
+<!ENTITY identity.connectionFile "Dizze side is op jo kompjûter bewarre.">
+<!ENTITY identity.connectionVerified "&brandShortName; hat ferifiearre dat jo in befeilige ferbining hawwe mei dizze website, hokker beheerd wurdt troch:">
+<!ENTITY identity.connectionInternal "Dit is in befeilige &brandShortName;-side.">
 
-example.com
-which is run by
-Example Enterprises, Inc.
+<!-- Strings for connection state warnings. -->
+<!ENTITY identity.activeBlocked "&brandShortName; hat ûnderdielen op dizze side dy't net befeilige binne blokkearre.">
+<!ENTITY identity.passiveLoaded "Underdielen fan dizze side binne net befeilige (lykas ôfbyldingen).">
+<!ENTITY identity.activeLoaded "Jo hawwe befeiliging op dizze side útskeakele.">
+<!ENTITY identity.weakEncryption "Dizze side brûkt swakke befeiliging.">
 
-The layout of the identity dialog prevents combining this into a single string with
-substitution variables.  If it is difficult to translate the sense of the string
-with that structure, consider a translation which ignores the preceding domain and
-just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "dy't beheard wurdt troch">
+<!-- Strings for connection state warnings in the subview. -->
+<!ENTITY identity.description.insecure "Jo ferbining mei dizze website is net privee. Gegevens dy't jo ferstjoere soenen troch oaren besjoen wurde kinne (lykas wachtwurden, berjochten, creditcardgegevens, ensfh.).">
+<!ENTITY identity.description.weakCipher "Jo ferbining mei dizze website brûkt swakke fersifering en is net privee.">
+<!ENTITY identity.description.weakCipher2 "Oare persoanen kinne jo gegevens besjen of it gedrach fan de website oanpasse.">
+<!ENTITY identity.description.activeBlocked "&brandShortName; hat ûnderdielen fan dizze side dy't net befeilige binne blokkearre.">
+<!ENTITY identity.description.passiveLoaded "Jo ferbining is net privee en gegevens dy't jo mei de website diele soenen troch oaren besjoen wurde kinne.">
+<!ENTITY identity.description.passiveLoaded2 "Dizze website befettet ynhâld dy't net befeilige is (lekas ôfbyldingen).">
+<!ENTITY identity.description.passiveLoaded3 "Hoewol &brandShortName; bepaalde ynhâld blokkearre hat, is der noch hieltyd ynhâld op de side dy't net befeilige is (lykas ôfbyldingen).">
+<!ENTITY identity.description.activeLoaded "Dizze website befettet ynhâld dy't net befeilige is (lykas scripts) en jo ferbining dêrmei is net privee.">
+<!ENTITY identity.description.activeLoaded2 "Gegevens dy't jo mei dizze website diele soenen troch oaren lêzen wurde kinne (lykas wachtwurden, berjochten, creditcardgegevens, ensfh.).">
 
-<!ENTITY identity.moreInfoLinkText "Mear ynformaasje…">
+<!ENTITY identity.enableMixedContentBlocking.label "Beskerming ynskeakelje">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "s">
+<!ENTITY identity.disableMixedContentBlocking.label "Beskerming foar no útskeakelje">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "t">
+<!ENTITY identity.learnMore "Mear ynfo">
+
+<!ENTITY identity.moreInfoLinkText2 "Mear ynformaasje">
 
 <!ENTITY identity.permissions "Tastimmingen">
-
-<!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
-     localized title of this SUMO article
-     https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
-<!ENTITY identity.help.tooltip "Hoe wit ik oft myn ferbining mei in website feilich is?">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -719,7 +775,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "B">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Krij mear tema's">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "K">
-<!ENTITY customizeMode.deveditionTheme.label "&brandShortName;-tema brûke">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Chats op foargrûn">
@@ -734,30 +789,35 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
 <!ENTITY getUserMedia.selectMicrophone.label "Mikrofoan om te dielen:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+<!ENTITY getUserMedia.audioCapture.label "Audio fan it ljepblêd wurdt dield.">
 <!ENTITY getUserMedia.allWindowsShared.message "Alle sichtbere finsters op jo skerm sille dield wurde.">
 
-<!-- Bad Content Blocker Doorhanger Notification -->
-<!ENTITY badContentBlocked.moreinfo "De measte websites sille goed wurkje sels as ynhâld blokkearre is.">
-
-<!ENTITY mixedContentBlocked2.message "Unfeilige ynhâld">
-<!ENTITY mixedContentBlocked2.moreinfo "Guon fersifere eleminten op dizze website binne blokkezrre.">
-<!ENTITY mixedContentBlocked2.learnMore "Lês mear">
-<!ENTITY mixedContentBlocked2.options "Opsjes">
-<!ENTITY mixedContentBlocked2.unblock.label "Beskerming op dit stuit útskeakelje">
-<!ENTITY mixedContentBlocked2.unblock.accesskey "B">
-<!ENTITY mixedContentBlocked2.block.label "Beskerming ynskeakelje">
-<!ENTITY mixedContentBlocked2.block.accesskey "y">
-<!ENTITY mixedContentBlocked2.disabled.message "Beskerming is útskeakele">
+<!ENTITY trackingProtection.title "Beskerming tsjin folgjen">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokkearret ûnderdielen fan de side dy't jo sneupgedrach folgje soenen kinne.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "Dizze website befettet eleminten dy't jo sneupgedrach folgje soenen kinne. Jo hawwe beskerming útskeakele.">
+<!ENTITY trackingProtection.notDetected3 "Gjin folcheleminten op dizze side detektearre.">
+<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock.label "Beskerming foar dizze website útskeakelje">
+<!ENTITY trackingProtection.unblock.accesskey "t">
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate.label "Beskerming foar dizze sesje útskeakelje">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "u">
+<!ENTITY trackingProtection.block2.label "Beskerming ynskeakelje">
+<!ENTITY trackingProtection.block2.accesskey "s">
 
 <!ENTITY trackingContentBlocked.message "Folgjen">
-<!ENTITY trackingContentBlocked.moreinfo "Parten fan de side dy't jo online activiteiten folgje binne blokkearre.">
+<!ENTITY trackingContentBlocked.moreinfo "Parten fan de side dy't jo online aktiviteiten folgje binne blokkearre.">
 <!ENTITY trackingContentBlocked.learnMore "Lês mear">
 <!ENTITY trackingContentBlocked.options "Opsjes">
 <!ENTITY trackingContentBlocked.unblock2.label "Beskerming útskeakelje foar dizze site">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "s">
 <!ENTITY trackingContentBlocked.block.label "Beskerming ynskeakelje">
 <!ENTITY trackingContentBlocked.block.accesskey "B">
-<!ENTITY trackingContentBlocked.disabled.message "Folchbeskerming is útskeakele">
+<!ENTITY trackingContentBlocked.disabled.message "Beskerming tsjin folgje is útskeakele">
 
 <!ENTITY pointerLock.notification.message "Druk op ESC om it nochris te toanen.">
 
@@ -776,24 +836,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      a CSS length value. -->
 <!ENTITY pluginNotification.width "28em">
 
-<!ENTITY tabCrashed.header "Ljepblêd ferûngelokke">
-<!ENTITY tabCrashed.message "No, dit is ûnnoflik. Wy hawwe probearre om dizze website te toanen, mar it reagearret net.">
-<!ENTITY tabCrashed.checkSendReport "Fertel &vendorShortName; oer dit ûngelok sa dat se it ferhelpe kinne.">
-<!ENTITY tabCrashed.tryAgain "Opnij probearje">
-
 <!ENTITY uiTour.infoPanel.close "Slute">
 
 <!ENTITY appMenuSidebars.label         "Sidebalken">
 
-<!ENTITY switchToMetroCmd2.label       "Werstarte yn &brandShortName; foar Windows 8 Touch">
-
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
-<!ENTITY panicButton.view.mainTimeframeDesc       "Ferjit de lêste:">
-<!ENTITY panicButton.view.5min                    "fiif minuten">
-<!ENTITY panicButton.view.2hr                     "twa oeren">
-<!ENTITY panicButton.view.day                     "24 oeren">
+<!ENTITY panicButton.view.mainTimeframeDesc       "Ferjit:">
+<!ENTITY panicButton.view.5min                    "Lêste fiif minuten">
+<!ENTITY panicButton.view.2hr                     "Lêste twa oeren">
+<!ENTITY panicButton.view.day                     "Lêste 24 oeren">
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
@@ -808,7 +861,29 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY panicButton.view.undoWarning             "Dizze aksje kin net ûngedien makke wurde.">
 <!ENTITY panicButton.view.forgetButton            "Ferjit!">
 
-<!ENTITY panicButton.thankyou.msg1                "Jor resinte skiednis is wiske.">
+<!ENTITY panicButton.thankyou.msg1                "Jo resinte skiednis is wiskje.">
 <!ENTITY panicButton.thankyou.msg2                "Feilich browse!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Tankewol!">
 
+<!ENTITY processHang.terminateScript.label        "Skript stoppe">
+<!ENTITY processHang.terminateScript.accessKey    "S">
+<!ENTITY processHang.debugScript.label            "Skript debugge">
+<!ENTITY processHang.debugScript.accessKey        "d">
+<!ENTITY processHang.terminatePlugin.label        "Ynstekker beëinigje">
+<!ENTITY processHang.terminatePlugin.accessKey    "Y">
+<!ENTITY processHang.terminateProcess.label       "Webproses beëinigje">
+<!ENTITY processHang.terminateProcess.accessKey   "W">
+
+<!ENTITY emeLearnMoreContextMenu.label            "Mear ynfo oer DRM…">
+<!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+<!ENTITY emeNotificationsNotNow.label             "No net">
+<!ENTITY emeNotificationsNotNow.accesskey         "N">
+<!ENTITY emeNotificationsDontAskAgain.label       "Dit net mear freegje">
+<!ENTITY emeNotificationsDontAskAgain.accesskey   "D">
+
+<!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
+<!ENTITY saveToPocketCmd.label     "Side bewarje nei Pocket">
+<!ENTITY saveToPocketCmd.accesskey "k">
+<!ENTITY saveLinkToPocketCmd.label     "Keppeling bewarje nei Pocket">
+<!ENTITY saveLinkToPocketCmd.accesskey "o">
+<!ENTITY pocketMenuitem.label      "Pocket-list werjaan">

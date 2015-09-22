@@ -2,14 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY dockOptionsDialog.title               "App-ikoanopsjes">
+<!ENTITY dockOptionsDialog.title               "Programmasymboalopsjes">
 <!ENTITY window.macWidth                       "35em">
 
-<!ENTITY bounceSystemDockIcon.label            "Animearje it app-ikoan as in nij berjocht binnenkomt">
+<!ENTITY bounceSystemDockIcon.label            "It programmasymboal animearje as in nij berjocht binnenkomt">
 <!ENTITY bounceSystemDockIcon.accesskey        "i">
 <!ENTITY newMessagesCountDock.label            "Oantal nije berjochten">
 <!ENTITY newMessagesCountDock.accesskey        "n">
 <!ENTITY showAllUnreadMessagesCount.label      "Oantal net-lêzen berjochten">
 <!ENTITY showAllUnreadMessagesCount.accesskey  "a">
-<!ENTITY dockIconBadge.label                   "App-ikoan spjild">
-<!ENTITY dockIconShow.label                    "Spjeldzje app-ikoan mei:">
+<!ENTITY dockIconBadge.label                   "Programmasymboalspjild">
+<!ENTITY dockIconShow.label                    "Programmasymboal markearje mei:">
+<!ENTITY directNotificationSettings.label      "Jo kinne de badge útskeakelje fia it paniel Berjochtjouwing yn Systeemfoarkarren.">
