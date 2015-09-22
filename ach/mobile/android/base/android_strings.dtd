@@ -7,13 +7,21 @@
 <!ENTITY  error_loading_file "Bal otime ikare me temo pango fail mamite pi tic i &brandShortName;">
 
 
+
 <!ENTITY  onboard_start_button_account "Dony iye &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Cak yenyo">
+
+
+
+
+
+
+
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
-<!ENTITY  bookmarks_title "Alama me buk">
+<!ENTITY  bookmarks_title "Bookmarks">
 <!ENTITY  history_title "Gin mukato">
 <!ENTITY  reading_list_title "Nying jami me kwan">
 
@@ -55,6 +63,7 @@
 
 
 
+
 <!ENTITY go "Ceti">
 
 <!ENTITY reload "Nwo pango">
@@ -66,8 +75,6 @@
 <!ENTITY edit_mode_cancel "Juki">
 
 <!ENTITY close_tab "Lor Dirica matidi">
-
-
 <!ENTITY one_tab "dirica matidi 1">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -76,6 +83,13 @@
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
+<!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
+     visible in the UI, but rather used as a text-to-speech content description
+     for sight-impaired a11y users. The content description is set on a tab
+     title in a list of open tabs when content in that tab is playing audio.
+     &formatS; will be replaced with the title of the tab, as received from the
+     web page. When audio is not playing in a tab, &formatS; will be used as
+     the content description. -->
 
 <!ENTITY settings "Tero">
 
@@ -166,6 +180,9 @@
 
 
 
+
+
+
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 
@@ -214,7 +231,6 @@
 <!ENTITY pref_plugins_tap_to_play "Gwet wek tuki">
 
 <!ENTITY pref_text_size "Dit pa nyig Coc">
-
 
 
 
@@ -314,6 +330,7 @@ size. -->
 <!ENTITY share_image_failed "Pe twero nywako pot buk man">
 <!ENTITY save_as_pdf "Gwok Calo PDF">
 
+
 <!ENTITY desktop_mode "Kwa Di bar me cal ma i kompiuta">
 
 <!ENTITY tools "Gitic">
@@ -330,7 +347,7 @@ size. -->
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
-<!ENTITY find_next "En mukene">
+
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -346,6 +363,8 @@ size. -->
 <!ENTITY contextmenu_pasteandgo "Dac &amp; Woti">
 <!ENTITY contextmenu_paste "Dani">
 <!ENTITY contextmenu_copyurl "Lok Address">
+
+
 
 
 
@@ -419,7 +438,6 @@ size. -->
 
 <!ENTITY button_copy "Lok">
 
-
 <!ENTITY home_top_sites_title "Kakube maloyo">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
@@ -491,9 +509,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
-
-
-
 <!-- Tracking content notifications in site identity popup -->
 
 
@@ -509,7 +524,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Giyweyo woko tic pa dano">
 <!ENTITY private_data_fail "Pe onwongo gitwero yweyo woko tic pa dano">
 
-<!ENTITY bookmarkhistory_button_import "Kel ki woko">
 <!ENTITY bookmarkhistory_import_both "Kelo ki woko alama buke ki lok mukato angec
 ki Android">
 <!ENTITY bookmarkhistory_import_bookmarks "Kel ki woko alama buke
@@ -594,4 +608,11 @@ ki Android">
 
 
 
-
+<!-- Default Bookmarks titles-->
+<!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
+<!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
+<!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
