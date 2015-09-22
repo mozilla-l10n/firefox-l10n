@@ -10,24 +10,6 @@
 
 <!ENTITY window.title "เว็บคอนโซล">
 <!ENTITY browserConsole.title "คอนโซลเบราว์เซอร์">
-
-<!ENTITY networkPanel.requestURLColon             "URL ที่ร้องขอ:">
-<!ENTITY networkPanel.requestMethodColon          "วิธีการร้องขอ:">
-<!ENTITY networkPanel.statusCodeColon             "รหัสสถานภาพ:">
-
-<!ENTITY networkPanel.requestHeaders              "ส่วนหัวของการร้องขอ">
-<!ENTITY networkPanel.requestCookie               "คุกกี้ที่ส่งไป">
-<!ENTITY networkPanel.requestBody                 "เนื้อหาที่ส่งไป">
-<!ENTITY networkPanel.requestFormData             "ข้อมูลฟอร์มที่ส่งไป">
-
-<!ENTITY networkPanel.responseHeaders             "ส่วนหัวที่ตอบกลับมา">
-<!ENTITY networkPanel.responseCookie              "Received Cookie">
-<!ENTITY networkPanel.responseBody                "เนื้อหาที่ตอบกลับมา">
-<!ENTITY networkPanel.responseBodyCached          "ข้อมูลจากแคช">
-<!ENTITY networkPanel.responseBodyUnknownType     "ไม่ทราบประเภทเนื้อหา">
-<!ENTITY networkPanel.responseNoBody              "ไม่มีเนื้อหาตอบกลับ">
-<!ENTITY networkPanel.responseImage               "รูปภาพที่ได้รับ">
-<!ENTITY networkPanel.responseImageCached         "รูปภาพจากแคช">
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
 
@@ -67,11 +49,20 @@
   -  console.error(). -->
 <!ENTITY btnPageLogging.tooltip "บันทึกข้อความที่ส่งไปยัง window.console">
 
-<!ENTITY btnConsoleErrors       "ข้อผิดพลาด">
-<!ENTITY btnConsoleInfo         "ข้อมูล">
-<!ENTITY btnConsoleWarnings     "คำเตือน">
-<!ENTITY btnConsoleLog          "บันทึก">
+
+
+
+
 <!ENTITY btnConsoleXhr          "XHR">
+
+<!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
+  -  the toolbar. It shows or hides messages that the web developer inserted on
+  -  the page for debugging purposes, using calls on the HTTP server. -->
+
+
+
+
+
 
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->

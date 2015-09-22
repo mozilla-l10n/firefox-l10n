@@ -72,7 +72,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY notSignedIn.label           "คุณยังไม่ได้เข้าใช้งาน">
 <!ENTITY signIn.label                "เข้าใช้งาน">
 <!ENTITY profilePicture.tooltip      "เปลี่ยนรูปโพรไฟล์">
-<!ENTITY manage.label                "จัดการ">
+
 <!ENTITY disconnect.label            "ยกเลิกการเชื่อมต่อ…">
 <!ENTITY verify.label                "ตรวจความถูกต้องของอีเมล">
 <!ENTITY forget.label                "ลืมอีเมลนี้">
