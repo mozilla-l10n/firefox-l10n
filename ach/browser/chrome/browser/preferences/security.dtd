@@ -24,10 +24,7 @@
 <!ENTITY  addonExceptions.accesskey     "M">
 
 
-<!ENTITY  passwords.label               "Mung me donyo">
 
-<!ENTITY  rememberPasswords.label       "Po ikom mung me donyo pi kakube">
-<!ENTITY  rememberPasswords.accesskey   "P">
 <!ENTITY  passwordExceptions.label      "Ma kiweko woko…">
 <!ENTITY  passwordExceptions.accesskey  "a">
 
@@ -36,5 +33,4 @@
 <!ENTITY  changeMasterPassword.label     "Lok mung me donyo madit…">
 <!ENTITY  changeMasterPassword.accesskey "m">
 
-<!ENTITY  savedPasswords.label            "Mung me donyo ma kikano…">
-<!ENTITY  savedPasswords.accesskey        "u">
+

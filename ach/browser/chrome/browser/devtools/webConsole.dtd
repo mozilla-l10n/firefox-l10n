@@ -10,24 +10,6 @@
 
 <!ENTITY window.title "Kacoc me kakube">
 <!ENTITY browserConsole.title "Kacoc me layeny">
-
-<!ENTITY networkPanel.requestURLColon             "URL me kwac:">
-<!ENTITY networkPanel.requestMethodColon          "Yo me kwac:">
-<!ENTITY networkPanel.statusCodeColon             "Nyig coc me nyutu kit ma tye kwede:">
-
-<!ENTITY networkPanel.requestHeaders              "Wiye me kwac">
-<!ENTITY networkPanel.requestCookie               "Cookie ma kicwalo">
-<!ENTITY networkPanel.requestBody                 "Kome me kwac">
-<!ENTITY networkPanel.requestFormData             "Tic me Fom ma kicwalo">
-
-<!ENTITY networkPanel.responseHeaders             "Adwogi me wiye">
-<!ENTITY networkPanel.responseCookie              "Cookie ma ki gamo">
-<!ENTITY networkPanel.responseBody                "Adwogi me kome">
-<!ENTITY networkPanel.responseBodyCached          "Tic ma kikano">
-<!ENTITY networkPanel.responseBodyUnknownType     "Kit Jami matye iyie Mape ngene">
-<!ENTITY networkPanel.responseNoBody              "Adwogi me kome peke">
-<!ENTITY networkPanel.responseImage               "Cal ma Kigamo">
-<!ENTITY networkPanel.responseImageCached         "Cal ma kikano">
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
 
@@ -69,12 +51,21 @@
 <!ENTITY btnPageLogging.label   "Gwoko">
 <!ENTITY btnPageLogging.tooltip "Gwok wel me kwena ma kicwalo bot window.console object">
 <!ENTITY btnPageLogging.accesskey3 "L">
-<!ENTITY btnConsoleErrors       "Bal">
-<!ENTITY btnConsoleInfo         "Ngec">
-<!ENTITY btnConsoleWarnings     "Cik">
-<!ENTITY btnConsoleLog          "Gwok">
+
+
+
+
 <!ENTITY btnConsoleXhr          "XHR">
 <!ENTITY btnConsoleReflows      "Nwo yiko">
+<!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
+  -  the toolbar. It shows or hides messages that the web developer inserted on
+  -  the page for debugging purposes, using calls on the HTTP server. -->
+
+
+
+
+
+
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
 <!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
