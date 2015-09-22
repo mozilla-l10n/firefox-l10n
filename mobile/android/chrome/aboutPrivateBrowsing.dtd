@@ -13,9 +13,8 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "Սա Գաղտնի դիտարկում չէ">
 
-<!ENTITY privatebrowsingpage.description.private3 "Firefox-ը կկանխի հետագծումը և չի հիշի պատմությունը, բայց ներբեռնած ֆայլերը և նոր էջանիշերը կպահպանվեն Ձեր սարքում:">
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
-     Browsing" is capitalized in English to be consistent with our existing uses
+     Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
 <!ENTITY privatebrowsingpage.description.normal2 "Գաղտնի դիտարկման ժամանակ չեն պահպանվում դիտարկման պատմությունը կամ cookie-ները: Էջանիշերը և ներբեռնած ֆայլերը կպահպանվեն Ձեր սարքում:">
 
