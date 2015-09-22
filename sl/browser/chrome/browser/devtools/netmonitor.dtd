@@ -211,10 +211,6 @@
   -  in a "receive" state. -->
 <!ENTITY netmonitorUI.timings.receive     "Sprejemanje:">
 
-<!-- LOCALIZATION NOTE (netmonitorUI.security.warning.protocol): A tooltip
-  -  for warning icon that indicates a connection uses insecure protocol. -->
-<!ENTITY netmonitorUI.security.warning.sslv3      "Protokol SSL 3.0 je zastarel in nevaren.">
-
 <!-- LOCALIZATION NOTE (netmonitorUI.security.warning.cipher): A tooltip
   -  for warning icon that indicates a connection uses insecure cipher suite. -->
 <!ENTITY netmonitorUI.security.warning.cipher     "Šifra, ki se uporablja za šifriranje, je zastarela in nevarna.">
