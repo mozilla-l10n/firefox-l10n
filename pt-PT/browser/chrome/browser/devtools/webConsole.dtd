@@ -10,24 +10,6 @@
 
 <!ENTITY window.title "Consola web">
 <!ENTITY browserConsole.title "Consola do navegador">
-
-<!ENTITY networkPanel.requestURLColon             "URL pedido:">
-<!ENTITY networkPanel.requestMethodColon          "Método do pedido:">
-<!ENTITY networkPanel.statusCodeColon             "Código de estado:">
-
-<!ENTITY networkPanel.requestHeaders              "Cabeçalho do pedido">
-<!ENTITY networkPanel.requestCookie               "Cookie enviado">
-<!ENTITY networkPanel.requestBody                 "Texto pedido">
-<!ENTITY networkPanel.requestFormData             "Dados de formulário enviados">
-
-<!ENTITY networkPanel.responseHeaders             "Cabeçalho de resposta">
-<!ENTITY networkPanel.responseCookie              "Cookie recebido">
-<!ENTITY networkPanel.responseBody                "Texto da resposta">
-<!ENTITY networkPanel.responseBodyCached          "Dados em cache">
-<!ENTITY networkPanel.responseBodyUnknownType     "Tipo de conteúdo desconhecido">
-<!ENTITY networkPanel.responseNoBody              "Sem texto de resposta">
-<!ENTITY networkPanel.responseImage               "Imagem recebida">
-<!ENTITY networkPanel.responseImageCached         "Imagem em cache">
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
 
@@ -69,12 +51,21 @@
 <!ENTITY btnPageLogging.label   "Registo">
 <!ENTITY btnPageLogging.tooltip "Registar mensagens enviadas para objeto window.console">
 <!ENTITY btnPageLogging.accesskey3 "g">
-<!ENTITY btnConsoleErrors       "Erros">
-<!ENTITY btnConsoleInfo         "Informações">
-<!ENTITY btnConsoleWarnings     "Avisos">
-<!ENTITY btnConsoleLog          "Registo">
+
+
+
+
 <!ENTITY btnConsoleXhr          "XHR">
 <!ENTITY btnConsoleReflows      "Refluxos">
+<!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
+  -  the toolbar. It shows or hides messages that the web developer inserted on
+  -  the page for debugging purposes, using calls on the HTTP server. -->
+
+
+
+
+
+
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
 
