@@ -197,6 +197,7 @@
 
 <!ENTITY fxaccount_status_header2 "Cont Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Autentificat ca">
+
 <!ENTITY fxaccount_status_auth_server "Serverul contului">
 <!ENTITY fxaccount_status_sync_now "Sincronizează acum">
 <!ENTITY fxaccount_status_syncing2 "Se sincronizează…">
