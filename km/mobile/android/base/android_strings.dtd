@@ -6,15 +6,24 @@
 <!ENTITY  no_space_to_start_error "មិន​មាន​ទំហំ​គ្រប់គ្រាន់​សម្រាប់​ឲ្យ &brandShortName; ចាប់ផ្ដើម​ទេ។">
 <!ENTITY  error_loading_file "កំហុស​បាន​កើតឡើង​ពេល​ព្យាយាម​ផ្ទុក​ឯកសារ​ដែល​ទាមទារ​ដើម្បី​ដំណើរការ &brandShortName;">
 
+<!ENTITY firstrun_panel_title_welcome "សូម​ស្វាគមន៍">
 <!ENTITY  onboard_start_message3 "រក​មើល​ជាមួយ &brandShortName;">
 <!ENTITY  onboard_start_subtext3 "ធ្វើ​ឲ្យ​បទពិសោធន៍​រក​មើល​​តាម​បណ្ដាញ​ចល័ត​របស់​អ្នក​​ជា​ម្ចាស់​របស់​អ្នក​ពិតៗ។">
 <!ENTITY  onboard_start_button_account "ចូល​ &brandShortName;">
 <!ENTITY  onboard_start_button_browser "ចាប់​ផ្ដើម​រុករក">
+
+
 <!ENTITY  onboard_start_restricted1 "មាន​សុវត្ថិភាព និង​​ស្ថិត​ក្នុង​​ការ​ត្រួតពិនិត្យ​ជាមួយ​កំណែ​ &brandShortName; ដែល​បាន​ធ្វើ​ឲ្យ​សាមញ្ញ​នេះ។">
+
+<!ENTITY firstrun_import_message "សូម​ស្វាគមន៍​មកកាន់ &brandShortName;!">
+
+
+
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
-<!ENTITY  bookmarks_title "ចំណាំ">
+<!ENTITY  bookmarks_title "Bookmarks">
 <!ENTITY  history_title "ប្រវត្តិ">
 <!ENTITY  reading_list_title "បញ្ជី​អាន">
 <!ENTITY  recent_tabs_title "ផ្ទាំង​ថ្មីៗ">
@@ -55,8 +64,9 @@
 
 <!ENTITY history_today_section "ថ្ងៃនេះ">
 <!ENTITY history_yesterday_section "ម្សិលមិញ">
-<!ENTITY history_week_section2 "សប្ដាហ៍​មុន">
-<!ENTITY history_older_section2 "ខែ​មុន">
+
+
+
 
 <!ENTITY go "ទៅ">
 <!ENTITY search "ស្វែងរក">
@@ -69,8 +79,6 @@
 <!ENTITY edit_mode_cancel "បោះបង់">
 
 <!ENTITY close_tab "បិទ​ផ្ទាំង">
-<!ENTITY tab_audio_playing "ផ្ទាំង​នេះ​កំពុង​លេង​អូឌីយ៉ូ">
-<!ENTITY tab_audio_muted "ផ្ទាំង​នេះ​ត្រូវបាន​បិទ​សំឡេង">
 <!ENTITY one_tab "ផ្ទាំង ១">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -81,6 +89,13 @@
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
 <!ENTITY switch_button_message "ប្ដូរ">
+<!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
+     visible in the UI, but rather used as a text-to-speech content description
+     for sight-impaired a11y users. The content description is set on a tab
+     title in a list of open tabs when content in that tab is playing audio.
+     &formatS; will be replaced with the title of the tab, as received from the
+     web page. When audio is not playing in a tab, &formatS; will be used as
+     the content description. -->
 
 <!ENTITY settings "ការ​កំណត់">
 <!ENTITY settings_title "ការ​កំណត់">
@@ -182,6 +197,9 @@
 <!ENTITY pref_home_updates_wifi "តាម​វ៉ាយហ្វាយ​តែប៉ុណ្ណោះ">
 <!ENTITY pref_home_suggested_sites "បង្ហាញ​ការ​ផ្ដល់​យោបល់​​តំបន់បណ្ដាញ">
 <!ENTITY pref_home_suggested_sites_summary "បង្ហាញ​ផ្លូវ​កាត់​ទៅ​គេហទំព័រ​ដែល​អ្នក​គិត​ថា​គួរ​ឲ្យ​ចាប់​អារម្មណ៍ នៅ​លើ​ទំព័រ​ដើម​របស់​អ្នក">
+
+
+
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "ប្ដូរ​តាម​តម្រូវ​ការ">
@@ -237,7 +255,6 @@
 <!ENTITY pref_plugins_tap_to_play "ផ្ទាំង​ដែល​ត្រូវ​បង្ហាញ">
 <!ENTITY pref_plugins_disabled "បាន​បិទ">
 <!ENTITY pref_text_size "ទំហំ​អត្ថបទ">
-<!ENTITY pref_reflow_on_zoom4 "លំហូរ​អត្ថបទ​ត្រឡប់">
 <!ENTITY pref_restore "ផ្ទាំង">
 <!ENTITY pref_restore_always "ស្ដារ​ជានិច្ច">
 <!ENTITY pref_restore_quit "កុំ​ស្ដារ​បន្ទាប់ពី​បិទ &brandShortName;">
@@ -347,6 +364,7 @@ size. -->
 <!ENTITY share_title "ចែករំលែក​តាម">
 <!ENTITY share_image_failed "មិន​អាច​ចែករំលែក​រូបភាព​នេះ">
 <!ENTITY save_as_pdf "រក្សាទុក​ជា PDF">
+
 <!ENTITY find_in_page "រកមើល​ក្នុង​ទំព័រ">
 <!ENTITY desktop_mode "តំបន់បណ្ដាញ​ផ្ទៃតុ​សំណើ">
 <!ENTITY page "ទំព័រ">
@@ -366,7 +384,7 @@ size. -->
 
 <!ENTITY find_text "រកមើល​ក្នុង​ទំព័រ">
 <!ENTITY find_prev "មុន">
-<!ENTITY find_next "បន្ទាប់">
+
 <!ENTITY find_close "បិទ">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -391,6 +409,8 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "ខ្ទាស់​តំបន់​បណ្ដាញ">
 <!ENTITY contextmenu_top_sites_unpin "មិន​ខ្ទាស់​តំបន់​បណ្ដាញ">
 <!ENTITY contextmenu_add_search_engine "បន្ថែម​ម៉ាស៊ីន​ស្វែងរក">
+
+
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
@@ -413,8 +433,6 @@ size. -->
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
-<!ENTITY pref_prevent_magnifying_glass "បិទ​ដំណើរការ​កែវ​ពង្រីក ">
-<!ENTITY pref_prevent_magnifying_glass_summary "ទប់ស្កាត់​កែវ​ពង្រីក​​​សម្រាប់​ប្រើ​​ក្នុង​ការ​ដោះស្រាយ​ការ​ប៉ះ​អេក្រង់​​ច្រឡំ">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -473,8 +491,6 @@ size. -->
 <!ENTITY button_set "កំណត់">
 <!ENTITY button_clear "សម្អាត">
 <!ENTITY button_copy "ចម្លង">
-
-<!ENTITY firstrun_panel_title_welcome "សូម​ស្វាគមន៍">
 
 <!ENTITY home_top_sites_title "តំបន់បណ្ដាញ​ពេញនិយម">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -564,14 +580,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_insecure "ការ​ភ្ជាប់​ដោយ​សុវត្ថិភាព">
 <!-- Mixed content notifications in site identity popup -->
 
-<!ENTITY mixed_content_blocked_all "&brandShortName; បាន​ទប់ស្កាត់​ធាតុ​ដែល​គ្មាន​សុវត្ថិភាព​នៅ​លើ​ទំព័រ​នេះ។">
-<!ENTITY mixed_content_blocked_some "&brandShortName; បាន​ទប់ស្កាត់​ធាតុ​ដែល​គ្មាន​សុវត្ថិភាព​ខ្លះ​​នៅ​លើ​ទំព័រ​នេះ។">
-<!ENTITY mixed_content_display_loaded "ទំព័រ​នេះ​មាន​ធាតុ​ដែល​គ្មាន​សុវត្ថិភាព​ខ្លះ។">
-<!ENTITY mixed_content_protection_disabled "អ្នក​បាន​បិទ​ការ​ការពារ​ពី​ធាតុ​ដែល​គ្មាន​សុវត្ថិភាព។">
 
-<!ENTITY loaded_mixed_content_message "ទំព័រ​នេះ​កំពុង​បង្ហាញ​មាតិកា​ដែល​គ្មាន​សុវត្ថិភាព។">
-<!ENTITY blocked_mixed_content_message_top "&brandShortName; បាន​ទប់ស្កាត់​មាតិកា​ដែល​គ្មាន​សុវត្ថិភាព។">
-<!ENTITY blocked_mixed_content_message_bottom "តំបន់​បណ្ដាញ​ភាគច្រើន​នឹង​នៅតែ​ដំណើរការ​ធម្មតា ទោះបី​មាតិកា​នេះ​ត្រូវ​បាន​បិទ​ក៏ដោយ។">
+
 <!-- Tracking content notifications in site identity popup -->
 
 <!ENTITY doorhanger_tracking_title "ទប់ស្កាត់​ការ​តាមដាន">
@@ -589,7 +599,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "បាន​សម្អាត​ទិន្នន័យ​ឯកជន">
 <!ENTITY private_data_fail "ទិន្នន័យ​ឯកជន​មួយ​ចំនួន​មិន​អាច​សម្អាត​បាន​ទេ">
 
-<!ENTITY bookmarkhistory_button_import "នាំចូល">
 <!ENTITY bookmarkhistory_import_both "កំពុង​នាំចូល​ចំណាំ និង​ប្រវត្តិ 
 ពី Android">
 <!ENTITY bookmarkhistory_import_bookmarks "កំពុង​នាំចូល​ចំណាំ 
@@ -703,4 +712,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restriction_disallow_clear_history_title2 "បិទ \u0027ប្រវត្តិ​រក​មើល​ដែល​សម្អាត\u0027">
 <!ENTITY restriction_disallow_master_password_title2 "បិទ​ពាក្យ​សម្ងាត់​មេ">
 <!ENTITY restriction_disallow_guest_browsing_title2 "បិទ​ការ​រក​មើល​ជា​ភ្ញៀវ">
-
+<!-- Default Bookmarks titles-->
+<!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
+<!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
+<!ENTITY bookmarks_marketplace "កន្លែង​ផ្ទុក​កម្មវិធី​របស់ Firefox">
+<!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
