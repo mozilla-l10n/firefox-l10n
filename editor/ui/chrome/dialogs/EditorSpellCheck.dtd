@@ -20,16 +20,16 @@
 <!ENTITY replaceButton.accessKey "V">
 <!ENTITY replaceAllButton.label "Vervang alles">
 <!ENTITY replaceAllButton.accessKey "a">
-<!ENTITY stopButton.label "Stop">
-<!ENTITY stopButton.accessKey "t">
+
+
 <!ENTITY userDictionary.label "Persoonlike subgids:">
 <!ENTITY moreDictionaries.label "Laai nog woordeboeke af…">
 <!ENTITY addToUserDictionaryButton.label "Voeg woord by">
 <!ENTITY addToUserDictionaryButton.accessKey "o">
 <!ENTITY editUserDictionaryButton.label "Redigeer…">
 <!ENTITY editUserDictionaryButton.accessKey "e">
-<!ENTITY recheckButton.label "Gaan bladsy weer na">
-<!ENTITY recheckButton.accessKey "b">
+
+
 <!ENTITY closeButton.label "Sluit">
 <!ENTITY closeButton.accessKey "S">
 <!ENTITY sendButton.label "Stuur">
