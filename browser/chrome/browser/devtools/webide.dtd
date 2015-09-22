@@ -27,6 +27,7 @@
 <!ENTITY projectMenu_manageComponents_label "Қосымша компоненттерді басқару">
 <!ENTITY projectMenu_manageComponents_accesskey "б">
 
+
 <!ENTITY runtimeMenu_label "Орындалу ортасы">
 <!ENTITY runtimeMenu_accesskey "р">
 <!ENTITY runtimeMenu_disconnect_label "Байланысты үзу">
