@@ -11,18 +11,14 @@
 
 
 <!ENTITY connectionFailure.title "Unable to connect">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY deniedPortAccess.title "This address is restricted">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Server not found">
-<!ENTITY dnsNotFound.longDesc2 "<ul> 
-<li>Check the address for typing errors such as 
-<strong>ww</strong>.example.com instead of 
-<strong>www</strong>.example.com</li> 
-<li>If you are unable to load any pages, check your device's data or Wi-Fi connection.</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 
 <!ENTITY fileNotFound.title "File not found">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -35,23 +31,18 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; can't load this page for some reason.</p>">
 
 <!ENTITY malformedURI.title "The address isn't valid">
-<!ENTITY malformedURI.longDesc "<ul> 
-<li>Web addresses are usually written like 
-<strong>http://www.example.com/</strong></li> 
-<li>Make sure that you're using forward slashes (i.e. 
-<strong>/</strong>).</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY netInterrupt.title "The connection was interrupted">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY notCached.title "Document Expired">
 <!ENTITY notCached.longDesc "<p>The requested document is not available in &brandShortName;'s cache.</p><ul><li>As a security precaution, &brandShortName; does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
 
 <!ENTITY netOffline.title "Offline mode">
-<!ENTITY netOffline.longDesc2 "<ul> 
-<li>Try again. &brandShortName; will attempt to open a connection and reload the page.</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY contentEncodingError.title "Content Encoding Error">
 <!ENTITY contentEncodingError.longDesc "<ul> 
@@ -64,13 +55,13 @@
 </ul>">
 
 <!ENTITY netReset.title "The connection was reset">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY netTimeout.title "The connection has timed out">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
-<!ENTITY protocolNotFound.title "The address wasn't understood">
-<!ENTITY protocolNotFound.longDesc "<ul> 
+
+<!ENTITY unknownProtocolFound.title "The address wasn't understood">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
 <li>You might need to install other software to open this address.</li> 
 </ul>">
 
@@ -82,10 +73,8 @@ working.</li>
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Unable to find the proxy server">
-<!ENTITY proxyResolveFailure.longDesc2 "<ul> 
-<li>Check the proxy settings to make sure that they are correct.</li> 
-<li>Check to make sure your device has a working data or Wi-Fi connection.</li> 
-</ul>">
+<!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY redirectLoop.title "The page isn't redirecting properly">
 <!ENTITY redirectLoop.longDesc "<ul> 
@@ -101,10 +90,7 @@ installed.</li>
 </ul>">
 
 <!ENTITY nssFailure2.title "Secure Connection Failed">
-<!ENTITY nssFailure2.longDesc "<ul> 
-<li>The page you are trying to view cannot be shown because the authenticity of the received data could not be verified.</li> 
-<li>Please contact the website owners to inform them of this problem. Alternatively, use the command found in the help menu to report this broken site.</li> 
-</ul>">
+
 
 <!ENTITY nssBadCert.title "Secure Connection Failed">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
@@ -113,14 +99,11 @@ someone trying to impersonate the server.</li>
 <li>If you have connected to this server successfully in the past, the error may 
 be temporary, and you can try again later.</li> 
 </ul>">
+<!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
-<!ENTITY sharedLongDesc2 "<ul> 
-<li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li> 
-<li>If you are unable to load any pages, check your device's data or Wi-Fi connection.</li> 
-</ul>">
-
-<!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
+<!ENTITY cspBlocked.title "Blocked by Content Security Policy">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
 
 <!ENTITY corruptedContentError.title "Corrupted Content Error">
 <!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
