@@ -5,7 +5,7 @@
 <!ENTITY itemJunk.label          "Gereksiz">
 <!ENTITY itemPhishing.label      "E-posta Sahtekârlıkları">
 <!ENTITY itemPasswords.label     "Parolalar">
-<!ENTITY itemAntiVirus.label     "Antivirüs">
+
 <!-- Junk Mail Controls -->
 
 <!ENTITY junkMail.intro "Varsayılan gereksiz posta ayarlarınızı yapılandırın. Hesaba özel gereksiz posta ayarları, Hesap Ayarları'ndan yapılandırılabilir.">
@@ -42,7 +42,5 @@
 <!ENTITY savedPasswords.accesskey       "K">
 <!-- Anti Virus -->
 
-<!ENTITY antiVirus.intro      "&brandShortName; antivirüs yazılımlarının gelen iletileri depolanmadan önce virüslere karşı taranmasını kolaylaştırabilir.">
-<!ENTITY antiVirus.label      "Antivirüs yazılımlarının gelen iletileri bireysel olarak karantinaya almasına izin ver">
-<!ENTITY antiVirus.accesskey  "A">
+
 
