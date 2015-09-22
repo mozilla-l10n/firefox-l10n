@@ -13,9 +13,8 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "UkwiBhrawuza Yabucala">
 
-<!ENTITY privatebrowsingpage.description.private3 "IFirefox iya kukuthintela ekubeni utrekwe yaye ayisayi kukhumbula mbali, kodwa iifayile ezidawnlowudweyo neebhukmakhi ezintsha ziya kugcinwa kwisixhobo sakho.">
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
-     Browsing" is capitalized in English to be consistent with our existing uses
+     Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
 <!ENTITY privatebrowsingpage.description.normal2 "KukuBhrawuza Kwabucala, asisayi kugcina nayiphi na imbali yakho yokubhrawuza okanye iikhuki. Iibhukmaki ozongezayo neeefayile ozidawnlowuudayo ziya kugcinwa kwisixhobo sakho.">
 

@@ -3,36 +3,45 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  no_space_to_start_error "Akukho ndawo yaneleyo ifumanekayo ye&brandShortName; ukuqalisa.">
-<!ENTITY  error_loading_file "Impazamo yenzekile xa bekuzanywa ukulayishwa iifayile ezifunekayo ukuhambisa i-&brandShortName;">
+<!ENTITY  no_space_to_start_error "Akukho ndawo yaneleyo ifumanekayo &brandShortName; ukuqalisa.">
+<!ENTITY  error_loading_file "Impazamo yenzekile xa bekuzanywa ukulayishwa iifayile ezifunekayo ukuhambisa &brandShortName;">
 
-<!ENTITY  onboard_start_message3 "Bhrawuza nge-&brandShortName;">
+<!ENTITY firstrun_panel_title_welcome "Wamkelekile">
+<!ENTITY  onboard_start_message3 "Bhrawuza &brandShortName;">
 <!ENTITY  onboard_start_subtext3 "Yenza amava okubhrawuza iWebhu yefowni yakho ephathwayo abe ngawakho ngokwenene.">
-<!ENTITY  onboard_start_button_account "Sayina ungene ne&brandShortName;">
+<!ENTITY  onboard_start_button_account "Sayina ungene &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Qala ukubhrawuza">
+
+
 <!ENTITY  onboard_start_restricted1 "Hlala ukhuselekile yaye ukulawulo ngolu hlobo lwenziwe lula lwe &brandShortName;.">
+
+<!ENTITY firstrun_import_message "Wamkelekile &brandShortName;">
+
+
+
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
-<!ENTITY  bookmarks_title "Iibhukmakhi">
+<!ENTITY  bookmarks_title "Bookmarks">
 <!ENTITY  history_title "Imbali">
 <!ENTITY  reading_list_title "ULuhlu lokufunda">
 <!ENTITY  recent_tabs_title "Iithegi zakutshanje">
 
 <!ENTITY  switch_to_tab "Tshintshela kwithebhu">
 
-<!ENTITY  crash_reporter_title "I-&brandShortName; Umniki-ngxelo wokonakala">
-<!ENTITY  crash_message2 "&brandShortName; ibe nengxaki yaza yacima. Iithebhu zakho kumele zidweliswe kwi-&brandShortName; Qalisa iphepha xa uqalisa kwakhona.">
-<!ENTITY  crash_send_report_message3 "Xelela i-&vendorShortName; ngalo monakalo ukuze bawulungise">
+<!ENTITY  crash_reporter_title "&brandShortName; Umniki-ngxelo wokonakala">
+<!ENTITY  crash_message2 "&brandShortName; ibe nengxaki yaza yacima. Iithebhu zakho kumele zidweliswe &brandShortName; Qalisa iphepha xa uqalisa kwakhona.">
+<!ENTITY  crash_send_report_message3 "Xelela &vendorShortName; ngalo monakalo ukuze bawulungise">
 <!ENTITY  crash_include_url2 "Quka idilesi yekhasi ebendikulo">
 <!ENTITY  crash_sorry "Silusizi">
 <!ENTITY  crash_comment "Yongeza amagqabaza (amagqabaza abonakala kuwonke-wonke)">
-<!ENTITY  crash_allow_contact2 "Vumela i-&vendorShortName; ukuba iqhagamshelane nam ngale ngxelo">
+<!ENTITY  crash_allow_contact2 "Vumela &vendorShortName; ukuba iqhagamshelane nam ngale ngxelo">
 <!ENTITY  crash_email "I-imeyili yakho">
 <!ENTITY  crash_closing_alert "Ufuna ukuphuma ungayithumelanga ingxelo?">
 <!ENTITY  sending_crash_report "Ukuthumela ingxelo\u2026 yokonakala">
 <!ENTITY  crash_close_label "Vala">
-<!ENTITY  crash_restart_label "Qalisa ngokutsha i-&brandShortName;">
+<!ENTITY  crash_restart_label "Qalisa ngokutsha &brandShortName;">
 <!ENTITY  exit_label "Phuma">
 
 <!ENTITY  launcher_shortcuts_title "&brandShortName; ii-Apps zeWebhu">
@@ -55,8 +64,9 @@
 
 <!ENTITY history_today_section "Namhlanje">
 <!ENTITY history_yesterday_section "Izolo">
-<!ENTITY history_week_section2 "Iveki ephelileyo">
-<!ENTITY history_older_section2 "Inyanga ephelileyo">
+
+
+
 
 <!ENTITY go "Hamba">
 <!ENTITY search "Khangela">
@@ -69,8 +79,6 @@
 <!ENTITY edit_mode_cancel "Rhoxisa">
 
 <!ENTITY close_tab "Vala Ithebhu">
-<!ENTITY tab_audio_playing "Le thebhu idlala i-odiyo">
-<!ENTITY tab_audio_muted "Le thebhu icinywe isandi">
 <!ENTITY one_tab "Ithebhu e-1">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -81,6 +89,13 @@
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
 <!ENTITY switch_button_message "ISWITSHI">
+<!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
+     visible in the UI, but rather used as a text-to-speech content description
+     for sight-impaired a11y users. The content description is set on a tab
+     title in a list of open tabs when content in that tab is playing audio.
+     &formatS; will be replaced with the title of the tab, as received from the
+     web page. When audio is not playing in a tab, &formatS; will be used as
+     the content description. -->
 
 <!ENTITY settings "Iisetingi">
 <!ENTITY settings_title "Iisetingi">
@@ -105,7 +120,7 @@
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
 
-<!ENTITY overlay_share_label "Dibanisa kwi-&brandShortName;">
+<!ENTITY overlay_share_label "Dibanisa &brandShortName;">
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
@@ -141,7 +156,7 @@
 <!ENTITY pref_category_display_summary "Isiqendu, ibha yesihloko, ukubhrawza isikrini esipheleleyo">
 <!ENTITY pref_category_privacy_short "Okwabucala">
 <!ENTITY pref_category_privacy_summary2 "Lawula iipasiwedi, ii-cookies, ukulandelela, ingcombolo">
-<!ENTITY pref_category_vendor "I-&vendorShortName;">
+<!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "About &brandShortName;, FAQs, izikhethwa zenkcukacha">
 <!ENTITY pref_category_datareporting "Ukhetho lweenkcukacha">
 <!ENTITY pref_learn_more "Funda okungakumbi">
@@ -164,7 +179,7 @@
 <!ENTITY pref_category_logins "Izinto zokuNgena ekhompyutheni">
 <!ENTITY pref_remember_signons2 "Khumbulu izinto zokungena ekhompyutheni">
 <!ENTITY pref_open_external_urls_privately_title "Vula amakhonkco kwbhrawuza yangasese">
-<!ENTITY pref_open_external_urls_privately_summary "Ukulungiselela wonke amakhonkco angaphakathi avulwe kwi-&brandShortName;">
+<!ENTITY pref_open_external_urls_privately_summary "Ukulungiselela wonke amakhonkco angaphakathi avulwe &brandShortName;">
 <!ENTITY pref_manage_logins "Lawula izinto zokungena ekhompyutheni">
 
 <!ENTITY pref_category_home "Ekhaya">
@@ -182,6 +197,9 @@
 <!ENTITY pref_home_updates_wifi "Phezu kwe-Wi-Fi kuphela">
 <!ENTITY pref_home_suggested_sites "Bonisa iingcamango zesayithi">
 <!ENTITY pref_home_suggested_sites_summary "Bonisa oondlelamfutshane ukuya kwiisayithi kwikhasi lekhaya lakho esicinga ukuba ungalifumana linomdla">
+
+
+
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Lungiselela">
@@ -189,7 +207,7 @@
 <!ENTITY pref_header_privacy_short "Okwabucala">
 <!ENTITY pref_header_help "Uncedo">
 <!ENTITY pref_header_language "Ulwimi">
-<!ENTITY pref_header_vendor "I-&vendorShortName;">
+<!ENTITY pref_header_vendor "&vendorShortName;">
 <!ENTITY pref_header_devtools "Izixhobo zabaphuhlisi">
 
 <!ENTITY pref_cookies_menu "Iikhukhi">
@@ -207,10 +225,10 @@
 <!ENTITY tracking_protection_prompt_tip_text "Tyelela iisetingi Zabucala ukuze ufunde ngakumbi">
 <!ENTITY tracking_protection_prompt_action_button "Uyifumene!">
 
-<!ENTITY tab_queue_toast_message3 "I-tab igcinwe kwi-&brandShortName;">
+<!ENTITY tab_queue_toast_message3 "I-tab igcinwe &brandShortName;">
 <!ENTITY tab_queue_toast_action "Vula ngoku">
 <!ENTITY tab_queue_prompt_title "Vula izinxulumanisi ezininzi?">
-<!ENTITY tab_queue_prompt_text4 "Zigcine kude kube lixesha elizayo uvula i &brandShortName;">
+<!ENTITY tab_queue_prompt_text4 "Zigcine kude kube lixesha elizayo uvula &brandShortName;">
 <!ENTITY tab_queue_prompt_tip_text2 "Ungakutshintsha oku ngelinye ixesha kwiiSetingi">
 <!ENTITY tab_queue_prompt_positive_action_button "Yenza isebenze">
 <!ENTITY tab_queue_prompt_negative_action_button "Hayi ngoku">
@@ -237,10 +255,9 @@
 <!ENTITY pref_plugins_tap_to_play "Cofa kancinci uze udlale">
 <!ENTITY pref_plugins_disabled "Yenziwe ukuba ingasebenzi">
 <!ENTITY pref_text_size "Ubukhulu bombhalo">
-<!ENTITY pref_reflow_on_zoom4 "Ukulungelelanisa okubhaliweyo">
 <!ENTITY pref_restore "Iithebhu">
 <!ENTITY pref_restore_always "Soloko ubuyisela">
-<!ENTITY pref_restore_quit "Musa ukubuyisela izinto emva kuyeka ne-&brandShortName;">
+<!ENTITY pref_restore_quit "Musa ukubuyisela izinto emva kuyeka &brandShortName;">
 <!ENTITY pref_font_size_tiny "Ncinane kakhulu">
 <!ENTITY pref_font_size_small "Ncinci">
 <!ENTITY pref_font_size_medium "Phakathi">
@@ -285,7 +302,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "Iithebhu ezingqamanisiweyo">
 
 
-<!ENTITY pref_about_firefox "Malunga ne-&brandShortName;">
+<!ENTITY pref_about_firefox "Malunga &brandShortName;">
 <!ENTITY pref_vendor_faqs "Ii-FAQ">
 <!ENTITY pref_vendor_feedback "Nika ingxelo">
 
@@ -301,11 +318,11 @@ size. -->
 <!ENTITY pref_panels_move_up "Nyusa">
 <!ENTITY pref_panels_move_down "Hlisa">
 
-<!ENTITY datareporting_notification_title "I-&brandShortName; amanani neengcombolo">
+<!ENTITY datareporting_notification_title "&brandShortName; amanani neengcombolo">
 <!ENTITY datareporting_notification_action_long "Khetha inkcazelo onokwabelana ngayo">
 <!ENTITY datareporting_notification_action "Khetha into ofuna ukwabelana ngayo">
-<!ENTITY datareporting_notification_summary "Ukuze siphucule amava akho, &brandShortName; sithumela ngokuzenzekelayo inkcazelo ethile kwi-&vendorShortName;.">
-<!ENTITY datareporting_notification_summary_short "Ukuze siphucule amava akho, i-&brandShortName;…">
+<!ENTITY datareporting_notification_summary "Ukuze siphucule amava akho, &brandShortName; sithumela ngokuzenzekelayo inkcazelo ethile &vendorShortName;.">
+<!ENTITY datareporting_notification_summary_short "Ukuze siphucule amava akho, &brandShortName;…">
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
@@ -314,17 +331,17 @@ size. -->
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 
-<!ENTITY datareporting_fhr_title "I-&brandShortName; Ingxelo yempilo">
-<!ENTITY datareporting_fhr_summary2 "Yabelana ngeenkcukacha ne-&vendorShortName; malunga nempilo yebhrawuza yakho ize ikuncede uqonde indlela esebenza ngayo ibhrawuza yakho">
+<!ENTITY datareporting_fhr_title "&brandShortName; Ingxelo yempilo">
+<!ENTITY datareporting_fhr_summary2 "Yabelana ngeenkcukacha &vendorShortName; malunga nempilo yebhrawuza yakho ize ikuncede uqonde indlela esebenza ngayo ibhrawuza yakho">
 <!ENTITY datareporting_abouthr_title "Bona Ingxelo Yempilo yam">
 <!ENTITY datareporting_telemetry_title "Ithelemetri">
-<!ENTITY datareporting_telemetry_summary "Yabelana ngomsebenzi, usetyenziso, ihadiwe kunye nolungiselelo lwengcombolo emalunga nebhrawuza yakho ene-&vendorShortName; ukusinceda ekwenzeni i-&brandShortName; ibe ngcono">
-<!ENTITY datareporting_crashreporter_summary "&brandShortName; ingenisa iingxelo zokonakala ukunceda i-&vendorShortName; ekwenzeni ibhrawuza yakho izinze kwaye ikhuseleke ngakumbi">
+<!ENTITY datareporting_telemetry_summary "Yabelana ngomsebenzi, usetyenziso, ihadiwe kunye nolungiselelo lwengcombolo emalunga nebhrawuza yakho &vendorShortName; ukusinceda ekwenzeni &brandShortName; ibe ngcono">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; ingenisa iingxelo zokonakala ukunceda &vendorShortName; ekwenzeni ibhrawuza yakho izinze kwaye ikhuseleke ngakumbi">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Ingxelo yokonakala">
-<!ENTITY datareporting_wifi_title2 "I-&vendorShortName; Inkonzo yendawo">
-<!ENTITY datareporting_wifi_geolocation_summary4 "Nceda i-&vendorShortName; imephu yehlabathi! Yabelena ngokusonela kwe-Wi-Fi nendawo yeselula yesixhobo sakho ukuphucula inkonzo yethu ye-geolocation.">
+<!ENTITY datareporting_wifi_title2 "&vendorShortName; Inkonzo yendawo">
+<!ENTITY datareporting_wifi_geolocation_summary4 "Nceda &vendorShortName; imephu yehlabathi! Yabelena ngokusonela kwe-Wi-Fi nendawo yeselula yesixhobo sakho ukuphucula inkonzo yethu ye-geolocation.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -347,6 +364,7 @@ size. -->
 <!ENTITY share_title "Yabelana ngokuvaya">
 <!ENTITY share_image_failed "Akukwazeki ukwabelana nalo mfanekiso-ngqondweni">
 <!ENTITY save_as_pdf "Gcina njenge-PDF">
+
 <!ENTITY find_in_page "Fumana kwikhasi">
 <!ENTITY desktop_mode "Cela isayithi yeDesktop">
 <!ENTITY page "Iphepha">
@@ -366,7 +384,7 @@ size. -->
 
 <!ENTITY find_text "Fumana kwiPhepha">
 <!ENTITY find_prev "Okwangaphambili">
-<!ENTITY find_next "Okulandelayo">
+
 <!ENTITY find_close "Vala">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -391,6 +409,8 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Qhobosha isayithi">
 <!ENTITY contextmenu_top_sites_unpin "Khulula isayithi">
 <!ENTITY contextmenu_add_search_engine "Yongeza injini yokukhangela">
+
+
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
@@ -413,16 +433,14 @@ size. -->
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
-<!ENTITY pref_prevent_magnifying_glass "Vala iglasi yokwenza nkulu">
-<!ENTITY pref_prevent_magnifying_glass_summary "Thintela iglasi yokwenza nkulu ukuyisebenzisa ekubanjweni kweskrini okungacacacanga">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar2 "Ukubhrawuza iskrini esipheleleyo">
-<!ENTITY pref_scroll_title_bar_summary "Fihla i-&brandShortName; umgca wesihloko xa usihlisa iphepha">
+<!ENTITY pref_scroll_title_bar_summary "Fihla &brandShortName; umgca wesihloko xa usihlisa iphepha">
 
 <!ENTITY pref_tab_queue_title2 "Vula izinxulumanisi ezininzi">
-<!ENTITY pref_tab_queue_summary3 "Zigcine kude kube lixesha elizayo uvula i&brandShortName;">
+<!ENTITY pref_tab_queue_summary3 "Zigcine kude kube lixesha elizayo uvula &brandShortName;">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -473,8 +491,6 @@ size. -->
 <!ENTITY button_set "Iseti">
 <!ENTITY button_clear "Susa">
 <!ENTITY button_copy "Kopa">
-
-<!ENTITY firstrun_panel_title_welcome "Wamkelekile">
 
 <!ENTITY home_top_sites_title "Iisayithi eziphezulu">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -564,14 +580,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_insecure "Uqhagamshelo olungakhuselekanga">
 <!-- Mixed content notifications in site identity popup -->
 
-<!ENTITY mixed_content_blocked_all "&brandShortName; ibhloke ii-elementi ezingakhuselekanga kweli phepha.">
-<!ENTITY mixed_content_blocked_some "&brandShortName; ibhloke ezinye ii-elementi ezikweli phepha.">
-<!ENTITY mixed_content_display_loaded "Eli phepha linee-elementi ezingakhuselekanga.">
-<!ENTITY mixed_content_protection_disabled "Uvale ukhuseleko kwii-elementi ezingakhuselekanga.">
 
-<!ENTITY loaded_mixed_content_message "Eli khasi libonisa umbandela ongakhuselekanga.">
-<!ENTITY blocked_mixed_content_message_top "I-&brandShortName; iwuthintele lo mbandela ungakhuselekanga.">
-<!ENTITY blocked_mixed_content_message_bottom "Iiwebhusayithi ezininzi ziya kusebenza ngokufanelekileyo nkqu nokuba sithintelwe esi siqulatho.">
+
 <!-- Tracking content notifications in site identity popup -->
 
 <!ENTITY doorhanger_tracking_title "Ikhangela ukhuseleko">
@@ -589,7 +599,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Iingcombolo zangasese zisusiwe">
 <!ENTITY private_data_fail "Ezinye iingcombolo zangasese azisuseki">
 
-<!ENTITY bookmarkhistory_button_import "Thumela ngaphandle">
 <!ENTITY bookmarkhistory_import_both "Ingenisa iibhukhmakhi nembali 
 esuka kwi-Android">
 <!ENTITY bookmarkhistory_import_bookmarks "Ingenisa iibhukhmakhi 
@@ -617,15 +626,15 @@ esuka kwi-Android">
 <!ENTITY searchable_description "Iibhukhmakhi nembali">
 <!-- Updater notifications --> 
 
-<!ENTITY updater_start_title2 "Uhlaziyo luyafumaneka ukulungiselela i-&brandShortName;">
+<!ENTITY updater_start_title2 "Uhlaziyo luyafumaneka ukulungiselela &brandShortName;">
 <!ENTITY updater_start_select2 "Chukumisa ukuze ukhuphele">
 
-<!ENTITY updater_downloading_title2 "Ikhuphela i-&brandShortName;">
+<!ENTITY updater_downloading_title2 "Ikhuphela &brandShortName;">
 <!ENTITY updater_downloading_title_failed2 "Akuphumelelanga ukukhuphela">
 <!ENTITY updater_downloading_select2 "Chukumisa ukwenza uhlaziyo lusakube lukhutshelwe">
 <!ENTITY updater_downloading_retry2 "Chukumisa ukuzama kwakhona">
 
-<!ENTITY updater_apply_title2 "Uhlaziyo olufumanekayo ukulungiselela i-&brandShortName;">
+<!ENTITY updater_apply_title2 "Uhlaziyo olufumanekayo ukulungiselela &brandShortName;">
 <!ENTITY updater_apply_select2 "Chukumisa ukuze uhlaziye">
 <!-- Guest mode -->
 
@@ -638,7 +647,7 @@ esuka kwi-Android">
 <!ENTITY guest_browsing_notification_title "Ukubhrawza ulindwendwe kwenziwe kwasebenza">
 <!ENTITY guest_browsing_notification_text "Cofa ukuze uphume">
 
-<!ENTITY exit_guest_session_title "I-&brandShortName; iza kuqalela ngoku">
+<!ENTITY exit_guest_session_title "&brandShortName; iza kuqalela ngoku">
 <!ENTITY exit_guest_session_text "Iingcombolo zokubhrawuza zale seshoni ziza kucinywa.">
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
@@ -703,4 +712,12 @@ esuka kwi-Android">
 <!ENTITY restriction_disallow_clear_history_title2 "Vala u \u0027Cima imbali yokubhrawza\u0027">
 <!ENTITY restriction_disallow_master_password_title2 "Vala iphaswedi eyimasta">
 <!ENTITY restriction_disallow_guest_browsing_title2 "Vala UkuBhrawza Kondwendwe">
-
+<!-- Default Bookmarks titles-->
+<!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
+<!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
+<!ENTITY bookmarks_marketplace "Firefox Marketplace">
+<!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
