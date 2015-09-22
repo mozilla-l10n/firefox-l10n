@@ -14,10 +14,18 @@
 
 
 
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey, fullZoomEnlargeCmd.commandkey2,
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey,
+fullZoomReduceCmd.commandkey2, fullZoomResetCmd.commandkey,
+and fullZoomResetCmd.commandkey2 should all match the corresponding
+values from browser.dtd.  -->
 
-<!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
 
+<!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!-- This key is used with the accel+shift modifiers to minimize the toolbox -->
 

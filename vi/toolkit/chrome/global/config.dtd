@@ -14,6 +14,7 @@
 <!ENTITY searchPrefs.label "Tìm kiếm:">
 <!ENTITY searchPrefs.accesskey "r">
 <!ENTITY focusSearch.key "r">
+
 <!-- Columns -->
 
 <!ENTITY prefColumn.label "Tên Tùy Chọn">

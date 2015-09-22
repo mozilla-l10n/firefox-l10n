@@ -10,24 +10,6 @@
 
 <!ENTITY window.title "Bảng kiểm soát Web">
 <!ENTITY browserConsole.title "Chế độ dòng lệnh của trình duyệt">
-
-<!ENTITY networkPanel.requestURLColon             "URL yêu cầu:">
-<!ENTITY networkPanel.requestMethodColon          "Phương thức yêu cầu:">
-<!ENTITY networkPanel.statusCodeColon             "Mã trạng thái:">
-
-<!ENTITY networkPanel.requestHeaders              "Đầu đề Yêu cầu">
-<!ENTITY networkPanel.requestCookie               "Cookie đã gửi">
-<!ENTITY networkPanel.requestBody                 "Nội dung Yêu cầu">
-<!ENTITY networkPanel.requestFormData             "Gửi dữ liệu của Form">
-
-<!ENTITY networkPanel.responseHeaders             "Đầu đề Phản hồi">
-<!ENTITY networkPanel.responseCookie              "Cookie đã nhận">
-<!ENTITY networkPanel.responseBody                "Nội dung Phản hồi">
-<!ENTITY networkPanel.responseBodyCached          "Dữ liệu Được đệm">
-<!ENTITY networkPanel.responseBodyUnknownType     "Content Type chưa biết">
-<!ENTITY networkPanel.responseNoBody              "Không có Response Body">
-<!ENTITY networkPanel.responseImage               "Hình ảnh Đã nhận">
-<!ENTITY networkPanel.responseImageCached         "Hình ảnh Được đệm">
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
 
@@ -66,10 +48,19 @@
   -  console.error(). -->
 <!ENTITY btnPageLogging.tooltip "Các thông báo log gửi tới đối tượng window.console">
 
-<!ENTITY btnConsoleErrors       "Lỗi">
-<!ENTITY btnConsoleInfo         "Thông tin">
-<!ENTITY btnConsoleWarnings     "Cảnh báo">
-<!ENTITY btnConsoleLog          "Lưu nhật ký">
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
+  -  the toolbar. It shows or hides messages that the web developer inserted on
+  -  the page for debugging purposes, using calls on the HTTP server. -->
+
+
+
+
 
 
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
