@@ -14,6 +14,8 @@
 
 <!ENTITY pref.weekstarts.label "Astea noiz hasi:">
 <!ENTITY pref.weekstarts.accesskey "h">
+
+
 <!ENTITY pref.daysoff.label "Erabili egun hauek lan egun bezala:">
 
 <!ENTITY pref.calendar.view.daystart.label "Eguna hasten da:">
