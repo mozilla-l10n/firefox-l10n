@@ -10,24 +10,6 @@
 
 <!ENTITY window.title "Interneti diji-walha">
 <!ENTITY browserConsole.title "Ceecikaw diji-walha">
-
-<!ENTITY networkPanel.requestURLColon             "URL hãayan:">
-<!ENTITY networkPanel.requestMethodColon          "Hãayan dabari:">
-<!ENTITY networkPanel.statusCodeColon             "Assariya tammaasa">
-
-<!ENTITY networkPanel.requestHeaders              "Wiryan boŋdekey">
-<!ENTITY networkPanel.requestCookie               "Aleewaa sanbandi">
-<!ENTITY networkPanel.requestBody                 "Wiriyan gaaham">
-<!ENTITY networkPanel.requestFormData             "Takari bayhayey sanbandi">
-
-<!ENTITY networkPanel.responseHeaders             "Tuuruyan boŋdekey">
-<!ENTITY networkPanel.responseCookie              "Aleewa duwante">
-<!ENTITY networkPanel.responseBody                "Tuuruyan gaaham">
-<!ENTITY networkPanel.responseBodyCached          "Bayhaya lanbantey">
-<!ENTITY networkPanel.responseBodyUnknownType     "Gundekuna dumi šibayante">
-<!ENTITY networkPanel.responseNoBody              "Tuuruyan gaaham kul šii">
-<!ENTITY networkPanel.responseImage               "Bii duwante">
-<!ENTITY networkPanel.responseImageCached         "Bii lanbante">
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
 
@@ -69,12 +51,21 @@
 <!ENTITY btnPageLogging.label   "Zaaritiira">
 <!ENTITY btnPageLogging.tooltip "Goy-ceebandu alhabarey sanbandi &quot;console&quot; hayaa do">
 <!ENTITY btnPageLogging.accesskey3 "L">
-<!ENTITY btnConsoleErrors       "Firkawey">
-<!ENTITY btnConsoleInfo         "Alhabar">
-<!ENTITY btnConsoleWarnings     "Yaamarey">
-<!ENTITY btnConsoleLog          "Hantum">
+
+
+
+
 <!ENTITY btnConsoleXhr          "XHR">
 <!ENTITY btnConsoleReflows      "Willandey">
+<!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
+  -  the toolbar. It shows or hides messages that the web developer inserted on
+  -  the page for debugging purposes, using calls on the HTTP server. -->
+
+
+
+
+
+
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
 <!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"

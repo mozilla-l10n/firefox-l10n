@@ -24,10 +24,7 @@
 <!ENTITY  addonExceptions.accesskey     "H">
 
 
-<!ENTITY  passwords.label               "Šennikufaley">
 
-<!ENTITY  rememberPasswords.label       "Honga šennikufaley nungey se">
-<!ENTITY  rememberPasswords.accesskey   "H">
 <!ENTITY  passwordExceptions.label      "Hasarawey…">
 <!ENTITY  passwordExceptions.accesskey  "s">
 
@@ -36,5 +33,4 @@
 <!ENTITY  changeMasterPassword.label     "Takaddaɲaa šennikufal barmay">
 <!ENTITY  changeMasterPassword.accesskey "T">
 
-<!ENTITY  savedPasswords.label            "Šennikufal gaabuntey…">
-<!ENTITY  savedPasswords.accesskey        "e">
+
