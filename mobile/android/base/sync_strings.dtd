@@ -197,6 +197,7 @@
 
 <!ENTITY fxaccount_status_header2 "Firefox Hesabı">
 <!ENTITY fxaccount_status_signed_in_as "Oturum açan">
+
 <!ENTITY fxaccount_status_auth_server "Hesap sunucusu">
 <!ENTITY fxaccount_status_sync_now "Şimdi eşitle">
 <!ENTITY fxaccount_status_syncing2 "Eşitleniyor…">
