@@ -14,6 +14,8 @@
 
 <!ENTITY pref.weekstarts.label "První den v týdnu:">
 <!ENTITY pref.weekstarts.accesskey "r">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Zobrazit číslo týdne v pohledech a v zobrazení miniměsíce">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "l">
 <!ENTITY pref.daysoff.label "Do pracovního týdne zahrnout tyto dny:">
 
 <!ENTITY pref.calendar.view.daystart.label "Den začíná v:">
