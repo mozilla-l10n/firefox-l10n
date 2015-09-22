@@ -13,9 +13,8 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "Сіз жекелік шолу режимінде емессіз">
 
-<!ENTITY privatebrowsingpage.description.private3 "Firefox сізді бақылауға жол бермейді және тарихты сақтамайтын болады, бірақ, жүктеліп алынған файлдар және жасалған бетбелгілер құрылғыңызда сақталады.">
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
-     Browsing" is capitalized in English to be consistent with our existing uses
+     Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
 <!ENTITY privatebrowsingpage.description.normal2 "Жекелік шолу режимінде тарих не cookies сақталмайтын болады. Жасалған бетбелгілер және жүктеліп алынған файлдар құрылғыңызда сақталады.">
 

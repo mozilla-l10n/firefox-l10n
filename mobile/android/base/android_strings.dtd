@@ -6,15 +6,24 @@
 <!ENTITY  no_space_to_start_error "&brandShortName; іске қосу үшін бос орын жеткіліксіз.">
 <!ENTITY  error_loading_file "&brandShortName; іске қосылу үшін керек файларды жүктеу кезінде қате орын алды">
 
+<!ENTITY firstrun_panel_title_welcome "Қош келдіңіз">
 <!ENTITY  onboard_start_message3 "&brandShortName; көмегімен шолу">
 <!ENTITY  onboard_start_subtext3 "Мобильді интернетті қолдануды өздік қылыңыз.">
 <!ENTITY  onboard_start_button_account "&brandShortName; ішіне кіріңіз">
 <!ENTITY  onboard_start_button_browser "Шолуды бастау">
+
+
 <!ENTITY  onboard_start_restricted1 "&brandShortName; ыңғайлатылған нұсқасы көмегімен қауіпсіз қалып, әрі басқарудан қол үзбеңіз.">
+
+<!ENTITY firstrun_import_message "&brandShortName; өніміне қош келдіңіз">
+
+
+
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
-<!ENTITY  bookmarks_title "Бетбелгілер">
+<!ENTITY  bookmarks_title "Bookmarks">
 <!ENTITY  history_title "Тарихы">
 <!ENTITY  reading_list_title "Оқу тізімі">
 <!ENTITY  recent_tabs_title "Соңғы беттер">
@@ -55,8 +64,9 @@
 
 <!ENTITY history_today_section "Бүгін">
 <!ENTITY history_yesterday_section "Кеше">
-<!ENTITY history_week_section2 "Өткен апта">
-<!ENTITY history_older_section2 "Өткен ай">
+
+
+
 
 <!ENTITY go "Өту">
 <!ENTITY search "Іздеу">
@@ -69,8 +79,6 @@
 <!ENTITY edit_mode_cancel "Бас тарту">
 
 <!ENTITY close_tab "Бетті жабу">
-<!ENTITY tab_audio_playing "Бұл бет аудионы ойнатуда">
-<!ENTITY tab_audio_muted "Бұл беттің дыбысы басылған">
 <!ENTITY one_tab "1 бет">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -81,6 +89,13 @@
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
 <!ENTITY switch_button_message "АУЫСУ">
+<!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
+     visible in the UI, but rather used as a text-to-speech content description
+     for sight-impaired a11y users. The content description is set on a tab
+     title in a list of open tabs when content in that tab is playing audio.
+     &formatS; will be replaced with the title of the tab, as received from the
+     web page. When audio is not playing in a tab, &formatS; will be used as
+     the content description. -->
 
 <!ENTITY settings "Баптаулар">
 <!ENTITY settings_title "Баптаулар">
@@ -182,6 +197,9 @@
 <!ENTITY pref_home_updates_wifi "Тек Wi-Fi арқылы">
 <!ENTITY pref_home_suggested_sites "Сайттарды ұсыну">
 <!ENTITY pref_home_suggested_sites_summary "Сізге қызық бола алатын сайттарды үй парағыңызда көрсету">
+
+
+
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Баптау">
@@ -237,7 +255,6 @@
 <!ENTITY pref_plugins_tap_to_play "Ойнату үшін шерту">
 <!ENTITY pref_plugins_disabled "Сөндірілген">
 <!ENTITY pref_text_size "Мәтін өлшемі">
-<!ENTITY pref_reflow_on_zoom4 "Мәтін автокелтіру">
 <!ENTITY pref_restore "Беттер">
 <!ENTITY pref_restore_always "Әрқашан қалпына келтіру">
 <!ENTITY pref_restore_quit "&brandShortName; жұмысын аяқтағаннан кейін қалпына келтірмеу">
@@ -347,6 +364,7 @@ size. -->
 <!ENTITY share_title "Арқылы бөлісу">
 <!ENTITY share_image_failed "Бұл суретпен бөлісу сәтсіз аяқталды">
 <!ENTITY save_as_pdf "PDF ретінде сақтау">
+
 <!ENTITY find_in_page "Беттен табу">
 <!ENTITY desktop_mode "Сайттың толық нұсқасы">
 <!ENTITY page "Бет">
@@ -366,7 +384,7 @@ size. -->
 
 <!ENTITY find_text "Беттен табу">
 <!ENTITY find_prev "Алдыңғы">
-<!ENTITY find_next "Келесі">
+
 <!ENTITY find_close "Жабу">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -391,6 +409,8 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Сайтты бекіту">
 <!ENTITY contextmenu_top_sites_unpin "Сайтты бекітуден босату">
 <!ENTITY contextmenu_add_search_engine "Іздеу жүйесін қосу">
+
+
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
@@ -413,8 +433,6 @@ size. -->
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
-<!ENTITY pref_prevent_magnifying_glass "Үлкейткішті сөндіру ">
-<!ENTITY pref_prevent_magnifying_glass_summary "Экранды даулы тиюлерді ажыратуда үлкейткішті қолдануға тыйым салу">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -473,8 +491,6 @@ size. -->
 <!ENTITY button_set "Орнату">
 <!ENTITY button_clear "Тазарту">
 <!ENTITY button_copy "Көшіру">
-
-<!ENTITY firstrun_panel_title_welcome "Қош келдіңіз">
 
 <!ENTITY home_top_sites_title "Топ сайттар">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -564,14 +580,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_insecure "Қауіпсіз емес байланыс">
 <!-- Mixed content notifications in site identity popup -->
 
-<!ENTITY mixed_content_blocked_all "&brandShortName; бұл парақтағы қауіпсіз емес элементтерді блоктаған.">
-<!ENTITY mixed_content_blocked_some "&brandShortName; бұл парақтағы кейбір қауіпсіз емес элементтерді блоктаған.">
-<!ENTITY mixed_content_display_loaded "Бұл парақта бірнеше қауіпсіз емес элементтер бар.">
-<!ENTITY mixed_content_protection_disabled "Сіз қауіпсіз емес элементтерден қорғанысты сөндіргенсіз.">
 
-<!ENTITY loaded_mixed_content_message "Бұл парақ қауіпсіз емес құраманы көрсетіп тұр.">
-<!ENTITY blocked_mixed_content_message_top "&brandShortName; қауіпсіз емес құраманы блоктады.">
-<!ENTITY blocked_mixed_content_message_bottom "Веб-сайттардың көбі бұл құрама сөндірілген болса да, дұрыс жұмыс жасай береді.">
+
 <!-- Tracking content notifications in site identity popup -->
 
 <!ENTITY doorhanger_tracking_title "Бақылаудан қорғаныс">
@@ -589,7 +599,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Жеке деректер өшірілді">
 <!ENTITY private_data_fail "Кейбір жеке деректерді өшіру мүмкін емес">
 
-<!ENTITY bookmarkhistory_button_import "Импорттау">
 <!ENTITY bookmarkhistory_import_both "Бетбелгілер және тарихты 
 Android-тан импорттау">
 <!ENTITY bookmarkhistory_import_bookmarks "Бетбелгілерді Android-тан 
@@ -703,4 +712,12 @@ Android-тан импорттау">
 <!ENTITY restriction_disallow_clear_history_title2 "\u0027Шолу тарихын өшіру\u0027 мүмкіндігін сөндіру">
 <!ENTITY restriction_disallow_master_password_title2 "Мастер парольді сөндіру">
 <!ENTITY restriction_disallow_guest_browsing_title2 "Қоңақ шолу режимін сөндіру">
-
+<!-- Default Bookmarks titles-->
+<!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
+<!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
+<!ENTITY bookmarks_marketplace "Firefox дүкені">
+<!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
