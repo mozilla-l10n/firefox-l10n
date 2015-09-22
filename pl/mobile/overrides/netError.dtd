@@ -93,7 +93,7 @@
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "Nieznany protokół">
-<!ENTITY unknownProtocolFound.longDesc "<ul><li>Możliwe, że, aby otworzyć ten adres, konieczna jest instalacja dodatkowego oprogramowania.</li></ul>">
+<!ENTITY unknownProtocolFound.longDesc "<ul><li>Możliwe że, aby otworzyć ten adres, konieczna jest instalacja dodatkowego oprogramowania.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "Serwer proxy odrzucił połączenie">
 <!ENTITY proxyConnectFailure.longDesc "
