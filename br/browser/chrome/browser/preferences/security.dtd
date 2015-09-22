@@ -24,10 +24,7 @@
 <!ENTITY  addonExceptions.accesskey     "N">
 
 
-<!ENTITY  passwords.label               "Gerioù-tremen">
 
-<!ENTITY  rememberPasswords.label       "Derc'hel soñj e gerioù-tremen evit al lec'hiennoù-se">
-<!ENTITY  rememberPasswords.accesskey   "D">
 <!ENTITY  passwordExceptions.label      "Nemedennoù…">
 <!ENTITY  passwordExceptions.accesskey  "m">
 
@@ -36,5 +33,4 @@
 <!ENTITY  changeMasterPassword.label     "Kemmañ ar ger-tremen mestr…">
 <!ENTITY  changeMasterPassword.accesskey "K">
 
-<!ENTITY  savedPasswords.label            "Gerioù-tremen enrollet…">
-<!ENTITY  savedPasswords.accesskey        "G">
+
