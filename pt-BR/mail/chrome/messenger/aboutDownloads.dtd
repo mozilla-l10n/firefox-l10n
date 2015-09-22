@@ -17,5 +17,3 @@
 <!ENTITY cmd.open.accesskey                        "A">
 <!ENTITY cmd.removeFromHistory.label               "Remover do histórico">
 <!ENTITY cmd.removeFromHistory.accesskey           "e">
-<!ENTITY cmd.clearDownloads.label                  "Limpar Downloads">
-<!ENTITY cmd.clearDownloads.accesskey              "D">
