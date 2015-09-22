@@ -8,10 +8,15 @@
 <!ENTITY lightning.toolbar.task.name.accesskey "T">
 
 <!ENTITY lightning.toolbar.sync.label "Synchroniseren">
+<!ENTITY lightning.toolbar.sync.tooltip "Agenda’s opnieuw laden en wijzigingen synchroniseren">
 <!ENTITY lightning.toolbar.delete.label "Verwijderen">
+<!ENTITY lightning.toolbar.delete.tooltip "Geselecteerde gebeurtenissen of taken verwijderen">
 <!ENTITY lightning.toolbar.edit.label "Bewerken">
+<!ENTITY lightning.toolbar.edit.tooltip "Geselecteerde gebeurtenis of taak bewerken">
 <!ENTITY lightning.toolbar.gototoday.label "Naar vandaag gaan">
+<!ENTITY lightning.toolbar.gototoday.tooltip "Naar vandaag gaan">
 <!ENTITY lightning.toolbar.print.label "Afdrukken">
+<!ENTITY lightning.toolbar.print.tooltip "Gebeurtenissen of taken afdrukken">
 
 <!-- Mode Toolbar -->
 <!ENTITY lightning.toolbar.calendar.label     "Agenda">
@@ -23,7 +28,9 @@
 
 <!-- Toolbar write button -->
 <!ENTITY lightning.toolbar.newevent.label     "Gebeurtenis">
+<!ENTITY lightning.toolbar.newevent.tooltip   "Een nieuwe gebeurtenis maken">
 <!ENTITY lightning.toolbar.newtask.label      "Taak">
+<!ENTITY lightning.toolbar.newtask.tooltip    "Een nieuwe taak maken">
 
 <!-- Calendar and Task Mode Toolbar -->
 <!ENTITY lightning.toolbar.day.label                 "Dag">

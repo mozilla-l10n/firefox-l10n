@@ -33,6 +33,10 @@
 <!ENTITY pref.default_task_offset_start.label "Relatief t.o.v. begin">
 <!ENTITY pref.default_task_offset_next_hour.label "Relatief t.o.v. volgend uur">
 
+<!ENTITY pref.calendar.todaypane.agenda.caption "Venster Vandaag">
+<!ENTITY pref.soondays.label "De aanstaande sectie toont:">
+<!ENTITY pref.soondays.accesskey "a">
+
 <!ENTITY pref.accessibility.label "Toegankelijkheid" >
 <!ENTITY pref.systemcolors.label "Kleuren optimaliseren voor toegankelijkheid" >
 <!ENTITY pref.systemcolors.accesskey "o">

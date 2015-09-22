@@ -18,10 +18,10 @@
 <!ENTITY languages.customize.active.accesskey           "a">
 <!ENTITY languages.customize.others.label               "Andere:">
 <!ENTITY languages.customize.others.accesskey           "A">
-<!ENTITY languages.customize.Fallback.grouplabel        "Tekenset voor Legacy-inhoud">
-<!ENTITY languages.customize.Fallback.label             "Terugval tekenset:">
-<!ENTITY languages.customize.Fallback.accesskey         "t">
-<!ENTITY languages.customize.Fallback.desc              "Deze tekenset wordt gebruikt voor legacy-inhoud die geen eigen tekeset kan declareren.">
+<!ENTITY languages.customize.Fallback2.grouplabel       "Tekstcodering voor Legacy-inhoud">
+<!ENTITY languages.customize.Fallback2.label            "Terugvaltekstcodering:">
+<!ENTITY languages.customize.Fallback2.accesskey        "T">
+<!ENTITY languages.customize.Fallback2.desc             "Deze tekstcodering wordt gebruikt voor legacy-inhoud die geen eigen tekstcodering kan declareren.">
 <!-- LOCALIZATION NOTE  Character Encoding Preferences Dialog: Do NOT localize the terms "en-bz, ar-jo"  -->
 <!ENTITY languages.customize.others.examples            "bv. en-bz, ar-jo">
 <!ENTITY languages.customize.moveUp.label               "Omhoog verplaatsen">

@@ -4,7 +4,7 @@
 
 <!ENTITY dialog.title                 "Verzendopties">
 <!ENTITY sendMail.title               "Tekstopmaak">
-<!ENTITY sendMaildesc.label           "Wanneer een bericht in HTML-opmaak wordt verzonden en van één of meer ontvangers is niet bekend of ze HTML kunnen ontvangen:">
+<!ENTITY sendMaildesc.label           "Wanneer een bericht in HTML-opmaak wordt verzonden en van een of meer ontvangers is niet bekend of ze HTML kunnen ontvangen:">
 <!ENTITY askMe.label                  "Mij vragen wat te doen">
 <!ENTITY askMe.accesskey              "v">
 <!ENTITY convertPlain.label           "Bericht converteren naar platte tekst">
@@ -15,7 +15,7 @@
 <!ENTITY sendBoth.accesskey           "e">
 <!ENTITY override.label               "Noot: gebruik het adresboek om gewenste tekstopmaak voor ontvangers te specificeren.">
 
-<!ENTITY domaindesc.label             "Wanneer u een bericht stuurt naar een adres met één van de onderstaande domeinnamen, zal &brandShortName; het bericht automatisch in de juiste opmaak verzenden.">
+<!ENTITY domaindesc.label             "Wanneer u een bericht stuurt naar een adres met een van de onderstaande domeinnamen, zal &brandShortName; het bericht automatisch in de juiste opmaak verzenden.">
 <!ENTITY HTMLTab.label                "HTML-domeinen">
 <!ENTITY HTMLTab.accesskey            "H">
 <!ENTITY PlainTextTab.label           "Plattetekstdomeinen">

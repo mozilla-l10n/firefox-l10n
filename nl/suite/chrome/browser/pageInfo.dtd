@@ -29,7 +29,7 @@
 <!ENTITY  generalReferrer       "Verwijzende URL:">
 <!ENTITY  generalSource         "Bufferbron:">
 <!ENTITY  generalModified       "Gewijzigd:">
-<!ENTITY  generalEncoding       "Tekenset:">
+<!ENTITY  generalEncoding2      "Tekstcodering:">
 <!ENTITY  generalMetaName       "Naam">
 <!ENTITY  generalMetaContent    "Inhoud">
 <!ENTITY  generalSecurityDetails   "Details">

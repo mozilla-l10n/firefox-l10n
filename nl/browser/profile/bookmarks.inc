@@ -10,8 +10,8 @@
 #define bookmarks_title Bladwijzers
 #define bookmarks_heading Bladwijzers
 
-#define bookmarks_toolbarfolder Bookmarks Toolbar Folder
-#define bookmarks_toolbarfolder_description Voeg bladwijzers aan deze map toe om ze weer te geven op de bladwijzerwerkbalk
+#define bookmarks_toolbarfolder Map Bladwijzerwerkbalk
+#define bookmarks_toolbarfolder_description Voeg bladwijzers aan deze map toe om ze op de bladwijzerwerkbalk weer te geven
 
 # LOCALIZATION NOTE (getting_started):
 # link title for https://www.mozilla.org/en-US/firefox/central/
@@ -36,10 +36,5 @@
 # LOCALIZATION NOTE (firefox_about):
 # link title for https://www.mozilla.org/en-US/about/
 #define firefox_about Over Mozilla
-
-# LOCALIZATION NOTE (firefox_feedback):
-# link title for browser feedback page
-# currently used by Metro only: https://input.mozilla.org/feedback/metrofirefox
-#define firefox_feedback Feedback geven
 
 #unfilter emptyLines

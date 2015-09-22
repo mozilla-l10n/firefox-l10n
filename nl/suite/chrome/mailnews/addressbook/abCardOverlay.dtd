@@ -48,14 +48,6 @@
 <!ENTITY ScreenName.label               "Schermnaam:">
 <!ENTITY ScreenName.accesskey           "S">
 
-<!ENTITY allowRemoteContent1.label      "Externe inhoud toestaan">
-<!ENTITY allowRemoteContent1.accesskey  "d">
-<!ENTITY allowRemoteContent1.tooltip    "Berichten in HTML-opmaak kunnen koppelingen naar
-inhoud van externe computerbronnen bevatten. Bij het openen van een dergelijk bericht wordt
-verbinding gemaakt met een externe computer. Hiermee kan worden gevolgd of het bericht is
-geopend. Door dit selectievakje aan te vinken staat u toe dat externe inhoud in HTML-berichten
-van dit contact wordt opgehaald.">
-
 <!ENTITY WorkPhone.label                "Werk:">
 <!ENTITY WorkPhone.accesskey            "r">
 <!ENTITY HomePhone.label                "Thuis:">

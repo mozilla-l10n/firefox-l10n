@@ -5,7 +5,7 @@
 <!--LOCALIZATION NOTE msgCompSecurityInfo.dtd UI for viewing security status when composing a message -->
 
 <!ENTITY title.label "Berichtbeveiliging">
-<!ENTITY subject.plaintextWarning "Attentie: onderwerpen van e-mailberichten worden nooit versleuteld.">
+<!ENTITY subject.plaintextWarning "Opmerking: onderwerpen van e-mailberichten worden nooit versleuteld.">
 <!ENTITY status.heading "De inhoud van uw bericht zal als volgt worden verzonden:">
 <!ENTITY status.signed "Digitaal ondertekend:">
 <!ENTITY status.encrypted "Versleuteld:">

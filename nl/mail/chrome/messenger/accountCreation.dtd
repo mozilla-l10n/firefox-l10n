@@ -4,7 +4,7 @@
 
 <!ENTITY autoconfigWizard.title          "E-mailaccountset-up">
 <!ENTITY name.label                      "Uw naam:">
-<!ENTITY name.accesskey                  "n">
+<!ENTITY name.accesskey                  "U">
 <!ENTITY name.placeholder                "Voornaam Achternaam">
 <!ENTITY name.text                       "Uw naam, zoals getoond aan anderen">
 <!ENTITY email.label                     "E-mailadres:">
@@ -37,8 +37,8 @@
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
 
-<!ENTITY advancedSetup.label             "Uitgebreide config">
-<!ENTITY advancedSetup.accesskey         "U">
+<!ENTITY advancedSetup.label             "Uitgebreide configuratie">
+<!ENTITY advancedSetup.accesskey         "c">
 <!ENTITY cancel.label                    "Annuleren">
 <!ENTITY cancel.accesskey                "A">
 <!ENTITY continue.label                  "Doorgaan">
@@ -49,12 +49,12 @@
      displayed on the button in manual edit mode which will re-guess
      the account configuration, taking into account the settings that
      the user has manually changed. -->
-<!ENTITY half-manual-test.label          "Hertesten">
+<!ENTITY half-manual-test.label          "Opnieuw testen">
 <!ENTITY half-manual-test.accesskey      "t">
-<!ENTITY manual-edit.label               "Handmatige config">
+<!ENTITY manual-edit.label               "Handmatige configuratie">
 <!ENTITY manual-edit.accesskey           "H">
 <!ENTITY switch-to-provisioner.label     "Nieuwe account verkrijgen">
-<!ENTITY switch-to-provisioner.accesskey "o">
+<!ENTITY switch-to-provisioner.accesskey "N">
 
 
 <!ENTITY warning.label                   "Waarschuwing!">

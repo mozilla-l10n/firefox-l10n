@@ -6,4 +6,4 @@
 <!ENTITY markByDateLower.label "Berichten als gelezen markeren vanaf:">
 <!ENTITY markByDateLower.accesskey "v">
 <!ENTITY markByDateUpper.accesskey "T">
-<!ENTITY markByDateUpper.label "Tot:">
+<!ENTITY markByDateUpper.label "Tot en met:">

@@ -12,7 +12,7 @@
 <!ENTITY sync.syncNow               "Nu synchroniseren">
 
 <!ENTITY sync.setup.title           "Verbinden met Sync">
-<!ENTITY sync.setup.pair            "Selecteer “Een apparaat koppelen” op uw andere apparaat om het te activeren.">
+<!ENTITY sync.setup.pair            "Selecteer ‘Een apparaat koppelen’ op uw andere apparaat om het te activeren.">
 <!ENTITY sync.fallback              "Ik ben niet bij mijn computer…">
 <!ENTITY sync.setup.manual          "Voer uw Sync-accountgegevens in">
 <!ENTITY sync.account               "Accountnaam">

@@ -72,6 +72,8 @@
 <!ENTITY saveFrameAsCmd.label           "Deelvenster opslaan als…">
 <!ENTITY saveFrameCmd.label             "Deelvenster opslaan">
 <!ENTITY saveFrameCmd.accesskey         "o">
+<!ENTITY printFrameCmd.label            "Deelvenster afdrukken…">
+<!ENTITY printFrameCmd.accesskey        "a">
 <!ENTITY saveLinkAsCmd.label            "Koppelingsdoel opslaan als…">
 <!ENTITY saveLinkCmd.label              "Koppelingsdoel opslaan">
 <!ENTITY saveLinkCmd.accesskey          "d">

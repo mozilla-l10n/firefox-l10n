@@ -16,7 +16,7 @@
 <!ENTITY lightning.menupopup.new.task.label     "Taak…">
 <!ENTITY lightning.menupopup.new.task.accesskey "T">
 <!ENTITY lightning.menupopup.new.calendar.label "Agenda…">
-<!ENTITY lightning.menupopup.new.calendar.accesskey "n">
+<!ENTITY lightning.menupopup.new.calendar.accesskey "d">
 
 <!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.label               "Openen">
@@ -75,7 +75,7 @@
 <!ENTITY lightning.keys.todo.new "D">
 
 <!-- Account Central page -->
-<!ENTITY lightning.acctCentral.newCalendar.label "Een nieuwe agenda creëren">
+<!ENTITY lightning.acctCentral.newCalendar.label "Een nieuwe agenda maken">
 
 <!-- today-pane-specific -->
 <!ENTITY todaypane.showMinimonth.label "Minimaand tonen">

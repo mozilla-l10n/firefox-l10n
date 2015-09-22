@@ -8,8 +8,8 @@
 <!ENTITY  language.accesskey                      "L">
 
 <!ENTITY  size.label                              "Grootte:">
-<!ENTITY  proportionalSize.accesskey              "G">
-<!ENTITY  sizeMono.accesskey                      "e">
+<!ENTITY  sizeProportional.accesskey              "G">
+<!ENTITY  sizeMonospace.accesskey                 "o">
 
 <!ENTITY  proportional.label                      "Proportioneel:">
 <!ENTITY  proportional.accesskey                  "P">
@@ -21,20 +21,18 @@
 <!ENTITY  monospace.label                         "Monospace:">
 <!ENTITY  monospace.accesskey                     "M">
 
-<!ENTITY  font.langGroup.latin1                   "Westers">
-<!ENTITY  font.langGroup.latin2                   "Centraal-Europees">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
+<!ENTITY  font.langGroup.latin                    "Latijns">
 <!ENTITY  font.langGroup.japanese                 "Japans">
 <!ENTITY  font.langGroup.trad-chinese             "Traditioneel Chinees (Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Vereenvoudigd Chinees">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Traditioneel Chinees (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "Koreaans">
 <!ENTITY  font.langGroup.cyrillic                 "Cyrillisch">
-<!ENTITY  font.langGroup.baltic                   "Baltisch">
 <!ENTITY  font.langGroup.el                       "Grieks">
-<!ENTITY  font.langGroup.turkish                  "Turks">
-<!ENTITY  font.langGroup.unicode1                 "Unicode">
-<!ENTITY  font.langGroup.user-def                 "Door gebruiker gedefinieerd">
-<!ENTITY  font.langGroup.thai                     "Thai">
+<!ENTITY  font.langGroup.other                    "Andere schriftsystemen">
+<!ENTITY  font.langGroup.thai                     "Thais">
 <!ENTITY  font.langGroup.hebrew                   "Hebreeuws">
 <!ENTITY  font.langGroup.arabic                   "Arabisch">
 <!ENTITY  font.langGroup.devanagari               "Devanagari">
@@ -48,7 +46,12 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
 <!ENTITY  font.langGroup.khmer                    "Khmer">
 <!ENTITY  font.langGroup.malayalam                "Malayalam">
-
+<!ENTITY  font.langGroup.math                     "Wiskunde">
+<!ENTITY  font.langGroup.oriya                    "Oriya">
+<!ENTITY  font.langGroup.telugu                   "Telugu">
+<!ENTITY  font.langGroup.kannada                  "Kannada">
+<!ENTITY  font.langGroup.sinhala                  "Singalees">
+<!ENTITY  font.langGroup.tibetan                  "Tibetaans">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Minimale lettergrootte:">
 <!ENTITY minSize.accesskey                        "n">
@@ -68,10 +71,10 @@
 <!-- Language settings -->
 <!ENTITY sendDefaultCharset.label         "Uitgaande e-mailberichten:">
 <!ENTITY sendDefaultCharset.accesskey     "U">
-<!ENTITY languagesTitle1.label            "Tekensets">
-<!ENTITY composingDescription.label       "Standaard tekensets voor verzenden en ontvangen van e-mailberichten">
+<!ENTITY languagesTitle2.label            "Tekstcodering">
+<!ENTITY composingDescription2.label      "De standaard tekstcodering voor verzenden en ontvangen van e-mailberichten instellen">
 
 <!ENTITY viewDefaultCharsetList.label     "Inkomende e-mailberichten:">
-<!ENTITY viewDefaultCharsetList.accesskey "I">
-<!ENTITY replyInDefaultCharset2.label     "Wanneer mogelijk, de standaard tekenset gebruiken in antwoorden">
-<!ENTITY replyInDefaultCharset2.accesskey "W">
+<!ENTITY viewDefaultCharsetList.accesskey "e">
+<!ENTITY replyInDefaultCharset3.label     "Wanneer mogelijk, de standaard tekstcodering gebruiken in antwoorden">
+<!ENTITY replyInDefaultCharset3.accesskey "W">
