@@ -6,32 +6,26 @@
 %brandDTD;
 
 <!-- Specific error messages -->
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+
 
 <!ENTITY deniedPortAccess.longDesc "">
 
+<!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 
 
 
 
 
-
-
-
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
-
-
+<!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
 
 
 
 
-
-
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
-
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
-
+<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
 
 
@@ -42,13 +36,21 @@
 
 
 
-<!ENTITY nssFailure2.longDesc "<ul> 
-<li>The page you are trying to view can not be shown because the authenticity of the received data could not be verified.</li> 
-<li>Please contact the web site owners to inform them of this problem. Alternatively, use the command found in the help menu to report this broken site.</li> 
-</ul>">
 
 
 
+<!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
 
 
