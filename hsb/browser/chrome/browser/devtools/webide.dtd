@@ -27,6 +27,7 @@
 <!ENTITY projectMenu_manageComponents_label "Ekstrakomponenty zrjadować">
 <!ENTITY projectMenu_manageComponents_accesskey "E">
 
+
 <!ENTITY runtimeMenu_label "Běžny čas">
 <!ENTITY runtimeMenu_accesskey "B">
 <!ENTITY runtimeMenu_disconnect_label "Zwisk dźělić">
