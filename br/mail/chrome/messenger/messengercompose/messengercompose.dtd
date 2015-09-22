@@ -215,6 +215,7 @@
 <!ENTITY addressButton.tooltip "Diuzañ un degemerer diwar ar c'harned chomlec'hioù">
 <!ENTITY attachButton.tooltip "Enderc'hel ur c'henstagadur">
 <!ENTITY spellingButton.tooltip "Gwiriañ reizhskrivañ an diuzad pe ar gemennadenn a-bezh">
+
 <!ENTITY saveButton.tooltip "Enrollañ ar gemennadenn-mañ">
 <!ENTITY cutButton.tooltip              "Troc'hañ">
 <!ENTITY copyButton.tooltip             "Eilañ">

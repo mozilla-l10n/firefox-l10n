@@ -20,16 +20,16 @@
 <!ENTITY replaceButton.accessKey "s">
 <!ENTITY replaceAllButton.label "Amsaviñ pep tra">
 <!ENTITY replaceAllButton.accessKey "e">
-<!ENTITY stopButton.label "Paouez">
-<!ENTITY stopButton.accessKey "P">
+
+
 <!ENTITY userDictionary.label "Geriadur personel :">
 <!ENTITY moreDictionaries.label "Pellgargañ muioc'h a c'heriadurioù">
 <!ENTITY addToUserDictionaryButton.label "Ouzhpennañ ar ger">
 <!ENTITY addToUserDictionaryButton.accessKey "u">
 <!ENTITY editUserDictionaryButton.label "Embann…">
 <!ENTITY editUserDictionaryButton.accessKey "E">
-<!ENTITY recheckButton.label "Gwiriañ ar bajennad en-dro">
-<!ENTITY recheckButton.accessKey "G">
+
+
 <!ENTITY closeButton.label "Serriñ">
 <!ENTITY closeButton.accessKey "S">
 <!ENTITY sendButton.label "Kas">
