@@ -10,24 +10,6 @@
 
 <!ENTITY window.title "Consola web">
 <!ENTITY browserConsole.title "Consola d'o navegador">
-
-<!ENTITY networkPanel.requestURLColon             "URL demandada:">
-<!ENTITY networkPanel.requestMethodColon          "Metodo d'a demanda:">
-<!ENTITY networkPanel.statusCodeColon             "Codigo de estau:">
-
-<!ENTITY networkPanel.requestHeaders              "Cabecera d'a demanda">
-<!ENTITY networkPanel.requestCookie               "Cookie ninviada">
-<!ENTITY networkPanel.requestBody                 "Cuerpo d'a demanda">
-<!ENTITY networkPanel.requestFormData             "Datos d'o formulario ninviau">
-
-<!ENTITY networkPanel.responseHeaders             "Cabeceras d'a respuesta">
-<!ENTITY networkPanel.responseCookie              "Cookie recibida">
-<!ENTITY networkPanel.responseBody                "Cuerpo d'a respuesta">
-<!ENTITY networkPanel.responseBodyCached          "Datos en a caché">
-<!ENTITY networkPanel.responseBodyUnknownType     "Tipo de conteniu desconoixiu">
-<!ENTITY networkPanel.responseNoBody              "No i hai garra cuerpo d'a respuesta">
-<!ENTITY networkPanel.responseImage               "Imachen recibida">
-<!ENTITY networkPanel.responseImageCached         "Imachen en a caché">
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
 
@@ -69,12 +51,21 @@
 <!ENTITY btnPageLogging.label   "Rechistro">
 <!ENTITY btnPageLogging.tooltip "Rechistrar os mensaches l'obchecto window.console">
 <!ENTITY btnPageLogging.accesskey3 "R">
-<!ENTITY btnConsoleErrors       "Errors">
-<!ENTITY btnConsoleInfo         "Info">
-<!ENTITY btnConsoleWarnings     "Alvertencias">
-<!ENTITY btnConsoleLog          "Rechistro">
+
+
+
+
 <!ENTITY btnConsoleXhr          "XHR">
 <!ENTITY btnConsoleReflows      "Reachustes">
+<!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
+  -  the toolbar. It shows or hides messages that the web developer inserted on
+  -  the page for debugging purposes, using calls on the HTTP server. -->
+
+
+
+
+
+
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
 

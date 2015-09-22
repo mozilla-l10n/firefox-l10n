@@ -27,6 +27,7 @@
 <!ENTITY projectMenu_manageComponents_label "Chestionar components extra">
 <!ENTITY projectMenu_manageComponents_accesskey "M">
 
+
 <!ENTITY runtimeMenu_label "Execución">
 <!ENTITY runtimeMenu_accesskey "X">
 <!ENTITY runtimeMenu_disconnect_label "Desconnectar">
