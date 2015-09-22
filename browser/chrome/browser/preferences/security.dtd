@@ -24,10 +24,7 @@
 <!ENTITY  addonExceptions.accesskey     "W">
 
 
-<!ENTITY  passwords.label               "Gronidła">
 
-<!ENTITY  rememberPasswords.label       "Gronidła za sedła se spomnjeś">
-<!ENTITY  rememberPasswords.accesskey   "G">
 <!ENTITY  passwordExceptions.label      "Wuwześa…">
 <!ENTITY  passwordExceptions.accesskey  "u">
 
@@ -36,5 +33,4 @@
 <!ENTITY  changeMasterPassword.label     "Głowne gronidło změniś…">
 <!ENTITY  changeMasterPassword.accesskey "m">
 
-<!ENTITY  savedPasswords.label            "Składowane gronidła…">
-<!ENTITY  savedPasswords.accesskey        "S">
+
