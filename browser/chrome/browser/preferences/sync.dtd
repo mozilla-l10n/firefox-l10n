@@ -72,7 +72,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY notSignedIn.label           "Bạn chưa đăng nhập.">
 <!ENTITY signIn.label                "Đăng nhập">
 
-<!ENTITY manage.label                "Quản lý">
+
 <!ENTITY disconnect.label            "Ngắt kết nối…">
 <!ENTITY verify.label                "Kiểm tra email">
 <!ENTITY forget.label                "Quên email này đi">

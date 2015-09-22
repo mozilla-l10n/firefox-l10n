@@ -24,10 +24,7 @@
 <!ENTITY  addonExceptions.accesskey     "N">
 
 
-<!ENTITY  passwords.label               "Mật khẩu">
 
-<!ENTITY  rememberPasswords.label       "Ghi nhớ mật khẩu cho các trang">
-<!ENTITY  rememberPasswords.accesskey   "G">
 <!ENTITY  passwordExceptions.label      "Ngoại trừ…">
 <!ENTITY  passwordExceptions.accesskey  "r">
 
@@ -36,5 +33,4 @@
 <!ENTITY  changeMasterPassword.label     "Thay đổi Mật khẩu Chính…">
 <!ENTITY  changeMasterPassword.accesskey "M">
 
-<!ENTITY  savedPasswords.label            "Mật khẩu đã Lưu…">
-<!ENTITY  savedPasswords.accesskey        "L">
+
