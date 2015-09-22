@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "Списки блокировки">
-<!ENTITY window.width "50em">
+<!ENTITY window.width "58em">
 <!ENTITY treehead.list.label "Список">
 <!ENTITY windowClose.key "w">
 <!ENTITY button.cancel.label "Отмена">
