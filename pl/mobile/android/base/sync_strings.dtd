@@ -8,248 +8,248 @@
 <!ENTITY syncBrand.shortName.label "Sync">
 
 <!-- Main titles. -->
-<!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
-<!ENTITY sync.title.connect.label 'Połącz z &syncBrand.shortName.label;'>
-<!ENTITY sync.title.adddevice.label 'Dodaj konto &syncBrand.fullName.label;'>
-<!ENTITY sync.title.pair.label 'Sparuj urządzenie'>
+<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
+<!ENTITY sync.title.connect.label "Połącz z &syncBrand.shortName.label;">
+<!ENTITY sync.title.adddevice.label "Dodaj konto &syncBrand.fullName.label;">
+<!ENTITY sync.title.pair.label "Sparuj urządzenie">
 
 <!-- J-PAKE Key Screen -->
-<!ENTITY sync.subtitle.connect.label 'Aby aktywować nowe urządzenie, wybierz na nim opcję „Skonfiguruj &syncBrand.shortName.label;”.'>
-<!ENTITY sync.subtitle.header2.label 'Wpisz ten kod na innym urządzeniu'>
-<!ENTITY sync.subtitle.connectlocation2.label 'Wybierz “&sync.title.pair.label;” w sekcji &syncBrand.shortName.label; w ustawieniach Firefoksa na innym urządzeniu.'>
-<!ENTITY sync.subtitle.pair.label 'Aby aktywować, na innym urządzeniu wybierz „Sparuj urządzenie”.'>
+<!ENTITY sync.subtitle.connect.label "Aby aktywować nowe urządzenie, wybierz na nim opcję „Skonfiguruj &syncBrand.shortName.label;”.">
+<!ENTITY sync.subtitle.header2.label "Wpisz ten kod na innym urządzeniu">
+<!ENTITY sync.subtitle.connectlocation2.label "Wybierz “&sync.title.pair.label;” w sekcji &syncBrand.shortName.label; w ustawieniach Firefoksa na innym urządzeniu.">
+<!ENTITY sync.subtitle.pair.label "Aby aktywować, na innym urządzeniu wybierz „Sparuj urządzenie”.">
 <!ENTITY sync.pin.default.label "…\n…\n…\n">
 <!ENTITY sync.pin.oneline.label "…">
-<!ENTITY sync.link.show.label 'Instrukcje'>
-<!ENTITY sync.link.advancedsetup.label 'Konfiguracja zaawansowana…'>
-<!ENTITY sync.link.nodevice.label 'Nie mam przy sobie tego urządzenia…'>
+<!ENTITY sync.link.show.label "Instrukcje">
+<!ENTITY sync.link.advancedsetup.label "Konfiguracja zaawansowana…">
+<!ENTITY sync.link.nodevice.label "Nie mam przy sobie tego urządzenia…">
 
 <!-- J-PAKE Waiting Screen -->
-<!ENTITY sync.jpake.subtitle.waiting.label 'Oczekiwanie na urządzenie…'>
+<!ENTITY sync.jpake.subtitle.waiting.label "Oczekiwanie na urządzenie…">
 
 <!-- Account Login Screen -->
-<!ENTITY sync.subtitle.account.label 'Wprowadź dane konta &syncBrand.fullName.label;'>
-<!ENTITY sync.input.username.label 'Nazwa konta'>
-<!ENTITY sync.input.password.label 'Hasło'>
-<!ENTITY sync.input.key.label 'Klucz odzyskiwania'>
-<!ENTITY sync.checkbox.server.label 'Użyj innego serwera'>
-<!ENTITY sync.input.server.label 'URL serwera'>
+<!ENTITY sync.subtitle.account.label "Wprowadź dane konta &syncBrand.fullName.label;">
+<!ENTITY sync.input.username.label "Nazwa konta">
+<!ENTITY sync.input.password.label "Hasło">
+<!ENTITY sync.input.key.label "Klucz odzyskiwania">
+<!ENTITY sync.checkbox.server.label "Użyj innego serwera">
+<!ENTITY sync.input.server.label "URL serwera">
   
 <!-- Setup Fail -->
-<!ENTITY sync.title.fail.label 'Nie można skonfigurować usługi &syncBrand.shortName.label;'>
-<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; nie mógł nawiązać połączenia z usługą Sync. Spróbować ponownie?'>
-<!ENTITY sync.button.tryagain.label 'Spróbuj ponownie'>
-<!ENTITY sync.button.manual.label 'Skonfiguruj ręcznie'>
-<!ENTITY sync.subtitle.nointernet.label 'Brak połączenia z Internetem.'>
-<!ENTITY sync.subtitle.failaccount.label 'Nie udało się utworzyć konta na tym urządzeniu.'>
-<!ENTITY sync.subtitle.failmultiple.label 'Czy zainstalowano więcej niż jednego Firefoksa? &syncBrand.fullName.label; obsługuje obecnie tylko jedną instalację naraz. Aby skorzystać z usługi &syncBrand.shortName.label;, odinstaluj pozostałe instancje.'>
+<!ENTITY sync.title.fail.label "Nie można skonfigurować usługi &syncBrand.shortName.label;">
+<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; nie mógł nawiązać połączenia z usługą Sync. Spróbować ponownie?">
+<!ENTITY sync.button.tryagain.label "Spróbuj ponownie">
+<!ENTITY sync.button.manual.label "Skonfiguruj ręcznie">
+<!ENTITY sync.subtitle.nointernet.label "Brak połączenia z Internetem.">
+<!ENTITY sync.subtitle.failaccount.label "Nie udało się utworzyć konta na tym urządzeniu.">
+<!ENTITY sync.subtitle.failmultiple.label "Czy zainstalowano więcej niż jednego Firefoksa? &syncBrand.fullName.label; obsługuje obecnie tylko jedną instalację naraz. Aby skorzystać z usługi &syncBrand.shortName.label;, odinstaluj pozostałe instancje.">
   
 <!-- Setup Success -->
-<!ENTITY sync.title.success.label 'Konfiguracja zakończona'>
-<!ENTITY sync.subtitle.success.label1 'Twoje dane zostaną pobrane w tle. Przejdź do ustawień, aby zarządzać swoim kontem, lub zacznij korzystać z przeglądarki &brandShortName;.'>
-<!ENTITY sync.settings.label 'Ustawienia'>
-<!ENTITY sync.subtitle.manage.label1 'Twoje konto &syncBrand.fullName.label; zostało już skonfigurowane. Przejdź do ustawień, aby nim zarządzać, lub uruchom przeglądarkę &brandShortName;.'>
+<!ENTITY sync.title.success.label "Konfiguracja zakończona">
+<!ENTITY sync.subtitle.success.label1 "Twoje dane zostaną pobrane w tle. Przejdź do ustawień, aby zarządzać swoim kontem, lub zacznij korzystać z przeglądarki &brandShortName;.">
+<!ENTITY sync.settings.label "Ustawienia">
+<!ENTITY sync.subtitle.manage.label1 "Twoje konto &syncBrand.fullName.label; zostało już skonfigurowane. Przejdź do ustawień, aby nim zarządzać, lub uruchom przeglądarkę &brandShortName;.">
 
 <!-- Pair Device -->
-<!ENTITY sync.pair.tryagain.label 'Spróbuj ponownie.'>
-<!ENTITY sync.pair.connectlocation.label 'Aby aktywować nowe urządzenie, wybierz na nim „Skonfiguruj &syncBrand.shortName.label;”, a następnie wybierz “Mam już konto”.'>
+<!ENTITY sync.pair.tryagain.label "Spróbuj ponownie.">
+<!ENTITY sync.pair.connectlocation.label "Aby aktywować nowe urządzenie, wybierz na nim „Skonfiguruj &syncBrand.shortName.label;”, a następnie wybierz “Mam już konto”.">
 
 <!-- Firefox SyncAdapter Settings Screen -->
-<!ENTITY sync.settings.options.label 'Ustawienia'>
-<!ENTITY sync.summary.pair.label 'Dodaj inne urządzenie do twojego konta &syncBrand.shortName.label;'>
+<!ENTITY sync.settings.options.label "Ustawienia">
+<!ENTITY sync.summary.pair.label "Dodaj inne urządzenie do twojego konta &syncBrand.shortName.label;">
 
 <!-- Configure Engines -->
-<!ENTITY sync.configure.engines.title.label 'Co synchronizować'>
-<!ENTITY sync.configure.engines.sync.my.title.label 'Synchronizuj…'>
-<!ENTITY sync.configure.engines.title.bookmarks 'Zakładki'>
-<!ENTITY sync.configure.engines.title.passwords2 'Dane logowania'>
-<!ENTITY sync.configure.engines.title.history 'Historia przeglądania'>
-<!ENTITY sync.configure.engines.title.tabs 'Karty'>
+<!ENTITY sync.configure.engines.title.label "Co synchronizować">
+<!ENTITY sync.configure.engines.sync.my.title.label "Synchronizuj…">
+<!ENTITY sync.configure.engines.title.bookmarks "Zakładki">
+<!ENTITY sync.configure.engines.title.passwords2 "Dane logowania">
+<!ENTITY sync.configure.engines.title.history "Historia przeglądania">
+<!ENTITY sync.configure.engines.title.tabs "Karty">
 
 <!-- Common text -->
-<!ENTITY sync.button.cancel.label 'Anuluj'>
-<!ENTITY sync.button.connect.label 'Połącz'>
-<!ENTITY sync.button.ok.label 'OK'>
+<!ENTITY sync.button.cancel.label "Anuluj">
+<!ENTITY sync.button.connect.label "Połącz">
+<!ENTITY sync.button.ok.label "OK">
   
 <!-- Account strings -->
-<!ENTITY sync.account.label '&syncBrand.fullName.label; (przestarzałe)'>
+<!ENTITY sync.account.label "&syncBrand.fullName.label; (przestarzałe)">
 
-<!ENTITY sync.default.client.name '&formatS1; w urządzeniu &formatS2;'>
+<!ENTITY sync.default.client.name "&formatS1; w urządzeniu &formatS2;">
 
 <!-- Bookmark folder strings -->
-<!ENTITY bookmarks.folder.menu.label 'Zakładki'>
-<!ENTITY bookmarks.folder.places.label ''>
-<!ENTITY bookmarks.folder.tags.label 'Etykiety'>
-<!ENTITY bookmarks.folder.toolbar.label 'Pasek zakładek'>
-<!ENTITY bookmarks.folder.unfiled.label 'Zakładki nieposortowane'>
-<!ENTITY bookmarks.folder.desktop.label 'Zakładki z komputera'>
-<!ENTITY bookmarks.folder.mobile.label 'Zakładki z telefonu'>
-<!ENTITY bookmarks.folder.readinglist.label 'Do przeczytania'>
+<!ENTITY bookmarks.folder.menu.label "Zakładki">
+<!ENTITY bookmarks.folder.places.label "">
+<!ENTITY bookmarks.folder.tags.label "Etykiety">
+<!ENTITY bookmarks.folder.toolbar.label "Pasek zakładek">
+<!ENTITY bookmarks.folder.unfiled.label "Zakładki nieposortowane">
+<!ENTITY bookmarks.folder.desktop.label "Zakładki z komputera">
+<!ENTITY bookmarks.folder.mobile.label "Zakładki z telefonu">
+<!ENTITY bookmarks.folder.readinglist.label "Do przeczytania">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
-<!ENTITY bookmarks.folder.pinned.label 'Przypięte'>
+<!ENTITY bookmarks.folder.pinned.label "Przypięte">
 
 <!-- Notification strings -->
-<!ENTITY sync.notification.oneaccount.label 'Można używać tylko jednego konta &syncBrand.fullName.label; naraz.'>
-<!ENTITY sync.notification.configure.saved 'Ustawienia zapisano.'>
+<!ENTITY sync.notification.oneaccount.label "Można używać tylko jednego konta &syncBrand.fullName.label; naraz.">
+<!ENTITY sync.notification.configure.saved "Ustawienia zapisano.">
 
 <!-- Incorrect settings and changing credentials. -->
-<!ENTITY sync.new.recoverykey.status.incorrect 'Nieprawidłowy klucz odzyskiwania. Spróbuj ponownie.'>
-<!ENTITY sync.invalidcreds.label 'Niepoprawne hasło lub nazwa konta.'>
-<!ENTITY sync.invalidserver.label 'Wprowadź poprawny adres URL serwera.'>
-<!ENTITY sync.verifying.label 'Weryfikacja…'>
+<!ENTITY sync.new.recoverykey.status.incorrect "Nieprawidłowy klucz odzyskiwania. Spróbuj ponownie.">
+<!ENTITY sync.invalidcreds.label "Niepoprawne hasło lub nazwa konta.">
+<!ENTITY sync.invalidserver.label "Wprowadź poprawny adres URL serwera.">
+<!ENTITY sync.verifying.label "Weryfikacja…">
 
 <!-- Send tab to device. -->
-<!ENTITY sync.title.send.tab.label 'Wyślij karty na urządzenia'>
-<!ENTITY sync.button.send.label 'Wyślij'>
-<!ENTITY sync.button.set.up.sync.label 'Skonfiguruj &syncBrand.shortName.label;'>
-<!ENTITY sync.title.redirect.to.set.up.sync.label 'Aby wysłać kart, skonfiguruj &syncBrand.shortName.label;.'>
-<!ENTITY sync.text.redirect.to.set.up.sync.label 'Aby wysłać karty na inne urządzenia, skonfiguruj &syncBrand.fullName.label; na swoim urządzeniu.'>
-<!ENTITY sync.text.tab.sent.label 'Karta wysłana!'>
-<!ENTITY sync.text.tab.not.sent.label 'Wystąpił błąd przy wysyłaniu karty.'>
+<!ENTITY sync.title.send.tab.label "Wyślij karty na urządzenia">
+<!ENTITY sync.button.send.label "Wyślij">
+<!ENTITY sync.button.set.up.sync.label "Skonfiguruj &syncBrand.shortName.label;">
+<!ENTITY sync.title.redirect.to.set.up.sync.label "Aby wysłać kart, skonfiguruj &syncBrand.shortName.label;.">
+<!ENTITY sync.text.redirect.to.set.up.sync.label "Aby wysłać karty na inne urządzenia, skonfiguruj &syncBrand.fullName.label; na swoim urządzeniu.">
+<!ENTITY sync.text.tab.sent.label "Karta wysłana!">
+<!ENTITY sync.text.tab.not.sent.label "Wystąpił błąd przy wysyłaniu karty.">
 
 <!ENTITY fxaccount_full_label "Konta Firefoksa">
-<!ENTITY fxaccount_custom_server_account_title 'Korzystanie z konta na serwerze'>
-<!ENTITY fxaccount_custom_server_sync_title 'Zachowywanie danych synchronizacji na serwerze'>
+<!ENTITY fxaccount_custom_server_account_title "Korzystanie z konta na serwerze">
+<!ENTITY fxaccount_custom_server_sync_title "Zachowywanie danych synchronizacji na serwerze">
 
 <!-- Localization note: these are shown in all screens that query the
 user for an email address and password. Hide and show are button
 labels. -->
-<!ENTITY fxaccount_email_hint 'Adres e-mail'>
-<!ENTITY fxaccount_password_hint 'Hasło'>
-<!ENTITY fxaccount_password_hide 'Ukryj'>
-<!ENTITY fxaccount_password_show 'Pokaż'>
+<!ENTITY fxaccount_email_hint "Adres e-mail">
+<!ENTITY fxaccount_password_hint "Hasło">
+<!ENTITY fxaccount_password_hide "Ukryj">
+<!ENTITY fxaccount_password_show "Pokaż">
 
 <!-- Localization note: these are shown in screens after the user has
 created or signed in to an account, and take the user back to
 Firefox. -->
-<!ENTITY fxaccount_back_to_browsing 'Wróć do przeglądarki'>
+<!ENTITY fxaccount_back_to_browsing "Wróć do przeglądarki">
 
 <!-- Localization note: the following two strings are interpolated
 into fxaccount_create_account_policy_text2; see note for that
 string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
 these strings are separated to accommodate languages that decline
 the two uses differently. -->
-<!ENTITY fxaccount_policy_linktos 'Warunki użytkowania'>
-<!ENTITY fxaccount_policy_linkprivacy 'Polityka prywatności'>
-<!ENTITY fxaccount_status_more 'Więcej&ellipsis;'>
+<!ENTITY fxaccount_policy_linktos "Warunki użytkowania">
+<!ENTITY fxaccount_policy_linkprivacy "Polityka prywatności">
+<!ENTITY fxaccount_status_more "Więcej&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "Usunąć konto Firefoksa?">
-<!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; przestanie synchronizować dane przeglądarki z twoim kontem, ale nie usunie ich z tego urządzenia.'>
+<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; przestanie synchronizować dane przeglądarki z twoim kontem, ale nie usunie ich z tego urządzenia.">
 <!ENTITY fxaccount_remove_account_toast "Usunięto konto Firefoksa użytkownika &formatS;.">
 
-<!ENTITY fxaccount_remove_account_menu_item 'Usuń konto'>
-<!ENTITY fxaccount_enable_debug_mode 'Włącz debugowanie'>
+<!ENTITY fxaccount_remove_account_menu_item "Usuń konto">
+<!ENTITY fxaccount_enable_debug_mode "Włącz debugowanie">
 
-<!ENTITY fxaccount_getting_started_welcome_to_sync 'Witaj w usłudze &syncBrand.shortName.label;'>
-<!ENTITY fxaccount_getting_started_description2 'Zarejestruj się i synchronizuj swoje karty, zakładki, dane logowania i więcej.'>
-<!ENTITY fxaccount_getting_started_get_started 'Pierwsze kroki'>
-<!ENTITY fxaccount_getting_started_old_firefox 'Korzystasz ze starej wersji usługi &syncBrand.shortName.label;?'>
+<!ENTITY fxaccount_getting_started_welcome_to_sync "Witaj w usłudze &syncBrand.shortName.label;">
+<!ENTITY fxaccount_getting_started_description2 "Zarejestruj się i synchronizuj swoje karty, zakładki, dane logowania i więcej.">
+<!ENTITY fxaccount_getting_started_get_started "Pierwsze kroki">
+<!ENTITY fxaccount_getting_started_old_firefox "Korzystasz ze starej wersji usługi &syncBrand.shortName.label;?">
 
 <!ENTITY fxaccount_create_account_header2 "Utwórz konto Firefoksa">
-<!ENTITY fxaccount_create_account_password_length_restriction 'Hasło musi mieć przynajmniej 8 znaków'>
+<!ENTITY fxaccount_create_account_password_length_restriction "Hasło musi mieć przynajmniej 8 znaków">
 <!ENTITY fxaccount_create_account_day_of_birth "Dzień">
 <!ENTITY fxaccount_create_account_month_of_birth "Miesiąc">
 <!ENTITY fxaccount_create_account_year_of_birth "Rok urodzenia">
-<!ENTITY fxaccount_create_account_policy_text2 'Przechodząc dalej, wyrażasz zgodę na warunki, które opisują &formatS1; oraz &formatS2; usług przechowywania danych Firefoksa.'>
-<!ENTITY fxaccount_create_account_button 'Dalej'>
-<!ENTITY fxaccount_create_account_choose_what_to_sync 'Wybierz, co chcesz synchronizować'>
-<!ENTITY fxaccount_create_account_sign_in_instead 'Masz już konto? Zaloguj się'>
-<!ENTITY fxaccount_create_account_1990_or_earlier '1990 lub wcześniej'>
-<!ENTITY fxaccount_create_account_unknown_error 'Nie udało się utworzyć konta'>
+<!ENTITY fxaccount_create_account_policy_text2 "Przechodząc dalej, wyrażasz zgodę na warunki, które opisują &formatS1; oraz &formatS2; usług przechowywania danych Firefoksa.">
+<!ENTITY fxaccount_create_account_button "Dalej">
+<!ENTITY fxaccount_create_account_choose_what_to_sync "Wybierz, co chcesz synchronizować">
+<!ENTITY fxaccount_create_account_sign_in_instead "Masz już konto? Zaloguj się">
+<!ENTITY fxaccount_create_account_1990_or_earlier "1990 lub wcześniej">
+<!ENTITY fxaccount_create_account_unknown_error "Nie udało się utworzyć konta">
 
-<!ENTITY fxaccount_account_create_not_allowed 'Nie można utworzyć konta'>
-<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements 'Musisz osiągnąć pewien wiek, aby móc utworzyć konto.'>
-<!ENTITY fxaccount_account_create_not_allowed_learn_more 'Dowiedz się więcej'>
+<!ENTITY fxaccount_account_create_not_allowed "Nie można utworzyć konta">
+<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "Musisz osiągnąć pewien wiek, aby móc utworzyć konto.">
+<!ENTITY fxaccount_account_create_not_allowed_learn_more "Dowiedz się więcej">
 
-<!ENTITY fxaccount_confirm_account_header 'Zweryfikuj swoje konto'>
+<!ENTITY fxaccount_confirm_account_header "Zweryfikuj swoje konto">
 <!-- Localization note: &formatS; is the Firefox account's email address. -->
-<!ENTITY fxaccount_confirm_account_verification_link 'Odnośnik weryfikujący wysłano na &formatS;'>
-<!ENTITY fxaccount_confirm_account_resend_email 'Wyślij ponownie'>
+<!ENTITY fxaccount_confirm_account_verification_link "Odnośnik weryfikujący wysłano na &formatS;">
+<!ENTITY fxaccount_confirm_account_resend_email "Wyślij ponownie">
 <!ENTITY fxaccount_confirm_account_change_email "Usunąć konfigurację konta przypisanego do tego adresu?">
-<!ENTITY fxaccount_confirm_account_verification_link_sent2 'Wysłano odnośnik weryfikujący'>
-<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Nie udało się wysłać odnośnika weryfikującego'>
+<!ENTITY fxaccount_confirm_account_verification_link_sent2 "Wysłano odnośnik weryfikujący">
+<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Nie udało się wysłać odnośnika weryfikującego">
 <!ENTITY fxaccount_resend_unlock_code_button_label "Wyślij ponownie odnośnik weryfikacyjny">
 <!ENTITY fxaccount_unlock_code_sent "Wiadomość z odnośnikiem weryfikacyjnym została wysłana">
 <!ENTITY fxaccount_unlock_code_not_sent "Nie można było wysłać wiadomości z odnośnikiem weryfikacyjnym">
 
-<!ENTITY fxaccount_sign_in_sub_header 'Zaloguj się'>
-<!ENTITY fxaccount_sign_in_button_label 'Zaloguj się'>
-<!ENTITY fxaccount_sign_in_forgot_password 'Nie pamiętasz hasła?'>
-<!ENTITY fxaccount_sign_in_create_account_instead 'Utwórz konto'>
-<!ENTITY fxaccount_sign_in_unknown_error 'Logowanie nie powiodło się'>
+<!ENTITY fxaccount_sign_in_sub_header "Zaloguj się">
+<!ENTITY fxaccount_sign_in_button_label "Zaloguj się">
+<!ENTITY fxaccount_sign_in_forgot_password "Nie pamiętasz hasła?">
+<!ENTITY fxaccount_sign_in_create_account_instead "Utwórz konto">
+<!ENTITY fxaccount_sign_in_unknown_error "Logowanie nie powiodło się">
 
-<!ENTITY fxaccount_account_verified_sub_header 'Konto zweryfikowano'>
-<!ENTITY fxaccount_account_verified_description2 'Za chwilę rozpocznie się synchronizacja twoich danych'>
+<!ENTITY fxaccount_account_verified_sub_header "Konto zweryfikowano">
+<!ENTITY fxaccount_account_verified_description2 "Za chwilę rozpocznie się synchronizacja twoich danych">
 
 <!ENTITY fxaccount_migration_finished_header "Aktualizacja zakończona">
 
-<!ENTITY fxaccount_update_credentials_header 'Zaloguj się'>
-<!ENTITY fxaccount_update_credentials_button_label 'Zaloguj się'>
-<!ENTITY fxaccount_update_credentials_unknown_error 'Logowanie nie powiodło się'>
+<!ENTITY fxaccount_update_credentials_header "Zaloguj się">
+<!ENTITY fxaccount_update_credentials_button_label "Zaloguj się">
+<!ENTITY fxaccount_update_credentials_unknown_error "Logowanie nie powiodło się">
 
 <!ENTITY fxaccount_finish_migrating_header "Zaloguj się, aby dokończyć aktualizację">
 <!ENTITY fxaccount_finish_migrating_button_label "Dokończ aktualizację">
 <!ENTITY fxaccount_finish_migrating_description "Aktualizacja może spowodować przesłanie dużej ilości danych. Najlepiej zrobić to poprzez sieć Wi-Fi.">
 
 <!ENTITY fxaccount_status_header2 "Konto Firefoksa">
-<!ENTITY fxaccount_status_signed_in_as 'Zalogowano jako'>
-<!ENTITY fxaccount_status_manage_account 'Zarządzaj kontem'>
-<!ENTITY fxaccount_status_auth_server 'Serwer konta'>
+<!ENTITY fxaccount_status_signed_in_as "Zalogowano jako">
+<!ENTITY fxaccount_status_manage_account "Zarządzaj kontem">
+<!ENTITY fxaccount_status_auth_server "Serwer konta">
 <!ENTITY fxaccount_status_sync_now "Synchronizuj">
 <!ENTITY fxaccount_status_syncing2 "Synchronizowanie…">
-<!ENTITY fxaccount_status_device_name 'Nazwa urządzenia'>
-<!ENTITY fxaccount_status_sync_server 'Serwer synchronizacji'>
-<!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
-<!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: włączone'>
-<!ENTITY fxaccount_status_needs_verification2 'Musisz zweryfikować swoje konto. Stuknij, aby wysłać nowy odnośnik weryfikujący.'>
-<!ENTITY fxaccount_status_needs_credentials 'Nie udało się nawiązać połączenia. Stuknij, aby się zalogować'>
-<!ENTITY fxaccount_status_needs_upgrade '&brandShortName; wymaga aktualizacji, aby umożliwić logowanie.'>
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled 'Program &syncBrand.shortName.label; jest skonfigurowany, ale nie synchronizuje się automatycznie. Włącz automatyczną synchronizację danych w ustawieniach systemu Android.'>
+<!ENTITY fxaccount_status_device_name "Nazwa urządzenia">
+<!ENTITY fxaccount_status_sync_server "Serwer synchronizacji">
+<!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
+<!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: włączone">
+<!ENTITY fxaccount_status_needs_verification2 "Musisz zweryfikować swoje konto. Stuknij, aby wysłać nowy odnośnik weryfikujący.">
+<!ENTITY fxaccount_status_needs_credentials "Nie udało się nawiązać połączenia. Stuknij, aby się zalogować">
+<!ENTITY fxaccount_status_needs_upgrade "&brandShortName; wymaga aktualizacji, aby umożliwić logowanie.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "Program &syncBrand.shortName.label; jest skonfigurowany, ale nie synchronizuje się automatycznie. Włącz automatyczną synchronizację danych w ustawieniach systemu Android.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; jest skonfigurowany, ale nie został ustawiony na automatyczną synchronizację. Włącz automatyczną synchronizację danych w menu ustawień i kont Androida.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Stuknij, aby zalogować do Twojego nowego konta Firefoksa.">
-<!ENTITY fxaccount_status_bookmarks 'Zakładki'>
-<!ENTITY fxaccount_status_history 'Historia'>
-<!ENTITY fxaccount_status_passwords2 'Dane logowania'>
-<!ENTITY fxaccount_status_tabs 'Otwarte karty'>
-<!ENTITY fxaccount_status_legal 'Podstawa prawna'>
+<!ENTITY fxaccount_status_bookmarks "Zakładki">
+<!ENTITY fxaccount_status_history "Historia">
+<!ENTITY fxaccount_status_passwords2 "Dane logowania">
+<!ENTITY fxaccount_status_tabs "Otwarte karty">
+<!ENTITY fxaccount_status_legal "Podstawa prawna">
 <!-- Localization note: when tapped, the following two strings link to
 external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
 these strings are separated to accommodate languages that decline
 the two uses differently. -->
-<!ENTITY fxaccount_status_linktos 'Warunki użytkowania'>
-<!ENTITY fxaccount_status_linkprivacy 'Polityka prywatności'>
+<!ENTITY fxaccount_status_linktos "Warunki użytkowania">
+<!ENTITY fxaccount_status_linkprivacy "Polityka prywatności">
  
  <!-- Localization note: this is the name shown by the Android system
 itself for a Firefox account. Don't localize this. -->
-<!ENTITY fxaccount_account_type_label 'Firefox'>
+<!ENTITY fxaccount_account_type_label "Firefox">
 
 <!-- Localization note: these are shown by the Android system itself,
 when the user navigates to the Android > Accounts > [Firefox
 Account] Screen. The link takes the user to the Firefox account
 status activity, which lets them manage their Firefox
 account. -->
-<!ENTITY fxaccount_options_title 'Opcje usługi &syncBrand.shortName.label;'>
-<!ENTITY fxaccount_options_configure_title 'Ustawienia usługi &syncBrand.shortName.label;'>
+<!ENTITY fxaccount_options_title "Opcje usługi &syncBrand.shortName.label;">
+<!ENTITY fxaccount_options_configure_title "Ustawienia usługi &syncBrand.shortName.label;">
 
 <!-- Localization note: these error messages are shown after a request
 has been made to the remote server, and an error of some type has
 been returned. -->
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'Konieczna jest aktualizacja Firefoksa'>
+<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "Konieczna jest aktualizacja Firefoksa">
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'Konto już istnieje. &formatS1;'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Nieprawidłowy adres e-mail lub hasło'>
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Nieprawidłowy adres e-mail lub hasło'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Konto nie zostało zweryfikowane'>
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Serwer jest zajęty, spróbuj ponownie później'>
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Serwer jest zajęty, spróbuj ponownie później'>
-<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Wystąpił problem'>
-<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT 'Brak połączenia z siecią'>
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "Konto już istnieje. &formatS1;">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "Nieprawidłowy adres e-mail lub hasło">
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "Nieprawidłowy adres e-mail lub hasło">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "Konto nie zostało zweryfikowane">
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "Serwer jest zajęty, spróbuj ponownie później">
+<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Serwer jest zajęty, spróbuj ponownie później">
+<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Wystąpił problem">
+<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Brak połączenia z siecią">
 <!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "Niezweryfikowane konto. &formatS1;">
 
-<!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; nie może nawiązać połączenia'>
+<!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; nie może nawiązać połączenia">
 <!-- Note to translators: the format string below will be replaced
 with the Firefox account's email address. -->
-<!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Stuknij, aby zalogować się jako &formatS;'>
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Stuknij, aby zalogować się jako &formatS;">
 
 <!ENTITY fxaccount_sync_finish_migrating_notification_title "Dokończ aktualizację &syncBrand.shortName.label;?">
 <!ENTITY fxaccount_sync_finish_migrating_notification_text "Stuknij, aby zalogować się jako &formatS;">

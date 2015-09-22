@@ -2,25 +2,25 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY search_app_name '&brandShortName;: wyszukiwanie'>
+<!ENTITY search_app_name "&brandShortName;: wyszukiwanie">
 
-<!ENTITY search_bar_hint 'Użyj wyszukiwarki &formatS;'>
+<!ENTITY search_bar_hint "Użyj wyszukiwarki &formatS;">
 
 <!ENTITY search_empty_title2 "Rozpocznij wyszukiwanie">
-<!ENTITY search_empty_message 'Szybko znajdź to, czego szukasz'>
+<!ENTITY search_empty_message "Szybko znajdź to, czego szukasz">
 
-<!ENTITY search_plus_content_description 'Dodaj do paska wyszukiwania'>
+<!ENTITY search_plus_content_description "Dodaj do paska wyszukiwania">
 
-<!ENTITY search_pref_title 'Ustawienia'>
-<!ENTITY search_pref_button_content_description 'Ustawienia'>
+<!ENTITY search_pref_title "Ustawienia">
+<!ENTITY search_pref_button_content_description "Ustawienia">
 
-<!ENTITY pref_clearHistory_confirmation 'Historia została wyczyszczona'>
-<!ENTITY pref_clearHistory_dialogMessage 'Usunąć całą historię wyszukiwania z urządzenia?'>
-<!ENTITY pref_clearHistory_title 'Wyczyść historię wyszukiwania'>
+<!ENTITY pref_clearHistory_confirmation "Historia została wyczyszczona">
+<!ENTITY pref_clearHistory_dialogMessage "Usunąć całą historię wyszukiwania z urządzenia?">
+<!ENTITY pref_clearHistory_title "Wyczyść historię wyszukiwania">
 
-<!ENTITY pref_searchProvider_title 'Wyszukiwarka'>
+<!ENTITY pref_searchProvider_title "Wyszukiwarka">
 
-<!ENTITY search_widget_button_label 'Wyszukaj'>
+<!ENTITY search_widget_button_label "Wyszukaj">
 
-<!ENTITY network_error_title 'Brak połączenia z Internetem'>
-<!ENTITY network_error_message 'Stuknij, aby sprawdzić ustawienia sieci'>
+<!ENTITY network_error_title "Brak połączenia z Internetem">
+<!ENTITY network_error_message "Stuknij, aby sprawdzić ustawienia sieci">
