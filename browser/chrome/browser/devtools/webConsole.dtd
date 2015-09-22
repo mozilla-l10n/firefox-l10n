@@ -10,23 +10,6 @@
 
 <!ENTITY window.title "Ginorde Geese">
 <!ENTITY browserConsole.title "Ginorde Wanngorde">
-
-
-
-
-<!ENTITY networkPanel.requestHeaders              "Request Headers">
-<!ENTITY networkPanel.requestCookie               "Sent Cookie">
-<!ENTITY networkPanel.requestBody                 "Request Body">
-<!ENTITY networkPanel.requestFormData             "Sent Form Data">
-
-<!ENTITY networkPanel.responseHeaders             "Response Headers">
-
-<!ENTITY networkPanel.responseBody                "Response Body">
-<!ENTITY networkPanel.responseBodyCached          "Cached Data">
-<!ENTITY networkPanel.responseBodyUnknownType     "Unknown Content Type">
-<!ENTITY networkPanel.responseNoBody              "No Response Body">
-<!ENTITY networkPanel.responseImage               "Received Image">
-<!ENTITY networkPanel.responseImageCached         "Cached Image">
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
 
@@ -63,10 +46,19 @@
   -  console.error(). -->
 <!ENTITY btnPageLogging.tooltip "Logo ɓatakuuje neldaaɗe to piiyol window.console">
 
-<!ENTITY btnConsoleErrors       "Juume">
-<!ENTITY btnConsoleInfo         "Humpito">
-<!ENTITY btnConsoleWarnings     "Deentine">
-<!ENTITY btnConsoleLog          "Logo">
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
+  -  the toolbar. It shows or hides messages that the web developer inserted on
+  -  the page for debugging purposes, using calls on the HTTP server. -->
+
+
+
+
 
 
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"

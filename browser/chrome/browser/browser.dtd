@@ -112,12 +112,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignIn.label "Teelto &syncBrand.shortName.label;">
 
 <!ENTITY fxaSignInError.label "Teelto &syncBrand.shortName.label;">
+
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; ena hurmi">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; maa fuɗɗo syncude ko leelaani.">
-<!ENTITY syncErrorPanel.heading "A waawaa seŋaade e &syncBrand.shortName.label;">
-<!ENTITY syncErrorPanel.subTitle "Tinno seŋo ngam tonngude synk.">
-<!ENTITY syncErrorPanel.signInButton.label "Winndito">
-<!ENTITY syncErrorPanel.signInButton.accesskey "W">
 
 
 <!ENTITY fullScreenMinimize.tooltip "Taggu">
@@ -127,8 +124,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "S">
 <!ENTITY fullScreenExit.label "Yaltu Mbaydi Njaajeendi Yaynirde">
 <!ENTITY fullScreenExit.accesskey "N">
+<!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
+     fullscreenWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring fullscreen.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
 
-<!ENTITY fullscreenExitHint2.value "Ñoƴƴu ESC tuma fof ngam yaltude.">
+<!ENTITY fullscreenWarning.beforeDomain.label "">
+
+
+<!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
+     exitDOMFullscreenMac.button): the "escape" button on PC keyboards
+     is uppercase, while on Mac keyboards it is lowercase -->
+
 <!ENTITY leaveDOMFullScreen.label "Yaltu Njaajeendi Yaynirde">
 <!ENTITY leaveDOMFullScreen.accesskey "a">
 
@@ -214,7 +222,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "Gaawte">
 <!ENTITY downloads.accesskey          "G">
 <!ENTITY downloads.commandkey         "j">
-<!ENTITY downloadsUnix.commandkey     "y">
+
 <!ENTITY addons.label                 "Ɓeyditte">
 <!ENTITY addons.accesskey             "Ɓ">
 <!ENTITY addons.commandkey            "A">
@@ -394,8 +402,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.switchToTab.label     "Yah to tabbere:">
 
 
+
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Alaa">
+
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Eey">
+
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -447,6 +458,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Wayly Teelte Njiilaw">
+
+
+
+
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -682,11 +697,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
 <!-- Strings for connection state warnings. -->
 
 
 
 <!-- Strings for connection state warnings in the subview. -->
+
 
 
 
@@ -703,6 +720,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY identity.permissions "Jamirooje">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -713,8 +731,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "Sanngoɗin">
 
-<!ENTITY syncSetup.label              "Teelto &syncBrand.shortName.label;…">
-<!ENTITY syncSetup.accesskey          "Y">
+
 <!ENTITY syncSyncNowItem.label        "Sanngoɗin Jooni">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Seŋo kadi e &syncBrand.shortName.label;…">
