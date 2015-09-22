@@ -27,6 +27,7 @@
 <!ENTITY projectMenu_manageComponents_label "Tvarkyti papildomus komponentus">
 <!ENTITY projectMenu_manageComponents_accesskey "k">
 
+
 <!ENTITY runtimeMenu_label "Įrenginys">
 <!ENTITY runtimeMenu_accesskey "n">
 <!ENTITY runtimeMenu_disconnect_label "Atsijungti">

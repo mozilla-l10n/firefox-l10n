@@ -24,10 +24,7 @@
 <!ENTITY  addonExceptions.accesskey     "I">
 
 
-<!ENTITY  passwords.label               "Slaptažodžiai">
 
-<!ENTITY  rememberPasswords.label       "Įsiminti svetainių slaptažodžius">
-<!ENTITY  rememberPasswords.accesskey   "m">
 <!ENTITY  passwordExceptions.label      "Išimtys…">
 <!ENTITY  passwordExceptions.accesskey  "š">
 
@@ -36,5 +33,4 @@
 <!ENTITY  changeMasterPassword.label     "Pakeisti pagrindinį slaptažodį…">
 <!ENTITY  changeMasterPassword.accesskey "k">
 
-<!ENTITY  savedPasswords.label            "Įrašyti slaptažodžiai…">
-<!ENTITY  savedPasswords.accesskey        "s">
+
