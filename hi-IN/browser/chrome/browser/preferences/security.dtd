@@ -24,10 +24,7 @@
 <!ENTITY  addonExceptions.accesskey     "E">
 
 
-<!ENTITY  passwords.label               "कूटशब्द">
 
-<!ENTITY  rememberPasswords.label       "साइटों के लिए कूटशब्द याद रखें">
-<!ENTITY  rememberPasswords.accesskey   "R">
 <!ENTITY  passwordExceptions.label      "अपवाद…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
@@ -36,5 +33,4 @@
 <!ENTITY  changeMasterPassword.label     "मुख्य कूटशब्द बदलें…">
 <!ENTITY  changeMasterPassword.accesskey "M">
 
-<!ENTITY  savedPasswords.label            "सहेजा गया कूटशब्द…">
-<!ENTITY  savedPasswords.accesskey        "P">
+

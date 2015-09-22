@@ -27,6 +27,7 @@
 <!ENTITY projectMenu_manageComponents_label "अतिरिक्त घटक प्रबंधित करें">
 <!ENTITY projectMenu_manageComponents_accesskey "M">
 
+
 <!ENTITY runtimeMenu_label "रनटाइम">
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "डिस्कनेक्ट करें">
