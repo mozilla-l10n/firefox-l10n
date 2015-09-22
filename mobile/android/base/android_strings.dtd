@@ -6,14 +6,23 @@
 <!ENTITY  no_space_to_start_error "&brandShortName; ஐத் தொடங்க போதிய இடம் இல்லை.">
 <!ENTITY  error_loading_file "&brandShortName; ஐ இயக்க தேவையான கோப்புகளை ஏற்றும் பொழுது ஒரு பிழை ஏற்பட்டுள்ளது">
 
+<!ENTITY firstrun_panel_title_welcome "வருக">
 <!ENTITY  onboard_start_message3 "&brandShortName; மூலம் உலாவுங்கள்">
 <!ENTITY  onboard_start_subtext3 "உங்கள் கைப்பேசி வலைத்தள உலாவல் அனுபவத்தை உங்களுடையதாக்குங்கள்.">
 <!ENTITY  onboard_start_button_account "&brandShortName; உள்நுழை">
 <!ENTITY  onboard_start_button_browser "உலாவ தொடங்கவும்">
+
+
+
+<!ENTITY firstrun_import_message "&brandShortName; நல்வரவு">
+
+
+
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
-<!ENTITY  bookmarks_title "புத்தகக்குறிகள்">
+<!ENTITY  bookmarks_title "Bookmarks">
 <!ENTITY  history_title "வரலாறு">
 <!ENTITY  reading_list_title "வாசிப்புப் பட்டியல்">
 <!ENTITY  recent_tabs_title "அண்மைய கீற்றுகள்">
@@ -53,8 +62,9 @@
 
 <!ENTITY history_today_section "இன்று">
 <!ENTITY history_yesterday_section "நேற்று">
-<!ENTITY history_week_section2 "கடந்த வாரம்">
-<!ENTITY history_older_section2 "கடந்த மாதம்">
+
+
+
 
 <!ENTITY go "செல்க">
 <!ENTITY search "தேடு">
@@ -77,6 +87,13 @@
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
 <!ENTITY switch_button_message "மாற்றி">
+<!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
+     visible in the UI, but rather used as a text-to-speech content description
+     for sight-impaired a11y users. The content description is set on a tab
+     title in a list of open tabs when content in that tab is playing audio.
+     &formatS; will be replaced with the title of the tab, as received from the
+     web page. When audio is not playing in a tab, &formatS; will be used as
+     the content description. -->
 
 <!ENTITY settings "அமைப்புகள்">
 <!ENTITY settings_title "அமைப்புகள்">
@@ -154,6 +171,9 @@
 <!ENTITY pref_search_hint "குறிப்பு: தெடல் புலத்தில் தொடர்ந்து அழுத்திய பிறகு &formatI; சின்னத்தை தட்டி எந்த இணையத்தளத்தையும் தேடு பொறி வழங்குநர்களின் பட்டியலுடன் சேர்க்கவும்.">
 <!ENTITY pref_category_devtools "உருவாக்குனர் கருவிகள்">
 <!ENTITY pref_developer_remotedebugging "தொலைநிலை பிழைதிருத்தம்">
+
+
+
 <!ENTITY pref_category_logins "உள்நுழைவுகள்">
 
 
@@ -175,6 +195,9 @@
 <!ENTITY pref_home_updates_wifi "வை-பை வழியாக மட்டும்">
 <!ENTITY pref_home_suggested_sites "தளத்தின் பரிந்துரைகளை காட்டு">
 <!ENTITY pref_home_suggested_sites_summary "வலைத்தளங்களின் குறுக்கு பாதைகளை முகுப்பு பக்கத்தில் அமைத்தல் சுவாரஸ்யமாக இருக்கும் என நினைத்தோம்">
+
+
+
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "தனிபயனாக்கு">
@@ -190,15 +213,18 @@
 <!ENTITY pref_cookies_not_accept_foreign "செயலிலுள்ள, 3ஆவது கட்சி நீங்கலாக">
 <!ENTITY pref_cookies_disabled "முடக்கப்பட்டது">
 
-<!ENTITY pref_tracking_protection_title "தடமறியல் பாதுகாப்பு">
-<!ENTITY pref_tracking_protection_summary "உங்களை தடமறியும் தளங்களை &brandShortName; இது தடுக்கிறது">
+
 <!ENTITY pref_donottrack_title "தடமறிய வேண்டாம்">
 <!ENTITY pref_donottrack_summary "&brandShortName; தளங்களிடம் உங்களை தடமறிய வேண்டாம் என தெரிவிக்கும்">
+
+
+
+
 
 <!ENTITY tab_queue_toast_action "இப்போதே திற">
 <!ENTITY tab_queue_prompt_title "பல இணைப்புகளைத் திறக்கிறதா?">
 
-<!ENTITY tab_queue_prompt_tip_text "இதை நீங்கள் அமைப்புகளில் பின்னர் மாற்றலாம்">
+
 
 
 <!ENTITY tab_queue_notification_title "&brandShortName;">
@@ -224,7 +250,6 @@
 <!ENTITY pref_plugins_tap_to_play "இயக்க தட்டவும்">
 <!ENTITY pref_plugins_disabled "முடக்கப்பட்டது">
 <!ENTITY pref_text_size "உரை அளவு">
-<!ENTITY pref_reflow_on_zoom4 "உரை மீளோட்டம்">
 <!ENTITY pref_restore "கீற்றுகள்">
 <!ENTITY pref_restore_always "எப்போதும் மீட்டமை">
 <!ENTITY pref_restore_quit "&brandShortName; வெளியேறியப்பின் மீட்டமைக்காதே">
@@ -328,13 +353,13 @@ size. -->
 <!ENTITY addons "கூடுதல் இணைப்புகள்">
 <!ENTITY logins "உள்நுழைவுகள்">
 <!ENTITY downloads "பதிவிறக்கங்கள்">
-<!ENTITY apps "பயன்பாடுகள்">
 <!ENTITY char_encoding "எழுத்து குறிமுறை">
 
 <!ENTITY share "பகிர்">
 <!ENTITY share_title "இதன்வழியாக பகிரவும்">
 <!ENTITY share_image_failed "இந்த படத்தை பகிரமுடியவில்லை">
 <!ENTITY save_as_pdf "பிடிஎப் ஆக சேமி">
+
 <!ENTITY find_in_page "பக்கத்தில் கண்டுபிடி">
 <!ENTITY desktop_mode "கணினி பக்கத்தை கேள்">
 <!ENTITY page "பக்கம்">
@@ -354,7 +379,7 @@ size. -->
 
 <!ENTITY find_text "பக்கத்தில் கண்டுபிடி">
 <!ENTITY find_prev "முந்தையது">
-<!ENTITY find_next "அடுத்து">
+
 <!ENTITY find_close "மூடு">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -379,6 +404,8 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "இணையத்தளத்தை சொருகு">
 <!ENTITY contextmenu_top_sites_unpin "இணையத்தள சொருகலை நீக்கு">
 <!ENTITY contextmenu_add_search_engine "தேடும் பொறியைச் சேர்">
+
+
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
@@ -396,6 +423,9 @@ size. -->
 <!ENTITY pref_titlebar_mode "தலைப்பு பட்டி">
 <!ENTITY pref_titlebar_mode_title "பக்க தலைப்பை காண்பி">
 <!ENTITY pref_titlebar_mode_url "பக்க முகவரியை காண்பி">
+<!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
+     whether or not the magnifying glass is disabled. -->
+
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -421,7 +451,7 @@ size. -->
 <!ENTITY site_settings_cancel       "ரத்து">
 <!ENTITY site_settings_clear        "துடை">
 <!ENTITY site_settings_no_settings  "நீக்க எந்த அமைப்புகளும் இல்லை.">
-<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+<!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
 <!ENTITY reading_list_removed "உங்கள் வாசிப்பு பட்டியலிருந்து பக்கம் நீக்கப்பட்டுள்ளது">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
@@ -452,8 +482,6 @@ size. -->
 <!ENTITY button_set "அமை">
 <!ENTITY button_clear "துடை">
 <!ENTITY button_copy "நகலெடு">
-
-<!ENTITY firstrun_panel_title_welcome "வருக">
 
 <!ENTITY home_top_sites_title "அடிக்கடி பார்த்த இணையத்தளங்கள்">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -539,21 +567,16 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_run_by "இதுவால் இயக்கப்படுகிறது">
-<!ENTITY identity_no_info "இந்த இணைய தளம் அடையாள விவரங்களை கொடுக்கவில்லை.">
-<!ENTITY identity_not_encrypted "இந்த இணைய தளத்தில் உங்கள் இணைப்பு மறைகுறியாக்கப்படவில்லை.">
-<!ENTITY identity_encrypted "குறிமுறையாக்கப்பட்டது">
+
 <!-- Mixed content notifications in site identity popup -->
 
-<!ENTITY loaded_mixed_content_message "இந்த பக்கத்தில் தோன்றும் உள்ளடக்கங்கள் பாதுகாப்பானது அல்ல.">
-<!ENTITY blocked_mixed_content_message_top "&brandShortName; பாதுகாப்பற்ற தடுத்த உள்ளடக்கங்கள் வைத்துள்ளது.">
-<!ENTITY blocked_mixed_content_message_bottom "இந்த உள்ளடக்கம் தடுக்கப்பட்ட போதிலும் பெரும்பான்மையான இணையத்தளங்கள் நன்றாக தான் வேலை செய்கிறது.">
+
+
 <!-- Tracking content notifications in site identity popup -->
 
-<!ENTITY loaded_tracking_content_message_top "கண்காணிப்பு தடுப்பு முடக்கப்பட்டுள்ளது.">
-<!ENTITY loaded_tracking_content_message_bottom "இந்த வலைபக்கத்தில் சில பகுதிகள் உங்கள் இணைய செயல்களை கண்காணிக்க கூடும்.">
-<!ENTITY blocked_tracking_content_message_top2 "கண்காணிப்பு தடுப்பு செயலிலுள்ளது.">
-<!ENTITY blocked_tracking_content_message_bottom2 "இந்த வலைபக்கத்தில் உள்ள உங்கள் இணைய செயல்களை கண்காணிக்கும் பகுதிகள் தடுக்கப்பட்டுள்ளன.">
+
+
+
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "இன்னும் கற்க">
@@ -564,7 +587,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "தனிப்பட்ட தரவுகள் நீக்கப்பட்டன">
 <!ENTITY private_data_fail "சில தனிப்பட்ட தரவுகளை நீக்க முடியவில்லை">
 
-<!ENTITY bookmarkhistory_button_import "இறக்கு">
 <!ENTITY bookmarkhistory_import_both "ஆண்டிரய்டிலிருந்து புத்தகக்குறிகள் மற்றும் 
 வரலாற்றை இறக்குகிறது">
 <!ENTITY bookmarkhistory_import_bookmarks "ஆண்ட்ராய்டு புத்தகக்குறிகளை 
@@ -639,10 +661,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Voice search in the awesome bar -->
 
 <!ENTITY voicesearch_prompt "இப்போது பேசுவும்">
-<!ENTITY voicesearch_failed_title "&brandShortName; குரல் தேடல்">
-<!ENTITY voicesearch_failed_message "தற்போது குரல் தேடலில் சிக்கல் ஏற்பட்டது. பிறகு முயற்சிக்கவும்.">
-<!ENTITY voicesearch_failed_message_recoverable "மன்னிக்கவும்! உங்கள் வார்த்தைகளை புரிந்துக்கொள்ள முடியவில்லை. பிறகு முயற்சிக்கவும்.">
-
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -659,3 +677,30 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY find_matchcase "அஆ">
 
+<!-- DevTools Authentication -->
+<!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
+     above a QR reader that is actively scanning for QR codes.  The expected QR
+     code has already been displayed by the client trying to connect (such as
+     desktop Firefox via WebIDE), so you just need to aim this device at the QR
+     code. -->
+<!-- Restrictions -->
+<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+     a restricted profile (e.g. child). Used inside the Android settings UI. -->
+
+
+
+
+
+
+
+
+
+<!-- Default Bookmarks titles-->
+<!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
+<!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
+<!ENTITY bookmarks_marketplace "பையர்பாக்ஸ் சந்தை">
+<!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
