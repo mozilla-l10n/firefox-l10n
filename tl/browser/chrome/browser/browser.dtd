@@ -67,7 +67,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.commandkey "p">
 
 <!ENTITY goOfflineCmd.label "Gumawa kahit walang Internet">
-<!ENTITY goOfflineCmd.accesskey "k">
+<!ENTITY goOfflineCmd.accesskey "G">
 
 
 

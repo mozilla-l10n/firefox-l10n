@@ -12,14 +12,14 @@
 <!ENTITY update.checkForUpdatesButton.accesskey   "M">
 <!ENTITY update.updateButton.label2                "Patakbuhin ulit ang &brandShortName; upang mailapat ang Pagbabago">
 
-<!ENTITY update.applyButtonBillboard.label        "Gamitin sa pag-update">
+<!ENTITY update.applyButtonBillboard.label        "Gamitin sa pag-update...">
 <!ENTITY update.applyButtonBillboard.accesskey    "G">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
 
 <!ENTITY warningDesc.version        "Ang &brandShortName; ay kasalukuyang pinag-aaralan pa at maaring hindi pa gagana ng maigi.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "Ito ay direkteng nagpapadala ng impormasyon tungkol sa performance, hardware, pag-gamit at pag-aangkop pabalik sa &vendorShortName; upang matulungan na mapa-buti ang &brandShortName;">
+<!ENTITY warningDesc.telemetryDesc  "Ito ay direktang nagpapadala ng impormasyon tungkol sa performance, hardware, pag-gamit at pag-aangkop pabalik sa &vendorShortName; upang matulungan na mapa-buti ang &brandShortName;">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
 <!ENTITY community.exp.start        "">
@@ -86,7 +86,7 @@
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
 
-<!ENTITY update.unsupported.start    "Hindi na maari makapag-update ng pagbabago sa system na ito.">
+<!ENTITY update.unsupported.start    "Hindi na maaari makapag-update ng pagbabago sa system na ito.">
 <!ENTITY update.unsupported.linkText "Higit pang matuto">
 <!ENTITY update.unsupported.end      "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
