@@ -197,6 +197,7 @@
 
 <!ENTITY fxaccount_status_header2 "Cyfrif Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Mewngofnodwyd fel">
+<!ENTITY fxaccount_status_manage_account "Rheoli cyfrif">
 <!ENTITY fxaccount_status_auth_server "Gweinydd cyfrif">
 <!ENTITY fxaccount_status_sync_now "Cydweddu nawr">
 <!ENTITY fxaccount_status_syncing2 "Cydweddu…">

@@ -6,15 +6,25 @@
 <!ENTITY  no_space_to_start_error "Nid oes digon o le i &brandShortName; gychwyn.">
 <!ENTITY  error_loading_file "Digwyddodd gwall wrth geisio llwytho ffeiliau ar gyfer rhedeg &brandShortName;">
 
+<!ENTITY firstrun_panel_title_welcome "Croeso">
 <!ENTITY  onboard_start_message3 "Pori gyda &brandShortName;">
 <!ENTITY  onboard_start_subtext3 "Gwnewch eich profiad pori ar y we yn un cartrefol.">
 <!ENTITY  onboard_start_button_account "Mewngofnodi i &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Cychwyn Pori">
+<!ENTITY firstrun_button_next "Nesaf">
+
 <!ENTITY  onboard_start_restricted1 "Cadwch yn ddiogel ac mewn reolaeth gyda\u0027r fersiwn symlach yma o &brandShortName;.">
+
+<!ENTITY firstrun_import_title "Mewnforio">
+<!ENTITY firstrun_import_message "Croeso i &brandShortName;">
+<!ENTITY firstrun_import_subtext "Mewnforio eich nodau tudalen a hanes o borwr arall.">
+<!ENTITY firstrun_import_action "Trosglwyddo i &brandShortName;">
+<!ENTITY firstrun_import_dialog_button "Trosglwyddo">
+<!ENTITY firstrun_import_progress_title "Wrthi\u0027n trosglwyddo">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
-<!ENTITY  bookmarks_title "Nodau Tudalen">
+<!ENTITY  bookmarks_title "Bookmarks">
 <!ENTITY  history_title "Hanes">
 <!ENTITY  reading_list_title "Rhestr Ddarllen">
 <!ENTITY  recent_tabs_title "Tabiau Diweddar">
@@ -55,8 +65,9 @@
 
 <!ENTITY history_today_section "Heddiw">
 <!ENTITY history_yesterday_section "Ddoe">
-<!ENTITY history_week_section2 "Wythnos Diwethaf">
-<!ENTITY history_older_section2 "Mis Diwethaf">
+<!ENTITY history_week_section3 "7 diwrnod diwethaf">
+<!ENTITY history_this_month_section "Y mis yma">
+<!ENTITY history_older_section3 "Hŷn na 6 mis">
 
 <!ENTITY go "Mynd">
 <!ENTITY search "Chwilio">
@@ -69,8 +80,6 @@
 <!ENTITY edit_mode_cancel "Diddymu">
 
 <!ENTITY close_tab "Cau Tab">
-<!ENTITY tab_audio_playing "Mae\u0027r tab hwn yn chwarae sain">
-<!ENTITY tab_audio_muted "Mae\u0027r tab wedi ei dewi">
 <!ENTITY one_tab "1 tab">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -81,6 +90,14 @@
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
 <!ENTITY switch_button_message "NEWID">
+<!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
+     visible in the UI, but rather used as a text-to-speech content description
+     for sight-impaired a11y users. The content description is set on a tab
+     title in a list of open tabs when content in that tab is playing audio.
+     &formatS; will be replaced with the title of the tab, as received from the
+     web page. When audio is not playing in a tab, &formatS; will be used as
+     the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "Chwarae sain – &formatS;">
 
 <!ENTITY settings "Gosodiadau">
 <!ENTITY settings_title "Gosodiadau">
@@ -182,6 +199,9 @@
 <!ENTITY pref_home_updates_wifi "Hanes pori a llwytho i lawr">
 <!ENTITY pref_home_suggested_sites "Dangos awgrymiadau am wefannau">
 <!ENTITY pref_home_suggested_sites_summary "Dangos llwybrau byr ar eich tudalen cartref i wefannau diddorol">
+<!ENTITY pref_category_home_homepage "Tudalen Cartref">
+<!ENTITY home_homepage_title "Gosod fel y Dudalen Cartref">
+<!ENTITY home_homepage_use_current_tab "Defnyddio\u0027r tab cyfredol">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Cyfaddasu">
@@ -237,7 +257,6 @@
 <!ENTITY pref_plugins_tap_to_play "Tapio i chwarae">
 <!ENTITY pref_plugins_disabled "Analluogwyd">
 <!ENTITY pref_text_size "Maint testun">
-<!ENTITY pref_reflow_on_zoom4 "Ail-lifo testun">
 <!ENTITY pref_restore "Tabiau">
 <!ENTITY pref_restore_always "Adfer bob tro">
 <!ENTITY pref_restore_quit "Peidio eu hadfer ar ôl gadael &brandShortName;">
@@ -347,6 +366,7 @@ size. -->
 <!ENTITY share_title "Rhannu drwy">
 <!ENTITY share_image_failed "Methu rhannu\u0027r ddelwedd">
 <!ENTITY save_as_pdf "Cadw fel PDF">
+<!ENTITY print "Argraffu">
 <!ENTITY find_in_page "Canfod yn y Dudalen">
 <!ENTITY desktop_mode "Gofyn am Wefan Lawn">
 <!ENTITY page "Tudalen">
@@ -391,6 +411,8 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Pinio Gwefan">
 <!ENTITY contextmenu_top_sites_unpin "Dad-binio Gwefan">
 <!ENTITY contextmenu_add_search_engine "Ychwanegu Peiriant Chwilio">
+<!ENTITY contextmenu_mark_read "Marcio wedi darllen">
+<!ENTITY contextmenu_mark_unread "Marcio heb ei ddarllen">
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
@@ -413,8 +435,8 @@ size. -->
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
-<!ENTITY pref_prevent_magnifying_glass "Anablu\u0027r chwyddwydr ">
-<!ENTITY pref_prevent_magnifying_glass_summary "Rhwystro chwyddwydr rhag ei ddefnyddio i ddatrys cyffyrddiadau sgrin aneglur">
+<!ENTITY pref_magnifying_glass_enabled "Chwyddo ardaloedd bach">
+<!ENTITY pref_magnifying_glass_enabled_summary "Mwyhau dolenni a meysydd ffurflen wrth dapio yn eu hymyl">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -473,8 +495,6 @@ size. -->
 <!ENTITY button_set "Gosod">
 <!ENTITY button_clear "Clirio">
 <!ENTITY button_copy "Torri">
-
-<!ENTITY firstrun_panel_title_welcome "Croeso">
 
 <!ENTITY home_top_sites_title "Hoff Wefannau">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -564,14 +584,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_insecure "Cysylltiad anniogel">
 <!-- Mixed content notifications in site identity popup -->
 
-<!ENTITY mixed_content_blocked_all "Mae &brandShortName; wedi rhwystro elfennau anniogel ar y dudalen hon.">
-<!ENTITY mixed_content_blocked_some "Mae &brandShortName; wedi rhwystro rhai elfennau anniogel ar y dudalen hon.">
-<!ENTITY mixed_content_display_loaded "Mae gan y dudalen hon rai elfennau anniogel.">
-<!ENTITY mixed_content_protection_disabled "Rydych wedi anablu diogelwch rhag elfennau anniogel.">
-
-<!ENTITY loaded_mixed_content_message "Mae\u0027r dudalen yn dangos cynnwys nad yw\u0027n ddiogel.">
-<!ENTITY blocked_mixed_content_message_top "Mae &brandShortName; wedi rhwystro cynnwys nad yw\u0027n ddiogel.">
-<!ENTITY blocked_mixed_content_message_bottom "Bydd y rhan fwyaf o wefannau yn gweithio hyd yn oed pan fydd y cynnwys wedi ei rwystro.">
+<!ENTITY mixed_content_blocked_all1 "Mae &brandShortName; wedi rhwystro elfennau anniogel ar y dudalen hon.">
+<!ENTITY mixed_content_blocked_some1 "Mae &brandShortName; wedi rhwystro rhai elfennau anniogel ar y dudalen hon.">
+<!ENTITY mixed_content_display_loaded1 "Nid yw rhannau o\u0027r dudalen hon yn ddiogel (megis delweddau).">
+<!ENTITY mixed_content_protection_disabled1 "Rydych wedi analluogi diogelwch rhag elfennau anniogel.">
 <!-- Tracking content notifications in site identity popup -->
 
 <!ENTITY doorhanger_tracking_title "Diogelwch rhag tracio">
@@ -703,4 +719,19 @@ o Android">
 <!ENTITY restriction_disallow_clear_history_title2 "Analluogi \u0027Clirio haes pori\u0027">
 <!ENTITY restriction_disallow_master_password_title2 "Analluogi prif gyfrinair">
 <!ENTITY restriction_disallow_guest_browsing_title2 "Analluogi Pori Gwestai">
+<!-- Default Bookmarks titles-->
+<!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
 
+<!ENTITY bookmarks_title "Symudol">
+<!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!ENTITY bookmarks_about_browser "Firefox: Ynghylch eich porwr">
+<!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "Firefox: Cyfaddasu gydag ychwanegion">
+<!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "Firefox: Cefnogaeth">
+<!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
+<!ENTITY bookmarks_marketplace "Firefox Marketplace">
+<!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!ENTITY bookmarks_restricted_support2 "Cymorth a Chefnogaeth Firefox ar gyfer proffiliau cyfyngedig tabledi Android">
+<!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!ENTITY bookmarks_restricted_webmaker "Dysgwch y We: Mozilla Webmaker">
