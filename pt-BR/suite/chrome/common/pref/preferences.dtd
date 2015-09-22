@@ -24,7 +24,7 @@
 <!ENTITY popups.label "Janelas popup">
 <!ENTITY passwords.label "Senhas">
 <!ENTITY masterpass.label "Senhas mestra">
-<!ENTITY ssl.label "SSL">
+
 <!ENTITY certs.label "Certificados">
 <!ENTITY sync.label "Sync">
 <!ENTITY advance.label "Avançado">
