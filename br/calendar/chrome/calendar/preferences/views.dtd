@@ -14,6 +14,8 @@
 
 <!ENTITY pref.weekstarts.label "Kregiñ ar sizhun d'ar/al :">
 <!ENTITY pref.weekstarts.accesskey "K">
+
+
 <!ENTITY pref.daysoff.label "Enkorfañ an devezhioù-mañ er sizhun labour :">
 
 <!ENTITY pref.calendar.view.daystart.label "An devezh a grog da :">
