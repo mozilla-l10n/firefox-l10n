@@ -13,9 +13,9 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "Você não está em uma navegação privativa">
 
-<!ENTITY privatebrowsingpage.description.private3 "O Firefox impedirá que seja rastreado e não salvará qualquer histórico, mas arquivos baixados e novos favoritos serão salvos no seu dispositivo.">
+<!ENTITY privatebrowsingpage.description.private4 "O &brandShortName; impedirá que seja rastreado e não salvará qualquer histórico, mas arquivos baixados e novos favoritos serão salvos no seu dispositivo.">
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
-     Browsing" is capitalized in English to be consistent with our existing uses
+     Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
 <!ENTITY privatebrowsingpage.description.normal2 "Na navegação privativa, não mantemos qualquer histórico de navegação ou cookies. Favoritos adicionados e arquivos baixados serão salvos no seu dispositivo.">
 
