@@ -6,11 +6,21 @@
 <!ENTITY  no_space_to_start_error "Нема довољно простора на располагању за &brandShortName;.">
 <!ENTITY  error_loading_file "Дошло је до грешке приликом покушаја учитавања датотеке потребне за покретање &brandShortName;">
 
+<!ENTITY firstrun_panel_title_welcome "Добродошли">
 <!ENTITY  onboard_start_message3 "Прегледавајте са &brandShortName;!">
 <!ENTITY  onboard_start_subtext3 "Учините искуство мобилног прегледања вашим.">
 <!ENTITY  onboard_start_button_account "Пријавите се на &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Започните прегледање">
+<!ENTITY firstrun_button_next "Следеће">
+
 <!ENTITY  onboard_start_restricted1 "Останите безбедни и у контроли са поједностављеном &brandShortName; верзијом.">
+
+<!ENTITY firstrun_import_title "Увези">
+<!ENTITY firstrun_import_message "Добродошли на &brandShortName;">
+<!ENTITY firstrun_import_subtext "Увезите забелешке и историјат са другог прегледача.">
+<!ENTITY firstrun_import_action "Пренеси на &brandShortName;">
+<!ENTITY firstrun_import_dialog_button "Пренеси">
+<!ENTITY firstrun_import_progress_title "Преносим">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
@@ -55,8 +65,9 @@
 
 <!ENTITY history_today_section "Данас">
 <!ENTITY history_yesterday_section "Јуче">
-<!ENTITY history_week_section2 "Последња недеља">
-<!ENTITY history_older_section2 "Последњи месец">
+<!ENTITY history_week_section3 "Последњих 7 дана">
+<!ENTITY history_this_month_section "Овај месец">
+<!ENTITY history_older_section3 "Старије од 6 месеци">
 
 <!ENTITY go "Иди">
 <!ENTITY search "Претрага">
@@ -69,8 +80,6 @@
 <!ENTITY edit_mode_cancel "Откажи">
 
 <!ENTITY close_tab "Затвори језичак">
-<!ENTITY tab_audio_playing "Овај језичак пушта аудио">
-<!ENTITY tab_audio_muted "Овај језичак је утишан">
 <!ENTITY one_tab "1 језичак">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -81,6 +90,14 @@
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
 <!ENTITY switch_button_message "ПРОМЕНИ">
+<!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
+     visible in the UI, but rather used as a text-to-speech content description
+     for sight-impaired a11y users. The content description is set on a tab
+     title in a list of open tabs when content in that tab is playing audio.
+     &formatS; will be replaced with the title of the tab, as received from the
+     web page. When audio is not playing in a tab, &formatS; will be used as
+     the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "Репродукујем аудио – &formatS;">
 
 <!ENTITY settings "Поставке">
 <!ENTITY settings_title "Поставке">
@@ -182,6 +199,9 @@
 <!ENTITY pref_home_updates_wifi "Само преко Wi-Fi">
 <!ENTITY pref_home_suggested_sites "Прикажи предлоге сајта">
 <!ENTITY pref_home_suggested_sites_summary "На почетној страници приказује пречице оних сајтова за које мислимо да ће бити интересантни">
+<!ENTITY pref_category_home_homepage "Почетна страница">
+<!ENTITY home_homepage_title "Постави као почетну страницу">
+<!ENTITY home_homepage_use_current_tab "Користи тренутан језичак">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Прилагоди">
@@ -237,7 +257,6 @@
 <!ENTITY pref_plugins_tap_to_play "Притисните">
 <!ENTITY pref_plugins_disabled "Онемогућени">
 <!ENTITY pref_text_size "Величина текста">
-<!ENTITY pref_reflow_on_zoom4 "Форматирање текста">
 <!ENTITY pref_restore "Језичци">
 <!ENTITY pref_restore_always "Увек обнови">
 <!ENTITY pref_restore_quit "Немој обновити након затварања &brandShortName;">
@@ -347,6 +366,7 @@ size. -->
 <!ENTITY share_title "Подели преко">
 <!ENTITY share_image_failed "Не могу поделити ову слику">
 <!ENTITY save_as_pdf "Сними као PDF">
+<!ENTITY print "Штампај">
 <!ENTITY find_in_page "Пронађи на страници">
 <!ENTITY desktop_mode "Захтевај десктоп сајт">
 <!ENTITY page "Страница">
@@ -391,6 +411,8 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Закачи сајт">
 <!ENTITY contextmenu_top_sites_unpin "Откачи сајт">
 <!ENTITY contextmenu_add_search_engine "Додај претраживач">
+<!ENTITY contextmenu_mark_read "Означи као прочитано">
+<!ENTITY contextmenu_mark_unread "Означи као непрочитано">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -413,8 +435,8 @@ size. -->
 
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
-<!ENTITY pref_prevent_magnifying_glass "Онемогући лупу ">
-<!ENTITY pref_prevent_magnifying_glass_summary "Спречите лупу код несигурних додира екрана">
+<!ENTITY pref_magnifying_glass_enabled "Увећај мала подручја">
+<!ENTITY pref_magnifying_glass_enabled_summary "Увећај везе и поља формулара које притискам">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
@@ -473,8 +495,6 @@ size. -->
 <!ENTITY button_set "Постави">
 <!ENTITY button_clear "Очисти">
 <!ENTITY button_copy "Копирај">
-
-<!ENTITY firstrun_panel_title_welcome "Добро дошли">
 
 <!ENTITY home_top_sites_title "Популарни сајтови">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -564,14 +584,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_insecure "Несигурна веза">
 
 <!-- Mixed content notifications in site identity popup -->
-<!ENTITY mixed_content_blocked_all "&brandShortName; је блокирао несигурне елементе на овој страници.">
-<!ENTITY mixed_content_blocked_some "&brandShortName; је блокирао неке несигурне елементе на овој страници.">
-<!ENTITY mixed_content_display_loaded "Страница има несигурне елементе.">
-<!ENTITY mixed_content_protection_disabled "Можете да искључите заштиту од несигурних елемената.">
-
-<!ENTITY loaded_mixed_content_message "Ова страница приказује садржај који није сигуран.">
-<!ENTITY blocked_mixed_content_message_top "&brandShortName; је блокирао садржај који није сигуран.">
-<!ENTITY blocked_mixed_content_message_bottom "Већина сајтова ће и даље радити правилно чак и када је блокиран овај садржај.">
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; је блокирао несигури садржај на овој страници.">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; је блокирао неки несигурни садржај на овој страници.">
+<!ENTITY mixed_content_display_loaded1 "Делови ове странице су несигурне (као што су слике).">
+<!ENTITY mixed_content_protection_disabled1 "Заштита од несигурног садржаја је искључена.">
 
 <!-- Tracking content notifications in site identity popup -->
 <!ENTITY doorhanger_tracking_title "Заштита од праћења">
@@ -704,3 +720,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restriction_disallow_master_password_title2 "Онемогући главну лозинку">
 <!ENTITY restriction_disallow_guest_browsing_title2 "Онемогући прегледање за госте">
 
+<!-- Default Bookmarks titles-->
+<!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
+<!ENTITY bookmarks_title "Мобилни">
+<!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!ENTITY bookmarks_about_browser "Firefox: о прегледачу">
+<!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "Firefox: прилагодите са додацима">
+<!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "Firefox: подршка">
+<!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
+<!ENTITY bookmarks_marketplace "Firefox Marketplace">
+<!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!ENTITY bookmarks_restricted_support2 "Firefox помоћ и подршка за ограничене профиле на Android таблетима">
+<!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!ENTITY bookmarks_restricted_webmaker "Научите веб: Mozilla Webmaker">
