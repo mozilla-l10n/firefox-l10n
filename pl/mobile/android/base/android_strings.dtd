@@ -301,7 +301,7 @@
 
 <!ENTITY media_sending_to "Przekazywanie do urządzenia">
 <!ENTITY media_play "Odtwórz">
-<!ENTITY media_pause "Pauza">
+<!ENTITY media_pause "Wstrzymaj">
 <!ENTITY media_stop "Zatrzymaj">
 
 <!ENTITY close_all_tabs "Zamknij wszystkie karty">
