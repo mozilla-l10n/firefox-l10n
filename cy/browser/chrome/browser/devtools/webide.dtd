@@ -26,7 +26,7 @@
 <!ENTITY projectMenu_showPrefs_accesskey "D">
 <!ENTITY projectMenu_manageComponents_label "Rheoli Cydrannau Ychwanegol">
 <!ENTITY projectMenu_manageComponents_accesskey "R">
-
+<!ENTITY projectMenu_refreshTabs_label "Adnewyddu'r Tabiau">
 
 <!ENTITY runtimeMenu_label "Amser rhedeg">
 <!ENTITY runtimeMenu_accesskey "R">
