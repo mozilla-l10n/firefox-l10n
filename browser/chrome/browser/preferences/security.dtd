@@ -24,10 +24,7 @@
 <!ENTITY  addonExceptions.accesskey     "S">
 
 
-<!ENTITY  passwords.label               "Pasahitzak">
 
-<!ENTITY  rememberPasswords.label       "Gogoratu guneetako pasahitzak">
-<!ENTITY  rememberPasswords.accesskey   "G">
 <!ENTITY  passwordExceptions.label      "Salbuespenak…">
 <!ENTITY  passwordExceptions.accesskey  "n">
 
@@ -36,5 +33,4 @@
 <!ENTITY  changeMasterPassword.label     "Aldatu pasahitz nagusia…">
 <!ENTITY  changeMasterPassword.accesskey "A">
 
-<!ENTITY  savedPasswords.label            "Gordetako pasahitzak…">
-<!ENTITY  savedPasswords.accesskey        "h">
+
