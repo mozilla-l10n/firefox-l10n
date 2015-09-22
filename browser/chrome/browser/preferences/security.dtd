@@ -24,10 +24,7 @@
 <!ENTITY  addonExceptions.accesskey     "e">
 
 
-<!ENTITY  passwords.label               "Şîfre">
 
-<!ENTITY  rememberPasswords.label       "Şîfreyan ji bo malperan bi bîr bîne">
-<!ENTITY  rememberPasswords.accesskey   "r">
 <!ENTITY  passwordExceptions.label      "Rewşên Taybet...">
 <!ENTITY  passwordExceptions.accesskey  "R">
 
@@ -36,5 +33,4 @@
 <!ENTITY  changeMasterPassword.label     "Şîfreyeke Mafbilind Biguherîne...">
 <!ENTITY  changeMasterPassword.accesskey "M">
 
-<!ENTITY  savedPasswords.label            "Şîfreyên Tomarbûyî…">
-<!ENTITY  savedPasswords.accesskey        "n">
+
