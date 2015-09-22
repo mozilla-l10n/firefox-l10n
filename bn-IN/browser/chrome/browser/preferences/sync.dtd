@@ -4,7 +4,7 @@
 <!-- The page shown when not logged in... -->
 
 <!ENTITY setupButton.label          "&syncBrand.fullName.label; প্রস্তুত করুন">
-<!ENTITY setupButton.accesskey      "&amp;">
+<!ENTITY setupButton.accesskey      "S">
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label;-র সাহায্যে সর্বধরনের ডিভাইসের মধ্যে আপনার পূর্ববর্তী তথ্য, বুকমার্ক, পাসওয়ার্ড ও প্রদর্শিত ট্যাবগুলি ব্যবহার করা যাবে।">
 <!-- The page shown when logged in... -->
 <!-- Login error feedback -->
@@ -26,18 +26,18 @@
 <!ENTITY engine.bookmarks.label     "বুকমার্ক">
 <!ENTITY engine.bookmarks.accesskey "ব">
 <!ENTITY engine.tabs.label          "ট্যাব">
-<!ENTITY engine.tabs.accesskey      "ট">
+<!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "পূর্ববর্তী তথ্য">
 <!ENTITY engine.history.accesskey   "প">
 <!ENTITY engine.passwords.label     "পাসওয়ার্ড">
-<!ENTITY engine.passwords.accesskey "প">
+<!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "পছন্দ">
 <!ENTITY engine.prefs.accesskey     "প">
 <!ENTITY engine.addons.label        "অতিরিক্ত সামগ্রী">
 <!ENTITY engine.addons.accesskey    "A">
 <!-- Device Settings -->
 
-<!ENTITY syncDeviceName.label       "ডিভাইস নাম (c) :">
+<!ENTITY syncDeviceName.label       "ডিভাইস নাম:">
 <!ENTITY syncDeviceName.accesskey   "c">
 <!ENTITY fxaSyncDeviceName.label       "ডিভাইস নাম">
 <!ENTITY changeSyncDeviceName.label "ডিভাইস নাম পরিবর্তন করুন…">
@@ -72,7 +72,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY notSignedIn.label           "আপনার সাইন ইন করা নেই।">
 <!ENTITY signIn.label                "সাইন-ইন করুন">
 <!ENTITY profilePicture.tooltip      "প্রোফাইল ছবি পরিবর্তন করুন">
-<!ENTITY manage.label                "পরিচালনা">
+
 <!ENTITY disconnect.label            "বিচ্ছিন্ন করুন…">
 <!ENTITY verify.label                "ইমেল যাঁচাই করুন">
 <!ENTITY forget.label                "এই ইমেল ভুলে যাওয়া হোক">

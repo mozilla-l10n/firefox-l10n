@@ -28,7 +28,7 @@
 <!-- LOCALIZATION NOTE  (showOriginalSources.label): This is the label on the context
      menu item to toggle showing original sources in the editor. -->
 
-<!ENTITY showOriginalSources.label     "আসল উৎস প্রদর্শন(o) করুন">
+<!ENTITY showOriginalSources.label     "আসল উৎস প্রদর্শন করুন">
 <!-- LOCALIZATION NOTE  (showOriginalSources.accesskey): This is the access key for
      the menu item to toggle showing original sources in the editor. -->
 
@@ -36,7 +36,7 @@
 <!-- LOCALIZATION NOTE  (showMediaSidebar.label): This is the label on the context
      menu item to toggle showing @media rule shortcuts in a sidebar. -->
 
-<!ENTITY showMediaSidebar.label     "@মিডিয়া(m) সাইডবার দেখান">
+<!ENTITY showMediaSidebar.label     "@মিডিয়া সাইডবার দেখান">
 <!-- LOCALIZATION NOTE  (showMediaSidebar.accesskey): This is the access key for
      the menu item to toggle showing the @media sidebar. -->
 
