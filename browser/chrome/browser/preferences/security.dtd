@@ -24,10 +24,7 @@
 <!ENTITY  addonExceptions.accesskey     "E">
 
 
-<!ENTITY  passwords.label               "సంకేతపదాలు">
 
-<!ENTITY  rememberPasswords.label       "సైటుల కొరకు సంకేతపదాలను గుర్తుంచుకో">
-<!ENTITY  rememberPasswords.accesskey   "R">
 <!ENTITY  passwordExceptions.label      "ఎక్సెప్షన్లు...">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
@@ -36,5 +33,4 @@
 <!ENTITY  changeMasterPassword.label     "ముఖ్య సంకేతపదమును మార్చండి...">
 <!ENTITY  changeMasterPassword.accesskey "M">
 
-<!ENTITY  savedPasswords.label            "భద్రపరచిన సంకేతపదాలు…">
-<!ENTITY  savedPasswords.accesskey        "P">
+
