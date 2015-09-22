@@ -213,6 +213,7 @@
 <!ENTITY addressButton.tooltip "Selekteer 'n ontvanger uit 'n adresboek">
 <!ENTITY attachButton.tooltip "Sluit 'n aanhegsel in">
 
+
 <!ENTITY saveButton.tooltip "Stoor hierdie boodskap">
 <!ENTITY cutButton.tooltip              "Knip">
 <!ENTITY copyButton.tooltip             "Kopieer">
