@@ -112,9 +112,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
-
-
 <!ENTITY fullScreenMinimize.tooltip "Nyenyefatša">
 <!ENTITY fullScreenRestore.tooltip "Bušetša">
 
@@ -122,6 +119,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "h">
 <!ENTITY fullScreenExit.label "Etšwa mokgweng wa sekirini se tletšego">
 <!ENTITY fullScreenExit.accesskey "m">
+<!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
+     fullscreenWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring fullscreen.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
+
+<!ENTITY fullscreenWarning.beforeDomain.label "">
+
+
+<!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
+     exitDOMFullscreenMac.button): the "escape" button on PC keyboards
+     is uppercase, while on Mac keyboards it is lowercase -->
 
 <!ENTITY leaveDOMFullScreen.label "Etšwa sekirining se tletšego">
 <!ENTITY leaveDOMFullScreen.accesskey "t">
@@ -202,7 +211,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "Ditaollo">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
-<!ENTITY downloadsUnix.commandkey     "y">
+
 <!ENTITY addons.label                 "Dikoketšo">
 <!ENTITY addons.accesskey             "D">
 <!ENTITY addons.commandkey            "A">
@@ -373,8 +382,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.switchToTab.label     "Fetogela go thepo:">
 
 
+
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Aowa">
+
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Ee">
+
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -421,6 +433,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
+
+
+
+
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -656,6 +672,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
 <!-- Strings for connection state warnings. -->
 
 
@@ -676,7 +693,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
 <!ENTITY identity.permissions "Ditumelelo">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -687,8 +706,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "Nyalantšha">
 
-<!ENTITY syncSetup.label              "Beakanya &syncBrand.shortName.label;…">
-<!ENTITY syncSetup.accesskey          "Y">
+
 <!ENTITY syncSyncNowItem.label        "Nyalantšha gona bjale">
 <!ENTITY syncSyncNowItem.accesskey    "a">
 
