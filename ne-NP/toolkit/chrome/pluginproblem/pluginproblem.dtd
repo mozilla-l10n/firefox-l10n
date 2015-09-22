@@ -5,24 +5,23 @@
      is not supported on some devices. Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (unsupportedPlatform.learnMore): Mobile only. This text is used to link to a SUMO page explaining why Flash is not
      supported on this device. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY unsupportedPlatform.learnMore                       "अझ जान्नुहोस्...">
 <!-- LOCALIZATION NOTE (unsupportedPlatform.post): Mobile only. Include text here if needed for your locale. -->
 <!ENTITY unsupportedPlatform.post                            "">
 
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
-<!ENTITY clickToActivatePlugin                               "प्लगइन सक्रिय पार्नुहोस्।">
-<!ENTITY checkForUpdates                                     "अद्यावधिकहरूका लागि जाँच गर्नुहोस्…">
-<!ENTITY disabledPlugin                                      "यो प्लगइन अक्षम भएको छ।">
 
-<!ENTITY hidePluginBtn.label                                 "प्लगइन लुकाउनुहोस्">
-<!ENTITY managePlugins                                       "प्लगिनहरु संम्हाल्नुहोस्...">
+
+
+
+
+
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
 
 <!ENTITY reloadPlugin.pre                                    "">
 
-<!ENTITY reloadPlugin.post                                   "  पुन: प्रयास गर्नका लागि।">
+
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
 
 
@@ -32,6 +31,5 @@
 
 
 
-<!ENTITY plugin.file                                         "फाइल">
 
 

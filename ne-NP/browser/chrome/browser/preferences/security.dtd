@@ -24,10 +24,7 @@
 <!ENTITY  addonExceptions.accesskey     "अ">
 
 
-<!ENTITY  passwords.label               "पासवर्डहरू">
 
-<!ENTITY  rememberPasswords.label       "साइटहरूको लागि पासवर्डहरू सम्झनुहोस्">
-<!ENTITY  rememberPasswords.accesskey   "R">
 <!ENTITY  passwordExceptions.label      "अपवादहरू...">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
@@ -36,5 +33,4 @@
 <!ENTITY  changeMasterPassword.label     "मास्टर पासवर्ड परिवर्तन गर्नुहोस्...">
 <!ENTITY  changeMasterPassword.accesskey "M">
 
-<!ENTITY  savedPasswords.label            "संचित पासवर्डहरू...">
-<!ENTITY  savedPasswords.accesskey        "P">
+
