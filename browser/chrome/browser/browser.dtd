@@ -112,12 +112,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; লৈ ছাইন ইন কৰক">
 
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; লৈ পুনৰ সংযোগ কৰক">
+
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; সামৰ্থবান">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; কিছু সময়তে সংমিহলি আৰম্ভ কৰিব।">
-<!ENTITY syncErrorPanel.heading "&syncBrand.shortName.label; লৈ সংযোগ কৰিব নোৱাৰি">
-<!ENTITY syncErrorPanel.subTitle "সংমিহলি অব্যাহত ৰাখিবলৈ অনুগ্ৰহ কৰি ছাইন ইন কৰক।">
-<!ENTITY syncErrorPanel.signInButton.label "ছাইন ইন কৰক">
-<!ENTITY syncErrorPanel.signInButton.accesskey "S">
 
 
 <!ENTITY fullScreenMinimize.tooltip "সৰু কৰক">
@@ -127,8 +124,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "পূৰ্ণপৰ্দা অৱস্থা প্ৰস্থান কৰক">
 <!ENTITY fullScreenExit.accesskey "F">
+<!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
+     fullscreenWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring fullscreen.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
 
-<!ENTITY fullscreenExitHint2.value "প্ৰস্থান কৰিবলৈ যিকোনো সময়ত ESC টিপক।">
+<!ENTITY fullscreenWarning.beforeDomain.label "">
+
+
+<!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
+     exitDOMFullscreenMac.button): the "escape" button on PC keyboards
+     is uppercase, while on Mac keyboards it is lowercase -->
+
 <!ENTITY leaveDOMFullScreen.label "পূৰ্ণপৰ্দা ত্যাগ কৰক">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
@@ -214,7 +222,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "ডাউনল'ডসমূহ">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
-<!ENTITY downloadsUnix.commandkey     "y">
+
 <!ENTITY addons.label                 "এড-অন সমূহ">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
@@ -394,8 +402,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.switchToTab.label     "টেবলৈ যাওক:">
 
 
+
 <!ENTITY urlbar.searchSuggestionsNotification.disable "নহয়">
+
 <!ENTITY urlbar.searchSuggestionsNotification.enable "হয়">
+
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -445,6 +456,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "সন্ধানৰ সংহতিসমূহ পৰিবৰ্তন কৰক">
+
+
+
+
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -680,11 +695,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
 <!-- Strings for connection state warnings. -->
 
 
 
 <!-- Strings for connection state warnings in the subview. -->
+
 
 
 
@@ -701,6 +718,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY identity.permissions "অনুমতিসমূহ">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -711,8 +729,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "সংমিহলি">
 
-<!ENTITY syncSetup.label              "&syncBrand.shortName.label; সংস্থাপন কৰক…">
-<!ENTITY syncSetup.accesskey          "Y">
+
 <!ENTITY syncSyncNowItem.label        "এতিয়া সংমিহলি কৰক">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label; লৈ পুনৰ সংযোগ কৰক…">
