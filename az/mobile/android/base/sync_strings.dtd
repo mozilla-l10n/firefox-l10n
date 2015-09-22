@@ -197,6 +197,7 @@
 
 <!ENTITY fxaccount_status_header2 "Firefox Hesabı">
 <!ENTITY fxaccount_status_signed_in_as "Daxil olan">
+
 <!ENTITY fxaccount_status_auth_server "Hesab serveri">
 <!ENTITY fxaccount_status_sync_now "İndi sinxronlaşdır">
 <!ENTITY fxaccount_status_syncing2 "Sinxronlaşır…">
