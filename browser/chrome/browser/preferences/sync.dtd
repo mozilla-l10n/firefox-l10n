@@ -72,7 +72,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY notSignedIn.label           "Siz daxil olmayıbsınız.">
 <!ENTITY signIn.label                "Daxil ol">
 
-<!ENTITY manage.label                "İdarə et">
+
 <!ENTITY disconnect.label            "Bağlantını kəs...">
 <!ENTITY verify.label                "E-poçtu Təstiqlə">
 <!ENTITY forget.label                "Bu e-poçtu unut">
