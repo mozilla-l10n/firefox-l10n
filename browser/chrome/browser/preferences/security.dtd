@@ -24,10 +24,7 @@
 <!ENTITY  addonExceptions.accesskey     "A">
 
 
-<!ENTITY  passwords.label               "Parolalar">
 
-<!ENTITY  rememberPasswords.label       "Sitelerde girilen parolaları hatırla">
-<!ENTITY  rememberPasswords.accesskey   "o">
 <!ENTITY  passwordExceptions.label      "Ayrıcalıklar…">
 <!ENTITY  passwordExceptions.accesskey  "c">
 
@@ -36,5 +33,4 @@
 <!ENTITY  changeMasterPassword.label     "Ana parolayı değiştir…">
 <!ENTITY  changeMasterPassword.accesskey "d">
 
-<!ENTITY  savedPasswords.label            "Kayıtlı parolalar…">
-<!ENTITY  savedPasswords.accesskey        "K">
+
