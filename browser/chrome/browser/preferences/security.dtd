@@ -24,10 +24,7 @@
 <!ENTITY  addonExceptions.accesskey     "P">
 
 
-<!ENTITY  passwords.label               "Kata laluan">
 
-<!ENTITY  rememberPasswords.label       "Ingat katalaluan untuk laman">
-<!ENTITY  rememberPasswords.accesskey   "I">
 <!ENTITY  passwordExceptions.label      "Pengecualian…">
 <!ENTITY  passwordExceptions.accesskey  "e">
 
@@ -36,5 +33,4 @@
 <!ENTITY  changeMasterPassword.label     "Tukar Katalaluan Induk…">
 <!ENTITY  changeMasterPassword.accesskey "T">
 
-<!ENTITY  savedPasswords.label            "Kata laluan Disimpan…">
-<!ENTITY  savedPasswords.accesskey        "D">
+

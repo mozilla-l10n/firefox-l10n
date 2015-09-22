@@ -10,24 +10,6 @@
 
 <!ENTITY window.title "Konsol Web">
 <!ENTITY browserConsole.title "Konsol Pelayar">
-
-<!ENTITY networkPanel.requestURLColon             "Permintaan URL :">
-<!ENTITY networkPanel.requestMethodColon          "Kaedah Permintaan :">
-<!ENTITY networkPanel.statusCodeColon             "Status Kod :">
-
-<!ENTITY networkPanel.requestHeaders              "Permintaan Pengepala">
-<!ENTITY networkPanel.requestCookie               "Penghantaran Cookie">
-<!ENTITY networkPanel.requestBody                 "Permintaan Kandungan">
-<!ENTITY networkPanel.requestFormData             "Penghantaran Bentuk Data">
-
-<!ENTITY networkPanel.responseHeaders             "Pengepala Sambutan">
-<!ENTITY networkPanel.responseCookie              "Cookie diterima">
-<!ENTITY networkPanel.responseBody                "Badan Respon">
-<!ENTITY networkPanel.responseBodyCached          "Data Cache">
-<!ENTITY networkPanel.responseBodyUnknownType     "Jenis Kandungan tidak diketahui">
-<!ENTITY networkPanel.responseNoBody              "Tiada Respon Body">
-<!ENTITY networkPanel.responseImage               "Imej yang diterima">
-<!ENTITY networkPanel.responseImageCached         "Imej Cache">
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
 
@@ -69,12 +51,21 @@
 <!ENTITY btnPageLogging.label   "Penglogan">
 <!ENTITY btnPageLogging.tooltip "Log mesej dihantar untuk window.console object">
 <!ENTITY btnPageLogging.accesskey3 "L">
-<!ENTITY btnConsoleErrors       "Ralat">
-<!ENTITY btnConsoleInfo         "Maklumat">
-<!ENTITY btnConsoleWarnings     "Amaran">
-<!ENTITY btnConsoleLog          "Log">
+
+
+
+
 <!ENTITY btnConsoleXhr          "XHR">
 <!ENTITY btnConsoleReflows      "Atur Semula">
+<!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
+  -  the toolbar. It shows or hides messages that the web developer inserted on
+  -  the page for debugging purposes, using calls on the HTTP server. -->
+
+
+
+
+
+
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
 <!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
