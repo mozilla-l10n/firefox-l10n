@@ -5,7 +5,7 @@
 <!ENTITY itemJunk.label          "Lastez">
 <!ENTITY itemPhishing.label      "Postel c'hwibañ">
 <!ENTITY itemPasswords.label     "Gerioù-tremen">
-
+<!ENTITY itemAntiVirus.label     "Enep-viruzoù">
 <!-- Junk Mail Controls -->
 
 <!ENTITY junkMail.intro "Kefluniañ arventennoù ar posteloù lastez dre ziouer. Kefluniet e vez ur gont evit ar posteloù lastez e Arventennoù ar gont.">
@@ -42,5 +42,7 @@
 <!ENTITY savedPasswords.accesskey       "e">
 <!-- Anti Virus -->
 
-
+<!ENTITY antiVirus.intro      "Gallout a ray &brandShortName; aesaat labour an enep-viruzoù da zielfennañ kemennadennoù ouzh ar viruzoù, a-raok ma vo gwaredet ar c'hemennadennoù war hoc'h urzhiataer.">
+<!ENTITY antiVirus.label      "Aotren an enep-viruzoù da lakaat en dispell ar c'hemennadennoù oc'h erruout.">
+<!ENTITY antiVirus.accesskey  "A">
 
