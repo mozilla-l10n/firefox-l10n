@@ -5,12 +5,26 @@
 
 <!ENTITY  no_space_to_start_error "Ji bo destpêkirina &brandShortName;ê têra xwe ciyê vala tune ye.">
 <!ENTITY  error_loading_file "Dema ku barkirina pelên ji bo destpêkirina &brandShortName;ê pêwîst dihat ceribandin çewtî çêbû.">
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
-<!ENTITY  bookmarks_title "Bijare">
+<!ENTITY  bookmarks_title "Bookmarks">
 <!ENTITY  history_title "Raborî">
 <!ENTITY  reading_list_title "Lîsteya Xwendinê">
+
 
 <!ENTITY  switch_to_tab "Biçe hilpekînê">
 
@@ -33,27 +47,31 @@
 
 <!ENTITY choose_file "Pelî Hilbijêre">
 
-<!ENTITY url_bar_default_text "Peyveke lêgerînê yan jî navnîşanekê binivîse">
 
-<!ENTITY bookmark "Bijare">
+
 <!ENTITY bookmark_added "Bijare lê hat zêdekirin">
+<!-- Localization note (bookmark_already_added) : This string is
+     used as a label in a toast. It is the verb "to bookmark", not
+     the noun "a bookmark". -->
 <!ENTITY bookmark_removed "Bijare hat rakirin">
 <!ENTITY bookmark_updated "Bijare hat nûkirin">
 <!ENTITY bookmark_options "Vebijark">
 
 <!ENTITY history_today_section "Îro">
 <!ENTITY history_yesterday_section "Do">
-<!ENTITY history_week_section "Beriya 7 rojan">
-<!ENTITY history_older_section "Ji 7 rojan kevntir">
+
+
+
 
 <!ENTITY go "Biçê">
-<!ENTITY search "Lê bigere">
+
 <!ENTITY reload "Nû bike">
 <!ENTITY forward "Pêşve">
 
 <!ENTITY back "Paşve">
-<!ENTITY stop "Bisekinîne">
+
 <!ENTITY site_security "Ewlekariya Malperê">
+
 
 <!ENTITY close_tab "Hilpekînê bigire">
 <!ENTITY one_tab "Hilpekînek">
@@ -62,54 +80,152 @@
 <!ENTITY num_tabs2 "&formatD; hilpekîn">
 <!ENTITY new_tab_opened "Hilpekîna nû hat vekirin">
 
+<!-- Localization note (switch_button_message): This string should be as short
+     as possible because it's shown as a label in a toast.  Ideally, this string
+     is upper-case, to match Google and Android's convention. -->
+<!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
+     visible in the UI, but rather used as a text-to-speech content description
+     for sight-impaired a11y users. The content description is set on a tab
+     title in a list of open tabs when content in that tab is playing audio.
+     &formatS; will be replaced with the title of the tab, as received from the
+     web page. When audio is not playing in a tab, &formatS; will be used as
+     the content description. -->
+
 <!ENTITY settings "Eyar">
-<!ENTITY settings_title "Eyar">
+
+
 <!ENTITY pref_category_advanced "Pêşketî">
 <!ENTITY pref_category_customize "Taybet Bike">
-<!ENTITY pref_category_search2 "Eyarên lêgerînê">
+
+
+<!-- Localization note (pref_category_language) : This is the preferences
+     section in which the user picks the locale in which to display Firefox
+     UI. The locale includes both language and region concepts. -->
+
+
+<!-- Localization note (locale_system_default) : This string indicates that
+     Firefox will use the locale currently selected in Android's settings
+     to display browser chrome. -->
+<!-- Localization note (overlay_share_label) : This is the label that appears
+     in Android's intent chooser when sending a link to Firefox to bookmark,
+     send to another device, or add to Reading List. -->
+<!-- Localization note (overlay_share_bookmark_btn_label) : This string is
+     used in the share overlay menu to select an action. It is the verb
+     "to bookmark", not the noun "a bookmark". -->
+
+
+
+
+<!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
+     share overlay menu to represent the "Send Tab" action when the user
+     either has not set up Sync, or has no other devices to send a tab
+     to. -->
+
+
+<!-- Localization note (overlay_no_synced_devices) : Used when the menu option
+     to send a tab to a synced device is pressed and no other synced devices
+     are found. -->
+<!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
+     to send a tab to a synced device is pressed and there is an error
+     connecting to the server so the tab could not be sent. The text should be
+     divided into two lines (use the newline escape character, "\n", between
+     them): the first notifying the user about the failure and the second
+     telling the user what to do about it. -->
+
+
 <!ENTITY pref_category_display "Xuyakirin">
+
 <!ENTITY pref_category_privacy_short "Nepenî">
+
 <!ENTITY pref_category_vendor "&vendorShortName;">
+
 <!ENTITY pref_category_datareporting "Vebijarkên daneyan">
+<!ENTITY pref_learn_more "Bêtir bizane">
 <!ENTITY pref_category_installed_search_engines "Motorên lêgerînê yên barkirî">
 <!ENTITY pref_category_add_search_providers "Zêdetir peydakerên lêgerînê lê zêde bike">
-<!-- Localization note (pref_search_tip) : "TIP" as in "hint", "clue" etc. Displayed as an
+
+
+
+<!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
-     search providers.-->
-<!ENTITY pref_search_tip "HÊSANKARÎ: Eger bi dirêjî li ser qada lêgerînê ya malperekê bitikînî ew ê bikeve nav lîsteya peydakerên lêgerînê.">
+     search providers.
+     The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
 <!ENTITY pref_category_devtools "Amûrên pêşvebiran">
 <!ENTITY pref_developer_remotedebugging "Ji dûr ve parzûnkirina çewtiyan">
-<!ENTITY pref_developer_remotedebugging_docs "Bêtir bizane">
-<!ENTITY pref_remember_signons "Şîfreyan bi bîr bîne">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Localization note (home_add_panel_installed):
+     The &formatS; will be replaced with the name of the new panel the user just
+     selected to be added to the home page. -->
+
+<!ENTITY pref_home_updates "Nûkirinên xweber">
+
+
+
+
+
+
+
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-<!ENTITY pref_header_customize "Taybet bike">
-<!ENTITY pref_header_display "Xuyank">
-<!ENTITY pref_header_privacy_short "Nepenî">
-<!ENTITY pref_header_help "Alîkarî">
-<!ENTITY pref_header_vendor "&vendorShortName;">
-<!ENTITY pref_header_devtools "Amûrên pêşvebiran">
+
+
+
+
+
 
 <!ENTITY pref_cookies_menu "Çerez">
-<!ENTITY pref_cookies_accept_all "Çalak">
+
 <!ENTITY pref_cookies_not_accept_foreign "Çalak, ji bî partiyên 3yemîn">
 <!ENTITY pref_cookies_disabled "Neçalak">
 
-<!ENTITY pref_donottrack_menu "Şopandin">
-<!ENTITY pref_donottrack_disallow_tracking "Ji malperan re ragihîne ku naxwazim bêm şopandin">
-<!ENTITY pref_donottrack_allow_tracking "Ji malperan re ragihîne ku dixwazim bêm şopandin">
-<!ENTITY pref_donottrack_no_pref "Derbarê vebijêrkên min ên şopandinê de tu tiştî ranegihîne malperan">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Localization note (tab_queue_notification_text_plural2) : The
+     formatD is replaced with the number of tabs queued.  The
+     number of tabs queued is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!-- Localization note (tab_queue_notification_text_singular2) : This is the
+     text of a notification; we expect only one tab queued. -->
 
 <!ENTITY pref_char_encoding "Kodkirina karakteran">
 <!ENTITY pref_char_encoding_on "Menuyê nîşan bide">
 <!ENTITY pref_char_encoding_off "Menuyê nîşan nede">
-<!ENTITY pref_clear_private_data "Daneyên taybet jê bibe">
+
+<!ENTITY pref_clear_private_data_category "Daneyên taybet jê bibe">
+
+
+
 <!ENTITY pref_plugins "Pêvek">
-<!ENTITY pref_plugins_enabled "Çalak">
+
 <!ENTITY pref_plugins_tap_to_play "Bipelîne ku bê lêxistin">
-<!ENTITY pref_plugins_disabled "Neçalak">
+
 <!ENTITY pref_text_size "Mezinahiya nivîsê">
-<!ENTITY pref_reflow_on_zoom4 "Herikîna nivîsê">
 <!ENTITY pref_restore "Hilpekîn">
 <!ENTITY pref_restore_always "Her tim vegerîne">
 <!ENTITY pref_restore_quit "Piştî derketinê venegerîne &brandShortName;">
@@ -128,7 +244,18 @@ size. -->
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
 
+
+
+
+
+
+
+
 <!ENTITY pref_sync "Sync">
+
+
+
+
 
 
 
@@ -147,12 +274,16 @@ size. -->
 
 
 
-<!ENTITY datareporting_notification_title "Îstatîstîk û daneyên &brandShortName;ê">
+
+
+
+
+
 <!ENTITY datareporting_notification_action_long "Agahiyên ku dê bên parvekirin hilbijêre">
 <!ENTITY datareporting_notification_action "Tiştên parve bikî hilbijêre">
 <!ENTITY datareporting_notification_summary "Ji bo pêşvebirina azmûna te, &brandShortName; hin agahiyan xweber ji &vendorShortName;ê re dişîne">
 <!ENTITY datareporting_notification_summary_short "Ji bo pêşvebirina azmûnên te &brandShortName;…">
-<!ENTITY datareporting_notification_ticker_text "datareporting_notification_title;: datareporting_notification_action_long;">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
@@ -169,14 +300,15 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Raporkara Têkçûnê">
-<!ENTITY datareporting_wifi_title "Servîsên ciyê cografîk yên &vendorShortName;ê">
-<!ENTITY datareporting_wifi_summary "Destûrê bide &brandShortName;ê ku daneyên îstasyona bazê yên giştî berhev bike û bişîne da ku em dikaribin servîsên xwe yên ji bo ciyê cografîk pêşvetir bibin">
+
+
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload_wifi "Tenê bi riya Wi-Fiyê">
 
 
+
+<!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY quit "Derkeve">
 
@@ -199,34 +331,66 @@ size. -->
 
 
 
+
+
+
+
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
-<!ENTITY find_next "Pêşve">
-<!ENTITY find_close "Bigire">
+
+
+<!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
+     as alternate text for accessibility. They are not visible in the UI. -->
+
+
+
 
 <!ENTITY contextmenu_open_new_tab "Di hilpekîneke nû de veke">
 <!ENTITY contextmenu_open_private_tab "Di Hilpekîna Nepen de Veke">
-<!ENTITY contextmenu_open_in_reader "Bi xwînerê veke">
-<!ENTITY contextmenu_remove "Rake">
+
 <!ENTITY contextmenu_add_to_launcher "Têxe Ekrana Giştî">
-<!ENTITY contextmenu_share "Parve bike">
-<!ENTITY contextmenu_pasteandgo "Pê ve bike &amp; Herê">
+
+
 <!ENTITY contextmenu_paste "Pê ve bike">
 <!ENTITY contextmenu_copyurl "Navnîşanê ji ber bigire">
 <!ENTITY contextmenu_edit_bookmark "Serast bike">
 <!ENTITY contextmenu_subscribe "Li rûpelê bibe abone">
 <!ENTITY contextmenu_site_settings "Eyarên malperê serast bike">
-<!ENTITY contextmenu_top_sites_edit "Serast bike">
+
 <!ENTITY contextmenu_top_sites_pin "Malperê sabît bike">
 <!ENTITY contextmenu_top_sites_unpin "Malperê nesabît bike">
+
+
+
+<!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
+     where normally a username would be displayed. In this case, no username was found, and this placeholder
+     contains brackets to indicate this is not actually a username, but rather a placeholder -->
+
+
+
+
+
+
+
+
+
 
 
 <!ENTITY pref_titlebar_mode "Darikê Sernavî">
 <!ENTITY pref_titlebar_mode_title "Sernavê rûpelê nîşan bide">
 <!ENTITY pref_titlebar_mode_url "Navnîşana rûpelê nîşan bide">
+<!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
+     whether or not the magnifying glass is disabled. -->
+
+<!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
+     whether or not the dynamic toolbar is enabled. -->
 
 
+
+<!-- Localization note (page_removed): This string appears in a toast message when
+     any page is removed frome about:home. This includes pages that are in history,
+     bookmarks, or reading list. -->
 
 
 
@@ -236,9 +400,15 @@ size. -->
 
 
 
+<!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
+     as possible. -->
 
+<!-- Localization note (reading_list_remove) : Used to remove the currently open page from
+     the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
 
-
+<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
+     panel on the home page to give the user an estimate of how many minutes it will take to
+     read an article. The word "minute" should be abbreviated if possible. -->
 
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
@@ -255,23 +425,52 @@ size. -->
 
 
 
+
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
-
-<!ENTITY home_history_title "Raborî">
-
-
+<!-- Localization note (home_title): This string should be kept in sync
+     with the page title defined in aboutHome.dtd -->
 
 
 
 
+
+
+
+
+
+<!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
+     The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
-     The "&#37;I" in the string will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. Please keep the spacing around the "&#37;I" string. -->
+     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
+     it is applicable. -->
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
+<!-- Localization note (home_default_empty): This string is used as the default text when there
+     is no data to show in an about:home panel that was created by an add-on. -->
+<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
+     previous location in the navigation, such as the previous folder -->
+
+
+
+
+
+
+
+
+<!-- Localization note (home_remote_tabs_many_hidden_devices) : The
+     formatD is replaced with the number of hidden devices.  The
+     number of hidden devices is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
+     title of a dialog; we expect more than one device. -->
+<!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
+     the text of a button; we expect more than one device. -->
+
+
+
 
 
 
@@ -289,10 +488,17 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
+
 <!-- Mixed content notifications in site identity popup -->
 
 
 
+<!-- Tracking content notifications in site identity popup -->
+
+
+
+
+<!-- Common mixed and tracking content strings in site identity popup -->
 
 
 
@@ -303,12 +509,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
-<!-- Localization note (suggestions_prompt2): The placeholder &formatS; will be
-     replaced with the name of the search engine. -->
+
+<!--  Localization note (search_bar_item_desc): When the user clicks the url bar
+      and starts typing, a list of icons of search engines appears at the bottom
+      of the screen. When a user clicks an icon, the entered text will be searched
+      via the search engine that uses the icon they clicked. This text is used
+      for screen reader users when they hover each icon - &formatS; will be
+      replaced with the name of the currently highlighted icon. -->
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
-
 
 
 <!-- Updater notifications -->
@@ -327,6 +537,57 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
-<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+
+
+<!-- Miscellaneous -->
+<!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
+     designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
+     traditions in your locale. -->
+
+<!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
+     display a percentage value. formatS is the number, #37 is the code to display a percent sign.
+     This format string is typically used by getString method, in such method the percent sign
+     is a reserved caracter. In order to display one percent sign in the result of getString,
+     double percent signs must be inserted in the format string.
+     This entity is used in the zoomed view to display the zoom factor-->
+<!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
+<!-- Voice search in the awesome bar -->
+<!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
+     "relative time span string" produced by Android.  This string describes the
+     time the tabs were last synced relative to the current time; examples
+     include "42 minutes ago", "4 days ago", "last week", etc. The subject of
+     "Last synced" is one of the user's other Sync clients, typically Firefox on
+     their desktop or laptop.-->
+<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!-- Find-In-Page strings -->
+<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
+     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
+
+<!-- DevTools Authentication -->
+<!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
+     above a QR reader that is actively scanning for QR codes.  The expected QR
+     code has already been displayed by the client trying to connect (such as
+     desktop Firefox via WebIDE), so you just need to aim this device at the QR
+     code. -->
+<!-- Restrictions -->
+<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+     a restricted profile (e.g. child). Used inside the Android settings UI. -->
+
+
+
+
+
+
+
+
+
+<!-- Default Bookmarks titles-->
+<!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
+<!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
+<!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
