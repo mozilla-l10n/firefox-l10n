@@ -24,10 +24,7 @@
 <!ENTITY  addonExceptions.accesskey     "E">
 
 
-<!ENTITY  passwords.label               "गुड़किल्ली">
 
-<!ENTITY  rememberPasswords.label       "साइटक गुड़किल्ली याद राखू">
-<!ENTITY  rememberPasswords.accesskey   "R">
 <!ENTITY  passwordExceptions.label      "अपवाद…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
@@ -36,5 +33,4 @@
 <!ENTITY  changeMasterPassword.label     "मुख्य गुड़किल्ली बदलू…">
 <!ENTITY  changeMasterPassword.accesskey "M">
 
-<!ENTITY  savedPasswords.label            "सहेजल गेल गुड़किल्ली…">
-<!ENTITY  savedPasswords.accesskey        "P">
+
