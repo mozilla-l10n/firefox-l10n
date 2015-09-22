@@ -24,10 +24,7 @@
 <!ENTITY  addonExceptions.accesskey     "E">
 
 
-<!ENTITY  passwords.label               "ପ୍ରବେଶ ସଂକେତ">
 
-<!ENTITY  rememberPasswords.label       "ସାଇଟଗୁଡ଼ିକ ପାଇଁ ପ୍ରବେଶ ସଂକେତ ମନେରଖନ୍ତୁ">
-<!ENTITY  rememberPasswords.accesskey   "R">
 <!ENTITY  passwordExceptions.label      "ବ୍ୟତିକ୍ରମ…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
@@ -36,5 +33,4 @@
 <!ENTITY  changeMasterPassword.label     "ମୂଖ୍ୟ ପ୍ରବେଶ ସଂକେତକୁ ପରିବର୍ତ୍ତନ କରନ୍ତୁ…">
 <!ENTITY  changeMasterPassword.accesskey "M">
 
-<!ENTITY  savedPasswords.label            "ସଂରକ୍ଷିତ ପ୍ରବେଶ ସଂକେତ…">
-<!ENTITY  savedPasswords.accesskey        "P">
+
