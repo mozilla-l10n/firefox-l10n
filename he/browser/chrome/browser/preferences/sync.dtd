@@ -72,7 +72,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY notSignedIn.label           "לא מחובר לחשבון.">
 <!ENTITY signIn.label                "כניסה">
 <!ENTITY profilePicture.tooltip      "שינוי תמונת פרופיל">
-<!ENTITY manage.label                "ניהול">
 <!ENTITY disconnect.label            "התנתקות…">
 <!ENTITY verify.label                "אימות דואר אלקטרוני">
 <!ENTITY forget.label                "לשכוח מכתובת דואר אלקטרוני זו">
