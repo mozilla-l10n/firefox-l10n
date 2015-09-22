@@ -24,10 +24,7 @@
 <!ENTITY  addonExceptions.accesskey     "ย">
 
 
-<!ENTITY  passwords.label               "รหัสผ่าน">
 
-<!ENTITY  rememberPasswords.label       "จำรหัสผ่านของเว็บไซต์">
-<!ENTITY  rememberPasswords.accesskey   "จ">
 <!ENTITY  passwordExceptions.label      "ยกเว้น…">
 <!ENTITY  passwordExceptions.accesskey  "ว">
 
@@ -36,5 +33,4 @@
 <!ENTITY  changeMasterPassword.label     "เปลี่ยนรหัสผ่านหลัก…">
 <!ENTITY  changeMasterPassword.accesskey "ล">
 
-<!ENTITY  savedPasswords.label            "รหัสผ่านที่บันทึกไว้…">
-<!ENTITY  savedPasswords.accesskey        "ร">
+
