@@ -14,6 +14,8 @@
 
 <!ENTITY pref.weekstarts.label "Tosaigh an tseachtain ar:">
 <!ENTITY pref.weekstarts.accesskey "T">
+
+
 <!ENTITY pref.daysoff.label "Bíodh na laethanta seo sa tseachtain oibre:">
 
 <!ENTITY pref.calendar.view.daystart.label "Tosaíonn an lá ag:">
