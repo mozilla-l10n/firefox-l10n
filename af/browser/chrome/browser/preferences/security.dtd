@@ -24,10 +24,7 @@
 <!ENTITY  addonExceptions.accesskey     "U">
 
 
-<!ENTITY  passwords.label               "Wagwoorde">
 
-<!ENTITY  rememberPasswords.label       "Onthou wagwoorde vir werwe">
-<!ENTITY  rememberPasswords.accesskey   "O">
 <!ENTITY  passwordExceptions.label      "Uitsonderings…">
 <!ENTITY  passwordExceptions.accesskey  "U">
 
@@ -36,5 +33,4 @@
 <!ENTITY  changeMasterPassword.label     "Wysig meesterwagwoord…">
 <!ENTITY  changeMasterPassword.accesskey "m">
 
-<!ENTITY  savedPasswords.label            "Gestoorde wagwoorde…">
-<!ENTITY  savedPasswords.accesskey        "w">
+

@@ -150,8 +150,6 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.timings.receive): This is the label displayed
   -  in the network details timings tab identifying the amount of time spent
   -  in a "receive" state. -->
-<!-- LOCALIZATION NOTE (netmonitorUI.security.warning.protocol): A tooltip
-  -  for warning icon that indicates a connection uses insecure protocol. -->
 <!-- LOCALIZATION NOTE (netmonitorUI.security.warning.cipher): A tooltip
   -  for warning icon that indicates a connection uses insecure cipher suite. -->
 <!-- LOCALIZATION NOTE (netmonitorUI.security.error): This is the label displayed
