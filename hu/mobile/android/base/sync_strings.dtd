@@ -197,6 +197,7 @@
 
 <!ENTITY fxaccount_status_header2 "Firefox fiók">
 <!ENTITY fxaccount_status_signed_in_as "Bejelentkezve mint">
+
 <!ENTITY fxaccount_status_auth_server "Fiókkiszolgáló">
 <!ENTITY fxaccount_status_sync_now "Szinkronizálás most">
 <!ENTITY fxaccount_status_syncing2 "Szinkronizálás…">
