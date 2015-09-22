@@ -112,7 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignIn.label "Mewngofnodi i &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Agor dewisiadau &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Ail gysylltu i &syncBrand.shortName.label;">
-
+<!ENTITY fxaUnverified.label "Gwirio eich Cyfrif">
 <!ENTITY syncStartPanel2.heading "Galluogwyd &syncBrand.shortName.label;">
 <!ENTITY syncStartPanel2.subTitle "Bydd &brandShortName; yn cychwyn cydweddu ymhen ychydig.">
 
@@ -131,12 +131,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY fullscreenWarning.beforeDomain.label "">
-
-
+<!ENTITY fullscreenWarning.afterDomain.label "nawr yn sgrin lawn">
+<!ENTITY fullscreenWarning.generic.label "Mae'r ddogfen nawr yn sgrin lawn">
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
-
+<!ENTITY exitDOMFullscreen.button "Gadael y Sgrin Lawn (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "Gadael y Sgrin Lawn (esc)">
 <!ENTITY leaveDOMFullScreen.label "Gadael Sgrin Lawn">
 <!ENTITY leaveDOMFullScreen.accesskey "S">
 
@@ -222,7 +223,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "Llwytho i Lawr">
 <!ENTITY downloads.accesskey          "L">
 <!ENTITY downloads.commandkey         "j">
-
+<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Ychwanegion">
 <!ENTITY addons.accesskey             "Y">
 <!ENTITY addons.commandkey            "Y">
@@ -405,11 +406,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Hoffech chi wella eich profiad chwilio drwy ychwanegu awgrymiadau?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Dysgu rhagor…">
-
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "d">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Na">
-
+<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Iawn">
-
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "g">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -466,9 +467,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Newid y Gosodiadau Chwilio">
 
-
-
-
+<!ENTITY searchInNewTab.label         "Chwilio mewn Tab Newydd">
+<!ENTITY searchInNewTab.accesskey     "T">
+<!ENTITY searchSetAsDefault.label     "Gosod fel y Peiriant Chwilio Rhagosodedig">
+<!ENTITY searchSetAsDefault.accesskey "R">
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -704,9 +706,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Cysylltiad Pell">
 <!ENTITY identity.connectionNotSecure "Nid yw'r Cysylltiad yn Ddiogel">
 <!ENTITY identity.connectionFile "Mae'r dudalen hon wedi ei chadw ar eich cyfrifiadur.">
-
+<!ENTITY identity.connectionVerified1 "Rydych wedi eich cysylltu'n ddiogel â'r wefan hon, sy'n cael ei redeg gan:">
 <!ENTITY identity.connectionInternal "Mae hon yn dudalen &brandShortName; diogel.">
-
+<!ENTITY identity.insecureLoginForms "O bosib mae eich mewngofnod wedi ei danseilio.">
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "Mae &brandShortName; wedi rhwystro rhannau o'r dudalen nad ydynt yn ddiogel.">
@@ -716,7 +718,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings in the subview. -->
 
 <!ENTITY identity.description.insecure "Nid yw eich cysylltiad â'r dudalen hon yn breifat. Gall gwybodaeth fyddwch yn ei gyflwyno cael ei weld gan eraill (megis cyfrineiriau, negeseuon, cardiau credyd, ac ati.).">
-
+<!ENTITY identity.description.insecureLoginForms "Nid yw'r manylion mewngofnodi rydych wedi ei roi i'r dudalen yn ddiogel a gall fod wedi ei danseilio.">
 <!ENTITY identity.description.weakCipher "Mae eich cysylltiad i'r wefan hon yn defnyddio amgryptiad gwan ac nid yw'n breifat.">
 <!ENTITY identity.description.weakCipher2 "Gall bobl eraill weld eich gwybodaeth neu newid ymddygiad y wefan.">
 <!ENTITY identity.description.activeBlocked "Mae &brandShortName; wedi rhwystro rhannau o'r dudalen nad ydynt yn ddiogel.">
@@ -735,7 +737,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.moreInfoLinkText2 "Rhagor o Wybodaeth">
 
 <!ENTITY identity.permissions "Caniatâd">
-
+<!ENTITY identity.permissionsEmpty "Nid ydych wedi rhoi i'r wefan hon unrhyw ganiatâd arbennig.">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -746,7 +748,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
-
+<!ENTITY syncSignIn.label             "Mewngofnodi i &syncBrand.shortName.label;…">
+<!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "Cydweddu Nawr">
 <!ENTITY syncSyncNowItem.accesskey    "y">
 <!ENTITY syncReAuthItem.label         "Ail gysylltu i &syncBrand.shortName.label;…">
