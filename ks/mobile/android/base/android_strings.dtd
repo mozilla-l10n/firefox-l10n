@@ -9,8 +9,19 @@
 
 
 
+
+
+
+
+
+
+
+
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
+
+<!ENTITY  bookmarks_title "Bookmarks">
 <!ENTITY  history_title "مازی">
 <!ENTITY  reading_list_title "پرنک پرچئ">
 <!ENTITY  recent_tabs_title "حالک ٹیبس">
@@ -41,14 +52,18 @@
 <!ENTITY bookmark "بکمارک">
 <!ENTITY bookmark_remove "ہٹایو بکمارک">
 <!ENTITY bookmark_added "بکمارک گو داخل">
+<!-- Localization note (bookmark_already_added) : This string is
+     used as a label in a toast. It is the verb "to bookmark", not
+     the noun "a bookmark". -->
 <!ENTITY bookmark_removed "بکمارک آو ہٹاونئ">
 <!ENTITY bookmark_updated "بکمارک گو اپڈیٹ">
 <!ENTITY bookmark_options "آپشنز">
 
 <!ENTITY history_today_section "از">
 <!ENTITY history_yesterday_section "راتھ">
-<!ENTITY history_week_section2 "پتمِ ہفتِ">
-<!ENTITY history_older_section2 "پتم ریتھ">
+
+
+
 
 <!ENTITY go "گسِو">
 <!ENTITY search "ژانڈِو">
@@ -71,9 +86,17 @@
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
 <!ENTITY switch_button_message "SWITCH">
+<!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
+     visible in the UI, but rather used as a text-to-speech content description
+     for sight-impaired a11y users. The content description is set on a tab
+     title in a list of open tabs when content in that tab is playing audio.
+     &formatS; will be replaced with the title of the tab, as received from the
+     web page. When audio is not playing in a tab, &formatS; will be used as
+     the content description. -->
 
 <!ENTITY settings "سٹِنگس">
 <!ENTITY settings_title "سٹِنگس">
+
 <!ENTITY pref_category_advanced "ایڑوانسڑ">
 <!ENTITY pref_category_customize "شِرِو">
 <!ENTITY pref_category_customize_summary "ہوم،ژانڈِو،ٹیبس،انیو">
@@ -101,7 +124,7 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "بکمارک">
 <!ENTITY overlay_share_reading_list_btn_label "تراویو پرنِکس پرچس منز">
-<!ENTITY overlay_share_bookmark_btn_label_already "بکمارک آمت کرنء">
+
 <!ENTITY overlay_share_reading_list_btn_label_already "یع چھ گوڑنِیتھی پرنِکس پرچس منز">
 <!ENTITY overlay_share_send_other "سوزو باکِین ڑوئسین">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -128,7 +151,7 @@
 <!ENTITY pref_category_display "ڑسپلے">
 <!ENTITY pref_category_display_summary "متن ،ٹایِٹل بار،پورء-سکرین براوزینگ">
 <!ENTITY pref_category_privacy_short "پرایوےسی">
-<!ENTITY pref_category_privacy_summary "کنٹرول پاسوآڈس ،کوکیز ،ٹریکینگ ، ڑیٹا">
+
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "&brandShortName; متعلق, FAQs,ڑیٹا چوسس">
 <!ENTITY pref_category_datareporting "ڑیٹا چوسس">
@@ -146,8 +169,13 @@
 <!ENTITY pref_search_hint "TIP:ایڈ کرو کنھ وبسئٹ پنس سرچ پروویڑرس">
 <!ENTITY pref_category_devtools "ڑولاپر آلات">
 <!ENTITY pref_developer_remotedebugging "ریموٹ ڑیبگینگ">
+
+
+
 <!ENTITY pref_category_logins "لاگنز">
-<!ENTITY pref_remember_signons "پاسوآڑس تھایو یاد">
+
+
+
 <!ENTITY pref_manage_logins "لاگنز سمبالیو">
 
 <!ENTITY pref_category_home "ہوم">
@@ -164,6 +192,9 @@
 <!ENTITY pref_home_updates_enabled "یلہ">
 <!ENTITY pref_home_updates_wifi "سرف Wi-Fi پیاٹھ">
 <!ENTITY pref_home_suggested_sites "ہایو سایٹن ہیند مچورء">
+
+
+
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
@@ -182,6 +213,10 @@
 
 
 <!ENTITY pref_donottrack_title "ٹریک مء کرو">
+
+
+
+
 
 
 <!ENTITY tab_queue_toast_action "وآن کریو یالء">
@@ -212,7 +247,6 @@
 <!ENTITY pref_plugins_tap_to_play "ٹیپ کرو گند نِ کھآترء">
 <!ENTITY pref_plugins_disabled "ڈسعبلڈ">
 <!ENTITY pref_text_size "متن سئز">
-<!ENTITY pref_reflow_on_zoom4 "متن ریفلو">
 <!ENTITY pref_restore "ٹیبس">
 <!ENTITY pref_restore_always "ھ">
 
@@ -234,7 +268,12 @@ size. -->
 
 
 
+
+
+
+
 <!ENTITY pref_sync "سِنک">
+
 
 
 
@@ -293,7 +332,7 @@ size. -->
 <!ENTITY addons "ایڑ-آن">
 
 
-<!ENTITY apps "ایپس">
+
 
 
 
@@ -316,12 +355,14 @@ size. -->
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
-<!ENTITY find_next "امہ پتہ">
+
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
 <!ENTITY media_pause "رکو">
+
+
 
 
 
@@ -349,6 +390,14 @@ size. -->
 
 
 
+
+
+
+
+
+<!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
+     whether or not the magnifying glass is disabled. -->
+
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -366,7 +415,8 @@ size. -->
 
 
 
-
+<!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
+     as possible. -->
 
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -389,7 +439,6 @@ size. -->
 
 
 
-<!ENTITY button_remember "یاد تہاوّن ">
 
 
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -435,10 +484,6 @@ size. -->
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 
-<!ENTITY private_browsing_title "ذاتی بروذنگ ">
-
-
-
 
 
 
@@ -459,11 +504,12 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 
-
 <!-- Mixed content notifications in site identity popup -->
 
 
+
 <!-- Tracking content notifications in site identity popup -->
+
 
 
 
@@ -524,10 +570,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      They are never shown to users -->
 
 <!-- Voice search in the awesome bar -->
-
-
-
-
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -538,3 +580,30 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
+
+<!-- DevTools Authentication -->
+<!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
+     above a QR reader that is actively scanning for QR codes.  The expected QR
+     code has already been displayed by the client trying to connect (such as
+     desktop Firefox via WebIDE), so you just need to aim this device at the QR
+     code. -->
+<!-- Restrictions -->
+<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+     a restricted profile (e.g. child). Used inside the Android settings UI. -->
+
+
+
+
+
+
+
+
+
+<!-- Default Bookmarks titles-->
+<!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
+<!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
+<!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->

@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label "کیا چُھ سینک کرُن">
 <!ENTITY sync.configure.engines.sync.my.title.label "سینک کریو پنُن…">
 <!ENTITY sync.configure.engines.title.bookmarks "بوکمارکس">
-<!ENTITY sync.configure.engines.title.passwords "پاسوڈس">
+
 <!ENTITY sync.configure.engines.title.history "ماضی">
 <!ENTITY sync.configure.engines.title.tabs "ٹیبس">
 <!-- Common text -->
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "رازداریک پرچی">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "خیرمقدم &syncBrand.shortName.label;س منز ">
-<!ENTITY fxaccount_getting_started_description "ٹیبس، بوکمارکس، پاسوءڈس تء باکی چیز سینک کرنء باپتھ کریو ساین اِن۔">
+
 <!ENTITY fxaccount_getting_started_get_started "شروع کریو">
 <!ENTITY fxaccount_getting_started_old_firefox "کیا تویہ چھو &syncBrand.shortName.label;ک پرون ورجن استمال کران؟">
 <!-- Localization note: the Firefox below should not change with the
@@ -197,6 +197,7 @@
 
 <!ENTITY fxaccount_status_header2 "فایرفوکس اکاونٹ">
 
+
 <!ENTITY fxaccount_status_auth_server "اکاونٹ سرور">
 <!ENTITY fxaccount_status_sync_now "سنک کریو ونیئ">
 <!ENTITY fxaccount_status_syncing2 "سینک چھو گسان…">
@@ -212,7 +213,7 @@
 
 <!ENTITY fxaccount_status_bookmarks "بوکمارکس">
 <!ENTITY fxaccount_status_history "ماضی">
-<!ENTITY fxaccount_status_passwords "پاسوءڈس">
+
 <!ENTITY fxaccount_status_tabs "کُھلائیو ٹیبس">
 <!ENTITY fxaccount_status_legal "قانونی" >
 <!-- Localization note: when tapped, the following two strings link to
@@ -227,6 +228,7 @@
 
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
