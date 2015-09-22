@@ -24,10 +24,7 @@
 <!ENTITY  addonExceptions.accesskey     "S">
 
 
-<!ENTITY  passwords.label               "Baatu jàll">
 
-<!ENTITY  rememberPasswords.label       "Aar baatu jàll yi">
-<!ENTITY  rememberPasswords.accesskey   "b">
 <!ENTITY  passwordExceptions.label      "Seppi yi…">
 <!ENTITY  passwordExceptions.accesskey  "S">
 
@@ -36,5 +33,4 @@
 <!ENTITY  changeMasterPassword.label     "Soppi baatu jàll bi gëna am solo…">
 <!ENTITY  changeMasterPassword.accesskey "o">
 
-<!ENTITY  savedPasswords.label            "Baati jàll yi ñi aar…">
-<!ENTITY  savedPasswords.accesskey        "B">
+
