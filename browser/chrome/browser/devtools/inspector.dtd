@@ -86,6 +86,10 @@
      shown in the inspector contextual-menu for the item that lets users see
      the DOM properties of the current node. When triggered, this item
      opens the split Console and displays the properties in its side panel. -->
+<!-- LOCALIZATION NOTE (inspectorUseInConsole.label): This is the label
+     shown in the inspector contextual-menu for the item that outputs a
+     variable for the current node to the console. When triggered,
+     this item opens the split Console. -->
 <!-- LOCALIZATION NOTE (inspectorExpandNode.label): This is the label
      shown in the inspector contextual-menu for recursively expanding
      mark-up elements -->
