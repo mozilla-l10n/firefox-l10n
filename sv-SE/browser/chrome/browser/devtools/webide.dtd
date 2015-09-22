@@ -27,6 +27,7 @@
 <!ENTITY projectMenu_manageComponents_label "Hantera extra komponenter">
 <!ENTITY projectMenu_manageComponents_accesskey "H">
 
+
 <!ENTITY runtimeMenu_label "Runtime">
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "Koppla från">
