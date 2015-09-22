@@ -17,5 +17,8 @@
 <!ENTITY cmd.open.accesskey                        "A">
 <!ENTITY cmd.removeFromHistory.label               "Pašalinti iš sąrašo">
 <!ENTITY cmd.removeFromHistory.accesskey           "š">
-<!ENTITY cmd.clearDownloads.label                  "Išvalyti atsiuntimus">
-<!ENTITY cmd.clearDownloads.accesskey              "v">
+
+
+
+
+

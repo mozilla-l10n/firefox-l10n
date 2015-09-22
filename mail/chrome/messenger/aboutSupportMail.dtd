@@ -15,5 +15,6 @@
 <!ENTITY aboutSupport.accountsConnSecurity "Saugusis ryšys">
 <!ENTITY aboutSupport.accountsAuthMethod "Tapatumo tikrinimo metodas">
 <!ENTITY aboutSupport.accountsDefault "Ar numatytoji">
+<!ENTITY aboutSupport.identityName "Tapatumo duomenys">
 
 <!ENTITY aboutSupport.sendViaEmail.label "Išsiųsti el. paštu">

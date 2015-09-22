@@ -20,16 +20,16 @@
 <!ENTITY replaceButton.accessKey "k">
 <!ENTITY replaceAllButton.label "Pakeisti visur">
 <!ENTITY replaceAllButton.accessKey "i">
-<!ENTITY stopButton.label "Stabdyti">
-<!ENTITY stopButton.accessKey "S">
+
+
 <!ENTITY userDictionary.label "Asmeninis žodynas:">
 <!ENTITY moreDictionaries.label "Atsiųsti daugiau">
 <!ENTITY addToUserDictionaryButton.label "Įtraukti žodį">
 <!ENTITY addToUserDictionaryButton.accessKey "ž">
 <!ENTITY editUserDictionaryButton.label "Taisyti…">
 <!ENTITY editUserDictionaryButton.accessKey "T">
-<!ENTITY recheckButton.label "Tikrinti iš naujo">
-<!ENTITY recheckButton.accessKey "n">
+
+
 <!ENTITY closeButton.label "Užverti">
 <!ENTITY closeButton.accessKey "U">
 <!ENTITY sendButton.label "Išsiųsti">

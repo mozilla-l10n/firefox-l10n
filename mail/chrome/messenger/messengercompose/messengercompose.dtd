@@ -215,6 +215,7 @@
 <!ENTITY addressButton.tooltip "Parinkti laiško gavėjus iš adresų knygos">
 <!ENTITY attachButton.tooltip "Pridėti priedą prie šio laiško">
 <!ENTITY spellingButton.tooltip "Tikrinti rašybą pažymėtame teksto bloke arba visame laiške">
+
 <!ENTITY saveButton.tooltip "Įrašyti šį laišką">
 <!ENTITY cutButton.tooltip              "Iškirpti">
 <!ENTITY copyButton.tooltip             "Kopijuoti">
