@@ -72,7 +72,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY notSignedIn.label           "شما وارد نشده‌اید.">
 <!ENTITY signIn.label                "ورود">
 <!ENTITY profilePicture.tooltip      "تغییرتصویر نمایه">
-<!ENTITY manage.label                "مدیریت">
+
 <!ENTITY disconnect.label            "قطع ارتباط…">
 <!ENTITY verify.label                "تایید پست‌الکترونیکی">
 <!ENTITY forget.label                "این پست‌الکترونیکی را فراموش کن">
