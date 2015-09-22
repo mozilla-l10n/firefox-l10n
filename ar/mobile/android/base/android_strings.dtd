@@ -6,15 +6,24 @@
 <!ENTITY  no_space_to_start_error "لا يوجد مساحة كافية لتشغيل &brandShortName;.">
 <!ENTITY  error_loading_file "حصل خطأ عند محاولة تحميل الملفات المطلوبة لتشغيل &brandShortName;">
 
+<!ENTITY firstrun_panel_title_welcome "مرحبا">
 <!ENTITY  onboard_start_message3 "تصفّح الوِب باستخدام &brandShortName;">
 <!ENTITY  onboard_start_subtext3 "اجعل تجربة تصفّح الوِبّ على الهاتف فريدة.">
 <!ENTITY  onboard_start_button_account "سجّل دخولك إلى &brandShortName;">
 <!ENTITY  onboard_start_button_browser "ابدأ التصفح">
+
+
 <!ENTITY  onboard_start_restricted1 "ابقَ في مأمن و أمسك بزمام الأمور بإصدارة &brandShortName; المبسّطة هذه.">
+
+
+
+
+
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
-<!ENTITY  bookmarks_title "العلامات">
+<!ENTITY  bookmarks_title "Bookmarks">
 <!ENTITY  history_title "التأريخ">
 <!ENTITY  reading_list_title "قائمة القراءة">
 <!ENTITY  recent_tabs_title "الألسنة الحديثة">
@@ -55,8 +64,9 @@
 
 <!ENTITY history_today_section "اليوم">
 <!ENTITY history_yesterday_section "أمس">
-<!ENTITY history_week_section2 "الأسبوع الماضي">
-<!ENTITY history_older_section2 "الشهر الماضي">
+
+
+
 
 <!ENTITY go "اذهب">
 <!ENTITY search "ابحث">
@@ -69,8 +79,6 @@
 <!ENTITY edit_mode_cancel "ألغِ">
 
 <!ENTITY close_tab "أغلق اللسان">
-<!ENTITY tab_audio_playing "هذا اللسان يشغّل صوتا">
-<!ENTITY tab_audio_muted "كُتم هذا اللسان">
 <!ENTITY one_tab "لسان واحد">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -81,6 +89,13 @@
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
 <!ENTITY switch_button_message "بدّل">
+<!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
+     visible in the UI, but rather used as a text-to-speech content description
+     for sight-impaired a11y users. The content description is set on a tab
+     title in a list of open tabs when content in that tab is playing audio.
+     &formatS; will be replaced with the title of the tab, as received from the
+     web page. When audio is not playing in a tab, &formatS; will be used as
+     the content description. -->
 
 <!ENTITY settings "الإعدادات">
 <!ENTITY settings_title "الإعدادات">
@@ -183,6 +198,9 @@
 <!ENTITY pref_home_updates_wifi "عبر واي فاي فقط">
 <!ENTITY pref_home_suggested_sites "اعرض اقتراحات الموقع">
 <!ENTITY pref_home_suggested_sites_summary "اعرض اختصارات للمواقع التي نعتقد أنها تثير اهتمامك في صفحة البداية">
+
+
+
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "خصّص">
@@ -238,7 +256,6 @@
 <!ENTITY pref_plugins_tap_to_play "انقر للتشغيل">
 <!ENTITY pref_plugins_disabled "مُعطّلة">
 <!ENTITY pref_text_size "حجم النص">
-<!ENTITY pref_reflow_on_zoom4 "إعادة انسياب النص">
 <!ENTITY pref_restore "الألسنة">
 <!ENTITY pref_restore_always "استعد دائمًا">
 <!ENTITY pref_restore_quit "لا تستعد بعد إغلاق &brandShortName;">
@@ -348,6 +365,7 @@ size. -->
 <!ENTITY share_title "تشارك عبر">
 <!ENTITY share_image_failed "تعّذرت مشاركة هذا الموقع">
 <!ENTITY save_as_pdf "احفظ ك‍ PDF">
+
 <!ENTITY find_in_page "ابحث في الصفحة">
 <!ENTITY desktop_mode "اطلب موقع سطح مكتب">
 <!ENTITY page "الصفحة">
@@ -367,7 +385,7 @@ size. -->
 
 <!ENTITY find_text "ابحث في الصفحة">
 <!ENTITY find_prev "السابق">
-<!ENTITY find_next "التالي">
+
 <!ENTITY find_close "أغلِق">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -392,6 +410,8 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "ثبّت الموقع">
 <!ENTITY contextmenu_top_sites_unpin "افصل الموقع">
 <!ENTITY contextmenu_add_search_engine "أضِف محرك بحث">
+
+
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
@@ -414,8 +434,6 @@ size. -->
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
-<!ENTITY pref_prevent_magnifying_glass "عطّل العدسة المكبّرة ">
-<!ENTITY pref_prevent_magnifying_glass_summary "امنع استخدام العدسة المكبرة في حل لمسات الشاشة غير الواضحة">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -474,8 +492,6 @@ size. -->
 <!ENTITY button_set "حدد">
 <!ENTITY button_clear "امسح">
 <!ENTITY button_copy "انسخ">
-
-<!ENTITY firstrun_panel_title_welcome "مرحبا">
 
 <!ENTITY home_top_sites_title "المواقع الأكثر زيارة">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -565,14 +581,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_insecure "اتصال غير آمن">
 <!-- Mixed content notifications in site identity popup -->
 
-<!ENTITY mixed_content_blocked_all "منع &brandShortName; العناصر غير الآمنة في هذه الصفحة.">
-<!ENTITY mixed_content_blocked_some "منع &brandShortName; بعض العناصر غير الآمنة في هذه الصفحة.">
-<!ENTITY mixed_content_display_loaded "في هذه الصفحة بعض العناصر غير الآمنة.">
-<!ENTITY mixed_content_protection_disabled "لقد أوقفت الحماية من العناصر غير الآمنة.">
 
-<!ENTITY loaded_mixed_content_message "تعرض هذه الصفحة محتوى غير آمن.">
-<!ENTITY blocked_mixed_content_message_top "منع &brandShortName; محتوًى غير آمن.">
-<!ENTITY blocked_mixed_content_message_bottom "ستظل أغلب المواقع تعمل جيدًا حتى بعد منع هذا المحتوى.">
+
 <!-- Tracking content notifications in site identity popup -->
 
 <!ENTITY doorhanger_tracking_title "الحماية من التعقّب">
@@ -590,7 +600,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "مُسحت البيانات الخاصة">
 <!ENTITY private_data_fail "تعذّر مسح بعض البيانات الخاصة">
 
-<!ENTITY bookmarkhistory_button_import "استورد">
 <!ENTITY bookmarkhistory_import_both "يستورد العلامات والتأريخ 
 من أندرويد">
 <!ENTITY bookmarkhistory_import_bookmarks "يستورد العلامات 
@@ -704,4 +713,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restriction_disallow_clear_history_title2 "عطّل ’امسح تأريخ التصفح‘">
 <!ENTITY restriction_disallow_master_password_title2 "عطّل كلمة السر الرئيسية">
 <!ENTITY restriction_disallow_guest_browsing_title2 "عطّل التصفح كضيف">
-
+<!-- Default Bookmarks titles-->
+<!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
+<!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
+<!ENTITY bookmarks_marketplace "متجر فَيرفُكس">
+<!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
