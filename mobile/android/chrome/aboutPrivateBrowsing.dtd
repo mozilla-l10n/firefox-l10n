@@ -13,9 +13,8 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "आप निजी ब्राउज़िंग में नहीं हैं">
 
-<!ENTITY privatebrowsingpage.description.private3 "फ़ायरफ़ॉक्स आपको ट्रैक होने से बचाएगा और कोई इतिहास याद नही करेगा, लेकिन डाउनलोडेड फाइल्स और नया पुस्तचिह्न आपके डिवाइस में सहेजा जायेगा.">
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
-     Browsing" is capitalized in English to be consistent with our existing uses
+     Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
 <!ENTITY privatebrowsingpage.description.normal2 "निजी ब्राउजिंग में, हम आपका कोई भी ब्राउज़िंग इतिहास या कूकीज नही रखेंगे. पुस्तचिह्न आप जोड़े और फाइल जो आप डाउनलोड करते है आपके डिवाइस में सहेजा जायेगा.">
 
