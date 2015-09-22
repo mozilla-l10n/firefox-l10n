@@ -62,10 +62,6 @@
   -  the button that clears the collected tracing data in the tracing tab. -->
 <!ENTITY debuggerUI.clearButton "Vymazať">
 
-<!-- LOCALIZATION NOTE (debuggerUI.clearButton.tooltip): This is the tooltip for
-  -  the button that clears the collected tracing data in the tracing tab. -->
-<!ENTITY debuggerUI.clearButton.tooltip "Vymazať zozbierané trasy">
-
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
 <!ENTITY debuggerUI.pauseExceptions     "Pozastaviť na výnimkách">
@@ -75,6 +71,10 @@
   -  checkbox that toggles ignoring caught exceptions. -->
 <!ENTITY debuggerUI.ignoreCaughtExceptions     "Ignorovať zachytené výnimky">
 <!ENTITY debuggerUI.ignoreCaughtExceptions.accesskey "I">
+
+<!-- LOCALIZATION NOTE (debuggerUI.clearButton.tooltip): This is the tooltip for
+  -  the button that clears the collected tracing data in the tracing tab. -->
+<!ENTITY debuggerUI.clearButton.tooltip "Vymazať zozbierané trasy">
 
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
   -  checkbox that toggles visibility of panes when opening the debugger. -->
