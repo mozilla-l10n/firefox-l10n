@@ -197,6 +197,7 @@
 
 <!ENTITY fxaccount_status_header2 "ಫೈರ್ಫಾಕ್ಸ್ ಖಾತೆ">
 <!ENTITY fxaccount_status_signed_in_as "ಆಗಿ ಪ್ರವೇಶಿಸಲಾಗಿದೆ">
+
 <!ENTITY fxaccount_status_auth_server "ಖಾತೆ ಸರ್ವರ್">
 <!ENTITY fxaccount_status_sync_now "ಈಗಲೆ ಸಿಂಕ್ ಮಾಡು">
 <!ENTITY fxaccount_status_syncing2 "ಸಿಂಕ್ ಮಾಡಲಾಗುತ್ತಿದೆ…">

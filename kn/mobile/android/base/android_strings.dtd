@@ -6,15 +6,23 @@
 <!ENTITY  no_space_to_start_error "&brandShortName; ಆರಂಭಿಸಲು ಸಾಕಷ್ಟು ಸ್ಥಳಾವಕಾಶ ಇಲ್ಲ.">
 <!ENTITY  error_loading_file "&brandShortName; ನ ಚಾಲನೆಗೆ ಅಗತ್ಯವಿರುವ ಕಡತಗಳನ್ನು ತುಂಬುವ ಪ್ರಯತ್ನದಲ್ಲಿ ದೋಷ ಉಂಟಾಗಿದೆ;">
 
+<!ENTITY firstrun_panel_title_welcome "ಸ್ವಾಗತ">
 <!ENTITY  onboard_start_message3 "&brandShortName; ನೊಂದಿಗೆ ವೀಕ್ಷಿಸಿ">
 <!ENTITY  onboard_start_subtext3 "ನಿಮ್ಮ ಮೊಬೈಲ್ ಜಾಲ ವೀಕ್ಷಣೆಯ ಅನುಭವವನ್ನು ನೈಜವಾಗಿ ನಿಮ್ಮ ಸ್ವಂತದ್ದಾಗಿಸಿಕೊಳ್ಳಿ.">
 <!ENTITY  onboard_start_button_account "&brandShortName; ಗೆ ಲಾಗಿನ್ ಮಾಡಿ">
 <!ENTITY  onboard_start_button_browser "ಅಂತರ್ಜಾಲದ ವೀಕ್ಷಣೆಯನ್ನು ಪ್ರಾರಂಭಿಸಿ">
 
+
+
+<!ENTITY firstrun_import_message "&brandShortName; ಗೆ ಸ್ವಾಗತ">
+
+
+
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
-<!ENTITY  bookmarks_title "ಬುಕ್‌ಮಾರ್ಕುಗಳು">
+<!ENTITY  bookmarks_title "Bookmarks">
 <!ENTITY  history_title "ಇತಿಹಾಸ">
 <!ENTITY  reading_list_title "ಓದಬೇಕಿರುವ ಪಟ್ಟಿ">
 <!ENTITY  recent_tabs_title "ಇತ್ತೀಚಿನ ಹಾಳೆಗಳು">
@@ -55,8 +63,9 @@
 
 <!ENTITY history_today_section "ಇಂದು">
 <!ENTITY history_yesterday_section "ನಿನ್ನೆ">
-<!ENTITY history_week_section2 "ಹಿಂದಿನ ವಾರ">
-<!ENTITY history_older_section2 "ಹಿಂದಿನ ತಿಂಗಳು">
+
+
+
 
 <!ENTITY go "ಹೋಗು">
 <!ENTITY search "ಹುಡುಕು">
@@ -69,8 +78,6 @@
 <!ENTITY edit_mode_cancel "ರದ್ದು ಮಾಡು">
 
 <!ENTITY close_tab "ಟ್ಯಾಬ್‌ ಅನ್ನು ಮುಚ್ಚು">
-
-
 <!ENTITY one_tab "1 ಟ್ಯಾಬ್">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -81,6 +88,13 @@
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
 <!ENTITY switch_button_message "SWITCH">
+<!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
+     visible in the UI, but rather used as a text-to-speech content description
+     for sight-impaired a11y users. The content description is set on a tab
+     title in a list of open tabs when content in that tab is playing audio.
+     &formatS; will be replaced with the title of the tab, as received from the
+     web page. When audio is not playing in a tab, &formatS; will be used as
+     the content description. -->
 
 <!ENTITY settings "ಸಿದ್ಧತೆಗಳು">
 <!ENTITY settings_title "ಸಿದ್ಧತೆಗಳು">
@@ -182,6 +196,9 @@
 <!ENTITY pref_home_updates_wifi "ವೈ-ಫೈ ಜೊತೆಗೆ ಮಾತ್ರ">
 <!ENTITY pref_home_suggested_sites "ತಾಣ ಸಲಹೆಗಳನ್ನು ತೋರಿಸು">
 <!ENTITY pref_home_suggested_sites_summary "ನಿಮ್ಮ ಮುಖಪುಟದಲ್ಲಿ ನಾವು ನಿಮಗೆ ಕುತೂಹಲಕಾರಿ ಎನಿಸುವ ತಾಣಗಳ ಕೊಂಡಿಗಳನ್ನು ಪ್ರದರ್ಶಿಸಿ">
+
+
+
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "ಇಚ್ಛೆಗೆ ತಕ್ಕಂತೆ ಬದಲಾಯಿಸು">
@@ -236,7 +253,6 @@
 <!ENTITY pref_plugins_tap_to_play "ಆಡಲು ಮೆಲ್ಲಗೆ ತಟ್ಟಿ">
 <!ENTITY pref_plugins_disabled "ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ">
 <!ENTITY pref_text_size "ಪಠ್ಯದ ಗಾತ್ರ">
-<!ENTITY pref_reflow_on_zoom4 "ಪಠ್ಯದ ಮರುಹರಿವು">
 <!ENTITY pref_restore "ಟ್ಯಾಬ್‌ಗಳು">
 <!ENTITY pref_restore_always "ಯಾವಾಗಲೂ ಮರುಸ್ಥಾಪಿಸು">
 <!ENTITY pref_restore_quit "&brandShortName; ನಿಂದ ಆಚೆ ಬಂದಾಗ, ರಿಸ್ಟೋರ್ ಮಾಡಬೇಡಿ">
@@ -346,6 +362,7 @@ size. -->
 <!ENTITY share_title "ಇವುಗಳ ಮೂಲಕ ಹಂಚು">
 <!ENTITY share_image_failed "ಈ ಚಿತ್ರವನ್ನು ಹಂಚಿಕೊಳ್ಳಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ">
 <!ENTITY save_as_pdf "PDF ನಂತೆ ಉಳಿಸಿ">
+
 <!ENTITY find_in_page "ಪುಟದಲ್ಲಿ ಹುಡುಕು">
 <!ENTITY desktop_mode "ಡೆಸ್ಕ್‌ಟಾಪ್ ತಾಣವನ್ನು ಕೇಳಿ">
 <!ENTITY page "ಪುಟ">
@@ -365,7 +382,7 @@ size. -->
 
 <!ENTITY find_text "ಪುಟದಲ್ಲಿ ಹುಡುಕು">
 <!ENTITY find_prev "ಹಿಂದಿನ">
-<!ENTITY find_next "ಮುಂದೆ">
+
 <!ENTITY find_close "ಮುಚ್ಚು">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -390,6 +407,8 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "ತಾಣವನ್ನು ಹಿಡಿದಿಡು">
 <!ENTITY contextmenu_top_sites_unpin "ತಾಣವನ್ನು ಬಿಡುಗಡೆಗೊಳಿಸು">
 <!ENTITY contextmenu_add_search_engine "ಹುಡುಕು ಸಾಧನವನ್ನು ಸೇರಿಸಿ">
+
+
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
@@ -468,8 +487,6 @@ size. -->
 <!ENTITY button_set "ನಿಶ್ಚಯಿಸು">
 <!ENTITY button_clear "ಅಳಿಸು">
 <!ENTITY button_copy "ಪ್ರತಿ ಮಾಡು">
-
-<!ENTITY firstrun_panel_title_welcome "ಸ್ವಾಗತ">
 
 <!ENTITY home_top_sites_title "ಪ್ರಮುಖ ತಾಣಗಳು">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -560,10 +577,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
-
-<!ENTITY loaded_mixed_content_message "ಈ ಪುಟವು ಸುರಕ್ಷಿತವಲ್ಲದ ಮಾಹಿತಿಯನ್ನು ಪ್ರದರ್ಶಿಸುತ್ತಿದೆ.">
-<!ENTITY blocked_mixed_content_message_top "&brandShortName; ವು ಸುರಕ್ಷಿತವಲ್ಲದ ವಿಷಯವನ್ನು ನಿರ್ಬಂಧಿಸಿದೆ.">
-<!ENTITY blocked_mixed_content_message_bottom "ಈ ವಿಷಯವನ್ನು ನಿರ್ಬಂಧಿಸಿದ್ದರೂ ಸಹ ಹೆಚ್ಚಿನ ಜಾಲತಾಣಗಳು ಸರಿಯಾಗಿ ಕೆಲಸ ಮಾಡುತ್ತವೆ.">
 <!-- Tracking content notifications in site identity popup -->
 
 
@@ -579,7 +592,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "ಖಾಸಗಿ ದತ್ತಾಂಶವನ್ನು ತೆಗೆದುಹಾಕಲಾಗಿದೆ">
 <!ENTITY private_data_fail "ಕೆಲವು ಖಾಸಗಿ ದತ್ತಾಂಶಗಳನ್ನು ಅಳಿಸಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ">
 
-<!ENTITY bookmarkhistory_button_import "ಆಮದು">
 <!ENTITY bookmarkhistory_import_both "ಪುಟಗುರುತುಗಳು ಮತ್ತು ಇತಿಹಾಸವನ್ನು ಆಂಡ್ರಾಯ್ಡ್‌ನಿಂದ 
 ಆಮದು ಮಾಡಲಾಗುತ್ತಿದೆ">
 <!ENTITY bookmarkhistory_import_bookmarks "ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳನ್ನು ಆಮದುಮಾಡಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ 
@@ -689,4 +701,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
-
+<!-- Default Bookmarks titles-->
+<!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
+<!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
+<!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
