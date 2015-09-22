@@ -8,9 +8,14 @@
                         So the final line will say "Private Browsing + Tracking Protection". -->
 
 <!ENTITY privatebrowsingpage.title.private "+ سراغ کاری حفاظت">
+<!-- Localization note (privatebrowsingpage.title.normal1): "Private Browsing"
+     is capitalized in English to be consistent with our existing uses of the
+     term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "آپ نجی براؤزنگ میں نہیں ہیں">
 
-
+<!-- Localization note (privatebrowsingpage.description.normal2): "Private
+     Browsing is capitalized in English to be consistent with our existing uses
+     of the term. -->
 
 <!ENTITY privatebrowsingpage.link.private "مزید سیکھیں گے؟">
 <!ENTITY privatebrowsingpage.link.normal "نیا نجی ٹیب کھولیں">

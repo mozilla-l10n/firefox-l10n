@@ -197,6 +197,7 @@
 
 <!ENTITY fxaccount_status_header2 "فائر فاکس اکاؤنٹ">
 <!ENTITY fxaccount_status_signed_in_as "سائن ان بطور">
+
 <!ENTITY fxaccount_status_auth_server "اکاؤنٹ پیش کار">
 <!ENTITY fxaccount_status_sync_now "ابھی ہمہ وار کریں">
 <!ENTITY fxaccount_status_syncing2 "ہمو وار کر رہا ہے…">

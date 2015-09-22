@@ -6,15 +6,24 @@
 <!ENTITY  no_space_to_start_error "&brandShortName; شروع کرنے کے لئے کافی جگہ دستیاب نہیں ہے۔">
 <!ENTITY  error_loading_file "&brandShortName; چلانے کے لئے ضروری مسلیں کو لوڈ کرنے کی کوشش کرتے وقت ایک خامی پیش آگئی">
 
+<!ENTITY firstrun_panel_title_welcome "خوش آمدید">
 <!ENTITY  onboard_start_message3 "&brandShortName; کے ساتھ براؤز کریں">
 <!ENTITY  onboard_start_subtext3 "اپنے موبائل براؤزنگ تجربے کو واقعی اپنا بنائیں۔">
 <!ENTITY  onboard_start_button_account "&brandShortName; میں سائن ان کریں">
 <!ENTITY  onboard_start_button_browser "براؤزنگ شروع کریں">
+
+
 <!ENTITY  onboard_start_restricted1 "&brandShortName; کی اس سادہ کردہ ورژن کے ساتھ محفوظ رہیں اور کنٹرول اپنے ہاتھ میں رکھیں۔">
+
+<!ENTITY firstrun_import_message "&brandShortName; میں خوش آمدید">
+
+
+
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
-<!ENTITY  bookmarks_title "نشانیاں">
+<!ENTITY  bookmarks_title "Bookmarks">
 <!ENTITY  history_title "سابقات">
 <!ENTITY  reading_list_title "پڑھنے کی فہرست">
 <!ENTITY  recent_tabs_title "حالیہ ٹیب">
@@ -55,8 +64,9 @@
 
 <!ENTITY history_today_section "آج">
 <!ENTITY history_yesterday_section "کل">
-<!ENTITY history_week_section2 "پچھلا ہفتہ">
-<!ENTITY history_older_section2 "پچھلا مہینہ">
+
+
+
 
 <!ENTITY go "جائیں">
 <!ENTITY search "تلاش کریں">
@@ -69,8 +79,6 @@
 <!ENTITY edit_mode_cancel "منسوخ کریں">
 
 <!ENTITY close_tab "ٹیب بند کردیں">
-<!ENTITY tab_audio_playing "یہ ٹیب آڈیو چلا رہا ہے">
-<!ENTITY tab_audio_muted "یہ ٹیب خاموش کر دیا گیا ہے">
 <!ENTITY one_tab "1 ٹیب">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -81,6 +89,13 @@
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
 <!ENTITY switch_button_message "SWITCH">
+<!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
+     visible in the UI, but rather used as a text-to-speech content description
+     for sight-impaired a11y users. The content description is set on a tab
+     title in a list of open tabs when content in that tab is playing audio.
+     &formatS; will be replaced with the title of the tab, as received from the
+     web page. When audio is not playing in a tab, &formatS; will be used as
+     the content description. -->
 
 <!ENTITY settings "سیٹنگیں">
 <!ENTITY settings_title "سیٹنگیں">
@@ -182,6 +197,9 @@
 <!ENTITY pref_home_updates_wifi "صرف بعظریہ وائی فائی">
 <!ENTITY pref_home_suggested_sites "سائٹ تجاویز دکھائیں">
 <!ENTITY pref_home_suggested_sites_summary "ان سائٹوں کی تیز راہیں دکھائیں جو ہمارے حساب سے آپ کو پسند آئیں گیں">
+
+
+
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "تخصیص کریں">
@@ -237,7 +255,6 @@
 <!ENTITY pref_plugins_tap_to_play "چلانے کے لیے کلک کریں">
 <!ENTITY pref_plugins_disabled "نا اہل">
 <!ENTITY pref_text_size "متن سائز">
-<!ENTITY pref_reflow_on_zoom4 "متن بازروانی">
 <!ENTITY pref_restore "ٹیب">
 <!ENTITY pref_restore_always "ہمیشہ بحال کریں">
 <!ENTITY pref_restore_quit "&brandShortName; کو بند کرنے کے بعد بحال نا کریں">
@@ -347,6 +364,7 @@ size. -->
 <!ENTITY share_title "شیئر کریں بذریعہ">
 <!ENTITY share_image_failed "یہ نقش شیئر کرنے میں ناکام">
 <!ENTITY save_as_pdf "بطور PDF محفوظ کریں">
+
 <!ENTITY find_in_page "صفحہ میں ڈھونڈیں">
 <!ENTITY desktop_mode "ڈیسک ٹاپ سائٹ کی فرمائش کریں">
 <!ENTITY page "صفحہ">
@@ -366,7 +384,7 @@ size. -->
 
 <!ENTITY find_text "صفحے میں ڈھونڈیں">
 <!ENTITY find_prev "پچھلا">
-<!ENTITY find_next "اگلا">
+
 <!ENTITY find_close "بند کریں">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -391,6 +409,8 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "سائٹ پنپن کریں">
 <!ENTITY contextmenu_top_sites_unpin "سائٹ کو اتاریں">
 <!ENTITY contextmenu_add_search_engine "تلاش انجن اضافہ کریں">
+
+
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
@@ -412,8 +432,6 @@ size. -->
 <!ENTITY pref_titlebar_mode_url "صفحہ کا پتہ دکھائیں">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
-
-<!ENTITY pref_prevent_magnifying_glass "بڑا کرنے ولا شیشا نااہل بنائیں  ">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
@@ -471,8 +489,6 @@ size. -->
 <!ENTITY button_set "سیٹ کریں">
 <!ENTITY button_clear "صاف کریں">
 <!ENTITY button_copy "نقل کریں">
-
-<!ENTITY firstrun_panel_title_welcome "خوش آمدید">
 
 <!ENTITY home_top_sites_title "بہترین سائٹیں">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -562,14 +578,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_insecure "ناقابل بھروسا کنکشن">
 <!-- Mixed content notifications in site identity popup -->
 
-<!ENTITY mixed_content_blocked_all "&brandShortName; نے اس صفحے پر ناقابل بھروسا عناصر بلاک کر دیے ہیں۔">
-<!ENTITY mixed_content_blocked_some "&brandShortName; نے اس صفحے پر کچھ ناقابل بھروسا عناصر بلاک کر دیے ہیں۔ ">
-<!ENTITY mixed_content_display_loaded "اس صفحہصفحے پر کچھ ناقابل بھروسا عناصر ہیں۔">
 
 
-<!ENTITY loaded_mixed_content_message "یہ صفحہ مواد دکھا رہا ہے جو قابل بھروسا نہیں ہے۔">
-<!ENTITY blocked_mixed_content_message_top "&brandShortName; نے ناقابل بھروسا مواد بلاک کر دیا ہے۔">
-<!ENTITY blocked_mixed_content_message_bottom "اس مواد کے بلاک ہونے کے باوجود زیادہ تر ویب سائٹ ٹھیک چلیں گی۔">
 <!-- Tracking content notifications in site identity popup -->
 
 
@@ -585,7 +595,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "نجی کوائف ہٹا دیئے گئے">
 <!ENTITY private_data_fail "کچھ نجی کوائف ہٹائے نہیں جا سکے">
 
-<!ENTITY bookmarkhistory_button_import "درآمد کریں">
 <!ENTITY bookmarkhistory_import_both "اینڈروائڈ سے نشانیاں اور سابقات  
  درآمد کر رہا ہے">
 <!ENTITY bookmarkhistory_import_bookmarks "اینڈروائڈ سے نشانیاں 
@@ -695,4 +704,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
-
+<!-- Default Bookmarks titles-->
+<!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
+<!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
+<!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
