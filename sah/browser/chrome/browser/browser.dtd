@@ -115,9 +115,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
-
-
 <!ENTITY fullScreenMinimize.tooltip "Кыччат">
 <!ENTITY fullScreenRestore.tooltip "Хат улаатыннар">
 
@@ -125,8 +122,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "Ү">
 <!ENTITY fullScreenExit.label "Толору экраантан таҕыс">
 <!ENTITY fullScreenExit.accesskey "э">
+<!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
+     fullscreenWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring fullscreen.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
 
-<!ENTITY fullscreenExitHint2.value "ESC тимэҕи баттаан хаһан баҕарар тахсыаххын сөп.">
+<!ENTITY fullscreenWarning.beforeDomain.label "">
+
+
+<!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
+     exitDOMFullscreenMac.button): the "escape" button on PC keyboards
+     is uppercase, while on Mac keyboards it is lowercase -->
+
 <!ENTITY leaveDOMFullScreen.label "Толору экраантан таҕыс">
 <!ENTITY leaveDOMFullScreen.accesskey "э">
 
@@ -208,7 +216,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "Хачайдааһыннар">
 <!ENTITY downloads.accesskey          "Х">
 <!ENTITY downloads.commandkey         "j">
-<!ENTITY downloadsUnix.commandkey     "y">
+
 <!ENTITY addons.label                 "Эбиискэлэр">
 <!ENTITY addons.accesskey             "Э">
 <!ENTITY addons.commandkey            "A">
@@ -381,8 +389,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.switchToTab.label     "Кыбытыгы арый:">
 
 
+
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Суох">
+
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Сөп">
+
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -429,6 +440,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
+
+
+
+
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -664,6 +679,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
 <!-- Strings for connection state warnings. -->
 
 
@@ -684,7 +700,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
 <!ENTITY identity.permissions "Көҥүллээһин">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -695,8 +713,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
-<!ENTITY syncSetup.label              "&syncBrand.shortName.label; туруоруулара…">
-<!ENTITY syncSetup.accesskey          "Y">
+
 <!ENTITY syncSyncNowItem.label        "Синхроннаа">
 <!ENTITY syncSyncNowItem.accesskey    "С">
 

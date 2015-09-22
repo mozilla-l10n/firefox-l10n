@@ -24,10 +24,7 @@
 <!ENTITY  addonExceptions.accesskey     "у">
 
 
-<!ENTITY  passwords.label               "Киирии тыллар">
 
-<!ENTITY  rememberPasswords.label       "Ситим-сирдэр киирии тылларын өйдөөн хааларга">
-<!ENTITY  rememberPasswords.accesskey   "д">
 <!ENTITY  passwordExceptions.label      "Туорааһыннар...">
 <!ENTITY  passwordExceptions.accesskey  "у">
 
@@ -36,5 +33,4 @@
 <!ENTITY  changeMasterPassword.label     "Маастар киирии тылы уларытарга…">
 <!ENTITY  changeMasterPassword.accesskey "М">
 
-<!ENTITY  savedPasswords.label            "Долоҕойго хатаммыт киирии тыллар…">
-<!ENTITY  savedPasswords.accesskey        "к">
+
