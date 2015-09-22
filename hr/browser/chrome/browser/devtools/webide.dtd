@@ -27,6 +27,7 @@
 <!ENTITY projectMenu_manageComponents_label "Upravljanje dodatnim komponentama">
 <!ENTITY projectMenu_manageComponents_accesskey "M">
 
+
 <!ENTITY runtimeMenu_label "Runtime">
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "Prekini vezu">
