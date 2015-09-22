@@ -131,12 +131,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY fullscreenWarning.beforeDomain.label "">
-
-
+<!ENTITY fullscreenWarning.afterDomain.label "är nu i helskärm">
+<!ENTITY fullscreenWarning.generic.label "Detta dokument är nu i helskärm">
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
-
+<!ENTITY exitDOMFullscreen.button "Avsluta helskärm (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "Avsluta helskärm (esc)">
 <!ENTITY leaveDOMFullScreen.label "Avsluta helskärm">
 <!ENTITY leaveDOMFullScreen.accesskey "h">
 
@@ -466,7 +467,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Ändra sökinställningar">
 
-
+<!ENTITY searchInNewTab.label         "Sök i ny flik">
+<!ENTITY searchInNewTab.accesskey     "f">
 
 
 
