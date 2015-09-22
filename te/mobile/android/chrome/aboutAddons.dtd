@@ -10,3 +10,5 @@
 <!ENTITY addonAction.disable                    "అచేతనంచేయి">
 <!ENTITY addonAction.uninstall                  "నిర్మూలించు">
 <!ENTITY addonAction.undo                       "చేయవద్దు">
+
+<!ENTITY addonUnsigned.learnMore                "మరింత తెలుసుకోండి">
