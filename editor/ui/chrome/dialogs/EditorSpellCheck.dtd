@@ -20,16 +20,16 @@
 <!ENTITY replaceButton.accessKey "З">
 <!ENTITY replaceAllButton.label "Замяна на всички">
 <!ENTITY replaceAllButton.accessKey "в">
-<!ENTITY stopButton.label "Стоп">
-<!ENTITY stopButton.accessKey "т">
+
+
 <!ENTITY userDictionary.label "Личен речник:">
 <!ENTITY moreDictionaries.label "Изтегляне на още речници…">
 <!ENTITY addToUserDictionaryButton.label "Добавяне">
 <!ENTITY addToUserDictionaryButton.accessKey "Д">
 <!ENTITY editUserDictionaryButton.label "Промяна…">
 <!ENTITY editUserDictionaryButton.accessKey "м">
-<!ENTITY recheckButton.label "Проверка">
-<!ENTITY recheckButton.accessKey "к">
+
+
 <!ENTITY closeButton.label "Затваряне">
 <!ENTITY closeButton.accessKey "н">
 <!ENTITY sendButton.label "Изпращане">

@@ -5,7 +5,7 @@
 <!ENTITY itemJunk.label          "Нежелана поща">
 <!ENTITY itemPhishing.label      "Лъжлива поща">
 <!ENTITY itemPasswords.label     "Пароли">
-<!ENTITY itemAntiVirus.label     "Антивирус">
+
 <!-- Junk Mail Controls -->
 
 <!ENTITY junkMail.intro "Установете началните настройки за нежеланите писма. Специфичните за всяка регистрация настройки могат да се направят в Настройки на регистрацията.">
@@ -42,7 +42,5 @@
 <!ENTITY savedPasswords.accesskey       "З">
 <!-- Anti Virus -->
 
-<!ENTITY antiVirus.intro      "&brandShortName; може да улесни антивирусните програми да да анализират получените писма за вируси, преди да бъдат съхранени в компютъра.">
-<!ENTITY antiVirus.label      "Разрешаване на антивирусните програми да поставят под карантина получаваните писма">
-<!ENTITY antiVirus.accesskey  "Р">
+
 

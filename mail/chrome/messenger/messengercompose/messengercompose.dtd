@@ -215,6 +215,7 @@
 <!ENTITY addressButton.tooltip "Изберете получател от адресника">
 <!ENTITY attachButton.tooltip "Закачане на притурка">
 <!ENTITY spellingButton.tooltip "Правописна проверка на маркировката или цялото писмо">
+
 <!ENTITY saveButton.tooltip "Запис на писмото">
 <!ENTITY cutButton.tooltip              "Изрязване">
 <!ENTITY copyButton.tooltip             "Копиране">
