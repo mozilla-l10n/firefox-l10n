@@ -6,15 +6,24 @@
 <!ENTITY  no_space_to_start_error "&brandShortName; আরম্ভ করার জন্যে পর্যাপ্ত পরিমান জায়গা নেই।">
 <!ENTITY  error_loading_file "&brandShortName; চালাতে প্রয়োজনীয় ফাইল লোড করার সময় ত্রুটি ঘটেছে">
 
+<!ENTITY firstrun_panel_title_welcome "স্বাগতম">
 <!ENTITY  onboard_start_message3 "&brandShortName;-এর সাথে ব্রাউজ করুন">
 <!ENTITY  onboard_start_subtext3 "ওয়েব ব্রাউজিং করার অভিজ্ঞতা যথাযথ ভাবে আপনার নিজের মত করে করুন।">
 <!ENTITY  onboard_start_button_account "&brandShortName; এ সাইন ইন করুন">
 <!ENTITY  onboard_start_button_browser "ব্রাউজিং শুরু করুন">
+
+
 <!ENTITY  onboard_start_restricted1 "&brandShortName; এর সরলীকৃত সংস্করণের সাথে নিরাপদ ও নিয়ন্ত্রণে থাকুন।">
+
+
+
+
+
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
-<!ENTITY  bookmarks_title "বুকমার্কসমুহ">
+<!ENTITY  bookmarks_title "Bookmarks">
 <!ENTITY  history_title "ইতিহাস">
 <!ENTITY  reading_list_title "পড়ার তালিকা">
 <!ENTITY  recent_tabs_title "সাম্প্রতিক ট্যাবগুলি">
@@ -55,8 +64,9 @@
 
 <!ENTITY history_today_section "আজ">
 <!ENTITY history_yesterday_section "গতকাল">
-<!ENTITY history_week_section2 "গত সপ্তাহে">
-<!ENTITY history_older_section2 "গত মাসে">
+
+
+
 
 <!ENTITY go "যান">
 <!ENTITY search "খুঁজুন">
@@ -69,8 +79,6 @@
 <!ENTITY edit_mode_cancel "বাতিল করুন">
 
 <!ENTITY close_tab "ট্যাব বন্ধ করুন">
-<!ENTITY tab_audio_playing "এই ট্যাবে অডিও চলছে">
-<!ENTITY tab_audio_muted "এই ট্যাবটি নীরব রয়েছে">
 <!ENTITY one_tab "১ ট্যাব">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -81,6 +89,13 @@
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
 <!ENTITY switch_button_message "SWITCH">
+<!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
+     visible in the UI, but rather used as a text-to-speech content description
+     for sight-impaired a11y users. The content description is set on a tab
+     title in a list of open tabs when content in that tab is playing audio.
+     &formatS; will be replaced with the title of the tab, as received from the
+     web page. When audio is not playing in a tab, &formatS; will be used as
+     the content description. -->
 
 <!ENTITY settings "সেটিংসমূহ">
 <!ENTITY settings_title "সেটিংসমূহ">
@@ -182,6 +197,9 @@
 <!ENTITY pref_home_updates_wifi "শুধু ওয়াইফাই নির্ভর">
 <!ENTITY pref_home_suggested_sites "সাইট পরামর্শ দেখাও">
 <!ENTITY pref_home_suggested_sites_summary "আপনার হোমপেজে কিছু সাইটের শর্টকাট যুক্ত করে দেওয়া হল যেগুলো আপনার পছন্দ হতে পারে।">
+
+
+
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "কাস্টমাইজ">
@@ -237,7 +255,6 @@
 <!ENTITY pref_plugins_tap_to_play "প্লে করতে ট্যাপ করুন">
 <!ENTITY pref_plugins_disabled "নিষ্ক্রিয়">
 <!ENTITY pref_text_size "টেক্সটের আকার">
-<!ENTITY pref_reflow_on_zoom4 "টেক্সট রি-ফ্লো">
 <!ENTITY pref_restore "ট্যাব">
 <!ENTITY pref_restore_always "সবসময় রিস্টোর করুন">
 <!ENTITY pref_restore_quit "প্রস্থান করার পর রিস্টোর করা হবে না &brandShortName;">
@@ -347,6 +364,7 @@ size. -->
 <!ENTITY share_title "শেয়ারের মাধ্যম">
 <!ENTITY share_image_failed "এই ছবি শেয়ার করতে অক্ষম">
 <!ENTITY save_as_pdf "পিডিএফ হিসেবে সংরক্ষণ করুন">
+
 <!ENTITY find_in_page "পৃষ্ঠায় খুঁজুন">
 <!ENTITY desktop_mode "ডেস্কটপ সাইটের অনুরোধ">
 <!ENTITY page "পেজ">
@@ -366,7 +384,7 @@ size. -->
 
 <!ENTITY find_text "পৃষ্ঠায় খুঁজুন">
 <!ENTITY find_prev "পূর্ববর্তী">
-<!ENTITY find_next "পরবর্তী">
+
 <!ENTITY find_close "বন্ধ">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -391,6 +409,8 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "সাইট পিন করুন">
 <!ENTITY contextmenu_top_sites_unpin "সাইট আনপিন করুন">
 <!ENTITY contextmenu_add_search_engine "একটি সার্চ ইঞ্জিন যোগ করুন">
+
+
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
@@ -413,8 +433,6 @@ size. -->
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
-<!ENTITY pref_prevent_magnifying_glass "ম্যাগনিফাইং গ্লাস নিস্ক্রিয় করুন">
-<!ENTITY pref_prevent_magnifying_glass_summary "সন্দেহজনক স্ক্রিন টাচ সমাধানে ম্যাগনিগাইং গ্লাস প্রতিরোধ করুন">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -473,8 +491,6 @@ size. -->
 <!ENTITY button_set "নির্ধারণ করুন">
 <!ENTITY button_clear "মুছুন">
 <!ENTITY button_copy "অনুলিপি">
-
-<!ENTITY firstrun_panel_title_welcome "স্বাগতম">
 
 <!ENTITY home_top_sites_title "শীর্ষ সাইট">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -564,14 +580,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_insecure "নিরাপত্তাহীন সংযোগ">
 <!-- Mixed content notifications in site identity popup -->
 
-<!ENTITY mixed_content_blocked_all "&brandShortName; এই পাতায় নিরাপত্তাহীন উপাদান ব্লক করা হয়েছে।">
-<!ENTITY mixed_content_blocked_some "&brandShortName; এই পাতায় কিছু নিরাপত্তাহীন উপাদান ব্লক করা হয়েছে।">
-<!ENTITY mixed_content_display_loaded "এই পাতায় নিরাপত্তাহীন উপাদান রয়েছে।">
-<!ENTITY mixed_content_protection_disabled "অনিরাপদ উপাদান থেকে সুরক্ষা আপনি নিষ্ক্রিয় করে রেখেছেন।">
 
-<!ENTITY loaded_mixed_content_message "এই পৃষ্ঠাটি এমন কন্টেন্ট প্রদর্শন করছে যা সুরক্ষিত নয়।">
-<!ENTITY blocked_mixed_content_message_top "&brandShortName; বিপজ্জনক সামগ্রী প্রতিরোধ করেছে।">
-<!ENTITY blocked_mixed_content_message_bottom "এই বিষয়বস্তু আটকানো থাকা সত্বেও অধিকাংশ ওয়েবসাইট সঠিকভাবে কাজ করবে।">
+
 <!-- Tracking content notifications in site identity popup -->
 
 <!ENTITY doorhanger_tracking_title "ট্র্যাকিং সুরক্ষা">
@@ -589,7 +599,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "ব্যক্তিগত তথ্য পরিষ্কার করা হয়েছে">
 <!ENTITY private_data_fail "কিছু ব্যক্তিগত তথ্য পরিষ্কার করা যায়নি">
 
-<!ENTITY bookmarkhistory_button_import "ইম্পোর্ট করুন">
 <!ENTITY bookmarkhistory_import_both "এন্ড্রয়েড থেকে বুকমার্ক এবং ইতিহাস (r)
 ইম্পোর্ট করুন">
 <!ENTITY bookmarkhistory_import_bookmarks "এন্ড্রয়েড থেকে বুকমার্ক 
@@ -703,4 +712,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restriction_disallow_clear_history_title2 "\u0027ব্রাউজিং ইতিহাস মুছে ফেলুন\u0027 নিষ্ক্রিয় করুন">
 <!ENTITY restriction_disallow_master_password_title2 "মাস্টার পাসওয়ার্ড নিষ্ক্রিয় করুন">
 <!ENTITY restriction_disallow_guest_browsing_title2 "অতিথি ব্রাউজিং নিষ্ক্রিয় করুন">
-
+<!-- Default Bookmarks titles-->
+<!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
+<!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
+<!ENTITY bookmarks_marketplace "ফায়ারফক্স মার্কেটপ্লেস">
+<!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
