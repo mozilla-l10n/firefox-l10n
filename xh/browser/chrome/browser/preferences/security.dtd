@@ -24,10 +24,7 @@
 <!ENTITY  addonExceptions.accesskey     "I">
 
 
-<!ENTITY  passwords.label               "Iipasiwedi">
 
-<!ENTITY  rememberPasswords.label       "Khumbula iipasiwedi zeesayithi">
-<!ENTITY  rememberPasswords.accesskey   "K">
 <!ENTITY  passwordExceptions.label      "Izinxaxhi…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
@@ -36,5 +33,4 @@
 <!ENTITY  changeMasterPassword.label     "Guqula iPhaswedi eyiMasta…">
 <!ENTITY  changeMasterPassword.accesskey "P">
 
-<!ENTITY  savedPasswords.label            "Amagama Okugqithisa Agciniweyo…">
-<!ENTITY  savedPasswords.accesskey        "O">
+

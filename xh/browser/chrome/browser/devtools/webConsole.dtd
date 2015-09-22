@@ -7,23 +7,6 @@
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
 <!ENTITY browserConsole.title "Ikhonsoli Yebhrawuza">
-
-<!ENTITY networkPanel.requestURLColon             "Cela i-URL:">
-
-
-
-
-
-
-
-<!ENTITY networkPanel.responseHeaders             "Impendulo yombhalo ophezulu ephepheni">
-
-
-
-
-
-
-
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
 
@@ -58,11 +41,20 @@
   -  console.error(). -->
 
 
-<!ENTITY btnConsoleErrors       "Iimposiso">
+
 
 
 
 <!ENTITY btnConsoleXhr          "XHR">
+
+<!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
+  -  the toolbar. It shows or hides messages that the web developer inserted on
+  -  the page for debugging purposes, using calls on the HTTP server. -->
+
+
+
+
+
 
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
