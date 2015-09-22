@@ -6,16 +6,16 @@
 <!ENTITY pref.locationBar.title                "Címmező">
 
 <!ENTITY autoComplete.label                    "Automatikus kiegészítés">
-<!ENTITY enableAutoComplete.label              "Automatikus kiegészítés az előzményekből beíráskor">
-<!ENTITY enableAutoComplete.accesskey          "A">
+
+
+
+
 <!ENTITY autoCompleteAutoFill.label            "Automatikus kiegészítés beírás közben">
 <!ENTITY autoCompleteAutoFill.accesskey        "u">
 <!ENTITY autoCompleteShowPopup.label           "Lehetséges címek megjelenítése">
 <!ENTITY autoCompleteShowPopup.accesskey       "L">
 <!ENTITY autoCompleteMatchOnlyTyped.label      "Csak az előzőleg begépelt webhelyek megjelenítése">
 <!ENTITY autoCompleteMatchOnlyTyped.accesskey  "C">
-<!ENTITY autoCompleteMatchOnlyURLs.label       "Egyezés a webhely helyével, a weboldal címének figyelmen kívül hagyásával">
-<!ENTITY autoCompleteMatchOnlyURLs.accesskey   "n">
 <!--LOCALIZATION NOTE (autoCompleteMatch.label): This is the common leading
   part of the menulist items listed below, mainly to make the control available
   via the accesskey

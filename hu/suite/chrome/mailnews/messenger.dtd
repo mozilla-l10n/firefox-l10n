@@ -114,8 +114,8 @@
 
 <!ENTITY showMessengerToolbarCmd.label "Levelező eszköztár">
 <!ENTITY showMessengerToolbarCmd.accesskey "L">
-<!ENTITY showSearchToolbarCmd.label "Keresősáv">
-<!ENTITY showSearchToolbarCmd.accesskey "K">
+
+
 <!ENTITY showTabsToolbarCmd.label "Lapok eszköztár">
 <!ENTITY showTabsToolbarCmd.accesskey "t">
 
@@ -444,6 +444,10 @@
 <!ENTITY throbber.tooltip "Ugrás a &vendorShortName; honlapjára">
 <!ENTITY junkButton.tooltip "A kijelölt üzenetek megjelölése szemétként">
 <!ENTITY notJunkButton.tooltip "A kijelölt üzenetek megjelölése nem szemétként">
+<!-- Remote Content Button Popup -->
+
+
+
 <!-- Statusbar -->
 
 <!ENTITY  statusText.label "Kész">
