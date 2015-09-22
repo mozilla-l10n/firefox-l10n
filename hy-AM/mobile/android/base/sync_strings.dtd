@@ -197,6 +197,7 @@
 
 <!ENTITY fxaccount_status_header2 "Firefox-ի հաշիվ">
 <!ENTITY fxaccount_status_signed_in_as "Մուտք գործած որպես">
+
 <!ENTITY fxaccount_status_auth_server "Հաշվի սպասարկիչը">
 <!ENTITY fxaccount_status_sync_now "Սինք">
 <!ENTITY fxaccount_status_syncing2 "Սինք...">
