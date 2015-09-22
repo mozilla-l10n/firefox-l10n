@@ -72,7 +72,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY notSignedIn.label           "آپ سائن ان نہیں ہیں۔">
 <!ENTITY signIn.label                "سائن ان کریں">
 
-<!ENTITY manage.label                "بندوبست کریں">
+
 <!ENTITY disconnect.label            "منقطع کریں…">
 <!ENTITY verify.label                "ای میل توثیق کریں">
 <!ENTITY forget.label                "اس ای میل کو بھول جائیں">
