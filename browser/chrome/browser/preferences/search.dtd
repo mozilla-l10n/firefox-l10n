@@ -12,6 +12,7 @@
 <!ENTITY showURLBarSuggestions.label           "Mostrar sugerencias de búsqueda en los resultados de la barra de direcciones">
 <!ENTITY showURLBarSuggestions.accesskey       "l">
 
+
 <!ENTITY redirectWindowsSearch.label "Usar este motor de búsqueda para búsquedas desde Windows">
 <!ENTITY redirectWindowsSearch.accesskey "W">
 
