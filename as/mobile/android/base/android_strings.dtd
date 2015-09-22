@@ -7,13 +7,21 @@
 <!ENTITY  error_loading_file "&brandShortName; চলিবলে প্ৰয়োজনীয় ফাইলসমূহ ল\u0027ড কৰোতে এটা ত্ৰুটি দেখা দিলে ">
 
 
+
 <!ENTITY  onboard_start_button_account "&brandShortName; ত ছাইন ইন কৰক">
 <!ENTITY  onboard_start_button_browser "ব্ৰাউছিং আৰম্ভ কৰক">
+
+
+
+<!ENTITY firstrun_import_message "&brandShortName; লৈ স্বাগতম">
+
+
+
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
-<!ENTITY  bookmarks_title "পত্ৰচিহ্নসমূহ">
+<!ENTITY  bookmarks_title "Bookmarks">
 <!ENTITY  history_title "ইতিহাস">
 <!ENTITY  reading_list_title "পঢ়াৰ তালিকা">
 <!ENTITY  recent_tabs_title "শেহতীয়া টেবসমূহ">
@@ -53,8 +61,9 @@
 
 <!ENTITY history_today_section "আজি">
 <!ENTITY history_yesterday_section "যোৱাকালী">
-<!ENTITY history_week_section2 "যোৱা সপ্তাহ">
-<!ENTITY history_older_section2 "যোৱা মাহ">
+
+
+
 
 <!ENTITY go "যাওক">
 <!ENTITY search "সন্ধান কৰক">
@@ -67,8 +76,6 @@
 <!ENTITY edit_mode_cancel "বাতিল কৰক">
 
 <!ENTITY close_tab "টেব বন্ধ কৰক">
-
-
 <!ENTITY one_tab "১ টেব">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -79,6 +86,13 @@
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
 <!ENTITY switch_button_message "চুইচ কৰক">
+<!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
+     visible in the UI, but rather used as a text-to-speech content description
+     for sight-impaired a11y users. The content description is set on a tab
+     title in a list of open tabs when content in that tab is playing audio.
+     &formatS; will be replaced with the title of the tab, as received from the
+     web page. When audio is not playing in a tab, &formatS; will be used as
+     the content description. -->
 
 <!ENTITY settings "ছেটিংছ্">
 <!ENTITY settings_title "ছেটিংছ্">
@@ -180,6 +194,9 @@
 <!ENTITY pref_home_updates_wifi "কেৱল Wi-Fi ৰে">
 <!ENTITY pref_home_suggested_sites "ছাইটৰ পৰামৰ্শসমূহ দেখুৱাওক">
 <!ENTITY pref_home_suggested_sites_summary "আপুনি যি ছাইটসমূহ পছন্দ কৰিব বুলি আমি ভাৱিছো সেইসমূহৰ চৰ্টকাট আপোনাৰ আৰম্ভণি পৃষ্ঠাত দেখুৱাওক">
+
+
+
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "স্বনিৰ্বাচন কৰক">
@@ -230,7 +247,6 @@
 <!ENTITY pref_plugins_tap_to_play "বজাবলে টেপ কৰক">
 <!ENTITY pref_plugins_disabled "অসামৰ্থবান">
 <!ENTITY pref_text_size "লিখনীৰ আকাৰ">
-<!ENTITY pref_reflow_on_zoom4 "লিখনীৰ পুনৰধাৰা">
 <!ENTITY pref_restore "টেবসমূহ">
 <!ENTITY pref_restore_always "সদায় পুনৰুদ্ধাৰ কৰিব">
 <!ENTITY pref_restore_quit "&brandShortName; প্ৰস্থান কৰাৰ পিছত পুনৰুদ্ধাৰ নকৰিব">
@@ -340,6 +356,7 @@ size. -->
 <!ENTITY share_title "চিহ্নিত বস্তুৰ সহায়ত অংশীদাৰী কৰক">
 <!ENTITY share_image_failed "এই ছবি অংশীদাৰী কৰিব পৰা নগল">
 <!ENTITY save_as_pdf "PDF ৰূপে সংৰক্ষণ কৰক">
+
 <!ENTITY find_in_page "পৃষ্ঠাত সন্ধান কৰক">
 <!ENTITY desktop_mode "ডেস্কটপ ছাইট অনুৰোধ কৰক">
 <!ENTITY page "পৃষ্ঠা">
@@ -359,7 +376,7 @@ size. -->
 
 <!ENTITY find_text "পৃষ্ঠাত সন্ধান কৰক">
 <!ENTITY find_prev "পূৰ্বৱৰ্তী">
-<!ENTITY find_next "পৰৱৰ্তী">
+
 <!ENTITY find_close "বন্ধ কৰক">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -384,6 +401,8 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "ছাইটক চিহ্ন দিয়ক">
 <!ENTITY contextmenu_top_sites_unpin "ছাইটৰ চিহ্ন আতৰাওক">
 <!ENTITY contextmenu_add_search_engine "এটা সন্ধান ইঞ্জিন যোগ কৰক">
+
+
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
@@ -461,7 +480,6 @@ size. -->
 <!ENTITY button_set "ছেট">
 <!ENTITY button_clear "পৰিষ্কাৰ কৰক">
 <!ENTITY button_copy "কপি">
-
 
 <!ENTITY home_top_sites_title "সৰ্বোত্তম ছাইটসমূহ">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -552,10 +570,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
-
-<!ENTITY loaded_mixed_content_message "এই পৃষ্ঠায় অসুৰক্ষিত সমল প্ৰদৰ্শন কৰি আছে।">
-<!ENTITY blocked_mixed_content_message_top "&brandShortName; এ অসুৰক্ষিত সমলক প্ৰতিৰোধ কৰিছে।">
-<!ENTITY blocked_mixed_content_message_bottom "এই সমল প্ৰতিৰোধিত অৱস্থাতো বেছিৰভাগ ৱেবছাইটে সঠিকভাৱে কাৰ্য্য কৰিব।">
 <!-- Tracking content notifications in site identity popup -->
 
 
@@ -571,7 +585,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "ব্যক্তিগত তথ্য আতৰোৱা হৈছে">
 <!ENTITY private_data_fail "কিছুমান ব্যক্তিগত তথ্য আতৰাব পৰা নগল">
 
-<!ENTITY bookmarkhistory_button_import "আমদানি কৰক">
 <!ENTITY bookmarkhistory_import_both "Android ৰ পৰা পত্ৰচিহ্ন আৰু ইতিহাস 
 আমদানি কৰা">
 <!ENTITY bookmarkhistory_import_bookmarks "Android ৰ পৰা পত্ৰচিহ্নসমূহ 
@@ -678,4 +691,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
-
+<!-- Default Bookmarks titles-->
+<!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
+<!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
+<!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
