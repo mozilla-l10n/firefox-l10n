@@ -9,3 +9,6 @@
 <!ENTITY aboutAccountsConfig.startButton.label "Começar">
 <!ENTITY aboutAccountsConfig.useOldSync.label "Usando uma versão antiga do Sync?">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "Preferências do Sync">
+<!ENTITY aboutAccounts.noConnection.title "Sem conexão">
+<!ENTITY aboutAccounts.noConnection.description "Você deve estar conectado à Internet para entrar.">
+<!ENTITY aboutAccounts.noConnection.retry "Tentar novamente">
