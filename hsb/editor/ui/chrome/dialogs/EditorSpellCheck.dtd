@@ -20,16 +20,16 @@
 <!ENTITY replaceButton.accessKey "r">
 <!ENTITY replaceAllButton.label "Wšě narunać">
 <!ENTITY replaceAllButton.accessKey "u">
-<!ENTITY stopButton.label "Stój">
-<!ENTITY stopButton.accessKey "t">
+
+
 <!ENTITY userDictionary.label "Wosobinski słownik:">
 <!ENTITY moreDictionaries.label "Dalše słowniki sćahnyć…">
 <!ENTITY addToUserDictionaryButton.label "Słowo přidać">
 <!ENTITY addToUserDictionaryButton.accessKey "d">
 <!ENTITY editUserDictionaryButton.label "Wobdźěłać…">
 <!ENTITY editUserDictionaryButton.accessKey "b">
-<!ENTITY recheckButton.label "Stronu znowa kontrolować">
-<!ENTITY recheckButton.accessKey "o">
+
+
 <!ENTITY closeButton.label "Začinić">
 <!ENTITY closeButton.accessKey "Z">
 <!ENTITY sendButton.label "Pósłać">

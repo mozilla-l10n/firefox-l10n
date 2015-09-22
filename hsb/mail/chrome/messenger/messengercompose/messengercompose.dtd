@@ -215,6 +215,7 @@
 <!ENTITY addressButton.tooltip "Přijimarja z adresnika wubrać">
 <!ENTITY attachButton.tooltip "Přiwěšk zapřijeć">
 <!ENTITY spellingButton.tooltip "Prawopis wubraneho teksta abo cyłeje powěsće kontrolować">
+
 <!ENTITY saveButton.tooltip "Tutu powěsć składować">
 <!ENTITY cutButton.tooltip              "Wutřihać">
 <!ENTITY copyButton.tooltip             "Kopěrować">
