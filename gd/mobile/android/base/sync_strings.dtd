@@ -197,6 +197,7 @@
 
 <!ENTITY fxaccount_status_header2 "Cunntas Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Chlàraich thu a-steach mar">
+
 <!ENTITY fxaccount_status_auth_server "Frithealaiche a\u0027 chunntais">
 <!ENTITY fxaccount_status_sync_now "Sioncronaich an-dràsta">
 <!ENTITY fxaccount_status_syncing2 "’Ga shioncronachadh…">
