@@ -14,6 +14,8 @@
 
 <!ENTITY pref.weekstarts.label "Início da semana:">
 <!ENTITY pref.weekstarts.accesskey "I">
+
+
 <!ENTITY pref.daysoff.label "Incluir estes dias na semana de trabalho:">
 
 <!ENTITY pref.calendar.view.daystart.label "Dia começa a:">
