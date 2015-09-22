@@ -8,9 +8,15 @@
                         is used as a title, with the privatebrowsingpage.title string preceding it but on a separate line.
                         So the final line will say "Private Browsing + Tracking Protection". -->
 <!ENTITY privatebrowsingpage.title.private "+ beskyttelse mod sporing">
+<!-- Localization note (privatebrowsingpage.title.normal1): "Private Browsing"
+     is capitalized in English to be consistent with our existing uses of the
+     term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "Du er ikke på et faneblad med privat browsing">
 
-<!ENTITY privatebrowsingpage.description.private3 "Firefox vil forhindre, at du spores, og vil ikke gemme historik, men hentede filer og nye bogmærker vil stadig blive gemt på din enhed.">
+<!ENTITY privatebrowsingpage.description.private4 "&brandShortName; vil forhindre, at du spores, og vil ikke gemme historik, men hentede filer og nye bogmærker vil stadig blive gemt på din enhed.">
+<!-- Localization note (privatebrowsingpage.description.normal2): "Private
+     Browsing is capitalized in English to be consistent with our existing uses
+     of the term. -->
 <!ENTITY privatebrowsingpage.description.normal2 "Når du benytter privat browsing, gemmer vi hverken historik eller cookies. Hvis du tilføjer bogmærker eller henter filer, vil de blive gemt på din enhed.">
 
 <!ENTITY privatebrowsingpage.link.private "Vil du læse mere?">
