@@ -197,6 +197,7 @@
 
 <!ENTITY fxaccount_status_header2 "Firefox खातं">
 <!ENTITY fxaccount_status_signed_in_as "असे प्रवेश केले">
+
 <!ENTITY fxaccount_status_auth_server "खाते सर्वर">
 <!ENTITY fxaccount_status_sync_now "लगेच ताळमेळ करा">
 <!ENTITY fxaccount_status_syncing2 "ताळमेळ करीत आहोत…">
@@ -230,6 +231,7 @@
 <!ENTITY fxaccount_remove_account_toast "&formatS; Firefox खाते काढून टाकण्यात आले.">
 
 <!ENTITY fxaccount_remove_account_menu_item "खाते काढा">
+
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 
