@@ -22,10 +22,7 @@
 <!ENTITY  addonExceptions.accesskey     "E">
 
 
-<!ENTITY  passwords.label               "პაროლები">
 
-<!ENTITY  rememberPasswords.label       "პაროლების შენახვა საიტებისთვის">
-<!ENTITY  rememberPasswords.accesskey   "R">
 <!ENTITY  passwordExceptions.label      "გამონაკლისები…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
@@ -34,5 +31,4 @@
 <!ENTITY  changeMasterPassword.label     "მთავარი პაროლის შეცვლა…">
 <!ENTITY  changeMasterPassword.accesskey "M">
 
-<!ENTITY  savedPasswords.label            "შენახული პაროლები…">
-<!ENTITY  savedPasswords.accesskey        "P">
+
