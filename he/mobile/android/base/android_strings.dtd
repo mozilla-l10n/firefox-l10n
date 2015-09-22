@@ -6,10 +6,13 @@
 <!ENTITY  no_space_to_start_error "אין מספיק מקום פנוי כדי להפעיל את &brandShortName;.">
 <!ENTITY  error_loading_file "אירעה שגיאה במהלך נסיון טעינת קבצים הדרושים להפעלת &brandShortName;">
 
+<!ENTITY firstrun_panel_title_welcome "ברוכים הבאים">
 <!ENTITY  onboard_start_message3 "גלישה באמצעות &brandShortName;">
 <!ENTITY  onboard_start_button_account "התחברות אל &brandShortName;">
 <!ENTITY  onboard_start_button_browser "התחלת גלישה">
+
 <!ENTITY  onboard_start_restricted1 "הישארו בטוחים ובשליטה עם גרסה מופשטת זו של &brandShortName;.">
+
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
@@ -52,8 +55,6 @@
 
 <!ENTITY history_today_section "היום">
 <!ENTITY history_yesterday_section "אתמול">
-<!ENTITY history_week_section2 "שבוע שעבר">
-<!ENTITY history_older_section2 "חודש שעבר">
 
 <!ENTITY go "לך">
 <!ENTITY search "חיפוש">
@@ -66,8 +67,6 @@
 <!ENTITY edit_mode_cancel "ביטול">
 
 <!ENTITY close_tab "סגירת לשונית">
-<!ENTITY tab_audio_playing "לשונית זו משמיעה קול">
-<!ENTITY tab_audio_muted "לשונית זו הושתקה">
 <!ENTITY one_tab "לשונית אחת">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -78,6 +77,13 @@
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
 <!ENTITY switch_button_message "החלפה">
+<!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
+     visible in the UI, but rather used as a text-to-speech content description
+     for sight-impaired a11y users. The content description is set on a tab
+     title in a list of open tabs when content in that tab is playing audio.
+     &formatS; will be replaced with the title of the tab, as received from the
+     web page. When audio is not playing in a tab, &formatS; will be used as
+     the content description. -->
 
 <!ENTITY settings "הגדרות">
 <!ENTITY settings_title "הגדרות">
@@ -367,7 +373,6 @@ size. -->
 
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
-<!ENTITY pref_prevent_magnifying_glass "ביטול זכוכית מגדלת ">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
@@ -423,8 +428,6 @@ size. -->
 <!ENTITY button_set "קביעה">
 <!ENTITY button_clear "מחיקה">
 <!ENTITY button_copy "העתקה">
-
-<!ENTITY firstrun_panel_title_welcome "ברוכים הבאים">
 
 <!ENTITY home_top_sites_title "אתרים מובילים">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -485,7 +488,6 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Mixed content notifications in site identity popup -->
-
 
 <!-- Tracking content notifications in site identity popup -->
 <!ENTITY doorhanger_tracking_state_enabled "מופעל">
@@ -579,3 +581,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
+<!-- Default Bookmarks titles-->
+<!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
+<!ENTITY bookmarks_title "סימניות">
+<!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
+<!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
