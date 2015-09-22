@@ -27,6 +27,7 @@
 <!ENTITY projectMenu_manageComponents_label "Gestiona els components addicionals">
 <!ENTITY projectMenu_manageComponents_accesskey "G">
 
+
 <!ENTITY runtimeMenu_label "Entorn d'execució">
 <!ENTITY runtimeMenu_accesskey "T">
 <!ENTITY runtimeMenu_disconnect_label "Desconnecta">
@@ -115,7 +116,7 @@
 <!ENTITY prefs_title "Preferències">
 <!ENTITY prefs_editor_title "Editor">
 <!ENTITY prefs_general_title "General">
-
+<!ENTITY prefs_restore "Restaura els valors per defecte">
 <!ENTITY prefs_manage_components "Gestiona els components addicionals">
 <!ENTITY prefs_options_autoconnectruntime "Torna a connectar amb l'entorn d'execució anterior">
 <!ENTITY prefs_options_autoconnectruntime_tooltip "Reconnecta a l'entorn d'execució anterior quan el WebIDE comenci.">
@@ -139,7 +140,7 @@
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "Taula de permisos">
-
+<!ENTITY permissionstable_name_header "Nom">
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "Informació de l'entorn d'execució">
@@ -197,12 +198,14 @@
 <!ENTITY logs_title "Registres d'ordres de preempaquetatge">
 <!-- Simulator Options -->
 
-
-
-
+<!ENTITY simulator_title "Opcions del simulador">
+<!ENTITY simulator_remove "Suprimeix el simulador">
+<!ENTITY simulator_reset "Restaura els valors per defecte">
+<!ENTITY simulator_name "Nom">
+<!ENTITY simulator_software "Programari">
 <!ENTITY simulator_version "Versió">
-
-
+<!ENTITY simulator_profile "Perfil">
+<!ENTITY simulator_hardware "Maquinari">
 <!ENTITY simulator_device "Dispositiu">
-
-
+<!ENTITY simulator_screenSize "Pantalla">
+<!ENTITY simulator_pixelRatio "Relació de píxels">
