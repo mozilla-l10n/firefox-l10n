@@ -10,7 +10,7 @@ by NSS/PSM via netError.xhtml. -->
 
 
 <!ENTITY certerror.pagetitle  "Ligação não segura">
-<!ENTITY certerror.longpagetitle "Esta ligação é segura">
+<!ENTITY certerror.longpagetitle "Esta ligação não é de confiança">
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
