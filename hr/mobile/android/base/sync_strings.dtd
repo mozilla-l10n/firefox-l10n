@@ -197,6 +197,7 @@
 
 <!ENTITY fxaccount_status_header2 "Firefox račun">
 <!ENTITY fxaccount_status_signed_in_as "Prijavljen kao">
+
 <!ENTITY fxaccount_status_auth_server "Poslužitelj računa">
 <!ENTITY fxaccount_status_sync_now "Sinkroniziraj sada">
 <!ENTITY fxaccount_status_syncing2 "Sinkroniziranje…">

@@ -6,15 +6,24 @@
 <!ENTITY  no_space_to_start_error "Nema dovoljno prostora za pokretanje &brandShortName;.">
 <!ENTITY  error_loading_file "Došlo je do greške prilikom učitavanja datoteka potrebnih za pokretanje &brandShortName;">
 
+<!ENTITY firstrun_panel_title_welcome "Dobrodošli">
 <!ENTITY  onboard_start_message3 "Pretražujte s &brandShortName;">
 <!ENTITY  onboard_start_subtext3 "Učinite iskustvo pregledavanja mobilnog interneta stvarno jedinstvenim.">
 <!ENTITY  onboard_start_button_account "Prijavi se u &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Započni pregledavanje">
+
+
 <!ENTITY  onboard_start_restricted1 "Ostanite sigurni i u kontroli s ovom pojednostavljenom &brandShortName; inačicom.">
+
+<!ENTITY firstrun_import_message "Dobro došli u &brandShortName;">
+
+
+
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
-<!ENTITY  bookmarks_title "Zabilješke">
+<!ENTITY  bookmarks_title "Bookmarks">
 <!ENTITY  history_title "Povijest">
 <!ENTITY  reading_list_title "Popis čitanja">
 <!ENTITY  recent_tabs_title "Nedavne kartice">
@@ -55,8 +64,9 @@
 
 <!ENTITY history_today_section "Danas">
 <!ENTITY history_yesterday_section "Jučer">
-<!ENTITY history_week_section2 "Prošli tjedan">
-<!ENTITY history_older_section2 "Prošli mjesec">
+
+
+
 
 <!ENTITY go "Idi">
 <!ENTITY search "Traži">
@@ -69,8 +79,6 @@
 <!ENTITY edit_mode_cancel "Odustani">
 
 <!ENTITY close_tab "Zatvori karticu">
-<!ENTITY tab_audio_playing "Ova kartica reproducira zvuk">
-<!ENTITY tab_audio_muted "Ova kartica je utišana">
 <!ENTITY one_tab "1 kartica">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -81,6 +89,13 @@
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
 <!ENTITY switch_button_message "PREBACI">
+<!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
+     visible in the UI, but rather used as a text-to-speech content description
+     for sight-impaired a11y users. The content description is set on a tab
+     title in a list of open tabs when content in that tab is playing audio.
+     &formatS; will be replaced with the title of the tab, as received from the
+     web page. When audio is not playing in a tab, &formatS; will be used as
+     the content description. -->
 
 <!ENTITY settings "Postavke">
 <!ENTITY settings_title "Postavke">
@@ -182,6 +197,9 @@
 <!ENTITY pref_home_updates_wifi "Samo preko Wi-Fi">
 <!ENTITY pref_home_suggested_sites "Prikaži prijedloge stranica">
 <!ENTITY pref_home_suggested_sites_summary "Na početnoj stranici prikaži poveznice na stranice koje mislimo da će vam biti interesantne">
+
+
+
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Prilagodi">
@@ -237,7 +255,6 @@
 <!ENTITY pref_plugins_tap_to_play "Dotakni za pokretanje">
 <!ENTITY pref_plugins_disabled "Onemogućeno">
 <!ENTITY pref_text_size "Veličina teksta">
-<!ENTITY pref_reflow_on_zoom4 "Tijek teksta">
 <!ENTITY pref_restore "Kartice">
 <!ENTITY pref_restore_always "Uvijek vrati">
 <!ENTITY pref_restore_quit "Ne vraćaj nakon izlaza iz &brandShortName;">
@@ -347,6 +364,7 @@ size. -->
 <!ENTITY share_title "Dijeli putem">
 <!ENTITY share_image_failed "Nije moguće podijeliti ovu sliku">
 <!ENTITY save_as_pdf "Spremi kao PDF">
+
 <!ENTITY find_in_page "Pronađi na stranici">
 <!ENTITY desktop_mode "Zahtjevaj desktop stranicu">
 <!ENTITY page "Stranica">
@@ -366,7 +384,7 @@ size. -->
 
 <!ENTITY find_text "Pronađi na stranici">
 <!ENTITY find_prev "Prethodni">
-<!ENTITY find_next "Sljedeći">
+
 <!ENTITY find_close "Zatvori">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -391,6 +409,8 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Prikači stranicu">
 <!ENTITY contextmenu_top_sites_unpin "Otkači stranicu">
 <!ENTITY contextmenu_add_search_engine "Dodaj pretraživač interneta">
+
+
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
@@ -413,8 +433,6 @@ size. -->
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
-<!ENTITY pref_prevent_magnifying_glass "Onemogući povećalo ">
-<!ENTITY pref_prevent_magnifying_glass_summary "Spriječi korištenje povećala u rješavanju nejasnih dodira zaslona">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -473,8 +491,6 @@ size. -->
 <!ENTITY button_set "Postavi">
 <!ENTITY button_clear "Obriši">
 <!ENTITY button_copy "Kopiraj">
-
-<!ENTITY firstrun_panel_title_welcome "Dobrodošli">
 
 <!ENTITY home_top_sites_title "Najpopularnije stranice">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -564,14 +580,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_insecure "Nesigurna veza">
 <!-- Mixed content notifications in site identity popup -->
 
-<!ENTITY mixed_content_blocked_all "&brandShortName; je blokirao nesigurne elemente ove stranice.">
-<!ENTITY mixed_content_blocked_some "&brandShortName; je blokirao neke nesigurne elemente na ovoj stranici.">
-<!ENTITY mixed_content_display_loaded "Ova stranica ima neke nesigurne elemente.">
-<!ENTITY mixed_content_protection_disabled "Onemogućili ste zaštitu od nesigurnih elemenata.">
 
-<!ENTITY loaded_mixed_content_message "Ova stranica prikazuje sadržaj koji nije siguran.">
-<!ENTITY blocked_mixed_content_message_top "&brandShortName; je blokirao nesiguran sadržaj.">
-<!ENTITY blocked_mixed_content_message_bottom "Većina web stranica će nastaviti ispravno raditi čak i ako je ova vrsta sadržaja blokirana.">
+
 <!-- Tracking content notifications in site identity popup -->
 
 <!ENTITY doorhanger_tracking_title "Zaštita od praćenja">
@@ -589,7 +599,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Privatni podaci očišćeni">
 <!ENTITY private_data_fail "Neki privatni podaci nisu mogli biti očišćeni">
 
-<!ENTITY bookmarkhistory_button_import "Uvezi">
 <!ENTITY bookmarkhistory_import_both "Uvoz zabilješki i povijesti 
 iz Androida">
 <!ENTITY bookmarkhistory_import_bookmarks "Uvoz zabilješki 
@@ -703,4 +712,11 @@ iz Androida">
 <!ENTITY restriction_disallow_clear_history_title2 "Onemogući \u0027Obriši povijest pretraživanja\u0027">
 <!ENTITY restriction_disallow_master_password_title2 "Onemogući glavnu lozinku">
 <!ENTITY restriction_disallow_guest_browsing_title2 "Onemogući Pretraživanje za goste">
-
+<!-- Default Bookmarks titles-->
+<!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
+<!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
+<!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
