@@ -17,5 +17,8 @@
 <!ENTITY cmd.open.accesskey                        "O">
 <!ENTITY cmd.removeFromHistory.label               "Ukloni iz povijesti">
 <!ENTITY cmd.removeFromHistory.accesskey           "s">
-<!ENTITY cmd.clearDownloads.label                  "Očisti preuzimanja">
-<!ENTITY cmd.clearDownloads.accesskey              "e">
+
+
+
+
+
