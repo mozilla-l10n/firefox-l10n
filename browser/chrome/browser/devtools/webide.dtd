@@ -27,6 +27,7 @@
 <!ENTITY projectMenu_manageComponents_label "கூடுதல் கூறுகளை நிர்வகி">
 <!ENTITY projectMenu_manageComponents_accesskey "M">
 
+
 <!ENTITY runtimeMenu_label "இயக்க நேரம்">
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "துண்டி">

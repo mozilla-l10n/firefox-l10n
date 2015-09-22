@@ -24,10 +24,7 @@
 <!ENTITY  addonExceptions.accesskey     "E">
 
 
-<!ENTITY  passwords.label               "கடவுச்சொற்கள்">
 
-<!ENTITY  rememberPasswords.label       "இணைய தளங்களுக்கு கடவுச்சொற்களை நினைவுப்படுத்து">
-<!ENTITY  rememberPasswords.accesskey   "R">
 <!ENTITY  passwordExceptions.label      "விதிவிலக்குகள்…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
@@ -36,5 +33,4 @@
 <!ENTITY  changeMasterPassword.label     "முதன்மை கடவுச்சொல்லை மாற்று…">
 <!ENTITY  changeMasterPassword.accesskey "M">
 
-<!ENTITY  savedPasswords.label            "சேமிக்கப்பட்ட கடவுச்சொற்கள்…">
-<!ENTITY  savedPasswords.accesskey        "P">
+
