@@ -115,10 +115,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "Overte svoj účet">
 <!ENTITY syncStartPanel2.heading "Synchronizácia je zapnutá">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; sa práve začína synchronizovať">
-<!ENTITY syncErrorPanel.heading "Nie je možné pripojiť k službe &syncBrand.shortName.label;">
-<!ENTITY syncErrorPanel.subTitle "Prihlásením sa umožníte pokračovať k synchronizácii.">
-<!ENTITY syncErrorPanel.signInButton.label "Prihlásiť sa">
-<!ENTITY syncErrorPanel.signInButton.accesskey "P">
 
 <!ENTITY fullScreenMinimize.tooltip "Minimalizovať okno">
 <!ENTITY fullScreenRestore.tooltip "Obnoviť">
