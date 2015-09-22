@@ -13,9 +13,8 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "Jūs nesate privačiajame naršyme">
 
-<!ENTITY privatebrowsingpage.description.private3 "„Firefox“ neleis jūsų stebėti ir neįsimins jokios istorijos, tačiau parsisiųsti failai ir nauji adresyno įrašai vistiek liks išsaugoti jūsų įrenginyje.">
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
-     Browsing" is capitalized in English to be consistent with our existing uses
+     Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
 <!ENTITY privatebrowsingpage.description.normal2 "Privačiojo naršymo režime mes nepaliksime jokios naršymo istorijos ar slapukų. Tačiau jei pridėsite įrašų į adresyną ar siųsitės failų, jie vistiek liks išsaugoti jūsų įrenginyje.">
 

@@ -197,6 +197,7 @@
 
 <!ENTITY fxaccount_status_header2 "„Firefox“ paskyra">
 <!ENTITY fxaccount_status_signed_in_as "Prisijungėte kaip">
+
 <!ENTITY fxaccount_status_auth_server "Paskyros serveris">
 <!ENTITY fxaccount_status_sync_now "Sinchronizuoti dabar">
 <!ENTITY fxaccount_status_syncing2 "Sinchronizuojama…">
