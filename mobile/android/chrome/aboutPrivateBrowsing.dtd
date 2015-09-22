@@ -13,9 +13,8 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "Nincs privát böngészésben">
 
-<!ENTITY privatebrowsingpage.description.private3 "A Firefox megakadályozza, hogy kövessék és nem jegyez meg előzményeket, de a letöltött fájlok és az új könyvjelzők továbbra is a készülékére lesznek mentve.">
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
-     Browsing" is capitalized in English to be consistent with our existing uses
+     Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
 <!ENTITY privatebrowsingpage.description.normal2 "Privát böngészésben nem tároljuk böngészési előzményeit vagy sütiket. Az új könyvjelzők és a letöltött fájlok továbbra is a készülékére lesznek mentve.">
 
