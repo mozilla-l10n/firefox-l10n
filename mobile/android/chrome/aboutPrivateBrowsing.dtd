@@ -2,12 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                  "అంతరంగిక విహారణ">
+<!ENTITY privatebrowsingpage.title "అంతరంగిక విహారణ">
+<!-- Localisation note: the plus sign here is a shorthand way of expressing the word "and". Contextually the privatebrowsingpage.title.private string
+                        is used as a title, with the privatebrowsingpage.title string preceding it but on a separate line.
+                        So the final line will say "Private Browsing + Tracking Protection". -->
+<!-- Localization note (privatebrowsingpage.title.normal1): "Private Browsing"
+     is capitalized in English to be consistent with our existing uses of the
+     term. -->
 
-<!ENTITY privatebrowsingpage.issueDesc.private      "మీరు కొత్త అంతరంగిక ట్యాబు తెరిచారు.">
-<!ENTITY privatebrowsingpage.issueDesc.normal       "మీరు వ్యక్తిగత టాబ్ నందు లేరు.">
+<!-- Localization note (privatebrowsingpage.description.normal2): "Private
+     Browsing is capitalized in English to be consistent with our existing uses
+     of the term. -->
 
-<!ENTITY privatebrowsingpage.description            "అంతరంగిక ట్యాబుల్లో, &brandShortName; విహారణ చరిత్రను, వెతుకుడు చరిత్రను, దింపుకోలు చరిత్రను, జాల ఫారాల చరిత్రను, కుకీలను, తాత్కాలిక  అంతర్జాల దస్త్రాలనూ అట్టిపెట్టదు.  కానీ, మీరు దించుకున్న దస్త్రాలనూ ఇష్టాంశాలుగా గుర్తించిన వాటినీ అట్టే పెడుతుంది.">
-<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+<!ENTITY privatebrowsingpage.link.private "ఇంకా తెలుసుకోవాలనుకుంటున్నారా?">
 
-<!ENTITY privatebrowsingpage.moreInfo               "ఈ పరికరంలో మీ అంతరంగిక విహారణ ఆనవాళ్లు ఉండవు, కానీ మీ అంతర్జాల సేవాదారు మీరు చూసే పేజీల జాడ కనుక్కోగలరు.">

@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label "ఏమి సింక్రనించాలి">
 <!ENTITY sync.configure.engines.sync.my.title.label "మీవి ఇవి సింక్‌చేయి...">
 <!ENTITY sync.configure.engines.title.bookmarks "ఇష్టాంశాలు">
-<!ENTITY sync.configure.engines.title.passwords "సంకేతపదాలు">
+
 <!ENTITY sync.configure.engines.title.history "చరిత్ర">
 <!ENTITY sync.configure.engines.title.tabs "ట్యాబులు">
 <!-- Common text -->
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "గోప్యతా గమనిక">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label;కి స్వాగతం">
-<!ENTITY fxaccount_getting_started_description "మీ ట్యాబులను, ఇష్టాంశాలను, సంకేతపదాలను సింక్ చేసుకోడానికి ప్రవేశించండి.">
+
 <!ENTITY fxaccount_getting_started_get_started "మొదలు పెట్టండి">
 <!ENTITY fxaccount_getting_started_old_firefox "&syncBrand.shortName.label; పాత వర్షన్ ఉపయోగిస్తున్నారా?">
 <!-- Localization note: the Firefox below should not change with the
@@ -197,6 +197,7 @@
 
 <!ENTITY fxaccount_status_header2 "ఫైర్‌ఫాక్స్ ఖాతా">
 <!ENTITY fxaccount_status_signed_in_as "ఇలా ప్రవేశించారు">
+
 <!ENTITY fxaccount_status_auth_server "ఖాతా సేవకి">
 <!ENTITY fxaccount_status_sync_now "ఇప్పుడే సింక్ చేయి">
 <!ENTITY fxaccount_status_syncing2 "సింకవుతోంది…">
@@ -212,7 +213,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating "మీ కొత్త ఫైర్‌ఫాక్స్ ఖాతా లోనికి ప్రవేశించడానికి తాకండి.">
 <!ENTITY fxaccount_status_bookmarks "ఇష్టాంశాలు">
 <!ENTITY fxaccount_status_history "చరిత్ర">
-<!ENTITY fxaccount_status_passwords "సంకేతపదాలు">
+
 <!ENTITY fxaccount_status_tabs "తెరిచివున్న ట్యాబులు">
 <!ENTITY fxaccount_status_legal "చట్టబద్ధం" >
 <!-- Localization note: when tapped, the following two strings link to
@@ -230,6 +231,7 @@
 <!ENTITY fxaccount_remove_account_toast "ఫైర్‌ఫాక్స్ ఖాతా &formatS; తొలగించబడింది.">
 
 <!ENTITY fxaccount_remove_account_menu_item "ఖాతాని తొలగించు">
+
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 

@@ -7,12 +7,21 @@
 <!ENTITY  error_loading_file "&brandShortName;ను నడపడానికి కావలసిన ఫైల్స్ లోడు చేస్తున్నప్పుడు ఏదో లోపం సంభవించింది">
 
 
+
 <!ENTITY  onboard_start_button_account "&brandShortName; లోనికి ప్రవేశించండి">
 <!ENTITY  onboard_start_button_browser "విహరణ మొదలుపెట్టండి">
+
+
+
+<!ENTITY firstrun_import_message "&brandShortName;‌కి స్వాగతం">
+
+
+
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
-<!ENTITY  bookmarks_title "ఇష్టాంశాలు">
+<!ENTITY  bookmarks_title "Bookmarks">
 <!ENTITY  history_title "చరిత్ర">
 <!ENTITY  reading_list_title "చదివే జాబితా">
 <!ENTITY  recent_tabs_title "ఇటీవలి ట్యాబులు">
@@ -43,14 +52,18 @@
 <!ENTITY bookmark "ఇష్టాంశం">
 <!ENTITY bookmark_remove "ఇష్టాంశాన్ని తీసివేయి">
 <!ENTITY bookmark_added "ఇష్టాంశం చేర్చబడింది">
+<!-- Localization note (bookmark_already_added) : This string is
+     used as a label in a toast. It is the verb "to bookmark", not
+     the noun "a bookmark". -->
 <!ENTITY bookmark_removed "ఇష్టాంశం తొలగించబడింది">
 <!ENTITY bookmark_updated "ఇష్టాంశం తాజాకరించబడింది">
 <!ENTITY bookmark_options "ఎంపికలు">
 
 <!ENTITY history_today_section "ఈరోజు">
 <!ENTITY history_yesterday_section "నిన్న">
-<!ENTITY history_week_section2 "పోయిన వారం">
-<!ENTITY history_older_section2 "పోయిన నెల">
+
+
+
 
 <!ENTITY go "వెళ్ళు">
 <!ENTITY search "వెతుకు">
@@ -73,9 +86,17 @@
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
 <!ENTITY switch_button_message "మారు">
+<!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
+     visible in the UI, but rather used as a text-to-speech content description
+     for sight-impaired a11y users. The content description is set on a tab
+     title in a list of open tabs when content in that tab is playing audio.
+     &formatS; will be replaced with the title of the tab, as received from the
+     web page. When audio is not playing in a tab, &formatS; will be used as
+     the content description. -->
 
 <!ENTITY settings "అమరికలు">
 <!ENTITY settings_title "అమరికలు">
+
 <!ENTITY pref_category_advanced "ఉన్నతం">
 <!ENTITY pref_category_customize "మలచుకొనడం">
 <!ENTITY pref_category_customize_summary "ముంగిలి, వెతకడం, ట్యాబులు, దిగుమతి">
@@ -103,7 +124,7 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "ఇష్టాంశంగా గుర్తించు">
 <!ENTITY overlay_share_reading_list_btn_label "చదవాల్సిన జాబితాకి చేర్చు">
-<!ENTITY overlay_share_bookmark_btn_label_already "ఇప్పటికే ఇష్టాంశముగా ఉంది">
+
 <!ENTITY overlay_share_reading_list_btn_label_already "ఇప్పటికే చదివే జాబితాలో ఉంది">
 <!ENTITY overlay_share_send_other "ఇతర పరికరాలకు పంపించు">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -131,7 +152,7 @@
 <!ENTITY pref_category_display "ప్రదర్శన">
 <!ENTITY pref_category_display_summary "పాఠం, శీర్షిక పట్టీ, నిండు-తెర విహారణ">
 <!ENTITY pref_category_privacy_short "అంతరంగికత">
-<!ENTITY pref_category_privacy_summary "నియంత్రణ సంకేతపదాలు, కుకీలు, ట్రాకింగ్, డేటా">
+
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "&brandShortName; గురించి, FAQs, డేటా ఎంపికలు">
 <!ENTITY pref_category_datareporting "డేటా ఎంపికలు">
@@ -149,8 +170,13 @@
 <!ENTITY pref_search_hint "చిట్కా: ఏదైనా వెబ్‌సైటును శోధన ప్రదాతల జాబితాలో చేర్చుడానికి ఆ సైటులోని వెతుకుడు పెట్టెపై ఎక్కువసేపు-వత్తి అప్పుడు &formatI; ప్రతీకాన్ని తాకండి.">
 <!ENTITY pref_category_devtools "అభివృద్ధికారుల పనిముట్లు">
 <!ENTITY pref_developer_remotedebugging "రిమోట్ డీబగ్గింగ్">
+
+
+
 <!ENTITY pref_category_logins "ప్రవేశాలు">
-<!ENTITY pref_remember_signons "సంకేతపదాలను గుర్తుంచుకో">
+
+
+
 <!ENTITY pref_manage_logins "ప్రవేశాలను నిర్వహించండి">
 
 <!ENTITY pref_category_home "ముంగిలి">
@@ -168,6 +194,9 @@
 <!ENTITY pref_home_updates_wifi "వై-ఫై ద్వారా మాత్రమే">
 <!ENTITY pref_home_suggested_sites "సైటు సలహాలను చూపించు">
 <!ENTITY pref_home_suggested_sites_summary "మీరు ఆశక్తి కనబర్చే సైటులకు లఘువులను మీ ముంగిలిపేజీపై ప్రదర్శించును">
+
+
+
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "మలచుకొనండి">
@@ -183,10 +212,13 @@
 <!ENTITY pref_cookies_not_accept_foreign "చేతనం, 3వ పక్షం మినహాయించి">
 <!ENTITY pref_cookies_disabled "అచేతనం">
 
-<!ENTITY pref_tracking_protection_title "ట్రాకింగ్ సంరక్షణ">
-<!ENTITY pref_tracking_protection_summary "వెబ్‌సైట్లు మిమ్మల్ని ట్రాక్ చెయ్యకుండా &brandShortName; అడ్డుకుంటుంది">
+
 <!ENTITY pref_donottrack_title "ట్రాక్ చెయ్యవద్దు">
 <!ENTITY pref_donottrack_summary "మిమ్మల్ని ట్రాక్ చెయ్యవద్దనుకుంటున్నారని &brandShortName; వెబ్‌సైట్లకు తెలియజేస్తుంది">
+
+
+
+
 
 <!ENTITY tab_queue_toast_action "ఇప్పుడే తెరువు">
 
@@ -215,7 +247,6 @@
 <!ENTITY pref_plugins_tap_to_play "ఆడించడానికి ముట్టుకోండి">
 <!ENTITY pref_plugins_disabled "అచేతనం">
 <!ENTITY pref_text_size "పాఠ్య పరిమాణం">
-<!ENTITY pref_reflow_on_zoom4 "పాఠ్య ప్రవాహం">
 <!ENTITY pref_restore "ట్యాబులు">
 <!ENTITY pref_restore_always "ఎప్పుడూ పునరుద్ధరించు">
 <!ENTITY pref_restore_quit "&brandShortName; నుండి నిష్క్రమించిన తర్వాత పునరుద్ధరించవద్దు">
@@ -240,9 +271,13 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "ఎల్లప్పుడూ జూమ్ చేతనించు">
 <!ENTITY pref_zoom_force_enabled_summary "ఏ పేజీనైనా జూమ్ చెయ్యగలిగేలా చేయండి">
 
+
+
+
+
 <!ENTITY pref_use_master_password "ప్రధాన సంకేతపదాన్ని వాడు">
 <!ENTITY pref_sync "సింక్">
-<!ENTITY pref_sync_summary "మీ ట్యాబులను, ఇష్టాంశాలను, సంకేతపదాలను, చరిత్రను సింక్ చేసుకోండి">
+
 <!ENTITY pref_search_suggestions "వెతుకుడు సలహాలను చూపించు">
 <!ENTITY pref_import_android "ఆండ్రాయిడ్ నుండి దిగుమతి చేయి">
 <!ENTITY pref_import_android_summary "నేటివ్ విహారిణి నుండి ఇష్టాంశాలనూ చరిత్రనూ దిగుమతి చేసుకోండి">
@@ -250,11 +285,12 @@ size. -->
 
 
 <!ENTITY pref_private_data_cookies2 "కుకీలు &amp; క్రియాశీల ప్రవేశాలు">
-<!ENTITY pref_private_data_passwords "భద్రపరచిన సంకేతపదాలు">
+
 <!ENTITY pref_private_data_cache "క్యాషె">
 <!ENTITY pref_private_data_offlineApps "ఆఫ్‌లైన్ వెబ్‌సైటు డేటా">
 <!ENTITY pref_private_data_siteSettings2 "సైటు అమరికలు">
 <!ENTITY pref_private_data_downloadFiles2 "దింపుకోళ్ళు">
+
 
 
 <!ENTITY pref_about_firefox "&brandShortName; గురించి">
@@ -313,13 +349,13 @@ size. -->
 <!ENTITY addons "పొడిగింతలు">
 <!ENTITY logins "ప్రవేశాలు">
 <!ENTITY downloads "దింపుకోళ్ళు">
-<!ENTITY apps "ఆప్స్">
 <!ENTITY char_encoding "అక్షర సంహితీకరణ">
 
 <!ENTITY share "పంచుకో">
 <!ENTITY share_title "దీనిద్వారా పంచుకొను">
 <!ENTITY share_image_failed "ఈ చిత్రాన్ని పంచుకోలేకున్నాం">
 <!ENTITY save_as_pdf "PDFగా భద్రపరచు">
+
 <!ENTITY find_in_page "పేజీలో వెతుకు">
 <!ENTITY desktop_mode "డెస్క్‌టాప్ సైటును అభ్యర్థించు">
 <!ENTITY page "పేజీ">
@@ -339,7 +375,7 @@ size. -->
 
 <!ENTITY find_text "పేజీలో వెతకండి">
 <!ENTITY find_prev "క్రితం">
-<!ENTITY find_next "తరువాత">
+
 <!ENTITY find_close "మూసివేయి">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -364,6 +400,8 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "సైటు పిన్‌చేయి">
 <!ENTITY contextmenu_top_sites_unpin "సిటు పిన్‌తీయి">
 <!ENTITY contextmenu_add_search_engine "అన్వేషణ యంత్రాన్ని కలుపు">
+
+
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
@@ -375,9 +413,17 @@ size. -->
 <!ENTITY doorhanger_login_edit_toggle "సంకేతపదాన్ని చూపించు">
 
 
+
+
+
+
+
 <!ENTITY pref_titlebar_mode "శీర్షిక పట్టీ">
 <!ENTITY pref_titlebar_mode_title "పేజీ శీర్షికను చూపించు">
 <!ENTITY pref_titlebar_mode_url "పేజీ చిరునామాను చూపించు">
+<!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
+     whether or not the magnifying glass is disabled. -->
+
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -402,8 +448,8 @@ size. -->
 <!ENTITY site_settings_cancel       "రద్దుచేయి">
 <!ENTITY site_settings_clear        "తుడుచివేయి">
 <!ENTITY site_settings_no_settings  "తుడిచేయాల్సిన అమరికలు ఏమీ లేవు.">
-
-<!ENTITY reading_list_added "మీ చదివే జాబితాకు పేజీ చేర్చబడింది">
+<!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
+     as possible. -->
 <!ENTITY reading_list_removed "మీ చదివే జాబితా నుండి పేజీ తీసివేయబడింది">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -432,8 +478,7 @@ size. -->
 <!ENTITY button_clear_data "దత్తాంశాన్ని తుడిచివేయి">
 <!ENTITY button_set "అమర్చు">
 <!ENTITY button_clear "తుడిచివేయి">
-<!ENTITY button_remember "గుర్తుంచుకో">
-
+<!ENTITY button_copy "నకలుతీయి">
 
 <!ENTITY home_top_sites_title "మేటి సైట్లు">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -495,10 +540,6 @@ size. -->
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "ఎంపికైన పరికరాలు కనబరచు">
 
-<!ENTITY private_browsing_title "అంతరంగిక విహారణ">
-<!ENTITY private_tabs_panel_empty_desc "మీ ఆంతరంగిక ట్యాబులు ఇక్కడ కనిపిస్తాయి. మేము మీ విహారణ చరిత్రను లేదా కుకీలను ఉంచనప్పటికీ, మీ ఇష్టాంశాలు మరియు దించుకున్న ఫైళ్ళూ మీ పరికరంలో భద్రమవుతాయి.">
-<!ENTITY private_tabs_panel_learn_more "ఇంకా తెలుసుకోవాలనుకుంటున్నారా?">
-
 <!ENTITY remote_tabs_panel_moved_title "నా ట్యాబులు ఎక్కడికి వెళ్ళాయి?">
 <!ENTITY remote_tabs_panel_moved_desc "మేము మీ టాబ్‌లను ఇతర పరికరాలనుండి మీ ముంగిలిపేజీ పైని ప్యానల్‌కు మార్చాము మీరు కొత్త టాబ్ తెరిచిన ప్రతిసారి మీరు వాటిని సులువుగా ఏక్సెస్ చేయవచ్చు.">
 <!ENTITY remote_tabs_panel_moved_link "నన్ను నా కొత్త ప్యానల్‌కు తీసుకుపో.">
@@ -523,20 +564,16 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_run_by "ఏదైతే దీనిద్వారా నడుస్తుందో">
-<!ENTITY identity_no_info "ఈ వెబ్‌సైట్ గుర్తింపు సమాచారాన్ని అందించుటలేదు.">
-<!ENTITY identity_not_encrypted "ఈ సైట్‌కు మీ అనుసంధానం ఎన్క్రిప్టు చేయబడిలేదు.">
+
 <!-- Mixed content notifications in site identity popup -->
 
-<!ENTITY loaded_mixed_content_message "ఈ పేజీ సురక్షితం కాని విషయాన్ని ప్రదర్శిస్తూంది.">
-<!ENTITY blocked_mixed_content_message_top "సురక్షితం కాని విషయాన్ని &brandShortName; నిరోధించింది.">
-<!ENTITY blocked_mixed_content_message_bottom "ఈ విషయాన్ని నిరోధించినా చాలా వెబ్‌సైట్లు సరిగానే పనిచేస్తాయి.">
+
+
 <!-- Tracking content notifications in site identity popup -->
 
-<!ENTITY loaded_tracking_content_message_top "ట్రాకింగ్ సంరక్షణ అచేతనమయ్యింది.">
-<!ENTITY loaded_tracking_content_message_bottom "ఈ పేజీలోని భాగాలు మీ జాల కార్యకలాపాలను ట్రాక్ చెయ్యవచ్చు.">
-<!ENTITY blocked_tracking_content_message_top2 "ట్రాకింగ్ సంరక్షణ చేతనమయ్యింది.">
-<!ENTITY blocked_tracking_content_message_bottom2 "ఈ పేజీలో మీ జాల కార్యకలాపాలను ట్రాక్ చేసే భాగాలు నిరోధించబడ్డాయి.">
+
+
+
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "మరింత తెలుసుకోండి">
@@ -547,7 +584,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "అంతరంగిక భోగట్టా తుడిచివేయబడింది">
 <!ENTITY private_data_fail "కొంత అంతరంగిక భోగట్టాను తుడిచివేయలేకపోయాం">
 
-<!ENTITY bookmarkhistory_button_import "దిగుమతించు">
 <!ENTITY bookmarkhistory_import_both "ఇష్టాంశాలు మరియు చరిత్ర దిగుమతి 
 ఆండ్రాయిడ్ నుండి">
 <!ENTITY bookmarkhistory_import_bookmarks "ఇష్టాంశాల దిగుమతి 
@@ -592,7 +628,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "కొనసాగించు">
 <!ENTITY guest_session_dialog_cancel "రద్దుచేయి">
 <!ENTITY new_guest_session_title "&brandShortName; ఇప్పుడు పునఃప్రారంభమవుతుంది">
-<!ENTITY new_guest_session_text "దీనిని ఉపయోగించేవారు మీ వ్యక్తిగత విహరణ దత్తాంశాన్ని (భద్రపరచిన సంకేతపదాలు, చరిత్ర లేదా ఇష్టాంశాల వంటివాటిని) చూడలేరు. \n\nమీ అతిథి పని పూర్తికాగానే, వారి విహరణ దత్తాంశం తొలగించబడుతుంది మరియు మీ సెషన్ పునరుద్ధరించబడుతుంది.">
+
 <!ENTITY guest_browsing_notification_title "అతిథి విహారణ చేతనమైంది">
 <!ENTITY guest_browsing_notification_text "తాకి నిష్క్రమించు">
 
@@ -620,10 +656,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Voice search in the awesome bar -->
 
 <!ENTITY voicesearch_prompt "ఇప్పుడు మాట్లాడండి">
-<!ENTITY voicesearch_failed_title "&brandShortName; మాట్లాడి వెతకడం">
-<!ENTITY voicesearch_failed_message "మాట ద్వారా వెతకడంలో ఇప్పుడు ఏదో సమస్య ఉంది. కాసేపాగి ప్రయత్నించండి.">
-<!ENTITY voicesearch_failed_message_recoverable "క్షమించండి! మీ మాటలను గుర్తించలేకపోయాం. దయచేసి మళ్ళీ పయత్నించండి.">
-
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -639,3 +671,30 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
 
 <!ENTITY find_matchcase "Aa">
+
+<!-- DevTools Authentication -->
+<!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
+     above a QR reader that is actively scanning for QR codes.  The expected QR
+     code has already been displayed by the client trying to connect (such as
+     desktop Firefox via WebIDE), so you just need to aim this device at the QR
+     code. -->
+<!-- Restrictions -->
+<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+     a restricted profile (e.g. child). Used inside the Android settings UI. -->
+
+
+
+
+
+
+
+
+
+<!-- Default Bookmarks titles-->
+<!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
+<!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
+<!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
