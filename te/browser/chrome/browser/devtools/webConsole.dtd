@@ -10,24 +10,6 @@
 
 <!ENTITY window.title "వెబ్ కన్సోల్">
 <!ENTITY browserConsole.title "విహారిణి కన్సోల్">
-
-<!ENTITY networkPanel.requestURLColon             "అభ్యర్దించు URL:">
-<!ENTITY networkPanel.requestMethodColon          "అభ్యర్దించు పద్దతి:">
-<!ENTITY networkPanel.statusCodeColon             "స్థితి కోడ్:">
-
-<!ENTITY networkPanel.requestHeaders              "ఎగువసూచీలు అభ్యర్దించు">
-<!ENTITY networkPanel.requestCookie               "కుకీ పంపుము">
-<!ENTITY networkPanel.requestBody                 "బాడీ అభ్యర్దించు">
-<!ENTITY networkPanel.requestFormData             "దత్తాంశం నుండి పంపు">
-
-<!ENTITY networkPanel.responseHeaders             "స్పందన యెగువ సూచీలు">
-<!ENTITY networkPanel.responseCookie              "స్వీకరించిన కుకీ">
-<!ENTITY networkPanel.responseBody                "స్పందన బాడీ">
-<!ENTITY networkPanel.responseBodyCached          "క్యాచీడ్ దత్తాంశం">
-<!ENTITY networkPanel.responseBodyUnknownType     "తెలియని విషయం రకము">
-<!ENTITY networkPanel.responseNoBody              "స్పందన బాడీ లేదు">
-<!ENTITY networkPanel.responseImage               "స్వీకరించిన ప్రతిబింబము">
-<!ENTITY networkPanel.responseImageCached         "క్యాచీడ్ ప్రతిబింబము">
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
 
@@ -69,12 +51,21 @@
 <!ENTITY btnPageLogging.label   "లాగింగ్">
 <!ENTITY btnPageLogging.tooltip "window.console ఆబ్జక్టునకు పంపిన లాగ్ సందేశాలు">
 <!ENTITY btnPageLogging.accesskey3 "L">
-<!ENTITY btnConsoleErrors       "దోషములు">
-<!ENTITY btnConsoleInfo         "సమాచారం">
-<!ENTITY btnConsoleWarnings     "హెచ్చరికలు">
-<!ENTITY btnConsoleLog          "లాగ్">
+
+
+
+
 <!ENTITY btnConsoleXhr          "XHR">
 <!ENTITY btnConsoleReflows      "రీఫ్లోస్">
+<!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
+  -  the toolbar. It shows or hides messages that the web developer inserted on
+  -  the page for debugging purposes, using calls on the HTTP server. -->
+
+
+
+
+
+
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
 <!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
