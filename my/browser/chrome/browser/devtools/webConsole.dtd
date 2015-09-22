@@ -10,21 +10,6 @@
 
 <!ENTITY window.title "Web Console">
 <!ENTITY browserConsole.title "ဘယောက်ဆာ Console">
-
-
-
-
-<!ENTITY networkPanel.requestCookie               "ကွတ်ကီးများကိုပို့ပြီး">
-
-
-
-
-
-
-
-
-
-
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
 
@@ -59,9 +44,18 @@
   -  console.error(). -->
 
 
-<!ENTITY btnConsoleErrors       "အမှားများ">
 
-<!ENTITY btnConsoleWarnings     "သတိပေးချက်များ">
+
+
+
+
+
+<!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
+  -  the toolbar. It shows or hides messages that the web developer inserted on
+  -  the page for debugging purposes, using calls on the HTTP server. -->
+
+
+
 
 
 

@@ -24,10 +24,7 @@
 <!ENTITY  addonExceptions.accesskey     "E">
 
 
-<!ENTITY  passwords.label               "စကားဝှက်များ">
 
-<!ENTITY  rememberPasswords.label       "R ကွန်ရက်များအတွက် စကားဝှက်များကို မှတ်ထားပါ">
-<!ENTITY  rememberPasswords.accesskey   "R">
 <!ENTITY  passwordExceptions.label      "x ခြွင်းချက်များ...">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
@@ -36,5 +33,4 @@
 <!ENTITY  changeMasterPassword.label     "M ပင်မ စကားဝှက် ‌ပြောင်းပါ...">
 <!ENTITY  changeMasterPassword.accesskey "M">
 
-<!ENTITY  savedPasswords.label            "P သိမ်းထားတဲ့ စကားဝှက်များ ...">
-<!ENTITY  savedPasswords.accesskey        "P">
+

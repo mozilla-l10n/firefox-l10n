@@ -71,16 +71,16 @@
 <!ENTITY projects.addPackagedTooltip "ထုပ်ပိုးထားသော အတ်ပ်တစ်ခုအား ( ဖိုဒါတစ်ခု ) သင့်ကွန်ပျူတာမှ တပ်ဆင်ပါ">
 <!ENTITY projects.addHosted "ဝန်ဆောင်ထားသော အတ်ပ်အားထည့်ပါ">
 
-
-
-
-
-
-
-
+<!ENTITY projects.title "ကိရိယာရှိ အက်ပ်များ">
+<!ENTITY projects.appDetails "အက်ပ် အသေးစိတ်">
+<!ENTITY projects.removeAppFromList "သင်ဆောင်ရွက်နေသည့် အက်ပ်စာရင်းမှ ဒီအက်ပ်ကို ဖယ်ရှားပါ။ ဒီအက်ပ်ကို ကိရိယာ သို့မဟုတ် ဆင်မျူလေတာမှ ဖယ်ရှားမည် မဟုတ်ပါ။">
+<!ENTITY projects.updateApp "အဆင့်မြှင့်ပါ">
+<!ENTITY projects.updateAppTooltip "အထောက်အထား စစ်ဆေးမှုများ ဆောင်ရွက်ပြီး ချိတ်ဆက်ထားသော ကိရိယာရှိ အက်ပ်ကို အဆင့်မြှင့်ပါ">
+<!ENTITY projects.debugApp "အမှားစစ်ရန်">
+<!ENTITY projects.debugAppTooltip "ကိရိယာရှိ ဒီအက်ပ်သို့ ချိတ်ဆက်ထားသော Developer Tools ကို ဖွင့်ပါ">
 <!ENTITY projects.saveManifest "သိမ်းဆည်းပါ">
 
-
+<!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 
 
 
@@ -88,15 +88,16 @@
 
 <!ENTITY projects.valid "ရပြီ">
 <!ENTITY projects.error "အမှား">
+<!ENTITY projects.warning "သတိ​ပေးချက်">
+<!ENTITY projects.hosted "ဝန်ဆောင်ထားသော">
+<!ENTITY projects.packaged "ထုပ်ပိုးထားသော">
 
-
-
-
+<!ENTITY help.title "အက်ပ် မန်နေဂျာ">
 <!ENTITY help.close "ပိတ်ပါ ">
 
 
 
-
-
+<!ENTITY help.configuringDevice "သင့် မီးမြေခွေးစနစ်သုံး ကိရိယာကို စတင်လည်ပတ်ရန် ဆောင်ရွက်နည်း">
+<!ENTITY help.troubleShooting "အခက်အခဲ ဖြေရှင်းခြင်း">
 
 
