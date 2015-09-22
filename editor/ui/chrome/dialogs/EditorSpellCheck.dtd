@@ -20,16 +20,16 @@
 <!ENTITY replaceButton.accessKey "Փ">
 <!ENTITY replaceAllButton.label "Փոխարինել բոլորը">
 <!ENTITY replaceAllButton.accessKey "Փ">
-<!ENTITY stopButton.label "Կանգնեցնել">
-<!ENTITY stopButton.accessKey "Կ">
+
+
 <!ENTITY userDictionary.label "Անձնական բառարան">
 <!ENTITY moreDictionaries.label "Բեռնել բառարաններ...">
 <!ENTITY addToUserDictionaryButton.label "Ավելացնել բառ">
 <!ENTITY addToUserDictionaryButton.accessKey "Ա">
 <!ENTITY editUserDictionaryButton.label "Խմբագրել...">
 <!ENTITY editUserDictionaryButton.accessKey "Խ">
-<!ENTITY recheckButton.label "Վերստուգել էջը">
-<!ENTITY recheckButton.accessKey "Վ">
+
+
 <!ENTITY closeButton.label "Փակել">
 <!ENTITY closeButton.accessKey "Փ">
 <!ENTITY sendButton.label "Ուղարկել">
