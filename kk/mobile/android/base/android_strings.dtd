@@ -11,10 +11,11 @@
 <!ENTITY  onboard_start_subtext3 "Мобильді интернетті қолдануды өздік қылыңыз.">
 <!ENTITY  onboard_start_button_account "&brandShortName; ішіне кіріңіз">
 <!ENTITY  onboard_start_button_browser "Шолуды бастау">
-
+<!ENTITY firstrun_button_next "Келесі">
 
 <!ENTITY  onboard_start_restricted1 "&brandShortName; ыңғайлатылған нұсқасы көмегімен қауіпсіз қалып, әрі басқарудан қол үзбеңіз.">
 
+<!ENTITY firstrun_import_title "Импорттау">
 <!ENTITY firstrun_import_message "&brandShortName; өніміне қош келдіңіз">
 
 
