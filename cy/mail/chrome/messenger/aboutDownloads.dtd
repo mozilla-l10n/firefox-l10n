@@ -17,5 +17,8 @@
 <!ENTITY cmd.open.accesskey                        "o">
 <!ENTITY cmd.removeFromHistory.label               "Tynnu o'r Hanes">
 <!ENTITY cmd.removeFromHistory.accesskey           "T">
-<!ENTITY cmd.clearDownloads.label                  "Clirio Llwythi">
-<!ENTITY cmd.clearDownloads.accesskey              "L">
+<!ENTITY cmd.clearList.label                       "Clirio'r Rhestr">
+<!ENTITY cmd.clearList.accesskey                   "l">
+<!ENTITY cmd.clearList.tooltip                     "Tynnu pob cofnod o'r rhestr ffeiliau wedi eu cadw, ar wahân i lwythi i lawr sy'n digwydd ar hyn o bryd.">
+<!ENTITY cmd.searchDownloads.label                 "Chwilio…">
+<!ENTITY cmd.searchDownloads.key                   "w">

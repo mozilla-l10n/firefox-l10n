@@ -43,6 +43,6 @@
 <!-- Anti Virus -->
 
 <!ENTITY antiVirus.intro      "Mae &brandShortName; yn gallu ei gwneud yn hawdd i feddalwedd gwrth firws ddadansoddi negeseuon e-byst sy'n cael eu derbyn am firysau cyn eu storio'n lleol.">
-<!ENTITY antiVirus.label      "Caniatáu i'r rhaglen neilltuo ar wahân negeseuon sy'n cael eu derbyn">
+<!ENTITY antiVirus.label      "Caniatáu i'r rhaglen neilltuo negeseuon sy'n cael eu derbyn">
 <!ENTITY antiVirus.accesskey  "a">
 

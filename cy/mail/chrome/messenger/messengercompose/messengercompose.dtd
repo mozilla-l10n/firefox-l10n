@@ -215,6 +215,7 @@
 <!ENTITY addressButton.tooltip "Dewis derbynnydd o'r Llyfr Cyfeiriadau">
 <!ENTITY attachButton.tooltip "Cynnwys atodiad">
 <!ENTITY spellingButton.tooltip "Gwirio sillafu adran neu neges gyfan">
+<!ENTITY statusLanguageText.tooltip "Iaith gwirio sillafu">
 <!ENTITY saveButton.tooltip "Cadw'r neges">
 <!ENTITY cutButton.tooltip              "Torri">
 <!ENTITY copyButton.tooltip             "Copïo">
