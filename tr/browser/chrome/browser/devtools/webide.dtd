@@ -27,6 +27,7 @@
 <!ENTITY projectMenu_manageComponents_label "Ek bileşenleri yönet">
 <!ENTITY projectMenu_manageComponents_accesskey "n">
 
+
 <!ENTITY runtimeMenu_label "Çalışma zamanı">
 <!ENTITY runtimeMenu_accesskey "z">
 <!ENTITY runtimeMenu_disconnect_label "Bağlantıyı kes">
