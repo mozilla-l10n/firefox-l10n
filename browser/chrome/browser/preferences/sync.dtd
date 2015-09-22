@@ -72,7 +72,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY notSignedIn.label           "Akungenanga.">
 <!ENTITY signIn.label                "Ngena">
 <!ENTITY profilePicture.tooltip      "Tshintsha umfanekiso weprofayili">
-<!ENTITY manage.label                "Lawula">
+
 <!ENTITY disconnect.label            "Khupha kuqhagamshelo…">
 <!ENTITY verify.label                "Qinisekisa i-imeyili">
 <!ENTITY forget.label                "Yilibale le imeyili">
