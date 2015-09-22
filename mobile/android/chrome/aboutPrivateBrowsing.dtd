@@ -13,9 +13,8 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "Ne uporabljate zasebnega brskanja">
 
-<!ENTITY privatebrowsingpage.description.private3 "Firefox bo preprečil, da bi vam sledili in si ne bo zapomnil zgodovine. Prenešene datoteke in ustvarjeni zaznamki pa se bodo ohranili.">
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
-     Browsing" is capitalized in English to be consistent with our existing uses
+     Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
 <!ENTITY privatebrowsingpage.description.normal2 "V zasebnem brskanju ne bomo shranjevali vaše zgodovine brskanja ali piškotkov. Zaznamki, ki jih dodate in prenešene datoteke pa se bodo ohranile.">
 
