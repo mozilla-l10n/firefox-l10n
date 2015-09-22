@@ -27,6 +27,7 @@
 <!ENTITY projectMenu_manageComponents_label "Administrar componentes extra">
 <!ENTITY projectMenu_manageComponents_accesskey "M">
 
+
 <!ENTITY runtimeMenu_label "Tiempo de ejecución">
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "Desconectar">
