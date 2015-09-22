@@ -24,10 +24,7 @@
 <!ENTITY  addonExceptions.accesskey     "ت">
 
 
-<!ENTITY  passwords.label               "گذرواژه‌ها">
 
-<!ENTITY  rememberPasswords.label       "به خاطر سپردن گذرواژه‌ها برای وب‌گاه‌ها">
-<!ENTITY  rememberPasswords.accesskey   "گ">
 <!ENTITY  passwordExceptions.label      "استثناها…">
 <!ENTITY  passwordExceptions.accesskey  "ث">
 
@@ -36,5 +33,4 @@
 <!ENTITY  changeMasterPassword.label     "تنظیم گذرواژهٔ اصلی…">
 <!ENTITY  changeMasterPassword.accesskey "ص">
 
-<!ENTITY  savedPasswords.label            "گذرواژه‌های ذخیره شده…">
-<!ENTITY  savedPasswords.accesskey        "ذ">
+
