@@ -3,16 +3,16 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY no_space_to_start_error "Na dysku jest za mało wolnego miejsca, aby uruchomić program &brandShortName;">
-<!ENTITY  error_loading_file "Podczas wczytywania plików wymaganych do uruchomienia programu &brandShortName; wystąpił błąd.">
+<!ENTITY error_loading_file "Podczas wczytywania plików wymaganych do uruchomienia programu &brandShortName; wystąpił błąd.">
 
 <!ENTITY firstrun_panel_title_welcome "Witamy">
 <!ENTITY onboard_start_message3 "Przeglądaj z programem &brandShortName;">
 <!ENTITY onboard_start_subtext3 "Spraw, aby przeglądanie mobilne stało się prawdziwie Twoim.">
-<!ENTITY  onboard_start_button_account "Zaloguj się do przeglądarki &brandShortName;">
-<!ENTITY  onboard_start_button_browser "Zacznij przeglądać Internet">
+<!ENTITY onboard_start_button_account "Zaloguj się do przeglądarki &brandShortName;">
+<!ENTITY onboard_start_button_browser "Zacznij przeglądać Internet">
 <!ENTITY firstrun_button_next "Dalej">
 
-<!ENTITY  onboard_start_restricted1 "Bądź bezpieczny dzięki uproszczonej wersji przeglądarki &brandShortName;.">
+<!ENTITY onboard_start_restricted1 "Bądź bezpieczny dzięki uproszczonej wersji przeglądarki &brandShortName;.">
 
 <!ENTITY firstrun_import_title "Importowanie">
 <!ENTITY firstrun_import_message "Witamy w przeglądarce &brandShortName;">
@@ -21,29 +21,29 @@
 <!ENTITY firstrun_import_dialog_button "Prześlij">
 <!ENTITY firstrun_import_progress_title "Przesyłanie">
 
-<!ENTITY  bookmarks_title "Zakładki">
-<!ENTITY  history_title "Historia">
-<!ENTITY  reading_list_title "Do przeczytania">
-<!ENTITY  recent_tabs_title "Ostatnio otwarte karty">
+<!ENTITY bookmarks_title "Zakładki">
+<!ENTITY history_title "Historia">
+<!ENTITY reading_list_title "Do przeczytania">
+<!ENTITY recent_tabs_title "Ostatnio otwarte karty">
 
-<!ENTITY  switch_to_tab "Przełącz na kartę">
+<!ENTITY switch_to_tab "Przełącz na kartę">
 
-<!ENTITY  crash_reporter_title "&brandShortName; – Narzędzie zgłaszania awarii">
+<!ENTITY crash_reporter_title "&brandShortName; – Narzędzie zgłaszania awarii">
 <!ENTITY crash_message2 "Przeglądarka &brandShortName; uległa awarii. Ostatnio otwarte karty powinny być dostępne na stronie startowej po ponownym uruchomieniu.">
-<!ENTITY  crash_send_report_message3 "Prześlij zgłoszenie problemu do organizacji &vendorShortName;, aby mogła go rozwiązać">
-<!ENTITY  crash_include_url2 "Załącz adres strony, na której wystąpił problem">
-<!ENTITY  crash_sorry "Przykro nam">
-<!ENTITY  crash_comment "Dodaj komentarz (komentarze są publicznie dostępne)">
-<!ENTITY  crash_allow_contact2 "Organizacja &vendorShortName; może skontaktować się ze mną w sprawie tego zgłoszenia">
-<!ENTITY  crash_email "Twój adres e-mail">
+<!ENTITY crash_send_report_message3 "Prześlij zgłoszenie problemu do organizacji &vendorShortName;, aby mogła go rozwiązać">
+<!ENTITY crash_include_url2 "Załącz adres strony, na której wystąpił problem">
+<!ENTITY crash_sorry "Przykro nam">
+<!ENTITY crash_comment "Dodaj komentarz (komentarze są publicznie dostępne)">
+<!ENTITY crash_allow_contact2 "Organizacja &vendorShortName; może skontaktować się ze mną w sprawie tego zgłoszenia">
+<!ENTITY crash_email "Twój adres e-mail">
 <!ENTITY crash_closing_alert "Czy wyjść bez wysłania zgłoszenia?">
-<!ENTITY  crash_close_label "Zamknij">
-<!ENTITY  crash_restart_label "Uruchom ponownie program &brandShortName;">
-<!ENTITY  sending_crash_report "Przesyłanie zgłoszenia\u2026">
-<!ENTITY  exit_label "Zakończ">
+<!ENTITY crash_close_label "Zamknij">
+<!ENTITY crash_restart_label "Uruchom ponownie program &brandShortName;">
+<!ENTITY sending_crash_report "Przesyłanie zgłoszenia\u2026">
+<!ENTITY exit_label "Zakończ">
 
-<!ENTITY  launcher_shortcuts_title "&brandShortName; – Aplikacje sieciowe">
-<!ENTITY  launcher_shortcuts_empty "Nie znaleziono aplikacji sieciowych">
+<!ENTITY launcher_shortcuts_title "&brandShortName; – Aplikacje sieciowe">
+<!ENTITY launcher_shortcuts_empty "Nie znaleziono aplikacji sieciowych">
 
 <!ENTITY choose_file "Wybierz plik">
 
@@ -357,10 +357,10 @@
 <!ENTITY bookmark_edit_location "Adres URL">
 <!ENTITY bookmark_edit_keyword "Słowa kluczowe">
 
-<!ENTITY site_settings_title3       "Ustawienia witryny">
-<!ENTITY site_settings_cancel       "Anuluj">
-<!ENTITY site_settings_clear        "Wyczyść">
-<!ENTITY site_settings_no_settings  "Brak ustawień">
+<!ENTITY site_settings_title3 "Ustawienia witryny">
+<!ENTITY site_settings_cancel "Anuluj">
+<!ENTITY site_settings_clear "Wyczyść">
+<!ENTITY site_settings_no_settings "Brak ustawień">
 
 <!ENTITY reading_list_added3 "Dodano do czytelni">
 <!ENTITY reading_list_removed "Strona usunięta z czytelni">

@@ -6,7 +6,7 @@
     SYSTEM "chrome://branding/locale/brand.dtd">
   %brandDTD;
 
-<!ENTITY certerror.pagetitle  "Niezaufane połączenie">
+<!ENTITY certerror.pagetitle "Niezaufane połączenie">
 <!ENTITY certerror.longpagetitle "To połączenie jest niezaufane">
 
 <!ENTITY certerror.introPara1 "Program &brandShortName; został poproszony o nawiązanie bezpiecznego

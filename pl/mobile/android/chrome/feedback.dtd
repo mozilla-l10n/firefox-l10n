@@ -2,14 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY feedbackHeader2.label          "Narzędzia dla testerów">
+<!ENTITY feedbackHeader2.label "Narzędzia dla testerów">
 
-<!ENTITY feedback.communicate.title     "Powiedz nam, co myślisz">
-<!ENTITY feedback.feedback.title        "Wyślij opinię">
-<!ENTITY feedback.feedback.good         "Dobrze">
-<!ENTITY feedback.feedback.bad          "Źle">
+<!ENTITY feedback.communicate.title "Powiedz nam, co myślisz">
+<!ENTITY feedback.feedback.title "Wyślij opinię">
+<!ENTITY feedback.feedback.good "Dobrze">
+<!ENTITY feedback.feedback.bad "Źle">
 
-<!ENTITY feedback.tools.title           "Narzędzia">
-<!ENTITY feedback.allowTelemetry.title  "Przesyłaj dane o wydajności">
-<!ENTITY feedback.forceCompat.title     "Wymuś zgodność dodatków">
-<!ENTITY feedback.errorConsole.title    "Włącz konsolę błędów">
+<!ENTITY feedback.tools.title "Narzędzia">
+<!ENTITY feedback.allowTelemetry.title "Przesyłaj dane o wydajności">
+<!ENTITY feedback.forceCompat.title "Wymuś zgodność dodatków">
+<!ENTITY feedback.errorConsole.title "Włącz konsolę błędów">

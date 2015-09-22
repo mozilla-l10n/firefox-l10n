@@ -2,38 +2,38 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pageTitle                 "&brandShortName; — opinie">
+<!ENTITY pageTitle "&brandShortName; — opinie">
 
-<!ENTITY intro.header              "Masz chwilkę?">
-<!ENTITY intro.message             "Powiedz nam, co myślisz o przeglądarce &brandShortName; dla Androida.">
-<!ENTITY intro.happyLink           "Podoba mi się">
-<!ENTITY intro.sadLink             "Mam kilka uwag">
-<!ENTITY intro.maybeLater          "Może później">
+<!ENTITY intro.header "Masz chwilkę?">
+<!ENTITY intro.message "Powiedz nam, co myślisz o przeglądarce &brandShortName; dla Androida.">
+<!ENTITY intro.happyLink "Podoba mi się">
+<!ENTITY intro.sadLink "Mam kilka uwag">
+<!ENTITY intro.maybeLater "Może później">
 
-<!ENTITY support.pre3              "Zajrzyj na ">
-<!ENTITY support.link2             "stronę pomocy Mozilli">
-<!ENTITY support.post3              ", gdzie znajdziesz rozwiązania powszechnych problemów.">
+<!ENTITY support.pre3 "Zajrzyj na ">
+<!ENTITY support.link2 "stronę pomocy Mozilli">
+<!ENTITY support.post3 ", gdzie znajdziesz rozwiązania powszechnych problemów.">
 
-<!ENTITY happy.header              "Małe pandy radują się">
+<!ENTITY happy.header "Małe pandy radują się">
 <!ENTITY happy.message "Jeśli lubisz naszą przeglądarkę, wystaw jej ocenę na Google Play!">
 
-<!ENTITY happy.finePrint           "Zajmie to mniej niż minutę i pomoże innym użytkownikom.">
+<!ENTITY happy.finePrint "Zajmie to mniej niż minutę i pomoże innym użytkownikom.">
 
-<!ENTITY happy.ratingLink          "Tak, przejdź do sklepu Google Play">
-<!ENTITY happy.maybeLater2          "Może później">
-<!ENTITY happy.noThanks            "Nie, dziękuję">
+<!ENTITY happy.ratingLink "Tak, przejdź do sklepu Google Play">
+<!ENTITY happy.maybeLater2 "Może później">
+<!ENTITY happy.noThanks "Nie, dziękuję">
 
-<!ENTITY sad.header                "O nie!">
+<!ENTITY sad.header "O nie!">
 <!ENTITY sad.message "Przykro nam, że &brandShortName; sprawia problemy. Opisz je nam, żebyśmy mogli je naprawić.">
-<!ENTITY sad.placeholder           "Wprowadź tutaj swoją opinię">
-<!ENTITY sad.lastSite2              "Dodaj ostatnio odwiedzoną stronę">
+<!ENTITY sad.placeholder "Wprowadź tutaj swoją opinię">
+<!ENTITY sad.lastSite2 "Dodaj ostatnio odwiedzoną stronę">
 
-<!ENTITY sad.urlPlaceholder        "http://">
-<!ENTITY sad.thanksHeader2          "Dzięki">
+<!ENTITY sad.urlPlaceholder "http://">
+<!ENTITY sad.thanksHeader2 "Dzięki">
 
-<!ENTITY sad.thanksMessageTop      "Praca nad ulepszeniem przeglądarki &brandShortName; wre bez przerwy. Mamy ludzi, którzy przejrzą wszystkie uwagi i zrobią, co w ich mocy, żeby naprawić to, co nie działa.">
+<!ENTITY sad.thanksMessageTop "Praca nad ulepszeniem przeglądarki &brandShortName; wre bez przerwy. Mamy ludzi, którzy przejrzą wszystkie uwagi i zrobią, co w ich mocy, żeby naprawić to, co nie działa.">
 
-<!ENTITY sad.thanksMessageBottom   "">
+<!ENTITY sad.thanksMessageBottom "">
 
-<!ENTITY feedback.privacy2          "Zadbaj o swoją prywatność i nie umieszczaj żadnych danych osobowych wśród swoich pomysłów.">
-<!ENTITY feedback.send             "Wyślij opinię">
+<!ENTITY feedback.privacy2 "Zadbaj o swoją prywatność i nie umieszczaj żadnych danych osobowych wśród swoich pomysłów.">
+<!ENTITY feedback.send "Wyślij opinię">

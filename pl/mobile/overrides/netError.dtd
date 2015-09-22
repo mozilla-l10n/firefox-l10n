@@ -46,7 +46,7 @@
 <!ENTITY malformedURI.title "Nieprawidłowy adres">
 <!ENTITY malformedURI.longDesc2 "
 <ul>
-  <li>Adresy stron zazwyczaj wyglądają mniej więcej tak  
+  <li>Adresy stron zazwyczaj wyglądają mniej więcej tak
     <strong>http://www.mozilla.org/</strong></li>
     <div id='searchbox'>
       <input id='searchtext' type='search'></input>
