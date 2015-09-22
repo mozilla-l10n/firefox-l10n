@@ -13,7 +13,9 @@
 <!ENTITY pref.calendar.view.workweek.caption "Arbetsvecka">
 
 <!ENTITY pref.weekstarts.label "Veckan startar på en:">
-<!ENTITY pref.weekstarts.accesskey "V">
+<!ENTITY pref.weekstarts.accesskey "r">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Visa veckonummer i vyer">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "v">
 <!ENTITY pref.daysoff.label "Inkludera dessa dagar i arbetsveckan:">
 
 <!ENTITY pref.calendar.view.daystart.label "Dag startar:">
