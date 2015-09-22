@@ -6,15 +6,24 @@
 <!ENTITY  no_space_to_start_error "Ekki er nægjanleg rýmd til að ræsa &brandShortName;.">
 <!ENTITY  error_loading_file "Villa átti sér stað við keyrslu skráa sem tengjast &brandShortName;">
 
+<!ENTITY firstrun_panel_title_welcome "Velkomin(n)">
 <!ENTITY  onboard_start_message3 "Vafra með &brandShortName;">
 <!ENTITY  onboard_start_subtext3 "Gerðu vef upplifunina á handhæga tækinu virkilega þína eigin.">
 <!ENTITY  onboard_start_button_account "Innskráning í &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Fara að vafra">
+
+
 <!ENTITY  onboard_start_restricted1 "Upplifðu öryggi og að vera við stjórnvölinn með þessari einföldu útgáfu af &brandShortName;.">
+
+<!ENTITY firstrun_import_message "Vertu velkomin í &brandShortName;!">
+
+
+
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
-<!ENTITY  bookmarks_title "Bókamerki">
+<!ENTITY  bookmarks_title "Bookmarks">
 <!ENTITY  history_title "Ferill">
 <!ENTITY  reading_list_title "Leslisti">
 <!ENTITY  recent_tabs_title "Nýlegir flipar">
@@ -55,8 +64,9 @@
 
 <!ENTITY history_today_section "Í dag">
 <!ENTITY history_yesterday_section "Í gær">
-<!ENTITY history_week_section2 "Síðasta vika">
-<!ENTITY history_older_section2 "Síðasti mánuður">
+
+
+
 
 <!ENTITY go "Fara">
 <!ENTITY search "Leita">
@@ -69,8 +79,6 @@
 <!ENTITY edit_mode_cancel "Hætta við">
 
 <!ENTITY close_tab "Loka flipa">
-<!ENTITY tab_audio_playing "Þessi flipi er að spila hljóðskrá">
-<!ENTITY tab_audio_muted "Þaggað hefur verið niður í hljóðin á þessum flipa">
 <!ENTITY one_tab "1 flipi">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -81,6 +89,13 @@
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
 <!ENTITY switch_button_message "SKIPTA">
+<!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
+     visible in the UI, but rather used as a text-to-speech content description
+     for sight-impaired a11y users. The content description is set on a tab
+     title in a list of open tabs when content in that tab is playing audio.
+     &formatS; will be replaced with the title of the tab, as received from the
+     web page. When audio is not playing in a tab, &formatS; will be used as
+     the content description. -->
 
 <!ENTITY settings "Stillingar">
 <!ENTITY settings_title "Stillingar">
@@ -182,6 +197,9 @@
 <!ENTITY pref_home_updates_wifi "Eingöngu á Wi-Fi">
 <!ENTITY pref_home_suggested_sites "Sýna uppástungur">
 <!ENTITY pref_home_suggested_sites_summary "Sýna uppástungur á ræsisíðu þinni af svæðum sem við teljum að þér gætu þótt áhugaverðar">
+
+
+
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Sérsníða">
@@ -237,7 +255,6 @@
 <!ENTITY pref_plugins_tap_to_play "Snerta til að spila">
 <!ENTITY pref_plugins_disabled "Óvirkt">
 <!ENTITY pref_text_size "Stærð texta">
-<!ENTITY pref_reflow_on_zoom4 "Sjálfvirk endurstilling texta">
 <!ENTITY pref_restore "Flipar">
 <!ENTITY pref_restore_always "Alltaf endurheimta">
 <!ENTITY pref_restore_quit "Ekki endurheimta þegar &brandShortName; er lokað">
@@ -347,6 +364,7 @@ size. -->
 <!ENTITY share_title "Deila með">
 <!ENTITY share_image_failed "Gat ekki deilt þessari mynd">
 <!ENTITY save_as_pdf "Vista sem PDF">
+
 <!ENTITY find_in_page "Finna á síðu">
 <!ENTITY desktop_mode "Fá venjulega síðu">
 <!ENTITY page "Síða">
@@ -366,7 +384,7 @@ size. -->
 
 <!ENTITY find_text "Finna á síðu">
 <!ENTITY find_prev "Fyrrverandi">
-<!ENTITY find_next "Næsti">
+
 <!ENTITY find_close "Loka">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -391,6 +409,8 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Festa svæði">
 <!ENTITY contextmenu_top_sites_unpin "Losa svæði">
 <!ENTITY contextmenu_add_search_engine "Bæta við leitarvél">
+
+
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
@@ -413,8 +433,6 @@ size. -->
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
-<!ENTITY pref_prevent_magnifying_glass "Slökkva á stækkunargleri">
-<!ENTITY pref_prevent_magnifying_glass_summary "Koma í veg fyrir að stækkunargler sé notað til að leysa úr óljósar skjá snertingar">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -473,8 +491,6 @@ size. -->
 <!ENTITY button_set "Stilla">
 <!ENTITY button_clear "Hreinsa">
 <!ENTITY button_copy "Afrita">
-
-<!ENTITY firstrun_panel_title_welcome "Velkomin(n)">
 
 <!ENTITY home_top_sites_title "Vinsælustu svæðin">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -564,14 +580,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_insecure "Óörugg tenging">
 <!-- Mixed content notifications in site identity popup -->
 
-<!ENTITY mixed_content_blocked_all "&brandShortName; hefur lokað á óöruggt efni á þessari síðu.">
-<!ENTITY mixed_content_blocked_some "&brandShortName; hefur lokað á óöruggt efni á þessari síðu.">
-<!ENTITY mixed_content_display_loaded "Þessi síða inniheldur eitthvað af óöruggu efni.">
-<!ENTITY mixed_content_protection_disabled "Þú hefur slökkt á vernd frá óöruggu efni.">
 
-<!ENTITY loaded_mixed_content_message "Þessi síða birtir efni sem er ekki öruggt.">
-<!ENTITY blocked_mixed_content_message_top "&brandShortName; hefur lokað á efni sem er ekki öruggt.">
-<!ENTITY blocked_mixed_content_message_bottom "Flest svæði munu samt virka eðlilega þrátt fyrir að lokað sé á þetta efni.">
+
 <!-- Tracking content notifications in site identity popup -->
 
 <!ENTITY doorhanger_tracking_title " Ekki fylgjast með mér vernd">
@@ -589,7 +599,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Einkagögn hreinsuð">
 <!ENTITY private_data_fail "Ekki var hægt að hreinsa öll einkagögn">
 
-<!ENTITY bookmarkhistory_button_import "Flytja inn">
 <!ENTITY bookmarkhistory_import_both "Flytja inn bókarmerki og ferli  
 frá Android">
 <!ENTITY bookmarkhistory_import_bookmarks "Flyt inn bókarmerki  
@@ -703,4 +712,11 @@ frá Android">
 <!ENTITY restriction_disallow_clear_history_title2 "Óvirkja \u0027Hreinsa feril\u0027">
 <!ENTITY restriction_disallow_master_password_title2 "Óvirkja aðal lykilorð">
 <!ENTITY restriction_disallow_guest_browsing_title2 "Óvirkja gesta lotu">
-
+<!-- Default Bookmarks titles-->
+<!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
+<!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
+<!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
