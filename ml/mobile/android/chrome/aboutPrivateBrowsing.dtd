@@ -2,12 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                  "സ്വകാര്യ ബ്രൗസിങ്">
+<!ENTITY privatebrowsingpage.title "സ്വകാര്യ ബ്രൗസിങ്">
+<!-- Localisation note: the plus sign here is a shorthand way of expressing the word "and". Contextually the privatebrowsingpage.title.private string
+                        is used as a title, with the privatebrowsingpage.title string preceding it but on a separate line.
+                        So the final line will say "Private Browsing + Tracking Protection". -->
+<!-- Localization note (privatebrowsingpage.title.normal1): "Private Browsing"
+     is capitalized in English to be consistent with our existing uses of the
+     term. -->
 
-<!ENTITY privatebrowsingpage.issueDesc.private      "പുതിയൊരു സ്വകാര്യ റ്റാബ് തുറന്നിരിയ്ക്കുന്നു.">
-<!ENTITY privatebrowsingpage.issueDesc.normal       "സ്വകാര്യ റ്റാബിലല്ല.">
+<!-- Localization note (privatebrowsingpage.description.normal2): "Private
+     Browsing is capitalized in English to be consistent with our existing uses
+     of the term. -->
 
-<!ENTITY privatebrowsingpage.description            "സ്വകാര്യ റ്റാബുകളില്‍, ബ്രൌസര്‍, തെരച്ചില്‍, ഡൌണ്‍ലോഡ്,വെബ്, തുടങ്ങിയവയുടെ നാള്‍വഴി, കുക്കി അല്ലെങ്കില്‍ താല്‍ക്കാലിക ഇന്റര്‍നെറ്റ് ഫയലുകള്‍ എന്നിവ &brandShortName; സൂക്ഷിക്കുന്നതല്ല. എന്നിരുന്നാലും, നിങ്ങള്‍ ഡൌണ്‍ലോഡ് ചെയ്യുന്ന ഫയലുകളും സൂക്ഷിക്കുന്ന അടയാളക്കുറിപ്പുകളും ലഭ്യമാകുന്നതാണു്.">
-<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+<!ENTITY privatebrowsingpage.link.private "കൂടുതലറിയണോ?">
 
-<!ENTITY privatebrowsingpage.moreInfo               "നിങ്ങള്‍ സന്ദര്‍ശിയ്ക്കുന്ന വെബ്സൈറ്റുകളുടെ വിവരങ്ങള്‍ ഈ കമ്പ്യൂട്ടറില്‍ സൂക്ഷിക്കുന്നില്ലെങ്കിലും, നിങ്ങളുടെ ഇന്റര്‍നെറ്റ് സര്‍വീസ് പ്രൊവൈഡറിനു് ഈ വിവരങ്ങളെല്ലാം ലഭ്യമാണു്.">
