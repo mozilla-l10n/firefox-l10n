@@ -17,10 +17,10 @@
 
 <!ENTITY firstrun_import_title "Импорттау">
 <!ENTITY firstrun_import_message "&brandShortName; өніміне қош келдіңіз">
-
-
-
-
+<!ENTITY firstrun_import_subtext "Бетбелгілер және тарихты басқа браузерден импорттау.">
+<!ENTITY firstrun_import_action "&brandShortName; ішіне импорттау">
+<!ENTITY firstrun_import_dialog_button "Импорттау">
+<!ENTITY firstrun_import_progress_title "Импорттау">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -65,9 +65,9 @@
 
 <!ENTITY history_today_section "Бүгін">
 <!ENTITY history_yesterday_section "Кеше">
-
-
-
+<!ENTITY history_week_section3 "Соңғы 7 күн">
+<!ENTITY history_this_month_section "Бұл ай">
+<!ENTITY history_older_section3 "6 айдан ескі">
 
 <!ENTITY go "Өту">
 <!ENTITY search "Іздеу">
@@ -97,6 +97,7 @@
      &formatS; will be replaced with the title of the tab, as received from the
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "Аудионы ойнату – &formatS;">
 
 <!ENTITY settings "Баптаулар">
 <!ENTITY settings_title "Баптаулар">
@@ -198,9 +199,9 @@
 <!ENTITY pref_home_updates_wifi "Тек Wi-Fi арқылы">
 <!ENTITY pref_home_suggested_sites "Сайттарды ұсыну">
 <!ENTITY pref_home_suggested_sites_summary "Сізге қызық бола алатын сайттарды үй парағыңызда көрсету">
-
-
-
+<!ENTITY pref_category_home_homepage "Үй парағы">
+<!ENTITY home_homepage_title "Үй парағын орнату">
+<!ENTITY home_homepage_use_current_tab "Ағымдағы бетті қолдану">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Баптау">
@@ -365,7 +366,7 @@ size. -->
 <!ENTITY share_title "Арқылы бөлісу">
 <!ENTITY share_image_failed "Бұл суретпен бөлісу сәтсіз аяқталды">
 <!ENTITY save_as_pdf "PDF ретінде сақтау">
-
+<!ENTITY print "Баспаға шығару">
 <!ENTITY find_in_page "Беттен табу">
 <!ENTITY desktop_mode "Сайттың толық нұсқасы">
 <!ENTITY page "Бет">
@@ -385,7 +386,7 @@ size. -->
 
 <!ENTITY find_text "Беттен табу">
 <!ENTITY find_prev "Алдыңғы">
-
+<!ENTITY find_next "Келесі">
 <!ENTITY find_close "Жабу">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -410,8 +411,8 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Сайтты бекіту">
 <!ENTITY contextmenu_top_sites_unpin "Сайтты бекітуден босату">
 <!ENTITY contextmenu_add_search_engine "Іздеу жүйесін қосу">
-
-
+<!ENTITY contextmenu_mark_read "Оқылған ретінде белгілеу">
+<!ENTITY contextmenu_mark_unread "Оқылмаған ретінде белгілеу">
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
@@ -434,6 +435,8 @@ size. -->
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
+<!ENTITY pref_magnifying_glass_enabled "Кіші аймақтарды үлкейту">
+<!ENTITY pref_magnifying_glass_enabled_summary "Сілтемелер және формалар өрістерін олардың қасында шерткенде үлкейту">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -581,8 +584,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_insecure "Қауіпсіз емес байланыс">
 <!-- Mixed content notifications in site identity popup -->
 
-
-
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; бұл парақтағы қауіпсіз емес құраманы блоктаған.">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; бұл парақтағы қауіпсіз емес кейбір құраманы блоктаған.">
+<!ENTITY mixed_content_display_loaded1 "Бұл парақтың кейбір бөліктері қауіпсіз емес (суреттер сияқты).">
+<!ENTITY mixed_content_protection_disabled1 "Сіз қауіпсіз емес элементтерден қорғанысты сөндіргенсіз.">
 <!-- Tracking content notifications in site identity popup -->
 
 <!ENTITY doorhanger_tracking_title "Бақылаудан қорғаныс">
@@ -600,6 +605,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Жеке деректер өшірілді">
 <!ENTITY private_data_fail "Кейбір жеке деректерді өшіру мүмкін емес">
 
+<!ENTITY bookmarkhistory_button_import "Импорттау">
 <!ENTITY bookmarkhistory_import_both "Бетбелгілер және тарихты 
 Android-тан импорттау">
 <!ENTITY bookmarkhistory_import_bookmarks "Бетбелгілерді Android-тан 
@@ -715,9 +721,14 @@ Android-тан импорттау">
 <!ENTITY restriction_disallow_guest_browsing_title2 "Қоңақ шолу режимін сөндіру">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
+
+<!ENTITY bookmarks_title "Мобильді">
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!ENTITY bookmarks_about_browser "Firefox: Браузеріңіз туралы">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "Firefox: Кеңейтулер көмегімен баптау">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "Firefox: Қолдау">
 <!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
 <!ENTITY bookmarks_marketplace "Firefox дүкені">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
