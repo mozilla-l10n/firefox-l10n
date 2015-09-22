@@ -24,10 +24,7 @@
 <!ENTITY  addonExceptions.accesskey     "Ε">
 
 
-<!ENTITY  passwords.label               "Κωδικοί">
 
-<!ENTITY  rememberPasswords.label       "Απομνημόνευση κωδικών για σελίδες">
-<!ENTITY  rememberPasswords.accesskey   "μ">
 <!ENTITY  passwordExceptions.label      "Εξαιρέσεις...">
 <!ENTITY  passwordExceptions.accesskey  "ξ">
 
@@ -36,5 +33,3 @@
 <!ENTITY  changeMasterPassword.label     "Αλλαγή κύριου κωδικού...">
 <!ENTITY  changeMasterPassword.accesskey "γ">
 
-<!ENTITY  savedPasswords.label            "Αποθηκευμένοι κωδικοί…">
-<!ENTITY  savedPasswords.accesskey        "θ">
