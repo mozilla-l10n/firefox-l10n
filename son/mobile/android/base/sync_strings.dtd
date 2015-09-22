@@ -197,6 +197,7 @@
 
 <!ENTITY fxaccount_status_header2 "Firefox kontu">
 <!ENTITY fxaccount_status_signed_in_as "Huru sanda">
+
 <!ENTITY fxaccount_status_auth_server "Kontu feršikaw">
 <!ENTITY fxaccount_status_sync_now "Hangandi sohõ">
 <!ENTITY fxaccount_status_syncing2 "Goo ma hangandi…">
