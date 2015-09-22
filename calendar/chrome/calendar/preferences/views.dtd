@@ -14,6 +14,8 @@
 
 <!ENTITY pref.weekstarts.label "La setmana s'inicia el:">
 <!ENTITY pref.weekstarts.accesskey "n">
+
+
 <!ENTITY pref.daysoff.label "Inclou aquests dies a la setmana laboral:">
 
 <!ENTITY pref.calendar.view.daystart.label "El dia s'inicia a les:">
