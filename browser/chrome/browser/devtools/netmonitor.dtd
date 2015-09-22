@@ -211,10 +211,6 @@
   -  in a "receive" state. -->
 <!ENTITY netmonitorUI.timings.receive     "받기:">
 
-<!-- LOCALIZATION NOTE (netmonitorUI.security.warning.protocol): A tooltip
-  -  for warning icon that indicates a connection uses insecure protocol. -->
-<!ENTITY netmonitorUI.security.warning.sslv3      "SSL 3.0 프로토콜은 더 이상 사용되지 않으며 안전하지 못합니다.">
-
 <!-- LOCALIZATION NOTE (netmonitorUI.security.warning.cipher): A tooltip
   -  for warning icon that indicates a connection uses insecure cipher suite. -->
 <!ENTITY netmonitorUI.security.warning.cipher     "암호화에 쓰인 암호기는 더 이상 사용되지 않으며 안전하지 못합니다.">
