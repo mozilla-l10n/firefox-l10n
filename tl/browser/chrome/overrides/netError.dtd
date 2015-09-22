@@ -4,6 +4,8 @@
 
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
+
+<!ENTITY loadError.label "Problema ng pagkarga ng pahina">
 <!ENTITY retry.label "Ulitin">
 <!-- Specific error messages -->
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -43,6 +45,7 @@
 
 
 
+<!ENTITY redirectLoop.title "Ang pahina ay hindi nag didirekta ng maayos">
 
 
 

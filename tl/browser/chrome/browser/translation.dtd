@@ -44,7 +44,8 @@
   -  The accesskey values used here should not clash with the value used for
   -  translation.options.neverForLanguage.accesskey in translation.properties
   -->
-
+<!ENTITY translation.options.neverForSite.label "Huwag kailanman isalin ang site na ito">
+<!ENTITY translation.options.neverForSite.accesskey "e">
 
 
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
