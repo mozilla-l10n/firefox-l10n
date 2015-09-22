@@ -6,15 +6,24 @@
 <!ENTITY  no_space_to_start_error "N\u0027eus ket plas a-walc\u0027h war ar gantenn evit loc\u0027hañ &brandShortName;.">
 <!ENTITY  error_loading_file "Degouezhet ez eus bet ur fazi e-pad ma oa o klask pellgargañ restroù azgoulennet da loc\u0027hañ &brandShortName;">
 
+<!ENTITY firstrun_panel_title_welcome "Degemer mat">
 <!ENTITY  onboard_start_message3 "Merdeiñ gant &brandShortName;">
 <!ENTITY  onboard_start_subtext3 "Lakait ho merdeiñ web hezoug da vezañ deoc\u0027h ho-unan.">
 <!ENTITY  onboard_start_button_account "Kennaskañ ouzh &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Krog da verdeiñ">
+
+
 <!ENTITY  onboard_start_restricted1 "Chomit diarvar ha dalc\u0027hit ar mestroniezh gant stumm eeunaet &brandShortName;.">
+
+<!ENTITY firstrun_import_message "Donemat e &brandShortName;">
+
+
+
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
-<!ENTITY  bookmarks_title "Sinedoù">
+<!ENTITY  bookmarks_title "Bookmarks">
 <!ENTITY  history_title "Roll istor">
 <!ENTITY  reading_list_title "Roll al lennadurioù">
 <!ENTITY  recent_tabs_title "Ivinelloù nevesañ">
@@ -55,8 +64,9 @@
 
 <!ENTITY history_today_section "Hiziv">
 <!ENTITY history_yesterday_section "Dec\u0027h">
-<!ENTITY history_week_section2 "Ur sizhun zo">
-<!ENTITY history_older_section2 "Ar miz tremenet">
+
+
+
 
 <!ENTITY go "Mont">
 <!ENTITY search "Klask">
@@ -69,8 +79,6 @@
 <!ENTITY edit_mode_cancel "Nullañ">
 
 <!ENTITY close_tab "Serriñ an ivinell">
-<!ENTITY tab_audio_playing "Aodio a vez sonet gant an ivinell-mañ">
-<!ENTITY tab_audio_muted "Mutet eo bet an ivinell-mañ">
 <!ENTITY one_tab "1 ivinell">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -81,6 +89,13 @@
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
 <!ENTITY switch_button_message "TREC\u0027HAOLER">
+<!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
+     visible in the UI, but rather used as a text-to-speech content description
+     for sight-impaired a11y users. The content description is set on a tab
+     title in a list of open tabs when content in that tab is playing audio.
+     &formatS; will be replaced with the title of the tab, as received from the
+     web page. When audio is not playing in a tab, &formatS; will be used as
+     the content description. -->
 
 <!ENTITY settings "Arventennoù">
 <!ENTITY settings_title "Arventennoù">
@@ -182,6 +197,9 @@
 <!ENTITY pref_home_updates_wifi "Dre Wi-Fi nemetken">
 <!ENTITY pref_home_suggested_sites "Diskouez kinnigoù al lec\u0027hienn">
 <!ENTITY pref_home_suggested_sites_summary "Skrammañ berradennoù betek lec\u0027hiennoù war ho pennbajennad. Marteze e viot dedennet ganto">
+
+
+
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Personelaat">
@@ -237,7 +255,6 @@
 <!ENTITY pref_plugins_tap_to_play "Stokit evit lenn">
 <!ENTITY pref_plugins_disabled "Diweredekaet">
 <!ENTITY pref_text_size "Ment an destenn">
-<!ENTITY pref_reflow_on_zoom4 "Kempenn an destenn">
 <!ENTITY pref_restore "Ivinelloù">
 <!ENTITY pref_restore_always "Assav bewech">
 <!ENTITY pref_restore_quit "Arabat assav goude bezañ kuitaet &brandShortName;">
@@ -347,6 +364,7 @@ size. -->
 <!ENTITY share_title "Rannañ dre ">
 <!ENTITY share_image_failed "N\u0027haller ket rannañ ar skeudenn-mañ">
 <!ENTITY save_as_pdf "Enrollañ evel PDF">
+
 <!ENTITY find_in_page "Kavout er bajennad">
 <!ENTITY desktop_mode "Goulenn neuz al lec\u0027hienn evit an urzhiataerioù">
 <!ENTITY page "Pajenn">
@@ -366,7 +384,7 @@ size. -->
 
 <!ENTITY find_text "Kavout er bajennad">
 <!ENTITY find_prev "Kent">
-<!ENTITY find_next "War-lerc\u0027h">
+
 <!ENTITY find_close "Serriñ">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -391,6 +409,8 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Spilhennañ al lec\u0027hienn">
 <!ENTITY contextmenu_top_sites_unpin "Dispilhennañ al lec\u0027hienn">
 <!ENTITY contextmenu_add_search_engine "Ouzhpennañ ur c\u0027heflusker klask">
+
+
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
@@ -413,8 +433,6 @@ size. -->
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
-<!ENTITY pref_prevent_magnifying_glass "Skrammañ ar brasaer ">
-<!ENTITY pref_prevent_magnifying_glass_summary "Mirout ouzh arver ar brasaer evit diskoulmañ stokadennoù skramm forc\u0027hellek">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -473,8 +491,6 @@ size. -->
 <!ENTITY button_set "Despizet">
 <!ENTITY button_clear "Skarzhañ">
 <!ENTITY button_copy "Eilañ">
-
-<!ENTITY firstrun_panel_title_welcome "Degemer mat">
 
 <!ENTITY home_top_sites_title "Lec\u0027hiennoù e-touez re wellañ">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -564,14 +580,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_insecure "Kennask arvarus">
 <!-- Mixed content notifications in site identity popup -->
 
-<!ENTITY mixed_content_blocked_all "Stanket eo bet elfennoù arvarus er bajenn gant &brandShortName;.">
-<!ENTITY mixed_content_blocked_some "Stanket eo bet elfennoù arvarus er bajenn gant &brandShortName;.">
-<!ENTITY mixed_content_display_loaded "Elfennoù arvarus a zo er bajenn-mañ.">
-<!ENTITY mixed_content_protection_disabled "Diweredekaet ho peus ar gwarez a-enep an elfennoù arvarus.">
 
-<!ENTITY loaded_mixed_content_message "Endalc\u0027had a vefe arvarus a zo skrammet gant ar bajennad-mañ.">
-<!ENTITY blocked_mixed_content_message_top "Harzet eo bet endalc\u0027had a vefe arvarus gant &brandShortName;.">
-<!ENTITY blocked_mixed_content_message_bottom "An darn vrasañ eus al lec\u0027hiennoù a yelo en-dro ent dereat ha pa vo harzet an endalc\u0027had-mañ.">
+
 <!-- Tracking content notifications in site identity popup -->
 
 <!ENTITY doorhanger_tracking_title "Gwarez heuliañ">
@@ -589,7 +599,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Roadennoù prevez skarzhet">
 <!ENTITY private_data_fail "Ul lod eus ar roadennoù prevez n\u0027eo ket bet skarzhet">
 
-<!ENTITY bookmarkhistory_button_import "Enporzhiañ">
 <!ENTITY bookmarkhistory_import_both "Enporzhiadur ar sinedoù hag ar roll istor 
 diouzh Android">
 <!ENTITY bookmarkhistory_import_bookmarks "Enporzhiadur ar sinedoù 
@@ -703,4 +712,11 @@ diouzh Android">
 <!ENTITY restriction_disallow_clear_history_title2 "Diweredekaat \u0027Skarzhañ ar roll istor\u0027">
 <!ENTITY restriction_disallow_master_password_title2 "Diweredekaat ar ger-tremen mestr">
 <!ENTITY restriction_disallow_guest_browsing_title2 "Diweredekaat ar merdeiñ kouviad">
-
+<!-- Default Bookmarks titles-->
+<!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
+<!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
+<!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
