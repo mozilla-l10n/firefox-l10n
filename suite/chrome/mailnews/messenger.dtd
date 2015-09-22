@@ -114,8 +114,8 @@
 
 <!ENTITY showMessengerToolbarCmd.label "Padrão">
 <!ENTITY showMessengerToolbarCmd.accesskey "a">
-<!ENTITY showSearchToolbarCmd.label "Modo de visualização">
-<!ENTITY showSearchToolbarCmd.accesskey "v">
+
+
 <!ENTITY showTabsToolbarCmd.label "Barra de ferramentas de abas">
 <!ENTITY showTabsToolbarCmd.accesskey "b">
 

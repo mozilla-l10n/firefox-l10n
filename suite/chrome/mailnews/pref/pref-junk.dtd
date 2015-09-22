@@ -35,6 +35,4 @@
 <!ENTITY enablePhishingDetector.accesskey "t">
 <!-- Anti Virus -->
 
-<!ENTITY pref.antivirus.caption           "Antivírus">
-<!ENTITY antiVirus.label                  "Permitir que aplicativos antivírus verifiquem mensagens recebidas mais facilmente">
-<!ENTITY antiVirus.accesskey              "a">
+

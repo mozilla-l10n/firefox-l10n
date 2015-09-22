@@ -21,6 +21,9 @@
 <!ENTITY allowContextmenuDisable.label   "Desativar ou substituir menus de contexto">
 <!ENTITY allowHideStatusBar.label        "Ocultar a barra de status ">
 
+
+
+
 <!ENTITY enablePlugins.label             "Permitir plugins para">
 <!ENTITY enablePluginForSuite.label      "Suite">
 <!ENTITY enablePluginForSuite.accesskey  "u">
