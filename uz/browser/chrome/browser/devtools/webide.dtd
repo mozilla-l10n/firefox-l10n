@@ -27,6 +27,7 @@
 <!ENTITY projectMenu_manageComponents_label "Qo‘shimcha komponentlarni boshqarish">
 <!ENTITY projectMenu_manageComponents_accesskey "M">
 
+
 <!ENTITY runtimeMenu_label "Ishga tushish vaqti">
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "Uzish">

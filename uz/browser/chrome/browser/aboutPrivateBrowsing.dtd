@@ -7,33 +7,24 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "M">
 
 <!ENTITY privateBrowsing.title                 "Maxfiy koʻrish">
-<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width1):
      Width of the Private Browsing section. This should depend primarily on the
      length of the headers and text, but should be roughly 1.5 times the width
      of the Tracking Protection section, and in general not much larger than
      30em to prevent the sections from wrapping on smaller window sizes.
      -->
-<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
-     aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
-     These strings will be replaced by aboutPrivateBrowsing.forgotten and
-     aboutPrivateBrowsing.kept when the new visual design lands (bug 1192625).
-     -->
-
 <!ENTITY aboutPrivateBrowsing.title            "Siz maxfiy tarzda internetni ko‘ryapsiz">
-
-
 
 <!ENTITY aboutPrivateBrowsing.info.history     "Tarix">
 
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Kukilar">
 
 
-
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Yuklab olishlar">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Xatchoʻplar">
 
 <!ENTITY aboutPrivateBrowsing.learnMore        "Ko‘proq o‘rganish">
-<!-- LOCALIZATION NOTE (trackingProtection.width):
+<!-- LOCALIZATION NOTE (trackingProtection.width1):
      Width of the Tracking Protection section. It is fine for the enabled or
      disabled indicator or the words in the title to wrap to the next line, but
      you can expand or reduce this section to fit better, as long as the width

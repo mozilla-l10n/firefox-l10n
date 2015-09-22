@@ -72,7 +72,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY notSignedIn.label           "Siz kirmagansiz.">
 <!ENTITY signIn.label                "Kirish">
 
-<!ENTITY manage.label                "Boshqarish">
+
 <!ENTITY disconnect.label            "Ajratilmoqda…">
 <!ENTITY verify.label                "E-pochtani tasdiqlash">
 <!ENTITY forget.label                "Ushbu e-pochtani unutish">
