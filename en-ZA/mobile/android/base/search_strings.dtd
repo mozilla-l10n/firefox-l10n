@@ -1,0 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!--  Localization note (search_bar_hint): The &formatS; will be replaced with the name of
+      the currently selected search engine. -->
+
+
+<!--  Localization note (search_plus_content_description): This is the content description
+      for the "+" icon that appears at the end of search suggestions. -->
+
+
+
+
+
+
+
+<!ENTITY search_widget_button_label "Search">
+
+

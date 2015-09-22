@@ -17,9 +17,7 @@
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
-<!ENTITY support.pre2              "You can also visit ">
-<!ENTITY support.link              "&brandShortName; Support">
-<!ENTITY support.post2             " for more information.">
+
 
 <!ENTITY happy.header              "That's great to hear!">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
@@ -37,11 +35,11 @@
 
 <!ENTITY sad.message               "We're sorry that you had some problems with &brandShortName;. Please tell us what happened so that we can fix it.">
 <!ENTITY sad.placeholder           "Enter your feedback here">
-<!ENTITY sad.lastSite              "Last visited site (optional)">
+
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 
 <!ENTITY sad.urlPlaceholder        "http://">
-<!ENTITY sad.thanksHeader          "Thanks for letting us know.">
+
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
 
@@ -52,5 +50,4 @@
 
 <!ENTITY sad.thanksMessageBottom   "Or else.">
 
-<!ENTITY feedback.privacy          "For your privacy, please don't include any personally identifiable information in your feedback.">
 <!ENTITY feedback.send             "Send Feedback">
