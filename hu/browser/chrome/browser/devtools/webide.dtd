@@ -27,6 +27,7 @@
 <!ENTITY projectMenu_manageComponents_label "Extra összetevők kezelése">
 <!ENTITY projectMenu_manageComponents_accesskey "E">
 
+
 <!ENTITY runtimeMenu_label "Futtatókörnyezet">
 <!ENTITY runtimeMenu_accesskey "F">
 <!ENTITY runtimeMenu_disconnect_label "Leválás">

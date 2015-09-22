@@ -10,24 +10,6 @@
 
 <!ENTITY window.title "Webkonzol">
 <!ENTITY browserConsole.title "Böngészőkonzol">
-
-<!ENTITY networkPanel.requestURLColon             "Kérés URL:">
-<!ENTITY networkPanel.requestMethodColon          "Kérésmetódus:">
-<!ENTITY networkPanel.statusCodeColon             "Állapotkód:">
-
-<!ENTITY networkPanel.requestHeaders              "Kérés fejléce">
-<!ENTITY networkPanel.requestCookie               "Elküldött süti">
-<!ENTITY networkPanel.requestBody                 "Kérés törzse">
-<!ENTITY networkPanel.requestFormData             "Elküldött űrlapadat">
-
-<!ENTITY networkPanel.responseHeaders             "Válasz fejléce">
-<!ENTITY networkPanel.responseCookie              "Kapott süti">
-<!ENTITY networkPanel.responseBody                "Válasz törzse">
-<!ENTITY networkPanel.responseBodyCached          "Gyorsítótárazott adatok">
-<!ENTITY networkPanel.responseBodyUnknownType     "Ismeretlen tartalomtípus">
-<!ENTITY networkPanel.responseNoBody              "Nincs választörzs">
-<!ENTITY networkPanel.responseImage               "Kapott kép">
-<!ENTITY networkPanel.responseImageCached         "Gyorsítótárazott kép">
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
 
@@ -69,12 +51,21 @@
 <!ENTITY btnPageLogging.label   "Naplózás">
 <!ENTITY btnPageLogging.tooltip "A „window.console” objektumnak küldött naplóüzenetek">
 <!ENTITY btnPageLogging.accesskey3 "a">
-<!ENTITY btnConsoleErrors       "Hibák">
-<!ENTITY btnConsoleInfo         "Információ">
-<!ENTITY btnConsoleWarnings     "Figyelmeztetések">
-<!ENTITY btnConsoleLog          "Napló">
+
+
+
+
 <!ENTITY btnConsoleXhr          "XHR">
 <!ENTITY btnConsoleReflows      "Áttördelések">
+<!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
+  -  the toolbar. It shows or hides messages that the web developer inserted on
+  -  the page for debugging purposes, using calls on the HTTP server. -->
+
+
+
+
+
+
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
 
