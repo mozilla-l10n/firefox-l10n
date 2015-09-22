@@ -24,10 +24,7 @@
 <!ENTITY  addonExceptions.accesskey     "e">
 
 
-<!ENTITY  passwords.label               "Ehintasɛmfua">
 
-<!ENTITY  rememberPasswords.label       "Kae ahintasɛmfua ma nsaet">
-<!ENTITY  rememberPasswords.accesskey   "e">
 <!ENTITY  passwordExceptions.label      "Ngyegye…">
 <!ENTITY  passwordExceptions.accesskey  "g">
 
@@ -36,5 +33,4 @@
 <!ENTITY  changeMasterPassword.label     "Sesa Ehintasɛmfua Panin…">
 <!ENTITY  changeMasterPassword.accesskey "m">
 
-<!ENTITY  savedPasswords.label            "Ahintasɛmfua a Wɔesie…">
-<!ENTITY  savedPasswords.accesskey        "A">
+
