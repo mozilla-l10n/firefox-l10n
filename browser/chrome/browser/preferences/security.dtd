@@ -22,10 +22,7 @@
 <!ENTITY  addonExceptions.accesskey     "ж">
 
 
-<!ENTITY  passwords.label               "Нууц үгс">
 
-<!ENTITY  rememberPasswords.label       "Хуудасны нууц үгсийг сануул">
-<!ENTITY  rememberPasswords.accesskey   "Х">
 <!ENTITY  passwordExceptions.label      "Зөвшөөрөгдсөн хуудас…">
 <!ENTITY  passwordExceptions.accesskey  "ш">
 
@@ -34,5 +31,4 @@
 <!ENTITY  changeMasterPassword.label     "Мастер нууц үгийг өөрчил…">
 <!ENTITY  changeMasterPassword.accesskey "с">
 
-<!ENTITY  savedPasswords.label            "Нууц үгсийг харуул…">
-<!ENTITY  savedPasswords.accesskey        "х">
+
