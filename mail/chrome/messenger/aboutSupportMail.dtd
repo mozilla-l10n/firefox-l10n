@@ -15,5 +15,6 @@
 <!ENTITY aboutSupport.accountsConnSecurity "Verbindingsbeveiliging">
 <!ENTITY aboutSupport.accountsAuthMethod "Authenticatiemethode">
 <!ENTITY aboutSupport.accountsDefault "Standaard?">
+<!ENTITY aboutSupport.identityName "Identiteit">
 
 <!ENTITY aboutSupport.sendViaEmail.label "Verzenden via e-mail">

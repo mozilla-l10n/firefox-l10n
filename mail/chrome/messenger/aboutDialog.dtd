@@ -13,18 +13,36 @@
 <!ENTITY update.applyButtonBillboard.label        "Update toepassen…">
 <!ENTITY update.applyButtonBillboard.accesskey    "t">
 
+
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+<!ENTITY warningDesc.version        "&brandShortName; is experimenteel en kan onstabiel zijn.">
+<!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetryDesc  "Er worden automatisch gegevens over prestaties, hardware, gebruik en persoonlijke aanpassingen naar &vendorShortName; verzonden, zodat &brandShortName; kan worden verbeterd.">
+
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+<!ENTITY community.exp.start        "">
+<!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
+<!ENTITY community.exp.mozillaLink  "&vendorShortName;">
+<!ENTITY community.exp.middle       " is een ">
+<!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
+<!ENTITY community.exp.creditsLink  "wereldwijde gemeenschap">
+<!ENTITY community.exp.end          " die samenwerkt om het internet open, openbaar en voor iedereen toegankelijk te houden.">
+
 <!ENTITY community.start2           "&brandShortName; is ontworpen door ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          ", een ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "wereldwijde gemeenschap">
-<!ENTITY community.end2             " die samenwerkt om het internet te verbeteren. We vinden dat het internet open, openbaar en zonder restricties voor iedereen toegankelijk moet zijn.">
+<!ENTITY community.end3             " die samenwerkt om het internet open, openbaar en voor iedereen toegankelijk te houden.">
 
-<!ENTITY contribute.start           "Interessant? ">
-<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "Doe mee!">
-<!ENTITY contribute.end             "">
+<!ENTITY helpus.start               "Wilt u helpen? ">
+<!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
+<!ENTITY helpus.donateLink          "Geef een donatie">
+<!ENTITY helpus.middle              " of ">
+<!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY helpus.getInvolvedLink     "doe mee!">
+<!ENTITY helpus.end                 "">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 <!ENTITY bottomLinks.license        "Licentie-informatie">
@@ -41,6 +59,8 @@
 <!ENTITY update.noUpdatesFound      "&brandShortName; is up-to-date">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "Updates zijn uitgeschakeld door uw systeembeheerder">
+<!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
+<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; wordt door een ander exemplaar bijgewerkt">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into

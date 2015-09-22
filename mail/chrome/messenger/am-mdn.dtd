@@ -15,7 +15,7 @@
 <!ENTITY leaveIt.label                "Deze in mijn Postvak IN laten staan">
 <!ENTITY leaveIt.accesskey            "P">
 <!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
-<!ENTITY moveToSent.label             "Deze naar mijn map “Verzonden” verplaatsen">
+<!ENTITY moveToSent.label             "Deze naar mijn map ‘Verzonden’ verplaatsen">
 <!ENTITY moveToSent.accesskey         "D">
 <!ENTITY requestMDN.label             "Als ik een verzoek voor een leesbevestiging ontvang:">
 <!ENTITY returnSome.label             "Leesbevestigingen bij sommige berichten toestaan">

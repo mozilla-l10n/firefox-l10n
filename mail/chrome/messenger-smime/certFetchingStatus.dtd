@@ -4,6 +4,6 @@
 
 <!--LOCALIZATION NOTE shown while obtaining certificates from a directory -->
 
-<!ENTITY title.label "Bezig met downloaden van certificaten">
-<!ENTITY info.message "Bezig met doorzoeken van directory naar ontvangercertificaten. Dit kan enkele minuten duren.">
+<!ENTITY title.label "Certificaten downloaden">
+<!ENTITY info.message "De directory wordt doorzocht op ontvangercertificaten. Dit kan enkele minuten duren.">
 <!ENTITY stop.label "Zoeken stoppen">

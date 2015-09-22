@@ -6,16 +6,16 @@
 <!ENTITY pref.locationBar.title                "Locatiebalk">
 
 <!ENTITY autoComplete.label                    "Autoaanvullen">
-<!ENTITY enableAutoComplete.label              "Automatisch aanvullen vanuit de navigatiegeschiedenis tijdens het typen">
-<!ENTITY enableAutoComplete.accesskey          "A">
+<!ENTITY autoCompleteMatchHistory.label        "Automatisch websites voorstellen vanuit de navigatiegeschiedenis">
+<!ENTITY autoCompleteMatchHistory.accesskey    "A">
+<!ENTITY autoCompleteMatchBookmarks.label      "Automatisch websites voorstellen vanuit bladwijzers">
+<!ENTITY autoCompleteMatchBookmarks.accesskey  "b">
 <!ENTITY autoCompleteAutoFill.label            "Automatisch de beste overeenkomst invullen">
 <!ENTITY autoCompleteAutoFill.accesskey        "u">
 <!ENTITY autoCompleteShowPopup.label           "Lijst met overeenkomende resultaten tonen">
 <!ENTITY autoCompleteShowPopup.accesskey       "L">
 <!ENTITY autoCompleteMatchOnlyTyped.label      "Alleen met eerder ingetypte websites vergelijken">
 <!ENTITY autoCompleteMatchOnlyTyped.accesskey  "e">
-<!ENTITY autoCompleteMatchOnlyURLs.label       "Alleen overeenkomende locaties, geen websitetitels">
-<!ENTITY autoCompleteMatchOnlyURLs.accesskey   "n">
 <!--LOCALIZATION NOTE (autoCompleteMatch.label): This is the common leading
   part of the menulist items listed below, mainly to make the control available
   via the accesskey

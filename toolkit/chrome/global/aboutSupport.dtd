@@ -37,9 +37,11 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsTitle "Toepassingsbasics">
 <!ENTITY aboutSupport.appBasicsName "Naam">
 <!ENTITY aboutSupport.appBasicsVersion "Versie">
+<!ENTITY aboutSupport.appBasicsBuildID "Build-ID">
 
-<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
+<!ENTITY aboutSupport.appBasicsUpdateChannel "Updatekanaal">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Updategeschiedenis">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Updategeschiedenis tonen">
 
@@ -54,7 +56,12 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "Useragent">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Geheugengebruik">
 
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
+<!ENTITY aboutSupport.appBasicsServiceWorkers "Geregistreerde Service Workers">
+
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Multiprocess-vensters">
+
+<!ENTITY aboutSupport.appBasicsSafeMode "Veilige modus">
 
 <!ENTITY aboutSupport.showDir.label "Map openen">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
@@ -95,3 +102,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Onbewerkte gegevens naar klembord kopiëren">
 
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
+
+<!ENTITY aboutSupport.safeModeTitle "Veilige modus proberen">
+<!ENTITY aboutSupport.restartInSafeMode.label "Herstarten met uitgeschakelde add-ons…">

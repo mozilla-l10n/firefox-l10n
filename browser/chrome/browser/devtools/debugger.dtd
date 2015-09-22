@@ -50,6 +50,10 @@
   -  button that toggles all breakpoints for all sources. -->
 <!ENTITY debuggerUI.sources.toggleBreakpoints "Alle breakpoints inschakelen/uitschakelen">
 
+<!-- LOCALIZATION NOTE (debuggerUI.sources.togglePromiseDebugger): This is the
+  -  tooltip for the button that toggles the promise debugger. -->
+<!ENTITY debuggerUI.sources.togglePromiseDebugger "Promise-debugger in-/uitschakelen">
+
 <!-- LOCALIZATION NOTE (debuggerUI.startTracing): This is the text displayed in
   - the button to start execution tracing. -->
 <!ENTITY debuggerUI.startTracing "Tracering starten">
@@ -165,6 +169,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
+<!ENTITY debuggerUI.tabs.workers        "Workers">
 <!ENTITY debuggerUI.tabs.sources        "Bronnen">
 <!ENTITY debuggerUI.tabs.traces         "Traceringen">
 <!ENTITY debuggerUI.tabs.callstack      "Aanroepstack">
@@ -198,3 +203,17 @@
 <!ENTITY debuggerUI.stepping.stepIn2    "VK_SEMICOLON">
 <!ENTITY debuggerUI.stepping.stepOut1   "VK_F11">
 <!ENTITY debuggerUI.stepping.stepOut2   "VK_SEMICOLON">
+
+<!-- LOCALIZATION NOTE (debuggerUI.context.newTab):  This is the label
+  -  for the Open in New Tab menu item displayed in the context menu of the
+  -  debugger sources side menu. This should be the same as
+  -  netmonitorUI.context.newTab  -->
+<!ENTITY debuggerUI.context.newTab           "Openen in nieuw tabblad">
+<!ENTITY debuggerUI.context.newTab.accesskey "O">
+
+<!-- LOCALIZATION NOTE (debuggerUI.context.copyUrl): This is the label displayed
+  -  on the context menu that copies the selected request's url. This should be
+  -  the same as netmonitorUI.context.copyUrl -->
+<!ENTITY debuggerUI.context.copyUrl           "URL kopiëren">
+<!ENTITY debuggerUI.context.copyUrl.accesskey "k">
+<!ENTITY debuggerUI.context.copyUrl.key "C">

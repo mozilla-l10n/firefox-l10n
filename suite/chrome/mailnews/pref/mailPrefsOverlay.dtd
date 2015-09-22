@@ -21,5 +21,5 @@
 <!ENTITY return.label                     "Leesbevestigingen">
 <!ENTITY junk.label                       "Ongewenste berichten">
 <!ENTITY tags.label                       "Labels">
-<!ENTITY characterEncoding.label          "Tekenset">
+<!ENTITY characterEncoding2.label         "Tekstcodering">
 <!ENTITY networkStorage.label             "Netwerk &amp; schijfruimte">

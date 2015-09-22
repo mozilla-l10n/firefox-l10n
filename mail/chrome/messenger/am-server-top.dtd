@@ -51,7 +51,7 @@
 <!ENTITY modelDeleteImmediately.label "Het direct verwijderen">
 <!ENTITY modelDeleteImmediately.accesskey "w">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY expungeOnExit.label "Postvak IN opruimen (“Expunge”) bij afsluiten">
+<!ENTITY expungeOnExit.label "Postvak IN opruimen (‘Expunge’) bij afsluiten">
 <!ENTITY expungeOnExit.accesskey "E">
 <!ENTITY emptyTrashOnExit.label "Prullenbak leegmaken bij afsluiten">
 <!ENTITY emptyTrashOnExit.accesskey "f">
@@ -74,7 +74,7 @@
 <!ENTITY abbreviateOff.label "Afgekorte namen (bijvoorbeeld ‘n.p.m.mail-news’)">
 <!ENTITY advancedButton.label "Geavanceerd…">
 <!ENTITY advancedButton.accesskey "G">
-<!ENTITY serverDefaultCharset.label "Standaard tekenset:">
+<!ENTITY serverDefaultCharset2.label "Standaard tekstcodering:">
 <!ENTITY localPath.label "Lokale map:">
 <!ENTITY localFolderPicker.label "Lokale map selecteren">
 <!ENTITY browseFolder.label "Bladeren…">
@@ -84,3 +84,7 @@
 
 <!ENTITY accountTitle.label "Accountinstellingen">
 <!ENTITY accountSettingsDesc.label "Dit is een speciale account. Er zijn geen identiteiten mee verbonden.">
+<!ENTITY storeType.label "Type berichtenopslag:">
+<!ENTITY storeType.accesskey "T">
+<!ENTITY mboxStore2.label "Eén bestand per map (mbox)">
+<!ENTITY maildirStore.label "Eén bestand per bericht (maildir)">

@@ -4,6 +4,7 @@
 
 <!ENTITY itemFormatting.label             "Opmaak">
 <!ENTITY itemTags.label                   "Labels">
+<!ENTITY itemAdvanced.label               "Geavanceerd">
 
 <!ENTITY style.label                      "Stijl:">
 <!ENTITY style.accesskey                  "t">
@@ -22,17 +23,17 @@
 <!ENTITY displayText.label                "Geciteerde tekst in plattetekstberichten weergeven als:">
 
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
-<!ENTITY convertEmoticons.label           "Emoticons weergeven als afbeeldingen">
-<!ENTITY convertEmoticons.accesskey       "E">
+<!ENTITY convertEmoticons.label        "Emoticons weergeven als afbeeldingen">
+<!ENTITY convertEmoticons.accesskey    "E">
 
 <!-- labels -->
-<!ENTITY displayTagsText.label            "Labels kunnen worden gebruikt voor het categoriseren van uw berichten.">
-<!ENTITY addTagButton.label               "Toevoegen">
-<!ENTITY addTagButton.accesskey           "T">
-<!ENTITY editTagButton.label              "Bewerken">
-<!ENTITY editTagButton.accesskey          "B">
-<!ENTITY removeTagButton.label            "Verwijderen">
-<!ENTITY removeTagButton.accesskey        "V">
+<!ENTITY displayTagsText.label     "Labels kunnen worden gebruikt voor het categoriseren van uw berichten.">
+<!ENTITY addTagButton.label        "Toevoegen">
+<!ENTITY addTagButton.accesskey    "T">
+<!ENTITY editTagButton.label       "Bewerken">
+<!ENTITY editTagButton.accesskey   "B">
+<!ENTITY removeTagButton.label     "Verwijderen">
+<!ENTITY removeTagButton.accesskey "V">
 
 <!-- Fonts and Colors -->
 <!ENTITY fontsAndColors1.label   "Lettertypen &amp; kleuren">
@@ -44,3 +45,29 @@
 <!ENTITY fontOptions.label       "Geavanceerd…">
 <!ENTITY colorButton.label       "Kleuren…">
 <!ENTITY colorButton.accesskey   "K">
+
+<!-- Advanced -->
+<!ENTITY reading.caption                  "Lezen">
+<!ENTITY display.caption                  "Weergave">
+<!ENTITY showCondensedAddresses.label     "Van personen in mijn adresboek alleen weergavenaam tonen">
+<!ENTITY showCondensedAddresses.accesskey "V">
+
+<!ENTITY autoMarkAsRead.label             "Berichten automatisch als gelezen markeren">
+<!ENTITY autoMarkAsRead.accesskey         "B">
+<!ENTITY markAsReadNoDelay.label          "Direct bij weergeven">
+<!ENTITY markAsReadNoDelay.accesskey      "D">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label            "Na">
+<!ENTITY markAsReadDelay.accesskey        "N">
+<!ENTITY secondsLabel.label               "seconden weergeven">
+<!ENTITY openMsgIn.label                  "Nieuwe berichten openen in:">
+<!ENTITY openMsgInNewTab.label            "Een nieuw tabblad">
+<!ENTITY openMsgInNewTab.accesskey        "t">
+<!ENTITY reuseExpRadio0.label             "Een nieuw berichtvenster">
+<!ENTITY reuseExpRadio0.accesskey         "i">
+<!ENTITY reuseExpRadio1.label             "Een bestaand berichtvenster">
+<!ENTITY reuseExpRadio1.accesskey         "e">
+<!ENTITY closeMsgOnMoveOrDelete.label     "Berichtvenster/-tabblad sluiten bij verplaatsen of verwijderen">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "s">

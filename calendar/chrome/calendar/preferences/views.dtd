@@ -9,7 +9,7 @@
 
 <!ENTITY pref.calendar.view.allview.caption "Algemeen">
 <!ENTITY pref.calendar.view.dayandweekviews.caption "Dag- en weekoverzichten">
-<!ENTITY pref.calendar.view.multiweekview.caption "Overzicht meerdere weken">
+<!ENTITY pref.calendar.view.multiweekview.caption "Overzicht van meerdere weken">
 <!ENTITY pref.calendar.view.workweek.caption "Werkweek">
 
 <!ENTITY pref.weekstarts.label "Eerste dag van de week:">

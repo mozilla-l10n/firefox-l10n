@@ -445,6 +445,12 @@
 <!ENTITY junkButton.tooltip "Geselecteerde berichten als ongewenst markeren">
 <!ENTITY notJunkButton.tooltip "Geselecteerde berichten als gewenst markeren">
 
+<!-- Remote Content Button Popup -->
+<!ENTITY remoteContentOptionsAllowForMsg.label "Externe inhoud in dit bericht tonen">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "t">
+<!ENTITY editRemoteContentSettings.label "Rechten voor externe inhoud instellen…">
+<!ENTITY editRemoteContentSettings.accesskey "c">
+
 <!-- Statusbar -->
 <!ENTITY statusText.label "Klaar">
 

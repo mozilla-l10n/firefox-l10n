@@ -65,6 +65,7 @@
 <!ENTITY largerFont.label             "Groter lettertype">
 <!ENTITY largerFont.accesskey         "o">
 <!ENTITY largerFont.commandkey        "+">
+<!ENTITY largerFont.commandkey2       "="> <!-- + is above this key on many keyboards -->
 
 <!ENTITY smallerFont.label            "Kleiner lettertype">
 <!ENTITY smallerFont.accesskey        "e">
