@@ -24,10 +24,7 @@
 <!ENTITY  addonExceptions.accesskey     "K">
 
 
-<!ENTITY  passwords.label               "Jelszavak">
 
-<!ENTITY  rememberPasswords.label       "Webhelyjelszavak mentése">
-<!ENTITY  rememberPasswords.accesskey   "W">
 <!ENTITY  passwordExceptions.label      "Kivételek…">
 <!ENTITY  passwordExceptions.accesskey  "v">
 
@@ -36,5 +33,4 @@
 <!ENTITY  changeMasterPassword.label     "Mesterjelszó megváltoztatása…">
 <!ENTITY  changeMasterPassword.accesskey "z">
 
-<!ENTITY  savedPasswords.label            "Mentett jelszavak…">
-<!ENTITY  savedPasswords.accesskey        "e">
+
