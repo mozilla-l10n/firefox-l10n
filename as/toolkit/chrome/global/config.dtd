@@ -14,6 +14,7 @@
 <!ENTITY searchPrefs.label "সন্ধান কৰক:">
 <!ENTITY searchPrefs.accesskey "r">
 <!ENTITY focusSearch.key "r">
+
 <!-- Columns -->
 
 <!ENTITY prefColumn.label "পছন্দৰ নাম">
