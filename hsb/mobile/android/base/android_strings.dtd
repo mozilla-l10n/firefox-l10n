@@ -6,15 +6,24 @@
 <!ENTITY  no_space_to_start_error "Dosć ruma k dispoziciji njeje, zo by &brandShortName; startowało.">
 <!ENTITY  error_loading_file "Při pospyće datajow začitować, kotrež su trěbne za fungowanje &brandShortName;, je zmylk wustupił">
 
+<!ENTITY firstrun_panel_title_welcome "Witajće">
 <!ENTITY  onboard_start_message3 "Z &brandShortName; přehladować">
 <!ENTITY  onboard_start_subtext3 "Čińće swoje mobilne webpřehladowanske dožiwjenje woprawdźe k swojemu.">
 <!ENTITY  onboard_start_button_account "Pola &brandShortName; přizjewić">
 <!ENTITY  onboard_start_button_browser "Přehladowanje startować">
+
+
 <!ENTITY  onboard_start_restricted1 "Wostańće dale wěsty a mějće dale kontrolu z tutej zjednorjenej wersiju &brandShortName;.">
+
+<!ENTITY firstrun_import_message "Witajće do &brandShortName;">
+
+
+
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
-<!ENTITY  bookmarks_title "Zapołožki">
+<!ENTITY  bookmarks_title "Bookmarks">
 <!ENTITY  history_title "Historija">
 <!ENTITY  reading_list_title "Čitanska lisćina">
 <!ENTITY  recent_tabs_title "Najnowše rajtarki">
@@ -55,8 +64,9 @@
 
 <!ENTITY history_today_section "Dźensa">
 <!ENTITY history_yesterday_section "Wčera">
-<!ENTITY history_week_section2 "Tydźenja">
-<!ENTITY history_older_section2 "Zańdźeny měsac">
+
+
+
 
 <!ENTITY go "Start">
 <!ENTITY search "Pytać">
@@ -69,8 +79,6 @@
 <!ENTITY edit_mode_cancel "Přetorhnyć">
 
 <!ENTITY close_tab "Rajtark začinić">
-<!ENTITY tab_audio_playing "Tutón rajtark awdio wothrawa">
-<!ENTITY tab_audio_muted "Tutón rajtark je so zněmił">
 <!ENTITY one_tab "1 rajtark">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -81,6 +89,13 @@
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
 <!ENTITY switch_button_message "PŘEPINAĆ">
+<!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
+     visible in the UI, but rather used as a text-to-speech content description
+     for sight-impaired a11y users. The content description is set on a tab
+     title in a list of open tabs when content in that tab is playing audio.
+     &formatS; will be replaced with the title of the tab, as received from the
+     web page. When audio is not playing in a tab, &formatS; will be used as
+     the content description. -->
 
 <!ENTITY settings "Nastajenja">
 <!ENTITY settings_title "Nastajenja">
@@ -182,6 +197,9 @@
 <!ENTITY pref_home_updates_wifi "Jenož přez Wi-Fi">
 <!ENTITY pref_home_suggested_sites "Sydłowe namjety pokazać">
 <!ENTITY pref_home_suggested_sites_summary "Tastowe skrótšenki za sydła na wašej startowej stronje zwobraznić, wo kotrychž myslimy, zo wy maće je za zajimawe">
+
+
+
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Přiměrić">
@@ -237,7 +255,6 @@
 <!ENTITY pref_plugins_tap_to_play "Dótknyć so, zo byšće wothrał">
 <!ENTITY pref_plugins_disabled "Znjemóžnjeny">
 <!ENTITY pref_text_size "Tekstowa wulkosć">
-<!ENTITY pref_reflow_on_zoom4 "Tekstowy wróćoběh">
 <!ENTITY pref_restore "Rajtarki">
 <!ENTITY pref_restore_always "Přeco wobnowić">
 <!ENTITY pref_restore_quit "Po startowanju &brandShortName; njewobnowić">
@@ -347,6 +364,7 @@ size. -->
 <!ENTITY share_title "Dźělić přez">
 <!ENTITY share_image_failed "Tutón wobraz njeda so dźělić">
 <!ENTITY save_as_pdf "Jako PDF składować">
+
 <!ENTITY find_in_page "Na stronje pytać">
 <!ENTITY desktop_mode "Desktopowe sydło požadać">
 <!ENTITY page "Strona">
@@ -366,7 +384,7 @@ size. -->
 
 <!ENTITY find_text "Na stronje pytać">
 <!ENTITY find_prev "Předchadny">
-<!ENTITY find_next "Přichodny">
+
 <!ENTITY find_close "Začinić">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -391,6 +409,8 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Sydło připjeć">
 <!ENTITY contextmenu_top_sites_unpin "Sydło wotpjeć">
 <!ENTITY contextmenu_add_search_engine "Pytawu přidać">
+
+
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
@@ -413,8 +433,6 @@ size. -->
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
-<!ENTITY pref_prevent_magnifying_glass "Lupu znjemóžnić">
-<!ENTITY pref_prevent_magnifying_glass_summary "Zadźěwać, zo so lupa wužiwa, hdyž so wjacewoznamowe dotknjenja wobrazowki rozpušćuja">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -473,8 +491,6 @@ size. -->
 <!ENTITY button_set "Nastajić">
 <!ENTITY button_clear "Zhašeć">
 <!ENTITY button_copy "Kopěrować">
-
-<!ENTITY firstrun_panel_title_welcome "Witajće">
 
 <!ENTITY home_top_sites_title "Wuběrne sydła">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -564,14 +580,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_insecure "Njewěsty zwisk">
 <!-- Mixed content notifications in site identity popup -->
 
-<!ENTITY mixed_content_blocked_all "&brandShortName; je njewěste elementy na tutej stronje zablokował.">
-<!ENTITY mixed_content_blocked_some "&brandShortName; je někotre njewěste elementy na tutej stronje zablokował.">
-<!ENTITY mixed_content_display_loaded "Tuta strona ma někotre njewěste elementy.">
-<!ENTITY mixed_content_protection_disabled "Sće škit přećiwo njewěstym elementam znjemóžnił.">
 
-<!ENTITY loaded_mixed_content_message "Tuta strona zwobraznja wobsah, kotryž wěsty njeje.">
-<!ENTITY blocked_mixed_content_message_top "&brandShortName; je wobsah zablokował, kotryž wěsty njeje.">
-<!ENTITY blocked_mixed_content_message_bottom "Njawjace websydłow budźe hišće derje fungować, byrnjež tutón wobsah zablokowany był.">
+
 <!-- Tracking content notifications in site identity popup -->
 
 <!ENTITY doorhanger_tracking_title "Slědowanski škit">
@@ -589,7 +599,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Priwatne daty su so zhašeli">
 <!ENTITY private_data_fail "Někotre priwatne daty njemóža so snano zhašeć">
 
-<!ENTITY bookmarkhistory_button_import "Importować">
 <!ENTITY bookmarkhistory_import_both "Importowanje zapołožkow a historije 
 z Androida">
 <!ENTITY bookmarkhistory_import_bookmarks "Importowanje zapołožkow 
@@ -703,4 +712,11 @@ z Androida">
 <!ENTITY restriction_disallow_clear_history_title2 "‚Přehladowansku historiju wuprózdnić‘ znjemóžnić">
 <!ENTITY restriction_disallow_master_password_title2 "Hłowne hesło znjemóžnić">
 <!ENTITY restriction_disallow_guest_browsing_title2 "Hóstne přehladowanje znjemóžnić">
-
+<!-- Default Bookmarks titles-->
+<!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
+<!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
+<!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
