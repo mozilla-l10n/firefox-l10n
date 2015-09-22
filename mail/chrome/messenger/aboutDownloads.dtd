@@ -17,5 +17,8 @@
 <!ENTITY cmd.open.accesskey                        "D">
 <!ENTITY cmd.removeFromHistory.label               "Înlătură din istoric">
 <!ENTITY cmd.removeFromHistory.accesskey           "r">
-<!ENTITY cmd.clearDownloads.label                  "Curăță descărcările">
-<!ENTITY cmd.clearDownloads.accesskey              "d">
+
+
+
+
+
