@@ -20,16 +20,16 @@
 <!ENTITY replaceButton.accessKey "r">
 <!ENTITY replaceAllButton.label "Cuir an àite gach aon dhiubh">
 <!ENTITY replaceAllButton.accessKey "a">
-<!ENTITY stopButton.label "Sguir dheth">
-<!ENTITY stopButton.accessKey "t">
+
+
 <!ENTITY userDictionary.label "Am faclair pearsanta:">
 <!ENTITY moreDictionaries.label "Luchdaich a-nuas barrachd fhaclairean…">
 <!ENTITY addToUserDictionaryButton.label "Cuir ris facal">
 <!ENTITY addToUserDictionaryButton.accessKey "C">
 <!ENTITY editUserDictionaryButton.label "Deasaich…">
 <!ENTITY editUserDictionaryButton.accessKey "e">
-<!ENTITY recheckButton.label "Ath-cheartaich an duilleag">
-<!ENTITY recheckButton.accessKey "A">
+
+
 <!ENTITY closeButton.label "Dùin">
 <!ENTITY closeButton.accessKey "D">
 <!ENTITY sendButton.label "Cuir">
