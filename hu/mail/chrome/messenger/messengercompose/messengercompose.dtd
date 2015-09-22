@@ -215,6 +215,7 @@
 <!ENTITY addressButton.tooltip "Egy címzett kiválasztása a címjegyzékből">
 <!ENTITY attachButton.tooltip "Melléklet hozzáadása">
 <!ENTITY spellingButton.tooltip "A kijelölt rész vagy az egész üzenet helyesírásának ellenőrzése">
+
 <!ENTITY saveButton.tooltip "Az üzenet mentése">
 <!ENTITY cutButton.tooltip              "Kivágás">
 <!ENTITY copyButton.tooltip             "Másolás">
