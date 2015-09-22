@@ -9,10 +9,19 @@
 
 
 
+
+
+
+
+
+
+
+
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
-<!ENTITY  bookmarks_title "Obulambe">
+<!ENTITY  bookmarks_title "Bookmarks">
 <!ENTITY  history_title "Ebyafaayo">
 <!ENTITY  reading_list_title "Olukalala Lwebyokusooma">
 <!ENTITY  recent_tabs_title "Ta\u0027aga Ezibadewo">
@@ -50,8 +59,9 @@
 
 <!ENTITY history_today_section "Leero">
 <!ENTITY history_yesterday_section "Jjo">
-<!ENTITY history_week_section2 "Weeki ewedde">
-<!ENTITY history_older_section2 "Omwezi oguwedde">
+
+
+
 
 <!ENTITY go "Genda">
 
@@ -73,6 +83,13 @@
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
 <!ENTITY switch_button_message "Kusaa">
+<!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
+     visible in the UI, but rather used as a text-to-speech content description
+     for sight-impaired a11y users. The content description is set on a tab
+     title in a list of open tabs when content in that tab is playing audio.
+     &formatS; will be replaced with the title of the tab, as received from the
+     web page. When audio is not playing in a tab, &formatS; will be used as
+     the content description. -->
 
 <!ENTITY settings "Enteegeka">
 
@@ -145,6 +162,9 @@
 
 
 
+
+
+
 <!ENTITY pref_category_home "Ewakaa">
 
 <!ENTITY pref_category_home_panels "kakiiko">
@@ -153,6 +173,9 @@
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
+
+
+
 
 
 
@@ -168,6 +191,10 @@
 
 
 <!ENTITY pref_cookies_menu "Kukki">
+
+
+
+
 
 
 
@@ -203,7 +230,6 @@
 <!ENTITY pref_plugins_tap_to_play "Konna okuzanya">
 
 <!ENTITY pref_text_size "Obunene bw\u0027enukuta">
-
 
 
 
@@ -295,13 +321,13 @@ size. -->
 <!ENTITY addons "Ebigattibwako">
 
 
-
 <!ENTITY char_encoding "Ennyukuta Enkusike">
 
 <!ENTITY share "Gaabana">
 <!ENTITY share_title "Gaabanira mu">
 
 <!ENTITY save_as_pdf "Tereka nga PDF">
+
 <!ENTITY find_in_page "Zzula mu Muko">
 <!ENTITY desktop_mode "Saaba Ekibanja Kumeza">
 
@@ -319,7 +345,7 @@ size. -->
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 <!ENTITY find_prev "Ekiyise">
-<!ENTITY find_next "Ekidirira">
+
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -333,6 +359,8 @@ size. -->
 <!ENTITY contextmenu_add_to_launcher "Yongera ku Sikulini Yeka">
 
 <!ENTITY contextmenu_pasteandgo "Teeka wano &amp; Genda">
+
+
 
 
 
@@ -358,6 +386,9 @@ size. -->
 
 
 
+<!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
+     whether or not the magnifying glass is disabled. -->
+
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -378,7 +409,7 @@ size. -->
 
 
 <!ENTITY site_settings_no_settings  "Tewali entegeka zakujjawo.">
-<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+<!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
 <!ENTITY reading_list_removed "Omuko gujjiddwa ku Lukalala lwo Olwebyokusooma">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
@@ -404,7 +435,6 @@ size. -->
 
 
 <!ENTITY button_copy "Koppa">
-
 
 <!ENTITY home_top_sites_title "Ebibanja Ebyawagulu">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -472,14 +502,13 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_run_by "kiddukanyizibwa">
-<!ENTITY identity_no_info "Ekibanja kino tekiwa bubaka bukikwata ko.">
-<!ENTITY identity_not_encrypted "Okuyungibwakwo ku nfo eno tekukwekeddwa.">
-<!ENTITY identity_encrypted "Kikwekeddwa">
+
 <!-- Mixed content notifications in site identity popup -->
 
 
+
 <!-- Tracking content notifications in site identity popup -->
+
 
 
 
@@ -492,7 +521,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
-<!ENTITY bookmarkhistory_button_import "Leeta okuva ewalala">
 
 
 
@@ -543,10 +571,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      They are never shown to users -->
 
 <!-- Voice search in the awesome bar -->
-
-
-
-
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -558,3 +582,29 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
 
+<!-- DevTools Authentication -->
+<!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
+     above a QR reader that is actively scanning for QR codes.  The expected QR
+     code has already been displayed by the client trying to connect (such as
+     desktop Firefox via WebIDE), so you just need to aim this device at the QR
+     code. -->
+<!-- Restrictions -->
+<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+     a restricted profile (e.g. child). Used inside the Android settings UI. -->
+
+
+
+
+
+
+
+
+
+<!-- Default Bookmarks titles-->
+<!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
+<!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
+<!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
