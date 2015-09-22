@@ -24,7 +24,7 @@
 <!ENTITY popups.label "Felugró ablakok">
 <!ENTITY passwords.label "Jelszavak">
 <!ENTITY masterpass.label "Mesterjelszó">
-<!ENTITY ssl.label "SSL">
+
 <!ENTITY certs.label "Tanúsítványok">
 <!ENTITY sync.label "Szinkronizálás">
 <!ENTITY advance.label "Haladó">
