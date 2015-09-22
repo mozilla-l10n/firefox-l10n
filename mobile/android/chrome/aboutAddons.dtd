@@ -10,3 +10,5 @@
 <!ENTITY addonAction.disable                    "പ്രവര്‍ത്തന രഹിതം">
 <!ENTITY addonAction.uninstall                  "ഉപേക്ഷിയ്ക്കുക">
 <!ENTITY addonAction.undo                       "വേണ്ട">
+
+<!ENTITY addonUnsigned.learnMore                "കൂടുതല്‍ അറിയുക">

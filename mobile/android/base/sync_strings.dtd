@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label "എന്തു് സിന്‍ക് ചെയ്യണം">
 <!ENTITY sync.configure.engines.sync.my.title.label "സിന്‍ക് ചെയ്യേണ്ടതു്...">
 <!ENTITY sync.configure.engines.title.bookmarks "അടയാളക്കുറിപ്പുകള്‍">
-<!ENTITY sync.configure.engines.title.passwords "രഹസ്യവാക്കുകള്‍">
+
 <!ENTITY sync.configure.engines.title.history "നാള്‍വഴി">
 <!ENTITY sync.configure.engines.title.tabs "ടാബുകള്‍">
 <!-- Common text -->
@@ -139,7 +139,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "സ്വകാര്യ വ്യവസ്ഥകള്‍">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label;-ലേക്കു് സ്വാഗതം">
-<!ENTITY fxaccount_getting_started_description "നിങ്ങളുടെ ടാബുകള്‍, അടയാളകുറിപ്പുകള്‍, രഹസ്യവാക്കുകള്‍ തുടങ്ങിയവ സിങ്ക് ചെയ്യാനായി പ്രവേശിക്കുക">
+
 <!ENTITY fxaccount_getting_started_get_started "ഉപയോഗിച്ചു് തൂടങ്ങൂ">
 <!ENTITY fxaccount_getting_started_old_firefox "&syncBrand.shortName.label;-ന്റെ പഴയ പതിപ്പു് ഉപയോഗിയ്ക്കുന്നോ?">
 <!-- Localization note: the Firefox below should not change with the
@@ -193,6 +193,7 @@
 
 <!ENTITY fxaccount_status_header2 "ഫയർഫോക്സ് അക്കൗണ്ട്">
 <!ENTITY fxaccount_status_signed_in_as "ഇങ്ങനെ പ്രവേശിച്ചിരിയ്ക്കുന്നു">
+
 <!ENTITY fxaccount_status_auth_server "അക്കൌണ്ട് സര്‍വര്‍">
 
 <!ENTITY fxaccount_status_syncing2 "സിന്‍ക് ചെയ്യുന്നു...">
@@ -208,7 +209,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating "താങ്കളുടെ പുതിയ ഫയര്‍ഫോക്സ് അക്കൌണ്ടില്‍ പ്രവേശിക്കാന്‍ സ്ക്രീനില്‍ തൊടുക.">
 <!ENTITY fxaccount_status_bookmarks "അടയാളക്കുറിപ്പുകള്‍">
 <!ENTITY fxaccount_status_history "നാള്‍വഴി">
-<!ENTITY fxaccount_status_passwords "രഹസ്യവാക്കുകള്‍">
+
 <!ENTITY fxaccount_status_tabs "ടാബുകള്‍ തുറക്കുക">
 <!ENTITY fxaccount_status_legal "നിയമപരം" >
 <!-- Localization note: when tapped, the following two strings link to
@@ -222,6 +223,7 @@
 
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
