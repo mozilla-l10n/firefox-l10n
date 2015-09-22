@@ -104,13 +104,13 @@ instalado.</li>
 <li>Poderá ser devido a uma configuração errada do servidor.</li> 
 </ul>">
 
-<!ENTITY nssFailure2.title "Falha na ligação protegida">
+<!ENTITY nssFailure2.title "A ligação segura falhou">
 <!ENTITY nssFailure2.longDesc2 "<ul> 
 <li>A página que está a tentar visualizar não pode ser mostrada porque não foi possível verificar a autenticidade dos dados recebidos.</li> 
 <li>Por favor informe os donos do sítio web do problema. Alternativamente, use o comando no menu Ajuda para reportar o mau funcionamendo deste sítio.</li> 
 </ul>">
 
-<!ENTITY nssBadCert.title "Falha na ligação protegida">
+<!ENTITY nssBadCert.title "A ligação segura falhou">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
 <li>Este pode ser um problema com a configuração do servidor 
 ou pode ser alguém a tentar fazer-se passar por este servidor.</li> 
