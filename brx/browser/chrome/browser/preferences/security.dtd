@@ -24,10 +24,7 @@
 <!ENTITY  addonExceptions.accesskey     "E">
 
 
-<!ENTITY  passwords.label               "पासवार्ड">
 
-<!ENTITY  rememberPasswords.label       "साइटफोरनि थाखाय पासवर्डखौ गोसोआव लाखि (R)">
-<!ENTITY  rememberPasswords.accesskey   "R">
 <!ENTITY  passwordExceptions.label      "Exceptions…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
@@ -36,5 +33,4 @@
 <!ENTITY  changeMasterPassword.label     "मा्स्थार बारग'सोदोबखौ सोलाय... ">
 <!ENTITY  changeMasterPassword.accesskey "म">
 
-<!ENTITY  savedPasswords.label            "बारग'सोदोबफोर सेब जाबाय...">
-<!ENTITY  savedPasswords.accesskey        "ब">
+
