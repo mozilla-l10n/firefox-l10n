@@ -201,7 +201,7 @@
 <!ENTITY pref_home_suggested_sites_summary "Vis genveje på din startskærm til websteder, som vi tror, du vil kunne lide">
 <!ENTITY pref_category_home_homepage "Startside">
 <!ENTITY home_homepage_title "Angiv en startside">
-<!ENTITY home_homepage_use_current_tab "Andvend nuværende faneblad">
+<!ENTITY home_homepage_use_current_tab "Anvend nuværende faneblad">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Tilpas">
@@ -734,4 +734,4 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!ENTITY bookmarks_restricted_support2 "Firefox hjælp og support for begrænsede profiler på Android tablets">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
-<!ENTITY bookmarks_restricted_webmaker "Lær webbet: Mozilla Webmaker">
+<!ENTITY bookmarks_restricted_webmaker "Lær nettet: Mozilla Webmaker">
