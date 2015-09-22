@@ -169,6 +169,7 @@
 
 
 
+
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
@@ -179,6 +180,7 @@
 
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
