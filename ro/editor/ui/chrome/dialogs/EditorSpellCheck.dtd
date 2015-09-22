@@ -20,16 +20,16 @@
 <!ENTITY replaceButton.accessKey "l">
 <!ENTITY replaceAllButton.label "Înlocuiește toate">
 <!ENTITY replaceAllButton.accessKey "o">
-<!ENTITY stopButton.label "Oprește">
-<!ENTITY stopButton.accessKey "t">
+
+
 <!ENTITY userDictionary.label "Dicționar personal:">
 <!ENTITY moreDictionaries.label "Descarcă mai multe dicționare…">
 <!ENTITY addToUserDictionaryButton.label "Adaugă cuvânt">
 <!ENTITY addToUserDictionaryButton.accessKey "d">
 <!ENTITY editUserDictionaryButton.label "Editează…">
 <!ENTITY editUserDictionaryButton.accessKey "E">
-<!ENTITY recheckButton.label "Verifică din nou pagina">
-<!ENTITY recheckButton.accessKey "p">
+
+
 <!ENTITY closeButton.label "Închide">
 <!ENTITY closeButton.accessKey "h">
 <!ENTITY sendButton.label "Trimite">
