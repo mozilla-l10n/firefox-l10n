@@ -197,6 +197,7 @@
 
 <!ENTITY fxaccount_status_header2 "Cuntas Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Logáilte isteach mar">
+
 <!ENTITY fxaccount_status_auth_server "Freastalaí an chuntais">
 <!ENTITY fxaccount_status_sync_now "Sioncrónaigh anois">
 <!ENTITY fxaccount_status_syncing2 "Á Shioncrónú…">

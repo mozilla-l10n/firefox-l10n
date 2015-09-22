@@ -13,9 +13,8 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "Níl tú ag brabhsáil go príobháideach">
 
-<!ENTITY privatebrowsingpage.description.private3 "Ní ligfidh Firefox do shuímh a bheith do do lorg ar líne, agus ní choinneoidh sé do stair bhrabhsála, ach sábhálfar leabharmharcanna a chruthaíonn tú agus comhaid a íosluchtaíonn tú ar do ghléas.">
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
-     Browsing" is capitalized in English to be consistent with our existing uses
+     Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
 <!ENTITY privatebrowsingpage.description.normal2 "Le linn brabhsála príobháidí, ní choinneoimid aon fhianáin ná do stair bhrabhsála. Mar sin féin, sábhálfar leabharmharcanna a chruthaíonn tú agus comhaid a íosluchtaíonn tú ar do ghléas.">
 
