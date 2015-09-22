@@ -21,8 +21,9 @@
 <!ENTITY allowContextmenuDisable.label   "Desativar ou substituir menus de contexto">
 <!ENTITY allowHideStatusBar.label        "Ocultar barra de estado">
 
-
-
+<!ENTITY enableDrmMedia.label            "Ativar Gestão dos Direitos Digitais para">
+<!ENTITY enableEmeForSuite.label         "Módulos de Terceiros para Decifragem de Conteúdo">
+<!ENTITY enableEmeForSuite.accesskey     "C">
 
 <!ENTITY enablePlugins.label             "Ativar plugins para">
 <!ENTITY enablePluginForSuite.label      "Suite">
