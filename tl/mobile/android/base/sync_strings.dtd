@@ -32,7 +32,7 @@
 
 
 <!-- Setup Success -->
-  
+
 <!ENTITY sync.title.success.label "Tapos na ang Setup">
 
 
@@ -55,6 +55,11 @@
 
 <!ENTITY sync.button.ok.label "OK">
 <!-- Account strings -->
+<!-- Localization note (sync.default.client.name): Default string of the "Device
+     name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
+     will be replaced by the name of the Firefox release channel and &formatS2
+     by the model name of the Android device. Examples look like "Aurora on
+     GT-I1950" and "Fennec on MI 2S". -->
 <!-- Bookmark folder strings -->
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label "Mga Tag">
@@ -78,6 +83,8 @@
 
 
 <!-- Firefox Account strings. -->
+
+
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
@@ -100,6 +107,8 @@
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
      etc).  The account remains a "Firefox Account". -->
+
+
 
 
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
@@ -141,16 +150,37 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
 
+
+
+
+<!-- Localization note: format string below will be replaced
+     with the Firefox Account's email address. -->
+
+
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 <!-- Localization note: these are shown by the Android system itself,
-     when the user navigates to the Android > Accounts > [Firefox
-     Account] Screen. The link takes the user to the Firefox Account
+     when the user navigates to the Android > Accounts > {Firefox
+     Account} Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
      Account. -->
 
@@ -166,5 +196,9 @@
 
 
 
-<!-- Note to translators: the format string below will be replaced
+
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
+
+<!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
