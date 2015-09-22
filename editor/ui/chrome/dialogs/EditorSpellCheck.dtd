@@ -20,16 +20,16 @@
 <!ENTITY replaceButton.accessKey "e">
 <!ENTITY replaceAllButton.label "Tümünü Değiştir">
 <!ENTITY replaceAllButton.accessKey "T">
-<!ENTITY stopButton.label "Dur">
-<!ENTITY stopButton.accessKey "D">
+
+
 <!ENTITY userDictionary.label "Kişisel Sözlük:">
 <!ENTITY moreDictionaries.label "Daha fazla sözlük indir…">
 <!ENTITY addToUserDictionaryButton.label "Sözcük Ekle">
 <!ENTITY addToUserDictionaryButton.accessKey "S">
 <!ENTITY editUserDictionaryButton.label "Düzenle…">
 <!ENTITY editUserDictionaryButton.accessKey "D">
-<!ENTITY recheckButton.label "Sayfayı Tekrar Denetle">
-<!ENTITY recheckButton.accessKey "S">
+
+
 <!ENTITY closeButton.label "Kapat">
 <!ENTITY closeButton.accessKey "K">
 <!ENTITY sendButton.label "Gönder">

@@ -215,6 +215,7 @@
 <!ENTITY addressButton.tooltip "Adres Defteri'nden alıcı seç">
 <!ENTITY attachButton.tooltip "Bir dosya ekle">
 <!ENTITY spellingButton.tooltip "Seçimin veya tüm iletinin yazımını denetle">
+
 <!ENTITY saveButton.tooltip "Bu iletiyi kaydet">
 <!ENTITY cutButton.tooltip              "Kes">
 <!ENTITY copyButton.tooltip             "Kopyala">
