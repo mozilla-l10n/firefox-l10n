@@ -26,7 +26,8 @@
 
 <!ENTITY  logins.label                  "Inloggningar ">
 
-
+<!ENTITY  rememberLogins.label          "Kom ihåg inloggningar för webbplatser">
+<!ENTITY  rememberLogins.accesskey      "K">
 <!ENTITY  passwordExceptions.label      "Undantag…">
 <!ENTITY  passwordExceptions.accesskey  "d">
 
@@ -35,4 +36,5 @@
 <!ENTITY  changeMasterPassword.label     "Byt huvudlösenord…">
 <!ENTITY  changeMasterPassword.accesskey "B">
 
-
+<!ENTITY  savedLogins.label              "Sparade inloggningar…">
+<!ENTITY  savedLogins.accesskey          "l">

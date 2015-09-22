@@ -469,8 +469,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY searchInNewTab.label         "Sök i ny flik">
 <!ENTITY searchInNewTab.accesskey     "f">
-
-
+<!ENTITY searchSetAsDefault.label     "Ange som standardsökmotor">
+<!ENTITY searchSetAsDefault.accesskey "s">
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -706,9 +706,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Säker Anslutning">
 <!ENTITY identity.connectionNotSecure "Anslutningen är inte säker ">
 <!ENTITY identity.connectionFile "Den här sidan är lagrad på din dator.">
-
+<!ENTITY identity.connectionVerified1 "Du är säkert ansluten till denna webbplats, som drivs av:">
 <!ENTITY identity.connectionInternal "Detta är en säker &brandShortName; sida.">
-
+<!ENTITY identity.insecureLoginForms "Din inloggning kan äventyras.">
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "&brandShortName; har blockerat några osäkra komponenter på sidan.">
@@ -718,7 +718,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings in the subview. -->
 
 <!ENTITY identity.description.insecure "Din anslutning till den här sidan är inte privat. Information som du skickar kan ses av andra personer (som t.ex. lösenord, meddelanden, bankkort, osv.).">
-
+<!ENTITY identity.description.insecureLoginForms "Inloggningsinformation du anger på denna sida är inte säker och kan äventyras.">
 <!ENTITY identity.description.weakCipher "Din anslutning till den här webbsidan använder en svag kryptering och är inte privat.">
 <!ENTITY identity.description.weakCipher2 "Andra personer kan se din information eller ändra webbsidans innehåll/uppförande.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; har blockerat några osäkra komponenter på sidan.">
@@ -737,7 +737,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.moreInfoLinkText2 "Mer information">
 
 <!ENTITY identity.permissions "Rättigheter">
-
+<!ENTITY identity.permissionsEmpty "Du har inte beviljat denna webbplats några särskilda rättigheter.">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
