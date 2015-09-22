@@ -26,6 +26,7 @@
 <!ENTITY projectMenu_showPrefs_accesskey "M">
 <!ENTITY projectMenu_manageComponents_label "Spravovať extra komponenty">
 <!ENTITY projectMenu_manageComponents_accesskey "x">
+<!ENTITY projectMenu_refreshTabs_label "Obnoviť karty">
 
 <!ENTITY runtimeMenu_label "Runtime">
 <!ENTITY runtimeMenu_accesskey "R">

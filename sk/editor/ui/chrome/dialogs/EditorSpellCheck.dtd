@@ -28,8 +28,8 @@
 <!ENTITY addToUserDictionaryButton.accessKey "P">
 <!ENTITY editUserDictionaryButton.label "Upraviť slovník…">
 <!ENTITY editUserDictionaryButton.accessKey "U">
-<!ENTITY recheckButton.label "Nová kontrola…">
-<!ENTITY recheckButton.accessKey "r">
+<!ENTITY recheckButton2.label "Opäť skontrolovať text…">
+<!ENTITY recheckButton2.accessKey "r">
 <!ENTITY closeButton.label "Zavrieť">
 <!ENTITY closeButton.accessKey "Z">
 <!ENTITY sendButton.label "Odoslať">

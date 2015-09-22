@@ -11,24 +11,6 @@
 <!ENTITY window.title "Webová konzola">
 <!ENTITY browserConsole.title "Konzola prehliadača">
 
-<!ENTITY networkPanel.requestURLColon             "Adresa požiadavky:">
-<!ENTITY networkPanel.requestMethodColon          "Metóda požiadavky:">
-<!ENTITY networkPanel.statusCodeColon             "Stavový kód:">
-
-<!ENTITY networkPanel.requestHeaders              "Hlavičky požiadavky">
-<!ENTITY networkPanel.requestCookie               "Odoslané cookie">
-<!ENTITY networkPanel.requestBody                 "Telo požiadavky">
-<!ENTITY networkPanel.requestFormData             "Odoslané údaje formulára">
-
-<!ENTITY networkPanel.responseHeaders             "Hlavičky odpovede">
-<!ENTITY networkPanel.responseCookie              "Prijaté cookie">
-<!ENTITY networkPanel.responseBody                "Telo odpovede">
-<!ENTITY networkPanel.responseBodyCached          "Údaje vo vyrovnávacej pamäti">
-<!ENTITY networkPanel.responseBodyUnknownType     "Neznámy typ obsahu">
-<!ENTITY networkPanel.responseNoBody              "Žiadne telo odpovede">
-<!ENTITY networkPanel.responseImage               "Prijatý obrázok">
-<!ENTITY networkPanel.responseImageCached         "Obrázok vo vyrovnávacej pamäti">
-
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
 <!ENTITY saveBodies.label     "Zaznamenávať telá žiadostí a odpovedí">
@@ -75,6 +57,17 @@
 <!ENTITY btnConsoleLog          "Záznam">
 <!ENTITY btnConsoleXhr          "XHR">
 <!ENTITY btnConsoleReflows      "Prekreslenia">
+
+<!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
+  -  the toolbar. It shows or hides messages that the web developer inserted on
+  -  the page for debugging purposes, using calls on the HTTP server. -->
+<!ENTITY btnServerLogging.label       "Server">
+<!ENTITY btnServerLogging.tooltip     "Zaznamenávať správy prijaté z webového servera">
+<!ENTITY btnServerLogging.accesskey   "m">
+<!ENTITY btnServerErrors              "Chyby">
+<!ENTITY btnServerInfo                "Informácie">
+<!ENTITY btnServerWarnings            "Upozornenia">
+<!ENTITY btnServerLog                 "Záznam">
 
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->

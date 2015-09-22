@@ -6,11 +6,21 @@
 <!ENTITY  no_space_to_start_error "Na spustenie prehliadača &brandShortName; nie je dostatok miesta.">
 <!ENTITY  error_loading_file "Pri načítavaní súborov potrebných na spustenie prehliadača &brandShortName; sa vyskytla chyba.">
 
+<!ENTITY firstrun_panel_title_welcome "Vitajte">
 <!ENTITY  onboard_start_message3 "Prehliadate pomocou prehladača &brandShortName;">
 <!ENTITY  onboard_start_subtext3 "Zážitok z mobilného prehliadania webu presne taký, ako ho chcete.">
 <!ENTITY  onboard_start_button_account "Prihlásiť sa k &brandShortName;u">
 <!ENTITY  onboard_start_button_browser "Začať prehliadať">
+<!ENTITY firstrun_button_next "Ďalej">
+
 <!ENTITY  onboard_start_restricted1 "Buďte v bezpečí a majte veci pod kontrolou s touto zjednodušenou verziou prehliadača &brandShortName;.">
+
+<!ENTITY firstrun_import_title "Import">
+<!ENTITY firstrun_import_message "Víta vás &brandShortName;">
+<!ENTITY firstrun_import_subtext "Importuje vaše záložky a históriu z iného prehliadača.">
+<!ENTITY firstrun_import_action "Preniesť do prehliadača &brandShortName;">
+<!ENTITY firstrun_import_dialog_button "Preniesť">
+<!ENTITY firstrun_import_progress_title "Prenáša sa">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
@@ -55,8 +65,9 @@
 
 <!ENTITY history_today_section "Dnes">
 <!ENTITY history_yesterday_section "Včera">
-<!ENTITY history_week_section2 "Minulý týždeň">
-<!ENTITY history_older_section2 "Minulý mesiac">
+<!ENTITY history_week_section3 "Posledných 7 dní">
+<!ENTITY history_this_month_section "Tento mesiac">
+<!ENTITY history_older_section3 "Staršie ako 6 mesiacov">
 
 <!ENTITY go "Prejsť">
 <!ENTITY search "Hľadať">
@@ -69,8 +80,6 @@
 <!ENTITY edit_mode_cancel "Zrušiť">
 
 <!ENTITY close_tab "Zavrieť kartu">
-<!ENTITY tab_audio_playing "Táto karta prehráva zvuk">
-<!ENTITY tab_audio_muted "Zvuk na tejto karte bol stlmený">
 <!ENTITY one_tab "1 karta">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -81,6 +90,14 @@
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
 <!ENTITY switch_button_message "PREPNÚŤ">
+<!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
+     visible in the UI, but rather used as a text-to-speech content description
+     for sight-impaired a11y users. The content description is set on a tab
+     title in a list of open tabs when content in that tab is playing audio.
+     &formatS; will be replaced with the title of the tab, as received from the
+     web page. When audio is not playing in a tab, &formatS; will be used as
+     the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "Prehráva sa zvuk – &formatS;">
 
 <!ENTITY settings "Nastavenia">
 <!ENTITY settings_title "Nastavenia">
@@ -172,16 +189,19 @@
 <!ENTITY pref_category_home_panels "Panely">
 <!ENTITY home_add_panel_title "Pridať nový panel">
 <!ENTITY home_add_panel_empty "Ospravedlňujeme sa, nebolo možné nájsť žiadne panely vhodné na pridanie.">
+<!-- Localization note (home_add_panel_installed):
+     The &formatS; will be replaced with the name of the new panel the user just
+     selected to be added to the home page. -->
+<!ENTITY home_add_panel_installed "Panel \'&formatS;\' pridaný na úvodnú stránku">
 <!ENTITY pref_category_home_content_settings "Nastavenia obsahu">
 <!ENTITY pref_home_updates "Automatické aktualizácie">
 <!ENTITY pref_home_updates_enabled "Povolené">
 <!ENTITY pref_home_updates_wifi "Len cez Wi-Fi">
 <!ENTITY pref_home_suggested_sites "Zobrazovať navrhované stránky">
 <!ENTITY pref_home_suggested_sites_summary "Na vašej domovskej stránke zobrazuje odkazy na stránky, o ktorých si myslímte, že by Vás mohli zaujímať.">
-<!-- Localization note (home_add_panel_installed):
-     The &formatS; will be replaced with the name of the new panel the user just
-     selected to be added to the home page. -->
-<!ENTITY home_add_panel_installed "Panel \'&formatS;\' pridaný na úvodnú stránku">
+<!ENTITY pref_category_home_homepage "Domovská stránka">
+<!ENTITY home_homepage_title "Nastaviť domovskú stránku">
+<!ENTITY home_homepage_use_current_tab "Použiť aktuálnu kartu">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Prispôsobenie">
@@ -237,7 +257,6 @@
 <!ENTITY pref_plugins_tap_to_play "Prehrávať po ťuknutí">
 <!ENTITY pref_plugins_disabled "Zakázané">
 <!ENTITY pref_text_size "Veľkosť textu">
-<!ENTITY pref_reflow_on_zoom4 "Zaostriť text">
 <!ENTITY pref_restore "Karty">
 <!ENTITY pref_restore_always "Vždy obnoviť karty">
 <!ENTITY pref_restore_quit "Neobnovovať po ukončení &brandShortName;u">
@@ -284,6 +303,7 @@ size. -->
 <!ENTITY pref_private_data_siteSettings2 "Nastavenia stránok">
 <!ENTITY pref_private_data_downloadFiles2 "Prevzaté súbory">
 <!ENTITY pref_private_data_syncedTabs "Synchronizované karty">
+
 
 <!ENTITY pref_about_firefox "Čo je &brandShortName;">
 <!ENTITY pref_vendor_faqs "Často kladené otázky">
@@ -347,6 +367,7 @@ size. -->
 <!ENTITY share_title "Zdieľať cez">
 <!ENTITY share_image_failed "Nie je možné zdieľať tento obrázok">
 <!ENTITY save_as_pdf "Uložiť ako PDF">
+<!ENTITY print "Tlačiť">
 <!ENTITY find_in_page "Hľadať na stránke">
 <!ENTITY desktop_mode "Plná verzia stránky">
 <!ENTITY page "Stránka">
@@ -391,6 +412,8 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Pripnúť stránku">
 <!ENTITY contextmenu_top_sites_unpin "Zrušiť pripnutie stránky">
 <!ENTITY contextmenu_add_search_engine "Pridať vyhľadávací modul">
+<!ENTITY contextmenu_mark_read "Označiť ako prečítané">
+<!ENTITY contextmenu_mark_unread "Označiť ako neprečítané">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -411,10 +434,10 @@ size. -->
 <!ENTITY pref_titlebar_mode_title "Zobrazovať titulok stránky">
 <!ENTITY pref_titlebar_mode_url "Zobrazovať adresu stránky">
 
-<!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
+<!-- Localization note (pref_magnifying_glass_enabled): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
-<!ENTITY pref_prevent_magnifying_glass "Zakázať zväčšovacie sklo">
-<!ENTITY pref_prevent_magnifying_glass_summary "Zablokuje používanie zväčšovacieho skla, aby sa zabránilo nejednoznačným dotykovým gestám">
+<!ENTITY pref_magnifying_glass_enabled "Zväčšovať malý obsah">
+<!ENTITY pref_magnifying_glass_enabled_summary "Zväčší odkazy a polia formulárov po ťuknutí v ich okolí">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
@@ -473,8 +496,6 @@ size. -->
 <!ENTITY button_set "Nastaviť">
 <!ENTITY button_clear "Vymazať">
 <!ENTITY button_copy "Kopírovať">
-
-<!ENTITY firstrun_panel_title_welcome "Vitajte">
 
 <!ENTITY home_top_sites_title "Top stránky">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -549,17 +570,25 @@ size. -->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Pripojené k stránke">
+<!-- Localization note (identity_run_by) : This string appears between a
+domain name (above) and an organization name (below). E.g.
+
+example.com
+which is run by
+Example Enterprises, Inc.
+
+The layout of the identity dialog prevents combining this into a single string with
+substitution variables.  If it is difficult to translate the sense of the string
+with that structure, consider a translation which ignores the preceding domain and
+just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Bezpečné pripojenie">
 <!ENTITY identity_connection_insecure "Nezabezpečené pripojenie">
 
 <!-- Mixed content notifications in site identity popup -->
-<!ENTITY loaded_mixed_content_message "Táto stránka zobrazuje obsah, ktorý nie je bezpečný.">
-<!ENTITY blocked_mixed_content_message_top "&brandShortName; zablokoval obsah, ktorý nie je bezpečný.">
-<!ENTITY blocked_mixed_content_message_bottom "Väčšina webových stránok bude fungovať správne aj po zablokovaní tohto obsahu.">
-<!ENTITY mixed_content_blocked_all "&brandShortName; zablokoval na tejto stránke obsah, ktorý nie je bezpečný.">
-<!ENTITY mixed_content_blocked_some "&brandShortName; zablokoval na tejto stránke časť nebezpečného obsahu.">
-<!ENTITY mixed_content_display_loaded "Časti tejto stránky nie sú bezpečné (ako napr. obrázky).">
-<!ENTITY mixed_content_protection_disabled "Ochrana pred nebezpečným obsahom je vypnutá.">
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; zablokoval na tejto stránke obsah, ktorý nie je bezpečný.">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; zablokoval na tejto stránke časť nebezpečného obsahu.">
+<!ENTITY mixed_content_display_loaded1 "Časti tejto stránky nie sú bezpečné (ako napr. obrázky).">
+<!ENTITY mixed_content_protection_disabled1 "Ochrana pred nebezpečným obsahom je vypnutá.">
 
 <!-- Tracking content notifications in site identity popup -->
 <!ENTITY doorhanger_tracking_title "Ochrana pred sledovaním">
@@ -688,3 +717,19 @@ size. -->
 <!ENTITY restriction_disallow_clear_history_title2 "Zakázať \'Vymazať históriu prehliadania\'">
 <!ENTITY restriction_disallow_master_password_title2 "Zakázať hlavné heslo">
 <!ENTITY restriction_disallow_guest_browsing_title2 "Zakázať režim Hosť">
+
+<!-- Default Bookmarks titles-->
+<!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
+<!ENTITY bookmarks_title "Záložky">
+<!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!ENTITY bookmarks_about_browser "Firefox: O vašom prehliadači">
+<!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "Firefox: Prispôsobenie pomocou doplnkov">
+<!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "Firefox: Podpora">
+<!-- LOCALIZATION NOTE (bookmarks_marketplace): link title for https://marketplace.firefox.com -->
+<!ENTITY bookmarks_marketplace "Firefox Marketplace">
+<!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!ENTITY bookmarks_restricted_support2 "Pomocník a podpora pre obmedzené profily na tabletoch s Androidom">
+<!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!ENTITY bookmarks_restricted_webmaker "Naučte sa web: Mozilla Webmaker">

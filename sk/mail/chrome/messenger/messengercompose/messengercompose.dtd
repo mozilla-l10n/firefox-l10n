@@ -215,6 +215,7 @@
 <!ENTITY addressButton.tooltip "Vybrať adresáta z Adresára">
 <!ENTITY attachButton.tooltip "Priložiť súbor">
 <!ENTITY spellingButton.tooltip "Skontrolovať pravopis označeného textu alebo celej stránky">
+<!ENTITY statusLanguageText.tooltip "Jazyk pre kontrolu pravopisu">
 <!ENTITY saveButton.tooltip "Uložiť túto správu">
 <!ENTITY cutButton.tooltip "Vystrihnúť">
 <!ENTITY copyButton.tooltip "Kopírovať">

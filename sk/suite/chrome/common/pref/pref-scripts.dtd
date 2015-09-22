@@ -21,6 +21,10 @@
 <!ENTITY allowContextmenuDisable.label   "Zakázať alebo nahradiť kontextovú ponuku">
 <!ENTITY allowHideStatusBar.label        "Skryť stavový riadok">
 
+<!ENTITY enableDrmMedia.label            "Povoliť Správu digitálnych práv (DRM) pre">
+<!ENTITY enableEmeForSuite.label         "moduly tretích strán na dešifrovanie obsahu">
+<!ENTITY enableEmeForSuite.accesskey     "o">
+
 <!ENTITY enablePlugins.label             "Povoliť zásuvné moduly pre">
 <!ENTITY enablePluginForSuite.label      "Prehliadač">
 <!ENTITY enablePluginForSuite.accesskey  "h">
