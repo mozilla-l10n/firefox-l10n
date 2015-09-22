@@ -197,6 +197,7 @@
 
 <!ENTITY fxaccount_status_header2 "Firefox অ্যাকাউন্ট">
 <!ENTITY fxaccount_status_signed_in_as "উল্লিখিত পরিচয়ে লগ-ইন করা হয়েছে">
+
 <!ENTITY fxaccount_status_auth_server "অ্যাকাউন্ট সার্ভার">
 <!ENTITY fxaccount_status_sync_now "এখনই সিঙ্ক করুন">
 <!ENTITY fxaccount_status_syncing2 "সিঙ্ক করা হচ্ছে...">
