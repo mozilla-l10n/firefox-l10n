@@ -72,7 +72,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY notSignedIn.label           "U is nie aangemeld nie.">
 <!ENTITY signIn.label                "Meld aan">
 
-<!ENTITY manage.label                "Bestuur">
+
 <!ENTITY disconnect.label            "Ontkoppel…">
 <!ENTITY verify.label                "Verifieer e-posadres">
 <!ENTITY forget.label                "Vergeet dié e-posadres">
