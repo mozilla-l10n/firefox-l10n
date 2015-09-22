@@ -210,10 +210,6 @@
   -  in a "receive" state. -->
 
 <!ENTITY netmonitorUI.timings.receive     "ಸ್ವೀಕರಿಸಲಾಗುತ್ತಿದೆ:">
-<!-- LOCALIZATION NOTE (netmonitorUI.security.warning.protocol): A tooltip
-  -  for warning icon that indicates a connection uses insecure protocol. -->
-
-<!ENTITY netmonitorUI.security.warning.sslv3      "ಈ SSL 3.0 ಪ್ರೊಟೋಕೋಲ್ ಹಳತಾಗಿದೆ ಮತ್ತು ಸುರಕ್ಷಿತವಲ್ಲ.">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.warning.cipher): A tooltip
   -  for warning icon that indicates a connection uses insecure cipher suite. -->
 
