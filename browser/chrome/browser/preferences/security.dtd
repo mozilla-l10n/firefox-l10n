@@ -24,10 +24,7 @@
 <!ENTITY  addonExceptions.accesskey     "T">
 
 
-<!ENTITY  passwords.label               "Mantšuphetišo">
 
-<!ENTITY  rememberPasswords.label       "Gopola mantšuphetišo a disaete">
-<!ENTITY  rememberPasswords.accesskey   "G">
 <!ENTITY  passwordExceptions.label      "Tše sa akaretšwego…">
 <!ENTITY  passwordExceptions.accesskey  "e">
 
@@ -36,5 +33,4 @@
 <!ENTITY  changeMasterPassword.label     "Fetoša lentšuphetišo le legolo…">
 <!ENTITY  changeMasterPassword.accesskey "l">
 
-<!ENTITY  savedPasswords.label            "Mantšuphetišo ao a bolokilwego…">
-<!ENTITY  savedPasswords.accesskey        "M">
+
