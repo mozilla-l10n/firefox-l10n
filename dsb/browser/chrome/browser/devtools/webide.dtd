@@ -27,6 +27,7 @@
 <!ENTITY projectMenu_manageComponents_label "Ekstrakomponenty zastojaś">
 <!ENTITY projectMenu_manageComponents_accesskey "E">
 
+
 <!ENTITY runtimeMenu_label "Běžny cas">
 <!ENTITY runtimeMenu_accesskey "B">
 <!ENTITY runtimeMenu_disconnect_label "Zwisk źěliś">
