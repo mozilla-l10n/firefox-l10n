@@ -20,16 +20,16 @@
 <!ENTITY replaceButton.accessKey "m">
 <!ENTITY replaceAllButton.label "Reemplaça-ho tot">
 <!ENTITY replaceAllButton.accessKey "a">
-<!ENTITY stopButton.label "Atura">
-<!ENTITY stopButton.accessKey "t">
+
+
 <!ENTITY userDictionary.label "Diccionari de l'usuari:">
 <!ENTITY moreDictionaries.label "Baixa més diccionaris…">
 <!ENTITY addToUserDictionaryButton.label "Afegeix una paraula">
 <!ENTITY addToUserDictionaryButton.accessKey "f">
 <!ENTITY editUserDictionaryButton.label "Edita…">
 <!ENTITY editUserDictionaryButton.accessKey "E">
-<!ENTITY recheckButton.label "Torna a verificar">
-<!ENTITY recheckButton.accessKey "T">
+
+
 <!ENTITY closeButton.label "Tanca">
 <!ENTITY closeButton.accessKey "c">
 <!ENTITY sendButton.label "Envia">
