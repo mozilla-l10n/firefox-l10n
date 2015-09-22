@@ -112,12 +112,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignIn.label "لِج إلى &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "افتح تفضيلات &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "أعِد الاتصال مع &syncBrand.shortName.label;">
+
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; مفعّل">
 <!ENTITY syncStartPanel2.subTitle "سيبدأ &brandShortName; في المزامنة حالًا.">
-<!ENTITY syncErrorPanel.heading "تعذّر الاتصال مع &syncBrand.shortName.label;">
-<!ENTITY syncErrorPanel.subTitle "من فضلك لِج لمواصلة المزامنة.">
-<!ENTITY syncErrorPanel.signInButton.label "لج">
-<!ENTITY syncErrorPanel.signInButton.accesskey "ل">
 
 
 <!ENTITY fullScreenMinimize.tooltip "صغّر">
@@ -127,8 +124,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "خ">
 <!ENTITY fullScreenExit.label "اخرج من وضع ملء الشاشة">
 <!ENTITY fullScreenExit.accesskey "و">
+<!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
+     fullscreenWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring fullscreen.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
 
-<!ENTITY fullscreenExitHint2.value "اضغط ESC في أي وقت للمغادرة.">
+<!ENTITY fullscreenWarning.beforeDomain.label "">
+
+
+<!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
+     exitDOMFullscreenMac.button): the "escape" button on PC keyboards
+     is uppercase, while on Mac keyboards it is lowercase -->
+
 <!ENTITY leaveDOMFullScreen.label "غادر ملء الشاشة">
 <!ENTITY leaveDOMFullScreen.accesskey "م">
 
@@ -214,7 +222,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "التنزيلات">
 <!ENTITY downloads.accesskey          "ز">
 <!ENTITY downloads.commandkey         "j">
-<!ENTITY downloadsUnix.commandkey     "‬y">
+
 <!ENTITY addons.label                 "الإضافات">
 <!ENTITY addons.accesskey             "ض">
 <!ENTITY addons.commandkey            "A">
@@ -397,8 +405,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "أتريد تحسين نتائج بالبحث بالاقتراحات؟">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "اطّلع على المزيد…">
+
 <!ENTITY urlbar.searchSuggestionsNotification.disable "لا">
+
 <!ENTITY urlbar.searchSuggestionsNotification.enable "نعم">
+
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -454,6 +465,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "غيّر إعدادات البحث">
+
+
+
+
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -689,8 +704,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "اتصال آمن">
 <!ENTITY identity.connectionNotSecure "الاتصال غير آمن">
 <!ENTITY identity.connectionFile "هذه الصفحة مخزنة على حاسوبك.">
-<!ENTITY identity.connectionVerified "تحقق &brandShortName; من أنك تتصل بأمان مع هذا الموقع، و الذي يديره:">
+
 <!ENTITY identity.connectionInternal "هذه صفحة &brandShortName; آمنة.">
+
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "منع &brandShortName; الأجزاء غير الآمنة من هذه الصفحة.">
@@ -700,6 +716,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings in the subview. -->
 
 <!ENTITY identity.description.insecure "اتصالك بهذا الموقع ليس خاصًّا. يمكن للآخرين مطالعة المعلومات التي ترسلها (مثل كلمات السر، و الرسائل، و بطاقات الائتمان و غيرها).">
+
 <!ENTITY identity.description.weakCipher "اتصالك بهذا الموقع يستخدم تعمية ضعيفة وليس خاصًّا أيضًا.">
 <!ENTITY identity.description.weakCipher2 "يمكن للآخرين الاطلاع على معلوماتك أو تغيير سلوك الموقع.">
 <!ENTITY identity.description.activeBlocked "منع &brandShortName; الأجزاء غير الآمنة في هذه الصفحة.">
@@ -718,6 +735,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.moreInfoLinkText2 "المزيد من المعلومات">
 
 <!ENTITY identity.permissions "التّصاريح">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -728,8 +746,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "تزامُن">
 
-<!ENTITY syncSetup.label              "اضبط &syncBrand.shortName.label;…">
-<!ENTITY syncSetup.accesskey          "ز">
+
 <!ENTITY syncSyncNowItem.label        "زامِن الآن">
 <!ENTITY syncSyncNowItem.accesskey    "ز">
 <!ENTITY syncReAuthItem.label         "أعِد الاتصال مع &syncBrand.shortName.label;…">

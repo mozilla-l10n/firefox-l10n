@@ -72,7 +72,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY notSignedIn.label           "لست والجًا.">
 <!ENTITY signIn.label                "لج">
 <!ENTITY profilePicture.tooltip      "غيّر صورة الحساب">
-<!ENTITY manage.label                "أدِر">
+
 <!ENTITY disconnect.label            "اقطع الاتصال…">
 <!ENTITY verify.label                "بريد التأكّد">
 <!ENTITY forget.label                "انس هذا البريد">

@@ -10,24 +10,6 @@
 
 <!ENTITY window.title "معراض الوب">
 <!ENTITY browserConsole.title "معراض المتصفح">
-
-<!ENTITY networkPanel.requestURLColon             "عنوان الطلب:">
-<!ENTITY networkPanel.requestMethodColon          "طريقة الطلب:">
-<!ENTITY networkPanel.statusCodeColon             "رمز الحالة:">
-
-<!ENTITY networkPanel.requestHeaders              "ترويسات الطلب">
-<!ENTITY networkPanel.requestCookie               "كعكات الطلب">
-<!ENTITY networkPanel.requestBody                 "صلب موضوع الطلب">
-<!ENTITY networkPanel.requestFormData             "بيانات نموذج الطلب">
-
-<!ENTITY networkPanel.responseHeaders             "ترويسات الرد">
-<!ENTITY networkPanel.responseCookie              "الكعكات المستلمة">
-<!ENTITY networkPanel.responseBody                "صلب موضوع الرد">
-<!ENTITY networkPanel.responseBodyCached          "البيانات الخبيئة">
-<!ENTITY networkPanel.responseBodyUnknownType     "نوع المحتوى مجهول">
-<!ENTITY networkPanel.responseNoBody              "لا صلب موضوع في الرد">
-<!ENTITY networkPanel.responseImage               "الصورة المستقبَلة">
-<!ENTITY networkPanel.responseImageCached         "الصورة الخبيئة">
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
 
@@ -69,12 +51,21 @@
 <!ENTITY btnPageLogging.label   "التسجيل">
 <!ENTITY btnPageLogging.tooltip "سجّل الرسائل المرسلة إلى كائن window.console">
 <!ENTITY btnPageLogging.accesskey3 "س">
-<!ENTITY btnConsoleErrors       "أخطاء">
-<!ENTITY btnConsoleInfo         "معلومات">
-<!ENTITY btnConsoleWarnings     "تحذيرات">
-<!ENTITY btnConsoleLog          "سجل">
+
+
+
+
 
 <!ENTITY btnConsoleReflows      "الانسيابات">
+<!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
+  -  the toolbar. It shows or hides messages that the web developer inserted on
+  -  the page for debugging purposes, using calls on the HTTP server. -->
+
+
+
+
+
+
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
 <!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
