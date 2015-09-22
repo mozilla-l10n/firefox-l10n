@@ -21,15 +21,15 @@
 <!ENTITY replaceAllButton.label "Newid y Cyfan">
 <!ENTITY replaceAllButton.accessKey "y">
 <!ENTITY stopButton.label "Atal">
-<!ENTITY stopButton.accessKey "t">
+<!ENTITY stopButton.accessKey "A">
 <!ENTITY userDictionary.label "Geiriadur Personol:">
 <!ENTITY moreDictionaries.label "Llwytho rhagor o eiriaduron i lawr…">
 <!ENTITY addToUserDictionaryButton.label "Ychwanegu Gair">
 <!ENTITY addToUserDictionaryButton.accessKey "G">
 <!ENTITY editUserDictionaryButton.label "Golygu…">
 <!ENTITY editUserDictionaryButton.accessKey "G">
-<!ENTITY recheckButton.label "Ailwirio Tudalen">
-<!ENTITY recheckButton.accessKey "A">
+<!ENTITY recheckButton2.label "Ailwirio'r Testun">
+<!ENTITY recheckButton2.accessKey "T">
 <!ENTITY closeButton.label "Cau">
 <!ENTITY closeButton.accessKey "u">
 <!ENTITY sendButton.label "Anfon">
