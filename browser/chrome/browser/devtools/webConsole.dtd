@@ -10,24 +10,6 @@
 
 <!ENTITY window.title "वेब कन्सोल">
 
-
-<!ENTITY networkPanel.requestURLColon             "यूआरएल अनुरोध गर्नुहोस्:">
-
-
-
-<!ENTITY networkPanel.requestHeaders              "हेडरहरु अनुरोध गर्नुहोस्">
-<!ENTITY networkPanel.requestCookie               "पठाईसकेको कुकी">
-<!ENTITY networkPanel.requestBody                 "मुख्य भाग अनुरोध गर्नुहोस्">
-<!ENTITY networkPanel.requestFormData             "पठाईसकेको फारमको डेटा">
-
-<!ENTITY networkPanel.responseHeaders             "प्रतिक्रिया शीर्षकहरु">
-<!ENTITY networkPanel.responseCookie              "प्राप्त गरिएको कुकी">
-<!ENTITY networkPanel.responseBody                "प्रतिक्रियाको मुख्य भाग">
-<!ENTITY networkPanel.responseBodyCached          "केच तथ्यांक ">
-<!ENTITY networkPanel.responseBodyUnknownType     "अज्ञात बस्तु  प्रकार ">
-<!ENTITY networkPanel.responseNoBody              "प्रतिक्रियाको मुख्य भाग छैन">
-<!ENTITY networkPanel.responseImage               "प्राप्त भएको छबि">
-<!ENTITY networkPanel.responseImageCached         "केच छबि ">
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
 
@@ -63,11 +45,20 @@
 <!ENTITY btnPageLogging.label   "लगिङ">
 
 <!ENTITY btnPageLogging.accesskey3 "L">
-<!ENTITY btnConsoleErrors       "त्रुटिहरू">
-<!ENTITY btnConsoleInfo         "जानकारी">
-<!ENTITY btnConsoleWarnings     "चेतावनीहरु">
-<!ENTITY btnConsoleLog          "लग">
+
+
+
+
 <!ENTITY btnConsoleXhr          "XHR">
+
+<!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
+  -  the toolbar. It shows or hides messages that the web developer inserted on
+  -  the page for debugging purposes, using calls on the HTTP server. -->
+
+
+
+
+
 
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
