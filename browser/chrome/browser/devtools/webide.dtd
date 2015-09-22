@@ -26,7 +26,7 @@
 <!ENTITY projectMenu_showPrefs_accesskey "n">
 <!ENTITY projectMenu_manageComponents_label "Hantera extra komponenter">
 <!ENTITY projectMenu_manageComponents_accesskey "H">
-
+<!ENTITY projectMenu_refreshTabs_label "Uppdatera flikar">
 
 <!ENTITY runtimeMenu_label "Runtime">
 <!ENTITY runtimeMenu_accesskey "R">
