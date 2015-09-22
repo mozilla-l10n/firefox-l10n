@@ -72,7 +72,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY notSignedIn.label           "நீங்கள் உள்நுழையவில்லை.">
 <!ENTITY signIn.label                "உள்நுழை">
 
-<!ENTITY manage.label                "நிர்வாகி">
+
 <!ENTITY disconnect.label            "துண்டி...">
 <!ENTITY verify.label                "மின்னஞ்சலை உறுதிச்செய்">
 <!ENTITY forget.label                "இந்த மடலை மறந்துவிடு">

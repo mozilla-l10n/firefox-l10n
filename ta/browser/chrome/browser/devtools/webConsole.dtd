@@ -10,24 +10,6 @@
 
 <!ENTITY window.title "வலை பணிமுனை">
 <!ENTITY browserConsole.title "உலாவி பணிமுனை">
-
-<!ENTITY networkPanel.requestURLColon             "கோரிக்கை URL:">
-<!ENTITY networkPanel.requestMethodColon          "கோரிக்கை முறை:">
-<!ENTITY networkPanel.statusCodeColon             "நிலை குறியீடு:">
-
-<!ENTITY networkPanel.requestHeaders              "கோரிக்கை தலைப்புகள்">
-<!ENTITY networkPanel.requestCookie               "அனுப்பிய குக்கி">
-<!ENTITY networkPanel.requestBody                 "கோரிக்கை பிரதான அங்கம்">
-<!ENTITY networkPanel.requestFormData             "அனுப்பிய படிவ தரவு">
-
-<!ENTITY networkPanel.responseHeaders             "பதிலளிப்பு தலைப்புகள்">
-<!ENTITY networkPanel.responseCookie              "பெற்ற குக்கி">
-<!ENTITY networkPanel.responseBody                "பதிலளிப்பு பிரதான அங்கம்">
-<!ENTITY networkPanel.responseBodyCached          "தேக்ககப்படுத்திய தரவு">
-<!ENTITY networkPanel.responseBodyUnknownType     "தெரியாத உள்ளடக்க வகை">
-<!ENTITY networkPanel.responseNoBody              "பதிலளிப்பு பிரதான அங்கம் இல்லை">
-<!ENTITY networkPanel.responseImage               "பெற்ற படம்">
-<!ENTITY networkPanel.responseImageCached         "தேக்ககப்படுத்திய படம்">
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
 
@@ -69,12 +51,21 @@
 <!ENTITY btnPageLogging.label   "பதிவுசெய்தல்">
 <!ENTITY btnPageLogging.tooltip "window.console பொருளுக்கு அனுப்பப்படும் செய்திகளைப் பதிவு செய்">
 <!ENTITY btnPageLogging.accesskey3 "L">
-<!ENTITY btnConsoleErrors       "பிழைகள்">
-<!ENTITY btnConsoleInfo         "தகவல்">
-<!ENTITY btnConsoleWarnings     "எச்சரிக்கைகள்">
-<!ENTITY btnConsoleLog          "பதிவு">
+
+
+
+
 <!ENTITY btnConsoleXhr          "XHR">
 <!ENTITY btnConsoleReflows      "மீளோடைகள்">
+<!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
+  -  the toolbar. It shows or hides messages that the web developer inserted on
+  -  the page for debugging purposes, using calls on the HTTP server. -->
+
+
+
+
+
+
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
 <!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
