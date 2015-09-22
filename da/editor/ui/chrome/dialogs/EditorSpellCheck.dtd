@@ -26,8 +26,8 @@
 <!ENTITY addToUserDictionaryButton.accessKey "T">
 <!ENTITY editUserDictionaryButton.label "Rediger…">
 <!ENTITY editUserDictionaryButton.accessKey "R">
-<!ENTITY recheckButton.label "Kontroller siden igen">
-<!ENTITY recheckButton.accessKey "o">
+<!ENTITY recheckButton2.label "Kontroller teksten igen">
+<!ENTITY recheckButton2.accessKey "o">
 <!ENTITY closeButton.label "Luk">
 <!ENTITY closeButton.accessKey "L">
 <!ENTITY sendButton.label "Send">
