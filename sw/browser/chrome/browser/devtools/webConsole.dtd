@@ -10,23 +10,6 @@
 
 <!ENTITY window.title "Kiweko cha Wavuti">
 
-
-
-
-
-<!ENTITY networkPanel.requestHeaders              "Omba Vichwa">
-<!ENTITY networkPanel.requestCookie               "Imetuma Kidakuzi">
-<!ENTITY networkPanel.requestBody                 "Omba Umbo">
-<!ENTITY networkPanel.requestFormData             "Imetuma Fomu ya Data">
-
-<!ENTITY networkPanel.responseHeaders             "Mwitikio wa Vichwa">
-
-<!ENTITY networkPanel.responseBody                "Mwitikio wa Umbo">
-<!ENTITY networkPanel.responseBodyCached          "Data Iliyokachiwa">
-<!ENTITY networkPanel.responseBodyUnknownType     "Aina ya Maudhui Isiyojulikana">
-<!ENTITY networkPanel.responseNoBody              "Hakuna Umbo la Mwitikio">
-<!ENTITY networkPanel.responseImage               "Picha Iliyopokelewa">
-<!ENTITY networkPanel.responseImageCached         "Picha Iliyokachiwa">
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
 
@@ -59,10 +42,19 @@
   -  console.error(). -->
 
 
-<!ENTITY btnConsoleErrors       "Makosa">
-<!ENTITY btnConsoleInfo         "Maelezo">
-<!ENTITY btnConsoleWarnings     "Onyo">
-<!ENTITY btnConsoleLog          "Batli">
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
+  -  the toolbar. It shows or hides messages that the web developer inserted on
+  -  the page for debugging purposes, using calls on the HTTP server. -->
+
+
+
+
 
 
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"

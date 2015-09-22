@@ -22,10 +22,7 @@
 <!ENTITY  addonExceptions.accesskey     "M">
 
 
-<!ENTITY  passwords.label               "Maneno ya siri">
 
-<!ENTITY  rememberPasswords.label       "Kumbuka maneno ya siri ya tovuti">
-<!ENTITY  rememberPasswords.accesskey   "K">
 <!ENTITY  passwordExceptions.label      "Mambo ya pekee…">
 <!ENTITY  passwordExceptions.accesskey  "m">
 
@@ -34,5 +31,4 @@
 <!ENTITY  changeMasterPassword.label     "Badilisha Jina Kuu la nywila…">
 <!ENTITY  changeMasterPassword.accesskey "J">
 
-<!ENTITY  savedPasswords.label            "Nywila Zimehifadhiwa…">
-<!ENTITY  savedPasswords.accesskey        "Z">
+
