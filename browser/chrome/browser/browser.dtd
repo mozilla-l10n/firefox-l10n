@@ -111,9 +111,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
-
-
 <!ENTITY fullScreenMinimize.tooltip "சுருக்குக">
 <!ENTITY fullScreenRestore.tooltip "மீளமை">
 
@@ -121,6 +118,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "முழுத்திரையிலிருந்து வெளியேறுக">
 <!ENTITY fullScreenExit.accesskey "F">
+<!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
+     fullscreenWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring fullscreen.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
+
+<!ENTITY fullscreenWarning.beforeDomain.label "">
+
+
+<!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
+     exitDOMFullscreenMac.button): the "escape" button on PC keyboards
+     is uppercase, while on Mac keyboards it is lowercase -->
 
 <!ENTITY leaveDOMFullScreen.label "முழுத்திரையிலிருந்து வெளியேறுக">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
@@ -200,7 +209,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY downloads.commandkey         "j">
-<!ENTITY downloadsUnix.commandkey     "y">
+
 <!ENTITY addons.label                 "செருகல்கள்">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
@@ -371,8 +380,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.switchToTab.label     "தத்தலுக்கு மாற்றுக:">
 
 
+
 <!ENTITY urlbar.searchSuggestionsNotification.disable "இல்லை">
+
 <!ENTITY urlbar.searchSuggestionsNotification.enable "ஆம்">
+
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -419,6 +431,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
+
+
+
+
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -650,6 +666,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
 <!-- Strings for connection state warnings. -->
 
 
@@ -670,7 +687,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
 <!ENTITY identity.permissions "அனுமதிகள்">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -681,8 +700,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "ஒத்திசை">
 
-<!ENTITY syncSetup.label              " &syncBrand.shortName.label; இனை அமை...">
-<!ENTITY syncSetup.accesskey          "Y">
+
 <!ENTITY syncSyncNowItem.label        "இப்போது ஒத்திசை">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 
