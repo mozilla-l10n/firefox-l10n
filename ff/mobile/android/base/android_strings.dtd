@@ -7,12 +7,21 @@
 <!ENTITY  error_loading_file "Juumre waɗii tuma nde piille coklaaɗe etaa looweede ngam hurminde &brandShortName;">
 
 
+
 <!ENTITY  onboard_start_button_account "Seŋo e &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Fuɗɗo Peeragol">
+
+
+
+
+
+
+
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
-<!ENTITY  bookmarks_title "Maantore">
+<!ENTITY  bookmarks_title "Bookmarks">
 <!ENTITY  history_title "Aslol">
 <!ENTITY  reading_list_title "Doggol Taro">
 <!ENTITY  recent_tabs_title "Tage Cakkitiiɗe">
@@ -52,8 +61,9 @@
 
 <!ENTITY history_today_section "Hannde">
 <!ENTITY history_yesterday_section "Haŋki">
-<!ENTITY history_week_section2 "Yontere Ɓennunde">
-<!ENTITY history_older_section2 "Lewru Ɓennundu">
+
+
+
 
 <!ENTITY go "Yah">
 <!ENTITY search "Yiylo">
@@ -76,6 +86,13 @@
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
 <!ENTITY switch_button_message "SWITCH">
+<!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
+     visible in the UI, but rather used as a text-to-speech content description
+     for sight-impaired a11y users. The content description is set on a tab
+     title in a list of open tabs when content in that tab is playing audio.
+     &formatS; will be replaced with the title of the tab, as received from the
+     web page. When audio is not playing in a tab, &formatS; will be used as
+     the content description. -->
 
 <!ENTITY settings "Teelte">
 
@@ -154,6 +171,9 @@
 
 
 
+
+
+
 <!ENTITY pref_category_home "Damal">
 <!ENTITY pref_category_home_summary "Heertin Jaɓɓorgo maa">
 <!ENTITY pref_category_home_panels "Alluuje">
@@ -169,6 +189,9 @@
 <!ENTITY pref_home_updates_wifi "E Wifi tan">
 <!ENTITY pref_home_suggested_sites "Hollu lowe basiyaaɗi">
 <!ENTITY pref_home_suggested_sites_summary "Hollu codorɗe lowe e hello jaɓɓorgo maa ɗe min cikki aɗa foti hatojinde">
+
+
+
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 
@@ -182,10 +205,13 @@
 <!ENTITY pref_cookies_not_accept_foreign "Daaƴtaaɗo, wondaani e ɓe woɗɓe">
 <!ENTITY pref_cookies_disabled "Daaƴaama">
 
-<!ENTITY pref_tracking_protection_title "Ndeenka dewindol">
-<!ENTITY pref_tracking_protection_summary "&brandShortName; maa haɗ lowe rewindaade-ma">
+
 <!ENTITY pref_donottrack_title "Hoto rewindo">
 <!ENTITY pref_donottrack_summary "&brandShortName; maa wiy lowe wonde a yiɗaa rewindeede">
+
+
+
+
 
 
 
@@ -214,7 +240,6 @@
 <!ENTITY pref_plugins_tap_to_play "Fiy ngam tarde">
 
 <!ENTITY pref_text_size "Ɓetol binndi">
-<!ENTITY pref_reflow_on_zoom4 "Duttagol binndi">
 <!ENTITY pref_restore "Taaɓe">
 <!ENTITY pref_restore_always "Artir sahaa kala">
 <!ENTITY pref_restore_quit "Hoto artir caggal jaltugol &brandShortName;">
@@ -315,13 +340,13 @@ size. -->
 <!ENTITY addons "Ɓeyditte">
 
 
-<!ENTITY apps "Jaaɓɗe">
 <!ENTITY char_encoding "Dokkitannde Alkule">
 
 <!ENTITY share "Simmin">
 <!ENTITY share_title "Simmin fayde">
 <!ENTITY share_image_failed "Horiima simminde ngal natal">
 <!ENTITY save_as_pdf "Danndu e PDF">
+
 <!ENTITY find_in_page "Yiylo e Hello">
 <!ENTITY desktop_mode "Ɗaɓɓit Lowre Biro">
 <!ENTITY page "Hello">
@@ -339,7 +364,7 @@ size. -->
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 <!ENTITY find_prev "Ɓennuɗo">
-<!ENTITY find_next "Payɗo">
+
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -364,6 +389,8 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Ñippu Lowre">
 <!ENTITY contextmenu_top_sites_unpin "Ñippit Lowre">
 <!ENTITY contextmenu_add_search_engine "Ɓeydu Yiilorde">
+
+
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
@@ -381,6 +408,9 @@ size. -->
 <!ENTITY pref_titlebar_mode "Palal tiitoonde">
 <!ENTITY pref_titlebar_mode_title "Hollu tiitoonde hello">
 <!ENTITY pref_titlebar_mode_url "Hollu ñiiɓirde hello">
+<!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
+     whether or not the magnifying glass is disabled. -->
+
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -405,7 +435,7 @@ size. -->
 
 <!ENTITY site_settings_clear        "Momtu">
 <!ENTITY site_settings_no_settings  "Teelte ngalaa saka momtee.">
-<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+<!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
 <!ENTITY reading_list_removed "Hello momtaama e Doggol Taro maa">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
@@ -435,7 +465,6 @@ size. -->
 
 
 <!ENTITY button_copy "Natto">
-
 
 <!ENTITY home_top_sites_title "Lowe Dowrowe">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -520,21 +549,16 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_run_by "yuɓɓini ɗum ko">
-<!ENTITY identity_no_info "Ndee lowre geese hokkataa humpito innitol.">
-<!ENTITY identity_not_encrypted "Ceŋagol maa e ndee lowre gannaaka.">
-<!ENTITY identity_encrypted "Gannangol">
+
 <!-- Mixed content notifications in site identity popup -->
 
-<!ENTITY loaded_mixed_content_message "Ngoo hello ena jaytina loowdi ndi hisaani.">
-<!ENTITY blocked_mixed_content_message_top "&brandShortName; faliima loowdi ndi hisaani.">
-<!ENTITY blocked_mixed_content_message_bottom "Lowe ɓurɗe heewde maa mbaaw wanngeede hay so tawii ndii loowdi daaƴaama.">
+
+
 <!-- Tracking content notifications in site identity popup -->
 
-<!ENTITY loaded_tracking_content_message_top "Nddenka rewindo koko daaƴaa.">
-<!ENTITY loaded_tracking_content_message_bottom "Banngeeji e ngoo hello ena mbaawi rewindaade banngagol maa.">
-<!ENTITY blocked_tracking_content_message_top2 "Nddenka rewindo hurminaama.">
-<!ENTITY blocked_tracking_content_message_bottom2 "Geɗe ngoo hello ndewindotooɗe golle maa e geese ndaaƴaama.">
+
+
+
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "Ɓeydu Humpito">
@@ -545,7 +569,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Keɓe curaaɗe momtaama">
 <!ENTITY private_data_fail "Won e keɓe cuuriiɗe ɗe keɓaani momteede">
 
-<!ENTITY bookmarkhistory_button_import "Jiggo">
 <!ENTITY bookmarkhistory_import_both "Nana jiggoo maantore e aslol 
 iwde e Androis">
 <!ENTITY bookmarkhistory_import_bookmarks "Nana jiggoo maantore 
@@ -609,10 +632,6 @@ iwde e Android">
      They are never shown to users -->
 <!ENTITY actionbar_done "Gasii">
 <!-- Voice search in the awesome bar -->
-
-
-
-
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -628,3 +647,30 @@ iwde e Android">
 
 <!ENTITY find_matchcase "Aa">
 
+<!-- DevTools Authentication -->
+<!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
+     above a QR reader that is actively scanning for QR codes.  The expected QR
+     code has already been displayed by the client trying to connect (such as
+     desktop Firefox via WebIDE), so you just need to aim this device at the QR
+     code. -->
+<!-- Restrictions -->
+<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+     a restricted profile (e.g. child). Used inside the Android settings UI. -->
+
+
+
+
+
+
+
+
+
+<!-- Default Bookmarks titles-->
+<!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
+<!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
+<!ENTITY bookmarks_marketplace "Firefox Marketplace">
+<!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
