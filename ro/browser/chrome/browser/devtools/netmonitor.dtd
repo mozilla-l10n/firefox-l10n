@@ -210,10 +210,6 @@
   -  in a "receive" state. -->
 
 <!ENTITY netmonitorUI.timings.receive     "Primire:">
-<!-- LOCALIZATION NOTE (netmonitorUI.security.warning.protocol): A tooltip
-  -  for warning icon that indicates a connection uses insecure protocol. -->
-
-<!ENTITY netmonitorUI.security.warning.sslv3      "Protocolul SSL 3.0 este învechit și nesigur.">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.warning.cipher): A tooltip
   -  for warning icon that indicates a connection uses insecure cipher suite. -->
 
