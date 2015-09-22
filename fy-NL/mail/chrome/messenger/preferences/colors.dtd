@@ -1,4 +1,4 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
+﻿<!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
@@ -6,8 +6,12 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUse.label           "Ynhâld tastean de eigen kleuren te kiezen, yn stee fan myn seleksjes hjirboppe">
-<!ENTITY  allowPagesToUse.accesskey       "Y">
+<!ENTITY  overridePageColors.label        "De troch de ynhâld opjûne kleuren oerskriuwe mei myn seleksjes hjirboppe:">
+<!ENTITY  overridePageColors.accesskey    "D">
+
+<!ENTITY  overridePageColors.always.label "Altyd">
+<!ENTITY  overridePageColors.auto.label   "Allinnich by tema’s mei heech kontrast">
+<!ENTITY  overridePageColors.never.label  "Noait">
 
 <!ENTITY  color                           "Tekst en achtergrûn">
 <!ENTITY  textColor.label                 "Tekst:">

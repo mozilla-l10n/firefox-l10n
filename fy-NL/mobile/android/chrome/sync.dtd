@@ -4,28 +4,28 @@
 
 <!ENTITY sync.title                 "Sync">
 <!ENTITY sync.notconnected          "Net ferbûn">
-<!ENTITY sync.connect               "Ferbyn">
+<!ENTITY sync.connect               "Ferbine">
 <!ENTITY sync.connected             "Ferbûn">
 <!ENTITY sync.details               "Details">
 <!ENTITY sync.deviceName            "Dit apparaat">
 <!ENTITY sync.disconnect            "Ferbining ferbrekke">
-<!ENTITY sync.syncNow               "Sync no">
+<!ENTITY sync.syncNow               "No syngronisearje">
 
-<!ENTITY sync.setup.title           "Ferbyn mei Sync">
-<!ENTITY sync.setup.pair            "Om te aktivearjen, selektearje “In apparaat keppelje” op jo oare apparaat.">
+<!ENTITY sync.setup.title           "Ferbine mei Sync">
+<!ENTITY sync.setup.pair            "Selektearje ‘In apparaat keppelje' op jo oare apparaat om it te aktivearjen.">
 <!ENTITY sync.fallback              "Ik bin net ticht by myn kompjûter…">
-<!ENTITY sync.setup.manual          "Jou jo Sync-accountynformaasje">
+<!ENTITY sync.setup.manual          "Fier jo Sync-accountynformaasje yn">
 <!ENTITY sync.account               "Accountnamme">
 <!ENTITY sync.password              "Wachtwurd">
 <!ENTITY sync.recoveryKey           "Werstelkaai">
-<!ENTITY sync.customServer          "Brûk eigen tsjinner">
+<!ENTITY sync.customServer          "Eigen tsjinner brûke">
 <!ENTITY sync.serverURL             "Tsjinner-URL">
-<!ENTITY sync.setup.connect         "Ferbyn">
+<!ENTITY sync.setup.connect         "Ferbine">
 <!ENTITY sync.setup.cancel          "Annulearje">
-<!ENTITY sync.setup.tutorial        "Lit it sjen">
-<!ENTITY sync.setup.waiting2        "Op oare apparaat wachtsje…">
+<!ENTITY sync.setup.tutorial        "Toane hoe">
+<!ENTITY sync.setup.waiting2        "Wachtsje op oare apparaat…">
 
 <!ENTITY sync.pair.title            "In apparaat keppelje">
-<!ENTITY sync.pair.description      "Selektearje om jo nije apparaat te aktivearjen &#x0022;Sync ynstelle&#x0022; op it apparaat.">
+<!ENTITY sync.pair.description      "Selektearje &#x0022;Sync ynstelle&#x0022; op jo nije apparaat om it te aktivearjen.">
 <!ENTITY sync.setup.close           "Slute">
-<!ENTITY sync.setup.waitingdownload "Jo gegevens wurde no op de achtergrûn ynladen. Jo kinne dit finster op elk winske momint slute.">
+<!ENTITY sync.setup.waitingdownload "Jo gegevens wurde no op de achtergrûn download. Jo kinne dit finster op elk winske momint slute.">

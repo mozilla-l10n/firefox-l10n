@@ -50,7 +50,8 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Altyd antwurd nei ôfstjoerder toane">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "A">
 
-<!ENTITY otherActionsButton1.label "Oare aksjes">
+<!ENTITY otherActionsButton2.label "Mear">
+<!ENTITY otherActionsButton.tooltip "Mear aksjes">
 <!ENTITY otherActionsOpenConversation1.label "Iepenje yn petear">
 <!ENTITY otherActionsOpenConversation1.accesskey "p">
 <!ENTITY otherActionsOpenInNewWindow1.label "Iepenje yn nij finster">

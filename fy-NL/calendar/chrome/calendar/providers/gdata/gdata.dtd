@@ -13,4 +13,10 @@
 <!ENTITY gdata.migration.upgrade.accesskey "O">
 <!ENTITY gdata.migration.showagain.label "Altyd kontrolearje">
 
+<!ENTITY gdata.reminder.default "Standertomtinken">
 <!ENTITY gdata.reminder.action.sms.label "In tekstberjocht ferstjoere">
+
+<!ENTITY gdata.wizard.session.description "Kies in besteande sesje of fier jo e-mailadres yn om in nije sesje oan te meitsjen. Jo hawwe mar ien sesje per account nedich.">
+<!ENTITY gdata.wizard.calendars.description "Selektearje de aginda’s en takenlisten wêrop jo jo abonnearje wolle.">
+
+<!ENTITY gdata.wizard.nextstep.description "Gean fierder mei de folgjende stap om jo aginda’s yn te stellen.">

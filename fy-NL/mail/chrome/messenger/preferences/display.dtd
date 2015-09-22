@@ -4,6 +4,7 @@
 
 <!ENTITY itemFormatting.label             "Opmaak">
 <!ENTITY itemTags.label                   "Labels">
+<!ENTITY itemAdvanced.label               "Avansearre">
 
 <!ENTITY style.label                      "Styl:">
 <!ENTITY style.accesskey                  "S">
@@ -34,7 +35,7 @@
 <!ENTITY removeTagButton.label            "Fuortsmite">
 <!ENTITY removeTagButton.accesskey        "s">
 
-<!-- Fonts -->
+<!-- Fonts and Colors -->
 <!ENTITY fontsAndColors1.label   "Lettertypen &amp; kleuren">
 <!ENTITY defaultFont.label       "Standertlettertype:">
 <!ENTITY defaultFont.accesskey   "S">
@@ -44,3 +45,29 @@
 <!ENTITY fontOptions.accesskey   "s">
 <!ENTITY colorButton.label       "Kleuren…">
 <!ENTITY colorButton.accesskey   "K">
+
+<!-- Advanced -->
+<!ENTITY reading.caption                	"Lêze">
+<!ENTITY display.caption                	"Toane">
+<!ENTITY showCondensedAddresses.label  		"Fan minsken yn myn adresboek allinnich werjeftenamme toane">
+<!ENTITY showCondensedAddresses.accesskey 	"m">
+
+<!ENTITY autoMarkAsRead.label             	"Berjochten automatysk as lêzen markearje">
+<!ENTITY autoMarkAsRead.accesskey         	"A">
+<!ENTITY markAsReadNoDelay.label          	"Direkt op it skerm">
+<!ENTITY markAsReadNoDelay.accesskey      	"O">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label            	"Nei it toanen foar">
+<!ENTITY markAsReadDelay.accesskey        	"N">
+<!ENTITY secondsLabel.label               	"sekonden">
+<!ENTITY openMsgIn.label               		"Nije berjochten iepenje yn:">
+<!ENTITY openMsgInNewTab.label         		"in nij ljepblêd">
+<!ENTITY openMsgInNewTab.accesskey     		"l">
+<!ENTITY reuseExpRadio0.label          		"In nij berjochtefinster">
+<!ENTITY reuseExpRadio0.accesskey      		"i">
+<!ENTITY reuseExpRadio1.label          		"In besteand berjochtefinster">
+<!ENTITY reuseExpRadio1.accesskey      		"a">
+<!ENTITY closeMsgOnMoveOrDelete.label		"Slút berjochtskerm/ljepblêd nei ferpleatsen of fuortsmiten">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey 	"S">

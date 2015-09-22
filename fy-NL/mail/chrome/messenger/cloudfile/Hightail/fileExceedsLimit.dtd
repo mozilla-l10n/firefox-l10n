@@ -3,12 +3,5 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
    
 <!ENTITY fileExceedsLimit.title   "Hightail">
-<!ENTITY fileExceedsLimit.thatsBigFile   "Bestannen grutter as 50 MB ferstjoere">
-<!ENTITY fileExceedsLimit.thatsBigFile2   "is in premiumeigenskip.">
-<!ENTITY fileExceedsLimit.accept "Upgrade">
-<!ENTITY fileExceedsLimit.cancel "Annulearje">
+<!ENTITY fileExceedsLimit.thatsBigFile3 "It ferstjoeren fan bestannen grutter as 50 MB wurdt allinnich stipe foar Premium-accounts.">
 <!ENTITY fileExceedsLimit.style "width: 40em; min-height: 20em;">
-<!ENTITY fileExceedsLimit.proIncludes "Upgrade no om dit bestân te ferstjoeren plus:">
-<!ENTITY fileExceedsLimit.pros1 "Ferstjoer bestannen en mappen oant 2GB">
-<!ENTITY fileExceedsLimit.pros2 "Bewarje ûnbeheint bestannen online op">
-<!ENTITY fileExceedsLimit.pros3 "Tagong en dielen fan bestannen fan oeral ôf">

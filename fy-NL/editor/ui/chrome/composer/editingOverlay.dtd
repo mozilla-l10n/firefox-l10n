@@ -6,18 +6,18 @@
 <!ENTITY openFileCmd.label "Iepenje bestân…">
 <!ENTITY openFileCmd.label "Bestân iepenje…">
 <!ENTITY openFileCmd.accesskey "i">
-<!ENTITY openFileCmd.key "i">
+<!ENTITY openFileCmd.key "O">
 <!ENTITY openRemoteCmd.label "Weblokaaasje iepenje…">
 <!ENTITY openRemoteCmd.accesskey "l">
-<!ENTITY openRemoteCmd.key "l">
+<!ENTITY openRemoteCmd.key "L">
 <!ENTITY fileRecentMenu.label "Resinte siden">
 <!ENTITY fileRecentMenu.accesskey "R">
 <!ENTITY saveCmd.label "Bewarje">
 <!ENTITY saveCmd.accesskey "B">
 <!ENTITY saveAsCmd.label "Bewarje as…">
 <!ENTITY saveAsCmd.accesskey "s">
-<!ENTITY saveAsChangeEncodingCmd.label "Bewarje en wizigje karakterkodearring">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "k">
+<!ENTITY saveAsChangeEncodingCmd2.label "Bewarje en tekstkodearring wizigje">
+<!ENTITY saveAsChangeEncodingCmd2.accesskey "k">
 <!ENTITY publishCmd.label "Publisearje">
 <!ENTITY publishCmd.accesskey "u">
 <!ENTITY publishCmd.key "S">

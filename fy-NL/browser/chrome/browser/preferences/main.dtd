@@ -31,9 +31,15 @@
 <!ENTITY alwaysAsk.label               "My altyd freegje wêr't bestannen bewarre wurde moatte">
 <!ENTITY alwaysAsk.accesskey           "f">
 
-<!ENTITY alwaysCheckDefault.label        "Wylst it opstarten altyd kontrolearje oft &brandShortName; de standert browser is">
-<!ENTITY alwaysCheckDefault2.accesskey   "o">
-<!ENTITY setAsMyDefaultBrowser.label     "&brandShortName; myn standertbrowser meitsje">
-<!ENTITY setAsMyDefaultBrowser.accesskey "d">
-<!ENTITY isDefault.label                 "&brandShortName; is no jo standertbrowser">
-<!ENTITY isNotDefault.label              "&brandShortName; is no net jo standertbrowser">
+<!ENTITY alwaysCheckDefault2.label        "Altyd kontrolearje oft &brandShortName; de standertbrowser is">
+<!ENTITY alwaysCheckDefault2.accesskey    "A">
+<!ENTITY setAsMyDefaultBrowser2.label     "Standert meitsje">
+<!ENTITY setAsMyDefaultBrowser2.accesskey "d">
+<!ENTITY isDefault.label                  "&brandShortName; is op dit stuit jo standertbrowser">
+<!ENTITY isNotDefault.label               "&brandShortName; is net jo standertbrowser">
+
+<!ENTITY separateProfileMode.label        "Tagelyk útfieren fan &brandShortName; en Firefox tastean">
+<!ENTITY useFirefoxSync.label             "Tip: Dit brûkt ferskillende profilen. Brûk Sync om gegevens dêrtusken te dielen.">
+<!ENTITY getStarted.label                 "Sync brûke…">
+
+<!ENTITY e10sEnabled.label                "Multiprocess yn &brandShortName; ynskeakelje">
