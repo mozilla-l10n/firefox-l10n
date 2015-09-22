@@ -72,7 +72,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY notSignedIn.label           "توہیہ چھیو نْہ ساینْڈ اِن۔">
 <!ENTITY signIn.label                "ساین  اِن">
 
-<!ENTITY manage.label                "منیج کْریو ">
+
 <!ENTITY disconnect.label            "ڈیسکنیکٹْہ کْریو ۔ ۔ ۔">
 <!ENTITY verify.label                "ایمیلس کْریو تصدیق">
 <!ENTITY forget.label                "یہ ایمیل گوو مشید">

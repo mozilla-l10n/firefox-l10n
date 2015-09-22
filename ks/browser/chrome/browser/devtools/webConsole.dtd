@@ -10,24 +10,6 @@
 
 <!ENTITY window.title "ویب كنسول">
 <!ENTITY browserConsole.title "براوزر کنسول">
-
-<!ENTITY networkPanel.requestURLColon             "درخوست کْریو یو آر ایل:">
-<!ENTITY networkPanel.requestMethodColon          "درخواست طریقہ:">
-<!ENTITY networkPanel.statusCodeColon             "سیٹیٹس کوڈ:">
-
-<!ENTITY networkPanel.requestHeaders              "عنوان خٲطرئ كریو درخواست">
-<!ENTITY networkPanel.requestCookie               "كوكی سوزیو">
-<!ENTITY networkPanel.requestBody                 "باڈی خٲطرئ كریو درخواست">
-<!ENTITY networkPanel.requestFormData             "فارم ڈاٹا سوزیو">
-
-<!ENTITY networkPanel.responseHeaders             "جواب عنوان">
-<!ENTITY networkPanel.responseCookie              "رٹنْہ آمُت کوکی">
-<!ENTITY networkPanel.responseBody                "جواب باڈی">
-<!ENTITY networkPanel.responseBodyCached          "كیشڈ ڈاٹا">
-<!ENTITY networkPanel.responseBodyUnknownType     "نامولوم مواد قئسم">
-<!ENTITY networkPanel.responseNoBody              "كبین جواب باڈی چھَ نئ">
-<!ENTITY networkPanel.responseImage               "شكل میج">
-<!ENTITY networkPanel.responseImageCached         "كیشڈ شكل ">
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
 
@@ -69,12 +51,21 @@
 <!ENTITY btnPageLogging.label   "لاگینگ">
 <!ENTITY btnPageLogging.tooltip "لاگ مسیج آیہ سوزنْہ وینڈو۔کنسول اوبجکٹْہ">
 <!ENTITY btnPageLogging.accesskey3 "L">
-<!ENTITY btnConsoleErrors       " غلطی">
-<!ENTITY btnConsoleInfo         "مولومات">
-<!ENTITY btnConsoleWarnings     "آ  گہی">
-<!ENTITY btnConsoleLog          "لاگ">
+
+
+
+
 <!ENTITY btnConsoleXhr          "XHR">
 <!ENTITY btnConsoleReflows      "دوبار فلو گژھان">
+<!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
+  -  the toolbar. It shows or hides messages that the web developer inserted on
+  -  the page for debugging purposes, using calls on the HTTP server. -->
+
+
+
+
+
+
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
 <!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
