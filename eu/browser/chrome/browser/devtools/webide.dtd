@@ -27,6 +27,7 @@
 <!ENTITY projectMenu_manageComponents_label "Kudeatu bestelako osagaiak">
 <!ENTITY projectMenu_manageComponents_accesskey "K">
 
+
 <!ENTITY runtimeMenu_label "Exekuzio-ingurunea">
 <!ENTITY runtimeMenu_accesskey "x">
 <!ENTITY runtimeMenu_disconnect_label "Deskonektatu">
