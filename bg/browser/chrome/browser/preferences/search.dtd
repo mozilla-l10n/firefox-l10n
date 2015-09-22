@@ -12,6 +12,7 @@
 <!ENTITY showURLBarSuggestions.label           "Показване на подсказки в резултатите на лентата за търсене">
 <!ENTITY showURLBarSuggestions.accesskey       "л">
 
+
 <!ENTITY redirectWindowsSearch.label "Използване на търсещата машина за търсене от Windows">
 <!ENTITY redirectWindowsSearch.accesskey "т">
 

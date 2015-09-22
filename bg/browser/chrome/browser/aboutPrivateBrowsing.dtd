@@ -7,38 +7,29 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "О">
 
 <!ENTITY privateBrowsing.title                 "Поверително сърфиране">
-<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width1):
      Width of the Private Browsing section. This should depend primarily on the
      length of the headers and text, but should be roughly 1.5 times the width
      of the Tracking Protection section, and in general not much larger than
      30em to prevent the sections from wrapping on smaller window sizes.
      -->
 
-<!ENTITY aboutPrivateBrowsing.width            "30em">
-<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
-     aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
-     These strings will be replaced by aboutPrivateBrowsing.forgotten and
-     aboutPrivateBrowsing.kept when the new visual design lands (bug 1192625).
-     -->
-
+<!ENTITY aboutPrivateBrowsing.width1           "30em">
 <!ENTITY aboutPrivateBrowsing.title            "Сърфирате поверително">
-<!ENTITY aboutPrivateBrowsing.subtitle         "В този прозорец &brandShortName; няма да запомни историята на браузването.">
 
-<!ENTITY aboutPrivateBrowsing.forgotten        "В този прозорец &brandShortName; няма да запомни:">
-<!ENTITY aboutPrivateBrowsing.info.forgotten   "Забравяно">
+<!ENTITY aboutPrivateBrowsing.info.notsaved    "Забравяно">
 <!ENTITY aboutPrivateBrowsing.info.history     "История">
 <!ENTITY aboutPrivateBrowsing.info.searches    "Търсения">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Бисквитки">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Временни файлове">
 
-<!ENTITY aboutPrivateBrowsing.kept             "&brandShortName; ще:">
-<!ENTITY aboutPrivateBrowsing.info.kept        "Запомняно">
+<!ENTITY aboutPrivateBrowsing.info.saved       "Запомняно">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Изтегляния">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Отметки">
 
 <!ENTITY aboutPrivateBrowsing.note1            "Имайте предвид, че вашият работодател или Интернет доставчик все още биха могли да проследят кои страници посещавате.">
 <!ENTITY aboutPrivateBrowsing.learnMore        "Научете повече.">
-<!-- LOCALIZATION NOTE (trackingProtection.width):
+<!-- LOCALIZATION NOTE (trackingProtection.width1):
      Width of the Tracking Protection section. It is fine for the enabled or
      disabled indicator or the words in the title to wrap to the next line, but
      you can expand or reduce this section to fit better, as long as the width
@@ -47,7 +38,7 @@
      different, so testing on Windows, Mac, and Linux is encouraged.
      -->
 
-<!ENTITY trackingProtection.width              "22em">
+<!ENTITY trackingProtection.width1             "22em">
 <!ENTITY trackingProtection.title              "Защита от проследяване">
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
