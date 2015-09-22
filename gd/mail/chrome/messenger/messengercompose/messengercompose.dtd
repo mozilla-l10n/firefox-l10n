@@ -215,6 +215,7 @@
 <!ENTITY addressButton.tooltip "Tagh faightear o leabhar nan seòladh">
 <!ENTITY attachButton.tooltip "Cuir ceanglachan ris">
 <!ENTITY spellingButton.tooltip "Ceartaich an litreachadh san taghadh no san teachdaireachd air fad">
+
 <!ENTITY saveButton.tooltip "Sàbhail an teachdaireachd seo">
 <!ENTITY cutButton.tooltip              "Gearr às">
 <!ENTITY copyButton.tooltip             "Dèan lethbhreac">
