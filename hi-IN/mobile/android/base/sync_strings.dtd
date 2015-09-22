@@ -197,6 +197,7 @@
 
 <!ENTITY fxaccount_status_header2 "फ़ायरफ़ॉक्स खाता">
 <!ENTITY fxaccount_status_signed_in_as "ऐसे साइन इन करें">
+
 <!ENTITY fxaccount_status_auth_server "खाता सर्वर |">
 <!ENTITY fxaccount_status_sync_now "अब सिंक करें">
 <!ENTITY fxaccount_status_syncing2 "सिंक्रनाइज़ किए जा रहे…">
