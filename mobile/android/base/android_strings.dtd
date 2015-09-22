@@ -9,10 +9,19 @@
 
 
 
+
+
+
+
+
+
+
+
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
-<!ENTITY  bookmarks_title "Marcapaginas">
+<!ENTITY  bookmarks_title "Bookmarks">
 <!ENTITY  history_title "Istoric">
 <!ENTITY  reading_list_title "Lista de lectura">
 
@@ -53,6 +62,7 @@
 
 
 
+
 <!ENTITY go "Anar">
 <!ENTITY search "Recercar">
 <!ENTITY reload "Tornar cargar">
@@ -73,6 +83,13 @@
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
+<!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
+     visible in the UI, but rather used as a text-to-speech content description
+     for sight-impaired a11y users. The content description is set on a tab
+     title in a list of open tabs when content in that tab is playing audio.
+     &formatS; will be replaced with the title of the tab, as received from the
+     web page. When audio is not playing in a tab, &formatS; will be used as
+     the content description. -->
 
 <!ENTITY settings "Paramètres">
 
@@ -142,6 +159,9 @@
 
 
 
+
+
+
 <!ENTITY pref_category_home "Acuèlh">
 <!ENTITY pref_category_home_summary "Personalizatz vòstra pagina d\u0027acuèlh">
 <!ENTITY pref_category_home_panels "Panèls">
@@ -156,6 +176,9 @@
 <!ENTITY pref_home_updates_wifi "Solament per Wi-Fi">
 
 
+
+
+
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 
@@ -168,6 +191,10 @@
 
 <!ENTITY pref_cookies_not_accept_foreign "Autorizats, levat cookies tèrces">
 <!ENTITY pref_cookies_disabled "Desactivat">
+
+
+
+
 
 
 
@@ -200,7 +227,6 @@
 <!ENTITY pref_plugins_tap_to_play "Tocar per aviar la lectura">
 
 <!ENTITY pref_text_size "Talha del tèxte">
-<!ENTITY pref_reflow_on_zoom4 "Encadenaments de tèxte">
 <!ENTITY pref_restore "Onglets">
 <!ENTITY pref_restore_always "Restablir totjorn">
 
@@ -299,13 +325,13 @@ size. -->
 <!ENTITY addons "Moduls complementaris">
 
 
-<!ENTITY apps "Apps">
 <!ENTITY char_encoding "Encodatge de caractèr">
 
 <!ENTITY share "Partejar">
 <!ENTITY share_title "Partejar amb l\u0027ajuda de">
 <!ENTITY share_image_failed "Impossible de partejar aqueste imatge">
 <!ENTITY save_as_pdf "Enregistrar en PDF">
+
 <!ENTITY find_in_page "Recercar dins la pagina">
 <!ENTITY desktop_mode "Veire version ordenador">
 
@@ -323,7 +349,7 @@ size. -->
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 <!ENTITY find_prev "Precedent">
-<!ENTITY find_next "Seguent">
+
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -346,6 +372,8 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Espingolar aqueste Site">
 <!ENTITY contextmenu_top_sites_unpin "Despingolar aqueste Site ">
 <!ENTITY contextmenu_add_search_engine "Apondre un motor de recèrca">
+
+
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
@@ -362,6 +390,9 @@ size. -->
 
 <!ENTITY pref_titlebar_mode "Barra de títol">
 <!ENTITY pref_titlebar_mode_title "Afichar lo títol de la pagina">
+
+<!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
+     whether or not the magnifying glass is disabled. -->
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
@@ -385,7 +416,7 @@ size. -->
 
 <!ENTITY site_settings_clear        "Escafar">
 <!ENTITY site_settings_no_settings  "I a pas de paramètre d\u0027escafar.">
-<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+<!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
 <!ENTITY reading_list_removed "Pagina levada de vòstra lista de lectura">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
@@ -411,7 +442,6 @@ size. -->
 
 
 <!ENTITY button_copy "Copiar">
-
 
 <!ENTITY home_top_sites_title "Sites favorits">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -480,14 +510,13 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_run_by "que lo detentor n\u0027es">
 
-
-<!ENTITY identity_encrypted "Connexion chifrada">
 <!-- Mixed content notifications in site identity popup -->
 
 
+
 <!-- Tracking content notifications in site identity popup -->
+
 
 
 
@@ -501,7 +530,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Donadas personalas escafadas">
 <!ENTITY private_data_fail "D\u0027unas donadas personalas pòdon pas èsser escafadas">
 
-<!ENTITY bookmarkhistory_button_import "Importar">
 <!ENTITY bookmarkhistory_import_both "Importacion dels marcapaginas e de 
 l\u0027istoric dempuèi Android">
 <!ENTITY bookmarkhistory_import_bookmarks "Importacion dels marcapaginas 
@@ -560,10 +588,6 @@ dempuèi Android">
      They are never shown to users -->
 <!ENTITY actionbar_done "Acabat">
 <!-- Voice search in the awesome bar -->
-
-
-
-
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -575,3 +599,30 @@ dempuèi Android">
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
 
+<!-- DevTools Authentication -->
+<!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
+     above a QR reader that is actively scanning for QR codes.  The expected QR
+     code has already been displayed by the client trying to connect (such as
+     desktop Firefox via WebIDE), so you just need to aim this device at the QR
+     code. -->
+<!-- Restrictions -->
+<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+     a restricted profile (e.g. child). Used inside the Android settings UI. -->
+
+
+
+
+
+
+
+
+
+<!-- Default Bookmarks titles-->
+<!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
+<!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
+<!ENTITY bookmarks_marketplace "Firefox Marketplace">
+<!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
