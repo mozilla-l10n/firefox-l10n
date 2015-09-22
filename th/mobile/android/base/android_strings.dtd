@@ -6,15 +6,23 @@
 <!ENTITY  no_space_to_start_error "เนื้อที่ว่างไม่พอสำหรับให้ &brandShortName; เริ่มทำงาน">
 <!ENTITY  error_loading_file "เกิดข้อผิดพลาดระหว่างการโหลดแฟ้มที่จำเป็นในการทำงานของ &brandShortName;">
 
+<!ENTITY firstrun_panel_title_welcome "ยินดีต้อนรับ">
 <!ENTITY  onboard_start_message3 "ท่องเว็บด้วย &brandShortName;">
 <!ENTITY  onboard_start_subtext3 "สัมผัสประสบการณ์การท่องเว็บที่คุณเป็นเจ้าของอย่างแท้จริง">
 <!ENTITY  onboard_start_button_account "ลงชื่อเข้าใช้เพื่อใช้งาน &brandShortName;">
 <!ENTITY  onboard_start_button_browser "เริ่มต้นเข้าเว็บกันเลย">
 
+
+
+<!ENTITY firstrun_import_message "ยินดีต้อนรับสู่ &brandShortName;">
+
+
+
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
-<!ENTITY  bookmarks_title "ที่คั่นหน้า">
+<!ENTITY  bookmarks_title "Bookmarks">
 <!ENTITY  history_title "ประวัติ">
 <!ENTITY  reading_list_title "รายการอ่าน">
 <!ENTITY  recent_tabs_title "แท็บที่เคยใช้">
@@ -54,8 +62,9 @@
 
 <!ENTITY history_today_section "วันนี้">
 <!ENTITY history_yesterday_section "เมื่อวาน">
-<!ENTITY history_week_section2 "สัปดาห์ที่แล้ว">
-<!ENTITY history_older_section2 "เดือนที่แล้ว">
+
+
+
 
 <!ENTITY go "ไป">
 <!ENTITY search "ค้นหา">
@@ -68,8 +77,6 @@
 <!ENTITY edit_mode_cancel "ยกเลิก">
 
 <!ENTITY close_tab "ปิดแท็ป">
-
-
 <!ENTITY one_tab "1 แท็บ">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -80,6 +87,13 @@
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
 <!ENTITY switch_button_message "สลับ">
+<!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
+     visible in the UI, but rather used as a text-to-speech content description
+     for sight-impaired a11y users. The content description is set on a tab
+     title in a list of open tabs when content in that tab is playing audio.
+     &formatS; will be replaced with the title of the tab, as received from the
+     web page. When audio is not playing in a tab, &formatS; will be used as
+     the content description. -->
 
 <!ENTITY settings "การตั้งค่า">
 <!ENTITY settings_title "การตั้งค่า">
@@ -181,6 +195,9 @@
 <!ENTITY pref_home_updates_wifi "เฉพาะบน Wi-Fi">
 <!ENTITY pref_home_suggested_sites "แสดงคำแนะนำเว็บไซต์">
 <!ENTITY pref_home_suggested_sites_summary "แสดงทางลัดไปยังไซต์บนโฮมเพจของคุณที่เราคาดว่าคุณน่าจะพบสิ่งที่น่าสนใจ">
+
+
+
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "ปรับแต่ง">
@@ -233,7 +250,6 @@
 <!ENTITY pref_plugins_tap_to_play "แตะเพื่อเล่น">
 <!ENTITY pref_plugins_disabled "ถูกปิดใช้งาน">
 <!ENTITY pref_text_size "ขนาดตัวอักษร">
-<!ENTITY pref_reflow_on_zoom4 "การไหลของข้อความ">
 <!ENTITY pref_restore "แท็บ">
 <!ENTITY pref_restore_always "เรียกคืนเสมอ">
 <!ENTITY pref_restore_quit "ไม่เรียกคืนหลังออกจาก &brandShortName;">
@@ -343,6 +359,7 @@ size. -->
 <!ENTITY share_title "แบ่งปันโดย">
 <!ENTITY share_image_failed "ไม่สามารถแบ่งปันรูปภาพนี้ได้">
 <!ENTITY save_as_pdf "บันทึกเป็น PDF">
+
 <!ENTITY find_in_page "ค้นหาในหน้านี้">
 <!ENTITY desktop_mode "เรียกเว็บสำหรับเดสก์ท็อป">
 <!ENTITY page "หน้า">
@@ -362,7 +379,7 @@ size. -->
 
 <!ENTITY find_text "ค้นหาในหน้านี้">
 <!ENTITY find_prev "ก่อนหน้า">
-<!ENTITY find_next "ถัดไป">
+
 <!ENTITY find_close "ปิด">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -387,6 +404,8 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "ตรึงเว็บ">
 <!ENTITY contextmenu_top_sites_unpin "เลิกตรึงเว็บ">
 <!ENTITY contextmenu_add_search_engine "เพิ่มเครื่องมือค้นหา">
+
+
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
@@ -465,8 +484,6 @@ size. -->
 <!ENTITY button_set "ตั้ง">
 <!ENTITY button_clear "ล้าง">
 <!ENTITY button_copy "คัดลอก">
-
-<!ENTITY firstrun_panel_title_welcome "ยินดีต้อนรับ">
 
 <!ENTITY home_top_sites_title "เว็บเด่น">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -557,10 +574,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
-
-<!ENTITY loaded_mixed_content_message "หน้าเว็บนี้กำลังแสดงเนื้อหาที่ไม่ปลอดภัย">
-<!ENTITY blocked_mixed_content_message_top "&brandShortName; ได้ปิดกั้นเนื้อหาที่ไม่ปลอดภัย">
-<!ENTITY blocked_mixed_content_message_bottom "เว็บไซต์ส่วนใหญ่ยังสามารถทำงานได้ถูกต้องแม้เนื้อหานี้จะถูกปิดกั้น">
 <!-- Tracking content notifications in site identity popup -->
 
 
@@ -576,7 +589,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "ข้อมูลส่วนตัวถูกล้างแล้ว">
 <!ENTITY private_data_fail "ไม่สามารถล้างข้อมูลส่วนตัวบางอย่างได้">
 
-<!ENTITY bookmarkhistory_button_import "นำเข้า">
 <!ENTITY bookmarkhistory_import_both "นำเข้าที่คั่นหน้าและประวัติการท่องเว็บ 
 จาก Android">
 <!ENTITY bookmarkhistory_import_bookmarks "นำเข้าที่คั่นหน้า 
@@ -686,4 +698,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
-
+<!-- Default Bookmarks titles-->
+<!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
+<!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
+<!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
