@@ -17,5 +17,8 @@
 <!ENTITY cmd.open.accesskey                        "M">
 <!ENTITY cmd.removeFromHistory.label               "Eltávolítás az előzményekből">
 <!ENTITY cmd.removeFromHistory.accesskey           "E">
-<!ENTITY cmd.clearDownloads.label                  "Letöltések törlése">
-<!ENTITY cmd.clearDownloads.accesskey              "t">
+
+
+
+
+

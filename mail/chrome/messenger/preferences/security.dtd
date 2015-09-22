@@ -5,7 +5,7 @@
 <!ENTITY itemJunk.label          "Szemét">
 <!ENTITY itemPhishing.label      "Becsapós e-mail">
 <!ENTITY itemPasswords.label     "Jelszavak">
-<!ENTITY itemAntiVirus.label     "Antivírus">
+
 <!-- Junk Mail Controls -->
 
 <!ENTITY junkMail.intro "Az alapértelmezett levélszemét-kezelés beállítása. A postafiókra jellemző levélszemét-kezelés beállításait a Postafiókok beállításai alatt végezheti el.">
@@ -42,7 +42,5 @@
 <!ENTITY savedPasswords.accesskey       "e">
 <!-- Anti Virus -->
 
-<!ENTITY antiVirus.intro      "A &brandShortName; könnyen lehetővé teszi a vírusellenes szoftverek számára a bejövő üzenetek ellenőrzését, még mielőtt helyileg tárolná azokat.">
-<!ENTITY antiVirus.label      "A vírusellenes szoftverek karanténba tehetik a bejövő üzeneteket">
-<!ENTITY antiVirus.accesskey  "v">
+
 
