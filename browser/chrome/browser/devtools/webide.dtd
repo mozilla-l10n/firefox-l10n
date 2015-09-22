@@ -27,6 +27,7 @@
 <!ENTITY projectMenu_manageComponents_label "বাড়তি কম্পোনেন্ট ব্যবস্থাপনা">
 <!ENTITY projectMenu_manageComponents_accesskey "M">
 
+
 <!ENTITY runtimeMenu_label "রানটাইম">
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "বিচ্ছিন্ন">
