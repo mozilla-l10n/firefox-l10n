@@ -72,7 +72,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY notSignedIn.label           "Você não está conectado.">
 <!ENTITY signIn.label                "Identificar-se">
 <!ENTITY profilePicture.tooltip      "Alterar imagem do perfil">
-<!ENTITY manage.label                "Gerenciar">
+<!ENTITY verifiedManage.label        "Gerenciar conta">
 <!ENTITY disconnect.label            "Desconectar…">
 <!ENTITY verify.label                "Confirmar email">
 <!ENTITY forget.label                "Esquecer este email">

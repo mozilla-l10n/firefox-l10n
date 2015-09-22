@@ -24,10 +24,7 @@
 <!ENTITY  addonExceptions.accesskey     "E">
 
 
-<!ENTITY  passwords.label               "Senhas">
 
-<!ENTITY  rememberPasswords.label       "Memorizar senhas de sites">
-<!ENTITY  rememberPasswords.accesskey   "M">
 <!ENTITY  passwordExceptions.label      "Exceções…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
@@ -36,5 +33,4 @@
 <!ENTITY  changeMasterPassword.label     "Modificar senha mestra…">
 <!ENTITY  changeMasterPassword.accesskey "d">
 
-<!ENTITY  savedPasswords.label            "Senhas memorizadas…">
-<!ENTITY  savedPasswords.accesskey        "n">
+
