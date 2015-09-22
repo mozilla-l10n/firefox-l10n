@@ -485,7 +485,7 @@
 <!ENTITY updater_start_select2 "Dotknij, aby zaktualizować">
 
 <!ENTITY updater_downloading_title2 "Pobieranie: &brandShortName;">
-<!ENTITY updater_downloading_title_failed2 "Pobieranie nie udało się">
+<!ENTITY updater_downloading_title_failed2 "Pobieranie się nie udało">
 <!ENTITY updater_downloading_select2 "Zainstaluj aktualizację po jej pobraniu">
 <!ENTITY updater_downloading_retry2 "Dotknij, aby spróbować ponownie">
 

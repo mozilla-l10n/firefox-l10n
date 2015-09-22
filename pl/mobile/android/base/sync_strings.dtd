@@ -146,7 +146,7 @@
 <!ENTITY fxaccount_sign_in_button_label "Zaloguj się">
 <!ENTITY fxaccount_sign_in_forgot_password "Nie pamiętasz hasła?">
 <!ENTITY fxaccount_sign_in_create_account_instead "Utwórz konto">
-<!ENTITY fxaccount_sign_in_unknown_error "Logowanie nie powiodło się">
+<!ENTITY fxaccount_sign_in_unknown_error "Logowanie się nie powiodło">
 
 <!ENTITY fxaccount_account_verified_sub_header "Konto zweryfikowano">
 <!ENTITY fxaccount_account_verified_description2 "Za chwilę rozpocznie się synchronizacja twoich danych">
@@ -155,7 +155,7 @@
 
 <!ENTITY fxaccount_update_credentials_header "Zaloguj się">
 <!ENTITY fxaccount_update_credentials_button_label "Zaloguj się">
-<!ENTITY fxaccount_update_credentials_unknown_error "Logowanie nie powiodło się">
+<!ENTITY fxaccount_update_credentials_unknown_error "Logowanie się nie powiodło">
 
 <!ENTITY fxaccount_finish_migrating_header "Zaloguj się, aby dokończyć aktualizację">
 <!ENTITY fxaccount_finish_migrating_button_label "Dokończ aktualizację">
