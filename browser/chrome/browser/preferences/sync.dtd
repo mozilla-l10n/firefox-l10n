@@ -72,7 +72,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY notSignedIn.label           "Դուք մուտք չեք գործել:">
 <!ENTITY signIn.label                "Մուտք գործել">
 <!ENTITY profilePicture.tooltip      "Փոխել պրոֆիլի նկարը">
-<!ENTITY manage.label                "Կառավարել">
+
 <!ENTITY disconnect.label            "Անջատել...">
 <!ENTITY verify.label                "Հաստատել էլ. փոստը">
 <!ENTITY forget.label                "Մոռանալ այս էլ. փոստը">

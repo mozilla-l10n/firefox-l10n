@@ -14,6 +14,7 @@
 <!ENTITY searchPrefs.label "Որոնում.">
 <!ENTITY searchPrefs.accesskey "ւ">
 <!ENTITY focusSearch.key "r">
+
 <!-- Columns -->
 
 <!ENTITY prefColumn.label "Նախընտրանքի անունը">
