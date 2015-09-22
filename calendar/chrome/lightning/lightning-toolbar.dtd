@@ -8,10 +8,15 @@
 <!ENTITY lightning.toolbar.task.name.accesskey "D">
 
 <!ENTITY lightning.toolbar.sync.label "Sinchronizuoti">
+
 <!ENTITY lightning.toolbar.delete.label "Pašalinti">
+
 <!ENTITY lightning.toolbar.edit.label "Taisyti">
-<!ENTITY lightning.toolbar.gototoday.label "Eiti į šiandieną">
+
+
+
 <!ENTITY lightning.toolbar.print.label "Spausdinti">
+
 <!-- Mode Toolbar -->
 
 <!ENTITY lightning.toolbar.calendar.label     "Kalendorius">
@@ -23,7 +28,9 @@
 <!-- Toolbar write button -->
 
 <!ENTITY lightning.toolbar.newevent.label     "Įvykis">
+<!ENTITY lightning.toolbar.newevent.tooltip   "Aprašyti naują įvykį">
 <!ENTITY lightning.toolbar.newtask.label      "Darbas">
+<!ENTITY lightning.toolbar.newtask.tooltip    "Aprašyti naują darbą">
 <!-- Calendar and Task Mode Toolbar -->
 
 <!ENTITY lightning.toolbar.day.label                 "Diena">
