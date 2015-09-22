@@ -13,9 +13,9 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "Nid ydych yn Pori'n Breifat">
 
-<!ENTITY privatebrowsingpage.description.private3 "Bydd Firefox yn eich cadw rhag cael eich tracio ac ni fydd yn cofio unrhyw hanes ond bydd unrhyw ffeiliau rydych wedi eu llwytho i lawr a nodau tudalen yn cael eu cadw ar eich dyfais.">
+<!ENTITY privatebrowsingpage.description.private4 "Bydd &brandShortName; yn eich cadw rhag cael eich tracio ac ni fydd yn cofio unrhyw hanes ond bydd unrhyw ffeiliau rydych wedi eu llwytho i lawr a nodau tudalen yn cael eu cadw ar eich dyfais.">
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
-     Browsing" is capitalized in English to be consistent with our existing uses
+     Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
 <!ENTITY privatebrowsingpage.description.normal2 "Wrth Bori'n Breifat, ni fyddwn yn cadw eich hanes pori na chwcis. Ond bydd unrhyw ffeiliau rydych wedi eu llwytho i lawr a nodau tudalen yn cael eu cadw ar eich dyfais.">
 
