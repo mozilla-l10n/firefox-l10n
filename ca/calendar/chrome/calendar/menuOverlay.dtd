@@ -36,6 +36,7 @@
 <!ENTITY showUnifinderCmd.label                 "Cerca cites">
 <!ENTITY showUnifinderCmd.accesskey             "C">
 
+
 <!ENTITY calendar.displaytodos.checkbox.label       "Mostra les tasques al calendari">
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "t">
 
