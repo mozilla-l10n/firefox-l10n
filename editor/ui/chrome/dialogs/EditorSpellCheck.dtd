@@ -20,16 +20,16 @@
 <!ENTITY replaceButton.accessKey "G">
 <!ENTITY replaceAllButton.label "Ganti Semua">
 <!ENTITY replaceAllButton.accessKey "a">
-<!ENTITY stopButton.label "Berhenti">
-<!ENTITY stopButton.accessKey "B">
+
+
 <!ENTITY userDictionary.label "Kamus Pemeriksa Ejaan Pribadi:">
 <!ENTITY moreDictionaries.label "Unduh kamus lainnya…">
 <!ENTITY addToUserDictionaryButton.label "Tambah Kata">
 <!ENTITY addToUserDictionaryButton.accessKey "K">
 <!ENTITY editUserDictionaryButton.label "Sunting…">
 <!ENTITY editUserDictionaryButton.accessKey "u">
-<!ENTITY recheckButton.label "Periksa Ulang Laman">
-<!ENTITY recheckButton.accessKey "P">
+
+
 <!ENTITY closeButton.label "Tutup">
 <!ENTITY closeButton.accessKey "T">
 <!ENTITY sendButton.label "Kirim">

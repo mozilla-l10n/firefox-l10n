@@ -5,7 +5,7 @@
 <!ENTITY itemJunk.label          "Junk">
 <!ENTITY itemPhishing.label      "Penipuan Email">
 <!ENTITY itemPasswords.label     "Sandi">
-<!ENTITY itemAntiVirus.label     "Anti-Virus">
+
 <!-- Junk Mail Controls -->
 
 <!ENTITY junkMail.intro "Atur pengaturan email junk default. Pengaturan email junk masing-masing akun dapat diatur pada Pengaturan Akun.">
@@ -42,7 +42,5 @@
 <!ENTITY savedPasswords.accesskey       "a">
 <!-- Anti Virus -->
 
-<!ENTITY antiVirus.intro      "&brandShortName; dapat memudahkan perangkat lunak anti-virus untuk menganalisis virus pada pesan email masuk sebelum disimpan secara lokal.">
-<!ENTITY antiVirus.label      "Izinkan perangkat lunak anti-virus untuk memasukkan pesan ke dalam karantina anti virus">
-<!ENTITY antiVirus.accesskey  "l">
+
 

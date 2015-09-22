@@ -215,6 +215,7 @@
 <!ENTITY addressButton.tooltip "Pilih penerima dari Buku Alamat">
 <!ENTITY attachButton.tooltip "Sertakan lampiran">
 <!ENTITY spellingButton.tooltip "Periksa ejaan pada teks yang dipilih atau isi pesan keseluruhan">
+
 <!ENTITY saveButton.tooltip "Simpan pesan ini">
 <!ENTITY cutButton.tooltip              "Potong">
 <!ENTITY copyButton.tooltip             "Salin">
