@@ -114,8 +114,8 @@
 
 <!ENTITY showMessengerToolbarCmd.label "Pašto mygtukų juosta">
 <!ENTITY showMessengerToolbarCmd.accesskey "P">
-<!ENTITY showSearchToolbarCmd.label "Paieškos juosta">
-<!ENTITY showSearchToolbarCmd.accesskey "š">
+
+
 <!ENTITY showTabsToolbarCmd.label "Kortelių juosta">
 <!ENTITY showTabsToolbarCmd.accesskey "K">
 
@@ -444,6 +444,10 @@
 <!ENTITY throbber.tooltip "Atverti &vendorShortName; pradžios tinklalapį">
 <!ENTITY junkButton.tooltip "Pažymėti išrinktus laiškus kaip brukalą (arba pašalinti tokį žymėjimą)">
 <!ENTITY notJunkButton.tooltip "Pažymėti, kad išrinkti laiškai nėra brukalas">
+<!-- Remote Content Button Popup -->
+
+
+
 <!-- Statusbar -->
 
 <!ENTITY  statusText.label "Dokumentas baigtas">

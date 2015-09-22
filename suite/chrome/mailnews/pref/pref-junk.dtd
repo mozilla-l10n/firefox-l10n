@@ -35,6 +35,4 @@
 <!ENTITY enablePhishingDetector.accesskey "a">
 <!-- Anti Virus -->
 
-<!ENTITY pref.antivirus.caption           "Antivirusinė apsauga">
-<!ENTITY antiVirus.label                  "Leisti antivirusinėms programoms patikrinti, ar gautuose laiškuose nėra virusų">
-<!ENTITY antiVirus.accesskey              "L">
+

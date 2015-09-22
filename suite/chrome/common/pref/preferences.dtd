@@ -24,7 +24,7 @@
 <!ENTITY popups.label "Iškylantieji langai">
 <!ENTITY passwords.label "Slaptažodžiai">
 <!ENTITY masterpass.label "Pagrindiniai slaptažodžiai">
-<!ENTITY ssl.label "SSL">
+
 <!ENTITY certs.label "Liudijimai">
 
 
