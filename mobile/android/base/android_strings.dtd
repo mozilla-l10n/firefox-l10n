@@ -6,14 +6,23 @@
 <!ENTITY  no_space_to_start_error "No hi ha prou espai lliure per poder iniciar el &brandShortName;.">
 <!ENTITY  error_loading_file "S\u0027ha produït un error en intentar carregar els fitxers necessaris per executar el &brandShortName;">
 
+<!ENTITY firstrun_panel_title_welcome "Us donem la benvinguda">
 <!ENTITY  onboard_start_message3 "Navegeu amb el &brandShortName;">
 <!ENTITY  onboard_start_subtext3 "Feu que l\u0027experiència de navegació web mòbil sigui realment vostra.">
 <!ENTITY  onboard_start_button_account "Inicia la sessió al &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Comença a navegar">
+
+
+
+<!ENTITY firstrun_import_message "Benvingut al &brandShortName;">
+
+
+
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
-<!ENTITY  bookmarks_title "Adreces d\u0027interès">
+<!ENTITY  bookmarks_title "Bookmarks">
 <!ENTITY  history_title "Historial">
 <!ENTITY  reading_list_title "Llista de lectura">
 <!ENTITY  recent_tabs_title "Pestanyes recents">
@@ -53,8 +62,9 @@
 
 <!ENTITY history_today_section "Avui">
 <!ENTITY history_yesterday_section "Ahir">
-<!ENTITY history_week_section2 "La setmana passada">
-<!ENTITY history_older_section2 "El mes passat">
+
+
+
 
 <!ENTITY go "Vés-hi">
 <!ENTITY search "Cerca">
@@ -77,6 +87,13 @@
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
 <!ENTITY switch_button_message "CANVIA">
+<!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
+     visible in the UI, but rather used as a text-to-speech content description
+     for sight-impaired a11y users. The content description is set on a tab
+     title in a list of open tabs when content in that tab is playing audio.
+     &formatS; will be replaced with the title of the tab, as received from the
+     web page. When audio is not playing in a tab, &formatS; will be used as
+     the content description. -->
 
 <!ENTITY settings "Paràmetres">
 <!ENTITY settings_title "Paràmetres">
@@ -154,6 +171,9 @@
 <!ENTITY pref_search_hint "CONSELL: Per afegir qualsevol lloc web a la llista de proveïdors de cerca, manteniu premut el camp de cerca i toqueu la icona &formatI;.">
 <!ENTITY pref_category_devtools "Eines per a desenvolupadors">
 <!ENTITY pref_developer_remotedebugging "Depuració remota">
+
+
+
 <!ENTITY pref_category_logins "Inicis de sessió">
 
 
@@ -175,6 +195,9 @@
 <!ENTITY pref_home_updates_wifi "Només per Wi-Fi">
 <!ENTITY pref_home_suggested_sites "Mostra suggeriments de llocs">
 <!ENTITY pref_home_suggested_sites_summary "Mostra a la pàgina d\u0027inici dreceres de llocs que creiem que us poden interessar">
+
+
+
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Personalitza">
@@ -190,15 +213,18 @@
 <!ENTITY pref_cookies_not_accept_foreign "Habilitades, excepte de tercers">
 <!ENTITY pref_cookies_disabled "Inhabilitades">
 
-<!ENTITY pref_tracking_protection_title "Protecció contra el seguiment">
-<!ENTITY pref_tracking_protection_summary "El &brandShortName; evitarà que llocs web us segueixin">
+
 <!ENTITY pref_donottrack_title "No vull ser seguit">
 <!ENTITY pref_donottrack_summary "El &brandShortName; farà saber als llocs web que no voleu que us segueixin">
+
+
+
+
 
 <!ENTITY tab_queue_toast_action "Obre ara">
 <!ENTITY tab_queue_prompt_title "Esteu obrint diversos enllaços?">
 
-<!ENTITY tab_queue_prompt_tip_text "podeu canviar-ho més tard als Paràmetres.">
+
 <!ENTITY tab_queue_prompt_positive_action_button "Activa">
 <!ENTITY tab_queue_prompt_negative_action_button "Ara no">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
@@ -224,7 +250,6 @@
 <!ENTITY pref_plugins_tap_to_play "Toca per iniciar-los">
 <!ENTITY pref_plugins_disabled "Inhabilitats">
 <!ENTITY pref_text_size "Mida del text">
-<!ENTITY pref_reflow_on_zoom4 "Reajusta el text">
 <!ENTITY pref_restore "Pestanyes">
 <!ENTITY pref_restore_always "Restaura-les sempre">
 <!ENTITY pref_restore_quit "No les restauris en sortir del &brandShortName;">
@@ -328,13 +353,13 @@ size. -->
 <!ENTITY addons "Complements">
 <!ENTITY logins "Inicis de sessió">
 <!ENTITY downloads "Baixades">
-<!ENTITY apps "Aplicacions">
 <!ENTITY char_encoding "Codificació caràcters">
 
 <!ENTITY share "Comparteix">
 <!ENTITY share_title "Comparteix mitjançant">
 <!ENTITY share_image_failed "No es pot compartir la imatge">
 <!ENTITY save_as_pdf "Desa com a PDF">
+
 <!ENTITY find_in_page "Cerca a la pàgina">
 <!ENTITY desktop_mode "Mostra lloc d\u0027escriptori">
 <!ENTITY page "Pàgina">
@@ -354,7 +379,7 @@ size. -->
 
 <!ENTITY find_text "Cerca a la pàgina">
 <!ENTITY find_prev "Anterior">
-<!ENTITY find_next "Següent">
+
 <!ENTITY find_close "Tanca">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -379,6 +404,8 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Fixa el lloc">
 <!ENTITY contextmenu_top_sites_unpin "No fixis el lloc">
 <!ENTITY contextmenu_add_search_engine "Afegeix un motor de cerca">
+
+
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
@@ -398,6 +425,9 @@ size. -->
 <!ENTITY pref_titlebar_mode "Barra de títol">
 <!ENTITY pref_titlebar_mode_title "Mostra el títol de la pàgina">
 <!ENTITY pref_titlebar_mode_url "Mostra l\u0027adreça de la pàgina">
+<!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
+     whether or not the magnifying glass is disabled. -->
+
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -423,7 +453,7 @@ size. -->
 <!ENTITY site_settings_cancel       "Cancel·la">
 <!ENTITY site_settings_clear        "Neteja">
 <!ENTITY site_settings_no_settings  "No hi ha cap paràmetre per netejar.">
-<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+<!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
 <!ENTITY reading_list_removed "S\u0027ha eliminat la pàgina de la llista de lectura">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
@@ -454,8 +484,6 @@ size. -->
 <!ENTITY button_set "Defineix">
 <!ENTITY button_clear "Neteja">
 <!ENTITY button_copy "Copia">
-
-<!ENTITY firstrun_panel_title_welcome "Us donem la benvinguda">
 
 <!ENTITY home_top_sites_title "Destacats">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -541,21 +569,16 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_run_by "que pertany a">
-<!ENTITY identity_no_info "El lloc web no proporciona cap informació d\u0027identitat.">
-<!ENTITY identity_not_encrypted "La vostra connexió a aquest lloc web no està xifrada.">
-<!ENTITY identity_encrypted "Xifrat">
+
 <!-- Mixed content notifications in site identity popup -->
 
-<!ENTITY loaded_mixed_content_message "Aquesta pàgina mostra contingut no segur.">
-<!ENTITY blocked_mixed_content_message_top "El &brandShortName; ha blocat el contingut no segur.">
-<!ENTITY blocked_mixed_content_message_bottom "La majoria de pàgines web continuen funcionant correctament encara que s\u0027hagi blocat contingut.">
+
+
 <!-- Tracking content notifications in site identity popup -->
 
-<!ENTITY loaded_tracking_content_message_top "La protecció contra el seguiment està desactivada.">
-<!ENTITY loaded_tracking_content_message_bottom "Hi ha parts d\u0027aquesta pàgina que poden fer el seguiment de la vostra activitat a Internet.">
-<!ENTITY blocked_tracking_content_message_top2 "La protecció contra el seguiment està activada.">
-<!ENTITY blocked_tracking_content_message_bottom2 "S\u0027han blocat les parts de la pàgina que fan el seguiment de la vostra activitat a Internet.">
+
+
+
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "Més informació">
@@ -566,7 +589,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "S\u0027han netejat les dades privades">
 <!ENTITY private_data_fail "No s\u0027han pogut netejar algunes dades privades">
 
-<!ENTITY bookmarkhistory_button_import "Importa">
 <!ENTITY bookmarkhistory_import_both "S\u0027estan important les adreces d\u0027interès i historial 
 de l\u0027Android">
 <!ENTITY bookmarkhistory_import_bookmarks "S\u0027estan important les adreces d\u0027interès 
@@ -641,10 +663,6 @@ de l\u0027Android">
 <!-- Voice search in the awesome bar -->
 
 <!ENTITY voicesearch_prompt "Parleu ara">
-<!ENTITY voicesearch_failed_title "Cerca per veu del &brandShortName;">
-<!ENTITY voicesearch_failed_message "S\u0027ha produït un problema amb la cerca per veu. Proveu-ho més tard.">
-<!ENTITY voicesearch_failed_message_recoverable "No s\u0027han reconegut les vostres paraules. Torneu-ho a provar.">
-<!ENTITY voicesearch_failed_retry "Torna-ho a provar">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
@@ -661,3 +679,29 @@ de l\u0027Android">
 
 <!ENTITY find_matchcase "Àà·Çç">
 
+<!-- DevTools Authentication -->
+<!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
+     above a QR reader that is actively scanning for QR codes.  The expected QR
+     code has already been displayed by the client trying to connect (such as
+     desktop Firefox via WebIDE), so you just need to aim this device at the QR
+     code. -->
+<!-- Restrictions -->
+<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+     a restricted profile (e.g. child). Used inside the Android settings UI. -->
+
+
+
+
+
+
+
+
+
+<!-- Default Bookmarks titles-->
+<!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
+<!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
+<!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
