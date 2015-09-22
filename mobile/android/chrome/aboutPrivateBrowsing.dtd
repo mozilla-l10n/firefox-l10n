@@ -13,9 +13,8 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "আপনি ব্যাক্তিগত ব্রাউজিং এ নেই">
 
-<!ENTITY privatebrowsingpage.description.private3 "ফায়ারফক্স আপনাকে ট্র্যাক করা থেকে প্রতিরোধ করবে এবং কোন ইতিহাস মনে রাখবে নাহ, কিন্তু ফাইল ডাউনলোড করা এবং নতুন বুকমার্কগুলি তখনও আপনার ডিভাইসে সংরক্ষণ করা হবে ।">
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
-     Browsing" is capitalized in English to be consistent with our existing uses
+     Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
 <!ENTITY privatebrowsingpage.description.normal2 "ব্যক্তিগত ব্রাউজিং এ, আমরা আপনার ব্রাউজিং ইতিহাস বা কোন কুকি সংরক্ষণ করি নাহ। আপনার যুক্ত করা বুকমার্ক এবং ডাউনলোড করা ফাইল এখনও আপনার ডিভাইসের মধ্যে সংরক্ষিত হবে।">
 
