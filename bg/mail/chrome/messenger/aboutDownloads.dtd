@@ -17,5 +17,8 @@
 <!ENTITY cmd.open.accesskey                        "О">
 <!ENTITY cmd.removeFromHistory.label               "Премахване от историята">
 <!ENTITY cmd.removeFromHistory.accesskey           "х">
-<!ENTITY cmd.clearDownloads.label                  "Изчистване на изтеглянията">
-<!ENTITY cmd.clearDownloads.accesskey              "и">
+
+
+
+
+
