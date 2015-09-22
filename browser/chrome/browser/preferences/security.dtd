@@ -24,10 +24,7 @@
 <!ENTITY  addonExceptions.accesskey     "E">
 
 
-<!ENTITY  passwords.label               "Palavras-passe">
 
-<!ENTITY  rememberPasswords.label       "Guardar palavras-passe dos sites">
-<!ENTITY  rememberPasswords.accesskey   "G">
 <!ENTITY  passwordExceptions.label      "Exceções…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
@@ -36,5 +33,4 @@
 <!ENTITY  changeMasterPassword.label     "Alterar palavra-passe mestra…">
 <!ENTITY  changeMasterPassword.accesskey "m">
 
-<!ENTITY  savedPasswords.label            "Palavras-passe guardadas…">
-<!ENTITY  savedPasswords.accesskey        "P">
+
