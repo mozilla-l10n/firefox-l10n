@@ -6,15 +6,25 @@
 <!ENTITY  no_space_to_start_error "Det saknas utrymme för &brandShortName; att starta.">
 <!ENTITY  error_loading_file "Ett fel uppstod vid inläsning av filer som krävs för att köra &brandShortName;">
 
+<!ENTITY firstrun_panel_title_welcome "Välkommen">
 <!ENTITY  onboard_start_message3 "Surfa med &brandShortName;">
 <!ENTITY  onboard_start_subtext3 "Gör den mobila webbupplevelsen verkligen din egen.">
 <!ENTITY  onboard_start_button_account "Logga in till &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Börja surfa">
+<!ENTITY firstrun_button_next "Nästa">
+
 <!ENTITY  onboard_start_restricted1 "Håll dig trygg och kontrollen med denna förenklade version av &brandShortName;.">
+
+<!ENTITY firstrun_import_title "Importera">
+<!ENTITY firstrun_import_message "Välkommen till &brandShortName;">
+<!ENTITY firstrun_import_subtext "Importera dina bokmärken och historik från en annan webbläsare">
+<!ENTITY firstrun_import_action "Flytta till &brandShortName;">
+<!ENTITY firstrun_import_dialog_button "Flytta">
+<!ENTITY firstrun_import_progress_title "Flyttar">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
-<!ENTITY  bookmarks_title "Bokmärken">
+<!ENTITY  bookmarks_title "Bookmarks">
 <!ENTITY  history_title "Historik">
 <!ENTITY  reading_list_title "Läslistan">
 <!ENTITY  recent_tabs_title "Senaste flikarna">
@@ -55,8 +65,9 @@
 
 <!ENTITY history_today_section "Idag">
 <!ENTITY history_yesterday_section "Igår">
-<!ENTITY history_week_section2 "Förra veckan">
-<!ENTITY history_older_section2 "Förra månaden">
+<!ENTITY history_week_section3 "Senaste 7 dagarna">
+<!ENTITY history_this_month_section "Denna månaden">
+<!ENTITY history_older_section3 "Äldre än 6 månader">
 
 <!ENTITY go "Gå till">
 <!ENTITY search "Sök">
@@ -69,8 +80,6 @@
 <!ENTITY edit_mode_cancel "Avbryt">
 
 <!ENTITY close_tab "Stäng flik">
-<!ENTITY tab_audio_playing "Denna flik spelar ljud ">
-<!ENTITY tab_audio_muted "Ljudet i denna flik har blivit avstängt">
 <!ENTITY one_tab "1 flik">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -81,6 +90,14 @@
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
 <!ENTITY switch_button_message "BYT">
+<!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
+     visible in the UI, but rather used as a text-to-speech content description
+     for sight-impaired a11y users. The content description is set on a tab
+     title in a list of open tabs when content in that tab is playing audio.
+     &formatS; will be replaced with the title of the tab, as received from the
+     web page. When audio is not playing in a tab, &formatS; will be used as
+     the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "Spelar ljud - &formatS;">
 
 <!ENTITY settings "Inställningar">
 <!ENTITY settings_title "Inställningar">
@@ -95,7 +112,7 @@
 
 <!ENTITY pref_category_language "Språk">
 <!ENTITY pref_category_language_summary "Byt din webbläsares språk ">
-<!ENTITY pref_browser_locale "Webläsarens Språk">
+<!ENTITY pref_browser_locale "Webbläsarens Språk">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
@@ -182,6 +199,9 @@
 <!ENTITY pref_home_updates_wifi "Endast via Wi-Fi">
 <!ENTITY pref_home_suggested_sites "Visa sökförslag">
 <!ENTITY pref_home_suggested_sites_summary "Visa ikoner till hemsidor på din hem sida som vi tror du är intresserad av">
+<!ENTITY pref_category_home_homepage "Hemsida">
+<!ENTITY home_homepage_title "Välj en hemsida">
+<!ENTITY home_homepage_use_current_tab "Använd aktuell flik">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Anpassa">
@@ -237,7 +257,6 @@
 <!ENTITY pref_plugins_tap_to_play "Tryck för att visa">
 <!ENTITY pref_plugins_disabled "Inaktiverat">
 <!ENTITY pref_text_size "Textstorlek">
-<!ENTITY pref_reflow_on_zoom4 "Omforma text">
 <!ENTITY pref_restore "Flikar">
 <!ENTITY pref_restore_always "Återställ alltid">
 <!ENTITY pref_restore_quit "Återställ inte när &brandShortName; avslutats">
@@ -272,7 +291,7 @@ size. -->
 <!ENTITY pref_sync_summary2 "Synka dina flikar, bokmärken, inloggningar, historik ">
 <!ENTITY pref_search_suggestions "Visa sökförslag">
 <!ENTITY pref_import_android "Importera från Android">
-<!ENTITY pref_import_android_summary "Importera bokmärken och historia från Androids standardwebläsare">
+<!ENTITY pref_import_android_summary "Importera bokmärken och historia från Androids standardwebbläsare">
 <!ENTITY pref_private_data_history2 "Bläddra i historiken">
 <!ENTITY pref_private_data_searchHistory "Sökhistorik">
 <!ENTITY pref_private_data_formdata2 "Formulär historia ">
@@ -347,6 +366,7 @@ size. -->
 <!ENTITY share_title "Dela via">
 <!ENTITY share_image_failed "Kan inte dela bilden">
 <!ENTITY save_as_pdf "Spara som PDF">
+<!ENTITY print "Skriv ut">
 <!ENTITY find_in_page "Sök på sidan">
 <!ENTITY desktop_mode "Begär datorwebbplats">
 <!ENTITY page "Sida">
@@ -391,6 +411,8 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Fäst plats">
 <!ENTITY contextmenu_top_sites_unpin "Lösgör plats">
 <!ENTITY contextmenu_add_search_engine "Lägg till en sökmotor">
+<!ENTITY contextmenu_mark_read "Markera som läst">
+<!ENTITY contextmenu_mark_unread "Markera som oläst">
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
@@ -413,8 +435,8 @@ size. -->
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
-<!ENTITY pref_prevent_magnifying_glass "Stäng av förstoringsglaset">
-<!ENTITY pref_prevent_magnifying_glass_summary "Förhindra att förstoringsglaset används vid oklara nuddar av bildskärmen">
+<!ENTITY pref_magnifying_glass_enabled "Förstora små områden">
+<!ENTITY pref_magnifying_glass_enabled_summary "Förstora länkar och formulärfält när du petar nära dom">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -473,8 +495,6 @@ size. -->
 <!ENTITY button_set "Ställ in">
 <!ENTITY button_clear "Töm">
 <!ENTITY button_copy "Kopiera">
-
-<!ENTITY firstrun_panel_title_welcome "Välkommen">
 
 <!ENTITY home_top_sites_title "Topplistan">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -564,14 +584,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_insecure "Osäker anslutning">
 <!-- Mixed content notifications in site identity popup -->
 
-<!ENTITY mixed_content_blocked_all "&brandShortName; har blockerat osäkra komponenter på sidan.">
-<!ENTITY mixed_content_blocked_some "&brandShortName; har blockerat några osäkra komponenter på sidan.">
-<!ENTITY mixed_content_display_loaded "Den här sidan har några osäkra komponenter.">
-<!ENTITY mixed_content_protection_disabled "Du har stängt av skydden från osäkra komponenter.">
-
-<!ENTITY loaded_mixed_content_message "Den här sidan visar innehåll som inte är säkert.">
-<!ENTITY blocked_mixed_content_message_top "&brandShortName; har blockerat osäkert innehåll.">
-<!ENTITY blocked_mixed_content_message_bottom "De flesta webbplatser fungerar bra även om det här innehållet blockeras.">
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; har blockerat osäkra komponenter på sidan.">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; har blockerat några osäkra komponenter på sidan.">
+<!ENTITY mixed_content_display_loaded1 "Vissa komponenter av den här sidan är inte säkra (t.ex. bilder).">
+<!ENTITY mixed_content_protection_disabled1 "Du har stängt av skydden från osäkra komponenter.">
 <!-- Tracking content notifications in site identity popup -->
 
 <!ENTITY doorhanger_tracking_title "Spårnings skydd">
@@ -703,4 +719,19 @@ från Android">
 <!ENTITY restriction_disallow_clear_history_title2 "Inaktivera \u0027Töm bläddringshistoriken\u0027">
 <!ENTITY restriction_disallow_master_password_title2 "Inaktivera huvudlösenord">
 <!ENTITY restriction_disallow_guest_browsing_title2 "Inaktivera gäst surfning ">
+<!-- Default Bookmarks titles-->
+<!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
 
+<!ENTITY bookmarks_title "Mobil">
+<!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!ENTITY bookmarks_about_browser "Firefox: Om webbläsaren">
+<!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "Firefox: Anpassa med tillägg">
+<!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "Firefox: Support">
+<!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
+<!ENTITY bookmarks_marketplace "Firefox Marketplace">
+<!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!ENTITY bookmarks_restricted_support2 "Firefox Hjälp och Support för begränsade profiler på Android surfplattor">
+<!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!ENTITY bookmarks_restricted_webmaker "Lär dig mer om webben: Mozilla Webmaker">
