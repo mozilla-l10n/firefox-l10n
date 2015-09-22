@@ -24,10 +24,7 @@
 <!ENTITY  addonExceptions.accesskey     "U">
 
 
-<!ENTITY  passwords.label               "Lösenord">
 
-<!ENTITY  rememberPasswords.label       "Spara lösenord för webbplatser">
-<!ENTITY  rememberPasswords.accesskey   "S">
 <!ENTITY  passwordExceptions.label      "Undantag…">
 <!ENTITY  passwordExceptions.accesskey  "d">
 
@@ -36,5 +33,4 @@
 <!ENTITY  changeMasterPassword.label     "Byt huvudlösenord…">
 <!ENTITY  changeMasterPassword.accesskey "B">
 
-<!ENTITY  savedPasswords.label            "Sparade lösenord…">
-<!ENTITY  savedPasswords.accesskey        "ö">
+
