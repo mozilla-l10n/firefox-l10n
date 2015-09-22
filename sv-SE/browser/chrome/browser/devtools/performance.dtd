@@ -53,13 +53,13 @@
   -  in the toolbar on buttons that select which view is currently shown. -->
 
 <!ENTITY performanceUI.toolbar.waterfall "Waterfall">
-
+<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Visar de olika operationer webbläsaren utför under inspelningen, visas sekventiellt som ett vattenfall.">
 <!ENTITY performanceUI.toolbar.js-calltree "Anropsträd">
-
+<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Framhäver de JavaScript-funktioner där webbläsaren tillbringade mest tid under inspelningen.">
 <!ENTITY performanceUI.toolbar.memory-calltree "Allokeringar">
-
+<!ENTITY performanceUI.toolbar.allocations.tooltiptext "Visar var minne tilldelades under inspelningen.">
 <!ENTITY performanceUI.toolbar.js-flamegraph "JS Flame-graf">
-
+<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Visar anropsstacken för JavaScript under loppet av inspelningen.">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "Flame-graf allokeringar">
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
