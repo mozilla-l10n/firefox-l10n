@@ -10,24 +10,6 @@
 
 <!ENTITY window.title "वेब कन्सोल">
 <!ENTITY browserConsole.title "ब्रावजर कंसोल">
-
-<!ENTITY networkPanel.requestURLColon             "विनंती URL: ">
-<!ENTITY networkPanel.requestMethodColon          "विनंती पद्धत:">
-<!ENTITY networkPanel.statusCodeColon             "स्थिती कोड:">
-
-<!ENTITY networkPanel.requestHeaders              "हेडर्स विनंती">
-<!ENTITY networkPanel.requestCookie               "कुकी थारायात">
-<!ENTITY networkPanel.requestBody                 "बॉडी विनंती">
-<!ENTITY networkPanel.requestFormData             "प्रपत्र डाटा धाडलो">
-
-<!ENTITY networkPanel.responseHeaders             "प्रतिसाद हेडर्स">
-<!ENTITY networkPanel.responseCookie              "कुकी मेळली">
-<!ENTITY networkPanel.responseBody                "बॉडी प्रतिसाद">
-<!ENTITY networkPanel.responseBodyCached          "कॅश्ड डाटा">
-<!ENTITY networkPanel.responseBodyUnknownType     "अज्ञात आशय प्रकार">
-<!ENTITY networkPanel.responseNoBody              "प्रतिसाद ना बॉडी">
-<!ENTITY networkPanel.responseImage               "स्वीकारील्ली प्रतिमा">
-<!ENTITY networkPanel.responseImageCached         "कॅश्ड प्रतिमा">
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
 
@@ -69,12 +51,21 @@
 <!ENTITY btnPageLogging.label   "लॉगिंग">
 <!ENTITY btnPageLogging.tooltip "लॉग संदेश विंडो.कंसोल वस्तीकडे धाडल्यात">
 <!ENTITY btnPageLogging.accesskey3 "L">
-<!ENTITY btnConsoleErrors       "एरर">
-<!ENTITY btnConsoleInfo         "माहिती">
-<!ENTITY btnConsoleWarnings     "शिटकावण्यो">
-<!ENTITY btnConsoleLog          "लॉग">
+
+
+
+
 <!ENTITY btnConsoleXhr          "XHR">
 <!ENTITY btnConsoleReflows      "परत व्हावता">
+<!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
+  -  the toolbar. It shows or hides messages that the web developer inserted on
+  -  the page for debugging purposes, using calls on the HTTP server. -->
+
+
+
+
+
+
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
 <!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"

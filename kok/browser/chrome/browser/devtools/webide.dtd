@@ -27,6 +27,7 @@
 <!ENTITY projectMenu_manageComponents_label "अदिक घटकांचे व्यवस्थापन करात">
 <!ENTITY projectMenu_manageComponents_accesskey "M">
 
+
 <!ENTITY runtimeMenu_label "चलपाची वेळ">
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "जोडणी तोडात">

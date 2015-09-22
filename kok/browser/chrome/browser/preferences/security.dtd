@@ -24,10 +24,7 @@
 <!ENTITY  addonExceptions.accesskey     "E">
 
 
-<!ENTITY  passwords.label               "पासवर्ड">
 
-<!ENTITY  rememberPasswords.label       "सायटीखातिर गुप्तशब्द याद दवरात">
-<!ENTITY  rememberPasswords.accesskey   "R">
 <!ENTITY  passwordExceptions.label      "अपवाद...">
 <!ENTITY  passwordExceptions.accesskey  "व">
 
@@ -36,5 +33,4 @@
 <!ENTITY  changeMasterPassword.label     "प्रधान गुप्त शब्द बदलात...">
 <!ENTITY  changeMasterPassword.accesskey "M">
 
-<!ENTITY  savedPasswords.label            "सांबाळिल्ले पासवर्ड्स...">
-<!ENTITY  savedPasswords.accesskey        "प">
+
