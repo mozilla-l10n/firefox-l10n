@@ -5,7 +5,7 @@
 <!ENTITY itemJunk.label          "Dramhphost">
 <!ENTITY itemPhishing.label      "Camscéimeanna Ríomhphoist">
 <!ENTITY itemPasswords.label     "Focail Fhaire">
-<!ENTITY itemAntiVirus.label     "Frith-Víreas">
+
 <!-- Junk Mail Controls -->
 
 <!ENTITY junkMail.intro "Socraigh na réamhshocruithe dramhphoist. Téigh go Socruithe an Chuntais chun socruithe dramhphoist do chuntas áirithe a chumrú.">
@@ -42,7 +42,5 @@
 <!ENTITY savedPasswords.accesskey       "S">
 <!-- Anti Virus -->
 
-<!ENTITY antiVirus.intro      "Is féidir le &brandShortName; cabhrú le bogearraí frithvíris chun teachtaireachtaí isteach a chuardach le haghaidh víreas sula stórálfar go logánta iad.">
-<!ENTITY antiVirus.label      "Ceadaigh do chliaint fhrithvíris teachtaireachtaí isteach a chur ar coraintín">
-<!ENTITY antiVirus.accesskey  "a">
+
 
