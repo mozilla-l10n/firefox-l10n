@@ -72,7 +72,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY notSignedIn.label           "Anda belum masuk.">
 <!ENTITY signIn.label                "Masuk">
 
-<!ENTITY manage.label                "Kelola">
+
 <!ENTITY disconnect.label            "Putuskan…">
 <!ENTITY verify.label                "Verifikasikan Email">
 <!ENTITY forget.label                "Lupakan Email Ini">

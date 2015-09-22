@@ -24,10 +24,7 @@
 <!ENTITY  addonExceptions.accesskey     "P">
 
 
-<!ENTITY  passwords.label               "Sandi">
 
-<!ENTITY  rememberPasswords.label       "Ingat sandi untuk situs web">
-<!ENTITY  rememberPasswords.accesskey   "I">
 <!ENTITY  passwordExceptions.label      "Pengecualian…">
 <!ENTITY  passwordExceptions.accesskey  "c">
 
@@ -36,5 +33,4 @@
 <!ENTITY  changeMasterPassword.label     "Ubah Sandi Utama…">
 <!ENTITY  changeMasterPassword.accesskey "U">
 
-<!ENTITY  savedPasswords.label            "Sandi Tersimpan…">
-<!ENTITY  savedPasswords.accesskey        "S">
+
