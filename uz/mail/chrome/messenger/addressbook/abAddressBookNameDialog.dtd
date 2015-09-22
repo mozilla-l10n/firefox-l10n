@@ -3,3 +3,5 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Labels -->
 
+<!ENTITY name.label      "Manzillar kitobi nomi:">
+<!ENTITY name.accesskey  "M">
