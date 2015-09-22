@@ -24,10 +24,7 @@
 <!ENTITY  addonExceptions.accesskey     "ث">
 
 
-<!ENTITY  passwords.label               "كلمات السر">
 
-<!ENTITY  rememberPasswords.label       "تذكر كلمات سر المواقع">
-<!ENTITY  rememberPasswords.accesskey   "ت">
 <!ENTITY  passwordExceptions.label      "الاستثناءات…">
 <!ENTITY  passwordExceptions.accesskey  "س">
 
@@ -36,5 +33,4 @@
 <!ENTITY  changeMasterPassword.label     "غيّر كلمة السر الرئيسية…">
 <!ENTITY  changeMasterPassword.accesskey "ر">
 
-<!ENTITY  savedPasswords.label            "كلمات السرّ المحفوظة…">
-<!ENTITY  savedPasswords.accesskey        "ك">
+
