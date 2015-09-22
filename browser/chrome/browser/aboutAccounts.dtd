@@ -7,3 +7,7 @@
 <!ENTITY aboutAccountsConfig.startButton.label "Inìçia">
 <!ENTITY aboutAccountsConfig.useOldSync.label "Ti dêuvi 'na vêgia versción de Sync?">
 <!ENTITY aboutAccountsConfig.manage.label "Gestìsci">
+<!ENTITY aboutAccountsConfig.syncPreferences.label "Preferénse Sync">
+<!ENTITY aboutAccounts.noConnection.title "Conescion no disponìbile">
+<!ENTITY aboutAccounts.noConnection.description "Serve 'na conescion a Internet pe acede.">
+<!ENTITY aboutAccounts.noConnection.retry "Preuva torna">
