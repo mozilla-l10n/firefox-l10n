@@ -11,15 +11,16 @@
 <!ENTITY  onboard_start_subtext3 "ធ្វើ​ឲ្យ​បទពិសោធន៍​រក​មើល​​តាម​បណ្ដាញ​ចល័ត​របស់​អ្នក​​ជា​ម្ចាស់​របស់​អ្នក​ពិតៗ។">
 <!ENTITY  onboard_start_button_account "ចូល​ &brandShortName;">
 <!ENTITY  onboard_start_button_browser "ចាប់​ផ្ដើម​រុករក">
-
+<!ENTITY firstrun_button_next "បន្ទាប់">
 
 <!ENTITY  onboard_start_restricted1 "មាន​សុវត្ថិភាព និង​​ស្ថិត​ក្នុង​​ការ​ត្រួតពិនិត្យ​ជាមួយ​កំណែ​ &brandShortName; ដែល​បាន​ធ្វើ​ឲ្យ​សាមញ្ញ​នេះ។">
 
+<!ENTITY firstrun_import_title "នាំចូល">
 <!ENTITY firstrun_import_message "សូម​ស្វាគមន៍​មកកាន់ &brandShortName;!">
-
-
-
-
+<!ENTITY firstrun_import_subtext "នាំចូល​ចំណាំ​ និង​ប្រវត្តិ​របស់​អ្នក​ពី​កម្មវិធី​អ៊ីនធឺណិត​ផ្សេង។">
+<!ENTITY firstrun_import_action "ផ្ទេរ​ទៅ &brandShortName;">
+<!ENTITY firstrun_import_dialog_button "ផ្ទេរ">
+<!ENTITY firstrun_import_progress_title "កំពុង​ផ្ទេរ">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -64,9 +65,9 @@
 
 <!ENTITY history_today_section "ថ្ងៃនេះ">
 <!ENTITY history_yesterday_section "ម្សិលមិញ">
-
-
-
+<!ENTITY history_week_section3 "7 ថ្ងៃ​មុន">
+<!ENTITY history_this_month_section "ខែ​នេះ">
+<!ENTITY history_older_section3 "ជាង 6 ខែ​មុន">
 
 <!ENTITY go "ទៅ">
 <!ENTITY search "ស្វែងរក">
@@ -96,6 +97,7 @@
      &formatS; will be replaced with the title of the tab, as received from the
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "លេង​អូឌីយ៉ូ – &formatS;">
 
 <!ENTITY settings "ការ​កំណត់">
 <!ENTITY settings_title "ការ​កំណត់">
@@ -197,9 +199,9 @@
 <!ENTITY pref_home_updates_wifi "តាម​វ៉ាយហ្វាយ​តែប៉ុណ្ណោះ">
 <!ENTITY pref_home_suggested_sites "បង្ហាញ​ការ​ផ្ដល់​យោបល់​​តំបន់បណ្ដាញ">
 <!ENTITY pref_home_suggested_sites_summary "បង្ហាញ​ផ្លូវ​កាត់​ទៅ​គេហទំព័រ​ដែល​អ្នក​គិត​ថា​គួរ​ឲ្យ​ចាប់​អារម្មណ៍ នៅ​លើ​ទំព័រ​ដើម​របស់​អ្នក">
-
-
-
+<!ENTITY pref_category_home_homepage "គេហទំព័រ">
+<!ENTITY home_homepage_title "កំណត់​គេហ​ទំព័រ">
+<!ENTITY home_homepage_use_current_tab "ប្រើ​ផ្ទាំង​បច្ចុប្បន្ន">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "ប្ដូរ​តាម​តម្រូវ​ការ">
@@ -364,7 +366,7 @@ size. -->
 <!ENTITY share_title "ចែករំលែក​តាម">
 <!ENTITY share_image_failed "មិន​អាច​ចែករំលែក​រូបភាព​នេះ">
 <!ENTITY save_as_pdf "រក្សាទុក​ជា PDF">
-
+<!ENTITY print "បោះពុម្ព">
 <!ENTITY find_in_page "រកមើល​ក្នុង​ទំព័រ">
 <!ENTITY desktop_mode "តំបន់បណ្ដាញ​ផ្ទៃតុ​សំណើ">
 <!ENTITY page "ទំព័រ">
@@ -384,7 +386,7 @@ size. -->
 
 <!ENTITY find_text "រកមើល​ក្នុង​ទំព័រ">
 <!ENTITY find_prev "មុន">
-
+<!ENTITY find_next "បន្ទាប់">
 <!ENTITY find_close "បិទ">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -409,8 +411,8 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "ខ្ទាស់​តំបន់​បណ្ដាញ">
 <!ENTITY contextmenu_top_sites_unpin "មិន​ខ្ទាស់​តំបន់​បណ្ដាញ">
 <!ENTITY contextmenu_add_search_engine "បន្ថែម​ម៉ាស៊ីន​ស្វែងរក">
-
-
+<!ENTITY contextmenu_mark_read "សម្គាល់​ថា​អាន">
+<!ENTITY contextmenu_mark_unread "សម្គាល់​ថា​មិន​ទាន់​បាន​អាន">
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
@@ -433,6 +435,8 @@ size. -->
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
+<!ENTITY pref_magnifying_glass_enabled "ពង្រីក​តំបន់​ដែល​តូច">
+<!ENTITY pref_magnifying_glass_enabled_summary "ពង្រីក​តំណ និង​វាល​ទម្រង់​នៅ​ពេល​ប៉ះ​ក្បែរៗ​វា">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -580,8 +584,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_insecure "ការ​ភ្ជាប់​ដោយ​សុវត្ថិភាព">
 <!-- Mixed content notifications in site identity popup -->
 
-
-
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; បាន​ទប់ស្កាត់​ធាតុ​ដែល​គ្មាន​សុវត្ថិភាព​នៅ​លើ​ទំព័រ​នេះ។">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; បាន​ទប់ស្កាត់​ធាតុ​ដែល​គ្មាន​សុវត្ថិភាព​ខ្លះ​​នៅ​លើ​ទំព័រ​នេះ។">
+<!ENTITY mixed_content_display_loaded1 "ផ្នែក​នៃ​ទំព័រ​នេះ​មិន​មាន​សុវត្ថិភាព​ទេ​ (ដូចជា​រូបភាព)។">
+<!ENTITY mixed_content_protection_disabled1 "អ្នក​បាន​បិទ​ការ​ការពារ​ពី​​មាតិកា​ដែល​មិន​មាន​​សុវត្ថិភាព។">
 <!-- Tracking content notifications in site identity popup -->
 
 <!ENTITY doorhanger_tracking_title "ទប់ស្កាត់​ការ​តាមដាន">
@@ -599,6 +605,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "បាន​សម្អាត​ទិន្នន័យ​ឯកជន">
 <!ENTITY private_data_fail "ទិន្នន័យ​ឯកជន​មួយ​ចំនួន​មិន​អាច​សម្អាត​បាន​ទេ">
 
+<!ENTITY bookmarkhistory_button_import "នាំចូល">
 <!ENTITY bookmarkhistory_import_both "កំពុង​នាំចូល​ចំណាំ និង​ប្រវត្តិ 
 ពី Android">
 <!ENTITY bookmarkhistory_import_bookmarks "កំពុង​នាំចូល​ចំណាំ 
@@ -714,10 +721,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restriction_disallow_guest_browsing_title2 "បិទ​ការ​រក​មើល​ជា​ភ្ញៀវ">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
+
+<!ENTITY bookmarks_title "ចល័ត">
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!ENTITY bookmarks_about_browser "Firefox៖ អំពី​កម្មវិធី​អ៊ីនធឺណិត​របស់​អ្នក">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "Firefox៖ កែ​​តាម​បំណង​ជាមួយ​កម្មវិធី​ផ្នែក​បន្ថែម">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "Firefox៖ គាំទ្រ">
 <!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
 <!ENTITY bookmarks_marketplace "កន្លែង​ផ្ទុក​កម្មវិធី​របស់ Firefox">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!ENTITY bookmarks_restricted_support2 "ជំនួយ និង​ការ​គាំទ្រ Firefox សម្រាប់​​ប្រវត្តិរូប​ដែល​រឹត​បន្តឹង​នៅ​លើ​ថេប្លេត​អេនដ្រយ">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!ENTITY bookmarks_restricted_webmaker "ស្វែងយល់​ពី​បណ្ដាញ៖ Mozilla Webmaker">

@@ -197,7 +197,7 @@
 
 <!ENTITY fxaccount_status_header2 "គណនី Firefox">
 <!ENTITY fxaccount_status_signed_in_as "បាន​ចូល​ជា">
-
+<!ENTITY fxaccount_status_manage_account "គ្រប់គ្រង​គណនី">
 <!ENTITY fxaccount_status_auth_server "ម៉ាស៊ីន​មេ​គណនី">
 <!ENTITY fxaccount_status_sync_now "ធ្វើ​សមកាលកម្ម​ឥឡូវ">
 <!ENTITY fxaccount_status_syncing2 "កំពុង​ធ្វើ​សមាកលកម្ម...">
