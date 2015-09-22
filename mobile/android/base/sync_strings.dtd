@@ -197,6 +197,7 @@
 
 <!ENTITY fxaccount_status_header2 "Firefox একাউণ্ট">
 <!ENTITY fxaccount_status_signed_in_as "এই ধৰণে ছাইন ইন কৰক">
+
 <!ENTITY fxaccount_status_auth_server "একাওন্ট চাৰ্ভাৰ">
 <!ENTITY fxaccount_status_sync_now "এতিয়া চিঙ্ক কৰক">
 <!ENTITY fxaccount_status_syncing2 "চিঙ্ক কৰা হৈছে…">
