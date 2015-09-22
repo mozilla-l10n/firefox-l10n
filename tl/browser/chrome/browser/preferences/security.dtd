@@ -24,10 +24,7 @@
 <!ENTITY  addonExceptions.accesskey     "e">
 
 
-<!ENTITY  passwords.label               "Passwords">
 
-<!ENTITY  rememberPasswords.label       "Tandaan ang passwords para sa mga sites">
-<!ENTITY  rememberPasswords.accesskey   "r">
 <!ENTITY  passwordExceptions.label      "Mga exceptions...">
 <!ENTITY  passwordExceptions.accesskey  "x">
 

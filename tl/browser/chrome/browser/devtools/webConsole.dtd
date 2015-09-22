@@ -7,23 +7,6 @@
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
 
-
-
-
-
-<!ENTITY networkPanel.requestHeaders              "Pag-hiling ng panimula">
-<!ENTITY networkPanel.requestCookie               "Ipinadala na Cookie">
-<!ENTITY networkPanel.requestBody                 "Paghiling sa nilalaman">
-<!ENTITY networkPanel.requestFormData             "Ipinadala na Form Data">
-
-<!ENTITY networkPanel.responseHeaders             "pag-tugon sa panimula">
-
-<!ENTITY networkPanel.responseBody                "pag-tugon sa nilalaman">
-
-<!ENTITY networkPanel.responseBodyUnknownType     "Hindi Alam ang Content Type">
-<!ENTITY networkPanel.responseNoBody              "Walang Response Body">
-<!ENTITY networkPanel.responseImage               "natanggap na larawan">
-<!ENTITY networkPanel.responseImageCached         "cached na larawan">
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
 
@@ -60,9 +43,18 @@
   -  console.error(). -->
 
 
-<!ENTITY btnConsoleErrors       "Mga Error">
 
-<!ENTITY btnConsoleWarnings     "Mga Babala">
+
+
+
+
+
+<!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
+  -  the toolbar. It shows or hides messages that the web developer inserted on
+  -  the page for debugging purposes, using calls on the HTTP server. -->
+
+
+
 
 
 
