@@ -215,6 +215,7 @@
 <!ENTITY addressButton.tooltip "Hautatu hartzaile bat helbide-liburuan">
 <!ENTITY attachButton.tooltip "Erantsi fitxategia">
 <!ENTITY spellingButton.tooltip "Egiaztatu hautapenaren edo orri osoaren ortografia">
+
 <!ENTITY saveButton.tooltip "Gorde mezu hau">
 <!ENTITY cutButton.tooltip              "Ebaki">
 <!ENTITY copyButton.tooltip             "Kopiatu">
