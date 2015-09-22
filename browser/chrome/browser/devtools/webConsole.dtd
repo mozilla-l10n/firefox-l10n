@@ -10,24 +10,6 @@
 
 <!ENTITY window.title "Consòla Web">
 <!ENTITY browserConsole.title "Consòla del navigador">
-
-<!ENTITY networkPanel.requestURLColon             "URL de la requèsta :">
-<!ENTITY networkPanel.requestMethodColon          "Metòde de la requèsta">
-<!ENTITY networkPanel.statusCodeColon             "Còde d'estat">
-
-<!ENTITY networkPanel.requestHeaders              "Entèstas de la requèsta">
-<!ENTITY networkPanel.requestCookie               "Cookie mandat">
-<!ENTITY networkPanel.requestBody                 "Contengut de la requèsta">
-<!ENTITY networkPanel.requestFormData             "Donadas de formulari mandadas">
-
-<!ENTITY networkPanel.responseHeaders             "Entèstas de la responsa">
-<!ENTITY networkPanel.responseCookie              "Cookie recebut">
-<!ENTITY networkPanel.responseBody                "Contengut de la responsa">
-<!ENTITY networkPanel.responseBodyCached          "Donadas en escondedor">
-<!ENTITY networkPanel.responseBodyUnknownType     "Tipe de contengut desconegut">
-<!ENTITY networkPanel.responseNoBody              "Pas cap de contengut dins la responsa">
-<!ENTITY networkPanel.responseImage               "Imatge recebut">
-<!ENTITY networkPanel.responseImageCached         "Imatge en escondedor">
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
 
@@ -69,12 +51,21 @@
 <!ENTITY btnPageLogging.label   "Jornal">
 <!ENTITY btnPageLogging.tooltip "Jornalizar los messatges mandats a l'objècte « consòla »">
 <!ENTITY btnPageLogging.accesskey3 "L">
-<!ENTITY btnConsoleErrors       "Errors">
-<!ENTITY btnConsoleInfo         "Info">
-<!ENTITY btnConsoleWarnings     "Avertiments">
-<!ENTITY btnConsoleLog          "Log">
+
+
+
+
 <!ENTITY btnConsoleXhr          "XHR">
 <!ENTITY btnConsoleReflows      "Reflows">
+<!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
+  -  the toolbar. It shows or hides messages that the web developer inserted on
+  -  the page for debugging purposes, using calls on the HTTP server. -->
+
+
+
+
+
+
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
 <!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"

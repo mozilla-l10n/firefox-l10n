@@ -24,10 +24,7 @@
 <!ENTITY  addonExceptions.accesskey     "E">
 
 
-<!ENTITY  passwords.label               "Senhal">
 
-<!ENTITY  rememberPasswords.label       "Enregistrar los senhals">
-<!ENTITY  rememberPasswords.accesskey   "s">
 <!ENTITY  passwordExceptions.label      "Excepcions…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
@@ -36,5 +33,4 @@
 <!ENTITY  changeMasterPassword.label     "Modificar lo senhal principal...">
 <!ENTITY  changeMasterPassword.accesskey "M">
 
-<!ENTITY  savedPasswords.label            "Senhals enregistrats...">
-<!ENTITY  savedPasswords.accesskey        "S">
+
