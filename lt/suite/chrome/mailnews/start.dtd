@@ -23,6 +23,3 @@
 <a href="https://addons.mozilla.org/seamonkey/">„Mozilla“ priedų svetainėje</a>.'>
 <!ENTITY info.title "Klaidos">
 <!--# LOCALIZATION NOTE (info_bugs.label): the URL for <a id="releaseNotesURL"> is fetched from brand.properties -->
-<!ENTITY info_bugs.label '<a href="http://www.mozilla.org/mailnews/" hreflang="en">Mes</a> visad laukiame pranešimų apie programos klaidas 
-bei pasiūlymų, tačiau prašome pirma paskaityti <a id="releaseNotesURL" href="">laidos apžvalgą</a> ir 
-peržiūrėti jau įvestas „<a href="https://bugzilla.mozilla.org/query.cgi" hreflang="en">Bugzilla</a>“ užklausas.'>

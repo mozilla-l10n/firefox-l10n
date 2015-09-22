@@ -30,7 +30,7 @@
 <!ENTITY  generalReferrer       "Iš kur ateina:">
 <!ENTITY  generalSource         "Šaltinis:">
 <!ENTITY  generalModified       "Atnaujintas:">
-<!ENTITY  generalEncoding       "Koduotė:">
+
 <!ENTITY  generalMetaName       "Vardas">
 <!ENTITY  generalMetaContent    "Reikšmė">
 <!ENTITY  generalSecurityDetails           "Išsamiau">

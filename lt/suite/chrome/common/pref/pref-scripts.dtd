@@ -20,6 +20,9 @@
 <!ENTITY allowContextmenuDisable.label   "Nerodyti ar keisti kontekstinį meniu">
 <!ENTITY allowHideStatusBar.label        "Nerodyti būsenos juostos">
 
+
+
+
 <!ENTITY enablePlugins.label             "Įjungti programos papildinius">
 <!ENTITY enablePluginForSuite.label      "programų pakete">
 <!ENTITY enablePluginForSuite.accesskey  "p">

@@ -48,13 +48,6 @@
 <!ENTITY ScreenName.label               "AOL abonento vardas:">
 <!ENTITY ScreenName.accesskey           "A">
 
-<!ENTITY allowRemoteContent1.label      "Leisti intarpus iš tinklo.">
-<!ENTITY allowRemoteContent1.accesskey  "t">
-<!ENTITY allowRemoteContent1.tooltip    "Į raiškiojo teksto laiškus gali būti intarpų 
-iš tinkle esančių šaltinių. Atvėrus tokius laiškus, bus užmezgamas ryšys su 
-tais šaltiniais. Tai suteikia galimybę sekti, ar išsiųstas laiškas buvo perskaitytas. 
-Pažymėjus šią parinktį, tokie tinkle esantys intarpai šio adresato laiškuose bus rodomi.">
-
 <!ENTITY WorkPhone.label                "Darbo:">
 <!ENTITY WorkPhone.accesskey            "r">
 <!ENTITY HomePhone.label                "Namų:">

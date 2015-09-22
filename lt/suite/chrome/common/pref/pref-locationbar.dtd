@@ -6,16 +6,16 @@
 <!ENTITY pref.locationBar.title                "Adreso laukas">
 
 <!ENTITY autoComplete.label                    "Automatinis papildymas">
-<!ENTITY enableAutoComplete.label              "Automatiškai papildyti rašomus adresus, radus atitikimų naršymo žurnale">
-<!ENTITY enableAutoComplete.accesskey          "A">
+
+
+
+
 <!ENTITY autoCompleteAutoFill.label            "Automatiškai papildyti iki tinkamiausio adreso">
 <!ENTITY autoCompleteAutoFill.accesskey        "u">
 <!ENTITY autoCompleteShowPopup.label           "Rodyti tinkamų variantų sąrašą">
 <!ENTITY autoCompleteShowPopup.accesskey       "R">
 <!ENTITY autoCompleteMatchOnlyTyped.label      "Į tinkamus variantus įtraukti tik tas svetaines, kurių adresai buvo renkami">
 <!ENTITY autoCompleteMatchOnlyTyped.accesskey  "t">
-<!ENTITY autoCompleteMatchOnlyURLs.label       "Tinkamus variantus parinkti pagal svetainių adresus, o ne pavadinimus">
-<!ENTITY autoCompleteMatchOnlyURLs.accesskey   "n">
 <!--LOCALIZATION NOTE (autoCompleteMatch.label): This is the common leading
   part of the menulist items listed below, mainly to make the control available
   via the accesskey

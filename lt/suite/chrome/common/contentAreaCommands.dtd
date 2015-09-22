@@ -72,6 +72,8 @@
 <!ENTITY saveFrameAsCmd.label         "Įrašyti kadrą kaip…">
 <!ENTITY saveFrameCmd.label           "Įrašyti kadrą">
 <!ENTITY saveFrameCmd.accesskey       "r">
+
+
 <!ENTITY saveLinkAsCmd.label          "Įrašyti saistomą objektą kaip…">
 <!ENTITY saveLinkCmd.label            "Įrašyti saistomą objektą">
 <!ENTITY saveLinkCmd.accesskey        "Į">
