@@ -5,7 +5,7 @@
 <!ENTITY itemJunk.label          "سُخام">
 <!ENTITY itemPhishing.label      "بريد الاحتيال">
 <!ENTITY itemPasswords.label     "كلمات السر">
-<!ENTITY itemAntiVirus.label     "مضاد الفيروسات">
+
 <!-- Junk Mail Controls -->
 
 <!ENTITY junkMail.intro "اضبط إعدادات السخام الافتراضيَّة. يمكن ضبط إعدادات السخام الخاصة بالحساب في إعدادات الحساب.">
@@ -42,7 +42,5 @@
 <!ENTITY savedPasswords.accesskey       "س">
 <!-- Anti Virus -->
 
-<!ENTITY antiVirus.intro      "يستطيع &brandShortName; تسهيل مهمة مضاد الفيروسات في تحليل رسائل البريد الواردة بحثا عن فيروسات قبل حفظها محليّا.">
-<!ENTITY antiVirus.label      "اسمح لمضادات الفيروسات بحجر الرسائل الواردة عن بعض">
-<!ENTITY antiVirus.accesskey  "س">
+
 

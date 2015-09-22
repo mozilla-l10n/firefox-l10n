@@ -215,6 +215,7 @@
 <!ENTITY addressButton.tooltip "اختر مستلمًا من دفتر العناوين">
 <!ENTITY attachButton.tooltip "أرفق مُرفق">
 <!ENTITY spellingButton.tooltip "دقق إملاء التحديد أو كامل الرسالة">
+
 <!ENTITY saveButton.tooltip "احفظ هذه الرسالة">
 <!ENTITY cutButton.tooltip              "قص">
 <!ENTITY copyButton.tooltip             "انسخ">
