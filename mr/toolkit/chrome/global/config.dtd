@@ -14,6 +14,7 @@
 <!ENTITY searchPrefs.label "शोधा:">
 <!ENTITY searchPrefs.accesskey "r">
 <!ENTITY focusSearch.key "r">
+
 <!-- Columns -->
 
 <!ENTITY prefColumn.label "प्राधान्याता नाव">
