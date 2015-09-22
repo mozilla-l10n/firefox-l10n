@@ -13,9 +13,8 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "Ви не в приватному перегляді">
 
-<!ENTITY privatebrowsingpage.description.private3 "Firefox буде запобігати стеженню за вами і не буде запам’ятовувати історію, але завантажені файли та нові закладки все одно будуть збережені на вашому пристрої.">
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
-     Browsing" is capitalized in English to be consistent with our existing uses
+     Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
 <!ENTITY privatebrowsingpage.description.normal2 "В приватному перегляді ми не будемо зберігати будь-яку історію перегляду чи куки. Додані вами закладки та завантажені файли все одно будуть збережені на вашому пристрої.">
 
