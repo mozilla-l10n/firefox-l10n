@@ -24,6 +24,8 @@
 <!ENTITY  addonExceptions.accesskey     "U">
 
 
+<!ENTITY  logins.label                  "Inloggningar ">
+
 
 <!ENTITY  passwordExceptions.label      "Undantag…">
 <!ENTITY  passwordExceptions.accesskey  "d">

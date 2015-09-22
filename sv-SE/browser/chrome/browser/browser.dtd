@@ -112,7 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignIn.label "Logga in till &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Öppna inställningar för &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Återanslut till &syncBrand.shortName.label;">
-
+<!ENTITY fxaUnverified.label "Verifiera ditt konto">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; aktiverat">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; kommer strax att börja synka.">
 
@@ -222,7 +222,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "Filhämtaren">
 <!ENTITY downloads.accesskey          "F">
 <!ENTITY downloads.commandkey         "j">
-
+<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Tillägg">
 <!ENTITY addons.accesskey             "T">
 <!ENTITY addons.commandkey            "A">
@@ -405,11 +405,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Vill du förbättra din sökupplevelse med sökförslag?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Läs mer…">
-
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Nej">
-
+<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Ja">
-
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -746,7 +746,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
-
+<!ENTITY syncSignIn.label             "Logga in till &syncBrand.shortName.label;…">
+<!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "Synka nu">
 <!ENTITY syncSyncNowItem.accesskey    "n">
 <!ENTITY syncReAuthItem.label         "Återanslut till &syncBrand.shortName.label;…">
