@@ -279,7 +279,7 @@ size. -->
 <!ENTITY pref_private_data_cookies2 "Куки та активні сеанси">
 <!ENTITY pref_private_data_passwords2 "Збережені логіни">
 <!ENTITY pref_private_data_cache "Кеш">
-<!ENTITY pref_private_data_offlineApps "Позамережні дані сайтів">
+<!ENTITY pref_private_data_offlineApps "Дані автономних веб-сайтів">
 <!ENTITY pref_private_data_siteSettings2 "Налаштування сайта">
 <!ENTITY pref_private_data_downloadFiles2 "Завантаження">
 <!ENTITY pref_private_data_syncedTabs "Синхронізовані вкладки">
