@@ -5,7 +5,7 @@
 <!ENTITY itemJunk.label          "Zaborra">
 <!ENTITY itemPhishing.label      "Posta-iruzurrak">
 <!ENTITY itemPasswords.label     "Pasahitzak">
-<!ENTITY itemAntiVirus.label     "Antibirusa">
+
 <!-- Junk Mail Controls -->
 
 <!ENTITY junkMail.intro "Ezarri zabor-postaren lehenetsitako ezarpenak. Kontu bakoitzari lotutako zabor-postaren ezarpenak kontu-ezarpenetan konfiguratu daitezke.">
@@ -42,7 +42,5 @@
 <!ENTITY savedPasswords.accesskey       "G">
 <!-- Anti Virus -->
 
-<!ENTITY antiVirus.intro      "&brandShortName;(e)k lana erraz diezaioke antibirus softwareari datozen posta-mezuak birusik duten ala ez aztertzerako garaian lokalki gorde aurretik.">
-<!ENTITY antiVirus.label      "Baimendu antibirus-bezeroek datozen mezu indibidualak kuarentenan jartzea">
-<!ENTITY antiVirus.accesskey  "B">
+
 

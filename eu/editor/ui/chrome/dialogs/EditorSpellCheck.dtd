@@ -20,16 +20,16 @@
 <!ENTITY replaceButton.accessKey "r">
 <!ENTITY replaceAllButton.label "Ordeztu denak">
 <!ENTITY replaceAllButton.accessKey "a">
-<!ENTITY stopButton.label "Gelditu">
-<!ENTITY stopButton.accessKey "G">
+
+
 <!ENTITY userDictionary.label "Hiztegi pertsonala:">
 <!ENTITY moreDictionaries.label "Deskargatu hiztegi gehiago...">
 <!ENTITY addToUserDictionaryButton.label "Hitza gehitu">
 <!ENTITY addToUserDictionaryButton.accessKey "g">
 <!ENTITY editUserDictionaryButton.label "Editatu...">
 <!ENTITY editUserDictionaryButton.accessKey "E">
-<!ENTITY recheckButton.label "Aztertu orrialdea berriro">
-<!ENTITY recheckButton.accessKey "o">
+
+
 <!ENTITY closeButton.label "Itxi">
 <!ENTITY closeButton.accessKey "I">
 <!ENTITY sendButton.label "Bidali">
