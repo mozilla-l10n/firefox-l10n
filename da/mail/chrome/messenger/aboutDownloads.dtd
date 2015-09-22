@@ -17,5 +17,8 @@
 <!ENTITY cmd.open.accesskey                        "b">
 <!ENTITY cmd.removeFromHistory.label               "Fjern fra historikken">
 <!ENTITY cmd.removeFromHistory.accesskey           "F">
-<!ENTITY cmd.clearDownloads.label                  "Ryd filhentninger">
-<!ENTITY cmd.clearDownloads.accesskey              "R">
+<!ENTITY cmd.clearList.label                       "Ryd oversigten">
+<!ENTITY cmd.clearList.accesskey                   "R">
+<!ENTITY cmd.clearList.tooltip                     "Fjern alle hentede filer fra oversigten, undtagen dem der er ved at blive hentet.">
+<!ENTITY cmd.searchDownloads.label                 "Søg…">
+<!ENTITY cmd.searchDownloads.key                   "S">
