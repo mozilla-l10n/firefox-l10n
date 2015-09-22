@@ -12,7 +12,7 @@
 <!ENTITY backButton.accesskey           "B">
 <!ENTITY backButton.tooltip             "সর্বশেষ পূর্ববর্তী পৃষ্ঠায় প্রত্যাবর্তন করুন">
 <!ENTITY forwardButton.label            "পরবর্তী">
-<!ENTITY forwardButton.accesskey        "প">
+<!ENTITY forwardButton.accesskey        "F">
 <!ENTITY forwardButton.tooltip          "প্রদর্শিত পৃষ্ঠার অনুক্রম অনুযায়ী, পরবর্তী পৃষ্ঠায় এগিয়ে চলুন">
 <!ENTITY copyCmd.label                  "কপি করুন">
 <!ENTITY copyCmd.accesskey              "C">
@@ -29,7 +29,7 @@
 <!ENTITY search.emptytext               "অনুসন্ধান">
 <!ENTITY searchHeader.label             "অনুসন্ধানের ফলাফল">
 <!ENTITY toctab.label                   "বিষয়বস্তু">
-<!ENTITY toctab.accesskey               "ব">
+<!ENTITY toctab.accesskey               "C">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
@@ -49,9 +49,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY helpSearch.commandkey          "k">
 
 <!ENTITY zLevel.label                   "সর্বদা উপরে স্থিত">
-<!ENTITY zLevel.accesskey               "স">
+<!ENTITY zLevel.accesskey               "T">
 
-<!ENTITY fullZoomReduceBtn.label        "বড় মাপে প্রদর্শন">
-<!ENTITY fullZoomReduceBtn.accesskey    "ব">
-<!ENTITY fullZoomEnlargeBtn.label       "ছোট মাপে প্রদর্শন">
-<!ENTITY fullZoomEnlargeBtn.accesskey   "ছ">
+<!ENTITY fullZoomReduceBtn.label        "ছোট মাপে প্রদর্শন">
+<!ENTITY fullZoomReduceBtn.accesskey    "O">
+<!ENTITY fullZoomEnlargeBtn.label       "বড় মাপে প্রদর্শন">
+<!ENTITY fullZoomEnlargeBtn.accesskey   "I">

@@ -16,7 +16,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.pause.label                  "স্থগিত করুন">
 <!ENTITY cmd.pause.accesskey              "P">
 <!ENTITY cmd.resume.label                 "পুনরারম্ভ">
-<!ENTITY cmd.resume.accesskey             "প">
+<!ENTITY cmd.resume.accesskey             "R">
 <!ENTITY cmd.cancel.label                 "বাতিল">
 <!ENTITY cmd.cancel.accesskey             "C">
 <!ENTITY cmd.show.label                   "ধারণকারী ফোল্ডার খুলুন">
@@ -39,7 +39,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.close.commandKey             "w">
 <!ENTITY cmd.close2.commandKey            "j">
 <!ENTITY cmd.close2Unix.commandKey        "y">
-<!ENTITY cmd.clearList.label              "তালিকা পরিশ্রুত করুন">
+<!ENTITY cmd.clearList.label              "তালিকা পরিষ্কার">
 <!ENTITY cmd.clearList.tooltip            "তালিকা থেকে সম্পন্ন, বাতিল করা ও বিফল ডাউনলোড কর্মের তথ্য অপসারণ করে">
 <!ENTITY cmd.clearList.accesskey          "C">
 <!ENTITY cmd.find.commandKey              "f">

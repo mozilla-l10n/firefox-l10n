@@ -8,7 +8,7 @@
 <!ENTITY getUserMediaDialog.title                   "মিডিয়া শেয়ার করে নিন">
 <!ENTITY getUserMediaDialog.button.accept.label     "শেয়ার করুন">
 <!ENTITY getUserMediaDialog.button.accept.accesskey "S">
-<!ENTITY getUserMediaDialog.button.cancel.label     "বাতিল করুন (n)">
+<!ENTITY getUserMediaDialog.button.cancel.label     "বাতিল করুন">
 <!ENTITY getUserMediaDialog.button.cancel.accesskey "n">
 
 <!ENTITY getUserMediaDialog.video.label             "ক্যামেরা নির্বাচিত করুন">

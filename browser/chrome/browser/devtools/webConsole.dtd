@@ -10,24 +10,6 @@
 
 <!ENTITY window.title "Web Console">
 <!ENTITY browserConsole.title "ব্রাউজার কনসোল">
-
-<!ENTITY networkPanel.requestURLColon             "Request URL:">
-<!ENTITY networkPanel.requestMethodColon          "Request Method:">
-<!ENTITY networkPanel.statusCodeColon             "Status Code:">
-
-<!ENTITY networkPanel.requestHeaders              "Request Headers">
-<!ENTITY networkPanel.requestCookie               "Sent Cookie">
-<!ENTITY networkPanel.requestBody                 "Request Body">
-<!ENTITY networkPanel.requestFormData             "Sent Form Data">
-
-<!ENTITY networkPanel.responseHeaders             "Response Headers">
-<!ENTITY networkPanel.responseCookie              "Received Cookie">
-<!ENTITY networkPanel.responseBody                "Response Body">
-<!ENTITY networkPanel.responseBodyCached          "Cached Data">
-<!ENTITY networkPanel.responseBodyUnknownType     "Unknown Content Type">
-<!ENTITY networkPanel.responseNoBody              "No Response Body">
-<!ENTITY networkPanel.responseImage               "Received Image">
-<!ENTITY networkPanel.responseImageCached         "Cached Image">
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
 
@@ -58,7 +40,7 @@
 <!ENTITY btnPageJS.label    "JS">
 <!ENTITY btnPageJS.tooltip  "Log JavaScript exceptions">
 <!ENTITY btnPageJS.accesskey  "J">
-<!ENTITY btnPageSecurity.label "নিরাপত্তা(u)">
+<!ENTITY btnPageSecurity.label "নিরাপত্তা">
 <!ENTITY btnPageSecurity.tooltip "নিরাপত্তা ত্রুটি এবং সতর্কতার লগ">
 <!ENTITY btnPageSecurity.accesskey "u">
 <!-- LOCALIZATION NOTE (btnPageLogging): This is used as the text of the
@@ -69,12 +51,21 @@
 <!ENTITY btnPageLogging.label   "লগিং">
 <!ENTITY btnPageLogging.tooltip "Log messages sent to the window.console object">
 <!ENTITY btnPageLogging.accesskey3 "L">
-<!ENTITY btnConsoleErrors       "Errors">
-<!ENTITY btnConsoleInfo         "Info">
-<!ENTITY btnConsoleWarnings     "Warnings">
-<!ENTITY btnConsoleLog          "Log">
+
+
+
+
 <!ENTITY btnConsoleXhr          "XHR">
 <!ENTITY btnConsoleReflows      "রিফ্লো">
+<!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
+  -  the toolbar. It shows or hides messages that the web developer inserted on
+  -  the page for debugging purposes, using calls on the HTTP server. -->
+
+
+
+
+
+
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
 
@@ -87,7 +78,7 @@
 <!ENTITY btnConsoleWindowlessWorkers "অ্যাড অন বা chrome কর্মীরা">
 
 <!ENTITY filterOutput.placeholder "আউটপুট ফিল্টার করুন">
-<!ENTITY btnClear.label        "মুছুন(r)">
+<!ENTITY btnClear.label        "মুছুন">
 <!ENTITY btnClear.tooltip      "Clear the Web Console output">
 <!ENTITY btnClear.accesskey    "r">
 

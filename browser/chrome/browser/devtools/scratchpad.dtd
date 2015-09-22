@@ -23,24 +23,24 @@
 <!ENTITY window.title                 "খসড়া খাতা">
 
 <!ENTITY fileMenu.label               "ফাইল">
-<!ENTITY fileMenu.accesskey           "ফ">
+<!ENTITY fileMenu.accesskey           "F">
 
 <!ENTITY newWindowCmd.label           "নতুন উইন্ডো">
-<!ENTITY newWindowCmd.accesskey       "ন">
+<!ENTITY newWindowCmd.accesskey       "N">
 <!ENTITY newWindowCmd.commandkey      "n">
 
 <!ENTITY openFileCmd.label            "ফাইল খুলুন…">
-<!ENTITY openFileCmd.accesskey        "ফ">
+<!ENTITY openFileCmd.accesskey        "O">
 <!ENTITY openFileCmd.commandkey       "o">
 
 <!ENTITY openRecentMenu.label         "সম্প্রতি ব্যবহৃত ফাইল খুলুন">
-<!ENTITY openRecentMenu.accesskey     "স">
+<!ENTITY openRecentMenu.accesskey     "R">
 
 <!ENTITY revertCmd.label              "প্রত্যাবর্তন করুন…">
 <!ENTITY revertCmd.accesskey          "প">
 
 <!ENTITY saveFileCmd.label            "সংরক্ষণ">
-<!ENTITY saveFileCmd.accesskey        "স">
+<!ENTITY saveFileCmd.accesskey        "S">
 <!ENTITY saveFileCmd.commandkey       "s">
 
 <!ENTITY saveFileAsCmd.label          "নতুন রূপে সংরক্ষণ…">
@@ -48,13 +48,13 @@
 
 <!ENTITY closeCmd.label               "বন্ধ করুন">
 <!ENTITY closeCmd.key                 "W">
-<!ENTITY closeCmd.accesskey           "ব">
+<!ENTITY closeCmd.accesskey           "C">
 
 <!ENTITY viewMenu.label               "প্রদর্শন">
-<!ENTITY viewMenu.accesskey           "প">
+<!ENTITY viewMenu.accesskey           "V">
 
 <!ENTITY lineNumbers.label             "লাইন সংখ্যা দেখান">
-<!ENTITY lineNumbers.accesskey         "ল">
+<!ENTITY lineNumbers.accesskey         "L">
 
 <!ENTITY wordWrap.label                "পাঠ্য মোড়ান">
 <!ENTITY wordWrap.accesskey            "W">
@@ -68,32 +68,32 @@
 <!-- + is above this key on many keyboards -->
 <!ENTITY largerFont.commandkey2       "="> 
 
-<!ENTITY smallerFont.label            "অপেক্ষাকৃত ছোট হরফ(m)">
+<!ENTITY smallerFont.label            "অপেক্ষাকৃত ছোট হরফ">
 <!ENTITY smallerFont.accesskey        "m">
 <!ENTITY smallerFont.commandkey       "-">
 
 <!ENTITY normalSize.label             "স্বাভাবিক মাপ">
-<!ENTITY normalSize.accesskey         "স">
+<!ENTITY normalSize.accesskey         "N">
 <!ENTITY normalSize.commandkey        "0">
 
 <!ENTITY editMenu.label               "সম্পাদনা">
-<!ENTITY editMenu.accesskey           "স">
+<!ENTITY editMenu.accesskey           "E">
 
 <!ENTITY run.label                    "সঞ্চালনা">
-<!ENTITY run.accesskey                "স">
+<!ENTITY run.accesskey                "R">
 <!ENTITY run.key                      "r">
 
 <!ENTITY inspect.label                "পরীক্ষণ">
-<!ENTITY inspect.accesskey            "প">
+<!ENTITY inspect.accesskey            "I">
 <!ENTITY inspect.key                  "i">
 
 <!ENTITY display.label                "প্রদর্শন">
-<!ENTITY display.accesskey            "প">
+<!ENTITY display.accesskey            "D">
 <!ENTITY display.key                  "l">
 
-<!ENTITY pprint.label                 "প্রিটি প্রিন্ট">
+<!ENTITY pprint.label                 "ভালো প্রিন্ট">
 <!ENTITY pprint.key                   "p">
-<!ENTITY pprint.accesskey             "প">
+<!ENTITY pprint.accesskey             "P">
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
   -  menu in the text area. It refers to the JavaScript Environment (or context)
@@ -106,7 +106,7 @@
 
 
 <!ENTITY contentContext.label         "তথ্য">
-<!ENTITY contentContext.accesskey     "ত">
+<!ENTITY contentContext.accesskey     "C">
 <!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
   -  to select an execution environment for the browser window itself as opposed
   -  to content. This is a feature for browser and addon developers and only
