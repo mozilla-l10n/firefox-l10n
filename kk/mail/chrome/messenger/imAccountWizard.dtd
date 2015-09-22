@@ -14,14 +14,15 @@
 <!ENTITY accountPasswordField.label   "Пароль:">
 
 
+<!ENTITY accountAdvancedTitle.label   "Қосымша баптаулары">
 
-
+<!ENTITY accountAdvanced.newMailNotification.label   "Жаңа хат туралы хабарлау">
 
 <!ENTITY accountAliasField.label      "Бүркеншік:">
 
 
-
-
+<!ENTITY accountProxySettings.change.label     "Өзгерту…">
+<!ENTITY accountProxySettings.change.accessKey "з">
 
 
 
