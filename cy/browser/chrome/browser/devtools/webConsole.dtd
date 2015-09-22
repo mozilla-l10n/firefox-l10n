@@ -10,24 +10,6 @@
 
 <!ENTITY window.title "Consol Gwe">
 <!ENTITY browserConsole.title "Consol y Porwr">
-
-<!ENTITY networkPanel.requestURLColon             "URL sy'n Gofyn:">
-<!ENTITY networkPanel.requestMethodColon          "Dull Gofyn:">
-<!ENTITY networkPanel.statusCodeColon             "Cod Statws:">
-
-<!ENTITY networkPanel.requestHeaders              "Pennyn Gofyn">
-<!ENTITY networkPanel.requestCookie               "Cwci wedi ei Anfon">
-<!ENTITY networkPanel.requestBody                 "Corff sy'n Gofyn">
-<!ENTITY networkPanel.requestFormData             "Data Ffurflen Anfonwyd">
-
-<!ENTITY networkPanel.responseHeaders             "Pennyn Ymateb">
-<!ENTITY networkPanel.responseCookie              "Cwci wedi ei Dderbyn">
-<!ENTITY networkPanel.responseBody                "Corff Ymateb">
-<!ENTITY networkPanel.responseBodyCached          "Data Cadwyd">
-<!ENTITY networkPanel.responseBodyUnknownType     "Cynnwys o Fath Anyhysbys">
-<!ENTITY networkPanel.responseNoBody              "Corff Dim Ymateb">
-<!ENTITY networkPanel.responseImage               "Delwedd Derbyniwyd">
-<!ENTITY networkPanel.responseImageCached         "Delwedd Cadwyd">
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
 
@@ -69,12 +51,21 @@
 <!ENTITY btnPageLogging.label   "Cofnodi">
 <!ENTITY btnPageLogging.tooltip "Anfonwyd negeseuon cofnod at gwrthrych window.console">
 <!ENTITY btnPageLogging.accesskey3 "o">
-<!ENTITY btnConsoleErrors       "Gwallau">
-<!ENTITY btnConsoleInfo         "Gwybodaeth">
-<!ENTITY btnConsoleWarnings     "Rhybuddion">
-<!ENTITY btnConsoleLog          "Cofnod">
+
+
+
+
 <!ENTITY btnConsoleXhr          "XHR">
 <!ENTITY btnConsoleReflows      "Eil-lifau">
+<!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
+  -  the toolbar. It shows or hides messages that the web developer inserted on
+  -  the page for debugging purposes, using calls on the HTTP server. -->
+
+
+
+
+
+
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
 
