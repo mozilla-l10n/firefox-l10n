@@ -24,10 +24,7 @@
 <!ENTITY  addonExceptions.accesskey     "E">
 
 
-<!ENTITY  passwords.label               "රහස්පදය">
 
-<!ENTITY  rememberPasswords.label       "මෙම අඩවිය සඳහා රහස්පදය මතකතබා ගන්න">
-<!ENTITY  rememberPasswords.accesskey   "R">
 <!ENTITY  passwordExceptions.label      "හැරදැමීම්...">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
@@ -36,5 +33,4 @@
 <!ENTITY  changeMasterPassword.label     "ප්‍රධාන රහස්පදය වෙනස්කරන්න...">
 <!ENTITY  changeMasterPassword.accesskey "M">
 
-<!ENTITY  savedPasswords.label            "සුරැකු රහස්පද…">
-<!ENTITY  savedPasswords.accesskey        "P">
+
