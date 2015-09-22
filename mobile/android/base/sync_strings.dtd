@@ -197,6 +197,7 @@
 
 <!ENTITY fxaccount_status_header2 'Firefox налог'>
 <!ENTITY fxaccount_status_signed_in_as 'Пријављен као'>
+<!ENTITY fxaccount_status_manage_account 'Управљај налогом'>
 <!ENTITY fxaccount_status_auth_server 'Налог сервера'>
 <!ENTITY fxaccount_status_sync_now 'Синхронизуј сада'>
 <!ENTITY fxaccount_status_syncing2 'Синхронизујем…'>
