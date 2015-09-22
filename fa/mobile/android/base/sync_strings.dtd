@@ -176,6 +176,7 @@
 
 
 
+
 <!ENTITY fxaccount_status_sync_server "کارگزار هم‌گام‌سازی">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: فعال شد">
