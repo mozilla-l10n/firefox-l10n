@@ -72,7 +72,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY notSignedIn.label           "Sètz pas connectat.">
 <!ENTITY signIn.label                "Connexion">
 
-<!ENTITY manage.label                "Gerir">
+
 <!ENTITY disconnect.label            "Desconnectar...">
 <!ENTITY verify.label                "Verificar l'adreça electronica">
 <!ENTITY forget.label                "Doblidar aquesta adreça electronica">
