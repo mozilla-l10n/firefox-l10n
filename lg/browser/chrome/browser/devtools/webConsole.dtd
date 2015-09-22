@@ -10,23 +10,6 @@
 
 <!ENTITY window.title "Wokolera Kumutimbagano">
 
-
-
-
-
-<!ENTITY networkPanel.requestHeaders              "Ssaba Emitwe">
-<!ENTITY networkPanel.requestCookie               "Kuuki Ewerezeddwa">
-<!ENTITY networkPanel.requestBody                 "Ssaba Omubiri">
-<!ENTITY networkPanel.requestFormData             "Data ali mu Fomu Awerezeddwa">
-
-<!ENTITY networkPanel.responseHeaders             "Emittwe ejje Byokuddamu">
-
-<!ENTITY networkPanel.responseBody                "Omubiiri gwe'Byokuddamu">
-<!ENTITY networkPanel.responseBodyCached          "Data Atterekedwa Okumpi">
-<!ENTITY networkPanel.responseBodyUnknownType     "Ekiika kye Byomunda Ekitamanyiddwa">
-<!ENTITY networkPanel.responseNoBody              "Tewali Mubiiri gwe'Kyokuddamu">
-<!ENTITY networkPanel.responseImage               "Ekifananyi Ekifuniddwa">
-<!ENTITY networkPanel.responseImageCached         "Ekifananyi Ekiterekeddwa">
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
 
@@ -61,10 +44,19 @@
   -  console.error(). -->
 <!ENTITY btnPageLogging.tooltip "Wandika obubaka obuwerezebwa ku kantu ka window.console">
 
-<!ENTITY btnConsoleErrors       "Ensobi">
-<!ENTITY btnConsoleInfo         "Bubaka">
-<!ENTITY btnConsoleWarnings     "Okulabula">
-<!ENTITY btnConsoleLog          "Wandika">
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
+  -  the toolbar. It shows or hides messages that the web developer inserted on
+  -  the page for debugging purposes, using calls on the HTTP server. -->
+
+
+
+
 
 
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"

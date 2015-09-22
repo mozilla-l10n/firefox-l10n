@@ -22,10 +22,7 @@
 <!ENTITY  addonExceptions.accesskey     "j">
 
 
-<!ENTITY  passwords.label               "Ebisumuluzo">
 
-<!ENTITY  rememberPasswords.label       "Jjukira ebisumuluzo bye'ebibanja">
-<!ENTITY  rememberPasswords.accesskey   "b">
 <!ENTITY  passwordExceptions.label      "Okujjako…">
 <!ENTITY  passwordExceptions.accesskey  "k">
 
@@ -34,5 +31,4 @@
 <!ENTITY  changeMasterPassword.label     "Kyuusa Ekisumuluzo Ekifuga byonna…">
 <!ENTITY  changeMasterPassword.accesskey "E">
 
-<!ENTITY  savedPasswords.label            "Ebisumuluzo Ebiterekeddwa…">
-<!ENTITY  savedPasswords.accesskey        "E">
+
