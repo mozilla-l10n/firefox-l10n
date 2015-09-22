@@ -21,8 +21,8 @@
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 <!ENTITY dnsNotFound.longDesc4 "<ul> 
 <li>စာရိုက်မှားခြင်းအတွက် လိပ်စာကို စစ်ဆေးပါ။ အောက်ပါပုံစံအတိုင်း ဖြစ်နိုင်သည်။ 
-<strong>www</strong>.example.com ကို ရိုက်ရမည့်အစား</li> 
-<strong>ww</strong>.example.com  ကဲ့သို့ ရိုက်ထားခြင်း
+<strong>www</strong>.example.com ကို ရိုက်ရမည့်အစား
+<strong>ww</strong>.example.com  ကဲ့သို့ ရိုက်ထားခြင်း</li>
 <div id='searchbox'> 
 <input id='searchtext' type='search'></input> 
 <button id='searchbutton'>Search</button> 
@@ -123,7 +123,10 @@
 </ul>">
 
 <!ENTITY nssFailure2.title "လုံခြုံတဲ့ ချိတ်ဆက်မှု ပျက်သွားတယ်">
-<!ENTITY nssFailure2.longDesc2 "<p>သင်ကြည့်ရန်ကြိုးစားနေသော စာမျက်နှာကို မဖော်ပြနိုင်ပါ။ အဘယ့်ကြောင့်ဆိုသော် လက်ခံရရှိထားသော အချက်အလက်၏ ထောက်ခံချက်ကို အတည်မပြုနိုင်သောကြောင့် ဖြစ်သည်။ </p><ul><li>ဒီပြဿနာကို အသိပေးရန် ကျေးဇူးပြု၍ ဝဘ်ဆိုဒ်ပိုင်ရှင်ထံသို့ ဆက်သွယ်ပါ</li></ul>">
+<!ENTITY nssFailure2.longDesc2 "<ul> 
+<li> သင်ကြည့်ရန်ကြိုးစားနေသော စာမျက်နှာကို မဖော်ပြနိုင်ပါ။ အဘယ့်ကြောင့်ဆိုသော် လက်ခံရရှိထားသော အချက်အလက်၏ ထောက်ခံချက်ကို အတည်မပြုနိုင်သောကြောင့် ဖြစ်သည်။</li> 
+<li>ဒီပြဿနာကို အသိပေးရန် ကျေးဇူးပြု၍ ဝဘ်ဆိုဒ်ပိုင်ရှင်ထံသို့ ဆက်သွယ်ပါ။</li> 
+</ul>">
 
 <!ENTITY nssBadCert.title "လုံခြုံတဲ့ ချိတ်ဆက်မှု ပျက်သွားတယ်">
 <!ENTITY nssBadCert.longDesc2 "<ul> 

@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label "ဘာတွေကို ချိတ်ဆက်ရယူမလဲ">
 <!ENTITY sync.configure.engines.sync.my.title.label "ချိတ်ဆက်ရယူ...">
 <!ENTITY sync.configure.engines.title.bookmarks "စာအမှတ်များ">
-<!ENTITY sync.configure.engines.title.passwords "စကားဝှက်များ">
+
 <!ENTITY sync.configure.engines.title.history "မှတ်တမ်း">
 <!ENTITY sync.configure.engines.title.tabs "ခလုပ်ပြားများ">
 <!-- Common text -->
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "ကိုယ်ရေးကိုယ်တာ အသိပေးချက်">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label; မှကြိုဆိုပါတယ်">
-<!ENTITY fxaccount_getting_started_description "သင့်အကောင့်သို့ ဝင်ရောက်ပြီး တပ်ဗ်များ၊ စာအမှတ်များ၊ ပတ်စ်ဝတ်အား ချိတ်ဆက်ပါ">
+
 <!ENTITY fxaccount_getting_started_get_started "စတင်ပါ">
 <!ENTITY fxaccount_getting_started_old_firefox "&syncBrand.shortName.label; ဗားရှင်း အဟောင်းကို သုံးနေပါသလား?">
 <!-- Localization note: the Firefox below should not change with the
@@ -197,6 +197,7 @@
 
 <!ENTITY fxaccount_status_header2 "မီးမြေခွေးအကောင့်">
 <!ENTITY fxaccount_status_signed_in_as "ဝင်ရောက်မည်">
+
 <!ENTITY fxaccount_status_auth_server "အကောင့်ဆာဗာ">
 <!ENTITY fxaccount_status_sync_now "ယခုချိတ်ပါ">
 <!ENTITY fxaccount_status_syncing2 "ချိတ်နေသှ်...">
@@ -212,7 +213,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating "သင့်မီးမြေခွေး အကောင့်အား ဝင်ရန် ထိပါ">
 <!ENTITY fxaccount_status_bookmarks "စာအမှတ်များ">
 <!ENTITY fxaccount_status_history "မှတ်တမ်း">
-<!ENTITY fxaccount_status_passwords "စကားဝှက်များ">
+
 <!ENTITY fxaccount_status_tabs "ဖွင့်ထားသောတပ်ဗ်များ">
 <!ENTITY fxaccount_status_legal "ဥပဒေရေးရာ" >
 <!-- Localization note: when tapped, the following two strings link to
@@ -230,6 +231,7 @@
 <!ENTITY fxaccount_remove_account_toast "မီးမြေခွေးအကောင့် &formatS; ဖယ်ရှားပြီး">
 
 <!ENTITY fxaccount_remove_account_menu_item "အကောင့် ပယ်ဖျက်ရန်">
+
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 
