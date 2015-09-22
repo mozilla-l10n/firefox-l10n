@@ -10,9 +10,6 @@
 <!ENTITY intro.sadLink             "Mam kilka uwag">
 <!ENTITY intro.maybeLater          "Może później">
 
-<!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
-<!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
-<!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 <!ENTITY support.pre3              "Zajrzyj na ">
 <!ENTITY support.link2             "stronę pomocy Mozilli">
 <!ENTITY support.post3              ", gdzie znajdziesz rozwiązania powszechnych problemów.">
@@ -20,8 +17,6 @@
 <!ENTITY happy.header              "Małe pandy radują się">
 <!ENTITY happy.message "Jeśli lubisz naszą przeglądarkę, wystaw jej ocenę na Google Play!">
 
-<!-- LOCALIZATION NOTE (happy.finePrint): "feels great" — Another exaggeration where we're trying to
-     get people to rate us by playfully telling them there's a benefit in it for them as well. -->
 <!ENTITY happy.finePrint           "Zajmie to mniej niż minutę i pomoże innym użytkownikom.">
 
 <!ENTITY happy.ratingLink          "Tak, przejdź do sklepu Google Play">
@@ -33,17 +28,11 @@
 <!ENTITY sad.placeholder           "Wprowadź tutaj swoją opinię">
 <!ENTITY sad.lastSite2              "Dodaj ostatnio odwiedzoną stronę">
 
-<!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 <!ENTITY sad.urlPlaceholder        "http://">
 <!ENTITY sad.thanksHeader2          "Dzięki">
 
-<!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
-     and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
 <!ENTITY sad.thanksMessageTop      "Praca nad ulepszeniem przeglądarki &brandShortName; wre bez przerwy. Mamy ludzi, którzy przejrzą wszystkie uwagi i zrobią, co w ich mocy, żeby naprawić to, co nie działa.">
 
-<!-- LOCALIZATION NOTE (sad.thanksMessageBottom): We're suggesting that there will be consequences for the people working
-     on Firefox if they don't resolve the user's problem, like "or if they don't fix it, we'll fire them." If this doesn't
-     work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 <!ENTITY sad.thanksMessageBottom   "">
 
 <!ENTITY feedback.privacy2          "Zadbaj o swoją prywatność i nie umieszczaj żadnych danych osobowych wśród swoich pomysłów.">

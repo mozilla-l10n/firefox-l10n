@@ -8,7 +8,5 @@
 <!ENTITY aboutDevices.addDeviceHeader    "Dodaj urządzenie">
 <!ENTITY aboutDevices.roku               "Roku">
 <!ENTITY aboutDevices.chromecast         "Chromecast">
-<!-- Localization note (aboutDevices.placeholder): this is the hint shown to the
-     user prompting them to input the IP address of a casting device. -->
 <!ENTITY aboutDevices.placeholder        "Adres IP">
 <!ENTITY aboutDevices.connectManually    "Połącz ręcznie">

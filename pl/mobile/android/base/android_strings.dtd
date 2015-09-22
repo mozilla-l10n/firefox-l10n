@@ -21,8 +21,6 @@
 <!ENTITY firstrun_import_dialog_button "Prześlij">
 <!ENTITY firstrun_import_progress_title "Przesyłanie">
 
-<!-- Localization note: These are used as the titles of different pages on the home screen.
-     They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "Zakładki">
 <!ENTITY  history_title "Historia">
 <!ENTITY  reading_list_title "Do przeczytania">
@@ -81,9 +79,6 @@
 <!ENTITY new_tab_opened "Otwarto nową kartę">
 <!ENTITY new_private_tab_opened "Otwarto nową kartę prywatną">
 <!ENTITY new_private_tab "Nowa karta prywatna">
-<!-- Localization note (switch_button_message): This string should be as short
-as possible because it's shown as a label in a toast.  Ideally, this string
-is upper-case, to match Google and Android's convention. -->
 <!ENTITY switch_button_message "PRZEJDŹ">
 <!ENTITY tab_title_prefix_is_playing_audio "Odtwarza dźwięk – &formatS;">
 
@@ -95,16 +90,10 @@ is upper-case, to match Google and Android's convention. -->
 <!ENTITY pref_category_customize_summary "Strona domowa, wyszukiwanie, karty, importowanie">
 <!ENTITY pref_category_customize_alt_summary "Strona domowa, wyszukiwanie, karty, kolejkowanie kart, importowanie">
 
-<!-- Localization note (pref_category_language) : This is the preferences
-section in which the user picks the locale in which to display Firefox UI.
-The locale includes both language and region concepts. -->
 <!ENTITY pref_category_language "Język">
 <!ENTITY pref_category_language_summary "Zmień język przeglądarki">
 <!ENTITY pref_browser_locale "Język przeglądarki">
 
-<!-- Localization note (locale_system_default) : This string indicates that
-    Firefox will use the locale currently selected in Android's settings
-    to display browser chrome. -->
 <!ENTITY locale_system_default "Domyślny język systemu">
 
 <!ENTITY overlay_share_bookmark_btn_label "Dodaj zakładkę">
@@ -135,11 +124,6 @@ The locale includes both language and region concepts. -->
 <!ENTITY pref_category_search_restore_defaults "Przywróć wyszukiwarki">
 <!ENTITY pref_search_restore_defaults "Przywróć domyślne">
 <!ENTITY pref_search_restore_defaults_summary "Przywróć domyślne">
-<!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
-     advisory message on the customise search providers settings page explaining how to add new
-     search providers.
-     The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. -->
 <!ENTITY pref_search_hint "RADA: Możesz dodać każdą witrynę do swojej listy wyszukiwarek, przytrzymując na niej pole wyszukiwania, a następnie stukając ikonę &formatI;.">
 <!ENTITY pref_category_devtools "Narzędzia dla programistów">
 <!ENTITY pref_developer_remotedebugging "Zdalne debugowanie">
@@ -157,9 +141,6 @@ The locale includes both language and region concepts. -->
 <!ENTITY pref_category_home_panels "Panele">
 <!ENTITY home_add_panel_title "Dodaj nowy panel">
 <!ENTITY home_add_panel_empty "Niestety nie znaleźliśmy żadnych paneli do dodania.">
-<!-- Localization note (home_add_panel_installed):
-he &formatS; will be replaced with the name of the new panel the user just
-selected to be added to the home page. -->
 <!ENTITY home_add_panel_installed "Dodano „&formatS;” do strony domowej">
 <!ENTITY pref_category_home_content_settings "Ustawienia treści">
 <!ENTITY pref_home_updates "Automatyczne aktualizacje">
@@ -172,7 +153,6 @@ selected to be added to the home page. -->
 <!ENTITY home_homepage_title "Ustaw stronę domową">
 <!ENTITY home_homepage_use_current_tab "Użyj bieżącej karty">
 
-<!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Dostosuj">
 <!ENTITY pref_header_display "Wyświetlanie">
 <!ENTITY pref_header_privacy_short "Prywatność">
@@ -229,11 +209,6 @@ selected to be added to the home page. -->
 <!ENTITY pref_font_size_large "Duży">
 <!ENTITY pref_font_size_xlarge "Bardzo duży">
 <!ENTITY pref_font_size_set "Ustaw">
-<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
-(or combination of characters) is used to decrease the preview font size; a larger version of the
-same character/combination is used to increase the preview font size. It should be a concise
-representation of the language it is used in that will help show the text in the preview will change
-size. -->
 <!ENTITY pref_font_size_adjust_char "Aa">
 
 <!ENTITY pref_font_size_preview_text "Chyży ryży lisek skacze przez wysoko postawioną poprzeczkę dzięki szybkości, łatwości w dostosowywaniu go do potrzeb użytkownika i zwiększonym bezpieczeństwie. Jesteśmy organizacją non-profit, dzięki czemu możemy pracować nad innowacjami służącymi Twojemu dobru bez potrzeby pójścia na żaden kompromis. To oznacza przyjemniejsze użytkowanie aplikacji i lepszą przyszłość dla Sieci.">
@@ -286,12 +261,12 @@ size. -->
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;. &datareporting_notification_action_long;">
 
 <!ENTITY datareporting_fhr_title "&brandShortName; Health Report">
-<!ENTITY datareporting_fhr_summary2 "Firefox Health Report ułatwia zrozumienie wydajności przeglądarki i udostępnia dane o jej stanie organizacji &vendorShortName;."><!-- check healthReportDesc.label -->
+<!ENTITY datareporting_fhr_summary2 "Firefox Health Report ułatwia zrozumienie wydajności przeglądarki i udostępnia dane o jej stanie organizacji &vendorShortName;.">
 <!ENTITY datareporting_abouthr_title "Wyświetl">
 <!ENTITY datareporting_telemetry_title "Telemetria">
-<!ENTITY datareporting_telemetry_summary "Udostępnianie organizacji &vendorShortName; danych o wydajności, wykorzystaniu, modyfikacjach przeglądarki oraz o sprzęcie, na którym działa, ułatwia ulepszanie programu &brandShortName;."><!-- check telemetryDesc.label -->
-<!ENTITY datareporting_crashreporter_summary "&brandShortName; może przesyłać zgłoszenia awarii, aby ułatwić organizacji &vendorShortName; poprawianie stabilności i bezpieczeństwa przeglądarki."><!-- check crashReporterDesc.label -->
-<!ENTITY datareporting_crashreporter_title_short "Awarie"><!-- check crashReporterSection.label -->
+<!ENTITY datareporting_telemetry_summary "Udostępnianie organizacji &vendorShortName; danych o wydajności, wykorzystaniu, modyfikacjach przeglądarki oraz o sprzęcie, na którym działa, ułatwia ulepszanie programu &brandShortName;.">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; może przesyłać zgłoszenia awarii, aby ułatwić organizacji &vendorShortName; poprawianie stabilności i bezpieczeństwa przeglądarki.">
+<!ENTITY datareporting_crashreporter_title_short "Awarie">
 <!ENTITY datareporting_wifi_title2 "Usługi lokalizacji organizacji &vendorShortName;">
 <!ENTITY datareporting_wifi_geolocation_summary4 "Pomóż organizacji &vendorShortName; mapować świat! Udostępniaj przybliżone informacje o lokalizacji urządzenia poprzez Wi-Fi i dane sieci komórkowej, aby pomóc ulepszać usługi geolokalizacyjne">
 
@@ -300,7 +275,6 @@ size. -->
 <!ENTITY pref_update_autodownload_never "Nigdy">
 <!ENTITY pref_update_autodownload_always "Zawsze">
 
-<!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "Pomoc">
 
 <!ENTITY quit "Zakończ">
@@ -320,14 +294,11 @@ size. -->
 <!ENTITY find_in_page "Znajdź na stronie">
 <!ENTITY tools "Narzędzia">
 
-<!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
-     as alternate text for accessibility. They are not visible in the UI. -->
 <!ENTITY find_text "Znajdź na stronie">
 <!ENTITY find_prev "Poprzedni">
 <!ENTITY find_next "Następny">
 <!ENTITY find_close "Zamknij">
 
-<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used as alternate text for accessibility. They are not visible in the UI. -->
 <!ENTITY media_sending_to "Przekazywanie do urządzenia">
 <!ENTITY media_play "Odtwórz">
 <!ENTITY media_pause "Pauza">
@@ -398,8 +369,6 @@ size. -->
 <!ENTITY reading_list_time_minutes2 "&formatD; min">
 <!ENTITY reading_list_time_over_an_hour "Ponad godzinę">
 
-<!-- Localization note : These strings are used as alternate text for accessibility.
-     They are not visible in the UI. -->
 <!ENTITY page_action_dropmarker_description "Dodatkowe czynności">
 
 <!ENTITY masterpassword_create_title "Utwórz hasło główne">
@@ -417,8 +386,6 @@ size. -->
 <!ENTITY button_copy "Kopiuj">
 
 <!ENTITY home_top_sites_title "Popularne">
-<!-- Localization note (home_top_sites_add): This string is used as placeholder
-     text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Dodaj stronę">
 
 <!ENTITY home_title "&brandShortName;: Strona domowa">
@@ -433,20 +400,11 @@ size. -->
 <!ENTITY home_most_recent_empty "Tutaj pojawiają się ostatnio odwiedzone witryny.">
 <!ENTITY home_most_recent_emptyhint2 "Psst: W &formatS1;nowej karcie prywatnej&formatS2; historia nie jest zapisywana.">
 <!ENTITY home_reading_list_empty "Tutaj pojawiają się artykuły zachowane na później.">
-<!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
-     as an advisory message on how to add content to the reading list when the reading list empty.
-The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
-it is applicable. -->
 <!ENTITY home_reading_list_hint2 "RADA: Zachowaj artykuły do przeczytania później, przytrzymując ikonę &formatI; po jej pojawieniu się na pasku tytułu.">
-<!-- Localization note (home_reading_list_hint_accessible): This string is used
-     as alternate text for accessibility. It is not visible in the UI. -->
 <!ENTITY home_reading_list_hint_accessible "RADA: Zachowaj artykuły do przeczytania później, przytrzymując przycisk widoku ułatwionego czytania po jego pojawieniu się na pasku tytułu.">
 
-<!-- Localization note (home_default_empty): This string is used as the default text when there is no data to show in an about:home panel that was created by an add-on. -->
 <!ENTITY home_default_empty "Nie znaleźliśmy treści do wyświetlenia na tym panelu.">
 
-<!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
-    previous location in the navigation, such as the previous folder -->
 <!ENTITY home_move_up_to_filter "Wróć do &formatS;">
 
 <!ENTITY home_remote_tabs_one_hidden_device "Liczba ukrytych urządzeń: 1">
@@ -483,8 +441,6 @@ it is applicable. -->
 <!ENTITY suggestions_prompt3 "Włączyć podpowiedzi wyszukiwania?">
 <!ENTITY search_bar_item_desc "Szukaj w serwisie &formatS;">
 
-<!-- Localization note (num_tabs2) : Number of tabs is always more than one.
-     We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "Karty (&formatD;)">
 
 <!ENTITY identity_connected_to "Połączono z">
@@ -519,16 +475,12 @@ it is applicable. -->
                                          z systemu Android">
 <!ENTITY bookmarkhistory_import_wait "Proszę czekać…">
 
-<!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
-     replaced with the name of the search engine. The placeholder &formatS2; will be
-     replaced with the search query. -->
 <!ENTITY suggestion_for_engine "Szukaj „&formatS2;” za pomocą &formatS1;">
 
 <!ENTITY webapp_generic_name "Aplikacja">
 
 <!ENTITY searchable_description "Zakładki i historia">
 
-<!-- Updater notifications -->
 <!ENTITY updater_start_title2 "&brandShortName;: dostępne są nowe aktualizacje">
 <!ENTITY updater_start_select2 "Dotknij, aby zaktualizować">
 
@@ -540,7 +492,6 @@ it is applicable. -->
 <!ENTITY updater_apply_title2 "&brandShortName;: dostępne są nowe aktualizacje">
 <!ENTITY updater_apply_select2 "Dotknij, aby zaktualizować">
 
-<!-- Guest mode -->
 <!ENTITY new_guest_session "Nowa sesja gościnna">
 <!ENTITY exit_guest_session "Zakończ sesję gościnną">
 <!ENTITY guest_session_dialog_continue "Kontynuuj">
@@ -557,8 +508,6 @@ it is applicable. -->
 <!ENTITY colon ":">
 <!ENTITY percent "&formatS;&#37;&#37;">
 
-<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
-     They are never shown to users -->
 <!ENTITY actionbar_menu "Menu">
 <!ENTITY actionbar_done "Gotowe">
 

@@ -8,8 +8,6 @@
 <!ENTITY loadError.label "Błąd wczytywania strony" >
 <!ENTITY retry.label "Spróbuj ponownie" >
 
-<!-- Specific error messages -->
-
 <!ENTITY connectionFailure.title "Nie udało się nawiązać połączenia">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
@@ -39,7 +37,6 @@
   <li>Sprawdź, czy plik nie został przeniesiony, usunięty lub jego nazwa nie została zmieniona.</li>
 </ul>
 ">
-
 
 <!ENTITY generic.title "Ups.">
 <!ENTITY generic.longDesc "
@@ -164,15 +161,9 @@
 <!ENTITY corruptedContentError.title "Błąd: treść uszkodzona">
 <!ENTITY corruptedContentError.longDesc "<p>Strona, którą próbujesz obejrzeć, nie może być wyświetlona, ponieważ wykryto błąd w transmisji danych.</p><ul><li>Prosimy poinformować właścicieli witryny o tym problemie.</li></ul>">
 
-
 <!ENTITY securityOverride.linkText "Lub dodaj wyjątek…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Zabierz mnie stąd!">
 <!ENTITY securityOverride.exceptionButtonLabel "Dodaj wyjątek…">
-
-<!-- LOCALIZATION NOTE (securityOverride.warningText) - Do not translate the
-contents of the <xul:button> tags.  The only language content is the label= field,
-which uses strings already defined above. The button is included here (instead of
-netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!ENTITY securityOverride.warningContent "
 <p>Nie powinno się dodawać wyjątku, jeśli używasz połączenia internetowego, któremu nie możesz w pełni zaufać, lub jeśli zazwyczaj nie pokazuje się to ostrzeżenie na tym serwerze.</p>
