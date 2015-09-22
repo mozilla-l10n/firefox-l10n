@@ -104,9 +104,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
-
-
 <!ENTITY fullScreenMinimize.tooltip "Kugabanya ingano">
 <!ENTITY fullScreenRestore.tooltip "Kugaruraho">
 
@@ -114,6 +111,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+<!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
+     fullscreenWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring fullscreen.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
+
+<!ENTITY fullscreenWarning.beforeDomain.label "">
+
+
+<!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
+     exitDOMFullscreenMac.button): the "escape" button on PC keyboards
+     is uppercase, while on Mac keyboards it is lowercase -->
 
 
 
@@ -347,8 +356,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Oya">
+
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Yego">
+
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -393,6 +405,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
+
+
+
+
 
 
 <!ENTITY openLinkCmdInTab.label       "Gufungurira Ihuza mu Gafishi Gashya">
@@ -613,11 +629,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
 <!-- Strings for connection state warnings. -->
 
 
 
 <!-- Strings for connection state warnings in the subview. -->
+
+
 
 
 

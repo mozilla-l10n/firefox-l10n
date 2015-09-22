@@ -21,10 +21,7 @@
 <!ENTITY  addonExceptions.accesskey     "r">
 
 
-<!ENTITY  passwords.label               "Amagambobanga">
 
-<!ENTITY  rememberPasswords.label       "Kwibuka amagambobanga y'imbuga">
-<!ENTITY  rememberPasswords.accesskey   "g">
 <!ENTITY  passwordExceptions.label      "Amarengayobora...">
 <!ENTITY  passwordExceptions.accesskey  "A">
 
