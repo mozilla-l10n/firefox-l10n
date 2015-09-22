@@ -20,16 +20,16 @@
 <!ENTITY replaceButton.accessKey "I">
 <!ENTITY replaceAllButton.label "Ionadaigh Uile">
 <!ENTITY replaceAllButton.accessKey "a">
-<!ENTITY stopButton.label "Stad">
-<!ENTITY stopButton.accessKey "t">
+
+
 <!ENTITY userDictionary.label "Foclóir Pearsanta:">
 <!ENTITY moreDictionaries.label "Íosluchtaigh tuilleadh foclóirí…">
 <!ENTITY addToUserDictionaryButton.label "Cuir Focal Leis">
 <!ENTITY addToUserDictionaryButton.accessKey "u">
 <!ENTITY editUserDictionaryButton.label "Eagar…">
 <!ENTITY editUserDictionaryButton.accessKey "E">
-<!ENTITY recheckButton.label "Seiceáil an Leathanach Arís">
-<!ENTITY recheckButton.accessKey "S">
+
+
 <!ENTITY closeButton.label "Dún">
 <!ENTITY closeButton.accessKey "D">
 <!ENTITY sendButton.label "Seol">
