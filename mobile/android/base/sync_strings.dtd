@@ -197,6 +197,7 @@
 
 <!ENTITY fxaccount_status_header2 "บัญชี Firefox">
 <!ENTITY fxaccount_status_signed_in_as "ลงชื่อเข้าใช้เป็น">
+
 <!ENTITY fxaccount_status_auth_server "เซิร์ฟเวอร์บัญชี">
 <!ENTITY fxaccount_status_sync_now "ผสานข้อมูลทันที">
 <!ENTITY fxaccount_status_syncing2 "กำลังผสานข้อมูล…">
