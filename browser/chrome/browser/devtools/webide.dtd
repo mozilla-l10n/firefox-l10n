@@ -26,6 +26,7 @@
 <!ENTITY projectMenu_showPrefs_accesskey "e">
 <!ENTITY projectMenu_manageComponents_label "គ្រប់គ្រង​សមាសភាគ​បន្ថែម">
 <!ENTITY projectMenu_manageComponents_accesskey "M">
+<!ENTITY projectMenu_refreshTabs_label "ផ្ទាំង​ធ្វើ​ឲ្យ​ស្រស់">
 
 <!ENTITY runtimeMenu_label "ពេលវេលា​រត់">
 <!ENTITY runtimeMenu_accesskey "R">
