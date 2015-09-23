@@ -33,7 +33,7 @@
 
 <!ENTITY happy.ratingLink          "Da, mergi la Google Play">
 <!ENTITY happy.maybeLater2         "Poate mai târziu">
-<!ENTITY happy.noThanks            "Nu mulțumesc">
+<!ENTITY happy.noThanks            "Nu, mulțumesc">
 
 <!ENTITY sad.header                "O, nu!">
 <!ENTITY sad.message               "Ne pare rău că ai întâmpinat niște probleme cu &brandShortName;. Te rugăm să ne spui ce s-a întâmplat astfel încât să o putem remedia.">
