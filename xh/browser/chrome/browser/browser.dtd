@@ -114,7 +114,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "Qhagamshelanisa ngokutsha &syncBrand.shortName.label;">
 
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; yenziwe yasebenza">
-<!ENTITY syncStartPanel2.subTitle "&brandShortName; iza kuqalisa ukungqamanisa okomzuzwana.">
+<!ENTITY syncStartPanel2.subTitle "&brandShorterName; iza kuqalisa ukungqamanisa okomzuzwana.">
 
 
 <!ENTITY fullScreenMinimize.tooltip "Nciphisa">
@@ -705,11 +705,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionNotSecure "Unxibelelwano alukhuselekanga">
 <!ENTITY identity.connectionFile "Eli phepha liyagcinwa kwikhompyutha yakho.">
 
-<!ENTITY identity.connectionInternal "Le &brandShortName; ekhuselekileyo indawo yolawulo.">
+<!ENTITY identity.connectionInternal "Le &brandShorterName; ekhuselekileyo indawo yolawulo.">
 
 <!-- Strings for connection state warnings. -->
 
-<!ENTITY identity.activeBlocked "&brandShortName; ibhloke iinxalenye zeli phepha ezingakhuselekanga.">
+<!ENTITY identity.activeBlocked "&brandShorterName; ibhloke iinxalenye zeli phepha ezingakhuselekanga.">
 <!ENTITY identity.passiveLoaded "Iinxalenye zeli phepha azikhuselekangae (njengemifanekiso).">
 <!ENTITY identity.activeLoaded "Ulucimile ukhuseleko kweli phepha.">
 <!ENTITY identity.weakEncryption "Eli phepha lisebenzisa ukukhowuda okubuthathaka.">
@@ -719,10 +719,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.description.weakCipher "Uqhagamshelo kule webhsayithi lusebenzisa ukukhowuda okubuthathaka yaye alukho bucala.">
 <!ENTITY identity.description.weakCipher2 "Abanye abantu banokujonga inkcazelo yakho okanye batshintshe indlela esebenza iwebhsayithi.">
-<!ENTITY identity.description.activeBlocked "&brandShortName; ibhloke iinxalenye zeli phepha ezingakhuselekanga.">
+<!ENTITY identity.description.activeBlocked "&brandShorterName; ibhloke iinxalenye zeli phepha ezingakhuselekanga.">
 <!ENTITY identity.description.passiveLoaded "Uqhagamshelo lwakho alukho bucala yaye inkcazelo owabelana ngayo nale sayithi inokubonwa ngabanye.">
 <!ENTITY identity.description.passiveLoaded2 "Le webhsayithi ineziqulatho ezingakhuselekanga (njengemifanekiso).">
-<!ENTITY identity.description.passiveLoaded3 "Nangona &brandShortName; ibhloke esinye isiqulatho, kusekho isiqulatho kwiphepha elingakhuselekanga (njengemifanekiso).">
+<!ENTITY identity.description.passiveLoaded3 "Nangona &brandShorterName; ibhloke esinye isiqulatho, kusekho isiqulatho kwiphepha elingakhuselekanga (njengemifanekiso).">
 <!ENTITY identity.description.activeLoaded "Le webhsayithi inesiqulatho esingakhuselekanga (njengezikripti) yaye uqhagamshelo lwakho kuyo alukho bucala.">
 <!ENTITY identity.description.activeLoaded2 "Inkcazelo owabelana ngayo nale sayithi inokujongwa ngabanye (njengeephaswedi, imiyalezo, iikhredit khadi, njl. njl.).">
 
@@ -776,10 +776,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.directory.label "Uluhlu lokwenza zisebenze">
 <!ENTITY social.directory.text "Ungazenza iinkonzo zoKwabelana zisebenze kuluhlu.">
 <!ENTITY social.directory.button "Ndithathe undise apho!">
-<!ENTITY social.directory.introText "Cofa kwinkonzo ukuyifaka &brandShortName;.">
+<!ENTITY social.directory.introText "Cofa kwinkonzo ukuyifaka &brandShorterName;.">
 <!ENTITY social.directory.viewmore.text "Bona okuNinzi">
 
-<!ENTITY customizeMode.tabTitle "Qhelanisa &brandShortName;">
+<!ENTITY customizeMode.tabTitle "Qhelanisa &brandShorterName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Izixhobo neenkalo ezongezelelekileyo">
 <!ENTITY customizeMode.menuAndToolbars.empty "Ufuna izixhobo ezingakumbi?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Khetha kumawaka-waka ezongezelelo">
@@ -811,7 +811,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Zonke iiwindowu ezikwiskrini sakho ziya kwabiwa.">
 
 <!ENTITY trackingProtection.title "Itreka Ukhuseleko">
-<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; ibhloka iinxalenye zeli phepha ezinokutreka ukubhrawuza kwakho.">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShorterName; ibhloka iinxalenye zeli phepha ezinokutreka ukubhrawuza kwakho.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Le sayithi iquka ii-elementi ezinokutreka ukubrawuza kwakho. Uye walucima ukhuseleko.">
 <!ENTITY trackingProtection.notDetected3 "Azikho ii-elementi zokutreka ezifunyanisiweyo kweli phepha.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
