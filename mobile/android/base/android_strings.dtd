@@ -220,7 +220,7 @@
 <!ENTITY pref_tracking_protection_title "Cosaint ar lorg">
 <!ENTITY pref_tracking_protection_summary3 "Cumasaithe i mBrabhsáil Phríobháideach">
 <!ENTITY pref_donottrack_title "Ná lorgtar mé">
-<!ENTITY pref_donottrack_summary "Cuirfidh &brandShortName; in iúl do shuímh Ghréasáin gan tusa a lorg">
+<!ENTITY pref_donottrack_summary "Cuirfidh &brandShortName; in iúl do shuímh Ghréasáin gan tusa a lorg ar líne">
 
 <!ENTITY tracking_protection_prompt_title "Anois le Cosaint ar Lorg">
 <!ENTITY tracking_protection_prompt_text "Cuir cosc ar eilimintí rianaithe sa chaoi nach mbeidh imní ort.">
