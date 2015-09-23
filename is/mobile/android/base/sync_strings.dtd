@@ -197,7 +197,7 @@
 
 <!ENTITY fxaccount_status_header2 "Firefox reikningur">
 <!ENTITY fxaccount_status_signed_in_as "Innskrá sem ">
-
+<!ENTITY fxaccount_status_manage_account "Umsýsl reikninga">
 <!ENTITY fxaccount_status_auth_server "Netþjónn reiknings">
 <!ENTITY fxaccount_status_sync_now "Sync-a núna">
 <!ENTITY fxaccount_status_syncing2 "Er að sync-a...">
