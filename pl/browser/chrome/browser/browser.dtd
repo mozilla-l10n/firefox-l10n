@@ -393,6 +393,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchWithHeader.label "Szukaj z">
 <!ENTITY changeSearchSettings.button "Zmień ustawienia wyszukiwania">
 
+<!ENTITY searchInNewTab.label "Szukaj w nowej karcie">
+<!ENTITY searchInNewTab.accesskey "S">
+<!ENTITY searchSetAsDefault.label "Ustaw jako domyślną wyszukiwarkę">
+<!ENTITY searchSetAsDefault.accesskey "U">
+
 <!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label "Otwórz odnośnik w nowej karcie" >
