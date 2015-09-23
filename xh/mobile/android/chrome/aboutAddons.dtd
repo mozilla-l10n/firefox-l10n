@@ -11,5 +11,5 @@
 <!ENTITY addonAction.uninstall                  "Khupha okufakiweyo">
 <!ENTITY addonAction.undo                       "Qhaqha okwenzileyo">
 
-<!ENTITY addonUnsigned.message                  "Ezi zongezelelweyo azinakuqinisekiswa nge &brandShortName;">
+<!ENTITY addonUnsigned.message                  "Ezi zongezelelweyo azinakuqinisekiswa nge &brandShorterName;">
 <!ENTITY addonUnsigned.learnMore                "Funda ngakumbi">
