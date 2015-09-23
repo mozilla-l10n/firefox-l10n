@@ -112,7 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignIn.label "Iniciar sesión con &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Abriendo preferencias de &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Reconectar a &syncBrand.shortName.label;">
-
+<!ENTITY fxaUnverified.label "Verifica tu cuenta">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; habilitado">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; se sincronizará en un momento.">
 
@@ -131,11 +131,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY fullscreenWarning.beforeDomain.label "">
-
-
+<!ENTITY fullscreenWarning.afterDomain.label "está ahora en pantalla completa">
+<!ENTITY fullscreenWarning.generic.label "Este documento está ahora en pantalla completa">
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
+<!ENTITY exitDOMFullscreen.button "Salir de Pantalla Completa (Esc)">
 
 <!ENTITY leaveDOMFullScreen.label "Salir de pantalla completa">
 <!ENTITY leaveDOMFullScreen.accesskey "a">
