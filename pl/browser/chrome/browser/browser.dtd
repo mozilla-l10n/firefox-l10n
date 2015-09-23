@@ -104,10 +104,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "Zweryfikuj konto">
 <!ENTITY syncStartPanel2.heading "Włączono &syncBrand.shortName.label;">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; za moment rozpocznie synchronizację.">
-<!ENTITY syncErrorPanel.heading "Nie można połączyć się z &syncBrand.shortName.label;">
-<!ENTITY syncErrorPanel.subTitle "Zaloguj się, aby wznowić synchronizację.">
-<!ENTITY syncErrorPanel.signInButton.label "Zaloguj się">
-<!ENTITY syncErrorPanel.signInButton.accesskey "Z">
 
 <!ENTITY fullScreenMinimize.tooltip "Minimalizuj">
 <!ENTITY fullScreenRestore.tooltip "Przywróć">
