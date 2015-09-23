@@ -18,7 +18,7 @@
 <!ENTITY firstrun_import_title "Importar">
 <!ENTITY firstrun_import_message "Bienvenido a &brandShortName;">
 <!ENTITY firstrun_import_subtext "Importar tus marcadores e historial de otro navegador.">
-
+<!ENTITY firstrun_import_action "Transferir a &brandShortName;">
 <!ENTITY firstrun_import_dialog_button "Transferir">
 <!ENTITY firstrun_import_progress_title "Transfiriendo">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -435,6 +435,8 @@ size. -->
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
+<!ENTITY pref_magnifying_glass_enabled "Magnifica áreas pequeñas">
+<!ENTITY pref_magnifying_glass_enabled_summary "Alarga enlaces y campos de formularios cuando escribas cerca de ellos">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -726,6 +728,7 @@ desde Android">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
 <!ENTITY bookmarks_addons "Firefox: Personalizar con complementos">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "Firefox: Ayuda">
 <!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
 <!ENTITY bookmarks_marketplace "Firefox Marketplace">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
