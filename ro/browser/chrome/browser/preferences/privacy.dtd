@@ -4,7 +4,7 @@
 
 <!ENTITY tracking.label                 "Urmărire">
 
-<!ENTITY dntTrackingNotOkay4.label     "Solicitați ca site-urile să nu vă urmărească">
+<!ENTITY dntTrackingNotOkay4.label     "Solicită ca site-urile să nu te urmărească">
 <!ENTITY dntTrackingNotOkay4.accesskey "n">
 <!ENTITY doNotTrackInfo.label          "Află mai multe">
 <!ENTITY trackingProtection5.label     "Utilizează protecție față de urmărire">
@@ -13,8 +13,8 @@
 <!ENTITY trackingProtectionPBM5.label         "Utilizează protecția față de urmărire în ferestre private">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Aflați mai multe">
-
-
+<!ENTITY changeBlockList.label          "Schimbă lista de blocări">
+<!ENTITY changeBlockList.accesskey      "c">
 
 <!ENTITY  history.label                 "Istoric">
 
@@ -67,9 +67,9 @@
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
 
-<!ENTITY  rememberActions.pre.label           "Ai putea dori ">
+<!ENTITY  rememberActions.pre.label           "Poate dorești ">
 <!ENTITY  rememberActions.clearHistory.label  "să cureți istoricul recent">
-<!ENTITY  rememberActions.middle.label        ", sau ">
+<!ENTITY  rememberActions.middle.label        " sau ">
 <!ENTITY  rememberActions.removeCookies.label "să ștergi anumite cookie-uri">
 <!ENTITY  rememberActions.post.label          ".">
 
