@@ -21,7 +21,7 @@
 <!ENTITY hideThisAppCmdMac.key              "ס">
 <!ENTITY hideOtherAppsCmdMac.label          "הסתרת אחרים">
 <!ENTITY hideOtherAppsCmdMac.key            "צ">
-<!ENTITY showAllAppsCmdMac.label            "הצגת הכל">
+<!ENTITY showAllAppsCmdMac.label            "הראה הכול">
 
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX -->
 <!ENTITY quitApplicationCmdUnix.key          "Q">

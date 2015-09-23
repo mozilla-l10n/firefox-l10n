@@ -16,7 +16,6 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "ניהול חשבון">
 <!ENTITY manageAccount.accesskey      "נ">
-<!ENTITY viewQuota.label              "הצג מכסה">
 <!ENTITY changePassword2.label        "שינוי ססמה…">
 <!ENTITY myRecoveryKey.label          "מפתח השחזור שלי">
 <!ENTITY resetSync2.label             "איפוס Sync…">
@@ -40,6 +39,10 @@
 <!-- Device Settings -->
 <!ENTITY syncDeviceName.label       "שם ההתקן:">
 <!ENTITY syncDeviceName.accesskey   "ש">
+<!ENTITY fxaSyncDeviceName.label       "שם התקן">
+<!ENTITY changeSyncDeviceName.label "שינוי שם התקן…">
+<!ENTITY cancelChangeSyncDeviceName.label "ביטול">
+<!ENTITY saveChangeSyncDeviceName.label "שמירה">
 <!ENTITY unlinkDevice.label           "נתק התקן זה">
 
 <!-- Footer stuff -->
@@ -49,6 +52,7 @@
 <!-- Firefox Accounts stuff -->
 <!ENTITY fxaPrivacyNotice.link.label "הצהרת פרטיות">
 <!ENTITY determiningAcctStatus.label     "קביעת מצב החשבון שלך…">
+
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
@@ -56,6 +60,7 @@ both, to better adapt this sentence to their language.
 -->
 <!ENTITY signedInUnverified.beforename.label "הכתובת ">
 <!ENTITY signedInUnverified.aftername.label "אינה מאומתת.">
+
 <!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
 signedInLoginFailure.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
@@ -66,7 +71,7 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "לא מחובר לחשבון.">
 <!ENTITY signIn.label                "כניסה">
-<!ENTITY manage.label                "ניהול">
+<!ENTITY profilePicture.tooltip      "שינוי תמונת פרופיל">
 <!ENTITY disconnect.label            "התנתקות…">
 <!ENTITY verify.label                "אימות דואר אלקטרוני">
 <!ENTITY forget.label                "לשכוח מכתובת דואר אלקטרוני זו">
@@ -76,3 +81,15 @@ both, to better adapt this sentence to their language.
 <!ENTITY welcome.createAccount.label "יצירת חשבון">
 
 <!ENTITY welcome.useOldSync.label "משתמשים בגרסה ישנה יותר של Sync?">
+
+<!ENTITY signedOut.caption            "קחו את הרשת עמכם">
+<!ENTITY signedOut.accountBox.title   "התחברות עם &syncBrand.fxAccount.label;">
+<!ENTITY signedOut.accountBox.create  "יצירת חשבון">
+<!ENTITY signedOut.accountBox.signin  "כניסה">
+
+<!ENTITY signedIn.engines.label       "סנכרון בין התקנים">
+
+<!ENTITY mobilePromo.start            "הורדת Firefox עבור ">
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+<!ENTITY mobilePromo.androidLink      "Android™">
+<!ENTITY androidAttribution           "Android הנו סימן רשום של Google Inc.">

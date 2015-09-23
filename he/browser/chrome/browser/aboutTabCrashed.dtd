@@ -1,0 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY tabCrashed.header "החדשות הרעות תחילה: לשונית זו קרסה">
+<!ENTITY tabCrashed.message "החדשות הטובות: ניתן לסגור את הלשונית הזו, לשחזר אותה או לשחזר את כל הלשוניות שקרסו.">
+<!ENTITY tabCrashed.sendReport "שליחת דיווח קריסה תסייע למנוע חדשות רעות נוספות מסוג זה">
+<!ENTITY tabCrashed.reportSent "דיווח הקריסה כבר נשלח; תודה על עזרתך בשיפור &brandShortName;!">
+<!ENTITY tabCrashed.closeTab "סגירת לשונית זו">
+<!ENTITY tabCrashed.restoreTab "שחזור לשונית">
+<!ENTITY tabCrashed.restoreAll "שחזור כל הלשוניות שקרסו">

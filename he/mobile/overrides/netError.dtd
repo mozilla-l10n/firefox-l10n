@@ -11,17 +11,13 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "כישלון בהתחברות">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
 
 <!ENTITY deniedPortAccess.title "כתובת זו מוגבלת">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "שרת לא נמצא">
-<!ENTITY dnsNotFound.longDesc2 " <ul>
-  <li>בדוק כי הכתובת הוקלדה ללא שגיאות כגון
-    <strong>ww</strong>.example.com במקום <strong>www</strong>.example.com</li>
-  <li>אם אינך יכול לטעון כל דף, בדוק שקיים חיבור נתונים או Wi-Fi.</li>
-</ul>  ">
+<!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 
 <!ENTITY fileNotFound.title "קובץ לא נמצא">
 <!ENTITY fileNotFound.longDesc "
@@ -38,25 +34,17 @@
 ">
 
 <!ENTITY malformedURI.title "כתובת לא חוקית">
-<!ENTITY malformedURI.longDesc "
-<ul>
-  <li>כתובות אתרים מכתבות בדרך־כלל בתבנית של 
-    <strong>http://www.example.com/</strong></li>
-  <li>ודא שאתה משתמש בלוכסן קדמי
-(&quot;<strong>/</strong>&quot;).</li>
-</ul>
-">
+<!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY netInterrupt.title "החיבור הופסק">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
 <!ENTITY notCached.title "תוקף המסמך פג">
 <!ENTITY notCached.longDesc "<p>המסמך המבוקש לא זמין במטמון של &brandShortName;.</p><ul><li>כאמצעי זהירות, &brandShortName; לא יבקש שוב אוטומטית מסמכים רגישים.</li><li>לחץ נסה שוב כדי לבקש מחדש את המסמך מאתר האינטרנט.</li></ul>">
 
 <!ENTITY netOffline.title "מצב לא־מקוון">
-<!ENTITY netOffline.longDesc2 "<ul>
- <li>נסה שוב. &brandShortName; ינסה לפתוח חיבור ולטעון את הדף מחדש.</li>
-</ul>">
+<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY contentEncodingError.title "שגיאה בקידוד תוכן">
 <!ENTITY contentEncodingError.longDesc "
@@ -72,16 +60,9 @@
 ">
 
 <!ENTITY netReset.title "החיבור הופסק">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netTimeout.title "תם הזמן המוקצב לחיבור">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
 
-<!ENTITY protocolNotFound.title "פרוטוקול לא מוכר">
-<!ENTITY protocolNotFound.longDesc "
-<ul>
-  <li>ייתכן ואתה צריך להתקין תוכנה אחרת בשביל לפתוח את כתובת זו.</li>
-</ul>">
 
 <!ENTITY proxyConnectFailure.title "השרת המתווך דחה את ההתחברות">
 <!ENTITY proxyConnectFailure.longDesc "
@@ -91,12 +72,8 @@
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "שרת מתווך לא נמצא">
-<!ENTITY proxyResolveFailure.longDesc2 "
-<ul>
-  <li>וודא שהגדרות השרת המתווך נכונות.</li>
-  <li>בדוק שקיים חיבור נתונים פעיל או Wi-Fi.</li>
-</ul>
-">
+<!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY redirectLoop.title "הדף מבצע העברה לא תקינה">
 <!ENTITY redirectLoop.longDesc "
@@ -114,10 +91,6 @@
 ">
 
 <!ENTITY nssFailure2.title "קישור מאובטח נכשל">
-<!ENTITY nssFailure2.longDesc " <ul>
-  <li>האתר שאתה מנסה לגשת אליו לא ניתן להצגה כי לא ניתן לוודא את האותנטיות של המידע שהתקבל.</li>
-  <li>בבקשה ליצור קשר עם בעלי האתר ולדווח להם על בעיה זו. ניתן גם להשתמש בפקודת הדיווח על אתרים פגומים הממוקמת בתפריט העזרה.</li>
-</ul>  ">
 
 <!ENTITY nssBadCert.title "קישור מאובטח נכשל">
 <!ENTITY nssBadCert.longDesc2 "
@@ -127,14 +100,9 @@
 </ul>
 ">
 
-<!ENTITY sharedLongDesc2 "<ul>
-  <li>האתר אינו זמין באופן זמני או שהוא עמוס מידי. נא לנסות שוב בעוד מספר רגעים.</li>
-  <li>במידה ואינך מצליח לטעון כל דף כלשהו, בדוק את חיבור הנתונים או ה־Wi-Fi של ההתקן שברשותך.</li>
-</ul>
-">
+<!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
-<!ENTITY cspFrameAncestorBlocked.title "נחסם בהתאם למדיניות האבטחה של התוכן">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; מונע מדף זה להיטען בצורה זו מאחר שהדף כולל מדיניות אבטחת תוכן שמונעת זאת.</p>">
 
 <!ENTITY corruptedContentError.title "שגיאת תוכן פגום">
 <!ENTITY corruptedContentError.longDesc "<p>הדף שאתה מנסה לצפות בו אינו יכול להיות מוצג בגלל שהתגלתה שגיאה בהעברת הנתונים.</p><ul><li>אנא צור קשר עם בעלי האתר והודע על בעיה זו.</li></ul>">
@@ -156,5 +124,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!ENTITY remoteXUL.title "XUL מרוחק">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>פנה אל בעלי האתר כדי ליידע אותם על בעיה זו.</li></ul></p>">
-
 

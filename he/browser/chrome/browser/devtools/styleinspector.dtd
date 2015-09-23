@@ -8,37 +8,35 @@
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
 
-<!-- LOCALIZATION NOTE (userStylesLabel): This is the label for the checkbox
+<!-- LOCALIZATION NOTE (browserStylesLabel): This is the label for the checkbox
   -  that specifies whether the styles that are not from the user's stylesheet
   -  should be displayed or not. -->
-<!ENTITY userStylesLabel    "סגנונות משתמש בלבד">
+<!ENTITY browserStylesLabel    "סגנונות דפדפן">
 
-<!-- LOCALIZATION NOTE (userStylesSearch): This is the placeholder that goes in
+<!-- LOCALIZATION NOTE (filterStylesPlaceholder): This is the placeholder that goes in
   -  the search box when no search term has been entered. -->
-<!ENTITY userStylesSearch      "חיפוש">
+<!ENTITY filterStylesPlaceholder      "סינון סגנונות">
+
+<!-- LOCALIZATION NOTE (addRuleButtonTooltip): This is the tooltip shown when
+  -  hovering the `Add new rule` button in the rules view toolbar. This should
+  -  match ruleView.contextmenu.addNewRule in styleinspector.properties -->
+<!ENTITY addRuleButtonTooltip  "הוספת חוק חדש">
 
 <!-- LOCALIZATION NOTE (selectedElementLabel): This is the label for the path of
   -  the highlighted element in the web page. This path is based on the document
   -  tree. -->
 <!ENTITY selectedElementLabel  "אלמנט שנבחר:">
 
+<!-- LOCALIZATION NOTE (togglePseudoClassPanel): This is the tooltip
+  -  shown when hovering over the `Toggle Pseudo Class Panel` button in the
+  -  rule view toolbar. -->
+<!ENTITY togglePseudoClassPanel  "להפעיל מחלקות־דמה">
+
 <!-- LOCALIZATION NOTE (noPropertiesFound): In the case where there are no CSS
   -  properties to display e.g. due to search criteria this message is
   -  displayed. -->
 <!ENTITY noPropertiesFound     "לא נמצאו מאפייני CSS.">
 
-<!-- LOCALIZATION NOTE (unmatchedSelectors): For each style property
-  -  the panel shows whether there are any selectors that do not match the
-  -  currently selected element. -->
-<!ENTITY unmatchedSelectors    "בוחרים בלתי תואמים">
-
-<!-- LOCALIZATION NOTE (bestMatch, matched, parentMatch & unmatched): For each
-  -  style property the panel shows the rules which hold that specific property.
-  -  For every rule, the rule status is also displayed: a rule can be the best
-  -  match, a match, a parent match, or a rule did not match the element the
-  -  user has highlighted. -->
-<!ENTITY bestMatch             "ההתאמה הטובה ביותר">
-<!ENTITY matched               "התאמה">
-<!ENTITY parentMatch           "התאמת הורה">
-<!ENTITY unmatched             "אין התאמה">
-
+<!-- FIXME: notes -->
+<!ENTITY computedViewTitle     "מחושב">
+<!ENTITY ruleViewTitle         "חוקים">

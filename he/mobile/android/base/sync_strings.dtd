@@ -8,75 +8,144 @@
 <!ENTITY syncBrand.shortName.label "Sync">
 
 <!-- Main titles. -->
-<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
-<!ENTITY sync.title.connect.label "התחברות אל &syncBrand.shortName.label;">
-<!ENTITY sync.title.adddevice.label "הוספת חשבון &syncBrand.fullName.label;">
-<!ENTITY sync.title.pair.label "שיוך התקן">
+<!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
+<!ENTITY sync.title.connect.label 'התחברות אל &syncBrand.shortName.label;'>
+<!ENTITY sync.title.adddevice.label 'הוספת חשבון &syncBrand.fullName.label;'>
+<!ENTITY sync.title.pair.label 'שיוך התקן'>
 
 <!-- J-PAKE Key Screen -->
-<!ENTITY sync.subtitle.connect.label "כדי להפעיל את ההתקן החדש שלך, נא לבחור “הגדרת &syncBrand.shortName.label;” על ההתקן.">
-<!ENTITY sync.subtitle.header.label "נא להקיש את הקוד הבא במחשב">
-<!ENTITY sync.subtitle.connectlocation.label "נא לבחור \u0022\u0022 בלשונית שמתייחסת ל־&syncBrand.shortName.label; במסך האפשרויות של Firefox על המחשב שלך.">
-<!ENTITY sync.subtitle.pair.label "כדי להפעיל, נא לבחור באפשרות ”שיוך התקן“ בהתקן האחר שלך.">
-<!ENTITY sync.pin.default.label "...\n...\n...\n">
-<!ENTITY sync.pin.oneline.label "...">
-<!ENTITY sync.link.show.label "הראה לי כיצד.">
-<!ENTITY sync.link.advancedsetup.label "הגדרות מתקדמות…">
-<!ENTITY sync.link.nodevice.label "ההתקן אינו עימי…">
+<!ENTITY sync.subtitle.connect.label 'כדי להפעיל את ההתקן החדש שלך, נא לבחור “הגדרת &syncBrand.shortName.label;” על ההתקן.'>
+<!ENTITY sync.subtitle.pair.label 'כדי להפעיל, נא לבחור באפשרות ”שיוך התקן“ בהתקן האחר שלך.'>
+<!ENTITY sync.pin.default.label '...\n...\n...\n'>
+<!ENTITY sync.pin.oneline.label '...'>
+<!ENTITY sync.link.show.label 'הראה לי כיצד.'>
+<!ENTITY sync.link.advancedsetup.label 'הגדרות מתקדמות…'>
+<!ENTITY sync.link.nodevice.label 'ההתקן אינו עימי…'>
 
 <!-- J-PAKE Waiting Screen -->
-<!ENTITY sync.jpake.subtitle.waiting.label "בהמתנה להתקן אחר…">
+<!ENTITY sync.jpake.subtitle.waiting.label 'בהמתנה להתקן אחר…'>
 
 <!-- Account Login Screen -->
-<!ENTITY sync.subtitle.account.label "נא להכניס את פרטי חשבון &syncBrand.fullName.label; שלך">
-<!ENTITY sync.input.username.label "שם חשבון">
-<!ENTITY sync.input.password.label "ססמה">
-<!ENTITY sync.input.key.label "מפתח שחזור">
-<!ENTITY sync.checkbox.server.label "שימוש בשרת מותאם אישית">
-<!ENTITY sync.input.server.label "כתובת שרת">
-  
+<!ENTITY sync.subtitle.account.label 'נא להכניס את פרטי חשבון &syncBrand.fullName.label; שלך'>
+<!ENTITY sync.input.username.label 'שם חשבון'>
+<!ENTITY sync.input.password.label 'ססמה'>
+<!ENTITY sync.input.key.label 'מפתח שחזור'>
+<!ENTITY sync.checkbox.server.label 'שימוש בשרת מותאם אישית'>
+<!ENTITY sync.input.server.label 'כתובת שרת'>
+
 <!-- Setup Fail -->
-<!ENTITY sync.title.fail.label "לא ניתן להגדיר את &syncBrand.shortName.label;">
-<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; אינו מצליח להתחבר לשרת. האם לנסות שוב?">
-<!ENTITY sync.button.tryagain.label "נסה שוב">
-<!ENTITY sync.button.manual.label "הגדרה ידנית">
-<!ENTITY sync.subtitle.nointernet.label "אין חיבור זמין לרשת.">
-  
+<!ENTITY sync.title.fail.label 'לא ניתן להגדיר את &syncBrand.shortName.label;'>
+<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; אינו מצליח להתחבר לשרת. האם לנסות שוב?'>
+<!ENTITY sync.button.tryagain.label 'נסה שוב'>
+<!ENTITY sync.button.manual.label 'הגדרה ידנית'>
+<!ENTITY sync.subtitle.nointernet.label 'אין חיבור זמין לרשת.'>
+
 <!-- Setup Success -->
-<!ENTITY sync.title.success.label "ההתקנה הושלמה">
-<!ENTITY sync.subtitle.success.label1 "הנתונים שלך יורדים ברקע. ניתן להיכנס למסך ההגדרות כדי לנהל את החשבון, או להתחיל לגלוש עם &brandShortName;.">
-<!ENTITY sync.settings.label "הגדרות">
-<!ENTITY sync.subtitle.manage.label1 "חשבונך ב־&syncBrand.fullName.label; מוכן לשימוש. ניתן להיכנס להגדרות כדי לנהל את החשבון, או להפעיל את &brandShortName;.">
+<!ENTITY sync.title.success.label 'ההתקנה הושלמה'>
+<!ENTITY sync.subtitle.success.label1 'הנתונים שלך יורדים ברקע. ניתן להיכנס למסך ההגדרות כדי לנהל את החשבון, או להתחיל לגלוש עם &brandShortName;.'>
+<!ENTITY sync.settings.label 'הגדרות'>
+<!ENTITY sync.subtitle.manage.label1 'חשבונך ב־&syncBrand.fullName.label; מוכן לשימוש. ניתן להיכנס להגדרות כדי לנהל את החשבון, או להפעיל את &brandShortName;.'>
 
 <!-- Pair Device -->
-<!ENTITY sync.pair.tryagain.label "נא לנסות שוב.">
-<!ENTITY sync.pair.connectlocation.label "כדי להפעיל את ההתקן החדש שלך, יש לבחור “התקנת &syncBrand.shortName.label;” בהתקן , ולבחור “יש ברשותי חשבון”.">
+<!ENTITY sync.pair.tryagain.label 'נא לנסות שוב.'>
+<!ENTITY sync.pair.connectlocation.label 'כדי להפעיל את ההתקן החדש שלך, יש לבחור “התקנת &syncBrand.shortName.label;” בהתקן , ולבחור “יש ברשותי חשבון”.'>
 
 <!-- Firefox SyncAdapter Settings Screen -->
-<!ENTITY sync.settings.options.label "אפשרויות">
-<!ENTITY sync.summary.pair.label "קישור התקן אחר אל החשבון שלך ב־&syncBrand.shortName.label;">
+<!ENTITY sync.settings.options.label 'אפשרויות'>
+<!ENTITY sync.summary.pair.label 'קישור התקן אחר אל החשבון שלך ב־&syncBrand.shortName.label;'>
+
+<!-- Configure Engines -->
 
 <!-- Common text -->
-<!ENTITY sync.button.cancel.label "ביטול">
-<!ENTITY sync.button.connect.label "התחברות">
-<!ENTITY sync.button.ok.label "אישור">
-  
+<!ENTITY sync.button.cancel.label 'ביטול'>
+<!ENTITY sync.button.connect.label 'התחברות'>
+<!ENTITY sync.button.ok.label 'אישור'>
+
 <!-- Account strings -->
-<!ENTITY sync.account.label.label "&syncBrand.fullName.label;">
-  
+
+<!-- Localization note (sync.default.client.name): Default string of the "Device
+     name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
+     will be replaced by the name of the Firefox release channel and &formatS2
+     by the model name of the Android device. Examples look like "Aurora on
+     GT-I1950" and "Fennec on MI 2S". -->
+
 <!-- Bookmark folder strings -->
-<!ENTITY bookmarks.folder.menu.label "תפריט סימניות">
-<!ENTITY bookmarks.folder.places.label "">
-<!ENTITY bookmarks.folder.tags.label "תגיות">
-<!ENTITY bookmarks.folder.toolbar.label "סרגל כלים סימניות">
-<!ENTITY bookmarks.folder.unfiled.label "סימניות לא ממוינות">
-<!ENTITY bookmarks.folder.desktop.label "סימניות מהמחשב">
-<!ENTITY bookmarks.folder.mobile.label "סימניות מהנייד">
-<!ENTITY bookmarks.folder.readinglist.label "רשימת קריאה">
+<!ENTITY bookmarks.folder.menu.label 'תפריט סימניות'>
+<!ENTITY bookmarks.folder.places.label ''>
+<!ENTITY bookmarks.folder.tags.label 'תגיות'>
+<!ENTITY bookmarks.folder.toolbar.label 'סרגל כלים סימניות'>
+<!ENTITY bookmarks.folder.unfiled.label 'סימניות לא ממוינות'>
+<!ENTITY bookmarks.folder.desktop.label 'סימניות מהמחשב'>
+<!ENTITY bookmarks.folder.mobile.label 'סימניות מהנייד'>
+<!ENTITY bookmarks.folder.readinglist.label 'רשימת קריאה'>
+<!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 
 <!-- Notification strings -->
-<!ENTITY sync.notification.oneaccount.label "רק חשבון &syncBrand.fullName.label; אחד נתמך.">
+<!ENTITY sync.notification.oneaccount.label 'רק חשבון &syncBrand.fullName.label; אחד נתמך.'>
 
 <!-- Incorrect settings and changing credentials. -->
-<!ENTITY sync.new.recoverykey.status.incorrect "מפתח השחזור שגוי. נא לנסות שוב.">
+<!ENTITY sync.new.recoverykey.status.incorrect 'מפתח השחזור שגוי. נא לנסות שוב.'>
 
+<!-- Send tab to device. -->
+
+<!-- Firefox Account strings. -->
+
+
+
+<!-- Localization note: these are shown in all screens that query the
+     user for an email address and password. Hide and show are button
+     labels. -->
+
+<!-- Localization note: these are shown in screens after the user has
+     created or signed in to an account, and take the user back to
+     Firefox. -->
+
+<!-- Localization note: the following two strings are interpolated
+     into fxaccount_create_account_policy_text2; see note for that
+     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+
+
+<!-- Localization note: the Firefox below should not change with the
+     particular version of Firefox installed (Release, Beta, Aurora,
+     etc).  The account remains a "Firefox Account". -->
+<!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
+
+
+<!-- Localization note: &formatS; is the Firefox Account's email address. -->
+
+
+
+
+
+
+<!-- Localization note: when tapped, the following two strings link to
+     external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+
+<!-- Localization note: format string below will be replaced
+     with the Firefox Account's email address. -->
+
+
+<!-- Localization note: this is the name shown by the Android system
+     itself for a Firefox Account. Don't localize this. -->
+
+<!-- Localization note: these are shown by the Android system itself,
+     when the user navigates to the Android > Accounts > {Firefox
+     Account} Screen. The link takes the user to the Firefox Account
+     status activity, which lets them manage their Firefox
+     Account. -->
+
+<!-- Localization note: these error messages are shown after a request
+     has been made to the remote server, and an error of some type has
+     been returned. -->
+
+<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
+
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
+
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
