@@ -630,6 +630,7 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY identity.connectionFile "Strona wczytana z tego komputera">
 <!ENTITY identity.connectionVerified1 "Połączenie bezpieczne, strona prowadzona przez:">
 <!ENTITY identity.connectionInternal "To jest strona programu &brandShortName;.">
+<!ENTITY identity.insecureLoginForms "Dane logowania nie są chronione">
 
 <!ENTITY identity.activeBlocked "&brandShortName; zablokował elementy tej strony, które nie były przesłane w sposób bezpieczny.">
 <!ENTITY identity.passiveLoaded "Niektóre elementy tej strony (np. obrazki) nie były przesłane w sposób bezpieczny.">
@@ -637,6 +638,7 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY identity.weakEncryption "Strona używa słabego szyfrowania.">
 
 <!ENTITY identity.description.insecure "Prywatność podczas łączenia się z tą stroną nie jest chroniona. Przesyłane informacje (np. hasła, wiadomości, numery kart) mogą być dostępne dla innych.">
+<!ENTITY identity.description.insecureLoginForms "Dane logowania wprowadzone na tej strone nie są bezpieczne i mogą być dostępne dla innych.">
 <!ENTITY identity.description.weakCipher "Połączenie z tą stroną nie zapewnia prywatności, ponieważ szyfrowanie nie jest wystarczające.">
 <!ENTITY identity.description.weakCipher2 "Informacje na stronie mogą być dostępne dla innych a jej działanie modyfikowane.">
 <!ENTITY identity.description.activeBlocked "Firefox zablokował elementy tej strony, które nie były przesłane w sposób bezpieczny.">
