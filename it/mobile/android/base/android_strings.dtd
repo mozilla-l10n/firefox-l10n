@@ -440,7 +440,6 @@
 <!ENTITY restriction_disallow_clear_history_title2 "Disattiva “Elimina cronologia”">
 <!ENTITY restriction_disallow_master_password_title2 "Disattiva password principale">
 <!ENTITY restriction_disallow_guest_browsing_title2 "Disattiva navigazione ospite">
-<!ENTITY bookmarks_title "Mobile">
 <!ENTITY bookmarks_about_browser "Firefox: informazioni sul browser">
 <!ENTITY bookmarks_addons "Firefox: personalizza con i componenti aggiuntivi">
 <!ENTITY bookmarks_support "Firefox: supporto">
