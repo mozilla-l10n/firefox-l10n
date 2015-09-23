@@ -718,7 +718,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings in the subview. -->
 
 <!ENTITY identity.description.insecure "Níl do cheangal leis an suíomh seo príobháideach. D'fhéadfadh daoine eile an t-eolas a aighníonn tú a fheiscint (leithéidí focail faire, teachtaireachtaí, cártaí creidmheasa, etc.)">
-
+<!ENTITY identity.description.insecureLoginForms "Níl an fhaisnéis chuntais a chuireann tú isteach ar an leathanach seo seolta thar ceangal slán, agus seans go mbeadh bradaí in ann teacht air.">
 <!ENTITY identity.description.weakCipher "Úsáideann do cheangal leis an suíomh seo criptiúchán lag nach bhfuil príobháideach.">
 <!ENTITY identity.description.weakCipher2 "Is féidir le daoine eile do shonraí a fheicint agus iompar an tsuímh a athrú.">
 <!ENTITY identity.description.activeBlocked "Chuir &brandShortName; bac ar chodanna den leathanach seo nach bhfuil slán.">
@@ -737,7 +737,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.moreInfoLinkText2 "Tuilleadh Eolais">
 
 <!ENTITY identity.permissions "Ceadanna">
-
+<!ENTITY identity.permissionsEmpty "Níor thug tú aon chead speisialta don suíomh seo.">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
