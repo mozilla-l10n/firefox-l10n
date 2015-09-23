@@ -11,15 +11,16 @@
 <!ENTITY  onboard_start_subtext3 "Gerðu vef upplifunina á handhæga tækinu virkilega þína eigin.">
 <!ENTITY  onboard_start_button_account "Innskráning í &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Fara að vafra">
-
+<!ENTITY firstrun_button_next "Áfram">
 
 <!ENTITY  onboard_start_restricted1 "Upplifðu öryggi og að vera við stjórnvölinn með þessari einföldu útgáfu af &brandShortName;.">
 
+<!ENTITY firstrun_import_title "Flytja inn">
 <!ENTITY firstrun_import_message "Vertu velkomin í &brandShortName;!">
-
-
-
-
+<!ENTITY firstrun_import_subtext "Flytja inn bókarmerki og ferli frá öðrum vafra.">
+<!ENTITY firstrun_import_action "Færa frá &brandShortName;">
+<!ENTITY firstrun_import_dialog_button "Færa">
+<!ENTITY firstrun_import_progress_title "Næ í gögn">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -64,9 +65,9 @@
 
 <!ENTITY history_today_section "Í dag">
 <!ENTITY history_yesterday_section "Í gær">
-
-
-
+<!ENTITY history_week_section3 "Síðustu 7 daga">
+<!ENTITY history_this_month_section "Þennan mánuð">
+<!ENTITY history_older_section3 "Eldri en 6 mánaða">
 
 <!ENTITY go "Fara">
 <!ENTITY search "Leita">
@@ -96,6 +97,7 @@
      &formatS; will be replaced with the title of the tab, as received from the
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "Spila hljóð – &formatS;">
 
 <!ENTITY settings "Stillingar">
 <!ENTITY settings_title "Stillingar">
@@ -197,9 +199,9 @@
 <!ENTITY pref_home_updates_wifi "Eingöngu á Wi-Fi">
 <!ENTITY pref_home_suggested_sites "Sýna uppástungur">
 <!ENTITY pref_home_suggested_sites_summary "Sýna uppástungur á ræsisíðu þinni af svæðum sem við teljum að þér gætu þótt áhugaverðar">
-
-
-
+<!ENTITY pref_category_home_homepage "Ræsisíða">
+<!ENTITY home_homepage_title "Velja ræsisíðu">
+<!ENTITY home_homepage_use_current_tab "Nota núverandi flipa">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Sérsníða">
@@ -364,7 +366,7 @@ size. -->
 <!ENTITY share_title "Deila með">
 <!ENTITY share_image_failed "Gat ekki deilt þessari mynd">
 <!ENTITY save_as_pdf "Vista sem PDF">
-
+<!ENTITY print "Prenta">
 <!ENTITY find_in_page "Finna á síðu">
 <!ENTITY desktop_mode "Fá venjulega síðu">
 <!ENTITY page "Síða">
@@ -384,7 +386,7 @@ size. -->
 
 <!ENTITY find_text "Finna á síðu">
 <!ENTITY find_prev "Fyrrverandi">
-
+<!ENTITY find_next "Áfram">
 <!ENTITY find_close "Loka">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -409,8 +411,8 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Festa svæði">
 <!ENTITY contextmenu_top_sites_unpin "Losa svæði">
 <!ENTITY contextmenu_add_search_engine "Bæta við leitarvél">
-
-
+<!ENTITY contextmenu_mark_read "Merkja sem lesið">
+<!ENTITY contextmenu_mark_unread "Merkja sem ólesið">
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
@@ -433,6 +435,8 @@ size. -->
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
+<!ENTITY pref_magnifying_glass_enabled "Stækka minni svæði">
+<!ENTITY pref_magnifying_glass_enabled_summary "Stækka vísanir og eyðublöð þegar þú snertir nærri þeim">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -580,8 +584,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_insecure "Óörugg tenging">
 <!-- Mixed content notifications in site identity popup -->
 
-
-
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; hefur lokað á óöruggt efni á þessari síðu.">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; hefur lokað á hluta af óöruggu efni á þessari síðu.">
+<!ENTITY mixed_content_display_loaded1 "Sumir hlutir á þessari síðu eru ekki öruggir (eins og myndir).">
+<!ENTITY mixed_content_protection_disabled1 "Þú hefur slökkt á vernd frá óöruggu efni.">
 <!-- Tracking content notifications in site identity popup -->
 
 <!ENTITY doorhanger_tracking_title " Ekki fylgjast með mér vernd">
@@ -599,6 +605,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Einkagögn hreinsuð">
 <!ENTITY private_data_fail "Ekki var hægt að hreinsa öll einkagögn">
 
+<!ENTITY bookmarkhistory_button_import "Flytja inn">
 <!ENTITY bookmarkhistory_import_both "Flytja inn bókarmerki og ferli  
 frá Android">
 <!ENTITY bookmarkhistory_import_bookmarks "Flyt inn bókarmerki  
@@ -715,8 +722,14 @@ frá Android">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!ENTITY bookmarks_about_browser "Firefox: Um vafrann þinn">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "Firefox: Sérsníðið með viðbætum">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "Firefox: Stuðningur">
 <!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
+<!ENTITY bookmarks_marketplace "Firefox Marketplace">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!ENTITY bookmarks_restricted_support2 "Firefox hjálp og stuðningur fyrir takmarkaða notendur á Android töflum">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!ENTITY bookmarks_restricted_webmaker "Lærið á vefinn: Mozilla Webmaker">
