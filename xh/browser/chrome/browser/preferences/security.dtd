@@ -24,6 +24,8 @@
 <!ENTITY  addonExceptions.accesskey     "I">
 
 
+<!ENTITY  logins.label                  "IiLogini">
+
 
 <!ENTITY  passwordExceptions.label      "Izinxaxhi…">
 <!ENTITY  passwordExceptions.accesskey  "x">
