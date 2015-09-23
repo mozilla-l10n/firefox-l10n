@@ -9,6 +9,6 @@
 <!ENTITY aboutAccountsConfig.startButton.label "Mulakan">
 <!ENTITY aboutAccountsConfig.useOldSync.label "Menggunakan versi lama Sync?">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "Buka keutamaan">
-
-
-
+<!ENTITY aboutAccounts.noConnection.title "Tiada sambungan">
+<!ENTITY aboutAccounts.noConnection.description "Anda mesti dihubungkan ke Internet untuk mendaftar masuk.">
+<!ENTITY aboutAccounts.noConnection.retry "Cuba lagi">
