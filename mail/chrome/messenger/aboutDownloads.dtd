@@ -17,5 +17,8 @@
 <!ENTITY cmd.open.accesskey                        "O">
 <!ENTITY cmd.removeFromHistory.label               "Odebrat z historie">
 <!ENTITY cmd.removeFromHistory.accesskey           "d">
-<!ENTITY cmd.clearDownloads.label                  "Smazat stahování">
-<!ENTITY cmd.clearDownloads.accesskey              "S">
+<!ENTITY cmd.clearList.label                       "Smazat seznam">
+<!ENTITY cmd.clearList.accesskey                   "m">
+<!ENTITY cmd.clearList.tooltip                     "Smaže všechny položky ze seznamu stažených souborů vyjma těch stahování, která právě probíhají.">
+<!ENTITY cmd.searchDownloads.label                 "Hledat…">
+<!ENTITY cmd.searchDownloads.key                   "F">
