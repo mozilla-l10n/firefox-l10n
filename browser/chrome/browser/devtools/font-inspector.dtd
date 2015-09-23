@@ -10,3 +10,7 @@
 <!ENTITY usedAs "Të përdorura si: ">
 <!ENTITY system "sistem">
 <!ENTITY remote "së largëti">
+
+<!-- LOCALIZATION NOTE (previewHint): This is the label shown as the
+     placeholder in font inspector preview text box. -->
+<!ENTITY previewHint "Parashihni Tekstin">
