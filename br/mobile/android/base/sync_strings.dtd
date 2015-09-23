@@ -197,7 +197,7 @@
 
 <!ENTITY fxaccount_status_header2 "Kont Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Kennasket evel">
-
+<!ENTITY fxaccount_status_manage_account "Ardeiñ ar gont">
 <!ENTITY fxaccount_status_auth_server "Dafariad ar gont">
 <!ENTITY fxaccount_status_sync_now "Goubredañ bremañ">
 <!ENTITY fxaccount_status_syncing2 "O goubredañ...">
