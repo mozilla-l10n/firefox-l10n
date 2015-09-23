@@ -72,7 +72,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY notSignedIn.label           "Nu sunteți autentificat.">
 <!ENTITY signIn.label                "Autentificare">
 <!ENTITY profilePicture.tooltip      "Schimbă fotografia de profil">
-
+<!ENTITY verifiedManage.label        "Gestionează contul">
 <!ENTITY disconnect.label            "Deconectează-te…">
 <!ENTITY verify.label                "Verificați e-mailul">
 <!ENTITY forget.label                "Uită acest e-mail">

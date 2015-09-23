@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY index.title "Gestionar aplicații">
+<!ENTITY index.title "Manager de aplicații">
 <!ENTITY index.projects2 "Aplicații">
 <!ENTITY index.device2 "Dispozitiv">
 <!ENTITY index.help "Ajutor">
@@ -92,7 +92,7 @@
 <!ENTITY projects.hosted "Găzduit">
 <!ENTITY projects.packaged "Împachetat">
 
-<!ENTITY help.title "Gestionar aplicații">
+<!ENTITY help.title "Manager de aplicații">
 <!ENTITY help.close "Închide">
 <!ENTITY help.intro "This tool will help you build and install web apps on compatible devices (i.e. Firefox OS). The <strong>Apps</strong> tab will assist you in the validation and installation process of your app. The <strong>Device</strong> tab will give you information about the connected device. Use the bottom toolbar to connect to a device or start the simulator.">
 <!ENTITY help.usefullLinks "Linkuri utile:">

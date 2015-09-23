@@ -91,7 +91,7 @@ values from browser.dtd.  -->
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableChrome.label5    "Activează trusele de unelte pentru depanarea chrome a browserului și a suplimentelor">
-<!ENTITY options.enableChrome.tooltip3  "Pornind această opțiune vă va permite să folosiți diverse unelte de dezvoltare în contextul browserului (prin intermediul Unelte -> Dezvoltator web -> Trusa de unelte pentru browser) și să depanați suplimente din Gestionarul de suplimente">
+<!ENTITY options.enableChrome.tooltip3  "Pornind această opțiune vă va permite să folosiți diverse unelte de dezvoltare în contextul browserului (prin intermediul Unelte -> Dezvoltator web -> Trusa de unelte pentru browser) și să depanați suplimente din managerul de suplimente">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
