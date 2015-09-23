@@ -11,12 +11,13 @@
 <!ENTITY  onboard_start_subtext3 "ওয়েব ব্রাউজিং করার অভিজ্ঞতা যথাযথ ভাবে আপনার নিজের মত করে করুন।">
 <!ENTITY  onboard_start_button_account "&brandShortName; এ সাইন ইন করুন">
 <!ENTITY  onboard_start_button_browser "ব্রাউজিং শুরু করুন">
-
+<!ENTITY firstrun_button_next "পরবর্তী">
 
 <!ENTITY  onboard_start_restricted1 "&brandShortName; এর সরলীকৃত সংস্করণের সাথে নিরাপদ ও নিয়ন্ত্রণে থাকুন।">
 
-
-
+<!ENTITY firstrun_import_title "ইম্পোর্ট করুন">
+<!ENTITY firstrun_import_message "&brandShortName; এ স্বাগতম">
+<!ENTITY firstrun_import_subtext "অন্য ব্রাউজার থেকে বুকমার্ক ও ব্রাউজিং ইতিহাস ইমপোর্ট করুন।">
 
 
 
