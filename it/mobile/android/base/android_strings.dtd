@@ -196,6 +196,7 @@
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_sync_summary2 "Sincronizza schede, segnalibri, accessi, cronologia">
 <!ENTITY pref_search_suggestions "Mostra suggerimenti di ricerca">
+<!ENTITY pref_history_search_suggestions "Mostra cronologia di ricerca">
 <!ENTITY pref_import_android "Importa da Android">
 <!ENTITY pref_import_android_summary "Importa segnalibri e cronologia dal browser di sistema">
 <!ENTITY pref_private_data_history2 "Cronologia di navigazione">
