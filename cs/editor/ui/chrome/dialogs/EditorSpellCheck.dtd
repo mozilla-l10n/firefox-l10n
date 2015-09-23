@@ -4,6 +4,7 @@
 
 <!-- Window title -->
 <!ENTITY windowTitle.label "Kontrola pravopisu">
+
 <!ENTITY misspelledWord.label "Sporný pravopis:">
 <!ENTITY wordEditField.label "Nahradit čím:">
 <!ENTITY wordEditField.accessKey "m">
@@ -27,8 +28,8 @@
 <!ENTITY addToUserDictionaryButton.accessKey "P">
 <!ENTITY editUserDictionaryButton.label "Upravit…">
 <!ENTITY editUserDictionaryButton.accessKey "U">
-<!ENTITY recheckButton.label "Překontrolovat">
-<!ENTITY recheckButton.accessKey "P">
+<!ENTITY recheckButton2.label "Překontrolovat text">
+<!ENTITY recheckButton2.accessKey "P">
 <!ENTITY closeButton.label "Zavřít">
 <!ENTITY closeButton.accessKey "Z">
 <!ENTITY sendButton.label "Odeslat">
