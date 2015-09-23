@@ -10,4 +10,4 @@
 <!ENTITY aboutAccounts.retry.label "Bain triail eile as">
 
 <!ENTITY aboutAccounts.restrictedError.title "Teoranta">
-
+<!ENTITY aboutAccounts.restrictedError.description "Ní féidir leat Cuntais Fhirefox a bhainistiú ón bpróifíl seo.">
