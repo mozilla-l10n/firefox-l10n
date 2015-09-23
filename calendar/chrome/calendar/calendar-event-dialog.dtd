@@ -159,7 +159,7 @@
 <!ENTITY event.title.textbox.accesskey                    "i">
 <!ENTITY event.location.label                             "Lieu:" >
 <!ENTITY event.location.accesskey                         "L">
-<!ENTITY event.categories.label                           "Cateoria:">
+<!ENTITY event.categories.label                           "Categoria:">
 <!ENTITY event.categories.accesskey                       "i">
 <!ENTITY event.categories.textbox.label                   "Agiuntar ina nova categoria" >
 <!ENTITY event.calendar.label                             "Chalender" >
