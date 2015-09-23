@@ -11,15 +11,16 @@
 <!ENTITY  onboard_start_subtext3 "Čińće swoje mobilne webpřehladowanske dožiwjenje woprawdźe k swojemu.">
 <!ENTITY  onboard_start_button_account "Pola &brandShortName; přizjewić">
 <!ENTITY  onboard_start_button_browser "Přehladowanje startować">
-
+<!ENTITY firstrun_button_next "Přichodny">
 
 <!ENTITY  onboard_start_restricted1 "Wostańće dale wěsty a mějće dale kontrolu z tutej zjednorjenej wersiju &brandShortName;.">
 
+<!ENTITY firstrun_import_title "Importować">
 <!ENTITY firstrun_import_message "Witajće do &brandShortName;">
-
-
-
-
+<!ENTITY firstrun_import_subtext "Importujće swoje zapołožki a historiju z druheho wobhladowaka.">
+<!ENTITY firstrun_import_action "Do &brandShortName; přenošować">
+<!ENTITY firstrun_import_dialog_button "Přenjeśc">
+<!ENTITY firstrun_import_progress_title "Přenošuje so">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -64,9 +65,9 @@
 
 <!ENTITY history_today_section "Dźensa">
 <!ENTITY history_yesterday_section "Wčera">
-
-
-
+<!ENTITY history_week_section3 "Zańdźene 7 dnjow">
+<!ENTITY history_this_month_section "Tutón měsać">
+<!ENTITY history_older_section3 "Starše hač 6 měsacow">
 
 <!ENTITY go "Start">
 <!ENTITY search "Pytać">
@@ -96,6 +97,7 @@
      &formatS; will be replaced with the title of the tab, as received from the
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "Awdio so wothrawa – &formatS;">
 
 <!ENTITY settings "Nastajenja">
 <!ENTITY settings_title "Nastajenja">
@@ -197,9 +199,9 @@
 <!ENTITY pref_home_updates_wifi "Jenož přez Wi-Fi">
 <!ENTITY pref_home_suggested_sites "Sydłowe namjety pokazać">
 <!ENTITY pref_home_suggested_sites_summary "Tastowe skrótšenki za sydła na wašej startowej stronje zwobraznić, wo kotrychž myslimy, zo wy maće je za zajimawe">
-
-
-
+<!ENTITY pref_category_home_homepage "Startowa strona">
+<!ENTITY home_homepage_title "Startowu stronu postajić">
+<!ENTITY home_homepage_use_current_tab "Aktualny rajtark wužiwać">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Přiměrić">
@@ -212,7 +214,7 @@
 
 <!ENTITY pref_cookies_menu "Placki">
 <!ENTITY pref_cookies_accept_all "Zmóžnjeny">
-<!ENTITY pref_cookies_not_accept_foreign "Zmóžnjeny, z wuwzaćom třećich">
+<!ENTITY pref_cookies_not_accept_foreign "Zmóžnjeny, z wuwzaćom třećich poskićowarjow">
 <!ENTITY pref_cookies_disabled "Znjemóžnjeny">
 
 <!ENTITY pref_tracking_protection_title "Slědowanski škit">
@@ -364,7 +366,7 @@ size. -->
 <!ENTITY share_title "Dźělić přez">
 <!ENTITY share_image_failed "Tutón wobraz njeda so dźělić">
 <!ENTITY save_as_pdf "Jako PDF składować">
-
+<!ENTITY print "Ćišćeć">
 <!ENTITY find_in_page "Na stronje pytać">
 <!ENTITY desktop_mode "Desktopowe sydło požadać">
 <!ENTITY page "Strona">
@@ -384,7 +386,7 @@ size. -->
 
 <!ENTITY find_text "Na stronje pytać">
 <!ENTITY find_prev "Předchadny">
-
+<!ENTITY find_next "Přichodny">
 <!ENTITY find_close "Začinić">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -409,8 +411,8 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Sydło připjeć">
 <!ENTITY contextmenu_top_sites_unpin "Sydło wotpjeć">
 <!ENTITY contextmenu_add_search_engine "Pytawu přidać">
-
-
+<!ENTITY contextmenu_mark_read "Jako přečitany markěrować">
+<!ENTITY contextmenu_mark_unread "Jako nječitany markěrować">
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
@@ -433,6 +435,8 @@ size. -->
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
+<!ENTITY pref_magnifying_glass_enabled "Małe wobłuki powjetšić">
+<!ENTITY pref_magnifying_glass_enabled_summary "Wotkazy a formularne pola powjetšić, hdyž so blisko nich podótknu">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -580,8 +584,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_insecure "Njewěsty zwisk">
 <!-- Mixed content notifications in site identity popup -->
 
-
-
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; je njewěsty wobsah na tutej stronje zablokował.">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; je někotre njewěste elementy na tutej stronje zablokował.">
+<!ENTITY mixed_content_display_loaded1 "Dźěle tuteje strony wěste njejsu (na přikład wobrazy).">
+<!ENTITY mixed_content_protection_disabled1 "Sće škit přećiwo njewěstemu wobsahej znjemóžnił.">
 <!-- Tracking content notifications in site identity popup -->
 
 <!ENTITY doorhanger_tracking_title "Slědowanski škit">
@@ -599,6 +605,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Priwatne daty su so zhašeli">
 <!ENTITY private_data_fail "Někotre priwatne daty njemóža so snano zhašeć">
 
+<!ENTITY bookmarkhistory_button_import "Importować">
 <!ENTITY bookmarkhistory_import_both "Importowanje zapołožkow a historije 
 z Androida">
 <!ENTITY bookmarkhistory_import_bookmarks "Importowanje zapołožkow 
@@ -714,9 +721,17 @@ z Androida">
 <!ENTITY restriction_disallow_guest_browsing_title2 "Hóstne přehladowanje znjemóžnić">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
+
+<!ENTITY bookmarks_title "Mobilne">
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!ENTITY bookmarks_about_browser "Firefox: Wo wašim wobhladowaku">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "Firefox: Z přidatkami přiměrić">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "Firefox: Pomoc">
 <!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
+<!ENTITY bookmarks_marketplace "Torhošćo Firefox">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!ENTITY bookmarks_restricted_support2 "Pomoc Firefox za wobmjezowane profile na Androidowych tabletach">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!ENTITY bookmarks_restricted_webmaker "Zeznajće so z webom: Mozilla Webmaker">

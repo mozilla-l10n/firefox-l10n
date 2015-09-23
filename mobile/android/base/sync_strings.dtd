@@ -197,7 +197,7 @@
 
 <!ENTITY fxaccount_status_header2 "Konto Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Přizjewjeny jako">
-
+<!ENTITY fxaccount_status_manage_account "Konto rjadować">
 <!ENTITY fxaccount_status_auth_server "Kontowy serwer">
 <!ENTITY fxaccount_status_sync_now "Nětko synchronizować">
 <!ENTITY fxaccount_status_syncing2 "Sychronizuje so…">
