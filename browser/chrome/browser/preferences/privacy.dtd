@@ -13,8 +13,8 @@
 <!ENTITY trackingProtectionPBM5.label         "Sebenzisa Ukhuseleko Lokutreka Kwiifestile Zabucala">
 <!ENTITY trackingProtectionPBM5.accesskey     "c">
 <!ENTITY trackingProtectionPBMLearnMore.label "Funda ngakumbi">
-
-
+<!ENTITY changeBlockList.label          "Tshintsha Uludwe Lokubloka">
+<!ENTITY changeBlockList.accesskey      "T">
 
 <!ENTITY  history.label                 "Imbali">
 
