@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY viewLog.title "Loga na Scagairí">
-<!ENTITY viewLogInfo.text "Soláthraíonn Loga na Scagairí fianaise faoi na scagairí a ritheadh don chuntas seo.Úsáid an ticbhosca thíos chun logáil a chumasú.">
+<!ENTITY viewLogInfo.text "Soláthraíonn Logchomhad na Scagairí fianaise faoi na scagairí a ritheadh don chuntas seo. Úsáid an ticbhosca thíos chun logáil a chumasú.">
 <!ENTITY clearLog.label "Glan an Logchomhad">
 <!ENTITY clearLog.accesskey "G">
 <!ENTITY enableLog.label "Cumasaigh Loga na Scagairí">
