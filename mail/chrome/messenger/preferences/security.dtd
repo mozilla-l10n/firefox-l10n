@@ -5,7 +5,7 @@
 <!ENTITY itemJunk.label          "Lixo eletrónico">
 <!ENTITY itemPhishing.label      "Mensagens de engodo">
 <!ENTITY itemPasswords.label     "Palavras-passe">
-
+<!ENTITY itemAntiVirus.label     "Antivírus">
 <!-- Junk Mail Controls -->
 
 <!ENTITY junkMail.intro "Configure as pré-definições para o lixo eletrónico. As definições específicas de lixo eletrónico podem ser efetuadas nas definições da conta.">
