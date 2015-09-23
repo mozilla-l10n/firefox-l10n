@@ -26,7 +26,8 @@
 
 <!ENTITY  logins.label                  "IiLogini">
 
-
+<!ENTITY  rememberLogins.label          "Khumbula iilogini zeesayithi">
+<!ENTITY  rememberLogins.accesskey      "K">
 <!ENTITY  passwordExceptions.label      "Izinxaxhi…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
@@ -35,4 +36,5 @@
 <!ENTITY  changeMasterPassword.label     "Guqula iPhaswedi eyiMasta…">
 <!ENTITY  changeMasterPassword.accesskey "P">
 
-
+<!ENTITY  savedLogins.label              "Ezigciniweyo Logini…">
+<!ENTITY  savedLogins.accesskey          "L">
