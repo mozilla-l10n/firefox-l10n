@@ -112,7 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignIn.label "Вписване в &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Отваряне настройките на &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Свържете се наново в &syncBrand.shortName.label;">
-
+<!ENTITY fxaUnverified.label "Проверка на регистрацията">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; включен">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; скоро ще започне синхронизация.">
 
@@ -130,13 +130,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 
-<!ENTITY fullscreenWarning.beforeDomain.label "">
-
-
+<!ENTITY fullscreenWarning.beforeDomain.label "Сега ">
+<!ENTITY fullscreenWarning.afterDomain.label " е на цял екран">
+<!ENTITY fullscreenWarning.generic.label "Сега документът е на цял екран">
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
-
+<!ENTITY exitDOMFullscreen.button "Излизане от режим на цял екран (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "Излизане от режим на цял екран (esc)">
 <!ENTITY leaveDOMFullScreen.label "Излизане от режим на цял екран">
 <!ENTITY leaveDOMFullScreen.accesskey "ц">
 
@@ -222,7 +223,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "Изтегляния">
 <!ENTITY downloads.accesskey          "т">
 <!ENTITY downloads.commandkey         "j">
-
+<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Добавки">
 <!ENTITY addons.accesskey             "Д">
 <!ENTITY addons.commandkey            "A">
@@ -405,11 +406,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Искате ли да се показват подсказки при въвеждане на думи за търсене?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Научете повече…">
-
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "Н">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Не">
-
+<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "к">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Да">
-
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "л">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -466,9 +467,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Настройки на търсене">
 
-
-
-
+<!ENTITY searchInNewTab.label         "Търсене в нов подпрозорец">
+<!ENTITY searchInNewTab.accesskey     "п">
+<!ENTITY searchSetAsDefault.label     "Задаване като стандартна търсачка">
+<!ENTITY searchSetAsDefault.accesskey "с">
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -704,9 +706,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Защитена връзка">
 <!ENTITY identity.connectionNotSecure "Връзката е незащитена">
 <!ENTITY identity.connectionFile "Страницата е запазена в компютъра.">
-
+<!ENTITY identity.connectionVerified1 "Защитена връзка към този сайт, управляван от:">
 <!ENTITY identity.connectionInternal "Това е защитена страница на &brandShortName;.">
-
+<!ENTITY identity.insecureLoginForms "Вашата регистрация може да е компрометирана.">
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "&brandShortName; блокира части от страницата, които не са шифрирани.">
@@ -716,7 +718,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings in the subview. -->
 
 <!ENTITY identity.description.insecure "Връзката ви със сайта не е поверителна. Изпращаната информация, като например пароли, съобщения, кредитни карти и др., може да бъде видяна от други.">
-
+<!ENTITY identity.description.insecureLoginForms "Информацията за регистриране, която въведохте в тази страница, не е защитена и може да е компрометирана.">
 <!ENTITY identity.description.weakCipher "Връзката ви с този уебсайт използва слабо шифриране и не е поверителна.">
 <!ENTITY identity.description.weakCipher2 "Други хора могат да виждат ваша информация и да променят поведението на уебсайта.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; блокира части от страницата, които не са шифрирани.">
@@ -735,7 +737,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.moreInfoLinkText2 "Повече информация">
 
 <!ENTITY identity.permissions "Права">
-
+<!ENTITY identity.permissionsEmpty "Не сте дали на този сайт никакви специални права.">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -746,7 +748,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
-
+<!ENTITY syncSignIn.label             "Вписване в &syncBrand.shortName.label;…">
+<!ENTITY syncSignIn.accesskey         "В">
 <!ENTITY syncSyncNowItem.label        "Синхронизиране">
 <!ENTITY syncSyncNowItem.accesskey    "С">
 <!ENTITY syncReAuthItem.label         "Свързване наново с &syncBrand.shortName.label;…">
