@@ -215,7 +215,7 @@
 <!ENTITY addressButton.tooltip "Roghnaigh faighteoir as Leabhar Seoltaí">
 <!ENTITY attachButton.tooltip "Cuir iatán leis">
 <!ENTITY spellingButton.tooltip "Seiceáil litriú an roghnaithe nó na teachtaireachta iomláine">
-
+<!ENTITY statusLanguageText.tooltip "Teanga an litreora">
 <!ENTITY saveButton.tooltip "Sábháil an teachtaireacht seo">
 <!ENTITY cutButton.tooltip              "Gearr">
 <!ENTITY copyButton.tooltip             "Cóipeáil">

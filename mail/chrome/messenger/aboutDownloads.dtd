@@ -17,8 +17,8 @@
 <!ENTITY cmd.open.accesskey                        "O">
 <!ENTITY cmd.removeFromHistory.label               "Bain ón Stair">
 <!ENTITY cmd.removeFromHistory.accesskey           "B">
-
-
-
-
-
+<!ENTITY cmd.clearList.label                       "Glan an Liosta">
+<!ENTITY cmd.clearList.accesskey                   "G">
+<!ENTITY cmd.clearList.tooltip                     "Bain na hiontrálacha go léir de liosta na gcomhad sábháilte, seachas íosluchtuithe gníomhacha.">
+<!ENTITY cmd.searchDownloads.label                 "Cuardaigh…">
+<!ENTITY cmd.searchDownloads.key                   "F">
