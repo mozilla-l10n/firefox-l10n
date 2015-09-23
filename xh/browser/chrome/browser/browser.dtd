@@ -112,7 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignIn.label "Ngena &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Vula &syncBrand.shortName.label; iipriferensi">
 <!ENTITY fxaSignInError.label "Qhagamshelanisa ngokutsha &syncBrand.shortName.label;">
-
+<!ENTITY fxaUnverified.label "Qinisekisa IAkhawunti Yakho">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; yenziwe yasebenza">
 <!ENTITY syncStartPanel2.subTitle "&brandShorterName; iza kuqalisa ukungqamanisa okomzuzwana.">
 
@@ -131,12 +131,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY fullscreenWarning.beforeDomain.label "">
-
-
+<!ENTITY fullscreenWarning.afterDomain.label "ngoku siskrini esipheleleyo">
+<!ENTITY fullscreenWarning.generic.label "Olu xwebhu ngoku lusiskrini esipheleleyo">
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
-
+<!ENTITY exitDOMFullscreen.button "Phuma KwiSkrini Esipheleleyo (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "Phuma KwiSkrini Esipheleleyo (esc)">
 <!ENTITY leaveDOMFullScreen.label "Phuma kwisikrini esizeleyo">
 <!ENTITY leaveDOMFullScreen.accesskey "s">
 
@@ -222,7 +223,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "Okukhutshelwayo">
 <!ENTITY downloads.accesskey          "O">
 <!ENTITY downloads.commandkey         "j">
-
+<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "zongezelelo">
 <!ENTITY addons.accesskey             "z">
 <!ENTITY addons.commandkey            "A">
@@ -405,11 +406,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Ngaba ungathanda ukuphucula amava akho okukhangela ngamacebiso?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Funda ngakumbi…">
-
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Hayi">
-
+<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Ewe">
-
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
