@@ -8,7 +8,7 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY window.width2                    "485">
 <!ENTITY window.height                    "300">
 
-<!ENTITY activity.title                  "Gestionar de activitate">
+<!ENTITY activity.title                  "Manager de activitate">
 
 <!ENTITY cmd.pause.label                  "Pauză">
 <!ENTITY cmd.pause.accesskey              "P">
