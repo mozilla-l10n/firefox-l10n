@@ -12,8 +12,8 @@
 <!ENTITY update.checkForUpdatesButton.accesskey   "M">
 <!ENTITY update.updateButton.label2                "Patakbuhin ulit ang &brandShortName; upang mailapat ang Pagbabago">
 <!ENTITY update.updateButton.accesskey            "R">
-<!ENTITY update.applyButtonBillboard.label        "Gamitin sa pag-update...">
-<!ENTITY update.applyButtonBillboard.accesskey    "G">
+<!ENTITY update.applyButtonBillboard.label        "Ilapat ang Update">
+<!ENTITY update.applyButtonBillboard.accesskey    "A">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
 

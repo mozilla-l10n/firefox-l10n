@@ -68,7 +68,7 @@
 
 
 <!ENTITY corruptedContentError.title "Corrupted Content Error">
-
+<!ENTITY corruptedContentError.longDesc "<p>Ang pahinang sinusubukan mong tignan ay hindi pwedeng ipakita sapagkat mayroong problemang napuna sa pagpapadala nang data.</p><ul><li>Ipagbigay alam sa may-ari nang website ang tungkol sa problemang ito.</li></ul>">
 
 <!ENTITY remoteXUL.title "Remote XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Please contact the website owners to inform them of this problem.</li></ul></p>">
