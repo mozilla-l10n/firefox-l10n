@@ -32,7 +32,7 @@
 <!ENTITY openConversationButton.tooltip  "Pornește o conversație">
 <!ENTITY closeConversationButton.tooltip "Închide conversația">
 
-<!ENTITY addBuddyButton.label          "Adaugă un prieten">
+<!ENTITY addBuddyButton.label          "Adaugă contact">
 <!ENTITY joinChatButton.label          "Conectează-te la chat">
 <!ENTITY chatAccountsButton.label      "Arată conturile">
 
