@@ -721,6 +721,8 @@ frá Android">
 <!ENTITY restriction_disallow_guest_browsing_title2 "Óvirkja gesta lotu">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
+
+<!ENTITY bookmarks_title "Snjalltæki">
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 <!ENTITY bookmarks_about_browser "Firefox: Um vafrann þinn">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
