@@ -2,8 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY aboutAccounts.connected.title "ফায়ারফক্স অ্যাকাউন্ট">
+<!ENTITY aboutAccounts.connected.description "আপনি সংযুক্ত আছেন যে হিসেবে">
+<!ENTITY aboutAccounts.syncPreferences.label "সিঙ্ক সেটিং দেখার জন্য এখানে ক্লিক করুন">
 
-
-
+<!ENTITY aboutAccounts.noConnection.title "ইন্টারনেট সংযোগ নেই">
+<!ENTITY aboutAccounts.retry.label "পুনরায় চেষ্টা করুন">
 
 

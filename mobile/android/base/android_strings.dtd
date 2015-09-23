@@ -436,7 +436,7 @@ size. -->
      whether or not the magnifying glass is disabled. -->
 
 <!ENTITY pref_magnifying_glass_enabled "ছোট এলাকাকে বড় করো">
-
+<!ENTITY pref_magnifying_glass_enabled_summary "লিঙ্ক এবং ফরম ফিল্ড বড় কর যখন এদের কাছে ট্যাপ করা হবে">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -584,8 +584,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_insecure "নিরাপত্তাহীন সংযোগ">
 <!-- Mixed content notifications in site identity popup -->
 
-
-
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; এই পাতায় নিরাপত্তাহীন উপাদান ব্লক করা হয়েছে।">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; এই পাতায় কিছু নিরাপত্তাহীন উপাদান ব্লক করা হয়েছে।">
+<!ENTITY mixed_content_display_loaded1 "এই পাতার অংশগুলো নিরাপদ নয় (যেমন ছবি)।">
+<!ENTITY mixed_content_protection_disabled1 "অনিরাপদ উপাদান থেকে সুরক্ষা আপনি নিষ্ক্রিয় করে রেখেছেন।">
 <!-- Tracking content notifications in site identity popup -->
 
 <!ENTITY doorhanger_tracking_title "ট্র্যাকিং সুরক্ষা">
@@ -603,6 +605,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "ব্যক্তিগত তথ্য পরিষ্কার করা হয়েছে">
 <!ENTITY private_data_fail "কিছু ব্যক্তিগত তথ্য পরিষ্কার করা যায়নি">
 
+<!ENTITY bookmarkhistory_button_import "ইম্পোর্ট করুন">
 <!ENTITY bookmarkhistory_import_both "এন্ড্রয়েড থেকে বুকমার্ক এবং ইতিহাস (r)
 ইম্পোর্ট করুন">
 <!ENTITY bookmarkhistory_import_bookmarks "এন্ড্রয়েড থেকে বুকমার্ক 
@@ -718,10 +721,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restriction_disallow_guest_browsing_title2 "অতিথি ব্রাউজিং নিষ্ক্রিয় করুন">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
+
+<!ENTITY bookmarks_title "মোবাইল">
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!ENTITY bookmarks_about_browser "ফায়ারফক্স: আপনার ব্রাউজার পরিচিতি">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "ফায়ারফক্স: অ্যাড-অনের মাধ্যমে কাস্টমাইজ করুন">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "ফায়ারফক্স: সমর্থন">
 <!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
 <!ENTITY bookmarks_marketplace "ফায়ারফক্স মার্কেটপ্লেস">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!ENTITY bookmarks_restricted_support2 "ফায়ারফক্সে অ্যান্ড্রোয়েড ট্যাবলেটে সুরক্ষিত প্রোফাইলের জন্য সাহায্য এবং সমর্থন রয়েছে">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!ENTITY bookmarks_restricted_webmaker "ওয়েব সম্পর্কে জানুন: মজিলা ওয়েবমেকার">
