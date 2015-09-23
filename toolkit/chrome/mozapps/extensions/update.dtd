@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  updateWizard.title              "&brandShortName; Hlaziya">
+<!ENTITY  updateWizard.title              "&brandShorterName; Hlaziya">
 
-<!ENTITY  offline.title                   "&brandShortName; isebenza ngaphandle kweintanethi">
-<!ENTITY  offline.description             "&brandShortName; idinga ukuya kwi-intanethi ukuze ibone ukuba ingaba izihlaziyi 
+<!ENTITY  offline.title                   "&brandShorterName; isebenza ngaphandle kweintanethi">
+<!ENTITY  offline.description             "&brandShorterName; idinga ukuya kwi-intanethi ukuze ibone ukuba ingaba izihlaziyi 
 ziyafumaneka na kwizongezelelo zakho ukwenza zihambelane nolu 
 hlelo.">
 <!ENTITY  offline.toggleOffline.label     "Go kwi-intanethi ngoku.">
@@ -13,8 +13,8 @@ hlelo.">
 
 <!ENTITY  mismatch.win.title              "Izongezelelo ezingahambelaniyo">
 <!ENTITY  mismatch.top.label              "Izongezelelo ezilandelayo azihambelani nolu hlelo
-&brandShortName; kwaye yenziwe ayasebenza:">
-<!ENTITY  mismatch.bottom.label           "&brandShortName; ingakhangela ukuba kukho iintlelo ezihambelanayo na 
+&brandShorterName; kwaye yenziwe ayasebenza:">
+<!ENTITY  mismatch.bottom.label           "&brandShorterName; ingakhangela ukuba kukho iintlelo ezihambelanayo na 
 zezi zongezelelo zifumanekayo.">
 
 <!ENTITY  checking.wizard.title           "Ikhangela iZongezelelo zoHambelwano">
@@ -32,14 +32,14 @@ ngokunje. Ungayitshintsha le setingi ingaphantsi.">
 <!ENTITY  installing.top.label            "Ikhuphela kwaye ifakela izihlaziyi kwizongezelelo zakho…">
 
 <!ENTITY  noupdates.wizard.title          "Akukho Zongezelelo zoHambelwano zifunyenweyo">
-<!ENTITY  noupdates.intro.desc            "&brandShortName; ayikwazanga ukuzifumana izihlaziyi kwi
+<!ENTITY  noupdates.intro.desc            "&brandShorterName; ayikwazanga ukuzifumana izihlaziyi kwi
 zongezelelo zakho ezingahambelaniyo.">
 <!ENTITY  noupdates.error.desc            "Ezinye iingxaki kuhlangatyenwe nazo xa bekuzanywa ukufumana izihlaziyi.">
-<!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; iya kukhangela amaxesha ngamaxesha ize ikwazise 
+<!ENTITY  noupdates.checkEnabled.desc     "&brandShorterName; iya kukhangela amaxesha ngamaxesha ize ikwazise 
 xa izihlaziyi zohambelwano zezi zongezelelo zifumaneka.">
 
 <!ENTITY  finished.wizard.title           "IZongezelelo zoHambelwano ziFakelwe">
-<!ENTITY  finished.top.label              "&brandShortName; ifakele izihlaziyi kwizongezelelo zakho.">
+<!ENTITY  finished.top.label              "&brandShorterName; ifakele izihlaziyi kwizongezelelo zakho.">
 <!ENTITY  finished.checkDisabled.desc     "&brandShortName; inokukhangela amaxesha ngamaxesha ize ikwazise 
 xa izihlaziyi zohambelwano zezi zongezelelo zifumaneka.">
 <!ENTITY  finished.checkEnabled.desc      "&brandShortName; iya kukhangela amaxesha ngamaxesha ize ikwazise 

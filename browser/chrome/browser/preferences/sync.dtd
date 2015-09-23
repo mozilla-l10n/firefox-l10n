@@ -77,7 +77,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY verify.label                "Qinisekisa i-imeyili">
 <!ENTITY forget.label                "Yilibale le imeyili">
 
-<!ENTITY welcome.description "Ngena kwiithebhu, iibhukhmakhi, iipasiwedi nokunye okungakumbi naphi na xa usebenzisa &brandShortName;.">
+<!ENTITY welcome.description "Ngena kwiithebhu, iibhukhmakhi, iipasiwedi nokunye okungakumbi naphi na xa usebenzisa &brandShorterName;.">
 <!ENTITY welcome.signIn.label "Sayina uNgene">
 <!ENTITY welcome.createAccount.label "Yenza i-Akhawunti">
 
