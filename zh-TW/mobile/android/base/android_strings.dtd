@@ -6,15 +6,25 @@
 <!ENTITY  no_space_to_start_error "空間不足，無法啟動 &brandShortName;。">
 <!ENTITY  error_loading_file "嘗試讀取 &brandShortName; 執行所必需的檔案時發生錯誤。">
 
+<!ENTITY firstrun_panel_title_welcome "歡迎">
 <!ENTITY  onboard_start_message3 "使用 &brandShortName; 瀏覽">
 <!ENTITY  onboard_start_subtext3 "讓您的行動網頁瀏覽體驗能有您自己的風格。">
 <!ENTITY  onboard_start_button_account "登入至 &brandShortName;">
 <!ENTITY  onboard_start_button_browser "開始瀏覽">
+<!ENTITY firstrun_button_next "下一步">
+
 <!ENTITY  onboard_start_restricted1 "透過這個簡單版的 &brandShortName; 保持安全與控制程度。">
 
-<!-- Localization note: These are used as the titles of different pages on the home screen.
-     They are automatically converted to all caps by the Android platform. -->
-<!ENTITY  bookmarks_title "書籤">
+<!ENTITY firstrun_import_title "匯入">
+<!ENTITY firstrun_import_message "歡迎使用 &brandShortName;">
+<!ENTITY firstrun_import_subtext "從其他瀏覽器匯入書籤與瀏覽紀錄。">
+<!ENTITY firstrun_import_action "轉移至 &brandShortName;">
+<!ENTITY firstrun_import_dialog_button "傳輸">
+<!ENTITY firstrun_import_progress_title "轉移中">
+
+<!-- Default Bookmarks titles-->
+<!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
+<!ENTITY bookmarks_title "行動書籤">
 <!ENTITY  history_title "歷史記錄">
 <!ENTITY  reading_list_title "閱讀清單">
 <!ENTITY  recent_tabs_title "最近開啟的分頁">
@@ -26,7 +36,7 @@
 <!ENTITY  crash_send_report_message3 "告訴 &vendorShortName; 這次錯誤的資訊，讓他們修正">
 <!ENTITY  crash_include_url2 "包含我所瀏覽的頁面網址">
 <!ENTITY  crash_sorry "很抱歉">
-<!ENTITY  crash_comment "加上附註 (附註是大家都看得到的)">
+<!ENTITY  crash_comment "加上附註（附註會是公開可見的）">
 <!ENTITY  crash_allow_contact2 "允許 &vendorShortName; 聯絡我關於此報告的進一步資訊">
 <!ENTITY  crash_email "您的電子郵件地址">
 <!ENTITY  crash_closing_alert "不傳送錯誤報告就離開？">
@@ -55,8 +65,9 @@
 
 <!ENTITY history_today_section "今天">
 <!ENTITY history_yesterday_section "昨天">
-<!ENTITY history_week_section2 "上週">
-<!ENTITY history_older_section2 "上個月">
+<!ENTITY history_week_section3 "最近 7 天">
+<!ENTITY history_this_month_section "這個月">
+<!ENTITY history_older_section3 "超過 6 個月前">
 
 <!ENTITY go "衝">
 <!ENTITY search "搜尋">
@@ -69,8 +80,6 @@
 <!ENTITY edit_mode_cancel "取消">
 
 <!ENTITY close_tab "關閉分頁">
-<!ENTITY tab_audio_playing "此分頁正在播放音訊">
-<!ENTITY tab_audio_muted "此分頁已被靜音">
 <!ENTITY one_tab "一個分頁">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -81,6 +90,14 @@
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
 <!ENTITY switch_button_message "切換">
+<!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
+     visible in the UI, but rather used as a text-to-speech content description
+     for sight-impaired a11y users. The content description is set on a tab
+     title in a list of open tabs when content in that tab is playing audio.
+     &formatS; will be replaced with the title of the tab, as received from the
+     web page. When audio is not playing in a tab, &formatS; will be used as
+     the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "正在播放聲音 - &formatS;">
 
 <!ENTITY settings "設定">
 <!ENTITY settings_title "設定">
@@ -161,8 +178,8 @@
 <!ENTITY pref_developer_remotedebugging_usb "透過 USB 進行遠端除錯">
 <!ENTITY pref_developer_remotedebugging_wifi "透過 Wi-Fi 進行遠端除錯">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "您的裝置需要安裝 QR 碼掃描程式才能使用 Wi-Fi 除錯。">
-<!ENTITY pref_category_logins "帳號密碼">
-<!ENTITY pref_remember_signons2 "記住登入用的帳密">
+<!ENTITY pref_category_logins "登入資訊">
+<!ENTITY pref_remember_signons2 "記住登入資訊">
 <!ENTITY pref_open_external_urls_privately_title "使用隱私瀏覽模式開啟鏈結">
 <!ENTITY pref_open_external_urls_privately_summary "對所有在 &brandShortName; 開啟的外部鏈結">
 <!ENTITY pref_manage_logins "管理登入密碼">
@@ -182,6 +199,9 @@
 <!ENTITY pref_home_updates_wifi "僅透過 Wi-Fi 連線">
 <!ENTITY pref_home_suggested_sites "顯示建議網站">
 <!ENTITY pref_home_suggested_sites_summary "在您的首頁顯示我們覺得您可能也有興趣的網站捷徑">
+<!ENTITY pref_category_home_homepage "首頁">
+<!ENTITY home_homepage_title "設定首頁">
+<!ENTITY home_homepage_use_current_tab "使用目前分頁">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "自訂">
@@ -237,7 +257,6 @@
 <!ENTITY pref_plugins_tap_to_play "點一下播放">
 <!ENTITY pref_plugins_disabled "停用">
 <!ENTITY pref_text_size "文字大小">
-<!ENTITY pref_reflow_on_zoom4 "重排文字">
 <!ENTITY pref_restore "分頁">
 <!ENTITY pref_restore_always "總是還原">
 <!ENTITY pref_restore_quit "不要在離開 &brandShortName; 後還原">
@@ -269,7 +288,7 @@ size. -->
 
 <!ENTITY pref_use_master_password "使用主控密碼">
 <!ENTITY pref_sync "同步">
-<!ENTITY pref_sync_summary2 "同步您的分頁、書籤、登入帳號密碼、瀏覽紀錄">
+<!ENTITY pref_sync_summary2 "同步您的分頁、書籤、登入資訊、瀏覽紀錄">
 <!ENTITY pref_search_suggestions "顯示搜尋建議">
 <!ENTITY pref_import_android "自 Android 匯入">
 <!ENTITY pref_import_android_summary "自內建瀏覽器匯入書籤與瀏覽紀錄">
@@ -339,7 +358,7 @@ size. -->
 <!ENTITY quit "離開">
 
 <!ENTITY addons "附加元件">
-<!ENTITY logins "帳號密碼">
+<!ENTITY logins "登入資訊">
 <!ENTITY downloads "下載項目">
 <!ENTITY char_encoding "語言及字元編碼">
 
@@ -347,6 +366,7 @@ size. -->
 <!ENTITY share_title "分享到">
 <!ENTITY share_image_failed "無法分享此圖片">
 <!ENTITY save_as_pdf "儲存為 PDF">
+<!ENTITY print "列印">
 <!ENTITY find_in_page "在頁面中搜尋">
 <!ENTITY desktop_mode "開啟桌面版網站">
 <!ENTITY page "頁面">
@@ -391,6 +411,8 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "釘選網站">
 <!ENTITY contextmenu_top_sites_unpin "解除釘選網站">
 <!ENTITY contextmenu_add_search_engine "新增搜尋引擎">
+<!ENTITY contextmenu_mark_read "標示為已讀">
+<!ENTITY contextmenu_mark_unread "標示為未讀">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -413,8 +435,8 @@ size. -->
 
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
-<!ENTITY pref_prevent_magnifying_glass "停用放大鏡">
-<!ENTITY pref_prevent_magnifying_glass_summary "不使用放大鏡確認要點擊的連結">
+<!ENTITY pref_magnifying_glass_enabled "放大範圍">
+<!ENTITY pref_magnifying_glass_enabled_summary "點擊鏈結與表單欄位附近時放大顯示">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
@@ -473,8 +495,6 @@ size. -->
 <!ENTITY button_set "設定">
 <!ENTITY button_clear "清除">
 <!ENTITY button_copy "複製">
-
-<!ENTITY firstrun_panel_title_welcome "歡迎">
 
 <!ENTITY home_top_sites_title "最常瀏覽">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -564,14 +584,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_insecure "不安全的連線">
 
 <!-- Mixed content notifications in site identity popup -->
-<!ENTITY mixed_content_blocked_all "&brandShortName; 已封鎖此頁面中不安全的元素。">
-<!ENTITY mixed_content_blocked_some "&brandShortName; 已封鎖此頁面中某些不安全的元素。">
-<!ENTITY mixed_content_display_loaded "此頁面中有一些不安全的元素。">
-<!ENTITY mixed_content_protection_disabled "你已經停用不安全元素的保護。">
-
-<!ENTITY loaded_mixed_content_message "此頁面包含不安全的內容。">
-<!ENTITY blocked_mixed_content_message_top "&brandShortName; 已封鎖了不安全的內容。">
-<!ENTITY blocked_mixed_content_message_bottom "大部分的網站在此內容被封鎖時還是能正常使用。">
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; 已封鎖此頁面不安全的內容。">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; 已封鎖此頁面中一些不安全的內容。">
+<!ENTITY mixed_content_display_loaded1 "本頁面中的部分內容（例如圖片）並不安全。">
+<!ENTITY mixed_content_protection_disabled1 "您已停用不安全內容的保護。">
 
 <!-- Tracking content notifications in site identity popup -->
 <!ENTITY doorhanger_tracking_title "追蹤保護">
@@ -631,7 +647,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "繼續">
 <!ENTITY guest_session_dialog_cancel "取消">
 <!ENTITY new_guest_session_title "&brandShortName; 現在將會重新啟動">
-<!ENTITY new_guest_session_text2 "訪客將不會見到您的個人瀏覽資料（例如儲存的帳號密碼、瀏覽紀錄或書籤）。\n\n當您的訪客用好之後，瀏覽資料將被清除，並還原您的瀏覽階段。">
+<!ENTITY new_guest_session_text2 "訪客將不會見到您的個人瀏覽資料（例如儲存的登入資訊、瀏覽紀錄或書籤）。\n\n當您的訪客用好之後，瀏覽資料將被清除，並還原您的瀏覽階段。">
 <!ENTITY guest_browsing_notification_title "已進入訪客瀏覽階段">
 <!ENTITY guest_browsing_notification_text "點擊此處結束">
 
@@ -700,5 +716,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restriction_disallow_clear_history_title2 "停用「清除瀏覽紀錄」">
 <!ENTITY restriction_disallow_master_password_title2 "停用主控密碼">
 <!ENTITY restriction_disallow_guest_browsing_title2 "停用訪客瀏覽">
-
+<!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!ENTITY bookmarks_about_browser "Firefox: 關於您的瀏覽器">
+<!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "Firefox: 使用附加元件">
+<!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "Firefox: 技術支援">
+<!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
+<!ENTITY bookmarks_marketplace "Firefox Marketplace">
+<!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!ENTITY bookmarks_restricted_support2 "Android 平板上的受限設定檔的 Firefox 輔助說明與技術支援">
+<!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!ENTITY bookmarks_restricted_webmaker "了解 Web: Mozilla Webmaker">
 

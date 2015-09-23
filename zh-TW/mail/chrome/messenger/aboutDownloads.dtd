@@ -17,6 +17,9 @@
 <!ENTITY cmd.open.accesskey                        "O">
 <!ENTITY cmd.removeFromHistory.label               "自下載記錄移除">
 <!ENTITY cmd.removeFromHistory.accesskey           "e">
-<!ENTITY cmd.clearDownloads.label                  "清空下載清單">
-<!ENTITY cmd.clearDownloads.accesskey              "D">
+<!ENTITY cmd.clearList.label                       "清空下載清單">
+<!ENTITY cmd.clearList.accesskey                   "C">
+<!ENTITY cmd.clearList.tooltip                     "除了正在下載中的項目之外，清除清單中的所有項目。">
+<!ENTITY cmd.searchDownloads.label                 "搜尋…">
+<!ENTITY cmd.searchDownloads.key                   "F">
 

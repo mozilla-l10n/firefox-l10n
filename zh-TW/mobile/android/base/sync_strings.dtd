@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label '要同步什麼'>
 <!ENTITY sync.configure.engines.sync.my.title.label '同步您的…'>
 <!ENTITY sync.configure.engines.title.bookmarks '書籤'>
-<!ENTITY sync.configure.engines.title.passwords2 '帳號密碼'>
+<!ENTITY sync.configure.engines.title.passwords2 '登入資訊'>
 <!ENTITY sync.configure.engines.title.history '歷史'>
 <!ENTITY sync.configure.engines.title.tabs '分頁'>
 
@@ -197,6 +197,7 @@
 
 <!ENTITY fxaccount_status_header2 'Firefox 帳號'>
 <!ENTITY fxaccount_status_signed_in_as '已登入為'>
+<!ENTITY fxaccount_status_manage_account '管理帳號'>
 <!ENTITY fxaccount_status_auth_server '帳號伺服器'>
 <!ENTITY fxaccount_status_sync_now '立即同步'>
 <!ENTITY fxaccount_status_syncing2 '同步中…'>
@@ -212,7 +213,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating '點擊此處以登入至您全新的 Firefox 帳號。'>
 <!ENTITY fxaccount_status_bookmarks '書籤'>
 <!ENTITY fxaccount_status_history '歷史記錄'>
-<!ENTITY fxaccount_status_passwords2 '帳號密碼'>
+<!ENTITY fxaccount_status_passwords2 '登入資訊'>
 <!ENTITY fxaccount_status_tabs '開啟分頁'>
 <!ENTITY fxaccount_status_legal '使用條款' >
 <!-- Localization note: when tapped, the following two strings link to

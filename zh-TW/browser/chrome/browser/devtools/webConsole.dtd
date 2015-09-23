@@ -11,24 +11,6 @@
 <!ENTITY window.title "網頁主控台">
 <!ENTITY browserConsole.title "瀏覽器主控台">
 
-<!ENTITY networkPanel.requestURLColon             "請求 URL:">
-<!ENTITY networkPanel.requestMethodColon          "請求方法:">
-<!ENTITY networkPanel.statusCodeColon             "狀態代碼:">
-
-<!ENTITY networkPanel.requestHeaders              "請求標頭">
-<!ENTITY networkPanel.requestCookie               "已送出的 Cookie">
-<!ENTITY networkPanel.requestBody                 "請求內容">
-<!ENTITY networkPanel.requestFormData             "送出的表單資料">
-
-<!ENTITY networkPanel.responseHeaders             "回應標頭">
-<!ENTITY networkPanel.responseCookie              "收到的 Cookie">
-<!ENTITY networkPanel.responseBody                "回應內容">
-<!ENTITY networkPanel.responseBodyCached          "已快取的資料">
-<!ENTITY networkPanel.responseBodyUnknownType     "未知的 Content Type">
-<!ENTITY networkPanel.responseNoBody              "無回應內容">
-<!ENTITY networkPanel.responseImage               "接收的圖片">
-<!ENTITY networkPanel.responseImageCached         "快取的圖片">
-
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
 <!ENTITY saveBodies.label     "記錄請求與回應內容">
@@ -75,6 +57,17 @@
 <!ENTITY btnConsoleLog          "記錄">
 <!ENTITY btnConsoleXhr          "XHR">
 <!ENTITY btnConsoleReflows      "重排">
+
+<!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
+  -  the toolbar. It shows or hides messages that the web developer inserted on
+  -  the page for debugging purposes, using calls on the HTTP server. -->
+<!ENTITY btnServerLogging.label       "伺服器">
+<!ENTITY btnServerLogging.tooltip     "紀錄來自網頁伺服器的訊息">
+<!ENTITY btnServerLogging.accesskey   "S">
+<!ENTITY btnServerErrors              "錯誤">
+<!ENTITY btnServerInfo                "資訊">
+<!ENTITY btnServerWarnings            "警告">
+<!ENTITY btnServerLog                 "記錄">
 
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->

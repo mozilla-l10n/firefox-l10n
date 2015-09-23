@@ -28,8 +28,8 @@
 <!ENTITY addToUserDictionaryButton.accessKey "d">
 <!ENTITY editUserDictionaryButton.label "編輯…">
 <!ENTITY editUserDictionaryButton.accessKey "E">
-<!ENTITY recheckButton.label "重新檢查頁面">
-<!ENTITY recheckButton.accessKey "P">
+<!ENTITY recheckButton2.label "重新檢查文字">
+<!ENTITY recheckButton2.accessKey "T">
 <!ENTITY closeButton.label "關閉">
 <!ENTITY closeButton.accessKey "C">
 <!ENTITY sendButton.label "傳送">

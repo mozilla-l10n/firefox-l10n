@@ -26,6 +26,7 @@
 <!ENTITY projectMenu_showPrefs_accesskey "e">
 <!ENTITY projectMenu_manageComponents_label "管理其他元件">
 <!ENTITY projectMenu_manageComponents_accesskey "M">
+<!ENTITY projectMenu_refreshTabs_label "重新整理分頁">
 
 <!ENTITY runtimeMenu_label "Runtime">
 <!ENTITY runtimeMenu_accesskey "R">

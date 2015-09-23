@@ -14,6 +14,8 @@
 
 <!ENTITY pref.weekstarts.label "每週的第一天:">
 <!ENTITY pref.weekstarts.accesskey "r">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.label "在畫面與迷你月曆中顯示週數">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "w">
 <!ENTITY pref.daysoff.label "每週的工作日包含:">
 
 <!ENTITY pref.calendar.view.daystart.label "每天開始時間:">

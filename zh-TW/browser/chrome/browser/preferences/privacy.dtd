@@ -13,6 +13,8 @@
 <!ENTITY trackingProtectionPBM5.label         "在隱私瀏覽視窗中使用追蹤保護功能">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "詳細資訊">
+<!ENTITY changeBlockList.label          "變更封鎖清單">
+<!ENTITY changeBlockList.accesskey      "C">
 
 <!ENTITY  history.label                 "歷史記錄">
 

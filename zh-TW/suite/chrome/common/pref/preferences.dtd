@@ -24,7 +24,7 @@
 <!ENTITY popups.label "彈出型視窗 (Popup)">
 <!ENTITY passwords.label "密碼">
 <!ENTITY masterpass.label "主控密碼">
-<!ENTITY ssl.label "SSL">
+<!ENTITY ssltls.label "SSL/TLS">
 <!ENTITY certs.label "憑證">
 <!ENTITY sync.label "同步">
 <!ENTITY advance.label "進階">
