@@ -2,16 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  SSLProtocolVersions.caption       "SSL">
-<!ENTITY  SSLWarnings.caption               "SSL 警告">
-<!ENTITY  SSLMixedContent.caption           "混合內容">
-<!ENTITY  SSLClientAuthMethod.caption       "客戶端認證方式選擇">
+<!ENTITY SSLTLSProtocolVersions.caption     "SSL/TLS 通訊協定版本">
+<!ENTITY SSLTLSWarnings.caption             "SSL/TLS 警告">
+<!ENTITY SSLMixedContent.caption            "混合內容">
+<!ENTITY SSLClientAuthMethod.caption        "客戶端認證方式選擇">
 
-<!ENTITY pref.ssl.title                     "安全連線（SSL）">
+<!ENTITY pref.ssltls.title                  "傳輸層安全通訊協定（SSL/TLS）">
 <!ENTITY limit.description                  "您可以限制只使用哪些加密通訊協定進行安全連線。請選擇單一版本或是連續版本號的幾個版本。">
 <!ENTITY limit.enable.label                 "啟用:">
-<!ENTITY limit.ssl30.label                  "SSL 3.0">
-<!ENTITY limit.ssl30.accesskey              "3">
 <!ENTITY limit.tls10.label                  "TLS 1.0">
 <!ENTITY limit.tls10.accesskey              "T">
 <!ENTITY limit.tls11.label                  "TLS 1.1">

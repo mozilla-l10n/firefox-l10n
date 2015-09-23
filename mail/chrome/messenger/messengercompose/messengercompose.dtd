@@ -215,6 +215,7 @@
 <!ENTITY addressButton.tooltip "從通訊錄裡選擇收件者">
 <!ENTITY attachButton.tooltip "附加檔案到郵件中">
 <!ENTITY spellingButton.tooltip "對郵件的全部或反白部分檢查拼字">
+<!ENTITY statusLanguageText.tooltip "拼字檢查語言">
 <!ENTITY saveButton.tooltip "儲存這封郵件">
 <!ENTITY cutButton.tooltip              "剪下">
 <!ENTITY copyButton.tooltip             "複製">

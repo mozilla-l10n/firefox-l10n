@@ -4,7 +4,7 @@
 <!ENTITY % brandDTD
      SYSTEM "chrome://branding/locale/brand.dtd">
    %brandDTD;
-<!ENTITY aboutLogins.title                       "帳號密碼">
+<!ENTITY aboutLogins.title                       "登入資訊">
 <!ENTITY aboutLogins.update                      "更新">
 <!ENTITY aboutLogins.emptyLoginText              "保護您的帳號密碼安全">
 <!ENTITY aboutLogins.emptyLoginHint              "您使用 &brandShortName; 儲存的登入資訊將顯示於此處。">

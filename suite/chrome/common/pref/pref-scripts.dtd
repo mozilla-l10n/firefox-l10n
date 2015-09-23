@@ -21,6 +21,10 @@
 <!ENTITY allowContextmenuDisable.label   "停用或取代右鍵選單">
 <!ENTITY allowHideStatusBar.label        "隱藏狀態列">
 
+<!ENTITY enableDrmMedia.label            "為下列網站開啟 Digital Rights Management:">
+<!ENTITY enableEmeForSuite.label         "第三方內容解碼模組">
+<!ENTITY enableEmeForSuite.accesskey     "C">
+
 <!ENTITY enablePlugins.label             "啟用下列網站的外掛程式">
 <!ENTITY enablePluginForSuite.label      "Suite">
 <!ENTITY enablePluginForSuite.accesskey  "u">

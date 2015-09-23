@@ -13,9 +13,9 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "您不在隱私瀏覽模式中">
 
-<!ENTITY privatebrowsingpage.description.private3 "Firefox 會保護您不被追蹤，也不會留下任何記錄。但下載的文件及新的書籤依然會儲存在裝置內。">
+<!ENTITY privatebrowsingpage.description.private4 "&brandShortName; 將防止您被追蹤，不會記住任何瀏覽紀錄，但還是會在裝置中留下下載的檔案與新建立的書籤。">
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
-     Browsing" is capitalized in English to be consistent with our existing uses
+     Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
 <!ENTITY privatebrowsingpage.description.normal2 "在隱私瀏覽模式中，不會留下瀏覽紀錄以及 cookies。您新增的書籤及下載的檔案仍然會儲存在裝置內。">
 
