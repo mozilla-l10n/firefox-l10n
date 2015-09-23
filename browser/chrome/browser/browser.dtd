@@ -222,7 +222,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "Descargas">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
-
+<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Extras">
 <!ENTITY addons.accesskey             "E">
 <!ENTITY addons.commandkey            "A">
@@ -405,11 +405,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Gostaria de melhorar a sua experiência de pesquisa com sugestões?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Saber mais…">
-
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Não">
-
+<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Sim">
-
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -466,9 +466,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Alterar definições de pesquisa">
 
-
-
-
+<!ENTITY searchInNewTab.label         "Pesquisar num novo separador">
+<!ENTITY searchInNewTab.accesskey     "P">
+<!ENTITY searchSetAsDefault.label     "Definir como motor de pesquisa predefinido">
+<!ENTITY searchSetAsDefault.accesskey "d">
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -697,7 +698,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Adicionar dicionários…">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
-<!ENTITY editBookmark.done.label                     "Concluir">
+<!ENTITY editBookmark.done.label                     "OK">
 <!ENTITY editBookmark.cancel.label                   "Cancelar">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
