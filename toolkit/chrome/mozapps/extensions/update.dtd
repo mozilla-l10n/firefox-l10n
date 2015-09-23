@@ -40,26 +40,26 @@ xa izihlaziyi zohambelwano zezi zongezelelo zifumaneka.">
 
 <!ENTITY  finished.wizard.title           "IZongezelelo zoHambelwano ziFakelwe">
 <!ENTITY  finished.top.label              "&brandShorterName; ifakele izihlaziyi kwizongezelelo zakho.">
-<!ENTITY  finished.checkDisabled.desc     "&brandShortName; inokukhangela amaxesha ngamaxesha ize ikwazise 
+<!ENTITY  finished.checkDisabled.desc     "&brandShorterName; inokukhangela amaxesha ngamaxesha ize ikwazise 
 xa izihlaziyi zohambelwano zezi zongezelelo zifumaneka.">
-<!ENTITY  finished.checkEnabled.desc      "&brandShortName; iya kukhangela amaxesha ngamaxesha ize ikwazise 
+<!ENTITY  finished.checkEnabled.desc      "&brandShorterName; iya kukhangela amaxesha ngamaxesha ize ikwazise 
 xa izihlaziyi zohambelwano zezi zongezelelo zifumaneka.">
 
 <!ENTITY  adminDisabled.wizard.title      "Ayikwazi ukuKhangela iziHlaziyi">
 <!ENTITY  adminDisabled.warning.label     "Akukwazeki ukukhangela izihlaziyi kwizongezelelo ezingahambelaniyo 
-ngenxa yokuba ufakelo lwesoftwe &brandShortName; lwenziwe alwasebenza. 
+ngenxa yokuba ufakelo lwesoftwe &brandShorterName; lwenziwe alwasebenza. 
 Nceda uqhagamshelane noMlawuli weSistim yakho ukufumana uncedo.">
 
 <!ENTITY  versioninfo.wizard.title        "Ikhangela iZongezelelo zoHambelwano">
 <!ENTITY  versioninfo.top.label           "Ikhangela izongezelelo zakho zohambelwano ngolu 
-hlelo &brandShortName;.">
+hlelo &brandShorterName;.">
 <!ENTITY  versioninfo.waiting             "Oku kunokuthatha imizuzu embalwa…">
 
 <!ENTITY  installerrors.wizard.title      "Iingxaki zokuFakela iziHlaziyi">
-<!ENTITY  installerrors.intro.label       "&brandShortName; ihlangabezene neengxaki xa ihlaziya 
+<!ENTITY  installerrors.intro.label       "&brandShorterName; ihlangabezene neengxaki xa ihlaziya 
 ezinye zezongezelelo zakho.">
 <!-- general strings used by several of the finish pages -->
 
-<!ENTITY  clickFinish.label               "Cofa ku-Kugqityiwe ukuqhubeka nokuqalisa &brandShortName;.">
-<!ENTITY  clickFinish.labelMac            "Cofa ku-Kugqityiwe ukuqhubeka nokuqalisa &brandShortName;.">
-<!ENTITY  enableChecking.label            "Vumela &brandShortName; ijongisise uhlaziyo.">
+<!ENTITY  clickFinish.label               "Cofa ku-Kugqityiwe ukuqhubeka nokuqalisa &brandShorterName;.">
+<!ENTITY  clickFinish.labelMac            "Cofa ku-Kugqityiwe ukuqhubeka nokuqalisa &brandShorterName;.">
+<!ENTITY  enableChecking.label            "Vumela &brandShorterName; ijongisise uhlaziyo.">
