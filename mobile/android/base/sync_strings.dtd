@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label "Rudaí le sioncrónú">
 <!ENTITY sync.configure.engines.sync.my.title.label "Sioncrónaigh do…">
 <!ENTITY sync.configure.engines.title.bookmarks "Leabharmharcanna">
-<!ENTITY sync.configure.engines.title.passwords2 "Logálacha Isteach">
+<!ENTITY sync.configure.engines.title.passwords2 "Focail Fhaire">
 <!ENTITY sync.configure.engines.title.history "Stair">
 <!ENTITY sync.configure.engines.title.tabs "Cluaisíní">
 <!-- Common text -->
@@ -213,7 +213,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating "Tapáil le logáil isteach i do chuntas nua Firefox.">
 <!ENTITY fxaccount_status_bookmarks "Leabharmharcanna">
 <!ENTITY fxaccount_status_history "Stair">
-<!ENTITY fxaccount_status_passwords2 "Logálacha Isteach">
+<!ENTITY fxaccount_status_passwords2 "Focail Fhaire">
 <!ENTITY fxaccount_status_tabs "Oscail cluaisíní">
 <!ENTITY fxaccount_status_legal "Cúrsaí Dlí" >
 <!-- Localization note: when tapped, the following two strings link to

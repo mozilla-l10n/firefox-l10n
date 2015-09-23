@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
    %brandDTD;
-<!ENTITY aboutLogins.title                       "Logálacha Isteach">
+<!ENTITY aboutLogins.title                       "Focail Fhaire">
 <!ENTITY aboutLogins.update                      "Nuashonrú">
 <!ENTITY aboutLogins.emptyLoginText              "Cosain do chuid focal faire">
 <!ENTITY aboutLogins.emptyLoginHint              "Taispeánfar ainmneacha úsáideora agus focail fhaire a shábhálann tú i &brandShortName; anseo.">
