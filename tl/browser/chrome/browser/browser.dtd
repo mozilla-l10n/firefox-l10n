@@ -261,8 +261,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
-
-
+<!ENTITY devToolboxMenuItem.label          "I-toggle ang Tools">
+<!ENTITY devToolboxMenuItem.accesskey      "I">
 
 
 
@@ -717,7 +717,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
+<!ENTITY getUserMedia.allWindowsShared.message "Lahat ng nakikitang window sa iyong screen ay ibabahagi.">
 
 
 
@@ -746,7 +746,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 
-
+<!ENTITY pluginBlockNow.label "I-block ang Plugin">
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
      blocked on a page. Should be wide enough to fit the pluginActivateNow.label

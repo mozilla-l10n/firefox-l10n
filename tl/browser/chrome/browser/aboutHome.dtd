@@ -35,6 +35,6 @@
      the Apps menu item in the Tools menu (webapps.label in browser.dtd) and the Apps toolbar button in
      Firefox's customization palette (web-apps-button.label in customizableWidgets.properties) -->
 <!ENTITY abouthome.downloadsButton.label "Mga Download">
-<!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">
+<!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label; ">
 <!-- LOCALIZATION NOTE (find.commandkey): This is the key to use in
      conjunction with accel (Command on Mac or Ctrl on other platforms) to find -->

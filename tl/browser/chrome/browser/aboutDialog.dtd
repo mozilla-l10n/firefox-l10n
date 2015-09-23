@@ -1,7 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-<!ENTITY aboutDialog.title          "Tungkol sa &brandFullName;">
+<!ENTITY aboutDialog.title          "Tungkol sa &brandFullName; ">
 <!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*, update.applyButtonBillboard.*):
 # Only one button is present at a time.
 # The button when displayed is located directly under the Firefox version in
@@ -10,7 +10,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Magsiyasat ng mga pagbabago">
 <!ENTITY update.checkForUpdatesButton.accesskey   "M">
-<!ENTITY update.updateButton.label2                "Patakbuhin ulit ang &brandShortName; upang mailapat ang Pagbabago">
+<!ENTITY update.updateButton.label2                "Patakbuhin ulit ang &brandShortName; upang mailapat ang Pagbabago.">
 <!ENTITY update.updateButton.accesskey            "R">
 <!ENTITY update.applyButtonBillboard.label        "Ilapat ang Update">
 <!ENTITY update.applyButtonBillboard.accesskey    "A">
@@ -56,11 +56,11 @@
 <!ENTITY bottomLinks.privacy        "Patakaran sa Privacy">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.checkingForUpdates  "Naghahanap ng updates...">
+<!ENTITY update.checkingForUpdates  "Naghahanap ng updates... ">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.noUpdatesFound      "&brandShortName; ay up to date">
+<!ENTITY update.noUpdatesFound      "&brandShortName; ay up to date ">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "Ang pagdadagdag ng mga pagbabago ay pinawalang bisa ng iyong system administrator.">
+<!ENTITY update.adminDisabled       "Ang pagdadagdag ng mga pagbabago ay pinawalang bisa ng iyong system administrator. ">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; ay kasalukuyang I-naupdate ng isa pang instance">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
