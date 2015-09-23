@@ -178,11 +178,11 @@
 <!ENTITY pref_developer_remotedebugging_usb "Dífhabhtú i gcéin trí USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Dífhabhtú i gcéin trí Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Le dífhabhtú a dhéanamh thar Wi-Fi, ní mór aip a léann cóid QR a bheith ar do ghléas.">
-<!ENTITY pref_category_logins "Logálacha Isteach">
+<!ENTITY pref_category_logins "Focail Fhaire">
 <!ENTITY pref_remember_signons2 "Meabhraigh focail fhaire">
 <!ENTITY pref_open_external_urls_privately_title "Oscail nascanna i mBrabhsáil Phríobháideach">
 <!ENTITY pref_open_external_urls_privately_summary "Do gach nasc seachtrach a osclaítear i &brandShortName;">
-<!ENTITY pref_manage_logins "Bainistigh logálacha isteach">
+<!ENTITY pref_manage_logins "Bainistigh focail fhaire">
 
 <!ENTITY pref_category_home "Baile">
 <!ENTITY pref_category_home_summary "Saincheap do leathanach baile">
@@ -358,7 +358,7 @@ size. -->
 <!ENTITY quit "Scoir">
 
 <!ENTITY addons "Breiseáin">
-<!ENTITY logins "Logálacha isteach">
+<!ENTITY logins "Focail Fhaire">
 <!ENTITY downloads "Íosluchtuithe">
 <!ENTITY char_encoding "Ionchódú Carachtar">
 
@@ -418,11 +418,11 @@ size. -->
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
 
 <!ENTITY doorhanger_login_no_username "[Gan ainm úsáideora]">
-<!ENTITY doorhanger_login_edit_title "Cuir logáil isteach in eagar">
+<!ENTITY doorhanger_login_edit_title "Cuir an focal faire in eagar">
 <!ENTITY doorhanger_login_edit_username_hint "Ainm an Úsáideora">
 <!ENTITY doorhanger_login_edit_password_hint "Focal Faire">
 <!ENTITY doorhanger_login_edit_toggle "Taispeáin an focal faire">
-<!ENTITY doorhanger_login_edit_toast_error "Níor sábháladh an logáil isteach">
+<!ENTITY doorhanger_login_edit_toast_error "Níor sábháladh an focal faire">
 <!ENTITY doorhanger_login_select_message "Cóipeáil an focal faire ó &formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "Cóipeáladh an focal faire go dtí an ghearrthaisce">
 <!ENTITY doorhanger_login_select_toast_copy_error "Níorbh fhéidir an focal faire a chóipeáil">
