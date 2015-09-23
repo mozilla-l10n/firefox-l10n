@@ -101,7 +101,7 @@
 <!ENTITY certs.ask                       "Întreabă-mă de fiecare dată">
 <!ENTITY certs.ask.accesskey             "A">
 <!ENTITY enableOCSP.label                "Interoghează serverele de răspuns OCSP pentru confirmarea valabilității actuale a certificatelor">
-<!ENTITY enableOCSP.accesskey            "h">
+<!ENTITY enableOCSP.accesskey            "e">
 
 <!ENTITY viewCertificates.label         "Vizualizare certificate">
 <!ENTITY viewCertificates.accesskey     "a">

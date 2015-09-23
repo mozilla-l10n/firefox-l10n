@@ -12,7 +12,7 @@
 <!ENTITY useQuickMode.label "În mod implicit arată sumarul articolului în loc să încarci pagina web"> 
 <!ENTITY useQuickMode.accesskey "b">
 
-<!ENTITY manageSubscriptions.label "Gestionare abonamente…"> 
+<!ENTITY manageSubscriptions.label "Gestionează abonamente…"> 
 <!ENTITY manageSubscriptions.accesskey "m">
 
 <!ENTITY feedWindowTitle.label "Asistent de configurare conturi de flux">
