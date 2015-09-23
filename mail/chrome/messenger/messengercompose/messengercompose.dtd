@@ -215,6 +215,7 @@
 <!ENTITY addressButton.tooltip "Selecionar destinatários no catálogo de endereços">
 <!ENTITY attachButton.tooltip "Anexar arquivos">
 <!ENTITY spellingButton.tooltip "Verificar ortografia da seleção ou de toda a mensagem">
+<!ENTITY statusLanguageText.tooltip "Verificação ortográfica de idioma">
 <!ENTITY saveButton.tooltip "Salvar a mensagem na pasta “Rascunhos”">
 <!ENTITY cutButton.tooltip              "Recortar">
 <!ENTITY copyButton.tooltip             "Copiar">
