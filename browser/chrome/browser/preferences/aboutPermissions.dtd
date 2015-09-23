@@ -41,5 +41,7 @@
 
 <!ENTITY popup.label                     "פתיחת חלונות קופצים">
 
-<!ENTITY fullscreen.label                "מסך מלא">
+<!ENTITY push.label                      "קבלת התרעות בדחיפה">
+<!ENTITY camera.label                    "שימוש במצלמה">
+<!ENTITY microphone.label                "שימוש במיקרופון">
 

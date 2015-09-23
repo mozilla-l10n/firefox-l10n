@@ -9,20 +9,6 @@
 <!ENTITY  popupExceptions.label       "חריגות...">
 <!ENTITY  popupExceptions.accesskey   "ר">
 
-<!ENTITY  loadImages.label            "טעינת תמונות אוטומטית">
-<!ENTITY  loadImages.accesskey        "ת">
-<!ENTITY  exceptions.label            "חריגות...">
-<!ENTITY  exceptions.accesskey        "י">
-
-<!ENTITY  enableJavaScript.label      "אפשר JavaScript">
-<!ENTITY  enableJavaScript.accesskey  "פ">
-<!ENTITY  advancedJS.label            "מתקדם...">
-<!ENTITY  advancedJS.accesskey        "ק">
-
-<!ENTITY  enableJava.label            "אפשר Java">
-<!ENTITY  enableJava.accesskey        "א">
-
-
 <!ENTITY  fontsAndColors.label        "גופנים וצבעים">
 
 <!ENTITY  defaultFont.label           "גופן ברירת מחדל:">
@@ -57,3 +43,8 @@
 <!ENTITY translation.options.attribution.beforeLogo "תרגום של">
 <!ENTITY translation.options.attribution.afterLogo "">
 
+<!ENTITY  drmContent.label             "תוכן ניהול זכויות קניין">
+
+<!ENTITY  playDRMContent.label         "ניגון תוכן ניהול זכויות קניין">
+<!ENTITY  playDRMContent.accesskey     "ז">
+<!ENTITY  playDRMContent.learnMore.label "מידע נוסף">

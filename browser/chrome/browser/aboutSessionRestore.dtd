@@ -20,15 +20,31 @@
 <!ENTITY restorepage.restoreHeader  "שחזור">
 <!ENTITY restorepage.listHeader     "חלונות ולשוניות">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "חלון &#37;S">
+<!ENTITY restorepage.windowLabel    "חלון &#037;S">
 
 
-<!-- LOCALIZATION NOTE: The following 'welcomeback' strings are for about:welcomeback,
+<!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
-<!ENTITY welcomeback.tabtitle       "ברוך שובך!">
 
-<!-- LOCALIZATION NOTE: The title is intended to be welcoming and congratulatory,
-     expressing joy that the user has successfully migrated their stuff and hope
-     that now they have a better experience.  -->
-<!ENTITY welcomeback.pageTitle      "ברוך שובך!">
-<!ENTITY welcomeback.pageInfo       "&brandShortName; איפס את הפרופיל שלך בהצלחה. להלן רשימה של חלונות ולשוניות שהיו פתוחים, ניתן לשחזר אותם או להתחיל עם לוח חלק.">
+<!ENTITY welcomeback2.restoreButton  "דרך צלחה!">
+<!ENTITY welcomeback2.restoreButton.access "ד">
+
+<!ENTITY welcomeback2.tabtitle      "הצלחה!">
+
+<!ENTITY welcomeback2.pageTitle     "הדפדפן מוכן ומזומן לפקודתך!">
+<!ENTITY welcomeback2.pageInfo1     "&brandShortName; מוכן כעת לנסיעה.">
+
+<!ENTITY welcomeback2.label.restoreAll  "שחזור כל הלשוניות והחלונות">
+<!ENTITY welcomeback2.label.restoreSome "שחזור רק של אלו הנחוצות">
+
+
+<!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
+welcomeback2.afterlink.pageInfo2): these two string are used respectively
+before and after the the "learn more" link (welcomeback2.link.pageInfo2).
+Localizers can use one of them, or both, to better adapt this sentence to
+their language.
+-->
+<!ENTITY welcomeback2.beforelink.pageInfo2  "ההרחבות וההתאמות האישיות שלך הוסרו והגדרות הדפדפן שוחזרו לבררת המחדל. אם פעולה זו לא פותרת את הבעיות,">
+<!ENTITY welcomeback2.afterlink.pageInfo2   "">
+
+<!ENTITY welcomeback2.link.pageInfo2        "ניתן למצוא כאן פתרונות נוספים.">
