@@ -18,9 +18,9 @@
 <!ENTITY firstrun_import_title "ইম্পোর্ট করুন">
 <!ENTITY firstrun_import_message "&brandShortName; এ স্বাগতম">
 <!ENTITY firstrun_import_subtext "অন্য ব্রাউজার থেকে বুকমার্ক ও ব্রাউজিং ইতিহাস ইমপোর্ট করুন।">
-
-
-
+<!ENTITY firstrun_import_action "&brandShortName; এ স্থানান্তর করুন">
+<!ENTITY firstrun_import_dialog_button "স্থানান্তর">
+<!ENTITY firstrun_import_progress_title "স্থানান্তরিত হচ্ছে">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -65,9 +65,9 @@
 
 <!ENTITY history_today_section "আজ">
 <!ENTITY history_yesterday_section "গতকাল">
-
-
-
+<!ENTITY history_week_section3 "গত ৭ দিন">
+<!ENTITY history_this_month_section "চলতি মাস">
+<!ENTITY history_older_section3 "৬ মাসের বেশি পুরনো">
 
 <!ENTITY go "যান">
 <!ENTITY search "খুঁজুন">
@@ -97,6 +97,7 @@
      &formatS; will be replaced with the title of the tab, as received from the
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "অডিও চলছে – &formatS;">
 
 <!ENTITY settings "সেটিংসমূহ">
 <!ENTITY settings_title "সেটিংসমূহ">
@@ -198,9 +199,9 @@
 <!ENTITY pref_home_updates_wifi "শুধু ওয়াইফাই নির্ভর">
 <!ENTITY pref_home_suggested_sites "সাইট পরামর্শ দেখাও">
 <!ENTITY pref_home_suggested_sites_summary "আপনার হোমপেজে কিছু সাইটের শর্টকাট যুক্ত করে দেওয়া হল যেগুলো আপনার পছন্দ হতে পারে।">
-
-
-
+<!ENTITY pref_category_home_homepage "নীড়পাতা">
+<!ENTITY home_homepage_title "নীড়পাতা সেট করুন">
+<!ENTITY home_homepage_use_current_tab "বর্তমান ট্যাব ব্যবহার করুন">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "কাস্টমাইজ">
@@ -365,7 +366,7 @@ size. -->
 <!ENTITY share_title "শেয়ারের মাধ্যম">
 <!ENTITY share_image_failed "এই ছবি শেয়ার করতে অক্ষম">
 <!ENTITY save_as_pdf "পিডিএফ হিসেবে সংরক্ষণ করুন">
-
+<!ENTITY print "মুদ্রণ">
 <!ENTITY find_in_page "পৃষ্ঠায় খুঁজুন">
 <!ENTITY desktop_mode "ডেস্কটপ সাইটের অনুরোধ">
 <!ENTITY page "পেজ">
@@ -385,7 +386,7 @@ size. -->
 
 <!ENTITY find_text "পৃষ্ঠায় খুঁজুন">
 <!ENTITY find_prev "পূর্ববর্তী">
-
+<!ENTITY find_next "পরবর্তী">
 <!ENTITY find_close "বন্ধ">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -410,8 +411,8 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "সাইট পিন করুন">
 <!ENTITY contextmenu_top_sites_unpin "সাইট আনপিন করুন">
 <!ENTITY contextmenu_add_search_engine "একটি সার্চ ইঞ্জিন যোগ করুন">
-
-
+<!ENTITY contextmenu_mark_read "পঠিত হিসাবে চিহ্নিত কর">
+<!ENTITY contextmenu_mark_unread "অপঠিত হিসাবে চিহ্নিত কর">
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
@@ -433,6 +434,8 @@ size. -->
 <!ENTITY pref_titlebar_mode_url "পৃষ্ঠার ঠিকানা প্রদর্শন">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
+
+<!ENTITY pref_magnifying_glass_enabled "ছোট এলাকাকে বড় করো">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
