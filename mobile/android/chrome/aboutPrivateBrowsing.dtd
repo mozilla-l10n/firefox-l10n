@@ -13,6 +13,7 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "Þú ert ekki í huliðsstillingu">
 
+<!ENTITY privatebrowsingpage.description.private4 "&brandShortName; mun koma í veg fyrir að fylgst sé með þér og mun ekki skrá neitt ferli en skrár sem þú hleður niður og ný bókarmerki munu samt vistast á tækinu þínu.">
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
