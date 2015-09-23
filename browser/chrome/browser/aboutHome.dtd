@@ -39,3 +39,5 @@
 <!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (find.commandkey): This is the key to use in
      conjunction with accel (Command on Mac or Ctrl on other platforms) to find -->
+
+<!ENTITY find.commandkey "f">
