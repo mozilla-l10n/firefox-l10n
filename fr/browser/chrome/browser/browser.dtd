@@ -881,7 +881,7 @@ you can use these alternative items. Otherwise, their values should be empty.
 
 <!ENTITY panicButton.thankyou.msg1                "Votre historique récent a été correctement effacé.">
 <!ENTITY panicButton.thankyou.msg2                "Bonne navigation !">
-<!ENTITY panicButton.thankyou.buttonlabel         "Merci !">
+<!ENTITY panicButton.thankyou.buttonlabel         "Fermer">
 
 <!ENTITY processHang.terminateScript.label        "Arrêter le script">
 <!ENTITY processHang.terminateScript.accessKey    "A">
