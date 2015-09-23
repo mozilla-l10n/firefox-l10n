@@ -24,7 +24,10 @@
 <!ENTITY  addonExceptions.accesskey     "W">
 
 
+<!ENTITY  logins.label                  "Přizjewjenja">
 
+<!ENTITY  rememberLogins.label          "Přizjewjenja za sydła sej spomjatkować">
+<!ENTITY  rememberLogins.accesskey      "P">
 <!ENTITY  passwordExceptions.label      "Wuwzaća…">
 <!ENTITY  passwordExceptions.accesskey  "u">
 
@@ -33,4 +36,5 @@
 <!ENTITY  changeMasterPassword.label     "Hłowne hesło změnić…">
 <!ENTITY  changeMasterPassword.accesskey "m">
 
-
+<!ENTITY  savedLogins.label              "Składowane přizjewjenja…">
+<!ENTITY  savedLogins.accesskey          "S">
