@@ -29,5 +29,5 @@
 <!ENTITY findAgainCmd.key          "G">
 <!ENTITY findAgainCmd.key2         "VK_F3">
 
-
-
+<!ENTITY findPreviousCmd.label     "Hanapin ang Nakaraan">
+<!ENTITY findPreviousCmd.accesskey "v">
