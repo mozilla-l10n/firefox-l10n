@@ -467,9 +467,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Tshintsha iisethingi zokukhangela">
 
-
-
-
+<!ENTITY searchInNewTab.label         "Khangela KweNtsha Nethebhu">
+<!ENTITY searchInNewTab.accesskey     "T">
+<!ENTITY searchSetAsDefault.label     "Seta Ibe Ziinjini Ezisisiseko Zokukhangela">
+<!ENTITY searchSetAsDefault.accesskey "Z">
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -705,9 +706,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Unxibelelwano lonxibelelwano">
 <!ENTITY identity.connectionNotSecure "Unxibelelwano alukhuselekanga">
 <!ENTITY identity.connectionFile "Eli phepha liyagcinwa kwikhompyutha yakho.">
-
+<!ENTITY identity.connectionVerified1 "Uqhagamshele ngokukhuselekileyo kule sayithi, isetyenziswa yi">
 <!ENTITY identity.connectionInternal "Le &brandShorterName; ekhuselekileyo indawo yolawulo.">
-
+<!ENTITY identity.insecureLoginForms "Ilogini yakho ingalahleka.">
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "&brandShorterName; ibhloke iinxalenye zeli phepha ezingakhuselekanga.">
@@ -717,7 +718,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings in the subview. -->
 
 <!ENTITY identity.description.insecure "Uqhagamshelo lwakho kule sayithi alukho bucala. Inkcazelo oyifakayo inokubonwa ngabanye (njengeephaswedi, imiyalezo, iikhredit khadi, njl. njl.).">
-
+<!ENTITY identity.description.insecureLoginForms "Inkcazelo yelogini oyifakayo kweli phepha ayikhuselekanga yaye ingalahleka.">
 <!ENTITY identity.description.weakCipher "Uqhagamshelo kule webhsayithi lusebenzisa ukukhowuda okubuthathaka yaye alukho bucala.">
 <!ENTITY identity.description.weakCipher2 "Abanye abantu banokujonga inkcazelo yakho okanye batshintshe indlela esebenza iwebhsayithi.">
 <!ENTITY identity.description.activeBlocked "&brandShorterName; ibhloke iinxalenye zeli phepha ezingakhuselekanga.">
@@ -736,7 +737,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.moreInfoLinkText2 "Inkcazelo engaphezulu">
 
 <!ENTITY identity.permissions "Iimvume">
-
+<!ENTITY identity.permissionsEmpty "Akunikanga le sayithi nayiphi na imvume ekhethekileyo.">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -747,7 +748,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "Ungqamaniso">
 
-
+<!ENTITY syncSignIn.label             "Ngena &syncBrand.shortName.label;…">
+<!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "Ngqamanisa ngoku">
 <!ENTITY syncSyncNowItem.accesskey    "N">
 <!ENTITY syncReAuthItem.label         "Qhagamshelanisa ngokutsha &syncBrand.shortName.label;…">

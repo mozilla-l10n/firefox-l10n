@@ -11,7 +11,7 @@
 
 <!ENTITY showURLBarSuggestions.label           "Bonisa amacebiso okukhangela kwi location iziphumo zebha">
 <!ENTITY showURLBarSuggestions.accesskey       "l">
-
+<!ENTITY urlBarSuggestionsPermanentPB.label    "Amacebiso okukhangela akayi kuboniswa kwiziphumo zebha yendawo ngenxa yokuba uyile &brandShortName; ukuba ingaze iyikhumbule imbali.">
 
 <!ENTITY redirectWindowsSearch.label "Usebenzisa le njini yokukhangela yokhangelo olusuka kuWindows">
 <!ENTITY redirectWindowsSearch.accesskey "W">
