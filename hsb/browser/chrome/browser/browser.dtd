@@ -112,7 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignIn.label "Pola &syncBrand.shortName.label; přizjewić">
 <!ENTITY fxaSignedIn.tooltip "Nastajenja &syncBrand.shortName.label; wočinić">
 <!ENTITY fxaSignInError.label "Zaso z &syncBrand.shortName.label; zwjazać">
-
+<!ENTITY fxaUnverified.label "Waše konto wobkrućić">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; zmóžnjeny">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; póčnje we wokomiku synchronizować.">
 
@@ -131,12 +131,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY fullscreenWarning.beforeDomain.label "">
-
-
+<!ENTITY fullscreenWarning.afterDomain.label "je nětko połna wobrazowka">
+<!ENTITY fullscreenWarning.generic.label "Tutón dokument je nětko połna wobrazowka">
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
-
+<!ENTITY exitDOMFullscreen.button "Połnu wobrazowku skónčić (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "Połnu wobrazowku (esc) skónčić">
 <!ENTITY leaveDOMFullScreen.label "Połnu wobrazowku wopušćić">
 <!ENTITY leaveDOMFullScreen.accesskey "o">
 
@@ -222,7 +223,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "Sćehnjenja">
 <!ENTITY downloads.accesskey          "h">
 <!ENTITY downloads.commandkey         "j">
-
+<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Přidatki">
 <!ENTITY addons.accesskey             "P">
 <!ENTITY addons.commandkey            "A">
@@ -405,11 +406,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Chceće swoje pytanske dožiwjenje z namjetami polěpšić?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Dalše informacije…">
-
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Ně">
-
+<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Haj">
-
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "m">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -466,9 +467,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Pytanske nastajenja">
 
-
-
-
+<!ENTITY searchInNewTab.label         "W nowym rajtarku pytać">
+<!ENTITY searchInNewTab.accesskey     "r">
+<!ENTITY searchSetAsDefault.label     "Jako standardnu pytawu nastajić">
+<!ENTITY searchSetAsDefault.accesskey "d">
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -704,9 +706,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Wěsty zwisk">
 <!ENTITY identity.connectionNotSecure "Zwisk wěsty njeje">
 <!ENTITY identity.connectionFile "Tuta strona je so na wašim ličaku składowała.">
-
+<!ENTITY identity.connectionVerified1 "Sće z tutym sydłom wěsće zwjazany, kotrehož wobhospodar je:">
 <!ENTITY identity.connectionInternal "To je wěsta strona &brandShortName;.">
-
+<!ENTITY identity.insecureLoginForms "Waše přizjewjenje je so wothrozyło.">
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "&brandShortName; je dźěle tuteje strony zablokował, kotrež wěste njejsu.">
@@ -716,7 +718,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings in the subview. -->
 
 <!ENTITY identity.description.insecure "Waš zwisk z tutym sydłom priwatny njeje. Druzy ludźo móhli Informacije widźeć, kotrež sćeleće (na přikład hesła, powěsće, kreditne karty atd.).">
-
+<!ENTITY identity.description.insecureLoginForms "Přizjewjenske informacije, kotrež na tutej stronje zapodawać, njejsu wěste a móhli so wothrozyć.">
 <!ENTITY identity.description.weakCipher "Waš zwisk z websydłom słabe zaklučowanje wužiwa a njeje priwatny.">
 <!ENTITY identity.description.weakCipher2 "Druzy ludźo móža sej waše informacije wobhladać abo zadźerženje websydła změnić.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; je dźěle tuteje strony zablokował, kotrež wěste njejsu.">
@@ -735,7 +737,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.moreInfoLinkText2 "Dalše informacije">
 
 <!ENTITY identity.permissions "Prawa">
-
+<!ENTITY identity.permissionsEmpty "Njejsće tutomu sydłu wosebite prawa přizwolił.">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -746,7 +748,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
-
+<!ENTITY syncSignIn.label             "Pola &syncBrand.shortName.label; přizjewić…">
+<!ENTITY syncSignIn.accesskey         "P">
 <!ENTITY syncSyncNowItem.label        "Nětko synchronizować">
 <!ENTITY syncSyncNowItem.accesskey    "N">
 <!ENTITY syncReAuthItem.label         "Zaso z &syncBrand.shortName.label; zwjazać…">

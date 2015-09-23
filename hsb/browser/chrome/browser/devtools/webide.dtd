@@ -26,7 +26,7 @@
 <!ENTITY projectMenu_showPrefs_accesskey "s">
 <!ENTITY projectMenu_manageComponents_label "Ekstrakomponenty zrjadować">
 <!ENTITY projectMenu_manageComponents_accesskey "E">
-
+<!ENTITY projectMenu_refreshTabs_label "Rajtarki aktualizować">
 
 <!ENTITY runtimeMenu_label "Běžny čas">
 <!ENTITY runtimeMenu_accesskey "B">
