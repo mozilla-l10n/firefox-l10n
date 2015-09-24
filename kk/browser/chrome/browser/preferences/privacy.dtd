@@ -13,8 +13,8 @@
 <!ENTITY trackingProtectionPBM5.label         "Жекелік шолу терезелерінде бақылаудан қорғанысты қолдану">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Көбірек білу">
-
-
+<!ENTITY changeBlockList.label          "Блоктізімді өзгерту">
+<!ENTITY changeBlockList.accesskey      "г">
 
 <!ENTITY  history.label                 "Тарихы">
 
