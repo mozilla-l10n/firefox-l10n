@@ -6,6 +6,7 @@
 <!ENTITY treehead.list.label          "Lista">
 
 
-
-
-
+<!ENTITY button.cancel.label          "Cancelar">
+<!ENTITY button.cancel.accesskey      "C">
+<!ENTITY button.ok.label              "Guardar alterações">
+<!ENTITY button.ok.accesskey          "s">
