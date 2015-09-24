@@ -197,6 +197,7 @@
 
 <!ENTITY fxaccount_status_header2 'Firefox Račun'>
 <!ENTITY fxaccount_status_signed_in_as 'Prijavljen kot'>
+<!ENTITY fxaccount_status_manage_account 'Upravljanje računa'>
 <!ENTITY fxaccount_status_auth_server 'Strežnik za račun'>
 <!ENTITY fxaccount_status_sync_now 'Sinhroniziraj zdaj'>
 <!ENTITY fxaccount_status_syncing2 'Sinhronizacija …'>
