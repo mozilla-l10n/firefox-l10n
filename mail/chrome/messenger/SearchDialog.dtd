@@ -17,8 +17,6 @@
 <!ENTITY deleteButton.accesskey     "K">
 <!ENTITY searchDialogTitle.label    "Kirjade otsimine">
 <!ENTITY results.label              "Tulemused">
-<!ENTITY moveHereMenu.label         "Liiguta siia">
-<!ENTITY moveHereMenu.accesskey     "s">
 <!ENTITY moveButton.label           "Liiguta">
 <!ENTITY moveButton.accesskey       "i">
 <!ENTITY closeCmd.key               "W">
@@ -42,6 +40,7 @@
 <!ENTITY threadColumn.label         "Lõim">
 <!ENTITY fromColumn.label           "Saatja">
 <!ENTITY recipientColumn.label      "Saaja">
+<!ENTITY correspondentColumn.label  "Kirjavahetajad">
 <!ENTITY subjectColumn.label        "Teema">
 <!ENTITY dateColumn.label           "Kuupäev">
 <!ENTITY priorityColumn.label       "Tähtsus">
@@ -59,22 +58,23 @@
 <!ENTITY idColumn.label             "Saabumise kuupäev">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip      "Klõpsa näidatavate veergude valimiseks">
-<!ENTITY threadColumn.tooltip       "Klõpsa, et kuvada kirju lõimedena">
-<!ENTITY fromColumn.tooltip         "Klõpsa, et sorteerida saatja järgi">
-<!ENTITY recipientColumn.tooltip    "Klõpsa, et sorteerida saaja järgi">
-<!ENTITY subjectColumn.tooltip      "Klõpsa, et sorteerida teema järgi">
-<!ENTITY dateColumn.tooltip         "Klõpsa, et sorteerida kuupäeva järgi">
-<!ENTITY priorityColumn.tooltip     "Klõpsa, et sorteerida tähtsuse järgi">
-<!ENTITY tagsColumn.tooltip         "Klõpsa, et sorteerida siltide järgi">
-<!ENTITY accountColumn.tooltip      "Klõpsa, et sorteerida konto järgi">
-<!ENTITY statusColumn.tooltip       "Klõpsa, et sorteerida oleku järgi">
-<!ENTITY sizeColumn.tooltip         "Klõpsa, et sorteerida suuruse järgi">
-<!ENTITY junkStatusColumn.tooltip   "Klõpsa, et sorteerida rämpspostiks olemise järgi">
-<!ENTITY unreadColumn.tooltip       "Lugemata kirjade arv lõimes">
-<!ENTITY totalColumn.tooltip        "Lõimes olevate kirjade koguarv">
-<!ENTITY readColumn.tooltip         "Klõpsa, et sorteerida loetuse järgi">
-<!ENTITY receivedColumn.tooltip     "Klõpsa, et sorteerida saabumise aja järgi">
-<!ENTITY starredColumn.tooltip      "Klõpsa, et sorteerida tähistuse järgi">
-<!ENTITY locationColumn.tooltip     "Klõpsa, et sorteerida asukoha järgi">
-<!ENTITY idColumn.tooltip           "Klõpsa, et sorteerida kättesaamise järgi">
+<!ENTITY columnChooser2.tooltip     "Vali kuvatavad veerud">
+<!ENTITY threadColumn2.tooltip      "Kuva kirju lõimedena">
+<!ENTITY fromColumn2.tooltip        "Sordi saatja järgi">
+<!ENTITY recipientColumn2.tooltip   "Sordi saaja järgi">
+<!ENTITY correspondentColumn2.tooltip "Sordi kirjavahetajate järgi">
+<!ENTITY subjectColumn2.tooltip     "Sordi teema järgi">
+<!ENTITY dateColumn2.tooltip        "Sordi kuupäeva järgi">
+<!ENTITY priorityColumn2.tooltip    "Sordi tähtsuse järgi">
+<!ENTITY tagsColumn2.tooltip        "Sordi siltide järgi">
+<!ENTITY accountColumn2.tooltip     "Sordi konto järgi">
+<!ENTITY statusColumn2.tooltip      "Sordi oleku järgi">
+<!ENTITY sizeColumn2.tooltip        "Sordi suuruse järgi">
+<!ENTITY junkStatusColumn2.tooltip  "Sordi rämpspostiks olemise järgi">
+<!ENTITY unreadColumn2.tooltip      "Lugemata kirjade arv lõimes">
+<!ENTITY totalColumn2.tooltip       "Lõimes olevate kirjade koguarv">
+<!ENTITY readColumn2.tooltip        "Sordi loetuse järgi">
+<!ENTITY receivedColumn2.tooltip    "Sordi saabumise aja järgi">
+<!ENTITY starredColumn2.tooltip     "Sordi tähistuse järgi">
+<!ENTITY locationColumn2.tooltip    "Sordi asukoha järgi">
+<!ENTITY idColumn2.tooltip          "Sordi kättesaamise järgi">

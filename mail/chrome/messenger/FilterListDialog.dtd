@@ -32,8 +32,6 @@
 <!ENTITY stopFilters.accesskey        "P">
 <!ENTITY folderPickerPrefix.label     "Rakenda valitud filtrit (filtreid) kaustale:">
 <!ENTITY folderPickerPrefix.accesskey "i">
-<!ENTITY choosethis.label             "vali see kaust">
-<!ENTITY choosethisnewsserver.label   "vali see uudisteserver">
 <!ENTITY helpButton.label             "Abi">
 <!ENTITY helpButton.accesskey         "A">
 <!ENTITY closeCmd.key                 "W">

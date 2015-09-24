@@ -4,31 +4,99 @@
 
 <!ENTITY aboutTelemetry.pageTitle                 "Telemeetriaandmed">
 
-<!ENTITY aboutTelemetry.telemetryEnabled          "
-  Telemeetria on <span>lubatud</span>.
+<!ENTITY aboutTelemetry.changeDataChoices         "
+  Muuda
 ">
 
-<!ENTITY aboutTelemetry.telemetryDisabled         "
-  Telemeetria on <span>keelatud</span>.
+<!ENTITY aboutTelemetry.uploadEnabled             "
+  Terviseraporti andmete saatmine on <span>lubatud</span>.
+">
+
+<!ENTITY aboutTelemetry.uploadDisabled            "
+  Terviseraporti andmete saatmine on <span>keelatud</span>.
+">
+
+<!ENTITY aboutTelemetry.extendedRecordingEnabled  "
+  Põhjalikuma telemeetria kogumine on <span>lubatud</span>.
+">
+
+<!ENTITY aboutTelemetry.extendedRecordingDisabled "
+  Põhjalikuma telemeetria kogumine on <span>keelatud</span>.
+">
+
+<!ENTITY aboutTelemetry.pingDataSource            "
+Andmete allikas:
+">
+
+<!ENTITY aboutTelemetry.showCurrentPingData       "
+Praegused andmed
+">
+
+<!ENTITY aboutTelemetry.showArchivedPingData      "
+Arhiveeritud andmed
+">
+
+<!ENTITY aboutTelemetry.showSubsessionData        "
+Kuvatakse alamseansside andmeid
+">
+
+<!ENTITY aboutTelemetry.choosePing                "
+Vali ping:
+">
+
+<!ENTITY aboutTelemetry.showNewerPing             "
+&lt;&lt; Uuem ping
+">
+
+<!ENTITY aboutTelemetry.showOlderPing             "
+Vanem ping &gt;&gt;
+">
+
+<!ENTITY aboutTelemetry.archiveWeekHeader         "
+Nädal
+">
+
+<!ENTITY aboutTelemetry.archivePingHeader         "
+Ping
+">
+
+<!ENTITY aboutTelemetry.generalDataSection        "
+  Üldandmed
+">
+
+<!ENTITY aboutTelemetry.environmentDataSection    "
+  Keskkonna andmed
+">
+
+<!ENTITY aboutTelemetry.telemetryLogSection       "
+  Telemeetria logi
 ">
 
 <!ENTITY aboutTelemetry.slowSqlSection            "
-  Aeglased SQLi päringud
+  Aeglased SQL-päringud
 ">
 
 <!ENTITY aboutTelemetry.chromeHangsSection        "
   Brauseri hangumised
 ">
 
+<!ENTITY aboutTelemetry.threadHangStatsSection    "
+  Lõimede hangumised
+">
+
 <!ENTITY aboutTelemetry.histogramsSection         "
   Histogrammid
+">
+
+<!ENTITY aboutTelemetry.keyedHistogramsSection    "
+  Keyed Histograms
 ">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
   Lihtsad mõõdistused
 ">
 
-<!ENTITY aboutTelemetry.addonDetailsSection "
+<!ENTITY aboutTelemetry.addonDetailsSection       "
   Lisade üksikasjad
 ">
 
@@ -44,12 +112,8 @@
   Lisade poolt kogutud histogrammid
 ">
 
-<!ENTITY aboutTelemetry.toggleOn                  "
-  Sektsiooni laiendamiseks klõpsa
-">
-
-<!ENTITY aboutTelemetry.toggleOff                 "
-  Sektsiooni ahendamiseks klõpsa
+<!ENTITY aboutTelemetry.toggle                    "
+  Sektsiooni laiendamiseks/ahendamiseks klõpsa
 ">
 
 <!ENTITY aboutTelemetry.emptySection              "
@@ -57,7 +121,7 @@
 ">
 
 <!ENTITY aboutTelemetry.fullSqlWarning            "
-  MÄRKUS: Aeglase SQLi debugimine on lubatud. Allpool võidakse kuvada täielikke SQLi päringuid, aga neid ei saadeta telemeetria kaudu edasi.
+  MÄRKUS: Aeglase SQLi debugimine on lubatud. Allpool võidakse kuvada täielikke SQL-päringuid, aga neid ei saadeta telemeetria kaudu edasi.
 ">
 
 <!ENTITY aboutTelemetry.fetchSymbols              "
@@ -66,4 +130,8 @@
 
 <!ENTITY aboutTelemetry.hideSymbols               "
   Kuva hangumiste töötlemata andmeid
+">
+
+<!ENTITY aboutTelemetry.filterText                "
+  Filtreeri (stringide või /regulaaravaldistega/)
 ">

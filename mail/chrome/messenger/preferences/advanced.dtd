@@ -3,24 +3,26 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label                "Üldine">
-<!ENTITY itemDisplay.label                "Lugemine ja kuvamine">
+<!ENTITY dataChoicesTab.label             "Saadetavad andmed">
 <!ENTITY itemUpdate.label                 "Uuendamine">
 <!ENTITY itemNetworking.label             "Võrk ja kettaruum">
 <!ENTITY itemCertificates.label           "Sertifikaadid">
 
 <!-- General Settings -->
-
-<!ENTITY submitTelemetry.label            "Lubatakse sooritusvõimsuse raportite saatmine">
-<!ENTITY submitTelemetry.accesskey        "u">
-<!ENTITY telemetryInfoLink.label          "Rohkem teavet telemeetria saatmise kohta">
 <!ENTITY enableGlodaSearch.label          "Lubatakse kirjade üldotsing ja indekseerimine">
 <!ENTITY enableGlodaSearch.accesskey      "L">
+<!ENTITY allowHWAccel.label               "Võimalusel kasutatakse riistvaralist kiirendust">
+<!ENTITY allowHWAccel.accesskey           "V">
+<!ENTITY storeType.label                  "Uute kontode kirjade salvestamise viis:">
+<!ENTITY storeType.accesskey              "U">
+<!ENTITY mboxStore2.label                 "üks fail kausta kohta (mbox)">
+<!ENTITY maildirStore.label               "iga kiri eraldi failis (maildir)">
 
-<!ENTITY scrolling.label                   "Kerimine">
-<!ENTITY useAutoScroll.label               "Kasutatakse automaatset kerimist">
-<!ENTITY useAutoScroll.accesskey           "u">
-<!ENTITY useSmoothScrolling.label          "Kasutatakse sujuvat kerimist">
-<!ENTITY useSmoothScrolling.accesskey      "s">
+<!ENTITY scrolling.label                  "Kerimine">
+<!ENTITY useAutoScroll.label              "Kasutatakse automaatset kerimist">
+<!ENTITY useAutoScroll.accesskey          "u">
+<!ENTITY useSmoothScrolling.label         "Kasutatakse sujuvat kerimist">
+<!ENTITY useSmoothScrolling.accesskey     "s">
 
 <!ENTITY systemIntegration.label          "Süsteemi integratsioon">
 <!ENTITY alwaysCheckDefault.label         "Käivitumisel kontrollitakse alati, kas &brandShortName; on e-posti vaikeklient">
@@ -36,47 +38,31 @@
 <!ENTITY showReturnReceipts.label         "Kättesaamise kinnitused...">
 <!ENTITY showReturnReceipts.accesskey     "M">
 
-<!-- Display and Reading Settings -->
-<!ENTITY reading.caption                  "Lugemine">
-<!ENTITY display.caption                  "Kuvamine">
-<!ENTITY showCondensedAddresses.label     "Aadressiraamatus olevate kontaktide puhul näidatakse ainult kuvatavat nime">
-<!ENTITY showCondensedAddresses.accesskey "k">
+<!-- Data Choices -->
+<!ENTITY telemetrySection.label           "Telemeetria">
+<!ENTITY telemetryDesc.label              "Jagab sinu e-posti kliendi sooritusvõimsuse, kasutamise, kohandamiste ja riistvara andmeid &vendorShortName;ga, et aidata meil &brandShortName; paremaks teha">
+<!ENTITY enableTelemetry.label            "Telemeetria lubatakse">
+<!ENTITY enableTelemetry.accesskey        "T">
+<!ENTITY telemetryLearnMore.label         "Rohkem teavet">
 
-<!ENTITY autoMarkAsRead.label             "Kirjad märgitakse automaatselt loetuks">
-<!ENTITY autoMarkAsRead.accesskey         "K">
-<!ENTITY markAsReadNoDelay.label          "kohe peale kuvamist">
-<!ENTITY markAsReadNoDelay.accesskey      "o">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label            "märgitakse loetuks pärast">
-<!ENTITY markAsReadDelay.accesskey        "m">
-<!ENTITY secondsLabel.label               "sekundit">
-<!ENTITY openMsgIn.label                  "Kirjad avatakse:">
-<!ENTITY openMsgInNewTab.label            "uuel kaardil">
-<!ENTITY openMsgInNewTab.accesskey        "u">
-<!ENTITY reuseExpRadio0.label             "uues aknas">
-<!ENTITY reuseExpRadio0.accesskey         "a">
-<!ENTITY reuseExpRadio1.label             "samas aknas">
-<!ENTITY reuseExpRadio1.accesskey         "s">
-<!ENTITY closeMsgOnMoveOrDelete.label     "Kustutamisel või liigutamisel kirja aken/kaart suletakse">
-<!ENTITY closeMsgOnMoveOrDelete.accesskey "K">
+<!ENTITY crashReporterSection.label       "Vearaportid">
+<!ENTITY crashReporterDesc.label          "&brandShortName; saadab vearaportid &vendorShortName;le, et aidata meil teha sinu e-posti klient stabiilsemaks ja turvalisemaks">
+<!ENTITY enableCrashReporter.label        "Vearaportite saatmine lubatakse">
+<!ENTITY enableCrashReporter.accesskey    "V">
+<!ENTITY crashReporterLearnMore.label     "Rohkem teavet">
 
 <!-- Update -->
-<!ENTITY autoCheck.label                  "Järgmisi uuendusi kontrollitakse automaatselt:">
-<!ENTITY enableAppUpdate.label            "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey        "h">
-<!ENTITY enableAddonsUpdate.label         "Paigaldatud lisad">
-<!ENTITY enableAddonsUpdate.accesskey     "t">
-<!ENTITY whenUpdatesFound.label           "Kui &brandShortName;ile leitakse uuendusi:">
-<!ENTITY modeAskMe.label                  "küsitakse, mida teha">
-<!ENTITY modeAskMe.accesskey              "k">
-<!ENTITY modeAutomatic.label              "uuendused laaditakse automaatselt alla ja paigaldatakse">
-<!ENTITY modeAutomatic.accesskey          "t">
-<!ENTITY modeAutoAddonWarn.label          "Hoiatatakse, kui see keelab mõne lisa">
-<!ENTITY modeAutoAddonWarn.accesskey      "e">
-<!ENTITY showUpdates.label                "Näita uuenduste ajalugu">
-<!ENTITY showUpdates.accesskey            "j">
+<!ENTITY updateApp.label                  "&brandShortName;i uuendused:">
+<!ENTITY updateAuto.label                 "Uuendused paigaldatakse automaatselt (soovitatav: parem turvalisus)">
+<!ENTITY updateAuto.accesskey             "e">
+<!ENTITY updateCheck.label                "Kontrollitakse uuenduste olemasolu, paigaldamise kohta küsitakse kinnitust">
+<!ENTITY updateCheck.accesskey            "K">
+<!ENTITY updateManual.label               "Uuenduste olemasolu ei kontrollita (pole soovitatav: turvarisk)">
+<!ENTITY updateManual.accesskey           "U">
+<!ENTITY updateAutoAddonWarn.label        "Hoiatatakse, kui see keelab mõne lisa">
+<!ENTITY updateAutoAddonWarn.accesskey    "H">
+<!ENTITY updateHistory.label              "Näita uuenduste ajalugu">
+<!ENTITY updateHistory.accesskey          "j">
 
 <!ENTITY useService.label                 "Uuenduste paigaldamiseks kasutatakse taustateenust">
 <!ENTITY useService.accesskey             "U">
@@ -92,7 +78,7 @@
 <!ENTITY showOffline.accesskey            "S">
 
 <!ENTITY Diskspace                        "Kettaruum">
-<!ENTITY offlineCompactFolders.label      "Kõik kaustad tihendatakse, kui see säästab kokku rohkem kui">
+<!ENTITY offlineCompactFolders.label      "Kõik kaustad surutakse kokku, kui see säästab kokku rohkem kui">
 <!ENTITY offlineCompactFolders.accesskey  "b">
 <!ENTITY offlineCompactFoldersMB.label    "MiB">
 
@@ -109,15 +95,15 @@
 <!ENTITY clearCacheNow.accesskey          "P">
 
 <!-- Certificates -->
-<!ENTITY certSelection.description        "Kui server nõuab kasutaja personaalset sertifikaati:">
+<!ENTITY certSelection.description        "Kui server nõuab kasutaja isiklikku sertifikaati:">
 <!ENTITY certs.auto                       "valitakse üks automaatselt">
 <!ENTITY certs.auto.accesskey             "v">
 <!ENTITY certs.ask                        "küsitakse iga kord">
 <!ENTITY certs.ask.accesskey              "k">
+<!ENTITY enableOCSP.label                 "Sertifikaatide valideeruvust kontrollitakse OCSP abil">
+<!ENTITY enableOCSP.accesskey             "S">
 
 <!ENTITY viewCertificates.label           "Kuva sertifikaate">
 <!ENTITY viewCertificates.accesskey       "f">
-<!ENTITY validation.label                 "Verifitseerimine">
-<!ENTITY validation.accesskey             "t">
 <!ENTITY viewSecurityDevices.label        "Turvaseadmed">
 <!ENTITY viewSecurityDevices.accesskey    "u">

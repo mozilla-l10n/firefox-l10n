@@ -19,7 +19,7 @@
 
 <!ENTITY found.wizard.title              "Leiti ühilduvad lisad">
 <!ENTITY found.top.label                 "Vali lisad, mida soovid paigaldada:">
-<!ENTITY found.disabledXPinstall.label   "Neid uuendusi ei saa paigaldada, kuna tarkvara paigaldamine on praegu keelatud. Sa võid seda sätet allpool muuta.">
+<!ENTITY found.disabledXPinstall.label   "Neid uuendusi pole võimalik paigaldada, kuna tarkvara paigaldamine on praegu keelatud. Sa võid seda sätet allpool muuta.">
 <!ENTITY found.enableXPInstall.label     "Luba veebilehtedel tarkvara paigaldada">
 <!ENTITY found.enableXPInstall.accesskey "L">
 
@@ -34,10 +34,10 @@
 <!ENTITY finished.wizard.title           "Ühilduvad lisad on paigaldatud">
 <!ENTITY finished.top.label              "&brandShortName; paigaldas uuendused sinu lisadele.">
 <!ENTITY finished.checkDisabled.desc     "&brandShortName; võib perioodiliselt kontrollida uuendusi nendele lisadele ning anda teada, kui midagi leitakse.">
-<!ENTITY finished.checkEnabled.desc      "&brandShortName; kontrollib perioodiliselt uuendusi nendele lisadele ning annab teada, kui midagi leitakse.">
+<!ENTITY finished.checkEnabled.desc      "&brandShortName; kontrollib korrapäraselt, kas neile lisadele on uuendusi, ja annab teada, kui midagi leitakse.">
 
 <!ENTITY adminDisabled.wizard.title      "Uuenduste kontrollimine pole võimalik">
-<!ENTITY adminDisabled.warning.label     "Ei saa kontrollida uuendusi ühildumatutele lisadele kuna &brandShortName;il pole lubatud tarkvara paigaldada. Abi saamiseks võta ühendust oma süsteemiadministraatoriga.">
+<!ENTITY adminDisabled.warning.label     "Uuenduste olemasolu ühildumatutele lisadele pole võimalik kontrollida, kuna &brandShortName;il pole lubatud tarkvara paigaldada. Abi saamiseks võta ühendust oma süsteemiadministraatoriga.">
 
 <!ENTITY versioninfo.wizard.title        "Lisade ühilduvuse kontrollimine">
 <!ENTITY versioninfo.top.label           "Lisade ühilduvuse kontrollimine selle &brandShortName;i versiooniga.">

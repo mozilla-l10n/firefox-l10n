@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY connectionsDialog.title    "Ühenduse sätted">
-<!ENTITY window.width               "40em">
 
 <!ENTITY proxyTitle.label           "Puhverserverite häälestamine internetti pääsemiseks">
 <!ENTITY noProxyTypeRadio.label     "Puhverserver puudub">

@@ -4,9 +4,9 @@
 
 <!ENTITY  popups.label              "Hüpikaknad">
 
-<!ENTITY blockPopups.label          "Hüpikaknad blokeeritakse">
+<!ENTITY blockPopups.label          "Hüpikaknad blokitakse">
 <!ENTITY blockPopups.accesskey      "H">
-<!ENTITY popupExceptions.label      "Erandid...">
+<!ENTITY popupExceptions.label      "Erandid…">
 <!ENTITY popupExceptions.accesskey  "E">
 
 <!ENTITY fontsAndColors.label       "Fondid ja värvid">
@@ -16,13 +16,35 @@
 <!ENTITY defaultSize.label          "Suurus:">
 <!ENTITY defaultSize.accesskey      "r">
 
-<!ENTITY advancedFonts.label        "Täpsemalt...">
+<!ENTITY advancedFonts.label        "Täpsemalt…">
 <!ENTITY advancedFonts.accesskey    "l">
 
-<!ENTITY colors.label               "Värvid...">
+<!ENTITY colors.label               "Värvid…">
 <!ENTITY colors.accesskey           "d">
+
 
 <!ENTITY languages.label            "Keeled">
 <!ENTITY chooseLanguage.label       "Vali oma eelistatud keel veebilehtede kuvamiseks">
-<!ENTITY chooseButton.label         "Vali...">
+<!ENTITY chooseButton.label         "Vali…">
 <!ENTITY chooseButton.accesskey     "i">
+
+<!ENTITY translateWebPages.label    "Lubatakse veebisisu tõlkimine">
+<!ENTITY translateWebPages.accesskey "t">
+<!ENTITY translateExceptions.label  "Erandid…">
+<!ENTITY translateExceptions.accesskey "n">
+
+<!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
+  -                     translation.options.attribution.afterLogo):
+  -  These 2 strings are displayed before and after a 'Microsoft Translator'
+  -  logo.
+  -  The translations for these strings should match the translations in
+  -  browser/translation.dtd
+  -->
+<!ENTITY translation.options.attribution.beforeLogo "Tõlkijaks on">
+<!ENTITY translation.options.attribution.afterLogo "">
+
+<!ENTITY  drmContent.label               "DRM-sisu">
+
+<!ENTITY  playDRMContent.label           "DRM-sisu esitamine lubatakse">
+<!ENTITY  playDRMContent.accesskey       "M">
+<!ENTITY  playDRMContent.learnMore.label "Rohkem teavet">

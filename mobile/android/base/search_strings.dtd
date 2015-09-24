@@ -1,0 +1,30 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY search_app_name                        '&brandShortName;i otsing'>
+
+<!--  Localization note (search_bar_hint): The &formatS; will be replaced with the name of
+      the currently selected search engine. -->
+<!ENTITY search_bar_hint                        'Otsi otsingumootoriga &formatS;'>
+
+<!ENTITY search_empty_title2                    'Alusta otsimist'>
+<!ENTITY search_empty_message                   'Otsi kiiresti kõike vajalikku'>
+
+<!--  Localization note (search_plus_content_description): This is the content description
+      for the "+" icon that appears at the end of search suggestions. -->
+<!ENTITY search_plus_content_description        'Lisa otsinguribale'>
+
+<!ENTITY search_pref_title                      'Sätted'>
+<!ENTITY search_pref_button_content_description 'Sätted'>
+
+<!ENTITY pref_clearHistory_confirmation         'Ajalugu kustutati'>
+<!ENTITY pref_clearHistory_dialogMessage        'Kas soovid kustutada kogu otsinguajaloo sellest seadmest?'>
+<!ENTITY pref_clearHistory_title                'Otsinguajaloo kustutamine'>
+
+<!ENTITY pref_searchProvider_title              'Otsingumootor'>
+
+<!ENTITY search_widget_button_label             'Otsi'>
+
+<!ENTITY network_error_title                    'Puudub internetiühendus'>
+<!ENTITY network_error_message                  'Võrgusätete kontrollimiseks puuduta'>

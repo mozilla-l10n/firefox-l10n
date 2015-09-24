@@ -4,25 +4,32 @@
 
 <!ENTITY tracking.label                          "Jälitamine">
 
-<!ENTITY dntTrackingNopref.label2                "Veebilehtedele ei anta mingit teavet jälitamise eelistuste kohta">
-<!ENTITY dntTrackingNopref.accesskey             "b">
-<!ENTITY dntTrackingNotOkay.label2               "Veebilehtedele antakse teada, et jälitamist ei soovita">
-<!ENTITY dntTrackingNotOkay.accesskey            "j">
-<!ENTITY dntTrackingOkay.label2                  "Veebilehti teavitatakse soovist olla jälitatud">
-<!ENTITY dntTrackingOkay.accesskey               "t">
+<!ENTITY dntTrackingNotOkay4.label               "Nõutakse, et saidid ei jälitaks">
+<!ENTITY dntTrackingNotOkay4.accesskey           "j">
 <!ENTITY doNotTrackInfo.label                    "Rohkem teavet">
+<!ENTITY trackingProtection5.label               "Veebilehtedel takistatakse kasutaja jälitamist">
+<!ENTITY trackingProtection5.accesskey           "m">
+<!ENTITY trackingProtectionLearnMore.label       "Rohkem teavet">
+<!ENTITY trackingProtectionPBM5.label            "Privaatsetes akendes takistatakse veebilehtedel kasutaja jälitamist">
+<!ENTITY trackingProtectionPBM5.accesskey        "t">
+<!ENTITY trackingProtectionPBMLearnMore.label    "Rohkem teavet">
 
 <!ENTITY history.label                           "Ajalugu">
 
 <!ENTITY  locationBar.label                      "Asukohariba">
 
-<!ENTITY  locbar.pre.label                       "Kasutades asukohariba, otsitakse soovitusi:">
-<!ENTITY  locbar.pre.accessKey                   "a">
-<!ENTITY  locbar.post.label                      "">
-<!ENTITY  locbar.both.label                      "ajaloost ja järjehoidjatest">
+<!ENTITY  locbar.suggest.label                   "Asukohariba abil otsitakse soovitusi:">
 <!ENTITY  locbar.history.label                   "ajaloost">
+<!ENTITY  locbar.history.accesskey               "a">
 <!ENTITY  locbar.bookmarks.label                 "järjehoidjatest">
-<!ENTITY  locbar.nothing.label                   "soovitusi ei otsita">
+<!ENTITY  locbar.bookmarks.accesskey             "j">
+<!ENTITY  locbar.openpage.label                  "avatud kaartide seast">
+<!ENTITY  locbar.openpage.accesskey              "v">
+<!ENTITY  locbar.searches.label                  "vaikeotsingumootori poolt pakutavate seonduvate otsingute seast">
+<!ENTITY  locbar.searches.accesskey              "d">
+
+<!ENTITY  suggestionSettings.label               "Muuda otsingumootorite otsingusoovituste sätteid…">
+<!ENTITY  suggestionSettings.accesskey           "u">
 
 <!ENTITY acceptCookies.label                     "Küpsised lubatakse">
 <!ENTITY acceptCookies.accesskey                 "K">

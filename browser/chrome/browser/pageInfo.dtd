@@ -22,11 +22,9 @@
 <!ENTITY generalReferrer                               "Viitav URL:">
 <!ENTITY generalSource                                 "Vahemälu allikas:">
 <!ENTITY generalModified                               "Muudetud:">
-<!ENTITY generalEncoding                               "Kodeering:">
+<!ENTITY generalEncoding2                              "Teksti kodeering:">
 <!ENTITY generalMetaName                               "Nimi">
 <!ENTITY generalMetaContent                            "Sisu">
-<!ENTITY generalSecurityDetails                           "Veel">
-<!ENTITY generalSecurityDetails.accesskey                 "V">
 
 <!ENTITY mediaTab                                      "Meedia">
 <!ENTITY mediaTab.accesskey                            "M">
@@ -65,7 +63,6 @@
 
 <!ENTITY  securityTab                                  "Turvalisus">
 <!ENTITY  securityTab.accesskey                        "r">
-<!ENTITY  securityHeader                               "Selle lehe turvalisuse info">
 <!ENTITY  securityView.certView                        "Vaata sertifikaati">
 <!ENTITY  securityView.accesskey                       "V">
 <!ENTITY  securityView.unknown                         "Tundmatu">
@@ -86,3 +83,5 @@
 <!ENTITY  securityView.privacy.viewPasswords.accessKey "s">
 
 <!ENTITY  securityView.technical.header                "Tehnilised üksikasjad">
+
+<!ENTITY  helpButton.label                             "Abi">

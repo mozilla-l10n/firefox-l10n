@@ -1,17 +1,19 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-   
+
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label     "Uudistevoogude tellimused">
-<!ENTITY subscriptionDesc.label      "Märkus: uudistevoo kausta eemaldamisel või muutmisel ei rakendu need muudatused varem tõmmatud uudistele.">
+<!ENTITY learnMore.label             "Rohkem teavet uudistevoogude kohta">
 
 <!ENTITY feedTitle.label             "Pealkiri:">
 <!ENTITY feedTitle.accesskey         "P">
 
 <!ENTITY feedLocation.label          "Uudistevoo URL:">
 <!ENTITY feedLocation.accesskey      "U">
-<!ENTITY feedLocation.placeholder    "Lisamiseks sisesta korrektne uudistevoo url">
+<!ENTITY feedLocation.placeholder    "Lisamiseks sisesta korrektne uudistevoo URL">
+<!ENTITY locationValidate.label      "Valideeri">
+<!ENTITY validateText.label          "Valideeri uudistevoog ja hangi õige URL.">
 
 <!ENTITY feedFolder.label            "Artiklid salvestatakse:">
 <!ENTITY feedFolder.accesskey        "A">
@@ -19,8 +21,11 @@
 <!ENTITY quickMode.label             "Veebilehe laadimise asemel kuvatakse artikli kokkuvõtet">
 <!ENTITY quickMode.accesskey         "h">
 
-<!ENTITY locationValidate.label      "Valideeri">
-<!ENTITY validateText.label          "Valideeri uudistevoogu ja hangi õige url.">
+<!ENTITY autotagEnable.label         "Sildid luuakse uudistevoo &lt;category&gt; väljade põhjal automaatselt">
+<!ENTITY autotagEnable.accesskey     "t">
+<!ENTITY autotagUsePrefix.label      "Siltidele lisatakse prefiks:">
+<!ENTITY autotagUsePrefix.accesskey  "S">
+<!ENTITY autoTagPrefix.placeholder   "Sisesta prefiks">
 
 <!ENTITY button.addFeed.label        "Lisa">
 <!ENTITY button.addFeed.accesskey    "L">
@@ -35,3 +40,4 @@
 <!ENTITY button.exportOPML.tooltip   "Ekspordi uudistevood koos kaustade struktuuriga; ctrl + klõps või ctrl + enter ekspordib nimekirjana">
 
 <!ENTITY cmd.close.commandKey        "w">
+<!ENTITY button.close.label          "Sulge">

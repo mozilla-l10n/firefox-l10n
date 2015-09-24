@@ -9,9 +9,9 @@
 <!ENTITY encryptionChoiceLabel.label             "Saadetavate kirjade vaikimisi krüptimise sätted:">
 <!ENTITY neverEncrypt.label                      "mitte kunagi (krüptimist ei kasutata)">
 <!ENTITY neverEncrypt.accesskey                  "m">
-<!ENTITY alwaysEncryptMessage.label              "nõutud (kirja ei saa saata, kui kõigil vastuvõtjatel ei ole sertifikaate)">
+<!ENTITY alwaysEncryptMessage.label              "nõutud (kirja pole võimalik saata, kui kõigil vastuvõtjatel ei ole sertifikaate)">
 <!ENTITY alwaysEncryptMessage.accesskey          "n">
-<!ENTITY encryptionCert.message                  "Kirjade krüptimiseks ja lahtikrüptimiseks kasutatakse järgmist sertifikaati:">
+<!ENTITY encryptionCert.message                  "Kirjade krüptimiseks ja dekrüptimiseks kasutatakse järgmist sertifikaati:">
 <!ENTITY digitalSign.certificate.button          "Vali...">
 <!ENTITY digitalSign.certificate.accesskey       "V">
 <!ENTITY digitalSign.certificate_clear.button    "Puhasta">

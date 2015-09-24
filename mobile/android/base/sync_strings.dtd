@@ -34,7 +34,7 @@
 <!ENTITY sync.input.key.label                'Taastamise võti'>
 <!ENTITY sync.checkbox.server.label          'Kasutatakse kohandatud serverit'>
 <!ENTITY sync.input.server.label             'Serveri URL'>
-  
+
 <!-- Setup Fail -->
 <!ENTITY sync.title.fail.label               '&syncBrand.shortName.label;i pole võimalik seadistada'>
 <!ENTITY sync.subtitle.fail.label            '&syncBrand.fullName.label; ei saanud serveriga ühendust. Kas soovid uuesti proovida?'>
@@ -43,7 +43,7 @@
 <!ENTITY sync.subtitle.nointernet.label      'Internetiühendus puudub.'>
 <!ENTITY sync.subtitle.failaccount.label     'Konto loomine sinu seadmel ebaõnnestus.'>
 <!ENTITY sync.subtitle.failmultiple.label    'Kas oled paigaldanud rohkem kui ühe Firefoxi? Praegu toetab &syncBrand.fullName.label; ainult üht Firefoxi paigaldust korraga. &syncBrand.shortName.label;i kasutamiseks eemalda teised paigaldatud versioonid.'>
-  
+
 <!-- Setup Success -->
 <!ENTITY sync.title.success.label            'Seadistamine lõpetatud'>
 <!ENTITY sync.subtitle.success.label1        'Andmed laaditakse nüüd taustal alla. Võid avada sätted, et hallata oma kontot, või alustada &brandShortName;iga veebilehitsemist.'>
@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label  'Sünkroniseerimine'>
 <!ENTITY sync.configure.engines.sync.my.title.label 'Sünkroniseeri oma…'>
 <!ENTITY sync.configure.engines.title.bookmarks 'järjehoidjad'>
-<!ENTITY sync.configure.engines.title.passwords 'paroolid'>
+<!ENTITY sync.configure.engines.title.passwords2 'kasutajakontod'>
 <!ENTITY sync.configure.engines.title.history 'ajalugu'>
 <!ENTITY sync.configure.engines.title.tabs   'kaardid'>
 
@@ -70,16 +70,23 @@
 <!ENTITY sync.button.cancel.label            'Loobu'>
 <!ENTITY sync.button.connect.label           'Ühenda'>
 <!ENTITY sync.button.ok.label                'Sobib'>
-  
+
 <!-- Account strings -->
-<!ENTITY sync.account.label.label            '&syncBrand.fullName.label;'>
-  
+<!ENTITY sync.account.label                  '&syncBrand.fullName.label; (kasutamine taunitud)'>
+
+<!-- Localization note (sync.default.client.name): Default string of the "Device
+     name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
+     will be replaced by the name of the Firefox release channel and &formatS2
+     by the model name of the Android device. Examples look like "Aurora on
+     GT-I1950" and "Fennec on MI 2S". -->
+<!ENTITY sync.default.client.name            '&formatS1; (&formatS2;)'>
+
 <!-- Bookmark folder strings -->
 <!ENTITY bookmarks.folder.menu.label         'Järjehoidjate menüü'>
 <!ENTITY bookmarks.folder.places.label       ''>
 <!ENTITY bookmarks.folder.tags.label         'Sildid'>
 <!ENTITY bookmarks.folder.toolbar.label      'Järjehoidjariba'>
-<!ENTITY bookmarks.folder.unfiled.label      'Sorteerimata järjehoidjad'>
+<!ENTITY bookmarks.folder.unfiled.label      'Sortimata järjehoidjad'>
 <!ENTITY bookmarks.folder.desktop.label      'Töölaua järjehoidjad'>
 <!ENTITY bookmarks.folder.mobile.label       'Mobiilsed järjehoidjad'>
 <!ENTITY bookmarks.folder.readinglist.label  'Lugemise nimekiri'>
@@ -104,3 +111,161 @@
 <!ENTITY sync.text.redirect.to.set.up.sync.label  'Kaartide saatmiseks teistesse seadmetesse seadista &syncBrand.fullName.label;.'>
 <!ENTITY sync.text.tab.sent.label                 'Kaart saadetud!'>
 <!ENTITY sync.text.tab.not.sent.label             'Kaardi saatmisel esines probleem.'>
+
+<!-- Firefox Account strings. -->
+
+<!ENTITY fxaccount_full_label                     'Firefoxi kontod'>
+
+<!ENTITY fxaccount_custom_server_account_title    'Kasutatav konto asub serveris'>
+<!ENTITY fxaccount_custom_server_sync_title       'Synci andmed salvestatakse serverisse'>
+
+<!-- Localization note: these are shown in all screens that query the
+     user for an email address and password. Hide and show are button
+     labels. -->
+<!ENTITY fxaccount_email_hint                     'E-post'>
+<!ENTITY fxaccount_password_hint                  'Parool'>
+<!ENTITY fxaccount_password_hide                  'Peida'>
+<!ENTITY fxaccount_password_show                  'Kuva'>
+
+<!-- Localization note: these are shown in screens after the user has
+     created or signed in to an account, and take the user back to
+     Firefox. -->
+<!ENTITY fxaccount_back_to_browsing               'Tagasi veebi lehitsema'>
+
+<!-- Localization note: the following two strings are interpolated
+     into fxaccount_create_account_policy_text2; see note for that
+     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+<!ENTITY fxaccount_policy_linktos                 'teenuse tingimused'>
+<!ENTITY fxaccount_policy_linkprivacy             'privaatsusreeglid'>
+
+<!ENTITY fxaccount_getting_started_welcome_to_sync 'Tere tulemast &syncBrand.shortName.label;i'>
+<!ENTITY fxaccount_getting_started_description2   'Oma kaartide, järjehoidjate, kasutajakontode ja muu sünkroniseerimiseks logi sisse.'>
+<!ENTITY fxaccount_getting_started_get_started    'Tee algust'>
+<!ENTITY fxaccount_getting_started_old_firefox    'Kas kasutad &syncBrand.shortName.label;i vanemat versiooni?'>
+
+<!-- Localization note: the Firefox below should not change with the
+     particular version of Firefox installed (Release, Beta, Aurora,
+     etc).  The account remains a "Firefox Account". -->
+<!ENTITY fxaccount_create_account_header2         'Firefoxi konto loomine'>
+<!ENTITY fxaccount_create_account_password_length_restriction 'Peab olema vähemalt 8 tähemärki pikk'>
+<!ENTITY fxaccount_create_account_day_of_birth    'Päev'>
+<!ENTITY fxaccount_create_account_month_of_birth  'Kuu'>
+<!ENTITY fxaccount_create_account_year_of_birth   'Sünniaasta'>
+<!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
+<!ENTITY fxaccount_create_account_policy_text2    'Jätkamisega nõustud sa Firefoxi veebiteenuste tingimustega (&formatS1; ja &formatS2;).'>
+<!ENTITY fxaccount_create_account_button          'Edasi'>
+<!ENTITY fxaccount_create_account_choose_what_to_sync 'Kuvatakse sünkroniseeritavate asjade valikut'>
+<!ENTITY fxaccount_create_account_sign_in_instead 'Sul on juba konto? Logi sisse'>
+<!ENTITY fxaccount_create_account_1990_or_earlier '1990 või enne seda'>
+<!ENTITY fxaccount_create_account_unknown_error   'Konto loomine polnud võimalik'>
+
+<!ENTITY fxaccount_account_create_not_allowed     'Pole võimalik kontot luua'>
+<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements 'Konto loomiseks peab sinu vanus vastama teenuse tingimustes kirjeldatule.'>
+<!ENTITY fxaccount_account_create_not_allowed_learn_more 'Rohkem teavet'>
+
+<!ENTITY fxaccount_confirm_account_header         'Konto loomise kinnitamine'>
+<!-- Localization note: &formatS; is the Firefox Account's email address. -->
+<!ENTITY fxaccount_confirm_account_verification_link 'Kinnitamise link on saadetud aadressile &formatS;'>
+<!ENTITY fxaccount_confirm_account_resend_email   'Saada kinnitusnõue uuesti'>
+<!ENTITY fxaccount_confirm_account_change_email   'Kas unustada see e-posti aadress?'>
+<!ENTITY fxaccount_confirm_account_verification_link_sent2 'Kinnitusnõue on saadetud'>
+<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Kinnitusnõude saatmine polnud võimalik'>
+<!ENTITY fxaccount_resend_unlock_code_button_label 'Saada lahtilukustamise e-kiri uuesti'>
+<!ENTITY fxaccount_unlock_code_sent                'Konto lahtilukustamise e-kiri on saadetud'>
+<!ENTITY fxaccount_unlock_code_not_sent            'Konto lahtilukustamise e-kirja saatmine polnud võimalik'>
+
+<!ENTITY fxaccount_sign_in_sub_header             'Sisselogimine'>
+<!ENTITY fxaccount_sign_in_button_label           'Logi sisse'>
+<!ENTITY fxaccount_sign_in_forgot_password        'Unustasid parooli?'>
+<!ENTITY fxaccount_sign_in_create_account_instead 'Loo uus konto'>
+<!ENTITY fxaccount_sign_in_unknown_error          'Polnud võimalik sisse logida'>
+
+<!ENTITY fxaccount_account_verified_sub_header    'Konto on kinnitatud'>
+<!ENTITY fxaccount_account_verified_description2  'Andmete sünkroniseerimine algab hetke pärast.'>
+
+<!ENTITY fxaccount_migration_finished_header      'Uuele Syncile uuendamine lõpetatud'>
+
+<!ENTITY fxaccount_update_credentials_header      'Sisselogimine'>
+<!ENTITY fxaccount_update_credentials_button_label 'Logi sisse'>
+<!ENTITY fxaccount_update_credentials_unknown_error 'Polnud võimalik sisse logida'>
+
+<!ENTITY fxaccount_finish_migrating_header        'Uuele Syncile uuendamise lõpetamiseks pead sisse logima'>
+<!ENTITY fxaccount_finish_migrating_button_label  'Lõpeta uuendamine'>
+<!ENTITY fxaccount_finish_migrating_description   'Uuendamine võib tähendada mahukat andmete allalaadimist. Mõistlikum oleks seda WiFis teha.'>
+
+<!ENTITY fxaccount_status_header2                 'Firefoxi konto'>
+<!ENTITY fxaccount_status_signed_in_as            'Sisse logitud kasutajana'>
+<!ENTITY fxaccount_status_auth_server             'Konto server'>
+<!ENTITY fxaccount_status_sync_now                'Sünkroniseeri kohe'>
+<!ENTITY fxaccount_status_syncing2                'Sünkroniseerimine…'>
+<!ENTITY fxaccount_status_device_name             'Seadme nimi'>
+<!ENTITY fxaccount_status_sync_server             'Synci server'>
+<!ENTITY fxaccount_status_sync                    '&syncBrand.shortName.label;'>
+<!ENTITY fxaccount_status_sync_enabled            '&syncBrand.shortName.label;: lubatud'>
+<!ENTITY fxaccount_status_needs_verification2     'Sinu konto vajab kinnitamist. Kinnitusnõude uuesti saatmiseks puuduta.'>
+<!ENTITY fxaccount_status_needs_credentials       'Pole võimalik ühenduda. Sisselogimiseks puuduta.'>
+<!ENTITY fxaccount_status_needs_upgrade           'Sisselogimiseks pead uuendama &brandShortName;i.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; on seadistatud, aga ei sünkroniseeri automaatselt. Ava Androidi seaded &gt; Andmekasutus ning lülita menüüst sisse “Andmete automaatne sünkroonimine”.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; on seadistatud, aga ei sünkroniseeri automaatselt. Ava Androidi seaded &gt; Kontod ning lülita menüüst sisse “Andmete automaatne sünkroonimine”.'>
+<!ENTITY fxaccount_status_needs_finish_migrating  'Oma uude Firefoxi kontosse sisselogimiseks puuduta.'>
+<!ENTITY fxaccount_status_bookmarks               'järjehoidjad'>
+<!ENTITY fxaccount_status_history                 'ajalugu'>
+<!ENTITY fxaccount_status_passwords2              'kasutajakontod'>
+<!ENTITY fxaccount_status_tabs                    'avatud kaardid'>
+<!ENTITY fxaccount_status_legal                   'Õiguslik teave' >
+<!-- Localization note: when tapped, the following two strings link to
+     external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+<!ENTITY fxaccount_status_linktos                 'Teenuse tingimused'>
+<!ENTITY fxaccount_status_linkprivacy             'Privaatsusreeglid'>
+<!ENTITY fxaccount_status_more                    'Veel&ellipsis;'>
+
+<!ENTITY fxaccount_remove_account_dialog_title    'Kas kustutada Firefoxi konto?'>
+<!ENTITY fxaccount_remove_account_dialog_message  '&brandShortName; lõpetab sünkroniseerimise sinu kontoga, aga ei kustuta lehitsemise andmeid sellest seadmest.'>
+<!-- Localization note: format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast           'Firefoxi konto &formatS; kustutati.'>
+
+<!ENTITY fxaccount_remove_account_menu_item       'Kustuta konto'>
+<!ENTITY fxaccount_enable_debug_mode              'Debugimise režiim lubatakse'>
+
+<!-- Localization note: this is the name shown by the Android system
+     itself for a Firefox Account. Don't localize this. -->
+<!ENTITY fxaccount_account_type_label             'Firefox'>
+
+<!-- Localization note: these are shown by the Android system itself,
+     when the user navigates to the Android > Accounts > {Firefox
+     Account} Screen. The link takes the user to the Firefox Account
+     status activity, which lets them manage their Firefox
+     Account. -->
+<!ENTITY fxaccount_options_title                  '&syncBrand.shortName.label;i seaded'>
+<!ENTITY fxaccount_options_configure_title        'Häälesta &syncBrand.shortName.label;i'>
+
+<!-- Localization note: these error messages are shown after a request
+     has been made to the remote server, and an error of some type has
+     been returned. -->
+<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED  'Sa pead Firefoxi uuendama'>
+
+<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'Konto on juba olemas. &formatS1;'>
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Vigane e-posti aadress või parool'>
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Vigane e-posti aadress või parool'>
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Konto pole kinnitatud'>
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Server on hõivatud, proovi varsti uuesti'>
+<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Server on hõivatud, proovi varsti uuesti'>
+<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR     'Esines probleem'>
+<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT 'Pole võimalik võrku ühenduda'>
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED    'Konto on lukus. &formatS1;'>
+
+<!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; pole ühendatud'>
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Sisselogimiseks kasutajana &formatS; puuduta'>
+
+<!ENTITY fxaccount_sync_finish_migrating_notification_title 'Kas lõpetada &syncBrand.shortName.label;i uuendamine?'>
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text 'Sisselogimiseks kasutajana &formatS; puuduta'>
