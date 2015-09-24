@@ -46,7 +46,7 @@
 
 <!ENTITY viewMenu_label "نمایش">
 <!ENTITY viewMenu_accesskey "V">
-
+<!ENTITY viewMenu_toggleEditor_label "تغییر ویرایشگر">
 <!ENTITY viewMenu_toggleEditor_accesskey "E">
 <!ENTITY viewMenu_zoomin_label "بزرگ‌نمایی">
 <!ENTITY viewMenu_zoomin_accesskey "I">
