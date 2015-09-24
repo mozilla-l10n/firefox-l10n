@@ -1,0 +1,30 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY search_app_name '&brandShortName; -haku'>
+
+<!--  Localization note (search_bar_hint): The &formatS; will be replaced with the name of
+      the currently selected search engine. -->
+<!ENTITY search_bar_hint 'Etsi palvelulla &formatS;'>
+
+<!ENTITY search_empty_title2 'Aloita haku'>
+<!ENTITY search_empty_message 'Hae nopeasti, mitä haluat'>
+
+<!--  Localization note (search_plus_content_description): This is the content description
+      for the "+" icon that appears at the end of search suggestions. -->
+<!ENTITY search_plus_content_description 'Lisää hakupalkkiin'>
+
+<!ENTITY search_pref_title 'Asetukset'>
+<!ENTITY search_pref_button_content_description 'Asetukset'>
+
+<!ENTITY pref_clearHistory_confirmation 'Sivuhistoria poistettiin'>
+<!ENTITY pref_clearHistory_dialogMessage 'Poistetaanko hakuhistoria tältä laitteelta?'>
+<!ENTITY pref_clearHistory_title 'Poista hakuhistoria'>
+
+<!ENTITY pref_searchProvider_title 'Hakukone'>
+
+<!ENTITY search_widget_button_label 'Etsi'>
+
+<!ENTITY network_error_title 'Ei Internet-yhteyttä'>
+<!ENTITY network_error_message 'Kosketa tästä ja tarkista verkkoasetukset'>

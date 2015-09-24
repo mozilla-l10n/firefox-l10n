@@ -164,14 +164,19 @@
 <p>Sivuston omistajat, joiden sivusto on virheellisesti ilmoitettu hyökkäyssivustoksi, voivat <a href='http://www.stopbadware.org/home/reviewinfo' >anoa sivuston tilan tarkistamista</a>.</p>
 ">
 
+<!ENTITY unwantedBlocked.title "Epäilty ei-haluttuja sovelluksia jakeleva sivusto!">
+<!ENTITY unwantedBlocked.longDesc "
+<p>Sivustot, jotka jakelevat ei haluttuja sovelluksia yrittävät asentaa tietokoneellesi sovelluksia, jotka ovat petollisia tai vaikuttavat järjestelmään odottamattomalla tavalla.</p>
+">
+
 <!ENTITY phishingBlocked.title "Epäilty huijaussivusto!">
 <!ENTITY phishingBlocked.longDesc "
 <p>Henkilötietojen kirjoittaminen tälle sivulle voi johtaa identiteettivarkauteen tai johonkin muuhun petokseen.</p>
 <p>Tämän tyyppiset verkkohuijaukset ovat osa phishing- tai khalastushuijauksia, joissa sivuilla tai sähköposteilla yritetään jäljitellä mahdollisesti luottamiesi toimijoiden viestintää.</p>
 ">
 
-<!ENTITY cspFrameAncestorBlocked.title "Sisällön tietosuojakäytännön estämä">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; esti tämän sivun latautumisen tässä yhteydessä, koska sivun sisällön tietosuojakäytäntö kieltää sen.</p>">
+<!ENTITY cspBlocked.title "Sisällön tietosuojakäytännön estämä">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; esti tämän sivun latautumisen tässä yhteydessä, koska sivun sisällön tietosuojakäytäntö kieltää sen.</p>">
 
 <!ENTITY corruptedContentError.title "Sisältö vioittunut virhe">
 <!ENTITY corruptedContentError.longDesc "<p>Avattavaa sivua ei voida näyttää, koska tiedonsiirrossa tapahtui virhe.</p><ul><li>Ilmoitathan ongelmasta sivuston omistajalle.</li></ul>">
@@ -193,5 +198,20 @@ functionality specific to firefox. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
 
+<!ENTITY errorReporting.title "Ilmoita virheestä">
+<!ENTITY errorReporting.longDesc "Palvelimen <span id='hostname'></span> osoite- ja varmennetietojen ilmoittaminen auttaa meitä tunnistamaan ja estämään pahantahtoisia sivustoja. Kiitos avustasi turvallisemman verkon puolesta!">
+<!ENTITY errorReporting.automatic "Ilmoita virheistä automaattisesti tästä lähtien">
+<!ENTITY errorReporting.learnMore "Lue lisää…">
+<!ENTITY errorReporting.sending "Lähetetään ilmoitusta">
+<!ENTITY errorReporting.sent "Ilmoitus lähetetty">
+<!ENTITY errorReporting.report "Ilmoita">
+<!ENTITY errorReporting.tryAgain "Yritä uudestaan">
+
 <!ENTITY remoteXUL.title "XUL-koodia etänä">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Ilmoitathan ongelmasta sivuston omistajalle.</li></ul></p>">
+
+<!ENTITY sslv3Used.title "Ei voitu muodostaa suojattua yhteyttä">
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
+     "ssl_error_unsupported_version". -->
+<!ENTITY sslv3Used.longDesc "Tarkemmat tiedot: ssl_error_unsupported_version">
+<!ENTITY sslv3Used.learnMore "Lue lisää…">

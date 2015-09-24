@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  connectionsDialog.title        "Yhteysasetukset">
-<!ENTITY  window.width                   "44em">
 
 <!ENTITY  proxyTitle.label               "Määritä välityspalvelinasetukset">
 <!ENTITY  noProxyTypeRadio.label        "Ei välityspalvelinta">

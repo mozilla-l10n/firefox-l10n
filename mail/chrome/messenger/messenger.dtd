@@ -145,6 +145,8 @@
 <!ENTITY messagePaneVertical.accesskey  "s">
 <!ENTITY showFolderPaneCmd.label "Kansiopaneeli">
 <!ENTITY showFolderPaneCmd.accesskey "K">
+<!ENTITY showFolderPaneColsCmd.label "Kansiopaneelin sarakkeet">
+<!ENTITY showFolderPaneColsCmd.accesskey "s">
 <!ENTITY showMessageCmd.label  "Viestipaneeli">
 <!ENTITY showMessageCmd.accesskey  "V">
 
@@ -190,6 +192,8 @@
 <!ENTITY sortByFromCmd.accesskey "ä">
 <!ENTITY sortByRecipientCmd.label  "Vastaanottaja">
 <!ENTITY sortByRecipientCmd.accesskey  "V">
+<!ENTITY sortByCorrespondentCmd.label "Keskustelukumppanit">
+<!ENTITY sortByCorrespondentCmd.accesskey "K">
 <!ENTITY sortByUnreadCmd.label  "Luettu">
 <!ENTITY sortByUnreadCmd.accesskey  "u">
 <!ENTITY sortByOrderReceivedCmd.label  "Saapumisjärjestys">
@@ -593,8 +597,10 @@
 <!ENTITY manageTags.accesskey "M">
 
 <!-- Folder Pane -->
-<!ENTITY folderColumn.label  "Nimi">
-<!ENTITY folderSizeColumn.label  "Koko">
+<!ENTITY folderNameColumn.label "Nimi">
+<!ENTITY folderUnreadColumn.label "Lukematta">
+<!ENTITY folderTotalColumn.label "Yhteensä">
+<!ENTITY folderSizeColumn.label "Koko">
 
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Hae viestit">
@@ -654,6 +660,7 @@
 <!ENTITY threadColumn.label  "Viestiketju">
 <!ENTITY fromColumn.label    "Lähettäjä">
 <!ENTITY recipientColumn.label  "Vastaanottaja">
+<!ENTITY correspondentColumn.label "Keskustelukumppanit">
 <!ENTITY subjectColumn.label  "Aihe">
 <!ENTITY dateColumn.label  "Päiväys">
 <!ENTITY priorityColumn.label  "Tärkeysaste">
@@ -676,6 +683,7 @@
 <!ENTITY threadColumn2.tooltip "Näytä viestiketjut">
 <!ENTITY fromColumn2.tooltip "Järjestä lähettäjän mukaan">
 <!ENTITY recipientColumn2.tooltip "Järjestä vastaanottajan mukaan">
+<!ENTITY correspondentColumn2.tooltip "Järjestä keskustelukumppaneiden mukaan">
 <!ENTITY subjectColumn2.tooltip "Järjestä aiheen mukaan">
 <!ENTITY dateColumn2.tooltip "Järjestä päiväyksen mukaan">
 <!ENTITY priorityColumn2.tooltip "Järjestä tärkeysasteen mukaan">

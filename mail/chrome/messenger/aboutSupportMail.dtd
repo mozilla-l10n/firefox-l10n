@@ -15,5 +15,6 @@
 <!ENTITY aboutSupport.accountsConnSecurity "Yhteyden suojaus">
 <!ENTITY aboutSupport.accountsAuthMethod "Todennustapa">
 <!ENTITY aboutSupport.accountsDefault "Oletus?">
+<!ENTITY aboutSupport.identityName "Identiteetti">
 
 <!ENTITY aboutSupport.sendViaEmail.label "Lähetä sähköpostilla">

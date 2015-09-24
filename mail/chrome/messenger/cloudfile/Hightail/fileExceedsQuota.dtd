@@ -3,9 +3,5 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY fileExceedsQuota.title   "Hightail">
 <!ENTITY fileExceedsQuota.storageLimitReached   "Tallennustila loppu">
-<!ENTITY fileExceedsQuota.accept "Päivitä">
-<!ENTITY fileExceedsQuota.cancel "Peruuta">
 <!ENTITY fileExceedsQuota.description "Tilisi 2 Gt:n tallennustila on täyttynyt.">
 <!ENTITY fileExceedsQuota.description1 "Tällä hetkellä olet tallentanut palveluun #XXX Gt:a.">
-<!ENTITY fileExceedsQuota.description2 "Päivitä tilisi Pro Plussaksi ja saat lisää tallennustilaa.">
-<!ENTITY fileExceedsQuota.description3 "Voit myös vapauttaa tilaa poistamalla tililtäsi tiedostoja.">

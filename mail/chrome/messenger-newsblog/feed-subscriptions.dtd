@@ -4,7 +4,7 @@
 
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label "Tilatut syötteet">
-<!ENTITY subscriptionDesc.label  "Huom.: Syötteen kansion poistaminen tai vaihtaminen ei vaikuta aiemmin ladattuihin artikkeleihin.">
+<!ENTITY learnMore.label             "Lue lisää syötteistä">
 
 <!ENTITY feedTitle.label  "Otsikko:">
 <!ENTITY feedTitle.accesskey         "O">
@@ -12,6 +12,8 @@
 <!ENTITY feedLocation.label          "Syötteen osoite:">
 <!ENTITY feedLocation.accesskey      "S">
 <!ENTITY feedLocation.placeholder    "Kirjoita kelvollinen syötteen osoite">
+<!ENTITY locationValidate.label      "Varmista">
+<!ENTITY validateText.label          "Varmista syöte ja hae kelvollinen osoite.">
 
 <!ENTITY feedFolder.label            "Säilytä artikkeleita:">
 <!ENTITY feedFolder.accesskey        "a">
@@ -19,14 +21,11 @@
 <!ENTITY quickMode.label             "Älä lataa artikkelin verkkosivua vaan näytä artikkelin yhteenveto">
 <!ENTITY quickMode.accesskey         "v">
 
-<!ENTITY autotagEnable.label         "Luo tunnisteet automaattisesti syötteen &lt;kategorioden&gt; nimistä">
+<!ENTITY autotagEnable.label         "Luo tunnisteet automaattisesti syötteen &lt;kategorioiden&gt; nimistä">
 <!ENTITY autotagEnable.accesskey     "L">
 <!ENTITY autotagUsePrefix.label      "Lisää tunnisteisiin etuliite:">
 <!ENTITY autotagUsePrefix.accesskey  "e">
 <!ENTITY autoTagPrefix.placeholder   "Kirjoita tunnisteen etuliite">
-
-<!ENTITY locationValidate.label      "Varmista">
-<!ENTITY validateText.label          "Varmista ja hae kelvollinen osoite.">
 
 <!ENTITY button.addFeed.label        "Lisää">
 <!ENTITY button.addFeed.accesskey    "L">

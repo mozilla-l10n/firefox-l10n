@@ -15,3 +15,8 @@
 <!ENTITY safeb.blocked.phishingPage.title2 "Epäilty huijaussivu!">
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Tietojen kirjoittaminen tälle sivulle voi johtaa identiteettivarkauteen tai johonkin muuhun petokseen.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Tämän tyyppiset verkkohuijaukset on suunniteltu saamaan sinut paljastamaan henkilö- tai pankkitietoja jäljittelemällä mahdollisesti luottamiesi toimijoiden sivuja tai viestintää.</p>">
+
+<!ENTITY safeb.blocked.unwantedPage.title "Ilmoitettu ei-haluttuja sovelluksia jakeleva sivusto!">
+<!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "Tämän sivuston osoitteessa <span id='unwanted_sitename'/> on ilmoitettu yrittävän asentaa sovelluksia pyytämättä ja sen avaaminen on estetty turvallisuusasetuksiesi perusteella.">
+<!ENTITY safeb.blocked.unwantedPage.longDesc "Sivustot, jotka jakelevat ei haluttuja sovelluksia yrittävät asentaa tietokoneellesi sovelluksia, jotka ovat petollisia tai vaikuttavat järjestelmään odottamattomalla tavalla.">

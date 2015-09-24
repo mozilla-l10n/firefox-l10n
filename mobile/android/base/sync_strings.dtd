@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label 'Mitä synkronoidaan'>
 <!ENTITY sync.configure.engines.sync.my.title.label 'Synkronoi…'>
 <!ENTITY sync.configure.engines.title.bookmarks 'Kirjanmerkit'>
-<!ENTITY sync.configure.engines.title.passwords 'Salasanat'>
+<!ENTITY sync.configure.engines.title.passwords2 'Kirjautumiset'>
 <!ENTITY sync.configure.engines.title.history 'Sivuhistoria'>
 <!ENTITY sync.configure.engines.title.tabs 'Välilehdet'>
 
@@ -138,10 +138,10 @@
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
 <!ENTITY fxaccount_policy_linktos 'käyttöehdot'>
-<!ENTITY fxaccount_policy_linkprivacy 'tietosuojahuomautuksen'>
+<!ENTITY fxaccount_policy_linkprivacy 'tietosuojakäytännön'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'Tervetuloa &syncBrand.shortName.label;-palveluun'>
-<!ENTITY fxaccount_getting_started_description 'Kirjaudu sisään synkronoidaksesi välilehdet, kirjanmerkit, salasanat ja muut tiedot.'>
+<!ENTITY fxaccount_getting_started_description2 'Kirjaudu sisään synkronoidaksesi välilehdet, kirjanmerkit, kirjautumiset ja muut tiedot.'>
 <!ENTITY fxaccount_getting_started_get_started 'Aloitetaan'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Käytätkö vanhempaa versiota &syncBrand.shortName.label;-palvelusta?'>
 
@@ -150,6 +150,8 @@
      etc).  The account remains a "Firefox Account". -->
 <!ENTITY fxaccount_create_account_header2 'Luo Firefox-tili'>
 <!ENTITY fxaccount_create_account_password_length_restriction 'Vähintään 8 merkkiä'>
+<!ENTITY fxaccount_create_account_day_of_birth 'Päivä'>
+<!ENTITY fxaccount_create_account_month_of_birth 'Kuukausi'>
 <!ENTITY fxaccount_create_account_year_of_birth 'Syntymävuosi'>
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 'Jatkamalla hyväksyt Firefoxin verkkopalveluiden &formatS1; ja &formatS2;.'>
@@ -167,8 +169,12 @@
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link 'Vahvistussähköposti lähetettiin osoitteeseen &formatS;'>
 <!ENTITY fxaccount_confirm_account_resend_email 'Lähetä uudestaan'>
+<!ENTITY fxaccount_confirm_account_change_email 'Unohdetaanko tämä sähköpostiosoite?'>
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 'Vahvistussähköposti lähetetty'>
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Vahvistussähköpostin lähettäminen ei onnistunut'>
+<!ENTITY fxaccount_resend_unlock_code_button_label 'Lähetä uudestaan lukituksen purkamissähköposti'>
+<!ENTITY fxaccount_unlock_code_sent 'Tilin lukituksen purkamisviesti lähetetty'>
+<!ENTITY fxaccount_unlock_code_not_sent 'Tilin lukituksen purkamisviestin lähettäminen ei onnistunut'>
 
 <!ENTITY fxaccount_sign_in_sub_header 'Kirjaudu sisään'>
 <!ENTITY fxaccount_sign_in_button_label 'Kirjaudu sisään'>
@@ -179,13 +185,21 @@
 <!ENTITY fxaccount_account_verified_sub_header 'Tili vahvistettu'>
 <!ENTITY fxaccount_account_verified_description2 'Tietojesi synkronointi alkaa hetken päästä.'>
 
+<!ENTITY fxaccount_migration_finished_header 'Päivitys suoritettu'>
+
 <!ENTITY fxaccount_update_credentials_header 'Kirjaudu sisään'>
 <!ENTITY fxaccount_update_credentials_button_label 'Kirjaudu sisään'>
 <!ENTITY fxaccount_update_credentials_unknown_error 'Ei voitu kirjautua sisään'>
 
+<!ENTITY fxaccount_finish_migrating_header 'Kirjaudu sisään viimeistelläksesi päivityksen'>
+<!ENTITY fxaccount_finish_migrating_button_label 'Viimeistele päivitys'>
+<!ENTITY fxaccount_finish_migrating_description 'Päivityksen yhteydessä voidaan siirtää paljon dataa. Suosittelemme, että olet langattomassa verkossa.'>
+
 <!ENTITY fxaccount_status_header2 'Firefox-tili'>
 <!ENTITY fxaccount_status_signed_in_as 'Kirjauduttu tunnuksella'>
 <!ENTITY fxaccount_status_auth_server 'Tilin palvelin'>
+<!ENTITY fxaccount_status_sync_now 'Synkronoi heti'>
+<!ENTITY fxaccount_status_syncing2 'Synkronoidaan…'>
 <!ENTITY fxaccount_status_device_name 'Laitteen nimi'>
 <!ENTITY fxaccount_status_sync_server 'Synkronointipalvelin'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
@@ -194,10 +208,11 @@
 <!ENTITY fxaccount_status_needs_credentials 'Ei voida muodostaa yhteyttä. Kosketa kirjautuaksesi sisään.'>
 <!ENTITY fxaccount_status_needs_upgrade '&brandShortName; täytyy päivittää, jotta voit kirjautua sisään.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label;-palvelu on määritelty, mutta ei synkronoi tietoja automaattisesti. Aseta päälle “Synkronoi tiedot automaattisesti” Androidin asetuksista kohdasta Tietojen käyttö.'>
-<!ENTITY fxaccount_status_needs_account_enabled '&syncBrand.shortName.label; on määritelty, mutta ei synkronoi tietoja automaattisesti. Synkronoi hipaisemalla.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label;-palvelu on määritelty, mutta ei synkronoi tietoja automaattisesti. Aseta päälle “Synkronoi tiedot automaattisesti” valikosta Android-asetukset &gt; Tilit.'>
+<!ENTITY fxaccount_status_needs_finish_migrating 'Kosketa kirjautuaksesi uudelle Firefox-tilillesi.'>
 <!ENTITY fxaccount_status_bookmarks 'Kirjanmerkit'>
 <!ENTITY fxaccount_status_history 'Sivuhistoria'>
-<!ENTITY fxaccount_status_passwords 'Salasanat'>
+<!ENTITY fxaccount_status_passwords2 'Kirjautumiset'>
 <!ENTITY fxaccount_status_tabs 'Avoimet välilehdet'>
 <!ENTITY fxaccount_status_legal 'Lakiteksti' >
 <!-- Localization note: when tapped, the following two strings link to
@@ -205,7 +220,7 @@
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos 'käyttöehdot'>
-<!ENTITY fxaccount_status_linkprivacy 'tietosuojahuomautus'>
+<!ENTITY fxaccount_status_linkprivacy 'tietosuojakäytäntö'>
 <!ENTITY fxaccount_status_more 'Lue lisää&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title 'Poistetaanko Firefox-tili?'>
@@ -215,6 +230,7 @@
 <!ENTITY fxaccount_remove_account_toast 'Firefox-tili &formatS; poistettiin.'>
 
 <!ENTITY fxaccount_remove_account_menu_item 'Poista tili'>
+<!ENTITY fxaccount_enable_debug_mode 'Enable Debug Mode'>
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
@@ -242,8 +258,14 @@
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Palvelin ruuhkautunut, yritä hetken päästä uudestaan'>
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Tapahtui virhe'>
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT 'Verkkoyhteyden muodostus epäonnistui'>
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Tili on lukittu. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label;-palveluun ei ole yhteyttä'>
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Kosketa kirjautuaksesi tilille &formatS;'>
+
+<!ENTITY fxaccount_sync_finish_migrating_notification_title 'Viimeistelläänkö &syncBrand.shortName.label;-palvelun päivitys?'>
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text 'Kirjaudu sisään tilille &formatS;'>

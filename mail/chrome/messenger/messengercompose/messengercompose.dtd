@@ -158,6 +158,8 @@
 <!ENTITY bothFormatCmd.accesskey  "n">
 <!ENTITY priorityMenu.label  "Tärkeysaste">
 <!ENTITY priorityMenu.accesskey  "T">
+<!ENTITY priorityButton.title "Tärkeysaste">
+<!ENTITY priorityButton.tooltiptext "Muuta viestin tärkeysastetta">
 <!ENTITY priorityButton.label  "Tärkeysaste:">
 <!ENTITY lowestPriorityCmd.label  "Matalin">
 <!ENTITY lowestPriorityCmd.accesskey  "M">

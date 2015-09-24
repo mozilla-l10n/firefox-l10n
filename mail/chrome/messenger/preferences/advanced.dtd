@@ -3,18 +3,20 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label        "Yleiset">
-<!ENTITY itemDisplay.label       "Lukeminen ja näyttö">
+<!ENTITY dataChoicesTab.label    "Data Choices">
 <!ENTITY itemUpdate.label         "Päivitys">
 <!ENTITY itemNetworking.label    "Verkkoyhteys ja levytila">
 <!ENTITY itemCertificates.label  "Varmenteet">
 
 <!-- General Settings -->
-
-<!ENTITY submitTelemetry.label         "Lähetä suorityskykytietoja">
-<!ENTITY submitTelemetry.accesskey     "s">
-<!ENTITY telemetryInfoLink.label       "Lue lisää lähetyistä tiedoista">
 <!ENTITY enableGlodaSearch.label       "Ota käyttöön viestien yleishaku ja indeksoija">
 <!ENTITY enableGlodaSearch.accesskey   "O">
+<!ENTITY allowHWAccel.label            "Käytä laitteistokiihdytystä jos mahdollista">
+<!ENTITY allowHWAccel.accesskey        "l">
+<!ENTITY storeType.label               "Viestisäily uusilla tileillä:">
+<!ENTITY storeType.accesskey           "V">
+<!ENTITY mboxStore2.label              "Tiedosto jokaiselle kansiolle (mbox)">
+<!ENTITY maildirStore.label            "Tiedosto jokaiselle viestille (maildir)">
 
 <!ENTITY scrolling.label               "Vieritys">
 <!ENTITY useAutoScroll.label           "Vieritä sivua automaattisesti">
@@ -36,31 +38,18 @@
 <!ENTITY showReturnReceipts.label      "Vastaanottokuittaukset…">
 <!ENTITY showReturnReceipts.accesskey  "V">
 
-<!-- Display and Reading Settings -->
-<!ENTITY reading.caption               "Lukeminen">
-<!ENTITY display.caption               "Näyttäminen">
-<!ENTITY showCondensedAddresses.label   "Näytä osoitekirjassa olevien nimet ilman sähköpostiosoitetta">
-<!ENTITY showCondensedAddresses.accesskey  "N">
+<!-- Data Choices -->
+<!ENTITY telemetrySection.label          "Kaukomittaustiedot">
+<!ENTITY telemetryDesc.label             "Lähetä &vendorShortName;lle tietoja sähköpostiohjelman suorituskyvystä, käytöstä, muokkauksista ja käytetystä laitteistosta auttaaksesi meitä kehittämään &brandShortName;iä">
+<!ENTITY enableTelemetry.label           "Kaukomittaus päällä">
+<!ENTITY enableTelemetry.accesskey       "k">
+<!ENTITY telemetryLearnMore.label        "Lue lisää">
 
-<!ENTITY autoMarkAsRead.label          "Merkitse viestit automaattisesti luetuksi">
-<!ENTITY autoMarkAsRead.accesskey      "M">
-<!ENTITY markAsReadNoDelay.label       "Kun ne avataan">
-<!ENTITY markAsReadNoDelay.accesskey   "K">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label         "Kun ne ovat olleet avattuna">
-<!ENTITY markAsReadDelay.accesskey     "u">
-<!ENTITY secondsLabel.label            "sekuntia">
-<!ENTITY openMsgIn.label               "Avaa uudet viestit:">
-<!ENTITY openMsgInNewTab.label         "Uuteen välilehteen">
-<!ENTITY openMsgInNewTab.accesskey     "v">
-<!ENTITY reuseExpRadio0.label           "Uuteen viesti-ikkunaan">
-<!ENTITY reuseExpRadio0.accesskey       "U">
-<!ENTITY reuseExpRadio1.label           "Auki olevaan viesti-ikkunaan">
-<!ENTITY reuseExpRadio1.accesskey       "A">
-<!ENTITY closeMsgOnMoveOrDelete.label  "Sulje viesti-ikkuna kun viesti siirretään tai poistetaan">
-<!ENTITY closeMsgOnMoveOrDelete.accesskey "v">
+<!ENTITY crashReporterSection.label      "Crash Reporter">
+<!ENTITY crashReporterDesc.label         "&brandShortName; lähettää tiedot kaatumisista &vendorShortName;lle, jotta voimme tehdä sähköpostiohjelmastasi vakaamman ja turvallisen">
+<!ENTITY enableCrashReporter.label       "Kaatumisilmoitukset käytössä">
+<!ENTITY enableCrashReporter.accesskey   "i">
+<!ENTITY crashReporterLearnMore.label    "Lue lisää">
 
 <!-- Update -->
 <!ENTITY updateApp.label                 "&brandShortName;in päivitykset:">

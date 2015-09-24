@@ -35,3 +35,5 @@
 <!ENTITY customsound.accesskey            "K">
 <!ENTITY browse.label                     "Selaa…">
 <!ENTITY browse.accesskey                 "S">
+
+<!ENTITY defaultSearchEngine.label        "Oletushakukone">

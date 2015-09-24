@@ -37,9 +37,11 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsTitle "Ohjelman perustiedot">
 <!ENTITY aboutSupport.appBasicsName "Nimi">
 <!ENTITY aboutSupport.appBasicsVersion "Versio">
+<!ENTITY aboutSupport.appBasicsBuildID "Koosteen tunniste">
 
-<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
+<!ENTITY aboutSupport.appBasicsUpdateChannel "Päivityskanava">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Päivityshistoria">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Näytä päivityshistoria">
 
@@ -54,7 +56,12 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "Selaintunniste">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Muistin käyttö">
 
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
+<!ENTITY aboutSupport.appBasicsServiceWorkers "Rekisteröityjä Service Workers -apukomentosarjoja">
+
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Usean prosessin ikkunoita">
+
+<!ENTITY aboutSupport.appBasicsSafeMode "Vikasietotila">
 
 <!ENTITY aboutSupport.showDir.label "Avaa kansio">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
@@ -93,3 +100,8 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Kopioi teksti leikepöydälle">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Kopioi muokkaamaton data leikepöydälle">
+
+<!ENTITY aboutSupport.sandboxTitle "Hiekkalaatikko">
+
+<!ENTITY aboutSupport.safeModeTitle "Kokeile vikasietotilaa">
+<!ENTITY aboutSupport.restartInSafeMode.label "Käynnistä uudelleen ilman lisäosia…">

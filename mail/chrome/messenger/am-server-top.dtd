@@ -68,19 +68,23 @@
 <!ENTITY alwaysAuthenticate.label  "Vaadi todennusta otettaessa yhteyttä tähän palvelimeen">
 <!ENTITY alwaysAuthenticate.accesskey  "V">
 <!ENTITY newsrcFilePath.label  "newsrc-tiedosto:">
-<!ENTITY localPath.label  "Paikallinen hakemisto:">
+<!ENTITY newsrcPicker.label "Valitse newsrc-tiedosto">
 <!ENTITY abbreviate.label  "Näytä keskusteluryhmien nimet Postikansiot-paneelissa">
 <!ENTITY abbreviateOn.label  "Kokonaisina (esimerkiksi netscape.public.mozilla.mail-news)">
 <!ENTITY abbreviateOff.label  "Lyhennä nimet (esimerkiksi &quot;n.p.m.mail-news&quot;)">
 <!ENTITY advancedButton.label  "Lisäasetukset…">
 <!ENTITY advancedButton.accesskey "L">
-<!ENTITY serverDefaultCharset.label "Oletusmerkistökoodaus:">
+<!ENTITY serverDefaultCharset2.label "Oletusmerkistökoodaus:">
+<!ENTITY localPath.label  "Paikallinen hakemisto:">
 <!ENTITY localFolderPicker.label  "Valitse paikalliskansioiden sijainti">
 <!ENTITY browseFolder.label  "Selaa…">
 <!ENTITY browseFolder.accesskey  "e">
-<!ENTITY newsrcPicker.label  "Valitse newsrc-tiedosto">
 <!ENTITY browseNewsrc.label  "Selaa…">
 <!ENTITY browseNewsrc.accesskey  "S">
 
 <!ENTITY accountTitle.label "Tilien asetukset">
 <!ENTITY accountSettingsDesc.label "Seuraava tili on erikoistapaus. Siihen ei liity käyttäjätietoja.">
+<!ENTITY storeType.label "Viestisäilötyyppi:">
+<!ENTITY storeType.accesskey "T">
+<!ENTITY mboxStore2.label "Tiedosto jokaiselle kansiolle (mbox)">
+<!ENTITY maildirStore.label "Tiedosto jokaiselle viestille (maildir)">

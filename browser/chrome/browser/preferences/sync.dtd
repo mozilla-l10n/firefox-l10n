@@ -16,7 +16,6 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Hallinnoi tiliä">
 <!ENTITY manageAccount.accesskey      "H">
-<!ENTITY viewQuota.label              "Näytä tilavaraus">
 <!ENTITY changePassword2.label         "Vaihda salasana…">
 <!ENTITY myRecoveryKey.label          "Palautusavaimeni">
 <!ENTITY resetSync2.label              "Aloita synkronointi alusta…">
@@ -35,11 +34,15 @@
 <!ENTITY engine.prefs.label         "Asetukset">
 <!ENTITY engine.prefs.accesskey     "e">
 <!ENTITY engine.addons.label        "Lisäosat">
-<!ENTITY engine.addons.accesskey    "L">
+<!ENTITY engine.addons.accesskey    "i">
 
 <!-- Device Settings -->
 <!ENTITY syncDeviceName.label       "Laitteen nimi:">
 <!ENTITY syncDeviceName.accesskey   "L">
+<!ENTITY fxaSyncDeviceName.label       "Laitteen nimi">
+<!ENTITY changeSyncDeviceName.label "Muuta laitteen nimeä…">
+<!ENTITY cancelChangeSyncDeviceName.label "Peruuta">
+<!ENTITY saveChangeSyncDeviceName.label "Tallenna">
 <!ENTITY unlinkDevice.label           "Irrota laite">
 
 <!-- Footer stuff -->
@@ -47,7 +50,7 @@
 <!ENTITY prefs.ppLink.label         "Tietosuojakäytäntö">
 
 <!-- Firefox Accounts stuff -->
-<!ENTITY fxaPrivacyNotice.link.label "Tietosuojahuomautus">
+<!ENTITY fxaPrivacyNotice.link.label "Tietosuojakäytäntö">
 <!ENTITY determiningAcctStatus.label     "Tarkistetaan tilisi tilaa…">
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
@@ -68,6 +71,7 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Et ole kirjautunut sisään.">
 <!ENTITY signIn.label                "Kirjaudu sisään">
+<!ENTITY profilePicture.tooltip      "Vaihda kuva">
 <!ENTITY manage.label                "Hallinnoi">
 <!ENTITY disconnect.label            "Katkaise yhteys…">
 <!ENTITY verify.label                "Vahvista sähköpostiosoite">
@@ -78,3 +82,17 @@ both, to better adapt this sentence to their language.
 <!ENTITY welcome.createAccount.label "Luo tili">
 
 <!ENTITY welcome.useOldSync.label "Käytätkö vanhempaa versiota Sync-palvelusta?">
+
+<!ENTITY signedOut.caption            "Pidä oma selain aina mukanasi">
+<!ENTITY signedOut.description        "Synkronoi kirjanmerkit, sivuhistoria, välilehdet, salasanat, lisäosat ja asetukset kaikilla laitteillasi.">
+<!ENTITY signedOut.accountBox.title   "Yhdistä &syncBrand.fxAccount.label;in">
+<!ENTITY signedOut.accountBox.create  "Luo tili">
+<!ENTITY signedOut.accountBox.signin  "Kirjaudu sisään">
+
+<!ENTITY signedIn.engines.label       "Synkronoi kaikki laitteesi">
+
+<!ENTITY mobilePromo.start            "Lataa Firefox ">
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+<!ENTITY mobilePromo.androidLink      "Androidille™">
+<!ENTITY mobilePromo.end              " synkronoidaksesi tiedot kannettavalle laitteellesi.">
+<!ENTITY androidAttribution           "Android on Google Inc.:n rekisteröity tavaramerkki">
