@@ -197,7 +197,7 @@
 
 <!ENTITY fxaccount_status_header2 "Firefox hisobi">
 <!ENTITY fxaccount_status_signed_in_as "Kirilgan foydalanuvchi nomi">
-
+<!ENTITY fxaccount_status_manage_account "Hisobni boshqarish">
 <!ENTITY fxaccount_status_auth_server "Hisob serveri">
 <!ENTITY fxaccount_status_sync_now "Hozir sinxronlash">
 <!ENTITY fxaccount_status_syncing2 "Sinxornlanmoqda…">
