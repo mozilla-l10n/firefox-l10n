@@ -73,7 +73,7 @@
 <!ENTITY  rememberActions.removeCookies.label "să ștergi anumite cookie-uri">
 <!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY  dontrememberDescription.label  "&brandShortName; va folosi aceleași setări ca navigarea privată și nu va memora nimic pe măsură ce navigați pe web.">
+<!ENTITY  dontrememberDescription.label  "&brandShortName; va folosi aceleași setări ca navigarea privată și nu va memora niciun istoric pe măsură ce navigați pe web.">
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
 
