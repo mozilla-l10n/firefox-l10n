@@ -710,7 +710,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "&brandShortName; a blocat elementele nesigure din această pagină.">
-<!ENTITY identity.passiveLoaded "Elemente din această pagină nu sunt sigure (cum ar fi imagini).">
+<!ENTITY identity.passiveLoaded "Părți ale acestei pagini nu sunt sigure (cum ar fi imagini).">
 <!ENTITY identity.activeLoaded "Ați dezactivat protecția pe această pagină.">
 <!ENTITY identity.weakEncryption "Această pagină folosește criptare slabă.">
 <!-- Strings for connection state warnings in the subview. -->
