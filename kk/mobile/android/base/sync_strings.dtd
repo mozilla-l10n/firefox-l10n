@@ -197,7 +197,7 @@
 
 <!ENTITY fxaccount_status_header2 "Firefox тіркелгісі">
 <!ENTITY fxaccount_status_signed_in_as "Кім ретінде кірген:">
-
+<!ENTITY fxaccount_status_manage_account "Тіркелгіні басқару">
 <!ENTITY fxaccount_status_auth_server "Тіркелгі сервері">
 <!ENTITY fxaccount_status_sync_now "Қазір синхрондау">
 <!ENTITY fxaccount_status_syncing2 "Синхрондау…">
