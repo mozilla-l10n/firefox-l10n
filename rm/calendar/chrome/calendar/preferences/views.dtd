@@ -14,6 +14,8 @@
 
 <!ENTITY pref.weekstarts.label "Cumenzar l'emna: ">
 <!ENTITY pref.weekstarts.accesskey "C">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Mussar il number da l'emna en vistas e mini-mais">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "v">
 <!ENTITY pref.daysoff.label "Includer quests dis en l'emna da lavur:">
 
 <!ENTITY pref.calendar.view.daystart.label "Il di cumenza las:">
