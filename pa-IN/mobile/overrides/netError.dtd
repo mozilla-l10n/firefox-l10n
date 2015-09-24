@@ -18,22 +18,29 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "ਸਰਵਰ ਨਹੀਂ ਲੱਭਿਆ">
-<!ENTITY dnsNotFound.longDesc3 "
+
+<!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "
 <ul>
-  <li>ਲਿਖੇ ਗਏ ਐਡਰੈਸ ਵਿੱਚ ਗਲਤੀਆਂ ਦੀ ਜਾਂਚ ਕਰੋ ਜਿਵੇੇਂ ਕਿ
-    <strong>ww</strong>.example.com ਬਜਾਏ ਕਿ
-    <strong>www</strong>.example.com</li>
+  <li>ਐਡਰੈਸ ਲਿਖਣ ਵਿੱਚ ਗਲਤੀਆਂ ਦੀ ਜਾਂਚ ਕਰੋ, ਜਿਵੇਂ ਕਿ
+    <strong>www</strong>.example.com ਦੀ ਬਜਾਏ 
+    <strong>ww</strong>.example.com</li>
+    <div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>ਖੋਜ</button>
+    </div>
   <li>ਜੇ ਤੁਸੀਂ ਕੋਈ ਵੀ ਸਫ਼ਾ ਲੋਡ ਨਹੀਂ ਕਰ ਸਕਦੇ ਹੋ ਤਾਂ ਆਪਣੇ ਯੰਤਰ ਦੇ ਡਾਟੇ ਜਾਂ ਵਾਈ-ਫਾਈ ਕੁਨੈਕਸ਼ਨ ਦੀ ਜਾਂਚ ਕਰੋ ਜੀ।
     <button id='wifi'>Wi-Fi ਸਮਰੱਥ ਕਰੋ</button>
   </li>
 </ul>
 ">
 
-<!ENTITY fileNotFound.title "ਫਾਇਲ ਨਹੀਂ ਲੱਭੀ">
+<!ENTITY fileNotFound.title "ਫਾਈਲ ਨਹੀਂ ਲੱਭੀ">
 <!ENTITY fileNotFound.longDesc "
 <ul>
-  <li>ਵੱਡੇ ਅੱਖਰਾਂ ਜਾਂ ਹੋਰ ਗਲਤੀਆਂ ਲਈ ਫਾਇਲ ਨਾਂ ਦੀ ਜਾਂਚ ਕਰੋ।</li>
-  <li>ਵੇਖਣ ਲਈ ਜਾਂਚ ਕਰੋ ਕਿ ਫਾਇਲ ਕਿਤੇ ਹੋਰ ਭੇਜੀ ਤਾਂ ਨਹੀਂ ਗਈ ਜਾਂ ਨਾਂ ਬਦਲਿਆ ਹੋਵੇ ਜਾਂ ਹਟਾ ਦਿੱਤੀ ਗਈ ਹੋਵੇ।</li>
+  <li>ਵੱਡੇ ਅੱਖਰਾਂ ਜਾਂ ਹੋਰ ਗਲਤੀਆਂ ਲਈ ਫਾਈਲ ਨਾਂ ਦੀ ਜਾਂਚ ਕਰੋ।</li>
+  <li>ਵੇਖਣ ਲਈ ਜਾਂਚ ਕਰੋ ਕਿ ਫਾਈਲ ਕਿਤੇ ਹੋਰ ਭੇਜੀ ਤਾਂ ਨਹੀਂ ਗਈ ਜਾਂ ਨਾਂ ਬਦਲਿਆ ਹੋਵੇ ਜਾਂ ਹਟਾ ਦਿੱਤੀ ਗਈ ਹੋਵੇ।</li>
 </ul>
 ">
 
@@ -44,12 +51,18 @@
 ">
 
 <!ENTITY malformedURI.title "ਐਡਰੈੱਸ ਠੀਕ ਨਹੀਂ ਹੈ।">
-<!ENTITY malformedURI.longDesc "
+<!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "
 <ul>
   <li>ਵੈੱਬ ਸਿਰਨਾਵੇਂ ਅਕਸਰ ਲਿਖੇ ਜਾਂਦੇ ਹਨ
     <strong>http://www.example.com/</strong></li>
-  <li>ਯਕੀਨੀ ਬਣਾਉ ਕਿ ਤੁਸੀਂ ਫਾਰਵਰਡ ਸਲੈਸ਼ ਵਰਤ ਰਹੇ ਹੋ (ਜਿਵੇਂ ਕਿ
-    <strong>/</strong>)</li>
+    <div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>ਖੋਜ</button>
+    </div>
+  <li>ਯਕੀਨੀ ਬਣਾਉ ਕਿ ਤੁਸੀਂ ਫਾਰਵਰਡ ਸਲੈਸ਼ ਵਰਤ ਰਹੇ ਹੋ (ਜਿਵੇਂ ਕਿ 
+    <strong>/</strong>).</li>
 </ul>
 ">
 
@@ -75,7 +88,7 @@
 </ul>
 ">
 
-<!ENTITY unsafeContentType.title "ਅਸੁਰੱਖਿਅਤ ਫਾਇਲ ਟਾਈਪ">
+<!ENTITY unsafeContentType.title "ਅਸੁਰੱਖਿਅਤ ਫਾਈਲ ਟਾਈਪ">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
   <li>ਇਹ ਸਮੱਸਿਆ ਬਾਰੇ ਵੈੱਬਸਾਈਟ ਦੇ ਮਾਲਕਾਂ ਨੂੰ ਜਾਣਕਾਰੀ ਦੇਣ ਲਈ ਉਨ੍ਹਾਂ ਨਾਲ ਸੰਪਰਕ ਕਰੋ।</li>
@@ -153,8 +166,9 @@
 </ul>
 ">
 
-<!ENTITY cspFrameAncestorBlocked.title "ਸਮਗੱਰੀ ਸੁਰੱਖਿਆ ਨੀਤੀ ਰਾਹੀਂ ਪਾਬੰਦੀ ਲਾਈ">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; ਨੇ ਇਹ ਸਫ਼ੇ ਨੂੰ ਇਸ ਢੰਗ ਨਾਲ ਲੋਡ ਹੋਣ ਤੋਂ ਰੋਕਿਆ ਹੈ, ਕਿਉਂਕਿ ਸਫ਼ਾ ਵਿਚਲੀ ਸੁਰੱਖਿਆ ਨੀਤੀ ਇਸ ਤਰ੍ਹਾਂ ਕਰਨ ਤੋਂ ਰੋਕ ਲਗਾਉਂਦੀ ਹੈ</p>">
+<!ENTITY cspBlocked.title "ਸਮਗੱਰੀ ਸੁਰੱਖਿਆ ਨੀਤੀ ਰਾਹੀਂ ਪਾਬੰਦੀ ਲਾਈ">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; ਨੇ ਇਹ ਸਫ਼ੇ ਨੂੰ ਇਸ ਢੰਗ ਨਾਲ ਲੋਡ ਹੋਣ ਤੋਂ ਰੋਕਿਆ ਹੈ, ਕਿਉਂਕਿ ਸਫ਼ੇ ਵਿਚਲੀ ਸੁਰੱਖਿਆ ਨੀਤੀ ਇਸ ਤਰ੍ਹਾਂ ਕਰਨ ਤੋਂ ਰੋਕ ਲਗਾਉਂਦੀ ਹੈ</p>">
+
 
 <!ENTITY corruptedContentError.title "ਨਿਕਾਰਾ ਸਮੱਗਰੀ ਗਲਤੀ">
 <!ENTITY corruptedContentError.longDesc "<p>ਸਫ਼ਾ, ਜੋ ਤੁਸੀਂ ਵੇਖਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੇ ਨੂੰ ਵੇਖਾਇਆ ਨਹੀਂ ਜਾ ਸਕਦਾ ਹੈ, ਕਿਉਂਕਿ ਡਾਟਾ ਲੈਣ-ਦੇਣ ਵਿੱਚ ਗਲਤੀ ਖੋਜੀ ਗਈ ਹੈ।</p><ul><li>ਇਹ ਸਮੱਸਿਆ ਬਾਰੇ ਜਾਣਕਾਰੀ ਦੇਣ ਲਈ ਵੈੱਬਸਾਈਟ ਮਾਲਕਾਂ ਨਾਲ ਸੰਪਰਕ ਕਰੋ ਜੀ।</li></ul>">

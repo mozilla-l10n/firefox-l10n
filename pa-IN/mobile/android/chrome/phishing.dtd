@@ -16,3 +16,9 @@
 <!ENTITY safeb.blocked.phishingPage.title2 "ਸ਼ੱਕੀ ਵੈੱਬ ਧੋਖਾਧੜੀ!">
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "ਇਸ ਸਫ਼ੇ ਉੱਤੇ ਦੇਣ ਨਾਲ ਕੋਈ ਵੀ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਦੇ ਨਤੀਜੇ ਵਜੋਂ ਪਛਾਣ ਚੋਰੀ ਹੋਣ ਜਾਂ ਹੋਰ ਕੋਈ ਗੜਬੜ ਹੋਣ ਦਾ ਖਤਰਾ ਹੈ।">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>ਇਸ ਕਿਸਮ ਦੀਆਂ ਵੈੱਬ ਧੋਖਾਧੜੀਆਂ ਨੂੰ ਫਿਸ਼ਿੰਗ ਹਮਲਿਆਂ ਲਈ ਵਰਤਿਆ ਜਾਂਦਾ ਹੈ, ਜਿਸ ਵਿੱਚ ਜ਼ਾਅਲੀ ਵੈੱਬ ਸਫ਼ੇ ਅਤੇ ਈਮੇਲ ਨੂੰ ਸ਼ੁਰੂਆਤੀ ਸਰੋਤਾਂ ਵਜੋਂ ਵਰਤਿਆ ਜਾਂਦਾ ਹੈ, ਜਿਹਨਾਂ ਉੱਤੇ ਤੁਸੀਂ ਭਰੋਸਾ ਕਰਦੇ ਹੈ।</p>">
+
+
+<!ENTITY safeb.blocked.unwantedPage.title "ਬੇਲੋੜੀ ਸਾਫਟਵੇਅਰ ਸਾਈਟ ਵਜੋਂ ਰਿਪੋਰਟ ਕੀਤੀ!">
+<!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "This web page at <span id='unwanted_sitename'/> has been reported to contain unwanted software and has been blocked based on your security preferences.">
+<!ENTITY safeb.blocked.unwantedPage.longDesc "Unwanted software pages try to install software that can be deceptive and affect your system in unexpected ways.">

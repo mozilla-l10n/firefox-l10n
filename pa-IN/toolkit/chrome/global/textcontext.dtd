@@ -15,7 +15,7 @@
 <!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY deleteCmd.label "ਹਟਾਓ">
 <!ENTITY deleteCmd.accesskey "d">
-<!ENTITY spellAddToDictionary.label "ਡਿਕਸ਼ਨਰੀ ਵਿੱਚ ਸ਼ਾਮਿਲ">
+<!ENTITY spellAddToDictionary.label "ਡਿਕਸ਼ਨਰੀ ਵਿੱਚ ਜੋੜੋ">
 <!ENTITY spellAddToDictionary.accesskey "t">
 <!ENTITY spellUndoAddToDictionary.label "ਡਿਕਸ਼ਨਰੀ ਵਿੱਚ ਜੋੜੇ ਨੂੰ ਹਟਾਓ">
 <!ENTITY spellUndoAddToDictionary.accesskey "n">
@@ -24,3 +24,14 @@
 <!ENTITY spellNoSuggestions.label "(ਕੋਈ ਸਪੈਲਿੰਗ ਸੁਝਾਅ ਨਹੀਂ ਹੈ)">
 <!ENTITY spellDictionaries.label "ਭਾਸ਼ਾਵਾਂ">
 <!ENTITY spellDictionaries.accesskey "l">
+
+<!ENTITY searchTextBox.clear.label "ਸਾਫ਼ ਕਰੋ">
+
+<!ENTITY fillLoginMenu.label          "ਲਾਗਇਨ ਭਰੋ">
+<!ENTITY fillLoginMenu.accesskey      "F">
+<!ENTITY fillPasswordMenu.label       "ਪਾਸਵਰਡ ਭਰੋ">
+<!ENTITY fillPasswordMenu.accesskey   "F">
+<!ENTITY fillUsernameMenu.label       "ਵਰਤੋਂਕਾਰ-ਨਾਂ ਭਰੋ">
+<!ENTITY fillUsernameMenu.accesskey   "F">
+<!ENTITY noLoginSuggestions.label     "(ਕੋਈ ਲਾਗਇਨ ਸੁਝਾਅ ਨਹੀਂ)">
+<!ENTITY viewSavedLogins.label        "ਸੰਭਾਲੇ ਲਾਗਇਨ ਵੇਖੋ">
