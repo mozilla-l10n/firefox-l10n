@@ -29,7 +29,7 @@
 <!ENTITY abouthome.preferencesButtonWin.label  "Options">
 <!-- LOCALIZATION NOTE (abouthome.preferencesButtonUnix.label): The label for the
      preferences/options item on about:home on Linux and OS X -->
-<!ENTITY abouthome.preferencesButtonUnix.label  "Mga Preferences">
+<!ENTITY abouthome.preferencesButtonUnix.label  "Preferences">
 <!ENTITY abouthome.addonsButton.label    "Mga Add-ons">
 <!-- LOCALIZATION NOTE (abouthome.appsButton2.label): This string should be consistent with
      the Apps menu item in the Tools menu (webapps.label in browser.dtd) and the Apps toolbar button in

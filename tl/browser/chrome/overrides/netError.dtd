@@ -63,7 +63,8 @@
 
 
 
-
+<!ENTITY phishingBlocked.longDesc "<p>Ang pagpasok ng anumang personal na impormasyon sa pahinang ito ay maaaring magresulta sa pagnanakaw ng pagkakakilanlan o iba pang pandaraya.</p>
+<p>Ang mga uri ng web forgeries ay ginagamit sa mga pandaraya na kilala bilang phishing na atake, kung saan ang mga mapanlinlang na mga pahina ng web at mga email ay ginagamit upang gayahin at mapagkukunan na maaaring pinagkakatiwalaan mo.</p>">
 
 <!ENTITY cspBlocked.title "Blocked by Content Security Policy">
 
