@@ -9,4 +9,5 @@
 <!ENTITY aboutAccounts.noConnection.title "ইন্টারনেট সংযোগ নেই">
 <!ENTITY aboutAccounts.retry.label "পুনরায় চেষ্টা করুন">
 
-
+<!ENTITY aboutAccounts.restrictedError.title "সীমাবদ্ধ">
+<!ENTITY aboutAccounts.restrictedError.description "এই প্রোফাইল থেকে আপনি ফায়ারফক্স অ্যাকাউন্ট পরিচালনা করতে পারবেন না।">
