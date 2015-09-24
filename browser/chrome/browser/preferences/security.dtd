@@ -24,7 +24,10 @@
 <!ENTITY  addonExceptions.accesskey     "Е">
 
 
+<!ENTITY  logins.label                  "Логиндер">
 
+<!ENTITY  rememberLogins.label          "Сайттар үшін логиндерді сақтау">
+<!ENTITY  rememberLogins.accesskey      "т">
 <!ENTITY  passwordExceptions.label      "Ережелерден бөлек…">
 <!ENTITY  passwordExceptions.accesskey  "р">
 
@@ -33,4 +36,5 @@
 <!ENTITY  changeMasterPassword.label     "Мастер-парольді өзгерту…">
 <!ENTITY  changeMasterPassword.accesskey "т">
 
-
+<!ENTITY  savedLogins.label              "Сақталған логиндер…">
+<!ENTITY  savedLogins.accesskey          "л">

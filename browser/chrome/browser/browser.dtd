@@ -112,7 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; ішіне кіру">
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; баптауларын ашу">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; үшін қайта байланысу">
-
+<!ENTITY fxaUnverified.label "Тіркелгіні растау">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; іске қосылған">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; синхрондауды лезде бастайды.">
 
@@ -131,12 +131,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY fullscreenWarning.beforeDomain.label "">
-
-
+<!ENTITY fullscreenWarning.afterDomain.label "енді толық экран режимінде">
+<!ENTITY fullscreenWarning.generic.label "Бұл құжат енді толық экран режимінде">
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
-
+<!ENTITY exitDOMFullscreen.button "Толық экраннан шығу (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "Толық экраннан шығу (Esc)">
 <!ENTITY leaveDOMFullScreen.label "Толық экраннан шығу">
 <!ENTITY leaveDOMFullScreen.accesskey "Т">
 
@@ -466,9 +467,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Іздеу баптауларын өзгерту">
 
-
-
-
+<!ENTITY searchInNewTab.label         "Жаңа бетте іздеу">
+<!ENTITY searchInNewTab.accesskey     "т">
+<!ENTITY searchSetAsDefault.label     "Негізгі іздеу қызметі ретінде орнату">
+<!ENTITY searchSetAsDefault.accesskey "г">
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -704,9 +706,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Қауіпсіз байланыс">
 <!ENTITY identity.connectionNotSecure "Байланыс қауіпсіз емес">
 <!ENTITY identity.connectionFile "Бұл парақ сіздің компьютеріңізде сақталған.">
-
+<!ENTITY identity.connectionVerified1 "Бұл сайтқа қауіпсіз түрде байланысты орнаттыңыз, сайт иесі:">
 <!ENTITY identity.connectionInternal "Бұл - қауіпсіз &brandShortName; беті.">
-
+<!ENTITY identity.insecureLoginForms "Логиніңізге бөтен адамдардың қолы жетуі мүмкін.">
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "&brandShortName; бұл парақтың кейбір қауіпсіз емес бөліктерін блоктаған.">
@@ -716,7 +718,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings in the subview. -->
 
 <!ENTITY identity.description.insecure "Бұл веб сайтқа байланысыңыз шынымен жеке емес. Басқа адамдар сіздің жіберетін ақпаратыңызды көре алады (парольдер, хабарламалар, кредит карталар, т.б.).">
-
+<!ENTITY identity.description.insecureLoginForms "Бұл парақта енгізілген логин ақпараты қауіпсіз емес, және оған бөтен адамдардың қолы жетуі мүмкін.">
 <!ENTITY identity.description.weakCipher "Бұл веб сайтқа байланысыңыз әлсіз шифрлеуді қолданады және шын жеке емес.">
 <!ENTITY identity.description.weakCipher2 "Басқа адамдар сіздің ақпаратыңызды көре алады немесе веб сайттың мінез-құлығын өзгерте алады.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; бұл парақтың кейбір қауіпсіз емес бөліктерін блоктаған.">
@@ -735,7 +737,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.moreInfoLinkText2 "Көбірек білу">
 
 <!ENTITY identity.permissions "Рұқсаттар">
-
+<!ENTITY identity.permissionsEmpty "Бұл сайтқа арнайы рұқсаттарды берген жоқсыз.">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -746,6 +748,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "Синхрондау">
 
+<!ENTITY syncSignIn.label             "&syncBrand.shortName.label; ішіне кіру…">
 
 <!ENTITY syncSyncNowItem.label        "Қазір синхрондау">
 <!ENTITY syncSyncNowItem.accesskey    "с">
