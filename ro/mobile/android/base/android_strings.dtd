@@ -11,15 +11,16 @@
 <!ENTITY  onboard_start_subtext3 "Fă ca experiența de navigare mobilă pe Web să fie cu adevărat unică.">
 <!ENTITY  onboard_start_button_account "Autentifică-te în &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Începe navigarea">
-
+<!ENTITY firstrun_button_next "Înainte">
 
 <!ENTITY  onboard_start_restricted1 "Rămâi în siguranță și păstrează controlul cu această versiune simplificată de &brandShortName;.">
 
+<!ENTITY firstrun_import_title "Importă">
 <!ENTITY firstrun_import_message "Bun venit la &brandShortName;">
-
-
-
-
+<!ENTITY firstrun_import_subtext "Importă semnele de carte și istoricul din alt browser.">
+<!ENTITY firstrun_import_action "Transferă în &brandShortName;">
+<!ENTITY firstrun_import_dialog_button "Transferă">
+<!ENTITY firstrun_import_progress_title "Se transferă">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -64,9 +65,9 @@
 
 <!ENTITY history_today_section "Azi">
 <!ENTITY history_yesterday_section "Ieri">
-
-
-
+<!ENTITY history_week_section3 "Ultimele 7 zile">
+<!ENTITY history_this_month_section "Luna aceasta">
+<!ENTITY history_older_section3 "Mai vechi de 6 luni">
 
 <!ENTITY go "Du-te">
 <!ENTITY search "Caută">
@@ -96,6 +97,7 @@
      &formatS; will be replaced with the title of the tab, as received from the
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "Se redă audio – &formatS;">
 
 <!ENTITY settings "Setări">
 <!ENTITY settings_title "Setări">
@@ -197,9 +199,9 @@
 <!ENTITY pref_home_updates_wifi "Doar prin Wi-Fi">
 <!ENTITY pref_home_suggested_sites "Arată sugestii de site-uri">
 <!ENTITY pref_home_suggested_sites_summary "Afișează scurtături pe pagina de start către site-uri pe care noi credem că le-ai putea considera interesante">
-
-
-
+<!ENTITY pref_category_home_homepage "Pagină de start">
+<!ENTITY home_homepage_title "Setează o pagină de start">
+<!ENTITY home_homepage_use_current_tab "Folosește fila actuală">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Personalizare">
@@ -364,7 +366,7 @@ size. -->
 <!ENTITY share_title "Distribuie prin intermediul">
 <!ENTITY share_image_failed "Nu se poate partaja această imagine">
 <!ENTITY save_as_pdf "Salvează ca PDF">
-
+<!ENTITY print "Tipărește">
 <!ENTITY find_in_page "Găsește în pagină">
 <!ENTITY desktop_mode "Cere versiune de desktop">
 <!ENTITY page "Pagină">
@@ -384,7 +386,7 @@ size. -->
 
 <!ENTITY find_text "Găsește în pagină">
 <!ENTITY find_prev "Anterior">
-
+<!ENTITY find_next "Următor">
 <!ENTITY find_close "Închide">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -409,8 +411,8 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Fixează site-ul">
 <!ENTITY contextmenu_top_sites_unpin "Anulează fixarea site-ului">
 <!ENTITY contextmenu_add_search_engine "Adaugă motor de căutare">
-
-
+<!ENTITY contextmenu_mark_read "Marchează ca citit">
+<!ENTITY contextmenu_mark_unread "Marchează ca necitit">
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
@@ -433,6 +435,8 @@ size. -->
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
+<!ENTITY pref_magnifying_glass_enabled "Amplifică zonele mici">
+<!ENTITY pref_magnifying_glass_enabled_summary "Mărește linkurile și câmpurile formularelor la apăsarea lângă acestea">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -580,8 +584,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_insecure "Conexiune nesecurizată">
 <!-- Mixed content notifications in site identity popup -->
 
-
-
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; a blocat conținutul nesigur de pe această pagină.">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; a blocat câteva elemente din conținutul nesigur de pe această pagină.">
+<!ENTITY mixed_content_display_loaded1 "Părți ale acestei pagini nu sunt sigure (cum ar fi imagini).">
+<!ENTITY mixed_content_protection_disabled1 "Ai dezactivat protecția față de conținutul nesigur.">
 <!-- Tracking content notifications in site identity popup -->
 
 <!ENTITY doorhanger_tracking_title "Protecția față de urmărire">
@@ -599,6 +605,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Datele private curățate">
 <!ENTITY private_data_fail "Unele date private nu au putut fi curățate">
 
+<!ENTITY bookmarkhistory_button_import "Importă">
 <!ENTITY bookmarkhistory_import_both "Se importă semne de carte și istoric 
 din Android">
 <!ENTITY bookmarkhistory_import_bookmarks "Se importă semne de carte 
@@ -714,9 +721,17 @@ din Android">
 <!ENTITY restriction_disallow_guest_browsing_title2 "Dezactivează navigarea în mod vizitator">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
+
+<!ENTITY bookmarks_title "De pe mobil">
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!ENTITY bookmarks_about_browser "Firefox: Despre browserul tău">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "Firefox: Personalizează cu suplimente">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "Firefox: Suport">
 <!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
+<!ENTITY bookmarks_marketplace "Firefox Marketplace">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!ENTITY bookmarks_restricted_support2 "Ajutor și suport Firefox pentru profiluri restricționate pe tabletele Android">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!ENTITY bookmarks_restricted_webmaker "Învață webul: Mozilla Webmaker">
