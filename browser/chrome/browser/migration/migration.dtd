@@ -18,6 +18,8 @@
 <!ENTITY importFromChrome.accesskey     "C">
 <!ENTITY importFromFirefox.label        "ਫਾਇਰਫਾਕਸ">
 <!ENTITY importFromFirefox.accesskey    "X">
+<!ENTITY importFrom360se.label          "360 ਸੁਰੱਖਿਆ ਬਰਾਊਜ਼ਰ">
+<!ENTITY importFrom360se.accesskey      "3">
 
 <!ENTITY noMigrationSources.label       "ਕੋਈ ਵੀ ਅਜੇਹਾ ਪਰੋਗਰਾਮ ਨਹੀਂ ਲੱਭਿਆ ਹੈ, ਜੋ  ਕਿ ਬੁੱਕਮਾਰਕ, ਅਤੀਤ ਜਾਂ ਪਾਸਵਰਡ ਡਾਟਾ ਰੱਖਦਾ ਹੋਵੇ।">
 

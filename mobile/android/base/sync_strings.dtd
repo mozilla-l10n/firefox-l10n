@@ -80,7 +80,7 @@
      will be replaced by the name of the Firefox release channel and &formatS2
      by the model name of the Android device. Examples look like "Aurora on
      GT-I1950" and "Fennec on MI 2S". -->
-<!ENTITY sync.default.client.name '&formatS1; on &formatS2;'>
+<!ENTITY sync.default.client.name ' &formatS2; ਉੱਤੇ &formatS1;'>
 
 <!-- Bookmark folder strings -->
 <!ENTITY bookmarks.folder.menu.label 'ਬੁੱਕਮਾਰਕ ਮੇਨੂ'>
@@ -141,16 +141,18 @@
 <!ENTITY fxaccount_getting_started_welcome_to_sync '&syncBrand.shortName.label; ਲਈ ਜੀ ਆਇਆਂ ਨੂੰ'>
 <!ENTITY fxaccount_getting_started_description 'ਆਪਣੀਆਂ ਟੈਬਾਂ, ਬੁੱਕਮਾਰਕ, ਪਾਸਵਰਡ ਤੇ ਹੋਰਾਂ ਨੂੰ ਸਿੰਕ ਕਰਨ ਲਈ ਸਾਇਨ ਇਨ ਕਰੋ।'>
 <!ENTITY fxaccount_getting_started_get_started 'ਸ਼ੁਰੂ ਕਰੀਏ'>
-<!ENTITY fxaccount_getting_started_old_firefox ' &syncBrand.shortName.label; ਦੇ ਪੁਰਾਣੇ ਵਰਜਨ ਦੀ ਵਰਤੋਂ ਨਾਲ?'>
+<!ENTITY fxaccount_getting_started_old_firefox ' &syncBrand.shortName.label; ਦੇ ਪੁਰਾਣੇ ਵਰਜ਼ਨ ਦੀ ਵਰਤੋਂ ਨਾਲ?'>
 
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
      etc).  The account remains a "Firefox" account. -->
 <!ENTITY fxaccount_create_account_header2 'ਫਾਇਰਫਾਕਸ ਖਾਤਾ ਬਣਾਓ'>
 <!ENTITY fxaccount_create_account_password_length_restriction 'ਘੱਟੋ-ਘੱਟ 8 ਅੱਖਰ ਲੰਮਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ'>
+<!ENTITY fxaccount_create_account_day_of_birth 'ਦਿਨ'>
+<!ENTITY fxaccount_create_account_month_of_birth 'ਮਹੀਨਾ'>
 <!ENTITY fxaccount_create_account_year_of_birth 'ਜਨਮ ਦਾ ਸਾਲ'>
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text2 'ਜਾਰੀ ਰੱਖਣ ਨਾਲ, ਮੈਂ ਫਾਇਰਫਾਕਸ ਕਲਾਉਡ ਸੇਵਾਵਾਂ ਦੀਆਂ &formatS1; ਅਤੇ &formatS2;ਸਹਿਮਤ ਹਾਂ।'>
+<!ENTITY fxaccount_create_account_policy_text2 'ਜਾਰੀ ਰੱਖਣ ਨਾਲ, ਮੈਂ ਫਾਇਰਫਾਕਸ ਕਲਾਉਡ ਸੇਵਾਵਾਂ ਦੀਆਂ &formatS1; ਤੇ &formatS2; ਸਹਿਮਤ ਹਾਂ।'>
 <!ENTITY fxaccount_create_account_button 'ਅੱਗੇ'>
 <!ENTITY fxaccount_create_account_choose_what_to_sync 'ਚੁਣੋ ਕਿ ਕੀ ਸਿੰਕ ਕਰਨਾ ਹੈ'>
 <!ENTITY fxaccount_create_account_sign_in_instead 'ਪਹਿਲਾਂ ਹੀ ਖਾਤਾ ਹੈ? ਸਾਇਨ ਇਨ'>
@@ -165,8 +167,12 @@
 <!-- Localization note: &formatS; is the Firefox account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link 'ਜਾਂਚ ਲਿੰਕ &formatS; ਨੂੰ ਭੇਜਿਆ ਗਿਆ ਹੈ'>
 <!ENTITY fxaccount_confirm_account_resend_email 'ਈਮੇਲ ਫੇਰ ਭੇਜੋl'>
-<!ENTITY fxaccount_confirm_account_verification_link_sent2 'ਜਾਂਚ ਈਮੇਲ ਭੇਜੀਗਈ '>
+<!ENTITY fxaccount_confirm_account_change_email 'ਕੀ ਇਹ ਈਮੇਲ ਸਿਰਨਾਵਾਂ ਭੁੱਲ ਗਏ ਹੋ?'>
+<!ENTITY fxaccount_confirm_account_verification_link_sent2 'ਜਾਂਚ ਈਮੇਲ ਭੇਜੀ ਗਈ '>
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'ਜਾਂਚ ਈਮੇਲ ਭੇਜੀ ਨਹੀਂ ਜਾ ਸਕੀ'>
+<!ENTITY fxaccount_resend_unlock_code_button_label 'ਅਣ-ਲਿੰਕ ਈਮੇਲ ਫ਼ੇਰ ਭੇਜੋ'>
+<!ENTITY fxaccount_unlock_code_sent 'ਖਾਤਾ ਅਣ-ਲਿੰਕ ਈਮੇਲ ਭੇਜੀ'>
+<!ENTITY fxaccount_unlock_code_not_sent 'ਖਾਤਾ ਅਣ-ਲਿੰਕ ਈਠੇਲ ਭੇਜੀ ਨਹੀਂ ਜਾ ਸਕੀ'>
 
 <!ENTITY fxaccount_sign_in_sub_header 'ਸਾਇਨ ਇਨ'>
 <!ENTITY fxaccount_sign_in_button_label 'ਸਾਇਨ ਇਨ'>
@@ -177,13 +183,21 @@
 <!ENTITY fxaccount_account_verified_sub_header 'ਜਾਂਚ ਕੀਤਾ ਖਾਤਾ'>
 <!ENTITY fxaccount_account_verified_description2 'ਤੁਹਾਡਾ ਡਾਟਾ ਕੁਝ ਕੁ ਪਲ਼ਾ ਵਿੱਚ ਸਿੰਕ ਹੋਣਾ ਸ਼ੁਰੂ ਹੋਵੇਗਾ।'>
 
+<!ENTITY fxaccount_migration_finished_header 'ਅੱਪਗਰੇਡ ਪੂਰਾ ਹੋਇਆ'>
+
 <!ENTITY fxaccount_update_credentials_header 'ਸਾਇਨ ਇਨ'>
 <!ENTITY fxaccount_update_credentials_button_label 'ਸਾਇਨ ਇਨ'>
 <!ENTITY fxaccount_update_credentials_unknown_error 'ਸਾਇਨ ਇਨ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ'>
 
+<!ENTITY fxaccount_finish_migrating_header 'ਅੱਪਗਰੇਡ ਪੂਰਾ ਕਰਨ ਲਈ ਸਾਇਨ ਇਨ ਕਰੋ'>
+<!ENTITY fxaccount_finish_migrating_button_label 'ਅੱਪਗਰੇਡ ਪੂਰਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ'>
+<!ENTITY fxaccount_finish_migrating_description 'ਅੱਪਗਰੇਡ ਲਈ ਕਾਫ਼ੀ ਡਾਟਾ ਟਰਾਂਸਫਰ ਹੋ ਸਕਦਾ ਹੈ। ਇਸ ਦੇ ਵਾਸਤੇ WiFi ਨੈਟਵਰਕ ਵਰਤਣਾ ਵਧੀਆ ਰਹੇਗਾ।'>
+
 <!ENTITY fxaccount_status_header2 'ਫਾਇਰਫਾਕਸ ਖਾਤਾ'>
 <!ENTITY fxaccount_status_signed_in_as 'ਸਾਇਨ ਇਨ ਕੀਤਾ'>
 <!ENTITY fxaccount_status_auth_server 'ਖਾਤਾ ਸਰਵਰ'>
+<!ENTITY fxaccount_status_sync_now 'ਹੁਣੇ ਸਿੰਕ ਕਰੋ'>
+<!ENTITY fxaccount_status_syncing2 'ਸਿੰਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ…'>
 <!ENTITY fxaccount_status_device_name 'ਯੰਤਰ ਨਾਂ'>
 <!ENTITY fxaccount_status_sync_server 'ਸਿੰਕ ਸਰਵਰ'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
@@ -192,7 +206,8 @@
 <!ENTITY fxaccount_status_needs_credentials 'ਕੁਨੈਕਟ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ। ਸਾਇਨ ਇਨ ਕਰਨ ਲਈ ਛੂਹੋ।'>
 <!ENTITY fxaccount_status_needs_upgrade 'ਤੁਹਾਨੂੰ ਸਾਇਨ ਇਨ ਕਰਨ ਲਈ &brandShortName; ਅੱਪਗਰੇਡ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; ਤਿਆਰ ਹੈ, ਪਰ ਆਪਣੇ-ਆਪ ਸਿੰਕ ਨਹੀਂ ਕਰ ਰਿਹਾ ਹੈ। ਐਂਡਰਾਇਡ ਸੈਟਿੰਗ &gt; ਡਾਟਾ ਵਰਤੋਂ ਵਿੱਚੋਂ “ਆਟੋ-ਸਿੰਕ ਡਾਟਾ” ਨੂੰ ਚਾਲੂ ਕਰੋ।'>
-<!ENTITY fxaccount_status_needs_account_enabled '&syncBrand.shortName.label; ਤਿਆਰ ਹੈ, ਪਰ ਆਪਣੇ-ਆਪ ਸਿੰਕ ਨਹੀਂ ਕਰ ਰਿਹਾ ਹੈ। ਸਿੰਕ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਛੂਹੋ।'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; ਸੈਟ ਅਪ ਤਾਂ ਹੈ ਪਰ ਆਟੋਮੈਟਿਕ ਸਿੰਕ ਨਹੀਂ ਕਰ ਰਿਹਾ ਹੈ। ਐਂਡਰਾਇਡ ਸੈਟਿੰਗ &gt; ਖਾਤੇ ਦੇ ਮੀਨੂ ਵਿੱਚ “ਆਟੋ-ਸਿੰਕ ਡਾਟਾ” ਨੂੰ ਬਦਲੋ।'>
+<!ENTITY fxaccount_status_needs_finish_migrating 'ਆਪਣੇ ਨਵੇਂ ਫਾਇਰਫਾਕਸ ਖਆਤੇ ਵਿੱਚ ਸਾਇਨ ਇਨ ਕਰਨ ਲਈ ਛੂਹੋ।'>
 <!ENTITY fxaccount_status_bookmarks 'ਬੁੱਕਮਾਰਕ'>
 <!ENTITY fxaccount_status_history 'ਅਤੀਤ'>
 <!ENTITY fxaccount_status_passwords 'ਪਾਸਵਰਡ'>
@@ -239,9 +254,16 @@
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'ਸਰਵਰ ਬਹੁਤ ਰੁਝਿਆ ਹੈ, ਛੇਤੀ ਹੀ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ'>
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'ਸਰਵਰ ਰੁਝਿਆ ਹੈ, ਛੇਤੀ ਹੀ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ'>
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'ਸਮੱਸਿਆ ਹੈ'>
-<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT 'ਨੈੱਟਵਰਕ ਨਾਲ ਕੁਨੈਕਟ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ'>
+<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT 'ਨੈੱਟਵਰਕ ਨਾਲ ਕਨੈਕਟ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ'>
+
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'ਖਾਤਾ ਲਾਕ ਹੈ। &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; ਕੁਨੈਕਟ ਨਹੀਂ ਹੈ'>
 <!-- Note to translators: the format string below will be replaced
      with the Firefox account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 '&formatS; ਵਜੋਂ ਸਾਇਨ ਇਨ ਕਰਨ ਲਈ ਛੂਹੋ'>
+
+<!ENTITY fxaccount_sync_finish_migrating_notification_title ' &syncBrand.shortName.label; ਨੂੰ ਅੱਪਗਰੇਡ ਕਰਨ ਨੂੰ ਪੂਰਾ ਕਰਨਾ ਹੈ?'>
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text '&formatS; ਵਿੱਚ ਸਾਇਨ ਇਨ ਕਰਨ ਲਈ ਛੂਹੋ'>

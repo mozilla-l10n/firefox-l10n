@@ -5,7 +5,6 @@
 <!ENTITY aboutAddons.title2                     "ਐਡ-ਆਨ">
 <!ENTITY aboutAddons.header2                    "ਤੁਹਾਡੇ ਐਡ-ਆਨ">
 <!ENTITY aboutAddons.options                    "ਚੋਣਾਂ">
-<!ENTITY aboutAddons.browseAll                  "ਸਭ ਫਾਇਰਫਾਕਸ ਐਡ-ਆਨ ਦੀ ਝਲਕ ਵੇਖੋ">
 
 <!ENTITY addonAction.enable                     "ਚਾਲੂ">
 <!ENTITY addonAction.disable                    "ਬੰਦ">

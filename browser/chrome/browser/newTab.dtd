@@ -5,9 +5,13 @@
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "ਨਵੀਂ ਟੈਬ">
 <!ENTITY newtab.customize.title "ਆਪਣੇ ਨਵੀਂ ਟੈਬ ਸਫ਼ੇ ਨੂੰ ਪਸੰਦ ਮੁਤਾਬਕ ਬਣਾਓ">
-<!ENTITY newtab.customize.enhanced "ਸੁਧਾਰਿਆ">
 <!ENTITY newtab.customize.classic "ਕਲਾਸਿਕ">
-<!ENTITY newtab.customize.blank "ਖਾਲੀ">
+<!ENTITY newtab.customize.cog.enhanced "ਸੁਝਾਈਆਂ ਸਾਈਟਾਂ ਨਾਲ">
+<!ENTITY newtab.customize.cog.title "ਨਵੇਂ ਟੈਬ ਕੰਟਰੋਲ">
+<!ENTITY newtab.customize.cog.learn "ਨਵੀਂ ਟੈਬ ਬਾਰੇ ਜਾਣੋ">
+<!ENTITY newtab.customize.suggested "ਸੁਝਾਈਆਂ ਤੇ ਆਪਣੀਆਂ ਚੋਟੀ ਦੀਆਂ ਸਾਈਟਾਂ ਦੇਖੋ">
+<!ENTITY newtab.customize.topsites "ਆਪਣੀਆਂ ਚੋਟੀ ਦੀਆਂ ਸਾਈਟਾਂ ਦੇਖੋ">
+<!ENTITY newtab.customize.blank2 "ਖਾਲੀ ਸਫ਼ਾ ਦੇਖੋ">
 <!ENTITY newtab.customize.what "ਇਹ ਸਫ਼ਾ ਕੀ ਹੈ?">
 <!ENTITY newtab.intro.header "ਇਹ ਸਫ਼ਾ ਕੀ ਹੈ?">
 <!ENTITY newtab.undo.removedLabel "ਥੰਮਨੇਲ ਹਟਾਇਆ।">

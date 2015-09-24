@@ -2,17 +2,5 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY charsetMenu.label             "ਅੱਖਰ ਇੰਕੋਡਿੰਗ">
-<!ENTITY charsetMenu.accesskey         "C">
-<!ENTITY charsetMenuAutodet.label      "ਆਪਣੇ-ਆਪ ਖੋਜ">
-<!ENTITY charsetMenuAutodet.accesskey  "D"><!-- A reserved for Arabic -->
-
-<!ENTITY charsetMenuAutodet.off.label     "(ਬੰਦ)">
-<!ENTITY charsetMenuAutodet.off.accesskey "o">
-<!ENTITY charsetMenuAutodet.ja.label      "ਜਾਪਾਨੀ">
-<!ENTITY charsetMenuAutodet.ja.accesskey  "J">
-<!ENTITY charsetMenuAutodet.ru.label      "ਰੂਸੀ">
-<!ENTITY charsetMenuAutodet.ru.accesskey  "R">
-<!ENTITY charsetMenuAutodet.uk.label      "ਯੂਕਰੇਨੀ">
-<!ENTITY charsetMenuAutodet.uk.accesskey  "U">
-
+<!ENTITY charsetMenu2.label            "ਟੈਕਸਟ ਇੰਕੋਡਿੰਗ">
+<!ENTITY charsetMenu2.accesskey        "c">

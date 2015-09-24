@@ -9,31 +9,11 @@
 <!ENTITY setPassword.newPassword.label "ਨਵਾਂ ਪਾਸਵਰਡ:">
 <!ENTITY setPassword.reenterPassword.label "ਨਵਾਂ ਪਾਸਵਰਡ (ਮੁੜ):">
 <!ENTITY setPassword.meter.label "ਪਾਸਵਰਡ ਕੁਆਲਟੀ ਮੀਟਰ">
-<!ENTITY setPassword.meter.loading "ਲੋਡ ਕੀਤਾ ਜਾ  ਰਿਹਾ ਹੈ">
 <!ENTITY resetPasswordButtonLabel "ਮੁੜ-ਲੋਡ">
 
 <!-- Values for resetpassword.xul -->
 <!ENTITY resetPassword.title  "ਮਾਸਟਰ ਪਾਸਵਰਡ ਮੁੜ-ਸੈੱਟ ਕਰੋ">
 <!ENTITY resetPassword.text  "ਜੇਕਰ ਤੁਸੀਂ ਆਪਣਾ ਮਾਸਟਰ ਪਾਸਵਰਡ ਮੁੜ-ਸੈੱਟ ਕੀਤਾ ਤਾਂ, ਤੁਹਾਡੇ ਸਭ ਸੰਭਾਲੇ ਵੈੱਬ ਤੇ ਈ-ਮੇਲ ਗੁਪਤ, ਫਾਰਮ ਡਾਟਾ, ਨਿੱਜੀ ਸਰਟੀਫਿਕੇਟ ਅਤੇ ਨਿੱਜੀ ਕੁੰਜੀਆਂ ਭੁਲਾ ਦਿੱਤੀਆਂ ਜਾਣਗੀਆਂ। ਕੀ ਤੁਸੀਂ ਮਾਸਟਰ ਪਾਸਵਰਡ ਮੁੜ-ਸੈੱਟ ਕਰਨ ਲਈ ਸਹਿਮਤ ਹੋ?">
-
-<!-- Values for getpassword.xul -->
-<!ENTITY getPassword.title  "ਮਾਸਟਰ ਪਾਸਵਰਡ ਦਿਓ">
-<!ENTITY getPassword.tokenName2.label "ਸੁਰੱਖਿਆ ਜੰਤਰ:">
-
-<!ENTITY getPassword.password.label "ਪਾਸਵਰਡ:">
-
-<!-- These should be common -->
-<!ENTITY piperror.title "ਗਲਤੀ">
-<!ENTITY pipalert.title "ਗਲਤੀ - ਮੁੜ-ਪ੍ਰਾਪਤੀ ਸੰਭਵ ਨਹੀਂ">
-
-<!-- Prefs panel strings -->
-<!ENTITY pref.security.general.lHeader "ਸੁਰੱਖਿਆ">
-<!ENTITY pref.security.general.rHeader "ਸਧਾਰਨ ਸੁਰੱਖਿਆ ਲਈ ਸੈਟਿੰਗ">
-<!ENTITY pref.security.general.header "ਸਧਾਰਨ ਸੁਰੱਖਿਆ ਲਈ ਸੈਟਿੰਗ">
-<!ENTITY pref.security.general.level.title "ਸੁਰੱਖਿਆ ਪੱਧਰ">
-<!ENTITY pref.security.general.paranoid.label "ਭਰਮ ਸੁਰੱਖਿਆ ਸੈਟਿੰਗ">
-<!ENTITY pref.security.general.certificates.title "ਸਰਟੀਫਕੇਟ">
-<!ENTITY pref.security.general.manageCert.label "ਸਰਟੀਫਕੇਟ ਪ੍ਰਬੰਧਨ">
 
 <!-- Downloading a cert -->
 <!ENTITY downloadCert.title "ਸਰਟੀਫਿਕੇਟ ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ">
@@ -43,9 +23,7 @@
 <!ENTITY downloadCert.trustObjSign "ਇਸ CA ਨੂੰ ਸਾਫਟਵੇਅਰ ਡਿਵੈਲਪਰ ਪਛਾਣ ਲਈ ਵਿਸ਼ਵਾਸ ਵਿੱਚ ਲਵੋ।">
 <!ENTITY downloadCert.message3 "ਇਸ CA ਤੇ ਕਿਸੇ ਵੀ ਮਕਸਦ ਲਈ ਭਰੋਸਾ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ, ਤੁਹਾਨੂੰ ਇਸ ਦੇ ਸਰਟੀਫਿਕੇਟ  ਅਤੇ ਨੀਤੀਆਂ ਤੇ ਕਾਰਵਾਈਆਂ (ਜੇਕਰ ਉਪਲੱਬਧ ਹੋਣ) ਨੂੰ ਲਾਜ਼ਮੀ ਵੇਖਣਾ ਚਾਹੀਦਾ ਹੈ।">
 <!ENTITY downloadCert.viewCert.label "ਵੇਖੋ">
-<!ENTITY downloadCert.viewPolicy.label "ਪਾਲਸੀ">
-<!ENTITY downloadCert.viewCert.text "CA ਸਰਟੀਫਿਕੇਟ ਜਾਂਚ">
-<!ENTITY downloadCert.viewPolicy.text "CA ਪਾਲਸੀ ਅਤੇ ਕਾਰਵਾਈਆਂ ਜਾਂਚ">
+<!ENTITY downloadCert.viewCert.text "CA ਸਰਟੀਫਿਕੇਟ ਨੂੰ ਵੇਖੋ">
 
 <!-- Strings for the SSL client auth ask dialog -->
 <!ENTITY clientAuthAsk.title "ਯੂਜ਼ਰ ਪਛਾਣ ਬੇਨਤੀ">
@@ -59,24 +37,14 @@
 <!ENTITY certPicker.detailsLabel "ਚੁਣੇ ਸਰਟੀਫਕੇਟ ਦਾ ਵੇਰਵਾ:">
 
 <!ENTITY pkcs12.setpassword.title  "ਸਰਟੀਫਿਕੇਟ ਬੈਕਅੱਪ ਪਾਸਵਰਡ ਚੁਣੋ।">
-<!ENTITY pkcs12.setpassword.message  "ਸਰਟੀਫਿਕੇਟ ਬੈਕਅੱਪ ਪਾਸਵਰਡ ਬੈਕਅੱਪ ਫਾਇਲਾਂ, ਜੋ ਕਿ ਤੁਸੀਂ ਬਣਾਉਣਾ ਜਾ ਰਹੇ ਹੋ, ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖਣ ਲਈ ਇਸਤੇਮਾਲ ਕੀਤਾ ਜਾਦਾ ਹੈ। ਤੁਹਾਨੂੰ ਬੈਕਅੱਪ ਨਾਲ ਜਾਰੀ ਰੱਖਣ ਲਈ ਪਾਸਵਰਡ ਦੇਣਾ ਲਾਜ਼ਮੀ ਹੈ।">
+<!ENTITY pkcs12.setpassword.message  "ਸਰਟੀਫਿਕੇਟ ਬੈਕਅੱਪ ਪਾਸਵਰਡ ਬੈਕਅੱਪ ਫਾਈਲਾਂ, ਜੋ ਕਿ ਤੁਸੀਂ ਬਣਾਉਣਾ ਜਾ ਰਹੇ ਹੋ, ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖਣ ਲਈ ਇਸਤੇਮਾਲ ਕੀਤਾ ਜਾਦਾ ਹੈ। ਤੁਹਾਨੂੰ ਬੈਕਅੱਪ ਨਾਲ ਜਾਰੀ ਰੱਖਣ ਲਈ ਪਾਸਵਰਡ ਦੇਣਾ ਲਾਜ਼ਮੀ ਹੈ।">
 <!ENTITY pkcs12.setpassword.label1 "ਸਰਟੀਫਿਕੇਟ ਬੈਕਅੱਪ ਪਾਸਵਰਡ:">
 <!ENTITY pkcs12.setpassword.label2 "ਸਰਟੀਫਿਕੇਟ ਬੈਕਅੱਪ ਪਾਸਵਰਡ (ਪੁਸ਼ਟੀ):">
 <!ENTITY pkcs12.setpassword.reminder "ਖਾਸ: ਜੇਕਰ ਤੁਸੀਂ ਸਰਟੀਫਿਕੇਟ ਬੈਕਅੱਪ ਪਾਸਵਰਡ ਭੁੱਲ ਗਏ ਤਾਂ ਤੁਸੀਨ ਇਸ ਬੈਕਅੱਪ ਨੂੰ ਬਾਅਦ ਵਿੱਚ ਪ੍ਰਾਪਤ ਨਹੀਂ ਕਰ ਸਕੋਗੇ। ਕਿਰਪਾ ਕਰਕੇ ਇਸ ਨੂੰ ਸੁਰੱਖਿਅਤ ਥਾਂ ਉੱਤੇ ਰੱਖੋ।">
 
-<!ENTITY pkcs12.getpassword.title  "ਪਾਸਵਰਡ ਐਂਟਰੀ ਸਹਾਇਕ">
-<!ENTITY pkcs12.getpassword.message "ਪਾਸਵਰਡ ਦਿਓ ਜੀ, ਜੋ ਕਿ ਇਸ ਸਰਟੀਫਿਕੇਟ ਦਾ ਬੈਕਅੱਪ ਬਣਾਉਣ ਸਮੇਂ ਇਸਤੇਮਾਲ ਕੀਤਾ ਗਿਆ ਸੀ।">
 
 <!ENTITY chooseToken.title  "ਟੋਕਨ ਚੋਣ ਡਾਈਲਾਗ">
 <!ENTITY chooseToken.message1 "ਇੱਕ ਟੋਕਨ ਚੁਣੋ ਜੀ।">
-
-<!ENTITY escrowWarn.title "ਇਕ੍ਰਿਪਟਡ ਕੁੰਜੀ ਕਾਪੀ">
-
-<!ENTITY escrowWarn.message1 "ਖਾਸ: ਇਹ ਸਰਟੀਫਿਕੇਟ ਪ੍ਰਮਾਣਕਰਤਾ ਨੇ ਤੁਹਾਡੀ ਇਕ੍ਰਿਪਸ਼ਨ ਕੁੰਜੀ ਦੀ ਬੈਕਅੱਪ ਬਣਾਉਣ ਬਾਰੇ ਪੁੱਛਿਆ  ਹੈ।">
-<!ENTITY escrowWarn.benefit1 "ਲਾਭ ਇਹ ਹੈ ਕਿ ਜੇਕਰ ਤੁਸੀਂ ਆਪਣੀ ਇਕ੍ਰਿਪਸ਼ਨ ਨਿੱਜੀ ਕੁੰਜੀ ਨੂੰ ਗੁਆ ਲਿਆ ਹੈ, ਤਦ ਤੁਸੀਂ ਇਸ ਸਰਟੀਫਿਕੇਟ ਪ੍ਰਮਾਣਕਰਤਾ ਤੋਂ ਨਕਲ ਪ੍ਰਾਪਤ ਕਰ ਸਕਦੇ ਹੋ।">
-<!ENTITY escrowWarn.message2 "ਪਰ, ਤੁਹਾਡੀ ਇੰਕ੍ਰਿਪਸ਼ਨ ਨਿੱਜੀ ਕੁੰਜੀ ਸਰਟੀਫਿਕੇਟ ਪ੍ਰਮਾਣਕਰਤਾ ਕੋਲ ਸੰਭਾਲੀ ਰਹੇਗੀ ਅਤੇ ਤੁਹਾਡੇ ਇਕ੍ਰਿਪਟਡ ਈਮੇਲ ਅਤੇ ਦਸਤਾਵੇਜ਼ ਤੁਹਾਡੀ ਆਗਿਆ ਤੋਂ ਬਿਨਾਂ ਪੜਨ ਲਈ ਇਸਤੇਮਾਲ ਕੀਤੀ ਜਾ ਸਕਦੀ ਹੈ।">
-<!ENTITY examineCert.label "ਸਰਟੀਫਿਕੇਟ ਵੇਖੋ">
-<!ENTITY examineCert.accesskey "V">
 
 <!-- Strings for the CreateCertInfo dialog  -->
 <!ENTITY createCertInfo.title "ਇੱਕ ਨਿੱਜੀ ਕੁੰਜੀ ਬਣਾਈ ਜਾ ਰਹੀ ਹੈ">

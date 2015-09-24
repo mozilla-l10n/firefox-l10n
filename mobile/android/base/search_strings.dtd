@@ -8,7 +8,7 @@
       the currently selected search engine. -->
 <!ENTITY search_bar_hint '&formatS; ਨਾਲ ਖੋਜ'>
 
-<!ENTITY search_empty_title '&brandShortName; ਖੋਜ'>
+<!ENTITY search_empty_title2 'ਖੋਜ ਸ਼ੁਰੂ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ'>
 <!ENTITY search_empty_message 'ਜੋ ਵੀ ਤੁਸੀਂ ਚਾਹੋ ਦੇ ਲਈ ਤੁਰੰਤ ਖੋਜ'>
 
 <!--  Localization note (search_plus_content_description): This is the content description

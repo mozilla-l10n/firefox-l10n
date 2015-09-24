@@ -15,13 +15,16 @@
 
 <!ENTITY intro.maybeLater          "ਫੇਰ ਕਦੇ">
 
+
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
-<!ENTITY support.pre2              "ਤੁਸੀਂ ਹੋਰ ਜਾਣਕਾਰੀ ਲਈ ">
-<!ENTITY support.link              "&brandShortName;">
-<!ENTITY support.post2             "ਵੀ ਵੇਖ ਸਕਦੇ ਹੋ।">
-<!ENTITY happy.header              "ਸੁਣਨ ਲਈ ਬਹੁਤ ਵਧੀਆ ਲੱਗਾ!">
+<!ENTITY support.pre3              "ਆਮ ਮਸਲਿਆਂ ਲਈ ਜਵਾਬ ਲੈਣ ਵਾਸਤੇ">
+<!ENTITY support.link2             "ਸਹਾਇਤਾ ਸਾਈਟ">
+<!ENTITY support.post3             " ਨੂੰ ਵੇਖੋ।">
+
+
+<!ENTITY happy.header              "ਸੁਣਨ ਕੇ ਬਹੁਤ ਖੁਸ਼ੀ ਹੋਈ!">
 
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
      but essentially it means that we want you to let others know how much you love Firefox. -->
@@ -35,13 +38,14 @@
 <!ENTITY happy.maybeLater2         "ਫੇਰ ਕਦੇ">
 <!ENTITY happy.noThanks            "ਨਹੀਂ ਧੰਨਵਾਦ ਜੀ">
 
+<!ENTITY sad.header                "ਓਹ ਹੋ!">
 <!ENTITY sad.message               "ਸਾਨੂੰ ਅਫਸੋਸ ਹੈ ਕਿ ਤੁਹਾਨੂੰ &brandShortName; ਨਾਲ ਕੁਝ ਸਮੱਸਿਆਵਾਂ ਆਈਆਂ ਹਨ। ਸਾਨੂੰ ਉਹਨਾਂ ਬਾਰੇ ਦੱਸੋ ਜੀ ਤਾਂ ਕਿ ਅਸੀਂ ਉਹਨਾਂ ਨੂੰ ਠੀਕ ਕਰ ਸਕੀਏ।">
 <!ENTITY sad.placeholder           "ਆਪਣੇ ਸੁਝਾਅ ਇੱਥੇ ਦਿਓ">
-<!ENTITY sad.lastSite              "ਆਖਰੀ ਖੋਲ੍ਹੀ ਸਾਈਟ (ਮਰਜ਼ੀ ਮੁਤਾਬਕ)">
+<!ENTITY sad.lastSite2             "ਆਖਰੀ ਖੋਲ੍ਹੀ ਹੋਈ ਸਾਈਟ ਸਮੇਤ">
 
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 <!ENTITY sad.urlPlaceholder        "http://">
-<!ENTITY sad.thanksHeader          "ਸਾਨੂੰ ਦੱਸਣ ਲਈ ਧੰਨਵਾਦ ਜੀ।">
+<!ENTITY sad.thanksHeader2         "ਤੁਹਾਡਾ ਧੰਨਵਾਦ।">
 
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
@@ -52,5 +56,7 @@
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 <!ENTITY sad.thanksMessageBottom   "ਜਾਂ ਹੋਰ ਕੋਈ।">
 
-<!ENTITY feedback.privacy          "ਆਪਣੀ ਪਰਦੇਦਾਰੀ ਲਈ, ਆਪਣੇ ਸੁਝਾਆਵਾਂ ਵਿੱਚ ਕੋਈ ਵੀ ਨਿੱਜੀ ਪਛਾਣਯੋਗ ਜਾਣਕਾਰੀ ਸ਼ਾਮਿਲ ਨਾ ਕਰੋ।">
+
+<!ENTITY feedback.privacy2         "ਆਪਣੀ ਪਰਦੇਦਾਰੀ ਲਈ, ਆਪਣੇ ਸੁਝਾਅ ਵਿੱਚ ਕੋਈ ਵੀ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਸ਼ਾਮਿਲ ਨਾ ਕਰੋ।">
+
 <!ENTITY feedback.send             "ਸੁਝਾਅ ਭੇਜੋ">
