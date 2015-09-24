@@ -22,5 +22,5 @@
 <!ENTITY otherCases.label              "În toate celelalte cazuri:">
 <!ENTITY otherCases.accesskey          "a">
 <!ENTITY askMe.label                   "Întreabă-mă">
-<!ENTITY alwaysSend.label              "Trimite">
-<!ENTITY neverSend.label               "Nu trimite">
+<!ENTITY alwaysSend.label              "Trimite mereu">
+<!ENTITY neverSend.label               "Nu trimite niciodată">

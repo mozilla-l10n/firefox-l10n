@@ -20,7 +20,7 @@
 <!ENTITY requestMDN.label             "Când mi se cere confirmare de primire:">
 <!ENTITY returnSome.label             "Trimite confirmare pentru unele mesaje">
 <!ENTITY returnSome.accesskey         "r">
-<!ENTITY never.label                  "Nu trimite confirmare de primire">
+<!ENTITY never.label                  "Nu trimite niciodată o confirmare de primire">
 <!ENTITY never.accesskey              "N">
 <!ENTITY notInToCc.label              "Dacă nu mă aflu în câmpurile Către sau Cc ale mesajului:">
 <!ENTITY notInToCc.accesskey          "t">
@@ -29,5 +29,5 @@
 <!ENTITY otherCases.label             "În toate celelalte cazuri:">
 <!ENTITY otherCases.accesskey         "a">
 <!ENTITY askMe.label                  "Întreabă-mă">
-<!ENTITY alwaysSend.label             "Trimite">
-<!ENTITY neverSend.label              "Nu trimite">
+<!ENTITY alwaysSend.label             "Trimite mereu">
+<!ENTITY neverSend.label              "Nu trimite niciodată">
