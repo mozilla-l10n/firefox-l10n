@@ -2,12 +2,22 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                  "Yksityinen selaus">
+<!ENTITY privatebrowsingpage.title "Yksityinen selaus">
 
-<!ENTITY privatebrowsingpage.issueDesc.private      "Avattiin uusi yksityinen välilehti.">
-<!ENTITY privatebrowsingpage.issueDesc.normal       "Yksityistä välilehteä ei ole valittuna.">
+<!-- Localisation note: the plus sign here is a shorthand way of expressing the word "and". Contextually the privatebrowsingpage.title.private string
+                        is used as a title, with the privatebrowsingpage.title string preceding it but on a separate line.
+                        So the final line will say "Private Browsing + Tracking Protection". -->
+<!ENTITY privatebrowsingpage.title.private "+ seurannan suojaus">
+<!-- Localization note (privatebrowsingpage.title.normal1): "Private Browsing"
+     is capitalized in English to be consistent with our existing uses of the
+     term. -->
+<!ENTITY privatebrowsingpage.title.normal1 "Et ole yksityinen selaus -tilassa">
 
-<!ENTITY privatebrowsingpage.description            "Yksityinen selaus -välilehdellä &brandShortName; ei tallenna mitään historiatietoja. Näitä tietoja ovat sivu-, haku- ja lataushistoria, lomakekenttiin syötetyt tiedot, evästeet ja väliaikaistiedostot. Ladatut tiedostot ja kirjanmerkit sivustoille säilyvät normaalilla tavalla.">
-<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+<!ENTITY privatebrowsingpage.description.private3 "Firefox estää seuraamisen eikä tallenna mitään historiatietoja. Ladatut tiedostot ja kirjanmerkit sivustoille säilyvät laitteella normaalilla tavalla.">
+<!-- Localization note (privatebrowsingpage.description.normal2): "Private
+     Browsing" is capitalized in English to be consistent with our existing uses
+     of the term. -->
+<!ENTITY privatebrowsingpage.description.normal2 "Yksityinen selaus -tilassa ei tallenneta selaushistoriaa tai evästeitä. Ladatut tiedostot ja kirjanmerkit sivustoille säilyvät laitteella normaalilla tavalla.">
 
-<!ENTITY privatebrowsingpage.moreInfo               "Vaikka tälle laitteelle ei tallennetakaan selaushistoriatietoja, Internet-palveluntarjoajasi voi seurata, millä sivustoilla vierailet.">
+<!ENTITY privatebrowsingpage.link.private "Haluatko lukea lisää?">
+<!ENTITY privatebrowsingpage.link.normal "Avaa uusi yksityinen välilehti">

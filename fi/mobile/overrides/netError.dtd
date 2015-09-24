@@ -17,11 +17,17 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Palvelinta ei löytynyt">
-<!ENTITY dnsNotFound.longDesc3 "
+<!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "
 <ul>
   <li>Tarkista osoite kirjoitusvirheiden varalta: esim. 
     <strong>ww</strong>.mozilla.org oikean muodon,
     <strong>www</strong>.mozilla.org, sijaan</li>
+    <div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>Haku</button>
+    </div>
   <li>Jos muutkaan sivustot eivät toimi, tarkista laitteen datayhteyden tai langattoman verkon tila.
     <button id='wifi'>Aseta Wifi päälle</button>
   </li>
@@ -43,10 +49,16 @@
 ">
 
 <!ENTITY malformedURI.title "Virheellinen osoite">
-<!ENTITY malformedURI.longDesc "
+<!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "
 <ul>
   <li>Verkko-osoitteet ovat yleensä muotoa
     <strong>http://www.esimerkki.com/</strong></li>
+    <div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>Haku</button>
+    </div>
   <li>Tarkista, että olet käyttänyt kauttaviivoja (siis
     <strong>/</strong>-merkkiä).</li>
 </ul>
@@ -59,6 +71,8 @@
 <!ENTITY notCached.longDesc "<p>Pyydettyä dokumenttia ei ole tallennettu &brandShortName;in väliaikaistiedostoihin.</p><ul><li>Turvallisuusvarotoimena &brandShortName; ei automaattisesti lataa uudelleen luottamuksellisia dokumentteja.</li><li>Napsauta alta Yritä uudestaan ladataksesi dokumentin sivustolta uudestaan.</li></ul>">
 
 <!ENTITY netOffline.title "Yhteydettömässä tilassa">
+<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY netOffline.longDesc3 "
 <ul>
   <li>Yritä uudelleen. &brandShortName; yrittää avata yhteyden ja ladata sivun uudelleen.
@@ -104,6 +118,8 @@
 ">
 
 <!ENTITY proxyResolveFailure.title "Välityspalvelinta ei löytynyt">
+<!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "
 <ul>
   <li>Tarkista, että välityspalvelinasetukset ovat oikein.</li>
@@ -148,6 +164,8 @@
 </ul>
 ">
 
+<!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY sharedLongDesc3 "
 <ul>
   <li>Sivusto voi olla väliaikaisesti saavuttamattomissa tai kovan rasituksen alaisena. Yritä hetken kuluttua uudestaan.</li>
@@ -157,8 +175,8 @@
 </ul>
 ">
 
-<!ENTITY cspFrameAncestorBlocked.title "Sisällön turvallisuuskäytännön estämä">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; esti sivua latautumasta tällä tavalla, koska sivulle asetettu sisällön turvallisuuskäytäntö estää sen.</p>">
+<!ENTITY cspBlocked.title "Sisällön turvallisuuskäytännön estämä">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; esti sivua latautumasta tällä tavalla, koska sivulle asetettu sisällön turvallisuuskäytäntö estää sen.</p>">
 
 <!ENTITY corruptedContentError.title "Sisältö vioittunut virhe">
 <!ENTITY corruptedContentError.longDesc "<p>Avattavaa sivua ei voida näyttää, koska tiedonsiirrossa tapahtui virhe.</p><ul><li>Ilmoitathan ongelmasta sivuston omistajalle.</li></ul>">

@@ -6,6 +6,8 @@
 <!ENTITY itemAutoComplete.label               "Osoitteisto">
 <!ENTITY itemSpellCheck.label                 "Oikoluku">
 
+<!ENTITY dialogCompose.title                 "Kirjoita">
+
 <!ENTITY forwardMsg.label                      "Välitä viestit:">
 <!ENTITY forwardMsg.accesskey                  "V">
 <!ENTITY inline.label                          "Viestirungossa">

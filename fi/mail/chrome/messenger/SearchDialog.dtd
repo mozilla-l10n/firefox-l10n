@@ -40,6 +40,7 @@
 <!ENTITY threadColumn.label  "Viestiketju">
 <!ENTITY fromColumn.label  "Lähettäjä">
 <!ENTITY recipientColumn.label  "Vastaanottaja">
+<!ENTITY correspondentColumn.label "Keskustelukumppanit">
 <!ENTITY subjectColumn.label  "Aihe">
 <!ENTITY dateColumn.label  "Päiväys">
 <!ENTITY priorityColumn.label  "Tärkeysaste">
@@ -61,6 +62,7 @@
 <!ENTITY threadColumn2.tooltip "Näytä viestiketjut">
 <!ENTITY fromColumn2.tooltip "Järjestä lähettäjän mukaan">
 <!ENTITY recipientColumn2.tooltip "Järjestä vastaanottajan mukaan">
+<!ENTITY correspondentColumn2.tooltip "Järjestä keskustelukumppaneiden mukaan">
 <!ENTITY subjectColumn2.tooltip "Järjestä aiheen mukaan">
 <!ENTITY dateColumn2.tooltip "Järjestä päiväyksen mukaan">
 <!ENTITY priorityColumn2.tooltip "Järjestä tärkeysasteen mukaan">

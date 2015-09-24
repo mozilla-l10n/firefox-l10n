@@ -2,12 +2,5 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY fileExceedsLimit.title   "Hightail">
-<!ENTITY fileExceedsLimit.thatsBigFile   "Yli 50 Mt vievien tiedostojen lähettäminen">
-<!ENTITY fileExceedsLimit.thatsBigFile2   "on maksullinen ominaisuus.">
-<!ENTITY fileExceedsLimit.accept "Päivitä">
-<!ENTITY fileExceedsLimit.cancel "Peruuta">
+<!ENTITY fileExceedsLimit.thatsBigFile3 "Yli 50 Mt vievien tiedostojen lähettämistä on premium-tilin ominaisuus.">
 <!ENTITY fileExceedsLimit.style "width: 40em; min-height: 20em;">
-<!ENTITY fileExceedsLimit.proIncludes "Päivitä, jotta voit lähettää tämän tiedoston. Lisäksi voit:">
-<!ENTITY fileExceedsLimit.pros1 "Lähettää jopa 2 Gt vieviä tiedostoja ja kansioita">
-<!ENTITY fileExceedsLimit.pros2 "Säilyttää palvelussa rajoittamattoman määrän tiedostoja">
-<!ENTITY fileExceedsLimit.pros3 "Avata ja jakaa tiedostojasi mistä tahansa">

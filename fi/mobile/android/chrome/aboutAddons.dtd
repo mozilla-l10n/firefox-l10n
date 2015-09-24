@@ -5,9 +5,11 @@
 <!ENTITY aboutAddons.title2                     "Lisäosat">
 <!ENTITY aboutAddons.header2                    "Asennetut lisäosat">
 <!ENTITY aboutAddons.options                    "Asetukset">
-<!ENTITY aboutAddons.browseAll                  "Selaa kaikkia Firefoxin lisäosia">
 
 <!ENTITY addonAction.enable                     "Ota käyttöön">
 <!ENTITY addonAction.disable                    "Poista käytöstä">
 <!ENTITY addonAction.uninstall                  "Poista">
 <!ENTITY addonAction.undo                       "Kumoa">
+
+<!ENTITY addonUnsigned.message                  "&brandShortName; ei voinut varmentaa tätä lisäosaa.">
+<!ENTITY addonUnsigned.learnMore                "Lue lisää">

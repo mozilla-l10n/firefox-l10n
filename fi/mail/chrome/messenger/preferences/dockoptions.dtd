@@ -13,3 +13,4 @@
 <!ENTITY showAllUnreadMessagesCount.accesskey  "L">
 <!ENTITY dockIconBadge.label                   "Sovelluskuvakkeen lisämerkki">
 <!ENTITY dockIconShow.label                    "Kiinnitä lisämerkki kuvakkeeseen:">
+<!ENTITY directNotificationSettings.label      "Voit poistaa lisämerkin käytöstä huomautuspaneelista järjestelmäasetuksista.">

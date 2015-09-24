@@ -28,19 +28,16 @@
 
 <!ENTITY dataChoicesTab.label            "Kerätyt tiedot">
 
-<!ENTITY healthReportSection.label       "&brandShortName;in terveydentilaraportti">
 <!ENTITY healthReportDesc.label          "Antaa sinulle tietoa selaimesi suorituskyvystä ja jakaa tiedot selaimesi tilasta &vendorShortName;n kanssa">
 <!ENTITY enableHealthReport.label        "&brandShortName;in terveydentilaraportti käytössä">
 <!ENTITY enableHealthReport.accesskey    "F">
 <!ENTITY healthReportLearnMore.label     "Lue lisää">
 
-<!ENTITY telemetrySection.label          "Kaukomittaustiedot">
 <!ENTITY telemetryDesc.label             "Lähetä &vendorShortName;lle tietoja selaimen suorituskyvystä, käytöstä, muokkauksista ja käytetystä laitteistosta auttaaksesi meitä kehittämään &brandShortName;ia">
-<!ENTITY enableTelemetry.label           "Kaukomittaus käytössä">
-<!ENTITY enableTelemetry.accesskey       "K">
+<!ENTITY enableTelemetryData.label       "Jaa muita tietoja (so. kaukomittaustietoja)">
+<!ENTITY enableTelemetryData.accesskey   "k">
 <!ENTITY telemetryLearnMore.label        "Lue lisää">
 
-<!ENTITY crashReporterSection.label      "Kaatumisilmoitukset">
 <!ENTITY crashReporterDesc.label         "&brandShortName; lähettää tiedot kaatumisista &vendorShortName;lle, jotta voimme tehdä selaimestasi vakaamman ja turvallisen">
 <!ENTITY enableCrashReporter.label       "Kaatumisilmoitukset käytössä">
 <!ENTITY enableCrashReporter.accesskey   "i">
@@ -77,13 +74,8 @@
 <!ENTITY updateTab.label                 "Päivitys">
 
 <!ENTITY updateApp.label                 "&brandShortName;in päivitykset:">
-<!-- Note either updateAuto1 is used or (updateAutoMetro and updateAutoDesktop),
-     so re-using accesss key in updateAuto1 is OK. updateAutoDesktop can be found
-     in preferences.properties -->
 <!ENTITY updateAuto1.label               "Asenna päivitykset automaattisesti (suositeltu: turvallisin)">
 <!ENTITY updateAuto1.accesskey           "A">
-<!ENTITY updateAutoMetro.label           "Päivitä automaattisesti &brandShortName;in työpöytä- ja Windows 8 -versioista">
-<!ENTITY updateAutoMetro.accesskey       "a">
 <!ENTITY updateCheck.label               "Hae päivityksiä, mutta minä päätän asennetaanko ne">
 <!ENTITY updateCheck.accesskey           "H">
 <!ENTITY updateManual.label              "Älä hae päivityksiä (ei suositeltu: turvallisuusriski)">
@@ -91,8 +83,6 @@
 
 <!ENTITY updateAutoAddonWarn.label       "Varoita, jos päivitys poistaa käytöstä lisäosia">
 <!ENTITY updateAutoAddonWarn.accesskey   "V">
-
-<!ENTITY updateAutoMetroWarn.label       "(&brandShortName;in Windows 8 -versio ei tarkista lisäosien yhteensopivuutta)">
 
 <!ENTITY updateHistory.label             "Näytä päivityshistoria">
 <!ENTITY updateHistory.accesskey         "N">
@@ -116,6 +106,7 @@
 <!ENTITY offlineAppRemove.confirm        "Poista yhteydetöntä tilaa varten tallennetut tiedot">
 
 <!ENTITY certificateTab.label            "Varmenteet">
+<!ENTITY certSelection.label             "Pyynnöt">
 <!ENTITY certSelection.description       "Sivuston pyytäessä varmennettani:">
 <!ENTITY certs.auto                      "Valitse sellainen automaattisesti">
 <!ENTITY certs.auto.accesskey            "V">
