@@ -11,15 +11,16 @@
 <!ENTITY  onboard_start_subtext3 "Yenza amava okubhrawuza iWebhu yefowni yakho ephathwayo abe ngawakho ngokwenene.">
 <!ENTITY  onboard_start_button_account "Sayina ungene &brandShorterName;">
 <!ENTITY  onboard_start_button_browser "Qala ukubhrawuza">
-
+<!ENTITY firstrun_button_next "Okulandelayo">
 
 <!ENTITY  onboard_start_restricted1 "Hlala ukhuselekile yaye ukulawulo ngolu hlobo lwenziwe lula lwe &brandShorterName;.">
 
+<!ENTITY firstrun_import_title "Thumela ngaphakathi">
 <!ENTITY firstrun_import_message "Wamkelekile &brandShorterName;">
-
+<!ENTITY firstrun_import_subtext "Thumela ngaphakathi iibhukmakhi nembali yakho ngokusuka kwenye ibrawuza">
 <!ENTITY firstrun_import_action "Sayina ungene &brandShorterName;">
-
-
+<!ENTITY firstrun_import_dialog_button "Dlulisela">
+<!ENTITY firstrun_import_progress_title "Iyathumela">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -64,9 +65,9 @@
 
 <!ENTITY history_today_section "Namhlanje">
 <!ENTITY history_yesterday_section "Izolo">
-
-
-
+<!ENTITY history_week_section3 "Iintsuku ezisi-7 ezigqithileyo">
+<!ENTITY history_this_month_section "Kule nyanga">
+<!ENTITY history_older_section3 "Indalana kuneenyanga ezi-6">
 
 <!ENTITY go "Hamba">
 <!ENTITY search "Khangela">
