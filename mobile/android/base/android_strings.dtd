@@ -11,15 +11,16 @@
 <!ENTITY  onboard_start_subtext3 "Mobil internet səyahətinizi özünüzə məxsus tərzdə edin.">
 <!ENTITY  onboard_start_button_account "&brandShortName;-a daxil olun">
 <!ENTITY  onboard_start_button_browser "Səyahətə Başla">
-
+<!ENTITY firstrun_button_next "İrəli">
 
 <!ENTITY  onboard_start_restricted1 "Sadələşdirilmiş &brandShortName; versiyası ilə təhlükəsiz və idarədə qalın.">
 
+<!ENTITY firstrun_import_title "İdxal et">
 <!ENTITY firstrun_import_message "&brandShortName; səyyahına xoş gəlmisiniz">
-
-
-
-
+<!ENTITY firstrun_import_subtext "Əlfəcin və tarixçənizi digər səyyahdan idxal edin.">
+<!ENTITY firstrun_import_action "&brandShortName; səyyahına köçür">
+<!ENTITY firstrun_import_dialog_button "Köçür">
+<!ENTITY firstrun_import_progress_title "Köçürülür">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -64,9 +65,9 @@
 
 <!ENTITY history_today_section "Bugün">
 <!ENTITY history_yesterday_section "Dünən">
-
-
-
+<!ENTITY history_week_section3 "Son 7 gün">
+<!ENTITY history_this_month_section "Bu ay">
+<!ENTITY history_older_section3 "6 aydan gec">
 
 <!ENTITY go "Get">
 <!ENTITY search "Axtar">
@@ -197,9 +198,9 @@
 <!ENTITY pref_home_updates_wifi "Yalnız Wi-Fi ilə">
 <!ENTITY pref_home_suggested_sites "Sayt təkliflərini göstər">
 <!ENTITY pref_home_suggested_sites_summary "Sizin üçün maraqlı ola biləcəyini düşündüyümüz saytların qısa yollarını ana səhifənizdə göstərir">
-
-
-
+<!ENTITY pref_category_home_homepage "Ana Səhifə">
+<!ENTITY home_homepage_title "Ana Səhifə seç">
+<!ENTITY home_homepage_use_current_tab "Mövcud vərəqi işlət">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Şəxsiləşdir">
@@ -364,7 +365,7 @@ size. -->
 <!ENTITY share_title "Paylaş">
 <!ENTITY share_image_failed "Bu şəkli paylaşmaq mümkün olmadı">
 <!ENTITY save_as_pdf "PDF kimi yadda saxla">
-
+<!ENTITY print "Çap et">
 <!ENTITY find_in_page "Səhifədə Tap">
 <!ENTITY desktop_mode "Masaüstü saytını istə">
 <!ENTITY page "Səhifə">
@@ -384,7 +385,7 @@ size. -->
 
 <!ENTITY find_text "Səhifədə Tap">
 <!ENTITY find_prev "Əvvəlkini tap">
-
+<!ENTITY find_next "İrəli">
 <!ENTITY find_close "Qapat">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -409,8 +410,8 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Saytı bərkid">
 <!ENTITY contextmenu_top_sites_unpin "Saytı pindən çıxart">
 <!ENTITY contextmenu_add_search_engine "Axtarış mühərriyi əlavə et">
-
-
+<!ENTITY contextmenu_mark_read "Oxunmuş olaraq işarələ">
+<!ENTITY contextmenu_mark_unread "Oxunmamış olaraq işarələ">
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
@@ -432,6 +433,8 @@ size. -->
 <!ENTITY pref_titlebar_mode_url "Səhifə ünvanını göstər">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
+
+<!ENTITY pref_magnifying_glass_enabled "Balaca əraziləri yaxınlaşdır">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
@@ -599,6 +602,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Şəxsi məlumatlar silindi">
 <!ENTITY private_data_fail "Bəzi şəxsi məlumatlar təmizlənə bilmədi">
 
+<!ENTITY bookmarkhistory_button_import "İdxal et">
 <!ENTITY bookmarkhistory_import_both "Android-dən əlfəcinlər və tarixçə 
 daxil edilir">
 <!ENTITY bookmarkhistory_import_bookmarks "Android-dən əlfəcinlər 
@@ -714,9 +718,15 @@ idxal edilir">
 <!ENTITY restriction_disallow_guest_browsing_title2 "Qonaq Səyahətini söndür">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
+
+<!ENTITY bookmarks_title "Mobil">
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!ENTITY bookmarks_about_browser "Firefox: Səyyahınız haqqında">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "Firefox: Əlavələrlə özəlləşdirin">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "Firefox: Dəstək">
 <!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
+<!ENTITY bookmarks_marketplace "Firefox Marketplace">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
