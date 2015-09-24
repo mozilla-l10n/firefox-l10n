@@ -12,6 +12,7 @@
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
+<!ENTITY  bookmarks_title "Mobile">
 
 
 <!ENTITY  crash_reporter_title "Αναφορά σφαλμάτων &brandShortName;">
