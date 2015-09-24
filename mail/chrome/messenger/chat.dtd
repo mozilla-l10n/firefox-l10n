@@ -13,7 +13,7 @@
 <!ENTITY chat.noAccount.description "&brandShortName; vás provede procesem založení účtu.">
 <!ENTITY chat.accountWizard.button "Založit účet">
 <!ENTITY chat.noConnectedAccount.title "Účty chatu nejsou připojeny.">
-<!ENTITY chat.noConnectedAccount.description "Účty lze připojit z dialogu „Stav chatu“:">
+<!ENTITY chat.noConnectedAccount.description "Účty lze připojit z dialogu „Účty a stav chatu“:">
 <!ENTITY chat.showAccountManager.button "Zobrazit stav">
 
 <!ENTITY chat.participants "Účastníci:">

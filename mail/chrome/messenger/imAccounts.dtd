@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY accountsWindow.title "Stav chatu">
+<!ENTITY accountsWindow.title "Účty a stav chatu">
 <!ENTITY accountsWindow2.style "width: 41em; height: 27em;">
 <!ENTITY accountManager.newAccount.label "Nový účet">
 <!ENTITY accountManager.newAccount.accesskey "N">
@@ -11,10 +11,10 @@
 <!-- This should match account.commandkey in instantbird.dtd -->
 <!ENTITY accountManager.close.commandkey "a">
 <!-- This title must be short, displayed with a big font size -->
-<!ENTITY accountManager.noAccount.title "Není vytvořen žádný účet">
+<!ENTITY accountManager.noAccount.title "Zatím není vytvořen žádný účet">
 <!ENTITY accountManager.noAccount.description "Klepněte na tlačítko &accountManager.newAccount.label; a &brandShortName; vám pomůže vytvořit nový účet.">
-<!ENTITY account.autoSignOn.label "Přihlásit při startu">
-<!ENTITY account.autoSignOn.accesskey "h">
+<!ENTITY account.autoSignOn.label "Připojit při startu">
+<!ENTITY account.autoSignOn.accesskey "s">
 <!ENTITY account.connect.label "Připojit">
 <!ENTITY account.connect.accesskey "P">
 <!ENTITY account.disconnect.label "Odpojit">
@@ -23,10 +23,10 @@
 <!ENTITY account.edit.accesskey "N">
 <!ENTITY account.moveup.label "Posunout nahoru">
 <!ENTITY account.movedown.label "Posunout dolů">
-<!ENTITY account.cancelReconnection.label "Zrušit připojení">
+<!ENTITY account.cancelReconnection.label "Zrušit opětovné připojení">
 <!ENTITY account.cancelReconnection.accesskey "r">
-<!ENTITY account.copyDebugLog.label     "Kopírovat ladící log">
+<!ENTITY account.copyDebugLog.label     "Kopírovat ladící záznam">
 <!ENTITY account.copyDebugLog.accesskey "K">
 <!ENTITY account.connecting "Připojování…">
 <!ENTITY account.disconnecting "Odpojování…">
-<!ENTITY account.disconnected "Není připojeno">
+<!ENTITY account.disconnected "Odpojen">

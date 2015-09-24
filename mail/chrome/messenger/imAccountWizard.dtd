@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle.label "Průvodce vytvoření účtu">
+<!ENTITY windowTitle.label "Průvodce vytvořením účtu">
 
 <!ENTITY accountProtocolTitle.label "Síť chatu">
-<!ENTITY accountProtocolInfo.label "Zvolte prosím síť vašeho účtu chatu.">
+<!ENTITY accountProtocolInfo.label "Vyberte prosím síť vašeho účtu chatu.">
 <!ENTITY accountProtocolField.label "Síť:">
 <!ENTITY accountProtocolGetMore.label "Více…">
 
