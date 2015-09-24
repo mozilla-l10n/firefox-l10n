@@ -47,7 +47,7 @@
 <!ENTITY loginInfo.label              "Informação de inicio de sessão">
 <!ENTITY siteName.label               "Nome do sítio:">
 <!ENTITY siteName.accesskey           "e">
-<!ENTITY siteName.tooltip             "Uma alcunha que identifique este site de publicação (ex.: 'OMeuSite')">
+<!ENTITY siteName.tooltip             "Um nickname que identifique este site de publicação (ex.: 'OMeuSite')">
 <!ENTITY siteUrl.label                "Endereço de publicação (ex.: 'ftp://ftp.meuisp.com/meunodedeutilizador'):">
 <!ENTITY siteUrl.accesskey            "a">
 <!ENTITY siteUrl.tooltip              "O endereço FTP:// ou HTTP:// fornecido pelo seu ISP ou servidor web">

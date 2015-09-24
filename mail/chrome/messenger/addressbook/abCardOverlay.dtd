@@ -33,8 +33,8 @@
 <!ENTITY DisplayName.accesskey          "r">
 <!ENTITY preferDisplayName.label        "Mostrar nome sempre acima do cabeçalho da mensagem">
 <!ENTITY preferDisplayName.accesskey    "M">
-<!ENTITY NickName.label                 "Alcunha:">
-<!ENTITY NickName.accesskey             "u">
+<!ENTITY NickName.label                 "Nickname:">
+<!ENTITY NickName.accesskey             "N">
 
 <!ENTITY PrimaryEmail.label             "E-mail:">
 <!ENTITY PrimaryEmail.accesskey         "E">
@@ -136,7 +136,7 @@
 <!ENTITY ICQ.accesskey                  "I">
 <!ENTITY XMPP.label                     "Jabber ID:">
 <!ENTITY XMPP.accesskey                 "J">
-<!ENTITY IRC.label                      "Alcunha do IRC:">
+<!ENTITY IRC.label                      "Nick do IRC:">
 <!ENTITY IRC.accesskey                  "R">
 
 <!ENTITY Photo.tab                      "Fotografia">

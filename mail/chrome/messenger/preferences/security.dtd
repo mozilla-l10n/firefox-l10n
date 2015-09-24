@@ -42,5 +42,7 @@
 <!ENTITY savedPasswords.accesskey       "s">
 <!-- Anti Virus -->
 
-
+<!ENTITY antiVirus.intro      "O &brandShortName; pode facilitar a análise de novas mensagens por programas antivírus, antes que estas sejam guardadas localmente.">
+<!ENTITY antiVirus.label      "Permitir que o antivírus coloque as mensagem recebidas em quarentena">
+<!ENTITY antiVirus.accesskey  "a">
 
