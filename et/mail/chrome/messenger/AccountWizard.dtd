@@ -120,5 +120,5 @@
 <!ENTITY deferStorageDesc.label        "Eemalda see linnuke, et salvestada konto kirjad eraldi kausta. See muudatus paneb konto ilmuma eraldi. Muul juhul oleks see osa kohalike kaustade globaalsest saabuvate kirjade kaustast.">
 <!ENTITY deferStorage.label            "Kasutatakse globaalset saabuvate kirjade kausta">
 <!ENTITY deferStorage.accesskey        "K">
-<!ENTITY clickFinish.label             "Vajuta nupul Lõpeta, et seaded salvestada ning Kontohaldur sulgeda.">
-<!ENTITY clickFinish.labelMac          "Vajuta nupul Lõpeta, et seaded salvestada ning Kontohaldur sulgeda.">
+<!ENTITY clickFinish.label             "Vajuta nupul Lõpeta, et sätted salvestada ning Kontohaldur sulgeda.">
+<!ENTITY clickFinish.labelMac          "Vajuta nupul Lõpeta, et sätted salvestada ning Kontohaldur sulgeda.">

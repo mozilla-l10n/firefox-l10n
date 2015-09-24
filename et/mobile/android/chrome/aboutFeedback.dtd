@@ -17,9 +17,9 @@
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
-<!ENTITY support.pre2              "Rohkema teabe saamiseks võid külastada ">
-<!ENTITY support.link              "&brandShortName;i tugiveebi">
-<!ENTITY support.post2             ".">
+<!ENTITY support.pre3              "Vastuste saamiseks enamlevinud probleemide kohta külasta meie ">
+<!ENTITY support.link2             "tugiveebi">
+<!ENTITY support.post3             ".">
 
 <!ENTITY happy.header              "Seda on hea teada!">
 
@@ -33,15 +33,16 @@
 
 <!ENTITY happy.ratingLink          "Jah, lähen Google Playsse">
 <!ENTITY happy.maybeLater2         "Võib-olla hiljem">
-<!ENTITY happy.noThanks            "Tänan, kuid ei soovi">
+<!ENTITY happy.noThanks            "Tänan, ei soovi">
 
+<!ENTITY sad.header                "Oh ei!">
 <!ENTITY sad.message               "Meil on kahju, et kogesid &brandShortName;iga probleeme. Palun anna meile teada, mis juhtus, et me saaks vea parandada.">
 <!ENTITY sad.placeholder           "Sisesta oma tagasiside siia">
-<!ENTITY sad.lastSite              "Viimati külastatud sait (valikuline)">
+<!ENTITY sad.lastSite2             "Kaasatakse viimati külastatud saidi aadress">
 
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 <!ENTITY sad.urlPlaceholder        "http://">
-<!ENTITY sad.thanksHeader          "Täname teavitamast.">
+<!ENTITY sad.thanksHeader2         "Täname!">
 
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
@@ -52,5 +53,5 @@
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
 <!ENTITY sad.thanksMessageBottom   "">
 
-<!ENTITY feedback.privacy          "Privaatsuse säilitamiseks palume tagasisidesse identifitseerivat infot mitte lisada.">
+<!ENTITY feedback.privacy2         "Privaatsuse säilitamiseks palume tagasisidesse identifitseerivat infot mitte lisada.">
 <!ENTITY feedback.send             "Saada tagasiside">

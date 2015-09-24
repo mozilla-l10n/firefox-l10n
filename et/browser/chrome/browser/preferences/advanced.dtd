@@ -23,31 +23,21 @@
 <!ENTITY useSmoothScrolling.accesskey      "s">
 <!ENTITY allowHWAccel.label                "Võimalusel kasutatakse riistvaralist kiirendust">
 <!ENTITY allowHWAccel.accesskey            "i">
-<!ENTITY checkSpelling.label               "Kirjutamisel kontrollitakse õigekirja">
+<!ENTITY checkSpelling.label               "Sisestamisel kontrollitakse õigekirja">
 <!ENTITY checkSpelling.accesskey           "r">
-
-<!ENTITY systemDefaults.label              "Vaikimisi seaded">
-<!ENTITY alwaysCheckDefault.label          "Käivitamisel kontrollitakse alati, kas &brandShortName; on vaikimisi brauser"><!--XXX-->
-<!ENTITY alwaysCheckDefault.accesskey      "v">
-<!ENTITY setDefault.label                  "Määra &brandShortName; vaikebrauseriks">
-<!ENTITY setDefault.accesskey              "m">
-<!ENTITY isDefault.label                   "&brandShortName; on määratud vaikebrauseriks">
 
 <!ENTITY dataChoicesTab.label              "Saadetavad andmed">
 
-<!ENTITY healthReportSection.label         "&brandShortName;i terviseraport">
 <!ENTITY healthReportDesc.label            "Aitab sul aru saada oma brauseri jõudlusest ja jagab andmeid brauseri seisundist &vendorShortName;ga">
 <!ENTITY enableHealthReport.label          "&brandShortName;i terviseraport lubatakse">
 <!ENTITY enableHealthReport.accesskey      "e">
 <!ENTITY healthReportLearnMore.label       "Rohkem teavet">
 
-<!ENTITY telemetrySection.label            "Telemeetria">
 <!ENTITY telemetryDesc.label               "Jagab sinu brauseri sooritusvõimsuse, kasutamise, kohandamiste ja riistvara andmeid &vendorShortName;ga, et aidata meil &brandShortName; paremaks teha">
-<!ENTITY enableTelemetry.label             "Telemeetria lubatakse">
-<!ENTITY enableTelemetry.accesskey         "T">
+<!ENTITY enableTelemetryData.label         "Jagatakse täiendavaid andmeid (nt telemeetria)">
+<!ENTITY enableTelemetryData.accesskey     "T">
 <!ENTITY telemetryLearnMore.label          "Rohkem teavet">
 
-<!ENTITY crashReporterSection.label        "Vigade raporteerimine">
 <!ENTITY crashReporterDesc.label           "&brandShortName; saadab vearaportid &vendorShortName;le, et aidata meil teha sinu brauser stabiilsemaks ja turvalisemaks">
 <!ENTITY enableCrashReporter.label         "Vearaportite saatmine lubatakse">
 <!ENTITY enableCrashReporter.accesskey     "V">
@@ -89,17 +79,13 @@
      in preferences.properties -->
 <!ENTITY updateAuto1.label                 "Uuendused paigaldatakse automaatselt (soovitatav: parem turvalisus)">
 <!ENTITY updateAuto1.accesskey             "e">
-<!ENTITY updateAutoMetro.label             "Uuendused paigaldatakse automaatselt töölaua ja Windows 8 stiilis &brandShortName;ile">
-<!ENTITY updateAutoMetro.accesskey         "s">
-<!ENTITY updateCheck.label                 "Kontrollitakse uuenduste olemasolu, aga küsitakse, kas need paigaldada">
+<!ENTITY updateCheck.label                 "Kontrollitakse uuenduste olemasolu, paigaldamise kohta küsitakse kinnitust">
 <!ENTITY updateCheck.accesskey             "K">
-<!ENTITY updateManual.label                "Uuenduste olemasolu ei kontrollita (pole soovitatav: turvalisuse risk)">
+<!ENTITY updateManual.label                "Uuenduste olemasolu ei kontrollita (pole soovitatav: turvarisk)">
 <!ENTITY updateManual.accesskey            "U">
 
 <!ENTITY updateAutoAddonWarn.label         "Hoiatatakse, kui see keelab mõne lisa">
 <!ENTITY updateAutoAddonWarn.accesskey     "H">
-
-<!ENTITY updateAutoMetroWarn.label         "(Windows 8 stiilis &brandShortName; ei kontrolli lisade ühilduvust)">
 
 <!ENTITY updateHistory.label               "Näita uuenduste ajalugu">
 <!ENTITY updateHistory.accesskey           "j">
@@ -123,14 +109,15 @@
 <!ENTITY offlineAppRemove.confirm          "Eemalda võrguta kasutatavad andmed">
 
 <!ENTITY certificateTab.label              "Sertifikaadid">
+<!ENTITY certSelection.label               "Nõuded">
 <!ENTITY certSelection.description         "Kui veebileht nõuab sertifikaati:">
-<!ENTITY certs.auto                        "Valitakse üks automaatselt">
+<!ENTITY certs.auto                        "valitakse üks automaatselt">
 <!ENTITY certs.auto.accesskey              "l">
-<!ENTITY certs.ask                         "Küsitakse iga kord">
+<!ENTITY certs.ask                         "küsitakse iga kord">
 <!ENTITY certs.ask.accesskey               "i">
+<!ENTITY enableOCSP.label                  "Sertifikaatide valideeruvust kontrollitakse OCSP abil">
+<!ENTITY enableOCSP.accesskey              "e">
 <!ENTITY viewCerts.label                   "Kuva sertifikaate">
 <!ENTITY viewCerts.accesskey               "s">
-<!ENTITY verify2.label                     "Verifitseerimine">
-<!ENTITY verify2.accesskey                 "V">
 <!ENTITY viewSecurityDevices.label         "Turvaseadmed">
 <!ENTITY viewSecurityDevices.accesskey     "r">

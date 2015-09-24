@@ -11,9 +11,6 @@
 <!ENTITY reminder.reminderDetails.label                    "Meeldetuletuse üksikasjad">
 <!ENTITY reminder.action.label                             "Meeldetuletuse tegevus">
 
-<!ENTITY reminder.relation.before.label                    "enne" >
-<!ENTITY reminder.relation.after.label                     "pärast" >
-
 <!ENTITY reminder.action.alert.label                       "Teate kuvamine">
 <!ENTITY reminder.action.email.label                       "Kirja saatmine">
 

@@ -16,8 +16,9 @@
 <!ENTITY pasteAsQuotationCmd.label           "Aseta tsitaadina">
 <!ENTITY pasteAsQuotationCmd.accesskey       "t">
 <!ENTITY pasteAsQuotationCmd.key             "o">
-<!ENTITY findCmd.label                       "Otsi ja asenda...">
-<!ENTITY enableInlineSpellChecker.label      "Õigekirja kontroll kirjutamise ajal">
+<!ENTITY findBarCmd.label                    "Otsi…">
+<!ENTITY findReplaceCmd.label                "Otsi ja asenda…">
+<!ENTITY enableInlineSpellChecker.label      "Õigekirja kontroll sisestamise ajal">
 <!ENTITY enableInlineSpellChecker.accesskey  "j">
 <!ENTITY checkSpellingCmd2.label             "Kontrolli õigekirja">
 <!ENTITY checkSpellingCmd2.accesskey         "o">
@@ -39,6 +40,8 @@
 <!ENTITY insertTableCmd.accesskey            "T">
 <!ENTITY insertHTMLCmd.label                 "HTML...">
 <!ENTITY insertHTMLCmd.accesskey             "M">
+<!ENTITY insertMathCmd.label                 "Matemaatilised valemid…">
+<!ENTITY insertMathCmd.accesskey             "a">
 <!ENTITY insertCharsCmd.label                "Tähemärgid ja sümbolid...">
 <!ENTITY insertCharsCmd.accesskey            "T">
 <!ENTITY insertBreakAllCmd.label             "Reavahetus pildi (piltide) järel">

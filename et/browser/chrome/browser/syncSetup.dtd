@@ -50,7 +50,7 @@
 <!ENTITY recoveryKeyEntry.label             "Taastamise võti">
 <!ENTITY recoveryKeyEntry.accesskey         "T">
 <!ENTITY syncGenerateNewKey.label           "Genereeri uus võti">
-<!ENTITY recoveryKeyBackup.description      "Taastamise võti on vajalik &syncBrand.fullName.label;i kasutamisel teistes arvutites. Palun tee varukoopia. Me ei saa sind taastamise võtme taastamisel aidata.">
+<!ENTITY recoveryKeyBackup.description      "Taastamise võti on vajalik &syncBrand.fullName.label;i kasutamisel teistes arvutites. Palun tee varukoopia. Meil pole võimalik sind taastamise võtme taastamisel aidata.">
 
 <!ENTITY button.syncKeyBackup.print.label   "Prindi…">
 <!ENTITY button.syncKeyBackup.print.accesskey "P">
@@ -91,8 +91,8 @@
 <!ENTITY engine.history.accesskey           "a">
 <!ENTITY engine.passwords.label             "paroolid">
 <!ENTITY engine.passwords.accesskey         "p">
-<!ENTITY engine.prefs.label                 "eelistused">
-<!ENTITY engine.prefs.accesskey             "e">
+<!ENTITY engine.prefs.label                 "seaded">
+<!ENTITY engine.prefs.accesskey             "s">
 <!ENTITY engine.addons.label                "lisad">
 <!ENTITY engine.addons.accesskey            "i">
 

@@ -5,10 +5,10 @@
 <!ENTITY folderProps.windowtitle.label          "Omadused">
 
 <!ENTITY generalInfo.label                      "Üldine info">
-<!ENTITY folderCharsetFallback.label            "Kodeeringu varuvariant:">
-<!ENTITY folderCharsetFallback.accesskey        "a">
-<!ENTITY folderCharsetEnforce.label             "Kodeering rakendatakse kõigile kaustas olevatele kirjadele (üksikute kirjade kodeeringut ja automaatselt tuvastatud sätteid ignoreeritakse)">
-<!ENTITY folderCharsetEnforce.accesskey         "R">
+<!ENTITY folderCharsetFallback2.label           "Teksti kodeeringu varuvariant:">
+<!ENTITY folderCharsetFallback2.accesskey       "a">
+<!ENTITY folderCharsetEnforce2.label            "Kodeering rakendatakse kõigile kaustas olevatele kirjadele (üksikute kirjade kodeeringut ja automaatselt tuvastatud sätteid ignoreeritakse)">
+<!ENTITY folderCharsetEnforce2.accesskey        "R">
 <!ENTITY folderRebuildSummaryFileTip2.label     "Loo kokkuvõtte fail uuesti">
 <!ENTITY folderRebuildSummaryFile2.label        "Paranda kaust">
 <!ENTITY folderRebuildSummaryFile2.accesskey    "P">

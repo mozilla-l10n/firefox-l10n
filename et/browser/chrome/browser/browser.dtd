@@ -15,6 +15,9 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix   "(privaatne veebilehitsemine)">
 
+<!ENTITY appmenu.tooltip                         "Ava menüü">
+<!ENTITY navbarOverflow.label                    "Rohkem tööriistu…">
+
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                        "Laadi kaart uuesti">
 <!ENTITY  reloadTab.accesskey                    "i">
@@ -46,11 +49,6 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.accesskey              "L">
 <!ENTITY  undoCloseTab.label                     "Võta kaardi sulgemine tagasi">
 <!ENTITY  undoCloseTab.accesskey                 "g">
-<!-- LOCALIZATION NOTE (undoCloseTabs.label) : This label is used
-when the previous tab-closing operation closed more than one tab. It
-replaces the undoCloseTab.label and will use the same accesskey as the
-undoCloseTab.label so users will not need to learn new keyboard controls. -->
-<!ENTITY  undoCloseTabs.label                    "Võta kaartide sulgemine tagasi">
 <!ENTITY  closeTab.label                         "Sulge kaart">
 <!ENTITY  closeTab.accesskey                     "S">
 
@@ -59,16 +57,18 @@ undoCloseTab.label so users will not need to learn new keyboard controls. -->
 <!ENTITY tabCmd.label                            "Uus kaart">
 <!ENTITY tabCmd.accesskey                        "k">
 <!ENTITY tabCmd.commandkey                       "t">
-<!ENTITY openLocationCmd.label                   "Ava asukoht...">
-<!ENTITY openLocationCmd.accesskey               "A">
-<!ENTITY openFileCmd.label                       "Ava fail...">
-<!ENTITY openFileCmd.accesskey                   "f">
+<!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
+displayed on OS X, and only on windows that aren't main browser windows, or
+when there are no windows but Firefox is still running. -->
+<!ENTITY openLocationCmd.label                   "Ava asukoht…">
+<!ENTITY openFileCmd.label                       "Ava fail…">
+<!ENTITY openFileCmd.accesskey                   "A">
 <!ENTITY openFileCmd.commandkey                  "o">
-<!ENTITY printSetupCmd.label                     "Lehekülje sätted...">
+<!ENTITY printSetupCmd.label                     "Lehekülje sätted…">
 <!ENTITY printSetupCmd.accesskey                 "L">
 <!ENTITY printPreviewCmd.label                   "Lehekülje eelvaade">
 <!ENTITY printPreviewCmd.accesskey               "e">
-<!ENTITY printCmd.label                          "Prindi...">
+<!ENTITY printCmd.label                          "Prindi…">
 <!ENTITY printCmd.accesskey                      "P">
 <!ENTITY printCmd.commandkey                     "p">
 
@@ -82,23 +82,43 @@ undoCloseTab.label so users will not need to learn new keyboard controls. -->
 <!ENTITY personalbarCmd.accesskey                "J">
 <!ENTITY bookmarksToolbarItem.label              "Järjehoidjariba elemendid">
 
+<!ENTITY toolbarContextMenu.reloadAllTabs.label  "Laadi kõik kaardid uuesti">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "L">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Lisa kõik kaardid järjehoidjatesse…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "i">
+<!ENTITY toolbarContextMenu.undoCloseTab.label   "Võta kaardi sulgemine tagasi">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "V">
+
 <!ENTITY pageSourceCmd.label                     "Veebilehe lähtekood">
 <!ENTITY pageSourceCmd.accesskey                 "l">
 <!ENTITY pageSourceCmd.commandkey                "u">
 <!ENTITY pageInfoCmd.label                       "Veebilehe info">
 <!ENTITY pageInfoCmd.accesskey                   "i">
 <!ENTITY pageInfoCmd.commandkey                  "i">
+<!ENTITY mirrorTabCmd.label                      "Edasta kaarti">
+<!ENTITY mirrorTabCmd.accesskey                  "E">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label                "Lülitu täisekraanirežiimi">
 <!ENTITY enterFullScreenCmd.accesskey            "t">
 <!ENTITY exitFullScreenCmd.label                 "Välju täisekraanirežiimist">
 <!ENTITY exitFullScreenCmd.accesskey             "V">
-<!ENTITY fullScreenCmd.label                     "Täisekraanirežiim">
+<!ENTITY fullScreenCmd.label                     "Täisekraani režiim">
 <!ENTITY fullScreenCmd.accesskey                 "r">
 <!ENTITY fullScreenCmd.macCommandKey             "f">
 <!ENTITY showAllTabsCmd.label                    "Kuva kõiki kaarte">
 <!ENTITY showAllTabsCmd.accesskey                "K">
+
+<!ENTITY fxaSignIn.label                         "Logi &syncBrand.shortName.label;i sisse">
+<!ENTITY fxaSignedIn.tooltip                     "Ava &syncBrand.shortName.label;i sätted">
+<!ENTITY fxaSignInError.label                    "Ühenda &syncBrand.shortName.label;iga uuesti">
+<!ENTITY syncStartPanel2.heading                 "&syncBrand.shortName.label; on lubatud">
+<!ENTITY syncStartPanel2.subTitle                "&brandShortName; alustab kohe sünkroniseerimist.">
+<!ENTITY syncErrorPanel.heading                  "Pole võimalik &syncBrand.shortName.label;iga ühendada">
+<!ENTITY syncErrorPanel.subTitle                 "Sünkroniseerimise jätkamiseks logi palun sisse.">
+<!ENTITY syncErrorPanel.signInButton.label       "Logi sisse">
+<!ENTITY syncErrorPanel.signInButton.accesskey   "L">
+
 
 <!ENTITY fullScreenMinimize.tooltip              "Minimeeri">
 <!ENTITY fullScreenRestore.tooltip               "Taasta">
@@ -107,8 +127,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey            "P">
 <!ENTITY fullScreenExit.label                    "Välju täisekraanirežiimist">
 <!ENTITY fullScreenExit.accesskey                "V">
-<!ENTITY fullscreenAllowButton.label             "Luba">
-<!ENTITY fullscreenExitButton.label              "Keela">
 
 <!ENTITY fullscreenExitHint2.value               "Väljumiseks võid igal ajal vajutada klahvi ESC.">
 <!ENTITY leaveDOMFullScreen.label                "Välju täisekraanirežiimist">
@@ -119,64 +137,63 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label                     "Järjehoidjad">
 <!ENTITY bookmarksMenu.accesskey                 "J">
-<!ENTITY bookmarkThisPageCmd.label               "Lisa see veebileht järjehoidjatesse...">
+<!ENTITY bookmarkThisPageCmd.label               "Lisa see veebileht järjehoidjatesse">
+<!ENTITY editThisBookmarkCmd.label               "Muuda seda järjehoidjat">
 <!ENTITY bookmarkThisPageCmd.commandkey          "d">
 <!ENTITY markPageCmd.commandkey                  "l">
+<!-- LOCALIZATION NOTE (findShareServices.label):
+  -  Use the unicode ellipsis char, \u2026,
+  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
+<!ENTITY findShareServices.label                 "Vaata teisi jagamise teenuseid…">
 <!ENTITY sharePageCmd.label                      "Jaga seda lehte">
 <!ENTITY sharePageCmd.commandkey                 "S">
 <!ENTITY sharePageCmd.accesskey                  "J">
-<!ENTITY shareLinkCmd.label                      "Jaga seda linki">
-<!ENTITY shareLinkCmd.accesskey                  "J">
-<!ENTITY shareImageCmd.label                     "Jaga seda pilti">
-<!ENTITY shareImageCmd.accesskey                 "J">
-<!ENTITY shareSelectCmd.label                    "Jaga valitud sisu">
-<!ENTITY shareSelectCmd.accesskey                "J">
-<!ENTITY shareVideoCmd.label                     "Jaga seda videot">
-<!ENTITY shareVideoCmd.accesskey                 "J">
+<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
+<!ENTITY shareLink.label                         "Jaga seda linki">
+<!ENTITY shareLink.accesskey                     "s">
+<!ENTITY shareImage.label                        "Jaga seda pilti">
+<!ENTITY shareImage.accesskey                    "J">
+<!ENTITY shareSelect.label                       "Jaga valitud sisu">
+<!ENTITY shareSelect.accesskey                   "J">
+<!ENTITY shareVideo.label                        "Jaga seda videot">
+<!ENTITY shareVideo.accesskey                    "J">
+<!ENTITY feedsMenu.label                         "Telli uudistevoog">
 <!ENTITY subscribeToPageMenupopup.label          "Selle veebilehe uudistevoo tellimine">
 <!ENTITY subscribeToPageMenuitem.label           "Telli selle veebilehe uudistevoog...">
 <!ENTITY addCurPagesCmd.label                    "Lisa kõik kaardid järjehoidjatesse...">
 <!ENTITY showAllBookmarks2.label                 "Kuva kõiki järjehoidjaid">
-<!ENTITY unsortedBookmarksCmd.label              "Sorteerimata järjehoidjad">
+<!ENTITY unsortedBookmarksCmd.label              "Sortimata järjehoidjad">
 <!ENTITY bookmarksToolbarChevron.tooltip         "Veel järjehoidjaid">
 
 <!ENTITY backCmd.label                           "Tagasi">
-<!ENTITY backCmd.accesskey                       "T">
-<!ENTITY backButton.tooltip                      "Tagasi üks lehekülg">
+<!ENTITY backButton.tooltip                      "Tagasi üks leht">
 <!ENTITY forwardCmd.label                        "Edasi">
-<!ENTITY forwardCmd.accesskey                    "E">
-<!ENTITY forwardButton.tooltip                   "Edasi üks lehekülg">
+<!ENTITY forwardButton.tooltip                   "Edasi üks leht">
 <!ENTITY backForwardButtonMenu.tooltip           "Ajaloo kuvamiseks tee paremklõps või hoia all">
 <!ENTITY backForwardButtonMenuMac.tooltip        "Ajaloo kuvamiseks hoia all">
 <!ENTITY reloadCmd.label                         "Laadi uuesti">
-<!ENTITY reloadCmd.accesskey                     "L">
 <!ENTITY reloadButton.tooltip                    "Laadi uuesti">
 <!ENTITY stopCmd.label                           "Peata">
-<!ENTITY stopCmd.accesskey                       "P">
 <!ENTITY stopCmd.macCommandKey                   ".">
 <!ENTITY stopButton.tooltip                      "Peata selle lehe laadimine">
 <!ENTITY goEndCap.tooltip                        "Mine aadressiribal olevale aadressile">
 <!ENTITY printButton.label                       "Prindi">
 <!ENTITY printButton.tooltip                     "Prindi see leht">
 
-<!ENTITY backForwardItem.title                   "Tagasi/edasi">
 <!ENTITY locationItem.title                      "Asukoht">
 <!ENTITY searchItem.title                        "Otsi">
-<!ENTITY bookmarksItem.title                     "Järjehoidjad">
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label                        "Kodu">
 
 <!ENTITY tabGroupsButton.label                   "Kaardigrupid">
-<!ENTITY tabGroupsButton.tooltip                 "Grupeeri oma kaardid">
 
 <!ENTITY bookmarksButton.label                   "Järjehoidjad">
 <!ENTITY bookmarksCmd.commandkey                 "b">
 
 <!ENTITY bookmarksMenuButton.label               "Järjehoidjad">
-<!ENTITY bookmarksMenuButton.tooltip             "Kuva oma järjehoidjaid">
-<!ENTITY bookmarksMenuButton.unsorted.label      "Sorteerimata järjehoidjad">
-<!ENTITY viewBookmarksSidebar.label              "Kuva külgribal">
+<!ENTITY bookmarksMenuButton.unsorted.label      "Sortimata järjehoidjad">
+<!ENTITY viewBookmarksSidebar2.label             "Kuva järjehoidjate külgriba">
 <!ENTITY viewBookmarksToolbar.label              "Kuva järjehoidjariba">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -195,13 +212,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey                  "v">
 
 <!ENTITY downloads.label                         "Allalaadimised">
-<!ENTITY downloads.tooltip                       "Vaata käimasolevate allalaadimiste edenemist">
 <!ENTITY downloads.accesskey                     "A">
 <!ENTITY downloads.commandkey                    "j">
 <!ENTITY downloadsUnix.commandkey                "y">
 <!ENTITY addons.label                            "Lisad">
 <!ENTITY addons.accesskey                        "L">
 <!ENTITY addons.commandkey                       "A">
+<!ENTITY webapps.label                           "Rakendused">
+<!ENTITY webapps.accesskey                       "R">
 
 <!ENTITY webDeveloperMenu.label                  "Veebiarendajale">
 <!ENTITY webDeveloperMenu.accesskey              "b">
@@ -228,6 +246,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY responsiveDesignTool.accesskey          "R">
 <!ENTITY responsiveDesignTool.commandkey         "M">
 
+<!ENTITY eyedropper.label                        "Eyedropper">
+<!ENTITY eyedropper.accesskey                    "y">
+
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -247,12 +268,23 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  application menu item that opens the browser toolbox UI in the Tools menu. -->
 <!ENTITY browserToolboxMenu.label                "Browser Toolbox">
 <!ENTITY browserToolboxMenu.accesskey            "e">
+<!ENTITY browserToolboxCmd.commandkey            "i">
+
+<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
+  -  application menu item that opens the browser content toolbox UI in the Tools menu.
+  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
+<!ENTITY browserContentToolboxMenu.label         "Browser Content Toolbox">
+<!ENTITY browserContentToolboxMenu.accesskey     "x">
 
 <!ENTITY devToolbarCloseButton.tooltiptext       "Sulge veebiarendaja tööriistariba">
 <!ENTITY devToolbarMenu.label                    "Veebiarendaja tööriistariba">
 <!ENTITY devToolbarMenu.accesskey                "d">
 <!ENTITY devAppMgrMenu.label                     "App Manager">
 <!ENTITY devAppMgrMenu.accesskey                 "a">
+<!ENTITY webide.label                            "WebIDE">
+<!ENTITY webide.accesskey                        "W">
+<!ENTITY webide.keycode                          "VK_F8">
+<!ENTITY webide.keytext                          "F8">
 <!ENTITY devToolbar.keycode                      "VK_F2">
 <!ENTITY devToolbar.keytext                      "F2">
 <!ENTITY devToolboxMenuItem.label                "Toggle Tools">
@@ -270,8 +302,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.label                   "Uus aken">
 <!ENTITY newNavigatorCmd.key                     "N">
 <!ENTITY newNavigatorCmd.accesskey               "U">
-<!ENTITY newPrivateWindow.label                  "Uus privaatse veebilehitsemise aken">
+<!ENTITY newPrivateWindow.label                  "Uus privaatne aken">
 <!ENTITY newPrivateWindow.accesskey              "p">
+<!ENTITY newNonRemoteWindow.label                "Uus e10s'ta aken">
 
 <!ENTITY editMenu.label                          "Redigeerimine">
 <!ENTITY editMenu.accesskey                      "R">
@@ -326,12 +359,46 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label                "Näita kogu ajalugu">
 <!ENTITY showAllHistoryCmd.commandkey            "H">
 
-<!ENTITY appMenuCustomize.label                  "Kohandamine">
+<!ENTITY appMenuCustomize.label                  "Kohanda">
+<!ENTITY appMenuCustomize.tooltip                "Kohanda menüüd ja tööriistaribasid">
+<!ENTITY appMenuCustomizeExit.label              "Välju kohandamisest">
+<!ENTITY appMenuCustomizeExit.tooltip            "Lõpeta kohandamine">
+<!ENTITY appMenuHistory.label                    "Ajalugu">
+<!ENTITY appMenuHistory.showAll.label            "Kuva kogu ajalugu">
+<!ENTITY appMenuHistory.clearRecent.label        "Kustuta hiljutine ajalugu…">
+<!ENTITY appMenuHistory.restoreSession.label     "Taasta eelmine seanss">
+<!ENTITY appMenuHistory.viewSidebar.label        "Kuva ajaloo külgriba">
+<!ENTITY appMenuHelp.tooltip                     "Ava abimenüü">
+
+<!ENTITY customizeMenu.addToToolbar.label        "Lisa tööriistaribale">
+<!ENTITY customizeMenu.addToToolbar.accesskey    "L">
+<!ENTITY customizeMenu.addToPanel.label          "Lisa menüüsse">
+<!ENTITY customizeMenu.addToPanel.accesskey      "m">
+<!ENTITY customizeMenu.moveToToolbar.label       "Liiguta tööriistaribale">
+<!ENTITY customizeMenu.moveToToolbar.accesskey   "i">
+<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
+     same context menu as menubarCmd and personalbarCmd, so they should have
+     different access keys. customizeMenu.moveToToolbar and 
+     customizeMenu.moveToPanel are mutually exclusive, so can share access
+     keys.  -->
+<!ENTITY customizeMenu.moveToPanel.label         "Liiguta menüüsse">
+<!ENTITY customizeMenu.moveToPanel.accesskey     "g">
+<!ENTITY customizeMenu.removeFromToolbar.label   "Eemalda tööriistamenüült">
+<!ENTITY customizeMenu.removeFromToolbar.accesskey "E">
+<!ENTITY customizeMenu.removeFromMenu.label      "Eemalda menüüst">
+<!ENTITY customizeMenu.removeFromMenu.accesskey  "E">
+<!ENTITY customizeMenu.addMoreItems.label        "Lisa rohkem elemente…">
+<!ENTITY customizeMenu.addMoreItems.accesskey    "L">
 
 <!ENTITY openCmd.commandkey                      "l">
 <!ENTITY urlbar.placeholder2                     "Otsi või sisesta aadress">
 <!ENTITY urlbar.accesskey                        "d">
 <!ENTITY urlbar.switchToTab.label                "Lülitu kaardile:">
+
+<!ENTITY urlbar.searchSuggestionsNotification.question "Kas soovid oma otsinguid soovituste abil paremaks muuta?">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Rohkem teavet…">
+<!ENTITY urlbar.searchSuggestionsNotification.disable "Ei">
+<!ENTITY urlbar.searchSuggestionsNotification.enable "Jah">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -356,6 +423,37 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey                  "k">
 <!ENTITY searchFocus.commandkey2                 "e">
 <!ENTITY searchFocusUnix.commandkey              "j">
+
+<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
+     These are set as the aria-label attribute for the search input box and
+     submit button in the in-content search UI, to be used by screen readers. -->
+<!ENTITY contentSearchInput.label                "Otsingukast">
+<!ENTITY contentSearchSubmit.label               "Alusta otsingut">
+
+<!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
+     These two strings are used to build the header above the list of one-click
+     search providers:  "Search for <used typed keywords> with:" -->
+<!ENTITY searchFor.label                         "Otsi fraasi ">
+<!ENTITY searchWith.label                        " otsingumootoriga:">
+
+<!-- LOCALIZATION NOTE (search.label, searchAfter.label):
+     This string is used to build the header above the list of one-click search
+     providers when a one off engine has been selected.  The searchAfter text is
+     intentionally left empty for en-US and can be used by other localizations to
+     display a string after the search engine name.  This string will be displayed
+     as:  "Search <selected engine name><searchAfter.label text>" -->
+<!ENTITY search.label                            "Otsi otsingumootoriga ">
+<!ENTITY searchAfter.label                       "">
+
+<!-- LOCALIZATION NOTE (searchWithHeader.label):
+     The wording of this string should be as close as possible to
+     searchFor.label and searchWith.label. This string will be used instead of
+     them when the user has not typed any keyword. -->
+<!ENTITY searchWithHeader.label                  "Vali otsingumootor:">
+<!-- LOCALIZATION NOTE (changeSearchSettings.button):
+     This string won't wrap, so if the translated string is longer,
+     consider translating it as if it said only "Search Settings". -->
+<!ENTITY changeSearchSettings.button             "Muuda otsingu sätteid">
 
 <!ENTITY tabView.commandkey                      "e">
 
@@ -401,39 +499,39 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewVideoCmd.accesskey                  "i">
 <!ENTITY viewBGImageCmd.label                    "Vaata taustapilti">
 <!ENTITY viewBGImageCmd.accesskey                "s">
-<!ENTITY setDesktopBackgroundCmd.label           "Sea taustapildiks...">
-<!ENTITY setDesktopBackgroundCmd.accesskey       "e">
+<!ENTITY setDesktopBackgroundCmd.label           "Määra taustapildiks…">
+<!ENTITY setDesktopBackgroundCmd.accesskey       "M">
 <!ENTITY bookmarkPageCmd2.label                  "Pane see veebileht järjehoidjatesse">
-<!ENTITY bookmarkPageCmd2.accesskey              "P">
 <!ENTITY bookmarkThisLinkCmd.label               "Pane see link järjehoidjatesse">
 <!ENTITY bookmarkThisLinkCmd.accesskey           "n">
 <!ENTITY bookmarkThisFrameCmd.label              "Pane see paneel järjehoidjatesse">
 <!ENTITY bookmarkThisFrameCmd.accesskey          "e">
-<!ENTITY emailPageCmd.label                      "Saada link e-postiga...">
+<!ENTITY emailPageCmd.label                      "Saada link e-postiga…">
 <!ENTITY emailPageCmd.accesskey                  "d">
-<!ENTITY switchToMetroCmd.label                  "Taaskäivita Windows 8 stiilis &brandShortName;i">
-<!ENTITY savePageCmd.label                       "Salvesta veebileht kui...">
+<!ENTITY savePageCmd.label                       "Salvesta veebileht kui…">
 <!ENTITY savePageCmd.accesskey                   "S">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2                  "a">
 <!ENTITY savePageCmd.commandkey                  "s">
-<!ENTITY saveFrameCmd.label                      "Salvesta paneel kui...">
+<!ENTITY saveFrameCmd.label                      "Salvesta paneel kui…">
 <!ENTITY saveFrameCmd.accesskey                  "v">
-<!ENTITY printFrameCmd.label                     "Prindi paneeli sisu...">
+<!ENTITY printFrameCmd.label                     "Prindi paneeli sisu…">
 <!ENTITY printFrameCmd.accesskey                 "P">
-<!ENTITY saveLinkCmd.label                       "Salvesta link kui...">
+<!ENTITY saveLinkCmd.label                       "Salvesta link kui…">
 <!ENTITY saveLinkCmd.accesskey                   "k">
-<!ENTITY saveImageCmd.label                      "Salvesta pilt kui...">
+<!ENTITY saveImageCmd.label                      "Salvesta pilt kui…">
 <!ENTITY saveImageCmd.accesskey                  "p">
-<!ENTITY saveVideoCmd.label                      "Salvesta video kui...">
+<!ENTITY saveVideoCmd.label                      "Salvesta video kui…">
 <!ENTITY saveVideoCmd.accesskey                  "v">
-<!ENTITY saveAudioCmd.label                      "Salvesta audio kui...">
+<!ENTITY saveAudioCmd.label                      "Salvesta audio kui…">
 <!ENTITY saveAudioCmd.accesskey                  "a">
-<!ENTITY emailImageCmd.label                     "Saada pilt e-postiga...">
+<!ENTITY emailImageCmd.label                     "Saada pilt e-postiga…">
 <!ENTITY emailImageCmd.accesskey                 "d">
-<!ENTITY emailVideoCmd.label                     "Saada video e-postiga...">
+<!ENTITY emailVideoCmd.label                     "Saada video e-postiga…">
 <!ENTITY emailVideoCmd.accesskey                 "i">
-<!ENTITY emailAudioCmd.label                     "Saada audio e-postiga...">
+<!ENTITY castVideoCmd.label                      "Saada video seadmesse">
+<!ENTITY castVideoCmd.accesskey                  "e">
+<!ENTITY emailAudioCmd.label                     "Saada audio e-postiga…">
 <!ENTITY emailAudioCmd.accesskey                 "u">
 <!ENTITY playPluginCmd.label                     "Aktiveeri see plugin">
 <!ENTITY playPluginCmd.accesskey                 "u">
@@ -528,25 +626,24 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                          "Suurendamine">
 <!ENTITY fullZoom.accesskey                      "u">
 
-<!ENTITY newTabButton.tooltip                    "Ava uus kaart">
-<!ENTITY newWindowButton.tooltip                 "Ava uus aken">
 <!ENTITY sidebarCloseButton.tooltip              "Sulge külgriba">
 
-<!ENTITY fullScreenButton.tooltip                "Kuva akent täisekraanirežiimis">
-
-<!ENTITY quitApplicationCmdWin.label             "Välju">
-<!ENTITY quitApplicationCmdWin.accesskey         "j">
+<!ENTITY quitApplicationCmdWin2.label            "Välju">
+<!ENTITY quitApplicationCmdWin2.accesskey        "j">
+<!ENTITY quitApplicationCmdWin2.tooltip          "Välju &brandShorterName;ist">
 <!ENTITY goBackCmd.commandKey                    "[">
 <!ENTITY goForwardCmd.commandKey                 "]">
 <!ENTITY quitApplicationCmd.label                "Välju">
 <!ENTITY quitApplicationCmd.accesskey            "j">
-<!ENTITY quitApplicationCmdMac.label             "Välju">
+<!ENTITY quitApplicationCmdMac2.label            "Välju &brandShorterName;ist">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key              "Q">
 
 <!ENTITY closeCmd.label                          "Sulge">
 <!ENTITY closeCmd.key                            "W">
 <!ENTITY closeCmd.accesskey                      "u">
+
+<!ENTITY toggleMuteCmd.key                       "M">
 
 <!ENTITY pageStyleMenu.label                     "Veebilehe stiil">
 <!ENTITY pageStyleMenu.accesskey                 "h">
@@ -555,14 +652,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label           "Veebilehe baasstiil">
 <!ENTITY pageStylePersistentOnly.accesskey       "b">
 
-<!ENTITY pageReportIcon.tooltip                  "Muuda selle veebilehe hüpikakende blokeerimise sätteid">
+<!ENTITY pageReportIcon.tooltip                  "Muuda selle veebilehe hüpikakende blokkimise sätteid">
 
 <!ENTITY allowPopups.accesskey                   "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label             "Muuda hüpikakende blokeerija eelistusi...">
-<!ENTITY editPopupSettings.label                 "Muuda hüpikakende blokeerija sätteid...">
+<!ENTITY editPopupSettingsUnix.label             "Muuda hüpikakende blokkija eelistusi...">
+<!ENTITY editPopupSettings.label                 "Muuda hüpikakende blokkija sätteid...">
 <!ENTITY editPopupSettings.accesskey             "M">
 <!ENTITY dontShowMessage.accesskey               "d">
 
@@ -579,6 +676,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.accesskey                  "u">
 <!ENTITY findAgainCmd.commandkey                 "g">
 <!ENTITY findAgainCmd.commandkey2                "VK_F3">
+<!ENTITY findSelectionCmd.commandkey             "e">
 
 <!ENTITY spellAddDictionaries.label              "Lisa sõnaraamatuid...">
 <!ENTITY spellAddDictionaries.accesskey          "n">
@@ -587,29 +685,38 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label               "Loobu">
 <!ENTITY editBookmark.removeBookmark.accessKey   "E">
 
-<!ENTITY identity.unverifiedsite2                "Sellel leheküljel puudub identifitseeriv info.">
-<!ENTITY identity.connectedTo                    "Sa oled ühendatud aadressiga">
-<!-- Localization note (identity.runBy) : This string appears between a
-domain name (above) and an organization name (below). E.g.
+<!ENTITY identity.connectionSecure               "Turvaline ühendus">
+<!ENTITY identity.connectionNotSecure            "Ebaturvaline ühendus">
+<!ENTITY identity.connectionFile                 "See leht on loodud arvutisse salvestatud faili põhjal.">
+<!ENTITY identity.connectionVerified             "&brandShortName; verifitseeris turvalise ühenduse selle saidiga, mida hooldab ">
+<!ENTITY identity.connectionInternal             "See on turvaline &brandShortName;i leht.">
 
-example.com
-which is run by
-Example Enterprises, Inc.
+<!-- Strings for connection state warnings. -->
+<!ENTITY identity.activeBlocked                  "&brandShortName; blokkis sellel lehel mõned ebaturvalised osad.">
+<!ENTITY identity.passiveLoaded                  "Mõned selle lehe osad on ebaturvalised (nt pildid).">
+<!ENTITY identity.activeLoaded                   "Kaitse sellel lehel on keelatud.">
+<!ENTITY identity.weakEncryption                 "See leht kasutab nõrka krüpeeringut.">
 
-The layout of the identity dialog prevents combining this into a single string with
-substitution variables.  If it is difficult to translate the sense of the string
-with that structure, consider a translation which ignores the preceding domain and
-just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy                          "ja seda hooldab ettevõte">
+<!-- Strings for connection state warnings in the subview. -->
+<!ENTITY identity.description.insecure           "Ühendus selle saidiga pole privaatne. Edastatavaid andmeid (nt paroolid, sõnumid, krediitkaardi andmed jne) võivad näha ka teised.">
+<!ENTITY identity.description.weakCipher         "Ühendus selle saidiga on turvatud nõrga krüpteeringuga ja pole seetõttu privaatne.">
+<!ENTITY identity.description.weakCipher2        "Teised inimesed saavad vaadata sinu andmeid või muuta veebilehe käitumist.">
+<!ENTITY identity.description.activeBlocked      "&brandShortName; blokkis selle lehe ebaturvalised osad.">
+<!ENTITY identity.description.passiveLoaded      "Ühendus pole privaatne ja sinu edastatavaid andmeid võivad näha ka teised.">
+<!ENTITY identity.description.passiveLoaded2     "See veebileht sisaldab ebaturvalist sisu (nt pilte).">
+<!ENTITY identity.description.passiveLoaded3     "Vaatamata sellele, et &brandShortName; blokkis mõned selle lehe osad, sisaldab see jätkuvalt ebaturvalist sisu (nt pilte).">
+<!ENTITY identity.description.activeLoaded       "See veebileht sisaldab ebaturvalist sisu (nt skripte) ja ühendus sellega pole privaatne.">
+<!ENTITY identity.description.activeLoaded2      "Saidiga jagatavaid andmeid (nt paroolid, sõnumid, krediitkaardi andmed jne) võivad näha ka teised.">
 
-<!ENTITY identity.moreInfoLinkText               "Rohkem infot...">
+<!ENTITY identity.enableMixedContentBlocking.label "Luba kaitse">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "L">
+<!ENTITY identity.disableMixedContentBlocking.label "Keela kaitse ajutiselt">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "K">
+<!ENTITY identity.learnMore                      "Rohkem teavet">
+
+<!ENTITY identity.moreInfoLinkText2              "Rohkem teavet">
 
 <!ENTITY identity.permissions                    "Õigused">
-
-<!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
-     localized title of this SUMO article
-     https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
-<!ENTITY identity.help.tooltip                   "Kuidas ma saan kindel olla, et ühendus veebisaidiga on turvaline?">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -624,10 +731,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSetup.accesskey                     "y">
 <!ENTITY syncSyncNowItem.label                   "Sünkroniseeri kohe">
 <!ENTITY syncSyncNowItem.accesskey               "S">
+<!ENTITY syncReAuthItem.label                    "Ühenda &syncBrand.shortName.label; uuesti…">
+<!ENTITY syncReAuthItem.accesskey                "T">
 <!ENTITY syncToolbarButton.label                 "Sync">
 
 <!ENTITY socialToolbar.title                     "Sotsiaalse tööriistariba nupp">
-<!ENTITY social.notLoggedIn.label                "Pole sisselogitud">
 
 <!ENTITY social.ok.label                         "Sobib">
 <!ENTITY social.ok.accesskey                     "S">
@@ -647,6 +755,27 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.learnMore.accesskey              "R">
 <!ENTITY social.closeNotificationItem.label      "Mitte praegu">
 
+<!ENTITY social.directory.label                  "Teenuste kataloog">
+<!ENTITY social.directory.text                   "Kataloogist on võimalik aktiveerida jagamise teenuseid.">
+<!ENTITY social.directory.button                 "Vii mind sinna!">
+<!ENTITY social.directory.introText              "Teenuse lisamiseks &brandShortName;i klõpsa sellel.">
+<!ENTITY social.directory.viewmore.text          "Vaata rohkem">
+
+<!ENTITY customizeMode.tabTitle                  "&brandShortName;i kohandamine">
+<!ENTITY customizeMode.menuAndToolbars.header2   "Täiendavad tööriistad ja võimalused">
+<!ENTITY customizeMode.menuAndToolbars.empty     "Soovid rohkem tööriistu?">
+<!ENTITY customizeMode.menuAndToolbars.emptyLink "Vali tuhandete lisade seast">
+<!ENTITY customizeMode.restoreDefaults           "Taasta vaikeväärtused">
+<!ENTITY customizeMode.toolbars                  "Kuva / peida tööriistaribasid">
+<!ENTITY customizeMode.titlebar                  "Tiitliriba">
+<!ENTITY customizeMode.lwthemes                  "Teemad">
+<!ENTITY customizeMode.lwthemes.myThemes         "Minu teemad">
+<!ENTITY customizeMode.lwthemes.recommended      "Soovitatud">
+<!ENTITY customizeMode.lwthemes.menuManage       "Halda">
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "H">
+<!ENTITY customizeMode.lwthemes.menuGetMore      "Hangi rohkem teemasid">
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "a">
+
 <!ENTITY social.chatBar.commandkey               "c">
 <!ENTITY social.chatBar.label                    "Too vestlused fookusse">
 <!ENTITY social.chatBar.accesskey                "f">
@@ -660,12 +789,35 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.selectCamera.accesskey     "J">
 <!ENTITY getUserMedia.selectMicrophone.label     "Jagatav mikrofon:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "m">
+<!ENTITY getUserMedia.audioCapture.label         "Kaardi heli jagatakse välja.">
+<!ENTITY getUserMedia.allWindowsShared.message   "Jagatakse kõiki nähtavaid aknaid sinu ekraanil.">
 
-<!ENTITY webrtcIndicatorButton.label             "Ligipääs kaamerale/mikrofonile">
-<!ENTITY webrtcIndicatorButton.tooltip           "Kuva saite, millel on sinu kaamera või mikrofoni kasutamine lubatud">
+<!ENTITY trackingProtection.title                "Jälitamisvastane kaitse">
+<!ENTITY trackingProtection.detectedBlocked3     "&brandShortName; blokib selle lehe osasid, mis võivad sinu tegevust jälitada.">
+<!ENTITY trackingProtection.detectedNotBlocked3  "See sait sisaldab elemente, mis võivad sinu tegevust jälitada. Kaitse on keelatud.">
+<!ENTITY trackingProtection.notDetected3         "Sellel lehel ei tuvastatud jälitavaid elemente.">
+<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock.label        "Keela kaitse sellel saidil">
+<!ENTITY trackingProtection.unblock.accesskey    "K">
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate.label "Keela kaitse selle seansi ajaks">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "K">
+<!ENTITY trackingProtection.block2.label         "Luba kaitse">
+<!ENTITY trackingProtection.block2.accesskey     "L">
 
-<!ENTITY mixedContentBlocked.helplink            "Rohkem teavet">
-<!ENTITY mixedContentBlocked.moreinfo            "Enamik saite töötab korralikult edasi ka siis, kui see sisu on blokeeritud.">
+<!ENTITY trackingContentBlocked.message          "Jälitamine">
+<!ENTITY trackingContentBlocked.moreinfo         "Sellel lehel blokiti mõned osad, mis jälitavad sinu tegevusi internetis.">
+<!ENTITY trackingContentBlocked.learnMore        "Rohkem teavet">
+<!ENTITY trackingContentBlocked.options          "Sätted">
+<!ENTITY trackingContentBlocked.unblock2.label   "Keela kaitse sellel saidil">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "K">
+<!ENTITY trackingContentBlocked.block.label      "Luba kaitse">
+<!ENTITY trackingContentBlocked.block.accesskey  "L">
+<!ENTITY trackingContentBlocked.disabled.message "Kaitse on keelatud">
 
 <!ENTITY pointerLock.notification.message        "Uuesti kuvamiseks vajuta klahvi ESC.">
 
@@ -675,7 +827,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 <!ENTITY pluginActivateNow.label                 "Luba">
 <!ENTITY pluginActivateAlways.label              "Luba ja pea meeles">
-<!ENTITY pluginBlockNow.label                    "Blokeeri plugin">
+<!ENTITY pluginBlockNow.label                    "Bloki plugin">
 
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
@@ -684,44 +836,54 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      a CSS length value. -->
 <!ENTITY pluginNotification.width                "28em">
 
-<!ENTITY tabCrashed.header                       "Kaart lõpetas veaga">
-<!ENTITY tabCrashed.message                      "Nonii, see on nüüd küll piinlik. Me üritasime kuvada seda veebilehte, aga see ei reageeri.">
-<!ENTITY tabCrashed.checkSendReport              "Teavita &vendorShortName;t sellest veast, nii et nad saaksid selle parandada.">
-<!ENTITY tabCrashed.tryAgain                     "Proovi uuesti">
+<!ENTITY uiTour.infoPanel.close                  "Sulge">
 
-<!-- LOCALIZATION NOTE: the following strings are unused in Australis, they're
-     kept here to avoid warnings from l10n tools like compare-locales on
-     l10n-central. They will be definitely removed when Australis is ready
-     for mozilla-aurora. -->
-
-<!ENTITY navbarCmd.accesskey                     "A">
-<!ENTITY addonBarCmd.label                       "Lisade riba">
-<!ENTITY addonBarCmd.accesskey                   "L">
-<!ENTITY throbberItem.title                      "Aktiivsuse indikaator">
-<!ENTITY appMenuButton.label                     "Menüü">
-<!ENTITY appMenuButton.tooltip                   "Ava &brandShortName;i menüü">
-<!ENTITY feedButton.label                        "Telli">
-<!ENTITY feedButton.tooltip                      "Telli selle lehe uudistevoog…">
-<!ENTITY bookmarksButton.tooltip                 "Vaata oma järjehoidjaid">
-<!ENTITY historyButton.tooltip                   "Hiljuti külastatud lehtede vaatamine">
-<!ENTITY viewTabsOnTop.label                     "Kaardid kõige üleval">
-<!ENTITY viewTabsOnTop.accesskey                 "r">
-<!ENTITY appMenuEdit.label                       "Redigeerimine">
-<!ENTITY appMenuToolbarLayout.label              "Tööriistariba paigutus…">
 <!ENTITY appMenuSidebars.label                   "Külgribad">
-<!ENTITY appMenuFind.label                       "Leia…">
-<!ENTITY appMenuUnsorted.label                   "Sorteerimata järjehoidjad">
-<!ENTITY appMenuWebDeveloper.label               "Veebiarendajale">
-<!ENTITY appMenuGettingStarted.label             "Alustamisjuhend">
-<!ENTITY appMenuSafeMode.label                   "Taaskäivita koos lisade keelamisega…">
-<!ENTITY appMenuSafeMode.accesskey               "T">
-<!ENTITY cutButton.tooltip                       "Lõika">
-<!ENTITY copyButton.tooltip                      "Kopeeri">
-<!ENTITY pasteButton.tooltip                     "Aseta">
-<!ENTITY zoomOutButton.tooltip                   "Vähenda">
-<!ENTITY zoomInButton.tooltip                    "Suurenda">
-<!ENTITY zoomControls.label                      "Suurendamine">
-<!ENTITY addonBarCloseButton.tooltip             "Sulge lisade riba">
-<!ENTITY toggleAddonBarCmd.key                   "/">
-<!-- end of strings to be removed post-Australis -->
 
+<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
+     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
+     Please ensure that this remains the case in the translation. -->
+<!ENTITY panicButton.view.mainTimeframeDesc       "Unustatakse viimased:">
+<!ENTITY panicButton.view.5min                    "viis minutit">
+<!ENTITY panicButton.view.2hr                     "kaks tundi">
+<!ENTITY panicButton.view.day                     "24 tundi">
+
+<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
+     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
+     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
+     The translation should do the same. -->
+<!ENTITY panicButton.view.mainActionDesc          "Jätkamisel:">
+<!ENTITY panicButton.view.deleteCookies           "kustutatakse hiljutised <html:strong>küpsised</html:strong>">
+<!ENTITY panicButton.view.deleteHistory           "kustutatakse hiljutine <html:strong>ajalugu</html:strong>">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "suletakse kõik <html:strong>kaardid</html:strong> ja <html:strong>aknad</html:strong>">
+<!ENTITY panicButton.view.openNewWindow           "avatakse uus tühi aken">
+
+<!ENTITY panicButton.view.undoWarning             "Seda tegevust ei saa tagasi võtta.">
+<!ENTITY panicButton.view.forgetButton            "Unusta!">
+
+<!ENTITY panicButton.thankyou.msg1                "Hiljutine ajalugu on kustutatud.">
+<!ENTITY panicButton.thankyou.msg2                "Ohutut veebilehitsemist!">
+<!ENTITY panicButton.thankyou.buttonlabel         "Tänan!">
+
+<!ENTITY processHang.terminateScript.label        "Lõpeta skripti töö">
+<!ENTITY processHang.terminateScript.accessKey    "L">
+<!ENTITY processHang.debugScript.label            "Debugi skripti">
+<!ENTITY processHang.debugScript.accessKey        "D">
+<!ENTITY processHang.terminatePlugin.label        "Lõpeta plugina töö">
+<!ENTITY processHang.terminatePlugin.accessKey    "p">
+<!ENTITY processHang.terminateProcess.label       "Lõpeta veebiprotsessi töö">
+<!ENTITY processHang.terminateProcess.accessKey   "v">
+
+<!ENTITY emeLearnMoreContextMenu.label            "Rohkem teavet DRMi kohta…">
+<!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+<!ENTITY emeNotificationsNotNow.label             "Mitte praegu">
+<!ENTITY emeNotificationsNotNow.accesskey         "M">
+<!ENTITY emeNotificationsDontAskAgain.label       "Rohkem ei küsita">
+<!ENTITY emeNotificationsDontAskAgain.accesskey   "R">
+
+<!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
+<!ENTITY saveToPocketCmd.label                    "Salvesta leht Pocketisse">
+<!ENTITY saveToPocketCmd.accesskey                "e">
+<!ENTITY saveLinkToPocketCmd.label                "Salvesta link Pocketisse">
+<!ENTITY saveLinkToPocketCmd.accesskey            "o">
+<!ENTITY pocketMenuitem.label                     "Vaata Pocketi nimekirja">

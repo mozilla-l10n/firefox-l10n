@@ -5,9 +5,11 @@
 <!ENTITY aboutAddons.title2                     "Lisad">
 <!ENTITY aboutAddons.header2                    "Paigaldatud lisad">
 <!ENTITY aboutAddons.options                    "Sätted">
-<!ENTITY aboutAddons.browseAll                  "Sirvi kõiki Firefoxi lisasid">
 
 <!ENTITY addonAction.enable                     "Luba">
 <!ENTITY addonAction.disable                    "Keela">
 <!ENTITY addonAction.uninstall                  "Eemalda">
 <!ENTITY addonAction.undo                       "Võta tagasi">
+
+<!ENTITY addonUnsigned.message                  "&brandShortName;il polnud võimalik seda lisa verifitseerida.">
+<!ENTITY addonUnsigned.learnMore                "Rohkem teavet">

@@ -30,3 +30,16 @@
 <!ENTITY chooseFolderMac.accesskey     "a">
 <!ENTITY alwaysAsk.label               "Alati küsitakse, kuhu failid salvestada">
 <!ENTITY alwaysAsk.accesskey           "S">
+
+<!ENTITY alwaysCheckDefault2.label     "Alati kontrollitakse, kas &brandShortName; on vaikebrauser">
+<!ENTITY alwaysCheckDefault2.accesskey "a">
+<!ENTITY setAsMyDefaultBrowser2.label  "Määra vaikebrauseriks">
+<!ENTITY setAsMyDefaultBrowser2.accesskey "M">
+<!ENTITY isDefault.label               "&brandShortName; on määratud vaikebrauseriks">
+<!ENTITY isNotDefault.label            "&brandShortName; pole vaikebrauseriks määratud">
+
+<!ENTITY separateProfileMode.label     "Lubatakse &brandShortName;i ja Firefoxi samaaegne töötamine">
+<!ENTITY useFirefoxSync.label          "Vihje: kasutatakse erinevaid profiile. Andmete jagamiseks nende profiilide vahel kasuta Synci.">
+<!ENTITY getStarted.label              "Tee algust Synci kasutamisega…">
+
+<!ENTITY e10sEnabled.label             "Lubatakse mitme protsessiga &brandShortName;">

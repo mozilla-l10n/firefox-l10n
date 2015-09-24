@@ -9,7 +9,6 @@
 
 <!ENTITY newevent.from.label                "Alates" >
 <!ENTITY newevent.to.label                  "Kuni" >
-<!ENTITY newevent.attendees.notify.label    "Teavita osalejaid">
 
 <!ENTITY newevent.status.label                    "Seisund" >
 <!ENTITY newevent.status.accesskey                "i" >
@@ -29,6 +28,13 @@
 
 <!-- The following entity is for New Task dialog only -->
 <!ENTITY newtodo.percentcomplete.label      "&#37; tehtud">
+
+<!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
+   - These two labels are displayed side by side in the event dialog, make sure
+   - they still fit in. -->
+<!ENTITY event.attendees.notify.label               "Teavita osalejaid">
+<!ENTITY event.attendees.notifyundisclosed.label    "Igale osalejale saadetakse eraldi kutse">
+<!ENTITY event.attendees.notifyundisclosed.tooltip  "Selle valiku märkimisel saadetakse igale osalejale eraldi kutse. Igal kutsel on vaid üks saaja, seega ei avaldata teisi kutse saajaid.">
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -99,12 +105,6 @@
 <!ENTITY  event.menu.options.accesskey                        "V">
 <!ENTITY  event.menu.options.attendees.label                  "Osalejate kutsumine…">
 <!ENTITY  event.menu.options.attendees.accesskey              "o">
-<!ENTITY  event.menu.options.spellcheck.label                 "Kontrolli õigekirja…">
-<!ENTITY  event.menu.options.spellcheck.accesskey             "k">
-<!ENTITY  event.menu.options.inline.spellcheck.label          "Kontrolli kirjutamisel õigekirja">
-<!ENTITY  event.menu.options.inline.spellcheck.accesskey      "j">
-<!ENTITY  event.menu.options.link.label                       "Lisa viide…">
-<!ENTITY  event.menu.options.link.accesskey                   "L">
 <!ENTITY  event.menu.options.timezone2.label                  "Ajavööndite kuvamine">
 <!ENTITY  event.menu.options.timezone2.accesskey              "A">
 <!ENTITY  event.menu.options.priority2.label                  "Prioriteet">
@@ -143,8 +143,16 @@
 <!ENTITY  event.toolbar.save.label                        "Salvesta ja sulge">
 <!ENTITY  event.toolbar.delete.label                      "Kustuta">
 <!ENTITY  event.toolbar.attendees.label                   "Kutsu osalejaid">
-<!ENTITY  event.toolbar.spellcheck.label                  "Õigekirjakontroll">
 <!ENTITY  event.toolbar.privacy.label                     "Privaatsus">
+
+<!ENTITY  event.toolbar.save.tooltip                      "Salvesta ja sulge">
+<!ENTITY  event.toolbar.delete.tooltip                    "Kustuta">
+<!ENTITY  event.toolbar.attendees.tooltip                 "Kutsu osalejaid">
+<!ENTITY  event.toolbar.attachments.tooltip               "Kaasa veebilehti">
+<!ENTITY  event.toolbar.privacy.tooltip                   "Muuda privaatsust">
+<!ENTITY  event.toolbar.priority.tooltip                  "Muuda prioriteeti">
+<!ENTITY  event.toolbar.status.tooltip                    "Muuda seisundit">
+<!ENTITY  event.toolbar.freebusy.tooltip                  "Muuda aja näitamist (hõivatud/vaba)">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "Pealkiri:" >
@@ -154,7 +162,6 @@
 <!ENTITY event.categories.label                           "Kategooria:">
 <!ENTITY event.categories.accesskey                       "t">
 <!ENTITY event.categories.textbox.label                   "Lisa uus kategooria" >
-<!ENTITY event.categories.textbox.accesskey               "e">
 <!ENTITY event.calendar.label                             "Kalender:" >
 <!ENTITY event.calendar.accesskey                         "K">
 <!ENTITY event.attendees.label                            "Osalejad:" >
@@ -216,6 +223,9 @@
 <!ENTITY event.reminder.custom.label                      "kohandatud…" >
 
 <!ENTITY event.reminder.multiple.label                    "Mitu meeldetuletust…" >
+
+<!ENTITY event.statusbarpanel.freebusy.label              "Aega näidatakse kui:">
+<!ENTITY event.statusbarpanel.privacy.label               "Privaatsus:">
 
 <!-- Recurrence dialog -->
 <!ENTITY recurrence.title.label                         "Kordumise muutmine">
@@ -301,6 +311,7 @@
 <!ENTITY event.recurrence.pattern.yearly.week.5.label        "neljapäeval" >
 <!ENTITY event.recurrence.pattern.yearly.week.6.label        "reedel" >
 <!ENTITY event.recurrence.pattern.yearly.week.7.label        "laupäeval" >
+<!ENTITY event.recurrence.pattern.yearly.day.label           "päeval" >
 <!ENTITY event.recurrence.of.label                           "" >
 <!ENTITY event.recurrence.pattern.yearly.month2.1.label      "jaanuari" >
 <!ENTITY event.recurrence.pattern.yearly.month2.2.label      "veebruari" >
@@ -326,8 +337,8 @@
 <!ENTITY invite.title.label                     "Osalejate kutsumine">
 <!ENTITY event.organizer.label                  "Korraldaja">
 <!ENTITY event.freebusy.suggest.slot            "Aja pakkumine:">
-<!ENTITY event.freebusy.next.slot               "Järgmine aeg " >
-<!ENTITY event.freebusy.previous.slot           " Eelmine aeg" >
+<!ENTITY event.freebusy.button.next.slot        "Järgmine aeg">
+<!ENTITY event.freebusy.button.previous.slot    "Eelmine aeg">
 <!ENTITY event.freebusy.zoom                    "Suurendamine/Vähendamine:">
 <!ENTITY event.freebusy.legend.free             "Vaba" >
 <!ENTITY event.freebusy.legend.busy             "Hõivatud" >
@@ -366,5 +377,4 @@
 <!ENTITY read.only.reminder.label        "Meeldetuletus:">
 <!ENTITY read.only.attendees.label       "Osalejad">
 <!ENTITY read.only.description.label     "Kirjeldus">
-<!ENTITY read.only.documents.label       "Dokumendid">
 <!ENTITY read.only.link.label            "Seotud viide">

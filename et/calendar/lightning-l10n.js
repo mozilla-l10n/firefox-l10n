@@ -20,4 +20,4 @@ pref("calendar.week.d6saturdaysoff", true);
 pref("general.useragent.locale", "@AB_CD@");
 
 # categories
-pref("calendar.categories.names", "Aastapäevad,Ideed,Isiklik,Järg,Kingitused,Kliendid,Konkurents,Kõned,Lemmikud,Ostjad,Probleemid,Projektid,Puhkus,Pühad,Reisimine,Seisund,Sünnipäevad,Tarnijad,Tähtpäevad,Varia,Äri");
+pref("calendar.categories.names", "Aastapäevad,Ideed,Isiklik,Järeltegevuseks,Kingitused,Kliendid,Konkurents,Kõned,Lemmikud,Ostjad,Probleemid,Projektid,Puhkus,Pühad,Reisimine,Seisund,Sünnipäevad,Tarnijad,Tähtpäevad,Varia,Äri");

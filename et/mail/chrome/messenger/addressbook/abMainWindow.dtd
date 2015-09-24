@@ -3,7 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title            "Aadressiraamat">
-
+<!ENTITY blankResultsPaneMessage.label      "See aadressiraamat kuvab kontakte ainult pärast otsimist">
+<!ENTITY localResultsOnlyMessage.label      "Kontakte võrguaadressiraamatutest ei kuvata enne otsimist">
 <!-- File Menu -->
 <!ENTITY fileMenu.label                     "Fail">
 <!ENTITY fileMenu.accesskey                 "F">
@@ -74,8 +75,8 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI                     "true">
-<!ENTITY propertiesCmd.label                "Omadused...">
-<!ENTITY propertiesCmd.accesskey            "O">
+<!ENTITY propertiesCmd2.label               "Omadused">
+<!ENTITY propertiesCmd2.accesskey           "O">
 <!ENTITY propertiesCmd.key                  "i">
 
 <!-- View Menu -->
@@ -107,7 +108,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY lastFirstCmd.accesskey             "P">
 <!ENTITY displayNameCmd.label               "Kuvatav nimi">
 <!ENTITY displayNameCmd.accesskey           "K">
-<!ENTITY sortMenu.label                     "Sorteerimine">
+<!ENTITY sortMenu.label                     "Sortimine">
 <!ENTITY sortMenu.accesskey                 "S">
 
 <!-- Tools Menu -->
@@ -122,8 +123,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                "I">
 <!ENTITY exportCmd.label                    "Ekspordi...">
 <!ENTITY exportCmd.accesskey                "E">
-<!ENTITY preferencesCmd.label               "Valikud...">
-<!ENTITY preferencesCmd.accesskey           "V">
+<!ENTITY preferencesCmd2.label              "Valikud">
+<!ENTITY preferencesCmd2.accesskey          "V">
 <!ENTITY preferencesCmdUnix.label           "Eelistused">
 <!ENTITY preferencesCmdUnix.accesskey       "E">
 
@@ -160,6 +161,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY searchItem.title                   "Kiirotsing">
 
 <!-- Results Pane -->
+<!ENTITY Addrbook.label                     "Aadressiraamat">
+<!ENTITY Addrbook.accesskey                 "r">
 <!ENTITY GeneratedName.label                "Nimi">
 <!ENTITY GeneratedName.accesskey            "N">
 <!ENTITY PrimaryEmail.label                 "E-post">

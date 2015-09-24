@@ -36,7 +36,7 @@
 <!ENTITY newFeedAccountCmd.accesskey                   "U">
 <!ENTITY newIMContactCmd.label                         "Kiirsuhtluse kontakt…">
 <!ENTITY newIMContactCmd.accesskey                     "n">
-<!ENTITY openMessageFileCmd.label                      "Ava salvestatud kiri...">
+<!ENTITY openMessageFileCmd.label                      "Ava salvestatud kiri…">
 <!ENTITY openMessageFileCmd.accesskey                  "i">
 <!ENTITY saveAsMenu.label                              "Salvesta kui">
 <!ENTITY saveAsMenu.accesskey                          "S">
@@ -55,25 +55,25 @@
 <!ENTITY getNextNMsgCmd.accesskey                      "m">
 <!ENTITY sendUnsentCmd.label                           "Saada saatmata kirjad">
 <!ENTITY sendUnsentCmd.accesskey                       "d">
-<!ENTITY subscribeCmd.label                            "Telli...">
+<!ENTITY subscribeCmd.label                            "Telli…">
 <!ENTITY subscribeCmd.accesskey                        "l">
 <!ENTITY deleteFolder.label                            "Kustuta kaust">
 <!ENTITY deleteFolder.accesskey                        "u">
-<!ENTITY renameFolder.label                            "Muuda kausta nime...">
+<!ENTITY renameFolder.label                            "Muuda kausta nime…">
 <!ENTITY renameFolder.accesskey                        "M">
 <!ENTITY renameFolder.key                              "VK_F2">
-<!ENTITY compactFolders.label                          "Tihenda kaustad">
-<!ENTITY compactFolders.accesskey                      "T">
-<!ENTITY emptyTrashCmd.label                           "Tühjenda Kustutatud">
+<!ENTITY compactFolders.label                          "Suru kaustad kokku">
+<!ENTITY compactFolders.accesskey                      "t">
+<!ENTITY emptyTrashCmd.label                           "Tühjenda kustutatud kirjade kaust">
 <!ENTITY emptyTrashCmd.accesskey                       "j">
 <!ENTITY offlineMenu.label                             "Võrguta režiim">
 <!ENTITY offlineMenu.accesskey                         "i">
 <!ENTITY offlineGoOfflineCmd.label                     "Tööta võrguta">
 <!ENTITY offlineGoOfflineCmd.accesskey                 "T">
-<!ENTITY synchronizeOfflineCmd.label                   "Laadi alla/sünkrooni...">
+<!ENTITY synchronizeOfflineCmd.label                   "Laadi alla/sünkroniseeri…">
 <!ENTITY synchronizeOfflineCmd.accesskey               "S">
-<!ENTITY settingsOfflineCmd.label                      "Võrguta oleku sätted...">
-<!ENTITY settingsOfflineCmd.accesskey                  "e">
+<!ENTITY settingsOfflineCmd2.label                     "Võrguta oleku sätted">
+<!ENTITY settingsOfflineCmd2.accesskey                 "e">
 <!ENTITY downloadSelectedCmd.label                     "Tõmba valitud kirjad">
 <!ENTITY downloadSelectedCmd.accesskey                 "T">
 <!ENTITY downloadStarredCmd.label                      "Tõmba tähistatud kirjad">
@@ -110,9 +110,9 @@
 <!ENTITY selectFlaggedCmd.accesskey                    "h">
 <!ENTITY menuFavoriteFolder.label                      "Lemmikkaust">
 <!ENTITY menuFavoriteFolder.accesskey                  "l">
-<!ENTITY folderPropsCmd.label                          "Omadused...">
-<!ENTITY folderPropsFolderCmd.label                    "Kausta omadused...">
-<!ENTITY folderPropsNewsgroupCmd.label                 "Uudistegrupi omadused...">
+<!ENTITY folderPropsCmd2.label                         "Omadused">
+<!ENTITY folderPropsFolderCmd2.label                   "Kausta omadused">
+<!ENTITY folderPropsNewsgroupCmd2.label                "Uudistegrupi omadused">
 <!ENTITY folderPropsCmd.accesskey                      "e">
 <!ENTITY undoDeleteMsgCmd.label                        "Tühista kirja kustutamine">
 <!ENTITY redoDeleteMsgCmd.label                        "Korda kirja kustutamist">
@@ -145,6 +145,8 @@
 <!ENTITY messagePaneVertical.accesskey                 "V">
 <!ENTITY showFolderPaneCmd.label                       "Kaustade paneel">
 <!ENTITY showFolderPaneCmd.accesskey                   "a">
+<!ENTITY showFolderPaneColsCmd.label                   "Kaustade paneeli veerud">
+<!ENTITY showFolderPaneColsCmd.accesskey               "u">
 <!ENTITY showMessageCmd.label                          "Kirja teksti paneel">
 <!ENTITY showMessageCmd.accesskey                      "i">
 
@@ -160,9 +162,11 @@
 <!ENTITY favoriteFolders.accesskey                     "e">
 <!ENTITY recentFolders.label                           "Hiljutised">
 <!ENTITY recentFolders.accesskey                       "H">
+<!ENTITY compactVersion.label                          "Kompaktne vaade">
+<!ENTITY compactVersion.accesskey                      "p">
 
 <!-- Sort Menu -->
-<!ENTITY sortMenu.label                                "Sorteerimine">
+<!ENTITY sortMenu.label                                "Sortimine">
 <!ENTITY sortMenu.accesskey                            "S">
 <!ENTITY sortByDateCmd.label                           "Kuupäev">
 <!ENTITY sortByDateCmd.accesskey                       "e">
@@ -188,6 +192,8 @@
 <!ENTITY sortByFromCmd.accesskey                       "S">
 <!ENTITY sortByRecipientCmd.label                      "Adressaat">
 <!ENTITY sortByRecipientCmd.accesskey                  "d">
+<!ENTITY sortByCorrespondentCmd.label                  "Kirjavahetajad">
+<!ENTITY sortByCorrespondentCmd.accesskey              "r">
 <!ENTITY sortByUnreadCmd.label                         "Loetus">
 <!ENTITY sortByUnreadCmd.accesskey                     "o">
 <!ENTITY sortByOrderReceivedCmd.label                  "Saabumise järjekord">
@@ -200,7 +206,7 @@
 <!ENTITY sortThreaded.accesskey                        "i">
 <!ENTITY sortUnthreaded.label                          "Lõimedeta">
 <!ENTITY sortUnthreaded.accesskey                      "õ">
-<!ENTITY groupBySort.label                             "Grupeeritud sorteerimise järgi">
+<!ENTITY groupBySort.label                             "Grupeeritud sortimise järgi">
 <!ENTITY groupBySort.accesskey                         "G">
 <!ENTITY msgsMenu.label                                "Kirjad">
 <!ENTITY msgsMenu.accesskey                            "K">
@@ -313,8 +319,6 @@
 <!ENTITY prevStarredMsgCmd.accesskey                   "T">
 <!ENTITY folderMenu.label                              "Kaust">
 <!ENTITY folderMenu.accesskey                          "a">
-<!ENTITY thisFolder.label                              "See kaust">
-<!ENTITY thisFolder.accesskey                          "S">
 <!ENTITY goRecentlyClosedTabs.label                    "Hiljuti suletud kaardid">
 <!ENTITY goRecentlyClosedTabs.accesskey                "i">
 <!ENTITY startPageCmd.label                            "Avaleht">
@@ -354,9 +358,9 @@
 <!ENTITY forwardAsInline.accesskey                     "L">
 <!ENTITY forwardAsAttachmentCmd.label                  "Manusena">
 <!ENTITY forwardAsAttachmentCmd.accesskey              "M">
-<!ENTITY editMsgAsNewCmd.label                         "Redigeeri kirja uuena">
-<!ENTITY editMsgAsNewCmd.accesskey                     "R">
-<!ENTITY editMsgAsNewCmd.key                           "e">
+<!ENTITY editAsNewMsgCmd.label                         "Redigeeri uue kirjana">
+<!ENTITY editAsNewMsgCmd.accesskey                     "R">
+<!ENTITY editAsNewMsgCmd.key                           "e">
 <!ENTITY createFilter.label                            "Loo kirja põhjal filter...">
 <!ENTITY createFilter.accesskey                        "a">
 <!ENTITY moveMsgToMenu.label                           "Liigutamine">
@@ -379,10 +383,6 @@
 <!ENTITY watchThreadMenu.label                         "Jälgi lõime">
 <!ENTITY watchThreadMenu.accesskey                     "m">
 <!ENTITY watchThreadMenu.key                           "w">
-<!ENTITY fileHereMenu.label                            "Salvesta siia">
-<!ENTITY fileHereMenu.accesskey                        "S">
-<!ENTITY copyHereMenu.label                            "Kopeeri siia">
-<!ENTITY copyHereMenu.accesskey                        "K">
 <!ENTITY tagMenu.label                                 "Sildistamine">
 <!ENTITY tagMenu.accesskey                             "d">
 <!ENTITY tagCmd0.key                                   "0">
@@ -465,8 +465,8 @@
 <!ENTITY savedFiles.label                              "Salvestatud failid">
 <!ENTITY savedFiles.accesskey                          "S">
 <!ENTITY savedFiles.key                                "j">
-<!ENTITY filtersCmd.label                              "E-posti filtrid...">
-<!ENTITY filtersCmd.accesskey                          "o">
+<!ENTITY filtersCmd2.label                             "E-posti filtrid">
+<!ENTITY filtersCmd2.accesskey                         "o">
 <!ENTITY filtersApply.label                            "Rakenda filtreid kaustale">
 <!ENTITY filtersApply.accesskey                        "R">
 <!ENTITY filtersApplyToSelection.label                 "Rakenda filtreid valitud kirjadele">
@@ -484,11 +484,11 @@
 <!ENTITY errorConsoleCmd.commandkey                    "j">
 <!ENTITY clearRecentHistory.label                      "Kustuta hiljutine ajalugu…">
 <!ENTITY clearRecentHistory.accesskey                  "h">
-<!ENTITY accountManagerCmd.label                       "Kontode sätted...">
-<!ENTITY accountManagerCmd.accesskey                   "K">
-<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
+<!ENTITY accountManagerCmd2.label                      "Kontode sätted">
+<!ENTITY accountManagerCmd2.accesskey                  "K">
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd.label,
         which is placed under the Edit menu on Unix systems -->
-<!ENTITY accountManagerCmdUnix.accesskey               "K">
+<!ENTITY accountManagerCmdUnix2.accesskey              "K">
 <!ENTITY allowRemoteDebugging.label                    "Kaugdebugimine lubatakse">
 <!ENTITY allowRemoteDebugging.accesskey                "g">
 
@@ -526,7 +526,7 @@
 <!ENTITY mailViewsToolbarItem.title                    "Kirja vaated">
 <!ENTITY folderLocationToolbarItem.title               "Kausta asukoht">
 <!ENTITY tagButton.label                               "Sildista">
-<!ENTITY compactButton.label                           "Tihenda">
+<!ENTITY compactButton.label                           "Suru kokku">
 <!ENTITY appmenuButton.label                           "Rakenduse menüü">
 
 <!-- Mail Toolbar Tooltips-->
@@ -569,14 +569,18 @@
 <!-- Remote Content Button Popup -->
 <!ENTITY remoteContentOptionsAllowForMsg.label         "Kuva selles kirjas leiduv väline sisu">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey     "K">
-<!ENTITY remoteContentOptionAllowForAddress.label      "Kuva selle saatja kirjades leiduv väline sisu">
-<!ENTITY remoteContentOptionAllowForAddress.accesskey  "u">
+<!ENTITY editRemoteContentSettings.label               "Muuda välise sisu sätteid…">
+<!ENTITY editRemoteContentSettings.accesskey           "M">
+<!ENTITY editRemoteContentSettingsUnix.label           "Muuda välise sisu eelistusi…">
+<!ENTITY editRemoteContentSettingsUnix.accesskey       "u">
 
 <!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label                    "Ignoreeri selle kirja puhul hoiatust">
 <!ENTITY phishingOptionIgnore.accesskey                "n">
-<!ENTITY phishingOptionDisableDetection.label          "Keela petukirjade tuvastamine kõigi kirjade puhul">
-<!ENTITY phishingOptionDisableDetection.accesskey      "K">
+<!ENTITY phishingOptionSettings.label                  "Muuda petukirjade tuvastamise sätteid…">
+<!ENTITY phishingOptionSettings.accesskey              "d">
+<!ENTITY phishingOptionSettingsUnix.label              "Muuda petukirjade tuvastamise eelistusi…">
+<!ENTITY phishingOptionSettingsUnix.accesskey          "d">
 
 <!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label                        "Uus kiri">
@@ -593,7 +597,9 @@
 <!ENTITY manageTags.accesskey                          "H">
 
 <!-- Folder Pane -->
-<!ENTITY folderColumn.label                            "Nimi">
+<!ENTITY folderNameColumn.label                        "Nimi">
+<!ENTITY folderUnreadColumn.label                      "Lugemata">
+<!ENTITY folderTotalColumn.label                       "Kokku">
 <!ENTITY folderSizeColumn.label                        "Suurus">
 
 <!-- Folder Pane Context Menu -->
@@ -609,12 +615,12 @@
 <!ENTITY folderContextRename.accesskey                 "N">
 <!ENTITY folderContextRemove.label                     "Kustuta">
 <!ENTITY folderContextRemove.accesskey                 "K">
-<!ENTITY folderContextCompact.label                    "Tihenda">
-<!ENTITY folderContextCompact.accesskey                "T">
-<!ENTITY folderContextEmptyTrash.label                 "Tühjenda Kustutatud">
+<!ENTITY folderContextCompact.label                    "Suru kokku">
+<!ENTITY folderContextCompact.accesskey                "S">
+<!ENTITY folderContextEmptyTrash.label                 "Tühjenda kustutatud kirjade kaust">
 <!ENTITY folderContextEmptyTrash.accesskey             "h">
-<!ENTITY folderContextEmptyJunk.label                  "Tühjenda Rämpspost">
-<!ENTITY folderContextEmptyJunk.accesskey              "R">
+<!ENTITY folderContextEmptyJunk.label                  "Tühjenda rämpsposti kaust">
+<!ENTITY folderContextEmptyJunk.accesskey              "r">
 <!ENTITY folderContextSendUnsentMessages.label         "Saada saatmata kirjad">
 <!ENTITY folderContextSendUnsentMessages.accesskey     "t">
 <!ENTITY folderContextUnsubscribe.label                "Katkesta tellimine...">
@@ -627,12 +633,12 @@
 <!ENTITY folderContextSubscribe.accesskey              "l">
 <!ENTITY folderContextSearchForMessages.label          "Otsi kirju...">
 <!ENTITY folderContextSearchForMessages.accesskey      "O">
-<!ENTITY folderContextProperties.label                 "Omadused...">
-<!ENTITY folderContextProperties.accesskey             "O">
+<!ENTITY folderContextProperties2.label                "Omadused">
+<!ENTITY folderContextProperties2.accesskey            "O">
 <!ENTITY folderContextFavoriteFolder.label             "Lemmikkaust">
 <!ENTITY folderContextFavoriteFolder.accesskey         "m">
-<!ENTITY folderContextSettings.label                   "Sätted...">
-<!ENTITY folderContextSettings.accesskey               "e">
+<!ENTITY folderContextSettings2.label                  "Sätted">
+<!ENTITY folderContextSettings2.accesskey              "e">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                       "Nimi või e-posti aadress sisaldab:">
@@ -654,6 +660,7 @@
 <!ENTITY threadColumn.label                            "Lõim">
 <!ENTITY fromColumn.label                              "Saatja">
 <!ENTITY recipientColumn.label                         "Saaja">
+<!ENTITY correspondentColumn.label                     "Kirjavahetajad">
 <!ENTITY subjectColumn.label                           "Teema">
 <!ENTITY dateColumn.label                              "Kuupäev">
 <!ENTITY priorityColumn.label                          "Prioriteet">
@@ -672,26 +679,27 @@
 <!ENTITY attachmentColumn.label                        "Manused">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip                         "Klõpsa näidatavate veergude valimiseks">
-<!ENTITY threadColumn.tooltip                          "Klõpsa, et kuvada kirju lõimedena">
-<!ENTITY fromColumn.tooltip                            "Klõpsa, et sorteerida saatja järgi">
-<!ENTITY recipientColumn.tooltip                       "Klõpsa, et sorteerida adressaadi järgi">
-<!ENTITY subjectColumn.tooltip                         "Klõpsa, et sorteerida teema järgi">
-<!ENTITY dateColumn.tooltip                            "Klõpsa, et sorteerida kuupäeva järgi">
-<!ENTITY priorityColumn.tooltip                        "Klõpsa, et sorteerida prioriteedi järgi">
-<!ENTITY tagsColumn.tooltip                            "Klõpsa, et sorteerida siltide järgi">
-<!ENTITY accountColumn.tooltip                         "Klõpsa, et sorteerida kontode järgi">
-<!ENTITY statusColumn.tooltip                          "Klõpsa, et sorteerida oleku järgi">
-<!ENTITY sizeColumn.tooltip                            "Klõpsa, et sorteerida suuruse järgi">
-<!ENTITY junkStatusColumn.tooltip                      "Klõpsa, et sorteerida rämpspostiks olemise järgi">
-<!ENTITY unreadColumn.tooltip                          "Lugemata kirjade arv lõimes">
-<!ENTITY totalColumn.tooltip                           "Lõimes olevate kirjade koguarv">
-<!ENTITY readColumn.tooltip                            "Klõpsa, et sorteerida loetuse järgi">
-<!ENTITY receivedColumn.tooltip                        "Klõpsa, et sorteerida saabumise aja järgi">
-<!ENTITY starredColumn.tooltip                         "Klõpsa, et sorteerida tähistuse järgi">
-<!ENTITY locationColumn.tooltip                        "Klõpsa, er sorteerida asukoha järgi">
-<!ENTITY idColumn.tooltip                              "Klõpsa, et sorteerida kättesaamise järgi">
-<!ENTITY attachmentColumn.tooltip                      "Klõpsa, et sorteerida manuste järgi">
+<!ENTITY columnChooser2.tooltip                        "Vali kuvatavad veerud">
+<!ENTITY threadColumn2.tooltip                         "Kuva kirju lõimedena">
+<!ENTITY fromColumn2.tooltip                           "Sordi saatja järgi">
+<!ENTITY recipientColumn2.tooltip                      "Sordi adressaadi järgi">
+<!ENTITY correspondentColumn2.tooltip                  "Sordi kirjavahetajate järgi">
+<!ENTITY subjectColumn2.tooltip                        "Sordi teema järgi">
+<!ENTITY dateColumn2.tooltip                           "Sordi kuupäeva järgi">
+<!ENTITY priorityColumn2.tooltip                       "Sordi prioriteedi järgi">
+<!ENTITY tagsColumn2.tooltip                           "Sordi siltide järgi">
+<!ENTITY accountColumn2.tooltip                        "Sordi kontode järgi">
+<!ENTITY statusColumn2.tooltip                         "Sordi oleku järgi">
+<!ENTITY sizeColumn2.tooltip                           "Sordi suuruse järgi">
+<!ENTITY junkStatusColumn2.tooltip                     "Sordi rämpspostiks olemise järgi">
+<!ENTITY unreadColumn2.tooltip                         "Lugemata kirjade arv lõimes">
+<!ENTITY totalColumn2.tooltip                          "Lõimes olevate kirjade koguarv">
+<!ENTITY readColumn2.tooltip                           "Sordi loetuse järgi">
+<!ENTITY receivedColumn2.tooltip                       "Sordi saabumise aja järgi">
+<!ENTITY starredColumn2.tooltip                        "Sordi tähistuse järgi">
+<!ENTITY locationColumn2.tooltip                       "Sordi asukoha järgi">
+<!ENTITY idColumn2.tooltip                             "Sordi kättesaamise järgi">
+<!ENTITY attachmentColumn2.tooltip                     "Sordi manuste järgi">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label                    "Ava kiri uues aknas">
@@ -704,8 +712,10 @@
 <!ENTITY contextOpenNewTab.accesskey                   "k">
 <!ENTITY contextOpenConversation.label                 "Ava kiri vestlusena">
 <!ENTITY contextOpenConversation.accesskey             "n">
-<!ENTITY contextEditAsNew.label                        "Redigeeri uuena...">
-<!ENTITY contextEditAsNew.accesskey                    "R">
+<!ENTITY contextOpenContainingFolder.label             "Ava kiri seda sisaldavas kaustas">
+<!ENTITY contextOpenContainingFolder.accesskey         "u">
+<!ENTITY contextEditMsgAsNew.label                     "Redigeeri uue kirjana">
+<!ENTITY contextEditMsgAsNew.accesskey                 "R">
 <!ENTITY contextArchive.label                          "Arhiveeri">
 <!ENTITY contextArchive.accesskey                      "h">
 <!ENTITY contextReplySender.label                      "Vasta ainult saatjale">
@@ -834,8 +844,8 @@
 <!ENTITY AddToAddressBook.accesskey                    "d">
 <!ENTITY AddDirectlyToAddressBook.label                "Lisa aadressiraamatusse">
 <!ENTITY AddDirectlyToAddressBook.accesskey            "L">
-<!ENTITY EditContact.label                             "Redigeeri kontakti...">
-<!ENTITY EditContact.accesskey                         "R">
+<!ENTITY EditContact1.label                            "Muuda kontakti">
+<!ENTITY EditContact1.accesskey                        "M">
 <!ENTITY ViewContact.label                             "Vaata kontakti">
 <!ENTITY ViewContact.accesskey                         "V">
 <!ENTITY SubscribeToNewsgroup.label                    "Telli uudisgrupp">
@@ -877,7 +887,6 @@
 <!ENTITY openLinkInBrowser.label                       "Ava link brauseris">
 <!ENTITY openLinkInBrowser.accesskey                   "i">
 
-
 <!-- Statusbar -->
 <!ENTITY statusText.label                              "Valmis">
 
@@ -888,7 +897,7 @@
 <!ENTITY zoomWindow.label                              "Suurendus">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
-<!ENTITY preferencesCmdMac.label                       "Eelistused...">
+<!ENTITY preferencesCmdMac2.label                      "Eelistused">
 <!ENTITY preferencesCmdMac.commandkey                  ",">
 <!ENTITY preferencesCmdMac.modifiers                   "accel">
 <!ENTITY servicesMenuMac.label                         "Teenused">
@@ -899,3 +908,6 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey                "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers                 "accel,alt">
 <!ENTITY showAllAppsCmdMac.label                       "Näita kõiki">
+
+<!-- Mac OS X Dock Icon pop-up menu -->
+<!ENTITY dockOptions.label                             "Rakenduse ikooni sätted…">

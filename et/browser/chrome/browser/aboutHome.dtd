@@ -11,8 +11,6 @@
 
 <!ENTITY abouthome.pageTitle                     "&brandFullName;i avaleht">
 
-<!ENTITY abouthome.searchEngineButton.label      "Otsi">
-
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
@@ -26,8 +24,16 @@
 
 <!ENTITY abouthome.bookmarksButton.label         "Järjehoidjad">
 <!ENTITY abouthome.historyButton.label           "Ajalugu">
-<!ENTITY abouthome.settingsButton.label          "Sätted">
+<!-- LOCALIZATION NOTE (abouthome.preferencesButtonWin.label): The label for the
+     preferences/options item on about:home on Windows -->
+<!ENTITY abouthome.preferencesButtonWin.label    "Sätted">
+<!-- LOCALIZATION NOTE (abouthome.preferencesButtonUnix.label): The label for the
+     preferences/options item on about:home on Linux and OS X -->
+<!ENTITY abouthome.preferencesButtonUnix.label   "Eelistused">
 <!ENTITY abouthome.addonsButton.label            "Lisad">
-<!ENTITY abouthome.appsButton.label              "Marketplace">
+<!-- LOCALIZATION NOTE (abouthome.appsButton2.label): This string should be consistent with
+     the Apps menu item in the Tools menu (webapps.label in browser.dtd) and the Apps toolbar button in
+     Firefox's customization palette (web-apps-button.label in customizableWidgets.properties) -->
+<!ENTITY abouthome.appsButton2.label             "Rakendused">
 <!ENTITY abouthome.downloadsButton.label         "Allalaadimised">
 <!ENTITY abouthome.syncButton.label              "&syncBrand.shortName.label;">

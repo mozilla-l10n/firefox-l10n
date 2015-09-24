@@ -19,7 +19,7 @@
 <!ENTITY dnsNotFound.title                     "Serverit ei leitud">
 <!ENTITY dnsNotFound.longDesc                  "
 <ul>
-  <li>Kontrolli, kas aadressis pole kirjavigu nagu
+  <li>Kontrolli, kas aadressis pole kirjavigu, näiteks
     <strong>www</strong>.eesti.ee asemel hoopis
     <strong>ww</strong>.eesti.ee.</li>
   <li>Kui sa ei saa avada ühtegi lehte, siis kontrolli oma arvuti
@@ -33,13 +33,13 @@
 <!ENTITY fileNotFound.longDesc                 "
 <ul>
   <li>Kontrolli faili nimes olevaid suurtähti või muid kirjavigu.</li>
-  <li>Kontrolli, kas faili on liigutatud, ümber nimetatud või on see kustutatud.</li>
+  <li>Kontrolli, kas faili pole mujale liigutatud, ümber nimetatud või kustutatud.</li>
 </ul>
 ">
 
 <!ENTITY generic.title                         "Ups.">
 <!ENTITY generic.longDesc                      "
-<p>&brandShortName; ei saa seda lehte mingil põhjusel laadida.</p>
+<p>&brandShortName;il pole mingil põhjusel selle lehe laadimine võimalik.</p>
 ">
 
 <!ENTITY malformedURI.title                    "Aadress pole korrektne">
@@ -85,10 +85,10 @@
 <!ENTITY netTimeout.title                      "Ühendus aegus">
 <!ENTITY netTimeout.longDesc                   "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title                "Aadress jäi arusaamatuks">
-<!ENTITY protocolNotFound.longDesc             "
+<!ENTITY unknownProtocolFound.title            "Aadress jäi arusaamatuks">
+<!ENTITY unknownProtocolFound.longDesc         "
 <ul>
-  <li>Sa peaksid võib-olla paigaldama lisatarkvara, et avada see aadress.</li>
+  <li>Selle aadressi avamiseks peaksid võib-olla paigaldama lisatarkvara.</li>
 </ul>
 ">
 
@@ -129,9 +129,9 @@
 ">
 
 <!ENTITY nssFailure2.title                     "Turvalise ühenduse viga">
-<!ENTITY nssFailure2.longDesc                  "
+<!ENTITY nssFailure2.longDesc2                 "
 <ul>
-  <li>Soovitud veebilehte pole võimalik näidata, kuna saadud andmete autentsuse kontrollimine ei õnnestunud.</li>
+  <li>Soovitud veebilehte pole võimalik näidata, kuna saadud andmete autentsust polnud võimalik kontrollida.</li>
   <li>Palun võta veebilehe omanikuga ühendust ja teavita teda probleemist.</li>
 </ul>
 ">
@@ -139,7 +139,7 @@
 <!ENTITY nssBadCert.title                      "Turvalise ühenduse viga">
 <!ENTITY nssBadCert.longDesc2                  "
 <ul>
-  <li>Tegemist võib olla serveri seadistuste probleemiga, või siis üritab keegi antud
+  <li>Tegemist võib olla serveri seadistuste probleemiga või siis üritab keegi antud
 serverina välja paista.</li>
   <li>Kui sa oled varem selle serveriga edukalt ühendunud, siis võib olla tegemist ajutise veaga
 ja sa võid hiljem uuesti proovida.</li>
@@ -159,21 +159,26 @@ ja sa võid hiljem uuesti proovida.</li>
 
 <!ENTITY malwareBlocked.title                  "Ründava veebilehe kahtlus!">
 <!ENTITY malwareBlocked.longDesc               "
-<p>Ründavad lehed üritavad paigaldada rakendusi, mis varastavad privaatset infot; kasutavad sinu arvutit, et rünnata teisi; või kahjustavad sinu arvutit.</p>
+<p>Ründavad lehed üritavad paigaldada privaatandmeid varastavaid rakendusi, kasutavad sinu arvutit teiste ründamiseks või kahjustavad sinu arvutit.</p>
 <p>Veebilehe omanikud, kes usuvad, et nende leht on raporteeritud  ilma põhjuseta, võivad <a href='http://www.stopbadware.org/home/reviewinfo' >nõuda teistkordset ülevaatust</a>.</p>
+">
+
+<!ENTITY unwantedBlocked.title                 "Soovimatu tarkvara levitamise kahtlus!">
+<!ENTITY unwantedBlocked.longDesc              "
+<p>Soovimatut tarkvara levitavad veebilehed üritavad paigaldada tarkvara, mis võib olla petlik ja mõjutada süsteemi ootamatul viisil.</p>
 ">
 
 <!ENTITY phishingBlocked.title                 "Veebivõltsingu kahtlus!">
 <!ENTITY phishingBlocked.longDesc              "
-<p>Sisestades infot sellistele lehtedele, võib see välja viia identiteedivarguse või muu pettuseni.</p>
+<p>Sellistele lehtedele andmete sisestamine võib kaasa tuua identiteedivarguse või muu pettuse.</p>
 <p>Seda tüüpi veebivõltsinguid kasutatakse pettustes, mis on tuntud ka kui veebikelmused, kus pettust sisaldavad lehed või e-kirjad jäljendavad allikaid, mida sa võid usaldada.</p>
 ">
 
-<!ENTITY cspFrameAncestorBlocked.title         "Blokeeritud sisu turvalisuse reegliga">
-<!ENTITY cspFrameAncestorBlocked.longDesc      "<p>&brandShortName; keeldus selle lehe laadimisest antud kujul, sest leht on kaitstud sisu turvalisuse reegliga, mis selle keelab.</p>">
+<!ENTITY cspBlocked.title                      "Blokitud sisu kaitsva turvareegliga">
+<!ENTITY cspBlocked.longDesc                   "<p>&brandShortName; keeldus lehe laadimisest sellisel moel, sest lehe sisu kaitsvate turvareeglite kohaselt on see keelatud.</p>">
 
 <!ENTITY corruptedContentError.title           "Vigane sisu">
-<!ENTITY corruptedContentError.longDesc        "<p>Lehte, mida üritad vaadata, ei saa kuvada, sest andmete edastamisel tuvastati viga.</p><ul><li>Palun võta ühendust veebilehe omanikega, et teavitada neid sellest probleemist.</li></ul>">
+<!ENTITY corruptedContentError.longDesc        "<p>Andmete edastamisel esinenud vea tõttu pole soovitud lehte võimalik kuvada.</p><ul><li>Palun võta ühendust veebilehe omanikega, et teavitada neid sellest probleemist.</li></ul>">
 
 <!ENTITY securityOverride.linkText             "Või võid ka lisada erandi...">
 <!ENTITY securityOverride.getMeOutOfHereButton "Aita mind siit välja!">
@@ -191,5 +196,20 @@ functionality specific to firefox. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
 
-<!ENTITY remoteXUL.title "Remote XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Palun võta ühendust veebilehe omanikega, et teavitada neid sellest probleemist.</li></ul></p>">
+<!ENTITY errorReporting.title                  "Vea raporteerimine">
+<!ENTITY errorReporting.longDesc               "<span id='hostname'></span> aadressi ja sertifikaadi info raporteerimine aitab meil tuvastada ja blokkida pahatahtlikud saidid. Täname, et aitad luua ohutumat veebi!">
+<!ENTITY errorReporting.automatic              "Edaspidi raporteeritakse vead automaatselt">
+<!ENTITY errorReporting.learnMore              "Rohkem teavet…">
+<!ENTITY errorReporting.sending                "Raporti saatmine">
+<!ENTITY errorReporting.sent                   "Raport on saadetud">
+<!ENTITY errorReporting.report                 "Raporteeri">
+<!ENTITY errorReporting.tryAgain               "Proovi uuesti">
+
+<!ENTITY remoteXUL.title                       "Remote XUL">
+<!ENTITY remoteXUL.longDesc                    "<p><ul><li>Palun võta ühendust veebilehe omanikega, et teavitada neid sellest probleemist.</li></ul></p>">
+
+<!ENTITY sslv3Used.title                       "Turvaline ühendumine pole võimalik">
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
+     "ssl_error_unsupported_version". -->
+<!ENTITY sslv3Used.longDesc                    "Täpsem teave: ssl_error_unsupported_version">
+<!ENTITY sslv3Used.learnMore                   "Loe edasi…">

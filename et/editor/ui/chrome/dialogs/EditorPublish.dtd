@@ -39,7 +39,7 @@
 <!ENTITY filename.accesskey           "F">
 <!ENTITY filename.tooltip             "Sisesta nimi selle faili jaoks, kaasa arvatud '.html'">
 <!ENTITY filenameExample.label        "näiteks: &quot;minuleht.html&quot;">
-<!ENTITY setDefaultButton.label       "Sea vaikeväärtuseks">
+<!ENTITY setDefaultButton.label       "Määra vaikeväärtuseks">
 <!ENTITY setDefaultButton.accesskey   "S">
 <!ENTITY removeButton.label           "Eemalda veebileht">
 <!ENTITY removeButton.accesskey       "E">

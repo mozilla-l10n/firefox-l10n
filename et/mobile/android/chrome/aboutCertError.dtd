@@ -16,8 +16,8 @@ by NSS/PSM via netError.xhtml. -->
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara1                  "Oled soovinud, et &brandShortName; ühenduks
-                                                turvaliselt masinaga aadressil <b>#1</b>, aga me ei saa sinu ühenduse turvalisust kinnitada.">
+<!ENTITY certerror.introPara1                  "Sa soovisid, et &brandShortName; looks turvalise ühenduse
+                                                aadressiga <b>#1</b>, aga meil pole võimalik sinu ühenduse turvalisust kinnitada.">
 
 <!ENTITY certerror.whatShouldIDo.heading       "Mida sa peaksid tegema?">
 <!ENTITY certerror.whatShouldIDo.content       "Kui tavaliselt sul selle veebilehega
@@ -27,10 +27,10 @@ was trying to connect. -->
 
 <!ENTITY certerror.expert.heading              "Ma mõistan riski">
 <!ENTITY certerror.expert.content              "Kui sa saad toimuvast aru,
-                                                siis võid &brandShortName;ile öelda, et ta edaspidi usaldaks selle veebilehe identiteeti.
+                                                siis võid &brandShortName;ile öelda, et see edaspidi usaldaks selle veebilehe identiteeti.
                                                 <b>Isegi kui sa usaldad seda veebilehte, siis antud vea puhul võib keegi sinu turvalist ühendust võltsida.</b>">
 <!ENTITY certerror.expert.contentPara2         "Kui sa ei tea head põhjust, miks see veebileht ei kasuta usaldatavaid
-                                                identifitseerimisandmeid, siis ära lisa erandit.">
+                                                tuvastamisandmeid, siis ära lisa erandit.">
 <!ENTITY certerror.addTemporaryException.label "Külasta lehte">
 <!ENTITY certerror.addPermanentException.label "Lisa erand">
 
