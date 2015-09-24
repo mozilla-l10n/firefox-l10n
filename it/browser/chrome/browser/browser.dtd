@@ -573,8 +573,8 @@
 <!ENTITY getUserMedia.allWindowsShared.message "Tutte le finestre visibili sullo schermo verranno condivise.">
 <!ENTITY trackingProtection.title "Protezione antitracciamento">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; sta bloccando elementi della pagina in grado di tracciare la navigazione.">
-<!ENTITY trackingProtection.detectedNotBlocked3 "Questo sito include elementi in grado di tracciare la navigazione. La protezione è disattivata.">
-<!ENTITY trackingProtection.notDetected3 "Questo sito non include alcun elemento in grado di tracciare la navigazione.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "In questa pagina sono presenti elementi in grado di tracciare la navigazione. La protezione è disattivata.">
+<!ENTITY trackingProtection.notDetected3 "In questa pagina non sono presenti elementi in grado di tracciare la navigazione.">
 <!ENTITY trackingProtection.unblock.label "Disattiva protezione per questo sito">
 <!ENTITY trackingProtection.unblock.accesskey "D">
 <!ENTITY trackingProtection.unblockPrivate.label "Disattiva protezione per questa sessione">
