@@ -197,7 +197,7 @@
 
 <!ENTITY fxaccount_status_header2 "Firefox konts">
 <!ENTITY fxaccount_status_signed_in_as "Pierakstījies kā">
-
+<!ENTITY fxaccount_status_manage_account "Pārvaldīt kontu">
 <!ENTITY fxaccount_status_auth_server "Kona serveris">
 <!ENTITY fxaccount_status_sync_now "Sinhronizēt">
 <!ENTITY fxaccount_status_syncing2 "Sinhronizē…">
