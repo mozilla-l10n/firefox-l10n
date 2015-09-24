@@ -97,6 +97,7 @@
      &formatS; will be replaced with the title of the tab, as received from the
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "Idlala iodiyo – &formatS;">
 
 <!ENTITY settings "Iisetingi">
 <!ENTITY settings_title "Iisetingi">
@@ -198,9 +199,9 @@
 <!ENTITY pref_home_updates_wifi "Phezu kwe-Wi-Fi kuphela">
 <!ENTITY pref_home_suggested_sites "Bonisa iingcamango zesayithi">
 <!ENTITY pref_home_suggested_sites_summary "Bonisa oondlelamfutshane ukuya kwiisayithi kwikhasi lekhaya lakho esicinga ukuba ungalifumana linomdla">
-
-
-
+<!ENTITY pref_category_home_homepage "Iphepha elisekuqaleni">
+<!ENTITY home_homepage_title "Seta iphepha elisekuqaleni">
+<!ENTITY home_homepage_use_current_tab "Sebenzisa ithebhu yangoku">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Lungiselela">
@@ -365,7 +366,7 @@ size. -->
 <!ENTITY share_title "Yabelana ngokuvaya">
 <!ENTITY share_image_failed "Akukwazeki ukwabelana nalo mfanekiso-ngqondweni">
 <!ENTITY save_as_pdf "Gcina njenge-PDF">
-
+<!ENTITY print "Printa">
 <!ENTITY find_in_page "Fumana kwikhasi">
 <!ENTITY desktop_mode "Cela isayithi yeDesktop">
 <!ENTITY page "Iphepha">
@@ -385,7 +386,7 @@ size. -->
 
 <!ENTITY find_text "Fumana kwiPhepha">
 <!ENTITY find_prev "Okwangaphambili">
-
+<!ENTITY find_next "Okulandelayo">
 <!ENTITY find_close "Vala">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -410,8 +411,8 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Qhobosha isayithi">
 <!ENTITY contextmenu_top_sites_unpin "Khulula isayithi">
 <!ENTITY contextmenu_add_search_engine "Yongeza injini yokukhangela">
-
-
+<!ENTITY contextmenu_mark_read "Phawula njengefundiweyo">
+<!ENTITY contextmenu_mark_unread "Phawula njengengafundwanga">
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
@@ -434,6 +435,8 @@ size. -->
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
+<!ENTITY pref_magnifying_glass_enabled "Yenza nkulu iindawo ezincinci">
+<!ENTITY pref_magnifying_glass_enabled_summary "Yenza nkulu iilinki neefildi zefomu xa ucofa kufutshane nazo">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -583,8 +586,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY mixed_content_blocked_all1 "&brandShorterName; ibhloke ii-elementi ezingakhuselekanga kweli phepha.">
 <!ENTITY mixed_content_blocked_some1 "&brandShorterName; ibhloke ezinye ii-elementi ezikweli phepha.">
-
-
+<!ENTITY mixed_content_display_loaded1 "Iinxalenye zeli phepha azikhuselekanga (njengemifanekiso).">
+<!ENTITY mixed_content_protection_disabled1 "Uvale ukhuseleko kwisiqulatho esingakhuselekanga.">
 <!-- Tracking content notifications in site identity popup -->
 
 <!ENTITY doorhanger_tracking_title "Ikhangela ukhuseleko">
@@ -602,6 +605,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Iingcombolo zangasese zisusiwe">
 <!ENTITY private_data_fail "Ezinye iingcombolo zangasese azisuseki">
 
+<!ENTITY bookmarkhistory_button_import "Thumela ngaphakathi">
 <!ENTITY bookmarkhistory_import_both "Ingenisa iibhukhmakhi nembali 
 esuka kwi-Android">
 <!ENTITY bookmarkhistory_import_bookmarks "Ingenisa iibhukhmakhi 
@@ -717,10 +721,17 @@ esuka kwi-Android">
 <!ENTITY restriction_disallow_guest_browsing_title2 "Vala UkuBhrawza Kondwendwe">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
+
+<!ENTITY bookmarks_title "Imobhayili">
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!ENTITY bookmarks_about_browser "Firefox: Malunga nebhrawuza yakho">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "Firefox: Qhelana nezongezelelo">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "Firefox: Inkxaso">
 <!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
 <!ENTITY bookmarks_marketplace "Firefox Marketplace">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!ENTITY bookmarks_restricted_support2 "Uncedo Nenkxaso yeFirefox lweeprofayili ezithintelweyo kwiitableti zeAndroid">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!ENTITY bookmarks_restricted_webmaker "Funda iWebhu: UMenziwebhu weMozilla">

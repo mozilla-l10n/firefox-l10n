@@ -197,7 +197,7 @@
 
 <!ENTITY fxaccount_status_header2 "I-akhawunti yeFirefox">
 <!ENTITY fxaccount_status_signed_in_as "Ungene njenge">
-
+<!ENTITY fxaccount_status_manage_account "Lawula iakhawunti">
 <!ENTITY fxaccount_status_auth_server "Iseva yeakhawunti">
 <!ENTITY fxaccount_status_sync_now "Ngqamanisa ngoku">
 <!ENTITY fxaccount_status_syncing2 "Iyangqamanisa...">
