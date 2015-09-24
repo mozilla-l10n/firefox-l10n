@@ -27,7 +27,7 @@
 
 <!ENTITY openFileCmd.label            "بازکردن پرونده…">
 <!ENTITY openFileCmd.accesskey        "ب">
-
+<!ENTITY openFileCmd.commandkey       "o">
 
 <!ENTITY openRecentMenu.label         "باز کردن آخرین">
 <!ENTITY openRecentMenu.accesskey     "آ">

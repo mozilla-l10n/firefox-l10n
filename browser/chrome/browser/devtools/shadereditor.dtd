@@ -10,6 +10,10 @@
   - documentation on web development on the web. -->
 <!-- LOCALIZATION NOTE (shaderEditorUI.vertexShader): This is the label for
   -  the pane that displays a vertex shader's source. -->
+
+
+
+<!ENTITY shaderEditorUI.vertexShader    "Vertex Shader">
 <!-- LOCALIZATION NOTE (shaderEditorUI.fragmentShader): This is the label for
   -  the pane that displays a fragment shader's source. -->
 <!-- LOCALIZATION NOTE (shaderEditorUI.reloadNotice1): This is the label shown

@@ -30,9 +30,9 @@
 
 
 
+<!ENTITY btnPageJS.label    "JS">
 
-
-
+<!ENTITY btnPageJS.accesskey  "J">
 
 
 
@@ -78,6 +78,7 @@
 <!ENTITY copyURLCmd.label     "رونوشت برداشتن از مکان پیوند">
 <!ENTITY copyURLCmd.accesskey "ن">
 
+<!ENTITY closeCmd.key         "W">
 
 
 

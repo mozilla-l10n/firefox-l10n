@@ -96,9 +96,13 @@ values from browser.dtd.  -->
 <!-- LOCALIZATION NOTE (options.selectEnabledToolboxButtons.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tool buttons. -->
+
+<!ENTITY options.selectEnabledToolboxButtons.label     "دکمه‌های در دسترس جعبه ابزار ">
 <!-- LOCALIZATION NOTE (options.toolNotSupported.label): This is the label for
   -  the explanation of the * marker on a tool which is currently not supported
   -  for the target of the toolbox. -->
+
+<!ENTITY options.toolNotSupported.label  "*در حال حاضر جعبه ابزار هدف پشتبانی نمی‌شود">
 <!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label2): This is the label for
   -  the heading of the radiobox corresponding to the theme of the developer
   -  tools. -->
