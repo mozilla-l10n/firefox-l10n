@@ -229,7 +229,7 @@
 <!ENTITY tab_queue_toast_action "Atverti dabar">
 <!ENTITY tab_queue_prompt_title "Atveriate kelias nuorodas?">
 <!ENTITY tab_queue_prompt_text4 "Išsaugokite jas iki kito karto kai atversite „&brandShortName;“.">
-<!ENTITY tab_queue_prompt_tip_text2 "Vėliau tai galėsite pakeisti „Nuostatose“">
+<!ENTITY tab_queue_prompt_tip_text2 "Vėliau tai galėsite pakeisti nuostatose">
 <!ENTITY tab_queue_prompt_positive_action_button "Įjungti">
 <!ENTITY tab_queue_prompt_negative_action_button "Ne dabar">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
