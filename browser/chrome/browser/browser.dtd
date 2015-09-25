@@ -112,7 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignIn.label "Pla &syncBrand.shortName.label; pśizjawiś">
 <!ENTITY fxaSignedIn.tooltip "Nastajenja &syncBrand.shortName.label; wócyniś">
 <!ENTITY fxaSignInError.label "Z &syncBrand.shortName.label; znowego zwězaś">
-
+<!ENTITY fxaUnverified.label "Wašo konto wobkšuśiś">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; zmóžnjony">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; chapja we wokognuśu synchronizěrowaś.">
 
@@ -131,12 +131,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY fullscreenWarning.beforeDomain.label "">
-
-
+<!ENTITY fullscreenWarning.afterDomain.label "jo něnto połna wobrazowka">
+<!ENTITY fullscreenWarning.generic.label "Toś ten dokument jo něnto połna wobrazowka">
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
-
+<!ENTITY exitDOMFullscreen.button "Połnu wobrazowku skóńcyś (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "Połnu wobrazowku (esc) skóńcyś">
 <!ENTITY leaveDOMFullScreen.label "Połnu wobrazowku spušćiś">
 <!ENTITY leaveDOMFullScreen.accesskey "o">
 
@@ -222,7 +223,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "Ześěgnjenja">
 <!ENTITY downloads.accesskey          "Z">
 <!ENTITY downloads.commandkey         "j">
-
+<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Dodanki">
 <!ENTITY addons.accesskey             "D">
 <!ENTITY addons.commandkey            "A">
@@ -405,11 +406,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Cośo swójo pytańske dožywjenje z naraźenjami pólěpšyś?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Dalšne informacije…">
-
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Ně">
-
+<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Jo">
-
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "m">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -466,9 +467,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Pytańske nastajenja">
 
-
-
-
+<!ENTITY searchInNewTab.label         "W nowem rejtarku pytaś">
+<!ENTITY searchInNewTab.accesskey     "r">
+<!ENTITY searchSetAsDefault.label     "Ako standardnu pytnicu nastajiś">
+<!ENTITY searchSetAsDefault.accesskey "d">
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -704,7 +706,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Wěsty zwisk">
 <!ENTITY identity.connectionNotSecure "Zwisk njejo wěsty">
 <!ENTITY identity.connectionFile "Toś ten bok jo se na wašom licadle składł.">
-
+<!ENTITY identity.connectionVerified1 "Sćo z toś tym sedłom wěsće zwězany, kótaregož wobgóspodarjowaŕ jo:">
 <!ENTITY identity.connectionInternal "To jo wěsty bok &brandShortName;.">
 
 <!-- Strings for connection state warnings. -->
