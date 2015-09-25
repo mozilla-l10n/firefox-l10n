@@ -45,8 +45,8 @@
      -->
 
 <!ENTITY trackingProtection.state.width        "6ch">
-<!ENTITY trackingProtection.state.enabled      "Pornit">
-<!ENTITY trackingProtection.state.disabled     "Oprit">
+<!ENTITY trackingProtection.state.enabled      "Pornită">
+<!ENTITY trackingProtection.state.disabled     "Oprită">
 
 <!ENTITY trackingProtection.description1       "Ferestrele private acum blochează părțile din pagină care vă pot urmări activitatea de navigare.">
 
