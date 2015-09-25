@@ -26,7 +26,7 @@
 <!ENTITY projectMenu_showPrefs_accesskey "e">
 <!ENTITY projectMenu_manageComponents_label "Pārvaldīt papildu komponentus">
 <!ENTITY projectMenu_manageComponents_accesskey "M">
-
+<!ENTITY projectMenu_refreshTabs_label "Atjaunināt cilnes">
 
 <!ENTITY runtimeMenu_label "Izpildlaiks">
 <!ENTITY runtimeMenu_accesskey "I">

@@ -53,13 +53,13 @@
   -  in the toolbar on buttons that select which view is currently shown. -->
 
 <!ENTITY performanceUI.toolbar.waterfall "Ūdenskritums">
-
+<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Attēlo dažādas pārlūka darbības, kas tiek veiktas ieraksta laikā, kā secību elementu ūdenskritumu.">
 <!ENTITY performanceUI.toolbar.js-calltree "Izsaukumu koks">
-
+<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Izgaismo JavaScript funkcijas, kas ieraksta laikā prasīja vis vairāk laika.">
 <!ENTITY performanceUI.toolbar.memory-calltree "Piešķiršanas">
-
+<!ENTITY performanceUI.toolbar.allocations.tooltiptext "Parāda kur ieraksta laikā tika izdalīta atmiņa.">
 <!ENTITY performanceUI.toolbar.js-flamegraph "JS Flame grafiks">
-
+<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Rāda ieraksta laika JavaScript izsaukumu steku.">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "Piešķiršanas liesmu grafiks">
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
