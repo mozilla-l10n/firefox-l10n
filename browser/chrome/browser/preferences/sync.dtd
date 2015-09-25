@@ -89,7 +89,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.create  "Creare cont">
 <!ENTITY signedOut.accountBox.signin  "Autentificare">
 
-<!ENTITY signedIn.engines.label       "Sincronizare pentru toate dispozitivele">
+<!ENTITY signedIn.engines.label       "Sincronizare pe toate dispozitivele">
 
 <!ENTITY mobilePromo.start            "Descarcă Firefox pentru ">
 <!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->

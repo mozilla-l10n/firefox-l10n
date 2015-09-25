@@ -10,7 +10,7 @@
 <!ENTITY trackingProtection5.label     "Utilizează protecție față de urmărire">
 <!ENTITY trackingProtection5.accesskey "i">
 <!ENTITY trackingProtectionLearnMore.label "Aflați mai multe">
-<!ENTITY trackingProtectionPBM5.label         "Utilizează protecția față de urmărire în ferestre private">
+<!ENTITY trackingProtectionPBM5.label         "Folosește protecția față de urmărire în ferestre private">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Aflați mai multe">
 <!ENTITY changeBlockList.label          "Schimbă lista de blocări">

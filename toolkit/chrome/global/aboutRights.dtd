@@ -36,13 +36,13 @@
 <!-- point 4 text for official branded builds -->
 
 <!ENTITY rights2.intro-point4a "Unele funcționalități din &brandShortName; se folosesc de servicii de informații bazate pe web, totuși, noi nu putem garanta că acestea sunt 100&#037; exacte sau lipsite de erori. Mai multe detalii, inclusiv informații despre cum să dezactivați funcționalitățile care folosesc aceste servicii, se pot găsi în ">
-<!ENTITY rights.intro-point4b "termenii de furnizare a serviciului">
+<!ENTITY rights.intro-point4b "termenii serviciului">
 <!ENTITY rights.intro-point4c ".">
 <!-- point 4 text for unbranded builds -->
 
 <!ENTITY rights.intro-point4a-unbranded "Dacă produsul acesta include servicii web, orice termeni aplicabili serviciilor ar trebui să fie accesibili în secțiunea ">
 <!ENTITY rights.intro-point4b-unbranded "Servicii ale site-urilor web">
-<!ENTITY rights.intro-point4c-unbranded " .">
+<!ENTITY rights.intro-point4c-unbranded ".">
 
 <!ENTITY rights2.webservices-header "Servicii de informare bazate pe web folosite în &brandFullName;">
 <!-- point 5 -->
@@ -79,7 +79,7 @@
 <!ENTITY rights.webservices-unbranded "O privire de ansamblu a serviciilor de informare asupra site-urilor pe care acest produs le include împreună cu instrucțiuni cum pot fi dezactivate, dacă e cazul, ar trebui incluse aici.">
 <!-- point 1 text for unbranded builds -->
 
-<!ENTITY rights.webservices-term1-unbranded "Aici ar trebui listați orice termeni aplicabili serviciului pentru acest product.">
+<!ENTITY rights.webservices-term1-unbranded "Aici ar trebui listați orice termeni aplicabili serviciului pentru acest produs.">
 <!-- points 1-7 text for branded builds -->
 
 <!ENTITY rights2.webservices-term1 "&vendorShortName; și contribuitorii, licențiatorii și partenerii săi lucrează pentru a oferi cele mai precise și actualizate Servicii.  Totuși, nu putem garanta că aceste informații sunt complete sau lipsite de erori. De exemplu, serviciul Navigare în siguranță ar putea să nu identifice unele site-uri riscante și ar putea identifica greșit unele site-uri sigure ca fiind riscante, iar locațiile furnizate de serviciul conștient de locație sunt doar estimative și nici noi, nici furnizorii noștri nu garantează acuratețea locațiilor oferite.">
