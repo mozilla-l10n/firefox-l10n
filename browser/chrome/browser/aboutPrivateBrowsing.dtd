@@ -25,14 +25,14 @@
 <!ENTITY aboutPrivateBrowsing.subtitle         "În această fereastră, &brandShortName; nu va reține niciun istoric.">
 
 <!ENTITY aboutPrivateBrowsing.forgotten        "În această fereastră, &brandShortName; nu va reține:">
-<!ENTITY aboutPrivateBrowsing.info.forgotten   "Nu a fost salvat">
+<!ENTITY aboutPrivateBrowsing.info.forgotten   "Nu au fost salvate">
 <!ENTITY aboutPrivateBrowsing.info.history     "Istoric">
 <!ENTITY aboutPrivateBrowsing.info.searches    "Căutări">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Cookie-uri">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Fișiere temporare">
 
 <!ENTITY aboutPrivateBrowsing.kept             "&brandShortName; va păstra:">
-<!ENTITY aboutPrivateBrowsing.info.kept        "Salvat">
+<!ENTITY aboutPrivateBrowsing.info.kept        "Salvate">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Descărcări">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Semne de carte">
 
@@ -54,8 +54,8 @@
      -->
 
 <!ENTITY trackingProtection.state.width        "6ch">
-<!ENTITY trackingProtection.state.enabled      "Pornit">
-<!ENTITY trackingProtection.state.disabled     "Oprit">
+<!ENTITY trackingProtection.state.enabled      "Pornită">
+<!ENTITY trackingProtection.state.disabled     "Oprită">
 
 <!ENTITY trackingProtection.description1       "Ferestrele private acum blochează părțile din pagină care vă pot urmări activitatea de navigare.">
 
