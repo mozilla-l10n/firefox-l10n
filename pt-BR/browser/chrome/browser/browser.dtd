@@ -112,7 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignIn.label "Entrar no &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Abrir preferências &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Reconectar-se ao &syncBrand.shortName.label;">
-
+<!ENTITY fxaUnverified.label "Verificar conta">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; ativo">
 <!ENTITY syncStartPanel2.subTitle "O &brandShortName; começará a sincronizar em instantes.">
 
@@ -131,12 +131,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY fullscreenWarning.beforeDomain.label "">
-
-
+<!ENTITY fullscreenWarning.afterDomain.label "está em tela inteira">
+<!ENTITY fullscreenWarning.generic.label "Este documento está no modo de tela inteira">
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
-
+<!ENTITY exitDOMFullscreen.button "Sair da tela inteira (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "Sair da tela inteira (esc)">
 <!ENTITY leaveDOMFullScreen.label "Sair da tela inteira">
 <!ENTITY leaveDOMFullScreen.accesskey "t">
 
@@ -222,7 +223,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "Downloads">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
-
+<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Complementos">
 <!ENTITY addons.accesskey             "C">
 <!ENTITY addons.commandkey            "A">
@@ -405,11 +406,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Gostaria de melhorar a sua experiência de pesquisa com sugestões?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Saiba mais…">
-
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Não">
-
+<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Sim">
-
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -466,9 +467,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Alterar configurações de pesquisa">
 
-
-
-
+<!ENTITY searchInNewTab.label         "Pesquisar em uma nova aba">
+<!ENTITY searchInNewTab.accesskey     "P">
+<!ENTITY searchSetAsDefault.label     "Definir como mecanismo de pesquisa padrão">
+<!ENTITY searchSetAsDefault.accesskey "D">
 
 <!ENTITY tabView.commandkey           "e">
 

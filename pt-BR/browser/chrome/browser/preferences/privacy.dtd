@@ -13,8 +13,8 @@
 <!ENTITY trackingProtectionPBM5.label         "Usar proteção contra rastreamento em janelas privativas">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Saiba mais">
-
-
+<!ENTITY changeBlockList.label          "Alterar Lista de Bloqueios">
+<!ENTITY changeBlockList.accesskey      "A">
 
 <!ENTITY  history.label                 "Histórico">
 
