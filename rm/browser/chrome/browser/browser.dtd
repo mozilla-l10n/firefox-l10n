@@ -126,8 +126,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "a">
 <!ENTITY fullScreenExit.label "Interrumper il modus da maletg entir">
 <!ENTITY fullScreenExit.accesskey "I">
-<!ENTITY fullscreenAllowButton.label "Permetter">
-<!ENTITY fullscreenExitButton.label "Refusar">
+
 <!ENTITY fullscreenExitHint2.value "Ti pos adina smatgar ESC per bandunar.">
 <!ENTITY leaveDOMFullScreen.label "Bandunar il modus da maletg entir">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
@@ -188,8 +187,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY tabGroupsButton.label        "Gruppas da tabs">
 
-<!ENTITY bookmarksButton.label        "Segnapaginas">
-<!ENTITY bookmarksCmd.commandkey      "b">
+<!ENTITY bookmarksButton.label          "Segnapaginas">
+<!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Segnapaginas">
 <!ENTITY bookmarksMenuButton.unsorted.label "Segnapaginas betg zavrads">
@@ -199,8 +198,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
-<!ENTITY bookmarksGtkCmd.commandkey    "o">
-<!ENTITY bookmarksWinCmd.commandkey    "i">
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Cronologia">
 <!ENTITY historySidebarCmd.commandKey   "H">
@@ -276,7 +275,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY browserContentToolboxMenu.label     "Utensils da cuntegn dal navigatur">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Serrar la trav d'utensils per sviluppaders">
-<!ENTITY devToolbarMenu.label               "Trav d'utensils per sviluppaders">
+<!ENTITY devToolbarMenu.label              "Trav d'utensils per sviluppaders">
 <!ENTITY devToolbarMenu.accesskey          "v">
 <!ENTITY devAppMgrMenu.label               "Administraziun dad apps">
 <!ENTITY devAppMgrMenu.accesskey           "a">
@@ -328,11 +327,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "t"> 
 <!ENTITY preferencesCmd2.label       "Preferenzas">
-<!ENTITY preferencesCmd2.accesskey     "e"> 
+<!ENTITY preferencesCmd2.accesskey     "e">
 <!ENTITY preferencesCmdUnix.label       "Preferenzas">
 <!ENTITY preferencesCmdUnix.accesskey     "e"> 
 
-<!ENTITY clearRecentHistory.label            "Stizzar la cronologia pli nova…">
+<!ENTITY clearRecentHistory.label               "Stizzar la cronologia pli nova…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
@@ -393,6 +392,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Midar al tab:">
 
+
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -417,11 +417,23 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
+<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
+     These are set as the aria-label attribute for the search input box and
+     submit button in the in-content search UI, to be used by screen readers. -->
+
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
 <!ENTITY searchFor.label              "Tschertgar ">
 <!ENTITY searchWith.label             " cun:">
+
+<!-- LOCALIZATION NOTE (search.label, searchAfter.label):
+     This string is used to build the header above the list of one-click search
+     providers when a one off engine has been selected.  The searchAfter text is
+     intentionally left empty for en-US and can be used by other localizations to
+     display a string after the search engine name.  This string will be displayed
+     as:  "Search <selected engine name><searchAfter.label text>" -->
+
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
@@ -605,7 +617,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sidebarCloseButton.tooltip     "Serrar la trav laterala">
 
-<!ENTITY quitApplicationCmdWin2.label       "Terminar"> 
+<!ENTITY quitApplicationCmdWin2.label       "Terminar">
 <!ENTITY quitApplicationCmdWin2.accesskey   "T">
 <!ENTITY quitApplicationCmdWin2.tooltip     "Terminar &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
@@ -619,6 +631,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.label                 "Serrar">  
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "S">
+
 
 <!ENTITY pageStyleMenu.label "Stil da la pagina d'internet">
 <!ENTITY pageStyleMenu.accesskey "S">
@@ -660,29 +673,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label                   "Interrumper">
 <!ENTITY editBookmark.removeBookmark.accessKey       "L">
 
-<!ENTITY identity.unverifiedsite2 "Questa website na metta betg a disposiziun datas d'identitad.">
-<!ENTITY identity.connectedTo "Ti es collià cun">
-<!-- Localization note (identity.runBy) : This string appears between a
-domain name (above) and an organization name (below). E.g.
 
-example.com
-which is run by
-Example Enterprises, Inc.
+<!-- Strings for connection state warnings. -->
 
-The layout of the identity dialog prevents combining this into a single string with
-substitution variables.  If it is difficult to translate the sense of the string
-with that structure, consider a translation which ignores the preceding domain and
-just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "Questa website vegn administrada da">
+<!-- Strings for connection state warnings in the subview. -->
 
-<!ENTITY identity.moreInfoLinkText "Ulteriuras infurmaziuns…">
+
 
 <!ENTITY identity.permissions "Autorisaziun">
-
-<!-- LOCALIZATION NOTE (identity.help.tooltip) : This string should be the
-     localized title of this SUMO article
-     https://support.mozilla.org/kb/how-do-i-tell-if-my-connection-is-secure -->
-<!ENTITY identity.help.tooltip "Co poss jau vesair sche mia connexiun ad ina pagina d'internet è segira?">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -701,7 +699,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "Sincronisar">
 
-<!ENTITY socialToolbar.title          "Buttun da la trav d'utensils sociala">
+<!ENTITY socialToolbar.title        "Buttun da la trav d'utensils sociala">
 
 <!ENTITY social.ok.label       "OK">
 <!ENTITY social.ok.accesskey   "O">
@@ -741,8 +739,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "A">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Telechargiar designs">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "T">
-<!ENTITY customizeMode.deveditionTheme.label2 "Utilisar il design da la Developer Edition">
-   
+
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "Focussar il chat">
 <!ENTITY social.chatBar.accesskey "c">
@@ -758,18 +755,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY getUserMedia.allWindowsShared.message "Tut las fanestras visiblas sin tes visur vegnan cundivididas.">
 
-<!-- Bad Content Blocker Doorhanger Notification -->
-<!ENTITY badContentBlocked.moreinfo "La pli gronda part da las paginas d'internet funcziunescha era sche quest cuntegn vegn bloccà.">
-
-<!ENTITY mixedContentBlocked2.message "Cuntegn betg segirà">
-<!ENTITY mixedContentBlocked2.moreinfo "Intgins elements betg criptads sin questa pagina d'internet èn vegnids bloccads.">
-<!ENTITY mixedContentBlocked2.learnMore "Ulteriuras infurmaziuns">
-<!ENTITY mixedContentBlocked2.options "Opziuns">
-<!ENTITY mixedContentBlocked2.unblock.label "Deactivar questa giada la protecziun">
-<!ENTITY mixedContentBlocked2.unblock.accesskey "D">
-<!ENTITY mixedContentBlocked2.block.label "Activar la protecziun">
-<!ENTITY mixedContentBlocked2.block.accesskey "E">
-<!ENTITY mixedContentBlocked2.disabled.message "La protecziun è deactivada">
+<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
 
 <!ENTITY trackingContentBlocked.message "Fastizar">
 <!ENTITY trackingContentBlocked.moreinfo "Las parts da questa pagina che suondan tias activitads online èn vegnidas bloccadas.">
@@ -801,9 +792,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY uiTour.infoPanel.close "Serrar">
 
 <!ENTITY appMenuSidebars.label         "Travs lateralas">
-
-<!ENTITY switchToMetroCmd2.label       "Relaunch in &brandShortName; for Windows 8 Touch">
-
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
@@ -841,20 +829,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY emeLearnMoreContextMenu.label            "Dapli infurmaziuns davart DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
-
 <!ENTITY emeNotificationsNotNow.label             "Betg uss">
 <!ENTITY emeNotificationsNotNow.accesskey         "B">
 <!ENTITY emeNotificationsDontAskAgain.label       "Betg pli dumandar">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "N">
 
-<!ENTITY readingList.label                        "Reading List">
-<!ENTITY readingList.sidebar.commandKey           "R">
-<!ENTITY readingList.showSidebar.label            "Mussar la glista da lectura sco trav laterala">
-<!-- Pre-landed string for bug 1124153 -->
-<!ENTITY readingList.sidebar.showMore.label       "Mussar dapli…">
-<!-- Pre-landed string for bug 1133662 -->
-<!ENTITY readingList.sidebar.emptyText            "Agiunta artitgels a tia glista da lectura per memorisar els per pli tard ed als avair per mauns cura che ti als tschertgas.">
-<!ENTITY readingList.sidebar.delete.tooltip       "Allontanar quai da tia glista da lectura">
-<!-- Pre-landed strings for bug 1123519 -->
-<!ENTITY readingList.sidebar.add.label            "Agiuntar a la glista da lectura">
-<!ENTITY readingList.sidebar.add.tooltip          "Agiuntar questa pagina a tia glista da lectura">
+<!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
