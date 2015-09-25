@@ -708,7 +708,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Toś ten bok jo se na wašom licadle składł.">
 <!ENTITY identity.connectionVerified1 "Sćo z toś tym sedłom wěsće zwězany, kótaregož wobgóspodarjowaŕ jo:">
 <!ENTITY identity.connectionInternal "To jo wěsty bok &brandShortName;.">
-
+<!ENTITY identity.insecureLoginForms "Wašo pśizjawjenje jo se wobgrozyło.">
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "&brandShortName; jo źěle toś togo boka blokěrował, kótarež njejsu wěste.">
@@ -718,7 +718,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings in the subview. -->
 
 <!ENTITY identity.description.insecure "Waš zwisk z toś tym sedłom njejo priwatny. Druge luźe by mógli Informacije wiźeś, kótarež sćelośo (na pśikład gronidła, powěsći, kreditne kórty atd.).">
-
+<!ENTITY identity.description.insecureLoginForms "Pśizjawjeńske informacije, kótarež zapódawaśo na toś tom boku, njejsu wěste a by mógli se wobgrozyś.">
 <!ENTITY identity.description.weakCipher "Waš zwisk z websedłom wužywa słabe koděrowanje a njejo priwatny.">
 <!ENTITY identity.description.weakCipher2 "Druge luźe mógu se waše informacije woglědaś abo zaźaržanje websedła změniś.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; jo źěle toś togo boka blokěrował, kótarež njejsu wěste.">
@@ -737,7 +737,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.moreInfoLinkText2 "Dalšne informacije">
 
 <!ENTITY identity.permissions "Pšawa">
-
+<!ENTITY identity.permissionsEmpty "Njejsćo toś tomu sedłoju wósebne pšawa pśizwólił.">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -748,7 +748,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
-
+<!ENTITY syncSignIn.label             "Pla &syncBrand.shortName.label; pśizjawiś…">
+<!ENTITY syncSignIn.accesskey         "P">
 <!ENTITY syncSyncNowItem.label        "Něnto synchronizěrowaś">
 <!ENTITY syncSyncNowItem.accesskey    "N">
 <!ENTITY syncReAuthItem.label         "Znowego z &syncBrand.shortName.label; zwězaś…">
