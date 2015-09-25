@@ -40,7 +40,7 @@
 
 
 <!ENTITY generic.title "Oops.">
-<!ENTITY generic.longDesc "<p>&brandShorterName;ayinakho ukulayisha eli khasi ngesizathu esithile.</p>">
+<!ENTITY generic.longDesc "<p>&brandShortName;ayinakho ukulayisha eli khasi ngesizathu esithile.</p>">
 
 <!ENTITY malformedURI.title "Idilesi ayisebenzi">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
@@ -60,13 +60,13 @@
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Uxwebhu luphelelwe">
-<!ENTITY notCached.longDesc "<p>Uxwebhu oluceliweyo alufumaneki kwimemori esisikhuphelo &brandShorterName;</p><ul><li>Njengesilumkiso sokhuseleko, &brandShorterName; ayiwaceli kwakhona ngokwayo amaxwebhu anobuzaza.</li><li>Cofa uZama kwakhona ukucela kwakhona uxwebhu kwiwebhusayithi.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Uxwebhu oluceliweyo alufumaneki kwimemori esisikhuphelo &brandShortName;</p><ul><li>Njengesilumkiso sokhuseleko, &brandShortName; ayiwaceli kwakhona ngokwayo amaxwebhu anobuzaza.</li><li>Cofa uZama kwakhona ukucela kwakhona uxwebhu kwiwebhusayithi.</li></ul>">
 
 <!ENTITY netOffline.title "Imo engeyo yakusebenza">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY netOffline.longDesc3 "<ul>    
-<li>Zama kwakhona. &brandShorterName; izakuzama ukuvula unxibelelwano ize ilayishe kwakhona ikhasi.   
+<li>Zama kwakhona. &brandShortName; izakuzama ukuvula unxibelelwano ize ilayishe kwakhona ikhasi.   
 <button id='wifi'>Vumela iWi-Fi</button>   
 </li>   
 </ul>">
@@ -146,7 +146,7 @@ nokuba yeyethutyana kwaye ungazama kwakhona kamva.</li>
 </ul>">
 
 <!ENTITY cspBlocked.title "Ithintelwe nguMgaqonkqubo woKhuseleko lomXholo">
-<!ENTITY cspBlocked.longDesc "<p>&brandShorterName; ithintele eli khasi ukuba lilayishe ngale ndlela kuba ikhasi linomgaqonkqubo wokhuseleko lomxholo elingakuvumeliyo.</p>">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; ithintele eli khasi ukuba lilayishe ngale ndlela kuba ikhasi linomgaqonkqubo wokhuseleko lomxholo elingakuvumeliyo.</p>">
 
 <!ENTITY corruptedContentError.title "Imposiso yomxholo owonakalisiweyo">
 <!ENTITY corruptedContentError.longDesc "<p>Ikhasi ozama ukulijonga alinakuboniswa kuba kubhaqwe imposiso ekuthunyelweni kweengcombolo.</p><ul><li>Nceda uqhagamshelane nabanini bewebhusayithi ubachazele ngale ngxaki.</li></ul>">
