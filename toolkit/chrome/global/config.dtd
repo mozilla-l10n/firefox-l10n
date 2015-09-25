@@ -14,7 +14,7 @@
 <!ENTITY searchPrefs.label "Localizar:">
 <!ENTITY searchPrefs.accesskey "o">
 <!ENTITY focusSearch.key "R">
-
+<!ENTITY focusSearch2.key "f">
 <!-- Columns -->
 
 <!ENTITY prefColumn.label "Nome">
