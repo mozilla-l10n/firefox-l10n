@@ -213,6 +213,16 @@
 <!ENTITY getMoreDevtoolsCmd.accesskey "A">
 <!ENTITY fileMenu.label "File">
 <!ENTITY fileMenu.accesskey "F">
+<!ENTITY newUserContext.label "Nuova scheda contenitore">
+<!ENTITY newUserContext.accesskey "c">
+<!ENTITY userContextPersonal.label "Personale">
+<!ENTITY userContextPersonal.accesskey "P">
+<!ENTITY userContextWork.label "Lavoro">
+<!ENTITY userContextWork.accesskey "L">
+<!ENTITY userContextBanking.label "Banca">
+<!ENTITY userContextBanking.accesskey "B">
+<!ENTITY userContextShopping.label "Shopping">
+<!ENTITY userContextShopping.accesskey "S">
 <!ENTITY newNavigatorCmd.label "Nuova finestra&#173;">
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "f">
