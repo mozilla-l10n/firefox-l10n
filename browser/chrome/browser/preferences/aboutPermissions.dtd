@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY permissionsManager.title        "Gestionar de permisiuni">
+<!ENTITY permissionsManager.title        "Manager de permisiuni">
 
 <!ENTITY sites.search                    "Caută site-uri">
 <!ENTITY sites.allSites                  "Toate site-urile">
@@ -24,11 +24,11 @@
 <!ENTITY permission.block                "Blochează">
 
 <!ENTITY password.label                  "Stocheze parole">
-<!ENTITY password.manage                 "Gestionare parole…">
+<!ENTITY password.manage                 "Gestionează parole…">
 
 <!ENTITY cookie.label                    "Seteze cookie-uri">
 <!ENTITY cookie.remove                   "Șterge cookie-uri">
-<!ENTITY cookie.manage                   "Gestionare cookie-uri…">
+<!ENTITY cookie.manage                   "Gestionează cookie-uri…">
 <!ENTITY cookie.removeAll                "Șterge toate cookie-urile">
 
 <!ENTITY geo.label                       "Împărtășește locația">
@@ -37,7 +37,7 @@
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
 
-<!ENTITY indexedDB.label                 "Stocare pentru uz offline">
+<!ENTITY indexedDB.label                 "Mențineți stocarea offline">
 
 <!ENTITY popup.label                     "Deschide ferestrele pop-up">
 

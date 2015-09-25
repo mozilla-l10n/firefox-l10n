@@ -12,12 +12,12 @@
 <!ENTITY showURLBarSuggestions.label           "Arată sugestiile de căutare în rezultatele din bara de adrese.">
 <!ENTITY showURLBarSuggestions.accesskey       "l">
 
-<!ENTITY redirectWindowsSearch.label "Utilizați acest motor de căutare pentru căutări din Windows">
+<!ENTITY redirectWindowsSearch.label "Folosește acest motor de căutare pentru căutări din Windows">
 <!ENTITY redirectWindowsSearch.accesskey "W">
 
 <!ENTITY oneClickSearchEngines.label           "Motoare de căutare la un singur clic distanță">
 
-<!ENTITY chooseWhichOneToDisplay.label         "Bara de căutare vă permite să căutați direct în diferite motoare de căutare. Alegeți-vă motoarele de căutare cu care să căutați.">
+<!ENTITY chooseWhichOneToDisplay.label         "Bara de căutare îți permite să cauți direct cu diferite motoare de căutare. Alege motoarele de căutare cu care să cauți.">
 
 <!ENTITY engineNameColumn.label                "Motor de căutare">
 <!ENTITY engineKeywordColumn.label             "Cuvânt cheie">

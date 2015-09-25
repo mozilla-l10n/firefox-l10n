@@ -69,10 +69,10 @@
 <!ENTITY btnPageLogging.label   "Înregistrare în jurnal">
 <!ENTITY btnPageLogging.tooltip "Jurnal mesaje trimise la obiectul window.console">
 <!ENTITY btnPageLogging.accesskey3 "L">
-<!ENTITY btnConsoleErrors       "Erori">
-<!ENTITY btnConsoleInfo         "Informații">
-<!ENTITY btnConsoleWarnings     "Avertismente">
-<!ENTITY btnConsoleLog          "Jurnal">
+
+
+
+
 <!ENTITY btnConsoleXhr          "XHR">
 <!ENTITY btnConsoleReflows      "Reflows">
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
