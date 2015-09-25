@@ -777,7 +777,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.directory.text "Puteți activa serviciile de partajare din dosar.">
 <!ENTITY social.directory.button "Du-mă acolo!">
 <!ENTITY social.directory.introText "Clic pe un serviciu pentru a-l adăuga în &brandShortName;.">
-<!ENTITY social.directory.viewmore.text "Vedeți mai multe">
+<!ENTITY social.directory.viewmore.text "Vezi mai multe">
 
 <!ENTITY customizeMode.tabTitle "Personalizează &brandShortName;">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Funcționalități și unelte suplimentare">
