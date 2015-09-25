@@ -17,13 +17,13 @@
 <!ENTITY aboutPrivateBrowsing.width1           "32em">
 <!ENTITY aboutPrivateBrowsing.title            "Navigați în mod privat">
 
-<!ENTITY aboutPrivateBrowsing.info.notsaved    "Nu a fost salvat">
+<!ENTITY aboutPrivateBrowsing.info.notsaved    "Nu au fost salvate">
 <!ENTITY aboutPrivateBrowsing.info.history     "Istoric">
 <!ENTITY aboutPrivateBrowsing.info.searches    "Căutări">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Cookie-uri">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Fișiere temporare">
 
-<!ENTITY aboutPrivateBrowsing.info.saved       "Salvat">
+<!ENTITY aboutPrivateBrowsing.info.saved       "Salvate">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Descărcări">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Semne de carte">
 
