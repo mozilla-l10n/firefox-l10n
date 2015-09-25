@@ -63,12 +63,12 @@
 
 <!ENTITY  securityTab           "Securitate">
 <!ENTITY  securityTab.accesskey "S">
-<!ENTITY  securityView.certView "Vizualizare certificat">
+<!ENTITY  securityView.certView "Vezi certificatul">
 <!ENTITY  securityView.accesskey "V">
 <!ENTITY  securityView.unknown   "Necunoscut">
 
 
-<!ENTITY  securityView.identity.header   "Identitate a site-ului web">
+<!ENTITY  securityView.identity.header   "Identitatea site-ului web">
 <!ENTITY  securityView.identity.owner    "Proprietar:">
 <!ENTITY  securityView.identity.domain   "Site web:">
 <!ENTITY  securityView.identity.verifier "Verificat de:">
