@@ -201,7 +201,7 @@
 <!ENTITY simulator_title "Options du simulateur">
 <!ENTITY simulator_remove "Supprimer le simulateur">
 <!ENTITY simulator_reset "Réinitialiser">
-<!ENTITY simulator_name "Noms">
+<!ENTITY simulator_name "Nom">
 <!ENTITY simulator_software "Logiciel">
 <!ENTITY simulator_version "Version">
 <!ENTITY simulator_profile "Profil">
