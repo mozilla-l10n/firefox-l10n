@@ -718,7 +718,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings in the subview. -->
 
 <!ENTITY identity.description.insecure "ဒီဆိုက်သို့ သင့်ချိတ်ဆက်မှုသည် သီးသန့်ဖြစ်မနေပါ။ သင်ပို့လိုက်သည့် အချက်အလက်များကို အခြားသူများက ကြည့်ရှုနိုင်ပါလိမ့်မည် (စကားဝှက်များ၊ စာတိုများ၊ အကြွေးကတ်များ စသည်)။">
-
+<!ENTITY identity.description.insecureLoginForms "ဒီစာမျက်နှာရှိ သင့်ဝင်ရောက်မှု အချက်အလက်များကို ထည့်သွင်းခြင်းသည် လုံခြုံမှု မရှိနိုင်သလို ခိုးယူခံရနိုင်ပါသည်။">
 <!ENTITY identity.description.weakCipher "ဒီဆိုက်သို့ သင့်ချိတ်ဆက်မှုသည် အားနည်းသည့် ဝှက်စာစနစ်ကို သုံးထားပြီး သီးသန့် ဖြစ်မနေပါ။">
 <!ENTITY identity.description.weakCipher2 "အခြားသူများသည် သင့်အချက်အလက်များကို ကြည့်ရှုနိုင် (သို့) ဝဘ်ဆိုက်၏ ဆောင်ရွက်မှုကို ပြင်ဆင်နိုင်သည်။">
 <!ENTITY identity.description.activeBlocked "&brandShortName; ၏ အစိတ်အပိုင်းတချို့သည် မလုံခြုံသောကြောင့် ၄င်းကို တားဆီးထားသည်။">
@@ -737,7 +737,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.moreInfoLinkText2 "အချက်အလက် ပိုမိုကြည့်ရန်">
 
 <!ENTITY identity.permissions "ပါမစ်ရှင်များ">
-
+<!ENTITY identity.permissionsEmpty "ယခုဆိုက်ဒ်တွင် သင့်အတွက် မည်သည့် အထူးခွင့်ပြုချက်များ သက်မှတ်ပေးထားခြင်းမရှိပါ။">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -748,7 +748,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "ထပ်တူပြုပြိုင်တူအသုံးပြုခြင်း">
 
-
+<!ENTITY syncSignIn.label             "&syncBrand.shortName.label; အားဝင်ပါ">
+<!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "ယခုပဲချိတ်ဆတ်သုံးမည်။">
 <!ENTITY syncSyncNowItem.accesskey    "ယ">
 <!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label; အား ပြန်ဆက်">
