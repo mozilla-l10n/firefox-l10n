@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY certmgr.title                       "Gestionar certificate">
+<!ENTITY certmgr.title                       "Manager de certificate">
 
 <!ENTITY certmgr.tab.mine                     "Certificatele dumneavoastră">
 <!ENTITY certmgr.tab.others2                  "Ale altora">
@@ -42,7 +42,7 @@
 
 <!ENTITY certmgr.deletecert.title             "Ștergere certificat">
 
-<!ENTITY certmgr.certname                     "Nume certificat">
+<!ENTITY certmgr.certname                     "Nume al certificatului">
 <!ENTITY certmgr.certserver                   "Server">
 <!ENTITY certmgr.override_lifetime            "Durată de viață">
 <!ENTITY certmgr.tokenname                    "Dispozitiv de securitate">

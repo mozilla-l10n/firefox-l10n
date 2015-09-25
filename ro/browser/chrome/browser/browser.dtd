@@ -214,7 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "Descărcări">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
-<!ENTITY downloadsUnix.commandkey     "y">
+
 <!ENTITY addons.label                 "Suplimente">
 <!ENTITY addons.accesskey             "S">
 <!ENTITY addons.commandkey            "A">
@@ -279,7 +279,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Închide bara de dezvoltare">
 <!ENTITY devToolbarMenu.label              "Bara de dezvoltare">
 <!ENTITY devToolbarMenu.accesskey          "v">
-<!ENTITY devAppMgrMenu.label               "Gestionar aplicații">
+<!ENTITY devAppMgrMenu.label               "Manager de aplicații">
 <!ENTITY devAppMgrMenu.accesskey           "a">
 <!ENTITY webide.label                      "WebIDE">
 <!ENTITY webide.accesskey                  "W">
@@ -694,7 +694,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "&brandShortName; a blocat elementele nesigure din această pagină.">
-<!ENTITY identity.passiveLoaded "Elemente din această pagină nu sunt sigure (cum ar fi imagini).">
+<!ENTITY identity.passiveLoaded "Părți ale acestei pagini nu sunt sigure (cum ar fi imagini).">
 <!ENTITY identity.activeLoaded "Ați dezactivat protecția pe această pagină.">
 <!ENTITY identity.weakEncryption "Această pagină folosește criptare slabă.">
 <!-- Strings for connection state warnings in the subview. -->
@@ -729,7 +729,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncBrand.shortName.label    "Sincronizare">
 
 <!ENTITY syncSetup.label              "Setare &syncBrand.shortName.label;…">
-<!ENTITY syncSetup.accesskey          "R">
+
 <!ENTITY syncSyncNowItem.label        "Sincronizează acum">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Reconectare la &syncBrand.shortName.label;…">
@@ -744,7 +744,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleSidebar.label "Arată bara laterală">
 <!ENTITY social.toggleSidebar.accesskey "b">
 
-<!ENTITY social.addons.label "Gestionare servicii…">
+<!ENTITY social.addons.label "Gestionează servicii…">
 
 <!ENTITY social.toggleNotifications.label "Arată notificările pe ecran">
 <!ENTITY social.toggleNotifications.accesskey "n">

@@ -142,9 +142,9 @@ cele mai utilizate și populare extensii pentru a vă permite să le încercați
 <!ENTITY detail.updateType                    "Actualizări automate">
 <!ENTITY detail.updateDefault.label           "Implicit">
 <!ENTITY detail.updateDefault.tooltip         "Instalează automat actualizări doar dacă aceasta e setarea implicită">
-<!ENTITY detail.updateAutomatic.label         "Activată">
+<!ENTITY detail.updateAutomatic.label         "Activate">
 <!ENTITY detail.updateAutomatic.tooltip       "Instalează actualizări automat">
-<!ENTITY detail.updateManual.label            "Dezactivată">
+<!ENTITY detail.updateManual.label            "Dezactivate">
 <!ENTITY detail.updateManual.tooltip          "Nu instala actualizările automat">
 <!ENTITY detail.home                          "Pagina de start">
 <!ENTITY detail.repository                    "Profilul suplimentului">

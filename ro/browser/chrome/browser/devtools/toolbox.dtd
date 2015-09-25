@@ -15,11 +15,9 @@
 <!ENTITY toolboxNextTool.key           "]">
 <!ENTITY toolboxPreviousTool.key       "[">
 
-<!ENTITY toolboxZoomIn.key             "+">
 <!-- + is above this key on many keyboards -->
-<!ENTITY toolboxZoomIn.key2            "="> 
-<!ENTITY toolboxZoomOut.key            "-">
-<!ENTITY toolboxZoomReset.key          "0">
+
+
 
 <!ENTITY toolboxReload.key             "r">
 <!-- This key is used with the accel+shift modifiers to minimize the toolbox -->
@@ -85,7 +83,7 @@
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableChrome.label5    "Activează trusele de unelte pentru depanarea chrome a browserului și a suplimentelor">
-<!ENTITY options.enableChrome.tooltip3  "Pornind această opțiune vă va permite să folosiți diverse unelte de dezvoltare în contextul browserului (prin intermediul Unelte -> Dezvoltator web -> Trusa de unelte pentru browser) și să depanați suplimente din Gestionarul de suplimente">
+<!ENTITY options.enableChrome.tooltip3  "Pornind această opțiune vă va permite să folosiți diverse unelte de dezvoltare în contextul browserului (prin intermediul Unelte -> Dezvoltator web -> Trusa de unelte pentru browser) și să depanați suplimente din managerul de suplimente">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
