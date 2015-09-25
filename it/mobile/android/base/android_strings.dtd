@@ -142,6 +142,8 @@
 <!ENTITY pref_cookies_accept_all "Attivi">
 <!ENTITY pref_cookies_not_accept_foreign "Attivi, esclusi di terze parti">
 <!ENTITY pref_cookies_disabled "Disattivati">
+<!ENTITY pref_tap_to_load_images_title "Tocca per caricare immagini">
+<!ENTITY pref_tap_to_load_images_summary "Carica le immagini solo dopo averle toccate">
 <!ENTITY pref_tracking_protection_title "Protezione antitracciamento">
 <!ENTITY pref_tracking_protection_summary3 "Attivata in modalità Navigazione anonima">
 <!ENTITY pref_donottrack_title "Antitracciamento">
