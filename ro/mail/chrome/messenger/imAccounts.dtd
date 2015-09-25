@@ -13,8 +13,8 @@
 <!-- This title must be short, displayed with a big font size -->
 <!ENTITY accountManager.noAccount.title      "Niciun cont configurat încă">
 <!ENTITY accountManager.noAccount.description "Clic pe butonul &accountManager.newAccount.label; pentru a permite &brandShortName; să vă ghideze prin procesul de configurare al acestuia.">
-<!ENTITY account.autoSignOn.label     "Autentificare la pornire">
-<!ENTITY account.autoSignOn.accesskey "A">
+<!ENTITY account.autoSignOn.label     "Autentifică-te la pornire">
+<!ENTITY account.autoSignOn.accesskey "S">
 <!ENTITY account.connect.label        "Conectare">
 <!ENTITY account.connect.accesskey    "C">
 <!ENTITY account.disconnect.label     "Deconectare">
