@@ -112,7 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; အားဝင်ပါ">
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; ၏ အပြင်အဆင်များကို ဖွင့်ပါ">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; အား ပြန်လည် ဆက်သွယ်ပါ">
-
+<!ENTITY fxaUnverified.label "သင့်အကောင့် အားအတည်ပြုပါ။">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; ဖွင့်ထားသှ်">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; စပြီး ချိတ်ဆက် လုပ်ဆောင်နေပြီ ဖြစ်သှ်">
 
@@ -131,12 +131,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY fullscreenWarning.beforeDomain.label "">
-
-
+<!ENTITY fullscreenWarning.afterDomain.label "က မြင်ကွင်း အပြည့် ဖြစ်သွားပါပြီ။">
+<!ENTITY fullscreenWarning.generic.label "ဒီမှတ်တမ်းက မြင်ကွင်း အပြည့် ဖြစ်သွားပါပြီ">
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
-
+<!ENTITY exitDOMFullscreen.button "မြင်ကွင်း အပြည့်မှ ထွက်ရန် (ESC) ခလုတ် ကိုနိုပ်ပါ။">
+<!ENTITY exitDOMFullscreenMac.button "မြင်ကွင်း အပြည့်မှ ထွက်ရန် (ESC) ခလုတ် ကိုနိုပ်ပါ။">
 <!ENTITY leaveDOMFullScreen.label "uမြင်ကွင်းကျယ်မှထွက်ရန်">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
@@ -222,7 +223,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "Dဒေါင်းလုဒ်ရယူမှူများ">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
-
+<!ENTITY downloadsUnix.commandkey     "Y">
 <!ENTITY addons.label                 "Aအတ်အွန်များ">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
@@ -407,9 +408,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "ပိုမိုလေ့လာရန်။">
 
 <!ENTITY urlbar.searchSuggestionsNotification.disable "မလုပ်ဘူး">
-
+<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "ကောင်းပြီ">
-
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "Y">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -466,9 +467,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "ရှာဖွေရေး အပြင်အဆင်များကို ပြောင်းလဲရန်">
 
-
-
-
+<!ENTITY searchInNewTab.label         "စာမျက်နှာ အသစ်တွင် ရှာရန်">
+<!ENTITY searchInNewTab.accesskey     "T">
+<!ENTITY searchSetAsDefault.label     "အဓိက ရှာဖွေရန် နေရာ အဖြစ် သတ်မှတ် ရန်။">
+<!ENTITY searchSetAsDefault.accesskey "D">
 
 <!ENTITY tabView.commandkey           "e">
 
