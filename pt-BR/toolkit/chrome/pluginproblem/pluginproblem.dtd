@@ -21,7 +21,7 @@
 
 <!ENTITY reloadPlugin.pre                                    "">
 
-
+<!ENTITY reloadPlugin.post                                   " para tentar novamente.">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
 
 
