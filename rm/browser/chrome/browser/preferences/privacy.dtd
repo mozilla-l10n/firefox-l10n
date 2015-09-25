@@ -4,12 +4,8 @@
 
 <!ENTITY tracking.label                 "Fastizar">
 
-<!ENTITY dntTrackingNotOkay.label2      "Infurmar websites ch'jau na vul betg ch'ellas suondan mes fastizs">
-<!ENTITY dntTrackingNotOkay.accesskey   "n">
-<!ENTITY trackingProtection.label       "Impedir che paginas suondian mes fastizs">
-<!ENTITY trackingProtection.accesskey   "m">
+<!ENTITY doNotTrackInfo.label          "Dapli infurmaziuns">
 <!ENTITY trackingProtectionLearnMore.label "Dapli infurmaziuns">
-<!ENTITY doNotTrackInfo.label           "Dapli infurmaziuns">
 
 <!ENTITY  history.label                 "Cronologia">
 
@@ -22,6 +18,7 @@
 <!ENTITY  locbar.bookmarks.accesskey    "g">
 <!ENTITY  locbar.openpage.label         "Tabs averts">
 <!ENTITY  locbar.openpage.accesskey     "b">
+
 
 <!ENTITY  acceptCookies.label           "Acceptar ils cookies">
 <!ENTITY  acceptCookies.accesskey       "c">
@@ -44,7 +41,6 @@
 
 <!ENTITY  showCookies.label             "Mussar ils cookies…">
 <!ENTITY  showCookies.accesskey         "o">
-
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; vegn a far il suandant:">
 <!ENTITY  historyHeader.pre.accesskey      "v">

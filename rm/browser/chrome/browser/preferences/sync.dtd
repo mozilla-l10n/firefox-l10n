@@ -16,7 +16,6 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Administrar il conto">
 <!ENTITY manageAccount.accesskey      "A">
-<!ENTITY viewQuota.label              "Mussar la quota">
 <!ENTITY changePassword2.label        "Midar il pled-clav…">
 <!ENTITY myRecoveryKey.label          "Mia clav da restauraziun">
 <!ENTITY resetSync2.label             "Redefinir Sync…">
@@ -26,8 +25,6 @@
 <!ENTITY syncMy.label               "Sincronisar">
 <!ENTITY engine.bookmarks.label     "ils segnapaginas">
 <!ENTITY engine.bookmarks.accesskey "g">
-<!ENTITY engine.readinglist.label   "la glista da lectura">
-<!ENTITY engine.readinglist.accesskey "l">
 <!ENTITY engine.tabs.label          "ils tabs">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "la cronologia">
@@ -42,7 +39,7 @@
 <!-- Device Settings -->
 <!ENTITY syncDeviceName.label       "Num da l'apparat:">
 <!ENTITY syncDeviceName.accesskey   "m">
-<!ENTITY unlinkDevice.label         "Distatgar quest apparat">
+<!ENTITY unlinkDevice.label           "Distatgar quest apparat">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Contract da licenza">
@@ -70,7 +67,6 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Ti n'es betg annunzià.">
 <!ENTITY signIn.label                "S'annunziar">
-<!ENTITY manage.label                "Administrar">
 <!ENTITY disconnect.label            "Deconnectar">
 <!ENTITY verify.label                "Verifitgar l'adressa dad e-mail">
 <!ENTITY forget.label                "Emblidar questa adressa dad e-mail">
@@ -80,3 +76,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY welcome.createAccount.label "Crear in conto">
 
 <!ENTITY welcome.useOldSync.label "Utiliseschas ina versiun pli veglia da Sync?">
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
