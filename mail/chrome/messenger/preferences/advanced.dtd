@@ -103,7 +103,7 @@
 <!ENTITY enableOCSP.label                "Interoghează serverele de răspuns OCSP pentru confirmarea valabilității actuale a certificatelor">
 <!ENTITY enableOCSP.accesskey            "e">
 
-<!ENTITY viewCertificates.label         "Vizualizare certificate">
-<!ENTITY viewCertificates.accesskey     "a">
+<!ENTITY viewCertificates.label         "Vezi certificatele">
+<!ENTITY viewCertificates.accesskey     "c">
 <!ENTITY viewSecurityDevices.label      "Dispozitive de securitate">
 <!ENTITY viewSecurityDevices.accesskey  "u">
