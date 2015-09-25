@@ -26,7 +26,7 @@
 <!ENTITY projectMenu_showPrefs_accesskey "s">
 <!ENTITY projectMenu_manageComponents_label "Ekstrakomponenty zastojaś">
 <!ENTITY projectMenu_manageComponents_accesskey "E">
-
+<!ENTITY projectMenu_refreshTabs_label "Rejtarki aktualizěrowaś">
 
 <!ENTITY runtimeMenu_label "Běžny cas">
 <!ENTITY runtimeMenu_accesskey "B">
@@ -154,7 +154,7 @@
 
 <!ENTITY device_typeboolean "Boolean">
 <!ENTITY device_typenumber "Integer">
-<!ENTITY device_typestring "&amp;String">
+<!ENTITY device_typestring "String">
 <!ENTITY device_typeobject "Objekt">
 <!ENTITY device_typenone "Typ wubraś">
 <!-- Device Preferences -->
