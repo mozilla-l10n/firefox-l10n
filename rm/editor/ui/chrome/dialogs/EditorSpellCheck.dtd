@@ -28,8 +28,6 @@
 <!ENTITY addToUserDictionaryButton.accessKey "A">
 <!ENTITY editUserDictionaryButton.label "Modifitgar…">
 <!ENTITY editUserDictionaryButton.accessKey "M">
-<!ENTITY recheckButton.label "Controllar anc ina giada la pagina">
-<!ENTITY recheckButton.accessKey "C">
 <!ENTITY closeButton.label "Serrar">
 <!ENTITY closeButton.accessKey "S">
 <!ENTITY sendButton.label "Trametter">

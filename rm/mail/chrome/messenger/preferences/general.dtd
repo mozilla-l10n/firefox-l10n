@@ -6,7 +6,7 @@
 <!ENTITY enableStartPage.label            "Mussar la pagina da partenza sche &brandShortName; vegn avià">
 <!ENTITY enableStartPage.accesskey        "P">
 <!ENTITY location.label                   "Adressa:">
-<!ENTITY location1.accesskey              "A">
+<!ENTITY location1.accesskey               "A">
 <!ENTITY useDefault.label                 "Restaurar il standard">
 <!ENTITY useDefault.accesskey             "R">
 
@@ -16,7 +16,7 @@
 
 <!ENTITY newMessagesArrive.label          "Sche in nov messadi arriva:">
 <!ENTITY playSound.label                  "Far ir in tun">
-<!ENTITY playSound1.accesskey             "F">
+<!ENTITY playSound1.accesskey              "F">
 <!ENTITY showAnimatedAlert.label          "Mussar in avis">
 <!ENTITY showAnimatedAlert.accesskey      "S">
 <!ENTITY customizeMailAlert.label         "Modifitgar…">

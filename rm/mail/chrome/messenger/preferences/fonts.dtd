@@ -46,13 +46,11 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
 <!ENTITY  font.langGroup.khmer                    "Khmer">
 <!ENTITY  font.langGroup.malayalam                "Malajalam">
-
 <!ENTITY  font.langGroup.oriya                    "Oriya">
 <!ENTITY  font.langGroup.telugu                   "Telugu">
 <!ENTITY  font.langGroup.kannada                  "Cannada">
 <!ENTITY  font.langGroup.sinhala                  "Singalais">
 <!ENTITY  font.langGroup.tibetan                  "Tibetan">
-
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Grondezza minimala da la scrittira:">
 <!ENTITY minSize.accesskey                        "z">

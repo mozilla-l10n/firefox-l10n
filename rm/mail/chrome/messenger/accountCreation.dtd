@@ -28,7 +28,7 @@
 <!ENTITY ssl.label                       "SSL">
 <!ENTITY auth.label                      "Autentificaziun">
 <!ENTITY imap.label                      "IMAP">
-<!ENTITY pop3.label                      "POP3">
+<!ENTITY pop3.label                       "POP3">
 <!ENTITY smtp.label                      "SMTP">
 <!ENTITY autodetect.label                "Determinaziun automatica">
 <!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
@@ -56,6 +56,7 @@
 <!ENTITY switch-to-provisioner.label     "Ir per in nov conto">
 <!ENTITY switch-to-provisioner.accesskey "O">
 
+
 <!ENTITY warning.label                   "Attenziun!">
 <!ENTITY incomingSettings.label          "Parameters da l'entrada:">
 <!ENTITY outgoingSettings.label          "Parameters da la sortida:">
@@ -65,7 +66,7 @@
      checkbox beside this text before continuing. -->
 <!ENTITY confirmWarning.label            "Jau chapesch las ristgas.">
 <!ENTITY confirmWarning.accesskey        "u">
-<!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
+<!-- LOCALIZATION NOTE (doneAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
 <!ENTITY doneAccount.label               "Terminar">

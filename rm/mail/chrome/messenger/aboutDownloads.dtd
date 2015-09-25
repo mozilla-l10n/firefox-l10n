@@ -17,5 +17,3 @@
 <!ENTITY cmd.open.accesskey                        "A">
 <!ENTITY cmd.removeFromHistory.label               "Allontanar da la cronologia">
 <!ENTITY cmd.removeFromHistory.accesskey           "l">
-<!ENTITY cmd.clearDownloads.label                  "Svidar la glista da telechargiadas">
-<!ENTITY cmd.clearDownloads.accesskey              "d">

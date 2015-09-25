@@ -15,7 +15,7 @@
 <!ENTITY folderRebuildSummaryFile.explanation    "I po capitar che la datoteca dad index dals ordinaturs (.msf) vegn donnegiada. Sco consequenza pon messadis apparentamain sparir u messadis stizzads vegnir mussads vinavant. Cun reparar ils ordinaturs pon quests problems probablamain vegnir schliads.">
 <!ENTITY folderIncludeInGlobalSearch.label       "Includer ils messadis en quest ordinatur en ils resultats da tschertgas globalas">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "I">
-     
+
 <!ENTITY retention.label "Reglas da retenziun">
 <!ENTITY retentionUseAccount.label  "Utilisar mias configuraziuns da conto">
 <!ENTITY retentionUseAccount.accesskey "U">

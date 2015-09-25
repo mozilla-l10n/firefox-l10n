@@ -84,7 +84,6 @@
 
 <!ENTITY accountTitle.label "Configuraziun dal conto">
 <!ENTITY accountSettingsDesc.label "Il suandant conto è in conto spezial. Naginas identitads èn associadas cun el.">
-
 <!ENTITY storeType.label "Metoda per memorisar messadis:">
 <!ENTITY storeType.accesskey "T">
 <!ENTITY mboxStore2.label "Ina datoteca per ordinatur (mbox)">

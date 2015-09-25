@@ -3,10 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title                        "Cudeschet d'adressas">
-
 <!ENTITY blankResultsPaneMessage.label                  "Quest cudeschet d'adressas mussa mo contacts suenter ina tschertga">
 <!ENTITY localResultsOnlyMessage.label                  "Contacts da cudeschets d'adressas lontans vegnan mo mussads sche ti als tschertgas">
-
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Datoteca">
 <!ENTITY fileMenu.accesskey                             "D">
@@ -150,7 +148,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY editButton2.tooltip                            "Modifitgar l'element tschernì">
 <!ENTITY newmsgButton.tooltip                           "Scriver in nov e-mail">
 <!ENTITY newIM.tooltip                                  "Scriver in nov messadi immediat (instant message) u in nov chat">
-<!ENTITY deleteButton2.tooltip                          "Stizzar l'element tschernì">
+<!ENTITY deleteButton2.tooltip                           "Stizzar l'element tschernì">
 
 <!-- Dir Tree header -->
 <!ENTITY dirTreeHeader.label                            "Cudeschets d'adressas">
@@ -160,7 +158,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY SearchNameOrEmail.accesskey                    "N">
 <!ENTITY advancedButton.tooltip                         "Tschertga d'adressas avanzada">
 <!ENTITY quickSearchCmd.key                             "k">
-<!ENTITY searchItem.title                               "Tschertga svelta">
+<!ENTITY searchItem.title "Tschertga svelta">
 
 <!-- Results Pane -->
 <!ENTITY Addrbook.label                                 "Cudeschet d'adressas">

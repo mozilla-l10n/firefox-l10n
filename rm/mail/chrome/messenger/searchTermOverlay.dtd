@@ -9,7 +9,7 @@
 <!ENTITY matchAllMsgs.label     "Nagins criteris">
 <!ENTITY matchAllMsgs.accesskey "N">
 
-<!-- LOCALIZATION NOTE  
+<!-- LOCALIZATION NOTE
   The values below are used to control the widths of the search widgets.
   Change the values only when the localized strings in the popup menus
   are truncated in the widgets.

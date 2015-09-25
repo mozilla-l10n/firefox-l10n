@@ -52,10 +52,10 @@
 <!ENTITY AllTagsMode.accesskey "a">
 <!ENTITY AllTagsMode.tooltip "Mussar simbols per tut ils tags da HTML">
 <!-- LOCALIZATION NOTE: (HTMLSourceModeTab.dir, HTMLSourceModeTab.label)
-Do NOT translate text for 'HTMLSourceModeTab.dir', use latin "ltr" if
-you want the <html> image to left of the 'HTMLSourceModeTab.label' text,
-or use latin "rtl" if you want this image to the right of text. You do
-not need to include HTML in the label 'HTMLSourceModeTab.label' -->
+     Do NOT translate text for 'HTMLSourceModeTab.dir', use latin "ltr" if
+     you want the <html> image to left of the 'HTMLSourceModeTab.label' text,
+     or use latin "rtl" if you want this image to the right of text. You do
+     not need to include HTML in the label 'HTMLSourceModeTab.label' -->
 <!ENTITY HTMLSourceModeTab.dir "ltr">
 <!ENTITY HTMLSourceModeTab.label "Funtauna">
 <!ENTITY HTMLSourceMode.label "Code da funtauna">
@@ -65,5 +65,3 @@ not need to include HTML in the label 'HTMLSourceModeTab.label' -->
 <!ENTITY PreviewMode.label "Prevista">
 <!ENTITY PreviewMode.accesskey "P">
 <!ENTITY PreviewMode.tooltip "Visualisar a moda WYSIWYG (sco en il navigatur)">
-
-

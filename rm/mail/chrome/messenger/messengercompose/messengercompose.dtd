@@ -6,7 +6,7 @@
 <!ENTITY msgComposeWindow.title "Scriver: (nagin object)">
 
 <!-- File Menu -->
-<!ENTITY fileMenu.label "Datoteca"> 
+<!ENTITY fileMenu.label "Datoteca">
 <!ENTITY fileMenu.accesskey "D">
 <!ENTITY newMenu.label "Nov">
 <!ENTITY newMenu.accesskey "N">
@@ -59,20 +59,20 @@
 <!ENTITY printCmd.accesskey "P">
 
 <!-- Edit Menu -->
-<!ENTITY editMenu.label "Modifitgar"> 
+<!ENTITY editMenu.label "Modifitgar">
 <!ENTITY editMenu.accesskey "M">
 <!ENTITY undoCmd.label "Revocar">
 <!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "v"> 
+<!ENTITY undoCmd.accesskey "v">
 <!ENTITY redoCmd.label "Restituir">
 <!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "s"> 
+<!ENTITY redoCmd.accesskey "s">
 <!ENTITY cutCmd.label "Tagliar ora">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "t"> 
+<!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "Copiar">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "C"> 
+<!ENTITY copyCmd.accesskey "C">
 <!ENTITY pasteCmd.label "Encollar">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "E">
@@ -87,7 +87,7 @@
 <!ENTITY renameAttachmentCmd.accesskey "e">
 <!ENTITY selectAllCmd.label "Marcar tut">
 <!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "A"> 
+<!ENTITY selectAllCmd.accesskey "A">
 <!ENTITY findBarCmd.label "Tschertgar…">
 <!ENTITY findBarCmd.accesskey "F">
 <!ENTITY findBarCmd.key "F">
@@ -104,10 +104,10 @@
 <!ENTITY findPrevCmd.key2 "VK_F3">
 
 <!-- View Menu -->
-<!ENTITY viewMenu.label "Vista"> 
+<!ENTITY viewMenu.label "Vista">
 <!ENTITY viewMenu.accesskey "V">
-<!ENTITY viewToolbarsMenuNew.label "Travs d'utensils"> 
-<!ENTITY viewToolbarsMenuNew.accesskey "T"> 
+<!ENTITY viewToolbarsMenuNew.label "Travs d'utensils">
+<!ENTITY viewToolbarsMenuNew.accesskey "T">
 <!ENTITY menubarCmd.label "Trav da menu">
 <!ENTITY menubarCmd.accesskey "m">
 <!ENTITY showCompositionToolbarCmd.label "Trav d'utensils per rediger">
@@ -119,8 +119,8 @@
 <!ENTITY customizeToolbar.label "Modifitgar…">
 <!ENTITY customizeToolbar.accesskey "M">
 
-<!ENTITY addressSidebar.label "Trav laterala da contacts"> 
-<!ENTITY addressSidebar.accesskey "o"> 
+<!ENTITY addressSidebar.label "Trav laterala da contacts">
+<!ENTITY addressSidebar.accesskey "o">
 
 <!-- Format Menu -->
 <!ENTITY formatMenu.label "Format">
@@ -188,13 +188,13 @@
 <!ENTITY preferencesCmd2.label "Preferenzas">
 <!ENTITY preferencesCmd2.accesskey "P">
 <!ENTITY preferencesCmdUnix.label "Preferenzas">
-<!ENTITY preferencesCmdUnix.accesskey "P"> 
+<!ENTITY preferencesCmdUnix.accesskey "P">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Minimar">
 <!ENTITY bringAllToFront.label "Prender tuts enavant">
-<!ENTITY zoomWindow.label "Zoom"> 
+<!ENTITY zoomWindow.label "Zoom">
 <!ENTITY windowMenu.label "Fanestra">
 
 <!-- Mail Toolbar -->
@@ -207,13 +207,13 @@
 <!ENTITY printButton.label "Stampar">
 
 <!-- Mail Toolbar Tooltips -->
-<!ENTITY sendButton.tooltip "Trametter quest messadi ussa"> 
-<!ENTITY sendlaterButton.tooltip "Trametter quest messadi pli tard"> 
-<!ENTITY quoteButton.tooltip "Citar il messadi precedent"> 
-<!ENTITY addressButton.tooltip "Tscherner in destinatur ord in cudeschet d'adressas"> 
-<!ENTITY attachButton.tooltip "Includer ina agiunta"> 
+<!ENTITY sendButton.tooltip "Trametter quest messadi ussa">
+<!ENTITY sendlaterButton.tooltip "Trametter quest messadi pli tard">
+<!ENTITY quoteButton.tooltip "Citar il messadi precedent">
+<!ENTITY addressButton.tooltip "Tscherner in destinatur ord in cudeschet d'adressas">
+<!ENTITY attachButton.tooltip "Includer ina agiunta">
 <!ENTITY spellingButton.tooltip "Controllar l'ortografia da la part selecziunada u da l'entir messadi">
-<!ENTITY saveButton.tooltip "Memorisar quest messadi"> 
+<!ENTITY saveButton.tooltip "Memorisar quest messadi">
 <!ENTITY cutButton.tooltip              "Tagliar ora">
 <!ENTITY copyButton.tooltip             "Copiar">
 <!ENTITY pasteButton.tooltip            "Encollar">
@@ -225,12 +225,12 @@
 <!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "Da:">
 <!ENTITY fromAddr.accesskey "D">
-<!ENTITY toAddr.label "a:"> 
-<!ENTITY ccAddr.label "cc:"> 
-<!ENTITY bccAddr.label "bcc:"> 
-<!ENTITY replyAddr.label "Resposta a:"> 
-<!ENTITY newsgroupsAddr.label "Gruppa da discussiun:"> 
-<!ENTITY followupAddr.label "Followup-To:"> 
+<!ENTITY toAddr.label "a:">
+<!ENTITY ccAddr.label "cc:">
+<!ENTITY bccAddr.label "bcc:">
+<!ENTITY replyAddr.label "Resposta a:">
+<!ENTITY newsgroupsAddr.label "Gruppa da discussiun:">
+<!ENTITY followupAddr.label "Followup-To:">
 <!ENTITY subject.label "Object:">
 <!ENTITY subject.accesskey "O">
 <!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
