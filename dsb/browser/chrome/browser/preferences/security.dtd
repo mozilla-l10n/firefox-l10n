@@ -24,7 +24,10 @@
 <!ENTITY  addonExceptions.accesskey     "W">
 
 
+<!ENTITY  logins.label                  "Pśizjawjenja">
 
+<!ENTITY  rememberLogins.label          "Pśizjawjenja za sedła se spomnjeś">
+<!ENTITY  rememberLogins.accesskey      "P">
 <!ENTITY  passwordExceptions.label      "Wuwześa…">
 <!ENTITY  passwordExceptions.accesskey  "u">
 
@@ -33,4 +36,5 @@
 <!ENTITY  changeMasterPassword.label     "Głowne gronidło změniś…">
 <!ENTITY  changeMasterPassword.accesskey "m">
 
-
+<!ENTITY  savedLogins.label              "Skłaźone pśizjawjenja…">
+<!ENTITY  savedLogins.accesskey          "S">
