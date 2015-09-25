@@ -14,8 +14,8 @@
 
 <!ENTITY pref.weekstarts.label "Săptămâna începe:">
 <!ENTITY pref.weekstarts.accesskey "S">
-
-
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Afișează numărul săptămânii în vizualizări și minilună">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "z">
 <!ENTITY pref.daysoff.label "Săptămâna de lucru este formată din zilele:">
 
 <!ENTITY pref.calendar.view.daystart.label "Ziua începe la:">
