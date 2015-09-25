@@ -44,7 +44,7 @@
 <!ENTITY connection.disconnect "Байланысты үзу">
 <!ENTITY connection.disconnectTooltip "Ағымдағы құрылғы не симулятормен байланысты үзу">
 <!ENTITY connection.notConnected2 "Байланыс жоқ.">
-<!ENTITY connection.connectTo "Келесіге қосылу:">
+<!ENTITY connection.connectTo "Келесіге байланысу:">
 <!ENTITY connection.noDeviceFound "Құрылғы табылмады. Құрылғыны салыңыз">
 <!ENTITY connection.changeHostAndPort "Өзгерту">
 <!ENTITY connection.changeHostAndPortTooltip "Құрылғыға байланысу үшін қолданылатын хост және портты ауыстыру (Бастапқы мәні localhost:6000)">
