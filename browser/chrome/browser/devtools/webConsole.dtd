@@ -52,9 +52,9 @@
 <!ENTITY btnPageLogging.tooltip "Jurnal mesaje trimise la obiectul window.console">
 <!ENTITY btnPageLogging.accesskey3 "L">
 
-
-
-
+<!ENTITY btnConsoleInfo         "Informații">
+<!ENTITY btnConsoleWarnings     "Avertismente">
+<!ENTITY btnConsoleLog          "Jurnal">
 <!ENTITY btnConsoleXhr          "XHR">
 <!ENTITY btnConsoleReflows      "Reflows">
 <!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
