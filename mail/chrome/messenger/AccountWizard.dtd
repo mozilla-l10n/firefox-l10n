@@ -86,7 +86,6 @@
 -->
 <!ENTITY haveSmtp1.prefix "Tes server existent per messadis che sortan (SMTP), &quot;">
 <!ENTITY haveSmtp1.suffix3 "&quot;, vegn a vegnir utilisà. ">
-
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.

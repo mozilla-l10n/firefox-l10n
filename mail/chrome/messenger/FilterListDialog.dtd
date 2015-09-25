@@ -34,5 +34,8 @@
 <!ENTITY folderPickerPrefix.accesskey "c">
 <!ENTITY helpButton.label "Agid">
 <!ENTITY helpButton.accesskey "A">
-<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.key "W"> 
 <!ENTITY searchBox.emptyText "Tschertgar filters tenor num…">
+
+
+

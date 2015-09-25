@@ -59,7 +59,7 @@
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Tscherner las colonnas per mussar">
-<!ENTITY threadColumn2.tooltip "Mussar gruppà tenor tema"> 
+<!ENTITY threadColumn2.tooltip "Mussar gruppà tenor tema">
 <!ENTITY fromColumn2.tooltip "Zavrar tenor speditur">
 <!ENTITY recipientColumn2.tooltip "Zavrar tenor destinatur">
 <!ENTITY correspondentColumn2.tooltip "Zavrar tenor correspundents">

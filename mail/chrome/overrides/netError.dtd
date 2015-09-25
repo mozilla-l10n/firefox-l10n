@@ -96,6 +96,7 @@
 <p>Possessurs da websites che crain che lur site saja vegnida annunziada per sbagl sco website attatganta pon far ina <a href='http://www.stopbadware.org/home/reviewinfo'>dumonda da reponderaziun</a>.</p>
 ">
 
+
 <!ENTITY phishingBlocked.title "Suspect d'engion da web!">
 <!ENTITY phishingBlocked.longDesc "<p>Sche ti endateschas qua datas persunalas, stos ti far quint cun ladernitsch d'identitad u autras furmas d'engion.</p> 
 <p>Questas furmas da falsificaziun en il web vegnan utilisadas per emprovas d'engion ch'ins numna &quot;attatgas da phishing&quot;. Criminals cun l'intenziun d'engianar emprovan uschia d'imitar paginas d'internet u e-mails che inspiran confidenza.</p>">
@@ -105,6 +106,7 @@
 
 <!ENTITY corruptedContentError.title "Errur: Cuntegn donnegià">
 <!ENTITY corruptedContentError.longDesc "<p>Il cuntegn che ti emprovas da contemplar na po betg vegnir mussà pervia dad ina errur en las datas tramessas.</p><ul><li>Contactescha per plaschair il possessur per l'infurmar davart quest problem.</li></ul>">
+
 <!ENTITY securityOverride.linkText "Ti pos era agiuntar ina regla d'excepziun...">
 <!ENTITY securityOverride.getMeOutOfHereButton "Bandunar questa pagina">
 <!ENTITY securityOverride.exceptionButtonLabel "Agiuntar in'excepziun...">

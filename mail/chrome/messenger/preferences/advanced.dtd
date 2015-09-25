@@ -4,7 +4,6 @@
 
 <!ENTITY itemGeneral.label       "General">
 <!ENTITY dataChoicesTab.label    "Decisiuns da datas">
-<!ENTITY itemDisplay.label       "Leger &amp; vista">
 <!ENTITY itemUpdate.label        "Exequir l'actualisaziun">
 <!ENTITY itemNetworking.label    "Rait &amp; capacitad da memorisar">
 <!ENTITY itemCertificates.label  "Certificats">
@@ -14,7 +13,6 @@
 <!ENTITY enableGlodaSearch.accesskey   "E">
 <!ENTITY allowHWAccel.label            "Utilisar sche pussaivel l'acceleraziun cun hardware da grafica">
 <!ENTITY allowHWAccel.accesskey        "h">
-
 <!ENTITY storeType.label               "Message Store Type for new accounts:">
 <!ENTITY storeType.accesskey           "T">
 <!ENTITY mboxStore2.label              "Ina datoteca per ordinatur (mbox)">
@@ -52,32 +50,6 @@
 <!ENTITY enableCrashReporter.label       "Activar il rapportader da collaps">
 <!ENTITY enableCrashReporter.accesskey   "c">
 <!ENTITY crashReporterLearnMore.label    "Ulteriuras infurmaziuns">
-
-<!-- Display and Reading Settings -->
-<!ENTITY reading.caption               "Leger">
-<!ENTITY display.caption               "Vista">
-<!ENTITY showCondensedAddresses.label  "Mussar mo il num per mussar da persunas en mes cudeschet d'adressas">
-<!ENTITY showCondensedAddresses.accesskey "S">
-
-<!ENTITY autoMarkAsRead.label          "Marcar automaticamain ils messadis sco legids">
-<!ENTITY autoMarkAsRead.accesskey      "A">
-<!ENTITY markAsReadNoDelay.label       "Immediatamain cun mussar">
-<!ENTITY markAsReadNoDelay.accesskey   "I">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label         "Suenter avair mussà durant">
-<!ENTITY markAsReadDelay.accesskey     "d">
-<!ENTITY secondsLabel.label            "secundas">
-<!ENTITY openMsgIn.label               "Avrir messadis en:">
-<!ENTITY openMsgInNewTab.label         "In nov tab">
-<!ENTITY openMsgInNewTab.accesskey     "t">
-<!ENTITY reuseExpRadio0.label          "Ina nova fanestra">
-<!ENTITY reuseExpRadio0.accesskey      "n">
-<!ENTITY reuseExpRadio1.label          "Ina fanestra existenta">
-<!ENTITY reuseExpRadio1.accesskey      "e">
-<!ENTITY closeMsgOnMoveOrDelete.label  "Serrar la fanestra/il tab dal messadi cun spustar u stizzar">
-<!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
 
 <!-- Update -->
 <!ENTITY updateApp.label                 "Actualisaziuns da &brandShortName;:">
