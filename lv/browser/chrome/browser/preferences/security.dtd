@@ -24,7 +24,10 @@
 <!ENTITY  addonExceptions.accesskey     "I">
 
 
+<!ENTITY  logins.label                  "Lietotājvārds">
 
+<!ENTITY  rememberLogins.label          "Atcerēties lapu paroles">
+<!ENTITY  rememberLogins.accesskey      "r">
 <!ENTITY  passwordExceptions.label      "Izņēmumi...">
 <!ENTITY  passwordExceptions.accesskey  "z">
 
@@ -33,4 +36,5 @@
 <!ENTITY  changeMasterPassword.label     "Nomainīt galveno paroli...">
 <!ENTITY  changeMasterPassword.accesskey "m">
 
-
+<!ENTITY  savedLogins.label              "Saglabātās paroles…">
+<!ENTITY  savedLogins.accesskey          "l">
