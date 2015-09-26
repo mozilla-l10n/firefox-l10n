@@ -28,6 +28,7 @@
 <!ENTITY options.showUserAgentStyles.tooltip "Attivando questa opzione verranno visualizzati gli stili predefiniti caricati dal browser.">
 <!ENTITY options.defaultColorUnit.label "Unità predefinita colori:">
 <!ENTITY options.defaultColorUnit.accesskey "U">
+<!ENTITY options.defaultColorUnit.authored "come l’originale">
 <!ENTITY options.defaultColorUnit.hex "esadecimale">
 <!ENTITY options.defaultColorUnit.hsl "HSL(A)">
 <!ENTITY options.defaultColorUnit.rgb "RGB(A)">
