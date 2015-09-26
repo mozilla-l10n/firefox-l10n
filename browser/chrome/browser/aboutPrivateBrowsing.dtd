@@ -15,7 +15,7 @@
      -->
 
 <!ENTITY aboutPrivateBrowsing.width1           "30em">
-<!ENTITY aboutPrivateBrowsing.title            "Сега браузвате в поверителен режим">
+<!ENTITY aboutPrivateBrowsing.title            "Браузвате в поверителен режим">
 
 <!ENTITY aboutPrivateBrowsing.info.notsaved    "Забравят се">
 <!ENTITY aboutPrivateBrowsing.info.history     "История">
