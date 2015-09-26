@@ -692,7 +692,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "&brandShortName; bu sayfanın güvenli olmayan kısımlarını engelledi.">
-<!ENTITY identity.passiveLoaded "Bu safanın bazı kısımları (örneğin resimler) güvenli değil.">
+<!ENTITY identity.passiveLoaded "Bu sayfanın bazı kısımları (örneğin resimler) güvenli değil.">
 <!ENTITY identity.activeLoaded "Bu sayfada korumayı devre dışı bıraktınız.">
 <!ENTITY identity.weakEncryption "Bu sayfada zayıf şifreleme kullanılıyor.">
 <!-- Strings for connection state warnings in the subview. -->
