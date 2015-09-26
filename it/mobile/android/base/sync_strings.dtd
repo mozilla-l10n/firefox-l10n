@@ -147,6 +147,7 @@
 <!ENTITY fxaccount_status_linktos "Condizioni di utilizzo del servizio">
 <!ENTITY fxaccount_status_linkprivacy "Informativa sulla privacy">
 <!ENTITY fxaccount_status_more "Altro&ellipsis;">
+<!ENTITY fxaccount_remove_account "Disconnessione…">
 <!ENTITY fxaccount_remove_account_dialog_title "Rimuovere questo account?">
 <!ENTITY fxaccount_remove_account_dialog_message "La sincronizzazione di &brandShortName; per questo account verrà interrotta ma non verrà eliminato alcun dato di navigazione da questo dispositivo.">
 <!ENTITY fxaccount_remove_account_toast "Rimosso account Firefox &formatS;.">
