@@ -815,7 +815,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.title "Защита от проследяване">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; блокира части от страницата, които биха могли да проследяват вашето браузване.">
-<!ENTITY trackingProtection.detectedNotBlocked3 "Този сайт включва елементи, които бига могли да проследяват вашето браузване. Защитата от проследяване е изключена.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "Този сайт включва елементи, които биха могли да проследяват вашето браузване. Защитата от проследяване е изключена.">
 <!ENTITY trackingProtection.notDetected3 "Не са открити проследяващи елементи в страницата.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
