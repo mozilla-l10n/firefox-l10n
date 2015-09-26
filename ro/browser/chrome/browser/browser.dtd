@@ -109,7 +109,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Arată toate filele">
 <!ENTITY showAllTabsCmd.accesskey "A">
 
-<!ENTITY fxaSignIn.label "Autentificare la &syncBrand.shortName.label;">
+<!ENTITY fxaSignIn.label "Autentifică-te la &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Deschide preferințele &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Reconectare la &syncBrand.shortName.label;">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; activat">
@@ -361,7 +361,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY appMenuCustomize.label "Personalizare">
 <!ENTITY appMenuCustomize.tooltip "Personalizează meniul și bara de unelte">
-<!ENTITY appMenuCustomizeExit.label "Ieșire din personalizare">
+<!ENTITY appMenuCustomizeExit.label "Ieși din personalizare">
 <!ENTITY appMenuCustomizeExit.tooltip "Finalizează personalizarea">
 <!ENTITY appMenuHistory.label "Istoric">
 <!ENTITY appMenuHistory.showAll.label "Arată tot istoricul">
