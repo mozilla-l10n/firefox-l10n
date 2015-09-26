@@ -145,9 +145,12 @@
 <!ENTITY pref_tap_to_load_images_title "Tocca per caricare immagini">
 <!ENTITY pref_tap_to_load_images_summary2 "Carica le immagini solo dopo aver tenuto premuto a lungo">
 <!ENTITY pref_tracking_protection_title "Protezione antitracciamento">
-<!ENTITY pref_tracking_protection_summary3 "Attivata in modalità Navigazione anonima">
+<!ENTITY pref_tracking_protection_summary3 "Attiva in modalità Navigazione anonima">
 <!ENTITY pref_donottrack_title "Antitracciamento">
 <!ENTITY pref_donottrack_summary "Richiedi ai siti di non effettuare alcun tracciamento">
+<!ENTITY pref_tracking_protection_enabled "Attiva">
+<!ENTITY pref_tracking_protection_enabled_pb "Attiva in modalità Navigazione anonima">
+<!ENTITY pref_tracking_protection_disabled "Disattivata">
 <!ENTITY tracking_protection_prompt_title "Ora con protezione antitracciamento">
 <!ENTITY tracking_protection_prompt_text "Blocca in modo attivo gli elementi traccianti, rimuovendo ogni preoccupazione per l’utente.">
 <!ENTITY tracking_protection_prompt_tip_text "Per ulteriori informazioni visita la sezione Privacy delle impostazioni">
