@@ -8,7 +8,7 @@
 <!ENTITY searchResultConversation.label "Canlyniadau chwilio">
 <!ENTITY chat.noConv.title             "Bydd trafodaethau'n cael eu dangos yn fan hyn.">
 <!ENTITY chat.noConv.description       "Defnyddiwch y rhestr cysylltiadau yn y panel ar y chwith er mwyn cychwyn trafodaeth.">
-<!ENTITY chat.noPreviousConv.description       "Ar hyn o bryd, nid oes gan &brandShortName; unrhyw drafodaethau blaenorol wedi'u storio ar gyfer y cysylltiad yma.">
+<!ENTITY chat.noPreviousConv.description       "Nid oes gan &brandShortName; unrhyw drafodaethau blaenorol wedi eu cadw gyda'r cysylltiad yma.">
 <!ENTITY chat.noAccount.title             "Nid ydych wedi creu cyfrif sgwrsio eto.">
 <!ENTITY chat.noAccount.description       "Gadewch i &brandShortName; eich tywys drwy'r broses o greu cyfrif sgwrsio.">
 <!ENTITY chat.accountWizard.button       "Cychwyn arni">
