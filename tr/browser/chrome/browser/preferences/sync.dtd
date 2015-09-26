@@ -72,7 +72,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY notSignedIn.label           "Oturum açmadınız.">
 <!ENTITY signIn.label                "Oturum aç">
 <!ENTITY profilePicture.tooltip      "Profil resmini değiştir">
-
+<!ENTITY verifiedManage.label        "Hesabı yönet">
 <!ENTITY disconnect.label            "Bağlantıyı kes…">
 <!ENTITY verify.label                "E-postayı doğrula">
 <!ENTITY forget.label                "Bu e-postayı unut">
