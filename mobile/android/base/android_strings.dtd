@@ -434,6 +434,7 @@
 <!ENTITY remote_tabs_last_synced "Ultima sinc.: &formatS;">
 <!ENTITY remote_tabs_never_synced "Ultima sinc.: mai">
 <!ENTITY find_matchcase "Aa">
+<!ENTITY intent_uri_private_browsing_prompt "Questo link verrà aperto in &formatS;. Uscire dalla modalità Navigazione anonima?">
 <!ENTITY intent_uri_cannot_open "Impossibile aprire il link">
 <!ENTITY devtools_auth_scan_header "Scansione del codice QR visualizzato sull’altro dispositivo">
 <!ENTITY restriction_disallow_import_settings_title2 "Disattiva “Importa da Android”">
