@@ -20,16 +20,16 @@
 <!ENTITY replaceButton.accessKey "m">
 <!ENTITY replaceAllButton.label "Zamjeni sve">
 <!ENTITY replaceAllButton.accessKey "i">
-
-
+<!ENTITY stopButton.label "Stani">
+<!ENTITY stopButton.accessKey "a">
 <!ENTITY userDictionary.label "Osobni rječnik:">
 <!ENTITY moreDictionaries.label "Preuzmi više rječnika…">
 <!ENTITY addToUserDictionaryButton.label "Dodaj riječ">
 <!ENTITY addToUserDictionaryButton.accessKey "D">
 <!ENTITY editUserDictionaryButton.label "Uredi…">
 <!ENTITY editUserDictionaryButton.accessKey "e">
-
-
+<!ENTITY recheckButton2.label "Ponovno provjeri tekst">
+<!ENTITY recheckButton2.accessKey "t">
 <!ENTITY closeButton.label "Zatvori">
 <!ENTITY closeButton.accessKey "t">
 <!ENTITY sendButton.label "Pošalji">
