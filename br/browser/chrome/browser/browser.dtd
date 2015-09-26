@@ -112,7 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignIn.label "En em gennaskañ ouzh &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Digeriñ gwellvezioù &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "En em adkennaskañ ouzh &syncBrand.shortName.label;">
-
+<!ENTITY fxaUnverified.label "Gwiriit ho kont">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; gweredekaet">
 <!ENTITY syncStartPanel2.subTitle "Loc'het e vo ar goubredañ gant &brandShortName; a-benn un nebeud amzer.">
 
@@ -131,12 +131,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY fullscreenWarning.beforeDomain.label "">
-
-
+<!ENTITY fullscreenWarning.afterDomain.label "a zo e skramm a-bezh">
+<!ENTITY fullscreenWarning.generic.label "War ar skramm a-bezh emañ an teul-mañ bremañ">
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
-
+<!ENTITY exitDOMFullscreen.button "Kuitaat ar mod skramm a-bezh (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "Kuitaat ar mod skramm a-bezh (Esc)">
 <!ENTITY leaveDOMFullScreen.label "Kuitaat ar mod skramm a-bezh">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
@@ -409,7 +410,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Ket">
 
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Ya">
-
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -466,9 +467,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Kemmañ an arventennoù klask">
 
-
-
-
+<!ENTITY searchInNewTab.label         "Klask en ivinell nevez">
+<!ENTITY searchInNewTab.accesskey     "n">
+<!ENTITY searchSetAsDefault.label     "Lakaat evel keflusker enklask dre ziouer">
+<!ENTITY searchSetAsDefault.accesskey "k">
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -704,7 +706,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Secure Connection">
 <!ENTITY identity.connectionNotSecure "N'eo ket diarvar ar c'hennask">
 <!ENTITY identity.connectionFile "War hoc'h urzhiataer eo kadavet ar bajenn-mañ.">
-
+<!ENTITY identity.connectionVerified1 "Kennasket oc'h en un doare diogel ouzh al lec'hienn, lañset gant :">
 <!ENTITY identity.connectionInternal "Ur bajenn &brandShortName; diarvar eo.">
 
 <!-- Strings for connection state warnings. -->
@@ -735,7 +737,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.moreInfoLinkText2 "Muioc'h a stlennoù">
 
 <!ENTITY identity.permissions "Aotreoù">
-
+<!ENTITY identity.permissionsEmpty "N'ho peus roet aotre arbennik ebet d'al lec'hienn-mañ.">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -746,7 +748,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
-
+<!ENTITY syncSignIn.label             "En em gennaskañ ouzh &syncBrand.shortName.label;">
+<!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "Goubredañ bremañ">
 <!ENTITY syncSyncNowItem.accesskey    "G">
 <!ENTITY syncReAuthItem.label         "En em adkennaskañ ouzh &syncBrand.shortName.label;…">
