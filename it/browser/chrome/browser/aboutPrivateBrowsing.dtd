@@ -19,7 +19,7 @@
 <!ENTITY aboutPrivateBrowsing.info.kept "Vengono salvati:">
 <!ENTITY aboutPrivateBrowsing.info.downloads "File scaricati">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks "Segnalibri">
-<!ENTITY aboutPrivateBrowsing.note1 "Si noti che il proprio datore di lavoro o il fornitore di servizi internet in uso saranno comunque in grado di mantenere un registro delle pagine visitate.">
+<!ENTITY aboutPrivateBrowsing.note1 "Attenzione: il datore di lavoro o il fornitore di servizi internet saranno comunque in grado di mantenere un registro delle pagine visitate.">
 <!ENTITY aboutPrivateBrowsing.learnMore "Ulteriori informazioni.">
 <!ENTITY trackingProtection.width "22em">
 <!ENTITY trackingProtection.title "Protezione antitracciamento">
