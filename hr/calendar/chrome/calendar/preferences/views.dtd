@@ -14,8 +14,8 @@
 
 <!ENTITY pref.weekstarts.label "Tjedan započinje u:">
 <!ENTITY pref.weekstarts.accesskey "z">
-
-
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Prikaži broj tjedna u prikazima i mini mjesecu">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "r">
 <!ENTITY pref.daysoff.label "Uključi ove dane u radni tjedan:">
 
 <!ENTITY pref.calendar.view.daystart.label "Dan započinje u:">
