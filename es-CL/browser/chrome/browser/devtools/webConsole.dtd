@@ -4,21 +4,6 @@
 
 <!ENTITY window.title "Consola web">
 <!ENTITY browserConsole.title "Consola del navegador">
-<!ENTITY networkPanel.requestURLColon "Solicitar URL:">
-<!ENTITY networkPanel.requestMethodColon "Solicitar método:">
-<!ENTITY networkPanel.statusCodeColon "Código de estado:">
-<!ENTITY networkPanel.requestHeaders "Encabezados solicitados">
-<!ENTITY networkPanel.requestCookie "Cookie enviada">
-<!ENTITY networkPanel.requestBody "Cuerpo solicitado">
-<!ENTITY networkPanel.requestFormData "Datos de formulario enviados">
-<!ENTITY networkPanel.responseHeaders "Encabezados de respuesta">
-<!ENTITY networkPanel.responseCookie "Cookie recibida">
-<!ENTITY networkPanel.responseBody "Cuerpo de respuesta">
-<!ENTITY networkPanel.responseBodyCached "Datos en caché">
-<!ENTITY networkPanel.responseBodyUnknownType "Tipo de contenido desconocido">
-<!ENTITY networkPanel.responseNoBody "No hay cuerpo de respuesta">
-<!ENTITY networkPanel.responseImage "Imagen recibida">
-<!ENTITY networkPanel.responseImageCached "Imagen en caché">
 <!ENTITY saveBodies.label "Registrar cuerpos de petición y respuesta">
 <!ENTITY saveBodies.accesskey "L">
 <!ENTITY openURL.label "Abrir enlace en una nueva pestaña">
@@ -44,7 +29,14 @@
 <!ENTITY btnConsoleWarnings "Advertencias">
 <!ENTITY btnConsoleLog "Registro">
 <!ENTITY btnConsoleXhr          "XHR">
-<!ENTITY btnConsoleReflows "Redibujados">
+<!ENTITY btnConsoleReflows "Redibujos">
+<!ENTITY btnServerLogging.label       "Servidor">
+<!ENTITY btnServerLogging.tooltip     "Registrar mensajes recibidos desde un servidor web">
+<!ENTITY btnServerLogging.accesskey   "S">
+<!ENTITY btnServerErrors              "Errores">
+<!ENTITY btnServerInfo                "Info">
+<!ENTITY btnServerWarnings            "Advertencias">
+<!ENTITY btnServerLog                 "Registro">
 <!ENTITY btnConsoleSharedWorkers "Shared Workers">
 <!ENTITY btnConsoleServiceWorkers "Service Workers">
 <!ENTITY btnConsoleWindowlessWorkers "Complemento o Workers de Chrome">

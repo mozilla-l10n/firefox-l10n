@@ -20,13 +20,16 @@
 <!ENTITY performanceUI.loadingNotice "Cargando…">
 <!ENTITY performanceUI.recordButton.tooltip "Cambia el estado de grabación de una grabación de rendimiento.">
 <!ENTITY performanceUI.importButton "Importar…">
-<!ENTITY performanceUI.exportButton "Guardar">
 <!ENTITY performanceUI.clearButton "Vaciar">
 <!ENTITY performanceUI.toolbar.waterfall "Cascada">
 <!ENTITY performanceUI.toolbar.js-calltree "Árbol de llamadas">
 <!ENTITY performanceUI.toolbar.memory-calltree "Asignaciones">
 <!ENTITY performanceUI.toolbar.js-flamegraph "Tabla de llamas de JS">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "Tabla de llamas de asignaciones">
+<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Muestra las diferentes operaciones que el navegador está realizando durante la grabación, mostradas secuencialmente como una cascada.">
+<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Destaca las funciones JavaScript donde el navegador pasó más tiempo durante la grabación.">
+<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Muestra la pila de llamadas de JavaScript en el curso de la grabación.">
+<!ENTITY performanceUI.toolbar.allocations.tooltiptext "Muestra dónde estaba asignada la memoria durante la grabación.">
 <!ENTITY performanceUI.table.totalDuration            "Tiempo total">
 <!ENTITY performanceUI.table.totalDuration.tooltip    "La cantidad de tiempo usado en esta función y las funciones a las que llama.">
 <!ENTITY performanceUI.table.selfDuration             "Tiempo propio">
@@ -43,8 +46,6 @@
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "El número total de asignaciones de objeto en esta ubicación y en llamadas.">
 <!ENTITY performanceUI.table.selfAlloc                "Asignaciones auto muestreadas">
 <!ENTITY performanceUI.table.selfAlloc.tooltip        "El número de asignaciones de objeto muestreadas en esta ubicación.">
-
-<!ENTITY performanceUI.newtab.tooltiptext "Añadir nueva pestaña desde la selección">
 
 <!ENTITY performanceUI.options.filter.tooltiptext "Selecciona que datos mostrar en la línea de tiempo">
 <!ENTITY performanceUI.options.gear.tooltiptext "Configurar preferencias de rendimiento.">
