@@ -18,7 +18,7 @@
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusTooltip): This string
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
 
-<!ENTITY performanceUI.bufferStatusTooltip "Analyza běžnego casa składujo pśepśimanja w cirkularnem cachu, a gaž cache dostanjo limit za nagrawanje, zachopiju nowše pśepśimanja pśepśimanja zachopjeńka nagrawanja pśepisowaś.">
+<!ENTITY performanceUI.bufferStatusTooltip "Analyza běžnego casa składujo pśepśimanja w cirkularnem cachu, a gaž cache dostanjo limit za nagrawanje, zachopiju nowše pśepśimanja, pśepśimanja zachopjeńka nagrawanja pśepisowaś.">
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.nonE10SBuild): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a non-multiprocess build. -->
@@ -53,13 +53,13 @@
   -  in the toolbar on buttons that select which view is currently shown. -->
 
 <!ENTITY performanceUI.toolbar.waterfall "Wódopad">
-
+<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Pokazujo rozdźělne procese, kótarež wobglědowak wuwjeźo pśi nagrawanju, sekwencielnje ako wódopad wugótowane.">
 <!ENTITY performanceUI.toolbar.js-calltree "Wołański bom">
-
+<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Wuzwigujo funkcije JavaScript, źož wobglědowak wóstawa nejwěcej casa pśi nagrawanju.">
 <!ENTITY performanceUI.toolbar.memory-calltree "Alokacije">
-
+<!ENTITY performanceUI.toolbar.allocations.tooltiptext "Pokazujo, źož skład jo se pśi nagrawanju pśipokazał.">
 <!ENTITY performanceUI.toolbar.js-flamegraph "JS płomjenjowy diagram">
-
+<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Pokazujo wołański štapjel javaScript nad běgom nagrawanja.">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "Płomjenjowy diagram alokacijow">
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
