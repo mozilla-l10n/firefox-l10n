@@ -151,7 +151,6 @@
 <!ENTITY fxaccount_remove_account_dialog_title "Rimuovere questo account?">
 <!ENTITY fxaccount_remove_account_dialog_message "La sincronizzazione di &brandShortName; per questo account verrà interrotta ma non verrà eliminato alcun dato di navigazione da questo dispositivo.">
 <!ENTITY fxaccount_remove_account_toast "Rimosso account Firefox &formatS;.">
-<!ENTITY fxaccount_remove_account_menu_item "Rimuovi account">
 <!ENTITY fxaccount_enable_debug_mode "Attiva modalità debug">
 <!ENTITY fxaccount_account_type_label "Firefox">
 <!ENTITY fxaccount_options_title "Opzioni di &syncBrand.shortName.label;">
