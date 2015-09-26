@@ -114,7 +114,7 @@
 <!ENTITY certs.ask.accesskey             "A">
 <!ENTITY enableOCSP.label                "Interoghează serverele de răspuns OCSP pentru confirmarea valabilității actuale a certificatelor">
 <!ENTITY enableOCSP.accesskey            "h">
-<!ENTITY viewCerts.label                 "Vezi certificate">
+<!ENTITY viewCerts.label                 "Vezi certificatele">
 <!ENTITY viewCerts.accesskey             "c">
 <!ENTITY viewSecurityDevices.label       "Dispozitive de securitate">
 <!ENTITY viewSecurityDevices.accesskey   "D">
