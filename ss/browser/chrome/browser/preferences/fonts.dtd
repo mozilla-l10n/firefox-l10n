@@ -1,71 +1,91 @@
-<!ENTITY fontsDialog.title "Emafonti">
-<!ENTITY window.width "39em">
-<!ENTITY window.macWidth "43em">
-<!ENTITY window.unixWidth "41em">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY language.label "Fonts for:">
-<!ENTITY language.accesskey "F">
+<!ENTITY  fontsDialog.title                       "Emafonti">
 
-<!ENTITY size.label "Isayizi:">
-<!ENTITY size.accesskey1 "z">
-<!ENTITY size.accesskey2 "e">
 
-<!ENTITY proportional.label "Lokulinganiselwe:">
-<!ENTITY proportional.accesskey "L">
 
-<!ENTITY serif.label "Iserifu:">
-<!ENTITY serif.accesskey "S">
-<!ENTITY sans-serif.label "Isanserifu:">
-<!ENTITY sans-serif.accesskey "n">
-<!ENTITY monospace.label "Khalasinye:">
-<!ENTITY monospace.accesskey "K">
-<!-- LOCALIZATION NOTE (fantasy.label): 'Fantasy' means 'Ornate' -->
-<!ENTITY fantasy.label "Ifanthasi:">
-<!ENTITY fantasy.accesskey "F">
-<!ENTITY cursive.label "Ikhesivu:">
-<!ENTITY cursive.accesskey "I">
+<!ENTITY  size.label                              "Isayizi:">
 
-<!ENTITY fontsize.units "emaphikseli">
 
-<!ENTITY font.langGroup.latin1 "Kwenshonalanga">
-<!ENTITY font.langGroup.latin2 "Ekhatsi Neyurophu">
-<!ENTITY font.langGroup.japanese "Sijaphani">
-<!ENTITY font.langGroup.trad-chinese "Lisiko Lemashayina (Ethayiwani)">
-<!ENTITY font.langGroup.simpl-chinese "Sishayina lesitsanjisiwe">
-<!ENTITY font.langGroup.trad-chinese-hk "Lisiko Lemashayina (Ehong Khongi)">
-<!ENTITY font.langGroup.korean "Sikhoriya">
-<!ENTITY font.langGroup.cyrillic "Sisiriliki">
-<!ENTITY font.langGroup.baltic "Sibalthiki">
-<!ENTITY font.langGroup.el "Sigrikhi">
-<!ENTITY font.langGroup.turkish "Sithekhi">
-<!ENTITY font.langGroup.unicode "Letinye Tilwimi">
-<!ENTITY font.langGroup.user-def "Umsebentisi uchaziwe">
-<!ENTITY font.langGroup.thai "Sithayi">
-<!ENTITY font.langGroup.hebrew "Sihebheru">
-<!ENTITY font.langGroup.arabic "Si-Arabi">
-<!ENTITY font.langGroup.devanagari "Sidivanagari">
-<!ENTITY font.langGroup.tamil "Sithami">
-<!ENTITY font.langGroup.armenian "Si-Ameniya">
-<!ENTITY font.langGroup.bengali "Sibengali">
-<!ENTITY font.langGroup.canadian "Isilabari lehlangene Yesikhanada">
-<!ENTITY font.langGroup.ethiopic "Sitopiya">
-<!ENTITY font.langGroup.georgian "Sijoji">
-<!ENTITY font.langGroup.gujarati "Sigujarati">
-<!ENTITY font.langGroup.gurmukhi "Sigumukhi">
-<!ENTITY font.langGroup.khmer "Sikhama">
-<!ENTITY font.langGroup.malayalam "Simalayalamu">
+
+<!ENTITY  proportional.label                      "Lokulinganiselwe:">
+<!ENTITY  proportional.accesskey                  "L">
+
+<!ENTITY  serif.label                             "Iserifu:">
+<!ENTITY  serif.accesskey                         "s">
+<!ENTITY  sans-serif.label                        "Isanserifu:">
+<!ENTITY  sans-serif.accesskey                    "n">
+<!ENTITY  monospace.label                         "Khalasinye:">
+<!ENTITY  monospace.accesskey                     "K">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
+
+<!ENTITY  font.langGroup.trad-chinese             "Lisiko Lemashayina (Ethayiwani)">
+<!ENTITY  font.langGroup.simpl-chinese            "Sishayina lesitsanjisiwe">
+<!ENTITY  font.langGroup.trad-chinese-hk          "Lisiko Lemashayina (Ehong Khongi)">
+
+
+
+
+
+
+
+<!ENTITY  font.langGroup.devanagari               "Sidivanagari">
+<!ENTITY  font.langGroup.tamil                    "Sithami">
+<!ENTITY  font.langGroup.armenian                 "Si-Ameniya">
+<!ENTITY  font.langGroup.bengali                  "Sibengali">
+<!ENTITY  font.langGroup.canadian                 "Isilabari lehlangene Yesikhanada">
+<!ENTITY  font.langGroup.ethiopic                 "Sitopiya">
+<!ENTITY  font.langGroup.georgian                 "Sijoji">
+<!ENTITY  font.langGroup.gujarati                 "Sigujarati">
+<!ENTITY  font.langGroup.gurmukhi                 "Sigumukhi">
+<!ENTITY  font.langGroup.khmer                    "Sikhama">
+<!ENTITY  font.langGroup.malayalam                "Simalayalamu">
+
+
+
+
+
+
 <!-- Minimum font size -->
-<!ENTITY minSize.label "Minimum font size:">
-<!ENTITY minSize.accesskey "o">
-<!ENTITY minSize.none "Kute">
+
+<!ENTITY minSize.none                             "Kute">
 <!-- default font type -->
 
-<!ENTITY useDefaultFontSerif.label "Iserifu">
-<!ENTITY useDefaultFontSansSerif.label "Isanserifu">
+<!ENTITY  useDefaultFontSerif.label               "Iserifu">
+<!ENTITY  useDefaultFontSansSerif.label           "Isanserifu">
 
-<!ENTITY allowPagesToUse.label "Allow pages to choose their own fonts, instead of my selections above">
-<!ENTITY allowPagesToUse.accesskey "A">
 
-<!ENTITY languages.customize.Charset.grouplabel "Kuphawula Tinhlavu Temagama">
-<!ENTITY languages.customize.DefaultCharset.label "Idifolthi yekukhoda emagama:">
-<!ENTITY languages.customize.DefaultCharset.accesskey "E">
+
+
+
+
+
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
+     Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.baltic      "Sibalthiki">
+
+
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
+     Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.traditional):
+     Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
+
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.greek):
+     Translate "Greek" as an adjective for an encoding, not as the name of the language. -->
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.hebrew):
+     Translate "Hebrew" as an adjective for an encoding, not as the name of the language. -->
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.japanese):
+     Translate "Japanese" as an adjective for an encoding, not as the name of the language. -->
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.korean):
+     Translate "Korean" as an adjective for an encoding, not as the name of the language. -->
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.thai):
+     Translate "Thai" as an adjective for an encoding, not as the name of the language. -->
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.turkish):
+     Translate "Turkish" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.turkish     "Sithekhi">
+<!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
+     Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
+

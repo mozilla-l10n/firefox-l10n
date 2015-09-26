@@ -1,0 +1,35 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+<!-- LOCALIZATION NOTE (select.description): The term used for "third parties"
+     here should match the string source.other in selectAddons.properties. -->
+
+<!-- LOCALIZATION NOTE (select.keep.style): Should be a width wide enough for
+     the string in select.keep above. -->
+
+<!-- LOCALIZATION NOTE (select.action.style): Should be a width wide enough for
+     the action strings in selectAddons.properties or brandShortName. -->
+
+
+<!-- LOCALIZATION NOTE (select.name.style): Should be a width small enough so
+     the source column still has enough room for the source strings in
+     selectAddons.properties. -->
+
+<!-- LOCALIZATION NOTE (confirm.description): The term used for "third parties"
+     here should match the string source.other in selectAddons.properties. -->
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,14 +1,25 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY prefWindow.titleWin "Lokukhetsako">
-<!ENTITY prefWindow.titleGNOME "&brandShortName; lelinconotwako">
-<!ENTITY prefWindow.styleWin "width: 42em; height: 40em;">
-<!ENTITY prefWindow.styleMac "width: 47em;">
-<!ENTITY prefWindow.styleGNOME "width: 42em; height: 38.5em;">
 
-<!ENTITY paneMain.title "Main">
-<!ENTITY paneTabs.title "Emathebhu">
-<!ENTITY paneContent.title "Lokucuketfwe">
-<!ENTITY paneFeeds.title "Feeds">
-<!ENTITY panePrivacy.title "Imfihlo">
-<!ENTITY paneSecurity.title "Security">
-<!ENTITY paneAdvanced.title "Lechubekile">
+<!ENTITY  prefWindow.titleWin     "Lokukhetsako">
+
+<!-- LOCALIZATION NOTE (prefWindow.titleGNOME): This is not used for in-content preferences -->
+<!ENTITY  prefWindow.titleGNOME   "&brandShortName; lelinconotwako">
+<!-- When making changes to prefWindow.styleWin test both Windows Classic and
+     Luna since widget heights are different based on the OS theme -->
+<!ENTITY  prefWinMinSize.styleWin2      "width: 42em; min-height: 36em;">
+
+
+
+<!ENTITY  paneGeneral.title       "Lokuvamile">
+<!ENTITY  paneTabs.title          "Emathebhu">
+
+<!ENTITY  paneContent.title       "Lokucuketfwe">
+
+<!ENTITY  panePrivacy.title       "Imfihlo">
+
+<!ENTITY  paneAdvanced.title      "Lechubekile">
+<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
+

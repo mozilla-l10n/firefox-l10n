@@ -1,123 +1,89 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is mozilla.org code.
-   -
-   - The Initial Developer of the Original Code is
-   - Netscape Communications Corp.
-   - Portions created by the Initial Developer are Copyright (C) 2001
-   - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s):
-   -   Ian McGreer <mcgreer@netscape.com>
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either the GNU General Public License Version 2 or later (the "GPL"), or
-   - the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the GPL or the LGPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-   - ***** END LICENSE BLOCK ***** -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY certmgr.title "Umphatsi /Menenja Wesitifiketi">
+<!ENTITY certmgr.title                       "Umphatsi /Menenja Wesitifiketi">
 
-<!ENTITY certmgr.tab.mine "Titifiketi Takho">
-<!ENTITY certmgr.tab.others "Talabanye Bantfu">
-<!ENTITY certmgr.tab.websites "iWebsayithi">
-<!ENTITY certmgr.tab.ca "Tishayamtsetfo /Emagunya">
+<!ENTITY certmgr.tab.mine                     "Titifiketi Takho">
 
-<!ENTITY certmgr.ca.builtins "Labakhelwe bo CAs">
-<!ENTITY certmgr.ca.mycas "Bo CAs labaphetfwe Nguwe">
 
-<!ENTITY certmgr.mine "Unetitifiketi letisuka kuletinhlangano letakubona takuphawula:">
-<!ENTITY certmgr.others "Unetitifiketi efayeleni letikhomba labantfu:">
-<!ENTITY certmgr.websites "Unetitifiketi efayeleni letikhomba lewebsayithi:">
-<!ENTITY certmgr.cas "Unetitifiketi efayeleni letikhomba emagunya aletitifiketi:">
+<!ENTITY certmgr.tab.ca                       "Tishayamtsetfo /Emagunya">
 
-<!ENTITY certmgr.detail.general_tab.title "Imvamisa">
-<!ENTITY certmgr.detail.prettyprint_tab.title "Imininingwane">
 
-<!ENTITY certmgr.subjectinfo.label "Siniketwe Ku">
-<!ENTITY certmgr.issuerinfo.label "Siniketwe Ngu">
-<!ENTITY certmgr.validity.label "Buciniso">
-<!ENTITY certmgr.fingerprints.label "Titfupha">
-<!ENTITY certmgr.certdetail.title "Imininingwane Yesitifiketi">
-<!ENTITY certmgr.certdetail.cn "Libito Lelivamile (CN)">
-<!ENTITY certmgr.certdetail.o "Inhlangano (O)">
-<!ENTITY certmgr.certdetail.ou "Bunye Benhlangano (OU)">
-<!ENTITY certmgr.certdetail.serialnumber "Isiriyali Namba">
-<!ENTITY certmgr.certdetail.sha1fingerprint "SHA1 Sitfupha">
-<!ENTITY certmgr.certdetail.md5fingerprint "MD5 Sitfupha">
+<!ENTITY certmgr.mine                         "Unetitifiketi letisuka kuletinhlangano letakubona takuphawula:">
+<!ENTITY certmgr.others                       "Unetitifiketi efayeleni letikhomba labantfu:">
 
-<!ENTITY certmgr.editcert.title "Editha tinhlelo Tekuphepha Kwesitifiketi">
-<!ENTITY certmgr.editcacert.title "Editha tinhelo tesitifiketi Thrasti iCA">
-<!ENTITY certmgr.editsslcert.title "Editha tinhlelo tewebsayithi yesitifiketi Thrasti">
-<!ENTITY certmgr.editcert.edittrust "Editha tinhlelo teThrusti:">
-<!ENTITY certmgr.editcert.trustssl "Lesitifiketi singayiphawula iwebsayithi.">
-<!ENTITY certmgr.editcert.trustemail "Lesitifiketi singamkhomba umuntfu losebentisa liposi.">
-<!ENTITY certmgr.editcert.trustobjsign "Lesitifiketi singabakhomba bakhi besoftwe.">
-<!ENTITY certmgr.editsslcert.edittrust "Editha tinhlelo tesitifiketi Thrasti:">
-<!ENTITY certmgr.editsslcert.dotrust "Betsembe buciniso balesitifiketi.">
-<!ENTITY certmgr.editsslcert.donttrust "Ungabetsembi buciniso balesitifiketi.">
-<!ENTITY certmgr.editemailcert.title "Editha tinhlelo tesitifiketi Thrasti se-imeyili">
-<!ENTITY certmgr.editemailcert.edittrust "Editha tinhlelo tesetifiketi Thrasti:">
-<!ENTITY certmgr.editemailcert.dotrust "Betsembe buciniso balesitifiketi.">
-<!ENTITY certmgr.editemailcert.donttrust "Ungabetsembi buciniso balesitifiketi.">
+<!ENTITY certmgr.cas                          "Unetitifiketi efayeleni letikhomba emagunya aletitifiketi:">
 
-<!ENTITY certmgr.deletecert.title "Cisha Sitifiketi">
-<!ENTITY certmgr.deletecert.beforename "Ucele kutsi usisuse lesitifiketi:">
-<!ENTITY certmgr.deletecert.aftername "Ucinisile kutsi ufuna kucisha lesitifiketi?">
-<!ENTITY certmgr.deleteusercert.title "Cisha lesitifiketi sakho">
-<!ENTITY certmgr.deleteusercert.beforename "Ucele kutsi ucishe lesitifiketi:">
-<!ENTITY certmgr.deleteusercert.aftername "Ungaze ucishe lesitifiketi, ungeke usakwati kufundza liposi lebhalwe ngaso.">
 
-<!ENTITY certmgr.certname "Libito Lesitifiketi">
-<!ENTITY certmgr.tokenname "Idivayisi Yekuvikela">
-<!ENTITY certmgr.purpose "Tinjongo">
-<!ENTITY certmgr.issued "Tindzaba Nge">
-<!ENTITY certmgr.expires "Isipaya Nge">
-<!ENTITY certmgr.email "Ikheli Ye-imeyili">
-<!ENTITY certmgr.serial "Isiriyali Namba">
-<!ENTITY certmgr.ocsp_info "Titifiketi atikacinisekiswa nga OCSP. Kuze ukwente loko chafata Buka.">
 
-<!ENTITY certmgr.close.label "Close">
-<!ENTITY certmgr.close.accesskey "C">
-<!ENTITY certmgr.view.label "View">
-<!ENTITY certmgr.view.accesskey "V">
-<!ENTITY certmgr.edit.label "Edit">
-<!ENTITY certmgr.edit.accesskey "E">
-<!ENTITY certmgr.editca.label "Edit CA Trust">
-<!ENTITY certmgr.editca.accesskey "d">
-<!ENTITY certmgr.add.label "Add">
-<!ENTITY certmgr.add.accesskey "A">
-<!ENTITY certmgr.delete.label "Delete">
-<!ENTITY certmgr.delete.accesskey "D">
-<!ENTITY certmgr.backup.label "Backup">
-<!ENTITY certmgr.backup.accesskey "B">
-<!ENTITY certmgr.backupall.label "Backup All">
-<!ENTITY certmgr.backupall.accesskey "k">
-<!ENTITY certmgr.restore.label "Import">
-<!ENTITY certmgr.restore.accesskey "m">
-<!ENTITY certmgr.details.label "Certificate Fields">
-<!ENTITY certmgr.details.accesskey "F">
-<!ENTITY certmgr.fields.label "Field Value">
-<!ENTITY certmgr.fields.accesskey "V">
-<!ENTITY certmgr.hierarchy.label "Certificate Hierarchy">
-<!ENTITY certmgr.hierarchy.accesskey "C">
+
+
+
+<!ENTITY certmgr.subjectinfo.label            "Siniketwe Ku">
+<!ENTITY certmgr.issuerinfo.label             "Siniketwe Ngu">
+
+<!ENTITY certmgr.fingerprints.label           "Titfupha">
+<!ENTITY certmgr.certdetail.title             "Imininingwane Yesitifiketi">
+<!ENTITY certmgr.certdetail.cn                "Libito Lelivamile (CN)">
+<!ENTITY certmgr.certdetail.o                 "Inhlangano (O)">
+<!ENTITY certmgr.certdetail.ou                "Bunye Benhlangano (OU)">
+<!ENTITY certmgr.certdetail.serialnumber      "Isiriyali Namba">
+
+<!ENTITY certmgr.certdetail.sha1fingerprint   "SHA1 Sitfupha">
+
+<!ENTITY certmgr.editcacert.title             "Editha tinhelo tesitifiketi Thrasti iCA">
+<!ENTITY certmgr.editcert.edittrust           "Editha tinhlelo teThrusti:">
+
+<!ENTITY certmgr.editcert.trustemail          "Lesitifiketi singamkhomba umuntfu losebentisa liposi.">
+<!ENTITY certmgr.editcert.trustobjsign        "Lesitifiketi singabakhomba bakhi besoftwe.">
+
+<!ENTITY certmgr.deletecert.title             "Cisha Sitifiketi">
+
+<!ENTITY certmgr.certname                     "Libito Lesitifiketi">
+
+
+<!ENTITY certmgr.tokenname                    "Idivayisi Yekuvikela">
+
+<!ENTITY certmgr.expires                      "Isipaya Nge">
+<!ENTITY certmgr.email                        "Ikheli Ye-imeyili">
+<!ENTITY certmgr.serial                       "Isiriyali Namba">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY certmgr.hierarchy.label              "Lizinga Lesitifiketi">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

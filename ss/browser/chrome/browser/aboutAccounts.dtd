@@ -1,0 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutAccounts.welcome "Siyakwemukela ku  &syncBrand.shortName.label;">
+<!ENTITY aboutAccounts.connected "Sewuchumene/sowungenile">
+
+<!ENTITY aboutAccountsConfig.description "Ngena utokhona kulumbanisa tibekiso, sikhiya nalokunye lokunyenti.">
+<!ENTITY aboutAccountsConfig.startButton.label "Ungacala">
+<!ENTITY aboutAccountsConfig.useOldSync.label "Usebentisa Sync lomdzala kunalona?">
+<!ENTITY aboutAccountsConfig.syncPreferences.label "Umlumbanisi lobona kutsi uncono kuwe">

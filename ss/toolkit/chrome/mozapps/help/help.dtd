@@ -1,47 +1,50 @@
-<!ENTITY printCmd.commandkey "p">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY findOnCmd.commandkey "F">
-<!ENTITY findAgainCmd.commandkey "G">
-<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY printCmd.commandkey            "p">
 
-<!ENTITY backButton.label "Emuva">
-<!ENTITY backButton.accesskey "E">
-<!ENTITY backButton.tooltip "Buyela emuva lipheji linye">
-<!ENTITY forwardButton.label "Embili">
-<!ENTITY forwardButton.accesskey "E">
-<!ENTITY forwardButton.tooltip "Yani embili lipheji linye">
-<!ENTITY copyCmd.label "Copy">
-<!ENTITY copyCmd.accesskey "C">
-<!ENTITY selectAllCmd.label "Select All">
-<!ENTITY selectAllCmd.accesskey "A">
-<!ENTITY goBackCmd.commandkey "[">
-<!ENTITY goForwardCmd.commandkey "]">
-<!ENTITY homeButton.label "Likhaya">
-<!ENTITY homeButton.tooltip "Yani ephejini lekusita kucala">
-<!ENTITY printButton.label "Phrinta">
-<!ENTITY printButton.tooltip "Phrinta lelipheji">
-<!ENTITY closeWindow.commandkey "W">
+<!ENTITY findOnCmd.commandkey           "F">
+<!ENTITY findAgainCmd.commandkey        "G">
+<!ENTITY findAgainCmd.commandkey2       "VK_F3">
 
-<!ENTITY throbberItem.title "Sikhombisi semnyakato">
-<!ENTITY throbber.tooltip "Yani kusita kusekshini yekusita">
+<!ENTITY backButton.label               "Emuva">
+<!ENTITY backButton.accesskey           "E">
+<!ENTITY backButton.tooltip             "Buyela emuva lipheji linye">
+<!ENTITY forwardButton.label            "Embili">
+<!ENTITY forwardButton.accesskey        "E">
+<!ENTITY forwardButton.tooltip          "Yani embili lipheji linye">
 
-<!ENTITY searchtab.label "Phenya">
-<!ENTITY searchtab.accesskey "P">
-<!ENTITY toctab.label "Lokucuketfwe">
-<!ENTITY toctab.accesskey "L">
 
-<!ENTITY textZoomReduceCmd.commandkey "-">
-<!ENTITY textZoomEnlargeCmd.commandkey "+">
+
+
+<!ENTITY goBackCmd.commandkey           "[">
+<!ENTITY goForwardCmd.commandkey        "]">
+<!ENTITY homeButton.label               "Likhaya">
+<!ENTITY homeButton.tooltip             "Yani ephejini lekusita kucala">
+<!ENTITY printButton.label              "Phrinta">
+<!ENTITY printButton.tooltip            "Phrinta lelipheji">
+<!ENTITY closeWindow.commandkey         "W">
+
+
+<!ENTITY toctab.label                   "Lokucuketfwe">
+<!ENTITY toctab.accesskey               "L">
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+
 <!-- + is above this key on many keyboards -->
-<!ENTITY textZoomEnlargeCmd.commandkey2 "=">
-<!ENTITY textZoomResetCmd.commandkey "0">
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
-<!ENTITY helpSearch.commandkey "k">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY zLevel.label "Uhlala asetulu">
-<!ENTITY zLevel.accesskey "A">
 
-<!ENTITY textZoomReduceBtn.label "Nciphisa Isayizi Yembhalo">
-<!ENTITY textZoomReduceBtn.accesskey "N">
-<!ENTITY textZoomEnlargeBtn.label "Yandzisa Isayizi Yembhalo">
-<!ENTITY textZoomEnlargeBtn.accesskey "Y">
+<!ENTITY zLevel.label                   "Uhlala asetulu">
+<!ENTITY zLevel.accesskey               "a">
+
+
+
+

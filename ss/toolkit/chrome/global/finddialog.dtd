@@ -1,16 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- extracted from finddialog.xul -->
 
+
 <!ENTITY findDialog.title "Funa kulelipheji">
-<!ENTITY findDialogFrame.title "Funa kuleflemu">
 <!ENTITY findField.label "Funa ini:">
 <!ENTITY findField.accesskey "n">
 <!ENTITY caseSensitiveCheckbox.label "Likasi lekulinganisa">
 <!ENTITY caseSensitiveCheckbox.accesskey "k">
 <!ENTITY wrapCheckbox.label "Songa">
 <!ENTITY wrapCheckbox.accesskey "S">
-<!ENTITY backwardsCheckbox.label "Phenya zinyova">
-<!ENTITY backwardsCheckbox.accesskey "z">
-<!ENTITY findField.tooltip "Thayipha linye nome mabili emagama utewuphenya i">
 <!ENTITY findButton.label "Funa Lokulandzelako">
 <!ENTITY findButton.accesskey "L">
 <!ENTITY cancelButton.label "Yesula">

@@ -1,16 +1,15 @@
-<!ENTITY window.width "30em">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY languages.customize.Header "Tilwimi">
-<!ENTITY languages.customize.label "Tilwimi">
-<!ENTITY languages.customize.prefLangDescript "Emawebpheji ngalesinye sikhatsi anikwa tiwimi letingetulu kwalunye. Khetsa tilwimi kuze ukhombise lamawebpheji, kuye ngekutsandvwa kwato.">
-<!ENTITY languages.customize.active.label "Tilweimi ngekulandzelana kwekutsandvwa kwato:">
-<!ENTITY languages.customize.moveUp.label "Yenyuka">
-<!ENTITY languages.customize.moveUp.accesskey "K">
-<!ENTITY languages.customize.moveDown.label "Yewuka">
-<!ENTITY languages.customize.moveDown.accesskey "K">
-<!ENTITY languages.customize.deleteButton.label "Susa">
-<!ENTITY languages.customize.deleteButton.accesskey "S">
-<!ENTITY languages.customize.selectLanguage.label "Select a language to add...">
-<!ENTITY languages.customize.addButton.label "Yengeta">
-<!ENTITY languages.customize.addButton.accesskey "Y">
+
+<!ENTITY languages.customize.moveUp.label               "Yenyuka">
+<!ENTITY languages.customize.moveUp.accesskey           "k">
+<!ENTITY languages.customize.moveDown.label             "Yewuka">
+<!ENTITY languages.customize.moveDown.accesskey         "k">
+<!ENTITY languages.customize.deleteButton.label         "Susa">
+<!ENTITY languages.customize.deleteButton.accesskey     "S">
+
+<!ENTITY languages.customize.addButton.label            "Yengeta">
+<!ENTITY languages.customize.addButton.accesskey        "Y">
 

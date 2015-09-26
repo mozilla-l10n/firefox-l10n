@@ -1,116 +1,202 @@
-<!ENTITY addons.title "Add-ons">
-<!-- Default window size for the addon manager in pixels -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY em.width "520">
-<!ENTITY em.height "380">
 
-<!ENTITY cmd.info.commandKey "i">
-<!ENTITY cmd.options.commandKey ",">
-<!ENTITY cmd.close.commandKey "w">
-<!-- View labels -->
+<!-- LOCALIZATION NOTE (search.commandKey):
+     The search command key should match findOnCmd.commandkey from browser.dtd -->
 
-<!ENTITY extensions.label "Tichumanisi">
-<!ENTITY themes.label "Themes">
-<!ENTITY locales.label "Languages">
-<!ENTITY plugins.label "Plugins">
-<!ENTITY update.label "Updates">
-<!ENTITY install.label "Installation">
-<!-- Command Bar items -->
 
-<!ENTITY cmd.checkUpdatesAll.label "Find Updates">
-<!ENTITY cmd.checkUpdatesAll.accesskey "F">
-<!ENTITY cmd.checkUpdatesAllAddon.tooltip "Finds Updates to your Add-ons">
-<!ENTITY cmd.checkUpdatesAllTheme.tooltip "Finds Updates to your Themes">
-<!ENTITY cmd.installLocalFile.label "Install...">
-<!ENTITY cmd.installFile.accesskey "I">
-<!ENTITY cmd.installFileAddon.tooltip "Install an Add-on">
-<!ENTITY cmd.installFileTheme.tooltip "Install a Theme">
-<!ENTITY cmd.installUpdatesAll.label "Install Updates">
-<!ENTITY cmd.installUpdatesAll.accesskey "I">
-<!ENTITY cmd.installUpdatesAll.tooltip "Installs the selected updates">
-<!ENTITY cmd.restartApp.label "Restart &brandShortName;">
-<!ENTITY cmd.restartApp.accesskey "R">
-<!ENTITY cmd.restartApp.tooltip "Restarts &brandShortName; to finish the installation">
-<!ENTITY cmd.skip.label "Skip">
-<!ENTITY cmd.skip.accesskey "S">
-<!ENTITY cmd.skip.tooltip "Skip these updates">
-<!ENTITY cmd.continue.label "Continue">
-<!ENTITY cmd.continue.accesskey "C">
-<!ENTITY cmd.continue.tooltip "Continue loading &brandShortName;">
 
-<!ENTITY cmd.enableAll.label "Enable All">
-<!ENTITY cmd.enableAll.accesskey "a">
-<!ENTITY cmd.enableAll.tooltip "Enable all displayed Add-ons">
-<!ENTITY cmd.disableAll.label "Disable All">
-<!ENTITY cmd.disableAll.accesskey "s">
-<!ENTITY cmd.disableAll.tooltip "Disable all displayed Add-ons">
-<!-- Displayed in the selected Add-on's richlistitem and context menu -->
 
-<!ENTITY cmd.useTheme.label "Sebentisa Ingcikitsi">
-<!ENTITY cmd.useTheme.accesskey "I">
-<!ENTITY cmd.useTheme.tooltip "Kugucula Ingcikitsi ye&brandShortName;">
-<!ENTITY cmd.options.label "Kwekutikhetsela">
-<!ENTITY cmd.options.accesskey "K">
-<!ENTITY cmd.options.tooltip "Setha kwekutikhetsela wentele tichumanisi letikhetsiwe">
-<!ENTITY cmd.optionsUnix.label "Lokuncono">
-<!ENTITY cmd.optionsUnix.accesskey "o">
-<!ENTITY cmd.optionsUnix.tooltip "Editha lokutsandvwko kwaletichumanis letiphawuliwe">
-<!ENTITY cmd.enable.label "Vumela">
-<!ENTITY cmd.enable.accesskey "V">
-<!ENTITY cmd.enable.tooltip "Enable this Add-on when &brandShortName; is restarted">
-<!ENTITY cmd.disable.label "Khinyabetekile">
-<!ENTITY cmd.disable.accesskey "K">
-<!ENTITY cmd.disable.tooltip "Disable this Add-on when &brandShortName; is restarted">
-<!ENTITY cmd.uninstall.label "Uninstall">
-<!ENTITY cmd.uninstall2.accesskey "U">
-<!ENTITY cmd.uninstall2.tooltip "Uninstall this Add-on when &brandShortName; is restarted">
-<!ENTITY cmd.cancelUninstall.label "Cancel Uninstall">
-<!ENTITY cmd.cancelUninstall.accesskey "C">
-<!ENTITY cmd.cancelUninstall.tooltip "Cancel the uninstall of this Add-on">
-<!ENTITY cmd.installUpdate.label "Install Update">
-<!ENTITY cmd.installUpdate.accesskey "I">
-<!ENTITY cmd.installUpdate.tooltip "Install an update for this Add-on">
-<!-- The selected add-on's cancel action button label -->
-<!ENTITY cancel.label "Cancel">
-<!ENTITY cancel.accesskey "C">
-<!-- Only displayed in the selected Add-on's context menu -->
 
-<!ENTITY cmd.homepage.label "Yani Kukhayapheji">
-<!ENTITY cmd.homepage.accesskey "K">
-<!ENTITY cmd.about2.label "About this Add-on">
-<!ENTITY cmd.about.accesskey "A">
-<!ENTITY cmd.checkUpdate.label "Find Update">
-<!ENTITY cmd.checkUpdate.accesskey "F">
 
-<!ENTITY cmd.includeUpdate.label "Include Update">
-<!ENTITY cmd.includeUpdate.accesskey "n">
-<!ENTITY includeUpdate.label "Include this update">
-<!ENTITY includeUpdate.accesskey "n">
-<!ENTITY includeUpdate.tooltip "Include this Add-on when installing the updates">
-<!-- Status Messsages -->
 
-<!ENTITY needsDependencies.label "Requires additional items.">
-<!ENTITY blocklisted.label "Disabled for your protection.">
-<!ENTITY toBeDisabled.label "This add-on will be disabled when &brandShortName; is restarted.">
-<!ENTITY toBeEnabled.label "This add-on will be enabled when &brandShortName; is restarted.">
-<!ENTITY toBeInstalled.label "This add-on will be installed when &brandShortName; is restarted.">
-<!ENTITY toBeUninstalled.label "This add-on will be uninstalled when &brandShortName; is restarted.">
-<!ENTITY toBeUpgraded.label "This add-on will be upgraded when &brandShortName; is restarted.">
 
-<!ENTITY getExtensions.label "Get Extensions">
-<!ENTITY getExtensions.tooltip "Get Extensions from addons.mozilla.org">
-<!ENTITY getThemes.label "Get Themes">
-<!ENTITY getThemes.tooltip "Get Themes from addons.mozilla.org">
-<!ENTITY previewNoThemeSelected.label "Kute tingcikitsi letiphawuliwe">
-<!ENTITY previewNoPreviewImage.label "Lengcikitsi ite lipheji lekulunguta">
-<!ENTITY moreInfo.label "More Information">
-<!ENTITY closeMessage.tooltip "Close this message">
 
-<!ENTITY updateSuccess.label "Update completed successfully.">
-<!ENTITY installSuccess.label "Install completed successfully.">
-<!ENTITY installSuccessRestart.label "Restart to complete the installation.">
-<!ENTITY installWaiting.label "Waiting...">
-<!ENTITY installIncompatibleUpdate.label "Checking compatibility...">
-<!ENTITY installFinishing.label "Installing...">
-<!ENTITY installFailure.label "Install failed.">
+
+
+
+
+
+<!-- global warnings -->
+
+
+
+
+
+
+<!-- global informations -->
+
+<!-- categories / views -->
+
+
+
+<!-- addon updates -->
+
+
+
+<!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
+     is a checkbox that toggles the default global behavior for add-on update
+     checking. -->
+
+<!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
+     Specific addons can have custom update checking behaviors ("Manually",
+     "Automatically", "Use default global behavior"). These menu items reset the
+     update checking behavior for all add-ons to the default global behavior
+     (which itself is either "Automatically" or "Manually", controlled by the
+     updates.updateAddonsAutomatically.label menu item). -->
+
+
+
+
+
+
+
+
+
+
+
+<!-- addon actions -->
+
+
+
+
+
+
+
+
+
+
+<!ENTITY cmd.enableAddon.label                "Vumela">
+<!ENTITY cmd.enableAddon.accesskey            "V">
+<!ENTITY cmd.disableAddon.label               "Khinyabetekile">
+<!ENTITY cmd.disableAddon.accesskey           "K">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY cmd.showPreferencesWin.label         "Kwekutikhetsela">
+
+<!ENTITY cmd.showPreferencesUnix.label        "Lokutsandvwako">
+
+
+
+
+
+
+
+
+<!-- discovery view -->
+<!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
+     Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
+
+
+<!-- detail view -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ratings -->
+<!-- download/install progress -->
+
+<!-- list sorting -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
+     to signify that an add-on is disabled, in the form
+     "<Addon name> <1.0> (disabled)" -->
+<!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
+     updates list to signify that an item is an update, in the form
+     "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
+     necessary -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
+     experiments are present on the "Experiments" tab of the add-ons manager.
+     This tab won't be displayed unless an Experiment add-on is installed.
+     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
+     to cause this tab to appear. -->
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
+     These entities form a sentence, with
+     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
+     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
+     being a link to an external site. -->
+
 
