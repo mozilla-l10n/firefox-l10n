@@ -406,11 +406,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Искате ли да се показват подсказки при въвеждане на думи за търсене?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Научете повече…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "Н">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "у">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Не">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "к">
+<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "н">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Да">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "л">
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "д">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
