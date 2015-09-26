@@ -1,52 +1,71 @@
-<!ENTITY history.label "Umlandvo">
-<!-- LOCALIZATION NOTE:
-  The entities rememberBefore.label and rememberAfter.label appear on a single
-  line in preferences as follows:
-
-  &rememberBefore.label  [ textbox for number of days ]   &rememberAfter.label;
--->
-
-<!ENTITY rememberBefore.label "Remember visited pages for the last">
-<!ENTITY rememberBefore.accesskey "v">
-<!ENTITY rememberAfter.label "emalanga.">
-
-<!ENTITY rememberForms.label "Remember what I enter in forms and the search bar">
-<!ENTITY rememberForms.accesskey "f">
-
-<!ENTITY rememberDownloads.label "Remember what I've downloaded">
-<!ENTITY rememberDownloads.accesskey "d">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY cookies.label "Emakuku">
-
-<!ENTITY acceptCookies.label "Accept cookies from sites">
-<!ENTITY acceptCookies.accesskey "c">
-
-<!ENTITY keepUntil.label "Keep until:">
-<!ENTITY keepUntil.accesskey "K">
-
-<!ENTITY expire.label "they expire">
-<!ENTITY close.label "I close &brandShortName;">
-<!ENTITY askEachTime.label "ngibute ngaso sonkhe sikhatsi">
-
-<!ENTITY cookieExceptions.label "Exceptions...">
-<!ENTITY cookieExceptions.accesskey "E">
-
-<!ENTITY showCookies.label "Show Cookies...">
-<!ENTITY showCookies.accesskey "S">
 
 
-<!ENTITY privateData.label "Private Data">
 
-<!ENTITY alwaysClear.label "Always clear my private data when I close &brandShortName;">
-<!ENTITY alwaysClear.accesskey "w">
 
-<!ENTITY askBeforeClear.label "Ask me before clearing private data">
-<!ENTITY askBeforeClear.accesskey "A">
 
-<!ENTITY clearDataSettings.label "Settings...">
-<!ENTITY clearDataSettings.accesskey "t">
 
-<!ENTITY clearDataNow.label "Clear Now...">
-<!ENTITY clearDataNow.label2 "Clear Now">
-<!ENTITY clearDataNow.accesskey "N">
+
+
+<!ENTITY  history.label                 "Umlandvo">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY  askEachTime.label             "ngibute ngaso sonkhe sikhatsi">
+
+
+
+
+
+
+
+
+
+<!ENTITY  historyHeader.post.label         "">
+
+<!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
+
+
+
+
+
+<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
+
+
+
+
+
+
+
+
+
+
+
+

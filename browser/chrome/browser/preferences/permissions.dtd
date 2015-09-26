@@ -1,22 +1,27 @@
-<!ENTITY window.title "Lokungaphandle">
-<!ENTITY window.width "36em">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY treehead.sitename.label "Indzawo">
-<!ENTITY treehead.status.label "Simo">
-<!ENTITY addpermission.label "Indzawo lensha">
-<!ENTITY removepermission.label "Remove Site">
-<!ENTITY removepermission.accesskey "R">
-<!ENTITY removeallpermissions.label "Remove All Sites">
-<!ENTITY removeallpermissions.accesskey "e">
-<!ENTITY address.label "Likheli leweb-sayithi:">
-<!ENTITY block.label "Block">
-<!ENTITY block.accesskey "B">
-<!ENTITY session.label "Allow for Session">
-<!ENTITY session.accesskey "S">
-<!ENTITY allow.label "Allow">
-<!ENTITY allow.accesskey "A">
-<!ENTITY windowClose.key "w">
+<!ENTITY window.title                 "Lokungaphandle">
 
-<!ENTITY button.close.label "Vala">
-<!ENTITY button.close.accesskey "V">
+
+<!ENTITY treehead.sitename.label      "Indzawo">
+<!ENTITY treehead.status.label        "Simo">
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY windowClose.key              "w">
+
+
+
+
 

@@ -1,85 +1,63 @@
-<!ENTITY updateWizard.title "Kuvuselela tinhlelo">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!ENTITY  updateWizard.title              "Kuvuselela tinhlelo">
 
-<!ENTITY window.width "36em">
-<!ENTITY window.macWidth "39em">
+<!ENTITY  checking.title                  "Kuhlola lokuvuselelwe">
 
-<!ENTITY checking.title "Kuhlola lokuvuselelwe">
-<!ENTITY checking.label "&brandShortName; uhlola lokuvuselelwe nyalo...">
 
-<!ENTITY cancel.label "Cisha">
-<!ENTITY cancel.accesskey "C">
 
-<!ENTITY noupdatesfound.title "Akukho lokuvuselelwe lokutfolakele">
-<!ENTITY noupdatesfound.intro "There are no new updates available. &brandShortName; may check 
-                                           periodically for new updates.">
 
-<!ENTITY updatesfound.title "Lokuvuselelwe kukhona">
 
-<!ENTITY moreDetails.label "Imininingwane leminye &#0187;">
-<!ENTITY moreDetails.accesskey "I">
-<!ENTITY clickHere.label "View more information about this update">
+<!ENTITY  noupdatesfound.title            "Akukho lokuvuselelwe lokutfolakele">
 
-<!ENTITY incompatible.warning "This update will cause some of your extensions and/or themes 
-                                           to stop working until they are updated.">
-<!ENTITY listIncompatible.label "Khombisa Luhla">
-<!ENTITY listIncompatible.accesskey "L">
 
-<!ENTITY upgrade.evangelism "It is strongly recommended that you upgrade &brandShortName; 
-                                           as soon as possible.">
 
-<!ENTITY license.title "Isivumelwano semtselo">
-<!ENTITY license.intro "To install this update you must agree to this license agreement. 
-                                           Please read it carefully:">
-<!ENTITY license.instructions "If you agree to the terms of this agreement, click I Agree 
-                                           below to continue installing this update.">
 
-<!ENTITY license.titleText "Software License Agreement">
-<!ENTITY license.introText "Terms and conditions for using this software.">
-<!ENTITY license.instructionText "Please read the following license agreement. Use the scroll bar to view the rest of this agreement.">
-<!ENTITY license.accept "I accept the terms of the License Agreement">
-<!ENTITY license.accept.accesskey "c">
-<!ENTITY license.decline "I do NOT accept the terms of the License Agreement">
-<!ENTITY license.decline.accesskey "T">
 
-<!ENTITY downloading.title "Layisha lokuvuselelwe">
-<!ENTITY downloading.intro "Layisha lokuvuselelwe...">
-<!ENTITY connecting.label "Ngenelela esilulwini salokuvuselelwe...">
-<!ENTITY verificationFailedText.label "&brandShortName; was unable to verify the integrity of the 
-                                           incremental update it downloaded, so it is now downloading
-                                           the complete update package.">
 
-<!ENTITY details.link "Imininingwane">
-<!ENTITY pause.label "Phumula">
-<!ENTITY pause.accesskey "p">
-<!ENTITY close.label "Vala">
-<!ENTITY close.accesskey "V">
 
-<!ENTITY error.label "There were problems checking for, downloading or installing this 
-                                           update. &brandShortName; could not be updated because:">
-                                           
-<!ENTITY errorManual.label "You can update &brandShortName; manually by visiting this link
-                                           and downloading the latest version:">
-                                           
-<!ENTITY errorpatching.title "Kuvuselela kuhlulekile">
-<!ENTITY errorpatching.intro "The partial Update could not be applied. 
-                                           &brandShortName; will try again by downloading a complete Update.">
 
-<!ENTITY finished.title "Lokuvuselelwe kulayishiwe">
-<!ENTITY finished.text "The update was successfully downloaded and verified, and it will
-                                           be installed the next time &brandShortName; starts.">
 
-<!ENTITY finishedBackground.title "Lokuvuselelwe sekulindze kufakwa">
-<!ENTITY finishedBackground.text "&brandShortName; has downloaded and verified an important update. 
-                                           Click the link below for more details.">
-<!ENTITY finishedBackground.name "Vuselela:">
-<!ENTITY finishedBackground.more1 "Click Restart &brandShortName; Now to install the update now.">
-<!ENTITY finishedBackground.more2 "Click Later to close this dialog and continue working. &brandShortName;
-                                           will install the update the next time it starts.">
 
-<!ENTITY installed.title "Lokuvuselelwe kufakiwe">
-<!ENTITY installed.intro "Lokuvuselelwe kwafakwa kahle.">
-<!ENTITY whatsnew.label "Fundza kakhulu ngalokusha...">
 
-<!ENTITY update.details.label "Imininingwane">
-<!ENTITY update.installedOn.label "Kufakwe ku:">
-<!ENTITY update.status.label "Simo:">
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY  downloading.intro               "Layisha lokuvuselelwe…">
+<!ENTITY  connecting.label                "Ngenelela esilulwini salokuvuselelwe…">
+
+
+
+<!ENTITY  details.link                    "Imininingwane">
+
+<!ENTITY  error.title                     "Kuvuselela kuhlulekile">
+
+
+
+
+
+
+
+<!ENTITY  finishedPage.title              "Lokuvuselelwe sekulindze kufakwa">
+
+
+<!ENTITY  finishedBackground.name         "Vuselela:">
+<!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
+
+<!ENTITY  installed.title                 "Lokuvuselelwe kufakiwe">
+<!ENTITY  installed.intro                 "Lokuvuselelwe kwafakwa kahle.">
+<!ENTITY  whatsnew.label                  "Fundza kakhulu ngalokusha…">
+
+<!ENTITY  update.details.label            "Imininingwane">
+<!ENTITY  update.installedOn.label        "Kufakwe ku:">
+<!ENTITY  update.status.label             "Simo:">

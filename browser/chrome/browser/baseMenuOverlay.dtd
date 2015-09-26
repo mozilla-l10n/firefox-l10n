@@ -1,49 +1,43 @@
-<!ENTITY minimizeWindow.key "m">
-<!ENTITY minimizeWindow.label "Nciphisa">
-<!ENTITY bringAllToFront.label "Kubuyise konkhe ngembili">
-<!ENTITY zoomWindow.label "Zumu">
-<!ENTITY windowMenu.label "Windo">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY helpMenu.label "Sita">
-<!ENTITY helpMenu.accesskey "S">
+<!ENTITY minimizeWindow.key       "m">
+<!ENTITY minimizeWindow.label     "Nciphisa">
+<!ENTITY bringAllToFront.label    "Kubuyise konkhe ngembili">
+<!ENTITY zoomWindow.label         "Zumu">
+<!ENTITY windowMenu.label         "Windo">
+
+<!ENTITY helpMenu.label           "Sita"> 
+<!ENTITY helpMenu.accesskey       "S"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label "Sita">
-<!ENTITY helpMenuWin.accesskey "S">
-<!ENTITY aboutCmd.label "Nge &brandFullName;">
-<!ENTITY aboutCmd.accesskey "N">
-<!ENTITY helpContents.label "Sita lokucuketfwe">
-<!ENTITY helpContents.accesskey "S">
-<!ENTITY helpContentsMac.label "&brandShortName; Sita">
-<!ENTITY helpForIEUsers.label "Yebasebentisi be-Internet Explorer">
-<!ENTITY helpForIEUsers.accesskey "I">
-<!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac.commandkey "VK_HELP">
-<!-- LOCALIZATION NOTE openHelpMac2.commandkey and openHelpMac2.modifiers
-                       are all the necessary keys to hit OS X's open-help 
-                       keyboard (visible) shortcut (that's Cmd+? for most locales) -->
-<!ENTITY openHelpMac2.commandkey "/">
-<!ENTITY openHelpMac2.modifiers "accel,shift">
-<!ENTITY openHelpMac2.frontendCommandkey "?">
-<!ENTITY openHelpMac2.frontendModifiers "accel">
+<!ENTITY helpMenuWin.label        "Sita"> 
+<!ENTITY helpMenuWin.accesskey    "S">
 
-<!ENTITY helpReleaseNotes.label "Khulula emanotsi">
-<!ENTITY helpReleaseNotes.accesskey "E">
-<!ENTITY updateCmd.label "Hlola loko lokubuyeketiwe...">
-<!ENTITY updateCmd.accesskey "l">
 
-<!ENTITY preferencesCmdMac.label "Preferences...">
-<!ENTITY preferencesCmdMac.commandkey ",">
-<!ENTITY preferencesCmdMac.modifiers "accel">
+<!ENTITY productHelp2.label       "&brandShorterName; Sita">
+<!ENTITY productHelp2.accesskey   "S">
 
-<!ENTITY servicesMenuMac.label "Services">
 
-<!ENTITY hideThisAppCmdMac.label "Hide &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey "H">
-<!ENTITY hideThisAppCmdMac.modifiers "accel">
 
-<!ENTITY hideOtherAppsCmdMac.label "Hide Others">
-<!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
 
-<!ENTITY showAllAppsCmdMac.label "Show All">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

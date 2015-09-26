@@ -1,44 +1,49 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY connectionsDialog.title "Tinhlelo Letihlanganisako">
-<!ENTITY window.width "37em">
-<!ENTITY window.macWidth "39em">
 
-<!ENTITY proxyTitle.label "Lungisa Emaproksi Utewungena ku-Inthanethi">
-<!ENTITY directTypeRadio.label "Khombisa tihlanganisi ku-Inthanethi">
-<!ENTITY directTypeRadio.accesskey "k">
-<!ENTITY WPADTypeRadio.label "Tinhlelo teproksi leyi-othodithekthi talenethiwekhi">
-<!ENTITY WPADTypeRadio.accesskey "t">
-<!ENTITY manualTypeRadio.label "Kulungiswa kweproksi Yekuphatfwa:">
-<!ENTITY manualTypeRadio.accesskey "k">
-<!ENTITY autoTypeRadio.label "Kulungiswa kweproksi Leyi-othomathiki I-URL:">
-<!ENTITY autoTypeRadio.accesskey "o">
-<!ENTITY configAutoconfigText.label "Kulungisa indzawo (URL):">
-<!ENTITY configAutoconfigText.accesskey "u">
-<!ENTITY reload.label "Reload">
-<!ENTITY reload.accesskey "e">
-<!ENTITY ftp.label "FTP Proksi:">
-<!ENTITY ftp.accesskey "F">
-<!ENTITY gopher.label "Gopher Proksi:">
-<!ENTITY gopher.accesskey "G">
-<!ENTITY http.label "HTTP Proxy:">
-<!ENTITY http.accesskey "y">
-<!ENTITY ssl.label "SSL Proksi:">
-<!ENTITY ssl.accesskey "S">
-<!ENTITY socks.label "Umvakashelwa SOCKS:">
-<!ENTITY socks.accesskey "C">
-<!ENTITY socks4.label "SOCKS v4">
-<!ENTITY socks4.accesskey "K">
-<!ENTITY socks5.label "SOCKS v5">
-<!ENTITY socks5.accesskey "v">
-<!ENTITY port.label "Sikhumulo:">
-<!ENTITY HTTPport.accesskey "P">
-<!ENTITY SSLport.accesskey "o">
-<!ENTITY FTPport.accesskey "r">
-<!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
-<!ENTITY gopherPort.accesskey "">
-<!ENTITY SOCKSport.accesskey "t">
-<!ENTITY noproxy.label "Kute Iproksi ya:">
-<!ENTITY noproxy.accesskey "k">
-<!ENTITY noproxyExplain.label "Sibonelo: .mozilla.org, .net.za, 192.168.1.0/24">
-<!ENTITY shareproxy.label "Sebentisa leproksi nawuseva onkhe emaprothokholi">
-<!ENTITY shareproxy.accesskey "s">
+<!ENTITY  connectionsDialog.title       "Tinhlelo Letihlanganisako">
+
+
+
+<!ENTITY  proxyTitle.label              "Lungisa Emaproksi Utewungena ku-Inthanethi">
+
+
+
+
+<!ENTITY  WPADTypeRadio.label           "Tinhlelo teproksi leyi-othodithekthi talenethiwekhi">
+<!ENTITY  WPADTypeRadio.accesskey       "t">
+<!ENTITY  manualTypeRadio.label         "Kulungiswa kweproksi Yekuphatfwa:">
+<!ENTITY  manualTypeRadio.accesskey     "K">
+<!ENTITY  autoTypeRadio.label           "Kulungiswa kweproksi Leyi-othomathiki I-URL:">
+<!ENTITY  autoTypeRadio.accesskey       "o">
+
+
+<!ENTITY  ftp.label                     "FTP Proksi:">
+<!ENTITY  ftp.accesskey                 "F">
+
+
+
+
+<!ENTITY  socks.label                   "Umvakashelwa SOCKS:">
+<!ENTITY  socks.accesskey               "C">
+<!ENTITY  socks4.label                  "SOCKS v4">
+<!ENTITY  socks4.accesskey              "K">
+<!ENTITY  socks5.label                  "SOCKS v5">
+<!ENTITY  socks5.accesskey              "v">
+
+
+<!ENTITY  port.label                    "Sikhumulo:">
+
+<!ENTITY  SSLport.accesskey             "o">
+<!ENTITY  FTPport.accesskey             "r">
+<!ENTITY  SOCKSport.accesskey           "t">
+<!ENTITY  noproxy.label                 "Kute Iproksi ya:">
+<!ENTITY  noproxy.accesskey             "K">
+<!ENTITY  noproxyExplain.label          "Sibonelo: .mozilla.org, .net.za, 192.168.1.0/24">
+
+
+
+
+

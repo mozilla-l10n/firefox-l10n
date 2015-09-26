@@ -1,15 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY history.title "Umlandvo wekubuyeketa">
-<!ENTITY history.intro "Lokubuyeketa lokulandzelako sekufakiwe:">
-<!ENTITY closebutton.label "Vala">
+
+<!ENTITY  history.title             "Umlandvo wekubuyeketa">
+<!ENTITY  history.intro             "Lokubuyeketa lokulandzelako sekufakiwe:">
+<!ENTITY  closebutton.label         "Vala">
                                      
-<!ENTITY detailsButton.label "Imininingwane">
-<!ENTITY detailsButton.accesskey "I">
+<!ENTITY  noupdates.label           "Kusete lokubuyeketiwe lokufakiwe">
 
-<!ENTITY noupdates.label "Kusete lokubuyeketiwe lokufakiwe">
-
-<!ENTITY name.header "Buyeketa libito">
-<!ENTITY date.header "Faka lusuku">
-<!ENTITY type.header "Inhlobo">
-<!ENTITY state.header "Live">
+<!ENTITY  name.header               "Buyeketa libito">
+<!ENTITY  date.header               "Faka lusuku">
+<!ENTITY  type.header               "Inhlobo">
+<!ENTITY  state.header              "Live">
 

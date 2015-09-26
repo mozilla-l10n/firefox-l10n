@@ -1,22 +1,28 @@
-<!ENTITY colorsDialog.title "Imibala">
-<!ENTITY window.width "38em">
-<!ENTITY window.macWidth "41em">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY allowPagesToUse.label "Allow pages to choose their own colors, instead of my selections above">
-<!ENTITY allowPagesToUse.accesskey "A">
+<!ENTITY  colorsDialog.title              "Imibala">
 
-<!ENTITY color "Umbhalo Neliphasi lawo">
-<!ENTITY textColor.label "Umbhalo:">
-<!ENTITY textColor.accesskey "u">
-<!ENTITY backgroundColor.label "Likamuva:">
-<!ENTITY backgroundColor.accesskey "l">
-<!ENTITY useSystemColors.label "Sebentisa imibala yenchubo">
-<!ENTITY useSystemColors.accesskey "e">
 
-<!ENTITY underlineLinks.label "Dvwebela tihlanganisi">
-<!ENTITY underlineLinks.accesskey "d">
-<!ENTITY links "Hlanganisa imibala">
-<!ENTITY linkColor.label "Tihlanganisi letingakavakashelwa:">
-<!ENTITY linkColor.accesskey "t">
-<!ENTITY visitedLinkColor.label "Tihlanganisi lesetivakashelwe:">
-<!ENTITY visitedLinkColor.accesskey "t">
+
+
+
+
+
+
+<!ENTITY  color                           "Umbhalo Neliphasi lawo">
+<!ENTITY  textColor.label                 "Umbhalo:">
+<!ENTITY  textColor.accesskey             "U">
+<!ENTITY  backgroundColor.label           "Likamuva:">
+<!ENTITY  backgroundColor.accesskey       "L">
+<!ENTITY  useSystemColors.label           "Sebentisa imibala yenchubo">
+<!ENTITY  useSystemColors.accesskey       "e">
+
+<!ENTITY  underlineLinks.label            "Dvwebela tihlanganisi">
+<!ENTITY  underlineLinks.accesskey        "D">
+<!ENTITY  links                           "Hlanganisa imibala">
+<!ENTITY  linkColor.label                 "Tihlanganisi letingakavakashelwa:">
+<!ENTITY  linkColor.accesskey             "T">
+<!ENTITY  visitedLinkColor.label          "Tihlanganisi lesetivakashelwe:">
+<!ENTITY  visitedLinkColor.accesskey      "t">

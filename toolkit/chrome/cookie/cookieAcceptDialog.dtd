@@ -1,20 +1,21 @@
-<!ENTITY props.box.label "Ngalamakukisi">
-<!ENTITY props.name.label "Libito:">
-<!ENTITY props.value.label "Lokucuketfwe:">
-<!ENTITY props.domain.label "Umvakashelwa:">
-<!ENTITY props.path.label "Indlela:">
-<!ENTITY props.secure.label "Tfumelela:">
-<!ENTITY props.expires.label "Ispayile:">
-<!ENTITY props.policy.label "Inchubomgomo:">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY button.allow.label "Vumela">
-<!ENTITY button.allow.accesskey "V">
-<!ENTITY button.session.label "Vumela Iseshini">
-<!ENTITY button.session.accesskey "I">
-<!ENTITY button.deny.label "Yalela">
-<!ENTITY button.deny.accesskey "Y">
+<!ENTITY     props.name.label               "Libito:">
+<!ENTITY     props.value.label              "Lokucuketfwe:">
+<!ENTITY     props.domain.label             "Umvakashelwa:">
+<!ENTITY     props.path.label               "Indlela:">
+<!ENTITY     props.secure.label             "Tfumelela:">
+<!ENTITY     props.expires.label            "Ispayile:">
 
-<!ENTITY dialog.title "Cinisekisa tinhlelo temakukisi">
-<!ENTITY dialog.remember.label "Sebentisa kukhetsa kwami kuwo onkhe emakukisi akulelisayithi">
-<!ENTITY dialog.remember.accesskey "S">
+<!ENTITY     button.allow.label             "Vumela">
+<!ENTITY     button.allow.accesskey         "V">
+<!ENTITY     button.session.label           "Vumela Iseshini">
+<!ENTITY     button.session.accesskey       "I">
+<!ENTITY     button.deny.label              "Yalela">
+<!ENTITY     button.deny.accesskey          "Y">
 
+<!ENTITY     dialog.title                   "Cinisekisa tinhlelo temakukisi">
+<!ENTITY     dialog.remember.label          "Sebentisa kukhetsa kwami kuwo onkhe emakukisi akulelisayithi">
+<!ENTITY     dialog.remember.accesskey      "S">
