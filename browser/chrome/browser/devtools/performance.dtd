@@ -53,13 +53,13 @@
   -  in the toolbar on buttons that select which view is currently shown. -->
 
 <!ENTITY performanceUI.toolbar.waterfall "Cascata">
-
+<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Mostra as diferentes operações que o navegador está a executar durante a gravação, dispostas em cascata de forma sequencial.">
 <!ENTITY performanceUI.toolbar.js-calltree "Árvore de invocações">
-
+<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Destaca as funções JavaScript onde o navegador despendeu mais tempo durante a gravação.">
 <!ENTITY performanceUI.toolbar.memory-calltree "Alocações">
-
+<!ENTITY performanceUI.toolbar.allocations.tooltiptext "Mostra onde a memória foi alocada durante a gravação.">
 <!ENTITY performanceUI.toolbar.js-flamegraph "Gráfico em chama de JS">
-
+<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Mostra a pilha de invocações JavaScript durante o curso da gravação.">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "Gráfico em chama de alocações">
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
