@@ -25,7 +25,7 @@
 <!ENTITY enableHealthReport.accesskey    "R">
 <!ENTITY healthReportLearnMore.label     "Aprender más">
 <!ENTITY telemetryDesc.label             "Comparte datos de rendimiento, uso, hardware y personalizaciones de su navegador con &vendorShortName; para ayudarnos a mejorar &brandShortName;">
-<!ENTITY enableTelemetryData.label       "Compartir datos adicionales (por ejemplo, Telemetría)">
+<!ENTITY enableTelemetryData.label       "Compartir datos adicionales (por ejemplo: telemetría)">
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Aprender más">
 <!ENTITY crashReporterDesc.label         "&brandShortName; envía reporte de fallos a &vendorShortName; para hacer más estable y seguro su navegador">
