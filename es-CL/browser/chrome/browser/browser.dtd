@@ -509,18 +509,18 @@
 <!ENTITY identity.connectionVerified1 "Está conectado de forma segura a este sitio, perteneciente a:">
 <!ENTITY identity.connectionInternal "Esta es una página segura de &brandShortName;.">
 <!ENTITY identity.activeBlocked "&brandShortName; ha bloqueado partes de esta página que no son seguras.">
-<!ENTITY identity.passiveLoaded "Partes de esta página no son seguras (por ejemplo, imágenes).">
+<!ENTITY identity.passiveLoaded "Partes de esta página no son seguras (por ejemplo: imágenes).">
 <!ENTITY identity.activeLoaded "Ha desactivado la protección en esta página.">
 <!ENTITY identity.weakEncryption "Esta página usa un cifrado débil.">
-<!ENTITY identity.description.insecure "Su conexión a este sitio no es provada. La información que envíe puede ser vista por otros (por ejemplo, contraseñas, mensajes, tarjetas de crédito, etc.).">
+<!ENTITY identity.description.insecure "Su conexión a este sitio no es privada. La información que envíe puede ser vista por otros (por ejemplo: contraseñas, mensajes, tarjetas de crédito, etc.).">
 <!ENTITY identity.description.weakCipher "Su conexión a este sitio web usa un cifrado débil y no es privada.">
 <!ENTITY identity.description.weakCipher2 "Otras personas pueden ver su información o modificar el comportamiento del sitio web.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; ha bloqueado partes de esta página que no son seguras.">
 <!ENTITY identity.description.passiveLoaded "Su conexión no es privada y la información que comparta con el sitio puede ser vista por otros.">
-<!ENTITY identity.description.passiveLoaded2 "Este sitio web contiene contenido que no es seguro (por ejemplo, imágenes).">
-<!ENTITY identity.description.passiveLoaded3 "Aunque &brandShortName; ha bloqueado parte del contenido, aún hay contenido en la página que no es seguro (por ejemplo, imágenes).">
-<!ENTITY identity.description.activeLoaded "Este sitio web contiene contenido que no es seguro (por ejemplo scripts) y su conexión a éste no es privada.">
-<!ENTITY identity.description.activeLoaded2 "La información que comparta con este sitio puede ser vista por otros (por ejemplo, contraseñas, mensajes, tarjetas de crédito, etc.).">
+<!ENTITY identity.description.passiveLoaded2 "Este sitio web contiene contenido que no es seguro (por ejemplo: imágenes).">
+<!ENTITY identity.description.passiveLoaded3 "Aunque &brandShortName; ha bloqueado parte del contenido, aún hay contenido en la página que no es seguro (por ejemplo: imágenes).">
+<!ENTITY identity.description.activeLoaded "Este sitio web contiene contenido que no es seguro (por ejemplo: scripts) y su conexión a éste no es privada.">
+<!ENTITY identity.description.activeLoaded2 "La información que comparta con este sitio puede ser vista por otros (por ejemplo: contraseñas, mensajes, tarjetas de crédito, etc.).">
 <!ENTITY identity.enableMixedContentBlocking.label "Activar protección">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "E">
 <!ENTITY identity.disableMixedContentBlocking.label "Desactivar protección por ahora">
