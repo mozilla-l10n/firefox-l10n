@@ -9,6 +9,6 @@
 <!ENTITY aboutAccountsConfig.startButton.label "စတင်ကြမယ်">
 <!ENTITY aboutAccountsConfig.useOldSync.label "Sync ဝန်ဆောင်မှုအဟောင်းကို အသုံးပြုနေပါသလား။">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "အပြင်အဆင်များကို တပြေးညီလုပ်ရန်">
-
-
-
+<!ENTITY aboutAccounts.noConnection.title "ချိတ်ဆက်မှု မရှိပါ">
+<!ENTITY aboutAccounts.noConnection.description "ဝင်ရောက်ရန် အင်တာနက်သို့ ချိတ်ဆက်ထားရပါမည်။">
+<!ENTITY aboutAccounts.noConnection.retry "နောက်တစ်ကြိမ် ပြုလုပ်ကြည့်ပါ">

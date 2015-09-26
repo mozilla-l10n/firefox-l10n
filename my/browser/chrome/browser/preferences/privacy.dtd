@@ -13,8 +13,8 @@
 <!ENTITY trackingProtectionPBM5.label         "ခြေရာခံခြင်း ကာကွယ်မှုကို သီးသန့် ဝင်းဒိုးများတွင် အသုံးပြုပါ v">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "ပိုမိုလေ့လာရန်">
-
-
+<!ENTITY changeBlockList.label          "ပိတ်ပင်ထားသည့် စာရင်းကို ပြင်ရန် C">
+<!ENTITY changeBlockList.accesskey      "C">
 
 <!ENTITY  history.label                 "မှတ်တမ်း">
 

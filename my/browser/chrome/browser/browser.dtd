@@ -406,7 +406,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "သင့်ရှာဖွေမှုအတွေ့အကြုံကို အကြံပေးချက်များနဲ့အတူ တိုးတက်အောင် ပြုလိုပါသလား။">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "ပိုမိုလေ့လာရန်။">
-
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "မလုပ်ဘူး">
 <!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "ကောင်းပြီ">
@@ -706,9 +706,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "လုံခြုံသော ချိတ်ဆက်မှု">
 <!ENTITY identity.connectionNotSecure "ချိတ်ဆက်မှုသည် မလုံခြုံပါ">
 <!ENTITY identity.connectionFile "ဒီစာမျက်နှာကို သင့်ကွန်ပြူတာတွင် သိမ်းထားသည်။">
-
+<!ENTITY identity.connectionVerified1 "သင်သည် ဒီဆိုက်ကို လုံခြုံစွာ ချိတ်ဆက်နိုင်ခဲ့သည်။ ဆောင်ရွက်သူ။:">
 <!ENTITY identity.connectionInternal "ဒီ &brandShortName; စာမျက်နှာသည် လုံခြုံစိတ်ချရသည်။">
-
+<!ENTITY identity.insecureLoginForms "သင့် ဝင်ရောက်မှုအချက်အလက်သည် ခိုးယူခံရနိုင်ဖွယ် ရှိသည်။">
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "&brandShortName; ၏ အစိတ်အပိုင်းတချို့သည် မလုံခြုံသောကြောင့် ၄င်းကို တားဆီးထားသည်။">

@@ -72,7 +72,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY notSignedIn.label           "အကောင့်ဖြင့် မဝင်ထားပါ">
 <!ENTITY signIn.label                "ဝင်ပါ">
 <!ENTITY profilePicture.tooltip      "ပရိုဖိုင်းရုပ်ပုံကို ပြောင်းလဲရန်">
-
+<!ENTITY verifiedManage.label        "အကောင့်ကို စီမံရန်">
 <!ENTITY disconnect.label            "ချိတ်ဆက်ဖြုတ်...">
 <!ENTITY verify.label                "အီးမေလ်း အတည်ပြု">
 <!ENTITY forget.label                "အခု အီးမေလ်းအား ဖျက်">
