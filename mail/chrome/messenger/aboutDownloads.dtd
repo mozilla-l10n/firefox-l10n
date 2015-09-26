@@ -17,8 +17,8 @@
 <!ENTITY cmd.open.accesskey                        "O">
 <!ENTITY cmd.removeFromHistory.label               "Ukloni iz povijesti">
 <!ENTITY cmd.removeFromHistory.accesskey           "s">
-
-
-
-
-
+<!ENTITY cmd.clearList.label                       "Očisti popis">
+<!ENTITY cmd.clearList.accesskey                   "s">
+<!ENTITY cmd.clearList.tooltip                     "Ukloni sve unose s popisa spremljenih datoteka, osim preuzimanja u tijeku.">
+<!ENTITY cmd.searchDownloads.label                 "Traži…">
+<!ENTITY cmd.searchDownloads.key                   "F">

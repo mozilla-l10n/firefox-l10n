@@ -5,7 +5,7 @@
 <!ENTITY itemJunk.label          "Neželjena pošta">
 <!ENTITY itemPhishing.label      "Prijevare e-poštom">
 <!ENTITY itemPasswords.label     "Lozinke">
-
+<!ENTITY itemAntiVirus.label     "Antivirus">
 <!-- Junk Mail Controls -->
 
 <!ENTITY junkMail.intro "Postavite svoje zadane postavke neželjene pošte. Specifične postavke za pojedini račun se mogu podesiti u postavkama računa.">
@@ -42,5 +42,7 @@
 <!ENTITY savedPasswords.accesskey       "S">
 <!-- Anti Virus -->
 
-
+<!ENTITY antiVirus.intro      "&brandShortName; može olakšati antivirusnim programima analizu primljenih poruka e-pošte na viruse prije nego se pohrane lokalno.">
+<!ENTITY antiVirus.label      "Dozvoli antivirusnim programima da izoliraju pojedine primljene poruke">
+<!ENTITY antiVirus.accesskey  "a">
 

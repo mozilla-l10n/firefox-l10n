@@ -215,7 +215,7 @@
 <!ENTITY addressButton.tooltip "Odaberi primatelja iz adresara">
 <!ENTITY attachButton.tooltip "Uključi privitak">
 <!ENTITY spellingButton.tooltip "Provjeri pravopis odabranog teksta ili cijele poruke">
-
+<!ENTITY statusLanguageText.tooltip "Jezik za provjeru pravopisa">
 <!ENTITY saveButton.tooltip "Spremi ovu poruku">
 <!ENTITY cutButton.tooltip              "Izreži">
 <!ENTITY copyButton.tooltip             "Kopiraj">
