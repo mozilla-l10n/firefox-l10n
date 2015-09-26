@@ -112,7 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignIn.label "لِج إلى &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "افتح تفضيلات &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "أعِد الاتصال مع &syncBrand.shortName.label;">
-
+<!ENTITY fxaUnverified.label "أكّد حسابك">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; مفعّل">
 <!ENTITY syncStartPanel2.subTitle "سيبدأ &brandShortName; في المزامنة حالًا.">
 
@@ -131,12 +131,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY fullscreenWarning.beforeDomain.label "">
-
-
+<!ENTITY fullscreenWarning.afterDomain.label "يملأ الشاشة الآن">
+<!ENTITY fullscreenWarning.generic.label "يملأ هذا المستند الشاشة الآن">
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
-
+<!ENTITY exitDOMFullscreen.button "غادر ملء الشاشة (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "غادر ملء الشاشة (esc)">
 <!ENTITY leaveDOMFullScreen.label "غادر ملء الشاشة">
 <!ENTITY leaveDOMFullScreen.accesskey "م">
 
@@ -222,7 +223,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "التنزيلات">
 <!ENTITY downloads.accesskey          "ز">
 <!ENTITY downloads.commandkey         "j">
-
+<!ENTITY downloadsUnix.commandkey     "‬y">
 <!ENTITY addons.label                 "الإضافات">
 <!ENTITY addons.accesskey             "ض">
 <!ENTITY addons.commandkey            "A">
@@ -405,11 +406,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "أتريد تحسين نتائج بالبحث بالاقتراحات؟">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "اطّلع على المزيد…">
-
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "ط">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "لا">
-
+<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "ل">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "نعم">
-
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "ن">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -466,9 +467,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "غيّر إعدادات البحث">
 
-
-
-
+<!ENTITY searchInNewTab.label         "ابحث في لسان جديد">
+<!ENTITY searchInNewTab.accesskey     "س">
+<!ENTITY searchSetAsDefault.label     "اجعله محرك البحث الافتراضي">
+<!ENTITY searchSetAsDefault.accesskey "ف">
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -704,7 +706,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "اتصال آمن">
 <!ENTITY identity.connectionNotSecure "الاتصال غير آمن">
 <!ENTITY identity.connectionFile "هذه الصفحة مخزنة على حاسوبك.">
-
+<!ENTITY identity.connectionVerified1 "تتصل بأمان مع هذا الموقع، و الذي يديره:">
 <!ENTITY identity.connectionInternal "هذه صفحة &brandShortName; آمنة.">
 
 <!-- Strings for connection state warnings. -->
@@ -746,7 +748,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "تزامُن">
 
-
+<!ENTITY syncSignIn.label             "لِج إلى &syncBrand.shortName.label;…">
+<!ENTITY syncSignIn.accesskey         "ز">
 <!ENTITY syncSyncNowItem.label        "زامِن الآن">
 <!ENTITY syncSyncNowItem.accesskey    "ز">
 <!ENTITY syncReAuthItem.label         "أعِد الاتصال مع &syncBrand.shortName.label;…">
