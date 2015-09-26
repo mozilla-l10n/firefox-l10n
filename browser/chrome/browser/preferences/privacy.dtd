@@ -13,8 +13,8 @@
 <!ENTITY trackingProtectionPBM5.label         "Gizli pencerelerde izlenme korumasını kullan">
 <!ENTITY trackingProtectionPBM5.accesskey     "G">
 <!ENTITY trackingProtectionPBMLearnMore.label "Daha fazla bilgi alın">
-
-
+<!ENTITY changeBlockList.label          "Engelleme listesini değiştir">
+<!ENTITY changeBlockList.accesskey      "E">
 
 <!ENTITY  history.label                 "Geçmiş">
 

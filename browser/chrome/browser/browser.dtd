@@ -112,7 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; oturumu aç">
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; tercihlerini aç">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label;'e tekrar bağlan">
-
+<!ENTITY fxaUnverified.label "Hesabınızı doğrulayın">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; etkinleştirildi">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; az sonra eşitlenmeye başlayacak.">
 
@@ -131,12 +131,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY fullscreenWarning.beforeDomain.label "">
-
-
+<!ENTITY fullscreenWarning.afterDomain.label "artık tam ekran">
+<!ENTITY fullscreenWarning.generic.label "Bu belge artık tam ekran">
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
-
+<!ENTITY exitDOMFullscreen.button "Tam ekrandan çık (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "Tam ekrandan çık (esc)">
 <!ENTITY leaveDOMFullScreen.label "Tam ekrandan çık">
 <!ENTITY leaveDOMFullScreen.accesskey "e">
 
@@ -222,7 +223,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "İndirilenler">
 <!ENTITY downloads.accesskey          "d">
 <!ENTITY downloads.commandkey         "j">
-
+<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Eklentiler">
 <!ENTITY addons.accesskey             "E">
 <!ENTITY addons.commandkey            "A">
@@ -464,9 +465,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Arama ayarlarını değiştir">
 
-
-
-
+<!ENTITY searchInNewTab.label         "Yeni sekmede ara">
+<!ENTITY searchInNewTab.accesskey     "s">
+<!ENTITY searchSetAsDefault.label     "Varsayılan arama motoru yap">
+<!ENTITY searchSetAsDefault.accesskey "m">
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -708,7 +710,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "&brandShortName; bu sayfanın güvenli olmayan kısımlarını engelledi.">
-<!ENTITY identity.passiveLoaded "Bu safanın bazı kısımları (örneğin resimler) güvenli değil.">
+<!ENTITY identity.passiveLoaded "Bu sayfanın bazı kısımları (örneğin resimler) güvenli değil.">
 <!ENTITY identity.activeLoaded "Bu sayfada korumayı devre dışı bıraktınız.">
 <!ENTITY identity.weakEncryption "Bu sayfada zayıf şifreleme kullanılıyor.">
 <!-- Strings for connection state warnings in the subview. -->
@@ -744,6 +746,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
+<!ENTITY syncSignIn.label             "&syncBrand.shortName.label; oturumu aç…">
 
 <!ENTITY syncSyncNowItem.label        "Şimdi eşitle">
 <!ENTITY syncSyncNowItem.accesskey    "m">
