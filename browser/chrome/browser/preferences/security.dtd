@@ -24,7 +24,10 @@
 <!ENTITY  addonExceptions.accesskey     "ث">
 
 
+<!ENTITY  logins.label                  "جلسات الولوج">
 
+<!ENTITY  rememberLogins.label          "تذكّر جلسات ولوج المواقع">
+<!ENTITY  rememberLogins.accesskey      "ت">
 <!ENTITY  passwordExceptions.label      "الاستثناءات…">
 <!ENTITY  passwordExceptions.accesskey  "س">
 
@@ -33,4 +36,5 @@
 <!ENTITY  changeMasterPassword.label     "غيّر كلمة السر الرئيسية…">
 <!ENTITY  changeMasterPassword.accesskey "ر">
 
-
+<!ENTITY  savedLogins.label              "جلسات الولوج المحفوظة…">
+<!ENTITY  savedLogins.accesskey          "ح">

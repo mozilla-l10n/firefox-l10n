@@ -11,7 +11,7 @@
 
 <!ENTITY showURLBarSuggestions.label           "أظهر اقتراحات البحث في نتائج شريط الموقع.">
 <!ENTITY showURLBarSuggestions.accesskey       "ق">
-
+<!ENTITY urlBarSuggestionsPermanentPB.label    "لن تظهر اقتراحات البحث في نتائج شريط الموقع لأنّك أعددت &brandShortName; على ألّا يتذكر التأريخ.">
 
 <!ENTITY redirectWindowsSearch.label "استخدم محرك البحث هذا عند البحث من وندوز">
 <!ENTITY redirectWindowsSearch.accesskey "ن">
