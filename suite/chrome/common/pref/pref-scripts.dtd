@@ -21,6 +21,10 @@
 <!ENTITY allowContextmenuDisable.label   "Blockera eller ersätta snabbvalsmenyer">
 <!ENTITY allowHideStatusBar.label        "Dölja statusfältet">
 
+<!ENTITY enableDrmMedia.label            "Aktivera DRM (kopieringsspärr) för">
+<!ENTITY enableEmeForSuite.label         "Tredjepartsmoduler för innehållsdekryptering">
+<!ENTITY enableEmeForSuite.accesskey     "d">
+
 <!ENTITY enablePlugins.label             "Aktivera insticksmoduler för">
 <!ENTITY enablePluginForSuite.label      "Sviten">
 <!ENTITY enablePluginForSuite.accesskey  "v">
