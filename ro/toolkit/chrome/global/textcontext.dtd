@@ -19,7 +19,7 @@
 <!ENTITY spellAddToDictionary.accesskey "u">
 <!ENTITY spellUndoAddToDictionary.label "Anulează adăugarea la dicționar">
 <!ENTITY spellUndoAddToDictionary.accesskey "n">
-<!ENTITY spellCheckToggle.label "Verificați ortografie">
+<!ENTITY spellCheckToggle.label "Verifică ortografia">
 <!ENTITY spellCheckToggle.accesskey "g">
 <!ENTITY spellNoSuggestions.label "(nicio sugestie de ortografie)">
 <!ENTITY spellDictionaries.label "Limbi">
