@@ -5,7 +5,7 @@
 <!ENTITY windowTitle.label "Culoare">
 <!ENTITY lastPickedColor.label "Ultima culoare aleasă">
 <!ENTITY lastPickedColor.accessKey "U">
-<!ENTITY setColor1.label "Apăsați pe o culoare sau">
+<!ENTITY setColor1.label "Clic pe o culoare sau">
 <!ENTITY setColor2.label "introduceți o culoare HTML">
 <!ENTITY setColor2.accessKey "H">
 <!ENTITY setColorExample.label "(ex.: „#0000ff” sau „blue”):">

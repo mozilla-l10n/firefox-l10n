@@ -14,5 +14,5 @@
 <!ENTITY tabCSS.label                   "Stil inline">
 <!ENTITY tabJSE.label                   "Evenimente JavaScript">
 
-<!ENTITY editAttribute.label    "Apăsați pe un element de mai sus pentru a-i edita valoarea">
+<!ENTITY editAttribute.label    "Clic pe un element de mai sus pentru a-i edita valoarea">
 <!ENTITY removeAttribute.label  "Șterge">
