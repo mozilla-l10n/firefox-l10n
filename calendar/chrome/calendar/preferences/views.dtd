@@ -14,6 +14,8 @@
 
 <!ENTITY pref.weekstarts.label "الأسبوع يبدأ يوم:">
 <!ENTITY pref.weekstarts.accesskey "س">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.label "أظهر رقم الأسبوع في المنظور و الشهر المصغر">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "ظ">
 <!ENTITY pref.daysoff.label "هذه الأيام هي أيام العمل:">
 
 <!ENTITY pref.calendar.view.daystart.label "يبدأ اليوم في:">
