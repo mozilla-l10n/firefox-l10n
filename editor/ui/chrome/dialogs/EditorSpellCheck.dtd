@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Перевірка орфографії">
+<!ENTITY windowTitle.label "Перевірка правопису">
 
 <!ENTITY misspelledWord.label "Слово з помилкою:">
 <!ENTITY wordEditField.label "Замінити на:">
@@ -28,9 +28,11 @@
 <!ENTITY addToUserDictionaryButton.accessKey "Д">
 <!ENTITY editUserDictionaryButton.label "Змінити…">
 <!ENTITY editUserDictionaryButton.accessKey "м">
+<!ENTITY recheckButton2.label "Повторно перевірити текст">
+<!ENTITY recheckButton2.accessKey "П">
 <!ENTITY closeButton.label "Закрити">
 <!ENTITY closeButton.accessKey "к">
-<!ENTITY sendButton.label "Відіслати">
+<!ENTITY sendButton.label "Надіслати">
 <!ENTITY sendButton.accessKey "В">
 <!ENTITY languagePopup.label "Мова:">
 <!ENTITY languagePopup.accessKey "М">
