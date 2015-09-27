@@ -386,7 +386,7 @@ size. -->
 
 <!ENTITY find_text "Na boku pytaś">
 <!ENTITY find_prev "Pjerwjejšny">
-
+<!ENTITY find_next "Pśiducy">
 <!ENTITY find_close "Zacyniś">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -411,8 +411,8 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Sedło pśipěś">
 <!ENTITY contextmenu_top_sites_unpin "Sedko wótpěś">
 <!ENTITY contextmenu_add_search_engine "Pytnicu pśidaś">
-
-
+<!ENTITY contextmenu_mark_read "Ako pśecytany markěrowaś">
+<!ENTITY contextmenu_mark_unread "Ako njepśecytany markěrowś">
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
@@ -435,6 +435,8 @@ size. -->
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
+<!ENTITY pref_magnifying_glass_enabled "Małe wobcerki pówětšyś">
+<!ENTITY pref_magnifying_glass_enabled_summary "Wótkaze a formularne póla powětšyś, gaž pótusnjośo blisko nich">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -582,8 +584,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_insecure "Njewěsty zwisk">
 <!-- Mixed content notifications in site identity popup -->
 
-
-
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; jo njewěste elementy na toś tom boku blokěrował.">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; jo někotare njewěste elementy na toś tom boku blokěrował.">
+<!ENTITY mixed_content_display_loaded1 "Źěle toś togo boka njejsu wěste (na pśikład wobraze).">
+<!ENTITY mixed_content_protection_disabled1 "Sćo šćit pśeśiwo njewěstym elementam znjemóžnił.">
 <!-- Tracking content notifications in site identity popup -->
 
 <!ENTITY doorhanger_tracking_title "Slědowański šćit">
@@ -601,6 +605,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Priwatne daty wulašowane">
 <!ENTITY private_data_fail "Někotare priwatne daty njedaju se snaź lašowaś">
 
+<!ENTITY bookmarkhistory_button_import "Importěrowaś">
 <!ENTITY bookmarkhistory_import_both "Importěrowanje cytańskich znamjenjow a historije 
 z Androida">
 <!ENTITY bookmarkhistory_import_bookmarks "Importěrowanje cytańskich znamjenjow 
@@ -716,9 +721,17 @@ z Androida">
 <!ENTITY restriction_disallow_guest_browsing_title2 "Góstne pśeglědowanje znjemóžniś">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
+
+<!ENTITY bookmarks_title "Mobilne">
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!ENTITY bookmarks_about_browser "Firefox: Wó wašom wobglědowaku">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "Firefox: Z dodankami pśiměriś">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "Firefox: Pomoc">
 <!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
+<!ENTITY bookmarks_marketplace "Wikowanišćo Firefox">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!ENTITY bookmarks_restricted_support2 "Pomoc Firefox za wobgranicowane profile na Androidowych tabletach">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!ENTITY bookmarks_restricted_webmaker "Póznajśo web: Mozilla Webmaker">
