@@ -14,13 +14,16 @@
      of the Tracking Protection section, and in general not much larger than
      30em to prevent the sections from wrapping on smaller window sizes.
      -->
+<!ENTITY aboutPrivateBrowsing.width1           "30em">
 <!ENTITY aboutPrivateBrowsing.title            "מצב גלישה פרטית מופעל!">
 
+<!ENTITY aboutPrivateBrowsing.info.notsaved    "לא נשמר">
 <!ENTITY aboutPrivateBrowsing.info.history     "היסטוריה">
 <!ENTITY aboutPrivateBrowsing.info.searches    "חיפושים">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "עוגיות">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "קבצים זמניים">
 
+<!ENTITY aboutPrivateBrowsing.info.saved       "נשמר">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "הורדות">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "סימניות">
 
@@ -35,6 +38,7 @@
      Note that the required space may vary between platforms because fonts are
      different, so testing on Windows, Mac, and Linux is encouraged.
      -->
+<!ENTITY trackingProtection.width1             "22em">
 <!ENTITY trackingProtection.title              "הגנה מפני מעקב">
 
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
