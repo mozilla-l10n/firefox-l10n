@@ -17,8 +17,8 @@
 <!ENTITY cmd.open.accesskey                        "o">
 <!ENTITY cmd.removeFromHistory.label               "Thoir air falbh on eachdraidh">
 <!ENTITY cmd.removeFromHistory.accesskey           "e">
-
-
-
-
-
+<!ENTITY cmd.clearList.label                       "Falamhaich an liosta">
+<!ENTITY cmd.clearList.accesskey                   "F">
+<!ENTITY cmd.clearList.tooltip                     "Thoir air falbh gach rud air liosta nam faidhlichean a shàbhail thu ach a-mhàin na tha ’ga luchdadh a-nuas.">
+<!ENTITY cmd.searchDownloads.label                 "Lorg…">
+<!ENTITY cmd.searchDownloads.key                   "F">
