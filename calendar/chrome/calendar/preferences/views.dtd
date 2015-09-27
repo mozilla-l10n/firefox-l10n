@@ -14,8 +14,8 @@
 
 <!ENTITY pref.weekstarts.label "Tòisich an t-seachdain:">
 <!ENTITY pref.weekstarts.accesskey "T">
-
-
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Seall àireamh na seachdain sna seallaidhean agus sa mheanbh-mhìos">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "h">
 <!ENTITY pref.daysoff.label "Gabh a-steach na làithean a leanas san t-seachdain-obrach:">
 
 <!ENTITY pref.calendar.view.daystart.label "Tòisichidh an latha aig:">
