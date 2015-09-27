@@ -5,7 +5,7 @@
 <!ENTITY itemJunk.label          "Truilleis">
 <!ENTITY itemPhishing.label      "Fallsaidheachdan puist-dhealain">
 <!ENTITY itemPasswords.label     "Faclan-faire">
-
+<!ENTITY itemAntiVirus.label     "Bathar an aghaigh bhìorasan">
 <!-- Junk Mail Controls -->
 
 <!ENTITY junkMail.intro "Suidhich na roghainnean bunaiteach agad airson post-truilleis. &apos;S urrainn dhut roghainnean a shònrachadh ann an &quot;Roghainnean nan cunntasan&quot; aig am bi buaidh air cunntasan fa leth.">
@@ -42,5 +42,7 @@
 <!ENTITY savedPasswords.accesskey       "s">
 <!-- Anti Virus -->
 
-
+<!ENTITY antiVirus.intro      "Nì &brandShortName; furasta e do bhathar-bog an aghaidh bhìorasan teachdaireachdan puist a thig a-steach a sgrùdadh air eagal ’s gum bi bìorasan annta, mus dèid an stòradh gu h-ionadail.">
+<!ENTITY antiVirus.label      "Leig le cliantan an aghaidh bhìorasan teachdaireachdan a thig a-steach a chur ann an cuarantain">
+<!ENTITY antiVirus.accesskey  "a">
 
