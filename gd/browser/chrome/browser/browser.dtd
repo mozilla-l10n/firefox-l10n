@@ -748,7 +748,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "Sioncronachadh">
 
-
+<!ENTITY syncSignIn.label             "Clàraich a-steach gu &syncBrand.shortName.label;…">
+<!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "Sioncronaich an-dràsta">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Ath-cheangail ri &syncBrand.shortName.label;…">
