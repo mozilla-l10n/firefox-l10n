@@ -197,7 +197,7 @@
 
 <!ENTITY fxaccount_status_header2 "حساب فَيَرفُكس">
 <!ENTITY fxaccount_status_signed_in_as "ولِجت باسم">
-
+<!ENTITY fxaccount_status_manage_account "أدِر الحساب">
 <!ENTITY fxaccount_status_auth_server "خادوم الحساب">
 <!ENTITY fxaccount_status_sync_now "زامِن الآن">
 <!ENTITY fxaccount_status_syncing2 "يُزامن…">
