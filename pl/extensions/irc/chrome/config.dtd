@@ -31,10 +31,10 @@
 
 <!ENTITY config.type.label "Typ:">
 <!ENTITY config.type.hint "Typ obiektu dla dodawanych preferencji">
-<!ENTITY config.type.accesskey "C">
+<!ENTITY config.type.accesskey "T">
 <!ENTITY config.network.label "Sieć:">
 <!ENTITY config.network.hint "Znana nazwa sieci lub nazwa serwera">
-<!ENTITY config.network.accesskey "a">
+<!ENTITY config.network.accesskey "Z">
 <!ENTITY config.target.label "Cel:">
 <!ENTITY config.target.hint "Docelowy kanał lub nazwa użytkownika">
-<!ENTITY config.target.accesskey "o">
+<!ENTITY config.target.accesskey "C">

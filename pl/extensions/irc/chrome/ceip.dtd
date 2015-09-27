@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "Program poprawy jakości obsługi ChatZilli">
-<!ENTITY window.size "szerokość: 42em;">
+<!ENTITY window.size "width: 42em;">
 
 <!ENTITY intro.label "Program poprawy jakości obsługi ChatZilli zbiera informacje o tym jak ChatZilla jest używana, bez przeszkadzania użytkownikowi. Pomaga to twórcom identyfikować funkcje ChatZilli wymagające ulepszenia. Żadne informacje umożliwiające identyfikację lub kontakt z użytkownikiem nie są gromadzone.">
 
