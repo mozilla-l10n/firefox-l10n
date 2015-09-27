@@ -138,6 +138,27 @@
 <!ENTITY goEndCap.tooltip "Vai all’url inserito nella barra degli indirizzi">
 <!ENTITY printButton.label "Stampa">
 <!ENTITY printButton.tooltip "Stampa questa pagina">
+<!ENTITY urlbar.defaultNotificationAnchor.label "Visualizza una notifica">
+<!ENTITY urlbar.geolocationNotificationAnchor.label "Visualizza l’indirizzo della richiesta">
+<!ENTITY urlbar.addonsNotificationAnchor.label "Visualizza il messaggio di installazione componente aggiuntivo">
+<!ENTITY urlbar.indexedDBNotificationAnchor.label "Visualizza il messaggio relativo all’archiviazione non in linea per le app">
+<!ENTITY urlbar.loginFillNotificationAnchor.label "Gestisci le informazioni di accesso">
+<!ENTITY urlbar.passwordNotificationAnchor.label "Decidi se salvare la password">
+<!ENTITY urlbar.webappsNotificationAnchor.label "Visualizza il messaggio di installazione app">
+<!ENTITY urlbar.pluginsNotificationAnchor.label "Gestisci l’utilizzo dei plugin in questa pagina">
+<!ENTITY urlbar.webNotsNotificationAnchor.label "Decidi se ricevere notifiche da questo sito">
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label "Gestisci la condivisione di fotocamera e/o microfono con il sito">
+<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label "La fotocamera e/o il microfono sono condivisi con il sito">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label "Gestisci la condivisione del microfono con il sito">
+<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Il microfono è condiviso con il sito">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label "Gestisci la condivisione delle finestre o dello schermo con il sito">
+<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label "Una finestra o lo schermo sono condivisi con il sito">
+<!ENTITY urlbar.pointerLockNotificationAnchor.label "Decidi se il sito può nascondere il puntatore">
+<!ENTITY urlbar.servicesNotificationAnchor.label "Visualizza il messaggio di installazione servizio">
+<!ENTITY urlbar.translateNotificationAnchor.label "Traduci questa pagina">
+<!ENTITY urlbar.translatedNotificationAnchor.label "Gestisci la traduzione della pagina">
+<!ENTITY urlbar.emeNotificationAnchor.label "Gestisci l’utilizzo del software DRM">
+<!ENTITY urlbar.toggleAutocomplete.label "Attiva/disattiva la finestra di autocompletamento">
 <!ENTITY locationItem.title "Indirizzo">
 <!ENTITY searchItem.title "Cerca">
 <!ENTITY homeButton.label "Pagina iniziale&#173;">
