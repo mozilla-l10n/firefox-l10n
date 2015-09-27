@@ -11,15 +11,16 @@
 <!ENTITY  onboard_start_subtext3 "Dèan brabhsadh mobile air an lìon gu tur a-rèir do thoil fhèin.">
 <!ENTITY  onboard_start_button_account "Clàraich a-steach gu &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Tòisich air brabhsadh">
-
+<!ENTITY firstrun_button_next "Air adhart">
 
 <!ENTITY  onboard_start_restricted1 "Fan sàbhailte ’s cum smachd air cùisean leis an tionndadh simplichte seo de &brandShortName;.">
 
+<!ENTITY firstrun_import_title "Ion-phortaich">
 <!ENTITY firstrun_import_message "Fàilte gu &brandShortName;">
-
-
-
-
+<!ENTITY firstrun_import_subtext "Ion-phortaich na comharran-lìn is an eachdraidh agad o bhrabhsair eile.">
+<!ENTITY firstrun_import_action "Gluais a-null gu &brandShortName;">
+<!ENTITY firstrun_import_dialog_button "Gluais">
+<!ENTITY firstrun_import_progress_title "’Gan gluasad">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -64,9 +65,9 @@
 
 <!ENTITY history_today_section "An-diugh">
 <!ENTITY history_yesterday_section "An-dè">
-
-
-
+<!ENTITY history_week_section3 "Na 7 làithean seo chaidh">
+<!ENTITY history_this_month_section "Am mìos seo">
+<!ENTITY history_older_section3 "Nas sine na 6 mìosan">
 
 <!ENTITY go "Rach ann">
 <!ENTITY search "Lorg">
@@ -96,6 +97,7 @@
      &formatS; will be replaced with the title of the tab, as received from the
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "A’ cluich fuaim – &formatS;">
 
 <!ENTITY settings "Roghainnean">
 <!ENTITY settings_title "Roghainnean">
@@ -197,9 +199,9 @@
 <!ENTITY pref_home_updates_wifi "Air WiFi a-mhàin">
 <!ENTITY pref_home_suggested_sites "Seall molaidhean làraichean">
 <!ENTITY pref_home_suggested_sites_summary "Air an duilleag mhòr, seall ath-ghoiridean gu làraichean a dh’fhaodadh a bhith inntinneach dhut">
-
-
-
+<!ENTITY pref_category_home_homepage "Duilleag-dhachaigh">
+<!ENTITY home_homepage_title "Suidhich duilleag-dhachaigh">
+<!ENTITY home_homepage_use_current_tab "Cleachd an taba làithreach">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Gnàthaich">
@@ -364,7 +366,7 @@ size. -->
 <!ENTITY share_title "Co-roinn slighe">
 <!ENTITY share_image_failed "Cha ghabh an dealbh seo a cho-roinneadh">
 <!ENTITY save_as_pdf "Sàbhail mar PDF">
-
+<!ENTITY print "Clò-bhuail">
 <!ENTITY find_in_page "Lorg san duilleag">
 <!ENTITY desktop_mode "Iarr làrach nan desktop">
 <!ENTITY page "Duilleag">
@@ -384,7 +386,7 @@ size. -->
 
 <!ENTITY find_text "Lorg san duilleag">
 <!ENTITY find_prev "Air ais">
-
+<!ENTITY find_next "Air adhart">
 <!ENTITY find_close "Dùin">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -409,8 +411,8 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Prìnich an làrach">
 <!ENTITY contextmenu_top_sites_unpin "Neo-phrìnich an làrach">
 <!ENTITY contextmenu_add_search_engine "Cuir einnsean-luirg ris">
-
-
+<!ENTITY contextmenu_mark_read "Cuir comharra gun deach a leughadh">
+<!ENTITY contextmenu_mark_unread "Cuir comharra nach deach a leughadh">
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
@@ -433,6 +435,8 @@ size. -->
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
+<!ENTITY pref_magnifying_glass_enabled "Meudaich raointean beaga">
+<!ENTITY pref_magnifying_glass_enabled_summary "Cuir am meud ceanglaichean is raointean fhoirmean nuair a nithear gnogag faisg orra">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -580,8 +584,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_insecure "Ceangal nach eil tèarainte">
 <!-- Mixed content notifications in site identity popup -->
 
-
-
+<!ENTITY mixed_content_blocked_all1 "Bhac &brandShortName; susbaint air an duilleag seo nach eil tèarainte.">
+<!ENTITY mixed_content_blocked_some1 "Bhac &brandShortName; cuid a shusbaint air an duilleag seo nach eil tèarainte.">
+<!ENTITY mixed_content_display_loaded1 "Chan eil cuid dhen duilleag seo tèarainte (can dealbhan).">
+<!ENTITY mixed_content_protection_disabled1 "Chuir thu an dìon o shusbaint neo-thèarainte à comas.">
 <!-- Tracking content notifications in site identity popup -->
 
 <!ENTITY doorhanger_tracking_title "Dìon o thracadh">
@@ -599,6 +605,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Chaidh an dàta prìobhaideach fhalamhadh">
 <!ENTITY private_data_fail "Cha b\u0027 urrainn dhuinn cuid dhen dàta phrìobhaideach fhalamhadh">
 
+<!ENTITY bookmarkhistory_button_import "Ion-phortaich">
 <!ENTITY bookmarkhistory_import_both "Ag ion-phortadh nan comharra-lìn 
 is na h-eachdraidh o Android">
 <!ENTITY bookmarkhistory_import_bookmarks "Ag ion-phortadh nan comharra-lìn 
@@ -714,10 +721,17 @@ o Android">
 <!ENTITY restriction_disallow_guest_browsing_title2 "Cuir à comas brabhsadh mar aoigh">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
+
+<!ENTITY bookmarks_title "Mobile">
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!ENTITY bookmarks_about_browser "Firefox: Mun bhrabhsair agad">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "Firefox: Gnàthaich e le tuilleadain">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "Firefox: Taic">
 <!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
 <!ENTITY bookmarks_marketplace "Margaid Firefox">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!ENTITY bookmarks_restricted_support2 "Taic is cobhair Firefox airson pròifilean cuingichte air tablaidean Android">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!ENTITY bookmarks_restricted_webmaker "Ag ionnsachadh mun lìon: Mozilla Webmaker">
