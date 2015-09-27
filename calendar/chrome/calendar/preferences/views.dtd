@@ -1,11 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-   
+
 <!-- WARNING! This file contains UTF-8 encoded characters!
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
    - your editor isn't using UTF-8 encoding and may munge up the document!
-  --> 
+  -->
    
 <!ENTITY pref.calendar.view.allview.caption "General">
 <!ENTITY pref.calendar.view.dayandweekviews.caption "Vistas diaria y semanal">
@@ -14,6 +14,8 @@
 
 <!ENTITY pref.weekstarts.label "Comenzar la semana en:">
 <!ENTITY pref.weekstarts.accesskey "r">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Mostrar número de semana en vistas y mini mes">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "s">
 <!ENTITY pref.daysoff.label "Incluir estos días en la semana laboral:">
 
 <!ENTITY pref.calendar.view.daystart.label "El día comienza a las:">
