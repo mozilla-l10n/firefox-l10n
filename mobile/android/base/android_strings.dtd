@@ -195,6 +195,7 @@
 <!ENTITY pref_sync "Синхронизация">
 <!ENTITY pref_sync_summary2 "Синхронизация вкладок, закладок, логинов, истории">
 <!ENTITY pref_search_suggestions "Поисковые предложения">
+<!ENTITY pref_history_search_suggestions "Показать историю поиска">
 <!ENTITY pref_import_android "Импорт из Android">
 <!ENTITY pref_import_android_summary "Импорт закладок и истории из системного браузера">
 <!ENTITY pref_private_data_history2 "Журнал посещений">
