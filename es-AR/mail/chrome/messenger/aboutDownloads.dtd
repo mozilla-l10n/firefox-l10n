@@ -17,5 +17,8 @@
 <!ENTITY cmd.open.accesskey                        "b">
 <!ENTITY cmd.removeFromHistory.label               "Eliminar del historial">
 <!ENTITY cmd.removeFromHistory.accesskey           "E">
-<!ENTITY cmd.clearDownloads.label                  "Limpiar descargas">
-<!ENTITY cmd.clearDownloads.accesskey              "d">
+<!ENTITY cmd.clearList.label                       "Limpiar lista">
+<!ENTITY cmd.clearList.accesskey                   "L">
+<!ENTITY cmd.clearList.tooltip                     "Eliminar todas las entradas de la lista de archivos guardados, excepto los que se están descargando.">
+<!ENTITY cmd.searchDownloads.label                 "Buscar…">
+<!ENTITY cmd.searchDownloads.key                   "F">
