@@ -24,7 +24,7 @@
 <!ENTITY popups.label "Extrafönster">
 <!ENTITY passwords.label "Lösenord">
 <!ENTITY masterpass.label "Huvudlösenord">
-<!ENTITY ssl.label "SSL">
+<!ENTITY ssltls.label "SSL/TLS">
 <!ENTITY certs.label "Certifikat">
 <!ENTITY sync.label "Synkronisering">
 <!ENTITY advance.label "Avancerat">
