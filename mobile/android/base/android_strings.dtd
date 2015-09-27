@@ -291,6 +291,7 @@ size. -->
 <!ENTITY pref_sync "Synchronizácia">
 <!ENTITY pref_sync_summary2 "Synchronizácia kariet, záložiek, prihlasovacích údajov, histórie">
 <!ENTITY pref_search_suggestions "Zobrazovať návrhy vyhľadávania">
+<!ENTITY pref_history_search_suggestions "Zobrazovať históriu vyhľadávania">
 <!ENTITY pref_import_android "Import z Androidu">
 <!ENTITY pref_import_android_summary "Import záložiek a histórie z natívneho prehliadača">
 <!ENTITY pref_private_data_history2 "História prehliadania">
