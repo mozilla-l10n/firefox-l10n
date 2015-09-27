@@ -708,7 +708,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "هذه الصفحة مخزنة على حاسوبك.">
 <!ENTITY identity.connectionVerified1 "تتصل بأمان مع هذا الموقع، و الذي يديره:">
 <!ENTITY identity.connectionInternal "هذه صفحة &brandShortName; آمنة.">
-
+<!ENTITY identity.insecureLoginForms "ولوجك قد يكون مُخترقًا.">
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "منع &brandShortName; الأجزاء غير الآمنة من هذه الصفحة.">
@@ -718,7 +718,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings in the subview. -->
 
 <!ENTITY identity.description.insecure "اتصالك بهذا الموقع ليس خاصًّا. يمكن للآخرين مطالعة المعلومات التي ترسلها (مثل كلمات السر، و الرسائل، و بطاقات الائتمان و غيرها).">
-
+<!ENTITY identity.description.insecureLoginForms "معلومات الولوج التي تُدخلها في هذه الصفحة ليست مُؤمّنة و قد تكون مخترقة.">
 <!ENTITY identity.description.weakCipher "اتصالك بهذا الموقع يستخدم تعمية ضعيفة وليس خاصًّا أيضًا.">
 <!ENTITY identity.description.weakCipher2 "يمكن للآخرين الاطلاع على معلوماتك أو تغيير سلوك الموقع.">
 <!ENTITY identity.description.activeBlocked "منع &brandShortName; الأجزاء غير الآمنة في هذه الصفحة.">
@@ -737,7 +737,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.moreInfoLinkText2 "المزيد من المعلومات">
 
 <!ENTITY identity.permissions "التّصاريح">
-
+<!ENTITY identity.permissionsEmpty "لم تمنح هذا الموقع أي صلاحيات خاصة.">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
