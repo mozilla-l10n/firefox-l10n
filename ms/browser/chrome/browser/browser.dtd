@@ -110,7 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "S">
 
 <!ENTITY fxaSignIn.label "Daftar masuk ke &syncBrand.shortName.label;">
-
+<!ENTITY fxaSignedIn.tooltip "Buka &syncBrand.shortName.label; keutamaan">
 <!ENTITY fxaSignInError.label "Sambung semula ke &syncBrand.shortName.label;">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; dibolehkan">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; akan memulakan penyegerakan sebentar lagi.">
