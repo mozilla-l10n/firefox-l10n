@@ -12,7 +12,7 @@
 <!ENTITY trackingProtectionLearnMore.label "Aflați mai multe">
 <!ENTITY trackingProtectionPBM5.label         "Folosește protecția față de urmărire în ferestre private">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
-<!ENTITY trackingProtectionPBMLearnMore.label "Aflați mai multe">
+<!ENTITY trackingProtectionPBMLearnMore.label "Află mai multe">
 <!ENTITY changeBlockList.label          "Schimbă lista de blocări">
 <!ENTITY changeBlockList.accesskey      "c">
 
@@ -55,11 +55,11 @@
 <!ENTITY  showCookies.label             "Arată cookie-urile…">
 <!ENTITY  showCookies.accesskey         "k">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; va:">
-<!ENTITY  historyHeader.pre.accesskey      "v">
-<!ENTITY  historyHeader.remember.label     "Memora istoricul">
+<!ENTITY  historyHeader.pre.label          "&brandShortName;:">
+<!ENTITY  historyHeader.pre.accesskey      "w">
+<!ENTITY  historyHeader.remember.label     "Va memora istoricul">
 <!ENTITY  historyHeader.dontremember.label "Nu va memora istoricul niciodată">
-<!ENTITY  historyHeader.custom.label       "Folosi setări personalizate pentru istoric">
+<!ENTITY  historyHeader.custom.label       "Va folosi setări personalizate pentru istoric">
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; va memora istoricul navigării, al descărcărilor, al formularelor și al căutărilor și va păstra cookie-urile de la site-urile web vizitate.">
