@@ -11,15 +11,16 @@
 <!ENTITY  onboard_start_subtext3 "Cyńśo swójo mobilne webpśeglědowańske dožywjenje napšawdu k swójomu.">
 <!ENTITY  onboard_start_button_account "Pla &brandShortName; pśizjawiś">
 <!ENTITY  onboard_start_button_browser "Pśeglědowanje startowaś">
-
+<!ENTITY firstrun_button_next "Pśiducy">
 
 <!ENTITY  onboard_start_restricted1 "Wóstańśo dalej wěsty a mějśo dalej kontrolu z toś teju zjednorjeneju wersiju &brandShortName;.">
 
+<!ENTITY firstrun_import_title "Importěrowaś">
 <!ENTITY firstrun_import_message "Witajśo do &brandShortName;">
-
-
-
-
+<!ENTITY firstrun_import_subtext "Importěrujśo swóje cytańske znamjenja a historiju z drugego wobglědowaka.">
+<!ENTITY firstrun_import_action "Do &brandShortName; pśenosowaś">
+<!ENTITY firstrun_import_dialog_button "Pśenjasć">
+<!ENTITY firstrun_import_progress_title "Pśenosujo se">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -64,9 +65,9 @@
 
 <!ENTITY history_today_section "Źinsa">
 <!ENTITY history_yesterday_section "Cora">
-
-
-
+<!ENTITY history_week_section3 "Slědne 7 dnjow">
+<!ENTITY history_this_month_section "Toś ten mjasec">
+<!ENTITY history_older_section3 "Starše ako 6 mjasecow">
 
 <!ENTITY go "Start">
 <!ENTITY search "Pytaś">
@@ -96,6 +97,7 @@
      &formatS; will be replaced with the title of the tab, as received from the
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "Awdio se wótgrawa – &formatS;">
 
 <!ENTITY settings "Nastajenja">
 <!ENTITY settings_title "Nastajenja">
@@ -197,9 +199,9 @@
 <!ENTITY pref_home_updates_wifi "Jano pśez Wi-Fi">
 <!ENTITY pref_home_suggested_sites "Sedłowe naraźenja pokazaś">
 <!ENTITY pref_home_suggested_sites_summary "Tastowe skrotconki za sedła na wašom startowem boku zwobrazniś, wó kótarychž myslimy, až wy maśo je za zajmne">
-
-
-
+<!ENTITY pref_category_home_homepage "Startowy bok">
+<!ENTITY home_homepage_title "Startowy bok póstajiś">
+<!ENTITY home_homepage_use_current_tab "Aktualny rejtark wužywaś">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Pśiměriś">
@@ -364,7 +366,7 @@ size. -->
 <!ENTITY share_title "Źěliś pśez">
 <!ENTITY share_image_failed "Toś ten wobraz njedajo se źěliś">
 <!ENTITY save_as_pdf "Ako PDF składowaś">
-
+<!ENTITY print "Śišćaś">
 <!ENTITY find_in_page "Na boku pytaś">
 <!ENTITY desktop_mode "Desktopowe sedło pominaś">
 <!ENTITY page "Bok">
