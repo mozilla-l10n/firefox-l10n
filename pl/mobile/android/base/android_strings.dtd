@@ -226,6 +226,7 @@
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_sync_summary2 "Synchronizuj karty, zakładki, dane logowania, historię">
 <!ENTITY pref_search_suggestions "Podpowiedzi wyszukiwania">
+<!ENTITY pref_history_search_suggestions "Historia wyszukiwania">
 <!ENTITY pref_import_android "Importuj z Androida">
 <!ENTITY pref_import_android_summary "Importuj zakładki i historię z domyślnej przeglądarki systemu Android">
 <!ENTITY pref_private_data_history2 "Historia przeglądania">
