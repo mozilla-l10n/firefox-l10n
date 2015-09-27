@@ -14,6 +14,8 @@
 
 <!ENTITY pref.weekstarts.label "Перший день тижня:">
 <!ENTITY pref.weekstarts.accesskey "П">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Показувати номер тижня в переглядах і міні-місяці">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "т">
 <!ENTITY pref.daysoff.label "Робочі дні тижня:">
 
 <!ENTITY pref.calendar.view.daystart.label "День починається о:">
