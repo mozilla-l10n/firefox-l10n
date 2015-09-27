@@ -14,6 +14,8 @@
 
 <!ENTITY pref.weekstarts.label "Começar a semana em:">
 <!ENTITY pref.weekstarts.accesskey "C">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Mostrar número da semana em exibições e mini-mês">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "r">
 <!ENTITY pref.daysoff.label "Definir como dias úteis:">
 
 <!ENTITY pref.calendar.view.daystart.label "Dia começa às:">
