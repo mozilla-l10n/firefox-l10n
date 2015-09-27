@@ -71,7 +71,7 @@
 <!ENTITY overrideSmartCacheSize.label    "Ignoră administrarea automată a memoriei cache">
 <!ENTITY overrideSmartCacheSize.accesskey "o">
 
-<!ENTITY updateTab.label                 "Actualizează">
+<!ENTITY updateTab.label                 "Actualizare">
 
 <!ENTITY updateApp.label                 "Actualizări: &brandShortName;:">
 <!ENTITY updateAuto1.label               "Instalează automat actualizările (recomandat: securitate îmbunătățită)">
