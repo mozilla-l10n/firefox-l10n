@@ -28,6 +28,8 @@
 <!ENTITY addToUserDictionaryButton.accessKey "D">
 <!ENTITY editUserDictionaryButton.label "Uredi ...">
 <!ENTITY editUserDictionaryButton.accessKey "U">
+<!ENTITY recheckButton2.label "Ponovno preveri besedilo">
+<!ENTITY recheckButton2.accessKey "P">
 <!ENTITY closeButton.label "Zapri">
 <!ENTITY closeButton.accessKey "Z">
 <!ENTITY sendButton.label "Pošlji">

@@ -215,6 +215,7 @@
 <!ENTITY addressButton.tooltip "Izberite prejemnika iz imenika">
 <!ENTITY attachButton.tooltip "Vključi priponko">
 <!ENTITY spellingButton.tooltip "Preveri črkovanje izbire ali celotnega sporočila">
+<!ENTITY statusLanguageText.tooltip "Jezik preverjanja črkovanja">
 <!ENTITY saveButton.tooltip "Shrani to sporočilo">
 <!ENTITY cutButton.tooltip              "Izreži">
 <!ENTITY copyButton.tooltip             "Kopiraj">
