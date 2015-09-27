@@ -53,13 +53,13 @@
   -  in the toolbar on buttons that select which view is currently shown. -->
 
 <!ENTITY performanceUI.toolbar.waterfall "Eas">
-
+<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Taispeáin na hoibríochtaí éagsúla a dhéanann an brabhsálaí le linn taifeadta, leagtha amach go seicheamhach, mar eas.">
 <!ENTITY performanceUI.toolbar.js-calltree "Crann na nGlaonna">
-
+<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Aibhsíonn sé seo na feidhmeanna JavaScript a gcaitheann an brabhsálaí an méid is mó ama iontu le linn taifeadta.">
 <!ENTITY performanceUI.toolbar.memory-calltree "Leithdháilte">
-
+<!ENTITY performanceUI.toolbar.allocations.tooltiptext "Taispeáin cén áit ar dáileadh cuimhne le linn taifeadta.">
 <!ENTITY performanceUI.toolbar.js-flamegraph "Bladhmchairt JS">
-
+<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Taispeáin an chruach JavaScript le linn taifeadta.">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "Bladhmchairt Leithdháilte">
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
