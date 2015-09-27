@@ -196,7 +196,7 @@
 <!ENTITY pref_category_home_content_settings "Configurações de conteúdo">
 <!ENTITY pref_home_updates "Atualizações automáticas">
 <!ENTITY pref_home_updates_enabled "Ativada">
-<!ENTITY pref_home_updates_wifi "Somente com Wi-Fi">
+<!ENTITY pref_home_updates_wifi "Somente via Wi-Fi">
 <!ENTITY pref_home_suggested_sites "Mostrar sugestões de sites">
 <!ENTITY pref_home_suggested_sites_summary "Exibir na sua página inicial atalhos de sites que pensamos que você ache interessantes">
 <!ENTITY pref_category_home_homepage "Página inicial">
@@ -265,7 +265,7 @@
 <!ENTITY pref_font_size_medium "Médio">
 <!ENTITY pref_font_size_large "Grande">
 <!ENTITY pref_font_size_xlarge "Gigante">
-<!ENTITY pref_font_size_set "Configurar">
+<!ENTITY pref_font_size_set "Definir">
 <!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
 (or combination of characters) is used to decrease the preview font size; a larger version of the
 same character/combination is used to increase the preview font size. It should be a concise
@@ -275,10 +275,10 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
-<!ENTITY pref_font_size_preview_text "A rápida raposa laranja pula sobre suas expectativas com mais velocidade, mais flexibilidade e mais segurança. Como uma organização sem fins lucrativos, estamos livres para inovar em nome de seus interesses. Isso significa uma melhor experiência para você e um futuro melhor para a web.">
+<!ENTITY pref_font_size_preview_text "A raposa laranja ultrapassa as expectativas com mais velocidade, flexibilidade e segurança. Como uma organização sem fins lucrativos, somos livres para inovar sem pressões ou compromissos. Isso significa uma melhor experiência para você e um futuro brilhante para a web.">
 
 <!ENTITY pref_media_autoplay_enabled "Permitir reprodução automática">
-<!ENTITY pref_media_autoplay_enabled_summary "Controle se os sites podem reproduzir vídeos e outras mídias automaticamente">
+<!ENTITY pref_media_autoplay_enabled_summary "Controle a reprodução de vídeos e outras mídias automaticamente">
 <!ENTITY pref_zoom_force_enabled "Sempre ativar o zoom">
 <!ENTITY pref_zoom_force_enabled_summary "Forçar a ativação do zoom em qualquer página">
 <!ENTITY pref_voice_input "Entrada de voz">
@@ -314,17 +314,17 @@ size. -->
 
 <!ENTITY pref_search_last_toast "Não é possível remover ou desativar o único mecanismo de pesquisa que restou.">
 
-<!ENTITY pref_panels_show "Exibir">
+<!ENTITY pref_panels_show "Mostrar">
 <!ENTITY pref_panels_hide "Ocultar">
 <!ENTITY pref_panels_reorder "Alterar ordem">
 <!ENTITY pref_panels_move_up "Mover para cima">
 <!ENTITY pref_panels_move_down "Mover para baixo">
 
 <!ENTITY datareporting_notification_title "Estatísticas e dados do &brandShortName;">
-<!ENTITY datareporting_notification_action_long "Selecionar quais informações compartilhar">
-<!ENTITY datareporting_notification_action "Selecionar o que compartilhar">
-<!ENTITY datareporting_notification_summary "Para aprimorar sua experiência, o &brandShortName; automaticamente envia alguns dados para a &vendorShortName;.">
-<!ENTITY datareporting_notification_summary_short "Para aprimorar sua experiência, o &brandShortName;…">
+<!ENTITY datareporting_notification_action_long "Escolha quais informações compartilhar">
+<!ENTITY datareporting_notification_action "Escolha o que compartilhar">
+<!ENTITY datareporting_notification_summary "Para melhorar a sua experiência, o &brandShortName; envia automaticamente algumas informações para a &vendorShortName;.">
+<!ENTITY datareporting_notification_summary_short "Para melhorar a sua experiência, o &brandShortName;…">
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
@@ -333,12 +333,12 @@ size. -->
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 
-<!ENTITY datareporting_fhr_title "Relatório de Integridade do &brandShortName;">
-<!ENTITY datareporting_fhr_summary2 "Compartilha dados com a &vendorShortName; sobre a integridade do navegador e ajuda você a entender o desempenho dele">
-<!ENTITY datareporting_abouthr_title "Ver relatório de integridade">
+<!ENTITY datareporting_fhr_title "&brandShortName; Health Report">
+<!ENTITY datareporting_fhr_summary2 "Compartilha dados com a &vendorShortName; sobre o estado do seu navegador e ajuda a entender o desempenho dele">
+<!ENTITY datareporting_abouthr_title "Ver relatório do estado">
 <!ENTITY datareporting_telemetry_title "Telemetria">
 <!ENTITY datareporting_telemetry_summary "Compartilha dados de desempenho, uso, hardware e personalizações com a &vendorShortName; para nos ajudar a melhorar o &brandShortName;">
-<!ENTITY datareporting_crashreporter_summary "O &brandShortName; envia relatórios de travamento para ajudar a &vendorShortName; fazer o navegador mais estável e seguro">
+<!ENTITY datareporting_crashreporter_summary "O &brandShortName; envia relatórios de travamento para ajudar a &vendorShortName; a tornar o navegador mais estável e seguro">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Crash Reporter">
@@ -347,7 +347,7 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload2 "Receber atualizações automaticamente">
+<!ENTITY pref_update_autodownload2 "Baixar atualizações automaticamente">
 <!ENTITY pref_update_autodownload_wifi "Somente com Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Nunca">
 <!ENTITY pref_update_autodownload_always "Sempre">
