@@ -5,8 +5,8 @@
 <!ENTITY aboutSupport.pageTitle "Informații de depanare">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "  Această pagină conține informații tehnice care ar putea fi utile atunci când 
-încercați să rezolvați o problemă. Dacă sunteți în căutarea de răspunsuri la întrebări comune 
+<!ENTITY aboutSupport.pageSubtitle "  Această pagină conține informații tehnice care ar putea fi utile atunci când
+încercați să rezolvați o problemă. Dacă sunteți în căutarea de răspunsuri la întrebări comune
 despre &brandShortName;, verificați <a id='supportLink'>site-ul nostru pentru suport</a>.">
 
 <!ENTITY aboutSupport.crashes.title "Rapoarte de defecțiuni">
@@ -102,4 +102,4 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
 
 <!ENTITY aboutSupport.safeModeTitle "Încercați modul sigur">
-<!ENTITY aboutSupport.restartInSafeMode.label "Repornire cu suplimente dezactivate…">
+<!ENTITY aboutSupport.restartInSafeMode.label "Repornește cu suplimente dezactivate…">
