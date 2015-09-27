@@ -5,7 +5,7 @@
 <!ENTITY window.width                       "36em">
 
 <!ENTITY     cookiesonsystem.label          "Următoarele cookie-uri sunt stocate pe calculator:">
-<!ENTITY     cookiename.label               "Nume cookie">
+<!ENTITY     cookiename.label               "Nume al cookie-ului">
 <!ENTITY     cookiedomain.label             "Site"> 
 <!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
   The label associated with this accesskey can be found in 

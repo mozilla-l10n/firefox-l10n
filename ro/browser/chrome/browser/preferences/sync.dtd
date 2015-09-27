@@ -50,7 +50,7 @@
 <!ENTITY prefs.ppLink.label         "Politică de confidențialitate">
 <!-- Firefox Accounts stuff -->
 
-<!ENTITY fxaPrivacyNotice.link.label "Notă cu privire la politica de confidențialitate">
+<!ENTITY fxaPrivacyNotice.link.label "Politica de confidențialitate">
 <!ENTITY determiningAcctStatus.label     "Determin starea contului dumneavoastră…">
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
@@ -94,5 +94,5 @@ both, to better adapt this sentence to their language.
 <!ENTITY mobilePromo.start            "Descarcă Firefox pentru ">
 <!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
 <!ENTITY mobilePromo.androidLink      "Android™">
-<!ENTITY mobilePromo.end              " pentru a fi sincronizat cu dispozitivul mobil.">
+<!ENTITY mobilePromo.end              " ca să sincronizezi datele cu dispozitivul mobil.">
 <!ENTITY androidAttribution           "Android este o marcă înregistrată a Google Inc.">
