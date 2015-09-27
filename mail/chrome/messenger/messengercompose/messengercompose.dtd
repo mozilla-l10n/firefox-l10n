@@ -261,7 +261,7 @@
 <!-- Message Pane Context Menu -->
 
 <!ENTITY spellCheckNoSuggestions.label "Nicio sugestie găsită">
-<!ENTITY spellCheckIgnoreWord.label "Ignoră cuvânt">
+<!ENTITY spellCheckIgnoreWord.label "Ignoră cuvântul">
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
 <!ENTITY spellCheckAddToDictionary.label "Adaugă în dicționar">
 <!ENTITY spellCheckAddToDictionary.accesskey "n">
