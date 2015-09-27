@@ -87,7 +87,7 @@
 <!ENTITY bookmarks.folder.tags.label "Štítky">
 <!ENTITY bookmarks.folder.toolbar.label "Lišta záložek">
 <!ENTITY bookmarks.folder.unfiled.label "Netříděné záložky">
-<!ENTITY bookmarks.folder.desktop.label "Záložky z desktopu">
+<!ENTITY bookmarks.folder.desktop.label "Záložky z počítače">
 <!ENTITY bookmarks.folder.mobile.label "Záložky z mobilu">
 <!ENTITY bookmarks.folder.readinglist.label "Seznam ke čtení">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
