@@ -83,10 +83,6 @@
 <!ENTITY fxaUnverified.label "Verifique su cuenta">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; activado">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; empezará a sincronizarse momentáneamente.">
-<!ENTITY syncErrorPanel.heading "No se puede conectar a &syncBrand.shortName.label;">
-<!ENTITY syncErrorPanel.subTitle "Por favor, conéctese para continuar la sincronización.">
-<!ENTITY syncErrorPanel.signInButton.label "Conectarse">
-<!ENTITY syncErrorPanel.signInButton.accesskey "S">
 <!ENTITY fullScreenMinimize.tooltip "Minimizar">
 <!ENTITY fullScreenRestore.tooltip "Restaurar">
 <!ENTITY fullScreenClose.tooltip "Cerrar">
@@ -319,7 +315,10 @@
 <!ENTITY searchWith.label             " con:">
 <!ENTITY searchWithHeader.label       "Buscar con:">
 <!ENTITY changeSearchSettings.button  "Cambiar ajustes de búsqueda">
-
+<!ENTITY searchInNewTab.label         "Buscar en nueva pestaña">
+<!ENTITY searchInNewTab.accesskey     "T">
+<!ENTITY searchSetAsDefault.label     "Ajustar como motor de búsqueda predeterminado">
+<!ENTITY searchSetAsDefault.accesskey "D">
 <!ENTITY tabView.commandkey "e">
 <!ENTITY openLinkCmdInTab.label "Abrir enlace en nueva pestaña">
 <!ENTITY openLinkCmdInTab.accesskey "t">
@@ -508,11 +507,13 @@
 <!ENTITY identity.connectionFile "Esta página está almacenada en su computador.">
 <!ENTITY identity.connectionVerified1 "Está conectado de forma segura a este sitio, perteneciente a:">
 <!ENTITY identity.connectionInternal "Esta es una página segura de &brandShortName;.">
+<!ENTITY identity.insecureLoginForms "Su información de conexión puede verse comprometida.">
 <!ENTITY identity.activeBlocked "&brandShortName; ha bloqueado partes de esta página que no son seguras.">
 <!ENTITY identity.passiveLoaded "Partes de esta página no son seguras (por ejemplo: imágenes).">
 <!ENTITY identity.activeLoaded "Ha desactivado la protección en esta página.">
 <!ENTITY identity.weakEncryption "Esta página usa un cifrado débil.">
 <!ENTITY identity.description.insecure "Su conexión a este sitio no es privada. La información que envíe puede ser vista por otros (por ejemplo: contraseñas, mensajes, tarjetas de crédito, etc.).">
+<!ENTITY identity.description.insecureLoginForms "La información de conexión que ingrese en este sitio no va segura y puede verse comprometida.">
 <!ENTITY identity.description.weakCipher "Su conexión a este sitio web usa un cifrado débil y no es privada.">
 <!ENTITY identity.description.weakCipher2 "Otras personas pueden ver su información o modificar el comportamiento del sitio web.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; ha bloqueado partes de esta página que no son seguras.">
@@ -528,6 +529,7 @@
 <!ENTITY identity.learnMore "Aprender más">
 <!ENTITY identity.moreInfoLinkText2 "Más información">
 <!ENTITY identity.permissions "Permisos">
+<!ENTITY identity.permissionsEmpty "No ha otorgado a este sitio ningún permiso especial.">
 <!ENTITY tabsToolbar.label "Pestañas del navegador">
 <!ENTITY syncTabsMenu2.label "Pestañas de otros dispositivos">
 <!ENTITY syncBrand.shortName.label "Sync">
