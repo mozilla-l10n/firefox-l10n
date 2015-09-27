@@ -17,7 +17,7 @@
 
 <!ENTITY rights.intro-point1a "&brandShortName; este disponibil sub termenii ">
 <!ENTITY rights.intro-point1b "Licenței Publice Mozilla">
-<!ENTITY rights.intro-point1c ". Acest lucru înseamnă că puteți folosi, copia și distribui &brandShortName; altora. Sunteți, de asemenea, binevenit să modificați codul sursă al &brandShortName;, cum doriți, pentru a vă satisface nevoile. Mozilla Public License vă oferă și dreptul de a vă distribui versiunile modificate.">
+<!ENTITY rights.intro-point1c ". Acest lucru înseamnă că puteți folosi, copia și distribui &brandShortName; altora. Sunteți, de asemenea, binevenit să modificați codul sursă al &brandShortName;, cum doriți, pentru a răspunde nevoilor dumneavoastră. Mozilla Public License vă oferă și dreptul de a vă distribui versiunile modificate.">
 
 <!ENTITY rights.intro-point2-a "Nu vi se acordă niciun drept asupra mărcii comerciale sau asupra licențelor referitor la mărcile comerciale ale Mozilla Foundation sau ale oricărei părți, inclusiv, dar fără a se limita la numele Firefox sau logo. Informații suplimentare privind mărcile comerciale pot fi găsite ">
 <!ENTITY rights.intro-point2-b "aici">
@@ -70,8 +70,8 @@
 <!ENTITY rights.locationawarebrowsing-a "Navigare conștientă de locație: ">
 <!ENTITY rights.locationawarebrowsing-b "e întotdeauna opțională.  Nu sunt transmise informații referitoare la locație niciodată fără permisiunea dumneavoastră.  Dacă doriți să dezactivați această funcționalitate complet, urmați acești pași:">
 <!ENTITY rights.locationawarebrowsing-term1a "În bara de adrese, tastați ">
-<!ENTITY rights.locationawarebrowsing-term1b "despre:configurație">
-<!ENTITY rights.locationawarebrowsing-term2 "Tastați geo.enabled">
+<!ENTITY rights.locationawarebrowsing-term1b "about:config">
+<!ENTITY rights.locationawarebrowsing-term2 "Tastați geo.enabled în câmpul de căutare">
 <!ENTITY rights.locationawarebrowsing-term3 "Clic dublu pe preferința geo.enabled">
 <!ENTITY rights.locationawarebrowsing-term4 "Navigarea conștientă de locație este acum dezactivată">
 <!-- intro paragraph for unbranded builds -->
