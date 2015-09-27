@@ -24,7 +24,10 @@
 <!ENTITY  addonExceptions.accesskey     "E">
 
 
+<!ENTITY  logins.label                  "Clàraidhean a-steach">
 
+<!ENTITY  rememberLogins.label          "Cuimhnich na clàraidhean a-steach air làraichean">
+<!ENTITY  rememberLogins.accesskey      "r">
 <!ENTITY  passwordExceptions.label      "Eisgeachdan…">
 <!ENTITY  passwordExceptions.accesskey  "E">
 
@@ -33,4 +36,5 @@
 <!ENTITY  changeMasterPassword.label     "Atharraich am prìomh fhacal-faire…">
 <!ENTITY  changeMasterPassword.accesskey "m">
 
-
+<!ENTITY  savedLogins.label              "Clàraidhean a-steach sàbhailte…">
+<!ENTITY  savedLogins.accesskey          "l">
