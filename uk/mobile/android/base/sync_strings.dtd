@@ -197,6 +197,7 @@
 
 <!ENTITY fxaccount_status_header2 'Обліковий запис Firefox'>
 <!ENTITY fxaccount_status_signed_in_as 'Вхід виконано'>
+<!ENTITY fxaccount_status_manage_account 'Керування обліковим записом'>
 <!ENTITY fxaccount_status_auth_server 'Сервер облікового запису'>
 <!ENTITY fxaccount_status_sync_now 'Синхронізувати зараз'>
 <!ENTITY fxaccount_status_syncing2 'Синхронізація…'>

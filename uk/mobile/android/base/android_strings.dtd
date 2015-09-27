@@ -11,9 +11,16 @@
 <!ENTITY  onboard_start_subtext3 "Зробіть свій мобільний перегляд Інтернету дійсно унікальним.">
 <!ENTITY  onboard_start_button_account "Увійти до &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Почати перегляд">
+<!ENTITY firstrun_button_next "Далі">
 
 <!ENTITY  onboard_start_restricted1 "Залишайтеся в безпеці та на контролі з цією спрощеною версією &brandShortName;.">
 
+<!ENTITY firstrun_import_title "Імпорт">
+<!ENTITY firstrun_import_message "Вітаємо в &brandShortName;">
+<!ENTITY firstrun_import_subtext "Імпортуйте свої закладки й історію з іншого браузера.">
+<!ENTITY firstrun_import_action "Перенести в &brandShortName;">
+<!ENTITY firstrun_import_dialog_button "Перенести">
+<!ENTITY firstrun_import_progress_title "Перенесення">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
@@ -58,6 +65,9 @@
 
 <!ENTITY history_today_section "Сьогодні">
 <!ENTITY history_yesterday_section "Учора">
+<!ENTITY history_week_section3 "Останні 7 днів">
+<!ENTITY history_this_month_section "Цього місяця">
+<!ENTITY history_older_section3 "Старіші за 6 місяців">
 
 <!ENTITY go "Перейти">
 <!ENTITY search "Пошук">
@@ -87,6 +97,7 @@
      &formatS; will be replaced with the title of the tab, as received from the
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "Відтворення аудіо – &formatS;">
 
 <!ENTITY settings "Налаштування">
 <!ENTITY settings_title "Налаштування">
@@ -188,6 +199,9 @@
 <!ENTITY pref_home_updates_wifi "Лише по Wi-Fi">
 <!ENTITY pref_home_suggested_sites "Показувати пропоновані сайти">
 <!ENTITY pref_home_suggested_sites_summary "Відображати на домашній сторінці ярлики сайтів, які на нашу думку можуть вас зацікавити">
+<!ENTITY pref_category_home_homepage "Домашня сторінка">
+<!ENTITY home_homepage_title "Встановити домашню сторінку">
+<!ENTITY home_homepage_use_current_tab "Використати поточну вкладку">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Вподобання">
@@ -352,6 +366,7 @@ size. -->
 <!ENTITY share_title "Поділитись через">
 <!ENTITY share_image_failed "Не вдалося поділитись зображенням">
 <!ENTITY save_as_pdf "Зберегти як PDF">
+<!ENTITY print "Друк">
 <!ENTITY find_in_page "Знайти на сторінці">
 <!ENTITY desktop_mode "Вимагати десктопний сайт">
 <!ENTITY page "Сторінка">
@@ -396,6 +411,8 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Прикріпити сайт">
 <!ENTITY contextmenu_top_sites_unpin "Відкріпити сайт">
 <!ENTITY contextmenu_add_search_engine "Додати засіб пошуку">
+<!ENTITY contextmenu_mark_read "Позначити як прочитане">
+<!ENTITY contextmenu_mark_unread "Позначити як непрочитане">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -418,6 +435,8 @@ size. -->
 
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
+<!ENTITY pref_magnifying_glass_enabled "Збільшувати малі ділянки">
+<!ENTITY pref_magnifying_glass_enabled_summary "Збільшувати посилання й поля форм при дотику біля них">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
@@ -565,6 +584,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_insecure "Незахищене з\’єднання">
 
 <!-- Mixed content notifications in site identity popup -->
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; заблокував небезпечний вміст на цій сторінці.">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; заблокував деякий небезпечний вміст на цій сторінці.">
+<!ENTITY mixed_content_display_loaded1 "Частини цієї сторінки не є безпечними (наприклад зображення).">
+<!ENTITY mixed_content_protection_disabled1 "Ви вимкнули захист від небезпечних елементів.">
 
 <!-- Tracking content notifications in site identity popup -->
 <!ENTITY doorhanger_tracking_title "Захист від стеження">
@@ -701,8 +724,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
 <!ENTITY bookmarks_title "Закладки">
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!ENTITY bookmarks_about_browser "Firefox: Про ваш браузер">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "Firefox: Пристосування додатками">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "Firefox: Підтримка">
 <!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
+<!ENTITY bookmarks_marketplace "Firefox Marketplace">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!ENTITY bookmarks_restricted_support2 "Довідка та підтримка Firefox для обмежених профілів на планшетах Android">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!ENTITY bookmarks_restricted_webmaker "Вивчайте Інтернет: Mozilla Webmaker">
