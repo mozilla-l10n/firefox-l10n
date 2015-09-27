@@ -5,7 +5,7 @@
 <!ENTITY window.width                      "38em">
 
 <!ENTITY cookiesonsystem.label             "Următoarele cookie-uri sunt stocate pe calculator:">
-<!ENTITY cookiename.label                  "Nume cookie">
+<!ENTITY cookiename.label                  "Nume al cookie-ului">
 <!ENTITY cookiedomain.label                "Site">
 <!ENTITY button.removecookie.label         "Șterge cookie">
 <!ENTITY button.removecookie.accesskey     "r">
