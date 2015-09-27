@@ -26,5 +26,5 @@
 
 <!ENTITY search_widget_button_label 'Vyhledat'>
 
-<!ENTITY network_error_title 'Není k dispozici připojení k Internetu'>
+<!ENTITY network_error_title 'Připojení k Internetu není dostupné'>
 <!ENTITY network_error_message 'Klepněte pro kontrolu svého síťového nastavení'>
