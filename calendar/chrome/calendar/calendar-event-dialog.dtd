@@ -32,9 +32,9 @@
 <!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label)
    - These two labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
-<!ENTITY event.attendees.notify.label               "Notify attendees">
-<!ENTITY event.attendees.notifyundisclosed.label    "Separate invitation per attendee">
-<!ENTITY event.attendees.notifyundisclosed.tooltip  "This option sends one invitation email per attendee. Each invitation only contains the recipient attendee so that other attendee identities are not disclosed.">
+<!ENTITY event.attendees.notify.label               "Повідомити учасників">
+<!ENTITY event.attendees.notifyundisclosed.label    "Окремі запрошення на учасника">
+<!ENTITY event.attendees.notifyundisclosed.tooltip  "В цьому варіанті надсилається одне запрошення на учасника. Кожне запрошення містить лише адресу учасника, таким чином інші учасники не розголошуються.">
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -306,7 +306,7 @@
 <!ENTITY event.recurrence.pattern.yearly.week.5.label        "четверга" >
 <!ENTITY event.recurrence.pattern.yearly.week.6.label        "п’ятниці" >
 <!ENTITY event.recurrence.pattern.yearly.week.7.label        "суботи" >
-<!ENTITY event.recurrence.pattern.yearly.day.label           "day" >
+<!ENTITY event.recurrence.pattern.yearly.day.label           "день" >
 <!ENTITY event.recurrence.of.label                           "" >
 <!ENTITY event.recurrence.pattern.yearly.month2.1.label      "Січень" >
 <!ENTITY event.recurrence.pattern.yearly.month2.2.label      "Лютий" >
