@@ -138,6 +138,7 @@
 <!ENTITY goEndCap.tooltip "Vai all’url inserito nella barra degli indirizzi">
 <!ENTITY printButton.label "Stampa">
 <!ENTITY printButton.tooltip "Stampa questa pagina">
+<!ENTITY urlbar.viewSiteInfo.label "Visualizza informazioni sul sito">
 <!ENTITY urlbar.defaultNotificationAnchor.label "Visualizza una notifica">
 <!ENTITY urlbar.geolocationNotificationAnchor.label "Visualizza l’indirizzo della richiesta">
 <!ENTITY urlbar.addonsNotificationAnchor.label "Visualizza il messaggio di installazione componente aggiuntivo">
