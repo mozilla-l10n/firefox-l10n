@@ -112,6 +112,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "Inserisci automaticamente le parentesi di chiusura">
 <!ENTITY prefs_options_keybindings "Scorciatoie da tastiera">
 <!ENTITY prefs_options_keybindings_default "Predefinite">
+<!ENTITY prefs_options_autosavefiles "Salvataggio file automatico">
+<!ENTITY prefs_options_autosavefiles_tooltip "Salva automaticamente i file modificati prima di eseguire il progetto">
 <!ENTITY permissionstable_title "Tabella permessi">
 <!ENTITY permissionstable_name_header "Nome">
 <!ENTITY runtimedetails_title "Informazioni runtime">
