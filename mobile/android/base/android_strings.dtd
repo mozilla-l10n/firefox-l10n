@@ -348,7 +348,7 @@ size. -->
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
 <!ENTITY pref_update_autodownload2 "Baixar atualizações automaticamente">
-<!ENTITY pref_update_autodownload_wifi "Somente com Wi-Fi">
+<!ENTITY pref_update_autodownload_wifi "Somente via Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Nunca">
 <!ENTITY pref_update_autodownload_always "Sempre">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
@@ -364,7 +364,7 @@ size. -->
 
 <!ENTITY share "Compartilhar">
 <!ENTITY share_title "Compartilhar via">
-<!ENTITY share_image_failed "Não foi possível compartilhar esta página">
+<!ENTITY share_image_failed "Não foi possível compartilhar esta imagem">
 <!ENTITY save_as_pdf "Salvar como PDF">
 <!ENTITY print "Imprimir">
 <!ENTITY find_in_page "Localizar na página">
@@ -392,12 +392,12 @@ size. -->
      as alternate text for accessibility. They are not visible in the UI. -->
 
 <!ENTITY media_sending_to "Enviando para dispositivo">
-<!ENTITY media_play "Executar">
-<!ENTITY media_pause "Pausa">
+<!ENTITY media_play "Reproduzir">
+<!ENTITY media_pause "Pausar">
 <!ENTITY media_stop "Parar">
 
-<!ENTITY contextmenu_open_new_tab "Abrir em nova aba">
-<!ENTITY contextmenu_open_private_tab "Abrir em aba privativa">
+<!ENTITY contextmenu_open_new_tab "Abrir em uma nova aba">
+<!ENTITY contextmenu_open_private_tab "Abrir em uma aba privativa">
 <!ENTITY contextmenu_remove "Remover">
 <!ENTITY contextmenu_add_to_launcher "Adicionar à tela inicial">
 <!ENTITY contextmenu_share "Compartilhar">
@@ -430,12 +430,12 @@ size. -->
 <!ENTITY doorhanger_login_select_title "Copiar senha de">
 
 <!ENTITY pref_titlebar_mode "Barra de título">
-<!ENTITY pref_titlebar_mode_title "Exibir título da página">
-<!ENTITY pref_titlebar_mode_url "Exibir endereço da página">
+<!ENTITY pref_titlebar_mode_title "Mostrar título da página">
+<!ENTITY pref_titlebar_mode_url "Mostrar endereço da página">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
-<!ENTITY pref_magnifying_glass_enabled "Ampliar pequenas áreas">
+<!ENTITY pref_magnifying_glass_enabled "Ampliar áreas pequenas">
 <!ENTITY pref_magnifying_glass_enabled_summary "Ampliar links e campos de formulários quando tocar perto deles">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
@@ -470,7 +470,7 @@ size. -->
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
 <!ENTITY reading_list_remove "Remover da lista de leitura">
-<!ENTITY reading_list_duplicate "Página já existente em sua lista de leitura">
+<!ENTITY reading_list_duplicate "A página já está na sua lista de leitura">
 <!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
      panel on the home page to give the user an estimate of how many minutes it will take to
      read an article. The word "minute" should be abbreviated if possible. -->
@@ -505,17 +505,17 @@ size. -->
 
 <!ENTITY home_title "Página inicial do &brandShortName;">
 <!ENTITY home_history_title "Histórico">
-<!ENTITY home_clear_history_button "Limpar histórico">
+<!ENTITY home_clear_history_button "Limpar histórico de navegação">
 <!ENTITY home_clear_history_confirm "Tem certeza que deseja limpar seu histórico?">
-<!ENTITY home_bookmarks_empty "Seus favoritos serão mostradas aqui.">
-<!ENTITY home_closed_tabs_title "Abas fechadas">
+<!ENTITY home_bookmarks_empty "Seus favoritos serão mostrados aqui.">
+<!ENTITY home_closed_tabs_title "Abas fechadas recentemente">
 <!ENTITY home_last_tabs_title "Abas anteriores">
 <!ENTITY home_last_tabs_empty "Suas abas recentes serão mostradas aqui.">
-<!ENTITY home_open_all "Reabrir todas">
+<!ENTITY home_open_all "Abrir tudo">
 <!ENTITY home_most_recent_empty "Sites visitados recentemente serão mostrados aqui.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
-<!ENTITY home_most_recent_emptyhint2 "Psst: ao usar uma &formatS1;Novo separador privativo&formatS2; o seu histórico não será salvo.">
+<!ENTITY home_most_recent_emptyhint2 "Psst: ao usar uma &formatS1;Nova aba privativa&formatS2; o seu histórico não será salvo.">
 <!ENTITY home_reading_list_empty "Artigos salvos para depois serão mostrados aqui.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -536,8 +536,8 @@ size. -->
 
 <!ENTITY home_remote_tabs_title "Abas sincronizadas">
 <!ENTITY home_remote_tabs_empty "Suas abas de outros dispositivos aparecem aqui.">
-<!ENTITY home_remote_tabs_unable_to_connect "Não é possível conectar-se">
-<!ENTITY home_remote_tabs_need_to_sign_in "Identifique-se para reconectar sua conta Firefox e continuar a sincronização.">
+<!ENTITY home_remote_tabs_unable_to_connect "Não foi possível conectar">
+<!ENTITY home_remote_tabs_need_to_sign_in "Entre para reconectar sua conta Firefox e continuar sincronizando.">
 <!ENTITY home_remote_tabs_need_to_finish_migrating "Sua nova conta Firefox está pronta!">
 
 <!ENTITY home_remote_tabs_trouble_verifying "Problemas ao verificar a sua conta?">
@@ -554,10 +554,10 @@ size. -->
 <!ENTITY home_remote_tabs_hidden_devices_title "Dispositivos ocultos">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
-<!ENTITY home_remote_tabs_unhide_selected_devices "Reexibir dispositivos selecionados">
+<!ENTITY home_remote_tabs_unhide_selected_devices "Desocultar dispositivos selecionados">
 
 <!ENTITY remote_tabs_panel_moved_title "Onde estão as minhas abas?">
-<!ENTITY remote_tabs_panel_moved_desc "Movemos as suas abas de outros dispositivos para um painel na sua página inicial que podem ser facilmente acessados ​​toda vez que você abrir uma nova aba.">
+<!ENTITY remote_tabs_panel_moved_desc "Movemos as suas abas de outros dispositivos para um painel na sua página inicial que pode ser facilmente acessado ​​toda vez que abrir uma nova aba.">
 <!ENTITY remote_tabs_panel_moved_link "Leve-me para o meu novo painel.">
 
 <!ENTITY pin_site_dialog_hint "Forneça uma palavra-chave de pesquisa">
