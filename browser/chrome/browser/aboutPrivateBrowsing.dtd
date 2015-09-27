@@ -57,6 +57,7 @@
 <!ENTITY trackingProtection.state.enabled      "Hidupkan">
 <!ENTITY trackingProtection.state.disabled     "Matikan">
 
+<!ENTITY trackingProtection.description1       "Tetingkap persendirian kini menghalang sebahagian halaman yang boleh mengesan aktiviti pelayaran anda.">
 
 <!ENTITY trackingProtection.disable            "Matikan Perlindungan Penjejakan">
 <!ENTITY trackingProtection.enable             "Hidupkan Perlindungan Penjejakan">
