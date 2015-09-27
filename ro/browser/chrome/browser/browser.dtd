@@ -78,7 +78,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY menubarCmd.label "Bara meniului">
 <!ENTITY menubarCmd.accesskey "m">
 <!ENTITY navbarCmd.label "Bară de navigare">
-<!ENTITY personalbarCmd.label "Bară pentru semne de carte">
+<!ENTITY personalbarCmd.label "Bara semnelor de carte">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Elemente pe bara pentru semne de carte">
 
@@ -147,7 +147,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY findShareServices.label "Găsiți mai multe servicii de partajare…">
 <!ENTITY sharePageCmd.label "Împărtășește această pagină">
 <!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "i">
+<!ENTITY sharePageCmd.accesskey "s">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 <!ENTITY shareLink.label "Împărtășește acest link">
 <!ENTITY shareLink.accesskey "s">
@@ -794,7 +794,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Toate ferestrele vizibile pe ecran vor fi partajate.">
 
 <!ENTITY trackingProtection.title "Protecție față de urmărire">
-<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blochează elemente din pagină care v-ar putea urmări navigarea.">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blochează părți ale paginii care v-ar putea urmări navigarea.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Acest site include elemente care v-ar putea urmări navigarea. Ați dezactivat protecția.">
 <!ENTITY trackingProtection.notDetected3 "Nu s-au detectat elemente de urmărire pe această pagină.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
