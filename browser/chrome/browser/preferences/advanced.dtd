@@ -47,7 +47,7 @@
 
 <!ENTITY connection.label                "Conexiune">
 
-<!ENTITY connectionDesc.label            "Configurează cum se conectează &brandShortName; la Internet">
+<!ENTITY connectionDesc.label            "Configurează cum se conectează &brandShortName; la internet">
 <!ENTITY connectionSettings.label        "Setări…">
 <!ENTITY connectionSettings.accesskey    "e">
 
