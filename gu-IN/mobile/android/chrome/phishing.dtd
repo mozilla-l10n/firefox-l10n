@@ -15,3 +15,6 @@
 <!ENTITY safeb.blocked.phishingPage.title2 "શંકાસ્પદ વેબ ગુનાખોરી!">
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "આ પાનાં પર કોઇપણ વ્યક્તિગત જાણકારી દાખલ કરવાનું ઓળખની ચોરી કે અન્ય ગુનાખોરીમાં પરિણમી શકે છે.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>આ પ્રકારના વેબ ગુનાઓ ફીશીંગ હુમલાઓ તરીકે ઓળખાતા કોભાંડોમાં વપરાય છે, કે જેમાં સ્રોતની નકલ કરવા માટે તમે વિશ્વાસ કરી શકો એવા ખોટા વેબ પાનાં અને ઇમેલો વપરાય છે.</p>">
+
+<!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+
