@@ -6,7 +6,7 @@
 <!ENTITY readMsgsLink.label           "Ընթերցել նամակներ">
 <!ENTITY composeMsgLink.label         "Գրել նոր նամակ">
 
-<!ENTITY newsSectionHdr.label         "Նորություններ">
+<!ENTITY newsSectionHdr.label         "Լուրախմբեր">
 <!ENTITY subscribeNewsLink.label      "Կառավարել բաժանորդագրությունները">
 
 <!ENTITY feedsSectionHdr.label        "Շղթաներ">

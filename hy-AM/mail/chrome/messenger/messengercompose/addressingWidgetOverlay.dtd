@@ -8,6 +8,6 @@
 <!ENTITY ccAddr.label   "Cc."> 
 <!ENTITY bccAddr.label  "Bcc."> 
 <!ENTITY replyAddr.label   "Պատասխանել՝"> 
-<!ENTITY newsgroupsAddr.label   "Նորություն."> 
+<!ENTITY newsgroupsAddr.label   "Լուրախումբ."> 
 <!ENTITY followupAddr.label   "Հետևել՝"> 
 

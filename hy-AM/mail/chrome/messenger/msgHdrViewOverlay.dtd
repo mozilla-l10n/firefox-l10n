@@ -11,7 +11,7 @@
 <!ENTITY subjectField4.label "Վերնագիրը">
 <!ENTITY ccField4.label "Cc">
 <!ENTITY bccField4.label "Bcc">
-<!ENTITY newsgroupsField4.label "Նորությունների խումբ">
+<!ENTITY newsgroupsField4.label "Լուրախմբեր">
 <!ENTITY followupToField4.label "Հետևել">
 <!ENTITY tagsHdr4.label "Պիտակներ">
 <!ENTITY dateField4.label "Ամսաթիվ">
@@ -31,7 +31,7 @@
 <!ENTITY hdrReplyListButton1.label "Պատասխանը">
 <!ENTITY hdrReplyListButton1.tooltip "Պատաս. ցանկին">
 <!ENTITY hdrFollowupButton1.label "Հետևել">
-<!ENTITY hdrFollowupButton1.tooltip "Post a followup to this newsgroup">
+<!ENTITY hdrFollowupButton1.tooltip "Հետևել այս լուրախմբին">
 <!ENTITY hdrMenuForwardButton.label "Փոխանցել որպես">
 <!ENTITY hdrForwardButton1.label "Փոխանցել">
 <!ENTITY hdrForwardButton1.tooltip "Փոխանցել նամակը">

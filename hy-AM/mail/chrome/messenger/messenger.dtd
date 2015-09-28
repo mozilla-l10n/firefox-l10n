@@ -112,7 +112,7 @@
 <!ENTITY menuFavoriteFolder.accesskey "v">
 <!ENTITY folderPropsCmd2.label "Հատկություններ...">
 <!ENTITY folderPropsFolderCmd2.label "Թղթ. հատկությունները">
-<!ENTITY folderPropsNewsgroupCmd2.label "Նորությունների հատկությունը">
+<!ENTITY folderPropsNewsgroupCmd2.label "Լուրախմբերի հատկությունը">
 <!ENTITY folderPropsCmd.accesskey "o">
 <!ENTITY undoDeleteMsgCmd.label "Հետ՝ Ջնջել նամակը">
 <!ENTITY redoDeleteMsgCmd.label "Առաջ՝ Ջնջել նամակը">
@@ -341,8 +341,8 @@
 <!ENTITY replyMsgCmd.key  "Պ">
 <!ENTITY replySenderCmd.label "Պատասխանել միայն ուղարկողին">
 <!ENTITY replySenderCmd.accesskey "R">
-<!ENTITY replyNewsgroupCmd2.label "Followup to Newsgroup">
-<!ENTITY replyNewsgroupCmd2.accesskey  "u">
+<!ENTITY replyNewsgroupCmd2.label "Հետևել լուրախմբին">
+<!ENTITY replyNewsgroupCmd2.accesskey  "լ">
 <!ENTITY replyToAllMsgCmd.label "Պատասխանել բոլորին">
 <!ENTITY replyToAllMsgCmd.accesskey  "p">
 <!ENTITY replyToAllMsgCmd.key  "Պ">
@@ -445,7 +445,7 @@
 
 <!ENTITY tasksMenu.label "Գործիքներ">
 <!ENTITY tasksMenu.accesskey "T">
-<!ENTITY messengerCmd.label "Փոստ և նորություններ">
+<!ENTITY messengerCmd.label "Փոստ և Լուրախմբեր">
 <!ENTITY messengerCmd.accesskey "N">
 <!ENTITY addressBookCmd.label "Հասցեագիրք">
 <!ENTITY addressBookCmd.accesskey "B">
@@ -626,7 +626,7 @@
 <!ENTITY folderContextUnsubscribe.label "Չբաժանորդագրվել">
 <!ENTITY folderContextUnsubscribe.accesskey "U">
 <!ENTITY folderContextMarkNewsgroupRead.label "Նշել որպես ընթերցված">
-<!ENTITY folderContextMarkNewsgroupRead.accesskey "k">
+<!ENTITY folderContextMarkNewsgroupRead.accesskey "լ">
 <!ENTITY folderContextMarkMailFolderRead.label "Նշել որպես ընթերցված">
 <!ENTITY folderContextMarkMailFolderRead.accesskey "k">
 <!ENTITY folderContextSubscribe.label "Բաժանորդագրվել...">
@@ -720,7 +720,7 @@
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Պատասխանել միայն ուղարկողին">
 <!ENTITY contextReplySender.accesskey "R">
-<!ENTITY contextReplyNewsgroup2.label "Հետևել Նորություններին">
+<!ENTITY contextReplyNewsgroup2.label "Հետևել Լուրախմբին">
 <!ENTITY contextReplyNewsgroup2.accesskey "ե">
 <!ENTITY contextReplyAll.label "Պատասխանել բոլորին">
 <!ENTITY contextReplyAll.accesskey "A">
@@ -848,15 +848,15 @@
 <!ENTITY EditContact1.accesskey "Խ">
 <!ENTITY ViewContact.label "Նայել կոնտակտը">
 <!ENTITY ViewContact.accesskey "Ն">
-<!ENTITY SubscribeToNewsgroup.label "Բաժանորդագվել խմբին">
-<!ENTITY SubscribeToNewsgroup.accesskey "N">
+<!ENTITY SubscribeToNewsgroup.label "Բաժանորդագվել Լուրախմբին">
+<!ENTITY SubscribeToNewsgroup.accesskey "Լ">
 <!ENTITY SendMessageTo.label "Գրել նամակ">
 <!ENTITY SendMessageTo.accesskey "s">
 <!ENTITY CopyEmailAddress.label "Պատճենել էլ. փոստի հասցեն">
 <!ENTITY CopyEmailAddress.accesskey "Պ">
-<!ENTITY CopyNewsgroupName.label "Պատճենել խմբի անունը">
-<!ENTITY CopyNewsgroupName.accesskey "C">
-<!ENTITY CopyNewsgroupURL.label "Պատճենել խմբի URL-ն">
+<!ENTITY CopyNewsgroupName.label "Պատճենել լուրախմբի անունը">
+<!ENTITY CopyNewsgroupName.accesskey "Պ">
+<!ENTITY CopyNewsgroupURL.label "Պատճենել լուրախմբի URL-ն">
 <!ENTITY CopyNewsgroupURL.accesskey "U">
 <!ENTITY CreateFilterFrom.label "Ստեղծել ֆիլտր՝">
 <!ENTITY CreateFilterFrom.accesskey "F">
