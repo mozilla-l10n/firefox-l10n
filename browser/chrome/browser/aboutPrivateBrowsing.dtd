@@ -57,6 +57,7 @@
 <!ENTITY trackingProtection.state.enabled      "ՄԻԱՑ.">
 <!ENTITY trackingProtection.state.disabled     "ԱՆՋ.">
 
+<!ENTITY trackingProtection.description1       "Գաղտնի պատուհանները այժմ կողպել են էջի այն մասերը, որոնք կարող են հետագծել դիտարկման ձեր ակտիվությունը:">
 
 <!ENTITY trackingProtection.disable            "Անջ. հետագծման պաշտպանությունը">
 <!ENTITY trackingProtection.enable             "Միաց. հետագծման պաշտպանությունը">
