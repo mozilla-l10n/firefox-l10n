@@ -10,7 +10,16 @@
 <!ENTITY  onboard_start_subtext3 "Přizpůsobte si své mobilní prohlížení k obrazu svému.">
 <!ENTITY  onboard_start_button_account "Přihlásit se k aplikaci &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Začít prohlížet">
+<!ENTITY firstrun_button_next "Další">
+
 <!ENTITY  onboard_start_restricted1 "Zůstaňte v bezpečí a mějte kontrolu s touto zjednodušenou verzí aplikace &brandShortName;.">
+
+<!ENTITY firstrun_import_title "Import">
+<!ENTITY firstrun_import_message "Vítejte v aplikaci &brandShortName;">
+<!ENTITY firstrun_import_subtext "Importujte si své záložky a historii z jiného prohlížeče.">
+<!ENTITY firstrun_import_action "Přenos do prohlížeče &brandShortName;">
+<!ENTITY firstrun_import_dialog_button "Přenést">
+<!ENTITY firstrun_import_progress_title "Přenášení">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
@@ -55,8 +64,9 @@
 
 <!ENTITY history_today_section "Dnes">
 <!ENTITY history_yesterday_section "Včera">
-<!ENTITY history_week_section2 "Poslední týden">
-<!ENTITY history_older_section2 "Poslední měsíc">
+<!ENTITY history_week_section3 "Posledních 7 dní">
+<!ENTITY history_this_month_section "Tento měsíc">
+<!ENTITY history_older_section3 "Starší než 6 měsíců">
 
 <!ENTITY go "Přejít">
 <!ENTITY search "Hledat">
@@ -69,8 +79,6 @@
 <!ENTITY edit_mode_cancel "Zrušit">
 
 <!ENTITY close_tab "Zavřít panel">
-<!ENTITY tab_audio_playing "Tento panel přehrává audio">
-<!ENTITY tab_audio_muted "Tento panel byl ztlumen">
 <!ENTITY one_tab "1 panel">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one. 
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -81,6 +89,14 @@
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
 <!ENTITY switch_button_message "PŘEPNOUT">
+<!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
+     visible in the UI, but rather used as a text-to-speech content description
+     for sight-impaired a11y users. The content description is set on a tab
+     title in a list of open tabs when content in that tab is playing audio.
+     &formatS; will be replaced with the title of the tab, as received from the
+     web page. When audio is not playing in a tab, &formatS; will be used as
+     the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "Přehrává audio – &formatS;">
 
 <!ENTITY settings "Nastavení">
 <!ENTITY settings_title "Nastavení">
@@ -182,6 +198,9 @@
 <!ENTITY pref_home_updates_wifi "Pouze přes Wi-Fi">
 <!ENTITY pref_home_suggested_sites "Zobrazit navrhované stránky">
 <!ENTITY pref_home_suggested_sites_summary "Zobrazí na vaší domovské stránce odkazy na stránky, u kterých si myslíme, že by vás mohly zaujmout">
+<!ENTITY pref_category_home_homepage "Domovská stránka">
+<!ENTITY home_homepage_title "Nastavit domovskou stránku">
+<!ENTITY home_homepage_use_current_tab "Použít aktuální panel">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Přizpůsobení">
@@ -237,7 +256,6 @@
 <!ENTITY pref_plugins_tap_to_play "Přehrát po klepnutí">
 <!ENTITY pref_plugins_disabled "Zakázat">
 <!ENTITY pref_text_size "Velikost textu">
-<!ENTITY pref_reflow_on_zoom4 "Přeformátovávat text">
 <!ENTITY pref_restore "Panely">
 <!ENTITY pref_restore_always "Vždy obnovit">
 <!ENTITY pref_restore_quit "Neobnovovat po ukončení aplikace &brandShortName;">
@@ -347,6 +365,7 @@ size. -->
 <!ENTITY share_title "Sdílet pomocí">
 <!ENTITY share_image_failed "Obrázek se nepodařilo sdílet">
 <!ENTITY save_as_pdf "Uložit jako PDF">
+<!ENTITY print "Tisk">
 <!ENTITY find_in_page "Najít ve stránce">
 <!ENTITY desktop_mode "Desktopová verze">
 <!ENTITY page "Stránka">
@@ -391,6 +410,8 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Připnout stránku">
 <!ENTITY contextmenu_top_sites_unpin "Odepnout stránku">
 <!ENTITY contextmenu_add_search_engine "Přidat vyhledávací modul">
+<!ENTITY contextmenu_mark_read "Označit jako přečtené">
+<!ENTITY contextmenu_mark_unread "Označit jako nepřečtené">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -413,8 +434,8 @@ size. -->
 
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
-<!ENTITY pref_prevent_magnifying_glass "Zakázat zvětšovací sklo ">
-<!ENTITY pref_prevent_magnifying_glass_summary "Zakázat zvětšovací sklo pro nejasné doteky na obrazovce">
+<!ENTITY pref_magnifying_glass_enabled "Zvětšovat malé oblasti">
+<!ENTITY pref_magnifying_glass_enabled_summary "Zvětšovat odkazy a pole formulářů při klepnutí blízko nich">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
@@ -563,14 +584,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_insecure "Nezabezpečené přípojení">
 
 <!-- Mixed content notifications in site identity popup -->
-<!ENTITY mixed_content_blocked_all "Aplikace &brandShortName; zablokovala nezabezpečené prvky na této stránce.">
-<!ENTITY mixed_content_blocked_some "Aplikace &brandShortName; zablokovala některé nezabezpečené prvky na této stránce.">
-<!ENTITY mixed_content_display_loaded "Některé prvky na této stránce nejsou zabezpečené.">
-<!ENTITY mixed_content_protection_disabled "Vypnuli jste ochranu proti nezabezpečeným prvkům.">
-
-<!ENTITY loaded_mixed_content_message "Tato stránka zobrazuje obsah, který není zabezpečený.">
-<!ENTITY blocked_mixed_content_message_top "Aplikace &brandShortName; zablokovala obsah, který není zabezpečený.">
-<!ENTITY blocked_mixed_content_message_bottom "Většina stránek bude fungovat přesto, že by tento obsah zablokován.">
+<!ENTITY mixed_content_blocked_all1 "Aplikace &brandShortName; zablokovala nezabezpečený obsah na této stránce.">
+<!ENTITY mixed_content_blocked_some1 "Aplikace &brandShortName; zablokovala některý nezabezpečený obsah na této stránce.">
+<!ENTITY mixed_content_display_loaded1 "Části této stránky nejsou zabezpečené (například obrázky).">
+<!ENTITY mixed_content_protection_disabled1 "Zakázali jste ochranu proti nezabezpečenému obsahu na této stránce.">
 
 <!-- Tracking content notifications in site identity popup -->
 <!ENTITY doorhanger_tracking_title "Ochrana proti sledování">
@@ -700,3 +717,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restriction_disallow_clear_history_title2 "Zakázat \'Vymazat historii prohlížení\'">
 <!ENTITY restriction_disallow_master_password_title2 "Zakázat hlavní heslo">
 <!ENTITY restriction_disallow_guest_browsing_title2 "Zakázat Prohlížení pro hosty">
+
+<!-- Default Bookmarks titles-->
+<!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
+<!ENTITY bookmarks_title "Záložky">
+<!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!ENTITY bookmarks_about_browser "Firefox: O prohlížeči">
+<!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "Firefox: Doplňky">
+<!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "Firefox: Podpora">
+<!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
+<!ENTITY bookmarks_marketplace "Firefox Marketplace">
+<!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!ENTITY bookmarks_restricted_webmaker "Naučte se web: Mozilla Webmaker">

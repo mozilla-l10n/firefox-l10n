@@ -196,6 +196,7 @@
 
 <!ENTITY fxaccount_status_header2 "Firefox Account">
 <!ENTITY fxaccount_status_signed_in_as "Přihlášen(a) jako">
+<!ENTITY fxaccount_status_manage_account "Správa účtu">
 <!ENTITY fxaccount_status_auth_server "Server s účtem">
 <!ENTITY fxaccount_status_sync_now "Synchronizovat">
 <!ENTITY fxaccount_status_syncing2 "Probíhá synchronizace…">
