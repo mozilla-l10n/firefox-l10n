@@ -59,7 +59,7 @@
 <!ENTITY username.tooltip             "Ձեր Ինտերնետ կամ հոսթինգ մատակարարի տրամադրած օգտվողի անունը">
 <!ENTITY password.label               "Գաղտնաբառը.">
 <!ENTITY password.accesskey           "w">
-<!ENTITY password.tooltip             "Օգտվողի Ձեր անվան հետ ասոցիացվող գաղտնաբառը">
+<!ENTITY password.tooltip             "Օգտվողի Ձեր անվան հետ համակցված գաղտնաբառը">
 <!ENTITY savePassword.label           "Պահպանել գաղտնաբառը">
 <!ENTITY savePassword.accesskey       "S">
 <!ENTITY savePassword.tooltip         "Ընտրեք սա՝ պահպանելու համար գաղտնաբառը Գաղտնաբառերի կառավարիչում">

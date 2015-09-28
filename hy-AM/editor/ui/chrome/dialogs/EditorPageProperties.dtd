@@ -4,7 +4,7 @@
 <!-- Window title -->
 
 <!ENTITY windowTitle.label "Էջի հատկություններ">
-<!ENTITY location.label "Տեղը.">
+<!ENTITY location.label "Տեղադրությունը.">
 <!ENTITY lastModified.label "Վերջին փոփոխումը.">
 <!ENTITY titleInput.label "Անվանում.">
 <!ENTITY titleInput.accessKey "Ա">

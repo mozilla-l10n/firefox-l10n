@@ -10,7 +10,7 @@
 
 <!ENTITY forwardMsg.label                     "Փոխանցել նամակները՝">
 <!ENTITY forwardMsg.accesskey                 "F">
-<!ENTITY inline.label                         "Ներսում">
+<!ENTITY inline.label                         "Ներտող">
 <!ENTITY asAttachment.label                   "Որպես կցորդ">
 <!ENTITY addExtension.label                   "ավելացնել բացառություն ֆայլի անվանը">
 <!ENTITY addExtension.accesskey               "e">

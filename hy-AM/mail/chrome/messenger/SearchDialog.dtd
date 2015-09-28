@@ -53,28 +53,28 @@
 <!ENTITY totalColumn.label "Ընդամենը">
 <!ENTITY readColumn.label "Ընթերցել">
 <!ENTITY receivedColumn.label "Ստացման">
-<!ENTITY starredColumn.label "Աստղիկով">
+<!ENTITY starredColumn.label "Աստղով">
 <!ENTITY locationColumn.label "Տեղադրությունը">
 <!ENTITY idColumn.label "Ստացման կարգի">
 <!-- Thread Pane Tooltips -->
 
 <!ENTITY columnChooser2.tooltip "Նշեք, թե որ սյուները պետք է ցուցադրվեն">
 <!ENTITY threadColumn2.tooltip "Ցուցադրել նամակների կապերը">
-<!ENTITY fromColumn2.tooltip "Խմբավորել ըստ՝ ումից">
-<!ENTITY recipientColumn2.tooltip "Խմբավորել ըստ՝ ստացողի">
-<!ENTITY correspondentColumn2.tooltip "Խմբավորել ըստ բաժանորդի">
-<!ENTITY subjectColumn2.tooltip "Խմբավորել ըստ՝ վերնագրի">
-<!ENTITY dateColumn2.tooltip "Խմբավորել ըստ՝ ամսաթվի">
-<!ENTITY priorityColumn2.tooltip "Խմբավորել ըստ՝ առաջնահերթության">
-<!ENTITY tagsColumn2.tooltip "Խմբավորել ըստ՝ պիտակի">
-<!ENTITY accountColumn2.tooltip "Խմբավորել ըստ՝ հաշվի">
-<!ENTITY statusColumn2.tooltip "Խմբավորել ըստ՝ կարգավիճակի">
-<!ENTITY sizeColumn2.tooltip "Խմբավորել ըստ՝ չափի">
-<!ENTITY junkStatusColumn2.tooltip "Խմբավորել ըստ՝ թափոնի կարգավիճակի">
+<!ENTITY fromColumn2.tooltip "Տեսակավորել ըստ՝ ումից">
+<!ENTITY recipientColumn2.tooltip "Տեսակավորել ըստ՝ ստացողի">
+<!ENTITY correspondentColumn2.tooltip "Տեսակավորել ըստ՝ բաժանորդի">
+<!ENTITY subjectColumn2.tooltip "Տեսակավորել ըստ՝ վերնագրի">
+<!ENTITY dateColumn2.tooltip "Տեսակավորել ըստ՝ ամսաթվի">
+<!ENTITY priorityColumn2.tooltip "Տեսակավորել ըստ՝ առաջնահերթության">
+<!ENTITY tagsColumn2.tooltip "Տեսակավորել ըստ՝ պիտակի">
+<!ENTITY accountColumn2.tooltip "Տեսակավորել ըստ՝ հաշվի">
+<!ENTITY statusColumn2.tooltip "Տեսակավորել ըստ՝ կարգավիճակի">
+<!ENTITY sizeColumn2.tooltip "Տեսակավորել ըստ՝ չափի">
+<!ENTITY junkStatusColumn2.tooltip "Տեսակավորել ըստ՝ թափոնի վիճակի">
 <!ENTITY unreadColumn2.tooltip "Չընթերցված նամակների քանակը շղթայում">
 <!ENTITY totalColumn2.tooltip "Նամակների ընդ. քանակը ըստ շղթայի">
-<!ENTITY readColumn2.tooltip "Խմբավորել ըստ՝ ընթերցելու">
-<!ENTITY receivedColumn2.tooltip "Խմբավորել ըստ՝ ստանալու ամսաթվի">
-<!ENTITY starredColumn2.tooltip "Խմբավորել ըստ՝ աստղի">
-<!ENTITY locationColumn2.tooltip "Խմբավորել ըստ՝ տեղի">
-<!ENTITY idColumn2.tooltip "Խմբավորել ըստ՝ ստանալու հերթականության">
+<!ENTITY readColumn2.tooltip "Տեսակավորել ըստ՝ ընթերցվածի">
+<!ENTITY receivedColumn2.tooltip "Տեսակավորել ըստ՝ ստանալու ամսաթվի">
+<!ENTITY starredColumn2.tooltip "Տեսակավորել ըստ՝ աստղի">
+<!ENTITY locationColumn2.tooltip "Տեսակավորել ըստ՝ տեղի">
+<!ENTITY idColumn2.tooltip "Տեսակավորել ըստ՝ ստանալու կարգի">

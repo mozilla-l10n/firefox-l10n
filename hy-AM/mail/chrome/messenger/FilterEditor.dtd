@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY window.title "Ֆիլտրի կանոնները">
+<!ENTITY window.title "Զտիչի կանոնները">
 <!ENTITY filterEditorDialog.dimensions "width: 100ch;">
-<!ENTITY filterName.label "Ֆիլտրի անունը.">
-<!ENTITY filterName.accesskey "i">
+<!ENTITY filterName.label "Զտիչի անունը.">
+<!ENTITY filterName.accesskey "տ">
 
 <!ENTITY junk.label "Թափոն">
 <!ENTITY notJunk.label "Թափոն չէ">
@@ -16,13 +16,13 @@
 <!ENTITY highPriorityCmd.label "Բարձր">
 <!ENTITY highestPriorityCmd.label "Ամենաբարձր">
 
-<!ENTITY contextDesc.label "Կիրառել ֆիլտրը, երբ՝">
+<!ENTITY contextDesc.label "Կիրառել զտիչը, երբ՝">
 <!ENTITY contextIncomingMail.label "Նոր նամակի ստացում.">
 <!ENTITY contextIncomingMail.accesskey "G">
 <!ENTITY contextManual.label "Ձեռադիր բացում">
 <!ENTITY contextManual.accesskey "R">
-<!ENTITY contextBeforeCls.label "Filter before Junk Classification">
-<!ENTITY contextAfterCls.label "Filter after Junk Classification">
+<!ENTITY contextBeforeCls.label "Զտել մինչև թափոն դասակարգելը">
+<!ENTITY contextAfterCls.label "Զտել թափոն դասակարգելուց հետո">
 <!ENTITY contextOutgoing.label "Ուղարկելուց հետո">
 <!ENTITY contextOutgoing.accesskey "հ">
 <!ENTITY contextArchive.label "Արխիվացում">
@@ -51,7 +51,7 @@
 <!ENTITY ignoreThread.label "Անտեսել շղթան">
 <!ENTITY ignoreSubthread.label "Անտեսել ենթաշղթան">
 <!ENTITY watchThread.label "Հետևել շղթային">
-<!ENTITY stopExecution.label "Կանգնեցնել ֆիլտրը">
+<!ENTITY stopExecution.label "Կանգնեցնել զտիչը">
 
 <!ENTITY addAction.tooltip "Նոր գործողություն">
 <!ENTITY removeAction.tooltip "Հեռացնել գործողությունը">

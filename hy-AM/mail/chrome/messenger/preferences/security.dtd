@@ -17,8 +17,8 @@
 <!ENTITY manualMarkModeDelete.accesskey "D">
 <!ENTITY markAsReadOnSpam.label "Նշել թափոն նամակները որպես ընթերցված">
 <!ENTITY markAsReadOnSpam.accesskey "M">
-<!ENTITY enableAdaptiveJunkLogging.label "Միացնել թափոնի հարմարողական ֆիլտրի մատյանը">
-<!ENTITY enableAdaptiveJunkLogging.accesskey "E">
+<!ENTITY enableAdaptiveJunkLogging.label "Միացնել թափոնի հարմարողական զտիչի մատյանը">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "Մ">
 <!ENTITY openJunkLog.label "Ցուցադրել մատյանը">
 <!ENTITY openJunkLog.accesskey "S">
 <!ENTITY resetTrainingData.label "Վերակայել ուսուցման տվյալը">

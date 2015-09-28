@@ -15,8 +15,8 @@
 <!ENTITY newContact.key                                 "Հ">
 <!ENTITY newListCmd.label                               "Նամակների ցանկը...">
 <!ENTITY newListCmd.accesskey                           "L">
-<!ENTITY newAddressBookCmd.label                        "Հասցեագիրքը...">
-<!ENTITY newAddressBookCmd.accesskey                    "B">
+<!ENTITY newAddressBookCmd.label                        "Հասցեագիրք...">
+<!ENTITY newAddressBookCmd.accesskey                    "գ">
 <!ENTITY newLDAPDirectoryCmd.label                      "LDAP տեղը...">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
 <!ENTITY newMessageCmd.label                            "Նամակ">
@@ -38,7 +38,7 @@
 <!ENTITY printContactCmd.accesskey                      "P">
 <!ENTITY printContactCmd.key                            "Տ">
 <!ENTITY printAddressBook.label                         "Տպել հասցեագիրքը...">
-<!ENTITY printAddressBook.accesskey                     "A">
+<!ENTITY printAddressBook.accesskey                     "հ">
 <!-- Edit Menu -->
 
 <!ENTITY editMenu.label                                 "Խմբագրել">
@@ -108,8 +108,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY lastFirstCmd.accesskey                         "Ա">
 <!ENTITY displayNameCmd.label                           "Ցուցադրվող անունը">
 <!ENTITY displayNameCmd.accesskey                       "D">
-<!ENTITY sortMenu.label                                 "Խմբավորել ըստ՝">
-<!ENTITY sortMenu.accesskey                             "S">
+<!ENTITY sortMenu.label                                 "Տեսակավորել ըստ՝">
+<!ENTITY sortMenu.accesskey                             "Տ">
 <!-- Tools Menu -->
 
 <!ENTITY tasksMenu.label                                "Գործիքներ">

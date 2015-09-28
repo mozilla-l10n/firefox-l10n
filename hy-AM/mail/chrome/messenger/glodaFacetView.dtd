@@ -5,7 +5,7 @@
      faceting sidebar.  Serves as a header both for the checkboxes under it as
      well for labeled facets with multiple options. -->
 
-<!ENTITY glodaFacetView.filters.label "Ֆիլտրեր">
+<!ENTITY glodaFacetView.filters.label "Զտիչներ">
 <!-- LOCALIZATION NOTE (glodaFacetView.loading.label): Label that appears when
      the search results take a long time to appear. -->
 

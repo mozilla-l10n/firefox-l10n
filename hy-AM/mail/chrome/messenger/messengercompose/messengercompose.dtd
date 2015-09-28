@@ -262,7 +262,7 @@
 
 <!ENTITY spellCheckNoSuggestions.label "Առաջարկություններ չկան">
 <!ENTITY spellCheckIgnoreWord.label "Անտեսել բառը">
-<!ENTITY spellCheckIgnoreWord.accesskey "I">
+<!ENTITY spellCheckIgnoreWord.accesskey "Ա">
 <!ENTITY spellCheckAddToDictionary.label "Ավելացնել բառարանում">
 <!ENTITY spellCheckAddToDictionary.accesskey "n">
 <!ENTITY undo.label "Հետարկել">

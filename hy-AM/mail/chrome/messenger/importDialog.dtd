@@ -21,16 +21,16 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importAddressbook.accesskey "A">
 <!ENTITY importSettings.label     "Կարգավորումներ">
 <!ENTITY importSettings.accesskey "S">
-<!ENTITY importFilters.label      "Ֆիլտրեր">
+<!ENTITY importFilters.label      "Զտիչներ">
 <!ENTITY importFilters.accesskey  "F">
 
 <!ENTITY  window.width            "40em">
 <!ENTITY  window.macWidth         "45em">
 
 <!ENTITY importTitle.label        "&brandShortName;-ի Ներմուծման Օգնական">
-<!ENTITY importShortDesc.label    "Ներմուծել նամակ, Հասցեագիրք, Կարգավորումներ և ֆիլտրեր այլ ծրագրերից">
+<!ENTITY importShortDesc.label    "Ներմուծել նամակ, Հասցեագիրք, Կարգավորումներ և զտիչներ այլ ծրագրերից">
 
-<!ENTITY importDescription1.label "Օգնականը կներմուծի նամակներ, հասցեներ, կարգավորումներ և/կամ ֆիլտրեր այլ փոստային ծրագրից և ընտրված հասցեներ &brandShortName;-ում։">
+<!ENTITY importDescription1.label "Օգնականը կներմուծի նամակներ, հասցեներ, կարգավորումներ և/կամ զտիչներ այլ փոստային ծրագրից և ընտրված հասցեներ &brandShortName;-ում։">
 <!ENTITY importDescription2.label "Երբ ներմուծվեն, Դուք կկարողանաք մուտք գործել &brandShortName;-ի միջոցով։">
 
 <!ENTITY selectDescription.label  "Ընտրեք, թե ի՞նչ եք ցանկանում ներմուծել.">

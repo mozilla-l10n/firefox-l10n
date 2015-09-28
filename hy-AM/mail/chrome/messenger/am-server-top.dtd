@@ -83,7 +83,7 @@
 <!ENTITY browseNewsrc.accesskey "e">
 
 <!ENTITY accountTitle.label "Փոստարկղի կարգավորումներ">
-<!ENTITY accountSettingsDesc.label "Սա հատուկ փոստարկղ է։ Չկան որոշակի ասոցիացումներ։">
+<!ENTITY accountSettingsDesc.label "Սա հատուկ փոստարկղ է։  Չկան համակցված նույնացումներ։">
 <!ENTITY storeType.label "Նամակները պահելու եղանակը.">
 <!ENTITY storeType.accesskey "ե">
 <!ENTITY mboxStore2.label "Ֆայլ թղթապանակում (mbox)">

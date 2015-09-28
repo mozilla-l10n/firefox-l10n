@@ -117,7 +117,7 @@
 <!ENTITY newsServerNamePrefix.label "Նորությունների սպասարկիչի անունը (NNTP).">
 <!ENTITY downloadOnLogin.label "Ներբեռնել նամակները">
 <!ENTITY downloadOnLogin.accesskey "Ն">
-<!ENTITY deferStorageDesc.label "Հանեք ընտրումը՝ այս փոստարկղի նամակը խմբավորելու համար իր թղթապանակում։ Այս փոստարկղը կերևա ամենավերևում։ Այն կլինի Local Folders Global Մուտքայինի մի մասնիկը։">
+<!ENTITY deferStorageDesc.label "Հանեք ընտրումը՝ այս փոստարկղի նամակը տեսակավորելու համար իր թղթապանակում։ Այս փոստարկղը կերևա ամենավերևում։ Այն կլինի Local Folders Global Մուտքայինի մի մասնիկը։">
 <!ENTITY deferStorage.label "Օգտ. Հիմնական Մուտքայինները (պահել նամակները տեղային թղթապանակում)։">
 <!ENTITY deferStorage.accesskey "Հ">
 <!ENTITY clickFinish.label "Սեղմեք Ավարտել՝ պահպանելու համար կարգավորումները և փակելու համար Օգնականը։">
