@@ -11,7 +11,7 @@
 <!ENTITY tree.propertyHeader.label      "Հատկությունը">
 <!ENTITY tree.valueHeader.label         "Նշանակություն">
 <!ENTITY tabHTML.label                  "HTML հատկություններ">
-<!ENTITY tabCSS.label                   "Ներքին գիծը">
+<!ENTITY tabCSS.label                   "Ներտող ոճ">
 <!ENTITY tabJSE.label                   "JavaScript դեպքեր">
 
 <!ENTITY editAttribute.label    "Սեղմեք այստեղ՝ խմբագրելու համար">

@@ -15,8 +15,8 @@
 <!ENTITY  preserveExisting.label        "Պահպանել աղբյուրի բնօրինակ ձևաչափումը">
 <!ENTITY  preserveExisting.accesskey    "Պ">
 <!ENTITY  preserveExisting.tooltip      "Պահում է գծատողերը և էջի իսկական տեսքը">
-<!ENTITY  saveAssociatedFiles.label     "Էջերը պահպանելիս պահպանել նկարները և այլ ասոցիացված ֆայլերը">
-<!ENTITY  saveAssociatedFiles.accesskey "S">
+<!ENTITY  saveAssociatedFiles.label     "Էջերը պահպանելիս պահպանել նկարները և համակցված այլ ֆայլերը">
+<!ENTITY  saveAssociatedFiles.accesskey "Է">
 <!ENTITY  showPublishDialog.label       "Էջերը հրապարակելիս միշտ ցուցադրել Հրապարակել պատուհանը">
 <!ENTITY  showPublishDialog.accesskey   "A">
 <!ENTITY  composerEditing.label         "Խմբագրում">

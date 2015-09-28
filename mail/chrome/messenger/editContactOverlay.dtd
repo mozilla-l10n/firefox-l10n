@@ -11,8 +11,8 @@
 <!ENTITY editContactEmail.label "Էլ. փոստ.">
 <!ENTITY editContactEmail.accesskey "Է">
 
-<!ENTITY editContactAddressBook.label "Հասցեագիրքը.">
-<!ENTITY editContactAddressBook.accesskey "A">
+<!ENTITY editContactAddressBook.label "Հասցեագիրք.">
+<!ENTITY editContactAddressBook.accesskey "Հ">
 
 <!ENTITY editContactPanelCancel.label "Չեղարկել">
 <!ENTITY editContactPanelCancel.accesskey "C">

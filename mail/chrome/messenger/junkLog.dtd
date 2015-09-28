@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY adaptiveJunkLog.title "Թափոնի հարմարեցված մատյան">
-<!ENTITY adaptiveJunkLogInfo.label "Հարմարողական թափոնի ֆիլտրի մատյանը:">
+<!ENTITY adaptiveJunkLogInfo.label "Հարմարողական թափոնի զտիչի մատյանը:">
 <!ENTITY clearLog.label "Մաքրել մատյանը">
 <!ENTITY clearLog.accesskey "C">
 <!ENTITY closeLog.label "Փակել">

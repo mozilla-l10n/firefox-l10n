@@ -5,8 +5,8 @@
 
 <!ENTITY migrationWizard.title          "Ներմուծելու Օգնական">
 
-<!ENTITY importFromWin.label            "Ներմուծել Ընտրանքները, Փոստարկղի կարգավորումները, Հասցեագիրքը, Ֆիլտրերը և այլ տվյալներ.">
-<!ENTITY importFromNonWin.label         "Ներմուծել Կարգավորումները, Փոստարկղի կարգավորումները, Հասցեագիրքը, Ֆիլտրերը և այլ տվյալներ.">
+<!ENTITY importFromWin.label            "Ներմուծել Ընտրանքները, Փոստարկղի կարգավորումները, Հասցեագիրքը, Զտիչներ և այլ տվյալներ.">
+<!ENTITY importFromNonWin.label         "Ներմուծել Կարգավորումները, Փոստարկղի կարգավորումները, Հասցեագիրքը, Զտիչներ և այլ տվյալներ.">
 
 <!ENTITY importFromNothing.label        "Չներմուծել ոչինչ">
 <!ENTITY importFromNothing.accesskey    "Չ">

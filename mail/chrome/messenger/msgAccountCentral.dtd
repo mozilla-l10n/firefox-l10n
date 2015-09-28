@@ -23,6 +23,6 @@
 
 <!ENTITY advFeaturesSectionHdr.label  "Ընդլայնված հնարավորություններ">
 <!ENTITY searchMsgsLink.label         "Նամակների որոնում">
-<!ENTITY filtersLink.label            "Կառավարել նամակի ֆիլտրերը">
+<!ENTITY filtersLink.label            "Կառավարել նամակի զտիչները">
 <!ENTITY junkSettings.label           "Թափոն նամակի կարգավորումներ">
 <!ENTITY offlineLink.label            "Անցանց կարգավորումներ">

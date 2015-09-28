@@ -29,8 +29,8 @@
 <!ENTITY retentionKeepRecent.accesskey "b">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
 <!ENTITY retentionKeepUnreadHidden.label "Միշտ ջնջել ընթերցած նամակները">
-<!ENTITY retentionApplyToFlagged.label "Միշտ պահել աստղանիշով նամակները">
-<!ENTITY retentionApplyToFlagged.accesskey "k">
+<!ENTITY retentionApplyToFlagged.label "Միշտ պահել աստղով նամակները">
+<!ENTITY retentionApplyToFlagged.accesskey "պ">
 <!ENTITY nntpRemoveMsgBody.label "Մաքրել նամակի բովանդակությունը, որը ավելի քան՝">
 <!ENTITY nntpRemoveMsgBody.accesskey "o">
 <!ENTITY offlineSelectNntp.label "Ընտրեք լուրախմբեր՝ ցանցից դուրս օգտագործելու համար...">

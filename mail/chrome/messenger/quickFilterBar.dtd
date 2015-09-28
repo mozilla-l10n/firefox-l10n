@@ -6,31 +6,31 @@
      the quick filter bar.
      -->
 
-<!ENTITY quickFilterBar.qfbShowFilterBar.label "Արագ ֆիլտր">
+<!ENTITY quickFilterBar.qfbShowFilterBar.label "Արագ զտիչ">
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.menu.label):
      The label to display for the "View... Toolbars..." menu item that controls
      whether the quick filter bar is visible.
      -->
 
-<!ENTITY quickFilterBar.toggleBarVisibility.menu.label "Արագ ֆիլտրման վահանակ">
+<!ENTITY quickFilterBar.toggleBarVisibility.menu.label "Արագ զտիչի վահանակ">
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.menu.accesskey):
      The access key for the "View... Toolbars..." menu item label that controls
      whether the quick filter bar is visible.
      -->
 
-<!ENTITY quickFilterBar.toggleBarVisibility.menu.accesskey "Q">
+<!ENTITY quickFilterBar.toggleBarVisibility.menu.accesskey "Ա">
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.appmenu.label):
      The label to display for the "App Menu... Preferences..." menu item that
      controls whether the quick filter bar is visible.
      -->
 
-<!ENTITY quickFilterBar.toggleBarVisibility.appmenu.label "Արագ ֆիլտրման վահանակ">
+<!ENTITY quickFilterBar.toggleBarVisibility.appmenu.label "Արագ զտիչի վահանակ">
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.button.tooltip):
      The tooltip to display when hovering over the button on the tab bar that
      toggles the visibility of the quick filter bar.
      -->
 
-<!ENTITY quickFilterBar.toggleBarVisibility.button.tooltip "Փոփոխել արագ ֆիլտրման վահանակը">
+<!ENTITY quickFilterBar.toggleBarVisibility.button.tooltip "Փոփոխել արագ զտիչի վահանակը">
 <!-- LOCALIZATION NOTE (quickFilterBar.sticky.tooltip):
      The tooltip to display when the user hovers over the sticky button
      (currently displayed as a push-pin).  When active, the sticky button
@@ -39,7 +39,7 @@
      filters are propagated between folder changes and when opening new tabs.)
      -->
 
-<!ENTITY quickFilterBar.sticky.tooltip "Պահել ֆիլտրերը՝ թղթապանակներին անցնելիս">
+<!ENTITY quickFilterBar.sticky.tooltip "Պահել զտիչները՝ թղթապանակներին անցնելիս">
 <!-- LOCALIZATION NOTE (quickFilterBar.unread.label):
      The label for the filter button that causes us to filter results to only
      include unread messages.
@@ -57,13 +57,13 @@
      include messages that have been starred/flagged.
      -->
 
-<!ENTITY quickFilterBar.starred.label "Աստղիկով">
+<!ENTITY quickFilterBar.starred.label "Աստղով">
 <!-- LOCALIZATION NOTE (quickFilterBar.starred.tooltip):
      The tooltip for the filter button that causes us to filter results to only
      include messages that have been starred/flagged.
      -->
 
-<!ENTITY quickFilterBar.starred.tooltip "Ցուցադրել միայն աստղիկով նամակները">
+<!ENTITY quickFilterBar.starred.tooltip "Ցուցադրել միայն աստղով նամակները">
 <!-- LOCALIZATION NOTE (quickFilterBar.inaddrbook.label):
      The label for the filter button that causes us to filter results to only
      include messages from contacts in one of the user's non-remote address
@@ -139,7 +139,7 @@
      box faster.
      -->
 
-<!ENTITY quickFilterBar.textbox.emptyText.base "Ֆիլտրել այս նամակները...#1">
+<!ENTITY quickFilterBar.textbox.emptyText.base "Զտել այս նամակները...#1">
 <!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
      This is the key used to show the quick filter bar. -->
 
@@ -205,7 +205,7 @@
      arrow scroll box.)
      -->
 
-<!ENTITY quickFilterBar.textFilter.explanation.label "Ֆիլտրել նամակները ըստ՝">
+<!ENTITY quickFilterBar.textFilter.explanation.label "Զտել նամակներն ըստ՝">
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.sender.label):
      The button label that toggles whether the text filter searches the message
      sender for the string.

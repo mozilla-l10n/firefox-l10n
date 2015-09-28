@@ -20,8 +20,8 @@ sentence. -->
 <!ENTITY  andSetStatusToAway.label      "և դարձնել իմ կարգավիճակը Հեռու եմ այս գրությամբ.">
 <!ENTITY  andSetStatusToAway.accesskey  "և">
 
-<!ENTITY  sendTyping.label              "Ուղարկել տեղեկացման նշումը երկխոսությունում">
-<!ENTITY  sendTyping.accesskey          "Ո">
+<!ENTITY  sendTyping.label              "Ուղարկել մուտքագրվող ծանուցումները զրուցաշարով">
+<!ENTITY  sendTyping.accesskey          "մ">
 
 <!ENTITY  chatNotifications.label             "Երբ նամակները ասնում են.">
 <!ENTITY  desktopChatNotifications.label      "Ցուցադրել ծանուցումները.">
