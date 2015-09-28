@@ -4,7 +4,11 @@
 
 <!ENTITY aboutAccounts.welcome "&syncBrand.shortName.label; માં સ્વાગત છે">
 
+
 <!ENTITY aboutAccountsConfig.description "તમારાં ટૅબ, બુકમાર્ક, પાસવર્ડ અને વધારેનું સુમેળ કરવા માટે પ્રવેશો.">
 <!ENTITY aboutAccountsConfig.startButton.label "પ્રારંભ કરો">
 <!ENTITY aboutAccountsConfig.useOldSync.label "શું સુમેળની જૂની આવૃત્તિને વાપરી રહ્યા છો?">
-<!ENTITY aboutAccountsConfig.manage.label "સંચાલિત કરો">
+
+
+
+
