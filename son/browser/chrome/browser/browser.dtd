@@ -717,7 +717,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.weakEncryption "Moɲoo woo tuguyan dabaroo ga yalaafu.">
 <!-- Strings for connection state warnings in the subview. -->
 
-<!ENTITY identity.description.insecure "War dobuyanoo moɲoo woo ga ši sutura. Boro taney ga hin ka dii šilbawey kaŋ war n'i sanba (sanda šennikufal, toonandiyan, garaw katta, und tana).">
+<!ENTITY identity.description.insecure "War dobuyanoo moɲoo woo ga ši sutura. Boro taney ga hin ka dii šilbawey kaŋ war n'i sanba (sanda šennikufal, toonandiyan, garaw katta, nda tana).">
 <!ENTITY identity.description.insecureLoginForms "War huruyan šilbaa kaŋ war g'a dam moɲoo woo ga manti saajante nd'a hin ka fukkar.">
 <!ENTITY identity.description.weakCipher "War dobuyanoo moɲoo woo tuguyan dabaroo ga yalaafu nd'a ši sutura.">
 <!ENTITY identity.description.weakCipher2 "Boro taney ga hin ka dii war alhabarey wal'i ma nungoo ladabu barmay.">
@@ -726,7 +726,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded2 "Nungoo goo nda gundekuna kaŋ manti saajante (sanda biiyaŋ).">
 <!ENTITY identity.description.passiveLoaded3 "Baa kaŋ &brandShortName; ga gundekuna jere gagay, gundekuna cindi moɲoo ga kaŋ manti saajante (sanda biiyaŋ).">
 <!ENTITY identity.description.activeLoaded "Nungoo woo goo nda gundekuna kaŋ manti saajante (sanda šigira dumiyaŋ) nda dobuyanoo ši sutura.">
-
+<!ENTITY identity.description.activeLoaded2 "Boro taney ga hin ka dii alhabar kaŋ war g'a žemna nda nungoo woo (sanda šennikufal, tooonandiyan, garaw katta, nda tana).">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Jejebuyan tunandi">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "e">
@@ -737,7 +737,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.moreInfoLinkText2 "Alhabar tontoni">
 
 <!ENTITY identity.permissions "Duɲeyaney">
-
+<!ENTITY identity.permissionsEmpty "War mana cerecere duɲeyan kul noo nungoo woo se.">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -748,7 +748,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
-
+<!ENTITY syncSignIn.label             "Huru &syncBrand.shortName.label; ra…">
+<!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "Sync sohõ">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Ciya &syncBrand.shortName.label;… sekoyne">
@@ -809,29 +810,32 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "z">
 <!ENTITY getUserMedia.selectMicrophone.label "Jindezaahaya kaŋ ka žemna:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "m">
-
+<!ENTITY getUserMedia.audioCapture.label "Jinde kaŋ hun nor lokoo woo ga mma žemnandi.">
 <!ENTITY getUserMedia.allWindowsShared.message "Zanfun kaŋ ga banga war dijoo ga kul ga žemnandi.">
 
-
-
-
+<!ENTITY trackingProtection.title "Ganayan jejebuyan">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; ga moɲoo dooyaŋ gagay kaŋ ga hin ka war ceeciyanoo gana.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "Hayayaŋ goo moɲoo woo ra kaŋ ga hin ka war ceeciyanoo gana. War na jejebu kaa.">
+<!ENTITY trackingProtection.notDetected3 "Ganayan haya kul mana maatandi moɲoo woo ga.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-
+<!ENTITY trackingProtection.unblock.label "Jejebu kaa moɲoo woo se">
+<!ENTITY trackingProtection.unblock.accesskey "a">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-
-
-
+<!ENTITY trackingProtection.unblockPrivate.label "Jejebu kaa moɲoo woo se">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "a">
+<!ENTITY trackingProtection.block2.label "Jejebu tunandi">
+<!ENTITY trackingProtection.block2.accesskey "e">
 
 <!ENTITY trackingContentBlocked.message "Kuryan">
 <!ENTITY trackingContentBlocked.moreinfo "Ir na moo-kunawey kaŋyaŋ ga war monno interneti bande gagay.">
 <!ENTITY trackingContentBlocked.learnMore "Bay ka tonton">
-
-
-
+<!ENTITY trackingContentBlocked.options "Suubarey">
+<!ENTITY trackingContentBlocked.unblock2.label "Jejeboo kaa moɲoo woo se">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "a">
 <!ENTITY trackingContentBlocked.block.label "Jejebuyan tunandi">
 <!ENTITY trackingContentBlocked.block.accesskey "e">
 <!ENTITY trackingContentBlocked.disabled.message "Monnoyan jejebu n' ka kay">
