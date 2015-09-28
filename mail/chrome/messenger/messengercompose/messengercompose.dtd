@@ -119,12 +119,12 @@
 <!ENTITY customizeToolbar.label "Կարգավորել…">
 <!ENTITY customizeToolbar.accesskey "C">
 
-<!ENTITY addressSidebar.label "Հասցեների կողավահանակ">
-<!ENTITY addressSidebar.accesskey "o">
+<!ENTITY addressSidebar.label "Կոնտակտների կողագոտի">
+<!ENTITY addressSidebar.accesskey "ո">
 <!-- Format Menu -->
 
-<!ENTITY formatMenu.label "Տեսակը">
-<!ENTITY formatMenu.accesskey "o">
+<!ENTITY formatMenu.label "Ձևափաչում">
+<!ENTITY formatMenu.accesskey "և">
 <!-- Options Menu -->
 
 <!ENTITY optionsMenu.label "Կարգավորումներ">
@@ -178,7 +178,7 @@
 
 <!ENTITY tasksMenu.label "Գործիքներ">
 <!ENTITY tasksMenu.accesskey "T">
-<!ENTITY messengerCmd.label "Փոստ &amp; Նորություններ">
+<!ENTITY messengerCmd.label "Փոստ և նորություններ">
 <!ENTITY messengerCmd.accesskey "Փ">
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Հասցեագիրք">
@@ -234,8 +234,8 @@
 <!ENTITY replyAddr.label "Պատասխանել՝">
 <!ENTITY newsgroupsAddr.label "Նորություն.">
 <!ENTITY followupAddr.label "Հետևել՝">
-<!ENTITY subject.label "Վերնագիրը.">
-<!ENTITY subject.accesskey "S">
+<!ENTITY subject.label "Վերնագիր.">
+<!ENTITY subject.accesskey "Վ">
 <!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
      to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY attachments.accesskey "m">

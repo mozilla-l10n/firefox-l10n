@@ -30,7 +30,7 @@
 <!ENTITY otherDirList.tooltip         "Ընտրեք կամ նշեք հեռակա ենթաթղթապանակի անունը, որտեղ ֆայլերը կհրապարակ">
 <!ENTITY pageTitle.label              "Էջի անունը.">
 <!ENTITY pageTitle.accesskey          "T">
-<!ENTITY pageTitle.tooltip            "Նշեք վերնագիրը՝ պատուհանում և էջանիշերում էջը ճանաչելու համար">
+<!ENTITY pageTitle.tooltip            "Նշեք անվանումը՝ պատուհանում և էջանիշերում էջը ճանաչելու համար">
 <!ENTITY pageTitleExample.label       "օր.՝ &quot;ՀայՍոֆթ&quot;">
 <!ENTITY filename.label               "Ֆայլի անունը.">
 <!ENTITY filename.accesskey           "F">

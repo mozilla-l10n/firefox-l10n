@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label                   "Ընդհանուր">
-<!ENTITY itemAutoComplete.label              "Հասցեն">
+<!ENTITY itemAutoComplete.label              "Հասցեագրում">
 <!ENTITY itemSpellCheck.label                "Ուղղագրությունը">
 
 <!ENTITY dialogCompose.title                 "Նոր նամակ">

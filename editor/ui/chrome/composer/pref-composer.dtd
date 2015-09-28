@@ -25,5 +25,5 @@
 <!ENTITY  maintainStructure.accesskey   "M">
 <!ENTITY  useCSS.label                  "Օգտագործել CSS ոճեր՝ HTML բաղադրիչների փոխարեն">
 <!ENTITY  useCSS.accesskey              "U">
-<!ENTITY  crInPCreatesNewP.label        "Վերադարձը պարագրաֆին միշտ ստեղծում է նոր պարագրաֆ">
-<!ENTITY  crInPCreatesNewP.accesskey    "R">
+<!ENTITY  crInPCreatesNewP.label        "Վերադառձը պարբերությանը միշտ ստեղծում է նոր պարբերություն">
+<!ENTITY  crInPCreatesNewP.accesskey    "Վ">

@@ -53,7 +53,7 @@
 <!ENTITY cellStyle.label                  "Վանդակի ոճը.">
 <!ENTITY cellStyle.accessKey              "Վ">
 <!ENTITY cellNormal.label                 "Նորմալ">
-<!ENTITY cellHeader.label                 "Վերնագիրը">
+<!ENTITY cellHeader.label                 "Վերնագիր">
 <!ENTITY cellTextWrap.label               "Տեքստի պտտում.">
 <!ENTITY cellTextWrap.accessKey           "Տ">
 <!ENTITY cellWrap.label                   "Պտտում">
