@@ -51,8 +51,8 @@
 
 <!ENTITY folderProps.name.label                  "Անունը.">
 <!ENTITY folderProps.name.accesskey              "N">
-<!ENTITY folderProps.location.label              "Տեղը.">
-<!ENTITY folderProps.location.accesskey          "L">
+<!ENTITY folderProps.location.label              "Տեղադրություն.">
+<!ENTITY folderProps.location.accesskey          "Տ">
 
 <!ENTITY folderSharingTab.label                  "Տարածում">
 <!ENTITY privileges.button.label                 "Արտոնությունները…">

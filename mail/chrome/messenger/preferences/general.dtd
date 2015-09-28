@@ -27,10 +27,10 @@
 
 <!ENTITY play.label                       "Նվագարկել">
 <!ENTITY play.accesskey                   "Ն">
-<!ENTITY systemsound.label                "Համակարգային ձայնը՝ նոր նամակի դեպքում">
-<!ENTITY systemsoundMac.label             "Համակարգային ձայնը">
-<!ENTITY systemsoundMac.accesskey         "y">
-<!ENTITY systemsound.accesskey            "y">
+<!ENTITY systemsound.label                "Համակարգային ձայն՝ նոր նամակի դեպքում">
+<!ENTITY systemsoundMac.label             "Համակարգային ձայն">
+<!ENTITY systemsoundMac.accesskey         "մ">
+<!ENTITY systemsound.accesskey            "մ">
 <!ENTITY customsound.label                "Օգտ. հետևյալ ձայնային ֆայլը">
 <!ENTITY customsound.accesskey            "U">
 <!ENTITY browse.label                     "Ընտրել…">

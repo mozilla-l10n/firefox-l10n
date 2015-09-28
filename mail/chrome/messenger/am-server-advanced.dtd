@@ -4,8 +4,8 @@
 
 <!ENTITY serverAdvanced.label "Փոստարկղի ընդլայնված կարգավորումներ">
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
-<!ENTITY serverDirectory.label "IMAP սպասարկիչի տեղը.">
-<!ENTITY serverDirectory.accesskey "d">
+<!ENTITY serverDirectory.label "IMAP սպասարկիչի գրացուցակ.">
+<!ENTITY serverDirectory.accesskey "գ">
 <!ENTITY usingSubscription.label "Ցուցադրել միայն նշան. թղթապանակները.">
 <!ENTITY usingSubscription.accesskey "w">
 <!ENTITY dualUseFolders.label "Սպասարկիչը աջակցում է ենթաթղթապանակները և նամակները">
