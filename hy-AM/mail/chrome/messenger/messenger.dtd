@@ -128,8 +128,8 @@
 <!ENTITY redoDefaultCmd.accesskey "R">
 <!-- View Menu -->
 
-<!ENTITY menubarCmd.label "Ընտրացանկ վահանակը">
-<!ENTITY menubarCmd.accesskey "Ը">
+<!ENTITY menubarCmd.label "Ցանկագոտի">
+<!ENTITY menubarCmd.accesskey "Ց">
 <!ENTITY showMessengerToolbarCmd.label "Գործիքներ">
 <!ENTITY showMessengerToolbarCmd.accesskey "o">
 <!ENTITY customizeToolbar.label "Կարգավորել…">
@@ -367,8 +367,8 @@
 <!ENTITY moveMsgToMenu.accesskey "M">
 <!ENTITY moveCopyMsgRecentMenu.label "Վերջին">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "R">
-<!ENTITY copyMessageLocation.label "Պատճենել նամակի տեղը">
-<!ENTITY copyMessageLocation.accesskey "M">
+<!ENTITY copyMessageLocation.label "Պատճենել նամակի տեղադրություն">
+<!ENTITY copyMessageLocation.accesskey "ն">
 <!ENTITY copyMsgToMenu.label "Պատճենել՝">
 <!ENTITY copyMsgToMenu.accesskey "C">
 <!ENTITY moveToFolderAgain.label "Կրկնել">
@@ -586,7 +586,7 @@
 <!ENTITY appmenuNewMsgCmd.label "Նոր նամակ">
 <!ENTITY appmenuNewContactCmd.label "Հասցեագրքի Կոնտակտ...">
 <!ENTITY appmenuEditMenu.label "Խմբագրել">
-<!ENTITY appmenuToolbarLayout.label "Գործիքների տեղը...">
+<!ENTITY appmenuToolbarLayout.label "Գործիքագոտու դասավորությունը...">
 <!ENTITY appmenuSelectThread.label "Ընտրել շղթան">
 <!ENTITY appmenuSelectFlagged.label "Նշել աստղով նամակները">
 <!-- Tags Menu Popup -->

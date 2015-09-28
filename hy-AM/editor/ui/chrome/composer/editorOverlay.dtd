@@ -287,7 +287,7 @@
 <!ENTITY tableProperties.accesskey "o">
 <!-- Toolbar-only items -->
 
-<!ENTITY menuBar.tooltip "Ցանկ վահանակ">
+<!ENTITY menuBar.tooltip "Ցանկագոտի">
 <!ENTITY formatToolbar.tooltip "Գործիքաշերտի կարգ.">
 <!ENTITY cutToolbarCmd.tooltip "Կտրել">
 <!ENTITY copyToolbarCmd.tooltip "Պատճենել">

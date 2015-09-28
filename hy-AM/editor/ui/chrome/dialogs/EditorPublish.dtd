@@ -21,8 +21,8 @@
 <!ENTITY publishImgCheckbox.label     "Ներառել նկարներ և այլ ֆայլեր">
 <!ENTITY publishImgCheckbox.accesskey "o">
 <!ENTITY publishImgCheckbox.tooltip   "Հրապարակեք նկարներ և այլ ֆայլեր՝ հղված այս էջին">
-<!ENTITY sameLocationRadio.label      "Օգտագործել նույն տեղը որպես էջ">
-<!ENTITY sameLocationRadio.accesskey  "U">
+<!ENTITY sameLocationRadio.label      "Օգտագործել նույն տեղադրությունը որպես էջ">
+<!ENTITY sameLocationRadio.accesskey  "Օ">
 <!ENTITY sameLocationRadio.tooltip    "Հրապարակել ֆայլեր նույն տեղում, ինչում որ այս էջն է">
 <!ENTITY useSubdirRadio.label         "Օգտագործել այս կայքի ենթաթղթապանակը.">
 <!ENTITY useSubdirRadio.accesskey     "թ">

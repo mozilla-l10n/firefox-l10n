@@ -15,8 +15,8 @@
 
 <!ENTITY saveTo.label                 "Պահել ֆայլերը՝">
 <!ENTITY saveTo.accesskey             "S">
-<!ENTITY alwaysAsk.label              "Միշտ հարցնել ֆայլերի պահման տեղը">
-<!ENTITY alwaysAsk.accesskey          "A">
+<!ENTITY alwaysAsk.label              "Միշտ հարցնել ֆայլերը պահելու տեղադրությունը">
+<!ENTITY alwaysAsk.accesskey          "Մ">
 <!ENTITY chooseFolderWin.label        "Ընտրել…">
 <!ENTITY chooseFolderWin.accesskey    "B">
 <!ENTITY chooseFolderMac.label        "Ընտրել…">

@@ -108,12 +108,12 @@
 <!ENTITY viewMenu.accesskey "Տ">
 <!ENTITY viewToolbarsMenuNew.label "Գործիքաշերտեր">
 <!ENTITY viewToolbarsMenuNew.accesskey "T">
-<!ENTITY menubarCmd.label "Ընտրացանկ վահանակը">
-<!ENTITY menubarCmd.accesskey "Ը">
+<!ENTITY menubarCmd.label "Ցանկագոտի">
+<!ENTITY menubarCmd.accesskey "Ց">
 <!ENTITY showCompositionToolbarCmd.label "Ստեղծագործության գործիքաշերտը">
 <!ENTITY showCompositionToolbarCmd.accesskey "o">
-<!ENTITY showFormattingBarCmd.label "Կարգավորման վահանակ">
-<!ENTITY showFormattingBarCmd.accesskey "F">
+<!ENTITY showFormattingBarCmd.label "Ձևաչափման վահանակ">
+<!ENTITY showFormattingBarCmd.accesskey "Ձ">
 <!ENTITY showTaskbarCmd.label "Վիճակի տողը">
 <!ENTITY showTaskbarCmd.accesskey "S">
 <!ENTITY customizeToolbar.label "Կարգավորել…">

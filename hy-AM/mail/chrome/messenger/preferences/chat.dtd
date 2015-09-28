@@ -23,7 +23,7 @@ sentence. -->
 <!ENTITY  sendTyping.label              "Ուղարկել մուտքագրվող ծանուցումները զրուցաշարով">
 <!ENTITY  sendTyping.accesskey          "մ">
 
-<!ENTITY  chatNotifications.label             "Երբ նամակները ասնում են.">
+<!ENTITY  chatNotifications.label             "Երբ ձեզ հասցեագրված նամակները հասնում են.">
 <!ENTITY  desktopChatNotifications.label      "Ցուցադրել ծանուցումները.">
 <!ENTITY  desktopChatNotifications.accesskey  "ո">
 <!ENTITY  completeNotification.label          "ուղարկողի անունով և նախադիտումով">
@@ -33,7 +33,7 @@ sentence. -->
 <!ENTITY  chatSound.label                     "Նվագարկել ձայն">
 <!ENTITY  play.label                          "Նվագարկել">
 <!ENTITY  play.accesskey                      "Ն">
-<!ENTITY  systemSound.label                   "Համակարգային ձայնը՝ նոր նամակի ժամանակ">
+<!ENTITY  systemSound.label                   "Համակարգային ձայն՝ նոր նամակի դեպքում">
 <!ENTITY  systemSound.accesskey               "Հ">
 <!ENTITY  customsound.label                   "Օգտ. հետևյալ ձայնային ֆայլը">
 <!ENTITY  customsound.accesskey               "U">
