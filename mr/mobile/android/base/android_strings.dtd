@@ -11,7 +11,7 @@
 <!ENTITY  onboard_start_subtext3 "आपला मोबाईल वेब ब्राउझिंग अनुभव खऱ्या अर्थाने स्वतःचा बनवा.">
 <!ENTITY  onboard_start_button_account "&brandShortName; मध्ये साईन इन करा">
 <!ENTITY  onboard_start_button_browser "ब्राउझिंगला सुरुवात करा">
-
+<!ENTITY firstrun_button_next "पुढे">
 
 
 <!ENTITY firstrun_import_message "&brandShortName; मध्ये आपले स्वागत आहे">
