@@ -1,22 +1,27 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- The page shown when not logged in... -->
+
 <!ENTITY setupButton.label          "&syncBrand.fullName.label; સુયોજિત કરો">
 <!ENTITY setupButton.accesskey      "S">
 <!ENTITY weaveDesc.label            "&syncBrand.fullName.label; તમને તમારા બધા ઉપકરણોમાં તમારા ઇતિહાસ, બુકમાર્કો, પાસવર્ડો અને ખુલ્લા ટૅબમાં પ્રવેશ કરવા દે છે.">
-
+<!-- The page shown when logged in... -->
 <!-- Login error feedback -->
+
+
 <!ENTITY updatePass.label             "સુધારો">
 <!ENTITY resetPass.label              "પુન:સુયોજિત કરો">
-
 <!-- Manage Account -->
-<!ENTITY manageAccount.label          "ખાતાને સંચાલિત કરો">
-<!ENTITY manageAccount.accesskey      "A">
-<!ENTITY viewQuota.label              "ક્વોટાને દર્શાવો">
 
-<!-- Sync Settings -->
+<!ENTITY manageAccount.label          "ખાતાને સંચાલિત કરો">
+<!ENTITY manageAccount.accesskey      "n">
+<!ENTITY changePassword2.label        "પાસવર્ડ બદલો…">
+<!ENTITY myRecoveryKey.label          "મારી પુનઃપ્રાપ્તિ ચાવી">
+<!ENTITY resetSync2.label             "સીંક પુનઃસુયોજીત કરો…">
+
+<!ENTITY pairDevice.label             "ઉપકરણ જોડો">
+
 <!ENTITY syncMy.label               "મને સીંક કરો">
 <!ENTITY engine.bookmarks.label     "બુકમાર્કો">
 <!ENTITY engine.bookmarks.accesskey "m">
@@ -27,37 +32,63 @@
 <!ENTITY engine.passwords.label     "પાસવર્ડો">
 <!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "પસંદગીઓ">
-<!ENTITY engine.prefs.accesskey     "S">
-
-
-<!-- Footer stuff -->
-<!ENTITY prefs.tosLink.label        "સેવાની મર્યાદાઓ">
-<!ENTITY prefs.ppLink.label         "ખાનગી પોલિસી">
-
-<!ENTITY changePassword2.label        "પાસવર્ડ બદલો…">
+<!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "ઍડ-ઓન">
 <!ENTITY engine.addons.accesskey    "A">
-<!ENTITY myRecoveryKey.label          "મારી પુનઃપ્રાપ્તિ ચાવી">
-<!ENTITY pairDevice.label             "ઉપકરણ જોડો">
-<!ENTITY resetSync2.label             "સીંક પુનઃસુયોજીત કરો…">
-<!ENTITY unlinkDevice.label           "આ ઉપકરણની કડી તોડો">
+<!-- Device Settings -->
 
-<!ENTITY syncDeviceName.accesskey   "c">
 <!ENTITY syncDeviceName.label       "ઉપકરણ નામ:">
+<!ENTITY syncDeviceName.accesskey   "c">
 
-<!ENTITY determiningAcctStatus.label     "તમારી ખાતા સ્થિતિને નક્કી કરી રહ્યા છે…">
-<!ENTITY disconnect.label            "જોડાણ તૂટી ગયુ…">
-<!ENTITY forget.label                "આ ઇમેઇલને ભૂલી જાઓ">
+
+
+
+<!ENTITY unlinkDevice.label           "આ ઉપકરણની કડી તોડો">
+<!-- Footer stuff -->
+
+<!ENTITY prefs.tosLink.label        "સેવાની મર્યાદાઓ">
+<!ENTITY prefs.ppLink.label         "ખાનગી પોલિસી">
+<!-- Firefox Accounts stuff -->
+
 <!ENTITY fxaPrivacyNotice.link.label "ખાનગી સૂચના">
-<!ENTITY manage.label                "સંચાલિત કરો">
+<!ENTITY determiningAcctStatus.label     "તમારી ખાતા સ્થિતિને નક્કી કરી રહ્યા છે…">
+<!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
+signedInUnverified.aftername.label): these two string are used respectively
+before and after the account email address. Localizers can use one of them, or
+both, to better adapt this sentence to their language.
+-->
+
+<!ENTITY signedInUnverified.beforename.label "">
+<!ENTITY signedInUnverified.aftername.label "ચકાસેલ નથી.">
+<!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
+signedInLoginFailure.aftername.label): these two string are used respectively
+before and after the account email address. Localizers can use one of them, or
+both, to better adapt this sentence to their language.
+-->
+
+<!ENTITY signedInLoginFailure.beforename.label "મહેરબાની કરીને ફરી જોડાણ માટે પ્રવેશો">
+<!ENTITY signedInLoginFailure.aftername.label "">
+
 <!ENTITY notSignedIn.label           "તમે પ્રવેશેલ નથી.">
 <!ENTITY signIn.label                "પ્રવેશો">
-<!ENTITY signedInLoginFailure.aftername.label "">
-<!ENTITY signedInLoginFailure.beforename.label "મહેરબાની કરીને ફરી જોડાણ માટે પ્રવેશો">
-<!ENTITY signedInUnverified.aftername.label "ચકાસેલ નથી.">
-<!ENTITY signedInUnverified.beforename.label "">
+
+
+<!ENTITY disconnect.label            "જોડાણ તૂટી ગયુ…">
 <!ENTITY verify.label                "ઇમેઇલને ચકાસો">
-<!ENTITY welcome.createAccount.label "ખાતાને બનાવો">
+<!ENTITY forget.label                "આ ઇમેઇલને ભૂલી જાઓ">
+
 <!ENTITY welcome.description "ટૅબ, બુકમાર્ક, પાસવર્ડ અને વધારેને વાપરો ગમે ત્યાં તમે &brandShortName; વાપરો.">
 <!ENTITY welcome.signIn.label "પ્રવેશો">
+<!ENTITY welcome.createAccount.label "ખાતાને બનાવો">
+
 <!ENTITY welcome.useOldSync.label "શું તમે સુમેળની જૂની આવૃત્તિને વાપરી રહ્યા છે?">
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+
+

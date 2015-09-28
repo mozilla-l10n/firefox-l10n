@@ -2,17 +2,29 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  general.label                 "સામાન્ય">
+
 <!ENTITY  warnAddonInstall.label        "જ્યારે સાઈટો વધારાનું સ્થાપિત કરવાનો પ્રયાસ કરે ત્યારે મને ચેતવો">
 <!ENTITY  warnAddonInstall.accesskey    "W">
+<!-- LOCALIZATION NOTE (blockWebForgeries.label, blockAttackSites.label):
+  The methods by which forged (phished) and attack sites will be detected by
+  phishing providers will vary from human review to machine-based heuristics to a
+  combination of both, so it's important that these strings and
+  useDownloadedList.label convey the meaning "reported" (and not something like
+  "known").
+-->
+
+<!ENTITY  blockAttackSites.label     "અહેવાલિત હુમલા સાઈટોને અટકાવો">
+<!ENTITY  blockAttackSites.accesskey "k">
+
+<!ENTITY  blockWebForgeries.label     "અહેવાલિત વેબ ગુનાખોરોને અટકાવો">
+<!ENTITY  blockWebForgeries.accesskey "B">
 
 <!ENTITY  addonExceptions.label         "અપવાદો...">
 <!ENTITY  addonExceptions.accesskey     "E">
 
 
-<!ENTITY  passwords.label               "પાસવર્ડો">
 
-<!ENTITY  rememberPasswords.label       "સાઈટો માટે પાસવર્ડો યાદ રાખો">
-<!ENTITY  rememberPasswords.accesskey   "R">
 <!ENTITY  passwordExceptions.label      "અપવાદો...">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
@@ -21,13 +33,4 @@
 <!ENTITY  changeMasterPassword.label     "મુખ્ય પાસવર્ડ બદલો...">
 <!ENTITY  changeMasterPassword.accesskey "M">
 
-<!ENTITY  savedPasswords.label            "સંગ્રહાયેલ પાસવર્ડો...">
-<!ENTITY  savedPasswords.accesskey        "P">
 
-<!ENTITY  blockAttackSites.label     "અહેવાલિત હુમલા સાઈટોને અટકાવો">
-<!ENTITY  blockAttackSites.accesskey "k">
-
-<!ENTITY  blockWebForgeries.label     "અહેવાલિત વેબ ગુનાખોરોને અટકાવો">
-<!ENTITY  blockWebForgeries.accesskey "B">
-
-<!ENTITY  general.label                 "સામાન્ય">

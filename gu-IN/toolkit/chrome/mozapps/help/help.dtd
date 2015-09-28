@@ -24,26 +24,34 @@
 <!ENTITY homeButton.tooltip             "મદદ શરૂઆત પાનાં પર જાવ">
 <!ENTITY printButton.label              "છાપો">
 <!ENTITY printButton.tooltip            "આ પાનું છાપો">
-<!ENTITY fullZoomReduceBtn.label 	"લખાણ માપ ઘટાડો">
-<!ENTITY fullZoomReduceBtn.accesskey    "O">
-<!ENTITY fullZoomEnlargeBtn.label 	"લખાણ માપ વધારો">
-<!ENTITY fullZoomEnlargeBtn.accesskey   "I">
 <!ENTITY closeWindow.commandkey         "W">
 
-<!ENTITY toctab.label       	  	"સમાવિષ્ટો">
+<!ENTITY search.emptytext               "શોધો">
+<!ENTITY searchHeader.label             "શોધ પરિણામો">
+<!ENTITY toctab.label                   "સમાવિષ્ટો">
 <!ENTITY toctab.accesskey               "C">
-<!ENTITY helpSearch.commandkey          "k">
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
 
-<!ENTITY fullZoomReduceCmd.commandkey	"-">
+
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
-<!ENTITY fullZoomEnlargeCmd.commandkey	"+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
+<!ENTITY helpSearch.commandkey          "k">
+
 <!ENTITY zLevel.label                   "હંમેશા ઉપર રાખો">
 <!ENTITY zLevel.accesskey               "T">
 
-<!ENTITY search.emptytext               "શોધો">
-<!ENTITY searchHeader.label             "શોધ પરિણામો">
+<!ENTITY fullZoomReduceBtn.label        "લખાણ માપ ઘટાડો">
+<!ENTITY fullZoomReduceBtn.accesskey    "O">
+<!ENTITY fullZoomEnlargeBtn.label       "લખાણ માપ વધારો">
+<!ENTITY fullZoomEnlargeBtn.accesskey   "I">

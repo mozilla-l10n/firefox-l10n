@@ -22,18 +22,16 @@
 <!ENTITY codeEval.accesskey "o">
 <!ENTITY evaluate.label     "આંકો">
 <!ENTITY evaluate.accesskey "v">
+<!ENTITY filter2.label      "ફિલ્ટર:">
+<!ENTITY filter2.accesskey  "F">
 
 <!ENTITY copyCmd.label       "નકલ કરો">  
 <!ENTITY copyCmd.accesskey   "C"> 
 <!ENTITY copyCmd.commandkey  "C"> 
 <!ENTITY sortFirst.label     "પ્રથમ > છેલ્લું ક્રમમાં ગોઠવવાનો ક્રમ">
-<!ENTITY sortFirst.accesskey "f">
+<!ENTITY sortFirst.accesskey "F">
 <!ENTITY sortLast.label      "છેલ્લું > પ્રથમ ક્રમમાં ગોઠવવાનો ક્રમ">
-<!ENTITY sortLast.accesskey  "l">
+<!ENTITY sortLast.accesskey  "L">
 <!ENTITY closeCmd.commandkey "w">  
 <!ENTITY focus1.commandkey   "l">  
 <!ENTITY focus2.commandkey   "d">  
-
-<!ENTITY filter2.label      "ફિલ્ટર:">
-<!ENTITY filter2.accesskey  "F">
-
