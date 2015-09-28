@@ -215,7 +215,7 @@
 <!ENTITY addressButton.tooltip "Հասցեատերին ընտրել Հասցեագրքից">
 <!ENTITY attachButton.tooltip "Ներառել կցորդ">
 <!ENTITY spellingButton.tooltip "Ստուգել ընտրվածի ուղղագրությունը">
-
+<!ENTITY statusLanguageText.tooltip "Ուղղագրությունը ստուգելու լեզուն">
 <!ENTITY saveButton.tooltip "Պահպանել նամակը">
 <!ENTITY cutButton.tooltip              "Կտրել">
 <!ENTITY copyButton.tooltip             "Պատճենել">
