@@ -5,7 +5,7 @@
 <!ENTITY itemJunk.label          "Čapor">
 <!ENTITY itemPhishing.label      "E-mejlowe wobšudnistwo">
 <!ENTITY itemPasswords.label     "Hesła">
-
+<!ENTITY itemAntiVirus.label     "Antiwirusowy program">
 <!-- Junk Mail Controls -->
 
 <!ENTITY junkMail.intro "Nastajće swoje standardne nastajenja za čaporowu e-mejl. Nastajenja čaporoweje e-mejle specifiske za konto dadźa so w Kontowych nastajenjach konfigurować.">
@@ -42,5 +42,7 @@
 <!ENTITY savedPasswords.accesskey       "S">
 <!-- Anti Virus -->
 
-
+<!ENTITY antiVirus.intro      "&brandShortName; móže antiwirusowej softwarje wosnadnić, dochadźace e-mejlowe powěsće za wirusami analyzować, prjedy hač so lokalnje składuja.">
+<!ENTITY antiVirus.label      "Antiwirusowym programam dowolić, jednotliwe dochadźace powěsće pod karantenu stajić">
+<!ENTITY antiVirus.accesskey  "A">
 
