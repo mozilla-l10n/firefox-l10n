@@ -13,6 +13,7 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "Սա Գաղտնի դիտարկում չէ">
 
+<!ENTITY privatebrowsingpage.description.private4 "&brandShortName;-ը կկանխի հետագծումը և չի հիշի պատմությունը, բայց ներբեռնած ֆայլերը և նոր էջանիշերը կպահպանվեն Ձեր սարքում:">
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
