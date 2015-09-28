@@ -41,7 +41,7 @@
 <!ENTITY fromColumn.label "Ումից">
 <!ENTITY recipientColumn.label "Ստացողը">
 <!ENTITY correspondentColumn.label "Բաժանորդ">
-<!ENTITY subjectColumn.label "Վերնագիրը">
+<!ENTITY subjectColumn.label "Վերնագիր">
 <!ENTITY dateColumn.label "Ամսաթիվ">
 <!ENTITY priorityColumn.label "Առաջնահերթ-ը">
 <!ENTITY tagsColumn.label "Պիտակներ">

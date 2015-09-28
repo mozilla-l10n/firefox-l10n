@@ -25,14 +25,14 @@
 
 <!ENTITY compositionToolbarCmd.label "Ստեղծագործության գործիքաշերտը">
 <!ENTITY compositionToolbarCmd.accesskey "C">
-<!ENTITY formattingToolbarCmd.label "Գործիքաշերտի տեսակը">
-<!ENTITY formattingToolbarCmd.accesskey "F">
+<!ENTITY formattingToolbarCmd.label "Գործիքագոտու ձևաչափում">
+<!ENTITY formattingToolbarCmd.accesskey "Գ">
 <!ENTITY editmodeToolbarCmd.label "Խմբագրման գործիքաշերտը">
 <!ENTITY editmodeToolbarCmd.accesskey "E">
 <!-- Format menu items -->
 
-<!ENTITY formatMenu.label "Տեսակը">
-<!ENTITY formatMenu.accesskey "o">
+<!ENTITY formatMenu.label "Ձևաչափում">
+<!ENTITY formatMenu.accesskey "և">
 <!ENTITY grid.label "Տեսադրման ցանցը">
 <!ENTITY grid.accesskey "t">
 <!ENTITY pageProperties.label "Էջի անունը և հատկությունները...">

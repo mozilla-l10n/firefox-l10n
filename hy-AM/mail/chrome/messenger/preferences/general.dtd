@@ -5,7 +5,7 @@
 <!ENTITY messengerStartPage.label         "&brandShortName;-ի մեկնարկային էջը">
 <!ENTITY enableStartPage.label            "&brandShortName;-ը բացելիս ցուցադրել Մեկնարկային էջը">
 <!ENTITY enableStartPage.accesskey        "W">
-<!ENTITY location.label                   "Հասցեն.">
+<!ENTITY location.label                   "Տեղադրություն.">
 <!ENTITY location1.accesskey               "o">
 <!ENTITY useDefault.label                 "Վերականգնել հիմնականը">
 <!ENTITY useDefault.accesskey             "R">
@@ -15,7 +15,7 @@
 <!ENTITY dockOptions.accesskey            "կ">
 
 <!ENTITY newMessagesArrive.label          "Նոր նամակ ստանալիս.">
-<!ENTITY playSound.label                  "Խաղարկել ձայն">
+<!ENTITY playSound.label                  "Նվագարկել ձայն">
 <!ENTITY playSound1.accesskey              "d">
 <!ENTITY showAnimatedAlert.label          "Ցուցադրել ազդի ժամանակ">
 <!ENTITY showAnimatedAlert.accesskey      "Ց">
@@ -25,8 +25,8 @@
 <!ENTITY showTrayIcon.label               "Ցուցադրել էկրանի ներքևի պատկերը">
 <!ENTITY showTrayIcon.accesskey           "t">
 
-<!ENTITY play.label                       "Խաղարկել">
-<!ENTITY play.accesskey                   "P">
+<!ENTITY play.label                       "Նվագարկել">
+<!ENTITY play.accesskey                   "Ն">
 <!ENTITY systemsound.label                "Համակարգային ձայնը՝ նոր նամակի դեպքում">
 <!ENTITY systemsoundMac.label             "Համակարգային ձայնը">
 <!ENTITY systemsoundMac.accesskey         "y">

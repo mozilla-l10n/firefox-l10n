@@ -30,9 +30,9 @@ sentence. -->
 <!ENTITY  buddyInfoOnly.label                 "միայն ուղարկողի անունով">
 <!ENTITY  dummyNotification.label             "առանց որևէ տեղեկության">
 <!ENTITY  chatSound.accesskey                 "ա">
-<!ENTITY  chatSound.label                     "Խաղարկել ձայն">
-<!ENTITY  play.label                          "Խաղարկել">
-<!ENTITY  play.accesskey                      "P">
+<!ENTITY  chatSound.label                     "Նվագարկել ձայն">
+<!ENTITY  play.label                          "Նվագարկել">
+<!ENTITY  play.accesskey                      "Ն">
 <!ENTITY  systemSound.label                   "Համակարգային ձայնը՝ նոր նամակի ժամանակ">
 <!ENTITY  systemSound.accesskey               "Հ">
 <!ENTITY  customsound.label                   "Օգտ. հետևյալ ձայնային ֆայլը">

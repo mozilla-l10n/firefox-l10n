@@ -55,12 +55,12 @@
 <!-- Font Face SubMenu -->
 
 <!ENTITY FontFaceSelect.tooltip "Ընտրեք տառատեսակը">
-<!ENTITY fontfaceMenu.label "Տառատեսակը">
+<!ENTITY fontfaceMenu.label "Տառատեսակ">
 <!ENTITY fontfaceMenu.accesskey "F">
-<!ENTITY fontVarWidth.label "Փոփոխելի լայնքով">
-<!ENTITY fontVarWidth.accesskey "V">
-<!ENTITY fontFixedWidth.label "Ամրագրված լայնքով">
-<!ENTITY fontFixedWidth.accesskey "x">
+<!ENTITY fontVarWidth.label "Փոփոխական լայնություն">
+<!ENTITY fontVarWidth.accesskey "Փ">
+<!ENTITY fontFixedWidth.label "Ամրագրված լայնություն">
+<!ENTITY fontFixedWidth.accesskey "ա">
 <!ENTITY fontFixedWidth.key "T">
 <!ENTITY fontHelvetica.label "Helvetica, Arial">
 <!ENTITY fontHelvetica.accesskey "l">
@@ -72,7 +72,7 @@
 
 <!ENTITY FontSizeSelect.tooltip "Ընտրեք տառի չափը">
 <!ENTITY decreaseFontSize.label "Փոքր">
-<!ENTITY decreaseFontSize.accesskey "r">
+<!ENTITY decreaseFontSize.accesskey "ր">
 <!ENTITY decrementFontSize.key "&lt;">
 <!-- < is above this key on many keyboards -->
 <!ENTITY decrementFontSize.key2 ","> 
@@ -85,11 +85,11 @@
 <!ENTITY fontSizeMenu.label "Չափը">
 <!ENTITY fontSizeMenu.accesskey "z">
 <!ENTITY size-xx-smallCmd.label "xx-փոքր">
-<!ENTITY size-xx-smallCmd.accesskey "a">
+<!ENTITY size-xx-smallCmd.accesskey "ր">
 <!ENTITY size-x-smallCmd.label "x-փոքր">
-<!ENTITY size-x-smallCmd.accesskey "m">
+<!ENTITY size-x-smallCmd.accesskey "ո">
 <!ENTITY size-smallCmd.label "փոքր">
-<!ENTITY size-smallCmd.accesskey "s">
+<!ENTITY size-smallCmd.accesskey "փ">
 <!ENTITY size-mediumCmd.label "միջին">
 <!ENTITY size-mediumCmd.accesskey "d">
 <!ENTITY size-largeCmd.label "մեծ">
@@ -147,10 +147,10 @@
 <!ENTITY formatRemoveNamedAnchors.accesskey "R">
 <!ENTITY formatRemoveNamedAnchors2.key "R">
 
-<!ENTITY paragraphMenu.label "Պարագրաֆ">
-<!ENTITY paragraphMenu.accesskey "P">
-<!ENTITY paragraphParagraphCmd.label "Պարագրաֆ">  
-<!ENTITY paragraphParagraphCmd.accesskey "P">
+<!ENTITY paragraphMenu.label "Պարբերություն">
+<!ENTITY paragraphMenu.accesskey "Պ">
+<!ENTITY paragraphParagraphCmd.label "Պարբերություն">  
+<!ENTITY paragraphParagraphCmd.accesskey "Պ">
 <!ENTITY heading1Cmd.label "Վերնագիր 1">
 <!ENTITY heading1Cmd.accesskey "1">
 <!ENTITY heading2Cmd.label "Վերնագիր 2">
@@ -163,10 +163,10 @@
 <!ENTITY heading5Cmd.accesskey "5">
 <!ENTITY heading6Cmd.label "Վերնագիր 6">
 <!ENTITY heading6Cmd.accesskey "6">
-<!ENTITY paragraphAddressCmd.label "Հասցեն">
-<!ENTITY paragraphAddressCmd.accesskey "A">
+<!ENTITY paragraphAddressCmd.label "Հասցե">
+<!ENTITY paragraphAddressCmd.accesskey "Հ">
 <!ENTITY paragraphPreformatCmd.label "Նախաձևավորմամբ">
-<!ENTITY paragraphPreformatCmd.accesskey "f">
+<!ENTITY paragraphPreformatCmd.accesskey "ձ">
 <!-- List menu items -->
 
 <!ENTITY formatlistMenu.label "Ցանկ">
@@ -184,10 +184,10 @@
 <!ENTITY listPropsCmd.label "Ցանկի հատկությունները...">
 <!ENTITY listPropsCmd.accesskey "L">
 
-<!ENTITY ParagraphSelect.tooltip "Ընտրեք պարագրաֆի տեսակը">
+<!ENTITY ParagraphSelect.tooltip "Ընտրեք պարբերության ձևաչափը">
 <!-- Shared in Paragraph, and Toolbar menulist -->
-<!ENTITY bodyTextCmd.label "Բովամդակությունը">
-<!ENTITY bodyTextCmd.accesskey "T">
+<!ENTITY bodyTextCmd.label "Հիմնական գրվածք">
+<!ENTITY bodyTextCmd.accesskey "գ">
 <!-- isn't used in menu now, but may be added in future -->
 <!ENTITY advancedPropertiesCmd.label "Ընդլայնված հատկություններ">
 <!ENTITY advancedPropertiesCmd.accesskey "v">
@@ -216,8 +216,8 @@
 <!ENTITY increaseIndent.label "Սահմանը մեծացնել">
 <!ENTITY increaseIndent.accesskey "I">
 <!ENTITY increaseIndent.key "]">
-<!ENTITY decreaseIndent.label "Սահմանը փոքրացնել">
-<!ENTITY decreaseIndent.accesskey "D">
+<!ENTITY decreaseIndent.label "Փոքրացնել նահանջը">
+<!ENTITY decreaseIndent.accesskey "Փ">
 <!ENTITY decreaseIndent.key "[">
 
 <!ENTITY colorsAndBackground.label "Էջի գույները և խորապատկերը...">
@@ -314,15 +314,15 @@
 <!ENTITY HighlightColorButton.tooltip "Ընտրել գունանշման գույնը տեքստի համար">
 <!-- Editor toolbar -->
 
-<!ENTITY decreaseFontSizeToolbarCmd.tooltip "Տառատեսակը փոքր">
-<!ENTITY increaseFontSizeToolbarCmd.tooltip "Մեծ չափի">
-<!ENTITY boldToolbarCmd.tooltip "Հաստ">
+<!ENTITY decreaseFontSizeToolbarCmd.tooltip "Տառատեսակի փոքր չափ">
+<!ENTITY increaseFontSizeToolbarCmd.tooltip "Տառատեսակի մեծ չափ">
+<!ENTITY boldToolbarCmd.tooltip "Թավ">
 <!ENTITY italicToolbarCmd.tooltip "Շեղ">
 <!ENTITY underlineToolbarCmd.tooltip "Ընդգծված">
 <!ENTITY bulletListToolbarCmd.tooltip "Կիրառել կամ հեռացնել կետավորված ցանկը">
 <!ENTITY numberListToolbarCmd.tooltip "Կիրառել կամ հեռացնել կետավորված ցանկը">
-<!ENTITY outdentToolbarCmd.tooltip "Դուրս եկած տեքստ (շարժել ձախ)">
-<!ENTITY indentToolbarCmd.tooltip "Ներդրված տեքստ (շարժել աջ)">
+<!ENTITY outdentToolbarCmd.tooltip "Ելուստ տեքստ (շարժել ձախ)">
+<!ENTITY indentToolbarCmd.tooltip "Նահանջ տեքստ (շարժել աջ)">
 <!ENTITY AlignPopupButton.tooltip "Ընտրել տեքստի հավասարեցումը">
 <!ENTITY InsertPopupButton.tooltip "Ներմուծել հղում, խարիսխ, նկար, հորիզոնական գիծ կամ աղյուսակ">
 <!ENTITY alignLeftButton.tooltip "Հավասարեցնել տեքստը ձախ լուսանցքին">

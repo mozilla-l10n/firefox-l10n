@@ -223,13 +223,13 @@
      subject for the string.
      -->
 
-<!ENTITY quickFilterBar.textFilter.subject.label "Վերնագիրը">
+<!ENTITY quickFilterBar.textFilter.subject.label "Վերնագիր">
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.body.label):
      The button label that toggles whether the text filter searches the message
      body for the string.
      -->
 
-<!ENTITY quickFilterBar.textFilter.body.label "Բովամդակությունը">
+<!ENTITY quickFilterBar.textFilter.body.label "Գրվածք">
 <!-- LOCALIZATION NOTE (quickFilterBar.glodaUpsell.continueSearch):
      The first line of the panel popup that tells the user we found no matches
      but we can convert to a global search for them.

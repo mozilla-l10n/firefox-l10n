@@ -9,9 +9,9 @@
 <!ENTITY style.label                      "Ոճը.">
 <!ENTITY style.accesskey                  "y">
 <!ENTITY regularStyle.label               "Կանոնավոր">
-<!ENTITY bold.label                       "Հաստ">
+<!ENTITY bold.label                       "Թավ">
 <!ENTITY italic.label                     "Շեղ">
-<!ENTITY boldItalic.label                 "Հաստ շեղ">
+<!ENTITY boldItalic.label                 "Թավ շեղ">
 <!ENTITY size.label                       "Չափը.">
 <!ENTITY size.accesskey                   "z">
 <!ENTITY regularSize.label                "Կանոնավոր">
@@ -37,8 +37,8 @@
 <!-- Fonts and Colors -->
 
 <!ENTITY fontsAndColors1.label   "Տառատեսակները և Գույները">
-<!ENTITY defaultFont.label       "Հիմ. տառատեսակը.">
-<!ENTITY defaultFont.accesskey   "D">
+<!ENTITY defaultFont.label       "Հիմ. տառատեսակ.">
+<!ENTITY defaultFont.accesskey   "Հ">
 <!ENTITY defaultSize.label       "Չափը.">
 <!ENTITY defaultSize.accesskey   "S">
 <!ENTITY fontOptions.accesskey   "Ը">

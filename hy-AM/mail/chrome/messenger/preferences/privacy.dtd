@@ -14,7 +14,7 @@
 
 <!ENTITY captionWebContent.label "Վեբ բովանդակություն">
 
-<!ENTITY keepHistory.label "Հիշել այցելած կայքերը և հղումները">
+<!ENTITY keepHistory.label "Հիշել իմ այցելած կայքերը և հղումները">
 <!ENTITY keepHistory.accesskey "Հ">
 <!ENTITY acceptCookies.label "Ընդունել cookie-ներ հետևյալ կայքերից՝">
 <!ENTITY acceptCookies.accesskey "Ը">

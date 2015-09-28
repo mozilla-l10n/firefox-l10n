@@ -18,8 +18,8 @@
 <!ENTITY SecondEmail.accesskey                 "l">
 <!ENTITY Department.label                      "Բաժինը">
 <!ENTITY Department.accesskey                  "r">
-<!ENTITY JobTitle.label                        "Վերնագիրը">
-<!ENTITY JobTitle.accesskey                    "T">
+<!ENTITY JobTitle.label                        "Անվանում">
+<!ENTITY JobTitle.accesskey                    "Ա">
 <!ENTITY CellularNumber.label                  "Բջջային">
 <!ENTITY CellularNumber.accesskey              "M">
 <!ENTITY PagerNumber.label                     "Փեյջեր">

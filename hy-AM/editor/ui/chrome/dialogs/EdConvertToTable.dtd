@@ -5,7 +5,7 @@
 
 
 <!ENTITY windowTitle.label "Փոխարկել աղյուսակի">
-<!ENTITY instructions1.label   "Սեղմիչը ստեղծում է աղյուսակի նոր գիծ՝ յուրաքանչյուր պարագրաֆի համար։">
+<!ENTITY instructions1.label   "Ստեղծիչը ստեղծում է աղյուսակի նոր գիծ՝ յուրաքանչյուր պարբերության համար։">
 <!ENTITY instructions2.label   "Ընտրեք այն նշանը որը հանդիսանում է բաժանիչ սյունների միջև.">
 <!ENTITY commaRadio.label      "Ստորակետ">
 <!ENTITY spaceRadio.label      "Բացատ">

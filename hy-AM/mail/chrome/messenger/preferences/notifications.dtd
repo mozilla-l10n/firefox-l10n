@@ -8,8 +8,8 @@
 <!ENTITY alertCustomization.intro         "Ընտրել ցուցադրվելիք դաշտերը նոր նամակի դեպքում.">
 <!ENTITY previewText.label                "Նախն. դիտման տեքստը">
 <!ENTITY previewText.accesskey            "M">
-<!ENTITY subject.label                    "Վերնագիրը">
-<!ENTITY subject.accesskey                "S">
+<!ENTITY subject.label                    "Վերնագիր">
+<!ENTITY subject.accesskey                "Վ">
 <!ENTITY sender.label                     "Ուղարկողը">
 <!ENTITY sender.accesskey                 "e">
 <!-- LOCALIZATION NOTE: totalOpenTimeBefore.label is displayed first, then

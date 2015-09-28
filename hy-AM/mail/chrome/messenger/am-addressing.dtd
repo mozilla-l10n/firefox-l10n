@@ -5,7 +5,7 @@
 
 
 <!ENTITY addressing.label          "Նոր նամակ &amp; Հասցեավորում">
-<!ENTITY addressingGroupTitle.label "Հասցեն">
+<!ENTITY addressingGroupTitle.label "Հասցեագրում">
 <!ENTITY addressingText.label      "Հասցեները նայելիս.">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
 <!ENTITY useGlobal.label           "Այս փոստարկղի համար օգտ. հիմնական LDAP սպասարկիչը">

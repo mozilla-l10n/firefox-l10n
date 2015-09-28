@@ -6,8 +6,8 @@
 <!ENTITY windowTitle.label "Էջի հատկություններ">
 <!ENTITY location.label "Տեղը.">
 <!ENTITY lastModified.label "Վերջին փոփոխումը.">
-<!ENTITY titleInput.label "Վերնագիրը.">
-<!ENTITY titleInput.accessKey "Վ">
+<!ENTITY titleInput.label "Անվանում.">
+<!ENTITY titleInput.accessKey "Ա">
 <!ENTITY authorInput.label "Հեղինակ.">
 <!ENTITY authorInput.accessKey "Հ">
 <!ENTITY descriptionInput.label "Նկարագրությունը.">

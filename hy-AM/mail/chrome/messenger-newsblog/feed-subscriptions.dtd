@@ -6,8 +6,8 @@
 <!ENTITY feedSubscriptions.label     "Բաժանորդագրություններ">
 <!ENTITY learnMore.label             "Մանրամասներ Շղթաների մասին">
 
-<!ENTITY feedTitle.label             "Վերնագիրը.">
-<!ENTITY feedTitle.accesskey         "Վ">
+<!ENTITY feedTitle.label             "Անվանում.">
+<!ENTITY feedTitle.accesskey         "Ա">
 
 <!ENTITY feedLocation.label          "Շղթայի վեբ հղումը.">
 <!ENTITY feedLocation.accesskey      "Շ">

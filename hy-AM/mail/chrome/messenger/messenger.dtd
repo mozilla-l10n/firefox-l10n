@@ -186,8 +186,8 @@
 <!ENTITY sortByTagsCmd.accesskey "g">
 <!ENTITY sortByJunkStatusCmd.label "Թափոնի վիճակ">
 <!ENTITY sortByJunkStatusCmd.accesskey "Թ">
-<!ENTITY sortBySubjectCmd.label "Վերնագիրը">
-<!ENTITY sortBySubjectCmd.accesskey "b">
+<!ENTITY sortBySubjectCmd.label "Վերնագիր">
+<!ENTITY sortBySubjectCmd.accesskey "ն">
 <!ENTITY sortByFromCmd.label "Ումից">
 <!ENTITY sortByFromCmd.accesskey "F">
 <!ENTITY sortByRecipientCmd.label "Ստացողը">
@@ -445,8 +445,8 @@
 
 <!ENTITY tasksMenu.label "Գործիքներ">
 <!ENTITY tasksMenu.accesskey "T">
-<!ENTITY messengerCmd.label "Փոստ &amp; Նորություններ">
-<!ENTITY messengerCmd.accesskey "Ն">
+<!ENTITY messengerCmd.label "Փոստ և նորություններ">
+<!ENTITY messengerCmd.accesskey "N">
 <!ENTITY addressBookCmd.label "Հասցեագիրք">
 <!ENTITY addressBookCmd.accesskey "B">
 <!ENTITY addressBookCmd.key "Հ">
@@ -648,7 +648,7 @@
 <!ENTITY glodaSearchBar.placeholder "Նամակների որոնում...">
 <!-- Quick Search Menu Bar -->
 
-<!ENTITY searchSubjectMenu.label "Վերնագիրը">
+<!ENTITY searchSubjectMenu.label "Վերնագիր">
 <!ENTITY searchFromMenu.label "Ումից">
 <!ENTITY searchSubjectOrFromMenu.label "Վերնագիրը կամ Ումից">
 <!ENTITY searchRecipient.label "Ում կամ Cc">
@@ -661,7 +661,7 @@
 <!ENTITY fromColumn.label "Ումից">
 <!ENTITY recipientColumn.label "Ստացողը">
 <!ENTITY correspondentColumn.label "Բաժանորդ">
-<!ENTITY subjectColumn.label "Վերնագիրը">
+<!ENTITY subjectColumn.label "Վերնագիր">
 <!ENTITY dateColumn.label "Ամսաթիվ">
 <!ENTITY priorityColumn.label "Առաջնահերթ-ը">
 <!ENTITY tagsColumn.label "Պիտակ">
@@ -801,8 +801,8 @@
 <!-- Media (video/audio) controls -->
 
 
-<!ENTITY contextPlay.label "Խաղարկել">
-<!ENTITY contextPlay.accesskey "P">
+<!ENTITY contextPlay.label "Նվագարկել">
+<!ENTITY contextPlay.accesskey "Ն">
 <!ENTITY contextPause.label "Դադար">
 <!ENTITY contextPause.accesskey "P">
 <!ENTITY contextMute.label "Անձայն">
@@ -852,8 +852,8 @@
 <!ENTITY SubscribeToNewsgroup.accesskey "N">
 <!ENTITY SendMessageTo.label "Գրել նամակ">
 <!ENTITY SendMessageTo.accesskey "s">
-<!ENTITY CopyEmailAddress.label "Պատճենել փոստի հասցեն">
-<!ENTITY CopyEmailAddress.accesskey "C">
+<!ENTITY CopyEmailAddress.label "Պատճենել էլ. փոստի հասցեն">
+<!ENTITY CopyEmailAddress.accesskey "Պ">
 <!ENTITY CopyNewsgroupName.label "Պատճենել խմբի անունը">
 <!ENTITY CopyNewsgroupName.accesskey "C">
 <!ENTITY CopyNewsgroupURL.label "Պատճենել խմբի URL-ն">
@@ -872,12 +872,12 @@
 <!ENTITY saveLinkAsCmd.accesskey "k">
 <!ENTITY saveImageAsCmd.label "Պահպանել նկարը որպես…">
 <!ENTITY saveImageAsCmd.accesskey "v">
-<!ENTITY copyLinkCmd.label "Պատճենել հղման հասցեն">
-<!ENTITY copyLinkCmd.accesskey "L">
+<!ENTITY copyLinkCmd.label "Պատճենել հղման տեղադրությունը">
+<!ENTITY copyLinkCmd.accesskey "հ">
 <!ENTITY copyImageAllCmd.label "Պատճենել նկարը">
 <!ENTITY copyImageAllCmd.accesskey "I">
-<!ENTITY copyEmailCmd.label "Պատճենել փոստի հասցեն">
-<!ENTITY copyEmailCmd.accesskey "E">
+<!ENTITY copyEmailCmd.label "Պատճենել էլ. փոստի հասցեն">
+<!ENTITY copyEmailCmd.accesskey "է">
 <!ENTITY stopCmd.label "Կանգնեցնել">
 <!ENTITY stopCmd.accesskey "S">
 <!ENTITY reloadCmd.label "Կրկնել">
@@ -891,7 +891,7 @@
 <!ENTITY statusText.label "Պատրաստ է">
 <!--  Mac OS X Window Menu -->
 
-<!ENTITY minimizeWindow.label "Փոքրացնել">
+<!ENTITY minimizeWindow.label "Նվազեցնել">
 <!ENTITY minimizeWindow.key "Փ">
 <!ENTITY bringAllToFront.label "Բոլորից առջև">
 <!ENTITY zoomWindow.label "Չափը">
