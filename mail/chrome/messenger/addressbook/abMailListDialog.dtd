@@ -9,7 +9,7 @@
 
 <!ENTITY ListName.label                 "Ցանկի անունը.">
 <!ENTITY ListNickName.label             "Ցանկի կեղծանունը.">
-<!ENTITY ListDescription.label          "Նկարագրությունը.">
+<!ENTITY ListDescription.label          "Նկարագրություն. ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label             "Նշեք էլ. հասցեներ՝ դրանք ավելացնելու համար նամակների ցանկին։">
 <!ENTITY UpButton.label                 "Վեր">
@@ -19,5 +19,5 @@
 <!ENTITY addToAddressBook.accesskey     "A">
 <!ENTITY ListName.accesskey             "L">
 <!ENTITY ListNickName.accesskey         "N">
-<!ENTITY ListDescription.accesskey      "e">
+<!ENTITY ListDescription.accesskey      "կ">
 

@@ -38,7 +38,7 @@
 <!ENTITY moveMessage.label "Տեղափոխել նամակը՝">
 <!ENTITY copyMessage.label "Պատճենել՝">
 <!ENTITY forwardTo.label "Փոխանցել՝">
-<!ENTITY replyWithTemplate.label "Պատասխանել Նմուշով">
+<!ENTITY replyWithTemplate.label "Պատասխանել ձևանմուշով">
 <!ENTITY markMessageRead.label "Նշել որպես ընթերցված">
 <!ENTITY markMessageUnread.label "Նշել որպես ընթերցված">
 <!ENTITY markMessageStarred.label "Ավելացնել աստղ">

@@ -175,8 +175,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY NickName.accesskey                             "i">
 <!ENTITY SecondEmail.label                              "Լրացուցիչ էլ. հասցե">
 <!ENTITY SecondEmail.accesskey                          "l">
-<!ENTITY Department.label                               "Բաժինը">
-<!ENTITY Department.accesskey                           "r">
+<!ENTITY Department.label                               "Բաժին">
+<!ENTITY Department.accesskey                           "ի">
 <!ENTITY JobTitle.label                                 "Անվանում">
 <!ENTITY JobTitle.accesskey                             "Ա">
 <!ENTITY CellularNumber.label                           "Բջջային">
@@ -205,7 +205,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY phone.heading                                  "Հեռախոս">
 <!ENTITY work.heading                                   "Աշխատանքային">
 <!-- Special Box Headings, for mailing lists -->
-<!ENTITY description.heading                            "Նկարագրությունը">
+<!ENTITY description.heading                            "Նկարագրություն">
 <!ENTITY addresses.heading                              "Հասցեներ">
 <!-- For Map It! -->
 <!ENTITY mapItButton.label                              "Քարտեզը">

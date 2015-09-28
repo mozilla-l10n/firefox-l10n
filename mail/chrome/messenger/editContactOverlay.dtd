@@ -8,8 +8,8 @@
 <!ENTITY editContactName.label "Անունը.">
 <!ENTITY editContactName.accesskey "N">
 
-<!ENTITY editContactEmail.label "Էլ. փոստը.">
-<!ENTITY editContactEmail.accesskey "E">
+<!ENTITY editContactEmail.label "Էլ. փոստ.">
+<!ENTITY editContactEmail.accesskey "Է">
 
 <!ENTITY editContactAddressBook.label "Հասցեագիրքը.">
 <!ENTITY editContactAddressBook.accesskey "A">

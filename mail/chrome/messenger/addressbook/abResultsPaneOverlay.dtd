@@ -16,8 +16,8 @@
 <!ENTITY NickName.accesskey                    "i">
 <!ENTITY SecondEmail.label                     "Լրացուցիչ էլ. հասցե">
 <!ENTITY SecondEmail.accesskey                 "l">
-<!ENTITY Department.label                      "Բաժինը">
-<!ENTITY Department.accesskey                  "r">
+<!ENTITY Department.label                      "Բաժին">
+<!ENTITY Department.accesskey                  "ի">
 <!ENTITY JobTitle.label                        "Անվանում">
 <!ENTITY JobTitle.accesskey                    "Ա">
 <!ENTITY CellularNumber.label                  "Բջջային">
