@@ -80,7 +80,7 @@
 <!ENTITY projects.debugAppTooltip "Deschide instrumentele de dezvoltare asociate cu această aplicație">
 <!ENTITY projects.saveManifest "Salvează">
 <!ENTITY projects.saveManifestTooltip "Save the contents of the Manifest Editor below.">
-<!ENTITY projects.hostedManifestPlaceHolder2 "http://exemplu.com/app/manifest.webapp">
+<!ENTITY projects.hostedManifestPlaceHolder2 "http://exemplu.ro/app/manifest.webapp">
 <!ENTITY projects.noProjects "Niciun proiect. Adăugați o nouă aplicație împachetată de mai jos (director local) sau o aplicație găzduită (link către un fișier manifest).">
 <!ENTITY projects.manifestEditor "Editor pentru manifest">
 <!ENTITY projects.manifestEditorTooltip "Edit your app's manifest in the panel below. The Update button will save your changes and update the app.">
