@@ -22,8 +22,8 @@
 <!ENTITY dnsNotFound.longDesc4 "
 <ul>
   <li>Controleer het adres op typefouten, zoals
-    <strong>ww</strong>.voorbeeld.com in plaats van
-    <strong>www</strong>.voorbeeld.com</li>
+    <strong>ww</strong>.example.com in plaats van
+    <strong>www</strong>.example.com</li>
     <div id='searchbox'>
       <input id='searchtext' type='search'></input>
       <button id='searchbutton'>Zoeken</button>
@@ -54,7 +54,7 @@
 <!ENTITY malformedURI.longDesc2 "
 <ul>
   <li>Webadressen worden doorgaans geschreven als
-    <strong>http://www.voorbeeld.com/</strong></li>
+    <strong>http://www.example.com/</strong></li>
     <div id='searchbox'>
       <input id='searchtext' type='search'></input>
       <button id='searchbutton'>Zoeken</button>
