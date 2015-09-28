@@ -4,16 +4,17 @@
 
 <!ENTITY tracking.label                 "Kuryan">
 
-
+<!ENTITY dntTrackingNotOkay4.label     "Waažibandi kaŋ nungey ma ši ni gana">
+<!ENTITY dntTrackingNotOkay4.accesskey "n">
 <!ENTITY doNotTrackInfo.label          "Bay ka tonton">
-
-
-
-
-
-
-
-
+<!ENTITY trackingProtection5.label     "Goy nda ganayan jejebu">
+<!ENTITY trackingProtection5.accesskey "i">
+<!ENTITY trackingProtectionLearnMore.label "Bay ka tonton">
+<!ENTITY trackingProtectionPBM5.label         "Goy nda ganayan jejebu sutura zanfuney ra">
+<!ENTITY trackingProtectionPBM5.accesskey     "s">
+<!ENTITY trackingProtectionPBMLearnMore.label "Bay ka tonton">
+<!ENTITY changeBlockList.label          "Gagayyan maašeede barmay">
+<!ENTITY changeBlockList.accesskey      "C">
 
 <!ENTITY  history.label                 "Taariki">
 
@@ -26,10 +27,11 @@
 <!ENTITY  locbar.bookmarks.accesskey    "i">
 <!ENTITY  locbar.openpage.label         "Nor lokey feeri">
 <!ENTITY  locbar.openpage.accesskey     "f">
+<!ENTITY  locbar.searches.label         "Ceeciyan kondantey ka hun tilasu ceecijinaa ga">
+<!ENTITY  locbar.searches.accesskey     "d">
 
-
-
-
+<!ENTITY  suggestionSettings.label      "Ibaayey barmay ceecijinay honnandiyaney se…">
+<!ENTITY  suggestionSettings.accesskey  "y">
 
 <!ENTITY  acceptCookies.label           "Dogey aleewawey taa">
 <!ENTITY  acceptCookies.accesskey       "t">

@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  pageInfoWindow.width  "600">
-
+<!ENTITY  pageInfoWindow.height "550">
 
 <!ENTITY  copy.key              "C">
 <!ENTITY  copy.label            "Berandi">
@@ -22,7 +22,7 @@
 <!ENTITY  generalReferrer       "Fellandi URL:">
 <!ENTITY  generalSource         "Tugudoo aššil:">
 <!ENTITY  generalModified       "Barmayante:">
-
+<!ENTITY  generalEncoding2      "Hantum harfu-hawyan:">
 <!ENTITY  generalMetaName       "Maa">
 <!ENTITY  generalMetaContent    "Gundekuna">
 
