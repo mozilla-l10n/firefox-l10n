@@ -48,6 +48,8 @@
 <!ENTITY trackingProtection.state.enabled      "DIRA">
 <!ENTITY trackingProtection.state.disabled     "WII">
 
+<!ENTITY trackingProtection.description1       "Sutura zanfuney ga moo doo fooyaŋ gagay kaŋ ga hin ka war ceeciyaney gana.">
 
-
-
+<!ENTITY trackingProtection.disable            "Ganayan jejeboo wii">
+<!ENTITY trackingProtection.enable             "Ganayan jejeboo tunandi">
+<!ENTITY trackingProtection.startTour1         "Dii takaa nda woo ga dira">
