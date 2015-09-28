@@ -89,7 +89,6 @@
 <!ENTITY overlay_share_no_url "Nessun link disponibile in questa condivisione">
 <!ENTITY overlay_share_select_device "Seleziona dispositivo">
 <!ENTITY overlay_no_synced_devices "Non è disponibile alcun dispositivo connesso all’account Firefox">
-<!ENTITY overlay_share_tab_not_sent "Impossibile inviare la scheda.\nRiprovare più tardi.">
 <!ENTITY pref_category_search3 "Ricerca">
 <!ENTITY pref_category_search_summary "Personalizza i motori di ricerca">
 <!ENTITY pref_category_display "Visualizzazione">
