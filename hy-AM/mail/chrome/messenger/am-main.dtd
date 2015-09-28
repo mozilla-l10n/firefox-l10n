@@ -11,10 +11,10 @@
 <!ENTITY identityDesc.label "Յուրք. փոստարկղ ունի իր որոշիչը, դա այն տեղեկությունն է, որ այլ մարդիկ տեսնում են ընթերցելով Ձեր նամակները։">
 <!ENTITY name.label "Ձեր անունը.">
 <!ENTITY name.accesskey "Y">
-<!ENTITY email.label "Էլ. հասցեներ.">
-<!ENTITY email.accesskey "E">
-<!ENTITY replyTo.label "Պատասխանել հասցեներին.">
-<!ENTITY replyTo.accesskey "s">
+<!ENTITY email.label "էլ. փոստ.">
+<!ENTITY email.accesskey "է">
+<!ENTITY replyTo.label "Պատասխանել հասցեի.">
+<!ENTITY replyTo.accesskey "ե">
 <!ENTITY replyTo.placeholder "Ստացողները կպատասխանեն այս այլ հասցեին">
 <!ENTITY organization.label "Կազմակերպություն.">
 <!ENTITY organization.accesskey "Կ">
@@ -22,7 +22,7 @@
 <!ENTITY signatureText.accesskey "ք">
 <!ENTITY signatureHtml.label "Օգտ. HTML (օր.՝ &lt;b&gt;bold&lt;/b&gt;)">
 <!ENTITY signatureHtml.accesskey "L">
-<!ENTITY signatureFile.label "Կցել ստորագրությունը ֆայլից (տեքստ, HTML կամ  պատկեր).">
+<!ENTITY signatureFile.label "Կցել ստորագրությունը ֆայլից (տեքստ, HTML կամ պատկեր).">
 <!ENTITY signatureFile.accesskey "ց">
 <!ENTITY edit.label "Խմբագրել...">
 <!ENTITY choose.label "Ընտրել…">

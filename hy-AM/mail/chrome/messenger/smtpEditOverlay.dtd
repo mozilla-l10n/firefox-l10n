@@ -6,14 +6,14 @@
 <!ENTITY security.caption "Անվտանգություն և Իսկորոշում">
 <!ENTITY serverName.label "Սպասարկիչի անունը.">
 <!ENTITY serverName.accesskey "S">
-<!ENTITY serverDescription.label "Նկարագրությունը.">
-<!ENTITY serverDescription.accesskey "D">
+<!ENTITY serverDescription.label "Նկարագրություն.">
+<!ENTITY serverDescription.accesskey "Ն">
 <!ENTITY serverPort.label "Դարպասը.">
 <!ENTITY serverPort.accesskey "P">
 <!ENTITY userName.label "Օգտվողի անունը.">
 <!ENTITY userName.accesskey "m">
-<!ENTITY connectionSecurity.label "Միացման անվտանգությունը.">
-<!ENTITY connectionSecurity.accesskey "n">
+<!ENTITY connectionSecurity.label "Կապակցվելու անվտանգությունը.">
+<!ENTITY connectionSecurity.accesskey "ց">
 <!ENTITY connectionSecurityType-0.label "Չկա">
 <!ENTITY connectionSecurityType-1.label "STARTTLS, եթե հասանելի է">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">

@@ -29,8 +29,8 @@
 <!ENTITY NameField2.accesskey           "L">
 <!ENTITY PhoneticField1.label           "Հնչյունային.">
 <!ENTITY PhoneticField2.label           "Հնչյունային.">
-<!ENTITY DisplayName.label              "Ցուցադրել՝">
-<!ENTITY DisplayName.accesskey          "D">
+<!ENTITY DisplayName.label              "Ցուցադրել.">
+<!ENTITY DisplayName.accesskey          "Ց">
 <!ENTITY preferDisplayName.label        "Միշտ ցուցադրել անունը նամակի գլխագրից վեր">
 <!ENTITY preferDisplayName.accesskey    "y">
 <!ENTITY NickName.label                 "Մականուն.">

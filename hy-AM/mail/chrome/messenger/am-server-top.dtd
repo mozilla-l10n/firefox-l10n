@@ -5,7 +5,7 @@
 
 
 <!ENTITY messageStorage.label "Նամակների կրիչը">
-<!ENTITY securitySettings.label "Անվտ. կարգավորումներ">
+<!ENTITY securitySettings.label "Անվտանգության կարգավորումներ">
 <!ENTITY serverSettings.label "Սպասարկիչի կարգավորումներ">
 <!ENTITY serverType.label "Սպասարկիչի տեսակը.">
 <!ENTITY serverName.label "Սպասարկիչի անունը.">
@@ -23,8 +23,8 @@
 <!ENTITY biffStart.label "Ստուգել նամակները ամեն՝">
 <!ENTITY biffStart.accesskey "y">
 <!ENTITY biffEnd.label "րոպե">
-<!ENTITY connectionSecurity.label "Միացման անվտանգությունը.">
-<!ENTITY connectionSecurity.accesskey "u">
+<!ENTITY connectionSecurity.label "Կապակցվելու անվտանգությունը.">
+<!ENTITY connectionSecurity.accesskey "ո">
 <!ENTITY connectionSecurityType-0.label "Չկա">
 <!ENTITY connectionSecurityType-1.label "STARTTLS, եթե հասանելի է">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">

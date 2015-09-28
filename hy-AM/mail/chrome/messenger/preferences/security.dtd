@@ -5,7 +5,7 @@
 <!ENTITY itemJunk.label          "Թափոն">
 <!ENTITY itemPhishing.label      "Էլ. խաբկանք">
 <!ENTITY itemPasswords.label     "Գաղտնաբառեր">
-
+<!ENTITY itemAntiVirus.label     "Հակավիրուս">
 <!-- Junk Mail Controls -->
 
 <!ENTITY junkMail.intro "Նշեք փոստաղբի հիմնական կարգավորումները փոստարկղի կարգավորումներում։">
@@ -43,6 +43,6 @@
 <!-- Anti Virus -->
 
 <!ENTITY antiVirus.intro      "&brandShortName;-ը կարող է հեշտացնել ստացված նամակների հակավիրուսային ստուգումը՝ մինչև դրանք համակարգիչ ներբեռնելը։">
-
-
+<!ENTITY antiVirus.label      "Թույլատրել հակավիրուսին նամակները տեղափոխել մեկուսարան։">
+<!ENTITY antiVirus.accesskey  "A">
 

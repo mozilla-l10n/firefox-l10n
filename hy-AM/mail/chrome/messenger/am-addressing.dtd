@@ -36,12 +36,12 @@
 <!ENTITY belowText.label                      "մեջբերումից հետո (խորհուրդ է տրվում)">
 <!ENTITY aboveText.label                      "իմ պատասխանից հետո (խորհուրդ է տրվում)">
 <!ENTITY includeSigOnReply.label              "Պատասխանելիս ներառել ստորագրությունը">
-<!ENTITY includeSigOnReply.accesskey          "I">
-<!ENTITY includeSigOnForward.label            "Պատասխանելիս ներառել ստորագրությունը">
-<!ENTITY includeSigOnForward.accesskey        "w">
+<!ENTITY includeSigOnReply.accesskey          "ն">
+<!ENTITY includeSigOnForward.label            "Փոխանցելիս ներառել ստորագրությունը">
+<!ENTITY includeSigOnForward.accesskey        "Փ">
 
 <!ENTITY globalComposingPrefs.label           "Նոր նամակ գրելու հիմնական կարգավորումներ...">
 <!ENTITY globalComposingPrefs.accesskey       "G">
 
-<!ENTITY globalAddressingPrefs.label          "Global Addressing Preferences…">
-<!ENTITY globalAddressingPrefs.accesskey      "P">
+<!ENTITY globalAddressingPrefs.label          "Ընդհանրական հասցեագրման կարգավորումներ…">
+<!ENTITY globalAddressingPrefs.accesskey      "կ">

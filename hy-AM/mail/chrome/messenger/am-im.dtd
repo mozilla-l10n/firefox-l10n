@@ -10,7 +10,7 @@
 <!ENTITY account.password              "Գաղտնաբառը.">
 <!ENTITY account.alias                 "Մականուններ.">
 <!ENTITY account.newMailNotification   "Տեղեկացնել նոր նամակի մասին">
-<!ENTITY account.autojoin              "Ինքնամիացման ալիքները.">
+<!ENTITY account.autojoin              "Ինքնակապակցման ալիքներ.">
 <!ENTITY account.proxySettings.caption "Միջնորդի կարգավորումներ.">
 <!ENTITY account.proxySettings.change.label     "Փոխել...">
 <!ENTITY account.proxySettings.change.accessKey "Փ">

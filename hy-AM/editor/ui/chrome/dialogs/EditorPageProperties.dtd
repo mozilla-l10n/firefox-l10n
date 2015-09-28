@@ -10,7 +10,7 @@
 <!ENTITY titleInput.accessKey "Ա">
 <!ENTITY authorInput.label "Հեղինակ.">
 <!ENTITY authorInput.accessKey "Հ">
-<!ENTITY descriptionInput.label "Նկարագրությունը.">
+<!ENTITY descriptionInput.label "Նկարագրություն.">
 <!ENTITY descriptionInput.accessKey "Ն">
 <!ENTITY locationNewPage.label "[Նոր էջ, դեռ չի պահպանվել]">
 <!ENTITY EditHEADSource1.label "Մասնագետ օգտվողներ.">
