@@ -7,91 +7,97 @@
 
 <!ENTITY loadError.label "પાનું લાવવામાં સમસ્યા">
 <!ENTITY retry.label "ફરી પ્રયાસ કરો">
-
 <!-- Specific error messages -->
 
+
 <!ENTITY connectionFailure.title "જોડાવામાં અસમર્થ">
+
 
 <!ENTITY deniedPortAccess.title "આ સરનામું પ્રતિબંધિત છે">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "સર્વર મળ્યું નહિં">
+<!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 
 <!ENTITY fileNotFound.title "ફાઇલ મળી નહિં">
-<!ENTITY fileNotFound.longDesc "
-<ul>
-  <li>કેપીટલ અક્ષરોના ઉપયોગ માટે અથવા અન્ય લખતી વખતની ક્ષતિઓ માટે ફાઇલનું નામ ચકાસો.</li>
-  <li>ફાઇલને ખસેડવામાં આવી હતી, તેનું નામ બદલવામાં આવ્યું હતુ કે તેને કાઢી મૂકવામાં આવી હતી તે જોવા માટે ચકાસો.</li>
-</ul>
-">
+<!ENTITY fileNotFound.longDesc "<ul> 
+<li>કેપીટલ અક્ષરોના ઉપયોગ માટે અથવા અન્ય લખતી વખતની ક્ષતિઓ માટે ફાઇલનું નામ ચકાસો.</li> 
+<li>ફાઇલને ખસેડવામાં આવી હતી, તેનું નામ બદલવામાં આવ્યું હતુ કે તેને કાઢી મૂકવામાં આવી હતી તે જોવા માટે ચકાસો.</li> 
+</ul>">
 
 
 <!ENTITY generic.title "અરર.">
-<!ENTITY generic.longDesc "
-<p>કોઇક કારણસર &brandShortName; આ પાનું લાવી શકતું નથી.</p>
-">
+<!ENTITY generic.longDesc "<p>કોઇક કારણસર &brandShortName; આ પાનું લાવી શકતું નથી.</p>">
 
 <!ENTITY malformedURI.title "સરનામું બરાબર નથી">
+<!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY netInterrupt.title "જોડાણ તૂટી ગયું હતુ">
+
 
 <!ENTITY notCached.title "દસ્તાવેજ નિવૃત્ત થઇ ગયું">
 <!ENTITY notCached.longDesc "<p>અરજી થયેલ દસ્તાવેજ &brandShortName; ની કૅશમાં ઉપલબ્ધ નથી.</p><ul><li>સુરક્ષા સાવધાની હેઠળ, &brandShortName; સંવેદનશીલ દસ્તાવેજો માટે આપોઆપ પુનઃઅરજી કરતું નથી.</li><li>વેબસાઇટ પરથી દસ્તાવેજની પુનઃઅરજી કરવા માટે ફરી પ્રયાસ કરો ક્લિક કરો.</li></ul>">
 
 <!ENTITY netOffline.title "ઑફલાઇન સ્થિતિ">
+<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY contentEncodingError.title "વસ્તુ સંગ્રહપદ્ધતિ ક્ષતિ">
-<!ENTITY contentEncodingError.longDesc "
-<ul>
-  <li>મહેરબાની કરીને આ સમસ્યાની વેબસાઇટના માલિકોને જાણ કરો.</li>
-</ul>
-">
+<!ENTITY contentEncodingError.longDesc "<ul> 
+<li>મહેરબાની કરીને આ સમસ્યાની વેબસાઇટના માલિકોને જાણ કરો.</li> 
+</ul>">
 
 <!ENTITY unsafeContentType.title "અસુરક્ષિત ફાઇલ પ્રકાર">
-<!ENTITY unsafeContentType.longDesc "
-<ul>
-  <li>મહેરબાની કરીને આ સમસ્યાની વેબસાઇટના માલિકોને જાણ કરો.</li>
-</ul>
-">
+<!ENTITY unsafeContentType.longDesc "<ul> 
+<li>મહેરબાની કરીને આ સમસ્યાની વેબસાઇટના માલિકોને જાણ કરો.</li> 
+</ul>">
 
 <!ENTITY netReset.title "જોડાણ રીસેટ થઇ ગયું હતુ">
 
+
 <!ENTITY netTimeout.title "જોડાણનો સમય સમાપ્ત થઇ ગયો">
 
+
+<!ENTITY unknownProtocolFound.title "સરનામું સમજાયું નહિ">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
+<li>આ સરનામું ખોલવા માટે તમારે અન્ય સૉફ્ટવેર સ્થાપિત કરવાની જરૂર પડી શકે.</li> 
+</ul>">
+
 <!ENTITY proxyConnectFailure.title "પ્રૉક્સી સર્વર જોડાણો નકારી રહ્યું છે">
-<!ENTITY proxyConnectFailure.longDesc "
-<ul>
-  <li>પ્રૉક્સી સેટીંગ બરાબર છે કે નથી તેની ખાતરી કરો.</li>
-  <li>પ્રૉક્સી સેટીંગ ચાલુ છે કે નથી તેની ખાતરી કરવા માટે તમારા નેટવર્ક સંચાલકનો સંપર્ક કરો.</li>
-</ul>
-">
+<!ENTITY proxyConnectFailure.longDesc "<ul> 
+<li>પ્રૉક્સી સેટીંગ બરાબર છે કે નથી તેની ખાતરી કરો.</li> 
+<li>પ્રૉક્સી સેટીંગ ચાલુ છે કે નથી તેની ખાતરી કરવા માટે તમારા નેટવર્ક સંચાલકનો સંપર્ક કરો.</li> 
+</ul>">
 
 <!ENTITY proxyResolveFailure.title "પ્રૉક્સી સર્વર શોધવામાં અસમર્થ">
+<!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY redirectLoop.title "પાનું બરાબર પુનઃદિશામાન થતું નથી">
-<!ENTITY redirectLoop.longDesc "
-<ul>
-  <li>આ સમસ્યા અમુક વાર કુકીઓ સ્વીકારવાનું નિષ્ક્રિય કરવાથી કે નકારવાથી પણ આવી શકે.</li>
-</ul>
-">
+<!ENTITY redirectLoop.longDesc "<ul> 
+<li>આ સમસ્યા અમુક વાર કુકીઓ સ્વીકારવાનું નિષ્ક્રિય કરવાથી કે નકારવાથી પણ આવી શકે.</li> 
+</ul>">
 
 <!ENTITY unknownSocketType.title "સર્વર તરફથી અનિચ્છનિય પ્રત્યુત્તર">
-<!ENTITY unknownSocketType.longDesc "
-<ul>
-  <li>ખાતરી કરો કે તમારી સિસ્ટમમાં વ્યક્તિગત સુરક્ષા વ્યવસ્થાપક સ્થાપિત થયેલ છે.</li>
-  <li>આ સર્વર પરના બિન-પ્રમાણિત રૂપરેખાંકનને કારણે હોઇ શકે.</li>
-</ul>
-">
+<!ENTITY unknownSocketType.longDesc "<ul> 
+<li>ખાતરી કરો કે તમારી સિસ્ટમમાં વ્યક્તિગત સુરક્ષા વ્યવસ્થાપક સ્થાપિત થયેલ છે.</li> 
+<li>આ સર્વર પરના બિન-પ્રમાણિત રૂપરેખાંકનને કારણે હોઇ શકે.</li> 
+</ul>">
 
 <!ENTITY nssFailure2.title "સુરક્ષિત જોડાણ નિષ્ફળ">
 
+
 <!ENTITY nssBadCert.title "સુરક્ષિત જોડાણ નિષ્ફળ">
-<!ENTITY nssBadCert.longDesc2 "
-<ul>
-  <li>સર્વરના રૂપરેખાંકન સાથે સમસ્યા હોઇ શકે, અથવા કોઇક સર્વર સાથે છેડછાડ કરવાનો પ્રયાસ કરી રહ્યું હોઇ શકે.</li>
-  <li>જો તમે ભૂતકાળમાં આ સર્વર સાથે સફળતાપૂર્વક જોડાણ કર્યું હોય, તો ક્ષતિ ક્ષણિક હોઇ શકે, અને તમે પછીથી ફરી પ્રયાસ કરી શકો.</li>
-</ul>
-">
+<!ENTITY nssBadCert.longDesc2 "<ul> 
+<li>સર્વરના રૂપરેખાંકન સાથે સમસ્યા હોઇ શકે, અથવા કોઇક સર્વર સાથે છેડછાડ કરવાનો પ્રયાસ કરી રહ્યું હોઇ શકે.</li> 
+<li>જો તમે ભૂતકાળમાં આ સર્વર સાથે સફળતાપૂર્વક જોડાણ કર્યું હોય, તો ક્ષતિ ક્ષણિક હોઇ શકે, અને તમે પછીથી ફરી પ્રયાસ કરી શકો.</li> 
+</ul>">
+<!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
+
+
 
 <!ENTITY corruptedContentError.title "બગડેલ વસ્તુ ક્ષતિ">
 <!ENTITY corruptedContentError.longDesc "<p>તમે જે પાનું જોવાનો પ્રયાસ કરી રહ્યા છો તે ડૅટા ટ્રાન્સમિશનમાં મળી આવેલી ક્ષતિના કારણે બતાવી શકાશે નહિ.</p><ul><li>મહેરબાની કરીને આ સમસ્યાની વેબસાઇટના માલિકોને જાણ કરો.</li></ul>">
@@ -99,25 +105,17 @@
 <!ENTITY securityOverride.linkText "અથવા તમે અપવાદ ઉમેરી શકો…">
 <!ENTITY securityOverride.getMeOutOfHereButton "મને અહીંથી બહાર કાઢો!">
 <!ENTITY securityOverride.exceptionButtonLabel "અપવાદ ઉમેરો…">
-
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
-<!ENTITY securityOverride.warningContent "
-<p>જો તમે એવું ઇન્ટરનેટ જોડાણ વાપરી રહ્યા હોય જેના પર તમને સંપૂર્ણ વિશ્વાસ નહિ હોય અથવા જો તમને આ સર્વર પર આવી ચેતવણી જોવાની આદત નહિ હોય તો તમારે અપવાદ ઉમેરવો જોઇએ નહિ.</p>
 
-<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
-<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
-">
+<!ENTITY securityOverride.warningContent "<p>જો તમે એવું ઇન્ટરનેટ જોડાણ વાપરી રહ્યા હોય જેના પર તમને સંપૂર્ણ વિશ્વાસ નહિ હોય અથવા જો તમને આ સર્વર પર આવી ચેતવણી જોવાની આદત નહિ હોય તો તમારે અપવાદ ઉમેરવો જોઇએ નહિ.</p> 
+ 
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "દૂરસ્થ XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>મહેરબાની કરીને આ સમસ્યાની વેબસાઇટના માલિકોને જાણ કરો.</li></ul></p>">
 
-<!ENTITY unknownProtocolFound.title "સરનામું સમજાયું નહિ">
-<!ENTITY unknownProtocolFound.longDesc "
-<ul>
-  <li>આ સરનામું ખોલવા માટે તમારે અન્ય સૉફ્ટવેર સ્થાપિત કરવાની જરૂર પડી શકે.</li>
-</ul>
-">

@@ -4,31 +4,50 @@
 <!-- LOCALIZATION NOTE: The text in some of these strings is supposed to be
      fun and playful. Please feel free to adjust the tone as works best in
      your language and/or locale. More detailed notes below. -->
-<!ENTITY pageTitle "&brandShortName; અભિપ્રાય">
-<!ENTITY intro.header "તમારી પાસે એક મિનિટ છે?">
-<!ENTITY intro.message "અમને કહો કે તમે &brandShortName; વિશે Android માટે શું વિચારો છો.">
-<!ENTITY intro.happyLink "મને પ્રિય છે">
-<!ENTITY intro.sadLink "મને અમુક સમસ્યાઓ આવી">
-<!ENTITY intro.maybeLater "કદાચ પછીથી">
-<!ENTITY happy.header "સાંભળવા માટે શ્રેષ્ઠ છે!">
+
+
+<!ENTITY pageTitle                 "&brandShortName; અભિપ્રાય">
+
+<!ENTITY intro.header              "તમારી પાસે એક મિનિટ છે?">
+<!ENTITY intro.message             "અમને કહો કે તમે &brandShortName; વિશે Android માટે શું વિચારો છો.">
+<!ENTITY intro.happyLink           "મને પ્રિય છે">
+<!ENTITY intro.sadLink             "મને અમુક સમસ્યાઓ આવી">
+<!ENTITY intro.maybeLater          "કદાચ પછીથી">
+<!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
+<!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
+<!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
+
+
+
+<!ENTITY happy.header              "સાંભળવા માટે શ્રેષ્ઠ છે!">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
      but essentially it means that we want you to let others know how much you love Firefox. -->
-<!ENTITY happy.message "Google Play પર 5 સિતારા આપીને તમારી પસંદ જણાવવા માંગો છો?">
+
+<!ENTITY happy.message             "Google Play પર 5 સિતારા આપીને તમારી પસંદ જણાવવા માંગો છો?">
 <!-- LOCALIZATION NOTE (happy.finePrint): "feels great" — Another exaggeration where we're trying to
      get people to rate us by playfully telling them there's a benefit in it for them as well. -->
-<!ENTITY happy.finePrint "તે મિનિટ કરતાં ઓછો સમય લે છે અને શ્રેષ્ઠ અનુભવ થાય છે.">
-<!ENTITY happy.ratingLink "હા, Google Play પર જાવ">
-<!ENTITY happy.maybeLater2 "કદાચ પછીથી">
-<!ENTITY happy.noThanks "ના આભાર">
-<!ENTITY sad.message "અમને ખેદ છે તમને &brandShortName; સાથે અમુક સમસ્યાઓ આવી. મહેરબાની કરીને અમને કહો કે શું થયુ જેથી અમે તેને સુધારી શકીએ.">
-<!ENTITY sad.placeholder "તમારો અભિપ્રાય અહીં દાખલ કરો">
+
+<!ENTITY happy.finePrint           "તે મિનિટ કરતાં ઓછો સમય લે છે અને શ્રેષ્ઠ અનુભવ થાય છે.">
+
+<!ENTITY happy.ratingLink          "હા, Google Play પર જાવ">
+<!ENTITY happy.maybeLater2         "કદાચ પછીથી">
+<!ENTITY happy.noThanks            "ના આભાર">
+
+<!ENTITY sad.message               "અમને ખેદ છે તમને &brandShortName; સાથે અમુક સમસ્યાઓ આવી. મહેરબાની કરીને અમને કહો કે શું થયુ જેથી અમે તેને સુધારી શકીએ.">
+<!ENTITY sad.placeholder           "તમારો અભિપ્રાય અહીં દાખલ કરો">
+
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
-<!ENTITY sad.urlPlaceholder "http://">
+
+<!ENTITY sad.urlPlaceholder        "http://">
+
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
-<!ENTITY sad.thanksMessageTop "અમે હંમેશા &brandShortName; ને સારુ બનાવવા માટે કામ કરીએ છીએ. ખાતરી રાખો કે વાસ્તવિક લોકો તમારા અભિપ્રાયને જોશે અને તમારા મુદ્દાઓ ઉકેલવા માટે તેમનું શ્રેષ્ઠ આપશે.">
+
+<!ENTITY sad.thanksMessageTop      "અમે હંમેશા &brandShortName; ને સારુ બનાવવા માટે કામ કરીએ છીએ. ખાતરી રાખો કે વાસ્તવિક લોકો તમારા અભિપ્રાયને જોશે અને તમારા મુદ્દાઓ ઉકેલવા માટે તેમનું શ્રેષ્ઠ આપશે.">
 <!-- LOCALIZATION NOTE (sad.thanksMessageBottom): We're suggesting that there will be consequences for the people working
      on Firefox if they don't resolve the user's problem, like "or if they don't fix it, we'll fire them." If this doesn't
      work in your language, you can change it to something like "no matter what" or just remove it entirely. -->
-<!ENTITY sad.thanksMessageBottom "અથવા સિવાય.">
-<!ENTITY feedback.send "અભિપ્રાય મોકલો">
+
+<!ENTITY sad.thanksMessageBottom   "અથવા સિવાય.">
+
+<!ENTITY feedback.send             "અભિપ્રાય મોકલો">
