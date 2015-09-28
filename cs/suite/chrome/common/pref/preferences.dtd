@@ -24,7 +24,7 @@
 <!ENTITY popups.label "Vyskakovací okna">
 <!ENTITY passwords.label "Hesla">
 <!ENTITY masterpass.label "Hlavní heslo">
-<!ENTITY ssl.label "SSL">
+<!ENTITY ssltls.label "SSL/TLS">
 <!ENTITY certs.label "Certifikáty">
 <!ENTITY sync.label "Sync">
 <!ENTITY advance.label "Rozšířené nastavení">

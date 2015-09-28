@@ -2,24 +2,20 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY SSLProtocolVersions.caption "Verze protokolu SSL">
-<!ENTITY SSLWarnings.caption "SSL upozornění">
-<!ENTITY  SSLMixedContent.caption "Smíšený obsah">
+<!ENTITY SSLTLSProtocolVersions.caption     "Verze protokolu SSL/TLS">
+<!ENTITY SSLTLSWarnings.caption             "SSL/TLS upozornění">
+<!ENTITY SSLMixedContent.caption "Smíšený obsah">
 <!ENTITY SSLClientAuthMethod.caption "Výběr certifikátů klienta">
 
-<!ENTITY pref.ssl.title                     "Secure Sockets Layer (SSL)">
+<!ENTITY pref.ssltls.title                  "Transport Layer Security (SSL/TLS)">
 <!ENTITY limit.description                  "Můžete omezit, které šifrovací protokoly budou používány pro bezpečná připojení. Zvolte konkrétní verze nebo skupinu verzí.">
 <!ENTITY limit.enable.label                 "Povolit:">
-<!ENTITY limit.ssl30.label                  "SSL 3.0">
-<!ENTITY limit.ssl30.accesskey              "3">
 <!ENTITY limit.tls10.label                  "TLS 1.0">
 <!ENTITY limit.tls10.accesskey              "T">
 <!ENTITY limit.tls11.label                  "TLS 1.1">
 <!ENTITY limit.tls11.accesskey              "1">
 <!ENTITY limit.tls12.label                  "TLS 1.2">
 <!ENTITY limit.tls12.accesskey              "2">
-
-<!ENTITY pref.ssl.title "SSL">
 
 <!ENTITY warn.description2 "Aplikace &brandShortName; vás může upozornit na stav zabezpečení stránky, kterou si prohlížíte. Nastavte aplikaci &brandShortName; tak, aby zobrazovala varování, když:">
 <!ENTITY warn.enteringsecure "Vstupem na stránku, která podporuje šifrování">
