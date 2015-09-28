@@ -17,14 +17,17 @@
 <!ENTITY aboutPrivateBrowsing.width1           "30em">
 <!ENTITY aboutPrivateBrowsing.title            "War goo sutura naarumi ra">
 
+<!ENTITY aboutPrivateBrowsing.info.notsaved    "Mana gaabundi">
 <!ENTITY aboutPrivateBrowsing.info.history     "Taariki">
-
+<!ENTITY aboutPrivateBrowsing.info.searches    "Ceeciyaney">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Aleewawey">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Batuyan tukey">
 
-
+<!ENTITY aboutPrivateBrowsing.info.saved       "Gaabunte">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Zumandiyaney">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Doo-šilbawey">
 
+<!ENTITY aboutPrivateBrowsing.note1            "Laasaabu kaŋ hala sohõ war goydogoo wala interneti nookaa ga hin ka dii moɲey kaŋ war dii y'ey.">
 <!ENTITY aboutPrivateBrowsing.learnMore        "Bay ka tonton.">
 <!-- LOCALIZATION NOTE (trackingProtection.width1):
      Width of the Tracking Protection section. It is fine for the enabled or
@@ -35,11 +38,15 @@
      different, so testing on Windows, Mac, and Linux is encouraged.
      -->
 
+<!ENTITY trackingProtection.width1             "22em">
+<!ENTITY trackingProtection.title              "Ganayan jejebu">
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
 
-
+<!ENTITY trackingProtection.state.width        "6ch">
+<!ENTITY trackingProtection.state.enabled      "DIRA">
+<!ENTITY trackingProtection.state.disabled     "WII">
 
 
 
