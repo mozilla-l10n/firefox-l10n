@@ -18,7 +18,7 @@
 <!ENTITY feedWindowTitle.label "Սնման հաշվի Օգնական">
 <!-- entities from rss.rdf -->
 
-<!ENTITY feeds.accountName "Նորությունների &amp;ալիքներ">
+<!ENTITY feeds.accountName "Բլոգներ և նորություններ">
 <!ENTITY feeds.wizardShortName "Շղթաներ">
-<!ENTITY feeds.wizardLongName "Նորությունների &amp;ալիքներ">
+<!ENTITY feeds.wizardLongName "Բլոգներ և նորություններ">
 <!ENTITY feeds.wizardLongName.accesskey "F">
