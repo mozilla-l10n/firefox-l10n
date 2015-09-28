@@ -24,13 +24,13 @@ sentence. -->
 <!ENTITY  sendTyping.accesskey          "M">
 
 <!ENTITY  chatNotifications.label             "Kadar prispejo sporočila namenjena meni:">
-<!ENTITY  desktopChatNotifications.label      "Prikaži obvestilo:">
-<!ENTITY  desktopChatNotifications.accesskey  "P">
+<!ENTITY  desktopChatNotifications.label      "prikaži obvestilo:">
+<!ENTITY  desktopChatNotifications.accesskey  "a">
 <!ENTITY  completeNotification.label          "s pošiljateljevim imenom in predogledom sporočila">
 <!ENTITY  buddyInfoOnly.label                 "samo s pošiljateljevim imenom">
 <!ENTITY  dummyNotification.label             "brez podatkov">
 <!ENTITY  chatSound.accesskey                 "r">
-<!ENTITY  chatSound.label                     "Predvajaj zvok">
+<!ENTITY  chatSound.label                     "predvajaj zvok">
 <!ENTITY  play.label                          "Predvajaj">
 <!ENTITY  play.accesskey                      "e">
 <!ENTITY  systemSound.label                   "Privzeti sistemski zvok za novo pošto">
