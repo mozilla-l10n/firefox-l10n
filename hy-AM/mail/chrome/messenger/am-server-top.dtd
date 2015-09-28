@@ -69,7 +69,7 @@
 <!ENTITY alwaysAuthenticate.accesskey "տ">
 <!ENTITY newsrcFilePath.label "newsrc file:">
 <!ENTITY newsrcPicker.label "Ընտրեք newsrc ֆայլը">
-<!ENTITY abbreviate.label "Ցուցադրել նորութ. անունները Նամակի թղթապանակում որպես.">
+<!ENTITY abbreviate.label "Ցուցադրել լուրախմբերը Նամակի թղթապանակում որպես՝">
 <!ENTITY abbreviateOn.label "Անունները (օրինակ՝ 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Կրճատ անունները (օրինակ՝  'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Ընդլայնված...">

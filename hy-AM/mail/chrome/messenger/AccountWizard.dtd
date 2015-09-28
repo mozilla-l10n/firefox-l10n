@@ -62,7 +62,7 @@
 <!ENTITY incomingUsername.accesskey "Օ">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label "Նշեք նորությունների սպասարկիչի անունը (NNTP) (օրինակ՝ &quot;news.example.net&quot;)։">
-<!ENTITY newsServerLabel.label "Նորությունների սպասարկիչ.">
+<!ENTITY newsServerLabel.label "Լուրախմբերի սպասարկիչ.">
 <!ENTITY newsServerLabel.accesskey "ս">
 <!-- Entities for Outgoing Server page -->
 

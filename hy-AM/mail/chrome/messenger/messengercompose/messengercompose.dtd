@@ -178,7 +178,7 @@
 
 <!ENTITY tasksMenu.label "Գործիքներ">
 <!ENTITY tasksMenu.accesskey "T">
-<!ENTITY messengerCmd.label "Փոստ և նորություններ">
+<!ENTITY messengerCmd.label "Փոստ և Լուրախմբեր">
 <!ENTITY messengerCmd.accesskey "Փ">
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Հասցեագիրք">
