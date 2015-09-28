@@ -53,9 +53,13 @@
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
 <!ENTITY performanceUI.toolbar.waterfall "Водоспад">
+<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Показує різні операції, які виконуються браузером під час запису, викладені послідовно у вигляді водоспаду.">
 <!ENTITY performanceUI.toolbar.js-calltree "Дерево виклику">
+<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Підсвічує функції JavaScript там, де браузер витратив найбільше часу під час запису.">
 <!ENTITY performanceUI.toolbar.memory-calltree "Алокації">
+<!ENTITY performanceUI.toolbar.allocations.tooltiptext "Показує де була розміщена пам'ять під час запису.">
 <!ENTITY performanceUI.toolbar.js-flamegraph "JS Flame Chart">
+<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Показує групу виклику JavaScript над напрямком запису.">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "Flame Chart алокацій">
 
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed

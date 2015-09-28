@@ -61,6 +61,13 @@
 <!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls on the HTTP server. -->
+<!ENTITY btnServerLogging.label       "Сервер">
+<!ENTITY btnServerLogging.tooltip     "Повідомлення журналу, отримані від веб-сервера">
+<!ENTITY btnServerLogging.accesskey   "С">
+<!ENTITY btnServerErrors              "Помилки">
+<!ENTITY btnServerInfo                "Інфо">
+<!ENTITY btnServerWarnings            "Попередження">
+<!ENTITY btnServerLog                 "Журнал">
 
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
