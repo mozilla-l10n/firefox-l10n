@@ -20,7 +20,7 @@
 <!ENTITY accountAdvancedTitle.label   "Ընդլայնված ընտրանքներ">
 <!ENTITY accountAdvancedInfo.label    "Կարող եք բաց թողնել այս քայլը։">
 <!ENTITY accountAdvanced.newMailNotification.label   "Տեղեկացնել նոր նամակի մասին">
-<!ENTITY accountAliasGroupbox.caption "Լոկալ մականունը">
+<!ENTITY accountAliasGroupbox.caption "Տեղային մականուն">
 <!ENTITY accountAliasField.label      "Մականուններ.">
 <!ENTITY accountAliasInfo.label       "Կցուցադրվի միայն զրուցի ժամանակ: ">
 <!ENTITY accountProxySettings.caption "Միջնորդի կարգավորումներ">

@@ -7,8 +7,8 @@
 <!ENTITY menu_securityEncryptRequire.label "Կոդավորել հաղորդագրությունը">
 <!ENTITY menu_securityEncryptRequire.accesskey "E">
 
-<!ENTITY menu_securitySign.label "Թվային ստորագրել նամակը">
-<!ENTITY menu_securitySign.accesskey "M">
+<!ENTITY menu_securitySign.label "Թվային ստորագրություն այս նամակի համար">
+<!ENTITY menu_securitySign.accesskey "ն">
 
 <!ENTITY menu_securityStatus.label "Դիտել անվտանգության ինֆոն">
 <!ENTITY menu_securityStatus.accesskey "I">

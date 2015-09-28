@@ -4,8 +4,8 @@
 <!-- Window title -->
 
 <!ENTITY siteUrl.label         "Կայքի հղումը.">
-<!ENTITY docSubdir.label       "Էջի ենթաթղթապանակը.">
-<!ENTITY otherSubdir.label     "Նկարի ենթաթղթապանակը.">
+<!ENTITY docSubdir.label       "Էջի ենթաթղթապանակ.">
+<!ENTITY otherSubdir.label     "Նկարի ենթաթղթապանակ.">
 
 <!ENTITY status.label          "Հրապարակվում է…">
 <!ENTITY fileList.label        "Հրապարակման վիճակը">

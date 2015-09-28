@@ -24,8 +24,8 @@
 <!ENTITY openConversationCmd.accesskey "Ս">
 <!ENTITY closeConversationCmd.label    "Ավարտել երկխոսությունը">
 <!ENTITY closeConversationCmd.accesskey "Ա">
-<!ENTITY aliasCmd.label                "Անվանափոխել">
-<!ENTITY aliasCmd.accesskey            "Ա">
+<!ENTITY aliasCmd.label                "Վերանվանել">
+<!ENTITY aliasCmd.accesskey            "Վ">
 <!ENTITY deleteCmd.label               "Ջնջել կոնտակտը">
 <!ENTITY deleteCmd.accesskey           "Ջ">
 

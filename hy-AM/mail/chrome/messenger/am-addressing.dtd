@@ -19,12 +19,12 @@
 <!-- am-addressing.xul -->
 
 
-<!ENTITY compositionGroupTitle.label          "Նամակը">
+<!ENTITY compositionGroupTitle.label          "Նամակ գրել">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Նամակները կազմել HTML տեսակի">
 <!ENTITY useHtml.accesskey                    "C">
-<!ENTITY autoQuote.label                      "Պատասխանելիս մեջներել բնօրինակ նամակը">
-<!ENTITY autoQuote.accesskey                  "m">
+<!ENTITY autoQuote.label                      "Պատասխանելիս մեջբերել բնօրինակ նամակը">
+<!ENTITY autoQuote.accesskey                  "ե">
 <!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY then.label                           "Ապա,">
 <!ENTITY then.accesskey                       "T">

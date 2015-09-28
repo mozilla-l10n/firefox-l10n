@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY joinChatWindow.title           "Միանալ զրույցի">
-<!ENTITY name.label                     "Սենյակը">
+<!ENTITY name.label                     "Սենյակ">
 <!ENTITY optional.label                 "Կամայական">
 <!ENTITY account.label                  "Փոստարկղ">
 <!ENTITY autojoin.label                 "Մուտք գործել այս Զրույցի սենյակ">

@@ -13,6 +13,6 @@
 <!ENTITY view.label "Տեսք">
 <!ENTITY view.accesskey "Տ">
 <!ENTITY tree.recipient "Ստացողը">
-<!ENTITY tree.status "Վիճակը">
+<!ENTITY tree.status "Վիճակ">
 <!ENTITY tree.issuedDate "Տրված">
 <!ENTITY tree.expiresDate "Ավարտվում է">

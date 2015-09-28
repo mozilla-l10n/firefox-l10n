@@ -10,12 +10,12 @@
 <!ENTITY FormName.accesskey "N">
 <!ENTITY FormAction.label "Քայլի URL.">
 <!ENTITY FormAction.accesskey "Ք">
-<!ENTITY FormMethod.label "Եղանակը.">
-<!ENTITY FormMethod.accesskey "M">
+<!ENTITY FormMethod.label "Եղանակ.">
+<!ENTITY FormMethod.accesskey "Ե">
 <!ENTITY FormEncType.label "Կոդավորումը.">
 <!ENTITY FormEncType.accesskey "c">
-<!ENTITY FormTarget.label "Թիրախային շրջանակը.">
-<!ENTITY FormTarget.accesskey "T">
+<!ENTITY FormTarget.label "Թիրախային շրջանակ.">
+<!ENTITY FormTarget.accesskey "Թ">
 
 <!ENTITY RemoveForm.label "Հեռացնել բլանկը">
 <!ENTITY RemoveForm.accesskey "R">

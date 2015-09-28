@@ -33,7 +33,7 @@
 <!ENTITY spellCheckInline1.accesskey          "E">
 <!ENTITY languagePopup.label                  "Լեզուն.">
 <!ENTITY languagePopup.accessKey              "Լ">
-<!ENTITY downloadDictionaries.label           "Բեռնել բառարաններ">
+<!ENTITY downloadDictionaries.label           "Ներբեռնել բառարաններ">
 
 <!ENTITY warnOnSendAccelKey.label             "Հաստատել՝ նամակը ուղարկելիս հիմնաբառի պիտակը օգտ.">
 <!ENTITY warnOnSendAccelKey.accesskey         "C">

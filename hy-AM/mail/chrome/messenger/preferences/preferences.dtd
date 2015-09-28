@@ -9,13 +9,13 @@
 <!ENTITY  prefWindow.styleMac     "width: 52em;">
 <!ENTITY  prefWindow.styleGNOME   "width: 47em; min-height: 38em;">
 
-<!ENTITY paneGeneral.title        "Գլխավորը">
+<!ENTITY paneGeneral.title        "Գլխավոր">
 <!ENTITY paneDisplay.title        "Ցուցադրիչ">
 <!ENTITY paneComposition.title    "Նամակը">
 <!ENTITY paneChat.title           "Զրույց">
 <!ENTITY paneAttachments.title    "Կցորդներ">
-<!ENTITY panePrivacy.title        "Գաղտնիությունը">
-<!ENTITY paneSecurity.title       "Անվտանգությունը">
+<!ENTITY panePrivacy.title        "Գաղտնիություն">
+<!ENTITY paneSecurity.title       "Անվտանգություն">
 <!ENTITY paneAdvanced.title       "Ընդլայնված">
 <!ENTITY paneAccount.title        "Փոստարկղեր">
 

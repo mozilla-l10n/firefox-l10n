@@ -6,8 +6,8 @@
 
 <!ENTITY Settings.label "Կարգավորումներ">
 
-<!ENTITY ButtonType.label "Տեսակը">
-<!ENTITY ButtonType.accesskey "T">
+<!ENTITY ButtonType.label "Տեսակ">
+<!ENTITY ButtonType.accesskey "Տ">
 <!ENTITY submit.value "Ուղարկել">
 <!ENTITY reset.value "Վերակայել">
 <!ENTITY button.value "Կոճակ">
@@ -24,4 +24,4 @@
 <!ENTITY AccessKey.accesskey "K">
 
 <!ENTITY RemoveButton.label "Հեռացնել կոճակը">
-<!ENTITY RemoveButton.accesskey "R">
+<!ENTITY RemoveButton.accesskey "Հ">

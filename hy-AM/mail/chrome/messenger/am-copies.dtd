@@ -5,9 +5,9 @@
 
 
 <!ENTITY copyAndFolderTitle.label "Թղթապանակներ &amp; Պատճենում">
-<!ENTITY sendingPrefix.label "Նամակը ուղարկելիս միանգամից՝">
+<!ENTITY sendingPrefix.label "Նամակը ուղարկելիս ինքնաշխատ՝ ">
 <!ENTITY fccMailFolder.label "Պահել կրկնօրինակը՝">
-<!ENTITY fccMailFolder.accesskey "P">
+<!ENTITY fccMailFolder.accesskey "Պ">
 <!ENTITY fccReplyFollowsParent.label "Պահել պատասխանները այնտեղ, որտեղից պատասխանվել է">
 <!ENTITY fccReplyFollowsParent.accesskey "r">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->

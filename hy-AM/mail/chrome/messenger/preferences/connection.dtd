@@ -15,8 +15,8 @@
 <!ENTITY  manualTypeRadio.accesskey     "M">
 <!ENTITY  autoTypeRadio.label           "Պրոքսի ինքնակարգավորման URL.">
 <!ENTITY  autoTypeRadio.accesskey       "A">
-<!ENTITY  reload.label                  "Վերաբեռնել">
-<!ENTITY  reload.accesskey              "l">
+<!ENTITY  reload.label                  "Վերբեռնել">
+<!ENTITY  reload.accesskey              "բ">
 <!ENTITY  http.label                    "HTTP պրոքսի.">
 <!ENTITY  http.accesskey                "H">
 <!ENTITY  ssl.label                     "SSL պրոսքի.">

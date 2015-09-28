@@ -10,7 +10,7 @@
 <!ENTITY newGroupsTab.label           "Նոր խմբեր">
 <!ENTITY newGroupsTab.accesskey       "N">
 <!ENTITY refreshButton.label          "Թարմացնել">
-<!ENTITY refreshButton.accesskey      "R">
+<!ENTITY refreshButton.accesskey      "Թ">
 <!ENTITY stopButton.label             "Կանգնեցնել">
 <!ENTITY stopButton.accesskey         "t">
 <!ENTITY server.label                 "Փոստարկղը.">

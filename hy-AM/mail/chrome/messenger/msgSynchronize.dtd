@@ -4,20 +4,20 @@
 <!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
 
 
-<!ENTITY MsgSynchronize.label "Բեռնել և Համժ. նամակները">
+<!ENTITY MsgSynchronize.label "Ներբեռնել և համաժամեցնել նամակները">
 <!ENTITY MsgSelect.label "Անցանց օգտագործ. համար">
 <!ENTITY MsgSyncDesc.label "Եթե արդեն կան ընտրված փոստային թղթապանակներ կամ նորություններ անցանց օգտագործման համար, ապա կարող եք բեռնել կամ/և համաժամեցնել դրանք հիմա։ Օգտագործեք &quot;Select&quot; կոճակը՝ ընտրելու համար փոստային թղթապանակները և նորությունները՝ անցանց օգտագործման համար։">
-<!ENTITY MsgSyncDirections.label "Բեռնել և/կամ համաժամեցնել հետևյալը.">
+<!ENTITY MsgSyncDirections.label "Ներբեռնել և/կամ համաժամեցնել հետևյալը՝">
 <!ENTITY syncTypeMail.label "Նամակներ">
 <!ENTITY syncTypeMail.accesskey "M">
 <!ENTITY syncTypeNews.label "Լրահոսը">
 <!ENTITY syncTypeNews.accesskey "Լ">
 <!ENTITY sendMessage.label "Ուղարկել չուղարկված նամակները">
 <!ENTITY sendMessage.accesskey "S">
-<!ENTITY workOffline.label "Աշխատել անցանց՝ բեռնելուց և/կամ համաժամեցնելուց հետո">
-<!ENTITY workOffline.accesskey "W">
+<!ENTITY workOffline.label "Աշխատել անցանց՝ ներբեռնելուց և/կամ համաժամեցնելուց հետո">
+<!ENTITY workOffline.accesskey "Ա">
 <!ENTITY selectButton.label "Ընտրել...">
 <!ENTITY selectButton.accesskey "e">
 <!ENTITY MsgSelectDesc.label "Ընտրեք փոստային թղթապ. և նորությունները՝ անցանց օգտ. համար։">
-<!ENTITY MsgSelectInd.label "Բեռնել">
+<!ENTITY MsgSelectInd.label "Ներբեռնել">
 <!ENTITY MsgSelectItems.label "Թղթապ. և Նորություններ">

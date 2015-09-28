@@ -4,7 +4,7 @@
 
 <!ENTITY accountWindow.title           "Փոստարկղի հատկությունները">
 <!ENTITY accountWindow.width           "300">
-<!ENTITY account.general               "Գլխավորը">
+<!ENTITY account.general               "Գլխավոր">
 <!ENTITY account.advanced              "Ընդլայնված ընտրանքներ">
 <!ENTITY account.name                  "Մականուն.">
 <!ENTITY account.password              "Գաղտնաբառը.">

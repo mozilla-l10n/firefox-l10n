@@ -342,7 +342,7 @@
 <!ENTITY insertTOC.label          "Ներմուծել">
 <!ENTITY insertTOC.accesskey      "I">
 <!ENTITY updateTOC.label          "Թարմացնել">
-<!ENTITY updateTOC.accesskey      "U">
+<!ENTITY updateTOC.accesskey      "Թ">
 <!ENTITY removeTOC.label          "Հեռացնել">
 <!ENTITY removeTOC.accesskey      "R">
 <!ENTITY tocMenu.label            "Պարունակության աղյուսակը...">

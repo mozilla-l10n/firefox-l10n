@@ -5,14 +5,14 @@
 <!ENTITY windowTitle.label "Դաշտի հատկություններից">
 <!ENTITY windowTitleImage.label "Բլանկի նկարի հատկությունները">
 
-<!ENTITY InputType.label "Դաշտի տեսակը">
-<!ENTITY InputType.accesskey "T">
+<!ENTITY InputType.label "Դաշտի տեսակ">
+<!ENTITY InputType.accesskey "տ">
 <!ENTITY text.value "Տեքստ">
 <!ENTITY password.value "Գաղտնաբառ">
 <!ENTITY checkbox.value "Ընտրադաշտը">
-<!ENTITY radio.value "Ռադիոյի կոճակը">
-<!ENTITY submit.value "Ուղարկելու կոճակը">
-<!ENTITY reset.value "Վերակայելու կոճակը">
+<!ENTITY radio.value "Ռադիոյի կոճակ">
+<!ENTITY submit.value "Ուղարկելու կոճակ">
+<!ENTITY reset.value "Վերակայելու կոճակ">
 <!ENTITY file.value "Ֆայլ">
 <!ENTITY hidden.value "Թաքնված">
 <!ENTITY image.value "Նկար">

@@ -23,7 +23,7 @@
 
 
 <!ENTITY userDictionary.label "Անձնական բառարան">
-<!ENTITY moreDictionaries.label "Բեռնել բառարաններ...">
+<!ENTITY moreDictionaries.label "Ներբեռնել բառարաններ...">
 <!ENTITY addToUserDictionaryButton.label "Ավելացնել բառ">
 <!ENTITY addToUserDictionaryButton.accessKey "Ա">
 <!ENTITY editUserDictionaryButton.label "Խմբագրել...">

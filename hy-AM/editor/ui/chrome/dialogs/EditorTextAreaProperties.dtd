@@ -23,8 +23,8 @@
 <!ENTITY InitialText.label "Որոշված տեքստը.">
 <!ENTITY InitialText.accessKey "Ո">
 
-<!ENTITY TextAreaWrap.label "Պտտման եղանակը.">
-<!ENTITY TextAreaWrap.accessKey "Պ">
+<!ENTITY TextAreaWrap.label "Տողադարձի եղանակ.">
+<!ENTITY TextAreaWrap.accessKey "Տ">
 <!ENTITY WrapDefault.value "Հիմնական">
 <!ENTITY WrapOff.value "Անջ.">
 <!ENTITY WrapHard.value "Կոշտ">

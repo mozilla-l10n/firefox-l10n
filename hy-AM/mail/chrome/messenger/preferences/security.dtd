@@ -42,5 +42,7 @@
 <!ENTITY savedPasswords.accesskey       "S">
 <!-- Anti Virus -->
 
+<!ENTITY antiVirus.intro      "&brandShortName;-ը կարող է հեշտացնել ստացված նամակների հակավիրուսային ստուգումը՝ մինչև դրանք համակարգիչ ներբեռնելը։">
+
 
 
