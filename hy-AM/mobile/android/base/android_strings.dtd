@@ -15,6 +15,7 @@
 
 <!ENTITY  onboard_start_restricted1 "Եղեք ապահով &brandShortName;-ի պարզեցված տարբերակով:">
 
+<!ENTITY firstrun_import_title "Ներմուծել">
 <!ENTITY firstrun_import_message "Բարի գալուստ &brandShortName;">
 <!ENTITY firstrun_import_subtext "Ներմուծել էջանիշերը և պատմությունը այլ դիտարկիչից:">
 <!ENTITY firstrun_import_action "Փոխանցել &brandShortName;">
@@ -584,9 +585,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "&brandShortName;-ը արգելափակել է ոչ անվտանգ բովանդակությունը այս էջում:">
-
+<!ENTITY mixed_content_blocked_some1 "&brandShortName;-ը արգելափակել է որոշ ոչ անվտանգ բովանդակություն այս էջում:">
 <!ENTITY mixed_content_display_loaded1 "Այս էջի մասերը անվտանգ չեն (օր.՝ նկարները):">
-
+<!ENTITY mixed_content_protection_disabled1 "Դուք անջատել եք ոչ անվտանգ տարրերից պաշտպանութունը:">
 <!-- Tracking content notifications in site identity popup -->
 
 <!ENTITY doorhanger_tracking_title "Պատշտանություն հետագծումից">
@@ -604,6 +605,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Անձնական տվյալները մաքրվեցին">
 <!ENTITY private_data_fail "Անձնական որոշ տվյալներ հնարավոր չէ ջնջել">
 
+<!ENTITY bookmarkhistory_button_import "Ներմուծել">
 <!ENTITY bookmarkhistory_import_both "Էջանիշերի և Պատմության ներմուծում 
 Android-ից">
 <!ENTITY bookmarkhistory_import_bookmarks "Էջանիշերի ներմուծում 
