@@ -11,15 +11,15 @@
 <!ENTITY  onboard_start_subtext3 "Դարձրեք բջջայինով վեբ դիտարկումները իսկապես Ձերը:">
 <!ENTITY  onboard_start_button_account "Մուտք գործել &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Սկսել">
-
+<!ENTITY firstrun_button_next "Հաջորդ">
 
 <!ENTITY  onboard_start_restricted1 "Եղեք ապահով &brandShortName;-ի պարզեցված տարբերակով:">
 
 <!ENTITY firstrun_import_message "Բարի գալուստ &brandShortName;">
-
-
-
-
+<!ENTITY firstrun_import_subtext "Ներմուծել էջանիշերը և պատմությունը այլ դիտարկիչից:">
+<!ENTITY firstrun_import_action "Փոխանցել &brandShortName;">
+<!ENTITY firstrun_import_dialog_button "Փոխանցել">
+<!ENTITY firstrun_import_progress_title "Փոխանցում է">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -64,9 +64,9 @@
 
 <!ENTITY history_today_section "Այսօր">
 <!ENTITY history_yesterday_section "Երեկ">
-
-
-
+<!ENTITY history_week_section3 "Վերջին 7 օրում">
+<!ENTITY history_this_month_section "Այս ամիս">
+<!ENTITY history_older_section3 "6 ամսից շուտ">
 
 <!ENTITY go "Առաջ">
 <!ENTITY search "Որոնում">
@@ -96,6 +96,7 @@
      &formatS; will be replaced with the title of the tab, as received from the
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "Ձայնանյութի նվագարկում՝ &formatS;">
 
 <!ENTITY settings "Կարգավորումներ">
 <!ENTITY settings_title "Կարգավորումներ">
@@ -197,9 +198,9 @@
 <!ENTITY pref_home_updates_wifi "Միայն Wi-Fi-ով">
 <!ENTITY pref_home_suggested_sites "Ցուցադրել կայքի առաջարկները">
 <!ENTITY pref_home_suggested_sites_summary "Ցուցադրե՞լ էկրանին այն կայքերի կարճատները, որոնք կարող են Ձեզ հետաքրքրել:">
-
-
-
+<!ENTITY pref_category_home_homepage "Տնային էջ">
+<!ENTITY home_homepage_title "Նշել որպես տնային էջ">
+<!ENTITY home_homepage_use_current_tab "Օգտ. ընթացիկ ներդիրը">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Կարգավորումներ">
@@ -364,7 +365,7 @@ size. -->
 <!ENTITY share_title "Տարածել՝">
 <!ENTITY share_image_failed "Հնարավոր չեղավ տարածել այս նկարը">
 <!ENTITY save_as_pdf "Պահպանել որպես PDF">
-
+<!ENTITY print "Տպել">
 <!ENTITY find_in_page "Գտնել էջում">
 <!ENTITY desktop_mode "Ամբողջական կայքը">
 <!ENTITY page "Էջը">
@@ -384,7 +385,7 @@ size. -->
 
 <!ENTITY find_text "Գտնել էջում">
 <!ENTITY find_prev "Նախորդը">
-
+<!ENTITY find_next "Հաջորդ">
 <!ENTITY find_close "Փակել">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -409,8 +410,8 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Ամրացնել կայքը">
 <!ENTITY contextmenu_top_sites_unpin "Ապամրացնել կայքը">
 <!ENTITY contextmenu_add_search_engine "Ավելացնել որոնողական հանգույց">
-
-
+<!ENTITY contextmenu_mark_read "Նշել որպես ընթերցված">
+<!ENTITY contextmenu_mark_unread "Նշել որպես չընթերցված">
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
@@ -433,6 +434,8 @@ size. -->
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
+<!ENTITY pref_magnifying_glass_enabled "Խոշորացնել փոքր հատվածը">
+<!ENTITY pref_magnifying_glass_enabled_summary "Ընդլայնել հղումները և ձևի դաշտերը՝ նրանց մոտ մուտքագրելիս">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -580,7 +583,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_insecure "Ոչ անվտանգ կապակցում">
 <!-- Mixed content notifications in site identity popup -->
 
+<!ENTITY mixed_content_blocked_all1 "&brandShortName;-ը արգելափակել է ոչ անվտանգ բովանդակությունը այս էջում:">
 
+<!ENTITY mixed_content_display_loaded1 "Այս էջի մասերը անվտանգ չեն (օր.՝ նկարները):">
 
 <!-- Tracking content notifications in site identity popup -->
 
@@ -714,10 +719,17 @@ Android-ից">
 <!ENTITY restriction_disallow_guest_browsing_title2 "Անջատել Հյուրի դիտարկումը">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
+
+<!ENTITY bookmarks_title "Բջջային">
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!ENTITY bookmarks_about_browser "Firefox. Ձեր դիտարկիչի մասին">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "Firefox. Հարմարեցնել հավելումներով">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "Firefox. Աջակցում">
 <!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
 <!ENTITY bookmarks_marketplace "Firefox Marketplace">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!ENTITY bookmarks_restricted_support2 "Firefox-ի օգնությունը և աջակցումը՝ Անդրոիդ թաբլեթներում սահմանափակված պրոֆիլների համար">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!ENTITY bookmarks_restricted_webmaker "Սովորեք վեբը՝ Mozilla Webmaker">
