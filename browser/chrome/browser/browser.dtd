@@ -112,6 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignIn.label "Увійти в Синхронізацію">
 <!ENTITY fxaSignedIn.tooltip "Відкрити налаштування синхронізації">
 <!ENTITY fxaSignInError.label "Повторно підключитись до Синхронізації">
+<!ENTITY fxaUnverified.label "Підтвердити свій обліковий запис">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; увімкнена">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; почне синхронізацію негайно.">
 
@@ -129,9 +130,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      respectively before and after the domain requiring fullscreen.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
+<!ENTITY fullscreenWarning.beforeDomain.label "">
+<!ENTITY fullscreenWarning.afterDomain.label "тепер у повноекранному режимі">
+<!ENTITY fullscreenWarning.generic.label "Цей документ тепер у повноекранному режимі">
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
+<!ENTITY exitDOMFullscreen.button "Вийти з повноекранного режиму (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "Вийти з повноекранного режиму (esc)">
 <!ENTITY leaveDOMFullScreen.label "Вийти з повноекранного режиму">
 <!ENTITY leaveDOMFullScreen.accesskey "В">
 
@@ -400,8 +406,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Чи бажаєте покращити свій пошук з пошуковими пропозиціями?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Докладніше…">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "о">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Ні">
+<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "Н">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Так">
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "Т">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -458,6 +467,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Налаштувати пошук">
 
+<!ENTITY searchInNewTab.label         "Пошук в новій вкладці">
+<!ENTITY searchInNewTab.accesskey     "в">
+<!ENTITY searchSetAsDefault.label     "Встановити типовим засобом пошуку">
+<!ENTITY searchSetAsDefault.accesskey "т">
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -692,7 +705,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Захищене з'єднання">
 <!ENTITY identity.connectionNotSecure "Незахищене з'єднання">
 <!ENTITY identity.connectionFile "Ця сторінка збережена на вашому комп'ютері.">
+<!ENTITY identity.connectionVerified1 "Ви підключились через захищене з'єднання до цього сайту, яке керується:">
 <!ENTITY identity.connectionInternal "Це захищена сторінка &brandShortName;.">
+<!ENTITY identity.insecureLoginForms "Ваш вхід може бути скомпрометований.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; заблокував частини вмісту цієї сторінки, які не є безпечними.">
@@ -702,6 +717,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Strings for connection state warnings in the subview. -->
 <!ENTITY identity.description.insecure "Ваше з'єднання з цим сайтом не є приватним. Інформація, яку ви відправляєте може бути переглянута іншими (наприклад, паролі, повідомлення, дані кредитних карт та ін.).">
+<!ENTITY identity.description.insecureLoginForms "Інформація входу, яку ви вводите на цій сторінці не захищена і може бути скомпрометована.">
 <!ENTITY identity.description.weakCipher "Ваше з'єднання з цим веб-сайтом використовує слабке шифрування і не є приватним.">
 <!ENTITY identity.description.weakCipher2 "Інші люди можуть переглядати вашу інформацію чи змінювати поведінку веб-сайту.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; заблокував частини вмісту цієї сторінки, які не є безпечними.">
@@ -720,6 +736,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.moreInfoLinkText2 "Докладніше">
 
 <!ENTITY identity.permissions "Дозволи">
+<!ENTITY identity.permissionsEmpty "Ви не надали цьому сайту жодних спеціальних дозволів.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -730,6 +747,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "Синхронізація">
 
+<!ENTITY syncSignIn.label             "Увійти в Синхронізацію…">
+<!ENTITY syncSignIn.accesskey         "У">
 <!ENTITY syncSyncNowItem.label        "Синхронізувати зараз">
 <!ENTITY syncSyncNowItem.accesskey    "С">
 <!ENTITY syncReAuthItem.label         "Перепідключитись до Синхронізації…">
