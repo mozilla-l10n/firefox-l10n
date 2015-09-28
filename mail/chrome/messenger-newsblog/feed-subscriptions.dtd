@@ -30,7 +30,7 @@
 <!ENTITY button.addFeed.label        "Ավելացնել">
 <!ENTITY button.addFeed.accesskey    "A">
 <!ENTITY button.editFeed.label       "Թարմացնել">
-<!ENTITY button.editFeed.accesskey   "U">
+<!ENTITY button.editFeed.accesskey   "Թ">
 <!ENTITY button.removeFeed.label     "Հեռացնել">
 <!ENTITY button.removeFeed.accesskey "R">
 <!ENTITY button.importOPML.label     "Ներմուծել">

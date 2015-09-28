@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
    
-<!ENTITY renameFolderDialog.title          "Անվանափոխել.">
+<!ENTITY renameFolderDialog.title          "Վերանվանել թղթապանակը.">
 <!ENTITY rename.label                      "Նշեք թղթապանակի նոր անունը.">
 <!ENTITY rename.accesskey                  "E">
-<!ENTITY accept.label                      "Անվանափոխել">
-<!ENTITY accept.accesskey                  "R">
+<!ENTITY accept.label                      "Վերանվանել">
+<!ENTITY accept.accesskey                  "Վ">

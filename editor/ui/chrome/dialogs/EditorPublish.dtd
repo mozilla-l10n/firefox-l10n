@@ -16,7 +16,7 @@
 <!ENTITY newSiteButton.label          "Նոր կայք">
 <!ENTITY newSiteButton.accesskey      "N">
 <!ENTITY docDirList.label             "Կայքի ենթաթղթապանակը այս էջի համար.">
-<!ENTITY docDirList.accesskey         "S">
+<!ENTITY docDirList.accesskey         "Կ">
 <!ENTITY docDirList.tooltip           "Ընտրեք կամ նշեք հեռակա ենթաթղթապանակի անունը այս էջի համար">
 <!ENTITY publishImgCheckbox.label     "Ներառել նկարներ և այլ ֆայլեր">
 <!ENTITY publishImgCheckbox.accesskey "o">
@@ -25,7 +25,7 @@
 <!ENTITY sameLocationRadio.accesskey  "U">
 <!ENTITY sameLocationRadio.tooltip    "Հրապարակել ֆայլեր նույն տեղում, ինչում որ այս էջն է">
 <!ENTITY useSubdirRadio.label         "Օգտագործել այս կայքի ենթաթղթապանակը.">
-<!ENTITY useSubdirRadio.accesskey     "d">
+<!ENTITY useSubdirRadio.accesskey     "թ">
 <!ENTITY useSubdirRadio.tooltip       "Հրապարակել ֆայլերը ընտրված հեռակա ենթաթղթապանակներում">
 <!ENTITY otherDirList.tooltip         "Ընտրեք կամ նշեք հեռակա ենթաթղթապանակի անունը, որտեղ ֆայլերը կհրապարակ">
 <!ENTITY pageTitle.label              "Էջի անունը.">

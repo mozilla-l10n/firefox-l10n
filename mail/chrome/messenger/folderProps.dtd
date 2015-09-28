@@ -22,8 +22,8 @@
 <!ENTITY daysOld.label "օրվա է">
 <!ENTITY message.label "նամակներ">
 <!ENTITY retentionCleanup.label "Ազատ տեղ բացելու համար՝ ջնջեք հին նամակները։">
-<!ENTITY retentionCleanupImap.label "Ազատ տեղ բացելու համար՝ ջնջեք հին նամակները և՛ լոկալ պատճեները և օրիգինալները հեռակա սպասարկիչում։">
-<!ENTITY retentionCleanupPop.label "Ազատ տեղ բացելու համար՝ ջնջեք հին նամակները և՛ լոկալ պատճեները և օրիգինալները հեռակա սպասարկիչում։">
+<!ENTITY retentionCleanupImap.label "Ազատ տեղ բացելու համար ջնջեք հին նամակները՝ և՛ տեղային պատճեները և՛ բնօրինակները հեռակա սպասարկիչում։">
+<!ENTITY retentionCleanupPop.label "Ազատ տեղ բացելու համար ջնջեք հին նամակները՝ նաև բնօրինակները հեռակա սպասարկիչում։">
 <!ENTITY retentionDeleteMsg.label "Ջնջել նամակները, որոնք՝">
 <!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Չջնջել որևէ նամակ">
@@ -41,13 +41,13 @@
 
 <!ENTITY offlineFolder.check.label               "Ընտրել այս թղթապանակը «Ցանցից դուրս»-ի համար">
 <!ENTITY offlineFolder.check.accesskey           "S">
-<!ENTITY offlineFolder.button.label              "Բեռնել">
-<!ENTITY offlineFolder.button.accesskey          "D">
+<!ENTITY offlineFolder.button.label              "Ներբեռնել">
+<!ENTITY offlineFolder.button.accesskey          "Ն">
 
 <!ENTITY selectofflineNewsgroup.check.label      "Ընտրել այս նորությունները «Ցանցից դուրս»-ի համար">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "o">
-<!ENTITY offlineNewsgroup.button.label           "Բեռնել">
-<!ENTITY offlineNewsgroup.button.accesskey       "D">
+<!ENTITY offlineNewsgroup.button.label           "Ներբեռնել">
+<!ENTITY offlineNewsgroup.button.accesskey       "Ն">
 
 <!ENTITY folderProps.name.label                  "Անունը.">
 <!ENTITY folderProps.name.accesskey              "N">
@@ -63,7 +63,7 @@
 <!ENTITY folderQuotaTab.label                    "Մեջբերում">
 <!ENTITY folderQuotaRoot.label                   "Մեջբերման հիմքը.">
 <!ENTITY folderQuotaUsage.label                  "Օգտագործումը.">
-<!ENTITY folderQuotaStatus.label                 "Վիճակը.">
+<!ENTITY folderQuotaStatus.label                 "Վիճակ.">
 
 <!ENTITY numberOfMessages.label                  "Նամակների քանակը.">
 <!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->

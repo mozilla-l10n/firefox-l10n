@@ -115,10 +115,10 @@
 <!ENTITY serverNamePrefix.label "Մուտքային սպասարկիչի անունը.">
 <!ENTITY smtpServerNamePrefix.label "Ելքային սպասարկիչի անունը (SMTP).">
 <!ENTITY newsServerNamePrefix.label "Նորությունների սպասարկիչի անունը (NNTP).">
-<!ENTITY downloadOnLogin.label "Բեռնել նամակները">
-<!ENTITY downloadOnLogin.accesskey "D">
+<!ENTITY downloadOnLogin.label "Ներբեռնել նամակները">
+<!ENTITY downloadOnLogin.accesskey "Ն">
 <!ENTITY deferStorageDesc.label "Հանեք ընտրումը՝ այս փոստարկղի նամակը խմբավորելու համար իր թղթապանակում։ Այս փոստարկղը կերևա ամենավերևում։ Այն կլինի Local Folders Global Մուտքայինի մի մասնիկը։">
-<!ENTITY deferStorage.label "Օգտ. Հիմնական Մուտքայինները (պահել նամակները Լոկալ թղթապանակում)։">
-<!ENTITY deferStorage.accesskey "G">
+<!ENTITY deferStorage.label "Օգտ. Հիմնական Մուտքայինները (պահել նամակները տեղային թղթապանակում)։">
+<!ENTITY deferStorage.accesskey "Հ">
 <!ENTITY clickFinish.label "Սեղմեք Ավարտել՝ պահպանելու համար կարգավորումները և փակելու համար Օգնականը։">
 <!ENTITY clickFinish.labelMac "Սեղմեք Պատրաստ է՝ պահպանելու համար կարգավորումները և փակելու համար Օգնականը։">

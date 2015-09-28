@@ -76,7 +76,7 @@
      try to make the localized text short (see bug 596813 for screenshots). -->
 
 <!ENTITY update.manual.start        "Ներբեռնել՝">
-<!ENTITY update.manual.linkText     "վերջին տարբերակը">
+<!ENTITY update.manual.linkText     "վերջին տարբերակ">
 <!ENTITY update.manual.end          "">
 <!-- LOCALIZATION NOTE (update.unsupported.start,update.unsupported.linkText,update.unsupported.end):
      update.unsupported.start, update.unsupported.linkText, and

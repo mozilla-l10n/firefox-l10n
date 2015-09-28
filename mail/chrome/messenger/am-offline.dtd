@@ -4,12 +4,12 @@
 
 <!ENTITY doNotDownloadPop3Movemail.label "Ազատ տեղ ունենալու համար մի ներբեռնեք.">
 <!ENTITY doNotDownloadNntp.label "Ազատ տեղ ունենալու համար մի ներբեռնեք նամակները.">
-<!ENTITY doNotDownloadImap.label "Ազատ տեղ ունենալու համար նամակների բեռնումը սպասարկիչից և լոկալ օրինակների պահումը՝ ցանցից դուրս օգտ. համար կարող է սահմանափակել ըստ ժամկետի կամ չափի։">
+<!ENTITY doNotDownloadImap.label "Ազատ տեղ ունենալու համար նամակների բեռնումը սպասարկիչից և տեղային օրինակների պահումը՝ ցանցից դուրս օգտ. համար կարող է սահմանափակել ըստ ժամկետի կամ չափի։">
 <!ENTITY allFoldersOffline.label "Պահել այս փոստարկղի նամակները համակարգչում">
 <!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY offlineNotDownload.label "Նամակներ, որոնք մեծ են՝">
 <!ENTITY offlineNotDownload.accesskey "M">
-<!ENTITY autosyncNotDownload.label "Չբեռնել նամակներ, որոնք մեծ են՝">
+<!ENTITY autosyncNotDownload.label "Չներբեռնել նամակներ, որոնք մեծ են՝">
 <!ENTITY autosyncNotDownload.accesskey "m">
 <!ENTITY kb.label "ԿԲ">
 <!ENTITY daysOld.label "օրվա են">
@@ -19,8 +19,8 @@
 <!ENTITY nntpDownloadMsg.label "Նամակներ ավելի քան՝">
 <!ENTITY nntpDownloadMsg.accesskey "e">
 <!ENTITY retentionCleanup.label "Ազատ տեղ բացելու համար՝ ջնջեք հին նամակները։">
-<!ENTITY retentionCleanupImap.label "Ազատ տեղ բացելու համար՝ հին նամակները կարող եք ջնջել՝ և՛ լոկալ պատճեները և օրիգինալները հեռակա սպասարկիչում։">
-<!ENTITY retentionCleanupPop.label "Ազատ տեղ բացելու համար՝ կարող եք ջնջվել հին նամակները՝ ներառյալ օրիգինալները հեռակա սպասարկիչում։">
+<!ENTITY retentionCleanupImap.label "Ազատ տեղ բացելու համար ջնջեք հին նամակները՝ և՛ տեղային պատճեները և՛ բնօրինակները հեռակա սպասարկիչում։">
+<!ENTITY retentionCleanupPop.label "Ազատ տեղ բացելու համար կարող եք ջնջվել հին նամակները՝ ներառյալ բնօրինակները հեռակա սպասարկիչում։">
 <!ENTITY retentionKeepMsg.label "Ջնջել նամակները, որոնք՝">
 <!ENTITY retentionKeepMsg.accesskey "t">
 <!ENTITY retentionKeepAll.label "Չջնջել որևէ նամակ">

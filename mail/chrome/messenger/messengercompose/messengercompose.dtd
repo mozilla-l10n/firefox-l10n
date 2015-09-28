@@ -83,8 +83,8 @@
 <!ENTITY deleteCmd.accesskey "D">
 <!ENTITY editRewrapCmd.label "Տողադարձ">
 <!ENTITY editRewrapCmd.key "Վ">
-<!ENTITY renameAttachmentCmd.label "Անվանափոխել կցորդը...">
-<!ENTITY renameAttachmentCmd.accesskey "Ա">
+<!ENTITY renameAttachmentCmd.label "Վերանվանել կցորդը...">
+<!ENTITY renameAttachmentCmd.accesskey "ե">
 <!ENTITY selectAllCmd.label "Ընտրել բոլորը">
 <!ENTITY selectAllCmd.key "Ը">
 <!ENTITY selectAllCmd.accesskey "A">
@@ -282,8 +282,8 @@
 <!ENTITY delete.accesskey "D">
 <!ENTITY removeAttachment.label "Ջնջել կցորդը">
 <!ENTITY removeAttachment.accesskey "m">
-<!ENTITY renameAttachment.label "Անվանափոխել...">
-<!ENTITY renameAttachment.accesskey "R">
+<!ENTITY renameAttachment.label "Վերանվանել...">
+<!ENTITY renameAttachment.accesskey "Վ">
 <!ENTITY selectAll.label "Ընտրել բոլորը">
 <!ENTITY selectAll.accesskey "A">
 <!ENTITY attachFile.label "Կցել ֆայլեր...">

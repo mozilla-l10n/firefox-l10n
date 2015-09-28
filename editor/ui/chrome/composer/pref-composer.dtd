@@ -12,8 +12,8 @@
 <!ENTITY  documentsInMenu.label         "Էջերի առավելագույն քանակը.">
 <!ENTITY  documentsInMenu.accesskey     "n">
 <!ENTITY  savingFiles.title             "Էջերը պահպանելիս կամ հրապարակելիս">
-<!ENTITY  preserveExisting.label        "Պահել օրիգինալ ձևը">
-<!ENTITY  preserveExisting.accesskey    "P">
+<!ENTITY  preserveExisting.label        "Պահպանել աղբյուրի բնօրինակ ձևաչափումը">
+<!ENTITY  preserveExisting.accesskey    "Պ">
 <!ENTITY  preserveExisting.tooltip      "Պահում է գծատողերը և էջի իսկական տեսքը">
 <!ENTITY  saveAssociatedFiles.label     "Էջերը պահպանելիս պահպանել նկարները և այլ ասոցիացված ֆայլերը">
 <!ENTITY  saveAssociatedFiles.accesskey "S">

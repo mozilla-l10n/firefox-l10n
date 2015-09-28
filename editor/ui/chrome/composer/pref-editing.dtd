@@ -4,8 +4,8 @@
 
 <!ENTITY  pref.editing.title        "Նոր էջի կարգավորում">
 
-<!ENTITY  authorName.label          "Հեղինակը.">
-<!ENTITY  authorName.accesskey      "u">
+<!ENTITY  authorName.label          "Հեղինակ.">
+<!ENTITY  authorName.accesskey      "ե">
 <!ENTITY  pageColorHeader           "Հիմնական էջի տեսքը">
 
 <!ENTITY defaultColors.label        "Հիմնական գույները (Չնշել գույները էջում)">

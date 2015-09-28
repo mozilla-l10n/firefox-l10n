@@ -40,10 +40,10 @@
 <!ENTITY daysEnd.label "օր">
 <!ENTITY deleteOnServer2.label "Մինչ ես կջնջեմ դրանք">
 <!ENTITY deleteOnServer2.accesskey "d">
-<!ENTITY downloadOnBiff.label "Միանգամից բեռնել նոր նամակները">
-<!ENTITY downloadOnBiff.accesskey "m">
+<!ENTITY downloadOnBiff.label "Միանգամից ներբեռնել նոր նամակները">
+<!ENTITY downloadOnBiff.accesskey "գ">
 <!ENTITY username.label "Ձեր մականունը">
-<!ENTITY deleteMessagePrefix.label "Նամակը ջնջելիս.">
+<!ENTITY deleteMessagePrefix.label "Երբ ես ջնջում եմ նամակը՝">
 <!ENTITY modelMoveToTrash.label "Տեղափոխել այս թղթապանակ՝">
 <!ENTITY modelMoveToTrash.accesskey "o">
 <!ENTITY modelMarkDeleted.label "Նշել որպես ջնջված">
@@ -61,8 +61,8 @@
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
    of messages between them
 -->
-<!ENTITY maxMessagesStart.label "Հարցնել ավելի քան բեռնելիս՝">
-<!ENTITY maxMessagesStart.accesskey "m">
+<!ENTITY maxMessagesStart.label "Հարցնել ինձ՝ ներբեռնելիս ավելի քան՝">
+<!ENTITY maxMessagesStart.accesskey "ի">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "նամակներ">
 <!ENTITY alwaysAuthenticate.label "Սպասարկիչին կապակցելիս միշտ պահանջել իսկորոշում">
@@ -75,8 +75,8 @@
 <!ENTITY advancedButton.label "Ընդլայնված...">
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY serverDefaultCharset2.label "Հիմնական Կոդավորում.">
-<!ENTITY localPath.label "Լոկալ թղթապանակը.">
-<!ENTITY localFolderPicker.label "Ընտրեք լոկալ թղթապանակը">
+<!ENTITY localPath.label "Տեղային թղթապանակ.">
+<!ENTITY localFolderPicker.label "Ընտրեք տեղային թղթապանակը">
 <!ENTITY browseFolder.label "Browse…">
 <!ENTITY browseFolder.accesskey "B">
 <!ENTITY browseNewsrc.label "Ընտրել…">
@@ -84,7 +84,7 @@
 
 <!ENTITY accountTitle.label "Փոստարկղի կարգավորումներ">
 <!ENTITY accountSettingsDesc.label "Սա հատուկ փոստարկղ է։ Չկան որոշակի ասոցիացումներ։">
-<!ENTITY storeType.label "Նամակները պահելու եղանակը">
+<!ENTITY storeType.label "Նամակները պահելու եղանակը.">
 <!ENTITY storeType.accesskey "ե">
 <!ENTITY mboxStore2.label "Ֆայլ թղթապանակում (mbox)">
 <!ENTITY maildirStore.label "Ֆայլ ամեն նամակի համար (maildir)">

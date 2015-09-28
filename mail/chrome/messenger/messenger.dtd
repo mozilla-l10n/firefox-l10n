@@ -59,8 +59,8 @@
 <!ENTITY subscribeCmd.accesskey "b">
 <!ENTITY deleteFolder.label "Ջնջել">
 <!ENTITY deleteFolder.accesskey "e">
-<!ENTITY renameFolder.label "Անվանափոխել…">
-<!ENTITY renameFolder.accesskey "R">
+<!ENTITY renameFolder.label "Վերանվանել թղթապանակը…">
+<!ENTITY renameFolder.accesskey "Վ">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Սեղմել թղթապանակները">
 <!ENTITY compactFolders.accesskey    "F">
@@ -70,12 +70,12 @@
 <!ENTITY offlineMenu.accesskey "l">
 <!ENTITY offlineGoOfflineCmd.label "Աշխատել անցանց">
 <!ENTITY offlineGoOfflineCmd.accesskey "W">
-<!ENTITY synchronizeOfflineCmd.label "Բեռնել/Համաժամեցնել">
-<!ENTITY synchronizeOfflineCmd.accesskey "S">
+<!ENTITY synchronizeOfflineCmd.label "Ներբեռնել/Համաժամեցնել...">
+<!ENTITY synchronizeOfflineCmd.accesskey "Հ">
 <!ENTITY settingsOfflineCmd2.label "Անցանցի կարգավորումներ...">
 <!ENTITY settingsOfflineCmd2.accesskey "ց">
-<!ENTITY downloadSelectedCmd.label "Բեռնել ընտրվածները">
-<!ENTITY downloadSelectedCmd.accesskey "l">
+<!ENTITY downloadSelectedCmd.label "Ներբեռնել ընտրվածները">
+<!ENTITY downloadSelectedCmd.accesskey "վ">
 <!ENTITY downloadStarredCmd.label "Ստանալ աստղիկով նամակները">
 <!ENTITY downloadStarredCmd.accesskey "a">
 <!ENTITY printCmd.label "Տպել…">
@@ -147,8 +147,8 @@
 <!ENTITY showFolderPaneCmd.accesskey "Թ">
 <!ENTITY showFolderPaneColsCmd.label "Թղթապանակի վահանակի սյուներ">
 <!ENTITY showFolderPaneColsCmd.accesskey "վ">
-<!ENTITY showMessageCmd.label "Նամակի վահանակը">
-<!ENTITY showMessageCmd.accesskey "M">
+<!ENTITY showMessageCmd.label "Նամակի վահանակ">
+<!ENTITY showMessageCmd.accesskey "Ն">
 
 <!ENTITY folderView.label "Թղթապ.">
 <!ENTITY folderView.accesskey "F">
@@ -180,12 +180,12 @@
 <!ENTITY sortByPriorityCmd.accesskey "Ա">
 <!ENTITY sortBySizeCmd.label "Չափը">
 <!ENTITY sortBySizeCmd.accesskey "z">
-<!ENTITY sortByStatusCmd.label "Վիճակը">
-<!ENTITY sortByStatusCmd.accesskey "u">
+<!ENTITY sortByStatusCmd.label "Վիճակ">
+<!ENTITY sortByStatusCmd.accesskey "ա">
 <!ENTITY sortByTagsCmd.label "Պիտակներ">
 <!ENTITY sortByTagsCmd.accesskey "g">
-<!ENTITY sortByJunkStatusCmd.label "Թափոնի վիճակը">
-<!ENTITY sortByJunkStatusCmd.accesskey "J">
+<!ENTITY sortByJunkStatusCmd.label "Թափոնի վիճակ">
+<!ENTITY sortByJunkStatusCmd.accesskey "Թ">
 <!ENTITY sortBySubjectCmd.label "Վերնագիրը">
 <!ENTITY sortBySubjectCmd.accesskey "b">
 <!ENTITY sortByFromCmd.label "Ումից">
@@ -237,7 +237,7 @@
 <!ENTITY headersNormalCmd.accesskey "N">
 <!ENTITY bodyMenu.label "Նամակի տեքստը ըստ">
 <!ENTITY bodyMenu.accesskey "B">
-<!ENTITY bodyAllowHTML.label "Օրիգինալ HTML">
+<!ENTITY bodyAllowHTML.label "Բնօրինակ HTML">
 <!ENTITY bodyAllowHTML.accesskey "H">
 <!ENTITY bodySanitized.label "Պարզ HTML">
 <!ENTITY bodySanitized.accesskey "S">
@@ -335,7 +335,7 @@
 <!ENTITY archiveMsgCmd.accesskey "A">
 <!ENTITY archiveMsgCmd.key  "Ա">
 <!ENTITY cancelNewsMsgCmd.label "Չեղարկել նամակը">
-<!ENTITY cancelNewsMsgCmd.accesskey "C">
+<!ENTITY cancelNewsMsgCmd.accesskey "Չ">
 <!ENTITY replyMsgCmd.label "Պատասխանել">
 <!ENTITY replyMsgCmd.accesskey "R">
 <!ENTITY replyMsgCmd.key  "Պ">
@@ -423,7 +423,7 @@
 <!ENTITY recalculateJunkScoreCmd.label "Բացել թափոնի կառավարումը">
 <!ENTITY recalculateJunkScoreCmd.accesskey "C">
 <!ENTITY openMessageWindowCmd.label "Բացել նամակը">
-<!ENTITY openMessageWindowCmd.accesskey "O">
+<!ENTITY openMessageWindowCmd.accesskey "Բ">
 <!ENTITY openMessageWindowCmd.key "Բ">
 <!ENTITY openConversationCmd.label "Բացել պատուհանով">
 <!ENTITY openConversationCmd.accesskey "s">
@@ -611,8 +611,8 @@
 <!ENTITY folderContextOpenNewTab.accesskey "ն">
 <!ENTITY folderContextNew.label "Նոր ենթաթղթապանակ...">
 <!ENTITY folderContextNew.accesskey "N">
-<!ENTITY folderContextRename.label "Անվանափոխել">
-<!ENTITY folderContextRename.accesskey "R">
+<!ENTITY folderContextRename.label "Վերանվանել ">
+<!ENTITY folderContextRename.accesskey "Վ">
 <!ENTITY folderContextRemove.label "Ջնջել">
 <!ENTITY folderContextRemove.accesskey "D">
 <!ENTITY folderContextCompact.label "Սեղմել">
@@ -666,7 +666,7 @@
 <!ENTITY priorityColumn.label "Առաջնահերթ-ը">
 <!ENTITY tagsColumn.label "Պիտակ">
 <!ENTITY accountColumn.label "Փոստարկղ">
-<!ENTITY statusColumn.label "Վիճակը">
+<!ENTITY statusColumn.label "Վիճակ">
 <!ENTITY sizeColumn.label "Չափը">
 <!ENTITY junkStatusColumn.label "Թափոնի վիճակը">
 <!ENTITY unreadColumn.label "Չընթերցված">

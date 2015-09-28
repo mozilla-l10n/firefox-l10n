@@ -2,15 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY securityTitle.label "Անվտանգությունը">
-<!ENTITY securityTab.label "Անվտանգությունը">
+<!ENTITY securityTitle.label "Անվտանգություն">
+<!ENTITY securityTab.label "Անվտանգություն">
 <!ENTITY securityHeading.label "Ուղարկելու և ստանալու համար ստորագրված կամ կոդավորված նամակներ, նախ պետք է որոշեք թվային ստորագրության հավաստագիրը և կոդավորված հավաստագիրը։">
 <!ENTITY encryptionGroupTitle.label "Կոդավորված">
-<!ENTITY encryptionChoiceLabel.label "Նամակը ուղարկելիս ծրագրային կոդավորումը">
+<!ENTITY encryptionChoiceLabel.label "Նամակը ուղարկելիս ծրագրային կոդավորումը.">
 <!ENTITY neverEncrypt.label "Երբեք (չօգտագործել կոդավորում)">
 <!ENTITY neverEncrypt.accesskey "N">
-<!ENTITY alwaysEncryptMessage.label "Պահանջվում է (չի կարող ուղարկել նամակը, քանի դեռ բոլոր ստացողները չունեն հավաստագրեր)">
-<!ENTITY alwaysEncryptMessage.accesskey "u">
+<!ENTITY alwaysEncryptMessage.label "Պարտադիր է (չի կարող ուղարկել նամակը, քանի դեռ բոլոր ստացողները չունեն հավաստագրեր)">
+<!ENTITY alwaysEncryptMessage.accesskey "դ">
 <!ENTITY encryptionCert.message "Օգտ. այս հավաստագիրը՝ այլագրելու և ապաայլագրելու համար Ձեզ ուարկված նամակները.">
 <!ENTITY digitalSign.certificate.button "Ընտրել...">
 <!ENTITY digitalSign.certificate.accesskey "Ը">
