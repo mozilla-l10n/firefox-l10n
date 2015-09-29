@@ -28,6 +28,14 @@
 <!ENTITY inspectorScrollNodeIntoView.accesskey "S">
 <!ENTITY inspectorHTMLDelete.label "Elimina nodo">
 <!ENTITY inspectorHTMLDelete.accesskey "E">
+<!ENTITY inspectorAttributeSubmenu.label "Attributo">
+<!ENTITY inspectorAttributeSubmenu.accesskey "A">
+<!ENTITY inspectorAddAttribute.label "Aggiungi attributo">
+<!ENTITY inspectorAddAttribute.accesskey "A">
+<!ENTITY inspectorEditAttribute.label "Modifica attributo">
+<!ENTITY inspectorEditAttribute.accesskey "M">
+<!ENTITY inspectorRemoveAttribute.label "Elimina attributo">
+<!ENTITY inspectorRemoveAttribute.accesskey "E">
 <!ENTITY inspector.selectButton.tooltip "Seleziona un elemento con il mouse">
 <!ENTITY inspectorSearchHTML.label2 "Cerca selettore CSS">
 <!ENTITY inspectorSearchHTML.key "F">
