@@ -38,3 +38,4 @@
 <!ENTITY inspectorExpandNode.label "Espandi tutto">
 <!ENTITY inspectorCollapseNode.label "Comprimi">
 <!ENTITY inspectorScreenshotNode.label "Salva una schermata del nodo">
+<!ENTITY inspectorDuplicateNode.label "Duplica nodo">
