@@ -112,7 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignIn.label "Hasi saioa &syncBrand.shortName.label;(e)n">
 <!ENTITY fxaSignedIn.tooltip "Ireki &syncBrand.shortName.label; hobespenak">
 <!ENTITY fxaSignInError.label "Birkonektatu &syncBrand.shortName.label;(e)ra">
-
+<!ENTITY fxaUnverified.label "Egiaztatu zure kontua">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; gaituta">
 <!ENTITY syncStartPanel2.subTitle "Une batetik bestera hasiko da sinkronizatzen &brandShortName;.">
 
@@ -131,12 +131,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY fullscreenWarning.beforeDomain.label "">
-
-
+<!ENTITY fullscreenWarning.afterDomain.label "pantaila osoan dago orain">
+<!ENTITY fullscreenWarning.generic.label "Dokumentua pantaila osoan dago orain">
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
-
+<!ENTITY exitDOMFullscreen.button "Irten pantaila osotik (Esk)">
+<!ENTITY exitDOMFullscreenMac.button "Irten pantaila osotik (esk)">
 <!ENTITY leaveDOMFullScreen.label "Irten pantaila osotik">
 <!ENTITY leaveDOMFullScreen.accesskey "s">
 
@@ -222,7 +223,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "Deskargak">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
-
+<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Gehigarriak">
 <!ENTITY addons.accesskey             "G">
 <!ENTITY addons.commandkey            "A">
@@ -466,9 +467,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Aldatu bilaketa-ezarpenak">
 
-
-
-
+<!ENTITY searchInNewTab.label         "Bilatu fitxa berrian">
+<!ENTITY searchInNewTab.accesskey     "f">
+<!ENTITY searchSetAsDefault.label     "Ezarri bilaketa-motor lehenetsi gisa">
+<!ENTITY searchSetAsDefault.accesskey "h">
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -704,7 +706,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Konexio segurua">
 <!ENTITY identity.connectionNotSecure "Konexioa ez da segurua">
 <!ENTITY identity.connectionFile "Orri hau zure ordenagailuan biltegiratuta dago.">
-
+<!ENTITY identity.connectionVerified1 "Modu seguruan zaude konektatuta gune honetara. Arduraduna:">
 <!ENTITY identity.connectionInternal "&brandShortName; orri segurua da hau.">
 
 <!-- Strings for connection state warnings. -->
@@ -746,7 +748,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
-
+<!ENTITY syncSignIn.label             "Hasi saioa &syncBrand.shortName.label;(e)n…">
+<!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "Sinkronizatu orain">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Birkonektatu &syncBrand.shortName.label;(e)ra">

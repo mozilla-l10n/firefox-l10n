@@ -24,7 +24,10 @@
 <!ENTITY  addonExceptions.accesskey     "S">
 
 
+<!ENTITY  logins.label                  "Saio-hasierak">
 
+<!ENTITY  rememberLogins.label          "Gogoratu guneetako saio-hasierak">
+<!ENTITY  rememberLogins.accesskey      "G">
 <!ENTITY  passwordExceptions.label      "Salbuespenak…">
 <!ENTITY  passwordExceptions.accesskey  "n">
 
@@ -33,4 +36,5 @@
 <!ENTITY  changeMasterPassword.label     "Aldatu pasahitz nagusia…">
 <!ENTITY  changeMasterPassword.accesskey "A">
 
-
+<!ENTITY  savedLogins.label              "Gordetako saio-hasierak…">
+<!ENTITY  savedLogins.accesskey          "s">
