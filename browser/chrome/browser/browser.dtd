@@ -124,11 +124,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "T">
 <!ENTITY bookmarkThisPageCmd.label "Bekela lelikhasi">
 <!ENTITY editThisBookmarkCmd.label "Lungisa lesibekiso">
-
-
+<!ENTITY bookmarkThisPageCmd.commandkey "d">
+<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
+<!ENTITY findShareServices.label "Tfola letinye tinsita tekushiyelana">
 
 
 
@@ -148,11 +149,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY unsortedBookmarksCmd.label "Tibekiso letingakahlungwa">
 <!ENTITY bookmarksToolbarChevron.tooltip "Kukhombisa letinye tibekiso">
 
+<!ENTITY backCmd.label                "Emuva">
 <!ENTITY backButton.tooltip           "Buyela emuva lipheji linye">
-
+<!ENTITY forwardCmd.label             "Embili">
 <!ENTITY forwardButton.tooltip        "Yani embili lipheji linye">
-
-
+<!ENTITY backForwardButtonMenu.tooltip "Chafata ngesekudla noma udvonsele phansi kute ubone limuva">
+<!ENTITY backForwardButtonMenuMac.tooltip "Dvonsela phansi utobona limuva">
 
 <!ENTITY reloadButton.tooltip         "Phindzu'layishele lelipheji lokulo">
 
@@ -196,11 +198,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloadsUnix.commandkey     "y">
 
 
+<!ENTITY addons.commandkey            "A">
 
 
 
-
-
+<!ENTITY webDeveloperMenu.label       "Umtfutfukisi weLwati">
+<!ENTITY webDeveloperMenu.accesskey   "U">
 
 
 
@@ -703,12 +706,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.accesskey "v">
 
 
+<!ENTITY trackingContentBlocked.learnMore "Fundza kabanti">
+<!ENTITY trackingContentBlocked.options "Kwekukhetsa">
 
 
-
-
-
-
+<!ENTITY trackingContentBlocked.block.label "Vumela kuvikeleka">
+<!ENTITY trackingContentBlocked.block.accesskey "V">
 
 
 
@@ -756,8 +759,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeNotificationsNotNow.label             "Not hhayi manje">
 <!ENTITY emeNotificationsNotNow.accesskey         "N">
-
-
+<!ENTITY emeNotificationsDontAskAgain.label       "ungangibuti phindze">
+<!ENTITY emeNotificationsDontAskAgain.accesskey   "u">
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 
 

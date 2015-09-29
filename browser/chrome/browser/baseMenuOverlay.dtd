@@ -14,13 +14,14 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Sita"> 
 <!ENTITY helpMenuWin.accesskey    "S">
-
-
+<!ENTITY aboutProduct2.label      "About &brandShorterName;">
+<!ENTITY aboutProduct2.accesskey  "A">
 <!ENTITY productHelp2.label       "&brandShorterName; Sita">
 <!ENTITY productHelp2.accesskey   "S">
 
 
-
+<!ENTITY helpKeyboardShortcuts.label     "Tindlela letifisha ku Keyboard">
+<!ENTITY helpKeyboardShortcuts.accesskey "K">
 
 
 
@@ -41,5 +42,6 @@
 <!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Fihla Lokunye">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
-
+<!ENTITY showAllAppsCmdMac.label        "Khombisa konkhe">
