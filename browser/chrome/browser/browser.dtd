@@ -131,14 +131,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
 <!ENTITY findShareServices.label "Tfola letinye tinsita tekushiyelana">
 
-
+<!ENTITY sharePageCmd.commandkey "S">
 
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-
-
-
-
-
+<!ENTITY shareLink.label "Shiyela lesichumano">
+<!ENTITY shareLink.accesskey "h">
+<!ENTITY shareImage.label "Shiyela lesitfombe">
+<!ENTITY shareImage.accesskey "r">
+<!ENTITY shareSelect.label "Shiyela lokukhetsa">
+<!ENTITY shareSelect.accesskey "r">
 
 
 
@@ -155,9 +156,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY forwardButton.tooltip        "Yani embili lipheji linye">
 <!ENTITY backForwardButtonMenu.tooltip "Chafata ngesekudla noma udvonsele phansi kute ubone limuva">
 <!ENTITY backForwardButtonMenuMac.tooltip "Dvonsela phansi utobona limuva">
-
+<!ENTITY reloadCmd.label              "&amp;Phindza ulayishe">
 <!ENTITY reloadButton.tooltip         "Phindzu'layishele lelipheji lokulo">
-
+<!ENTITY stopCmd.label                "Yekela">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Yekela kulayishela leliphe">
 
@@ -170,6 +171,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY homeButton.label             "Likhaya">
 
+<!ENTITY tabGroupsButton.label        "Emacembu emaTabs">
 
 <!ENTITY bookmarksButton.label          "Tibekiso">
 
@@ -207,7 +209,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
+<!ENTITY devtoolsConnect.label        "Chumana...">
+<!ENTITY devtoolsConnect.accesskey    "e">
 
 
 
@@ -714,9 +717,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.block.accesskey "V">
 
 
+<!ENTITY pointerLock.notification.message "Chafata ESC noma kunini kukuveta futsi">
 
-
+<!ENTITY pluginNotification.showAll.label "Khombisa Konkhe">
+<!ENTITY pluginNotification.showAll.accesskey "K">
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
+
+<!ENTITY pluginActivateNow.label "Vumela Nyalo">
 
 
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
@@ -741,10 +748,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+<!ENTITY panicButton.view.openNewWindow           " Vula likhasi lelihlobile">
 
+<!ENTITY panicButton.view.undoWarning             "lesento ngeke siguculwe">
+<!ENTITY panicButton.view.forgetButton            "Khohlwa">
 
-
-
+<!ENTITY panicButton.thankyou.msg1                "Umlandvo wakho lobucalu ususiwe">
 
 
 
