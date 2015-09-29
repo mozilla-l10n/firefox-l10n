@@ -3,8 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
+<!ENTITY windowClose.key              "w">
 
-
-
-
-
+<!ENTITY button.cancel.label          "Utzi">
+<!ENTITY button.cancel.accesskey      "U">
+<!ENTITY button.ok.label              "Gorde aldaketak">
+<!ENTITY button.ok.accesskey          "G">

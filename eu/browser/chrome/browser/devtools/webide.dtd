@@ -26,7 +26,7 @@
 <!ENTITY projectMenu_showPrefs_accesskey "e">
 <!ENTITY projectMenu_manageComponents_label "Kudeatu bestelako osagaiak">
 <!ENTITY projectMenu_manageComponents_accesskey "K">
-
+<!ENTITY projectMenu_refreshTabs_label "Berritu fitxak">
 
 <!ENTITY runtimeMenu_label "Exekuzio-ingurunea">
 <!ENTITY runtimeMenu_accesskey "x">
