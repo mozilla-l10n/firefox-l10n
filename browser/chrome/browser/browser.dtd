@@ -13,6 +13,7 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Kutibukela lokufihlakele)">
 
 
 <!-- Tab context menu -->
@@ -121,8 +122,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Tibekiso">
 <!ENTITY bookmarksMenu.accesskey "T">
-
-
+<!ENTITY bookmarkThisPageCmd.label "Bekela lelikhasi">
+<!ENTITY editThisBookmarkCmd.label "Lungisa lesibekiso">
 
 
 <!-- LOCALIZATION NOTE (findShareServices.label):
@@ -143,9 +144,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
-
-
+<!ENTITY showAllBookmarks2.label "Khombisa tonkhe tibekiso">
+<!ENTITY unsortedBookmarksCmd.label "Tibekiso letingakahlungwa">
+<!ENTITY bookmarksToolbarChevron.tooltip "Kukhombisa letinye tibekiso">
 
 <!ENTITY backButton.tooltip           "Buyela emuva lipheji linye">
 
@@ -178,6 +179,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historySidebarCmd.commandKey   "h">
 
@@ -696,8 +699,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 
-
-
+<!ENTITY trackingProtection.block2.label "vumela kuvikeleka">
+<!ENTITY trackingProtection.block2.accesskey "v">
 
 
 
@@ -725,9 +728,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Please ensure that this remains the case in the translation. -->
 
 <!ENTITY panicButton.view.mainTimeframeDesc       "Khohlwa lokusekugcineni">
+<!ENTITY panicButton.view.5min                    "imizuzu lesihlanu">
 
-
-
+<!ENTITY panicButton.view.day                     "emahora langu 24">
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
@@ -751,8 +754,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-
+<!ENTITY emeNotificationsNotNow.label             "Not hhayi manje">
+<!ENTITY emeNotificationsNotNow.accesskey         "N">
 
 
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->

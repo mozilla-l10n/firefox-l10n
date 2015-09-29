@@ -37,7 +37,9 @@
 
 
 
+<!ENTITY hideThisAppCmdMac2.label       "Fihla &brandShorterName;">
+<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
-
+<!ENTITY hideOtherAppsCmdMac.label      "Fihla Lokunye">
 
 
