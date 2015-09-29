@@ -9,6 +9,9 @@
 <!ENTITY notificationsPolicyDesc.label "Scelta dei siti autorizzati a visualizzare notifiche">
 <!ENTITY notificationsPolicyButton.label "Scegli…">
 <!ENTITY notificationsPolicyButton.accesskey "e">
+<!ENTITY notificationsDoNotDisturb.label "Non disturbare">
+<!ENTITY notificationsDoNotDisturb.accesskey "N">
+<!ENTITY notificationsDoNotDisturbDetails.value "Non verrà visualizzata alcuna notifica fino al riavvio di &brandShortName;">
 <!ENTITY popupExceptions.label "Eccezioni…">
 <!ENTITY popupExceptions.accesskey "o">
 <!ENTITY fontsAndColors.label "Caratteri e colori">
