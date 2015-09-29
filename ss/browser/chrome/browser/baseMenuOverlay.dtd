@@ -23,13 +23,16 @@
 <!ENTITY helpKeyboardShortcuts.label     "Tindlela letifisha ku Keyboard">
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
 
+<!ENTITY helpSafeMode.label       "Restart nema Add-ons Avaliwe">
+<!ENTITY helpSafeMode.accesskey   "R">
+<!ENTITY helpSafeMode.stop.label       "Restart nema Add-ons Avuliwe">
+<!ENTITY helpSafeMode.stop.accesskey   "R">
 
+<!ENTITY healthReport2.label      "&brandShorterName; Umbiko Wetemphilo">
+<!ENTITY healthReport2.accesskey  "e">
 
-
-
-
-
-
+<!ENTITY helpTroubleshootingInfo.label      "Lwati Lwekulungisa">
+<!ENTITY helpTroubleshootingInfo.accesskey  "L">
 
 
 
