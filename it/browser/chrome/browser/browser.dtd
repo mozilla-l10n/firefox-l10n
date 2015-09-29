@@ -160,7 +160,6 @@
 <!ENTITY urlbar.translatedNotificationAnchor.label "Gestisci la traduzione della pagina">
 <!ENTITY urlbar.emeNotificationAnchor.label "Gestisci l’utilizzo del software DRM">
 <!ENTITY urlbar.toggleAutocomplete.label "Attiva/disattiva la finestra di autocompletamento">
-<!ENTITY locationItem.title "Indirizzo">
 <!ENTITY searchItem.title "Cerca">
 <!ENTITY homeButton.label "Pagina iniziale&#173;">
 <!ENTITY tabGroupsButton.label "Gruppi di schede">
