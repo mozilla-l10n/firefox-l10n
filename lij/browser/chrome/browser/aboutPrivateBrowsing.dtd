@@ -2,20 +2,27 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                 "Navegaçión privâ">
-<!ENTITY privatebrowsingpage.title.normal          "Ti veu comensâ 'na navegaçión privâ?">
 
-<!ENTITY privatebrowsingpage.moreInfo                  "Scibén sto computer o no sarva a stöia da teu navegaçión, o teu fornitô de servìççi internet ò di inpiêgòi pêuan ancón sarvâse e pàgine che ti ti vìxiti.">
-<!ENTITY privatebrowsingpage.learnMore                 "Pe savéine de ciù">
-<!ENTITY privatebrowsingpage.howToStart3 "L'é poscìbile aviâ la Navegaçión Privâ anche sciacàndo &basePBMenu.label; &gt; &newPrivateWindow.label;.">
-<!ENTITY privatebrowsingpage.howToStop3 "Pe fermâ a Navegaçión Privâ bàsta che ti særi o barcón.">
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Àrvi 'n barcón privòu">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "à">
 
-<!ENTITY privatebrowsingpage.perwindow.description "Inte 'n barcón de Navegaçión privâ no saiâ sarvòu into &brandShortName; nisciùnn-a stöia in sciâ navegaçión, riçèrche, descaregaménti, conpilaçión de mòdoli, cookie e file tenporànei. Perö saiàn mantegnûi eventoâli file scaregæ ò segnalìbbri azónti.">
-<!ENTITY privatebrowsingpage.perwindow.issueDesc "&brandShortName; o no sarviâ nisciùnn-a stöia pe sto barcón.">
-<!ENTITY privatebrowsingpage.perwindow.issueDesc.normal "Sta chi o no l'é 'n barcón privòu.">
+<!ENTITY aboutPrivateBrowsing.info.notsaved "No vegnan sarvæ:">
+<!ENTITY aboutPrivateBrowsing.info.history "Stöia">
+<!ENTITY aboutPrivateBrowsing.info.searches "Riçerche">
+<!ENTITY aboutPrivateBrowsing.info.cookies "Cookie">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "File tenporanei">
+<!ENTITY aboutPrivateBrowsing.info.saved "Vegnan sarvæ:">
+<!ENTITY aboutPrivateBrowsing.info.downloads "File descaregæ">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks "Segnalibbri">
 
-
-
-
+<!ENTITY aboutPrivateBrowsing.note1 "Atençion: o teu cappo ò o teu fornitô de servìççi internet en in graddo de sarvase e pagine che ti vixiti.">
+<!ENTITY aboutPrivateBrowsing.learnMore "Pe savéine de ciù.">
+<!ENTITY trackingProtection.width1 "22em">
+<!ENTITY trackingProtection.title "Proteçion anti-traciamento">
+<!ENTITY trackingProtection.state.width "12ch">
+<!ENTITY trackingProtection.state.enabled "ATIVÂ">
+<!ENTITY trackingProtection.state.disabled "DIZATIVÂ">
+<!ENTITY trackingProtection.description1 "Into mòddo Navegaçión privâ i barcoin fermian i elementi da pagina in graddo de traciâ a navegaçion.">
+<!ENTITY trackingProtection.disable "Dizativa a proteçion anti-traciamento">
+<!ENTITY trackingProtection.enable "Ativa a proteçion anti-traciamento">
+<!ENTITY trackingProtection.startTour1 "Descòvri comme fonçionn-a">

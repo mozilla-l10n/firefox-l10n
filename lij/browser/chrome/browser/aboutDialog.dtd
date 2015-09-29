@@ -22,11 +22,6 @@
 <!ENTITY community.creditsLink      "comunitæ globâle">
 <!ENTITY community.end3             " ch'a travàggia insémme pe mantegnî a Ræ avèrta, pùblica e acesìbile a tùtti.">
 
-<!ENTITY contribute.start           "O t'interèssa? ">
-<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "Parteçipa!">
-<!ENTITY contribute.end             "">
-
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 <!ENTITY bottomLinks.license        "Informaçión de licénsa">
 
@@ -88,3 +83,9 @@
 
 <!ENTITY update.updateButton.label "Àrvi pe agiornâ">
 <!ENTITY update.updateButton.accesskey "R">
+
+<!ENTITY helpus.start "Ti ne veu agiutâ? ">
+<!ENTITY helpus.donateLink "Fanni 'na donaçion">
+<!ENTITY helpus.middle " ò ">
+<!ENTITY helpus.getInvolvedLink "travaggia co niâtri">
+<!ENTITY helpus.end ".">
