@@ -7,13 +7,13 @@
      in the inspector contextual-menu for the item that lets users copy the
      inner HTML of the current node -->
 
-<!ENTITY inspectorHTMLCopyInner.label       "Copiar inner HTML">
+<!ENTITY inspectorHTMLCopyInner.label       "Copiar HTML interior">
 <!ENTITY inspectorHTMLCopyInner.accesskey   "i">
 <!-- LOCALIZATION NOTE (inspectorHTMLCopyOuter.label): This is the label shown
      in the inspector contextual-menu for the item that lets users copy the
      outer HTML of the current node -->
 
-<!ENTITY inspectorHTMLCopyOuter.label       "Copiar outer HTML">
+<!ENTITY inspectorHTMLCopyOuter.label       "Copiar HTML exterior">
 <!ENTITY inspectorHTMLCopyOuter.accesskey   "o">
 <!-- LOCALIZATION NOTE (inspectorCopyUniqueSelector.label): This is the label
      shown in the inspector contextual-menu for the item that lets users copy
@@ -25,7 +25,7 @@
      in the inspector contextual-menu for the item that lets users paste outer
      HTML in the current node -->
 
-<!ENTITY inspectorHTMLPasteOuter.label      "Colar HTML externo">
+<!ENTITY inspectorHTMLPasteOuter.label      "Colar HTML exterior">
 <!ENTITY inspectorHTMLPasteOuter.accesskey  "e">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteInner.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste inner
