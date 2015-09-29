@@ -156,7 +156,7 @@
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "Continuând, sunt de acord cu &formatS1; și &formatS2; a serviciilor cloud Firefox.">
 <!ENTITY fxaccount_create_account_button "Înainte">
-<!ENTITY fxaccount_create_account_choose_what_to_sync "Alege ce sincronizezi">
+<!ENTITY fxaccount_create_account_choose_what_to_sync "Alege ceea ce să sincronizezi">
 <!ENTITY fxaccount_create_account_sign_in_instead "Ai un cont deja? Autentifică-te">
 <!ENTITY fxaccount_create_account_1990_or_earlier "1990 sau anterior">
 <!ENTITY fxaccount_create_account_unknown_error "Nu se poate crea contul">

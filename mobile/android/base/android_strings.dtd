@@ -321,8 +321,8 @@ size. -->
 <!ENTITY pref_panels_move_down "Mută jos">
 
 <!ENTITY datareporting_notification_title "Statistici și date pentru &brandShortName;">
-<!ENTITY datareporting_notification_action_long "Alege ce informații să împărtășești">
-<!ENTITY datareporting_notification_action "Alege ce împărtășești">
+<!ENTITY datareporting_notification_action_long "Alege ce informații să partajezi">
+<!ENTITY datareporting_notification_action "Alege ce să partajezi">
 <!ENTITY datareporting_notification_summary "Pentru a îmbunătăți experiența, &brandShortName; trimite automat anumite informații la &vendorShortName;.">
 <!ENTITY datareporting_notification_summary_short "Pentru a îmbunătăți experiența, &brandShortName;…">
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
