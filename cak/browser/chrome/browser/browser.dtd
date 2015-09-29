@@ -110,6 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "t">
 
 <!ENTITY fxaSignIn.label "Tok pa &syncBrand.shortName.label;">
+
 <!ENTITY fxaSignInError.label "Tok chik pam &syncBrand.shortName.label;">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; jaqon">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; chi jataq xtutikirisaj ri ximojri'ïl.">
@@ -126,8 +127,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "r">
 <!ENTITY fullScreenExit.label "Katel pa ri tz'aqät ruwäch">
 <!ENTITY fullScreenExit.accesskey "r">
-<!ENTITY fullscreenAllowButton.label "Ruya'ik q'ij">
-<!ENTITY fullscreenExitButton.label "Q'atïk">
 
 <!ENTITY fullscreenExitHint2.value "Rupitz'ik ESC xa b'a achike ramaj richin yatel chupam.">
 <!ENTITY leaveDOMFullScreen.label "Elem pa ri ronojel ruwäch">
@@ -274,6 +273,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 
+<!ENTITY browserContentToolboxMenu.label     "Kikaxa taq samajib'äl richin rupam okik'amaya'l">
+<!ENTITY browserContentToolboxMenu.accesskey "k">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Rutz'apixik kicha'osamaj nuk'unela' ">
 <!ENTITY devToolbarMenu.label              "Ruch'a'osamaj nuk'unel">
@@ -303,7 +304,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "K'ak'a' ichinan kajtz'ïk">
 <!ENTITY newPrivateWindow.accesskey "i">
-
+<!ENTITY newNonRemoteWindow.label   "K'ak'a' Non-e10s Window">
 
 <!ENTITY editMenu.label         "K'exonïk"> 
 <!ENTITY editMenu.accesskey       "e"> 
@@ -393,6 +394,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.placeholder2          "Rub'eyal richin rukanoxik, ochochib'äl">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Rujalik ri ruwi':">
+
+
+
+
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -417,6 +422,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
+<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
+     These are set as the aria-label attribute for the search input box and
+     submit button in the in-content search UI, to be used by screen readers. -->
+
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -619,18 +628,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin2.label       "Elem">
 <!ENTITY quitApplicationCmdWin2.accesskey   "x">
-<!ENTITY quitApplicationCmdWin2.tooltip     "Tel el pa &brandShortName;">
+<!ENTITY quitApplicationCmdWin2.tooltip     "Tel el pa &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Elem"> 
 <!ENTITY quitApplicationCmd.accesskey   "Q">
-<!ENTITY quitApplicationCmdMac2.label   "Tel pa &brandShortName;">
+<!ENTITY quitApplicationCmdMac2.label   "Tel pa &brandShorterName;">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "Q">
 
 <!ENTITY closeCmd.label                 "Elem">  
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "C">
+
 
 <!ENTITY pageStyleMenu.label "Rutzub'al ruxaq">
 <!ENTITY pageStyleMenu.accesskey "R">
@@ -670,12 +680,33 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "K'isoj">
 <!ENTITY editBookmark.cancel.label                   "Q'atoj">
-<!ENTITY editBookmark.removeBookmark.accessKey       "r">
+
+
+<!ENTITY identity.connectionSecure "Ütz Okem">
+<!ENTITY identity.connectionNotSecure "Itzel chi Okem">
+
+<!ENTITY identity.connectionVerified "&brandShortName; xujikib'a' chi ri ütz ri okem pa re ruxaq k'amaya'l re', pa'äl pa ruwi':">
+<!ENTITY identity.connectionInternal "Re re' ütz chi &brandShortName; ruxaq.">
+<!-- Strings for connection state warnings. -->
+
+
+
+<!-- Strings for connection state warnings in the subview. -->
 
 
 
 
 
+
+
+
+
+
+<!ENTITY identity.disableMixedContentBlocking.label "Wakami yan tz'apäl ri chajinïk">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "D">
+
+
+<!ENTITY identity.moreInfoLinkText2 "Ch'aqa' chik etamab'äl">
 
 <!ENTITY identity.permissions "Taq ya'oj q'ij">
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -750,27 +781,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "e">
 <!ENTITY getUserMedia.selectMicrophone.label "Q'asäy ch'ab'äl richin rutaluxik:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "Q">
+
 <!ENTITY getUserMedia.allWindowsShared.message "Xkekomonïx konojel ri tz'etel taq tzuwäch e k'o pa ri ruwäch.">
-<!-- Bad Content Blocker Doorhanger Notification -->
 
-<!ENTITY badContentBlocked.moreinfo "Ütz xkesamäj b'ama konojel ri taq ruxaq k'amaya'l, ja jun ri taq q'aton rupam.">
 
-<!ENTITY mixedContentBlocked2.message "Itzel rupam">
-<!ENTITY mixedContentBlocked2.moreinfo "Xeq'eleb'ëx jujun taq ruch'akul e'etaman pa re ruxaq k'amaya'l re'.">
-<!ENTITY mixedContentBlocked2.learnMore "Tetamäx ch'aqa' chik">
-<!ENTITY mixedContentBlocked2.options "Taq cha'oj">
-<!ENTITY mixedContentBlocked2.unblock.label "Wakami yan tz'apäl ri chajinïk">
-<!ENTITY mixedContentBlocked2.unblock.accesskey "D">
-<!ENTITY mixedContentBlocked2.block.label "Jaqäl ri chajinïk">
-<!ENTITY mixedContentBlocked2.block.accesskey "J">
-<!ENTITY mixedContentBlocked2.disabled.message "Chupül ri chajinem">
+
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+
+
+
 
 <!ENTITY trackingContentBlocked.message "Kanoxïk">
 <!ENTITY trackingContentBlocked.moreinfo "Ri taq ruperaj re ruxaq re', ri nikikanoj ri taq asamaj pa b'ey, xeq'eleb'ëx.">
 <!ENTITY trackingContentBlocked.learnMore "Tetamäx ch'aqa' chik">
-<!ENTITY trackingContentBlocked.options "Taq cha'oj">
-<!ENTITY trackingContentBlocked.unblock2.label "Tichup ruwäch ri chajixïk pa re ruxaq k'amaya'l re'">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "T">
+
+
+
 <!ENTITY trackingContentBlocked.block.label "Tijaq ri chajixïk ">
 <!ENTITY trackingContentBlocked.block.accesskey "T">
 <!ENTITY trackingContentBlocked.disabled.message "Chupül ri chajixïk chi rij ri kanoxïk">
@@ -836,20 +869,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeNotificationsNotNow.accesskey         "m">
 <!ENTITY emeNotificationsDontAskAgain.label       "Mani nik'utüx chik pe chwe">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "M">
-
-<!ENTITY readingList.label                        "Rucholajem sik'inem">
-<!ENTITY readingList.sidebar.commandKey           "R">
-<!ENTITY readingList.showSidebar.label            "Tik'ut ri chuxikin pas richin ri rucholajem sik'inem">
-<!-- Pre-landed string for bug 1124153 -->
-<!ENTITY readingList.sidebar.showMore.label       "Kek'ut pe ch'aqa' chik…">
-<!-- Pre-landed string for bug 1133662 -->
-<!ENTITY readingList.sidebar.emptyText            "Ke'atz'atisaj taq cholna'oj pa rucholajem asik'inem richin ye'asik'ij jub'a' chik na chuqa' richin aninäq ye'awïl toq xkeb'ek'atzin pe chawe.">
-<!ENTITY readingList.sidebar.delete.tooltip       "Ke'awelesaj re re' pa ri rucholajem asik'inem">
-<!-- Pre-landed strings for bug 1123519 -->
-<!ENTITY readingList.sidebar.add.label            "Titz'aqatisäx pa rucholb'al sik'inïk">
-<!ENTITY readingList.sidebar.add.tooltip          "Titz'aqatisäx re ruxaq re' pa ri rucholajem sik'inïk">
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 
-
-
-
+<!ENTITY saveToPocketCmd.label     "Tiyak Ruxaq pa Pocket">
+<!ENTITY saveToPocketCmd.accesskey "k">
+<!ENTITY saveLinkToPocketCmd.label     "Tiyak Ximonel pa Pocket">
+<!ENTITY saveLinkToPocketCmd.accesskey "a">
+<!ENTITY pocketMenuitem.label      "Titz'et Rucholb'al Pocket">

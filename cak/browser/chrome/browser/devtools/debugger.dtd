@@ -49,6 +49,8 @@
   -  button that toggles all breakpoints for all sources. -->
 
 <!ENTITY debuggerUI.sources.toggleBreakpoints "Ketzij/Kechup konojel ri jak'ajïk taq ruch'akul">
+<!-- LOCALIZATION NOTE (debuggerUI.sources.togglePromiseDebugger): This is the
+  -  tooltip for the button that toggles the promise debugger. -->
 <!-- LOCALIZATION NOTE (debuggerUI.startTracing): This is the text displayed in
   - the button to start execution tracing. -->
 
@@ -164,6 +166,8 @@
 <!ENTITY debuggerUI.seMenuCondBreak.key "R">
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
+
+<!ENTITY debuggerUI.tabs.workers        "Samajela'">
 <!ENTITY debuggerUI.tabs.sources        "Taq ruxe'el">
 <!ENTITY debuggerUI.tabs.traces         "Taq wachib'enïk">
 <!ENTITY debuggerUI.tabs.callstack      "Jutzub'aj oyonïk">

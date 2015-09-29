@@ -2,18 +2,52 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutPrivateBrowsing.title            "Atokinäq pan ichinan k'amaya'l">
-<!ENTITY aboutPrivateBrowsing.title.normal     "¿La nijaq jun ichinan tzuwäch?">
-
-<!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; majun xtunataj ta kan rutzijol pa ri retal okem.">
-<!ENTITY aboutPrivateBrowsing.subtitle.normal  "&brandShortName; man xtuyäk ta kan ri xk'ulwachitäj pa re tzuwäch re'.">
-
-<!ENTITY aboutPrivateBrowsing.description      "Re ruk'wa'an chuqa' ri xk'ulwachitäj pa ri okem, kanoxïk, taq qasaxïk chuq'a' ri runojwuj ruxaq k'amaya'l; taq kokis chuqa' jumej taq ruyakb'al k'amaya'l. Po man ke ta ri' k'a xkeyake' kan ri taq aqasanïk chuqa' yaköl etal.">
-
 <!ENTITY aboutPrivateBrowsing.notPrivate       "Wakami man at k'o ta chupam jun ichina tzuwäch.">
-
-<!ENTITY aboutPrivateBrowsing.moreInfo         "Stape' man xtiyake' ta kan ri xtik'ulwachitäj pa ri awokem pa k'amaya'l pa re jun kematz'ib' re', ri ya'öl asamajib'al richin k'amaya'l re' chuqa' ri rusamajel ri moloj akuchi' yasamäj, k'a nitikïr na xkerïl ri taq ruxaq xe'atz'ët kipam.">
-<!ENTITY aboutPrivateBrowsing.learnMore        "Tetamäx ch'aqa' chik.">
-
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Rujaqik jun ruwäch ichin">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "i">
+
+<!ENTITY privateBrowsing.title                 "Palaqinem Wichin">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
+     Width of the Private Browsing section. This should depend primarily on the
+     length of the headers and text, but should be roughly 1.5 times the width
+     of the Tracking Protection section, and in general not much larger than
+     30em to prevent the sections from wrapping on smaller window sizes.
+     -->
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
+     aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
+     These strings will be replaced by aboutPrivateBrowsing.forgotten and
+     aboutPrivateBrowsing.kept when the new visual design lands (bug 1192625).
+     -->
+
+<!ENTITY aboutPrivateBrowsing.title            "Atokinäq pan ichinan k'amaya'l">
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.history     "Natab’äl">
+
+<!ENTITY aboutPrivateBrowsing.info.cookies     "Cookies">
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.downloads   "Taq qasa’n">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks   "Taq retal">
+
+<!ENTITY aboutPrivateBrowsing.learnMore        "Tetamäx ch'aqa' chik.">
+<!-- LOCALIZATION NOTE (trackingProtection.width):
+     Width of the Tracking Protection section. It is fine for the enabled or
+     disabled indicator or the words in the title to wrap to the next line, but
+     you can expand or reduce this section to fit better, as long as the width
+     of the Private Browsing section is roughly 1.5 times the width of this one.
+     Note that the required space may vary between platforms because fonts are
+     different, so testing on Windows, Mac, and Linux is encouraged.
+     -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.state.width):
+     Width of the element representing the enabled or disabled indicator.
+     -->
+
+
+
+
+
+

@@ -14,10 +14,10 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "To'ïk"> 
 <!ENTITY helpMenuWin.accesskey    "H">
-<!ENTITY aboutProduct2.label      "Chi rij ri &brandShortName;">
+<!ENTITY aboutProduct2.label      "Chi rij ri &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "C">
-<!ENTITY productHelp2.label       "&amp;Ruto'ik ri brandShortName">
-<!ENTITY productHelp2.accesskey   "b">
+<!ENTITY productHelp2.label       "&brandShorterName; To'ïk">
+<!ENTITY productHelp2.accesskey   "T">
 <!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "Ruq'a' rub'ey Keyboard">
@@ -37,15 +37,15 @@
 <!ENTITY helpFeedbackPage.label      "Rutaqik ana'oj.">
 <!ENTITY helpFeedbackPage.accesskey  "S">
 
-<!ENTITY helpShowTour2.label            "B'eyajem pa &brandShortName;">
-<!ENTITY helpShowTour2.accesskey        "o">
+<!ENTITY helpShowTour2.label            "&brandShorterName; B'eyajem">
+<!ENTITY helpShowTour2.accesskey        "a">
 
 <!ENTITY preferencesCmdMac.label        "Taq cha'oj…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Taq samaj">
 
-<!ENTITY hideThisAppCmdMac2.label       "Tewäx &brandShortName;">
+<!ENTITY hideThisAppCmdMac2.label       "Tewäx &brandShorterName;">
 <!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Kewaxik ch'aqa' chikKe">

@@ -167,11 +167,6 @@
 
 <!ENTITY options.stylesheetAutocompletion.label      "Titz'aqatisäx ruyon CSS">
 <!ENTITY options.stylesheetAutocompletion.tooltip    "Titz'aqatisäx ruyon ri taq ch'akulal, taq etal chuqa' cha'onela' CSS pa ri kinuk'unel taq b'anikil toq tajin yatz'ib'an.">
-<!-- LOCALIZATION NOTE (options.profiler.label): This is the label for the
-  -  heading of the group of JavaScript Profiler preferences in the options
-  -  panel. -->
-
-<!ENTITY options.profiler.label            "JavaScript Tz'etöy Q'ijul">
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->

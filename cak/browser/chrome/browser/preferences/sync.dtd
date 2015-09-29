@@ -27,9 +27,6 @@
 
 
 
-
-
-
 <!ENTITY engine.addons.label        "Taq rutz’aqat">
 <!ENTITY engine.addons.accesskey    "A">
 <!-- Device Settings -->
@@ -61,6 +58,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 
+
 <!ENTITY manage.label                "Tisamajïx">
 
 
@@ -70,3 +68,13 @@ both, to better adapt this sentence to their language.
 
 
 <!ENTITY welcome.useOldSync.label "¿Tajin nawokisaj jun ojer rub'eyal ri Sync?">
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+
+

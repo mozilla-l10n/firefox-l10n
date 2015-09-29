@@ -10,8 +10,6 @@
 
 
 <!ENTITY abouthome.pageTitle "Rutikirib’al &brandFullName;">
-
-<!ENTITY abouthome.searchEngineButton.label "Rukanoxik">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
@@ -22,7 +20,7 @@
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "Man k'ayew ta nanük' ri aFirefox, achi'el nawajo'. <a>Tacha' chi kikojol jutzob'aj rutz'aqat</a>.">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
-<!ENTITY abouthome.rightsSnippet "&brandFullName; jun cholkema' richin ri Mozilla Moloj xa b'a achike nokisan chuqa' tz'etel taq retal, akuchi' majun ch'akoj chi rij…</a>">
+<!ENTITY abouthome.rightsSnippet "&brandFullName; jun jamäl chuqa' okel chi cholkema' richin ri Mozilla Moloj, ri majun ch'akoj rojqan. <a>Tawetamaj kiwäch ri taq ach'ojib'al…</a>">
 
 <!ENTITY abouthome.bookmarksButton.label "Taq retal">
 <!ENTITY abouthome.historyButton.label   "Natab’äl">
