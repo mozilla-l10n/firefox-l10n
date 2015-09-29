@@ -29,4 +29,5 @@ was trying to connect. -->
 <!ENTITY certerror.addException.label "Azónzi 'na eceçión…">
 
 <!ENTITY certerror.technical.heading "Detàlli Tecnici">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Sto scito o deuvia o protocòllo HSTS (HTTP Strict Transport Security) pe garantî che a conescion con &brandShortName; a segge solamente in mòddo seguo. Pe questo motivo no l'é poscibile azonze n’eceçion pe sto certificato.">
 

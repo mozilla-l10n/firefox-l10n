@@ -22,6 +22,13 @@
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "Barcón &#37;S">
 
-<!ENTITY welcomeback.tabtitle "Benvegnûo">
-<!ENTITY welcomeback.pageTitle "Benvegnûo">
-<!ENTITY welcomeback.pageInfo "O repìggio do profî de &brandShortName; o l'é finîo. Chi de segóito un elénco di féuggi e di barcoìn ch'êan avèrti; l'é poscìbile scistemâle tórna òpû partî da 'na scituaçión polîa.">
+<!ENTITY welcomeback2.restoreButton "Inandia">
+<!ENTITY welcomeback2.restoreButton.access "a">
+<!ENTITY welcomeback2.tabtitle "Operaçion ariescia">
+<!ENTITY welcomeback2.pageTitle "Operaçion ariescia">
+<!ENTITY welcomeback2.pageInfo1 "&brandShortName; o l'é pronto.">
+<!ENTITY welcomeback2.label.restoreAll "Arvi torna tutti i feuggi e barcoin">
+<!ENTITY welcomeback2.label.restoreSome "Arvi torna solo i feuggi domandæ">
+<!ENTITY welcomeback2.beforelink.pageInfo2 "I conponenti azonti instalæ i ò cancelæ e e inpostaçioin do navegatô en torna co-i valoî predefinii. ">
+<!ENTITY welcomeback2.afterlink.pageInfo2 " se sta operaçion a no t'à rizolto i problemi.">
+<!ENTITY welcomeback2.link.pageInfo2 "Descòvri e atre soloçioin ch'emmo">
