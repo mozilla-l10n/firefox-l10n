@@ -11,6 +11,7 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY starting.label                   "Rehyɛ ase…">
 <!ENTITY scanning.label                   "Reskaane ahwehwɛ vaerɔs…">
 
+<!ENTITY downloads.title                  "Atweatwe">
 
 
 <!ENTITY cmd.resume.label                 "Toa so">
