@@ -17,8 +17,8 @@
 <!ENTITY cmd.open.accesskey                        "ف">
 <!ENTITY cmd.removeFromHistory.label               "احذف من التأريخ">
 <!ENTITY cmd.removeFromHistory.accesskey           "ح">
-
-
-
-
-
+<!ENTITY cmd.clearList.label                       "امسح القائمة">
+<!ENTITY cmd.clearList.accesskey                   "م">
+<!ENTITY cmd.clearList.tooltip                     "يزيل كل المدخلات من قائمة الملفات المحفوظة، باستثناء التنزيلات الجارية.">
+<!ENTITY cmd.searchDownloads.label                 "ابحث…">
+<!ENTITY cmd.searchDownloads.key                   "F">

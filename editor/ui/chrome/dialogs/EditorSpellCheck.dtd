@@ -20,16 +20,16 @@
 <!ENTITY replaceButton.accessKey "س">
 <!ENTITY replaceAllButton.label "استبدل الكل">
 <!ENTITY replaceAllButton.accessKey "ك">
-
-
+<!ENTITY stopButton.label "أوقف">
+<!ENTITY stopButton.accessKey "ق">
 <!ENTITY userDictionary.label "المعجم الشخصي:">
 <!ENTITY moreDictionaries.label "نزّل المزيد من المعاجم…">
 <!ENTITY addToUserDictionaryButton.label "أضِف كلمة">
 <!ENTITY addToUserDictionaryButton.accessKey "ض">
 <!ENTITY editUserDictionaryButton.label "حرر…">
 <!ENTITY editUserDictionaryButton.accessKey "ح">
-
-
+<!ENTITY recheckButton2.label "أعد تدقيق النص">
+<!ENTITY recheckButton2.accessKey "ع">
 <!ENTITY closeButton.label "أغلق">
 <!ENTITY closeButton.accessKey "غ">
 <!ENTITY sendButton.label "أرسل">
