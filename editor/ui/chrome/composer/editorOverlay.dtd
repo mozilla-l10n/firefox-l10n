@@ -233,7 +233,7 @@
 <!ENTITY tableSelectMenu2.accesskey "д">
 <!ENTITY tableInsertMenu2.label "Вставити таблицю">
 <!ENTITY tableInsertMenu2.accesskey "с">
-<!ENTITY tableDeleteMenu2.label "Вилучити таблицю">
+<!ENTITY tableDeleteMenu2.label "Видалити таблицю">
 <!ENTITY tableDeleteMenu2.accesskey "л">
 
 <!-- Insert SubMenu -->
@@ -267,8 +267,8 @@
 <!ENTITY tableCellAfter.label "Клітинка після">
 <!ENTITY tableCellAfter.accesskey "я">
 <!-- Delete SubMenu -->
-<!ENTITY tableDeleteMenu.label "Вилучити">
-<!ENTITY tableDeleteMenu.accesskey "ч">
+<!ENTITY tableDeleteMenu.label "Видалити">
+<!ENTITY tableDeleteMenu.accesskey "л">
 
 <!-- text for "Join Cells" is in editor.properties 
      ("JoinSelectedCells" and "JoinCellToRight")
