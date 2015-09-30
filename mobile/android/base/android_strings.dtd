@@ -382,6 +382,7 @@
 <!ENTITY identity_connected_to "Si è connessi con">
 <!ENTITY identity_connection_secure "Connessione sicura">
 <!ENTITY identity_connection_insecure "Connessione non sicura">
+<!ENTITY identity_login_insecure "Questa pagina non è sicura e l’accesso potrebbe essere vulnerabile.">
 <!ENTITY mixed_content_blocked_all1 "I contenuti non sicuri in questa pagina sono stati bloccati da &brandShortName;.">
 <!ENTITY mixed_content_blocked_some1 "Alcuni contenuti non sicuri in questa pagina sono stati bloccati da &brandShortName;.">
 <!ENTITY mixed_content_display_loaded1 "Questa pagina presenta elementi non sicuri.">
