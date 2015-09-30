@@ -47,7 +47,7 @@
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "Ծառայության պայմանները">
-<!ENTITY prefs.ppLink.label         "Գաղտնիության Դրույթները">
+<!ENTITY prefs.ppLink.label         "Գաղտնիության դրույթներ">
 <!-- Firefox Accounts stuff -->
 
 <!ENTITY fxaPrivacyNotice.link.label "Գաղտնիության Դրույթները">
