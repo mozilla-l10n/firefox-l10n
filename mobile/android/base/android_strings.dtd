@@ -24,7 +24,7 @@
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
-<!ENTITY  bookmarks_title "Bookmarks">
+<!ENTITY  bookmarks_title "Leabharmharcanna">
 <!ENTITY  history_title "Stair">
 <!ENTITY  reading_list_title "Liosta Léitheoireachta">
 <!ENTITY  recent_tabs_title "Cluaisíní Is Déanaí">
@@ -720,10 +720,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restriction_disallow_master_password_title2 "Díchumasaigh an príomhfhocal faire">
 <!ENTITY restriction_disallow_guest_browsing_title2 "Díchumasaigh Seisiúin ar Iasacht">
 <!-- Default Bookmarks titles-->
-<!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
-
-<!ENTITY bookmarks_title "Soghluaiste">
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+
 <!ENTITY bookmarks_about_browser "Firefox: Maidir le do bhrabhsálaí">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
 <!ENTITY bookmarks_addons "Firefox: Cuir in oiriúint duit féin le breiseáin">
