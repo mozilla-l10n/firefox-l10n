@@ -21,7 +21,7 @@
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
-<!ENTITY  bookmarks_title "Bookmarks">
+<!ENTITY  bookmarks_title "Trang ưa thích">
 <!ENTITY  history_title "Lược sử">
 
 
@@ -591,7 +591,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 <!-- Default Bookmarks titles-->
-<!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
