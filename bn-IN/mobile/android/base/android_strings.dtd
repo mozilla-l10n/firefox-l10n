@@ -23,7 +23,7 @@
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
-<!ENTITY  bookmarks_title "Bookmarks">
+<!ENTITY  bookmarks_title "বুকমার্কসমুহ">
 <!ENTITY  history_title "পূর্ববর্তী তথ্য">
 <!ENTITY  reading_list_title "পাঠ তালিকা">
 <!ENTITY  recent_tabs_title "সাম্প্রতিক ট্যাবগুলি">
@@ -713,7 +713,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restriction_disallow_master_password_title2 "মূখ্য পাসওয়ার্ড নিষ্ক্রিয়করন">
 <!ENTITY restriction_disallow_guest_browsing_title2 "অতিথি ব্রাউজিং নিষ্ক্রিয়করন">
 <!-- Default Bookmarks titles-->
-<!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
