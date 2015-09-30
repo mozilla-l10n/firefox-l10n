@@ -58,7 +58,8 @@
 <!ENTITY signedOut.accountBox.create "Crea un account">
 <!ENTITY signedOut.accountBox.signin "Accedi">
 <!ENTITY signedIn.engines.label "Sincronizza attraverso i dispositivi">
-<!ENTITY mobilePromo.start "Scarica Firefox per ">
-<!ENTITY mobilePromo.androidLink "Android™">
-<!ENTITY mobilePromo.end " per effettuare la sincronizzazione con dispositivi mobile.">
-<!ENTITY androidAttribution "Android è un marchio registrato di Google Inc.">
+<!ENTITY mobilePromo.start "Sincronizza con cellulari e tablet. Scarica ">
+<!ENTITY mobilePromo.androidLink "Firefox per Android™">
+<!ENTITY mobilePromo.iOSBefore " o ">
+<!ENTITY mobilePromo.iOSLink "Firefox per iOS">
+<!ENTITY mobilePromo.end ".">
