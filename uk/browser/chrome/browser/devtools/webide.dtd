@@ -199,7 +199,7 @@
 
 <!-- Simulator Options -->
 <!ENTITY simulator_title "Параметри симулятора">
-<!ENTITY simulator_remove "Вилучити симулятор">
+<!ENTITY simulator_remove "Видалити симулятор">
 <!ENTITY simulator_reset "Відновити типові">
 <!ENTITY simulator_name "Назва">
 <!ENTITY simulator_software "Програмне забезпечення">

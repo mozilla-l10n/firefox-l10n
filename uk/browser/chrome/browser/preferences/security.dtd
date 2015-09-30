@@ -24,7 +24,10 @@
 <!ENTITY  addonExceptions.accesskey     "В">
 
 
+<!ENTITY  logins.label                  "Логіни">
 
+<!ENTITY  rememberLogins.label          "Запам’ятовувати логіни для сайтів">
+<!ENTITY  rememberLogins.accesskey      "З">
 <!ENTITY  passwordExceptions.label      "Винятки…">
 <!ENTITY  passwordExceptions.accesskey  "и">
 
@@ -33,3 +36,5 @@
 <!ENTITY  changeMasterPassword.label     "Змінити головний пароль…">
 <!ENTITY  changeMasterPassword.accesskey "і">
 
+<!ENTITY  savedLogins.label              "Збережені логіни…">
+<!ENTITY  savedLogins.accesskey          "л">
