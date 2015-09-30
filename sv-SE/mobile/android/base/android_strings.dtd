@@ -24,7 +24,7 @@
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
-<!ENTITY  bookmarks_title "Bookmarks">
+<!ENTITY  bookmarks_title "Bokmärken">
 <!ENTITY  history_title "Historik">
 <!ENTITY  reading_list_title "Läslistan">
 <!ENTITY  recent_tabs_title "Senaste flikarna">
@@ -720,10 +720,8 @@ från Android">
 <!ENTITY restriction_disallow_master_password_title2 "Inaktivera huvudlösenord">
 <!ENTITY restriction_disallow_guest_browsing_title2 "Inaktivera gäst surfning ">
 <!-- Default Bookmarks titles-->
-<!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
-
-<!ENTITY bookmarks_title "Mobil">
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+
 <!ENTITY bookmarks_about_browser "Firefox: Om webbläsaren">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
 <!ENTITY bookmarks_addons "Firefox: Anpassa med tillägg">
