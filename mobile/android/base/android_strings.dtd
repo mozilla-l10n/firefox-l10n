@@ -24,7 +24,7 @@
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
-<!ENTITY  bookmarks_title "Bookmarks">
+<!ENTITY  bookmarks_title "Comharran-lìn">
 <!ENTITY  history_title "Eachdraidh">
 <!ENTITY  reading_list_title "An liosta-leughaidh">
 <!ENTITY  recent_tabs_title "Tabaichean o chionn goirid">
@@ -720,10 +720,8 @@ o Android">
 <!ENTITY restriction_disallow_master_password_title2 "Cuir à comas am facal-faire maighstir">
 <!ENTITY restriction_disallow_guest_browsing_title2 "Cuir à comas brabhsadh mar aoigh">
 <!-- Default Bookmarks titles-->
-<!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
-
-<!ENTITY bookmarks_title "Mobile">
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+
 <!ENTITY bookmarks_about_browser "Firefox: Mun bhrabhsair agad">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
 <!ENTITY bookmarks_addons "Firefox: Gnàthaich e le tuilleadain">
