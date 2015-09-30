@@ -10,6 +10,6 @@
 <!ENTITY commaRadio.label      "Кома">
 <!ENTITY spaceRadio.label      "Пропуск">
 <!ENTITY otherRadio.label      "Інший символ:">
-<!ENTITY deleteCharCheck.label "Вилучити роздільник">
+<!ENTITY deleteCharCheck.label "Видалити символ розділення">
 <!ENTITY collapseSpaces.label  "Ігнорувати зайві пропуски">
 <!ENTITY collapseSpaces.tooltip "Перетворити суміжні пропуски в один роздільник">
