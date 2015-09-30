@@ -585,8 +585,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_insecure "اتصال غير آمن">
 <!-- Mixed content notifications in site identity popup -->
 
-
-
+<!ENTITY mixed_content_blocked_all1 "منع &brandShortName; محتوى غير آمن في هذه الصفحة.">
+<!ENTITY mixed_content_blocked_some1 "منع &brandShortName; بعض المحتوى غير الآمن في هذه الصفحة.">
+<!ENTITY mixed_content_display_loaded1 "بعض أجزاء هذه الصفحة غير آمنة (مثل الصور).">
+<!ENTITY mixed_content_protection_disabled1 "لقد أوقفت الحماية من المحتوى غير الآمن.">
 <!-- Tracking content notifications in site identity popup -->
 
 <!ENTITY doorhanger_tracking_title "الحماية من التعقّب">
@@ -604,6 +606,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "مُسحت البيانات الخاصة">
 <!ENTITY private_data_fail "تعذّر مسح بعض البيانات الخاصة">
 
+<!ENTITY bookmarkhistory_button_import "استورد">
 <!ENTITY bookmarkhistory_import_both "يستورد العلامات والتأريخ 
 من أندرويد">
 <!ENTITY bookmarkhistory_import_bookmarks "يستورد العلامات 

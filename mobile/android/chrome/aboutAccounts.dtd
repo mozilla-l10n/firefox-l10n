@@ -3,9 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAccounts.connected.title "حسابات فَيَرفُكس">
+<!ENTITY aboutAccounts.connected.description "تتصل ك‍">
+<!ENTITY aboutAccounts.syncPreferences.label "اضغط هنا للتحقق من إعدادات المزامنة">
 
+<!ENTITY aboutAccounts.noConnection.title "لا يوجد اتصال بالإنترنت">
+<!ENTITY aboutAccounts.retry.label "حاول مرة أخرى">
 
-
-
-
+<!ENTITY aboutAccounts.restrictedError.title "مقيّد">
 
