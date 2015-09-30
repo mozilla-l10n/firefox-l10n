@@ -28,7 +28,7 @@
 <!-- point 3 text for official branded builds -->
 
 <!ENTITY rights2.intro-point3a "Թե ինչպես ենք մենք օգտագործում ձեր անձնական տեղեկատվությունը և ուղարկած արձագանքը՝ ուղարկված &vendorShortName;-ին &brandShortName;-ի միջոցով, նկարագրված է այստեղ՝ ">
-<!ENTITY rights2.intro-point3b "&brandShortName;-ի Գաղտնիության Քաղաքականությունը">
+<!ENTITY rights2.intro-point3b "&brandShortName;-ի Գաղտնիության դրույթները">
 <!ENTITY rights.intro-point3c ":">
 <!-- point 3 text for unbranded builds -->
 
