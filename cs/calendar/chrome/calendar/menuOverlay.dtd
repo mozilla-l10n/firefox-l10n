@@ -27,7 +27,7 @@
       is the general action of removing it, while deleting means to clear the
       data and unsubscribing means just taking it out of the calendar list. -->
 <!ENTITY calendar.removecalendar.label          "Odebrat zvolený kalendář…">
-<!ENTITY calendar.removecalendar.accesskey      "d">
+<!ENTITY calendar.removecalendar.accesskey      "r">
 
 <!ENTITY calendar.menu.customize.label "Vlastní…">
 <!ENTITY calendar.menu.customize.accesskey "V">
