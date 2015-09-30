@@ -23,7 +23,7 @@
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
-<!ENTITY  bookmarks_title "Bookmarks">
+<!ENTITY  bookmarks_title "Könyvjelző">
 <!ENTITY  history_title "Előzmény">
 <!ENTITY  reading_list_title "Olvasási lista">
 <!ENTITY  recent_tabs_title "Legutóbbi lapok">
@@ -713,7 +713,6 @@ Androidról">
 <!ENTITY restriction_disallow_master_password_title2 "Mesterjelszó letiltása">
 <!ENTITY restriction_disallow_guest_browsing_title2 "Vendég böngészés letiltása">
 <!-- Default Bookmarks titles-->
-<!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
