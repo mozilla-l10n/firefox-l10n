@@ -24,7 +24,10 @@
 <!ENTITY  addonExceptions.accesskey     "U">
 
 
+<!ENTITY  logins.label                  "Innskráningar">
 
+<!ENTITY  rememberLogins.label          "Muna innskráningar fyrir vefsvæði">
+<!ENTITY  rememberLogins.accesskey      "r">
 <!ENTITY  passwordExceptions.label      "Undanþágur…">
 <!ENTITY  passwordExceptions.accesskey  "n">
 
@@ -33,4 +36,5 @@
 <!ENTITY  changeMasterPassword.label     "Breyta aðallykilorði…">
 <!ENTITY  changeMasterPassword.accesskey "B">
 
-
+<!ENTITY  savedLogins.label              "Vistaðar innskráningar…">
+<!ENTITY  savedLogins.accesskey          "V">
