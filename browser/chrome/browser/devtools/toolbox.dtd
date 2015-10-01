@@ -107,7 +107,7 @@ values from browser.dtd.  -->
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableWorkers.label    "Ativar depuração de workers (em desenvolvimento)">
-<!ENTITY options.enableWorkers.tooltip  "Ativar esta opção irá permitir que as ferramentas de desenvolvimento depurem workers.">
+<!ENTITY options.enableWorkers.tooltip  "Ativar esta opção irá permitir que as ferramentas de desenvolvimento depurem workers">
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
