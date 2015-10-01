@@ -94,5 +94,5 @@ both, to better adapt this sentence to their language.
 <!ENTITY mobilePromo.start            "Descarregue o Firefox para">
 <!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
 <!ENTITY mobilePromo.androidLink      "Android™">
-<!ENTITY mobilePromo.end              "para sincronizar os seus dados.">
+<!ENTITY mobilePromo.end              " para sincronizar os seus dados.">
 <!ENTITY androidAttribution           "Android é uma marca registada da Google Inc.">
