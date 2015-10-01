@@ -14,10 +14,10 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Agiutto"> 
 <!ENTITY helpMenuWin.accesskey    "A">
-<!ENTITY aboutProduct.label       "Informaçioin rigoardo &brandShortName;">
-<!ENTITY aboutProduct.accesskey   "à">
-<!ENTITY productHelp.label        "Agiutto in sciô &brandShortName;">
-<!ENTITY productHelp.accesskey    "A">
+<!ENTITY aboutProduct2.label "Informaçioin in sce &brandShorterName;">
+<!ENTITY aboutProduct2.accesskey "I">
+<!ENTITY productHelp2.label "Guidda de &brandShorterName;">
+<!ENTITY productHelp2.accesskey "G">
 <!ENTITY helpMac.commandkey       "?">
 <!ENTITY helpSafeMode.label       "Arvi torna co-i conponenti azonti dizabilitæ">
 <!ENTITY helpSafeMode.accesskey   "R">
@@ -28,8 +28,8 @@
 <!ENTITY helpFeedbackPage.label      "Manda 'n Comento…">
 <!ENTITY helpFeedbackPage.accesskey  "M">
 
-<!ENTITY preferencesCmdMac.label        "Preferense…">
-<!ENTITY preferencesCmdMac.commandkey   ",">
+<!ENTITY hideThisAppCmdMac2.label "Ascondi &brandShorterName;">
+<!ENTITY hideThisAppCmdMac2.commandkey "H">
 
 <!ENTITY servicesMenuMac.label          "Serviççi">
 
@@ -41,11 +41,13 @@
 
 <!ENTITY showAllAppsCmdMac.label        "Fanni vedde tutto">
 
-<!ENTITY healthReport.label "Valutaçion integritæ de &brandShortName;">
-<!ENTITY healthReport.accesskey "V">
+<!ENTITY healthReport2.label "Analixi integritæ de &brandShorterName;">
+<!ENTITY healthReport2.accesskey "n">
 
 <!ENTITY helpKeyboardShortcuts.label "Scorsaieu da tastea">
 <!ENTITY helpKeyboardShortcuts.accesskey "S">
 
-<!ENTITY helpShowTour.label "Tour de &brandShortName;">
-<!ENTITY helpShowTour.accesskey "o">
+<!ENTITY helpSafeMode.stop.label "Arvi torna co-i conponente azonti ativæ">
+<!ENTITY helpSafeMode.stop.accesskey "R">
+
+

@@ -76,8 +76,7 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.label "Bara di Segnalibbri">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Ògetti da Bara di Segnalibbri">
-<!ENTITY addonBarCmd.label "Bara di conponenti azonti">
-<!ENTITY addonBarCmd.accesskey "a">
+
 <!ENTITY devAppMgrMenu.label "Gestô de app">
 <!ENTITY devAppMgrMenu.accesskey "G">
 <!ENTITY pageSourceCmd.label "Sorgente da Pagina">
@@ -141,8 +140,7 @@ can reach it easily. -->
 <!ENTITY bookmarksItem.title          "Segnalibbri">
 
 <!-- Toolbar items --> 
-<!ENTITY appMenuButton.label          "Menû">
-<!ENTITY appMenuButton.tooltip        "Arvi o menû de &brandShortName;">
+
 <!ENTITY homeButton.label             "Pagina iniçiâ">
 
 <!ENTITY tabGroupsButton.label        "Gruppo de feuggi">
@@ -279,16 +277,8 @@ can reach it easily. -->
 <!ENTITY hidePluginCmd.accesskey "n">
 
 <!ENTITY identity.permissions "Permissi">
-<!ENTITY appMenuEdit.label "Cangia">
 <!ENTITY appMenuCustomize.label "Personalizza">
-<!ENTITY appMenuToolbarLayout.label "Aparensa da bara…">
 <!ENTITY appMenuSidebars.label "Bare de scianco">
-<!ENTITY appMenuFind.label "Treuva…">
-<!ENTITY appMenuUnsorted.label "Atri segnalibbri">
-<!ENTITY appMenuWebDeveloper.label "Svilupatô Web">
-<!ENTITY appMenuGettingStarted.label "Pe Iniçiâ">
-<!ENTITY appMenuSafeMode.label "Arvi torna co-i conponenti azonti dizabilitæ">
-<!ENTITY appMenuSafeMode.accesskey "R">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2 "Scrivi 'n indirisso ò iniçia 'na riçerca">
@@ -475,7 +465,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newWindowButton.tooltip        "Arvi un neuvo barcon">
 <!ENTITY sidebarCloseButton.tooltip     "Særa a bara de scianco">
 
-<!ENTITY cutButton.tooltip              "Taggia">
 <!ENTITY copyButton.tooltip             "Còpia">
 <!ENTITY pasteButton.tooltip            "Incòlla">
 
@@ -569,7 +558,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncToolbarButton.label      "Sync">
 
-<!ENTITY addonBarCloseButton.tooltip  "Særa a bara do conponente azonto">
 <!ENTITY toggleAddonBarCmd.key        "/">
 
 
@@ -737,5 +725,30 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncStartPanel.heading "Scincronizaçion de &brandShortName;">
 <!ENTITY syncStartPanel.subTitle "L'é poscibile gestî &syncBrand.shortName.label; inte opçion.">
 <!ENTITY syncStartPanel.subTitleUnix "L'é poscibile gestî &syncBrand.shortName.label; inte preferense.">
+
+<!ENTITY browserContentToolboxMenu.accesskey "w">
+<!ENTITY browserContentToolboxMenu.label "Stipetto di atressi di contegnui do browser">
+<!ENTITY browserToolboxCmd.commandkey "i">
+<!ENTITY castVideoCmd.label "Manda video a dispositivo">
+<!ENTITY castVideoCmd.accesskey "n">
+<!ENTITY customizeMode.lwthemes "Temi">
+<!ENTITY customizeMode.lwthemes.myThemes "I mæ temi">
+<!ENTITY customizeMode.lwthemes.recommended "Consegiou">
+<!ENTITY customizeMode.lwthemes.menuManage "Gestisci">
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "G">
+<!ENTITY customizeMode.lwthemes.menuGetMore "Piggia atri temi">
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "O">
+<!ENTITY emeLearnMoreContextMenu.label "Atre informaçioin un sce DRM…">
+<!ENTITY emeLearnMoreContextMenu.accesskey "D">
+<!ENTITY emeNotificationsDontAskAgain.label "No domandalo ciù">
+<!ENTITY emeNotificationsDontAskAgain.accesskey "c">
+<!ENTITY emeNotificationsNotNow.label "No oua">
+<!ENTITY emeNotificationsNotNow.accesskey "N">
+
+
+
+
+
+
 
 
