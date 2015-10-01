@@ -8,3 +8,6 @@
 <!ENTITY aboutAccountsConfig.startButton.label "Ξεκινήστε">
 <!ENTITY aboutAccountsConfig.useOldSync.label "Χρησιμοποιείτε μια παλαιότερη έκδοση του Sync;">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "Προτιμήσεις Sync">
+<!ENTITY aboutAccounts.noConnection.title "Δεν υπάρχει σύνδεση">
+<!ENTITY aboutAccounts.noConnection.description "Πρέπει να είστε συνδεδεμένοι στο διαδίκτυο για να συνεχίσετε.">
+<!ENTITY aboutAccounts.noConnection.retry "Προσπαθήστε ξανά">
