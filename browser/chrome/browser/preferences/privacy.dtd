@@ -13,6 +13,8 @@
 <!ENTITY trackingProtectionPBM5.label         "Uporabi zaščito pred sledenjem v zasebnih oknih">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Več o tem">
+<!ENTITY changeBlockList.label          "Zamenjaj blokirni seznam">
+<!ENTITY changeBlockList.accesskey      "C">
 
 <!ENTITY  history.label                 "Zgodovina">
 

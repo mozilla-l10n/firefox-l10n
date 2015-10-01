@@ -109,6 +109,7 @@
      shown in the inspector contextual-menu for the item that outputs a
      variable for the current node to the console. When triggered,
      this item opens the split Console. -->
+<!ENTITY inspectorUseInConsole.label       "Uporabi v konzoli">
 
 <!-- LOCALIZATION NOTE (inspectorExpandNode.label): This is the label
      shown in the inspector contextual-menu for recursively expanding

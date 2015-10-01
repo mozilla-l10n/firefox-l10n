@@ -45,3 +45,4 @@
 <!ENTITY camera.label                    "Uporabi kamero">
 <!ENTITY microphone.label                "Uporabi mikrofon">
 
+<!ENTITY focusSearch.key                 "f">

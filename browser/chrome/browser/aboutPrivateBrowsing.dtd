@@ -14,13 +14,16 @@
      of the Tracking Protection section, and in general not much larger than
      30em to prevent the sections from wrapping on smaller window sizes.
      -->
+<!ENTITY aboutPrivateBrowsing.width1           "30em">
 <!ENTITY aboutPrivateBrowsing.title            "Uporabljate zasebno brskanje">
 
+<!ENTITY aboutPrivateBrowsing.info.notsaved    "Ni shranjeno">
 <!ENTITY aboutPrivateBrowsing.info.history     "Zgodovina">
 <!ENTITY aboutPrivateBrowsing.info.searches    "Iskanja">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Piškotki">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Začasne datoteke">
 
+<!ENTITY aboutPrivateBrowsing.info.saved       "Shranjeno">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Prenosi">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Zaznamki">
 
@@ -35,6 +38,7 @@
      Note that the required space may vary between platforms because fonts are
      different, so testing on Windows, Mac, and Linux is encouraged.
      -->
+<!ENTITY trackingProtection.width1             "22em">
 <!ENTITY trackingProtection.title              "Zaščita pred sledenjem">
 
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
