@@ -115,7 +115,7 @@ can reach it easily. -->
 <!ENTITY social.marklinkMenu.label "Sarva colegamento inte…">
 
 <!ENTITY backCmd.label                "Inderê">
-<!ENTITY backCmd.accesskey            "I">
+
 <!ENTITY backButton.tooltip           "Vanni inderê de 'na pagina">
 <!ENTITY forwardCmd.label             "Avanti">
 <!ENTITY forwardCmd.accesskey         "A">
@@ -285,6 +285,15 @@ can reach it easily. -->
 
 <!ENTITY urlbar.accesskey             "S">
 <!ENTITY urlbar.switchToTab.label     "Vanni a-o feuggio:">
+
+<!ENTITY urlbar.searchSuggestionsNotification.question "Megiorâ l’esperiensa de riçerca co-i conseggi?">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Atre informaçioin…">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "A">
+<!ENTITY urlbar.searchSuggestionsNotification.disable "No">
+<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "N">
+<!ENTITY urlbar.searchSuggestionsNotification.enable "Sci">
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "S">
+
 
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -470,17 +479,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullScreenButton.tooltip       "Fanni vedde a tutto schermo">
 
-<!ENTITY zoomOutButton.tooltip          "Diminoisci zoom">
-<!ENTITY zoomInButton.tooltip           "Aomenta zoom">
-<!ENTITY zoomControls.label             "Contròlli do Zoom">
+<!ENTITY quitApplicationCmdWin2.label "Sciòrti">
+<!ENTITY quitApplicationCmdWin2.accesskey "S">
+<!ENTITY quitApplicationCmdWin2.tooltip "Særa &brandShorterName;">
 
-<!ENTITY quitApplicationCmdWin.label       "Sciòrti"> 
-<!ENTITY quitApplicationCmdWin.accesskey   "S">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Sciòrti"> 
 <!ENTITY quitApplicationCmd.accesskey   "S">
-<!ENTITY quitApplicationCmdMac.label    "Sciòrti da &brandShortName;">
+<!ENTITY quitApplicationCmdMac2.label "Sciòrti da &brandShorterName;">
 
 <!ENTITY closeCmd.label                 "Særa">  
 <!ENTITY closeCmd.key                   "W">  
@@ -527,6 +534,35 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.unverifiedsite2 "Sto scito o no l'à informaçioin d'identitæ.">
 <!ENTITY identity.connectedTo "Ti ê conesso a">
+<!ENTITY identity.connectionSecure "Conescion segua">
+<!ENTITY identity.connectionNotSecure "Conescion no segua">
+<!ENTITY identity.connectionFile "Sta pagina a l'é sarvâ in sciô dispoxitivo che t'adeuvi.">
+<!ENTITY identity.connectionVerified1 "A conescion con sto scito a l'é segua. O scito o l'é gestio da:">
+<!ENTITY identity.connectionInternal "Sta chi a l'é 'na pagina segua de &brandShortName;.">
+<!ENTITY identity.insecureLoginForms "Sto acesso o porieva esa conpromisso.">
+<!ENTITY identity.activeBlocked "Quarche elemento no seguo de sta pagina o l'é stæto blocou da &brandShortName;.">
+<!ENTITY identity.passiveLoaded "Quarche elemento de sta pagina no en segui (prezempio inmagini).">
+<!ENTITY identity.activeLoaded "A proteçion a l'é dizativâ pe sta pagina.">
+<!ENTITY identity.weakEncryption "Sta pagina a deuvia na cifratua debole.">
+<!ENTITY identity.description.insecure "A conescion co sto scito a no l'é privâ. E informaçioin mandæ, comme ad prezempio parole segrete, mesaggi, dæti de-e carte de credito, ecc. porievan ese amiæ da atri sogetti.">
+<!ENTITY identity.description.insecureLoginForms "E informaçioin de acesso inserie in sta pagina no en segue e porievan ese conpromisse.">
+<!ENTITY identity.description.weakCipher "A conescion con sto scito web a deuvia na cifratua debole e a no l'é privâ.">
+<!ENTITY identity.description.weakCipher2 "Atri sogetti porievan amiâ e informaçioin trasmisse ò modificâ o conportamento do scito.">
+<!ENTITY identity.description.activeBlocked "Quarche elemento no siguo de sta pagina o l'é stæto blocou da &brandShortName;.">
+<!ENTITY identity.description.passiveLoaded "A conescion a no l'é privâ e e informaçioin trasmisse a-o scito porievan es vixbili a atri soggtti.">
+<!ENTITY identity.description.passiveLoaded2 "Quarche elemento de sto scito web o no l'é seguo (prezenpio inmagini).">
+<!ENTITY identity.description.passiveLoaded3 "Sciben quarche elemento o segge blocou da &brandShortName;, in sta pagina gh'é ancon di elementi no sigui (prezenpio inmagini).">
+<!ENTITY identity.description.activeLoaded "A conescion con sto scito web a no l'é segua perché gh'à di contegnui no segui (prezenpio script).">
+<!ENTITY identity.description.activeLoaded2 "E informaçioin mandæ, comme ad prezempio parole segrete, mesaggi, dæti de-e carte de credito, ecc. porievan ese amiæ da atri sogetti.">
+<!ENTITY identity.enableMixedContentBlocking.label "Ativa proteçion">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "A">
+<!ENTITY identity.disableMixedContentBlocking.label "Dizativa temporaneamente proteçion">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "D">
+<!ENTITY identity.learnMore "Ulteriori informazioni">
+<!ENTITY identity.moreInfoLinkText2 "Ciù informaçioin">
+<!ENTITY identity.permissions "Permissi">
+<!ENTITY identity.permissionsEmpty "Nisciun permisso speciale asociou a sto scito.">
+
 <!-- Localization note (identity.runBy) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -538,9 +574,6 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "che o l'é fæto da ">
-
-<!ENTITY identity.moreInfoLinkText "Ciù informaçioin…">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -612,8 +645,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY openLinkInPrivateWindowCmd.label "Arvi colegamento inte 'n neuvo barcon privou">
 <!ENTITY social.chatBar.accesskey "h">
 <!ENTITY social.chatBar.label "Seleçionn-a chat">
-<!ENTITY webrtcIndicatorButton.label "Acesso fòtocamera/micròfono">
-<!ENTITY webrtcIndicatorButton.tooltip "Fanni vedde i sciti co-i quaæ en condivizi fòtocamera ò micròfono">
 
 <!ENTITY mixedContentBlocked.helplink "Atre informaçioin">
 <!ENTITY mixedContentBlocked.moreinfo "I ciù tanti sciti web fonçionian ben anche se vegne blocou sto contegnuo.">
@@ -673,8 +704,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY tabCrashed.tryAgain "Preuva torna">
 <!ENTITY browserToolboxMenu.label "Cascetta di attressi do navegatô">
 <!ENTITY browserToolboxMenu.accesskey "e">
-<!ENTITY switchToMetroCmd.label "Arvi torna &brandShortName; in mòddo Windows 8 Touch">
-<!ENTITY switchToMetroCmd2.label "Arvi torna &brandShortName; in mòddo Windows 8 Touch">
+
 
 <!ENTITY appMenuCustomize.label "Personalizza">
 <!ENTITY appMenuCustomize.tooltip "Personalizza menû e bare di strumenti">
@@ -713,18 +743,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY fxaSignIn.label "Acedi into &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Riconetti a &syncBrand.shortName.label;">
 <!ENTITY navbarOverflow.label "Atri strumenti…">
-<!ENTITY quitApplicationCmdWin.tooltip "Særa &brandShortName;">
-<!ENTITY syncErrorPanel.heading "Inposcibile conetise a &syncBrand.shortName.label;">
-<!ENTITY syncErrorPanel.subTitle "Acedi pe repigiâ a scincronizaçion.">
-<!ENTITY syncErrorPanel.signInButton.label "Acedi">
-<!ENTITY syncErrorPanel.signInButton.accesskey "A">
+
 <!ENTITY uiTour.infoPanel.close "Særa">
 <!ENTITY viewBookmarksSidebar2.label "Veddi a bara de scianco segnalibbri">
 
 <!ENTITY customizeMode.menuAndToolbars.label "Menû e bare di strumenti">
-<!ENTITY syncStartPanel.heading "Scincronizaçion de &brandShortName;">
-<!ENTITY syncStartPanel.subTitle "L'é poscibile gestî &syncBrand.shortName.label; inte opçion.">
-<!ENTITY syncStartPanel.subTitleUnix "L'é poscibile gestî &syncBrand.shortName.label; inte preferense.">
 
 <!ENTITY browserContentToolboxMenu.accesskey "w">
 <!ENTITY browserContentToolboxMenu.label "Stipetto di atressi di contegnui do browser">
@@ -745,10 +768,79 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY emeNotificationsNotNow.label "No oua">
 <!ENTITY emeNotificationsNotNow.accesskey "N">
 
+<!ENTITY changeSearchSettings.button "Inpostaçioin da riçerca">
+<!ENTITY panicButton.view.mainTimeframeDesc "Ascòrda:">
+<!ENTITY panicButton.view.5min "i urtimi 5 menuti">
+<!ENTITY panicButton.view.2hr "e urtime 2 oe">
+<!ENTITY panicButton.view.day "e urtime 24 oe">
+<!ENTITY panicButton.view.mainActionDesc "E consegoense en:">
+<!ENTITY panicButton.view.deleteCookies "Scancelaçion di <html:strong>cookie</html:strong> reçenti">
+<!ENTITY panicButton.view.deleteHistory "Scancelaçion da <html:strong>stöia</html:strong> reçente">
+<!ENTITY panicButton.view.deleteTabsAndWindows "Særamento de tutti i <html:strong>feuggi</html:strong> e <html:strong>barcoin</html:strong> averti">
+<!ENTITY panicButton.view.openNewWindow "Avertua de 'n neuvo barcon “netezou”">
+<!ENTITY panicButton.view.undoWarning "Sta operaçion a no se peu anulâ.">
+<!ENTITY panicButton.view.forgetButton "Ascòrda">
+<!ENTITY panicButton.thankyou.msg1 "A stöia reçente a l'é stæta scancelâ.">
+<!ENTITY panicButton.thankyou.msg2 "Bonn-a navegaçion.">
+<!ENTITY panicButton.thankyou.buttonlabel "Graçie">
+<!ENTITY processHang.terminateScript.label "Blòcca o script">
+<!ENTITY processHang.terminateScript.accessKey "B">
+<!ENTITY processHang.debugScript.label "Ezegoi o debug do script">
+<!ENTITY processHang.debugScript.accessKey "E">
+<!ENTITY processHang.terminatePlugin.label "Termina o plugin">
+<!ENTITY processHang.terminatePlugin.accessKey "m">
+<!ENTITY processHang.terminateProcess.label "Termina o processo web">
+<!ENTITY processHang.terminateProcess.accessKey "T">
 
+<!ENTITY mirrorTabCmd.label "Radoggia feuggio">
+<!ENTITY mirrorTabCmd.accesskey "u">
 
+<!ENTITY newNonRemoteWindow.label "Neuvo barcon no e10s">
 
+<!ENTITY saveToPocketCmd.label "Sarva pagina in Pocket">
+<!ENTITY saveToPocketCmd.accesskey "k">
+<!ENTITY saveLinkToPocketCmd.label "Sarva colegamento in Pocket">
+<!ENTITY saveLinkToPocketCmd.accesskey "P">
+<!ENTITY pocketMenuitem.label "Veddi elenco Pocket">
 
+<!ENTITY social.directory.label "Portâ serviççi">
+<!ENTITY social.directory.text "L'é poscibile ativâ neuvi serviççi de condivixion da-o portâ dedicou.">
+<!ENTITY social.directory.button "Arvi o portâ">
+<!ENTITY social.directory.introText "Sciacca in sce 'n serviçio pe azonzelo a &brandShortName;.">
+<!ENTITY social.directory.viewmore.text "Atre informaçioin">
 
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "Carega torna tutti i feuggi">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "r">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Tutti i feuggiinti segnalibbri…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Arvi torna o feuggio serou">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "A">
+
+<!ENTITY trackingProtection.title "Proteçion anti-traciamento">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; o blòcca di elementi da pagina che peuan traciâ a navegaçion.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "In sta pagina gh'é di elementi che peuan traciâ a navegaçion. A proteçion è dizativâ.">
+<!ENTITY trackingProtection.notDetected3 "In sta pagina no gh'é di elementi che peuan traciâ a navegaçion.">
+<!ENTITY trackingProtection.unblock.label "Dizativa proteçion pe sto scito">
+<!ENTITY trackingProtection.unblock.accesskey "D">
+<!ENTITY trackingProtection.unblockPrivate.label "Dizativa proteçion pe sta sescion">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "D">
+<!ENTITY trackingProtection.block2.label "Ativa proteçion">
+<!ENTITY trackingProtection.block2.accesskey "A">
+<!ENTITY trackingContentBlocked.message "Traciamento">
+<!ENTITY trackingContentBlocked.moreinfo "En stæti blocæ di elementi in sta pagina che peuan traciâ a navegaçion.">
+<!ENTITY trackingContentBlocked.learnMore "Atre informaçioin">
+<!ENTITY trackingContentBlocked.options "Inpostaçioin">
+<!ENTITY trackingContentBlocked.unblock2.label "Dizativa proteçion pe sto scito">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
+<!ENTITY trackingContentBlocked.block.label "Ativa proteçion">
+<!ENTITY trackingContentBlocked.block.accesskey "A">
+<!ENTITY trackingContentBlocked.disabled.message "A proteçion anti-traciamento a l'é dizativâ">
+
+<!ENTITY webapps.label "App">
+<!ENTITY webapps.accesskey "A">
+<!ENTITY webide.label "WebIDE">
+<!ENTITY webide.accesskey "W">
+<!ENTITY webide.keycode "VK_F8">
+<!ENTITY webide.keytext "F8">
 
 
