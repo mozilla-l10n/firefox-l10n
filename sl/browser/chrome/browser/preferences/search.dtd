@@ -11,6 +11,7 @@
 
 <!ENTITY showURLBarSuggestions.label           "Prikaži predloge iskanja med zadetki vrstice z naslovom">
 <!ENTITY showURLBarSuggestions.accesskey       "l">
+<!ENTITY urlBarSuggestionsPermanentPB.label    "Iskalni predlogi se ne bodo prikazali v lokacijski vrstici ker ste nastavili &brandShortName; da si ne zapomne zgodovine.">
 
 <!ENTITY redirectWindowsSearch.label "Uporabi ta iskalnik za iskanje v okolju Windows">
 <!ENTITY redirectWindowsSearch.accesskey "W">
