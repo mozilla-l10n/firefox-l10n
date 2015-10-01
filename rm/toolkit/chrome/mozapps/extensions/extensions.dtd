@@ -23,6 +23,8 @@
 <!ENTITY cmd.back.tooltip                     "Ir enavos ina pagina">
 <!ENTITY cmd.forward.tooltip                  "Ir anavant ina pagina">
 
+<!ENTITY showUnsignedExtensions.button.label  "Impussibel da verifitgar tschertas extensiuns">
+<!ENTITY showAllExtensions.button.label       "Mussar tut las extensiuns">
 
 <!-- global warnings -->
 <!ENTITY warning.safemode.label                    "Tut ils supplements èn vegnids deactivads dal modus segirà.">
@@ -104,6 +106,7 @@
 <!ENTITY cmd.uninstallAddon.label             "Allontanar">
 <!ENTITY cmd.uninstallAddon.accesskey         "A">
 <!ENTITY cmd.debugAddon.label                 "Tschertgar errurs">
+<!ENTITY cmd.debugAddon.accesskey             "r">
 <!ENTITY cmd.showPreferencesWin.label         "Preferenzas">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Midar las preferenzas da quest supplement">
 <!ENTITY cmd.showPreferencesUnix.label        "Preferenzas">
@@ -233,9 +236,17 @@
 
 <!ENTITY setting.learnmore "Ulteriuras infurmaziuns…">
 
+<!ENTITY disabledUnsigned.heading "Tscherts supplements èn vegnids deactivads">
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+<!ENTITY disabledUnsigned.description.start "Ils suandants supplements n'èn betg verifitgads per l'utilisaziun en &brandShortName;. Ti pos ">
+<!ENTITY disabledUnsigned.description.findAddonsLink "tschertgar supplements equivalents">
+<!ENTITY disabledUnsigned.description.end " u dumandar il sviluppader d'als laschar verifitgar.">
+<!ENTITY disabledUnsigned.learnMore "Ve a savair tut davart nossas stentas per ta porscher la segirezza online necessaria.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
+<!ENTITY disabledUnsigned.devInfo.start "Sviluppaders che vulan laschar verifitgar lur supplements pon cuntinuar cun leger noss ">
+<!ENTITY disabledUnsigned.devInfo.linkToManual "manual">
+<!ENTITY disabledUnsigned.devInfo.end ".">
