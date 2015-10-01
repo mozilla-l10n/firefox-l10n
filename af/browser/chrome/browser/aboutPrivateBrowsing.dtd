@@ -42,6 +42,7 @@
 <!ENTITY trackingProtection.state.enabled      "AAN">
 <!ENTITY trackingProtection.state.disabled     "AF">
 
+<!ENTITY trackingProtection.description1       "Private vensters blok nou dele van die bladsy wat dalk u blaaigedrag dophou.">
 
 <!ENTITY trackingProtection.disable            "Skakel volgbeskerming af">
 <!ENTITY trackingProtection.enable             "Skakel volgbeskerming aan">
