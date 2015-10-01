@@ -121,7 +121,6 @@ can reach it easily. -->
 <!ENTITY reloadCmd.label              "Recarega">
 <!ENTITY reloadButton.tooltip         "Recarega a pagina corente">
 <!ENTITY stopCmd.label                "Ferma">
-<!ENTITY stopCmd.accesskey            "F">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Fermite de caregâ sta pagina">
 <!ENTITY goEndCap.tooltip             "Vanni a l'indirisso in sciâ bara di indirissi">
@@ -137,7 +136,6 @@ can reach it easily. -->
 <!ENTITY homeButton.label             "Pagina iniçiâ">
 
 <!ENTITY tabGroupsButton.label        "Gruppo de feuggi">
-<!ENTITY tabGroupsButton.tooltip      "Ragruppa i teu feuggi">
 
 
 <!ENTITY bookmarksButton.label          "Segnalibbri">
@@ -581,9 +579,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY syncSyncNowItem.label        "Scincronizza oua">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncToolbarButton.label      "Sync">
-
-<!ENTITY toggleAddonBarCmd.key        "/">
-
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Særa a Bara do svilupatô">
 <!ENTITY devToolbarMenu.label "Bara do svilupatô">
