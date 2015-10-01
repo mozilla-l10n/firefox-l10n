@@ -71,7 +71,7 @@
 <!ENTITY  rememberActions.removeCookies.label "remover cookies individualmente">
 <!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY  dontrememberDescription.label  "O &brandShortName; irá utilizar as mesmas definições da navegação privada e não irá memorizar o histórico da navegação.">
+<!ENTITY  dontrememberDescription.label  "O &brandShortName; irá utilizar as mesmas definições da navegação privada e não irá memorizar o histórico de navegação.">
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
 
