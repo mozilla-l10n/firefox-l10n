@@ -443,7 +443,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
 
-<!ENTITY searchFor.label              "Soek  ">
+<!ENTITY searchFor.label              "Soek ">
 <!ENTITY searchWith.label             " met:">
 <!-- LOCALIZATION NOTE (search.label, searchAfter.label):
      This string is used to build the header above the list of one-click search
@@ -716,7 +716,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings in the subview. -->
 
 <!ENTITY identity.description.insecure "U verbinding aan dié werf is nie privaat nie. Inligting wat ingedien word kan deur ander gesien word (bv. wagwoorde, boodskappe, kredietkaartnommers, ens.)">
-
+<!ENTITY identity.description.insecureLoginForms "Die aanmeldinligting wat u op hierdie bladsy intik, is nie beveilig nie en kan gekompromitteer word. ">
 <!ENTITY identity.description.weakCipher "U verbinding aan dié werf gebruik swak enkripsie en is nie privaat nie.">
 <!ENTITY identity.description.weakCipher2 "Ander mense kan u inligting sien of die webwerf se gedrag verander.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; het dele van dié blad geblok wat nie beveilig is nie.">
@@ -735,7 +735,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.moreInfoLinkText2 "Meer inligting">
 
 <!ENTITY identity.permissions "Toestemming">
-
+<!ENTITY identity.permissionsEmpty "U het geen spesiale toestemming aan dié werf gegee nie. ">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -746,6 +746,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
+<!ENTITY syncSignIn.label             "Meld aan by &syncBrand.shortName.label;…">
 
 <!ENTITY syncSyncNowItem.label        "Sinkroniseer nou">
 <!ENTITY syncSyncNowItem.accesskey    "S">

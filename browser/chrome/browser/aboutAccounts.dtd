@@ -10,5 +10,5 @@
 <!ENTITY aboutAccountsConfig.useOldSync.label "Gebruiker u 'n ouer weergawe van Sync?">
 
 
-
-
+<!ENTITY aboutAccounts.noConnection.description "'n Internetverbinding is nodig om aan te meld.">
+<!ENTITY aboutAccounts.noConnection.retry "Probeer weer">
