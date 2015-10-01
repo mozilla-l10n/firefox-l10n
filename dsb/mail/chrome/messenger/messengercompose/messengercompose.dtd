@@ -215,7 +215,7 @@
 <!ENTITY addressButton.tooltip "Dostawarja z adresnika wubraś">
 <!ENTITY attachButton.tooltip "Pśiłožk zapśimjeś">
 <!ENTITY spellingButton.tooltip "Pšawopis wubranego teksta abo cełeje powěsći kontrolěrowaś">
-
+<!ENTITY statusLanguageText.tooltip "Rěc pšawopisneje kontrole">
 <!ENTITY saveButton.tooltip "Toś tu powěsć składowaś">
 <!ENTITY cutButton.tooltip              "Wurězaś">
 <!ENTITY copyButton.tooltip             "Kopěrowaś">
