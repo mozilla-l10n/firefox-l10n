@@ -20,16 +20,16 @@
 <!ENTITY replaceButton.accessKey "W">
 <!ENTITY replaceAllButton.label "Wšykne wuměniś">
 <!ENTITY replaceAllButton.accessKey "u">
-
-
+<!ENTITY stopButton.label "Stoj">
+<!ENTITY stopButton.accessKey "t">
 <!ENTITY userDictionary.label "Wósobinski słownik:">
 <!ENTITY moreDictionaries.label "Dalšne słowniki ześěgnuś…">
 <!ENTITY addToUserDictionaryButton.label "Słowo pśidaś">
 <!ENTITY addToUserDictionaryButton.accessKey "S">
 <!ENTITY editUserDictionaryButton.label "Wobźěłaś…">
 <!ENTITY editUserDictionaryButton.accessKey "b">
-
-
+<!ENTITY recheckButton2.label "Tekst znowego kontrolěrować">
+<!ENTITY recheckButton2.accessKey "T">
 <!ENTITY closeButton.label "Zacyniś">
 <!ENTITY closeButton.accessKey "c">
 <!ENTITY sendButton.label "Pósłaś">

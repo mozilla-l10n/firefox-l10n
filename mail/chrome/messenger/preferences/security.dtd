@@ -5,7 +5,7 @@
 <!ENTITY itemJunk.label          "Cajk">
 <!ENTITY itemPhishing.label      "E-mailowa wobšuda">
 <!ENTITY itemPasswords.label     "Gronidła">
-
+<!ENTITY itemAntiVirus.label     "Antiwirusowy program">
 <!-- Junk Mail Controls -->
 
 <!ENTITY junkMail.intro "Nastajśo swóje standardne nastajenja za cajkowu e-mail. Nastajenja cajkoweje e-maile, specifiske za konto, daju se w kontowych nastajenjach konfigurěrowaś.">
@@ -42,5 +42,7 @@
 <!ENTITY savedPasswords.accesskey       "S">
 <!-- Anti Virus -->
 
-
+<!ENTITY antiVirus.intro      "&brandShortName; móžo antiwirusowej softwarje wólažcyś, dochadajuce e-mailowe powěsći za wirusami analyzěrowaś, nježli až se lokalnje składuju.">
+<!ENTITY antiVirus.label      "Antiwirusowym programam dowóliś, jadnotliwe dochadajuce powěsći pód karantenu stajiś">
+<!ENTITY antiVirus.accesskey  "A">
 
