@@ -772,7 +772,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY customizeMode.lwthemes.menuManage "व्यवस्थापन करा">
 
-
+<!ENTITY customizeMode.lwthemes.menuGetMore "अधिक थिम्स मिळवा">
 
 
 <!ENTITY social.chatBar.commandkey "c">
@@ -791,6 +791,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY getUserMedia.allWindowsShared.message "पडद्यावरील सर्व दृष्यास्पद पटलांना शेअर केले जाईल.">
 
+<!ENTITY trackingProtection.title "मागोवा संरक्षण">
 
 
 
