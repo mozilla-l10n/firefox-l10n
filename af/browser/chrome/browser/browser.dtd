@@ -131,12 +131,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY fullscreenWarning.beforeDomain.label "">
-
-
+<!ENTITY fullscreenWarning.afterDomain.label "beslaan nou die volle skerm">
+<!ENTITY fullscreenWarning.generic.label "Dié dokument beslaan nou die volle skerm">
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
-
+<!ENTITY exitDOMFullscreen.button "Verlaat volskerm (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "Verlaat volskerm (esc)">
 <!ENTITY leaveDOMFullScreen.label "Verlaat volskerm">
 <!ENTITY leaveDOMFullScreen.accesskey "o">
 
@@ -222,7 +223,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "Afgelaai">
 <!ENTITY downloads.accesskey          "A">
 <!ENTITY downloads.commandkey         "j">
-
+<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Byvoegings">
 <!ENTITY addons.accesskey             "B">
 <!ENTITY addons.commandkey            "A">
@@ -464,9 +465,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Verander soekinstellings">
 
-
-
-
+<!ENTITY searchInNewTab.label         "Soek in nuwe oortjie">
+<!ENTITY searchInNewTab.accesskey     "t">
+<!ENTITY searchSetAsDefault.label     "Stel as verstek-soekenjin">
+<!ENTITY searchSetAsDefault.accesskey "v">
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -657,6 +659,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "S">
 
+<!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "Bladsystyl">
 <!ENTITY pageStyleMenu.accesskey "t">
@@ -701,7 +704,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Beveiligde verbinding">
 <!ENTITY identity.connectionNotSecure "Verbinding is nié beveilig nie">
 <!ENTITY identity.connectionFile "Dié blad word op u rekenaar gestoor.">
-
+<!ENTITY identity.connectionVerified1 "U is veilig verbind aan dié werf, aangebied deur:">
 <!ENTITY identity.connectionInternal "Hierdie is 'n beveiligde &brandShortName;-bladsy.">
 
 <!-- Strings for connection state warnings. -->
