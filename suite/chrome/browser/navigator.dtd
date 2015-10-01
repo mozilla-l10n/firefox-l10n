@@ -58,7 +58,7 @@
 
 <!ENTITY locationBar.tooltip "Vložení vyhledávací podmínky, klíčového slova nebo webové adresy">
 <!ENTITY locationBar.accesskey "D">
-<!ENTITY locationBar.title "Umístění">
+<!ENTITY locationBar.title "Adresa">
 <!ENTITY proxyIcon.tooltip "Přetáhnutím ikony vytvoříte odkaz na tuto stránku">
 
 <!ENTITY searchItem.title "Hledat">
