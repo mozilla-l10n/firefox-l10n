@@ -2,6 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY webAudioEditorUI.reloadNotice1 "Recàrega">
-<!ENTITY webAudioEditorUI.reloadNotice2 "A pàgina pe védde e cangiâ i contèsti àodio.">
-<!ENTITY webAudioEditorUI.emptyNotice "Aspêto a creaçión de 'n contèsto àodio…">
+<!ENTITY webAudioEditorUI.reloadNotice1 "Recarega">
+<!ENTITY webAudioEditorUI.reloadNotice2 "A pagina pe vedde e cangiâ i contesti aodio.">
+<!ENTITY webAudioEditorUI.emptyNotice "Aspeto a creaçion de 'n contesto aodio…">

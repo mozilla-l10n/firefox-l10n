@@ -10,17 +10,17 @@
 
 <!-- LOCALIZATION NOTE (userStylesSearch): This is the placeholder that goes in
   -  the search box when no search term has been entered. -->
-<!ENTITY userStylesSearch      "Riçèrca">
+<!ENTITY userStylesSearch      "Riçerca">
 
 <!-- LOCALIZATION NOTE (selectedElementLabel): This is the label for the path of
   -  the highlighted element in the web page. This path is based on the document
   -  tree. -->
-<!ENTITY selectedElementLabel  "Eleménti seleçionæ:">
+<!ENTITY selectedElementLabel  "Elementi seleçionæ:">
 
 <!-- LOCALIZATION NOTE (noPropertiesFound): In the case where there are no CSS
   -  properties to display e.g. due to search criteria this message is
   -  displayed. -->
-<!ENTITY noPropertiesFound     "Nisciùnn-a propietæ CSS atrovâ.">
+<!ENTITY noPropertiesFound     "Nisciunn-a propietæ CSS atrova.">
 
 
 <!-- LOCALIZATION NOTE (bestMatch, matched, parentMatch & unmatched): For each
@@ -29,5 +29,5 @@
   -  match, a match, a parent match, or a rule did not match the element the
   -  user has highlighted. -->
 <!ENTITY computedViewTitle 		"Calcolæ">
-<!ENTITY ruleViewTitle 			"Régole">
-<!ENTITY browserStylesLabel "Stîli do navegatô">
+<!ENTITY ruleViewTitle 			"Regole">
+<!ENTITY browserStylesLabel "Stili do navegatô">

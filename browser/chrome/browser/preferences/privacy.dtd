@@ -2,92 +2,92 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tracking.label                 "Traciaménto">
+<!ENTITY tracking.label                 "Traciamento">
 
 <!ENTITY  history.label                 "Stöia">
 
-<!ENTITY  locationBar.label             "Bâra di indìrissi">
+<!ENTITY  locationBar.label             "Bara di indirissi">
 
-<!ENTITY  locbar.pre.label              "Quànde ûzo a bâra di indìrissi, dìnni:">
+<!ENTITY  locbar.pre.label              "Quande uzo a bara di indirissi, dinni:">
 <!ENTITY  locbar.pre.accessKey          "d">
 <!ENTITY  locbar.post.label             "">
-<!ENTITY  locbar.both.label             "Stöia e Segnalìbbri">
+<!ENTITY  locbar.both.label             "Stöia e Segnalibbri">
 <!ENTITY  locbar.history.label          "Stöia">
-<!ENTITY  locbar.bookmarks.label        "Segnalìbbri">
-<!ENTITY  locbar.nothing.label          "Nìnte">
+<!ENTITY  locbar.bookmarks.label        "Segnalibbri">
+<!ENTITY  locbar.nothing.label          "Ninte">
 
 
-<!ENTITY  acceptCookies.label           "Acétta i cookie da sti scîti">
+<!ENTITY  acceptCookies.label           "Acetta i cookie da sti sciti">
 <!ENTITY  acceptCookies.accesskey       "k">
 
-<!ENTITY  keepUntil.label               "Mantégni fìn a che:">
+<!ENTITY  keepUntil.label               "Mantegni fin a che:">
 <!ENTITY  keepUntil.accesskey           "M">
 
-<!ENTITY  expire.label                  "scàzzan">
+<!ENTITY  expire.label                  "scazzan">
 <!ENTITY  close.label                   "Mi særo &brandShortName;">
-<!ENTITY  askEachTime.label             "Domàndimelo ògni vòtta">
+<!ENTITY  askEachTime.label             "Domandimelo ògni vòtta">
 
-<!ENTITY  cookieExceptions.label        "Eceçioìn…">
+<!ENTITY  cookieExceptions.label        "Eceçioin…">
 <!ENTITY  cookieExceptions.accesskey    "E">
 
-<!ENTITY  showCookies.label             "Fànni védde i cookie…">
+<!ENTITY  showCookies.label             "Fanni vedde i cookie…">
 <!ENTITY  showCookies.accesskey         "F">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; saiâ:">
+<!ENTITY  historyHeader.pre.label          "&brandShortName; saia:">
 <!ENTITY  historyHeader.pre.accesskey      "s">
 <!ENTITY  historyHeader.remember.label     "Aregòrda a stöia">
 <!ENTITY  historyHeader.dontremember.label "No aregordâ a stöia">
-<!ENTITY  historyHeader.custom.label       "Adêuvia e preferénse personalizæ pe a stöia">
+<!ENTITY  historyHeader.custom.label       "Adeuvia e preferense personalizæ pe a stöia">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "O &brandShortName; o s'aregordîa de teu navegaçioìn, descaregaménti e stöia de riçèrche, e in ciù o tégne i cookie da-i scîti che ti vìxiti.">
+<!ENTITY  rememberDescription.label      "O &brandShortName; o s'aregordia de teu navegaçioin, descaregamenti e stöia de riçerche, e in ciù o tegne i cookie da-i sciti che ti vixiti.">
 
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-<!ENTITY  rememberActions.pre.label           "Ti peu voéi ">
-<!ENTITY  rememberActions.clearHistory.label  "Scancelâ a stöia ciù nêuva">
+<!ENTITY  rememberActions.pre.label           "Ti peu voei ">
+<!ENTITY  rememberActions.clearHistory.label  "Scancelâ a stöia ciù neuva">
 <!ENTITY  rememberActions.middle.label        ", ò ">
-<!ENTITY  rememberActions.removeCookies.label "scancelâ cookie scìngoli">
+<!ENTITY  rememberActions.removeCookies.label "scancelâ cookie scingoli">
 <!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY  dontrememberDescription.label  "O &brandShortName; o l'uziâ e mæxime preférençe da navegaçión privâ, e o no se aregordiâ da stöia de teu navegaçioìn.">
+<!ENTITY  dontrememberDescription.label  "O &brandShortName; o l'uziâ e mæxime preferençe da navegaçion priva, e o no se aregordiâ da stöia de teu navegaçioin.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-<!ENTITY  dontrememberActions.pre.label          "Ti ti peu voéi ascì ">
-<!ENTITY  dontrememberActions.clearHistory.label "Scancèlla tùtta a stöia corénte">
+<!ENTITY  dontrememberActions.pre.label          "Ti ti peu voei ascì ">
+<!ENTITY  dontrememberActions.clearHistory.label "Scancella tutta a stöia corente">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent2.label "Dêuvia de lóngo o mòddo de navegaçión privòu">
+<!ENTITY  privateBrowsingPermanent2.label "Deuvia de longo o mòddo de navegaçion privou">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
-<!ENTITY  rememberHistory2.label      "Aregòrda da mæ stöia de navegaçión e descaregaménti">
+<!ENTITY  rememberHistory2.label      "Aregòrda da mæ stöia de navegaçion e descaregamenti">
 <!ENTITY  rememberHistory2.accesskey  "ç">
 
-<!ENTITY  rememberSearchForm.label       "Aregòrda e riçèrche e a stöia di mòdoli">
+<!ENTITY  rememberSearchForm.label       "Aregòrda e riçerche e a stöia di mòdoli">
 <!ENTITY  rememberSearchForm.accesskey   "l">
 
-<!ENTITY  clearOnClose.label             "Scancèlla a stöia quàndo o &brandShortName; o se særa">
+<!ENTITY  clearOnClose.label             "Scancella a stöia quando o &brandShortName; o se særa">
 <!ENTITY  clearOnClose.accesskey         "r">
 
-<!ENTITY  clearOnCloseSettings.label     "Inpostaçioìn…">
+<!ENTITY  clearOnCloseSettings.label     "Inpostaçioin…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
-<!ENTITY dntTrackingNopref.label2 "No comunicâ nisciùnn-a preferénsa in sciô traciaménto di dæti personâli.">
+<!ENTITY dntTrackingNopref.label2 "No comunicâ nisciunn-a preferensa in sciô traciamento di dæti personali.">
 
 <!ENTITY dntTrackingNopref.accesskey "a">
-<!ENTITY dntTrackingNotOkay.label2 "Domànda a-i scîti de no fâ nisciùn traciaménto.">
+<!ENTITY dntTrackingNotOkay.label2 "Domanda a-i sciti de no fâ nisciun traciamento.">
 <!ENTITY dntTrackingNotOkay.accesskey "n">
-<!ENTITY dntTrackingOkay.label2 "Comùnica a-i scîti che mi són disponìbile a êse traciòu.">
+<!ENTITY dntTrackingOkay.label2 "Comunica a-i sciti che mi son disponibile a ese traciou.">
 <!ENTITY dntTrackingOkay.accesskey "i">
-<!ENTITY doNotTrackInfo.label "Âtre informaçioìn">
+<!ENTITY doNotTrackInfo.label "Atre informaçioin">
 
-<!ENTITY acceptThirdParty.always.label "de lóngo">
-<!ENTITY acceptThirdParty.never.label "mâi">
-<!ENTITY acceptThirdParty.pre.label "Acétta i cookie de tèrse pàrte:">
+<!ENTITY acceptThirdParty.always.label "de longo">
+<!ENTITY acceptThirdParty.never.label "mai">
+<!ENTITY acceptThirdParty.pre.label "Acetta i cookie de terse parte:">
 <!ENTITY acceptThirdParty.pre.accesskey "t">
-<!ENTITY acceptThirdParty.visited.label "da-i scîti vixitæ">
+<!ENTITY acceptThirdParty.visited.label "da-i sciti vixitæ">
 
 
 

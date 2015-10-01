@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY privatebrowsingpage.openPrivateWindow.label "Àrvi 'n barcón privòu">
+<!ENTITY privatebrowsingpage.openPrivateWindow.label "Arvi 'n barcon privou">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "à">
 
 <!ENTITY aboutPrivateBrowsing.info.notsaved "No vegnan sarvæ:">
@@ -15,14 +15,14 @@
 <!ENTITY aboutPrivateBrowsing.info.downloads "File descaregæ">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks "Segnalibbri">
 
-<!ENTITY aboutPrivateBrowsing.note1 "Atençion: o teu cappo ò o teu fornitô de servìççi internet en in graddo de sarvase e pagine che ti vixiti.">
-<!ENTITY aboutPrivateBrowsing.learnMore "Pe savéine de ciù.">
+<!ENTITY aboutPrivateBrowsing.note1 "Atençion: o teu cappo ò o teu fornitô de serviççi internet en in graddo de sarvase e pagine che ti vixiti.">
+<!ENTITY aboutPrivateBrowsing.learnMore "Pe saveine de ciu.">
 <!ENTITY trackingProtection.width1 "22em">
 <!ENTITY trackingProtection.title "Proteçion anti-traciamento">
 <!ENTITY trackingProtection.state.width "12ch">
 <!ENTITY trackingProtection.state.enabled "ATIVÂ">
 <!ENTITY trackingProtection.state.disabled "DIZATIVÂ">
-<!ENTITY trackingProtection.description1 "Into mòddo Navegaçión privâ i barcoin fermian i elementi da pagina in graddo de traciâ a navegaçion.">
+<!ENTITY trackingProtection.description1 "Into mòddo Navegaçion privâ i barcoin fermian i elementi da pagina in graddo de traciâ a navegaçion.">
 <!ENTITY trackingProtection.disable "Dizativa a proteçion anti-traciamento">
 <!ENTITY trackingProtection.enable "Ativa a proteçion anti-traciamento">
 <!ENTITY trackingProtection.startTour1 "Descòvri comme fonçionn-a">

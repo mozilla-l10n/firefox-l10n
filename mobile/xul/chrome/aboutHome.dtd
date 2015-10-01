@@ -2,23 +2,23 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutHome.header                       "<span>&brandShortName; </span><span id='header-suffix'>Inìçio</span>">
-<!ENTITY aboutHome.recentTabs                   "I teu féuggi de l'ùrtima vòtta">
-<!ENTITY aboutHome.remoteTabs                   "Féuggi di teu âtri computer">
-<!ENTITY aboutHome.recommendedAddons2           "Conpleménti pe-o teu &brandShortName;">
-<!ENTITY aboutHome.giveFeedback                 "Làscia di coménti">
-<!ENTITY aboutHome.getHelp                      "Agiùtto">
+<!ENTITY aboutHome.header                       "<span>&brandShortName; </span><span id='header-suffix'>Iniçio</span>">
+<!ENTITY aboutHome.recentTabs                   "I teu feuggi de l'urtima vòtta">
+<!ENTITY aboutHome.remoteTabs                   "Feuggi di teu atri computer">
+<!ENTITY aboutHome.recommendedAddons2           "Conplementi pe-o teu &brandShortName;">
+<!ENTITY aboutHome.giveFeedback                 "Lascia di comenti">
+<!ENTITY aboutHome.getHelp                      "Agiutto">
 <!ENTITY aboutHome.footerWidth                  "10em">
-<!ENTITY aboutHome.openAllTabs                  "Àrvi tùtto inte di féuggi">
-<!ENTITY aboutHome.noTabs                       "Nisciùn féuggio da l'ùrtima vòtta">
-<!ENTITY aboutHome.noAddons                     "Nisciùn conponénte azónto arecomandòu">
-<!ENTITY aboutHome.getLocale                    "Càngia léngoa">
+<!ENTITY aboutHome.openAllTabs                  "Arvi tutto inte di feuggi">
+<!ENTITY aboutHome.noTabs                       "Nisciun feuggio da l'urtima vòtta">
+<!ENTITY aboutHome.noAddons                     "Nisciun conponente azonto arecomandou">
+<!ENTITY aboutHome.getLocale                    "Cangia lengoa">
 <!ENTITY aboutHome.getInBeforeBeta              "Intra primma de Beta.">
-<!ENTITY aboutHome.tryAurora                    "Prêuva o Firefox Aurora e agiùtta a dâghe fórma a-o futûro de Firefox.">
+<!ENTITY aboutHome.tryAurora                    "Preuva o Firefox Aurora e agiutta a daghe forma a-o futuro de Firefox.">
 <!-- LOCALIZATION NOTE:
      (aboutHome.downloadAurora): First line of a multi-line button. Treat as a title.
 -->
-<!ENTITY aboutHome.downloadAurora		"Scàrega Aurora">
+<!ENTITY aboutHome.downloadAurora		"Scarega Aurora">
 <!-- LOCALIZATION NOTE:
      (aboutHome.forAndroid): Second line of a multi-line button. Treat as a subtitle.
 -->
@@ -32,5 +32,5 @@
      (aboutHome.syncPairDevice): This string should match the desktop
      equivalent, in particular concerning syncBrand.fullName.label.
 -->
-<!ENTITY aboutHome.syncPairDevice       "Acóbia 'n aparâto">
+<!ENTITY aboutHome.syncPairDevice       "Acobia 'n aparato">
 

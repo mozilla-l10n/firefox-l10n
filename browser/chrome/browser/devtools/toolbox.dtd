@@ -3,46 +3,46 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY closeCmd.key "W">
-<!ENTITY toolboxCloseButton.tooltip "Særa struménti pe-i svilupatoî">
+<!ENTITY toolboxCloseButton.tooltip "Særa strumenti pe-i svilupatoî">
 <!ENTITY toolboxOptionsButton.key "o">
-<!ENTITY options.enableChrome.label3 "Atîva debug chrome">
-<!ENTITY options.enableChrome.tooltip "Ativàndo sta opçión se peu adêuviâ divèrsi struménti de svilùppo diretaménte dò-u navegatô">
-<!ENTITY options.enableRemote.label3 "Atîva debug remòtto">
-<!ENTITY options.enableRemote.tooltip "Ativàndo sta opçión se peu adêuviâ i struménti de svilùppo pò-u debug su istànse remòtte de Firefox cómme Firefox OS">
-<!ENTITY options.selectDefaultTools.label "Struménti de svilùppo predefîi de Firefox">
-<!ENTITY options.selectAdditionalTools.label "Struménti de svilùppo instalæ da componénti azónti">
-<!ENTITY options.selectDevToolsTheme.label "Çèrne o têma:">
-<!ENTITY options.darkTheme.label "Têma scûo">
-<!ENTITY options.lightTheme.label "Têma ciæo">
-<!ENTITY options.context.advancedSettings "Inpostaçioìn avansæ">
+<!ENTITY options.enableChrome.label3 "Ativa debug chrome">
+<!ENTITY options.enableChrome.tooltip "Ativando sta opçion se peu adeuviâ diversi strumenti de sviluppo diretamente dò-u navegatô">
+<!ENTITY options.enableRemote.label3 "Ativa debug remòtto">
+<!ENTITY options.enableRemote.tooltip "Ativando sta opçion se peu adeuviâ i strumenti de sviluppo pò-u debug su istanse remòtte de Firefox comme Firefox OS">
+<!ENTITY options.selectDefaultTools.label "Strumenti de sviluppo predefii de Firefox">
+<!ENTITY options.selectAdditionalTools.label "Strumenti de sviluppo instalæ da componenti azonti">
+<!ENTITY options.selectDevToolsTheme.label "Çerne o tema:">
+<!ENTITY options.darkTheme.label "Tema scuo">
+<!ENTITY options.lightTheme.label "Tema ciæo">
+<!ENTITY options.context.advancedSettings "Inpostaçioin avansæ">
 <!ENTITY toolboxZoomIn.key "+">
 <!ENTITY toolboxZoomIn.key2 "=">
 <!ENTITY toolboxZoomOut.key "-">
 <!ENTITY toolboxZoomReset.key "0">
 
-<!ENTITY options.context.triggersPageRefresh2 "sôlo seçión corénte, recàrega a pàgina">
-<!ENTITY options.disableJavaScript.label2 "Dizatîva JavaScript">
-<!ENTITY options.disableJavaScript.tooltip "Ativàndo sta opçión, JavaScript o saiâ dizativòu pe o féuggio corénte. Se o féuggio ò i struménti pe-i svilupatoî vêgnan seræ l'inpostaçión saiâ scancelâ.">
-<!ENTITY options.enablePersistentLogging.label "Atîva regìstri permanénti">
-<!ENTITY options.enablePersistentLogging.tooltip "Ativàndo sta opçión a Console web a no saiâ azerâ ògni vòtta che se nàvega in sce 'na nêuva pàgina">
-<!ENTITY options.toolNotSupported.label "* No soportòu pe-o target corénte di struménti">
+<!ENTITY options.context.triggersPageRefresh2 "solo seçion corente, recarega a pagina">
+<!ENTITY options.disableJavaScript.label2 "Dizativa JavaScript">
+<!ENTITY options.disableJavaScript.tooltip "Ativando sta opçion, JavaScript o saiâ dizativou pe o feuggio corente. Se o feuggio ò i strumenti pe-i svilupatoî vegnan seræ l'inpostaçion saiâ scancela.">
+<!ENTITY options.enablePersistentLogging.label "Ativa registri permanenti">
+<!ENTITY options.enablePersistentLogging.tooltip "Ativando sta opçion a Console web a no saiâ azerâ ògni vòtta che se navega in sce 'na neuva pagina">
+<!ENTITY options.toolNotSupported.label "* No soportou pe-o target corente di strumenti">
 <!ENTITY options.webconsole.label "Console web">
 
 <!ENTITY options.profiler.label "Profiler JavaScript">
-<!ENTITY options.showPlatformData.label "Fànni védde i dâæti piatafórma Gecko">
-<!ENTITY options.showPlatformData.tooltip "Ativàndo sta opçión i rapòrti do Profiler JavaScript contegniàn i scìnboli da piatafórma Gecko">
+<!ENTITY options.showPlatformData.label "Fanni vedde i daæti piataforma Gecko">
+<!ENTITY options.showPlatformData.tooltip "Ativando sta opçion i rapòrti do Profiler JavaScript contegnian i scinboli da piataforma Gecko">
 <!ENTITY toolboxNextTool.key "]">
 <!ENTITY toolboxPreviousTool.key "[">
 
-<!ENTITY options.context.inspector "Anàlixi pàgina">
-<!ENTITY options.defaultColorUnit.label "Unitæ predefinîa coî:">
+<!ENTITY options.context.inspector "Analixi pagina">
+<!ENTITY options.defaultColorUnit.label "Unitæ predefinia coi:">
 <!ENTITY options.defaultColorUnit.accesskey "U">
-<!ENTITY options.defaultColorUnit.hex "ezadeçimâle">
+<!ENTITY options.defaultColorUnit.hex "ezadeçimale">
 <!ENTITY options.defaultColorUnit.hsl "HSL(A)">
 <!ENTITY options.defaultColorUnit.rgb "RGB(A)">
-<!ENTITY options.defaultColorUnit.name "nómmi di coî">
+<!ENTITY options.defaultColorUnit.name "nommi di coî">
 
-<!ENTITY options.timestampMessages.label "Atîva timestamp">
-<!ENTITY options.timestampMessages.tooltip "Se ti atîvi sta opçión saiâ mostròu inta Console web o timestamp asociòu a-i comàndi e éxiti">
+<!ENTITY options.timestampMessages.label "Ativa timestamp">
+<!ENTITY options.timestampMessages.tooltip "Se ti ativi sta opçion saiâ mostrou inta Console web o timestamp asociou a-i comandi e exiti">
 
 

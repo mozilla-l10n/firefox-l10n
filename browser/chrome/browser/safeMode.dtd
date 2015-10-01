@@ -2,16 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY safeModeDialog.title         "Mòddo Segûo de &brandShortName;">
+<!ENTITY safeModeDialog.title         "Mòddo Seguo de &brandShortName;">
 
 
-<!ENTITY autoSafeModeDescription2.label "O &brandShortName; o s'é seròu inte 'n mòddo che mi mîga me l'aspetâvo. Quésto o poriéiva êse dovûo a di conponénti azónti instalæ ò âtre càoze. L'é poscìbile çercâ de risòlve l'erô ripristinàndo o &brandShortName; into stæto iniçiâ ò atrovàndo o problêma into Mòddo provizòrio.">
+<!ENTITY autoSafeModeDescription2.label "O &brandShortName; o s'é serou inte 'n mòddo che mi miga me l'aspetavo. Questo o porieiva ese dovuo a di conponenti azonti instalæ ò atre caoze. L'é poscibile çercâ de risòlve l'erô ripristinando o &brandShortName; into stæto iniçiâ ò atrovando o problema into Mòddo provizòrio.">
 
-<!ENTITY safeModeInstead.label "In alternatîva l'é poscìbile adêuviâ o Mòddo provizòrio pe çercâ de risòlve o problêma dizativàndo tenporaneaménte i conponénti azónti e-e inpostaçioìn personalizæ.">
-<!ENTITY resetProfileFooter.label "Tùtte e âtre impostaçioìn saiàn scistemæ co-i valô predefinîi.">
-<!ENTITY resetProfileInstead.label "L'é ascì poscìbile adêuviâ Riprìstina &brandShortName; pe partî da zêro.">
-<!ENTITY resetProfile.label "Riprìstina o &brandShortName;">
-<!ENTITY safeModeDescription3.label "O Mòddo provizòrio o l'é 'na speciâle modalitæ de &brandShortName; ch'a peu êse ùtile pe risòlve di problêmi.">
-<!ENTITY safeModeDescription4.label "Saiàn tenporaneaménte dizativæ i conponénti azónti e-e inpostaçioìn personalizæ.">
+<!ENTITY safeModeInstead.label "In alternativa l'é poscibile adeuviâ o Mòddo provizòrio pe çercâ de risòlve o problema dizativando tenporaneamente i conponenti azonti e-e inpostaçioin personalizæ.">
+<!ENTITY resetProfileFooter.label "Tutte e atre impostaçioin saian scistemæ co-i valô predefinii.">
+<!ENTITY resetProfileInstead.label "L'é ascì poscibile adeuviâ Ripristina &brandShortName; pe partî da zero.">
+<!ENTITY resetProfile.label "Ripristina o &brandShortName;">
+<!ENTITY safeModeDescription3.label "O Mòddo provizòrio o l'é 'na speciale modalitæ de &brandShortName; ch'a peu ese utile pe risòlve di problemi.">
+<!ENTITY safeModeDescription4.label "Saian tenporaneamente dizativæ i conponenti azonti e-e inpostaçioin personalizæ.">
 <!ENTITY window.maxWidth "400">
-<!ENTITY startSafeMode.label "Vànni co-o Mòddo provizòrio">
+<!ENTITY startSafeMode.label "Vanni co-o Mòddo provizòrio">

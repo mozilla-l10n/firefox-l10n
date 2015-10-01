@@ -3,10 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- These strings are used in the about:newtab page -->
-<!ENTITY newtab.pageTitle "Nêuvo féuggio">
-<!ENTITY newtab.undo.removedLabel "Barconìn scancelòu.">
-<!ENTITY newtab.undo.undoButton "Anùlla.">
-<!ENTITY newtab.undo.restoreButton "Repìggia tùtto.">
-<!ENTITY newtab.undo.closeTooltip "Ascóndi">
+<!ENTITY newtab.pageTitle "Neuvo feuggio">
+<!ENTITY newtab.undo.removedLabel "Barconin scancelou.">
+<!ENTITY newtab.undo.undoButton "Anulla.">
+<!ENTITY newtab.undo.restoreButton "Repiggia tutto.">
+<!ENTITY newtab.undo.closeTooltip "Ascondi">
 
 

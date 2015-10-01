@@ -2,18 +2,18 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY title "Conètti">
-<!ENTITY header "Conesción a-o dispoxitîvo remòtto">
+<!ENTITY title "Conetti">
+<!ENTITY header "Conescion a-o dispoxitivo remòtto">
 <!ENTITY host "Server:">
 <!ENTITY port "Pòrta:">
-<!ENTITY connect "Conètti">
-<!ENTITY connecting "Conesción in córso…">
-<!ENTITY availableTabs "Schêde remòtte disponìbili:">
-<!ENTITY availableProcesses "Procèssi remòtti disponìbili:">
-<!ENTITY connectionError "Erô:">
-<!ENTITY errorTimeout "Erô: ténpo finîo pe-a conesción.">
-<!ENTITY errorRefused "Erô: conesción rifuâ.">
-<!ENTITY errorUnexpected "Erô inprevìsto.">
-<!ENTITY remoteHelp "I struménti pe-i svilupatoî de Firefox te permètan de fâ o debug in sci dispoxitîvi remòtti (prezénpio Firefox pe Android ò Firefox OS). Aseguâse de avéi ativòu l'opçión 'Debug remòtto' in sciô dispoxitîvo remòtto. Pe âtre informaçioìn vànni a védde a ">
-<!ENTITY remoteDocumentation "documentaçión">
+<!ENTITY connect "Conetti">
+<!ENTITY connecting "Conescion in corso…">
+<!ENTITY availableTabs "Schede remòtte disponibili:">
+<!ENTITY availableProcesses "Processi remòtti disponibili:">
+<!ENTITY connectionError "Ero:">
+<!ENTITY errorTimeout "Ero: tenpo finio pe-a conescion.">
+<!ENTITY errorRefused "Ero: conescion rifua.">
+<!ENTITY errorUnexpected "Erô inprevisto.">
+<!ENTITY remoteHelp "I strumenti pe-i svilupatoî de Firefox te permetan de fâ o debug in sci dispoxitivi remòtti (prezenpio Firefox pe Android ò Firefox OS). Aseguase de avei ativou l'opçion 'Debug remòtto' in sciô dispoxitivo remòtto. Pe atre informaçioin vanni a vedde a ">
+<!ENTITY remoteDocumentation "documentaçion">
 <!ENTITY remoteHelpSuffix ".">

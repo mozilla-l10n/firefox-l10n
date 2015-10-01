@@ -2,33 +2,33 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pageTitle "Coménti pe &brandShortName;">
-<!ENTITY intro.header "T'æ mîga un moménto?">
-<!ENTITY intro.message "Cöse ti ne pénsi de &brandShortName; pe Android?">
-<!ENTITY intro.happyLink "Me piâxe">
-<!ENTITY intro.sadLink "Ò trovòu quàrche problêma">
-<!ENTITY intro.ideaLink "Gh'ò 'n'idêa">
-<!ENTITY support.pre "T'æ bezéugno d'agiùtto ò ti gh'æ 'n problêma con &brandShortName; vìxita ">
+<!ENTITY pageTitle "Comenti pe &brandShortName;">
+<!ENTITY intro.header "T'æ miga un momento?">
+<!ENTITY intro.message "Cöse ti ne pensi de &brandShortName; pe Android?">
+<!ENTITY intro.happyLink "Me piaxe">
+<!ENTITY intro.sadLink "Ò trovou quarche problema">
+<!ENTITY intro.ideaLink "Gh'ò 'n'idea">
+<!ENTITY support.pre "T'æ bezeugno d'agiutto ò ti gh'æ 'n problema con &brandShortName; vixita ">
 <!ENTITY support.link "Sopòrto pe &brandShortName;">
 <!ENTITY support.post ".">
-<!ENTITY happy.header "Mâvegiôzo!">
-<!ENTITY happy.message "T'eu condivìdde o teu entuziàsmo dàndone 5 stélle in sciô Google Play?">
-<!ENTITY happy.finePrint "Sèrve mêno de 'n menûto e te faiâ sentî bén.">
-<!ENTITY happy.ratingLink "Sci, àrvi Google Play">
-<!ENTITY happy.maybeLater "Magâra dòppo">
-<!ENTITY happy.noThanks "No gràçie">
-<!ENTITY sad.message "Sémmo dispiaxûi che t'àgge avûo problêmi con &brandShortName;. Dìnne cösa l'é sucésso e amiêmo de scistemâ tùtto.">
-<!ENTITY sad.placeholder "Scrîvi i teu coménti">
-<!ENTITY sad.lastSite "Ùrtimo scîto vixitòu (sôlo se t'eu)">
+<!ENTITY happy.header "Mavegiozo!">
+<!ENTITY happy.message "T'eu condividde o teu entuziasmo dandone 5 stelle in sciô Google Play?">
+<!ENTITY happy.finePrint "Serve meno de 'n menuto e te faiâ sentî ben.">
+<!ENTITY happy.ratingLink "Sci, arvi Google Play">
+<!ENTITY happy.maybeLater "Magara dòppo">
+<!ENTITY happy.noThanks "No graçie">
+<!ENTITY sad.message "Semmo dispiaxui che t'agge avuo problemi con &brandShortName;. Dinne cösa l'é sucesso e amiemo de scistemâ tutto.">
+<!ENTITY sad.placeholder "Scrivi i teu comenti">
+<!ENTITY sad.lastSite "Urtimo scito vixitou (solo se t'eu)">
 <!ENTITY sad.urlPlaceholder "http://">
-<!ENTITY sad.thanksHeader "Gràçie d'avéinelo dîto.">
-<!ENTITY sad.thanksMessageTop "Sémmo de lóngo a-o travàggio pe migiorâ sto &brandShortName;. Te garantìmmo che de persónn-e in càrne e òsse se metiàn a lêze i teu coménti e faiàn o poscìbile pe risòlve o problêæma.">
-<!ENTITY sad.thanksMessageBottom "L'é 'na promìssa.">
-<!ENTITY idea.message "Ne piaxêva conósce e teu idêe. Condivìddi i teu coménti chi sótto (mîa bén, sôlo se gh'ìntran co-o &brandShortName;).">
-<!ENTITY idea.placeholder "Scrîvi a teu idêa">
-<!ENTITY idea.thanksHeader "Gràçie!">
-<!ENTITY idea.thanksMessageTop "Te ringraçiémmo pe avéi spéizo do ténpo pe condivìdde e teu idêe. Çerchémmo ògni giórno de migiorâ &brandShortName; e agiùtti cómme o teu ne pêua fâ realizâ gréndi obietîvi.">
-<!ENTITY idea.thanksMessageBottom "Da chi no se védde ma sémmo asæ conténti do teu agiùtto.">
-<!ENTITY feedback.privacy "Pe protézze a teu privacy no inclùdde nisciùnn-a informaçioìn personâle inti teu coménti.">
-<!ENTITY feedback.send "Mànda coménto">
+<!ENTITY sad.thanksHeader "Graçie d'aveinelo dito.">
+<!ENTITY sad.thanksMessageTop "Semmo de longo a-o travaggio pe migiorâ sto &brandShortName;. Te garantimmo che de personn-e in carne e òsse se metian a leze i teu comenti e faian o poscibile pe risòlve o probleæma.">
+<!ENTITY sad.thanksMessageBottom "L'é 'na promissa.">
+<!ENTITY idea.message "Ne piaxeva conosce e teu idee. Condividdi i teu comenti chi sotto (mia ben, solo se gh'intran co-o &brandShortName;).">
+<!ENTITY idea.placeholder "Scrivi a teu idea">
+<!ENTITY idea.thanksHeader "Graçie!">
+<!ENTITY idea.thanksMessageTop "Te ringraçiemmo pe avei speizo do tenpo pe condividde e teu idee. Çerchemmo ògni giorno de migiorâ &brandShortName; e agiutti comme o teu ne peua fâ realizâ grendi obietivi.">
+<!ENTITY idea.thanksMessageBottom "Da chi no se vedde ma semmo asæ contenti do teu agiutto.">
+<!ENTITY feedback.privacy "Pe protezze a teu privacy no includde nisciunn-a informaçioin personale inti teu comenti.">
+<!ENTITY feedback.send "Manda comento">
 

@@ -2,13 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY safeb.palm.accept.label "Alontanâse da sto scîto">
-<!ENTITY safeb.palm.decline.label "No dâ a ménte a st'avîzo">
-<!ENTITY safeb.palm.notforgery.label2 "O no l'é 'n scîto fasificòu…">
-<!ENTITY safeb.palm.reportPage.label "Perché sto scîto ol 'é stæto blocòu?">
-<!ENTITY safeb.blocked.malwarePage.title "Segnalaçión de scîto gràmmo">
-<!ENTITY safeb.blocked.malwarePage.shortDesc "O scîto web <span id='malware_sitename'/> o l'é stæto segnalòu cómme 'n scîto web gràmmo e-o l'é stæto blocòu in sciâ bâze de inpostaçioìn de seguéssa che ti gh'æ.">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Un scîto web gràmmo o prêuva a instalâ de aplicaçioìn in gràddo de arobâ e informaçioìn personâli di ùtenti, adêuviâ o computer pe atacâ âtre màchine ò sôlo aroinâ o scistêma.</p><p>Quarcùn de sti scîti dàn intençionalménte aplicaçioìn danôze, ma tànti de sti scîti vêgnan conpromìssi sénsa ch'o bacàn òu sàcce ò ch'o ségge responsàbile.</p>">
-<!ENTITY safeb.blocked.phishingPage.title2 "Sospétto scîto fasificòu">
-<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Se ti scrîvi de informaçioìn personâli in sta pàgina peu capitâ che t'aröban l'identitæ ò te fàn de âtre trùffe.">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 '<p>Sto tîpo de contrafaçioìn a végne adêuviâ inte di atàcchi nòtti co-o nómme de "phishing", inti quæ scîti web ò email fasificæ çercàn de imitâ de fónti de quæ de sòlito ti peu fiâte.</p>'>
+<!ENTITY safeb.palm.accept.label "Alontanase da sto scito">
+<!ENTITY safeb.palm.decline.label "No dâ a mente a st'avizo">
+<!ENTITY safeb.palm.notforgery.label2 "O no l'é 'n scito fasificou…">
+<!ENTITY safeb.palm.reportPage.label "Perché sto scito ol 'é stæto blocou?">
+<!ENTITY safeb.blocked.malwarePage.title "Segnalaçion de scito grammo">
+<!ENTITY safeb.blocked.malwarePage.shortDesc "O scito web <span id='malware_sitename'/> o l'é stæto segnalou comme 'n scito web grammo e-o l'é stæto blocou in sciâ baze de inpostaçioin de seguessa che ti gh'æ.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Un scito web grammo o preuva a instalâ de aplicaçioin in graddo de arobâ e informaçioin personali di utenti, adeuviâ o computer pe atacâ atre machine ò solo aroinâ o scistema.</p><p>Quarcun de sti sciti dan intençionalmente aplicaçioin danoze, ma tanti de sti sciti vegnan conpromissi sensa ch'o bacan ou sacce ò ch'o segge responsabile.</p>">
+<!ENTITY safeb.blocked.phishingPage.title2 "Sospetto scito fasificou">
+<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Se ti scrivi de informaçioin personali in sta pagina peu capitâ che t'aröban l'identitæ ò te fan de atre truffe.">
+<!ENTITY safeb.blocked.phishingPage.longDesc2 '<p>Sto tipo de contrafaçioin a vegne adeuviâ inte di atacchi nòtti co-o nomme de "phishing", inti quæ sciti web ò email fasificæ çercan de imitâ de fonti de quæ de sòlito ti peu fiate.</p>'>

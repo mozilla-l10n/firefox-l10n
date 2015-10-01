@@ -10,25 +10,25 @@
 
 <!-- These strings are used in the about:home page -->
 
-<!ENTITY abouthome.pageTitle "Pàgina iniçiâ de &brandFullName;">
+<!ENTITY abouthome.pageTitle "Pagina iniçiâ de &brandFullName;">
 
-<!ENTITY abouthome.searchEngineButton.label "Riçèrca">
+<!ENTITY abouthome.searchEngineButton.label "Riçerca">
 
-<!ENTITY abouthome.rightsSnippet "&brandFullName; o l'é 'na aplicaçión lìbera e co-o Sorgénte Avèrto fæto da Mozilla Foundation, 'na organizaçión sénsa fìn de goâgno. <a>Descövri i teu dirìtti…</a>">
+<!ENTITY abouthome.rightsSnippet "&brandFullName; o l'é 'na aplicaçion libera e co-o Sorgente Averto fæto da Mozilla Foundation, 'na organizaçion sensa fin de goagno. <a>Descövri i teu diritti…</a>">
 
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
-<!ENTITY abouthome.defaultSnippet1.v1 "Gràçie de avéi çernûo o Firefox! Pe pigiâ o màscimo dò-u teu navegatô infórmite in scê <a>ùrtime novitæ</a>.">
+<!ENTITY abouthome.defaultSnippet1.v1 "Graçie de avei çernuo o Firefox! Pe pigiâ o mascimo dò-u teu navegatô informite in scê <a>urtime novitæ</a>.">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
-<!ENTITY abouthome.defaultSnippet2.v1 "L'é façile personalizâ Firefox pròpio cómme t'eu. <a>Çèrni fra migiæa de conponénti azónti</a>.">
+<!ENTITY abouthome.defaultSnippet2.v1 "L'é façile personalizâ Firefox pròpio comme t'eu. <a>Çerni fra migiæa de conponenti azonti</a>.">
 
-<!ENTITY abouthome.bookmarksButton.label "Segnalìbbri">
+<!ENTITY abouthome.bookmarksButton.label "Segnalibbri">
 <!ENTITY abouthome.historyButton.label   "Stöia">
-<!ENTITY abouthome.addonsButton.label    "Conponénti azónti">
+<!ENTITY abouthome.addonsButton.label    "Conponenti azonti">
 <!ENTITY abouthome.appsButton2.label 	 "App">
-<!ENTITY abouthome.downloadsButton.label "Descaregaménti">
+<!ENTITY abouthome.downloadsButton.label "Descaregamenti">
 <!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">
 <!ENTITY find.commandkey "f">

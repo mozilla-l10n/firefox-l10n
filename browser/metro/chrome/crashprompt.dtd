@@ -3,14 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY crashprompt.title "Mandâ e segnalaçioìn de blòcco anòmalo a Mozilla?">
-<!ENTITY crashprompt.message "Ne spiâxe, &brandShortName; o l'é stæto repigiòu dòppo 'n blòcco. Mandâ de segnalaçioìn in sci ciànti agiùtta Mozilla a megiorâ a stabilitæ e a seguéssa de &brandShortName;. L'é de lóngo poscìbile cangiâ sta preferénsa inte inpostaçioìn.">
-<!ENTITY crashprompt.detailsLink "Che cöse gh'é drénto e segnalaçioìn d'erô?">
-<!ENTITY crashprompt.detailedMessage.firstParagraph "'Na segnalaçión d'erô a contégne quàrche detàlio in sciô blòcco anòmalo, o computer, coscì cómme 'na föto do navegatô into moménto into quæ o se'é ciatòu.">
-<!ENTITY crashprompt.detailedMessage.secondParagraph "Quésto poriéiva ànche inclùdde informaçioìn cómme e pàgine avèrte, o tèsto inserîo inti mòdoli e o contegnûo di mesàggi avèrti, stöia da navegaçión, ò dæti de geolocalizaçión condivîzi co-in scîto.">
-<!ENTITY crashprompt.detailedMessage.thirdParagraph "Adêuviémmo e segnalaçioìn d'erô pe risólve eroî e megiorâ i nòstri prodûti. Ste informaçioìn én gestîe inti mòddi descrîti inta nòstra ">
-<!ENTITY crashprompt.privacyPolicyLink "informatîva in sciâ privacy de &brandShortName;">
-<!ENTITY crashprompt.includeURLLabel "Inclùddi l’indirìsso da pàgina che t'amiâvi">
-<!ENTITY crashprompt.acceptbutton "Mànda segnalaçioìn">
+<!ENTITY crashprompt.title "Mandâ e segnalaçioin de blòcco anòmalo a Mozilla?">
+<!ENTITY crashprompt.message "Ne spiaxe, &brandShortName; o l'é stæto repigiou dòppo 'n blòcco. Mandâ de segnalaçioin in sci cianti agiutta Mozilla a megiorâ a stabilitæ e a seguessa de &brandShortName;. L'é de longo poscibile cangiâ sta preferensa inte inpostaçioin.">
+<!ENTITY crashprompt.detailsLink "Che cöse gh'é drento e segnalaçioin d'ero?">
+<!ENTITY crashprompt.detailedMessage.firstParagraph "'Na segnalaçion d'erô a contegne quarche detalio in sciô blòcco anòmalo, o computer, coscì comme 'na föto do navegatô into momento into quæ o se'é ciatou.">
+<!ENTITY crashprompt.detailedMessage.secondParagraph "Questo porieiva anche includde informaçioin comme e pagine averte, o testo inserio inti mòdoli e o contegnuo di mesaggi averti, stöia da navegaçion, ò dæti de geolocalizaçion condivizi co-in scito.">
+<!ENTITY crashprompt.detailedMessage.thirdParagraph "Adeuviemmo e segnalaçioin d'erô pe risolve eroî e megiorâ i nòstri produti. Ste informaçioin en gestie inti mòddi descriti inta nòstra ">
+<!ENTITY crashprompt.privacyPolicyLink "informativa in sciâ privacy de &brandShortName;">
+<!ENTITY crashprompt.includeURLLabel "Includdi l’indirisso da pagina che t'amiavi">
+<!ENTITY crashprompt.acceptbutton "Manda segnalaçioin">
 <!ENTITY crashprompt.refusebutton "No mandâ">
-<!ENTITY crashprompt.privacyPolicy.title "Informatîva in sciâ privacy de &brandShortName;">
+<!ENTITY crashprompt.privacyPolicy.title "Informativa in sciâ privacy de &brandShortName;">

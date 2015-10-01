@@ -2,54 +2,54 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY netmonitorUI.emptyNotice2 "Fâ 'na domànda ò recàrega a pàgina pe avéi informaçioìn detaliæ in sce l'ativitæ da ræ.">
+<!ENTITY netmonitorUI.emptyNotice2 "Fâ 'na domanda ò recarega a pagina pe avei informaçioin detaliæ in sce l'ativitæ da ræ.">
 <!ENTITY netmonitorUI.toolbar.status2 "✓">
-<!ENTITY netmonitorUI.toolbar.method "Método">
+<!ENTITY netmonitorUI.toolbar.method "Metodo">
 <!ENTITY netmonitorUI.toolbar.file "File">
-<!ENTITY netmonitorUI.toolbar.domain "Domìnio">
-<!ENTITY netmonitorUI.toolbar.type "Tîpo">
-<!ENTITY netmonitorUI.toolbar.size "Dimensción">
-<!ENTITY netmonitorUI.toolbar.waterfall "Sequénsa temporâle">
+<!ENTITY netmonitorUI.toolbar.domain "Dominio">
+<!ENTITY netmonitorUI.toolbar.type "Tipo">
+<!ENTITY netmonitorUI.toolbar.size "Dimenscion">
+<!ENTITY netmonitorUI.toolbar.waterfall "Sequensa temporale">
 <!ENTITY netmonitorUI.tab.headers "Testâ">
 <!ENTITY netmonitorUI.tab.cookies "Cookie">
-<!ENTITY netmonitorUI.tab.params "Paramètri">
-<!ENTITY netmonitorUI.tab.response "Rispósta">
-<!ENTITY netmonitorUI.tab.timings "Ténpi">
-<!ENTITY netmonitorUI.panesButton.tooltip "Véddi informaçioìn in sciâ ræ">
-<!ENTITY netmonitorUI.summary.url "URL domandâ:">
-<!ENTITY netmonitorUI.summary.method "Método de domànda:">
+<!ENTITY netmonitorUI.tab.params "Parametri">
+<!ENTITY netmonitorUI.tab.response "Risposta">
+<!ENTITY netmonitorUI.tab.timings "Tenpi">
+<!ENTITY netmonitorUI.panesButton.tooltip "Veddi informaçioin in sciâ ræ">
+<!ENTITY netmonitorUI.summary.url "URL domanda:">
+<!ENTITY netmonitorUI.summary.method "Metodo de domanda:">
 <!ENTITY netmonitorUI.summary.status "Còdice de stæto:">
-<!ENTITY netmonitorUI.summary.version "Versción:">
-<!ENTITY netmonitorUI.summary.size "Dimenscioìn testâ:">
-<!ENTITY netmonitorUI.response.name "Nómme:">
-<!ENTITY netmonitorUI.response.dimensions "Dimenscioìn:">
-<!ENTITY netmonitorUI.response.mime "Tîpo MIME:">
-<!ENTITY netmonitorUI.response.encoding "Codìfica:">
-<!ENTITY netmonitorUI.timings.blocked "Blocòu:">
-<!ENTITY netmonitorUI.timings.dns "Risoluçión DNS:">
-<!ENTITY netmonitorUI.timings.connect "Connesción:">
-<!ENTITY netmonitorUI.timings.send "Màndo:">
-<!ENTITY netmonitorUI.timings.wait "In atêza:">
-<!ENTITY netmonitorUI.timings.receive "Riceçión:">
-<!ENTITY netmonitorUI.footer.filterAll "Tùtto">
+<!ENTITY netmonitorUI.summary.version "Verscion:">
+<!ENTITY netmonitorUI.summary.size "Dimenscioin testa:">
+<!ENTITY netmonitorUI.response.name "Nomme:">
+<!ENTITY netmonitorUI.response.dimensions "Dimenscioin:">
+<!ENTITY netmonitorUI.response.mime "Tipo MIME:">
+<!ENTITY netmonitorUI.response.encoding "Codifica:">
+<!ENTITY netmonitorUI.timings.blocked "Blocou:">
+<!ENTITY netmonitorUI.timings.dns "Risoluçion DNS:">
+<!ENTITY netmonitorUI.timings.connect "Connescion:">
+<!ENTITY netmonitorUI.timings.send "Mando:">
+<!ENTITY netmonitorUI.timings.wait "In ateza:">
+<!ENTITY netmonitorUI.timings.receive "Riceçion:">
+<!ENTITY netmonitorUI.footer.filterAll "Tutto">
 <!ENTITY netmonitorUI.footer.filterCSS "CSS">
 <!ENTITY netmonitorUI.footer.filterFlash "Flash">
-<!ENTITY netmonitorUI.footer.filterFonts "Caràteri">
+<!ENTITY netmonitorUI.footer.filterFonts "Carateri">
 <!ENTITY netmonitorUI.footer.filterHTML "HTML">
-<!ENTITY netmonitorUI.footer.filterImages "Inmàgini">
+<!ENTITY netmonitorUI.footer.filterImages "Inmagini">
 <!ENTITY netmonitorUI.footer.filterJS "JS">
-<!ENTITY netmonitorUI.footer.filterMedia "Mèdia">
+<!ENTITY netmonitorUI.footer.filterMedia "Media">
 <!ENTITY netmonitorUI.footer.filterXHR "XHR">
 <!ENTITY netmonitorUI.context.copyUrl "Còpia URL">
 <!ENTITY netmonitorUI.context.copyUrl.accesskey "C">
-<!ENTITY netmonitorUI.summary.editAndResend "Càngia e mànda tórna">
+<!ENTITY netmonitorUI.summary.editAndResend "Cangia e manda torna">
 <!ENTITY netmonitorUI.summary.editAndResend.accesskey "r">
-<!ENTITY netmonitorUI.custom.newRequest "Nêuva domànda">
-<!ENTITY netmonitorUI.custom.query "Strìnga query:">
-<!ENTITY netmonitorUI.custom.headers "Header da domànda:">
-<!ENTITY netmonitorUI.custom.postData "Còrpo da domànda:">
-<!ENTITY netmonitorUI.custom.send "Mànda">
-<!ENTITY netmonitorUI.custom.cancel "Anùlla">
-<!ENTITY netmonitorUI.context.newTab "Àrvi into nêuvo féuggio">
+<!ENTITY netmonitorUI.custom.newRequest "Neuva domanda">
+<!ENTITY netmonitorUI.custom.query "Stringa query:">
+<!ENTITY netmonitorUI.custom.headers "Header da domanda:">
+<!ENTITY netmonitorUI.custom.postData "Còrpo da domanda:">
+<!ENTITY netmonitorUI.custom.send "Manda">
+<!ENTITY netmonitorUI.custom.cancel "Anulla">
+<!ENTITY netmonitorUI.context.newTab "Arvi into neuvo feuggio">
 <!ENTITY netmonitorUI.context.newTab.accesskey "A">
-<!ENTITY netmonitorUI.footer.clear "Scancélla">
+<!ENTITY netmonitorUI.footer.clear "Scancella">
