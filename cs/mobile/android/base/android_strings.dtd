@@ -341,7 +341,7 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Hlášení pádů">
-<!ENTITY datareporting_wifi_title2 "Geolokační služba od organizace &vendorShortName;">
+<!ENTITY datareporting_wifi_title2 "Geolokační služba &vendorShortName;">
 <!ENTITY datareporting_wifi_geolocation_summary4 "Pomozte organizaci &vendorShortName; mapovat svět! Sdílejte přibližná umístění mobilních a wi-fi sítí v okolí vašeho zařízení a pomozte tak vylepšit naše geolokační služby.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
