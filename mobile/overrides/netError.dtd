@@ -33,7 +33,10 @@
 </ul>">
 
 <!ENTITY fileNotFound.title "Comhad gan aimsiú">
-<!ENTITY fileNotFound.longDesc "<ul> <li>Scrúdaigh an t-ainm comhaid le haghaidh botúin chlóscríofa sna litreacha móra srl.</li> <li>Féach an bhfuil an comhad bogtha, athainmnithe nó scriosta.</li></ul>">
+<!ENTITY fileNotFound.longDesc "<ul> 
+<li>Scrúdaigh an t-ainm comhaid le haghaidh botúin chlóscríofa sna litreacha móra srl.</li> 
+<li>Féach an bhfuil an comhad bogtha, athainmnithe nó scriosta.</li> 
+</ul>">
 
 
 <!ENTITY generic.title "Úps.">
