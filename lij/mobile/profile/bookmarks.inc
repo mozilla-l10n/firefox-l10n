@@ -9,22 +9,22 @@
 
 # LOCALIZATION NOTE (bookmarks_title):
 # title for the folder that will contains the default bookmarks
-#define bookmarks_title Telefonìn
+#define bookmarks_title Telefonin
 
 # LOCALIZATION NOTE (bookmarks_aboutBrowser):
 # link title for about:fennec
-#define bookmarks_aboutBrowser Firefox: in sce o têu navegatô
+#define bookmarks_aboutBrowser Firefox: in sce o teu navegatô
 
 # LOCALIZATION NOTE (bookmarks_addons):
 # link title for https://addons.mozilla.org/en-US/mobile
-#define bookmarks_addons Firefox: Personalìzza i teu conponénti azónti
+#define bookmarks_addons Firefox: Personalizza i teu conponenti azonti
 
 # LOCALIZATION NOTE (bookmarks_support):
 # link title for https://support.mozilla.org/mobile
-#define bookmarks_support Firefox: agiùtto
+#define bookmarks_support Firefox: agiutto
 
 # LOCALIZATION NOTE (bookmarks_aboutHome):
 # link title for about:home
-#define bookmarks_aboutHome Inìçio do Firefox
+#define bookmarks_aboutHome Iniçio do Firefox
 
 #unfilter emptyLines

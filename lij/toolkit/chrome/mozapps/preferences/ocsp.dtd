@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY ocspDialog.title             "Validaçión do certificâto">
-<!ENTITY enableOCSP.label             "Adêuvia o Online Certificate Status Protocol (OCSP) pe confermâ a validitæ do certificâto">
+<!ENTITY ocspDialog.title             "Validaçion do certificato">
+<!ENTITY enableOCSP.label             "Adeuvia o Online Certificate Status Protocol (OCSP) pe confermâ a validitæ do certificato">
 <!ENTITY enableOCSP.accesskey         "u">
-<!ENTITY requireOCSP.label            "Quànde 'na conesción a 'n server OCSP a càzze pìggia o certificâto cómme no vàlido">
+<!ENTITY requireOCSP.label            "Quande 'na conescion a 'n server OCSP a cazze piggia o certificato comme no valido">
 <!ENTITY requireOCSP.accesskey        "Q">
 

@@ -4,11 +4,11 @@
 # your locale code, and link to your translated pages as soon as they're 
 # live.
 
-#define bookmarks_title Segnalìbbri
-#define bookmarks_heading Segnalìbbri
+#define bookmarks_title Segnalibbri
+#define bookmarks_heading Segnalibbri
 
-#define bookmarks_toolbarfolder Cartélla da bâra di segnalìbbri
-#define bookmarks_toolbarfolder_description Azónzi i segnalìbbri a sta cartélla pe véddeli inta bâra di segnalìbbri
+#define bookmarks_toolbarfolder Cartella da bara di segnalibbri
+#define bookmarks_toolbarfolder_description Azonzi i segnalibbri a sta cartella pe veddeli inta bara di segnalibbri
 
 # LOCALIZATION NOTE (getting_started):
 # link title for http://en-US.www.mozilla.com/en-US/firefox/central/
@@ -20,7 +20,7 @@
 
 # LOCALIZATION NOTE (firefox_help):
 # link title for http://en-US.www.mozilla.com/en-US/firefox/help/
-#define firefox_help Agiùtto e Goìdde
+#define firefox_help Agiutto e Goidde
 
 # LOCALIZATION NOTE (firefox_customize):
 # link title for http://en-US.www.mozilla.com/en-US/firefox/customize/
@@ -32,6 +32,6 @@
 
 # LOCALIZATION NOTE (firefox_about):
 # link title for http://en-US.www.mozilla.com/en-US/about/
-#define firefox_about Rigoàrdo Niâtri
+#define firefox_about Rigoardo Niatri
 
 #unfilter emptyLines

@@ -14,7 +14,7 @@
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
 
-<!ENTITY gotoLineCmd.label         "Sâta a-a lìnia…">
+<!ENTITY gotoLineCmd.label         "Sata a-a linia…">
 <!ENTITY gotoLineCmd.key           "J">
 <!ENTITY gotoLineCmd.accesskey     "S">
 

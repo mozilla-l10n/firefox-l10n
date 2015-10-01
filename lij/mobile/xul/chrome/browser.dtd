@@ -2,126 +2,126 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY urlbar.emptytext      "Introdûxi riçèrca ò indirìsso">
+<!ENTITY urlbar.emptytext      "Introduxi riçerca ò indirisso">
 
 <!ENTITY back.label            "Inderê">
-<!ENTITY forward.label         "Avànti">
-<!ENTITY reload.label          "Recàrega">
-<!ENTITY stop.label            "Fèrma">
-<!ENTITY go.label              "Vànni">
-<!ENTITY star.label            "Stélla">
+<!ENTITY forward.label         "Avanti">
+<!ENTITY reload.label          "Recarega">
+<!ENTITY stop.label            "Ferma">
+<!ENTITY go.label              "Vanni">
+<!ENTITY star.label            "Stella">
 
-<!ENTITY showTabs.label        "Móstra féuggi">
-<!ENTITY newtab.label          "Nêuvo féuggio">
-<!ENTITY closetab.label        "Særa féuggio">
+<!ENTITY showTabs.label        "Mostra feuggi">
+<!ENTITY newtab.label          "Neuvo feuggio">
+<!ENTITY closetab.label        "Særa feuggio">
 
-<!ENTITY cut.label             "Tàggia">
+<!ENTITY cut.label             "Taggia">
 <!ENTITY copy.label            "Còpia">
-<!ENTITY copyAll.label         "Còpia tùtto">
-<!ENTITY copylink.label        "Còpia indirìsso">
+<!ENTITY copyAll.label         "Còpia tutto">
+<!ENTITY copylink.label        "Còpia indirisso">
 <!ENTITY paste.label           "Incòlla">
-<!ENTITY pasteAndGo.label      "Incòlla e vànni">
-<!ENTITY delete.label          "Scancèlla">
-<!ENTITY selectAll.label       "Seleçiónn-a tùtto">
-<!ENTITY noSuggestions.label   "(Nisciùn sugeriménto)">
-<!ENTITY addToDictionary.label "Azónzi a-o Diçiónâio">
-<!ENTITY inputMethod.label     "Çèrni 'n mòddo de Input">
+<!ENTITY pasteAndGo.label      "Incòlla e vanni">
+<!ENTITY delete.label          "Scancella">
+<!ENTITY selectAll.label       "Seleçionn-a tutto">
+<!ENTITY noSuggestions.label   "(Nisciun sugerimento)">
+<!ENTITY addToDictionary.label "Azonzi a-o Diçionaio">
+<!ENTITY inputMethod.label     "Çerni 'n mòddo de Input">
 
-<!ENTITY allPagesHeader.label      "Tùtte e pàgine">
-<!ENTITY bookmarksHeader.label     "Segnalìbbri">
+<!ENTITY allPagesHeader.label      "Tutte e pagine">
+<!ENTITY bookmarksHeader.label     "Segnalibbri">
 <!ENTITY historyHeader.label       "Stöia">
 <!ENTITY desktopHeader.label       "Computer">
 
-<!ENTITY editBookmarkDialog.title  "Càngia segnalìbbro">
+<!ENTITY editBookmarkDialog.title  "Cangia segnalibbro">
 <!ENTITY editBookmarkDone.label    "Fæto">
-<!ENTITY editBookmarkTags.label    "Azónzi etichétte chi">
+<!ENTITY editBookmarkTags.label    "Azonzi etichette chi">
 
 <!ENTITY selectHelper.done         "Fæto">
 
-<!ENTITY addonsHeader.label        "Conponénti azónti">
-<!ENTITY addonsLocal.label         "I teu conponénti azónti">
-<!ENTITY addonsUpdate.label        "Agiórna">
-<!ENTITY addonsRepo.label          "Dànni i Conponénti azónti">
-<!ENTITY addonsRecommended.label   "Arecomandòu">
-<!ENTITY addonsSearch.label        "Riçèrca">
-<!ENTITY addonsSearch2.emptytext   "Çèrca into catàlogo">
-<!ENTITY addonsSearch.recommended  "Arecomandòu">
+<!ENTITY addonsHeader.label        "Conponenti azonti">
+<!ENTITY addonsLocal.label         "I teu conponenti azonti">
+<!ENTITY addonsUpdate.label        "Agiorna">
+<!ENTITY addonsRepo.label          "Danni i Conponenti azonti">
+<!ENTITY addonsRecommended.label   "Arecomandou">
+<!ENTITY addonsSearch.label        "Riçerca">
+<!ENTITY addonsSearch2.emptytext   "Çerca into catalogo">
+<!ENTITY addonsSearch.recommended  "Arecomandou">
 
-<!ENTITY addonOptions.label        "Inpostaçioìn">
-<!ENTITY addonEnable.label         "Abìlita">
-<!ENTITY addonDisable.label        "Dizabìlita">
-<!ENTITY addonInstall2.label       "Azónzi a &brandShortName;">
-<!ENTITY addonUninstall.label      "Dizinstàlla">
-<!ENTITY addonCancel.label         "Anùlla">
-<!ENTITY addonShowPage.label       "Vànni a-a pàgina">
+<!ENTITY addonOptions.label        "Inpostaçioin">
+<!ENTITY addonEnable.label         "Abilita">
+<!ENTITY addonDisable.label        "Dizabilita">
+<!ENTITY addonInstall2.label       "Azonzi a &brandShortName;">
+<!ENTITY addonUninstall.label      "Dizinstalla">
+<!ENTITY addonCancel.label         "Anulla">
+<!ENTITY addonShowPage.label       "Vanni a-a pagina">
 
-<!ENTITY downloadsHeader.label     "Descaregaménti">
-<!ENTITY downloadShowPage.label    "Vànni a-a pàgina">
-<!ENTITY downloadShow2.label       "Trêuva">
-<!ENTITY downloadOpen2.label       "Àrvi">
-<!ENTITY downloadCancel.label      "Anùlla">
+<!ENTITY downloadsHeader.label     "Descaregamenti">
+<!ENTITY downloadShowPage.label    "Vanni a-a pagina">
+<!ENTITY downloadShow2.label       "Treuva">
+<!ENTITY downloadOpen2.label       "Arvi">
+<!ENTITY downloadCancel.label      "Anulla">
 <!ENTITY downloadPause.label       "Pösa">
-<!ENTITY downloadResume.label      "Repìggio">
+<!ENTITY downloadResume.label      "Repiggio">
 <!ENTITY downloadRetry.label       "Repiggia">
-<!ENTITY downloadRemove.label      "Scancèlla">
-<!ENTITY downloadDelete.label      "Scancèlla">
-<!ENTITY downloadFailed.label      "No riescîo">
+<!ENTITY downloadRemove.label      "Scancella">
+<!ENTITY downloadDelete.label      "Scancella">
+<!ENTITY downloadFailed.label      "No riescio">
 
-<!ENTITY noResults.label           "Sénsa rizultâti">
-<!ENTITY allBookmarks.label        "Véddi tùtti i segnalìbbri">
+<!ENTITY noResults.label           "Sensa rizultati">
+<!ENTITY allBookmarks.label        "Veddi tutti i segnalibbri">
 
-<!ENTITY bookmarkPopup.label       "Pàgina azónta a-i segnalìbbri">
-<!ENTITY bookmarkRemove.label      "Scancèlla">
-<!ENTITY bookmarkEdit.label        "Càngia">
-<!ENTITY bookmarkShortcut.label    "Azónzi a-o schèrmo iniçiâle">
+<!ENTITY bookmarkPopup.label       "Pagina azonta a-i segnalibbri">
+<!ENTITY bookmarkRemove.label      "Scancella">
+<!ENTITY bookmarkEdit.label        "Cangia">
+<!ENTITY bookmarkShortcut.label    "Azonzi a-o schermo iniçiale">
 
-<!ENTITY identity.unverifiedsite2 "Sto scîto o no l'à informaçioìn d'identitæ.">
-<!ENTITY identity.connectedTo2 "Conèsso a">
+<!ENTITY identity.unverifiedsite2 "Sto scito o no l'à informaçioin d'identitæ.">
+<!ENTITY identity.connectedTo2 "Conesso a">
 <!-- Localization note (identity.runBy2)
  The layout of the identity dialog prevents combining this into a single string with
  substitution variables.  If it is difficult to translate the sense of the string
  with that structure, consider a translation which ignores the preceding domain and
  just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy2 "curòu da">
+<!ENTITY identity.runBy2 "curou da">
 
 <!ENTITY consoleHeader.label       "Console di Eroî">
-<!ENTITY consoleAll.label          "Tùtto">
+<!ENTITY consoleAll.label          "Tutto">
 <!ENTITY consoleErrors.label       "Eroî">
-<!ENTITY consoleWarnings.label     "Alàrmi">
-<!ENTITY consoleMessages.label     "Notìçie">
+<!ENTITY consoleWarnings.label     "Alarmi">
+<!ENTITY consoleMessages.label     "Notiçie">
 <!ENTITY consoleCodeEval.label     "Còdice:">
-<!ENTITY consoleClear.label        "Polìsci">
+<!ENTITY consoleClear.label        "Polisci">
 <!ENTITY consoleEvaluate.label     "…">
-<!ENTITY consoleErrFile.label      "File Sorgénte:">
-<!ENTITY consoleErrLine.label      "Lìnia:">
+<!ENTITY consoleErrFile.label      "File Sorgente:">
+<!ENTITY consoleErrLine.label      "Linia:">
 <!ENTITY consoleErrColumn.label    "Colònna:">
 
-<!ENTITY contextOpenInNewTab.label    "Àrvi in nêuvo féuggio">
-<!ENTITY contextSaveImage.label       "Sàrva inmàgine">
-<!ENTITY contextCopyLink.label        "Còpia colegaménto">
-<!ENTITY contextCopyEmail.label       "Còpia indirìsso de pòsta">
-<!ENTITY contextCopyPhone.label       "Còpia nùmero telefònico">
-<!ENTITY contextCopyImageLocation.label       "Còpia indirìsso da inmàgine">
-<!ENTITY contextShareLink.label       "Condivìddi Colegaménto">
-<!ENTITY contextShareImage.label      "Condivìddi imàgine">
-<!ENTITY contextBookmarkLink.label    "Azónzi a-i seganlìbbri">
-<!ENTITY contextSaveVideo.label       "Sàrva video">
-<!ENTITY contextShareVideo.label      "Condivìddi vìdeo">
-<!ENTITY contextPlayMedia.label       "Riproduçión">
+<!ENTITY contextOpenInNewTab.label    "Arvi in neuvo feuggio">
+<!ENTITY contextSaveImage.label       "Sarva inmagine">
+<!ENTITY contextCopyLink.label        "Còpia colegamento">
+<!ENTITY contextCopyEmail.label       "Còpia indirisso de pòsta">
+<!ENTITY contextCopyPhone.label       "Còpia numero telefònico">
+<!ENTITY contextCopyImageLocation.label       "Còpia indirisso da inmagine">
+<!ENTITY contextShareLink.label       "Condividdi Colegamento">
+<!ENTITY contextShareImage.label      "Condividdi imagine">
+<!ENTITY contextBookmarkLink.label    "Azonzi a-i seganlibbri">
+<!ENTITY contextSaveVideo.label       "Sarva video">
+<!ENTITY contextShareVideo.label      "Condividdi video">
+<!ENTITY contextPlayMedia.label       "Riproduçion">
 <!ENTITY contextPauseMedia.label      "Pösa">
-<!ENTITY contextFullScreen.label      "A tùtto schermo">
-<!ENTITY contextEditBookmark.label    "Càngia">
-<!ENTITY contextRemoveBookmark.label  "Scancèlla">
-<!ENTITY contextShortcutBookmark.label "Azónzi a-o schèrmo iniçiâle">
+<!ENTITY contextFullScreen.label      "A tutto schermo">
+<!ENTITY contextEditBookmark.label    "Cangia">
+<!ENTITY contextRemoveBookmark.label  "Scancella">
+<!ENTITY contextShortcutBookmark.label "Azonzi a-o schermo iniçiale">
 
-<!ENTITY pageactions.saveas.pdf      "Sàrva cómme PDF">
-<!ENTITY pageactions.share.page      "Condivìddi pàgina">
-<!ENTITY pageactions.password.forget "Ascòrda a paròlla d'órdine">
+<!ENTITY pageactions.saveas.pdf      "Sarva comme PDF">
+<!ENTITY pageactions.share.page      "Condividdi pagina">
+<!ENTITY pageactions.password.forget "Ascòrda a paròlla d'ordine">
 <!ENTITY pageactions.quit            "Sciòrti">
-<!ENTITY pageactions.reset           "Scancèlla e preferénse do scîto">
-<!ENTITY pageactions.findInPage      "Atrêuva inta pàgina">
-<!ENTITY pageactions.search.addNew   "Azónzi motô de riçèrca">
-<!ENTITY pageactions.charEncoding    "Codifica do caràtere">
+<!ENTITY pageactions.reset           "Scancella e preferense do scito">
+<!ENTITY pageactions.findInPage      "Atreuva inta pagina">
+<!ENTITY pageactions.search.addNew   "Azonzi motô de riçerca">
+<!ENTITY pageactions.charEncoding    "Codifica do caratere">
 
-<!ENTITY appMenu.siteOptions         "Inpostaçioìn do scîto">
+<!ENTITY appMenu.siteOptions         "Inpostaçioin do scito">
 

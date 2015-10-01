@@ -10,25 +10,25 @@
 
 <!ENTITY backButton.label               "Inderê">
 <!ENTITY backButton.accesskey           "I">
-<!ENTITY backButton.tooltip             "Vànni inderê de 'na pàgina">
-<!ENTITY forwardButton.label            "Avànti">
+<!ENTITY backButton.tooltip             "Vanni inderê de 'na pagina">
+<!ENTITY forwardButton.label            "Avanti">
 <!ENTITY forwardButton.accesskey        "A">
-<!ENTITY forwardButton.tooltip          "Vànni avànti de 'na pàgina">
+<!ENTITY forwardButton.tooltip          "Vanni avanti de 'na pagina">
 <!ENTITY copyCmd.label                  "Còpia">
 <!ENTITY copyCmd.accesskey              "C">
-<!ENTITY selectAllCmd.label             "Seleçiónn-a tùtto">
+<!ENTITY selectAllCmd.label             "Seleçionn-a tutto">
 <!ENTITY selectAllCmd.accesskey         "a">
 <!ENTITY goBackCmd.commandkey           "[">
 <!ENTITY goForwardCmd.commandkey        "]">
-<!ENTITY homeButton.label               "Pàgina iniçiâ">
-<!ENTITY homeButton.tooltip             "Vànni a-a pàgina iniçiâ de l'agiùtto">
-<!ENTITY printButton.label              "Stànpa">
-<!ENTITY printButton.tooltip            "Stànpa quésta pàgina">
+<!ENTITY homeButton.label               "Pagina iniçiâ">
+<!ENTITY homeButton.tooltip             "Vanni a-a pagina iniçiâ de l'agiutto">
+<!ENTITY printButton.label              "Stanpa">
+<!ENTITY printButton.tooltip            "Stanpa questa pagina">
 <!ENTITY closeWindow.commandkey         "W">
 
-<!ENTITY search.emptytext               "Riçèrca">
-<!ENTITY searchHeader.label             "Éxito da riçèrca">
-<!ENTITY toctab.label                   "Contegnûo">
+<!ENTITY search.emptytext               "Riçerca">
+<!ENTITY searchHeader.label             "Exito da riçerca">
+<!ENTITY toctab.label                   "Contegnuo">
 <!ENTITY toctab.accesskey               "C">
 
 <!-- LOCALIZATION NOTE :
@@ -47,11 +47,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY helpSearch.commandkey          "k">
 
-<!ENTITY zLevel.label                   "Sénpre in çìmma">
+<!ENTITY zLevel.label                   "Senpre in çimma">
 <!ENTITY zLevel.accesskey               "S">
 
-<!ENTITY fullZoomReduceBtn.label        "Diminoìsci zoom">
+<!ENTITY fullZoomReduceBtn.label        "Diminoisci zoom">
 <!ENTITY fullZoomReduceBtn.accesskey    "o">
-<!ENTITY fullZoomEnlargeBtn.label       "Aoménta zoom">
+<!ENTITY fullZoomEnlargeBtn.label       "Aomenta zoom">
 <!ENTITY fullZoomEnlargeBtn.accesskey   "A">
 

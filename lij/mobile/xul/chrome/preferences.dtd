@@ -3,27 +3,27 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY prefsHeader.label                         "Preferense">
-<!ENTITY about.title                               "Informaçioìn rigoàrdo &brandShortName;">
-<!ENTITY about.button                              "Vànni a-a pàgina">
-<!ENTITY content.title                             "Contegnûo">
-<!ENTITY reflowZoom.title                          "Scistêma o tèsto in bâze a-o zoom">
-<!ENTITY showImages.title                          "Fànni védde inmàgini">
-<!ENTITY enableJavaScript.title                    "Abìlita JavaScript">
-<!ENTITY privacy.title                             "Privacy &amp; Seguéssa">
-<!ENTITY allowCookies.title                        "Permétti i cookie">
-<!ENTITY doNotTrack.title                          "Fànni in mòddo che i scîti no poriàn localizâme">
-<!ENTITY masterPassword.title                      "Dêuvia paròlla segrêta prinçipâ">
-<!ENTITY clearPrivateData2.title                   "Scancèlla i dæti privæ">
-<!ENTITY clearPrivateData.button                   "Polìsci">
-<!ENTITY rememberPasswords.title                   "Aregorda e paròlle segrétte">
-<!ENTITY language.title                            "Léngoa">
-<!ENTITY language.auto                             "Scovèrta outomàtica">
-<!ENTITY defaultBrowser.title                      "Navegatô predefinîo">
-<!ENTITY defaultBrowser.description                "Fànni diventâ &brandShortName; o teu navegatô preferîo">
-<!ENTITY homepage.title                            "Pàgina iniçiâ">
-<!ENTITY homepage.none                             "Pàgina giànca">
-<!ENTITY homepage.default                          "Inìçio do &brandShortName;">
-<!ENTITY homepage.currentpage                      "Adêuvia a pàgina corénte">
-<!ENTITY showCharsetEncoding.title                 "Móstra o còdice de caràteri">
-<!ENTITY actionbar.default                         "Inpostaçioìn do &brandShortName;">
+<!ENTITY about.title                               "Informaçioin rigoardo &brandShortName;">
+<!ENTITY about.button                              "Vanni a-a pagina">
+<!ENTITY content.title                             "Contegnuo">
+<!ENTITY reflowZoom.title                          "Scistema o testo in baze a-o zoom">
+<!ENTITY showImages.title                          "Fanni vedde inmagini">
+<!ENTITY enableJavaScript.title                    "Abilita JavaScript">
+<!ENTITY privacy.title                             "Privacy &amp; Seguessa">
+<!ENTITY allowCookies.title                        "Permetti i cookie">
+<!ENTITY doNotTrack.title                          "Fanni in mòddo che i sciti no porian localizame">
+<!ENTITY masterPassword.title                      "Deuvia paròlla segreta prinçipâ">
+<!ENTITY clearPrivateData2.title                   "Scancella i dæti privæ">
+<!ENTITY clearPrivateData.button                   "Polisci">
+<!ENTITY rememberPasswords.title                   "Aregorda e paròlle segrette">
+<!ENTITY language.title                            "Lengoa">
+<!ENTITY language.auto                             "Scoverta outomatica">
+<!ENTITY defaultBrowser.title                      "Navegatô predefinio">
+<!ENTITY defaultBrowser.description                "Fanni diventâ &brandShortName; o teu navegatô preferio">
+<!ENTITY homepage.title                            "Pagina iniçiâ">
+<!ENTITY homepage.none                             "Pagina gianca">
+<!ENTITY homepage.default                          "Iniçio do &brandShortName;">
+<!ENTITY homepage.currentpage                      "Adeuvia a pagina corente">
+<!ENTITY showCharsetEncoding.title                 "Mostra o còdice de carateri">
+<!ENTITY actionbar.default                         "Inpostaçioin do &brandShortName;">
 

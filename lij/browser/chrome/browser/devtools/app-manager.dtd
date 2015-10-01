@@ -4,91 +4,91 @@
 
 <!ENTITY index.title "Gestô de app">
 <!ENTITY index.projects2 "App">
-<!ENTITY index.device2 "Dispoxitîvo">
-<!ENTITY index.help "Goìdda">
-<!ENTITY device.screenshot "Föto do schèrmo">
-<!ENTITY device.screenshotTooltip "Àrvi 'n nêuvo féuggio co-a föto do schèrmo do stæto corénte do dispoxitîvo.">
-<!ENTITY device.title "Çéntro contròllo dispoxitîvo">
-<!ENTITY device.notConnected "No conèsso. Conètte 'n dispoxitîvo inta seçión sótta.">
-<!ENTITY device.startApp "Inàndia">
-<!ENTITY device.startAppTooltip "Inàndia sta app in sciô dispoxitîvo.">
+<!ENTITY index.device2 "Dispoxitivo">
+<!ENTITY index.help "Goidda">
+<!ENTITY device.screenshot "Föto do schermo">
+<!ENTITY device.screenshotTooltip "Arvi 'n neuvo feuggio co-a föto do schermo do stæto corente do dispoxitivo.">
+<!ENTITY device.title "Çentro contròllo dispoxitivo">
+<!ENTITY device.notConnected "No conesso. Conette 'n dispoxitivo inta seçion sotta.">
+<!ENTITY device.startApp "Inandia">
+<!ENTITY device.startAppTooltip "Inandia sta app in sciô dispoxitivo.">
 <!ENTITY device.stopApp "Blòcca">
-<!ENTITY device.stopAppTooltip "Blàcca sta app in sciô dispoxitîvo.">
-<!ENTITY device.debugApp "Debùgga">
-<!ENTITY device.debugAppTooltip "Apri gli strumenti per sviluppatori con una connessione attiva a sta app in sciô dispoxitîvo.">
-<!ENTITY device.name "Nómme">
+<!ENTITY device.stopAppTooltip "Blacca sta app in sciô dispoxitivo.">
+<!ENTITY device.debugApp "Debugga">
+<!ENTITY device.debugAppTooltip "Apri gli strumenti per sviluppatori con una connessione attiva a sta app in sciô dispoxitivo.">
+<!ENTITY device.name "Nomme">
 <!ENTITY device.privileged "Privilegiâ">
 <!ENTITY device.certified "Certificâ">
-<!ENTITY device.allow "Permètti">
-<!ENTITY device.allowTooltip "Sto permìsso o végne garantîo pe app de sto tîpo.">
-<!ENTITY device.prompt "Domànda">
-<!ENTITY device.promptTooltip "Sto permìsso o domànda 'na confèrma de l'ùtente pe app de sto tîpo.">
-<!ENTITY device.deny "Nêga">
-<!ENTITY device.denyTooltip "Sto permìsso o végne negòu pe app de sto tîpo.">
+<!ENTITY device.allow "Permetti">
+<!ENTITY device.allowTooltip "Sto permisso o vegne garantio pe app de sto tipo.">
+<!ENTITY device.prompt "Domanda">
+<!ENTITY device.promptTooltip "Sto permisso o domanda 'na conferma de l'utente pe app de sto tipo.">
+<!ENTITY device.deny "Nega">
+<!ENTITY device.denyTooltip "Sto permisso o vegne negou pe app de sto tipo.">
 <!ENTITY device.installedApps "App instalæ">
-<!ENTITY device.installedAppsTooltip "Móstra 'n elénco de app instalâ into dispoxitîvo. Quàche app, cómme prezénpio e app certificæ, poriéivan êse no mostræ da sta vixoalizaçión.">
-<!ENTITY device.permissions "Permìssi">
-<!ENTITY device.permissionsTooltip "Móstra 'na tabèlla di permìssi di divèrsi tîpi de app.">
+<!ENTITY device.installedAppsTooltip "Mostra 'n elenco de app instalâ into dispoxitivo. Quache app, comme prezenpio e app certificæ, porieivan ese no mostræ da sta vixoalizaçion.">
+<!ENTITY device.permissions "Permissi">
+<!ENTITY device.permissionsTooltip "Mostra 'na tabella di permissi di diversi tipi de app.">
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
-<!ENTITY device.help "Goìdda">
-<!ENTITY connection.connectTooltip "Conètti a-o dispoxitîvo.">
-<!ENTITY connection.disconnect "Disconètti">
-<!ENTITY connection.disconnectTooltip "Disconètti o dispoxitîvo corénte ò o simulatô.">
-<!ENTITY connection.notConnected2 "No conèsso.">
-<!ENTITY connection.connectTo "Conètti a:">
-<!ENTITY connection.noDeviceFound "Nesciùn dispoxitîvo rilevòu. Colegâ 'n dispoxitîvo">
-<!ENTITY connection.changeHostAndPort "Càngia">
-<!ENTITY connection.changeHostAndPortTooltip "Càngia host e pòrta adêuviæ pe-a conesción a-o dispoxitîvo (valô predefinîo localhost:6000).">
-<!ENTITY connection.startSimulator "Inàndia simulatô">
-<!ENTITY connection.startSimulatorTooltip "Inàndia o simulatô e atîva 'na conesción con l'istànsa creâ.">
-<!ENTITY connection.saveConnectionInfo "Sàrva">
-<!ENTITY connection.saveConnectionInfoTooltip "Sàrva host e pòrta.">
-<!ENTITY connection.connecting "Conesción…">
-<!ENTITY connection.disconnecting "Disconesción…">
-<!ENTITY connection.cancel "Anùlla">
-<!ENTITY connection.cancelConnectTooltip "Anùlla a conesción.">
-<!ENTITY connection.cancelShowSimulatorTooltip "Særa a modalitæ di conesción a-o simulatô e tórna a-a domànda iniçiâ.">
+<!ENTITY device.help "Goidda">
+<!ENTITY connection.connectTooltip "Conetti a-o dispoxitivo.">
+<!ENTITY connection.disconnect "Disconetti">
+<!ENTITY connection.disconnectTooltip "Disconetti o dispoxitivo corente ò o simulato.">
+<!ENTITY connection.notConnected2 "No conesso.">
+<!ENTITY connection.connectTo "Conetti a:">
+<!ENTITY connection.noDeviceFound "Nesciun dispoxitivo rilevou. Colegâ 'n dispoxitivo">
+<!ENTITY connection.changeHostAndPort "Cangia">
+<!ENTITY connection.changeHostAndPortTooltip "Cangia host e pòrta adeuviæ pe-a conescion a-o dispoxitivo (valô predefinio localhost:6000).">
+<!ENTITY connection.startSimulator "Inandia simulatô">
+<!ENTITY connection.startSimulatorTooltip "Inandia o simulatô e ativa 'na conescion con l'istansa crea.">
+<!ENTITY connection.saveConnectionInfo "Sarva">
+<!ENTITY connection.saveConnectionInfoTooltip "Sarva host e pòrta.">
+<!ENTITY connection.connecting "Conescion…">
+<!ENTITY connection.disconnecting "Disconescion…">
+<!ENTITY connection.cancel "Anulla">
+<!ENTITY connection.cancelConnectTooltip "Anulla a conescion.">
+<!ENTITY connection.cancelShowSimulatorTooltip "Særa a modalitæ di conescion a-o simulatô e torna a-a domanda iniçia.">
 <!ENTITY connection.or "o">
-<!ENTITY connection.noSimulatorInstalled "Nisciùn simulatô instalòu.">
-<!ENTITY connection.installOneSimulator "Instàlla simulatô">
-<!ENTITY connection.installOneSimulatorTooltip "Instàlla 'na versción do simulatô scaregàndo o relatîvo conponénte azónto.">
-<!ENTITY connection.installAnotherSimulator "Azónzi">
-<!ENTITY connection.installAnotherSimulatorTooltip "Instàlla 'n'âtra versción do simulatô scaregàndo o relatîvo componente azónto.">
-<!ENTITY projects.localApps "App locâli">
-<!ENTITY projects.addApp "Azónzi">
-<!ENTITY projects.addPackaged "Azónzi app packaged">
-<!ENTITY projects.addPackagedTooltip "Azónzi 'na nêuva app packaged ('na cartélla) dò-u computer.">
-<!ENTITY projects.addHosted "Azónzi app hosted">
-<!ENTITY projects.addHostedTooltip "Azónzi 'na nêuva app hosted (colegaménto a 'n file manifest.webapp) da 'n scîto web remòtto.">
-<!ENTITY projects.title "App locâli">
-<!ENTITY projects.appDetails "Detàggi app">
-<!ENTITY projects.removeAppFromList "Scancèlla sta app da l'elénco de app dónde ti travàggi. L'app no saiâ scancelâ dò-u dispoxitîvo ò dò-u simulatô.">
-<!ENTITY projects.updateApp "Agiórna">
-<!ENTITY projects.updateAppTooltip "Ezégoi contròlli de validitæ e agiórna l'app into dispoxitîvo conèsso">
-<!ENTITY projects.debugApp "Debùgga">
-<!ENTITY projects.debugAppTooltip "Àrvi i struménti di svilupatoî co-ina conesción atîva a sta app.">
+<!ENTITY connection.noSimulatorInstalled "Nisciun simulatô instalou.">
+<!ENTITY connection.installOneSimulator "Installa simulatô">
+<!ENTITY connection.installOneSimulatorTooltip "Installa 'na verscion do simulatô scaregando o relativo conponente azonto.">
+<!ENTITY connection.installAnotherSimulator "Azonzi">
+<!ENTITY connection.installAnotherSimulatorTooltip "Installa 'n'atra verscion do simulatô scaregando o relativo componente azonto.">
+<!ENTITY projects.localApps "App locali">
+<!ENTITY projects.addApp "Azonzi">
+<!ENTITY projects.addPackaged "Azonzi app packaged">
+<!ENTITY projects.addPackagedTooltip "Azonzi 'na neuva app packaged ('na cartella) dò-u computer.">
+<!ENTITY projects.addHosted "Azonzi app hosted">
+<!ENTITY projects.addHostedTooltip "Azonzi 'na neuva app hosted (colegamento a 'n file manifest.webapp) da 'n scito web remòtto.">
+<!ENTITY projects.title "App locali">
+<!ENTITY projects.appDetails "Detaggi app">
+<!ENTITY projects.removeAppFromList "Scancella sta app da l'elenco de app donde ti travaggi. L'app no saiâ scancelâ dò-u dispoxitivo ò dò-u simulato.">
+<!ENTITY projects.updateApp "Agiorna">
+<!ENTITY projects.updateAppTooltip "Ezegoi contròlli de validitæ e agiorna l'app into dispoxitivo conesso">
+<!ENTITY projects.debugApp "Debugga">
+<!ENTITY projects.debugAppTooltip "Arvi i strumenti di svilupatoî co-ina conescion ativa a sta app.">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
-<!ENTITY projects.noProjects "No gh'é nisciùn progétto. Azónzi 'n'app packaged ('na cartélla) ò 'n'app hosted (colegaménto a 'n file manifésto).">
+<!ENTITY projects.noProjects "No gh'é nisciun progetto. Azonzi 'n'app packaged ('na cartella) ò 'n'app hosted (colegamento a 'n file manifesto).">
 <!ENTITY help.title "Gestô de app">
 <!ENTITY help.close "Særa">
-<!ENTITY help.intro "Sto struménto o façìlita o svilùppo e l'instalaçión de web app in sce dispoxitîvi conpatìbili con Firefox OS. O féuggio <strong>App</strong> o sèrve pe-o procèsso de validaçión e instalaçión de l'app. O féuggio <strong>Dispoxitîvo</strong> o te daiâ informaçioìn in sciô dispoxitîvo colegatòu. Adêuviâ a bâra di struménti pe conètte 'n dispoxitîvo ò inandiâ o simulatô.">
-<!ENTITY help.usefullLinks "Colegaménti ùtili:">
-<!ENTITY help.appMgrDoc "Documentaçión: adêuviâ o gestô de app">
-<!ENTITY help.configuringDevice "Cómme inpostâ o pròpio dispoxitîvo Firefox OS">
-<!ENTITY help.troubleShooting "Soluçión di problêmi">
-<!ENTITY help.simulatorAddon "Instàlla o simulatô (conp. azónto)">
-<!ENTITY help.adbHelperAddon "Instàlla Adb Helper (conp. azónto)">
-<!ENTITY connection.startRegisteredSimulator "Inàndia:">
-<!ENTITY projects.manifestEditor "Editor di manifèsti">
-<!ENTITY projects.manifestEditorTooltip "Càngia o manifèsto de l'app into panéllo sótta. O poméllo Agiórna sàrva i cangiménti e agiórna l'app.">
-<!ENTITY projects.manifestViewer "Vixoalizatô manifèsto">
-<!ENTITY projects.manifestViewerTooltip "Analìzza o manifèsto de l'app into panéllo sótta.">
+<!ENTITY help.intro "Sto strumento o façilita o sviluppo e l'instalaçion de web app in sce dispoxitivi conpatibili con Firefox OS. O feuggio <strong>App</strong> o serve pe-o processo de validaçion e instalaçion de l'app. O feuggio <strong>Dispoxitivo</strong> o te daiâ informaçioin in sciô dispoxitivo colegatou. Adeuviâ a bara di strumenti pe conette 'n dispoxitivo ò inandiâ o simulato.">
+<!ENTITY help.usefullLinks "Colegamenti utili:">
+<!ENTITY help.appMgrDoc "Documentaçion: adeuviâ o gestô de app">
+<!ENTITY help.configuringDevice "Comme inpostâ o pròpio dispoxitivo Firefox OS">
+<!ENTITY help.troubleShooting "Soluçion di problemi">
+<!ENTITY help.simulatorAddon "Installa o simulatô (conp. azonto)">
+<!ENTITY help.adbHelperAddon "Installa Adb Helper (conp. azonto)">
+<!ENTITY connection.startRegisteredSimulator "Inandia:">
+<!ENTITY projects.manifestEditor "Editor di manifesti">
+<!ENTITY projects.manifestEditorTooltip "Cangia o manifesto de l'app into panello sotta. O pomello Agiorna sarva i cangimenti e agiorna l'app.">
+<!ENTITY projects.manifestViewer "Vixoalizatô manifesto">
+<!ENTITY projects.manifestViewerTooltip "Analizza o manifesto de l'app into panello sotta.">
 
 <!ENTITY device.plain "Normale (predefinito)">
 
-<!ENTITY projects.valid "Vàlido">
+<!ENTITY projects.valid "Valido">
 <!ENTITY projects.error "Erô">
-<!ENTITY projects.warning "Avîzo">
+<!ENTITY projects.warning "Avizo">
 
-<!ENTITY projects.saveManifest "Sàrva">
-<!ENTITY projects.saveManifestTooltip "Sàrva o contegnûo de l'editô manifèsti.">
+<!ENTITY projects.saveManifest "Sarva">
+<!ENTITY projects.saveManifestTooltip "Sarva o contegnuo de l'editô manifesti.">

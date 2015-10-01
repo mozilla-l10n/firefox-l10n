@@ -8,7 +8,7 @@ dictionary in SCOWL, SVN revision 74.
 The NOSUGGEST flag was added to certain taboo words.  While I made an
 honest attempt to flag the strongest taboo words with the NOSUGGEST
 flag, I MAKE NO GUARANTEE THAT I FLAGGED EVERY POSSIBLE TABOO WORD.
-The list was originally derived from Németh László, however I removed
+The list was originally derived from Nï¿½meth Lï¿½szlï¿½, however I removed
 some words which, while being considered taboo by some dictionaries,
 are not really considered swear words in today's society.
 

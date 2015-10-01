@@ -5,28 +5,28 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY            windowtitle.label      "&brandShortName; - Çèrni o profî">
+<!ENTITY            windowtitle.label      "&brandShortName; - Çerni o profî">
 
-<!ENTITY            profilename.label      "Nómme do profî:">
+<!ENTITY            profilename.label      "Nomme do profi:">
 
-<!ENTITY            start.label            "Inìçia &brandShortName;">
+<!ENTITY            start.label            "Iniçia &brandShortName;">
 <!ENTITY            exit.label             "Sciòrti">
 
 <!ENTITY            availprofiles.label    "Profî che gh'é">
 
-<!ENTITY            newButton.label        "Crêa Profî…">
+<!ENTITY            newButton.label        "Crea Profi…">
 <!ENTITY            newButton.accesskey    "C">
-<!ENTITY            renameButton.label     "Rinòmina Profî…">
+<!ENTITY            renameButton.label     "Rinòmina Profi…">
 <!ENTITY            renameButton.accesskey "R">
-<!ENTITY            deleteButton.label     "Scancèlla Profî…">
+<!ENTITY            deleteButton.label     "Scancella Profi…">
 <!ENTITY            deleteButton.accesskey "S">
 
 <!-- manager entities -->
-<!ENTITY            pmDescription.label    "O &brandShortName; o sarva informançioìn de teu preferénse e inpostançioìn into teu profî.">
+<!ENTITY            pmDescription.label    "O &brandShortName; o sarva informançioin de teu preferense e inpostançioin into teu profi.">
 
-<!ENTITY            offlineState.label    "Loua fêua lìnia">
+<!ENTITY            offlineState.label    "Loua feua linia">
 <!ENTITY            offlineState.accesskey "o">
 
-<!ENTITY            autoSelect.label       "No domandâmelo a l'avertûa">
+<!ENTITY            autoSelect.label       "No domandamelo a l'avertua">
 <!ENTITY            autoSelect.accesskey   "N">
 

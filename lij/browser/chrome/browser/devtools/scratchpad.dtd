@@ -20,42 +20,42 @@
   -  "Scratchpad" in your locale. You should feel free to find a close
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
-<!ENTITY window.title                 "Blòchetìn">
+<!ENTITY window.title                 "Blòchetin">
 
 <!ENTITY fileMenu.label               "File">
 <!ENTITY fileMenu.accesskey           "F">
 
-<!ENTITY newWindowCmd.label           "Nêuvo barcón">
+<!ENTITY newWindowCmd.label           "Neuvo barcon">
 <!ENTITY newWindowCmd.accesskey       "N">
 <!ENTITY newWindowCmd.commandkey      "n">
 
-<!ENTITY openFileCmd.label            "Àrvi File…">
+<!ENTITY openFileCmd.label            "Arvi File…">
 <!ENTITY openFileCmd.accesskey        "r">
 <!ENTITY openFileCmd.commandkey       "o">
 
-<!ENTITY saveFileCmd.label            "Sàrva">
+<!ENTITY saveFileCmd.label            "Sarva">
 <!ENTITY saveFileCmd.accesskey        "S">
 <!ENTITY saveFileCmd.commandkey       "s">
 
-<!ENTITY saveFileAsCmd.label          "Sàrva cómme…">
+<!ENTITY saveFileAsCmd.label          "Sarva comme…">
 <!ENTITY saveFileAsCmd.accesskey      "A">
 
 <!ENTITY closeCmd.label               "Særa">
 <!ENTITY closeCmd.key                 "W">
 <!ENTITY closeCmd.accesskey           "S">
 
-<!ENTITY editMenu.label               "Càngia">
+<!ENTITY editMenu.label               "Cangia">
 <!ENTITY editMenu.accesskey           "C">
 
-<!ENTITY run.label                    "Vànni">
+<!ENTITY run.label                    "Vanni">
 <!ENTITY run.accesskey                "V">
 <!ENTITY run.key                      "V">
 
-<!ENTITY inspect.label                "Inspeçiónn-a">
+<!ENTITY inspect.label                "Inspeçionn-a">
 <!ENTITY inspect.accesskey            "I">
 <!ENTITY inspect.key                  "i">
 
-<!ENTITY display.label                "Fànni védde">
+<!ENTITY display.label                "Fanni vedde">
 <!ENTITY display.accesskey            "F">
 <!ENTITY display.key                  "F">
 
@@ -65,11 +65,11 @@
   -  the user is evaluating against. I.e., Content (current tab) or Chrome
   -  (browser).
   -->
-<!ENTITY environmentMenu.label        "Anbiênte">
+<!ENTITY environmentMenu.label        "Anbiente">
 <!ENTITY environmentMenu.accesskey    "n">
 
 
-<!ENTITY contentContext.label         "Contegnûo">
+<!ENTITY contentContext.label         "Contegnuo">
 <!ENTITY contentContext.accesskey     "C">
 
 <!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
@@ -84,7 +84,7 @@
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
-<!ENTITY resetContext2.label          "Scancèlla variabili">
+<!ENTITY resetContext2.label          "Scancella variabili">
 <!ENTITY resetContext2.accesskey      "r">
 
 <!ENTITY executeMenu.label            "Ezegoi">
@@ -96,28 +96,28 @@
   -->
 <!ENTITY errorConsoleCmd.commandkey   "j">
 
-<!ENTITY documentationLink.label      "Agiùtto pe-o blochetìn in sciô MDN">
+<!ENTITY documentationLink.label      "Agiutto pe-o blochetin in sciô MDN">
 <!ENTITY documentationLink.accesskey  "D">
 
-<!ENTITY helpMenu.label               "Agiùtto">
+<!ENTITY helpMenu.label               "Agiutto">
 <!ENTITY helpMenu.accesskey           "A">
-<!ENTITY helpMenuWin.label            "Agiùtto">
+<!ENTITY helpMenuWin.label            "Agiutto">
 <!ENTITY helpMenuWin.accesskey        "A">
 
-<!ENTITY openRecentMenu.label "Àrvi reçénti">
+<!ENTITY openRecentMenu.label "Arvi reçenti">
 <!ENTITY openRecentMenu.accesskey "r">
 
-<!ENTITY reloadAndRun.label           "Recàrega E Xêua">
+<!ENTITY reloadAndRun.label           "Recarega E Xeua">
 <!ENTITY reloadAndRun.accesskey       "E">
 <!ENTITY reloadAndRun.key             "r">
 
-<!ENTITY revertCmd.label              "Repìggite…">
+<!ENTITY revertCmd.label              "Repiggite…">
 <!ENTITY revertCmd.accesskey          "t">
 
-<!ENTITY pprint.label "Stànpa megiorâ">
+<!ENTITY pprint.label "Stanpa megiorâ">
 <!ENTITY pprint.key "p">
 
-<!ENTITY evalFunction.label "Vàlota a fonçión corénte">
+<!ENTITY evalFunction.label "Valota a fonçion corente">
 <!ENTITY evalFunction.accesskey "V">
 <!ENTITY evalFunction.key "e">
 

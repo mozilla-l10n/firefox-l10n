@@ -7,10 +7,10 @@
     %brandDTD;
 
 <!-- These strings are used in the sync progress upload page -->
-<!ENTITY syncProgress.pageTitle    "O teu prìmmo Sync">
-<!ENTITY syncProgress.textBlurb    "I teu dæti saiàn criptæ e agiornæ in background. Ti peu serâ sto féuggio e continoâ a dêuviâ &brandShortName;.">
+<!ENTITY syncProgress.pageTitle    "O teu primmo Sync">
+<!ENTITY syncProgress.textBlurb    "I teu dæti saian criptæ e agiornæ in background. Ti peu serâ sto feuggio e continoâ a deuviâ &brandShortName;.">
 <!ENTITY syncProgress.closeButton  "Særa">
 <!ENTITY syncProgress.logoAltText  "Logo de &brandShortName;">
-<!ENTITY syncProgress.diffText     "O &brandShortName; òua faiâ a scincronizaçión aotomàtica in background.  Ti peu serâ sto féuggio e continoâ a dêuviâ &brandShortName;.">
+<!ENTITY syncProgress.diffText     "O &brandShortName; oua faiâ a scincronizaçion aotomatica in background.  Ti peu serâ sto feuggio e continoâ a deuviâ &brandShortName;.">
 
 

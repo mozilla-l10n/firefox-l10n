@@ -2,33 +2,33 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY optionsHeader.title "Inpostaçioìn">
-<!ENTITY optionsHeader.char.title "Codìfica caràteri">
-<!ENTITY optionsHeader.char.autodetect.label "Riconosciménto outomàtico">
-<!ENTITY optionsHeader.char.options.label "Fànni védde e inpostaçioìn codifica inta bâra">
-<!ENTITY clearPrivateData.title "Scancèlla dæti personâli">
-<!ENTITY clearPrivateData.label "Scancèlla da sto dispoxitîvo a stöia de navegaçión, paròlle segrête, cookie e dæti di mòdoli">
-<!ENTITY clearPrivateData.button "Scancèlla">
+<!ENTITY optionsHeader.title "Inpostaçioin">
+<!ENTITY optionsHeader.char.title "Codifica carateri">
+<!ENTITY optionsHeader.char.autodetect.label "Riconoscimento outomatico">
+<!ENTITY optionsHeader.char.options.label "Fanni vedde e inpostaçioin codifica inta bara">
+<!ENTITY clearPrivateData.title "Scancella dæti personali">
+<!ENTITY clearPrivateData.label "Scancella da sto dispoxitivo a stöia de navegaçion, paròlle segrete, cookie e dæti di mòdoli">
+<!ENTITY clearPrivateData.button "Scancella">
 <!ENTITY clearPrivateData.done "Fæto">
-<!ENTITY clearPrivateData.history "Stöia da navegaçión">
-<!ENTITY clearPrivateData.otherdata "Âtri dæti (paròlle segrête, cache, cookie, ecc.)">
-<!ENTITY clearPrivateData.downloadHist "Stöia di descaregaménti">
+<!ENTITY clearPrivateData.history "Stöia da navegaçion">
+<!ENTITY clearPrivateData.otherdata "Atri dæti (paròlle segrete, cache, cookie, ecc.)">
+<!ENTITY clearPrivateData.downloadHist "Stöia di descaregamenti">
 <!ENTITY clearPrivateData.cookies "Cookie">
 <!ENTITY clearPrivateData.cache "Cache">
-<!ENTITY clearPrivateData.sitePref "Preferénse di scîti">
-<!ENTITY clearPrivateData.formSearchHist "Mòdoli e stöia de  riçèrche">
-<!ENTITY clearPrivateData.passwords "Paròlle segrête sarvæ">
-<!ENTITY clearPrivateData.offline "Dæti no in lìnia di scîti web">
-<!ENTITY clearPrivateData.logins "Accèssi fæti">
-<!ENTITY optionsHeader.privacy.passwords.label "Aregòrda paròlla segrêta">
-<!ENTITY doNotTrack.title "Antitraciaménto">
-<!ENTITY optionsHeader.reporting.title "Report di ciànti">
-<!ENTITY optionsHeader.reporting.crashes.label "Mànda a Mozilla segnalaçioìn in sci ciànti anòmali de &brandShortName; pe megiorâne a stabilitæ e-a seguéssa">
-<!ENTITY optionsHeader.telemetry.title "Telemetrîa">
-<!ENTITY optionsHeader.telemetry.label "Condivìddi con Mozilla e statìstiche in sce l'ûzo de &brandShortName; pe agiutâ a megiorâ o navegatô">
+<!ENTITY clearPrivateData.sitePref "Preferense di sciti">
+<!ENTITY clearPrivateData.formSearchHist "Mòdoli e stöia de  riçerche">
+<!ENTITY clearPrivateData.passwords "Paròlle segrete sarvæ">
+<!ENTITY clearPrivateData.offline "Dæti no in linia di sciti web">
+<!ENTITY clearPrivateData.logins "Accessi fæti">
+<!ENTITY optionsHeader.privacy.passwords.label "Aregòrda paròlla segreta">
+<!ENTITY doNotTrack.title "Antitraciamento">
+<!ENTITY optionsHeader.reporting.title "Report di cianti">
+<!ENTITY optionsHeader.reporting.crashes.label "Manda a Mozilla segnalaçioin in sci cianti anòmali de &brandShortName; pe megiorane a stabilitæ e-a seguessa">
+<!ENTITY optionsHeader.telemetry.title "Telemetria">
+<!ENTITY optionsHeader.telemetry.label "Condividdi con Mozilla e statistiche in sce l'uzo de &brandShortName; pe agiutâ a megiorâ o navegatô">
 
-<!ENTITY doNotTrack.options.doNotTrack "Domànda a-i scîti web de no êse traciòu">
-<!ENTITY doNotTrack.options.doTrack "Dìnni a-i scîti web a disponibilitæ d'êse traciòu">
-<!ENTITY doNotTrack.options.default "No comunicâ a-i scîti web nisciùnn-a preferénsa de traciaménto">
-<!ENTITY doNotTrack.learnMoreLink "Âtre informaçioìn…">
-<!ENTITY optionsHeader.reporting.crashes.submitURLs "Inclùddi l’indirìsso da pàgina che ti vixitâvi">
+<!ENTITY doNotTrack.options.doNotTrack "Domanda a-i sciti web de no ese traciou">
+<!ENTITY doNotTrack.options.doTrack "Dinni a-i sciti web a disponibilitæ d'ese traciou">
+<!ENTITY doNotTrack.options.default "No comunicâ a-i sciti web nisciunn-a preferensa de traciamento">
+<!ENTITY doNotTrack.learnMoreLink "Atre informaçioin…">
+<!ENTITY optionsHeader.reporting.crashes.submitURLs "Includdi l’indirisso da pagina che ti vixitavi">

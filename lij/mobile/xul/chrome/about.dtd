@@ -1,23 +1,23 @@
-<!ENTITY aboutPage.title                        "Informaçioìn rigoàrdo &brandShortName;">
-<!ENTITY aboutPage.warningVersion               "&brandShortName; o l'é sperimentâle e peu êse instàbile.">
-<!ENTITY aboutPage.telemetryStart               "O mànda de informaçioìn in sce prestaçioìn, hardware, ûzo e personalizaçioìn in aotomàtico inderê ">
+<!ENTITY aboutPage.title                        "Informaçioin rigoardo &brandShortName;">
+<!ENTITY aboutPage.warningVersion               "&brandShortName; o l'é sperimentale e peu ese instabile.">
+<!ENTITY aboutPage.telemetryStart               "O manda de informaçioin in sce prestaçioin, hardware, uzo e personalizaçioin in aotomatico inderê ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
 <!ENTITY aboutPage.telemetryEnd                 "pe agiutâ a megiorâ &brandShortName;. ">
 <!ENTITY aboutPage.faq.label                    "FAQ">
-<!ENTITY aboutPage.support.label                "Agiùtto">
-<!ENTITY aboutPage.privacyPolicy.label          "Polìtica da Privacy">
-<!ENTITY aboutPage.rights.label                 "In sci teu dirîti">
-<!ENTITY aboutPage.relNotes.label               "Anotaçioìn da distribuçión">
-<!ENTITY aboutPage.credits.label                "Riconóscimenti">
-<!ENTITY aboutPage.checkForUpdates.button       "Çèrca agiornaménti">
-<!ENTITY aboutPage.checkForUpdates.checking     "Çèrco i agiornaménti…">
-<!ENTITY aboutPage.checkForUpdates.none         "No gh'é di agiornaménti">
-<!ENTITY aboutPage.checkForUpdates.found        "Gh'é 'n'agiornaménto">
+<!ENTITY aboutPage.support.label                "Agiutto">
+<!ENTITY aboutPage.privacyPolicy.label          "Politica da Privacy">
+<!ENTITY aboutPage.rights.label                 "In sci teu diriti">
+<!ENTITY aboutPage.relNotes.label               "Anotaçioin da distribuçion">
+<!ENTITY aboutPage.credits.label                "Riconoscimenti">
+<!ENTITY aboutPage.checkForUpdates.button       "Çerca agiornamenti">
+<!ENTITY aboutPage.checkForUpdates.checking     "Çerco i agiornamenti…">
+<!ENTITY aboutPage.checkForUpdates.none         "No gh'é di agiornamenti">
+<!ENTITY aboutPage.checkForUpdates.found        "Gh'é 'n'agiornamento">
 
 
 <!-- LOCALIZATION NOTE:
      These strings are concatenated in order. Unneeded strings may be left blank.
 -->
-<!ENTITY aboutPage.licenseLink                  "Informaçión de licénsa">
+<!ENTITY aboutPage.licenseLink                  "Informaçion de licensa">
 <!ENTITY aboutPage.licenseLinkSuffix            ".">
 

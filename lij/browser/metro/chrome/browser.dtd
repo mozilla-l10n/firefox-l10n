@@ -2,14 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY urlbar.emptytext "Çèrca ò scrîvi 'n indirìsso">
+<!ENTITY urlbar.emptytext "Çerca ò scrivi 'n indirisso">
 <!ENTITY back.label "Inderê">
-<!ENTITY forward.label "Avànti">
-<!ENTITY newtab.label "Nêuvo féuggio">
-<!ENTITY closetab.label "Sæta féuggio">
-<!ENTITY autocompleteResultsHeader.label "Éxiti">
-<!ENTITY appbarErrorConsole.label "Àrvi console di eroî">
-<!ENTITY appbarJSShell.label "Àrvi shell JavaScript">
+<!ENTITY forward.label "Avanti">
+<!ENTITY newtab.label "Neuvo feuggio">
+<!ENTITY closetab.label "Sæta feuggio">
+<!ENTITY autocompleteResultsHeader.label "Exiti">
+<!ENTITY appbarErrorConsole.label "Arvi console di eroî">
+<!ENTITY appbarJSShell.label "Arvi shell JavaScript">
 <!ENTITY appbarFindInPage2.label "Trova nella pagina">
 <!ENTITY topSitesHeader.label "Siti principali">
 <!ENTITY bookmarksHeader.label "Segnalibri">
@@ -21,44 +21,44 @@
 <!ENTITY narrowRemoteTabsHeader.label "Schede remote">
 <!ENTITY downloadsHeader.label "Download">
 <!ENTITY downloadShowPage.label "Vai alla pagina">
-<!ENTITY downloadShow2.label "Trêuva">
-<!ENTITY downloadOpen2.label "Àrvi">
-<!ENTITY downloadCancel.label "Anùlla">
+<!ENTITY downloadShow2.label "Treuva">
+<!ENTITY downloadOpen2.label "Arvi">
+<!ENTITY downloadCancel.label "Anulla">
 <!ENTITY downloadPause.label "Pösa">
-<!ENTITY downloadResume.label "Repìggia">
-<!ENTITY downloadRetry.label "Prêuva tórna">
-<!ENTITY downloadRemove.label "Scancèlla">
-<!ENTITY downloadDelete.label "Scancèlla">
-<!ENTITY downloadFailed.label "No ariescîo">
-<!ENTITY allBookmarks.label "Véddi tùtti i segnalìbbri">
+<!ENTITY downloadResume.label "Repiggia">
+<!ENTITY downloadRetry.label "Preuva torna">
+<!ENTITY downloadRemove.label "Scancella">
+<!ENTITY downloadDelete.label "Scancella">
+<!ENTITY downloadFailed.label "No ariescio">
+<!ENTITY allBookmarks.label "Veddi tutti i segnalibbri">
 <!ENTITY consoleHeader.label "Console di eroî">
-<!ENTITY consoleAll.label "Tùtti">
+<!ENTITY consoleAll.label "Tutti">
 <!ENTITY consoleErrors.label "Eroî">
-<!ENTITY consoleWarnings.label "Avîzi">
-<!ENTITY consoleMessages.label "Mesàggi">
+<!ENTITY consoleWarnings.label "Avizi">
+<!ENTITY consoleMessages.label "Mesaggi">
 <!ENTITY consoleCodeEval.label "Còdice:">
-<!ENTITY consoleClear.label "Scancèlla tùtto">
+<!ENTITY consoleClear.label "Scancella tutto">
 <!ENTITY consoleEvaluate.label "…">
-<!ENTITY consoleErrFile.label "File sorgénte:">
-<!ENTITY consoleErrLine.label "Rîga:">
+<!ENTITY consoleErrFile.label "File sorgente:">
+<!ENTITY consoleErrLine.label "Riga:">
 <!ENTITY consoleErrColumn.label "Colònna:">
-<!ENTITY contextTextCut.label "Tàggia">
+<!ENTITY contextTextCut.label "Taggia">
 <!ENTITY contextTextCopy.label "Còpia">
 <!ENTITY contextTextPaste.label "Incòlla">
-<!ENTITY contextTextPasteAndGo.label "Incòlla e vànni">
-<!ENTITY contextTextSelect.label "Seleçiónn-a">
-<!ENTITY contextTextSelectAll.label "Seleçiónn-a tùtto">
-<!ENTITY contextOpenLinkTab.label "Àrvi link inte 'n nêuvo féuggio">
+<!ENTITY contextTextPasteAndGo.label "Incòlla e vanni">
+<!ENTITY contextTextSelect.label "Seleçionn-a">
+<!ENTITY contextTextSelectAll.label "Seleçionn-a tutto">
+<!ENTITY contextOpenLinkTab.label "Arvi link inte 'n neuvo feuggio">
 <!ENTITY contextCopyLinkHref.label "Còpia link">
-<!ENTITY contextBookmarkLinkHref.label "Azónzi a-i segnalìbbri">
-<!ENTITY contextSaveImageLib.label "Sàrva in Inmàgini">
-<!ENTITY contextCopyImage.label "Còpia inmàgine">
-<!ENTITY contextCopyImageLocation.label "Còpia indirìssoo inmàgine">
-<!ENTITY contextOpenImageTab.label "Àrvi inmàgine inte 'n nêuvo féuggio">
-<!ENTITY contextSaveVideoLib.label "Sàrva in Vìdeo">
-<!ENTITY contextCopyVideoLocation.label "Còpia indirìsso vìdeo">
-<!ENTITY contextOpenVideoTab.label "Àrvi vìdeo inte 'n nêuova féuggio">
-<!ENTITY appbarMSMetaData2.label "Pìggite l'app pe sto scîto">
+<!ENTITY contextBookmarkLinkHref.label "Azonzi a-i segnalibbri">
+<!ENTITY contextSaveImageLib.label "Sarva in Inmagini">
+<!ENTITY contextCopyImage.label "Còpia inmagine">
+<!ENTITY contextCopyImageLocation.label "Còpia indirissoo inmagine">
+<!ENTITY contextOpenImageTab.label "Arvi inmagine inte 'n neuvo feuggio">
+<!ENTITY contextSaveVideoLib.label "Sarva in Video">
+<!ENTITY contextCopyVideoLocation.label "Còpia indirisso video">
+<!ENTITY contextOpenVideoTab.label "Arvi video inte 'n neuova feuggio">
+<!ENTITY appbarMSMetaData2.label "Piggite l'app pe sto scito">
 <!ENTITY reload.key "r">
 <!ENTITY focusURL.key "l">
 <!ENTITY urlbar.accesskey "d">
@@ -76,20 +76,20 @@
 <!ENTITY syncFlyout.key "s">
 <!ENTITY aboutFlyout.key "a">
 
-<!ENTITY appbarRelaunchInDesktop.label "Àrvi tórna in mòddo desktop">
-<!ENTITY appbarViewPageSource.label "Véddi sorgénte pàgina">
-<!ENTITY firstRunBookmarks.label "Trêuva e pàgine sarvæ">
-<!ENTITY firstRunDifferent.label "Originâle a partî da-o progétto">
-<!ENTITY firstRunHistory.label "Contròlla i scîti che t'æ vixitòu in sciâ Ræ">
-<!ENTITY firstRunMenu.label "Acêdi a-e opçioìn e a-e âtre fonçioìn">
-<!ENTITY firstRunTabs.label "No ti trêuvi ciù i féuggi? Rebêla in zu ò fànni clic co-o poméllo dèstro">
-<!ENTITY firstRunTopSites.label "Acêdi a-i scîti ciù vixitæ">
-<!ENTITY firstRunWelcome.label "Benvegnûo in &brandShortName;">
+<!ENTITY appbarRelaunchInDesktop.label "Arvi torna in mòddo desktop">
+<!ENTITY appbarViewPageSource.label "Veddi sorgente pagina">
+<!ENTITY firstRunBookmarks.label "Treuva e pagine sarvæ">
+<!ENTITY firstRunDifferent.label "Originale a partî da-o progetto">
+<!ENTITY firstRunHistory.label "Contròlla i sciti che t'æ vixitou in sciâ Ræ">
+<!ENTITY firstRunMenu.label "Acedi a-e opçioin e a-e atre fonçioin">
+<!ENTITY firstRunTabs.label "No ti treuvi ciù i feuggi? Rebela in zu ò fanni clic co-o pomello destro">
+<!ENTITY firstRunTopSites.label "Acedi a-i sciti ciù vixitæ">
+<!ENTITY firstRunWelcome.label "Benvegnuo in &brandShortName;">
 
-<!ENTITY firstRunBack.label "Tócca pe tornâ a-a pàgina prìmma">
-<!ENTITY firstRunNewTab.label "Azónzi 'n nêuvo féuggio pe védde 'n âtro scîto">
-<!ENTITY firstRunStar.label "Adêuvia i segnalìbbri pe sarvâ e pàgine ciù interesànti">
-<!ENTITY firstRunPin.label "Azónzi qualónque scîto a-a schermâ Start de Windows pe 'n acèsso ciù ràpido">
-<!ENTITY firstRunGotIt.label "Reçevûo!">
+<!ENTITY firstRunBack.label "Tocca pe tornâ a-a pagina primma">
+<!ENTITY firstRunNewTab.label "Azonzi 'n neuvo feuggio pe vedde 'n atro scito">
+<!ENTITY firstRunStar.label "Adeuvia i segnalibbri pe sarvâ e pagine ciù interesanti">
+<!ENTITY firstRunPin.label "Azonzi qualonque scito a-a schermâ Start de Windows pe 'n acesso ciù rapido">
+<!ENTITY firstRunGotIt.label "Reçevuo!">
 <!ENTITY newPrivateTab.key "p">
-<!ENTITY newPrivateTab.label "Nêuvo féuggio anònimo">
+<!ENTITY newPrivateTab.label "Neuvo feuggio anònimo">

@@ -2,12 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY canvasDebuggerUI.reloadNotice1 "Recàrega">
-<!ENTITY canvasDebuggerUI.reloadNotice2 "A pàgina pe fâ o debug di contèsti &lt;canvas&gt;.">
-<!ENTITY canvasDebuggerUI.emptyNotice1 "Sciàcca in sciô">
-<!ENTITY canvasDebuggerUI.emptyNotice2 "poméllo pe registrâ o stack de ciamâ de 'n frame de l’animaçión.">
-<!ENTITY canvasDebuggerUI.importNotice "Càrego…">
-<!ENTITY canvasDebuggerUI.recordSnapshot.tooltip "Regìstra o frame ch'o l'é dòppo a sequénsa de animaçión.">
+<!ENTITY canvasDebuggerUI.reloadNotice1 "Recarega">
+<!ENTITY canvasDebuggerUI.reloadNotice2 "A pagina pe fâ o debug di contesti &lt;canvas&gt;.">
+<!ENTITY canvasDebuggerUI.emptyNotice1 "Sciacca in sciô">
+<!ENTITY canvasDebuggerUI.emptyNotice2 "pomello pe registrâ o stack de ciamâ de 'n frame de l’animaçion.">
+<!ENTITY canvasDebuggerUI.importNotice "Carego…">
+<!ENTITY canvasDebuggerUI.recordSnapshot.tooltip "Registra o frame ch'o l'é dòppo a sequensa de animaçion.">
 <!ENTITY canvasDebuggerUI.importSnapshot "Inpòrta…">
-<!ENTITY canvasDebuggerUI.clearSnapshots "Scancèlla">
-<!ENTITY canvasDebuggerUI.searchboxPlaceholder "Fìltra ciamæ">
+<!ENTITY canvasDebuggerUI.clearSnapshots "Scancella">
+<!ENTITY canvasDebuggerUI.searchboxPlaceholder "Filtra ciamæ">

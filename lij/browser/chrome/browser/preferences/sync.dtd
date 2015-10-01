@@ -5,44 +5,44 @@
 <!-- The page shown when not logged in... -->
 <!ENTITY setupButton.label          "Inpòsta &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "s">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; o te faiâ acêde a teu stöia, segnalìbbri, paròlle segrétte e féuggi avèrti in tùtti i teu aparâti che ti dêuvi pe conétite.">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; o te faiâ acede a teu stöia, segnalibbri, paròlle segrette e feuggi averti in tutti i teu aparati che ti deuvi pe conetite.">
 
 <!-- The page shown when logged in... -->
 
 <!-- Login error feedback -->
-<!ENTITY updatePass.label             "Agiórna">
+<!ENTITY updatePass.label             "Agiorna">
 <!ENTITY resetPass.label              "Reinpòsta">
 
 <!-- Manage Account -->
-<!ENTITY manageAccount.label          "Gestión de l'Account">
+<!ENTITY manageAccount.label          "Gestion de l'Account">
 <!ENTITY manageAccount.accesskey      "A">
-<!ENTITY viewQuota.label              "Fànni védde a quöta">
-<!ENTITY changePassword2.label        "Càngia paròlla segrêta…">
-<!ENTITY myRecoveryKey.label          "A mæ ciâve de repìggio">
+<!ENTITY viewQuota.label              "Fanni vedde a quöta">
+<!ENTITY changePassword2.label        "Cangia paròlla segreta…">
+<!ENTITY myRecoveryKey.label          "A mæ ciave de repiggio">
 <!ENTITY resetSync2.label             "Reinpòsta Sync…">
 
-<!ENTITY pairDevice.label             "Acóbia 'n aparâto">
+<!ENTITY pairDevice.label             "Acobia 'n aparato">
 
 <!ENTITY syncMy.label               "Sync o Mæ">
-<!ENTITY engine.bookmarks.label     "Segnalìbbri">
+<!ENTITY engine.bookmarks.label     "Segnalibbri">
 <!ENTITY engine.bookmarks.accesskey "S">
-<!ENTITY engine.tabs.label          "Féuggi">
+<!ENTITY engine.tabs.label          "Feuggi">
 <!ENTITY engine.tabs.accesskey      "F">
 <!ENTITY engine.history.label       "Stöia">
 <!ENTITY engine.history.accesskey   "S">
-<!ENTITY engine.passwords.label     "Paròlle segrétte">
+<!ENTITY engine.passwords.label     "Paròlle segrette">
 <!ENTITY engine.passwords.accesskey "p">
 <!ENTITY engine.prefs.label         "Preferense">
 <!ENTITY engine.prefs.accesskey     "P">
-<!ENTITY engine.addons.label        "Conponénti azónti">
+<!ENTITY engine.addons.label        "Conponenti azonti">
 <!ENTITY engine.addons.accesskey    "a">
 
 <!-- Device Settings -->
-<!ENTITY unlinkDevice.label           "Scolega sto aparâto">
+<!ENTITY unlinkDevice.label           "Scolega sto aparato">
 
 <!-- Footer stuff -->
-<!ENTITY prefs.tosLink.label        "Termini do servìçio">
+<!ENTITY prefs.tosLink.label        "Termini do serviçio">
 <!ENTITY prefs.ppLink.label         "Politica da Privacy">
 
-<!ENTITY syncDeviceName.label       "Nómme de l'aparâto:">
+<!ENTITY syncDeviceName.label       "Nomme de l'aparato:">
 <!ENTITY syncDeviceName.accesskey   "a">
