@@ -32,7 +32,6 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "p">
 <!ENTITY  unpinTab.label                     "Tia zu feuggio">
 <!ENTITY  unpinTab.accesskey                 "T">
-<!ENTITY identity.help.tooltip 				"Comme aseguase se a conescion a 'n scito a l'é segua">
 <!ENTITY  moveToGroup.label                  "Mescia into Muggio">
 <!ENTITY  moveToGroup.accesskey              "M">
 <!ENTITY  moveToNewGroup.label               "Neuvo gruppo">
@@ -53,7 +52,6 @@ can reach it easily. -->
 <!ENTITY tabCmd.accesskey "N">
 <!ENTITY tabCmd.commandkey "t">
 <!ENTITY openLocationCmd.label "Arvi Indirisso…">
-<!ENTITY openLocationCmd.accesskey "v">
 <!ENTITY openFileCmd.label "Arvi File…">
 <!ENTITY openFileCmd.accesskey "v">
 <!ENTITY openFileCmd.commandkey "o">
@@ -72,7 +70,6 @@ can reach it easily. -->
 <!ENTITY menubarCmd.label "Bara do Menû">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "Bara de Navegaçion">
-<!ENTITY navbarCmd.accesskey "N">
 <!ENTITY personalbarCmd.label "Bara di Segnalibbri">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Ògetti da Bara di Segnalibbri">
@@ -118,12 +115,10 @@ can reach it easily. -->
 
 <!ENTITY backButton.tooltip           "Vanni inderê de 'na pagina">
 <!ENTITY forwardCmd.label             "Avanti">
-<!ENTITY forwardCmd.accesskey         "A">
 <!ENTITY forwardButton.tooltip        "Vanni avanti de 'na pagina">
 <!ENTITY backForwardButtonMenu.tooltip "Sciacca co-o pomello drito do ratto ò tegni sciacou pe vedde a stöia">
 <!ENTITY backForwardButtonMenuMac.tooltip "Vanni in zu pe vedde a stöia">
 <!ENTITY reloadCmd.label              "Recarega">
-<!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY reloadButton.tooltip         "Recarega a pagina corente">
 <!ENTITY stopCmd.label                "Ferma">
 <!ENTITY stopCmd.accesskey            "F">
@@ -133,11 +128,9 @@ can reach it easily. -->
 <!ENTITY printButton.label            "Stanpa">
 <!ENTITY printButton.tooltip          "Stanpa questa pagina">
 
-<!ENTITY backForwardItem.title        "Indere/Avanti">
+
 <!ENTITY locationItem.title           "Indirisso">
 <!ENTITY searchItem.title             "Riçerca">
-<!ENTITY throbberItem.title           "Indicatô da ativitæ">
-<!ENTITY bookmarksItem.title          "Segnalibbri">
 
 <!-- Toolbar items --> 
 
@@ -146,17 +139,12 @@ can reach it easily. -->
 <!ENTITY tabGroupsButton.label        "Gruppo de feuggi">
 <!ENTITY tabGroupsButton.tooltip      "Ragruppa i teu feuggi">
 
-<!ENTITY feedButton.label             "Abon-ite">
-<!ENTITY feedButton.tooltip           "Abon-ite a sta pagina…">
 
 <!ENTITY bookmarksButton.label          "Segnalibbri">
-<!ENTITY bookmarksButton.tooltip        "Veddi i teu segnalibbri">
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Segnalibbri">
-<!ENTITY bookmarksMenuButton.tooltip        "Veddi i teu segnalibbri">
 <!ENTITY bookmarksMenuButton.unsorted.label "Atri segnalibbri">
-<!ENTITY viewBookmarksSidebar.label         "Fanni vedde inta bara de scianco">
 <!ENTITY viewBookmarksToolbar.label         "Fanni vedde a bara di Segnalibbri">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -166,7 +154,6 @@ can reach it easily. -->
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Stöia">
-<!ENTITY historyButton.tooltip          "Fanni vedde e pagine che ti t'æ visto urtimamente">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "Strumenti">
@@ -175,7 +162,6 @@ can reach it easily. -->
 <!ENTITY keywordfield.label           "Azonzi 'na paròlla ciave pe questa riçerca…">
 <!ENTITY keywordfield.accesskey       "A">
 <!ENTITY downloads.label              "Descaregamenti">
-<!ENTITY downloads.tooltip            "Fanni vedde l'avansamento di descaregamenti">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -216,7 +202,11 @@ can reach it easily. -->
 <!ENTITY newNavigatorCmd.label        "Neuvo barcon">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
-
+<!ENTITY fullscreenWarning.beforeDomain.label "">
+<!ENTITY fullscreenWarning.afterDomain.label "o l'é mostrou a tutto schermo">
+<!ENTITY fullscreenWarning.generic.label "Sto documento o l'é mostrou a tutto schermo">
+<!ENTITY fxaSignedIn.tooltip "Arvi e inpostaçioin de &syncBrand.shortName.label;">
+<!ENTITY fxaUnverified.label "Verifica l’account">
 <!ENTITY editMenu.label         "Cangia"> 
 <!ENTITY editMenu.accesskey       "C"> 
 <!ENTITY undoCmd.label            "Anulla">  
@@ -245,6 +235,9 @@ can reach it easily. -->
 <!ENTITY preferencesCmdUnix.label       "Preferense">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
+<!ENTITY getUserMedia.allWindowsShared.message "Tutte i barcoin vixibili into schermo saian condivizi.">
+<!ENTITY getUserMedia.audioCapture.label "L’aodio do feugio o saiâ condivizo.">
+
 <!ENTITY clearRecentHistory.label               "Scancella a stöia ciù neuva…">
 
 <!-- LOCALIZATION NOTE : These two strings can share an access key beause they never appear together on the menu -->
@@ -260,9 +253,17 @@ can reach it easily. -->
 <!ENTITY viewSidebarMenu.accesskey "e">
 <!ENTITY viewCustomizeToolbar.label       "Personalizza…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
-<!ENTITY viewTabsOnTop.label            "Feuggi in çimma">
-<!ENTITY viewTabsOnTop.accesskey        "F">
 
+<!ENTITY contentSearchInput.label "Ciave de riçerca">
+<!ENTITY contentSearchSubmit.label "Inandia riçerca"
+
+<!ENTITY exitDOMFullscreen.button "Sciòrti da a tutto schermo (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "Sciòrti da sa tutto schermo (esc)">
+
+<!ENTITY eyedropper.label "Piggia o cô">
+<!ENTITY eyedropper.accesskey "i">
+<!ENTITY findSelectionCmd.commandkey "e">
+<!ENTITY findShareServices.label "Treuva atri serviççi de condivixion…">
 <!ENTITY historyMenu.label "Stöia">
 <!ENTITY historyMenu.accesskey "S">
 <!ENTITY historyUndoMenu.label "Feuggi seræ urtimamente">
@@ -362,7 +363,6 @@ can reach it easily. -->
 <!ENTITY setDesktopBackgroundCmd.label      "Inpòsta comme sfondo do desktop…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "s">
 <!ENTITY bookmarkPageCmd2.label       "Azonzi questa pagina a-i segnalibbri">
-<!ENTITY bookmarkPageCmd2.accesskey   "A">
 <!ENTITY bookmarkThisLinkCmd.label      "Azonzi questo colegamento a-i segnalibbri">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Azonzi sto riquaddro a-i segnalibbri">
@@ -470,14 +470,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Zoom">
 <!ENTITY fullZoom.accesskey             "Z">
 
-<!ENTITY newTabButton.tooltip           "Arvi neuvo feuggio">
-<!ENTITY newWindowButton.tooltip        "Arvi un neuvo barcon">
+
 <!ENTITY sidebarCloseButton.tooltip     "Særa a bara de scianco">
-
-<!ENTITY copyButton.tooltip             "Còpia">
-<!ENTITY pasteButton.tooltip            "Incòlla">
-
-<!ENTITY fullScreenButton.tooltip       "Fanni vedde a tutto schermo">
 
 <!ENTITY quitApplicationCmdWin2.label "Sciòrti">
 <!ENTITY quitApplicationCmdWin2.accesskey "S">
@@ -532,8 +526,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label                   "Anulla">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
-<!ENTITY identity.unverifiedsite2 "Sto scito o no l'à informaçioin d'identitæ.">
-<!ENTITY identity.connectedTo "Ti ê conesso a">
 <!ENTITY identity.connectionSecure "Conescion segua">
 <!ENTITY identity.connectionNotSecure "Conescion no segua">
 <!ENTITY identity.connectionFile "Sta pagina a l'é sarvâ in sciô dispoxitivo che t'adeuvi.">
@@ -585,8 +577,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
-<!ENTITY syncSetup.label              "Inpòsta &syncBrand.shortName.label;…">
-<!ENTITY syncSetup.accesskey          "s">
+
 <!ENTITY syncSyncNowItem.label        "Scincronizza oua">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncToolbarButton.label      "Sync">
@@ -605,12 +596,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY enterFullScreenCmd.accesskey "h">
 <!ENTITY exitFullScreenCmd.label "Sciòrti da a tutto schermo">
 <!ENTITY exitFullScreenCmd.accesskey "h">
-<!ENTITY fullscreenAllowButton.label "Sci">
-<!ENTITY fullscreenExitButton.label "No">
 <!ENTITY leaveDOMFullScreen.label "Sciòrti da a tutto schermo">
 <!ENTITY leaveDOMFullScreen.accesskey "h">
-
-<!ENTITY fullscreenExitHint2.value "Sciacca ESC in qualonque momento pe sciortî">
 
 <!ENTITY responsiveDesignTool.label "Vista flescibile">
 <!ENTITY responsiveDesignTool.accesskey "s">
@@ -646,8 +633,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.chatBar.accesskey "h">
 <!ENTITY social.chatBar.label "Seleçionn-a chat">
 
-<!ENTITY mixedContentBlocked.helplink "Atre informaçioin">
-<!ENTITY mixedContentBlocked.moreinfo "I ciù tanti sciti web fonçionian ben anche se vegne blocou sto contegnuo.">
 <!ENTITY playPluginCmd.label "Ativa sto plugin">
 <!ENTITY playPluginCmd.accesskey "l">
 
@@ -668,17 +653,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY browserConsoleCmd.label "Console do navegatô">
 <!ENTITY markPageCmd.commandkey "l">
 <!ENTITY quitApplicationCmdUnix.key "Q">
-<!ENTITY shareImageCmd.label "Condividdi sta inmagine">
-<!ENTITY shareImageCmd.accesskey "i">
-<!ENTITY shareLinkCmd.label "Condividdi sto colegamento">
-<!ENTITY shareLinkCmd.accesskey "k">
 <!ENTITY sharePageCmd.label "Condividdi sta pagina">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "a">
-<!ENTITY shareSelectCmd.label "Condividdi seleçion">
-<!ENTITY shareSelectCmd.accesskey "s">
-<!ENTITY shareVideoCmd.label "Condividdi sto video">
-<!ENTITY shareVideoCmd.accesskey "v">
 <!ENTITY social.activated.description "L'é stæto ativou i serviççi da <label/>. L'é poscibile cangiâ e inpostaçioin di serviççi into <label class='text-link'>Gestô di conponenti azonti</label>.">
 <!ENTITY social.activated.undo.label "Ahime mi, anulla">
 <!ENTITY social.activated.undo.accesskey "a">
@@ -698,10 +675,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.marklinkMenu.accesskey "S">
 <!ENTITY social.markpageMenu.accesskey "a">
 <!ENTITY social.markpageMenu.label "Sarva pagina inte…">
-<!ENTITY tabCrashed.checkSendReport "Segnala sto blòcco a &vendorShortName; in mòddo che o problema se pòssa risòlve.">
-<!ENTITY tabCrashed.header "O feuggio o s'é serou">
-<!ENTITY tabCrashed.message "Ahime mi! Che inbarasso. No l'é stæto poscibile mostrâ a pagina web perché o scito o no risponde.">
-<!ENTITY tabCrashed.tryAgain "Preuva torna">
 <!ENTITY browserToolboxMenu.label "Cascetta di attressi do navegatô">
 <!ENTITY browserToolboxMenu.accesskey "e">
 
@@ -747,7 +720,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY uiTour.infoPanel.close "Særa">
 <!ENTITY viewBookmarksSidebar2.label "Veddi a bara de scianco segnalibbri">
 
-<!ENTITY customizeMode.menuAndToolbars.label "Menû e bare di strumenti">
 
 <!ENTITY browserContentToolboxMenu.accesskey "w">
 <!ENTITY browserContentToolboxMenu.label "Stipetto di atressi di contegnui do browser">
@@ -842,5 +814,39 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY webide.accesskey "W">
 <!ENTITY webide.keycode "VK_F8">
 <!ENTITY webide.keytext "F8">
+
+<!ENTITY search.label "Çerca con ">
+<!ENTITY searchAfter.label "">
+<!ENTITY searchFor.label "Çerca ">
+<!ENTITY searchInNewTab.label "Çerca inte neuvo feuggio">
+<!ENTITY searchInNewTab.accesskey "n">
+<!ENTITY searchSetAsDefault.label "Inpòsta comme motô de riçerca predefinio">
+<!ENTITY searchSetAsDefault.accesskey "m">
+<!ENTITY searchWith.label " con:">
+<!ENTITY searchWithHeader.label "Çerca con:">
+<!ENTITY shareImage.label "Condividdi sta inmagine">
+<!ENTITY shareImage.accesskey "i">
+<!ENTITY shareLink.label "Condividdi sto colegamento">
+<!ENTITY shareLink.accesskey "u">
+<!ENTITY shareSelect.label "Condividdi seleçion">
+<!ENTITY shareSelect.accesskey "i">
+<!ENTITY shareVideo.label "Condividdi sto video">
+<!ENTITY shareVideo.accesskey "i">
+<!ENTITY syncReAuthItem.label "Conetti torna a &syncBrand.shortName.label;…">
+<!ENTITY syncReAuthItem.accesskey "R">
+<!ENTITY syncSignIn.label "Acedi a &syncBrand.shortName.label;…">
+<!ENTITY syncSignIn.accesskey "y">
+<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; ativou">
+<!ENTITY syncStartPanel2.subTitle "A scincronizaçion di &brandShortName; o l'iniçiâ fito.">
+<!ENTITY toggleMuteCmd.key "M">
+
+
+
+
+
+
+
+
+
 
 
