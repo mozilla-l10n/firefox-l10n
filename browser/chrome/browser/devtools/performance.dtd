@@ -17,6 +17,7 @@
 <!ENTITY performanceUI.disabledRealTime.nonE10SBuild "Recolección de datos en tiempo real desactivada para Firefox no multiproceso.">
 <!ENTITY performanceUI.disabledRealTime.disabledE10S "Active Firefox multiproceso en las preferencias para realizar la grabación de datos en tiempo real.">
 <!ENTITY performanceUI.bufferStatusFull "El buffer está lleno. Las muestras más antiguas están siendo sobrescritas.">
+<!ENTITY performanceUI.unavailableNoticePB "Grabar un perfil actualmente no se encuentra disponible. Por favor, cierre todas las ventanas de navegación privada y vuelva a intentarlo.">
 <!ENTITY performanceUI.loadingNotice "Cargando…">
 <!ENTITY performanceUI.recordButton.tooltip "Cambia el estado de grabación de una grabación de rendimiento.">
 <!ENTITY performanceUI.importButton "Importar…">
