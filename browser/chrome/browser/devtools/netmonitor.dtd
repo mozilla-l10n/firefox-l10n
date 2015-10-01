@@ -14,7 +14,7 @@
 
 
 <!ENTITY netmonitorUI.perfNotice1         "• Clic pe">
-<!ENTITY netmonitorUI.perfNotice2         "buton pentru a porni analiza de perfomanță">
+<!ENTITY netmonitorUI.perfNotice2         "buton pentru a porni analiza de performanță">
 <!-- LOCALIZATION NOTE (netmonitorUI.reload1/2/3): These are the labels displayed
   -  in the network table when empty to start logging network requests. -->
 
