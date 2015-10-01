@@ -17,8 +17,8 @@
 <!ENTITY cmd.open.accesskey                        "W">
 <!ENTITY cmd.removeFromHistory.label               "Z historije wótpóraś">
 <!ENTITY cmd.removeFromHistory.accesskey           "h">
-
-
-
-
-
+<!ENTITY cmd.clearList.label                       "Lisćinu wuprozniś">
+<!ENTITY cmd.clearList.accesskey                   "L">
+<!ENTITY cmd.clearList.tooltip                     "Wšykne zapiski z lisćiny skłaźonych datajow wótpóraś, mimo běžnych ześěgnjenjow.">
+<!ENTITY cmd.searchDownloads.label                 "Pytaś…">
+<!ENTITY cmd.searchDownloads.key                   "F">
