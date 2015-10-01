@@ -110,6 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "t">
 
 <!ENTITY fxaSignIn.label "S'annunziar tar &syncBrand.shortName.label;">
+<!ENTITY fxaSignedIn.tooltip "Avrir las preferenzas da &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Reconnectar cun &syncBrand.shortName.label;">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; è activà">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; cumenza immediat a sincronisar.">
@@ -273,6 +274,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 <!ENTITY browserContentToolboxMenu.label     "Utensils da cuntegn dal navigatur">
+<!ENTITY browserContentToolboxMenu.accesskey "g">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Serrar la trav d'utensils per sviluppaders">
 <!ENTITY devToolbarMenu.label              "Trav d'utensils per sviluppaders">
@@ -302,6 +304,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "Nova fanestra privata">
 <!ENTITY newPrivateWindow.accesskey "e">
+<!ENTITY newNonRemoteWindow.label   "Nova fanestra betg e10s">
 
 <!ENTITY editMenu.label         "Modifitgar"> 
 <!ENTITY editMenu.accesskey       "M"> 
@@ -392,6 +395,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Midar al tab:">
 
+<!ENTITY urlbar.searchSuggestionsNotification.question "Vuls ti meglierar ils resultats da tschertga cun propostas?">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Ulteriuras infurmaziuns…">
+<!ENTITY urlbar.searchSuggestionsNotification.disable "Na">
+<!ENTITY urlbar.searchSuggestionsNotification.enable "Gea">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -420,6 +427,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
      These are set as the aria-label attribute for the search input box and
      submit button in the in-content search UI, to be used by screen readers. -->
+<!ENTITY contentSearchInput.label     "Term da tschertgar">
+<!ENTITY contentSearchSubmit.label    "Trametter la tschertga">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -433,6 +442,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      intentionally left empty for en-US and can be used by other localizations to
      display a string after the search engine name.  This string will be displayed
      as:  "Search <selected engine name><searchAfter.label text>" -->
+<!ENTITY search.label                 "Tschertgar ">
+<!ENTITY searchAfter.label            "">
 
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
@@ -632,6 +643,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "S">
 
+<!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "Stil da la pagina d'internet">
 <!ENTITY pageStyleMenu.accesskey "S">
@@ -673,10 +685,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label                   "Interrumper">
 <!ENTITY editBookmark.removeBookmark.accessKey       "L">
 
+<!ENTITY identity.connectionSecure "Connexiun segirada">
+<!ENTITY identity.connectionNotSecure "Questa connexiun n'è betg segirada">
+<!ENTITY identity.connectionFile "Questa pagina è memorisada sin tes computer.">
+<!ENTITY identity.connectionVerified "&brandShortName; ha verifitgà che ti es collià a moda segira cun questa pagina, gestiunada da:">
+<!ENTITY identity.connectionInternal "Quai è ina pagina segira da &brandShortName;.">
 
 <!-- Strings for connection state warnings. -->
+<!ENTITY identity.activeBlocked "&brandShortName; ha bloccà parts da questa pagina che n'èn betg segiradas.">
+<!ENTITY identity.passiveLoaded "Parts da questa pagina (p.ex. maletgs) n'èn betg segiradas.">
+<!ENTITY identity.activeLoaded "Ti has deactivà la protecziun per questa pagina.">
+<!ENTITY identity.weakEncryption "Questa pagina utilisescha in criptadi flaivel.">
 
 <!-- Strings for connection state warnings in the subview. -->
+<!ENTITY identity.description.insecure "Tia connexiun cun questa pagina n'è betg privata. Infurmaziuns che ti tramettas (p.ex. pleds-clav, messadis, numers da cartas da credit etc.) pon eventualmain vegnir legidas dad auters.">
+<!ENTITY identity.description.weakCipher "Tia connexiun cun questa pagina utilisescha in criptadi flaivel e n'è betg privata.">
+<!ENTITY identity.description.weakCipher2 "Autras persunas pon vesair tias infurmaziuns u modifitgar la pagina d'internet.">
 
 
 
