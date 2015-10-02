@@ -11,15 +11,16 @@
 <!ENTITY  onboard_start_subtext3 "Mobil web\u0027de gezinti deneyiminiz tamamen size ait olsun.">
 <!ENTITY  onboard_start_button_account "&brandShortName; oturumu aç">
 <!ENTITY  onboard_start_button_browser "Gezinmeye başla">
-
+<!ENTITY firstrun_button_next "Sonraki">
 
 <!ENTITY  onboard_start_restricted1 "&brandShortName;\u0027un bu basitleştirilmiş sürümüyle güvende kalın ve kontrolü elinizde tutun.">
 
+<!ENTITY firstrun_import_title "İçe aktar">
 <!ENTITY firstrun_import_message "&brandShortName; tarayıcısına hoş geldiniz">
-
-
-
-
+<!ENTITY firstrun_import_subtext "Yer imlerinizi ve geçmişinizi başka bir tarayıcıdan içe aktarın.">
+<!ENTITY firstrun_import_action "&brandShortName; tarayıcısına aktar">
+<!ENTITY firstrun_import_dialog_button "Aktar">
+<!ENTITY firstrun_import_progress_title "Aktarılıyor">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -64,9 +65,9 @@
 
 <!ENTITY history_today_section "Bugün">
 <!ENTITY history_yesterday_section "Dün">
-
-
-
+<!ENTITY history_week_section3 "Son 7 gün">
+<!ENTITY history_this_month_section "Bu ay">
+<!ENTITY history_older_section3 "6 aydan daha eski">
 
 <!ENTITY go "Git">
 <!ENTITY search "Ara">
@@ -96,6 +97,7 @@
      &formatS; will be replaced with the title of the tab, as received from the
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "Ses çalınıyor – &formatS;">
 
 <!ENTITY settings "Ayarlar">
 <!ENTITY settings_title "Ayarlar">
@@ -197,9 +199,9 @@
 <!ENTITY pref_home_updates_wifi "Yalnızca Wi-Fi üzerinden">
 <!ENTITY pref_home_suggested_sites "Site önerilerini göster">
 <!ENTITY pref_home_suggested_sites_summary "İlginç bulacağınızı düşündüğümüz sitelerin kısayollarını ana sayfanızda gösterir">
-
-
-
+<!ENTITY pref_category_home_homepage "Ana Sayfa">
+<!ENTITY home_homepage_title "Ana sayfa ayarla">
+<!ENTITY home_homepage_use_current_tab "Geçerli sekmeyi kullan">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Özelleştir">
@@ -364,7 +366,7 @@ size. -->
 <!ENTITY share_title "Paylaş">
 <!ENTITY share_image_failed "Bu resim paylaşılamadı">
 <!ENTITY save_as_pdf "PDF olarak kaydet">
-
+<!ENTITY print "Yazdır">
 <!ENTITY find_in_page "Sayfada bul">
 <!ENTITY desktop_mode "Masaüstü sitesini iste">
 <!ENTITY page "Sayfa">
@@ -384,7 +386,7 @@ size. -->
 
 <!ENTITY find_text "Sayfada bul">
 <!ENTITY find_prev "Önceki">
-
+<!ENTITY find_next "Sonraki">
 <!ENTITY find_close "Kapat">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -409,8 +411,8 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Siteyi sabitle">
 <!ENTITY contextmenu_top_sites_unpin "Sabitlenmesini kaldır">
 <!ENTITY contextmenu_add_search_engine "Arama motoru ekle">
-
-
+<!ENTITY contextmenu_mark_read "Okundu olarak işaretle">
+<!ENTITY contextmenu_mark_unread "Okunmadı olarak işaretle">
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
@@ -433,6 +435,8 @@ size. -->
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
+<!ENTITY pref_magnifying_glass_enabled "Küçük alanları büyüt">
+<!ENTITY pref_magnifying_glass_enabled_summary "Yakınlarına tıkladığım bağlantıları ve form alanlarını büyük">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -580,8 +584,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_insecure "Güvenilmez bağlantı">
 <!-- Mixed content notifications in site identity popup -->
 
-
-
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; bu sayfadaki güvenli olmayan içeriği engelledi.">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; bu sayfadaki güvensiz içeriğin bir kısmını engelledi.">
+<!ENTITY mixed_content_display_loaded1 "Bu sayfanın bazı kısımları (örn. resimler) güvenli değil.">
+<!ENTITY mixed_content_protection_disabled1 "Güvensiz içerikten korunmayı devre dışı bıraktınız.">
 <!-- Tracking content notifications in site identity popup -->
 
 <!ENTITY doorhanger_tracking_title "İzlenme koruması">
@@ -599,6 +605,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Özel veriler temizlendi">
 <!ENTITY private_data_fail "Bazı özel veriler temizlenemedi">
 
+<!ENTITY bookmarkhistory_button_import "İçe aktar">
 <!ENTITY bookmarkhistory_import_both "Android\u0027den yer imleri ve geçmiş 
 alınıyor">
 <!ENTITY bookmarkhistory_import_bookmarks "Android\u0027den yer imleri 
@@ -714,9 +721,15 @@ alınıyor">
 <!ENTITY restriction_disallow_guest_browsing_title2 "Konuk oturumunu etkisizleştir">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+
+<!ENTITY bookmarks_about_browser "Firefox: Tarayıcınız hakkında">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "Firefox: Eklentilerle özelleştirin">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "Firefox: Destek">
 <!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
 <!ENTITY bookmarks_marketplace "Firefox Marketplace">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!ENTITY bookmarks_restricted_support2 "Android tableterdeki kısıtlı profiller için Firefox Yardım ve Desteği">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!ENTITY bookmarks_restricted_webmaker "Web\u0027i öğrenin: Mozilla Webmaker">
