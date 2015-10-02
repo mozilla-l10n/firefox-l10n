@@ -704,9 +704,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Güvenli bağlantı">
 <!ENTITY identity.connectionNotSecure "Bağlantı güvenli değil">
 <!ENTITY identity.connectionFile "Bu sayfa bilgisayarınızda depolanıyor.">
-
+<!ENTITY identity.connectionVerified1 "Bu siteye güvenli bir şekilde bağlandınız. Siteyi işleten:">
 <!ENTITY identity.connectionInternal "Burası güvenli bir &brandShortName; sayfasıdır.">
-
+<!ENTITY identity.insecureLoginForms "Hesabınız ele geçirilebilir.">
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "&brandShortName; bu sayfanın güvenli olmayan kısımlarını engelledi.">
@@ -716,7 +716,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings in the subview. -->
 
 <!ENTITY identity.description.insecure "Bu siteye bağlantınız size özel değil. Gönderdiğini bilgiler (parolalar, mesajlar, kredi kartı bilgileri vb.) başkaları tarafından görülebilir.">
-
+<!ENTITY identity.description.insecureLoginForms "Bu sayfaya yazdığınız giriş bilgileri güvende değildir ve saldırganlar tarafından ele geçirilebilir.">
 <!ENTITY identity.description.weakCipher "Bu siteye bağlatnınız zayıf bir şifreleme kullanıyor ve size özel değil.">
 <!ENTITY identity.description.weakCipher2 "Başkaları bilgilerinizi görebilir veya web sitesinin davranışını değiştirebilir.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; bu sayfanın güvenli olmayan kısımlarını engelledi.">
@@ -735,7 +735,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.moreInfoLinkText2 "Daha fazla bilgi">
 
 <!ENTITY identity.permissions "İzinler">
-
+<!ENTITY identity.permissionsEmpty "Bu siteye özel bir izin vermediniz.">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -747,7 +747,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncBrand.shortName.label    "Sync">
 
 <!ENTITY syncSignIn.label             "&syncBrand.shortName.label; oturumu aç…">
-
+<!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "Şimdi eşitle">
 <!ENTITY syncSyncNowItem.accesskey    "m">
 <!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label;'e tekrar bağlan…">
