@@ -25,8 +25,8 @@
 
 <!ENTITY helpSafeMode.label       "ॲडऑन्स बंद असल्यावर पुनः सुरू करा…">
 <!ENTITY helpSafeMode.accesskey   "R">
-
-
+<!ENTITY helpSafeMode.stop.label       "ॲडऑन्स सक्रीय असल्यावर पुनः सुरू करा (R)">
+<!ENTITY helpSafeMode.stop.accesskey   "R">
 
 <!ENTITY healthReport2.label      "&brandShorterName; हेल्थ रिपोर्ट">
 <!ENTITY healthReport2.accesskey  "e">
