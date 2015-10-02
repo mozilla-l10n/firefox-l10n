@@ -12,8 +12,6 @@
 
 <!ENTITY abouthome.pageTitle "Pagina iniçiâ de &brandFullName;">
 
-<!ENTITY abouthome.searchEngineButton.label "Riçerca">
-
 <!ENTITY abouthome.rightsSnippet "&brandFullName; o l'é 'na aplicaçion libera e co-o Sorgente Averto fæto da Mozilla Foundation, 'na organizaçion sensa fin de goagno. <a>Descövri i teu diritti…</a>">
 
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
@@ -32,3 +30,5 @@
 <!ENTITY abouthome.downloadsButton.label "Descaregamenti">
 <!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">
 <!ENTITY find.commandkey "f">
+<!ENTITY abouthome.preferencesButtonWin.label "Opçioin">
+<!ENTITY abouthome.preferencesButtonUnix.label "Preferense">

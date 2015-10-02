@@ -80,3 +80,25 @@
 <!ENTITY netmonitorUI.custom.query "Stringa query:">
 <!ENTITY netmonitorUI.custom.cancel "Anulla">
 <!ENTITY netmonitorUI.backButton "Inderê">
+
+<!ENTITY netmonitorUI.footer.filterFreetext.label "Filtra URL">
+<!ENTITY netmonitorUI.footer.filterFreetext.key "F">
+<!ENTITY netmonitorUI.footer.filterOther "Atro">
+<!ENTITY netmonitorUI.footer.perf "Ativa analixi prestaçioin…">
+<!ENTITY netmonitorUI.perfNotice1 "• Sciacca o pomello">
+<!ENTITY netmonitorUI.perfNotice2 "pe inandiâ l’analixi de prestaçioin.">
+<!ENTITY netmonitorUI.reloadNotice1 "• Manda 'na domanda ò">
+<!ENTITY netmonitorUI.reloadNotice2 "Recarega">
+<!ENTITY netmonitorUI.reloadNotice3 "a pagina pe amiâ informaçioin detaliæ in sce l’ativitæ da ræ.">
+<!ENTITY netmonitorUI.security.certificate "Certificato:">
+<!ENTITY netmonitorUI.security.cipherSuite "Pachetto de cifratua:">
+<!ENTITY netmonitorUI.security.connection "Conescion:">
+<!ENTITY netmonitorUI.security.error "Gh'é stæto 'n erô:">
+<!ENTITY netmonitorUI.security.hpkp "“Key Pinning” pubrico:">
+<!ENTITY netmonitorUI.security.hsts "Seguessa do trasporto HTTP ristreto (HSTS):">
+<!ENTITY netmonitorUI.security.protocolVersion "Verscion do protocòllo:">
+<!ENTITY netmonitorUI.summary.method "Metodo de domanda:">
+<!ENTITY netmonitorUI.summary.address "Indirisso remòtto:">
+<!ENTITY netmonitorUI.tab.preview "Anteprimma">
+<!ENTITY netmonitorUI.tab.security "Seguessa">
+<!ENTITY netmonitorUI.toolbar.transferred "Trasferio">
