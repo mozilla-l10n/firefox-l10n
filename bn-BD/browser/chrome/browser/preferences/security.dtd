@@ -24,6 +24,8 @@
 <!ENTITY  addonExceptions.accesskey     "E">
 
 
+<!ENTITY  logins.label                  "লগইন">
+
 
 <!ENTITY  passwordExceptions.label      "ব্যতিক্রম... (x)">
 <!ENTITY  passwordExceptions.accesskey  "x">
