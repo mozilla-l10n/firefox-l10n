@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY netmonitorUI.emptyNotice2 "Fâ 'na domanda ò recarega a pagina pe avei informaçioin detaliæ in sce l'ativitæ da ræ.">
 <!ENTITY netmonitorUI.toolbar.status2 "✓">
 <!ENTITY netmonitorUI.toolbar.method "Metodo">
 <!ENTITY netmonitorUI.toolbar.file "File">
@@ -53,3 +52,31 @@
 <!ENTITY netmonitorUI.context.newTab "Arvi into neuvo feuggio">
 <!ENTITY netmonitorUI.context.newTab.accesskey "A">
 <!ENTITY netmonitorUI.footer.clear "Scancella">
+
+<!ENTITY netmonitorUI.security.warning.cipher "L’algoritmo adeuviou pe a cifratua o l'é deprecou ò no seguo.">
+<!ENTITY netmonitorUI.context.perfTools "Iniçia analixi prestaçioin…">
+<!ENTITY netmonitorUI.context.perfTools.accesskey "I">
+<!ENTITY netmonitorUI.context.copyAsCurl "Còpia con cURL">
+<!ENTITY netmonitorUI.context.copyAsCurl.accesskey "U">
+<!ENTITY netmonitorUI.context.copyUrlParams "Còpia parametri URL">
+<!ENTITY netmonitorUI.context.copyUrlParams.accesskey "m">
+<!ENTITY netmonitorUI.context.copyPostData "Còpia dæti POST">
+<!ENTITY netmonitorUI.context.copyPostData.accesskey "T">
+<!ENTITY netmonitorUI.context.copyImageAsDataUri "Còpia inmagine comme dæto URI">
+<!ENTITY netmonitorUI.context.copyImageAsDataUri.accesskey "C">
+<!ENTITY netmonitorUI.context.copyAllAsHar "Còpia tutto comme HAR">
+<!ENTITY netmonitorUI.context.copyAllAsHar.accesskey "R">
+<!ENTITY netmonitorUI.context.saveAllAsHar "Sarva tutto comme HAR">
+<!ENTITY netmonitorUI.context.saveAllAsHar.accesskey "H">
+<!ENTITY netmonitorUI.context.copyResponse "Còpia risposta">
+<!ENTITY netmonitorUI.context.copyResponse.accesskey "o">
+<!ENTITY netmonitorUI.context.copyRequestHeaders "Còpia testâ domanda">
+<!ENTITY netmonitorUI.context.copyRequestHeaders.accesskey "h">
+<!ENTITY netmonitorUI.context.copyResponseHeaders "Copia testâ risposta">
+<!ENTITY netmonitorUI.context.copyResponseHeaders.accesskey "s">
+<!ENTITY netmonitorUI.summary.rawHeaders "Testæ no elaboræ (raw)">
+<!ENTITY netmonitorUI.summary.rawHeaders.requestHeaders "Testâ domanda:">
+<!ENTITY netmonitorUI.summary.rawHeaders.responseHeaders "Testâ risposta:">
+<!ENTITY netmonitorUI.custom.query "Stringa query:">
+<!ENTITY netmonitorUI.custom.cancel "Anulla">
+<!ENTITY netmonitorUI.backButton "Inderê">
