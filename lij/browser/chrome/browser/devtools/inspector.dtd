@@ -11,4 +11,26 @@
 <!ENTITY inspectorSearchHTML.key "F">
 <!ENTITY inspectorHTMLEdit.label "Cangia comme HTML">
 <!ENTITY inspectorHTMLEdit.accesskey "M">
-
+<!ENTITY inspectorHTMLPasteOuter.label "Incòlla HTML esterno">
+<!ENTITY inspectorHTMLPasteOuter.accesskey "I">
+<!ENTITY inspectorHTMLPasteInner.label "Incòlla HTML interno">
+<!ENTITY inspectorHTMLPasteInner.accesskey "L">
+<!ENTITY inspectorHTMLPasteExtraSubmenu.label "Incòlla…">
+<!ENTITY inspectorHTMLPasteExtraSubmenu.accesskey "n">
+<!ENTITY inspectorHTMLPasteBefore.label "Primma">
+<!ENTITY inspectorHTMLPasteBefore.accesskey "P">
+<!ENTITY inspectorHTMLPasteAfter.label "Dòppo">
+<!ENTITY inspectorHTMLPasteAfter.accesskey "D">
+<!ENTITY inspectorHTMLPasteFirstChild.label "Comme primmo figgio">
+<!ENTITY inspectorHTMLPasteFirstChild.accesskey "f">
+<!ENTITY inspectorHTMLPasteLastChild.label "Comme urtimo figgio">
+<!ENTITY inspectorHTMLPasteLastChild.accesskey "o">
+<!ENTITY inspectorScrollNodeIntoView.label "Scorri inta vixoalizaçion">
+<!ENTITY inspectorScrollNodeIntoView.accesskey "S">
+<!ENTITY inspectorSearchHTML.label3 "Çerca in HTML">
+<!ENTITY inspectorCopyImageDataUri.label "Còpia Data-URL dell’inmagine">
+<!ENTITY inspectorShowDOMProperties.label "Amia proprietæ DOM">
+<!ENTITY inspectorUseInConsole.label "Deuvia inta\ Console">
+<!ENTITY inspectorExpandNode.label "Espandi tutto">
+<!ENTITY inspectorCollapseNode.label "Conprimi">
+<!ENTITY inspectorScreenshotNode.label "Sarva inte na schermâ do groppo">
