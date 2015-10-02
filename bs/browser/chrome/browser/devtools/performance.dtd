@@ -53,13 +53,13 @@
   -  in the toolbar on buttons that select which view is currently shown. -->
 
 <!ENTITY performanceUI.toolbar.waterfall "Waterfall">
-
+<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Prikazuje različite operacije koje browser izvodi za vrijeme snimanja, postavljenje sekvencijalno kao waterfall.">
 <!ENTITY performanceUI.toolbar.js-calltree "Stablo poziva">
 
 <!ENTITY performanceUI.toolbar.memory-calltree "Alokacije">
-
+<!ENTITY performanceUI.toolbar.allocations.tooltiptext "Prikazuje gdje je memorija alocirana za vrijeme snimanja.">
 <!ENTITY performanceUI.toolbar.js-flamegraph "JS Flame Chart">
-
+<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Prikazuje JavaScript stack poziva za vrijeme snimanja.">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "Flame Chart alokacija">
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->

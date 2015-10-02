@@ -112,7 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignIn.label "Prijava u &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Otvori &syncBrand.shortName.label; postavke">
 <!ENTITY fxaSignInError.label "Ponovno povezivanje na &syncBrand.shortName.label;">
-
+<!ENTITY fxaUnverified.label "Verifikujte vaš račun">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; omogućen">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; će ubrzo započeti sinhronizaciju.">
 
@@ -131,12 +131,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY fullscreenWarning.beforeDomain.label "">
-
-
+<!ENTITY fullscreenWarning.afterDomain.label "je sad preko cijelog ekrana">
+<!ENTITY fullscreenWarning.generic.label "Ovaj dokument je prikazan preko cijelog ekrana">
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
-
+<!ENTITY exitDOMFullscreen.button "Izađite iz cijelog ekrana (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "Izađite iz cijelog ekrana (esc)">
 <!ENTITY leaveDOMFullScreen.label "Izađi iz prikaza preko cijelog ekrana">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
@@ -222,7 +223,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "Preuzimanja">
 <!ENTITY downloads.accesskey          "P">
 <!ENTITY downloads.commandkey         "j">
-
+<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Add-oni">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
@@ -405,11 +406,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Da li biste željeli unaprijediti vaše iskustvo pretraživanja pomoću prijedloga?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Saznajte više…">
-
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Ne">
-
+<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Da">
-
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -466,9 +467,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Promijeni postavke pretraživača">
 
-
-
-
+<!ENTITY searchInNewTab.label         "Traži u novom tabu">
+<!ENTITY searchInNewTab.accesskey     "t">
+<!ENTITY searchSetAsDefault.label     "Postavi kao glavni pretraživač">
+<!ENTITY searchSetAsDefault.accesskey "p">
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -704,9 +706,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Sigurna konekcija">
 <!ENTITY identity.connectionNotSecure "Veza nije sigurna">
 <!ENTITY identity.connectionFile "Ova stranica je pohranjena na vaš računar.">
-
+<!ENTITY identity.connectionVerified1 "Povezani ste na siguran način na stranicu, koju pokreće:">
 <!ENTITY identity.connectionInternal "Ovo je sigurna &brandShortName; stranica.">
-
+<!ENTITY identity.insecureLoginForms "Vaša prijava bi mogla biti kompromitovana.">
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "&brandShortName; je blokirao dijelove ove stranice koji nisu sigurni.">
@@ -716,7 +718,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings in the subview. -->
 
 <!ENTITY identity.description.insecure "Vaša konekcija na ovu stranicu nije privatna. Informacije koje pošaljete vidljive su drugima (poput lozinki, poruka, kreditnih kartica, itd.).">
-
+<!ENTITY identity.description.insecureLoginForms "Informacije za prijavu koje unesete na ovoj stranici nisu sigurne i mogle bi biti kompromitovane.">
 <!ENTITY identity.description.weakCipher "Vaša konekcija na ovu web stranicu koristi slabu enkripciju i nije privatna.">
 <!ENTITY identity.description.weakCipher2 "Drugi ljudi mogu vidjeti vaše informacije ili modifikovati ponašanje web stranice.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; je blokirao dijelove ove stranice koji nisu sigurni.">
@@ -735,7 +737,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.moreInfoLinkText2 "Više informacija">
 
 <!ENTITY identity.permissions "Permisije">
-
+<!ENTITY identity.permissionsEmpty "Ovoj stranici niste dodijelili nikakve posebne dozvole.">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -746,7 +748,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
-
+<!ENTITY syncSignIn.label             "Prijava u &syncBrand.shortName.label;…">
+<!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "Sinhronizuj sada">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Ponovno povezivanje na &syncBrand.shortName.label;…">
