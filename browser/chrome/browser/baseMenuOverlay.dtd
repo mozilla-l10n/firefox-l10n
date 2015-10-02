@@ -21,10 +21,12 @@
 <!ENTITY helpMac.commandkey       "?">
 <!ENTITY helpSafeMode.label       "Arvi torna co-i conponenti azonti dizabilitæ">
 <!ENTITY helpSafeMode.accesskey   "R">
-
+<!ENTITY helpShowTour2.label "Tour de &brandShorterName;">
+<!ENTITY helpShowTour2.accesskey "o">
 <!ENTITY helpTroubleshootingInfo.label      "Informaçioin in sciâ soluçion di problemi">
 <!ENTITY helpTroubleshootingInfo.accesskey  "I">
-
+<!ENTITY preferencesCmdMac.label "Preferense…">
+<!ENTITY preferencesCmdMac.commandkey ",">
 <!ENTITY helpFeedbackPage.label      "Manda 'n Comento…">
 <!ENTITY helpFeedbackPage.accesskey  "M">
 
@@ -32,9 +34,6 @@
 <!ENTITY hideThisAppCmdMac2.commandkey "H">
 
 <!ENTITY servicesMenuMac.label          "Serviççi">
-
-<!ENTITY hideThisAppCmdMac.label        "Ascondi &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey   "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Ascondi i atri">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">

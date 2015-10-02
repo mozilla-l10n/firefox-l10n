@@ -116,8 +116,34 @@
 
 <!ENTITY pprint.label "Stanpa megiorâ">
 <!ENTITY pprint.key "p">
+<!ENTITY pprint.accesskey "F">
 
 <!ENTITY evalFunction.label "Valota a fonçion corente">
 <!ENTITY evalFunction.accesskey "V">
 <!ENTITY evalFunction.key "e">
+
+<!ENTITY wordWrap.label "Testo a capo">
+<!ENTITY wordWrap.accesskey "T">
+
+<!ENTITY viewMenu.label "Veddi">
+<!ENTITY viewMenu.accesskey "V">
+
+<!ENTITY smallerFont.label "Caratere ciù picin">
+<!ENTITY smallerFont.accesskey "a">
+<!ENTITY smallerFont.commandkey "-">
+
+<!ENTITY normalSize.label "Caratere predefinio">
+<!ENTITY normalSize.accesskey "r">
+<!ENTITY normalSize.commandkey "0">
+
+<!ENTITY lineNumbers.label "Mostra numero riga">
+<!ENTITY lineNumbers.accesskey "n">
+
+<!ENTITY largerFont.label "Caratere ciù grande">
+<!ENTITY largerFont.accesskey "a">
+<!ENTITY largerFont.commandkey "+">
+<!ENTITY largerFont.commandkey2 "=">
+
+<!ENTITY highlightTrailingSpace.label "Evidençia spaççi finali">
+<!ENTITY highlightTrailingSpace.accesskey "E">
 
