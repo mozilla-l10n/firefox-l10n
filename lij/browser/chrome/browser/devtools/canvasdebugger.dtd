@@ -6,8 +6,8 @@
 <!ENTITY canvasDebuggerUI.reloadNotice2 "A pagina pe fâ o debug di contesti &lt;canvas&gt;.">
 <!ENTITY canvasDebuggerUI.emptyNotice1 "Sciacca in sciô">
 <!ENTITY canvasDebuggerUI.emptyNotice2 "pomello pe registrâ o stack de ciamâ de 'n frame de l’animaçion.">
-<!ENTITY canvasDebuggerUI.importNotice "Carego…">
 <!ENTITY canvasDebuggerUI.recordSnapshot.tooltip "Registra o frame ch'o l'é dòppo a sequensa de animaçion.">
 <!ENTITY canvasDebuggerUI.importSnapshot "Inpòrta…">
 <!ENTITY canvasDebuggerUI.clearSnapshots "Scancella">
 <!ENTITY canvasDebuggerUI.searchboxPlaceholder "Filtra ciamæ">
+<!ENTITY canvasDebuggerUI.waitingNotice "Registaçion çiclo de animaçion…">

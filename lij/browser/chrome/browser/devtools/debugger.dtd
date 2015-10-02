@@ -85,11 +85,15 @@
 <!ENTITY debuggerUI.startTracing "Inandia traciamento">
 <!ENTITY debuggerUI.tabs.traces "Tracce">
 
-
-
-
-
-
+<!ENTITY debuggerUI.autoBlackBox "Gestisci aotomaticamente in black box sorgenti conpresse (minified)">
+<!ENTITY debuggerUI.autoBlackBox.accesskey "b">
+<!ENTITY debuggerUI.context.copyUrl "Còpia URL">
+<!ENTITY debuggerUI.context.copyUrl.accesskey "C">
+<!ENTITY debuggerUI.context.copyUrl.key "C">
+<!ENTITY debuggerUI.context.newTab "Arvi inte 'n neuvo feuggio">
+<!ENTITY debuggerUI.context.newTab.accesskey "A">
+<!ENTITY debuggerUI.sources.togglePromiseDebugger "Ativa/disativa debugger promise">
+<!ENTITY debuggerUI.tabs.workers "Worker">
 
 
 

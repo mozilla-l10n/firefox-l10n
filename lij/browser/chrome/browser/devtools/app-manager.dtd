@@ -92,3 +92,15 @@
 
 <!ENTITY projects.saveManifest "Sarva">
 <!ENTITY projects.saveManifestTooltip "Sarva o contegnuo de l'editô manifesti.">
+
+<!ENTITY device.browserTabs "Feuggi do navegatô">
+<!ENTITY device.browserTabsTooltip "Mostra 'n'elenco di feuggi averti into navegatô do dispoxitivo conesso">
+<!ENTITY device.debugBrowserTab "Debug">
+<!ENTITY device.debugBrowserTabTooltip "Arvi i strumenti de sviluppo conetendoli a sto feuggio do navegatô in sciô dispoxitivo">
+<!ENTITY device.debugMainProcess "Debug processo prinçipâ">
+<!ENTITY device.debugMainProcessTooltip "Arve i strumenti de sviluppo conetendoli a-o processo prinçipâ in sciô dispoxitivo">
+<!ENTITY projects.hosted "Remòtta">
+<!ENTITY projects.packaged "Locale">
+
+
+
