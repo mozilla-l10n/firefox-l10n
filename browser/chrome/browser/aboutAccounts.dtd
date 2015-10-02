@@ -10,5 +10,5 @@
 <!ENTITY aboutAccountsConfig.useOldSync.label "सिंकची जुनी आवृत्ती वापरत आहात?">
 
 
-
-
+<!ENTITY aboutAccounts.noConnection.description "साईन-इन करण्यासाठी, आपले इंटरनेट चालू असणे आवश्यक आहे.">
+<!ENTITY aboutAccounts.noConnection.retry "पुन्हा प्रयत्न करा">
