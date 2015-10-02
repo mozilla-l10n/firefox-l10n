@@ -113,7 +113,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignedIn.tooltip "Deschide preferințele &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Reconectare la &syncBrand.shortName.label;">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; activat">
-<!ENTITY syncStartPanel2.subTitle "&brandShortName; va începe sincronizarea în câteva momente.">
+<!ENTITY syncStartPanel2.subTitle "&brandShortName; va începe sincronizarea din clipă în clipă.">
 <!ENTITY syncErrorPanel.heading "Nu mă pot conecta la &syncBrand.shortName.label;">
 <!ENTITY syncErrorPanel.subTitle "Vă rugăm să vă autentificați pentru a relua sincronizarea.">
 <!ENTITY syncErrorPanel.signInButton.label "Autentificare">
