@@ -7,7 +7,7 @@
 <!ENTITY inspector.selectButton.tooltip "Seleçionn-a un elemento co-o ratto">
 <!ENTITY inspectorCopyUniqueSelector.label "Còpia seletô univoco">
 <!ENTITY inspectorCopyUniqueSelector.accesskey "u">
-<!ENTITY inspectorSearchHTML.label "Çerca in HTML">
+<!ENTITY inspectorSearchHTML.label2 "Çerca seletô CSS">
 <!ENTITY inspectorSearchHTML.key "F">
 <!ENTITY inspectorHTMLEdit.label "Cangia comme HTML">
 <!ENTITY inspectorHTMLEdit.accesskey "M">

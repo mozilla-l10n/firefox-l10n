@@ -11,8 +11,8 @@
   -  The text appears on the bottom right corner of the layout view when
   -  the corresponding box is hovered. -->
 
-<!ENTITY margins.tooltip        "zinn-e">
-<!ENTITY borders.tooltip        "oexin">
+<!ENTITY margin.tooltip        "zinn-a">
+<!ENTITY border.tooltip        "oexin">
 <!ENTITY padding.tooltip        "pin">
 <!ENTITY content.tooltip        "contegnuo">
 <!ENTITY title 					"Box model">
