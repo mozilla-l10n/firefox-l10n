@@ -81,7 +81,7 @@
 <!ENTITY projects.saveManifest "သိမ်းဆည်းပါ">
 <!ENTITY projects.saveManifestTooltip "မူဝါဒတည်းဖြတ်နေရာရှိ အကြောင်းအရာများကို အောက်တွင် သိမ်းပါ">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
-
+<!ENTITY projects.noProjects "အဝေးထိန်း ဝဘ်ဆိုက်မှ အထိုင်ချပြီး အက်ပ်တစ်ခု ထည့်ရန် (manifest.webapp ဖိုင်ကို ချိတ်ဆက်သည်)">
 <!ENTITY projects.manifestEditor "မူဝါဒတည်းဖြတ်နေရာ">
 
 <!ENTITY projects.manifestViewer "မူဝါဒကြည့်ရှုနေရာ">
