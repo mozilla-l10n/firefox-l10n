@@ -43,7 +43,7 @@ can reach it easily. -->
 <!ENTITY  moveToGroup.label                  "குழுவுக்கு நகர்த்து">
 <!ENTITY  moveToGroup.accesskey              "M">
 <!ENTITY  moveToNewGroup.label               "புதிய குழு">
-<!ENTITY  moveToNewWindow.label              "புதிய சாளரத்திற்கு நகர்த்து">
+<!ENTITY  moveToNewWindow.label              "புதிய சாளரத்திற்கு நகரவும்">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "அனைத்து கீற்றுகளையும் புத்தகக்குறியிடு…">
 <!ENTITY  bookmarkAllTabs.accesskey          "க">
@@ -61,7 +61,7 @@ can reach it easily. -->
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "இடத்தைத் திற…">
-<!ENTITY openFileCmd.label "கோப்பினை திற…">
+<!ENTITY openFileCmd.label "கோப்பினைத் திற">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "பக்க அமைவு…">

@@ -9,7 +9,7 @@ a replacement for the standard security certificate errors produced
 by NSS/PSM via netError.xhtml. -->
 
 
-<!ENTITY certerror.pagetitle  "நம்பப்படாத இணைப்பு">
+<!ENTITY certerror.pagetitle  "நம்பகமில்லா இணைப்பு">
 <!ENTITY certerror.longpagetitle "இந்த இணைப்பு நம்பகமில்லாதது">
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user

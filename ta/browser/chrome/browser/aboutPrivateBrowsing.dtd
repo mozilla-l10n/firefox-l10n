@@ -15,11 +15,13 @@
      -->
 <!ENTITY aboutPrivateBrowsing.title            "நீங்கள் தனித்து உலாவுகிறீர்கள்">
 
+<!ENTITY aboutPrivateBrowsing.info.notsaved    "சேமிக்கப்படவில்லை">
 <!ENTITY aboutPrivateBrowsing.info.history     "வரலாறு">
-
+<!ENTITY aboutPrivateBrowsing.info.searches    "தேடல்கள்">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "குக்கீகள்">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "தற்காலிக கோப்புகள்">
 
-
+<!ENTITY aboutPrivateBrowsing.info.saved       "சேமிக்கப்பட்டது">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "பதிவிறக்கங்கள்">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "புத்தகக்குறிகள்">
 
@@ -33,12 +35,16 @@
      different, so testing on Windows, Mac, and Linux is encouraged.
      -->
 
+<!ENTITY trackingProtection.width1             "22em">
+<!ENTITY trackingProtection.title              "தடமறியல் பாதுகாப்பு">
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
 
+<!ENTITY trackingProtection.state.width        "6ch">
 
 
 
 
 
+<!ENTITY trackingProtection.startTour1         "இது எப்படி வேலை செய்கிறது என்று பார்க்கவும்">
