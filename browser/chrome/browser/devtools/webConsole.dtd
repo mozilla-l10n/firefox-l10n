@@ -51,8 +51,8 @@
 <!ENTITY btnPageLogging.label   "লগিং">
 <!ENTITY btnPageLogging.tooltip "উইন্ডোতে লগ বার্তা প্রেরণ করা হয়েছে।কনসোল অবজেক্ট">
 <!ENTITY btnPageLogging.accesskey3 "L">
-
-
+<!ENTITY btnConsoleErrors       "ত্রুটি">
+<!ENTITY btnConsoleInfo         "তথ্য">
 
 
 <!ENTITY btnConsoleXhr          "XHR">
