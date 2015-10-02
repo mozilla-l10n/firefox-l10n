@@ -11,4 +11,4 @@
 <!ENTITY aboutAccountsConfig.syncPreferences.label "ஒத்திசைவு முன்னுரிமைகள்">
 <!ENTITY aboutAccounts.noConnection.title "இணைப்பு இல்லை">
 <!ENTITY aboutAccounts.noConnection.description "உள்நுழைய நீங்கள் கட்டாயம் இணையத்துடன் இணைந்திருக்க வேண்டும்.">
-
+<!ENTITY aboutAccounts.noConnection.retry "மீண்டும் முயற்சிக்கவும்">
