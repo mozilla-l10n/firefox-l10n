@@ -10,7 +10,7 @@
 <!ENTITY device.debugMainProcess "Ana işlemde hata ayıkla">
 <!ENTITY device.debugMainProcessTooltip "Cihazdaki ana işleme bağlı Geliştirici Araçları'nı aç">
 <!ENTITY device.screenshot "Ekran görüntüsü">
-<!ENTITY device.screenshotTooltip "Cihazıın şu anki durumunun ekran görüntüsünü yeni bir sekmede aç">
+<!ENTITY device.screenshotTooltip "Cihazın şu anki durumunun ekran görüntüsünü yeni bir sekmede aç">
 <!ENTITY device.title "Aygıt Denetim Merkezi">
 <!ENTITY device.notConnected "Bağlı değil. Lütfen aygıtınızı bağlayın.">
 <!ENTITY device.startApp "Başlat">
