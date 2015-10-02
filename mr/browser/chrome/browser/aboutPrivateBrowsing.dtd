@@ -13,14 +13,18 @@
      of the Tracking Protection section, and in general not much larger than
      30em to prevent the sections from wrapping on smaller window sizes.
      -->
+
+<!ENTITY aboutPrivateBrowsing.width1           "30em">
 <!ENTITY aboutPrivateBrowsing.title            "आपण खाजगी ब्राउझिंग करत आहात">
 
+<!ENTITY aboutPrivateBrowsing.info.notsaved    "साठवले नाही">
 <!ENTITY aboutPrivateBrowsing.info.history     "इतिहास">
-
+<!ENTITY aboutPrivateBrowsing.info.searches    "शोध">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "कूकिज">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "तात्पुरत्या फाइल्स">
 
-
+<!ENTITY aboutPrivateBrowsing.info.saved       "साठवले आहे">
+<!ENTITY aboutPrivateBrowsing.info.downloads   "डाउनलोड्स">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "ओळखचिन्हे">
 
 <!ENTITY aboutPrivateBrowsing.note1            "आपला इंटरनेट सेवा प्रदाता आपण भेट दिलेल्या पानांची नोंद ठेवू शकतो, याची कृपया नोंद घ्यावी.">
@@ -33,6 +37,8 @@
      Note that the required space may vary between platforms because fonts are
      different, so testing on Windows, Mac, and Linux is encouraged.
      -->
+
+<!ENTITY trackingProtection.width1             "22em">
 <!ENTITY trackingProtection.title              "मागोवा सुरक्षा">
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
