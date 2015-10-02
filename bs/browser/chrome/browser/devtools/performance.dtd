@@ -55,7 +55,7 @@
 <!ENTITY performanceUI.toolbar.waterfall "Waterfall">
 <!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Prikazuje različite operacije koje browser izvodi za vrijeme snimanja, postavljenje sekvencijalno kao waterfall.">
 <!ENTITY performanceUI.toolbar.js-calltree "Stablo poziva">
-
+<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Istakni JavaScript funkcije na koje je browser najviše vremena potrošio za vrijeme snimanja.">
 <!ENTITY performanceUI.toolbar.memory-calltree "Alokacije">
 <!ENTITY performanceUI.toolbar.allocations.tooltiptext "Prikazuje gdje je memorija alocirana za vrijeme snimanja.">
 <!ENTITY performanceUI.toolbar.js-flamegraph "JS Flame Chart">
