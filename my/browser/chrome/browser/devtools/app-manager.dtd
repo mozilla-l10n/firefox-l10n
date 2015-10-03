@@ -70,33 +70,34 @@
 <!ENTITY projects.addPackaged "ထုပ်ပိုးထားသည့် အက်ပ်ကို ထည့်ရန်">
 <!ENTITY projects.addPackagedTooltip "ထုပ်ပိုးထားသော အတ်ပ်တစ်ခုအား ( ဖိုဒါတစ်ခု ) သင့်ကွန်ပျူတာမှ တပ်ဆင်ပါ">
 <!ENTITY projects.addHosted "ဝန်ဆောင်ထားသော အတ်ပ်အားထည့်ပါ">
-
-
-
-
-
-
-
-
+<!ENTITY projects.addHostedTooltip "အဝေးထိန်း ဝဘ်ဆိုက်မှ အထိုင်ချပြီး အက်ပ်တစ်ခု ထည့်ရန် (manifest.webapp ဖိုင်ကို ချိတ်ဆက်သည်)">
+<!ENTITY projects.title "ကိရိယာရှိ အက်ပ်များ">
+<!ENTITY projects.appDetails "အက်ပ် အသေးစိတ်">
+<!ENTITY projects.removeAppFromList "သင်ဆောင်ရွက်နေသည့် အက်ပ်စာရင်းမှ ဒီအက်ပ်ကို ဖယ်ရှားပါ။ ဒီအက်ပ်ကို ကိရိယာ သို့မဟုတ် ဆင်မျူလေတာမှ ဖယ်ရှားမည် မဟုတ်ပါ။">
+<!ENTITY projects.updateApp "မွမ်းမံချက်">
+<!ENTITY projects.updateAppTooltip "အထောက်အထား စစ်ဆေးမှုများ ဆောင်ရွက်ပြီး ချိတ်ဆက်ထားသော ကိရိယာရှိ အက်ပ်ကို အဆင့်မြှင့်ပါ">
+<!ENTITY projects.debugApp "အမှားစစ်">
+<!ENTITY projects.debugAppTooltip "ကိရိယာရှိ ဒီအက်ပ်သို့ ချိတ်ဆက်ထားသော Developer Tools ကို ဖွင့်ပါ">
 <!ENTITY projects.saveManifest "သိမ်းဆည်းပါ">
-
-
-
-
-
-
-
+<!ENTITY projects.saveManifestTooltip "မူဝါဒတည်းဖြတ်နေရာရှိ အကြောင်းအရာများကို အောက်တွင် သိမ်းပါ">
+<!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
+<!ENTITY projects.noProjects "မည်သည့် စီမံကိန်းမျှ မရှိပါ။ အောက်ရှိ ထုပ်ပိုးထားသည့် အက်ပ်အသစ် သို့မဟုတ် အဝေးထိန်း ဝဘ်ဆိုက်မှ အထိုင်ချပြီး အက်ပ်တစ်ခုကို ထည့်ပါ (manifest.webapp ဖိုင်ကို ချိတ်ဆက်သည်)။">
+<!ENTITY projects.manifestEditor "မူဝါဒတည်းဖြတ်နေရာ">
+<!ENTITY projects.manifestEditorTooltip "အောက်ဘက် ဘောင်အတွင်းရှိ သင့်အက်ပ်၏ မူဝါဒဖိုင်ကို ပြင်ဆင်ပါ။ မွမ်းမံရန် ခလုတ်သည် သင်ပြောင်းလဲထားသည်များကို သိမ်းဆည်းပြီး အက်ပ်ကို မွမ်းမံပါမည်။">
+<!ENTITY projects.manifestViewer "မူဝါဒကြည့်ရှုနေရာ">
+<!ENTITY projects.manifestViewerTooltip "အောက်ဘက် ဘောင်အတွင်းရှိ သင့် အက်ပ်မူဝါဒဖိုင်ကို စစ်ဆေးပါ">
 <!ENTITY projects.valid "ရပြီ">
 <!ENTITY projects.error "အမှား">
+<!ENTITY projects.warning "သတိ​ပေးချက်">
+<!ENTITY projects.hosted "ဝန်ဆောင်ထားသော">
+<!ENTITY projects.packaged "ထုပ်ပိုးထားသော">
 
-
-
-
+<!ENTITY help.title "အက်ပ် မန်နေဂျာ">
 <!ENTITY help.close "ပိတ်ပါ ">
-
-
-
-
-
-
-
+<!ENTITY help.intro "ဒီတန်ဆာပလာသည် တွဲဖက်အသုံးပြုနိုင်သည့် ကိရိယာများပေါ်တွင် ဝဘ်အက်ပ် တည်ဆောက်ခြင်းနှင့် တပ်ဆင်ခြင်း ပြုလုပ်ရာတွင် သင့်ကို ကူညီပါမည် (ဆိုရသော်၊ မီးမြေခွေးစနစ်)။ <strong>အက်ပ်များ</strong> စာမျက်နှာသည် သင့်အက်ပ်များကို စစ်ဆေးအတည်ပြုခြင်းနှင့် တပ်ဆင်ခြင်းလုပ်ငန်းများတွင် ကူညီပါမည်။ <strong>ကိရိယာ</strong> စာမျက်နှာသည် ချိတ်ဆက်ထားသည့် ကိရိယာနှင့် ပတ်သက်သည့် အချက်အလက်များကို သင့်အား ပေးပါမည်။ ကိရိယာကို ချိတ်ဆက်ရန် သို့မဟုတ် ဆင်မျူလေတာကို စတင်ရန် အောက်ဘက်ရှိ ကိရိယာဘားတန်းကို အသုံးပြုပါ။">
+<!ENTITY help.usefullLinks "အသုံးဝင်သည့် လင့်ခ်များ။:">
+<!ENTITY help.appMgrDoc "ပြုစုထားသည့် စာတမ်း။ အက်ပ် မန်နေဂျာကို အသုံးပြုခြင်း">
+<!ENTITY help.configuringDevice "သင့် မီးမြေခွေးစနစ်သုံး ကိရိယာကို စတင်သုံးစွဲရန် ဆောင်ရွက်နည်း">
+<!ENTITY help.troubleShooting "အခက်အခဲ ဖြေရှင်းခြင်း">
+<!ENTITY help.simulatorAddon "ဆင်မျူလေတာအတ်အွန်ကို တပ်ဆင်ရန်">
+<!ENTITY help.adbHelperAddon "Adb Helper အတ်အွန်ကို တပ်ဆင်ရန်">
