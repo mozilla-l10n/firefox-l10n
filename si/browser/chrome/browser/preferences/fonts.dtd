@@ -65,7 +65,7 @@
 <!ENTITY  allowPagesToUse.accesskey               "A">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "පැවත එන අන්තර්ගතය සඳහා අක්ෂර සංකේතනය">
-<!ENTITY languages.customize.Fallback2.label      "පසුබැසීම් පෙළ සංකේතනය (T):">
+<!ENTITY languages.customize.Fallback2.label      "පසුබැසීම් පෙළ සංකේතනය:">
 <!ENTITY languages.customize.Fallback2.accesskey  "T">
 <!ENTITY languages.customize.Fallback2.desc       "මෙම අක්ෂර සංකේතනය භාවිත වන්නේ සංකේතනය නිවේශනය කළ නොහැකි පැවත එන අන්තර්ගතයන් සඳහායි.">
 

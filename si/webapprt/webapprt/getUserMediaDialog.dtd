@@ -6,9 +6,9 @@
 
 
 <!ENTITY getUserMediaDialog.title                   "මාධ්‍ය හුවමාරුකිරීම">
-<!ENTITY getUserMediaDialog.button.accept.label     "හුවමාරුකිරීම (S)">
+<!ENTITY getUserMediaDialog.button.accept.label     "හුවමාරුකිරීම">
 <!ENTITY getUserMediaDialog.button.accept.accesskey "S">
-<!ENTITY getUserMediaDialog.button.cancel.label     "අවලංගු (n)">
+<!ENTITY getUserMediaDialog.button.cancel.label     "අවලංගු">
 <!ENTITY getUserMediaDialog.button.cancel.accesskey "n">
 
 <!ENTITY getUserMediaDialog.video.label             "කැමරාව තෝරන්න">

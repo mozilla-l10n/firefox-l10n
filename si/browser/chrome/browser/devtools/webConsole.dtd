@@ -31,7 +31,7 @@
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
 
-<!ENTITY saveBodies.label     "වාර්ථා ඉල්ලීම් හා ප්‍රතිචාර බඳ (L)">
+<!ENTITY saveBodies.label     "වාර්ථා ඉල්ලීම් හා ප්‍රතිචාර බඳ">
 <!ENTITY saveBodies.accesskey "L">
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
@@ -43,7 +43,7 @@
   -  This string and the following strings toggle various kinds of output
   -  filters. -->
 
-<!ENTITY btnPageNet.label   "ජාලය (N)">
+<!ENTITY btnPageNet.label   "ජාලය">
 <!ENTITY btnPageNet.tooltip "ජාල ප්‍රවේශ ලොග් සටහන්">
 <!ENTITY btnPageNet.accesskey "N">
 <!-- LOCALIZATION NOTE (btnPageNet.accesskeyMacOSX): This string is used as
@@ -58,7 +58,7 @@
 <!ENTITY btnPageJS.label    "JS">
 <!ENTITY btnPageJS.tooltip  "Log JavaScript exceptions">
 <!ENTITY btnPageJS.accesskey  "J">
-<!ENTITY btnPageSecurity.label "ආරක්‍ෂාව (u)">
+<!ENTITY btnPageSecurity.label "ආරක්‍ෂාව">
 <!ENTITY btnPageSecurity.tooltip "ආරක්ෂක දෝශ හා අවවාද වාර්ථා කරන්න">
 <!ENTITY btnPageSecurity.accesskey "u">
 <!-- LOCALIZATION NOTE (btnPageLogging): This is used as the text of the
@@ -83,7 +83,7 @@
   -  should not be translated. -->
 
 <!ENTITY filterOutput.placeholder "ප්‍රතිදානය පෙරන්න">
-<!ENTITY btnClear.label        "හිස් කරන්න (r)">
+<!ENTITY btnClear.label        "හිස් කරන්න">
 <!ENTITY btnClear.tooltip      "ජාල කොන්සෝල ප්‍රතිදානය පිරිසිදු කරන්න">
 <!ENTITY btnClear.accesskey    "r">
 

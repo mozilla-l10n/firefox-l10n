@@ -15,11 +15,11 @@
 <!ENTITY importFromEdge.accesskey       "E">
 <!ENTITY importFromNothing.label        "කිසිවක් ආයාත නොකරන්න">
 <!ENTITY importFromNothing.accesskey    "D">
-<!ENTITY importFromSafari.label         "සෆාරි (Safari)">
+<!ENTITY importFromSafari.label         "සෆාරි">
 <!ENTITY importFromSafari.accesskey     "S">
 <!ENTITY importFromCanary.label         "Chrome Canary">
 <!ENTITY importFromCanary.accesskey     "n">
-<!ENTITY importFromChrome.label         "ක්‍රෝම් (Chrome)">
+<!ENTITY importFromChrome.label         "ක්‍රෝම්">
 <!ENTITY importFromChrome.accesskey     "C">
 <!ENTITY importFromChromium.label       "Chromium">
 <!ENTITY importFromChromium.accesskey   "u">
