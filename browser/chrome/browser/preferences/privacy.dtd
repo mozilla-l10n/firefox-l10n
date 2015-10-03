@@ -13,8 +13,8 @@
 <!ENTITY trackingProtectionPBM5.label         "ব্যক্তিগত উইন্ডোতে ট্রাকিং সুরক্ষা ব্যবহার করুন v">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "আরও জানুন">
-
-
+<!ENTITY changeBlockList.label          "ব্লক তালিকা পরিবর্তন করুন C">
+<!ENTITY changeBlockList.accesskey      "C">
 
 <!ENTITY  history.label                 "ইতিহাস">
 
