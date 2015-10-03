@@ -161,7 +161,7 @@ functionality specific to firefox. -->
 <!ENTITY errorReporting.learnMore "مزید سیکھیں…">
 
 
-
+<!ENTITY errorReporting.report "رپورٹ">
 
 
 <!ENTITY remoteXUL.title "بعید XUL">

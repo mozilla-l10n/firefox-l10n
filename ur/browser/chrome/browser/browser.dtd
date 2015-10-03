@@ -313,7 +313,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "ن">
 <!ENTITY newPrivateWindow.label     "نیا نجی دریچہ">
 <!ENTITY newPrivateWindow.accesskey "د">
-
+<!ENTITY newNonRemoteWindow.label   "نیا غیر-e10s دریچہ">
 
 <!ENTITY editMenu.label         "تدوین"> 
 <!ENTITY editMenu.accesskey       "ت"> 
@@ -707,32 +707,37 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionNotSecure "کنکشن قابل بھروسا نہیں">
 <!ENTITY identity.connectionFile "یہ صفحہ آپکے کمپیوٹر پر سٹورڈ ہے۔">
 <!ENTITY identity.connectionVerified1 "آپ محفوظ طریقے سے اس سائٹ سے جڑے ہوے ہے، کی طرف سے چلائے:">
-
-
+<!ENTITY identity.connectionInternal "یہ ایک قابل بھروسا &brandShortName; صفحہ ہے۔">
+<!ENTITY identity.insecureLoginForms "آپ کا لاگ ان اشتباہ ہو سکتا ہے۔">
 <!-- Strings for connection state warnings. -->
 
-
-
+<!ENTITY identity.activeBlocked "&brandShortName; نے اس صفحے کے وہ حصے بلاک کر دیے ہیں جو قابل بھروسا نہیں ہیں۔">
+<!ENTITY identity.passiveLoaded "اس صفحے کے حصے قابل بھروسا نہیں ہیں (جیسے کہ نقوش)۔">
+<!ENTITY identity.activeLoaded "آپ نے اس صفحے پر حفاظت نا اہل بنا دی ہے۔">
+<!ENTITY identity.weakEncryption "یہ صفحہ کمزور خفیہ کاری استعمال کرتا ہے۔">
 <!-- Strings for connection state warnings in the subview. -->
 
+<!ENTITY identity.description.insecure "اس سائٹ سے آپ کی کنکشن رازدار نہیں ہے۔ جو معلومات آپ بھیجتے ہیں (جیسے کے پاس ورڈ، پیغامات، کریڈٹ کارڈ وغیرہ) اسے اور لوگ دیکھ سکیں گے۔">
+<!ENTITY identity.description.insecureLoginForms "جو لاگ ان معلومات آپ اس صفحے پر داخل کرتے ہیں وہ محفوظ نہیں ہے اور اشتباہ ہو سکتی ہے۔">
+<!ENTITY identity.description.weakCipher "اس ویب سائٹ پر آپ کے کنکشن کمزور خفیہ کندھ استعمال کرتا ہے اور نجی نہیں ہے۔">
+<!ENTITY identity.description.weakCipher2 "دیگر لوگ آپ کی معلومات دیکھ سکتے ہیں یا ویب سائٹ کا رویہ بدل سکتے ہیں۔">
+<!ENTITY identity.description.activeBlocked "&brandShortName;  نے اس صفحے کے وہ حصے بلاک کر دیے ہیں جو قابل بھروسا نہیں ہیں۔">
+<!ENTITY identity.description.passiveLoaded "آپ کی کنکشن رازدار نہیں ہے اور وہ معلومات جو آپ سائٹ سے شیئر کریں گے دیگر لوگ دیکھ سکیں گے۔">
+<!ENTITY identity.description.passiveLoaded2 "اس ویب سائٹ میں مواد شامل ہے جو کہ قابل بھروسا نہیں ہے (جیسے کے نقوش)۔">
+<!ENTITY identity.description.passiveLoaded3 "&brandShortName; نے کچھ مواد بلاک کیا ہے، لیکن پھر بھی صفحے پر بواد ہے جو کہ قابل بھروسا نہیں (جیسے کے نقوش)۔">
+<!ENTITY identity.description.activeLoaded "اس ویب سائٹ میں مواد شامل ہے جو کے قابل بھروسا نہیں ہے (جیسے کے نوشتے) اور اس کے ساتھ آپ کی کنکشن قابل بھروسا نہیں ہے۔">
+<!ENTITY identity.description.activeLoaded2 "وہ معلومات جو آپ اس سائٹ کے ساتھ شیئر کرتے ہیں وہ دیگر لوگ دیکھ سکیں گے (جیسے کے پاس ورڈ، پیغامات، کریڈٹ کارڈ وغیرہ)۔">
 
-
-
-
-
-
-
-
-
-
+<!ENTITY identity.enableMixedContentBlocking.label "حفاظت اہل بنائیں">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "ا">
 <!ENTITY identity.disableMixedContentBlocking.label "ابھی کے لیے حفاظت کو نا اہل بنائیں">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
-
+<!ENTITY identity.learnMore "مزید سیکھیں">
 
 <!ENTITY identity.moreInfoLinkText2 "مزید معلومات">
 
 <!ENTITY identity.permissions "اجازتیں">
-
+<!ENTITY identity.permissionsEmpty "آپ نے اس سائٹ کو کوئی خاص اجازتیں نہیں دیں ہے۔">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -743,7 +748,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "ہمہ وار کریں">
 
-
+<!ENTITY syncSignIn.label             "&syncBrand.shortName.label; میں سائن ان کریں…">
+<!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "ابھی ہمہ وار کریں">
 <!ENTITY syncSyncNowItem.accesskey    "ہ">
 <!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label; سے پھر جڑیں…">
@@ -771,7 +777,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.closeNotificationItem.label "ابھی نہیں">
 
 <!ENTITY social.directory.label "ایکٹیویشنز ڈائریکٹری">
-
+<!ENTITY social.directory.text "آپ اس ڈائریکٹری سے Share خدمات چلا سکتے ہیں۔">
 <!ENTITY social.directory.button "مجھے وہاں لے جائیں!">
 <!ENTITY social.directory.introText "کسی سروس کو &brandShortName; میں ڈالنے کے لیے اس پر کلک کریں۔">
 <!ENTITY social.directory.viewmore.text "مزید دیکھیں">
@@ -804,29 +810,32 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "ک">
 <!ENTITY getUserMedia.selectMicrophone.label "شیئر کرنے کےلیے مائیکروفون:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "م">
-
+<!ENTITY getUserMedia.audioCapture.label "ٹیب پر سے آڈیو شیئر ہو گی۔">
 <!ENTITY getUserMedia.allWindowsShared.message "آپ کی سکرین پر نظر آنے والے تمام دریچے شیئر کیے جائیں گے۔">
 
-
-
-
+<!ENTITY trackingProtection.title "سراغ کاری حفاظت">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; نے اس صفحے کے حصے بلاک کیے ہوئے ہیں جو آپ کی براؤزنگ کا سراغ لگا سکتے ہیں۔">
+<!ENTITY trackingProtection.detectedNotBlocked3 "اس سائٹ میں عناصر شامل ہیں جو آپ کی براؤزنگ کا سراغ لگا سکتے ہیں۔ آپ نے حفاظت نا اہل بنا دی ہے۔">
+<!ENTITY trackingProtection.notDetected3 "اس صفحے پر کوئی سراغ داری عناصر نہیں ملے۔">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-
+<!ENTITY trackingProtection.unblock.label "اس سائٹ پر حفاظت نا اہل بنائیں">
+<!ENTITY trackingProtection.unblock.accesskey "ن">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-
-
-
+<!ENTITY trackingProtection.unblockPrivate.label "اس سائٹ پر حفاظت نا اہل بنائیں">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "ن">
+<!ENTITY trackingProtection.block2.label "حفاظت اہل بنائیں">
+<!ENTITY trackingProtection.block2.accesskey "ا">
 
 <!ENTITY trackingContentBlocked.message "ٹریکنگ">
-
-
-
-
-
+<!ENTITY trackingContentBlocked.moreinfo "صفحہ کے وہ حصے جو آپ کی آن لائن سرگرمیوں کا سراغ لگاتے ہیں انہیں بلاک کردیا گیا ہے۔">
+<!ENTITY trackingContentBlocked.learnMore "اور سیکھیں">
+<!ENTITY trackingContentBlocked.options "اختیارات">
+<!ENTITY trackingContentBlocked.unblock2.label "اس سائٹ پر حفاظت نا اہل بنائیں">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "ن">
 <!ENTITY trackingContentBlocked.block.label "حفاظت اہل بنائیں">
 <!ENTITY trackingContentBlocked.block.accesskey "ح">
 <!ENTITY trackingContentBlocked.disabled.message "سراغ کاری حفاظت نا اہل ہے">

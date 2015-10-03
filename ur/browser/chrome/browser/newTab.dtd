@@ -5,12 +5,12 @@
 
 <!ENTITY newtab.pageTitle "نیا ٹیب ">
 
+<!ENTITY newtab.customize.cog.enhanced "تجویز کردہ سائٹ شامل کریں">
 
 
 
 
-
-
+<!ENTITY newtab.customize.topsites "اپنی مقبول سائٹز دکھائیں">
 
 <!ENTITY newtab.undo.removedLabel "مجمل ہٹا دیا گیا۔ ">
 <!ENTITY newtab.undo.undoButton "کالعدم کریں۔ ">
