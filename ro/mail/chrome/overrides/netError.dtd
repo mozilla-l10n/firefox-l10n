@@ -18,13 +18,13 @@
 
 <!ENTITY dnsNotFound.title "Serverul nu a fost găsit">
 <!ENTITY dnsNotFound.longDesc "<ul> 
-<li>Verificați adresa pentru erori de tastare cum ar fi 
+<li>Verificați adresa de erori de tastare cum ar fi 
 <strong>ww</strong>.exemplu.ro în loc de 
 <strong>www</strong>.exemplu.ro</li> 
-<li>Dacă nu puteți încărca nicio pagină, verificați conexiunea la rețea 
-a calculatorului dumneavoastră.</li> 
-<li>Dacă sistemul sau rețeaua este protejat de un firewall sau proxy, asigurați-vă 
-că &brandShortName; are permisiunea de a accesa webul.</li> 
+<li>Dacă nu puteți încărca nicio pagină, verificați conexiunea la rețea a 
+calculatorului.</li> 
+<li>Dacă sistemul sau rețeaua este protejat(ă) de un firewall sau proxy, 
+asigurați-vă că &brandShortName; are permisiunea de a accesa webul.</li> 
 </ul>">
 
 <!ENTITY fileNotFound.title "Fișier negăsit">
@@ -37,11 +37,11 @@ că &brandShortName; are permisiunea de a accesa webul.</li>
 <!ENTITY generic.longDesc "<p>&brandShortName; nu poate încărca pagina dintr-un motiv oarecare.</p>">
 
 <!ENTITY malformedURI.title "Adresa nu este validă">
-<!ENTITY malformedURI.longDesc "<ul> 
-<li>Adresele web se scriu de obicei așa: 
-<strong>http://www.exemplu.ro/</strong></li> 
-<li>Asigurați-vă că folosiți slash-uri corecte (adică 
-<strong>/</strong>).</li> 
+<!ENTITY malformedURI.longDesc "<ul> 
+<li>Adresele web se scriu de obicei așa: 
+<strong>http://www.exemplu.ro/</strong></li> 
+<li>Asigurați-vă că folosiți slash-uri orientate spre dreapta 
+(de ex., <strong>/</strong>).</li> 
 </ul>">
 
 <!ENTITY netInterrupt.title "Conexiunea a fost întreruptă">
@@ -87,7 +87,7 @@ funcționează.</li> 
 <!ENTITY proxyResolveFailure.longDesc "<ul> 
 <li>Verificați setările proxy pentru a vă asigura că sunt corecte.</li> 
 <li>Asigurați-vă că sistemul dumneavoastră are o conexiune funcțională la rețea.</li> 
-<li>Dacă sistemul sau rețeaua este protejat de un firewall sau proxy, asigurați-vă 
+<li>Dacă sistemul sau rețeaua este protejat(ă) de un firewall sau proxy, asigurați-vă 
 că &brandShortName; are permisiunea de a accesa webul.</li> 
 </ul>">
 
@@ -119,12 +119,12 @@ temporară și puteți încerca din nou mai târziu.</li>
 </ul>">
 
 <!ENTITY sharedLongDesc "<ul> 
-<li>Site-ul poate fi indisponibil temporar sau prea ocupat. Încercați din nou în câteva 
-momente.</li> 
-<li>Dacă nu puteți încărca nicio pagină, verificați conexiunea la rețea a calculatorului 
-dumneavoastră.</li> 
-<li>Dacă sistemul sau rețeaua este protejat de un firewall sau proxy, asigurați-vă 
-că &brandShortName; are permisiunea de a accesa webul.</li> 
+<li>Site-ul ar putea fi indisponibil temporar sau prea ocupat. Încercați din nou în 
+câteva momente.</li> 
+<li>Dacă nu puteți încărca nicio pagină, verificați conexiunea la rețea a 
+calculatorului.</li> 
+<li>Dacă sistemul sau rețeaua este protejat(ă) de un firewall sau proxy, 
+asigurați-vă că &brandShortName; are permisiunea de a accesa webul.</li> 
 </ul>">
 
 <!ENTITY malwareBlocked.title "Site suspectat de atacuri!">
