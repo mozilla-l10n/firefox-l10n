@@ -9,9 +9,11 @@
 <!ENTITY provideSearchSuggestions.label        "සෙවුම් යෝජනා ලබාදෙන්න (s)">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
 
+<!ENTITY showURLBarSuggestions.label           "ස්ථාන තීරය ප්‍රථිපල තුළ සෙවුම් යෝජනා පෙන්වන්න (l)">
+<!ENTITY showURLBarSuggestions.accesskey       "l">
 
-
-
+<!ENTITY redirectWindowsSearch.label "ඔබට මෙම සෙවුම් යන්ත්‍රය Windows වෙතින් සෙවීමට භාවිත කරන්න">
+<!ENTITY redirectWindowsSearch.accesskey "W">
 
 <!ENTITY oneClickSearchEngines.label           "ඒක-ක්ලික් සෙවුම් එළවුම්">
 

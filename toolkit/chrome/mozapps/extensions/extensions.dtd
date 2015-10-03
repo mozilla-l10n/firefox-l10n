@@ -23,7 +23,8 @@
 <!ENTITY cmd.back.tooltip                     "පිටුවක් පසුපසට යන්න">
 <!ENTITY cmd.forward.tooltip                  "පිටුවක් ඉදිරියට යන්න">
 
-
+<!ENTITY showUnsignedExtensions.button.label  "සමහර දිගුවන් සත්‍යාපනය කල නොහැකියි">
+<!ENTITY showAllExtensions.button.label       "සියළු දිගු පෙන්වන්න">
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "ආරක්ෂිත මාදිලිය (safe mode) විසින් සියළු ඇඩෝන කර ඇත.">
@@ -104,8 +105,8 @@
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "ඉවත් කරන්න">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
-
-
+<!ENTITY cmd.debugAddon.label                 "දෝශහරණය (b)">
+<!ENTITY cmd.debugAddon.accesskey             "b">
 <!ENTITY cmd.showPreferencesWin.label         "විකල්ප">
 <!ENTITY cmd.showPreferencesWin.tooltip       "මෙම ඇඩෝනයේ විකල්ප වෙනස් කරන්න">
 <!ENTITY cmd.showPreferencesUnix.label        "මනාපයන්">
@@ -235,12 +236,14 @@ your own.">
 
 <!ENTITY setting.learnmore "වැඩිදුර ඉගෙනගන්න...">
 
+<!ENTITY disabledUnsigned.heading "සමහර ඇඩෝනයක් අක්‍රීය කර ඇත">
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-
-
-
+<!ENTITY disabledUnsigned.description.start "පහත ඇඩෝනයන් &brandShortName; සමඟ භාවිතා කිරීමට සත්‍යාපනය කර නොමැතිය. ඔබට ">
+<!ENTITY disabledUnsigned.description.findAddonsLink "විකල්ප සොයන්න">
+<!ENTITY disabledUnsigned.description.end " හෝ සංවර්ධකයෙක් ගෙන් ඒවා සත්‍යාපනය කිරීමට විමසන්න.">
+<!ENTITY disabledUnsigned.learnMore "ඔබට ජාලයේ සුරැකීමට අපගේ උත්සාහය ගැන කියවන්න.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->

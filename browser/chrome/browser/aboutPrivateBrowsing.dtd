@@ -13,6 +13,8 @@
      of the Tracking Protection section, and in general not much larger than
      30em to prevent the sections from wrapping on smaller window sizes.
      -->
+
+<!ENTITY aboutPrivateBrowsing.width            "30em">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
      aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
      These strings will be replaced by aboutPrivateBrowsing.forgotten and
@@ -20,18 +22,21 @@
      -->
 
 <!ENTITY aboutPrivateBrowsing.title            "ඔබ පුද්ගලිකව බ්‍රවුස් කරයි">
+<!ENTITY aboutPrivateBrowsing.subtitle         "මෙම තිරයේදී, &brandShortName;; ඉතිහාසයක් සිහි තබා නොගනී.">
 
-
-
+<!ENTITY aboutPrivateBrowsing.forgotten        "මෙම තිරයේදී, &brandShortName; කිසිවක් සිහි තබා නොගනී.">
+<!ENTITY aboutPrivateBrowsing.info.forgotten   "සුරැකීම සිදු නොවුනි">
 <!ENTITY aboutPrivateBrowsing.info.history     "ඉතිහාසය">
-
+<!ENTITY aboutPrivateBrowsing.info.searches    "සෙවුම්">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "කුකී">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "තාවකාලික ගොනු">
 
-
-
+<!ENTITY aboutPrivateBrowsing.kept             "&brandShortName; තබා ගනී:">
+<!ENTITY aboutPrivateBrowsing.info.kept        "සුරැකියා">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "බාගත කිරීම්">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Bookmarks">
 
+<!ENTITY aboutPrivateBrowsing.note1            "ඔබ සේවා යෝජකයා හෝ අන්තර්ජාල සේවා සපයන්නා හට ඔබගේ පිටු සැරියන් තවමත් ලුහුබැඳිය හැකි බව සලකන්න.">
 <!ENTITY aboutPrivateBrowsing.learnMore        "තවත් දැනගන්න">
 <!-- LOCALIZATION NOTE (trackingProtection.width):
      Width of the Tracking Protection section. It is fine for the enabled or
@@ -42,12 +47,18 @@
      different, so testing on Windows, Mac, and Linux is encouraged.
      -->
 
+<!ENTITY trackingProtection.width              "26em">
+<!ENTITY trackingProtection.title              "හඹායෑම් ආරක්ෂාව">
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
 
+<!ENTITY trackingProtection.state.width        "6ch">
+<!ENTITY trackingProtection.state.enabled      "සක්‍රීයයි">
+<!ENTITY trackingProtection.state.disabled     "අක්‍රිය">
 
+<!ENTITY trackingProtection.description1       "පෞද්ගලික තිරය මඟින් ඔබට ලුහුබැඳිය හැකි පිටු හා අනෙකුත් කොටස් අවහිර කර ඇත.">
 
-
-
-
+<!ENTITY trackingProtection.disable            "හඹායෑම් ආරක්ෂාව අක්‍රීය කරන්න">
+<!ENTITY trackingProtection.enable             "හඹායෑම් ආරක්ෂාව සක්‍රීය කරන්න">
+<!ENTITY trackingProtection.startTour1         "එය ක්‍රියාකරන අයුරු නරඹන්න">

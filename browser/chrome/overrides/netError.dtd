@@ -132,7 +132,8 @@
 <!ENTITY malwareBlocked.longDesc "<p>ප්‍රහාරක අඩවි පෞද්ගලික දත්ත සොරකම් කළ හැකි,  වෙනත් අයට හානි කිරීමට ඔබගේ පද්ධතිය භාවිතා කළ හැකි, ඔබගේ පද්ධතියට හානි කළ හැකි වැඩසටහන් ස්ථාපනය කළ හැක.</p> 
 <p>දෝෂයක් නිසා තමාගේ අඩවිය අක්‍රමණීය අඩවියක් ලෙස වාර්තා කරැති බව විශ්වාස කරන වෙබ් අඩවි හිමිකරුවන් <a href='http://www.stopbadware.org/home/reviewinfo' > යළි සලකා බැලීමට ඉල්ලීමක් කරන්න</a>.</p>">
 
-
+<!ENTITY unwantedBlocked.title "අනවශ්‍ය මෘදුකාංග අඩවියක සැකයක්!">
+<!ENTITY unwantedBlocked.longDesc "<p>අනවශ්‍ය මෘදුකාංග අඩවියක් ඔබගේ පරිගණකයට හානිවිය හැකි අන්දමේ මෘදුකංගයන් ස්ථාපනය කිරීමට උත්සහ දරයි.</p>">
 
 <!ENTITY phishingBlocked.title "සැක කළ ව්‍යාජ වෙව් අඩවියක්!">
 <!ENTITY phishingBlocked.longDesc "<p>මෙම පිටුවේදී ඕනෑම තොරතුරක් ඇතුළත් කිරීම අනන්‍යතා සොරා ගැනීමකට හෝ වෙනත් වංචාවකට හේතු විය හැක.</p> 
@@ -174,4 +175,5 @@ functionality specific to firefox. -->
 <!ENTITY sslv3Used.title "ආරක්ෂිතව සබඳවිය නොහැකි විය">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "ssl_error_unsupported_version". -->
+<!ENTITY sslv3Used.longDesc "විශේෂිත විස්තර‍: ssl_error_unsupported_version">
 <!ENTITY sslv3Used.learnMore "තවත් දැනගන්න...">

@@ -16,7 +16,7 @@
 <!ENTITY helpMenuWin.accesskey    "H">
 <!ENTITY aboutProduct2.label      "&brandShorterName; පිළිබඳ (A)">
 <!ENTITY aboutProduct2.accesskey  "A">
-<!ENTITY productHelp2.label       "&brandShortName; උදව් (H)">
+<!ENTITY productHelp2.label       "&brandShorterName; උදව් (H)">
 <!ENTITY productHelp2.accesskey   "H">
 <!ENTITY helpMac.commandkey       "?">
 
@@ -28,7 +28,7 @@
 <!ENTITY helpSafeMode.stop.label       "ඇඩෝන සක්‍රීය කර යළි-අරඹන්න (R)">
 <!ENTITY helpSafeMode.stop.accesskey   "R">
 
-<!ENTITY healthReport2.label      "&brandShortName; බිද වැටුම් වාර්ථා (e)">
+<!ENTITY healthReport2.label      "&brandShorterName; බිද වැටුම් වාර්ථා (e)">
 <!ENTITY healthReport2.accesskey  "e">
 
 <!ENTITY helpTroubleshootingInfo.label      "දෝෂ සෙවීමේ තොරතුරු">
@@ -37,7 +37,7 @@
 <!ENTITY helpFeedbackPage.label      "ප්‍රතිචාරය යවන්න…">
 <!ENTITY helpFeedbackPage.accesskey  "S">
 
-<!ENTITY helpShowTour2.label            "&brandShortName; සංචාරය (o)">
+<!ENTITY helpShowTour2.label            "&brandShorterName; සංචාරය (o)">
 <!ENTITY helpShowTour2.accesskey        "o">
 
 <!ENTITY preferencesCmdMac.label        "අභිරුචීන්...">
@@ -45,7 +45,7 @@
 
 <!ENTITY servicesMenuMac.label          "සේවා">
 
-<!ENTITY hideThisAppCmdMac2.label       "&brandShortName; සඟවන්න">
+<!ENTITY hideThisAppCmdMac2.label       "&brandShorterName; සඟවන්න">
 <!ENTITY hideThisAppCmdMac2.commandkey  "එච්">
 
 <!ENTITY hideOtherAppsCmdMac.label      "අනෙක්වා සඟවන්න">
