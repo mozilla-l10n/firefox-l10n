@@ -22,7 +22,7 @@
 <!ENTITY  generalReferrer       "යොමු URL:">
 <!ENTITY  generalSource         "කෑශ් මූලය:">
 <!ENTITY  generalModified       "වෙනස්කළ:">
-
+<!ENTITY  generalEncoding2      "පෙළ කේතනය:">
 <!ENTITY  generalMetaName       "නම">
 <!ENTITY  generalMetaContent    "අන්තර්ගතය">
 

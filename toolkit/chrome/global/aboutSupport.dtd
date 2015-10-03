@@ -38,6 +38,8 @@ This is likely the same like id.heading in crashes.dtd. -->
 
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
+
+<!ENTITY aboutSupport.appBasicsUpdateChannel "චැනලය යාවත්කාල කරන්න">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "යාවත්කාලීන ඉතිහාසය">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "යාවත්කාලීන ඉතිහාසය පෙන්වන්න">
 
@@ -55,6 +57,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "බහුසැකසුම් කවුළු">
 
+<!ENTITY aboutSupport.appBasicsSafeMode "ආරක්ෂිත ප්‍රකාරය">
 
 <!ENTITY aboutSupport.showDir.label "ඩිරෙක්ටරිය විවෘත කරන්න">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
@@ -96,4 +99,5 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.sandboxTitle "සෑන්ඩ්බොක්ස්">
 
-
+<!ENTITY aboutSupport.safeModeTitle "ආරක්ෂිත ප්‍රකාරය උත්සහ කරන්න">
+<!ENTITY aboutSupport.restartInSafeMode.label "ඇඩෝන අක්‍රීය කර යළි අරඹන්න...">

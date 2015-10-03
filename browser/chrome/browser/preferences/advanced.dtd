@@ -34,8 +34,8 @@
 <!ENTITY healthReportLearnMore.label     "තවත් දැනගන්න">
 
 <!ENTITY telemetryDesc.label             "අපට &brandShortName; දියුණු කිරීමට සහය වීමට ඔබේ ගවේශකයේ ක්‍රියාකාරිත්වය, භාවිතය, දෘඩාංග හා රුචිකරණය පිළිබඳ දත්ත &vendorShortName; සමඟ බෙදාගනි">
-
-
+<!ENTITY enableTelemetryData.label       "අමතර දත්ත බෙදාගන්න (උදා., ජ්‍යාමතිය (T))">
+<!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "තවත් දැනගන්න">
 
 <!ENTITY crashReporterDesc.label         "&vendorShortName; හට ඔබේ ගවේශකය වඩා ස්ථාවර හා ආරක්ෂාකාරී කිරීමට සහය වීමට &brandShortName; බිඳවැටීම් වාර්ථා පළ කරයි">
@@ -106,7 +106,7 @@
 <!ENTITY offlineAppRemove.confirm        "නොබැඳි දත්ත ඉවත් කරන්න">
 
 <!ENTITY certificateTab.label            "සහතික">
-
+<!ENTITY certSelection.label             "ඉල්ලීම්">
 <!ENTITY certSelection.description       "සේවාදායකයක් මාගේ පෞද්ගලික සහතික ඉල්ලා සිටින විට:">
 <!ENTITY certs.auto                      "එකක් ස්වයංක්‍රීයව තෝරන්න">
 <!ENTITY certs.auto.accesskey            "S">
