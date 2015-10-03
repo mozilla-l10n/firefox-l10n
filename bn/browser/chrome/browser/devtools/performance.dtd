@@ -55,9 +55,9 @@
 <!ENTITY performanceUI.toolbar.waterfall "ওয়াটার-ফল">
 
 <!ENTITY performanceUI.toolbar.js-calltree "কল ট্রী">
-
+<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "রেকর্ডিং এর সময় ব্রাউজার কোথায় বেশির ভাগ সময় ব্যয় করছে সেই JavaScript ফাংশন হাইলাইট করে।">
 <!ENTITY performanceUI.toolbar.memory-calltree "বরাদ্দ">
-
+<!ENTITY performanceUI.toolbar.allocations.tooltiptext "রেকর্ডিং এর সময় কোথায় মেমোরি বরাদ্ধ হয়েছে তা দেখায়।">
 <!ENTITY performanceUI.toolbar.js-flamegraph "JS Flame তালিকা">
 
 <!ENTITY performanceUI.toolbar.memory-flamegraph "বরাদ্দকৃত ফ্লেম-এর তালিকা">

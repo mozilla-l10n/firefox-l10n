@@ -26,7 +26,7 @@
 <!ENTITY projectMenu_showPrefs_accesskey "e">
 <!ENTITY projectMenu_manageComponents_label "বাড়তি কম্পোনেন্ট ব্যবস্থাপনা">
 <!ENTITY projectMenu_manageComponents_accesskey "M">
-
+<!ENTITY projectMenu_refreshTabs_label "ট্যাব রিফ্রেশ">
 
 <!ENTITY runtimeMenu_label "রানটাইম">
 <!ENTITY runtimeMenu_accesskey "R">

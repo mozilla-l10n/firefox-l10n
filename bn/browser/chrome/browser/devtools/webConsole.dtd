@@ -62,7 +62,7 @@
   -  the page for debugging purposes, using calls on the HTTP server. -->
 
 <!ENTITY btnServerLogging.label       "সার্ভার S">
-
+<!ENTITY btnServerLogging.tooltip     "একটি ওয়েব সার্ভার থেকে লগ বার্তা গৃহীত">
 <!ENTITY btnServerLogging.accesskey   "S">
 <!ENTITY btnServerErrors              "ত্রুটি">
 <!ENTITY btnServerInfo                "তথ্য">
