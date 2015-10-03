@@ -26,7 +26,8 @@
 
 <!ENTITY  logins.label                  "লগইন">
 
-
+<!ENTITY  rememberLogins.label          "সাইটের জন্য লগইন মনে রাখুন R">
+<!ENTITY  rememberLogins.accesskey      "R">
 <!ENTITY  passwordExceptions.label      "ব্যতিক্রম... (x)">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
@@ -35,4 +36,5 @@
 <!ENTITY  changeMasterPassword.label     "মাস্টার পাসওয়ার্ড পরিবর্তন... (M)">
 <!ENTITY  changeMasterPassword.accesskey "M">
 
-
+<!ENTITY  savedLogins.label              "সংরক্ষিত লগইন L…">
+<!ENTITY  savedLogins.accesskey          "L">
