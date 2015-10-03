@@ -6,10 +6,10 @@
 
 <!ENTITY chooseYourDefaultSearchEngine.label   "ඔබේ පෙරනිමි සෙවුම් එළවුම තෝරන්න. &brandShortName; විසින් එය ස්ථානීය තීරුව, සෙවුම් තීරුව හා ආරම්භක පිටුවේ යොදාගනු ඇත.">
 
-<!ENTITY provideSearchSuggestions.label        "සෙවුම් යෝජනා ලබාදෙන්න (s)">
+<!ENTITY provideSearchSuggestions.label        "සෙවුම් යෝජනා ලබාදෙන්න">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
 
-<!ENTITY showURLBarSuggestions.label           "ස්ථාන තීරය ප්‍රථිපල තුළ සෙවුම් යෝජනා පෙන්වන්න (l)">
+<!ENTITY showURLBarSuggestions.label           "ස්ථාන තීරය ප්‍රථිපල තුළ සෙවුම් යෝජනා පෙන්වන්න">
 <!ENTITY showURLBarSuggestions.accesskey       "l">
 
 <!ENTITY redirectWindowsSearch.label "ඔබට මෙම සෙවුම් යන්ත්‍රය Windows වෙතින් සෙවීමට භාවිත කරන්න">
@@ -22,7 +22,7 @@
 <!ENTITY engineNameColumn.label                "සෙචුම් එළවුම">
 <!ENTITY engineKeywordColumn.label             "මූල පදය">
 
-<!ENTITY restoreDefaultSearchEngines.label     "පෙරනිමි සෙවුම් එළවුමට යළි සකසන්න (D)">
+<!ENTITY restoreDefaultSearchEngines.label     "පෙරනිමි සෙවුම් එළවුමට යළි සකසන්න">
 <!ENTITY restoreDefaultSearchEngines.accesskey "D">
 
 <!ENTITY removeEngine.label                    "ඉවත් කරන්න">

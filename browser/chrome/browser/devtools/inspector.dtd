@@ -1,7 +1,7 @@
 <!-- LOCALIZATION NOTE (inspectorHTMLEdit.label): This is the label shown
      in the inspector contextual-menu for the item that lets users edit the
      (outer) HTML of the current node -->
-<!ENTITY inspectorHTMLEdit.label       "HTML ලෙස සකසන්න (E)">
+<!ENTITY inspectorHTMLEdit.label       "HTML ලෙස සකසන්න">
 <!ENTITY inspectorHTMLEdit.accesskey   "E">
 <!-- LOCALIZATION NOTE (inspectorHTMLCopyInner.label): This is the label shown
      in the inspector contextual-menu for the item that lets users copy the
@@ -19,19 +19,19 @@
      shown in the inspector contextual-menu for the item that lets users copy
      the CSS Selector of the current node -->
 
-<!ENTITY inspectorCopyUniqueSelector.label       "අනන්‍ය තෝරාගැනීම පිටපත් (U)">
+<!ENTITY inspectorCopyUniqueSelector.label       "අනන්‍ය තෝරාගැනීම පිටපත්">
 <!ENTITY inspectorCopyUniqueSelector.accesskey   "U">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteOuter.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste outer
      HTML in the current node -->
 
-<!ENTITY inspectorHTMLPasteOuter.label      "බාහිර HTML අලවන්න (P)">
+<!ENTITY inspectorHTMLPasteOuter.label      "බාහිර HTML අලවන්න">
 <!ENTITY inspectorHTMLPasteOuter.accesskey  "P">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteInner.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste inner
      HTML in the current node -->
 
-<!ENTITY inspectorHTMLPasteInner.label      "අභ්‍යන්තර HTML අලවන්න (n)">
+<!ENTITY inspectorHTMLPasteInner.label      "අභ්‍යන්තර HTML අලවන්න">
 <!ENTITY inspectorHTMLPasteInner.accesskey  "n">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteExtraSubmenu.label): This is the label
      shown in the inspector contextual-menu for the sub-menu of the other Paste
@@ -41,31 +41,31 @@
      - as the first child of the current node
      - as the last child of the current node -->
 
-<!ENTITY inspectorHTMLPasteExtraSubmenu.label      "අලවන්න (t)">
+<!ENTITY inspectorHTMLPasteExtraSubmenu.label      "අලවන්න...">
 <!ENTITY inspectorHTMLPasteExtraSubmenu.accesskey  "t">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteBefore.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste
      the HTML before the current node -->
 
-<!ENTITY inspectorHTMLPasteBefore.label      "පෙර (B)">
+<!ENTITY inspectorHTMLPasteBefore.label      "පෙර">
 <!ENTITY inspectorHTMLPasteBefore.accesskey  "B">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteAfter.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste
      the HTML after the current node -->
 
-<!ENTITY inspectorHTMLPasteAfter.label       "පසු (A)">
+<!ENTITY inspectorHTMLPasteAfter.label       "පසු">
 <!ENTITY inspectorHTMLPasteAfter.accesskey   "A">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteFirstChild.label): This is the label
      shown in the inspector contextual-menu for the item that lets users paste
      the HTML as the first child the current node -->
 
-<!ENTITY inspectorHTMLPasteFirstChild.label      "මුල් දාරකයා ලෙස (F)">
+<!ENTITY inspectorHTMLPasteFirstChild.label      "මුල් දාරකයා ලෙස">
 <!ENTITY inspectorHTMLPasteFirstChild.accesskey  "F">
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteLastChild.label): This is the label
      shown in the inspector contextual-menu for the item that lets users paste
      the HTML as the last child the current node -->
 
-<!ENTITY inspectorHTMLPasteLastChild.label       "අවසන් දාරකයා ලෙස (L)">
+<!ENTITY inspectorHTMLPasteLastChild.label       "අවසන් දාරකයා ලෙස">
 <!ENTITY inspectorHTMLPasteLastChild.accesskey   "L">
 <!-- LOCALIZATION NOTE (inspectorScrollNodeIntoView.label): This is the label
      shown in the inspector contextual-menu for the item that lets users scroll

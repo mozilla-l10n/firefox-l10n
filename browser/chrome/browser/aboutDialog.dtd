@@ -8,11 +8,11 @@
 # the about dialog (see bug 596813 for screenshots).
 -->
 
-<!ENTITY update.checkForUpdatesButton.label       "යාවත්කාලීන සඳහා පිරික්සන්න (C)">
+<!ENTITY update.checkForUpdatesButton.label       "යාවත්කාලීන සඳහා පිරික්සන්න">
 <!ENTITY update.checkForUpdatesButton.accesskey   "C">
 <!ENTITY update.updateButton.label2                "යාවත් කිරීම සඳහා &brandShortName; යළි අරඹන්න">
 <!ENTITY update.updateButton.accesskey            "R">
-<!ENTITY update.applyButtonBillboard.label        "යාවත්කාලීන යොදන්න… (A)">
+<!ENTITY update.applyButtonBillboard.label        "යාවත්කාලීන යොදන්න…">
 <!ENTITY update.applyButtonBillboard.accesskey    "A">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 

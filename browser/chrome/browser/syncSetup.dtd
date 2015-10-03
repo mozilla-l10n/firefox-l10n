@@ -79,7 +79,7 @@
 <!-- Sync Options -->
 
 <!ENTITY setup.optionsPage.title      "සම්මුහුර්ත (Sync) විකල්ප">
-<!ENTITY syncDeviceName.label       "උපාංග නාමය (c):">
+<!ENTITY syncDeviceName.label       "උපාංග නාමය:">
 <!ENTITY syncDeviceName.accesskey   "c">
 
 <!ENTITY syncMy.label               "Sync My">

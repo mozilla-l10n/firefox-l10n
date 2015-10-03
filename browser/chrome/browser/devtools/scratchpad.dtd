@@ -33,10 +33,10 @@
 <!ENTITY openFileCmd.accesskey        "O">
 <!ENTITY openFileCmd.commandkey       "o">
 
-<!ENTITY openRecentMenu.label         "මෑතකදි භාවිතා කළ දැ විවෘත කරන්න (R)">
+<!ENTITY openRecentMenu.label         "මෑතකදි භාවිතා කළ දැ විවෘත කරන්න">
 <!ENTITY openRecentMenu.accesskey     "R">
 
-<!ENTITY revertCmd.label              "පෙර තත්වයට පත් කරන්න... (t)">
+<!ENTITY revertCmd.label              "පෙර තත්වයට පත් කරන්න...">
 <!ENTITY revertCmd.accesskey          "t">
 
 <!ENTITY saveFileCmd.label            "සුරකින්න">
@@ -50,28 +50,28 @@
 <!ENTITY closeCmd.key                 "W">
 <!ENTITY closeCmd.accesskey           "C">
 
-<!ENTITY viewMenu.label               "දසුන (V)">
+<!ENTITY viewMenu.label               "දසුන">
 <!ENTITY viewMenu.accesskey           "V">
 
-<!ENTITY lineNumbers.label             "පේළි අංක පෙන්වන්න (L)">
+<!ENTITY lineNumbers.label             "පේළි අංක පෙන්වන්න">
 <!ENTITY lineNumbers.accesskey         "L">
 
-<!ENTITY wordWrap.label                "පෙළ ඔතන්න (W)">
+<!ENTITY wordWrap.label                "පෙළ ඔතන්න">
 <!ENTITY wordWrap.accesskey            "W">
 
-<!ENTITY highlightTrailingSpace.label     "අවසාන හිස් ඉඩ ඉස්මතු කරන්න (H)">
+<!ENTITY highlightTrailingSpace.label     "අවසාන හිස් ඉඩ ඉස්මතු කරන්න">
 <!ENTITY highlightTrailingSpace.accesskey "H">
 
-<!ENTITY largerFont.label             "විශාල අකුරු (a)">
+<!ENTITY largerFont.label             "විශාල අකුරු">
 <!ENTITY largerFont.accesskey         "a">
 <!ENTITY largerFont.commandkey        "+">
 <!-- + is above this key on many keyboards -->
 
-<!ENTITY smallerFont.label            "කුඩා අකුර (m)">
+<!ENTITY smallerFont.label            "කුඩා අකුර">
 <!ENTITY smallerFont.accesskey        "m">
 
 
-<!ENTITY normalSize.label             "සාමාන්‍ය ප්‍රමාණය (N)">
+<!ENTITY normalSize.label             "සාමාන්‍ය ප්‍රමාණය">
 <!ENTITY normalSize.accesskey         "N">
 <!ENTITY normalSize.commandkey        "0">
 
@@ -90,7 +90,7 @@
 <!ENTITY display.accesskey            "D">
 <!ENTITY display.key                  "l">
 
-<!ENTITY pprint.label                 "ලස්සන මුද්‍රණය (P)">
+<!ENTITY pprint.label                 "ලස්සන මුද්‍රණය">
 <!ENTITY pprint.key                   "p">
 <!ENTITY pprint.accesskey             "P">
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
@@ -134,7 +134,7 @@
 <!ENTITY resetContext2.label          "විචල්‍යයන් යළි-සකසන්න">
 <!ENTITY resetContext2.accesskey      "t">
 
-<!ENTITY reloadAndRun.label           "පරතිපූර්ණය කර දහාවනය කරන්න (e)">
+<!ENTITY reloadAndRun.label           "පරතිපූර්ණය කර දහාවනය කරන්න">
 <!ENTITY reloadAndRun.accesskey       "e">
 <!ENTITY reloadAndRun.key             "r">
 
@@ -150,6 +150,6 @@
   -  to evaluate the top-level function that the cursor is currently at.
   -->
 
-<!ENTITY evalFunction.label "වත්මන් ක්‍රියාවලිය අගයන්න (v)">
+<!ENTITY evalFunction.label "වත්මන් ක්‍රියාවලිය අගයන්න">
 <!ENTITY evalFunction.accesskey "v">
 <!ENTITY evalFunction.key "e">

@@ -35,7 +35,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsTitle "යෙදුම් මූලිකාංග">
 <!ENTITY aboutSupport.appBasicsName "නම">
 <!ENTITY aboutSupport.appBasicsVersion "නිකුතුව">
-
+<!ENTITY aboutSupport.appBasicsBuildID "නිකුතු ID">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
 
@@ -54,6 +54,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsUserAgent "User Agent">
 <!ENTITY aboutSupport.appBasicsMemoryUse "මෙමරි භාවිතය">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
+
+<!ENTITY aboutSupport.appBasicsServiceWorkers "ලියාපදිංචි වූ Service Workers">
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "බහුසැකසුම් කවුළු">
 

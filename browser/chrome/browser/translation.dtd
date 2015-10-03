@@ -52,9 +52,9 @@
   -  The accesskey values used here should not clash with the value used for
   -  translation.options.neverForLanguage.accesskey in translation.properties
   -->
-<!ENTITY translation.options.neverForSite.label "මෙම අඩවිය කිසිවිය පරිවර්තනය නොකරන්න (e)">
+<!ENTITY translation.options.neverForSite.label "මෙම අඩවිය කිසිවිය පරිවර්තනය නොකරන්න">
 <!ENTITY translation.options.neverForSite.accesskey "e">
-<!ENTITY translation.options.preferences.label  "පරිවර්තන අභිප්‍රේතයන් (T)">
+<!ENTITY translation.options.preferences.label  "පරිවර්තන අභිප්‍රේතයන්">
 <!ENTITY translation.options.preferences.accesskey "T">
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):

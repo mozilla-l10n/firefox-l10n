@@ -61,7 +61,7 @@
      update checking behavior for all add-ons to the default global behavior
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
-<!ENTITY updates.resetUpdatesToAutomatic.label       "ස්වයංක්‍රීයව යාවත්කාලීන කිරීමට සියළු ඇඩෝන ප්‍රත්‍යාරම්භ (Restart) කරන්න">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "ස්වයංක්‍රීයව යාවත්කාලීන කිරීමට සියළු ඇඩෝන ප්‍රත්‍යාරම්භ කරන්න">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
 <!ENTITY updates.resetUpdatesToManual.label          "Reset All Add-ons to Update Manually">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "R">
@@ -86,7 +86,7 @@
 <!ENTITY cmd.about.label                      "පිළිබඳ">
 <!ENTITY cmd.about.accesskey                  "A">
 
-<!ENTITY cmd.enableAddon.label                "බලැති (Enable) කරන්න">
+<!ENTITY cmd.enableAddon.label                "බලැති කරන්න">
 <!ENTITY cmd.enableAddon.accesskey            "E">
 <!ENTITY cmd.disableAddon.label               "අබල කරන්න">
 <!ENTITY cmd.disableAddon.accesskey           "D">
@@ -105,7 +105,7 @@
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "ඉවත් කරන්න">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
-<!ENTITY cmd.debugAddon.label                 "දෝශහරණය (b)">
+<!ENTITY cmd.debugAddon.label                 "දෝශහරණය">
 <!ENTITY cmd.debugAddon.accesskey             "b">
 <!ENTITY cmd.showPreferencesWin.label         "විකල්ප">
 <!ENTITY cmd.showPreferencesWin.tooltip       "මෙම ඇඩෝනයේ විකල්ප වෙනස් කරන්න">

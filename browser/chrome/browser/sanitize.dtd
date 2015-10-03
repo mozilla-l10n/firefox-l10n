@@ -48,9 +48,9 @@ that require it.  -->
 <!ENTITY historySection.label         "අතීතය">
 <!ENTITY dataSection.label            "දත්ත">
 
-<!ENTITY itemHistoryAndDownloads.label     "පිරික්සුම් සහ බාගත ඉතිහාසය (B)">
+<!ENTITY itemHistoryAndDownloads.label     "පිරික්සුම් සහ බාගත ඉතිහාසය">
 <!ENTITY itemHistoryAndDownloads.accesskey "B">
-<!ENTITY itemFormSearchHistory.label       "පෝරම සහ සෙවුම් ඉතිහාසය (F)">
+<!ENTITY itemFormSearchHistory.label       "පෝරම සහ සෙවුම් ඉතිහාසය">
 <!ENTITY itemFormSearchHistory.accesskey   "F">
 <!ENTITY itemCookies.label                 "කුකී">
 <!ENTITY itemCookies.accesskey             "C">
