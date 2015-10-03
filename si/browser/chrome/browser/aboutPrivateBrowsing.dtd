@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutPrivateBrowsing.notPrivate       "ඔබ දැනට සිටින්නේ පුද්ගලික කවුළුවක නොවේ.">
-<!ENTITY privatebrowsingpage.openPrivateWindow.label "පුද්ගලික කවුළුව විවෘත කරන්න (P)">
+<!ENTITY privatebrowsingpage.openPrivateWindow.label "පුද්ගලික කවුළුව විවෘත කරන්න">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
 <!ENTITY privateBrowsing.title                 "පෞද්ගලික ගවේෂණය">
