@@ -510,7 +510,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageInfoCmd.accesskey   "พ">
 <!ENTITY viewImageDescCmd.label       "ดูคำอธิบาย">
 <!ENTITY viewImageDescCmd.accesskey   "ย">
-<!ENTITY viewVideoCmd.label           "ดูวีดิทัศน์">
+<!ENTITY viewVideoCmd.label           "ดูวิดีโอ">
 <!ENTITY viewVideoCmd.accesskey       "ว">
 <!ENTITY viewBGImageCmd.label         "ดูภาพพื้นหลัง">
 <!ENTITY viewBGImageCmd.accesskey     "พ">
@@ -542,7 +542,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveAudioCmd.accesskey       "ป">
 <!ENTITY emailImageCmd.label          "อีเมลรูป…">
 <!ENTITY emailImageCmd.accesskey      "อ">
-<!ENTITY emailVideoCmd.label          "อีเมลวีดิทัศน์…">
+<!ENTITY emailVideoCmd.label          "อีเมลวิดีโอ…">
 <!ENTITY emailVideoCmd.accesskey      "อ">
 <!ENTITY castVideoCmd.label           "ส่งวิดีโอไปยังอุปกรณ์">
 <!ENTITY castVideoCmd.accesskey       "ส">
@@ -558,7 +558,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageCmd.accesskey       "ค">
 <!ENTITY copyImageContentsCmd.label   "คัดลอกภาพ">
 <!ENTITY copyImageContentsCmd.accesskey  "ล"> 
-<!ENTITY copyVideoURLCmd.label        "คัดลอก URL ของวีดิทัศน์">
+<!ENTITY copyVideoURLCmd.label        "คัดลอก URL ของวิดีโอ">
 <!ENTITY copyVideoURLCmd.accesskey    "ข">
 <!ENTITY copyAudioURLCmd.label        "คัดลอก URL ของเสียง">
 <!ENTITY copyAudioURLCmd.accesskey    "ข">
