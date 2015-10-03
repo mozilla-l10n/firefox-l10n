@@ -110,7 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "A">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; වෙත පිවිසෙන්න">
-
+<!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; විවෘත කරන්න">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; වෙත නැවත සබඳවන්න">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; සක්‍රීයයි">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; මොහොතකින් සම්මුහුර්තවීම අරඹනු ඇත.">
@@ -268,11 +268,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY browserToolboxMenu.label     "ගවේශක මෙවලම් පෙට්ටිය (e)">
 <!ENTITY browserToolboxMenu.accesskey "e">
-
+<!ENTITY browserToolboxCmd.commandkey "i">
 <!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 
+<!ENTITY browserContentToolboxMenu.label     "ගවේශක අන්තර්ගත මෙවලම් තීරුව (x)">
+<!ENTITY browserContentToolboxMenu.accesskey "x">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Close Developer Toolbar">
 <!ENTITY devToolbarMenu.label              "Developer Toolbar">
@@ -302,7 +304,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "නව පුද්ගලික කවුළුව (W)">
 <!ENTITY newPrivateWindow.accesskey "W">
-
+<!ENTITY newNonRemoteWindow.label   "නව e10s-නොවන කවුළුව">
 
 <!ENTITY editMenu.label         "සැකසුම් (E)"> 
 <!ENTITY editMenu.accesskey       "E"> 
@@ -393,9 +395,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "ටැබයට මාරුවෙන්න:">
 
-
-
-
+<!ENTITY urlbar.searchSuggestionsNotification.question "ඔබ යෝජනා සමඟින් ඔබේ සෙවුම් අත්දැකීම වැඩිදියුණු කරගැනීමට කැමතිද?">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "තවත් දැනගන්න...">
+<!ENTITY urlbar.searchSuggestionsNotification.disable "නැහැ">
+<!ENTITY urlbar.searchSuggestionsNotification.enable "ඔව්">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -424,6 +427,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      These are set as the aria-label attribute for the search input box and
      submit button in the in-content search UI, to be used by screen readers. -->
 
+<!ENTITY contentSearchInput.label     "සෙවුම් විමසුම">
+<!ENTITY contentSearchSubmit.label    "සෙවුම යොමු කරන්න">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -436,6 +441,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      intentionally left empty for en-US and can be used by other localizations to
      display a string after the search engine name.  This string will be displayed
      as:  "Search <selected engine name><searchAfter.label text>" -->
+
+<!ENTITY search.label                 "සොයන්න ">
 <!ENTITY searchAfter.label            "">
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
@@ -637,6 +644,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "C">
 
+<!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "පිටු මෝස්තරය (y)">
 <!ENTITY pageStyleMenu.accesskey "y">
@@ -676,18 +684,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "කළා">
 <!ENTITY editBookmark.cancel.label                   "අහෝසි කරන්න">
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
-
-
-
-
-
+<!ENTITY identity.connectionSecure "ආරක්ෂිත සබඳතාවය">
+<!ENTITY identity.connectionNotSecure "සබඳතාවය ආරක්ෂා සහිත නොවේ">
+<!ENTITY identity.connectionFile "මෙම පිටුව ඔබේ පරිගණකය මත ගබඩා වී ඇත.">
+<!ENTITY identity.connectionVerified "&brandShortName; විසින් ඔබ මෙම අඩවියට ආරක්ෂිතව සබඳ වී ඇති බව තහවුරු කර ඇත, ක්‍රියාත්මක වන්නේ:">
+<!ENTITY identity.connectionInternal "මෙය ආරක්ෂිත &brandShortName; පිටුවකි.">
 <!-- Strings for connection state warnings. -->
 
-
-
+<!ENTITY identity.activeBlocked "&brandShortName; විසින් මෙම පිටුවේ ආරක්ෂිත නොවන කොටස් අවහිර කර ඇත.">
+<!ENTITY identity.passiveLoaded "මෙම පිටුවේ ඇතැම් කොටස් ආරක්ෂිත නොවේ (පින්තූර වැනි).">
+<!ENTITY identity.activeLoaded "ඔබ මෙම පිටුව මත ආරක්ෂාව අක්‍රීය කර ඇත.">
+<!ENTITY identity.weakEncryption "මෙම පිටුව දුර්වල ගුප්තකේනයක් භාවිත කරයි.">
 <!-- Strings for connection state warnings in the subview. -->
 
+<!ENTITY identity.description.insecure "මෙම අඩවියට ඇති ඔබේ සබඳතාවය පුද්ගලික නොවේ. ඔබ පළ කරන තොරතුරු අන්‍යයන්ට දර්ශනය කළ හැක (මුරපද, පණිවුඩ, ණය පත් වැනි.).">
+<!ENTITY identity.description.weakCipher "මෙම ජාල අඩවියට ඇති ඔබේ සබඳතාවය දුර්වල ගුප්තකේතනයක් භාවිත කරන අතර පුද්ගලික නොවේ.">
 
 
 
