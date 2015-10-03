@@ -2,9 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY SSLTLSProtocolVersions.caption     "SSL/TLS protokoll verziói">
+<!ENTITY SSLTLSWarnings.caption             "SSL/TLS-figyelmeztetések">
 <!ENTITY SSLMixedContent.caption            "Vegyes tartalom">
 <!ENTITY SSLClientAuthMethod.caption        "Ügyféloldali tanúsítvány kiválasztása">
 
+<!ENTITY pref.ssltls.title                  "Transport Layer Security (SSL/TLS)">
 <!ENTITY limit.description                  "Beállíthatja, hogy melyik titkosítási protokollokat használja a biztonságos kapcsolatokhoz. Választhat egy verziót, vagy a verziók összefüggő tartományát.">
 <!ENTITY limit.enable.label                 "Engedélyezés:">
 <!ENTITY limit.tls10.label                  "TLS 1.0">

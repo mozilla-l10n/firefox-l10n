@@ -35,4 +35,6 @@
 <!ENTITY enablePhishingDetector.accesskey "b">
 <!-- Anti Virus -->
 
-
+<!ENTITY pref.antivirus.caption           "Antivírus">
+<!ENTITY antiVirus.label                  "Könnyűvé teszi a vírusellenes szoftverek számára a bejövő üzenetek ellenőrzését">
+<!ENTITY antiVirus.accesskey              "a">

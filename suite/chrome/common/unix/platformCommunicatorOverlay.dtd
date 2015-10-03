@@ -32,4 +32,5 @@
 <!ENTITY altKey.label                   "Alt">
 <!ENTITY shiftKey.label                 "Shift">
 
-
+<!ENTITY menubarCmd.label               "Menüsor">
+<!ENTITY menubarCmd.accesskey           "e">
