@@ -141,6 +141,8 @@
 <!ENTITY pref_cookies_accept_all "Включены">
 <!ENTITY pref_cookies_not_accept_foreign "Включены, кроме сторонних сайтов">
 <!ENTITY pref_cookies_disabled "Отключены">
+<!ENTITY pref_tap_to_load_images_title "Изображения по нажатию">
+<!ENTITY pref_tap_to_load_images_summary2 "Загружать изображения только после долгого нажатия на них">
 <!ENTITY pref_tracking_protection_title "Защита от отслеживания">
 <!ENTITY pref_tracking_protection_summary3 "Включена в Приватном просмотре">
 <!ENTITY pref_donottrack_title "Не отслеживать">

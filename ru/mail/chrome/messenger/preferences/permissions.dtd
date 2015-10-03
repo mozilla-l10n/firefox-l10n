@@ -3,21 +3,23 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "Исключения">
-<!ENTITY window.width "36em">
+<!ENTITY window.width "55em">
 <!ENTITY treehead.sitename.label "Сайт">
 <!ENTITY treehead.status.label "Статус">
 <!ENTITY removepermission.label "Удалить сайт">
-<!ENTITY removepermission.accesskey "У">
+<!ENTITY removepermission.accesskey "д">
 <!ENTITY removeallpermissions.label "Удалить все сайты">
 <!ENTITY removeallpermissions.accesskey "в">
 <!ENTITY address.label "Адрес веб-сайта:">
-<!ENTITY address.accesskey "д">
+<!ENTITY address.accesskey "е">
 <!ENTITY block.label "Блокировать">
-<!ENTITY block.accesskey "Б">
+<!ENTITY block.accesskey "о">
 <!ENTITY session.label "Разрешить на сессию">
-<!ENTITY session.accesskey "с">
+<!ENTITY session.accesskey "з">
 <!ENTITY allow.label "Разрешить">
-<!ENTITY allow.accesskey "Р">
+<!ENTITY allow.accesskey "ш">
 <!ENTITY windowClose.key "w">
-<!ENTITY button.close.label "Закрыть">
-<!ENTITY button.close.accesskey "З">
+<!ENTITY button.cancel.label "Отмена">
+<!ENTITY button.cancel.accesskey "м">
+<!ENTITY button.ok.label "Сохранить изменения">
+<!ENTITY button.ok.accesskey "х">
