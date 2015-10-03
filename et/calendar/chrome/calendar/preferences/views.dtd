@@ -14,6 +14,8 @@
 
 <!ENTITY pref.weekstarts.label "Nädala esimene päev:">
 <!ENTITY pref.weekstarts.accesskey "s">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Vaadetes ja minikalendris kuvatakse nädala numbreid">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "d">
 <!ENTITY pref.daysoff.label "Töönädala päevadena näidatakse:">
 
 <!ENTITY pref.calendar.view.daystart.label "Päev algab kell:">
