@@ -52,8 +52,8 @@ fi <strong>ww</strong>.exemplu.ro în loc de
 <input id='searchtext' type='search'></input> 
 <button id='searchbutton'>Caută</button> 
 </div> 
-<li>Asigură-te că folosești slash-uri corecte (adică 
-<strong>/</strong>).</li> 
+<li>Asigură-te că folosești slash-uri orientate spre dreapta 
+(de ex., <strong>/</strong>).</li> 
 </ul>">
 
 <!ENTITY netInterrupt.title "Conexiunea a fost întreruptă">
