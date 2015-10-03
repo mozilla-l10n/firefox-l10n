@@ -25,8 +25,8 @@
 
 <!ENTITY helpSafeMode.label       "ඇඩෝන දුබල කර යළි-අරඹන්න…">
 <!ENTITY helpSafeMode.accesskey   "R">
-
-
+<!ENTITY helpSafeMode.stop.label       "ඇඩෝන සක්‍රීය කර යළි-අරඹන්න (R)">
+<!ENTITY helpSafeMode.stop.accesskey   "R">
 
 <!ENTITY healthReport2.label      "&brandShortName; බිද වැටුම් වාර්ථා (e)">
 <!ENTITY healthReport2.accesskey  "e">
