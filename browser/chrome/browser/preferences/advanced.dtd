@@ -34,7 +34,7 @@
 <!ENTITY healthReportLearnMore.label     "Află mai multe">
 
 <!ENTITY telemetryDesc.label             "Împărtășește date privind performanța, consumul, hardware-ul și personalizările browserului cu &vendorShortName; pentru a ne ajuta să facem &brandShortName; mai bun">
-<!ENTITY enableTelemetryData.label       "Împărtășește date suplimentare (de exemplu Telemetrie)">
+<!ENTITY enableTelemetryData.label       "Împărtășește date suplimentare (de ex., Telemetrie)">
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Află mai multe">
 
