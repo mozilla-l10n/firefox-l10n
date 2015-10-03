@@ -25,8 +25,8 @@
 <!ENTITY  locbar.history.accesskey      "ت">
 <!ENTITY  locbar.bookmarks.label        "نشانک‌ها">
 <!ENTITY  locbar.bookmarks.accesskey    "ن">
-<!ENTITY  locbar.openpage.label         "باز کردن زبانه‌ها">
-<!ENTITY  locbar.openpage.accesskey     "ب">
+<!ENTITY  locbar.openpage.label         "زبانه‌های باز">
+<!ENTITY  locbar.openpage.accesskey     "ز">
 <!ENTITY  locbar.searches.label         "جست‌وجو‌های مرتبط از موتور جست‌وجوی پیش‌فرض">
 <!ENTITY  locbar.searches.accesskey     "م">
 
