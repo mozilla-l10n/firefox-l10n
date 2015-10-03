@@ -343,7 +343,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "Поставке">
 <!ENTITY preferencesCmdUnix.accesskey     "П"> 
 
-<!ENTITY clearRecentHistory.label               "Обриши скорашњи историјат…">
+<!ENTITY clearRecentHistory.label               "Обриши историјат…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
@@ -374,9 +374,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomizeExit.tooltip "Завршите прилагођавање">
 <!ENTITY appMenuHistory.label "Историјат">
 <!ENTITY appMenuHistory.showAll.label "Прикажи целу историју">
-<!ENTITY appMenuHistory.clearRecent.label "Обриши скорашњи историјат…">
+<!ENTITY appMenuHistory.clearRecent.label "Обриши историјат…">
 <!ENTITY appMenuHistory.restoreSession.label "Обнови претходну сесију">
-<!ENTITY appMenuHistory.viewSidebar.label "Прикажи бочну палету историјата">
+<!ENTITY appMenuHistory.viewSidebar.label "Прикажи палету историјата">
 <!ENTITY appMenuHelp.tooltip "Отворите мени за помоћ">
 
 <!ENTITY customizeMenu.addToToolbar.label "Додај траци">
