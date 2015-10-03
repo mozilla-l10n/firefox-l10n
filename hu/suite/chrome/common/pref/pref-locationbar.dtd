@@ -6,10 +6,10 @@
 <!ENTITY pref.locationBar.title                "Címmező">
 
 <!ENTITY autoComplete.label                    "Automatikus kiegészítés">
-
-
-
-
+<!ENTITY autoCompleteMatchHistory.label        "Webhelyek automatikus ajánlása az Előzmények alapján">
+<!ENTITY autoCompleteMatchHistory.accesskey    "a">
+<!ENTITY autoCompleteMatchBookmarks.label      "Webhelyek automatikus ajánlása az Könyvjelzők alapján">
+<!ENTITY autoCompleteMatchBookmarks.accesskey  "K">
 <!ENTITY autoCompleteAutoFill.label            "Automatikus kiegészítés beírás közben">
 <!ENTITY autoCompleteAutoFill.accesskey        "u">
 <!ENTITY autoCompleteShowPopup.label           "Lehetséges címek megjelenítése">
