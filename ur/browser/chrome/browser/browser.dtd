@@ -406,11 +406,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "کیا آہ اپنے تلاش اینجن تجربے کو تجاویز سے بہتر بنانا چاہیں گے؟">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "اور &amp;سیکھیں…">
-
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "ل">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "نہیں">
-
+<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "این">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "ہاں">
-
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "ی">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -467,9 +467,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "تلاش سیٹکگیں تبدیل کریں">
 
-
-
-
+<!ENTITY searchInNewTab.label         "نئے ٹیب میں تلاش کرے">
+<!ENTITY searchInNewTab.accesskey     "ٹ">
+<!ENTITY searchSetAsDefault.label     "بطور طے شدہ تلاش انجن سیٹ کریں">
+<!ENTITY searchSetAsDefault.accesskey "ط">
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -545,8 +546,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "ا">
 <!ENTITY emailVideoCmd.label          "وڈیو ای میل کریں…">
 <!ENTITY emailVideoCmd.accesskey      "ا">
-
-
+<!ENTITY castVideoCmd.label           "وڈیو ڈیوائس پر بھیجے">
+<!ENTITY castVideoCmd.accesskey       "ھ">
 <!ENTITY emailAudioCmd.label          "آڈیو ای میل کریں…">
 <!ENTITY emailAudioCmd.accesskey      "ا">
 <!ENTITY playPluginCmd.label          "اس پلگ ان کو متحرک کریں">
@@ -652,7 +653,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "کنارہ کریں"> 
 <!ENTITY quitApplicationCmd.accesskey   "ک">
-
+<!ENTITY quitApplicationCmdMac2.label   "&brandShorterName; برخاست کریں">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "ق">
 
@@ -660,6 +661,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "ب">
 
+<!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "پیج طرز">
 <!ENTITY pageStyleMenu.accesskey "ط">
@@ -699,11 +701,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "ختم">
 <!ENTITY editBookmark.cancel.label                   "منسوخ کریں">
+<!ENTITY editBookmark.removeBookmark.accessKey       "ر">
 
-
+<!ENTITY identity.connectionSecure "بعید کنکشن">
 <!ENTITY identity.connectionNotSecure "کنکشن قابل بھروسا نہیں">
-
-
+<!ENTITY identity.connectionFile "یہ صفحہ آپکے کمپیوٹر پر سٹورڈ ہے۔">
+<!ENTITY identity.connectionVerified1 "آپ محفوظ طریقے سے اس سائٹ سے جڑے ہوے ہے، کی طرف سے چلائے:">
 
 
 <!-- Strings for connection state warnings. -->
@@ -870,8 +873,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.undoWarning             "یہ عمل کلعدم نہیں ہو سکتا۔">
 
 
-
-
+<!ENTITY panicButton.thankyou.msg2                "محفوظ براؤزنگ">
+<!ENTITY panicButton.thankyou.buttonlabel         "شکریہ">
 
 
 

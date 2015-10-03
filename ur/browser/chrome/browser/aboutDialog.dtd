@@ -27,7 +27,7 @@
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.middle       "ہے ایک">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
-<!ENTITY community.exp.creditsLink  "ہمہ گیر حلقہ">
+<!ENTITY community.exp.creditsLink  "عالمی گروه">
 <!ENTITY community.exp.end          "  آپس میں مل کر مواصلاتی جال کو وصیح، عوامی اور قابل رسائی بناۓ ہوۓ-">
 
 <!ENTITY community.start2           "&brandShortName; کے ڈیزائنر ہیں">

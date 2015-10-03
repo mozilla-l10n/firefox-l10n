@@ -13,16 +13,21 @@
      of the Tracking Protection section, and in general not much larger than
      30em to prevent the sections from wrapping on smaller window sizes.
      -->
+
+<!ENTITY aboutPrivateBrowsing.width1           "30em">
 <!ENTITY aboutPrivateBrowsing.title            "آپ رازداری سے براؤز کر رہے ہیں">
 
+<!ENTITY aboutPrivateBrowsing.info.notsaved    "محفوظ شدہ نہیں">
 <!ENTITY aboutPrivateBrowsing.info.history     "سابقات">
 <!ENTITY aboutPrivateBrowsing.info.searches    "تلاش">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "کوکی">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "عارضی مسلیں">
 
+<!ENTITY aboutPrivateBrowsing.info.saved       "محفوظ شدہ">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "ڈاؤن لوڈ">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "نشانیاں">
 
+<!ENTITY aboutPrivateBrowsing.note1            "نوٹ کیجیئے کہ آپ کی کمپنی یا انٹرنیٹ سروس مہیا کنندہ آپ کے دیکھے گئے صفحات کی پھر بھی سراغ راہ لگا سکتے ہیں۔">
 <!ENTITY aboutPrivateBrowsing.learnMore        "مزید سیکھیں۔">
 <!-- LOCALIZATION NOTE (trackingProtection.width1):
      Width of the Tracking Protection section. It is fine for the enabled or
@@ -43,6 +48,8 @@
 <!ENTITY trackingProtection.state.enabled      "آن">
 <!ENTITY trackingProtection.state.disabled     "آف">
 
+<!ENTITY trackingProtection.description1       "صفحہ کے کچھ حصے جو آپ کی آن لائن سرگرمیوں کا سراغ لگاتے ہیں انہیں بلاک کردیا گیا ہے۔">
 
-
+<!ENTITY trackingProtection.disable            "ٹریکنگ پروٹیکشن بند کریں">
+<!ENTITY trackingProtection.enable             "ٹریکنگ پروٹیکشن کو چالو کریں">
 <!ENTITY trackingProtection.startTour1         "دیکھیں کہ یہ کیسے کام کرتا ہے">
