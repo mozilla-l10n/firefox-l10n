@@ -790,7 +790,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "බෙදාගන්නා මයික්‍රෆෝනය (M)">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
-
+<!ENTITY getUserMedia.audioCapture.label "ටැබයේ ශ්‍රව්‍ය බෙදාගැනෙනු ඇත.">
 <!ENTITY getUserMedia.allWindowsShared.message "ඔබේ තිරයේ දිස්වෙන සියළු කවුළු බෙදාගැනෙනු ඇත.">
 
 <!ENTITY trackingProtection.title "හඹායෑම් ආරක්ෂාව">
@@ -883,6 +883,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "D">
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 
-
-
-
+<!ENTITY saveToPocketCmd.label     "පිටුව Pocket වෙතට සුරකින්න (k)">
+<!ENTITY saveToPocketCmd.accesskey "k">
+<!ENTITY saveLinkToPocketCmd.label     "සබැඳුම Pocket වෙතට සුරකින්න (o)">
+<!ENTITY saveLinkToPocketCmd.accesskey "o">
+<!ENTITY pocketMenuitem.label      "Pocket ලැයිස්තුව පෙන්වන්න">
