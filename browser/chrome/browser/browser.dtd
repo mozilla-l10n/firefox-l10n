@@ -457,7 +457,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY tabView.commandkey           "e">
 
-<!ENTITY openLinkCmdInTab.label       "Deschide legătura în filă nouă">
+<!ENTITY openLinkCmdInTab.label       "Deschide linkul într-o filă nouă">
 <!ENTITY openLinkCmdInTab.accesskey   "t">
 <!ENTITY openLinkCmd.label            "Deschide linkul în fereastră nouă">
 <!ENTITY openLinkCmd.accesskey        "D">

@@ -70,7 +70,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 <!ENTITY notSignedIn.label           "Nu sunteți autentificat.">
-<!ENTITY signIn.label                "Autentificare">
+<!ENTITY signIn.label                "Autentifică-te">
 <!ENTITY profilePicture.tooltip      "Schimbă fotografia de profil">
 <!ENTITY manage.label                "Gestionează">
 <!ENTITY disconnect.label            "Deconectează-te…">
@@ -79,14 +79,14 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY welcome.description "Accesați filele dumneavoastră, semnele de carte, parolele și altele ori de câte ori folosiți &brandShortName;.">
 <!ENTITY welcome.signIn.label "Autentificare">
-<!ENTITY welcome.createAccount.label "Creare cont">
+<!ENTITY welcome.createAccount.label "Creează cont">
 
 <!ENTITY welcome.useOldSync.label "Utilizați o versiune mai veche de Sincronizare?">
 
-<!ENTITY signedOut.caption            "Ia Webul cu tine">
+<!ENTITY signedOut.caption            "Ia webul cu tine">
 <!ENTITY signedOut.description        "Sincronizați semnele de carte, istoricul, file, parole, suplimente și preferințe pe toate dispozitivele">
 <!ENTITY signedOut.accountBox.title   "Conectare cu &syncBrand.fxAccount.label;">
-<!ENTITY signedOut.accountBox.create  "Creare cont">
+<!ENTITY signedOut.accountBox.create  "Creează cont">
 <!ENTITY signedOut.accountBox.signin  "Autentificare">
 
 <!ENTITY signedIn.engines.label       "Sincronizare pe toate dispozitivele">
