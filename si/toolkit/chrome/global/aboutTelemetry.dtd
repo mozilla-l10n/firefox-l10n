@@ -4,6 +4,11 @@
 
 <!ENTITY aboutTelemetry.pageTitle "දූරමිතික දත්ත">
 
+<!ENTITY aboutTelemetry.changeDataChoices "  වෙනස් කරන්න">
+
+<!ENTITY aboutTelemetry.uploadEnabled "  FHR දත්ත උඩුගත කිරීම <span>සක්‍රීයයි</span>.">
+
+<!ENTITY aboutTelemetry.uploadDisabled "  FHR දත්ත උඩුගත කිරීම <span>අක්‍රීයයි</span>.">
 
 
 
@@ -14,12 +19,12 @@
 
 
 
-
-
+<!ENTITY aboutTelemetry.archiveWeekHeader "සතිය">
 
 
 <!ENTITY aboutTelemetry.generalDataSection "    සාමාන්‍ය දත්ත">
 
+<!ENTITY aboutTelemetry.environmentDataSection "  පාරිසරික දත්ත">
 
 
 <!ENTITY aboutTelemetry.slowSqlSection "    SQL ප්‍රකාශ පෙන්වන්න">
