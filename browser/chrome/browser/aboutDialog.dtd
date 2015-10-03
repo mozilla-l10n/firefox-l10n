@@ -19,7 +19,7 @@
 
 <!ENTITY warningDesc.version        "&brandShortName; පරීක්ෂාත්මක සහ ඇතැම් විට අස්ථායි තත්වයෙන් පවතී.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "&brandShortName; වැඩිදියුණු කිරීම පිණිස එය &brandShortName; වෙත ක්‍රියාකාරීත්වය, දෘඩාංග, භාවිතය සහ රුචිකරණ පිළිබඳ තොරතුරු ස්වයංක්‍රීයව යවයි.">
+<!ENTITY warningDesc.telemetryDesc  "&brandShortName; වැඩිදියුණු කිරීම පිණිස එය &vendorShortName; වෙත ක්‍රියාකාරීත්වය, දෘඩාංග, භාවිතය සහ රුචිකරණ පිළිබඳ තොරතුරු ස්වයංක්‍රීයව යවයි.">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
 <!ENTITY community.exp.start        "">
