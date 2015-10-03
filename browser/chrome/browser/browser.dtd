@@ -701,19 +701,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.description.insecure "මෙම අඩවියට ඇති ඔබේ සබඳතාවය පුද්ගලික නොවේ. ඔබ පළ කරන තොරතුරු අන්‍යයන්ට දර්ශනය කළ හැක (මුරපද, පණිවුඩ, ණය පත් වැනි.).">
 <!ENTITY identity.description.weakCipher "මෙම ජාල අඩවියට ඇති ඔබේ සබඳතාවය දුර්වල ගුප්තකේතනයක් භාවිත කරන අතර පුද්ගලික නොවේ.">
+<!ENTITY identity.description.weakCipher2 "වෙනත් පුද්ගලයන්ට ඔබේ තොරතුරු දැකීමට හා ජාල අඩවියේ හැසිරීම වෙනස් කළ හැක.">
+<!ENTITY identity.description.activeBlocked "&brandShortName; විසින් මෙම පිටුවේ ආරක්ෂිත නොවන කොටස් අවහිර කර ඇත.">
+<!ENTITY identity.description.passiveLoaded "ඔබේ සබඳතාව පුද්ගලික නොවේ ඔබ අඩවිය සමඟ බෙදාගන්නා තොරතුරු අන්‍යන්ට දැකිය හැක.">
+<!ENTITY identity.description.passiveLoaded2 "මෙම අඩවිය සතුව ආරක්ෂිත නොවන අන්තර්ගතයන් පවතී (පින්තූර වැනි).">
+<!ENTITY identity.description.passiveLoaded3 "&brandShortName; විසින් ඇතැම් අන්තර්ගතයන් අවහිර කළද, පිටුව මත තවත් ආරක්ෂිත නොවන අන්තර්ගතයන් පවතී (පින්තූර වැනි).">
+<!ENTITY identity.description.activeLoaded "මෙම අඩවිය සතුව ආරක්ෂිත නොවන අන්තර්ගතයන් පවතී (විධානාවලි වැනි) තවද ඔබේ සබඳතාව පුද්ගලික නොවේ.">
+<!ENTITY identity.description.activeLoaded2 "ඔබ පළ කරන තොරතුරු අන්‍යයන්ට දර්ශනය කළ හැක (මුරපද, පණිවුඩ, ණය පත් වැනි.).">
 
-
-
-
-
-
-
-
-
+<!ENTITY identity.enableMixedContentBlocking.label "ආරක්ෂණය සක්‍රීය කරන්න (E)">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "E">
 <!ENTITY identity.disableMixedContentBlocking.label "දැනට ආරක්සහාව අකරිය කරන්න (D)">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
+<!ENTITY identity.learnMore "තවත් දැනගන්න">
 
-
+<!ENTITY identity.moreInfoLinkText2 "තවත් තොරතුරු">
 
 <!ENTITY identity.permissions "අවසරයන්">
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -791,26 +793,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY getUserMedia.allWindowsShared.message "ඔබේ තිරයේ දිස්වෙන සියළු කවුළු බෙදාගැනෙනු ඇත.">
 
-
-
-
+<!ENTITY trackingProtection.title "හඹායෑම් ආරක්ෂාව">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; විසින් මෙම අඩවියේ ඔබේ ගවේශනය හඹායා හැකි කොටස් අවහිර කරයි.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "මෙම අඩවිය සතුව ඔබේ ගවේශනය හඹායා හැකි මූලාංක අඩංගු වේ. ඔබ ආරක්ෂණය අක්‍රීය කර ඇත.">
+<!ENTITY trackingProtection.notDetected3 "මෙම පිටුව මත කිසිඳු හමායෑම් මූලාංගයක් හමු නොවින.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-
+<!ENTITY trackingProtection.unblock.label "මෙම අඩවිය සඳහා ආරක්ශනය අක්‍රීය කරන්න (D)">
+<!ENTITY trackingProtection.unblock.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-
-
-
+<!ENTITY trackingProtection.unblockPrivate.label "මෙම අඩවිය සඳහා ආරක්ශනය අක්‍රීය කරන්න (D)">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "D">
+<!ENTITY trackingProtection.block2.label "ආරක්ෂනය සක්‍රීය කරන්න (E)">
+<!ENTITY trackingProtection.block2.accesskey "E">
 
 <!ENTITY trackingContentBlocked.message "Tracking">
 <!ENTITY trackingContentBlocked.moreinfo "ඔබේ අන්තර්ජාල ක්‍රියාකාරීත්වය විමසන පිටුවේ සමහර කොටස් අවහිර කර ඇති.">
 <!ENTITY trackingContentBlocked.learnMore "තවත් ඉගෙනගන්න">
-
-
-
+<!ENTITY trackingContentBlocked.options "විකල්ප">
+<!ENTITY trackingContentBlocked.unblock2.label "මෙම අඩවිය සඳහා ආරක්ෂනය අක්‍රීය කරන්න (D)">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "ආරක්ෂණය සක්‍රීය කරන්න">
 <!ENTITY trackingContentBlocked.block.accesskey "ආ">
 <!ENTITY trackingContentBlocked.disabled.message "හඹායෑම් ආරක්ශාව අක්‍රීය කරන ලදී">
@@ -861,17 +866,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg2                "සුරක්ෂිත වෙබ් අත්දැකීම!">
 <!ENTITY panicButton.thankyou.buttonlabel         "ස්තූතියි!">
 
+<!ENTITY processHang.terminateScript.label        "විධානාවලිය නවතන්න (S)">
+<!ENTITY processHang.terminateScript.accessKey    "S">
+<!ENTITY processHang.debugScript.label            "විධානාවලි දෝශ නිරාකරණය (D)">
+<!ENTITY processHang.debugScript.accessKey        "D">
+<!ENTITY processHang.terminatePlugin.label        "ප්ලගිනය නවතන්න (P)">
+<!ENTITY processHang.terminatePlugin.accessKey    "P">
+<!ENTITY processHang.terminateProcess.label       "ජාල ක්‍රියාවලිය නවතන්න (K)">
+<!ENTITY processHang.terminateProcess.accessKey   "K">
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY emeLearnMoreContextMenu.label            "DRM පිළිබඳව තවත් දැනගන්න...">
+<!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+<!ENTITY emeNotificationsNotNow.label             "දැන් නොවේ (N)">
+<!ENTITY emeNotificationsNotNow.accesskey         "N">
 <!ENTITY emeNotificationsDontAskAgain.label       "මගෙන් යළි නොවිමසන්න (D)">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "D">
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
