@@ -12,6 +12,7 @@
 <!ENTITY smtpListDelete.accesskey "У">
 <!ENTITY smtpListSetDefault.label "По умолчанию">
 <!ENTITY smtpListSetDefault.accesskey "П">
+<!ENTITY serverDetails.label "Параметры выделенного сервера:">
 <!ENTITY serverDescription.label "Описание:">
 <!ENTITY serverName.label "Имя сервера">
 <!ENTITY serverPort.label "Порт:">

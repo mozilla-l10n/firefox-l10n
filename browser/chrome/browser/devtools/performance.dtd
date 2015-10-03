@@ -8,6 +8,7 @@
 <!ENTITY performanceUI.disabledRealTime.nonE10SBuild "Запись данных в реальном времени отключена на не-многопроцессном Firefox.">
 <!ENTITY performanceUI.disabledRealTime.disabledE10S "Включите в настройках многопроцессность в Firefox для начала записи данных в реальном времени.">
 <!ENTITY performanceUI.bufferStatusFull "Буфер заполнен полностью. Старые замеры теперь будут перезаписываться.">
+<!ENTITY performanceUI.unavailableNoticePB "Запись профиля в настоящее время недоступна. Пожалуйста, закройте все окна приватного просмотра и попробуйте ещё раз.">
 <!ENTITY performanceUI.loadingNotice "Загрузка…">
 <!ENTITY performanceUI.recordButton.tooltip "Переключает режим записи для записи профайлера.">
 <!ENTITY performanceUI.importButton "Импорт…">
