@@ -226,10 +226,12 @@
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
+
+<!ENTITY experiment.info.label "یہ کیا ہے؟ Telemetry وقت وقت پر تجربات کو تنصیب اور چلا سکتا ہے۔">
 <!ENTITY experiment.info.learnmore "اور سیکھیں">
-
-
-
+<!ENTITY experiment.info.learnmore.accesskey "L">
+<!ENTITY experiment.info.changetelemetry "Telemetry سیٹنگیں">
+<!ENTITY experiment.info.changetelemetry.accesskey "T">
 
 <!ENTITY setting.learnmore "اور سیکھیں…">
 
@@ -237,11 +239,13 @@
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-
-
-
+<!ENTITY disabledUnsigned.description.start "مندرجہ ذیل ایڈ اون &brandShortName; میں استعمال کے لیے تصدیق نہیں کیئے گئے۔ آپ ">
+<!ENTITY disabledUnsigned.description.findAddonsLink "تبدیلیاں ڈھونڈیں">
+<!ENTITY disabledUnsigned.description.end " یا پھر ان کی تصدیق کروانے کے لیے تخلیق کار سے کہیں۔">
+<!ENTITY disabledUnsigned.learnMore "آپ کو آن لائن محفوظ رکھنے کے لیئے ہماری کوششوں کے بارے میں مزید سیکھیں۔">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
+<!ENTITY disabledUnsigned.devInfo.start "وہ ڈیولپر جو اپنے ایڈ اون تصدیق کروانا چاہتے ہیں آگے بڑھنے کے لیے یہ پڑھ سکتے ہیں ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "دستورالعمل">
 
