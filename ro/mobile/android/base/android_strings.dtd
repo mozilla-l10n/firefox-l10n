@@ -218,7 +218,7 @@
 <!ENTITY pref_cookies_disabled "Dezactivate">
 
 <!ENTITY pref_tracking_protection_title "Protecția față de urmărire">
-<!ENTITY pref_tracking_protection_summary3 "Activată în navigarea fără urme">
+<!ENTITY pref_tracking_protection_summary3 "Activată în navigarea privată">
 <!ENTITY pref_donottrack_title "Nu mă urmări">
 <!ENTITY pref_donottrack_summary "&brandShortName; va spune site-urilor că nu dorești să fii urmărit">
 
