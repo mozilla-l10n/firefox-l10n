@@ -8,7 +8,7 @@
 <!ENTITY itemAntiVirus.label     "Antivirus">
 
 <!-- Junk Mail Controls -->
-<!ENTITY junkMail.intro "Angi forvalgt oppførsel for uønsket e-post. Konto-spesifikke innstillinger for uønsket e-post kan angis i Kontoinnstillinger.">
+<!ENTITY junkMail.intro "Angi standard oppførsel for uønsket e-post. Konto-spesifikke innstillinger for uønsket e-post kan angis i Kontoinnstillinger.">
 <!ENTITY manualMark.label "Når jeg markerer meldinger som uønskede:">
 <!ENTITY manualMark.accesskey "N">
 <!ENTITY manualMarkModeMove.label "Flytt dem til kontoens «Uønsket»-mappe">

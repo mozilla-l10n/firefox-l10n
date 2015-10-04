@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label 'Hva skal synkroniseres'>
 <!ENTITY sync.configure.engines.sync.my.title.label 'Synkroniser dine …'>
 <!ENTITY sync.configure.engines.title.bookmarks 'Bokmerker'>
-<!ENTITY sync.configure.engines.title.passwords 'Passord'>
+<!ENTITY sync.configure.engines.title.passwords2 'Innlogginger'>
 <!ENTITY sync.configure.engines.title.history 'Historikk'>
 <!ENTITY sync.configure.engines.title.tabs 'Faner'>
 
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy 'personvern'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'Velkommen til &syncBrand.shortName.label;'>
-<!ENTITY fxaccount_getting_started_description 'Logg inn for å synkronisere faner, bokmerker, passord m.m.'>
+<!ENTITY fxaccount_getting_started_description2 'Logg inn for å synkronisere faner, bokmerker, innlogginger m.m.'>
 <!ENTITY fxaccount_getting_started_get_started 'Kom i gang'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Bruker du en eldre versjon av &syncBrand.shortName.label;?'>
 
@@ -150,6 +150,8 @@
      etc).  The account remains a "Firefox Account". -->
 <!ENTITY fxaccount_create_account_header2 'Lag en Firefox-konto'>
 <!ENTITY fxaccount_create_account_password_length_restriction 'Må være minst 8 tegn'>
+<!ENTITY fxaccount_create_account_day_of_birth 'Dag'>
+<!ENTITY fxaccount_create_account_month_of_birth 'Måned'>
 <!ENTITY fxaccount_create_account_year_of_birth 'Fødselsår'>
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 'Ved å fortsette, godtar jeg &formatS1; og &formatS2; for Firefox sky-tjenester.'>
@@ -164,11 +166,15 @@
 <!ENTITY fxaccount_account_create_not_allowed_learn_more 'Les mer'>
 
 <!ENTITY fxaccount_confirm_account_header 'Bekreft kontoen'>
-<!-- Localization note: &formatS; is the Firefox account's email address. -->
+<!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link 'En bekreftelseslenke er sendt til &formatS;'>
 <!ENTITY fxaccount_confirm_account_resend_email 'Send e-post på nytt'>
+<!ENTITY fxaccount_confirm_account_change_email 'Glem denne e-postadressen?'>
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 'E-postbekreftelse sendt'>
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Klarte ikke sende e-postbekreftelse'>
+<!ENTITY fxaccount_resend_unlock_code_button_label 'Send e-post for opplåsing igjen'>
+<!ENTITY fxaccount_unlock_code_sent 'E-post med kontoopplåsing sendt'>
+<!ENTITY fxaccount_unlock_code_not_sent 'Klarte ikke sende e-post med kontoopplåsing'>
 
 <!ENTITY fxaccount_sign_in_sub_header 'Logg inn'>
 <!ENTITY fxaccount_sign_in_button_label 'Logg inn'>
@@ -179,13 +185,21 @@
 <!ENTITY fxaccount_account_verified_sub_header 'Konto bekreftet'>
 <!ENTITY fxaccount_account_verified_description2 'Dine data vil starte synkronisering straks.'>
 
+<!ENTITY fxaccount_migration_finished_header 'Oppgradering fullført'>
+
 <!ENTITY fxaccount_update_credentials_header 'Logg inn'>
 <!ENTITY fxaccount_update_credentials_button_label 'Logg inn'>
 <!ENTITY fxaccount_update_credentials_unknown_error 'Klarte ikke logge inn'>
 
+<!ENTITY fxaccount_finish_migrating_header 'Logg inn for å fullføre oppgradering'>
+<!ENTITY fxaccount_finish_migrating_button_label 'Fullfør oppgradering'>
+<!ENTITY fxaccount_finish_migrating_description 'Oppgradering kan overføre mye data. Det er best å være på et WiFi-nettverk.'>
+
 <!ENTITY fxaccount_status_header2 'Firefox-konto'>
 <!ENTITY fxaccount_status_signed_in_as 'Logget inn som'>
 <!ENTITY fxaccount_status_auth_server 'Kontoserver'>
+<!ENTITY fxaccount_status_sync_now 'Synk nå'>
+<!ENTITY fxaccount_status_syncing2 'Synkroniserer …'>
 <!ENTITY fxaccount_status_device_name 'Enhetsnavn'>
 <!ENTITY fxaccount_status_sync_server 'Sync-server'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
@@ -194,10 +208,11 @@
 <!ENTITY fxaccount_status_needs_credentials 'Klarte ikke koble til. Trykk for å logge inn.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Du må oppgradere &brandShortName; for å logge inn.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; er satt opp, men synkroniserer ikke automatisk. Slå av/på “Auto-synkroniser data” i Android-innstillinger &gt; Databruk.'>
-<!ENTITY fxaccount_status_needs_account_enabled '&syncBrand.shortName.label; er satt opp, men synkroniserer ikke automatisk. Trykk for å starte synkronisering.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; er konfigurert, men synkroniserer ikke automatisk. Velg “Auto-synk data” i menyen Android-innstillinger &gt; Kontoer.'>
+<!ENTITY fxaccount_status_needs_finish_migrating 'Trykk for å logge inn med din nye Firefox-konto.'>
 <!ENTITY fxaccount_status_bookmarks 'Bokmerker'>
 <!ENTITY fxaccount_status_history 'Historikk'>
-<!ENTITY fxaccount_status_passwords 'Passord'>
+<!ENTITY fxaccount_status_passwords2 'Innlogginger'>
 <!ENTITY fxaccount_status_tabs 'Åpne faner'>
 <!ENTITY fxaccount_status_legal 'Juridisk' >
 <!-- Localization note: when tapped, the following two strings link to
@@ -242,8 +257,14 @@
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Serveren er opptatt, prøv igjen snart'>
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Et problem oppstod'>
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT 'Klarte ikke koble til nettverket'>
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Kontoen er låst. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; er ikke tilkoblet'>
-<!-- Note to translators: the format string below will be replaced
+<!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Trykk for å logge inn som &formatS;'>
+
+<!ENTITY fxaccount_sync_finish_migrating_notification_title 'Fullfør oppgradering av &syncBrand.shortName.label;?'>
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text 'Trykk for å logge inn som &formatS;'>

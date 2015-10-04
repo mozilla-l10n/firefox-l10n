@@ -8,16 +8,16 @@
 <!ENTITY zoomWindow.label         "Forstørr">
 <!ENTITY windowMenu.label         "Vindu">
 
-<!ENTITY helpMenu.label           "Hjelp">
-<!ENTITY helpMenu.accesskey       "H">
+<!ENTITY helpMenu.label           "Hjelp"> 
+<!ENTITY helpMenu.accesskey       "H"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "Hjelp">
+<!ENTITY helpMenuWin.label        "Hjelp"> 
 <!ENTITY helpMenuWin.accesskey    "H">
-<!ENTITY aboutProduct.label       "Om &brandShortName;">
-<!ENTITY aboutProduct.accesskey   "O">
-<!ENTITY productHelp.label        "Innhold">
-<!ENTITY productHelp.accesskey    "I">
+<!ENTITY aboutProduct2.label      "Om &brandShorterName;">
+<!ENTITY aboutProduct2.accesskey  "O">
+<!ENTITY productHelp2.label       "Innhold">
+<!ENTITY productHelp2.accesskey   "I">
 <!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "Tastatursnarveier">
@@ -25,9 +25,11 @@
 
 <!ENTITY helpSafeMode.label       "Start på nytt uten utvidelser …">
 <!ENTITY helpSafeMode.accesskey   "R">
+<!ENTITY helpSafeMode.stop.label       "Start på nytt med utvidelser påslått">
+<!ENTITY helpSafeMode.stop.accesskey   "S">
 
-<!ENTITY healthReport.label       "&brandShortName; helserapport">
-<!ENTITY healthReport.accesskey   "e">
+<!ENTITY healthReport2.label      "&brandShorterName; helserapport">
+<!ENTITY healthReport2.accesskey  "e">
 
 <!ENTITY helpTroubleshootingInfo.label      "Feilsøking">
 <!ENTITY helpTroubleshootingInfo.accesskey  "F">
@@ -35,16 +37,16 @@
 <!ENTITY helpFeedbackPage.label      "Gi tilbakemelding …">
 <!ENTITY helpFeedbackPage.accesskey  "G">
 
-<!ENTITY helpShowTour.label             "Omvisning i &brandShortName;">
-<!ENTITY helpShowTour.accesskey         "m">
+<!ENTITY helpShowTour2.label            "Omvisning i &brandShorterName;">
+<!ENTITY helpShowTour2.accesskey        "m">
 
 <!ENTITY preferencesCmdMac.label        "Innstillinger …">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Tjenester">
 
-<!ENTITY hideThisAppCmdMac.label        "Skjul &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey   "H">
+<!ENTITY hideThisAppCmdMac2.label       "Skjul &brandShorterName;">
+<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Skjul andre">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">

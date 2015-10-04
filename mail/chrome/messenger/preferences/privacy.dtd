@@ -33,11 +33,6 @@
 <!ENTITY showCookies.label "Vis infokapsler …">
 <!ENTITY showCookies.accesskey "V">
 
-<!ENTITY dntTrackingNopref.label2 "Ikke fortell nettsider noe om mine sporingsønsker">
-<!ENTITY dntTrackingNopref.accesskey "I">
 <!ENTITY dntTrackingNotOkay.label2 "Fortell nettsider at jeg ikke ønsker å spores">
 <!ENTITY dntTrackingNotOkay.accesskey "F">
-<!ENTITY dntTrackingOkay.label2 "Fortell nettsider at jeg ønsker å spores">
-<!ENTITY dntTrackingOkay.accesskey "o">
 <!ENTITY doNotTrackInfo.label "Les mer om Sporingsvalg">
-

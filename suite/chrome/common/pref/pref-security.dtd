@@ -8,12 +8,12 @@
 <!ENTITY tracking.label                   "Brukersporing">
 <!ENTITY trackingIntro.label              "Nettsider kan spore hvordan du bruker dem, og på den måten påvirke personvernet ditt.">
 
-<!ENTITY dntTellSites.label               "Fortell nettsteder om mitt ønske om sporing">
-<!ENTITY dntTellSites.accesskey           "F">
-<!ENTITY dntTrackingNotOkay.label         "Jeg ønsker å ikke spores">
-<!ENTITY dntTrackingNotOkay.accesskey     "J">
-<!ENTITY dntTrackingOkay.label            "Jeg tillater at jeg spores">
-<!ENTITY dntTrackingOkay.accesskey        "t">
+<!ENTITY doNotTrack.label                 "Fortell nettsteder at jeg ikke ønsker å spores">
+<!ENTITY doNotTrack.accesskey             "F">
+<!ENTITY trackProtect.label               "Forhindre sporingsaktivitet av kjente nettsted">
+<!ENTITY trackProtect.accesskey           "o">
+<!ENTITY warnTrackContent.label           "Advar meg når kjent sporingsaktivitet oppdages">
+<!ENTITY warnTrackContent.accesskey       "d">
 
 <!ENTITY geoLocation.label                "Stedsavhengig nettlesing">
 <!ENTITY geoIntro.label                   "Nettsider kan spørre etter informasjon om ditt nåværende sted.">

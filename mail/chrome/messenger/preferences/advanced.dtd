@@ -3,18 +3,20 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "Generelt">
-<!ENTITY itemDisplay.label       "Lesing og visning">
+<!ENTITY dataChoicesTab.label    "Datavalg">
 <!ENTITY itemUpdate.label        "Oppdatering">
 <!ENTITY itemNetworking.label    "Nettverk og diskplass">
 <!ENTITY itemCertificates.label  "Sertifikater">
 
 <!-- General Settings -->
-
-<!ENTITY submitTelemetry.label         "Send ytelsesdata">
-<!ENTITY submitTelemetry.accesskey     "n">
-<!ENTITY telemetryInfoLink.label       "Informasjon om Telemetry">
 <!ENTITY enableGlodaSearch.label       "Slå på globalt søk og indeksering">
 <!ENTITY enableGlodaSearch.accesskey   "S">
+<!ENTITY allowHWAccel.label            "Bruk maskinvareakselerasjon når tilgjengelig">
+<!ENTITY allowHWAccel.accesskey        "m">
+<!ENTITY storeType.label               "Meldingslagringstype for nye kontoer:">
+<!ENTITY storeType.accesskey           "d">
+<!ENTITY mboxStore2.label              "Fil per mappe (mbox)">
+<!ENTITY maildirStore.label            "Fil per melding (maildir)">
 
 <!ENTITY scrolling.label               "Rulling">
 <!ENTITY useAutoScroll.label           "Bruk autorulling">
@@ -36,31 +38,18 @@
 <!ENTITY showReturnReceipts.label      "Kvitteringer …">
 <!ENTITY showReturnReceipts.accesskey  "K">
 
-<!-- Display and Reading Settings -->
-<!ENTITY reading.caption               "Lesing">
-<!ENTITY display.caption               "Utseende">
-<!ENTITY showCondensedAddresses.label  "Vis bare visningsnavn for personer som er i adresseboken">
-<!ENTITY showCondensedAddresses.accesskey "V">
+<!-- Data Choices -->
+<!ENTITY telemetrySection.label          "Telemetry">
+<!ENTITY telemetryDesc.label             "Deler info om ytelse, bruksmønster, maskinvare, og tilpasninger til e-postklienten med &vendorShortName;, for å hjelpe gjøre &brandShortName; bedre">
+<!ENTITY enableTelemetry.label           "Slå på Telemetry">
+<!ENTITY enableTelemetry.accesskey       "S">
+<!ENTITY telemetryLearnMore.label        "Les mer">
 
-<!ENTITY autoMarkAsRead.label          "Automatisk merk meldinger som lest">
-<!ENTITY autoMarkAsRead.accesskey      "A">
-<!ENTITY markAsReadNoDelay.label       "Umiddelbart etter de er vist">
-<!ENTITY markAsReadNoDelay.accesskey   "U">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label         "Etter at de er vist i">
-<!ENTITY markAsReadDelay.accesskey     "E">
-<!ENTITY secondsLabel.label            "sekunder">
-<!ENTITY openMsgIn.label               "Åpne meldinger i:">
-<!ENTITY openMsgInNewTab.label         "En ny fane">
-<!ENTITY openMsgInNewTab.accesskey     "n">
-<!ENTITY reuseExpRadio0.label          "Et nytt vindu">
-<!ENTITY reuseExpRadio0.accesskey      "d">
-<!ENTITY reuseExpRadio1.label          "Et eksisterende meldingsvindu">
-<!ENTITY reuseExpRadio1.accesskey      "e">
-<!ENTITY closeMsgOnMoveOrDelete.label  "Lukk meldingsvindu/fane ved flytting eller sletting av melding">
-<!ENTITY closeMsgOnMoveOrDelete.accesskey "L">
+<!ENTITY crashReporterSection.label      "Krasjrapportering">
+<!ENTITY crashReporterDesc.label         "&brandShortName; sender krasjrapporter for å hjelpe &vendorShortName; gjøre e-postklienten mer stabil og sikker">
+<!ENTITY enableCrashReporter.label       "Slå på krasjrapportering">
+<!ENTITY enableCrashReporter.accesskey   "l">
+<!ENTITY crashReporterLearnMore.label    "Les mer">
 
 <!-- Update -->
 <!ENTITY updateApp.label                 "&brandShortName;-oppdateringer:">

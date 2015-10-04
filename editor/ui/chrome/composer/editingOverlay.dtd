@@ -15,8 +15,8 @@
 <!ENTITY saveCmd.accesskey "L">
 <!ENTITY saveAsCmd.label "Lagre som …">
 <!ENTITY saveAsCmd.accesskey "a">
-<!ENTITY saveAsChangeEncodingCmd.label "Lagre og endre tegnkoding">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "o">
+<!ENTITY saveAsChangeEncodingCmd2.label "Lagre og endre tekstkoding">
+<!ENTITY saveAsChangeEncodingCmd2.accesskey "r">
 <!ENTITY publishCmd.label "Publiser">
 <!ENTITY publishCmd.accesskey "P">
 <!ENTITY publishCmd.key "S">

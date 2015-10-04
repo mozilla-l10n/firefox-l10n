@@ -35,3 +35,5 @@
 <!ENTITY customsound.accesskey            "r">
 <!ENTITY browse.label                     "Bla gjennom …">
 <!ENTITY browse.accesskey                 "B">
+
+<!ENTITY defaultSearchEngine.label        "Standard søkemotor">
