@@ -4,13 +4,17 @@
 
 <!ENTITY offlineDialog.title "Frakoblet modus">
 
-<!ENTITY textStartUp "Ved oppstart:">
+<!ENTITY checkAutoDetect.label "Automatisk følg oppdaget tilkoblingstilstand">
+<!ENTITY checkAutoDetect.accesskey "A">
+<!ENTITY titleStartUp "Manuell tilstand ved oppstart:">
 <!ENTITY radioRememberPrevState.label "Husk forrige tilkoblingstilstand">
 <!ENTITY radioRememberPrevState.accesskey "H">
-<!ENTITY radioAskMe.label "Spør meg for tilkoblingstilstand ved oppstart">
-<!ENTITY radioAskMe.accesskey "r">
-<!ENTITY radioAlwaysOnline.label "Alltid start i tilkoblet tilstand">
-<!ENTITY radioAlwaysOnline.accesskey "d">
+<!ENTITY radioAskState.label "Spør meg om tilkoblingstilstanden">
+<!ENTITY radioAskState.accesskey "r">
+<!ENTITY radioAlwaysOnlineState.label "Tilkoblet">
+<!ENTITY radioAlwaysOnlineState.accesskey "T">
+<!ENTITY radioAlwaysOffline.label "Frakoblet">
+<!ENTITY radioAlwaysOffline.accesskey "F">
 
 <!ENTITY textGoingOnline "Send usendte meldinger når jeg går til tilkoblet tilstand?">
 <!ENTITY radioAutoSend.label "Ja">

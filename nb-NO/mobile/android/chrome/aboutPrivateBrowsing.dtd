@@ -2,12 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                  "Privat nettlesing">
+<!ENTITY privatebrowsingpage.title "Privat nettlesing">
+<!ENTITY privatebrowsingpage.title.normal "Du er ikke i privat nettlesing">
 
-<!ENTITY privatebrowsingpage.issueDesc.private      "Du har åpnet en ny privat fane.">
-<!ENTITY privatebrowsingpage.issueDesc.normal       "Du er ikke i en privat fane.">
+<!ENTITY privatebrowsingpage.issueDesc.normal2 "I privat nettlesing vil vi ikke registrere noen nettleserhistorikk eller infokapsler.">
+<!ENTITY privatebrowsingpage.issueDesc.private2 "Vi vil ikke beholde noe av din nettleserhistorikk eller infokapsler.">
 
-<!ENTITY privatebrowsingpage.description            "I en privat fane vil ikke &brandShortName; registrere historikk for nettlesing, søk, nedlastinger eller skjemaer, infokapsler, eller midlertidige Internett-filer. Filer du laster ned og bokmerker som du lager vil likevel beholdes.">
-<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+<!ENTITY privatebrowsingpage.description2 "Bokmerker du legger til, og filer som du laster ned, vil likevel lagres på enheten.">
+<!ENTITY privatebrowsingpage.description.normal "&privatebrowsingpage.issueDesc.normal2; &privatebrowsingpage.description2;">
+<!ENTITY privatebrowsingpage.description.private2 "&privatebrowsingpage.issueDesc.private2; &privatebrowsingpage.description2;">
 
-<!ENTITY privatebrowsingpage.moreInfo               "Selv om denne enheten ikke vil ha oversikt over nettlesingen din, kan Internett-tilbyderen din fortsatt spore hvilke nettsider du besøker.">
+<!ENTITY privatebrowsingpage.link.private "Vil du lese mer?">
+<!ENTITY privatebrowsingpage.link.normal "Åpne en ny privat fane">

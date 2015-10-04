@@ -13,6 +13,10 @@
 <!ENTITY pref.dateformat.long "Lang" >
 <!ENTITY pref.dateformat.short "Kort"  >
 
+<!ENTITY pref.timezones.caption "Tidssone">
+<!ENTITY pref.timezones.label "Velg den nærmeste byen i din tidssone:">
+<!ENTITY pref.timezones.accesskey "V">
+
 <!ENTITY pref.defaults.label "Standardverdier for nye elementer">
 <!ENTITY pref.events.label "Hendelser">
 <!ENTITY pref.tasks.label "Oppgaver">
@@ -28,6 +32,10 @@
 <!ENTITY pref.default_task_offset_current.label "Relativ til nåværende tid">
 <!ENTITY pref.default_task_offset_start.label "Relativ til start">
 <!ENTITY pref.default_task_offset_next_hour.label "Relativ til neste time">
+
+<!ENTITY pref.calendar.todaypane.agenda.caption "I dag-panelet">
+<!ENTITY pref.soondays.label "Kommende-seksjonen viser:">
+<!ENTITY pref.soondays.accesskey "K">
 
 <!ENTITY pref.accessibility.label "Tilgjengelighet" >
 <!ENTITY pref.systemcolors.label "Optimaliser farger for tilgjengelighet" >

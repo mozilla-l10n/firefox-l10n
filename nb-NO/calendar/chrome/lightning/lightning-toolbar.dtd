@@ -8,10 +8,15 @@
 <!ENTITY lightning.toolbar.task.name.accesskey "O">
 
 <!ENTITY lightning.toolbar.sync.label "Synkroniser">
+<!ENTITY lightning.toolbar.sync.tooltip "Oppdater kalendre og synkroniser endringer">
 <!ENTITY lightning.toolbar.delete.label "Slett">
+<!ENTITY lightning.toolbar.delete.tooltip "Slett valgte hendelser eller oppgaver">
 <!ENTITY lightning.toolbar.edit.label "Rediger">
+<!ENTITY lightning.toolbar.edit.tooltip "Rediger valgte hendelser eller oppgaver">
 <!ENTITY lightning.toolbar.gototoday.label "Gå til i dag">
+<!ENTITY lightning.toolbar.gototoday.tooltip "Gå til i dag">
 <!ENTITY lightning.toolbar.print.label "Skriv ut">
+<!ENTITY lightning.toolbar.print.tooltip "Skriv ut hendelser eller oppgaver">
 
 <!-- Mode Toolbar -->
 <!ENTITY lightning.toolbar.calendar.label     "Kalender">
@@ -23,7 +28,9 @@
 
 <!-- Toolbar write button -->
 <!ENTITY lightning.toolbar.newevent.label     "Hendelse">
+<!ENTITY lightning.toolbar.newevent.tooltip   "Lag en ny hendelse">
 <!ENTITY lightning.toolbar.newtask.label      "Oppgave">
+<!ENTITY lightning.toolbar.newtask.tooltip    "Lag en ny oppgave">
 
 <!-- Calendar and Task Mode Toolbar -->
 <!ENTITY lightning.toolbar.day.label                 "Dag">
@@ -34,7 +41,7 @@
 <!ENTITY lightning.toolbar.multiweek.accesskey       "F">
 <!ENTITY lightning.toolbar.month.label               "Måned">
 <!ENTITY lightning.toolbar.month.accesskey           "M">
-<!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton.tooltip
+<!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton1.tooltip
      from messenger.dtd -->
 <!ENTITY lightning.toolbar.appmenuButton.label       "AppMenu">
 <!ENTITY lightning.toolbar.appmenuButton1.tooltip    "Viser &brandShortName;-menyen">

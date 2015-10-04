@@ -145,6 +145,8 @@
 <!ENTITY messagePaneVertical.accesskey "V">
 <!ENTITY showFolderPaneCmd.label "Mappepanel">
 <!ENTITY showFolderPaneCmd.accesskey "M">
+<!ENTITY showFolderPaneColsCmd.label "Kolonner i mappepanelet">
+<!ENTITY showFolderPaneColsCmd.accesskey "K">
 <!ENTITY showMessageCmd.label "Meldingsvindu">
 <!ENTITY showMessageCmd.accesskey "M">
 
@@ -190,6 +192,8 @@
 <!ENTITY sortByFromCmd.accesskey "F">
 <!ENTITY sortByRecipientCmd.label "Mottaker">
 <!ENTITY sortByRecipientCmd.accesskey "M">
+<!ENTITY sortByCorrespondentCmd.label "Korrekspondenter">
+<!ENTITY sortByCorrespondentCmd.accesskey "K">
 <!ENTITY sortByUnreadCmd.label "Lest">
 <!ENTITY sortByUnreadCmd.accesskey "L">
 <!ENTITY sortByOrderReceivedCmd.label "Mottatt rekkefølge">
@@ -593,7 +597,9 @@
 <!ENTITY manageTags.accesskey "B">
 
 <!-- Folder Pane -->
-<!ENTITY folderColumn.label "Navn">
+<!ENTITY folderNameColumn.label "Navn">
+<!ENTITY folderUnreadColumn.label "Ulest">
+<!ENTITY folderTotalColumn.label "Totalt">
 <!ENTITY folderSizeColumn.label "Størrelse">
 
 <!-- Folder Pane Context Menu -->
@@ -654,6 +660,7 @@
 <!ENTITY threadColumn.label "Tråd">
 <!ENTITY fromColumn.label "Fra">
 <!ENTITY recipientColumn.label "Mottaker">
+<!ENTITY correspondentColumn.label "Korrespondenter">
 <!ENTITY subjectColumn.label "Emne">
 <!ENTITY dateColumn.label "Dato">
 <!ENTITY priorityColumn.label "Prioritet">
@@ -676,6 +683,7 @@
 <!ENTITY threadColumn2.tooltip "Vis meldingstråder">
 <!ENTITY fromColumn2.tooltip "Sorter etter fra">
 <!ENTITY recipientColumn2.tooltip "Sorter etter mottaker">
+<!ENTITY correspondentColumn2.tooltip "Sorter etter korrespondenter">
 <!ENTITY subjectColumn2.tooltip "Sorter etter emne">
 <!ENTITY dateColumn2.tooltip "Sorter etter dato">
 <!ENTITY priorityColumn2.tooltip "Sorter etter prioritet">

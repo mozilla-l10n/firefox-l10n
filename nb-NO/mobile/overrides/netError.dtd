@@ -17,11 +17,17 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Serveren ikke funnet">
-<!ENTITY dnsNotFound.longDesc3 "
+<!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "
 <ul>
   <li>Kontroller om det er skrivefeil i adressen, for eksempel
     <strong>ww</strong>.eksempel.no istedenfor
     <strong>www</strong>.eksempel.no</li>
+    <div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>Søk</button>
+    </div>
   <li>Hvis du ikke klarer å laste noen nettsider, kontroller data- eller Wi-Fi-forbindelsen til enheten din.
     <button id='wifi'>Slå på Wi-Fi</button>
   </li>
@@ -43,10 +49,16 @@
 ">
 
 <!ENTITY malformedURI.title "Adressen er ugyldig">
-<!ENTITY malformedURI.longDesc "
+<!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "
 <ul>
   <li>Nettsideadresser skrives vanligvis på formen
     <strong>http://www.eksempel.no/</strong></li>
+    <div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>Søk</button>
+    </div>
   <li>Kontroller at du bruker fremover-skråstrek (f.eks.
     <strong>/</strong>).</li>
 </ul>
@@ -59,6 +71,8 @@
 <!ENTITY notCached.longDesc "<p>Det foerspurte dokumentet er ikke tilgjengelig i &brandShortName; sitt hurtiglager.</p><ul><li>Av sikkerhetshensyn henter ikke &brandShortName; automatisk inn sensitive dokumenter på nytt.</li><li>Trykk Prøv igjen for å hente inn dokumentet fra nettsiden på nytt.</li></ul>">
 
 <!ENTITY netOffline.title "Frakoblet modus">
+<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY netOffline.longDesc3 "
 <ul>
   <li>Prøv igjen. &brandShortName; vil forsøke åpne en tilkobling og laste inn siden på nytt.
@@ -104,6 +118,8 @@
 ">
 
 <!ENTITY proxyResolveFailure.title "Klarte ikke finne proxy">
+<!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "
 <ul>
   <li>Kontroller at proxyinnstillingene er riktige.</li>
@@ -148,6 +164,8 @@ midlertidig, og du kan prøve igjen senere.</li>
 </ul>
 ">
 
+<!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY sharedLongDesc3 "
 <ul>
   <li>Siden kan være midlertidig utilgjengelig, eller opptatt. Prøv igjen om en stund.</li>
@@ -157,8 +175,8 @@ midlertidig, og du kan prøve igjen senere.</li>
 </ul>
 ">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blokkert av sikkerhetspolicy på innholdet">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; forhindret nettsiden fra å vises på denne måten fordi nettsiden har en sikkerhetspolicy som forhindrer det.</p>">
+<!ENTITY cspBlocked.title "Blokkert av sikkerhetspolicy">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; forhindret nettsiden fra å lastes inn på denne måten fordi nettsiden har en sikkerhetspolicy som forbyr det.</p>">
 
 <!ENTITY corruptedContentError.title "Ødelagt innhold">
 <!ENTITY corruptedContentError.longDesc "<p>Siden du forsøker å vise kan ikke åpnes på grunn av en feil i dataoverføringen.</p><ul><li>Kontakt nettstedseierne og informer dem om dette problemet.</li></ul>">

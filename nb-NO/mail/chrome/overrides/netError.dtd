@@ -163,18 +163,22 @@ midlertidig, og du kan prøve igjen senere.</li>
 <p>Nettstedseiere som tror at deres nettsted er feilaktig rapportert som et angrepsnettsted kan <a href='http://www.stopbadware.org/home/reviewinfo' >be om å bli vurdert på nytt</a>.</p>
 ">
 
+<!ENTITY unwantedBlocked.title "Mistenkt nettsted med uønsket programvare!">
+<!ENTITY unwantedBlocked.longDesc "
+<p>Nettsted med uønsket programvare forsøker å installere programmer som kan være villedende, og påvirke systemet ditt på uventede måter.</p>
+">
+
 <!ENTITY phishingBlocked.title "Mistenkt nettsvindel!">
 <!ENTITY phishingBlocked.longDesc "
 <p>Dersom du skriver inn personlig informasjon på denne nettsiden kan føre til identitetstyveri eller annen svindel.</p>
 <p>Disse typene nettsvindler brukes i såkalte «phishing-angrep», hvor forfalskede nettsider og e-post imiterer kilder som du stoler på.</p>
 ">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blokkert av sikkerhetspolicy">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; forhindret nettsiden fra å vises på denne måten fordi nettsiden har en sikkerhetspolicy som forhindrer det.</p>">
+<!ENTITY cspBlocked.title "Blokkert av sikkerhetspolicy">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; forhindret nettsiden fra å lastes inn på denne måten fordi nettsiden har en sikkerhetspolicy som forhindrer det.</p>">
 
 <!ENTITY corruptedContentError.title "Ødelagt innhold">
 <!ENTITY corruptedContentError.longDesc "<p>Siden du forsøker å vise kan ikke åpnes på grunn av en feil i dataoverføringen.</p><ul><li>Kontakt nettstedseierne og informer dem om dette problemet.</li></ul>">
-
 
 <!ENTITY securityOverride.linkText "Eller du kan lage en unntaksregel …">
 <!ENTITY securityOverride.getMeOutOfHereButton "Få meg bort herfra">

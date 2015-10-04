@@ -7,10 +7,10 @@
 <!-- This button is for the progressive disclosure of additional editing functionality -->
 
 <!-- These strings are for use specifically in the editor's link dialog. -->
-<!ENTITY windowTitle.label "Lagre og endre tegnkoding">
+<!ENTITY windowTitle2.label "Lagre og endre tekstkoding">
 <!ENTITY documentTitleTitle.label "Sidetittel">
-<!ENTITY documentCharsetTitle.label "Tegnsett">
-<!ENTITY documentCharsetDesc.label "Velg tegnsettet du vil lagre dokumentet i:">
+<!ENTITY documentCharsetTitle2.label "Tekstkoding">
+<!ENTITY documentCharsetDesc2.label "Velg tekstkodingen du ønsker å lagre dokumentet med:">
 <!ENTITY documentExportToText.label "Eksporter til tekst">
 
 
