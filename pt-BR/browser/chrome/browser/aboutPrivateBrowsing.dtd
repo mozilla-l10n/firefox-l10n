@@ -7,20 +7,20 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
 
 <!ENTITY privateBrowsing.title                 "Navegação privativa">
+
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
      Width of the Private Browsing section. This should depend primarily on the
      length of the headers and text, but should be roughly 1.5 times the width
      of the Tracking Protection section, and in general not much larger than
      30em to prevent the sections from wrapping on smaller window sizes.
      -->
-
 <!ENTITY aboutPrivateBrowsing.width            "30em">
+
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
      aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
      These strings will be replaced by aboutPrivateBrowsing.forgotten and
      aboutPrivateBrowsing.kept when the new visual design lands (bug 1192625).
      -->
-
 <!ENTITY aboutPrivateBrowsing.title            "Navegação privativa">
 <!ENTITY aboutPrivateBrowsing.subtitle         "Nesta janela, o &brandShortName; não memorizará o histórico.">
 
@@ -38,6 +38,7 @@
 
 <!ENTITY aboutPrivateBrowsing.note1            "Por favor, note que o seu empregador ou provedor de Internet podem rastrear as páginas que você visitou.">
 <!ENTITY aboutPrivateBrowsing.learnMore        "Saiba mais.">
+
 <!-- LOCALIZATION NOTE (trackingProtection.width):
      Width of the Tracking Protection section. It is fine for the enabled or
      disabled indicator or the words in the title to wrap to the next line, but
@@ -46,13 +47,12 @@
      Note that the required space may vary between platforms because fonts are
      different, so testing on Windows, Mac, and Linux is encouraged.
      -->
-
 <!ENTITY trackingProtection.width              "22em">
 <!ENTITY trackingProtection.title              "Proteção contra rastreamento">
+
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
-
 <!ENTITY trackingProtection.state.width        "6ch">
 <!ENTITY trackingProtection.state.enabled      "Ligado">
 <!ENTITY trackingProtection.state.disabled     "Delisgado">
