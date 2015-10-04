@@ -5,7 +5,7 @@
 
 <!ENTITY setupButton.label          "Setare &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; vă permite să accesați istoricul, semnele de carte, parolele și filele deschise de pe toate dispozitivele pe care le aveți.">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; vă permite să accesați istoricul, semnele de carte, parolele și filele deschise pe toate dispozitivele.">
 <!-- The page shown when logged in... -->
 <!-- Login error feedback -->
 
@@ -78,18 +78,18 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.label                "Uită acest e-mail">
 
 <!ENTITY welcome.description "Accesați filele dumneavoastră, semnele de carte, parolele și altele ori de câte ori folosiți &brandShortName;.">
-<!ENTITY welcome.signIn.label "Autentificare">
+<!ENTITY welcome.signIn.label "Autentifică-te">
 <!ENTITY welcome.createAccount.label "Creează cont">
 
 <!ENTITY welcome.useOldSync.label "Utilizați o versiune mai veche de Sincronizare?">
 
 <!ENTITY signedOut.caption            "Ia webul cu tine">
-<!ENTITY signedOut.description        "Sincronizați semnele de carte, istoricul, file, parole, suplimente și preferințe pe toate dispozitivele">
-<!ENTITY signedOut.accountBox.title   "Conectare cu &syncBrand.fxAccount.label;">
+<!ENTITY signedOut.description        "Sincronizează semnele de carte, istoricul, filele, parolele, suplimentele și preferințele pe toate dispozitivele.">
+<!ENTITY signedOut.accountBox.title   "Conectează-te cu un &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Creează cont">
 <!ENTITY signedOut.accountBox.signin  "Autentificare">
 
-<!ENTITY signedIn.engines.label       "Sincronizare pe toate dispozitivele">
+<!ENTITY signedIn.engines.label       "Sincronizează pe toate dispozitivele">
 
 <!ENTITY mobilePromo.start            "Descarcă Firefox pentru ">
 <!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->

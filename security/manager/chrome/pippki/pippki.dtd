@@ -3,12 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Values for changepassword.xul -->
 
-<!ENTITY setPassword.title  "Schimbare parolă generală">
+<!ENTITY setPassword.title  "Schimbă parola generală">
 <!ENTITY setPassword.tokenName.label "Dispozitiv de securitate">
 <!ENTITY setPassword.oldPassword.label "Parola actuală:">
 <!ENTITY setPassword.newPassword.label "Parola nouă:">
 <!ENTITY setPassword.reenterPassword.label "Parola nouă (din nou):">
-<!ENTITY setPassword.meter.label "Calitatea parolei">
+<!ENTITY setPassword.meter.label "Indicatorul de calitate al parolei">
 <!-- Values for resetpassword.xul -->
 
 <!ENTITY resetPasswordButtonLabel "Resetează">

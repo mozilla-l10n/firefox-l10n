@@ -31,7 +31,7 @@
 <!ENTITY  passwordExceptions.label      "Excepții…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
-<!ENTITY  useMasterPassword.label        "Utilizează o parolă generală">
+<!ENTITY  useMasterPassword.label        "Folosește o parolă generală">
 <!ENTITY  useMasterPassword.accesskey    "U">
 <!ENTITY  changeMasterPassword.label     "Schimbă parola generală…">
 <!ENTITY  changeMasterPassword.accesskey "m">
