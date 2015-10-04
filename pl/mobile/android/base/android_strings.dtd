@@ -167,7 +167,7 @@
 <!ENTITY pref_cookies_disabled "Nie akceptuj">
 
 <!ENTITY pref_tap_to_load_images_title "Obrazki">
-<!ENTITY pref_tap_to_load_images_summary "Wczytywanie obrazków po stuknięciu">
+<!ENTITY pref_tap_to_load_images_summary2 "Wczytywanie obrazków po ich przytrzymaniu">
 
 <!ENTITY pref_tracking_protection_title "Ochrona przed śledzeniem">
 <!ENTITY pref_tracking_protection_summary3 "Włączona w trybie prywatnym">
