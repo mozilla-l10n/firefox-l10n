@@ -191,7 +191,7 @@
 <!ENTITY addressButton.tooltip "Scegli un destinatario dalla Rubrica">
 <!ENTITY attachButton.tooltip "Inserisci un allegato">
 <!ENTITY spellingButton.tooltip "Controlla l'ortografia del testo selezionato o dell'intero messaggio">
-<!ENTITY statusLanguageText.tooltip "lingua per il controllo ortografico">
+<!ENTITY statusLanguageText.tooltip "Lingua per il controllo ortografico">
 <!ENTITY saveButton.tooltip "Salva questo messaggio">
 <!ENTITY cutButton.tooltip "Taglia">
 <!ENTITY copyButton.tooltip "Copia">
