@@ -16,5 +16,5 @@
 <!ENTITY spellCheckInline.accesskey           "b">
 <!ENTITY languagePopup.label                  "Nyelv:">
 <!ENTITY languagePopup.accessKey              "N">
-<!ENTITY moreDictionaries.label               "További szótárak letöltése…">
+<!ENTITY moreDictionaries.label               "&amp;További szótárak letöltése…">
 <!ENTITY noSpellCheckAvailable.label          "Nincsenek szótárak telepítve">
