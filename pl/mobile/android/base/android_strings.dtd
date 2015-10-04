@@ -166,6 +166,9 @@
 <!ENTITY pref_cookies_not_accept_foreign "Akceptuj, z wyjątkiem ciasteczek zewnętrznych dostawców">
 <!ENTITY pref_cookies_disabled "Nie akceptuj">
 
+<!ENTITY pref_tap_to_load_images_title "Obrazki">
+<!ENTITY pref_tap_to_load_images_summary "Wczytywanie obrazków po stuknięciu">
+
 <!ENTITY pref_tracking_protection_title "Ochrona przed śledzeniem">
 <!ENTITY pref_tracking_protection_summary3 "Włączona w trybie prywatnym">
 <!ENTITY pref_donottrack_title "Ograniczanie śledzenia">
