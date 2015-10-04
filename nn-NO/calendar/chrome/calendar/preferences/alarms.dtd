@@ -7,15 +7,15 @@
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 
-<!ENTITY pref.alarmgoesoff.label "Ved alarm:">
-<!ENTITY pref.playasound "Spel ein lyd">
+<!ENTITY pref.alarmgoesoff.label "Ved forfall:">
+<!ENTITY pref.playasound "Spel av ein lyd">
 <!ENTITY pref.calendar.alarms.playsound.accessKey "S">
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "Bruk standardlyd">
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "r">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Bla gjennom …">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "B">
-<!ENTITY pref.calendar.alarms.sound.preview.label "Spel av">
-<!ENTITY pref.calendar.alarms.sound.preview.accessKey "p">
+<!ENTITY pref.calendar.alarms.sound.play.label "Spel av">
+<!ENTITY pref.calendar.alarms.sound.play.accessKey "P">
 <!ENTITY pref.showalarmbox "Vis alarmboks">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "V">
 <!ENTITY pref.missedalarms "Vis tapte alarmar">
@@ -31,8 +31,6 @@
 <!ENTITY pref.defalarmlen4events.accesskey "v">
 <!ENTITY pref.defalarmlen4todos.label "Standard varslingstid før ei oppgåve:">
 <!ENTITY pref.defalarmlen4todos.accesskey "g">
-<!ENTITY pref.defaultemail.label "Standard leveringsadresse på alarmar:">
-<!ENTITY pref.defaulttext.label "Standard tekst på alarmar:">
 
-<!ENTITY pref.defaultsnoozelength.label "Standard pause-lengde:" >
+<!ENTITY pref.defaultsnoozelength.label "Standard pause-lengd:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "S">

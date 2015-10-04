@@ -4,27 +4,33 @@
 
 
 <!ENTITY  no_space_to_start_error "Det er ikkje nok ledig plass for at &brandShortName; kan starta.">
-<!ENTITY  error_loading_file "Ein feil oppstod ved freistnad på å lasta påkravde filer for køyring av &brandShortName;">
+<!ENTITY  error_loading_file "Ein feil oppstod ved freistnad på å lasta påkravde filer for å køyra &brandShortName;">
+
+<!ENTITY  onboard_start_message3 "Bruk nettet med &brandShortName;">
+<!ENTITY  onboard_start_subtext3 "Gjer den mobile surfeopplevinga heilt til di eiga.">
+<!ENTITY  onboard_start_button_account "Logg inn på &brandShortName;">
+<!ENTITY  onboard_start_button_browser "Start nettlesing">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "Bokmerke">
 <!ENTITY  history_title "Historikk">
 <!ENTITY  reading_list_title "Leseliste">
+<!ENTITY  recent_tabs_title "Nylege faner">
 
 <!ENTITY  switch_to_tab "Byt til fane">
 
 <!ENTITY  crash_reporter_title "&brandShortName; krasjrapportering">
-<!ENTITY  crash_message2 "&brandShortName; fekk eit problem og krasja. Faner som var opne vil vera tilgjengelege på &brandShortName; si Startside etter du startar på nytt.">
+<!ENTITY  crash_message2 "&brandShortName; fekk eit problem og krasja. Faner som var opne vil vera tilgjengelege på &brandShortName; si Startside etter omstart.">
 <!ENTITY  crash_send_report_message3 "Fortel &vendorShortName; om dette krasjet så dei kan retta det">
 <!ENTITY  crash_include_url2 "Inkluder adressa til nettstaden problemet oppstod på">
-<!ENTITY  crash_sorry "Me orsakar">
+<!ENTITY  crash_sorry "Me beklagar">
 <!ENTITY  crash_comment "Legg til ein kommentar (kommentarar er offentleg synlege)">
 <!ENTITY  crash_allow_contact2 "Tillat &vendorShortName; å kontakta meg om denne rapporten">
 <!ENTITY  crash_email "Di e-postadresse">
-<!ENTITY  crash_closing_alert "Avslutt utan å senda krasjrapport?">
+<!ENTITY  crash_closing_alert "Avslutta utan å senda krasjrapport?">
 <!ENTITY  sending_crash_report "Send krasjrapport \u2026">
-<!ENTITY  crash_close_label "Lukk">
+<!ENTITY  crash_close_label "Lat att">
 <!ENTITY  crash_restart_label "Start &brandShortName; på nytt">
 <!ENTITY  exit_label "Avslutt">
 
@@ -33,9 +39,10 @@
 
 <!ENTITY choose_file "Vel fil">
 
-<!ENTITY url_bar_default_text "Skriv inn søk eller adresse">
+<!ENTITY url_bar_default_text2 "Søk eller skriv inn ei adresse">
 
 <!ENTITY bookmark "Bokmerke">
+<!ENTITY bookmark_remove "Fjern bokmerke">
 <!ENTITY bookmark_added "Bokmerke er lagt til">
 <!ENTITY bookmark_removed "Bokmerke fjerna">
 <!ENTITY bookmark_updated "Bokmerke oppdatert">
@@ -43,8 +50,8 @@
 
 <!ENTITY history_today_section "I dag">
 <!ENTITY history_yesterday_section "I går">
-<!ENTITY history_week_section "7 dagar sidan">
-<!ENTITY history_older_section "Eldre enn 7 dagar">
+<!ENTITY history_week_section2 "Sist veke">
+<!ENTITY history_older_section2 "Sist månad">
 
 <!ENTITY go "Gå">
 <!ENTITY search "Søk">
@@ -56,29 +63,85 @@
 <!ENTITY site_security "Nettstadtryggleik">
 <!ENTITY edit_mode_cancel "Avbryt">
 
-<!ENTITY close_tab "Lukk fane">
+<!ENTITY close_tab "Lat att fane">
 <!ENTITY one_tab "1 fane">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; faner">
 <!ENTITY new_tab_opened "Ny fane opna">
+<!ENTITY new_private_tab_opened "Ny privat fane opna">
+<!-- Localization note (switch_button_message): This string should be as short
+     as possible because it's shown as a label in a toast.  Ideally, this string
+     is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "BYT">
 
 <!ENTITY settings "Innstillingar">
 <!ENTITY settings_title "Innstillingar">
 <!ENTITY pref_category_advanced "Avansert">
 <!ENTITY pref_category_customize "Tilpass">
+<!ENTITY pref_category_customize_summary "Heim, søk, faner, import">
+<!ENTITY pref_category_customize_alt_summary "Heim, søk, faner, opna seinare, importere">
+
+<!-- Localization note (pref_category_language) : This is the preferences
+     section in which the user picks the locale in which to display Firefox
+     UI. The locale includes both language and region concepts. -->
+<!ENTITY pref_category_language "Språk">
+<!ENTITY pref_category_language_summary "Endra nettlesarspråk">
+<!ENTITY pref_browser_locale "Nettlesarspråk">
+
+<!-- Localization note (locale_system_default) : This string indicates that
+     Firefox will use the locale currently selected in Android's settings
+     to display browser chrome. -->
+<!ENTITY locale_system_default "Systemstandard">
+
+<!-- Localization note (overlay_share_label) : This is the label that appears
+     in Android's intent chooser when sending a link to Firefox to bookmark,
+     send to another device, or add to Reading List. -->
+<!ENTITY overlay_share_label "Legg til i &brandShortName;">
+
+<!-- Localization note (overlay_share_bookmark_btn_label) : This string is
+     used in the share overlay menu to select an action. It is the verb
+     "to bookmark", not the noun "a bookmark". -->
+<!ENTITY overlay_share_bookmark_btn_label "Bokmerke">
+<!ENTITY overlay_share_reading_list_btn_label "Legg til i leseliste">
+<!ENTITY overlay_share_bookmark_btn_label_already "Er allereie i bokmerke">
+<!ENTITY overlay_share_reading_list_btn_label_already "Er allereie i leselista">
+<!ENTITY overlay_share_send_other "Send til anna eining">
+
+<!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
+     share overlay menu to represent the "Send Tab" action when the user
+     either has not set up Sync, or has no other devices to send a tab
+     to. -->
+<!ENTITY overlay_share_send_tab_btn_label "Send til ei anna eining">
+<!ENTITY overlay_share_no_url "Fann inga lekkje i denne delinga">
+<!ENTITY overlay_share_select_device "Vel eining">
+<!-- Localization note (overlay_no_synced_devices) : Used when the menu option
+     to send a tab to a synced device is pressed and no other synced devices
+     are found. -->
+<!ENTITY overlay_no_synced_devices "Ingen Firefox-konto-tilkopla einingar funne">
+<!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
+     to send a tab to a synced device is pressed and there is an error
+     connecting to the server so the tab could not be sent. The text should be
+     divided into two lines (use the newline escape character, "\n", between
+     them): the first notifying the user about the failure and the second
+     telling the user what to do about it. -->
+<!ENTITY overlay_share_tab_not_sent "Klarte ikkje å senda fana di.\nVer snill og prøv omatt seinare.">
+
 <!ENTITY pref_category_search3 "Søk">
 <!ENTITY pref_category_search_summary "Tilpass søkjetilbydarar">
 <!ENTITY pref_category_display "Vising">
+<!ENTITY pref_category_display_summary "Tekst, tittellinje, nettlesing i fullskjerm">
 <!ENTITY pref_category_privacy_short "Personvern">
+<!ENTITY pref_category_privacy_summary "Handsama passord, infokapslar, sporing og data">
 <!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_vendor_summary "Om &brandShortName;, OSS og dataval">
 <!ENTITY pref_category_datareporting "Dataval">
 <!ENTITY pref_learn_more "Les meir">
-<!ENTITY pref_category_installed_search_engines "Installerte søkemotorar">
+<!ENTITY pref_category_installed_search_engines "Installerte søkjemotorar">
 <!ENTITY pref_category_add_search_providers "Legg til fleire søkjetilbydarar">
-<!ENTITY pref_category_search_restore_defaults "Still tilbake søkjetilbydarar">
-<!ENTITY pref_search_restore_defaults "Still tilbake til standardverdiar">
-<!ENTITY pref_search_restore_defaults_summary "Still tilbake til standardverdiar">
+<!ENTITY pref_category_search_restore_defaults "Gjenopprett søkjetilbydarar">
+<!ENTITY pref_search_restore_defaults "Gjenopprett standardverdiar">
+<!ENTITY pref_search_restore_defaults_summary "Gjenopprett standardverdiar">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
@@ -87,45 +150,70 @@
 <!ENTITY pref_search_hint "TIPS: Legg til ein nettstad som søkjetilbydar ved å lang-trykkje på søkjefeltet og deretter velja &formatI;-ikonet.">
 <!ENTITY pref_category_devtools "Utvklarverktøy">
 <!ENTITY pref_developer_remotedebugging "Ekstern debugging">
+<!ENTITY pref_category_logins "Innloggingar">
 <!ENTITY pref_remember_signons "Hugs passord">
+<!ENTITY pref_manage_logins "Handsam innloggingar">
 
 <!ENTITY pref_category_home "Heim">
 <!ENTITY pref_category_home_summary "Tilpass startsida.">
 <!ENTITY pref_category_home_panels "Panel">
-<!ENTITY pref_home_add_panel "Leggt il panel">
 <!ENTITY home_add_panel_title "Legg til nytt panel">
-<!ENTITY home_add_panel_empty "Orsak, me klarte ikkje å finna panel som kan leggjast til.">
+<!ENTITY home_add_panel_empty "Beklagar, me klarte ikkje å finna panel som kan leggjast til.">
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
 <!ENTITY home_add_panel_installed "\'&formatS;\' lagt til på startsida">
 <!ENTITY pref_category_home_content_settings "Innhaldsinnstillingar">
 <!ENTITY pref_home_updates "Automatiske oppdateringar">
-<!ENTITY pref_home_updates_enabled "slått på">
+<!ENTITY pref_home_updates_enabled "Påslått">
 <!ENTITY pref_home_updates_wifi "Berre med Wi-Fi">
+<!ENTITY pref_home_suggested_sites "Vis nettstadsforslag">
+<!ENTITY pref_home_suggested_sites_summary "Viser snarvegar til nettstadar på startsida di som me trur du kan synast er interessante">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Tilpass">
 <!ENTITY pref_header_display "Vis">
 <!ENTITY pref_header_privacy_short "Personvern">
 <!ENTITY pref_header_help "Hjelp">
+<!ENTITY pref_header_language "Språk">
 <!ENTITY pref_header_vendor "&vendorShortName;">
-<!ENTITY pref_header_devtools "Utviklarverktøy">
+<!ENTITY pref_header_devtools "Utviklarverkty">
 
 <!ENTITY pref_cookies_menu "Infokapslar">
 <!ENTITY pref_cookies_accept_all "påslått">
 <!ENTITY pref_cookies_not_accept_foreign "Påslått, med unntak for tredjeparts">
 <!ENTITY pref_cookies_disabled "Avslått">
 
-<!ENTITY pref_donottrack_menu "Sporing">
-<!ENTITY pref_donottrack_disallow_tracking "Fortel nettstadar at eg ikkje ønskjer å verta spora">
-<!ENTITY pref_donottrack_allow_tracking "Fortel nettstadar at eg ønskjer å verta spora">
-<!ENTITY pref_donottrack_no_pref "Ikkje fortel nettstadar noko om sporingsvala mine">
+<!ENTITY pref_tracking_protection_title "Sporingsvern">
+<!ENTITY pref_tracking_protection_summary "&brandShortName; vil hindra nettstadar i å spora deg">
+<!ENTITY pref_donottrack_title "Ikkje spor">
+<!ENTITY pref_donottrack_summary "&brandShortName; vil fortelja nettstadar at du ikkje ynskjer å verta spora">
+
+<!ENTITY tab_queue_toast_message2 "Fane i kø &brandShortName;">
+<!ENTITY tab_queue_toast_action "Opna no">
+<!ENTITY tab_queue_prompt_title "Opna fleire lekkjer?">
+<!ENTITY tab_queue_prompt_text2 "Opna dei utan å byta til &brandShortName; kvar gong.">
+<!ENTITY tab_queue_prompt_tip_text "du kan endra dette seinare i Innstillingar">
+<!ENTITY tab_queue_prompt_positive_action_button "Slå på">
+<!ENTITY tab_queue_prompt_negative_action_button "Ikkje no">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
+<!-- Localization note (tab_queue_notification_text_plural2) : The
+     formatD is replaced with the number of tabs queued.  The
+     number of tabs queued is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY tab_queue_notification_text_plural2 "&formatD; faner ventar">
+<!-- Localization note (tab_queue_notification_text_singular2) : This is the
+     text of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_text_singular2 "1 fane ventar">
 
 <!ENTITY pref_char_encoding "Teiknkoding">
 <!ENTITY pref_char_encoding_on "Vis meny">
 <!ENTITY pref_char_encoding_off "Ikkje vis meny">
-<!ENTITY pref_clear_private_data "Slett private data">
+<!ENTITY pref_clear_private_data2 "Tøm no">
+<!ENTITY pref_clear_private_data_category "Slett private data">
+<!ENTITY pref_clear_on_exit_title2 "Slett ved avslutting">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; vil automatisk sletta dataa dine kvar gong du vel \u0022Quit\u0022 frå hovudmenyen">
+<!ENTITY pref_clear_on_exit_dialog_title "Vel kva for data som skal slettast">
 <!ENTITY pref_plugins "Programtillegg">
 <!ENTITY pref_plugins_enabled "Slå på">
 <!ENTITY pref_plugins_tap_to_play "Trykk for å spela av">
@@ -133,8 +221,8 @@
 <!ENTITY pref_text_size "Tekststorleik">
 <!ENTITY pref_reflow_on_zoom4 "Oppdatering av tekstflyt">
 <!ENTITY pref_restore "Faner">
-<!ENTITY pref_restore_always "Alltid bygg oppatt">
-<!ENTITY pref_restore_quit "Ikkje bygg oppatt etter avslutting av &brandShortName;">
+<!ENTITY pref_restore_always "Alltid gjenopprett">
+<!ENTITY pref_restore_quit "Ikkje gjenopprett etter avslutting av &brandShortName;">
 <!ENTITY pref_font_size_tiny "Bitte lita">
 <!ENTITY pref_font_size_small "Lita">
 <!ENTITY pref_font_size_medium "Medium">
@@ -152,34 +240,41 @@ size. -->
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY pref_font_size_preview_text "Den snøgge oransje reven overgår forventingane dine med meir fart, fleksibilitet og tryggleik. Som ein ideell organisasjon er vi frie til å koma med nye ting på dine vegne utan noko press om å kompromissa. Det tyder ei betre oppleving for deg og ei lysare framtid for nettet.">
 
+<!ENTITY pref_media_autoplay_enabled "Tillat autoavspeling">
+<!ENTITY pref_media_autoplay_enabled_summary "Vel om nettsider automatisk kan spela av videoar og anna medieinnhald">
+<!ENTITY pref_zoom_force_enabled "alltid slå på zoom">
+<!ENTITY pref_zoom_force_enabled_summary "Tving overstyring slik at du kan zoome på alle sider">
+
 <!ENTITY pref_use_master_password "Bruk eit hovudpassord">
-<!ENTITY pref_show_product_announcements "Vis produktnyhende">
 <!ENTITY pref_sync "Sync">
-<!ENTITY pref_search_suggestions "Vis søkeforslag">
+<!ENTITY pref_sync_summary "Synkroniser faner, bokmerke, passord, historikk">
+<!ENTITY pref_search_suggestions "Vis søkjeforslag">
 <!ENTITY pref_import_android "Importer frå Android">
+<!ENTITY pref_import_android_summary "Importer bokmerke og historikk frå den opphavelege nettlesaren">
 <!ENTITY pref_private_data_history2 "Nettlesarhistorikk">
-<!ENTITY pref_private_data_formdata "Skjema- og søkehistorikk">
+<!ENTITY pref_private_data_searchHistory "Søkjehistorikk">
+<!ENTITY pref_private_data_formdata2 "Skjemahistorikk">
 <!ENTITY pref_private_data_cookies2 "Infokapslar og aktive innloggingar">
 <!ENTITY pref_private_data_passwords "Lagra passord">
 <!ENTITY pref_private_data_cache "Snøgglager">
-<!ENTITY pref_private_data_offlineApps "Fråkopla nettstaddata">
+<!ENTITY pref_private_data_offlineApps "Fråkopla nettstad-data">
 <!ENTITY pref_private_data_siteSettings2 "Nettstadinnstillingar">
 <!ENTITY pref_private_data_downloadFiles2 "Nedlastingar">
 
 
 <!ENTITY pref_about_firefox "Om &brandShortName;">
-<!ENTITY pref_vendor_faqs "FAQ">
+<!ENTITY pref_vendor_faqs "FAQ/OSS(Ofte Stilte Spørsmål)">
 <!ENTITY pref_vendor_feedback "Gje tilbakemelding">
 
 <!ENTITY pref_dialog_set_default "Vel som standard">
 <!ENTITY pref_dialog_default "Standard">
 <!ENTITY pref_dialog_remove "Fjern">
 
-<!ENTITY pref_search_last_toast "Du kan ikkje fjerna eller deaktivere den siste søkemotoren.">
+<!ENTITY pref_search_last_toast "Du kan ikkje fjerna eller deaktivera den siste søkjemotoren.">
 
 <!ENTITY pref_panels_show "Vis">
 <!ENTITY pref_panels_hide "Gøym">
-<!ENTITY pref_panels_reorder "Endra rekkjefølgje">
+<!ENTITY pref_panels_reorder "Endra rekkjefylgje">
 <!ENTITY pref_panels_move_up "Flytt opp">
 <!ENTITY pref_panels_move_down "Flytt ned">
 
@@ -206,19 +301,22 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Krasjrapportering">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; stadteneste">
-<!ENTITY datareporting_wifi_geolocation_summary "Tek imot Wi-Fi og mobilnett-info når han køyrer i bakgrunnen, og deler det med &vendorShortName; for å betra geolokasjon-tenesta vår.">
-
+<!ENTITY datareporting_wifi_geolocation_summary4 "Hjelp &vendorShortName;med å kartleggja verda! Del (omlag) Wi-Fi- og mobilplassering for eininga di for å betra geolokasjons-tenesta vår.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload2 "Last ned oppdateringer automatisk">
+<!ENTITY pref_update_autodownload2 "Last ned oppdateringar automatisk">
 <!ENTITY pref_update_autodownload_wifi "Berre over Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Aldri">
 <!ENTITY pref_update_autodownload_always "Alltid">
 
+<!-- Localization note (help_menu) : This string is used in the main menu-->
+<!ENTITY help_menu "Hjelp">
+
 <!ENTITY quit "Avslutt">
 
 <!ENTITY addons "Utvidingar">
+<!ENTITY logins "Innloggingar">
 <!ENTITY downloads "Nedlastingar">
 <!ENTITY apps "Appar">
 <!ENTITY char_encoding "Teiknkoding">
@@ -228,35 +326,36 @@ size. -->
 <!ENTITY share_image_failed "Klarte ikkje å dela dette bildet">
 <!ENTITY save_as_pdf "Lagra som PDF">
 <!ENTITY find_in_page "Finn på sida">
-<!ENTITY desktop_mode "Hent side som desktop">
+<!ENTITY desktop_mode "Hent sida som desktop">
 <!ENTITY page "Side">
-<!ENTITY tools "Verktøy">
+<!ENTITY tools "Verkty">
 <!ENTITY new_tab "Ny fane">
 <!ENTITY new_private_tab "Ny privat fane">
 <!ENTITY close_all_tabs "Lukk alle faner">
+<!ENTITY close_private_tabs "Lukk privat fane">
 <!ENTITY tabs_normal "Faner">
 <!ENTITY tabs_private "Privat">
 <!ENTITY tabs_synced "Synkronisert">
 <!ENTITY set_image_fail "Klarte ikkje å velja bilde">
-<!ENTITY set_image_chooser_title "Bruk bilde som">
+<!ENTITY set_image_path_fail "Klarte ikkje å lagra bilde">
+<!ENTITY set_image_chooser_title "Bruk bildet som">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 <!ENTITY find_text "Finn på sida">
 <!ENTITY find_prev "Tidlegare">
 <!ENTITY find_next "Neste">
-<!ENTITY find_close "Lukk">
+<!ENTITY find_close "Lat att">
 
-<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+<!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-<!ENTITY media_casting_to "Castar til eining">
+<!ENTITY media_sending_to "Sender til eining">
 <!ENTITY media_play "Spel av">
 <!ENTITY media_pause "Pause">
 <!ENTITY media_stop "Stopp">
 
 <!ENTITY contextmenu_open_new_tab "Opna i ny fane">
 <!ENTITY contextmenu_open_private_tab "Opna i privat fane">
-<!ENTITY contextmenu_open_in_reader "Opna i Reader">
 <!ENTITY contextmenu_remove "Slett">
 <!ENTITY contextmenu_add_to_launcher "Legg til på framsida">
 <!ENTITY contextmenu_share "Del">
@@ -271,15 +370,32 @@ size. -->
 <!ENTITY contextmenu_top_sites_unpin "Opphev låsing">
 <!ENTITY contextmenu_add_search_engine "Legg til ein søkjemotor">
 
+<!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
+     where normally a username would be displayed. In this case, no username was found, and this placeholder
+     contains brackets to indicate this is not actually a username, but rather a placeholder -->
+<!ENTITY doorhanger_login_no_username "[Ikkje noko brukarnamn]">
+<!ENTITY doorhanger_login_edit_title "Rediger innlogging">
+<!ENTITY doorhanger_login_edit_username_hint "Brukarnamn">
+<!ENTITY doorhanger_login_edit_password_hint "Passord">
+<!ENTITY doorhanger_login_edit_toggle "Vis passord">
+<!ENTITY doorhanger_login_edit_toast_error "Klarte ikkje å lagra innlogging">
+
 <!ENTITY pref_titlebar_mode "Tittellinje">
 <!ENTITY pref_titlebar_mode_title "Vis sidetittel">
 <!ENTITY pref_titlebar_mode_url "Vis sideadresse">
 
-<!-- Localization note (pref_scroll_title_bar): Label for setting that controls
+<!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
-<!ENTITY pref_scroll_title_bar "Rullering av tittellinje">
+<!ENTITY pref_scroll_title_bar2 "Fullskjerm-nettlesing">
+<!ENTITY pref_scroll_title_bar_summary "Gøym tittellinja i &brandShortName; når du skrollar nedover ei side">
 
-<!ENTITY history_removed "Sida fjerna">
+<!ENTITY pref_tab_queue_title2 "Opna fleire lekkjer">
+<!ENTITY pref_tab_queue_summary2 "Kø opp lekjer for seinare i staden for å byta til &brandShortName; kvar gong">
+
+<!-- Localization note (page_removed): This string appears in a toast message when
+     any page is removed frome about:home. This includes pages that are in history,
+     bookmarks, or reading list. -->
+<!ENTITY page_removed "Sida fjerna">
 
 <!ENTITY bookmark_edit_title "Rediger bokmerke">
 <!ENTITY bookmark_edit_name "Namn">
@@ -291,12 +407,20 @@ size. -->
 <!ENTITY site_settings_title3       "Nettstadinnstillingar">
 <!ENTITY site_settings_cancel       "Avbryt">
 <!ENTITY site_settings_clear        "Tøm">
-<!ENTITY site_settings_no_settings  "Ingen innstillingar å fjerne.">
+<!ENTITY site_settings_no_settings  "Ingen innstillingar å fjerna.">
 
 <!ENTITY reading_list_added "Sida er lagt til i leselista">
 <!ENTITY reading_list_removed "Sida er fjerna frå leselista">
-<!ENTITY reading_list_failed "Klarte ikkje å leggja til sida i leselista">
+<!-- Localization note (reading_list_remove) : Used to remove the currently open page from
+     the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
+<!ENTITY reading_list_remove "Fjern frå leselista">
 <!ENTITY reading_list_duplicate "Sida er allereie i leselista">
+
+<!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
+     panel on the home page to give the user an estimate of how many minutes it will take to
+     read an article. The word "minute" should be abbreviated if possible. -->
+<!ENTITY reading_list_time_minutes2 "&formatD; min">
+<!ENTITY reading_list_time_over_an_hour "Over ein time">
 
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
@@ -312,21 +436,32 @@ size. -->
 <!ENTITY button_yes "Ja">
 <!ENTITY button_no "Nei">
 <!ENTITY button_clear_data "Tøm data">
-<!ENTITY button_set "Set">
+<!ENTITY button_set "Vel">
 <!ENTITY button_clear "Tøm">
+<!ENTITY button_remember "Hugs">
 
-<!ENTITY home_top_sites_title "Toppliste">
+<!ENTITY firstrun_panel_title_welcome "Velkomen">
+
+<!ENTITY home_top_sites_title "Populære sider">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Legg til nettstad">
 
+<!-- Localization note (home_title): This string should be kept in sync
+     with the page title defined in aboutHome.dtd -->
+<!ENTITY home_title "&brandShortName; Heim">
 <!ENTITY home_history_title "Historikk">
+<!ENTITY home_clear_history_button "Slett nettlesarhistorikk">
+<!ENTITY home_clear_history_confirm "Er du viss på at du vil sletta historikken?">
 <!ENTITY home_bookmarks_empty "Bokmerka dine vert viste her.">
+<!ENTITY home_closed_tabs_title "Nyleg lukka faner">
 <!ENTITY home_last_tabs_title "Faner frå førre gong">
-<!ENTITY home_last_tabs_open "Opna alle faner frå førre gong">
 <!ENTITY home_last_tabs_empty "Nyleg brukte faner vert viste her.">
-<!ENTITY home_most_recent_title "Nyleg brukt">
-<!ENTITY home_most_recent_empty "Nettstad som du sist besøkte vert viste her.">
+<!ENTITY home_open_all "Opna alle">
+<!ENTITY home_most_recent_empty "Nettstad som du sist vitja vert vist her.">
+<!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
+     The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2 "Psst: Om du brukar &formatS1;Ny privat fane&formatS2; vert historikken ikkje lagra.">
 <!ENTITY home_reading_list_empty "Artiklar du lagrar for seinare vert viste her.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -344,6 +479,36 @@ size. -->
 <!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
 <!ENTITY home_move_up_to_filter "Opp til &formatS;">
+
+<!ENTITY home_remote_tabs_title "synkroniserte faner">
+<!ENTITY home_remote_tabs_empty "Faner frå andre einingar vert viste her.">
+<!ENTITY home_remote_tabs_unable_to_connect "Klarte ikkje å kopla til">
+<!ENTITY home_remote_tabs_need_to_sign_in "Logg inn for å kopla til Firefox-kontoen din på nytt og halda fram synkronisering.">
+<!ENTITY home_remote_tabs_need_to_finish_migrating "Den nye Firefox-kontoen din er klar!">
+
+<!ENTITY home_remote_tabs_trouble_verifying "Problem med stadfesting av kontoen?">
+<!ENTITY home_remote_tabs_need_to_verify "Kontroller Firefox-kontoen din for å starta synkroniseringa.">
+
+<!ENTITY home_remote_tabs_one_hidden_device "1 eining gøymd">
+<!-- Localization note (home_remote_tabs_many_hidden_devices) : The
+     formatD is replaced with the number of hidden devices.  The
+     number of hidden devices is always more than one.  We can't use
+     Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; einingar gøymde">
+<!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
+     title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "Gøymde einingar">
+<!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
+     the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "Opphev gøyming av einingar">
+
+<!ENTITY private_browsing_title "Privat nettlesing">
+<!ENTITY private_tabs_panel_empty_desc "Dine private faner vert viste her. Sjølv om nettlesarhistorikk eller infokapslar ikkje vert lagra, vil bokmerke og filer du lastar ned framleis lagrast på eininga.">
+<!ENTITY private_tabs_panel_learn_more "Vil du lesa meir?">
+
+<!ENTITY remote_tabs_panel_moved_title "Kvar forsvann fanene mine?">
+<!ENTITY remote_tabs_panel_moved_desc "Me har flytta fanene dine frå andre einingar til eit panel på startsida, som du enkelt kan få tilgang til kvar gong du opnar ei ny fane.">
+<!ENTITY remote_tabs_panel_moved_link "Ta meg til det nye panelet.">
 
 <!ENTITY pin_site_dialog_hint "Skriv inn eit søkjeord">
 
@@ -366,11 +531,21 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_run_by "som er driven av">
+<!ENTITY identity_no_info "Denne nettstaden tilbyr ikkje identitetsinformasjon.">
+<!ENTITY identity_not_encrypted "Tilkoplinga til denne nettstaden er ikkje kryptert.">
 
 <!-- Mixed content notifications in site identity popup -->
-<!ENTITY loaded_mixed_content_message "Denne sida viser innhald som ikkje er sikra.">
+<!ENTITY loaded_mixed_content_message "Denne sida viser innhald som ikkje er trygt.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; har blokkert innhald som ikkje er trygt.">
 <!ENTITY blocked_mixed_content_message_bottom "Dei fleste nettstadar vil framleis fungera sjølv om dette innhaldet vert blokkert.">
+
+<!-- Tracking content notifications in site identity popup -->
+<!ENTITY loaded_tracking_content_message_top "Sporingsvern avslått.">
+<!ENTITY loaded_tracking_content_message_bottom "Delar av denne sida kan spora aktiviteten din på nettet.">
+<!ENTITY blocked_tracking_content_message_top2 "Sporingsvern påslått.">
+<!ENTITY blocked_tracking_content_message_bottom2 "Dellar av denne nettsida som sporar nettaktiviteten din vart blokkert.">
+
+<!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Les meir">
 <!ENTITY enable_protection "Slå på vern">
 <!ENTITY disable_protection "Slå av vern">
@@ -389,6 +564,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarkhistory_import_wait "Vent litt …">
 
 <!ENTITY suggestions_prompt3 "Vil du slå på søkjeforslag?">
+<!--  Localization note (search_bar_item_desc): When the user clicks the url bar
+      and starts typing, a list of icons of search engines appears at the bottom
+      of the screen. When a user clicks an icon, the entered text will be searched
+      via the search engine that uses the icon they clicked. This text is used
+      for screen reader users when they hover each icon - &formatS; will be
+      replaced with the name of the currently highlighted icon. -->
+<!ENTITY search_bar_item_desc "Søk med &formatS;">
 
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
@@ -399,8 +581,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "Bokmerke og historikk">
 
-<!ENTITY devtools_remote_debugging_forward "Ikkje gløym å konfigurera port-vidaresending!">
-
  <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Oppdateringar er tilgjengelege for &brandShortName;">
 <!ENTITY updater_start_select2 "Trykk for å lasta ned">
@@ -408,7 +588,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_title2 "Lastar ned &brandShortName;">
 <!ENTITY updater_downloading_title_failed2 "Nedlasting feila">
 <!ENTITY updater_downloading_select2 "Trykk for å installera når ferdig nedlasta">
-<!ENTITY updater_downloading_retry2 "Trykk for å prøva igjen">
+<!ENTITY updater_downloading_retry2 "Trykk for å prøva omatt">
 
 <!ENTITY updater_apply_title2 "Oppdatering tilgjengeleg for &brandShortName;">
 <!ENTITY updater_apply_select2 "Trykk for å oppdatera">
@@ -420,6 +600,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_cancel "Avbryt">
 <!ENTITY new_guest_session_title "&brandShortName; vil starta på nytt no">
 <!ENTITY new_guest_session_text "Personen som brukar den vil ikkje sjå nokre av nettlesardataa dine (som lagra passord, historikk eller bokmerke).\n\nNår gjesten er ferdig vert nettlesardataa hans/hennar sletta, og nettlesarøkta di vert gjenoppretta.">
+<!ENTITY guest_browsing_notification_title "Gjestenettlesing er slått på">
+<!ENTITY guest_browsing_notification_text "Trykk for å avslutta">
 
 <!ENTITY exit_guest_session_title "&brandShortName; vil starta på nytt no">
 <!ENTITY exit_guest_session_text "Nettlesardata frå denne økta vert sletta.">
@@ -430,7 +612,39 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      traditions in your locale. -->
 <!ENTITY ellipsis "…">
 
-<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+<!ENTITY colon ":">
+
+<!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
+     display a percentage value. formatS is the number, #37 is the code to display a percent sign.
+     This format string is typically used by getString method, in such method the percent sign
+     is a reserved caracter. In order to display one percent sign in the result of getString,
+     double percent signs must be inserted in the format string.
+     This entity is used in the zoomed view to display the zoom factor-->
+<!ENTITY percent "&formatS;&#37;&#37;">
+
+<!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 <!ENTITY actionbar_menu "Meny">
-<!ENTITY actionbar_done "Ferdig">
+<!ENTITY actionbar_done "Fullført">
+
+<!-- Voice search in the awesome bar -->
+<!ENTITY voicesearch_prompt "Snakk no">
+<!ENTITY voicesearch_failed_title "&brandShortName; stemmesøk">
+<!ENTITY voicesearch_failed_message "Det er eit problem med stemmesøk. Prøv omatt seinare.">
+<!ENTITY voicesearch_failed_message_recoverable "Beklagar! Me kunne ikkje kjenna att orda. Prøv omatt.">
+<!ENTITY voicesearch_failed_retry "Prøv omatt">
+
+<!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
+     "relative time span string" produced by Android.  This string describes the
+     time the tabs were last synced relative to the current time; examples
+     include "42 minutes ago", "4 days ago", "last week", etc. The subject of
+     "Last synced" is one of the user's other Sync clients, typically Firefox on
+     their desktop or laptop.-->
+<!ENTITY remote_tabs_last_synced "Sist synkronisert: &formatS;">
+<!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "Sist synkronisert: aldri">
+
+<!-- Find-In-Page strings -->
+<!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
+     if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
+<!ENTITY find_matchcase "Aa">

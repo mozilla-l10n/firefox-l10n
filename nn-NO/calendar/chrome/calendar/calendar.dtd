@@ -12,9 +12,9 @@
 <!ENTITY calendar.unifinder.todoitems.label       "Oppgåver" >
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Vis fullførte oppgåver">
 
-<!ENTITY calendar.today.button.label       "I dag">
+<!ENTITY calendar.today.button.label          "I dag">
 <!ENTITY calendar.tomorrow.button.label       "I morgon">
-<!ENTITY calendar.soon.button.label           "Snart">
+<!ENTITY calendar.upcoming.button.label       "Komande">
 
 <!ENTITY calendar.events.filter.all.label "Alle hendingar">
 <!ENTITY calendar.events.filter.today.label "Hendingar i dag">
@@ -53,12 +53,12 @@
 <!ENTITY calendar.unifinder.tree.status.tooltip2           "Sorter etter status">
 <!ENTITY calendar.unifinder.tree.calendarname.label        "Kalendernamn">
 <!ENTITY calendar.unifinder.tree.calendarname.tooltip2     "Sorter etter kalendernamn">
-<!ENTITY calendar.unifinder.tree.duration.label            "Forfall om">
+<!ENTITY calendar.unifinder.tree.duration.label            "Forfell om">
 <!ENTITY calendar.unifinder.tree.duration.tooltip2         "Sorter etter forfall">
 <!ENTITY calendar.unifinder.close.tooltip                  "Lukkar hendingssøk og hendingsliste">
 
-<!ENTITY calendar.today.button.tooltip          "Vis dagen i dag" >
-<!ENTITY calendar.todaypane.button.tooltip      "Vis i dagvisinga" >
+<!ENTITY calendar.today.button.tooltip          "Gå til «I dag»" >
+<!ENTITY calendar.todaypane.button.tooltip      "Vis «I dag»-ruta" >
 
 <!ENTITY calendar.day.button.tooltip            "Byt til dagvising" >
 <!ENTITY calendar.week.button.tooltip           "Byt til vekevising" >
@@ -72,7 +72,7 @@
 <!ENTITY calendar.nextweek.label                "Neste veke" >
 <!ENTITY calendar.prevweek.label                "Førre veke" >
 <!ENTITY calendar.nextweek.accesskey            "e" >
-<!ENTITY calendar.prevweek.accesskey            "i" >
+<!ENTITY calendar.prevweek.accesskey            "ø" >
 <!ENTITY calendar.nextmonth.label               "Neste månad" >
 <!ENTITY calendar.prevmonth.label               "Førre månad" >
 <!ENTITY calendar.nextmonth.accesskey           "s" >
@@ -88,7 +88,7 @@
 <!ENTITY calendar.newevent.button.label         "Ny hending" >
 <!ENTITY calendar.newtask.button.label          "Ny oppgåve" >
 <!ENTITY calendar.print.button.label            "Skriv ut" >
-<!ENTITY calendar.print.button.accesskey        "P">
+<!ENTITY calendar.print.button.accesskey        "u">
 
 <!ENTITY calendar.day.button.label              "Dag" >
 <!ENTITY calendar.week.button.label             "Veke" >
@@ -146,7 +146,7 @@
 <!ENTITY calendar.task-details.due.label             "innan">
 
 <!ENTITY calendar.task.category.button.tooltip  "Kategoriser oppgåver">
-<!ENTITY calendar.task.complete.button.tooltip  "Merk valde oppgåver som fullførte">
+<!ENTITY calendar.task.complete.button.tooltip  "Marker valde oppgåver som fullførte">
 <!ENTITY calendar.task.priority.button.tooltip  "Endre prioritet">
 
 <!ENTITY calendar.task.text-filter.textbox.emptytext.base            "Filtrer oppgåver … #1">
@@ -154,7 +154,7 @@
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
 
 <!-- Context Menu -->
-<!ENTITY calendar.context.modifyorviewitem.label      "Opne">
+<!ENTITY calendar.context.modifyorviewitem.label      "Opna">
 <!ENTITY calendar.context.modifyorviewitem.accesskey  "O">
 <!ENTITY calendar.context.modifyorviewtask.label      "Opna oppgåve …">
 <!ENTITY calendar.context.modifyorviewtask.accesskey  "o">
@@ -172,7 +172,7 @@
 <!ENTITY calendar.context.copyevent.accesskey         "K">
 <!ENTITY calendar.context.pasteevent.label            "Lim inn">
 <!ENTITY calendar.context.pasteevent.accesskey        "L">
-<!ENTITY calendar.context.button.label                "I dag-vindauge" >
+<!ENTITY calendar.context.button.label                "I dag-rute" >
 <!ENTITY calendar.context.button.accesskey            "d" >
 <!ENTITY calendar.context.attendance.menu.label       "Deltaking" >
 <!ENTITY calendar.context.attendance.menu.accesskey   "D" >
@@ -184,12 +184,12 @@
 <!ENTITY calendar.context.progress.accesskey          "F">
 <!ENTITY calendar.context.priority.label              "Prioritet">
 <!ENTITY calendar.context.priority.accesskey          "r">
-<!ENTITY calendar.context.postpone.label              "Utsett oppgåve">
+<!ENTITY calendar.context.postpone.label              "Utset oppgåva">
 <!ENTITY calendar.context.postpone.accesskey          "U">
 
 <!ENTITY percnt "&#38;#37;" ><!--=percent sign-->
 
-<!ENTITY calendar.context.markcompleted.label     "Merk som fullført">
+<!ENTITY calendar.context.markcompleted.label     "Marker som fullført">
 <!ENTITY calendar.context.markcompleted.accesskey "M">
 
 <!ENTITY progress.level.0             "0 &percnt; fullført">
@@ -203,7 +203,7 @@
 <!ENTITY progress.level.100            "100 &percnt; fullført">
 <!ENTITY progress.level.100.accesskey  "1">
 
-<!ENTITY priority.level.none                "Ikkje oppgjeve">
+<!ENTITY priority.level.none                "Ikkje spesifisert">
 <!ENTITY priority.level.none.accesskey      "I">
 <!ENTITY priority.level.low                 "Låg">
 <!ENTITY priority.level.low.accesskey       "L">
@@ -232,8 +232,17 @@
 <!ENTITY calendar.context.newserver.accesskey          "N">
 <!ENTITY calendar.context.findcalendar.label           "Finn kalender…" >
 <!ENTITY calendar.context.findcalendar.accesskey       "F" >
-<!ENTITY calendar.context.deleteserver.label           "Slett kalender">
-<!ENTITY calendar.context.deleteserver.accesskey       "e">
+<!ENTITY calendar.context.deleteserver2.label          "Slett kalender …">
+<!ENTITY calendar.context.deleteserver2.accesskey      "S">
+
+<!-- LOCALIZATION NOTE (calendar.context.removeserver.label): Removing the
+      calendar is the general action of removing it, while deleting means to
+      clear the data and unsubscribing means just taking it out of the calendar
+      list. -->
+<!ENTITY calendar.context.removeserver.label           "Fjern kalender …">
+<!ENTITY calendar.context.removeserver.accesskey       "F">
+<!ENTITY calendar.context.unsubscribeserver.label      "Avslutt abonnement på kalender …">
+<!ENTITY calendar.context.unsubscribeserver.accesskey  "A">
 <!ENTITY calendar.context.synccalendars.label          "Synkroniser kalendrar">
 <!ENTITY calendar.context.synccalendars.accesskey      "S">
 <!ENTITY calendar.context.publish.label                "Publiser kalender …">
@@ -242,6 +251,16 @@
 <!ENTITY calendar.context.export.accesskey             "k">
 <!ENTITY calendar.context.properties.label             "Eigenskapar">
 <!ENTITY calendar.context.properties.accesskey         "E">
+
+<!-- LOCALIZATION NOTE (calendar.context.togglevisible.accesskey)
+     This is the access key used for the showCalendar string -->
+<!ENTITY calendar.context.togglevisible.accesskey      "H">
+
+<!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
+     This is the access key used for the showOnlyCalendar string -->
+<!ENTITY calendar.context.showonly.accesskey           "b">
+<!ENTITY calendar.context.showall.label                "Vis alle kalendrane">
+<!ENTITY calendar.context.showall.accesskey            "a">
 
 <!ENTITY calendar.context.convertmenu.label              "Konverter til">
 <!ENTITY calendar.context.convertmenu.accesskey.mail     "K">
@@ -347,5 +366,5 @@
 <!-- Extract buttons in message header -->
 <!ENTITY calendar.extract.event.button         "Legg til som hending">
 <!ENTITY calendar.extract.task.button          "Legg til som oppgåve">
-<!ENTITY calendar.extract.event.button.tooltip "Hent ut kalendarinfo frå meldinga og legg til i kalenderen din som ei hending">
+<!ENTITY calendar.extract.event.button.tooltip "Hent ut kalenderinfo frå meldinga og legg til i kalenderen din som ei hending">
 <!ENTITY calendar.extract.task.button.tooltip  "Hent ut kalenderinfo frå meldinga og legg til i kalenderen din som ei oppgåve">

@@ -10,7 +10,7 @@
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
 <!ENTITY useGlobal.label           "Bruk globale LDAP-tenarinnstillingar for denne kontoen.">
 <!ENTITY useGlobal.accesskey       "u">
-<!ENTITY editDirectories.label     "Rediger katalogar …">
+<!ENTITY editDirectories.label     "Rediger mapper …">
 <!ENTITY editDirectories.accesskey "R">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "Bruk ein annan LDAP-tenar:">

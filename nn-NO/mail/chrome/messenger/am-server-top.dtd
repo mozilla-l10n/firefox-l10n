@@ -46,12 +46,12 @@
 <!ENTITY deleteMessagePrefix.label "Når eg slettar ei melding:">
 <!ENTITY modelMoveToTrash.label "Flytt henne til denne mappa:">
 <!ENTITY modelMoveToTrash.accesskey "h">
-<!ENTITY modelMarkDeleted.label "Merk som sletta">
+<!ENTITY modelMarkDeleted.label "Marker som sletta">
 <!ENTITY modelMarkDeleted.accesskey "k">
-<!ENTITY modelDeleteImmediately.label "Fjern med ein gong">
+<!ENTITY modelDeleteImmediately.label "Slett med ein gong">
 <!ENTITY modelDeleteImmediately.accesskey "n">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY expungeOnExit.label "Tøm (slett) innboksen ved avslutting">
+<!ENTITY expungeOnExit.label "Tøm (slett) Innboks ved avslutting">
 <!ENTITY expungeOnExit.accesskey "a">
 <!ENTITY emptyTrashOnExit.label "Tøm søppelkassa ved avslutting">
 <!ENTITY emptyTrashOnExit.accesskey "ø">
@@ -74,7 +74,7 @@
 <!ENTITY abbreviateOff.label "forkorta namn (til dømes «n.p.m.mail-news»)">
 <!ENTITY advancedButton.label "Avansert …">
 <!ENTITY advancedButton.accesskey "A">
-<!ENTITY serverDefaultCharset.label "Standard teiknkoding:">
+<!ENTITY serverDefaultCharset2.label "Standard tekstkoding:">
 <!ENTITY localPath.label "Lokal mappe:">
 <!ENTITY localFolderPicker.label "Vel lokal mappe:">
 <!ENTITY browseFolder.label "Bla gjennom …">
@@ -83,4 +83,8 @@
 <!ENTITY browseNewsrc.accesskey "B">
 
 <!ENTITY accountTitle.label "Kontoinnstillingar">
-<!ENTITY accountSettingsDesc.label "Dette er ein spesiell konto. Ingen identitetar er knytt til han.">
+<!ENTITY accountSettingsDesc.label "Dette er ein spesiell konto. Ingen identitetar er knytte til han.">
+<!ENTITY storeType.label "Meldingslagertype:">
+<!ENTITY storeType.accesskey "t">
+<!ENTITY mboxStore2.label "Fil per mappe (mbox)">
+<!ENTITY maildirStore.label "Ei fil per melding (maildir)">

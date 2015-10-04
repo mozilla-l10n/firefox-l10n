@@ -13,9 +13,13 @@
 <!ENTITY pref.dateformat.long "Lang" >
 <!ENTITY pref.dateformat.short "Kort"  >
 
+<!ENTITY pref.timezones.caption "Tidssone">
+<!ENTITY pref.timezones.label "Vel næraste by i di tidssone:">
+<!ENTITY pref.timezones.accesskey "S">
+
 <!ENTITY pref.defaults.label "Standardverdiar for nye element">
 <!ENTITY pref.events.label "Hendingar">
-<!ENTITY pref.tasks.label "Oppg[ver">
+<!ENTITY pref.tasks.label "Oppgåver">
 
 <!ENTITY pref.default_event_length.label "Standard lengde:" >
 <!ENTITY pref.default_event_length.accesskey "S">
@@ -28,6 +32,10 @@
 <!ENTITY pref.default_task_offset_current.label "I høve til gjeldande tid">
 <!ENTITY pref.default_task_offset_start.label "I høve til til start">
 <!ENTITY pref.default_task_offset_next_hour.label "I høve til neste time">
+
+<!ENTITY pref.calendar.todaypane.agenda.caption "I dag-ruta">
+<!ENTITY pref.soondays.label "Komande seksjon viser:">
+<!ENTITY pref.soondays.accesskey "K">
 
 <!ENTITY pref.accessibility.label "Tilgjenge" >
 <!ENTITY pref.systemcolors.label "Optimaliser fargar for tilgjenge" >

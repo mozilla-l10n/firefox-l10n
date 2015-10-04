@@ -10,7 +10,7 @@
 <!ENTITY status.label          "Publiserer …">
 <!ENTITY fileList.label        "Publiseringsstatus">
 <!ENTITY succeeded.label       "Lykkast">
-<!ENTITY failed.label          "Mislykkast">
+<!ENTITY failed.label          "Mislukkast">
 
 <!ENTITY keepOpen              "Ikkje lukk dette vindauget etter at publiseringa er fullført.">
 <!ENTITY closeButton.label     "Lukk">

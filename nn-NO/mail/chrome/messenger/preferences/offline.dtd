@@ -2,15 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY offlineDialog.title "Fråkoplainnstillingar">
+<!ENTITY offlineDialog.title "Fråkopla-modus">
 
-<!ENTITY textStartUp "Ved oppstart:">
-<!ENTITY radioRememberPrevState.label "Hugs førre tilkoplingstilstand">
+<!ENTITY checkAutoDetect.label "Automatisk følg oppdaga status på tilkopling">
+<!ENTITY checkAutoDetect.accesskey "d">
+<!ENTITY titleStartUp "Manell tilstand ved oppstart:">
+<!ENTITY radioRememberPrevState.label "Hugs førre tilkoplings-status">
 <!ENTITY radioRememberPrevState.accesskey "H">
-<!ENTITY radioAskMe.label "Spør meg om tilkoplingstilstand ved oppstart">
-<!ENTITY radioAskMe.accesskey "S">
-<!ENTITY radioAlwaysOnline.label "Alltid start tilkopla">
-<!ENTITY radioAlwaysOnline.accesskey "A">
+<!ENTITY radioAskState.label "Spør meg om tilkoplings-status">
+<!ENTITY radioAskState.accesskey "S">
+<!ENTITY radioAlwaysOnlineState.label "Tilkopla">
+<!ENTITY radioAlwaysOnlineState.accesskey "T">
+<!ENTITY radioAlwaysOffline.label "Fråkopla">
+<!ENTITY radioAlwaysOffline.accesskey "F">
 
 <!ENTITY textGoingOnline "Sende usende meldingar når eg koplar til?">
 <!ENTITY radioAutoSend.label "Ja">

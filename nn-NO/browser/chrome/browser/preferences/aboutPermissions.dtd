@@ -20,7 +20,7 @@
 <!ENTITY permission.alwaysAsk            "Alltid spør">
 <!ENTITY permission.allow                "Tillat">
 <!ENTITY permission.allowForSession      "Tillat for økta">
-<!ENTITY permission.allowFirstPartyOnly  "Tillat berre førstepartnar">
+<!ENTITY permission.allowFirstPartyOnly  "Tillat berre fyrstepartnar">
 <!ENTITY permission.block                "Blokker">
 
 <!ENTITY password.label                  "Lagra passord">
@@ -42,5 +42,7 @@
 <!ENTITY popup.label                     "Opna sprettoppvindauge">
 
 <!ENTITY fullscreen.label                "Fullskjerm">
+
+<!ENTITY push.label                      "Få push-meldingar">
 <!ENTITY camera.label                    "Bruk kameraet">
 <!ENTITY microphone.label                "Bruk mikrofonen">

@@ -9,7 +9,7 @@
 <!ENTITY dimensionsBox.label "Dimensjonar">
 <!ENTITY heightEditField.label "Høgd:">
 <!ENTITY heightEditField.accessKey "H">
-<!ENTITY widthEditField.label "Breidd:">
+<!ENTITY widthEditField.label "Breidde:">
 <!ENTITY widthEditField.accessKey "B">
 <!ENTITY pixelsPopup.value "pikslar">
 <!ENTITY alignmentBox.label "Justering">
@@ -24,4 +24,4 @@
 <!ENTITY threeDShading.accessKey "s">
 <!ENTITY saveSettings.label "Bruk som standard">
 <!ENTITY saveSettings.accessKey "B">
-<!ENTITY saveSettings.tooltip "Lagre desse innstillingane for bruk ved innsetting av nye horisontale linjer">
+<!ENTITY saveSettings.tooltip "Lagra desse innstillingane for bruk ved innsetting av nye horisontale linjer">

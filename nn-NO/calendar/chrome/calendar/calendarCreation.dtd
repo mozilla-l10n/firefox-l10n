@@ -10,7 +10,7 @@
 <!ENTITY initialpage.computer.label  "På datamaskina mi">
 <!ENTITY initialpage.network.label  "På nettverket">
 
-<!ENTITY locationpage.description         "Oppgje informasjon om kvar ein finn kalenderen" >
+<!ENTITY locationpage.description         "Spesifiser informasjon om kvar ein finn kalenderen" >
 <!ENTITY locationpage.login.description   "Valfritt: Spesifiser brukarnamn og passord" >
 <!ENTITY locationpage.username.label      "Brukarnamn:" >
 <!ENTITY locationpage.password.label      "Passord:" >
@@ -18,5 +18,5 @@
 <!ENTITY custompage.shortdescription  "Tilpass kalenderen din" >
 <!ENTITY custompage.longdescription   "Du kan gje kalenderen din eit eige namn, og eigen farge for hendingar i kalenderen." >
 
-<!ENTITY finishpage.shortdescription  "Kalender er laga" >
-<!ENTITY finishpage.longdescription   "Kalenderen laga." >
+<!ENTITY finishpage.shortdescription  "Kalender laga" >
+<!ENTITY finishpage.longdescription   "Kalenderen er laga." >

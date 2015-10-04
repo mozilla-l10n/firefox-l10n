@@ -22,11 +22,9 @@
 <!ENTITY  generalReferrer       "Tilvisande URL:">
 <!ENTITY  generalSource         "Kjelde:">
 <!ENTITY  generalModified       "Sist endra:">
-<!ENTITY  generalEncoding       "Teiknkoding:">
+<!ENTITY  generalEncoding2      "Tekstkoding:">
 <!ENTITY  generalMetaName       "Namn">
 <!ENTITY  generalMetaContent    "Innhald">
-<!ENTITY  generalSecurityDetails   "Detaljar">
-<!ENTITY  generalSecurityDetails.accesskey "D">
 
 <!ENTITY  mediaTab              "Media">
 <!ENTITY  mediaTab.accesskey    "M">
@@ -65,7 +63,6 @@
 
 <!ENTITY  securityTab           "Tryggleik">
 <!ENTITY  securityTab.accesskey "T">
-<!ENTITY  securityHeader        "Tryggingsinfo">
 <!ENTITY  securityView.certView "Vis sertifikat">
 <!ENTITY  securityView.accesskey "V">
 <!ENTITY  securityView.unknown   "Ukjend">
@@ -86,3 +83,5 @@
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "s">
 
 <!ENTITY  securityView.technical.header                 "Tekniske detaljar">
+
+<!ENTITY  helpButton.label                              "Hjelp">

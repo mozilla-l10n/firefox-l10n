@@ -6,7 +6,7 @@
 <!ENTITY aboutPage.telemetryStart               " Han sender automatisk informasjon om yting, maskinvare, bruksmønster og utvidingar tilbake til ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
 <!ENTITY aboutPage.telemetryEnd                 " for å bidra til å gjera &brandShortName; betre.">
-<!ENTITY aboutPage.checkForUpdates.link         "Søk etter oppdateringar »">
+<!ENTITY aboutPage.checkForUpdates.link         "Sjå etter oppdateringar »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Ser etter oppdateringar …">
 <!ENTITY aboutPage.checkForUpdates.none         "Ingen oppdateringar er tilgjengelege">
 <!ENTITY aboutPage.checkForUpdates.available2   "Last ned oppdatering">
@@ -19,3 +19,6 @@
 <!ENTITY aboutPage.relNotes.label               "Versjonsnotat">
 <!ENTITY aboutPage.credits.label                "Bidragsytarar">
 <!ENTITY aboutPage.license.label                "Lisensinfo">
+
+<!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
+<!ENTITY aboutPage.logoTrademark                "Firefox og Firefox-logoane er varemeke som høyrer til Mozilla Foundation.">

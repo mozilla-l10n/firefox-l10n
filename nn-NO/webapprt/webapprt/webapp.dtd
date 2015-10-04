@@ -19,7 +19,7 @@
    - using properties in window.properties, in order to include the name
    - of the webapp in the labels without creating a DTD file for it. -->
 <!ENTITY hideThisAppCmdMac.key              "H">
-<!ENTITY hideOtherAppsCmdMac.label          "Skjul andre">
+<!ENTITY hideOtherAppsCmdMac.label          "Gøym andre">
 <!ENTITY hideOtherAppsCmdMac.key            "H">
 <!ENTITY showAllAppsCmdMac.label            "Vis alle">
 
@@ -28,7 +28,7 @@
 
 <!ENTITY editMenu.label                     "Rediger">
 <!ENTITY editMenu.accesskey                 "R">
-<!ENTITY undoCmd.label                      "Angre">
+<!ENTITY undoCmd.label                      "Angra">
 <!ENTITY undoCmd.key                        "Z">
 <!ENTITY undoCmd.accesskey                  "A">
 <!ENTITY redoCmd.label                      "Gjenta">

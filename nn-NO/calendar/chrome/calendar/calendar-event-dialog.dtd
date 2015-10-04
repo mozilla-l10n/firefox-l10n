@@ -4,7 +4,7 @@
 
 <!ENTITY event.title.label                  "Rediger hending" >
 
-<!ENTITY event.dialog.keepDurationButton.tooltip   "Behald tidslengd når du endrar sluttdatoen">
+<!ENTITY event.dialog.keepDurationButton.tooltip   "Behald tidslengd ved endring av sluttdato">
 <!ENTITY event.dialog.keepDurationButton.accesskey "B">
 
 <!ENTITY newevent.from.label                "Frå" >
@@ -12,9 +12,9 @@
 
 <!ENTITY newevent.status.label                    "Status" >
 <!ENTITY newevent.status.accesskey                "S" >
-<!ENTITY newevent.eventStatus.none.label          "Ikkje oppgjeve" >
+<!ENTITY newevent.eventStatus.none.label          "Ikkje spesifisert" >
 <!ENTITY newevent.eventStatus.none.accesskey      "k" >
-<!ENTITY newevent.todoStatus.none.label           "Ikkje oppgjeve" >
+<!ENTITY newevent.todoStatus.none.label           "Ikkje spesifisert" >
 <!ENTITY newevent.eventStatus.cancelled.label     "Avlyst" >
 <!ENTITY newevent.eventStatus.cancelled.accesskey "A" >
 <!ENTITY newevent.todoStatus.cancelled.label      "Avlyst" >
@@ -34,7 +34,7 @@
    - they still fit in. -->
 <!ENTITY event.attendees.notify.label               "Varsle deltakarar">
 <!ENTITY event.attendees.notifyundisclosed.label    "Eigen invitasjon for kvar deltakar">
-<!ENTITY event.attendees.notifyundisclosed.tooltip  "">
+<!ENTITY event.attendees.notifyundisclosed.tooltip  "Denne innstillinga sender ein e-postinvitasjon pr. deltakar. Kvar invitasjon inneheld berre informasjon om om den enkelte deltakaren, slik at andre deltakaridentitetar ikkje vert viste.   	">
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -109,7 +109,7 @@
 <!ENTITY  event.menu.options.timezone2.accesskey              "s">
 <!ENTITY  event.menu.options.priority2.label                  "Prioritet">
 <!ENTITY  event.menu.options.priority2.accesskey              "P">
-<!ENTITY  event.menu.options.priority.notspecified.label      "Ikkje valt">
+<!ENTITY  event.menu.options.priority.notspecified.label      "Ikkje spesifisert">
 <!ENTITY  event.menu.options.priority.notspecified.accesskey  "I">
 <!ENTITY  event.menu.options.priority.low.label               "Låg">
 <!ENTITY  event.menu.options.priority.low.accesskey           "L">
@@ -178,7 +178,7 @@
 <!ENTITY task.to.accesskey                                "o">
 <!ENTITY task.status.label                                "Status:" >
 <!ENTITY task.status.accesskey                            "a">
-<!ENTITY event.repeat.label                               "Repeter:" >
+<!ENTITY event.repeat.label                               "Gjenta:" >
 <!ENTITY event.repeat.accesskey                           "R">
 <!ENTITY event.until.label                                "Til:">
 <!ENTITY event.until.accesskey                            "T">
@@ -222,7 +222,7 @@
 <!ENTITY event.statusbarpanel.privacy.label               "Personvern:">
 
 <!-- Recurrence dialog -->
-<!ENTITY recurrence.title.label                         "Rediger repetering">
+<!ENTITY recurrence.title.label                         "Rediger oppattaking">
 
 <!ENTITY event.repeat.does.not.repeat.label             "Vert ikkje repetert">
 <!ENTITY event.repeat.daily.label                       "Kvar dag">
@@ -251,7 +251,7 @@
 <!ENTITY event.recurrence.pattern.monthly.every.label   "Kvar" >
 <!ENTITY repeat.units.months.both                       "Månad(er)" >
 <!ENTITY event.recurrence.monthly.every.label           "Kvar" >
-<!ENTITY event.recurrence.monthly.first.label           "Den første">
+<!ENTITY event.recurrence.monthly.first.label           "Den fyrste">
 <!ENTITY event.recurrence.monthly.second.label          "Den andre">
 <!ENTITY event.recurrence.monthly.third.label           "Den tredje">
 <!ENTITY event.recurrence.monthly.fourth.label          "Den ferde">
@@ -306,6 +306,7 @@
 <!ENTITY event.recurrence.pattern.yearly.week.5.label        "torsdag" >
 <!ENTITY event.recurrence.pattern.yearly.week.6.label        "fredag" >
 <!ENTITY event.recurrence.pattern.yearly.week.7.label        "laurdag" >
+<!ENTITY event.recurrence.pattern.yearly.day.label           "day" >
 <!ENTITY event.recurrence.of.label                           "av" >
 <!ENTITY event.recurrence.pattern.yearly.month2.1.label      "januar" >
 <!ENTITY event.recurrence.pattern.yearly.month2.2.label      "februar" >
@@ -331,8 +332,8 @@
 <!ENTITY invite.title.label                     "Inviter deltakarar">
 <!ENTITY event.organizer.label                  "Organisert av">
 <!ENTITY event.freebusy.suggest.slot            "Føreslå tidsluke:">
-<!ENTITY event.freebusy.next.slot               "Neste tidsluke" >
-<!ENTITY event.freebusy.previous.slot           " Førre tidsluke" >
+<!ENTITY event.freebusy.button.next.slot        "Neste tidsluke">
+<!ENTITY event.freebusy.button.previous.slot    "Førre tidsluke">
 <!ENTITY event.freebusy.zoom                    "Skalering:">
 <!ENTITY event.freebusy.legend.free             "Ledig" >
 <!ENTITY event.freebusy.legend.busy             "Oppteken" >
@@ -358,7 +359,7 @@
 <!ENTITY read.only.event.start.label     "Startdato:">
 <!ENTITY read.only.task.start.label      "Startdato:">
 <!ENTITY read.only.event.end.label       "Sluttdato:">
-<!ENTITY read.only.task.due.label        "Forfalldato:">
+<!ENTITY read.only.task.due.label        "Innan:">
 <!ENTITY read.only.repeat.label          "Repeter:">
 <!ENTITY read.only.location.label        "Stad:">
 <!ENTITY read.only.category.label        "Kategori:">
@@ -367,7 +368,7 @@
 <!ENTITY read.only.accept.label          "Eg deltek">
 <!ENTITY read.only.decline.label         "Eg deltek ikkje">
 <!ENTITY read.only.tentative.label       "Eg deltek kanskje">
-<!ENTITY read.only.needs.action.label    "Eg vil avgjera det seinare">
+<!ENTITY read.only.needs.action.label    "Eg vil stadfesta det seinare">
 <!ENTITY read.only.reminder.label        "Påminning:">
 <!ENTITY read.only.attendees.label       "Deltakarar">
 <!ENTITY read.only.description.label     "Skildring">

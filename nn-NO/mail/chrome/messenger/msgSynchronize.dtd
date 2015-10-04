@@ -6,11 +6,11 @@
 
 <!ENTITY MsgSynchronize.label "Last ned og synkroniser meldingar">
 <!ENTITY MsgSelect.label "Element for fråkopla bruk">
-<!ENTITY MsgSyncDesc.label "Om du allereie har valt e-postmapper eller nyheitsgrupper for fråkopla bruk, kan du laste ned og/eller synkronisere dei no. Elles kan du nytte «Vel»-knappen for å velje e-postmappene og nyheitsgruppene du ønskjer å nytte fråkopla.">
-<!ENTITY MsgSyncDirections.label "Last ned og/eller synkroniser følgande:">
+<!ENTITY MsgSyncDesc.label "Om du allereie har valt e-postmapper eller nyhendegrupper for fråkopla bruk, kan du laste ned og/eller synkronisere dei no. Elles kan du bruka «Vel»-knappen for å velja e-postmappene og nyhendegruppene du ønskjer å nytte fråkopla.">
+<!ENTITY MsgSyncDirections.label "Last ned og/eller synkroniser følgjande:">
 <!ENTITY syncTypeMail.label "E-postmeldingar">
 <!ENTITY syncTypeMail.accesskey "m">
-<!ENTITY syncTypeNews.label "Nyheitsgruppe-meldingar">
+<!ENTITY syncTypeNews.label "Nyhendegruppe-meldingar">
 <!ENTITY syncTypeNews.accesskey "N">
 <!ENTITY sendMessage.label "Send usende meldingar">
 <!ENTITY sendMessage.accesskey "u">
@@ -18,6 +18,6 @@
 <!ENTITY workOffline.accesskey "f">
 <!ENTITY selectButton.label "Vel …">
 <!ENTITY selectButton.accesskey "V">
-<!ENTITY MsgSelectDesc.label "Vel e-postmappene og nyheitsgruppene du ønskjer å nytte fråkopla.">
+<!ENTITY MsgSelectDesc.label "Vel e-postmappene og nyhendegruppene du ønskjer å bruka fråkopla.">
 <!ENTITY MsgSelectInd.label "Last ned">
-<!ENTITY MsgSelectItems.label "Mapper og nyheitsgrupper">
+<!ENTITY MsgSelectItems.label "Mapper og nyhendegrupper">
