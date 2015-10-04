@@ -384,7 +384,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.custom.postData): This is the label displayed
   -  above the request body entry in the custom request form -->
 
-<!ENTITY netmonitorUI.custom.postData     "Corp cerere:">
+<!ENTITY netmonitorUI.custom.postData     "Corpul cererii:">
 <!-- LOCALIZATION NOTE (netmonitorUI.custom.send): This is the label displayed
   -  on the button which sends the custom request -->
 

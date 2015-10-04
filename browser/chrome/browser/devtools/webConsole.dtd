@@ -17,7 +17,7 @@
 
 <!ENTITY networkPanel.requestHeaders              "Antetele cererii">
 <!ENTITY networkPanel.requestCookie               "Cookie trimis">
-<!ENTITY networkPanel.requestBody                 "Conținutul cererii">
+<!ENTITY networkPanel.requestBody                 "Corpul cererii">
 <!ENTITY networkPanel.requestFormData             "Date trimise de formular">
 
 <!ENTITY networkPanel.responseHeaders             "Antetele răspunsului">

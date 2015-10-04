@@ -690,7 +690,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionNotSecure "Conexiunea nu este securizată">
 <!ENTITY identity.connectionFile "Această pagină este stocată pe calculator.">
 <!ENTITY identity.connectionVerified "&brandShortName; a verificat că sunteți conectat în mod securizat la acest site aparținând:">
-<!ENTITY identity.connectionInternal "Pagină securizată de &brandShortName;.">
+<!ENTITY identity.connectionInternal "Aceasta este o pagină securizată a &brandShortName;.">
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "&brandShortName; a blocat elementele nesigure din această pagină.">
