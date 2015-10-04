@@ -43,7 +43,7 @@ can reach it easily. -->
 <!ENTITY  moveToGroup.label                  "Mută în grup">
 <!ENTITY  moveToGroup.accesskey              "M">
 <!ENTITY  moveToNewGroup.label               "Grup nou">
-<!ENTITY  moveToNewWindow.label              "Mutare în fereastră nouă">
+<!ENTITY  moveToNewWindow.label              "Mută într-o fereastră nouă">
 <!ENTITY  moveToNewWindow.accesskey          "M">
 <!ENTITY  bookmarkAllTabs.label              "Pune semne de carte la toate filele…">
 <!ENTITY  bookmarkAllTabs.accesskey          "t">
@@ -474,15 +474,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openLinkCmdInTab.label       "Deschide linkul într-o filă nouă">
 <!ENTITY openLinkCmdInTab.accesskey   "t">
-<!ENTITY openLinkCmd.label            "Deschide linkul în fereastră nouă">
+<!ENTITY openLinkCmd.label            "Deschide linkul într-o fereastră nouă">
 <!ENTITY openLinkCmd.accesskey        "D">
-<!ENTITY openLinkInPrivateWindowCmd.label "Deschide linkul în fereastră privată">
+<!ENTITY openLinkInPrivateWindowCmd.label "Deschide linkul într-o fereastră privată nouă">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "p">
 <!ENTITY openLinkCmdInCurrent.label     "Deschide linkul">
 <!ENTITY openLinkCmdInCurrent.accesskey "i">
 <!ENTITY openFrameCmdInTab.label      "Deschide cadrul în filă nouă">
 <!ENTITY openFrameCmdInTab.accesskey  "f">
-<!ENTITY openFrameCmd.label           "Deschide cadrul în fereastră nouă">
+<!ENTITY openFrameCmd.label           "Deschide cadrul într-o fereastră nouă">
 <!ENTITY openFrameCmd.accesskey       "D">
 <!ENTITY showOnlyThisFrameCmd.label     "Afișează doar acest cadru">
 <!ENTITY showOnlyThisFrameCmd.accesskey "A">
@@ -705,7 +705,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionNotSecure "Conexiunea nu este securizată">
 <!ENTITY identity.connectionFile "Această pagină este stocată pe calculator.">
 
-<!ENTITY identity.connectionInternal "Pagină securizată de &brandShortName;.">
+<!ENTITY identity.connectionInternal "Aceasta este o pagină securizată a &brandShortName;.">
 
 <!-- Strings for connection state warnings. -->
 

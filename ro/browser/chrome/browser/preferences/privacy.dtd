@@ -18,7 +18,7 @@
 
 <!ENTITY  history.label                 "Istoric">
 
-<!ENTITY  locationBar.label             "Bara adresei">
+<!ENTITY  locationBar.label             "Bară de adresă">
 
 <!ENTITY  locbar.suggest.label          "Când se folosește bara adresei, sugerează:">
 <!ENTITY  locbar.history.label          "Istoric">

@@ -47,13 +47,13 @@
 
 <!ENTITY connection.label                "Conexiune">
 
-<!ENTITY connectionDesc.label            "Configurează cum se conectează &brandShortName; la internet">
+<!ENTITY connectionDesc.label            "Configurează modul în care &brandShortName; se conectează la internet">
 <!ENTITY connectionSettings.label        "Setări…">
 <!ENTITY connectionSettings.accesskey    "e">
 
 <!ENTITY httpCache.label                 "Conținut web păstrat temporar">
 
-<!ENTITY offlineStorage2.label           "Conținut web și date stocate pentru folosirea offline">
+<!ENTITY offlineStorage2.label           "Conținut web offline și datele utilizatorului">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
