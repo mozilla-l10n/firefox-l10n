@@ -7,7 +7,7 @@
 <!ENTITY index.device2 "උපාංග">
 <!ENTITY index.help "උදව්">
 
-<!ENTITY device.debugMainProcess "ප්‍රධාන ක්‍රියාවලිය නිරාකරණය කරන්න">
+<!ENTITY device.debugMainProcess "ප්‍රධාන ක්‍රියාවලිය දෝශහරණය කරන්න">
 <!ENTITY device.debugMainProcessTooltip "උපාංගය මත ප්‍රධාන ක්‍රියාවලියට සබඳවන සංවර්ධක මෙවලම් විවෘත කරන්න">
 <!ENTITY device.screenshot "තිරසටහන">
 <!ENTITY device.screenshotTooltip "උපාංගයේ වත්මන් තත්වය පිළිබඳ තිරරූපයක් නව ටැබයක විවෘත කරන්න">
