@@ -12,6 +12,8 @@
   -  the correct grammar case to keep the same structure of the original
   -  sentence. -->
 
+<!ENTITY translation.thisPageIsIn.label         "یہ صفحہ مندرجہ ذیل ہے">
+<!ENTITY translation.translateThisPage.label    "اس صفحہ کا ترجمہ کریں؟">
 <!ENTITY translation.translate.button           "ترجمہ کریں">
 <!ENTITY translation.notNow.button              "ابھی نہیں">
 
@@ -31,10 +33,13 @@
   -  translation.translatedToSuffix.label (empty in en-US) is for locales that
   -  need to display some text after the second drop down for the sentence to
   -  be grammatically correct. -->
+
+<!ENTITY translation.translatedFrom.label       "اس صفحے سے ترجمہ کیا گیا ہے">
 <!ENTITY translation.translatedTo.label         "بنام">
 <!ENTITY translation.translatedToSuffix.label   "">
 
-
+<!ENTITY translation.showOriginal.button        "اصل دکھائیں">
+<!ENTITY translation.showTranslation.button     "ترجمہ دکھائیں">
 
 <!ENTITY translation.tryAgain.button            "دوبارہ کوشش کریں">
 
