@@ -868,7 +868,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY processHang.terminateScript.label        "විධානාවලිය නවතන්න">
 <!ENTITY processHang.terminateScript.accessKey    "S">
-<!ENTITY processHang.debugScript.label            "විධානාවලි දෝශ නිරාකරණය">
+<!ENTITY processHang.debugScript.label            "විධානාවලි දෝශහරණය">
 <!ENTITY processHang.debugScript.accessKey        "D">
 <!ENTITY processHang.terminatePlugin.label        "ප්ලගිනය නවතන්න">
 <!ENTITY processHang.terminatePlugin.accessKey    "P">
