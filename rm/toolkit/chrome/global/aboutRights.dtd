@@ -47,6 +47,7 @@
 <!ENTITY rights2.webservices-header "Servetschs d'infurmaziun da &brandFullName; a basa dal web">
 
 <!-- point 5 -->
+<!ENTITY rights.intro-point5 "Per far ir tscherts tips da cuntegn da video telechargia &brandShortName; moduls da terzas partidas per decriptar il cuntegn.">
 
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
