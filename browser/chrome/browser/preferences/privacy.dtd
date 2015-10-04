@@ -4,8 +4,15 @@
 
 <!ENTITY tracking.label                 "추적 기능">
 
+<!ENTITY dntTrackingNotOkay4.label     "사이트가 사용자를 추적하지 않도록 요청">
+<!ENTITY dntTrackingNotOkay4.accesskey "n">
 <!ENTITY doNotTrackInfo.label          "더 알아보기">
+<!ENTITY trackingProtection5.label     "추적 방지 사용">
+<!ENTITY trackingProtection5.accesskey "i">
 <!ENTITY trackingProtectionLearnMore.label "더 알아보기">
+<!ENTITY trackingProtectionPBM5.label         "사생활 보호 창에서 추적 방지 사용">
+<!ENTITY trackingProtectionPBM5.accesskey     "v">
+<!ENTITY trackingProtectionPBMLearnMore.label "더 알아보기">
 
 <!ENTITY  history.label                 "방문 기록">
 
@@ -21,6 +28,8 @@
 <!ENTITY  locbar.searches.label         "기본 검색 엔진에서 가져온 관련 검색어">
 <!ENTITY  locbar.searches.accesskey     "d">
 
+<!ENTITY  suggestionSettings.label      "검색 엔진 추천 설정 변경…">
+<!ENTITY  suggestionSettings.accesskey  "g">
 
 <!ENTITY  acceptCookies.label           "웹 사이트에서 제공하는 쿠키 허용">
 <!ENTITY  acceptCookies.accesskey       "A">
