@@ -33,7 +33,7 @@
 <!-- Passwords -->
 
 <!ENTITY savedPasswords.intro           "&brandShortName; poate reține parolele tuturor conturilor dumneavoastră.">
-<!ENTITY useMasterPassword.label        "Utilizează o parolă generală">
+<!ENTITY useMasterPassword.label        "Folosește o parolă generală">
 <!ENTITY useMasterPassword.accesskey    "U">
 <!ENTITY masterPassword.intro           "O parolă generală protejează toate parolele dumneavoastră, dar trebuie să o introduceți o dată per sesiune.">
 <!ENTITY changeMasterPassword.label     "Schimbă parola generală…">
