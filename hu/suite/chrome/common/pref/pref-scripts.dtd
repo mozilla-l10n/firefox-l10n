@@ -22,8 +22,8 @@
 <!ENTITY allowHideStatusBar.label        "Állapotsor elrejtése">
 
 <!ENTITY enableDrmMedia.label            "Digitális jogkezelő (DRM) engedélyezése:">
-
-
+<!ENTITY enableEmeForSuite.label         "Külső fejlesztőtől származó tartalomvisszafejtő modulok">
+<!ENTITY enableEmeForSuite.accesskey     "C">
 
 <!ENTITY enablePlugins.label             "Bővítmények engedélyezése a következőhöz:">
 <!ENTITY enablePluginForSuite.label      "Suite">
