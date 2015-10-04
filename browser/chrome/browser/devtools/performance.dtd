@@ -57,7 +57,7 @@
 <!ENTITY performanceUI.toolbar.js-calltree "Arbore de apelare">
 
 <!ENTITY performanceUI.toolbar.memory-calltree "Alocări">
-
+<!ENTITY performanceUI.toolbar.allocations.tooltiptext "Arată unde a fost alocată memoria în timpul înregistrării.">
 <!ENTITY performanceUI.toolbar.js-flamegraph "Grafic JS">
 
 <!ENTITY performanceUI.toolbar.memory-flamegraph "Grafic privind alocările de memorie">
