@@ -605,8 +605,8 @@
 
 <!ENTITY folderContextGetMessages.label "Adu mesajele">
 <!ENTITY folderContextGetMessages.accesskey "A">
-<!ENTITY folderContextOpenInNewWindow.label "Deschide în fereastră nouă">
-<!ENTITY folderContextOpenInNewWindow.accesskey "D">
+<!ENTITY folderContextOpenInNewWindow.label "Deschide într-o fereastră nouă">
+<!ENTITY folderContextOpenInNewWindow.accesskey "o">
 <!ENTITY folderContextOpenNewTab.label "Deschide în filă nouă">
 <!ENTITY folderContextOpenNewTab.accesskey "D">
 <!ENTITY folderContextNew.label "Subdosar nou…">

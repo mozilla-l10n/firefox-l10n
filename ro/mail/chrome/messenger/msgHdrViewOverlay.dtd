@@ -53,7 +53,7 @@
 <!ENTITY otherActionsButton.tooltip "Mai multe acțiuni">
 <!ENTITY otherActionsOpenConversation1.label "Deschide în conversație">
 <!ENTITY otherActionsOpenConversation1.accesskey "c">
-<!ENTITY otherActionsOpenInNewWindow1.label "Deschide în fereastră nouă">
+<!ENTITY otherActionsOpenInNewWindow1.label "Deschide într-o fereastră nouă">
 <!ENTITY otherActionsOpenInNewWindow1.accesskey "D">
 <!ENTITY otherActionsOpenInNewTab1.label "Deschide în filă nouă">
 <!ENTITY otherActionsOpenInNewTab1.accesskey "D">

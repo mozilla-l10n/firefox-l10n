@@ -70,7 +70,7 @@
 
 <!ENTITY showSettings.label            "Setări…">
 <!ENTITY showSettings.accesskey        "S">
-<!ENTITY proxiesConfigure.label        "Configurează cum se conectează &brandShortName; la internet">
+<!ENTITY proxiesConfigure.label        "Configurează modul în care &brandShortName; se conectează la internet">
 <!ENTITY connectionsInfo.caption       "Conexiune">
 <!ENTITY offlineInfo.caption           "Deconectat">
 <!ENTITY offlineInfo.label             "Configurează preferințele pentru modul deconectat">
