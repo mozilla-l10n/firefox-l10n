@@ -51,14 +51,17 @@
   -  The accesskey values used here should not clash with the value used for
   -  translation.options.neverForLanguage.accesskey in translation.properties
   -->
-
-
-
+<!ENTITY translation.options.neverForSite.label "اس ویب سائٹ کا ترجمہ کبھی نہیں کرے">
+<!ENTITY translation.options.neverForSite.accesskey "e">
+<!ENTITY translation.options.preferences.label  "ترجمہ ترجیحات">
+<!ENTITY translation.options.preferences.accesskey "ت">
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
   -  These 2 strings are displayed before and after a 'Microsoft Translator'
   -  logo.
   -->
+
+<!ENTITY translation.options.attribution.beforeLogo "کی طرف سے ترجمے">
 <!ENTITY translation.options.attribution.afterLogo "">
 <!-- LOCALIZATION NOTE (translation.options.attribution.poweredByYandex,
                         translation.options.attribution.beforeLogo,
@@ -67,3 +70,5 @@
   -  the other two strings when yandex translation engine is preferred by the
   -  user.
   -->
+
+<!ENTITY translation.options.attribution.yandexTranslate "یانڈیکس کی طرف سے طاقت فراہم کرتے ہیں۔ ترجمہ کریں">
