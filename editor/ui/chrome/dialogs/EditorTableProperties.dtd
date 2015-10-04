@@ -14,7 +14,7 @@
 <!ENTITY tableColumns.accessKey           "K">
 <!ENTITY tableHeight.label                "Høgd:">
 <!ENTITY tableHeight.accessKey            "ø">
-<!ENTITY tableWidth.label                 "Breidd:">
+<!ENTITY tableWidth.label                 "Breidde:">
 <!ENTITY tableWidth.accessKey             "B">
 <!ENTITY tableBorderSpacing.label         "Kantlinjer og mellomrom">
 <!ENTITY tableBorderWidth.label           "Kantlinje:">
@@ -44,7 +44,7 @@
 <!ENTITY cellSelectNext.accessKey         "n">
 <!ENTITY cellSelectPrevious.label         "Førre:">
 <!ENTITY cellSelectPrevious.accessKey     "F">
-<!ENTITY applyBeforeChange.label          "Desse endringane vil verte brukte før byte av merka område.">
+<!ENTITY applyBeforeChange.label          "Desse endringane vil verta nytta før byte av merkt område.">
 <!ENTITY cellContentAlignment.label       "Innhaldsjustering">
 <!ENTITY cellHorizontal.label             "Horisontal:">
 <!ENTITY cellHorizontal.accessKey         "H">
@@ -63,10 +63,10 @@
 <!ENTITY cellAlignBottom.label            "Botn">
 <!ENTITY cellAlignJustify.label           "Justering">
 <!ENTITY cellInheritColor.label           "(Lat tabellfargen skina gjennom)">
-<!ENTITY cellUseCheckboxHelp.label        "Bruk avkryssingsboksar for å avgjere kva eigenskapar som skal gjelde alle merka celler">
+<!ENTITY cellUseCheckboxHelp.label        "Bruk avkryssingsboksar for å avgjera kva eigenskapar som skal gjelda alle merka celler">
 
 <!-- Used in both Table and Cell panels  -->
-<!ENTITY size.label                       "Størrelse">
+<!ENTITY size.label                       "Storleik">
 <!ENTITY pixels.label                     "pikslar">
 <!ENTITY backgroundColor.label            "Bakgrunnsfarge:">
 <!ENTITY backgroundColor.accessKey        "B">

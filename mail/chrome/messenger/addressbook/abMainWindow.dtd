@@ -3,7 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title                        "Adressebok">
-
+<!ENTITY blankResultsPaneMessage.label                  "Denne adresseboka viser kontaktar berre etter at du har gjort eit søk">
+<!ENTITY localResultsOnlyMessage.label                  "Kontaktar frå eksterne adressebøker vert ikkje viste før du søkjer">
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Fil">
 <!ENTITY fileMenu.accesskey                             "F">
@@ -157,9 +158,11 @@ because displayed names don't have the comma in between. -->
 <!ENTITY SearchNameOrEmail.accesskey                    "N">
 <!ENTITY advancedButton.tooltip                         "Avansert adressesøk">
 <!ENTITY quickSearchCmd.key                             "k">
-<!ENTITY searchItem.title "Hurtigsøk">
+<!ENTITY searchItem.title "Snøggsøk">
 
 <!-- Results Pane -->
+<!ENTITY Addrbook.label                                 "Address Book">
+<!ENTITY Addrbook.accesskey                             "B">
 <!ENTITY GeneratedName.label                            "Namn">
 <!ENTITY GeneratedName.accesskey                        "N">
 <!ENTITY PrimaryEmail.label                             "E-post">
@@ -184,11 +187,11 @@ because displayed names don't have the comma in between. -->
 <!ENTITY FaxNumber.accesskey                            "F">
 <!ENTITY HomePhone.label                                "Heimetelefon">
 <!ENTITY HomePhone.accesskey                            "H">
-<!ENTITY WorkPhone.label                                "Arbeidstelefon">
-<!ENTITY WorkPhone.accesskey                            "A">
+<!ENTITY WorkPhone.label                                "Jobbtelefon">
+<!ENTITY WorkPhone.accesskey                            "J">
 <!ENTITY sortAscending.label                            "I stigande rekkjefølgje">
 <!ENTITY sortAscending.accesskey                        "s">
-<!ENTITY sortDescending.label                           "I minkande rekkjefølgje">
+<!ENTITY sortDescending.label                           "I søkkande rekkjefølgje">
 <!ENTITY sortDescending.accesskey                       "i">
 <!ENTITY _PhoneticName.label                            "Fonetisk namn">
 <!ENTITY _PhoneticName.accesskey                        "F">
@@ -200,7 +203,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY other.heading                                  "Anna">
 <!ENTITY chat.heading                                   "Nettprat">
 <!ENTITY phone.heading                                  "Telefon">
-<!ENTITY work.heading                                   "Arbeid">
+<!ENTITY work.heading                                   "Jobb">
 <!-- Special Box Headings, for mailing lists -->
 <!ENTITY description.heading                            "Forklaring">
 <!ENTITY addresses.heading                              "Adresser">

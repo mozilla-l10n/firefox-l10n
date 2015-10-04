@@ -5,17 +5,17 @@
 <!ENTITY folderProps.windowtitle.label           "Eigenskapar">
 
 <!ENTITY generalInfo.label                       "Generell informasjon">
-<!ENTITY folderCharsetFallback.label             "Reserve-teiknkoding:">
-<!ENTITY folderCharsetFallback.accesskey         "R">
-<!ENTITY folderCharsetEnforce.label              "Bruk standardar for alle meldinger i mappa (teiknkodinga i enkeltmeldingar og auto-detekterte teiknodingar vert ignorerte)">
-<!ENTITY folderCharsetEnforce.accesskey          "B">
+<!ENTITY folderCharsetFallback2.label            "Reserveteiknkoding:">
+<!ENTITY folderCharsetFallback2.accesskey        "R">
+<!ENTITY folderCharsetEnforce2.label             "Bruk koding på alle meldingar i mappa (individuelle innstillingar for koding av meldingstekst og auto-oppdaging vert ignorert)">
+<!ENTITY folderCharsetEnforce2.accesskey         "B">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Bygg opp oppsummeringsfil på nytt">
 <!ENTITY folderRebuildSummaryFile2.label         "Reparer mappe">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">
 <!ENTITY folderRebuildSummaryFile.explanation    "Av og til kan oppsummeringsfila (.msf) verte skada, og meldingar kan sjå ut til å forsvinne, eller sletta meldingar kan bli vist. Å reparere mappa kan rette opp desse problema.">
 <!ENTITY folderIncludeInGlobalSearch.label       "Inkluder meldingar i denne mappa i globalt søkjeresultat">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "n">
-     
+
 <!ENTITY retention.label "Ivaretaking av meldingar">
 <!ENTITY retentionUseAccount.label  "Bruk innstillingane for kontoen">
 <!ENTITY retentionUseAccount.accesskey "r">

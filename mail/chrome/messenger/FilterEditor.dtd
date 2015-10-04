@@ -23,6 +23,10 @@
 <!ENTITY contextManual.accesskey "R">
 <!ENTITY contextBeforeCls.label "Filtrer før søppelpost-klassifisering">
 <!ENTITY contextAfterCls.label "Filtrer etter søppelpost-klassifisering">
+<!ENTITY contextOutgoing.label "Etter sending">
+<!ENTITY contextOutgoing.accesskey "E">
+<!ENTITY contextArchive.label "Arkivering">
+<!ENTITY contextArchive.accesskey "A">
 
 <!ENTITY filterActionDesc.label "Gjer dette med meldingane:">
 <!ENTITY filterActionDesc.accesskey "G">
@@ -35,8 +39,8 @@
 <!ENTITY copyMessage.label "Kopier melding til">
 <!ENTITY forwardTo.label "Vidaresend melding til">
 <!ENTITY replyWithTemplate.label "Svar med mal">
-<!ENTITY markMessageRead.label "Merk som lesen">
-<!ENTITY markMessageUnread.label "Merk som ulesen">
+<!ENTITY markMessageRead.label "Marker som lesen">
+<!ENTITY markMessageUnread.label "Marker som ulesen">
 <!ENTITY markMessageStarred.label "Merk med stjerne">
 <!ENTITY setPriority.label "Sett prioritet til">
 <!ENTITY addTag.label "Merk melding">

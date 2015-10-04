@@ -32,7 +32,7 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "E">
 <!ENTITY newIMAccountCmd.label "Nettpratkonto …">
 <!ENTITY newIMAccountCmd.accesskey "N">
-<!ENTITY newFeedAccountCmd.label "Nyheitskjeldekonto …">
+<!ENTITY newFeedAccountCmd.label "Nyhendekjelde-konto …">
 <!ENTITY newFeedAccountCmd.accesskey "d">
 <!ENTITY newIMContactCmd.label "Nettpratkontakt …">
 <!ENTITY newIMContactCmd.accesskey "t">
@@ -51,7 +51,7 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Denne kontoen">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "D">
-<!ENTITY getNextNMsgCmd.label "Hent neste 500 meldingar i nyheitsgruppa">
+<!ENTITY getNextNMsgCmd.label "Hent neste 500 meldingar i nyhendegruppa">
 <!ENTITY getNextNMsgCmd.accesskey "H">
 <!ENTITY sendUnsentCmd.label "Send usende meldingar">
 <!ENTITY sendUnsentCmd.accesskey "u">
@@ -70,9 +70,9 @@
 <!ENTITY offlineMenu.accesskey "F">
 <!ENTITY offlineGoOfflineCmd.label "Arbeid fråkopla">
 <!ENTITY offlineGoOfflineCmd.accesskey "A">
-<!ENTITY synchronizeOfflineCmd.label "Last ned/synkroniser no …">
-<!ENTITY synchronizeOfflineCmd.accesskey "a">
-<!ENTITY settingsOfflineCmd2.label "Fraåkoplat-innstillingar …">
+<!ENTITY synchronizeOfflineCmd.label "Last ned/Synkroniser no …">
+<!ENTITY synchronizeOfflineCmd.accesskey "S">
+<!ENTITY settingsOfflineCmd2.label "Fråkopla-innstillingar …">
 <!ENTITY settingsOfflineCmd2.accesskey "F">
 <!ENTITY downloadSelectedCmd.label "Last ned valde meldingar">
 <!ENTITY downloadSelectedCmd.accesskey "n">
@@ -93,7 +93,7 @@
 <!ENTITY undeleteMsgCmd.accesskey "g">
 <!ENTITY deleteMsgsCmd.label "Slett valde meldingar">
 <!ENTITY deleteMsgsCmd.accesskey "v">
-<!ENTITY undeleteMsgsCmd.label "Angra valde meldingar">
+<!ENTITY undeleteMsgsCmd.label "Angra «Slett valde meldingar»">
 <!ENTITY undeleteMsgsCmd.accesskey "A">
 <!ENTITY deleteFolderCmd.label "Slett mappe">
 <!ENTITY deleteFolderCmd.accesskey "S">
@@ -111,18 +111,18 @@
 <!ENTITY menuFavoriteFolder.label "Favorittmappe">
 <!ENTITY menuFavoriteFolder.accesskey "F">
 <!ENTITY folderPropsCmd2.label "Eigenskapar">
-<!ENTITY folderPropsFolderCmd2.label "Mappe-eigenskapar">
+<!ENTITY folderPropsFolderCmd2.label "Mappeeigenskapar">
 <!ENTITY folderPropsNewsgroupCmd2.label "Nyhendegruppe-innstillingar">
 <!ENTITY folderPropsCmd.accesskey "N">
-<!ENTITY undoDeleteMsgCmd.label "Angre sletting av melding">
+<!ENTITY undoDeleteMsgCmd.label "Angra sletting av melding">
 <!ENTITY redoDeleteMsgCmd.label "Gjenta sletting av melding">
 <!ENTITY undoMoveMsgCmd.label "Angra flytting av melding">
 <!ENTITY redoMoveMsgCmd.label "Gjenta flytting av melding">
-<!ENTITY undoCopyMsgCmd.label "Angre kopiering av melding">
+<!ENTITY undoCopyMsgCmd.label "Angra kopiering av melding">
 <!ENTITY redoCopyMsgCmd.label "Gjenta kopiering av melding">
 <!ENTITY undoMarkAllCmd.label "Angra merk alle som lesne">
 <!ENTITY redoMarkAllCmd.label "Gjenta merk alle som lesne">
-<!ENTITY undoDefaultCmd.label "Angre">
+<!ENTITY undoDefaultCmd.label "Angra">
 <!ENTITY undoDefaultCmd.accesskey "A">
 <!ENTITY redoDefaultCmd.label "Gjenta">
 <!ENTITY redoDefaultCmd.accesskey "G">
@@ -145,6 +145,8 @@
 <!ENTITY messagePaneVertical.accesskey "V">
 <!ENTITY showFolderPaneCmd.label "Mappepanel">
 <!ENTITY showFolderPaneCmd.accesskey "M">
+<!ENTITY showFolderPaneColsCmd.label "Kolonner i mappepanelet">
+<!ENTITY showFolderPaneColsCmd.accesskey "K">
 <!ENTITY showMessageCmd.label "Meldingsvindauge">
 <!ENTITY showMessageCmd.accesskey "v">
 
@@ -168,7 +170,7 @@
 <!ENTITY sortMenu.accesskey "o">
 <!ENTITY sortByDateCmd.label "Dato">
 <!ENTITY sortByDateCmd.accesskey "o">
-<!ENTITY sortByReceivedCmd.label "Mottatt">
+<!ENTITY sortByReceivedCmd.label "Motteke">
 <!ENTITY sortByReceivedCmd.accesskey "a">
 <!ENTITY sortByStarCmd.label "Stjerne">
 <!ENTITY sortByStarCmd.accesskey "n">
@@ -183,16 +185,18 @@
 <!ENTITY sortByTagsCmd.label "Merkelappar">
 <!ENTITY sortByTagsCmd.accesskey "k">
 <!ENTITY sortByJunkStatusCmd.label "Uønskt-status">
-<!ENTITY sortByJunkStatusCmd.accesskey "y">
+<!ENTITY sortByJunkStatusCmd.accesskey "U">
 <!ENTITY sortBySubjectCmd.label "Emne">
 <!ENTITY sortBySubjectCmd.accesskey "E">
 <!ENTITY sortByFromCmd.label "Frå">
 <!ENTITY sortByFromCmd.accesskey "F">
 <!ENTITY sortByRecipientCmd.label "Mottakar">
 <!ENTITY sortByRecipientCmd.accesskey "M">
+<!ENTITY sortByCorrespondentCmd.label "Korrespondentar">
+<!ENTITY sortByCorrespondentCmd.accesskey "K">
 <!ENTITY sortByUnreadCmd.label "Lesen">
 <!ENTITY sortByUnreadCmd.accesskey "L">
-<!ENTITY sortByOrderReceivedCmd.label "Mottatt-rekkjefølgje">
+<!ENTITY sortByOrderReceivedCmd.label "Mottekne-rekkjefølgje">
 <!ENTITY sortByOrderReceivedCmd.accesskey "r">
 <!ENTITY sortAscending.label "Stigande">
 <!ENTITY sortAscending.accesskey "S">
@@ -239,7 +243,7 @@
 <!ENTITY bodySanitized.accesskey "E">
 <!ENTITY bodyAsPlaintext.label "Rein tekst">
 <!ENTITY bodyAsPlaintext.accesskey "R">
-<!ENTITY bodyAllParts.label "Alle Bod-delar">
+<!ENTITY bodyAllParts.label "Alle body-delar">
 <!ENTITY bodyAllParts.accesskey "A">
 
 <!ENTITY bodyMenuFeed.label "Vis nyhendekjelde-meldingskroppen som">
@@ -292,7 +296,7 @@
 <!ENTITY nextStarredMsgCmd.label "Melding med stjerne">
 <!ENTITY nextStarredMsgCmd.accesskey "M">
 <!ENTITY nextUnreadThread.label "Ulesen tråd">
-<!ENTITY nextUnreadThread.accesskey "T">
+<!ENTITY nextUnreadThread.accesskey "t">
 <!ENTITY nextUnreadThread.key "t">
 <!ENTITY prevMenu.label "Førre">
 <!ENTITY prevMenu.accesskey "F">
@@ -337,7 +341,7 @@
 <!ENTITY replyMsgCmd.key  "r">
 <!ENTITY replySenderCmd.label "Svar til avsendar">
 <!ENTITY replySenderCmd.accesskey "v">
-<!ENTITY replyNewsgroupCmd2.label "Oppfølgjing til nyhendesgruppe">
+<!ENTITY replyNewsgroupCmd2.label "Oppfølging til nyhendegruppe">
 <!ENTITY replyNewsgroupCmd2.accesskey  "y">
 <!ENTITY replyToAllMsgCmd.label "Svar til alle">
 <!ENTITY replyToAllMsgCmd.accesskey  "t">
@@ -396,7 +400,7 @@
 <!ENTITY toggleReadCmd.key "m">
 <!ENTITY markAsReadCmd.label "Som lesen">
 <!ENTITY markAsReadCmd.accesskey "l">
-<!ENTITY markAsUnreadCmd.label "som ulesen">
+<!ENTITY markAsUnreadCmd.label "Som ulesen">
 <!ENTITY markAsUnreadCmd.accesskey "u">
 <!ENTITY markThreadAsReadCmd.label "Tråd som lesen">
 <!ENTITY markThreadAsReadCmd.accesskey "T">
@@ -408,18 +412,18 @@
 <!ENTITY markAllReadCmd.accesskey "A">
 <!ENTITY markAllReadCmd.key "c">
 <!ENTITY markStarredCmd.label "Merk med stjerne">
-<!ENTITY markStarredCmd.accesskey "s">
+<!ENTITY markStarredCmd.accesskey "M">
 <!ENTITY markStarredCmd.key "S">
 <!ENTITY markAsJunkCmd.label "Som uønskt">
-<!ENTITY markAsJunkCmd.accesskey "o">
+<!ENTITY markAsJunkCmd.accesskey "S">
 <!ENTITY markAsJunkCmd.key "j">
 <!ENTITY markAsNotJunkCmd.label "Som ønskt">
-<!ENTITY markAsNotJunkCmd.accesskey "m">
+<!ENTITY markAsNotJunkCmd.accesskey "o">
 <!ENTITY markAsNotJunkCmd.key "j">
 <!ENTITY recalculateJunkScoreCmd.label "Køyr kontroll av uønskt e-post">
 <!ENTITY recalculateJunkScoreCmd.accesskey "K">
 <!ENTITY openMessageWindowCmd.label "Opna melding">
-<!ENTITY openMessageWindowCmd.accesskey "O">
+<!ENTITY openMessageWindowCmd.accesskey "d">
 <!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY openConversationCmd.label "Opna i samtale">
 <!ENTITY openConversationCmd.accesskey "n">
@@ -465,7 +469,7 @@
 <!ENTITY filtersCmd2.accesskey "M">
 <!ENTITY filtersApply.label "Køyr filter på mappe">
 <!ENTITY filtersApply.accesskey "K">
-<!ENTITY filtersApplyToSelection.label "Køyr filter på valde meldingar">
+<!ENTITY filtersApplyToSelection.label "Køyr filter på merkte meldingar">
 <!ENTITY filtersApplyToSelection.accesskey "f">
 <!ENTITY filtersApplyToMessage.label "Køyr filter på meldingar">
 <!ENTITY filtersApplyToMessage.accesskey "ø">
@@ -518,7 +522,7 @@
 <!ENTITY addressBookButton.label "Adressebok">
 <!ENTITY chatButton.label "Nettprat">
 <!ENTITY glodaSearch.title "Globalt søk">
-<!ENTITY searchItem.title "Hurtigsøk">
+<!ENTITY searchItem.title "Snøggsøk">
 <!ENTITY mailViewsToolbarItem.title "Meldingsoversyn">
 <!ENTITY folderLocationToolbarItem.title "Mappeplassering">
 <!ENTITY tagButton.label "Merkelapp">
@@ -545,7 +549,7 @@
 <!ENTITY previousMsgButton.tooltip "Gå til førre melding">
 <!ENTITY goForwardButton.tooltip "Gå fram ei melding">
 <!ENTITY goBackButton.tooltip "Gå tilbake ei melding">
-<!ENTITY deleteButton.tooltip "Slett valde melding eller mappe">
+<!ENTITY deleteButton.tooltip "Slett vald melding eller mappe">
 <!ENTITY undeleteButton.tooltip "Angra sletting av melding">
 <!ENTITY markButton.tooltip "Merk meldingar">
 <!ENTITY printButton.tooltip "Skriv ut denne meldinga">
@@ -593,7 +597,9 @@
 <!ENTITY manageTags.accesskey "H">
 
 <!-- Folder Pane -->
-<!ENTITY folderColumn.label "Namn">
+<!ENTITY folderNameColumn.label "Namn">
+<!ENTITY folderUnreadColumn.label "Ulesne">
+<!ENTITY folderTotalColumn.label "Totalt">
 <!ENTITY folderSizeColumn.label "Storleik">
 
 <!-- Folder Pane Context Menu -->
@@ -654,6 +660,7 @@
 <!ENTITY threadColumn.label "Tråd">
 <!ENTITY fromColumn.label "Frå">
 <!ENTITY recipientColumn.label "Mottakar">
+<!ENTITY correspondentColumn.label "Korrespondentar">
 <!ENTITY subjectColumn.label "Emne">
 <!ENTITY dateColumn.label "Dato">
 <!ENTITY priorityColumn.label "Prioritet">
@@ -674,24 +681,25 @@
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Vel kolonner du vil vise">
 <!ENTITY threadColumn2.tooltip "Vis meldingstrådar">
-<!ENTITY fromColumn2.tooltip "Sorter etter frå">
-<!ENTITY recipientColumn2.tooltip "Sorter etter mottakar">
-<!ENTITY subjectColumn2.tooltip "Sorter etter emne">
-<!ENTITY dateColumn2.tooltip "Sorter etter dato">
-<!ENTITY priorityColumn2.tooltip "Sorter etter prioritet">
-<!ENTITY tagsColumn2.tooltip "Sorter etter merkelappar">
+<!ENTITY fromColumn2.tooltip "Sorter etter: Frå">
+<!ENTITY recipientColumn2.tooltip "Sorter etter: Mottakar">
+<!ENTITY correspondentColumn2.tooltip "Sorter etter korrespondentar">
+<!ENTITY subjectColumn2.tooltip "Sorter etter: Emne">
+<!ENTITY dateColumn2.tooltip "Sorter etter: Dato">
+<!ENTITY priorityColumn2.tooltip "Sorter etter: Prioritet">
+<!ENTITY tagsColumn2.tooltip "Sorter etter: Merkelappar">
 <!ENTITY accountColumn2.tooltip "Sorter etter konto">
-<!ENTITY statusColumn2.tooltip "Sorter etter status">
-<!ENTITY sizeColumn2.tooltip "Sorter etter storleik">
-<!ENTITY junkStatusColumn2.tooltip "Sorter etter uønskt-status">
+<!ENTITY statusColumn2.tooltip "Sorter etter: Status">
+<!ENTITY sizeColumn2.tooltip "Sorter etter: Storleik">
+<!ENTITY junkStatusColumn2.tooltip "Sorter etter: Uønskt-status">
 <!ENTITY unreadColumn2.tooltip "Tal på ulesne meldingar i tråden">
 <!ENTITY totalColumn2.tooltip "Totalt tal på meldingar i tråden">
-<!ENTITY readColumn2.tooltip "Sorter etter lesen-tilstand">
-<!ENTITY receivedColumn2.tooltip "Sorter etter dato mottatt">
-<!ENTITY starredColumn2.tooltip "Sorter etter stjerne">
-<!ENTITY locationColumn2.tooltip "Sorter etter plassering">
-<!ENTITY idColumn2.tooltip "Sorter etter mottaksrekkjefølgje">
-<!ENTITY attachmentColumn2.tooltip "Sorter etter vedlegg">
+<!ENTITY readColumn2.tooltip "Sorter etter: Lesen-tilstand">
+<!ENTITY receivedColumn2.tooltip "Sorter etter: Dato mottatt">
+<!ENTITY starredColumn2.tooltip "Sorter etter: Stjerne">
+<!ENTITY locationColumn2.tooltip "Sorter etter: Plassering">
+<!ENTITY idColumn2.tooltip "Sorter etter: Mottaksrekkjefølgje">
+<!ENTITY attachmentColumn2.tooltip "Sorter etter: Vedlegg">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Opna melding i nytt vindauge">
@@ -712,7 +720,7 @@
 <!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextReplySender.label "Svar til avsendar">
 <!ENTITY contextReplySender.accesskey "S">
-<!ENTITY contextReplyNewsgroup2.label "Oppfølging til nyheitsgruppe">
+<!ENTITY contextReplyNewsgroup2.label "Følg opp til nyhendegruppe">
 <!ENTITY contextReplyNewsgroup2.accesskey "ø">
 <!ENTITY contextReplyAll.label "Svar til alle">
 <!ENTITY contextReplyAll.accesskey "a">
@@ -759,7 +767,7 @@
    folder(s).  The sub-menu items indicate whether we want to apply it to just
    a folder or also its children.
   -->
-<!ENTITY columnPicker.applyTo.label "Bruk kolonnane på …">
+<!ENTITY columnPicker.applyTo.label "Bruk same kolonnar i …">
 <!-- LOCALIZATION NOTE (columnPicker.applyToFolder.label):
    This option in the thread pane column picker is found on a sub-menu beneath
    the "columnPicker.applyTo.label" alongside
@@ -832,9 +840,9 @@
 <!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
 
 <!-- Message Header Context Menu -->
-<!ENTITY AddToAddressBook.label "Legg til i adresseboka …">
+<!ENTITY AddToAddressBook.label "Legg til i adressebok …">
 <!ENTITY AddToAddressBook.accesskey "L">
-<!ENTITY AddDirectlyToAddressBook.label "Legg til i adresseboka">
+<!ENTITY AddDirectlyToAddressBook.label "Legg til i adressebok">
 <!ENTITY AddDirectlyToAddressBook.accesskey "L">
 <!ENTITY EditContact1.label "Rediger kontakt">
 <!ENTITY EditContact1.accesskey "R">
@@ -850,7 +858,7 @@
 <!ENTITY CopyNewsgroupName.accesskey "o">
 <!ENTITY CopyNewsgroupURL.label "Kopier adresse til nyhendegruppe">
 <!ENTITY CopyNewsgroupURL.accesskey "K">
-<!ENTITY CreateFilterFrom.label "Lag filter …">
+<!ENTITY CreateFilterFrom.label "Lag filter for …">
 <!ENTITY CreateFilterFrom.accesskey "L">
 <!ENTITY reportPhishingURL.label "Rapporter e-postsvindel">
 <!ENTITY reportPhishingURL.accesskey "o">
@@ -860,7 +868,7 @@
 <!ENTITY spellAddDictionaries.accesskey "L">
 
 <!-- Content Pane Context Menu -->
-<!ENTITY saveLinkAsCmd.label "Lagra lenke som …">
+<!ENTITY saveLinkAsCmd.label "Lagra lenkemål som …">
 <!ENTITY saveLinkAsCmd.accesskey "r">
 <!ENTITY saveImageAsCmd.label "Lagra bilde som …">
 <!ENTITY saveImageAsCmd.accesskey "a">

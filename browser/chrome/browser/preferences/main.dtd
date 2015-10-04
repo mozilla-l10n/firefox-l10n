@@ -30,3 +30,16 @@
 <!ENTITY chooseFolderMac.accesskey    "o">
 <!ENTITY alwaysAsk.label "Alltid spør meg kvar filer skal lagrast">
 <!ENTITY alwaysAsk.accesskey "ø">
+
+<!ENTITY alwaysCheckDefault2.label        "Alltid sjekk om &brandShortName; er standard nettlesar">
+<!ENTITY alwaysCheckDefault2.accesskey    "A">
+<!ENTITY setAsMyDefaultBrowser2.label     "Bruk som standard">
+<!ENTITY setAsMyDefaultBrowser2.accesskey "B">
+<!ENTITY isDefault.label                  "&brandShortName; er standard nettlesar">
+<!ENTITY isNotDefault.label               "&brandShortName; er ikkje standard nettlesar">
+
+<!ENTITY separateProfileMode.label        "Tillat &brandShortName; og Firefox å køyra samstundes">
+<!ENTITY useFirefoxSync.label             "Tips: Dei brukar eigne profilar. Bruk Sync for å dela data mellom dei.">
+<!ENTITY getStarted.label                 "Start å bruka Sync …">
+
+<!ENTITY e10sEnabled.label                "Slå på multi-prosess &brandShortName;">

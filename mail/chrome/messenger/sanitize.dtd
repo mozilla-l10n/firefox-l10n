@@ -24,6 +24,8 @@ that require it.  -->
 <!ENTITY detailsProgressiveDisclosure.label     "Detaljar">
 <!ENTITY detailsProgressiveDisclosure.accesskey "D">
 
+<!ENTITY itemHistory.label                 "Nettlesarhistorikk">
+<!ENTITY itemHistory.accesskey             "N">
 <!ENTITY itemCookies.label                 "Infokapslar">
 <!ENTITY itemCookies.accesskey             "I">
 <!ENTITY itemCache.label                   "Snøgglager">

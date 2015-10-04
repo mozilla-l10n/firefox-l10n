@@ -13,15 +13,15 @@
 <!ENTITY deleteButton.accesskey "S">
 <!ENTITY reorderTopButton "Flytt øvst">
 <!ENTITY reorderTopButton.accessKey "v">
-<!ENTITY reorderTopButton.toolTip "Omorganiser filter slik at det køyrer før alle andre">
+<!ENTITY reorderTopButton.toolTip "Omorganiser filteret slik at det køyrer før alle andre">
 <!ENTITY reorderUpButton.label "Flytt opp">
 <!ENTITY reorderUpButton.accesskey "o">
 <!ENTITY reorderDownButton.label "Flytt ned">
 <!ENTITY reorderDownButton.accesskey "n">
 <!ENTITY reorderBottomButton "Flytt nedst">
 <!ENTITY reorderBottomButton.accessKey "d">
-<!ENTITY reorderBottomButton.toolTip "Omorganiser filter slik at det vert utført etter alle andre">
-<!ENTITY filterHeader.label "Filter som er slått på vert utført i den rekkjefølgja dei står i nedanfor.">
+<!ENTITY reorderBottomButton.toolTip "Omorganiser filteret slik at det køyrer etter alle andre">
+<!ENTITY filterHeader.label "Filter som er slått på køyrer i den rekkjefølgja dei står i nedanfor.">
 <!ENTITY filtersForPrefix.label "Filter for:">
 <!ENTITY filtersForPrefix.accesskey "F">
 <!ENTITY viewLogButton.label "Filterlogg">

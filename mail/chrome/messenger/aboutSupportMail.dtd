@@ -6,7 +6,7 @@
 
 <!ENTITY aboutSupport.accountsTitle "E-post og nyheitsgruppe-kontoar">
 <!ENTITY aboutSupport.showPrivateData.mainText "Inkluder kontonamn">
-<!ENTITY aboutSupport.showPrivateData.explanationText "(mogleg person-identifiserbar info)">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(muleg person-identifiserbar info)">
 <!ENTITY aboutSupport.accountsID "ID">
 <!ENTITY aboutSupport.accountsName "Namn">
 <!ENTITY aboutSupport.accountsIncomingServer "Innkomande tenar">
@@ -15,5 +15,6 @@
 <!ENTITY aboutSupport.accountsConnSecurity "Tilkoplingstryggleik">
 <!ENTITY aboutSupport.accountsAuthMethod "Autentiseringsmåte">
 <!ENTITY aboutSupport.accountsDefault "Standard?">
+<!ENTITY aboutSupport.identityName "Identitet">
 
 <!ENTITY aboutSupport.sendViaEmail.label "Send via e-post">

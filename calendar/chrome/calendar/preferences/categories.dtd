@@ -19,6 +19,6 @@
 <!ENTITY pref.categories.color.label "Farge">
 <!ENTITY pref.categories.usecolor.label "Bruk farge">
 <!ENTITY pref.categories.none.label "(ingen)">
-<!ENTITY pref.categories.overwrite "Det finst allereie ein kategori med dette namnet. \n Ønskjer du å overskrive han?">
+<!ENTITY pref.categories.overwrite "Det finst allereie ein kategori med dette namnet. \n Ønskjer du å overskriva han?">
 <!ENTITY pref.categories.overwrite.title "Åtvaring: Duplikatnamn">
-<!ENTITY pref.categories.noBlankCategories "Du må skrive inn namn på kategorien.">
+<!ENTITY pref.categories.noBlankCategories "Du må skriva inn namn på kategorien.">

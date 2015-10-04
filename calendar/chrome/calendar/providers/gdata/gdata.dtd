@@ -8,9 +8,15 @@
 <!ENTITY gdata.privacy.default.accesskey "s">
 
 <!ENTITY gdata.migration.title "Flytt skriveverna kalendrar">
-<!ENTITY gdata.migration.description "Tilbydaren av Googlekalender har oppdaga at du har kalendrar som berre kan få tilgang til Googlekalender i skriveverna modus. Dersom du vil oppgradere nokon av desse kalendrane, vel kva for nokre nedanfor">
+<!ENTITY gdata.migration.description "Tilbydaren av Google Kalender har oppdaga at du har kalendrar som berre kan få tilgang til Googlekalender i skriveverna modus. Dersom du vil oppgradera nokon av desse kalendrane, vel kva for nokre nedanfor">
 <!ENTITY gdata.migration.upgrade.label "Oppgrader">
-<!ENTITY gdata.migration.upgrade.accesskey "U">
+<!ENTITY gdata.migration.upgrade.accesskey "O">
 <!ENTITY gdata.migration.showagain.label "Kontroller alltid">
 
+<!ENTITY gdata.reminder.default "Standardpåminning">
 <!ENTITY gdata.reminder.action.sms.label "Send ei tekstmelding">
+
+<!ENTITY gdata.wizard.session.description "Vel ei eksisterande økt, eller skriv inn e-postadressa di for å laga ei ny økt. Du treng berre ei økt per konto.">
+<!ENTITY gdata.wizard.calendars.description "Vel kalendrane og oppgåvelistene du vil abonnera på.">
+
+<!ENTITY gdata.wizard.nextstep.description "Gå til neste steg for å konfigurera kalendrar.">

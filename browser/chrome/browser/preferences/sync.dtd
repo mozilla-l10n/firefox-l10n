@@ -14,7 +14,7 @@
 <!ENTITY resetPass.label              "Tilbakestill">
 
 <!-- Manage Account -->
-<!ENTITY manageAccount.label          "Handsam konto">
+<!ENTITY manageAccount.label          "Handsame konto">
 <!ENTITY manageAccount.accesskey      "H">
 <!ENTITY viewQuota.label              "Vis plasskvote">
 <!ENTITY changePassword2.label        "Endra passord …">
@@ -26,6 +26,8 @@
 <!ENTITY syncMy.label               "Synkroniser">
 <!ENTITY engine.bookmarks.label     "Bokmerke">
 <!ENTITY engine.bookmarks.accesskey "B">
+<!ENTITY engine.readinglist.label   "Leseliste">
+<!ENTITY engine.readinglist.accesskey "L">
 <!ENTITY engine.tabs.label          "Faner">
 <!ENTITY engine.tabs.accesskey      "F">
 <!ENTITY engine.history.label       "Historikk">
@@ -40,6 +42,10 @@
 <!-- Device Settings -->
 <!ENTITY syncDeviceName.label       "Einingsnamn:">
 <!ENTITY syncDeviceName.accesskey   "E">
+<!ENTITY fxaSyncDeviceName.label       "Einingsnamn">
+<!ENTITY changeSyncDeviceName.label "Endra einingsnamn …">
+<!ENTITY cancelChangeSyncDeviceName.label "Avbryt">
+<!ENTITY saveChangeSyncDeviceName.label "Lagra">
 <!ENTITY unlinkDevice.label           "Fjern tilknyting til eininga">
 
 <!-- Footer stuff -->
@@ -47,8 +53,8 @@
 <!ENTITY prefs.ppLink.label         "Personvern">
 
 <!-- Firefox Accounts stuff -->
-<!ENTITY fxaPrivacyNotice.link.label "Personvernmerknad">
-<!ENTITY determiningAcctStatus.label     "Fastsetjer kontostatusen din …">
+<!ENTITY fxaPrivacyNotice.link.label "Personvern">
+<!ENTITY determiningAcctStatus.label     "Hentar kontostatus …">
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
@@ -69,12 +75,12 @@ both, to better adapt this sentence to their language.
 <!ENTITY notSignedIn.label           "Du er ikkje innlogga.">
 <!ENTITY signIn.label                "Logg inn">
 <!ENTITY manage.label                "Handsame">
-<!ENTITY disconnect.label            "Kople frå …">
-<!ENTITY verify.label                "Stadfest epost">
-<!ENTITY forget.label                "Gløym denne eposten">
+<!ENTITY disconnect.label            "Kopla frå …">
+<!ENTITY verify.label                "Stadfeste e-post">
+<!ENTITY forget.label                "Gløym denne e-posten">
 
 <!ENTITY welcome.description "Få tilgang til faner, bokmerke, passord og meir, alle stadar du brukar &brandShortName;.">
-<!ENTITY welcome.signIn.label "Sign In">
+<!ENTITY welcome.signIn.label "Logg inn">
 <!ENTITY welcome.createAccount.label "Lag konto">
 
 <!ENTITY welcome.useOldSync.label "Brukar du ein eldre versjon av Sync?">

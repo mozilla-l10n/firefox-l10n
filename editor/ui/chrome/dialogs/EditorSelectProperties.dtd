@@ -18,7 +18,7 @@
 
 <!ENTITY OptGroup.label "Alternativsgruppe">
 <!ENTITY OptGroupLabel.label "Merkelapp:">
-<!ENTITY OptGroupLabel.accesskey "S">
+<!ENTITY OptGroupLabel.accesskey "M">
 <!ENTITY OptGroupDisabled.label "Avslått">
 <!ENTITY OptGroupDisabled.accesskey "A">
 
@@ -39,7 +39,7 @@
 <!ENTITY AddOption.label "Legg til alternativ">
 <!ENTITY AddOption.accesskey "a">
 <!ENTITY AddOptGroup.label "Legg til gruppe">
-<!ENTITY AddOptGroup.accesskey "G">
+<!ENTITY AddOptGroup.accesskey "L">
 <!ENTITY RemoveElement.label "Fjern">
 <!ENTITY RemoveElement.accesskey "R">
 <!ENTITY MoveElementUp.label "Flytt opp">

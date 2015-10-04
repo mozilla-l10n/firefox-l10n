@@ -14,4 +14,4 @@
 <!ENTITY descriptionInput.accessKey "F">
 <!ENTITY locationNewPage.label "[Ny side, ikkje lagra enno]">
 <!ENTITY EditHEADSource1.label "Avanserte brukarar:">
-<!ENTITY EditHEADSource2.label "For å redigere anna innhald i &lt;head&gt;-regionen, bruk «HTML-kjelde» i Vis-menyen eller verktøylinja for endringsmodus.">
+<!ENTITY EditHEADSource2.label "For å redigera anna innhald i &lt;head&gt;-regionen, bruk «HTML-kjelde» i Vis-menyen eller verktøylinja for redigeringsmodus.">
