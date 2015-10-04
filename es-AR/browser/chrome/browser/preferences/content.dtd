@@ -4,6 +4,11 @@
 
 <!ENTITY  popups.label                "Emergentes">
 
+<!ENTITY  notificationsPolicy.label            "Notificaciones">
+<!ENTITY  notificationsPolicyDesc.label        "Elija que sitios tendrán permiso de mostrar notificaciones">
+<!ENTITY  notificationsPolicyButton.accesskey  "h">
+<!ENTITY  notificationsPolicyButton.label      "Elegir…">
+
 <!ENTITY  blockPopups.label           "Bloquear ventanas emergentes">
 <!ENTITY  blockPopups.accesskey       "B">
 <!ENTITY  popupExceptions.label       "Excepciones…">

@@ -218,6 +218,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY keywordfield.label "Agregar una palabra clave a esta búsqueda…">
 <!ENTITY keywordfield.accesskey "g">
+
 <!ENTITY downloads.label "Descargas">
 <!ENTITY downloads.accesskey "D">
 <!ENTITY downloads.commandkey "j">
@@ -227,7 +228,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.commandkey            "A">
 <!ENTITY webapps.label                "Aplicaciones">
 <!ENTITY webapps.accesskey            "p">
-
+<!ENTITY loopMenuItem.label           "Iniciar una conversación…">
+<!ENTITY loopMenuItem.accesskey       "v">
 
 <!ENTITY webDeveloperMenu.label       "Desarrollador web">
 <!ENTITY webDeveloperMenu.accesskey   "w">
@@ -307,9 +309,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label "Archivo">
 <!ENTITY fileMenu.accesskey "A">
-<!ENTITY newNavigatorCmd.label "Nueva ventana">
-<!ENTITY newNavigatorCmd.key "N">
-<!ENTITY newNavigatorCmd.accesskey "N">
+<!ENTITY newUserContext.label             "Nueva pestaña contenedora">
+<!ENTITY newUserContext.accesskey         "C">
+<!ENTITY userContextPersonal.label        "Personal">
+<!ENTITY userContextPersonal.accesskey    "P">
+<!ENTITY userContextWork.label            "Trabajo">
+<!ENTITY userContextWork.accesskey        "T">
+<!ENTITY userContextBanking.label         "Bancos">
+<!ENTITY userContextBanking.accesskey     "B">
+<!ENTITY userContextShopping.label        "Compras">
+<!ENTITY userContextShopping.accesskey    "S">
+<!ENTITY newNavigatorCmd.label        "Nueva ventana">
+<!ENTITY newNavigatorCmd.key        "N">
+<!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "Nueva ventana privada">
 <!ENTITY newPrivateWindow.accesskey "v">
 <!ENTITY newNonRemoteWindow.label   "Nueva ventana Non-e10s">

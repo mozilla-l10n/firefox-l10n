@@ -218,6 +218,9 @@
 <!ENTITY pref_cookies_not_accept_foreign "Habilitadas, excepto de terceros">
 <!ENTITY pref_cookies_disabled "Deshabilitadas">
 
+<!ENTITY pref_tap_to_load_images_title "Tocar-para-cargar imágenes">
+<!ENTITY pref_tap_to_load_images_summary2 "Cargar imágenes solamente al hacer una presión larga en ellas">
+
 <!ENTITY pref_tracking_protection_title "Protección contra rastreo">
 <!ENTITY pref_tracking_protection_summary3 "Habilitada en navegación privada">
 <!ENTITY pref_donottrack_title "No rastrear">
