@@ -14,8 +14,8 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "ہدایات"> 
 <!ENTITY helpMenuWin.accesskey    "ہ">
-<!ENTITY aboutProduct2.label      "&brandShortName; کے متعلق">
-<!ENTITY aboutProduct2.accesskey  "م">
+<!ENTITY aboutProduct2.label      "&brandShorterName; کے بارے میں">
+<!ENTITY aboutProduct2.accesskey  "ک">
 <!ENTITY productHelp2.label       "&brandShorterName; مدد">
 <!ENTITY productHelp2.accesskey   "م">
 <!ENTITY helpMac.commandkey       "؟">
