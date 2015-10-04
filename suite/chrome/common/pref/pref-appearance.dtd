@@ -26,5 +26,5 @@
 <!--LOCALIZATION NOTE (restartOnLangChange.label): Don't translate "&brandShortName;".
     Place &brandShortName; in the phrase where the name of the application should appear
 -->
-<!ENTITY restartOnLangChange.label              "Az új nyelvi beállítások a böngésző újraindítása után lépnek érvénybe.">
+<!ENTITY restartOnLangChange.label              "Az új nyelvi beállítások a &brandShortName; újraindítása után lépnek érvénybe.">
 

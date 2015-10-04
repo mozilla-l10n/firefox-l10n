@@ -26,7 +26,7 @@
 <!ENTITY removeEntries.label            "Letöltött elemek eltávolítása">
 <!ENTITY removeEntries.accesskey        "L">
 <!ENTITY whenCompleted.label            "Letöltés befejezésekor">
-<!ENTITY whenQuittingApp.label          "Kilépéskor">
+<!ENTITY whenQuittingApp.label          "A &brandShortName; bezárásakor">
 <!ENTITY neverRemove.label              "Soha">
 
 <!ENTITY finishedBehavior.label         "A letöltés befejeztekor">
