@@ -876,16 +876,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.mainActionDesc          "آگے چلنے سے:">
 <!ENTITY panicButton.view.deleteCookies           "حالیہ <html:strong>کوکیاں</html:strong> حذف کریں">
 <!ENTITY panicButton.view.deleteHistory           "حالیہ <html:strong>تاریخ</html:strong> حذف کریں ">
-
-
+<!ENTITY panicButton.view.deleteTabsAndWindows    "تمام <html:strong>ٹیب</html:strong> اور <html:strong>دریچے</html:strong> بند کر دیں">
+<!ENTITY panicButton.view.openNewWindow           "ایک نیا صاف دریچہ کھولیں">
 
 <!ENTITY panicButton.view.undoWarning             "یہ عمل کلعدم نہیں ہو سکتا۔">
+<!ENTITY panicButton.view.forgetButton            "بھول جائیں!">
 
-
+<!ENTITY panicButton.thankyou.msg1                "آپ کے حالیہ سابقات صاف کر دیے گئے ہیں۔">
 <!ENTITY panicButton.thankyou.msg2                "محفوظ براؤزنگ">
 <!ENTITY panicButton.thankyou.buttonlabel         "شکریہ">
 
-
+<!ENTITY processHang.terminateScript.label        "نوشتہ روکیں">
+<!ENTITY processHang.terminateScript.accessKey    "ر">
 
 
 
