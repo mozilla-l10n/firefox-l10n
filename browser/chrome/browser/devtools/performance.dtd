@@ -35,6 +35,11 @@
 <!ENTITY performanceUI.bufferStatusFull "Le tampon est plein. Les échantillons les plus anciens vont être écrasés.">
 
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
+  -  in the details view while the profiler is unavailable, for example, while
+  -  in Private Browsing mode. -->
+<!ENTITY performanceUI.unavailableNoticePB "L'enregistrement de profil est actuellement indisponible. Veuillez fermer toutes les fenêtres de navigation privée puis essayer à nouveau.">
+
+<!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the call list view while loading a profile. -->
 <!ENTITY performanceUI.loadingNotice "Chargement…">
 
