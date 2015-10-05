@@ -1,0 +1,43 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.width2 "485">
+<!ENTITY window.height "300">
+<!ENTITY starting.label "Inandio…">
+<!ENTITY scanning.label "Riçerca de viros…">
+<!ENTITY downloads.title "Descaregamento">
+<!ENTITY cmd.pause.label "Pösa">
+<!ENTITY cmd.pause.accesskey "P">
+<!ENTITY cmd.resume.label "Repiggia">
+<!ENTITY cmd.resume.accesskey "R">
+<!ENTITY cmd.cancel.label "Anulla">
+<!ENTITY cmd.cancel.accesskey "A">
+<!ENTITY cmd.show.label "Arvi cartella">
+<!ENTITY cmd.show.accesskey "c">
+<!ENTITY cmd.showMac.label "Mostra into Finder">
+<!ENTITY cmd.showMac.accesskey "F">
+<!ENTITY cmd.open.label "Arvi">
+<!ENTITY cmd.open.accesskey "A">
+<!ENTITY cmd.openWith.label "Arvi con…">
+<!ENTITY cmd.openWith.accesskey "c">
+<!ENTITY cmd.retry.label "Preuva torna">
+<!ENTITY cmd.retry.accesskey "R">
+<!ENTITY cmd.goToDownloadPage.label "Vanni a-a pagina de descaregamento">
+<!ENTITY cmd.goToDownloadPage.accesskey "d">
+<!ENTITY cmd.copyDownloadLink.label "Còpia indirisso d'òrigine">
+<!ENTITY cmd.copyDownloadLink.accesskey "o">
+<!ENTITY cmd.removeFromList.label "Scancella da l’elenco">
+<!ENTITY cmd.removeFromList.accesskey "e">
+<!ENTITY cmd.close.commandKey "w">
+<!ENTITY cmd.close2.commandKey "j">
+<!ENTITY cmd.close2Unix.commandKey "y">
+<!ENTITY cmd.clearList.label "Scancella elenco">
+<!ENTITY cmd.clearList.tooltip "Scancella da l’elenco i descaregamenti conpletæ, anulæ e no ariescii.">
+<!ENTITY cmd.clearList.accesskey "C">
+<!ENTITY cmd.find.commandKey "c">
+<!ENTITY cmd.search.commandKey "k">
+<!ENTITY closeWhenDone.label "Særa quande i descaregamenti en termimæ">
+<!ENTITY closeWhenDone.tooltip "Særa o barcon de descaregamento quande tutti i file en scaregæ">
+<!ENTITY showFolder.label "Mostra sta cartella">
+<!ENTITY searchBox.label "Çerca…">
