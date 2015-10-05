@@ -26,6 +26,7 @@
 <!ENTITY projectMenu_showPrefs_accesskey "e">
 <!ENTITY projectMenu_manageComponents_label "Extra onderdelen beheren">
 <!ENTITY projectMenu_manageComponents_accesskey "b">
+<!ENTITY projectMenu_refreshTabs_label "Tabbladen vernieuwen">
 
 <!ENTITY runtimeMenu_label "Runtime">
 <!ENTITY runtimeMenu_accesskey "R">
