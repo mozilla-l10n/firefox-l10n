@@ -8,9 +8,11 @@
 <!-- LOCALIZATION NOTE (unsupportedPlatform.post): Mobile only. Include text here if needed for your locale. -->
 <!ENTITY unsupportedPlatform.post                            "">
 
+<!ENTITY missingPlugin                                       "Bu içeriği görüntülemek için bir yan uygulama gerekiyor.">
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
-
-
+<!ENTITY tapToPlayPlugin                                     "Yan uygulamayı etkinleştirmek için buraya dokunun.">
+<!ENTITY clickToActivatePlugin                               "Yan uygulamayı etkinleştir.">
+<!ENTITY checkForUpdates                                     "Güncellemeleri denetle…">
 
 
 
@@ -26,10 +28,11 @@
 
 
 
+<!ENTITY report.failed                                       "Gönderim başarısız oldu.">
+<!ENTITY report.unavailable                                  "Rapor yok.">
+<!ENTITY report.comment                                      "Yorumunuzu ekleyin (Yorumlar herkes tarafından görülebilir.)">
+<!ENTITY report.pageURL                                      "Sayfanın adresini dahil et">
 
-
-
-
-
+<!ENTITY plugin.file                                         "Dosya">
 
 
