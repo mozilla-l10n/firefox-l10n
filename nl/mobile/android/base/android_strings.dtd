@@ -6,11 +6,21 @@
 <!ENTITY  no_space_to_start_error "Er is niet genoeg ruimte beschikbaar om &brandShortName; te starten.">
 <!ENTITY  error_loading_file "Er is een fout opgetreden bij het laden van de benodigde bestanden voor &brandShortName;.">
 
+<!ENTITY firstrun_panel_title_welcome "Welkom">
 <!ENTITY  onboard_start_message3 "Surf met &brandShortName;">
 <!ENTITY  onboard_start_subtext3 "Maak uw mobiele webbrowserbeleving echt van uzelf.">
 <!ENTITY  onboard_start_button_account "Aanmelden bij &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Navigeren starten">
+<!ENTITY firstrun_button_next "Volgende">
+
 <!ENTITY  onboard_start_restricted1 "Blijf veilig en in controle met deze vereenvoudigde versie van &brandShortName;.">
+
+<!ENTITY firstrun_import_title "Importeren">
+<!ENTITY firstrun_import_message "Welkom bij &brandShortName;">
+<!ENTITY firstrun_import_subtext "Importeer uw bladwijzers en geschiedenis van een andere browser.">
+<!ENTITY firstrun_import_action "Overzetten naar &brandShortName;">
+<!ENTITY firstrun_import_dialog_button "Overzetten">
+<!ENTITY firstrun_import_progress_title "Overzetten">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
@@ -55,8 +65,9 @@
 
 <!ENTITY history_today_section "Vandaag">
 <!ENTITY history_yesterday_section "Gisteren">
-<!ENTITY history_week_section2 "Afgelopen week">
-<!ENTITY history_older_section2 "Afgelopen maand">
+<!ENTITY history_week_section3 "Afgelopen 7 dagen">
+<!ENTITY history_this_month_section "Deze maand">
+<!ENTITY history_older_section3 "Ouder dan 6 maanden">
 
 <!ENTITY go "Ga">
 <!ENTITY search "Zoeken">
@@ -69,8 +80,6 @@
 <!ENTITY edit_mode_cancel "Annuleren">
 
 <!ENTITY close_tab "Tabblad sluiten">
-<!ENTITY tab_audio_playing "Dit tabblad speelt audio af">
-<!ENTITY tab_audio_muted "Dit tabblad is gedempt">
 <!ENTITY one_tab "1 tabblad">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -81,6 +90,14 @@
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
 <!ENTITY switch_button_message "WISSELEN">
+<!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
+     visible in the UI, but rather used as a text-to-speech content description
+     for sight-impaired a11y users. The content description is set on a tab
+     title in a list of open tabs when content in that tab is playing audio.
+     &formatS; will be replaced with the title of the tab, as received from the
+     web page. When audio is not playing in a tab, &formatS; will be used as
+     the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "Audio afspelen – &formatS;">
 
 <!ENTITY settings "Instellingen">
 <!ENTITY settings_title "Instellingen">
@@ -182,6 +199,9 @@
 <!ENTITY pref_home_updates_wifi "Alleen via wifi">
 <!ENTITY pref_home_suggested_sites "Websitesuggesties tonen">
 <!ENTITY pref_home_suggested_sites_summary "Snelkoppelingen naar websites die u mogelijk interessant vindt op uw startpagina weergeven">
+<!ENTITY pref_category_home_homepage "Startpagina">
+<!ENTITY home_homepage_title "Een startpagina instellen">
+<!ENTITY home_homepage_use_current_tab "Huidige tabblad gebruiken">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Aanpassen">
@@ -237,7 +257,6 @@
 <!ENTITY pref_plugins_tap_to_play "Tikken voor afspelen">
 <!ENTITY pref_plugins_disabled "Uitgeschakeld">
 <!ENTITY pref_text_size "Tekstgrootte">
-<!ENTITY pref_reflow_on_zoom4 "Tekst herschikken">
 <!ENTITY pref_restore "Tabbladen">
 <!ENTITY pref_restore_always "Altijd herstellen">
 <!ENTITY pref_restore_quit "Niet herstellen na afsluiten van &brandShortName;">
@@ -347,6 +366,7 @@ size. -->
 <!ENTITY share_title "Delen via">
 <!ENTITY share_image_failed "Kan deze afbeelding niet delen">
 <!ENTITY save_as_pdf "Opslaan als PDF">
+<!ENTITY print "Afdrukken">
 <!ENTITY find_in_page "Zoeken op pagina">
 <!ENTITY desktop_mode "Desktopwebsite opvragen">
 <!ENTITY page "Pagina">
@@ -391,6 +411,8 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Website vastmaken">
 <!ENTITY contextmenu_top_sites_unpin "Website losmaken">
 <!ENTITY contextmenu_add_search_engine "Zoekmachine toevoegen">
+<!ENTITY contextmenu_mark_read "Markeren als gelezen">
+<!ENTITY contextmenu_mark_unread "Markeren als ongelezen">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -413,8 +435,8 @@ size. -->
 
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
-<!ENTITY pref_prevent_magnifying_glass "Vergrootglas uitschakelen ">
-<!ENTITY pref_prevent_magnifying_glass_summary "Vergrootglas voorkomen voor gebruik bij verhelpen van niet-eenduidige schermaanrakingen">
+<!ENTITY pref_magnifying_glass_enabled "Kleine gebieden vergroten">
+<!ENTITY pref_magnifying_glass_enabled_summary "Koppelingen en formuliervelden vergroten bij ernaast tikken">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
@@ -473,8 +495,6 @@ size. -->
 <!ENTITY button_set "Instellen">
 <!ENTITY button_clear "Wissen">
 <!ENTITY button_copy "Kopiëren">
-
-<!ENTITY firstrun_panel_title_welcome "Welkom">
 
 <!ENTITY home_top_sites_title "Topwebsites">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -564,14 +584,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_insecure "Niet-beveiligde verbinding">
 
 <!-- Mixed content notifications in site identity popup -->
-<!ENTITY mixed_content_blocked_all "&brandShortName; heeft onveilige elementen op deze pagina geblokkeerd.">
-<!ENTITY mixed_content_blocked_some "&brandShortName; heeft enkele onveilige elementen op deze pagina geblokkeerd.">
-<!ENTITY mixed_content_display_loaded "Deze pagina bevat enkele onveilige elementen.">
-<!ENTITY mixed_content_protection_disabled "U hebt beveiliging tegen onveilige elementen uitgeschakeld.">
-
-<!ENTITY loaded_mixed_content_message "Deze pagina geeft inhoud weer die niet veilig is.">
-<!ENTITY blocked_mixed_content_message_top "&brandShortName; heeft inhoud die niet veilig is geblokkeerd.">
-<!ENTITY blocked_mixed_content_message_bottom "De meeste websites zullen nog gewoon werken, zelfs wanneer deze inhoud wordt geblokkeerd.">
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; heeft onveilige inhoud op deze pagina geblokkeerd.">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; heeft een deel van de onveilige inhoud op deze pagina geblokkeerd.">
+<!ENTITY mixed_content_display_loaded1 "Onderdelen van deze pagina zijn niet beveiligd (zoals afbeeldingen).">
+<!ENTITY mixed_content_protection_disabled1 "U hebt bescherming tegen onveilige inhoud uitgeschakeld.">
 
 <!-- Tracking content notifications in site identity popup -->
 <!ENTITY doorhanger_tracking_title "Bescherming tegen volgen">
@@ -703,3 +719,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restriction_disallow_clear_history_title2 "‘Geschiedenis wissen’ uitschakelen">
 <!ENTITY restriction_disallow_master_password_title2 "Hoofdwachtwoord uitschakelen">
 <!ENTITY restriction_disallow_guest_browsing_title2 "Gastnavigatie uitschakelen">
+
+<!-- Default Bookmarks titles-->
+<!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!ENTITY bookmarks_about_browser "Firefox: over uw browser">
+<!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "Firefox: aanpassen met add-ons">
+<!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "Firefox: ondersteuning">
+<!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
+<!ENTITY bookmarks_marketplace "Firefox Marketplace">
+<!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!ENTITY bookmarks_restricted_support2 "Firefox: hulp en ondersteuning voor beperkte profielen op Android-tablets">
+<!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!ENTITY bookmarks_restricted_webmaker "Leer het web: Mozilla Webmaker">
