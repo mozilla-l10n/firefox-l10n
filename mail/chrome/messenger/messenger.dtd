@@ -70,7 +70,7 @@
 <!ENTITY offlineMenu.accesskey "l">
 <!ENTITY offlineGoOfflineCmd.label "Trabalhar offline">
 <!ENTITY offlineGoOfflineCmd.accesskey "T">
-<!ENTITY synchronizeOfflineCmd.label "Descarregar ou sincronizar agora…">
+<!ENTITY synchronizeOfflineCmd.label "Descarregar/sincronizar agora…">
 <!ENTITY synchronizeOfflineCmd.accesskey "s">
 <!ENTITY settingsOfflineCmd2.label "Definições do modo offline">
 <!ENTITY settingsOfflineCmd2.accesskey "d">
