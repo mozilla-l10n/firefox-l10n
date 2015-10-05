@@ -9,8 +9,8 @@
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
 
-<!ENTITY loading.label                        "Încărcare…">
-<!ENTITY listEmpty.installed.label            "Nu aveți vreun supliment de acest tip instalat">
+<!ENTITY loading.label                        "Se încarcă…">
+<!ENTITY listEmpty.installed.label            "Nu ai vreun supliment de acest tip instalat">
 <!ENTITY listEmpty.availableUpdates.label     "Nicio actualizare găsită">
 <!ENTITY listEmpty.recentUpdates.label        "Nu ați actualizat recent niciun supliment">
 <!ENTITY listEmpty.findUpdates.label          "Caută actualizări">
@@ -36,12 +36,12 @@
 <!ENTITY warning.updatesecurity.enable.tooltip     "Activează verificarea securității actualizărilor suplimentelor">
 <!-- global informations -->
 
-<!ENTITY info.plugincheck.label                 "Verificați pentru a vedea dacă pluginurile dumnevoastră sunt actualizate">
-<!ENTITY info.plugincheck.tooltip               "Verificați pentru a vedea dacă pluginurile dumnevoastră sunt actualizate">
+<!ENTITY info.plugincheck.label                 "Verifică pentru a vedea dacă pluginurile sunt actualizate">
+<!ENTITY info.plugincheck.tooltip               "Verifică pentru a vedea dacă pluginurile sunt actualizate">
 <!-- categories / views -->
 
 <!ENTITY view.search.label                    "Căutare">
-<!ENTITY view.discover.label                  "Obțineți suplimente">
+<!ENTITY view.discover.label                  "Obține suplimente">
 <!ENTITY view.recentUpdates.label             "Actualizări recente">
 <!ENTITY view.availableUpdates.label          "Actualizări disponibile">
 <!-- addon updates -->
@@ -68,7 +68,7 @@
 <!ENTITY updates.updating.label               "Se actualizează suplimentele">
 <!ENTITY updates.installed.label              "Suplimentele dumneavoastră au fost actualizate.">
 <!ENTITY updates.downloaded.label             "S-au descărcat actualizările pentru suplimentele dumneavoastră.">
-<!ENTITY updates.restart.label                "Reporniți acum pentru a finaliza instalarea">
+<!ENTITY updates.restart.label                "Repornește acum pentru a încheia instalarea">
 <!ENTITY updates.noneFound.label              "Nicio actualizare găsită">
 <!ENTITY updates.manualUpdatesFound.label     "Vezi actualizările disponibile">
 <!ENTITY updates.updateSelected.label         "Instalează actualizările">
@@ -202,7 +202,7 @@ cele mai utilizate și populare extensii pentru a vă permite să le încercați
 <!ENTITY addon.undoAction.tooltip             "Anulează această acțiune">
 <!ENTITY addon.undoRemove.label               "Anulează">
 <!ENTITY addon.undoRemove.tooltip             "Păstrează acest supliment instalat">
-<!ENTITY addon.restartNow.label               "Reporniți acum">
+<!ENTITY addon.restartNow.label               "Repornește acum">
 <!ENTITY addon.install.label                  "Instalează">
 <!ENTITY addon.install.tooltip                "Instalați acest supliment">
 <!ENTITY addon.updateNow.label                "Actualizează acum">
@@ -211,7 +211,7 @@ cele mai utilizate și populare extensii pentru a vă permite să le încercați
 <!ENTITY addon.updateAvailable.label          "Este disponibilă o actualizare">
 <!ENTITY addon.checkingForUpdates.label       "Se caută actualizări…">
 <!ENTITY addon.releaseNotes.label             "Notele privind lansarea:">
-<!ENTITY addon.loadingReleaseNotes.label      "Încărcare…">
+<!ENTITY addon.loadingReleaseNotes.label      "Se încarcă…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Ne pare rău, dar a intervenit o eroare la încărcarea notelor privind lansarea.">
 
 <!ENTITY addon.createdBy.label                "Creat de ">
@@ -241,9 +241,9 @@ cele mai utilizate și populare extensii pentru a vă permite să le încercați
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
 <!ENTITY disabledUnsigned.description.start "Următoarele suplimente nu au fost verificate pentru a fi folosite în &brandShortName;. Poți ">
-<!ENTITY disabledUnsigned.description.findAddonsLink "găsește înlocuitori">
-<!ENTITY disabledUnsigned.description.end " sau întreabă dezvoltatorii pentru a fi verificate..">
-<!ENTITY disabledUnsigned.learnMore "Aflați mai multe despre eforturile noastre de a vă ține în siguranță online.">
+<!ENTITY disabledUnsigned.description.findAddonsLink "să găsești înlocuitoare">
+<!ENTITY disabledUnsigned.description.end " sau să întrebi dezvoltatorii pentru a fi verificate.">
+<!ENTITY disabledUnsigned.learnMore "Află mai multe despre eforturile noastre de a te ține în siguranță online.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
