@@ -57,8 +57,8 @@
 <!ENTITY sendUnsentCmd.accesskey "л">
 <!ENTITY subscribeCmd.label "Підписатися…">
 <!ENTITY subscribeCmd.accesskey "д">
-<!ENTITY deleteFolder.label "Усунути теку">
-<!ENTITY deleteFolder.accesskey "т">
+<!ENTITY deleteFolder.label "Видалити теку">
+<!ENTITY deleteFolder.accesskey "В">
 <!ENTITY renameFolder.label "Перейменувати теку…">
 <!ENTITY renameFolder.accesskey "й">
 <!ENTITY renameFolder.key "VK_F2">
@@ -87,15 +87,15 @@
 <!ENTITY printSetupCmd.accesskey "П">
 
 <!-- Edit Menu -->
-<!ENTITY deleteMsgCmd.label "Вилучити лист">
-<!ENTITY deleteMsgCmd.accesskey "и">
+<!ENTITY deleteMsgCmd.label "Видалити лист">
+<!ENTITY deleteMsgCmd.accesskey "В">
 <!ENTITY undeleteMsgCmd.label "Повернути лист">
 <!ENTITY undeleteMsgCmd.accesskey "п">
-<!ENTITY deleteMsgsCmd.label "Вилучити обрані листи">
+<!ENTITY deleteMsgsCmd.label "Видалити вибрані листи">
 <!ENTITY deleteMsgsCmd.accesskey "В">
 <!ENTITY undeleteMsgsCmd.label "Повернути обрані листи">
 <!ENTITY undeleteMsgsCmd.accesskey "б">
-<!ENTITY deleteFolderCmd.label "Вилучити теку">
+<!ENTITY deleteFolderCmd.label "Видалити теку">
 <!ENTITY deleteFolderCmd.accesskey "В">
 <!ENTITY unsubscribeNewsgroupCmd.label "Відписатися">
 <!ENTITY unsubscribeNewsgroupCmd.accesskey "п">
@@ -114,8 +114,8 @@
 <!ENTITY folderPropsFolderCmd2.label "Властивості теки…">
 <!ENTITY folderPropsNewsgroupCmd2.label "Властивості групи новин…">
 <!ENTITY folderPropsCmd.accesskey "т">
-<!ENTITY undoDeleteMsgCmd.label "Скасувати вилучення листа">
-<!ENTITY redoDeleteMsgCmd.label "Повторити вилучення листа">
+<!ENTITY undoDeleteMsgCmd.label "Скасувати видалення листа">
+<!ENTITY redoDeleteMsgCmd.label "Повторити видалення листа">
 <!ENTITY undoMoveMsgCmd.label "Скасувати переміщення листа">
 <!ENTITY redoMoveMsgCmd.label "Повторити переміщення листа">
 <!ENTITY undoCopyMsgCmd.label "Скасувати копіювання листа">
@@ -475,7 +475,7 @@
 <!ENTITY filtersApplyToMessage.accesskey "З">
 <!ENTITY runJunkControls.label "Відфільтрувати спам в теці">
 <!ENTITY runJunkControls.accesskey "л">
-<!ENTITY deleteJunk.label "Вилучити з теки листи помічені як спам">
+<!ENTITY deleteJunk.label "Видалити з теки листи помічені як спам">
 <!ENTITY deleteJunk.accesskey "с">
 <!ENTITY importCmd.label "Імпорт…">
 <!ENTITY importCmd.accesskey "І">
@@ -510,7 +510,7 @@
 <!ENTITY backButton1.label "Назад">
 <!ENTITY goForwardButton1.label "Вперед">
 <!ENTITY deleteItem.title "Видалити">
-<!ENTITY deleteButton.label "Вилучити">
+<!ENTITY deleteButton.label "Видалити">
 <!ENTITY undeleteButton.label "Відновити">
 <!ENTITY markButton.label "Позначити">
 <!ENTITY printButton.label "Друк">
@@ -559,7 +559,7 @@
 <!ENTITY addressBookButton.tooltip "Відкрити адресну книгу">
 <!ENTITY chatButton.tooltip "Показати вкладку чату">
 <!ENTITY tagButton.tooltip "Помітити повідомлення">
-<!ENTITY compactButton.tooltip "Усунути вилучені листи з вибраної теки">
+<!ENTITY compactButton.tooltip "Вилучити видалені листи з вибраної теки">
 <!ENTITY appmenuButton1.tooltip "Показати меню програми">
 
 <!-- Toolbar Button Popup -->
@@ -613,7 +613,7 @@
 <!ENTITY folderContextNew.accesskey "в">
 <!ENTITY folderContextRename.label "Перейменувати">
 <!ENTITY folderContextRename.accesskey "П">
-<!ENTITY folderContextRemove.label "Вилучити">
+<!ENTITY folderContextRemove.label "Видалити">
 <!ENTITY folderContextRemove.accesskey "В">
 <!ENTITY folderContextCompact.label "Стиснути цю теку">
 <!ENTITY folderContextCompact.accesskey "т">

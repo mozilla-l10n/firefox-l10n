@@ -8,5 +8,5 @@
 <!ENTITY addKeywordButton.accesskey       "Д">
 <!ENTITY editKeywordButton.label          "Редагувати">
 <!ENTITY editKeywordButton.accesskey      "Р">
-<!ENTITY removeKeywordButton.label        "Вилучити">
+<!ENTITY removeKeywordButton.label        "Видалити">
 <!ENTITY removeKeywordButton.accesskey    "В">
