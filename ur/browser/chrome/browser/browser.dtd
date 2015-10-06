@@ -888,20 +888,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY processHang.terminateScript.label        "نوشتہ روکیں">
 <!ENTITY processHang.terminateScript.accessKey    "ر">
+<!ENTITY processHang.debugScript.label            "نوشتہ ٹھیک کریں">
+<!ENTITY processHang.debugScript.accessKey        "ٹ">
+<!ENTITY processHang.terminatePlugin.label        "پلگ ان روک دیں">
+<!ENTITY processHang.terminatePlugin.accessKey    "پ">
+<!ENTITY processHang.terminateProcess.label       "ویب عمل کاری روک دیں">
+<!ENTITY processHang.terminateProcess.accessKey   "ر">
 
-
-
-
-
-
-
-
-
-
+<!ENTITY emeLearnMoreContextMenu.label            "DRM کے بارے میں مزید سیکھیں">
+<!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+<!ENTITY emeNotificationsNotNow.label             "ابھی نہیں">
+<!ENTITY emeNotificationsNotNow.accesskey         "ن">
 <!ENTITY emeNotificationsDontAskAgain.label       "مجھے دوبارہ مت پوچھیں">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "م">
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 
-
-
-
+<!ENTITY saveToPocketCmd.label     "Pocket پر صفحہ محفوظ کر رہا ہے">
+<!ENTITY saveToPocketCmd.accesskey "k">
+<!ENTITY saveLinkToPocketCmd.label     "Pocket پر ربط محفوظ کریں">
+<!ENTITY saveLinkToPocketCmd.accesskey "پ">
+<!ENTITY pocketMenuitem.label      "Pocket فہرست دیھکیں">
