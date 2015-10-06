@@ -7,12 +7,12 @@
 
 <!ENTITY            windowtitle.label      "&brandShortName; - Çerni o profî">
 
-<!ENTITY            profîlename.label      "Nomme do profî:">
+<!ENTITY            profilename.label      "Nomme do profî:">
 
 <!ENTITY            start.label            "Iniçia &brandShortName;">
 <!ENTITY            exit.label             "Sciòrti">
 
-<!ENTITY            availprofîles.label    "Profî che gh'é">
+<!ENTITY            availprofiles.label    "Profî che gh'é">
 
 <!ENTITY            newButton.label        "Crea Profî…">
 <!ENTITY            newButton.accesskey    "C">
