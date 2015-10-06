@@ -8,7 +8,7 @@
 <!ENTITY projectMenu_accesskey "P">
 <!ENTITY projectMenu_newApp_label "Aplicație nouă…">
 <!ENTITY projectMenu_newApp_accesskey "N">
-<!ENTITY projectMenu_importPackagedApp_label "Open Packaged App…">
+<!ENTITY projectMenu_importPackagedApp_label "Deschide aplicație împachetată…">
 <!ENTITY projectMenu_importPackagedApp_accesskey "P">
 <!ENTITY projectMenu_importHostedApp_label "Open Hosted App…">
 <!ENTITY projectMenu_importHostedApp_accesskey "H">
@@ -20,7 +20,7 @@
 <!ENTITY projectMenu_stop_accesskey "S">
 <!ENTITY projectMenu_debug_label "Debug App">
 <!ENTITY projectMenu_debug_accesskey "D">
-<!ENTITY projectMenu_remove_label "Elimină proiect">
+<!ENTITY projectMenu_remove_label "Elimină proiectul">
 <!ENTITY projectMenu_remove_accesskey "R">
 <!ENTITY projectMenu_showPrefs_label "Preferințe">
 <!ENTITY projectMenu_showPrefs_accesskey "e">
@@ -41,7 +41,7 @@
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Preferințele pentru dispozitiv">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
-<!ENTITY runtimeMenu_showSettings_label "Setări dispozitiv">
+<!ENTITY runtimeMenu_showSettings_label "Setări pentru dispozitiv">
 <!ENTITY runtimeMenu_showSettings_accesskey "s">
 
 <!ENTITY viewMenu_label "Vizualizează">
@@ -82,7 +82,7 @@
 <!ENTITY runtimePanel_wifi "Dispozitive Wi-Fi">
 <!ENTITY runtimePanel_simulator "Simulatoare">
 <!ENTITY runtimePanel_other "Altceva">
-<!ENTITY runtimePanel_installsimulator "Instalare simulator">
+<!ENTITY runtimePanel_installsimulator "Instalează simulatorul">
 <!ENTITY runtimePanel_noadbhelper "Instalează ADB Helper">
 <!ENTITY runtimePanel_nousbdevice "Nu îți poți vedea dispozitivul?">
 <!-- Lense -->
@@ -98,7 +98,7 @@
 <!-- New App -->
 
 <!ENTITY newAppWindowTitle "Aplicație nouă">
-<!ENTITY newAppHeader "Selectați șablon">
+<!ENTITY newAppHeader "Selectează șablonul">
 <!ENTITY newAppLoadingTemplate "Se încarcă șabloanele…">
 <!ENTITY newAppProjectName "Numele proiectului:">
 <!-- Decks -->
@@ -165,7 +165,7 @@
 <!ENTITY devicepreference_addnew "Adăugați preferință nouă">
 <!-- Device Settings -->
 
-<!ENTITY devicesetting_title "Setări dispozitiv">
+<!ENTITY devicesetting_title "Setări pentru dispozitiv">
 <!ENTITY devicesetting_search "Configurări pentru căutare">
 <!ENTITY devicesetting_newname "Nume nou pentru setare">
 <!ENTITY devicesetting_newtext "Valoare setare">

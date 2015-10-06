@@ -59,7 +59,7 @@
 <!ENTITY connection.cancelShowSimulatorTooltip "Exit the Simulator connection mode and return to the initial prompt.">
 <!ENTITY connection.or "sau">
 <!ENTITY connection.noSimulatorInstalled "Niciun simulator instalat.">
-<!ENTITY connection.installOneSimulator "Instalare simulator">
+<!ENTITY connection.installOneSimulator "Instalează simulatorul">
 <!ENTITY connection.installOneSimulatorTooltip "Install a version of the Simulator by downloading the relevant add-on.">
 <!ENTITY connection.installAnotherSimulator "Adaugă">
 <!ENTITY connection.installAnotherSimulatorTooltip "Install an additional version of the Simulator by downloading the relevant add-on.">
@@ -67,8 +67,8 @@
 
 <!ENTITY projects.localApps "Aplicații locale">
 <!ENTITY projects.addApp "Adaugă">
-<!ENTITY projects.addPackaged "Add Packaged App">
-<!ENTITY projects.addPackagedTooltip "Add a new packaged app (a directory) from your computer.">
+<!ENTITY projects.addPackaged "Adaugă aplicație împachetată">
+<!ENTITY projects.addPackagedTooltip "Adaugă o aplicație împachetată nouă (un director) de pe calculator.">
 <!ENTITY projects.addHosted "Add Hosted App">
 <!ENTITY projects.addHostedTooltip "Add a new hosted app (link to a manifest.webapp file) from a remote website.">
 <!ENTITY projects.title "Aplicații locale">

@@ -15,7 +15,7 @@
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Ascunde">
 <!ENTITY editBookmarkOverlay.tags.label                      "Etichete:">
 <!ENTITY editBookmarkOverlay.tags.accesskey                  "E">
-<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Puneți virgulă între etichete">
+<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Separă etichetele prin virgule">
 <!ENTITY editBookmarkOverlay.description.label               "Descriere:">
 <!ENTITY editBookmarkOverlay.description.accesskey           "D">
 <!ENTITY editBookmarkOverlay.keyword.label                   "Cuvânt cheie:">
