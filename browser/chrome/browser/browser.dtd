@@ -332,7 +332,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pasteCmd.label           "Вставити">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "т"> 
-<!ENTITY deleteCmd.label          "Стерти">  
+<!ENTITY deleteCmd.label          "Видалити">  
 <!ENTITY deleteCmd.key            "D">  
 <!ENTITY deleteCmd.accesskey        "С"> 
 <!ENTITY selectAllCmd.label         "Виділити все">  
