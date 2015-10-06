@@ -50,8 +50,8 @@
 <!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Відхилити запрошення на подію">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Відхилити все">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Відхилити запрошення на подію для всіх випадків події">
-<!ENTITY lightning.imipbar.btnDelete.label                                  "Вилучити">
-<!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Вилучити з календаря">
+<!ENTITY lightning.imipbar.btnDelete.label                                  "Видалити">
+<!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Видалити з календаря">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Подробиці…">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Показати подробиці події">
 <!ENTITY lightning.imipbar.btnMore.label                                    "Більше">
