@@ -13,13 +13,14 @@
 
 
 
+<!ENTITY  history.label                 "Sejarah">
 
 <!ENTITY  locationBar.label             "Bar Lokasi">
 
-
-
-
-
+<!ENTITY  locbar.history.label          "Sejarah">
+<!ENTITY  locbar.history.accesskey      "h">
+<!ENTITY  locbar.bookmarks.label        "Penanda">
+<!ENTITY  locbar.bookmarks.accesskey    "P">
 
 
 
