@@ -436,7 +436,7 @@ size. -->
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 <!ENTITY pref_magnifying_glass_enabled "Kleine gebieden fergrutsje">
-+<!ENTITY pref_magnifying_glass_enabled_summary "Keppelingen en formulierfjilden fergrutsje by dernjonken tikke">
+<!ENTITY pref_magnifying_glass_enabled_summary "Keppelingen en formulierfjilden fergrutsje by dernjonken tikke">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
