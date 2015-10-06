@@ -155,7 +155,7 @@
 <!ENTITY pref_category_search3 "جستجو">
 <!ENTITY pref_category_search_summary "جستجوگر خود را شخصی سازی نمایید">
 <!ENTITY pref_category_display "نمایش">
-<!ENTITY pref_category_display_summary "متن, نوار عنوان, مرورگر کردن به صورت تمام صفحه">
+<!ENTITY pref_category_display_summary "متن، نوار عنوان، مرور کردن به صورت تمام صفحه">
 <!ENTITY pref_category_privacy_short "حریم‌خصوصی">
 <!ENTITY pref_category_privacy_summary2 "مدیریت ورود, کوکی‌ها, ره‌گیری, داده">
 <!ENTITY pref_category_vendor "&vendorShortName;">
