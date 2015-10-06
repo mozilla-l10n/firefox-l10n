@@ -689,31 +689,31 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Conexiune securizată">
 <!ENTITY identity.connectionNotSecure "Conexiunea nu este securizată">
 <!ENTITY identity.connectionFile "Această pagină este stocată pe calculator.">
-<!ENTITY identity.connectionVerified "&brandShortName; a verificat că sunteți conectat în mod securizat la acest site aparținând:">
+<!ENTITY identity.connectionVerified "&brandShortName; a verificat că ești conectat în mod securizat la acest site aparținând:">
 <!ENTITY identity.connectionInternal "Aceasta este o pagină securizată a &brandShortName;.">
 <!-- Strings for connection state warnings. -->
 
-<!ENTITY identity.activeBlocked "&brandShortName; a blocat elementele nesigure din această pagină.">
+<!ENTITY identity.activeBlocked "&brandShortName; a blocat părți ale acestei pagini care nu sunt sigure.">
 <!ENTITY identity.passiveLoaded "Părți ale acestei pagini nu sunt sigure (cum ar fi imagini).">
-<!ENTITY identity.activeLoaded "Ați dezactivat protecția pe această pagină.">
+<!ENTITY identity.activeLoaded "Ai dezactivat protecția pe această pagină.">
 <!ENTITY identity.weakEncryption "Această pagină folosește criptare slabă.">
 <!-- Strings for connection state warnings in the subview. -->
 
-<!ENTITY identity.description.insecure "Conexiunea dumneavoastră la acest site nu este privată. Informațiile trimise pot fi văzute de alții (cum ar fi parolele, mesajele, carduri de credit, etc.).">
-<!ENTITY identity.description.weakCipher "Conexiunea dumneavoastră la acest site folosește criptare slabă și nu este privată.">
-<!ENTITY identity.description.weakCipher2 "Alte persoane pot vedea informația dumneavoastră sau pot modifica comportamentul site-ului.">
-<!ENTITY identity.description.activeBlocked "&brandShortName; a blocat elementele nesigure din această pagină.">
-<!ENTITY identity.description.passiveLoaded "Conexiunea dumneavoastră nu este privată și informația împărtășită cu acest site poate fi văzută de alții.">
+<!ENTITY identity.description.insecure "Conexiunea ta la acest site nu este privată. Informațiile pe care le trimiți pot fi văzute de alții (cum ar fi parolele, mesajele, carduri de credit, etc.).">
+<!ENTITY identity.description.weakCipher "Conexiunea ta la acest site folosește criptare slabă și nu este privată.">
+<!ENTITY identity.description.weakCipher2 "Alte persoane pot vedea informațiile tale sau pot modifica comportamentul site-ului.">
+<!ENTITY identity.description.activeBlocked "&brandShortName; a blocat părți ale acestei pagini care nu sunt sigure.">
+<!ENTITY identity.description.passiveLoaded "Conexiunea ta nu este privată și informațiile pe care le împărtășești cu acest site pot fi văzute de alții.">
 <!ENTITY identity.description.passiveLoaded2 "Acest site are conținut nesigur (cum ar fi imagini).">
 <!ENTITY identity.description.passiveLoaded3 "Deși &brandShortName; a blocat o parte din conținut, mai este conținut nesigur pe pagină (cum ar fi imagini).">
 <!ENTITY identity.description.activeLoaded "Acest site web are conținut care nu este securizat (cum ar fi scripturile), iar conexiunea către acesta nu este privată.">
-<!ENTITY identity.description.activeLoaded2 "Informația împărtășită cu acest site ar putea fi văzută de alții (cum ar fi parole, mesaje, carduri de credit, etc)">
+<!ENTITY identity.description.activeLoaded2 "Informațiile pe care le împărtășești cu acest site ar putea fi văzute de alții (cum ar fi parole, mesaje, carduri de credit, etc.).">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Activează protecția">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "e">
-<!ENTITY identity.disableMixedContentBlocking.label "Dezactivați protecția deocamdată">
+<!ENTITY identity.disableMixedContentBlocking.label "Dezactivează protecția deocamdată">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
-<!ENTITY identity.learnMore "Aflați mai multe">
+<!ENTITY identity.learnMore "Află mai multe">
 
 <!ENTITY identity.moreInfoLinkText2 "Mai multe informații">
 
