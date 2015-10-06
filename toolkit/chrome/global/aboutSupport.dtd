@@ -6,8 +6,8 @@
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
 <!ENTITY aboutSupport.pageSubtitle "  Această pagină conține informații tehnice care ar putea fi utile atunci când
-încercați să rezolvați o problemă. Dacă sunteți în căutarea de răspunsuri la întrebări comune
-despre &brandShortName;, verificați <a id='supportLink'>site-ul nostru pentru suport</a>.">
+încerci să rezolvi o problemă. Dacă ești în căutarea de răspunsuri la întrebări comune
+despre &brandShortName;, verifică <a id='supportLink'>site-ul nostru de suport</a>.">
 
 <!ENTITY aboutSupport.crashes.title "Rapoarte de defecțiuni">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
@@ -59,7 +59,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Ferestre multiproces">
 
-<!ENTITY aboutSupport.appBasicsSafeMode "Mod sigur">
+<!ENTITY aboutSupport.appBasicsSafeMode "Mod în siguranță">
 
 <!ENTITY aboutSupport.showDir.label "Deschide directorul">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
@@ -101,5 +101,5 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
 
-<!ENTITY aboutSupport.safeModeTitle "Încercați modul sigur">
+<!ENTITY aboutSupport.safeModeTitle "Încearcă modul în siguranță">
 <!ENTITY aboutSupport.restartInSafeMode.label "Repornește cu suplimente dezactivate…">

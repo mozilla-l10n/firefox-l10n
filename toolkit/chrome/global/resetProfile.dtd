@@ -9,7 +9,7 @@
 <!ENTITY refreshProfile.dialog.items.label2  "Restabili setările browserului la valorile implicite">
 <!ENTITY refreshProfile.dialog.button.label  "Restabilește &brandShortName;">
 
-<!ENTITY refreshProfile.title                "Oferiți-i lui &brandShortName; o revigorare">
+<!ENTITY refreshProfile.title                "Oferă-i lui &brandShortName; o revigorare">
 <!ENTITY refreshProfile.button.label         "Restabilește &brandShortName;…">
 
 <!ENTITY refreshProfile.cleaning.description "Aproape am terminat…">
