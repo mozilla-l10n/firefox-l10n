@@ -83,7 +83,7 @@
 <!ENTITY viewMenu.label                                 "Προβολή">
 <!ENTITY viewMenu.accesskey                             "β">
 <!ENTITY viewToolbarsMenu.label                         "Εργαλειοθήκες">
-<!ENTITY viewToolbarsMenu.accesskey                     "γ">
+<!ENTITY viewToolbarsMenu.accesskey                     "γ"> 
 <!ENTITY menubarCmd.label                               "Εργαλειοθήκη μενού">
 <!ENTITY menubarCmd.accesskey                           "μ">
 <!ENTITY showAbToolbarCmd.label                         "Εργαλειοθήκη ευρετηρίου διευθύνσεων">
@@ -99,11 +99,11 @@
 <!ENTITY showContactPane2.label                         "Ταπλό επαφών">
 <!ENTITY showContactPane2.accesskey                     "φ">
 <!ENTITY menu_ShowNameAs.label                          "Εμφάνιση ονόματος ως">
-<!ENTITY menu_ShowNameAs.accesskey                      "ν">
+<!ENTITY menu_ShowNameAs.accesskey                      "ν"> 
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
 <!ENTITY firstLastCmd2.label                            "Όνομα Επίθετο">
-<!ENTITY firstLastCmd2.accesskey                        "μ">
+<!ENTITY firstLastCmd2.accesskey                        "μ"> 
 <!ENTITY lastFirstCmd.label                             "Επώνυμο-Όνομα">
 <!ENTITY lastFirstCmd.accesskey                         "π">
 <!ENTITY displayNameCmd.label                           "Όνομα">
