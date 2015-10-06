@@ -39,8 +39,8 @@
 
 <!ENTITY syncDeviceName.label       "Nama Peranti:">
 <!ENTITY syncDeviceName.accesskey   "m">
-
-
+<!ENTITY fxaSyncDeviceName.label       "Nama Peranti">
+<!ENTITY changeSyncDeviceName.label "Ubah Nama Peranti…">
 <!ENTITY cancelChangeSyncDeviceName.label "Batal">
 <!ENTITY saveChangeSyncDeviceName.label "Simpan">
 <!ENTITY unlinkDevice.label           "Memutuskan sambungan peranti">
@@ -71,24 +71,26 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Anda tidak mendaftar masuk.">
 <!ENTITY signIn.label                "Daftar masuk">
-
+<!ENTITY profilePicture.tooltip      "Ubah gambar profil">
 <!ENTITY manage.label                "Urus">
 <!ENTITY disconnect.label            "Terputus…">
 <!ENTITY verify.label                "Sahkan Emel">
 <!ENTITY forget.label                "Lupakan Emel ini">
 
 <!ENTITY welcome.description "Capai tab anda, penandabuku, kata laluan dan lagi apabila anda menggunakan &brandShortName;.">
-
-
+<!ENTITY welcome.signIn.label "Daftar Masuk">
+<!ENTITY welcome.createAccount.label "Cipta Akaun">
 
 <!ENTITY welcome.useOldSync.label "Menggunakan versi lama Sync?">
 
 
 
+<!ENTITY signedOut.accountBox.create  "Cipta Akaun">
+<!ENTITY signedOut.accountBox.signin  "Daftar Masuk">
 
 
-
-
+<!ENTITY mobilePromo.start            "Muat turun Firefox untuk ">
 <!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+<!ENTITY mobilePromo.androidLink      "Android™">
 
-
+<!ENTITY androidAttribution           "Android adalah tanda dagangan Google Inc.">

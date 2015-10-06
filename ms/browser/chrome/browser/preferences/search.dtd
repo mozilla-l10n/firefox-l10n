@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY defaultSearchEngine.label             "Enjin Carian Lalai">
 
 
 
@@ -11,6 +12,8 @@
 
 
 
+
+<!ENTITY engineNameColumn.label                "Enjin Carian">
 <!ENTITY engineKeywordColumn.label             "Kata kunci">
 
 
@@ -18,3 +21,4 @@
 <!ENTITY removeEngine.label                    "Singkir">
 <!ENTITY removeEngine.accesskey                "r">
 
+<!ENTITY addMoreSearchEngines.label            "Tambah lagi banyak enjin carian...">

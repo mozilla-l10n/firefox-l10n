@@ -23,6 +23,6 @@
 
 <!ENTITY button.cancel.label          "Batal">
 <!ENTITY button.cancel.accesskey      "B">
-
-
+<!ENTITY button.ok.label              "Simpan Perubahan">
+<!ENTITY button.ok.accesskey          "S">
 
