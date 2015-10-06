@@ -189,7 +189,8 @@
   -  in about:config, in the options panel. -->
 
 <!ENTITY options.showPlatformData.label    "Tampilkan data platform Gecko">
-<!ENTITY options.showPlatformData.tooltip  "Jika Anda mengaktifkan opsi ini, laporan Profiler JavaScript Profiler akan menyertakan simbol platform Gecko">
+<!ENTITY options.showPlatformData.tooltip  "Jika Anda mengaktifkan opsi ini, laporan JavaScript Profiler akan menyertakan 
+ simbol platform Gecko">
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 
