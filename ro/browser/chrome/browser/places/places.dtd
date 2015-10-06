@@ -89,7 +89,7 @@
 <!ENTITY col.dateadded.label     "Adăugat">
 <!ENTITY col.lastmodified.label  "Ultima modificare">
 
-<!ENTITY search.label                              "Caută în:">
+<!ENTITY search.label                              "Caută:">
 <!ENTITY search.accesskey                          "C">
 
 <!ENTITY cmd.find.key  "f">
@@ -108,7 +108,7 @@
 <!ENTITY detailsPane.less.accesskey "M">
 <!ENTITY detailsPane.selectAnItemText.description "Selectați un element pentru a-l vedea și a-i edita proprietățile">
 
-<!ENTITY find.label               "Căutare:">
+<!ENTITY find.label               "Caută:">
 <!ENTITY find.accesskey           "C">
 <!ENTITY view.label               "Vizualizare">
 <!ENTITY view.accesskey           "V">

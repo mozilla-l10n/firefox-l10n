@@ -66,7 +66,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Aranjare în pagină…">
 <!ENTITY printSetupCmd.accesskey "g">
-<!ENTITY printPreviewCmd.label "Previzualizare tipărire">
+<!ENTITY printPreviewCmd.label "Previzualizare pentru tipărire">
 <!ENTITY printPreviewCmd.accesskey "t">
 <!ENTITY printCmd.label "Tipărește…">
 <!ENTITY printCmd.accesskey "p">
@@ -302,7 +302,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarToolsButton.tooltip     "Comută uneltele de dezvoltare">
 <!ENTITY devToolbarOtherToolsButton.label  "Mai multe unelte">
 
-<!ENTITY getMoreDevtoolsCmd.label        "Obțineți mai multe unelte">
+<!ENTITY getMoreDevtoolsCmd.label        "Obține mai multe unelte">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "m">
 
 <!ENTITY fileMenu.label         "Fișier"> 
@@ -399,7 +399,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder2          "Căutați sau introduceți adresa">
+<!ENTITY urlbar.placeholder2          "Caută sau introdu adresa">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Schimbă la fila:">
 
