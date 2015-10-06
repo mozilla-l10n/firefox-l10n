@@ -8,17 +8,19 @@
 
 <!ENTITY firstrun_panel_title_welcome "خوش آمدید">
 <!ENTITY  onboard_start_message3 "مرور با &brandShortName;">
-
+<!ENTITY  onboard_start_subtext3 "تجربه‌ی مرور وب در موبایل را مختص خود کنید.">
 <!ENTITY  onboard_start_button_account "وارد شوید به ‪&brandShortName;">
 <!ENTITY  onboard_start_button_browser "شروع وب‌گردی">
+<!ENTITY firstrun_button_next "بعدی">
 
+<!ENTITY  onboard_start_restricted1 "با این نسخه ساده شده از &brandShortName; امن بمانید و زندگی آنلاین خود را در دستان خود بگیرید.">
 
-
-
-
-
-
-
+<!ENTITY firstrun_import_title "وارد کردن">
+<!ENTITY firstrun_import_message "به &brandShortName; خوش‌آمدید">
+<!ENTITY firstrun_import_subtext "واردکردن نشانک‌ها و تاریخچه از سایر مرورگرها.">
+<!ENTITY firstrun_import_action "انتقال به ‪&brandShortName;">
+<!ENTITY firstrun_import_dialog_button "انتقال">
+<!ENTITY firstrun_import_progress_title "در حال انتقال">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -63,9 +65,9 @@
 
 <!ENTITY history_today_section "امروز">
 <!ENTITY history_yesterday_section "دیروز">
-
-
-
+<!ENTITY history_week_section3 "۷ روز گذشته">
+<!ENTITY history_this_month_section "ماه جاری">
+<!ENTITY history_older_section3 "قدیمی‌تر از ۶ ماه گذشته">
 
 <!ENTITY go "برو">
 <!ENTITY search "جستجو">
@@ -95,6 +97,7 @@
      &formatS; will be replaced with the title of the tab, as received from the
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "در حال پخش صوت – &formatS;">
 
 <!ENTITY settings "تنظیمات">
 <!ENTITY settings_title "تنظیمات">
@@ -102,7 +105,7 @@
 <!ENTITY pref_category_advanced "پیشرفته">
 <!ENTITY pref_category_customize "سفارشی‌سازی">
 <!ENTITY pref_category_customize_summary "خانه، جستجو، زبانه‌ها، وارد کردن">
-
+<!ENTITY pref_category_customize_alt_summary "خانه، جستجو، زبانه‌ها، بعدا باز کنید، وارد کردن">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -156,7 +159,7 @@
 <!ENTITY pref_category_privacy_short "حریم‌خصوصی">
 <!ENTITY pref_category_privacy_summary2 "مدیریت ورود, کوکی‌ها, ره‌گیری, داده">
 <!ENTITY pref_category_vendor "&vendorShortName;">
-
+<!ENTITY pref_category_vendor_summary "درباره &brandShortName;، پرسش‌های متداول، انتخاب داده‌ها">
 <!ENTITY pref_category_datareporting "انتخاب داده‌ها">
 <!ENTITY pref_learn_more "اطلاعات بیشتر">
 <!ENTITY pref_category_installed_search_engines "موتورهای جستجو نصب شده">
@@ -183,71 +186,76 @@
 
 <!ENTITY pref_category_home "خانه">
 <!ENTITY pref_category_home_summary "صفحه‌آغازین خود را شخصی سازی کنید">
-
-
+<!ENTITY pref_category_home_panels "قطعه‌ها">
+<!ENTITY home_add_panel_title "اضافه کردن قطعه جدید">
 <!ENTITY home_add_panel_empty "متاسفانه, ما قادر به پیدا کردن هیچ گونه قطعه ای برای اضافه کردن برای شما نیستیم.">
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
 <!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 به صفحه‌خانگی اضافه شد.">
 <!ENTITY pref_category_home_content_settings "تنظیمات محتوا">
-
-
-
+<!ENTITY pref_home_updates "بروزرسانی خودکار">
+<!ENTITY pref_home_updates_enabled "فعال شد">
+<!ENTITY pref_home_updates_wifi "فقط با Wi-Fi">
 <!ENTITY pref_home_suggested_sites "نمایش پیشنهادهای سایت">
 <!ENTITY pref_home_suggested_sites_summary "ما تصور می کنیم نمایش کلیدهای میانبربه وب سایت های شما بر روی صفحه خانگی ممکن است جذاب باشد">
-
-
-
+<!ENTITY pref_category_home_homepage "صفحه خانگی">
+<!ENTITY home_homepage_title "تنظیم یک صفحه خانگی">
+<!ENTITY home_homepage_use_current_tab "استفاده از زبانه فعلی">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
-
-
+<!ENTITY pref_header_customize "سفارشی‌سازی">
+<!ENTITY pref_header_display "نمایش">
+<!ENTITY pref_header_privacy_short "حریم‌خصوصی">
+<!ENTITY pref_header_help "راهنما">
 <!ENTITY pref_header_language "زبان">
-
-
+<!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_devtools "ابزارهای توسعه‌دهندگان">
 
 <!ENTITY pref_cookies_menu "کوکی‌ها">
-
+<!ENTITY pref_cookies_accept_all "فعال شد">
 <!ENTITY pref_cookies_not_accept_foreign "فعال شده، بدون شخص ثالث">
 <!ENTITY pref_cookies_disabled "غیرفعال شد">
 
 <!ENTITY pref_tracking_protection_title "محافظت در برابر ردگیری">
-
-
+<!ENTITY pref_tracking_protection_summary3 "فعال شده در حالت مرور ناشناس">
+<!ENTITY pref_donottrack_title "ردیابی نکن">
 <!ENTITY pref_donottrack_summary "&brandShortName; به سایت‌ها خواهد گفت که شما نمی‌خواهید ردیابی شوید.">
 
+<!ENTITY tracking_protection_prompt_title "هم‌اکنون با قابلیت محافظت در برابر ردگیری">
 <!ENTITY tracking_protection_prompt_text "به صورت خودکار عناصر ردیابی بلاک می شود بنابراین جایی برای نگرانی وجود ندارد.">
-
+<!ENTITY tracking_protection_prompt_tip_text "برای اطلاعات بیشتر تنظیمات حریم خصوصی را ببنید">
 <!ENTITY tracking_protection_prompt_action_button "گرفتم!">
 
 <!ENTITY tab_queue_toast_message3 "زبانه در &brandShortName; ذخیره شد">
+<!ENTITY tab_queue_toast_action "هم‌اکنون باز کن">
+<!ENTITY tab_queue_prompt_title "هم‌زمان چند لینک باز می‌کنید؟">
 
-
-
-
-
-
-
+<!ENTITY tab_queue_prompt_tip_text2 "می‌توانید بعدا در تنظیمات تغییرش دهید">
+<!ENTITY tab_queue_prompt_positive_action_button "فعال‌سازی">
+<!ENTITY tab_queue_prompt_negative_action_button "اکنون نه">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY tab_queue_notification_text_plural2 "&formatD; زبانه در انتظار هستند">
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_text_singular2 "۱ زبانه در انتظار است">
 
 <!ENTITY pref_char_encoding "کدگذاری نویسه‌ها">
 <!ENTITY pref_char_encoding_on "نمایش منو">
 <!ENTITY pref_char_encoding_off "منو را نمایش نده">
-
+<!ENTITY pref_clear_private_data2 "هم‌اکنون پاک شود">
 <!ENTITY pref_clear_private_data_category "پاک‌سازی اطلاعات خصوصی">
-
-
-
+<!ENTITY pref_clear_on_exit_title2 "هنگام خروج پاک شود">
+<!ENTITY pref_clear_on_exit_summary2 "هر زمان \u0022خروج\u0022 را از منوی اصلی انتخاب کنید &brandShortName; اطلاعات شما را به طور خودکار پاک می‌کند">
+<!ENTITY pref_clear_on_exit_dialog_title "داده‌هایی که می‌خواهید پاک شوند را انتخاب کنید">
 <!ENTITY pref_plugins "افزونه‌ها">
-
+<!ENTITY pref_plugins_enabled "فعال شد">
 <!ENTITY pref_plugins_tap_to_play "برای اجرا، فشار دهید">
-
+<!ENTITY pref_plugins_disabled "غیرفعال شد">
 <!ENTITY pref_text_size "اندازهٔ متن">
 <!ENTITY pref_restore "زبانه‌ها">
 <!ENTITY pref_restore_always "همیشه برگردان">
