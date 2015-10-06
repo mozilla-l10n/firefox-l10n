@@ -6,11 +6,21 @@
 <!ENTITY  no_space_to_start_error "Der is net genôch ûnthâld beskikber om &brandShortName; te starten.">
 <!ENTITY  error_loading_file "Der is in flater bard wylst it laden fan bestannen dy\'t nedich binne foar &brandShortName;">
 
+<!ENTITY firstrun_panel_title_welcome "Wolkom">
 <!ENTITY  onboard_start_message3 "Surf mei &brandShortName;">
 <!ENTITY  onboard_start_subtext3 "Meitsje jo mobile webbrowserûnderfining echt fan josels.">
 <!ENTITY  onboard_start_button_account "Meld jo oan by &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Start mei browsen">
+<!ENTITY firstrun_button_next "Folgjende">
+
 <!ENTITY  onboard_start_restricted1 "Bliuw feilich en yn kontrôle mei dizze ferienfâldige ferzje fan &brandShortName;.">
+
+<!ENTITY firstrun_import_title "Ymportearje">
+<!ENTITY firstrun_import_message "Wolkom by &brandShortName;">
+<!ENTITY firstrun_import_subtext "Ymportearje jo blêdwizers en skiednis fan in oare browser.">
+<!ENTITY firstrun_import_action "Oerbringe nei &brandShortName;">
+<!ENTITY firstrun_import_dialog_button "Oerbringe">
+<!ENTITY firstrun_import_progress_title "Oerbringe">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
@@ -55,8 +65,9 @@
 
 <!ENTITY history_today_section "Hjoed">
 <!ENTITY history_yesterday_section "Juster">
-<!ENTITY history_week_section2 "Lêste wike">
-<!ENTITY history_older_section2 "Lêste moanne">
+<!ENTITY history_week_section3 "Ofrûne 7 dagen">
+<!ENTITY history_this_month_section "Dizze moanne">
+<!ENTITY history_older_section3 "Alder as 6 moannen">
 
 <!ENTITY go "Gean">
 <!ENTITY search "Sykje">
@@ -69,8 +80,6 @@
 <!ENTITY edit_mode_cancel "Annulearje">
 
 <!ENTITY close_tab "Ljepblêd slute">
-<!ENTITY tab_audio_playing "Dit ljepblêd spilet audio ôf">
-<!ENTITY tab_audio_muted "Dit ljepblêd is dempt">
 <!ENTITY one_tab "1 ljepblêd">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -80,7 +89,15 @@
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
-<!ENTITY switch_button_message "WIKSEL">
+<!ENTITY switch_button_message "WIKSELJE">
+<!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
+     visible in the UI, but rather used as a text-to-speech content description
+     for sight-impaired a11y users. The content description is set on a tab
+     title in a list of open tabs when content in that tab is playing audio.
+     &formatS; will be replaced with the title of the tab, as received from the
+     web page. When audio is not playing in a tab, &formatS; will be used as
+     the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "Audio ôfspylje – &formatS;">
 
 <!ENTITY settings "Ynstellingen">
 <!ENTITY settings_title "Ynstellingen">
@@ -182,6 +199,9 @@
 <!ENTITY pref_home_updates_wifi "Allinnich fia wifi">
 <!ENTITY pref_home_suggested_sites "Websitefoarstellen toane">
 <!ENTITY pref_home_suggested_sites_summary "Toant fluchkeppelingen nei websites wêrfan wy tinke dat jo se ynteressant fine op jo startside">
+<!ENTITY pref_category_home_homepage "Startside">
+<!ENTITY home_homepage_title "In startside ynstelle">
+<!ENTITY home_homepage_use_current_tab "Aktuele ljepblêd brûke">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Oanpasse">
@@ -237,7 +257,6 @@
 <!ENTITY pref_plugins_tap_to_play "Tikke foar ôfspyljen">
 <!ENTITY pref_plugins_disabled "Utskeakele">
 <!ENTITY pref_text_size "Tekstgrutte">
-<!ENTITY pref_reflow_on_zoom4 "Tekst werskikke">
 <!ENTITY pref_restore "Ljepblêden">
 <!ENTITY pref_restore_always "Altyd werstelle">
 <!ENTITY pref_restore_quit "Net werstelle nei ôfsluten fan &brandShortName;">
@@ -347,6 +366,7 @@ size. -->
 <!ENTITY share_title "Diele fia">
 <!ENTITY share_image_failed "Kin dizze ôfbylding net diele">
 <!ENTITY save_as_pdf "Bewarje as PDF">
+<!ENTITY print "Ofdrukke">
 <!ENTITY find_in_page "Sykje op side">
 <!ENTITY desktop_mode "Desktopwebsite opfreegje">
 <!ENTITY page "Side">
@@ -391,6 +411,8 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Website fêstmeitsje">
 <!ENTITY contextmenu_top_sites_unpin "Website losmeitsje">
 <!ENTITY contextmenu_add_search_engine "Sykmasine tafoegje">
+<!ENTITY contextmenu_mark_read "Markearje as lêzen">
+<!ENTITY contextmenu_mark_unread "Markearje as net lêzen">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -413,8 +435,8 @@ size. -->
 
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
-<!ENTITY pref_prevent_magnifying_glass "Fergrutglês útskeakelje ">
-<!ENTITY pref_prevent_magnifying_glass_summary "Fergrutglês foarkomme foar gebrûk by ferhelpen fan net-ienduidige skermoanrakingen">
+<!ENTITY pref_magnifying_glass_enabled "Kleine gebieden fergrutsje">
++<!ENTITY pref_magnifying_glass_enabled_summary "Keppelingen en formulierfjilden fergrutsje by dernjonken tikke">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
@@ -473,8 +495,6 @@ size. -->
 <!ENTITY button_set "Ynstelle">
 <!ENTITY button_clear "Wiskje">
 <!ENTITY button_copy "Kopiearje">
-
-<!ENTITY firstrun_panel_title_welcome "Wolkom">
 
 <!ENTITY home_top_sites_title "Topwebsites">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -564,14 +584,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_insecure "Net-befeilige ferbining">
 
 <!-- Mixed content notifications in site identity popup -->
-<!ENTITY mixed_content_blocked_all "&brandShortName; hat ûnfeilige eleminten op dize side blokkearre.">
-<!ENTITY mixed_content_blocked_some "&brandShortName; hat inkele ûnfeilige eleminten op dizze side blokkearre.">
-<!ENTITY mixed_content_display_loaded "Dizze side befettet inkele ûnfeilige eleminten.">
-<!ENTITY mixed_content_protection_disabled "Jo hawwe befeiliging tsjin ûnfeilige eleminten útskeakele.">
-
-<!ENTITY loaded_mixed_content_message "Dizze side jout ynhâld wer dy\'t net feilich is.">
-<!ENTITY blocked_mixed_content_message_top "&brandShortName; hat ynhâld dy\'t net feilich is blokkearre.">
-<!ENTITY blocked_mixed_content_message_bottom "De measte websites sille gewoanwei wurkje, sels wannear\'t dizze ynhâld blokkearre wurdt.">
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; hat ûnfeilige ynhâld op dizze side blokkearre.">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; hat in part fan de ûnfeilige ynhâld op dizze side blokkearre.">
+<!ENTITY mixed_content_display_loaded1 "Underdielen fan dizze side binne net befeiligd (lykas ôfbeeldingen).">
+<!ENTITY mixed_content_protection_disabled1 "Jo hawwe beskerming tsjin ûnfeilige ynhâld útskeakele.">
 
 <!-- Tracking content notifications in site identity popup -->
 <!ENTITY doorhanger_tracking_title "Beskerming tsjin folgjen">
@@ -673,7 +689,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      their desktop or laptop.-->
 <!ENTITY remote_tabs_last_synced "Lêst syngronisearre: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
-<!ENTITY remote_tabs_never_synced "Lêst syngronisearre: nea">
+<!ENTITY remote_tabs_never_synced "Lêst syngronisearre: noait">
 
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
@@ -703,3 +719,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restriction_disallow_clear_history_title2 "‘Skiednis wiskje’ útskeakelje">
 <!ENTITY restriction_disallow_master_password_title2 "Haadwachtwurd útskeakelje">
 <!ENTITY restriction_disallow_guest_browsing_title2 "Gastnavigaasje útskeakelje">
+
+<!-- Default Bookmarks titles-->
+<!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!ENTITY bookmarks_about_browser "Firefox: oer jo browser">
+<!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "Firefox: oanpasse mei add-ons">
+<!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "Firefox: stipe">
+<!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
+<!ENTITY bookmarks_marketplace "Firefox Marketplace">
+<!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!ENTITY bookmarks_restricted_support2 "Firefox: help en stipe foar beheinde profilen op Android-tablets">
+<!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!ENTITY bookmarks_restricted_webmaker "Lear it web: Mozilla Webmaker">
