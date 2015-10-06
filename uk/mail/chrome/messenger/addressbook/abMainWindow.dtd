@@ -58,11 +58,11 @@
 <!ENTITY pasteCmd.label                                 "Вставити">
 <!ENTITY pasteCmd.key                                   "V">
 <!ENTITY pasteCmd.accesskey                             "с">
-<!ENTITY deleteCmd.label                                "Вилучити">
+<!ENTITY deleteCmd.label                                "Видалити">
 <!ENTITY deleteCmd.accesskey                            "В">
-<!ENTITY deleteAbCmd.label                              "Вилучити адресну книгу">
-<!ENTITY deleteContactCmd.label                         "Вилучити картку">
-<!ENTITY deleteContactsCmd.label                        "Вилучити кілька карток">
+<!ENTITY deleteAbCmd.label                              "Видалити адресну книгу">
+<!ENTITY deleteContactCmd.label                         "Видалити контакт">
+<!ENTITY deleteContactsCmd.label                        "Видалити контакти">
 <!ENTITY deleteListCmd.label                            "Видалити список">
 <!ENTITY deleteListsCmd.label                           "Видалити списки">
 <!ENTITY deleteItemsCmd.label                           "Видалити елементи">
@@ -139,7 +139,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.accesskey                         "Л">
 <!ENTITY newIM.label                                    "Звісточку">
 <!ENTITY newIM.accesskey                                "З">
-<!ENTITY deleteButton2.label                            "Вилучити">
+<!ENTITY deleteButton2.label                            "Видалити">
 <!ENTITY deleteButton2.accesskey                        "В">
 
 <!-- Address Book Toolbar Tooltips -->
@@ -148,7 +148,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY editButton2.tooltip                            "Змінити властивості виділеного елемента">
 <!ENTITY newmsgButton.tooltip                           "Написати листа">
 <!ENTITY newIM.tooltip                                  "Відіслати звісточку чи почати бесіду">
-<!ENTITY deleteButton2.tooltip                           "Вилучити обраний елемент">
+<!ENTITY deleteButton2.tooltip                           "Видалити вибраний елемент">
 
 <!-- Dir Tree header -->
 <!ENTITY dirTreeHeader.label                            "Адресні книги">
