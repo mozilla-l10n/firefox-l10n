@@ -4,8 +4,10 @@
 
 <!ENTITY defaultSearchEngine.label             "طےشدہ تلاش انجن">
 
+<!ENTITY chooseYourDefaultSearchEngine.label   "اپنا طے شدہ تلاش انجن منتخب کریں۔ &brandShortName; اس کو محل وقوع بار، تلاش بار، اور شروع کریں بار میں استعمال کرتا ہے۔">
 
-
+<!ENTITY provideSearchSuggestions.label        "تلاش تجاویز مہیا کریں">
+<!ENTITY provideSearchSuggestions.accesskey    "ت">
 
 
 
