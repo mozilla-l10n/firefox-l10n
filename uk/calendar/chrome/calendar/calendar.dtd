@@ -162,9 +162,9 @@
 <!ENTITY calendar.context.newevent.accesskey          "Н">
 <!ENTITY calendar.context.newtodo.label               "Нове завдання…">
 <!ENTITY calendar.context.newtodo.accesskey           "з">
-<!ENTITY calendar.context.deletetask.label            "Вилучити завдання">
+<!ENTITY calendar.context.deletetask.label            "Видалити завдання">
 <!ENTITY calendar.context.deletetask.accesskey        "В">
-<!ENTITY calendar.context.deleteevent.label           "Вилучити подію">
+<!ENTITY calendar.context.deleteevent.label           "Видалити подію">
 <!ENTITY calendar.context.deleteevent.accesskey       "л">
 <!ENTITY calendar.context.cutevent.label              "Вирізати">
 <!ENTITY calendar.context.cutevent.accesskey          "р">
@@ -225,14 +225,14 @@
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
      task action buttons -->
-<!ENTITY calendar.taskview.delete.label     "Вилучити">
+<!ENTITY calendar.taskview.delete.label     "Видалити">
 
 <!-- Server Context Menu -->
 <!ENTITY calendar.context.newserver.label              "Новий календар…">
 <!ENTITY calendar.context.newserver.accesskey          "Н">
 <!ENTITY calendar.context.findcalendar.label           "Знайти календар…" >
 <!ENTITY calendar.context.findcalendar.accesskey       "З" >
-<!ENTITY calendar.context.deleteserver2.label          "Вилучити календар">
+<!ENTITY calendar.context.deleteserver2.label          "Видалити календар…">
 <!ENTITY calendar.context.deleteserver2.accesskey      "В">
 
 <!-- LOCALIZATION NOTE (calendar.context.removeserver.label): Removing the

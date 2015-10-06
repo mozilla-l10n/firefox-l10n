@@ -68,7 +68,7 @@
 <!ENTITY  event.menu.item.save.accesskey                  "б">
 <!ENTITY  event.menu.item.saveandclose.label              "Зберегти та закрити">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "т">
-<!ENTITY  event.menu.item.delete.label                    "Стерти…">
+<!ENTITY  event.menu.item.delete.label                    "Видалити…">
 <!ENTITY  event.menu.item.delete.accesskey                "С">
 <!ENTITY  event.menu.item.page.setup.label                "Параметри сторінки">
 <!ENTITY  event.menu.item.page.setup.accesskey            "р">
@@ -141,12 +141,12 @@
 
 <!-- Toolbar -->
 <!ENTITY  event.toolbar.save.label                        "Зберегти та закрити">
-<!ENTITY  event.toolbar.delete.label                      "Вилучити">
+<!ENTITY  event.toolbar.delete.label                      "Видалити">
 <!ENTITY  event.toolbar.attendees.label                   "Запросити учасників">
 <!ENTITY  event.toolbar.privacy.label                     "Приватність">
 
 <!ENTITY  event.toolbar.save.tooltip                      "Зберегти й закрити">
-<!ENTITY  event.toolbar.delete.tooltip                    "Вилучити">
+<!ENTITY  event.toolbar.delete.tooltip                    "Видалити">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Запросити учасників">
 <!ENTITY  event.toolbar.attachments.tooltip               "Додати вкладення">
 <!ENTITY  event.toolbar.privacy.tooltip                   "Змінити приватність">
