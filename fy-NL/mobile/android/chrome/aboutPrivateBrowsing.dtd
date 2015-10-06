@@ -8,9 +8,15 @@
                         is used as a title, with the privatebrowsingpage.title string preceding it but on a separate line.
                         So the final line will say "Private Browsing + Tracking Protection". -->
 <!ENTITY privatebrowsingpage.title.private "+ Beskerming tsjin folgjen">
+<!-- Localization note (privatebrowsingpage.title.normal1): "Private Browsing"
+     is capitalized in English to be consistent with our existing uses of the
+     term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "Jo brûke gjin Priveenavigaasje">
 
-<!ENTITY privatebrowsingpage.description.private3 "Firefox sil opkeare dat jo folge wurde en gjin skiednis ûnthâlde, mar downloade bestannen en nije blêdwizers wurde wol op jo apparaat bewarre.">
+<!ENTITY privatebrowsingpage.description.private4 "&brandShortName; sil gjin skiednis ûnthâlde en foarkomme dat jo folge wurde, mar downloade bestannen en nije blêdwizers wurde wol op jo apparaat bewarre.">
+<!-- Localization note (privatebrowsingpage.description.normal2): "Private
+     Browsing is capitalized in English to be consistent with our existing uses
+     of the term. -->
 <!ENTITY privatebrowsingpage.description.normal2 "Yn Priveenavigaasje wurde gjin navigaajeskiednis of cookies bewarre. Blêdwizers dy't jo tafoegje en bestannen dy't jo downloade wurde wol op jo apparaat bewarre.">
 
 <!ENTITY privatebrowsingpage.link.private "Wolle jo mear witte?">

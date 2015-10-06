@@ -197,6 +197,7 @@
 
 <!ENTITY fxaccount_status_header2 'Firefox-account'>
 <!ENTITY fxaccount_status_signed_in_as 'Oanmeld as'>
+<!ENTITY fxaccount_status_manage_account 'Account beheare'>
 <!ENTITY fxaccount_status_auth_server 'Accounttsjinner'>
 <!ENTITY fxaccount_status_sync_now 'No syngronisearje'>
 <!ENTITY fxaccount_status_syncing2 'Syngronisearje…'>
