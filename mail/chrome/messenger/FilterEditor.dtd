@@ -45,9 +45,9 @@
 <!ENTITY setPriority.label "Змінити важливість на">
 <!ENTITY addTag.label "Помітити повідомлення">
 <!ENTITY setJunkScore.label "Встановити ознаку спаму">
-<!ENTITY deleteMessage.label "Вилучити повідомлення">
-<!ENTITY deleteFromPOP.label "Вилучити з поштового сервера">
-<!ENTITY fetchFromPOP.label "Завантажити з поштового сервера">
+<!ENTITY deleteMessage.label "Видалити повідомлення">
+<!ENTITY deleteFromPOP.label "Видалити з POP-сервера">
+<!ENTITY fetchFromPOP.label "Завантажити з POP-сервера">
 <!ENTITY ignoreThread.label "Ігнорувати гілку">
 <!ENTITY ignoreSubthread.label "Ігнорувати підгілку">
 <!ENTITY watchThread.label "Відстежувати гілку">

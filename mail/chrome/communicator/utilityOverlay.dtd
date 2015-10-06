@@ -26,8 +26,8 @@
 <!ENTITY pasteCmd.label            "Вставити">
 <!ENTITY pasteCmd.key            "V">
 <!ENTITY pasteCmd.accesskey          "т">
-<!ENTITY deleteCmd.label          "Стерти">
-<!ENTITY deleteCmd.accesskey        "С">
+<!ENTITY deleteCmd.label          "Видалити">
+<!ENTITY deleteCmd.accesskey        "В">
 <!ENTITY selectAllCmd.label          "Виділити все">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey        "с">
