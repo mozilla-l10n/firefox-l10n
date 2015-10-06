@@ -8,36 +8,38 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY window.width2                    "485">
 <!ENTITY window.height                    "300"> 
 
-<!ENTITY starting.label                   "सुरू होत आहे...">
+<!ENTITY starting.label                   "सुरू होत आहे">
 <!ENTITY scanning.label                   "वायरस करीता स्कॅन करीत आहे…">
 
+<!ENTITY downloads.title                  "डाउनलोड्स">
 
-
-<!ENTITY cmd.resume.label                 "पुन्हा सुरू करा">
+<!ENTITY cmd.pause.label                  "थोडा वेळ थांबवा (P)">
+<!ENTITY cmd.pause.accesskey              "P">
+<!ENTITY cmd.resume.label                 "पुन्हा सुरू करा (R)">
 <!ENTITY cmd.resume.accesskey             "R">
-<!ENTITY cmd.cancel.label                 "रद्द करा">
+<!ENTITY cmd.cancel.label                 "रद्द करा (C)">
 <!ENTITY cmd.cancel.accesskey             "C">
-<!ENTITY cmd.show.label                   "समाविष्टीत फोल्डर उघडा">
+<!ENTITY cmd.show.label                   "समाविष्टीत फोल्डर उघडा (F)">
 <!ENTITY cmd.show.accesskey               "F">
-<!ENTITY cmd.showMac.label                "फोल्डरमध्ये दाखवा">
+<!ENTITY cmd.showMac.label                "फोल्डरमध्ये दाखवा (F)">
 <!ENTITY cmd.showMac.accesskey            "F">
-<!ENTITY cmd.open.label                   "उघडा">
+<!ENTITY cmd.open.label                   "उघडा (O)">
 <!ENTITY cmd.open.accesskey               "O">
-<!ENTITY cmd.openWith.label               "यासह उघडा…">
+<!ENTITY cmd.openWith.label               "यासह उघडा (h)">
 <!ENTITY cmd.openWith.accesskey           "h">
-<!ENTITY cmd.retry.label                  "पुन्हा प्रयत्न करा">
+<!ENTITY cmd.retry.label                  "पुन्हा प्रयत्न करा (R)">
 <!ENTITY cmd.retry.accesskey              "R">
-<!ENTITY cmd.goToDownloadPage.label       "डाऊनलोड पृष्ठावर जा">
+<!ENTITY cmd.goToDownloadPage.label       "डाऊनलोड पृष्ठावर जा (G)">
 <!ENTITY cmd.goToDownloadPage.accesskey   "G">
-
-
-<!ENTITY cmd.removeFromList.label         "सूचीतून काढून टाका">
+<!ENTITY cmd.copyDownloadLink.label       "डाउनलोड दुव्याची प्रत बनवा(L)">
+<!ENTITY cmd.copyDownloadLink.accesskey   "L">
+<!ENTITY cmd.removeFromList.label         "सूचीतून काढून टाका (e)">
 <!ENTITY cmd.removeFromList.accesskey     "e">
 
 <!ENTITY cmd.close.commandKey             "w">
 <!ENTITY cmd.close2.commandKey            "j">
 <!ENTITY cmd.close2Unix.commandKey        "y">
-<!ENTITY cmd.clearList.label              "सूची नष्ट करा">
+<!ENTITY cmd.clearList.label              "सूची नष्ट करा (C)">
 <!ENTITY cmd.clearList.tooltip            "पूर्ण, रद्द केलेले, व अपयशी डाऊनलोड यादीतून बाहेर काढतो">
 <!ENTITY cmd.clearList.accesskey          "C">
 <!ENTITY cmd.find.commandKey              "f">
