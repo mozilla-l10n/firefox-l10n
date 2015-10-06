@@ -406,7 +406,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Fellout a ra deoc'h gwellat hoc'h arver klask gant kinnigoù ?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Gouzout hiroc'h…">
-
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Ket">
 
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Ya">
@@ -718,7 +718,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings in the subview. -->
 
 <!ENTITY identity.description.insecure "N'eo ket prevez ho kennask war al lec'hienn-mañ. Gallout a ra an titouroù kinniget ganeoc'h bezañ gwelet gant tud all (gerioù-tremen, kemennadennoù, kartennoù gred en o zouez).">
-
+<!ENTITY identity.description.insecureLoginForms "N'eo ket diogel an titouroù kennaskañ enanket ganeoc'h er bajennad-mañ ha gallout a reont bezañ en arvar. ">
 <!ENTITY identity.description.weakCipher "Enrinegañ gwan a vez arveret gant ho kennask d'al lec'hienn-mañ ha n'eo ket prevez.">
 <!ENTITY identity.description.weakCipher2 "Gallout a ra tud all sellet ouzh ho titouroù pe kemmañ emzalc'h al lec'hienn.">
 <!ENTITY identity.description.activeBlocked "Stanket eo bet gant &brandShortName; lodennoù arvarus er bajennad.">
