@@ -39,7 +39,7 @@
 <!ENTITY indexedDB.label                 "Przechowywanie danych offline">
 
 <!ENTITY popup.label                     "Otwieranie wyskakujących okien">
-<!ENTITY push.label "Otrzymywanie powiadomień Push">
+<!ENTITY desktop-notification.label "Wyświetlanie powiadomień">
 <!ENTITY camera.label "Używanie kamery">
 <!ENTITY microphone.label "Używanie mikrofonu">
 
