@@ -276,6 +276,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label "Plik" >
 <!ENTITY fileMenu.accesskey "P" >
+<!ENTITY newUserContext.label "Nowa karta z kontekstem">
+<!ENTITY newUserContext.accesskey "k">
+<!ENTITY userContextPersonal.label "Osobiste">
+<!ENTITY userContextPersonal.accesskey "O">
+<!ENTITY userContextWork.label "Praca">
+<!ENTITY userContextWork.accesskey "P">
+<!ENTITY userContextBanking.label "Bankowość">
+<!ENTITY userContextBanking.accesskey "B">
+<!ENTITY userContextShopping.label "Zakupy">
+<!ENTITY userContextShopping.accesskey "Z">
 <!ENTITY newNavigatorCmd.label "Nowe okno" >
 <!ENTITY newNavigatorCmd.key "N" >
 <!ENTITY newNavigatorCmd.accesskey "N" >
