@@ -648,7 +648,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin2.label       "خروج">
 <!ENTITY quitApplicationCmdWin2.accesskey   "خ">
-<!ENTITY quitApplicationCmdWin2.tooltip     "&brandShortName; خارج کریں">
+<!ENTITY quitApplicationCmdWin2.tooltip     "&brandShorterName; خارج کریں">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "کنارہ کریں"> 
