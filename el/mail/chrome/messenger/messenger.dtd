@@ -342,12 +342,12 @@
 <!ENTITY replySenderCmd.label "Απάντηση μόνο στον αποστολέα">
 <!ENTITY replySenderCmd.accesskey "μ">
 <!ENTITY replyNewsgroupCmd2.label "Απάντηση στην ομάδα συζήτησης">
-<!ENTITY replyNewsgroupCmd2.accesskey "ζ">
+<!ENTITY replyNewsgroupCmd2.accesskey  "ζ">
 <!ENTITY replyToAllMsgCmd.label "Απάντηση σε όλους">
-<!ENTITY replyToAllMsgCmd.accesskey "λ">
+<!ENTITY replyToAllMsgCmd.accesskey  "λ">
 <!ENTITY replyToAllMsgCmd.key  "r">
 <!ENTITY replyToListMsgCmd.label "Απάντηση στη λίστα">
-<!ENTITY replyToListMsgCmd.accesskey "λ">
+<!ENTITY replyToListMsgCmd.accesskey  "λ">
 <!ENTITY replyToListMsgCmd.key  "l">
 <!ENTITY forwardMsgCmd.label "Προώθηση">
 <!ENTITY forwardMsgCmd.accesskey "ο">
