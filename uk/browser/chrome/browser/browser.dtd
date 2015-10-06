@@ -311,7 +311,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.label        "Нове вікно">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "Н">
-<!ENTITY newPrivateWindow.label     "Нове приватне вікно">
+<!ENTITY newPrivateWindow.label     "Приватне вікно">
 <!ENTITY newPrivateWindow.accesskey "в">
 <!ENTITY newNonRemoteWindow.label   "Нове однопроцесове вікно">
 
