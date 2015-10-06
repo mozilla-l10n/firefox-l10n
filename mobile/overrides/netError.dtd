@@ -75,12 +75,25 @@
 <!ENTITY proxyResolveFailure.title "کارگزار پیشکار پیدا نمی‌شود">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY proxyResolveFailure.longDesc3 "<ul> 
+<li>تنظیمات پیشکار را بررسی کنید تا مطمئن شوید درست هستند.</li> 
+<li>بررسی کنید که دستگاه شما یک اتصال داده یا وای-فای فعال دارد. 
+<button id='wifi'>فعال‌سازی وای-فای</button> 
+</li> 
+</ul>">
 
 <!ENTITY redirectLoop.title "این صفحه درست تغییر مسیر نمی‌دهد">
-<!ENTITY redirectLoop.longDesc "<ul> <li>گاهی ممکن است این اشکال به دلیل غیر فعال بودن یا خودداری کردن از قبول کوکی باشد.</li> </ul>">
+<!ENTITY redirectLoop.longDesc "<ul> 
+<li>گاهی ممکن است این اشکال به دلیل غیر فعال بودن یا خودداری کردن از قبول 
+کوکی‌ها باشد.</li> 
+</ul>">
 
 <!ENTITY unknownSocketType.title "جواب غیرمنتظره از کارگزار">
-<!ENTITY unknownSocketType.longDesc "<ul> <li>مطمئن شوید که «مدیریت امنیت شخصی» (Personal Security Manager) بر روی سیستم شما نصب شده است.</li> <li>این اشکال ممکن است از پیکربندی غیر استاندارد کارگزار باشد.</li> </ul>">
+<!ENTITY unknownSocketType.longDesc "<ul> 
+<li>مطمئن شوید که «مدیریت امنیت شخصی» (Personal Security Manager)
+بر روی سیستم شما نصب شده است.</li> 
+<li>این اشکال ممکن است از پیکربندی غیر استاندارد کارگزار باشد.</li> 
+</ul>">
 
 <!ENTITY nssFailure2.title "برقراری اتصال ایمن شکست خورد">
 
