@@ -8,10 +8,11 @@
 
 <!ENTITY privateBrowsing.title                 "Penjelajahan Pribadi">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width):
-     Width of the Private Browsing section.
+     Width of the Private Browsing section. This should depend primarily on the
+     length of the headers and text, but should be roughly 1.5 times the width
+     of the Tracking Protection section, and in general not much larger than
+     30em to prevent the sections from wrapping on smaller window sizes.
      -->
-
-<!ENTITY aboutPrivateBrowsing.width            "26em">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
      aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
      These strings will be replaced by aboutPrivateBrowsing.forgotten and
@@ -21,21 +22,25 @@
 <!ENTITY aboutPrivateBrowsing.title            "Anda sedang menjelajah dalam mode pribadi">
 
 
-
+<!ENTITY aboutPrivateBrowsing.info.forgotten   "Tidak Tersimpan">
 <!ENTITY aboutPrivateBrowsing.info.history     "Riwayat">
 <!ENTITY aboutPrivateBrowsing.info.searches    "Pencarian">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Kuki">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Berkas Sementara">
 
 <!ENTITY aboutPrivateBrowsing.kept             "&brandShortName; akan menyimpan:">
-
+<!ENTITY aboutPrivateBrowsing.info.kept        "Tersimpan">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Unduhan">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Daftar Markah">
 
 <!ENTITY aboutPrivateBrowsing.learnMore        "Pelajari Lebih Lanjut.">
 <!-- LOCALIZATION NOTE (trackingProtection.width):
-     Width of the Tracking Protection section. This should be enough to
-     accommodate the title as well as the enabled or disabled indicator.
+     Width of the Tracking Protection section. It is fine for the enabled or
+     disabled indicator or the words in the title to wrap to the next line, but
+     you can expand or reduce this section to fit better, as long as the width
+     of the Private Browsing section is roughly 1.5 times the width of this one.
+     Note that the required space may vary between platforms because fonts are
+     different, so testing on Windows, Mac, and Linux is encouraged.
      -->
 
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
