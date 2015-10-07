@@ -10,3 +10,6 @@
 <!ENTITY addonAction.disable                    "Slå av">
 <!ENTITY addonAction.uninstall                  "Avinstaller">
 <!ENTITY addonAction.undo                       "Angre">
+
+<!ENTITY addonUnsigned.message                  "&brandShortName; klarte ikkje å stadfesta denne utvidinga.">
+<!ENTITY addonUnsigned.learnMore                "Les meir">
