@@ -8,8 +8,8 @@
 <!ENTITY  language.accesskey                      "D">
 
 <!ENTITY  size.label                              "Boyut:">
-
-
+<!ENTITY  sizeProportional.accesskey              "e">
+<!ENTITY  sizeMonospace.accesskey                 "i">
 
 <!ENTITY  proportional.label                      "Orantılı:">
 <!ENTITY  proportional.accesskey                  "O">
@@ -22,6 +22,8 @@
 <!ENTITY  monospace.accesskey                     "M">
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
+
+<!ENTITY  font.langGroup.latin                    "Latince">
 <!ENTITY  font.langGroup.japanese                 "Japonca">
 <!ENTITY  font.langGroup.trad-chinese             "Geleneksel Çince (Tayvan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Basitleştirilmiş Çince">
@@ -29,7 +31,7 @@
 <!ENTITY  font.langGroup.korean                   "Korece">
 <!ENTITY  font.langGroup.cyrillic                 "Kiril">
 <!ENTITY  font.langGroup.el                       "Yunanca">
-
+<!ENTITY  font.langGroup.other                    "Diğer Yazım Sistemleri">
 <!ENTITY  font.langGroup.thai                     "Tay Dili">
 <!ENTITY  font.langGroup.hebrew                   "İbranice">
 <!ENTITY  font.langGroup.arabic                   "Arapça">
@@ -44,12 +46,12 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi Dili">
 <!ENTITY  font.langGroup.khmer                    "Kamboçya Dili">
 <!ENTITY  font.langGroup.malayalam                "Malayalam">
-
-
-
-
-
-
+<!ENTITY  font.langGroup.math                     "Matematik">
+<!ENTITY  font.langGroup.oriya                    "Oriya Dili">
+<!ENTITY  font.langGroup.telugu                   "Telugu Dili">
+<!ENTITY  font.langGroup.kannada                  "Kannada">
+<!ENTITY  font.langGroup.sinhala                  "Seylanca">
+<!ENTITY  font.langGroup.tibetan                  "Tibet Dili">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "En küçük yazı tipi boyutu:">
 <!ENTITY minSize.accesskey                        "z">
@@ -69,10 +71,10 @@
 
 <!ENTITY sendDefaultCharset.label         "Giden Posta:">
 <!ENTITY sendDefaultCharset.accesskey     "d">
-
-
+<!ENTITY languagesTitle2.label            "Metin Kodlaması">
+<!ENTITY composingDescription2.label      "E-posta alma ve gönderme için varsayılan metin kodlamasını ayarla">
 
 <!ENTITY viewDefaultCharsetList.label     "Gelen Posta:">
 <!ENTITY viewDefaultCharsetList.accesskey  "G">
-
-
+<!ENTITY replyInDefaultCharset3.label     "Mümkün olduğunda yanıtlarda varsayılan metin kodlamasını kullan">
+<!ENTITY replyInDefaultCharset3.accesskey "y">

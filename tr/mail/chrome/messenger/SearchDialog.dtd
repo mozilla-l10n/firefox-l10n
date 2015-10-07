@@ -40,7 +40,7 @@
 <!ENTITY threadColumn.label "Dizi">
 <!ENTITY fromColumn.label "Gönderen">
 <!ENTITY recipientColumn.label "Alıcı">
-
+<!ENTITY correspondentColumn.label "Yazanlar">
 <!ENTITY subjectColumn.label "Konu">
 <!ENTITY dateColumn.label "Tarih">
 <!ENTITY priorityColumn.label "Öncelik">
@@ -62,7 +62,7 @@
 <!ENTITY threadColumn2.tooltip "İleti dizilerini göster">
 <!ENTITY fromColumn2.tooltip "Gönderene göre sırala">
 <!ENTITY recipientColumn2.tooltip "Alıcıya göre sırala">
-
+<!ENTITY correspondentColumn2.tooltip "Yazanlara göre sırala">
 <!ENTITY subjectColumn2.tooltip "Konuya göre sırala">
 <!ENTITY dateColumn2.tooltip "Tarihe göre sırala">
 <!ENTITY priorityColumn2.tooltip "Önceliğe göre sırala">

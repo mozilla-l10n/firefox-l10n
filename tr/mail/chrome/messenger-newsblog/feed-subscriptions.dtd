@@ -6,8 +6,8 @@
 <!ENTITY feedSubscriptions.label     "Besleme abonelikleri">
 <!ENTITY learnMore.label             "Beslemeler hakkında bilgi alın">
 
-<!ENTITY feedTitle.label             "Başlık: ">
-<!ENTITY feedTitle.accesskey         "T">
+<!ENTITY feedTitle.label             "Başlık:">
+<!ENTITY feedTitle.accesskey         "B">
 
 <!ENTITY feedLocation.label          "Besleme adresi:">
 <!ENTITY feedLocation.accesskey      "a">
