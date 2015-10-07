@@ -6,6 +6,8 @@
 
 
 
+<!ENTITY aboutAccounts.noConnection.title "İnternet bağlantısı yoxdur">
 <!ENTITY aboutAccounts.retry.label "Təkrar yoxla">
 
-
+<!ENTITY aboutAccounts.restrictedError.title "Məhdudlaşdırılmış">
+<!ENTITY aboutAccounts.restrictedError.description "Firefox Hesablarını bu profildən idarə edə bilməzsiniz.">
