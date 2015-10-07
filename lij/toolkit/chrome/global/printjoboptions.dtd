@@ -9,15 +9,6 @@
 <!ENTITY paperInput.label "Dimenscion do pape:">
 <!ENTITY paperInput.accesskey "p">
 
-<!ENTITY plexInput.label "mòddo plex:">
-<!ENTITY plexInput.accesskey "m">
-
-<!ENTITY resolutionInput.label "Rezoloçion/Qualitæ:">
-<!ENTITY resolutionInput.accesskey "e">
-
-<!ENTITY cmdInput.label "Comando de stanpa:">
-<!ENTITY cmdInput.accesskey "o">
-
 <!ENTITY jobTitleInput.label "Titolo do lou:">
 <!ENTITY jobTitleInput.accesskey "T">
 
@@ -26,13 +17,6 @@
 <!ENTITY grayRadio.accesskey "g">
 <!ENTITY colorRadio.label "Cô">
 <!ENTITY colorRadio.accesskey "C">
-
-<!ENTITY colorspaceInput.label "Coi:">
-<!ENTITY colorspaceInput.accesskey "C">
-
-<!ENTITY fontsGroup.label "Caratere:">
-<!ENTITY downloadFonts.label "Descarega caratteri da machina de stanpe">
-<!ENTITY downloadFonts.accesskey "D">
 
 <!ENTITY edgeMarginInput.label "Destacco da l'angolo do papê a-o Margine">
 <!ENTITY topInput.label "In çimma:">

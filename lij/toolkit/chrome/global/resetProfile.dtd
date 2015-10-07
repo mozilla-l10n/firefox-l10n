@@ -2,14 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 
-<!ENTITY resetProfile.dialog.title        "Reinpòsta &brandShortName;">
-<!ENTITY resetProfile.dialog.description  "T'ê seguo che t'eu reinpostâ o &brandShortName; into seu stæto iniçia?">
-
-<!ENTITY resetProfile.dialog.items2.label "Proviemo a preservâ i segoenti elementi:">
-<!ENTITY resetProfile.dialog.footer.label "O &brandShortName; o saiâ averto torna e tutto o resto saiâ scancelou.">
-<!ENTITY resetProfile.dialog.button.label "Reinpòsta o &brandShortName;">
-
-<!ENTITY resetProfile.title               "Reinpòsta o &brandShortName; into seu stæto iniçiâ">
-<!ENTITY resetProfile.description         "Se ti gh'æ di gròssi problemi che ti no ariesci a risòlve, arvi torna con solo e informaçioin esençia.">
-<!ENTITY resetProfile.button.label2 "Repiggia &brandShortName;…">
-<!ENTITY resetProfile.cleaning.description "Speta che scancello i dæti vegi…">
+<!ENTITY refreshProfile.dialog.title "Repiggio de &brandShortName;">
+<!ENTITY refreshProfile.dialog.description1 "Parti torna da zero pe risolve i problemi e prestaçioin originali.">
+<!ENTITY refreshProfile.dialog.description2 "Se ti fæ coscì:">
+<!ENTITY refreshProfile.dialog.items.label1 "Scancelemmo i conponenti azonti e de-e personalizaçioin">
+<!ENTITY refreshProfile.dialog.items.label2 "Repiggio de-e inpostaçioin predefinite do navegatô">
+<!ENTITY refreshProfile.dialog.button.label "Repiggia &brandShortName;">
+<!ENTITY refreshProfile.title "Da recatto a &brandShortName;">
+<!ENTITY refreshProfile.button.label "Repiggia &brandShortName;…">
+<!ENTITY refreshProfile.cleaning.description "Quæxi finio…">

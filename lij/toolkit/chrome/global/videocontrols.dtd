@@ -21,7 +21,7 @@
 <!ENTITY stats.framesDecoded "Frame codificæ">
 <!ENTITY stats.framesPresented "Frame presentæ">
 <!ENTITY stats.framesPainted "Frame disegnæ">
-
+<!ENTITY castingButton.castingLabel "Manda a schermo">
 <!ENTITY error.aborted "Caregamento do video fermou.">
 <!ENTITY error.network "Riproduçion video fermâ a caoza de 'n'erô da ræ.">
 <!ENTITY error.decode "Riproduçion video inposciblie a caoza de 'n file aroinou.">
