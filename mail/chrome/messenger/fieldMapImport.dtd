@@ -14,7 +14,7 @@
 <!ENTITY fieldMapImport.up.accesskey "Y">
 <!ENTITY fieldMapImport.down.label "Aşağı">
 <!ENTITY fieldMapImport.down.accesskey "A">
-<!ENTITY fieldMapImport.fieldListTitle "Adres defteri alanları">
+<!ENTITY fieldMapImport.fieldListTitle "Adres Defteri alanları">
 <!ENTITY fieldMapImport.dataTitle "İçe alınacak verileri kaydet">
 <!ENTITY fieldMapImport.skipFirstRecord.label "İlk kayıt, alan isimlerini içerir">
 <!ENTITY fieldMapImport.skipFirstRecord.accessKey "k">
