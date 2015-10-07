@@ -273,6 +273,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 
+<!ENTITY browserContentToolboxMenu.label     "Kotak Alatan Kandungan Pelayar">
+<!ENTITY browserContentToolboxMenu.accesskey "K">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Tutup Developer Toolbar">
 <!ENTITY devToolbarMenu.label              "Perkakas Pembangun">
@@ -302,7 +304,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "n">
 <!ENTITY newPrivateWindow.label     "Tetingkap Persendirian Baharu">
 <!ENTITY newPrivateWindow.accesskey "B">
-
+<!ENTITY newNonRemoteWindow.label   "Tetingkap Non-e10s Baru">
 
 <!ENTITY editMenu.label         "Ubah"> 
 <!ENTITY editMenu.accesskey       "U"> 
@@ -424,6 +426,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
      These are set as the aria-label attribute for the search input box and
      submit button in the in-content search UI, to be used by screen readers. -->
+
+<!ENTITY contentSearchInput.label     "Pertanyaan gelintar">
 <!ENTITY contentSearchSubmit.label    "Hantar carian">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -839,6 +843,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
+
+<!ENTITY panicButton.view.mainTimeframeDesc       "Lupakan untuk:">
 <!ENTITY panicButton.view.5min                    "Lima minit">
 <!ENTITY panicButton.view.2hr                     "Dua jam">
 <!ENTITY panicButton.view.day                     "24 jam">
@@ -847,8 +853,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
 
+<!ENTITY panicButton.view.mainActionDesc          "Dengan meneruskan akan:">
+<!ENTITY panicButton.view.deleteCookies           "<html:strong>Kukis</html:strong> terakhir akan dihapus">
 
-
+<!ENTITY panicButton.view.deleteTabsAndWindows    "Semua <html:strong>Tab</html:strong> dan <html:strong>Tetingkap</html:strong> akan ditutup">
 <!ENTITY panicButton.view.openNewWindow           "Buka tetingkap pelayar yang baru">
 
 <!ENTITY panicButton.view.undoWarning             "Tindakan ini tidak dapat dilakukan.">
@@ -862,10 +870,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY processHang.terminateScript.accessKey    "S">
 <!ENTITY processHang.debugScript.label            "Skrip nyahpijat">
 <!ENTITY processHang.debugScript.accessKey        "S">
-
-
-
-
+<!ENTITY processHang.terminatePlugin.label        "Hentikan Plugin">
+<!ENTITY processHang.terminatePlugin.accessKey    "P">
+<!ENTITY processHang.terminateProcess.label       "Hentikan Proses Web">
+<!ENTITY processHang.terminateProcess.accessKey   "W">
 
 <!ENTITY emeLearnMoreContextMenu.label            "Ketahui lebih lanjut mengenai DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
