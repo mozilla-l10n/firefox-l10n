@@ -13,6 +13,8 @@
      of the Tracking Protection section, and in general not much larger than
      30em to prevent the sections from wrapping on smaller window sizes.
      -->
+
+<!ENTITY aboutPrivateBrowsing.width            "30em">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
      aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
      These strings will be replaced by aboutPrivateBrowsing.forgotten and
@@ -20,8 +22,9 @@
      -->
 
 <!ENTITY aboutPrivateBrowsing.title            "Anda sedang menjelajah dalam mode pribadi">
+<!ENTITY aboutPrivateBrowsing.subtitle         "Di jendela ini, &brandShortName; tidak akan mengingat riwayat apa pun.">
 
-
+<!ENTITY aboutPrivateBrowsing.forgotten        "Di jendela ini, &brandShortName; tidak akan mengingat:">
 <!ENTITY aboutPrivateBrowsing.info.forgotten   "Tidak Tersimpan">
 <!ENTITY aboutPrivateBrowsing.info.history     "Riwayat">
 <!ENTITY aboutPrivateBrowsing.info.searches    "Pencarian">
@@ -33,6 +36,7 @@
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Unduhan">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Daftar Markah">
 
+<!ENTITY aboutPrivateBrowsing.note1            "Harap diingat bahwa kantor atau layanan penyedia jasa Internet Anda tetap dapat melacak laman yang Anda kunjungi.">
 <!ENTITY aboutPrivateBrowsing.learnMore        "Pelajari Lebih Lanjut.">
 <!-- LOCALIZATION NOTE (trackingProtection.width):
      Width of the Tracking Protection section. It is fine for the enabled or
@@ -43,12 +47,18 @@
      different, so testing on Windows, Mac, and Linux is encouraged.
      -->
 
+<!ENTITY trackingProtection.width              "22em">
+<!ENTITY trackingProtection.title              "Perlindungan Pelacakan">
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
 
+<!ENTITY trackingProtection.state.width        "6ch">
+<!ENTITY trackingProtection.state.enabled      "AKTIF">
+<!ENTITY trackingProtection.state.disabled     "NONAKTIF">
 
+<!ENTITY trackingProtection.description1       "Jendela privat kini memblokir bagian laman yang mungkin melacak aktivitas penjelajahan Anda.">
 
-
-
+<!ENTITY trackingProtection.disable            "Nonaktifkan Perlindungan Pelacakan">
+<!ENTITY trackingProtection.enable             "Aktifkan Perlindungan Pelacakan">
 
