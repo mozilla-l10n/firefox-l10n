@@ -197,7 +197,7 @@
 
 <!ENTITY fxaccount_status_header2 "Akun Firefox">
 <!ENTITY fxaccount_status_signed_in_as "Masuk sebagai">
-
+<!ENTITY fxaccount_status_manage_account "Kelola akun">
 <!ENTITY fxaccount_status_auth_server "Server akun">
 <!ENTITY fxaccount_status_sync_now "Sinkronkan sekarang">
 <!ENTITY fxaccount_status_syncing2 "Menyinkronkan…">
