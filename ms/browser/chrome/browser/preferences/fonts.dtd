@@ -31,7 +31,7 @@
 <!ENTITY  font.langGroup.korean                   "Korea">
 <!ENTITY  font.langGroup.cyrillic                 "Cyril">
 <!ENTITY  font.langGroup.el                       "Yunani">
-
+<!ENTITY  font.langGroup.other                    "Sistem Penulisan Lain">
 <!ENTITY  font.langGroup.thai                     "Thai">
 <!ENTITY  font.langGroup.hebrew                   "Ibrani">
 <!ENTITY  font.langGroup.arabic                   "Arab">

@@ -65,7 +65,7 @@
      shown in the inspector contextual-menu for the item that lets users paste
      the HTML as the last child the current node -->
 
-<!ENTITY inspectorHTMLPasteLastChild.label       "Sebagai Last Child">
+<!ENTITY inspectorHTMLPasteLastChild.label       "As Last Child">
 <!ENTITY inspectorHTMLPasteLastChild.accesskey   "L">
 <!-- LOCALIZATION NOTE (inspectorScrollNodeIntoView.label): This is the label
      shown in the inspector contextual-menu for the item that lets users scroll

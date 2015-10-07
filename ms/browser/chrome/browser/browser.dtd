@@ -758,8 +758,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY social.directory.label "Direktori Pengaktifan">
 <!ENTITY social.directory.text "Anda boleh mengaktifkan perkhidmatan Kongsi dari direktori. ">
-<!ENTITY social.directory.button "Bawa saya keluar dari sini!">
-<!ENTITY social.directory.introText "Klik pada perkhidmatan untuk menambahkannya ke &brandShortName;.">
+<!ENTITY social.directory.button "Bawa saya ke sana!">
+<!ENTITY social.directory.introText "Klik pada perkhidmatan untuk menambah ia ke &brandShortName;.">
 <!ENTITY social.directory.viewmore.text "Lihat Lagi">
 
 <!ENTITY customizeMode.tabTitle "Menyesuai &brandShortName;">
@@ -862,7 +862,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.undoWarning             "Tindakan ini tidak dapat dilakukan.">
 <!ENTITY panicButton.view.forgetButton            "Lupakan!">
 
-<!ENTITY panicButton.thankyou.msg1                "Sejarah terbaru anda telah dibersihkan.">
+<!ENTITY panicButton.thankyou.msg1                "Sejarah terakhir anda telah dipadam.">
 <!ENTITY panicButton.thankyou.msg2                "Berhati-hati dalam pelayaran!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Terima kasih!">
 
