@@ -121,7 +121,8 @@ bağlantısını kontrol edin.</li>
 <!ENTITY malwareBlocked.longDesc "<p>Saldırı siteleri, özel bilgilerinizi çalan, bilgisayarınızı başkalarına saldırma amacıyla kullanan ya da sisteminize zarar veren programlar kurmaya çalışan sitelerdir.</p> 
 <p>Web sitelerinin yanlışlıkla saldırı sitesi olarak rapor edildiğini düşünen site yöneticileri durumun <a href='http://www.stopbadware.org/home/reviewinfo'>gözden geçirilmesini</a> isteyebilir.</p>">
 
-
+<!ENTITY unwantedBlocked.title "İstenmeyen Yazılım Sitesi Şüphesi!">
+<!ENTITY unwantedBlocked.longDesc "<p>İstenmeyen yazılım sayfaları, yanıltıcı olabilecek ve sisteminizi beklenmedik şekilde etkileyebilecek yazılımlar yüklemeye çalışır.</p>">
 
 <!ENTITY phishingBlocked.title "Sahtekârlık şüphesi!">
 <!ENTITY phishingBlocked.longDesc "<p>Bu sayfada yapılacak kişisel bilgi girişi, kimlik hırsızlığı ya da başka tür dolandırıcılıkla sonuçlanabilir.</p> 

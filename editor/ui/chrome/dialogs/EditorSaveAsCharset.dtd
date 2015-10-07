@@ -4,8 +4,12 @@
 <!-- These strings are generic to all or most of the editor's dialogs. -->
 <!-- This button is for the progressive disclosure of additional editing functionality -->
 <!-- These strings are for use specifically in the editor's link dialog. -->
+
+
+
+<!ENTITY windowTitle2.label "Metin Kodlamasını Değiştirip Kaydet">
 <!ENTITY documentTitleTitle.label "Sayfa Başlığı">
-
-
+<!ENTITY documentCharsetTitle2.label "Metin Kodlamasını">
+<!ENTITY documentCharsetDesc2.label "Belgeyi farklı kaydetmek istediğiniz metin kümesini seçin:">
 <!ENTITY documentExportToText.label "Metin Olarak Dışa Aktar">
 

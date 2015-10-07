@@ -5,10 +5,10 @@
 <!ENTITY folderProps.windowtitle.label           "Özellikler">
 
 <!ENTITY generalInfo.label                       "Genel bilgiler">
-
-
-
-
+<!ENTITY folderCharsetFallback2.label            "Yedek Metin Kodlaması:">
+<!ENTITY folderCharsetFallback2.accesskey        "Y">
+<!ENTITY folderCharsetEnforce2.label             "Dizindeki tüm iletilere kodlamayı uygula (ayrı ileti karakter kodlama ayarları ve otomatik tespit görmezden gelinecek)">
+<!ENTITY folderCharsetEnforce2.accesskey         "u">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Özet dosyası indeksini yeniden oluştur">
 <!ENTITY folderRebuildSummaryFile2.label         "Dizini onar">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "r">
