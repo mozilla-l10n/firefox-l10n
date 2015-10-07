@@ -27,8 +27,10 @@ uzdoties par to, un jums nevajadzētu turpināt.">
 <!ENTITY certerror.expert.heading "Es apzinos riskus">
 <!ENTITY certerror.expert.content "Ja labi izprotat situāciju, varat pievienot šo lapu 
 &brandShortName; uzticamo lapu sarakstam. 
-<b>Pat, ja uzticaties šai lapai, šī kļūda var nozīmēt, ka kāds veic neatļautas darbības ar savienojumu.</b>">
-<!ENTITY certerror.expert.contentPara2 "Nepievienojiet izņēmumu, ja vien jums nav zināms labs iemesls, kāpēc šī lapa neizmanto uzticamu identifikāciju.">
+<b>Pat, ja uzticaties šai lapai, šī kļūda var nozīmēt,
+ka kāds veic neatļautas darbības ar savienojumu.</b>">
+<!ENTITY certerror.expert.contentPara2 "Nepievienojiet izņēmumu, ja vien
+jums nav zināms labs iemesls, kāpēc šī lapa neizmanto uzticamu identifikāciju.">
 <!ENTITY certerror.addTemporaryException.label "Apmeklēt lapu">
 <!ENTITY certerror.addPermanentException.label "Pievienot pastāvīgu izņēmumu">
 

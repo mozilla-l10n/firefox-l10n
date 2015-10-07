@@ -208,8 +208,8 @@
 <!ENTITY fxaccount_status_needs_verification2 "Jūsu konts ir jāapstiprina. Pieskarieties te, lai atkārtoti nosūtītu apstiprinājuma e-pastu.">
 <!ENTITY fxaccount_status_needs_credentials "Nevar savienoties. Pieskarieties te, lai ierakstītos.">
 <!ENTITY fxaccount_status_needs_upgrade "Nepieciešams &brandShortName; atjauninājums, lai ierakstītos.">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; ir gatavs darbam, bet nesāksies automātiski. Ieslēdziet “Automātisko datu sinhronizāciju” Android iestatījumu sadaļā Datu lietojums.">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; ir gatava darbam, bet nesāksies automātiski. Ieslēdziet “Automātiskā datu sinhronizācija” Android iestatījumu sadaļā Konti.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; ir gatavs darbam, bet nesāksies automātiski. Ieslēdziet “Automātisko datu sinhronizāciju” sadaļā Android iestatījumi &gt; Datu lietojums.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; ir gatava darbam, bet nesāksies automātiski. Ieslēdziet “Automātiskā datu sinhronizācija” Sadaļā Android iestatījumi &gt; Konti.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Pieskarieties, lai pieslēgtos Firefox kontam.">
 <!ENTITY fxaccount_status_bookmarks "Grāmatzīmes">
 <!ENTITY fxaccount_status_history "Vēsture">
