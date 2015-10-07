@@ -204,6 +204,7 @@
 <!ENTITY addressButton.tooltip "Veldu viðtakanda úr nafnaskránni">
 <!ENTITY attachButton.tooltip "Bæta við viðhengi">
 <!ENTITY spellingButton.tooltip "Athuga stafsetningu á vali eða öllum póstinum">
+<!ENTITY statusLanguageText.tooltip "Tungumál leiðréttingarforrits">
 <!ENTITY saveButton.tooltip "Vista þennan póst">
 <!ENTITY cutButton.tooltip "Klippa">
 <!ENTITY copyButton.tooltip "Afrita">

@@ -13,6 +13,8 @@
 <!ENTITY pref.calendar.view.workweek.caption "Vinnuvika">
 <!ENTITY pref.weekstarts.label "Byrja vikuna á:">
 <!ENTITY pref.weekstarts.accesskey "B">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Sýna vikunúmer á skjá og í litla dagatalinu">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "v">
 <!ENTITY pref.daysoff.label "Þessir dagar eru í vinnuviku:">
 <!ENTITY pref.calendar.view.daystart.label "Dagur byrjar kl:">
 <!ENTITY pref.calendar.view.daystart.accesskey "D">

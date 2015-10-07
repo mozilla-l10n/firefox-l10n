@@ -27,8 +27,8 @@
 <!ENTITY addToUserDictionaryButton.accessKey "B">
 <!ENTITY editUserDictionaryButton.label "Breyta…">
 <!ENTITY editUserDictionaryButton.accessKey "e">
-<!ENTITY recheckButton.label "Athuga aftur síðu">
-<!ENTITY recheckButton.accessKey "f">
+<!ENTITY recheckButton2.label "Athuga aftur texta">
+<!ENTITY recheckButton2.accessKey "t">
 <!ENTITY closeButton.label "Loka">
 <!ENTITY closeButton.accessKey "o">
 <!ENTITY sendButton.label "Senda">
