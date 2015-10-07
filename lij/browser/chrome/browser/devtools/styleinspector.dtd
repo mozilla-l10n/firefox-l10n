@@ -8,9 +8,6 @@
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
 
-<!-- LOCALIZATION NOTE (userStylesSearch): This is the placeholder that goes in
-  -  the search box when no search term has been entered. -->
-<!ENTITY userStylesSearch      "Riçerca">
 
 <!-- LOCALIZATION NOTE (selectedElementLabel): This is the label for the path of
   -  the highlighted element in the web page. This path is based on the document
@@ -31,3 +28,7 @@
 <!ENTITY computedViewTitle 		"Calcolæ">
 <!ENTITY ruleViewTitle 			"Regole">
 <!ENTITY browserStylesLabel "Stili do navegatô">
+<!ENTITY filterStylesPlaceholder "Filtra stili">
+<!ENTITY addRuleButtonTooltip "Azonzi neuva regola">
+<!ENTITY togglePseudoClassPanel "Ativa/dizativa pseodoclasci">
+
