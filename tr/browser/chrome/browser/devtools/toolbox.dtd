@@ -85,7 +85,7 @@
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableChrome.label5    "Tarayıcı chrome'u ve eklenti hata ayıklama araç kutularını etkinleştir">
-<!ENTITY options.enableChrome.tooltip3  "Bu seçeneği açarsanız  tarayıcı bağlamında çeşitli geliştirici araçlarını (Araçlar > Web Geliştirici > Tarayıcı araç kutusu aracılığıyla) ve Eklenti Yöneticisi'nde hata ayıklama eklentilerini kullanabilirsiniz">
+<!ENTITY options.enableChrome.tooltip3  "Bu seçeneği açarsanız tarayıcı bağlamında çeşitli geliştirici araçlarını (Araçlar > Web Geliştirici > Tarayıcı araç kutusu aracılığıyla) ve Eklenti Yöneticisi'nde hata ayıklama eklentilerini kullanabilirsiniz">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
