@@ -51,21 +51,23 @@
 <!ENTITY btnPageLogging.label   "Kayıt tutma">
 <!ENTITY btnPageLogging.tooltip "Günlük iletileri window.console nesnesine gönderildi">
 <!ENTITY btnPageLogging.accesskey3 "K">
-
-
-
-
+<!ENTITY btnConsoleErrors       "Hatalar">
+<!ENTITY btnConsoleInfo         "Bilgi">
+<!ENTITY btnConsoleWarnings     "Uyarılar">
+<!ENTITY btnConsoleLog          "Kayıt">
 <!ENTITY btnConsoleXhr          "XHR">
 <!ENTITY btnConsoleReflows      "Yeniden akışlar">
 <!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls on the HTTP server. -->
 
-
-
-
-
-
+<!ENTITY btnServerLogging.label       "Sunucu">
+<!ENTITY btnServerLogging.tooltip     "Bir sunucudan kayıt iletileri alındı">
+<!ENTITY btnServerLogging.accesskey   "S">
+<!ENTITY btnServerErrors              "Hatalar">
+<!ENTITY btnServerInfo                "Bilgi">
+<!ENTITY btnServerWarnings            "Uyarılar">
+<!ENTITY btnServerLog                 "Kayıt">
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
 
