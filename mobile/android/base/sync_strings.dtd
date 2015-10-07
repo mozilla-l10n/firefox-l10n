@@ -197,7 +197,6 @@
 
 <!ENTITY fxaccount_status_header2 'Firefox-Konto'>
 <!ENTITY fxaccount_status_signed_in_as 'Angemeldet als'>
-<!ENTITY fxaccount_status_manage_account 'Benutzerkonto verwalten'>
 <!ENTITY fxaccount_status_auth_server 'Konto-Server'>
 <!ENTITY fxaccount_status_sync_now 'Jetzt synchronisieren'>
 <!ENTITY fxaccount_status_syncing2 'Synchronisierung durchführen…'>
