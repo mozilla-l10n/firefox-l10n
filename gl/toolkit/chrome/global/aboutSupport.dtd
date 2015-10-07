@@ -53,9 +53,11 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsMemoryUse "Uso de memoria">
 
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
-
+<!ENTITY aboutSupport.appBasicsServiceWorkers "Service Workers rexistrados">
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Xanelas multiproceso">
+
+<!ENTITY aboutSupport.appBasicsSafeMode "Modo seguro">
 
 <!ENTITY aboutSupport.showDir.label "Abrir cartafol">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific

@@ -16,7 +16,7 @@ preferencias de seguranza actuais.">
 instalar 
 programas que rouban información privada, que utilizan o computador para atacar a terceiros ou que danan o sistema.</p><p>Algúns deles distribúen de forma intencionada software pernicioso, mais moitos comproméntense sen o permiso ou coñecemento dos/as propietarios/as.</p>">
 
-
+<!ENTITY safeb.blocked.unwantedPage.title "Páxina denunciada de servir software non desexado!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
 
