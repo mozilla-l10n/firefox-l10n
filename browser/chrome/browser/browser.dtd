@@ -130,7 +130,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 
-<!ENTITY fullscreenWarning.beforeDomain.label "">
+<!ENTITY fullscreenWarning.beforeDomain.label "‍">
 <!ENTITY fullscreenWarning.afterDomain.label "এখন পূর্ণ পর্দায় রয়েছে">
 <!ENTITY fullscreenWarning.generic.label "এই ডকুমেন্ট এখন পূর্ণ পর্দায় রয়েছে">
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
@@ -455,7 +455,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      as:  "Search <selected engine name><searchAfter.label text>" -->
 
 <!ENTITY search.label                 "অনুসন্ধান ">
-<!ENTITY searchAfter.label            "">
+<!ENTITY searchAfter.label            "‍">
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
@@ -627,17 +627,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "‍">
 
 <!ENTITY fullZoomReduceCmd.label        "ছোট আকারে প্রদর্শন (O)">
 <!ENTITY fullZoomReduceCmd.accesskey    "O">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
+<!ENTITY fullZoomReduceCmd.commandkey2  "‍">
 
 <!ENTITY fullZoomResetCmd.label         "পুনঃনির্ধারণ (R)">
 <!ENTITY fullZoomResetCmd.accesskey     "R">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
+<!ENTITY fullZoomResetCmd.commandkey2   "‍">
 
 <!ENTITY fullZoomToggleCmd.label        "শুধুমাত্র লেখা বড় আকারে প্রদর্শিত হবে (T)">
 <!ENTITY fullZoomToggleCmd.accesskey    "T">

@@ -14,7 +14,7 @@
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "এই ঠিকানাটি সীমাবদ্ধ">
-<!ENTITY deniedPortAccess.longDesc "">
+<!ENTITY deniedPortAccess.longDesc "‍">
 
 <!ENTITY dnsNotFound.title "সার্ভার পাওয়া যায়নি">
 <!ENTITY dnsNotFound.longDesc "<ul> 
