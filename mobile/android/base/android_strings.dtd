@@ -586,7 +586,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; заблокував небезпечний вміст на цій сторінці.">
 <!ENTITY mixed_content_blocked_some1 "&brandShortName; заблокував деякий небезпечний вміст на цій сторінці.">
-<!ENTITY mixed_content_display_loaded1 "Частини цієї сторінки не є безпечними (наприклад зображення).">
+<!ENTITY mixed_content_display_loaded1 "Частини цієї сторінки (такі як зображення) незахищені.">
 <!ENTITY mixed_content_protection_disabled1 "Ви вимкнули захист від небезпечних елементів.">
 
 <!-- Tracking content notifications in site identity popup -->
