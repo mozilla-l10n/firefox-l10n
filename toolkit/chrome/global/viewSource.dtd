@@ -11,7 +11,7 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifierseparator " - ">
 <!ENTITY mainWindow.preface "Sorgente de: ">
-
+<!ENTITY findSelectionCmd.commandkey "e">
 <!ENTITY fileMenu.label "File">
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY savePageCmd.label "Sarva pagina co-o nomme…">
