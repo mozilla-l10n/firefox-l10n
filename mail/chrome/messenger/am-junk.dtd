@@ -14,7 +14,7 @@
 <!ENTITY otherFolder.label "Diğer:">
 <!ENTITY otherFolder.accesskey "D">
 <!ENTITY purge1.label "Gereksiz postaları">
-<!ENTITY purge1.accesskey "u">
+<!ENTITY purge1.accesskey "s">
 <!ENTITY purge2.label "gün sonra otomatik sil">
 
 <!ENTITY whitelistHeader.label "Gönderici aşağıdakilerden birindeyse otomatik olarak gereksiz olarak işaretleme: ">

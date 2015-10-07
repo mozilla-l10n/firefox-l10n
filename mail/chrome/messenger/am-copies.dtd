@@ -45,6 +45,6 @@
 <!ENTITY keepTemplates.label "İleti şablonlarının tutulacağı yer:">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templatesFolderOn.label "&quot;Şablonlar&quot; dizini:">
-<!ENTITY templatesFolderOn.accesskey "m">
+<!ENTITY templatesFolderOn.accesskey "o">
 <!ENTITY templateInOtherFolder.label "Diğer:">
 <!ENTITY templateInOtherFolder.accesskey "r">
