@@ -395,7 +395,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Pindah ke tab:">
 
-
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Pelajari lebih lanjut…">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Tidak">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Ya">
 <!-- 
@@ -680,23 +680,27 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "Selesai">
 <!ENTITY editBookmark.cancel.label                   "Batal">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Sambungan Aman">
 <!ENTITY identity.connectionNotSecure "Sambungan Tidak Aman">
-
+<!ENTITY identity.connectionFile "Laman ini tersimpan di komputer Anda.">
 <!ENTITY identity.connectionVerified "&brandShortName; telah memverifikasi bahwa Anda tersambung dengan aman ke situs ini, yang dijalankan oleh:">
 <!ENTITY identity.connectionInternal "Ini adalah laman &brandShortName; aman.">
 <!-- Strings for connection state warnings. -->
 
-
-
+<!ENTITY identity.activeBlocked "&brandShortName; telah memblokir bagian dari laman ini yang tidak aman.">
+<!ENTITY identity.passiveLoaded "Bagian dari laman ini tidak aman (misalnya, gambar):">
+<!ENTITY identity.activeLoaded "Anda telah menonaktifkan perlindungan di laman ini.">
+<!ENTITY identity.weakEncryption "Laman ini menggunakan enkripsi lemah.">
 <!-- Strings for connection state warnings in the subview. -->
 
+<!ENTITY identity.description.insecure "Koneksi Anda ke laman ini tidak privat. Informasi yang Anda kirim dapat dilihat oleh pihak lain (misalnya, sandi, pesan, kartu kredit, dll.).">
+<!ENTITY identity.description.weakCipher "Koneksi Anda ke situs web ini menggunakan enkripsi lemah dan tidak privat.">
+<!ENTITY identity.description.weakCipher2 "Orang lain dapat melihat informasi Anda atau memodifikasi perilaku situs web ini.">
+<!ENTITY identity.description.activeBlocked "&brandShortName; telah memblokir bagian dari laman ini yang tidak aman.">
 
-
-
-
+<!ENTITY identity.description.passiveLoaded2 "Situs web ini mengandung konten yang tidak aman (misalnya, gambar).">
 
 
 
@@ -704,7 +708,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.disableMixedContentBlocking.label "Nonaktifkan perlindungan untuk saat ini">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "N">
-
+<!ENTITY identity.learnMore "Pelajari Lebih Lanjut">
 
 <!ENTITY identity.moreInfoLinkText2 "Informasi Lebih Lanjut">
 
@@ -784,6 +788,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY getUserMedia.allWindowsShared.message "Semua jendela yang terlihat pada layar Anda akan dibagikan.">
 
+<!ENTITY trackingProtection.title "Perlindungan Pelacakan">
 
 
 
