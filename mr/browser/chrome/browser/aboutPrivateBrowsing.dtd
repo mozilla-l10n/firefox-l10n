@@ -48,6 +48,7 @@
 <!ENTITY trackingProtection.state.enabled      "सुरु">
 <!ENTITY trackingProtection.state.disabled     "बंद">
 
+<!ENTITY trackingProtection.description1       "या पानावरील जे भाग आपल्या आॅनलाइन कार्याचा मागोवा घेऊ शकतात त्यांना आता खाजगी पटल अवरोधित करते.">
 
 <!ENTITY trackingProtection.disable            "मागोवा सुरक्षा निष्क्रिय करा">
 <!ENTITY trackingProtection.enable             "मागोवा सुरक्षा सक्रीय करा">
