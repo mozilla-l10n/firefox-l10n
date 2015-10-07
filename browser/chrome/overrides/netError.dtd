@@ -163,10 +163,10 @@ functionality specific to firefox. -->
 
 <!ENTITY errorReporting.automatic "भविष्यात स्वयंचलितपणे त्रुटींचा अहवाल पाठवा">
 <!ENTITY errorReporting.learnMore "आणखी शिका…">
-
+<!ENTITY errorReporting.sending "अहवाल पाठवत आहे">
 <!ENTITY errorReporting.sent "अहवाल पाठवला">
 <!ENTITY errorReporting.report "अहवाल पाठवा">
-
+<!ENTITY errorReporting.tryAgain "पुन्हा प्रयत्न करा">
 
 <!ENTITY remoteXUL.title "रिमोट XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>या अडचणीविषयी कळवण्यासाठी कृपया संकेतस्थळाच्या मालकांशी संपर्क करा.</li></ul></p>">
@@ -174,4 +174,4 @@ functionality specific to firefox. -->
 <!ENTITY sslv3Used.title "सुरक्षितपणे जोडणी करण्यात अक्षम">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "ssl_error_unsupported_version". -->
-
+<!ENTITY sslv3Used.learnMore "आणखी जाणून घ्या">
