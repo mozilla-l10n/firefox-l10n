@@ -22,8 +22,8 @@
      -->
 <!ENTITY moveToNewWindow.label "Yeni pencereye taşı">
 <!ENTITY moveToNewWindow.accesskey "n">
-<!ENTITY newVirtualFolderCmd.label "Kayıtlı arama…">
-<!ENTITY newVirtualFolderCmd.accesskey "S">
+<!ENTITY newVirtualFolderCmd.label "Kayıtlı Arama…">
+<!ENTITY newVirtualFolderCmd.accesskey "y">
 <!ENTITY newOtherAccountsCmd.label "Diğer hesaplar…">
 <!ENTITY newOtherAccountsCmd.accesskey "D">
 <!ENTITY newCreateEmailAccountCmd.label "Yeni e-posta hesabı al…">
@@ -50,7 +50,7 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Bütün hesaplar…">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "B">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Geçerli hesap">
-<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "C">
+<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "G">
 <!ENTITY getNextNMsgCmd.label "Sonraki 500 haber iletisini indir">
 <!ENTITY getNextNMsgCmd.accesskey "5">
 <!ENTITY sendUnsentCmd.label "Gönderilmemiş iletileri gönder">
@@ -147,8 +147,8 @@
 <!ENTITY showFolderPaneCmd.accesskey "D">
 <!ENTITY showFolderPaneColsCmd.label "Dizin Bölmesi Sütunları">
 <!ENTITY showFolderPaneColsCmd.accesskey "B">
-<!ENTITY showMessageCmd.label "İleti bölmesi">
-<!ENTITY showMessageCmd.accesskey "M">
+<!ENTITY showMessageCmd.label "İleti Bölmesi">
+<!ENTITY showMessageCmd.accesskey "B">
 
 <!ENTITY folderView.label "Dizinler">
 <!ENTITY folderView.accesskey "D">
@@ -235,8 +235,8 @@
 <!ENTITY headersAllCmd.accesskey "ü">
 <!ENTITY headersNormalCmd.label "Normal">
 <!ENTITY headersNormalCmd.accesskey "N">
-<!ENTITY bodyMenu.label "İleti gövdesi">
-<!ENTITY bodyMenu.accesskey "B">
+<!ENTITY bodyMenu.label "İleti Gövdesi">
+<!ENTITY bodyMenu.accesskey "v">
 <!ENTITY bodyAllowHTML.label "Özgün HTML">
 <!ENTITY bodyAllowHTML.accesskey "H">
 <!ENTITY bodySanitized.label "Basit HTML">
@@ -246,8 +246,8 @@
 <!ENTITY bodyAllParts.label "Tüm gövde parçaları">
 <!ENTITY bodyAllParts.accesskey "T">
 
-<!ENTITY bodyMenuFeed.label "Besleme iletisi gövdesi">
-<!ENTITY bodyMenuFeed.accesskey "B">
+<!ENTITY bodyMenuFeed.label "Besleme İletisi Gövdesi">
+<!ENTITY bodyMenuFeed.accesskey "d">
 <!ENTITY viewFeedWebPage.label "Web sayfası">
 <!ENTITY viewFeedWebPage.accesskey "W">
 <!ENTITY viewFeedSummary.label "Özet">
@@ -452,8 +452,8 @@
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Eklentiler">
 <!ENTITY addons.accesskey "E">
-<!ENTITY activitymanager.label "Etkinlik yöneticisi">
-<!ENTITY activitymanager.accesskey "v">
+<!ENTITY activitymanager.label "Etkinlik Yöneticisi">
+<!ENTITY activitymanager.accesskey "Y">
 <!ENTITY imAccountsStatus.label "Sohbet durumu">
 <!ENTITY imAccountsStatus.accesskey "S">
 <!ENTITY imStatus.available          "Müsait">
@@ -482,8 +482,8 @@
 <!ENTITY errorConsoleCmd.label "Hata konsolu">
 <!ENTITY errorConsoleCmd.accesskey "k">
 <!ENTITY errorConsoleCmd.commandkey "j">
-<!ENTITY clearRecentHistory.label "Yakın geçmişi temizle…">
-<!ENTITY clearRecentHistory.accesskey "H">
+<!ENTITY clearRecentHistory.label "Yakın Geçmişi Temizle…">
+<!ENTITY clearRecentHistory.accesskey "T">
 <!ENTITY accountManagerCmd2.label "Hesap ayarları">
 <!ENTITY accountManagerCmd2.accesskey "H">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
@@ -718,8 +718,8 @@
 <!ENTITY contextEditMsgAsNew.accesskey "d">
 <!ENTITY contextArchive.label "Arşivle">
 <!ENTITY contextArchive.accesskey "A">
-<!ENTITY contextReplySender.label "Yalnızca göndereni yanıtla">
-<!ENTITY contextReplySender.accesskey "R">
+<!ENTITY contextReplySender.label "Yalnızca Göndereni Yanıtla">
+<!ENTITY contextReplySender.accesskey "d">
 <!ENTITY contextReplyNewsgroup2.label "Hesap Grubuna Devam İletisi">
 <!ENTITY contextReplyNewsgroup2.accesskey "D">
 <!ENTITY contextReplyAll.label "Hepsini yanıtla">

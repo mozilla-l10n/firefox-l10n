@@ -62,7 +62,7 @@
    of messages between them
 -->
 <!ENTITY maxMessagesStart.label "En az">
-<!ENTITY maxMessagesStart.accesskey "m">
+<!ENTITY maxMessagesStart.accesskey "z">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "ileti indirilecekse bana sor">
 <!ENTITY alwaysAuthenticate.label "Bu sunucuya bağlanırken her zaman kimlik doğrulaması iste">

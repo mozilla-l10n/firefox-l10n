@@ -101,9 +101,9 @@
 <!ENTITY copyLinkCmd.label        "Bağlantı konumunu kopyala">
 <!ENTITY copyLinkCmd.accesskey    "k">
 
-<!ENTITY CopyMessageId.label "İleti kimliğini kopyala">
-<!ENTITY CopyMessageId.accesskey "C">
-<!ENTITY OpenMessageForMsgId.label "Bu kimliği taşıyan iletiyi aç">
-<!ENTITY OpenMessageForMsgId.accesskey "O">
+<!ENTITY CopyMessageId.label "İleti Kimliğini Kopyala">
+<!ENTITY CopyMessageId.accesskey "K">
+<!ENTITY OpenMessageForMsgId.label "Bu Kimliği Taşıyan İletiyi Aç">
+<!ENTITY OpenMessageForMsgId.accesskey "B">
 <!ENTITY OpenBrowserWithMsgId.label "Tarayıcıyı bu kimlik numarasıyla aç">
 <!ENTITY OpenBrowserWithMsgId.accesskey "b">
