@@ -27,10 +27,11 @@
 
 <!ENTITY searchTextBox.clear.label "Kosongkan">
 
-
+<!ENTITY fillLoginMenu.label          "Isikan Log Masuk">
+<!ENTITY fillLoginMenu.accesskey      "I">
 <!ENTITY fillPasswordMenu.label       "Isi Kata Laluan">
 <!ENTITY fillPasswordMenu.accesskey   "I">
-
-
+<!ENTITY fillUsernameMenu.label       "Isikan Nama pengguna">
+<!ENTITY fillUsernameMenu.accesskey   "I">
 
 

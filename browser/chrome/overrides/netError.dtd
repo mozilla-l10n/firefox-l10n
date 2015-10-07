@@ -132,6 +132,7 @@ yang &brandShortName; dibenarkan untuk mencapai Web.</li>
 <!ENTITY malwareBlocked.longDesc "<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p> 
 <p>Web site owners who believe their site has been reported as an attack site in error may <a href='http://www.stopbadware.org/home/reviewinfo' >request a review</a>.</p>">
 
+<!ENTITY unwantedBlocked.title "Laman Perisian Tidak Diperlukan telah disyaki!">
 
 
 <!ENTITY phishingBlocked.title "Pemalsuan Web Disyaki!">
@@ -172,4 +173,5 @@ functionality specific to firefox. -->
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "ssl_error_unsupported_version". -->
+<!ENTITY sslv3Used.longDesc "Info lanjutan: ssl_error_unsupported_version">
 <!ENTITY sslv3Used.learnMore "Ketahui lanjut…">
