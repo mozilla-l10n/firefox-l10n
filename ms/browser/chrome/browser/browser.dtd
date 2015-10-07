@@ -855,7 +855,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY panicButton.view.mainActionDesc          "Dengan meneruskan akan:">
 <!ENTITY panicButton.view.deleteCookies           "<html:strong>Kukis</html:strong> terakhir akan dihapus">
-
+<!ENTITY panicButton.view.deleteHistory           "<html:strong>Sejarah</html:strong> terakhir akan dihapus">
 <!ENTITY panicButton.view.deleteTabsAndWindows    "Semua <html:strong>Tab</html:strong> dan <html:strong>Tetingkap</html:strong> akan ditutup">
 <!ENTITY panicButton.view.openNewWindow           "Buka tetingkap pelayar yang baru">
 
