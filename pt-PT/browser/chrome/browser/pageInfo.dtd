@@ -63,7 +63,7 @@
 
 <!ENTITY  securityTab           "Segurança">
 <!ENTITY  securityTab.accesskey "S">
-<!ENTITY  securityView.certView "Ver Certificado">
+<!ENTITY  securityView.certView "Ver certificado">
 <!ENTITY  securityView.accesskey "V">
 <!ENTITY  securityView.unknown   "Desconhecido">
 
