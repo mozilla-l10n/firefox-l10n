@@ -140,11 +140,14 @@
 <!ENTITY event.email.tentative.attendees.accesskey        "K">
 <!-- Toolbar -->
 
+<!ENTITY  event.toolbar.save.label                        "Kaydet ve Kapat">
+<!ENTITY  event.toolbar.delete.label                      "Sil">
 <!ENTITY  event.toolbar.attendees.label                   "Katılımcıları davet et">
 <!ENTITY  event.toolbar.privacy.label                     "Gizlilik">
 
-
-
+<!ENTITY  event.toolbar.save.tooltip                      "Kaydet ve Kapat">
+<!ENTITY  event.toolbar.delete.tooltip                    "Sil">
+<!ENTITY  event.toolbar.attendees.tooltip                 "Katılımcıları Davet Et">
 <!ENTITY  event.toolbar.attachments.tooltip               "Dosya ekle">
 <!ENTITY  event.toolbar.privacy.tooltip                   "Gizliliği değiştir">
 <!ENTITY  event.toolbar.priority.tooltip                  "Önceliği değiştir">

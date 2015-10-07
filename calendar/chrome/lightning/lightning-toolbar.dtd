@@ -8,10 +8,15 @@
 <!ENTITY lightning.toolbar.task.name.accesskey "G">
 
 <!ENTITY lightning.toolbar.sync.label "Eşitle">
+
 <!ENTITY lightning.toolbar.delete.label "Sil">
+
 <!ENTITY lightning.toolbar.edit.label "Düzenle">
-<!ENTITY lightning.toolbar.gototoday.label "Bugüne git">
+
+
+
 <!ENTITY lightning.toolbar.print.label "Yazdır">
+
 <!-- Mode Toolbar -->
 
 <!ENTITY lightning.toolbar.calendar.label     "Takvim">
@@ -23,7 +28,9 @@
 <!-- Toolbar write button -->
 
 <!ENTITY lightning.toolbar.newevent.label     "Etkinlik">
+<!ENTITY lightning.toolbar.newevent.tooltip   "Yeni etkinlik oluştur">
 <!ENTITY lightning.toolbar.newtask.label      "Görev">
+<!ENTITY lightning.toolbar.newtask.tooltip    "Yeni görev oluştur">
 <!-- Calendar and Task Mode Toolbar -->
 
 <!ENTITY lightning.toolbar.day.label                 "Gün">
