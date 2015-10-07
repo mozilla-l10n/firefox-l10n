@@ -17,12 +17,13 @@
 
 <!ENTITY  locationBar.label             "Bar Lokasi">
 
+<!ENTITY  locbar.suggest.label          "Semasa menggunakan bar lokasi, cadang:">
 <!ENTITY  locbar.history.label          "Sejarah">
 <!ENTITY  locbar.history.accesskey      "h">
 <!ENTITY  locbar.bookmarks.label        "Penanda">
 <!ENTITY  locbar.bookmarks.accesskey    "P">
-
-
+<!ENTITY  locbar.openpage.label         "Buka tab">
+<!ENTITY  locbar.openpage.accesskey     "B">
 
 
 
