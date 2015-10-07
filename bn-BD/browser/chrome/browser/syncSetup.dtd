@@ -41,8 +41,8 @@
 <!ENTITY setup.tosLink.label        "সেবার শর্ত">
 <!ENTITY setup.tosAgree2.label      "এবং">
 <!ENTITY setup.ppLink.label         "গোপনীয়তার নীতিমালা">
-<!ENTITY setup.tosAgree3.label      "">
-<!ENTITY setup.tosAgree2.accesskey  "">
+<!ENTITY setup.tosAgree3.label      "‍">
+<!ENTITY setup.tosAgree2.accesskey  "‍">
 <!-- My Recovery Key dialog -->
 
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; আপনার গোপনীয়তা বজায় রাখে">
