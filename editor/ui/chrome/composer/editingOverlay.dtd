@@ -15,8 +15,8 @@
 <!ENTITY saveCmd.accesskey "d">
 <!ENTITY saveAsCmd.label "Farklı Kaydet…">
 <!ENTITY saveAsCmd.accesskey "F">
-
-
+<!ENTITY saveAsChangeEncodingCmd2.label "Metin Kodlamasını Değiştirip Kaydet">
+<!ENTITY saveAsChangeEncodingCmd2.accesskey "e">
 <!ENTITY publishCmd.label "Yayımla">
 <!ENTITY publishCmd.accesskey "Y">
 <!ENTITY publishCmd.key "S">
