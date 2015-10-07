@@ -34,6 +34,7 @@
 <!ENTITY showUnifinderCmd.label                 "Etkinlikleri bul">
 <!ENTITY showUnifinderCmd.accesskey             "b">
 
+
 <!ENTITY calendar.displaytodos.checkbox.label       "Görevleri takvim içinde göster">
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "t">
 

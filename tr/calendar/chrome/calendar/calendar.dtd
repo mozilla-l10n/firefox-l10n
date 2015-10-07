@@ -14,7 +14,7 @@
 
 <!ENTITY calendar.today.button.label          "Bugün">
 <!ENTITY calendar.tomorrow.button.label       "Yarın">
-
+<!ENTITY calendar.upcoming.button.label       "Yaklaşan Etkinlik">
 
 <!ENTITY calendar.events.filter.all.label "Bütün etkinlikler">
 <!ENTITY calendar.events.filter.today.label "Bugünkü etkinlikler">
@@ -30,31 +30,31 @@
    - task tree view. -->
 
 <!ENTITY calendar.unifinder.tree.done.label                "Tamamlanmış">
-
+<!ENTITY calendar.unifinder.tree.done.tooltip2             "Bitişe göre sırala">
 <!ENTITY calendar.unifinder.tree.priority.label            "Önemlilik">
-
+<!ENTITY calendar.unifinder.tree.priority.tooltip2         "Önceliğe göre sırala">
 <!ENTITY calendar.unifinder.tree.title.label               "Konu">
-
+<!ENTITY calendar.unifinder.tree.title.tooltip2            "Başlığa göre sırala">
 <!ENTITY calendar.unifinder.tree.percentcomplete.label     "&#037; Tamamla">
-
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip2  "Bitiş &#037;'sine göre sırala">
 <!ENTITY calendar.unifinder.tree.startdate.label           "Başlangıç">
-
+<!ENTITY calendar.unifinder.tree.startdate.tooltip2        "Başlangıç tarihine göre sırala">
 <!ENTITY calendar.unifinder.tree.enddate.label             "Bitiş">
-
+<!ENTITY calendar.unifinder.tree.enddate.tooltip2          "Bitiş tarihine göre sırala">
 <!ENTITY calendar.unifinder.tree.duedate.label             "Süre">
-
+<!ENTITY calendar.unifinder.tree.duedate.tooltip2          "Vade tarihine göre sırala">
 <!ENTITY calendar.unifinder.tree.completeddate.label       "Tamamlanmış">
-
+<!ENTITY calendar.unifinder.tree.completeddate.tooltip2    "Tamamlanma tarihine göre sırala">
 <!ENTITY calendar.unifinder.tree.categories.label          "Kategoriler">
-
+<!ENTITY calendar.unifinder.tree.categories.tooltip2       "Kategoriye göre sırala">
 <!ENTITY calendar.unifinder.tree.location.label            "Konum">
-
+<!ENTITY calendar.unifinder.tree.location.tooltip2         "Konuma göre sırala">
 <!ENTITY calendar.unifinder.tree.status.label              "Durum">
-
+<!ENTITY calendar.unifinder.tree.status.tooltip2           "Duruma göre sırala">
 <!ENTITY calendar.unifinder.tree.calendarname.label        "Takvim ismi">
-
+<!ENTITY calendar.unifinder.tree.calendarname.tooltip2     "Takvim adına göre sırala">
 <!ENTITY calendar.unifinder.tree.duration.label            "Süresi">
-
+<!ENTITY calendar.unifinder.tree.duration.tooltip2         "Kalan zamana göre sırala">
 <!ENTITY calendar.unifinder.close.tooltip                  "Olay aramayı ve olay listesini kapat">
 
 <!ENTITY calendar.today.button.tooltip          "Bugüne git" >
@@ -87,8 +87,8 @@
 
 <!ENTITY calendar.newevent.button.label         "Yeni etkinlik" >
 <!ENTITY calendar.newtask.button.label          "Yeni görev" >
-
-
+<!ENTITY calendar.print.button.label            "Yazdır" >
+<!ENTITY calendar.print.button.accesskey        "Y">
 
 <!ENTITY calendar.day.button.label              "Gün" >
 <!ENTITY calendar.week.button.label             "Hafta" >
@@ -211,7 +211,7 @@
 <!ENTITY priority.level.normal              "Normal">
 <!ENTITY priority.level.normal.accesskey    "N">
 <!ENTITY priority.level.high                "Yüksek">
-
+<!ENTITY priority.level.high.accesskey      "H">
 
 <!ENTITY calendar.context.postpone.1hour.label      "1 saat">
 <!ENTITY calendar.context.postpone.1hour.accesskey  "s">
@@ -225,21 +225,25 @@
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
      task action buttons -->
+
+<!ENTITY calendar.taskview.delete.label     "Sil">
 <!-- Server Context Menu -->
 
 <!ENTITY calendar.context.newserver.label              "Yeni takvim…">
 <!ENTITY calendar.context.newserver.accesskey          "m">
 <!ENTITY calendar.context.findcalendar.label           "Takvim bul…" >
 <!ENTITY calendar.context.findcalendar.accesskey       "T" >
-
-
+<!ENTITY calendar.context.deleteserver2.label          "Takvimi Sil…">
+<!ENTITY calendar.context.deleteserver2.accesskey      "T">
 <!-- LOCALIZATION NOTE (calendar.context.removeserver.label): Removing the
       calendar is the general action of removing it, while deleting means to
       clear the data and unsubscribing means just taking it out of the calendar
       list. -->
 
-
-
+<!ENTITY calendar.context.removeserver.label           "Takvimi Kaldır…">
+<!ENTITY calendar.context.removeserver.accesskey       "T">
+<!ENTITY calendar.context.unsubscribeserver.label      "Takvim Aboneliğinden Çık…">
+<!ENTITY calendar.context.unsubscribeserver.accesskey  "T">
 <!ENTITY calendar.context.synccalendars.label          "Takvimleri eşitle">
 <!ENTITY calendar.context.synccalendars.accesskey      "k">
 <!ENTITY calendar.context.publish.label                "Takvimi yayınla…">
@@ -248,12 +252,14 @@
 <!ENTITY calendar.context.export.accesskey             "a">
 <!ENTITY calendar.context.properties.label             "Özellikler">
 <!ENTITY calendar.context.properties.accesskey         "k">
-<!-- LOCALIZATION NOTE (calendar.context.togglevisible.accesskey)
+<!-- LOCALIZATION NOTE (calendar.context.showcalendar.accesskey)
      This is the access key used for the showCalendar string -->
+<!-- LOCALIZATION NOTE (calendar.context.hidecalendar.accesskey)
+     This is the access key used for the hideCalendar string -->
 <!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
      This is the access key used for the showOnlyCalendar string -->
-
-
+<!ENTITY calendar.context.showall.label                "Tüm Takvimleri Göster">
+<!ENTITY calendar.context.showall.accesskey            "G">
 
 <!ENTITY calendar.context.convertmenu.label              "Dönüştür">
 <!ENTITY calendar.context.convertmenu.accesskey.mail     "n">
