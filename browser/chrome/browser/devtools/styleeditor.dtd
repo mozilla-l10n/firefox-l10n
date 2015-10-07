@@ -41,4 +41,18 @@
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-end.label): End of the tip sentence -->
 <!ENTITY noStyleSheet-tip-end.label    "?">
 
+<!ENTITY mediaRules.label "Regole @media">
+<!ENTITY openLinkNewTab.label "Arvi colegamento inte neuvo fueggio">
+<!ENTITY optionsButton.tooltip " Editô do stile">
+<!ENTITY showMediaSidebar.label "Fanni vedde bara de scianco @media">
+<!ENTITY showMediaSidebar.accesskey "V">
+<!ENTITY showOriginalSources.label "Fanni vedde sorgenti òriginali">
+<!ENTITY showOriginalSources.accesskey "o">
+
+
+
+
+
+
+
 

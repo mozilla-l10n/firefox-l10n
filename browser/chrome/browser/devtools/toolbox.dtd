@@ -5,7 +5,6 @@
 <!ENTITY closeCmd.key "W">
 <!ENTITY toolboxCloseButton.tooltip "Særa Strumenti do svilupatô">
 <!ENTITY toolboxOptionsButton.key "o">
-<!ENTITY options.enableChrome.label3 "Ativa debug chrome">
 <!ENTITY options.enableChrome.tooltip3 "Ativando sta opçion se peu adeuviâ diversci strumenti do svilupatô diretamente dò-u navegatô (da Strumenti > Svilupatô web > Strumenti) e fâ o debug di conponenti agzonti">
 <!ENTITY options.enableRemote.label3 "Ativa debug remòtto">
 <!ENTITY options.enableRemote.tooltip "Ativando sta opçion se peu adeuviâ i strumenti do svilupatô pò-u debug su istanse remòtte de Firefox comme Firefox OS">
@@ -16,7 +15,6 @@
 
 <!ENTITY options.selectEnabledToolboxButtons.label "Pomelli disponibili">
 <!ENTITY options.context.triggersPageRefresh "* solo seçion corente, recarega a pagina">
-<!ENTITY options.disableJavaScript.label2 "Dizativa JavaScript">
 <!ENTITY options.disableJavaScript.tooltip "Ativando sta opçion, JavaScript o saiâ dizativou pe o feuggio corente. Se o feuggio ò i strumenti pe-i svilupatoî vegnan seræ l'inpostaçion saiâ scancela.">
 
 <!ENTITY options.enablePersistentLogs.label "Ativa registri permanenti">
