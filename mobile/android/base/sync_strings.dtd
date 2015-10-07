@@ -157,8 +157,8 @@
 
 
 
-
-
+<!ENTITY fxaccount_sign_in_forgot_password "گذرواژه خود را فراموش کرده‌اید؟">
+<!ENTITY fxaccount_sign_in_create_account_instead "ایجاد یک حساب">
 <!ENTITY fxaccount_sign_in_unknown_error "امکان وارد شدن وجود ندارد">
 
 <!ENTITY fxaccount_account_verified_sub_header "حساب تایید شد">
