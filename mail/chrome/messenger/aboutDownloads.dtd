@@ -17,5 +17,8 @@
 <!ENTITY cmd.open.accesskey                        "Å">
 <!ENTITY cmd.removeFromHistory.label               "Fjern fra historikk">
 <!ENTITY cmd.removeFromHistory.accesskey           "e">
-<!ENTITY cmd.clearDownloads.label                  "Tøm nedlastinger">
-<!ENTITY cmd.clearDownloads.accesskey              "T">
+<!ENTITY cmd.clearList.label                       "Tøm liste">
+<!ENTITY cmd.clearList.accesskey                   "T">
+<!ENTITY cmd.clearList.tooltip                     "Fjern alle oppføringer fra listen over lagrede filer, med unntak av pågående nedlastinger.">
+<!ENTITY cmd.searchDownloads.label                 "Søk …">
+<!ENTITY cmd.searchDownloads.key                   "F">
