@@ -800,16 +800,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-
-
-
+<!ENTITY trackingProtection.unblockPrivate.label "Nonaktifkan perlindungan untuk sesi ini">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "N">
+<!ENTITY trackingProtection.block2.label "Aktifkan perlindungan">
+<!ENTITY trackingProtection.block2.accesskey "A">
 
 <!ENTITY trackingContentBlocked.message "Pelacakan">
 <!ENTITY trackingContentBlocked.moreinfo "Sebagian isi laman yang melacak aktivitas daring Anda telah diblokir.">
 <!ENTITY trackingContentBlocked.learnMore "Pelajari Lebih Lanjut">
-
-
-
+<!ENTITY trackingContentBlocked.options "Opsi">
+<!ENTITY trackingContentBlocked.unblock2.label "Nonaktifkan perlindungan untuk situs ini">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "N">
 <!ENTITY trackingContentBlocked.block.label "Aktifkan perlindungan">
 <!ENTITY trackingContentBlocked.block.accesskey "A">
 <!ENTITY trackingContentBlocked.disabled.message "Perlindungan pelacakan dinonaktifkan">
