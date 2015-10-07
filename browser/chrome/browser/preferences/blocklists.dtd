@@ -2,9 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY window.title                 "Kara Listeler">
+<!ENTITY window.width                 "50em">
 
+<!ENTITY treehead.list.label          "Liste">
+<!ENTITY windowClose.key              "w">
 
-
-
-
-
+<!ENTITY button.cancel.label          "Vazgeç">
+<!ENTITY button.cancel.accesskey      "V">
+<!ENTITY button.ok.label              "Değişiklikleri Kaydet">
+<!ENTITY button.ok.accesskey          "D">
