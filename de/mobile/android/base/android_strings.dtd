@@ -585,7 +585,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; hat nicht gesichert übertragenen Inhalt auf dieser Seite blockiert.">
-<!ENTITY mixed_content_blocked_some1 "&brandShortName; hat eine Teil des nicht gesichert übertragenen Inhalts auf dieser Seite blockiert.">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; hat einen Teil des nicht gesichert übertragenen Inhalts auf dieser Seite blockiert.">
 <!ENTITY mixed_content_display_loaded1 "Teile dieser Seite wurden nicht sicher übertragen (wie z.B. Grafiken).">
 <!ENTITY mixed_content_protection_disabled1 "Sie haben den Schutz vor nicht gesichert übertragenem Inhalt deaktiviert.">
 
