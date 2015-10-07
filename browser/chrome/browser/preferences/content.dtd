@@ -6,6 +6,12 @@
 
 <!ENTITY  blockPopups.label           "Bloquear xanelas emerxentes">
 <!ENTITY  blockPopups.accesskey       "B">
+
+<!ENTITY  notificationsPolicy.label            "Notificacións">
+<!ENTITY  notificationsPolicyDesc.label        "Escolla que sitios teñen permiso para amosar notificacións">
+<!ENTITY  notificationsPolicyButton.accesskey  "q">
+<!ENTITY  notificationsPolicyButton.label      "Escoller…">
+
 <!ENTITY  popupExceptions.label       "Excepcións…">
 <!ENTITY  popupExceptions.accesskey   "E">
 

@@ -110,13 +110,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "a">
 
 <!ENTITY fxaSignIn.label "Conectarse a &syncBrand.shortName.label;">
+<!ENTITY fxaSignedIn.tooltip "Abir as preferencias de &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Volver a conectarse a &syncBrand.shortName.label;">
+<!ENTITY fxaUnverified.label "Comprobar a súa conta">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; activado">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; comezará a sincronización nuns instantes.">
-<!ENTITY syncErrorPanel.heading "Non é posíbel conectarse a &syncBrand.shortName.label;">
-<!ENTITY syncErrorPanel.subTitle "Identifíquese para continuar a sincronización.">
-<!ENTITY syncErrorPanel.signInButton.label "Identificarse">
-<!ENTITY syncErrorPanel.signInButton.accesskey "s">
 
 
 <!ENTITY fullScreenMinimize.tooltip "Minimizar">
@@ -126,10 +124,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "o">
 <!ENTITY fullScreenExit.label "Saír do modo Pantalla completa">
 <!ENTITY fullScreenExit.accesskey "c">
-<!ENTITY fullscreenAllowButton.label "Permitir">
-<!ENTITY fullscreenExitButton.label "Denegar">
 
-<!ENTITY fullscreenExitHint2.value "Prema ESC en calquera momento para saír.">
+<!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
+     fullscreenWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring fullscreen.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
+<!ENTITY fullscreenWarning.beforeDomain.label "">
+
+
+<!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
+     exitDOMFullscreenMac.button): the "escape" button on PC keyboards
+     is uppercase, while on Mac keyboards it is lowercase -->
+
+
 <!ENTITY leaveDOMFullScreen.label "Saír de pantalla completa">
 <!ENTITY leaveDOMFullScreen.accesskey "a">
 
@@ -222,6 +230,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webapps.label                "Aplicativos">
 <!ENTITY webapps.accesskey            "p">
 
+
+
 <!ENTITY webDeveloperMenu.label       "Web Developer">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
@@ -275,7 +285,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 <!ENTITY browserContentToolboxMenu.label     "Caixa de ferramentas de contido do navegador">
-
+<!ENTITY browserContentToolboxMenu.accesskey "x">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Pechar a barra de desenvolvemento">
 <!ENTITY devToolbarMenu.label              "Barra de desenvolvemento">
@@ -300,12 +310,22 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Ficheiro"> 
 <!ENTITY fileMenu.accesskey       "F">
+
+
+
+
+
+
+
+
+
+
 <!ENTITY newNavigatorCmd.label        "Nova xanela">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "Nova xanela privada">
 <!ENTITY newPrivateWindow.accesskey "x">
-
+<!ENTITY newNonRemoteWindow.label   "Nova xanela non e10s">
 
 <!ENTITY editMenu.label         "Editar"> 
 <!ENTITY editMenu.accesskey       "E"> 
@@ -396,6 +416,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Cambiar á lapela:">
 
+
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Obter máis información…">
+
+
+
+
+
+
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -420,6 +448,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
+<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
+     These are set as the aria-label attribute for the search input box and
+     submit button in the in-content search UI, to be used by screen readers. -->
+<!ENTITY contentSearchInput.label     "Criterios de busca">
+<!ENTITY contentSearchSubmit.label    "Enviar busca">
+
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -432,7 +466,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      intentionally left empty for en-US and can be used by other localizations to
      display a string after the search engine name.  This string will be displayed
      as:  "Search <selected engine name><searchAfter.label text>" -->
-
+<!ENTITY search.label                 "Buscar">
 <!ENTITY searchAfter.label            "">
 
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
@@ -444,6 +478,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Cambiar configuración da busca">
+
+
+
+
+
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -633,6 +672,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "c">
 
+
+
 <!ENTITY pageStyleMenu.label "Estilo de páxina">
 <!ENTITY pageStyleMenu.accesskey "E">
 <!ENTITY pageStyleNoStyle.label "Sen estilo">
@@ -673,12 +714,41 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label                   "Cancelar">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
+<!ENTITY identity.connectionSecure "Conexión segura">
+<!ENTITY identity.connectionNotSecure "A conexión non é segura">
+<!ENTITY identity.connectionFile "Está páxina está almacenada no computador.">
+
+<!ENTITY identity.connectionInternal "Esta é unha páxina segura de &brandShortName;.">
+
+
+<!-- Strings for connection state warnings. -->
 
 
 
 
+
+<!-- Strings for connection state warnings in the subview. -->
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY identity.enableMixedContentBlocking.label "Activar protección">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "e">
+<!ENTITY identity.disableMixedContentBlocking.label "Desactivar a protección por agora">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "D">
+<!ENTITY identity.learnMore "Obteña máis información">
+
+<!ENTITY identity.moreInfoLinkText2 "Máis información">
 
 <!ENTITY identity.permissions "Permisos">
+
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -689,8 +759,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
-<!ENTITY syncSetup.label              "Configurar o &syncBrand.shortName.label;…">
-<!ENTITY syncSetup.accesskey          "g">
+
+
 <!ENTITY syncSyncNowItem.label        "Sincronizar agora">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Volver a conectarse a &syncBrand.shortName.label;…">
@@ -751,20 +821,25 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "Micrófono a compartir:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+<!ENTITY getUserMedia.audioCapture.label "Compartirase o son da lapela.">
 <!ENTITY getUserMedia.allWindowsShared.message "Compartiranse todas as xanelas visíbeis na súa pantalla.">
 
-<!-- Bad Content Blocker Doorhanger Notification -->
-<!ENTITY badContentBlocked.moreinfo "A maioría dos sitios web traballarán correctamente incluso se o contido está bloqueado.">
+<!ENTITY trackingProtection.title "Protección contra o seguimento">
 
-<!ENTITY mixedContentBlocked2.message "Contido inseguro">
-<!ENTITY mixedContentBlocked2.moreinfo "Bloqueáronse algúns elementos non cifrados neste sitio web.">
-<!ENTITY mixedContentBlocked2.learnMore "Obter máis información">
-<!ENTITY mixedContentBlocked2.options "Opcións">
-<!ENTITY mixedContentBlocked2.unblock.label "Desactivar a protección por agora">
-<!ENTITY mixedContentBlocked2.unblock.accesskey "D">
-<!ENTITY mixedContentBlocked2.block.label "Activar protección">
-<!ENTITY mixedContentBlocked2.block.accesskey "e">
-<!ENTITY mixedContentBlocked2.disabled.message "A protección está desactivada">
+
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock.label "Desactivar a protección para este sitio">
+<!ENTITY trackingProtection.unblock.accesskey "D">
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate.label "Desactivar a protección para esta sesión">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "D">
+<!ENTITY trackingProtection.block2.label "Activar a protección">
+<!ENTITY trackingProtection.block2.accesskey "e">
 
 <!ENTITY trackingContentBlocked.message "Seguimento">
 <!ENTITY trackingContentBlocked.moreinfo "Bloqueáronse partes da páxina que seguen a súa actividade en liña.">
@@ -838,21 +913,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeNotificationsDontAskAgain.label       "Non preguntar de novo">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "d">
 
-<!ENTITY readingList.label                        "Lista de lectura">
-<!ENTITY readingList.sidebar.commandKey           "r">
-<!ENTITY readingList.showSidebar.label            "Amosar a barra lateral da lista de lectura">
-<!-- Pre-landed string for bug 1124153 -->
-<!ENTITY readingList.sidebar.showMore.label       "Amosar máis…">
-<!-- Pre-landed string for bug 1133662 -->
-<!ENTITY readingList.sidebar.emptyText            "Engada artigos a súa lista de lectura para gardalos para máis tarde e atópeos facilmente cando os precise.">
-<!ENTITY readingList.sidebar.delete.tooltip       "Retirar isto da lista de lectura">
-<!-- Pre-landed strings for bug 1123519 -->
-<!ENTITY readingList.sidebar.add.label            "Engadir á lista de lectura">
-<!ENTITY readingList.sidebar.add.tooltip          "Engadir esta páxina a lista de lectura">
-
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
-
-
-
-
-
+<!ENTITY saveToPocketCmd.label     "Gardar páxina en Pocket">
+<!ENTITY saveToPocketCmd.accesskey "k">
+<!ENTITY saveLinkToPocketCmd.label     "Gardar ligazón en Pocket">
+<!ENTITY saveLinkToPocketCmd.accesskey "o">
+<!ENTITY pocketMenuitem.label      "Ver a lista de Pocket">

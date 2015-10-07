@@ -11,24 +11,6 @@
 <!ENTITY window.title "Consola web">
 <!ENTITY browserConsole.title "Consola do navegador">
 
-<!ENTITY networkPanel.requestURLColon             "URL da solicitude:">
-<!ENTITY networkPanel.requestMethodColon          "Método da solicitude:">
-<!ENTITY networkPanel.statusCodeColon             "Código de estado:">
-
-<!ENTITY networkPanel.requestHeaders              "Cabeceiras da solicitude">
-<!ENTITY networkPanel.requestCookie               "Cookie enviada">
-<!ENTITY networkPanel.requestBody                 "Corpo da solicitude">
-<!ENTITY networkPanel.requestFormData             "Datos de formulario enviados">
-
-<!ENTITY networkPanel.responseHeaders             "Cabeceiras da resposta">
-<!ENTITY networkPanel.responseCookie              "Cookie recibida">
-<!ENTITY networkPanel.responseBody                "Corpo da resposta">
-<!ENTITY networkPanel.responseBodyCached          "Datos na caché">
-<!ENTITY networkPanel.responseBodyUnknownType     "Tipo de contido descoñecido">
-<!ENTITY networkPanel.responseNoBody              "A resposta non ten corpo">
-<!ENTITY networkPanel.responseImage               "Imaxe recibida">
-<!ENTITY networkPanel.responseImageCached         "Imaxe na caché">
-
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
 <!ENTITY saveBodies.label     "Rexistrar o contido das solicitudes e respostas">
@@ -76,15 +58,26 @@
 <!ENTITY btnConsoleXhr          "XHR">
 <!ENTITY btnConsoleReflows      "Reflows">
 
+<!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
+  -  the toolbar. It shows or hides messages that the web developer inserted on
+  -  the page for debugging purposes, using calls on the HTTP server. -->
+<!ENTITY btnServerLogging.label       "Servidor">
+<!ENTITY btnServerLogging.tooltip     "Rexistra as mensaxes recibidas dende un servidor web">
+<!ENTITY btnServerLogging.accesskey   "S">
+<!ENTITY btnServerErrors              "Erros">
+<!ENTITY btnServerInfo                "Información">
+<!ENTITY btnServerWarnings            "Avisos">
+<!ENTITY btnServerLog                 "Rexistro">
+
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
-
+<!ENTITY btnConsoleSharedWorkers "Shared Workers">
 <!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
   -  should not be translated. -->
-
+<!ENTITY btnConsoleServiceWorkers "Service Workers">
 <!-- LOCALIZATION NODE (btnConsoleWindowlessWorkers) the term "Workers"
   -  should not be translated. -->
-
+<!ENTITY btnConsoleWindowlessWorkers "Workers de complementos ou de chrome">
 
 <!ENTITY filterOutput.placeholder "Filtrar a saída">
 <!ENTITY btnClear.label        "Borrar">
@@ -107,3 +100,5 @@
 <!ENTITY closeCmd.key         "W">
 <!ENTITY findCmd.key          "F">
 <!ENTITY clearOutputCtrl.key  "L">
+<!ENTITY openInVarViewCmd.label "Abrir na vista de variábeis">
+<!ENTITY openInVarViewCmd.accesskey "v">

@@ -27,6 +27,7 @@
 <!ENTITY projectMenu_manageComponents_label "Xestionar compoñentes extra">
 <!ENTITY projectMenu_manageComponents_accesskey "m">
 
+
 <!ENTITY runtimeMenu_label "Tempo de execución">
 <!ENTITY runtimeMenu_accesskey "T">
 <!ENTITY runtimeMenu_disconnect_label "Desconectar">
@@ -197,14 +198,14 @@
 
 
 <!-- Simulator Options -->
-
-
-
-
-
-
-
-
-
-
+<!ENTITY simulator_title "Opcións do simulador">
+<!ENTITY simulator_remove "Eliminar simulador">
+<!ENTITY simulator_reset "Restaurar predeterminados">
+<!ENTITY simulator_name "Nome">
+<!ENTITY simulator_software "Software">
+<!ENTITY simulator_version "Versión">
+<!ENTITY simulator_profile "Perfil">
+<!ENTITY simulator_hardware "Hardware">
+<!ENTITY simulator_device "Dispositivo">
+<!ENTITY simulator_screenSize "Pantalla">
 

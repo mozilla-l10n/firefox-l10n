@@ -41,8 +41,8 @@
 
 <!ENTITY popup.label                     "Abrir xanelas emerxentes">
 
-<!ENTITY fullscreen.label                "Pantalla completa">
-
-
+<!ENTITY desktop-notification.label      "Amosar notificacións">
 <!ENTITY camera.label                    "Usar a cámara">
 <!ENTITY microphone.label                "Usar o micrófono">
+
+<!ENTITY focusSearch.key                 "f">

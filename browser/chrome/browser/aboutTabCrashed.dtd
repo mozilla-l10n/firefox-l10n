@@ -5,7 +5,12 @@
 
 
 
+<!ENTITY tabCrashed.includeURL "Incluír o enderezo da páxina en que estaba">
+<!ENTITY tabCrashed.commentPlaceholder "Engadir un comentario (os comentarios son visíbeis publicamente)">
+<!ENTITY tabCrashed.emailPlaceholder "Introduza aquí o seu correo electrónico">
 
 
 
-
+<!ENTITY tabCrashed.closeTab "Pechar esta lapela">
+<!ENTITY tabCrashed.restoreTab "Restaurar esta lapela">
+<!ENTITY tabCrashed.restoreAll "Restaurar todas as lapelas quebradas">
