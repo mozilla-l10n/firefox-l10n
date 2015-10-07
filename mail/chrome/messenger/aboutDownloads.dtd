@@ -17,5 +17,8 @@
 <!ENTITY cmd.open.accesskey "O">
 <!ENTITY cmd.removeFromHistory.label "Fjarlægja úr feril">
 <!ENTITY cmd.removeFromHistory.accesskey "e">
-<!ENTITY cmd.clearDownloads.label "Hreinsa niðurhal">
-<!ENTITY cmd.clearDownloads.accesskey "ð">
+<!ENTITY cmd.clearList.label "Hreinsa lista">
+<!ENTITY cmd.clearList.accesskey "H">
+<!ENTITY cmd.clearList.tooltip "Fjarlægja allar færslur úr listanum fyrir vistaðar skrár, nema skrár sem er verið að hala niður.">
+<!ENTITY cmd.searchDownloads.label "Leita…">
+<!ENTITY cmd.searchDownloads.key "F">
