@@ -31,7 +31,7 @@
 <!ENTITY certmgr.certdetail.o                 "سازمان (O)">
 <!ENTITY certmgr.certdetail.ou                "واحد سازمانی (OU)">
 <!ENTITY certmgr.certdetail.serialnumber      "شمارهٔ سریال">
-
+<!ENTITY certmgr.certdetail.sha256fingerprint "اثر انگشت SHA-256">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "اثر انگشت SHA1">
 
 <!ENTITY certmgr.editcacert.title             "ویرایش تنظیمات اعتماد به مرجع صدور گواهی">
@@ -73,7 +73,7 @@
 <!ENTITY certmgr.details.accesskey            "ف">
 <!ENTITY certmgr.fields.label                 "مقدار فیلد">
 <!ENTITY certmgr.fields.accesskey             "م">
-
+<!ENTITY certmgr.hierarchy.label              "سلسه‌مراتب گواهی‌ها">
 
 <!ENTITY certmgr.addException.label           "افزودن استثنا…">
 <!ENTITY certmgr.addException.accesskey       "ا">
