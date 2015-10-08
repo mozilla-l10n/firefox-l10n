@@ -428,7 +428,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      submit button in the in-content search UI, to be used by screen readers. -->
 
 <!ENTITY contentSearchInput.label     "వెతకవలసిన ప్రశ్న">
-
+<!ENTITY contentSearchSubmit.label    "వెతకమని చెప్పు">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -644,6 +644,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "C">
 
+<!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "పేజీ శైలి">
 <!ENTITY pageStyleMenu.accesskey "y">
@@ -683,21 +684,25 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "అయినది">
 <!ENTITY editBookmark.cancel.label                   "రద్దుచేయి">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "సురక్షిత అనుసంధానం">
 <!ENTITY identity.connectionNotSecure "అనుసంధానం సురక్షితం కాదు">
-
+<!ENTITY identity.connectionFile "ఈ పేజీ మీ కంప్యూటర్ నందు వుంచబడును.">
 <!ENTITY identity.connectionVerified "మీరు ఈ సైటుకు సురక్షితంగా అనుసంధానించి ఉన్నారా లేదా అనేది &brandShortName; నిర్ధారించును, దీనిని నడిపి:">
 <!ENTITY identity.connectionInternal "ఇది సురక్షిత &brandShortName; పేజీ.">
 <!-- Strings for connection state warnings. -->
 
-
-
+<!ENTITY identity.activeBlocked "ఈ పేజీనందు సురక్షితంకాని భాగాలను &brandShortName; నిరోధించినది.">
+<!ENTITY identity.passiveLoaded "ఈ పేజీలోని భాగాలు సురక్షితం కావు (చిత్రాలు వంటివి).">
+<!ENTITY identity.activeLoaded "ఈ పేజీ పైన రక్షణను మీరు అచేతనం చేసారు.">
+<!ENTITY identity.weakEncryption "ఈ పేజీ బలహీనమైన ఎన్క్రిప్షన్ ఉపయోగిస్తోంది.">
 <!-- Strings for connection state warnings in the subview. -->
 
-
-
+<!ENTITY identity.description.insecure "మీరు ఈ సైటుకు గుట్టుగా అనుసంధానించబడటం లేదు. మీరు సమర్పించిన సమాచారం ఇతరులు చూడవచ్చు (సంకేతపదాలు, సందేశాలు, క్రెడిట్ కార్డ్స్, మొదలగునవి).">
+<!ENTITY identity.description.weakCipher "ఈ వెబ్‌సైటుతో మీ అనుసంధానం బలహీనమైన ఎన్క్రిప్షన్‌తో వుంది మరియు గుట్టుగా లేదు.">
+<!ENTITY identity.description.weakCipher2 "ఇతరులు మీ సమాచారం చూడగలరు లేదా వెబ్‌సైట్ ప్రవర్తనను మార్చగలరు.">
+<!ENTITY identity.description.activeBlocked "ఈ పేజీనందు సురక్షితంకాని భాగాలను &brandShortName; నిరోధించినది.">
 
 
 
