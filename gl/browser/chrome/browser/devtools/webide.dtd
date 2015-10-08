@@ -27,6 +27,7 @@
 <!ENTITY projectMenu_manageComponents_label "Xestionar compoñentes extra">
 <!ENTITY projectMenu_manageComponents_accesskey "m">
 
+
 <!ENTITY runtimeMenu_label "Tempo de execución">
 <!ENTITY runtimeMenu_accesskey "T">
 <!ENTITY runtimeMenu_disconnect_label "Desconectar">
@@ -41,6 +42,8 @@
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Preferencias do dispositivo">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "P">
+<!ENTITY runtimeMenu_showSettings_label "Configuración do dispositivo">
+<!ENTITY runtimeMenu_showSettings_accesskey "s">
 
 <!ENTITY viewMenu_label "Ver">
 <!ENTITY viewMenu_accesskey "V">
@@ -93,6 +96,7 @@
 <!ENTITY details_manifestURL "ID do aplicativo">
 <!ENTITY details_removeProject_button "Retirar proxecto">
 
+
 <!-- New App -->
 <!ENTITY newAppWindowTitle "Novo aplicativo">
 <!ENTITY newAppHeader "Seleccionar modelo">
@@ -114,6 +118,8 @@
 <!ENTITY prefs_general_title "Xeral">
 <!ENTITY prefs_restore "Restaurar a configuración predeterminada">
 <!ENTITY prefs_manage_components "Xestionar compoñentes extra">
+<!ENTITY prefs_options_autoconnectruntime "Volver a conectarse ao tempo de execución anterior">
+<!ENTITY prefs_options_autoconnectruntime_tooltip "Volver a conectarse ao tempo de execución anterior cando se inicie WebIDE">
 <!ENTITY prefs_options_rememberlastproject "Lembrar o último proxecto">
 <!ENTITY prefs_options_rememberlastproject_tooltip "Restaurar o proxecto anterior cando se inicie WebIDE">
 <!ENTITY prefs_options_templatesurl "URL dos modelos">
@@ -141,21 +147,65 @@
 <!ENTITY runtimedetails_adbIsRoot "ADB ten permisos de administración:">
 <!ENTITY runtimedetails_summonADBRoot "dispositivo con permisos de administración">
 <!ENTITY runtimedetails_ADBRootWarning "(require un cargador de arrinque ou bootloader desbloqueado)">
-<!ENTITY runtimedetails_restrictedPrivileges "DevTools con permisos restrinxidos:">
+<!ENTITY runtimedetails_unrestrictedPrivileges "Permisos non restrinxidos de DevTools:">
 <!ENTITY runtimedetails_requestPrivileges "solicita máis permisos">
 <!ENTITY runtimedetails_privilegesWarning "(Reiniciarase o dispositivo. Require permisos de administrador.)">
 
+<!-- Device Preferences and Settings -->
+<!ENTITY device_typeboolean "Booleano">
+<!ENTITY device_typenumber "Enteiro">
+<!ENTITY device_typestring "Cadea">
+<!ENTITY device_typeobject "Obxecto">
+<!ENTITY device_typenone "Seleccione un tipo">
+
 <!-- Device Preferences -->
-<!ENTITY devicepreferences_title "Preferencias do dispositivo">
-<!ENTITY devicepreferences_search "Preferencias da busca">
-<!ENTITY devicepreferences_newname "Nome da nova preferencia">
-<!ENTITY devicepreferences_newtext "Valor da preferencia">
-<!ENTITY devicepreferences_addnew "Engadir nova preferencia">
-<!ENTITY devicepreferences_typeboolean "Booleano">
-<!ENTITY devicepreferences_typenumber "Enteiro">
-<!ENTITY devicepreferences_typestring "Cadea">
-<!ENTITY devicepreferences_typenone "Seleccione un tipo">
+<!ENTITY devicepreference_title "Preferencias do dispositivo">
+<!ENTITY devicepreference_search "Preferencias da busca">
+<!ENTITY devicepreference_newname "Nome da nova preferencia">
+<!ENTITY devicepreference_newtext "Valor da preferencia">
+<!ENTITY devicepreference_addnew "Engadir nova preferencia">
+
+<!-- Device Settings -->
+<!ENTITY devicesetting_title "Configuración do dispositivo">
+<!ENTITY devicesetting_search "Configuración da busca">
+<!ENTITY devicesetting_newname "Nome da nova configuración">
+<!ENTITY devicesetting_newtext "Valor da configuración">
+<!ENTITY devicesetting_addnew "Engadir nova configuración">
 
 <!-- Monitor -->
 <!ENTITY monitor_title "Monitor">
 <!ENTITY monitor_help "Axuda">
+
+<!-- WiFi Authentication -->
+<!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
+     that instructs the user to transfer an authentication token to the
+     server. -->
+<!ENTITY wifi_auth_header "Identificación do cliente">
+<!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
+     user to transfer authentication info by scanning a QR code. -->
+
+<!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
+     devices that can't scan a QR code. -->
+
+<!-- LOCALIZATION NOTE (wifi_auth_yes_scanner): Link text to assist users with
+     devices that can scan a QR code. -->
+
+<!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
+     user to transfer authentication info by transferring a token. -->
+
+
+<!-- Logs panel -->
+
+
+<!-- Simulator Options -->
+<!ENTITY simulator_title "Opcións do simulador">
+<!ENTITY simulator_remove "Eliminar simulador">
+<!ENTITY simulator_reset "Restaurar predeterminados">
+<!ENTITY simulator_name "Nome">
+<!ENTITY simulator_software "Software">
+<!ENTITY simulator_version "Versión">
+<!ENTITY simulator_profile "Perfil">
+<!ENTITY simulator_hardware "Hardware">
+<!ENTITY simulator_device "Dispositivo">
+<!ENTITY simulator_screenSize "Pantalla">
+
