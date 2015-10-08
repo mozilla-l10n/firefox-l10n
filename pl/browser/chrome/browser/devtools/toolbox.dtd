@@ -49,6 +49,7 @@
 <!ENTITY options.defaultColorUnit.hsl "HSL(A)">
 <!ENTITY options.defaultColorUnit.rgb "RGB(A)">
 <!ENTITY options.defaultColorUnit.name "Nazwy kolorów">
+<!ENTITY options.defaultColorUnit.authored "Jak w oryginale">
 
 <!ENTITY options.webconsole.label "Konsola WWW">
 <!ENTITY options.timestampMessages.label "Znaczniki czasu">
