@@ -4,8 +4,8 @@
 
 <!ENTITY tracking.label                 "Seguimento">
 
-
-
+<!ENTITY dntTrackingNotOkay4.label     "Indicarlle aos sitios que non o sigan">
+<!ENTITY dntTrackingNotOkay4.accesskey "n">
 <!ENTITY doNotTrackInfo.label          "Obter máis información">
 <!ENTITY trackingProtection5.label     "Usar protección contra o seguimento">
 <!ENTITY trackingProtection5.accesskey "i">
@@ -25,11 +25,11 @@
 <!ENTITY  locbar.bookmarks.accesskey    "M">
 <!ENTITY  locbar.openpage.label         "Abrir lapelas">
 <!ENTITY  locbar.openpage.accesskey     "b">
+<!ENTITY  locbar.searches.label         "Buscas relacionadas do buscador predeterminado">
+<!ENTITY  locbar.searches.accesskey     "d">
 
-
-
-
-
+<!ENTITY  suggestionSettings.label      "Cambiar as preferencias relacionadas coas suxestións do buscador…">
+<!ENTITY  suggestionSettings.accesskey  "x">
 
 <!ENTITY  acceptCookies.label           "Aceptar as cookies das páxinas web">
 <!ENTITY  acceptCookies.accesskey       "A">

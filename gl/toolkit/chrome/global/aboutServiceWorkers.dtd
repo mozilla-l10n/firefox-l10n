@@ -5,8 +5,8 @@
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutServiceWorkers.title                     "Sobre os Service Workers">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
-
+<!ENTITY aboutServiceWorkers.maintitle                 "Service Workers rexistrados">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
-
+<!ENTITY aboutServiceWorkers.warning_not_enabled       "Os Service Workers non están activados.">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
-
+<!ENTITY aboutServiceWorkers.warning_no_serviceworkers "Non hai Service Workers rexistrados.">

@@ -9,11 +9,11 @@
 <!ENTITY provideSearchSuggestions.label        "Fornecer suxestións de busca">
 <!ENTITY provideSearchSuggestions.accesskey    "s">
 
+<!ENTITY showURLBarSuggestions.label           "Amosar as suxestións de busca nos resultados da barra de localización">
+<!ENTITY showURLBarSuggestions.accesskey       "l">
 
-
-
-
-
+<!ENTITY redirectWindowsSearch.label "Usar este buscador para as buscas dende Windows">
+<!ENTITY redirectWindowsSearch.accesskey "W">
 
 <!ENTITY oneClickSearchEngines.label           "Buscadores nun clic">
 
