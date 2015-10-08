@@ -119,7 +119,7 @@
 <!ENTITY prefs_options_rememberlastproject "به‌خاطر سپردن آخرین پروژه">
 <!ENTITY prefs_options_rememberlastproject_tooltip "برگرداندن آخرین پروژه زمانی که WebIDE در حال اجراست">
 <!ENTITY prefs_options_templatesurl "URL قالب ها ">
-
+<!ENTITY prefs_options_templatesurl_tooltip "نمایه‌ای از قالب‌های موجود">
 <!ENTITY prefs_options_showeditor "نمایش ویرایشگر">
 <!ENTITY prefs_options_showeditor_tooltip "نمایش ویرایشگر داخلی">
 <!ENTITY prefs_options_tabsize "اندازه زبانه">
