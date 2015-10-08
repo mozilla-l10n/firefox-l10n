@@ -16,7 +16,7 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Mode Penjelajahan Pribadi)">
 
 <!ENTITY appmenu.tooltip                     "Buka menu">
-
+<!ENTITY navbarOverflow.label                "Alat lainnya…">
 <!-- Tab context menu -->
 
 <!ENTITY  reloadTab.label                    "Muat Ulang Tab">
@@ -703,9 +703,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded2 "Situs web ini mengandung konten yang tidak aman (misalnya, gambar).">
 
 
+<!ENTITY identity.description.activeLoaded2 "Informasi yang Anda bagikan dengan situs ini dapat dilihat oleh pihak lain (misalnya sandi, pesan, kartu kredit, dll.)">
 
-
-
+<!ENTITY identity.enableMixedContentBlocking.label "Aktifkan perlindungan">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "A">
 <!ENTITY identity.disableMixedContentBlocking.label "Nonaktifkan perlindungan untuk saat ini">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "N">
 <!ENTITY identity.learnMore "Pelajari Lebih Lanjut">
