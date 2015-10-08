@@ -8,13 +8,8 @@
 
 <!ENTITY  locationBar.label             "Bara di indirissi">
 
-<!ENTITY  locbar.pre.label              "Quande uzo a bara di indirissi, dinni:">
-<!ENTITY  locbar.pre.accessKey          "d">
-<!ENTITY  locbar.post.label             "">
-<!ENTITY  locbar.both.label             "Stöia e Segnalibbri">
 <!ENTITY  locbar.history.label          "Stöia">
 <!ENTITY  locbar.bookmarks.label        "Segnalibbri">
-<!ENTITY  locbar.nothing.label          "Ninte">
 
 
 <!ENTITY  acceptCookies.label           "Acetta i cookie da sti sciti">
@@ -74,13 +69,6 @@
 <!ENTITY  clearOnCloseSettings.label     "Inpostaçioin…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
-<!ENTITY dntTrackingNopref.label2 "No comunicâ nisciunn-a preferensa in sciô traciamento di dæti personali.">
-
-<!ENTITY dntTrackingNopref.accesskey "a">
-<!ENTITY dntTrackingNotOkay.label2 "Domanda a-i sciti de no fâ nisciun traciamento.">
-<!ENTITY dntTrackingNotOkay.accesskey "n">
-<!ENTITY dntTrackingOkay.label2 "Comunica a-i sciti che mi son disponibile a ese traciou.">
-<!ENTITY dntTrackingOkay.accesskey "i">
 <!ENTITY doNotTrackInfo.label "Atre informaçioin">
 
 <!ENTITY acceptThirdParty.always.label "de longo">
@@ -88,6 +76,36 @@
 <!ENTITY acceptThirdParty.pre.label "Acetta i cookie de terse parte:">
 <!ENTITY acceptThirdParty.pre.accesskey "t">
 <!ENTITY acceptThirdParty.visited.label "da-i sciti vixitæ">
+
+<!ENTITY changeBlockList.label "Seleçionn-a elenco">
+<!ENTITY changeBlockList.accesskey "l">
+
+<!ENTITY dntTrackingNotOkay4.label "Comunica a-i sciti vixitæ che mi no veuggio ese traciou">
+<!ENTITY dntTrackingNotOkay4.accesskey "a">
+<!ENTITY locbar.bookmarks.accesskey "b">
+<!ENTITY locbar.history.accesskey "n">
+<!ENTITY locbar.openpage.label "feuggi averti">
+<!ENTITY locbar.openpage.accesskey "g">
+<!ENTITY locbar.searches.label "riçerche corelæ dò-u motô de riçerca predefinio">
+<!ENTITY locbar.searches.accesskey "h">
+<!ENTITY locbar.suggest.label "Inta bara di indirissi fanni vedde conseggi da:">
+<!ENTITY suggestionSettings.accesskey "s">
+<!ENTITY trackingProtection5.label "Ativa a proteçion anti-traciamento">
+<!ENTITY trackingProtection5.accesskey "m">
+<!ENTITY trackingProtectionLearnMore.label "Atre informaçioin">
+<!ENTITY trackingProtectionPBM5.label "Ativa a proteçion anti-traciamento inta Navegaçion privâ">
+<!ENTITY trackingProtectionPBM5.accesskey "e">
+<!ENTITY trackingProtectionPBMLearnMore.label "Atre informaçioin">
+
+
+
+
+
+
+
+
+
+
 
 
 
