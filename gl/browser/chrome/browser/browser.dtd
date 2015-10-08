@@ -707,25 +707,25 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Está páxina está almacenada no computador.">
 <!ENTITY identity.connectionVerified1 "Está conectado en modo seguro a este sitio, xestionado por:">
 <!ENTITY identity.connectionInternal "Esta é unha páxina segura de &brandShortName;.">
-
+<!ENTITY identity.insecureLoginForms "A súa identificación podería estar comprometida.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; bloqueou partes desta páxina que non son seguras.">
-<!ENTITY identity.passiveLoaded "Partes desta páxina non son seguras (tales como imaxes).">
+<!ENTITY identity.passiveLoaded "Partes desta páxina non son seguras (como as imaxes).">
 <!ENTITY identity.activeLoaded "Desactivou a protección nesta páxina.">
 <!ENTITY identity.weakEncryption "Esta páxina usa cifrado débil.">
 
 <!-- Strings for connection state warnings in the subview. -->
 <!ENTITY identity.description.insecure "A conexión con este sitio non é privada. A información que envíe podería ser visíbel por outros (como contrasinais, mensaxes, tarxetas de crédito, etc.).">
-
+<!ENTITY identity.description.insecureLoginForms "A información de identificación que introduciu nesta páxina non é segura e podería estar comprometida.">
 <!ENTITY identity.description.weakCipher "A conexión con este sitio web usa un cifrado débil e non é privada.">
 <!ENTITY identity.description.weakCipher2 "Outras persoas poden ver a súa información ou modificar o comportamento do sitio web.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; bloqueou partes desta páxina que non son seguras.">
-
-<!ENTITY identity.description.passiveLoaded2 "Este sitio web contén contido que non é seguro (tales como imaxes).">
-
-
-
+<!ENTITY identity.description.passiveLoaded "A súa conexión non é privada e a información que comparte con este sitio podería ser visíbel por outros.">
+<!ENTITY identity.description.passiveLoaded2 "Este sitio web contén contido que non é seguro (como as imaxes).">
+<!ENTITY identity.description.passiveLoaded3 "Aínda que &brandShortName; bloqueou algún contido, aínda hai contido na páxina que non é seguro (como as imaxes).">
+<!ENTITY identity.description.activeLoaded "Este sitio web contén contido que non é seguro (como os scripts) e a súa conexión non é privada.">
+<!ENTITY identity.description.activeLoaded2 "A información que comparte con este sitio podería ser visíbel por outros (como contrasinais, mensaxes, tarxetas de crédito, etc.).">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Activar protección">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "e">
@@ -736,7 +736,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.moreInfoLinkText2 "Máis información">
 
 <!ENTITY identity.permissions "Permisos">
-
+<!ENTITY identity.permissionsEmpty "Non lle concedeu ningún permiso especial a este sitio.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -815,7 +815,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.title "Protección contra o seguimento">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; está bloqueando partes da páxina que poden seguir a súa actividade de navegación.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Este sitio inclúe elementos que poden seguir a súa actividade de navegación. Ten a protección desactivada.">
-
+<!ENTITY trackingProtection.notDetected3 "Non se detectaron elementos de seguimento nesta páxina.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
