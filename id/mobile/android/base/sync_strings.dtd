@@ -231,7 +231,7 @@
 <!ENTITY fxaccount_remove_account_toast "Akun Firefox &formatS; dihapus.">
 
 <!ENTITY fxaccount_remove_account_menu_item "Hapus Akun">
-
+<!ENTITY fxaccount_enable_debug_mode "Aktifkan Modus Debug">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 
