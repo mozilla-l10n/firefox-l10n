@@ -36,9 +36,9 @@
 
 <!ENTITY  acceptThirdParty.pre.label      "Akceptuj ciasteczka z innych witryn:">
 <!ENTITY  acceptThirdParty.pre.accesskey "n">
-<!ENTITY  acceptThirdParty.always.label   "Zawsze">
-<!ENTITY  acceptThirdParty.never.label    "Nigdy">
-<!ENTITY  acceptThirdParty.visited.label  "Z odwiedzonych">
+<!ENTITY acceptThirdParty.always.label "zawsze">
+<!ENTITY acceptThirdParty.never.label "nigdy">
+<!ENTITY acceptThirdParty.visited.label "z odwiedzonych">
 
 <!ENTITY  keepUntil.label               "Przechowuj:">
 <!ENTITY  keepUntil.accesskey           "h">
