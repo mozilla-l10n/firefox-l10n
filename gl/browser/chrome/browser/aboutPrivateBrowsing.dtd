@@ -14,20 +14,20 @@
      of the Tracking Protection section, and in general not much larger than
      30em to prevent the sections from wrapping on smaller window sizes.
      -->
-
+<!ENTITY aboutPrivateBrowsing.width1           "30em">
 <!ENTITY aboutPrivateBrowsing.title            "Está navegando de forma privada">
 
-
+<!ENTITY aboutPrivateBrowsing.info.notsaved    "Sen gardar">
 <!ENTITY aboutPrivateBrowsing.info.history     "Historial">
 <!ENTITY aboutPrivateBrowsing.info.searches    "Buscas">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Cookies">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Ficheiros temporais">
 
-
+<!ENTITY aboutPrivateBrowsing.info.saved       "Gardouse">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Descargas">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Marcadores">
 
-
+<!ENTITY aboutPrivateBrowsing.note1            "Teña en conta que o seu fornecedor de internet aínda pode saber as páxinas que vostede visita.">
 <!ENTITY aboutPrivateBrowsing.learnMore        "Máis información.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.width1):
@@ -38,18 +38,18 @@
      Note that the required space may vary between platforms because fonts are
      different, so testing on Windows, Mac, and Linux is encouraged.
      -->
-
+<!ENTITY trackingProtection.width1             "22em">
 <!ENTITY trackingProtection.title              "Protección contra o seguimento">
 
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
+<!ENTITY trackingProtection.state.width        "15ch">
+<!ENTITY trackingProtection.state.enabled      "ACTIVADA">
+<!ENTITY trackingProtection.state.disabled     "DESACTIVADA">
 
+<!ENTITY trackingProtection.description1       "As xanelas privadas agora bloquean partes da páxina que poden seguir a súa actividade de navegación.">
 
-
-
-
-
-
-
-
+<!ENTITY trackingProtection.disable            "Desactivar a protección contra seguimento">
+<!ENTITY trackingProtection.enable             "Activar a protección contra seguimento">
+<!ENTITY trackingProtection.startTour1         "Vexa como funciona">

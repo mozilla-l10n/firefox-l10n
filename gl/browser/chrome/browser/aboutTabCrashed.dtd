@@ -2,15 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
+<!ENTITY tabCrashed.header "As malas novas primeiro: esta lapela quebrou">
+<!ENTITY tabCrashed.message "Agora as boas novas: pode pechar esta lapela, restaurala ou restaurar todas as lapelas que quebraron.">
+<!ENTITY tabCrashed.sendReport "Envía un informe de erro para axudar a evitar máis malas novas">
 <!ENTITY tabCrashed.includeURL "Incluír o enderezo da páxina en que estaba">
 <!ENTITY tabCrashed.commentPlaceholder "Engadir un comentario (os comentarios son visíbeis publicamente)">
 <!ENTITY tabCrashed.emailPlaceholder "Introduza aquí o seu correo electrónico">
-
-
-
+<!ENTITY tabCrashed.emailMe "Enviarme un correo cando máis información estea dispoñíbel">
+<!ENTITY tabCrashed.crashReporter "Informador de erros de Mozilla">
+<!ENTITY tabCrashed.reportSent "Xa se enviou o informe de erro; grazas por axudar a mellorar &brandShortName;!">
 <!ENTITY tabCrashed.closeTab "Pechar esta lapela">
 <!ENTITY tabCrashed.restoreTab "Restaurar esta lapela">
 <!ENTITY tabCrashed.restoreAll "Restaurar todas as lapelas quebradas">
