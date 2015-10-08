@@ -46,6 +46,6 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.removeFile.accesskey "S">
 <!ENTITY cmd.unblock.label "Sblòcca">
 <!ENTITY cmd.unblock.accesskey "S">
-<!ENTITY downloadsPanelEmpty.label "Nisciun descaregamento pe sta seçion.">
+<!ENTITY downloadsPanelEmpty.label "Nisciun descaregamento pe sta sescion.">
 <!ENTITY learnMore.label "Pe saveine de ciù">
 

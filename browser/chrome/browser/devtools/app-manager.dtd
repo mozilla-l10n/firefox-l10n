@@ -9,7 +9,7 @@
 <!ENTITY device.screenshot "Föto do schermo">
 <!ENTITY device.screenshotTooltip "Arvi 'n neuvo feuggio co-a föto do schermo do stæto corente do dispoxitivo.">
 <!ENTITY device.title "Çentro contròllo dispoxitivo">
-<!ENTITY device.notConnected "No conesso. Conette 'n dispoxitivo inta seçion sotta.">
+<!ENTITY device.notConnected "No conesso. Conette 'n dispoxitivo inta sescion sotta.">
 <!ENTITY device.startApp "Inandia">
 <!ENTITY device.startAppTooltip "Inandia sta app in sciô dispoxitivo.">
 <!ENTITY device.stopApp "Blòcca">

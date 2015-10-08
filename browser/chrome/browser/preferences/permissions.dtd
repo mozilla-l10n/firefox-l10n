@@ -15,13 +15,14 @@
 <!ENTITY address.accesskey            "d">
 <!ENTITY block.label                  "Blòcco">
 <!ENTITY block.accesskey              "B">
-<!ENTITY session.label                "Permetti pe sta sescion">
+<!ENTITY session.label                "Permetti in sta sescion">
 <!ENTITY session.accesskey            "s">
 <!ENTITY allow.label                  "Permetti">
 <!ENTITY allow.accesskey              "P">
 <!ENTITY windowClose.key              "w">
 
-<!ENTITY button.close.label           "Særa">
-<!ENTITY button.close.accesskey       "S">
-
+<!ENTITY button.cancel.label "Anulla">
+<!ENTITY button.cancel.accesskey "A">
+<!ENTITY button.ok.label "Sarva cangiamenti">
+<!ENTITY button.ok.accesskey "S">
 

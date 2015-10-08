@@ -82,7 +82,6 @@
 <!ENTITY col.tags.label          "Etichette">
 <!ENTITY col.url.label           "Indirisso">
 <!ENTITY col.visitcount.label    "Numero de vixite">
-<!ENTITY col.keyword.label       "Paròlla ciave">
 <!ENTITY col.description.label   "Descriçion">
 <!ENTITY col.dateadded.label     "Azonto">
 <!ENTITY col.lastmodified.label  "Cangiou o">
@@ -121,4 +120,9 @@
 <!ENTITY byDayAndSite.label       "Pe dæta e scito">
 <!ENTITY byDayAndSite.accesskey   "t">
 <!ENTITY col.mostrecentvisit.label "Vixita ciù recente">
+
+<!ENTITY cmd.open_private_window.label "Arvi inte 'n neuva barcon anònimo">
+<!ENTITY cmd.open_private_window.accesskey "m">
+
+
 
