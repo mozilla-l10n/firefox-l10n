@@ -838,7 +838,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.unblock2.accesskey "A">
 <!ENTITY trackingContentBlocked.block.label "Galluogi diogelu">
 <!ENTITY trackingContentBlocked.block.accesskey "G">
-<!ENTITY trackingContentBlocked.disabled.message "Mae diogelwch rhag eich tracio wedi ei analluogi">
+<!ENTITY trackingContentBlocked.disabled.message "Mae diogelwch rhag tracio wedi ei analluogi">
 
 <!ENTITY pointerLock.notification.message "Pwyswch ESC ar unrhyw adeg i'w ddangos eto.">
 
