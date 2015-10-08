@@ -131,13 +131,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 <!ENTITY fullscreenWarning.beforeDomain.label "">
-
-
+<!ENTITY fullscreenWarning.afterDomain.label "está agora en pantalla completa">
+<!ENTITY fullscreenWarning.generic.label "Este documento está agora en pantalla completa">
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
-
-
+<!ENTITY exitDOMFullscreen.button "Saír de pantalla completa (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "Saír de pantalla completa (esc)">
 <!ENTITY leaveDOMFullScreen.label "Saír de pantalla completa">
 <!ENTITY leaveDOMFullScreen.accesskey "a">
 
@@ -229,8 +229,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.commandkey            "A">
 <!ENTITY webapps.label                "Aplicativos">
 <!ENTITY webapps.accesskey            "p">
-
-
+<!ENTITY loopMenuItem.label           "Iniciar unha conversación…">
+<!ENTITY loopMenuItem.accesskey       "h">
 
 <!ENTITY webDeveloperMenu.label       "Web Developer">
 <!ENTITY webDeveloperMenu.accesskey   "W">
@@ -310,16 +310,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Ficheiro"> 
 <!ENTITY fileMenu.accesskey       "F">
+<!ENTITY newUserContext.label             "Nova lapela contedor">
+<!ENTITY newUserContext.accesskey         "c">
+<!ENTITY userContextPersonal.label        "Persoal">
+<!ENTITY userContextPersonal.accesskey    "P">
+<!ENTITY userContextWork.label            "Traballo">
+<!ENTITY userContextWork.accesskey        "T">
 
 
-
-
-
-
-
-
-
-
+<!ENTITY userContextShopping.label        "Compras">
+<!ENTITY userContextShopping.accesskey    "s">
 <!ENTITY newNavigatorCmd.label        "Nova xanela">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -416,13 +416,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Cambiar á lapela:">
 
-
+<!ENTITY urlbar.searchSuggestionsNotification.question "Desexa mellorar a súa experiencia de buscar con suxestións?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Obter máis información…">
-
-
-
-
-
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "m">
+<!ENTITY urlbar.searchSuggestionsNotification.disable "Non">
+<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
+<!ENTITY urlbar.searchSuggestionsNotification.enable "Si">
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "i">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -479,10 +479,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Cambiar configuración da busca">
 
-
-
-
-
+<!ENTITY searchInNewTab.label         "Buscar nunha nova lapela">
+<!ENTITY searchInNewTab.accesskey     "B">
+<!ENTITY searchSetAsDefault.label     "Estabelecer como buscador predeterminado">
+<!ENTITY searchSetAsDefault.accesskey "d">
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -672,7 +672,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "c">
 
-
+<!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "Estilo de páxina">
 <!ENTITY pageStyleMenu.accesskey "E">
@@ -717,27 +717,27 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Conexión segura">
 <!ENTITY identity.connectionNotSecure "A conexión non é segura">
 <!ENTITY identity.connectionFile "Está páxina está almacenada no computador.">
-
+<!ENTITY identity.connectionVerified1 "Está conectado en modo seguro a este sitio, xestionado por:">
 <!ENTITY identity.connectionInternal "Esta é unha páxina segura de &brandShortName;.">
-
+<!ENTITY identity.insecureLoginForms "A súa identificación podería estar comprometida.">
 
 <!-- Strings for connection state warnings. -->
-
-
-
-
+<!ENTITY identity.activeBlocked "&brandShortName; bloqueou partes desta páxina que non son seguras.">
+<!ENTITY identity.passiveLoaded "Partes desta páxina non son seguras (como as imaxes).">
+<!ENTITY identity.activeLoaded "Desactivou a protección nesta páxina.">
+<!ENTITY identity.weakEncryption "Esta páxina usa cifrado débil.">
 
 <!-- Strings for connection state warnings in the subview. -->
-
-
-
-
-
-
-
-
-
-
+<!ENTITY identity.description.insecure "A conexión con este sitio non é privada. A información que envíe podería ser visíbel por outros (como contrasinais, mensaxes, tarxetas de crédito, etc.).">
+<!ENTITY identity.description.insecureLoginForms "A información de identificación que introduciu nesta páxina non é segura e podería estar comprometida.">
+<!ENTITY identity.description.weakCipher "A conexión con este sitio web usa un cifrado débil e non é privada.">
+<!ENTITY identity.description.weakCipher2 "Outras persoas poden ver a súa información ou modificar o comportamento do sitio web.">
+<!ENTITY identity.description.activeBlocked "&brandShortName; bloqueou partes desta páxina que non son seguras.">
+<!ENTITY identity.description.passiveLoaded "A súa conexión non é privada e a información que comparte con este sitio podería ser visíbel por outros.">
+<!ENTITY identity.description.passiveLoaded2 "Este sitio web contén contido que non é seguro (como as imaxes).">
+<!ENTITY identity.description.passiveLoaded3 "Aínda que &brandShortName; bloqueou algún contido, aínda hai contido na páxina que non é seguro (como as imaxes).">
+<!ENTITY identity.description.activeLoaded "Este sitio web contén contido que non é seguro (como os scripts) e a súa conexión non é privada.">
+<!ENTITY identity.description.activeLoaded2 "A información que comparte con este sitio podería ser visíbel por outros (como contrasinais, mensaxes, tarxetas de crédito, etc.).">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Activar protección">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "e">
@@ -748,7 +748,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.moreInfoLinkText2 "Máis información">
 
 <!ENTITY identity.permissions "Permisos">
-
+<!ENTITY identity.permissionsEmpty "Non lle concedeu ningún permiso especial a este sitio.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -759,8 +759,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
-
-
+<!ENTITY syncSignIn.label             "Acceder a &syncBrand.shortName.label;…">
+<!ENTITY syncSignIn.accesskey         "e">
 <!ENTITY syncSyncNowItem.label        "Sincronizar agora">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Volver a conectarse a &syncBrand.shortName.label;…">
@@ -825,9 +825,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Compartiranse todas as xanelas visíbeis na súa pantalla.">
 
 <!ENTITY trackingProtection.title "Protección contra o seguimento">
-
-
-
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; está bloqueando partes da páxina que poden seguir a súa actividade de navegación.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "Este sitio inclúe elementos que poden seguir a súa actividade de navegación. Ten a protección desactivada.">
+<!ENTITY trackingProtection.notDetected3 "Non se detectaron elementos de seguimento nesta páxina.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->

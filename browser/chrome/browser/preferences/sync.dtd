@@ -83,13 +83,13 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY welcome.useOldSync.label "Usa unha versión antiga de Sync?">
 
-
-
-
+<!ENTITY signedOut.caption            "Leve a Web con vostede">
+<!ENTITY signedOut.description        "Sincronice os marcadores, o historial, as lapelas, os contrasinais, os complementos e as preferencias en todos os seus dispositivos.">
+<!ENTITY signedOut.accountBox.title   "Conectar con &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Crear unha conta">
 <!ENTITY signedOut.accountBox.signin  "Identificarse">
 
-
+<!ENTITY signedIn.engines.label       "Sincronizar en todos os dispositivos">
 
 <!ENTITY mobilePromo.start            "Descargue Firefox para ">
 <!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->

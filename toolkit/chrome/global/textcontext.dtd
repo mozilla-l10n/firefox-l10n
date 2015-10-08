@@ -27,11 +27,11 @@
 
 <!ENTITY searchTextBox.clear.label "Limpar">
 
-
-
-
-
-
-
-
-
+<!ENTITY fillLoginMenu.label          "Cubrir identificación">
+<!ENTITY fillLoginMenu.accesskey      "f">
+<!ENTITY fillPasswordMenu.label       "Cubrir contrasinal">
+<!ENTITY fillPasswordMenu.accesskey   "b">
+<!ENTITY fillUsernameMenu.label       "Cubrir nome de usuario">
+<!ENTITY fillUsernameMenu.accesskey   "u">
+<!ENTITY noLoginSuggestions.label     "(Sen suxestións de identificación)">
+<!ENTITY viewSavedLogins.label        "Ver as identificacións gardadas">

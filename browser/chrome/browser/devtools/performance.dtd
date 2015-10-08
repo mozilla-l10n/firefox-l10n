@@ -70,15 +70,15 @@
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 <!ENTITY performanceUI.table.totalDuration            "Tempo total">
-
+<!ENTITY performanceUI.table.totalDuration.tooltip    "A cantidade de tempo gastada nesta función e nas funcións ás que chama.">
 <!ENTITY performanceUI.table.selfDuration             "Tempo individual">
-
+<!ENTITY performanceUI.table.selfDuration.tooltip     "A cantidade de tempo gastada só dentro desta función.">
 <!ENTITY performanceUI.table.totalPercentage          "Custe total">
-
+<!ENTITY performanceUI.table.totalPercentage.tooltip  "A porcentaxe de tempo gastada nesta función e nas funcións ás que chama.">
 <!ENTITY performanceUI.table.selfPercentage           "Custe individual">
-
-
-
+<!ENTITY performanceUI.table.selfPercentage.tooltip   "A porcentaxe de tempo gastada só dentro desta función.">
+<!ENTITY performanceUI.table.samples                  "Mostras">
+<!ENTITY performanceUI.table.samples.tooltip          "O número de veces que esta función estivo na pila cando o analizador tomou unha mostra.">
 <!ENTITY performanceUI.table.function                 "Función">
 
 
@@ -88,27 +88,27 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
-
+<!ENTITY performanceUI.options.filter.tooltiptext "Seleccione que datos amosar na cronoloxía">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.gear.tooltiptext): This is the
   -  tooltip for the options button. -->
-
+<!ENTITY performanceUI.options.gear.tooltiptext "Configurar preferencias de rendemento.">
 
 <!-- LOCALIZATION NOTE (performanceUI.invertTree): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's call tree. -->
-
-
+<!ENTITY performanceUI.invertTree             "Inverter árbore de chamadas">
+<!ENTITY performanceUI.invertTree.tooltiptext "Invertendo a árbore de chamadas amosa as rutas das chamadas analizadas comezando dende os marcos máis recentes e expandíndose ata as máis antigos.">
 
 <!-- LOCALIZATION NOTE (performanceUI.invertFlameGraph): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
-
-
+<!ENTITY performanceUI.invertFlameGraph             "Inverter gráfico de chamadas">
+<!ENTITY performanceUI.invertFlameGraph.tooltiptext "Invertendo o gráfico de chamadas amosa as rutas das chamadas analizadas comezando dende os marcos máis recentes e expandíndose ata as máis antigos.">
 
 <!-- LOCALIZATION NOTE (performanceUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
   -  is displayed in the profiler. -->
-
-
+<!ENTITY performanceUI.showPlatformData             "Amosar os datos da plataforma Gecko">
+<!ENTITY performanceUI.showPlatformData.tooltiptext "Amosar os datos da plataforma permite que os informes do analizador de JavaScript inclúan os símbolos da plataforma Gecko.">
 
 <!-- LOCALIZATION NOTE (performanceUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
@@ -119,40 +119,40 @@
 <!-- LOCALIZATION NOTE (performanceUI.enableMemory): This string
   -  is displayed next to a checkbox determining whether or not memory
   -  measurements are enabled. -->
-
-
+<!ENTITY performanceUI.enableMemory             "Gravar uso de memoria">
+<!ENTITY performanceUI.enableMemory.tooltiptext "Gravar o consumo de memoria durante a análise.">
 
 <!-- LOCALIZATION NOTE (performanceUI.enableAllocations): This string
   -  is displayed next to a checkbox determining whether or not allocation
   -  measurements are enabled. -->
-
-
+<!ENTITY performanceUI.enableAllocations             "Gravar asignacións">
+<!ENTITY performanceUI.enableAllocations.tooltiptext "Gravar asignacións de obxectos durante a análise.">
 
 <!-- LOCALIZATION NOTE (performanceUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
-
-
+<!ENTITY performanceUI.enableFramerate             "Gravar framerate">
+<!ENTITY performanceUI.enableFramerate.tooltiptext "Gravar a frecuencia de imaxes durante a análise.">
 
 <!-- LOCALIZATION NOTE (performanceUI.enableJITOptimizations): This string
   -  is displayed next to a checkbox determining whether or not JIT optimization data
   -  should be recorded. -->
-
-
+<!ENTITY performanceUI.enableJITOptimizations             "Gravar optimizacións JIT">
+<!ENTITY performanceUI.enableJITOptimizations.tooltiptext "Gravar os datos de optimización JIT tomados en cada marco JavaScript.">
 
 <!-- LOCALIZATION NOTE (performanceUI.JITOptimizationsTitle): This string
   -  is displayed as the title of the JIT Optimizations panel. -->
-
+<!ENTITY performanceUI.JITOptimizationsTitle "Optimizacións JIT">
 
 <!-- LOCALIZATION NOTE (performanceUI.console.recordingNoticeStart/recordingNoticeEnd):
   -  This string is displayed when a recording is selected that started via console.profile.
   -  Wraps the command used to start, like "Currently recording via console.profile("label")" -->
-
+<!ENTITY performanceUI.console.recordingNoticeStart "Gravando agora mediante">
 <!ENTITY performanceUI.console.recordingNoticeEnd   "">
 
 <!-- LOCALIZATION NOTE (performanceUI.console.stopCommandStart/stopCommandEnd):
   -  This string is displayed when a recording is selected that started via console.profile.
   -  Indicates how to stop the recording, wrapping the command, like
   -  "Stop recording by entering console.profileEnd("label") into the console." -->
-
-
+<!ENTITY performanceUI.console.stopCommandStart "Deter a gravación ao introducir">
+<!ENTITY performanceUI.console.stopCommandEnd   "na consola.">
