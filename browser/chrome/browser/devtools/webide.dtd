@@ -94,7 +94,7 @@
 <!ENTITY details_location "Localización">
 <!ENTITY details_manifestURL "ID do aplicativo">
 <!ENTITY details_removeProject_button "Retirar proxecto">
-
+<!ENTITY details_showPrepackageLog_button "Amosar rexistro previo ao empaquetado">
 
 <!-- New App -->
 <!ENTITY newAppWindowTitle "Novo aplicativo">
