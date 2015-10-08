@@ -110,7 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "A">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; లోనికి ప్రవేశించండి">
-
+<!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; అభీష్టాలు తెరువు">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; తిరిగి అనుసంధానించు">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; చేతనం">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; కాసేపట్లో సింక్రనించడం మొదలుపెడుతుంది.">
@@ -395,8 +395,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "టాబ్‌నకు మారుము:">
 
-
-
+<!ENTITY urlbar.searchSuggestionsNotification.question "వెతికేందుకై సలహాలు ఇస్తూ మీకు సహాయపడటాన్ని ఇష్టపడతారా?">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "మరింత తెలుసుకోండి…">
+<!ENTITY urlbar.searchSuggestionsNotification.disable "వద్దు">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "అవును">
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -425,6 +426,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
      These are set as the aria-label attribute for the search input box and
      submit button in the in-content search UI, to be used by screen readers. -->
+
+<!ENTITY contentSearchInput.label     "వెతకవలసిన ప్రశ్న">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
