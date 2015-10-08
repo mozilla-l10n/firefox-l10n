@@ -26,7 +26,7 @@
 <!ENTITY projectMenu_showPrefs_accesskey "e">
 <!ENTITY projectMenu_manageComponents_label "Xestionar compoñentes extra">
 <!ENTITY projectMenu_manageComponents_accesskey "m">
-
+<!ENTITY projectMenu_refreshTabs_label "Actualizar lapelas">
 
 <!ENTITY runtimeMenu_label "Tempo de execución">
 <!ENTITY runtimeMenu_accesskey "T">
@@ -95,7 +95,7 @@
 <!ENTITY details_location "Localización">
 <!ENTITY details_manifestURL "ID do aplicativo">
 <!ENTITY details_removeProject_button "Retirar proxecto">
-
+<!ENTITY details_showPrepackageLog_button "Amosar rexistro previo ao empaquetado">
 
 <!-- New App -->
 <!ENTITY newAppWindowTitle "Novo aplicativo">
