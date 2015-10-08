@@ -4,13 +4,13 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "Dirica matidi manyen">
-
+<!ENTITY newtab.customize.classic "Nyut kakube ni maloyo">
 
 
 
 <!ENTITY newtab.customize.title "Yik pot bukki manyen me dirica matidi">
 
-
+<!ENTITY newtab.customize.topsites "Nyut kakube ni maloyo">
 <!ENTITY newtab.customize.blank2 "Nyut pot buk ma tye nono">
 <!ENTITY newtab.undo.removedLabel "Kikwanyo cal matidi ni.">
 <!ENTITY newtab.undo.undoButton "Gony.">

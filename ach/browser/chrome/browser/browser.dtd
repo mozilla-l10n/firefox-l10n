@@ -110,7 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "w">
 
 <!ENTITY fxaSignIn.label "Dony iye &syncBrand.shortName.label;">
-
+<!ENTITY fxaSignedIn.tooltip "Yab ter me &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Nwo kube bot &syncBrand.shortName.label;">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; ki ye">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; bi cako tic marom will begin syncing i cawa manok.">
@@ -810,7 +810,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.message "Lubo">
 <!ENTITY trackingContentBlocked.moreinfo "Kigengo woko but pot buk ma lubo kor tici me wi yamo.">
 <!ENTITY trackingContentBlocked.learnMore "Nong ngec mapol">
-
+<!ENTITY trackingContentBlocked.options "Gin ayera">
 <!ENTITY trackingContentBlocked.unblock2.label "Juk gwokke pi kakube man">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "J">
 <!ENTITY trackingContentBlocked.block.label "Cak gwoke">
@@ -880,6 +880,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "P">
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 
+<!ENTITY saveToPocketCmd.label     "Gwok potbuk i Pocket">
+<!ENTITY saveToPocketCmd.accesskey "k">
 <!ENTITY saveLinkToPocketCmd.label     "Gwok kakube iye Pocket">
 <!ENTITY saveLinkToPocketCmd.accesskey "y">
 <!ENTITY pocketMenuitem.label      "Nen jami ma i Pocket">

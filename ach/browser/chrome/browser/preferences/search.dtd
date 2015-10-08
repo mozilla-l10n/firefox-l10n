@@ -11,7 +11,8 @@
 
 
 
-
+<!ENTITY redirectWindowsSearch.label "Tii ki ingin yeny man pi yeny ki i Dirica">
+<!ENTITY redirectWindowsSearch.accesskey "D">
 
 <!ENTITY oneClickSearchEngines.label           "Ingin me yeny ma idiyo kicel">
 
