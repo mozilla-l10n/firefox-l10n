@@ -28,7 +28,6 @@
 <!ENTITY  font.langGroup.trad-chinese-hk          "Cineize tradiçionâ (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "Corean">
 <!ENTITY  font.langGroup.cyrillic                 "Cirilico">
-<!ENTITY  font.langGroup.baltic                   "Baltico">
 <!ENTITY  font.langGroup.el                       "Grego">
 <!ENTITY  font.langGroup.thai                     "Tailandeize">
 <!ENTITY  font.langGroup.hebrew                   "Ebraico">
@@ -61,7 +60,6 @@
 <!ENTITY  allowPagesToUse.label                   "Permetti a-e pagine de çerne o seu caratere invece da mæ seleçion">
 <!ENTITY  allowPagesToUse.accesskey               "m">
 
-<!ENTITY languages.customize.Fallback.grouplabel "Codifica carateri pe contegnui vegi">
 <!ENTITY languages.customize.Fallback.auto "Predefinia pe-a lengoa corente">
 <!ENTITY languages.customize.Fallback.arabic "Arabo">
 <!ENTITY languages.customize.Fallback.baltic "Baltico">
