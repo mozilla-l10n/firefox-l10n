@@ -24,11 +24,9 @@
 <!ENTITY  generalReferrer       "Riferio a-a URL:">
 <!ENTITY  generalSource         "Sorgente cache:">
 <!ENTITY  generalModified       "Modificou">
-<!ENTITY  generalEncoding       "Codifica:">
+<!ENTITY generalEncoding2 		"Codifica testo:">
 <!ENTITY  generalMetaName       "Nomme">
 <!ENTITY  generalMetaContent    "Contegnuo">
-<!ENTITY  generalSecurityDetails   "Detalli">
-<!ENTITY  generalSecurityDetails.accesskey "D">
 
 <!ENTITY  mediaTab              "Media">
 <!ENTITY  mediaTab.accesskey    "M">
@@ -67,7 +65,6 @@
 
 <!ENTITY  securityTab           "Seguessa">
 <!ENTITY  securityTab.accesskey "S">
-<!ENTITY  securityHeader        "Informaçioin de seguessa pe sta pagina">
 <!ENTITY  securityView.certView "Fanni vedde o certificato">
 <!ENTITY  securityView.accesskey "V">
 <!ENTITY  securityView.unknown   "no conosciuo">
@@ -79,14 +76,14 @@
 <!ENTITY  securityView.identity.verifier "Verificou da:">
 
 <!ENTITY  securityView.privacy.header                   "Privacy &amp; stöia">
-<!ENTITY  securityView.privacy.history                  "Ò za vixitou sto scito primma de ancheu?">
+<!ENTITY  securityView.privacy.history                  "T'æ za vixitou sto scito primma de ancheu?">
 <!ENTITY  securityView.privacy.cookies                  "Sto scito web o sarva informaçioin (cookie) in sciô mæ computer?">
 <!ENTITY  securityView.privacy.viewCookies              "Fanni vedde i cookie">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
-<!ENTITY  securityView.privacy.passwords                "Gh'ò de paròlle segrette sarvæ pe sto scito?">
-<!ENTITY  securityView.privacy.viewPasswords            "Fanni vedde e paròlle segrette sarvæ">
+<!ENTITY  securityView.privacy.passwords                "Gh'ò de paròlle segrete sarvæ pe sto scito?">
+<!ENTITY  securityView.privacy.viewPasswords            "Fanni vedde e paròlle segrete sarvæ">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "v">
 
 <!ENTITY  securityView.technical.header                 "Detalli Tecnichi">
-
+<!ENTITY helpButton.label "Goidda">
 

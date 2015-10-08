@@ -26,14 +26,6 @@
 <!ENTITY checkSpelling.label             "Contròlla o mæ testo intanto che scrivo">
 <!ENTITY checkSpelling.accesskey         "t">
 
-<!ENTITY systemDefaults.label            "Predefinio do scistema
-">
-<!ENTITY alwaysCheckDefault.label        "Inte l'avertua contròlla de longo se o &brandShortName; o l'é o navegatô predefinio"><!--XXX-->
-<!ENTITY alwaysCheckDefault.accesskey    "i">
-<!ENTITY isDefault.label "&brandShortName; o l'é o teu navegatô predefinio">
-<!ENTITY setDefault.label "Metti &brandShortName; comme navegatô predefinio">
-<!ENTITY setDefault.accesskey "o">
-
 <!ENTITY networkTab.label                "Ræ de lou">
 
 <!ENTITY connection.label                "Conescion">
@@ -103,31 +95,23 @@
 <!ENTITY certs.ask.accesskey             "D">
 <!ENTITY viewCerts.label                 "Fanni vedde certificati">
 <!ENTITY viewCerts.accesskey             "F">
-<!ENTITY verify2.label                   "Validaçion">
-<!ENTITY verify2.accesskey               "V">
 <!ENTITY viewSecurityDevices.label       "Aparati">
 <!ENTITY viewSecurityDevices.accesskey   "p">
 
 <!ENTITY crashReporterDesc.label "Manda a &vendorShortName; segnalaçioin relative a fermæ anòmale de &brandShortName; pe megiorane a stabilitæ e-a seguessa">
 <!ENTITY crashReporterLearnMore.label "Atre informaçioin">
-<!ENTITY crashReporterSection.label "Segnalaçioin fermæ anòmale">
 <!ENTITY dataChoicesTab.label "Condivixon dæti">
 <!ENTITY enableCrashReporter.label "Ativa segnalaçion fermæ anòmale">
 <!ENTITY enableCrashReporter.accesskey "s">
 <!ENTITY enableHealthReport.label "Ativa valutaçion d'integritæ de &brandShortName;">
 <!ENTITY enableHealthReport.accesskey "v">
-<!ENTITY enableTelemetry.label "Ativa telemetria">
-<!ENTITY enableTelemetry.accesskey "t">
 <!ENTITY healthReportDesc.label "Analizza e prestaçioin do navegatô e condividdi informaçioin con &vendorShortName; in sciô stæto d'integritæ do software">
 <!ENTITY healthReportLearnMore.label "Atre informaçioin">
-<!ENTITY healthReportSection.label "Valutaçion d'integritæ de &brandShortName;">
 <!ENTITY telemetryDesc.label "Condividdi con &vendorShortName; informaçioin in sce prestaçioin, uzo , hardware e personalizaçioin do navegatô pe contribuî a-o megioramento de &brandShortName;">
 <!ENTITY telemetryLearnMore.label "Atre informaçioin">
-<!ENTITY telemetrySection.label "Telemetria">
-
-<!ENTITY updateAutoMetro.label "Installa aotomaticamente i agiornamPnti pe verscion desktop e Windows 8 de &brandShortName;">
-<!ENTITY updateAutoMetro.accesskey "W">
-<!ENTITY updateAutoMetroWarn.label "(a verscion pe Windows 8 de &brandShortName; a no contròlla a conpatibilitæ di conponenti azonti)">
-
-
+<!ENTITY certSelection.label "Domande">
+<!ENTITY enableOCSP.label "Domanda a-i risponditoî OCSP pe confermâ a validitæ di certificati oua">
+<!ENTITY enableOCSP.accesskey "o">
+<!ENTITY enableTelemetryData.label "Condividdi atri dæti (telemetria)">
+<!ENTITY enableTelemetryData.accesskey "t">
 

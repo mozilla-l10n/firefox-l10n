@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  fontsDialog.title                       "Caratere">
-<!ENTITY  window.width                            "39em">
-<!ENTITY  window.macWidth                         "43em">
-<!ENTITY  window.unixWidth                        "41em">
 
 <!ENTITY  language.label                          "Caratere pe:">
 <!ENTITY  language.accesskey                      "C">
@@ -16,16 +13,15 @@
 
 <!ENTITY  proportional.label                      "In proporçion:">
 <!ENTITY  proportional.accesskey                  "p">
-
+<!ENTITY font.langGroup.other 					  "Atri scistemi de scritua">
 <!ENTITY  serif.label                             "Serif:">
 <!ENTITY  serif.accesskey                         "f">
 <!ENTITY  sans-serif.label                        "Sans-serif:">
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Scingolo spaçio:">
 <!ENTITY  monospace.accesskey                     "S">
-
-<!ENTITY  font.langGroup.latin1                   "Ponentin">
-<!ENTITY  font.langGroup.latin2                   "Ouröpa centrale">
+<!ENTITY  font.langGroup.math 				      "Matematica">
+<!ENTITY font.langGroup.latin 					  "Latino (ponente)">
 <!ENTITY  font.langGroup.japanese                 "Giaponeize">
 <!ENTITY  font.langGroup.trad-chinese             "Cineize tradiçionâ (Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Cineize senplificou">
@@ -34,9 +30,6 @@
 <!ENTITY  font.langGroup.cyrillic                 "Cirilico">
 <!ENTITY  font.langGroup.baltic                   "Baltico">
 <!ENTITY  font.langGroup.el                       "Grego">
-<!ENTITY  font.langGroup.turkish                  "Turco">
-<!ENTITY  font.langGroup.unicode                  "Atre lengoe">
-<!ENTITY  font.langGroup.user-def                 "Definio da-o utilizatô">
 <!ENTITY  font.langGroup.thai                     "Tailandeize">
 <!ENTITY  font.langGroup.hebrew                   "Ebraico">
 <!ENTITY  font.langGroup.arabic                   "Arabo">
@@ -68,10 +61,6 @@
 <!ENTITY  allowPagesToUse.label                   "Permetti a-e pagine de çerne o seu caratere invece da mæ seleçion">
 <!ENTITY  allowPagesToUse.accesskey               "m">
 
-<!ENTITY languages.customize.Fallback.grouplabel "Codifica carateri pe-i contegnui vegi">
-<!ENTITY languages.customize.Fallback.label "Codifica carateri da adeuvia:">
-<!ENTITY languages.customize.Fallback.accesskey "o">
-<!ENTITY languages.customize.Fallback.desc "Sta codifica carateri a vegne adeuviâ pe contegnui vegi che no specifican 'na pròpia codifica.">
 <!ENTITY languages.customize.Fallback.grouplabel "Codifica carateri pe contegnui vegi">
 <!ENTITY languages.customize.Fallback.auto "Predefinia pe-a lengoa corente">
 <!ENTITY languages.customize.Fallback.arabic "Arabo">
@@ -90,7 +79,8 @@
 <!ENTITY languages.customize.Fallback.vietnamese "Vietnamitta">
 <!ENTITY languages.customize.Fallback.other "Atro (incl. Ouröpa ponentinn-a)">
 
-
-
-
+<!ENTITY languages.customize.Fallback2.grouplabel "Codifica do testo pe contegui vegi">
+<!ENTITY languages.customize.Fallback2.label "Codifica do testo da deuviâ:">
+<!ENTITY languages.customize.Fallback2.accesskey "o">
+<!ENTITY languages.customize.Fallback2.desc "Sta codifica do testo a vegne adeuviâ pe contegnui vegi che no gh'an na pròpra codifica.">
 

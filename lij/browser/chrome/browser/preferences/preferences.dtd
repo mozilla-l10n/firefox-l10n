@@ -19,8 +19,8 @@
 <!ENTITY  paneSecurity.title      "Seguessa">
 <!ENTITY  paneAdvanced.title      "Avansæ">
 
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync.title          "Sync">
-<!ENTITY buttonForward.tooltip "Vanni avanti de 'na pagina">
-<!ENTITY buttonBack.tooltip "Vanni inderê de 'na pagina">
+<!ENTITY helpButton.label "Goidda">
+<!ENTITY paneSearch.title "Riçerca">
+<!ENTITY prefWindow.titleGNOME "Preferense de &brandShortName;">
 

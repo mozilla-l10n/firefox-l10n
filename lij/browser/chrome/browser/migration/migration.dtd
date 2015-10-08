@@ -5,8 +5,8 @@
 
 <!ENTITY migrationWizard.title          "Proçedua goidâ de inportaçion">
 
-<!ENTITY importFrom.label               "Inportaçion de preferense, segnalibbri, stöia, paròlle segrette e atri dæti da:">
-<!ENTITY importFromUnix.label           "Inpòrta preferense, segnalibbri, stöia, paròlle segrette e atri dæti da:">
+<!ENTITY importFrom.label               "Inportaçion de preferense, segnalibbri, stöia, paròlle segrete e atri dæti da:">
+<!ENTITY importFromUnix.label           "Inpòrta preferense, segnalibbri, stöia, paròlle segrete e atri dæti da:">
 <!ENTITY importFromBookmarks.label      "Inpòrta segnalibbri da:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
@@ -21,7 +21,7 @@
 <!ENTITY importFromFirefox.accesskey    "X">
 
 
-<!ENTITY noMigrationSources.label       "Nisciunn-a aplicaçion che a contegne di segnalibbri, stöia ò paròlle segrette peu ese trova.">
+<!ENTITY noMigrationSources.label       "Nisciunn-a aplicaçion che a contegne di segnalibbri, stöia ò paròlle segrete peu ese trova.">
 
 <!ENTITY importSource.title             "Inportaçion de preferense e dæti">
 <!ENTITY importItems.title              "Ògetti da inportâ">
@@ -34,6 +34,18 @@
 <!ENTITY selectProfile.label            "Sti profî se peuan inportâ da:">
 
 <!ENTITY done.title                     "Inportaçion terminâ">
-<!ENTITY done.label                     "Questi ògetti son stæti inportæ:">
+<!ENTITY done.label                     "Sti ògetti son stæti inportæ:">
+
+<!ENTITY closeSourceBrowser.label "Aseguase ch' navegatô seleçionou o segge serou primma de anâ avanti.">
+<!ENTITY importFrom360se.label "360 Secure Browser">
+<!ENTITY importFrom360se.accesskey "3">
+<!ENTITY importFromCanary.label "Chrome Canary">
+<!ENTITY importFromCanary.accesskey "h">
+<!ENTITY importFromChromium.label "Chromium">
+<!ENTITY importFromChromium.accesskey "u">
+<!ENTITY importFromEdge.label "Microsoft Edge">
+<!ENTITY importFromEdge.accesskey "E">
+
+
 
 

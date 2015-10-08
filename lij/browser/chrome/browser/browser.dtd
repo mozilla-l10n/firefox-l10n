@@ -681,7 +681,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY appMenuHistory.label "Stöia">
 <!ENTITY appMenuHistory.showAll.label "Veddi a stöia">
 <!ENTITY appMenuHistory.clearRecent.label "Scancella a stöia ciù neuva…">
-<!ENTITY appMenuHistory.restoreSession.label "Repiggia a seçion primma">
+<!ENTITY appMenuHistory.restoreSession.label "Repiggia a sescion primma">
 <!ENTITY appMenuHistory.viewSidebar.label "Veddi a bara de scianco stöia">
 <!ENTITY appMenuHelp.tooltip "Arvi a guidda">
 <!ENTITY appmenu.tooltip "Arvi menû">
