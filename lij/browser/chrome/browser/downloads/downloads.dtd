@@ -41,3 +41,11 @@ file names and tall enough to hint that there are more downloads in the list -->
 
 <!ENTITY cmd.removeFromHistory.label "Scancella da-a stöia">
 <!ENTITY cmd.removeFromHistory.accesskey "n">
+<!ENTITY blocked.label "BLOCOU">
+<!ENTITY cmd.removeFile.label "Scancella file">
+<!ENTITY cmd.removeFile.accesskey "S">
+<!ENTITY cmd.unblock.label "Sblòcca">
+<!ENTITY cmd.unblock.accesskey "S">
+<!ENTITY downloadsPanelEmpty.label "Nisciun descaregamento pe sta seçion.">
+<!ENTITY learnMore.label "Pe saveine de ciù">
+

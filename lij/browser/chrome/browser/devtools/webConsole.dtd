@@ -25,6 +25,7 @@
 <!ENTITY btnConsoleWarnings "Avizi">
 <!ENTITY btnConsoleLog "Registro">
 <!ENTITY btnClear.label "Scancella">
+<!ENTITY btnServerLog "Diario">
 <!ENTITY btnClear.accesskey "n">
 <!ENTITY btnClear.tooltip "Scancella o contegnuo da Console web">
 <!ENTITY fullZoomEnlargeCmd.commandkey "+">
