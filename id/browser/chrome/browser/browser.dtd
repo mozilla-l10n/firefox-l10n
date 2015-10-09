@@ -110,7 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "S">
 
 <!ENTITY fxaSignIn.label "Masuk ke &syncBrand.shortName.label;">
-
+<!ENTITY fxaSignedIn.tooltip "Buka preferensi &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Sambungkan ulang ke &syncBrand.shortName.label;">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; diaktifkan">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; akan memulai penyinkronan sesaat lagi.">
@@ -395,6 +395,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Pindah ke tab:">
 
+<!ENTITY urlbar.searchSuggestionsNotification.question "Ingin meningkatkan pengalaman pencarian Anda dengan saran?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Pelajari lebih lanjut…">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Tidak">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Ya">
@@ -641,6 +642,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "u">
 
+<!ENTITY toggleMuteCmd.key              "S">
 
 <!ENTITY pageStyleMenu.label "Gaya Laman">
 <!ENTITY pageStyleMenu.accesskey "G">
@@ -699,10 +701,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.weakCipher "Koneksi Anda ke situs web ini menggunakan enkripsi lemah dan tidak privat.">
 <!ENTITY identity.description.weakCipher2 "Orang lain dapat melihat informasi Anda atau memodifikasi perilaku situs web ini.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; telah memblokir bagian dari laman ini yang tidak aman.">
-
+<!ENTITY identity.description.passiveLoaded "Sambungan Anda tidak privat dan informasi yang Anda bagikan dengan situs ini dapat dilihat oleh pihak lain.">
 <!ENTITY identity.description.passiveLoaded2 "Situs web ini mengandung konten yang tidak aman (misalnya, gambar).">
 
-
+<!ENTITY identity.description.activeLoaded "Situs web ini mengandung konten yang tidak aman (misalnya skrip) dan sambungan Anda tidak privat.">
 <!ENTITY identity.description.activeLoaded2 "Informasi yang Anda bagikan dengan situs ini dapat dilihat oleh pihak lain (misalnya sandi, pesan, kartu kredit, dll.)">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Aktifkan perlindungan">
@@ -791,7 +793,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.title "Perlindungan Pelacakan">
 
-
+<!ENTITY trackingProtection.detectedNotBlocked3 "Situs ini mengandung elemen yang mungkin melacak penjelajahan Anda. Anda telah menonaktifkan perlindungan.">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
