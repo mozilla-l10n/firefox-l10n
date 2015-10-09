@@ -98,7 +98,7 @@
 <!ENTITY cmd.askToActivate.tooltip            "هربار برای استفاده از این افزونه درخواست اجازه کن">
 <!ENTITY cmd.alwaysActivate.label             "فعال‌سازی همیشگی">
 <!ENTITY cmd.alwaysActivate.tooltip           "همیشه از این افزونه استفاده کن">
-<!ENTITY cmd.neverActivate.label              "هرگز فعال‌سازی نکن">
+<!ENTITY cmd.neverActivate.label              "هرگز فعال نشود">
 <!ENTITY cmd.neverActivate.tooltip            "هرگز از این افزونه استفاده نکن">
 <!ENTITY cmd.stateMenu.tooltip                "زمانی که این افزونه اجرا میشود تغییرکن">
 <!ENTITY cmd.installAddon.label               "نصب">
