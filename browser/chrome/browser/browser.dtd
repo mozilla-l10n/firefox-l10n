@@ -610,7 +610,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.toggleNotifications.accesskey "n">
 
 <!ENTITY newPrivateWindow.accesskey "u">
-<!ENTITY newPrivateWindow.label "Neuvo barcon anònimo">
+<!ENTITY newPrivateWindow.label "Neuvo barcon privou">
 <!ENTITY remoteWebConsoleCmd.label "Console web remòtta">
 <!ENTITY social.chatBar.commandkey "c">
 
