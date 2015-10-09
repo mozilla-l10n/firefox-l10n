@@ -585,7 +585,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixed_content_blocked_all1 "&brandShortName;ने या पानावर असुरक्षित आशय अडवले.">
 <!ENTITY mixed_content_blocked_some1 "&brandShortName; ने या पानावर काही असुरक्षित आशय अडवला आहे.">
 <!ENTITY mixed_content_display_loaded1 "या पृष्ठावरील काही भाग (उदा. प्रतिमा) सुरक्षित नाही.">
-
+<!ENTITY mixed_content_protection_disabled1 "असुरक्षित आशयापासुन आपण सुरक्षा निष्क्रिय केली आहे.">
 <!-- Tracking content notifications in site identity popup -->
 
 <!ENTITY doorhanger_tracking_title "सुरक्षेचा मागोवा">
@@ -694,6 +694,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY find_matchcase "Aa">
 
+<!ENTITY intent_uri_cannot_open "दुवा उघडत नाही">
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
      above a QR reader that is actively scanning for QR codes.  The expected QR
