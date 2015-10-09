@@ -27,7 +27,7 @@
 <!ENTITY useSubdirRadio.label         "Використовувати цю підтеку сайта:">
 <!ENTITY useSubdirRadio.accesskey     "п">
 <!ENTITY useSubdirRadio.tooltip       "Опублікувати файли у вказаний віддалений підкаталог">
-<!ENTITY otherDirList.tooltip         "Choose or enter name of remote subdirectory where files will be published">
+<!ENTITY otherDirList.tooltip         "Оберіть або введіть назву віддаленого підкаталогу, де будуть опубліковані файли">
 <!ENTITY pageTitle.label              "Найва сторінки:">
 <!ENTITY pageTitle.accesskey          "Н">
 <!ENTITY pageTitle.tooltip            "Введіть назву для ідентифікації сторінки в вікні браузера та в закладках">

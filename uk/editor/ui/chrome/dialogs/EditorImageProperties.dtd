@@ -67,7 +67,7 @@
 <!ENTITY showImageLinkBorder.label "Показувати межу навколо зображення, що містить посилання">
 <!ENTITY showImageLinkBorder.accessKey "м">
 <!ENTITY LinkAdvancedEditButton.label "Посилання додаткового редагування…">
-<!ENTITY LinkAdvancedEditButton.accessKey "L">
+<!ENTITY LinkAdvancedEditButton.accessKey "г">
 <!ENTITY LinkAdvancedEditButton.tooltip "Додати або змінити атрибути HTML, атрибути стилю, та JavaScript">
 
 <!-- These tabs are currently used in the image input dialog -->
