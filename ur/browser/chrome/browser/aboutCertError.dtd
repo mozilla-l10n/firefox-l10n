@@ -23,7 +23,10 @@ was trying to connect. -->
 <!ENTITY certerror.whatShouldIDo.content "اگر آپ اکثر اس ویب سائٹ کو استعمال کرتے ہیں تو
 اس خرابی کا مطلب ہے کوئی آپ کا بہروپ
 دھارنا چاہ رہا ہے، اور آپ مزید آگے نہ جائیں    ">
-
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "یہ سائٹ HTTP 
+ کا استعمال کرتی ہےسخت ٹرانسپورٹ سیکورٹی (HSTS) کہ اور &brandShortName; کی وضاحت کرنے کے لئے صرف رابطہ قائم 
+ کرنے کے لئے محفوظ طریقے سے۔ اس کے نتیجے میں، اس سرٹیفکیٹ کے لئے استثنا شامل کرنا 
+ ممکن نہیں ہے۔">
 <!ENTITY certerror.getMeOutOfHere.label "مجھے یہاں سے باہر نکالو!">
 
 <!ENTITY certerror.expert.heading "مجھے خطروں کی پہچان ہے">

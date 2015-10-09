@@ -6,6 +6,7 @@
 <!ENTITY window.width                     "36em">
 
 
+<!ENTITY noTranslationForLanguages.label  "ترجمہ مندرجہ ذیل زبانوں کے لئے پیش نہیں کیا جائے گا:">
 <!ENTITY treehead.languageName.label      "زبانیں">
 
 
