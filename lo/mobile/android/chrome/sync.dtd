@@ -1,0 +1,31 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY sync.title                 "Sync">
+<!ENTITY sync.notconnected          "ບໍ່ໄດ້ເຊື່ອມຕໍ່">
+<!ENTITY sync.connect               "ເຊື່ອມຕໍ່">
+<!ENTITY sync.connected             "ເຊື່ອມຕໍ່ຢູ່">
+<!ENTITY sync.details               "ລາຍລະອຽດ">
+<!ENTITY sync.deviceName            "ອຸປະກອນນີ້">
+<!ENTITY sync.disconnect            "ຕັດການເຊື່ອມຕໍ່">
+<!ENTITY sync.syncNow               "Sync ທັນທີ">
+
+<!ENTITY sync.setup.title           "ເຊື່ອມຕໍ່ກັບ Sync">
+<!ENTITY sync.setup.pair            "ເພື່ອເປີດໃຊ້ງານ, ເລືອກ “ເຊື່ອມໂຍງອຸປະກອນ” ໃນອຸປະກອນອື່ນໆຂອງທ່ານ.">
+<!ENTITY sync.fallback              "ຄອມພິວເຕີຂອງຂ້ອຍບໍ່ໄດ້ຢູ່ແຖວນີ້…">
+<!ENTITY sync.setup.manual          "ປ້ອນລາຍລະອຽດບັນຊີຜູ້ໃຊ້ Sync ຂອງທ່ານ">
+<!ENTITY sync.account               "ຊື່ບັນຊີ">
+<!ENTITY sync.password              "ລະຫັດຜ່ານ">
+<!ENTITY sync.recoveryKey           "ຄີສຳລັບການກູ້ຄືນ">
+<!ENTITY sync.customServer          "ໃຊ້ເຄື່ອງແມ່ຂ່າຍທີ່ກຳນົດເອງ">
+<!ENTITY sync.serverURL             "URL ຂອງເຄື່ອງແມ່ຂ່າຍ">
+<!ENTITY sync.setup.connect         "ເຊື່ອມຕໍ່">
+<!ENTITY sync.setup.cancel          "ຍົກເລີກ">
+<!ENTITY sync.setup.tutorial        "ບອກວິທີເຮັດໃຫ້ຂ້ອຍຮູ້">
+<!ENTITY sync.setup.waiting2        "ກຳລັງລໍຖ້າອຸປະກອນອື່ນໆ…">
+
+<!ENTITY sync.pair.title            "ຈັບຄູ່ອຸປະກອນ">
+<!ENTITY sync.pair.description      "ເພື່ອເລີ່ມໃຊ້ງານອຸປະກອນໃຫມ່ຂອງທ່ານ, ໃຫ້ເລືອກ &quot;ຕິດຕັ້ງ Sync&quot; ໃນອຸປະກອນ.">
+<!ENTITY sync.setup.close           "ອອກ">
+<!ENTITY sync.setup.waitingdownload "ຂໍ້ມູນຂອງທ່ານກຳລັງຖືກດາວໂຫລດຢູ່ໃນເບື້ອງຫລັງ. ທ່ານສາມາດປິດຫນ້າຕ່າງນີ້ຕອນໃດກໍໄດ້.">

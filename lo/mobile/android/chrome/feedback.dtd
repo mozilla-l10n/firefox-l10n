@@ -1,0 +1,15 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY feedbackHeader2.label          "ເຄື່ອງມືສຳລັບຄໍາຄຶດຄໍາເຫັນ">
+
+<!ENTITY feedback.communicate.title     "ຕິດຕໍ່ຫາພວກເຮົາ!">
+<!ENTITY feedback.feedback.title        "ໃຫ້ຄຳແນະນຳ">
+<!ENTITY feedback.feedback.good         "ດີ">
+<!ENTITY feedback.feedback.bad          "ບໍ່ດີ">
+
+<!ENTITY feedback.tools.title           "ເຄື່ອງມື">
+<!ENTITY feedback.allowTelemetry.title  "ສົ່ງຂໍ້ມູນປະສິດທິພາບການເຮັດວຽກ">
+<!ENTITY feedback.forceCompat.title     "ບັງຄັບຄວາມເຂົ້າກັນໄດ້ຂອງ Add-ons">
+<!ENTITY feedback.errorConsole.title    "ເປີດໃຊ້ງານຄອນໂຊລຂໍ້ຜິດພາດ">

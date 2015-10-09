@@ -1,0 +1,272 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Don't localize these. They're here until they have
+     a better place to live. -->
+
+<!ENTITY syncBrand.fullName.label "Sync ໄຟຟັອກ">
+<!ENTITY syncBrand.shortName.label "ເກີດຂື້ນພ້ອມກັນ">
+<!-- Main titles. -->
+
+<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
+<!ENTITY sync.title.connect.label "ເຊື່ອມຕໍ່ກັບ &syncBrand.shortName.label;">
+<!ENTITY sync.title.adddevice.label "ເພີ່ມ &syncBrand.fullName.label; ບັນຊີ">
+<!ENTITY sync.title.pair.label "ຈັບຄູ່ອຸປະກອນ">
+<!-- J-PAKE Key Screen -->
+
+<!ENTITY sync.subtitle.connect.label "ເພື່ອເປີດໃຊ້ງານອຸປະກອນໃຫມ່ຂອງທ່ານ, ເລືອກ “ຕິດຕັ້ງ &syncBrand.shortName.label;” ໃນອຸປະກອນ.">
+<!ENTITY sync.subtitle.header2.label "ກະລຸນາໃສ່ລະຫັດນີ້ໃນອຸປະກອນອື່ນໆຂອງທ່ານ">
+<!ENTITY sync.subtitle.connectlocation2.label "ເລືອກ “&sync.title.pair.label;” ໃນ &syncBrand.shortName.label; ໃນການເລືອກການຕັ້ງຄ່າໃນອຸປະກອນອື່ນໆຂອງທ່ານ">
+<!ENTITY sync.subtitle.pair.label "ເພື່ອເປີດໃຊ້ງານ, ເລືອກ “ຈັບຄູ່ອຸປະກອນ” ໃນອຸປະກອນອື່ນໆຂອງທ່ານ.">
+<!ENTITY sync.pin.default.label "...\n...\n...\n">
+<!ENTITY sync.pin.oneline.label "...">
+<!ENTITY sync.link.show.label "ສະແດງວິທີ.">
+<!ENTITY sync.link.advancedsetup.label "ການຕັ້ງຄ່າຂັ້ນສູງ...">
+<!ENTITY sync.link.nodevice.label "ຂ້ອຍບໍ່ມີອຸປະກອນຕິດຕົວ…">
+<!-- J-PAKE Waiting Screen -->
+
+<!ENTITY sync.jpake.subtitle.waiting.label "ກຳລັງລໍຖ້າອຸປະກອນອື່ນໆ…">
+<!-- Account Login Screen -->
+
+<!ENTITY sync.subtitle.account.label "ໃສ່ &syncBrand.fullName.label; ຂໍ້ມູນກ່ຽວກັບບັນຊີຂອງທ່ານ.">
+<!ENTITY sync.input.username.label "ຊື່ບັນຊີ">
+<!ENTITY sync.input.password.label "ລະຫັດຜ່ານ">
+<!ENTITY sync.input.key.label "ຄີສຳລັບການກູ້ຄືນ">
+<!ENTITY sync.checkbox.server.label "ໃຊ້ເຄື່ອງແມ່ຂ່າຍທີ່ກຳນົດເອງ">
+<!ENTITY sync.input.server.label "URL ຂອງເຄື່ອງແມ່ຂ່າຍ">
+<!-- Setup Fail -->
+
+<!ENTITY sync.title.fail.label "ບໍ່ສາມາດຕິດຕັ້ງ &syncBrand.shortName.label;">
+<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; ບໍ່ສາມາດເຊື່ອມຕໍ່ກັບເຄື່ອງແມ່ຂ່າຍໄດ້. ທ່ານຢາກຈະລອງເຊື່ອມຕໍ່ເບິງອີກເທື່ອຫນຶ່ງບໍ່?">
+<!ENTITY sync.button.tryagain.label "ຫລອງໃຫມ່ອີກຄັ້ງ">
+<!ENTITY sync.button.manual.label "ຄູ່ມືການຕິດຕັ້ງ">
+<!ENTITY sync.subtitle.nointernet.label "ບໍ່ມີການເຊື່ອມຕໍ່ກັບອິນເຕີເນັດ.">
+<!ENTITY sync.subtitle.failaccount.label "ການສ້າງບັນຊີໃນອຸປະກອນຂອງທ່ານບໍ່ປະສົບຜົນສໍາເລັດ.">
+<!ENTITY sync.subtitle.failmultiple.label "ທ່ານໄດ້ຕິດຕັ້ງໄຟຟັອກຫລາຍກ່ວາຫນື່ງຫລູ້ນບໍ່? ໃນປະຈຸບັນນີ້, &syncBrand.fullName.label; ສະຫນັບສະນູນການຕິດຕັ້ງໄຟຟັອກພຽງອັນດຽວເທົ່ານັ້ນ. ກະລຸນາຖອນການຕິດຕັ້ງລູ້ນອື່ນເພື່ອໃຊ້ &syncBrand.shortName.label;.">
+<!-- Setup Success -->
+
+<!ENTITY sync.title.success.label "ການຕິດຕັ້ງເສັດສົມບູນ">
+<!ENTITY sync.subtitle.success.label1 "ຂະນະນີ້ຂໍ້ມູນຂອງທ່ານໄດ້ຖືກກຳລັງດາວໂຫຼດຢູ່ໃນພື້ນຫລັງ. ທ່ານສາມາດໄປຕັ້ງຄ່າເພື່ອຈັດການບັນຊີຂອງທ່ານ, ຫຼື ເລີ່ມຕົ້ນການຄົ້ນຫາດ້ວຍ &brandShortName;.">
+<!ENTITY sync.settings.label "ການຕັ້ງຄ່າ">
+<!ENTITY sync.subtitle.manage.label1 "&syncBrand.fullName.label; ບັນຊີຂອງທ່ານໄດ້ສຳເລັດການສ້າງຕັ້ງແລ້ວ. ທ່ານສາມາດໄປຕັ້ງຄ່າເພື່ອຈັດການບັນຊີຂອງທ່ານ, ຫຼື ເປີດ &brandShortName;.">
+<!-- Pair Device -->
+
+<!ENTITY sync.pair.tryagain.label "ກະລຸນາລອງໃຫມ່ອີກຄັ້ງຫນຶ່ງ.">
+<!ENTITY sync.pair.connectlocation.label "ເພື່ອເປີດໃຊ້ງານອຸປະກອນໃຫມ່ຂອງທ່ານ, ເລືອກ “ຕິດຕັ້ງ &syncBrand.shortName.label;” ໃນອຸປະກອນ, ແລະ ຫລັງຈາກນັ້ນໃຫ້ເລືອກ “ຂ້ອຍມີບັນຊີແລ້ວ.”">
+<!-- Firefox SyncAdapter Settings Screen -->
+
+<!ENTITY sync.settings.options.label "ຕັ້ງຄ່າ">
+<!ENTITY sync.summary.pair.label "ເຊື່ອມຕໍ່ອຸປະກອນອື່ນເຂົ້າໄປຫາບັນຊີຂອງທ່ານ &syncBrand.shortName.label; ">
+<!-- Configure Engines -->
+
+<!ENTITY sync.configure.engines.title.label "ສຶ່ງທີ່ຈະ Sync">
+<!ENTITY sync.configure.engines.sync.my.title.label "Sync ຂອງທ່ານ…">
+<!ENTITY sync.configure.engines.title.bookmarks "ບຸກມາກສ໌">
+<!ENTITY sync.configure.engines.title.passwords2 "ລັອກອິນ">
+<!ENTITY sync.configure.engines.title.history "ປະຫວັດການໃຊ້ງານ">
+<!ENTITY sync.configure.engines.title.tabs "ແທັບ">
+<!-- Common text -->
+
+<!ENTITY sync.button.cancel.label "ຍົກເລີກ">
+<!ENTITY sync.button.connect.label "ເຊື່ອມຕໍ່">
+<!ENTITY sync.button.ok.label "OK">
+<!-- Account strings -->
+
+<!ENTITY sync.account.label "&syncBrand.fullName.label; (ຖືກຄັດຄ້ານ)">
+<!-- Localization note (sync.default.client.name): Default string of the "Device
+     name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
+     will be replaced by the name of the Firefox release channel and &formatS2
+     by the model name of the Android device. Examples look like "Aurora on
+     GT-I1950" and "Fennec on MI 2S". -->
+
+<!ENTITY sync.default.client.name "&formatS1; ໃນ &formatS2;">
+<!-- Bookmark folder strings -->
+
+<!ENTITY bookmarks.folder.menu.label "ເມນູບຸກມາກສ໌">
+<!ENTITY bookmarks.folder.places.label ''>
+<!ENTITY bookmarks.folder.tags.label "ແທັບ">
+<!ENTITY bookmarks.folder.toolbar.label "ແຖບເຄື່ອງມືບຸກມາກສ໌">
+<!ENTITY bookmarks.folder.unfiled.label "ຈັດລຳດັບບຸກມາກຄືນໃຫມ່">
+<!ENTITY bookmarks.folder.desktop.label "ບຸກມາກສ໌ເດສກ໌ທັອບ">
+<!ENTITY bookmarks.folder.mobile.label "ບຸກມາກສ໌ມືຖື">
+<!ENTITY bookmarks.folder.readinglist.label "ລາຍການການອ່ານ">
+<!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
+<!ENTITY bookmarks.folder.pinned.label "ປັກ">
+<!-- Notification strings -->
+
+<!ENTITY sync.notification.oneaccount.label "ມັນຈະສະຫນັບສະນູນພຽງແຕ່ຫນຶ່ງ &syncBrand.fullName.label; ບັນຊີເທົ່ານັ້ນ.">
+<!ENTITY sync.notification.configure.saved "ການຄັດເລືອກຂອງທ່ານໄດ້ຮັບການບັນທືກແລ້ວ.">
+<!-- Incorrect settings and changing credentials. -->
+
+<!ENTITY sync.invalidcreds.label "ຊື່ບັນຊີ ຫລື ລະຫັດຜ່ານບໍ່ຖືກຕ້ອງ.">
+<!ENTITY sync.invalidserver.label "ກະລຸນາໃສ່ URL ຂອງເຄື່ອງແມ່ຂ່າຍທີ່ຖືກຕ້ອງ">
+<!ENTITY sync.verifying.label "ກຳລັງກວດສອບ…">
+<!ENTITY sync.new.recoverykey.status.incorrect "ຄີສຳລັບການກູ້ຄືນບໍ່ຖືກຕ້ອງ. ກະລຸນາລອງໃຫມ່ອີກຄັ້ງຫນຶ່ງ.">
+<!-- Send tab to device. -->
+
+<!ENTITY sync.title.send.tab.label "ສົ່ງແທັບໄປຫາອຸປະກອນ">
+<!ENTITY sync.button.send.label "ສົ່ງ">
+<!ENTITY sync.button.set.up.sync.label "ຕິດຕັ້ງ &syncBrand.shortName.label;">
+<!ENTITY sync.title.redirect.to.set.up.sync.label "ຕິດຕັ້ງ &syncBrand.shortName.label; ເພື່ອສົ່ງແທັບ">
+<!ENTITY sync.text.redirect.to.set.up.sync.label "ຕິດຕັ້ງ &syncBrand.fullName.label; ໃນອຸປະກອນຂອງທ່ານເພື່ອສົ່ງແທັບໄປຫາອຸປະກອນອື່ນໆ.">
+<!ENTITY sync.text.tab.sent.label "ແທັບຂອງທ່ານໄດ້ຖືກສົ່ງໄປແລ້ວ.">
+<!ENTITY sync.text.tab.not.sent.label "ມີບັນຫາໃນການນຳສົ່ງແທັບຂອງທ່ານ.">
+<!-- Firefox Account strings. -->
+
+
+<!ENTITY fxaccount_full_label "ບັນຊີໄຟຟັອກ">
+
+<!ENTITY fxaccount_custom_server_account_title "ການນໍາໃຊ້ບັນຊີໃນເຄື່ອງແມ່ຂ່າຍ">
+<!ENTITY fxaccount_custom_server_sync_title "ການເກັບຮັກສາຂໍ້ມູນ Sync ໄວ້ໃນເຄື່ອງແມ່ຂ່າຍ">
+<!-- Localization note: these are shown in all screens that query the
+     user for an email address and password. Hide and show are button
+     labels. -->
+
+<!ENTITY fxaccount_email_hint "ອີເມວລ໌">
+<!ENTITY fxaccount_password_hint "ລະຫັດຜ່ານ:">
+<!ENTITY fxaccount_password_hide "ເຊື່ອງ">
+<!ENTITY fxaccount_password_show "ສະແດງ">
+<!-- Localization note: these are shown in screens after the user has
+     created or signed in to an account, and take the user back to
+     Firefox. -->
+
+<!ENTITY fxaccount_back_to_browsing "ກັບຄືນໄປສູ່ການຄົ້ນຫາ">
+<!-- Localization note: the following two strings are interpolated
+     into fxaccount_create_account_policy_text2; see note for that
+     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+
+<!ENTITY fxaccount_policy_linktos "ເງື່ອນໄຂການໃຫ້ບໍລິການ">
+<!ENTITY fxaccount_policy_linkprivacy "ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ">
+
+<!ENTITY fxaccount_getting_started_welcome_to_sync "ຍິນດີຕ້ອນຮັບສູ່ &syncBrand.shortName.label;">
+<!ENTITY fxaccount_getting_started_description2 "ລົ່ງຊື່ເຂົ້າໃຊ້ເພື່ອ Sync ແທັບຂອງທ່ານ, ບຸກມາກສ໌, ການເຂົ້າສູ່ລະບົບ ແລະ ອື່ນໆ.">
+<!ENTITY fxaccount_getting_started_get_started "ເລີ່ມຕົ້ນເຮັດວຽກ">
+<!ENTITY fxaccount_getting_started_old_firefox "ກຳລັງນຳໃຊ້ຮຸ່ນເກົ່າຂອງ &syncBrand.shortName.label;?">
+<!-- Localization note: the Firefox below should not change with the
+     particular version of Firefox installed (Release, Beta, Aurora,
+     etc).  The account remains a "Firefox Account". -->
+
+<!ENTITY fxaccount_create_account_header2 "ສ້າງບັນຊີໄຟຟັອກ">
+<!ENTITY fxaccount_create_account_password_length_restriction "ຕ້ອງມີຢ່າງຫນ້ອຍ 8 ຕົວອັກສອນ">
+<!ENTITY fxaccount_create_account_day_of_birth "ວັນ">
+<!ENTITY fxaccount_create_account_month_of_birth "ເດືອນ">
+<!ENTITY fxaccount_create_account_year_of_birth "ປີເກີດ">
+<!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
+<!ENTITY fxaccount_create_account_policy_text2 "ເພື່ອດຳເນີນການຕໍ່, ຂ້າພະເຈົ້າຍອມຮັບຕາມ &formatS1; ແລະ &formatS2; ຂອງການບໍລິການຄຣາວຂອງໄຟຟັອກ.">
+<!ENTITY fxaccount_create_account_button "ຕໍ່ໄປ">
+<!ENTITY fxaccount_create_account_choose_what_to_sync "ເລືອກສິ່ງທີ່ຕ້ອງການຈະ Sync">
+<!ENTITY fxaccount_create_account_sign_in_instead "ມີບັນຊີລຽບລ້ອຍແລ້ວບໍ່? ເຂົ້າສູ່ລະບົບ">
+<!ENTITY fxaccount_create_account_1990_or_earlier "1990 ຫຼື ກ່ອນຫນ້ານັ້ນ">
+<!ENTITY fxaccount_create_account_unknown_error "ບໍ່ສາມາດສ້າງບັນຊີນີ້ໄດ້">
+
+<!ENTITY fxaccount_account_create_not_allowed "ບໍ່ສາມາດສ້າງບັນຊີນີ້ໄດ້">
+<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "ທ່ານຕ້ອງຕອບສະຫນອງກັບຄວາມຕ້ອງການທາງອາຍຸເພື່ອສ້າງບັນຊີ.">
+<!ENTITY fxaccount_account_create_not_allowed_learn_more "ຮຽນຮູ້ເພີ່ມເຕີມ">
+
+<!ENTITY fxaccount_confirm_account_header "ຢືນຢັນບັນຊີຂອງທ່ານ">
+<!-- Localization note: &formatS; is the Firefox Account's email address. -->
+<!ENTITY fxaccount_confirm_account_verification_link "Link ຢືນຢັນໄດ້ຖືກສົ່ງໄປຫາ &formatS;">
+<!ENTITY fxaccount_confirm_account_resend_email "ສົ່ງອີເມວຄືນໃຫມ່">
+<!ENTITY fxaccount_confirm_account_change_email "ລືມທີ່ຢູ່ອີເມວນີ້ ຫລື ບໍ?">
+<!ENTITY fxaccount_confirm_account_verification_link_sent2 "ອີເມວລ໌ຢືນຢັນສົ່ງໄປ">
+<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "ບໍ່ສາມາດສົ່ງອີເມວລ໌ຢືນຢັນໄປ">
+<!ENTITY fxaccount_resend_unlock_code_button_label "ສົ່ງອີເມວປົດລັອກຄືນໃຫມ່">
+<!ENTITY fxaccount_unlock_code_sent "ອີເມວປົດລັອກໄດ້ສົ່ງໄປ">
+<!ENTITY fxaccount_unlock_code_not_sent "ບໍ່ສາມາດສົ່ງອີເມວປົດລັອກ">
+
+<!ENTITY fxaccount_sign_in_sub_header "ເຂົ້າສູ່ລະບົບ">
+<!ENTITY fxaccount_sign_in_button_label "ເຂົ້າສູ່ລະບົບ">
+<!ENTITY fxaccount_sign_in_forgot_password "ລື່ມລະຫັດຜ່ານ?">
+<!ENTITY fxaccount_sign_in_create_account_instead "ສ້າງບັນຊີ">
+<!ENTITY fxaccount_sign_in_unknown_error "ບໍ່ສາມາດເຂົ້າສູ່ລະບົບ">
+
+<!ENTITY fxaccount_account_verified_sub_header "ບັນຊີໄດ້ຮັບການຢືນຢັນ">
+<!ENTITY fxaccount_account_verified_description2 "ຂໍ້ມູນຂອງທ່ານຈະເລີ່ມຕົ້ນການຊິງຊົ່ວຂະນະ.">
+
+<!ENTITY fxaccount_migration_finished_header "ການອັບເກຣດສຳເລັດແລ້ວ">
+
+<!ENTITY fxaccount_update_credentials_header "ເຂົ້າສູ່ລະບົບ">
+<!ENTITY fxaccount_update_credentials_button_label "ເຂົ້າສູ່ລະບົບ">
+<!ENTITY fxaccount_update_credentials_unknown_error "ບໍ່ສາມາດເຂົ້າສູ່ລະບົບ">
+
+<!ENTITY fxaccount_finish_migrating_header "ເຂົ້າສູ່ລະບົບເພື່ອສຳເລັດການອັບເກຣດ">
+<!ENTITY fxaccount_finish_migrating_button_label "ສຳເລັດການອັບເກຣດແລ້ວ">
+<!ENTITY fxaccount_finish_migrating_description "ການອັບເກຣດແມ່ນນຳໃຊ້ປະລິມານຂໍ້ມູນຫລາຍ. ມັນຈະເປັນການດີທີ່ຈະອັບເກຣດຜ່ານທາງໄວຟາຍ.">
+
+<!ENTITY fxaccount_status_header2 "ບັນຊີໄຟຟັອກ">
+<!ENTITY fxaccount_status_signed_in_as "ເຂົ້າສູ່ລະບົບດ້ວຍ">
+
+<!ENTITY fxaccount_status_auth_server "ບັນຊີໃນເຄື່ອງແມ່ຂ່າຍ">
+<!ENTITY fxaccount_status_sync_now "ຊິງໃນຂະນະນີ້">
+<!ENTITY fxaccount_status_syncing2 "ກຳລັງຊິງ…">
+<!ENTITY fxaccount_status_device_name "ຊື່ອຸປະກອນ">
+<!ENTITY fxaccount_status_sync_server "ຊິງເຄື່ອງແມ່ຂ່າຍ">
+<!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
+<!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: ເປີດໃຊ້ງານ">
+<!ENTITY fxaccount_status_needs_verification2 "ບັນຊີຂອງທ່ານຕ້ອງໄດ້ຮັບການຢັ້ງຢືນ. ແຕະເພື່ອສົ່ງອີເມວຢືນຢັນຄືນໃຫມ່ອີກຄັ້ງຫນຶ່ງ.">
+<!ENTITY fxaccount_status_needs_credentials "ບໍ່ສາມາດເຊື່ອມຕໍ່. ແຕະເພື່ອເຂົ້າສູ່ລະບົບ.">
+<!ENTITY fxaccount_status_needs_upgrade "ທ່ານຈຳເປັນຕ້ອງອັບເກຣດ &brandShortName; ເພື່ອເຂົ້າສູ່ລະບົບ.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; ໄດ້ຮັບການຕິດຕັ້ງ, ແຕ່ວ່າຍັງບໍ່ສາມາດ Syncing ໄດ້ແບບອັດຕະໂນມັດ. ໃຫ້ເລືອກເປີດທີ່ “Auto-sync data” ໃນການຕັ້ງຄ່າ &gt; Android Data Usage">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; ໄດ້ຮັບການຕິດຕັ້ງ, ແຕ່ວ່າຍັງບໍ່ສາມາດ Syncing ໄດ້ແບບອັດຕະໂນມັດ. ໃຫ້ເລືອກເປີດທີ່ “Auto-sync data” ໃນການຕັ້ງຄ່າ &gt; Android Accounts.">
+<!ENTITY fxaccount_status_needs_finish_migrating "ແຕະເພື່ອເຂົ້າສູ່ບັນຊີໄຟຟັອກໃຫມ່ຂອງທ່ານ.">
+<!ENTITY fxaccount_status_bookmarks "ບຸກມາກສ໌">
+<!ENTITY fxaccount_status_history "ປະຫວັດການໃຊ້ງານ">
+<!ENTITY fxaccount_status_passwords2 "ລັອກອິນ">
+<!ENTITY fxaccount_status_tabs "ເປີດແທັບ">
+<!ENTITY fxaccount_status_legal "ຖືກກົດຫມາຍ" >
+<!-- Localization note: when tapped, the following two strings link to
+     external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+<!ENTITY fxaccount_status_linktos "ເງື່ອນໄຂການໃຫ້ບໍລິການ">
+<!ENTITY fxaccount_status_linkprivacy "ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ">
+<!ENTITY fxaccount_status_more "ເພີ່ມເຕີມ &ellipsis;">
+
+<!ENTITY fxaccount_remove_account_dialog_title "ລືບບັນຊີໄຟຟັອກຫລືບໍ່?">
+<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; ຈະຢຸດການ Sync ກັບບັນຊີຂອງທ່ານ, ແຕ່ວ່າຈະບໍ່ລືບຂໍ້ມູນການທ່ອງເວັບໃນອຸປະກອນນີ້ອອກ.">
+<!-- Localization note: format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast "ບັນຊີໄຟຟັອກ &formatS; ລືບອອກ.">
+
+<!ENTITY fxaccount_remove_account_menu_item "ລຶບບັນຊີ">
+<!ENTITY fxaccount_enable_debug_mode "ເປີດໃຊ້ງານໂຫມດ Debug">
+<!-- Localization note: this is the name shown by the Android system
+     itself for a Firefox Account. Don't localize this. -->
+
+<!ENTITY fxaccount_account_type_label "ໄຟຟັອກ">
+<!-- Localization note: these are shown by the Android system itself,
+     when the user navigates to the Android > Accounts > {Firefox
+     Account} Screen. The link takes the user to the Firefox Account
+     status activity, which lets them manage their Firefox
+     Account. -->
+
+<!ENTITY fxaccount_options_title "&syncBrand.shortName.label; ຕັ້ງຄ່າ">
+<!ENTITY fxaccount_options_configure_title "ຕັ້່ງຄ່າໃຫ້ &syncBrand.shortName.label;">
+<!-- Localization note: these error messages are shown after a request
+     has been made to the remote server, and an error of some type has
+     been returned. -->
+
+<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "ທ່ານຈຳເປັນຕ້ອງອັບເກຣດໄຟຟັອກ">
+<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
+
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "ບັນຊີນີ້ມີຮຽບຮ້ອຍແລ້ວ. &formatS1;">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "ອີເມວ ຫລື ລະຫັດຜ່ານບໍ່ຖືກຕ້ອງ">
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "ອີເມວ ຫລື ລະຫັດຜ່ານບໍ່ຖືກຕ້ອງ">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "ບັນຊີຫຍັງບໍ່ໄດ້ຮັບການຢືນຢັນ">
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "ເຄື່ອງແມ່ເຄື່ອຂ່າຍທຳງານຫນັກ, ຫລອງເຂົ້າໃຫມ່ອີກເທືອຫນື່ງໃນໄວໆນີ້">
+<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "ເຄື່ອງແມ່ເຄື່ອຂ່າຍທຳງານຫນັກ, ຫລອງເຂົ້າໃຫມ່ອີກເທືອຫນື່ງໃນໄວໆນີ້ ">
+<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "ມັນມີບັນຫາ">
+<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "ບໍ່ສາມາດເຊື່ອມຕໍ່ກັບເຄື່ອຂ່າຍ">
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "ບັນຊີຖືກລັອກ. &formatS1;">
+
+<!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; ບໍ່ໄດ້ເຊື່ອມຕໍ່">
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "ແຕະເພື່ອເຂົ້າສູ່ລະບົບດ້ວຍ &formatS;">
+
+<!ENTITY fxaccount_sync_finish_migrating_notification_title "ສຳເລັດການອັບເກຣດແລ້ວຫລືບໍ &syncBrand.shortName.label;?">
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text "ແຕະເພື່ອເຂົ້າສູ່ລະບົບດ້ວຍ &formatS;">

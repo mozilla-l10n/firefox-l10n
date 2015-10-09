@@ -1,0 +1,24 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!ENTITY aboutPage.title                        "ກ່ຽວກັບ &brandShortName;">
+<!ENTITY aboutPage.warningVersion               "&brandShortName; ເປັນການທົດລອງໃຊ້ ແລະ ອາດຈະບໍ່ມີຄວາມສະຖຽນລະພາບ">
+<!ENTITY aboutPage.telemetryStart               " ມັນຈະສົ່ງຂໍ້ມູນກ່ຽວກັບປະສິດທິພາບການເຮັດວຽກ, ຮາດແວ, ການນຳໃຊ້ ແລະ ການປັບແຕ່ງ ແບບອັດຕະໂນມັດກັບໄປຫາ ">
+<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
+<!ENTITY aboutPage.telemetryEnd                 " ເພື່ອຊ່ວຍເຮັດໃຫ້ &brandShortName; ດີຂື້ນກ່ວາເກົ່າ.">
+<!ENTITY aboutPage.checkForUpdates.link         "ກວດສອບເບິງການອັບເດດ »">
+<!ENTITY aboutPage.checkForUpdates.checking     "ກວດສອບເບິງການອັບເດດ…">
+<!ENTITY aboutPage.checkForUpdates.none         "ບໍ່ມີການອັບເດດໃດໆ">
+<!ENTITY aboutPage.checkForUpdates.available2   "ດາວໂຫລດຕົວອັບເດດ">
+<!ENTITY aboutPage.checkForUpdates.downloading  "ກຳຫລັງດາວໂຫລດຕົວອັບເດດ…">
+<!ENTITY aboutPage.checkForUpdates.downloaded2  "ຕິດຕັ້ງການອັບເດດ">
+<!ENTITY aboutPage.faq.label                    "ຄຳຖາມທີພົບເປັນປະຈຳ">
+<!ENTITY aboutPage.support.label                "ສະຫນັບສະຫນູນ">
+<!ENTITY aboutPage.privacyPolicy.label          "ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ">
+<!ENTITY aboutPage.rights.label                 "ຮູ້ສິດທິຂອງທ່ານ">
+<!ENTITY aboutPage.relNotes.label               "ຫມາຍເຫດການອອກເວີຊັນໃຫມ່">
+<!ENTITY aboutPage.credits.label                "ເຄລດິດ">
+<!ENTITY aboutPage.license.label                "ຂໍ້ມູນກ່ຽວກັບລິຂະສິດ">
+<!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
+
+<!ENTITY aboutPage.logoTrademark                "ໄຟຟັອກ ແລະ ຮູບສັນຍາລັກຂອງໄຟຟັອກແມ່ນເຄື່ອງຫມາຍການຄ້າຂອງມູນນິທິໂມຊິລລາ.">
