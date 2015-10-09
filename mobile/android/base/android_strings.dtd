@@ -101,7 +101,7 @@
 
 <!ENTITY settings "सेटिंग">
 <!ENTITY settings_title "सेटिंग">
-
+<!ENTITY pref_category_input_options "आदान विकल्प">
 <!ENTITY pref_category_advanced "प्रगत">
 <!ENTITY pref_category_customize "स्वपसंती करा">
 <!ENTITY pref_category_customize_summary "मुखपृष्ठ, शोध, टॅब, आयात">
