@@ -17,5 +17,8 @@
 <!ENTITY cmd.open.accesskey                        "O">
 <!ENTITY cmd.removeFromHistory.label               "Verwijderen uit geschiedenis">
 <!ENTITY cmd.removeFromHistory.accesskey           "V">
-<!ENTITY cmd.clearDownloads.label                  "Downloads wissen">
-<!ENTITY cmd.clearDownloads.accesskey              "w">
+<!ENTITY cmd.clearList.label                       "Lijst wissen">
+<!ENTITY cmd.clearList.accesskey                   "L">
+<!ENTITY cmd.clearList.tooltip                     "Alle vermeldingen uit de lijst van bewaarde bestanden verwijderen, behalve de lopende downloads.">
+<!ENTITY cmd.searchDownloads.label                 "Zoeken…">
+<!ENTITY cmd.searchDownloads.key                   "Z">
