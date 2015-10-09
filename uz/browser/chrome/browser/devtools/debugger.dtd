@@ -51,6 +51,8 @@
 <!ENTITY debuggerUI.sources.toggleBreakpoints "To‘xtash nuqtalarini yoqish/o‘chirish">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.togglePromiseDebugger): This is the
   -  tooltip for the button that toggles the promise debugger. -->
+
+<!ENTITY debuggerUI.sources.togglePromiseDebugger "Tuzatkichni o‘chirish/yoqish">
 <!-- LOCALIZATION NOTE (debuggerUI.startTracing): This is the text displayed in
   - the button to start execution tracing. -->
 
@@ -166,6 +168,8 @@
 <!ENTITY debuggerUI.seMenuCondBreak.key "B">
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
+
+<!ENTITY debuggerUI.tabs.workers        "Ishchilar">
 <!ENTITY debuggerUI.tabs.sources        "Manbalar">
 <!ENTITY debuggerUI.tabs.traces         "Yo‘naltirishlar">
 <!ENTITY debuggerUI.tabs.callstack      "Chaqiruv steki">
