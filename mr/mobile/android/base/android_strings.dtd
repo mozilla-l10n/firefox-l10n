@@ -423,11 +423,11 @@ size. -->
 <!ENTITY doorhanger_login_edit_password_hint "पासवर्ड">
 <!ENTITY doorhanger_login_edit_toggle "पासवर्ड दाखवा">
 <!ENTITY doorhanger_login_edit_toast_error "लॉगइन साठवण्यात असफल">
+<!ENTITY doorhanger_login_select_message "&formatS; पासून पासवर्ड प्रत बनवायची?">
+<!ENTITY doorhanger_login_select_toast_copy "पासवर्ड क्लिपबोर्डवर प्रत झाली">
+<!ENTITY doorhanger_login_select_toast_copy_error "पासवर्डची प्रत नाही करु शकले">
 
-
-
-
-
+<!ENTITY doorhanger_login_select_title "पासून पासवर्डची प्रत करा">
 
 <!ENTITY pref_titlebar_mode "शीर्षक पट्टी">
 <!ENTITY pref_titlebar_mode_title "पानाचे शीर्षक दाखवा">
