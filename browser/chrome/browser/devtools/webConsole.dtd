@@ -47,12 +47,14 @@
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls such console.log() and
   -  console.error(). -->
+
+<!ENTITY btnPageLogging.label   "การบันทึก">
 <!ENTITY btnPageLogging.tooltip "บันทึกข้อความที่ส่งไปยัง window.console">
 
+<!ENTITY btnConsoleErrors       "ข้อผิดพลาด">
 
 
-
-
+<!ENTITY btnConsoleLog          "บันทึก">
 <!ENTITY btnConsoleXhr          "XHR">
 
 <!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the

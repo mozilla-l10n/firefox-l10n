@@ -15,7 +15,7 @@
 
 
 
-
+<!ENTITY projectMenu_debug_label "แก้จุดบกพร่องแอพ">
 
 
 
@@ -42,9 +42,9 @@
 
 
 <!ENTITY viewMenu_label "ดู">
+<!ENTITY viewMenu_accesskey "V">
 
-
-
+<!ENTITY viewMenu_toggleEditor_accesskey "E">
 <!ENTITY viewMenu_zoomin_label "ขยาย">
 
 <!ENTITY viewMenu_zoomout_label "ย่อ">
@@ -73,9 +73,11 @@
 <!ENTITY runtimePanel_other "อื่น ๆ">
 
 
-
+<!ENTITY runtimePanel_nousbdevice "ไม่พบอุปกรณ์ของคุณ?">
 <!-- Lense -->
 
+<!ENTITY details_valid_header "ถูกต้อง">
+<!ENTITY details_warning_header "คำเตือน">
 
 
 <!ENTITY details_location "ที่ตั้ง">
@@ -92,11 +94,11 @@
 
 <!ENTITY deck_close "ปิด">
 <!-- Addons -->
-
+<!ENTITY addons_aboutaddons "เปิดตัวจัดการส่วนเสริม">
 <!-- Prefs -->
 
 <!ENTITY prefs_general_title "ทั่วไป">
-
+<!ENTITY prefs_restore "เรียกคืนค่าปริยาย">
 
 
 
@@ -137,7 +139,7 @@
 
 
 <!-- Device Settings -->
-
+<!ENTITY devicesetting_search "ตั้งค่าการค้นหา">
 
 
 
@@ -163,7 +165,7 @@
 
 <!ENTITY simulator_version "รุ่น">
 
-
+<!ENTITY simulator_hardware "ฮาร์ดแวร์">
 <!ENTITY simulator_device "อุปกรณ์">
 
 

@@ -31,7 +31,7 @@
 <!ENTITY device.denyTooltip "แอปประเภทนี้ไม่ได้รับอนุญาตให้ใช้สิทธิ์นี้">
 <!ENTITY device.installedApps "ติดตั้งแอปแล้ว">
 
-
+<!ENTITY device.permissions "การกำหนดสิทธิ์">
 
 
 <!ENTITY device.browserTabs "แท็บเบราว์เซอร์">
@@ -42,7 +42,7 @@
 
 <!ENTITY connection.connectTooltip "เชื่อมต่อไปยังอุปกรณ์">
 <!ENTITY connection.disconnect "ยกเลิกการเชื่อมต่อ">
-
+<!ENTITY connection.disconnectTooltip "ตัดการเชื่อมต่อจากอุปกรณ์หรืออุปกรณ์เสมือนนี้">
 <!ENTITY connection.notConnected2 "ไม่ได้เชื่อมต่อ">
 <!ENTITY connection.connectTo "เชื่อมต่อไปยัง:">
 <!ENTITY connection.noDeviceFound "ไม่พบอุปกรณ์ โปรดเสียบอุปกรณ์">
@@ -57,7 +57,7 @@
 <!ENTITY connection.cancel "ยกเลิก">
 
 
-
+<!ENTITY connection.or "หรือ">
 
 
 <!ENTITY connection.installOneSimulatorTooltip "ติดตั้งตัวจำลองการทำงานรุ่นอื่นได้โดยการดาวน์โหลดส่วนเสริมที่เกี่ยวข้อง">

@@ -24,6 +24,8 @@
 <!ENTITY  addonExceptions.accesskey     "ย">
 
 
+<!ENTITY  logins.label                  "เข้าระบบ">
+
 
 <!ENTITY  passwordExceptions.label      "ยกเว้น…">
 <!ENTITY  passwordExceptions.accesskey  "ว">

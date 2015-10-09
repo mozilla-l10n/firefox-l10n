@@ -112,7 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignIn.label "เข้าใช้ &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "เปิดการปรับแต่ง &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "เชื่อมต่อ &syncBrand.shortName.label; ใหม่">
-
+<!ENTITY fxaUnverified.label "ยืนยันความถูกต้องของบัญชี">
 <!ENTITY syncStartPanel2.heading "เปิดใช้งาน &syncBrand.shortName.label; แล้ว">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; จะทำการซิงก์ในไม่ช้า">
 
@@ -704,7 +704,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "การเชื่อมต่อนิรภัย">
 <!ENTITY identity.connectionNotSecure "การเชื่อมต่อไม่นิรภัย">
 <!ENTITY identity.connectionFile "หน้านี้ถูกจัดเก็บบนคอมพิวเตอร์ของคุณ">
-
+<!ENTITY identity.connectionVerified1 "คุณกำลังเชื่อมต่อไปยังเว็บไซต์นี้อย่างปลอดภัย ดำเนินงานโดย:">
 <!ENTITY identity.connectionInternal "นี้คือหน้า &brandShortName; ที่ปลอดภัย">
 
 <!-- Strings for connection state warnings. -->
@@ -746,6 +746,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
+<!ENTITY syncSignIn.label             "ลงชื่อเข้าใช้ &syncBrand.shortName.label;">
 
 <!ENTITY syncSyncNowItem.label        "ผสานข้อมูลเดี๋ยวนี้">
 <!ENTITY syncSyncNowItem.accesskey    "ผ">
