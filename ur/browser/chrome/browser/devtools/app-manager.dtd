@@ -8,7 +8,7 @@
 <!ENTITY index.help "مدد">
 
 <!ENTITY device.debugMainProcess "مین عمل کاری ٹھیک کریں">
-
+<!ENTITY device.debugMainProcessTooltip "اس ڈیوائس پر اہم عمل کاری سے جڑے ڈیولپر ٹول کو کھولیں">
 <!ENTITY device.screenshot "سکرین شاٹ">
 <!ENTITY device.screenshotTooltip "آلہ کے موجودہ حالات کی سکرین شاٹ نئی ٹیب میں کھولیں">
 <!ENTITY device.title "آلہ کنٹرول مرکز">

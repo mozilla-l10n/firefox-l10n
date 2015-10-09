@@ -9,11 +9,21 @@
      tools. A good criteria is the language in which you'd find the best
      documentation on web development on the web. -->
 <!-- LOCALIZATION NOTE (title): This is the label shown in the sidebar tab -->
+
+
+
+<!ENTITY title "حرکت اندازی">
 <!-- LOCALIZATION NOTE (invalidElement): This is the label shown in the panel
      when an invalid node is currently selected in the inspector. -->
+
+<!ENTITY invalidElement "کوئی حرکت اندازی موجودہ عنصر کے لئے نہیں پایا گیا۔">
 <!-- LOCALIZATION NOTE (selectElement): This is the label shown in the panel
      when an invalid node is currently selected in the inspector, to invite the
      user to select a new node by clicking on the element-picker icon. -->
+
+<!ENTITY selectElement "صفحہ سے دوسرا عنصر چنیں۔">
 <!-- LOCALIZATION NOTE (allAnimations): This is the label shown at the bottom of
      the panel, in a toolbar, to let the user know the toolbar applies to all
      animations, not just the ones applying to the current element. -->
+
+<!ENTITY allAnimations "تمام حرکت اندازی">

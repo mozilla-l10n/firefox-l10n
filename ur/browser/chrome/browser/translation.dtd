@@ -41,6 +41,7 @@
 <!ENTITY translation.showOriginal.button        "اصل دکھائیں">
 <!ENTITY translation.showTranslation.button     "ترجمہ دکھائیں">
 
+<!ENTITY translation.errorTranslating.label     "اس صفحہ کو ترجمہ کرتے وقت ایک خامی پیش آگئی۔">
 <!ENTITY translation.tryAgain.button            "دوبارہ کوشش کریں">
 
 <!ENTITY translation.serviceUnavailable.label   "اس وقت ترجمہ دستیاب نہیں ہے. براہ کرم کچھ دیر بعد کوشش کریں.">

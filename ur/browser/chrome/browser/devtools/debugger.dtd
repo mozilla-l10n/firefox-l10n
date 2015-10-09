@@ -51,6 +51,8 @@
 <!ENTITY debuggerUI.sources.toggleBreakpoints "تمام بریک پوائنٹ اہل بنائیں/نا اہل بنائیں">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.togglePromiseDebugger): This is the
   -  tooltip for the button that toggles the promise debugger. -->
+
+<!ENTITY debuggerUI.sources.togglePromiseDebugger "وعدہ ٹھیک کرنے والا ٹوگل کریں">
 <!-- LOCALIZATION NOTE (debuggerUI.startTracing): This is the text displayed in
   - the button to start execution tracing. -->
 
@@ -164,6 +166,8 @@
 <!ENTITY debuggerUI.seMenuCondBreak.key "B">
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
+
+<!ENTITY debuggerUI.tabs.workers        "مزدور">
 <!ENTITY debuggerUI.tabs.sources        "ماخذ">
 <!ENTITY debuggerUI.tabs.traces         "نشانات">
 <!ENTITY debuggerUI.tabs.callstack      "کال تھاک">
