@@ -6,12 +6,12 @@
 
 
 <!ENTITY doNotTrackInfo.label          "Ketahui Lanjut">
-
-
-
-
-
-
+<!ENTITY trackingProtection5.label     "Guna Perlindungan Penjejakan">
+<!ENTITY trackingProtection5.accesskey "P">
+<!ENTITY trackingProtectionLearnMore.label "Ketahui lanjut">
+<!ENTITY trackingProtectionPBM5.label         "Guna Perlindungan Penjejakan dalam Tetingkap Persendirian">
+<!ENTITY trackingProtectionPBM5.accesskey     "P">
+<!ENTITY trackingProtectionPBMLearnMore.label "Ketahui lanjut">
 
 <!ENTITY  history.label                 "Sejarah">
 
@@ -24,10 +24,11 @@
 <!ENTITY  locbar.bookmarks.accesskey    "P">
 <!ENTITY  locbar.openpage.label         "Buka tab">
 <!ENTITY  locbar.openpage.accesskey     "B">
+<!ENTITY  locbar.searches.label         "Carian berkaitan dari enjin carian lalai">
+<!ENTITY  locbar.searches.accesskey     "e">
 
-
-
-
+<!ENTITY  suggestionSettings.label      "Ubah keutamaan untuk cadangan enjin carian…">
+<!ENTITY  suggestionSettings.accesskey  "U">
 
 <!ENTITY  acceptCookies.label           "Terima kuki dari laman web">
 <!ENTITY  acceptCookies.accesskey       "e">
