@@ -25,7 +25,8 @@
 
 <!ENTITY optionsGroup.label  "اختیارات">
 
-
+<!ENTITY printBG.label       "پس منظر چھاپیں (رنگ اور نقوش)">
+<!ENTITY printBG.accesskey   "پ">
 
 <!ENTITY advanced.tab        "حاشیے اور سر تحریر/ذیل تحریر">
 

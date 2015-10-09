@@ -20,7 +20,7 @@
 
 <!ENTITY chooseWhichOneToDisplay.label         "تلاش بار آپ کو متبادل تلاش کے انجن تلاش کرنے کی براہ راست اجازت دیتا ہے۔ ظاہر کرنے کے لئے منتخب کریں۔">
 
-<!ENTITY engineNameColumn.label                "تلاش انجن">
+<!ENTITY engineNameColumn.label                "تلاش انجن ">
 <!ENTITY engineKeywordColumn.label             "کلیدی لفظ">
 
 <!ENTITY restoreDefaultSearchEngines.label     "طےشدہ تلاش انجن بحال کر دیں">
