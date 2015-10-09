@@ -11,4 +11,5 @@
 <!ENTITY addonAction.uninstall                  "विस्थापन करा">
 <!ENTITY addonAction.undo                       "आत्ताची कृती रद्द करा">
 
-
+<!ENTITY addonUnsigned.message                  "हे अॅड-ऑन &brandShortName; द्वारा सत्यापित नाही होउ शकले.">
+<!ENTITY addonUnsigned.learnMore                "अधिक जाणा">
