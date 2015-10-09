@@ -57,6 +57,8 @@
 <!ENTITY trackingProtection.state.enabled      "YOQILGAN">
 <!ENTITY trackingProtection.state.disabled     "O‘CHIRILGAN">
 
+<!ENTITY trackingProtection.description1       "Hozir sahifa qismi bo‘lgan maxfiy oynalar sizning internetdagi faoliyatingizni kuzatishi mumkin.">
 
-
-
+<!ENTITY trackingProtection.disable            "Kuzatishdan himoyalanishni o‘chirish">
+<!ENTITY trackingProtection.enable             "Kuzatishdan himoyalanishni yoqish">
+<!ENTITY trackingProtection.startTour1         "Uning qanday ishlashini ko‘ring">
