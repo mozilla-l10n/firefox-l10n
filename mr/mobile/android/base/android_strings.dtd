@@ -13,9 +13,11 @@
 <!ENTITY  onboard_start_button_browser "ब्राउझिंगला सुरुवात करा">
 <!ENTITY firstrun_button_next "पुढे">
 
+<!ENTITY  onboard_start_restricted1 "&brandShortName; या सोप्या आवृत्तीसह सुरक्षित आणि नियंत्रित रहा.">
 
+<!ENTITY firstrun_import_title "आयात">
 <!ENTITY firstrun_import_message "&brandShortName; मध्ये आपले स्वागत आहे">
-
+<!ENTITY firstrun_import_subtext "आपल्या वाचनखुणा आणि इतिहास इतर ब्राउझर मधुन आयात करा.">
 
 
 
