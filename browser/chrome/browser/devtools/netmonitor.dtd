@@ -118,7 +118,7 @@
 
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterFlash): This is the label displayed
   -  in the network details footer for the "Flash" filtering button. -->
-<!ENTITY netmonitorUI.footer.filterFlash  "Flash">
+<!ENTITY netmonitorUI.footer.filterFlash  "Fulmo">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterOther): This is the label displayed
   -  in the network details footer for the "Other" filtering button. -->
@@ -210,10 +210,6 @@
   -  in the network details timings tab identifying the amount of time spent
   -  in a "receive" state. -->
 <!ENTITY netmonitorUI.timings.receive     "Ricevado:">
-
-<!-- LOCALIZATION NOTE (netmonitorUI.security.warning.protocol): A tooltip
-  -  for warning icon that indicates a connection uses insecure protocol. -->
-<!ENTITY netmonitorUI.security.warning.sslv3      "La protokolo SSL 3.0 estas evitinda kaj nesekura.">
 
 <!-- LOCALIZATION NOTE (netmonitorUI.security.warning.cipher): A tooltip
   -  for warning icon that indicates a connection uses insecure cipher suite. -->

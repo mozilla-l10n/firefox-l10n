@@ -6,10 +6,21 @@
 <!ENTITY  no_space_to_start_error "Ne estas sufiĉe da loko disponebla por la startigo de &brandShortName;.">
 <!ENTITY  error_loading_file "Eraro okazis dum la klopodo ŝargi dosierojn bezonatajn por ruli &brandShortName;">
 
+<!ENTITY firstrun_panel_title_welcome "Bonvenon">
 <!ENTITY  onboard_start_message3 "Retumi per &brandShortName;">
 <!ENTITY  onboard_start_subtext3 "Igi vian poŝaparatan retumsperton vere via.">
 <!ENTITY  onboard_start_button_account "Komenci seancon en &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Komenci retesporon">
+<!ENTITY firstrun_button_next "Antaŭen">
+
+<!ENTITY  onboard_start_restricted1 "Estu sekura kaj regu vian retumadon per tiu ĉi simpligita versio de &brandShortName;.">
+
+<!ENTITY firstrun_import_title "Importi">
+<!ENTITY firstrun_import_message "Welcome to &brandShortName;">
+<!ENTITY firstrun_import_subtext "Importi viajn legosignojn kaj historion el alia retumilo.">
+<!ENTITY firstrun_import_action "Transmeti al &brandShortName;">
+<!ENTITY firstrun_import_dialog_button "Transmeto">
+<!ENTITY firstrun_import_progress_title "Transmeto…">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
@@ -54,8 +65,9 @@
 
 <!ENTITY history_today_section "Hodiaŭ">
 <!ENTITY history_yesterday_section "Hieraŭ">
-<!ENTITY history_week_section2 "Lasta semajno">
-<!ENTITY history_older_section2 "Lasta monato">
+<!ENTITY history_week_section3 "Lastaj 7 tagoj">
+<!ENTITY history_this_month_section "Ĉi monate">
+<!ENTITY history_older_section3 "Antaŭ pli ol 6 monatoj">
 
 <!ENTITY go "Iri">
 <!ENTITY search "Serĉi">
@@ -78,6 +90,14 @@
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
 <!ENTITY switch_button_message "ŜANĜI">
+<!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
+     visible in the UI, but rather used as a text-to-speech content description
+     for sight-impaired a11y users. The content description is set on a tab
+     title in a list of open tabs when content in that tab is playing audio.
+     &formatS; will be replaced with the title of the tab, as received from the
+     web page. When audio is not playing in a tab, &formatS; will be used as
+     the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "Sono ludata – &formatS;">
 
 <!ENTITY settings "Agordoj">
 <!ENTITY settings_title "Agordoj">
@@ -155,6 +175,9 @@
 <!ENTITY pref_search_hint "Konsileto: aldonu iun ajn retejon al via listo de serĉiloj per longa premo sur la serĉkampo kaj posta tuŝeto sur la bildsimbolo &formatI;.">
 <!ENTITY pref_category_devtools "Iloj por disvolvantoj">
 <!ENTITY pref_developer_remotedebugging "Fora sencimigo">
+<!ENTITY pref_developer_remotedebugging_usb "Fora sencimigo per USB">
+<!ENTITY pref_developer_remotedebugging_wifi "Fora sencimigo per sendrata reto">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Por sendratreta sencimigo vi aparato devas havi instalita programon kiu povas legi kodon QR.">
 <!ENTITY pref_category_logins "Akreditiloj">
 <!ENTITY pref_remember_signons2 "Memori akreditilojn">
 <!ENTITY pref_open_external_urls_privately_title "Malfermi ligilojn en privata retumado">
@@ -176,6 +199,9 @@
 <!ENTITY pref_home_updates_wifi "Nur per sendrataj retoj">
 <!ENTITY pref_home_suggested_sites "Montri retejajn sugestojn">
 <!ENTITY pref_home_suggested_sites_summary "Montri en via hejmekrano ŝparvojojn al retejoj, kiujn ni opinias eble interesaj por vi">
+<!ENTITY pref_category_home_homepage "Hejmpaĝo">
+<!ENTITY home_homepage_title "Difini hejmpaĝon">
+<!ENTITY home_homepage_use_current_tab "Uzi nuna langeton">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Persone agordi">
@@ -191,16 +217,24 @@
 <!ENTITY pref_cookies_not_accept_foreign "Aktivaj, krom la nerektaj">
 <!ENTITY pref_cookies_disabled "Malaktiva">
 
+<!ENTITY pref_tap_to_load_images_title "Tuŝetu por ŝargi bildojn">
+<!ENTITY pref_tap_to_load_images_summary2 "Ŝargi bildojn nur kiam vi longe premas ilin">
+
 <!ENTITY pref_tracking_protection_title "Protekto kontraŭ spurado">
-<!ENTITY pref_tracking_protection_summary "&brandShortName; evitos ke retejoj spuru vin">
+<!ENTITY pref_tracking_protection_summary3 "Aktiva en privata retumado">
 <!ENTITY pref_donottrack_title "Ne spuri">
 <!ENTITY pref_donottrack_summary "&brandShortName; informos al la retejoj ke vi ne volas esti spurita">
+
+<!ENTITY tracking_protection_prompt_title "Nun kun protekto kontraŭ spurado">
+<!ENTITY tracking_protection_prompt_text "Aktive bloki spurajn elementojn, tiel ke vi de bezonos zorgi.">
+<!ENTITY tracking_protection_prompt_tip_text "Vizitu la agordojn de privateco por havi pli da informo">
+<!ENTITY tracking_protection_prompt_action_button "Mi komprenis!">
 
 <!ENTITY tab_queue_toast_message3 "Langeto konservita en &brandShortName;">
 <!ENTITY tab_queue_toast_action "Malfermi nun">
 <!ENTITY tab_queue_prompt_title "Ĉu malfermi plurajn ligilojn?">
-<!ENTITY tab_queue_prompt_text3 "Konservi ilin ĝis la venonta starto de &brandShortName;">
-<!ENTITY tab_queue_prompt_tip_text "poste vi povos ŝanĝi tion ĉi en Agordoj">
+<!ENTITY tab_queue_prompt_text4 "Konservi ilin ĝis kiam vi venontfoje malfermos &brandShortName;.">
+<!ENTITY tab_queue_prompt_tip_text2 "Vi povas ŝanĝi tion ĉi poste en Agordoj">
 <!ENTITY tab_queue_prompt_positive_action_button "Aktivigi">
 <!ENTITY tab_queue_prompt_negative_action_button "Nun ne">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
@@ -226,7 +260,6 @@
 <!ENTITY pref_plugins_tap_to_play "Tuŝetu por ludi">
 <!ENTITY pref_plugins_disabled "Malaktiva">
 <!ENTITY pref_text_size "Grando de teksto">
-<!ENTITY pref_reflow_on_zoom4 "Adapto de teksto">
 <!ENTITY pref_restore "Langetoj">
 <!ENTITY pref_restore_always "Ĉiam restarigi">
 <!ENTITY pref_restore_quit "Ne restarigi post fino de &brandShortName;">
@@ -260,6 +293,7 @@ size. -->
 <!ENTITY pref_sync "Spegulado">
 <!ENTITY pref_sync_summary2 "Speguli viajn langetojn, legosignojn, akreditilojn, historion">
 <!ENTITY pref_search_suggestions "Montri serĉajn sugestojn">
+<!ENTITY pref_history_search_suggestions "Montri serĉan historion">
 <!ENTITY pref_import_android "Importi el Android">
 <!ENTITY pref_import_android_summary "Importi legosignojn kaj historion el la nativa retumilo">
 <!ENTITY pref_private_data_history2 "Historio de retumado">
@@ -330,13 +364,13 @@ size. -->
 <!ENTITY addons "Aldonaĵoj">
 <!ENTITY logins "Seancoj">
 <!ENTITY downloads "Elŝutoj">
-<!ENTITY apps "Programoj">
 <!ENTITY char_encoding "Signa enkodigo">
 
 <!ENTITY share "Dividi">
 <!ENTITY share_title "Dividi per">
 <!ENTITY share_image_failed "Ne eblas dividi tiun ĉi bildon">
 <!ENTITY save_as_pdf "Konservi kiel PDF">
+<!ENTITY print "Presi">
 <!ENTITY find_in_page "Serĉi en paĝo">
 <!ENTITY desktop_mode "Peti skribotablan retejon">
 <!ENTITY page "Paĝo">
@@ -381,6 +415,8 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Alpingli retejon">
 <!ENTITY contextmenu_top_sites_unpin "Depingli retejon">
 <!ENTITY contextmenu_add_search_engine "Aldoni serĉilon">
+<!ENTITY contextmenu_mark_read "Marki kiel legita">
+<!ENTITY contextmenu_mark_unread "Marki kiel nelegita">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -400,6 +436,11 @@ size. -->
 <!ENTITY pref_titlebar_mode "Titolstrio">
 <!ENTITY pref_titlebar_mode_title "Montri titolon de paĝo">
 <!ENTITY pref_titlebar_mode_url "Montri adreson de paĝo">
+
+<!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
+     whether or not the magnifying glass is disabled. -->
+<!ENTITY pref_magnifying_glass_enabled "Grandigi etajn kampojn">
+<!ENTITY pref_magnifying_glass_enabled_summary "Grandigi ligilojn kaj formularajn kampojn kiam estas tuŝeto proksime de ili">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
@@ -426,9 +467,9 @@ size. -->
 <!ENTITY site_settings_clear        "Forviŝi">
 <!ENTITY site_settings_no_settings  "Estas neniu viŝebla agordo.">
 
-<!-- Localization note (reading_list_added2) : Used in a toast, please keep as short
+<!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
-<!ENTITY reading_list_added2 "Aldonita al la listo">
+<!ENTITY reading_list_added3 "Aldonita al la legolisto">
 <!ENTITY reading_list_removed "Paĝo forigita el via legolisto">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -458,8 +499,6 @@ size. -->
 <!ENTITY button_set "Difini">
 <!ENTITY button_clear "Forviŝi">
 <!ENTITY button_copy "Kopii">
-
-<!ENTITY firstrun_panel_title_welcome "Bonvenon">
 
 <!ENTITY home_top_sites_title "Top Sites">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -545,21 +584,21 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_run_by "kiu estas funkciigata de">
-<!ENTITY identity_no_info "Tiu ĉi retejo ne provizas identigan informon.">
-<!ENTITY identity_not_encrypted "Via konekto al tiu ĉi retejo ne estas ĉifrita.">
-<!ENTITY identity_encrypted "Ĉifrita">
+<!ENTITY identity_connection_secure "Sekura konekto">
+<!ENTITY identity_connection_insecure "Nesekura konekto">
 
 <!-- Mixed content notifications in site identity popup -->
-<!ENTITY loaded_mixed_content_message "Tiu ĉi paĝo montras enhavon, kiu ne estas sekura.">
-<!ENTITY blocked_mixed_content_message_top "&brandShortName; blokis nesekuran enhavon.">
-<!ENTITY blocked_mixed_content_message_bottom "La plimulto de retejoj plufunkcios bone, eĉ kiam tia ĉi enhavo estas blokita.">
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; blokis nesekurajn elementojn en tiu ĉi paĝo.">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; blokis kelkajn nesekurajn elementojn en tiu ĉi paĝo.">
+<!ENTITY mixed_content_display_loaded1 "Partoj de tiu ĉi paĝo ne estas sekuraj (ekzemple, bildoj).">
+<!ENTITY mixed_content_protection_disabled1 "Vi malaktivigis la protekton kontraŭ nesekura enhavo.">
 
 <!-- Tracking content notifications in site identity popup -->
-<!ENTITY loaded_tracking_content_message_top "Kontraŭspura protekto malaktiva.">
-<!ENTITY loaded_tracking_content_message_bottom "Partoj de tiu ĉi paĝo povas spuri vin en la reto.">
-<!ENTITY blocked_tracking_content_message_top2 "Kontraŭspura protekto aktiva.">
-<!ENTITY blocked_tracking_content_message_bottom2 "Partoj de tiu ĉi paĝo, kiuj spuras vin en la reto, estis blokitaj.">
+<!ENTITY doorhanger_tracking_title "Protekto kontraŭ spurado">
+<!ENTITY doorhanger_tracking_state_enabled "Aktiva">
+<!ENTITY doorhanger_tracking_state_disabled "Malaktiva">
+<!ENTITY doorhanger_tracking_message_enabled1 "Provoj spuri vian retumadon estis blokitaj.">
+<!ENTITY doorhanger_tracking_message_disabled2 "Tiu ĉi paĝo enahavas elementojn kiuj povus spuri vian retumadon.">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Pli da informo">
@@ -642,10 +681,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Voice search in the awesome bar -->
 <!ENTITY voicesearch_prompt "Parolu nun">
-<!ENTITY voicesearch_failed_title "Serĉo per voĉo de &brandShortName;">
-<!ENTITY voicesearch_failed_message "Estas nuntempe problemo kun la serĉo per voĉo. Bonvolu klopodi poste.">
-<!ENTITY voicesearch_failed_message_recoverable "Pardonu! Ne ne povis rekoni viajn vortojn. Bonvolu klopodi denove.">
-<!ENTITY voicesearch_failed_retry "Klopodi denove">
 
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
@@ -663,3 +698,39 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY find_matchcase "Aa">
 
 <!ENTITY intent_uri_cannot_open "Ne eblis malfermi ligilon">
+
+<!-- DevTools Authentication -->
+<!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
+     above a QR reader that is actively scanning for QR codes.  The expected QR
+     code has already been displayed by the client trying to connect (such as
+     desktop Firefox via WebIDE), so you just need to aim this device at the QR
+     code. -->
+<!ENTITY devtools_auth_scan_header "Serĉo de la kodo QR montrata en via alia aparato">
+
+<!-- Restrictions -->
+<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+     a restricted profile (e.g. child). Used inside the Android settings UI. -->
+<!ENTITY restriction_disallow_import_settings_title2 "Malaktivigi \'Importi el Android\'">
+<!ENTITY restriction_disallow_addons_title2 "Malaktivigi instalon de aldonaĵoj">
+<!ENTITY restriction_disallow_devtools_title2 "Malaktivigi programistajn ilojn">
+<!ENTITY restriction_disallow_customize_home_title2 "Malaktivigi personecigon de Hejmo">
+<!ENTITY restriction_disallow_private_browsing_title2 "Malaktivigi privatan retumadon">
+<!ENTITY restriction_disallow_location_services_title2 "Malaktivigi poziciajn servojn">
+<!ENTITY restriction_disallow_display_settings_title2 "Malaktivigi agordojn de ekrano">
+<!ENTITY restriction_disallow_clear_history_title2 "Malaktivigi \'Viŝi retuman historion\'">
+<!ENTITY restriction_disallow_master_password_title2 "Malaktivigi ĉefan pasvorton">
+<!ENTITY restriction_disallow_guest_browsing_title2 "Malaktivigi gastan retumadon">
+
+<!-- Default Bookmarks titles-->
+<!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!ENTITY bookmarks_about_browser "Firefox: pri via retumilo">
+<!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "Firefox: personecigi per aldonaĵoj">
+<!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "Firefox: Helpo">
+<!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
+<!ENTITY bookmarks_marketplace "Firefox Marketplace">
+<!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!ENTITY bookmarks_restricted_support2 "Helpo kaj subteno de Firefox por limigitaj profiloj en tabulkomputiloj kun Android">
+<!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!ENTITY bookmarks_restricted_webmaker "Lerni la Teksaĵon: Mozilla Webmaker">

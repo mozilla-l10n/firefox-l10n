@@ -6,6 +6,12 @@
 
 <!ENTITY  blockPopups.label           "Bloki ŝprucfenestrojn">
 <!ENTITY  blockPopups.accesskey       "B">
+
+<!ENTITY  notificationsPolicy.label            "Sciigoj">
+<!ENTITY  notificationsPolicyDesc.label        "Elekti retejojn, kiuj rajtas montri sciigojn">
+<!ENTITY  notificationsPolicyButton.accesskey  "h">
+<!ENTITY  notificationsPolicyButton.label      "Elekti…">
+
 <!ENTITY  popupExceptions.label       "Esceptoj…">
 <!ENTITY  popupExceptions.accesskey   "E">
 
