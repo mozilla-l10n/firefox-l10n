@@ -83,6 +83,7 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY welcome.useOldSync.label "Menggunakan versi lama Sync?">
 
+<!ENTITY signedOut.caption            "Bawa Web anda bersama anda">
 
 
 <!ENTITY signedOut.accountBox.create  "Cipta Akaun">
