@@ -16,8 +16,8 @@
 <!ENTITY pasteAsQuotationCmd.label "Вставити як цитату">
 <!ENTITY pasteAsQuotationCmd.accesskey "ц">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findBarCmd.label "Find…">
-<!ENTITY findReplaceCmd.label "Find and Replace…">
+<!ENTITY findBarCmd.label "Знайти…">
+<!ENTITY findReplaceCmd.label "Знайти й замінити…">
 <!ENTITY enableInlineSpellChecker.label "Перевірка орфографії під час набору">
 <!ENTITY enableInlineSpellChecker.accesskey "ч">
 <!ENTITY checkSpellingCmd2.label "Перевірити правопис">
