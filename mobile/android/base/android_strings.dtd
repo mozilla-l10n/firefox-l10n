@@ -218,7 +218,7 @@
 <!ENTITY pref_cookies_disabled "निष्क्रिय">
 
 <!ENTITY pref_tracking_protection_title "सुरक्षेचा मागोवा">
-
+<!ENTITY pref_tracking_protection_summary3 "खाजगी ब्राउझिंग मधे कार्यान्वित">
 <!ENTITY pref_donottrack_title "मागोवा घेऊ नका">
 <!ENTITY pref_donottrack_summary "&brandShortName; हे साइट्सना कळवेल की आपण मागोवा घेऊ इच्छित नाही">
 
@@ -283,7 +283,7 @@ size. -->
 <!ENTITY pref_zoom_force_enabled_summary "फोर्स ओव्हरराइड मुळे आपण कुठल्यापण पानावर झूम करु शकता">
 <!ENTITY pref_voice_input "आवाज इनपुट">
 <!ENTITY pref_voice_input_summary "शीर्षकपट्टीवर आवाज श्रुतलेखन अनुमत करा">
-
+<!ENTITY pref_qrcode_enabled "QR संकेत वाचक">
 <!ENTITY pref_qrcode_enabled_summary "शीर्षकपट्टीवर मध्ये QR स्कॅनर अनुमत करा">
 
 <!ENTITY pref_use_master_password "मास्टर पासवर्ड वापरा">
@@ -426,7 +426,7 @@ size. -->
 <!ENTITY doorhanger_login_select_message "&formatS; पासून पासवर्ड प्रत बनवायची?">
 <!ENTITY doorhanger_login_select_toast_copy "पासवर्ड क्लिपबोर्डवर प्रत झाली">
 <!ENTITY doorhanger_login_select_toast_copy_error "पासवर्डची प्रत नाही करु शकले">
-
+<!ENTITY doorhanger_login_select_action_text "दुसरे लॉगइन निवडा">
 <!ENTITY doorhanger_login_select_title "पासून पासवर्डची प्रत करा">
 
 <!ENTITY pref_titlebar_mode "शीर्षक पट्टी">
@@ -442,7 +442,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "पान खाली स्क्रोल करताना &brandShortName; शीर्ष पट्टी लपवा">
 
 <!ENTITY pref_tab_queue_title2 "अनेक दुवे उघडा">
-
+<!ENTITY pref_tab_queue_summary3 "पुढच्यावेळी &brandShortName; उघडे पर्यंत साठवुन ठेवा">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -462,6 +462,8 @@ size. -->
 <!ENTITY site_settings_no_settings  "पुसण्यासाठी सेटिंग नाहीत.">
 <!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
+
+<!ENTITY reading_list_added3 "वाचन यादीत जोडले">
 <!ENTITY reading_list_removed "पान तुमच्या वाचन यादीतून काढले गेले">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -576,16 +578,21 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-
+<!ENTITY identity_connection_secure "सुरक्षित जोडणी">
+<!ENTITY identity_connection_insecure "असुरक्षित जोडणी">
 <!-- Mixed content notifications in site identity popup -->
 
-
+<!ENTITY mixed_content_blocked_all1 "&brandShortName;ने या पानावर असुरक्षित आशय अडवले.">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; ने या पानावर काही असुरक्षित आशय अडवला आहे.">
+<!ENTITY mixed_content_display_loaded1 "या पृष्ठावरील काही भाग (उदा. प्रतिमा) सुरक्षित नाही.">
 
 <!-- Tracking content notifications in site identity popup -->
 
-
-
-
+<!ENTITY doorhanger_tracking_title "सुरक्षेचा मागोवा">
+<!ENTITY doorhanger_tracking_state_enabled "सक्रीय">
+<!ENTITY doorhanger_tracking_state_disabled "निष्क्रिय">
+<!ENTITY doorhanger_tracking_message_enabled1 "आपल्या ऑनलाइन वागणुकीच्या मागोव्याचे प्रयत्न अडवले.">
+<!ENTITY doorhanger_tracking_message_disabled2 "आपलं ब्राउझिंगचा मागोवा घेउ शकणारे घटक या पानामधे आहेत.">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "आणखी शिका">
@@ -596,6 +603,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "खाजगी माहिती पुसली गेली">
 <!ENTITY private_data_fail "काही खाजगी माहिती पुसली जाऊ शकली नाही">
 
+<!ENTITY bookmarkhistory_button_import "आयात">
 <!ENTITY bookmarkhistory_import_both "Androidमधून वाचनखूणा आणि इतिहास 
 आयात करत आहे">
 <!ENTITY bookmarkhistory_import_bookmarks "Androidमधून 
@@ -640,7 +648,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "सुरू ठेवा">
 <!ENTITY guest_session_dialog_cancel "रद्द">
 <!ENTITY new_guest_session_title "&brandShortName; पुनःसुरु होईल">
-
+<!ENTITY new_guest_session_text2 "जी व्यक्ती हे वापरत असेल त्याला आपली वयैक्तिक ब्राउझिंग माहिती नाही दिसणार (जसे साठवलेले पासवर्डस्, वाचनखूणांचा इतिहास).\n\nजेव्हा आपल्या अतिथीचं काम संपेल, त्यांची ब्राउझिंग माहिती पुसली जाईल व तुमचं सत्र पुनःप्रस्थापित होईल.">
 <!ENTITY guest_browsing_notification_title "अतिथी ब्राउझिंग सक्रीय.">
 <!ENTITY guest_browsing_notification_text "बाहेर जाण्यासाठी टिचकी">
 
@@ -692,22 +700,31 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
+
+<!ENTITY devtools_auth_scan_header "आपल्या दुसऱ्या उपकरणावरचा QR संकेत तपासत आहे.">
 <!-- Restrictions -->
 <!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
-
-
-
-
-
-
-
-
+<!ENTITY restriction_disallow_import_settings_title2 "\u0027Android पासुन आयात\u0027 निष्क्रिय करा">
+<!ENTITY restriction_disallow_addons_title2 "ॲड-ऑन प्रतिष्ठापन निष्क्रिय करा">
+<!ENTITY restriction_disallow_devtools_title2 "डेवलपर साधने निष्क्रिय करा">
+<!ENTITY restriction_disallow_customize_home_title2 "मुख्य प्राधान्यता निष्क्रिय करा">
+<!ENTITY restriction_disallow_private_browsing_title2 "खाजगी ब्राउझिंग निष्क्रिय करा">
+<!ENTITY restriction_disallow_location_services_title2 "स्थान सेवा निष्क्रिय करा">
+<!ENTITY restriction_disallow_display_settings_title2 "डिस्पले सेटिंग निष्क्रिय करा">
+<!ENTITY restriction_disallow_clear_history_title2 "\u0027ब्राउझिंग इतिहास पुसा\u0027 निष्क्रिय करा">
+<!ENTITY restriction_disallow_master_password_title2 "मास्टर पासवर्ड निष्क्रिय करा">
+<!ENTITY restriction_disallow_guest_browsing_title2 "अतिथी ब्राउझिंग निष्क्रिय करा">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+
+<!ENTITY bookmarks_about_browser "Firefox: आपल्या ब्राउझर विषयी">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "Firefox: ॲड-ऑन्स सोबत अनुरुप">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "Firefox: मदत">
 <!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
+<!ENTITY bookmarks_marketplace "Firefox Marketplace">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
