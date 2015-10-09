@@ -5,18 +5,17 @@
 <!-- The page shown when not logged in... -->
 <!ENTITY setupButton.label          "Inpòsta &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "s">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; o te faiâ acede a teu stöia, segnalibbri, paròlle segrette e feuggi averti in tutti i teu aparati che ti deuvi pe conetite.">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; o te faiâ acede a teu stöia, segnalibbri, paròlle segrete e feuggi averti in tutti i teu aparati che ti deuvi pe conetite.">
 
 <!-- The page shown when logged in... -->
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Agiorna">
-<!ENTITY resetPass.label              "Reinpòsta">
+<!ENTITY resetPass.label              "Repiggia">
 
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Gestion de l'Account">
 <!ENTITY manageAccount.accesskey      "A">
-<!ENTITY viewQuota.label              "Fanni vedde a quöta">
 <!ENTITY changePassword2.label        "Cangia paròlla segreta…">
 <!ENTITY myRecoveryKey.label          "A mæ ciave de repiggio">
 <!ENTITY resetSync2.label             "Reinpòsta Sync…">
@@ -30,7 +29,7 @@
 <!ENTITY engine.tabs.accesskey      "F">
 <!ENTITY engine.history.label       "Stöia">
 <!ENTITY engine.history.accesskey   "S">
-<!ENTITY engine.passwords.label     "Paròlle segrette">
+<!ENTITY engine.passwords.label     "Paròlle segrete">
 <!ENTITY engine.passwords.accesskey "p">
 <!ENTITY engine.prefs.label         "Preferense">
 <!ENTITY engine.prefs.accesskey     "P">
@@ -46,3 +45,53 @@
 
 <!ENTITY syncDeviceName.label       "Nomme de l'aparato:">
 <!ENTITY syncDeviceName.accesskey   "a">
+
+
+<!ENTITY mobilePromo.start "Descarega Firefox pe ">
+<!ENTITY mobilePromo.androidLink "Android™">
+<!ENTITY mobilePromo.end " pe scincronizâ con dispoxitivi mobili.">
+<!ENTITY androidAttribution "Android o l'é 'n marchio registrou de Google Inc.">
+<!ENTITY cancelChangeSyncDeviceName.label "Anulla">
+<!ENTITY changeSyncDeviceName.label "Cangia nomme dispoxitivo…">
+<!ENTITY determiningAcctStatus.label "Verifica stæto de l’account…">
+<!ENTITY disconnect.label "Disconetti…">
+<!ENTITY forget.label "Ascòrda sta email">
+<!ENTITY fxaPrivacyNotice.link.label "Informativa in sciâ privacy">
+<!ENTITY fxaSyncDeviceName.label "Nomme dispoxitivo">
+<!ENTITY profilePicture.tooltip "Cangia l’inmagine do profî">
+<!ENTITY saveChangeSyncDeviceName.label "Sarva">
+<!ENTITY welcome.signIn.label "Acedi">
+<!ENTITY signedOut.caption "A teu Ræ, de longo con ti">
+<!ENTITY signedOut.description "Scincronizza segnalibbri, stöia, feuggi, paròlle segrete, conponenti azonti e inpostaçioin con tutti i teu dispoxitivi.">
+<!ENTITY signedOut.accountBox.title "Conetti &syncBrand.fxAccount.label;">
+<!ENTITY signedOut.accountBox.create "Crea 'n account">
+<!ENTITY signedOut.accountBox.signin "Acedi">
+<!ENTITY signedIn.engines.label "Scincronizza co-i dispoxitivi">
+<!ENTITY signedInUnverified.beforename.label "">
+<!ENTITY signedInUnverified.aftername.label "no l'é verificou.">
+<!ENTITY signedInLoginFailure.beforename.label "Acedi pe ativâ torna a conescion">
+<!ENTITY signedInLoginFailure.aftername.label "">
+<!ENTITY verifiedManage.label "Gestisci account">
+<!ENTITY verify.label "Verifica email">
+<!ENTITY welcome.description "Ti peu acede a feuggi, segnalibbri, paròlle segrete e atre informaçioin in qualonque scitoaçion con &brandShortName;.">
+<!ENTITY welcome.signIn.label "Acedi">
+<!ENTITY welcome.createAccount.label "Crea 'n account">
+<!ENTITY welcome.useOldSync.label "Informaçioin pe-i utenti che adeuvian 'na vegia verscion de Sync">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
