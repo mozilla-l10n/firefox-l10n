@@ -194,7 +194,7 @@ values from browser.dtd.  -->
 <!ENTITY options.sourceeditor.autoclosebrackets.label   "ปิดวงเล็บอัตโนมัติ">
 <!ENTITY options.sourceeditor.autoclosebrackets.tooltip "ใส่วงเล็บปิดอัตโนมัติ">
 <!ENTITY options.sourceeditor.expandtab.label           "เยื้องโดยใช้ช่องว่าง">
-
+<!ENTITY options.sourceeditor.expandtab.tooltip         "ใช้ช่องว่างแทนอักขระแท็บ">
 <!ENTITY options.sourceeditor.tabsize.label             "ขนาดแท็บ">
 <!ENTITY options.sourceeditor.tabsize.accesskey         "ข">
 <!ENTITY options.sourceeditor.keybinding.label          "ปุ่มลัด">

@@ -63,7 +63,7 @@
   -  checkbox that toggles pausing on exceptions. -->
 
 <!ENTITY debuggerUI.pauseExceptions           "หยุดเมื่อพบ Exceptions">
-
+<!ENTITY debuggerUI.pauseExceptions.accesskey "E">
 <!-- LOCALIZATION NOTE (debuggerUI.ignoreCaughtExceptions): This is the label for the
   -  checkbox that toggles ignoring caught exceptions. -->
 
@@ -128,7 +128,7 @@
 
 <!ENTITY debuggerUI.searchGoToLine           "ไปยังบรรทัดที่…">
 <!ENTITY debuggerUI.searchGoToLine.key       "L">
-
+<!ENTITY debuggerUI.searchGoToLine.accesskey "L">
 <!-- LOCALIZATION NOTE (debuggerUI.searchVariable): This is the text that appears
   -  in the source editor's context menu for the variables search operation. -->
 
@@ -194,10 +194,12 @@
   -  debugger sources side menu. This should be the same as
   -  netmonitorUI.context.newTab  -->
 
+<!ENTITY debuggerUI.context.newTab           "เปิดในแท็บใหม่">
+<!ENTITY debuggerUI.context.newTab.accesskey "O">
 <!-- LOCALIZATION NOTE (debuggerUI.context.copyUrl): This is the label displayed
   -  on the context menu that copies the selected request's url. This should be
   -  the same as netmonitorUI.context.copyUrl -->
 
 <!ENTITY debuggerUI.context.copyUrl           "คัดลอก URL">
-
-
+<!ENTITY debuggerUI.context.copyUrl.accesskey "C">
+<!ENTITY debuggerUI.context.copyUrl.key "C">

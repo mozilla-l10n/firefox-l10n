@@ -53,8 +53,8 @@
 
 
 
-
-
+<!ENTITY performanceUI.table.selfPercentage.tooltip   "ร้อยละของเวลาที่ใช้กับฟังก์ชันนี้">
+<!ENTITY performanceUI.table.samples                  "ตัวอย่าง">
 
 
 
