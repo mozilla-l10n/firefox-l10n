@@ -4,7 +4,7 @@
 <!ENTITY addons.windowTitle                   "Pengurus Add-on">
 
 <!ENTITY search.placeholder                   "Cari semua add-on">
-
+<!ENTITY search.buttonlabel                   "Cari">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
@@ -23,7 +23,8 @@
 <!ENTITY cmd.back.tooltip                     "Pergi kembali laman sebelum">
 <!ENTITY cmd.forward.tooltip                  "Pergi ke halaman seterusnya">
 
-
+<!ENTITY showUnsignedExtensions.button.label  "Beberapa sambungan tidak dapat disahkan">
+<!ENTITY showAllExtensions.button.label       "Paparkan semua sambungan">
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Semua add-ons telah dimatikan oleh safe mode.">
@@ -102,8 +103,8 @@
 <!ENTITY cmd.installAddon.accesskey           "P">
 <!ENTITY cmd.uninstallAddon.label             "Singkir">
 <!ENTITY cmd.uninstallAddon.accesskey         "r">
-
-
+<!ENTITY cmd.debugAddon.label                 "Debug">
+<!ENTITY cmd.debugAddon.accesskey             "b">
 <!ENTITY cmd.showPreferencesWin.label         "Opsyen">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Tukar pilihan add-on ini">
 <!ENTITY cmd.showPreferencesUnix.label        "Keutamaan">
@@ -231,15 +232,19 @@ anda sendiri.">
 <!ENTITY experiment.info.changetelemetry "Tetapan Telemetri">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
 
+<!ENTITY setting.learnmore "Ketahui Lagi…">
 
+<!ENTITY disabledUnsigned.heading "Beberapa add-ons telah dilumpuhkan">
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-
-
-
+<!ENTITY disabledUnsigned.description.start "Add-ons berikut belum disahkan untuk digunakan di &brandShortName;. Anda dapat ">
+<!ENTITY disabledUnsigned.description.findAddonsLink "cari pengganti">
+<!ENTITY disabledUnsigned.description.end " atau tanya pembangun untuk mengesahkan mereka.">
+<!ENTITY disabledUnsigned.learnMore "Ketahui lanjut mengenai usaha kami untuk membantu memastikan anda selamat dalam talian.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
-
-
+<!ENTITY disabledUnsigned.devInfo.start "Pembangun yang berminat untuk mengesahkan add-ons mereka boleh meneruskan dengan mambaca ">
+<!ENTITY disabledUnsigned.devInfo.linkToManual "manual">
+<!ENTITY disabledUnsigned.devInfo.end ".">

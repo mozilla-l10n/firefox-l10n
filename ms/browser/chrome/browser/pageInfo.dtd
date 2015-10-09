@@ -22,7 +22,7 @@
 <!ENTITY  generalReferrer       "Merujuk URL:">
 <!ENTITY  generalSource         "sumber disorok:">
 <!ENTITY  generalModified       "Diubahsuai:">
-
+<!ENTITY  generalEncoding2      "Pengekodan Teks:">
 <!ENTITY  generalMetaName       "Nama">
 <!ENTITY  generalMetaContent    "Kandungan">
 
