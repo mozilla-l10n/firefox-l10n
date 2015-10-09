@@ -397,7 +397,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Tavsiyalar yordamida izlash bo‘yicha tajribangizni oshirishni xohlaysizmi?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Ko‘proq o‘rganish…">
-
+<!ENTITY urlbar.searchSuggestionsNotification.disable "Yo‘q">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Ha">
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -427,6 +427,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      These are set as the aria-label attribute for the search input box and
      submit button in the in-content search UI, to be used by screen readers. -->
 
+<!ENTITY contentSearchInput.label     "Izlash so‘rovi">
+<!ENTITY contentSearchSubmit.label    "Qidiruv jo‘natish">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -642,6 +644,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "Y">
 
+<!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "Sahifa uslubi">
 <!ENTITY pageStyleMenu.accesskey "l">
@@ -681,31 +684,38 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "Tayyor">
 <!ENTITY editBookmark.cancel.label                   "Bekor qilish">
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
-
-
-
-
-
+<!ENTITY identity.connectionSecure "Xavfsiz ulanish">
+<!ENTITY identity.connectionNotSecure "Ulanish – xavfsiz emas">
+<!ENTITY identity.connectionFile "Bu sahifa kompyuteringizda joylashgan.">
+<!ENTITY identity.connectionVerified "&brandShortName; sizning ushbu saytga xavfsiz ulanganligingizni tasdiqladi, u ushbu tomonidan bajariladi:">
+<!ENTITY identity.connectionInternal "Bu xavfsiz &brandShortName; sahifasi.">
 <!-- Strings for connection state warnings. -->
 
-
-
+<!ENTITY identity.activeBlocked "&brandShortName; ushbu sahifaning xavfli bo‘lgan qismlarini blokladi.">
+<!ENTITY identity.passiveLoaded "Ushbu sahifa qismlari xavfsiz emas (masalan: rasmlar).">
+<!ENTITY identity.activeLoaded "Siz ushbu sahifadagi himoyalanishni o‘chirib qo‘ygansiz.">
+<!ENTITY identity.weakEncryption "Ushbu sahifa kuchsiz kodlash usulidan foydalanadi.">
 <!-- Strings for connection state warnings in the subview. -->
 
+<!ENTITY identity.description.insecure "Ushbu saytga ulanish maxfiy emas. Siz jo‘natgan ma’lumotlarni (masalan, parol, xabar, kredit karta va boshqalarni) boshqalar ko‘rishi mumkin.">
+<!ENTITY identity.description.weakCipher "Ushbu vebsahifaga ulanish kuchsiz kodlash usulidan foydalanadi, shuning uchun u maxfiy emas.">
+<!ENTITY identity.description.weakCipher2 "Boshqa odamlar ma’lumotlaringizni ko‘rishi yoki vebsayt xususiyatlarini o‘zgartirishi mumkin.">
+<!ENTITY identity.description.activeBlocked "&brandShortName; ushbu sahifaning xavfli bo‘lgan qismlarini blokladi.">
+<!ENTITY identity.description.passiveLoaded "Ulanish maxfiy emas, shuning uchun siz sayt bilan bo‘lishgan ma’lumotlarni boshqalar ko‘rishi mumkin.">
+<!ENTITY identity.description.passiveLoaded2 "Ushbu saytda xavfli tarkib mavjud (masalan, rasmlar).">
+<!ENTITY identity.description.passiveLoaded3 "&brandShortName; ba’zi tarkibni blokladi, ammo sahifada hali ham xavfli tarkiblar (masalan, rasmlar) bor.">
+<!ENTITY identity.description.activeLoaded "Ushbu saytda xavfli tarkib mavjud (masalan, skriptlar), shuning uchun ulanish maxfiy emas.">
+<!ENTITY identity.description.activeLoaded2 "Ushbu sayt bilan bo‘lishgan ma’lumotlaringizni (masalan, parol, xabar, kredit kartalarini) boshqalar ko‘rishi mumkin.">
 
-
-
-
-
-
-
-
-
+<!ENTITY identity.enableMixedContentBlocking.label "Himoyalashni yoqish">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "y">
 <!ENTITY identity.disableMixedContentBlocking.label "Himoyani hozir o‘chirish">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "h">
+<!ENTITY identity.learnMore "Batafsil ma’lumot">
 
-
+<!ENTITY identity.moreInfoLinkText2 "Ko‘proq ma’lumot">
 
 <!ENTITY identity.permissions "Ruxsatlar">
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -780,29 +790,32 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "k">
 <!ENTITY getUserMedia.selectMicrophone.label "Bo‘lishish uchun mikrofon:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "m">
-
+<!ENTITY getUserMedia.audioCapture.label "Ichki oynadagi audio bo‘lishiladi.">
 <!ENTITY getUserMedia.allWindowsShared.message "Ekraningizdagi barcha ko‘rinadigan oynalar bo‘lishiladi.">
 
-
-
-
+<!ENTITY trackingProtection.title "Kuzatishdan himoyalanish">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; internetdagi faoliyatingizni kuzatishi mumkin bo‘lgan sahifa qismlarini blokladi.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "Ushbu saytda internetdagi faoliyatingizni kuzatishi mumkin bo‘lgan elementlar mavjud. Siz himoyalanishni yoqib qo‘yishingiz kerak.">
+<!ENTITY trackingProtection.notDetected3 "Ushbu sahifada hech qanday kuzatish elementlari aniqlanmadi.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-
+<!ENTITY trackingProtection.unblock.label "Ushbu sayt uchun himoyalanishni o‘chirib qo‘yish">
+<!ENTITY trackingProtection.unblock.accesskey "o">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-
-
-
+<!ENTITY trackingProtection.unblockPrivate.label "Ushbu seans uchun himoyalanishni o‘chirib qo‘yish">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "o">
+<!ENTITY trackingProtection.block2.label "Himoyalanishni yoqish">
+<!ENTITY trackingProtection.block2.accesskey "y">
 
 <!ENTITY trackingContentBlocked.message "Kuzatish">
 <!ENTITY trackingContentBlocked.moreinfo "Sizning onlayn faoliyatingizni kuzatuvchi sahifalar qismlari bloklandi.">
 <!ENTITY trackingContentBlocked.learnMore "Ko‘proq o‘rganish">
-
-
-
+<!ENTITY trackingContentBlocked.options "Moslamalar">
+<!ENTITY trackingContentBlocked.unblock2.label "Ushbu sayt uchun himoyalanishni o‘chirish">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "o">
 <!ENTITY trackingContentBlocked.block.label "Himoyani yoqish">
 <!ENTITY trackingContentBlocked.block.accesskey "y">
 <!ENTITY trackingContentBlocked.disabled.message "Kuzatishdan himoya o‘chirildi">
@@ -870,6 +883,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "Y">
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 
-
-
-
+<!ENTITY saveToPocketCmd.label     "Sahifani Cho‘ntakka saqlash">
+<!ENTITY saveToPocketCmd.accesskey "k">
+<!ENTITY saveLinkToPocketCmd.label     "Havolani Cho‘ntakka saqlash">
+<!ENTITY saveLinkToPocketCmd.accesskey "o">
+<!ENTITY pocketMenuitem.label      "Cho‘ntak ro‘yxatini ko‘rish">
