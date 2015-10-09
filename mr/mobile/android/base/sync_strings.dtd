@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label "कशाचे ताळमेळ करायचे">
 <!ENTITY sync.configure.engines.sync.my.title.label "ताळमेळ करा तुमचे…">
 <!ENTITY sync.configure.engines.title.bookmarks "वाचनखूणा">
-
+<!ENTITY sync.configure.engines.title.passwords2 "लॉगइन्स">
 <!ENTITY sync.configure.engines.title.history "इतिहास">
 <!ENTITY sync.configure.engines.title.tabs "टॅब्स">
 <!-- Common text -->
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "गोपनीयता धोरण">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "&syncBrand.shortName.label;ला जोडा">
-
+<!ENTITY fxaccount_getting_started_description2 "आपल्या टॅब्स, वाचनखूणा, लॉगइन्स आणि बरंच यांच्या ताळमेळीसाठी साइन इन करा.">
 <!ENTITY fxaccount_getting_started_get_started "सुरु करा">
 <!ENTITY fxaccount_getting_started_old_firefox "&syncBrand.shortName.label; ची जुनी आवृत्ती वापरताय?">
 <!-- Localization note: the Firefox below should not change with the
@@ -197,7 +197,7 @@
 
 <!ENTITY fxaccount_status_header2 "Firefox खातं">
 <!ENTITY fxaccount_status_signed_in_as "असे प्रवेश केले">
-
+<!ENTITY fxaccount_status_manage_account "खाते व्यवस्थापीत करा">
 <!ENTITY fxaccount_status_auth_server "खाते सर्वर">
 <!ENTITY fxaccount_status_sync_now "लगेच ताळमेळ करा">
 <!ENTITY fxaccount_status_syncing2 "ताळमेळ करीत आहोत…">
@@ -213,7 +213,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating "आपल्या नवीन Firefox खात्यात साइन इन करण्यासाठी टॅप करा.">
 <!ENTITY fxaccount_status_bookmarks "वाचनखूणा">
 <!ENTITY fxaccount_status_history "इतिहास">
-
+<!ENTITY fxaccount_status_passwords2 "लॉगइन्स">
 <!ENTITY fxaccount_status_tabs "टॅब्स उघडा">
 <!ENTITY fxaccount_status_legal "कायदेविषयक" >
 <!-- Localization note: when tapped, the following two strings link to
@@ -231,7 +231,7 @@
 <!ENTITY fxaccount_remove_account_toast "&formatS; Firefox खाते काढून टाकण्यात आले.">
 
 <!ENTITY fxaccount_remove_account_menu_item "खाते काढा">
-
+<!ENTITY fxaccount_enable_debug_mode "डीबग पद्धत सक्रीय">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 
