@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle "Firefox WebIDE">
+<!ENTITY windowTitle "WebIDE de Firefox">
 
 <!ENTITY projectMenu_label "Projekto">
 <!ENTITY projectMenu_accesskey "P">
@@ -26,6 +26,7 @@
 <!ENTITY projectMenu_showPrefs_accesskey "e">
 <!ENTITY projectMenu_manageComponents_label "Administri ekstrajn komponantojn">
 <!ENTITY projectMenu_manageComponents_accesskey "k">
+<!ENTITY projectMenu_refreshTabs_label "Refreŝigi langetojn">
 
 <!ENTITY runtimeMenu_label "Rulĉirkaŭaĵo">
 <!ENTITY runtimeMenu_accesskey "R">
