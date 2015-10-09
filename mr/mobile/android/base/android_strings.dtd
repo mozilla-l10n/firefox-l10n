@@ -222,14 +222,16 @@
 <!ENTITY pref_donottrack_title "मागोवा घेऊ नका">
 <!ENTITY pref_donottrack_summary "&brandShortName; हे साइट्सना कळवेल की आपण मागोवा घेऊ इच्छित नाही">
 
+<!ENTITY tracking_protection_prompt_title "आता मागोवा सुरक्षा सोबत">
+<!ENTITY tracking_protection_prompt_text "तत्परतेने मागोवा घटक अडवते जेणेकरुन आपल्याला काळजी करावी नाही लागणार.">
+<!ENTITY tracking_protection_prompt_tip_text "अधिक जाणून घेण्यासाठी गोपनीयता सेटिंग बघा">
+<!ENTITY tracking_protection_prompt_action_button "कळले!">
 
-
-
-
+<!ENTITY tab_queue_toast_message3 "&brandShortName; मध्ये टॅब साठवले">
 <!ENTITY tab_queue_toast_action "आता उघडा">
 <!ENTITY tab_queue_prompt_title "अनेक दुवे उघडत आहे?">
-
-
+<!ENTITY tab_queue_prompt_text4 " &brandShortName;पुढच्या वेळी उघडेपर्यंत साठवा.">
+<!ENTITY tab_queue_prompt_tip_text2 "सेटिंग्समधुन आपण हे नंतर बदलु शकता">
 <!ENTITY tab_queue_prompt_positive_action_button "कार्यान्वित">
 <!ENTITY tab_queue_prompt_negative_action_button "सध्या नाही">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
@@ -279,14 +281,14 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled_summary "वेबसाइट्स स्वत:हून चित्रफिती आणि इतर मीडीया सामग्री चालवणे नियंत्रित करा">
 <!ENTITY pref_zoom_force_enabled "झूम कायम सक्रीय">
 <!ENTITY pref_zoom_force_enabled_summary "फोर्स ओव्हरराइड मुळे आपण कुठल्यापण पानावर झूम करु शकता">
+<!ENTITY pref_voice_input "आवाज इनपुट">
+<!ENTITY pref_voice_input_summary "शीर्षकपट्टीवर आवाज श्रुतलेखन अनुमत करा">
 
-
-
-
+<!ENTITY pref_qrcode_enabled_summary "शीर्षकपट्टीवर मध्ये QR स्कॅनर अनुमत करा">
 
 <!ENTITY pref_use_master_password "मास्टर पासवर्ड वापरा">
 <!ENTITY pref_sync "ताळमेळ">
-
+<!ENTITY pref_sync_summary2 "आपल्या टॅब्स, वाचनखुणा, लॉगइन्स, इतिहास यांचे ताळमेळ साधा">
 <!ENTITY pref_search_suggestions "शोध सूचना दाखवा">
 <!ENTITY pref_import_android "Android मधून घ्या">
 <!ENTITY pref_import_android_summary "मूळ ब्राउज़रमधून वाचनखुणा आणि इतिहास आयात करा">
@@ -294,12 +296,12 @@ size. -->
 <!ENTITY pref_private_data_searchHistory "शोध इतिहास">
 <!ENTITY pref_private_data_formdata2 "इतिहास मधुन">
 <!ENTITY pref_private_data_cookies2 "कुकीज आणि कार्यरत लॉगइन्स">
-
+<!ENTITY pref_private_data_passwords2 "साठवलेले लॉगइन्स">
 <!ENTITY pref_private_data_cache "कॅशे">
 <!ENTITY pref_private_data_offlineApps "ऑफलाइन संकेतस्थळ माहिती">
 <!ENTITY pref_private_data_siteSettings2 "साइट सेटिंग">
 <!ENTITY pref_private_data_downloadFiles2 "डाउनलोडस्">
-
+<!ENTITY pref_private_data_syncedTabs "ताळमेळ झालेले टॅब्स">
 
 
 <!ENTITY pref_about_firefox "&brandShortName;बद्दल">
@@ -364,7 +366,7 @@ size. -->
 <!ENTITY share_title "याद्वारे शेअर करा">
 <!ENTITY share_image_failed "ही प्रतिमा शेअर करु शकत नाही">
 <!ENTITY save_as_pdf "PDF म्हणून साठवा">
-
+<!ENTITY print "छापा">
 <!ENTITY find_in_page "पानात शोधा">
 <!ENTITY desktop_mode "डेस्कटॉप साइटची विनंती करा">
 <!ENTITY page "पान">
@@ -384,7 +386,7 @@ size. -->
 
 <!ENTITY find_text "पानात शोधा">
 <!ENTITY find_prev "मागील">
-
+<!ENTITY find_next "पुढे">
 <!ENTITY find_close "बंद">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -409,8 +411,8 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "साइट पिन करा">
 <!ENTITY contextmenu_top_sites_unpin "साइट अनपिन करा">
 <!ENTITY contextmenu_add_search_engine "शोध इंजिन जोडा">
-
-
+<!ENTITY contextmenu_mark_read "वाचले असे चिन्हांकित करा">
+<!ENTITY contextmenu_mark_unread "वाचले नाही असे चिन्हांकित करा">
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
