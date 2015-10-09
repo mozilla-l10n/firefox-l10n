@@ -10,3 +10,6 @@
 <!ENTITY addonAction.disable                    "Desactivar">
 <!ENTITY addonAction.uninstall                  "Desinstalar">
 <!ENTITY addonAction.undo                       "Desfacer">
+
+<!ENTITY addonUnsigned.message                  "Non foi posíbel que &brandShortName; comprobase este complemento.">
+<!ENTITY addonUnsigned.learnMore                "Máis información">
