@@ -1,0 +1,76 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY  copy.label            "ສຳເນົາ">
+<!ENTITY  copy.accesskey        "C">
+
+<!ENTITY  selectall.label       "ເລືອກທັ້ງຫມົດ">
+<!ENTITY  selectall.accesskey   "A">
+
+
+<!ENTITY  generalTab            "ທົ່ວໄປ">
+
+
+
+
+
+
+
+
+
+
+<!ENTITY  generalMetaContent    "ເນື້ອຫາ">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY  feedSubscribe         "ເປັນສະມາຊິກ">
+
+
+
+
+
+<!ENTITY  permAllow             "ອະນຸຍາດ">
+
+
+
+
+
+
+
+<!ENTITY  securityTab           "ຄວາມປອດໄພ">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY  securityView.technical.header                 "ຂໍ້ມູນດ້ານເທັກນິກ">
+

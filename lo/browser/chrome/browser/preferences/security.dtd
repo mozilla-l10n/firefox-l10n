@@ -1,0 +1,36 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  general.label                 "ທົ່ວໄປ">
+
+<!ENTITY  warnAddonInstall.label        "ແຈ້ງເຕືອນເມື່ອເວັບໃຊມີຄວາມຕ້ອງການຕິດຕັ້ງໂປຼແກມເສີມເພີ່ມຕື່ມ">
+<!ENTITY  warnAddonInstall.accesskey    "W">
+<!-- LOCALIZATION NOTE (blockWebForgeries.label, blockAttackSites.label):
+  The methods by which forged (phished) and attack sites will be detected by
+  phishing providers will vary from human review to machine-based heuristics to a
+  combination of both, so it's important that these strings and
+  useDownloadedList.label convey the meaning "reported" (and not something like
+  "known").
+-->
+
+<!ENTITY  blockAttackSites.label     "ສະກັດກັ້ນ ແລະ ລາຍງານຈຳພວກເວັບໄຊທີ່ມີໄວຣັດ">
+<!ENTITY  blockAttackSites.accesskey "k">
+
+<!ENTITY  blockWebForgeries.label     "ສະກັດກັ້ນ ແລະ ລາຍງານເວັບໄຊທີ່ມີການປອມແປງ">
+<!ENTITY  blockWebForgeries.accesskey "B">
+
+<!ENTITY  addonExceptions.label         "ຍົກເວັ້ນ">
+<!ENTITY  addonExceptions.accesskey     "ຍ">
+
+
+
+<!ENTITY  passwordExceptions.label      "ຍົກເວັ້ນ">
+<!ENTITY  passwordExceptions.accesskey  "x">
+
+<!ENTITY  useMasterPassword.label        "ໃຊ້ລະຫັດຜ່ານຫຼັກ">
+<!ENTITY  useMasterPassword.accesskey    "U">
+<!ENTITY  changeMasterPassword.label     "ປ່ຽນລະຫັດຜ່ານຫຼັກ">
+<!ENTITY  changeMasterPassword.accesskey "M">
+
+

@@ -1,0 +1,18 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY newWindowsAsTabs.label       "ເປີດໜ້າຕ່າງໃໝ່ໃນແທນທີ່ແທັບໃໝ່">
+<!ENTITY newWindowsAsTabs.accesskey   "t">
+
+<!ENTITY warnCloseMultipleTabs.label  "ແຈ້ງເຕືອນຂ້ອຍເມື່ອມີການປີດຫຼາຍໜ້າຕ່າງພ້ອມກັນ">
+<!ENTITY warnCloseMultipleTabs.accesskey  "m">
+
+
+
+
+
+
+
+
+<!ENTITY tabsGroup.label          "ແທັບ">

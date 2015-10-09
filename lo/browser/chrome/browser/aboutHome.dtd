@@ -1,0 +1,38 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+<!ENTITY % syncBrandDTD SYSTEM "chrome://browser/locale/syncBrand.dtd">
+%syncBrandDTD;
+<!-- These strings are used in the about:home page -->
+
+
+<!ENTITY abouthome.pageTitle "&brandFullName; ຫນ້າເລີ່ມຕົ້ນ">
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
+     text in <a/> will be linked to the Firefox features page on mozilla.com
+-->
+
+<!ENTITY abouthome.defaultSnippet1.v1 "ຂອບໃຈສຳລັບການເລືອກໃຊ້ໄຟຟັອກ! ເພື່ອນຳໃຊ້ຄວາມສາມາດທັ້ງທີ່ຢູ່ໃນບຣາວເສີນີ້ ກະລຸນາຮຽນການນຳໃຊ້ເພີ່ມເຕີມໄດ້ທີ່ <a>ຄວາມສາມາດທັ້ງຫມົດ</a>.">
+<!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
+     text in <a/> will be linked to the featured add-ons on addons.mozilla.org
+-->
+<!ENTITY abouthome.defaultSnippet2.v1 "ການປັບແກ້ໄຟຟັອກຂອງທ່ານໃຫ້ເປັນໄປຕາມສິ່ງທີທ່ານມັກນັ້ນແມ່ນງ່າຍດາຍ <a>ເລືອກໄດ້ຈາກໂປຼແກຣມເສີມເປັນພັນ</a>.">
+<!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
+<!ENTITY abouthome.rightsSnippet "&brandFullName; ຟຣີແລະເປີດແຫຼ່ງຂໍ້ມູນຊອບແວຈາກຫາກຖານໂມຊີລາໂດຍບໍ່ຫວັງຜົນກໍາໄລ. <a>ຮູ້ຈັກສິດທິຂອງທ່ານ...</a>">
+
+<!ENTITY abouthome.bookmarksButton.label "ບຸກມາກສ໌">
+<!ENTITY abouthome.historyButton.label   "ປະຫວັດການໃຊ້ງານ">
+<!-- LOCALIZATION NOTE (abouthome.preferencesButtonWin.label): The label for the
+     preferences/options item on about:home on Windows -->
+<!ENTITY abouthome.preferencesButtonWin.label  "ຕົວເລືອກ">
+<!-- LOCALIZATION NOTE (abouthome.preferencesButtonUnix.label): The label for the
+     preferences/options item on about:home on Linux and OS X -->
+<!ENTITY abouthome.preferencesButtonUnix.label  "ຕັ້ງຄ່າ">
+<!ENTITY abouthome.addonsButton.label    "ໂປຼແກຣມເສີມ">
+<!-- LOCALIZATION NOTE (abouthome.appsButton2.label): This string should be consistent with
+     the Apps menu item in the Tools menu (webapps.label in browser.dtd) and the Apps toolbar button in
+     Firefox's customization palette (web-apps-button.label in customizableWidgets.properties) -->
+<!ENTITY abouthome.downloadsButton.label "ດາວໂຫລດ">
+<!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">

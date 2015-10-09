@@ -1,0 +1,80 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+
+<!-- Specific error messages -->
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+
+<!ENTITY deniedPortAccess.longDesc "">
+
+
+
+
+
+
+
+
+
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+
+
+
+
+
+
+
+
+
+<!ENTITY netReset.longDesc "&sharedLongDesc;">
+
+<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY malwareBlocked.longDesc "<p>ເວັບໃຊ້ໂຈມຕີພະຍາຍາມຕິດຕັ້ງໂປຼແກຣມທີ່ໃຊ້ຂໍ້ມູນສ່ວນໂຕ, ໃຊ້ຄອມພິວເຕີເຮົາໃນການໂຈມຕີເວັບໃຊ້ອື່ນ ຫລື ທຳລາຍລະບົບຂອງທ່ານ</p>
+<p>ເຈົ້າຂອງເວັບໃຊ້ຜູ້ທີ່ເຊື່ອວ່າເວັບຂອງພວກເຂົາໄດ້ຖືກລາຍງານວ່າເປັນເວັບໃຊ້ໂຈມຕີໃນທາງທີ່ຜິດ<a href='http://www.stopbadware.org/home/reviewinfo' >ທ່ານອາດຈະຂໍກວດເບິງຄືນໄດ້</a>.</p>">
+
+
+
+
+
+
+
+
+
+<!ENTITY securityOverride.getMeOutOfHereButton "ພາຂ້ອຍອອກຈາກບ່ອນນີ້!">
+<!ENTITY securityOverride.exceptionButtonLabel "ເພີ່ມຂໍ້ຍົກເວັ້ນ…">
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <button> tags. It uses strings already defined above. The
+button is included here (instead of netError.xhtml) because it exposes
+functionality specific to firefox. -->
+
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
+     "ssl_error_unsupported_version". -->
+

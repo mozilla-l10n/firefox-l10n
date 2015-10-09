@@ -1,0 +1,832 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
+
+
+<!ENTITY mainWindow.title "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifier "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
+                                                                inside the private browsing mode -->
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(ການຄົ້ນຫາແບບສ່ວນຕົວ)">
+
+
+<!-- Tab context menu -->
+
+<!ENTITY  reloadTab.label                    "ໂລດແທັບຄືນໃຫມ່">
+<!ENTITY  reloadTab.accesskey                "R">
+
+
+<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
+direction in which tabs are closed, i.e. locales that use RTL mode should say
+left instead of right. -->
+
+
+
+<!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
+used as a metaphor for expressing the fact that these tabs are "pinned" to the
+left edge of the tabstrip. Really we just want the string to express the idea
+that this is a lightweight and reversible action that keeps your tab where you
+can reach it easily. -->
+
+<!ENTITY  pinTab.label                       "ປັກແທັບ">
+<!ENTITY  pinTab.accesskey                   "P">
+<!ENTITY  unpinTab.label                     "ບໍ່ປັກແທັບ">
+<!ENTITY  unpinTab.accesskey                 "b">
+<!ENTITY  moveToGroup.label                  "ຍ້າຍໄປໃນກຸ່ມ">
+<!ENTITY  moveToGroup.accesskey              "M">
+<!ENTITY  moveToNewGroup.label               "ກຸ່ມໃຫມ່">
+<!ENTITY  moveToNewWindow.label              "ຍ້າຍໄປຫນ້າຕ່າງໃຫມ່">
+<!ENTITY  moveToNewWindow.accesskey          "W">
+
+
+
+
+<!ENTITY  closeTab.label                     "ປິດແທັບ">
+<!ENTITY  closeTab.accesskey                 "C">
+
+<!ENTITY  listAllTabs.label      "ສະແດງລາຍຊື່ແຖບທັງໝົດ">
+
+<!ENTITY tabCmd.label "ແທັບໃຫມ່">
+<!ENTITY tabCmd.accesskey "T">
+<!ENTITY tabCmd.commandkey "t">
+<!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
+displayed on OS X, and only on windows that aren't main browser windows, or
+when there are no windows but Firefox is still running. -->
+<!ENTITY openFileCmd.label "ເປີດ...">
+<!ENTITY openFileCmd.accesskey "O">
+<!ENTITY openFileCmd.commandkey "o">
+<!ENTITY printSetupCmd.label "ການຕັ້ງຄ່າຫນ້ານີ້">
+<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printPreviewCmd.label "ກວດເບິງຄືນກ່ອນການພິມ">
+<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printCmd.label "ພິມ...">
+<!ENTITY printCmd.accesskey "P">
+<!ENTITY printCmd.commandkey "p">
+
+<!ENTITY goOfflineCmd.label "ເຮັກວຽກອອບໄລນ໌">
+<!ENTITY goOfflineCmd.accesskey "k">
+
+<!ENTITY menubarCmd.label "ແຖບລາຍການ">
+<!ENTITY menubarCmd.accesskey "M">
+
+<!ENTITY personalbarCmd.label "ແຖບເຄື່ອງມືບຸກມາກ">
+<!ENTITY personalbarCmd.accesskey "B">
+<!ENTITY bookmarksToolbarItem.label "ລາຍການຂອງແຖບເຄື່ອງມືບຸກມາກ">
+
+
+
+
+
+
+
+<!ENTITY pageSourceCmd.label "ທີ່ມາຂອງຫນ້ານີ້">
+<!ENTITY pageSourceCmd.accesskey "o">
+<!ENTITY pageSourceCmd.commandkey "u">
+<!ENTITY pageInfoCmd.label "ຂໍ້ມູນຂອງຫນ້ານີ້">
+<!ENTITY pageInfoCmd.accesskey "I">
+<!ENTITY pageInfoCmd.commandkey "i">
+
+
+<!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
+These should match what Safari and other Apple applications use on OS X Lion. -->
+<!ENTITY enterFullScreenCmd.label "ເຂົ້າສູ່ໂມດເຕັມຫນ້າຈໍ">
+<!ENTITY enterFullScreenCmd.accesskey "F">
+<!ENTITY exitFullScreenCmd.label "ອອກຈາກໂມດເຕັມຫນ້າຈໍ">
+<!ENTITY exitFullScreenCmd.accesskey "F">
+<!ENTITY fullScreenCmd.label "ໂມດເຕັມຫນ້າຈໍ">
+<!ENTITY fullScreenCmd.accesskey "F">
+<!ENTITY fullScreenCmd.macCommandKey "f">
+<!ENTITY showAllTabsCmd.label "ສະແດງທຸກໆແທັບ">
+<!ENTITY showAllTabsCmd.accesskey "A">
+
+
+
+
+
+
+
+
+<!ENTITY fullScreenMinimize.tooltip "ເຮັດໃຫ້ນ້ອຍລົງ">
+<!ENTITY fullScreenRestore.tooltip "ກູ້ຄືນ">
+
+<!ENTITY fullScreenAutohide.label "ເຊື່ອງແຖບເຄືອງມື">
+<!ENTITY fullScreenAutohide.accesskey "H">
+<!ENTITY fullScreenExit.label "ອອກຈາກໂມດເຕັມຫນ້າຈໍ">
+<!ENTITY fullScreenExit.accesskey "F">
+<!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
+     fullscreenWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring fullscreen.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
+
+<!ENTITY fullscreenWarning.beforeDomain.label "">
+
+
+<!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
+     exitDOMFullscreenMac.button): the "escape" button on PC keyboards
+     is uppercase, while on Mac keyboards it is lowercase -->
+
+<!ENTITY leaveDOMFullScreen.label "ອອກຈາກໂມດເຕັມຫນ້າຈໍ">
+<!ENTITY leaveDOMFullScreen.accesskey "u">
+
+<!ENTITY closeWindow.label "ປິດຫນ້າຕ່າງ">
+<!ENTITY closeWindow.accesskey "d">
+
+<!ENTITY bookmarksMenu.label "ບຸກມາກ">
+<!ENTITY bookmarksMenu.accesskey "B">
+
+
+<!ENTITY bookmarkThisPageCmd.commandkey "d">
+
+<!-- LOCALIZATION NOTE (findShareServices.label):
+  -  Use the unicode ellipsis char, \u2026,
+  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
+
+
+
+<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
+
+
+
+
+
+
+
+
+<!ENTITY subscribeToPageMenupopup.label "ເປັນສະມາຊິກຫນ້ານີ້">
+<!ENTITY subscribeToPageMenuitem.label "ເປັນສະມາຊິກຫນ້ານີ້...">
+<!ENTITY addCurPagesCmd.label "ບຸກມາກຂອງທຸກແຖບ...">
+<!ENTITY showAllBookmarks2.label "ສະແດງທຸກບຸກມາກ">
+<!ENTITY unsortedBookmarksCmd.label "ຈັດລຳດັບບຸກມາກຄືນໃຫມ່">
+<!ENTITY bookmarksToolbarChevron.tooltip "ສະແດງບຸກມາກເພີມເຕີມ">
+
+<!ENTITY backButton.tooltip           "ກັບກັບໄປໜ້າກ່ອນໜ້ານີ້">
+
+<!ENTITY forwardButton.tooltip        "ໄປໜ້າຖັດໄປ">
+<!ENTITY backForwardButtonMenu.tooltip "ຄິກຂວາ ຫລື ເລື່ອນເມົ້າລົງເພື່ອສະແດງປະຫວັດການໃຊ້ງານ">
+<!ENTITY backForwardButtonMenuMac.tooltip "ເລື່ອນເມົ້າລົງເພື່ອສະແດງປະຫວັດການໃຊ້ງານ">
+
+<!ENTITY reloadButton.tooltip         "ໂລດຫນ້າປະຈຸບັນຄືນໃຫມ່">
+
+<!ENTITY stopCmd.macCommandKey        ".">
+<!ENTITY stopButton.tooltip           "ຢຸດການໂລດໜ້ານີ້">
+<!ENTITY goEndCap.tooltip             "ໄປຫາທີ່ຢູ່ໃນແຖບຕຳແຫນ່ງທີ່ຢູ່">
+<!ENTITY printButton.label            "ພິມ">
+<!ENTITY printButton.tooltip          "ພິມໜ້ານີ້">
+
+<!ENTITY locationItem.title           "ຕຳແຫນ່ງທີ່ຢູ່">
+<!ENTITY searchItem.title             "ຊອກຫາ">
+<!-- Toolbar items -->
+
+<!ENTITY tabGroupsButton.label        "ແຖບເປັນກຸ່ມ">
+
+<!ENTITY bookmarksButton.label          "ບຸກມາກ">
+<!ENTITY bookmarksCmd.commandkey "b">
+
+<!ENTITY bookmarksMenuButton.label          "ບຸກມາກ">
+<!ENTITY bookmarksMenuButton.unsorted.label "ຈັດລຳດັບບຸກມາກຄືນໃຫມ່">
+
+<!ENTITY viewBookmarksToolbar.label         "ເບິງແຖບເຄື່ອງມືບຸກມາກ">
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "i">
+
+<!ENTITY historySidebarCmd.commandKey   "h">
+
+<!ENTITY toolsMenu.label              "ເຄື່ອງມື">
+<!ENTITY toolsMenu.accesskey          "T"> 
+
+<!ENTITY keywordfield.label           "ປ້ອນຄຳທີ່ຕ້ອງການຄົ້ນຫາໃສ່...">
+<!ENTITY keywordfield.accesskey       "K">
+
+<!ENTITY downloads.label              "ດາວໂລດ">
+<!ENTITY downloads.accesskey          "D">
+<!ENTITY downloads.commandkey         "j">
+
+<!ENTITY addons.label                 "ໂປຼແກຣມເສີມ">
+<!ENTITY addons.accesskey             "A">
+<!ENTITY addons.commandkey            "A">
+
+
+
+<!ENTITY webDeveloperMenu.label       "ນັກພັດທະນາເວັບ">
+<!ENTITY webDeveloperMenu.accesskey   "W">
+
+<!ENTITY devToolsCmd.keytext          "F12">
+
+
+
+<!ENTITY errorConsoleCmd.label        "ຄອນໂສລຄວາມຜິດພາດ">
+<!ENTITY errorConsoleCmd.accesskey    "C">
+
+<!ENTITY remoteWebConsoleCmd.label    "ຄອນໂຊລເວັບໄລຍະໃກ">
+
+
+
+
+<!ENTITY inspectContextMenu.label     "ກວດກາອົງປະກອບ">
+<!ENTITY inspectContextMenu.accesskey "Q">
+
+<!ENTITY responsiveDesignTool.label   "ມູມມອງການອອກແບບທີ່ມີການໂຕ້ຕອບ">
+<!ENTITY responsiveDesignTool.accesskey "R">
+
+
+
+<!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
+  -  in the Tools menu. See bug 653093.
+  -  The Scratchpad is intended to provide a simple text editor for creating
+  -  and evaluating bits of JavaScript code for the purposes of function
+  -  prototyping, experimentation and convenient scripting.
+  -
+  -  It's quite possible that you won't have a good analogue for the word
+  -  "Scratchpad" in your locale. You should feel free to find a close
+  -  approximation to it or choose a word (or words) that means
+  -  "simple discardable text editor". -->
+
+<!ENTITY scratchpad.label             "ໃຊ້ງານຊົ່ວຄາວ">
+<!ENTITY scratchpad.accesskey         "S">
+<!ENTITY scratchpad.keycode           "VK_F4">
+<!ENTITY scratchpad.keytext           "F4">
+<!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
+  -  application menu item that opens the browser toolbox UI in the Tools menu. -->
+
+
+<!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
+  -  application menu item that opens the browser content toolbox UI in the Tools menu.
+  -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
+
+
+<!ENTITY devToolbarCloseButton.tooltiptext "ປິດແຖບເຄືອງມືຂອງນັກພັດທະນາ">
+<!ENTITY devToolbarMenu.label              "ແຖບເຄືອງມືຂອງນັກພັດທະນາ">
+<!ENTITY devToolbarMenu.accesskey          "v">
+
+
+
+
+
+<!ENTITY webide.keytext                    "F8">
+<!ENTITY devToolbar.keycode                "VK_F2">
+<!ENTITY devToolbar.keytext                "F2">
+
+
+
+
+<!ENTITY devToolbarOtherToolsButton.label  "ເຄື່ອງມືອື່ນໆ">
+
+<!ENTITY getMoreDevtoolsCmd.label        "ເຄື່ອງມືອື່ນໆ">
+<!ENTITY getMoreDevtoolsCmd.accesskey    "M">
+
+<!ENTITY fileMenu.label         "ໄຟລ໌"> 
+<!ENTITY fileMenu.accesskey       "F">
+<!ENTITY newNavigatorCmd.label        "ຫນ້າຕ່າງໃຫມ່">
+<!ENTITY newNavigatorCmd.key        "N">
+<!ENTITY newNavigatorCmd.accesskey      "N">
+<!ENTITY newPrivateWindow.label     "ເປີດຫນ້າຕ່າງສວນຕົວຂື້ນມາໃຫມ່">
+<!ENTITY newPrivateWindow.accesskey "W">
+
+
+<!ENTITY editMenu.label         "ແກ້ໄຂ"> 
+<!ENTITY editMenu.accesskey       "E"> 
+
+<!ENTITY undoCmd.key            "Z">  
+
+<!ENTITY redoCmd.label            "ເຮັດຄືນໃຫມ່">  
+<!ENTITY redoCmd.key            "Y">  
+<!ENTITY redoCmd.accesskey          "R"> 
+<!ENTITY cutCmd.label           "ຕັດ">  
+<!ENTITY cutCmd.key             "X">  
+<!ENTITY cutCmd.accesskey         "t"> 
+<!ENTITY copyCmd.label            "ສຳເນົາ">  
+<!ENTITY copyCmd.key            "C">  
+<!ENTITY copyCmd.accesskey          "C"> 
+<!ENTITY pasteCmd.label           "ວາງ">  
+<!ENTITY pasteCmd.key           "V">  
+<!ENTITY pasteCmd.accesskey         "P"> 
+<!ENTITY deleteCmd.label          "ລຶບ">  
+<!ENTITY deleteCmd.key            "D">  
+<!ENTITY deleteCmd.accesskey        "D"> 
+<!ENTITY selectAllCmd.label         "ເລືອກທັ້ງຫມົດ">  
+<!ENTITY selectAllCmd.key         "A">  
+<!ENTITY selectAllCmd.accesskey       "A"> 
+<!ENTITY preferencesCmd2.label       "ຕົວເລືອກ">
+<!ENTITY preferencesCmd2.accesskey     "O">
+<!ENTITY preferencesCmdUnix.label       "ຕັ້ງຄ່າ">
+<!ENTITY preferencesCmdUnix.accesskey     "n"> 
+
+
+<!ENTITY privateBrowsingCmd.commandkey          "P">
+
+<!ENTITY viewMenu.label         "ມູມມອງ"> 
+<!ENTITY viewMenu.accesskey       "V"> 
+<!ENTITY viewTabGroups.label            "ກຸ່ມຂອງແຖບ">
+<!ENTITY viewTabGroups.accesskey        "G">
+<!ENTITY viewToolbarsMenu.label       "ແຖບເຄືອງມື"> 
+<!ENTITY viewToolbarsMenu.accesskey     "T"> 
+<!ENTITY viewSidebarMenu.label "ແຖບດ້ານຂ້າງ">
+<!ENTITY viewSidebarMenu.accesskey "e">
+<!ENTITY viewCustomizeToolbar.label       "ການດັດແກ້..."> 
+<!ENTITY viewCustomizeToolbar.accesskey     "C">
+
+<!ENTITY historyMenu.label "ປະຫວັດການໃຊ້ງານ">
+<!ENTITY historyMenu.accesskey "s">
+<!ENTITY historyUndoMenu.label "ແຖບທີ່ຫາກໍ່ປິດໄປມື້ກີ້ນີ້">
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "ຫນ້າຕ່າງທີ່ຫາກໍ່ປິດໄປມື້ກີ້ນີ້">
+
+
+<!ENTITY showAllHistoryCmd.commandkey "H">
+
+<!ENTITY appMenuCustomize.label "ດັດແກ້">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
+     same context menu as menubarCmd and personalbarCmd, so they should have
+     different access keys. customizeMenu.moveToToolbar and 
+     customizeMenu.moveToPanel are mutually exclusive, so can share access
+     keys.  -->
+
+
+
+
+
+
+
+
+<!ENTITY openCmd.commandkey           "l">
+
+<!ENTITY urlbar.accesskey             "d">
+<!ENTITY urlbar.switchToTab.label     "ຍ້າຍໄປແຖບ:">
+
+
+
+
+
+
+
+<!-- 
+  Comment duplicated from browser-sets.inc:
+
+  Search Command Key Logic works like this:
+
+  Unix: Ctrl+J (0.8, 0.9 support)
+        Ctrl+K (cross platform binding)
+  Mac:  Cmd+K (cross platform binding)
+        Cmd+Opt+F (platform convention)
+  Win:  Ctrl+K (cross platform binding)
+        Ctrl+E (IE compat)
+
+  We support Ctrl+K on all platforms now and advertise it in the menu since it is
+  our standard - it is a "safe" choice since it is near no harmful keys like "W" as
+  "E" is. People mourning the loss of Ctrl+K for emacs compat can switch their GTK
+  system setting to use emacs emulation, and we should respect it. Focus-Search-Box
+  is a fundamental keybinding and we are maintaining a XP binding so that it is easy
+  for people to switch to Linux.
+
+ -->
+<!ENTITY searchFocus.commandkey2      "e">
+<!ENTITY searchFocusUnix.commandkey   "j">
+<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
+     These are set as the aria-label attribute for the search input box and
+     submit button in the in-content search UI, to be used by screen readers. -->
+
+<!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
+     These two strings are used to build the header above the list of one-click
+     search providers:  "Search for <used typed keywords> with:" -->
+
+<!-- LOCALIZATION NOTE (search.label, searchAfter.label):
+     This string is used to build the header above the list of one-click search
+     providers when a one off engine has been selected.  The searchAfter text is
+     intentionally left empty for en-US and can be used by other localizations to
+     display a string after the search engine name.  This string will be displayed
+     as:  "Search <selected engine name><searchAfter.label text>" -->
+<!ENTITY searchAfter.label            "">
+<!-- LOCALIZATION NOTE (searchWithHeader.label):
+     The wording of this string should be as close as possible to
+     searchFor.label and searchWith.label. This string will be used instead of
+     them when the user has not typed any keyword. -->
+<!-- LOCALIZATION NOTE (changeSearchSettings.button):
+     This string won't wrap, so if the translated string is longer,
+     consider translating it as if it said only "Search Settings". -->
+
+
+
+
+
+<!ENTITY tabView.commandkey           "e">
+
+<!ENTITY openLinkCmdInTab.label       "ເປີດລີ້ງໃນແຖບໃຫມ່">
+<!ENTITY openLinkCmdInTab.accesskey   "T">
+<!ENTITY openLinkCmd.label            "ເປີດລີ້ງໃນຫນ້າຕ່າງໃຫມ່">
+<!ENTITY openLinkCmd.accesskey        "W">
+
+
+<!ENTITY openLinkCmdInCurrent.label     "ເປີດລີ້ງ">
+<!ENTITY openLinkCmdInCurrent.accesskey "O">
+<!ENTITY openFrameCmdInTab.label      "ເປີດເຟຣມໃນແຖບໃຫມ່">
+<!ENTITY openFrameCmdInTab.accesskey  "T">
+<!ENTITY openFrameCmd.label           "ເປີດເຟຣມໃນຫນ້າຕ່າງໃຫມ່">
+<!ENTITY openFrameCmd.accesskey       "W">
+<!ENTITY showOnlyThisFrameCmd.label     "ສະແດງພຽງເຟຣມນີ້ເທົ່ານັ້ນ">
+<!ENTITY showOnlyThisFrameCmd.accesskey "S">
+<!ENTITY reloadCmd.commandkey         "r">
+<!ENTITY reloadFrameCmd.label         "ໂລດເຟຣມບຄື່ນໃຫມ່">
+<!ENTITY reloadFrameCmd.accesskey     "R">
+<!ENTITY viewPartialSourceForSelectionCmd.label "ເບິ່ງແຫລ່ງຂໍ້ມູນຂອງສິ່ງທີ່ເລືອກ">
+<!ENTITY viewPartialSourceForMathMLCmd.label    "ເບິງແຫລ່ງຂໍ້ມູນຂອງ MathML ">
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
+<!ENTITY viewPartialSourceCmd.accesskey "e">
+<!ENTITY viewPageSourceCmd.label      "ເບິງແຫລ່ງຂໍ້ມູນຂອງຫນ້ານີ້">
+<!ENTITY viewPageSourceCmd.accesskey  "V">
+<!ENTITY viewFrameSourceCmd.label     "ເບິງແຫລ່ງຂໍ້ມູນຂອງເຟຣມນີ້">
+<!ENTITY viewFrameSourceCmd.accesskey "V">
+<!ENTITY viewPageInfoCmd.label        "ເບິ່ງຂໍ້ມູນໜ້າເວັບ">
+<!ENTITY viewPageInfoCmd.accesskey    "I">
+<!ENTITY viewFrameInfoCmd.label       "ເບິ່ງຂໍ້ມູນຂອງເຟຣມ">
+<!ENTITY viewFrameInfoCmd.accesskey   "I">
+<!ENTITY reloadImageCmd.label         "ໂລດຮູບພາບຄືນໃຫມ່">
+<!ENTITY reloadImageCmd.accesskey     "R">
+<!ENTITY viewImageCmd.label           "ເບິ່ງຮູບພາບ">
+<!ENTITY viewImageCmd.accesskey       "I">
+<!ENTITY viewImageInfoCmd.label       "ເບິ່ງຂໍ້ມູນໜ້າເວັບ">
+<!ENTITY viewImageInfoCmd.accesskey   "f">
+
+
+<!ENTITY viewVideoCmd.label           "ເບິ່ງວີດີໂອ">
+<!ENTITY viewVideoCmd.accesskey       "i">
+<!ENTITY viewBGImageCmd.label         "ເບິ່ງພາບພື້ນຫຼັງ">
+<!ENTITY viewBGImageCmd.accesskey     "w">
+<!ENTITY setDesktopBackgroundCmd.label      "ກຳນົດໃຫ້ເປັນພາບພື້ນຫລັງເດສ໌ທັອບ">
+<!ENTITY setDesktopBackgroundCmd.accesskey  "S">
+
+<!ENTITY bookmarkThisLinkCmd.label      "ບຸກມາກລີ້ງນີ້">
+<!ENTITY bookmarkThisLinkCmd.accesskey  "L">
+<!ENTITY bookmarkThisFrameCmd.label      "ບຸກມາກເຟຣມນີ້">
+<!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+<!ENTITY emailPageCmd.label           "ລີ້ງຈົດຫມາຍ...">
+<!ENTITY emailPageCmd.accesskey       "E">
+<!ENTITY savePageCmd.label            "ບັນທຶກຫນ້ານີ້ໄວ້ທີ່...">
+<!ENTITY savePageCmd.accesskey        "A">
+<!-- alternate for content area context menu -->
+<!ENTITY savePageCmd.accesskey2       "P">
+<!ENTITY savePageCmd.commandkey       "s">
+<!ENTITY saveFrameCmd.label           "ບັນທຶກເຟຣມນີ້ໄວ້ທີ່...">
+<!ENTITY saveFrameCmd.accesskey       "F">
+<!ENTITY printFrameCmd.label          "ພິມເຟຣມນີ້...">
+<!ENTITY printFrameCmd.accesskey      "P">
+<!ENTITY saveLinkCmd.label            "ບັນທຶກລີ້ງນີ້ໄວ້ທີ່...">
+<!ENTITY saveLinkCmd.accesskey        "k">
+<!ENTITY saveImageCmd.label           "ບັນທຶກຮູບພາບນີ້ໄວ້ທີ່...">
+<!ENTITY saveImageCmd.accesskey       "v">
+
+
+<!ENTITY saveAudioCmd.label           "ບັນທຶກສຽງນີ້ໄວ້ທີ່...">
+<!ENTITY saveAudioCmd.accesskey       "v">
+<!ENTITY emailImageCmd.label          "ຈົດຫມາຍ ຮູບພາບ...">
+<!ENTITY emailImageCmd.accesskey      "g">
+<!ENTITY emailVideoCmd.label          "ຈົດຫມາຍວິດີໂອ...">
+<!ENTITY emailVideoCmd.accesskey      "a">
+
+
+
+
+
+
+
+
+<!ENTITY copyLinkCmd.label            "ສຳເນົາທີ່ຢູ່ລີ້ງ">
+<!ENTITY copyLinkCmd.accesskey        "a">
+<!ENTITY copyImageCmd.label           "ສຳເນົາທີ່ຢູ່ຮູບພາບ">
+<!ENTITY copyImageCmd.accesskey       "o">
+<!ENTITY copyImageContentsCmd.label   "ສຳເນົາຮູບພາບ">
+<!ENTITY copyImageContentsCmd.accesskey  "y"> 
+<!ENTITY copyVideoURLCmd.label        "ສຳເນົາທີ່ຢູ່ວິດີໂອ">
+<!ENTITY copyVideoURLCmd.accesskey    "o">
+<!ENTITY copyAudioURLCmd.label        "ສຳເນົາທີ່ຢູ່ຂອງສຽງ">
+<!ENTITY copyAudioURLCmd.accesskey    "o">
+<!ENTITY copyEmailCmd.label           "ສຳເນົາທີ່ຢູ່ຈົດຫມາຍ">
+<!ENTITY copyEmailCmd.accesskey       "E">
+<!ENTITY thisFrameMenu.label              "ເຟຣມນີ້">
+<!ENTITY thisFrameMenu.accesskey          "h">
+<!-- Media (video/audio) controls -->
+<!-- LOCALIZATION NOTE: The access keys for "Play" and
+"Pause" are the same because the two context-menu
+items are mutually exclusive. -->
+
+<!ENTITY mediaPlay.label             "ຫລີ້ນ">
+<!ENTITY mediaPlay.accesskey         "P">
+<!ENTITY mediaPause.label            "ຢຸດ">
+<!ENTITY mediaPause.accesskey        "P">
+<!-- LOCALIZATION NOTE: The access keys for "Mute" and
+"Unmute" are the same because the two context-menu
+items are mutually exclusive. -->
+<!ENTITY mediaMute.label             "ປິດສຽງ">
+<!ENTITY mediaMute.accesskey         "M">
+<!ENTITY mediaUnmute.label           "ເປີດສຽງ">
+<!ENTITY mediaUnmute.accesskey       "m">
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE: "Ludicrous Speed" is a reference to the
+movie "Space Balls" and is meant to say that this speed is very
+fast. -->
+
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
+<!ENTITY mediaShowControls.label     "ສະແດງແຜງການຄວບຄຸ່ມ">
+<!ENTITY mediaShowControls.accesskey "C">
+<!ENTITY mediaHideControls.label     "ເຊື່ອງແຜງການຄວບຄຸ່ມ">
+<!ENTITY mediaHideControls.accesskey "C">
+<!ENTITY videoFullScreen.label       "ເຕັມຈໍ">
+<!ENTITY videoFullScreen.accesskey   "F">
+<!ENTITY videoSaveImage.label        "ບັນທຶກຮູບທີ່ຖ່າຍໄວ້ທີ່...">
+<!ENTITY videoSaveImage.accesskey    "S">
+<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
+"Hide Statistics" are the same because the two context-menu
+items are mutually exclusive. -->
+<!ENTITY videoShowStats.label        "ສະແດງສະຖິຕິ">
+<!ENTITY videoShowStats.accesskey    "t">
+<!ENTITY videoHideStats.label        "ເຊື່ອງສະຖິຕິ">
+<!ENTITY videoHideStats.accesskey    "t">
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+
+<!ENTITY fullZoomEnlargeCmd.label       "ເພີມການຂະຫຍາຍຂື້ນ">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "I">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+
+<!ENTITY fullZoomReduceCmd.label        "ລຸດການຂະຫຍາຍລົງ">
+<!ENTITY fullZoomReduceCmd.accesskey    "O">
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+
+<!ENTITY fullZoomResetCmd.label         "ຕັ້ງໃຫມ່">
+<!ENTITY fullZoomResetCmd.accesskey     "R">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
+
+<!ENTITY fullZoomToggleCmd.label        "ຂະຫຍາຍພຽງຕົວຫນັງສືເທົ່ານັ້ນ">
+<!ENTITY fullZoomToggleCmd.accesskey    "T">
+<!ENTITY fullZoom.label                 "ຂະຫຍາຍ">
+<!ENTITY fullZoom.accesskey             "Z">
+
+
+<!ENTITY quitApplicationCmdWin2.label       "ອອກ">
+<!ENTITY quitApplicationCmdWin2.accesskey   "x">
+<!ENTITY quitApplicationCmdWin2.tooltip     "ອອກ &brandShorterName;">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY quitApplicationCmd.label       "ອອກ"> 
+<!ENTITY quitApplicationCmd.accesskey   "Q">
+<!ENTITY quitApplicationCmdMac2.label   "ອອກ &brandShortName;">
+<!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
+
+<!ENTITY closeCmd.label                 "ປິດ">  
+<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.accesskey             "C">
+
+
+<!ENTITY pageStyleMenu.label "ຮູບແບບຂອງຫນ້າ">
+<!ENTITY pageStyleMenu.accesskey "y">
+<!ENTITY pageStyleNoStyle.label "ບໍ່ມີຮູບແບບ">
+<!ENTITY pageStyleNoStyle.accesskey "N">
+<!ENTITY pageStylePersistentOnly.label "ຮູບແບບຂອງຫນ້າແບບພື້ນຖານ">
+<!ENTITY pageStylePersistentOnly.accesskey "B">
+
+<!ENTITY pageReportIcon.tooltip            "ປ່ຽນການຕັ້ງຄ່າການປິດກັ້ນປັອບອັບສຳລັບເວັບໄຊ້ນີ້">
+
+<!ENTITY allowPopups.accesskey "p">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, which is used in the "popup blocked" info bar . -->
+<!ENTITY editPopupSettingsUnix.label "ແກ້ໄຂການຕັ້ງຄ່າຕົວປິດກັ້ນປັອບອັບ...">
+<!ENTITY editPopupSettings.label "ແກ້ໄຂການຕັ້ງຄ່າຕົວປິດກັ້ນປັອບອັບ...">
+<!ENTITY editPopupSettings.accesskey "E">
+<!ENTITY dontShowMessage.accesskey "D">
+
+<!ENTITY bidiSwitchPageDirectionItem.label        "ສະລັບທິດທາງຫນ້າ">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
+<!ENTITY bidiSwitchTextDirectionItem.label        "ສະລັບທິດທາງຕົວຫນັງສື">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
+<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
+
+<!ENTITY findOnCmd.label     "ຊອກຫາໃນຫນ້ານີ້...">
+<!ENTITY findOnCmd.accesskey "F">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label  "ຊອກຫາອີກເທື່ອຫນຶງ">
+<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
+
+<!ENTITY spellAddDictionaries.label "ເພີ່ມດິກຊັນນາລີ...">
+<!ENTITY spellAddDictionaries.accesskey "A">
+
+<!ENTITY editBookmark.done.label                     "ສຳເລັດ">
+<!ENTITY editBookmark.cancel.label                   "ຍົກເລີກ">
+
+
+
+
+
+
+
+<!-- Strings for connection state warnings. -->
+
+
+
+<!-- Strings for connection state warnings in the subview. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Name for the tabs toolbar as spoken by screen readers.
+     The word "toolbar" is appended automatically and should not be contained below! -->
+
+<!ENTITY tabsToolbar.label "ແຖບບຣາວເສີ">
+<!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
+
+<!ENTITY syncTabsMenu2.label     "ແຖບຈາກອຸປະກອນອື່ນ">
+
+<!ENTITY syncBrand.shortName.label    "ເກີດຂື້ນພ້ອມກັນ">
+
+
+<!ENTITY syncSyncNowItem.label        "ເລີ່ມການເຊື່ອມຕໍ່ດຽວນີ້">
+<!ENTITY syncSyncNowItem.accesskey    "S">
+
+
+<!ENTITY syncToolbarButton.label      "ເກີດຂື້ນພ້ອມກັນ">
+
+<!ENTITY socialToolbar.title        "ປຸ່ມແຖບເຄື່ອງມືທາງດ້ານສັງຄົມອອນໄລນ໌">
+
+<!ENTITY social.ok.label       "ຕົກລົງ">
+<!ENTITY social.ok.accesskey   "O">
+
+
+
+
+<!ENTITY social.toggleNotifications.label "ສະແດງໜ້າຈໍຫຼັກ ແລະ ການແຈ້ງເຕືອນ">
+<!ENTITY social.toggleNotifications.accesskey "n">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY customizeMode.lwthemes.menuManage "ຈັດການ">
+
+
+
+
+<!ENTITY social.chatBar.commandkey "c">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+
+
+
+
+<!ENTITY trackingContentBlocked.message "ຕິດຕາມ">
+
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
+
+
+<!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
+     width of the plugin popup notification that can appear if a plugin has been
+     blocked on a page. Should be wide enough to fit the pluginActivateNow.label
+     and pluginActivateAlways.label strings above on a single line. This must be
+     a CSS length value. -->
+
+
+<!ENTITY appMenuSidebars.label         "ແຖບດ້ານຂ້າງ">
+<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
+     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
+     Please ensure that this remains the case in the translation. -->
+
+
+
+<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
+     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
+     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
+     The translation should do the same. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
+
+
+
+
