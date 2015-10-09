@@ -18,9 +18,9 @@
 <!ENTITY firstrun_import_title "आयात">
 <!ENTITY firstrun_import_message "&brandShortName; मध्ये आपले स्वागत आहे">
 <!ENTITY firstrun_import_subtext "आपल्या वाचनखुणा आणि इतिहास इतर ब्राउझर मधुन आयात करा.">
-
-
-
+<!ENTITY firstrun_import_action "&brandShortName; ला स्थानांतरण">
+<!ENTITY firstrun_import_dialog_button "स्थानांतरण">
+<!ENTITY firstrun_import_progress_title "स्थानांतरण सुरु">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -58,15 +58,16 @@
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "अगोदरचे वाचनखुण">
 <!ENTITY bookmark_removed "वाचनखूण काढले">
 <!ENTITY bookmark_updated "वाचनखूण अद्ययावत केले">
 <!ENTITY bookmark_options "पर्याय">
 
 <!ENTITY history_today_section "आज">
 <!ENTITY history_yesterday_section "काल">
-
-
-
+<!ENTITY history_week_section3 "मागील ७ दिवस">
+<!ENTITY history_this_month_section "या महिन्यात">
+<!ENTITY history_older_section3 "६ महिन्यंपेक्षा जुने">
 
 <!ENTITY go "चला">
 <!ENTITY search "शोधा">
@@ -96,6 +97,7 @@
      &formatS; will be replaced with the title of the tab, as received from the
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "ऑडियो – &formatS; चालवत आहे">
 
 <!ENTITY settings "सेटिंग">
 <!ENTITY settings_title "सेटिंग">
@@ -127,7 +129,7 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "वाचनखूण">
 <!ENTITY overlay_share_reading_list_btn_label "वाचन यादीत जोडा">
-
+<!ENTITY overlay_share_bookmark_btn_label_already "आधीचे वाचनखूण">
 <!ENTITY overlay_share_reading_list_btn_label_already "वाचानायादीत आधीच समाविष्ट">
 <!ENTITY overlay_share_send_other "इतर उपकरणांना पाठवा">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -155,7 +157,7 @@
 <!ENTITY pref_category_display "दृश्य">
 <!ENTITY pref_category_display_summary "मजकूर, शीर्षक पट्टी, पूर्ण स्क्रीन ब्राउजिंग">
 <!ENTITY pref_category_privacy_short "गुप्तता">
-
+<!ENTITY pref_category_privacy_summary2 "पासवर्ड, कुकीज, मागोवा माहिती नियंत्रित करा">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "&brandShortName;बद्दल, FAQs, माहिती पर्याय">
 <!ENTITY pref_category_datareporting "माहिती पर्याय">
@@ -173,13 +175,13 @@
 <!ENTITY pref_search_hint "टीप: शोध क्षेत्रात दीर्घकाळ-दाबुन आणि &formatI; चिन्हावर थाप मारुन कुठलीपण वेबसाइट तुमच्या शोध पुरविणारे यादीत समाविष्ट करा.">
 <!ENTITY pref_category_devtools "डेवलपर साधने">
 <!ENTITY pref_developer_remotedebugging "दूरस्थ डीबग करणे">
-
-
-
+<!ENTITY pref_developer_remotedebugging_usb "USB द्वारे दूरस्थ डीबगिंग">
+<!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi द्वारे दूरस्थ डीबगिंग">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi डीबगिंगसाठी आपल्या उपकरणामधे QR कोड वाचक असणे आवश्यक आहे.">
 <!ENTITY pref_category_logins "लॉगिन्स">
-
-
-
+<!ENTITY pref_remember_signons2 "लॉगिन्स लक्षात ठेवा">
+<!ENTITY pref_open_external_urls_privately_title "दुवे खाजगी ब्राउझिंग मधे उघडा">
+<!ENTITY pref_open_external_urls_privately_summary "सर्व बाह्य दुवे &brandShortName; मधे उघडले">
 <!ENTITY pref_manage_logins "लॉगिन्स व्यवस्थापित करा">
 
 <!ENTITY pref_category_home "मुख्य पटल">
@@ -197,9 +199,9 @@
 <!ENTITY pref_home_updates_wifi "फक्त वाय-फायवर">
 <!ENTITY pref_home_suggested_sites "साइट सल्ले दाखवा">
 <!ENTITY pref_home_suggested_sites_summary "आपल्याला आवडु शकतील अशा साइटस् आपल्या मुखपृष्ठावर ठेवा">
-
-
-
+<!ENTITY pref_category_home_homepage "मुखपृष्ठ">
+<!ENTITY home_homepage_title "मुखपृष्ठ लावा">
+<!ENTITY home_homepage_use_current_tab "सध्याची टॅब वापरा">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "स्वपसंती">
@@ -215,6 +217,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "तिसरा पक्ष सोडुन, सक्षम">
 <!ENTITY pref_cookies_disabled "निष्क्रिय">
 
+<!ENTITY pref_tracking_protection_title "सुरक्षेचा मागोवा">
 
 <!ENTITY pref_donottrack_title "मागोवा घेऊ नका">
 <!ENTITY pref_donottrack_summary "&brandShortName; हे साइट्सना कळवेल की आपण मागोवा घेऊ इच्छित नाही">
