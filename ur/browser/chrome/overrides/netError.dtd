@@ -133,7 +133,7 @@
 <p>ویب سائٹ مالکین جن کو لگتا ہے کہ ان کی سائٹ غلطی سے اٹیک سائٹ کے طور پر رپورٹ کر دی گَی ہے، ایک <a href='http://www.stopbadware.org/home/reviewinfo' >ریویو کی درخواست</a> کر سکتے ہیں۔</p>">
 
 <!ENTITY unwantedBlocked.title "مشتبہ ناپسندیدہ سافٹ ویئر ویب سائٹ!">
-
+<!ENTITY unwantedBlocked.longDesc "<p>ناپسندیدہ سافٹ ویئر کے صفحات برامک ہو سکتا ہے کہ یہ سافٹ ویئر انسٹال کرنے کی اور غیر متوقع طور پر آپ کے نظام کو متاثر کرنے کی کوشش کرسکتے ہے۔</p>">
 
 <!ENTITY phishingBlocked.title "ویب نقل کا شبہ!">
 <!ENTITY phishingBlocked.longDesc "<p>اس صفحے پر کوئی بھی نجی معلومات داخل کرنے سے شناخت کی چوری یا کسی اور قسم کا فراڈ ہو سکتا ہے۔</p> 
@@ -161,7 +161,7 @@ functionality specific to firefox. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY errorReporting.title "اس غلطی کی رپورٹ کرے">
-
+<!ENTITY errorReporting.longDesc "پتہ کی رپورٹ کاری اور صدیق نامہ معلومات <span id='hostname'></span> ہمیں مدد کرے گا مضرسائٹ کی تصدیق اور بلاک کرنے میں. ایک محفوظ ویب تخلیق کرنے میں مدد کے لئے شکریہ!">
 <!ENTITY errorReporting.automatic "خود بخود طریقے سے مستقبل نقائص کی رپورٹ کرے">
 <!ENTITY errorReporting.learnMore "مزید سیکھیں…">
 <!ENTITY errorReporting.sending "رپورٹ بھیج رہا ہے">
