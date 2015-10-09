@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label 'Que quere sincronizar'>
 <!ENTITY sync.configure.engines.sync.my.title.label 'Sincronizar…'>
 <!ENTITY sync.configure.engines.title.bookmarks 'Marcadores'>
-<!ENTITY sync.configure.engines.title.passwords 'Contrasinais'>
+<!ENTITY sync.configure.engines.title.passwords2 'Identificacións'>
 <!ENTITY sync.configure.engines.title.history 'Historial'>
 <!ENTITY sync.configure.engines.title.tabs 'Lapelas'>
 
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy 'Política de privacidade'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'Benvida ao &syncBrand.shortName.label;'>
-<!ENTITY fxaccount_getting_started_description 'Identifíquese para sincronizar as súas lapelas, marcadores, contrasinais e moito máis.'>
+<!ENTITY fxaccount_getting_started_description2 'Identifíquese para sincronizar as súas lapelas, marcadores, identificacións e moito máis.'>
 <!ENTITY fxaccount_getting_started_get_started 'Comezar'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Usa unha versión antiga de &syncBrand.shortName.label;?'>
 
@@ -150,6 +150,8 @@
      etc).  The account remains a "Firefox Account". -->
 <!ENTITY fxaccount_create_account_header2 'Crear unha conta Firefox'>
 <!ENTITY fxaccount_create_account_password_length_restriction 'Debe ter polo mínimo 8 caracteres'>
+<!ENTITY fxaccount_create_account_day_of_birth 'Día'>
+<!ENTITY fxaccount_create_account_month_of_birth 'Mes'>
 <!ENTITY fxaccount_create_account_year_of_birth 'Ano de nacemento'>
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 'A continuación, acepte os &formatS1; e a &formatS2; dos servizos en liña de Firefox.'>
@@ -170,6 +172,9 @@
 <!ENTITY fxaccount_confirm_account_change_email 'Esquecer este correo?'>
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 'Enviouse o correo de comprobación'>
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Non foi posíbel enviar o correo de comprobación'>
+<!ENTITY fxaccount_resend_unlock_code_button_label 'Reenviar correo de desbloqueo'>
+<!ENTITY fxaccount_unlock_code_sent 'Enviouse o correo de desbloqueo da conta'>
+<!ENTITY fxaccount_unlock_code_not_sent 'Non foi posíbel enviar o correo de desbloqueo da conta'>
 
 <!ENTITY fxaccount_sign_in_sub_header 'Identificarse'>
 <!ENTITY fxaccount_sign_in_button_label 'Identificarse'>
@@ -180,9 +185,15 @@
 <!ENTITY fxaccount_account_verified_sub_header 'Comprobouse a conta'>
 <!ENTITY fxaccount_account_verified_description2 'O seus datos comezarán a sincronización nuns instantes.'>
 
+<!ENTITY fxaccount_migration_finished_header 'Rematou a anovación'>
+
 <!ENTITY fxaccount_update_credentials_header 'Identificarse'>
 <!ENTITY fxaccount_update_credentials_button_label 'Identificarse'>
 <!ENTITY fxaccount_update_credentials_unknown_error 'Non foi posíbel identificarse'>
+
+<!ENTITY fxaccount_finish_migrating_header 'Identifíquese para rematar a anovación'>
+<!ENTITY fxaccount_finish_migrating_button_label 'Rematar anovación'>
+<!ENTITY fxaccount_finish_migrating_description 'A anovación pode transferir moitos datos. É mellor estar nunha rede Wi-Fi.'>
 
 <!ENTITY fxaccount_status_header2 'Conta Firefox'>
 <!ENTITY fxaccount_status_signed_in_as 'Identificouse como'>
@@ -197,10 +208,11 @@
 <!ENTITY fxaccount_status_needs_credentials 'Non é posíbel conectar. Pulse para identificarse.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Necesita anovar &brandShortName; para identificarse.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; está configurado, pero a sincronización automática está desactivada. Marque “Sincronización automática de datos” nos axustes do Android na sección Uso de datos.'>
-<!ENTITY fxaccount_status_needs_account_enabled '&syncBrand.shortName.label; está configurado, pero a sincronización automática está desactivada. Pulse para comezar a sincronización.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; está configurado, pero a sincronización automática está desactivada. Marque “Sincronización automática de datos” nos axustes do Android na sección Contas.'>
+<!ENTITY fxaccount_status_needs_finish_migrating 'Pulse para identificarse coa súa nova conta Firefox.'>
 <!ENTITY fxaccount_status_bookmarks 'Marcadores'>
 <!ENTITY fxaccount_status_history 'Historial'>
-<!ENTITY fxaccount_status_passwords 'Contrasinais'>
+<!ENTITY fxaccount_status_passwords2 'Identificacións'>
 <!ENTITY fxaccount_status_tabs 'Lapelas abertas'>
 <!ENTITY fxaccount_status_legal 'Legal' >
 <!-- Localization note: when tapped, the following two strings link to
@@ -218,6 +230,7 @@
 <!ENTITY fxaccount_remove_account_toast 'Retirouse a conta Firefox &formatS;.'>
 
 <!ENTITY fxaccount_remove_account_menu_item 'Retirar conta'>
+<!ENTITY fxaccount_enable_debug_mode 'Activar o modo de depuración'>
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
@@ -245,8 +258,14 @@
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Servido ocupado, tente de novo pronto'>
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Produciuse un problema'>
 <!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT 'Non é posíbel conectarse á rede'>
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'A conta está bloqueada. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; non está conectado'>
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Pulse para identificarse como &formatS;'>
+
+<!ENTITY fxaccount_sync_finish_migrating_notification_title 'Rematar anovación de &syncBrand.shortName.label;?'>
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text 'Pulse para identificarse como &formatS;'>

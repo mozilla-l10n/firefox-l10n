@@ -15,3 +15,8 @@
 <!ENTITY safeb.blocked.phishingPage.title2 "Web sospeitosa de ser unha falsificación!">
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Escribir algunha información persoal nesta páxina pode resultar nun roubo de identidade ou outro tipo de fraude.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Este tipo de falsificacións web úsanse en fraudes coñecidos como ataques de phising, nos que as páxinas fraudulentas e os correos úsanse para facerse pasar por fontes de confianza.</p>">
+
+<!ENTITY safeb.blocked.unwantedPage.title "Sitio denunciado de servir software non desexado!">
+<!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "Esta páxina web en <span id='unwanted_sitename'/> identificouse como un sitio que contén software non desexado e foi bloqueado segundo as preferencias de seguranza actuais.">
+<!ENTITY safeb.blocked.unwantedPage.longDesc "As páxinas con software non desexado tentan instalar un software que pode aparentar facer algo diferente ao que fai e afectar ao seu sistema de maneira inesperada.">
