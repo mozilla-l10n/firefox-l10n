@@ -13,6 +13,8 @@
      of the Tracking Protection section, and in general not much larger than
      30em to prevent the sections from wrapping on smaller window sizes.
      -->
+
+<!ENTITY aboutPrivateBrowsing.width            "30em">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
      aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
      These strings will be replaced by aboutPrivateBrowsing.forgotten and
@@ -23,12 +25,13 @@
 <!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; ह्या पटलाकरिता कोणताही इतिहास लक्षात ठेवत नाही.">
 
 <!ENTITY aboutPrivateBrowsing.forgotten        "&brandShortName; ह्या पटलाकरिता काहीही साठवून ठेवत नाही.">
-
+<!ENTITY aboutPrivateBrowsing.info.forgotten   "साठवले नाही">
 <!ENTITY aboutPrivateBrowsing.info.history     "इतिहास">
-
+<!ENTITY aboutPrivateBrowsing.info.searches    "शोध">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "कूकिज">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "तात्पुरत्या फाइल्स">
 
+<!ENTITY aboutPrivateBrowsing.kept             "&brandShortName; ठेवेल:">
 <!ENTITY aboutPrivateBrowsing.info.kept        "साठवलेले">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "डाउनलोड्स">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "ओळखचिन्हे">
@@ -54,6 +57,7 @@
 <!ENTITY trackingProtection.state.enabled      "सुरु">
 <!ENTITY trackingProtection.state.disabled     "बंद">
 
+<!ENTITY trackingProtection.description1       "या पानावरील भाग जे आपल्या आॅनलाइन कार्याचा मागोवा घेऊ शकतात आता खाजगी पटल त्यांना अडवते.">
 
 <!ENTITY trackingProtection.disable            "मागोवा सुरक्षा निष्क्रिय करा">
 <!ENTITY trackingProtection.enable             "मागोवा सुरक्षा सक्रीय करा">
