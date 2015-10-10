@@ -13,3 +13,4 @@
 <!ENTITY showAllUnreadMessagesCount.accesskey  "u">
 <!ENTITY dockIconBadge.label                   "App-ikon merke">
 <!ENTITY dockIconShow.label                    "Merk app-ikonet med:">
+<!ENTITY directNotificationSettings.label      "Du kan skru av merket på varselpanelet i systeminnstillingar.">
