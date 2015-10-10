@@ -53,13 +53,13 @@
   -  in the toolbar on buttons that select which view is currently shown. -->
 
 <!ENTITY performanceUI.toolbar.waterfall "Şelale">
-
+<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Kayıt sırasında tarayıcının gerçekleştirdiği farklı operasyonları bir şelale gibi sıralanmış halde gösterir.">
 <!ENTITY performanceUI.toolbar.js-calltree "Çağrı Ağacı">
-
+<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Tarayıcının kayıt sırasında en çok zaman harcadığı fonksiyonları vurgular.">
 <!ENTITY performanceUI.toolbar.memory-calltree "Atamalar">
-
+<!ENTITY performanceUI.toolbar.allocations.tooltiptext "Kayıt sırasında belleğin nereye atandığını gösterir.">
 <!ENTITY performanceUI.toolbar.js-flamegraph "JS Flame Chart'ı">
-
+<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Kayıt boyunca JavaScript çağrı yığınını gösterir.">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "Atamalar Flame Chart'ı">
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->

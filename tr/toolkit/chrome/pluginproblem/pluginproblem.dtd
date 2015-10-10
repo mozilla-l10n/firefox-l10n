@@ -25,8 +25,8 @@
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
 
 <!ENTITY reloadPlugin.pre                                    "">
-<!ENTITY reloadPlugin.middle                                 "Sayfayı tazele">
-
+<!ENTITY reloadPlugin.middle                                 "Yeniden denemek için ">
+<!ENTITY reloadPlugin.post                                   " sayfayı tazeleyin.">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
 <!ENTITY report.please                                       "Çökme raporu gönder">
 <!ENTITY report.submitting                                   "Rapor gönderiliyor…">
