@@ -35,7 +35,12 @@
 <!ENTITY performanceUI.bufferStatusFull "Buffer je plný. Dochádza k prepisovaniu starých vzoriek.">
 
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
-  -  in the call list view while loading a profile. -->
+  -  in the details view while the profiler is unavailable, for example, while
+  -  in Private Browsing mode. -->
+<!ENTITY performanceUI.unavailableNoticePB "Záznam profilu momentálne nie je dostupný. Zatvorte všetky okná v režime Súkromné prehliadanie a skúste to znova.">
+
+<!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
+  -  in the details view while loading a profile. -->
 <!ENTITY performanceUI.loadingNotice "Načítava sa…">
 
 <!-- LOCALIZATION NOTE (performanceUI.recordButton): This string is displayed
