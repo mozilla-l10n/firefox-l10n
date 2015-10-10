@@ -4,7 +4,8 @@
 
 <!ENTITY tracking.label                 "ٹریکنگ">
 
-
+<!ENTITY dntTrackingNotOkay4.label     "درخواست دیں کہ سائٹ آپکا سراغ راہ نہ لگائیں">
+<!ENTITY dntTrackingNotOkay4.accesskey "ن">
 <!ENTITY doNotTrackInfo.label          "اور سیکھیں">
 
 
@@ -15,17 +16,18 @@
 
 
 
+<!ENTITY  history.label                 "سابقات">
 
 <!ENTITY  locationBar.label             "مقام بند">
 
+<!ENTITY  locbar.history.label          "سابقات">
+<!ENTITY  locbar.history.accesskey      "س">
 
 
 
 
-
-
-
-
+<!ENTITY  locbar.searches.label         "تحقیق و تکمیل کاری تلاش کرنا طے شدہ تلاش کے انجن سے">
+<!ENTITY  locbar.searches.accesskey     "ت">
 
 
 

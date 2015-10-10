@@ -15,9 +15,11 @@ by NSS/PSM via netError.xhtml. -->
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-<!ENTITY certerror.introPara1 "آپ نے &brandShortName; سے <b>#1</b> تک 
-قابل اعتبار رابطے کی خواہش کی ہے، پر ہم تصدیق نہیں کر سکتے کہ آپ کا رابطہ محفوظ ہے-">
-<!ENTITY certerror.introPara2 "حسب معمول، جب آپ حفاظت سے جڑنے کی کوشش کرتے ہیں،سائٹس بھروسہ مند شناخت پیش کریے گی یقین دلحانی کے لیے کہ آپسہی جگہ جا رہے ہیں. تاہم، اس سائٹ کی شناخت توثیق نہں ہو سکتی.">
+<!ENTITY certerror.introPara1 "آپ نے &brandShortName; کو حفاظت سے 
+کے ساتھ جڑنے کو کہا ہے<b>#1</b>، لیکن ہمیں یقین نہیں ہے کہ آپ کا کنکشن محفوظ ہے۔">
+<!ENTITY certerror.introPara2 "عام طور ہر، جب آپ حفاظت سے جڑنے کی کوشش کرتے ہیں، 
+سائٹس بھروسہ مند شناخت پیش کریے گی یقین دلحانی کے لیے کہ آپ 
+سہی جگہ جا رہے ہیں۔ تاہم، اس سائٹ کی شناخت توثیق نہں ہو سکتی۔">
 
 <!ENTITY certerror.whatShouldIDo.heading "مجھے کیا کرنا چاہیے؟">
 <!ENTITY certerror.whatShouldIDo.content "اگر آپ اکثر اس ویب سائٹ کو استعمال کرتے ہیں تو

@@ -45,9 +45,10 @@ that require it.  -->
 <!ENTITY historySection.label         "سابقات">
 <!ENTITY dataSection.label            "کوائف">
 
-
-
-
+<!ENTITY itemHistoryAndDownloads.label     "براؤزنگ اور ڈاؤن لوڈ سابقات">
+<!ENTITY itemHistoryAndDownloads.accesskey "ب">
+<!ENTITY itemFormSearchHistory.label       "فارم اور تلاش سابقات">
+<!ENTITY itemFormSearchHistory.accesskey   "ف">
 <!ENTITY itemCookies.label                 "کوکیاں">
 <!ENTITY itemCookies.accesskey             "ک">
 <!ENTITY itemCache.label                   "کیسہ">
