@@ -875,7 +875,7 @@
 <!ENTITY copyLinkCmd.label "Copiar localização da ligação">
 <!ENTITY copyLinkCmd.accesskey "l">
 <!ENTITY copyImageAllCmd.label "Copiar imagem">
-<!ENTITY copyImageAllCmd.accesskey "i">
+<!ENTITY copyImageAllCmd.accesskey "o">
 <!ENTITY copyEmailCmd.label "Copiar endereço de e-mail">
 <!ENTITY copyEmailCmd.accesskey "e">
 <!ENTITY stopCmd.label "Parar">
