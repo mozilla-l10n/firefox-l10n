@@ -58,8 +58,8 @@
 <!ENTITY signedOut.accountBox.create "Crea un account">
 <!ENTITY signedOut.accountBox.signin "Accedi">
 <!ENTITY signedIn.engines.label "Sincronizza attraverso i dispositivi">
-<!ENTITY mobilePromo.start "Sincronizza con cellulari e tablet. Scarica ">
-<!ENTITY mobilePromo.androidLink "Firefox per Android™">
-<!ENTITY mobilePromo.iOSBefore " o ">
-<!ENTITY mobilePromo.iOSLink "Firefox per iOS">
-<!ENTITY mobilePromo.end ".">
+<!ENTITY mobilePromo2.start "Sincronizza con cellulari e tablet. Scarica ">
+<!ENTITY mobilePromo2.androidLink "Firefox per Android™">
+<!ENTITY mobilePromo2.iOSBefore " o ">
+<!ENTITY mobilePromo2.iOSLink "Firefox per iOS">
+<!ENTITY mobilePromo2.end ".">
