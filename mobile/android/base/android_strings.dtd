@@ -218,7 +218,7 @@
 <!ENTITY pref_cookies_disabled "Zakázané">
 
 <!ENTITY pref_tap_to_load_images_title "Obrázky načítavané ťuknutím">
-<!ENTITY pref_tap_to_load_images_summary "Načítava obrázky len ťuknutí na ne">
+<!ENTITY pref_tap_to_load_images_summary2 "Načítavať obrázky len po dlhom stlačení">
 
 <!ENTITY pref_tracking_protection_title "Ochrana pred sledovaním">
 <!ENTITY pref_tracking_protection_summary3 "Povolená v režime Súkromné prehliadanie">
