@@ -217,6 +217,9 @@
 <!ENTITY pref_cookies_not_accept_foreign "Povolené, okrem cookies tretích strán">
 <!ENTITY pref_cookies_disabled "Zakázané">
 
+<!ENTITY pref_tap_to_load_images_title "Obrázky načítavané ťuknutím">
+<!ENTITY pref_tap_to_load_images_summary "Načítava obrázky len ťuknutí na ne">
+
 <!ENTITY pref_tracking_protection_title "Ochrana pred sledovaním">
 <!ENTITY pref_tracking_protection_summary3 "Povolená v režime Súkromné prehliadanie">
 <!ENTITY pref_donottrack_title "Funkcia Do not track">
