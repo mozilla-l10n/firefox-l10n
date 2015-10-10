@@ -141,10 +141,15 @@
 <!ENTITY pref_cookies_accept_all "Activadas">
 <!ENTITY pref_cookies_not_accept_foreign "Activadas, salvo las de terceras partes">
 <!ENTITY pref_cookies_disabled "Desactivadas">
+<!ENTITY pref_tap_to_load_images_title "Toque-para-cargar imágenes">
+<!ENTITY pref_tap_to_load_images_summary2 "Cargar imágenes solo cuando haga una pulsación larga sobre ellas">
 <!ENTITY pref_tracking_protection_title "Protección contra rastreo">
 <!ENTITY pref_tracking_protection_summary3 "Activado en navegación privada">
 <!ENTITY pref_donottrack_title "No rastrear">
 <!ENTITY pref_donottrack_summary "&brandShortName; indicará a los sitios que no quiere ser rastreado">
+<!ENTITY pref_tracking_protection_enabled "Activada">
+<!ENTITY pref_tracking_protection_enabled_pb "Activada en navegación privada">
+<!ENTITY pref_tracking_protection_disabled "Desactivada">
 <!ENTITY tracking_protection_prompt_title "Ahora con protección contra rastreo">
 <!ENTITY tracking_protection_prompt_text "Bloquear activamente los elementos de rastreo para que no tenga que preocuparse.">
 <!ENTITY tracking_protection_prompt_tip_text "Visite los ajustes de privacidad para más información">
@@ -195,6 +200,7 @@
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_sync_summary2 "Sincronice sus pestañas, marcadores, credenciales, historial">
 <!ENTITY pref_search_suggestions "Mostrar sugerencias de búsqueda">
+<!ENTITY pref_history_search_suggestions "Mostrar historial de búsquedas">
 <!ENTITY pref_import_android "Importar desde Android">
 <!ENTITY pref_import_android_summary "Importar marcadores e historial del navegador nativo">
 <!ENTITY pref_private_data_history2 "Historial de navegación">
@@ -432,6 +438,8 @@
 <!ENTITY remote_tabs_never_synced "Última sincronización: nunca">
 <!ENTITY find_matchcase "Aa">
 <!ENTITY intent_uri_cannot_open "No se puede abrir el enlace">
+<!ENTITY intent_uri_private_browsing_prompt "Este enlace se abrirá en &formatS;. ¿Seguro que desea salir de la navegación privada?">
+<!ENTITY intent_uri_private_browsing_multiple_match_title "¿Salir de navegación privada?">
 <!ENTITY devtools_auth_scan_header "Escaneando el código QR mostrado en su otro dispositivo">
 <!ENTITY restriction_disallow_import_settings_title2 "Desactivar \'Importar desde Android\'">
 <!ENTITY restriction_disallow_addons_title2 "Desactivar instalación de complementos">
