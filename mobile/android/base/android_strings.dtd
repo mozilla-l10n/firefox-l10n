@@ -222,6 +222,10 @@
 <!ENTITY pref_donottrack_title "Funkcia Do not track">
 <!ENTITY pref_donottrack_summary "&brandShortName; požiada webové stránky, aby nesledovali vašu aktivitu">
 
+<!ENTITY pref_tracking_protection_enabled "Zapnutá">
+<!ENTITY pref_tracking_protection_enabled_pb "Zapnutá v režime Súkromné prehliadanie">
+<!ENTITY pref_tracking_protection_disabled "Vypnutá">
+
 <!ENTITY tracking_protection_prompt_title "Teraz s Ochranou pred sledovaním">
 <!ENTITY tracking_protection_prompt_text "Aktívne blokuje prvky umožňujúce sledovanie, takže sa už viac nemusíte obávať.">
 <!ENTITY tracking_protection_prompt_tip_text "Ďalšie informácie v nastaveniach Súkromia">
