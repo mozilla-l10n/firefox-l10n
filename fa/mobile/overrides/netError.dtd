@@ -19,6 +19,18 @@
 <!ENTITY dnsNotFound.title "کارگزار پیدا نشد">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "<ul> 
+<li>آدرس را بررسی کنید که اشتباه تایپی نداشته باشد. مثلا
+<strong>ww</strong>.example.com به جای 
+<strong>www</strong>.example.com</li> 
+<div id='searchbox'> 
+<input id='searchtext' type='search'></input> 
+<button id='searchbutton'>جستجو</button> 
+</div> 
+<li>اگر نمی‌توانید هیچ صفحه‌ای را باز کنید، اتصال Wi-Fi یا داده‌ی دستگاه خود را بررسی کنید. 
+<button id='wifi'>فعال سازی Wi-Fi</button> 
+</li> 
+</ul>">
 
 <!ENTITY fileNotFound.title "پرونده پیدا نشد">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -33,6 +45,16 @@
 <!ENTITY malformedURI.title "این نشانی معتبر نمی‌باشد">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "<ul> 
+<li>نشانی‌های وب معمولا به این صورت هستند: 
+<strong>http://www.example.com/</strong></li> 
+<div id='searchbox'> 
+<input id='searchtext' type='search'></input> 
+<button id='searchbutton'>جستجو</button> 
+</div> 
+<li>مطمئن شوید از علامت ممیز صحیحی استفاده می‌کنید (یعنی 
+<strong>/</strong>).</li> 
+</ul>">
 
 <!ENTITY netInterrupt.title "اتصال مختل شد">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
@@ -43,6 +65,11 @@
 <!ENTITY netOffline.title "حالت منفصل">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY netOffline.longDesc3 "<ul> 
+<li>دوباره سعی کنید. &brandShortName; تلاش خواهد کرد تا اتصال جدیدی باز کند و صفحه را مجدد بارگزاری کنید. 
+<button id='wifi'>فعال سازی Wi-Fi</button> 
+</li> 
+</ul>">
 
 <!ENTITY contentEncodingError.title "خطای کدگذاری محتوا">
 <!ENTITY contentEncodingError.longDesc "<ul> 
@@ -96,7 +123,10 @@
 </ul>">
 
 <!ENTITY nssFailure2.title "برقراری اتصال ایمن شکست خورد">
-
+<!ENTITY nssFailure2.longDesc2 "<ul> 
+<li>صفحه‌ای که تلاش می‌کنید از آن بازدید کنید قابل نمایش نیست، زیرا تایید اعتبار اطلاعات دریافتی امکان‌پذیر نیست.</li> 
+<li>لطفاً با صاحبان این سایت تماس بگیرید و آنها را در جریان این مشکل قرار دهید.</li> 
+</ul>">
 
 <!ENTITY nssBadCert.title "برقراری اتصال ایمن شکست خورد">
 <!ENTITY nssBadCert.longDesc2 "<ul> 

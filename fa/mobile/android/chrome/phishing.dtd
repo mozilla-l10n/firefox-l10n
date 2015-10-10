@@ -16,6 +16,7 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "وارد کردن هر گونه اطلاعات شخصی در این صفحه ممکن است نتیجه‌اش سرقت هویت یا  کلاه‌برداری‌های دیگر باشد.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>این نوع جعل کردن صفحات وب مربوط به نوعی از کلاهبرداری است که به نام حمله فیشینگ شناسایی می‌شود، در این حمله از صفحات تقلبی وب و پست‌الکترونیکی استفاده می‌شود تا منابعی که شما احتمالا به آنها اعتماد دارید را جعل کنند.</p>">
 
+<!ENTITY safeb.blocked.unwantedPage.title "سایت نرم افزاری ناخواسته گزارش شده!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "این صفحه با نشانی <span id='unwanted_sitename'/> به عنوان یک صفحهٔ تهاجمی گزارش شده است و دسترسی به آن بر اساس ترجیحات امنیتی شما مسدود شده است.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "صفحه‌های نرم افزاری ناخواسته تلاش می‌کنند برنامه‌هایی نصب کنند که گمراه کننده هستند و میتوانند به روش های غیر منتظره به سیستم آسیب بزنند.">
