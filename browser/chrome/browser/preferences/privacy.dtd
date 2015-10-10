@@ -55,7 +55,7 @@
 <!ENTITY  showCookies.label             "Cookies көрсету…">
 <!ENTITY  showCookies.accesskey         "р">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; ">
+<!ENTITY  historyHeader.pre.label          "&brandShortName;">
 <!ENTITY  historyHeader.pre.accesskey      "w">
 <!ENTITY  historyHeader.remember.label     "тарихты сақтайды">
 <!ENTITY  historyHeader.dontremember.label "тарихты ешқашан сақтамайды">
