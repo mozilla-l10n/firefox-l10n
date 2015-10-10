@@ -92,5 +92,5 @@ both, to better adapt this sentence to their language.
 
 <!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
 <!ENTITY mobilePromo.androidLink      "Android™">
-<!ENTITY mobilePromo.end              "آپ کے موبائل ڈیوائس کے ساتھ مطابقت پذیر۔">
-
+<!ENTITY mobilePromo.end              "آپ کے موبائل ڈیوائس کے ساتھ مطابقت پذیر.">
+<!ENTITY androidAttribution           "Android Google Inc. کا تجارتی نشان۔">

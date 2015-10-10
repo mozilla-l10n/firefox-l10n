@@ -24,6 +24,8 @@
 <!ENTITY  addonExceptions.accesskey     "ا">
 
 
+<!ENTITY  logins.label                  "لاگ ان">
+
 
 <!ENTITY  passwordExceptions.label      "استثنیات…">
 <!ENTITY  passwordExceptions.accesskey  "ا">

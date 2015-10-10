@@ -48,7 +48,7 @@
 <!ENTITY  license.accept                  "مجھے اس معاہدے کی شرائط قبول ہیں۔">
 <!ENTITY  license.accept.accesskey        "c">
 <!ENTITY  license.decline                 "مجھے اس ایگریمنٹ کی شرائط قبول نہیں ہیں">
-<!ENTITY  license.decline.accesskey       "ن">
+<!ENTITY  license.decline.accesskey       "T">
 
 <!ENTITY  incompatibleList.title          "غیر موازن ایڈ اون ملے">
 

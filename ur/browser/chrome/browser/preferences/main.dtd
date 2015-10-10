@@ -39,7 +39,7 @@
 <!ENTITY isNotDefault.label               "&brandShortName; اس وقت آپ کا طےشدہ  براؤزر نھیں ہے">
 
 <!ENTITY separateProfileMode.label        "ہونے دیں &brandShortName; اور فائر فاکس کو  ھمہ وقت چلائے">
-<!ENTITY useFirefoxSync.label             "ٹپ: یہ علیحدہ پروفائلز استعمال کرتا ہے۔ ان کے درمیان ڈیٹا کا اشتراک کرنے کی مطابقت پذیری کا استعمال کریں۔">
+<!ENTITY useFirefoxSync.label             "ٹوٹکا: یہ علیحدہ پروفائلز استعمال کرتا ہے. ان کے درمیان ڈیٹا کا اشتراک کرنے کی مطابقت پذیری کا استعمال کریں.">
 <!ENTITY getStarted.label                 "ہم وقت سازی استعمال کرنا شروع کریں…">
 
 <!ENTITY e10sEnabled.label                "کثیر عمل کاری کو فعال کریں &brandShortName;">
