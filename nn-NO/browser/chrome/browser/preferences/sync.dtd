@@ -16,7 +16,6 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Handsame konto">
 <!ENTITY manageAccount.accesskey      "H">
-<!ENTITY viewQuota.label              "Vis plasskvote">
 <!ENTITY changePassword2.label        "Endra passord …">
 <!ENTITY myRecoveryKey.label          "Gjenopprettingsnykel">
 <!ENTITY resetSync2.label             "Tilbakestill Sync …">
@@ -26,8 +25,6 @@
 <!ENTITY syncMy.label               "Synkroniser">
 <!ENTITY engine.bookmarks.label     "Bokmerke">
 <!ENTITY engine.bookmarks.accesskey "B">
-<!ENTITY engine.readinglist.label   "Leseliste">
-<!ENTITY engine.readinglist.accesskey "L">
 <!ENTITY engine.tabs.label          "Faner">
 <!ENTITY engine.tabs.accesskey      "F">
 <!ENTITY engine.history.label       "Historikk">
@@ -74,6 +71,7 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Du er ikkje innlogga.">
 <!ENTITY signIn.label                "Logg inn">
+<!ENTITY profilePicture.tooltip      "Endra profilbilde">
 <!ENTITY manage.label                "Handsame">
 <!ENTITY disconnect.label            "Kopla frå …">
 <!ENTITY verify.label                "Stadfeste e-post">
@@ -84,3 +82,17 @@ both, to better adapt this sentence to their language.
 <!ENTITY welcome.createAccount.label "Lag konto">
 
 <!ENTITY welcome.useOldSync.label "Brukar du ein eldre versjon av Sync?">
+
+<!ENTITY signedOut.caption            "Ta med deg nettet">
+<!ENTITY signedOut.description        "Synkroniser bokmerke, historikk, faner, passord, utvidingar og innstillingar på tvers av alle einingane dine.">
+<!ENTITY signedOut.accountBox.title   "Kopla til ein &syncBrand.fxAccount.label;">
+<!ENTITY signedOut.accountBox.create  "Lag konto">
+<!ENTITY signedOut.accountBox.signin  "Logg inn">
+
+<!ENTITY signedIn.engines.label       "Synk på tvers av alle einingar">
+
+<!ENTITY mobilePromo.start            "Last ned Firefox for ">
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+<!ENTITY mobilePromo.androidLink      "Android™">
+<!ENTITY mobilePromo.end              " for å synkronisera med den mobile eininga di.">
+<!ENTITY androidAttribution           "Android er eit varemerke som høyrer til Google Inc.">
