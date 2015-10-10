@@ -46,7 +46,7 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmuxi">
 <!ENTITY  font.langGroup.khmer                    "Xmer">
 <!ENTITY  font.langGroup.malayalam                "Malaycha">
-
+<!ENTITY  font.langGroup.math                     "Matematika">
 <!ENTITY  font.langGroup.oriya                    "Oriya">
 <!ENTITY  font.langGroup.telugu                   "Telugu">
 <!ENTITY  font.langGroup.kannada                  "Kannada">
