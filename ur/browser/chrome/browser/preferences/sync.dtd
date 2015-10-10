@@ -84,12 +84,13 @@ both, to better adapt this sentence to their language.
 <!ENTITY welcome.useOldSync.label "Sync کا کوئی پرانا ورژن استعمال کر رہے ہیں؟">
 
 
+<!ENTITY signedOut.accountBox.title   "کسی &syncBrand.fxAccount.label; کے ساتھ جڑیں">
 
 
 
+<!ENTITY signedIn.engines.label       "تمام آلات کی تمام ہم وقت سازی کریں">
 
-<!ENTITY signedIn.engines.label       "تمام آلات کی تمام ہم وقت ساز کریں">
-
+<!ENTITY mobilePromo.start            "Firefox ڈاؤن لوڈ کریں ">
 <!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
 <!ENTITY mobilePromo.androidLink      "Android™">
 <!ENTITY mobilePromo.end              "آپ کے موبائل ڈیوائس کے ساتھ مطابقت پذیر.">
