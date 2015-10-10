@@ -503,7 +503,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.accesskey  "e">
 <!ENTITY bookmarkPageCmd2.label       "Criar marcador para esta página">
 <!ENTITY bookmarkThisLinkCmd.label      "Criar marcador para esta ligação">
-<!ENTITY bookmarkThisLinkCmd.accesskey  "l">
+<!ENTITY bookmarkThisLinkCmd.accesskey  "d">
 <!ENTITY bookmarkThisFrameCmd.label      "Criar marcador para esta moldura">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY emailPageCmd.label           "Enviar ligação por e-mail…">
