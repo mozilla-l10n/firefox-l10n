@@ -6,7 +6,7 @@
 <!ENTITY header2.label "¿Le gustaría tener una nueva dirección de correo?">
 <!ENTITY other.languages "Sólo mostramos los proveedores que ofrecen direcciones en su área. Pulse aquí para mostrar todos los proveedores.">
 <!ENTITY error.line1 "Lo sentimos, no podemos encontrar ninguna dirección de correo sugerida.">
-<!ENTITY error.line2 "Puede probar a buscar apodos o cualquier otro término de búsqueda para conseguir más resultados">
+<!ENTITY error.line2 "Puede probar a buscar apodos o cualquier otro término de búsqueda para encontrar más mensajes.">
 <!ENTITY error.suggest.before "También puede querer probar una de las ">
 <!ENTITY error.suggest.middle "alternativas de cuentas de correo gratuitas">
 <!ENTITY error.suggest.after ".">
