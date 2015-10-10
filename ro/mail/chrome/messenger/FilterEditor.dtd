@@ -37,7 +37,7 @@
 
 <!ENTITY moveMessage.label "Mută mesajul în">
 <!ENTITY copyMessage.label "Copiază mesajul în">
-<!ENTITY forwardTo.label "Înaintează mesajul către">
+<!ENTITY forwardTo.label "Redirecționează mesajul către">
 <!ENTITY replyWithTemplate.label "Răspunde cu un șablon">
 <!ENTITY markMessageRead.label "Marchează ca citit">
 <!ENTITY markMessageUnread.label "Marchează ca necitit">

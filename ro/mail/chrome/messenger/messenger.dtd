@@ -352,7 +352,7 @@
 <!ENTITY forwardMsgCmd.label "Înaintează">
 <!ENTITY forwardMsgCmd.accesskey "a">
 <!ENTITY forwardMsgCmd.key  "L">
-<!ENTITY forwardAsMenu.label "Înaintează ca">
+<!ENTITY forwardAsMenu.label "Redirecționează ca">
 <!ENTITY forwardAsMenu.accesskey "c">
 <!ENTITY forwardAsInline.label "Mesaj inclus">
 <!ENTITY forwardAsInline.accesskey "i">
@@ -498,7 +498,7 @@
 <!ENTITY replyButton.label "Răspunde">
 <!ENTITY replyAllButton.label "Răspunde tuturor">
 <!ENTITY replyListButton.label "Răspunde listei">
-<!ENTITY forwardButton.label "Înaintează">
+<!ENTITY forwardButton.label "Redirecționează">
 <!ENTITY fileButton.label "Îndosariază">
 <!ENTITY archiveButton.label "Arhivează">
 <!ENTITY nextButton.label "Următorul">
@@ -538,7 +538,7 @@
 <!ENTITY replyButton.tooltip "Răspunde la acest mesaj">
 <!ENTITY replyAllButton.tooltip "Răspunde expeditorului și tuturor destinatarilor">
 <!ENTITY replyListButton.tooltip "Răspunde listei de discuții">
-<!ENTITY forwardButton.tooltip "Înaintează mesajul selectat">
+<!ENTITY forwardButton.tooltip "Redirecționează mesajul selectat">
 <!ENTITY forwardAsInline.tooltip "Redirecționează ca text intercalat mesajul selectat">
 <!ENTITY forwardAsAttachment.tooltip "Redirecționează ca un atașament mesajul selectat">
 <!ENTITY fileButton.tooltip "Îndosariază mesajul selectat">
