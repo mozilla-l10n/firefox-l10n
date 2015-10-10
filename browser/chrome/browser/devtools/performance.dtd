@@ -53,11 +53,11 @@
   -  in the toolbar on buttons that select which view is currently shown. -->
 
 <!ENTITY performanceUI.toolbar.waterfall "Cascada">
-<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Muestras las diferentes operaciones que el navegador está realizando duraante la grabación, colocadas secuencialmente como cascada.">
+<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Muestra las diferentes operaciones que el navegador esta realizando durante la grabación, puestas en secuencia como cascada.">
 <!ENTITY performanceUI.toolbar.js-calltree "Árbol de llamadas">
 <!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Funciones de JavaScript remarcadas donde el navegador gasta más tiempo durante la grabación.">
 <!ENTITY performanceUI.toolbar.memory-calltree "Asignaciones">
-<!ENTITY performanceUI.toolbar.allocations.tooltiptext "Muestra donde la memoria fue colocada durante la grabación.">
+<!ENTITY performanceUI.toolbar.allocations.tooltiptext "Muestra donde esta designada la memoria durante la grabación.">
 <!ENTITY performanceUI.toolbar.js-flamegraph "Gráfico de llamarada JS">
 <!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Muestra la pila de llamadas de JavaScript a lo largo de la grabación.">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "Asignaciones de la cuadrícula">
