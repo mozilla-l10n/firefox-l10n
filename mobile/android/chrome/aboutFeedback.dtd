@@ -17,6 +17,8 @@
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
+<!ENTITY support.pre3              " ملاقات ما">
+<!ENTITY support.link2             "پایگاه‌های پشتیبانی">
 
 
 <!ENTITY happy.header              "شنیدنش عالیه!">
@@ -33,13 +35,14 @@
 <!ENTITY happy.maybeLater2         "شاید بعداً">
 <!ENTITY happy.noThanks            "خیر، متشکرم">
 
+<!ENTITY sad.header                "نه!">
 <!ENTITY sad.message               "ما متاسفیم که شما مشکلاتی با &brandShortName; داشتید. لطفاً به ما بگویید چه اتفاقی افتاده تا ما بتوانیم مشکل را رفع کنیم.">
 <!ENTITY sad.placeholder           "بازخورد خود را اینجا وارد کنید">
-
+<!ENTITY sad.lastSite2             "شامل آخرین پایگاه‌های بازدید شده">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 
 <!ENTITY sad.urlPlaceholder        "http://">
-
+<!ENTITY sad.thanksHeader2         "تشکر.">
 <!-- LOCALIZATION NOTE (sad.thanksMessageTop): "real people" — We're stating that an actual human will look at the feedback
      and that it doesn't just go to some automated system that looks for keywords, or something like that. -->
 

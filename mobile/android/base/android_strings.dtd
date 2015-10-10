@@ -436,12 +436,15 @@ size. -->
      whether or not the magnifying glass is disabled. -->
 
 <!ENTITY pref_magnifying_glass_enabled "بزرگ نمایی یک ناحیه کوچک">
-
+<!ENTITY pref_magnifying_glass_enabled_summary "بزرگنمایی پیوندها و فیلدهای فرم زمانی که بر روی نزدیکی آن ضربه می‌زنید">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
+<!ENTITY pref_scroll_title_bar2 "مرور تمام صفحه">
+<!ENTITY pref_scroll_title_bar_summary "پنهان شدن &brandShortName; از نوار عنوان هنگامی حرکت به سمت پایین صفحه">
 
-
+<!ENTITY pref_tab_queue_title2 "باز‌کردن چندین پیوند">
+<!ENTITY pref_tab_queue_summary3 "تا زمان دیگری که &brandShortName; را باز کنید، ذخیره‌شان می‌کند.">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -456,19 +459,24 @@ size. -->
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
 <!ENTITY site_settings_title3       "تنظیمات سایت">
-
+<!ENTITY site_settings_cancel       "انصراف">
 <!ENTITY site_settings_clear        "پاک کردن">
 <!ENTITY site_settings_no_settings  "هیج تنظیماتی برای پاک کردن نیست.">
 <!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
+
+<!ENTITY reading_list_added3 "اضافه کردن به فهرست مطالعه">
 <!ENTITY reading_list_removed "صفحه از لیست خواندن حذف شد">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
+<!ENTITY reading_list_remove "حذف از فهرست مطالعه">
 <!ENTITY reading_list_duplicate "صفحه از قبل در فهرست خواندن شما است">
 <!-- Localization note (reading_list_time_minutes2) : This string is used in the "Reading List"
      panel on the home page to give the user an estimate of how many minutes it will take to
      read an article. The word "minute" should be abbreviated if possible. -->
 
+<!ENTITY reading_list_time_minutes2 "&formatD; دقیقه">
+<!ENTITY reading_list_time_over_an_hour "بیش از یک ساعت">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
 
@@ -476,16 +484,16 @@ size. -->
 
 <!ENTITY masterpassword_create_title "ثبت گذرواژهٔ اصلی">
 <!ENTITY masterpassword_remove_title "حذف گذرواژهٔ اصلی">
-
+<!ENTITY masterpassword_password "گذرواژه">
 <!ENTITY masterpassword_confirm "تأیید گذرواژه">
 
 <!ENTITY button_ok "تأیید">
-
+<!ENTITY button_cancel "انصراف">
 <!ENTITY button_yes "بله">
 <!ENTITY button_no "خیر">
 <!ENTITY button_clear_data "پاک‌کردن اطلاعات">
-
-
+<!ENTITY button_set "تنظیم کردن">
+<!ENTITY button_clear "پاک کردن">
 <!ENTITY button_copy "رونوشت">
 
 <!ENTITY home_top_sites_title "سایت‌های برتر">
@@ -496,17 +504,18 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 
 <!ENTITY home_title "خانه &brandShortName;">
-
+<!ENTITY home_history_title "تاریخچه">
 <!ENTITY home_clear_history_button "پاک کردن تاریخچه مرور">
-
+<!ENTITY home_clear_history_confirm "آیا مطمئن هستید می‌خواهید تاریخچه مرور خود را پاک کنید؟">
 <!ENTITY home_bookmarks_empty "نشانک‌هایی که ذخیره می‌کنید، در اینجا نمایش داده می‌شوند.">
-
+<!ENTITY home_closed_tabs_title "زبانه‌هایی که اخیر بسته‌ شده‌اند">
 <!ENTITY home_last_tabs_title "زبانه‌های مربوط به آخرین بار">
 <!ENTITY home_last_tabs_empty "زبانه‌های اخیر شما در اینجا نمایش داده می‌شوند.">
 <!ENTITY home_open_all "بازکردن همه">
 <!ENTITY home_most_recent_empty "وبسایت‌هایی را که اخیرا بیشتر بازدید کرده‌اید در اینجا نمایش داده می‌شوند.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2 "توجه: استفاده از &formatS1;زبانه خصوصی جدید&formatS2; تاریخچه مرور شما را ذخیره نخواهد کرد.">
 <!ENTITY home_reading_list_empty "مقاله‌هایی را که برای بعد ذخیره کرده‌اید، در اینجا نمایش داده می‌شوند.">
 <!-- Localization note (home_reading_list_hint): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
      as an advisory message on how to add content to the reading list when the reading list empty.
@@ -523,15 +532,18 @@ size. -->
 <!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
 
+<!ENTITY home_move_up_to_filter "حداکثر تا &formatS;">
+
 <!ENTITY home_remote_tabs_title "زبانه‌های همگام‌سازی شده">
-
+<!ENTITY home_remote_tabs_empty "زبانه‌های شما از دستگاه‌های دیگر در اینجا نمایش داده می‌شوند.">
 <!ENTITY home_remote_tabs_unable_to_connect "قادر به اتصال نیست">
-
-
+<!ENTITY home_remote_tabs_need_to_sign_in "لطفا جهت اتصال مجدد به حساب‌ کاربری فایرفاکس خود وارد شوید تا همگام‌سازی ادامه پیدا کند.">
+<!ENTITY home_remote_tabs_need_to_finish_migrating "حساب فایرفاکس جدید شما آماده است!">
 
 <!ENTITY home_remote_tabs_trouble_verifying "مشکلی در تایید کردن حساب کاربری خود دارید؟">
+<!ENTITY home_remote_tabs_need_to_verify "برای آغاز همگام‌سازی لطفا حساب فایرفاکس خود‌ را تایید کنید.">
 
-
+<!ENTITY home_remote_tabs_one_hidden_device "۱ دستگاه مخفی">
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
@@ -542,12 +554,15 @@ size. -->
 <!ENTITY home_remote_tabs_hidden_devices_title "دستگاه‌های مخفی">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "دستگاه‌های انتخاب شده را از حالت مخفی خارج کن">
 
-
-
+<!ENTITY remote_tabs_panel_moved_title "زبانه‌های من کجا رفتند؟">
+<!ENTITY remote_tabs_panel_moved_desc "ما زبانه‌های شما را از دستگاه‌های دیگر به یک بخش از صفحه خانگی شما منتقل کردیم تا بتوانید به راحتی هر زمانی که زبانه‌ جدیدی باز‌ می‌کنید به آن دسترسی داشته باشید.">
+<!ENTITY remote_tabs_panel_moved_link "من را به بخش جدید خودم منتقل کن">
 
 <!ENTITY pin_site_dialog_hint "ثبت یک کلید‌واژه جست‌وجو">
 
+<!ENTITY filepicker_title "انتخاب پرونده">
 <!ENTITY filepicker_audio_title "انتخاب یا ضبط یک صدا">
 <!ENTITY filepicker_image_title "انتخاب یا عکس گرفتن">
 <!ENTITY filepicker_video_title "انتخاب یا ضبط یک ویدیو">
@@ -569,13 +584,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_insecure "اتصال نا امن">
 <!-- Mixed content notifications in site identity popup -->
 
-
-
+<!ENTITY mixed_content_blocked_all1 "&brandShortName;محتوا غیر‌امن این صفحه را مسدود کرده است.">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; تعدادی از محتوا غیر‌امن این صفحه را مسدود کرده است.">
+<!ENTITY mixed_content_display_loaded1 "قسمت‌هایی از این صفحه امن نیست (مانند تصاویر).">
+<!ENTITY mixed_content_protection_disabled1 "شما محافظت از محتوا غیر امن را در این صفحه غیرفعال کرده‌اید.">
 <!-- Tracking content notifications in site identity popup -->
 
-
-
-
+<!ENTITY doorhanger_tracking_title "محافظت در برابر ردگیری">
+<!ENTITY doorhanger_tracking_state_enabled "فعال شد">
+<!ENTITY doorhanger_tracking_state_disabled "غیرفعال شد">
+<!ENTITY doorhanger_tracking_message_enabled1 "تلاش‌هایی برای رد گیری فعالیت‌های آنلاین شما، مسدود شدند.">
+<!ENTITY doorhanger_tracking_message_disabled2 "این صفحه حاوی عناصری است که ممکن است مرور شما را رد گیری کنند.">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "بیشتر بدانید">
@@ -586,6 +605,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "داده‌های شخصی پاک شده‌اند">
 <!ENTITY private_data_fail "بعضی از داده‌های شخصی نمی‌توانند پاک شوند">
 
+<!ENTITY bookmarkhistory_button_import "وارد کردن">
 <!ENTITY bookmarkhistory_import_both "وارد کردن نشانک‌ها و تاریخچه 
 از اندروید">
 <!ENTITY bookmarkhistory_import_bookmarks "وارد کردن نشانک‌ها 
@@ -621,18 +641,20 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "برای اعمال بروزرسانی پس از بارگیری، لمس کنید">
 <!ENTITY updater_downloading_retry2 "برای تلاش مجدد لمس کنید">
 
+<!ENTITY updater_apply_title2 "بروزرسانی برای &brandShortName; موجود است">
 <!ENTITY updater_apply_select2 "برای بروزرسانی لمس کنید">
 <!-- Guest mode -->
 
 <!ENTITY new_guest_session "نشست جدید مهمان">
 <!ENTITY exit_guest_session "خروج از نشست مهمان">
 <!ENTITY guest_session_dialog_continue "ادامه">
-
+<!ENTITY guest_session_dialog_cancel "انصراف">
 <!ENTITY new_guest_session_title "&brandShortName; هم‌اکنون راه اندازی مجدد خواهد شد">
+<!ENTITY new_guest_session_text2 "شخص با استفاده از این قادر نخواهد بود هیچ یک از داده‌های مرور شخصی شما را ببیند (مانند گذرواژه‌های ذخیره شده، تاریخچه یا نشانک‌ها).\n\nزمانی که کار مهمان شما تمام شود، داده‌های مرور پاک خواهند شد و نشست شما بازگردانده می‌شود.">
+<!ENTITY guest_browsing_notification_title "مرور در حالت مهمان فعال است">
+<!ENTITY guest_browsing_notification_text "برای خروج تپ کنید">
 
-
-
-
+<!ENTITY exit_guest_session_title "&brandShortName; هم‌اکنون راه اندازی مجدد خواهد شد">
 <!ENTITY exit_guest_session_text "داده‌های مرور شده در این نشست حذف خواهند شد.">
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
@@ -641,14 +663,19 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY ellipsis "…">
 
+<!ENTITY colon ":">
 <!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
      display a percentage value. formatS is the number, #37 is the code to display a percent sign.
      This format string is typically used by getString method, in such method the percent sign
      is a reserved caracter. In order to display one percent sign in the result of getString,
      double percent signs must be inserted in the format string.
      This entity is used in the zoomed view to display the zoom factor-->
+
+<!ENTITY percent "&formatS;&#037;&#037;">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
+
+<!ENTITY actionbar_menu "منو">
 <!ENTITY actionbar_done "انجام شد">
 <!-- Voice search in the awesome bar -->
 
@@ -659,6 +686,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
+
+<!ENTITY remote_tabs_last_synced "آخرین همگام سازی: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "آخرین همگام سازی: هیچ وقت">
 <!-- Find-In-Page strings -->
@@ -667,6 +696,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY find_matchcase "آپ">
 
+<!ENTITY intent_uri_cannot_open "پیوند باز نمی‌شود">
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
      above a QR reader that is actively scanning for QR codes.  The expected QR
@@ -677,18 +707,26 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
-
-
-
+<!ENTITY restriction_disallow_import_settings_title2 "غیر فعال کردن \u0027وارد کردن از اندروید\u0027">
+<!ENTITY restriction_disallow_addons_title2 "غیرفعال کردن نصب افزونه">
+<!ENTITY restriction_disallow_devtools_title2 "غیرفعال کردن ابزار توسعه‌دهندگان">
+<!ENTITY restriction_disallow_customize_home_title2 "غیرفعال‌سازی حالت سفارشی‌سازی صفحه خانه ">
+<!ENTITY restriction_disallow_private_browsing_title2 "غیر فعال کردن مرور خصوصی">
 <!ENTITY restriction_disallow_location_services_title2 "غیر فعال کردن خدمات مکان">
-
-
-
+<!ENTITY restriction_disallow_display_settings_title2 "غیرفعال کردن تنظیمات صفحه نمایش">
+<!ENTITY restriction_disallow_clear_history_title2 "غیرفعال کردن \u0027حذف تاریخچه مرور\u0027">
+<!ENTITY restriction_disallow_master_password_title2 "غیرفعال کردن گذرواژه اصلی">
 <!ENTITY restriction_disallow_guest_browsing_title2 "غیرفعال کردن مرور مهمان">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+
+<!ENTITY bookmarks_about_browser "فایرفاکس: درباره مرورگرتان">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "فایرفاکس: شخصی‌سازی با افزودنی‌ها">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "فایرفاکس: پشتیبانی">
 <!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
+<!ENTITY bookmarks_marketplace "فروشگاه فایرفاکس">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!ENTITY bookmarks_restricted_webmaker "وب را یاد‌بگیرید: Mozilla Webmaker">
