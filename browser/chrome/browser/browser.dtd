@@ -518,7 +518,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printFrameCmd.label          "Imprimir moldura…">
 <!ENTITY printFrameCmd.accesskey      "p">
 <!ENTITY saveLinkCmd.label            "Guardar ligação como…">
-<!ENTITY saveLinkCmd.accesskey        "l">
+<!ENTITY saveLinkCmd.accesskey        "G">
 <!ENTITY saveImageCmd.label           "Guardar imagem como…">
 <!ENTITY saveImageCmd.accesskey       "e">
 <!ENTITY saveVideoCmd.label           "Guardar vídeo como…">
@@ -540,9 +540,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyLinkCmd.label            "Copiar endereço da ligação">
 <!ENTITY copyLinkCmd.accesskey        "a">
 <!ENTITY copyImageCmd.label           "Copiar endereço da imagem">
-<!ENTITY copyImageCmd.accesskey       "o">
+<!ENTITY copyImageCmd.accesskey       "ç">
 <!ENTITY copyImageContentsCmd.label   "Copiar imagem">
-<!ENTITY copyImageContentsCmd.accesskey  "i"> 
+<!ENTITY copyImageContentsCmd.accesskey  "o"> 
 <!ENTITY copyVideoURLCmd.label        "Copiar localização do vídeo">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "Copiar localização do áudio">
