@@ -17,3 +17,5 @@
 <!ENTITY cmd.open.accesskey                        "O">
 <!ENTITY cmd.removeFromHistory.label               "Fjern frå historikk">
 <!ENTITY cmd.removeFromHistory.accesskey           "e">
+<!ENTITY cmd.clearDownloads.label                  "Tøm nedlastingar">
+<!ENTITY cmd.clearDownloads.accesskey              "T">

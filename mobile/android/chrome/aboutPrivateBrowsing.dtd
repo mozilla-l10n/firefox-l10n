@@ -2,12 +2,22 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                  "Privat nettlesing">
+<!ENTITY privatebrowsingpage.title "Privat nettlesing">
 
-<!ENTITY privatebrowsingpage.issueDesc.private      "Du har opna ei ny privat fane.">
-<!ENTITY privatebrowsingpage.issueDesc.normal       "Du er ikkje i ei privat fane.">
+<!-- Localisation note: the plus sign here is a shorthand way of expressing the word "and". Contextually the privatebrowsingpage.title.private string
+                        is used as a title, with the privatebrowsingpage.title string preceding it but on a separate line.
+                        So the final line will say "Private Browsing + Tracking Protection". -->
+<!ENTITY privatebrowsingpage.title.private "+ Sporingsvern">
+<!-- Localization note (privatebrowsingpage.title.normal1): "Private Browsing"
+     is capitalized in English to be consistent with our existing uses of the
+     term. -->
+<!ENTITY privatebrowsingpage.title.normal1 "Du er ikkje i privat nettlesing">
 
-<!ENTITY privatebrowsingpage.description            "I ei privat fane vil ikkje &brandShortName; registrere historikk for nettlesing, søk, nedlastingar eller skjema, infokapslar, eller mellombelse Internett-filer. Filer du lastar ned og bokmerke som du lagar vil likevel bli tekne vare på">
-<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+<!ENTITY privatebrowsingpage.description.private3 "Firefox vil hindre at du blir spora, og vil ikkje hugse historikk, men nedlasta filer og nye bokmerke vil likevel lagrast på eininga.">
+<!-- Localization note (privatebrowsingpage.description.normal2): "Private
+     Browsing" is capitalized in English to be consistent with our existing uses
+     of the term. -->
+<!ENTITY privatebrowsingpage.description.normal2 "I Privat nettlesing vil vi ikkje lagre nettlesarhistorikken din og infokapslar. Bokmerke du legg til, og filer du lastar ned, vil likevel lagrast på eininga.">
 
-<!ENTITY privatebrowsingpage.moreInfo               "Sjølv om denne eininga ikkje vil ha oversikt over nettlesinga din, kan Internett-tilbydaren din framleis spora kva for nettsider du vitjar.">
+<!ENTITY privatebrowsingpage.link.private "Vil du lesa meir?">
+<!ENTITY privatebrowsingpage.link.normal "Opna ei ny privat fane">
