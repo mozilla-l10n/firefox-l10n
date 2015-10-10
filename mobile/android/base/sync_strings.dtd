@@ -140,14 +140,13 @@
 <!ENTITY fxaccount_policy_linktos 'conditions d\u0027utilisation'>
 <!ENTITY fxaccount_policy_linkprivacy 'politique de confidentialité'>
 <!ENTITY fxaccount_status_more 'Plus&ellipsis;'>
+<!ENTITY fxaccount_remove_account 'Déconnecter…'>
 
 <!ENTITY fxaccount_remove_account_dialog_title 'Supprimer le compte Firefox ?'>
 <!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; ne se synchronisera plus avec votre compte, mais ne supprimera aucune donnée de navigation sur cet appareil.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast 'Compte Firefox &formatS; supprimé.'>
-
-<!ENTITY fxaccount_remove_account_menu_item 'Supprimer le compte'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'Bienvenue dans &syncBrand.shortName.label;'>
 <!ENTITY fxaccount_getting_started_description2 'Connectez-vous pour synchroniser vos onglets, marque-pages, identifiants et bien plus.'>
