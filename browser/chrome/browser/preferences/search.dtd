@@ -9,6 +9,9 @@
 <!ENTITY provideSearchSuggestions.label        "Tilby søkjeforslag">
 <!ENTITY provideSearchSuggestions.accesskey    "T">
 
+<!ENTITY showURLBarSuggestions.label           "Vis søkjeforslag i adresselinjeresultata">
+<!ENTITY showURLBarSuggestions.accesskey       "s">
+
 <!ENTITY redirectWindowsSearch.label "Bruk denne søkjemotoren for søk frå Windows">
 <!ENTITY redirectWindowsSearch.accesskey "B">
 
