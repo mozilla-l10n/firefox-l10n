@@ -6,6 +6,12 @@
 
 <!ENTITY  blockPopups.label           "Blokovať nevyžiadané vyskakovacie okná">
 <!ENTITY  blockPopups.accesskey       "B">
+
+<!ENTITY  notificationsPolicy.label            "Upozornenia">
+<!ENTITY  notificationsPolicyDesc.label        "Zvoľte, ktoré stránky majú povolené zobrazovať upozornenia">
+<!ENTITY  notificationsPolicyButton.accesskey  "Z">
+<!ENTITY  notificationsPolicyButton.label      "Zvoliť…">
+
 <!ENTITY  popupExceptions.label       "Výnimky…">
 <!ENTITY  popupExceptions.accesskey   "k">
 
