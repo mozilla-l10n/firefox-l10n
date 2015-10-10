@@ -32,9 +32,9 @@
 <!ENTITY hdrReplyListButton1.tooltip "Răspunde listei de discuții">
 <!ENTITY hdrFollowupButton1.label "Urmărește">
 <!ENTITY hdrFollowupButton1.tooltip "Postează un răspuns la acest grup de discuții">
-<!ENTITY hdrMenuForwardButton.label "Înaintează ca">
-<!ENTITY hdrForwardButton1.label "Înaintează">
-<!ENTITY hdrForwardButton1.tooltip "Înaintează acest mesaj">
+<!ENTITY hdrMenuForwardButton.label "Redirecționează ca">
+<!ENTITY hdrForwardButton1.label "Redirecționează">
+<!ENTITY hdrForwardButton1.tooltip "Redirecționează acest mesaj">
 <!ENTITY hdrJunkButton1.label "Nesolicitat">
 <!ENTITY hdrJunkButton1.tooltip "Marchează mesajul ca nesolicitat">
 <!ENTITY hdrTrashButton1.label "Șterge">
