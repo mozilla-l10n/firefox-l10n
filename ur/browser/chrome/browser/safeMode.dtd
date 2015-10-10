@@ -6,7 +6,7 @@
 <!ENTITY window.maxWidth              "400">
 
 <!ENTITY startSafeMode.label          "محفوظ موڈ میں شروع کریں">
-
+<!ENTITY refreshProfile.label         "&brandShortName; کو پھر تازہ کریں">
 
 <!ENTITY safeModeDescription3.label   "محفوظ موڈ &brandShortName; کا ایک خاص موڈ ہے جو مسائل ٹھیک کرنے کے لیے استعمال کیا جا سکتا ہے۔">
 <!ENTITY safeModeDescription4.label   "آپ کے اضافہ جات اور مخصوص سیٹینگیں عارضی طور پر نا اہل کر دی جائیں گی۔">

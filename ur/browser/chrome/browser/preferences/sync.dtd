@@ -39,7 +39,7 @@
 
 <!ENTITY syncDeviceName.label       "آلہ نام:">
 <!ENTITY syncDeviceName.accesskey   "ل">
-
+<!ENTITY fxaSyncDeviceName.label       "آلہ کا نام">
 
 <!ENTITY cancelChangeSyncDeviceName.label "منسوخ کریں">
 <!ENTITY saveChangeSyncDeviceName.label "محفوظ کریں">

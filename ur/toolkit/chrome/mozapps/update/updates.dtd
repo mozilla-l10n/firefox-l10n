@@ -46,7 +46,7 @@
 <!ENTITY  license.introText               "اس سوفٹ ویر کو استعمال کرنے کی شرائط۔">
 <!ENTITY  license.instructionText         "برائے مہربانی مندرجہ ذیل لائسنس ایگریمنٹ پڑھیے۔ آخر تک پڑھنے کے لئے سکرول بار کا استعمال کیجیے۔">
 <!ENTITY  license.accept                  "مجھے اس معاہدے کی شرائط قبول ہیں۔">
-<!ENTITY  license.accept.accesskey        "ق">
+<!ENTITY  license.accept.accesskey        "c">
 <!ENTITY  license.decline                 "مجھے اس ایگریمنٹ کی شرائط قبول نہیں ہیں">
 <!ENTITY  license.decline.accesskey       "ن">
 
