@@ -219,16 +219,22 @@
 <!ENTITY pref_cookies_not_accept_foreign "Autorisés, sauf cookies tiers">
 <!ENTITY pref_cookies_disabled "Non autorisés">
 
+<!ENTITY pref_tap_to_load_images_title "Appuyer pour charger les images">
+<!ENTITY pref_tap_to_load_images_summary2 "Charger les images uniquement après avoir effectué un appui long dessus">
+
 <!ENTITY pref_tracking_protection_title "Protection contre le pistage">
 <!ENTITY pref_tracking_protection_summary3 "Activée pour la navigation privée">
+<!ENTITY pref_donottrack_title "Ne pas me pister">
+<!ENTITY pref_donottrack_summary "&brandShortName; indiquera aux sites que vous ne souhaitez pas être pisté">
+
+<!ENTITY pref_tracking_protection_enabled "Activée">
+<!ENTITY pref_tracking_protection_enabled_pb "Activée en navigation privée">
+<!ENTITY pref_tracking_protection_disabled "Désactivée">
 
 <!ENTITY tracking_protection_prompt_title "Désormais avec protection contre le pistage">
 <!ENTITY tracking_protection_prompt_text "Les éléments pouvant pister votre navigation sont bloqués afin que vous n\u0027ayez pas à vous en préoccuper.">
 <!ENTITY tracking_protection_prompt_tip_text "Consultez les paramètres de vie privée pour en savoir plus">
 <!ENTITY tracking_protection_prompt_action_button "Fermer">
-
-<!ENTITY pref_donottrack_title "Ne pas me pister">
-<!ENTITY pref_donottrack_summary "&brandShortName; indiquera aux sites que vous ne souhaitez pas être pisté">
 
 <!ENTITY tab_queue_toast_message3 "Onglet enregistré dans &brandShortName;">
 <!ENTITY tab_queue_toast_action "Ouvrir">
@@ -293,6 +299,7 @@ size. -->
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_sync_summary2 "Synchroniser onglets, marque-pages, identifiants, historique">
 <!ENTITY pref_search_suggestions "Suggestions de recherche">
+<!ENTITY pref_history_search_suggestions "Afficher l\u0027historique de recherche">
 <!ENTITY pref_import_android "Importer depuis Android">
 <!ENTITY pref_import_android_summary "Importer les marque-pages et l\u0027historique du navigateur d\u0027origine">
 <!ENTITY pref_private_data_history2 "Historique de navigation">
@@ -700,6 +707,20 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY find_matchcase "Aa">
 
 <!ENTITY intent_uri_cannot_open "Impossible d\u0027ouvrir le lien">
+<!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
+     appear in an alert when a user, who is currently in private browsing,
+     clicks a link that will open an external Android application. "&formatS;"
+     will be replaced with the name of the application that will be opened. -->
+<!ENTITY intent_uri_private_browsing_prompt "Ce lien sera ouvert dans &formatS;. Voulez-vous vraiment quitter la navigation privée ?">
+<!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
+     string will appear as the title of an alert when a user, who is currently
+     in private browsing, clicks a link that will open an external Android
+     application and more than one application is available to open that link.
+     We don't have control over the style of this dialog and it looks
+     unpolished when this string is longer than one line so ideally keep it
+     short! -->
+<!ENTITY intent_uri_private_browsing_multiple_match_title "Quitter la navigation privée ?">
+
 
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
