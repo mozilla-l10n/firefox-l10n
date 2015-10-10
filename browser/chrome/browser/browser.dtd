@@ -308,6 +308,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label "Súbor">
 <!ENTITY fileMenu.accesskey "S">
+<!ENTITY newUserContext.label             "Nová kontajnerová karta">
+<!ENTITY newUserContext.accesskey         "k">
+<!ENTITY userContextPersonal.label        "Osobné">
+<!ENTITY userContextPersonal.accesskey    "O">
+<!ENTITY userContextWork.label            "Pracovné">
+<!ENTITY userContextWork.accesskey        "P">
+<!ENTITY userContextBanking.label         "Bankovníctvo">
+<!ENTITY userContextBanking.accesskey     "B">
+<!ENTITY userContextShopping.label        "Nakupovanie">
+<!ENTITY userContextShopping.accesskey    "N">
 <!ENTITY newNavigatorCmd.label "Nové okno">
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "o">
