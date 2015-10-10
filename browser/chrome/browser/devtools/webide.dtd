@@ -26,7 +26,7 @@
 <!ENTITY projectMenu_showPrefs_accesskey "e">
 <!ENTITY projectMenu_manageComponents_label "Administrar componentes extra">
 <!ENTITY projectMenu_manageComponents_accesskey "M">
-
+<!ENTITY projectMenu_refreshTabs_label "Actualizar pestañas">
 
 <!ENTITY runtimeMenu_label "Tiempo de ejecución">
 <!ENTITY runtimeMenu_accesskey "R">

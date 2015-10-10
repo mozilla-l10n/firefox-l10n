@@ -24,7 +24,10 @@
 <!ENTITY  addonExceptions.accesskey     "E">
 
 
+<!ENTITY  logins.label                  "Inicios de sesión">
 
+<!ENTITY  rememberLogins.label          "Recordar inicios de sesión para los sitios">
+<!ENTITY  rememberLogins.accesskey      "R">
 <!ENTITY  passwordExceptions.label      "Excepciones…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
@@ -33,4 +36,5 @@
 <!ENTITY  changeMasterPassword.label     "Cambiar…">
 <!ENTITY  changeMasterPassword.accesskey "m">
 
-
+<!ENTITY  savedLogins.label              "Inicios de sesión guardados…">
+<!ENTITY  savedLogins.accesskey          "I">
