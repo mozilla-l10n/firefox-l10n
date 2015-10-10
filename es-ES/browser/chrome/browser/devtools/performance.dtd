@@ -8,6 +8,7 @@
 <!ENTITY performanceUI.disabledRealTime.nonE10SBuild "Datos de registro en tiempo real desactivados en Firefox sin multiproceso.">
 <!ENTITY performanceUI.disabledRealTime.disabledE10S "Active Firefox multiproceso en las preferencias para mostrar los datos registrados en tiempo real.">
 <!ENTITY performanceUI.bufferStatusFull "El buffer está lleno. Las muestras más antiguas están siendo sobrescritas.">
+<!ENTITY performanceUI.unavailableNoticePB "">
 <!ENTITY performanceUI.loadingNotice "Cargando…">
 <!ENTITY performanceUI.recordButton.tooltip "Alterne el estado de registro de una grabación de rendimiento.">
 <!ENTITY performanceUI.importButton "Importar…">

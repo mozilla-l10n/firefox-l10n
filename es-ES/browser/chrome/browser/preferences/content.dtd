@@ -5,6 +5,10 @@
 <!ENTITY popups.label "Ventanas emergentes">
 <!ENTITY blockPopups.label "Bloquear ventanas emergentes">
 <!ENTITY blockPopups.accesskey "B">
+<!ENTITY notificationsPolicy.label "">
+<!ENTITY notificationsPolicyDesc.label "">
+<!ENTITY notificationsPolicyButton.accesskey "">
+<!ENTITY notificationsPolicyButton.label "Elegir…">
 <!ENTITY popupExceptions.label "Excepciones…">
 <!ENTITY popupExceptions.accesskey "E">
 <!ENTITY fontsAndColors.label "Tipografías y colores">
