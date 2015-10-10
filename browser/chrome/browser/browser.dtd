@@ -83,10 +83,6 @@
 <!ENTITY fxaUnverified.label "Verifique su cuenta">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; activado">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; comenzará a sincronizar en breves momentos.">
-<!ENTITY syncErrorPanel.heading "No se puede conectar a &syncBrand.shortName.label;">
-<!ENTITY syncErrorPanel.subTitle "Por favor, inicie sesión para continuar sincronizando.">
-<!ENTITY syncErrorPanel.signInButton.label "Conectarse">
-<!ENTITY syncErrorPanel.signInButton.accesskey "C">
 <!ENTITY fullScreenMinimize.tooltip "Minimizar">
 <!ENTITY fullScreenRestore.tooltip "Restaurar">
 <!ENTITY fullScreenClose.tooltip "Cerrar">
