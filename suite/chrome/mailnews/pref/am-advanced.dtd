@@ -17,6 +17,7 @@
 <!ENTITY smtpListSetDefault.label "Nastaviť ako predvolený">
 <!ENTITY smtpListSetDefault.accesskey "s">
 
+<!ENTITY serverDetails.label "Podrobnosti o zvolenom serveri:">
 <!ENTITY serverDescription.label "Popis: ">
 <!ENTITY serverName.label "Názov servera: ">
 <!ENTITY serverPort.label "Port: ">
