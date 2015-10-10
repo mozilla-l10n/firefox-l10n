@@ -117,7 +117,8 @@
 
 <!ENTITY unknownSocketType.title "Сервердің жауабы күтпеген түрде">
 <!ENTITY unknownSocketType.longDesc "<ul> 
-<li>Жүйеңізде Personal Security Manager орнатылғанын тексеріңіз.</li> 
+<li>Жүйеңізде Personal Security Manager 
+орнатылғанын тексеріңіз.</li> 
 <li>Бұл мәселе қалыпты емес бапталған сервер себебінен болуы мүмкін.</li> 
 </ul>">
 
@@ -129,8 +130,10 @@
 
 <!ENTITY nssBadCert.title "Қорғалған байланысты орнату сәтсіз">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>Бұл сервердің қатесі болуы мүмкін, немесе біреу сізге керек серверді басқасымен ауыстырғысы келеді</li> 
-<li>Осыған дейін осы серверге сәтті қосылған болсаңыз, осы қате уақытша болуы мүмкін. Біраздан кейін қайталап көріңіз.</li> 
+<li>Бұл сервердің қатесі болуы мүмкін, немесе біреу сізге керек 
+серверді басқасымен ауыстырғысы келеді</li> 
+<li>Осыған дейін осы серверге сәтті қосылған болсаңыз, осы қате 
+уақытша болуы мүмкін. Біраздан кейін қайталап көріңіз.</li> 
 </ul>">
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
