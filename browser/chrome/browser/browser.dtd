@@ -165,6 +165,8 @@
 <!ENTITY addons.commandkey "A">
 <!ENTITY webapps.label "Aplicaciones">
 <!ENTITY webapps.accesskey "p">
+<!ENTITY loopMenuItem.label "Iniciar una conversación">
+<!ENTITY loopMenuItem.accesskey "">
 <!ENTITY webDeveloperMenu.label "Desarrollador web">
 <!ENTITY webDeveloperMenu.accesskey "W">
 <!ENTITY devToolsCmd.keycode "VK_F12">
@@ -213,6 +215,16 @@
 <!ENTITY getMoreDevtoolsCmd.accesskey "h">
 <!ENTITY fileMenu.label "Archivo">
 <!ENTITY fileMenu.accesskey "A">
+<!ENTITY newUserContext.label "">
+<!ENTITY newUserContext.accesskey "">
+<!ENTITY userContextPersonal.label "">
+<!ENTITY userContextPersonal.accesskey "">
+<!ENTITY userContextWork.label "">
+<!ENTITY userContextWork.accesskey "">
+<!ENTITY userContextBanking.label "">
+<!ENTITY userContextBanking.accesskey "">
+<!ENTITY userContextShopping.label "">
+<!ENTITY userContextShopping.accesskey "">
 <!ENTITY newNavigatorCmd.label "Nueva ventana">
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "N">
