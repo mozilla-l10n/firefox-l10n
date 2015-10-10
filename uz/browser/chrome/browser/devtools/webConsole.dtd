@@ -77,10 +77,14 @@
 <!ENTITY btnConsoleReflows      "Qayta oqimlar">
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
+
+<!ENTITY btnConsoleSharedWorkers "Shared Workers">
 <!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
   -  should not be translated. -->
+<!ENTITY btnConsoleServiceWorkers "Service Workers">
 <!-- LOCALIZATION NODE (btnConsoleWindowlessWorkers) the term "Workers"
   -  should not be translated. -->
+<!ENTITY btnConsoleWindowlessWorkers "Qo‘shimcha dastur yoki Chrome Workers">
 
 <!ENTITY filterOutput.placeholder "Filter natijalari">
 <!ENTITY btnClear.label        "Tozalash">
@@ -104,5 +108,5 @@
 <!ENTITY closeCmd.key         "W">
 <!ENTITY findCmd.key          "F">
 <!ENTITY clearOutputCtrl.key  "L">
-
-
+<!ENTITY openInVarViewCmd.label "O‘zgaruvchilar ko‘rinishida ochish">
+<!ENTITY openInVarViewCmd.accesskey "O">
