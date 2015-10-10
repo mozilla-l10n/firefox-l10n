@@ -7,14 +7,14 @@
 <!ENTITY dntTrackingNotOkay4.label     "درخواست دیں کہ سائٹ آپکا سراغ راہ نہ لگائیں">
 <!ENTITY dntTrackingNotOkay4.accesskey "ن">
 <!ENTITY doNotTrackInfo.label          "اور سیکھیں">
-
-
-
-
-
-
-
-
+<!ENTITY trackingProtection5.label     "سراغ راہ حفاظت استعمال کریں">
+<!ENTITY trackingProtection5.accesskey "ا">
+<!ENTITY trackingProtectionLearnMore.label "اور سیکھیں">
+<!ENTITY trackingProtectionPBM5.label         "ذاتی ونڈوز میں ٹریکنگ حفاظت کا استعمال کریں">
+<!ENTITY trackingProtectionPBM5.accesskey     "ت">
+<!ENTITY trackingProtectionPBMLearnMore.label "مزید سیکھیں">
+<!ENTITY changeBlockList.label          "بلاک کی فہرست تبدیل کریں">
+<!ENTITY changeBlockList.accesskey      "ت">
 
 <!ENTITY  history.label                 "سابقات">
 
@@ -29,7 +29,8 @@
 <!ENTITY  locbar.searches.label         "تحقیق و تکمیل کاری تلاش کرنا طے شدہ تلاش کے انجن سے">
 <!ENTITY  locbar.searches.accesskey     "ت">
 
-
+<!ENTITY  suggestionSettings.label      "تلاش کے انجن کی تجاویز کے لئے ترجیحات کو بدلیں…">
+<!ENTITY  suggestionSettings.accesskey  "g">
 
 <!ENTITY  acceptCookies.label           "سائٹوں پر سے کوکی قبول کریں">
 <!ENTITY  acceptCookies.accesskey       "ق">

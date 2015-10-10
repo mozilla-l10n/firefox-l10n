@@ -231,7 +231,7 @@
 <!ENTITY experiment.info.label "یہ کیا ہے؟ Telemetry وقت وقت پر تجربات کو تنصیب اور چلا سکتا ہے۔">
 <!ENTITY experiment.info.learnmore "اور سیکھیں">
 <!ENTITY experiment.info.learnmore.accesskey "L">
-<!ENTITY experiment.info.changetelemetry "Telemetry سیٹنگیں">
+<!ENTITY experiment.info.changetelemetry "ٹیلیمیٹری سیٹنگیں">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
 
 <!ENTITY setting.learnmore "اور سیکھیں…">
