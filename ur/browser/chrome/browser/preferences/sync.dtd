@@ -72,7 +72,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY notSignedIn.label           "آپ سائن ان نہیں ہیں۔">
 <!ENTITY signIn.label                "سائن ان کریں">
 <!ENTITY profilePicture.tooltip      "پروفائل کی تصویر تبدیل کریں">
-
+<!ENTITY verifiedManage.label        "اکاؤنٹ کا بندوبست کریں">
 <!ENTITY disconnect.label            "منقطع کریں…">
 <!ENTITY verify.label                "ای میل توثیق کریں">
 <!ENTITY forget.label                "اس ای میل کو بھول جائیں">
@@ -88,7 +88,9 @@ both, to better adapt this sentence to their language.
 
 
 
+<!ENTITY signedIn.engines.label       "تمام آلات کی تمام ہم وقت ساز کریں">
 
 <!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+<!ENTITY mobilePromo.androidLink      "Android™">
 <!ENTITY mobilePromo.end              "آپ کے موبائل ڈیوائس کے ساتھ مطابقت پذیر۔">
 

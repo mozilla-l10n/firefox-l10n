@@ -43,8 +43,8 @@
 <!ENTITY translation.options.attribution.beforeLogo "کی طرف سے ترجمے">
 <!ENTITY translation.options.attribution.afterLogo "">
 
-<!ENTITY  drmContent.label             "ڈی آر ئیم مواد">
+<!ENTITY  drmContent.label             "DRM مواد">
 
-<!ENTITY  playDRMContent.label         "چلائیں DRM مواد">
+<!ENTITY  playDRMContent.label         "DRM مواد چلائیں ">
 <!ENTITY  playDRMContent.accesskey     "چ">
 <!ENTITY  playDRMContent.learnMore.label "مزید سیکھیں">

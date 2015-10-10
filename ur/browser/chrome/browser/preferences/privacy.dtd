@@ -9,11 +9,11 @@
 <!ENTITY doNotTrackInfo.label          "اور سیکھیں">
 <!ENTITY trackingProtection5.label     "سراغ راہ حفاظت استعمال کریں">
 <!ENTITY trackingProtection5.accesskey "ا">
-<!ENTITY trackingProtectionLearnMore.label "اور سیکھیں">
+<!ENTITY trackingProtectionLearnMore.label "مزید سیکھیں">
 <!ENTITY trackingProtectionPBM5.label         "ذاتی ونڈوز میں ٹریکنگ حفاظت کا استعمال کریں">
 <!ENTITY trackingProtectionPBM5.accesskey     "ت">
 <!ENTITY trackingProtectionPBMLearnMore.label "مزید سیکھیں">
-<!ENTITY changeBlockList.label          "بلاک کی فہرست تبدیل کریں">
+<!ENTITY changeBlockList.label          "بلاک فہرست تبدیل کریں">
 <!ENTITY changeBlockList.accesskey      "ت">
 
 <!ENTITY  history.label                 "سابقات">
