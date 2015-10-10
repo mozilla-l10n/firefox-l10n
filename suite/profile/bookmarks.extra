@@ -9,9 +9,9 @@
 
     <DT><H3>Buscar en la web</H3>
     <DL><p>
+        <DT><A HREF="https://duckduckgo.com/">DuckDuckGo</A>
         <DT><A HREF="http://www.google.com/">Google</A>
         <DT><A HREF="http://groups.google.es/">Grupos Google</A>
-        <DT><A HREF="http://news.google.es/">Noticias por Google</A>
     </DL><p>
 
 #unfilter emptyLines
