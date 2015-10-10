@@ -24,7 +24,10 @@
 <!ENTITY  addonExceptions.accesskey     "E">
 
 
+<!ENTITY  passwords.label               "Pleds-clav">
 
+<!ENTITY  rememberPasswords.label       "Memorisar ils pleds-clav">
+<!ENTITY  rememberPasswords.accesskey   "M">
 <!ENTITY  passwordExceptions.label      "Excepziuns…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
@@ -33,3 +36,5 @@
 <!ENTITY  changeMasterPassword.label     "Midar il pled-clav universal…">
 <!ENTITY  changeMasterPassword.accesskey "d">
 
+<!ENTITY  savedPasswords.label            "Pleds-clav memorisads…">
+<!ENTITY  savedPasswords.accesskey        "P">

@@ -4,8 +4,15 @@
 
 <!ENTITY tracking.label                 "Fastizar">
 
+<!ENTITY dntTrackingNotOkay4.label     "Pretender da las paginas ch'ellas na fastizian betg">
+<!ENTITY dntTrackingNotOkay4.accesskey "n">
 <!ENTITY doNotTrackInfo.label          "Dapli infurmaziuns">
+<!ENTITY trackingProtection5.label     "Utilisar la protecziun cunter il fastizar">
+<!ENTITY trackingProtection5.accesskey "i">
 <!ENTITY trackingProtectionLearnMore.label "Dapli infurmaziuns">
+<!ENTITY trackingProtectionPBM5.label         "Utilisar la protecziun cunter il fastizar en il modus privat">
+<!ENTITY trackingProtectionPBM5.accesskey     "v">
+<!ENTITY trackingProtectionPBMLearnMore.label "Ulteriuras infurmaziuns">
 
 <!ENTITY  history.label                 "Cronologia">
 
@@ -18,7 +25,11 @@
 <!ENTITY  locbar.bookmarks.accesskey    "g">
 <!ENTITY  locbar.openpage.label         "Tabs averts">
 <!ENTITY  locbar.openpage.accesskey     "b">
+<!ENTITY  locbar.searches.label         "Sumegliantas tschertgas da la maschina da tschertgar da standard">
+<!ENTITY  locbar.searches.accesskey     "d">
 
+<!ENTITY  suggestionSettings.label      "Midar las perferenzas per propostas da maschinas da tschertgar…">
+<!ENTITY  suggestionSettings.accesskey  "g">
 
 <!ENTITY  acceptCookies.label           "Acceptar ils cookies">
 <!ENTITY  acceptCookies.accesskey       "c">
