@@ -692,6 +692,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionVerified "&brandShortName; bu sayta təhlükəsiz şəkildə qoşulduğunuzu təsdiq etdi. Saytı işlədən:">
 <!ENTITY identity.connectionInternal "Bu səhifə təhlükəsiz bir &brandShortName; səhifəsidir.">
 <!-- Strings for connection state warnings. -->
+
+<!ENTITY identity.activeBlocked "&brandShortName; bu səhifənin təhlükəsiz olmayan hissələrini blokladı.">
 <!ENTITY identity.passiveLoaded "Bu səhifənin bəzi hissələri (şəkillər kimi) təhlükəsiz deyil.">
 <!ENTITY identity.activeLoaded "Bu səhifədə qorumanı söndürmüsünüz.">
 <!ENTITY identity.weakEncryption "Bu səhifə zəif şifrələmə istifadə edir.">
@@ -703,8 +705,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.activeBlocked "&brandShortName; bu səhifənin təhlükəsiz olmayan hissələrini blokladı.">
 <!ENTITY identity.description.passiveLoaded "Bağlantınız məxfi deyil və sayt ilə paylaşdığınız məlumatlar başqaları tərəfindən görülə bilər.">
 <!ENTITY identity.description.passiveLoaded2 "Saytda güvənilir olmayan məzmun var (şəkillər kimi).">
-
-
+<!ENTITY identity.description.passiveLoaded3 "&brandShortName; bəzi məzmunları bloklasa da bu səhifədə hələ də təhlükəsiz olmayan məzmunlar (şəkillər kimi) var.">
+<!ENTITY identity.description.activeLoaded "Bu saytda təhlükəsiz olmayan məzmunlar (kriptlər kimi) var və saytla bağlantınız məxfi deyil.">
 
 
 <!ENTITY identity.enableMixedContentBlocking.label "Qorumanı aktivləşdir">
