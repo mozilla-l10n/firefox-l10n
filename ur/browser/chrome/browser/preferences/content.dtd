@@ -27,7 +27,8 @@
 <!ENTITY chooseButton.label           "انتخاب کریں…">
 <!ENTITY chooseButton.accesskey       "ا">
 
-
+<!ENTITY translateWebPages.label      "ترجمہ کریں ویب کے مواد کا">
+<!ENTITY translateWebPages.accesskey  "ت">
 <!ENTITY translateExceptions.label    "استثنیات ...">
 <!ENTITY translateExceptions.accesskey "ا">
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
@@ -37,8 +38,12 @@
   -  The translations for these strings should match the translations in
   -  browser/translation.dtd
   -->
+
+<!ENTITY translation.options.attribution.beforeLogo "کی طرف سے ترجمے">
 <!ENTITY translation.options.attribution.afterLogo "">
 
+<!ENTITY  drmContent.label             "ڈی آر ئیم مواد">
 
-
+<!ENTITY  playDRMContent.label         "چلائیں DRM مواد">
+<!ENTITY  playDRMContent.accesskey     "چ">
 <!ENTITY  playDRMContent.learnMore.label "مزید سیکھیں">

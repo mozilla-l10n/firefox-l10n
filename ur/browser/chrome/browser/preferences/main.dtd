@@ -32,11 +32,11 @@
 <!ENTITY alwaysAsk.accesskey "ہ">
 
 
-
-
+<!ENTITY setAsMyDefaultBrowser2.label     "طے شدہ بنائیں">
+<!ENTITY setAsMyDefaultBrowser2.accesskey "ش">
 <!ENTITY isDefault.label                  "&brandShortName; اس وقت آپ کا طےشدہ براؤزر ہے">
 
 
-
+<!ENTITY useFirefoxSync.label             "ٹپ: یہ علیحدہ پروفائلز استعمال کرتا ہے۔ ان کے درمیان ڈیٹا کا اشتراک کرنے کی مطابقت پذیری کا استعمال کریں۔">
 
 

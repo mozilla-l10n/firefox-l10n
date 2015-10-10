@@ -71,7 +71,7 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "آپ سائن ان نہیں ہیں۔">
 <!ENTITY signIn.label                "سائن ان کریں">
-
+<!ENTITY profilePicture.tooltip      "پروفائل کی تصویر تبدیل کریں">
 
 <!ENTITY disconnect.label            "منقطع کریں…">
 <!ENTITY verify.label                "ای میل توثیق کریں">
@@ -90,5 +90,5 @@ both, to better adapt this sentence to their language.
 
 
 <!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
-
+<!ENTITY mobilePromo.end              "آپ کے موبائل ڈیوائس کے ساتھ مطابقت پذیر۔">
 
