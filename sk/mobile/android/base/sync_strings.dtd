@@ -222,6 +222,7 @@
 <!ENTITY fxaccount_status_linktos 'Podmienky používania služby'>
 <!ENTITY fxaccount_status_linkprivacy 'Zásady ochrany súkromia'>
 <!ENTITY fxaccount_status_more 'Ďalšie&ellipsis;'>
+<!ENTITY fxaccount_remove_account 'Odpojiť...'>
 
 <!ENTITY fxaccount_remove_account_dialog_title 'Odstrániť účet Firefox Account?'>
 <!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; sa už nebude synchronizovať s vašim účtom, ale neodstráni žiadne údaje o prehliadaní uložené v tomto zariadení.'>
