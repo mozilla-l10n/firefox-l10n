@@ -36,3 +36,4 @@
 <!ENTITY aboutTelemetry.fetchSymbols "Recupera i nomi delle funzioni per stack del blocco">
 <!ENTITY aboutTelemetry.hideSymbols "Visualizza dati non elaborati dai blocchi">
 <!ENTITY aboutTelemetry.filterText "Filtra (stringhe o espressione regolare)">
+<!ENTITY aboutTelemetry.payloadChoiceHeader "Payload">
