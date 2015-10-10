@@ -9,9 +9,11 @@
 <!ENTITY provideSearchSuggestions.label        "Qidiruv tavsiyalarini keltirish">
 <!ENTITY provideSearchSuggestions.accesskey    "Q">
 
+<!ENTITY showURLBarSuggestions.label           "Qidiruv tavsiyalarni manzil panelidagi natijalarda ko‘rsatish">
+<!ENTITY showURLBarSuggestions.accesskey       "m">
 
-
-
+<!ENTITY redirectWindowsSearch.label "Ushbu qidiruv tizimidan Windows tizimida foydalanish">
+<!ENTITY redirectWindowsSearch.accesskey "W">
 
 <!ENTITY oneClickSearchEngines.label           "Bir bosishda izlash qidiruv tizimlari">
 
