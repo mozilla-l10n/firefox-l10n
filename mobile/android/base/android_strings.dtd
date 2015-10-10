@@ -3,10 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  no_space_to_start_error "&brandShortName; ஐத் தொடங்க போதிய இடம் இல்லை.">
-<!ENTITY  error_loading_file "&brandShortName; ஐ இயக்க தேவையான கோப்புகளை ஏற்றும் பொழுது ஒரு பிழை ஏற்பட்டுள்ளது">
+<!ENTITY  no_space_to_start_error "&brandShortName; என்பதைத் தொடங்க போதிய இடம் இல்லை.">
+<!ENTITY  error_loading_file "&brandShortName; இயக்க தேவையான கோப்புகளை ஏற்றும் பொழுது ஒரு பிழை ஏற்பட்டுள்ளது">
 
-<!ENTITY firstrun_panel_title_welcome "வருக">
+<!ENTITY firstrun_panel_title_welcome "நல்வரவு">
 <!ENTITY  onboard_start_message3 "&brandShortName; மூலம் உலாவுங்கள்">
 <!ENTITY  onboard_start_subtext3 "உங்கள் கைப்பேசி வலைத்தள உலாவல் அனுபவத்தை உங்களுடையதாக்குங்கள்.">
 <!ENTITY  onboard_start_button_account "&brandShortName; உள்நுழை">
