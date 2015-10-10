@@ -707,7 +707,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded2 "Saytda güvənilir olmayan məzmun var (şəkillər kimi).">
 <!ENTITY identity.description.passiveLoaded3 "&brandShortName; bəzi məzmunları bloklasa da bu səhifədə hələ də təhlükəsiz olmayan məzmunlar (şəkillər kimi) var.">
 <!ENTITY identity.description.activeLoaded "Bu saytda təhlükəsiz olmayan məzmunlar (kriptlər kimi) var və saytla bağlantınız məxfi deyil.">
-
+<!ENTITY identity.description.activeLoaded2 "Bu saytla paylaşdığınız məlumatlar (məs. şifrələr, mesajlar, plastik kartları kimi) başqaları tərəfindən görülə bilər.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Qorumanı aktivləşdir">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "k">
@@ -794,8 +794,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Ekranınızda görünən bütün pəncərələr paylaşılacaq.">
 
 <!ENTITY trackingProtection.title "İzlənmə Qoruması">
-
-
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; səhifənin səyahətinizi izləmə ehtimalı olan hissələrini bloklayır.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "Bu saytda səyahətinizi izləmə ehtimalı olan məzmunlar var. Qorumanı söndürmüsünüz.">
 <!ENTITY trackingProtection.notDetected3 "Bu səhifədə heç bir izlənmə elementi tapılmadı.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
