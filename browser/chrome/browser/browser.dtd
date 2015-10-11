@@ -237,13 +237,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY browserConsoleCmd.label      "Consola do navegador">
 <!ENTITY browserConsoleCmd.commandkey "j">
-<!ENTITY browserConsoleCmd.accesskey  "v">
+<!ENTITY browserConsoleCmd.accesskey  "g">
 
 <!ENTITY inspectContextMenu.label     "Inspecionar elemento">
-<!ENTITY inspectContextMenu.accesskey "n">
+<!ENTITY inspectContextMenu.accesskey "t">
 
-<!ENTITY responsiveDesignTool.label   "Vista de desenho imediata">
-<!ENTITY responsiveDesignTool.accesskey "i">
+<!ENTITY responsiveDesignTool.label   "Vista de design responsivo">
+<!ENTITY responsiveDesignTool.accesskey "V">
 <!ENTITY responsiveDesignTool.commandkey "M">
 
 <!ENTITY eyedropper.label   "Eyedropper">
@@ -278,7 +278,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Fechar ferramentas de desenvolvimento">
 <!ENTITY devToolbarMenu.label              "Barra de ferramentas do programador">
-<!ENTITY devToolbarMenu.accesskey          "g">
+<!ENTITY devToolbarMenu.accesskey          "f">
 <!ENTITY devAppMgrMenu.label               "Gestor de aplicações">
 <!ENTITY devAppMgrMenu.accesskey           "a">
 <!ENTITY webide.label                      "WebIDE">
@@ -630,12 +630,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sidebarCloseButton.tooltip     "Fechar barra lateral">
 
 <!ENTITY quitApplicationCmdWin2.label       "Sair">
-<!ENTITY quitApplicationCmdWin2.accesskey   "S">
+<!ENTITY quitApplicationCmdWin2.accesskey   "r">
 <!ENTITY quitApplicationCmdWin2.tooltip     "Sair do &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Sair"> 
-<!ENTITY quitApplicationCmd.accesskey   "S">
+<!ENTITY quitApplicationCmd.accesskey   "r">
 <!ENTITY quitApplicationCmdMac2.label   "Sair do &brandShorterName;">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "Q">
