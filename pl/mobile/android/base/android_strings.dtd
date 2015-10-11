@@ -527,6 +527,7 @@
 <!ENTITY find_matchcase "Aa">
 
 <!ENTITY intent_uri_cannot_open "Nie można otworzyć odnośnika">
+<!ENTITY intent_uri_private_browsing_prompt "Ten odnośnik zostanie otwarty w aplikacji &formatS;. Na pewno wyjść z trybu prywatnego?">
 
 <!ENTITY devtools_auth_scan_header "Skanowanie kodu QR wyświetlonego na drugim urządzeniu">
 
