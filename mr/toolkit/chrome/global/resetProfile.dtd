@@ -1,11 +1,12 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+<!ENTITY refreshProfile.dialog.description1  "समस्या सोडवण्यासाठी आणि कार्यप्रदर्शन पुनर्संचयित करण्यासाठी आपण पुन्हा प्रारंभ करा.">
+
+<!ENTITY refreshProfile.dialog.items.label1  "तुमचे ऍड-ऑन आणि तुम्ही केलेले बदल काढून टाका">
 
 
 
 
 
-
-
-
+<!ENTITY refreshProfile.cleaning.description "जवळपास झाले आहे...">

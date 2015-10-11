@@ -27,7 +27,8 @@
 
 <!ENTITY searchTextBox.clear.label "नष्ट करा">
 
-
+<!ENTITY fillLoginMenu.label          "लॉग-इन माहिती भरा">
+<!ENTITY fillLoginMenu.accesskey      "F">
 
 
 
