@@ -28,10 +28,10 @@
 <!ENTITY searchTextBox.clear.label "Təmizlə">
 
 <!ENTITY fillLoginMenu.label          "Məlumatları doldur">
-<!ENTITY fillLoginMenu.accesskey      "M">
-
-
-
-
-
-
+<!ENTITY fillLoginMenu.accesskey      "d">
+<!ENTITY fillPasswordMenu.label       "Parolu doldur">
+<!ENTITY fillPasswordMenu.accesskey   "d">
+<!ENTITY fillUsernameMenu.label       "İstifadəçi Adını doldur">
+<!ENTITY fillUsernameMenu.accesskey   "d">
+<!ENTITY noLoginSuggestions.label     "(Daxil olma təklifi yoxdur)">
+<!ENTITY viewSavedLogins.label        "Saxlanılmış Daxil olmaları göstər">
