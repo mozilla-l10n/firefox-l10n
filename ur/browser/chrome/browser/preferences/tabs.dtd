@@ -8,7 +8,8 @@
 <!ENTITY warnCloseMultipleTabs.label  "زیادہ ٹیب ایک ساتھ بند کرنے پر مجھ سے سوال کیجیے">
 <!ENTITY warnCloseMultipleTabs.accesskey  "م">
 
-
+<!ENTITY warnOpenManyTabs.label       "زیادہ ٹیب کھولنے پر اگر &brandShortName; آہستہ ہوتا ہو تو آگاہ کیجیے">
+<!ENTITY warnOpenManyTabs.accesskey   "ک">
 
 <!ENTITY restoreTabsOnDemand.label        "منتخب ہونے تک ٹیب نہ لوڈ کریں">
 <!ENTITY restoreTabsOnDemand.accesskey    "ت">

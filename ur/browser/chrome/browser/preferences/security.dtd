@@ -26,7 +26,8 @@
 
 <!ENTITY  logins.label                  "لاگ ان">
 
-
+<!ENTITY  rememberLogins.label          "سائٹ کے لاگ ان یاد رکھیں">
+<!ENTITY  rememberLogins.accesskey      "ی">
 <!ENTITY  passwordExceptions.label      "استثنیات…">
 <!ENTITY  passwordExceptions.accesskey  "ا">
 

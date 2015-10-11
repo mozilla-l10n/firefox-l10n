@@ -34,8 +34,8 @@
 <!ENTITY healthReportLearnMore.label     "اور سیکھیں">
 
 <!ENTITY telemetryDesc.label             "&brandShortName; کو بہتر بنانے میں مدد دینے کے لیے آپ کے براؤزر کے سرانجام دہی، استعمال، ہارڈ ویئر اور تخصیص کاری کوائف &vendorShortName; کو بھیجتا ہے">
-
-
+<!ENTITY enableTelemetryData.label       "اضافی کوائف شیئر کریں (یعنی Telemetry)">
+<!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "اور سیکھیں">
 
 <!ENTITY crashReporterDesc.label         "&brandShortName; &vendorShortName; کو آپ کے براوزر کو قابل بھروسا اور محفوظ بنانے میں مدد دینے کے لیے کریش رپورٹیں بھیجتا ہے">
@@ -106,7 +106,7 @@
 <!ENTITY offlineAppRemove.confirm        "آف لائن کوائف ہٹائیں">
 
 <!ENTITY certificateTab.label            "تصدیق نامے">
-
+<!ENTITY certSelection.label             "درخواست">
 <!ENTITY certSelection.description       "جب پیش کار میرے ذاتی تصدیق نامہ کی درخواست کرے:">
 <!ENTITY certs.auto                      "خودبخود ایک منتخب کریں">
 <!ENTITY certs.auto.accesskey            "S">

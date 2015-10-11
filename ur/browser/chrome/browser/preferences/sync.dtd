@@ -79,13 +79,14 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY welcome.description "اپنے ٹیب، نشانیاں، پاس ورڈ اور مزید کی رسائی کریں جہاں پر بھی آپ &brandShortName; استعمال کری۔">
 
-
+<!ENTITY welcome.createAccount.label "اکاؤنٹ بنائیں">
 
 <!ENTITY welcome.useOldSync.label "Sync کا کوئی پرانا ورژن استعمال کر رہے ہیں؟">
 
+<!ENTITY signedOut.caption            "اپنا ویب اپنے ساتھ لے چلیں">
 <!ENTITY signedOut.description        "اپنے تمام ڈیوائس اپنے بک مارکس، تاریخ، ٹیب، پاس ورڈ، ایڈ اون، اور ترجیحات کو ہم وقت ساز کریں۔">
 <!ENTITY signedOut.accountBox.title   "کسی &syncBrand.fxAccount.label; کے ساتھ جڑیں">
-
+<!ENTITY signedOut.accountBox.create  "اکاؤنٹ بنائیں">
 
 
 <!ENTITY signedIn.engines.label       "تمام آلات کی تمام ہم وقت سازی کریں">

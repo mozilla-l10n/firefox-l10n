@@ -22,8 +22,8 @@
 
 <!ENTITY  locbar.history.label          "سابقات">
 <!ENTITY  locbar.history.accesskey      "س">
-
-
+<!ENTITY  locbar.bookmarks.label        "نشانیاں">
+<!ENTITY  locbar.bookmarks.accesskey    "ن">
 
 
 <!ENTITY  locbar.searches.label         "تحقیق و تکمیل کاری تلاش کرتا ہے طےشدہانجن  سے">
