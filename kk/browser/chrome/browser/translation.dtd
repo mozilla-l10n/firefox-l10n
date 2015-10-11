@@ -46,7 +46,7 @@
 
 <!ENTITY translation.serviceUnavailable.label   "Аударма қазір қолжетерсіз. Кейінірек қайталап көріңіз.">
 
-<!ENTITY translation.options.menu               "Опциялар">
+<!ENTITY translation.options.menu               "Баптаулар">
 <!-- LOCALIZATION NOTE (translation.options.neverForSite.accesskey,
   -                     translation.options.preferences.accesskey):
   -  The accesskey values used here should not clash with the value used for

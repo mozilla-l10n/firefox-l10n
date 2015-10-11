@@ -24,7 +24,7 @@
 <!ENTITY saveButton.tooltip         "Бұл стильдер тізмін файлға сақтау">
 <!ENTITY saveButton.accesskey       "С">
 
-<!ENTITY optionsButton.tooltip      "Стильдер түзетуші опциялары">
+<!ENTITY optionsButton.tooltip      "Стильдер түзетуші баптаулары">
 <!-- LOCALIZATION NOTE  (showOriginalSources.label): This is the label on the context
      menu item to toggle showing original sources in the editor. -->
 
