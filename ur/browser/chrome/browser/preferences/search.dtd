@@ -23,10 +23,10 @@
 <!ENTITY engineNameColumn.label                "تلاش انجن ">
 <!ENTITY engineKeywordColumn.label             "کلیدی لفظ">
 
-<!ENTITY restoreDefaultSearchEngines.label     "Default تلاش انجن بحال کریں">
-<!ENTITY restoreDefaultSearchEngines.accesskey "D">
+<!ENTITY restoreDefaultSearchEngines.label     "طےشدہ تلاش انجن بحال کریں">
+<!ENTITY restoreDefaultSearchEngines.accesskey "ط">
 
 <!ENTITY removeEngine.label                    "ہٹائیں">
 <!ENTITY removeEngine.accesskey                "ہ">
 
-<!ENTITY addMoreSearchEngines.label            "مزید &amp;تلاش انجن کا اضافہ کریں...">
+<!ENTITY addMoreSearchEngines.label            "مزید تلاش انجن کا اضافہ کریں...">
