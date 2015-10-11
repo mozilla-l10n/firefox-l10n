@@ -9,20 +9,20 @@ a replacement for the standard security certificate errors produced
 by NSS/PSM via netError.xhtml. -->
 
 
-<!ENTITY certerror.pagetitle  "غیر بھروسہ مند رابطہ">
-<!ENTITY certerror.longpagetitle "یہ رابطہ غیر تصدیق شدہ ہے">
+<!ENTITY certerror.pagetitle  "نا قابل اعتماد کنکشن">
+<!ENTITY certerror.longpagetitle "یہ کنکشن غیر نا قابل اعتماد ہے">
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-<!ENTITY certerror.introPara1 "آپ نے &brandShortName; کو حفاظت سے 
-کے ساتھ جڑنے کو کہا ہے<b>#1</b>، لیکن ہمیں یقین نہیں ہے کہ آپ کا کنکشن محفوظ ہے۔">
+<!ENTITY certerror.introPara1 "آپ نے &brandShortName; کو حفاظت کے ساتھ جڑنے 
+کو کہا ہے<b>#1</b>، لیکن ہمیں یقین نہیں ہے کہ آپ کا کنکشن محفوظ ہے۔">
 <!ENTITY certerror.introPara2 "عام طور ہر، جب آپ حفاظت سے جڑنے کی کوشش کرتے ہیں، 
 سائٹس بھروسہ مند شناخت پیش کریے گی یقین دلحانی کے لیے کہ آپ 
 سہی جگہ جا رہے ہیں۔ تاہم، اس سائٹ کی شناخت توثیق نہں ہو سکتی۔">
 
 <!ENTITY certerror.whatShouldIDo.heading "مجھے کیا کرنا چاہیے؟">
-<!ENTITY certerror.whatShouldIDo.content "اگر آپ اکثر اس ویب سائٹ کو استعمال کرتے ہیں تو
+<!ENTITY certerror.whatShouldIDo.content "اگر آپ اکثر اس ویب سائٹ کے ساتھ جڑتیں ہیں تو
 اس خرابی کا مطلب ہے کوئی آپ کا بہروپ
 دھارنا چاہ رہا ہے، اور آپ مزید آگے نہ جائیں    ">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "یہ سائٹ HTTP 
