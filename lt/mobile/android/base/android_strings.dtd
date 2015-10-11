@@ -568,7 +568,7 @@ size. -->
 <!ENTITY filepicker_video_title "Parinkite arba įrašykite vaizdo įrašą">
 <!-- Site identity popup -->
 
-<!ENTITY identity_connected_to "Jūs prisijungėte prie svetainės">
+<!ENTITY identity_connected_to "Esate prisijungę prie">
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -732,3 +732,4 @@ iš „Android“">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!ENTITY bookmarks_restricted_support2 "„Firefox“ žinynas ir pagalba apribotiems „Android“ planšečių profiliams">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!ENTITY bookmarks_restricted_webmaker "Sužinok, kaip veikia saitynas: „Mozilla Webmaker“">
