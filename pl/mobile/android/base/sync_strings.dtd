@@ -103,12 +103,12 @@
 <!ENTITY fxaccount_policy_linktos "Warunki użytkowania">
 <!ENTITY fxaccount_policy_linkprivacy "Polityka prywatności">
 <!ENTITY fxaccount_status_more "Więcej&ellipsis;">
+<!ENTITY fxaccount_remove_account "Rozłącz…">
 
 <!ENTITY fxaccount_remove_account_dialog_title "Usunąć konto Firefoksa?">
 <!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; przestanie synchronizować dane przeglądarki z twoim kontem, ale nie usunie ich z tego urządzenia.">
 <!ENTITY fxaccount_remove_account_toast "Usunięto konto Firefoksa użytkownika &formatS;.">
 
-<!ENTITY fxaccount_remove_account_menu_item "Usuń konto">
 <!ENTITY fxaccount_enable_debug_mode "Włącz debugowanie">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Witaj w usłudze &syncBrand.shortName.label;">
