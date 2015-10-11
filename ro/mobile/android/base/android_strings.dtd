@@ -405,7 +405,7 @@ size. -->
 <!ENTITY contextmenu_paste "Lipește">
 <!ENTITY contextmenu_copyurl "Copiază adresa">
 <!ENTITY contextmenu_edit_bookmark "Editează">
-<!ENTITY contextmenu_subscribe "Abonare la pagină">
+<!ENTITY contextmenu_subscribe "Abonează-te la pagină">
 <!ENTITY contextmenu_site_settings "Editează setările site-ului">
 <!ENTITY contextmenu_top_sites_edit "Editează">
 <!ENTITY contextmenu_top_sites_pin "Fixează site-ul">
