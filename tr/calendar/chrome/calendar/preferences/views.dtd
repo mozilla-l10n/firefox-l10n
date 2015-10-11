@@ -14,8 +14,8 @@
 
 <!ENTITY pref.weekstarts.label "Hafta başlangıcı:">
 <!ENTITY pref.weekstarts.accesskey "f">
-
-
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Görünümlerde ve mini ayda hafta numarasını göster">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "G">
 <!ENTITY pref.daysoff.label "Bu günleri de çalışma günlerine et:">
 
 <!ENTITY pref.calendar.view.daystart.label "Gün başlangıcı:">

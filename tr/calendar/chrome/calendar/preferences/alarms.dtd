@@ -14,8 +14,8 @@
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "d">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Gözat…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "G">
-
-
+<!ENTITY pref.calendar.alarms.sound.play.label "Çal">
+<!ENTITY pref.calendar.alarms.sound.play.accessKey "a">
 <!ENTITY pref.showalarmbox "Hatırlatma penceresini göster">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "m">
 <!ENTITY pref.missedalarms "Kaçırılan hatırlatmaları göster">
