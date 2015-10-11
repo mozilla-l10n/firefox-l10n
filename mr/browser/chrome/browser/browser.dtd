@@ -132,7 +132,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fullscreenWarning.beforeDomain.label "">
 <!ENTITY fullscreenWarning.afterDomain.label "आता पूर्ण स्क्रीन आहे">
-<!ENTITY fullscreenWarning.generic.label "हे कागदपत्र आता पूर्ण स्क्रीन केले आहे">
+<!ENTITY fullscreenWarning.generic.label "हे कागदपत्र आता पूर्ण स्क्रीन झाले आहे">
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
@@ -824,7 +824,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-
+<!ENTITY trackingProtection.unblockPrivate.label "ह्या पानावर सुरक्षा बंद करा">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "ब">
 <!ENTITY trackingProtection.block2.label "सुरक्षा सक्रीय करा">
 <!ENTITY trackingProtection.block2.accesskey "स">
 
