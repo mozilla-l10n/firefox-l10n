@@ -226,6 +226,10 @@
 <!ENTITY pref_donottrack_title "No rastrear">
 <!ENTITY pref_donottrack_summary "&brandShortName; le dirá a los sitios que no querés ser rastreado">
 
+<!ENTITY pref_tracking_protection_enabled "Habilitada">
+<!ENTITY pref_tracking_protection_enabled_pb "Habilitada en navegación privada">
+<!ENTITY pref_tracking_protection_disabled "Deshabilitada">
+
 <!ENTITY tracking_protection_prompt_title "Ahora con protección de rastreo">
 <!ENTITY tracking_protection_prompt_text "Bloquear activamente elementos de rastreo para que no tengás que preocuparte.">
 <!ENTITY tracking_protection_prompt_tip_text "Visitá opciones de privacidad para conocer más">
@@ -708,6 +712,19 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY find_matchcase "Aa">
 
 <!ENTITY intent_uri_cannot_open "No se puede abrir enlace">
+<!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
+     appear in an alert when a user, who is currently in private browsing,
+     clicks a link that will open an external Android application. "&formatS;"
+     will be replaced with the name of the application that will be opened. -->
+<!ENTITY intent_uri_private_browsing_prompt "Este enlace se abrirá en &formatS;. ¿Estás seguro de querer salir de la navegación privada?">
+<!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
+     string will appear as the title of an alert when a user, who is currently
+     in private browsing, clicks a link that will open an external Android
+     application and more than one application is available to open that link.
+     We don't have control over the style of this dialog and it looks
+     unpolished when this string is longer than one line so ideally keep it
+     short! -->
+<!ENTITY intent_uri_private_browsing_multiple_match_title "¿Salir de la navegación privada?">
 
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
