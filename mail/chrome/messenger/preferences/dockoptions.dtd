@@ -13,4 +13,4 @@
 <!ENTITY showAllUnreadMessagesCount.accesskey  "O">
 <!ENTITY dockIconBadge.label                   "Uygulama simgesi rozeti">
 <!ENTITY dockIconShow.label                    "Uygulama simgesine rozet ekle:">
-
+<!ENTITY directNotificationSettings.label      "Rozeti, Sistem Tercihleri'nde bulunan Bildirim panelinden kapatabilirsiniz.">

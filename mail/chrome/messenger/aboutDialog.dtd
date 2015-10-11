@@ -39,7 +39,7 @@
 <!ENTITY helpus.start               "Yardım etmek ister misiniz?">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
 <!ENTITY helpus.donateLink          "Bağış yapın">
-<!ENTITY helpus.middle              "veya">
+<!ENTITY helpus.middle              " veya ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY helpus.getInvolvedLink     "siz de katkıda bulunun!">
 <!ENTITY helpus.end                 "">
