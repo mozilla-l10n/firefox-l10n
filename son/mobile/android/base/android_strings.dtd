@@ -6,9 +6,9 @@
 <!ENTITY  no_space_to_start_error "Doo barantaa ši wasa &brandShortName; tunandiroo še.">
 <!ENTITY  error_loading_file "Firka foo bangay waati kaŋ a ceeci ka tukey zumandi kaŋ ka waažibi &brandShortName; dirandiroo še">
 
-<!ENTITY firstrun_panel_title_welcome "Kubayni">
+<!ENTITY firstrun_panel_title_welcome "Ma kaa baani ga">
 <!ENTITY  onboard_start_message3 "Ceeci nda &brandShortName;">
-<!ENTITY  onboard_start_subtext3 "Wa taka tee kaŋ ra war teegoyoo bayraa interneti boŋ kanbehayey ga ma ti war boŋ wanno. ">
+<!ENTITY  onboard_start_subtext3 "Wa taka tee kaŋ ra war teegoyoo bayraa interneti boŋ kanbehayey ga ma ti war boŋ wanoo. ">
 <!ENTITY  onboard_start_button_account "Huru &brandShortName; ra">
 <!ENTITY  onboard_start_button_browser "Ceecikaw tunandi">
 <!ENTITY firstrun_button_next "Bisa">
