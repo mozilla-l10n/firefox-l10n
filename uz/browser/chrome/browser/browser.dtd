@@ -700,8 +700,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-
+<!ENTITY identity.connectionVerified1 "Quyidagi yordamida ishlaydigan ushbu saytga xavfli ulandingiz:">
+<!ENTITY identity.connectionInternal "Bu xavfsiz &brandShortName; sahifasi.">
 
 <!-- Strings for connection state warnings. -->
 
@@ -714,8 +714,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-
+<!ENTITY identity.description.passiveLoaded3 "&brandShortName; ba’zi tarkibni blokladi, ammo sahifada hali ham xavfli tarkiblar (masalan, rasmlar) bor.">
+<!ENTITY identity.description.activeLoaded "Ushbu saytda xavfli tarkib mavjud (masalan, skriptlar), shuning uchun ulanish maxfiy emas.">
 
 
 
@@ -889,4 +889,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
+<!ENTITY pocketMenuitem.label      "Pochket ro‘yxatini ko‘rish">
