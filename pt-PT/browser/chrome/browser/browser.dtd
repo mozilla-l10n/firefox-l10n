@@ -759,7 +759,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.directory.label "Diretório de ativações">
 <!ENTITY social.directory.text "Pode ativar os serviços de partilha a partir do diretório.">
 <!ENTITY social.directory.button "Levem-me lá!">
-<!ENTITY social.directory.introText "Clique no serviço para o adicionar ao &brandShortName;.">
+<!ENTITY social.directory.introText "Clique num serviço para o adicionar ao &brandShortName;.">
 <!ENTITY social.directory.viewmore.text "Ver mais">
 
 <!ENTITY customizeMode.tabTitle "Personalizar o &brandShortName;">
