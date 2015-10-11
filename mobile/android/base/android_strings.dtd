@@ -436,7 +436,7 @@ size. -->
      whether or not the magnifying glass is disabled. -->
 
 <!ENTITY pref_magnifying_glass_enabled "Balaca əraziləri yaxınlaşdır">
-
+<!ENTITY pref_magnifying_glass_enabled_summary "Yaxınına toxunduğum linkləri və form sahələrini böyüt">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -584,7 +584,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_insecure "Təhlükəli bağlantı">
 <!-- Mixed content notifications in site identity popup -->
 
-
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; bu səhifədəki təhlükəli elementi blokladı.">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; bu səhifədəki təhlükəli məzmunun bir hissəsini blokladı.">
+<!ENTITY mixed_content_display_loaded1 "Bu səhifənin bəzi hissələri (şəkillər kimi) təhlükəsiz deyil.">
 
 <!-- Tracking content notifications in site identity popup -->
 
@@ -728,5 +730,6 @@ idxal edilir">
 <!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
 <!ENTITY bookmarks_marketplace "Firefox Marketplace">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!ENTITY bookmarks_restricted_support2 "Android tabletlərdəki məhdudiyyətli profillər üçün Firefox Kömək və Dəstəyi">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
 <!ENTITY bookmarks_restricted_webmaker "Web-i Öyrənin: Mozilla Webmaker">

@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAccounts.connected.title "Firefox Hesabları">
-
-
+<!ENTITY aboutAccounts.connected.description "Qoşulu hesabınız:">
+<!ENTITY aboutAccounts.syncPreferences.label "Sync tənzimləmələrini yoxlamaq üçün buraya toxunun">
 
 <!ENTITY aboutAccounts.noConnection.title "İnternet bağlantısı yoxdur">
 <!ENTITY aboutAccounts.retry.label "Təkrar yoxla">
