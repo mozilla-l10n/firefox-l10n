@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY offlineDialog.title "Çevrim Dışı Ayarları">
+<!ENTITY offlineDialog.title "Çevrimdışı Ayarları">
 
 <!ENTITY checkAutoDetect.label "Bağlı olup olunmadığını kendiliğinden izle">
 <!ENTITY checkAutoDetect.accesskey "z">
@@ -13,8 +13,8 @@
 <!ENTITY radioAskState.accesskey "b">
 <!ENTITY radioAlwaysOnlineState.label "Çevrim İçi">
 <!ENTITY radioAlwaysOnlineState.accesskey "m">
-<!ENTITY radioAlwaysOffline.label "Çevrim Dışı">
-<!ENTITY radioAlwaysOffline.accesskey "D">
+<!ENTITY radioAlwaysOffline.label "Çevrimdışı">
+<!ENTITY radioAlwaysOffline.accesskey "d">
 
 <!ENTITY textGoingOnline "Çevrim içi olunca gönderilmemiş iletiler gönderilsin mi?">
 <!ENTITY radioAutoSend.label "Evet">
@@ -23,7 +23,7 @@
 <!ENTITY radioNotSend.accesskey "H">
 <!ENTITY radioAskUnsent.label "Bana sor">
 <!ENTITY radioAskUnsent.accesskey "s">
-<!ENTITY textGoingOffline "Çevrim dışı olurken iletiler çevrim dışı kullanım için indirilsin mi?">
+<!ENTITY textGoingOffline "Çevrimdışı olurken iletiler çevrim dışı kullanım için indirilsin mi?">
 <!ENTITY radioAutoDownload.label "Evet">
 <!ENTITY radioAutoDownload.accesskey "E">
 <!ENTITY radioNotDownload.label "Hayır">

@@ -28,7 +28,7 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.close.commandkey             "w">
 <!ENTITY cmd.close2.commandkey            "j">
 <!ENTITY cmd.close2Unix.commandkey        "y">
-<!ENTITY cmd.clearList.label              "Listeyi Temizle">
+<!ENTITY cmd.clearList.label              "Listeyi temizle">
 <!ENTITY cmd.clearList.tooltip            "Tamamlanan, vazgeçilen ve başarısız olan ögeleri listeden kaldırır">
 <!ENTITY cmd.clearList.accesskey          "e">
 <!ENTITY cmd.find.commandkey              "f">

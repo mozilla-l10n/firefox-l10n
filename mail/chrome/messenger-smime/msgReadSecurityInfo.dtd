@@ -11,4 +11,4 @@
 <!ENTITY signer.name "İmzalayan:">
 <!ENTITY recipient.name "Bunun için şifrelenmiş:">
 <!ENTITY email.address "E-posta adresi:">
-<!ENTITY issuer.name "Onay belgesini sağlayan:">
+<!ENTITY issuer.name "Sertifikayı sağlayan:">
