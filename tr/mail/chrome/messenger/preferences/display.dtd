@@ -11,14 +11,14 @@
 <!ENTITY regularStyle.label               "Normal">
 <!ENTITY bold.label                       "Kalın">
 <!ENTITY italic.label                     "Eğik">
-<!ENTITY boldItalic.label                 "Kalın ve Eğik">
+<!ENTITY boldItalic.label                 "Kalın ve eğik">
 <!ENTITY size.label                       "Boyut:">
-<!ENTITY size.accesskey                   "B">
+<!ENTITY size.accesskey                   "u">
 <!ENTITY regularSize.label                "Normal">
 <!ENTITY bigger.label                     "Daha Büyük">
 <!ENTITY smaller.label                    "Daha Küçük">
 <!ENTITY quotedTextColor.label            "Renk:">
-<!ENTITY quotedTextColor.accesskey        "R">
+<!ENTITY quotedTextColor.accesskey        "n">
 <!ENTITY displayWidth.label               "Düz Metinli İletiler">
 <!ENTITY displayText.label                "Alıntılanmış düz metin iletileri görüntülerken:">
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->

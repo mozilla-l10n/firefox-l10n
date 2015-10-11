@@ -26,11 +26,11 @@
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
 
-<!ENTITY actualSize.label "Gerçek Boyut:">
-<!ENTITY actualSizeRadio.label "Gerçek Boyut">
+<!ENTITY actualSize.label "Gerçek boyut:">
+<!ENTITY actualSizeRadio.label "Gerçek boyut">
 <!ENTITY actualSizeRadio.accessKey "e">
 <!ENTITY actualSizeRadio.tooltip "Resmin gerçek boyutlarına dön">
-<!ENTITY customSizeRadio.label "Özel Boyut">
+<!ENTITY customSizeRadio.label "Özel boyut">
 <!ENTITY customSizeRadio.accessKey "l">
 <!ENTITY customSizeRadio.tooltip "Resmin boyutunu sayfada göründüğü gibi değiştir">
 <!ENTITY heightEditField.label "Yükseklik:">

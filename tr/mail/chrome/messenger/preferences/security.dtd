@@ -38,7 +38,7 @@
 <!ENTITY masterPassword.intro           "Ana Parola bütün parolalarınızı korur, ama her oturumda Ana Parola'yı tekrar girmeniz gerekir.">
 <!ENTITY changeMasterPassword.label     "Ana Parolayı Değiştir…">
 <!ENTITY changeMasterPassword.accesskey "n">
-<!ENTITY savedPasswords.label           "Kayıtlı Parolalar…">
+<!ENTITY savedPasswords.label           "Kayıtlı parolalar…">
 <!ENTITY savedPasswords.accesskey       "K">
 <!-- Anti Virus -->
 

@@ -34,8 +34,8 @@
 <!ENTITY newIMAccountCmd.accesskey "o">
 <!ENTITY newFeedAccountCmd.label "Besleme hesabı…">
 <!ENTITY newFeedAccountCmd.accesskey "B">
-<!ENTITY newIMContactCmd.label "Sohbet Kişisi…">
-<!ENTITY newIMContactCmd.accesskey "K">
+<!ENTITY newIMContactCmd.label "Sohbet kişisi…">
+<!ENTITY newIMContactCmd.accesskey "k">
 <!ENTITY openMessageFileCmd.label "Kaydedilmiş iletiyi aç…">
 <!ENTITY openMessageFileCmd.accesskey "d">
 <!ENTITY saveAsMenu.label "Farklı kaydet">
@@ -482,8 +482,8 @@
 <!ENTITY errorConsoleCmd.label "Hata konsolu">
 <!ENTITY errorConsoleCmd.accesskey "k">
 <!ENTITY errorConsoleCmd.commandkey "j">
-<!ENTITY clearRecentHistory.label "Yakın Geçmişi Temizle…">
-<!ENTITY clearRecentHistory.accesskey "T">
+<!ENTITY clearRecentHistory.label "Yakın geçmişi temizle…">
+<!ENTITY clearRecentHistory.accesskey "t">
 <!ENTITY accountManagerCmd2.label "Hesap ayarları">
 <!ENTITY accountManagerCmd2.accesskey "H">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,

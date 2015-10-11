@@ -17,7 +17,7 @@
 <!ENTITY  preserveExisting.tooltip      "Satır sonlarını ve sayfaların özgün biçimlendirmesini korur">
 <!ENTITY  saveAssociatedFiles.label     "Sayfaları kaydederken resimleri ve diğer ilişkili dosyaları kaydet">
 <!ENTITY  saveAssociatedFiles.accesskey "S">
-<!ENTITY  showPublishDialog.label       "Sayfaları yayınlarken daima Yayımlama iletişim kutusunu göster">
+<!ENTITY  showPublishDialog.label       "Sayfaları yayımlarken daima Yayımlama iletişim kutusunu göster">
 <!ENTITY  showPublishDialog.accesskey   "a">
 <!ENTITY  composerEditing.label         "Düzenleme">
 <!ENTITY  maintainStructure.label       "Hücre eklerken veya silerken tablo düzenini koru">
