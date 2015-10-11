@@ -33,8 +33,8 @@
 <!ENTITY attachVCard.label "Atașează vCardul meu la mesaje">
 <!ENTITY attachVCard.accesskey "v">
 
-<!ENTITY manageIdentities.label "Gestiune identități…">
-<!ENTITY manageIdentities.accesskey "G">
+<!ENTITY manageIdentities.label "Gestionează identități…">
+<!ENTITY manageIdentities.accesskey "M">
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
 
 <!ENTITY smtpName.label "Server de trimitere (SMTP):">
