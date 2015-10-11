@@ -61,7 +61,7 @@
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
 <!ENTITY markAsReadDelay.label            "Baktıktan">
 <!ENTITY markAsReadDelay.accesskey        "k">
-<!ENTITY secondsLabel.label               "saniye">
+<!ENTITY secondsLabel.label               "saniye sonra">
 <!ENTITY openMsgIn.label                  "Yeni postayı:">
 <!ENTITY openMsgInNewTab.label            "Yeni sekmede aç">
 <!ENTITY openMsgInNewTab.accesskey        "s">

@@ -8,8 +8,8 @@
 <!ENTITY  language.accesskey                      "D">
 
 <!ENTITY  size.label                              "Boyut:">
-<!ENTITY  sizeProportional.accesskey              "e">
-<!ENTITY  sizeMonospace.accesskey                 "i">
+<!ENTITY  sizeProportional.accesskey              "B">
+<!ENTITY  sizeMonospace.accesskey                 "u">
 
 <!ENTITY  proportional.label                      "Orantılı:">
 <!ENTITY  proportional.accesskey                  "O">
@@ -62,19 +62,19 @@
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 <!-- fonts in message -->
 
-<!ENTITY  fontControl.label                       "Yazıtipi Denetimi">
-<!ENTITY  useFixedWidthForPlainText.label         "Düz metin iletilerde sabit genişlikli yazıtipi kullan">
+<!ENTITY  fontControl.label                       "Yazı tipi denetimi">
+<!ENTITY  useFixedWidthForPlainText.label         "Düz metin iletilerde sabit genişlikli yazı tipi kullan">
 <!ENTITY  fixedWidth.accesskey                    "l">
 <!ENTITY  useDocumentFonts.label                  "İletilerin diğer yazıtiplerini kullanmasına izin ver">
 <!ENTITY  useDocumentFonts.accesskey              "a">
 <!-- Language settings -->
 
-<!ENTITY sendDefaultCharset.label         "Giden Posta:">
-<!ENTITY sendDefaultCharset.accesskey     "d">
+<!ENTITY sendDefaultCharset.label         "Giden posta:">
+<!ENTITY sendDefaultCharset.accesskey     "n">
 <!ENTITY languagesTitle2.label            "Metin Kodlaması">
 <!ENTITY composingDescription2.label      "E-posta alma ve gönderme için varsayılan metin kodlamasını ayarla">
 
-<!ENTITY viewDefaultCharsetList.label     "Gelen Posta:">
+<!ENTITY viewDefaultCharsetList.label     "Gelen posta:">
 <!ENTITY viewDefaultCharsetList.accesskey  "G">
 <!ENTITY replyInDefaultCharset3.label     "Mümkün olduğunda yanıtlarda varsayılan metin kodlamasını kullan">
-<!ENTITY replyInDefaultCharset3.accesskey "y">
+<!ENTITY replyInDefaultCharset3.accesskey "k">

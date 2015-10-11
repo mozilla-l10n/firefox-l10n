@@ -4,7 +4,7 @@
 
 <!ENTITY window.title "Süzgeç Kuralları">
 <!ENTITY filterEditorDialog.dimensions "width: 100ch;">
-<!ENTITY filterName.label "Süzgeç ismi:">
+<!ENTITY filterName.label "Süzgeç adı:">
 <!ENTITY filterName.accesskey "S">
 
 <!ENTITY junk.label "Gereksiz">

@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY AdvancedEditButton.label "Gelişmiş Düzenleme…">
+<!ENTITY AdvancedEditButton.label "Gelişmiş düzenleme…">
 <!ENTITY AdvancedEditButton.accessKey "e">
 <!ENTITY AdvancedEditButton.tooltip "HTML öznitelikleri, biçem öznitelikleri ve JavaScript ekle veya değiştir">
 <!ENTITY chooseFileButton.label "Dosya Seç...">

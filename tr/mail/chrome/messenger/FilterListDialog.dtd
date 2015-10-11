@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "İleti Süzgeçleri">
-<!ENTITY nameColumn.label "Süzgeç ismi">
+<!ENTITY nameColumn.label "Süzgeç adı">
 <!ENTITY activeColumn.label "Etkin">
 <!ENTITY newButton.label "Yeni…">
 <!ENTITY newButton.accesskey "Y">

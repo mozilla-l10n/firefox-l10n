@@ -66,7 +66,7 @@
 
 <!ENTITY showImageLinkBorder.label "Bağlantılı resmin etrafında kenarlık göster">
 <!ENTITY showImageLinkBorder.accessKey "g">
-<!ENTITY LinkAdvancedEditButton.label "Gelişmiş Bağlantı Düzenleme…">
+<!ENTITY LinkAdvancedEditButton.label "Gelişmiş bağlantı düzenleme…">
 <!ENTITY LinkAdvancedEditButton.accessKey "G">
 <!ENTITY LinkAdvancedEditButton.tooltip "HTML öznitelikleri, biçim öznitelikleri ve JavaScript ekle veya değiştir">
 <!-- These tabs are currently used in the image input dialog -->

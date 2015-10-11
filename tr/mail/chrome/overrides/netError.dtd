@@ -26,8 +26,8 @@ gibi yanlış yazılmış olabilir.</li>
 </ul>">
 
 <!ENTITY fileNotFound.title "Dosya bulunamadı">
-<!ENTITY fileNotFound.longDesc " <ul> 
-<li>Dosya isminindeki büyük-küçük harfleri ve yazım hatalarını kontrol edin.</li> 
+<!ENTITY fileNotFound.longDesc "<ul> 
+<li>Dosya adındaki büyük-küçük harfleri ve yazım hatalarını kontrol edin.</li> 
 <li>Dosyanın taşınmadığını, adının değişmediğini veya silinmediğini kontrol edin.</li> 
 </ul>">
 

@@ -24,7 +24,7 @@
 <!ENTITY identityDesc.label "Her hesabın bir kimliği vardır. Postanızı alan kişi sizi bu kimlikteki bilgilerden tanır.">
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
 
-<!ENTITY fullnameDesc.label "Giden iletilerinizin &quot;Gönderen&quot; kısmında görünmesini istediğiniz ismi girin">
+<!ENTITY fullnameDesc.label "Giden iletilerinizin &quot;Gönderen&quot; kısmında görünmesini istediğiniz adı girin">
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
   1, do not translate two of "&quot;"
   2, Use localized full name instead of "John Smith"

@@ -36,7 +36,7 @@
 <!ENTITY successful.attach "E-postama kişisel bir imza ekle">
 <!ENTITY successful.attach.desc "Gönderdiğiniz her iletinin sonuna otomatik bir özdeyiş veya kendiniz hakkında bilgiler ekleyebilirsiniz.">
 <!ENTITY successful.close "Bu pencereyi kapat.">
-<!ENTITY input.namePlaceholder "İsminiz veya rumuzunuz">
+<!ENTITY input.namePlaceholder "Adınız veya rumuzunuz">
 <!ENTITY input.search "Arama">
 <!ENTITY search_engine.title "Arama motorunuzu özelleştirin">
 <!ENTITY search_engine.message "E-posta sağlayıcınız size Web'de arama olanağı da sunuyor olabilir.">

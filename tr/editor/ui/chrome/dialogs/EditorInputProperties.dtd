@@ -19,9 +19,9 @@
 <!ENTITY button.value "Düğme">
 
 <!ENTITY InputSettings.label "Alan Ayarları">
-<!ENTITY InputName.label "Alan İsmi:">
+<!ENTITY InputName.label "Alan adı:">
 <!ENTITY InputName.accesskey "n">
-<!ENTITY GroupName.label "Grup İsmi:">
+<!ENTITY GroupName.label "Grup adı:">
 <!ENTITY GroupName.accesskey "G">
 <!ENTITY InputValue.label "Alan Değeri:">
 <!ENTITY InputValue.accesskey "D">
