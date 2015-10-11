@@ -230,8 +230,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webapps.label                "Aplicações">
 <!ENTITY webapps.accesskey            "p">
 
-<!ENTITY webDeveloperMenu.label       "Programador">
-<!ENTITY webDeveloperMenu.accesskey   "g">
+<!ENTITY webDeveloperMenu.label       "Programador Web">
+<!ENTITY webDeveloperMenu.accesskey   "W">
 
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
@@ -285,7 +285,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY browserContentToolboxMenu.label     "Caixa de ferramentas de conteúdo do navegador">
 <!ENTITY browserContentToolboxMenu.accesskey "C">
 
-<!ENTITY devToolbarCloseButton.tooltiptext "Fechar ferramentas de desenvolvimento">
+<!ENTITY devToolbarCloseButton.tooltiptext "Fechar ferramentas do programador">
 <!ENTITY devToolbarMenu.label              "Barra de ferramentas do programador">
 <!ENTITY devToolbarMenu.accesskey          "f">
 <!ENTITY devAppMgrMenu.label               "Gestor de aplicações">
@@ -300,7 +300,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolboxMenuItem.accesskey      "T">
 <!ENTITY devToolboxMenuItem.keytext        "I">
 
-<!ENTITY devToolbarToolsButton.tooltip     "Alternar ferramentas de desenvolvimento">
+<!ENTITY devToolbarToolsButton.tooltip     "Alternar ferramentas do programador">
 <!ENTITY devToolbarOtherToolsButton.label  "Mais ferramentas">
 
 <!ENTITY getMoreDevtoolsCmd.label        "Obter mais ferramentas">
