@@ -14,6 +14,8 @@
 <!ENTITY addNewFilterButton "Қосу">
 <!-- LOCALIZATION NOTE (newPresetPlaceholder): This string is used as
    - a placeholder in the list of presets which is used to save a new preset -->
+
+<!ENTITY newPresetPlaceholder "Жиынтық атауы">
 <!-- LOCALIZATION NOTE (savePresetButton): This string is displayed on a button used to save a new preset -->
 
 <!ENTITY savePresetButton "Сақтау">
