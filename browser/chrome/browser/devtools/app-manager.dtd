@@ -66,7 +66,7 @@
 <!ENTITY connection.startRegisteredSimulator "Başlat:">
 
 <!ENTITY projects.localApps "Lokal Tətbiqlər">
-<!ENTITY projects.addApp "Ekle">
+<!ENTITY projects.addApp "Əlavə et">
 <!ENTITY projects.addPackaged "Paketlənmiş tətbiq əlavə et">
 <!ENTITY projects.addPackagedTooltip "Kompüterimdən yeni bir paketlənmiş tətbiq (qovluq) əlavə et">
 
