@@ -87,7 +87,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "Sincronizează semnele de carte, istoricul, filele, parolele, suplimentele și preferințele pe toate dispozitivele.">
 <!ENTITY signedOut.accountBox.title   "Conectează-te cu un &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Creează cont">
-<!ENTITY signedOut.accountBox.signin  "Autentificare">
+<!ENTITY signedOut.accountBox.signin  "Autentifică-te">
 
 <!ENTITY signedIn.engines.label       "Sincronizează pe toate dispozitivele">
 
