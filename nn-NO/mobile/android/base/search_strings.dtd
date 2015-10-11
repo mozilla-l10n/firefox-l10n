@@ -1,0 +1,30 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY search_app_name '&brandShortName; Søk'>
+
+<!--  Localization note (search_bar_hint): The &formatS; will be replaced with the name of
+      the currently selected search engine. -->
+<!ENTITY search_bar_hint 'Søk med &formatS;'>
+
+<!ENTITY search_empty_title2 'Start søk'>
+<!ENTITY search_empty_message 'Snøggsøk etter kva du måtte ynskje'>
+
+<!--  Localization note (search_plus_content_description): This is the content description
+      for the "+" icon that appears at the end of search suggestions. -->
+<!ENTITY search_plus_content_description 'Legg til i søkjelinja'>
+
+<!ENTITY search_pref_title 'Innstillingar'>
+<!ENTITY search_pref_button_content_description 'Innstillingar'>
+
+<!ENTITY pref_clearHistory_confirmation 'Historikk sletta'>
+<!ENTITY pref_clearHistory_dialogMessage 'Sletta all søkjehistorikk frå denne eininga?'>
+<!ENTITY pref_clearHistory_title 'Slett søkjehistorikk'>
+
+<!ENTITY pref_searchProvider_title 'Søkjemotor'>
+
+<!ENTITY search_widget_button_label 'Søk'>
+
+<!ENTITY network_error_title 'Ikkje noko Internettsamband'>
+<!ENTITY network_error_message 'Trykk her for å kontrollera nettverksinnstillingane'>
