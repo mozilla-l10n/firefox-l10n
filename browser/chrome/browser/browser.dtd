@@ -714,17 +714,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.activeBlocked "&brandShortName; ने ह्या पानावरील काही असुरक्षित भाग अडवले आहेत.">
 <!ENTITY identity.passiveLoaded "या पृष्ठावरील काही भाग (उदा. प्रतिमा) सुरक्षित नाहीत.">
 <!ENTITY identity.activeLoaded "तुम्ही ह्या पानावरील सुरक्षा बंद केली आहे.">
-
+<!ENTITY identity.weakEncryption "हे पान कमकुवत एनक्रिप्शन वापरते.">
 <!-- Strings for connection state warnings in the subview. -->
 
 <!ENTITY identity.description.insecure "ह्या साईटवरची आपली जोडणी खाजगी नाही. आपण जी माहिती जमा करता आहात (जसे कि सांकेतिक शब्द, संदेश, क्रेडीट कार्ड इत्यादी) ते इतर लोक पाहू शकतात.">
-
-
+<!ENTITY identity.description.insecureLoginForms "ह्या पानावर तुम्ही दिलेली लॉगिन माहिती सुरक्षित नसून त्याबरोबर तडजोड होऊ शकते.">
+<!ENTITY identity.description.weakCipher "ह्या वेबसाइट बरोबरची तुमची जोडणी कमकुवत एनक्रिप्शन वापरत असून ती खाजगी नाही.">
 <!ENTITY identity.description.weakCipher2 "इतर लोक तुमची माहिती पाहू शकतात किंवा वेबसाईटचे वर्तन बदलू शकतात. ">
-
+<!ENTITY identity.description.activeBlocked "&brandShortName; ने ह्या पानावरील काही असुरक्षित भाग अडवले आहेत.">
 <!ENTITY identity.description.passiveLoaded "ह्या साईटवरची आपली जोडणी खाजगी नाही. आपण जी माहिती जमा करता आहात ते इतर लोक पाहू शकतात.">
 <!ENTITY identity.description.passiveLoaded2 "या वेबसाईटवरील काही भाग (उदा. प्रतिमा) सुरक्षित नाही.">
-
+<!ENTITY identity.description.passiveLoaded3 "&brandShortName;ने काही भाग अडवले असले, तरी ह्या पानावर काही असुरक्षित आशय आहेत (उदा. प्रतिमा).">
 <!ENTITY identity.description.activeLoaded "या वेबसाईटवरील काही भाग (उदा. स्क्रिप्ट्स) सुरक्षित नाही आणि आपली जोडणी खाजगी नाही आहे.">
 <!ENTITY identity.description.activeLoaded2 "आपण जी माहिती जमा करता आहात (जसे कि सांकेतिक शब्द, संदेश, क्रेडीट कार्ड इत्यादी) ते इतर लोक पाहू शकतात.">
 
@@ -734,9 +734,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "न">
 <!ENTITY identity.learnMore "आणखी शिका">
 
+<!ENTITY identity.moreInfoLinkText2 "अधिक माहिती">
 
 <!ENTITY identity.permissions "परवानगी">
-
+<!ENTITY identity.permissionsEmpty "तुम्ही ह्या साईटला काही विशेष परवानग्या दिलेल्या नाहीत.">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -747,7 +748,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "ताळमेळ">
 
-
+<!ENTITY syncSignIn.label             "&syncBrand.shortName.label; मध्ये साईन इन करा...">
+<!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "आत्ता सिंक करा">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label; सह पुन्हा जोडणी करा…">
@@ -775,8 +777,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.closeNotificationItem.label "आत्ता नाही">
 
 <!ENTITY social.directory.label "सक्रीय केलेल्यांची सूची">
-
-
+<!ENTITY social.directory.text "तुम्ही निर्देशिकेमधून Share सेवा सक्रिय करू शकता.">
+<!ENTITY social.directory.button "मला तिकडे न्ह्या!">
 
 
 
