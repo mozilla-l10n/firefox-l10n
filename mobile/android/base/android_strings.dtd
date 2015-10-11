@@ -97,6 +97,7 @@
      &formatS; will be replaced with the title of the tab, as received from the
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "Memutar audio – &formatS;">
 
 <!ENTITY settings "Pengaturan">
 <!ENTITY settings_title "Pengaturan">
