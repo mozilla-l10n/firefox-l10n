@@ -132,7 +132,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fullscreenWarning.beforeDomain.label "">
 
-
+<!ENTITY fullscreenWarning.generic.label "Bu hujjat hozir butun ekranda ko‘rinmoqda">
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
@@ -698,7 +698,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label                   "Bekor qilish">
 
 
-
+<!ENTITY identity.connectionNotSecure "Ulanish – xavfsiz emas">
 
 <!ENTITY identity.connectionVerified1 "Quyidagi yordamida ishlaydigan ushbu saytga xavfli ulandingiz:">
 <!ENTITY identity.connectionInternal "Bu xavfsiz &brandShortName; sahifasi.">
@@ -710,7 +710,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings in the subview. -->
 
 <!ENTITY identity.description.weakCipher "Ushbu vebsahifaga ulanish kuchsiz kodlash usulidan foydalanadi, shuning uchun u maxfiy emas.">
-
+<!ENTITY identity.description.weakCipher2 "Boshqa odamlar ma’lumotlaringizni ko‘rishi yoki vebsayt xususiyatlarini o‘zgartirishi mumkin.">
 
 
 
