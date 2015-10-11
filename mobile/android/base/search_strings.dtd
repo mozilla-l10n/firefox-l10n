@@ -26,5 +26,5 @@
 
 <!ENTITY search_widget_button_label "Ieškoti">
 
-<!ENTITY network_error_title "Nėra interneto ryšio">
+<!ENTITY network_error_title "Nėra ryšio su internetu">
 <!ENTITY network_error_message "Bakstelėkite čia, norėdami patikrinti savo tinklo nustatymus">
