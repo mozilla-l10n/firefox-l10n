@@ -13,8 +13,8 @@
 <!ENTITY trackingProtectionPBM5.label         "از محافظت ردگیری در پنجره‌های خصوصی استفاده کنید">
 <!ENTITY trackingProtectionPBM5.accesskey     "خ">
 <!ENTITY trackingProtectionPBMLearnMore.label "اطلاعات بیشتر">
-
-
+<!ENTITY changeBlockList.label          "تغییر لیست مسدودی‌ها">
+<!ENTITY changeBlockList.accesskey      "ت">
 
 <!ENTITY  history.label                 "تاریخچه">
 
