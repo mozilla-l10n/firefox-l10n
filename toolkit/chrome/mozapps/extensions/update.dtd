@@ -5,13 +5,17 @@
 <!ENTITY  updateWizard.title              "Pemutakhiran &brandShortName;">
 
 <!ENTITY  offline.title                   "&brandShortName; dalam Mode Luring">
-<!ENTITY  offline.description             "&brandShortName; harus tersambung untuk memeriksa versi baru pengaya untuk memastikan kompatibilitasnya dengan versi ini.">
+<!ENTITY  offline.description             "&brandShortName; harus tersambung untuk memeriksa versi baru 
+pengaya untuk memastikan kompatibilitasnya dengan 
+versi ini.">
 <!ENTITY  offline.toggleOffline.label     "Sambung sekarang.">
 <!ENTITY  offline.toggleOffline.accesskey "g">
 
 <!ENTITY  mismatch.win.title              "Pengaya yang Tidak Kompatibel">
-<!ENTITY  mismatch.top.label              "Pengaya berikut tidak kompatibel dengan versi &brandShortName; dan telah dimatikan:">
-<!ENTITY  mismatch.bottom.label           "&brandShortName; bisa memeriksa versi kompatibel Pengaya jika telah tersedia.">
+<!ENTITY  mismatch.top.label              "Pengaya berikut tidak kompatibel dengan versi 
+&brandShortName; ini dan telah dimatikan:">
+<!ENTITY  mismatch.bottom.label           "&brandShortName; bisa memeriksa jika versi kompatibel 
+pengaya ini telah tersedia.">
 
 <!ENTITY  checking.wizard.title           "Memeriksa Pengaya yang Kompatibel">
 <!ENTITY  checking.top.label              "Memeriksa versi baru Pengaya yang tidak kompatibel…">
@@ -27,7 +31,8 @@
 <!ENTITY  installing.top.label            "Mengunduh dan memasang versi baru Pengaya…">
 
 <!ENTITY  noupdates.wizard.title          "Tidak ada Pengaya yang Kompatibel Ditemukan">
-<!ENTITY  noupdates.intro.desc            "&brandShortName; tidak menemukan versi baru dari Pengaya Anda yang tidak kompatibel.">
+<!ENTITY  noupdates.intro.desc            "&brandShortName; tidak bisa menemukan versi baru dari 
+pengaya Anda yang tidak kompatibel.">
 <!ENTITY  noupdates.error.desc            "Terjadi masalah saat mencoba memeriksa versi baru.">
 <!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; akan memeriksa secara periodik dan memberitahukan jika versi pengaya yang kompatibel telah ditemukan.">
 
