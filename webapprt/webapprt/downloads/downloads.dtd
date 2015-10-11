@@ -11,9 +11,10 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY starting.label                   "सुरू होत आहे...">
 <!ENTITY scanning.label                   "वायरस करीता स्कॅन करीत आहे…">
 
+<!ENTITY downloads.title                  "डाउनलोडस्">
 
 <!ENTITY cmd.pause.label                  "थांबा">
-<!ENTITY cmd.pause.accesskey              "थ">
+<!ENTITY cmd.pause.accesskey              "P">
 <!ENTITY cmd.resume.label                 "पुन्हा सुरू करा">
 <!ENTITY cmd.resume.accesskey             "R">
 <!ENTITY cmd.cancel.label                 "रद्द करा">
