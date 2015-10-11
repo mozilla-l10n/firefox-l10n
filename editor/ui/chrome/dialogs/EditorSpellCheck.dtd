@@ -28,8 +28,8 @@
 <!ENTITY addToUserDictionaryButton.accessKey "g">
 <!ENTITY editUserDictionaryButton.label "Rediger …">
 <!ENTITY editUserDictionaryButton.accessKey "R">
-<!ENTITY recheckButton.label "Kontroller siden på nytt">
-<!ENTITY recheckButton.accessKey "o">
+<!ENTITY recheckButton2.label "Sjekk tekst på nytt">
+<!ENTITY recheckButton2.accessKey "T">
 <!ENTITY closeButton.label "Lukk">
 <!ENTITY closeButton.accessKey "L">
 <!ENTITY sendButton.label "Send">
