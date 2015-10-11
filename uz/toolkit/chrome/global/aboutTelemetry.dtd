@@ -22,8 +22,11 @@
 
 <!ENTITY aboutTelemetry.showSubsessionData "Quyi seans ma’lumotlarini ko‘rsatish">
 
+<!ENTITY aboutTelemetry.choosePing "Ping’ni tanlash:">
 
+<!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; Hech qachon ping yuborilmasin">
 
+<!ENTITY aboutTelemetry.showOlderPing "Eski ping &gt;&gt;">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Hafta">
 
