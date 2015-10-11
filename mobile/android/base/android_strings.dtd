@@ -10,6 +10,7 @@
 <!ENTITY  onboard_start_subtext3 "Gjer den mobile surfeopplevinga heilt til di eiga.">
 <!ENTITY  onboard_start_button_account "Logg inn på &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Start nettlesing">
+<!ENTITY  onboard_start_restricted1 "Ver trygg og ha kontroll med denne forenkla versjonen av &brandShortName;.">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
@@ -44,6 +45,10 @@
 <!ENTITY bookmark "Bokmerke">
 <!ENTITY bookmark_remove "Fjern bokmerke">
 <!ENTITY bookmark_added "Bokmerke er lagt til">
+<!-- Localization note (bookmark_already_added) : This string is
+     used as a label in a toast. It is the verb "to bookmark", not
+     the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "Bokmmerke allereie lagt til">
 <!ENTITY bookmark_removed "Bokmerke fjerna">
 <!ENTITY bookmark_updated "Bokmerke oppdatert">
 <!ENTITY bookmark_options "Innstillingar">
@@ -64,6 +69,8 @@
 <!ENTITY edit_mode_cancel "Avbryt">
 
 <!ENTITY close_tab "Lat att fane">
+<!ENTITY tab_audio_playing "Denne fana spelar lyd">
+<!ENTITY tab_audio_muted "Denne fana er dempa">
 <!ENTITY one_tab "1 fane">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -77,10 +84,11 @@
 
 <!ENTITY settings "Innstillingar">
 <!ENTITY settings_title "Innstillingar">
+<!ENTITY pref_category_input_options "Inndatainnstillingar">
 <!ENTITY pref_category_advanced "Avansert">
 <!ENTITY pref_category_customize "Tilpass">
 <!ENTITY pref_category_customize_summary "Heim, søk, faner, import">
-<!ENTITY pref_category_customize_alt_summary "Heim, søk, faner, opna seinare, importere">
+<!ENTITY pref_category_customize_alt_summary "Heim, søk, faner, opna seinare, importera">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -132,7 +140,7 @@
 <!ENTITY pref_category_display "Vising">
 <!ENTITY pref_category_display_summary "Tekst, tittellinje, nettlesing i fullskjerm">
 <!ENTITY pref_category_privacy_short "Personvern">
-<!ENTITY pref_category_privacy_summary "Handsama passord, infokapslar, sporing og data">
+<!ENTITY pref_category_privacy_summary2 "Kontroller innloggingar, infokapslar, sporing, data">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "Om &brandShortName;, OSS og dataval">
 <!ENTITY pref_category_datareporting "Dataval">
@@ -150,15 +158,20 @@
 <!ENTITY pref_search_hint "TIPS: Legg til ein nettstad som søkjetilbydar ved å lang-trykkje på søkjefeltet og deretter velja &formatI;-ikonet.">
 <!ENTITY pref_category_devtools "Utvklarverktøy">
 <!ENTITY pref_developer_remotedebugging "Ekstern debugging">
+<!ENTITY pref_developer_remotedebugging_usb "Fjernfeilretting via USB">
+<!ENTITY pref_developer_remotedebugging_wifi "Fjernfeilretting via Wi-Fi">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi-feilretting krev at du har ein QR-kodeapplesar installert.">
 <!ENTITY pref_category_logins "Innloggingar">
-<!ENTITY pref_remember_signons "Hugs passord">
-<!ENTITY pref_manage_logins "Handsam innloggingar">
+<!ENTITY pref_remember_signons2 "Hugs innloggingar">
+<!ENTITY pref_open_external_urls_privately_title "Opna lenker i privat nettlesing">
+<!ENTITY pref_open_external_urls_privately_summary "For alle eksterne lenker opna i &brandShortName;">
+<!ENTITY pref_manage_logins "Handsame innloggingar">
 
 <!ENTITY pref_category_home "Heim">
-<!ENTITY pref_category_home_summary "Tilpass startsida.">
+<!ENTITY pref_category_home_summary "Tilpasse startsida.">
 <!ENTITY pref_category_home_panels "Panel">
 <!ENTITY home_add_panel_title "Legg til nytt panel">
-<!ENTITY home_add_panel_empty "Beklagar, me klarte ikkje å finna panel som kan leggjast til.">
+<!ENTITY home_add_panel_empty "Beklagar, me klarte ikkje å finna panel du kan leggja til.">
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
@@ -185,15 +198,20 @@
 <!ENTITY pref_cookies_disabled "Avslått">
 
 <!ENTITY pref_tracking_protection_title "Sporingsvern">
-<!ENTITY pref_tracking_protection_summary "&brandShortName; vil hindra nettstadar i å spora deg">
+<!ENTITY pref_tracking_protection_summary3 "Slått på i privat nettlesing">
 <!ENTITY pref_donottrack_title "Ikkje spor">
 <!ENTITY pref_donottrack_summary "&brandShortName; vil fortelja nettstadar at du ikkje ynskjer å verta spora">
 
-<!ENTITY tab_queue_toast_message2 "Fane i kø &brandShortName;">
+<!ENTITY tracking_protection_prompt_title "No med sporingsvern">
+<!ENTITY tracking_protection_prompt_text "Aktivt blokker sporingselement slik at du slepp å uroa deg.">
+<!ENTITY tracking_protection_prompt_tip_text "Gå til Private innstillingar for å læra meir">
+<!ENTITY tracking_protection_prompt_action_button "Greitt!">
+
+<!ENTITY tab_queue_toast_message3 "Fane lagra i &brandShortName;">
 <!ENTITY tab_queue_toast_action "Opna no">
 <!ENTITY tab_queue_prompt_title "Opna fleire lekkjer?">
-<!ENTITY tab_queue_prompt_text2 "Opna dei utan å byta til &brandShortName; kvar gong.">
-<!ENTITY tab_queue_prompt_tip_text "du kan endra dette seinare i Innstillingar">
+<!ENTITY tab_queue_prompt_text4 "Lagra dei til neste gong du opnar &brandShortName;.">
+<!ENTITY tab_queue_prompt_tip_text2 "Du kan endra dette i Innstillingar">
 <!ENTITY tab_queue_prompt_positive_action_button "Slå på">
 <!ENTITY tab_queue_prompt_negative_action_button "Ikkje no">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
@@ -212,7 +230,7 @@
 <!ENTITY pref_clear_private_data2 "Tøm no">
 <!ENTITY pref_clear_private_data_category "Slett private data">
 <!ENTITY pref_clear_on_exit_title2 "Slett ved avslutting">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; vil automatisk sletta dataa dine kvar gong du vel \u0022Quit\u0022 frå hovudmenyen">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; vil automatisk sletta dine dt kvar gong du vel \u0022Quit\u0022 frå hovudmenyen">
 <!ENTITY pref_clear_on_exit_dialog_title "Vel kva for data som skal slettast">
 <!ENTITY pref_plugins "Programtillegg">
 <!ENTITY pref_plugins_enabled "Slå på">
@@ -244,10 +262,14 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled_summary "Vel om nettsider automatisk kan spela av videoar og anna medieinnhald">
 <!ENTITY pref_zoom_force_enabled "alltid slå på zoom">
 <!ENTITY pref_zoom_force_enabled_summary "Tving overstyring slik at du kan zoome på alle sider">
+<!ENTITY pref_voice_input "Stemmeinngang">
+<!ENTITY pref_voice_input_summary "Tillat stemmediktering i adresselinja">
+<!ENTITY pref_qrcode_enabled "QR-kodelesar">
+<!ENTITY pref_qrcode_enabled_summary "Tillat QR-skannar i adresselinja">
 
 <!ENTITY pref_use_master_password "Bruk eit hovudpassord">
 <!ENTITY pref_sync "Sync">
-<!ENTITY pref_sync_summary "Synkroniser faner, bokmerke, passord, historikk">
+<!ENTITY pref_sync_summary2 "Synkroniser faner, bokmerke, innloggingar, historikk">
 <!ENTITY pref_search_suggestions "Vis søkjeforslag">
 <!ENTITY pref_import_android "Importer frå Android">
 <!ENTITY pref_import_android_summary "Importer bokmerke og historikk frå den opphavelege nettlesaren">
@@ -255,11 +277,12 @@ size. -->
 <!ENTITY pref_private_data_searchHistory "Søkjehistorikk">
 <!ENTITY pref_private_data_formdata2 "Skjemahistorikk">
 <!ENTITY pref_private_data_cookies2 "Infokapslar og aktive innloggingar">
-<!ENTITY pref_private_data_passwords "Lagra passord">
+<!ENTITY pref_private_data_passwords2 "Lagra innloggingar">
 <!ENTITY pref_private_data_cache "Snøgglager">
 <!ENTITY pref_private_data_offlineApps "Fråkopla nettstad-data">
 <!ENTITY pref_private_data_siteSettings2 "Nettstadinnstillingar">
 <!ENTITY pref_private_data_downloadFiles2 "Nedlastingar">
+<!ENTITY pref_private_data_syncedTabs "Synkroniserte faner">
 
 
 <!ENTITY pref_about_firefox "Om &brandShortName;">
@@ -318,7 +341,6 @@ size. -->
 <!ENTITY addons "Utvidingar">
 <!ENTITY logins "Innloggingar">
 <!ENTITY downloads "Nedlastingar">
-<!ENTITY apps "Appar">
 <!ENTITY char_encoding "Teiknkoding">
 
 <!ENTITY share "Del">
@@ -331,8 +353,8 @@ size. -->
 <!ENTITY tools "Verkty">
 <!ENTITY new_tab "Ny fane">
 <!ENTITY new_private_tab "Ny privat fane">
-<!ENTITY close_all_tabs "Lukk alle faner">
-<!ENTITY close_private_tabs "Lukk privat fane">
+<!ENTITY close_all_tabs "Lat att alle faner">
+<!ENTITY close_private_tabs "Lat att private fane">
 <!ENTITY tabs_normal "Faner">
 <!ENTITY tabs_private "Privat">
 <!ENTITY tabs_synced "Synkronisert">
@@ -343,7 +365,7 @@ size. -->
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 <!ENTITY find_text "Finn på sida">
-<!ENTITY find_prev "Tidlegare">
+<!ENTITY find_prev "Førre">
 <!ENTITY find_next "Neste">
 <!ENTITY find_close "Lat att">
 
@@ -379,10 +401,20 @@ size. -->
 <!ENTITY doorhanger_login_edit_password_hint "Passord">
 <!ENTITY doorhanger_login_edit_toggle "Vis passord">
 <!ENTITY doorhanger_login_edit_toast_error "Klarte ikkje å lagra innlogging">
+<!ENTITY doorhanger_login_select_message "Kopiera passord frå &formatS;?">
+<!ENTITY doorhanger_login_select_toast_copy "Passord kopiert til utklippstavla">
+<!ENTITY doorhanger_login_select_toast_copy_error "Klarte ikkje å kopiera passord">
+<!ENTITY doorhanger_login_select_action_text "Vel ei anna innlogging">
+<!ENTITY doorhanger_login_select_title "Kopier passord frå">
 
 <!ENTITY pref_titlebar_mode "Tittellinje">
 <!ENTITY pref_titlebar_mode_title "Vis sidetittel">
 <!ENTITY pref_titlebar_mode_url "Vis sideadresse">
+
+<!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
+     whether or not the magnifying glass is disabled. -->
+<!ENTITY pref_prevent_magnifying_glass "Slå av forstørrelseglas">
+<!ENTITY pref_prevent_magnifying_glass_summary "Hindra bruk av førstørringsglas ved løysing av tvetydige skjermberøringar">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
@@ -390,7 +422,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "Gøym tittellinja i &brandShortName; når du skrollar nedover ei side">
 
 <!ENTITY pref_tab_queue_title2 "Opna fleire lekkjer">
-<!ENTITY pref_tab_queue_summary2 "Kø opp lekjer for seinare i staden for å byta til &brandShortName; kvar gong">
+<!ENTITY pref_tab_queue_summary3 "Lagra dei til neste gong du opnar brandShortName;">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -409,7 +441,9 @@ size. -->
 <!ENTITY site_settings_clear        "Tøm">
 <!ENTITY site_settings_no_settings  "Ingen innstillingar å fjerna.">
 
-<!ENTITY reading_list_added "Sida er lagt til i leselista">
+<!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
+     as possible. -->
+<!ENTITY reading_list_added3 "Lagt til i leselista">
 <!ENTITY reading_list_removed "Sida er fjerna frå leselista">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -438,7 +472,7 @@ size. -->
 <!ENTITY button_clear_data "Tøm data">
 <!ENTITY button_set "Vel">
 <!ENTITY button_clear "Tøm">
-<!ENTITY button_remember "Hugs">
+<!ENTITY button_copy "Kopier">
 
 <!ENTITY firstrun_panel_title_welcome "Velkomen">
 
@@ -454,7 +488,7 @@ size. -->
 <!ENTITY home_clear_history_button "Slett nettlesarhistorikk">
 <!ENTITY home_clear_history_confirm "Er du viss på at du vil sletta historikken?">
 <!ENTITY home_bookmarks_empty "Bokmerka dine vert viste her.">
-<!ENTITY home_closed_tabs_title "Nyleg lukka faner">
+<!ENTITY home_closed_tabs_title "Nyleg attletne faner">
 <!ENTITY home_last_tabs_title "Faner frå førre gong">
 <!ENTITY home_last_tabs_empty "Nyleg brukte faner vert viste her.">
 <!ENTITY home_open_all "Opna alle">
@@ -502,10 +536,6 @@ size. -->
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Opphev gøyming av einingar">
 
-<!ENTITY private_browsing_title "Privat nettlesing">
-<!ENTITY private_tabs_panel_empty_desc "Dine private faner vert viste her. Sjølv om nettlesarhistorikk eller infokapslar ikkje vert lagra, vil bokmerke og filer du lastar ned framleis lagrast på eininga.">
-<!ENTITY private_tabs_panel_learn_more "Vil du lesa meir?">
-
 <!ENTITY remote_tabs_panel_moved_title "Kvar forsvann fanene mine?">
 <!ENTITY remote_tabs_panel_moved_desc "Me har flytta fanene dine frå andre einingar til eit panel på startsida, som du enkelt kan få tilgang til kvar gong du opnar ei ny fane.">
 <!ENTITY remote_tabs_panel_moved_link "Ta meg til det nye panelet.">
@@ -530,26 +560,31 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity_run_by "som er driven av">
-<!ENTITY identity_no_info "Denne nettstaden tilbyr ikkje identitetsinformasjon.">
-<!ENTITY identity_not_encrypted "Tilkoplinga til denne nettstaden er ikkje kryptert.">
+<!ENTITY identity_connection_secure "Trygt samband">
+<!ENTITY identity_connection_insecure "Utrygt samband">
 
 <!-- Mixed content notifications in site identity popup -->
+<!ENTITY mixed_content_blocked_all "&brandShortName; har blokkert utrygge element på denne sida.">
+<!ENTITY mixed_content_blocked_some "&brandShortName; har blokkert nokre utrygge element på denne sida.">
+<!ENTITY mixed_content_display_loaded "Denne sida har nokre utrygge element.">
+<!ENTITY mixed_content_protection_disabled "Du har slått av vern for utrygge element.">
+
 <!ENTITY loaded_mixed_content_message "Denne sida viser innhald som ikkje er trygt.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; har blokkert innhald som ikkje er trygt.">
 <!ENTITY blocked_mixed_content_message_bottom "Dei fleste nettstadar vil framleis fungera sjølv om dette innhaldet vert blokkert.">
 
 <!-- Tracking content notifications in site identity popup -->
-<!ENTITY loaded_tracking_content_message_top "Sporingsvern avslått.">
-<!ENTITY loaded_tracking_content_message_bottom "Delar av denne sida kan spora aktiviteten din på nettet.">
-<!ENTITY blocked_tracking_content_message_top2 "Sporingsvern påslått.">
-<!ENTITY blocked_tracking_content_message_bottom2 "Dellar av denne nettsida som sporar nettaktiviteten din vart blokkert.">
+<!ENTITY doorhanger_tracking_title "Sporingsvern">
+<!ENTITY doorhanger_tracking_state_enabled "Påslått">
+<!ENTITY doorhanger_tracking_state_disabled "Avslått">
+<!ENTITY doorhanger_tracking_message_enabled1 "Freistnadar på å spora online-framferda di er blokkert.">
+<!ENTITY doorhanger_tracking_message_disabled2 "Denne sida inkluderer element som kan spora nettlesinga di.">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Les meir">
 <!ENTITY enable_protection "Slå på vern">
 <!ENTITY disable_protection "Slå av vern">
-<!ENTITY keep_blocking "Hald fram blokkering">
+<!ENTITY keep_blocking "Framleis blokkering">
 
 <!ENTITY private_data_success "Private data sletta">
 <!ENTITY private_data_fail "Klarte ikkje å sletta enkelte private data">
@@ -561,7 +596,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
                                            frå Android">
 <!ENTITY bookmarkhistory_import_history "Importerer historikk
                                          frå Android">
-<!ENTITY bookmarkhistory_import_wait "Vent litt …">
+<!ENTITY bookmarkhistory_import_wait "Vent …">
 
 <!ENTITY suggestions_prompt3 "Vil du slå på søkjeforslag?">
 <!--  Localization note (search_bar_item_desc): When the user clicks the url bar
@@ -599,7 +634,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "Hald fram">
 <!ENTITY guest_session_dialog_cancel "Avbryt">
 <!ENTITY new_guest_session_title "&brandShortName; vil starta på nytt no">
-<!ENTITY new_guest_session_text "Personen som brukar den vil ikkje sjå nokre av nettlesardataa dine (som lagra passord, historikk eller bokmerke).\n\nNår gjesten er ferdig vert nettlesardataa hans/hennar sletta, og nettlesarøkta di vert gjenoppretta.">
+<!ENTITY new_guest_session_text2 "Personen som brukar den vil ikkje kunne sjå dine personlige nettleserdata (som lagra innloggingar, historikk eller bokmerke).\n\nNår gjesten er ferdig, vert vedkomande sine nettlesardata sletta, og økta di vert gjenoppretta.">
 <!ENTITY guest_browsing_notification_title "Gjestenettlesing er slått på">
 <!ENTITY guest_browsing_notification_text "Trykk for å avslutta">
 
@@ -629,10 +664,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Voice search in the awesome bar -->
 <!ENTITY voicesearch_prompt "Snakk no">
-<!ENTITY voicesearch_failed_title "&brandShortName; stemmesøk">
-<!ENTITY voicesearch_failed_message "Det er eit problem med stemmesøk. Prøv omatt seinare.">
-<!ENTITY voicesearch_failed_message_recoverable "Beklagar! Me kunne ikkje kjenna att orda. Prøv omatt.">
-<!ENTITY voicesearch_failed_retry "Prøv omatt">
 
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
@@ -648,3 +679,28 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
 <!ENTITY find_matchcase "Aa">
+
+<!ENTITY intent_uri_cannot_open "Klarte ikkje å opna lenka">
+
+<!-- DevTools Authentication -->
+<!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
+     above a QR reader that is actively scanning for QR codes.  The expected QR
+     code has already been displayed by the client trying to connect (such as
+     desktop Firefox via WebIDE), so you just need to aim this device at the QR
+     code. -->
+<!ENTITY devtools_auth_scan_header "Skannar etter QR-koden vist på den andre eininga">
+
+<!-- Restrictions -->
+<!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
+     a restricted profile (e.g. child). Used inside the Android settings UI. -->
+<!ENTITY restriction_disallow_import_settings_title2 "Slå av \'Importer frå Android\'">
+<!ENTITY restriction_disallow_addons_title2 "Slå av utvidingsinnstallering">
+<!ENTITY restriction_disallow_devtools_title2 "Slå av utviklarverkty">
+<!ENTITY restriction_disallow_customize_home_title2 "Slå av heimetilpassing">
+<!ENTITY restriction_disallow_private_browsing_title2 "Slå av privat nettlesing">
+<!ENTITY restriction_disallow_location_services_title2 "Slå av plasseringstenester">
+<!ENTITY restriction_disallow_display_settings_title2 "Disable Display settings">
+<!ENTITY restriction_disallow_clear_history_title2 "Slå av \'Slett nettlesarhistorikk\'">
+<!ENTITY restriction_disallow_master_password_title2 "Slå av hovudpassord">
+<!ENTITY restriction_disallow_guest_browsing_title2 "Slå av gjestesurfing">
+
