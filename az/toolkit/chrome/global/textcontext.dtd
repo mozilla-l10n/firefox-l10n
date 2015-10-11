@@ -15,8 +15,8 @@
 <!ENTITY deleteCmd.label "Sil">
 <!ENTITY deleteCmd.accesskey "S">
 
-<!ENTITY spellAddToDictionary.label "Sözlüğe ekle">
-<!ENTITY spellAddToDictionary.accesskey "S">
+<!ENTITY spellAddToDictionary.label "Lüğətə əlavə et">
+<!ENTITY spellAddToDictionary.accesskey "L">
 <!ENTITY spellUndoAddToDictionary.label "Lüğətə əlavə etməni geri qaytar">
 <!ENTITY spellUndoAddToDictionary.accesskey "g">
 <!ENTITY spellCheckToggle.label "Orfoqrafiya Yoxlaması">
