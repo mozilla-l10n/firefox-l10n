@@ -16,7 +16,7 @@
 <!ENTITY deniedPortAccess.title "Această adresă este restricționată">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Serverul nu a fost găsit">
+<!ENTITY dnsNotFound.title "Server negăsit">
 <!ENTITY dnsNotFound.longDesc "<ul> 
 <li>Verificați adresa de erori de tastare cum ar fi 
 <strong>ww</strong>.exemplu.ro în loc de 
