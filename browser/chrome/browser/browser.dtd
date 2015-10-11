@@ -813,7 +813,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.message "Тексеріп отыру">
 <!ENTITY trackingContentBlocked.moreinfo "Беттің сіздің желілік белсенділікті бақылайтын құрамасы блокталды.">
 <!ENTITY trackingContentBlocked.learnMore "Көбірек білу">
-<!ENTITY trackingContentBlocked.options "Опциялар">
+<!ENTITY trackingContentBlocked.options "Баптаулар">
 <!ENTITY trackingContentBlocked.unblock2.label "Бұл сайт үшін қорғанысты сөндіру">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "д">
 <!ENTITY trackingContentBlocked.block.label "Қорғанысты іске қосу">
