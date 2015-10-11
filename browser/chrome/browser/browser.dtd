@@ -699,7 +699,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.weakEncryption "Esta página usa uma encriptação fraca.">
 <!-- Strings for connection state warnings in the subview. -->
 
-<!ENTITY identity.description.insecure "A sua ligação a este site não é privada. As informações que submeter (tais como palavra-passe, mensagens, cartões de créditos, etc.) podem ser vistas por terceiros.">
+<!ENTITY identity.description.insecure "A sua ligação a este site não é privada. As informações que submeter (tais como palavra-passe, mensagens, cartões de crédito, etc.) podem ser vistas por terceiros.">
 <!ENTITY identity.description.weakCipher "A sua ligação a este site utiliza encriptação fraca e não é privada.">
 <!ENTITY identity.description.weakCipher2 "Outras pessoas podem ver a sua informação ou alterar o comportamento do site.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; bloqueou partes desta página que não são seguras.">
