@@ -112,7 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; मध्ये प्रवेश करा">
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; प्राधान्यता उघडा">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; सह जोडणी करा">
-
+<!ENTITY fxaUnverified.label "तुमचे खाते सत्यापित करा">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; सुरू केले">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; लवकरच ताळमेळ सुरू करेल.">
 
@@ -131,12 +131,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY fullscreenWarning.beforeDomain.label "">
-
-
+<!ENTITY fullscreenWarning.afterDomain.label "आता पूर्ण स्क्रीन आहे">
+<!ENTITY fullscreenWarning.generic.label "हे कागदपत्र आता पूर्ण स्क्रीन केले आहे">
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
-
+<!ENTITY exitDOMFullscreen.button "पूर्ण स्क्रीनमधून बाहेर पडा (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "पूर्ण स्क्रीनमधून बाहेर पडा (esc)">
 <!ENTITY leaveDOMFullScreen.label "पडदाभरपासून बाहेर पडा">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
@@ -157,9 +158,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "s">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-
-
-
+<!ENTITY shareLink.label "ही दुवा शेअर करा">
+<!ENTITY shareLink.accesskey "h">
+<!ENTITY shareImage.label "ही प्रतिमा शेअर करा">
+<!ENTITY shareImage.accesskey "श">
 <!ENTITY shareSelect.label "निवड शेअर करा">
 <!ENTITY shareSelect.accesskey "श">
 <!ENTITY shareVideo.label "हा व्हिडीओ शेअर करा">
@@ -221,7 +223,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "डाउनलोड्स">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
-
+<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "ॲडऑन्स">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
@@ -251,7 +253,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "रेस्पाँसिव्ह रूपरेखा अवलोकन">
 <!ENTITY responsiveDesignTool.accesskey "R">
-
+<!ENTITY responsiveDesignTool.commandkey "M">
 
 <!ENTITY eyedropper.label   "आयड्रॉपर">
 <!ENTITY eyedropper.accesskey "y">
@@ -280,6 +282,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 
+<!ENTITY browserContentToolboxMenu.label     "ब्राउझर सामग्रीची साधनपेटी">
+<!ENTITY browserContentToolboxMenu.accesskey "स">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "डेव्हलपर साधनपट्टी बंद करा">
 <!ENTITY devToolbarMenu.label              "डेव्हलपर साधनपट्टी">
@@ -309,7 +313,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "नविन वैयक्तिक पटल">
 <!ENTITY newPrivateWindow.accesskey "W">
-
+<!ENTITY newNonRemoteWindow.label   "नवीन Non-e10s विंडो">
 
 <!ENTITY editMenu.label         "संपादित करा"> 
 <!ENTITY editMenu.accesskey       "E"> 
@@ -400,12 +404,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "टॅबचा वापर करा:">
 
+<!ENTITY urlbar.searchSuggestionsNotification.question "तुम्ही तुमचा शोध अनुभव सूचनांद्वारा सुधारू इच्छिता का?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "अधिक जाणून घ्या…">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "नाही">
-
+<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "होय">
-
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -541,8 +546,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "g">
 <!ENTITY emailVideoCmd.label          "व्हिडिओ ईमेल करा…">
 <!ENTITY emailVideoCmd.accesskey      "a">
-
-
+<!ENTITY castVideoCmd.label           "उपकरणांना व्हिडिओ पाठवा">
+<!ENTITY castVideoCmd.accesskey       "प">
 <!ENTITY emailAudioCmd.label          "ऑडिओ ईमेल करा…">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "ह्या प्लगइनला सुरू करा">
@@ -696,18 +701,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "झाले">
 <!ENTITY editBookmark.cancel.label                   "रद्द करा">
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
-
+<!ENTITY identity.connectionSecure "सुरक्षित जोडणी">
 <!ENTITY identity.connectionNotSecure "जोडणी असुरक्षित आहे">
 <!ENTITY identity.connectionFile "हे पृष्ठ आपल्या संगणकावर संचयीत केले गेले आहे.">
-
+<!ENTITY identity.connectionVerified1 ":द्वारे चालवण्यात येणाऱ्या साईटला तुम्ही सुरक्षितपणे जुळलेले आहात">
 <!ENTITY identity.connectionInternal "हे सुरक्षित &brandShortName; पान आहे.">
-
+<!ENTITY identity.insecureLoginForms "तुमच्या लॉगिनबरोबर तडजोड होऊ शकते.">
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "&brandShortName; ने ह्या पानावरील काही असुरक्षित भाग अडवले आहेत.">
 <!ENTITY identity.passiveLoaded "या पृष्ठावरील काही भाग (उदा. प्रतिमा) सुरक्षित नाहीत.">
-
+<!ENTITY identity.activeLoaded "तुम्ही ह्या पानावरील सुरक्षा बंद केली आहे.">
 
 <!-- Strings for connection state warnings in the subview. -->
 
