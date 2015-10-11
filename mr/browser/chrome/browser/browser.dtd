@@ -110,7 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "A">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; मध्ये प्रवेश करा">
-
+<!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; प्राधान्यता उघडा">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; सह जोडणी करा">
 
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; सुरू केले">
@@ -159,10 +159,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
-
-
-
+<!ENTITY shareSelect.label "निवड शेअर करा">
+<!ENTITY shareSelect.accesskey "श">
+<!ENTITY shareVideo.label "हा व्हिडीओ शेअर करा">
+<!ENTITY shareVideo.accesskey "श">
 <!ENTITY feedsMenu.label "सभासद व्हा">
 <!ENTITY subscribeToPageMenupopup.label "सेवा स्वीकारण्याकरता ह्या पानास भेट द्या">
 <!ENTITY subscribeToPageMenuitem.label "सेवा स्वीकारण्याकरता ह्या पानास भेट द्या...">
@@ -433,9 +433,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      These are set as the aria-label attribute for the search input box and
      submit button in the in-content search UI, to be used by screen readers. -->
 
+<!ENTITY contentSearchInput.label     "पृच्छा शोधा">
+
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
+
+<!ENTITY searchFor.label              " याकरिता शोधा">
 <!ENTITY searchWith.label             " सह">
 <!-- LOCALIZATION NOTE (search.label, searchAfter.label):
      This string is used to build the header above the list of one-click search
@@ -448,14 +452,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
+
+<!ENTITY searchWithHeader.label       "सह शोधा:">
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "शोध सेटिंग बदला">
 
-
-
-
+<!ENTITY searchInNewTab.label         "नविन टॅबमध्ये शोधा">
+<!ENTITY searchInNewTab.accesskey     "ट">
+<!ENTITY searchSetAsDefault.label     "मुलभूत शोध इंजिन संचित करा">
+<!ENTITY searchSetAsDefault.accesskey "म">
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -689,7 +696,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY identity.connectionNotSecure "जोडणी असुरक्षित आहे">
-
+<!ENTITY identity.connectionFile "हे पृष्ठ आपल्या संगणकावर संचयीत केले गेले आहे.">
 
 <!ENTITY identity.connectionInternal "हे सुरक्षित &brandShortName; पान आहे.">
 
@@ -706,15 +713,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.description.weakCipher2 "इतर लोक तुमची माहिती पाहू शकतात किंवा वेबसाईटचे वर्तन बदलू शकतात. ">
 
+<!ENTITY identity.description.passiveLoaded "ह्या साईटवरची आपली जोडणी खाजगी नाही. आपण जी माहिती जमा करता आहात ते इतर लोक पाहू शकतात.">
 
 
 
 
 
-
-
-
-
+<!ENTITY identity.enableMixedContentBlocking.label "सुरक्षा सक्रीय करा">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "स">
+<!ENTITY identity.disableMixedContentBlocking.label "सुरक्षा निष्क्रिय करा">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "न">
 
 
 
@@ -795,7 +803,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "पडद्यावरील सर्व दृष्यास्पद पटलांना शेअर केले जाईल.">
 
 <!ENTITY trackingProtection.title "मागोवा संरक्षण">
-
+<!ENTITY trackingProtection.detectedBlocked3 "जे आपल्या आॅनलाइन कार्याचा मागोवा घेऊ शकतात त्यांना &brandShortName; प्रतीरोधीत करीत आहे.">
 
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
@@ -812,7 +820,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.message "ट्रॅकिंग">
 
 
-
+<!ENTITY trackingContentBlocked.options "पर्याय">
 
 
 
@@ -858,17 +866,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+<!ENTITY panicButton.thankyou.buttonlabel         "धन्यवाद!">
 
 
 
 
 
 
+<!ENTITY processHang.terminateProcess.label       "वेब प्रक्रिया नष्ट करा">
+<!ENTITY processHang.terminateProcess.accessKey   "न">
 
-
-
-
-
+<!ENTITY emeLearnMoreContextMenu.label            "DRM बद्दल अधिक जाणून घ्या…">
+<!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 <!ENTITY emeNotificationsNotNow.label             "आता नको (N)">
 <!ENTITY emeNotificationsNotNow.accesskey         "N">
 <!ENTITY emeNotificationsDontAskAgain.label       "मला पुन्हा विचारू नका (D)">
