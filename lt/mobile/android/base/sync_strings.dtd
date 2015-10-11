@@ -208,8 +208,8 @@
 <!ENTITY fxaccount_status_needs_verification2 "Jūsų paskyrą būtina patvirtinti. Bakstelėkite, kad būtų pakartotinai išsiųstas patvirtinimo laiškas.">
 <!ENTITY fxaccount_status_needs_credentials "Prisijungti nepavyko. Bakstelėkite pakartotiniam bandymui.">
 <!ENTITY fxaccount_status_needs_upgrade "Jeigu norite prisijungti, turite atnaujinti „&brandShortName;“.">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "„&syncBrand.shortName.label;“ sukonfigūruota, tačiau duomenys nesinchronizuojami automatiškai. Įjunkite automatinį duomenų sinchronizavimą „Android“ nustatymų skiltyje „Duomenų naudojimas“.">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "„&syncBrand.shortName.label;“ sukonfigūruota, tačiau duomenys nesinchronizuojami automatiškai. Įjunkite automatinį duomenų sinchronizavimą „Android“ nustatymų skiltyje „Paskyros“.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "„&syncBrand.shortName.label;“ sukonfigūruota, tačiau duomenys nesinchronizuojami automatiškai. Įjunkite automatinį duomenų sinchronizavimą „Android“ nustatymų skiltyje „Duomenų naudojimas“ („Data Usage“).">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "„&syncBrand.shortName.label;“ sukonfigūruota, tačiau duomenys nesinchronizuojami automatiškai. Įjunkite automatinį duomenų sinchronizavimą „Android“ nustatymų skiltyje „Paskyros“ („Accounts“).">
 <!ENTITY fxaccount_status_needs_finish_migrating "Bakstelėkite, norėdami prisijungti prie savo naujosios „Firefox“ paskyros.">
 <!ENTITY fxaccount_status_bookmarks "Adresynas">
 <!ENTITY fxaccount_status_history "Žurnalas">

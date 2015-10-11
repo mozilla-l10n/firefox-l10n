@@ -40,7 +40,7 @@
 
 
 <!ENTITY generic.title "Klaida">
-<!ENTITY generic.longDesc "<p>Naršyklei nepavyko įkelti šio tinklalapio dėl nežinomos priežasties.</p>">
+<!ENTITY generic.longDesc "<p>„&brandShortName;“ nepavyko įkelti šio tinklalapio dėl nežinomos priežasties.</p>">
 
 <!ENTITY malformedURI.title "Neteisingas adresas">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
@@ -95,7 +95,7 @@
 <!ENTITY proxyConnectFailure.title "Įgaliotasis serveris atmeta ryšį">
 <!ENTITY proxyConnectFailure.longDesc "<ul> 
 <li>Patikrinkite, ar naršyklėje nurodytos teisingos įgaliotojo serverio nuostatos.</li> 
-<li>Jei norite sužinoti, ar įgaliotasis serveris veikia korektiškai, kreipkitės į tinklo administratorių.</li> 
+<li>Jei norite sužinoti, ar įgaliotasis serveris veikia tinkamai, kreipkitės į tinklo administratorių.</li> 
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Nerastas įgaliotasis serveris">
@@ -127,8 +127,10 @@
 
 <!ENTITY nssBadCert.title "Saugaus ryšio užmegzti nepavyko">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>Ši problema gali kilti dėl blogai parinktų serverio nuostatų arba dėl bandymo apsimesti kitu serveriu.</li> 
-<li>Jei prie šio serverio sėkmingai jungtėtės anksčiau, šis nesklandumas gali būti laikinas. Bandykite prisijungti vėliau.</li> 
+<li>Ši problema gali kilti dėl blogai parinktų serverio nuostatų arba dėl 
+bandymo apsimesti šiuo serveriu.</li> 
+<li>Jei prie šio serverio sėkmingai jungėtės anksčiau, šis nesklandumas gali būti 
+laikinas. Bandykite prisijungti vėliau.</li> 
 </ul>">
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
@@ -142,7 +144,7 @@ bandykite prisijungti iš naujo.</li>
 </ul>">
 
 <!ENTITY cspBlocked.title "Užblokuota dėl saugumo politikos">
-<!ENTITY cspBlocked.longDesc "<p>Tinklalapis neįkeltas, nes jo saugumo politika neleidžia jo turinio įterpti nurodytuoju būdu.</p>">
+<!ENTITY cspBlocked.longDesc "<p>„&brandShortName;“ neleido įkelti šio tinklalapio, nes jo saugumo politika neleidžia turinio įterpti nurodytuoju būdu.</p>">
 
 <!ENTITY corruptedContentError.title "Klaida: duomenys pažeisti">
 <!ENTITY corruptedContentError.longDesc "<p>Tinklalapio, kurį bandote atverti, parodyti negalima, nes, perduodant duomenis, įvyko klaida.</p><ul><li>Siūlome susisiekti su svetainės savininkais ar valdytojais ir pranešti jiems apie šią problemą.</li></ul>">

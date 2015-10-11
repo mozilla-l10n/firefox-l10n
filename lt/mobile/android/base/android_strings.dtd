@@ -11,15 +11,16 @@
 <!ENTITY  onboard_start_subtext3 "Padarykite savo mobilųjį naršymą labiau asmenišku.">
 <!ENTITY  onboard_start_button_account "Jungtis prie „&brandShortName;“">
 <!ENTITY  onboard_start_button_browser "Pradėti naršymą">
-
+<!ENTITY firstrun_button_next "Toliau">
 
 <!ENTITY  onboard_start_restricted1 "Būkite saugūs su šia supaprastinta „&brandShortName;“ versija.">
 
+<!ENTITY firstrun_import_title "Importuoti">
 <!ENTITY firstrun_import_message "Sveiki! Čia „&brandShortName;“">
-
-
-
-
+<!ENTITY firstrun_import_subtext "Importuoti adresyną ir žurnalą iš kitos naršyklės.">
+<!ENTITY firstrun_import_action "Perkelti į „&brandShortName;“">
+<!ENTITY firstrun_import_dialog_button "Perkelti">
+<!ENTITY firstrun_import_progress_title "Perkeliama">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -39,7 +40,7 @@
 <!ENTITY  crash_allow_contact2 "Leisti „&vendorShortName;i“ su jumis susisiekti dėl šio pranešimo">
 <!ENTITY  crash_email "El. pašto adresas">
 <!ENTITY  crash_closing_alert "Ar norite baigti darbą, neišsiuntę strigties pranešimo?">
-<!ENTITY  sending_crash_report "Išsiunčiamas strigties pranešimas…">
+<!ENTITY  sending_crash_report "Siunčiamas strigties pranešimas…">
 <!ENTITY  crash_close_label "Užverti">
 <!ENTITY  crash_restart_label "Paleisti „&brandShortName;“ iš naujo">
 <!ENTITY  exit_label "Baigti darbą">
@@ -64,9 +65,9 @@
 
 <!ENTITY history_today_section "Šiandien">
 <!ENTITY history_yesterday_section "Vakar">
-
-
-
+<!ENTITY history_week_section3 "Pastarosios 7 d.">
+<!ENTITY history_this_month_section "Šis mėnuo">
+<!ENTITY history_older_section3 "Seniau nei 6 mėn.">
 
 <!ENTITY go "Atverti">
 <!ENTITY search "Ieškoti">
@@ -96,6 +97,7 @@
      &formatS; will be replaced with the title of the tab, as received from the
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "Groja – &formatS;">
 
 <!ENTITY settings "Nuostatos">
 <!ENTITY settings_title "Nuostatos">
@@ -197,9 +199,9 @@
 <!ENTITY pref_home_updates_wifi "Tik per belaidį tinklą">
 <!ENTITY pref_home_suggested_sites "Rodyti svetainių siūlymus">
 <!ENTITY pref_home_suggested_sites_summary "Pradžios tinklalapyje rodyti nuorodas į svetaines, kurios, mūsų manymu, gali jus sudominti">
-
-
-
+<!ENTITY pref_category_home_homepage "Pradžios tinklalapis">
+<!ENTITY home_homepage_title "Nustatykite pradžios tinklalapį">
+<!ENTITY home_homepage_use_current_tab "Naudoti dabartinę kortelę">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Tinkinti">
@@ -364,7 +366,7 @@ size. -->
 <!ENTITY share_title "Dalintis per">
 <!ENTITY share_image_failed "Paveikslu pasidalinti nepavyko">
 <!ENTITY save_as_pdf "Įrašyti PDF formatu">
-
+<!ENTITY print "Spausdinti">
 <!ENTITY find_in_page "Ieškoti tinklalapyje">
 <!ENTITY desktop_mode "Prašyti ne mob. svetainės">
 <!ENTITY page "Tinklalapis">
@@ -384,7 +386,7 @@ size. -->
 
 <!ENTITY find_text "Ieškoti tinklalapyje">
 <!ENTITY find_prev "Ankstenis">
-
+<!ENTITY find_next "Toliau">
 <!ENTITY find_close "Užverti">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -409,8 +411,8 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Įsegti svetainę">
 <!ENTITY contextmenu_top_sites_unpin "Išsegti svetainę">
 <!ENTITY contextmenu_add_search_engine "Pridėti ieškyklę">
-
-
+<!ENTITY contextmenu_mark_read "Pažymėti kaip skaitytą">
+<!ENTITY contextmenu_mark_unread "Pažymėti kaip neskaitytą">
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
@@ -433,6 +435,8 @@ size. -->
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
+<!ENTITY pref_magnifying_glass_enabled "Padidinti smulkias sritis">
+<!ENTITY pref_magnifying_glass_enabled_summary "Padidinti nuorodas ir formų laukus kai spustelėjama šalia jų">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -580,8 +584,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_insecure "Nesaugus ryšys">
 <!-- Mixed content notifications in site identity popup -->
 
-
-
+<!ENTITY mixed_content_blocked_all1 "„&brandShortName;“ užblokavo nesaugius šio tinklalapio elementus.">
+<!ENTITY mixed_content_blocked_some1 "„&brandShortName;“ užblokavo dalį nesaugių šio tinklalapio elementų.">
+<!ENTITY mixed_content_display_loaded1 "Kai kurios šio tinklalapio dalys nėra saugios (pvz., paveikslai).">
+<!ENTITY mixed_content_protection_disabled1 "Jūs esate išjungę apsaugą nuo nesaugių elementų.">
 <!-- Tracking content notifications in site identity popup -->
 
 <!ENTITY doorhanger_tracking_title "Apsauga nuo stebėjimo">
@@ -599,6 +605,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Privatieji duomenys išvalyti">
 <!ENTITY private_data_fail "Kai kurių privačiųjų duomenų išvalyti nepavyko">
 
+<!ENTITY bookmarkhistory_button_import "Importuoti">
 <!ENTITY bookmarkhistory_import_both "Importuojamas adresynas ir žurnalas 
 iš „Android“">
 <!ENTITY bookmarkhistory_import_bookmarks "Importuojamas adresynas 
@@ -714,8 +721,14 @@ iš „Android“">
 <!ENTITY restriction_disallow_guest_browsing_title2 "Išjungti svečio naršymą">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+
+<!ENTITY bookmarks_about_browser "„Firefox“: apie jūsų naršyklę">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "„Firefox“: individualizuokite naršyklę priedais">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "„Firefox“: pagalba">
 <!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
+<!ENTITY bookmarks_marketplace "„Firefox“ krautuvė">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!ENTITY bookmarks_restricted_support2 "„Firefox“ žinynas ir pagalba apribotiems „Android“ planšečių profiliams">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
