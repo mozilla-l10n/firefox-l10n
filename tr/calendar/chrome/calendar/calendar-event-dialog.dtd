@@ -331,8 +331,8 @@
 <!ENTITY invite.title.label                     "Katılımcıları davet et">
 <!ENTITY event.organizer.label                  "Düzenleyici">
 <!ENTITY event.freebusy.suggest.slot            "Zaman aralığı öner:">
-
-
+<!ENTITY event.freebusy.button.next.slot        "Sonraki zaman aralığı">
+<!ENTITY event.freebusy.button.previous.slot    "Önceki zaman aralığı">
 <!ENTITY event.freebusy.zoom                    "Ölçek:">
 <!ENTITY event.freebusy.legend.free             "Serbest" >
 <!ENTITY event.freebusy.legend.busy             "Meşgul" >
