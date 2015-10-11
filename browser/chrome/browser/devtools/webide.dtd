@@ -192,7 +192,7 @@
 <!-- Logs panel -->
 <!-- Simulator Options -->
 
-<!ENTITY simulator_title "Симулятор опциялары">
+<!ENTITY simulator_title "Симулятор баптаулары">
 <!ENTITY simulator_remove "Симуляторды өшіру">
 <!ENTITY simulator_reset "Бастапқы мәндерін қайтару">
 <!ENTITY simulator_name "Аты">
