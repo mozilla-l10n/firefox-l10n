@@ -14,7 +14,7 @@
 <!ENTITY  noupdatesautoenabled.intro      "کوئی تازہ کاری کریاں دستیاب نہیں۔ &brandShortName; معیادی طور پر 
 تازہ کاریوں کے لیے چیک کرے گا۔">
 <!ENTITY  noupdatesautodisabled.intro     "کوئی تازہ کاریاں دستیاب نہیں۔ آپ کچھ دیر بعد پھر چیک کر لیں یا 
-&amp;برانڈ مختصر نام; کی خودکار تازہ کاری چیکنگ اہل بنا دیں۔">
+&brandShortName; کی خودکار تازہ کاری چیکنگ اہل بنا دیں۔">
 
 <!ENTITY  manualUpdate.title              "تازہ کرنے میں ناکام">
 <!ENTITY  manualUpdate.desc               "تجویز کردہ سلامتی اور سٹیبلیٹی تازہ کاری دستیاب ہے، لیکن 

@@ -12,7 +12,7 @@
 <!ENTITY  button-back-unix.label       "پیچھے">
 <!ENTITY  button-back-unix.accesskey   "پ">
 <!ENTITY  button-next-unix.label       "آگے">
-<!ENTITY  button-next-unix.accesskey   "آ">
+<!ENTITY  button-next-unix.accesskey   "گ">
 <!ENTITY  button-finish-unix.label     "ختم">
 <!ENTITY  button-cancel-unix.label     "مسترد">
 
