@@ -587,7 +587,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; bu səhifədəki təhlükəli elementi blokladı.">
 <!ENTITY mixed_content_blocked_some1 "&brandShortName; bu səhifədəki təhlükəli məzmunun bir hissəsini blokladı.">
 <!ENTITY mixed_content_display_loaded1 "Bu səhifənin bəzi hissələri (şəkillər kimi) təhlükəsiz deyil.">
-
+<!ENTITY mixed_content_protection_disabled1 "Təhlükəli məzmunlardan qorunmanı söndürmüsünüz.">
 <!-- Tracking content notifications in site identity popup -->
 
 <!ENTITY doorhanger_tracking_title "İzlənmə qoruması">
