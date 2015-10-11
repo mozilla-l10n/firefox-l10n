@@ -43,13 +43,13 @@
 <!ENTITY lightning.imipbar.btnAccept.label                                  "Kabul et">
 <!ENTITY lightning.imipbar.btnAccept2.tooltiptext                           "Etkinlik davetini kabul et">
 <!ENTITY lightning.imipbar.btnAcceptRecurrences.label                       "Tümünü kabul et">
-
+<!ENTITY lightning.imipbar.btnAcceptRecurrences2.tooltiptext                "Bu etkinliğin tüm kopyaları için etkinlik davetini kaydet">
 <!ENTITY lightning.imipbar.btnAdd.label                                     "Ekle">
 <!ENTITY lightning.imipbar.btnAdd.tooltiptext                               "Etkinliği takvime ekle">
 <!ENTITY lightning.imipbar.btnDecline.label                                 "Reddet">
 <!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Etkinlik davetini reddet">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Tümünü reddet">
-
+<!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Bu etkinliğin tüm kopyaları için etkinlik davetini reddet">
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Sil">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Takvimden sil">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Ayrıntılar…">

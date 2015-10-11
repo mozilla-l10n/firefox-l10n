@@ -20,12 +20,14 @@
 
 <!ENTITY calendar.deletecalendar.label          "Seçili takvimi sil">
 <!ENTITY calendar.deletecalendar.accesskey      "l">
-
-
+<!ENTITY calendar.unsubscribecalendar.label     "Seçilen takvimin aboneliğinden çık…">
+<!ENTITY calendar.unsubscribecalendar.accesskey "a">
 <!-- LOCALIZATION NOTE (calendar.removecalendar.label): Removing the calendar
       is the general action of removing it, while deleting means to clear the
       data and unsubscribing means just taking it out of the calendar list. -->
 
+<!ENTITY calendar.removecalendar.label          "Seçilen takvimi sil…">
+<!ENTITY calendar.removecalendar.accesskey      "s">
 
 
 <!ENTITY calendar.menu.customize.label          "Özelleştir…">
@@ -33,7 +35,7 @@
 
 <!ENTITY showUnifinderCmd.label                 "Etkinlikleri bul">
 <!ENTITY showUnifinderCmd.accesskey             "b">
-
+<!ENTITY showUnifinderCmd.tooltip               "Etkinlik bulma bölmesini açar/kapatır">
 
 <!ENTITY calendar.displaytodos.checkbox.label       "Görevleri takvim içinde göster">
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "t">

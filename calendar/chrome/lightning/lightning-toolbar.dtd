@@ -8,15 +8,15 @@
 <!ENTITY lightning.toolbar.task.name.accesskey "G">
 
 <!ENTITY lightning.toolbar.sync.label "Eşitle">
-
+<!ENTITY lightning.toolbar.sync.tooltip "Takvimleri yeniden yükle ve değişiklikleri eşitle">
 <!ENTITY lightning.toolbar.delete.label "Sil">
-
+<!ENTITY lightning.toolbar.delete.tooltip "Seçilen etkinlikleri veya görevleri sil">
 <!ENTITY lightning.toolbar.edit.label "Düzenle">
-
-
-
+<!ENTITY lightning.toolbar.edit.tooltip "Seçilen etkinliği veya görevi sil">
+<!ENTITY lightning.toolbar.gototoday.label "Bugüne git">
+<!ENTITY lightning.toolbar.gototoday.tooltip "Bugüne git">
 <!ENTITY lightning.toolbar.print.label "Yazdır">
-
+<!ENTITY lightning.toolbar.print.tooltip "Etkinlikleri veya görevleri yazdır">
 <!-- Mode Toolbar -->
 
 <!ENTITY lightning.toolbar.calendar.label     "Takvim">
