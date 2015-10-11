@@ -13,6 +13,8 @@
      of the Tracking Protection section, and in general not much larger than
      30em to prevent the sections from wrapping on smaller window sizes.
      -->
+
+<!ENTITY aboutPrivateBrowsing.width            "30em">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
      aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
      These strings will be replaced by aboutPrivateBrowsing.forgotten and
@@ -20,18 +22,21 @@
      -->
 
 <!ENTITY aboutPrivateBrowsing.title            "Siz məxfi səyahət edirsiniz">
+<!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; bu pəncərədə keçmişi xatırlamayacaq">
 
-
-
+<!ENTITY aboutPrivateBrowsing.forgotten        "&brandShortName; bu pəncərə bunları xatırlamayacaq:">
+<!ENTITY aboutPrivateBrowsing.info.forgotten   "Saxlanılmayıb">
 <!ENTITY aboutPrivateBrowsing.info.history     "Tarixçə">
-
+<!ENTITY aboutPrivateBrowsing.info.searches    "Axtarışlar">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Çərəzlər">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Müvəqqəti fayllar">
 
-
-
-
+<!ENTITY aboutPrivateBrowsing.kept             "&brandShortName; bunları saxlayacaq:">
+<!ENTITY aboutPrivateBrowsing.info.kept        "Saxlanılıb">
+<!ENTITY aboutPrivateBrowsing.info.downloads   "Endirilənlər">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Əlfəcinlər">
 
+<!ENTITY aboutPrivateBrowsing.note1            "Lütfən unutmayın ki, iş verəniniz və ya internet provayderinizi hələ də daxil olduğunuz səhifələri izləyə bilər.">
 <!ENTITY aboutPrivateBrowsing.learnMore        "Ətraflı Öyrən.">
 <!-- LOCALIZATION NOTE (trackingProtection.width):
      Width of the Tracking Protection section. It is fine for the enabled or
@@ -42,12 +47,18 @@
      different, so testing on Windows, Mac, and Linux is encouraged.
      -->
 
+<!ENTITY trackingProtection.width              "22em">
+<!ENTITY trackingProtection.title              "İzlənmə Qoruması">
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
 
+<!ENTITY trackingProtection.state.width        "8ch">
+<!ENTITY trackingProtection.state.enabled      "AÇIQ">
+<!ENTITY trackingProtection.state.disabled     "QAPALI">
 
+<!ENTITY trackingProtection.description1       "Məxfi pəncərələr artıq səhifədəki səyahətinizi izləyə biləcək hissələri bloklayır.">
 
-
-
-
+<!ENTITY trackingProtection.disable            "İzlənmə Qorumasını Qapat">
+<!ENTITY trackingProtection.enable             "İzlənmə Qorumasını Aç">
+<!ENTITY trackingProtection.startTour1         "Necə işlədiyini görün">

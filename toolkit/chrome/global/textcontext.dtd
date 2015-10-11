@@ -27,7 +27,8 @@
 
 <!ENTITY searchTextBox.clear.label "Təmizlə">
 
-
+<!ENTITY fillLoginMenu.label          "Məlumatları doldur">
+<!ENTITY fillLoginMenu.accesskey      "M">
 
 
 
