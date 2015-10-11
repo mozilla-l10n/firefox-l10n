@@ -163,7 +163,7 @@ functionality specific to firefox. -->
 
 <!ENTITY errorReporting.automatic "भविष्यात स्वयंचलितपणे त्रुटींचा अहवाल पाठवा">
 <!ENTITY errorReporting.learnMore "आणखी शिका…">
-
+<!ENTITY errorReporting.sending "अहवाल पाठवत आहे">
 <!ENTITY errorReporting.sent "अहवाल पाठवला">
 <!ENTITY errorReporting.report "अहवाल पाठवा">
 
