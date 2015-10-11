@@ -16,20 +16,20 @@
 <!ENTITY addExtension.accesskey               "d">
 
 <!ENTITY htmlComposeHeader.label              "HTML">
-<!ENTITY font.label                           "Yazı Tipi:">
+<!ENTITY font.label                           "Yazı tipi:">
 <!ENTITY font.accesskey                       "Y">
 <!ENTITY size.label                           "Boyut:">
 <!ENTITY size.accesskey                       "B">
-<!ENTITY fontColor.label                      "Metin Rengi:">
+<!ENTITY fontColor.label                      "Metin rengi:">
 <!ENTITY fontColor.accesskey                  "t">
-<!ENTITY bgColor.label                        "Arka Plan Rengi:">
+<!ENTITY bgColor.label                        "Arka plan rengi:">
 <!ENTITY bgColor.accesskey                    "n">
-<!ENTITY restoreHTMLDefaults.label            "Varsayılanları Geri Yükle">
-<!ENTITY restoreHTMLDefaults.accesskey        "G">
+<!ENTITY restoreHTMLDefaults.label            "Varsayılanları geri yükle">
+<!ENTITY restoreHTMLDefaults.accesskey        "V">
 
 <!ENTITY spellCheck.label                     "Göndermeden önce yazım denetimi yap">
 <!ENTITY spellCheck.accesskey                 "a">
-<!ENTITY spellCheckInline.label               "Yazma sırasında imla denetimini etkinleştir">
+<!ENTITY spellCheckInline.label               "Yazı yazılırken anında yazım denetimini etkinleştir">
 <!ENTITY spellCheckInline1.accesskey          "k">
 <!ENTITY languagePopup.label                  "Dil:">
 <!ENTITY languagePopup.accessKey              "D">
@@ -45,8 +45,8 @@
 <!ENTITY emailCollectionPicker.accesskey       "t">
 <!ENTITY addressingTitle.label                 "Otomatik Adres Tamamlama">
 <!ENTITY autocompleteText.label                "Adres girerken eşleşen kayıtları bulmak için buraya bak:">
-<!ENTITY addressingEnable.label                "Yerel Adres Defterleri">
-<!ENTITY addressingEnable.accesskey            "A">
+<!ENTITY addressingEnable.label                "Yerel adres defterleri">
+<!ENTITY addressingEnable.accesskey            "a">
 <!ENTITY directories.label                     "Dizin Sunucusu:">
 <!ENTITY directories.accesskey                 "D">
 <!ENTITY directoriesNone.label                 "Hiçbiri">
@@ -54,10 +54,10 @@
 <!ENTITY editDirectories.accesskey             "e">
 
 <!ENTITY sendOptionsDescription.label          "Metin biçimi davranışını yapılandır">
-<!ENTITY sendOptions.label                     "Gönderim Seçenekleri…">
+<!ENTITY sendOptions.label                     "Gönderim seçenekleri…">
 <!ENTITY sendOptions.accesskey                 "m">
 
 <!ENTITY attachmentReminder.label              "Eklenmesi unutulan ekleri denetle">
 <!ENTITY attachmentReminder.accesskey          "d">
-<!ENTITY attachmentReminderOptions.label       "Anahtar Kelimeler…">
+<!ENTITY attachmentReminderOptions.label       "Anahtar kelimeler…">
 <!ENTITY attachmentReminderOptions.accesskey   "A">

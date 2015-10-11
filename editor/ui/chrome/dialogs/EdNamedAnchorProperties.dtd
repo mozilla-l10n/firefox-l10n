@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY windowTitle.label "İsimlendirilmiş Çıpa Özellikleri">
-<!ENTITY anchorNameEditField.label "Çıpa İsmi:">
+<!ENTITY anchorNameEditField.label "Çıpa adı:">
 <!ENTITY anchorNameEditField.accessKey "p">
 <!ENTITY nameInput.tooltip "Bu isimlendirilmiş çıpa (hedef) için benzersiz bir isim girin">
 

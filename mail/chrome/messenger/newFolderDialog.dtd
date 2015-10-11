@@ -4,7 +4,7 @@
 <!-- Labels -->
    
 <!ENTITY newFolderDialog.title      "Yeni Dizin">
-<!ENTITY name.label                 "Dizin ismi:">
+<!ENTITY name.label                 "Dizin adı:">
 <!ENTITY name.accesskey             "D">
 <!ENTITY description.label          "Aşağıdaki dizinin alt dizini olarak oluştur:">
 <!ENTITY description.accesskey      "k">

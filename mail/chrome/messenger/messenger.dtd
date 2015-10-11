@@ -59,7 +59,7 @@
 <!ENTITY subscribeCmd.accesskey "A">
 <!ENTITY deleteFolder.label "Dizini sil">
 <!ENTITY deleteFolder.accesskey "i">
-<!ENTITY renameFolder.label "Dizinin ismini değiştir…">
+<!ENTITY renameFolder.label "Dizinin adını değiştir…">
 <!ENTITY renameFolder.accesskey "i">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Dizinleri sıkıştır">

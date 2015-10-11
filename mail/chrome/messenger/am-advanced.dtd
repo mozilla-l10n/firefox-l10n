@@ -20,7 +20,7 @@
 <!ENTITY smtpListSetDefault.accesskey "V">
 
 <!ENTITY serverDescription.label "Açıklama: ">
-<!ENTITY serverName.label "Sunucu ismi: ">
+<!ENTITY serverName.label "Sunucu adı: ">
 <!ENTITY serverPort.label "Port: ">
 <!ENTITY userName.label   "Kullanıcı adı: ">
 <!ENTITY connectionSecurity.label "Bağlantı güvenliği: ">

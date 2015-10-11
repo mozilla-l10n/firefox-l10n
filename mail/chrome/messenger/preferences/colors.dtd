@@ -9,8 +9,8 @@
 <!ENTITY  overridePageColors.label        "İçerikte belirtilen renkler yerine aşağıdaki tercihlerimi kullan:">
 <!ENTITY  overridePageColors.accesskey    "u">
 
-<!ENTITY  overridePageColors.always.label "Her Zaman">
-<!ENTITY  overridePageColors.auto.label   "Yüksek Karşıtlık olan temalarda">
+<!ENTITY  overridePageColors.always.label "Her zaman">
+<!ENTITY  overridePageColors.auto.label   "Yalnızca yüksek karşıtlıklı temalarda">
 <!ENTITY  overridePageColors.never.label  "Asla">
 
 <!ENTITY  color                           "Metin ve Arka Plan">

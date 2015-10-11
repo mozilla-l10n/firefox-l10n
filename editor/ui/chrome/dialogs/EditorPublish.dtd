@@ -53,13 +53,13 @@
 <!ENTITY siteUrl.tooltip              "İSS'niz veya barındırma sağlayıcınız tarafından size verilen FTP:// veya HTTP:// adresi">
 <!ENTITY browseUrl.label              "Ana sayfanızın HTTP adresi (örn.: 'http://www.adresim.com/kullaniciadi'):">
 <!ENTITY browseUrl.accesskey          "H">
-<!ENTITY browseUrl.tooltip            "Ana dizininizin HTTP:// adresi (dosya ismi vermeyin)">
+<!ENTITY browseUrl.tooltip            "Ana dizininizin HTTP:// adresi (dosya adı eklemeyin)">
 <!ENTITY username.label               "Kullanıcı adı:">
 <!ENTITY username.accesskey           "u">
 <!ENTITY username.tooltip             "İSS'nize veya barındırma sağlayıcınıza oturum açmak için kullandığınız kullanıcı adı">
 <!ENTITY password.label               "Parola:">
 <!ENTITY password.accesskey           "P">
-<!ENTITY password.tooltip             "Kullanıcı ismine ait parola">
+<!ENTITY password.tooltip             "Kullanıcı adınıza ait parola">
 <!ENTITY savePassword.label           "Parolayı Kaydet">
 <!ENTITY savePassword.accesskey       "K">
 <!ENTITY savePassword.tooltip         "Parolanızı Parola Yöneticisi ile kaydetmek için bunu seçin">
