@@ -224,8 +224,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "ॲडऑन्स">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
-
-
+<!ENTITY webapps.label                "ॲप्स">
+<!ENTITY webapps.accesskey            "ॲ">
 
 <!ENTITY webDeveloperMenu.label       "वेब डेव्हलपर">
 <!ENTITY webDeveloperMenu.accesskey   "W">
@@ -400,7 +400,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.switchToTab.label     "टॅबचा वापर करा:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "अधिक जाणून घ्या…">
-
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "नाही">
 
 <!ENTITY urlbar.searchSuggestionsNotification.enable "होय">
@@ -701,6 +701,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Strings for connection state warnings in the subview. -->
 
+<!ENTITY identity.description.insecure "ह्या साईटवरची आपली जोडणी खाजगी नाही. आपण जी माहिती जमा करता आहात (जसे कि सांकेतिक शब्द, संदेश, क्रेडीट कार्ड इत्यादी) ते इतर लोक पाहू शकतात.">
+
 
 <!ENTITY identity.description.weakCipher2 "इतर लोक तुमची माहिती पाहू शकतात किंवा वेबसाईटचे वर्तन बदलू शकतात. ">
 
@@ -840,7 +842,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
-
+<!ENTITY panicButton.view.5min                    "पाच मिनिटे">
 <!ENTITY panicButton.view.2hr                     "दोन तास">
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
