@@ -9,6 +9,6 @@
 <!ENTITY refreshProfile.dialog.items.label2  "اپنے براؤزر کی ترتیبات کو طےشدہ پہ بحال کریں">
 <!ENTITY refreshProfile.dialog.button.label  "&brandShortName; تازہ کریں">
 
-
+<!ENTITY refreshProfile.button.label         "&brandShortName; تازہ کریں…">
 
 <!ENTITY refreshProfile.cleaning.description "تقریبا ختم…">
