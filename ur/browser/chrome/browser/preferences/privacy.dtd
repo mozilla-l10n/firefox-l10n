@@ -20,12 +20,13 @@
 
 <!ENTITY  locationBar.label             "مقام بند">
 
+<!ENTITY  locbar.suggest.label          "محل وقوع بار استعمال کرتے وقت، تجویز دیں:">
 <!ENTITY  locbar.history.label          "سابقات">
 <!ENTITY  locbar.history.accesskey      "س">
 <!ENTITY  locbar.bookmarks.label        "نشانیاں">
 <!ENTITY  locbar.bookmarks.accesskey    "ن">
-
-
+<!ENTITY  locbar.openpage.label         "ٹیب کھولیے">
+<!ENTITY  locbar.openpage.accesskey     "ک">
 <!ENTITY  locbar.searches.label         "تحقیق و تکمیل کاری تلاش کرتا ہے طےشدہانجن  سے">
 <!ENTITY  locbar.searches.accesskey     "d">
 
@@ -41,7 +42,8 @@
 <!ENTITY  acceptThirdParty.never.label    "کبھی نہیں">
 <!ENTITY  acceptThirdParty.visited.label  "ملاحظہ شدہ سے">
 
-
+<!ENTITY  keepUntil.label               "رکھیں جب تک:">
+<!ENTITY  keepUntil.accesskey           "ر">
 
 <!ENTITY  expire.label                  "یہ ایکسبائر ہو جائیں">
 <!ENTITY  close.label                   "میں &brandShortName; بند کروں">

@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  pageInfoWindow.width  "۶۰۰">
-
+<!ENTITY  pageInfoWindow.height "550">
 
 <!ENTITY  copy.key              "س">
 <!ENTITY  copy.label            "نقل کریں ">
@@ -22,7 +22,7 @@
 <!ENTITY  generalReferrer       "یو آر ایل کا حوالہ دے رہا ہے:">
 <!ENTITY  generalSource         "کیسہ ماخذ:">
 <!ENTITY  generalModified       "ترمیم شدہ:">
-
+<!ENTITY  generalEncoding2      "متن کی ضابطہ بندی:">
 <!ENTITY  generalMetaName       "نام">
 <!ENTITY  generalMetaContent    "مشمول">
 
