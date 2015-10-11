@@ -24,7 +24,7 @@
 <!ENTITY biffStart.accesskey "h">
 <!ENTITY biffEnd.label "dakikada bir kontrol et">
 <!ENTITY connectionSecurity.label "Bağlantı güvenliği: ">
-<!ENTITY connectionSecurity.accesskey "g">
+<!ENTITY connectionSecurity.accesskey "ü">
 <!ENTITY connectionSecurityType-0.label "Hiçbiri">
 <!ENTITY connectionSecurityType-1.label "STARTTLS, mevcutsa">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
@@ -47,15 +47,15 @@
 <!ENTITY modelMoveToTrash.label "Bu dizine taşı:">
 <!ENTITY modelMoveToTrash.accesskey "e">
 <!ENTITY modelMarkDeleted.label "Yalnızca silinmiş olarak işaretle">
-<!ENTITY modelMarkDeleted.accesskey "s">
+<!ENTITY modelMarkDeleted.accesskey "o">
 <!ENTITY modelDeleteImmediately.label "Hemen sil">
-<!ENTITY modelDeleteImmediately.accesskey "H">
+<!ENTITY modelDeleteImmediately.accesskey "m">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "Gelen kutusunu çıkışta temizle (&quot;sil&quot;)">
 <!ENTITY expungeOnExit.accesskey "t">
 <!ENTITY emptyTrashOnExit.label "Çıkışta Çöp'ü boşalt">
 <!ENTITY emptyTrashOnExit.accesskey "k">
-<!ENTITY loginAtStartup.label "Başlarken yeni iletileri denetle">
+<!ENTITY loginAtStartup.label "Başlarken yeni iletileri kontrol et">
 <!ENTITY loginAtStartup.accesskey "B">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
@@ -84,7 +84,7 @@
 
 <!ENTITY accountTitle.label "Hesap Ayaları">
 <!ENTITY accountSettingsDesc.label "Bu bir özel hesaptır. Bu hesaba ilişkin kimlik bulunmamaktadır.">
-<!ENTITY storeType.label "İleti Depolama Türü:">
-<!ENTITY storeType.accesskey "T">
+<!ENTITY storeType.label "İleti depolama türü:">
+<!ENTITY storeType.accesskey "d">
 <!ENTITY mboxStore2.label "Klasör başına dosya (mbox)">
 <!ENTITY maildirStore.label "Her ileti için bir dosya (maildir)">

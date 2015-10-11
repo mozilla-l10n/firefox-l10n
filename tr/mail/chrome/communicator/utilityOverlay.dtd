@@ -38,9 +38,9 @@
 
 <!ENTITY viewMenu.label          "Görünüm">
 <!ENTITY viewMenu.accesskey        "G">
-<!ENTITY viewToolbarsMenu.label        "Araç Çubukları">
+<!ENTITY viewToolbarsMenu.label        "Araç çubukları">
 <!ENTITY viewToolbarsMenu.accesskey      "A">
-<!ENTITY showTaskbarCmd.label          "Durum Çubuğu">
+<!ENTITY showTaskbarCmd.label          "Durum çubuğu">
 <!ENTITY showTaskbarCmd.accesskey        "u">
 
 <!ENTITY closeCmd.label      "Kapat">

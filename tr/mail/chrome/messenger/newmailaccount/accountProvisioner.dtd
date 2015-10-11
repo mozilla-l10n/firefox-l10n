@@ -26,7 +26,7 @@
 <!ENTITY existing.header "Kullanmak istediğiniz hâlihazırda bir adresiniz mı var?">
 <!ENTITY tinyheader.title "Adresiniz var mı?">
 <!ENTITY tinyheader.existing "Bunu geç ve mevcut e-postamı kullan">
-<!ENTITY content.close "Sanırım hesabımı daha sonra yapılandıracağım.">
+<!ENTITY content.close "Hesabımı daha sonra yapılandıracağım.">
 <!ENTITY successful.title "Tebrikler!">
 <!ENTITY successful.successMessage "Hesabınızı başarıyla kurdunuz.">
 <!ENTITY successful.write "Birkaç e-posta yazın">

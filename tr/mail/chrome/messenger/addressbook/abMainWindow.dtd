@@ -82,13 +82,13 @@
 
 <!ENTITY viewMenu.label                                 "Görünüm">
 <!ENTITY viewMenu.accesskey                             "n">
-<!ENTITY viewToolbarsMenu.label                         "Araç Çubukları">
+<!ENTITY viewToolbarsMenu.label                         "Araç çubukları">
 <!ENTITY viewToolbarsMenu.accesskey                     "A"> 
-<!ENTITY menubarCmd.label                               "Menü Çubuğu">
+<!ENTITY menubarCmd.label                               "Menü çubuğu">
 <!ENTITY menubarCmd.accesskey                           "M">
-<!ENTITY showAbToolbarCmd.label                         "Adres Defteri Araç Çubuğu">
+<!ENTITY showAbToolbarCmd.label                         "Adres defteri araç çubuğu">
 <!ENTITY showAbToolbarCmd.accesskey                     "d">
-<!ENTITY showTaskbarCmd.label                           "Durum Çubuğu">
+<!ENTITY showTaskbarCmd.label                           "Durum çubuğu">
 <!ENTITY showTaskbarCmd.accesskey                       "D">
 <!ENTITY customizeToolbar.label                         "Özelleştir…">
 <!ENTITY customizeToolbar.accesskey                     "z">
@@ -129,8 +129,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY preferencesCmdUnix.accesskey                   "c">
 <!-- Address Book Toolbar and Context Menus -->  
 
-<!ENTITY newContactButton.label                         "Yeni Kişi">
-<!ENTITY newContactButton.accesskey                     "K">
+<!ENTITY newContactButton.label                         "Yeni kişi">
+<!ENTITY newContactButton.accesskey                     "k">
 <!ENTITY newlistButton.label                            "Yeni Liste">
 <!ENTITY newlistButton.accesskey                        "Y">
 <!ENTITY editButton2.label                              "Özellikler">

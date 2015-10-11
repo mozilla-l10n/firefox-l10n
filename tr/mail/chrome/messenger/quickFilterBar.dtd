@@ -6,13 +6,13 @@
      the quick filter bar.
      -->
 
-<!ENTITY quickFilterBar.qfbShowFilterBar.label "Hızlı Süzgeç">
+<!ENTITY quickFilterBar.qfbShowFilterBar.label "Hızlı süzgeç">
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.menu.label):
      The label to display for the "View... Toolbars..." menu item that controls
      whether the quick filter bar is visible.
      -->
 
-<!ENTITY quickFilterBar.toggleBarVisibility.menu.label "Hızlı Süzgeç Çubuğu">
+<!ENTITY quickFilterBar.toggleBarVisibility.menu.label "Hızlı süzgeç çubuğu">
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.menu.accesskey):
      The access key for the "View... Toolbars..." menu item label that controls
      whether the quick filter bar is visible.
@@ -24,7 +24,7 @@
      controls whether the quick filter bar is visible.
      -->
 
-<!ENTITY quickFilterBar.toggleBarVisibility.appmenu.label "Hızlı Süzgeç Çubuğu">
+<!ENTITY quickFilterBar.toggleBarVisibility.appmenu.label "Hızlı süzgeç çubuğu">
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.button.tooltip):
      The tooltip to display when hovering over the button on the tab bar that
      toggles the visibility of the quick filter bar.
