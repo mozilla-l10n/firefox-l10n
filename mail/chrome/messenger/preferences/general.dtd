@@ -22,8 +22,8 @@
 <!ENTITY customizeMailAlert.label         "Özelleştir…">
 <!ENTITY customizeMailAlert.accesskey     "z">
 
-<!ENTITY showTrayIcon.label               "Sistem tepsisinde simge göster">
-<!ENTITY showTrayIcon.accesskey           "t">
+<!ENTITY showTrayIcon.label               "Bildirim alanında simge göster">
+<!ENTITY showTrayIcon.accesskey           "a">
 
 <!ENTITY play.label                       "Çal">
 <!ENTITY play.accesskey                   "l">

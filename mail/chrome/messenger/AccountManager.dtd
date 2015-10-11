@@ -14,8 +14,8 @@
 <!ENTITY addIMAccountButton.accesskey "e">
 <!ENTITY addFeedAccountButton.label "Besleme Hesabı Ekle…">
 <!ENTITY addFeedAccountButton.accesskey "B">
-<!ENTITY addOtherAccountButton.label "Diğer Bir Hesap Ekle…">
-<!ENTITY addOtherAccountButton.accesskey "D">
+<!ENTITY addOtherAccountButton.label "Başka hesap ekle…">
+<!ENTITY addOtherAccountButton.accesskey "B">
 <!ENTITY setDefaultButton.label "Varsayılan Olarak Ayarla">
 <!ENTITY setDefaultButton.accesskey "n">
 <!ENTITY removeButton.label "Hesabı Kaldır">

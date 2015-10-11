@@ -28,5 +28,5 @@
 <!ENTITY accountProxySettings.change.accessKey "D">
 
 <!ENTITY accountSummaryTitle.label   "Özet">
-<!ENTITY accountSummaryInfo.label    "Girdiğiniz bilgilerin özeti aşağıda görüntülenmektedir. Lütfen hesabınızı oluşturmadan önce kontrol edin. ">
+<!ENTITY accountSummaryInfo.label    "Girdiğiniz bilgilerin özeti aşağıda görüntülenmektedir. Lütfen hesabınızı oluşturmadan önce kontrol edin.">
 <!ENTITY accountSummary.connectNow.label "Bu hesabı şimdi bağla.">

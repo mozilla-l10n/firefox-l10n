@@ -66,13 +66,13 @@
 <!ENTITY compactFolders.accesskey    "D">
 <!ENTITY emptyTrashCmd.label "Çöpü boşalt">
 <!ENTITY emptyTrashCmd.accesskey    "p">
-<!ENTITY offlineMenu.label "Çevrim dışı">
+<!ENTITY offlineMenu.label "Çevrimdışı">
 <!ENTITY offlineMenu.accesskey "m">
-<!ENTITY offlineGoOfflineCmd.label "Çevrim dışı çalış">
+<!ENTITY offlineGoOfflineCmd.label "Çevrimdışı çalış">
 <!ENTITY offlineGoOfflineCmd.accesskey "v">
 <!ENTITY synchronizeOfflineCmd.label "Şimdi indir/eşitle…">
 <!ENTITY synchronizeOfflineCmd.accesskey "m">
-<!ENTITY settingsOfflineCmd2.label "Çevrim dışı ayarları">
+<!ENTITY settingsOfflineCmd2.label "Çevrimdışı ayarları">
 <!ENTITY settingsOfflineCmd2.accesskey "d">
 <!ENTITY downloadSelectedCmd.label "Seçili iletileri indir">
 <!ENTITY downloadSelectedCmd.accesskey "i">
@@ -458,7 +458,7 @@
 <!ENTITY imAccountsStatus.accesskey "S">
 <!ENTITY imStatus.available          "Müsait">
 <!ENTITY imStatus.unavailable        "Müsait değil">
-<!ENTITY imStatus.offline            "Çevrim dıșı">
+<!ENTITY imStatus.offline            "Çevrimdıșı">
 <!ENTITY imStatus.showAccounts       "Hesapları göster…">
 <!ENTITY joinChatCmd.label "Sohbete katıl…">
 <!ENTITY joinChatCmd.accesskey "k">

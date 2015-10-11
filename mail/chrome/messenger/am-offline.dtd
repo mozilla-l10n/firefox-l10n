@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY doNotDownloadPop3Movemail.label "Disk alanı tasarrufu için şunları indirme:">
-<!ENTITY doNotDownloadNntp.label "Disk alanı tasarrufu için şunları çevrim dışı kullanılmak üzere indirme:">
-<!ENTITY doNotDownloadImap.label "Disk alanından tasarruf etmek için sunucudaki iletilerin indirilmesi ve çevrim dışı için yerel kopyalarının bulundurması boyut veya yaş ile sınırlandırılabilir.">
+<!ENTITY doNotDownloadNntp.label "Disk alanı tasarrufu için şunları çevrimdışı kullanılmak üzere indirme:">
+<!ENTITY doNotDownloadImap.label "Disk alanından tasarruf etmek için sunucudaki iletilerin indirilmesi ve çevrimdışı için yerel kopyalarının bulundurması boyut veya yaş ile sınırlandırılabilir.">
 <!ENTITY allFoldersOffline.label "Hesaba ait iletileri bu bilgisayarda tut">
 <!ENTITY allFoldersOffline.accesskey "H">
 <!ENTITY offlineNotDownload.label "İleti">
@@ -33,7 +33,7 @@
 <!ENTITY retentionApplyToFlagged.accesskey "Y">
 <!ENTITY nntpRemoveMsgBody.label "İleti gövdesi">
 <!ENTITY nntpRemoveMsgBody.accesskey "ö">
-<!ENTITY offlineSelectNntp.label "Çevrim dışı kullanım için haber grubu seçin…">
+<!ENTITY offlineSelectNntp.label "Çevrimdışı kullanılacak haber gruplarını seçin…">
 <!ENTITY offlineSelectNntp.accesskey "s">
 <!ENTITY offlineImapAdvancedOffline.label "Gelişmiş…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "G">

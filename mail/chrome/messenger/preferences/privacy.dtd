@@ -25,12 +25,12 @@
 <!ENTITY acceptThirdParty.visited.label "Ziyaret edilenlerden">
 <!ENTITY keepUntil.label "Tutma sınırı:">
 <!ENTITY keepUntil.accesskey "T">
-<!ENTITY expire.label "süresi dolana dek">
+<!ENTITY expire.label "Süresi dolana dek">
 <!ENTITY close.label "&brandShortName; kapatılana dek">
-<!ENTITY askEachTime.label "her seferinde bana sor">
+<!ENTITY askEachTime.label "Her seferinde bana sor">
 <!ENTITY cookieExceptions.label "Ayrıcalıklar…">
 <!ENTITY cookieExceptions.accesskey "A">
-<!ENTITY showCookies.label "Çerezleri Göster…">
+<!ENTITY showCookies.label "Çerezleri göster…">
 <!ENTITY showCookies.accesskey "z">
 
 <!ENTITY dntTrackingNotOkay.label2 "Sitelere izlenmek istemediğimi söyle">

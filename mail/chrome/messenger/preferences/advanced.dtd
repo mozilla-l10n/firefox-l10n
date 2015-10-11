@@ -9,12 +9,12 @@
 <!ENTITY itemCertificates.label  "Onay Belgeleri">
 <!-- General Settings -->
 
-<!ENTITY enableGlodaSearch.label       "Küresel Aramayı ve Dizin Oluşturmayı Etkinleştir">
-<!ENTITY enableGlodaSearch.accesskey   "e">
+<!ENTITY enableGlodaSearch.label       "Küresel aramayı ve dizin oluşturmayı etkinleştir">
+<!ENTITY enableGlodaSearch.accesskey   "o">
 <!ENTITY allowHWAccel.label            "Mümkün olduğunda donanım ivmelenmesini kullan">
 <!ENTITY allowHWAccel.accesskey        "d">
-<!ENTITY storeType.label               "Yeni hesaplarda İleti Depolama Türü">
-<!ENTITY storeType.accesskey           "T">
+<!ENTITY storeType.label               "Yeni hesaplarda ileti depolama türü:">
+<!ENTITY storeType.accesskey           "t">
 <!ENTITY mboxStore2.label              "Klasör başına dosya (mbox)">
 <!ENTITY maildirStore.label            "Her ileti için bir dosya (maildir)">
 
@@ -29,13 +29,13 @@
 <!ENTITY alwaysCheckDefault.accesskey  "h">
 <!ENTITY searchIntegration.label       "&searchIntegration.engineName; uygulamasının iletileri aramasına izin ver">
 <!ENTITY searchIntegration.accesskey   "s">
-<!ENTITY checkDefaultsNow.label        "Şimdi Denetle…">
+<!ENTITY checkDefaultsNow.label        "Şimdi denetle…">
 <!ENTITY checkDefaultsNow.accesskey    "n">
 <!ENTITY configEditDesc.label          "Gelişmiş Yapılandırma">
-<!ENTITY configEdit.label              "Yapılandırma Düzenleyici…">
+<!ENTITY configEdit.label              "Yapılandırma düzenleyici…">
 <!ENTITY configEdit.accesskey          "z">
 <!ENTITY returnReceiptsInfo.label      "&brandShortName; uygulamasının alındı onayı gönderme ayarlarını belirleyin">
-<!ENTITY showReturnReceipts.label      "Alındı Onayları…">
+<!ENTITY showReturnReceipts.label      "Alındı onayları…">
 <!ENTITY showReturnReceipts.accesskey  "A">
 <!-- Data Choices -->
 
@@ -43,13 +43,13 @@
 <!ENTITY telemetryDesc.label             "&brandShortName; uygulamasını iyileştirmemize yardımcı olmak için e-posta istemcinizle ilgili performans, kullanım, donanım ve özelleştirme verilerini &vendorShortName; ile paylaşır">
 <!ENTITY enableTelemetry.label           "Telemetry'yi etkinleştir">
 <!ENTITY enableTelemetry.accesskey       "T">
-<!ENTITY telemetryLearnMore.label        "Daha Fazlasını Öğren">
+<!ENTITY telemetryLearnMore.label        "Daha fazla bilgi alın">
 
 <!ENTITY crashReporterSection.label      "Çökme Habercisi">
 <!ENTITY crashReporterDesc.label         "&brandShortName;, e-posta istemcinizi daha kararlı ve güvenli hâle getirmemize yardımcı olmak için çökme raporlarını &vendorShortName; sunucularına gönderir">
 <!ENTITY enableCrashReporter.label       "Çökme Habercisi'ni etkinleştir">
 <!ENTITY enableCrashReporter.accesskey   "Ç">
-<!ENTITY crashReporterLearnMore.label    "Daha Fazlasını Öğren">
+<!ENTITY crashReporterLearnMore.label    "Daha fazla bilgi alın">
 <!-- Update -->
 
 <!ENTITY updateApp.label                 "&brandShortName; güncellemeleri:">
@@ -61,7 +61,7 @@
 <!ENTITY updateManual.accesskey          "a">
 <!ENTITY updateAutoAddonWarn.label       "Bu işlem herhangi bir eklentimi devre dışı bırakacaksa beni uyar">
 <!ENTITY updateAutoAddonWarn.accesskey   "B">
-<!ENTITY updateHistory.label             "Güncelleme Geçmişini Göster">
+<!ENTITY updateHistory.label             "Güncelleme geçmişini göster">
 <!ENTITY updateHistory.accesskey         "n">
 
 <!ENTITY useService.label                "Güncellemeleri kurmak için arka plan hizmetini kullan">
@@ -103,7 +103,7 @@
 <!ENTITY enableOCSP.label                "Onay belgelerinin geçerliliğini doğrulamak için OCSP yanıt sunucularını sorgula">
 <!ENTITY enableOCSP.accesskey            "O">
 
-<!ENTITY viewCertificates.label         "Onay Belgelerini Göster">
-<!ENTITY viewCertificates.accesskey     "a">
+<!ENTITY viewCertificates.label         "Sertifikaları göster">
+<!ENTITY viewCertificates.accesskey     "S">
 <!ENTITY viewSecurityDevices.label      "Güvenlik Aygıtları">
 <!ENTITY viewSecurityDevices.accesskey  "G">

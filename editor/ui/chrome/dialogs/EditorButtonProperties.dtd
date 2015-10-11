@@ -18,7 +18,7 @@
 <!ENTITY ButtonValue.accesskey "D">
 <!ENTITY tabIndex.label "Sekme Endeksi:">
 <!ENTITY tabIndex.accesskey "e">
-<!ENTITY ButtonDisabled.label "Devre Dışı">
+<!ENTITY ButtonDisabled.label "Devre dışı">
 <!ENTITY ButtonDisabled.accesskey "D">
 <!ENTITY AccessKey.label "Erişim Tuşu:">
 <!ENTITY AccessKey.accesskey "E">
