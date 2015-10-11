@@ -9,5 +9,5 @@
 <!ENTITY addAccountDialog.createAccountText2 "Büyük ekleri göndermek için çeşitli çevrimiçi depolama servislerini kullanabilirsiniz. Lütfen mevcut hesabınızı kurun veya yeni bir hesap açın.">
 <!ENTITY addAccountDialog.authorizing "Yetkilendirme denetleniyor...">
 <!ENTITY addAccountDialog.error "Hesabınız kurulurken bir hata oluştu!">
-<!ENTITY addAccountDialog.acceptButton.label "Hesap Ekle">
+<!ENTITY addAccountDialog.acceptButton.label "Hesabı kur">
 <!ENTITY addAccountDialog.learnMore "Daha fazla bilgi alın…">

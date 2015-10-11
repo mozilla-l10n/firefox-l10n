@@ -38,7 +38,7 @@
 
 <!ENTITY status.available          "Müsait">
 <!ENTITY status.unavailable        "Müsait değil">
-<!ENTITY status.offline            "Çevrim dışı">
+<!ENTITY status.offline            "Çevrimdışı">
 
 <!ENTITY openLinkCmd.label            "Bağlantıyı aç…">
 <!ENTITY openLinkCmd.accesskey        "B">

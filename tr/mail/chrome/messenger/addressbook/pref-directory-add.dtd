@@ -31,7 +31,7 @@
 <!ENTITY return.label                      "Sonuç üst sınırı:">
 <!ENTITY return.accesskey                  "ü">
 <!ENTITY results.label                     "sonuç">
-<!ENTITY offlineText.label                 "Çevrim dışı çalıştığınızda kullanabilmek için bu dizinin yerel bir kopyasını alabilirsiniz.">
+<!ENTITY offlineText.label                 "Çevrimdışı çalıştığınızda kullanabilmek için bu dizinin yerel bir kopyasını alabilirsiniz.">
 <!ENTITY saslMechanism.label               "Giriş yöntemi: ">
 <!ENTITY saslMechanism.accesskey           "y">
 <!ENTITY saslOff.label                     "Basit">

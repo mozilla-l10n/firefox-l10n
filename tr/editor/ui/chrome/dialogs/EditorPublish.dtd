@@ -60,6 +60,6 @@
 <!ENTITY password.label               "Parola:">
 <!ENTITY password.accesskey           "P">
 <!ENTITY password.tooltip             "Kullanıcı adınıza ait parola">
-<!ENTITY savePassword.label           "Parolayı Kaydet">
-<!ENTITY savePassword.accesskey       "K">
+<!ENTITY savePassword.label           "Parolayı kaydet">
+<!ENTITY savePassword.accesskey       "k">
 <!ENTITY savePassword.tooltip         "Parolanızı Parola Yöneticisi ile kaydetmek için bunu seçin">

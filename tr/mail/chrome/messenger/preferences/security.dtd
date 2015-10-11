@@ -21,11 +21,11 @@
 <!ENTITY enableAdaptiveJunkLogging.accesskey "n">
 <!ENTITY openJunkLog.label "Günlüğü göster">
 <!ENTITY openJunkLog.accesskey "G">
-<!ENTITY resetTrainingData.label "Eğitim Verilerini Sıfırla">
+<!ENTITY resetTrainingData.label "Eğitim verilerini sıfırla">
 <!ENTITY resetTrainingData.accesskey "r">
 <!-- Phishing Detector -->
 
-<!ENTITY phishingDetector1.intro  "&brandShortName; sizi aldatmaya yönelik ortak yöntemleri arayarak şüpheli e-posta dolandırıcılarına karşı iletileri inceleyebilir.">
+<!ENTITY phishingDetector1.intro  "&brandShortName; sizi aldatmaya yönelik sık kullanılan teknikleri arayarak şüpheli e-posta dolandırıcılarına karşı iletileri inceleyebilir.">
 <!ENTITY enablePhishingDetector1.label    "Okuduğum iletinin sahtekârlık girişimi olup olmadığını bana söyle">
 <!ENTITY enablePhishingDetector1.accesskey  "O">
 <!ENTITY useDownloadedList.label "Şüpheli sahtekârlık iletilerin indirilmiş listesini kullan">
@@ -35,14 +35,14 @@
 <!ENTITY savedPasswords.intro           "&brandShortName; bütün hesaplarınızın parolalarını hatırlayabilir.">
 <!ENTITY useMasterPassword.label        "Ana parola kullan">
 <!ENTITY useMasterPassword.accesskey    "A">
-<!ENTITY masterPassword.intro           "Ana Parola bütün parolalarınızı korur, ama her oturumda Ana Parola'yı tekrar girmeniz gerekir.">
-<!ENTITY changeMasterPassword.label     "Ana Parolayı Değiştir…">
+<!ENTITY masterPassword.intro           "Ana parola bütün parolalarınızı korur. Her oturumda ana parolayı bir kez yazmanız gerekir.">
+<!ENTITY changeMasterPassword.label     "Ana parolayı değiştir…">
 <!ENTITY changeMasterPassword.accesskey "n">
 <!ENTITY savedPasswords.label           "Kayıtlı parolalar…">
 <!ENTITY savedPasswords.accesskey       "K">
 <!-- Anti Virus -->
 
 <!ENTITY antiVirus.intro      "&brandShortName; antivirüs yazılımlarının gelen iletilerin depolanmadan önce virüslere karşı çözümlenmesini kolaylaştırabilir.">
-<!ENTITY antiVirus.label      "Antivirüs yazılımlarının gelen iletileri bireysel olarak karantinaya almasına izin ver">
+<!ENTITY antiVirus.label      "Antivirüs yazılımlarının gelen iletileri tek tek karantinaya almasına izin ver">
 <!ENTITY antiVirus.accesskey  "A">
 

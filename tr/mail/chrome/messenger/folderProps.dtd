@@ -39,12 +39,12 @@
 <!ENTITY folderCheckForNewMessages2.label         "Bu hesap için yeni ileti alırken her zaman bu dizini denetle">
 <!ENTITY folderCheckForNewMessages2.accesskey     "y">
 
-<!ENTITY offlineFolder.check.label               "Bu dizini çevrim dışı kullanım için seç">
+<!ENTITY offlineFolder.check.label               "Bu dizini çevrimdışı kullanım için seç">
 <!ENTITY offlineFolder.check.accesskey           "v">
 <!ENTITY offlineFolder.button.label              "Şimdi indir">
 <!ENTITY offlineFolder.button.accesskey          "d">
 
-<!ENTITY selectofflineNewsgroup.check.label      "Bu haber grubunu çevrim dışı kullanımı için seç">
+<!ENTITY selectofflineNewsgroup.check.label      "Bu haber grubunu çevrimdışı kullanımı için seç">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "u">
 <!ENTITY offlineNewsgroup.button.label           "Şimdi indir">
 <!ENTITY offlineNewsgroup.button.accesskey       "d">
