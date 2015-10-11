@@ -108,18 +108,18 @@
 <!ENTITY viewMenu.accesskey "G">
 <!ENTITY viewToolbarsMenuNew.label "Araç Çubukları">
 <!ENTITY viewToolbarsMenuNew.accesskey "b">
-<!ENTITY menubarCmd.label "Menü Çubuğu">
+<!ENTITY menubarCmd.label "Menü çubuğu">
 <!ENTITY menubarCmd.accesskey "M">
-<!ENTITY showCompositionToolbarCmd.label "Düzenleme Araç Çubuğu">
+<!ENTITY showCompositionToolbarCmd.label "Düzenleme araç çubuğu">
 <!ENTITY showCompositionToolbarCmd.accesskey "D">
-<!ENTITY showFormattingBarCmd.label "Biçimlendirme Çubuğu">
+<!ENTITY showFormattingBarCmd.label "Biçimlendirme çubuğu">
 <!ENTITY showFormattingBarCmd.accesskey "B">
-<!ENTITY showTaskbarCmd.label "Durum Çubuğu">
+<!ENTITY showTaskbarCmd.label "Durum çubuğu">
 <!ENTITY showTaskbarCmd.accesskey "u">
 <!ENTITY customizeToolbar.label "Özelleştir…">
 <!ENTITY customizeToolbar.accesskey "Ö">
 
-<!ENTITY addressSidebar.label "Kişiler Kenar Çubuğu">
+<!ENTITY addressSidebar.label "Kişiler kenar çubuğu">
 <!ENTITY addressSidebar.accesskey "K">
 <!-- Format Menu -->
 

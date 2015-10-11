@@ -11,12 +11,12 @@
 
 <!ENTITY accountSetupInfo2.label "İleti almak için öncelikle bir hesap kurmalısınız.">
 <!ENTITY accountTypeTitle.label "Yeni Hesap Kurulumu">
-<!ENTITY accountTypeDesc2.label "Bu sihirbaz, hesap kurulumu için gereken bilgileri toplayacak. İstenen bilgilere sahip değilseniz lütfen Sistem Yöneticisi veya İnternet Servis Sağlayıcı ile iletişime geçin.">
+<!ENTITY accountTypeDesc2.label "Bu sihirbaz, hesap kurulumu için gereken bilgileri toplayacak. İstenen bilgilere sahip değilseniz lütfen sistem yöneticiniz veya internet servis sağlayıcınızla iletişime geçin.">
 <!ENTITY accountTypeDirections.label "Eklemek istediğiniz hesap türünü seçin:">
 <!ENTITY accountTypeMail.label "E-posta hesabı">
 <!ENTITY accountTypeMail.accesskey "p">
 <!ENTITY accountTypeNews.label "Haber grubu hesabı">
-<!ENTITY accountTypeNews.accesskey "e">
+<!ENTITY accountTypeNews.accesskey "H">
 <!-- Entities for Identity page -->
 
 
