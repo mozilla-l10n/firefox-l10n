@@ -523,7 +523,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "d">
 <!ENTITY bookmarkThisFrameCmd.label      "Criar marcador para esta moldura">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
-<!ENTITY emailPageCmd.label           "Enviar ligação por e-mail…">
+<!ENTITY emailPageCmd.label           "Enviar ligação por email…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Guardar página como…">
 <!ENTITY savePageCmd.accesskey        "a">
@@ -564,7 +564,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "Copiar localização do áudio">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
-<!ENTITY copyEmailCmd.label           "Copiar endereço de e-mail">
+<!ENTITY copyEmailCmd.label           "Copiar endereço de email">
 <!ENTITY copyEmailCmd.accesskey       "e">
 <!ENTITY thisFrameMenu.label              "Esta moldura">
 <!ENTITY thisFrameMenu.accesskey          "t">
@@ -779,7 +779,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.directory.label "Diretório de ativações">
 <!ENTITY social.directory.text "Pode ativar os serviços de partilha a partir do diretório.">
 <!ENTITY social.directory.button "Levem-me lá!">
-<!ENTITY social.directory.introText "Clique no serviço para o adicionar ao &brandShortName;.">
+<!ENTITY social.directory.introText "Clique num serviço para o adicionar ao &brandShortName;.">
 <!ENTITY social.directory.viewmore.text "Ver mais">
 
 <!ENTITY customizeMode.tabTitle "Personalizar o &brandShortName;">
