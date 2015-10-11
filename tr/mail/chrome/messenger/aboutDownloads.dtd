@@ -17,7 +17,7 @@
 <!ENTITY cmd.open.accesskey                        "A">
 <!ENTITY cmd.removeFromHistory.label               "Geçmişten Kaldır">
 <!ENTITY cmd.removeFromHistory.accesskey           "e">
-<!ENTITY cmd.clearList.label                       "Listeyi Temizle">
+<!ENTITY cmd.clearList.label                       "Listeyi temizle">
 <!ENTITY cmd.clearList.accesskey                   "e">
 <!ENTITY cmd.clearList.tooltip                     "Süregelenler hariç kaydedilen dosyalar listesindeki tüm girişleri sil.">
 <!ENTITY cmd.searchDownloads.label                 "Ara…">

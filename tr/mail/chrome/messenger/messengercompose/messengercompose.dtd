@@ -142,7 +142,7 @@
 <!ENTITY attachVCard.label "Kişisel Kart Ekle (vCard)">
 <!ENTITY attachVCard.accesskey "v">
 
-<!ENTITY returnReceiptMenu.label "Alındı Onayı">
+<!ENTITY returnReceiptMenu.label "Alındı onayı">
 <!ENTITY returnReceiptMenu.accesskey "A">
 <!ENTITY dsnMenu.label "Teslimat Durumu Bildirimi">
 <!ENTITY dsnMenu.accesskey "D">

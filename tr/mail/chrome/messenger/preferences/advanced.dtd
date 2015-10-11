@@ -6,7 +6,7 @@
 <!ENTITY dataChoicesTab.label    "Veri Tercihleri">
 <!ENTITY itemUpdate.label        "Güncelleme">
 <!ENTITY itemNetworking.label    "Ağ ve Disk Alanı">
-<!ENTITY itemCertificates.label  "Onay Belgeleri">
+<!ENTITY itemCertificates.label  "Sertifikalar">
 <!-- General Settings -->
 
 <!ENTITY enableGlodaSearch.label       "Küresel aramayı ve dizin oluşturmayı etkinleştir">
@@ -59,7 +59,7 @@
 <!ENTITY updateCheck.accesskey           "d">
 <!ENTITY updateManual.label              "Güncellemeleri asla denetleme (önerilmez: güvenlik riski)">
 <!ENTITY updateManual.accesskey          "a">
-<!ENTITY updateAutoAddonWarn.label       "Bu işlem herhangi bir eklentimi devre dışı bırakacaksa beni uyar">
+<!ENTITY updateAutoAddonWarn.label       "Bu işlem herhangi bir eklentimi devredışı bırakacaksa beni uyar">
 <!ENTITY updateAutoAddonWarn.accesskey   "B">
 <!ENTITY updateHistory.label             "Güncelleme geçmişini göster">
 <!ENTITY updateHistory.accesskey         "n">
@@ -72,10 +72,10 @@
 <!ENTITY showSettings.accesskey        "A">
 <!ENTITY proxiesConfigure.label        "&brandShortName; uygulamasının internete nasıl bağlandığını yapılandır">
 <!ENTITY connectionsInfo.caption       "Bağlantı">
-<!ENTITY offlineInfo.caption           "Çevrim Dışı">
-<!ENTITY offlineInfo.label             "Çevrim dışı ayarlarını yapılandır">
-<!ENTITY showOffline.label             "Çevrim Dışı…">
-<!ENTITY showOffline.accesskey         "D">
+<!ENTITY offlineInfo.caption           "Çevrimdışı">
+<!ENTITY offlineInfo.label             "Çevrimdışı ayarlarını yapılandır">
+<!ENTITY showOffline.label             "Çevrimdışı…">
+<!ENTITY showOffline.accesskey         "d">
 
 <!ENTITY Diskspace                       "Disk Alanı">
 <!ENTITY offlineCompactFolders.label     "Toplam">
@@ -95,15 +95,15 @@
 <!ENTITY clearCacheNow.accesskey         "t">
 <!-- Certificates -->
 
-<!ENTITY certSelection.description       "Bir sunucu kişisel onay belgemi istediğinde:">
+<!ENTITY certSelection.description       "Bir sunucu kişisel sertifikamı istediğinde:">
 <!ENTITY certs.auto                      "Birini otomatik olarak seç">
 <!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "Her seferinde bana sor">
 <!ENTITY certs.ask.accesskey             "H">
-<!ENTITY enableOCSP.label                "Onay belgelerinin geçerliliğini doğrulamak için OCSP yanıt sunucularını sorgula">
-<!ENTITY enableOCSP.accesskey            "O">
+<!ENTITY enableOCSP.label                "Sertifikaların geçerliliğini doğrulamak için OCSP yanıt sunucularını sorgula">
+<!ENTITY enableOCSP.accesskey            "S">
 
 <!ENTITY viewCertificates.label         "Sertifikaları göster">
 <!ENTITY viewCertificates.accesskey     "S">
-<!ENTITY viewSecurityDevices.label      "Güvenlik Aygıtları">
+<!ENTITY viewSecurityDevices.label      "Güvenlik aygıtları">
 <!ENTITY viewSecurityDevices.accesskey  "G">

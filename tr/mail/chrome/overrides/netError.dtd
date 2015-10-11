@@ -46,7 +46,7 @@ gibi yanlış yazılmış olabilir.</li>
 <!ENTITY notCached.title "Belge zaman aşımına uğradı">
 <!ENTITY notCached.longDesc "<p>Talep edilen belge önbellekte mevcut değil.</p><ul><li>&brandShortName; bir güvenlik önlemi olarak, hassas belgeleri otomatik olarak yeniden talep etmez.</li><li>Belgeyi web sitesinden tekrar talep etmek için Yeniden dene'ye tıklayın.</li></ul>">
 
-<!ENTITY netOffline.title "Çevrim dışı kip">
+<!ENTITY netOffline.title "Çevrimdışı kip">
 <!ENTITY netOffline.longDesc2 "<ul> 
 <li>Çevrim içi moda geçip sayfayı tazelemek için &quot;Yeniden dene&quot;ye tıklayın.</li> 
 </ul>">

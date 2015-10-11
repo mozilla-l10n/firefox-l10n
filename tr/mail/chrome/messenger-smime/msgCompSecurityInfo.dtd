@@ -9,7 +9,7 @@
 <!ENTITY status.heading "İletinin içeriği aşağıdaki gibi gönderilecektir:">
 <!ENTITY status.signed "Sayısal imzalı:">
 <!ENTITY status.encrypted "Şifreleme:">
-<!ENTITY status.certificates "Onay belgeleri:">
+<!ENTITY status.certificates "Sertifikalar:">
 <!ENTITY view.label "Görünüm">
 <!ENTITY view.accesskey "G">
 <!ENTITY tree.recipient "Alıcı">
