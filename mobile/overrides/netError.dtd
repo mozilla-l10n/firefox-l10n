@@ -16,7 +16,7 @@
 <!ENTITY deniedPortAccess.title "Această adresă e restricționată">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Serverul nu a fost găsit">
+<!ENTITY dnsNotFound.title "Server negăsit">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 <!ENTITY dnsNotFound.longDesc4 "<ul> 
