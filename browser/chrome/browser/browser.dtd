@@ -66,7 +66,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Aranjare în pagină…">
 <!ENTITY printSetupCmd.accesskey "g">
-<!ENTITY printPreviewCmd.label "Previzualizare pentru tipărire">
+<!ENTITY printPreviewCmd.label "Previzualizează pentru tipărire">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Tipărește…">
 <!ENTITY printCmd.accesskey "p">
@@ -80,7 +80,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY navbarCmd.label "Bară de navigare">
 <!ENTITY personalbarCmd.label "Bara semnelor de carte">
 <!ENTITY personalbarCmd.accesskey "B">
-<!ENTITY bookmarksToolbarItem.label "Elemente pe bara pentru semne de carte">
+<!ENTITY bookmarksToolbarItem.label "Elemente pe bara semnelor de carte">
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "Reîncarcă toate filele">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "a">
@@ -351,7 +351,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewTabGroups.label            "Grupuri de file">
 <!ENTITY viewTabGroups.accesskey        "G">
 <!ENTITY viewToolbarsMenu.label       "Bare de unelte"> 
-<!ENTITY viewToolbarsMenu.accesskey     "B"> 
+<!ENTITY viewToolbarsMenu.accesskey     "t"> 
 <!ENTITY viewSidebarMenu.label "Bară laterală">
 <!ENTITY viewSidebarMenu.accesskey "l">
 <!ENTITY viewCustomizeToolbar.label       "Personalizează…"> 

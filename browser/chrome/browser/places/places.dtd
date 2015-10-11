@@ -8,14 +8,14 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Organizare">
 <!ENTITY organize.accesskey    "O">
-<!ENTITY organize.tooltip      "Organizează semnele dumneavoastră de carte">
+<!ENTITY organize.tooltip      "Organizează semnele de carte">
 
 <!ENTITY file.close.label               "Închide">
 <!ENTITY file.close.accesskey           "c">
 <!ENTITY cmd.close.key                  "w">
 <!ENTITY views.label                    "Vizualizări">
 <!ENTITY views.accesskey                "V">
-<!ENTITY views.tooltip                  "Schimbați perspectiva">
+<!ENTITY views.tooltip                  "Schimbă vizualizarea">
 <!ENTITY view.columns.label             "Arată coloane">
 <!ENTITY view.columns.accesskey         "c">
 <!ENTITY view.sort.label                "Sortează">
@@ -94,9 +94,9 @@
 
 <!ENTITY cmd.find.key  "f">
 
-<!ENTITY maintenance.label      "Import și export">
+<!ENTITY maintenance.label      "Importare și copie de siguranță">
 <!ENTITY maintenance.accesskey  "I">
-<!ENTITY maintenance.tooltip    "Importați și asigurați-vă semnele de carte">
+<!ENTITY maintenance.tooltip    "Importă și fă copie de siguranță semnelor de carte">
 
 <!ENTITY backButton.tooltip  "Mergi înapoi">
 
