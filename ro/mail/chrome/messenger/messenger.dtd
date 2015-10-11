@@ -593,8 +593,8 @@
 
 <!ENTITY addNewTag.label "Etichetă nouă…">
 <!ENTITY addNewTag.accesskey "n">
-<!ENTITY manageTags.label "Gestionează etichetele…">
-<!ENTITY manageTags.accesskey "G">
+<!ENTITY manageTags.label "Gestionează etichete…">
+<!ENTITY manageTags.accesskey "M">
 <!-- Folder Pane -->
 
 <!ENTITY folderNameColumn.label "Nume">
