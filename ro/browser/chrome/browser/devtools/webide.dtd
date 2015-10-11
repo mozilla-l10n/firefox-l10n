@@ -14,11 +14,11 @@
 <!ENTITY projectMenu_importHostedApp_accesskey "H">
 <!ENTITY projectMenu_selectApp_label "Deschide aplicația…">
 <!ENTITY projectMenu_selectApp_accesskey "O">
-<!ENTITY projectMenu_play_label "Instalare și executare">
+<!ENTITY projectMenu_play_label "Instalează și rulează">
 <!ENTITY projectMenu_play_accesskey "I">
-<!ENTITY projectMenu_stop_label "Oprire aplicație">
+<!ENTITY projectMenu_stop_label "Oprește aplicația">
 <!ENTITY projectMenu_stop_accesskey "S">
-<!ENTITY projectMenu_debug_label "Debug App">
+<!ENTITY projectMenu_debug_label "Depanează aplicația">
 <!ENTITY projectMenu_debug_accesskey "D">
 <!ENTITY projectMenu_remove_label "Elimină proiectul">
 <!ENTITY projectMenu_remove_accesskey "R">
@@ -118,17 +118,17 @@
 <!ENTITY prefs_general_title "General">
 <!ENTITY prefs_restore "Restaurează setările implicite">
 <!ENTITY prefs_manage_components "Gestionează componentele suplimentare">
-<!ENTITY prefs_options_autoconnectruntime "Reconnect to previous runtime">
-<!ENTITY prefs_options_autoconnectruntime_tooltip "Reconnect to previous runtime when WebIDE starts">
+<!ENTITY prefs_options_autoconnectruntime "Reconectează-te la runtime-ul anterior">
+<!ENTITY prefs_options_autoconnectruntime_tooltip "Reconectează-te la runtime-ul anterior când WebIDE pornește">
 <!ENTITY prefs_options_rememberlastproject "Ține minte ultimul proiect">
 <!ENTITY prefs_options_rememberlastproject_tooltip "Restore previous project when WebIDE starts">
 <!ENTITY prefs_options_templatesurl "URL cu șabloane">
 <!ENTITY prefs_options_templatesurl_tooltip "Indexul șabloanelor disponibile">
 <!ENTITY prefs_options_showeditor "Afișează editorul">
 <!ENTITY prefs_options_showeditor_tooltip "Afișează editorul intern">
-<!ENTITY prefs_options_tabsize "Mărimea filei">
-<!ENTITY prefs_options_expandtab "Soft tabs">
-<!ENTITY prefs_options_expandtab_tooltip "Use spaces instead of the tab character">
+<!ENTITY prefs_options_tabsize "Mărimea tabulatorului">
+<!ENTITY prefs_options_expandtab "File cu spații">
+<!ENTITY prefs_options_expandtab_tooltip "Folosește spații în loc de caractere pentru tabulator">
 <!ENTITY prefs_options_detectindentation "Autoindentare">
 <!ENTITY prefs_options_detectindentation_tooltip "Ghicește indentarea după conținutul sursă">
 <!ENTITY prefs_options_autocomplete "Completare automată">

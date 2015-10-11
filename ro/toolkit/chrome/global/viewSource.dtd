@@ -19,7 +19,7 @@
 <!ENTITY savePageCmd.commandkey "S">
 <!ENTITY pageSetupCmd.label "Aranjare în pagină…">
 <!ENTITY pageSetupCmd.accesskey "j">
-<!ENTITY printPreviewCmd.label "Previzualizare tipărire">
+<!ENTITY printPreviewCmd.label "Previzualizare pentru tipărire">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Tipărește…">
 <!ENTITY printCmd.accesskey "p">
