@@ -4,7 +4,7 @@
 
 <!ENTITY messengerStartPage.label         "&brandShortName; Başlangıç Sayfası">
 <!ENTITY enableStartPage.label            "&brandShortName; açıldığında ileti alanında Başlangıç Sayfası göster">
-<!ENTITY enableStartPage.accesskey        "g">
+<!ENTITY enableStartPage.accesskey        "B">
 <!ENTITY location.label                   "Konum:">
 <!ENTITY location1.accesskey               "o">
 <!ENTITY useDefault.label                 "Varsayılanı Getir">
@@ -18,7 +18,7 @@
 <!ENTITY playSound.label                  "Ses çıkar">
 <!ENTITY playSound1.accesskey              "S">
 <!ENTITY showAnimatedAlert.label          "Uyarı göster">
-<!ENTITY showAnimatedAlert.accesskey      "g">
+<!ENTITY showAnimatedAlert.accesskey      "U">
 <!ENTITY customizeMailAlert.label         "Özelleştir…">
 <!ENTITY customizeMailAlert.accesskey     "z">
 
@@ -32,7 +32,7 @@
 <!ENTITY systemsoundMac.accesskey         "y">
 <!ENTITY systemsound.accesskey            "Y">
 <!ENTITY customsound.label                "Aşağıdaki ses dosyasını kullan">
-<!ENTITY customsound.accesskey            "s">
+<!ENTITY customsound.accesskey            "d">
 <!ENTITY browse.label                     "Gözat…">
 <!ENTITY browse.accesskey                 "G">
 

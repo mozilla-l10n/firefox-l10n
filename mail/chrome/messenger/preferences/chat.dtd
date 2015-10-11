@@ -36,7 +36,7 @@ sentence. -->
 <!ENTITY  systemSound.label                   "Yeni posta için varsayılan sistem sesi">
 <!ENTITY  systemSound.accesskey               "Y">
 <!ENTITY  customsound.label                   "Aşağıdaki ses dosyasını kullan">
-<!ENTITY  customsound.accesskey               "s">
+<!ENTITY  customsound.accesskey               "d">
 <!ENTITY  browse.label                        "Gözat…">
 <!ENTITY  browse.accesskey                    "B">
 

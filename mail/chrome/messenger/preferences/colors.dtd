@@ -22,9 +22,9 @@
 <!ENTITY  useSystemColors.accesskey       "S">
 
 <!ENTITY  underlineLinks.label            "Bağlantıların altını çiz">
-<!ENTITY  underlineLinks.accesskey        "ı">
+<!ENTITY  underlineLinks.accesskey        "n">
 <!ENTITY  links                           "Bağlantı Renkleri">
-<!ENTITY  linkColor.label                 "Ziyaret Edilmemiş Bağlantılar:">
-<!ENTITY  linkColor.accesskey             "l">
-<!ENTITY  visitedLinkColor.label          "Ziyaret Edilmiş Bağlantılar:">
+<!ENTITY  linkColor.label                 "Ziyaret edilmemiş bağlantılar:">
+<!ENTITY  linkColor.accesskey             "b">
+<!ENTITY  visitedLinkColor.label          "Ziyaret edilmiş bağlantılar:">
 <!ENTITY  visitedLinkColor.accesskey      "Z">

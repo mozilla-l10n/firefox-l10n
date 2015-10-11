@@ -14,7 +14,7 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "e">
-<!ENTITY newContact.label "Adres Defteri Kişisi…">
+<!ENTITY newContact.label "Adres defteri kişisi…">
 <!ENTITY newContact.accesskey "A">
 <!ENTITY attachMenu.label "Ekle">
 <!ENTITY attachMenu.accesskey "E">

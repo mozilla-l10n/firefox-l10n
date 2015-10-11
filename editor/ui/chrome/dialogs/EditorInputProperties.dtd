@@ -9,7 +9,7 @@
 <!ENTITY InputType.accesskey "l">
 <!ENTITY text.value "Metin">
 <!ENTITY password.value "Parola">
-<!ENTITY checkbox.value "Onay Kutusu">
+<!ENTITY checkbox.value "Onay kutusu">
 <!ENTITY radio.value "Radyo Düğmesi">
 <!ENTITY submit.value "Gönderme Düğmesi">
 <!ENTITY reset.value "Sıfırlama Düğmesi">
@@ -37,7 +37,7 @@
 <!ENTITY InputDisabled.accesskey "K">
 <!ENTITY tabIndex.label "Sekme Endeksi:">
 <!ENTITY tabIndex.accesskey "e">
-<!ENTITY TextSize.label "Alan Boyutu:">
+<!ENTITY TextSize.label "Alan boyutu:">
 <!ENTITY TextSize.accesskey "A">
 <!ENTITY TextLength.label "Asgari Uzunluk:">
 <!ENTITY TextLength.accesskey "s">

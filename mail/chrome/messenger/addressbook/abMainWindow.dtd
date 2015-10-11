@@ -10,8 +10,8 @@
 <!ENTITY fileMenu.accesskey                             "D">
 <!ENTITY newMenu.label                                  "Yeni">
 <!ENTITY newMenu.accesskey                              "Y">
-<!ENTITY newContact.label                               "Adres Defteri Kişisi…">
-<!ENTITY newContact.accesskey                           "K">
+<!ENTITY newContact.label                               "Adres defteri kişisi…">
+<!ENTITY newContact.accesskey                           "k">
 <!ENTITY newContact.key                                 "N">
 <!ENTITY newListCmd.label                               "Posta Listesi…">
 <!ENTITY newListCmd.accesskey                           "L">
