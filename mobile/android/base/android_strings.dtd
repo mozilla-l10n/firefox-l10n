@@ -340,7 +340,7 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Strigčių pranešiklis">
-<!ENTITY datareporting_wifi_title2 "„Mozillos“ geografinės vietos nustatymo paslaugos">
+<!ENTITY datareporting_wifi_title2 "„Mozillos“ geografinės vietos nustatymo paslauga">
 <!ENTITY datareporting_wifi_geolocation_summary4 "Padėkite „&vendorShortName;“ perkelti pasaulį į virtualų žemėlapį! Pasidalinę apytiksliais savo įrenginio belaidžio bei mobilaus ryšio vietos duomenimis pagerinsite mūsų geolokacijos tarnybą.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
