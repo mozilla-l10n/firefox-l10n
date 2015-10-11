@@ -67,7 +67,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printSetupCmd.label "Aranjare în pagină…">
 <!ENTITY printSetupCmd.accesskey "g">
 <!ENTITY printPreviewCmd.label "Previzualizare pentru tipărire">
-<!ENTITY printPreviewCmd.accesskey "t">
+<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Tipărește…">
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.commandkey "p">
@@ -89,7 +89,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Anulează închiderea filei">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "u">
 
-<!ENTITY pageSourceCmd.label "Sursă pagină">
+<!ENTITY pageSourceCmd.label "Sursa paginii">
 <!ENTITY pageSourceCmd.accesskey "u">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "Informații despre pagină">
@@ -166,8 +166,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareVideo.label "Împărtășește acest videoclip">
 <!ENTITY shareVideo.accesskey "r">
 <!ENTITY feedsMenu.label "Abonare">
-<!ENTITY subscribeToPageMenupopup.label "Abonare la această pagină">
-<!ENTITY subscribeToPageMenuitem.label "Abonare la această pagină…">
+<!ENTITY subscribeToPageMenupopup.label "Abonează-te la această pagină">
+<!ENTITY subscribeToPageMenuitem.label "Abonează-te la această pagină…">
 <!ENTITY addCurPagesCmd.label "Pune semne de carte la toate filele…">
 <!ENTITY showAllBookmarks2.label "Arată toate semnele de carte">
 <!ENTITY unsortedBookmarksCmd.label "Semne de carte nesortate">
@@ -250,11 +250,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Inspectează elementul">
 <!ENTITY inspectContextMenu.accesskey "S">
 
-<!ENTITY responsiveDesignTool.label   "Vizualizare design receptiv">
+<!ENTITY responsiveDesignTool.label   "Vezi designul receptiv">
 <!ENTITY responsiveDesignTool.accesskey "r">
 <!ENTITY responsiveDesignTool.commandkey "M">
 
-<!ENTITY eyedropper.label   "Selector culoare">
+<!ENTITY eyedropper.label   "Pipetă">
 <!ENTITY eyedropper.accesskey "e">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
@@ -285,7 +285,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY browserContentToolboxMenu.accesskey "x">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Închide bara de dezvoltare">
-<!ENTITY devToolbarMenu.label              "Bara de dezvoltare">
+<!ENTITY devToolbarMenu.label              "Bară de dezvoltare">
 <!ENTITY devToolbarMenu.accesskey          "v">
 <!ENTITY devAppMgrMenu.label               "Manager de aplicații">
 <!ENTITY devAppMgrMenu.accesskey           "a">
@@ -310,9 +310,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.label        "Fereastră nouă">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "n">
-<!ENTITY newPrivateWindow.label     "Fereastră fără urme nouă">
-<!ENTITY newPrivateWindow.accesskey "m">
-<!ENTITY newNonRemoteWindow.label   "Fereastră nouă non-e10s">
+<!ENTITY newPrivateWindow.label     "Fereastră privată nouă">
+<!ENTITY newPrivateWindow.accesskey "W">
+<!ENTITY newNonRemoteWindow.label   "Fereastră non-e10s nouă">
 
 <!ENTITY editMenu.label         "Editare"> 
 <!ENTITY editMenu.accesskey       "E"> 
@@ -453,18 +453,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      display a string after the search engine name.  This string will be displayed
      as:  "Search <selected engine name><searchAfter.label text>" -->
 
-<!ENTITY search.label                 "Caută ">
+<!ENTITY search.label                 "Căutare ">
 <!ENTITY searchAfter.label            "">
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 
-<!ENTITY searchWithHeader.label       "Caută cu:">
+<!ENTITY searchWithHeader.label       "Căutare cu:">
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
-<!ENTITY changeSearchSettings.button  "Schimbare setări de căutare">
+<!ENTITY changeSearchSettings.button  "Schimbă setările de căutare">
 
 
 
@@ -661,12 +661,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY toggleMuteCmd.key              "M">
 
-<!ENTITY pageStyleMenu.label "Stil pagină">
-<!ENTITY pageStyleMenu.accesskey "p">
+<!ENTITY pageStyleMenu.label "Stilul paginii">
+<!ENTITY pageStyleMenu.accesskey "y">
 <!ENTITY pageStyleNoStyle.label "Fără stil">
 <!ENTITY pageStyleNoStyle.accesskey "F">
-<!ENTITY pageStylePersistentOnly.label "Stil principal">
-<!ENTITY pageStylePersistentOnly.accesskey "p">
+<!ENTITY pageStylePersistentOnly.label "Stilul paginii de bază">
+<!ENTITY pageStylePersistentOnly.accesskey "b">
 
 <!ENTITY pageReportIcon.tooltip            "Modifică setările de blocare a ferestrelor pop-up pentru acest site web">
 
