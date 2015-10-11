@@ -95,8 +95,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageInfoCmd.label "पृष्ठाची माहिती">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
-
-
+<!ENTITY mirrorTabCmd.label "हुबेहुब टॅब">
+<!ENTITY mirrorTabCmd.accesskey "ह">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "पडदाभरचा वापर करा">
@@ -110,7 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "A">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; मध्ये प्रवेश करा">
-
+<!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; प्राधान्यता उघडा">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; सह जोडणी करा">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; सुरू केले">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; लवकरच ताळमेळ सुरू करेल.">
@@ -144,17 +144,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
+<!ENTITY findShareServices.label "अधिक शेअर सेवा शोधा…">
 <!ENTITY sharePageCmd.label "हे पृष्ठ शेअर करा">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "s">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-
-
-
-
-
-
-
+<!ENTITY shareLink.label "ही दुवा शेअर करा">
+<!ENTITY shareLink.accesskey "श">
+<!ENTITY shareImage.label "ही प्रतिमा शेअर करा">
+<!ENTITY shareImage.accesskey "श">
+<!ENTITY shareSelect.label "निवड शेअर करा">
+<!ENTITY shareSelect.accesskey "श">
+<!ENTITY shareVideo.label "हा व्हिडीओ शेअर करा">
+<!ENTITY shareVideo.accesskey "श">
 <!ENTITY feedsMenu.label "सभासद व्हा">
 <!ENTITY subscribeToPageMenupopup.label "सेवा स्वीकारण्याकरता ह्या पानास भेट द्या">
 <!ENTITY subscribeToPageMenuitem.label "सेवा स्वीकारण्याकरता ह्या पानास भेट द्या...">
@@ -216,8 +218,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "ॲडऑन्स">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
-
-
+<!ENTITY webapps.label                "ॲप्स">
+<!ENTITY webapps.accesskey            "ॲ">
 
 <!ENTITY webDeveloperMenu.label       "वेब डेव्हलपर">
 <!ENTITY webDeveloperMenu.accesskey   "W">
@@ -242,7 +244,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY responsiveDesignTool.label   "रेस्पाँसिव्ह रूपरेखा अवलोकन">
 <!ENTITY responsiveDesignTool.accesskey "R">
-
+<!ENTITY responsiveDesignTool.commandkey "M">
 
 <!ENTITY eyedropper.label   "आयड्रॉपर">
 <!ENTITY eyedropper.accesskey "y">
@@ -391,7 +393,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "टॅबचा वापर करा:">
 
-
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "अधिक जाणा…">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "नाही">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "होय">
 <!-- 
