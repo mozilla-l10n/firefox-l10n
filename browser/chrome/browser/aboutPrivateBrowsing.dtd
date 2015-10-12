@@ -13,13 +13,17 @@
      of the Tracking Protection section, and in general not much larger than
      30em to prevent the sections from wrapping on smaller window sizes.
      -->
+
+<!ENTITY aboutPrivateBrowsing.width1           "30em">
 <!ENTITY aboutPrivateBrowsing.title            "Esteu navegant de forma privada">
 
+<!ENTITY aboutPrivateBrowsing.info.notsaved    "No es desen">
 <!ENTITY aboutPrivateBrowsing.info.history     "Historial">
 <!ENTITY aboutPrivateBrowsing.info.searches    "Cerques">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Galetes">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Fitxers temporals">
 
+<!ENTITY aboutPrivateBrowsing.info.saved       "Es desen">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Baixades">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Adreces d'interès">
 
@@ -44,6 +48,7 @@
 <!ENTITY trackingProtection.state.enabled      "Activada">
 <!ENTITY trackingProtection.state.disabled     "Desactivada">
 
+<!ENTITY trackingProtection.description1       "Ara les finestres privades bloquen parts de la pàgina que podrien fer el seguiment de la vostra activitat a Internet.">
 
 <!ENTITY trackingProtection.disable            "Activa la protecció contra el seguiment">
 <!ENTITY trackingProtection.enable             "Desactiva la protecció contra el seguiment">

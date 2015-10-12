@@ -79,16 +79,16 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY welcome.description "Accediu a les vostres pestanyes, adreces d'interès, contrasenyes i més arreu amb el &brandShortName;.">
 
-
+<!ENTITY welcome.createAccount.label "Crea un compte">
 
 <!ENTITY welcome.useOldSync.label "Utilitzeu una versió antiga del Sync?">
 
+<!ENTITY signedOut.description        "Sincronitzeu les vostres adreces d'interès, historial, pestanyes, contrasenyes, complements i preferències en tots els vostres dispositius.">
 
-
-
-
+<!ENTITY signedOut.accountBox.create  "Crea un compte">
+<!ENTITY signedOut.accountBox.signin  "Inicia la sessió">
 
 
 <!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
 
-
+<!ENTITY androidAttribution           "Android és una marca registrada de Google Inc.">
