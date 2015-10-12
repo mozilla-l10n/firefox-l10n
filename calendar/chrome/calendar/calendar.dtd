@@ -156,7 +156,7 @@
 
 <!ENTITY calendar.context.modifyorviewitem.label      "Aç">
 <!ENTITY calendar.context.modifyorviewitem.accesskey  "A">
-<!ENTITY calendar.context.modifyorviewtask.label      "Görev Aç...">
+<!ENTITY calendar.context.modifyorviewtask.label      "Görevi aç...">
 <!ENTITY calendar.context.modifyorviewtask.accesskey  "G">
 <!ENTITY calendar.context.newevent.label              "Yeni etkinlik…">
 <!ENTITY calendar.context.newevent.accesskey          "k">
@@ -256,6 +256,8 @@
      This is the access key used for the showCalendar string -->
 <!-- LOCALIZATION NOTE (calendar.context.hidecalendar.accesskey)
      This is the access key used for the hideCalendar string -->
+
+<!ENTITY calendar.context.hidecalendar.accesskey      "G">
 <!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
      This is the access key used for the showOnlyCalendar string -->
 <!ENTITY calendar.context.showall.label                "Tüm takvimleri göster">
@@ -277,7 +279,7 @@
 <!ENTITY calendar.tasks.view.calendarlist.label        "Takvim listesi">
 <!ENTITY calendar.tasks.view.calendarlist.accesskey    "l">
 
-<!ENTITY calendar.tasks.view.filtertasks.label           "Görevleri Süz">
+<!ENTITY calendar.tasks.view.filtertasks.label           "Görevleri süz">
 <!ENTITY calendar.tasks.view.filtertasks.accesskey       "G">
 <!-- Calendar Alarm Dialog -->
 

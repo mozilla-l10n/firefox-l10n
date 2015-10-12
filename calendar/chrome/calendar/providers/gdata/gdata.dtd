@@ -16,5 +16,7 @@
 <!ENTITY gdata.reminder.default "Varsayılan anımsatıcı">
 <!ENTITY gdata.reminder.action.sms.label "Metin ileti olarak gönder">
 
+<!ENTITY gdata.wizard.session.description "Lütfen mevcut bir oturumu seçin veya yeni bir oturum oluşturmak için e-posta adresinizi yazın. Her hesap için tek bir oturum yeterlidir.">
 <!ENTITY gdata.wizard.calendars.description "Lütfen abone olmak istediğiniz takvimleri ve görev listelerini seçin.">
 
+<!ENTITY gdata.wizard.nextstep.description "Takvimlerinizi kurmak için lütfen sonraki adıma geçin.">
