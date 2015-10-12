@@ -115,7 +115,7 @@
 <!ENTITY serverNamePrefix.label "Gelen Sunucusu Adı:">
 <!ENTITY smtpServerNamePrefix.label "Giden Sunucusu Adı (SMTP):">
 <!ENTITY newsServerNamePrefix.label "Haber Sunucusu Adı (NNTP):">
-<!ENTITY downloadOnLogin.label "İletileri Şimdi İndir">
+<!ENTITY downloadOnLogin.label "İletileri şimdi indir">
 <!ENTITY downloadOnLogin.accesskey "d">
 <!ENTITY deferStorageDesc.label "Bu hesaba ait e-postaları kendi dizininde saklamak istiyorsanız bu kutuyu işaretlemeyin. Böylece bu hesap bir üst seviye hesap olarak görünecektir. Aksi takdirde, Yerel Dizinler Kürsel Gelen Kutusu hesabının parçası olacak.">
 <!ENTITY deferStorage.label "Küresel Gelen Kutusu'nu kullan (postalar Yerel Dizinler'de depolanır)">
