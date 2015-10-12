@@ -13,12 +13,14 @@
 <!ENTITY  onboard_start_button_browser "Ceecikaw tunandi">
 <!ENTITY firstrun_button_next "Bisa">
 
+<!ENTITY  onboard_start_restricted1 "Saajaw nda dabari gaabu nda &brandShortName; dumi faalantaa woo.">
 
+<!ENTITY firstrun_import_title "Zaa">
 <!ENTITY firstrun_import_message "Kubayni &brandShortName; ga">
-
-
-
-
+<!ENTITY firstrun_import_subtext "War doo-šilbawey nda taarikoo zaa ceecikaw tana foo ga.">
+<!ENTITY firstrun_import_action "Bere &brandShortName; ga">
+<!ENTITY firstrun_import_dialog_button "Bere">
+<!ENTITY firstrun_import_progress_title "Bereyan">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -56,15 +58,16 @@
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "Woo šilbandi ka ben">
 <!ENTITY bookmark_removed "Doo-šilbay tuusante">
 <!ENTITY bookmark_updated "Doo-šilbay taagante">
 <!ENTITY bookmark_options "Suubarey">
 
 <!ENTITY history_today_section "Hõ">
 <!ENTITY history_yesterday_section "Bi">
-
-
-
+<!ENTITY history_week_section3 "Zaari 7 korawey">
+<!ENTITY history_this_month_section "Handoo woo">
+<!ENTITY history_older_section3 "A ga bisa handu iddu">
 
 <!ENTITY go "Koy">
 <!ENTITY search "Ceeci">
@@ -94,6 +97,7 @@
      &formatS; will be replaced with the title of the tab, as received from the
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "Ka jinde hẽenandi – &formatS;">
 
 <!ENTITY settings "Kayandiyaney">
 <!ENTITY settings_title "Kayandiyaney">
@@ -125,7 +129,7 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "Doo-šilbay">
 <!ENTITY overlay_share_reading_list_btn_label "Tonton caw maašeedaa ga">
-
+<!ENTITY overlay_share_bookmark_btn_label_already "Woo šilbandi ka ben">
 <!ENTITY overlay_share_reading_list_btn_label_already "Goo caw maašeede ga ka ben">
 <!ENTITY overlay_share_send_other "Sanba jinay taney do">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
@@ -153,7 +157,7 @@
 <!ENTITY pref_category_display "Cebe">
 <!ENTITY pref_category_display_summary "Hantum, maa žeeri, dijikul naaruyan">
 <!ENTITY pref_category_privacy_short "Sutura">
-
+<!ENTITY pref_category_privacy_summary2 "Šennikufaley, aleewawey, hangayan, bayhayey dabari">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "&brandShortName; ga, hankul hãayaney, bayhaya suubarey ">
 <!ENTITY pref_category_datareporting "Bayhaya suubarey">
