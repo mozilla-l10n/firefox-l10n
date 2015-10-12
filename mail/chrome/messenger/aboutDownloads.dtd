@@ -13,9 +13,12 @@
 <!ENTITY cmd.show.accesskey                        "m">
 <!ENTITY cmd.showMac.label                         "Toane yn Finder">
 <!ENTITY cmd.showMac.accesskey                     "F">
-<!ENTITY cmd.open.label                            "Iepene">
+<!ENTITY cmd.open.label                            "Iepenje">
 <!ENTITY cmd.open.accesskey                        "I">
 <!ENTITY cmd.removeFromHistory.label               "Fuortsmite út skiednis">
 <!ENTITY cmd.removeFromHistory.accesskey           "F">
-<!ENTITY cmd.clearDownloads.label                  "Downloads wiskje">
-<!ENTITY cmd.clearDownloads.accesskey              "w">
+<!ENTITY cmd.clearList.label                       "List wiskje">
+<!ENTITY cmd.clearList.accesskey                   "L">
+<!ENTITY cmd.clearList.tooltip                     "Alle fermeldingen út de list fan bewarre bestannen fuortsmite, útsein de aktive downloads.">
+<!ENTITY cmd.searchDownloads.label                 "Sykje…">
+<!ENTITY cmd.searchDownloads.key                   "S">
