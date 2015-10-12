@@ -2,13 +2,20 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY defaultSearchEngine.label             "అప్రమేయ శోధన యంత్రం">
 
+<!ENTITY chooseYourDefaultSearchEngine.label   "మీ అప్రమేయ శోధన యంత్రం ఎంచుకోండి. దానినే &brandShortName; స్థానపు పట్టీ, శోధన పట్టీ, మరియు ప్రారంభ పేజీ నందు ఉపయోగించును.">
 
+<!ENTITY provideSearchSuggestions.label        "వెతికేందుకై సూచనలు అందించు">
+<!ENTITY provideSearchSuggestions.accesskey    "s">
 
+<!ENTITY showURLBarSuggestions.label           "వెతికేందుకై సూచనలను స్థానపు పట్టీ ఫలితాలలో చూపు">
+<!ENTITY showURLBarSuggestions.accesskey       "l">
 
+<!ENTITY redirectWindowsSearch.label "విండోస్ నుండి వెతకడం కొరకై ఈ శోధన యంత్రం ఉపయోగించు">
+<!ENTITY redirectWindowsSearch.accesskey "W">
 
-
-
+<!ENTITY oneClickSearchEngines.label           "ఒక్క-నొక్కు శోధన యంత్రాలు">
 
 
 
