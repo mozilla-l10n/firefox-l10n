@@ -179,8 +179,8 @@
   -  in about:config, in the options panel. -->
 
 <!ENTITY options.showPlatformData.label    "Nyut tuti me tic pa Gecko">
-<!ENTITY options.showPlatformData.tooltip  "Ka ce i ye gin ayera man ripot pa La co profile me JavaScript obi bedo ki 
-lanen me tuti me Gecko">
+<!ENTITY options.showPlatformData.tooltip  "Ka ce i ye gin ayera man ripot pa la co propwail me JavaScript obi bedo ki 
+lanyut me tuti me Gecko">
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 

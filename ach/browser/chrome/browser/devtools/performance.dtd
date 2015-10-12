@@ -85,7 +85,7 @@
   -  is displayed in the profiler. -->
 
 <!ENTITY performanceUI.showPlatformData             "Nyut tuti me data pa Gecko">
-<!ENTITY performanceUI.showPlatformData.tooltiptext "Nyuto data me tuti weko ripot me gincoc pa JavaScript keto lanyut me tuti me Gecko ikine.">
+<!ENTITY performanceUI.showPlatformData.tooltiptext "Nyuto data me tuti weko ripot pa la co propwail me JavaScript keto lanyut me tuti me Gecko ikine.">
 <!-- LOCALIZATION NOTE (performanceUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
   -  functions in the profiler. -->
