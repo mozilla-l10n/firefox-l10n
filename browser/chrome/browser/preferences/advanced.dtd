@@ -10,7 +10,7 @@
 
 <!ENTITY useCursorNavigation.label       "Folosește întotdeauna săgețile pentru a naviga în pagini">
 <!ENTITY useCursorNavigation.accesskey   "F">
-<!ENTITY searchStartTyping.label         "Caută textul în timp ce tastez">
+<!ENTITY searchStartTyping.label         "Caută textul când încep să tastez">
 <!ENTITY searchStartTyping.accesskey     "x">
 <!ENTITY blockAutoRefresh.label          "Avertizează-mă când site-urile web încearcă să redirecționeze sau să reîncarce pagina">
 <!ENTITY blockAutoRefresh.accesskey      "b">
