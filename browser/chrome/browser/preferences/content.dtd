@@ -43,6 +43,8 @@
 <!ENTITY translation.options.attribution.beforeLogo "तर्फे भाषांतरीत">
 <!ENTITY translation.options.attribution.afterLogo "">
 
+<!ENTITY  drmContent.label             "DRM मजकूर">
 
-
+<!ENTITY  playDRMContent.label         "DRM मजकूरचालू करा">
+<!ENTITY  playDRMContent.accesskey     "च">
 <!ENTITY  playDRMContent.learnMore.label "आणखी शिका">
