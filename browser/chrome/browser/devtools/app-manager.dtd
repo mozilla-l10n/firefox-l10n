@@ -80,7 +80,7 @@
 <!ENTITY projects.debugAppTooltip "Отваряне на инструментите за разработчика, свързани с това приложение">
 <!ENTITY projects.saveManifest "Запис">
 <!ENTITY projects.saveManifestTooltip "Запазване на съдържанието от Редактора за манифести">
-
+<!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "Няма проекти. Добавяне на ново пакетирано приложение (локална директория) или на хостнато приложение (връзка към файл с манифест).">
 <!ENTITY projects.manifestEditor "Редактор на манифест">
 <!ENTITY projects.manifestEditorTooltip "Редактирайте по-долу манифеста на вашето приложение. Бутонът Обновяване ще запише вашите промени и ще обнови приложението.">
