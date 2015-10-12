@@ -4,7 +4,7 @@
 
 <!ENTITY addressbookPicker.label            "Agendă de contacte:">
 <!ENTITY addressbookPicker.accesskey        "A">
-<!ENTITY searchInput.label                  "Căutare după:">
+<!ENTITY searchInput.label                  "Căutare pentru:">
 <!ENTITY searchInput.accesskey              "C">
 <!ENTITY SearchNameOrEmail.label            "Nume sau e-mail">
 
