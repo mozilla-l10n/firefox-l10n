@@ -30,6 +30,8 @@
 <!ENTITY debuggerUI.blackBoxMessage.unBlackBoxButton "Спиране на черната кутия за този сорс">
 <!-- LOCALIZATION NOTE (debuggerUI.optsButton.tooltip): This is the tooltip for
   -  the button that opens up an options context menu for the debugger UI. -->
+
+<!ENTITY debuggerUI.optsButton.tooltip  "Настройки на дебъгера">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.blackBoxTooltip): This is the tooltip
   -  for the button that black boxes the selected source. -->
 
@@ -42,13 +44,15 @@
   -  checkbox that toggles auto pretty print. -->
 
 <!ENTITY debuggerUI.autoPrettyPrint     "Автоматично украсяване на минифициран сорс">
-
+<!ENTITY debuggerUI.autoPrettyPrint.accesskey "У">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.toggleBreakpoints): This is the tooltip for the
   -  button that toggles all breakpoints for all sources. -->
 
 <!ENTITY debuggerUI.sources.toggleBreakpoints "Включване/изключване на всички точки на прекъсване">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.togglePromiseDebugger): This is the
   -  tooltip for the button that toggles the promise debugger. -->
+
+<!ENTITY debuggerUI.sources.togglePromiseDebugger "Превключване на дебъгера за обещания">
 <!-- LOCALIZATION NOTE (debuggerUI.startTracing): This is the text displayed in
   - the button to start execution tracing. -->
 
@@ -70,7 +74,7 @@
   -  checkbox that toggles ignoring caught exceptions. -->
 
 <!ENTITY debuggerUI.ignoreCaughtExceptions           "Пренебрегване на уловени изключения">
-
+<!ENTITY debuggerUI.ignoreCaughtExceptions.accesskey "П">
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
   -  checkbox that toggles visibility of panes when opening the debugger. -->
 
@@ -98,6 +102,8 @@
   -  the checkbox that toggles whether sources that we suspect are minified are
   -  automatically black boxed or not. -->
 
+<!ENTITY debuggerUI.autoBlackBox           "Автоматична черна кутия за минифицирани сорсове">
+<!ENTITY debuggerUI.autoBlackBox.accesskey "ч">
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
   -  appears in the filter panel popup as a header for the operators part. -->
 
@@ -162,6 +168,8 @@
 <!ENTITY debuggerUI.seMenuCondBreak.key "B">
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
+
+<!ENTITY debuggerUI.tabs.workers        "Обслужващи нишки">
 <!ENTITY debuggerUI.tabs.sources        "Сорсове">
 <!ENTITY debuggerUI.tabs.traces         "Проследявания">
 <!ENTITY debuggerUI.tabs.callstack      "Стек на извиквания">
@@ -201,11 +209,11 @@
   -  netmonitorUI.context.newTab  -->
 
 <!ENTITY debuggerUI.context.newTab           "Отваряне в нов подпрозорец">
-
+<!ENTITY debuggerUI.context.newTab.accesskey "п">
 <!-- LOCALIZATION NOTE (debuggerUI.context.copyUrl): This is the label displayed
   -  on the context menu that copies the selected request's url. This should be
   -  the same as netmonitorUI.context.copyUrl -->
 
 <!ENTITY debuggerUI.context.copyUrl           "Копиране на URL">
-
-
+<!ENTITY debuggerUI.context.copyUrl.accesskey "К">
+<!ENTITY debuggerUI.context.copyUrl.key "C">
