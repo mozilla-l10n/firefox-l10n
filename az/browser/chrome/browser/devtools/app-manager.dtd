@@ -79,7 +79,7 @@
 <!ENTITY projects.debugApp "Sazlama">
 
 <!ENTITY projects.saveManifest "Dəyişiklikləri saxla">
-<!ENTITY projects.saveManifestTooltip "Save the contents of the Manifest Editor below">
+<!ENTITY projects.saveManifestTooltip "Aşağıdakı Manifest Redaktorunu yadda saxla">
 <!ENTITY projects.hostedManifestPlaceHolder2 "http://example.com/app/manifest.webapp">
 <!ENTITY projects.noProjects "No projects. Add a new packaged app below (local directory) or a hosted app (link to a manifest file).">
 <!ENTITY projects.manifestEditor "Manifest Editor">
