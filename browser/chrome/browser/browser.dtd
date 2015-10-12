@@ -112,6 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignIn.label "Sign in to &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Open &syncBrand.shortName.label; preferences">
 <!ENTITY fxaSignInError.label "Reconnect to &syncBrand.shortName.label;">
+<!ENTITY fxaUnverified.label "Επιβεβαιώστε τον λογαριασμό σας">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; enabled">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; will begin syncing momentarily.">
 
@@ -129,9 +130,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      respectively before and after the domain requiring fullscreen.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
+<!ENTITY fullscreenWarning.beforeDomain.label "">
+<!ENTITY fullscreenWarning.afterDomain.label "εκτελείται σε πλήρη οθόνη">
+<!ENTITY fullscreenWarning.generic.label "Αυτό το έγγραφο εκτελείται σε πλήρη οθόνη">
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
+<!ENTITY exitDOMFullscreen.button "Έξοδος από πλήρη οθόνη (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "Έξοδος από πλήρη οθόνη (esc)">
 <!ENTITY leaveDOMFullScreen.label "Exit Full Screen">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
@@ -458,6 +464,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Change Search Settings">
 
+<!ENTITY searchInNewTab.label         "Αναζήτηση σε νέα καρτέλα">
+<!ENTITY searchSetAsDefault.label     "Ορισμός ως προκαθορισμένη μηχανή αναζήτησης">
 
 <!ENTITY tabView.commandkey           "e">
 
