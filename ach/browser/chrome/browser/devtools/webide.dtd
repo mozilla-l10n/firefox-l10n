@@ -115,7 +115,7 @@
 <!ENTITY prefs_title "Ma imaro">
 <!ENTITY prefs_editor_title "Kacoc">
 <!ENTITY prefs_general_title "Lumuku">
-
+<!ENTITY prefs_restore "Dwok i makwongo">
 <!ENTITY prefs_manage_components "Lo gin ma iye makato">
 <!ENTITY prefs_options_autoconnectruntime "Nwo kube i me cawa tic ma okato">
 <!ENTITY prefs_options_autoconnectruntime_tooltip "Nwo kube i me cawa tic ma okato kacce WebIDE ocake">
@@ -157,6 +157,8 @@
 <!ENTITY device_typeobject "Jami">
 <!ENTITY device_typenone "Yer kit">
 <!-- Device Preferences -->
+
+<!ENTITY devicepreference_title "Gin ayera pi nyonyo">
 <!ENTITY devicepreference_search "Yeny ma imaro">
 <!ENTITY devicepreference_newname "Nying manyen pi ma imaro">
 <!ENTITY devicepreference_newtext "Wel pi ma imaro">
@@ -185,11 +187,11 @@
 <!-- Logs panel -->
 <!-- Simulator Options -->
 
-
+<!ENTITY simulator_reset "Dwok i makwongo">
 <!ENTITY simulator_name "Nying">
 
 <!ENTITY simulator_version "Cik">
-
+<!ENTITY simulator_profile "Propwail">
 
 <!ENTITY simulator_device "Nyonyo">
 

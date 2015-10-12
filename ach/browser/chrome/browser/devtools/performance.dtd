@@ -79,11 +79,13 @@
 <!ENTITY performanceUI.invertTree.tooltiptext "Loko yat me lwongo nyuto yo me lwongo ma kicoyo cake ki i pem matidi kadong yare woko wa ikom pem macon.">
 <!-- LOCALIZATION NOTE (performanceUI.invertFlameGraph): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
-
+<!ENTITY performanceUI.invertFlameGraph.tooltiptext "Loko flame chart nyuto yoo me lwongo ma kicoyo cake ki i pem matidi loyo ka yare woko wa ikom pem macon.">
 <!-- LOCALIZATION NOTE (performanceUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
   -  is displayed in the profiler. -->
 
+<!ENTITY performanceUI.showPlatformData             "Nyut tuti me data pa Gecko">
+<!ENTITY performanceUI.showPlatformData.tooltiptext "Nyuto data me tuti weko ripot me gincoc pa JavaScript keto lanyut me tuti me Gecko ikine.">
 <!-- LOCALIZATION NOTE (performanceUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
   -  functions in the profiler. -->
