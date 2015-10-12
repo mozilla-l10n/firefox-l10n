@@ -3,6 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  paneGeneral.title       "Genel">
-<!ENTITY  paneAlarms.title        "Hatırlatmalar">
+<!ENTITY  paneAlarms.title        "Anımsatıcılar">
 <!ENTITY  paneCategories.title    "Kategoriler">
 <!ENTITY  paneViews.title         "Görünüm">

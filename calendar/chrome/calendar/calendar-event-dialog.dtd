@@ -140,12 +140,12 @@
 <!ENTITY event.email.tentative.attendees.accesskey        "K">
 <!-- Toolbar -->
 
-<!ENTITY  event.toolbar.save.label                        "Kaydet ve Kapat">
+<!ENTITY  event.toolbar.save.label                        "Kaydet ve kapat">
 <!ENTITY  event.toolbar.delete.label                      "Sil">
 <!ENTITY  event.toolbar.attendees.label                   "Katılımcıları davet et">
 <!ENTITY  event.toolbar.privacy.label                     "Gizlilik">
 
-<!ENTITY  event.toolbar.save.tooltip                      "Kaydet ve Kapat">
+<!ENTITY  event.toolbar.save.tooltip                      "Kaydet ve kapat">
 <!ENTITY  event.toolbar.delete.tooltip                    "Sil">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Katılımcıları Davet Et">
 <!ENTITY  event.toolbar.attachments.tooltip               "Dosya ekle">
@@ -182,8 +182,8 @@
 <!ENTITY event.repeat.accesskey                           "T">
 <!ENTITY event.until.label                                "Şu zamana kadar:">
 <!ENTITY event.until.accesskey                            "z">
-<!ENTITY event.reminder.label                             "Uyarı:" >
-<!ENTITY event.reminder.accesskey                         "y">
+<!ENTITY event.reminder.label                             "Anımsatıcı:" >
+<!ENTITY event.reminder.accesskey                         "n">
 <!ENTITY event.description.label                          "Açıklama:" >
 <!ENTITY event.description.accesskey                      "A">
 <!ENTITY event.attachments.label                          "Ekler:" >
@@ -203,7 +203,7 @@
 <!ENTITY event.url.label                                  "İlgili bağlantı:" >
 <!ENTITY event.priority2.label                            "Önemlilik:">
 
-<!ENTITY event.reminder.none.label                        "Uyarısız" >
+<!ENTITY event.reminder.none.label                        "Anımsatıcı yok" >
 <!ENTITY event.reminder.0minutes.before.label             "0 dakika önce" >
 <!ENTITY event.reminder.5minutes.before.label             "5 dakika önce" >
 <!ENTITY event.reminder.15minutes.before.label            "15 dakika önce" >
@@ -216,7 +216,7 @@
 <!ENTITY event.reminder.1week.before.label                "1 hafta önce" >
 <!ENTITY event.reminder.custom.label                      "Özelleştir…" >
 
-<!ENTITY event.reminder.multiple.label                    "Çoklu uyarı…" >
+<!ENTITY event.reminder.multiple.label                    "Çoklu anımsatıcı…" >
 
 <!ENTITY event.statusbarpanel.privacy.label               "Gizlilik:">
 <!-- Recurrence dialog -->
@@ -368,7 +368,7 @@
 <!ENTITY read.only.decline.label         "Katılmayacağım">
 <!ENTITY read.only.tentative.label       "Katılabilirim">
 <!ENTITY read.only.needs.action.label    "Daha sonra onaylayacağım">
-<!ENTITY read.only.reminder.label        "Uyarı:">
+<!ENTITY read.only.reminder.label        "Anımsatıcı:">
 <!ENTITY read.only.attendees.label       "Katılımcılar">
 <!ENTITY read.only.description.label     "Açıklama">
 <!ENTITY read.only.link.label            "İlgili bağlantı">

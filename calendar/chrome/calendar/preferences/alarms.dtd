@@ -7,7 +7,7 @@
   -->
 
 
-<!ENTITY pref.alarmgoesoff.label "Hatırlatma zamanı geldiğinde:">
+<!ENTITY pref.alarmgoesoff.label "Anımsatma zamanı geldiğinde:">
 <!ENTITY pref.playasound "Ses dosyası çal">
 <!ENTITY pref.calendar.alarms.playsound.accessKey "S">
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "Varsayılan ses dosyasını kullan">
@@ -16,20 +16,20 @@
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "G">
 <!ENTITY pref.calendar.alarms.sound.play.label "Çal">
 <!ENTITY pref.calendar.alarms.sound.play.accessKey "a">
-<!ENTITY pref.showalarmbox "Hatırlatma penceresini göster">
+<!ENTITY pref.showalarmbox "Anımsatıcı penceresini göster">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "m">
-<!ENTITY pref.missedalarms "Kaçırılan hatırlatmaları göster">
+<!ENTITY pref.missedalarms "Kaçırılan anımsatıcıları göster">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "m">
-<!ENTITY pref.calendar.alarms.defaults.label "Hatırlatma varsayılanları">
-<!ENTITY pref.defalarm4events.label "Etkinlikler için varsayılan hatırlatma ayarı:">
+<!ENTITY pref.calendar.alarms.defaults.label "Anımsatıcı varsayılanları">
+<!ENTITY pref.defalarm4events.label "Etkinlikler için varsayılan anımsatma ayarı:">
 <!ENTITY pref.defalarm4events.accesskey "v">
-<!ENTITY pref.defalarm4todos.label "Görevler için varsayılan hatırlatma ayarı:">
+<!ENTITY pref.defalarm4todos.label "Görevler için varsayılan anımsatma ayarı:">
 <!ENTITY pref.defalarm4todos.accesskey "s">
 <!ENTITY pref.alarm.on "Açık">
 <!ENTITY pref.alarm.off "Kapalı">
-<!ENTITY pref.defalarmlen4events.label "Etkinlikten önce hatırlatmanın kurulacağı varsayılan süre: ">
-<!ENTITY pref.defalarmlen4events.accesskey "y">
-<!ENTITY pref.defalarmlen4todos.label "Görevden önce hatırlatmanın kurulacağı varsayılan süre:">
+<!ENTITY pref.defalarmlen4events.label "Etkinlikten önce anımsatıcının ayarlanacağı varsayılan süre:">
+<!ENTITY pref.defalarmlen4events.accesskey "a">
+<!ENTITY pref.defalarmlen4todos.label "Görevden önce anımsatıcının ayarlanacağı varsayılan süre:">
 <!ENTITY pref.defalarmlen4todos.accesskey "n">
 
 <!ENTITY pref.defaultsnoozelength.label "Varsayılan uyuma süresi:" >

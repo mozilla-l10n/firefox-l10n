@@ -21,10 +21,10 @@
 <!ENTITY calendar.events.filter.future.label "Gelecekteki tüm etkinlikler">
 <!ENTITY calendar.events.filter.current.label "Seçilmiş gün">
 <!ENTITY calendar.events.filter.currentview.label "Mevcut görünümdeki etkinlikler">
-<!ENTITY calendar.events.filter.next7Days.label "7 gün içerisindeki etkinlikler">
-<!ENTITY calendar.events.filter.next14Days.label "14 gün içerisindeki etkinlikler">
-<!ENTITY calendar.events.filter.next31Days.label "31 gün içerisindeki etkinlikler">
-<!ENTITY calendar.events.filter.thisCalendarMonth.label "Bu aydaki etkinlikler">
+<!ENTITY calendar.events.filter.next7Days.label "7 gün içindeki etkinlikler">
+<!ENTITY calendar.events.filter.next14Days.label "14 gün içindeki etkinlikler">
+<!ENTITY calendar.events.filter.next31Days.label "31 gün içindeki etkinlikler">
+<!ENTITY calendar.events.filter.thisCalendarMonth.label "Bu takvim ayındaki etkinlikler">
 <!-- LOCALIZATION NOTE(calendar.unifinder.tree.done.tooltip)
    - This label and tooltip is used for the column with the checkbox in the
    - task tree view. -->
@@ -258,8 +258,8 @@
      This is the access key used for the hideCalendar string -->
 <!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
      This is the access key used for the showOnlyCalendar string -->
-<!ENTITY calendar.context.showall.label                "Tüm Takvimleri Göster">
-<!ENTITY calendar.context.showall.accesskey            "G">
+<!ENTITY calendar.context.showall.label                "Tüm takvimleri göster">
+<!ENTITY calendar.context.showall.accesskey            "ü">
 
 <!ENTITY calendar.context.convertmenu.label              "Dönüştür">
 <!ENTITY calendar.context.convertmenu.accesskey.mail     "n">
@@ -287,9 +287,9 @@
 
 <!ENTITY calendar.alarm.snoozefor.label             "Askıya al" >
 <!ENTITY calendar.alarm.snoozeallfor.label          "Tümünü askıya al" >
-<!ENTITY calendar.alarm.title.label                 "Takvim hatırlatmaları" >
+<!ENTITY calendar.alarm.title.label                 "Takvim anımsatıcıları" >
 <!ENTITY calendar.alarm.dismiss.label               "Sonlandır" >
-<!ENTITY calendar.alarm.dismissall.label            "Tümünü sonlandır" >
+<!ENTITY calendar.alarm.dismissall.label            "Tümünü görmezden gel" >
 
 <!ENTITY calendar.alarm.snooze.5minutes.label       "5 dakika" >
 <!ENTITY calendar.alarm.snooze.10minutes.label      "10 dakika" >
@@ -321,7 +321,7 @@
 <!ENTITY calendarproperties.refreshInterval.manual.label   "Elle">
 <!ENTITY calendarproperties.name.label                     "Adı:">
 <!ENTITY calendarproperties.readonly.label                 "Salt okunur">
-<!ENTITY calendarproperties.firealarms.label               "Hatırlatmaları göster">
+<!ENTITY calendarproperties.firealarms.label               "Anımsatıcıları göster">
 <!ENTITY calendarproperties.cache3.label                   "Çevrimdışı desteği">
 <!ENTITY calendarproperties.enabled.label                  "Takvim devre içi">
 <!ENTITY calendarproperties.forceDisabled.label            "Takvim sağlayıcısı bulunamıyor. Bu tür sorunlar sağlayıcı için gerekli eklentilerin devre dışı bırakılması veya kaldırması ile genelde oluşuyor.">
