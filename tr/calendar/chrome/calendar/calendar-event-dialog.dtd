@@ -16,7 +16,7 @@
 <!ENTITY newevent.eventStatus.none.accesskey      "B" >
 <!ENTITY newevent.todoStatus.none.label           "Belirtilmemiş" >
 <!ENTITY newevent.eventStatus.cancelled.label     "İptal edildi" >
-<!ENTITY newevent.eventStatus.cancelled.accesskey "p" >
+<!ENTITY newevent.eventStatus.cancelled.accesskey "a" >
 <!ENTITY newevent.todoStatus.cancelled.label      "Vazgeçildi" >
 <!ENTITY newevent.status.tentative.label          "Kesin değil" >
 <!ENTITY newevent.status.tentative.accesskey      "d" >
@@ -60,14 +60,14 @@
 <!ENTITY  event.menu.item.new.task.accesskey              "G">
 <!ENTITY  event.menu.item.new.message.label               "İleti">
 <!ENTITY  event.menu.item.new.message.accesskey           "İ">
-<!ENTITY  event.menu.item.new.contact.label               "Adres defteri girdisi">
-<!ENTITY  event.menu.item.new.contact.accesskey           "g">
+<!ENTITY  event.menu.item.new.contact.label               "Adres defteri kişisi">
+<!ENTITY  event.menu.item.new.contact.accesskey           "d">
 <!ENTITY  event.menu.item.close.label                     "Kapat">
 <!ENTITY  event.menu.item.close.accesskey                 "t">
 <!ENTITY  event.menu.item.save.label                      "Kaydet">
 <!ENTITY  event.menu.item.save.accesskey                  "K">
 <!ENTITY  event.menu.item.saveandclose.label              "Kaydet ve kapat">
-<!ENTITY  event.menu.item.saveandclose.accesskey          "p">
+<!ENTITY  event.menu.item.saveandclose.accesskey          "a">
 <!ENTITY  event.menu.item.delete.label                    "Sil…">
 <!ENTITY  event.menu.item.delete.accesskey                "S">
 <!ENTITY  event.menu.item.page.setup.label                "Sayfa düzeni">
@@ -84,9 +84,9 @@
 <!ENTITY  event.menu.edit.cut.label                       "Kes">
 <!ENTITY  event.menu.edit.cut.accesskey                   "K">
 <!ENTITY  event.menu.edit.copy.label                      "Kopyala">
-<!ENTITY  event.menu.edit.copy.accesskey                  "K">
+<!ENTITY  event.menu.edit.copy.accesskey                  "o">
 <!ENTITY  event.menu.edit.paste.label                     "Yapıştır">
-<!ENTITY  event.menu.edit.paste.accesskey                 "p">
+<!ENTITY  event.menu.edit.paste.accesskey                 "Y">
 <!ENTITY  event.menu.edit.select.all.label                "Tümünü seç">
 <!ENTITY  event.menu.edit.select.all.accesskey            "e">
 
@@ -160,26 +160,26 @@
 <!ENTITY event.location.label                             "Konum:" >
 <!ENTITY event.location.accesskey                         "K">
 <!ENTITY event.categories.label                           "Kategori:">
-<!ENTITY event.categories.accesskey                       "t">
+<!ENTITY event.categories.accesskey                       "o">
 <!ENTITY event.categories.textbox.label                   "Yeni kategori ekle" >
 <!ENTITY event.calendar.label                             "Takvim:" >
-<!ENTITY event.calendar.accesskey                         "T">
+<!ENTITY event.calendar.accesskey                         "m">
 <!ENTITY event.attendees.label                            "Katılımcılar:" >
 <!ENTITY event.attendees.accesskey                        "I" >
-<!ENTITY event.alldayevent.label                          "Tüm gün etkinliği" >
-<!ENTITY event.alldayevent.accesskey                      "T">
+<!ENTITY event.alldayevent.label                          "Tam günlük etkinlik" >
+<!ENTITY event.alldayevent.accesskey                      "ü">
 <!ENTITY event.from.label                                 "Başlangıç:" >
-<!ENTITY event.from.accesskey                             "B">
+<!ENTITY event.from.accesskey                             "n">
 <!ENTITY task.from.label                                  "Başlangıç:" >
 <!ENTITY task.from.accesskey                              "B">
 <!ENTITY event.to.label                                   "Bitiş:" >
-<!ENTITY event.to.accesskey                               "t">
+<!ENTITY event.to.accesskey                               "i">
 <!ENTITY task.to.label                                    "Son tarih:" >
 <!ENTITY task.to.accesskey                                "S">
 <!ENTITY task.status.label                                "Durum:" >
 <!ENTITY task.status.accesskey                            "D">
 <!ENTITY event.repeat.label                               "Tekrarla:" >
-<!ENTITY event.repeat.accesskey                           "T">
+<!ENTITY event.repeat.accesskey                           "r">
 <!ENTITY event.until.label                                "Şu zamana kadar:">
 <!ENTITY event.until.accesskey                            "z">
 <!ENTITY event.reminder.label                             "Anımsatıcı:" >
@@ -218,21 +218,22 @@
 
 <!ENTITY event.reminder.multiple.label                    "Çoklu anımsatıcı…" >
 
+<!ENTITY event.statusbarpanel.freebusy.label              "Zaman görünümü:">
 <!ENTITY event.statusbarpanel.privacy.label               "Gizlilik:">
 <!-- Recurrence dialog -->
 
-<!ENTITY recurrence.title.label                         "Yineleme aralığını düzenle">
+<!ENTITY recurrence.title.label                         "Tekrarlamayı düzenle">
 
 <!ENTITY event.repeat.does.not.repeat.label             "Tekrarlama">
 <!ENTITY event.repeat.daily.label                       "Her gün">
 <!ENTITY event.repeat.weekly.label                      "Her hafta">
-<!ENTITY event.repeat.every.weekday.label               "Haftanın her günü">
+<!ENTITY event.repeat.every.weekday.label               "Hafta içi her gün">
 <!ENTITY event.repeat.bi.weekly.label                   "İki haftada bir">
 <!ENTITY event.repeat.monthly.label                     "Her ay">
 <!ENTITY event.repeat.yearly.label                      "Her yıl">
 <!ENTITY event.repeat.custom.label                      "Özelleştir…">
 
-<!ENTITY event.recurrence.pattern.label                 "Yenileme şablonu">
+<!ENTITY event.recurrence.pattern.label                 "Tekrarlama şablonu">
 <!ENTITY event.recurrence.occurs.label                  "Tekrarla" >
 <!ENTITY event.recurrence.day.label                     "her gün" >
 <!ENTITY event.recurrence.week.label                    "her hafta" >
@@ -241,14 +242,14 @@
 
 <!ENTITY event.recurrence.pattern.every.label           "Her" >
 <!ENTITY repeat.units.days.both                         "gün" >
-<!ENTITY event.recurrence.pattern.every.weekday.label   "Haftanın her günü" >
+<!ENTITY event.recurrence.pattern.every.weekday.label   "Hafta içi her gün" >
 
 <!ENTITY event.recurrence.pattern.weekly.every.label    "Her" >
-<!ENTITY repeat.units.weeks.both                        "Hafta" >
-<!ENTITY event.recurrence.on.label                      "Zaman:" >
+<!ENTITY repeat.units.weeks.both                        "haftada bir" >
+<!ENTITY event.recurrence.on.label                      "Gün:" >
 
 <!ENTITY event.recurrence.pattern.monthly.every.label   "Her" >
-<!ENTITY repeat.units.months.both                       "Ay" >
+<!ENTITY repeat.units.months.both                       "ayın" >
 <!ENTITY event.recurrence.monthly.every.label           "Her" >
 <!ENTITY event.recurrence.monthly.first.label           "Birinci">
 <!ENTITY event.recurrence.monthly.second.label          "İkinci">
@@ -267,7 +268,7 @@
 <!ENTITY event.recurrence.repeat.recur.label            "Tekrarlama günleri">
 
 <!ENTITY event.recurrence.every.label                        "Her:" >
-<!ENTITY repeat.units.years.both                             "Yıl" >
+<!ENTITY repeat.units.years.both                             "yılda" >
 <!ENTITY event.recurrence.pattern.yearly.every.month.label   "Her" >
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
@@ -305,7 +306,7 @@
 <!ENTITY event.recurrence.pattern.yearly.week.5.label        "Perşembe" >
 <!ENTITY event.recurrence.pattern.yearly.week.6.label        "Cuma" >
 <!ENTITY event.recurrence.pattern.yearly.week.7.label        "Cumartesi" >
-<!ENTITY event.recurrence.pattern.yearly.day.label           "gün" >
+<!ENTITY event.recurrence.pattern.yearly.day.label           "günde bir" >
 <!ENTITY event.recurrence.of.label                           "-" >
 <!ENTITY event.recurrence.pattern.yearly.month2.1.label      "Ocak" >
 <!ENTITY event.recurrence.pattern.yearly.month2.2.label      "Şubat" >
@@ -322,9 +323,9 @@
 
 <!ENTITY event.recurrence.range.label                   "Tekrarlama aralığı">
 <!ENTITY event.recurrence.forever.label                 "Bitiş tarihi yok" >
-<!ENTITY event.recurrence.repeat.for.label              "Oluştur" >
-<!ENTITY event.recurrence.appointments.label            "Görüşme" >
-<!ENTITY event.repeat.until.label                       "Şu zamana kadar tekrarla" >
+<!ENTITY event.recurrence.repeat.for.label              "⁠" >
+<!ENTITY event.recurrence.appointments.label            "etkinlik oluştur" >
+<!ENTITY event.repeat.until.label                       "Şu tarihe kadar tekrarla" >
 <!ENTITY event.recurrence.preview.label                 "Önizleme">
 <!-- Attendees dialog -->
 

@@ -37,7 +37,7 @@
 <!ENTITY showUnifinderCmd.accesskey             "b">
 <!ENTITY showUnifinderCmd.tooltip               "Etkinlik bulma bölmesini açar/kapatır">
 
-<!ENTITY calendar.displaytodos.checkbox.label       "Görevleri takvim içinde göster">
+<!ENTITY calendar.displaytodos.checkbox.label       "Görevleri takvimde göster">
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "t">
 
 <!ENTITY goTodayCmd.label                       "Bugün">

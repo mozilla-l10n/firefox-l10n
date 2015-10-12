@@ -13,7 +13,8 @@
 <!ENTITY gdata.migration.upgrade.accesskey "Y">
 <!ENTITY gdata.migration.showagain.label "Her zaman denetle">
 
+<!ENTITY gdata.reminder.default "Varsayılan anımsatıcı">
 <!ENTITY gdata.reminder.action.sms.label "Metin ileti olarak gönder">
 
-
+<!ENTITY gdata.wizard.calendars.description "Lütfen abone olmak istediğiniz takvimleri ve görev listelerini seçin.">
 

@@ -11,7 +11,7 @@
 <!ENTITY pref.dateformat.label "Tarih metin biçemi:" >
 <!ENTITY pref.dateformat.accesskey "T">
 <!ENTITY pref.dateformat.long "Uzun" >
-<!ENTITY pref.dateformat.short "Short"  >
+<!ENTITY pref.dateformat.short "Kısa"  >
 
 <!ENTITY pref.timezones.caption "Saat Dilimi">
 <!ENTITY pref.timezones.label "Saat diliminize en yakın şehri seçin:">
@@ -27,14 +27,14 @@
 
 
 <!ENTITY pref.default_task_tomorrow.label "Yarın">
+<!ENTITY pref.default_task_next_week.label "Gelecek hafta">
 
 
 
 
-
-<!ENTITY pref.calendar.todaypane.agenda.caption "Bugün bölmesi">
-
-
+<!ENTITY pref.calendar.todaypane.agenda.caption "Bugün Bölmesi">
+<!ENTITY pref.soondays.label "Yaklaşan bölümünde gösterilecek süre:">
+<!ENTITY pref.soondays.accesskey "Y">
 
 <!ENTITY pref.accessibility.label "Erişilebilirlik" >
 <!ENTITY pref.systemcolors.label "Erişilebilirlik için renkleri iyileştir" >

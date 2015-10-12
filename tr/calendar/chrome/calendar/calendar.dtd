@@ -14,7 +14,7 @@
 
 <!ENTITY calendar.today.button.label          "Bugün">
 <!ENTITY calendar.tomorrow.button.label       "Yarın">
-<!ENTITY calendar.upcoming.button.label       "Yaklaşan Etkinlik">
+<!ENTITY calendar.upcoming.button.label       "Yaklaşan">
 
 <!ENTITY calendar.events.filter.all.label "Bütün etkinlikler">
 <!ENTITY calendar.events.filter.today.label "Bugünkü etkinlikler">
@@ -169,9 +169,9 @@
 <!ENTITY calendar.context.cutevent.label              "Kes">
 <!ENTITY calendar.context.cutevent.accesskey          "s">
 <!ENTITY calendar.context.copyevent.label             "Kopyala">
-<!ENTITY calendar.context.copyevent.accesskey         "K">
+<!ENTITY calendar.context.copyevent.accesskey         "o">
 <!ENTITY calendar.context.pasteevent.label            "Yapıştır">
-<!ENTITY calendar.context.pasteevent.accesskey        "p">
+<!ENTITY calendar.context.pasteevent.accesskey        "Y">
 <!ENTITY calendar.context.button.label                "Bugün paneli" >
 <!ENTITY calendar.context.button.accesskey            "B" >
 <!ENTITY calendar.context.attendance.menu.label       "Katılım" >
@@ -233,20 +233,20 @@
 <!ENTITY calendar.context.newserver.accesskey          "m">
 <!ENTITY calendar.context.findcalendar.label           "Takvim bul…" >
 <!ENTITY calendar.context.findcalendar.accesskey       "T" >
-<!ENTITY calendar.context.deleteserver2.label          "Takvimi Sil…">
+<!ENTITY calendar.context.deleteserver2.label          "Takvimi sil…">
 <!ENTITY calendar.context.deleteserver2.accesskey      "T">
 <!-- LOCALIZATION NOTE (calendar.context.removeserver.label): Removing the
       calendar is the general action of removing it, while deleting means to
       clear the data and unsubscribing means just taking it out of the calendar
       list. -->
 
-<!ENTITY calendar.context.removeserver.label           "Takvimi Kaldır…">
+<!ENTITY calendar.context.removeserver.label           "Takvimi kaldır…">
 <!ENTITY calendar.context.removeserver.accesskey       "T">
-<!ENTITY calendar.context.unsubscribeserver.label      "Takvim Aboneliğinden Çık…">
+<!ENTITY calendar.context.unsubscribeserver.label      "Takvim aboneliğinden çık…">
 <!ENTITY calendar.context.unsubscribeserver.accesskey  "T">
 <!ENTITY calendar.context.synccalendars.label          "Takvimleri eşitle">
 <!ENTITY calendar.context.synccalendars.accesskey      "k">
-<!ENTITY calendar.context.publish.label                "Takvimi yayınla…">
+<!ENTITY calendar.context.publish.label                "Takvimi yayımla…">
 <!ENTITY calendar.context.publish.accesskey            "T">
 <!ENTITY calendar.context.export.label                 "Takvimi dışa aktar…">
 <!ENTITY calendar.context.export.accesskey             "a">
@@ -326,7 +326,7 @@
 <!ENTITY calendarproperties.enabled.label                  "Takvim devre içi">
 <!ENTITY calendarproperties.forceDisabled.label            "Takvim sağlayıcısı bulunamıyor. Bu tür sorunlar sağlayıcı için gerekli eklentilerin devre dışı bırakılması veya kaldırması ile genelde oluşuyor.">
 <!ENTITY calendarproperties.unsubscribe.label              "Aboneliği iptal et">
-<!ENTITY calendarproperties.unsubscribe.accesskey          "p">
+<!ENTITY calendarproperties.unsubscribe.accesskey          "b">
 <!-- Calendar Publish Dialog -->
 
 <!ENTITY calendar.publish.dialog.title              "Takvimi yayınla">
