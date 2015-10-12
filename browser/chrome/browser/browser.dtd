@@ -684,7 +684,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "Պատրաստ է">
 <!ENTITY editBookmark.cancel.label                   "Չեղարկել">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Անվտանգ կապակցում">
 <!ENTITY identity.connectionNotSecure "Կապակցումը անվտանգ չէ">
@@ -807,15 +807,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 <!ENTITY trackingProtection.unblockPrivate.label "Անջատել պաշտպանությունը այս ա/շրջանի համար">
 <!ENTITY trackingProtection.unblockPrivate.accesskey "Ա">
-
-
+<!ENTITY trackingProtection.block2.label "Միացնել պաշտպանությունը">
+<!ENTITY trackingProtection.block2.accesskey "Մ">
 
 <!ENTITY trackingContentBlocked.message "Հետագծում">
 <!ENTITY trackingContentBlocked.moreinfo "Էջի հատվածները, որոնք հետևում են ձեր առցանց ակտիվությանը, արգելափակված են:">
 <!ENTITY trackingContentBlocked.learnMore "Իմանալ ավելին">
-
-
-
+<!ENTITY trackingContentBlocked.options "Կարգավորումներ">
+<!ENTITY trackingContentBlocked.unblock2.label "Անջատել պաշտպանությունը այս կայքի համար">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "Ա">
 <!ENTITY trackingContentBlocked.block.label "Միացնել պաշտպանությունը">
 <!ENTITY trackingContentBlocked.block.accesskey "Մ">
 <!ENTITY trackingContentBlocked.disabled.message "Հետագծման պաշտպանությունը անջատված է">
