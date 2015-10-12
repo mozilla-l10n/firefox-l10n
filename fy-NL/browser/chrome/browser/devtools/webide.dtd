@@ -26,6 +26,7 @@
 <!ENTITY projectMenu_showPrefs_accesskey "e">
 <!ENTITY projectMenu_manageComponents_label "Ekstra ûnderdielen beheare">
 <!ENTITY projectMenu_manageComponents_accesskey "b">
+<!ENTITY projectMenu_refreshTabs_label "Ljepblêden fernije">
 
 <!ENTITY runtimeMenu_label "Runtime">
 <!ENTITY runtimeMenu_accesskey "R">

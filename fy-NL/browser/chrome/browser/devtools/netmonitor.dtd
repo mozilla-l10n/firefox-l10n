@@ -211,10 +211,6 @@
   -  in a "receive" state. -->
 <!ENTITY netmonitorUI.timings.receive     "Untfangt:">
 
-<!-- LOCALIZATION NOTE (netmonitorUI.security.warning.protocol): A tooltip
-  -  for warning icon that indicates a connection uses insecure protocol. -->
-<!ENTITY netmonitorUI.security.warning.sslv3      "It protokol SSL 3.0 wurdt net mear stipe en is ûnfeilich.">
-
 <!-- LOCALIZATION NOTE (netmonitorUI.security.warning.cipher): A tooltip
   -  for warning icon that indicates a connection uses insecure cipher suite. -->
 <!ENTITY netmonitorUI.security.warning.cipher     "De foar fersifering brûkte kodearring wurdt net mear stipe en is ûnfeilich.">
