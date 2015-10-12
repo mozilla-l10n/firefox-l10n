@@ -13,8 +13,8 @@
 <!ENTITY trackingProtectionPBM5.label         "ใช้การป้องกันการติดตามในหน้าต่างท่องเว็บส่วนตัว">
 <!ENTITY trackingProtectionPBM5.accesskey     "ส">
 <!ENTITY trackingProtectionPBMLearnMore.label "เรียนรู้เพิ่มเติม">
-
-
+<!ENTITY changeBlockList.label          "เปลี่ยนรายการการปิดกั้น">
+<!ENTITY changeBlockList.accesskey      "เ">
 
 <!ENTITY  history.label                 "ประวัติ">
 

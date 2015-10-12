@@ -26,7 +26,8 @@
 
 <!ENTITY  logins.label                  "เข้าระบบ">
 
-
+<!ENTITY  rememberLogins.label          "จำการเข้าระบบของเว็บไซต์">
+<!ENTITY  rememberLogins.accesskey      "จ">
 <!ENTITY  passwordExceptions.label      "ยกเว้น…">
 <!ENTITY  passwordExceptions.accesskey  "ว">
 
@@ -35,4 +36,5 @@
 <!ENTITY  changeMasterPassword.label     "เปลี่ยนรหัสผ่านหลัก…">
 <!ENTITY  changeMasterPassword.accesskey "ล">
 
-
+<!ENTITY  savedLogins.label              "บันทึกการเข้าระบบแล้ว…">
+<!ENTITY  savedLogins.accesskey          "ร">
