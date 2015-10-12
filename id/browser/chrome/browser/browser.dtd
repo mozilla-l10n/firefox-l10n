@@ -428,7 +428,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      submit button in the in-content search UI, to be used by screen readers. -->
 
 <!ENTITY contentSearchInput.label     "Kueri penelusuran">
-
+<!ENTITY contentSearchSubmit.label    "Kirim penelusuran">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
