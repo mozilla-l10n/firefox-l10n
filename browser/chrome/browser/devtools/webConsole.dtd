@@ -11,23 +11,6 @@
 <!ENTITY window.title "Konsol Web">
 <!ENTITY browserConsole.title "Konsol Shfletuesi">
 
-<!ENTITY networkPanel.requestURLColon             "URL Kërkese:">
-<!ENTITY networkPanel.requestMethodColon          "Metodë Kërkese:">
-<!ENTITY networkPanel.statusCodeColon             "Kod Gjendjeje:">
-
-<!ENTITY networkPanel.requestHeaders              "Tituj Kërkese">
-<!ENTITY networkPanel.requestCookie               "Cookie e Dërguar">
-<!ENTITY networkPanel.requestBody                 "Lëndë Kërkese">
-<!ENTITY networkPanel.requestFormData             "Të dhëna Formulari të Dërguar">
-
-<!ENTITY networkPanel.responseHeaders             "Tituj Përgjigjesh">
-<!ENTITY networkPanel.responseCookie              "Cookie të Marra">
-<!ENTITY networkPanel.responseBody                "Lëndë Përgjigjeje">
-<!ENTITY networkPanel.responseBodyCached          "Të dhëna Fshehtine">
-<!ENTITY networkPanel.responseBodyUnknownType     "Lloj i Panjohur Lënde">
-<!ENTITY networkPanel.responseNoBody              "Pa Lëndë Përgjigjeje">
-<!ENTITY networkPanel.responseImage               "Figura e Marrë">
-<!ENTITY networkPanel.responseImageCached         "Figura në Fshehtinë">
 
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
@@ -75,6 +58,17 @@
 <!ENTITY btnConsoleLog          "Regjistër">
 <!ENTITY btnConsoleXhr          "XHR">
 <!ENTITY btnConsoleReflows      "Reflows">
+
+<!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
+  -  the toolbar. It shows or hides messages that the web developer inserted on
+  -  the page for debugging purposes, using calls on the HTTP server. -->
+<!ENTITY btnServerLogging.label       "Shërbyes">
+<!ENTITY btnServerLogging.tooltip     "Mesazhe regjistri të marrë nga një shërbyes">
+<!ENTITY btnServerLogging.accesskey   "M">
+<!ENTITY btnServerErrors              "Gabime">
+<!ENTITY btnServerInfo                "Info">
+<!ENTITY btnServerWarnings            "Sinjalizime">
+<!ENTITY btnServerLog                 "Regjistër">
 
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->

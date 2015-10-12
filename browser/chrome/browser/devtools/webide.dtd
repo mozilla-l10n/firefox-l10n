@@ -26,6 +26,7 @@
 <!ENTITY projectMenu_showPrefs_accesskey "e">
 <!ENTITY projectMenu_manageComponents_label "Administroini Përbërës Ekstra">
 <!ENTITY projectMenu_manageComponents_accesskey "A">
+<!ENTITY projectMenu_refreshTabs_label "Rifresko Skedat">
 
 <!ENTITY runtimeMenu_label "Runtime">
 <!ENTITY runtimeMenu_accesskey "R">
