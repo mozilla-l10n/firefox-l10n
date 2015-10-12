@@ -23,13 +23,13 @@
 <!ENTITY stopButton.label "Ophâlde">
 <!ENTITY stopButton.accessKey "l">
 <!ENTITY userDictionary.label "Persoanlik wurdboek:">
-<!ENTITY moreDictionaries.label "Mear wurdboeken ynlade...">
+<!ENTITY moreDictionaries.label "Mear wurdboeken ynlade…">
 <!ENTITY addToUserDictionaryButton.label "Wurd tafoegje">
 <!ENTITY addToUserDictionaryButton.accessKey "o">
-<!ENTITY editUserDictionaryButton.label "Bewurkje...">
+<!ENTITY editUserDictionaryButton.label "Bewurkje…">
 <!ENTITY editUserDictionaryButton.accessKey "B">
-<!ENTITY recheckButton.label "Side op 'e nij kontrolearje">
-<!ENTITY recheckButton.accessKey "r">
+<!ENTITY recheckButton2.label "Tekst opnij kontrolearje">
+<!ENTITY recheckButton2.accessKey "r">
 <!ENTITY closeButton.label "Slute">
 <!ENTITY closeButton.accessKey "S">
 <!ENTITY sendButton.label "Ferstjoere">
