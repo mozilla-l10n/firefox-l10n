@@ -8,8 +8,8 @@
 
 
 <!ENTITY pref.calendar.view.allview.caption "Genel">
-<!ENTITY pref.calendar.view.dayandweekviews.caption "Gün ve Hafta Görünümü">
-<!ENTITY pref.calendar.view.multiweekview.caption "Çok Haftalı Görünüm">
+<!ENTITY pref.calendar.view.dayandweekviews.caption "Gün ve hafta görünümleri">
+<!ENTITY pref.calendar.view.multiweekview.caption "Çok haftalı görünüm">
 <!ENTITY pref.calendar.view.workweek.caption "Çalışma Günleri">
 
 <!ENTITY pref.weekstarts.label "Hafta başlangıcı:">
@@ -26,7 +26,7 @@
 <!ENTITY pref.calendar.view.visiblehours.accesskey "t">
 <!ENTITY pref.calendar.view.visiblehoursend.label "Bir süredeki saat">
 
-<!ENTITY pref.numberofweeks.label "Varsayılan hafta görünümü (önceki haftalarıda içerir):">
+<!ENTITY pref.numberofweeks.label "Gösterilecek hafta sayısı (önceki haftalar da dahil):">
 <!ENTITY pref.numberofweeks.accesskey "e">
 <!ENTITY pref.numberofpreviousweeks.label "Önceki hafta sayısı:">
 <!ENTITY pref.numberofpreviousweeks.accesskey "c">
