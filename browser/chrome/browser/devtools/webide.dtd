@@ -121,7 +121,7 @@
 <!ENTITY prefs_options_autoconnectruntime "Reconectează-te la runtime-ul anterior">
 <!ENTITY prefs_options_autoconnectruntime_tooltip "Reconectează-te la runtime-ul anterior când WebIDE pornește">
 <!ENTITY prefs_options_rememberlastproject "Ține minte ultimul proiect">
-<!ENTITY prefs_options_rememberlastproject_tooltip "Restore previous project when WebIDE starts">
+<!ENTITY prefs_options_rememberlastproject_tooltip "Restaurează proiectul anterior când WebIDE pornește">
 <!ENTITY prefs_options_templatesurl "URL cu șabloane">
 <!ENTITY prefs_options_templatesurl_tooltip "Indexul șabloanelor disponibile">
 <!ENTITY prefs_options_showeditor "Afișează editorul">
@@ -136,7 +136,7 @@
 <!ENTITY prefs_options_autoclosebrackets "Închide automat parantezele">
 <!ENTITY prefs_options_autoclosebrackets_tooltip "Inserează automat paranteze închise">
 <!ENTITY prefs_options_keybindings "Combinații de taste">
-<!ENTITY prefs_options_keybindings_default "Implicit">
+<!ENTITY prefs_options_keybindings_default "Implicite">
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "Tabelă de permisiuni">
