@@ -703,16 +703,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.weakCipher "ఈ వెబ్‌సైటుతో మీ అనుసంధానం బలహీనమైన ఎన్క్రిప్షన్‌తో వుంది మరియు గుట్టుగా లేదు.">
 <!ENTITY identity.description.weakCipher2 "ఇతరులు మీ సమాచారం చూడగలరు లేదా వెబ్‌సైట్ ప్రవర్తనను మార్చగలరు.">
 <!ENTITY identity.description.activeBlocked "ఈ పేజీనందు సురక్షితంకాని భాగాలను &brandShortName; నిరోధించినది.">
+<!ENTITY identity.description.passiveLoaded "మీరు ఈ సైటుకు గుట్టుగా అనుసంధానించబడటం లేదు. మీరు సమర్పించిన సమాచారం ఇతరులు చూడవచ్చు.">
+<!ENTITY identity.description.passiveLoaded2 "ఈ వెబ్‌సైట్ సురక్షితం కాని కాంటెంట్ కలిగివుంది (చిత్రాలు వంటివి).">
+<!ENTITY identity.description.passiveLoaded3 "&brandShortName; కొంత కాంటెంట్‌ను నిరోధించినప్పటికీ, ఇంకా పేజీపై సురక్షితం కాని కాంటెంట్ వుంది (చిత్రాలు వంటివి).">
+<!ENTITY identity.description.activeLoaded "ఈ వెబ్‌సైట్ సురక్షితం కాని కాంటెంట్‌ను కలిగివుంది (స్క్రిప్ట్స్ వంటివి) మరియు దానిని మీరు గుట్టుగా అనుసంధానించబడటంలేదు.">
+<!ENTITY identity.description.activeLoaded2 "మీరు ఈ సైటుకు సమర్పించిన సమాచారం ఇతరులు చూడవచ్చు (సంకేతపదాలు, సందేశాలు, క్రెడిట్ కార్డ్స్, మొదలగునవి).">
 
-
-
-
-
-
-
+<!ENTITY identity.enableMixedContentBlocking.label "రక్షణను చేతనించు">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "E">
 <!ENTITY identity.disableMixedContentBlocking.label "ఇప్పటికి రక్షణను అచేతనించు">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
-
+<!ENTITY identity.learnMore "మరింత నేర్చుకోండి">
 
 <!ENTITY identity.moreInfoLinkText2 "మరింత సమాచారం">
 
@@ -789,29 +790,32 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "పంచుకొనుటకు మైక్రోఫోన్:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
-
+<!ENTITY getUserMedia.audioCapture.label "టాబ్ నుండి ఆడియో పంచబడును.">
 <!ENTITY getUserMedia.allWindowsShared.message "మీ తెరపైన కనిపించు అన్ని విండోలు పంచుకోబడును.">
 
-
-
-
+<!ENTITY trackingProtection.title "జాడతీయుటపై రక్షణ">
+<!ENTITY trackingProtection.detectedBlocked3 "మీ విహరణ జాడ తెలుసుకునేందు ఈ పైజీపై వున్న భాగములను &brandShortName; నిరోధిస్తోంది.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "మీ విహరణ జాడ తెలుసుకొనే ఎలిమెంట్లను ఈ సైట్ కలిగివుంది. మీరు రక్షణను అచేతనించారు.">
+<!ENTITY trackingProtection.notDetected3 "ఈ పేజీపైన ఎటువంటి జాడ తెలుసుకొనే ఎలిమెంట్స్ లేవు.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-
+<!ENTITY trackingProtection.unblock.label "ఈ సైటుకు రక్షణను అచేతనించు">
+<!ENTITY trackingProtection.unblock.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-
-
-
+<!ENTITY trackingProtection.unblockPrivate.label "ఈ సెషన్‌కు రక్షణను అచేతనించు">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "D">
+<!ENTITY trackingProtection.block2.label "రక్షణను చేతనించు">
+<!ENTITY trackingProtection.block2.accesskey "E">
 
 <!ENTITY trackingContentBlocked.message "ఆరాతీస్తోంది">
 <!ENTITY trackingContentBlocked.moreinfo "మీ ఆన్‌లైన్ కార్యకలాపాలను ట్రాక్ చేసే పేజీనందలి కొన్ని భాగాలు నిరోధించబడినవి.">
 <!ENTITY trackingContentBlocked.learnMore "మరింత నేర్చుకో">
-
-
-
+<!ENTITY trackingContentBlocked.options "ఐచ్ఛికాలు">
+<!ENTITY trackingContentBlocked.unblock2.label "ఈ సైటుకు రక్షణను అచేతనించు">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "రక్షణను చేతనించు">
 <!ENTITY trackingContentBlocked.block.accesskey "E">
 <!ENTITY trackingContentBlocked.disabled.message "ట్రాకింగ్ రక్షణ అచేతనించబడెను">
