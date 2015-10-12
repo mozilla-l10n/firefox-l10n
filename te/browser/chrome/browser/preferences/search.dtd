@@ -17,10 +17,15 @@
 
 <!ENTITY oneClickSearchEngines.label           "ఒక్క-నొక్కు శోధన యంత్రాలు">
 
+<!ENTITY chooseWhichOneToDisplay.label         "శోధన పట్టీ మిమ్ములను ప్రత్యామ్నాయ యంత్రాలను నేరుగా వెతకనిస్తుంది. ఏవి ప్రదర్శితంకావాలో ఎంచుకో.">
 
+<!ENTITY engineNameColumn.label                "శోధన యంత్రం">
+<!ENTITY engineKeywordColumn.label             "కీపదం">
 
+<!ENTITY restoreDefaultSearchEngines.label     "అప్రమేయ శోధన యంత్రాలు తిరిగివుంచు">
+<!ENTITY restoreDefaultSearchEngines.accesskey "D">
 
+<!ENTITY removeEngine.label                    "తీసివేయి">
+<!ENTITY removeEngine.accesskey                "R">
 
-
-
-
+<!ENTITY addMoreSearchEngines.label            "మరిన్ని శోధన యంత్రములను జతచేయి...">
