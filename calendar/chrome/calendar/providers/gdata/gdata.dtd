@@ -4,7 +4,7 @@
 
 <!ENTITY gdata-provider.label "Google Takvim">
 
-<!ENTITY gdata.privacy.default.label "Google öntanımlı">
+<!ENTITY gdata.privacy.default.label "Google varsayılanı">
 <!ENTITY gdata.privacy.default.accesskey "G">
 
 <!ENTITY gdata.migration.title "Salt okunur takvimleri taşı">
