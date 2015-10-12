@@ -304,7 +304,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "D">
 <!ENTITY newPrivateWindow.label     "Dirica manyen me mung">
 <!ENTITY newPrivateWindow.accesskey "D">
-
+<!ENTITY newNonRemoteWindow.label   "Dirica manyen me Non-e10s">
 
 <!ENTITY editMenu.label         "Yub"> 
 <!ENTITY editMenu.accesskey       "Y"> 
@@ -395,6 +395,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Lokke bot dirica matidi:">
 
+<!ENTITY urlbar.searchSuggestionsNotification.question "Imito yilo rwom me yeny mamegi ki tam ikom yeny?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Nong ngec mapol…">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Pe">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Eyo">
@@ -695,11 +696,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.activeBlocked "&brandShortName; ogengo but potbuk man ma pe tye ki ber bedo.">
 <!ENTITY identity.passiveLoaded "But potbuk man pe tye ki ber bedo (calo cal).">
 <!ENTITY identity.activeLoaded "I juko gwokke woko ki i potbuk man.">
-
+<!ENTITY identity.weakEncryption "Potbuk man tiyo ki loko ngec i kod ma goro.">
 <!-- Strings for connection state warnings in the subview. -->
 
 <!ENTITY identity.description.insecure "Kube ni ki kakube man pe tye i mung. Jo mukene twero neno ngec ma i cwalo (calo mung me donyo, kwena, ka me wil, ki mukene).">
-
+<!ENTITY identity.description.weakCipher "Kube ni ki kakube man tiyo ki loko ngec i kod ma goro ki peke i mung.">
 <!ENTITY identity.description.weakCipher2 "Jo mukene twero neno ngec mamegi onyo loko time pa kakube.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; ogengo but potbuk man ma pe tye ki ber bedo.">
 <!ENTITY identity.description.passiveLoaded "Kube mamegi pe tye ki ber bedo kadong jo mukene twero neno ngec ma i nywako ki kakube ne.">
@@ -789,7 +790,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "L">
 <!ENTITY getUserMedia.selectMicrophone.label "Micropon me anywaka:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
-
+<!ENTITY getUserMedia.audioCapture.label "Ki binywako dwon ma i dirica matidi.">
 <!ENTITY getUserMedia.allWindowsShared.message "Ki binywako dirica weng ma nen i wang kompiuta ni.">
 
 <!ENTITY trackingProtection.title "Gwokke ikom lubo kor">

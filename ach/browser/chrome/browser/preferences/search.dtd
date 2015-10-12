@@ -9,7 +9,8 @@
 <!ENTITY provideSearchSuggestions.label        "Mi tam me yeny">
 <!ENTITY provideSearchSuggestions.accesskey    "y">
 
-
+<!ENTITY showURLBarSuggestions.label           "Nyut tam me yeny i adwogi pa lanyut me kabedo">
+<!ENTITY showURLBarSuggestions.accesskey       "k">
 
 <!ENTITY redirectWindowsSearch.label "Tii ki ingin yeny man pi yeny ki i Dirica">
 <!ENTITY redirectWindowsSearch.accesskey "D">
