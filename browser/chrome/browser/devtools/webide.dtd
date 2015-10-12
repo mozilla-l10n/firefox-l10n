@@ -10,7 +10,7 @@
 <!ENTITY projectMenu_newApp_accesskey "N">
 <!ENTITY projectMenu_importPackagedApp_label "Deschide aplicație împachetată…">
 <!ENTITY projectMenu_importPackagedApp_accesskey "P">
-<!ENTITY projectMenu_importHostedApp_label "Open Hosted App…">
+<!ENTITY projectMenu_importHostedApp_label "Deschide aplicație găzduită…">
 <!ENTITY projectMenu_importHostedApp_accesskey "H">
 <!ENTITY projectMenu_selectApp_label "Deschide aplicația…">
 <!ENTITY projectMenu_selectApp_accesskey "O">
@@ -126,7 +126,7 @@
 <!ENTITY prefs_options_showeditor "Afișează editorul">
 <!ENTITY prefs_options_showeditor_tooltip "Afișează editorul intern">
 <!ENTITY prefs_options_tabsize "Mărimea tabulatorului">
-<!ENTITY prefs_options_expandtab "File cu spații">
+<!ENTITY prefs_options_expandtab "Tabulatoare cu spații">
 <!ENTITY prefs_options_expandtab_tooltip "Folosește spații în loc de caractere pentru tabulator">
 <!ENTITY prefs_options_detectindentation "Autoindentare">
 <!ENTITY prefs_options_detectindentation_tooltip "Ghicește indentarea după conținutul sursă">
