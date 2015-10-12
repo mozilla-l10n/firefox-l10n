@@ -24,13 +24,14 @@
 <!ENTITY pref.default_event_length.label "Varsayılan süre:" >
 <!ENTITY pref.default_event_length.accesskey "V">
 
-
-
+<!ENTITY pref.default_task_none.label "Yok">
+<!ENTITY pref.default_task_start_of_day.label "Gün başlangıcı">
+<!ENTITY pref.default_task_end_of_day.label "Gün sonu">
 <!ENTITY pref.default_task_tomorrow.label "Yarın">
 <!ENTITY pref.default_task_next_week.label "Gelecek hafta">
-
-
-
+<!ENTITY pref.default_task_offset_current.label "Şimdiki zamana göre">
+<!ENTITY pref.default_task_offset_start.label "Başlangıca göre">
+<!ENTITY pref.default_task_offset_next_hour.label "Sonraki saate göre">
 
 <!ENTITY pref.calendar.todaypane.agenda.caption "Bugün Bölmesi">
 <!ENTITY pref.soondays.label "Yaklaşan bölümünde gösterilecek süre:">
