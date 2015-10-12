@@ -77,10 +77,14 @@
 <!ENTITY btnConsoleReflows      "Reajustaments">
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
+
+<!ENTITY btnConsoleSharedWorkers "Processos de treball compartits">
 <!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
   -  should not be translated. -->
+<!ENTITY btnConsoleServiceWorkers "Processos de treball de servei">
 <!-- LOCALIZATION NODE (btnConsoleWindowlessWorkers) the term "Workers"
   -  should not be translated. -->
+<!ENTITY btnConsoleWindowlessWorkers "Processos de treball de complements o chrome">
 
 <!ENTITY filterOutput.placeholder "Filtra la sortida">
 <!ENTITY btnClear.label        "Neteja">
@@ -104,5 +108,5 @@
 <!ENTITY closeCmd.key         "W">
 <!ENTITY findCmd.key          "F">
 <!ENTITY clearOutputCtrl.key  "L">
-
-
+<!ENTITY openInVarViewCmd.label "Obre en visualització de variables">
+<!ENTITY openInVarViewCmd.accesskey "v">
