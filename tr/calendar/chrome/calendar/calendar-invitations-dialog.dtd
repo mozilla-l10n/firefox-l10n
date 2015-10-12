@@ -12,7 +12,7 @@
 <!ENTITY calendar.invitations.list.accept.button.label                  "Kabul et">
 <!ENTITY calendar.invitations.list.decline.button.label                 "Reddet">
 <!ENTITY calendar.invitations.list.recurrentevent.text                  "Tekrarlanan etkinlik">
-<!ENTITY calendar.invitations.list.alldayevent.text                     "Tüm gün etkinliği">
+<!ENTITY calendar.invitations.list.alldayevent.text                     "Tam günlük etkinlik">
 <!ENTITY calendar.invitations.list.location.text                        "Konum:">
 <!ENTITY calendar.invitations.list.organizer.text                       "Düzenleyen:">
 <!ENTITY calendar.invitations.list.attendee.text                        "Katılımcı: ">
