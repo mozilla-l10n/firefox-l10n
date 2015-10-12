@@ -17,8 +17,8 @@
 <!ENTITY deleteButton.accesskey      "ч">
 <!ENTITY searchDialogTitle.label     "Пошук листів…">
 <!ENTITY results.label               "Результати">
-<!ENTITY moveButton.label            "Move To">
-<!ENTITY moveButton.accesskey        "T">
+<!ENTITY moveButton.label            "Перемістити">
+<!ENTITY moveButton.accesskey        "П">
 <!ENTITY closeCmd.key                "W"> 
 <!ENTITY openInFolder.label          "Відкрити у теці">
 <!ENTITY openInFolder.accesskey      "т">
@@ -32,8 +32,8 @@
 <!ENTITY propertiesButton.accesskey  "л">
 <!ENTITY composeButton.label         "Написати">
 <!ENTITY composeButton.accesskey     "Н">
-<!ENTITY deleteCardButton.label      "Delete">
-<!ENTITY deleteCardButton.accesskey  "D">
+<!ENTITY deleteCardButton.label      "Видалити">
+<!ENTITY deleteCardButton.accesskey  "В">
 <!ENTITY abSearchDialogTitle.label   "Розширений режим пошуку в адресній книзі">
 
 <!-- Thread Pane -->
@@ -58,23 +58,23 @@
 <!ENTITY idColumn.label "Порядок отримання">
 
 <!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser2.tooltip "Select columns to display">
-<!ENTITY threadColumn2.tooltip "Display message threads">
-<!ENTITY fromColumn2.tooltip "Sort by from">
-<!ENTITY recipientColumn2.tooltip "Sort by recipient">
-<!ENTITY correspondentColumn2.tooltip "Sort by correspondents">
-<!ENTITY subjectColumn2.tooltip "Sort by subject">
-<!ENTITY dateColumn2.tooltip "Sort by date">
-<!ENTITY priorityColumn2.tooltip "Sort by priority">
-<!ENTITY tagsColumn2.tooltip "Sort by tags">
-<!ENTITY accountColumn2.tooltip "Sort by account">
-<!ENTITY statusColumn2.tooltip "Sort by status">
-<!ENTITY sizeColumn2.tooltip "Sort by size">
-<!ENTITY junkStatusColumn2.tooltip "Sort by junk status">
-<!ENTITY unreadColumn2.tooltip "Number of unread messages in thread">
-<!ENTITY totalColumn2.tooltip "Total number of messages in thread">
-<!ENTITY readColumn2.tooltip "Sort by read">
-<!ENTITY receivedColumn2.tooltip "Sort by date received">
-<!ENTITY starredColumn2.tooltip "Sort by star">
-<!ENTITY locationColumn2.tooltip "Sort by location">
-<!ENTITY idColumn2.tooltip "Sort by order received">
+<!ENTITY columnChooser2.tooltip "Оберіть розмови для відображення">
+<!ENTITY threadColumn2.tooltip "Показати повідомлення розмови">
+<!ENTITY fromColumn2.tooltip "Сортувати за відправником">
+<!ENTITY recipientColumn2.tooltip "Сортувати за отримувачем">
+<!ENTITY correspondentColumn2.tooltip "Сортувати за кореспондентами">
+<!ENTITY subjectColumn2.tooltip "Сотртувати за темою">
+<!ENTITY dateColumn2.tooltip "Сортувати за датою">
+<!ENTITY priorityColumn2.tooltip "Сотрувати за приорітетом">
+<!ENTITY tagsColumn2.tooltip "Сортувати за мітками">
+<!ENTITY accountColumn2.tooltip "Сортувати за обліковим записом">
+<!ENTITY statusColumn2.tooltip "Сортувати за статусом">
+<!ENTITY sizeColumn2.tooltip "Сортувати за роміром">
+<!ENTITY junkStatusColumn2.tooltip "Сортувати за небажаністю">
+<!ENTITY unreadColumn2.tooltip "Кількість непрочитаних повідомлень в темі">
+<!ENTITY totalColumn2.tooltip "Загальна кількість повідомлень в темі">
+<!ENTITY readColumn2.tooltip "Сортувати за прочитанням">
+<!ENTITY receivedColumn2.tooltip "Сотрувати за датою отримання">
+<!ENTITY starredColumn2.tooltip "Сортувати за зірками">
+<!ENTITY locationColumn2.tooltip "Сортувати за місцем знаходження">
+<!ENTITY idColumn2.tooltip "Сортувати в порядку отримання">
