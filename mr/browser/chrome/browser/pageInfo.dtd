@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  pageInfoWindow.width  "600">
-
+<!ENTITY  pageInfoWindow.height "550">
 
 <!ENTITY  copy.key              "C">
 <!ENTITY  copy.label            "प्रत बनवा">
@@ -22,7 +22,7 @@
 <!ENTITY  generalReferrer       "संदर्भित URL:">
 <!ENTITY  generalSource         "कॅश स्त्रोत:">
 <!ENTITY  generalModified       "बदलेले:">
-
+<!ENTITY  generalEncoding2      "मजकूर प्रसंकेतन:">
 <!ENTITY  generalMetaName       "नाव">
 <!ENTITY  generalMetaContent    "मजकुर">
 
