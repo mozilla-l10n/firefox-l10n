@@ -33,7 +33,7 @@
 <!ENTITY spellCheckInline1.accesskey          "k">
 <!ENTITY languagePopup.label                  "Dil:">
 <!ENTITY languagePopup.accessKey              "D">
-<!ENTITY downloadDictionaries.label           "Daha Fazla Sözlük İndir">
+<!ENTITY downloadDictionaries.label           "Daha fazla sözlük indir">
 
 <!ENTITY warnOnSendAccelKey.label             "İleti göndermek için klavye kısayolu kullanıldığında onay iste">
 <!ENTITY warnOnSendAccelKey.accesskey         "k">
