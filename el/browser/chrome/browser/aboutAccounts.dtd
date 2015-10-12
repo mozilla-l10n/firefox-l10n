@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAccounts.welcome "Καλώς ήλθατε στο &syncBrand.shortName.label;">
+<!ENTITY aboutAccounts.connected "Συνδεδεμένος">
 
 <!ENTITY aboutAccountsConfig.description "Συνδεθείτε για να συγχρονίσετε τους σελιδοδείκτες, τους κωδικούς, τις καρτέλες σας &amp; άλλα πολλά.">
 <!ENTITY aboutAccountsConfig.startButton.label "Ξεκινήστε">
