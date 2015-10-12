@@ -9,9 +9,11 @@
 <!ENTITY provideSearchSuggestions.label        "Ceeci honnandiyaney noo">
 <!ENTITY provideSearchSuggestions.accesskey    "C">
 
+<!ENTITY showURLBarSuggestions.label           "Ceeci honnandiyaney cebe gorodoo hunyaney zuwoo ra">
+<!ENTITY showURLBarSuggestions.accesskey       "l">
 
-
-
+<!ENTITY redirectWindowsSearch.label "Goy nda ceecijinaa woo Windows ceeciyaney se">
+<!ENTITY redirectWindowsSearch.accesskey "W">
 
 <!ENTITY oneClickSearchEngines.label           "Cee-foo naaguyan ceecijinawey">
 
