@@ -408,7 +408,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Nee">
 
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Ja">
-
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "j">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
