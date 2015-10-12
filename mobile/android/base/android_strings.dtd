@@ -200,8 +200,8 @@
 <!ENTITY pref_home_suggested_sites "Tampilkan saran situs">
 <!ENTITY pref_home_suggested_sites_summary "Menampilkan pintasan ke situs di beranda Anda yang menurut kami akan menarik bagi Anda">
 <!ENTITY pref_category_home_homepage "Beranda">
-
-
+<!ENTITY home_homepage_title "Setel Beranda">
+<!ENTITY home_homepage_use_current_tab "Gunakan tab saat ini">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Ubahsuai">
@@ -218,7 +218,7 @@
 <!ENTITY pref_cookies_disabled "Matikan">
 
 <!ENTITY pref_tracking_protection_title "Perlindungan pelacakan">
-
+<!ENTITY pref_tracking_protection_summary3 "Aktifkan di Penjelajahan Pribadi">
 <!ENTITY pref_donottrack_title "Jangan lacak">
 <!ENTITY pref_donottrack_summary "&brandShortName; akan memberi tahu situs bahwa Anda tidak ingin dilacak">
 
