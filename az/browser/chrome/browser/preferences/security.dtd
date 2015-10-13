@@ -24,7 +24,10 @@
 <!ENTITY  addonExceptions.accesskey     "s">
 
 
+<!ENTITY  logins.label                  "Daxil olmalar">
 
+<!ENTITY  rememberLogins.label          "Saytlar üçün daxil olmaları yadda saxla">
+<!ENTITY  rememberLogins.accesskey      "s">
 <!ENTITY  passwordExceptions.label      "İstisnalar…">
 <!ENTITY  passwordExceptions.accesskey  "n">
 
@@ -33,4 +36,5 @@
 <!ENTITY  changeMasterPassword.label     "Ana şifrəni dəyiş…">
 <!ENTITY  changeMasterPassword.accesskey "d">
 
-
+<!ENTITY  savedLogins.label              "Saxlanmış Daxil olmalar…">
+<!ENTITY  savedLogins.accesskey          "D">

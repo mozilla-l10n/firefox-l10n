@@ -4,16 +4,17 @@
 
 <!ENTITY tracking.label                 "İzleme">
 
-
+<!ENTITY dntTrackingNotOkay4.label     "Saytların məni izləməməsini istə">
+<!ENTITY dntTrackingNotOkay4.accesskey "m">
 <!ENTITY doNotTrackInfo.label          "Daha çox məlumat alın">
-
-
-
-
-
-
-
-
+<!ENTITY trackingProtection5.label     "İzlənmə Qoruması istifadə et">
+<!ENTITY trackingProtection5.accesskey "i">
+<!ENTITY trackingProtectionLearnMore.label "Ətraflı öyrən">
+<!ENTITY trackingProtectionPBM5.label         "Məxfi Pəncərələrdə İzlənmə Qoruması istifadə et">
+<!ENTITY trackingProtectionPBM5.accesskey     "P">
+<!ENTITY trackingProtectionPBMLearnMore.label "Ətraflı öyrən">
+<!ENTITY changeBlockList.label          "Qara Siyahını Dəyiş">
+<!ENTITY changeBlockList.accesskey      "D">
 
 <!ENTITY  history.label                 "Tarixçə">
 
@@ -29,7 +30,8 @@
 <!ENTITY  locbar.searches.label         "Əsas axtarış mühərrikindən uyğun axtarışlar">
 <!ENTITY  locbar.searches.accesskey     "y">
 
-
+<!ENTITY  suggestionSettings.label      "Axtarış mühərriyi təklifləri üçün nizamlamaları dəyiş…">
+<!ENTITY  suggestionSettings.accesskey  "m">
 
 <!ENTITY  acceptCookies.label           "Saytlardan çərəzləri qəbul et">
 <!ENTITY  acceptCookies.accesskey       "e">
