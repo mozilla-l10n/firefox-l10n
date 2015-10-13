@@ -40,7 +40,7 @@
 <!-- LOCALIZATION NOTE (performanceUI.recordButton): This string is displayed
   -  on a button that starts a new profile. -->
 
-<!ENTITY performanceUI.recordButton.tooltip "Ativar o estado da gravação de uma gravação de desempenho.">
+<!ENTITY performanceUI.recordButton.tooltip "Alternar o estado da gravação de uma gravação de desempenho.">
 <!-- LOCALIZATION NOTE (performanceUI.importButton): This string is displayed
   -  on a button that opens a dialog to import a saved profile data file. -->
 
