@@ -18,7 +18,7 @@
 <!ENTITY importButton.tooltip       "Importa e anexa uma nova folha de estilo para o documento">
 <!ENTITY importButton.accesskey     "I">
 
-<!ENTITY visibilityToggle.tooltip   "Trocar visibilidade da folha de estilo">
+<!ENTITY visibilityToggle.tooltip   "Alternar visibilidade da folha de estilo">
 
 <!ENTITY saveButton.label           "Guardar">
 <!ENTITY saveButton.tooltip         "Guardar esta folha de estilo para um ficheiro">
