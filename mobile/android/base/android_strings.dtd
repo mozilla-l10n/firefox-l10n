@@ -285,7 +285,7 @@ size. -->
 <!ENTITY pref_search_suggestions "แสดงคำค้นหาแนะนำ">
 <!ENTITY pref_import_android "นำเข้าจากแอนดรอยด์">
 <!ENTITY pref_import_android_summary "นำเข้าที่คั่นหน้าและประวัติจากเว็บเบราว์เซอร์ในเครื่อง">
-<!ENTITY pref_private_data_history2 "ประวัติการท่องเน็ต">
+<!ENTITY pref_private_data_history2 "ประวัติการท่องเว็บ">
 <!ENTITY pref_private_data_searchHistory "ประวัติการค้นหา">
 <!ENTITY pref_private_data_formdata2 "ประวัติการกรอกฟอร์ม">
 <!ENTITY pref_private_data_cookies2 "คุกกี้และล็อกอินที่เข้าใช้อยู่">
@@ -494,7 +494,7 @@ size. -->
 
 <!ENTITY home_title "หน้าหลัก &brandShortName;">
 <!ENTITY home_history_title "ประวัติ">
-<!ENTITY home_clear_history_button "ล้างประวัติการเข้าเว็บ">
+<!ENTITY home_clear_history_button "ล้างประวัติการท่องเว็บ">
 <!ENTITY home_clear_history_confirm "คุณแน่ใจหรือไม่ว่าคุณต้องการล้างประวัติการเข้าชม?">
 <!ENTITY home_bookmarks_empty "ที่คั่นหน้าที่บันทึกไว้จะแสดงที่นี่">
 <!ENTITY home_closed_tabs_title "แท็บที่เพิ่งปิด">
