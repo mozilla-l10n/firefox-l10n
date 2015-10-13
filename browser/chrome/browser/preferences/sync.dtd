@@ -71,7 +71,7 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Siz daxil olmayıbsınız.">
 <!ENTITY signIn.label                "Daxil ol">
-
+<!ENTITY profilePicture.tooltip      "Profil şəklini dəyiş">
 
 <!ENTITY disconnect.label            "Bağlantını kəs...">
 <!ENTITY verify.label                "E-poçtu Təstiqlə">
@@ -83,12 +83,16 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY welcome.useOldSync.label "Sync-in köhnə versiyasından istifadə edirsiniz?">
 
+<!ENTITY signedOut.caption            "Web-inizi özünüzlə gəzdirin">
+<!ENTITY signedOut.description        "Əlfəçin, keçmiş, vərəq, parol, əlavə və nizamlamalarınızı bütün cihazlarınız arasında sinxronlaşdırın.">
+<!ENTITY signedOut.accountBox.title   "&syncBrand.fxAccount.label; ilə qoşulun">
 
 
 
+<!ENTITY signedIn.engines.label       "Bütün cihazlarda sinxronlaşdır">
 
-
-
+<!ENTITY mobilePromo.start            "Mobil cihazınızda sinronlaşdırmaq istəyirsinizsə ">
 <!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
-
-
+<!ENTITY mobilePromo.androidLink      "Android™">
+<!ENTITY mobilePromo.end              " üçün Firefox endirin.">
+<!ENTITY androidAttribution           "Android, Google Inc.-in qeydə alınmış əmtəə nişanıdır.">
