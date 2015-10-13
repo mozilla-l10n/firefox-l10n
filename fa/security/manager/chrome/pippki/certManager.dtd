@@ -24,7 +24,7 @@
 <!ENTITY certmgr.pending.label                "در حال تأیید گواهی‌ها…">
 <!ENTITY certmgr.subjectinfo.label            "صادر شده برای">
 <!ENTITY certmgr.issuerinfo.label             "صادر شده توسط">
-
+<!ENTITY certmgr.periodofvalidity.label       "مدت اعتبار" >
 <!ENTITY certmgr.fingerprints.label           "اثر انگشت">
 <!ENTITY certmgr.certdetail.title             "جزئیات گواهی">
 <!ENTITY certmgr.certdetail.cn                "نام معمول (CN)">
