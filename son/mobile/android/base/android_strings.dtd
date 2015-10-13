@@ -101,7 +101,7 @@
 
 <!ENTITY settings "Kayandiyaney">
 <!ENTITY settings_title "Kayandiyaney">
-
+<!ENTITY pref_category_input_options "Damhaya suubarey">
 <!ENTITY pref_category_advanced "Jinekoyante">
 <!ENTITY pref_category_customize "Hanse boŋše">
 <!ENTITY pref_category_customize_summary "Šintin moo, ceeciyan, nor lokey, zaayan">
@@ -230,15 +230,17 @@
 
 
 
-
-
-
+<!ENTITY tab_queue_prompt_positive_action_button "Tunandi">
+<!ENTITY tab_queue_prompt_negative_action_button "Manti sohõ">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY tab_queue_notification_text_plural2 "&formatD; kanjey ga batu">
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_text_singular2 "kanje 1 ga batu">
 
 <!ENTITY pref_char_encoding "Harfu hawyan">
 <!ENTITY pref_char_encoding_on "Šilbayboŋoo cebe">
@@ -277,7 +279,7 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled_summary "Dabari wala nungey ga hin ka widewo nda hoorayjinay tana hẽenandi ngi boŋ se">
 <!ENTITY pref_zoom_force_enabled "Azzaati barmayyan tunandi waati kul">
 <!ENTITY pref_zoom_force_enabled_summary "Gaabi ka hantum a boŋ hala war ma hin ka moo kul azzaatoo barmay">
-
+<!ENTITY pref_voice_input "Jinde damhaya">
 
 
 
