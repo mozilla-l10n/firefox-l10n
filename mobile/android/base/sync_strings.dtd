@@ -223,6 +223,7 @@
 <!ENTITY fxaccount_status_linktos 'Kondiĉoj de uzo'>
 <!ENTITY fxaccount_status_linkprivacy 'Rimarko pri privateco'>
 <!ENTITY fxaccount_status_more 'Pli&ellipsis;'>
+<!ENTITY fxaccount_remove_account 'Malkonekti ...'>
 
 <!ENTITY fxaccount_remove_account_dialog_title 'Ĉu forigi konton de Firefox?'>
 <!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; ne plu spegulos kun via konto, sed ĝi ne forigos iun ajn retuman datumon el tiu ĉi aparato.'>
@@ -230,7 +231,6 @@
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast 'Forigita konto de Firefox &formatS;.'>
 
-<!ENTITY fxaccount_remove_account_menu_item 'Forigi konton'>
 <!ENTITY fxaccount_enable_debug_mode 'Aktivigi sencimigan reĝimon'>
 
 <!-- Localization note: this is the name shown by the Android system
