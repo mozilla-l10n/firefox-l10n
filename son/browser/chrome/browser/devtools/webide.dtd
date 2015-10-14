@@ -198,11 +198,11 @@
 <!-- Simulator Options -->
 
 
-
-
+<!ENTITY simulator_name "Maa">
+<!ENTITY simulator_software "Porogaram">
 <!ENTITY simulator_version "Dumi">
-
-
+<!ENTITY simulator_profile "Alhaali">
+<!ENTITY simulator_hardware "Jinay šenda">
 <!ENTITY simulator_device "Jinay">
-
-
+<!ENTITY simulator_screenSize "Diji">
+<!ENTITY simulator_pixelRatio "Biitonbi hinna">
