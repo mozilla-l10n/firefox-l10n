@@ -59,6 +59,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Çox əməliyyatlı Pəncərələr">
 
+<!ENTITY aboutSupport.appBasicsSafeMode "Təhlükəsiz Rejim">
 
 <!ENTITY aboutSupport.showDir.label "Qovluğu Aç">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
