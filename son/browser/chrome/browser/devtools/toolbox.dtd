@@ -97,7 +97,7 @@
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableWorkers.label    "Goykaw hanseyan tunandi (cinari dumi no)">
-
+<!ENTITY options.enableWorkers.tooltip  "Suubarooo woo tunandiyanoo ka too cinakaw goyjinawey ma hasaraw kaa">
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
