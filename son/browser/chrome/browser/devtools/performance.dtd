@@ -45,9 +45,13 @@
 <!ENTITY performanceUI.exportButton "Gaabu">
 <!-- LOCALIZATION NOTE (performanceUI.clearButton): This string is displayed
   -  on a button that removes all the recordings. -->
+
+<!ENTITY performanceUI.clearButton "Tuusu">
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
 
+<!ENTITY performanceUI.toolbar.waterfall "Harikaŋay">
+<!ENTITY performanceUI.toolbar.js-calltree "Ciyari tuuri">
 <!ENTITY performanceUI.toolbar.memory-calltree "Fersey">
 <!ENTITY performanceUI.toolbar.js-flamegraph "JS Flame bii ceberi">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "Fersey bii ceberi">
