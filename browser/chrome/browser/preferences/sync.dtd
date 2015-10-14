@@ -72,22 +72,22 @@ both, to better adapt this sentence to their language.
 <!ENTITY notSignedIn.label           "Siz daxil olmayıbsınız.">
 <!ENTITY signIn.label                "Daxil ol">
 <!ENTITY profilePicture.tooltip      "Profil şəklini dəyiş">
-
+<!ENTITY verifiedManage.label        "Hesabı idarə et">
 <!ENTITY disconnect.label            "Bağlantını kəs...">
 <!ENTITY verify.label                "E-poçtu Təstiqlə">
 <!ENTITY forget.label                "Bu e-poçtu unut">
 
 <!ENTITY welcome.description "Harda &brandShortName; işlətsəniz vərəqləriniz, əlfəcinləriniz, şifrələriniz və s. sizinlə olsun.">
-
-
+<!ENTITY welcome.signIn.label "Daxil ol">
+<!ENTITY welcome.createAccount.label "Hesab Aç">
 
 <!ENTITY welcome.useOldSync.label "Sync-in köhnə versiyasından istifadə edirsiniz?">
 
 <!ENTITY signedOut.caption            "Web-inizi özünüzlə gəzdirin">
 <!ENTITY signedOut.description        "Əlfəçin, keçmiş, vərəq, parol, əlavə və nizamlamalarınızı bütün cihazlarınız arasında sinxronlaşdırın.">
 <!ENTITY signedOut.accountBox.title   "&syncBrand.fxAccount.label; ilə qoşulun">
-
-
+<!ENTITY signedOut.accountBox.create  "Hesab Aç">
+<!ENTITY signedOut.accountBox.signin  "Daxil ol">
 
 <!ENTITY signedIn.engines.label       "Bütün cihazlarda sinxronlaşdır">
 
