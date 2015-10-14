@@ -732,7 +732,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.enableMixedContentBlocking.accesskey "e">
 <!ENTITY identity.disableMixedContentBlocking.label "Korumayı şimdilik devre dışı bırak">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "d">
-<!ENTITY identity.learnMore "Daha fazla bilgi">
+<!ENTITY identity.learnMore "Daha fazla bilgi al">
 
 <!ENTITY identity.moreInfoLinkText2 "Daha fazla bilgi">
 
@@ -772,7 +772,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.activated.description "<label/> servisleri etkinleştirilmiştir. Servis ayarlarınızı <label class='text-link'>Eklenti Yöneticisi</label>'nde değiştirebilirsiniz.">
 <!ENTITY social.activated.undo.label "Bunu geri al!">
 <!ENTITY social.activated.undo.accesskey "B">
-<!ENTITY social.learnMore.label "Daha fazla bilgi…">
+<!ENTITY social.learnMore.label "Daha fazla bilgi al…">
 <!ENTITY social.learnMore.accesskey "D">
 <!ENTITY social.closeNotificationItem.label "Şimdi değil">
 
@@ -832,7 +832,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingContentBlocked.message "İzleme">
 <!ENTITY trackingContentBlocked.moreinfo "Sayfadaki çevrimiçi etkinliklerinizi izleyen kısımlar engellenmiştir.">
-<!ENTITY trackingContentBlocked.learnMore "Daha fazla bilgi">
+<!ENTITY trackingContentBlocked.learnMore "Daha fazla bilgi al">
 <!ENTITY trackingContentBlocked.options "Seçenekler">
 <!ENTITY trackingContentBlocked.unblock2.label "Bu sitede korumayı devre dışı bırak">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "d">
@@ -895,7 +895,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY processHang.terminateProcess.label       "Web işlemini sonlandır">
 <!ENTITY processHang.terminateProcess.accessKey   "W">
 
-<!ENTITY emeLearnMoreContextMenu.label            "DRM hakkında daha fazla bilgi…">
+<!ENTITY emeLearnMoreContextMenu.label            "DRM hakkında daha fazla bilgi alın…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 <!ENTITY emeNotificationsNotNow.label             "Şimdi değil">
 <!ENTITY emeNotificationsNotNow.accesskey         "d">
