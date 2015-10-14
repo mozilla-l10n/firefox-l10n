@@ -114,14 +114,14 @@
 
 <!ENTITY fxaccount_full_label "حساب فایرفاکس">
 
-
+<!ENTITY fxaccount_custom_server_sync_title "ذخیرۀ داده‌های هم‌گام‌سازی بر روی کارگزار">
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
 
 <!ENTITY fxaccount_email_hint "پست الکترونیکی">
 <!ENTITY fxaccount_password_hint "گذرواژه">
-
+<!ENTITY fxaccount_password_hide "مخفی کردن">
 <!ENTITY fxaccount_password_show "نمایش">
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
@@ -135,7 +135,7 @@
 <!ENTITY fxaccount_policy_linktos "شرایط ارائه خدمات">
 <!ENTITY fxaccount_policy_linkprivacy "نکات حریم خصوصی">
 
-<!ENTITY fxaccount_getting_started_welcome_to_sync "به &syncBrand.shortName.label;خوش‌آمدید">
+<!ENTITY fxaccount_getting_started_welcome_to_sync "به &syncBrand.shortName.label; خوش آمدید">
 <!ENTITY fxaccount_getting_started_description2 "برای همگام‌سازی زبانه‌ها، نشانک‌ها و نشست‌های خود وارد شوید.">
 <!ENTITY fxaccount_getting_started_get_started "شروع به کار">
 <!ENTITY fxaccount_getting_started_old_firefox "آیا از نسخه قدیمی &syncBrand.shortName.label; استفاده می‌کنید؟">
@@ -150,7 +150,7 @@
 <!ENTITY fxaccount_create_account_year_of_birth "سال تولد">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_button "بعدی">
-<!ENTITY fxaccount_create_account_choose_what_to_sync "انتخاب کنید چه چیزی همگام‌سازی شود">
+<!ENTITY fxaccount_create_account_choose_what_to_sync "انتخاب کنید چه چیزی هم‌گام‌سازی شود">
 <!ENTITY fxaccount_create_account_sign_in_instead "حساب کاربری دارید؟ وارد شوید">
 <!ENTITY fxaccount_create_account_1990_or_earlier "۱۹۹۰ یا زودتر">
 <!ENTITY fxaccount_create_account_unknown_error "امکان ایجاد حساب‌کاربری وجود ندارد">
@@ -162,7 +162,7 @@
 <!ENTITY fxaccount_confirm_account_header "حساب خود را تایید کنید">
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link "پیوند تایید برای &formatS; ارسال شد">
-<!ENTITY fxaccount_confirm_account_resend_email "ارسال مجدد پست الکترونیکی ">
+<!ENTITY fxaccount_confirm_account_resend_email "ارسال مجدد پست الکترونیکی">
 <!ENTITY fxaccount_confirm_account_change_email "آدرس پست الکترونیکی خود را فراموش کرده‌اید؟">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "پست‌الکترونیکی تایید ارسال شد">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "امکان ارسال تایید برای پست الکترونیکی وجود ندارد">

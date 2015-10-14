@@ -8,7 +8,7 @@
 
 <!ENTITY firstrun_panel_title_welcome "خوش آمدید">
 <!ENTITY  onboard_start_message3 "مرور با &brandShortName;">
-<!ENTITY  onboard_start_subtext3 "تجربه‌ی مرور وب در موبایل را مختص خود کنید.">
+<!ENTITY  onboard_start_subtext3 "تجربۀ مرور وب در موبایل را مختص خود کنید.">
 <!ENTITY  onboard_start_button_account "وارد شوید به ‪&brandShortName;">
 <!ENTITY  onboard_start_button_browser "شروع وب‌گردی">
 <!ENTITY firstrun_button_next "بعدی">
@@ -157,7 +157,7 @@
 <!ENTITY pref_category_display "نمایش">
 <!ENTITY pref_category_display_summary "متن، نوار عنوان، مرور کردن به صورت تمام صفحه">
 <!ENTITY pref_category_privacy_short "حریم‌خصوصی">
-<!ENTITY pref_category_privacy_summary2 "مدیریت ورود, کوکی‌ها, ره‌گیری, داده">
+<!ENTITY pref_category_privacy_summary2 "مدیریت ورود، کوکی‌ها، ره‌گیری، داده">
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "درباره &brandShortName;، پرسش‌های متداول، انتخاب داده‌ها">
 <!ENTITY pref_category_datareporting "انتخاب داده‌ها">
@@ -182,7 +182,7 @@
 <!ENTITY pref_remember_signons2 "بخاطر سپردن ورودها">
 <!ENTITY pref_open_external_urls_privately_title "باز کردن پیوند در زبانه خصوصی">
 <!ENTITY pref_open_external_urls_privately_summary "برای تمامی پیوندهای خارجی که بازشده اند در &brandShortName;">
-<!ENTITY pref_manage_logins "مدیریت ورودها">
+<!ENTITY pref_manage_logins "مدیریت ورود">
 
 <!ENTITY pref_category_home "خانه">
 <!ENTITY pref_category_home_summary "صفحه‌آغازین خود را شخصی سازی کنید">
@@ -218,12 +218,12 @@
 <!ENTITY pref_cookies_disabled "غیرفعال شد">
 
 <!ENTITY pref_tracking_protection_title "محافظت در برابر ردگیری">
-<!ENTITY pref_tracking_protection_summary3 "فعال شده در حالت مرور ناشناس">
+<!ENTITY pref_tracking_protection_summary3 "فعال شده در حالت مرور خصوصی">
 <!ENTITY pref_donottrack_title "ردیابی نکن">
 <!ENTITY pref_donottrack_summary "&brandShortName; به سایت‌ها خواهد گفت که شما نمی‌خواهید ردیابی شوید.">
 
 <!ENTITY tracking_protection_prompt_title "هم‌اکنون با قابلیت محافظت در برابر ردگیری">
-<!ENTITY tracking_protection_prompt_text "به صورت خودکار عناصر ردیابی بلاک می شود بنابراین جایی برای نگرانی وجود ندارد.">
+<!ENTITY tracking_protection_prompt_text "عناصر ردیابی به طور فعال مسدود می شود بنابراین جایی برای نگرانی وجود ندارد.">
 <!ENTITY tracking_protection_prompt_tip_text "برای اطلاعات بیشتر تنظیمات حریم خصوصی را ببنید">
 <!ENTITY tracking_protection_prompt_action_button "گرفتم!">
 
@@ -283,16 +283,16 @@ size. -->
 <!ENTITY pref_zoom_force_enabled_summary "نادیده‌ گرفتن درخواست‌ها بنابراین امکان بزرگنمایی در هر صفحه">
 <!ENTITY pref_voice_input "ورودی صدا">
 <!ENTITY pref_voice_input_summary "مجوز فرمان صوتی در نوار عنوان">
-
+<!ENTITY pref_qrcode_enabled "خواننده کد QR">
 <!ENTITY pref_qrcode_enabled_summary "اجازه قرارگیری بارکدخوان QR در نوار عنوان">
 
 <!ENTITY pref_use_master_password "استفاده از گذرواژهٔ اصلی">
 <!ENTITY pref_sync "هم‌گام‌سازی">
-<!ENTITY pref_sync_summary2 "زبانه‌ها,نشانک‌ها, ورودها و تاریخچه خود را همگام سازی کنید">
+<!ENTITY pref_sync_summary2 "زبانه‌ها، نشانک‌ها، ورودها و تاریخچه خود را هم‌گام‌سازی کنید">
 <!ENTITY pref_search_suggestions "نمایش پیشنهادهای جست‌وجو">
 <!ENTITY pref_import_android "وارد کردن از آندروید">
 <!ENTITY pref_import_android_summary "وارد‌کردن نشانک‌ها و تاریخچه از مرورگر اصلی">
-<!ENTITY pref_private_data_history2 "تاریخچه‌ی مرورگر">
+<!ENTITY pref_private_data_history2 "تاریخچۀ مرور">
 <!ENTITY pref_private_data_searchHistory "جست‌وجو در تاریخچه">
 <!ENTITY pref_private_data_formdata2 "از تاریخچه">
 <!ENTITY pref_private_data_cookies2 "کوکی‌ها و ورود های فعال">
@@ -418,12 +418,12 @@ size. -->
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
 
 <!ENTITY doorhanger_login_no_username "[بدون نام کاربری]">
-<!ENTITY doorhanger_login_edit_title "ویرایش ورود">
+<!ENTITY doorhanger_login_edit_title "ویرایش اطلاعات ورود">
 <!ENTITY doorhanger_login_edit_username_hint "نام کاربر">
 <!ENTITY doorhanger_login_edit_password_hint "گذرواژه">
 <!ENTITY doorhanger_login_edit_toggle "نشان دادن گذرواژه‌ها">
 <!ENTITY doorhanger_login_edit_toast_error "ذخیره ورود ناموفق بود">
-
+<!ENTITY doorhanger_login_select_message "گذرواژه از &formatS; رونوشت شود؟">
 <!ENTITY doorhanger_login_select_toast_copy "گذرواژه به کلیپ‌بورد کپی شد">
 <!ENTITY doorhanger_login_select_toast_copy_error "امکان کپی گذرواژه وجود ندارد">
 <!ENTITY doorhanger_login_select_action_text "اطلاعات ورود دیگری را انتخاب کنید">
@@ -444,7 +444,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "پنهان شدن &brandShortName; از نوار عنوان هنگامی حرکت به سمت پایین صفحه">
 
 <!ENTITY pref_tab_queue_title2 "باز‌کردن چندین پیوند">
-<!ENTITY pref_tab_queue_summary3 "تا زمان دیگری که &brandShortName; را باز کنید، ذخیره‌شان می‌کند.">
+<!ENTITY pref_tab_queue_summary3 "ذخیره اطلاعات تا نوبت بعدی که &brandShortName; را باز می‌کنید">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -703,6 +703,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
+
+<!ENTITY devtools_auth_scan_header "در حال اسکن کردن کد QR نمایش داده شده در دستگاه دیگرتان">
 <!-- Restrictions -->
 <!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
@@ -728,5 +730,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
 <!ENTITY bookmarks_marketplace "فروشگاه فایرفاکس">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!ENTITY bookmarks_restricted_support2 "راهنمایی و پشتیبانی فایرفاکس برای پروفایل‌های محدود شده روی رایانه‌های لوحی اندرویدی">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
 <!ENTITY bookmarks_restricted_webmaker "وب را یاد‌بگیرید: Mozilla Webmaker">
