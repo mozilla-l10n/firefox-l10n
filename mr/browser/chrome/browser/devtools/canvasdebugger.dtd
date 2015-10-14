@@ -25,6 +25,8 @@
 <!ENTITY canvasDebuggerUI.emptyNotice2    "ॲनिमेशन फ्रेमचे कॉल स्टॅक रेकॉर्ड करण्यासाठी बटन.">
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.waitingNotice): This is the label shown
   -  in the call list view while recording a snapshot. -->
+
+<!ENTITY canvasDebuggerUI.waitingNotice   "अॅनिमेशन चक्र नोंदत आहे...">
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.recordSnapshot): This string is displayed
   -  on a button that starts a new snapshot. -->
 
