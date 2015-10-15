@@ -584,17 +584,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_insecure "Nicht gesicherte Verbindung">
 
 <!-- Mixed content notifications in site identity popup -->
-<!ENTITY mixed_content_blocked_all1 "&brandShortName; hat nicht gesichert übertragenen Inhalt auf dieser Seite blockiert.">
-<!ENTITY mixed_content_blocked_some1 "&brandShortName; hat einen Teil des nicht gesichert übertragenen Inhalts auf dieser Seite blockiert.">
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; hat nicht gesichert übertragene Inhalte auf dieser Seite blockiert.">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; hat einen Teil der nicht gesichert übertragenen Inhalte auf dieser Seite blockiert.">
 <!ENTITY mixed_content_display_loaded1 "Teile dieser Seite wurden nicht sicher übertragen (wie z.B. Grafiken).">
-<!ENTITY mixed_content_protection_disabled1 "Sie haben den Schutz vor nicht gesichert übertragenem Inhalt deaktiviert.">
+<!ENTITY mixed_content_protection_disabled1 "Sie haben den Schutz vor nicht gesichert übertragenen Inhalten deaktiviert.">
 
 <!-- Tracking content notifications in site identity popup -->
 <!ENTITY doorhanger_tracking_title "Schutz vor Aktivitätenverfolgung">
 <!ENTITY doorhanger_tracking_state_enabled "Aktiviert">
 <!ENTITY doorhanger_tracking_state_disabled "Deaktiviert">
-<!ENTITY doorhanger_tracking_message_enabled1 "Versuche Ihr Online-Verhalten zu verfolgen wurden blockiert.">
-<!ENTITY doorhanger_tracking_message_disabled2 "Diese Seite enthält Elemente, die Ihr Surfaktivitäten verfolgen könnten.">
+<!ENTITY doorhanger_tracking_message_enabled1 "Versuche, Ihr Online-Verhalten zu verfolgen, wurden blockiert.">
+<!ENTITY doorhanger_tracking_message_disabled2 "Diese Seite enthält Elemente, die Ihre Surfaktivitäten verfolgen könnten.">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Weitere Informationen">
