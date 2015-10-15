@@ -13,6 +13,7 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "Anda tidak sedang dalam Penjelajahan Privat">
 
+<!ENTITY privatebrowsingpage.description.private4 "&brandShortName; akan mencegah Anda dilacak dan tidak akan mengingat riwayat apapun, tetapi berkas yang diunduh dan markah baru akan tetap tersimpan di peranti Anda.">
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
