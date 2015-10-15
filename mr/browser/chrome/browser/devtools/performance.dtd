@@ -11,8 +11,14 @@
 <!-- LOCALIZATION NOTE (performanceUI.startRecording/performanceUI.stopRecording): These are
   -  the labels shown on the main recording buttons to start/stop recording. -->
 
+
+
+<!ENTITY performanceUI.startRecording "कामगिरी नोंदण्यास सुरुवात करा">
+<!ENTITY performanceUI.stopRecording  "कामगिरी नोंदण्यास थांबवा">
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusTooltip): This string
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
+
+<!ENTITY performanceUI.bufferStatusTooltip "प्रोफाईलर चक्राकार बफर मध्ये नमुने साठवते, आणि एकदा बफर नोंदणीची मर्यादा पूर्ण झाली की नवीन नमुने नोंदणीच्या सुरुवातीला ओव्हरराईट करायला सुरुवात होते. ">
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.nonE10SBuild): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a non-multiprocess build. -->
