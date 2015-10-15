@@ -223,7 +223,7 @@
 <!ENTITY pref_donottrack_summary "&brandShortName; akan memberi tahu situs bahwa Anda tidak ingin dilacak">
 
 <!ENTITY tracking_protection_prompt_title "Kini dengan Perlindungan Pelacakan">
-
+<!ENTITY tracking_protection_prompt_text "Secara aktif memblokir elemen pelacakan sehingga Anda tidak perlu khawatir.">
 <!ENTITY tracking_protection_prompt_tip_text "Kunjungi setelan Privasi untuk mempelajari lebih lanjut">
 <!ENTITY tracking_protection_prompt_action_button "Paham!">
 
