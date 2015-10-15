@@ -13,11 +13,11 @@
 <!ENTITY  onboard_start_button_browser "شروع وب‌گردی">
 <!ENTITY firstrun_button_next "بعدی">
 
-<!ENTITY  onboard_start_restricted1 "با این نسخه ساده شده از &brandShortName; امن بمانید و زندگی آنلاین خود را در دستان خود بگیرید.">
+<!ENTITY  onboard_start_restricted1 "با این نسخۀ ساده شده از &brandShortName; امن بمانید و زندگی آنلاین خود را در دستان خود بگیرید.">
 
 <!ENTITY firstrun_import_title "وارد کردن">
 <!ENTITY firstrun_import_message "به &brandShortName; خوش‌آمدید">
-<!ENTITY firstrun_import_subtext "واردکردن نشانک‌ها و تاریخچه از سایر مرورگرها.">
+<!ENTITY firstrun_import_subtext "تاریخچه و نشانک‌های خود را از یک مرورگر دیگر وارد کنید.">
 <!ENTITY firstrun_import_action "انتقال به ‪&brandShortName;">
 <!ENTITY firstrun_import_dialog_button "انتقال">
 <!ENTITY firstrun_import_progress_title "در حال انتقال">
