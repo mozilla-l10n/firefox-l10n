@@ -4,10 +4,10 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "नविन टॅब">
-
-
-
-
+<!ENTITY newtab.customize.classic "आपल्या अव्वल साईट्स दर्शवा">
+<!ENTITY newtab.customize.cog.enhanced "सुचवलेल्या साईट्स समाविष्ट करा">
+<!ENTITY newtab.customize.cog.title2 "नवीन टॅब कंट्रोल्स">
+<!ENTITY newtab.customize.cog.learn "नवीन टॅब संबंधी जाणून घ्या">
 
 
 
