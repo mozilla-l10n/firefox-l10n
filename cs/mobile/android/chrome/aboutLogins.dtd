@@ -7,4 +7,4 @@
 <!ENTITY aboutLogins.title                       "Přihlášení">
 <!ENTITY aboutLogins.update                      "Aktualizovat">
 <!ENTITY aboutLogins.emptyLoginText              "Mějte svá přihlášení v bezpečí">
-<!ENTITY aboutLogins.emptyLoginHint              "Přihlášení a jejich údaje, které jste pomocí &brandShortName; uložili se zobrazí zde.">
+<!ENTITY aboutLogins.emptyLoginHint              "Přihlášení a jejich údaje, které jste pomocí &brandShortName; uložili, se zobrazí zde.">
