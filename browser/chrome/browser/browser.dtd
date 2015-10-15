@@ -805,19 +805,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-
-
-
+<!ENTITY trackingProtection.unblockPrivate.label "ह्या सत्रासाठी सुरक्षा बंद करा">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "D">
+<!ENTITY trackingProtection.block2.label "सुरक्षा सक्रीय करा">
+<!ENTITY trackingProtection.block2.accesskey "E">
 
 <!ENTITY trackingContentBlocked.message "ट्रॅकिंग">
-
-
-
-
-
-
-
-
+<!ENTITY trackingContentBlocked.moreinfo "आपल्या आॅनलाइन कार्याचा मागोवा घेणारे पृष्ठाचे काही भाग अडवले गेले आहेत.">
+<!ENTITY trackingContentBlocked.learnMore "आणखी शिका">
+<!ENTITY trackingContentBlocked.options "पर्याय">
+<!ENTITY trackingContentBlocked.unblock2.label "ह्या साईटसाठी सुरक्षा बंद करा">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
+<!ENTITY trackingContentBlocked.block.label "सुरक्षा सक्रीय करा">
+<!ENTITY trackingContentBlocked.block.accesskey "E">
+<!ENTITY trackingContentBlocked.disabled.message "मागोवा सुरक्षा निष्क्रीत केलेले आहे">
 
 <!ENTITY pointerLock.notification.message "पुन्हा दाखवण्याकरिता कोणत्याही वेळी ESC दाबा.">
 
@@ -843,38 +844,47 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
 
-
-
+<!ENTITY panicButton.view.mainTimeframeDesc       "शेवटचे केलेले कार्य विसरा:">
+<!ENTITY panicButton.view.5min                    "पाच मिनिटे">
+<!ENTITY panicButton.view.2hr                     "दोन तास">
+<!ENTITY panicButton.view.day                     "24 तास">
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
 
-
-
-
+<!ENTITY panicButton.view.mainActionDesc          "कार्यवाहीमुळे पुढील बाब होईल:">
+<!ENTITY panicButton.view.deleteCookies           "अलीकडील <html:strong>कुकीज</html:strong> काढा">
+<!ENTITY panicButton.view.deleteHistory           "अलिकडील <html:strong>इतिहास</html:strong>नष्ट करा">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "सगळे <html:strong>टॅब</html:strong> आणि <html:strong>पटल</html:strong> बंद करा">
+<!ENTITY panicButton.view.openNewWindow           "नविन पटल उघडा">
 
 <!ENTITY panicButton.view.undoWarning             "ही कृती रद्द करणे अशक्य.">
+<!ENTITY panicButton.view.forgetButton            "विसरा!">
 
+<!ENTITY panicButton.thankyou.msg1                "आपला अलीकडील इतिहास नष्ट केला आहे">
+<!ENTITY panicButton.thankyou.msg2                "आपले ब्राउझिंग सुरक्षित असो!">
+<!ENTITY panicButton.thankyou.buttonlabel         "धन्यवाद!">
 
+<!ENTITY processHang.terminateScript.label        "स्क्रिप्ट थांबवा">
+<!ENTITY processHang.terminateScript.accessKey    "S">
+<!ENTITY processHang.debugScript.label            "स्क्रिप्ट डीबग करा">
+<!ENTITY processHang.debugScript.accessKey        "D">
+<!ENTITY processHang.terminatePlugin.label        "प्लगइन नष्ट करा">
+<!ENTITY processHang.terminatePlugin.accessKey    "P">
+<!ENTITY processHang.terminateProcess.label       "वेब प्रक्रिया नष्ट करा">
+<!ENTITY processHang.terminateProcess.accessKey   "K">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY emeLearnMoreContextMenu.label            "DRM बद्दल अधिक जाणून घ्या…">
+<!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+<!ENTITY emeNotificationsNotNow.label             "आत्ता नाही">
+<!ENTITY emeNotificationsNotNow.accesskey         "N">
 <!ENTITY emeNotificationsDontAskAgain.label       "मला पुन्हा विचारू नका (D)">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "D">
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 
-
-
-
+<!ENTITY saveToPocketCmd.label     "पृष्ठ पॉकेट मध्ये संकलित करा">
+<!ENTITY saveToPocketCmd.accesskey "k">
+<!ENTITY saveLinkToPocketCmd.label     "दुवा पॉकेट मध्ये संकलित करा">
+<!ENTITY saveLinkToPocketCmd.accesskey "o">
+<!ENTITY pocketMenuitem.label      "पॉकेट सूची पहा">
