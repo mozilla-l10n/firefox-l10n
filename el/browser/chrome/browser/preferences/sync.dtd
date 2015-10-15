@@ -71,6 +71,8 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "You are not signed in.">
 <!ENTITY signIn.label                "Sign in">
+<!ENTITY profilePicture.tooltip      "Αλλαγή εικόνας προφίλ">
+<!ENTITY verifiedManage.label        "Διαχείριση λογαριασμού">
 <!ENTITY disconnect.label            "Disconnect…">
 <!ENTITY verify.label                "Verify Email">
 <!ENTITY forget.label                "Forget this Email">
@@ -81,6 +83,16 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY welcome.useOldSync.label "Using an older version of Sync?">
 
+<!ENTITY signedOut.caption            "Πάρτε το διαδίκτυό σας μαζί σας">
+<!ENTITY signedOut.description        "Συγχρονίστε τους σελιδοδείκτες, το ιστορικό, τις καρτέλες, τους κωδικούς, τα πρόσθετα και τις προτιμήσεις σας σε όλες τις συσκευές σας.">
+<!ENTITY signedOut.accountBox.title   "Συνδεθείτε με έναν &syncBrand.fxAccount.label;">
+<!ENTITY signedOut.accountBox.create  "Δημιουργία λογαριασμού">
+<!ENTITY signedOut.accountBox.signin  "Είσοδος">
 
+<!ENTITY signedIn.engines.label       "Συγχρονίστε όλες τις συσκευές σας">
 
+<!ENTITY mobilePromo.start            "Κάντε λήψη του Firefox για ">
 <!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+<!ENTITY mobilePromo.androidLink      "Android™">
+<!ENTITY mobilePromo.end              " για να συγχρονίσετε την φορητή συσκευή σας.">
+<!ENTITY androidAttribution           "Το Android αποτελεί εμπορικό σήμα της Google Inc.">

@@ -24,7 +24,9 @@
 <!ENTITY  addonExceptions.accesskey     "Ε">
 
 
+<!ENTITY  logins.label                  "Στοιχεία εισόδου">
 
+<!ENTITY  rememberLogins.label          "Απομνημόνευση στοιχείων εισόδου για ιστοσελίδες">
 <!ENTITY  passwordExceptions.label      "Εξαιρέσεις...">
 <!ENTITY  passwordExceptions.accesskey  "ξ">
 
@@ -33,3 +35,4 @@
 <!ENTITY  changeMasterPassword.label     "Αλλαγή κύριου κωδικού...">
 <!ENTITY  changeMasterPassword.accesskey "γ">
 
+<!ENTITY  savedLogins.label              "Αποθηκευμένα στοιχεία εισόδου…">
