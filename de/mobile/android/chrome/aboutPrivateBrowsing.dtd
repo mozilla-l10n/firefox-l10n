@@ -13,7 +13,7 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "Sie befinden sich nicht im Privaten Modus">
 
-<!ENTITY privatebrowsingpage.description.private4 "&brandShortName; verhindert, dass Ihre Aktivitäten verfolgt werden, und wird keine Chronik anlegen. Heruntergeladene Dateien und neue Lesezeichen bleiber aber auf Ihrem Gerät gespeichert.">
+<!ENTITY privatebrowsingpage.description.private4 "&brandShortName; verhindert, dass Ihre Aktivitäten verfolgt werden, und wird keine Chronik anlegen. Heruntergeladene Dateien und neue Lesezeichen bleiben aber auf Ihrem Gerät gespeichert.">
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
