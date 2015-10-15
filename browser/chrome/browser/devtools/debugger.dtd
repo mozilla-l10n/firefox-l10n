@@ -168,6 +168,8 @@
 <!ENTITY debuggerUI.seMenuCondBreak.key "B">
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
+
+<!ENTITY debuggerUI.tabs.workers        "वर्कर्स">
 <!ENTITY debuggerUI.tabs.sources        "सोअर्सेस">
 <!ENTITY debuggerUI.tabs.traces         "ट्रेसेस">
 <!ENTITY debuggerUI.tabs.callstack      "कॉल स्टॅक">
