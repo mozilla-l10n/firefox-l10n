@@ -45,7 +45,7 @@ can reach it easily. -->
 <!ENTITY  moveToNewGroup.label               "Novo grupo">
 <!ENTITY  moveToNewWindow.label              "Mover para nova janela">
 <!ENTITY  moveToNewWindow.accesskey          "j">
-<!ENTITY  bookmarkAllTabs.label              "Criar marcadores para todos os separadores…">
+<!ENTITY  bookmarkAllTabs.label              "Criar marcadores de todos os separadores…">
 <!ENTITY  bookmarkAllTabs.accesskey          "t">
 <!ENTITY  undoCloseTab.label                 "Desfazer Fechar separador">
 <!ENTITY  undoCloseTab.accesskey             "D">
