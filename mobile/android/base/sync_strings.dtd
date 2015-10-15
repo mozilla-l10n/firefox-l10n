@@ -87,8 +87,8 @@
 <!ENTITY bookmarks.folder.tags.label "ป้ายกำกับ">
 <!ENTITY bookmarks.folder.toolbar.label "แถบเครื่องมือที่คั่นหน้า">
 <!ENTITY bookmarks.folder.unfiled.label "ที่คั่นหน้าไม่แยกประเภท">
-<!ENTITY bookmarks.folder.desktop.label "ที่คั่นหน้าจากคอมพิวเตอร์">
-<!ENTITY bookmarks.folder.mobile.label "ที่คั่นหน้าจากอุปกรณ์พกพา">
+<!ENTITY bookmarks.folder.desktop.label "ที่คั่นหน้าบนเดสก์ท็อป">
+<!ENTITY bookmarks.folder.mobile.label "ที่คั่นหน้าบนมือถือ">
 <!ENTITY bookmarks.folder.readinglist.label "รายการอ่าน">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "ตรึง">
