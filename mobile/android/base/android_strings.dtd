@@ -564,14 +564,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_insecure "Nicht gesicherte Verbindung">
 
 <!-- Mixed content notifications in site identity popup -->
-<!ENTITY mixed_content_blocked_all "&brandShortName; hat nicht gesichert übertragenen Inhalt auf dieser Seite blockiert.">
-<!ENTITY mixed_content_blocked_some "&brandShortName; hat einen Teil des nicht gesichert übertragenen Inhalts auf dieser Seite blockiert.">
+<!ENTITY mixed_content_blocked_all "&brandShortName; hat nicht gesichert übertragene Inhalte auf dieser Seite blockiert.">
+<!ENTITY mixed_content_blocked_some "&brandShortName; hat einen Teil der nicht gesichert übertragenen Inhalte auf dieser Seite blockiert.">
 <!ENTITY mixed_content_display_loaded "Teile dieser Seite wurden nicht sicher übertragen.">
-<!ENTITY mixed_content_protection_disabled "Sie haben den Schutz vor nicht gesichert übertragenem Inhalt deaktiviert.">
+<!ENTITY mixed_content_protection_disabled "Sie haben den Schutz vor nicht gesichert übertragenen Inhalten deaktiviert.">
 
-<!ENTITY loaded_mixed_content_message "Diese Seite enthält Inhalt, der nicht sicher ist.">
-<!ENTITY blocked_mixed_content_message_top "&brandShortName; hat Inhalt blockiert, der nicht sicher ist.">
-<!ENTITY blocked_mixed_content_message_bottom "Die meisten Websites funktionieren weiterhin, wenn diese Art Inhalt blockiert wird.">
+<!ENTITY loaded_mixed_content_message "Diese Seite enthält Inhalte, die nicht sicher sind.">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName; hat Inhalte blockiert, die nicht sicher sind.">
+<!ENTITY blocked_mixed_content_message_bottom "Die meisten Websites funktionieren weiterhin, wenn diese Art von Inhalten blockiert wird.">
 
 <!-- Tracking content notifications in site identity popup -->
 <!ENTITY doorhanger_tracking_title "Schutz vor Aktivitätenverfolgung">
