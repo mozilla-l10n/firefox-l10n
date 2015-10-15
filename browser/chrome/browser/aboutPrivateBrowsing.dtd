@@ -13,6 +13,8 @@
      of the Tracking Protection section, and in general not much larger than
      30em to prevent the sections from wrapping on smaller window sizes.
      -->
+
+<!ENTITY aboutPrivateBrowsing.width            "30em">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.subtitle,
      aboutPrivateBrowsing.info.forgotten, aboutPrivateBrowsing.info.kept):
      These strings will be replaced by aboutPrivateBrowsing.forgotten and
@@ -20,18 +22,21 @@
      -->
 
 <!ENTITY aboutPrivateBrowsing.title            "अहाँ निजी तौर पर ब्राउज़ कए रहल छी">
+<!ENTITY aboutPrivateBrowsing.subtitle         "&brandShortName; ई विंडो केर कोनो इतिहास नहि राखत.">
 
-
-
+<!ENTITY aboutPrivateBrowsing.forgotten        "एहि विंडोमे &brandShortName; याद नहि राखत:">
+<!ENTITY aboutPrivateBrowsing.info.forgotten   "सहेजल नहि गेल">
 <!ENTITY aboutPrivateBrowsing.info.history     "इतिहास">
-
+<!ENTITY aboutPrivateBrowsing.info.searches    "खोजू">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "कुकीज">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "अस्थायी फाइल">
 
-
-
+<!ENTITY aboutPrivateBrowsing.kept             "&brandShortName; रखताह:">
+<!ENTITY aboutPrivateBrowsing.info.kept        "सहेजल गेल">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "डाउनलोड">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Bookmarks">
 
+<!ENTITY aboutPrivateBrowsing.note1            "कृपया ध्यान राखू कि अहाँक कर्मचारी अथवा इन्टरनेट सेवा प्रदाता ओ पृष्ठ केँ जकरा अहाँ विजिट करैत छी ओहि पर नजर राखि सकैत अछि.">
 <!ENTITY aboutPrivateBrowsing.learnMore        "बेसी  जानू.">
 <!-- LOCALIZATION NOTE (trackingProtection.width):
      Width of the Tracking Protection section. It is fine for the enabled or
@@ -42,12 +47,18 @@
      different, so testing on Windows, Mac, and Linux is encouraged.
      -->
 
+<!ENTITY trackingProtection.width              "22em">
+<!ENTITY trackingProtection.title              "ट्रैकिंग सुरक्षा">
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
 
+<!ENTITY trackingProtection.state.width        "6ch">
+<!ENTITY trackingProtection.state.enabled      "चालू">
+<!ENTITY trackingProtection.state.disabled     "बन्न">
 
+<!ENTITY trackingProtection.description1       "आब निजी विंडो ओकरा ब्लॉक कए सकैत अछि, जाहि पृष्ठ केर भाग जे अहाँक ऑनलाइन गतिविधि ट्रैक कए सकैत अछि. ">
 
-
-
-
+<!ENTITY trackingProtection.disable            "ट्रैकिंग सुरक्षा बन्न करू">
+<!ENTITY trackingProtection.enable             "ट्रैकिंग सुरक्षा चालू करू">
+<!ENTITY trackingProtection.startTour1         "देखू ई कोन तरहेँ काज करैत अछि">
