@@ -28,6 +28,8 @@
 <!ENTITY webAudioEditorUI.tab.properties2 "Свойства">
 <!-- LOCALIZATION NOTE (webAudioEditorUI.tab.automation): This is the label shown
   -  for the automation tab view. -->
+
+<!ENTITY webAudioEditorUI.tab.automation  "Автоматизация">
 <!-- LOCALIZATION NOTE (webAudioEditorUI.inspectorTitle): This is the title for the
   -  AudioNode inspector view. -->
 
