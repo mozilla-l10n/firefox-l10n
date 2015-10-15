@@ -11,10 +11,12 @@
 <!-- Localization note (privatebrowsingpage.title.normal1): "Private Browsing"
      is capitalized in English to be consistent with our existing uses of the
      term. -->
+<!ENTITY privatebrowsingpage.title.normal1 "Anda tidak sedang dalam Penjelajahan Privat">
 
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
+<!ENTITY privatebrowsingpage.description.normal2 "Dalam Penjelajahan Privat, semua riwayat penjelajahan atau kuki Anda tidak akan tersimpan. Markah yang Anda tambahkan dan berkas yang Anda unduh tetap akan tersimpan di peranti Anda.">
 
 <!ENTITY privatebrowsingpage.link.private "Ingin mempelajari lebih lanjut?">
 <!ENTITY privatebrowsingpage.link.normal "Buka tab pribadi baru">

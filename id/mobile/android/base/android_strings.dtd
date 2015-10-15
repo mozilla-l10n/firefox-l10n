@@ -435,6 +435,8 @@ size. -->
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
+<!ENTITY pref_magnifying_glass_enabled "Perbesar area kecil">
+
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -707,12 +709,12 @@ dari Android">
 
 <!ENTITY restriction_disallow_import_settings_title2 "Nonaktifkan \u0027Impor dari Android\u0027">
 <!ENTITY restriction_disallow_addons_title2 "Nonaktifkan pemasangan pengaya">
-
-
+<!ENTITY restriction_disallow_devtools_title2 "Nonaktifkan perangkat pengembang">
+<!ENTITY restriction_disallow_customize_home_title2 "Nonaktifkan ubahsuai Beranda">
 <!ENTITY restriction_disallow_private_browsing_title2 "Nonaktifkan Penjelajahan Privat">
-
-
-
+<!ENTITY restriction_disallow_location_services_title2 "Nonaktifkan Layanan Lokasi">
+<!ENTITY restriction_disallow_display_settings_title2 "Nonaktifkan setelan Tampilan">
+<!ENTITY restriction_disallow_clear_history_title2 "Nonaktifkan \u0027Hapus riwayat penjelajahan\u0027">
 <!ENTITY restriction_disallow_master_password_title2 "Nonaktifkan sandi utama">
 <!ENTITY restriction_disallow_guest_browsing_title2 "Nonaktifkan Penjelajahan Tamu">
 <!-- Default Bookmarks titles-->
