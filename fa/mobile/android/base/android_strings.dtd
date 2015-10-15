@@ -4,12 +4,12 @@
 
 
 <!ENTITY  no_space_to_start_error "فضای کافی برای شروع &brandShortName; وجود ندارد.">
-<!ENTITY  error_loading_file "اشکالی هنگام آماده‌سازی داده‌ها برای شروع &brandShortName; به‌وجود آمد.">
+<!ENTITY  error_loading_file "اشکالی هنگام بارگیری پرونده‌ها برای شروع &brandShortName; به‌وجود آمد">
 
 <!ENTITY firstrun_panel_title_welcome "خوش آمدید">
 <!ENTITY  onboard_start_message3 "مرور با &brandShortName;">
 <!ENTITY  onboard_start_subtext3 "تجربۀ مرور وب در موبایل را مختص خود کنید.">
-<!ENTITY  onboard_start_button_account "وارد شوید به ‪&brandShortName;">
+<!ENTITY  onboard_start_button_account "ورود به ‪&brandShortName;">
 <!ENTITY  onboard_start_button_browser "شروع وب‌گردی">
 <!ENTITY firstrun_button_next "بعدی">
 

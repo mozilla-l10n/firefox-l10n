@@ -162,17 +162,17 @@
 <!ENTITY fxaccount_confirm_account_header "حساب خود را تایید کنید">
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
 <!ENTITY fxaccount_confirm_account_verification_link "پیوند تایید برای &formatS; ارسال شد">
-<!ENTITY fxaccount_confirm_account_resend_email "ارسال مجدد پست الکترونیکی">
+<!ENTITY fxaccount_confirm_account_resend_email "ارسال مجدد پست‌الکترونیکی">
 <!ENTITY fxaccount_confirm_account_change_email "آدرس پست الکترونیکی خود را فراموش کرده‌اید؟">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "پست‌الکترونیکی تایید ارسال شد">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "امکان ارسال تایید برای پست الکترونیکی وجود ندارد">
 
 <!ENTITY fxaccount_unlock_code_sent " پست الکترونیکی بازکردن حساب کاربری ارسال شد">
-
+<!ENTITY fxaccount_unlock_code_not_sent "امکان ارسال پست‌الکترونیکی برای بازکردن حساب‌کاربری وجود ندارد">
 
 <!ENTITY fxaccount_sign_in_sub_header "ورود">
 <!ENTITY fxaccount_sign_in_button_label "ورود">
-<!ENTITY fxaccount_sign_in_forgot_password "گذرواژه خود را فراموش کرده‌اید؟">
+<!ENTITY fxaccount_sign_in_forgot_password "گذرواژه را فراموش کرده‌اید؟">
 <!ENTITY fxaccount_sign_in_create_account_instead "ایجاد یک حساب">
 <!ENTITY fxaccount_sign_in_unknown_error "امکان وارد شدن وجود ندارد">
 
@@ -202,8 +202,8 @@
 <!ENTITY fxaccount_status_needs_verification2 "حساب کاربری شما نیاز به تایید شدن دارد. برای ارسال دوباره نامه الکترونیکی تایید، تپ کنید">
 <!ENTITY fxaccount_status_needs_credentials "امکان اتصال وجود ندارد. برای ورود تپ کنید.">
 <!ENTITY fxaccount_status_needs_upgrade "جهت ورود به سیستم نیاز به ارتقا&brandShortName; دارید.">
-
-
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; تنظیم شده است، اما هم‌گام‌سازی به صورت خودکار انجام نمی شود. ضامن “هم‌گام‌سازی خودکار اطلاعات” را در تنظیمات اندروید &gt; مصرف داده تنظیم کنید.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; تنظیم شده است، اما هم‌گام‌سازی به صورت خودکار انجام نمی شود. ضامن “هم‌گام‌سازی خودکار اطلاعات” را در فهرست تنظیمات اندروید &gt; حساب‌های کاربری تنظیم کنید.">
 <!ENTITY fxaccount_status_needs_finish_migrating "برای ورود به حساب فایرفاکس جدید خود تپ کنید.">
 <!ENTITY fxaccount_status_bookmarks "نشانک‌ها">
 <!ENTITY fxaccount_status_history "تاریخچه">
