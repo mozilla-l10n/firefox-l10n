@@ -97,7 +97,7 @@
 
 <!ENTITY settings "அமைப்புகள்">
 <!ENTITY settings_title "அமைப்புகள்">
-
+<!ENTITY pref_category_input_options "உள்ளீடு தேர்வுகள்">
 <!ENTITY pref_category_advanced "மேம்பட்டது">
 <!ENTITY pref_category_customize "தனிபயனாக்கு">
 <!ENTITY pref_category_customize_summary "முகப்பு, தேடு, கீற்றுகள், இறக்கு">
