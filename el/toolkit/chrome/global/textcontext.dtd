@@ -27,3 +27,8 @@
 
 <!ENTITY searchTextBox.clear.label "Clear">
 
+<!ENTITY fillLoginMenu.label          "Συμπλήρωση στοιχείων εισόδου">
+<!ENTITY fillPasswordMenu.label       "Συμπλήρωση κωδικού">
+<!ENTITY fillUsernameMenu.label       "Συμπλήρωση ονόματος χρήστη">
+<!ENTITY noLoginSuggestions.label     "(δεν υπάρχουν στοιχεία εισόδου)">
+<!ENTITY viewSavedLogins.label        "Προβολή στοιχείων εισόδου">
