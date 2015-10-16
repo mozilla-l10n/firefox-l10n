@@ -38,7 +38,7 @@
 
 <!ENTITY telemetryLearnMore.label        "अझ जान्नुहोस्">
 
-<!ENTITY crashReporterDesc.label         "&amp;ब्यापारिक चिन्ह को छोटोनाम;सहयोग को लागी पतन प्रतिवेदनहरु पेश गर्नु &amp;बिक्रेता को छोटोनाम ; तपाईको ब्राउजर अझ सुरक्षित र स्थायी राख्नको लागि">
+<!ENTITY crashReporterDesc.label         "&brandShortName; ले  &vendorShortName; लाई तपाईको ब्राउजर अझ सुरक्षित र स्थायी राख्नको लागि सहयोगार्थ पतन प्रतिवेदनहरु पेश गर्छ">
 <!ENTITY enableCrashReporter.label       "क्र्यास विवरण सक्षम पार्नुहोस् C">
 <!ENTITY enableCrashReporter.accesskey   "C">
 <!ENTITY crashReporterLearnMore.label    "अझ जान्नुहोस्">

@@ -5,7 +5,7 @@
 
 <!ENTITY setupButton.label          "सेटअप &syncBrand.fullName.label;">
 <!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.पुरानाम.लेबल; तपाईं को ईतिहास हेर्न, बूकमर्क्स, पासवोर्ड अनी तपाईंको सम्पूर्ण डिभाइसको  ट्याब खोल्न।">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; ले तपाईंको ईतिहास, बूकमर्क्स, पासवोर्ड अनी तपाईंको सम्पूर्ण डिभाइसको ट्याब खोल्न सक्दछ।">
 <!-- The page shown when logged in... -->
 <!-- Login error feedback -->
 

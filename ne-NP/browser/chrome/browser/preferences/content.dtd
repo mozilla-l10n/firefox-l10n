@@ -9,6 +9,7 @@
 <!ENTITY  popupExceptions.label       "अपवादहरू...">
 <!ENTITY  popupExceptions.accesskey   "E">
 
+<!ENTITY  fontsAndColors.label        "फन्टहरु र रङहरु">
 
 <!ENTITY  defaultFont.label           "पूर्वनिर्धारित फन्टः">
 <!ENTITY  defaultFont.accesskey       "D">

@@ -40,7 +40,7 @@
 
 
 
-<!ENTITY  close.label                   "मैले &amp;brandShortName बन्द गर्छु;">
+<!ENTITY  close.label                   "मैले &brandShortName; बन्द गर्छु">
 <!ENTITY  askEachTime.label             "मलाई हरेक पटक सोध्नुहोस्">
 
 <!ENTITY  cookieExceptions.label        "अपवादहरू...">
