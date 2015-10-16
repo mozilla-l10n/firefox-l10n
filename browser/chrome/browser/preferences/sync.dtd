@@ -29,7 +29,7 @@
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "इतिहास">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "पासवर्डज">
+<!ENTITY engine.passwords.label     "पासवर्ड्स">
 <!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "पसंती">
 <!ENTITY engine.prefs.accesskey     "s">
@@ -39,8 +39,8 @@
 
 <!ENTITY syncDeviceName.label       "साधनाचे नाव:">
 <!ENTITY syncDeviceName.accesskey   "c">
-
-
+<!ENTITY fxaSyncDeviceName.label       "साधनाचे नाव:">
+<!ENTITY changeSyncDeviceName.label "साधनाचे नाव बदला…">
 <!ENTITY cancelChangeSyncDeviceName.label "रद्द करा">
 <!ENTITY saveChangeSyncDeviceName.label "संचयीत करा">
 <!ENTITY unlinkDevice.label           "साधनला खंडीत करा">
@@ -71,24 +71,28 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "तुम्ही साइन इन केले नाही.">
 <!ENTITY signIn.label                "साइन इन">
-
+<!ENTITY profilePicture.tooltip      "प्रोफाइल प्रतिमा बदला">
 <!ENTITY manage.label                "व्यवस्थापन करा">
 <!ENTITY disconnect.label            "खंडीत…">
 <!ENTITY verify.label                "ईमेलची तपासणी करा">
 <!ENTITY forget.label                "हे ईमेल विसरून जा">
 
 <!ENTITY welcome.description "टॅब्ज, वाचनखुणा, पासवर्ड्ज आणि &brandShortName; चा वापर जेथे कुठेही होत असल्यास प्रवेश करा.">
-
-
+<!ENTITY welcome.signIn.label "साइन इन">
+<!ENTITY welcome.createAccount.label "खाते निर्माण करा">
 
 <!ENTITY welcome.useOldSync.label "सिंकची जुणी आवृत्ती वापरत आहात?">
 
+<!ENTITY signedOut.caption            "आपला वेब आपल्याबरोबर घेऊन जा">
+<!ENTITY signedOut.description        "आपल्या सर्व साधणांकरीता आपले बुकमार्क, इतिहास, टॅब, पासवर्ड, ॲड-ऑन, आणि प्राधान्ये समक्रमित करा.">
+<!ENTITY signedOut.accountBox.title   "&syncBrand.fxAccount.label; सह जोडा">
+<!ENTITY signedOut.accountBox.create  "खाते निर्माण करा">
+<!ENTITY signedOut.accountBox.signin  "साइन इन">
 
+<!ENTITY signedIn.engines.label       "सर्व साधनांबरोबर समक्रमण करा">
 
-
-
-
-
+<!ENTITY mobilePromo.start            " साठी डाउनलोड करा">
 <!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
-
-
+<!ENTITY mobilePromo.androidLink      "Android™">
+<!ENTITY mobilePromo.end              "आपल्या उपकरणाबरोबर समक्रमण करण्यासाठी. ">
+<!ENTITY androidAttribution           "Android हि Google Inc. ची व्यापारीमुद्रा आहे.">
