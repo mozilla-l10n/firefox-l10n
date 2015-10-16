@@ -216,7 +216,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "डाउनलोडहरू">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
-
+<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "एड-अन">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
@@ -678,7 +678,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "सम्पन्न भयो">
 <!ENTITY editBookmark.cancel.label                   "रद्द गर्नुहोस्">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 
 
