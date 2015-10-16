@@ -76,7 +76,8 @@
 <!ENTITY malwareBlocked.longDesc "<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p> 
 <p>Web site owners who believe their site has been reported as an attack site in error may <a href='http://www.stopbadware.org/home/reviewinfo' >request a review</a>.</p>">
 
-
+<!ENTITY unwantedBlocked.title "Laman Perisian Tidak Diperlukan telah disyaki!">
+<!ENTITY unwantedBlocked.longDesc "<p>Laman perisian tidak diperlukan cuba untuk memasang perisian tersebut agar ia boleh menipu dan mempengaruhi sistem dengan cara yang tidak diinginkan. </p>">
 
 <!ENTITY phishingBlocked.title "Disyaki laman palsu!">
 <!ENTITY phishingBlocked.longDesc "<p>Memasukkan sebarang informasi peribadi di laman ini akan menyebabkan kecurian identiti atau lain-lain penipuan.</p> 
