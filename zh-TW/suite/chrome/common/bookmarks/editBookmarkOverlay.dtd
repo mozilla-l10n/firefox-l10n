@@ -22,7 +22,7 @@
 <!ENTITY editBookmarkOverlay.keyword.label                   "關鍵字:">
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "K">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "顯示所有標籤">
-<!ENTITY editBookmarkOverlay.choose.label                    "在側邊欄載入此書籤">
+<!ENTITY editBookmarkOverlay.choose.label                    "選擇…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "新增資料夾">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "o">
 <!ENTITY editBookmarkOverlay.newFolderButton.tooltip         "建立新資料夾">
