@@ -38,6 +38,8 @@
 <!ENTITY isDefault.label                  "&brandShortName; pelayar lalai anda">
 <!ENTITY isNotDefault.label               "&brandShortName; adalah bukan pelayar lalai anda">
 
+<!ENTITY separateProfileMode.label        "Izinkan &brandShortName; dan Firefox untuk berjalan pada masa yang sama">
 
 
 
+<!ENTITY e10sEnabled.label                "Hidupkan multi-proses &brandShortName;">

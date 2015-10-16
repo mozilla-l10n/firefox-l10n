@@ -7,16 +7,19 @@
 
 
 
+<!ENTITY showURLBarSuggestions.label           "Pamer carian cadangan dalam keputusan bar lokasi">
+<!ENTITY showURLBarSuggestions.accesskey       "l">
 
-
-
+<!ENTITY redirectWindowsSearch.label "Gunakan ini sebagai enjin pencarian untuk mencari daripada Windows">
+<!ENTITY redirectWindowsSearch.accesskey "W">
 
 
 
 <!ENTITY engineNameColumn.label                "Enjin Carian">
 <!ENTITY engineKeywordColumn.label             "Kata kunci">
 
-
+<!ENTITY restoreDefaultSearchEngines.label     "Pulihkan Enjin Pencarian Lalai">
+<!ENTITY restoreDefaultSearchEngines.accesskey "L">
 
 <!ENTITY removeEngine.label                    "Singkir">
 <!ENTITY removeEngine.accesskey                "r">

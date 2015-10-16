@@ -161,7 +161,7 @@ functionality specific to firefox. -->
  <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY errorReporting.title "Laporkan ralat ini">
-
+<!ENTITY errorReporting.longDesc "Pelaporan alamat dan informasi sijil <span id='hostname'></span> akan membantu kami mengenalpasti dan menghalang laman yang berbahaya. Terima kasih telah membantu menyelenggarakan web yang lebih aman!">
 <!ENTITY errorReporting.automatic "Laporkan ralat secara automatik di masa hadapan">
 <!ENTITY errorReporting.learnMore "Ketahui lanjut…">
 <!ENTITY errorReporting.sending "Menghantar laporan">
