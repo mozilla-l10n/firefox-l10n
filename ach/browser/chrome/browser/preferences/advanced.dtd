@@ -34,8 +34,8 @@
 <!ENTITY healthReportLearnMore.label     "Nong ngec mapol">
 
 <!ENTITY telemetryDesc.label             "Poko kit ma tic tye kawot kwede, tc kwede, nyonyo kadong yub me tic ikom layeny mamegi ki &vendorShortName; wek okony wa me yubu &brandShortName; maber">
-
-
+<!ENTITY enableTelemetryData.label       "Nywak data mukenen (calo, Pimo data)">
+<!ENTITY enableTelemetryData.accesskey   "P">
 <!ENTITY telemetryLearnMore.label        "Nong ngec mapol">
 
 <!ENTITY crashReporterDesc.label         "&brandShortName; cwalo ripot me bal wek okony &vendorShortName; me yubu layeny mamegi bedo matek kacel ki ber bedo makato">

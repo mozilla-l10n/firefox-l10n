@@ -22,7 +22,7 @@
 <!ENTITY  generalReferrer       "URL ma tiko:">
 <!ENTITY  generalSource         "Kama kakano nonge iye:">
 <!ENTITY  generalModified       "Kiyubu:">
-
+<!ENTITY  generalEncoding2      "Loko coc i kod:">
 <!ENTITY  generalMetaName       "Nying">
 <!ENTITY  generalMetaContent    "Gin manonge iye">
 

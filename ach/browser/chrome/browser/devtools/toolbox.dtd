@@ -79,7 +79,7 @@
 <!-- LOCALIZATION NOTE (options.enableChrome.label4): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
-
+<!ENTITY options.enableChrome.tooltip3  "Keto gin ayera man biweko i tiyo ki gitic pa layub mapatpat i kabedo ma orumu layeny (ki i Gitic > Layub Kakube > Bok gitic me Layeny) kadong nongo bal i med-ikome ma i Lalor Med-ikome">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
