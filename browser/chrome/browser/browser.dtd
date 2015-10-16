@@ -684,7 +684,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
+<!ENTITY identity.connectionFile "ई पेज अहाँक कंप्यूटरमे सहेजल जाएत अछि.">
 
 
 <!-- Strings for connection state warnings. -->
@@ -701,7 +701,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
+<!ENTITY identity.enableMixedContentBlocking.label "सुरक्षा &amp;सक्रिय करू (E)">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "E">
 <!ENTITY identity.disableMixedContentBlocking.label "आब सुरक्षा निष्क्रिय करू (D)">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 
