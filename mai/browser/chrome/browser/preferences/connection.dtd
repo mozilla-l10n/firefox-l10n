@@ -32,8 +32,8 @@
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "सोक्स v5">
 <!ENTITY  socks5.accesskey              "v">
-
-
+<!ENTITY  socksRemoteDNS.label          "रिमोट DNS (D)">
+<!ENTITY  socksRemoteDNS.accesskey      "D">
 <!ENTITY  port.label                    "पोर्ट:">
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
@@ -44,6 +44,6 @@
 <!ENTITY  noproxyExplain.label          "उदाहरण: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "सभटा प्रोटोकाल क लेल प्राक्सी सर्वरक प्रयोग  करू ">
 <!ENTITY  shareproxy.accesskey          "s">
-
-
+<!ENTITY  autologinproxy.label          "जँ शब्दकूट सहेजल जाएत अछि तँ प्रमाणीकरण कलेल संकेत नहि करू">
+<!ENTITY  autologinproxy.accesskey      "i">
 
