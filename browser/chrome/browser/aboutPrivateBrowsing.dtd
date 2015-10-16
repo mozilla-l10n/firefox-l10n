@@ -22,16 +22,16 @@
      -->
 
 <!ENTITY aboutPrivateBrowsing.title            "Ubhrawuza ngokusemfihlweni">
-<!ENTITY aboutPrivateBrowsing.subtitle         "Kule festile, &brandShortName; ayisayi kukhumbula nayiphi na imbali.">
+<!ENTITY aboutPrivateBrowsing.subtitle         "Kule festile, i-&brandShortName; ayisayi kukhumbula nayiphi na imbali.">
 
-<!ENTITY aboutPrivateBrowsing.forgotten        "Kule festile, &brandShortName; ayisayi kukhumbula:">
+<!ENTITY aboutPrivateBrowsing.forgotten        "Kule festile, i-&brandShortName; ayisayi kukhumbula:">
 <!ENTITY aboutPrivateBrowsing.info.forgotten   "Ayigcinanga">
 <!ENTITY aboutPrivateBrowsing.info.history     "Imbali">
 <!ENTITY aboutPrivateBrowsing.info.searches    "Ukhangelo">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Ii-Cookies">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Iifayile Zexeshana">
 
-<!ENTITY aboutPrivateBrowsing.kept             "&brandShortName; iya kugcina:">
+<!ENTITY aboutPrivateBrowsing.kept             "I-&brandShortName; iya kugcina:">
 <!ENTITY aboutPrivateBrowsing.info.kept        "Igcinile">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Iidownlowudi">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Iibhukhmakhi">
