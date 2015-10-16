@@ -28,12 +28,12 @@
 
 <!ENTITY dataChoicesTab.label            "डाटा चयनहरु">
 
-<!ENTITY healthReportDesc.label          "तपाईलाई तपाईको ब्राउजरको प्रदर्शन र तथ्याङ्क हिस्सा सहित तपाईको ब्राउजर स्वास्थ्यबारे बुझ्न मद्दत गर्दछ &amp;v">
+<!ENTITY healthReportDesc.label          "तपाईलाई तपाईको ब्राउजरको प्रदर्शन र तथ्याङ्क हिस्सा सहित तपाईको ब्राउजर स्वास्थ्यबारे बुझ्न मद्दत गर्दछ र तपाईको ब्राउजर स्वास्थ्यबारे तथ्याङ्क &vendorShortName; संग बाड्दछ ।">
 <!ENTITY enableHealthReport.label        "सुरु &brandShortName; स्वास्थ्य रिपोर्ट">
 <!ENTITY enableHealthReport.accesskey    "र">
 <!ENTITY healthReportLearnMore.label     "अझ जान्नुहोस्">
 
-<!ENTITY telemetryDesc.label             "हिस्सा प्रदर्शन, प्रयोग भएको, यन्त्र र तपाईको ब्राउजरले बनाएको डाटा &amp;व्रिकेताछोटोनाम सहित; हामीलाई &amp;ब्रान्डको छोटोनामस बनाउन; राम्रो">
+<!ENTITY telemetryDesc.label             "हामीलाई &brandShortName; राम्रो बनाउनका निम्ति;  हिस्सा प्रदर्शन, प्रायोजन, यन्त्र र तपाईको ब्राउजरले बनाएका तथ्याङ्क &vendorShortName; संग बाड्दछ">
 
 
 <!ENTITY telemetryLearnMore.label        "अझ जान्नुहोस्">
