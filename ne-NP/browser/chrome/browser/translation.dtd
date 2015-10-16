@@ -30,6 +30,8 @@
   -  translation.translatedToSuffix.label (empty in en-US) is for locales that
   -  need to display some text after the second drop down for the sentence to
   -  be grammatically correct. -->
+
+<!ENTITY translation.translatedFrom.label       "यस पृष्ठ यो बाट अनुवाद गरिएको छ">
 <!ENTITY translation.translatedTo.label         "लाई">
 <!ENTITY translation.translatedToSuffix.label   "">
 
