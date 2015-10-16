@@ -6,7 +6,7 @@
 <!-- First page of the wizard -->
 
 
-<!ENTITY setup.pickSetupType.description2 "स्वागतम! तपार्इँले syncBrand.fullName.label; को प्रयोग कहिले गर्नुभएको छैन भने तपार्इँले एउटा नयाँ खाता खोल्न आवश्यक छ।">
+<!ENTITY setup.pickSetupType.description2 "स्वागतम! तपार्इँले &syncBrand.fullName.label; को प्रयोग कहिले गर्नुभएको छैन भने तपार्इँले एउटा नयाँ खाता खोल्न आवश्यक छ।">
 <!ENTITY button.createNewAccount.label "नयाँ खाता खोल्नुहोस्">
 <!ENTITY button.haveAccount.label      "मसँग एउटा खाता छ">
 
@@ -54,7 +54,7 @@
 <!ENTITY pairDevice.title.label             "साधनसँग सम्बन्धन कायम गर्नुहोस्">
 
 
-
+<!ENTITY pairDevice.setup.description.label  "सक्रिय गर्नका निमित्त तपाईको अर्को उपकरणमा &quot;पेयर अ डिभाईस&quot; सेलेक्ट गर्नुहोस।">
 
 
 
@@ -65,7 +65,7 @@
 <!-- Existing Account Page 2: Manual Login -->
 
 <!ENTITY setup.signInPage.title.label "साइन इन गर्नुहोस्">
-
+<!ENTITY existingRecoveryKey.description "अर्को उपकरणको &syncBrand.shortName.label; विकल्पमा गइ  &quot;खाता प्रबन्ध&quot; अनतर्गत &quot;मेरो रिकोभरि&quot; चयन गरि तपाईले आफ्नो रिकोभरि कि को प्रतिलिपि प्राप्त गर्न सक्नुहुनेछ।">
 <!ENTITY verifying.label              "रूजु गर्दै…">
 <!ENTITY resetPassword.label          "पासवर्ड रिसेट गर्नुहोस्">
 
