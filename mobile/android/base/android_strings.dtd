@@ -274,7 +274,7 @@ size. -->
 
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
-<!ENTITY pref_font_size_preview_text "Rychlá oranžová liška překoná vaše očekávání ohledně rychlosti, flexibility a bezpečnosti. Jako neziskovka, máme prostor k inovacím bez jakéhokoli tlaku ke kompromisu. To znamená lepší zážitek pro vás a světlejší budoucnost pro web.">
+<!ENTITY pref_font_size_preview_text "Rychlá oranžová liška překoná vaše očekávání ohledně rychlosti, flexibility a bezpečnosti. Jako neziskovka, máme prostor k inovacím bez jakéhokoli tlaku ke kompromisu. To znamená lepší prožitek pro vás a světlejší budoucnost pro web.">
 
 <!ENTITY pref_media_autoplay_enabled "Povolit automatické přehrávání">
 <!ENTITY pref_media_autoplay_enabled_summary "Určuje, zda webová stránka může automaticky přehrávat videa či jiný multimediální obsah">
