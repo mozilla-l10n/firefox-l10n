@@ -127,7 +127,7 @@ functionality specific to firefox. -->
 <!ENTITY errorReporting.longDesc "Zgłaszając adres i informacje o certyfikacie dla <span id='hostname'></span>, pomagasz identyfikować i blokować niebezpieczne strony. Dziękujemy za pomoc w tworzeniu bezpieczniejszej sieci!">
 <!ENTITY errorReporting.automatic "Automatyczne zgłaszanie błędów">
 <!ENTITY errorReporting.learnMore "Więcej informacji…">
-<!ENTITY errorReporting.sending "Wysyłanie zgłoszenia">
+<!ENTITY errorReporting.sending "Wysyłanie zgłoszenia…">
 <!ENTITY errorReporting.sent "Wysłano zgłoszenie">
 <!ENTITY errorReporting.report "Zgłoś">
 <!ENTITY errorReporting.tryAgain "Spróbuj ponownie">
