@@ -31,12 +31,15 @@
 <!ENTITY alwaysAsk.label "नेहमी मला फाइल कुठे साठवायचे ते विचारा">
 <!ENTITY alwaysAsk.accesskey "A">
 
-
-
-
+<!ENTITY alwaysCheckDefault2.label        "&brandShortName; हा तुमचा डिफॉल्ट ब्राऊझर आहे का याची नेहेमी तपासणी करा">
+<!ENTITY alwaysCheckDefault2.accesskey    "w">
+<!ENTITY setAsMyDefaultBrowser2.label     "डिफॉल्ट ब्राउजर बनवा">
+<!ENTITY setAsMyDefaultBrowser2.accesskey "D">
 <!ENTITY isDefault.label                  "&brandShortName; सध्या तुमचे पूर्वनिर्धारित ब्राउजर आहे">
+<!ENTITY isNotDefault.label               "&brandShortName; सध्या तुमचे डिफॉल्ट ब्राउजर नाही">
 
+<!ENTITY separateProfileMode.label        "&brandShortName; आणि Firefox यांना एकाच वेळी चालण्यास अनुमती द्या">
+<!ENTITY useFirefoxSync.label             "टीप: हे स्वतंत्र प्रोफाइलचा वापर करते. त्यांच्या दरम्यान डेटा शेअर करण्यासाठी समक्रमण (सिंक) वापरा.">
+<!ENTITY getStarted.label                 "समक्रमणाचा (सिंक) चा  वापर करण्यास प्रारंभ करा…">
 
-
-
-
+<!ENTITY e10sEnabled.label                "बहु-प्रक्रिया &brandShortName; सक्षम करा">
