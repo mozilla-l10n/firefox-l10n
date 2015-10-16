@@ -82,15 +82,15 @@ Nceda uqinisekise ukuba unalo uguqulelo lwakutsha nje lwe-&brandShortName; olusu
 uhlaziyo olungakhuselekanga. Nceda uqhagamshelane nomboneleli wenethiwekhi yakho uze ufune uncedo.">
 
 <!ENTITY  finishedPage.title              "Uhlaziyo luKulungele ukuFakela">
-<!ENTITY  finishedPage.text               "Uhlaziyo luya kufakelwa kwixesha elizayo &brandShortName; iqalisa. Wena 
-ungaphinda uyiqalise &brandShortName; ngoku, okanye qhubeka nokusebenza nokuqalisa ngokutsha kamva.">
+<!ENTITY  finishedPage.text               "Uhlaziyo luya kufakelwa kwixesha elizayo xa i-&brandShortName; iqalisa. Wena 
+ungaphinda uyiqalise i-&brandShortName; ngoku, okanye qhubeka nokusebenza nokuqalisa ngokutsha kamva.">
 
-<!ENTITY  finishedBackgroundPage.text     "Uhlaziyo lokhuseleko nozinziso &brandShortName; lu
+<!ENTITY  finishedBackgroundPage.text     "Uhlaziyo lokhuseleko nozinziso lwe-&brandShortName; lu
 khutshelwe kwaye lukulungele ukufakelwa.">
 <!ENTITY  finishedBackground.name         "Uhlaziyo:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Uhlaziyo luya kufakelwa kwixesha elizayo &brandShortName; iqalisa. Wena 
-ungaphinda uyiqalise &brandShortName; ngoku, okanye qhubeka nokusebenza nokuqalisa ngokutsha kamva.">
+ungaphinda uyiqalise i-&brandShortName; ngoku, okanye qhubeka nokusebenza nokuqalisa ngokutsha kamva.">
 
 <!ENTITY  installed.title                 "Uhlaziyo luFakelwe">
 <!ENTITY  installed.intro                 "Uhlaziyo lufakelwe ngempumelelo.">
