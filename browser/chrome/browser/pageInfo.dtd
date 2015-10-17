@@ -22,7 +22,7 @@
 <!ENTITY  generalReferrer       "సంప్రదించుచున్న URL:">
 <!ENTITY  generalSource         "క్యాచీ మూలం:">
 <!ENTITY  generalModified       "సవరించిన:">
-
+<!ENTITY  generalEncoding2      "టెక్స్ట్ ఎన్కోడింగ్:">
 <!ENTITY  generalMetaName       "పేరు">
 <!ENTITY  generalMetaContent    "విషయసంగ్రహం">
 
