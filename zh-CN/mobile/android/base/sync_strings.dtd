@@ -197,6 +197,7 @@
 
 <!ENTITY fxaccount_status_header2 "Firefox 账户">
 <!ENTITY fxaccount_status_signed_in_as "已登录为">
+<!ENTITY fxaccount_status_manage_account "管理账号">
 <!ENTITY fxaccount_status_auth_server "账户服务器">
 <!ENTITY fxaccount_status_sync_now "立即同步">
 <!ENTITY fxaccount_status_syncing2 "正在同步…">

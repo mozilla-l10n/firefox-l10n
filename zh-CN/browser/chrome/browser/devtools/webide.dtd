@@ -26,6 +26,7 @@
 <!ENTITY projectMenu_showPrefs_accesskey "e">
 <!ENTITY projectMenu_manageComponents_label "管理额外组件">
 <!ENTITY projectMenu_manageComponents_accesskey "M">
+<!ENTITY projectMenu_refreshTabs_label "刷新标签页">
 
 <!ENTITY runtimeMenu_label "运行环境">
 <!ENTITY runtimeMenu_accesskey "R">

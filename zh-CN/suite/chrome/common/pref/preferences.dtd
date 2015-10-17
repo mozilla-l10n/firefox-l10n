@@ -24,7 +24,7 @@
 <!ENTITY popups.label "弹出窗口">
 <!ENTITY passwords.label "密码">
 <!ENTITY masterpass.label "主密码">
-<!ENTITY ssl.label "SSL">
+<!ENTITY ssltls.label "SSL/TLS">
 <!ENTITY certs.label "证书">
 <!ENTITY sync.label "同步">
 <!ENTITY advance.label "高级">

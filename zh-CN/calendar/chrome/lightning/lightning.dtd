@@ -78,7 +78,7 @@
 <!ENTITY lightning.acctCentral.newCalendar.label "创建一个新日历">
 <!-- today-pane-specific -->
 
-<!ENTITY todaypane.showMinimonth.label "显示迷你月">
+<!ENTITY todaypane.showMinimonth.label "显示迷你月历">
 <!ENTITY todaypane.showMinimonth.accesskey "M">
 <!ENTITY todaypane.showMiniday.label "显示迷你日">
 <!ENTITY todaypane.showMiniday.accesskey  "D">
