@@ -521,6 +521,7 @@
         <rdf:li> <rdf:Description ID="page_change" nc:name="Dar formato a las páginas web" nc:link="composer_help.xhtml#formatting_your_web_pages"/> </rdf:li>
         <rdf:li> <rdf:Description ID="comp-doc-table" nc:name="Añadir tablas a  la página web" nc:link="composer_help.xhtml#adding_tables_to_your_web_page"/> </rdf:li>
         <rdf:li> <rdf:Description ID="comp-doc-image" nc:name="Añadir dibujos  (imágenes) a la página web" nc:link="composer_help.xhtml#adding_images_to_your_web_page"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="comp-doc-math" nc:name="Añadir fórmulas matemáticas a su página web"  nc:link="composer_help.xhtml#adding_mathematical_formulas_to_your_web_page"/> </rdf:li>
         <rdf:li> <rdf:Description ID="comp-doc-page" nc:name="Establecer las propiedades de la  página" nc:link="composer_help.xhtml#setting_page_properties"/> </rdf:li>
         <rdf:li> <rdf:Description ID="link_properties" nc:name="Crear enlaces en Composer" nc:link="composer_help.xhtml#creating_links_in_composer"/> </rdf:li>
         <rdf:li> <rdf:Description ID="comp-doc-publish" nc:name="Publicar sus páginas en la  web" nc:link="composer_help.xhtml#publishing_your_pages_on_the_web"/> </rdf:li>
@@ -597,6 +598,15 @@
       <rdf:Seq>
         <rdf:li> <rdf:Description ID="comp-doc-image-insert" nc:name="Insertar una imagen en la  página web" nc:link="composer_help.xhtml#inserting_an_image_into_your_page"/> </rdf:li>
         <rdf:li> <rdf:Description ID="image_properties" nc:name="Editar las propiedades de la imagen" nc:link="composer_help.xhtml#editing_image_properties"/> </rdf:li>
+      </rdf:Seq>
+    </nc:subheadings>
+  </rdf:Description>
+
+  <rdf:Description about="#comp-doc-math">
+    <nc:subheadings>
+      <rdf:Seq>
+        <rdf:li> <rdf:Description ID="comp-doc-math-insert" nc:name="Insertar una fórmula matemática en su página"  nc:link="composer_help.xhtml#inserting_a_mathematical_formula_into_your_page"/> </rdf:li>
+        <rdf:li> <rdf:Description ID="comp-doc-math-latex-dialog" nc:name="Editar el código fuente LaTeX" nc:link="composer_help.xhtml#editing_the_latex_source"/> </rdf:li>
       </rdf:Seq>
     </nc:subheadings>
   </rdf:Description>
