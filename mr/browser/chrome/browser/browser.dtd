@@ -441,8 +441,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      intentionally left empty for en-US and can be used by other localizations to
      display a string after the search engine name.  This string will be displayed
      as:  "Search <selected engine name><searchAfter.label text>" -->
-
-<!ENTITY search.label                 "शोधा">
 <!ENTITY searchAfter.label            "">
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
@@ -684,7 +682,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "झाले">
 <!ENTITY editBookmark.cancel.label                   "रद्द करा">
-<!ENTITY editBookmark.removeBookmark.accessKey       "R">
+
 
 <!ENTITY identity.connectionSecure "सुरक्षित जोडणी">
 <!ENTITY identity.connectionNotSecure "जोडणी असुरक्षित आहे">
@@ -713,7 +711,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.enableMixedContentBlocking.accesskey "E">
 <!ENTITY identity.disableMixedContentBlocking.label "सद्या सुरक्षा निष्क्रिय करा">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
-<!ENTITY identity.learnMore "आणखी शिका">
+
 
 <!ENTITY identity.moreInfoLinkText2 "अधिक माहिती">
 
@@ -812,8 +810,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingContentBlocked.message "ट्रॅकिंग">
 <!ENTITY trackingContentBlocked.moreinfo "आपल्या आॅनलाइन कार्याचा मागोवा घेणारे पृष्ठाचे काही भाग अडवले गेले आहेत.">
-<!ENTITY trackingContentBlocked.learnMore "आणखी शिका">
-<!ENTITY trackingContentBlocked.options "पर्याय">
+
+
 <!ENTITY trackingContentBlocked.unblock2.label "ह्या साईटसाठी सुरक्षा बंद करा">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "सुरक्षा सक्रीय करा">
@@ -866,8 +864,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg2                "आपले ब्राउझिंग सुरक्षित असो!">
 <!ENTITY panicButton.thankyou.buttonlabel         "धन्यवाद!">
 
-<!ENTITY processHang.terminateScript.label        "स्क्रिप्ट थांबवा">
-<!ENTITY processHang.terminateScript.accessKey    "S">
+
 <!ENTITY processHang.debugScript.label            "स्क्रिप्ट डीबग करा">
 <!ENTITY processHang.debugScript.accessKey        "D">
 <!ENTITY processHang.terminatePlugin.label        "प्लगइन नष्ट करा">
@@ -877,8 +874,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "DRM बद्दल अधिक जाणून घ्या…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
-<!ENTITY emeNotificationsNotNow.label             "आत्ता नाही">
-<!ENTITY emeNotificationsNotNow.accesskey         "N">
+
+
 <!ENTITY emeNotificationsDontAskAgain.label       "मला पुन्हा विचारू नका (D)">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "D">
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
