@@ -133,7 +133,7 @@
 <p>ज्या संकेत स्थळ मालकांना स्थळ धोकादायी वाटत असल्यास <a href='http://www.stopbadware.org/home/reviewinfo' > पुनरावलोकन करीता विनंती</a> करून त्रुटी दर्शवू शकतात.</p>">
 
 <!ENTITY unwantedBlocked.title "नको असलेली संशयित सॉफ्टवेअर साईट!">
-
+<!ENTITY unwantedBlocked.longDesc "<p>नको असलेले सॉफ्टवेअर पाने सॉफ्टवेअर प्रस्थापित करण्याचा प्रयत्न करतात जे फसवे असु शकतात आणि आपल्या सिस्टमला विचित्र प्रकारे हानी पोहोचवु शकतात.</p>">
 
 <!ENTITY phishingBlocked.title "संशयास्पद वेब बनावटीकरण!">
 <!ENTITY phishingBlocked.longDesc "<p>अशा पानावर कुठलिही माहिती प्रविष्ट केल्यास आपली ओळख सदोषीत किंवा बनावटी ठरू शकते.</p> 
@@ -167,7 +167,7 @@ functionality specific to firefox. -->
 <!ENTITY errorReporting.sending "अहवाल पाठवत आहे">
 <!ENTITY errorReporting.sent "अहवाल पाठवला">
 <!ENTITY errorReporting.report "अहवाल पाठवा">
-
+<!ENTITY errorReporting.tryAgain "पुन्हा प्रयत्न करा">
 
 <!ENTITY remoteXUL.title "रिमोट XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>या अडचणीविषयी कळवण्यासाठी कृपया संकेतस्थळाच्या मालकांशी संपर्क करा.</li></ul></p>">
