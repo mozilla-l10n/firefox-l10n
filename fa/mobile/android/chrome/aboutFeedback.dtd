@@ -19,7 +19,7 @@
 
 <!ENTITY support.pre3              " ملاقات ما">
 <!ENTITY support.link2             "پایگاه‌های پشتیبانی">
-
+<!ENTITY support.post3             "برای دریافت پاسخ مشکل مشترک.">
 
 <!ENTITY happy.header              "شنیدنش عالیه!">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
@@ -53,4 +53,5 @@
 
 <!ENTITY sad.thanksMessageBottom   "یا دیگری.">
 
+<!ENTITY feedback.privacy2         "برای حفظ حریم شخصی شما، لطفا هیچ‌گونه اطلاعات شخصی قابل شناسایی را در بازخورد درج نکنید.">
 <!ENTITY feedback.send             "ارسال بازخورد">
