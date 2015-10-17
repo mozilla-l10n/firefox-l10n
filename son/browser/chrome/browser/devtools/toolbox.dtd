@@ -114,6 +114,8 @@
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
 
+<!ENTITY options.enableServiceWorkersHTTP.label     "Service Workers tunand HTTP boŋ (nda bataa ga feeri)">
+<!ENTITY options.enableServiceWorkersHTTP.tooltip   "Suubaroo woo tunandiroo ga Service Workers tunandi HTTP ga kanjey kul se kaŋyaŋ se goyjinay bataa ga feeri.">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
