@@ -5,11 +5,79 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
+<!ENTITY loadError.label "Sahifani yuklashda muammo yuz berdi">
+<!ENTITY retry.label "Qaytadan urinib ko‘ring">
 <!-- Specific error messages -->
 
 
+<!ENTITY connectionFailure.title "Ulana olmadi">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+
+<!ENTITY deniedPortAccess.title "Bu manzil uchun cheklovlar o‘rnatilgan">
 <!ENTITY deniedPortAccess.longDesc "">
 
+<!ENTITY dnsNotFound.title "Server topilmadi">
+<!ENTITY dnsNotFound.longDesc "<ul> 
+<li>Manzilni yozishda quyidagicha xatolarga yo‘q qo‘ymang: 
+<strong>www</strong>.example.com o‘rniga 
+<strong>ww</strong>.example.com yozilgan bo‘lishi mumkin</li> 
+<li>Agar birorta ham sahifa yuklanmasa, kompyuteringizning tarmoqqa 
+ulanishini tekshirib ko‘ring.</li> 
+<li>Agar kompyuter va tarmog‘ingiz fayervol yoki proksi bilan himoyalangan bo‘lsa, 
+&brandShortName; dasturini internetga ulanishiga cheklov qo‘yilmaganligini tekshirib ko‘ring.</li> 
+</ul>">
+
+<!ENTITY fileNotFound.title "Fayl topilmadi">
+<!ENTITY fileNotFound.longDesc "<ul> 
+<li>Fayl nomlarini katta va kichik harflar bilan yozishda va shu kabi boshqa xatolarga ehtiyot bo‘ling.</li> 
+<li>Faylning boshqa joyga ko‘chirilgan, nomi o‘zgartirilgan yoki o‘chirilgan bo‘lishi mumkin.</li> 
+</ul>">
+
+<!ENTITY generic.title "Obbo.">
+<!ENTITY generic.longDesc "<p>&brandShortName; dasturi ba’zi sabablarga ko‘ra ushbu sahifani yuklay olmaydi.</p>">
+
+
+
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+
+<!ENTITY notCached.title "Hujjat eskirgan">
+
+
+<!ENTITY netOffline.title "Oflayn rejimi">
+<!ENTITY netOffline.longDesc2 "<ul> 
+<li>Onlayn rejimiga o‘tish va sahifani qayta yuklash uchun &quot;Qaytadan urinbi ko‘rish&quot; tugmasiga bosing.</li> 
+</ul>">
+
+<!ENTITY contentEncodingError.title "Sayt tarkibini kodashda xatolik yuz berdi">
+<!ENTITY contentEncodingError.longDesc "<ul> 
+<li>Ushbu muammo haqida xabar berish uchun sayt egasi bilan bog‘laning.</li> 
+</ul>">
+
+<!ENTITY unsafeContentType.title "Xavfli fayl turi">
+<!ENTITY unsafeContentType.longDesc "<ul> 
+<li>Muammo haqida xabar berish uchun sayt egasi bilan bog‘laning.</li> 
+</ul>">
+
+<!ENTITY netReset.longDesc "&sharedLongDesc;">
+
+<!ENTITY netTimeout.title "Ulanish vaqti o‘tib ketdi">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+
+<!ENTITY unknownProtocolFound.title "Manzil tushunarsiz edi">
+<!ENTITY unknownProtocolFound.longDesc "<ul> 
+<li>Ushbu manzilni ochish uchun boshqa dasturni o‘rnatishingiz mumkin bo‘ladi.</li> 
+</ul>">
+
+<!ENTITY proxyConnectFailure.title "Proksi server ulanishlarni rad qilmoqda">
+<!ENTITY proxyConnectFailure.longDesc "<ul> 
+<li>Proksi sozlamalari to‘g‘ri ekanligini tekshirib ko‘ring.</li> 
+<li>Prokse serverishlayotganligiga ishonch hosil qilish uchun tarmoq administratori bilan bog‘laing.</li> 
+</ul>">
+
+<!ENTITY proxyResolveFailure.title "Proksi serverni topa olmadi">
+
+
+<!ENTITY redirectLoop.title "Sahifa to‘g‘ri yo‘naltirilmayapti">
 
 
 
@@ -25,43 +93,19 @@
 
 
 
+<!ENTITY cspBlocked.title "Sayt xavfsizlik siyosati tomonidan bloklandi">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; ushbu sahifani yuklanishini to‘xtatib qo‘ydi, chunki sahifadagi tarkib xavfsizlik siyosati bunga ruxsat bermaydi.</p>">
 
+<!ENTITY corruptedContentError.title "Sayt tarkibi buzilgan">
+<!ENTITY corruptedContentError.longDesc "<p>Siz ko‘rmoqchi bo‘lgan sayt tarkibi ko‘rsatilmaydi, chunki ma’lumotlarni uzatishda xatolik aniqlandi.</p><ul><li>Muammo haqida xabar berish uchun sayt egasi bilan bog‘laning.</li></ul>">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY securityOverride.linkText "Yoki istisno qo‘shishingiz mumkin…">
+<!ENTITY securityOverride.getMeOutOfHereButton "Men bu yerdan ketaman!">
+<!ENTITY securityOverride.exceptionButtonLabel "Istisno qo‘shish">
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to thunderbird. -->
 
-
+<!ENTITY remoteXUL.title "Masofadagi XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Muammo haqida xabar berish uchun veb sayt egasibilan bog‘laning.</li></ul></p>">
