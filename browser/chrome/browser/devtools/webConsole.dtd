@@ -10,24 +10,6 @@
 
 <!ENTITY window.title "Web 控制台">
 <!ENTITY browserConsole.title "浏览器控制台">
-
-<!ENTITY networkPanel.requestURLColon             "请求网址:">
-<!ENTITY networkPanel.requestMethodColon          "请求方法：">
-<!ENTITY networkPanel.statusCodeColon             "状态码：">
-
-<!ENTITY networkPanel.requestHeaders              "请求头">
-<!ENTITY networkPanel.requestCookie               "发送 Cookie">
-<!ENTITY networkPanel.requestBody                 "请求主体">
-<!ENTITY networkPanel.requestFormData             "发送表单数据">
-
-<!ENTITY networkPanel.responseHeaders             "响应头">
-<!ENTITY networkPanel.responseCookie              "收到的 Cookie">
-<!ENTITY networkPanel.responseBody                "响应主体">
-<!ENTITY networkPanel.responseBodyCached          "缓存数据">
-<!ENTITY networkPanel.responseBodyUnknownType     "未知的内容类型">
-<!ENTITY networkPanel.responseNoBody              "没有响应主体">
-<!ENTITY networkPanel.responseImage               "收到的图像">
-<!ENTITY networkPanel.responseImageCached         "缓存图像">
 <!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
    - Console context menu. -->
 
@@ -75,6 +57,17 @@
 <!ENTITY btnConsoleLog          "日志">
 <!ENTITY btnConsoleXhr          "XHR">
 <!ENTITY btnConsoleReflows      "重排">
+<!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
+  -  the toolbar. It shows or hides messages that the web developer inserted on
+  -  the page for debugging purposes, using calls on the HTTP server. -->
+
+<!ENTITY btnServerLogging.label       "服务器">
+<!ENTITY btnServerLogging.tooltip     "记录来自网页服务器信息">
+<!ENTITY btnServerLogging.accesskey   "S">
+<!ENTITY btnServerErrors              "错误">
+<!ENTITY btnServerInfo                "信息">
+<!ENTITY btnServerWarnings            "警告">
+<!ENTITY btnServerLog                 "日志">
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
 

@@ -63,7 +63,7 @@
 
 <!ENTITY rights.webservices-term1 "&vendorShortName; 可以保留中止或修改服务的权利。">
 <!ENTITY rights.webservices-term2 "欢迎通过 &brandShortName; 使用这些服务，并且您完全有权利使用。 &vendorShortName; 以及其授权者保留服务的所有其他的权利。这些条款并非用于限制任何开源许可给予您关于 &brandShortName; 的权利，而且是与 &brandShortName; 源代码条款一致。">
-<!ENTITY rights.webservices-term3 "本服务是由 &vendorShortName; 及其贡献者、授权者和分销者提供，拒绝所有担保，无论明示或暗示，包括但不限于保证该服务是可交易或适合您的特定目的的担保。您承担选择适合您目的、质量和性能要求之服务的全部风险。有些司法辖区不允许除外或限制隐含的保证，因此，此免责声明可能对您不适用。">
-<!ENTITY rights.webservices-term4 "除法律规定，&vendorShortName;、其贡献者、授权者和分销商将不承担以任何方式由使用 &brandShortName; 和服务而引起的任何间接的、特殊的、偶然、必然、惩罚、或象征性的损害造成的损失。集体责任相关的赔偿额度也不得超过500美元（500美元） 。有些司法辖区不允许排除或限制某些损害，所以此声明和限制可能对您不适用。">
+<!ENTITY rights.webservices-term3 "本服务是由 &vendorShortName; 及其贡献者、授权者和分销者提供，拒绝所有担保，无论明示或暗示，包括但不限于保证该服务是可交易或适合您的特定目的的担保。您承担选择适合您目的、质量和性能要求之服务的全部风险。某些司法管辖区不允许除外或限制隐含的保证，因此，此免责声明可能对您不适用。">
+<!ENTITY rights.webservices-term4 "除法律规定，&vendorShortName; 其贡献者、授权者和分销商将不承担以任何方式由使用 &brandShortName; 和服务而引起的任何间接、特殊、偶然、必然、惩罚或象征性的损害造成的损失。集体责任相关的赔偿额度也不得超过500美元。某些司法管辖区不允许排除或限制某些损害，所以此声明和限制可能对您不适用。">
 <!ENTITY rights.webservices-term5 "&vendorShortName; 可在必要时更新这些条款。不得在未得到 &vendorShortName; 书面协议的前提下修改或取消这些条款。">
-<!ENTITY rights.webservices-term6 "这些条款均受美国加利福尼亚州法律的管辖，但排除与法律冲突的部分。若这些条款的任何部分被裁定为无效或不可执行，其余部分将保留其有效性。若这些条款的翻译版本与英文版本发生冲突，以英文版本为准。">
+<!ENTITY rights.webservices-term6 "这些条款均受美国加利福尼亚州法律的管辖，排除与法律冲突的部分。若这些条款的任何部分被裁定为无效或不可执行，其余部分仍将完全保留其有效性。若这些条款的翻译版本与英文版本发生冲突，以英文版本为准。">
