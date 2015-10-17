@@ -138,6 +138,28 @@
 <!ENTITY goEndCap.tooltip "Перейти по введённому адресу">
 <!ENTITY printButton.label "Печать">
 <!ENTITY printButton.tooltip "Распечатать эту страницу">
+<!ENTITY urlbar.viewSiteInfo.label "Просмотреть информацию о сайте">
+<!ENTITY urlbar.defaultNotificationAnchor.label "Просмотреть уведомление">
+<!ENTITY urlbar.geolocationNotificationAnchor.label "Просмотреть запрос на местоположение">
+<!ENTITY urlbar.addonsNotificationAnchor.label "Просмотреть сообщение об установке дополнения">
+<!ENTITY urlbar.indexedDBNotificationAnchor.label "Просмотреть сообщение об автономном хранении приложения">
+<!ENTITY urlbar.loginFillNotificationAnchor.label "Управление данными вашего логина">
+<!ENTITY urlbar.passwordNotificationAnchor.label "Запрос на сохранение вашего пароля">
+<!ENTITY urlbar.webappsNotificationAnchor.label "Просмотреть сообщение об установке приложения">
+<!ENTITY urlbar.pluginsNotificationAnchor.label "Управление запуском плагина на этой странице">
+<!ENTITY urlbar.webNotsNotificationAnchor.label "Изменение того, может ли сайт показывать вам уведомления">
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label "Управление доступом сайта к вашей камере и/или микрофону">
+<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label "Сайт имеет доступ к вашей камере и/или микрофону">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label "Управление доступом сайта к вашему микрофону">
+<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Сайт имеет доступ к вашему микрофону">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label "Управление доступом сайта к вашим окнам или экрану">
+<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label "Сайт имеет доступ к окну или вашему экрану">
+<!ENTITY urlbar.pointerLockNotificationAnchor.label "Изменение того, может ли сайт скрывать указатель">
+<!ENTITY urlbar.servicesNotificationAnchor.label "Просмотреть сообщение об установке службы">
+<!ENTITY urlbar.translateNotificationAnchor.label "Перевод этой страницы">
+<!ENTITY urlbar.translatedNotificationAnchor.label "Управление переводом страницы">
+<!ENTITY urlbar.emeNotificationAnchor.label "Управление запуском программы DRM">
+<!ENTITY urlbar.toggleAutocomplete.label "Переключение всплывающего окна автодополнения">
 <!ENTITY locationItem.title "Адрес">
 <!ENTITY searchItem.title "Поиск">
 <!ENTITY homeButton.label "Домой">

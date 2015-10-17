@@ -147,6 +147,9 @@
 <!ENTITY pref_tracking_protection_summary3 "Включена в Приватном просмотре">
 <!ENTITY pref_donottrack_title "Не отслеживать">
 <!ENTITY pref_donottrack_summary "&brandShortName; будет сообщать сайтам, что вы не хотите, чтобы вас отслеживали">
+<!ENTITY pref_tracking_protection_enabled "Включено">
+<!ENTITY pref_tracking_protection_enabled_pb "Включено в Приватном просмотре">
+<!ENTITY pref_tracking_protection_disabled "Отключено">
 <!ENTITY tracking_protection_prompt_title "Теперь с Защитой от отслеживания">
 <!ENTITY tracking_protection_prompt_text "Активно блокируйте элементы отслеживания, чтобы не беспокоиться о слежке.">
 <!ENTITY tracking_protection_prompt_tip_text "Чтобы узнать больше, посетите параметры Приватности">
@@ -432,6 +435,8 @@
 <!ENTITY remote_tabs_never_synced "Последняя синхронизация: никогда">
 <!ENTITY find_matchcase "Аа">
 <!ENTITY intent_uri_cannot_open "Не могу открыть ссылку">
+<!ENTITY intent_uri_private_browsing_prompt "Эта ссылка будет открыта в &formatS;. Вы уверены, что хотите выйти из Приватного просмотра?">
+<!ENTITY intent_uri_private_browsing_multiple_match_title "Выйти из Приватного просмотра?">
 <!ENTITY devtools_auth_scan_header "Сканирование QR-кода, отображенного на другом вашем устройстве">
 <!ENTITY restriction_disallow_import_settings_title2 "Отключить \'Импорт из Android\'">
 <!ENTITY restriction_disallow_addons_title2 "Отключить установку дополнений">
@@ -446,6 +451,5 @@
 <!ENTITY bookmarks_about_browser "Firefox: О вашем браузере">
 <!ENTITY bookmarks_addons "Firefox: Настройка с помощью дополнений">
 <!ENTITY bookmarks_support "Firefox: Поддержка">
-<!ENTITY bookmarks_marketplace "Firefox Marketplace">
 <!ENTITY bookmarks_restricted_support2 "Справка и поддержка Firefox для ограниченных профилей на планшетах Android">
 <!ENTITY bookmarks_restricted_webmaker "Научитесь создавать Интернет: Mozilla Вебмейкер">

@@ -28,6 +28,7 @@
 <!ENTITY options.showUserAgentStyles.tooltip "Включение этого приведёт к отображению стилей по умолчанию, загруженных браузером.">
 <!ENTITY options.defaultColorUnit.label "Единицы задания цвета по умолчанию">
 <!ENTITY options.defaultColorUnit.accesskey "и">
+<!ENTITY options.defaultColorUnit.authored "As Authored">
 <!ENTITY options.defaultColorUnit.hex "16-ричные числа">
 <!ENTITY options.defaultColorUnit.hsl "HSL(A)">
 <!ENTITY options.defaultColorUnit.rgb "RGB(A)">
