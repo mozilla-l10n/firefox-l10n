@@ -51,27 +51,33 @@
 <!ENTITY btnPageLogging.label   "Журнал">
 <!ENTITY btnPageLogging.tooltip "Журнал на съобщенията, изпратени до обекта window.console">
 <!ENTITY btnPageLogging.accesskey3 "L">
-
-
-
-
+<!ENTITY btnConsoleErrors       "Грешки">
+<!ENTITY btnConsoleInfo         "Информационни">
+<!ENTITY btnConsoleWarnings     "Предупреждения">
+<!ENTITY btnConsoleLog          "Журнал">
 <!ENTITY btnConsoleXhr          "XHR">
 <!ENTITY btnConsoleReflows      "Пренареждане">
 <!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls on the HTTP server. -->
 
-
-
-
-
-
+<!ENTITY btnServerLogging.label       "Сървър">
+<!ENTITY btnServerLogging.tooltip     "Следене на съобщенията, получавани от уеб сървъра">
+<!ENTITY btnServerLogging.accesskey   "С">
+<!ENTITY btnServerErrors              "Грешки">
+<!ENTITY btnServerInfo                "Информационни">
+<!ENTITY btnServerWarnings            "Предупреждения">
+<!ENTITY btnServerLog                 "Журнал">
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
+
+<!ENTITY btnConsoleSharedWorkers "Споделени обслужващи нишки">
 <!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
   -  should not be translated. -->
+<!ENTITY btnConsoleServiceWorkers "Обслужващи нишки">
 <!-- LOCALIZATION NODE (btnConsoleWindowlessWorkers) the term "Workers"
   -  should not be translated. -->
+<!ENTITY btnConsoleWindowlessWorkers "Добавка или Worker на хрома">
 
 <!ENTITY filterOutput.placeholder "Филтриране на изхода">
 <!ENTITY btnClear.label        "Изчистване">
@@ -81,13 +87,13 @@
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "+">
 
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
+<!ENTITY fullZoomReduceCmd.commandkey2  "-">
 
 <!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
+<!ENTITY fullZoomResetCmd.commandkey2   "0">
 
 <!ENTITY copyURLCmd.label     "Копиране на адреса на препратката">
 <!ENTITY copyURLCmd.accesskey "а">
@@ -95,5 +101,5 @@
 <!ENTITY closeCmd.key         "W">
 <!ENTITY findCmd.key          "F">
 <!ENTITY clearOutputCtrl.key  "L">
-
-
+<!ENTITY openInVarViewCmd.label "Отваряне в изгледа за променливи">
+<!ENTITY openInVarViewCmd.accesskey "п">
