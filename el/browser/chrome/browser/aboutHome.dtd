@@ -29,7 +29,7 @@
 <!ENTITY abouthome.preferencesButtonWin.label  "Ρυθμίσεις">
 <!-- LOCALIZATION NOTE (abouthome.preferencesButtonUnix.label): The label for the
      preferences/options item on about:home on Linux and OS X -->
-<!ENTITY abouthome.preferencesButtonUnix.label  "Preferences">
+<!ENTITY abouthome.preferencesButtonUnix.label  "Προτιμήσεις">
 <!ENTITY abouthome.addonsButton.label    "Πρόσθετα">
 <!-- LOCALIZATION NOTE (abouthome.appsButton2.label): This string should be consistent with
      the Apps menu item in the Tools menu (webapps.label in browser.dtd) and the Apps toolbar button in
@@ -37,6 +37,3 @@
 <!ENTITY abouthome.appsButton2.label     "Εφαρμογές">
 <!ENTITY abouthome.downloadsButton.label "Λήψεις">
 <!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">
-
-<!-- LOCALIZATION NOTE (find.commandkey): This is the key to use in
-     conjunction with accel (Command on Mac or Ctrl on other platforms) to find -->
