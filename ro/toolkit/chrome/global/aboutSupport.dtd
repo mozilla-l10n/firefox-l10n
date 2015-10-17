@@ -96,8 +96,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.installationHistoryTitle "Istoricul instalării">
 <!ENTITY aboutSupport.updateHistoryTitle "Istoricul actualizărilor">
 
-<!ENTITY aboutSupport.copyTextToClipboard.label "Copiază textul în memoria temporară">
-<!ENTITY aboutSupport.copyRawDataToClipboard.label "Copiază datele raw în memoria temporară">
+<!ENTITY aboutSupport.copyTextToClipboard.label "Copiază textul în clipboard">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "Copiază datele brute în clipboard">
 
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
 
