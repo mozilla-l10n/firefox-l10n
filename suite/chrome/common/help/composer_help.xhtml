@@ -49,12 +49,14 @@
         página web</a></li>
       <li><a href="#adding_images_to_your_web_page">Añadir dibujos
         (imágenes) a la página web</a></li>
+      <li><a href="#adding_mathematical_formulas_to_your_web_page">Añadir
+        fórmulas matemáticas a su página web</a></li>
       <li><a href="#setting_page_properties">Establecer las propiedades de la
         página</a></li>
       <li><a href="#creating_links_in_composer">Crear enlaces en
         Composer</a></li>
-      <li><a href="#publishing_your_pages_on_the_web">Publicar sus
-        páginas en la web</a></li>
+      <li><a href="#publishing_your_pages_on_the_web">Publicar sus páginas en
+        la web</a></li>
       <li><a href="#composer_preferences">Preferencias de Composer</a></li>
     </ul>
   </div>
@@ -1406,6 +1408,141 @@
 
   <p>[<a href="#adding_images_to_your_web_page">Volver
   al principio de la sección</a>]</p>
+
+  <h1 id="adding_mathematical_formulas_to_your_web_page">Añadir fórmulas
+    matemáticas a su página web</h1>
+
+  <h2 id="inserting_a_mathematical_formula_into_your_page">Insertar una
+    fórmula matemática en su página web</h2>
+
+  <p>&brandShortName; Composer le permite escribir fórmulas matemáticas
+    codificadas en su página web como <a href="glossary.xhtml#mathml">MathML</a>
+    y generadas de una cómoda sintaxis similar a
+    <a href="glossary.xhtml#latex">LaTeX</a>.</p>
+
+  <p>Para insertar una fórmula:</p>
+
+  <ol>
+    <li>Haga clic para situarse en el punto de inserción en el que quiere
+      que aparezca la fórmula.</li>
+    <li>Abra el menú Insertar y elija Expresión matemática. Verá el cuadro de
+      diálogo Insertar expresión matemática.</li>
+    <li>Escriba su código fuente LaTeX, por ejemplo <tt>\frac{\sqrt{\pi}}{3}</tt>
+      para escribir
+      <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mfrac><msqrt><mi>π</mi></msqrt><mn>3</mn></mfrac><annotation encoding="TeX">\frac{\sqrt{\pi}}{3}</annotation></semantics></math>.
+      Con el fin de ayudarle hay una vista preliminar de la fórmula así como
+      un panel construcciones predefinidas. Para más detalles, vea
+      <a href="#editing_the_latex_source">Editar el código fuente LaTeX</a>.
+    </li>
+    <li>Elija el estilo de su fórmula:
+      <ul>
+        <li><strong>Modo incrustado</strong>: si lo selecciona, la fórmula se
+          inserta dentro del párrafo de texto actual y dibujado de una forma
+          que minimiza su altura todo lo posible. Este modo se usa normalmente
+          para expresiones pequeñas. Por ejemplo, esta es una expresión en
+          modo incrustado:
+          <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mo>∫</mo><mi>D</mi></msub><mi>x</mi><mi>d</mi><mi>x</mi></mrow><annotation encoding="TeX">\int_D x dx</annotation></semantics></math>.</li>
+        <li><strong>Modo de visualización</strong>: si lo selecciona, la
+          fórmula se inserta en su propio bloque y usa el modo de dibujado
+          estándar. Este modo se usa normalmente para expresiones complejas.
+          Por ejemplo, esta es una expresión en modo de visualización:
+          <math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msubsup><mo>∫</mo><mi>a</mi><mi>b</mi></msubsup><mrow><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo></mrow><mspace width="thinmathspace"/><mi>d</mi><mi>x</mi></mrow><annotation encoding="TeX">\int_a^b {f(x)}\, dx</annotation></semantics></math></li>
+      </ul>
+    </li>
+    <li>Elija la dirección general de su fórmula:
+      <ul>
+        <li><strong>Dirección de izquierda a derecha</strong>: si lo selecciona,
+          la fórmula se expandirá de izquierda a derecha, p.e.
+          <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><msqrt><mi>x</mi></msqrt><annotation encoding="TeX">\sqrt{x}</annotation></semantics></math>.
+          Esta es la orientación estándar en la mayoría de los países.</li>
+        <li><strong>Dirección de derecha a izquierda</strong>: si lo selecciona,
+          la fórmula se expandirá de derecha a izquierda, p.e.
+          <math xmlns="http://www.w3.org/1998/Math/MathML" dir="rtl"><semantics><msqrt><mi>ج</mi></msqrt><annotation encoding="TeX">\sqrt{ج}</annotation></semantics></math>.
+          Esta es la orientación estándar en algunos países árabes.</li>
+      </ul>
+    </li>
+    <li>Verifique que el código fuente LaTeX no contiene ningún error de
+      sintaxis y pulse Insertar para crear su nueva fórmula.</li>
+  </ol>
+
+  <p>Para modificar una fórmula matemática, mueva el punto de inserción dentro
+    de ella. Luego abra el menú contextual y elija Propiedades avanzadas para
+    <a href="#editing_the_latex_source">editar el código fuente LaTeX</a> de
+    nuevo. Alternativamente, puede abrir el menú Insertar y elija Expresión
+    matemática.</p>
+
+  <p><strong>Nota</strong>: &brandShortName; Composer adjunta el código fuente
+    LaTeX a las expresiones MathML generadas para que puedan ser editadas de
+    nuevo. En general, actualmente no es posible editar una expresión MathML
+    cualquiera a menos que tenga una expresión LaTeX asociada compatible con
+    &brandShortName; Composer.</p>
+
+  <h2 id="editing_the_latex_source">Editar el código fuente LaTeX</h2>
+
+  <p>El diálogo Insertar expresión matemática contiene un campo de texto
+    en el que puede introducir expresiones matemáticas usando una sintaxis
+    similar a <a href="glossary.xhtml#latex">LaTeX</a>. Si no está
+    familiarizado con LaTeX, aquí están los puntos básicos:</p>
+
+  <ul>
+    <li>Use notación en texto estándar sin formato para expresiones simples:
+      <tt>x_1 + 2^y</tt> genera
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>x</mi><mn>1</mn></msub><mo>+</mo><msup><mn>2</mn><mi>y</mi></msup></mrow><annotation encoding="TeX">x_1 + 2^y</annotation></semantics></math>.
+    </li>
+    <li>Use llaves para definir grupos: <tt>2^x+y</tt> genera
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msup><mn>2</mn><mi>x</mi></msup><mo>+</mo><mi>y</mi></mrow><annotation encoding="TeX">2^x+y</annotation></semantics></math>
+      mientras que <tt>2^{x+y}</tt> genera
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><msup><mn>2</mn><mrow><mi>x</mi><mo>+</mo><mi>y</mi></mrow></msup><annotation encoding="TeX">2^{x+y}</annotation></semantics></math>
+    </li>
+    <li>Use instrucciones LaTeX de la forma
+      <tt>\instrucción [opción1,opción2,...] argumento1 argumento2 ...</tt> para
+      definir expresiones complejas: <tt>\gamma</tt>, <tt>\frac a b</tt>, <tt>\sqrt x</tt>
+      y <tt>\sqrt[3]x</tt> generan
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mi>γ</mi><annotation encoding="TeX">\gamma</annotation></semantics></math>,
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mfrac><mi>a</mi><mi>b</mi></mfrac><annotation encoding="TeX">\frac a b</annotation></semantics></math>,
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><msqrt><mi>x</mi></msqrt><annotation encoding="TeX">\sqrt x</annotation></semantics></math> y
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mroot><mi>x</mi><mn>3</mn></mroot><annotation encoding="TeX">\sqrt[3] x</annotation></semantics></math>
+      respectivamente.
+    </li>
+    <li>Use entornos LaTeX de la forma <tt>\begin{nombreentorno}  ... \end{nombreentorno}</tt>
+      para definir bloques con una sintaxis especial. Esto se usa normalmente
+      para listas multidimensionales:
+      <tt>\begin{matrix} a &amp; b &amp; c \\ d &amp; e &amp; f \end{matrix}</tt>
+      genera
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mtable displaystyle="false" rowspacing="0.5ex"><mtr><mtd><mi>a</mi></mtd><mtd><mi>b</mi></mtd><mtd><mi>c</mi></mtd></mtr><mtr><mtd><mi>d</mi></mtd><mtd><mi>e</mi></mtd><mtd><mi>f</mi></mtd></mtr></mtable><annotation encoding="TeX">\begin{matrix}a &amp; b &amp; c \\ d &amp; e &amp; f \end{matrix}</annotation></semantics></math>.
+    </li>
+    <li>Use instrucciones especiales para escapar caracteres:
+      <tt>\backslash \&amp; \{ \}</tt> genera
+      <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo>\</mo><mi>&amp;</mi><mo stretchy="false">{</mo><mo stretchy="false">}</mo></mrow><annotation encoding="TeX">\backslash \&amp; \{ \}</annotation></semantics></math>.
+    </li>
+  </ul>
+
+  <p>Existe una gran colección de órdenes LaTeX y no hay ninguna lista definitiva
+    de ellas. &brandShortName; Composer solo admite las
+    <a href="https://github.com/fred-wang/TeXZilla/wiki/TeXZilla-Commands">instrucciones
+    TeXZilla</a> que están a su vez basadas en las
+    <a href="https://golem.ph.utexas.edu/~distler/blog/itex2MMLcommands.html">instrucciones
+    itex2MML</a> y deberían cubrir las construcciones más populares. Una de las
+    características interesantes de TeXZilla es que acepta caracteres arbitrarios
+    como entrada de forma que
+    <tt>\left⌊α^2\right⌋</tt> es equivalente a la más profusa
+    <tt>\left\lfloor\alpha^2\right\rfloor</tt> y genera
+    <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo>⌊</mo><msup><mi>α</mi><mn>2</mn></msup><mo>⌋</mo></mrow><annotation encoding="TeX">\left⌊α^2\right⌋</annotation></semantics></math>.</p>
+
+  <p>No necesita conocer todas las instrucciones LaTeX para editar fórmulas.
+    En su lugar, hay disponible un panel de expresiones predefinidas. Pulse
+    en cualquiera de los botones del panel para insertar la expresión LaTeX
+    correspondiente. Los argumentos en expresiones LaTeX se representan con
+    elipses. Puede simplemente editar el código fuente LaTeX para
+    reemplazarlos con el contenido real que desee.</p>
+
+  <p><strong>Consejo</strong>: si selecciona una subexpresión en el campo
+    de código fuente LaTeX y usa el panel de construcción para insertar una
+    expresión LaTeX con al menos un argumento, esa subexpresión se usará como
+    el primer argumento de la nueva expresión.</p>
+
+   <p>[<a href="#adding_mathematical_formulas_to_your_web_page">Volver al
+     principio de la sección</a>]</p>
 
   <h1 id="setting_page_properties">Establecer las propiedades de la
   página</h1>

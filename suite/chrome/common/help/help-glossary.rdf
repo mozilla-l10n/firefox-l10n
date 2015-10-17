@@ -81,7 +81,7 @@
         <rdf:li> <rdf:Description nc:name="huella (certificado)" nc:link="glossary.xhtml#fingerprint"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="huella de un certificado" nc:link="glossary.xhtml#certificate_fingerprint"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="huella (navegador)" nc:link="glossary.xhtml#fingerprinting"/> </rdf:li>
-         <rdf:li> <rdf:Description nc:name="identificaci&#243;n" nc:link="glossary.xhtml#authentication"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="identificaci&#243;n" nc:link="glossary.xhtml#authentication"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="identificaci&#243;n con certificados" nc:link="glossary.xhtml#certificate-based_authentication"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="identificaci&#243;n con contrase&#241;as" nc:link="glossary.xhtml#password-based_authentication"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="identificaci&#243;n del cliente" nc:link="glossary.xhtml#client_authentication"/> </rdf:li>
@@ -96,11 +96,13 @@
         <rdf:li> <rdf:Description nc:name="ISP (proveedor de servicios de Internet)" nc:link="glossary.xhtml#isp"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Java" nc:link="glossary.xhtml#java"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="JavaScript" nc:link="glossary.xhtml#javascript"/> </rdf:li>
-         <rdf:li> <rdf:Description nc:name="Kerberos" nc:link="glossary.xhtml#kerberos"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="Kerberos" nc:link="glossary.xhtml#kerberos"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="LaTeX" nc:link="glossary.xhtml#latex"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="LDAP (protocolo ligero de acceso a directorios)" nc:link="glossary.xhtml#ldap"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="Malware" nc:link="glossary.xhtml#malware"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="marcador" nc:link="glossary.xhtml#bookmark"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="marco" nc:link="glossary.xhtml#frame"/> </rdf:li>
+        <rdf:li> <rdf:Description nc:name="MathML" nc:link="glossary.xhtml#mathml"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="m&#243;dulo de seguridad" nc:link="glossary.xhtml#security_module"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="m&#243;dulo PKCS #11" nc:link="glossary.xhtml#pkcs_11_module"/> </rdf:li>
         <rdf:li> <rdf:Description nc:name="motor de b&#250;squeda o buscador" nc:link="glossary.xhtml#search_engine"/> </rdf:li>
