@@ -642,6 +642,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "C">
 
+<!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "पृष्ठ शैली">
 <!ENTITY pageStyleMenu.accesskey "y">
@@ -681,9 +682,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY editBookmark.done.label                     "संपन्न">
 <!ENTITY editBookmark.cancel.label                   "रद्द करू">
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
-
-
+<!ENTITY identity.connectionSecure "सुरक्षित कनेक्शन">
+<!ENTITY identity.connectionNotSecure "कनेक्शन सुरक्षित नहि अछि">
 <!ENTITY identity.connectionFile "ई पेज अहाँक कंप्यूटरमे सहेजल जाएत अछि.">
 
 
