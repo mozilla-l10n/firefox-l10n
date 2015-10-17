@@ -687,8 +687,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "सुरक्षित कनेक्शन">
 <!ENTITY identity.connectionNotSecure "कनेक्शन सुरक्षित नहि अछि">
 <!ENTITY identity.connectionFile "ई पेज अहाँक कंप्यूटरमे सहेजल जाएत अछि.">
-
-
+<!ENTITY identity.connectionVerified "&brandShortName;सत्यापित कएलक कि अहाँ ई साइट सँ सुरक्षित रूप सँ जुड़ल छी, जे एकरा द्वारा चलाओल जाएत अछि:">
+<!ENTITY identity.connectionInternal "ई एकटा सुरक्षित &brandShortName; पेज अछि.">
 <!-- Strings for connection state warnings. -->
 
 
