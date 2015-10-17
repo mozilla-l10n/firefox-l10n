@@ -5,5 +5,5 @@
    %brandDTD;
 <!ENTITY aboutLogins.title                       "लॉगिन्स">
 <!ENTITY aboutLogins.update                      "अद्यावत करा">
-
+<!ENTITY aboutLogins.emptyLoginText              "आपले लॉगइन सुरक्षित ठेवा">
 
