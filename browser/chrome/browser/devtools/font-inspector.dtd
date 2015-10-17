@@ -13,4 +13,4 @@
 <!-- LOCALIZATION NOTE (previewHint): This is the label shown as the
      placeholder in font inspector preview text box. -->
 
-<!ENTITY previewHint "Преглед на текста">
+<!ENTITY previewHint "Примерен текст">

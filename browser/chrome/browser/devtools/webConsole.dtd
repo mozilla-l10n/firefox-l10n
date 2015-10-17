@@ -50,7 +50,7 @@
 
 <!ENTITY btnPageLogging.label   "Журнал">
 <!ENTITY btnPageLogging.tooltip "Журнал на съобщенията, изпратени до обекта window.console">
-<!ENTITY btnPageLogging.accesskey3 "L">
+<!ENTITY btnPageLogging.accesskey3 "Ж">
 <!ENTITY btnConsoleErrors       "Грешки">
 <!ENTITY btnConsoleInfo         "Информационни">
 <!ENTITY btnConsoleWarnings     "Предупреждения">
