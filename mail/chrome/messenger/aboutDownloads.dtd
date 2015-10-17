@@ -17,5 +17,8 @@
 <!ENTITY cmd.open.accesskey                        "O">
 <!ENTITY cmd.removeFromHistory.label               "从历史记录中移除">
 <!ENTITY cmd.removeFromHistory.accesskey           "e">
-<!ENTITY cmd.clearDownloads.label                  "清空下载列表">
-<!ENTITY cmd.clearDownloads.accesskey              "D">
+<!ENTITY cmd.clearList.label                       "清空列表">
+<!ENTITY cmd.clearList.accesskey                   "C">
+<!ENTITY cmd.clearList.tooltip                     "移除已保存文件的列表中的所有项目，除了仍在进行的下载。">
+<!ENTITY cmd.searchDownloads.label                 "搜索…">
+<!ENTITY cmd.searchDownloads.key                   "F">

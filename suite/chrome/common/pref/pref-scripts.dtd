@@ -21,6 +21,10 @@
 <!ENTITY allowContextmenuDisable.label   "禁用或更换快捷菜单">
 <!ENTITY allowHideStatusBar.label        "隐藏状态栏">
 
+<!ENTITY enableDrmMedia.label            "启用数字版权管理（DRM）对">
+<!ENTITY enableEmeForSuite.label         "第三方内容解密模块">
+<!ENTITY enableEmeForSuite.accesskey     "C">
+
 <!ENTITY enablePlugins.label             "允许插件用于">
 <!ENTITY enablePluginForSuite.label      "套件">
 <!ENTITY enablePluginForSuite.accesskey  "u">

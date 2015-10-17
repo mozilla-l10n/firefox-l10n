@@ -43,7 +43,7 @@
 <!ENTITY savedPasswords.accesskey       "S">
 <!-- Anti Virus -->
 
-<!ENTITY antiVirus.intro      "&brandShortName; 可在将消息保存到本地之前，让防病毒软件分析扫描它接收到的电子邮件。">
-<!ENTITY antiVirus.label      "允许防病毒软件隔离单个接收到的消息">
+<!ENTITY antiVirus.intro      "&brandShortName; 可以让防病毒软件更容易在传入的邮件被本地保存之前扫描病毒。">
+<!ENTITY antiVirus.label      "允许防病毒软件隔离个别传入的邮件">
 <!ENTITY antiVirus.accesskey  "A">
 

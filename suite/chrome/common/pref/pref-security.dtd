@@ -5,14 +5,14 @@
 
 <!ENTITY pref.security.title              "隐私和安全">
 
-<!ENTITY tracking.label                   "用户追踪">
+<!ENTITY tracking.label                   "用户跟踪">
 <!ENTITY trackingIntro.label              "网站可能跟踪您如何使用它们，从而影响您的隐私权。">
 
-<!ENTITY doNotTrack.label                 "告诉网站我不想被追踪">
+<!ENTITY doNotTrack.label                 "告诉网站我不想被跟踪">
 <!ENTITY doNotTrack.accesskey             "T">
-<!ENTITY trackProtect.label               "防止已知网站的追踪行为">
+<!ENTITY trackProtect.label               "阻止已知网站的跟踪行为">
 <!ENTITY trackProtect.accesskey           "n">
-<!ENTITY warnTrackContent.label           "检测到追踪行为时警告我">
+<!ENTITY warnTrackContent.label           "检测到跟踪行为时警告我">
 <!ENTITY warnTrackContent.accesskey       "W">
 
 <!ENTITY geoLocation.label                "位置感知浏览">
