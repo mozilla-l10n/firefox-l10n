@@ -6,11 +6,21 @@
 <!ENTITY  no_space_to_start_error "空间不足，无法启动 &brandShortName;。">
 <!ENTITY  error_loading_file "载入运行 &brandShortName; 所必须的文件时发生错误">
 
+<!ENTITY firstrun_panel_title_welcome "欢迎使用">
 <!ENTITY  onboard_start_message3 "使用 &brandShortName; 浏览">
 <!ENTITY  onboard_start_subtext3 "独具风格的移动网络浏览体验。">
 <!ENTITY  onboard_start_button_account "登录到 &brandShortName;">
 <!ENTITY  onboard_start_button_browser "开始浏览">
+<!ENTITY firstrun_button_next "下一个">
+
 <!ENTITY  onboard_start_restricted1 "使用简化的 &brandShortName; 版本，确保安全和可控。">
+
+<!ENTITY firstrun_import_title "导入">
+<!ENTITY firstrun_import_message "欢迎使用 &brandShortName;">
+<!ENTITY firstrun_import_subtext "从另一个浏览器导入您的书签和历史记录。">
+<!ENTITY firstrun_import_action "转移到 &brandShortName;">
+<!ENTITY firstrun_import_dialog_button "转移">
+<!ENTITY firstrun_import_progress_title "正在转移">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -55,8 +65,9 @@
 
 <!ENTITY history_today_section "今天">
 <!ENTITY history_yesterday_section "昨天">
-<!ENTITY history_week_section2 "上周">
-<!ENTITY history_older_section2 "上个月">
+<!ENTITY history_week_section3 "最近 7 天">
+<!ENTITY history_this_month_section "本月">
+<!ENTITY history_older_section3 "最近 6 个月">
 
 <!ENTITY go "转到">
 <!ENTITY search "搜索">
@@ -69,8 +80,6 @@
 <!ENTITY edit_mode_cancel "取消">
 
 <!ENTITY close_tab "关闭标签页">
-<!ENTITY tab_audio_playing "此标签页正在播放音频">
-<!ENTITY tab_audio_muted "此标签页已被静音">
 <!ENTITY one_tab "1 个标签页">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -81,6 +90,14 @@
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
 <!ENTITY switch_button_message "切换">
+<!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
+     visible in the UI, but rather used as a text-to-speech content description
+     for sight-impaired a11y users. The content description is set on a tab
+     title in a list of open tabs when content in that tab is playing audio.
+     &formatS; will be replaced with the title of the tab, as received from the
+     web page. When audio is not playing in a tab, &formatS; will be used as
+     the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "正在播放音频 – &formatS;">
 
 <!ENTITY settings "设置">
 <!ENTITY settings_title "设置">
@@ -143,7 +160,7 @@
 <!ENTITY pref_category_privacy_short "隐私">
 <!ENTITY pref_category_privacy_summary2 "控制登录信息、Cookie、跟踪、数据">
 <!ENTITY pref_category_vendor "&vendorShortName;">
-<!ENTITY pref_category_vendor_summary "有关 &brandShortName;、常见问题、数据选择权">
+<!ENTITY pref_category_vendor_summary "有关 &brandShortName; 的信息、常见问题、数据反馈">
 <!ENTITY pref_category_datareporting "反馈">
 <!ENTITY pref_learn_more "详细了解">
 <!ENTITY pref_category_installed_search_engines "已安装的搜索引擎">
@@ -168,8 +185,8 @@
 <!ENTITY pref_open_external_urls_privately_summary "所有外部链接都在 &brandShortName; 中打开">
 <!ENTITY pref_manage_logins "管理登录信息">
 
-<!ENTITY pref_category_home "主页">
-<!ENTITY pref_category_home_summary "自定义您的主页">
+<!ENTITY pref_category_home "首页">
+<!ENTITY pref_category_home_summary "自定义您的首页">
 <!ENTITY pref_category_home_panels "面板">
 <!ENTITY home_add_panel_title "添加新面板">
 <!ENTITY home_add_panel_empty "抱歉，我们未找到您可添加的面板。">
@@ -183,6 +200,9 @@
 <!ENTITY pref_home_updates_wifi "仅通过 Wi-Fi">
 <!ENTITY pref_home_suggested_sites "显示推荐网站">
 <!ENTITY pref_home_suggested_sites_summary "显示我们认为您可能感兴趣的网站">
+<!ENTITY pref_category_home_homepage "首页">
+<!ENTITY home_homepage_title "设置一个首页">
+<!ENTITY home_homepage_use_current_tab "使用当前标签页">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "自定义">
@@ -201,7 +221,7 @@
 <!ENTITY pref_tracking_protection_title "跟踪保护">
 <!ENTITY pref_tracking_protection_summary3 "在隐私浏览中启用">
 <!ENTITY pref_donottrack_title "请勿跟踪">
-<!ENTITY pref_donottrack_summary "&brandShortName; 将会告诉网站您不想被追踪">
+<!ENTITY pref_donottrack_summary "&brandShortName; 将会告诉网站您不想被跟踪">
 
 <!ENTITY tracking_protection_prompt_title "立即使用跟踪保护">
 <!ENTITY tracking_protection_prompt_text "主动屏蔽跟踪元素，让您不再担心。">
@@ -210,7 +230,7 @@
 
 <!ENTITY tab_queue_toast_message3 "&brandShortName; 中已保存的标签页">
 <!ENTITY tab_queue_toast_action "立即打开">
-<!ENTITY tab_queue_prompt_title "打开多个链接？">
+<!ENTITY tab_queue_prompt_title "一次打开多个链接？">
 <!ENTITY tab_queue_prompt_text4 "保存它们，供您下次打开 &brandShortName; 时使用。">
 <!ENTITY tab_queue_prompt_tip_text2 "您以后可以在“设置”中更改此行为">
 <!ENTITY tab_queue_prompt_positive_action_button "启用">
@@ -238,7 +258,6 @@
 <!ENTITY pref_plugins_tap_to_play "点按即可播放">
 <!ENTITY pref_plugins_disabled "已禁用">
 <!ENTITY pref_text_size "文字大小">
-<!ENTITY pref_reflow_on_zoom4 "文本重排">
 <!ENTITY pref_restore "标签页">
 <!ENTITY pref_restore_always "总是恢复">
 <!ENTITY pref_restore_quit "退出 &brandShortName; 后不要恢复">
@@ -348,6 +367,7 @@ size. -->
 <!ENTITY share_title "分享，通过">
 <!ENTITY share_image_failed "无法分享这个图像">
 <!ENTITY save_as_pdf "另存为 PDF">
+<!ENTITY print "打印">
 <!ENTITY find_in_page "在页面中查找">
 <!ENTITY desktop_mode "要求桌面版网站">
 <!ENTITY page "页面">
@@ -392,6 +412,8 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "固定网站">
 <!ENTITY contextmenu_top_sites_unpin "解除网站固定">
 <!ENTITY contextmenu_add_search_engine "添加搜索引擎">
+<!ENTITY contextmenu_mark_read "标为已读">
+<!ENTITY contextmenu_mark_unread "标为未读">
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
@@ -414,8 +436,8 @@ size. -->
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
-<!ENTITY pref_prevent_magnifying_glass "禁用放大镜">
-<!ENTITY pref_prevent_magnifying_glass_summary "避免放大镜的使用影响含糊的屏幕触摸">
+<!ENTITY pref_magnifying_glass_enabled "放大较小区域">
+<!ENTITY pref_magnifying_glass_enabled_summary "点按链接和表单字段周围时放大">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -423,7 +445,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary "向下滚动页面时隐藏 &brandShortName; 的标题栏">
 
 <!ENTITY pref_tab_queue_title2 "打开多个链接">
-<!ENTITY pref_tab_queue_summary3 "保存它们，供您下次打开 &brandShortName; 时使用">
+<!ENTITY pref_tab_queue_summary3 "先存下来，下次打开 &brandShortName; 时一并打开">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -474,8 +496,6 @@ size. -->
 <!ENTITY button_set "设置">
 <!ENTITY button_clear "清空">
 <!ENTITY button_copy "复制">
-
-<!ENTITY firstrun_panel_title_welcome "欢迎使用">
 
 <!ENTITY home_top_sites_title "常用网站">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -565,14 +585,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_insecure "不安全连接">
 <!-- Mixed content notifications in site identity popup -->
 
-<!ENTITY mixed_content_blocked_all "&brandShortName; 已阻止此页面上的不安全元素。">
-<!ENTITY mixed_content_blocked_some "&brandShortName; 已阻止此页面上的部分不安全元素。">
-<!ENTITY mixed_content_display_loaded "此页面有部分不安全元素。">
-<!ENTITY mixed_content_protection_disabled "您已禁用对不安全元素的保护。">
-
-<!ENTITY loaded_mixed_content_message "此页面显示的内容无法保证安全性。">
-<!ENTITY blocked_mixed_content_message_top "&brandShortName; 已阻止非安全传输的内容。">
-<!ENTITY blocked_mixed_content_message_bottom "即使此类内容被屏蔽，大多数网站仍能正常工作。">
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; 已阻止此页面上的不安全内容。">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; 已阻止此页面上的部分不安全内容。">
+<!ENTITY mixed_content_display_loaded1 "此页面的部分内容不安全（例如图像）。">
+<!ENTITY mixed_content_protection_disabled1 "您已禁用对不安全内容的保护。">
 <!-- Tracking content notifications in site identity popup -->
 
 <!ENTITY doorhanger_tracking_title "跟踪保护">
@@ -701,4 +717,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restriction_disallow_clear_history_title2 "禁用“清除浏览记录”">
 <!ENTITY restriction_disallow_master_password_title2 "禁用主密码功能">
 <!ENTITY restriction_disallow_guest_browsing_title2 "禁用访客浏览">
+<!-- Default Bookmarks titles-->
+<!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
+<!ENTITY bookmarks_about_browser "Firefox：关于您的浏览器">
+<!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "Firefox：使用附加组件个性化体验">
+<!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "Firefox：用户支持">
+<!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
+<!ENTITY bookmarks_marketplace "Firefox 应用市场">
+<!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!ENTITY bookmarks_restricted_support2 "Firefox 帮助和支持 - 在 Android 平板电脑上受限制的配置文件">
+<!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!ENTITY bookmarks_restricted_webmaker "知悉 Web：Mozilla Webmaker">

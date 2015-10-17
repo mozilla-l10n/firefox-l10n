@@ -277,7 +277,7 @@
 <!ENTITY calendar.context.convertmenu.task.label         "任务…">
 <!ENTITY calendar.context.convertmenu.task.accesskey     "T">
 
-<!ENTITY calendar.tasks.view.minimonth.label           "迷你月">
+<!ENTITY calendar.tasks.view.minimonth.label           "小月历">
 <!ENTITY calendar.tasks.view.minimonth.accesskey       "M">
 
 <!ENTITY calendar.tasks.view.calendarlist.label        "日历列表">
