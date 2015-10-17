@@ -25,7 +25,7 @@
 <!ENTITY aboutPrivateBrowsing.info.history     "इतिहास">
 <!ENTITY aboutPrivateBrowsing.info.searches    "खोजी">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "कुकिज">
-
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "अस्थायी फाइलहरु">
 
 <!ENTITY aboutPrivateBrowsing.kept             "&brandShortName; will keep:">
 <!ENTITY aboutPrivateBrowsing.info.kept        "बचत गरियो">
