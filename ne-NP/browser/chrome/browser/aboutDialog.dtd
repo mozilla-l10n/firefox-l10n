@@ -40,6 +40,7 @@
 
 <!ENTITY helpus.start               "सहयोग गर्न चाहनुहुन्छ?  ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
+<!ENTITY helpus.donateLink          "दान गर्नुहोस् ">
 <!ENTITY helpus.middle              "  अथवा  ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY helpus.getInvolvedLink     "सहभागी हुनुहोस्!">
