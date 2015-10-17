@@ -155,7 +155,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.status): This is the label displayed
   -  in the network details headers tab identifying the status code. -->
 
-<!ENTITY netmonitorUI.summary.status      "Код за състоянието:">
+<!ENTITY netmonitorUI.summary.status      "Код на състоянието:">
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.version): This is the label displayed
   -  in the network details headers tab identifying the http version. -->
 
