@@ -2,14 +2,20 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
+<!ENTITY systemIntegration.title  "Tizimni integratsiyalash">
+<!ENTITY acceptIntegration.label  "Asosiy sifatida o‘rnatish">
+<!ENTITY cancelIntegration.label  "Integratsiyalashni tashlab o‘tish">
 <!ENTITY cancelIntegration2.label  "Bekor qilish">
+<!ENTITY defaultClient.intro  "&brandShortName; dasturidan asosiy mijoz sifatida foydalanish:">
 
+<!ENTITY email.label "E-pochta">
+<!ENTITY newsgroups.label "Yangiliklar guruhi">
+<!ENTITY feeds.label "Tasmalar">
 
+<!ENTITY unsetDefault.tooltip "&brandShortName; dasturini &brandShortName; ichidagi asosiy mijoz sifatida bekor qilib bo‘lmaydi. Boshqa ilova dasturni asosiy sifatida o‘rnatish uchun uning &quot;Asosiy sifatida o‘rnatish&quot; oynasidan foydalanishingiz kerak.">
 
+<!ENTITY checkOnStartup.label "&brandShortName; ishga tushganda doimo ushbu tekshiruv amalga oshirilsin">
+<!ENTITY checkOnStartup.accesskey "d">
 
-
-
-
-
-
+<!ENTITY searchIntegration.label "Xabarlarni qidirishda &searchIntegration.engineName;ga ruxsat berilsin">
+<!ENTITY searchIntegration.accesskey "s">

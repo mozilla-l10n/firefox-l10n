@@ -3,70 +3,78 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- for SearchDialog.xul -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY searchHeading.label         "Xabarlarni izlash:">
+<!ENTITY searchHeading.accesskey     "i">
+<!ENTITY searchSubfolders.label      "Qyi jildlarni izlash">
+<!ENTITY searchSubfolders.accesskey  "i">
+<!ENTITY searchOnServer.label        "Serverda qidiruvni ishga tushirish">
+<!ENTITY searchOnServer.accesskey    "u">
+<!ENTITY resetButton.label           "Tozalash">
+<!ENTITY resetButton.accesskey       "T">
+<!ENTITY openButton.label            "Ochish">
+<!ENTITY openButton.accesskey        "O">
+<!ENTITY deleteButton.label          "O‘chirish">
+<!ENTITY deleteButton.accesskey      "O">
+<!ENTITY searchDialogTitle.label     "Xabarlarni izlash">
+<!ENTITY results.label               "Natijalar">
+<!ENTITY moveButton.label            "Ko‘chirish">
+<!ENTITY moveButton.accesskey        "K">
+<!ENTITY closeCmd.key                "W"> 
+<!ENTITY openInFolder.label          "Jildda ochish">
+<!ENTITY openInFolder.accesskey      "J">
+<!ENTITY saveAsVFButton.label        "Qidiruv jildi sifatida saqlash">
+<!ENTITY saveAsVFButton.accesskey    "s">
 <!-- for ABSearchDialog.xul -->
 
-
-
-
-
-
-
-
+<!ENTITY abSearchHeading.label       "Izlash:">
+<!ENTITY abSearchHeading.accesskey   "I">
+<!ENTITY propertiesButton.label      "Xossalari">
+<!ENTITY propertiesButton.accesskey  "X">
+<!ENTITY composeButton.label         "Yozish">
+<!ENTITY composeButton.accesskey     "Y">
+<!ENTITY deleteCardButton.label      "O‘chirish">
+<!ENTITY deleteCardButton.accesskey  "O">
+<!ENTITY abSearchDialogTitle.label   "Qo‘shimcha manzillar kitobidan izlash">
 <!-- Thread Pane -->
 
-
-
-
-
+<!ENTITY threadColumn.label "Yozishmalar">
+<!ENTITY fromColumn.label "Jo‘natuvchi">
+<!ENTITY recipientColumn.label "Qabul qiluvchi">
+<!ENTITY correspondentColumn.label "Muxbirlar">
+<!ENTITY subjectColumn.label "Mavzu">
+<!ENTITY dateColumn.label "Sana">
 <!ENTITY priorityColumn.label "Muhimlik darajasi">
 <!ENTITY tagsColumn.label "Teglar">
 <!ENTITY accountColumn.label "Hisob">
 <!ENTITY statusColumn.label "Holati">
-
-
-
-
-
-
-
+<!ENTITY sizeColumn.label "Hajmi">
+<!ENTITY junkStatusColumn.label "Holatni o‘chirish">
+<!ENTITY unreadColumn.label "O‘qilmagan">
+<!ENTITY totalColumn.label "Jami">
+<!ENTITY readColumn.label "O‘qish">
+<!ENTITY receivedColumn.label "Qabul qilingan">
+<!ENTITY starredColumn.label "Yulduz qo‘yilgan">
 <!ENTITY locationColumn.label "Manzili">
-
+<!ENTITY idColumn.label "Buyruq qabul qilindi">
 <!-- Thread Pane Tooltips -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY columnChooser2.tooltip "Ko‘rsatish uchun ustunlarni tanlang">
+<!ENTITY threadColumn2.tooltip "Xabar yozishmalarini ko‘rsatish">
+<!ENTITY fromColumn2.tooltip "Quyidagicha saralash">
+<!ENTITY recipientColumn2.tooltip "Qabul qiluvchi bo‘yicha saralash">
+<!ENTITY correspondentColumn2.tooltip "Muxbirlar bo‘yicha saralash">
+<!ENTITY subjectColumn2.tooltip "Mavzusi bo‘yicha saralash">
+<!ENTITY dateColumn2.tooltip "Sanasi bo‘yicha saralash">
+<!ENTITY priorityColumn2.tooltip "Muhimligi bo‘yicha saralash">
+<!ENTITY tagsColumn2.tooltip "Teglar bo‘yicha saralash">
+<!ENTITY accountColumn2.tooltip "Hisob bo‘yicha saralash">
+<!ENTITY statusColumn2.tooltip "Holati bo‘yicha saralash">
+<!ENTITY sizeColumn2.tooltip "Hajmi bo‘yicha saralash">
+<!ENTITY junkStatusColumn2.tooltip "Eski status bo‘yicha saralash">
+<!ENTITY unreadColumn2.tooltip "Yozishmalardagi o‘qilmagan xabarlar miqdori">
+<!ENTITY totalColumn2.tooltip "Yozishmalardagi xabarlarning jami miqdori">
+<!ENTITY readColumn2.tooltip "O‘qilganligi bo‘yicha saralash">
+<!ENTITY receivedColumn2.tooltip "Qabul qilingan sanasi bo‘yicha saralash">
+<!ENTITY starredColumn2.tooltip "Yulduz bo‘yicha saralash">
+<!ENTITY locationColumn2.tooltip "Manzili bo‘yicha saralash">
+<!ENTITY idColumn2.tooltip "Qabul qilingan tartibi bo‘yicha saralash">

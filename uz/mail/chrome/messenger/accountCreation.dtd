@@ -2,6 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY autoconfigWizard.title          "Pochta hisobini moslash">
+<!ENTITY name.label                      "Ismingiz:">
+<!ENTITY name.accesskey                  "n">
+<!ENTITY name.placeholder                "Ismingiz va familiyangiz">
+<!ENTITY name.text                       "Ismingiz (boshqalarga ko‘rinadigan)">
+<!ENTITY email.label                     "E-pochta manzili:">
+<!ENTITY email.accesskey                 "l">
+<!ENTITY email.placeholder               "email@example.com">
+<!ENTITY password.label                  "Parol:">
+<!ENTITY password.accesskey              "P">
+<!ENTITY password.placeholder            "Parol">
 
 
 
@@ -9,17 +20,8 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY username.label                  "Foydalanuvchi nomi:">
+<!ENTITY hostname.label                  "Server hosti nomi">
 <!ENTITY port.label                      "Port">
 
 
@@ -59,7 +61,8 @@
 <!-- LOCALIZATION NOTE (doneAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
-
+<!ENTITY doneAccount.label               "Tayyor">
+<!ENTITY doneAccount.accesskey           "T">
 <!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
      the incoming or outgoing servers, then the page that pops up will have
      this text in a button to take you back to the previous page to change
