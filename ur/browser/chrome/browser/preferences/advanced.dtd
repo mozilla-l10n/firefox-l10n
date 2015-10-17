@@ -116,5 +116,5 @@
 <!ENTITY enableOCSP.accesskey            "س">
 <!ENTITY viewCerts.label                 "تصدیق نامہ دیکھیں">
 <!ENTITY viewCerts.accesskey             "ت">
-
-
+<!ENTITY viewSecurityDevices.label       "سلامتی آلات">
+<!ENTITY viewSecurityDevices.accesskey   "آ">
