@@ -23,6 +23,6 @@
 
 <!ENTITY button.cancel.label          "منسوخ کریں">
 <!ENTITY button.cancel.accesskey      "م">
-
-
+<!ENTITY button.ok.label              "تبدیلیاں محفوظ کریں">
+<!ENTITY button.ok.accesskey          "م">
 
