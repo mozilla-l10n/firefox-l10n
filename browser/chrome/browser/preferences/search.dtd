@@ -4,15 +4,21 @@
 
 <!ENTITY defaultSearchEngine.label             "मुलभूत शोध इंजिन">
 
+<!ENTITY chooseYourDefaultSearchEngine.label   "तुमचे डिफॉल्ट शोध इंजिन निवडा. &brandShortName; ते लोकेशन बार, शोध बार, आणि सुरूवातीच्या पृष्ठावर वापरते.">
 
+<!ENTITY provideSearchSuggestions.label        "शोध सूचना पुरवा">
+<!ENTITY provideSearchSuggestions.accesskey    "s">
 
+<!ENTITY showURLBarSuggestions.label           "लोकेशन बार परिणामांत शोध सूचना दाखवा">
+<!ENTITY showURLBarSuggestions.accesskey       "l">
+<!ENTITY urlBarSuggestionsPermanentPB.label    "आपल्या शोध सूचना लोकेशन बारवर दिसणार नाही कारण आपण इतिहास लक्षात न ठेवण्यासाठी &brandShortName; हे संयोजित केले आहे">
 
+<!ENTITY redirectWindowsSearch.label "विंडोज वरून शोधण्यासाठी ह्या शोध इंजीनचा वापर करा">
+<!ENTITY redirectWindowsSearch.accesskey "W">
 
+<!ENTITY oneClickSearchEngines.label           "एका क्लिकवर शोध घेण्याजोगे शोध इंजीन">
 
-
-
-
-
+<!ENTITY chooseWhichOneToDisplay.label         "शोध बार मुळे तुम्हाला थेट पर्यायी इंजिन्स शोधता येतात. कोणते प्रदर्शित करायचे त्याची निवड करा.">
 
 <!ENTITY engineNameColumn.label                "शोध इंजिन्स">
 <!ENTITY engineKeywordColumn.label             "मुख्यशब्द">

@@ -42,3 +42,4 @@
 <!ENTITY useFirefoxSync.label             "टीप: हे स्वतंत्र प्रोफाइलचा वापर करते.त्यांच्या दरम्यान डेटा शेअर करण्यासाठी समक्रमण वापरा.">
 <!ENTITY getStarted.label                 "समक्रमणाचा वापर करण्यास प्रारंभ करा…">
 
+<!ENTITY e10sEnabled.label                "बहु-प्रक्रिया &brandShortName; सक्षम करा">

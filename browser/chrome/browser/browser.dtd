@@ -793,9 +793,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.myThemes "माझ्या थीम">
 <!ENTITY customizeMode.lwthemes.recommended "शिफारस">
 <!ENTITY customizeMode.lwthemes.menuManage "व्यवस्थापन करा">
-
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "अधिक थिम्स मिळवा">
-
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 
 <!ENTITY social.chatBar.commandkey "c">
 <!ENTITY social.chatBar.label "गप्पांवर लक्ष्य द्या">

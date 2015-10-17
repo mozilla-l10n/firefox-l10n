@@ -84,7 +84,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY welcome.useOldSync.label "सिंकची जुणी आवृत्ती वापरत आहात?">
 
 <!ENTITY signedOut.caption            "आपला वेब आपल्याबरोबर घेऊन जा">
-
+<!ENTITY signedOut.description        "आपल्या सर्व साधणांकरीता आपले बुकमार्क, इतिहास, टॅब, पासवर्ड, ॲड-ऑन, आणि प्राधान्ये समक्रमित करा.">
 <!ENTITY signedOut.accountBox.title   "&syncBrand.fxAccount.label; सह जोडा">
 <!ENTITY signedOut.accountBox.create  "खाते निर्माण करा">
 <!ENTITY signedOut.accountBox.signin  "साइन इन">

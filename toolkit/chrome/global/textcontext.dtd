@@ -29,9 +29,9 @@
 
 <!ENTITY fillLoginMenu.label          "लॉग-इन माहिती भरा">
 <!ENTITY fillLoginMenu.accesskey      "F">
-
-
-
-
-
-
+<!ENTITY fillPasswordMenu.label       "पासवर्ड भरा">
+<!ENTITY fillPasswordMenu.accesskey   "F">
+<!ENTITY fillUsernameMenu.label       "वापरकर्तानाव भरा">
+<!ENTITY fillUsernameMenu.accesskey   "F">
+<!ENTITY noLoginSuggestions.label     "(शुध्दलेखन विचारार्थ मांडले नाही)">
+<!ENTITY viewSavedLogins.label        "साठविलेले लॉगिन्स दर्शवा">
