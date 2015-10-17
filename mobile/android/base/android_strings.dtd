@@ -435,6 +435,8 @@ size. -->
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
+<!ENTITY pref_magnifying_glass_enabled "छोटे क्षेत्र मोठा आकार">
+<!ENTITY pref_magnifying_glass_enabled_summary "दुवा आणि फॉर्म जागा टिचकी मारुन मोठ्या करा">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
