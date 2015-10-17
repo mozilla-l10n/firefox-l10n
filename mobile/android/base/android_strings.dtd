@@ -88,7 +88,6 @@
 <!ENTITY overlay_share_no_url "В отправляемых данных ссылки не найдено">
 <!ENTITY overlay_share_select_device "Выбрать устройство">
 <!ENTITY overlay_no_synced_devices "Не найдено устройств, подключенных к Аккаунту Firefox">
-<!ENTITY overlay_share_tab_not_sent "Вкладка не может быть отправлена.\nПожалуйста, повторите попытку позже.">
 <!ENTITY pref_category_search3 "Поиск">
 <!ENTITY pref_category_search_summary "Настройка ваших поисковых систем">
 <!ENTITY pref_category_display "Отображение">
