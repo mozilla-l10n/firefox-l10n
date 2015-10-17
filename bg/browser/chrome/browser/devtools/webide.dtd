@@ -45,14 +45,14 @@
 <!ENTITY runtimeMenu_showSettings_label "Настройки на устройството">
 <!ENTITY runtimeMenu_showSettings_accesskey "у">
 
-<!ENTITY viewMenu_label "Преглед">
+<!ENTITY viewMenu_label "Изглед">
 <!ENTITY viewMenu_accesskey "И">
 <!ENTITY viewMenu_toggleEditor_label "Превключване на редактор">
-<!ENTITY viewMenu_toggleEditor_accesskey "ю">
+<!ENTITY viewMenu_toggleEditor_accesskey "П">
 <!ENTITY viewMenu_zoomin_label "Приближаване">
-<!ENTITY viewMenu_zoomin_accesskey "о">
+<!ENTITY viewMenu_zoomin_accesskey "П">
 <!ENTITY viewMenu_zoomout_label "Отдалечаване">
-<!ENTITY viewMenu_zoomout_accesskey "в">
+<!ENTITY viewMenu_zoomout_accesskey "О">
 <!ENTITY viewMenu_resetzoom_label "Нулиране на мащабиране">
 <!ENTITY viewMenu_resetzoom_accesskey "Н">
 
@@ -88,7 +88,7 @@
 <!ENTITY runtimePanel_nousbdevice "Не можете да видите вашето устройство?">
 <!-- Lense -->
 
-<!ENTITY details_valid_header "валиден">
+<!ENTITY details_valid_header "валидни">
 <!ENTITY details_warning_header "предупреждения">
 <!ENTITY details_error_header "грешки">
 <!ENTITY details_description "Описание">
@@ -183,21 +183,29 @@
 <!ENTITY wifi_auth_header "Идентификация на клиент">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
+<!ENTITY wifi_auth_scan_request "Крайната точка, до която се свързвате, изисква повече информация за проверка на връзката. Моля, сканирайте QR кода по-долу чрез подканата на вашето друго устройство.">
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
      devices that can't scan a QR code. -->
+<!ENTITY wifi_auth_no_scanner "Няма подкана за сканиране на QR?">
 <!-- LOCALIZATION NOTE (wifi_auth_yes_scanner): Link text to assist users with
      devices that can scan a QR code. -->
+<!ENTITY wifi_auth_yes_scanner "Имате ли подкана за сканиране на QR?">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
+<!ENTITY wifi_auth_token_request "Ако вашето друго устройство иска токена вместо сканиране на QR код, моля въведете токената от по-долу на другото устройство.">
 <!-- Logs panel -->
+
+<!ENTITY logs_title "Журнал на командите преди пакетирането">
 <!-- Simulator Options -->
 
-
-
-
+<!ENTITY simulator_title "Настройки на симулатора">
+<!ENTITY simulator_remove "Изтриване на симулатора">
+<!ENTITY simulator_reset "Връщане до стандартни настройки">
+<!ENTITY simulator_name "Име">
+<!ENTITY simulator_software "Софтуер">
 <!ENTITY simulator_version "Версия">
-
-
+<!ENTITY simulator_profile "Профил">
+<!ENTITY simulator_hardware "Хардуер">
 <!ENTITY simulator_device "Устройство">
-
-
+<!ENTITY simulator_screenSize "Екран">
+<!ENTITY simulator_pixelRatio "Пропорция на пикселите">
