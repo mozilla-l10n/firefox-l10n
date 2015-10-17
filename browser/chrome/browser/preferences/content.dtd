@@ -5,6 +5,10 @@
 <!ENTITY popups.label "Всплывающие окна">
 <!ENTITY blockPopups.label "Блокировать всплывающие окна">
 <!ENTITY blockPopups.accesskey "о">
+<!ENTITY notificationsPolicy.label "Уведомления">
+<!ENTITY notificationsPolicyDesc.label "Выберите, каким сайтам разрешено отображать уведомления">
+<!ENTITY notificationsPolicyButton.accesskey "и">
+<!ENTITY notificationsPolicyButton.label "Выбрать…">
 <!ENTITY popupExceptions.label "Исключения…">
 <!ENTITY popupExceptions.accesskey "ю">
 <!ENTITY fontsAndColors.label "Шрифты и цвета">
