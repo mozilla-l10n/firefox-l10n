@@ -6,7 +6,7 @@
 
 
 <!ENTITY closeCmd.key  "W">
-
+<!ENTITY toggleToolbox.key  "I">
 <!ENTITY toggleToolboxF12.keycode          "VK_F12">
 <!ENTITY toggleToolboxF12.keytext          "F12">
 
@@ -21,20 +21,29 @@ fullZoomReduceCmd.commandkey2, fullZoomResetCmd.commandkey,
 and fullZoomResetCmd.commandkey2 should all match the corresponding
 values from browser.dtd.  -->
 
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "+">
 
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "-">
 
-<!ENTITY fullZoomResetCmd.commandkey2   "">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "0">
 
 <!ENTITY toolboxReload.key             "r">
 <!-- This key is used with the accel+shift modifiers to minimize the toolbox -->
+<!ENTITY toolboxToggleMinimize.key     "U">
 
+<!ENTITY toolboxToggle.key             "d">
 <!-- LOCALIZATION NOTE (toolboxFramesButton): This is the label for
   -  the iframes menu list that appears only when the document has some.
   -  It allows you to switch the context of the whole toolbox. -->
+<!ENTITY toolboxFramesTooltip          "Избиране на вложена рамка като текущ целеви документ">
 <!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
   -  shown next to error details when the Browser Toolbox is unable to open. -->
+
+<!ENTITY browserToolboxErrorMessage          "Грешка при отваряне на кутията с инструменти за браузър:">
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 
@@ -85,6 +94,8 @@ values from browser.dtd.  -->
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 
+<!ENTITY options.enableChrome.label5    "Активиране на кутията с дебъгващи инструменти за браузърския хром и добавките">
+<!ENTITY options.enableChrome.tooltip3  "Активирането на тази опция ще ви позволи да използвате различни развойни инструменти в контекста на браузъра (чрез Инструменти > Уеб разработчик > Кутия с инструменти) и за дебъгване на добавки от управлението на добавки">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
@@ -95,6 +106,8 @@ values from browser.dtd.  -->
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
   -  boolean preference in about:config, in the options panel. -->
 
+<!ENTITY options.enableWorkers.label    "Активиране дебъгването на обслужващи нишки (в разработка)">
+<!ENTITY options.enableWorkers.tooltip  "Активирането на тази опция ще позволи развойните инструменти да дебъгват обслужващи нишки">
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
@@ -105,10 +118,14 @@ values from browser.dtd.  -->
   -  options.disableCache.tooltip2): This is the options panel label and
   -  tooltip for the checkbox that toggles the cache on or off. -->
 
+<!ENTITY options.disableCache.label2     "Изключване на кеша (когато кутията с инструменти е отворена)">
+<!ENTITY options.disableCache.tooltip2   "Активирането на тази опция ще изключи кеша за всички подпрозорци, които имат отворени кутия с инструменти.">
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
 
+<!ENTITY options.enableServiceWorkersHTTP.label     "Активиране на обслужващи нишки през HTTP (когато кутията с инструменти е отворена)">
+<!ENTITY options.enableServiceWorkersHTTP.tooltip   "Активирането на тази опция ще активира обслужващи нишки през HTTP за всички подпрозорци, които имат отворена кутия с инструменти.">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
@@ -188,12 +205,15 @@ values from browser.dtd.  -->
   -  section. -->
 
 
-
-
-
-
-
-
+<!ENTITY options.sourceeditor.label                     "Настройки на редактора">
+<!ENTITY options.sourceeditor.detectindentation.label   "Разпознаване на отстъп">
+<!ENTITY options.sourceeditor.detectindentation.tooltip "Предполагане какъв е използваният отстъп, изследвайки съдържанието на сорса">
+<!ENTITY options.sourceeditor.autoclosebrackets.label   "Автоматично затваряне на скоби">
+<!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Автоматично вмъкване на затваряща скоба">
+<!ENTITY options.sourceeditor.expandtab.label           "Отстъп, използвайки интервали">
+<!ENTITY options.sourceeditor.expandtab.tooltip         "Използване на интервали вместо знака за табулация">
+<!ENTITY options.sourceeditor.tabsize.label             "Размер на табулацията">
+<!ENTITY options.sourceeditor.tabsize.accesskey         "Р">
 <!ENTITY options.sourceeditor.keybinding.label          "Клавишни комбинации">
 <!ENTITY options.sourceeditor.keybinding.accesskey      "К">
 <!ENTITY options.sourceeditor.keybinding.default.label  "Стандартни">
