@@ -85,7 +85,7 @@
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableChrome.label5    "chrome आणि ॲडऑन डिबगिंग साधनपेट्या सक्रीय करा">
-
+<!ENTITY options.enableChrome.tooltip3  "हे पर्याय सुरु केल्यामुळे आपल्याला खूप डेवलपर साधने ब्राउझर मध्ये वापरता येतील (साधने > वेब डेवलपर > साधनपेटी) आणि अॅड-ऑन्स व्यवस्थापकाहून अॅड-ऑन्स डीबग करा.">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
@@ -96,6 +96,8 @@
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
   -  boolean preference in about:config, in the options panel. -->
 
+<!ENTITY options.enableWorkers.label    "वर्कर डीबगिंग सक्रीय करा (विकसनात)">
+<!ENTITY options.enableWorkers.tooltip  "हे पर्याय सुरु केल्यावर डेवलपर साधनांना वर्कर्सला डीबग करण्याची परवानगी असेल.">
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
@@ -111,6 +113,8 @@
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
+
+<!ENTITY options.enableServiceWorkersHTTP.label     "वर्कर्स सेवा वर सक्रिय करा (जेव्हा साधनपेटी उघडी असेल)">
 <!ENTITY options.enableServiceWorkersHTTP.tooltip   "हा पर्याय सुरू केल्याने साधनपेटी खुले असणाऱ्या सर्व टॅब्जकरिता कॅशे बंद केले जाईल.">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
