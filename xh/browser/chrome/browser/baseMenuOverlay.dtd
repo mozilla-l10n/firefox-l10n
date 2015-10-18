@@ -14,9 +14,9 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Uncedo"> 
 <!ENTITY helpMenuWin.accesskey    "U">
-<!ENTITY aboutProduct2.label      "Malunga &brandShorterName;">
+<!ENTITY aboutProduct2.label      "Malunga ne-&brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "M">
-<!ENTITY productHelp2.label       "&brandShorterName; uncedo">
+<!ENTITY productHelp2.label       "I-&brandShorterName; uncedo">
 <!ENTITY productHelp2.accesskey   "u">
 <!ENTITY helpMac.commandkey       "?">
 
@@ -28,7 +28,7 @@
 <!ENTITY helpSafeMode.stop.label       "Qalisa kwakhona izongezelelo ziqhwalelisiwe…">
 <!ENTITY helpSafeMode.stop.accesskey   "Q">
 
-<!ENTITY healthReport2.label      "&brandShorterName; ingxelo yempilo">
+<!ENTITY healthReport2.label      "I-&brandShorterName; ingxelo yempilo">
 <!ENTITY healthReport2.accesskey  "p">
 
 <!ENTITY helpTroubleshootingInfo.label      "Inkcazelo yesisombululi-ngxaki">
@@ -37,7 +37,7 @@
 <!ENTITY helpFeedbackPage.label      "Thumela ingxelo…">
 <!ENTITY helpFeedbackPage.accesskey  "T">
 
-<!ENTITY helpShowTour2.label            "&brandShorterName; Ukhenketho">
+<!ENTITY helpShowTour2.label            "I-&brandShorterName; Ukhenketho">
 <!ENTITY helpShowTour2.accesskey        "k">
 
 <!ENTITY preferencesCmdMac.label        "Izikhethwa…">
@@ -45,7 +45,7 @@
 
 <!ENTITY servicesMenuMac.label          "Iinkonzo">
 
-<!ENTITY hideThisAppCmdMac2.label       "Fihla &brandShorterName;">
+<!ENTITY hideThisAppCmdMac2.label       "Fihla i-&brandShorterName;">
 <!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Fihla ezinye">
