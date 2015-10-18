@@ -134,7 +134,7 @@
 <!ENTITY detail.version.label                 "نسخه">
 <!ENTITY detail.lastupdated.label             "تاریخ آخرین به‌هنگام‌سازی">
 <!ENTITY detail.creator.label                 "توسعه‌دهنده">
-<!ENTITY detail.homepage.label                "صفحهٔ آغازه">
+<!ENTITY detail.homepage.label                "صفحهٔ خانگی">
 <!ENTITY detail.numberOfDownloads.label       "تعداد بارگیری‌ها">
 
 <!ENTITY detail.contributions.description     "توسعه‌دهندهٔ این افزودنی از شما برای توسعهٔ متداوم این افزودنی کمک مالی کوچکی درخواست کرده است.">

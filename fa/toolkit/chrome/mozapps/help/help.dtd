@@ -20,8 +20,8 @@
 <!ENTITY selectAllCmd.accesskey         "ه">
 <!ENTITY goBackCmd.commandkey           "[">
 <!ENTITY goForwardCmd.commandkey        "]">
-<!ENTITY homeButton.label               "آغازه">
-<!ENTITY homeButton.tooltip             "رفتن به صفحهٔ آغازهٔ راهنما">
+<!ENTITY homeButton.label               "خانه">
+<!ENTITY homeButton.tooltip             "رفتن به صفحهٔ خانگی راهنما">
 <!ENTITY printButton.label              "چاپ">
 <!ENTITY printButton.tooltip            "چاپ کردن این صفحه">
 <!ENTITY closeWindow.commandkey         "W">

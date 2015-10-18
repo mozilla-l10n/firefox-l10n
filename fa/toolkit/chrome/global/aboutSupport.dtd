@@ -29,7 +29,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.experimentDescription "شرح">
 <!ENTITY aboutSupport.experimentActive "فعال‌سازی">
 <!ENTITY aboutSupport.experimentEndDate "تاریخ پایان">
-<!ENTITY aboutSupport.experimentHomepage "صفحهٔ آغازه">
+<!ENTITY aboutSupport.experimentHomepage "صفحه خانگی">
 
 
 <!ENTITY aboutSupport.appBasicsTitle "اطلاعات اولیهٔ برنامه">
