@@ -60,69 +60,69 @@ can reach it easily. -->
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
-<!ENTITY openLocationCmd.label "Open Location…">
-<!ENTITY openFileCmd.label "Open File…">
+<!ENTITY openLocationCmd.label "Άνοιγμα τοποθεσίας…">
+<!ENTITY openFileCmd.label "Άνοιγμα αρχείου…">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "Page Setup…">
+<!ENTITY printSetupCmd.label "Διαμόρφωση σελίδας…">
 <!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printPreviewCmd.label "Print Preview">
+<!ENTITY printPreviewCmd.label "Προεπισκόπηση εκτύπωσης">
 <!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printCmd.label "Print…">
+<!ENTITY printCmd.label "Εκτύπωση…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY goOfflineCmd.label "Work Offline">
+<!ENTITY goOfflineCmd.label "Εργασία χωρίς σύνδεση">
 <!ENTITY goOfflineCmd.accesskey "k">
 
-<!ENTITY menubarCmd.label "Menu Bar">
+<!ENTITY menubarCmd.label "Εργαλειοθήκη μενού">
 <!ENTITY menubarCmd.accesskey "M">
-<!ENTITY navbarCmd.label "Navigation Toolbar">
-<!ENTITY personalbarCmd.label "Bookmarks Toolbar">
+<!ENTITY navbarCmd.label "Εργαλειοθήκη πλοήγησης">
+<!ENTITY personalbarCmd.label "Εργαλειοθήκη σελιδοδεικτών">
 <!ENTITY personalbarCmd.accesskey "B">
-<!ENTITY bookmarksToolbarItem.label "Bookmarks Toolbar Items">
+<!ENTITY bookmarksToolbarItem.label "Αντικείμενα εργαλειοθήκης σελιδοδεικτών">
 
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "Reload All Tabs">
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "Ανανέωση όλων των καρτελών">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Bookmark All Tabs…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Όλες οι καρτέλες σε σελιδοδείκτη…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "Undo Close Tab">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Αναίρεση κλεισίματος καρτέλας">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
 
-<!ENTITY pageSourceCmd.label "Page Source">
+<!ENTITY pageSourceCmd.label "Κώδικας σελίδας">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
-<!ENTITY pageInfoCmd.label "Page Info">
+<!ENTITY pageInfoCmd.label "Πληροφορίες σελίδας">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY mirrorTabCmd.label "Mirror Tab">
 <!ENTITY mirrorTabCmd.accesskey "m">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "Enter Full Screen">
+<!ENTITY enterFullScreenCmd.label "Μετάβαση σε πλήρη οθόνη">
 <!ENTITY enterFullScreenCmd.accesskey "F">
-<!ENTITY exitFullScreenCmd.label "Exit Full Screen">
+<!ENTITY exitFullScreenCmd.label "Έξοδος από την πλήρη οθόνη">
 <!ENTITY exitFullScreenCmd.accesskey "F">
-<!ENTITY fullScreenCmd.label "Full Screen">
+<!ENTITY fullScreenCmd.label "Πλήρης οθόνη">
 <!ENTITY fullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.macCommandKey "f">
-<!ENTITY showAllTabsCmd.label "Show All Tabs">
+<!ENTITY showAllTabsCmd.label "Προβολή όλων των καρτελών">
 <!ENTITY showAllTabsCmd.accesskey "A">
 
-<!ENTITY fxaSignIn.label "Sign in to &syncBrand.shortName.label;">
-<!ENTITY fxaSignedIn.tooltip "Open &syncBrand.shortName.label; preferences">
-<!ENTITY fxaSignInError.label "Reconnect to &syncBrand.shortName.label;">
+<!ENTITY fxaSignIn.label "Συνδεθείτε για να χρησιμοποιήσετε το &syncBrand.shortName.label;">
+<!ENTITY fxaSignedIn.tooltip "Άνοιγμα προτιμήσεων &syncBrand.shortName.label;">
+<!ENTITY fxaSignInError.label "Επανασυνδεθείτε στο &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Επιβεβαιώστε τον λογαριασμό σας">
-<!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; enabled">
-<!ENTITY syncStartPanel2.subTitle "&brandShortName; will begin syncing momentarily.">
+<!ENTITY syncStartPanel2.heading "Το &syncBrand.shortName.label; ενεργοποιήθηκε">
+<!ENTITY syncStartPanel2.subTitle "Το &brandShortName; θα ξεκινήσει τον συγχρονισμό σύντομα.">
 
 
-<!ENTITY fullScreenMinimize.tooltip "Minimize">
-<!ENTITY fullScreenRestore.tooltip "Restore">
-<!ENTITY fullScreenClose.tooltip "Close">
-<!ENTITY fullScreenAutohide.label "Hide Toolbars">
+<!ENTITY fullScreenMinimize.tooltip "Ελαχιστοποίηση">
+<!ENTITY fullScreenRestore.tooltip "Επαναφορά">
+<!ENTITY fullScreenClose.tooltip "Κλείσιμο">
+<!ENTITY fullScreenAutohide.label "Απόκρυψη εργαλειοθηκών">
 <!ENTITY fullScreenAutohide.accesskey "H">
-<!ENTITY fullScreenExit.label "Exit Full Screen Mode">
+<!ENTITY fullScreenExit.label "Έξοδος από πλήρη οθόνη">
 <!ENTITY fullScreenExit.accesskey "F">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
@@ -138,43 +138,43 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      is uppercase, while on Mac keyboards it is lowercase -->
 <!ENTITY exitDOMFullscreen.button "Έξοδος από πλήρη οθόνη (Esc)">
 <!ENTITY exitDOMFullscreenMac.button "Έξοδος από πλήρη οθόνη (esc)">
-<!ENTITY leaveDOMFullScreen.label "Exit Full Screen">
+<!ENTITY leaveDOMFullScreen.label "Έξοδος από την πλήρη οθόνη">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
-<!ENTITY closeWindow.label "Close Window">
+<!ENTITY closeWindow.label "Κλείσιμο παραθύρου">
 <!ENTITY closeWindow.accesskey "d">
 
-<!ENTITY bookmarksMenu.label "Bookmarks">
+<!ENTITY bookmarksMenu.label "Σελιδοδείκτες">
 <!ENTITY bookmarksMenu.accesskey "B">
-<!ENTITY bookmarkThisPageCmd.label "Bookmark This Page">
-<!ENTITY editThisBookmarkCmd.label "Edit This Bookmark">
+<!ENTITY bookmarkThisPageCmd.label "Προσθήκη στους σελιδοδείκτες">
+<!ENTITY editThisBookmarkCmd.label "Επεξεργασία αυτού του σελιδοδείκτη">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY findShareServices.label "Find more Share services…">
-<!ENTITY sharePageCmd.label "Share This Page">
+<!ENTITY findShareServices.label "Βρείτε περισσότερες υπηρεσίες διαμοιρασμού…">
+<!ENTITY sharePageCmd.label "Μοιραστείτε αυτή τη σελίδα">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "s">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY shareLink.label "Share This Link">
+<!ENTITY shareLink.label "Μοιραστείτε αυτόν τον σύνδεσμο">
 <!ENTITY shareLink.accesskey "h">
-<!ENTITY shareImage.label "Share This Image">
+<!ENTITY shareImage.label "Μοιραστείτε αυτή την εικόνα">
 <!ENTITY shareImage.accesskey "r">
-<!ENTITY shareSelect.label "Share Selection">
+<!ENTITY shareSelect.label "Μοιραστείτε αυτή την επιλογή">
 <!ENTITY shareSelect.accesskey "r">
-<!ENTITY shareVideo.label "Share This Video">
+<!ENTITY shareVideo.label "Μοιραστείτε αυτό το βίντεο">
 <!ENTITY shareVideo.accesskey "r">
 <!ENTITY feedsMenu.label "Subscribe">
 <!ENTITY subscribeToPageMenupopup.label "Subscribe to This Page">
 <!ENTITY subscribeToPageMenuitem.label "Subscribe to This Page…">
-<!ENTITY addCurPagesCmd.label "Bookmark All Tabs…">
-<!ENTITY showAllBookmarks2.label "Show All Bookmarks">
-<!ENTITY unsortedBookmarksCmd.label "Unsorted Bookmarks">
-<!ENTITY bookmarksToolbarChevron.tooltip "Show more bookmarks">
+<!ENTITY addCurPagesCmd.label "Όλες οι καρτέλες σε σελιδοδείκτη…">
+<!ENTITY showAllBookmarks2.label "Προβολή όλων των σελιδοδεικτών">
+<!ENTITY unsortedBookmarksCmd.label "Αταξινόμητοι σελιδοδείκτες">
+<!ENTITY bookmarksToolbarChevron.tooltip "Προβολή περισσότερων σελιδοδεικτών">
 
-<!ENTITY backCmd.label                "Back">
+<!ENTITY backCmd.label                "Πίσω">
 <!ENTITY backButton.tooltip           "Go back one page">
 <!ENTITY forwardCmd.label             "Forward">
 <!ENTITY forwardButton.tooltip        "Go forward one page">
