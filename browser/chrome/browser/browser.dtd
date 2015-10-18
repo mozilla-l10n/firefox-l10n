@@ -45,7 +45,7 @@ can reach it easily. -->
 <!ENTITY  moveToNewGroup.label               "گروه جدید">
 <!ENTITY  moveToNewWindow.label              "انتقال به پنجرهٔ جدید">
 <!ENTITY  moveToNewWindow.accesskey          "پ">
-<!ENTITY  bookmarkAllTabs.label              "نشانک‌گذاری همه ی زبانه‌ها…">
+<!ENTITY  bookmarkAllTabs.label              "نشانک‌گذاری همه زبانه‌ها…">
 <!ENTITY  bookmarkAllTabs.accesskey          "ز">
 <!ENTITY  undoCloseTab.label                 "برگردان بستن زبانه">
 <!ENTITY  undoCloseTab.accesskey             "ب">
@@ -84,7 +84,7 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "بازآوری همهٔ زبانه‌ها">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "ه">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "نشانک‌گذاری همه ی زبانه‌ها…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "نشانک‌گذاری همه زبانه‌ها…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "ز">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "برگردان زبانه بسته شده">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "ب">
@@ -167,8 +167,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareVideo.label "به‌اشتراک‌گذاری این ویدئو">
 <!ENTITY shareVideo.accesskey "ب">
 <!ENTITY feedsMenu.label "مشترک شدن">
-<!ENTITY subscribeToPageMenupopup.label "آبونه شدن این صفحه">
-<!ENTITY subscribeToPageMenuitem.label "آبونه شدن این صفحه…">
+<!ENTITY subscribeToPageMenupopup.label "آبونه شدن در این صفحه">
+<!ENTITY subscribeToPageMenuitem.label "آبونه شدن در این صفحه…">
 <!ENTITY addCurPagesCmd.label "نشانک‌گذاری تمامی زبانه‌ها…">
 <!ENTITY showAllBookmarks2.label "نمایش همهٔ نشانک‌ها">
 <!ENTITY unsortedBookmarksCmd.label "نشانک‌های مرتب نشده">
@@ -365,7 +365,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoWindowMenu.label "پنجره‌های تازه بسته شده">
 <!ENTITY historyRestoreLastSession.label "بازآوری نشست قبلی">
 
-<!ENTITY showAllHistoryCmd2.label "نمایش تمام تاریخچه ">
+<!ENTITY showAllHistoryCmd2.label "نمایش تمام تاریخچه">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "سفارشی‌سازی">
@@ -400,7 +400,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.accesskey "ا">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder2          "جست‌و‌جو کنید یا آدرس را وارد کنید">
+<!ENTITY urlbar.placeholder2          "متنی برای جست‌وجو یا یک آدرس وارد کنید">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "پرش به زبانه:">
 
@@ -779,7 +779,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.directory.label "دایرکتوری فعالیتها">
 <!ENTITY social.directory.text "شما می توانید سرویس به اشتراک گذاری را از این دایرکتوری فعال کنید.">
 <!ENTITY social.directory.button "مرا به آنجا ببر!">
-<!ENTITY social.directory.introText "برای اضافه شدن یک سرویس به&brandShortName;روی آن کلیک کنید.">
+<!ENTITY social.directory.introText "برای اضافه شدن یک سرویس به &brandShortName; روی آن کلیک کنید.">
 <!ENTITY social.directory.viewmore.text "مشاهده بیشتر ">
 
 <!ENTITY customizeMode.tabTitle "شخصی‌سازی &brandShortName;">
