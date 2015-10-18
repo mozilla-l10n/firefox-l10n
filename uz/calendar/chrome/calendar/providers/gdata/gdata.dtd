@@ -2,14 +2,21 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY gdata-provider.label "Google Taqvim">
 
+<!ENTITY gdata.privacy.default.label "Google Standart">
+<!ENTITY gdata.privacy.default.accesskey "S">
 
+<!ENTITY gdata.migration.title "Faqat o‘qishga ruxsat berilgan taqvimlarni ko‘chirish">
+<!ENTITY gdata.migration.description "Google Taqvim uchun ta’minotchi Google Taqvim faqat o‘qish rejimida kira oladigan mavjud taqvimlar borligini aniqladi. Ushbu taqvimlardan birortasini yangilamoqchi bo‘lsangiz, quyidagilardan birini tanlang">
+<!ENTITY gdata.migration.upgrade.label "Yangilash">
+<!ENTITY gdata.migration.upgrade.accesskey "Y">
+<!ENTITY gdata.migration.showagain.label "Doimo tekshirilsin">
 
+<!ENTITY gdata.reminder.default "Joriy eslatkich">
+<!ENTITY gdata.reminder.action.sms.label "Xabar jo‘natish">
 
+<!ENTITY gdata.wizard.session.description "Yangi seans yaratish uchun mavjud seansdan foydalanig yoki e-pochta manzilingizni kiriting. Har bir hisob uchun faqat bitta seansdan foydalanishingiz kerak.">
+<!ENTITY gdata.wizard.calendars.description "Obuna bo‘lish uchun taqvimlar va vazifalar ro‘yxatini tanlang.">
 
-
-
-
-
-
-
+<!ENTITY gdata.wizard.nextstep.description "Taqvimlaringizni sozlash uchun keyingi bosqichga o‘ting.">
