@@ -17,7 +17,7 @@
 
 
 <!ENTITY title                  "بوکس موڈل">
-
+<!ENTITY margin.tooltip         "حاشیہ">
 
 <!ENTITY padding.tooltip        "بھرتی">
 <!ENTITY content.tooltip        "مواد">
