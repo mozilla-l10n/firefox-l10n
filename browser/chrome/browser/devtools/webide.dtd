@@ -182,19 +182,19 @@
 <!ENTITY wifi_auth_header "Identificación do cliente">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
-
+<!ENTITY wifi_auth_scan_request "O endpoint ao que se está conectando necesita máis información para autenticar esta conexión. Examine o código QR usando o outro dispositivo.">
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
      devices that can't scan a QR code. -->
-
+<!ENTITY wifi_auth_no_scanner "Ningunha solicitude para examinar o QR?">
 <!-- LOCALIZATION NOTE (wifi_auth_yes_scanner): Link text to assist users with
      devices that can scan a QR code. -->
-
+<!ENTITY wifi_auth_yes_scanner "Ten unha solicitude para examinar o QR?">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
-
+<!ENTITY wifi_auth_token_request "Se o outro dispositivo solicita un token no lugar dunha lectura de código QR, copie o seguinte valor no outro dispositivo:">
 
 <!-- Logs panel -->
-
+<!ENTITY logs_title "Rexistros de ordes previas ao empaquetado">
 
 <!-- Simulator Options -->
 <!ENTITY simulator_title "Opcións do simulador">
@@ -207,4 +207,4 @@
 <!ENTITY simulator_hardware "Hardware">
 <!ENTITY simulator_device "Dispositivo">
 <!ENTITY simulator_screenSize "Pantalla">
-
+<!ENTITY simulator_pixelRatio "Ratio de píxeles">
