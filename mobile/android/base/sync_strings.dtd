@@ -147,7 +147,7 @@
 <!ENTITY fxaccount_status_linktos "Términos del Servicio">
 <!ENTITY fxaccount_status_linkprivacy "Aviso sobre privacidad">
 <!ENTITY fxaccount_status_more "Más&ellipsis;">
-<!ENTITY fxaccount_remove_account "Desconectar…">
+<!ENTITY fxaccount_remove_account "Desconectar&ellipsis;">
 <!ENTITY fxaccount_remove_account_dialog_title "¿Eliminar cuenta de Firefox?">
 <!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; dejará de sincronizar con su cuenta, pero no eliminará ninguno de sus datos de navegación en este dispositivo.">
 <!ENTITY fxaccount_remove_account_toast "Cuenta de Firefox &formatS; eliminada.">

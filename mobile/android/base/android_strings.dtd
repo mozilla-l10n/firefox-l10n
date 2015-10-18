@@ -88,7 +88,6 @@
 <!ENTITY overlay_share_no_url "No se ha encontrado enlace en esta compartición">
 <!ENTITY overlay_share_select_device "Seleccione dispositivo">
 <!ENTITY overlay_no_synced_devices "No se han encontrado dispositivos conectados a Firefox Accounts">
-<!ENTITY overlay_share_tab_not_sent "No se ha podido enviar su pestaña.\nVuelva a intentarlo más tarde.">
 <!ENTITY pref_category_search3 "Buscar">
 <!ENTITY pref_category_search_summary "Personalizar sus buscadores">
 <!ENTITY pref_category_display "Visualización">
@@ -454,6 +453,5 @@
 <!ENTITY bookmarks_about_browser "Firefox: acerca de su navegador">
 <!ENTITY bookmarks_addons "Firefox: personalizar con complementos">
 <!ENTITY bookmarks_support "Ayuda de Firefox">
-<!ENTITY bookmarks_marketplace "Firefox Marketplace">
 <!ENTITY bookmarks_restricted_support2 "Ayuda y asistencia de Firefox para perfiles limitados en tabletas Android">
 <!ENTITY bookmarks_restricted_webmaker "Aprenda la web: Mozilla Webmaker">
