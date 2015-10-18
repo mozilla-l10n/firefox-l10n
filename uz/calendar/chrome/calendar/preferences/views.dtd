@@ -14,8 +14,8 @@
 
 <!ENTITY pref.weekstarts.label "Boshlanadigan hafta:">
 <!ENTITY pref.weekstarts.accesskey "a">
-
-
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Ko‘rishlarda va mini oylarda hafta raqamini ko‘rsatish">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "k">
 <!ENTITY pref.daysoff.label "Bu kunlarni ish haftasiga qo‘shish:">
 
 <!ENTITY pref.calendar.view.daystart.label "Kun boshlanadigan vaqt:">
@@ -26,13 +26,14 @@
 <!ENTITY pref.calendar.view.visiblehours.accesskey "o">
 <!ENTITY pref.calendar.view.visiblehoursend.label "vaqtdagi soatlar:">
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY pref.numberofweeks.label "Ko‘rsatish uchun hafta raqamlari (oldingi haftalar bilan birga):">
+<!ENTITY pref.numberofweeks.accesskey "r">
+<!ENTITY pref.numberofpreviousweeks.label "Ko‘rsatish uchun oldingi hafta:">
+<!ENTITY pref.numberofpreviousweeks.accesskey "o">
+<!ENTITY pref.numberofweeks.0 "yo‘q">
+<!ENTITY pref.numberofweeks.1 "1 hafta">
+<!ENTITY pref.numberofweeks.2 "2 hafta">
+<!ENTITY pref.numberofweeks.3 "3 hafta">
+<!ENTITY pref.numberofweeks.4 "4 hafta">
+<!ENTITY pref.numberofweeks.5 "5 hafta">
+<!ENTITY pref.numberofweeks.6 "6 hafta">
