@@ -174,3 +174,9 @@
 <!ENTITY sslv3Used.title "No es posible conectar de manera segura">
 <!ENTITY sslv3Used.longDesc "Información avanzada: ssl_error_unsupported_version">
 <!ENTITY sslv3Used.learnMore "Saber más…">
+<!ENTITY weakCryptoUsed.title "Su conexión no es segura">
+<!ENTITY weakCryptoUsed.longDesc "Información avanzada: ssl_error_no_cypher_overlap">
+<!ENTITY weakCryptoUsed.learnMore "Saber más…">
+<!ENTITY weakCryptoAdvanced.title "Avanzado">
+<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> usa tecnología de seguridad que está obsoleta y es vulnerable a ataques. Un atacante podría revelar información fácilmente que usted pensaba que es segura.">
+<!ENTITY weakCryptoAdvanced.override "(No seguro) Pruebe a cargar <span class='hostname'></span> usando seguridad obsoleta">
