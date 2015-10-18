@@ -28,6 +28,8 @@
 <!ENTITY webAudioEditorUI.tab.properties2 "गुणधर्म">
 <!-- LOCALIZATION NOTE (webAudioEditorUI.tab.automation): This is the label shown
   -  for the automation tab view. -->
+
+<!ENTITY webAudioEditorUI.tab.automation  "स्वयंचलित">
 <!-- LOCALIZATION NOTE (webAudioEditorUI.inspectorTitle): This is the title for the
   -  AudioNode inspector view. -->
 
@@ -42,6 +44,10 @@
 <!ENTITY webAudioEditorUI.propertiesEmpty "नोडकडे कोणतेही गुणधर्म अस्तित्वात नाही.">
 <!-- LOCALIZATION NOTE (webAudioEditorUI.automationEmpty): This is the title for the
   -  AudioNode inspector view automation tab empty message. -->
+
+<!ENTITY webAudioEditorUI.automationEmpty "नोड्सला कोणतेही AudioParams नाहीत.">
 <!-- LOCALIZATION NOTE (webAudioEditorUI.automationNoEvents): This is the title for the
   -  AudioNode inspector view automation tab message when there are no automation
   -  events. -->
+
+<!ENTITY webAudioEditorUI.automationNoEvents "AudioParams मध्ये कोणतेही स्वयंसंचालन प्रसंग नाहीत.">
