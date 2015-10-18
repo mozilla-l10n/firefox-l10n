@@ -18,6 +18,8 @@
      These strings will be replaced by aboutPrivateBrowsing.forgotten and
      aboutPrivateBrowsing.kept when the new visual design lands (bug 1192625).
      -->
+
+<!ENTITY aboutPrivateBrowsing.title            "तपाईं निजी ब्राउजीङ्ग गर्दै हुनुहुन्छ ">
 <!ENTITY aboutPrivateBrowsing.subtitle         " &brandShortName;ले यस सञ्झ्यालको लागि कुनै इतिहास याद राख्दैन।">
 
 <!ENTITY aboutPrivateBrowsing.forgotten        " &brandShortName;ले यस सञ्झ्यालको लागि कुनै इतिहास याद राख्दैन।">
