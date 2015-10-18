@@ -27,7 +27,7 @@
 <!ENTITY trackingProtection.width1             "22em">
 <!ENTITY trackingProtection.title              "Protección de seguimiento">
 
-<!ENTITY trackingProtection.state.width        "11ch">
+<!ENTITY trackingProtection.state.width        "14ch">
 <!ENTITY trackingProtection.state.enabled      "ACTIVADA">
 <!ENTITY trackingProtection.state.disabled     "DESACTIVADA">
 
