@@ -13,22 +13,22 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Private Browsing)">
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Ιδιωτική περιήγηση)">
 
-<!ENTITY appmenu.tooltip                     "Open menu">
-<!ENTITY navbarOverflow.label                "More tools…">
+<!ENTITY appmenu.tooltip                     "Άνοιγμα μενού">
+<!ENTITY navbarOverflow.label                "Περισσότερα εργαλεία…">
 
 <!-- Tab context menu -->
-<!ENTITY  reloadTab.label                    "Reload Tab">
+<!ENTITY  reloadTab.label                    "Ανανέωση καρτέλας">
 <!ENTITY  reloadTab.accesskey                "R">
-<!ENTITY  reloadAllTabs.label                "Reload All Tabs">
+<!ENTITY  reloadAllTabs.label                "Ανανέωση όλων των καρτελών">
 <!ENTITY  reloadAllTabs.accesskey            "A">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "Close Tabs to the Right">
+<!ENTITY  closeTabsToTheEnd.label            "Κλείσιμο καρτελών στα δεξιά">
 <!ENTITY  closeTabsToTheEnd.accesskey        "i">
-<!ENTITY  closeOtherTabs.label               "Close Other Tabs">
+<!ENTITY  closeOtherTabs.label               "Κλείσιμο των άλλων καρτελών">
 <!ENTITY  closeOtherTabs.accesskey           "o">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
@@ -36,25 +36,25 @@ used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-<!ENTITY  pinTab.label                       "Pin Tab">
+<!ENTITY  pinTab.label                       "Καρφίτσωμα καρτέλας">
 <!ENTITY  pinTab.accesskey                   "P">
-<!ENTITY  unpinTab.label                     "Unpin Tab">
+<!ENTITY  unpinTab.label                     "Ξεκαρφίτσωμα καρτέλας">
 <!ENTITY  unpinTab.accesskey                 "b">
-<!ENTITY  moveToGroup.label                  "Move to Group">
+<!ENTITY  moveToGroup.label                  "Μετακίνηση στην ομάδα">
 <!ENTITY  moveToGroup.accesskey              "M">
-<!ENTITY  moveToNewGroup.label               "New Group">
-<!ENTITY  moveToNewWindow.label              "Move to New Window">
+<!ENTITY  moveToNewGroup.label               "Νέα ομάδα">
+<!ENTITY  moveToNewWindow.label              "Μετακίνηση σε νέο παράθυρο">
 <!ENTITY  moveToNewWindow.accesskey          "W">
-<!ENTITY  bookmarkAllTabs.label              "Bookmark All Tabs…">
+<!ENTITY  bookmarkAllTabs.label              "Όλες οι καρτέλες σε σελιδοδείκτη…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
-<!ENTITY  undoCloseTab.label                 "Undo Close Tab">
+<!ENTITY  undoCloseTab.label                 "Αναίρεση κλεισίματος καρτέλας">
 <!ENTITY  undoCloseTab.accesskey             "U">
-<!ENTITY  closeTab.label                     "Close Tab">
+<!ENTITY  closeTab.label                     "Κλείσιμο καρτέλας">
 <!ENTITY  closeTab.accesskey                 "c">
 
-<!ENTITY  listAllTabs.label      "List all tabs">
+<!ENTITY  listAllTabs.label      "Όλες οι καρτέλες σε λίστα">
 
-<!ENTITY tabCmd.label "New Tab">
+<!ENTITY tabCmd.label "Νέα καρτέλα">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
