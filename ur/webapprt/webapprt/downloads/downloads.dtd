@@ -23,8 +23,8 @@ file names and tall enough to hint that there are more downloads in the list -->
 <!ENTITY cmd.show.accesskey               "پ">
 <!ENTITY cmd.showMac.label                "ڈھونڈ کار میں دکھائیں">
 <!ENTITY cmd.showMac.accesskey            "ڈ">
-
-
+<!ENTITY cmd.open.label                   "کھولیں">
+<!ENTITY cmd.open.accesskey               "ک">
 <!ENTITY cmd.openWith.label               "کھولیں بر...">
 <!ENTITY cmd.openWith.accesskey           "ب">
 <!ENTITY cmd.retry.label                  "پھر کوشش کریں">

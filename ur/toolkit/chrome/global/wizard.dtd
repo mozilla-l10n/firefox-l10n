@@ -16,7 +16,8 @@
 <!ENTITY  button-finish-unix.label     "ختم">
 <!ENTITY  button-cancel-unix.label     "مسترد">
 
-
+<!ENTITY  button-back-win.label        "&lt; واپس">
+<!ENTITY  button-back-win.accesskey    "و">
 <!ENTITY  button-next-win.label        "اگلے &gt; ">
 <!ENTITY  button-next-win.accesskey    "ا">
 <!ENTITY  button-finish-win.label      "اختتام">
