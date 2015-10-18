@@ -145,13 +145,6 @@
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
 <!ENTITY overlay_no_synced_devices "No se encontraron dispositivos conectados a Firefox Account">
-<!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
-     to send a tab to a synced device is pressed and there is an error
-     connecting to the server so the tab could not be sent. The text should be
-     divided into two lines (use the newline escape character, "\n", between
-     them): the first notifying the user about the failure and the second
-     telling the user what to do about it. -->
-<!ENTITY overlay_share_tab_not_sent "La pestaña no pudo ser enviada.\nIntentá nuevamente más tarde.">
 
 <!ENTITY pref_category_search3 "Buscar">
 <!ENTITY pref_category_search_summary "Personalizar buscadores">
