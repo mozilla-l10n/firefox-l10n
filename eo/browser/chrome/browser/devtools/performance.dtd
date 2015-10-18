@@ -23,12 +23,12 @@
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.nonE10SBuild): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a non-multiprocess build. -->
-<!ENTITY performanceUI.disabledRealTime.nonE10SBuild "Realtime recording data disabled on non-multiprocess Firefox.">
+<!ENTITY performanceUI.disabledRealTime.nonE10SBuild "Nur eblas uzi realtempan registron de datumoj en plurproceza Firefox.">
 
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a build that can run multiprocess Firefox, but just is not enabled. -->
-<!ENTITY performanceUI.disabledRealTime.disabledE10S "Enable multiprocess Firefox in preferences for rendering recording data in realtime.">
+<!ENTITY performanceUI.disabledRealTime.disabledE10S "Aktivigi plurprocezan Firefox en viaj preferoj, por vidi registratajn datumojn realtempe.">
 
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusFull): This string
   -  is displayed when the profiler's circular buffer has started to overlap. -->
@@ -57,14 +57,14 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
-<!ENTITY performanceUI.toolbar.waterfall "Waterfall">
-<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Shows the different operations the browser is performing during the recording, laid out sequentially as a waterfall.">
-<!ENTITY performanceUI.toolbar.js-calltree "Call Tree">
-<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Highlights JavaScript functions where the browser spent most time during the recording.">
+<!ENTITY performanceUI.toolbar.waterfall "Akvofalo">
+<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "La malsamaj operacioj farataj de la retumilo, dum la registro, vicigitaj kiel akvofalo.">
+<!ENTITY performanceUI.toolbar.js-calltree "Arbo de vokoj">
+<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Elstarigo de funkcioj de JavaScript, kie la retumilo pasigis pli multe de la tempo dum la registro.">
 <!ENTITY performanceUI.toolbar.memory-calltree "Asignoj">
-<!ENTITY performanceUI.toolbar.allocations.tooltiptext "Shows where memory was allocated during the recording.">
+<!ENTITY performanceUI.toolbar.allocations.tooltiptext "Montro de la lokoj kie memoro estis asignita dum la registro.">
 <!ENTITY performanceUI.toolbar.js-flamegraph "Flama grafikaĵo de JS">
-<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Shows the JavaScript call stack over the course of the recording.">
+<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Montro de la stako de JavaScript dum la daŭro de la registro.">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "Flama grafikaĵo de asignoj">
 
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed

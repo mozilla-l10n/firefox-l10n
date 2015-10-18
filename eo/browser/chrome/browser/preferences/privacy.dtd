@@ -47,7 +47,6 @@
 
 <!ENTITY  expire.label                  "ili senvalidiĝas">
 <!ENTITY  close.label                   "mi finas &brandShortName;">
-<!ENTITY  askEachTime.label             "demandi al mi ĉiun fojon">
 
 <!ENTITY  cookieExceptions.label        "Esceptoj…">
 <!ENTITY  cookieExceptions.accesskey    "t">
