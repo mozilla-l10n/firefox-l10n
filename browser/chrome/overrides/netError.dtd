@@ -72,7 +72,7 @@
 <!ENTITY netTimeout.title "कनेक्शन का समय समाप्त हो गया">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY unknownProtocolFound.title "पता समझा नहीं गया था">
+<!ENTITY unknownProtocolFound.title "पता को नही समझ पाया">
 <!ENTITY unknownProtocolFound.longDesc "<ul> 
 <li>आप अन्य साफ्टवेयर को इस पता को खोलने के लिए संस्थापित कर सकते हैं.</li> 
 </ul>">
