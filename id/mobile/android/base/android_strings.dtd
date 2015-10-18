@@ -593,7 +593,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY doorhanger_tracking_title "Perlindungan pelacakan">
 <!ENTITY doorhanger_tracking_state_enabled "Aktif">
 <!ENTITY doorhanger_tracking_state_disabled "Dinonaktifkan">
-
+<!ENTITY doorhanger_tracking_message_enabled1 "Percobaan untuk melacak perilaku daring Anda telah diblokir.">
 <!ENTITY doorhanger_tracking_message_disabled2 "Laman ini mengandung elemen yang mungkin melacak penjelajahan Anda">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
