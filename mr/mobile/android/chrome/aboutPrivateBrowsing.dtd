@@ -13,9 +13,11 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "आपण खाजगी ब्राउजिंग मध्ये नाही आहात.">
 
+<!ENTITY privatebrowsingpage.description.private4 "&brandShortName;आपल्याला मागोव्यापासून वाचवेल आणि इतिहास लक्षात नाही ठेवणार, पण डाउनलोड केलेल्या फाइल्स आणि नवीन वाचनखूणा आपल्या उपकरणावर साठवल्या जातील.">
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
+<!ENTITY privatebrowsingpage.description.normal2 "खाजगी ब्राउझिंगमध्ये, आम्ही आपला कुठल्याही प्रकारचा ब्राउझिंग इतिहास आणी कुकीज ठेवत नाही. आपण केलेल्या वाचनखूणा आणि डाउनलोड केलेल्या फाइल्स आपल्या उपकरणावर साठवले जातील.">
 
 <!ENTITY privatebrowsingpage.link.private "अधिक जाणून घेऊ इच्छिता?">
 <!ENTITY privatebrowsingpage.link.normal "एक नवीन खाजगी टॅब उघडा">
