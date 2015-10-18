@@ -648,12 +648,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin2.label       "Phuma">
 <!ENTITY quitApplicationCmdWin2.accesskey   "h">
-<!ENTITY quitApplicationCmdWin2.tooltip     "Phuma &brandShorterName;">
+<!ENTITY quitApplicationCmdWin2.tooltip     "Phuma kwi-&brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Yeka"> 
 <!ENTITY quitApplicationCmd.accesskey   "Y">
-<!ENTITY quitApplicationCmdMac2.label   "Yeka &brandShorterName;">
+<!ENTITY quitApplicationCmdMac2.label   "Yeka i-&brandShorterName;">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "Q">
 
