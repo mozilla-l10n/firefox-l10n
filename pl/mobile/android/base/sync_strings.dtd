@@ -102,7 +102,7 @@
 
 <!ENTITY fxaccount_policy_linktos "Warunki użytkowania">
 <!ENTITY fxaccount_policy_linkprivacy "Polityka prywatności">
-<!ENTITY fxaccount_status_more "Więcej&ellipsis;">
+<!ENTITY fxaccount_status_more "Więcej…">
 <!ENTITY fxaccount_remove_account "Rozłącz…">
 
 <!ENTITY fxaccount_remove_account_dialog_title "Usunąć konto Firefoksa?">
