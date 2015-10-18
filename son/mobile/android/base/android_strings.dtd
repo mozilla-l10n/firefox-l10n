@@ -175,8 +175,8 @@
 <!ENTITY pref_search_hint "Yaamar: Ceeciyan faari naagu kayna nda &formatI; biyoo karkar ka interneti nungu foo tonton war ceeciyan nookey maašeedaa ga.">
 <!ENTITY pref_category_devtools "Cinakey goyjinawey">
 <!ENTITY pref_developer_remotedebugging "Mooray hasaraw kaakayan">
-
-
+<!ENTITY pref_developer_remotedebugging_usb "Mooray hanseyan nda USB">
+<!ENTITY pref_developer_remotedebugging_wifi "Mooray hanseyan nda Wi-Fi">
 
 <!ENTITY pref_category_logins "Huruyan tammaasawey">
 
