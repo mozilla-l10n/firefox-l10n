@@ -53,7 +53,7 @@
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
-<!ENTITY trackingProtection.state.width        "6ch">
+<!ENTITY trackingProtection.state.width        "9ch">
 <!ENTITY trackingProtection.state.enabled      "Ligado">
 <!ENTITY trackingProtection.state.disabled     "Delisgado">
 
