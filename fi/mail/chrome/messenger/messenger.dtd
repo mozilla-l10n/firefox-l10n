@@ -532,8 +532,8 @@
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip  "Tarkennettu viestien haku">
 <!ENTITY getMsgButton.tooltip  "Nouda uudet viestit">
-<!ENTITY getAllNewMsgCmd.label "Hae kaikki uudet viestit">
-<!ENTITY getAllNewMsgCmd.accesskey "H">
+<!ENTITY getAllNewMsgCmd.label "Nouda kaikki uudet viestit">
+<!ENTITY getAllNewMsgCmd.accesskey "N">
 <!ENTITY newMsgButton.tooltip  "Luo uusi viesti">
 <!ENTITY replyButton.tooltip  "Vastaa viestiin">
 <!ENTITY replyAllButton.tooltip  "Vastaa lähettäjälle ja kaikille vastaanottajille">
