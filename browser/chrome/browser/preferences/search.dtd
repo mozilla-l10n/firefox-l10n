@@ -10,7 +10,7 @@
 <!ENTITY provideSearchSuggestions.accesskey    "s">
 
 <!ENTITY showURLBarSuggestions.label           "Montri sugestojn de serĉiloj en la rezultoj de la adresa strio">
-<!ENTITY showURLBarSuggestions.accesskey       "l">
+<!ENTITY showURLBarSuggestions.accesskey       "a">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Sugestoj de serĉiloj ne aperos en la rezultoj de la adresa strio ĉar vi petis al &brandShortName; neniam memori la historion.">
 
 <!ENTITY redirectWindowsSearch.label "Uzi tiun ĉi serĉilon por serĉoj el Window">

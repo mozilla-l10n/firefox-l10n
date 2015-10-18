@@ -189,6 +189,36 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Presi">
 <!ENTITY printButton.tooltip          "Presi ĉi tiun paĝon">
 
+<!ENTITY urlbar.viewSiteInfo.label                      "Vidi informon de la retejo">
+<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
+     used to provide accessible labels to users of assistive technology like screenreaders.
+     It is not possible to see them visually in the UI. -->
+<!ENTITY urlbar.defaultNotificationAnchor.label         "Vidi sciigon">
+<!ENTITY urlbar.geolocationNotificationAnchor.label     "Vidi la peton de pozicio">
+<!ENTITY urlbar.addonsNotificationAnchor.label          "Vidi la mesaĝon de instalo de la aldonaĵo">
+<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Vidi la mesaĝon de konservado de malkonektitaĵoj">
+<!ENTITY urlbar.loginFillNotificationAnchor.label       "Administri vian akreditilon">
+<!ENTITY urlbar.passwordNotificationAnchor.label        "Kontroli ĉu vi volas konservi vian pasvorton">
+<!ENTITY urlbar.webappsNotificationAnchor.label         "Vidi la mesaĝon de instalo de la programo">
+<!ENTITY urlbar.pluginsNotificationAnchor.label         "Administri la uzon de kromprogramoj en tiu ĉi paĝo">
+<!ENTITY urlbar.webNotsNotificationAnchor.label         "Elekti ĉu tiu ĉi retejo rajtas montri sciigojn">
+
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Administri la dividon de via filmilo kaj/aŭ mikrofono kun la retejo">
+<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Vi dividas vian filmilon kaj/aŭ mikrofonon kun la retejo">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Administri la dividon de via mikrofono kun la retejo">
+<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Vi dividas vian mikrofonon kun la retejo">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Administri la dividon de viaj fenestroj aŭ via ekrano kun la retejo">
+<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Vi dividas fenestron aŭ vian ekranon kun la retejo">
+
+<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Elekti ĉu la retejo povas kaŝi la musmontrilon">
+<!ENTITY urlbar.servicesNotificationAnchor.label        "Vidi la mesaĝon de instalo de la servo">
+<!ENTITY urlbar.translateNotificationAnchor.label       "Traduki tiun ĉi paĝon">
+<!ENTITY urlbar.translatedNotificationAnchor.label      "Administri la tradukon de paĝo">
+<!ENTITY urlbar.emeNotificationAnchor.label             "Administri la uzon de programaron DRM">
+
+<!ENTITY urlbar.toggleAutocomplete.label                "Ŝalti/malŝalti la memplenigan ŝprucaĵon">
+
+
 <!ENTITY locationItem.title           "Retadreso">
 <!ENTITY searchItem.title             "Serĉi">
 
