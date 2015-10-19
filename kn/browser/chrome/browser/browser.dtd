@@ -691,7 +691,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionVerified "ನೀವು ಈ ತಾಣಕ್ಕೆ ಸುರಕ್ಷಿತವಾಗಿ ಸಂಪರ್ಕ ಹೊಂದಿದ್ದೀರೆಂದು &brandShortName; ಪರಿಶೀಲಿಸಿದೆ, ನಿರ್ವಹಿಸಿರುವುದು:">
 <!ENTITY identity.connectionInternal "ಇದು ಸುರಕ್ಷಿತ &brandShortName; ಪುಟ">
 <!-- Strings for connection state warnings. -->
-
+<!ENTITY identity.passiveLoaded "ಪುಟದ ಕೆಲ ಭಾಗಗಳು ಸುರಕ್ಷಿತವಾಗಿಲ್ಲ(ಚಿತ್ರಗಳಂತಹ).">
 
 
 <!-- Strings for connection state warnings in the subview. -->
