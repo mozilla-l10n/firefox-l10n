@@ -17,3 +17,6 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc "A pagina web<span id='phishing_sitename'/> a l'é stæta segnalâ comme falsificaçion web e-a l'é stæta blocâ da-e teu preferense de seguessa.">
 <!ENTITY safeb.blocked.phishingPage.longDesc "<p>E falsificaçioin web son fæte pe bidonâ a gente e fâ condividde e informaçioin privê ò finansiarie.</p><p>Se ti ti inserisci di dæti inte sta pagina peu sucede che te aröban a identitæ o che te fan 'n'atro inbreuggio.</p>">
 
+<!ENTITY safeb.blocked.unwantedPage.title "Segnalou scito con do software indeziderou">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "O scito web <span id='unwanted_sitename'/> o l'é segnalou comme scito con do software indeziderou e o l'é blocou in baze a-e inpostaçioin de seguessa ative.">
+<!ENTITY safeb.blocked.unwantedPage.longDesc "<p>Sto tipo de sciti çercan de instalâ programmi che peuan fa de gazibbe e avei de consegoense inaspetæ in sciô scistema.</p>">
