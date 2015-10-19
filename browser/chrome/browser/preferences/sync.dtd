@@ -21,7 +21,7 @@
 <!ENTITY resetSync2.label             "Reinpòsta Sync…">
 
 <!ENTITY pairDevice.label             "Acobia 'n aparato">
-
+<!ENTITY welcome.signIn.label "Acedi">
 <!ENTITY syncMy.label               "Sync o Mæ">
 <!ENTITY engine.bookmarks.label     "Segnalibbri">
 <!ENTITY engine.bookmarks.accesskey "S">
