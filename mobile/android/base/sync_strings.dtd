@@ -223,6 +223,7 @@
 <!ENTITY fxaccount_status_linktos 'Termos do servizo'>
 <!ENTITY fxaccount_status_linkprivacy 'Política de privacidade'>
 <!ENTITY fxaccount_status_more 'Máis&ellipsis;'>
+<!ENTITY fxaccount_remove_account 'Desconectar&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title 'Retirar a conta Firefox?'>
 <!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; deterá a sincronización coa súa conta, pero non eliminará ningún dos seus datos de navegación neste dispositivo.'>
@@ -230,7 +231,6 @@
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast 'Retirouse a conta Firefox &formatS;.'>
 
-<!ENTITY fxaccount_remove_account_menu_item 'Retirar conta'>
 <!ENTITY fxaccount_enable_debug_mode 'Activar o modo de depuración'>
 
 <!-- Localization note: this is the name shown by the Android system
