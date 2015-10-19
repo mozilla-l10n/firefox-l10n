@@ -4,22 +4,37 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Telemetry माहिती">
 
+<!ENTITY aboutTelemetry.changeDataChoices "  बदल करा">
 
+<!ENTITY aboutTelemetry.uploadEnabled "  FHR डाटा अपलोड <span>सक्रीय आहे</span>.">
 
+<!ENTITY aboutTelemetry.uploadDisabled "  FHR डाटा अपलोड <span>निष्क्रीय आहे</span>.">
 
+<!ENTITY aboutTelemetry.extendedRecordingEnabled "  विस्तारित टेलिमेट्री रेकॉर्डिंग <span>सक्रीय आहे</span>.">
 
+<!ENTITY aboutTelemetry.extendedRecordingDisabled "  विस्तारित टेलिमेट्री रेकॉर्डिंग <span>निष्क्रीय आहे</span>.">
 
+<!ENTITY aboutTelemetry.pingDataSource "पिंग डाटा स्रोत:">
 
+<!ENTITY aboutTelemetry.showCurrentPingData "सध्याचा पिंग डाटा">
 
+<!ENTITY aboutTelemetry.showArchivedPingData "संग्रहित पिंग डाटा">
 
+<!ENTITY aboutTelemetry.showSubsessionData "सबसेशन डाटा दाखवा">
 
+<!ENTITY aboutTelemetry.choosePing "पिंग निवडा:">
 
+<!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; नवीनतम पिंग">
 
+<!ENTITY aboutTelemetry.showOlderPing "जुना पिंग &gt;&gt;">
 
+<!ENTITY aboutTelemetry.archiveWeekHeader "आठवडा">
 
+<!ENTITY aboutTelemetry.archivePingHeader "पिंग">
 
 <!ENTITY aboutTelemetry.generalDataSection "  सामान्य माहिती">
 
+<!ENTITY aboutTelemetry.environmentDataSection "  वातावरण डाटा">
 
 <!ENTITY aboutTelemetry.telemetryLogSection "  Telemetry नोंद">
 
