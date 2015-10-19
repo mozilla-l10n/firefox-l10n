@@ -11,8 +11,8 @@
 <!ENTITY radioRememberPrevState.accesskey "L">
 <!ENTITY radioAskState.label "Preguntarme o modo de conexión">
 <!ENTITY radioAskState.accesskey "g">
-<!ENTITY radioAlwaysOnline.label "Iniciar sempre en liña">
-<!ENTITY radioAlwaysOnline.accesskey "I">
+<!ENTITY radioAlwaysOnlineState.label "En liña">
+<!ENTITY radioAlwaysOnlineState.accesskey "l">
 <!ENTITY radioAlwaysOffline.label "Iniciar en modo desconectado">
 <!ENTITY radioAlwaysOffline.accesskey "m">
 

@@ -12,9 +12,9 @@
 <!ENTITY calendar.unifinder.todoitems.label       "Tarefas" >
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Amosar as tarefas rematadas">
 
-<!ENTITY calendar.today.button.label       "Hoxe">
+<!ENTITY calendar.today.button.label          "Hoxe">
 <!ENTITY calendar.tomorrow.button.label       "Mañá">
-<!ENTITY calendar.soon.button.label           "Cedo">
+<!ENTITY calendar.upcoming.button.label       "Proximamente">
 
 <!ENTITY calendar.events.filter.all.label "Todos os eventos">
 <!ENTITY calendar.events.filter.today.label "Eventos de hoxe">
@@ -232,8 +232,17 @@
 <!ENTITY calendar.context.newserver.accesskey          "N">
 <!ENTITY calendar.context.findcalendar.label           "Atopar calendario…" >
 <!ENTITY calendar.context.findcalendar.accesskey       "A" >
-<!ENTITY calendar.context.deleteserver.label           "Eliminar calendario">
-<!ENTITY calendar.context.deleteserver.accesskey       "d">
+<!ENTITY calendar.context.deleteserver2.label          "Eliminar calendario…">
+<!ENTITY calendar.context.deleteserver2.accesskey      "d">
+
+<!-- LOCALIZATION NOTE (calendar.context.removeserver.label): Removing the
+      calendar is the general action of removing it, while deleting means to
+      clear the data and unsubscribing means just taking it out of the calendar
+      list. -->
+<!ENTITY calendar.context.removeserver.label           "Retirar calendario…">
+<!ENTITY calendar.context.removeserver.accesskey       "R">
+<!ENTITY calendar.context.unsubscribeserver.label      "Cancelar subscrición ao calendario…">
+<!ENTITY calendar.context.unsubscribeserver.accesskey  "u">
 <!ENTITY calendar.context.synccalendars.label          "Sincronizar os calendarios">
 <!ENTITY calendar.context.synccalendars.accesskey      "S">
 <!ENTITY calendar.context.publish.label                "Publicar calendario…">
@@ -243,9 +252,13 @@
 <!ENTITY calendar.context.properties.label             "Propiedades">
 <!ENTITY calendar.context.properties.accesskey         "P">
 
-<!-- LOCALIZATION NOTE (calendar.context.togglevisible.accesskey)
+<!-- LOCALIZATION NOTE (calendar.context.showcalendar.accesskey)
      This is the access key used for the showCalendar string -->
-<!ENTITY calendar.context.togglevisible.accesskey      "m">
+<!ENTITY calendar.context.showcalendar.accesskey      "m">
+
+<!-- LOCALIZATION NOTE (calendar.context.hidecalendar.accesskey)
+     This is the access key used for the hideCalendar string -->
+<!ENTITY calendar.context.hidecalendar.accesskey      "h">
 
 <!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
      This is the access key used for the showOnlyCalendar string -->

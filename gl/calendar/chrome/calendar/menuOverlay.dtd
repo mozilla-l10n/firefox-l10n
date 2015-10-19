@@ -20,12 +20,22 @@
 
 <!ENTITY calendar.deletecalendar.label          "Eliminar calendario seleccionado…">
 <!ENTITY calendar.deletecalendar.accesskey      "d">
+<!ENTITY calendar.unsubscribecalendar.label     "Cancelar subscrición do calendario seleccionado…">
+<!ENTITY calendar.unsubscribecalendar.accesskey "u">
+
+<!-- LOCALIZATION NOTE (calendar.removecalendar.label): Removing the calendar
+      is the general action of removing it, while deleting means to clear the
+      data and unsubscribing means just taking it out of the calendar list. -->
+<!ENTITY calendar.removecalendar.label          "Retirar calendario seleccionado…">
+<!ENTITY calendar.removecalendar.accesskey      "R">
+
 
 <!ENTITY calendar.menu.customize.label          "Personalizar…">
 <!ENTITY calendar.menu.customize.accesskey      "P">
 
 <!ENTITY showUnifinderCmd.label                 "Atopar eventos">
 <!ENTITY showUnifinderCmd.accesskey             "A">
+<!ENTITY showUnifinderCmd.tooltip               "Activar/desactivar o panel de atopar eventos">
 
 <!ENTITY calendar.displaytodos.checkbox.label       "Amosar as tarefas no calendario">
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "t">

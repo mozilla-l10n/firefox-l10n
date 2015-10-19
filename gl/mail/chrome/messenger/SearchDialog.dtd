@@ -40,6 +40,7 @@
 <!ENTITY threadColumn.label "Fío">
 <!ENTITY fromColumn.label "De">
 <!ENTITY recipientColumn.label "Destinatario">
+<!ENTITY correspondentColumn.label "Correspondentes">
 <!ENTITY subjectColumn.label "Asunto">
 <!ENTITY dateColumn.label "Data">
 <!ENTITY priorityColumn.label "Prioridade">
@@ -61,6 +62,7 @@
 <!ENTITY threadColumn2.tooltip "Amosar as mensaxes agrupadas por fíos">
 <!ENTITY fromColumn2.tooltip "Ordenar polo remitente">
 <!ENTITY recipientColumn2.tooltip "Ordenar polo destinatario">
+<!ENTITY correspondentColumn2.tooltip "Ordenar por correspondentes">
 <!ENTITY subjectColumn2.tooltip "Ordenar polo asunto">
 <!ENTITY dateColumn2.tooltip "Ordenar pola data">
 <!ENTITY priorityColumn2.tooltip "Ordenar pola prioridade">

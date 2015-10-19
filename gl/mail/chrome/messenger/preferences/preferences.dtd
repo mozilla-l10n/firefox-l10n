@@ -4,6 +4,7 @@
 
 <!ENTITY  prefWindow.titleWin     "Opcións">
 <!ENTITY  prefWindow.titleGNOME   "Preferencias de &brandShortName;">
+<!ENTITY  prefWindow.titleMAC     "Preferencias">
 <!ENTITY  prefWindow.styleWindows "width: 50em; min-height: 38.5em;">
 <!ENTITY  prefWindow.styleMac     "width: 50em;">
 <!ENTITY  prefWindow.styleGNOME   "width: 50em; min-height: 38em;">
@@ -16,3 +17,7 @@
 <!ENTITY panePrivacy.title        "Privacidade">
 <!ENTITY paneSecurity.title       "Seguranza">
 <!ENTITY paneAdvanced.title       "Opcións avanzadas">
+<!ENTITY paneAccount.title        "Contas">
+
+<!ENTITY okButton.title           "Aceptar">
+<!ENTITY okButton.accesskey       "A">
