@@ -189,6 +189,36 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Imprimir">
 <!ENTITY printButton.tooltip          "Imprimir esta páxina">
 
+<!ENTITY urlbar.viewSiteInfo.label                      "Ver información do sitio">
+<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
+     used to provide accessible labels to users of assistive technology like screenreaders.
+     It is not possible to see them visually in the UI. -->
+<!ENTITY urlbar.defaultNotificationAnchor.label         "Ver unha notificación">
+<!ENTITY urlbar.geolocationNotificationAnchor.label     "Ver a solicitude de localización">
+<!ENTITY urlbar.addonsNotificationAnchor.label          "Ver a mensaxe de instalación do complemento">
+<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Ver a mensaxe de almacenamento de aplicativos sen conexión">
+<!ENTITY urlbar.loginFillNotificationAnchor.label       "Xestionar a información da súa identificación">
+<!ENTITY urlbar.passwordNotificationAnchor.label        "Marque se quere gardar o seu contrasinal">
+<!ENTITY urlbar.webappsNotificationAnchor.label         "Ver a mensaxe de instalación do aplicativo">
+<!ENTITY urlbar.pluginsNotificationAnchor.label         "Xestionar o uso de engadidos nesta páxina">
+<!ENTITY urlbar.webNotsNotificationAnchor.label         "Cambiar se o sitio pode amosarlle notificacións">
+
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Xestionar se compartir a súa cámara e/ou o micrófono co sitio">
+<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Está compartindo a súa cámara e/ou o micrófono co sitio">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Xestionar se compartir o seu micrófono co sitio">
+<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Está compartindo o seu micrófono co sitio">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Xestionar se compartir as súas xanelas ou a pantalla co sitio">
+<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Está compartindo unha xanela ou a súa pantalla co sitio">
+
+<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Cambiar se o sitio pode agochar o punteiro">
+<!ENTITY urlbar.servicesNotificationAnchor.label        "Ver a mensaxe de instalación do servizo">
+<!ENTITY urlbar.translateNotificationAnchor.label       "Traducir esta páxina">
+<!ENTITY urlbar.translatedNotificationAnchor.label      "Xestionar a tradución da páxina">
+<!ENTITY urlbar.emeNotificationAnchor.label             "Xestionar o uso de software DRM">
+
+<!ENTITY urlbar.toggleAutocomplete.label                "Activar/desactivar a xanela de completado automático">
+
+
 <!ENTITY locationItem.title           "Localización">
 <!ENTITY searchItem.title             "Buscar">
 
@@ -316,8 +346,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY userContextPersonal.accesskey    "P">
 <!ENTITY userContextWork.label            "Traballo">
 <!ENTITY userContextWork.accesskey        "T">
-
-
+<!ENTITY userContextBanking.label         "Banca">
+<!ENTITY userContextBanking.accesskey     "B">
 <!ENTITY userContextShopping.label        "Compras">
 <!ENTITY userContextShopping.accesskey    "s">
 <!ENTITY newNavigatorCmd.label        "Nova xanela">
