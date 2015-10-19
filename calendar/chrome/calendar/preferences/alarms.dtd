@@ -14,11 +14,11 @@
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "d">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Examinar…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "r">
-<!ENTITY pref.calendar.alarms.sound.preview.label "Previsualizar">
-<!ENTITY pref.calendar.alarms.sound.preview.accessKey "P">
-<!ENTITY pref.showalarmbox "Mostrar unha caixa de alarma">
+<!ENTITY pref.calendar.alarms.sound.play.label "Reproducir">
+<!ENTITY pref.calendar.alarms.sound.play.accessKey "p">
+<!ENTITY pref.showalarmbox "Amosar unha caixa de alarma">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "x">
-<!ENTITY pref.missedalarms "Mostrar as alarmas perdidas">
+<!ENTITY pref.missedalarms "Amosar as alarmas perdidas">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "m">
 <!ENTITY pref.calendar.alarms.defaults.label "Valores predeterminados para alarmas">
 <!ENTITY pref.defalarm4events.label "Configuración predeterminada da alarma para os eventos:">

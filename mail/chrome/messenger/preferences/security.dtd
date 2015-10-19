@@ -43,6 +43,6 @@
 
 <!-- Anti Virus -->
 <!ENTITY antiVirus.intro      "&brandShortName; pode facilitar que o software antivirus analice as mensaxes de correo entrantes antes de que se almacenen localmente.">
-<!ENTITY antiVirus.label      "Permitir que os clientes antivirus poñan en corentena mensaxes individuais entrantes.">
+<!ENTITY antiVirus.label      "Permitir que os clientes antivirus poñan en corentena mensaxes individuais entrantes">
 <!ENTITY antiVirus.accesskey  "P">
 

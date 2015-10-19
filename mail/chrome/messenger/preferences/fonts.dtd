@@ -3,16 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  fontsAndEncodingsDialog.title           "Tipos de letra e codificacións">
-<!ENTITY  window.width                            "39em">
-<!ENTITY  window.macWidth                         "43em">
-<!ENTITY  window.unixWidth                        "41em">
 
 <!ENTITY  language.label                          "Tipos de letra para:">
 <!ENTITY  language.accesskey                      "T">
 
 <!ENTITY  size.label                              "Tamaño:">
-<!ENTITY  proportionalSize.accesskey              "a">
-<!ENTITY  sizeMono.accesskey                      "ñ">
+<!ENTITY  sizeProportional.accesskey              "ñ">
+<!ENTITY  sizeMonospace.accesskey                 "a">
 
 <!ENTITY  proportional.label                      "Proporcional:">
 <!ENTITY  proportional.accesskey                  "P">
@@ -22,21 +19,19 @@
 <!ENTITY  sans-serif.label                        "Sans-serif:">
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Monoespazado:">
-<!ENTITY  monospace.accesskey                     "z">
+<!ENTITY  monospace.accesskey                     "M">
 
-<!ENTITY  font.langGroup.latin1                   "Occidental">
-<!ENTITY  font.langGroup.latin2                   "Centroeuropeo">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
+<!ENTITY  font.langGroup.latin                    "Latín">
 <!ENTITY  font.langGroup.japanese                 "Xaponés">
 <!ENTITY  font.langGroup.trad-chinese             "Chinés tradicional (Taiwán)">
 <!ENTITY  font.langGroup.simpl-chinese            "Chinés simplificado">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Chinés tradicional (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "Coreano">
 <!ENTITY  font.langGroup.cyrillic                 "Cirílico">
-<!ENTITY  font.langGroup.baltic                   "Báltico">
 <!ENTITY  font.langGroup.el                       "Grego">
-<!ENTITY  font.langGroup.turkish                  "Turco">
-<!ENTITY  font.langGroup.unicode1                 "Unicode">
-<!ENTITY  font.langGroup.user-def                 "Definido polo usuario">
+<!ENTITY  font.langGroup.other                    "Outros sistemas de escritura">
 <!ENTITY  font.langGroup.thai                     "Tailandés">
 <!ENTITY  font.langGroup.hebrew                   "Hebreo">
 <!ENTITY  font.langGroup.arabic                   "Árabe">
@@ -51,7 +46,12 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
 <!ENTITY  font.langGroup.khmer                    "Camboxano">
 <!ENTITY  font.langGroup.malayalam                "Malaialam">
-
+<!ENTITY  font.langGroup.math                     "Matemáticas">
+<!ENTITY  font.langGroup.oriya                    "Oriya">
+<!ENTITY  font.langGroup.telugu                   "Telugu">
+<!ENTITY  font.langGroup.kannada                  "Kannada">
+<!ENTITY  font.langGroup.sinhala                  "Sinhala">
+<!ENTITY  font.langGroup.tibetan                  "Tibetano">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Tamaño mínimo do tipo de letra:">
 <!ENTITY minSize.accesskey                        "m">
@@ -71,10 +71,10 @@
 <!-- Language settings -->
 <!ENTITY sendDefaultCharset.label         "Correo de saída:">
 <!ENTITY sendDefaultCharset.accesskey     "d">
-<!ENTITY languagesTitle1.label            "Codificacións de caracteres">
-<!ENTITY composingDescription.label       "Estabeleza as codificacións predeterminadas para o correo de entrada e de saída:">
+<!ENTITY languagesTitle2.label            "Codificación do texto">
+<!ENTITY composingDescription2.label      "Estabeleza as codificacións predeterminadas para o correo de entrada e de saída">
 
 <!ENTITY viewDefaultCharsetList.label     "Correo de entrada:">
 <!ENTITY viewDefaultCharsetList.accesskey  "a">
-<!ENTITY replyInDefaultCharset2.label     "Cando sexa posíbel, utilice a codificación de caracteres predeterminada en respostas">
-<!ENTITY replyInDefaultCharset2.accesskey "n">
+<!ENTITY replyInDefaultCharset3.label     "Cando sexa posíbel, utilice a codificación de texto predeterminada nas respostas">
+<!ENTITY replyInDefaultCharset3.accesskey "x">

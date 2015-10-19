@@ -145,6 +145,8 @@
 <!ENTITY messagePaneVertical.accesskey "c">
 <!ENTITY showFolderPaneCmd.label "Panel do cartafol">
 <!ENTITY showFolderPaneCmd.accesskey "f">
+<!ENTITY showFolderPaneColsCmd.label "Columnas do panel de cartafoles">
+<!ENTITY showFolderPaneColsCmd.accesskey "p">
 <!ENTITY showMessageCmd.label "Panel da mensaxe">
 <!ENTITY showMessageCmd.accesskey "x">
 
@@ -190,6 +192,8 @@
 <!ENTITY sortByFromCmd.accesskey "D">
 <!ENTITY sortByRecipientCmd.label "Destinatario">
 <!ENTITY sortByRecipientCmd.accesskey "n">
+<!ENTITY sortByCorrespondentCmd.label "Correspondentes">
+<!ENTITY sortByCorrespondentCmd.accesskey "e">
 <!ENTITY sortByUnreadCmd.label "Ler">
 <!ENTITY sortByUnreadCmd.accesskey "e">
 <!ENTITY sortByOrderReceivedCmd.label "Aviso de recepción">
@@ -593,7 +597,9 @@
 <!ENTITY manageTags.accesskey "X">
 
 <!-- Folder Pane -->
-<!ENTITY folderColumn.label "Nome">
+<!ENTITY folderNameColumn.label "Nome">
+<!ENTITY folderUnreadColumn.label "Non lidas">
+<!ENTITY folderTotalColumn.label "Total">
 <!ENTITY folderSizeColumn.label "Tamaño">
 
 <!-- Folder Pane Context Menu -->
@@ -654,6 +660,7 @@
 <!ENTITY threadColumn.label "Fío">
 <!ENTITY fromColumn.label "De">
 <!ENTITY recipientColumn.label "Destinatario">
+<!ENTITY correspondentColumn.label "Correspondentes">
 <!ENTITY subjectColumn.label "Asunto">
 <!ENTITY dateColumn.label "Data">
 <!ENTITY priorityColumn.label "Prioridade">
@@ -676,6 +683,7 @@
 <!ENTITY threadColumn2.tooltip "Amosar as mensaxes agrupadas por fíos">
 <!ENTITY fromColumn2.tooltip "Ordenar polo remitente">
 <!ENTITY recipientColumn2.tooltip "Ordenar polo destinatario">
+<!ENTITY correspondentColumn2.tooltip "Ordenar por correspondentes">
 <!ENTITY subjectColumn2.tooltip "Ordenar polo asunto">
 <!ENTITY dateColumn2.tooltip "Ordenar pola data">
 <!ENTITY priorityColumn2.tooltip "Ordenar pola prioridade">
