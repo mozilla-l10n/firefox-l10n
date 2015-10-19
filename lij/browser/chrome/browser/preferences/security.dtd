@@ -29,7 +29,7 @@
 <!ENTITY  changeMasterPassword.label     "Cangia a paròlla segreta prinçipa…">
 <!ENTITY  changeMasterPassword.accesskey "C"><!ENTITY savedLogins.label "Accessi sarvæ">
 <!ENTITY savedLogins.accesskey "s">
-
+<!ENTITY logins.label "Acessi">
 <!ENTITY rememberLogins.label "Aregòrdite i dæti d'acesso a-i sciti">
 <!ENTITY rememberLogins.accesskey "A">
 <!ENTITY savedLogins.label "Acessi sarvæ…">
