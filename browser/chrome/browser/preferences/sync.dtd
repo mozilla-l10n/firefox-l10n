@@ -77,8 +77,8 @@
 <!ENTITY welcome.signIn.label "Acedi">
 <!ENTITY welcome.createAccount.label "Crea 'n account">
 <!ENTITY welcome.useOldSync.label "Informaçioin pe-i utenti che adeuvian 'na vegia verscion de Sync">
-
-
+<!ENTITY notSignedIn.label "No ti ê introu.">
+<!ENTITY welcome.signIn.label "Intra">
 
 
 

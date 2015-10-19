@@ -21,10 +21,6 @@
 <!ENTITY  addonExceptions.label         "Eceçioin…">
 <!ENTITY  addonExceptions.accesskey     "E">
 
-
-<!ENTITY  passwords.label               "Paròlle segrete">
-
-
 <!ENTITY  passwordExceptions.label      "Eceçioin…">
 <!ENTITY  passwordExceptions.accesskey  "ç">
 
@@ -37,6 +33,6 @@
 <!ENTITY rememberLogins.label "Aregòrdite i dæti d'acesso a-i sciti">
 <!ENTITY rememberLogins.accesskey "A">
 <!ENTITY savedLogins.label "Acessi sarvæ…">
-<!ENTITY  savedPasswords.accesskey        "s">
 
 <!ENTITY general.label "Generale">
+<!ENTITY rememberLogins.label "Aregòrda i dæti d'acesso a-i sciti">

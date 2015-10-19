@@ -39,8 +39,6 @@ that require it.  -->
 <!ENTITY itemHistoryAndDownloads.accesskey "S">
 <!ENTITY itemFormSearchHistory.label       "Stöia di Mòdoli &amp; Riçerche">
 <!ENTITY itemFormSearchHistory.accesskey   "S">
-<!ENTITY itemPasswords.label               "Paròlle segrette sarvæ">
-<!ENTITY itemPasswords.accesskey           "P">
 <!ENTITY itemCookies.label                 "Cookie">
 <!ENTITY itemCookies.accesskey             "C">
 <!ENTITY itemCache.label                   "Cache">
@@ -57,6 +55,9 @@ that require it.  -->
      mockup at bug 480169 -->
 <!ENTITY sanitizeEverythingUndoWarning     "St'açion a no peu ese anula.">
 
-<!ENTITY dialog.width2 				  "34em">
-<!ENTITY column.width2 				  "17em">
+<!ENTITY sanitizeDialog2.width "34em">
+<!ENTITY sanitizePrefs2.modal.width "34em">
+<!ENTITY sanitizePrefs2.column.width "17em">
+<!ENTITY sanitizePrefs2.inContent.dialog.width "42em">
+<!ENTITY sanitizePrefs2.inContent.column.width "26em">
 
