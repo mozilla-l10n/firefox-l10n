@@ -6,7 +6,7 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Opna huliðsglugga">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
 
-<!ENTITY privateBrowsing.title                 "Einkavöfrun">
+<!ENTITY privateBrowsing.title                 "Huliðsstilling">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width1):
      Width of the Private Browsing section. This should depend primarily on the
      length of the headers and text, but should be roughly 1.5 times the width
