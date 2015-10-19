@@ -706,20 +706,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Kube maber">
 <!ENTITY identity.connectionNotSecure "Kube pe tye ki ber bedo">
 <!ENTITY identity.connectionFile "Kigwoko potbuk man i kompiuta mamegi.">
-
+<!ENTITY identity.connectionVerified1 "Itye ki kube maber ki kakube man, ma lakelo ne aye:">
 <!ENTITY identity.connectionInternal "Man potbuk me &brandShortName; matye ki ber bedo.">
-
+<!ENTITY identity.insecureLoginForms "Kiromo libo donyo iye mamegi.">
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "&brandShortName; ogengo but potbuk man ma pe tye ki ber bedo.">
 <!ENTITY identity.passiveLoaded "But potbuk man pe tye ki ber bedo (calo cal).">
 <!ENTITY identity.activeLoaded "I juko gwokke woko ki i potbuk man.">
-
+<!ENTITY identity.weakEncryption "Potbuk man tiyo ki loko ngec i kod ma goro.">
 <!-- Strings for connection state warnings in the subview. -->
 
 <!ENTITY identity.description.insecure "Kube ni ki kakube man pe tye i mung. Jo mukene twero neno ngec ma i cwalo (calo mung me donyo, kwena, ka me wil, ki mukene).">
-
-
+<!ENTITY identity.description.insecureLoginForms "Ngec me donyo iye ma i keto i pot buk man pe ki ber bedo kadong ki romo libo ne.">
+<!ENTITY identity.description.weakCipher "Kube ni ki kakube man tiyo ki loko ngec i kod ma goro ki peke i mung.">
 <!ENTITY identity.description.weakCipher2 "Jo mukene twero neno ngec mamegi onyo loko time pa kakube.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; ogengo but potbuk man ma pe tye ki ber bedo.">
 <!ENTITY identity.description.passiveLoaded "Kube mamegi pe tye ki ber bedo kadong jo mukene twero neno ngec ma i nywako ki kakube ne.">
@@ -737,7 +737,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.moreInfoLinkText2 "Ngec mapol">
 
 <!ENTITY identity.permissions "Rukuca">
-
+<!ENTITY identity.permissionsEmpty "Pe imiyo ki kakube man kit twer madito mo keken.">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -748,7 +748,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "Tim marom">
 
-
+<!ENTITY syncSignIn.label             "Dony iye &syncBrand.shortName.label;…">
+<!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "Tim marom Kombedi">
 <!ENTITY syncSyncNowItem.accesskey    "T">
 <!ENTITY syncReAuthItem.label         "Nwo kube bot &syncBrand.shortName.label;…">
@@ -809,7 +810,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "L">
 <!ENTITY getUserMedia.selectMicrophone.label "Micropon me anywaka:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
-
+<!ENTITY getUserMedia.audioCapture.label "Ki binywako dwon ma i dirica matidi.">
 <!ENTITY getUserMedia.allWindowsShared.message "Ki binywako dirica weng ma nen i wang kompiuta ni.">
 
 <!ENTITY trackingProtection.title "Gwokke ikom lubo kor">
@@ -832,7 +833,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.message "Lubo">
 <!ENTITY trackingContentBlocked.moreinfo "Kigengo woko but pot buk ma lubo kor tici me wi yamo.">
 <!ENTITY trackingContentBlocked.learnMore "Nong ngec mapol">
-
+<!ENTITY trackingContentBlocked.options "Gin ayera">
 <!ENTITY trackingContentBlocked.unblock2.label "Juk gwokke pi kakube man">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "J">
 <!ENTITY trackingContentBlocked.block.label "Cak gwoke">
@@ -902,6 +903,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "P">
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
 
-
-
-
+<!ENTITY saveToPocketCmd.label     "Gwok potbuk i Pocket">
+<!ENTITY saveToPocketCmd.accesskey "k">
+<!ENTITY saveLinkToPocketCmd.label     "Gwok kakube iye Pocket">
+<!ENTITY saveLinkToPocketCmd.accesskey "y">
+<!ENTITY pocketMenuitem.label      "Nen jami ma i Pocket">
