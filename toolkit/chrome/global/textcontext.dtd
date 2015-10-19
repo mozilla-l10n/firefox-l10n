@@ -27,7 +27,8 @@
 
 <!ENTITY searchTextBox.clear.label "Bersihkan">
 
-
+<!ENTITY fillLoginMenu.label          "Isi Info Masuk">
+<!ENTITY fillLoginMenu.accesskey      "I">
 <!ENTITY fillPasswordMenu.label       "Masukkan Sandi">
 <!ENTITY fillPasswordMenu.accesskey   "M">
 <!ENTITY fillUsernameMenu.label       "Masukkan Nama Pengguna">

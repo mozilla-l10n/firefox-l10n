@@ -57,7 +57,7 @@
 <!ENTITY trackingProtection.state.enabled      "AKTIF">
 <!ENTITY trackingProtection.state.disabled     "NONAKTIF">
 
-<!ENTITY trackingProtection.description1       "Jendela privat kini memblokir bagian laman yang mungkin melacak aktivitas penjelajahan Anda.">
+<!ENTITY trackingProtection.description1       "Jendela pribadi kini memblokir bagian laman yang mungkin melacak aktivitas penjelajahan Anda.">
 
 <!ENTITY trackingProtection.disable            "Nonaktifkan Perlindungan Pelacakan">
 <!ENTITY trackingProtection.enable             "Aktifkan Perlindungan Pelacakan">

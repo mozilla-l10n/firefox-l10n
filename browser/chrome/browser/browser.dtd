@@ -699,14 +699,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.weakEncryption "Laman ini menggunakan enkripsi lemah.">
 <!-- Strings for connection state warnings in the subview. -->
 
-<!ENTITY identity.description.insecure "Koneksi Anda ke laman ini tidak privat. Informasi yang Anda kirim dapat dilihat oleh pihak lain (misalnya, sandi, pesan, kartu kredit, dll.).">
-<!ENTITY identity.description.weakCipher "Koneksi Anda ke situs web ini menggunakan enkripsi lemah dan tidak privat.">
+<!ENTITY identity.description.insecure "Koneksi Anda ke laman ini tidak pribadi. Informasi yang Anda kirim dapat dilihat oleh pihak lain (misalnya, sandi, pesan, kartu kredit, dll.).">
+<!ENTITY identity.description.weakCipher "Koneksi Anda ke situs web ini menggunakan enkripsi lemah dan tidak pribadi.">
 <!ENTITY identity.description.weakCipher2 "Orang lain dapat melihat informasi Anda atau memodifikasi perilaku situs web ini.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; telah memblokir bagian dari laman ini yang tidak aman.">
-<!ENTITY identity.description.passiveLoaded "Sambungan Anda tidak privat dan informasi yang Anda bagikan dengan situs ini dapat dilihat oleh pihak lain.">
+<!ENTITY identity.description.passiveLoaded "Sambungan Anda tidak pribadi dan informasi yang Anda bagikan dengan situs ini dapat dilihat oleh pihak lain.">
 <!ENTITY identity.description.passiveLoaded2 "Situs web ini mengandung konten yang tidak aman (misalnya, gambar).">
 <!ENTITY identity.description.passiveLoaded3 "Meskipun &brandShortName; telah memblokir sejumlah konten, tetapi masih ada konten di laman ini yang tidak aman (misalnya gambar).">
-<!ENTITY identity.description.activeLoaded "Situs web ini mengandung konten yang tidak aman (misalnya skrip) dan sambungan Anda tidak privat.">
+<!ENTITY identity.description.activeLoaded "Situs web ini mengandung konten yang tidak aman (misalnya skrip) dan sambungan Anda tidak pribadi.">
 <!ENTITY identity.description.activeLoaded2 "Informasi yang Anda bagikan dengan situs ini dapat dilihat oleh pihak lain (misalnya sandi, pesan, kartu kredit, dll.)">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Aktifkan perlindungan">
