@@ -306,6 +306,7 @@
 <!ENTITY event.recurrence.pattern.yearly.week.5.label        "Xoves" >
 <!ENTITY event.recurrence.pattern.yearly.week.6.label        "Venres" >
 <!ENTITY event.recurrence.pattern.yearly.week.7.label        "Sábado" >
+<!ENTITY event.recurrence.pattern.yearly.day.label           "día" >
 <!ENTITY event.recurrence.of.label                           "de" >
 <!ENTITY event.recurrence.pattern.yearly.month2.1.label      "Xaneiro" >
 <!ENTITY event.recurrence.pattern.yearly.month2.2.label      "Febreiro" >
