@@ -74,7 +74,7 @@
 <!ENTITY abbreviateOff.label "Nomes abreviados (por exemplo,'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Avanzadas…">
 <!ENTITY advancedButton.accesskey "v">
-<!ENTITY serverDefaultCharset.label "Codificación de caracteres predeterminada:">
+<!ENTITY serverDefaultCharset2.label "Codificación de texto predeterminada:">
 <!ENTITY localPath.label "Cartafol local:">
 <!ENTITY localFolderPicker.label "Seleccione un cartafol local">
 <!ENTITY browseFolder.label "Examinar…">
@@ -84,3 +84,7 @@
 
 <!ENTITY accountTitle.label "Configuración da conta">
 <!ENTITY accountSettingsDesc.label "A seguinte é unha conta especial. Non hai identidades asociadas a ela.">
+<!ENTITY storeType.label "Tipo de almacenamento de mensaxes:">
+<!ENTITY storeType.accesskey "t">
+<!ENTITY mboxStore2.label "Ficheiro por cartafol (mbox)">
+<!ENTITY maildirStore.label "Ficheiros por mensaxe (maildir)">

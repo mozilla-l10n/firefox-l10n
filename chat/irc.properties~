@@ -128,7 +128,7 @@ message.whois=WHOIS información de %S:
 #    %1$S is the nickname of the (offline) user whose WHOWAS information follows this message.
 message.whowas=%1$S está desconectado. WHOWAS información de %1$S:
 #    %1$S is the entry description (from tooltip.*), %2$S is its value.
-message.whoisEntry=\ua0\ua0\ua0\ua0%1$S: %2$S
+message.whoisEntry=ua0ua0ua0ua0%1$S: %2$S
 #    %S is the nickname that is not known to the server.
 message.unknownNick=%S é un alcume descoñecido.
 #    %1$S is the nickname of the user who changed the mode and %2$S is the new

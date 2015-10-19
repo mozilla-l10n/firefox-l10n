@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY Addrbook.label                        "Axenda de enderezos">
+<!ENTITY Addrbook.accesskey                    "x">
 <!ENTITY GeneratedName.label                   "Nome">
 <!ENTITY GeneratedName.accesskey               "o">
 <!ENTITY PrimaryEmail.label                    "Correo electrónico">
