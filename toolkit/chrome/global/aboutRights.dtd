@@ -5,7 +5,7 @@
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.pagetitle       "mayela namalungelo">
 <!ENTITY rights.intro-header    "Mayela namalungelo akho">
-<!ENTITY rights.intro "&brandFullName; ikhululekile kwaye ivula isoftwe yoxwebhu, eyenziwe luluntu olungamawaka kwihlabathi jikelele. Kukho izinto ezimbalwa ekumele uzazi:">
+<!ENTITY rights.intro "I-&brandFullName; ikhululekile kwaye ivula isoftwe yoxwebhu, eyenziwe luluntu olungamawaka kwihlabathi jikelele. Kukho izinto ezimbalwa ekumele uzazi:">
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
      split into chunks for text before the link, the link text, and the text
@@ -44,7 +44,7 @@
 <!ENTITY rights.intro-point4b-unbranded "Iinkonzo zewebhusayithi">
 <!ENTITY rights.intro-point4c-unbranded " icandelo.">
 
-<!ENTITY rights2.webservices-header "&brandFullName; Iinkonzo zenkcazelo ezisekelwe kwiwebhu">
+<!ENTITY rights2.webservices-header "I-&brandFullName; Iinkonzo zenkcazelo ezisekelwe kwiwebhu">
 <!-- point 5 -->
 
 <!ENTITY rights.intro-point5 "Khon' ukuze uzidlale ezinye iintlobo zesixhobo sevidiyo, i-&brandShortName; ikhuphela iimodyuli ezithile zokuguqula ukusuka kwabanye abantu. ">
