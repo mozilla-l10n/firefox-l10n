@@ -163,8 +163,8 @@
 <!ENTITY priorityButton.label "Öncelik:">
 <!ENTITY lowestPriorityCmd.label "En düşük">
 <!ENTITY lowestPriorityCmd.accesskey "n">
-<!ENTITY lowPriorityCmd.label "&#037;Düşük">
-<!ENTITY lowPriorityCmd.accesskey "o">
+<!ENTITY lowPriorityCmd.label "Düşük">
+<!ENTITY lowPriorityCmd.accesskey "D">
 <!ENTITY normalPriorityCmd.label "Normal">
 <!ENTITY normalPriorityCmd.accesskey "N">
 <!ENTITY highPriorityCmd.label "Yüksek">

@@ -92,7 +92,7 @@ reddedilmesi olabilmektedir.</li>
 </ul>">
 
 <!ENTITY unknownSocketType.title "Beklenmeyen sunucu yanıtı">
-<!ENTITY unknownSocketType.longDesc " <ul> 
+<!ENTITY unknownSocketType.longDesc "<ul> 
 <li>Sisteminizde kişisel güvenlik yöneticisinin kurulu olduğundan emin olun.</li> 
 <li>Bu durum, standart dışı sunucu yapılandırmasından kaynaklanabilir.</li> 
 </ul>">
@@ -104,7 +104,7 @@ reddedilmesi olabilmektedir.</li>
 </ul>">
 
 <!ENTITY nssBadCert.title "Güvenli bağlantı hatası">
-<!ENTITY nssBadCert.longDesc2 " <ul> 
+<!ENTITY nssBadCert.longDesc2 "<ul> 
 <li>Bu, sunucunun yapılandırmasıyla ilgili bir sorundan veya birinin sunucuyu taklit etmeye çalışmasından kaynaklanıyor olabilir.</li> 
 <li>Daha önce bu sunucuya başarılı bir şekilde bağlandıysanız sorun geçici olabilir ve daha sonra yeniden açmayı deneyebilirsiniz.</li> 
 </ul>">

@@ -88,7 +88,7 @@
 <!-- Edit Menu -->
 
 <!ENTITY deleteMsgCmd.label "İletiyi sil">
-<!ENTITY deleteMsgCmd.accesskey "y">
+<!ENTITY deleteMsgCmd.accesskey "t">
 <!ENTITY undeleteMsgCmd.label "Silinen iletiyi geri al">
 <!ENTITY undeleteMsgCmd.accesskey "i">
 <!ENTITY deleteMsgsCmd.label "Seçilmiş iletileri sil">
@@ -359,7 +359,7 @@
 <!ENTITY forwardAsAttachmentCmd.label "Ek olarak">
 <!ENTITY forwardAsAttachmentCmd.accesskey "E">
 <!ENTITY editAsNewMsgCmd.label "Yeni ileti olarak düzenle">
-<!ENTITY editAsNewMsgCmd.accesskey "d">
+<!ENTITY editAsNewMsgCmd.accesskey "o">
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY createFilter.label "İletiden süzgeç oluştur…">
 <!ENTITY createFilter.accesskey "s">
@@ -396,7 +396,7 @@
 <!ENTITY tagCmd8.key "8">
 <!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "İşaretle">
-<!ENTITY markMenu.accesskey "ş">
+<!ENTITY markMenu.accesskey "İ">
 <!ENTITY toggleReadCmd.key "m">
 <!ENTITY markAsReadCmd.label "Okundu olarak">
 <!ENTITY markAsReadCmd.accesskey "n">
@@ -423,7 +423,7 @@
 <!ENTITY recalculateJunkScoreCmd.label "Gereksiz posta denetimini çalıştır">
 <!ENTITY recalculateJunkScoreCmd.accesskey "G">
 <!ENTITY openMessageWindowCmd.label "İletiyi aç">
-<!ENTITY openMessageWindowCmd.accesskey "y">
+<!ENTITY openMessageWindowCmd.accesskey "t">
 <!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY openConversationCmd.label "Dizi görünümünde aç">
 <!ENTITY openConversationCmd.accesskey "D">
@@ -540,7 +540,7 @@
 <!ENTITY replyListButton.tooltip "E-posta listesini yanıtla">
 <!ENTITY forwardButton.tooltip "Seçilen iletiyi ilet">
 <!ENTITY forwardAsInline.tooltip "Seçilen iletiyi satır içi metin olarak ilet">
-<!ENTITY forwardAsAttachment.tooltip "Seçilen iletiyi ek olarak ilet ">
+<!ENTITY forwardAsAttachment.tooltip "Seçilen iletiyi ek olarak ilet">
 <!ENTITY fileButton.tooltip "Seçilen iletiyi dosyala">
 <!ENTITY archiveButton.tooltip "Seçilen iletileri arşivle">
 <!ENTITY nextButton.tooltip "Sonraki okunmamış iletiye git">
@@ -715,10 +715,10 @@
 <!ENTITY contextOpenContainingFolder.label "İçeren dizindeki iletiyi aç">
 <!ENTITY contextOpenContainingFolder.accesskey "a">
 <!ENTITY contextEditMsgAsNew.label "Yeni ileti olarak düzenle">
-<!ENTITY contextEditMsgAsNew.accesskey "d">
+<!ENTITY contextEditMsgAsNew.accesskey "o">
 <!ENTITY contextArchive.label "Arşivle">
 <!ENTITY contextArchive.accesskey "A">
-<!ENTITY contextReplySender.label "Yalnızca Göndereni Yanıtla">
+<!ENTITY contextReplySender.label "Yalnızca göndereni yanıtla">
 <!ENTITY contextReplySender.accesskey "d">
 <!ENTITY contextReplyNewsgroup2.label "Hesap Grubuna Devam İletisi">
 <!ENTITY contextReplyNewsgroup2.accesskey "D">
@@ -745,7 +745,7 @@
 <!ENTITY contextKillThreadMenu.label "Diziyi göz ardı et">
 <!ENTITY contextKillThreadMenu.accesskey "D">
 <!ENTITY contextKillSubthreadMenu.label "Alt diziyi göz ardı et">
-<!ENTITY contextWatchThreadMenu.label "Di&amp;ziyi izle">
+<!ENTITY contextWatchThreadMenu.label "Diziyi izle">
 <!ENTITY contextSaveAs.label "Farklı kaydet…">
 <!ENTITY contextSaveAs.accesskey "F">
 <!ENTITY contextPrint.label "Yazdır…">
