@@ -18,7 +18,7 @@
 <!ENTITY whatsNewCmd.label "Novidades">
 <!ENTITY whatsNewCmd.accesskey "N">
 <!ENTITY openHelp.label "Índice da axuda">
-<!ENTITY openHelp.accesskey "a">
+<!ENTITY openHelp.accesskey "i">
 <!ENTITY openHelp.commandkey "VK_F1">
 <!ENTITY openHelpMac.label "Axuda do &brandShortName;">
 <!ENTITY openHelpMac2.commandkey   "?">

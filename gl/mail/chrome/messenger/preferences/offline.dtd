@@ -4,13 +4,17 @@
 
 <!ENTITY offlineDialog.title "Configuración sen conexión">
 
-<!ENTITY textStartUp "Ao iniciar:">
+<!ENTITY checkAutoDetect.label "Cambiar sempre ao modo conectado cando sexa posíbel">
+<!ENTITY checkAutoDetect.accesskey "d">
+<!ENTITY titleStartUp "Estado manual ao iniciar:">
 <!ENTITY radioRememberPrevState.label "Lembrar o estado de cando estaba conectado">
 <!ENTITY radioRememberPrevState.accesskey "L">
-<!ENTITY radioAskMe.label "Preguntar se devolver a conexión ao iniciar">
-<!ENTITY radioAskMe.accesskey "P">
-<!ENTITY radioAlwaysOnline.label "Sempre iniciar conectado">
-<!ENTITY radioAlwaysOnline.accesskey "I">
+<!ENTITY radioAskState.label "Preguntarme o modo de conexión">
+<!ENTITY radioAskState.accesskey "g">
+<!ENTITY radioAlwaysOnlineState.label "En liña">
+<!ENTITY radioAlwaysOnlineState.accesskey "l">
+<!ENTITY radioAlwaysOffline.label "Iniciar en modo desconectado">
+<!ENTITY radioAlwaysOffline.accesskey "m">
 
 <!ENTITY textGoingOnline "Enviar as mensaxes non enviadas ao pasar o modo en liña?">
 <!ENTITY radioAutoSend.label "Si">
