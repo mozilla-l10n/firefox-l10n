@@ -47,7 +47,6 @@
 
 <!ENTITY  expire.label                  "que caduquen">
 <!ENTITY  close.label                   "que peche &brandShortName;">
-<!ENTITY  askEachTime.label             "preguntarme cada vez">
 
 <!ENTITY  cookieExceptions.label        "Excepcións…">
 <!ENTITY  cookieExceptions.accesskey    "E">
