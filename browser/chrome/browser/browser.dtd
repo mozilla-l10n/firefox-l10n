@@ -114,7 +114,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "Επανασυνδεθείτε στο &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Επιβεβαιώστε τον λογαριασμό σας">
 <!ENTITY syncStartPanel2.heading "Το &syncBrand.shortName.label; ενεργοποιήθηκε">
-<!ENTITY syncStartPanel2.subTitle "Το &brandShortName; θα ξεκινήσει τον συγχρονισμό σύντομα.">
+<!ENTITY syncStartPanel2.subTitle "Ο &brandShortName; θα ξεκινήσει τον συγχρονισμό σύντομα.">
 
 
 <!ENTITY fullScreenMinimize.tooltip "Ελαχιστοποίηση">
@@ -175,35 +175,35 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksToolbarChevron.tooltip "Προβολή περισσότερων σελιδοδεικτών">
 
 <!ENTITY backCmd.label                "Πίσω">
-<!ENTITY backButton.tooltip           "Go back one page">
-<!ENTITY forwardCmd.label             "Forward">
-<!ENTITY forwardButton.tooltip        "Go forward one page">
+<!ENTITY backButton.tooltip           "Μετάβαση μια σελίδα πίσω">
+<!ENTITY forwardCmd.label             "Μπροστά">
+<!ENTITY forwardButton.tooltip        "Μετάβαση μια σελίδα μπροστά">
 <!ENTITY backForwardButtonMenu.tooltip "Right-click or pull down to show history">
 <!ENTITY backForwardButtonMenuMac.tooltip "Pull down to show history">
-<!ENTITY reloadCmd.label              "Reload">
-<!ENTITY reloadButton.tooltip         "Reload current page">
-<!ENTITY stopCmd.label                "Stop">
+<!ENTITY reloadCmd.label              "Ανανέωση">
+<!ENTITY reloadButton.tooltip         "Ανανέωση τρέχουσας σελίδας">
+<!ENTITY stopCmd.label                "Διακοπή">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Stop loading this page">
-<!ENTITY goEndCap.tooltip             "Go to the address in the Location Bar">
-<!ENTITY printButton.label            "Print">
-<!ENTITY printButton.tooltip          "Print this page">
+<!ENTITY stopButton.tooltip           "Διακοπή φόρτωσης αυτής της σελίδας">
+<!ENTITY goEndCap.tooltip             "Μετάβαση στη διεύθυνση της γραμμής διευθύνσεων">
+<!ENTITY printButton.label            "Εκτύπωση">
+<!ENTITY printButton.tooltip          "Εκτύπωση αυτής της σελίδας">
 
-<!ENTITY locationItem.title           "Location">
-<!ENTITY searchItem.title             "Search">
+<!ENTITY locationItem.title           "Τοποθεσία">
+<!ENTITY searchItem.title             "Αναζήτηση">
 
 <!-- Toolbar items --> 
-<!ENTITY homeButton.label             "Home">
+<!ENTITY homeButton.label             "Αρχική σελίδα">
 
-<!ENTITY tabGroupsButton.label        "Tab Groups">
+<!ENTITY tabGroupsButton.label        "Ομάδες καρτελών">
 
-<!ENTITY bookmarksButton.label          "Bookmarks">
+<!ENTITY bookmarksButton.label          "Σελιδοδείκτες">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.label          "Bookmarks">
-<!ENTITY bookmarksMenuButton.unsorted.label "Unsorted Bookmarks">
-<!ENTITY viewBookmarksSidebar2.label        "View Bookmarks Sidebar">
-<!ENTITY viewBookmarksToolbar.label         "View Bookmarks Toolbar">
+<!ENTITY bookmarksMenuButton.label          "Σελιδοδείκτες">
+<!ENTITY bookmarksMenuButton.unsorted.label "Αταξινόμητοι σελιδοδείκτες">
+<!ENTITY viewBookmarksSidebar2.label        "Προβολή πλευρικής στήλης σελιδοδεικτών">
+<!ENTITY viewBookmarksToolbar.label         "Προβολή εργαλειοθήκης σελιδοδεικτών">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -211,32 +211,32 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
-<!ENTITY historyButton.label            "History">
+<!ENTITY historyButton.label            "Ιστορικό">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
-<!ENTITY toolsMenu.label              "Tools">
+<!ENTITY toolsMenu.label              "Εργαλεία">
 <!ENTITY toolsMenu.accesskey          "T"> 
 
-<!ENTITY keywordfield.label           "Add a Keyword for this Search…">
+<!ENTITY keywordfield.label           "Προσθέστε μια λέξη-κλειδί για αυτή την αναζήτηση…">
 <!ENTITY keywordfield.accesskey       "K">
 
-<!ENTITY downloads.label              "Downloads">
+<!ENTITY downloads.label              "Λήψεις">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
-<!ENTITY addons.label                 "Add-ons">
+<!ENTITY addons.label                 "Πρόσθετα">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
-<!ENTITY webapps.label                "Apps">
+<!ENTITY webapps.label                "Εφαρμογές">
 <!ENTITY webapps.accesskey            "p">
 
-<!ENTITY webDeveloperMenu.label       "Web Developer">
+<!ENTITY webDeveloperMenu.label       "Εργαλεία Προγραμματιστή">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
 <!ENTITY devToolsCmd.keycode          "VK_F12">
 <!ENTITY devToolsCmd.keytext          "F12">
 
-<!ENTITY devtoolsConnect.label        "Connect…">
+<!ENTITY devtoolsConnect.label        "Σύνδεση…">
 <!ENTITY devtoolsConnect.accesskey    "e">
 
 <!ENTITY errorConsoleCmd.label        "Error Console">
@@ -308,62 +308,62 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "File"> 
 <!ENTITY fileMenu.accesskey       "F">
-<!ENTITY newNavigatorCmd.label        "New Window">
+<!ENTITY newNavigatorCmd.label        "Νέο παράθυρο">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
-<!ENTITY newPrivateWindow.label     "New Private Window">
+<!ENTITY newPrivateWindow.label     "Νέο παράθυρο ιδιωτικής περιήγησης">
 <!ENTITY newPrivateWindow.accesskey "W">
 <!ENTITY newNonRemoteWindow.label   "New Non-e10s Window">
 
-<!ENTITY editMenu.label         "Edit"> 
+<!ENTITY editMenu.label         "Επεξεργασία"> 
 <!ENTITY editMenu.accesskey       "E"> 
-<!ENTITY undoCmd.label            "Undo">  
+<!ENTITY undoCmd.label            "Αναίρεση">  
 <!ENTITY undoCmd.key            "Z">  
 <!ENTITY undoCmd.accesskey          "U"> 
 <!ENTITY redoCmd.label            "Redo">  
 <!ENTITY redoCmd.key            "Y">  
 <!ENTITY redoCmd.accesskey          "R"> 
-<!ENTITY cutCmd.label           "Cut">  
+<!ENTITY cutCmd.label           "Αποκοπή">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "t"> 
-<!ENTITY copyCmd.label            "Copy">  
+<!ENTITY copyCmd.label            "Αντιγραφή">  
 <!ENTITY copyCmd.key            "C">  
 <!ENTITY copyCmd.accesskey          "C"> 
-<!ENTITY pasteCmd.label           "Paste">  
+<!ENTITY pasteCmd.label           "Επικόλληση">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "P"> 
-<!ENTITY deleteCmd.label          "Delete">  
+<!ENTITY deleteCmd.label          "Διαγραφή">  
 <!ENTITY deleteCmd.key            "D">  
 <!ENTITY deleteCmd.accesskey        "D"> 
-<!ENTITY selectAllCmd.label         "Select All">  
+<!ENTITY selectAllCmd.label         "Επιλογή όλων">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "A"> 
-<!ENTITY preferencesCmd2.label       "Options">
+<!ENTITY preferencesCmd2.label       "Επιλογές">
 <!ENTITY preferencesCmd2.accesskey     "O">
-<!ENTITY preferencesCmdUnix.label       "Preferences">
+<!ENTITY preferencesCmdUnix.label       "Προτιμήσεις">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
-<!ENTITY clearRecentHistory.label               "Clear Recent History…">
+<!ENTITY clearRecentHistory.label               "Εκκαθάριση πρόσφατου ιστορικού…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "View"> 
+<!ENTITY viewMenu.label         "Προβολή"> 
 <!ENTITY viewMenu.accesskey       "V"> 
-<!ENTITY viewTabGroups.label            "Tab Groups">
+<!ENTITY viewTabGroups.label            "Ομάδες καρτελών">
 <!ENTITY viewTabGroups.accesskey        "G">
-<!ENTITY viewToolbarsMenu.label       "Toolbars"> 
+<!ENTITY viewToolbarsMenu.label       "Εργαλειοθήκες"> 
 <!ENTITY viewToolbarsMenu.accesskey     "T"> 
-<!ENTITY viewSidebarMenu.label "Sidebar">
+<!ENTITY viewSidebarMenu.label "Πλευρική στήλη">
 <!ENTITY viewSidebarMenu.accesskey "e">
-<!ENTITY viewCustomizeToolbar.label       "Customize…"> 
+<!ENTITY viewCustomizeToolbar.label       "Προσαρμογή…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
 
-<!ENTITY historyMenu.label "History">
+<!ENTITY historyMenu.label "Ιστορικό">
 <!ENTITY historyMenu.accesskey "s">
-<!ENTITY historyUndoMenu.label "Recently Closed Tabs">
+<!ENTITY historyUndoMenu.label "Πρόσφατα κλεισμένες καρτέλες">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "Recently Closed Windows">
-<!ENTITY historyRestoreLastSession.label "Restore Previous Session">
+<!ENTITY historyUndoWindowMenu.label "Πρόσφατα κλεισμένα παράθυρα">
+<!ENTITY historyRestoreLastSession.label "Επαναφορά προηγούμενης συνεδρίας">
 
 <!ENTITY showAllHistoryCmd2.label "Show All History">
 <!ENTITY showAllHistoryCmd.commandkey "H">
