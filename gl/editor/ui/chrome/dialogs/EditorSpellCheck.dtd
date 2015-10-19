@@ -21,15 +21,15 @@
 <!ENTITY replaceAllButton.label "Substituír todo">
 <!ENTITY replaceAllButton.accessKey "t">
 <!ENTITY stopButton.label "Deter">
-<!ENTITY stopButton.accessKey "P">
+<!ENTITY stopButton.accessKey "e">
 <!ENTITY userDictionary.label "Dicionario persoal:">
 <!ENTITY moreDictionaries.label "Descargar máis dicionarios…">
 <!ENTITY addToUserDictionaryButton.label "Engadir palabra">
 <!ENTITY addToUserDictionaryButton.accessKey "g">
 <!ENTITY editUserDictionaryButton.label "Editar…">
 <!ENTITY editUserDictionaryButton.accessKey "E">
-<!ENTITY recheckButton.label "Verificar páxina de novo">
-<!ENTITY recheckButton.accessKey "P">
+<!ENTITY recheckButton2.label "Volver a comprobar texto">
+<!ENTITY recheckButton2.accessKey "t">
 <!ENTITY closeButton.label "Pechar">
 <!ENTITY closeButton.accessKey "P">
 <!ENTITY sendButton.label "Enviar">

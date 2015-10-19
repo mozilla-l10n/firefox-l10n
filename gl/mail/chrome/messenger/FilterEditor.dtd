@@ -23,6 +23,10 @@
 <!ENTITY contextManual.accesskey "x">
 <!ENTITY contextBeforeCls.label "Filtrar antes de identificar o correo lixo">
 <!ENTITY contextAfterCls.label "Filtrar despois de identificar o correo lixo">
+<!ENTITY contextOutgoing.label "Despois de enviar">
+<!ENTITY contextOutgoing.accesskey "s">
+<!ENTITY contextArchive.label "Ao arquivar">
+<!ENTITY contextArchive.accesskey "A">
 
 <!ENTITY filterActionDesc.label "Realizar estas accións:">
 <!ENTITY filterActionDesc.accesskey "s">

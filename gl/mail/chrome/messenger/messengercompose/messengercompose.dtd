@@ -158,6 +158,8 @@
 <!ENTITY bothFormatCmd.accesskey "s">
 <!ENTITY priorityMenu.label "Prioridade">
 <!ENTITY priorityMenu.accesskey "d">
+<!ENTITY priorityButton.title "Prioridade">
+<!ENTITY priorityButton.tooltiptext "Cambiar a prioridade da mensaxe">
 <!ENTITY priorityButton.label "Prioridade:">
 <!ENTITY lowestPriorityCmd.label "Moi baixa">
 <!ENTITY lowestPriorityCmd.accesskey "b">
@@ -213,6 +215,7 @@
 <!ENTITY addressButton.tooltip "Seleccionar un destinatario dunha axenda de enderezos">
 <!ENTITY attachButton.tooltip "Incluír un anexo">
 <!ENTITY spellingButton.tooltip "Verificación ortográfica da selección ou da mensaxe completa">
+<!ENTITY statusLanguageText.tooltip "Idioma para corrección ortográfica">
 <!ENTITY saveButton.tooltip "Gardar esta mensaxe">
 <!ENTITY cutButton.tooltip              "Cortar">
 <!ENTITY copyButton.tooltip             "Copiar">

@@ -102,6 +102,11 @@
 <p>Os propietarios de sitios web que crean que foron identificados por erro como maliciosos poden <a href='http://www.stopbadware.org/home/reviewinfo'>solicitar unha revisión</a>.</p>
 ">
 
+<!ENTITY unwantedBlocked.title "Sitio sospeitoso de servir software non desexado!">
+<!ENTITY unwantedBlocked.longDesc "
+<p>As páxinas con software non desexado tentan instalar un software que pode aparentar facer algo diferente ao que fai e afectar ao seu sistema de maneira inesperada.</p>
+">
+
 <!ENTITY phishingBlocked.title "Web sospeitosa de ser unha falsificación!">
 <!ENTITY phishingBlocked.longDesc " <p>Se introduce información persoal nesta páxina pode resultar na usurpación da súa identidade ou outro tipo de acción fraudulenta.</p> <p>Este tipo de falsificación web utilízase nos casos coñecidos como phishing, nos cales utilízanse correos electrónicos e páxinas web fraudulentas para imitar fontes nas que o usuario pode confiar.</p> ">
 

@@ -3,18 +3,20 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "Xeral">
-<!ENTITY itemDisplay.label       "Lectura e visualización">
+<!ENTITY dataChoicesTab.label    "Escolla de datos">
 <!ENTITY itemUpdate.label        "Actualizar">
 <!ENTITY itemNetworking.label    "Rede e espazo no disco">
 <!ENTITY itemCertificates.label  "Certificados">
 
 <!-- General Settings -->
-
-<!ENTITY submitTelemetry.label         "Enviar os datos de rendemento">
-<!ENTITY submitTelemetry.accesskey     "t">
-<!ENTITY telemetryInfoLink.label       "Máis información sobre Telemetry">
 <!ENTITY enableGlodaSearch.label       "Activar indexador de mensaxes">
 <!ENTITY enableGlodaSearch.accesskey   "i">
+<!ENTITY allowHWAccel.label            "Usar a aceleración por hardware cando estea dispoñíbel">
+<!ENTITY allowHWAccel.accesskey        "h">
+<!ENTITY storeType.label               "Tipo de almacenamento de mensaxes para as novas contas:">
+<!ENTITY storeType.accesskey           "T">
+<!ENTITY mboxStore2.label              "Ficheiro por cartafol (mbox)">
+<!ENTITY maildirStore.label            "Ficheiros por mensaxe (maildir)">
 
 <!ENTITY scrolling.label               "Desprazamento">
 <!ENTITY useAutoScroll.label           "Utilizar desprazamento automático">
@@ -36,31 +38,18 @@
 <!ENTITY showReturnReceipts.label      "Avisos de recepción…">
 <!ENTITY showReturnReceipts.accesskey  "r">
 
-<!-- Display and Reading Settings -->
-<!ENTITY reading.caption               "Lectura">
-<!ENTITY display.caption               "Visualización">
-<!ENTITY showCondensedAddresses.label  "Amosar só o nome das persoas da miña axenda de enderezos">
-<!ENTITY showCondensedAddresses.accesskey "d">
+<!-- Data Choices -->
+<!ENTITY telemetrySection.label          "Telemetría">
+<!ENTITY telemetryDesc.label             "Comparta datos de rendemento, uso, hardware e personalizacións sobre o seu cliente de correo con &vendorShortName; para axudarnos a mellorar &brandShortName;">
+<!ENTITY enableTelemetry.label           "Activar a telemetría">
+<!ENTITY enableTelemetry.accesskey       "T">
+<!ENTITY telemetryLearnMore.label        "Máis información">
 
-<!ENTITY autoMarkAsRead.label          "Marcar as mensaxes como lidas automaticamente">
-<!ENTITY autoMarkAsRead.accesskey      "a">
-<!ENTITY markAsReadNoDelay.label       "Inmediatamente ao amosalas">
-<!ENTITY markAsReadNoDelay.accesskey   "I">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label         "Despois de amosalas durante">
-<!ENTITY markAsReadDelay.accesskey     "D">
-<!ENTITY secondsLabel.label            "segundos">
-<!ENTITY openMsgIn.label               "Abrir mensaxes:">
-<!ENTITY openMsgInNewTab.label         "Nunha nova lapela">
-<!ENTITY openMsgInNewTab.accesskey     "l">
-<!ENTITY reuseExpRadio0.label          "Nunha nova xanela de mensaxe">
-<!ENTITY reuseExpRadio0.accesskey      "x">
-<!ENTITY reuseExpRadio1.label          "Nunha xanela de mensaxe existente">
-<!ENTITY reuseExpRadio1.accesskey      "u">
-<!ENTITY closeMsgOnMoveOrDelete.label  "Pechar xanela/lapela da mensaxe ao mover ou eliminar">
-<!ENTITY closeMsgOnMoveOrDelete.accesskey "c">
+<!ENTITY crashReporterSection.label      "Informador de erros">
+<!ENTITY crashReporterDesc.label         "&brandShortName; envía informes de erro para axudar a &vendorShortName; a facer o seu cliente de correo máis estábel  e seguro">
+<!ENTITY enableCrashReporter.label       "Activar o informador de erros">
+<!ENTITY enableCrashReporter.accesskey   "c">
+<!ENTITY crashReporterLearnMore.label    "Máis información">
 
 <!-- Update -->
 <!ENTITY updateApp.label                 "Actualizacións do &brandShortName;:">
