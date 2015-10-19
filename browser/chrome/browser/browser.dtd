@@ -365,18 +365,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoWindowMenu.label "Πρόσφατα κλεισμένα παράθυρα">
 <!ENTITY historyRestoreLastSession.label "Επαναφορά προηγούμενης συνεδρίας">
 
-<!ENTITY showAllHistoryCmd2.label "Show All History">
+<!ENTITY showAllHistoryCmd2.label "Προβολή όλου του ιστορικού">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "Customize">
-<!ENTITY appMenuCustomize.tooltip "Customize the Menu and Toolbars">
-<!ENTITY appMenuCustomizeExit.label "Exit Customize">
-<!ENTITY appMenuCustomizeExit.tooltip "Finish Customizing">
-<!ENTITY appMenuHistory.label "History">
-<!ENTITY appMenuHistory.showAll.label "Show All History">
-<!ENTITY appMenuHistory.clearRecent.label "Clear Recent History…">
+<!ENTITY appMenuCustomize.label "Προσαρμογή">
+<!ENTITY appMenuCustomize.tooltip "Προσαρμογή του μενού και των εργαλειοθηκών">
+<!ENTITY appMenuCustomizeExit.label "Έξοδος από την προσαρμογή">
+<!ENTITY appMenuCustomizeExit.tooltip "Ολοκλήρωση προσαρμογής">
+<!ENTITY appMenuHistory.label "Ιστορικό">
+<!ENTITY appMenuHistory.showAll.label "Προβολή όλου του ιστορικού">
+<!ENTITY appMenuHistory.clearRecent.label "Εκκαθάριση πρόσφατου ιστορικού…">
 <!ENTITY appMenuHistory.restoreSession.label "Restore Previous Session">
-<!ENTITY appMenuHistory.viewSidebar.label "View History Sidebar">
+<!ENTITY appMenuHistory.viewSidebar.label "Προβολή πλευρικής στήλης ιστορικού">
 <!ENTITY appMenuHelp.tooltip "Open Help Menu">
 
 <!ENTITY customizeMenu.addToToolbar.label "Add to Toolbar">
