@@ -4,6 +4,7 @@
 
 <!ENTITY itemFormatting.label             "Formato">
 <!ENTITY itemTags.label                   "Etiquetas">
+<!ENTITY itemAdvanced.label               "Avanzadas">
 
 <!ENTITY style.label                      "Estilo:">
 <!ENTITY style.accesskey                  "l">
@@ -44,3 +45,29 @@
 <!ENTITY fontOptions.label       "Tipos de letra…">
 <!ENTITY colorButton.label       "Cores…">
 <!ENTITY colorButton.accesskey   "C">
+
+<!-- Advanced -->
+<!ENTITY reading.caption                  "Lectura">
+<!ENTITY display.caption                  "Visualización">
+<!ENTITY showCondensedAddresses.label     "Mostrar só o nome das persoas da miña axenda de enderezos">
+<!ENTITY showCondensedAddresses.accesskey "s">
+
+<!ENTITY autoMarkAsRead.label             "Marcar as mensaxes como lidas automaticamente">
+<!ENTITY autoMarkAsRead.accesskey         "a">
+<!ENTITY markAsReadNoDelay.label          "Inmediatamente ao amosalas">
+<!ENTITY markAsReadNoDelay.accesskey      "o">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label            "Despois de amosalas durante">
+<!ENTITY markAsReadDelay.accesskey        "d">
+<!ENTITY secondsLabel.label               "segundos">
+<!ENTITY openMsgIn.label                  "Abrir mensaxes:">
+<!ENTITY openMsgInNewTab.label            "Nunha nova lapela">
+<!ENTITY openMsgInNewTab.accesskey        "h">
+<!ENTITY reuseExpRadio0.label             "Nunha nova xanela de mensaxe">
+<!ENTITY reuseExpRadio0.accesskey         "n">
+<!ENTITY reuseExpRadio1.label             "Nunha xanela de mensaxe existente">
+<!ENTITY reuseExpRadio1.accesskey         "e">
+<!ENTITY closeMsgOnMoveOrDelete.label     "Pechar xanela/lapela da mensaxe ao movela ou eliminala">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "c">

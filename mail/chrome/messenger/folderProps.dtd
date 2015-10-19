@@ -5,17 +5,17 @@
 <!ENTITY folderProps.windowtitle.label           "Propiedades">
 
 <!ENTITY generalInfo.label                       "Información xeral">
-<!ENTITY folderCharsetFallback.label             "Codificación de caracteres alternativa:">
-<!ENTITY folderCharsetFallback.accesskey         "e">
-<!ENTITY folderCharsetEnforce.label              "Aplicar a codificación a todas as mensaxes do cartafol (ignóranse as preferencias de codificación de caracteres de mensaxes individuais, así como a detección automática)">
-<!ENTITY folderCharsetEnforce.accesskey          "A">
+<!ENTITY folderCharsetFallback2.label            "Codificación de texto alternativa:">
+<!ENTITY folderCharsetFallback2.accesskey        "e">
+<!ENTITY folderCharsetEnforce2.label             "Aplicar a codificación a todas as mensaxes do cartafol (ignóranse as preferencias de codificación de texto de mensaxes individuais, así como a detección automática)">
+<!ENTITY folderCharsetEnforce2.accesskey         "A">
 <!ENTITY folderRebuildSummaryFileTip2.label      "Reconstruír índice do ficheiro resumo">
 <!ENTITY folderRebuildSummaryFile2.label         "Reparar o cartafol">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">
 <!ENTITY folderRebuildSummaryFile.explanation    "A veces o ficheiro de índice de cartafol (.msf) dánase e pode que pareza que faltan mensaxes ou que se seguen amosando mensaxes borradas: reparar o cartafol debería resolver estes problemas.">
 <!ENTITY folderIncludeInGlobalSearch.label       "Incluír as mensaxes deste cartafol nos resultados da Busca global">
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "g">
-     
+
 <!ENTITY retention.label "Política de retención">
 <!ENTITY retentionUseAccount.label  "Usar as configuracións da miña conta">
 <!ENTITY retentionUseAccount.accesskey "U">

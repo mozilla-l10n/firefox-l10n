@@ -16,13 +16,13 @@
 <!ENTITY undoCmd.accesskey          "D">
 <!ENTITY redoCmd.label            "Refacer">
 <!ENTITY redoCmd.key            "Y">
-<!ENTITY redoCmd.accesskey          "R">
+<!ENTITY redoCmd.accesskey          "r">
 <!ENTITY cutCmd.label            "Cortar">
 <!ENTITY cutCmd.key              "X">
 <!ENTITY cutCmd.accesskey          "t">
 <!ENTITY copyCmd.label            "Copiar">
 <!ENTITY copyCmd.key            "C">
-<!ENTITY copyCmd.accesskey          "C">
+<!ENTITY copyCmd.accesskey          "o">
 <!ENTITY pasteCmd.label            "Pegar">
 <!ENTITY pasteCmd.key            "V">
 <!ENTITY pasteCmd.accesskey          "P">
