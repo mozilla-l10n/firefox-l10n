@@ -13,6 +13,10 @@
 <!ENTITY pref.dateformat.long "Longo" >
 <!ENTITY pref.dateformat.short "Curto"  >
 
+<!ENTITY pref.timezones.caption "Fuso horario">
+<!ENTITY pref.timezones.label "Seleccione a cidade máis próxima do seu fuso horario:">
+<!ENTITY pref.timezones.accesskey "S">
+
 <!ENTITY pref.defaults.label "Valores predeterminados para os novos elementos">
 <!ENTITY pref.events.label "Eventos">
 <!ENTITY pref.tasks.label "Tarefas">
@@ -28,6 +32,10 @@
 <!ENTITY pref.default_task_offset_current.label "Relativo á hora actual">
 <!ENTITY pref.default_task_offset_start.label "Relativo ao inicio">
 <!ENTITY pref.default_task_offset_next_hour.label "Relativo a próxima hora">
+
+<!ENTITY pref.calendar.todaypane.agenda.caption "Panel de hoxe">
+<!ENTITY pref.soondays.label "A sección proximamente amosa:">
+<!ENTITY pref.soondays.accesskey "x">
 
 <!ENTITY pref.accessibility.label "Accesibilidade" >
 <!ENTITY pref.systemcolors.label "Optimizar as cores para accesibilidade" >
