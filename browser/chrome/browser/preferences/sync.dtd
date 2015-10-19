@@ -74,12 +74,11 @@
 <!ENTITY verifiedManage.label "Gestisci account">
 <!ENTITY verify.label "Verifica email">
 <!ENTITY welcome.description "Ti peu acede a feuggi, segnalibbri, paròlle segrete e atre informaçioin in qualonque scitoaçion con &brandShortName;.">
-<!ENTITY welcome.signIn.label "Acedi">
 <!ENTITY welcome.createAccount.label "Crea 'n account">
 <!ENTITY welcome.useOldSync.label "Informaçioin pe-i utenti che adeuvian 'na vegia verscion de Sync">
 <!ENTITY notSignedIn.label "No ti ê introu.">
 <!ENTITY welcome.signIn.label "Intra">
-
+<!ENTITY signIn.label "Intra">
 
 
 
