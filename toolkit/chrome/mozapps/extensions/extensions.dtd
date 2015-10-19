@@ -71,7 +71,7 @@
 <!ENTITY updates.restart.label                "Վերամեկնարկեք` տեղակայումը գործարկելու համար">
 <!ENTITY updates.noneFound.label              "Թարմացում չի գտնվել">
 <!ENTITY updates.manualUpdatesFound.label     "Տեսնել Առկա Թարմացումները">
-<!ENTITY updates.updateSelected.label         "Տեղակայել Թարմացումները">
+<!ENTITY updates.updateSelected.label         "Տեղադրել Թարմացումները">
 <!ENTITY updates.updateSelected.tooltip       "Տեղակայում է այս ցանկում առկա թարմացումները:">
 <!-- addon actions -->
 
@@ -101,7 +101,7 @@
 <!ENTITY cmd.neverActivate.label              "Երբեք չակտիվացնել                ">
 <!ENTITY cmd.neverActivate.tooltip            "Երբեք չօգտագործել այս հավելումը                ">
 <!ENTITY cmd.stateMenu.tooltip                "Փոխել, երբ այս հավելումը աշխատում է">
-<!ENTITY cmd.installAddon.label               "Տեղակայել">
+<!ENTITY cmd.installAddon.label               "Տեղադրել">
 <!ENTITY cmd.installAddon.accesskey           "Տ">
 <!ENTITY cmd.uninstallAddon.label             "Հեռացնել">
 <!ENTITY cmd.uninstallAddon.accesskey         "Հ">
@@ -203,7 +203,7 @@
 <!ENTITY addon.undoRemove.label               "Հրաժարվել">
 <!ENTITY addon.undoRemove.tooltip             "Պահել այս հավելումը տեղադրված">
 <!ENTITY addon.restartNow.label               "Վերամեկնարկել հիմա">
-<!ENTITY addon.install.label                  "Տեղակայել">
+<!ENTITY addon.install.label                  "Տեղադրել">
 <!ENTITY addon.install.tooltip                "Տեղադրել այս հավելումը">
 <!ENTITY addon.updateNow.label                "Թարմացնել Հիմա">
 <!ENTITY addon.updateNow.tooltip              "Տեղադրել այս հավելման թարմացումը">
@@ -219,7 +219,7 @@
 <!ENTITY eula.title                           "Վերջին օգտագործողի լիցենզիոն համաձայնագիր">
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
-<!ENTITY eula.accept                          "Ընդունել և տեղակայել...">
+<!ENTITY eula.accept                          "Ընդունել և Տեղադրել...">
 
 <!ENTITY settings.path.button.label           "Ընտրել…">
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
