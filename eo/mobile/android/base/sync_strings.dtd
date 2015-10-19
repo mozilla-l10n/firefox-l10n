@@ -21,7 +21,7 @@
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
 <!ENTITY sync.pin.oneline.label '...'>
 <!ENTITY sync.link.show.label 'Montri al mi kiel fari.'>
-<!ENTITY sync.link.advancedsetup.label 'Sperta agordo…'>
+<!ENTITY sync.link.advancedsetup.label 'Spertula agordo…'>
 <!ENTITY sync.link.nodevice.label 'Mi ne havas la aparaton kun mi…'>
 
 <!-- J-PAKE Waiting Screen -->

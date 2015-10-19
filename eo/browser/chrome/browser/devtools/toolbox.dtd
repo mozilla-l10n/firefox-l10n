@@ -47,7 +47,7 @@ values from browser.dtd.  -->
 
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
-<!ENTITY options.context.advancedSettings "Spertaj agordoj">
+<!ENTITY options.context.advancedSettings "Spertulaj agordoj">
 
 <!-- LOCALIZATION NOTE (options.context.inspector): This is the label for
   -  the heading of the Inspector group in the options panel. -->
