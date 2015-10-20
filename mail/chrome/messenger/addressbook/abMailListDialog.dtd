@@ -8,7 +8,7 @@
 <!ENTITY addToAddressBook.label         "Adaugă la: ">
 
 <!ENTITY ListName.label                 "Numele listei: ">
-<!ENTITY ListNickName.label             "Nume scurt: ">
+<!ENTITY ListNickName.label             "Listează pseudonime: ">
 <!ENTITY ListDescription.label          "Descriere: ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label             "Tastați adrese de e-mail pentru a le adăuga în lista de mai jos:">
@@ -18,6 +18,6 @@
 
 <!ENTITY addToAddressBook.accesskey     "A">
 <!ENTITY ListName.accesskey             "l">
-<!ENTITY ListNickName.accesskey         "N">
+<!ENTITY ListNickName.accesskey         "n">
 <!ENTITY ListDescription.accesskey      "e">
 
