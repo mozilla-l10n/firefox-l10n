@@ -169,9 +169,9 @@
 <!ENTITY fxaccount_confirm_account_verification_link "پیوند تایید برای &formatS; ارسال شد">
 <!ENTITY fxaccount_confirm_account_resend_email "ارسال مجدد پست‌الکترونیکی">
 <!ENTITY fxaccount_confirm_account_change_email "آدرس پست الکترونیکی خود را فراموش کرده‌اید؟">
-<!ENTITY fxaccount_confirm_account_verification_link_sent2 "پست‌الکترونیکی تایید ارسال شد">
+<!ENTITY fxaccount_confirm_account_verification_link_sent2 "نامه الکترونیکی برای تایید ارسال شد">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "امکان ارسال تایید برای پست الکترونیکی وجود ندارد">
-
+<!ENTITY fxaccount_resend_unlock_code_button_label "ارسال مجدد پست‌الکترونیکی برای بازکردن قفل">
 <!ENTITY fxaccount_unlock_code_sent " پست الکترونیکی بازکردن حساب کاربری ارسال شد">
 <!ENTITY fxaccount_unlock_code_not_sent "امکان ارسال پست‌الکترونیکی برای بازکردن حساب‌کاربری وجود ندارد">
 
