@@ -32,7 +32,7 @@
 <!ENTITY btnConsoleReflows "Reflows">
 <!ENTITY btnServerLogging.label "Сервер">
 <!ENTITY btnServerLogging.tooltip "Вести лог сообщений, полученных от веб-сервера">
-<!ENTITY btnServerLogging.accesskey "л">
+<!ENTITY btnServerLogging.accesskey "в">
 <!ENTITY btnServerErrors "Ошибки">
 <!ENTITY btnServerInfo "Инфо">
 <!ENTITY btnServerWarnings "Предупреждения">
