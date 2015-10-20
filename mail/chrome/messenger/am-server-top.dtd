@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- extracted from am-server-top.xul -->
+
 
 <!ENTITY messageStorage.label "Üzenettároló">
 <!ENTITY securitySettings.label "Biztonsági beállítások">
@@ -74,7 +74,7 @@
 <!ENTITY abbreviateOff.label "Rövidített névvel (például, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Speciális…">
 <!ENTITY advancedButton.accesskey "c">
-<!ENTITY serverDefaultCharset.label "Alapértelmezett karakterkódolás:">
+<!ENTITY serverDefaultCharset2.label "Alapértelmezett szövegkódolás:">
 <!ENTITY localPath.label "Helyi könyvtár:">
 <!ENTITY localFolderPicker.label "Helyi könyvtár kiválasztása">
 <!ENTITY browseFolder.label "Tallózás…">
@@ -84,3 +84,7 @@
 
 <!ENTITY accountTitle.label "Postafiók beállításai">
 <!ENTITY accountSettingsDesc.label "A következő egy különleges postafiók, amelyhez nem tartoznak személyazonosságok.">
+<!ENTITY storeType.label "Üzenettároló típusa:">
+<!ENTITY storeType.accesskey "t">
+<!ENTITY mboxStore2.label "Egy fájl mappánként (mbox)">
+<!ENTITY maildirStore.label "Egy fájl üzenetenként (maildir)">

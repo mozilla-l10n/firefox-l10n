@@ -25,6 +25,10 @@
 <!ENTITY contextManual.accesskey "K">
 <!ENTITY contextBeforeCls.label "Szűrők alkalmazása a levélszemét-ellenőrzés előtt">
 <!ENTITY contextAfterCls.label "Szűrők alkalmazása a levélszemét-ellenőrzés után">
+<!ENTITY contextOutgoing.label "Küldés után">
+<!ENTITY contextOutgoing.accesskey "s">
+<!ENTITY contextArchive.label "Archiválás">
+<!ENTITY contextArchive.accesskey "A">
 
 <!ENTITY filterActionDesc.label "Műveletek végrehajtása:">
 <!ENTITY filterActionDesc.accesskey "v">

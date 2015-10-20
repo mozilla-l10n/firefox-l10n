@@ -1,15 +1,15 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Window title -->
+
 <!ENTITY windowTitle.label            "Oldal közzététele">
 <!ENTITY windowTitleSettings.label    "Közzététel beállításai">
 <!ENTITY publishTab.label             "Közzététel">
 <!ENTITY settingsTab.label            "Beállítások">
 <!ENTITY publishButton.label          "Közzététel">
-
 <!-- Publish Tab Panel -->
+
 <!ENTITY siteList.label               "Webhely neve:">
 <!ENTITY siteList.accesskey           "W">
 <!ENTITY siteList.tooltip             "Válassza ki a webhelyet, ahol közzéteszi az anyagot">
@@ -39,9 +39,9 @@
 <!ENTITY setDefaultButton.label       "Legyen ez az alapértelmezett">
 <!ENTITY setDefaultButton.accesskey   "L">
 <!ENTITY removeButton.label           "Webhely eltávolítása">
-<!ENTITY removeButton.accesskey       "E">
-
+<!ENTITY removeButton.accesskey       "e">
 <!-- Settings Tab Panel -->
+
 <!ENTITY publishSites.label           "Webhelyek">
 <!ENTITY serverInfo.label             "A kiszolgáló adatai">
 <!ENTITY loginInfo.label              "Bejelentkezési adatok">

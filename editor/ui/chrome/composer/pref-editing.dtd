@@ -5,7 +5,7 @@
 <!ENTITY  pref.editing.title        "Új oldal beállításai">
 
 <!ENTITY  authorName.label          "Szerző:">
-<!ENTITY authorName.accesskey      "S">
+<!ENTITY  authorName.accesskey      "S">
 <!ENTITY  pageColorHeader           "Weboldal alapértelmezett kinézete">
 
 <!ENTITY defaultColors.label        "A látogató böngészőjének alapértelmezett színei">

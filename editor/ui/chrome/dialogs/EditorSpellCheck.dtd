@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Window title -->
+
 <!ENTITY windowTitle.label "Helyesírás-ellenőrzés">
 
 <!ENTITY misspelledWord.label "Helytelen szó:">
@@ -20,16 +20,16 @@
 <!ENTITY replaceButton.accessKey "C">
 <!ENTITY replaceAllButton.label "Mindet cseréli">
 <!ENTITY replaceAllButton.accessKey "i">
-<!ENTITY stopButton.label "Leállítás">
-<!ENTITY stopButton.accessKey "L">
+
+
 <!ENTITY userDictionary.label "Saját szótár:">
 <!ENTITY moreDictionaries.label "További szótárak letöltése…">
 <!ENTITY addToUserDictionaryButton.label "Szó felvétele">
 <!ENTITY addToUserDictionaryButton.accessKey "f">
 <!ENTITY editUserDictionaryButton.label "Szerkesztés…">
 <!ENTITY editUserDictionaryButton.accessKey "z">
-<!ENTITY recheckButton.label "Újraellenőrzés">
-<!ENTITY recheckButton.accessKey "Ú">
+
+
 <!ENTITY closeButton.label "Bezárás">
 <!ENTITY closeButton.accessKey "B">
 <!ENTITY sendButton.label "Küldés">

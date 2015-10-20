@@ -16,8 +16,8 @@
 <!ENTITY manageSubscriptions.accesskey "F">
 
 <!ENTITY feedWindowTitle.label "Hírforrásfiók varázsló">
-
 <!-- entities from rss.rdf -->
+
 <!ENTITY feeds.accountName "Blogok és hírforrások">
 <!ENTITY feeds.wizardShortName "Hírforrások">
 <!ENTITY feeds.wizardLongName "Blogok és hírforrások">

@@ -10,9 +10,9 @@
 
 <!ENTITY doNotTrack.label                 "Nem akarom, hogy a webhelyek kövessenek">
 <!ENTITY doNotTrack.accesskey             "N">
-<!ENTITY trackProtect.label               "Ismert tevékenység-követő webhelyek elkerülése">
-<!ENTITY trackProtect.accesskey           "n">
-<!ENTITY warnTrackContent.label           "Figyelmeztetés tevékenység-követés érzékelésekor">
+<!ENTITY trackProtect.label               "Ismert webhelyek követési tevékenységének megakadályozása">
+<!ENTITY trackProtect.accesskey           "k">
+<!ENTITY warnTrackContent.label           "Figyelmeztetés ismert követési tevékenységek érzékelésekor">
 <!ENTITY warnTrackContent.accesskey       "F">
 
 <!ENTITY geoLocation.label                "Helyfüggő böngészés">

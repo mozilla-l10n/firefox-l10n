@@ -57,7 +57,7 @@
 <!ENTITY throbber.tooltip             "Ugrás a &vendorShortName; honlapjára">
 
 <!ENTITY locationBar.tooltip          "Írja be a keresendő szót, a kulcsszót vagy a webcímet">
-<!ENTITY locationBar.accesskey        "d">
+<!ENTITY locationBar.accesskey        "e">
 <!ENTITY locationBar.title            "Hely">
 <!ENTITY proxyIcon.tooltip            "Az ikon áthúzásával hivatkozást hozhat létre erre az oldalra">
 

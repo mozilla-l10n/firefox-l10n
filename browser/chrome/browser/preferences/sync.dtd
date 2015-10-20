@@ -1,22 +1,21 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- The page shown when not logged in... -->
+
 <!ENTITY setupButton.label          "A &syncBrand.fullName.label; beállítása">
 <!ENTITY setupButton.accesskey      "A">
 <!ENTITY weaveDesc.label            "A &syncBrand.fullName.label; lehetővé teszi az előzmények, könyvjelzők, jelszavak és megnyitott lapok elérését minden eszközön.">
-
 <!-- The page shown when logged in... -->
-
 <!-- Login error feedback -->
+
+
 <!ENTITY updatePass.label             "Frissítés">
 <!ENTITY resetPass.label              "Törlés">
-
 <!-- Manage Account -->
+
 <!ENTITY manageAccount.label          "Fiók kezelése">
 <!ENTITY manageAccount.accesskey      "F">
-<!ENTITY viewQuota.label              "Kvóta megtekintése">
 <!ENTITY changePassword2.label        "Jelszó módosítása…">
 <!ENTITY myRecoveryKey.label          "Saját helyreállítókulcs">
 <!ENTITY resetSync2.label             "Sync alaphelyzet…">
@@ -36,39 +35,44 @@
 <!ENTITY engine.prefs.accesskey     "B">
 <!ENTITY engine.addons.label        "Kiegészítők">
 <!ENTITY engine.addons.accesskey    "K">
-
 <!-- Device Settings -->
-<!ENTITY syncDeviceName.label       "Eszköznév:">
-<!ENTITY syncDeviceName.accesskey   "e">
-<!ENTITY unlinkDevice.label           "Eszköz deaktiválása">
 
+<!ENTITY syncDeviceName.label       "Eszköznév:">
+<!ENTITY syncDeviceName.accesskey   "E">
+<!ENTITY fxaSyncDeviceName.label       "Eszköznév">
+<!ENTITY changeSyncDeviceName.label "Eszköznév módosítása…">
+<!ENTITY cancelChangeSyncDeviceName.label "Mégse">
+<!ENTITY saveChangeSyncDeviceName.label "Mentés">
+<!ENTITY unlinkDevice.label           "Eszköz deaktiválása">
 <!-- Footer stuff -->
+
 <!ENTITY prefs.tosLink.label        "A szolgáltatás feltételei">
 <!ENTITY prefs.ppLink.label         "Adatvédelmi irányelvek">
-
 <!-- Firefox Accounts stuff -->
+
 <!ENTITY fxaPrivacyNotice.link.label "Adatvédelmi megjegyzés">
 <!ENTITY determiningAcctStatus.label     "Fiókállapot meghatározása…">
-
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
-<!ENTITY signedInUnverified.beforename.label "">
-<!ENTITY signedInUnverified.aftername.label "nincs ellenőrizve.">
 
+<!ENTITY signedInUnverified.beforename.label "A(z) ">
+<!ENTITY signedInUnverified.aftername.label "cím nincs ellenőrizve.">
 <!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
 signedInLoginFailure.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
+
 <!ENTITY signedInLoginFailure.beforename.label "Jelentkezzen be ">
 <!ENTITY signedInLoginFailure.aftername.label " újracsatlakoztatásához">
 
 <!ENTITY notSignedIn.label           "Nincs bejelentkezve.">
 <!ENTITY signIn.label                "Bejelentkezés">
-<!ENTITY manage.label                "Kezelés">
+<!ENTITY profilePicture.tooltip      "Profilkép módosítása">
+
 <!ENTITY disconnect.label            "Bontás…">
 <!ENTITY verify.label                "E-mail ellenőrzése">
 <!ENTITY forget.label                "E-mail elfelejtése">
@@ -78,3 +82,17 @@ both, to better adapt this sentence to their language.
 <!ENTITY welcome.createAccount.label "Fiók létrehozása">
 
 <!ENTITY welcome.useOldSync.label "A Sync régebbi verzióját használja?">
+
+<!ENTITY signedOut.caption            "Vigye magával a webet">
+<!ENTITY signedOut.description        "Szinkronizálja könyvjelzőit, előzményeit, lapjait, jelszavait, kiegészítőit és beállításait minden eszközén.">
+<!ENTITY signedOut.accountBox.title   "Kapcsolódjon egy &syncBrand.fxAccount.label;kal">
+<!ENTITY signedOut.accountBox.create  "Fiók létrehozása">
+<!ENTITY signedOut.accountBox.signin  "Bejelentkezés">
+
+<!ENTITY signedIn.engines.label       "Szinkronizáljon minden eszközén">
+
+<!ENTITY mobilePromo.start            "Töltse le a Firefox for ">
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+<!ENTITY mobilePromo.androidLink      "Android™-ot">
+<!ENTITY mobilePromo.end              " a mobileszközével való szinkronizáláshoz.">
+<!ENTITY androidAttribution           "Az Android a Google Inc. védjegye.">

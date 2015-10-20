@@ -15,5 +15,6 @@
 <!ENTITY aboutSupport.accountsConnSecurity "Kapcsolat biztonsága">
 <!ENTITY aboutSupport.accountsAuthMethod "Hitelesítési módszer">
 <!ENTITY aboutSupport.accountsDefault "Alapbeállítás?">
+<!ENTITY aboutSupport.identityName "Felhasználó">
 
 <!ENTITY aboutSupport.sendViaEmail.label "Küldés e-mailben">

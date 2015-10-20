@@ -3,18 +3,20 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "Általános">
-<!ENTITY itemDisplay.label       "Olvasás és megjelenítés">
+<!ENTITY dataChoicesTab.label    "Adatküldések">
 <!ENTITY itemUpdate.label        "Frissítés">
 <!ENTITY itemNetworking.label    "Hálózat és lemezterület">
 <!ENTITY itemCertificates.label  "Tanúsítványok">
-
 <!-- General Settings -->
 
-<!ENTITY submitTelemetry.label         "Teljesítményadatok küldése">
-<!ENTITY submitTelemetry.accesskey     "T">
-<!ENTITY telemetryInfoLink.label       "További információ a telemetriáról">
 <!ENTITY enableGlodaSearch.label       "Globális keresés és indexelő engedélyezése">
 <!ENTITY enableGlodaSearch.accesskey   "G">
+<!ENTITY allowHWAccel.label            "Hardveres gyorsítás használata, ha elérhető">
+<!ENTITY allowHWAccel.accesskey        "H">
+<!ENTITY storeType.label               "Üzenettároló és típus új fiókokhoz:">
+<!ENTITY storeType.accesskey           "T">
+<!ENTITY mboxStore2.label              "Egy fájl mappánként (mbox)">
+<!ENTITY maildirStore.label            "Egy fájl üzenetenként (maildir)">
 
 <!ENTITY scrolling.label               "Görgetés">
 <!ENTITY useAutoScroll.label           "Automatikus görgetés">
@@ -26,7 +28,7 @@
 <!ENTITY alwaysCheckDefault.label      "Indításkor ellenőrzés, hogy a &brandShortName;-e az alapértelmezett levelező">
 <!ENTITY alwaysCheckDefault.accesskey  "I">
 <!ENTITY searchIntegration.label       "A(z) &searchIntegration.engineName; kereshet az üzenetek között">
-<!ENTITY searchIntegration.accesskey   "S">
+<!ENTITY searchIntegration.accesskey   "s">
 <!ENTITY checkDefaultsNow.label        "Ellenőrzés most…">
 <!ENTITY checkDefaultsNow.accesskey    "E">
 <!ENTITY configEditDesc.label          "Haladó beállítások">
@@ -35,37 +37,24 @@
 <!ENTITY returnReceiptsInfo.label      "A &brandShortName; tértivevény-kezelésének beállítása">
 <!ENTITY showReturnReceipts.label      "Tértivevények…">
 <!ENTITY showReturnReceipts.accesskey  "T">
+<!-- Data Choices -->
 
-<!-- Display and Reading Settings -->
-<!ENTITY reading.caption               "Olvasás">
-<!ENTITY display.caption               "Megjelenítés">
-<!ENTITY showCondensedAddresses.label  "Csak a név megjelenítése a címjegyzékben szereplő személyeknél">
-<!ENTITY showCondensedAddresses.accesskey "C">
+<!ENTITY telemetrySection.label          "Telemetria">
+<!ENTITY telemetryDesc.label             "Adatokat küld a &vendorShortName;nak az e-mail kliens teljesítményéről, a felhasználásról, a hardverről és az egyéni beállításokról, hogy a &brandShortName; jobb lehessen.">
+<!ENTITY enableTelemetry.label           "Telemetria bekapcsolása">
+<!ENTITY enableTelemetry.accesskey       "T">
+<!ENTITY telemetryLearnMore.label        "További tudnivalók">
 
-<!ENTITY autoMarkAsRead.label          "Üzenetek automatikus megjelölése olvasottként">
-<!ENTITY autoMarkAsRead.accesskey      "A">
-<!ENTITY markAsReadNoDelay.label       "Megjelenítéskor azonnal">
-<!ENTITY markAsReadNoDelay.accesskey   "M">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label         "Megjelenítés után">
-<!ENTITY markAsReadDelay.accesskey     "e">
-<!ENTITY secondsLabel.label            "másodperc múlva">
-<!ENTITY openMsgIn.label               "Üzenetek megnyitása:">
-<!ENTITY openMsgInNewTab.label         "Új üzenetlapon">
-<!ENTITY openMsgInNewTab.accesskey     "l">
-<!ENTITY reuseExpRadio0.label          "Új üzenetablakban">
-<!ENTITY reuseExpRadio0.accesskey      "z">
-<!ENTITY reuseExpRadio1.label          "Létező üzenetablakban">
-<!ENTITY reuseExpRadio1.accesskey      "l">
-<!ENTITY closeMsgOnMoveOrDelete.label  "Üzenetablak/-lap bezárása áthelyezéskor vagy törléskor">
-<!ENTITY closeMsgOnMoveOrDelete.accesskey "z">
-
+<!ENTITY crashReporterSection.label      "Hibajelentő">
+<!ENTITY crashReporterDesc.label         "A &brandShortName; hibajelentéseket küld, hogy a &vendorShortName; stabilabbá és biztonságosabbá tehesse e-mail kliensét">
+<!ENTITY enableCrashReporter.label       "Hibajelentő bekapcsolása">
+<!ENTITY enableCrashReporter.accesskey   "H">
+<!ENTITY crashReporterLearnMore.label    "További tudnivalók">
 <!-- Update -->
+
 <!ENTITY updateApp.label                 "&brandShortName; frissítések:">
 <!ENTITY updateAuto.label                "Frissítések automatikus telepítése (ez ajánlott a maximális biztonság érdekében)">
-<!ENTITY updateAuto.accesskey            "A">
+<!ENTITY updateAuto.accesskey            "a">
 <!ENTITY updateCheck.label               "Frissítések keresése, de a telepítés kézzel történik">
 <!ENTITY updateCheck.accesskey           "k">
 <!ENTITY updateManual.label              "Ne legyen frissítve (nem ajánlott a biztonsági kockázat miatt">
@@ -77,8 +66,8 @@
 
 <!ENTITY useService.label                "Háttérben futó szolgáltatás intézze a frissítést">
 <!ENTITY useService.accesskey            "H">
-
 <!-- Networking and Disk Space -->
+
 <!ENTITY showSettings.label            "Beállítások…">
 <!ENTITY showSettings.accesskey        "B">
 <!ENTITY proxiesConfigure.label        "A &brandShortName; internetkapcsolatának megadása">
@@ -92,20 +81,20 @@
 <!ENTITY offlineCompactFolders.label     "Minden mappa tömörítése, ha a megtakarított hely több lenne, mint">
 <!ENTITY offlineCompactFolders.accesskey "t">
 <!ENTITY offlineCompactFoldersMB.label   "MB összesen">
-
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
+
 <!ENTITY useCacheBefore.label            "Legfeljebb">
 <!ENTITY useCacheBefore.accesskey        "L">
 <!ENTITY useCacheAfter.label             "MB hely a gyorsítótárnak">
 <!ENTITY clearCacheNow.label             "Törlés most">
 <!ENTITY clearCacheNow.accesskey         "T">
-
 <!-- Certificates -->
+
 <!ENTITY certSelection.description       "Ha a kiszolgáló elkéri a személyes tanúsítványt:">
 <!ENTITY certs.auto                      "Automatikus választás">
 <!ENTITY certs.auto.accesskey            "u">
@@ -117,4 +106,4 @@
 <!ENTITY viewCertificates.label         "Tanúsítványok megjelenítése">
 <!ENTITY viewCertificates.accesskey     "T">
 <!ENTITY viewSecurityDevices.label      "Adatvédelmi eszközök">
-<!ENTITY viewSecurityDevices.accesskey  "D">
+<!ENTITY viewSecurityDevices.accesskey  "d">

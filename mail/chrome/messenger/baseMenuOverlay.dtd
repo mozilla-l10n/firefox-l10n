@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Help Menu -->
+
 <!ENTITY helpMenu.label "Súgó">
 <!ENTITY helpMenu.accesskey "S">
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
@@ -12,7 +12,7 @@
 <!ENTITY helpTroubleshootingInfo.label     "Hibakeresési információ">
 <!ENTITY helpTroubleshootingInfo.accesskey "H">
 <!ENTITY helpSafeMode.label     "Újraindítás letiltott kiegészítőkkel…">
-<!ENTITY helpSafeMode.accesskey "R">
+<!ENTITY helpSafeMode.accesskey "r">
 <!ENTITY releaseCmd2.label "Verzióinformáció">
 <!ENTITY releaseCmd2.accesskey "V">
 <!ENTITY whatsNewCmd.label "Újdonságok">

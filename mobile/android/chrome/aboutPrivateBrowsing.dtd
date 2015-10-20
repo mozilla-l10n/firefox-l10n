@@ -2,12 +2,21 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                  "Privát böngészés">
+<!ENTITY privatebrowsingpage.title "Privát böngészés">
+<!-- Localisation note: the plus sign here is a shorthand way of expressing the word "and". Contextually the privatebrowsingpage.title.private string
+                        is used as a title, with the privatebrowsingpage.title string preceding it but on a separate line.
+                        So the final line will say "Private Browsing + Tracking Protection". -->
 
-<!ENTITY privatebrowsingpage.issueDesc.private      "Új privát lapot nyitott.">
-<!ENTITY privatebrowsingpage.issueDesc.normal       "Jelenleg nincs privát lapon.">
+<!ENTITY privatebrowsingpage.title.private "+ védelem követés ellen">
+<!-- Localization note (privatebrowsingpage.title.normal1): "Private Browsing"
+     is capitalized in English to be consistent with our existing uses of the
+     term. -->
+<!ENTITY privatebrowsingpage.title.normal1 "Nincs privát böngészésben">
 
-<!ENTITY privatebrowsingpage.description            "A privát lapokon a &brandShortName; nem tartja meg a böngészés előzményeit, a keresés előzményeit, a letöltés előzményeit, az űrlapok előzményeit, a sütiket, illetve az ideiglenes internetfájlokat. A letöltött fájlok és a könyvjelzők viszont megmaradnak.">
-<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+<!-- Localization note (privatebrowsingpage.description.normal2): "Private
+     Browsing is capitalized in English to be consistent with our existing uses
+     of the term. -->
+<!ENTITY privatebrowsingpage.description.normal2 "Privát böngészésben nem tároljuk böngészési előzményeit vagy sütiket. Az új könyvjelzők és a letöltött fájlok továbbra is a készülékére lesznek mentve.">
 
-<!ENTITY privatebrowsingpage.moreInfo               "Bár ezen az eszközön nem lesznek tárolva a böngészési előzmények, az internetszolgáltatója ettől függetlenül is ellenőrizheti, hogy milyen oldalakat látogat meg.">
+<!ENTITY privatebrowsingpage.link.private "Szeretne többet tudni?">
+<!ENTITY privatebrowsingpage.link.normal "Új privát böngészőlap megnyitása">

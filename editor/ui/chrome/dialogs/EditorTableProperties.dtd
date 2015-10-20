@@ -64,8 +64,8 @@
 <!ENTITY cellAlignJustify.label           "Sorkizárás">
 <!ENTITY cellInheritColor.label           "(Táblázat háttere)">
 <!ENTITY cellUseCheckboxHelp.label        "A jelölőnégyzetek használata a változtatandó tulajdonságok megadására">
-
 <!-- Used in both Table and Cell panels  -->
+
 <!ENTITY size.label                       "Méret">
 <!ENTITY pixels.label                     "képpont">
 <!ENTITY backgroundColor.label            "Háttérszín:">
