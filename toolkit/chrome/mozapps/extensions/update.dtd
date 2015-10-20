@@ -23,7 +23,8 @@ pengaya ini telah tersedia.">
 
 <!ENTITY  found.wizard.title               "Ditemukan Pengaya yang kompatibel">
 <!ENTITY  found.top.label                 "Pilih Pengaya yang akan dipasang:">
-<!ENTITY  found.disabledXPinstall.label   "Versi baru tidak dapat dipasang karena pemasangan perangkat lunak sedang dimatikan. Anda dapat mengubah pengaturan berikut.">
+<!ENTITY  found.disabledXPinstall.label   "Versi baru tidak dapat dipasang karena pemasangan perangkat lunak sedang dimatikan. 
+Anda dapat mengubah pengaturan berikut.">
 <!ENTITY  found.enableXPInstall.label     "Izinkan situs web untuk memasang perangkat lunak">
 <!ENTITY  found.enableXPInstall.accesskey "a">
 
@@ -34,12 +35,14 @@ pengaya ini telah tersedia.">
 <!ENTITY  noupdates.intro.desc            "&brandShortName; tidak bisa menemukan versi baru dari 
 pengaya Anda yang tidak kompatibel.">
 <!ENTITY  noupdates.error.desc            "Terjadi masalah saat mencoba memeriksa versi baru.">
-<!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; akan memeriksa secara periodik dan memberitahukan jika versi pengaya yang kompatibel telah ditemukan.">
+<!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; akan memeriksa secara periodik dan 
+memberitahukan jika versi pengaya yang kompatibel telah ditemukan.">
 
 <!ENTITY  finished.wizard.title           "Pengaya yang kompatibel telah terpasang">
 <!ENTITY  finished.top.label              "&brandShortName; telah memasang versi baru Pengaya.">
 <!ENTITY  finished.checkDisabled.desc     "&brandShortName; bisa memeriksa secara periodik dan memberitahukan jika versi baru Pengaya ditemukan.">
-<!ENTITY  finished.checkEnabled.desc      "&brandShortName; akan memeriksa secara periodik dan memberitahukan jika versi baru Pengaya ditemukan.">
+<!ENTITY  finished.checkEnabled.desc      "&brandShortName; akan memeriksa secara periodik dan 
+memberitahukan jika versi baru Pengaya ditemukan.">
 
 <!ENTITY  adminDisabled.wizard.title      "Gagal Memeriksa Versi Baru">
 <!ENTITY  adminDisabled.warning.label     "Pemeriksaan versi baru Pengaya yang tidak kompatibel tidak dimungkinkan karena pemasangan perangkat lunak untuk &brandShortName; sedang dimatikan. 
