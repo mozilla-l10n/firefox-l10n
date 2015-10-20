@@ -590,8 +590,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY doorhanger_tracking_title "Ganayan jejebu">
 <!ENTITY doorhanger_tracking_state_enabled "Tunante">
 <!ENTITY doorhanger_tracking_state_disabled "Kayante">
-
-
+<!ENTITY doorhanger_tracking_message_enabled1 "Ir na boroyaŋ gagay kaŋ ceeci ka war interneti donaa gana.">
+<!ENTITY doorhanger_tracking_message_disabled2 "A ga hin ka tee kaŋ moɲoo woo jeroo ga war ceeciyanoo gana.">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "Bay ka tonton">
@@ -602,6 +602,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "Sutura bayhayey hun">
 <!ENTITY private_data_fail "Sutura bayhaya fooyaŋ mana hin ka hun">
 
+<!ENTITY bookmarkhistory_button_import "Zaa">
 <!ENTITY bookmarkhistory_import_both "Doo-šilbawey nda taariki zaa 
 Android ra">
 <!ENTITY bookmarkhistory_import_bookmarks "Doo-šilbawey zaa 
@@ -646,7 +647,7 @@ Android ra">
 <!ENTITY guest_session_dialog_continue "Koy jine">
 <!ENTITY guest_session_dialog_cancel "Naŋ">
 <!ENTITY new_guest_session_title "&brandShortName; ga tunandi taaga">
-
+<!ENTITY new_guest_session_text2 "Boraa kaŋ ga goy nd\u0027a ši hin ka dii war hunday ceeciyan bayhayey (sanda šennikufal gaabuntey, taariki wala doo-šilbawey).\n\nWaati kaŋ war yawoo ben, nga ceeciyan bayhayey ga tuusandi nda war goywaatoo ga yeeti dogoo ra.">
 <!ENTITY guest_browsing_notification_title "Yaw naaru n\u0027 ka tunandi">
 <!ENTITY guest_browsing_notification_text "Karkar to fatta">
 
@@ -666,6 +667,8 @@ Android ra">
      is a reserved caracter. In order to display one percent sign in the result of getString,
      double percent signs must be inserted in the format string.
      This entity is used in the zoomed view to display the zoom factor-->
+
+<!ENTITY percent "&formatS;&#037;&#037;">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
@@ -690,6 +693,7 @@ Android ra">
 
 <!ENTITY find_matchcase "Aa">
 
+<!ENTITY intent_uri_cannot_open "Ši hin ka doboo feeri">
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
      above a QR reader that is actively scanning for QR codes.  The expected QR
