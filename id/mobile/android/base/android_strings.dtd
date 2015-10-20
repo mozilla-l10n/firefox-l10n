@@ -175,8 +175,8 @@
 <!ENTITY pref_search_hint "KIAT: Tambahkan situs apa saja ke daftar mesin pencari dengan menekan lama pada bidang pencarian lalu mengetuk ikon &formatI;.">
 <!ENTITY pref_category_devtools "Alat pengembang">
 <!ENTITY pref_developer_remotedebugging "Pendebugan daring">
-
-
+<!ENTITY pref_developer_remotedebugging_usb "Pendebugan daring via USB">
+<!ENTITY pref_developer_remotedebugging_wifi "Pendebugan daring via Wi-Fi">
 
 <!ENTITY pref_category_logins "Info masuk">
 <!ENTITY pref_remember_signons2 "Ingat info masuk">
