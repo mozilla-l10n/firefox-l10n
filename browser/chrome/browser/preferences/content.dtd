@@ -7,7 +7,7 @@
 <!ENTITY blockPopups.accesskey "о">
 <!ENTITY notificationsPolicy.label "Уведомления">
 <!ENTITY notificationsPolicyDesc.label "Выберите, каким сайтам разрешено отображать уведомления">
-<!ENTITY notificationsPolicyButton.accesskey "и">
+<!ENTITY notificationsPolicyButton.accesskey "а">
 <!ENTITY notificationsPolicyButton.label "Выбрать…">
 <!ENTITY popupExceptions.label "Исключения…">
 <!ENTITY popupExceptions.accesskey "ю">
