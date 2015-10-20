@@ -110,7 +110,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "A">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; ಗೆ ಸೈನ್-ಇನ್ ಆಗು">
-
+<!ENTITY fxaSignedIn.tooltip "ತೆಗೆ &syncBrand.shortName.label; ಇಚ್ಛೆಗಳು">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; ಗೆ ಮತ್ತೆ ಸಂಪರ್ಕ ಹೊಂದು">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; ಸ್ವಲ್ಪದರಲ್ಲಿ ಸಿಂಕ್ ಆಗಲು ಪ್ರಾರಂಭಿಸುವುದು.">
@@ -395,6 +395,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "ಟ್ಯಾಬ್‌ಗೆ ಬದಲಾಯಿಸು:">
 
+<!ENTITY urlbar.searchSuggestionsNotification.question "ನಿಮ್ಮ ಹುಡುಕುವ ಅನುಭವವನ್ನು ಸಲಹೆಗಳಿಂದ ಉತ್ತಮಗೊಳಿಸಲು ಬಯಸುವಿರಾ?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ…">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "ಇಲ್ಲ">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "ಹೌದು">
@@ -687,13 +688,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connectionSecure "ಸುರಕ್ಷಿತ ಸಂಪರ್ಕ">
 <!ENTITY identity.connectionNotSecure "ಸಂಪರ್ಕವು ಸುರಕ್ಷಿತವಾಗಿಲ್ಲ">
-
+<!ENTITY identity.connectionFile "ನಿಮ್ಮ ಗಣಕದಲ್ಲಿ ಈ ಪುಟವನ್ನು ಶೇಖರಿಸಿಡಲಾಗಿದೆ.">
 <!ENTITY identity.connectionVerified "ನೀವು ಈ ತಾಣಕ್ಕೆ ಸುರಕ್ಷಿತವಾಗಿ ಸಂಪರ್ಕ ಹೊಂದಿದ್ದೀರೆಂದು &brandShortName; ಪರಿಶೀಲಿಸಿದೆ, ನಿರ್ವಹಿಸಿರುವುದು:">
 <!ENTITY identity.connectionInternal "ಇದು ಸುರಕ್ಷಿತ &brandShortName; ಪುಟ">
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.passiveLoaded "ಪುಟದ ಕೆಲ ಭಾಗಗಳು ಸುರಕ್ಷಿತವಾಗಿಲ್ಲ(ಚಿತ್ರಗಳಂತಹ).">
-
-
+<!ENTITY identity.activeLoaded "ಈ ಪುಟದಲ್ಲಿ ಸಂರಕ್ಷಣೆಯನ್ನು ನೀವು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿದ್ದೀರಿ.">
+<!ENTITY identity.weakEncryption "ಈ ಪುಟವು ನಿಶ್ಶಕ್ತ ಎನ್‌ಕ್ರಿಪ್ಷನ್ ನನ್ನು ಬಳಸುತ್ತದೆ.">
 <!-- Strings for connection state warnings in the subview. -->
 
 
@@ -784,7 +785,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "ಹಂಚಲು ಮೈಕ್ರೊಫೋನ್:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
-
+<!ENTITY getUserMedia.audioCapture.label "ಹಾಳೆಯಿಂದ ಆಡಿಯೋವನ್ನು ಹಂಚಲಾಗುತ್ತದೆ.">
 <!ENTITY getUserMedia.allWindowsShared.message "ನಿಮ್ಮ ತೆರೆಯಲ್ಲಿರುವ ಎಲ್ಲಾ ಗೋಚರಿಸುವ ಕಿಟಕಿಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳಲಾಗುತ್ತದೆ.">
 
 

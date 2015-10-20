@@ -57,5 +57,6 @@
 <!ENTITY trackingProtection.state.disabled     "OFF">
 
 
-
-
+<!ENTITY trackingProtection.disable            "ಜಾಡು ಇರಿಸುವಿಕೆಗೆ ರಕ್ಷಣೆಯನ್ನು ನಿಲ್ಲಿಸಿ">
+<!ENTITY trackingProtection.enable             "ಜಾಡು ಇರಿಸುವಿಕೆಗೆ ರಕ್ಷಣೆಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ">
+<!ENTITY trackingProtection.startTour1         "ಇದು ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ ನೋಡಿ">
