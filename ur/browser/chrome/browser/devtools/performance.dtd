@@ -11,6 +11,10 @@
 <!-- LOCALIZATION NOTE (performanceUI.startRecording/performanceUI.stopRecording): These are
   -  the labels shown on the main recording buttons to start/stop recording. -->
 
+
+
+<!ENTITY performanceUI.startRecording "کارکردگی ریکارڈ کرنا شروع کریں">
+<!ENTITY performanceUI.stopRecording  "کارکردگی ریکارڈ کرنا بند کریں">
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusTooltip): This string
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.nonE10SBuild): This string
@@ -38,7 +42,7 @@
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
 
-<!ENTITY performanceUI.toolbar.js-calltree "شجر کو کال کریں">
+
 
 <!ENTITY performanceUI.toolbar.memory-calltree "اختصام">
 
@@ -48,9 +52,11 @@
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
+<!ENTITY performanceUI.table.totalDuration            "کل وقت">
 
 
 
+<!ENTITY performanceUI.table.totalPercentage          "کل لاگت">
 
 
 
@@ -66,6 +72,8 @@
   -  is displayed next to the filter button-->
 <!-- LOCALIZATION NOTE (performanceUI.options.gear.tooltiptext): This is the
   -  tooltip for the options button. -->
+
+<!ENTITY performanceUI.options.gear.tooltiptext "کارکردگی ترجیحات تشکیل دیں">
 <!-- LOCALIZATION NOTE (performanceUI.invertTree): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's call tree. -->
 
@@ -83,6 +91,8 @@
 <!-- LOCALIZATION NOTE (performanceUI.enableMemory): This string
   -  is displayed next to a checkbox determining whether or not memory
   -  measurements are enabled. -->
+
+<!ENTITY performanceUI.enableMemory             "میموری ریکارڈ کریں">
 
 <!-- LOCALIZATION NOTE (performanceUI.enableAllocations): This string
   -  is displayed next to a checkbox determining whether or not allocation
