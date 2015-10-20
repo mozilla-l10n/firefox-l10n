@@ -136,6 +136,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "Automáticamente insertar corchetes de cierre">
 <!ENTITY prefs_options_keybindings "Combinaciones de teclas">
 <!ENTITY prefs_options_keybindings_default "Por defecto">
+<!ENTITY prefs_options_autosavefiles "Autoguardar archivos">
+<!ENTITY prefs_options_autosavefiles_tooltip "Automática guardar archivos editados antes de ejecutar el proyecto">
 
 <!-- Permissions Table -->
 <!ENTITY permissionstable_title "Tabla de permisos">
