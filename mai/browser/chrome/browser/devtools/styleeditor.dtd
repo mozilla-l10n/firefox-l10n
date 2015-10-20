@@ -10,7 +10,7 @@
      on web development on the web. -->
 
 
-<!ENTITY newButton.label            "नव">
+<!ENTITY newButton.label            "नव (N)">
 <!ENTITY newButton.tooltip          "दस्तावेजमे नव स्टाइल शीट बनाउ आओर जोड़ू">
 <!ENTITY newButton.accesskey        "N">
 
@@ -63,3 +63,5 @@
 <!ENTITY noStyleSheet-tip-end.label    "?">
 <!-- LOCALIZATION NOTE (openLinkNewTab.label): This is the text for the
      context menu item that opens a stylesheet in a new tab -->
+
+<!ENTITY openLinkNewTab.label     "नव टैब मे कड़ी खोलू">

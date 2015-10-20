@@ -77,10 +77,14 @@
 <!ENTITY btnConsoleReflows      "रीफ़्लो">
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
+
+<!ENTITY btnConsoleSharedWorkers "साझा वर्कर">
 <!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
   -  should not be translated. -->
+<!ENTITY btnConsoleServiceWorkers "सर्विस वर्कर">
 <!-- LOCALIZATION NODE (btnConsoleWindowlessWorkers) the term "Workers"
   -  should not be translated. -->
+<!ENTITY btnConsoleWindowlessWorkers "एड-ऑन अथवा क्रोम वर्कर">
 
 <!ENTITY filterOutput.placeholder "फ़िल्टर आउटपुट">
 <!ENTITY btnClear.label        "साफ करू (r)">
@@ -104,5 +108,5 @@
 <!ENTITY closeCmd.key         "W">
 <!ENTITY findCmd.key          "F">
 <!ENTITY clearOutputCtrl.key  "L">
-
-
+<!ENTITY openInVarViewCmd.label "वेरियेबल व्यू मे खोलू">
+<!ENTITY openInVarViewCmd.accesskey "V">
