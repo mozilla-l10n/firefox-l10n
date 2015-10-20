@@ -13,7 +13,7 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(مرور خصوصی)‏">
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(مرور ناشناس)‏">
 
 <!ENTITY appmenu.tooltip                     "باز کردن منو">
 <!ENTITY navbarOverflow.label                "ابزارهای بیشتر…">

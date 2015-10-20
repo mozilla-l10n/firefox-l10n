@@ -6,7 +6,7 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "یک پنجره‌ی ناشناس باز کن">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "پ">
 
-<!ENTITY privateBrowsing.title                 "مرور خصوصی">
+<!ENTITY privateBrowsing.title                 "مرور ناشناس">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width1):
      Width of the Private Browsing section. This should depend primarily on the
      length of the headers and text, but should be roughly 1.5 times the width
@@ -48,7 +48,7 @@
 <!ENTITY trackingProtection.state.enabled      "روشن">
 <!ENTITY trackingProtection.state.disabled     "خاموش">
 
-<!ENTITY trackingProtection.description1       "پنجره‌های خصوصی حالا قسمت‌های از صفحه که ممکن است مرور شما را ردگیری کنند، مسدود می‌کند.">
+<!ENTITY trackingProtection.description1       "پنجره‌های ناشناس حالا قسمت‌های از صفحه که ممکن است مرور شما را ردگیری کنند، مسدود می‌کند.">
 
 <!ENTITY trackingProtection.disable            "غیرفعال کردن ردگیری">
 <!ENTITY trackingProtection.enable             "فعال کردن محافظ دربرابر ردگیری">
