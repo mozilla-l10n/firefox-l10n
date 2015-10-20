@@ -358,7 +358,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewCustomizeToolbar.label       "Προσαρμογή…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
 
-<!ENTITY historyMenu.label "Ιστορικό">
+<!ENTITY historyMenu.label "Ιστορικο">
 <!ENTITY historyMenu.accesskey "s">
 <!ENTITY historyUndoMenu.label "Πρόσφατα κλεισμένες καρτέλες">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
@@ -375,39 +375,39 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.label "Ιστορικό">
 <!ENTITY appMenuHistory.showAll.label "Προβολή όλου του ιστορικού">
 <!ENTITY appMenuHistory.clearRecent.label "Εκκαθάριση πρόσφατου ιστορικού…">
-<!ENTITY appMenuHistory.restoreSession.label "Restore Previous Session">
+<!ENTITY appMenuHistory.restoreSession.label "Επαναφορά προηγούμενης συνεδρίας">
 <!ENTITY appMenuHistory.viewSidebar.label "Προβολή πλευρικής στήλης ιστορικού">
-<!ENTITY appMenuHelp.tooltip "Open Help Menu">
+<!ENTITY appMenuHelp.tooltip "Άνοιγμα βοήθειας">
 
-<!ENTITY customizeMenu.addToToolbar.label "Add to Toolbar">
+<!ENTITY customizeMenu.addToToolbar.label "Προσθήκη στην εργαλειοθήκη">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
-<!ENTITY customizeMenu.addToPanel.label "Add to Menu">
+<!ENTITY customizeMenu.addToPanel.label "Προσθήκη στο μενού">
 <!ENTITY customizeMenu.addToPanel.accesskey "M">
-<!ENTITY customizeMenu.moveToToolbar.label "Move to Toolbar">
+<!ENTITY customizeMenu.moveToToolbar.label "Μετακίνηση στην εργαλειοθήκη">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "o">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
      same context menu as menubarCmd and personalbarCmd, so they should have
      different access keys. customizeMenu.moveToToolbar and 
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
-<!ENTITY customizeMenu.moveToPanel.label "Move to Menu">
+<!ENTITY customizeMenu.moveToPanel.label "Μετακίνηση στο μενού">
 <!ENTITY customizeMenu.moveToPanel.accesskey "o">
-<!ENTITY customizeMenu.removeFromToolbar.label "Remove from Toolbar">
+<!ENTITY customizeMenu.removeFromToolbar.label "Απομάκρυνση από την εργαλειοθήκη">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
-<!ENTITY customizeMenu.removeFromMenu.label "Remove from Menu">
+<!ENTITY customizeMenu.removeFromMenu.label "Απομάκρυνση από το μενού">
 <!ENTITY customizeMenu.removeFromMenu.accesskey "R">
-<!ENTITY customizeMenu.addMoreItems.label "Add More Items…">
+<!ENTITY customizeMenu.addMoreItems.label "Προσθήκη περισσότερων αντικειμένων…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder2          "Search or enter address">
+<!ENTITY urlbar.placeholder2          "Αναζητήστε ή εισάγετε μια διεύθυνση">
 <!ENTITY urlbar.accesskey             "d">
-<!ENTITY urlbar.switchToTab.label     "Switch to tab:">
+<!ENTITY urlbar.switchToTab.label     "Μετάβαση σε καρτέλα:">
 
-<!ENTITY urlbar.searchSuggestionsNotification.question "Would you like to improve your search experience with suggestions?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Learn more…">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "No">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Yes">
+<!ENTITY urlbar.searchSuggestionsNotification.question "Θα θέλατε να βελτιώσετε την εμπειρία της αναζήτησης με το να σας παρέχουμε προτάσεις;">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Μάθετε περισσότερα…">
+<!ENTITY urlbar.searchSuggestionsNotification.disable "Όχι">
+<!ENTITY urlbar.searchSuggestionsNotification.enable "Ναι">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -436,14 +436,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
      These are set as the aria-label attribute for the search input box and
      submit button in the in-content search UI, to be used by screen readers. -->
-<!ENTITY contentSearchInput.label     "Search query">
-<!ENTITY contentSearchSubmit.label    "Submit search">
+<!ENTITY contentSearchInput.label     "Ερώτημα αναζήτησης">
+<!ENTITY contentSearchSubmit.label    "Υποβολή ερωτήματος">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
-<!ENTITY searchFor.label              "Search for ">
-<!ENTITY searchWith.label             " with:">
+<!ENTITY searchFor.label              "Αναζήτηση ">
+<!ENTITY searchWith.label             " στο:">
 
 <!-- LOCALIZATION NOTE (search.label, searchAfter.label):
      This string is used to build the header above the list of one-click search
@@ -451,40 +451,40 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      intentionally left empty for en-US and can be used by other localizations to
      display a string after the search engine name.  This string will be displayed
      as:  "Search <selected engine name><searchAfter.label text>" -->
-<!ENTITY search.label                 "Search ">
+<!ENTITY search.label                 "Αναζήτηση ">
 <!ENTITY searchAfter.label            "">
 
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
-<!ENTITY searchWithHeader.label       "Search with:">
+<!ENTITY searchWithHeader.label       "Αναζήτηση στο:">
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
-<!ENTITY changeSearchSettings.button  "Change Search Settings">
+<!ENTITY changeSearchSettings.button  "Αλλαγή ρυθμίσεων αναζήτησης">
 
 <!ENTITY searchInNewTab.label         "Αναζήτηση σε νέα καρτέλα">
 <!ENTITY searchSetAsDefault.label     "Ορισμός ως προκαθορισμένη μηχανή αναζήτησης">
 
 <!ENTITY tabView.commandkey           "e">
 
-<!ENTITY openLinkCmdInTab.label       "Open Link in New Tab">
+<!ENTITY openLinkCmdInTab.label       "Άνοιγμα δεσμού σε νέα καρτέλα">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
-<!ENTITY openLinkCmd.label            "Open Link in New Window">
+<!ENTITY openLinkCmd.label            "Άνοιγμα δεσμού σε νέο παράθυρο">
 <!ENTITY openLinkCmd.accesskey        "W">
-<!ENTITY openLinkInPrivateWindowCmd.label "Open Link in New Private Window">
+<!ENTITY openLinkInPrivateWindowCmd.label "Άνοιγμα δεσμού σε νέο παράθυρο ιδιωτικής περιήγησης">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
-<!ENTITY openLinkCmdInCurrent.label     "Open Link">
+<!ENTITY openLinkCmdInCurrent.label     "Άνοιγμα δεσμού">
 <!ENTITY openLinkCmdInCurrent.accesskey "O">
-<!ENTITY openFrameCmdInTab.label      "Open Frame in New Tab">
+<!ENTITY openFrameCmdInTab.label      "Άνοιγμα πλαισίου σε νέα καρτέλα">
 <!ENTITY openFrameCmdInTab.accesskey  "T">
-<!ENTITY openFrameCmd.label           "Open Frame in New Window">
+<!ENTITY openFrameCmd.label           "Άνοιγμα πλαισίου σε νέο παράθυρο">
 <!ENTITY openFrameCmd.accesskey       "W">
-<!ENTITY showOnlyThisFrameCmd.label     "Show Only This Frame">
+<!ENTITY showOnlyThisFrameCmd.label     "Προβολή μόνο αυτού του πλαισίου">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
-<!ENTITY reloadFrameCmd.label         "Reload Frame">
+<!ENTITY reloadFrameCmd.label         "Ανανέωση πλαισίου">
 <!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "View Selection Source">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "View MathML Source">
@@ -495,23 +495,23 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewPageSourceCmd.accesskey  "V">
 <!ENTITY viewFrameSourceCmd.label     "View Frame Source">
 <!ENTITY viewFrameSourceCmd.accesskey "V">
-<!ENTITY viewPageInfoCmd.label        "View Page Info">
+<!ENTITY viewPageInfoCmd.label        "Προβολή πληροφοριών σελίδας">
 <!ENTITY viewPageInfoCmd.accesskey    "I">
-<!ENTITY viewFrameInfoCmd.label       "View Frame Info">
+<!ENTITY viewFrameInfoCmd.label       "Προβολή πληροφοριών πλαισίου">
 <!ENTITY viewFrameInfoCmd.accesskey   "I">
-<!ENTITY reloadImageCmd.label         "Reload Image">
+<!ENTITY reloadImageCmd.label         "Ανανέωση εικόνας">
 <!ENTITY reloadImageCmd.accesskey     "R">
-<!ENTITY viewImageCmd.label           "View Image">
+<!ENTITY viewImageCmd.label           "Προβολή εικόνας">
 <!ENTITY viewImageCmd.accesskey       "I">
-<!ENTITY viewImageInfoCmd.label       "View Image Info">
+<!ENTITY viewImageInfoCmd.label       "Προβολή πληροφοριών εικόνας">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
-<!ENTITY viewImageDescCmd.label       "View Description">
+<!ENTITY viewImageDescCmd.label       "Προβολή περιγραφής">
 <!ENTITY viewImageDescCmd.accesskey   "D">
-<!ENTITY viewVideoCmd.label           "View Video">
+<!ENTITY viewVideoCmd.label           "Προβολή βίντεο">
 <!ENTITY viewVideoCmd.accesskey       "I">
-<!ENTITY viewBGImageCmd.label         "View Background Image">
+<!ENTITY viewBGImageCmd.label         "Προβολή εικόνας παρασκηνίου">
 <!ENTITY viewBGImageCmd.accesskey     "w">
-<!ENTITY setDesktopBackgroundCmd.label      "Set As Desktop Background…">
+<!ENTITY setDesktopBackgroundCmd.label      "Ορισμός ως ταπετσαρία…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY bookmarkPageCmd2.label       "Bookmark This Page">
 <!ENTITY bookmarkThisLinkCmd.label      "Bookmark This Link">
