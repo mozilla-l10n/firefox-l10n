@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutPrivateBrowsing.notPrivate       "În prezent nu sunteți într-o fereastră privată.">
-<!ENTITY privatebrowsingpage.openPrivateWindow.label "Deschide o fereastră fără urme">
-<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "m">
+<!ENTITY privatebrowsingpage.openPrivateWindow.label "Deschide o fereastră privată">
+<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
 
 <!ENTITY privateBrowsing.title                 "Navigare privată">
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width1):
