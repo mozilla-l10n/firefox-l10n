@@ -38,9 +38,9 @@
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
 
+<!ENTITY performanceUI.toolbar.js-calltree "شجر کو کال کریں">
 
-
-
+<!ENTITY performanceUI.toolbar.memory-calltree "اختصام">
 
 
 
@@ -58,7 +58,7 @@
 
 
 
-
+<!ENTITY performanceUI.table.totalAlloc               "کل بطور نمونہ اختصام">
 
 
 
@@ -87,6 +87,8 @@
 <!-- LOCALIZATION NOTE (performanceUI.enableAllocations): This string
   -  is displayed next to a checkbox determining whether or not allocation
   -  measurements are enabled. -->
+
+<!ENTITY performanceUI.enableAllocations             "اختصام ریکارڈ کریں">
 
 <!-- LOCALIZATION NOTE (performanceUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate

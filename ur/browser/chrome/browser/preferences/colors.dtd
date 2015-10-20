@@ -9,7 +9,7 @@
 
 
 <!ENTITY  overridePageColors.always.label "ہمیشہ">
-
+<!ENTITY  overridePageColors.auto.label   "صرف گہرا تناسب امتزاج تھیمیں">
 <!ENTITY  overridePageColors.never.label  "کبھی نہیں">
 
 <!ENTITY  color                           "متن و پس منظر">

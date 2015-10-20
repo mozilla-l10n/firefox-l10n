@@ -5,7 +5,7 @@
 <!ENTITY refreshProfile.dialog.title         "&brandShortName; تازہ کریں">
 <!ENTITY refreshProfile.dialog.description1  "تازہ شروع کریں تاکہ مسائل پیوست کریں اور سرانجام دہی بحال کریں">
 
-
+<!ENTITY refreshProfile.dialog.items.label1  "اپنے ایڈ اون اور تخصیص کاری ہٹائیں">
 <!ENTITY refreshProfile.dialog.items.label2  "اپنے براؤزر کی ترتیبات کو طےشدہ پہ بحال کریں">
 <!ENTITY refreshProfile.dialog.button.label  "&brandShortName; تازہ کریں">
 
