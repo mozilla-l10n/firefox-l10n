@@ -223,7 +223,7 @@
 <!ENTITY pref_donottrack_summary "&brandShortName; به سایت‌ها خواهد گفت که شما نمی‌خواهید ردیابی شوید.">
 
 <!ENTITY tracking_protection_prompt_title "هم‌اکنون با قابلیت محافظت در برابر ردگیری">
-<!ENTITY tracking_protection_prompt_text "عناصر ردیابی به طور فعال مسدود می شود بنابراین جایی برای نگرانی وجود ندارد.">
+<!ENTITY tracking_protection_prompt_text "عناصر ردیابی به طور فعال مسدود می‌شود بنابراین جایی برای نگرانی وجود ندارد.">
 <!ENTITY tracking_protection_prompt_tip_text "برای اطلاعات بیشتر تنظیمات حریم خصوصی را ببنید">
 <!ENTITY tracking_protection_prompt_action_button "گرفتم!">
 
