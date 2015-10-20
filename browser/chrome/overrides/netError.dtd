@@ -60,12 +60,6 @@
 <!ENTITY netTimeout.title "A ræ a no risponde">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "Protocòllo no conosciuo">
-<!ENTITY protocolNotFound.longDesc "<ul>
-  <li>Foscia ti devi instalâ atre aplicaçioin pe arvî st'indirisso.</li>
-</ul>
-">
-
 <!ENTITY proxyConnectFailure.title "O proxy o refua a conescion">
 <!ENTITY proxyConnectFailure.longDesc "<p>O navegatô o l'é inpostou pe uzâ un server proxy ma o proxy refua e conescioin.</p><ul><li>E inpostaçioin proxy do navegatô en giuste? Contròlla e preuva torna.</li><li>O proxy permette e conescioin da sta ræ?</li><li>Ti gh'æ ancon di problemi? Ciamma o teu aministratô da ræ ò fornitô de serviççi internet pe ascistensa.</li></ul>">
 
