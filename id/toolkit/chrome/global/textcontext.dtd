@@ -33,5 +33,5 @@
 <!ENTITY fillPasswordMenu.accesskey   "M">
 <!ENTITY fillUsernameMenu.label       "Masukkan Nama Pengguna">
 <!ENTITY fillUsernameMenu.accesskey   "M">
-<!ENTITY noLoginSuggestions.label     "(Tidak Ada Saran Log Masuk)">
-<!ENTITY viewSavedLogins.label        "Lihat Log Masuk Tersimpan">
+<!ENTITY noLoginSuggestions.label     "(Tidak Ada Saran Info Masuk)">
+<!ENTITY viewSavedLogins.label        "Lihat Info Masuk Tersimpan">
