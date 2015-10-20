@@ -461,6 +461,8 @@ size. -->
 <!ENTITY site_settings_no_settings  "Kayandiyan kul ši kaŋ ma tuusandi.">
 <!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
+
+<!ENTITY reading_list_added3 "Tonton caw maašeedaa ga">
 <!ENTITY reading_list_removed "Moo tuusandi war caw maašeedaa ra">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -575,14 +577,19 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
-
+<!ENTITY identity_connection_secure "Ciyari saajante">
+<!ENTITY identity_connection_insecure "Manti ciyari saajante">
 <!-- Mixed content notifications in site identity popup -->
 
-
-
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; ga gundekuna kaŋ ši saajaw gagay moɲoo woo ga.">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; ga gundekuna kaŋ ši saajaw jeroo gagay moɲoo woo ga.">
+<!ENTITY mixed_content_display_loaded1 "Moɲoo woo doo fooyaŋ ši saajaw (sanda biiyaŋ).">
+<!ENTITY mixed_content_protection_disabled1 "War na jejeboo kaa gundekuna kaŋ ši saajaw se.">
 <!-- Tracking content notifications in site identity popup -->
 
-
+<!ENTITY doorhanger_tracking_title "Ganayan jejebu">
+<!ENTITY doorhanger_tracking_state_enabled "Tunante">
+<!ENTITY doorhanger_tracking_state_disabled "Kayante">
 
 
 <!-- Common mixed and tracking content strings in site identity popup -->
