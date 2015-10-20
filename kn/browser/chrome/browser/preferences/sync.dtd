@@ -71,7 +71,7 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "ನೀವು ಸೈನ್ ಇನ್ ಆಗಿಲ್ಲ.">
 <!ENTITY signIn.label                "ಸೈನ್ ಇನ್">
-
+<!ENTITY profilePicture.tooltip      "ಪ್ರೊಫೈಲ್ ಚಿತ್ರವನ್ನು ಬದಲಾಯಿಸು">
 <!ENTITY manage.label                "ನಿರ್ವಹಿಸು">
 <!ENTITY disconnect.label            "ಸಂಪರ್ಕ ತಪ್ಪಿಸು…">
 <!ENTITY verify.label                "ವಿ-ಅಂಚೆಯನ್ನು ದೃಢಪಡಿಸಿ">
@@ -83,12 +83,16 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY welcome.useOldSync.label "ಹಳೆಯ ಆವೃತ್ತಿಯ ಸಿಂಕ್ ಬಳಸುತ್ತಿದ್ದೀರಾ?">
 
+<!ENTITY signedOut.caption            "ನಿಮ್ಮ ಜಾಲವನ್ನು ನಿಮ್ಮೊಂದಿಗೆ ಕೊಂಡೊಯ್ಯಿರಿ">
+
+<!ENTITY signedOut.accountBox.title   "&syncBrand.fxAccount.label; ನೊಂದಿಗೆ ಸಂಪರ್ಕಿಸು">
 
 
 
+<!ENTITY signedIn.engines.label       "ಎಲ್ಲಾ ಸಾಧನಗಳೊಂದಿಗೆ ಸಿಂಕ್ ಮಾಡಿ">
 
-
-
+<!ENTITY mobilePromo.start            "ಫೈರ್ಫಾಕ್ಸ್ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ">
 <!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+<!ENTITY mobilePromo.androidLink      "ಆಂಡ್ರಾಯ್ಡ್™">
 
-
+<!ENTITY androidAttribution           "ಆಂಡ್ರಾಯ್ಡ್ ಗೂಗಲ್ ಕಂಪನಿಯ ವ್ಯಾಪಾರ ಚಿಹ್ನೆಯಾಗಿದೆ">
