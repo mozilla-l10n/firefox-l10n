@@ -99,7 +99,11 @@
 </ul>">
 
 <!ENTITY unknownSocketType.title "Сервердің жауабы күтпеген түрде">
-
+<!ENTITY unknownSocketType.longDesc "<ul> 
+<li>Жүйеңізде Personal Security Manager 
+орнатылғанын тексеріңіз.</li> 
+<li>Бұл мәселе қалыпты емес бапталған сервер себебінен болуы мүмкін.</li> 
+</ul>">
 
 <!ENTITY nssFailure2.title "Қорғалған байланысты орнату сәтсіз">
 <!ENTITY nssFailure2.longDesc2 "<ul> 
