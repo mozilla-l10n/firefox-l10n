@@ -4,7 +4,7 @@
 <!-- Subscription Dialog -->
 
 <!ENTITY feedSubscriptions.label     "Hírforrások">
-
+<!ENTITY learnMore.label             "További tudnivalók">
 
 <!ENTITY feedTitle.label             "Cím:">
 <!ENTITY feedTitle.accesskey         "C">
@@ -41,5 +41,3 @@
 
 <!ENTITY cmd.close.commandKey        "w">
 <!ENTITY button.close.label          "Bezárás">
-
-<!ENTITY learnMore.label             "További tudnivalók">

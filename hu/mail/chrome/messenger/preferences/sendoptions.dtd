@@ -19,7 +19,7 @@
 <!ENTITY HTMLTab.label                "HTML-t fogadni képes tartományok">
 <!ENTITY HTMLTab.accesskey            "H">
 <!ENTITY PlainTextTab.label           "Normál szöveget kérő tartományok">
-<!ENTITY PlainTextTab.accesskey       "E">
+<!ENTITY PlainTextTab.accesskey       "e">
 <!ENTITY AddHtmlDomain.label          "Hozzáadás…">
 <!ENTITY AddHtmlDomain.accesskey      "H">
 <!ENTITY AddPlainText.label           "Hozzáadás…">

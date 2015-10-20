@@ -3,40 +3,35 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  fontsAndEncodingsDialog.title           "Betűk és kódolások">
-<!ENTITY  window.width                            "39em">
-<!ENTITY  window.macWidth                         "50em">
-<!ENTITY  window.unixWidth                        "55em">
 
 <!ENTITY  language.label                          "Kódolás:">
-<!ENTITY language.accesskey                      "K">
+<!ENTITY  language.accesskey                      "K">
 
 <!ENTITY  size.label                              "Méret:">
-<!ENTITY proportionalSize.accesskey              "M">
-<!ENTITY sizeMono.accesskey                      "r">
+<!ENTITY  sizeProportional.accesskey              "M">
+<!ENTITY  sizeMonospace.accesskey                 "r">
 
 <!ENTITY  proportional.label                      "Proporcionális:">
-<!ENTITY proportional.accesskey                  "P">
+<!ENTITY  proportional.accesskey                  "P">
 
 <!ENTITY  serif.label                             "Talpas:">
-<!ENTITY serif.accesskey                         "T">
+<!ENTITY  serif.accesskey                         "T">
 <!ENTITY  sans-serif.label                        "Talpatlan:">
-<!ENTITY sans-serif.accesskey                    "n">
+<!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Fix szélességű:">
-<!ENTITY monospace.accesskey                     "F">
+<!ENTITY  monospace.accesskey                     "F">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
-<!ENTITY  font.langGroup.latin1                   "Nyugati">
-<!ENTITY  font.langGroup.latin2                   "Közép-európai">
+<!ENTITY  font.langGroup.latin                    "Latin">
 <!ENTITY  font.langGroup.japanese                 "Japán">
 <!ENTITY  font.langGroup.trad-chinese             "Hagyományos kínai (Tajvan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Egyszerűsített kínai">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Hagyományos kínai (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "Koreai">
 <!ENTITY  font.langGroup.cyrillic                 "Cirill">
-<!ENTITY  font.langGroup.baltic                   "Balti">
 <!ENTITY  font.langGroup.el                       "Görög">
-<!ENTITY  font.langGroup.turkish                  "Török">
-<!ENTITY  font.langGroup.unicode1                 "Unicode">
-<!ENTITY  font.langGroup.user-def                 "Felhasználó által megadott">
+<!ENTITY  font.langGroup.other                    "Egyéb írásrendszerek">
 <!ENTITY  font.langGroup.thai                     "Thai">
 <!ENTITY  font.langGroup.hebrew                   "Héber">
 <!ENTITY  font.langGroup.arabic                   "Arab">
@@ -51,30 +46,35 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
 <!ENTITY  font.langGroup.khmer                    "Khmer">
 <!ENTITY  font.langGroup.malayalam                "Malayalam">
-
+<!ENTITY  font.langGroup.math                     "Matematika">
+<!ENTITY  font.langGroup.oriya                    "Orija">
+<!ENTITY  font.langGroup.telugu                   "Telugu">
+<!ENTITY  font.langGroup.kannada                  "Kannada">
+<!ENTITY  font.langGroup.sinhala                  "Szingaléz">
+<!ENTITY  font.langGroup.tibetan                  "Tibeti">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Legkisebb betűméret:">
 <!ENTITY minSize.accesskey                        "L">
 <!ENTITY minSize.none                             "Nincs">
-
 <!-- default font type -->
+
 <!ENTITY  useDefaultFontSerif.label               "Talpas">
 <!ENTITY  useDefaultFontSansSerif.label           "Talpatlan">
-
 <!-- fonts in message -->
+
 <!ENTITY  fontControl.label                       "Betűbeállítások">
 <!ENTITY  useFixedWidthForPlainText.label         "Fix szélességű betűk a normál szöveges üzenetekhez">
-<!ENTITY fixedWidth.accesskey                    "x">
+<!ENTITY  fixedWidth.accesskey                    "x">
 <!ENTITY  useDocumentFonts.label                  "Az üzenetek használhatják a saját maguk által megadott betűkészleteket.">
-<!ENTITY useDocumentFonts.accesskey              "z">
-
+<!ENTITY  useDocumentFonts.accesskey              "z">
 <!-- Language settings -->
+
 <!ENTITY sendDefaultCharset.label         "Kimenő levelek:">
 <!ENTITY sendDefaultCharset.accesskey     "K">
-<!ENTITY languagesTitle1.label            "Karakterkódolások">
-<!ENTITY composingDescription.label       "Adja meg a kimenő és bejövő levelek alapértelmezett karakterkódolását">
+<!ENTITY languagesTitle2.label            "Szövegkódolás">
+<!ENTITY composingDescription2.label      "A kimenő és bejövő levelek alapértelmezett karakterkódolása">
 
 <!ENTITY viewDefaultCharsetList.label     "Bejövő levelek:">
 <!ENTITY viewDefaultCharsetList.accesskey  "B">
-<!ENTITY replyInDefaultCharset2.label     "Ha lehet, az alapértelmezett karakterkódolás használata a válasznál">
-<!ENTITY replyInDefaultCharset2.accesskey "h">
+<!ENTITY replyInDefaultCharset3.label     "Ha lehet, az alapértelmezett karakterkódolás használata a válasznál">
+<!ENTITY replyInDefaultCharset3.accesskey "h">

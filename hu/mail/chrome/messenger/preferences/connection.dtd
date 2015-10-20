@@ -3,39 +3,38 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  connectionsDialog.title       "Kapcsolat beállításai">
-<!ENTITY  window.width                   "46em">
 
 <!ENTITY  proxyTitle.label              "Proxy beállítása az internet eléréséhez">
 <!ENTITY  noProxyTypeRadio.label        "Nincs proxy">
-<!ENTITY noProxyTypeRadio.accesskey    "N">
+<!ENTITY  noProxyTypeRadio.accesskey    "N">
 <!ENTITY  systemTypeRadio.label         "Rendszerbeállítások használata">
-<!ENTITY systemTypeRadio.accesskey     "R">
+<!ENTITY  systemTypeRadio.accesskey     "R">
 <!ENTITY  WPADTypeRadio.label           "Proxybeállítások automatikus felismerése a hálózatban">
-<!ENTITY WPADTypeRadio.accesskey       "b">
+<!ENTITY  WPADTypeRadio.accesskey       "b">
 <!ENTITY  manualTypeRadio.label         "Kézi proxybeállítás:">
-<!ENTITY manualTypeRadio.accesskey     "z">
+<!ENTITY  manualTypeRadio.accesskey     "z">
 <!ENTITY  autoTypeRadio.label           "Automatikus proxybeállítás URL:">
-<!ENTITY autoTypeRadio.accesskey       "A">
+<!ENTITY  autoTypeRadio.accesskey       "A">
 <!ENTITY  reload.label                  "Frissítés">
-<!ENTITY reload.accesskey              "r">
+<!ENTITY  reload.accesskey              "r">
 <!ENTITY  http.label                    "HTTP-proxy:">
-<!ENTITY http.accesskey                "h">
+<!ENTITY  http.accesskey                "H">
 <!ENTITY  ssl.label                     "SSL-proxy:">
-<!ENTITY ssl.accesskey                 "s">
+<!ENTITY  ssl.accesskey                 "S">
 <!ENTITY  socks.label                   "SOCKS gép:">
-<!ENTITY socks.accesskey               "c">
+<!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
-<!ENTITY socks4.accesskey              "k">
+<!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
-<!ENTITY socks5.accesskey              "5">
+<!ENTITY  socks5.accesskey              "5">
 <!ENTITY  HTTPport.label                "Port:">
-<!ENTITY HTTPport.accesskey            "p">
+<!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.label                 "Port:">
-<!ENTITY SSLport.accesskey             "o">
+<!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  SOCKSport.label               "Port:">
-<!ENTITY SOCKSport.accesskey           "t">
+<!ENTITY  SOCKSport.accesskey           "t">
 <!ENTITY  noproxy.label                 "Nincs proxy a következőhöz:">
-<!ENTITY noproxy.accesskey             "N">
+<!ENTITY  noproxy.accesskey             "N">
 <!ENTITY  noproxyExplain.label          "Példa: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Ugyanazon proxy használata minden protokollhoz">
-<!ENTITY shareproxy.accesskey          "U">
+<!ENTITY  shareproxy.accesskey          "U">

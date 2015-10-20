@@ -7,7 +7,7 @@
 <!ENTITY navigatorCmd.accesskey "B">
 <!ENTITY navigatorCmd.commandkey "1">
 <!-- LOCALIZATION NOTE (editorCmd.label): DONT_TRANSLATE -->
-<!ENTITY editorCmd.label     "HTML-szerkesztő">
+<!ENTITY editorCmd.label     "Composer">
 <!ENTITY editorCmd.accesskey    "e">
 <!ENTITY editorCmd.commandkey    "4">
 

@@ -31,3 +31,5 @@
 <!-- LOCALIZATION NOTE (ignoreDocColors.label): This is option two, and it appends to 'someProvColors' above.  -->
 <!ENTITY useMyColors.label                 "A megadott színek használata, figyelmen kívül hagyva a weboldal által megadottakat">
 <!ENTITY useMyColors.accesskey             "e">
+<!ENTITY automaticColors.label             "Csak a nagy kontrasztú téma használatakor hagyja figyelmen kívül a weboldal színeit">
+<!ENTITY automaticColors.accesskey         "C">

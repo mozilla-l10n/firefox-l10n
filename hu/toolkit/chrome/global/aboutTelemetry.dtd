@@ -4,70 +4,68 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Telemetriai adatok">
 
-<!ENTITY aboutTelemetry.telemetryEnabled "
-  A telemetria <span>bekapcsolva</span>.
-">
+<!ENTITY aboutTelemetry.changeDataChoices "  Változtatás">
 
-<!ENTITY aboutTelemetry.telemetryDisabled "
-  A telemetria <span>kikapcsolva</span>.
-">
+<!ENTITY aboutTelemetry.uploadEnabled "  Az FHR adatok feltöltése <span>engedélyezett</span>.">
 
-<!ENTITY aboutTelemetry.slowSqlSection "
-  Lassú SQL utasítások
-">
+<!ENTITY aboutTelemetry.uploadDisabled "  Az FHR adatok feltöltése <span>tiltott</span>.">
 
-<!ENTITY aboutTelemetry.chromeHangsSection "
-  Böngészőlefagyások
-">
+<!ENTITY aboutTelemetry.extendedRecordingEnabled "  A bővített telemetria-rögzítés <span>engedélyezett</span>.">
 
-<!ENTITY aboutTelemetry.threadHangStatsSection "
-Szállefagyások
-">
+<!ENTITY aboutTelemetry.extendedRecordingDisabled "  A bővített telemetria-rögzítés <span>tiltott</span>.">
 
-<!ENTITY aboutTelemetry.histogramsSection "
-  Hisztogramok
-">
+<!ENTITY aboutTelemetry.pingDataSource "Adatforrás pingelése:">
 
-<!ENTITY aboutTelemetry.simpleMeasurementsSection "
-  Egyszerű mérési eszközök
-">
+<!ENTITY aboutTelemetry.showCurrentPingData "Aktuális ping adatok">
 
-<!ENTITY aboutTelemetry.addonDetailsSection "
-Kiegészítő részletei
-">
+<!ENTITY aboutTelemetry.showArchivedPingData "Archivált ping adatok">
 
-<!ENTITY aboutTelemetry.lateWritesSection "
-Késői írások
-">
+<!ENTITY aboutTelemetry.showSubsessionData "Almunkamenet adatainak megjelenítése">
 
-<!ENTITY aboutTelemetry.systemInfoSection "
-  Rendszerinformációk
-">
+<!ENTITY aboutTelemetry.choosePing "Válasszon pinget:">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "
-  Kiegészítők által gyűjtött hisztogramok
-">
+<!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; Űjabb ping">
 
-<!ENTITY aboutTelemetry.toggle "
-Kattintson a szakasz be/ki kapcsolásához
-">
+<!ENTITY aboutTelemetry.showOlderPing "Régebbi ping &gt;&gt;">
 
-<!ENTITY aboutTelemetry.emptySection "
-  (Nincsenek összegyűjtött adatok)
-">
+<!ENTITY aboutTelemetry.archiveWeekHeader "Hét">
 
-<!ENTITY aboutTelemetry.fullSqlWarning "
-  MEGJEGYZÉS: A lassú SQL hibakeresés be van kapcsolva. Alább megjelenhetnek teljes SQL karakterláncok, de ezek nem kerülnek elküldésre a telemetriának.
-">
+<!ENTITY aboutTelemetry.archivePingHeader "Ping">
 
-<!ENTITY aboutTelemetry.fetchSymbols "
-  Függvénynevek lekérése a lefagyási vermekhez
-">
+<!ENTITY aboutTelemetry.generalDataSection " Általános adatok">
 
-<!ENTITY aboutTelemetry.hideSymbols "
-  Nyers adatok megjelenítése a lefagyásokból
-">
+<!ENTITY aboutTelemetry.environmentDataSection "  Környezeti adatok">
 
-<!ENTITY aboutTelemetry.filterText "
-Szűrő (karakterláncok vagy /regexp/)
-">
+<!ENTITY aboutTelemetry.telemetryLogSection " Telemetriai napló">
+
+<!ENTITY aboutTelemetry.slowSqlSection "  Lassú SQL utasítások">
+
+<!ENTITY aboutTelemetry.chromeHangsSection "  Böngészőlefagyások">
+
+<!ENTITY aboutTelemetry.threadHangStatsSection "Szállefagyások">
+
+<!ENTITY aboutTelemetry.histogramsSection "  Hisztogramok">
+
+<!ENTITY aboutTelemetry.keyedHistogramsSection "  Hisztogramok kulccsal">
+
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "  Egyszerű mérési eszközök">
+
+<!ENTITY aboutTelemetry.addonDetailsSection "Kiegészítő részletei">
+
+<!ENTITY aboutTelemetry.lateWritesSection "Késői írások">
+
+<!ENTITY aboutTelemetry.systemInfoSection "  Rendszerinformációk">
+
+<!ENTITY aboutTelemetry.addonHistogramsSection "  Kiegészítők által gyűjtött hisztogramok">
+
+<!ENTITY aboutTelemetry.toggle "Kattintson a szakasz be/ki kapcsolásához">
+
+<!ENTITY aboutTelemetry.emptySection "  (Nincsenek összegyűjtött adatok)">
+
+<!ENTITY aboutTelemetry.fullSqlWarning "  MEGJEGYZÉS: A lassú SQL hibakeresés be van kapcsolva. Alább megjelenhetnek teljes SQL karakterláncok, de ezek nem kerülnek elküldésre a telemetriának.">
+
+<!ENTITY aboutTelemetry.fetchSymbols "  Függvénynevek lekérése a lefagyási vermekhez">
+
+<!ENTITY aboutTelemetry.hideSymbols "  Nyers adatok megjelenítése a lefagyásokból">
+
+<!ENTITY aboutTelemetry.filterText "Szűrő (karakterláncok vagy /regexp/)">

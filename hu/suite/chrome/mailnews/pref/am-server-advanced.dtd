@@ -4,7 +4,7 @@
 
 <!ENTITY serverAdvanced.label "Haladó postafiók-beállítások">
 <!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
-<!ENTITY serverDirectory.label "IMAP-kiszolgáló könyvtár:">
+<!ENTITY serverDirectory.label "IMAP server directory:">
 <!ENTITY serverDirectory.accesskey "d">
 <!ENTITY usingSubscription.label "Csak a feliratkozott mappák megjelenítése">
 <!ENTITY usingSubscription.accesskey "f">
@@ -15,7 +15,7 @@
 <!ENTITY maximumConnectionsNumber.label "A gyorsítótárazandó kiszolgáló-kapcsolatok maximális száma">
 <!ENTITY maximumConnectionsNumber.accesskey "o">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
-<!ENTITY namespaceDesc.label "Ezek a beállítások meghatározzák a névtartományokat az IMAP-kiszolgálón">
+<!ENTITY namespaceDesc.label "These preferences specify the namespaces on your IMAP server">
 <!ENTITY personalNamespace.label "Személyes névtartomány:">
 <!ENTITY personalNamespace.accesskey "S">
 <!ENTITY publicNamespace.label "Nyilvános (megosztott):">

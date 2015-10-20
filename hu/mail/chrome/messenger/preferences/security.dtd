@@ -5,9 +5,9 @@
 <!ENTITY itemJunk.label          "Szemét">
 <!ENTITY itemPhishing.label      "Becsapós e-mail">
 <!ENTITY itemPasswords.label     "Jelszavak">
-<!ENTITY itemAntiVirus.label     "Antivírus">
 
 <!-- Junk Mail Controls -->
+
 <!ENTITY junkMail.intro "Az alapértelmezett levélszemét-kezelés beállítása. A postafiókra jellemző levélszemét-kezelés beállításait a Postafiókok beállításai alatt végezheti el.">
 <!ENTITY manualMark.label "A levélszemét kézi megjelölésekor:">
 <!ENTITY manualMark.accesskey "k">
@@ -23,15 +23,15 @@
 <!ENTITY openJunkLog.accesskey "N">
 <!ENTITY resetTrainingData.label "Tanulási adatok törlése">
 <!ENTITY resetTrainingData.accesskey "T">
-
 <!-- Phishing Detector -->
+
 <!ENTITY phishingDetector1.intro  "A &brandShortName; képes elemezni az üzeneteket, és kiszűrni a leggyakrabban használt trükköket, amelyekkel Önt becsaphatják.">
 <!ENTITY enablePhishingDetector1.label    "Figyelmeztetés a gyanús e-mailekre">
 <!ENTITY enablePhishingDetector1.accesskey  "F">
 <!ENTITY useDownloadedList.label "Gyanús e-mailek letöltött listájának használata">
 <!ENTITY useDownloadedList.accesskey "G">
-
 <!-- Passwords -->
+
 <!ENTITY savedPasswords.intro           "A &brandShortName; képes megjegyezni az összes fiók jelszavát.">
 <!ENTITY useMasterPassword.label        "Mesterjelszó használata">
 <!ENTITY useMasterPassword.accesskey    "M">
@@ -40,9 +40,7 @@
 <!ENTITY changeMasterPassword.accesskey "z">
 <!ENTITY savedPasswords.label           "Mentett jelszavak…">
 <!ENTITY savedPasswords.accesskey       "e">
-
 <!-- Anti Virus -->
-<!ENTITY antiVirus.intro      "A &brandShortName; könnyen lehetővé teszi a vírusellenes szoftverek számára a bejövő üzenetek ellenőrzését, még mielőtt helyileg tárolná azokat.">
-<!ENTITY antiVirus.label      "A vírusellenes szoftverek karanténba tehetik a bejövő üzeneteket">
-<!ENTITY antiVirus.accesskey  "v">
+
+
 

@@ -4,7 +4,7 @@
 
 <!ENTITY autoconfigWizard.title          "Postafiók beállítása">
 <!ENTITY name.label                      "Név:">
-<!ENTITY name.accesskey                  "n">
+<!ENTITY name.accesskey                  "N">
 <!ENTITY name.placeholder                "Utónév, vezetéknév">
 <!ENTITY name.text                       "Így fog megjelenni a neve">
 <!ENTITY email.label                     "E-mail cím:">

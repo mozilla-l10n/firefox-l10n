@@ -55,9 +55,9 @@
 <!ENTITY expungeOnExit.accesskey "k">
 <!ENTITY emptyTrashOnExit.label "A Törölt elemek mappa ürítése kilépéskor">
 <!ENTITY emptyTrashOnExit.accesskey "r">
-<!ENTITY loginAtStartup.label "Új üzenetek ellenőrzése indításkor"> 
+<!ENTITY loginAtStartup.label "Új üzenetek ellenőrzése indításkor">
 <!ENTITY loginAtStartup.accesskey "e">
-<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency 
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
 	 of messages between them
 -->
@@ -73,7 +73,7 @@
 <!ENTITY abbreviateOn.label "Teljes névvel (például: 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Rövidített névvel (például: 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Haladó…">
-<!ENTITY serverDefaultCharset.label "Alapértelmezett karakterkódolás:">
+<!ENTITY serverDefaultCharset2.label "Alapértelmezett kódolás:">
 <!ENTITY advancedButton.accesskey "H">
 <!ENTITY localPath.label "Helyi könyvtár:">
 <!ENTITY localFolderPicker.label "Helyi könyvtár kiválasztása">
@@ -84,3 +84,7 @@
 
 <!ENTITY accountTitle.label "Postafiók beállítások">
 <!ENTITY accountSettingsDesc.label "Ez egy speciális fiók. Nincs hozzá személyazonosság társítva.">
+<!ENTITY storeType.label "Üzenettároló típusa:">
+<!ENTITY storeType.accesskey "t">
+<!ENTITY mboxStore2.label "Minden mappa külön fájlba (mbox)">
+<!ENTITY maildirStore.label "Minden üzenet külön fájlba (maildir)">

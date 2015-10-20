@@ -1,48 +1,48 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Window title -->
 <!-- LOCALIZATION NOTE  (editorWindow.titlemodifier): DONT_TRANSLATE -->
-<!ENTITY editorWindow.titlemodifier "HTML-szerkesztő"> 
+
+<!ENTITY editorWindow.titlemodifier "Composer"> 
 <!ENTITY editorWindow.titlemodifiermenuseparator " - ">
-
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
-
 <!-- Toolbar-only items -->
+
+
 <!ENTITY compositionToolbar.tooltip "Szerkesztés eszköztár">
 <!ENTITY previewToolbarCmd.label "Megtekintés">
 <!ENTITY previewToolbarCmd.tooltip "Oldal betöltése a böngészőbe">
-
 <!-- File menu items -->
+
 <!ENTITY exportToTextCmd.label "Exportálás szövegként…">
 <!ENTITY exportToTextCmd.accesskey "x">
 <!ENTITY previewCmd.label "Oldal megtekintése">
 <!ENTITY previewCmd.accesskey "m">
 <!ENTITY sendPageCmd.label "Oldal küldése…">
 <!ENTITY sendPageCmd.accesskey "k">
-
 <!-- View menu items -->
+
 <!ENTITY compositionToolbarCmd.label "Szerkesztés eszköztár">
 <!ENTITY compositionToolbarCmd.accesskey "S">
 <!ENTITY formattingToolbarCmd.label "Formázás eszköztár">
 <!ENTITY formattingToolbarCmd.accesskey "F">
 <!ENTITY editmodeToolbarCmd.label "Szerkesztőmód eszköztár">
-<!ENTITY editmodeToolbarCmd.accesskey "E">
-
+<!ENTITY editmodeToolbarCmd.accesskey "e">
 <!-- Format menu items -->
+
 <!ENTITY formatMenu.label "Formátum">
 <!ENTITY formatMenu.accesskey "o">
 <!ENTITY grid.label "Pozicionáló rács">
 <!ENTITY grid.accesskey "P">
 <!ENTITY pageProperties.label "Oldal címe és tulajdonságai…">
 <!ENTITY pageProperties.accesskey "O">
-
 <!-- Tools menu items -->
+
 <!ENTITY validateCmd.label "HTML ellenőrzése">
 <!ENTITY validateCmd.accesskey "e">
-
 <!-- Display Mode toolbar and View menu items -->
+
 <!ENTITY NormalModeTab.label "Normál">
 <!ENTITY NormalMode.label "Normál szerkesztési mód">
 <!ENTITY NormalMode.accesskey "N">

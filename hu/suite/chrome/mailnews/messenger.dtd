@@ -444,6 +444,12 @@
 <!ENTITY throbber.tooltip "Ugrás a &vendorShortName; honlapjára">
 <!ENTITY junkButton.tooltip "A kijelölt üzenetek megjelölése szemétként">
 <!ENTITY notJunkButton.tooltip "A kijelölt üzenetek megjelölése nem szemétként">
+<!-- Remote Content Button Popup -->
+
+<!ENTITY remoteContentOptionsAllowForMsg.label "Távoli tartalom megjelenítése ebben az üzenetben">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "T">
+<!ENTITY editRemoteContentSettings.label "Távoli tartalom jogosultságainak szerkesztése…">
+<!ENTITY editRemoteContentSettings.accesskey "E">
 <!-- Statusbar -->
 
 <!ENTITY  statusText.label "Kész">

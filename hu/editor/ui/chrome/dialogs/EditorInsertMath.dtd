@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- Window title -->
+
 <!ENTITY windowTitle.label "Képlet beszúrása">
 
 <!ENTITY sourceEditField.label "Írja be a LaTeX forráskódot:">
@@ -16,10 +16,6 @@
 <!ENTITY optionLTR.accesskey "a">
 <!ENTITY optionRTL.label "Jobbról balra irány">
 <!ENTITY optionRTL.accesskey "o">
-
-<!ENTITY example.label "Példa: ">
-<!-- LOCALIZATION NOTE (exampleText.label): DONT_TRANSLATE. This is a LaTeX example. -->
-<!ENTITY exampleText.label "\sqrt{x_1} + \frac{π^3}{2}">
 
 <!ENTITY insertButton.label "Beszúrás">
 <!ENTITY insertButton.accesskey "B">

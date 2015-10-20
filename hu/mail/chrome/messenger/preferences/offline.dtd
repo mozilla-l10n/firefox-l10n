@@ -4,13 +4,17 @@
 
 <!ENTITY offlineDialog.title "Kapcsolat nélküli beállítások">
 
-<!ENTITY textStartUp "Induláskor:">
+<!ENTITY checkAutoDetect.label "A felismert online állapot követése automatikusan">
+<!ENTITY checkAutoDetect.accesskey "f">
+<!ENTITY titleStartUp "Kézi állapot indításkor:">
 <!ENTITY radioRememberPrevState.label "Előző online állapot megjegyzése">
 <!ENTITY radioRememberPrevState.accesskey "E">
-<!ENTITY radioAskMe.label "Rákérdezés az online állapotra indításkor">
-<!ENTITY radioAskMe.accesskey "R">
-<!ENTITY radioAlwaysOnline.label "Mindig online indulás">
-<!ENTITY radioAlwaysOnline.accesskey "M">
+<!ENTITY radioAskState.label "Kérdezzen az online állapotról">
+<!ENTITY radioAskState.accesskey "o">
+<!ENTITY radioAlwaysOnlineState.label "Kapcsolatban">
+<!ENTITY radioAlwaysOnlineState.accesskey "p">
+<!ENTITY radioAlwaysOffline.label "Kapcsolat nélkül">
+<!ENTITY radioAlwaysOffline.accesskey "n">
 
 <!ENTITY textGoingOnline "Postázandó üzenetek elküldése a csatlakozáskor">
 <!ENTITY radioAutoSend.label "Igen">
@@ -18,7 +22,7 @@
 <!ENTITY radioNotSend.label "Soha">
 <!ENTITY radioNotSend.accesskey "S">
 <!ENTITY radioAskUnsent.label "Kérdés">
-<!ENTITY radioAskUnsent.accesskey "k">
+<!ENTITY radioAskUnsent.accesskey "K">
 <!ENTITY textGoingOffline "Üzenetek letöltése kapcsolat nélküli üzemmódra váltáskor">
 <!ENTITY radioAutoDownload.label "Igen">
 <!ENTITY radioAutoDownload.accesskey "g">

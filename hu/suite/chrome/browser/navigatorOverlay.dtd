@@ -63,10 +63,10 @@
 <!ENTITY history.commandKey "h">
 <!ENTITY recentTabs.label "Nemrég bezárt lapok">
 <!ENTITY recentTabs.accesskey "N">
-<!ENTITY recentTabs.commandkey "l">
+<!ENTITY recentTabs.commandkey "t">
 <!ENTITY recentWindows.label "Nemrég bezárt ablakok">
 <!ENTITY recentWindows.accesskey "r">
-<!ENTITY recentWindows.commandkey "b">
+<!ENTITY recentWindows.commandkey "y">
 <!ENTITY historyRestoreLastSession.label "Előző munkamenet helyreállítása">
 <!ENTITY historyRestoreLastSession.accesskey "r">
 <!ENTITY syncTabsMenu.label "Lapok más számítógépekről">

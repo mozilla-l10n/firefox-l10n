@@ -19,4 +19,4 @@
 <!ENTITY restorepage.restoreHeader  "Helyreállítás">
 <!ENTITY restorepage.listHeader     "Ablakok és lapok">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
-<!ENTITY restorepage.windowLabel    "&#37;S. ablak">
+<!ENTITY restorepage.windowLabel    "&#037;S. ablak">

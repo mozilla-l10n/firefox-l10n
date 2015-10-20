@@ -72,6 +72,8 @@
 <!ENTITY saveFrameAsCmd.label         "Keret mentése más néven…">
 <!ENTITY saveFrameCmd.label           "Keret mentése">
 <!ENTITY saveFrameCmd.accesskey       "m">
+<!ENTITY printFrameCmd.label          "Keret nyomtatása…">
+<!ENTITY printFrameCmd.accesskey      "K">
 <!ENTITY saveLinkAsCmd.label          "Hivatkozás mentése más néven…">
 <!ENTITY saveLinkCmd.label            "Hivatkozás mentése">
 <!ENTITY saveLinkCmd.accesskey        "n">
