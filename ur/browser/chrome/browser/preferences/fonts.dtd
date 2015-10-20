@@ -64,7 +64,7 @@
 <!ENTITY  allowPagesToUse.label                   "صفحات کو میرے اوپر کیے گئے انتخابات کے بجائے اپنے فانٹ چننے دیں">
 <!ENTITY  allowPagesToUse.accesskey               "د">
 
-<!ENTITY languages.customize.Fallback2.grouplabel "ورثہ مواد کے لئے متن کی ضابطہ بندی">
+<!ENTITY languages.customize.Fallback2.grouplabel "ورثہ مواد کے لیے متن کی ضابطہ بندی">
 <!ENTITY languages.customize.Fallback2.label      "فالبیک متنضابطہ بندی:">
 <!ENTITY languages.customize.Fallback2.accesskey  "م">
 <!ENTITY languages.customize.Fallback2.desc       "یہ کریکٹر ضابطہ بندی اس ورثہ مواد کے لیے استعمال کی جاتی ہے جو اپنی ضابطہ بندی نہیں بتاتا۔">
