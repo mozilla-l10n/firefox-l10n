@@ -613,7 +613,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "ອອກ"> 
 <!ENTITY quitApplicationCmd.accesskey   "Q">
-<!ENTITY quitApplicationCmdMac2.label   "ອອກ &brandShortName;">
+<!ENTITY quitApplicationCmdMac2.label   "ອອກ &brandShorterName;">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 
 <!ENTITY closeCmd.label                 "ປິດ">  
