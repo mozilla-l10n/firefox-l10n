@@ -882,7 +882,7 @@
 <!ENTITY stopCmd.accesskey "O">
 <!ENTITY reloadCmd.label "Reîncarcă">
 <!ENTITY reloadCmd.accesskey "R">
-<!ENTITY openInBrowser.label "Deschide în navigator">
+<!ENTITY openInBrowser.label "Deschide în browser">
 <!ENTITY openInBrowser.accesskey "o">
 <!ENTITY openLinkInBrowser.label "Deschide linkul în browser">
 <!ENTITY openLinkInBrowser.accesskey "o">
