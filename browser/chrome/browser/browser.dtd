@@ -27,7 +27,7 @@
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.label            "Lat att faner til høgre">
-<!ENTITY  closeTabsToTheEnd.accesskey        "u">
+<!ENTITY  closeTabsToTheEnd.accesskey        "h">
 <!ENTITY  closeOtherTabs.label               "Lat att andre faner">
 <!ENTITY  closeOtherTabs.accesskey           "a">
 
@@ -433,7 +433,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
-<!ENTITY searchFor.label              "Søk etter">
+<!ENTITY searchFor.label              "Søk etter ">
 <!ENTITY searchWith.label             " med:">
 
 <!-- LOCALIZATION NOTE (search.label, searchAfter.label):
