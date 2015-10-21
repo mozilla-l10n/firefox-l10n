@@ -177,7 +177,7 @@
 <!ENTITY pref_developer_remotedebugging "Pendebugan daring">
 <!ENTITY pref_developer_remotedebugging_usb "Pendebugan daring via USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Pendebugan daring via Wi-Fi">
-
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Pendebugan Wi-Fi mewajibkan pada peranti Anda telah terpasang aplikasi pembaca kode QR.">
 <!ENTITY pref_category_logins "Info masuk">
 <!ENTITY pref_remember_signons2 "Ingat info masuk">
 <!ENTITY pref_open_external_urls_privately_title "Buka tautan dalam Penjelajahan pribadi">
