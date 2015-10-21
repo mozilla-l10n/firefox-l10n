@@ -24,7 +24,7 @@
 <!ENTITY rights.intro-point2-c ".">
 <!-- point 2.5 text for official branded builds -->
 
-<!ENTITY rights.intro-point2.5 "Ezinye iimpawu ze-&brandShortName;, ezinjenge-Crash Reporter zikunika enye indlela yokunika ingxelo &vendorShortName;. Ngokukhetha ukuthumela ingxelo, unika i-&vendorShortName; imvume yokusebenzisa ingxelo ukuze iphucule imveliso yayo, yokupapasha ingxelo kwiiwebhusayithi zayo nokunikezela ngengxelo.">
+<!ENTITY rights.intro-point2.5 "Ezinye iimpawu ze-&brandShortName;, ezinjenge-Crash Reporter zikunika enye indlela yokunika ingxelo i-&vendorShortName;. Ngokukhetha ukuthumela ingxelo, unika i-&vendorShortName; imvume yokusebenzisa ingxelo ukuze iphucule imveliso yayo, yokupapasha ingxelo kwiiwebhusayithi zayo nokunikezela ngengxelo.">
 <!-- point 3 text for official branded builds -->
 
 <!ENTITY rights2.intro-point3a "Indlela esisebenzisa ngayo iinkcukacha zakho kwanengxelo ethunyelweyo ye-&vendorShortName; nge-&brandShortName; ichazwe ">
