@@ -122,6 +122,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "Automatyczne wstawianie znaków zamykających nawias">
 <!ENTITY prefs_options_keybindings "Skróty klawiaturowe">
 <!ENTITY prefs_options_keybindings_default "Domyślne">
+<!ENTITY prefs_options_autosavefiles "Automatyczne zapisywanie plików">
+<!ENTITY prefs_options_autosavefiles_tooltip "Automatyczne zapisywanie plików przed uruchomieniem projektu">
 
 <!ENTITY permissionstable_title "Tabela uprawnień">
 <!ENTITY permissionstable_name_header "Nazwa">
