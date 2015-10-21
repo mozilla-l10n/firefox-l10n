@@ -138,3 +138,10 @@ functionality specific to firefox. -->
 <!ENTITY sslv3Used.title "Nie udało się nawiązać bezpiecznego połączenia">
 <!ENTITY sslv3Used.longDesc "Szczegóły: ssl_error_unsupported_version">
 <!ENTITY sslv3Used.learnMore "Więcej informacji…">
+
+<!ENTITY weakCryptoUsed.title "Połączenie nie gwarntuje bezpieczeństwa">
+<!ENTITY weakCryptoUsed.longDesc "Informacje: ssl_error_no_cypher_overlap">
+<!ENTITY weakCryptoUsed.learnMore "Więcej informacji…">
+<!ENTITY weakCryptoAdvanced.title "Zaawansowane">
+<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> używa przestarzałej i podatnej na ataki technologii bezpieczeństwa. Atakujący mógłby łatwo odszyfrować informacje, które miały być bezpieczne.">
+<!ENTITY weakCryptoAdvanced.override "(Odradzane) Wczytaj <span class='hostname'></span> używając przestarzałych zabezpieczeń">
