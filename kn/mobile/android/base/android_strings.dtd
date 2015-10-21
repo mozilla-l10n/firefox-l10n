@@ -700,17 +700,22 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restriction_disallow_import_settings_title2 "\u0027ಆಂಡ್ರಾಯ್ಡ್‌ನಿಂದ ಆಮದುಮಾಡು\u0027 ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ">
 <!ENTITY restriction_disallow_addons_title2 "ಆಡ್-ಆನ್ ಅನುಸ್ಥಾಪಿಸುವುದನ್ನು ಅಶಕ್ತಗೊಳಿಸಿ">
 <!ENTITY restriction_disallow_devtools_title2 "ವಿಕಸನಾ ಉಪಕರಣಗಳನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸು">
-
-
-
-
-
-
-
+<!ENTITY restriction_disallow_customize_home_title2 "ಮನೆಯ ಅಗತ್ಯಾನುಗುಣಗೊಳಿಕೆ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸು">
+<!ENTITY restriction_disallow_private_browsing_title2 "ಖಾಸಗಿ ವೀಕ್ಷಣೆಯನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸು">
+<!ENTITY restriction_disallow_location_services_title2 "ಸ್ಥಳಾಧಾರಿತ ಸೇವೆಗಳನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸು">
+<!ENTITY restriction_disallow_display_settings_title2 "ಪ್ರದರ್ಶಕ ಸಿದ್ದತೆಗಳನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸು">
+<!ENTITY restriction_disallow_clear_history_title2 "\u0027ವೀಕ್ಷಣೆಯ ಇತಿಹಾಸವನ್ನು ಅಳಿಸಿ\u0027 ನಿಷ್ಕ್ರಿಯಗೊಳಿಸು">
+<!ENTITY restriction_disallow_master_password_title2 "ಮುಖ್ಯ ಗುಪ್ತಪದವನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸು">
+<!ENTITY restriction_disallow_guest_browsing_title2 "ಅತಿಥಿ ಜಾಲಾಟ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸು">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+
+<!ENTITY bookmarks_about_browser "Firefox: ನಿಮ್ಮ ಬ್ರೌಸರ್ ಬಗ್ಗೆ">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "Firefox: ಆಡ್-ಆನ್‌ಗಳೊಂದಿಗೆ ಅಗತ್ಯಾನುಗುಣಗೊಳಿಸು">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "Firefox: ಬೆಂಬಲ">
 <!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
+<!ENTITY bookmarks_marketplace "Firefox ಮಾರ್ಕೆಟ್‌ಪ್ಲೇಸ್">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->

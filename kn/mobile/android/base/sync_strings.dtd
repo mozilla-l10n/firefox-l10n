@@ -197,7 +197,7 @@
 
 <!ENTITY fxaccount_status_header2 "ಫೈರ್ಫಾಕ್ಸ್ ಖಾತೆ">
 <!ENTITY fxaccount_status_signed_in_as "ಆಗಿ ಪ್ರವೇಶಿಸಲಾಗಿದೆ">
-
+<!ENTITY fxaccount_status_manage_account "ಖಾತೆಯನ್ನು ನಿರ್ವಹಿಸು">
 <!ENTITY fxaccount_status_auth_server "ಖಾತೆ ಸರ್ವರ್">
 <!ENTITY fxaccount_status_sync_now "ಈಗಲೆ ಸಿಂಕ್ ಮಾಡು">
 <!ENTITY fxaccount_status_syncing2 "ಸಿಂಕ್ ಮಾಡಲಾಗುತ್ತಿದೆ…">
@@ -231,7 +231,7 @@
 <!ENTITY fxaccount_remove_account_toast "ಫಯರ್ಫಾಕ್ಸ್ ನ ಖಾತೆ &formatS; ಅನ್ನು ತೆಗೆದುಹಾಕಲಾಗಿದೆ.">
 
 <!ENTITY fxaccount_remove_account_menu_item "ಖಾತೆಯನ್ನು ತೆಗೆದುಹಾಕು">
-
+<!ENTITY fxaccount_enable_debug_mode "ದೋಷನಿದಾನ ಸ್ಥಿತಿ ಸಕ್ರಿಯಗೊಳಿಸು">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 
