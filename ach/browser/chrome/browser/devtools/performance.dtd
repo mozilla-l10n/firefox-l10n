@@ -146,7 +146,7 @@
   -  This string is displayed when a recording is selected that started via console.profile.
   -  Wraps the command used to start, like "Currently recording via console.profile("label")" -->
 
-<!ENTITY performanceUI.console.recordingNoticeStart "Kombedi tye ka mako ki i ">
+<!ENTITY performanceUI.console.recordingNoticeStart "Kombedi tye ka mako ki i">
 <!ENTITY performanceUI.console.recordingNoticeEnd   "">
 <!-- LOCALIZATION NOTE (performanceUI.console.stopCommandStart/stopCommandEnd):
   -  This string is displayed when a recording is selected that started via console.profile.

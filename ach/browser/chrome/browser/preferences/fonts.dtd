@@ -66,7 +66,7 @@
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Loko coc i kod pi jami ma con">
 <!ENTITY languages.customize.Fallback2.label      "Loko coc i kod me dok cen:">
-<!ENTITY languages.customize.Fallback2.accesskey  "T">
+<!ENTITY languages.customize.Fallback2.accesskey  "L">
 <!ENTITY languages.customize.Fallback2.desc       "Loko coc i kod man kitiyo kwede pi jami ma con ma pe tuco pi lokke ne i kod.">
 
 <!ENTITY languages.customize.Fallback.auto        "Ma pire kene pi kabedo ma kombedi">
