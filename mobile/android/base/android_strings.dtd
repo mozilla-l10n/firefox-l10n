@@ -11,14 +11,15 @@
 <!ENTITY  onboard_start_subtext3 "ನಿಮ್ಮ ಮೊಬೈಲ್ ಜಾಲ ವೀಕ್ಷಣೆಯ ಅನುಭವವನ್ನು ನೈಜವಾಗಿ ನಿಮ್ಮ ಸ್ವಂತದ್ದಾಗಿಸಿಕೊಳ್ಳಿ.">
 <!ENTITY  onboard_start_button_account "&brandShortName; ಗೆ ಲಾಗಿನ್ ಮಾಡಿ">
 <!ENTITY  onboard_start_button_browser "ಅಂತರ್ಜಾಲದ ವೀಕ್ಷಣೆಯನ್ನು ಪ್ರಾರಂಭಿಸಿ">
+<!ENTITY firstrun_button_next "ಮುಂದೆ">
 
 
-
+<!ENTITY firstrun_import_title "ಆಮದು">
 <!ENTITY firstrun_import_message "&brandShortName; ಗೆ ಸ್ವಾಗತ">
-
-
-
-
+<!ENTITY firstrun_import_subtext "ಮತ್ತೊಂದು ಬ್ರೌಸರ್‌ನಿಂದ ಪುಟಗುರುತುಗಳು ಮತ್ತು ಇತಿಹಾಸವನ್ನು ಆಮದುಮಾಡು.">
+<!ENTITY firstrun_import_action "ವರ್ಗಾಯಿಸು ಇದಕ್ಕೆ &brandShortName; ">
+<!ENTITY firstrun_import_dialog_button "ವರ್ಗಾಯಿಸು">
+<!ENTITY firstrun_import_progress_title "ವರ್ಗಾಯಿಸಲಾಗುತ್ತಿದೆ">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -63,9 +64,9 @@
 
 <!ENTITY history_today_section "ಇಂದು">
 <!ENTITY history_yesterday_section "ನಿನ್ನೆ">
-
-
-
+<!ENTITY history_week_section3 "ಕಳೆದ 7 ದಿನಗಳು">
+<!ENTITY history_this_month_section "ಈ ತಿಂಗಳು">
+<!ENTITY history_older_section3 "೬ ತಿಂಗಳಿಗಿಂತ ಹಳೆಯದಾದ">
 
 <!ENTITY go "ಹೋಗು">
 <!ENTITY search "ಹುಡುಕು">
@@ -579,9 +580,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Tracking content notifications in site identity popup -->
 
-
-
-
+<!ENTITY doorhanger_tracking_title "ಜಾಡು ಇರಿಸುವಿಕೆಗೆ ರಕ್ಷಣೆ">
+<!ENTITY doorhanger_tracking_state_enabled "ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ">
+<!ENTITY doorhanger_tracking_state_disabled "ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ">
+<!ENTITY doorhanger_tracking_message_enabled1 "ನಿಮ್ಮ ಆನ್‌ಲೈನ್ ಚಟುವಟಿಕೆಗಳ ಜಾಡು ಹಿಡಿಯುವ ಪ್ರಯತ್ನಗಳನ್ನು ಪ್ರತಿಬಂಧಿಸಲಾಗಿದೆ.">
+<!ENTITY doorhanger_tracking_message_disabled2 "ಈ ಪುಟವು ನಿಮ್ಮ ಆನ್‌ಲೈನ್ ಚಟುವಟಿಕೆಗಳ ಜಾಡು ಹಿಡಿಯುವ ಕೆಲವೊಂದು ಅಂಶಗಳನ್ನು ಒಳಗೊಂಡಿದೆ.">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
 <!ENTITY learn_more "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
@@ -592,6 +595,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "ಖಾಸಗಿ ದತ್ತಾಂಶವನ್ನು ತೆಗೆದುಹಾಕಲಾಗಿದೆ">
 <!ENTITY private_data_fail "ಕೆಲವು ಖಾಸಗಿ ದತ್ತಾಂಶಗಳನ್ನು ಅಳಿಸಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ">
 
+<!ENTITY bookmarkhistory_button_import "ಆಮದು">
 <!ENTITY bookmarkhistory_import_both "ಪುಟಗುರುತುಗಳು ಮತ್ತು ಇತಿಹಾಸವನ್ನು ಆಂಡ್ರಾಯ್ಡ್‌ನಿಂದ 
 ಆಮದು ಮಾಡಲಾಗುತ್ತಿದೆ">
 <!ENTITY bookmarkhistory_import_bookmarks "ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳನ್ನು ಆಮದುಮಾಡಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ 
@@ -693,7 +697,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
-
+<!ENTITY restriction_disallow_import_settings_title2 "\u0027ಆಂಡ್ರಾಯ್ಡ್‌ನಿಂದ ಆಮದುಮಾಡು\u0027 ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ">
+<!ENTITY restriction_disallow_addons_title2 "ಆಡ್-ಆನ್ ಅನುಸ್ಥಾಪಿಸುವುದನ್ನು ಅಶಕ್ತಗೊಳಿಸಿ">
+<!ENTITY restriction_disallow_devtools_title2 "ವಿಕಸನಾ ಉಪಕರಣಗಳನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸು">
 
 
 
