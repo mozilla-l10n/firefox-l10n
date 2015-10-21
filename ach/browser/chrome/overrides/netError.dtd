@@ -132,7 +132,8 @@ meno &brandShortName; tye ki rukuca me donyo i Kakube.</li>
 <!ENTITY malwareBlocked.longDesc "<p>Kakube ma ki tiyo kwedgi calo kamony temo keto purugram ma kwalo ngec me mung pa dano, tiyo ki komputa mamegi me monyo jo mukene, onyo balo nyonyo ni.</p> 
 <p>Wegi kakube ma ye ni kakube gi bal obedo tye oweko ki miyo ripot ni kakube gi obedo me kamony romo <a href='http://www.stopbadware.org/home/reviewinfo' >kwayo ni ki nen odoco</a>.</p>">
 
-
+<!ENTITY unwantedBlocked.title "Kakube ma kibyeko ni pi purugram mape kimito!">
+<!ENTITY unwantedBlocked.longDesc "<p>Potbuk me purugram mape kimito teme me keto purugram ma twero bedo me bwola kadong balo nyonyo mamegi i yoo mape byeke.</p>">
 
 <!ENTITY phishingBlocked.title "Kakube ma kigeco ni kiteto ateta!">
 <!ENTITY phishingBlocked.longDesc "<p>Keto kit ngec mo keken ma keme ki dano i pot buk man romo kelo adwogi me kwo me jami pa dano onyo goba mogo.</p> 
