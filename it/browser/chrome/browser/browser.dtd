@@ -509,7 +509,7 @@
 <!ENTITY identity.activeLoaded "La protezione è disattivata per questa pagina.">
 <!ENTITY identity.weakEncryption "Questa pagina utilizza una cifratura debole.">
 <!ENTITY identity.description.insecure "La connessione con questo sito non è privata. Le informazioni inviate, come ad esempio password, messaggi, dati delle carte di credito, ecc. potrebbero essere visibili ad altri soggetti.">
-<!ENTITY identity.description.insecureLoginForms "Le informazioni di accesso inserite in questa pagina non sono sicure e potrebbero essere compromesse.">
+<!ENTITY identity.description.insecureLoginForms "Le informazioni di accesso inserite in questa pagina non sono sicure e potrebbero essere vulnerabili.">
 <!ENTITY identity.description.weakCipher "La connessione con questo sito web utilizza una cifratura debole e non è privata.">
 <!ENTITY identity.description.weakCipher2 "Altri soggetti potrebbero visualizzare le informazioni trasmesse o modificare il comportamento del sito.">
 <!ENTITY identity.description.activeBlocked "Alcuni elementi non sicuri di questa pagina sono stati bloccati da &brandShortName;.">
