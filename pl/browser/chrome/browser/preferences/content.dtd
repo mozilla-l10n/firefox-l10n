@@ -10,6 +10,9 @@
 <!ENTITY notificationsPolicyDesc.label "Wybierz strony mogące wyświetlać powiadomienia">
 <!ENTITY notificationsPolicyButton.label "Wybierz…">
 <!ENTITY notificationsPolicyButton.accesskey "z">
+<!ENTITY notificationsDoNotDisturb.label "Nie przeszkadzać">
+<!ENTITY notificationsDoNotDisturb.accesskey "N">
+<!ENTITY notificationsDoNotDisturbDetails.value "Powiadomienia nie będą wyświetlane do czasu ponownego uruchomienia programu &brandShortName;">
 
 <!ENTITY  popupExceptions.label       "Wyjątki…">
 <!ENTITY  popupExceptions.accesskey   "W">
@@ -21,7 +24,7 @@
 <!ENTITY  defaultSize.accesskey       "R">
 
 <!ENTITY  advancedFonts.label         "Zaawansowane…">
-<!ENTITY  advancedFonts.accesskey     "n">
+<!ENTITY advancedFonts.accesskey "s">
 
 <!ENTITY  colors.label                "Kolory…">
 <!ENTITY  colors.accesskey            "K">
