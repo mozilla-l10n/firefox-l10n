@@ -161,7 +161,7 @@ functionality specific to firefox. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY errorReporting.title "Kel lok pi bal ma">
-<!ENTITY errorReporting.longDesc "Kelo lok pi ngec me kabedo ki waraga pi <span id='hostname'></span> bi konyo wa nyuto ki gengo kakube ma raco. Pwoc pi konyo cweyo kakube ma ber">
+<!ENTITY errorReporting.longDesc "Miyo ripot ikom kabedo ki ngec me catibiket pi <span id='hostname'></span> bi konyo wa nyuto ki gengo kakube ma raco. Pwoc pi konyo cweyo kakube ma ber!">
 <!ENTITY errorReporting.automatic "Kel lok pire kene pi bal iye anyim">
 <!ENTITY errorReporting.learnMore "Nong ngec mapol…">
 <!ENTITY errorReporting.sending "Tye ka cwalo lok">

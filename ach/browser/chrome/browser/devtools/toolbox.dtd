@@ -101,11 +101,11 @@
   -  tooltip for the checkbox that toggles the cache on or off. -->
 
 <!ENTITY options.disableCache.label2     "Juk kano (kace gintic tye ayaba)">
-<!ENTITY options.disableCache.tooltip2   "Dwoyo gin ayera man bijuko kano pi dirica matino weng matye ki gintic ayaba">
+<!ENTITY options.disableCache.tooltip2   "Keto gin ayera man bijuko kano pi dirica matino weng matye ki bok gitic ayaba.">
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
-<!ENTITY options.enableServiceWorkersHTTP.tooltip   "Keto gin ayera man bicako tic i HTTP pi dirica matino weng matye ki ginticce ayaba">
+<!ENTITY options.enableServiceWorkersHTTP.tooltip   "Keto gin ayera man bicako tic i HTTP pi dirica matino weng matye ki ginticce ayaba.">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->

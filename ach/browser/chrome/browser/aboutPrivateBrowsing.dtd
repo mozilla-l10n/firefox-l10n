@@ -54,8 +54,8 @@
      -->
 
 <!ENTITY trackingProtection.state.width        "6ch">
-<!ENTITY trackingProtection.state.enabled      "Tye">
-<!ENTITY trackingProtection.state.disabled     "Pe tye">
+<!ENTITY trackingProtection.state.enabled      "ON">
+<!ENTITY trackingProtection.state.disabled     "OFF">
 
 <!ENTITY trackingProtection.description1       "Dirica me mung dong gengo but potbuk ma twero lubo kor tic me yeny mamegi.">
 

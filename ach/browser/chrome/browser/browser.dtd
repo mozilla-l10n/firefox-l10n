@@ -738,7 +738,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY socialToolbar.title        "Jarara me gintic me kube ki lwak">
 
-<!ENTITY social.ok.label       "Kakare">
+<!ENTITY social.ok.label       "KAKARE">
 <!ENTITY social.ok.accesskey   "K">
 
 <!ENTITY social.toggleSidebar.label "Nyut gintic ma i nget">
@@ -860,7 +860,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.openNewWindow           "Yabo dirica manyen maleng">
 
 <!ENTITY panicButton.view.undoWarning             "Tic man pe kitwero gonyo ne.">
-<!ENTITY panicButton.view.forgetButton            "Wek wi wil">
+<!ENTITY panicButton.view.forgetButton            "Wek wi owilo!">
 
 <!ENTITY panicButton.thankyou.msg1                "Gin mukato cokcok mamegi kijwayo woko.">
 <!ENTITY panicButton.thankyou.msg2                "Yeny ma ber!">
