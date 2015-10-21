@@ -536,7 +536,7 @@
 <!ENTITY identity.connectionFile "Questa pagina è salvata sul dispositivo in uso.">
 <!ENTITY identity.connectionVerified1 "La connessione con questo sito è sicura. Il sito è gestito da:">
 <!ENTITY identity.connectionInternal "Questa è una pagina sicura di &brandShortName;.">
-<!ENTITY identity.insecureLoginForms "Questo accesso potrebbe essere compromesso.">
+<!ENTITY identity.insecureLoginForms "Questo accesso potrebbe essere vulnerabile.">
 <!ENTITY identity.activeBlocked "Alcuni elementi non sicuri di questa pagina sono stati bloccati da &brandShortName;.">
 <!ENTITY identity.passiveLoaded "Alcuni elemementi di questa pagina non sono sicuri (ad esempio immagini).">
 <!ENTITY identity.activeLoaded "La protezione è disattivata per questa pagina.">
