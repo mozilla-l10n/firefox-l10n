@@ -23,7 +23,8 @@
 <!ENTITY cmd.back.tooltip                     "एकटा पृष्ठ पाछाँ जाउ">
 <!ENTITY cmd.forward.tooltip                  "एकटा पृष्ठ आगाँ जाउ">
 
-
+<!ENTITY showUnsignedExtensions.button.label  "किछु विस्तार जाँचल नहि जाए सकल">
+<!ENTITY showAllExtensions.button.label       "सभ विस्तार देखाबू">
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "सभटा सहयुक्ति सुरक्षित विधि क द्वारा निष्क्रिय कएल गेल अछि.">
@@ -104,8 +105,8 @@
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "हटाउ">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
-
-
+<!ENTITY cmd.debugAddon.label                 "डिबग (c)">
+<!ENTITY cmd.debugAddon.accesskey             "c">
 <!ENTITY cmd.showPreferencesWin.label         "विकल्प">
 <!ENTITY cmd.showPreferencesWin.tooltip       "ई सहयुक्तिक विकल्पकेँ बदलू">
 <!ENTITY cmd.showPreferencesUnix.label        "वरीयता">
@@ -233,14 +234,17 @@
 
 <!ENTITY setting.learnmore "आओर जानू">
 
+<!ENTITY disabledUnsigned.heading "किछु सहयुक्ति निष्क्रिय कएल गेल अछि">
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-
-
-
+<!ENTITY disabledUnsigned.description.start "&brandShortName; निम्नलिखित एड-ऑन उपयोग मे जाँचल नहि गेल अछि. अहाँ जाँचि सकैत छी">
+<!ENTITY disabledUnsigned.description.findAddonsLink "प्रतिस्थापन पाबू">
+<!ENTITY disabledUnsigned.description.end "अथवा डेवलपर सँ कहियो कि ओकरा जाँचि लिअ.">
+<!ENTITY disabledUnsigned.learnMore "अहाँ अपना केँ ऑनलाइन सुरक्षित राखब लेल हमर आओर अनेक प्रयासक बारे मे जानकारी पाउ.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
-
-
+<!ENTITY disabledUnsigned.devInfo.start "डेवलपर रुचि देखाबत हुए अपन एड-ऑन केँ जाँचनाय जारी राखत पढ़ि कए">
+<!ENTITY disabledUnsigned.devInfo.linkToManual "मैनुअल">
+<!ENTITY disabledUnsigned.devInfo.end ".">

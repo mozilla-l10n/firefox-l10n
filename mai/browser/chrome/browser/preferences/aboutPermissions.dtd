@@ -41,5 +41,6 @@
 
 <!ENTITY popup.label                     "पाप-अप विंडो खोलू">
 
+<!ENTITY push.label                      " पुश अधिसूचना पाबू">
 <!ENTITY camera.label                    "कैमरा क उपयोग करू">
 <!ENTITY microphone.label                "माइक्रोफोन क उपयोग करू">

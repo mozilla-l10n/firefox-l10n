@@ -4,28 +4,32 @@
 
 <!ENTITY tracking.label                 "ट्रैकिंग">
 
-
+<!ENTITY dntTrackingNotOkay4.label     "अनुरोध करू जे ओ साइट अहाँक ट्रैक नहि करै.">
+<!ENTITY dntTrackingNotOkay4.accesskey "n">
 <!ENTITY doNotTrackInfo.label          "आओर जानू">
+<!ENTITY trackingProtection5.label     "ट्रैकिंग सुरक्षा उपयोग करू">
+<!ENTITY trackingProtection5.accesskey "i">
+<!ENTITY trackingProtectionLearnMore.label "आओर जानू">
+<!ENTITY trackingProtectionPBM5.label         "निज विंडो मे ट्रैकिंग सुरक्षा उपयोग करू">
+<!ENTITY trackingProtectionPBM5.accesskey     "v">
+<!ENTITY trackingProtectionPBMLearnMore.label "आओर जानू">
 
-
-
-
-
-
-
+<!ENTITY  history.label                 "इतिहास">
 
 <!ENTITY  locationBar.label             "स्थान पट्टी">
 
+<!ENTITY  locbar.suggest.label          "जखन स्थान पट्टीक प्रयोग कएल जाए रहल अछि, सलाह दिअ':">
+<!ENTITY  locbar.history.label          "इतिहास (H)">
+<!ENTITY  locbar.history.accesskey      "H">
+<!ENTITY  locbar.bookmarks.label        "पुस्तकचिह्न (k)">
+<!ENTITY  locbar.bookmarks.accesskey    "k">
+<!ENTITY  locbar.openpage.label         "टैब खोलू (O)">
+<!ENTITY  locbar.openpage.accesskey     "O">
+<!ENTITY  locbar.searches.label         "तयशुदा खोज इंजिन द्वारा संबंधित खोज">
+<!ENTITY  locbar.searches.accesskey     "d">
 
-
-
-
-
-
-
-
-
-
+<!ENTITY  suggestionSettings.label      "खोज इंजिन सुझाव कलेल वरीयता बदलू (g)">
+<!ENTITY  suggestionSettings.accesskey  "g">
 
 <!ENTITY  acceptCookies.label           "साइट सँ कुकीज स्वीकारू">
 <!ENTITY  acceptCookies.accesskey       "A">
@@ -36,7 +40,8 @@
 <!ENTITY  acceptThirdParty.never.label    "कखनो नहि">
 <!ENTITY  acceptThirdParty.visited.label  "भ्रमण कएलसँ">
 
-
+<!ENTITY  keepUntil.label               "जारी राखू जखन धरि (u):">
+<!ENTITY  keepUntil.accesskey           "u">
 
 <!ENTITY  expire.label                  "हुनकर मियाद पूर्ण होइछ">
 <!ENTITY  close.label                   "हम &brandShortName; बन्न करैत छी">

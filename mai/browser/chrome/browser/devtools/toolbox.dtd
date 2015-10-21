@@ -32,6 +32,8 @@
 <!ENTITY toolboxFramesTooltip          "iframe केँ बतौर लक्षित दस्तावेज़ केर रूप मे चुनू">
 <!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
   -  shown next to error details when the Browser Toolbox is unable to open. -->
+
+<!ENTITY browserToolboxErrorMessage          "ब्राउजर टूलकिट खोलब मे त्रुटि:">
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 
