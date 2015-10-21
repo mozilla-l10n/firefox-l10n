@@ -4,6 +4,6 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
    %brandDTD;
 <!ENTITY aboutLogins.title                       "ಲಾಗಿನ್‌ಗಳು">
-
-
+<!ENTITY aboutLogins.update                      "ಅಪ್‌ಡೇಟ್">
+<!ENTITY aboutLogins.emptyLoginText              "ನಿಮ್ಮ ಲಾಗಿನ್‌ಗಳನ್ನು ಸುರಕ್ಷಿತವಾಗಿರಿಸಿಕೊಳ್ಳಿ">
 
