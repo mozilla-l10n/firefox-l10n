@@ -6,10 +6,11 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-
+<!ENTITY  overridePageColors.label        "उप्पर केर चयन केर सँग पृष्ठ केर द्वारा रंग केँ अधिरोहित करू:">
+<!ENTITY  overridePageColors.accesskey    "O">
 
 <!ENTITY  overridePageColors.always.label "हमेशा">
-
+<!ENTITY  overridePageColors.auto.label   "केवल उच्च विरोधी प्रसंग">
 <!ENTITY  overridePageColors.never.label  "कखनो नहि">
 
 <!ENTITY  color                           "पाठ आ पृष्ठभूमि">

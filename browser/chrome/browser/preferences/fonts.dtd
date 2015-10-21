@@ -46,7 +46,7 @@
 <!ENTITY  font.langGroup.gurmukhi                 "गुरूमुखी">
 <!ENTITY  font.langGroup.khmer                    "ख्मेर">
 <!ENTITY  font.langGroup.malayalam                "मलयालम">
-
+<!ENTITY  font.langGroup.math                     "गणित">
 <!ENTITY  font.langGroup.oriya                    "उड़िया">
 <!ENTITY  font.langGroup.telugu                   "तेलुगु">
 <!ENTITY  font.langGroup.kannada                  "कन्नड़">
@@ -64,8 +64,8 @@
 <!ENTITY  allowPagesToUse.label                   "पृष्ठ केँ हुनका अपन फान्ट चुनबाक लेल स्वीकारू, हमर चयनक बदललक">
 <!ENTITY  allowPagesToUse.accesskey               "A">
 
-
-
+<!ENTITY languages.customize.Fallback2.label      "फालबैक आओर टेक्स्ट एनकोडिं( T):">
+<!ENTITY languages.customize.Fallback2.accesskey  "T">
 
 
 <!ENTITY languages.customize.Fallback.auto        "वर्तमान लोकेलक लेल पूर्वनिर्धारित">
@@ -103,4 +103,4 @@
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.vietnamese  "वियतनामी">
-
+<!ENTITY languages.customize.Fallback.other       "आन (पश्चिमी यूरोपीय सहित)">

@@ -22,7 +22,7 @@
 <!ENTITY  generalReferrer       "संदर्भ URL:">
 <!ENTITY  generalSource         "कैश स्रोत:">
 <!ENTITY  generalModified       "रूपांतरित:">
-
+<!ENTITY  generalEncoding2      "पाठ एनकोडिंग:">
 <!ENTITY  generalMetaName       "नाम">
 <!ENTITY  generalMetaContent    "अंतर्वस्तु">
 
