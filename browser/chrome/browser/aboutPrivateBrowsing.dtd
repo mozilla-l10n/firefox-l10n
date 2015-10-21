@@ -36,6 +36,7 @@
 <!ENTITY aboutPrivateBrowsing.info.downloads   "ಇಳಿಕೆಗಳು">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "ಪುಟಗುರುತುಗಳು">
 
+<!ENTITY aboutPrivateBrowsing.note1            "ನಿಮ್ಮ ಉದ್ಯೋಗದಾತರು ಅಥವಾ ನಿಮಗೆ ಅಂತರಜಾಲವನ್ನು ಸೇವೆಯನ್ನು ಒದಗಿಸುವವರು ನೀವು ಭೇಟಿ ನೀಡುವ ಪುಟವನ್ನು ಗಮನಿಸುವ ಸಾಧ್ಯತೆ ಇರುತ್ತದೆ.">
 <!ENTITY aboutPrivateBrowsing.learnMore        "ಇನ್ನಷ್ಟು ತಿಳಿದುಕೊಳ್ಳಿ.">
 <!-- LOCALIZATION NOTE (trackingProtection.width):
      Width of the Tracking Protection section. It is fine for the enabled or
