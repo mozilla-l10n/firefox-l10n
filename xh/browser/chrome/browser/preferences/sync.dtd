@@ -91,7 +91,7 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY signedIn.engines.label       "Ngqamanisa zonke izixhobo">
 
-<!ENTITY mobilePromo.start            "Dawnlowuda iFirefox ye">
+<!ENTITY mobilePromo.start            "Dawnlowuda i-Firefox ye">
 <!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
 <!ENTITY mobilePromo.androidLink      "Android™">
 <!ENTITY mobilePromo.end              "ukuze ungqamanise nezixhobo zakho zemobhayili.">

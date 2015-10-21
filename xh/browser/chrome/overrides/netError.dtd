@@ -35,7 +35,7 @@ ukuba i-&brandShortName; ivunyelwe ukufikelela kwiWebhu.</li>
 
 
 <!ENTITY generic.title "Oops.">
-<!ENTITY generic.longDesc "I-<p>&brandShortName;ayinakho ukulayisha eli khasi ngesizathu esithile.</p>">
+<!ENTITY generic.longDesc "<p>I-&brandShortName;ayinakho ukulayisha eli khasi ngesizathu esithile.</p>">
 
 <!ENTITY malformedURI.title "Idilesi ayisebenzi">
 <!ENTITY malformedURI.longDesc "<ul> 
