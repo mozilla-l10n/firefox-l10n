@@ -11,7 +11,7 @@
 <!ENTITY  pluginupdateslink.label         "Bona ukuba zihlaziywa njani na iisoftwe ezincedisayo zakho.">
 
 <!ENTITY  noupdatesfound.title            "Akukho luhlaziyo luFunyenweyo">
-<!ENTITY  noupdatesautoenabled.intro      "Akukho zihlaziyi zifumanekayo.ze-&brandShortName; iya kukhangela 
+<!ENTITY  noupdatesautoenabled.intro      "Akukho zihlaziyi zifumanekayo. Ze-&brandShortName; iya kukhangela 
 izihlaziyi amaxesha ngamaxesha.">
 <!ENTITY  noupdatesautodisabled.intro     "Akukho zihlaziyi zifumanekayo. Nceda ukhangele kwakhona kamva okanye kwenze kusebenze ukukhangela kohlaziyo 
 lwe-&brandShortName; okuzenzekelayo.">
