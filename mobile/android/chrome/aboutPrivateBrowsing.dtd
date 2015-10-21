@@ -11,10 +11,14 @@
 <!-- Localization note (privatebrowsingpage.title.normal1): "Private Browsing"
      is capitalized in English to be consistent with our existing uses of the
      term. -->
+<!ENTITY privatebrowsingpage.title.normal1 "Anda sedang dalam Mode Penjelajahan Pribadi">
+
+<!ENTITY privatebrowsingpage.description.private3 "Firefox akan mencegah Anda agar tidak dilacak dan tidak akan mengingat riwayat, tetapi berkas yang diunduh dan markah baru tetap akan disimpan pada perangkat Anda.">
 
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing" is capitalized in English to be consistent with our existing uses
      of the term. -->
+<!ENTITY privatebrowsingpage.description.normal2 "Dalam Mode Penjelajahan Pribadi, kami tidak akan menyimpan riwayat penjelajahan atau kuki Anda. Markah yang ditambahkan dan berkas yang diunduh masih tetap disimpan pada perangkat Anda.">     
 
 <!ENTITY privatebrowsingpage.link.private "Ingin mempelajari lebih lanjut?">
 <!ENTITY privatebrowsingpage.link.normal "Buka tab pribadi baru">

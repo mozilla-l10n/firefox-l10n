@@ -10,7 +10,7 @@
 <!ENTITY  onboard_start_subtext3 "Jelajahi Web dengan cara Anda sendiri.">
 <!ENTITY  onboard_start_button_account "Masuk ke &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Mulai Menjelajah">
-
+<!ENTITY  onboard_start_restricted1 "Tetap aman dan terkendali dengan versi &brandShortName; yang lebih simpel.">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -70,7 +70,7 @@
 
 <!ENTITY close_tab "Tutup Tab">
 <!ENTITY tab_audio_playing "Tab ini memutar audio">
-
+<!ENTITY tab_audio_muted "Tab ini telah dibisukan">
 <!ENTITY one_tab "1 tab">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -158,9 +158,9 @@
 <!ENTITY pref_search_hint "KIAT: Tambahkan situs apa saja ke daftar mesin pencari dengan menekan lama pada bidang pencarian lalu mengetuk ikon &formatI;.">
 <!ENTITY pref_category_devtools "Alat pengembang">
 <!ENTITY pref_developer_remotedebugging "Pendebugan daring">
-
-
-
+<!ENTITY pref_developer_remotedebugging_usb "Pendebugan daring via USB">
+<!ENTITY pref_developer_remotedebugging_wifi "Pendebugan daring via Wi-Fi">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Pendebugan lewat Wi-Fi membutuhkan aplikasi pembaca kode QR yang terpasang pada perangkat Anda.">
 <!ENTITY pref_category_logins "Info masuk">
 <!ENTITY pref_remember_signons2 "Ingat info masuk">
 <!ENTITY pref_open_external_urls_privately_title "Buka tautan dalam Penjelajahan pribadi">
@@ -198,14 +198,14 @@
 <!ENTITY pref_cookies_disabled "Matikan">
 
 <!ENTITY pref_tracking_protection_title "Perlindungan pelacakan">
-
+<!ENTITY pref_tracking_protection_summary3 "Diaktifkan dalam Mode Penjelajahan Pribadi">
 <!ENTITY pref_donottrack_title "Jangan lacak">
 <!ENTITY pref_donottrack_summary "&brandShortName; akan memberi tahu situs bahwa Anda tidak ingin dilacak">
 
 <!ENTITY tracking_protection_prompt_title "Kini dengan Perlindungan Pelacakan">
-
-
-
+<!ENTITY tracking_protection_prompt_text "Blokir elemen secara aktif agar Anda tidak perlu khawatir.">
+<!ENTITY tracking_protection_prompt_tip_text "Kunjungi setelan Privasi untuk mempelajari lebih lanjut">
+<!ENTITY tracking_protection_prompt_action_button "Paham!">
 
 <!ENTITY tab_queue_toast_message3 "Tab disimpan di &brandShortName;">
 <!ENTITY tab_queue_toast_action "Buka sekarang juga">
@@ -412,6 +412,8 @@ size. -->
 <!ENTITY pref_titlebar_mode_url "Tampilkan alamat laman">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
+<!ENTITY pref_prevent_magnifying_glass "Nonaktifkan kaca pembesar ">
+<!ENTITY pref_prevent_magnifying_glass_summary "Cegah penggunaan kaca pembesar untuk memecahkan masalah sentuhan layar yang membingungkan">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
@@ -564,16 +566,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY mixed_content_blocked_all "&brandShortName; telah memblokir elemen tidak aman di laman ini.">
 <!ENTITY mixed_content_blocked_some "&brandShortName; telah memblokir sejumlah elemen tidak aman di laman ini.">
-
-
+<!ENTITY mixed_content_display_loaded "Laman ini mengandung beberapa elemen tidak aman.">
+<!ENTITY mixed_content_protection_disabled "Anda menonaktifkan perlindungan dari elemen tidak aman.">
 
 <!ENTITY loaded_mixed_content_message "Laman ini menampilkan konten yang tidak aman.">
 <!ENTITY blocked_mixed_content_message_top "&brandShortName; telah memblokir konten yang tidak aman.">
 <!ENTITY blocked_mixed_content_message_bottom "Sebagian besar situs web masih dapat berfungsi dengan baik meskipun konten ini diblokir.">
 <!-- Tracking content notifications in site identity popup -->
+<!ENTITY doorhanger_tracking_title "Perlindungan pelacakan">
 <!ENTITY doorhanger_tracking_state_enabled "Aktif">
-
-
+<!ENTITY doorhanger_tracking_state_disabled "Nonaktif">
+<!ENTITY doorhanger_tracking_message_enabled1 "Percobaan untuk melacakan perilaku daring Anda telah diblokir.">
+<!ENTITY doorhanger_tracking_message_disabled2 "Laman ini menyertakan elemen yang mungkin melacak penjelajahan Anda.">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 
@@ -683,16 +687,19 @@ dari Android">
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
+<!ENTITY devtools_auth_scan_header "Memindai kode QR yang ditampilkan pada perangkat lainnya">
+
 <!-- Restrictions -->
 <!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
-
-
-
-
-
-
-
-
-
+<!ENTITY restriction_disallow_import_settings_title2 "Nonaktifkan \'Impor dari Android\'">
+<!ENTITY restriction_disallow_addons_title2 "Nonaktifkan pemasangan pengaya">
+<!ENTITY restriction_disallow_devtools_title2 "Nonaktifkan alat pengembang">
+<!ENTITY restriction_disallow_customize_home_title2 "Nonaktifkan penyesuaian Beranda">
+<!ENTITY restriction_disallow_private_browsing_title2 "Nonaktifkan Mode Penjelajahan Pribadi">
+<!ENTITY restriction_disallow_location_services_title2 "Nonaktifkan Layanan Lokasi">
+<!ENTITY restriction_disallow_display_settings_title2 "Nonaktifkan setelan Layar">
+<!ENTITY restriction_disallow_clear_history_title2 "Nonaktifkan \'Bersihkan riwayat penjelajahan\'">
+<!ENTITY restriction_disallow_master_password_title2 "Nonaktifkan sandi utama">
+<!ENTITY restriction_disallow_guest_browsing_title2 "Nonaktifkan Penjelajahan Tamu">
 
