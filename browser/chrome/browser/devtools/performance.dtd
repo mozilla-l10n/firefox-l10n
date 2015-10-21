@@ -49,6 +49,8 @@
 <!ENTITY performanceUI.clearButton "ಅಳಿಸು">
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
+
+<!ENTITY performanceUI.toolbar.waterfall "ಜಲಪಾತ">
 <!ENTITY performanceUI.toolbar.js-calltree "ಕರೆ ವೃಕ್ಷ">
 <!ENTITY performanceUI.toolbar.memory-calltree "ಹಂಚಿಕೆಗಳು">
 <!ENTITY performanceUI.toolbar.js-flamegraph "JS ಪ್ಲೇಮ್ ನಕ್ಷೆ">
