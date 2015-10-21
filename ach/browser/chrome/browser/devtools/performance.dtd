@@ -22,6 +22,8 @@
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.nonE10SBuild): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a non-multiprocess build. -->
+
+<!ENTITY performanceUI.disabledRealTime.nonE10SBuild "Data me mak pi cawa kikome kijuko woko i Firefox mape timo tic mapol.">
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a build that can run multiprocess Firefox, but just is not enabled. -->
@@ -29,6 +31,8 @@
 <!ENTITY performanceUI.disabledRealTime.disabledE10S "Cak Firefox matiyo mapol ki i ter pi timo mako data maber i cawa kikome.">
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusFull): This string
   -  is displayed when the profiler's circular buffer has started to overlap. -->
+
+<!ENTITY performanceUI.bufferStatusFull "Kakan pi tutunu opongo. Dong kitye ka ruco jami atema macon.">
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the call list view while loading a profile. -->
 
@@ -53,7 +57,7 @@
   -  in the toolbar on buttons that select which view is currently shown. -->
 
 <!ENTITY performanceUI.toolbar.waterfall "Acucur">
-
+<!ENTITY performanceUI.toolbar.js-calltree "Yat me lwongo">
 <!ENTITY performanceUI.toolbar.memory-calltree "Pok">
 <!ENTITY performanceUI.toolbar.js-flamegraph "JS Flame Chart">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "Flame Chart me pok">
@@ -63,17 +67,17 @@
 <!ENTITY performanceUI.table.totalDuration            "Wel cawa">
 <!ENTITY performanceUI.table.totalDuration.tooltip    "Wel cawa ma ki tiyo kwede i tic man ki ticce ma olwongo.">
 <!ENTITY performanceUI.table.selfDuration             "Cawa kenken">
-
+<!ENTITY performanceUI.table.selfDuration.tooltip     "Wel cawa ma ki tiyo kwede i tic man keken.">
 <!ENTITY performanceUI.table.totalPercentage          "Wel duc">
 <!ENTITY performanceUI.table.totalPercentage.tooltip  "Pacen me cawa ma ki tiyo kwede i tic man ki ticce ma olwongo.">
 <!ENTITY performanceUI.table.selfPercentage           "Wel kene">
 <!ENTITY performanceUI.table.selfPercentage.tooltip   "Pacen me cawa ma ki tiyo kwede i tic man keken.">
 <!ENTITY performanceUI.table.samples                  "Me atema">
-
+<!ENTITY performanceUI.table.samples.tooltip          "Wel tyen ma tic man obedo i dur ma laco propwail okwanyo kwede gin atema.">
 <!ENTITY performanceUI.table.function                 "Tic">
 <!ENTITY performanceUI.table.function.tooltip         "Nying ki kama tic ma ki temo ni oaa iye.">
-
-
+<!ENTITY performanceUI.table.totalAlloc               "Wel pok weng ma kitemo">
+<!ENTITY performanceUI.table.totalAlloc.tooltip       "Wel jami weng ma ki poko ma kitemo i kabedo man ki i lwongo.">
 <!ENTITY performanceUI.table.selfAlloc                "Ma poke kene ma kitemo">
 <!ENTITY performanceUI.table.selfAlloc.tooltip        "Wel jami ma ki poko ma kitemo i kabedo man.">
 <!-- LOCALIZATION NOTE (performanceUI.newtab.tooltiptext): The tooltiptext shown
@@ -136,6 +140,8 @@
 <!ENTITY performanceUI.enableJITOptimizations.tooltiptext "Mak data me tic maber pa JIT ma kitemo i pem me Javascript weng.">
 <!-- LOCALIZATION NOTE (performanceUI.JITOptimizationsTitle): This string
   -  is displayed as the title of the JIT Optimizations panel. -->
+
+<!ENTITY performanceUI.JITOptimizationsTitle "Timo JIT maber">
 <!-- LOCALIZATION NOTE (performanceUI.console.recordingNoticeStart/recordingNoticeEnd):
   -  This string is displayed when a recording is selected that started via console.profile.
   -  Wraps the command used to start, like "Currently recording via console.profile("label")" -->

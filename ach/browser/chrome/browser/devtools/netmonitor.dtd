@@ -257,6 +257,8 @@
 <!ENTITY netmonitorUI.context.copyUrl.accesskey "U">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrlParams): This is the label displayed
   -  on the context menu that copies the selected request's url parameters -->
+
+<!ENTITY netmonitorUI.context.copyUrlParams     "Lok jami tic me URL">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrlParams.accesskey): This is the access key
   -  for the Copy URL Parameters menu item displayed in the context menu for a request -->
 

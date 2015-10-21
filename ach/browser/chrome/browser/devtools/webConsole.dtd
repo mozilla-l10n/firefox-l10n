@@ -108,5 +108,5 @@
 <!ENTITY closeCmd.key         "W">
 <!ENTITY findCmd.key          "F">
 <!ENTITY clearOutputCtrl.key  "L">
-
-
+<!ENTITY openInVarViewCmd.label "Yab i neno pa Gin ma romo lokke">
+<!ENTITY openInVarViewCmd.accesskey "G">
