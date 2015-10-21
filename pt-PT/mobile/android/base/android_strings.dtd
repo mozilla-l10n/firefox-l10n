@@ -412,7 +412,7 @@ size. -->
 <!ENTITY contextmenu_top_sites_unpin "Unpin do sítio">
 <!ENTITY contextmenu_add_search_engine "Adicionar motor de pesquisa">
 <!ENTITY contextmenu_mark_read "Marcar como lido">
-<!ENTITY contextmenu_mark_unread "Marcar como não-lido">
+<!ENTITY contextmenu_mark_unread "Marcar como não lido">
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
