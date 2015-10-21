@@ -44,8 +44,6 @@
 <!ENTITY  keepUntil.accesskey           "h">
 <!ENTITY  expire.label                  "aż wygasną">
 <!ENTITY  close.label                   "do zamknięcia programu &brandShortName;">
-<!ENTITY  askEachTime.label             "pytaj za każdym razem">
-
 
 <!ENTITY  cookieExceptions.label        "Wyjątki…">
 <!ENTITY  cookieExceptions.accesskey    "W">
