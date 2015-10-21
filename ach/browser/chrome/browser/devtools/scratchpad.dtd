@@ -66,6 +66,7 @@
 <!ENTITY largerFont.accesskey         "t">
 <!ENTITY largerFont.commandkey        "+">
 <!-- + is above this key on many keyboards -->
+<!ENTITY largerFont.commandkey2       "="> 
 
 <!ENTITY smallerFont.label            "Dite matino">
 <!ENTITY smallerFont.accesskey        "e">

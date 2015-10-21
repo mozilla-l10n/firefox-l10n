@@ -51,27 +51,33 @@
 <!ENTITY btnPageLogging.label   "Gwoko">
 <!ENTITY btnPageLogging.tooltip "Gwok wel me kwena ma kicwalo bot window.console object">
 <!ENTITY btnPageLogging.accesskey3 "L">
-
-
-
-
+<!ENTITY btnConsoleErrors       "Bal">
+<!ENTITY btnConsoleInfo         "Ngec">
+<!ENTITY btnConsoleWarnings     "Cik">
+<!ENTITY btnConsoleLog          "Gwok">
 <!ENTITY btnConsoleXhr          "XHR">
 <!ENTITY btnConsoleReflows      "Nwo yiko">
 <!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls on the HTTP server. -->
 
-
-
-
-
-
+<!ENTITY btnServerLogging.label       "Lapok tic">
+<!ENTITY btnServerLogging.tooltip     "Kwena me gwok ma kinongo ki bot lapok tic me kakube">
+<!ENTITY btnServerLogging.accesskey   "L">
+<!ENTITY btnServerErrors              "Bal">
+<!ENTITY btnServerInfo                "Ngec">
+<!ENTITY btnServerWarnings            "Cik">
+<!ENTITY btnServerLog                 "Gwok">
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
+
+<!ENTITY btnConsoleSharedWorkers "Shared Workers">
 <!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
   -  should not be translated. -->
+<!ENTITY btnConsoleServiceWorkers "Service Workers">
 <!-- LOCALIZATION NODE (btnConsoleWindowlessWorkers) the term "Workers"
   -  should not be translated. -->
+<!ENTITY btnConsoleWindowlessWorkers "Med-ikome onyo Chrome Workers">
 
 <!ENTITY filterOutput.placeholder "Li adwogi">
 <!ENTITY btnClear.label        "Jwa">
@@ -95,5 +101,5 @@
 <!ENTITY closeCmd.key         "W">
 <!ENTITY findCmd.key          "F">
 <!ENTITY clearOutputCtrl.key  "L">
-
-
+<!ENTITY openInVarViewCmd.label "Yab i neno pa Gin ma romo lokke">
+<!ENTITY openInVarViewCmd.accesskey "G">

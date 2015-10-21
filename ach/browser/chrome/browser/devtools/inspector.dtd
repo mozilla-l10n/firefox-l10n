@@ -71,6 +71,8 @@
      shown in the inspector contextual-menu for the item that lets users scroll
      the current node into view -->
 
+<!ENTITY inspectorScrollNodeIntoView.label       "Wii i neno">
+<!ENTITY inspectorScrollNodeIntoView.accesskey   "W">
 <!-- LOCALIZATION NOTE (inspectorHTMLDelete.label): This is the label shown in
      the inspector contextual-menu for the item that lets users delete the
      current node -->
@@ -81,6 +83,8 @@
 <!ENTITY inspector.selectButton.tooltip     "Yer but jami ki mouse">
 <!-- LOCALIZATION NOTE (inspectorSearchHTML.label2): This is the label shown as
      the placeholder in inspector search box -->
+
+<!ENTITY inspectorSearchHTML.label2          "Yeny ki Selectors me CSS">
 <!ENTITY inspectorSearchHTML.key            "F">
 <!-- LOCALIZATION NOTE (inspectorSearchHTML.label3): This is the label that will
      be shown as the placeholder in the future, once the inspector search box
@@ -104,6 +108,8 @@
      shown in the inspector contextual-menu for the item that outputs a
      variable for the current node to the console. When triggered,
      this item opens the split Console. -->
+
+<!ENTITY inspectorUseInConsole.label       "Tim i Kacoc">
 <!-- LOCALIZATION NOTE (inspectorExpandNode.label): This is the label
      shown in the inspector contextual-menu for recursively expanding
      mark-up elements -->
@@ -117,3 +123,5 @@
 <!-- LOCALIZATION NOTE (inspectorScreenshotNode.label): This is the label
      shown in the inspector contextual-menu for the item that lets users take
      a screenshot of the currently selected node. -->
+
+<!ENTITY inspectorScreenshotNode.label       "Kakube me cal kio">
