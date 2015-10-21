@@ -139,7 +139,7 @@ functionality specific to firefox. -->
 <!ENTITY sslv3Used.longDesc "Szczegóły: ssl_error_unsupported_version">
 <!ENTITY sslv3Used.learnMore "Więcej informacji…">
 
-<!ENTITY weakCryptoUsed.title "Połączenie nie gwarntuje bezpieczeństwa">
+<!ENTITY weakCryptoUsed.title "Połączenie nie gwarantuje bezpieczeństwa">
 <!ENTITY weakCryptoUsed.longDesc "Informacje: ssl_error_no_cypher_overlap">
 <!ENTITY weakCryptoUsed.learnMore "Więcej informacji…">
 <!ENTITY weakCryptoAdvanced.title "Zaawansowane">
