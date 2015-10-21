@@ -26,6 +26,14 @@
 <!ENTITY inspectorScrollNodeIntoView.accesskey "P">
 <!ENTITY inspectorHTMLDelete.label "Usuń węzeł">
 <!ENTITY inspectorHTMLDelete.accesskey "U">
+<!ENTITY inspectorAttributeSubmenu.label "Atrybut">
+<!ENTITY inspectorAttributeSubmenu.accesskey "A">
+<!ENTITY inspectorAddAttribute.label "Dodaj atrybut">
+<!ENTITY inspectorAddAttribute.accesskey "D">
+<!ENTITY inspectorEditAttribute.label "Edytuj atrybut">
+<!ENTITY inspectorEditAttribute.accesskey "E">
+<!ENTITY inspectorRemoveAttribute.label "Usuń atrybut">
+<!ENTITY inspectorRemoveAttribute.accesskey "U">
 
 <!ENTITY inspectorCopyUniqueSelector.label "Kopiuj unikalny selektor">
 <!ENTITY inspectorCopyUniqueSelector.accesskey "s">
