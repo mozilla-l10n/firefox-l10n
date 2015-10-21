@@ -188,7 +188,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.label "Zarządzaj ustawieniami DRM">
 <!ENTITY urlbar.toggleAutocomplete.label "Przełącz pole podpowiedzi">
 
-<!ENTITY locationItem.title "Adres" >
 <!ENTITY searchItem.title "Znajdź" >
 
 <!-- Toolbar items -->
