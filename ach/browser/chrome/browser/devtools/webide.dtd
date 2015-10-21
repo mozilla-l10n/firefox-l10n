@@ -41,7 +41,7 @@
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Ma imaro pi nonyo">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
-
+<!ENTITY runtimeMenu_showSettings_label "Ter me nyonyo">
 
 
 <!ENTITY viewMenu_label "Nen">
@@ -94,7 +94,7 @@
 <!ENTITY details_location "Kabedo">
 <!ENTITY details_manifestURL "ID pa purugram">
 <!ENTITY details_removeProject_button "Kwany tic woko">
-
+<!ENTITY details_showPrepackageLog_button "Nyut gwok me boc">
 <!-- New App -->
 
 <!ENTITY newAppWindowTitle "Purugram manyen">
@@ -164,8 +164,10 @@
 <!ENTITY devicepreference_newtext "Wel pi ma imaro">
 <!ENTITY devicepreference_addnew "Med ma imaro manyen">
 <!-- Device Settings -->
-<!ENTITY devicesetting_search "Ter me yeny">
 
+<!ENTITY devicesetting_title "Ter me nyonyo">
+<!ENTITY devicesetting_search "Ter me yeny">
+<!ENTITY devicesetting_newname "Nying manyen me ter">
 
 
 <!-- Monitor -->
@@ -189,10 +191,10 @@
 
 <!ENTITY simulator_reset "Dwok i makwongo">
 <!ENTITY simulator_name "Nying">
-
+<!ENTITY simulator_software "Purugram">
 <!ENTITY simulator_version "Cik">
 <!ENTITY simulator_profile "Propwail">
 
 <!ENTITY simulator_device "Nyonyo">
-
-
+<!ENTITY simulator_screenSize "Kio">
+<!ENTITY simulator_pixelRatio "Pok me Pixel">

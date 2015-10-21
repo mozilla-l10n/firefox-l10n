@@ -11,6 +11,10 @@
 <!-- LOCALIZATION NOTE (performanceUI.startRecording/performanceUI.stopRecording): These are
   -  the labels shown on the main recording buttons to start/stop recording. -->
 
+
+
+<!ENTITY performanceUI.startRecording "Cak mako tic">
+
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusTooltip): This string
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.nonE10SBuild): This string
@@ -19,6 +23,8 @@
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a build that can run multiprocess Firefox, but just is not enabled. -->
+
+<!ENTITY performanceUI.disabledRealTime.disabledE10S "Cak Firefox matiyo mapol ki i ter pi timo mako data maber i cawa kikome.">
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusFull): This string
   -  is displayed when the profiler's circular buffer has started to overlap. -->
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
@@ -42,9 +48,9 @@
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
 
+<!ENTITY performanceUI.toolbar.memory-calltree "Pok">
 
-
-
+<!ENTITY performanceUI.toolbar.memory-flamegraph "Flame Chart me pok">
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
@@ -55,11 +61,11 @@
 <!ENTITY performanceUI.table.totalPercentage          "Wel duc">
 
 <!ENTITY performanceUI.table.selfPercentage           "Wel kene">
-
+<!ENTITY performanceUI.table.selfPercentage.tooltip   "Pacen me cawa ma ki tiyo kwede i tic man keken.">
 <!ENTITY performanceUI.table.samples                  "Me atema">
 
 <!ENTITY performanceUI.table.function                 "Tic">
-
+<!ENTITY performanceUI.table.function.tooltip         "Nying ki kama tic ma ki temo ni oaa iye.">
 
 
 
@@ -70,8 +76,12 @@
 <!ENTITY performanceUI.newtab.tooltiptext "Med dirica matidi manyen ki i me ayera">
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
+
+<!ENTITY performanceUI.options.filter.tooltiptext "Yer data mene me ayara i jami ma otime">
 <!-- LOCALIZATION NOTE (performanceUI.options.tooltiptext): This is the tooltip
   -  for the options button. -->
+
+<!ENTITY performanceUI.options.gear.tooltiptext "Ter miti me tic.">
 <!-- LOCALIZATION NOTE (performanceUI.invertTree): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's call tree. -->
 
@@ -79,6 +89,8 @@
 <!ENTITY performanceUI.invertTree.tooltiptext "Loko yat me lwongo nyuto yo me lwongo ma kicoyo cake ki i pem matidi kadong yare woko wa ikom pem macon.">
 <!-- LOCALIZATION NOTE (performanceUI.invertFlameGraph): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
+
+<!ENTITY performanceUI.invertFlameGraph             "Lok Flame Chart">
 <!ENTITY performanceUI.invertFlameGraph.tooltiptext "Loko flame chart nyuto yoo me lwongo ma kicoyo cake ki i pem matidi loyo ka yare woko wa ikom pem macon.">
 <!-- LOCALIZATION NOTE (performanceUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
@@ -90,30 +102,42 @@
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
   -  functions in the profiler. -->
 
+<!ENTITY performanceUI.flattenTreeRecursion             "Pad nwone pa Tree">
+
 <!-- LOCALIZATION NOTE (performanceUI.enableMemory): This string
   -  is displayed next to a checkbox determining whether or not memory
   -  measurements are enabled. -->
+
+<!ENTITY performanceUI.enableMemory             "Mak kakan">
 
 <!-- LOCALIZATION NOTE (performanceUI.enableAllocations): This string
   -  is displayed next to a checkbox determining whether or not allocation
   -  measurements are enabled. -->
 
+<!ENTITY performanceUI.enableAllocations             "Mak pok">
+<!ENTITY performanceUI.enableAllocations.tooltiptext "Mak pok pa jami ikare me coyo propwail.">
 <!-- LOCALIZATION NOTE (performanceUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
-
+<!ENTITY performanceUI.enableFramerate.tooltiptext "Mak dwiro pa pem ikare me coyo propwail.">
 <!-- LOCALIZATION NOTE (performanceUI.enableJITOptimizations): This string
   -  is displayed next to a checkbox determining whether or not JIT optimization data
   -  should be recorded. -->
+
+<!ENTITY performanceUI.enableJITOptimizations             "Mak timo JIT maber">
 
 <!-- LOCALIZATION NOTE (performanceUI.JITOptimizationsTitle): This string
   -  is displayed as the title of the JIT Optimizations panel. -->
 <!-- LOCALIZATION NOTE (performanceUI.console.recordingNoticeStart/recordingNoticeEnd):
   -  This string is displayed when a recording is selected that started via console.profile.
   -  Wraps the command used to start, like "Currently recording via console.profile("label")" -->
+
+<!ENTITY performanceUI.console.recordingNoticeStart "Kombedi tye ka mako ki i ">
 <!ENTITY performanceUI.console.recordingNoticeEnd   "">
 <!-- LOCALIZATION NOTE (performanceUI.console.stopCommandStart/stopCommandEnd):
   -  This string is displayed when a recording is selected that started via console.profile.
   -  Indicates how to stop the recording, wrapping the command, like
   -  "Stop recording by entering console.profileEnd("label") into the console." -->
 
+<!ENTITY performanceUI.console.stopCommandStart "Juk mako ki keto">
+<!ENTITY performanceUI.console.stopCommandEnd   "i kacoc.">

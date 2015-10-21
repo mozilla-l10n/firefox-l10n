@@ -44,6 +44,8 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.transferred): This is the label displayed
   -  in the network table toolbar, above the "transferred" column, which is the
   -  compressed / encoded size. -->
+
+<!ENTITY netmonitorUI.toolbar.transferred "Kikobo">
 <!-- LOCALIZATION NOTE (netmonitorUI.toolbar.size): This is the label displayed
   -  in the network table toolbar, above the "size" column, which is the
   -  uncompressed / decoded size. -->
@@ -123,6 +125,8 @@
 <!ENTITY netmonitorUI.footer.filterOther  "Mukene">
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterFreetext): This is the label displayed
   -  in the network details footer for the url filtering textbox. -->
+
+<!ENTITY netmonitorUI.footer.filterFreetext.label  "Li URL">
 <!ENTITY netmonitorUI.footer.filterFreetext.key  "F">
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.clear): This is the label displayed
   -  in the network details footer for the "Clear" button. -->
@@ -146,6 +150,8 @@
 <!ENTITY netmonitorUI.summary.method      "Yo me kwac:">
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.address): This is the label displayed
   -  in the network details headers tab identifying the remote address. -->
+
+<!ENTITY netmonitorUI.summary.address     "Kabedo ma kama bor:">
 <!-- LOCALIZATION NOTE (netmonitorUI.summary.status): This is the label displayed
   -  in the network details headers tab identifying the status code. -->
 
@@ -206,8 +212,12 @@
 <!ENTITY netmonitorUI.timings.receive     "Tye ka gamo:">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.warning.protocol): A tooltip
   -  for warning icon that indicates a connection uses insecure protocol. -->
+
+<!ENTITY netmonitorUI.security.warning.sslv3      "Cik me SSL 3.0 dong pe tiyo ki ber bedo ne pe.">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.warning.cipher): A tooltip
   -  for warning icon that indicates a connection uses insecure cipher suite. -->
+
+<!ENTITY netmonitorUI.security.warning.cipher     "Cik ma kitiyo kwede me loko coc i kod ni dong pe tiyo ki ber bedo ne pe.">
 <!-- LOCALIZATION NOTE (netmonitorUI.security.error): This is the label displayed
   -  in the security tab if a security error prevented the connection. -->
 
@@ -253,6 +263,8 @@
 <!ENTITY netmonitorUI.context.copyUrlParams.accesskey "P">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyPostData): This is the label displayed
   -  on the context menu that copies the selected request's post data -->
+
+<!ENTITY netmonitorUI.context.copyPostData     "Lok Data me POST">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyPostData.accesskey): This is the access key
   -  for the Copy POST Data menu item displayed in the context menu for a request -->
 
@@ -285,6 +297,8 @@
 <!ENTITY netmonitorUI.context.copyResponseHeaders.accesskey  "S">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyResponse): This is the label displayed
   -  on the context menu that copies the selected response as a string -->
+
+<!ENTITY netmonitorUI.context.copyResponse "Lok lagam">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyRespose.accesskey): This is the access key
   -  for the Copy Response menu item displayed in the context menu for a request -->
 
@@ -299,6 +313,8 @@
 <!ENTITY netmonitorUI.context.copyImageAsDataUri.accesskey  "I">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyAllAsHar): This is the label displayed
   -  on the context menu that copies all as HAR format -->
+
+<!ENTITY netmonitorUI.context.copyAllAsHar "Lok weng calo HAR">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyAllAsHar.accesskey): This is the access key
   -  for the Copy All As HAR menu item displayed in the context menu for a network panel -->
 

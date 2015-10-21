@@ -51,6 +51,8 @@
 <!ENTITY debuggerUI.sources.toggleBreakpoints "Ye/juk kacung weng">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.togglePromiseDebugger): This is the
   -  tooltip for the button that toggles the promise debugger. -->
+
+<!ENTITY debuggerUI.sources.togglePromiseDebugger "Lok Gin nongo bal me Promise">
 <!-- LOCALIZATION NOTE (debuggerUI.startTracing): This is the text displayed in
   - the button to start execution tracing. -->
 
@@ -167,7 +169,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
 
-<!ENTITY debuggerUI.tabs.workers        "Lotic">
+<!ENTITY debuggerUI.tabs.workers        "Workers">
 <!ENTITY debuggerUI.tabs.sources        "Kama nonge iye">
 <!ENTITY debuggerUI.tabs.traces         "Kor">
 <!ENTITY debuggerUI.tabs.callstack      "Kwac ma ki cano">
