@@ -6,4 +6,4 @@
 <!ENTITY aboutLogins.title                       "Info masuk">
 <!ENTITY aboutLogins.update                      "Perbarui">
 <!ENTITY aboutLogins.emptyLoginText              "Selalu amankan log masuk Anda">
-
+<!ENTITY aboutLogins.emptyLoginHint              "Log masuk dan identitas yang Anda simpan menggunakan &brandShortName; akan tampil di sini.">
