@@ -57,6 +57,7 @@
 <!ENTITY trackingProtection.state.enabled      "ON">
 <!ENTITY trackingProtection.state.disabled     "OFF">
 
+<!ENTITY trackingProtection.description1       "ಖಾಸಗಿ ಕಿಟಕಿಗಳು ನಿಮ್ಮ ಜಾಲಾಟದ ಚಟುವಟಿಕೆಯ ಜಾಡನ್ನು ಇರಿಸಿಕೊಳ್ಳುವ ಪುಟದ ಕೆಲವು ಭಾಗಗಳನ್ನು ಈಗ ನಿರ್ಬಂಧಿಸುತ್ತದೆ.">
 
 <!ENTITY trackingProtection.disable            "ಜಾಡು ಇರಿಸುವಿಕೆಗೆ ರಕ್ಷಣೆಯನ್ನು ನಿಲ್ಲಿಸಿ">
 <!ENTITY trackingProtection.enable             "ಜಾಡು ಇರಿಸುವಿಕೆಗೆ ರಕ್ಷಣೆಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ">
