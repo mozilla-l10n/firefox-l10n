@@ -6,7 +6,8 @@
 <!ENTITY  no_space_to_start_error "Kabedo tye manok pi &brandShortName; pi cako.">
 <!ENTITY  error_loading_file "Bal otime ikare me temo pango fail mamite pi tic i &brandShortName;">
 
-
+<!ENTITY firstrun_panel_title_welcome "Wajoli">
+<!ENTITY  onboard_start_message3 "Yeny ki &brandShortName;">
 
 <!ENTITY  onboard_start_button_account "Dony iye &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Cak yenyo">
