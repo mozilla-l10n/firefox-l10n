@@ -15,3 +15,8 @@
 <!ENTITY safeb.blocked.phishingPage.title2 "E dyshuar Si Sajesë Web!">
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Dhënia e çfarëdo të dhëne në këtë faqe mund të sjellë vjedhje identiteti ose të tjera mashtrime.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Këto lloje sajesash web përdoren në mashtrime të njohura si sulme karremëzimi, gjatë të cilëve faqe web dhe email-e përdoren për të imituar burime që mund t&apos;u besoni.</p>">
+
+<!ENTITY safeb.blocked.unwantedPage.title "Sajt i Raportuar Për Software të Padëshiruar!">
+<!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "Kjo faqe web te <span id='unwanted_sitename'/> është raportuar se përmban software të padëshiruar dhe është bllokuar mbi bazën e parapëlqimeve tuaja për sigurinë.">
+<!ENTITY safeb.blocked.unwantedPage.longDesc "Faqet e software-i të padëshiruar përpiqen të instalojnë programe që mund të jenë të rrejshme dhe të ndikojnë në sistemin tuaj në rrugë të papritura.">
