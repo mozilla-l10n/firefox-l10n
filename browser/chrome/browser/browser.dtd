@@ -872,27 +872,27 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY panicButton.thankyou.msg1                "Έγινε εκκαθάριση του πρόσφατου ιστορικού σας.">
 <!ENTITY panicButton.thankyou.msg2                "Καλή και ασφαλή περιήγηση!">
-<!ENTITY panicButton.thankyou.buttonlabel         "Thanks!">
+<!ENTITY panicButton.thankyou.buttonlabel         "Ευχαριστώ!">
 
-<!ENTITY processHang.terminateScript.label        "Stop Script">
+<!ENTITY processHang.terminateScript.label        "Διακοπή σεναρίου ενεργειών">
 <!ENTITY processHang.terminateScript.accessKey    "S">
-<!ENTITY processHang.debugScript.label            "Debug Script">
+<!ENTITY processHang.debugScript.label            "Αποσφαλμάτωση σεναρίου ενεργειών">
 <!ENTITY processHang.debugScript.accessKey        "D">
-<!ENTITY processHang.terminatePlugin.label        "Kill Plugin">
+<!ENTITY processHang.terminatePlugin.label        "Διακοπή πρόσθετης λειτουργίας">
 <!ENTITY processHang.terminatePlugin.accessKey    "P">
 <!ENTITY processHang.terminateProcess.label       "Kill Web Process">
 <!ENTITY processHang.terminateProcess.accessKey   "K">
 
-<!ENTITY emeLearnMoreContextMenu.label            "Learn more about DRM…">
+<!ENTITY emeLearnMoreContextMenu.label            "Μάθετε περισσότερα για το DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
-<!ENTITY emeNotificationsNotNow.label             "Not now">
+<!ENTITY emeNotificationsNotNow.label             "Όχι τώρα">
 <!ENTITY emeNotificationsNotNow.accesskey         "N">
-<!ENTITY emeNotificationsDontAskAgain.label       "Don't ask me again">
+<!ENTITY emeNotificationsDontAskAgain.label       "Να μην ερωτηθώ ξανά">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "D">
 
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
-<!ENTITY saveToPocketCmd.label     "Save Page to Pocket">
+<!ENTITY saveToPocketCmd.label     "Αποθήκευση σελίδας στο Pocket">
 <!ENTITY saveToPocketCmd.accesskey "k">
-<!ENTITY saveLinkToPocketCmd.label     "Save Link to Pocket">
+<!ENTITY saveLinkToPocketCmd.label     "Αποθήκευση δεσμού στο Pocket">
 <!ENTITY saveLinkToPocketCmd.accesskey "o">
-<!ENTITY pocketMenuitem.label      "View Pocket List">
+<!ENTITY pocketMenuitem.label      "Προβολή λίστας του Pocket">
