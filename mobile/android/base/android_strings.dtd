@@ -126,14 +126,14 @@
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
-<!ENTITY overlay_no_synced_devices "Ss&apos;’u gjetën pajisja të lidhura me Llogari Firefox">
+<!ENTITY overlay_no_synced_devices "S\&apos;u gjetën pajisja të lidhura me Llogari Firefox">
 <!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
      to send a tab to a synced device is pressed and there is an error
      connecting to the server so the tab could not be sent. The text should be
      divided into two lines (use the newline escape character, "\n", between
      them): the first notifying the user about the failure and the second
      telling the user what to do about it. -->
-<!ENTITY overlay_share_tab_not_sent "Skeda juaj s&apos;u dërgua dot.\nJu lutemi, riprovoni më vonë.">
+<!ENTITY overlay_share_tab_not_sent "Skeda juaj s\&apos;u dërgua dot.\nJu lutemi, riprovoni më vonë.">
 
 <!ENTITY pref_category_search3 "Kërkim">
 <!ENTITY pref_category_search_summary "Personalizoni mundësuesit e kërkimeve tuaja">
@@ -511,7 +511,7 @@ size. -->
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
-<!ENTITY home_default_empty "S&apos;u gjet dot lëndë për këtë panel.">
+<!ENTITY home_default_empty "S\&apos;u gjet dot lëndë për këtë panel.">
 
 <!-- Localization note (home_move_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
@@ -573,8 +573,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixed_content_protection_disabled "E keni çaktivizyar mbrojtjejn nga elementë jo të sigurt.">
 
 <!-- Mixed content notifications in site identity popup -->
-<!ENTITY loaded_mixed_content_message "Kjo faqe po shfaq lëndë që s&apos;është e sigurt.">
-<!ENTITY blocked_mixed_content_message_top "&brandShortName;-u ka bllokuar lëndë që s&apos;është e sigurt.">
+<!ENTITY loaded_mixed_content_message "Kjo faqe po shfaq lëndë që s\&apos;është e sigurt.">
+<!ENTITY blocked_mixed_content_message_top "&brandShortName;-u ka bllokuar lëndë që s\&apos;është e sigurt.">
 <!ENTITY blocked_mixed_content_message_bottom "Shumica e sajteve do të funksionojnë si duhet, edhe kur kjo lëndë është e bllokuar.">
 
 <!-- Tracking content notifications in site identity popup -->
@@ -684,7 +684,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
 <!ENTITY find_matchcase "Aa">
 
-<!ENTITY intent_uri_cannot_open "S&apos;hepet dot lidhja">
+<!ENTITY intent_uri_cannot_open "S\&apos;hapet dot lidhja">
 
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
