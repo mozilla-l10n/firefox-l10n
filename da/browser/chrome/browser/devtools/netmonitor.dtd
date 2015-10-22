@@ -211,10 +211,6 @@
   -  in a "receive" state. -->
 <!ENTITY netmonitorUI.timings.receive     "Modtager:">
 
-<!-- LOCALIZATION NOTE (netmonitorUI.security.warning.protocol): A tooltip
-  -  for warning icon that indicates a connection uses insecure protocol. -->
-<!ENTITY netmonitorUI.security.warning.sslv3      "Protokollen SSL 3.0 er forældet og usikker.">
-
 <!-- LOCALIZATION NOTE (netmonitorUI.security.warning.cipher): A tooltip
   -  for warning icon that indicates a connection uses insecure cipher suite. -->
 <!ENTITY netmonitorUI.security.warning.cipher     "Krypterings-algoritmen er forældet og usikker">
