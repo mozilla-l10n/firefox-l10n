@@ -17,13 +17,13 @@
 <!ENTITY aboutPrivateBrowsing.width1           "30em">
 <!ENTITY aboutPrivateBrowsing.title            "คุณกำลังท่องเว็บแบบส่วนตัว">
 
-<!ENTITY aboutPrivateBrowsing.info.notsaved    "ยังไม่ได้บันทึก">
+<!ENTITY aboutPrivateBrowsing.info.notsaved    "ไม่ถูกบันทึก">
 <!ENTITY aboutPrivateBrowsing.info.history     "ประวัติ">
 <!ENTITY aboutPrivateBrowsing.info.searches    "ค้นหา">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "คุกกี้">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "แฟ้มชั่วคราว">
 
-<!ENTITY aboutPrivateBrowsing.info.saved       "บันทึกแล้ว">
+<!ENTITY aboutPrivateBrowsing.info.saved       "ถูกบันทึก">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "ดาวน์โหลด">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "ที่คั่นหน้า">
 
