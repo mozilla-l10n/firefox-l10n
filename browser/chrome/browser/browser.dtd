@@ -706,7 +706,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Dié blad word op u rekenaar gestoor.">
 <!ENTITY identity.connectionVerified1 "U is veilig verbind aan dié werf, aangebied deur:">
 <!ENTITY identity.connectionInternal "Hierdie is 'n beveiligde &brandShortName;-bladsy.">
-
+<!ENTITY identity.insecureLoginForms "Die aanmelding kan gekompromitteer word.">
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "&brandShortName; het dele van dié blad geblok wat nie beveilig is nie.">
