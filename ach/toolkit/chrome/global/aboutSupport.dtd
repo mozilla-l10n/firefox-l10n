@@ -35,9 +35,11 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsTitle "Tic mapire tego">
 <!ENTITY aboutSupport.appBasicsName "Nying">
 <!ENTITY aboutSupport.appBasicsVersion "Cik">
-
+<!ENTITY aboutSupport.appBasicsBuildID "ID me gedo">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
+
+<!ENTITY aboutSupport.appBasicsUpdateChannel "Yoo me ngec manyen">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Gin mukato me ngec manyen">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Nyut gin mukato me ngec manyen">
 
@@ -57,6 +59,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Dirica me tic mapol">
 
+<!ENTITY aboutSupport.appBasicsSafeMode "Kit maber">
 
 <!ENTITY aboutSupport.showDir.label "Yab Boc">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
@@ -98,4 +101,5 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.sandboxTitle "Lapok kin purugram">
 
-
+<!ENTITY aboutSupport.safeModeTitle "Tem kit maber">
+<!ENTITY aboutSupport.restartInSafeMode.label "Cak odoco ma nongo kijuko med-ikome…">

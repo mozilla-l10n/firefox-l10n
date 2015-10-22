@@ -23,7 +23,8 @@
 <!ENTITY cmd.back.tooltip                     "Dok cen pot buk acel">
 <!ENTITY cmd.forward.tooltip                  "Wot anyim ki pot buk acel">
 
-
+<!ENTITY showUnsignedExtensions.button.label  "Pe onongo kiromo moko ada pa lamed mogo">
+<!ENTITY showAllExtensions.button.label       "Nyut lamed weng">
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "Kit maber ojuko woko med-ikome weng.">
@@ -235,14 +236,17 @@ med-ikome mogo ma beco loyo dok ngen tutwal pi yin me temo gi.">
 
 <!ENTITY setting.learnmore "Nong ngec Mapol…">
 
+<!ENTITY disabledUnsigned.heading "Kijuko med-ikome mogo woko">
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-
-
-
+<!ENTITY disabledUnsigned.description.start "Med-ikome magi pe kimoko ada gi me tic i &brandShortName;. Itwero ">
+<!ENTITY disabledUnsigned.description.findAddonsLink "nong lale kakagi">
+<!ENTITY disabledUnsigned.description.end " onyo peny layub wek omoko ada gi.">
+<!ENTITY disabledUnsigned.learnMore "Nong ngec mapol ikom tute wa me gwoki ma ber i wiyamo.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
-
+<!ENTITY disabledUnsigned.devInfo.start "Luyub ma mito moko ada pa med-ikome gi twero mede ki kwano ">
+<!ENTITY disabledUnsigned.devInfo.linkToManual "ki cing">
 
