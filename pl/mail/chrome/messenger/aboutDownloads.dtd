@@ -13,5 +13,8 @@
 <!ENTITY cmd.open.accesskey "O">
 <!ENTITY cmd.removeFromHistory.label "Usuń z historii">
 <!ENTITY cmd.removeFromHistory.accesskey "U">
-<!ENTITY cmd.clearDownloads.label "Wyczyść pobrane">
-<!ENTITY cmd.clearDownloads.accesskey "e">
+<!ENTITY cmd.clearList.label "Wyczyść listę">
+<!ENTITY cmd.clearList.accesskey "c">
+<!ENTITY cmd.clearList.tooltip "Usuń wszystkie pobierania z listy, poza aktywnymi.">
+<!ENTITY cmd.searchDownloads.label "Szukaj…">
+<!ENTITY cmd.searchDownloads.key "F">
