@@ -17,8 +17,5 @@
 <!ENTITY cmd.open.accesskey                        "n">
 <!ENTITY cmd.removeFromHistory.label               "Ta bort från historiken">
 <!ENTITY cmd.removeFromHistory.accesskey           "T">
-<!ENTITY cmd.clearList.label                       "Rensa lista">
-<!ENTITY cmd.clearList.accesskey                   "R">
-<!ENTITY cmd.clearList.tooltip                     "Ta bort alla poster från listan med sparade filer, förutom pågående nedladdningar.">
-<!ENTITY cmd.searchDownloads.label                 "Sök…">
-<!ENTITY cmd.searchDownloads.key                   "F">
+<!ENTITY cmd.clearDownloads.label                  "Rensa nedladdningar">
+<!ENTITY cmd.clearDownloads.accesskey              "n">
