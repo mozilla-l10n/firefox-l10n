@@ -7,9 +7,10 @@
 
 <!ENTITY bounceSystemDockIcon.label "Animowanie ikony aplikacji, gdy przybędzie nowa wiadomość">
 <!ENTITY bounceSystemDockIcon.accesskey "A">
-<!ENTITY dockIconBadge.label "Plakietka ikony aplikacji">
-<!ENTITY dockIconShow.label "Plakietki zawierają liczbę:">
 <!ENTITY newMessagesCountDock.label "nowych wiadomości">
 <!ENTITY newMessagesCountDock.accesskey "h">
 <!ENTITY showAllUnreadMessagesCount.label "nieprzeczytanych wiadomości">
 <!ENTITY showAllUnreadMessagesCount.accesskey "n">
+<!ENTITY dockIconBadge.label "Plakietka ikony aplikacji">
+<!ENTITY dockIconShow.label "Plakietki zawierają liczbę:">
+<!ENTITY directNotificationSettings.label "Można wyłączyć plakietkę w panelu Powiadomienia Preferencji systemowych.">
