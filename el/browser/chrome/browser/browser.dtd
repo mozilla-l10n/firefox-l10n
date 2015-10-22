@@ -111,7 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxaSignIn.label "Συνδεθείτε για να χρησιμοποιήσετε το &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Άνοιγμα προτιμήσεων &syncBrand.shortName.label;">
-<!ENTITY fxaSignInError.label "Επανασυνδεθείτε στο &syncBrand.shortName.label;">
+<!ENTITY fxaSignInError.label "Επανασύνδεση στο &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Επιβεβαιώστε τον λογαριασμό σας">
 <!ENTITY syncStartPanel2.heading "Το &syncBrand.shortName.label; ενεργοποιήθηκε">
 <!ENTITY syncStartPanel2.subTitle "Ο &brandShortName; θα ξεκινήσει τον συγχρονισμό σύντομα.">
@@ -158,7 +158,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "s">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY shareLink.label "Μοιραστείτε αυτόν τον σύνδεσμο">
+<!ENTITY shareLink.label "Μοιραστείτε αυτόν τον δεσμό">
 <!ENTITY shareLink.accesskey "h">
 <!ENTITY shareImage.label "Μοιραστείτε αυτή την εικόνα">
 <!ENTITY shareImage.accesskey "r">
@@ -166,9 +166,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "r">
 <!ENTITY shareVideo.label "Μοιραστείτε αυτό το βίντεο">
 <!ENTITY shareVideo.accesskey "r">
-<!ENTITY feedsMenu.label "Subscribe">
-<!ENTITY subscribeToPageMenupopup.label "Subscribe to This Page">
-<!ENTITY subscribeToPageMenuitem.label "Subscribe to This Page…">
+<!ENTITY feedsMenu.label "Συνδρομή">
+<!ENTITY subscribeToPageMenupopup.label "Συνδρομή σε αυτή τη σελίδα">
+<!ENTITY subscribeToPageMenuitem.label "Συνδρομή σε αυτή τη σελίδα…">
 <!ENTITY addCurPagesCmd.label "Όλες οι καρτέλες σε σελιδοδείκτη…">
 <!ENTITY showAllBookmarks2.label "Προβολή όλων των σελιδοδεικτών">
 <!ENTITY unsortedBookmarksCmd.label "Αταξινόμητοι σελιδοδείκτες">
@@ -248,7 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY browserConsoleCmd.commandkey "j">
 <!ENTITY browserConsoleCmd.accesskey  "B">
 
-<!ENTITY inspectContextMenu.label     "Inspect Element">
+<!ENTITY inspectContextMenu.label     "Έλεγχος αντικειμένου">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
 <!ENTITY responsiveDesignTool.label   "Responsive Design View">
@@ -296,14 +296,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
-<!ENTITY devToolboxMenuItem.label          "Toggle Tools">
+<!ENTITY devToolboxMenuItem.label          "Εναλλαγή προβολής εργαλείων">
 <!ENTITY devToolboxMenuItem.accesskey      "T">
 <!ENTITY devToolboxMenuItem.keytext        "I">
 
 <!ENTITY devToolbarToolsButton.tooltip     "Toggle developer tools">
-<!ENTITY devToolbarOtherToolsButton.label  "More Tools">
+<!ENTITY devToolbarOtherToolsButton.label  "Περισσότερα εργαλεία">
 
-<!ENTITY getMoreDevtoolsCmd.label        "Get More Tools">
+<!ENTITY getMoreDevtoolsCmd.label        "Λήψη περισσότερων εργαλείων">
 <!ENTITY getMoreDevtoolsCmd.accesskey    "M">
 
 <!ENTITY fileMenu.label         "File"> 
@@ -370,7 +370,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY appMenuCustomize.label "Προσαρμογή">
 <!ENTITY appMenuCustomize.tooltip "Προσαρμογή του μενού και των εργαλειοθηκών">
-<!ENTITY appMenuCustomizeExit.label "Έξοδος από την προσαρμογή">
+<!ENTITY appMenuCustomizeExit.label "Έξοδος">
 <!ENTITY appMenuCustomizeExit.tooltip "Ολοκλήρωση προσαρμογής">
 <!ENTITY appMenuHistory.label "Ιστορικό">
 <!ENTITY appMenuHistory.showAll.label "Προβολή όλου του ιστορικού">
@@ -486,14 +486,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Ανανέωση πλαισίου">
 <!ENTITY reloadFrameCmd.accesskey     "R">
-<!ENTITY viewPartialSourceForSelectionCmd.label "View Selection Source">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "View MathML Source">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Προβολή πηγαίου κώδικα επιλογής">
+<!ENTITY viewPartialSourceForMathMLCmd.label    "Προβολή πηγαίου κώδικα MathML">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
-<!ENTITY viewPageSourceCmd.label      "View Page Source">
+<!ENTITY viewPageSourceCmd.label      "Προβολή πηγαίου κώδικα">
 <!ENTITY viewPageSourceCmd.accesskey  "V">
-<!ENTITY viewFrameSourceCmd.label     "View Frame Source">
+<!ENTITY viewFrameSourceCmd.label     "Προβολή πηγαίου κώδικα πλαισίου">
 <!ENTITY viewFrameSourceCmd.accesskey "V">
 <!ENTITY viewPageInfoCmd.label        "Προβολή πληροφοριών σελίδας">
 <!ENTITY viewPageInfoCmd.accesskey    "I">
@@ -513,12 +513,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "Ορισμός ως ταπετσαρία…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
-<!ENTITY bookmarkPageCmd2.label       "Bookmark This Page">
-<!ENTITY bookmarkThisLinkCmd.label      "Bookmark This Link">
+<!ENTITY bookmarkPageCmd2.label       "Προσθήκη στους σελιδοδείκτες">
+<!ENTITY bookmarkThisLinkCmd.label      "Προσθήκη στους σελιδοδείκτες">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
-<!ENTITY bookmarkThisFrameCmd.label      "Bookmark This Frame">
+<!ENTITY bookmarkThisFrameCmd.label      "Προσθήκη στους σελιδοδείκτες">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
-<!ENTITY emailPageCmd.label           "Email Link…">
+<!ENTITY emailPageCmd.label           "Αποστολή δεσμού…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Αποθήκευση σελίδας ως…">
 <!ENTITY savePageCmd.accesskey        "A">
@@ -537,13 +537,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "Αποθήκευση ήχου ως…">
 <!ENTITY saveAudioCmd.accesskey       "v">
-<!ENTITY emailImageCmd.label          "Email Image…">
+<!ENTITY emailImageCmd.label          "Αποστολή εικόνας…">
 <!ENTITY emailImageCmd.accesskey      "g">
-<!ENTITY emailVideoCmd.label          "Email Video…">
+<!ENTITY emailVideoCmd.label          "Αποστολή βίντεο…">
 <!ENTITY emailVideoCmd.accesskey      "a">
 <!ENTITY castVideoCmd.label           "Αποστολή του βίντεο σε συσκευή">
 <!ENTITY castVideoCmd.accesskey       "e">
-<!ENTITY emailAudioCmd.label          "Email Audio…">
+<!ENTITY emailAudioCmd.label          "Αποστολή ήχου…">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "Ενεργοποίηση αυτής της πρόσθετης λειτουργίας">
 <!ENTITY playPluginCmd.accesskey      "c">
@@ -595,9 +595,9 @@ fast. -->
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY mediaShowControls.label     "Show Controls">
+<!ENTITY mediaShowControls.label     "Εμφάνιση στοιχείων ελέγχου">
 <!ENTITY mediaShowControls.accesskey "C">
-<!ENTITY mediaHideControls.label     "Hide Controls">
+<!ENTITY mediaHideControls.label     "Απόκρυψη στοιχείων ελέγχου">
 <!ENTITY mediaHideControls.accesskey "C">
 <!ENTITY videoFullScreen.label       "Πλήρης οθόνη">
 <!ENTITY videoFullScreen.accesskey   "F">
@@ -617,13 +617,13 @@ fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-<!ENTITY fullZoomEnlargeCmd.label       "Zoom In">
+<!ENTITY fullZoomEnlargeCmd.label       "Μεγέθυνση">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "I">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
-<!ENTITY fullZoomReduceCmd.label        "Zoom Out">
+<!ENTITY fullZoomReduceCmd.label        "Σμίκρυνση">
 <!ENTITY fullZoomReduceCmd.accesskey    "O">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
@@ -635,7 +635,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomToggleCmd.label        "Zoom Text Only">
 <!ENTITY fullZoomToggleCmd.accesskey    "T">
-<!ENTITY fullZoom.label                 "Zoom">
+<!ENTITY fullZoom.label                 "Μεγέθυνση">
 <!ENTITY fullZoom.accesskey             "Z">
 
 <!ENTITY sidebarCloseButton.tooltip     "Κλείσιμο πλευρικής στήλης">
@@ -690,34 +690,34 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY findSelectionCmd.commandkey "e">
 
-<!ENTITY spellAddDictionaries.label "Add Dictionaries…">
+<!ENTITY spellAddDictionaries.label "Προσθήκη λεξικών…">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
-<!ENTITY editBookmark.done.label                     "Done">
+<!ENTITY editBookmark.done.label                     "Προσθήκη">
 <!ENTITY editBookmark.cancel.label                   "Ακύρωση">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Ασφαλής σύνδεση">
 <!ENTITY identity.connectionNotSecure "Η σύνδεση δεν είναι ασφαλής">
-<!ENTITY identity.connectionFile "This page is stored on your computer.">
-<!ENTITY identity.connectionInternal "This is a secure &brandShortName; page.">
+<!ENTITY identity.connectionFile "Αυτή η σελίδα είναι αποθηκευμένη στον υπολογιστή σας.">
+<!ENTITY identity.connectionInternal "Αυτή είναι μια ασφαλής σελίδα του &brandShortName;.">
 
 <!-- Strings for connection state warnings. -->
-<!ENTITY identity.activeBlocked "&brandShortName; has blocked parts of this page that are not secure.">
-<!ENTITY identity.passiveLoaded "Parts of this page are not secure (such as images).">
-<!ENTITY identity.activeLoaded "You have disabled protection on this page.">
-<!ENTITY identity.weakEncryption "This page uses weak encryption.">
+<!ENTITY identity.activeBlocked "Ο &brandShortName; έχει εμποδίσει τμήματα αυτής της σελίδας που δεν είναι ασφαλή.">
+<!ENTITY identity.passiveLoaded "Κάποια τμήματα αυτής της σελίδας δεν είναι ασφαλή (π.χ. κάποιες εικόνες).">
+<!ENTITY identity.activeLoaded "Έχετε απενεργοποιήσει την προστασία σε αυτή τη σελίδα.">
+<!ENTITY identity.weakEncryption "Αυτή η σελίδα χρησιμοποιεί μη ισχυρή κρυπτογράφηση.">
 
 <!-- Strings for connection state warnings in the subview. -->
-<!ENTITY identity.description.insecure "Your connection to this site is not private. Information you submit could be viewed by others (like passwords, messages, credit cards, etc.).">
-<!ENTITY identity.description.weakCipher "Your connection to this website uses weak encryption and is not private.">
-<!ENTITY identity.description.weakCipher2 "Other people can view your information or modify the website's behavior.">
-<!ENTITY identity.description.activeBlocked "&brandShortName; has blocked parts of this page that are not secure.">
-<!ENTITY identity.description.passiveLoaded "Your connection is not private and information you share with the site could be viewed by others.">
-<!ENTITY identity.description.passiveLoaded2 "This website contains content that is not secure (such as images).">
-<!ENTITY identity.description.passiveLoaded3 "Although &brandShortName; has blocked some content, there is still content on the page that is not secure (such as images).">
-<!ENTITY identity.description.activeLoaded "This website contains content that is not secure (such as scripts) and your connection to it is not private.">
-<!ENTITY identity.description.activeLoaded2 "Information you share with this site could be viewed by others (like passwords, messages, credit cards, etc.).">
+<!ENTITY identity.description.insecure "Η σύνδεσή σας σε αυτή τη σελίδα δεν είναι ασφαλής. Πληροφορίες που υποβάλετε μπορεί να είναι ορατές σε τρίτους (όπως κωδικοί, μηνύματα, πιστωτικές κάρτες κ.α. ).">
+<!ENTITY identity.description.weakCipher "Η σύνδεση σας σε αυτή τη σελίδα χρησιμοποιεί μη ισχυρή κρυπτογράφηση και δεν είναι ασφαλής.">
+<!ENTITY identity.description.weakCipher2 "Τρίτοι μπορούν να δουν τις πληροφορίες σας ή να τροποποιήσουν την συμπεριφορά αυτής της ιστοσελίδας.">
+<!ENTITY identity.description.activeBlocked "Ο &brandShortName; έχει εμποδίσει τμήματα αυτής της σελίδας που δεν είναι ασφαλή.">
+<!ENTITY identity.description.passiveLoaded "Η σύνδεσή σας δεν είναι ασφαλής και πληροφορίες που μοιράζεστε με αυτή τη σελίδα μπορεί να είναι ορατές από τρίτους.">
+<!ENTITY identity.description.passiveLoaded2 "Αυτή η σελίδα έχει περιεχόμενο που δεν είναι ασφαλές (π.χ. εικόνες).">
+<!ENTITY identity.description.passiveLoaded3 "Παρόλο που ο &brandShortName; έχει εμποδίσει τμήματα του περιεχομένου, υπάρχουν ακόμα κάποια τμήματα που δεν είναι ασφαλή (π.χ. εικόνες).">
+<!ENTITY identity.description.activeLoaded "Αυτή η ιστοσελίδα έχει περιεχόμενο που δεν είναι ασφαλές (π.χ. scripts) και η σύνδεσή σας δεν είναι ασφαλής.">
+<!ENTITY identity.description.activeLoaded2 "Πληροφορίες που μοιράζεστε με αυτή τη σελίδα μπορεί να είναι ορατές από τρίτους (όπως κωδικοί, μηνύματα, πιστωτικές κάρτες κ.α.).">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Ενεργοποίηση προστασίας">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "E">
@@ -727,20 +727,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "Περισσότερες πληροφορίες">
 
-<!ENTITY identity.permissions "Permissions">
+<!ENTITY identity.permissions "Δικαιώματα">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Καρτέλες περιηγητή">
 
 <!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
-<!ENTITY syncTabsMenu2.label     "Tabs From Other Devices">
+<!ENTITY syncTabsMenu2.label     "Καρτέλες άλλων συσκευών">
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
 <!ENTITY syncSyncNowItem.label        "Συγχρονισμός τώρα">
 <!ENTITY syncSyncNowItem.accesskey    "S">
-<!ENTITY syncReAuthItem.label         "Reconnect to &syncBrand.shortName.label;…">
+<!ENTITY syncReAuthItem.label         "Επανασύνδεση στο &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "Sync">
 
@@ -758,7 +758,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.toggleNotifications.accesskey "n">
 
 <!ENTITY social.activated.description "Services from <label/> have been enabled. You can change your settings for services in the <label class='text-link'>Add-on Manager</label>.">
-<!ENTITY social.activated.undo.label "Oops, undo this!">
+<!ENTITY social.activated.undo.label "Ουπς, αναίρεση ενέργειας!">
 <!ENTITY social.activated.undo.accesskey "U">
 <!ENTITY social.learnMore.label "Μάθετε περισσότερα…">
 <!ENTITY social.learnMore.accesskey "l">
@@ -766,8 +766,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY social.directory.label "Activations Directory">
 <!ENTITY social.directory.text "You can activate Share services from the directory.">
-<!ENTITY social.directory.button "Take me there!">
-<!ENTITY social.directory.introText "Click on a service to add it to &brandShortName;.">
+<!ENTITY social.directory.button "Φύγαμε!">
+<!ENTITY social.directory.introText "Κάντε κλικ σε μια υπηρεσία για να την προσθέσετε στον &brandShortName;.">
 <!ENTITY social.directory.viewmore.text "Εμφάνιση περισσότερων">
 
 <!ENTITY customizeMode.tabTitle "Προσαρμογή &brandShortName;">
@@ -776,7 +776,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Επιλέξτε ανάμεσα από χιλιάδες πρόσθετα">
 <!ENTITY customizeMode.restoreDefaults "Επαναφορά προεπιλογών">
 <!ENTITY customizeMode.toolbars "Εμφάνιση / Απόκρυψη εργαλειοθηκών">
-<!ENTITY customizeMode.titlebar "Title Bar">
+<!ENTITY customizeMode.titlebar "Γραμμή τίτλου">
 <!ENTITY customizeMode.lwthemes "Θέματα">
 <!ENTITY customizeMode.lwthemes.myThemes "Τα θέματά μου">
 <!ENTITY customizeMode.lwthemes.recommended "Προτεινόμενα">
@@ -802,41 +802,41 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Θα μοιραστούν όλα τα ορατά παράθυρα της οθόνη σας.">
 
 <!ENTITY trackingProtection.title "Προστασίας δεδομένων περιήγησης">
-<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; is blocking parts of the page that may track your browsing.">
-<!ENTITY trackingProtection.detectedNotBlocked3 "This site includes elements that may track your browsing. You have disabled protection.">
-<!ENTITY trackingProtection.notDetected3 "No tracking elements detected on this page.">
+<!ENTITY trackingProtection.detectedBlocked3 "Ο &brandShortName; εμποδίζει τμήματα της σελίδας που μπορούν να καταγράψουν τη συμπεριφορά σας.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "Αυτή η ιστοσελίδα περιέχει στοιχεία που μπορούν να καταγράψουν τη συμπεριφορά σας. Έχετε απενεργοποιήσει την προστασία.">
+<!ENTITY trackingProtection.notDetected3 "Δεν εντοπίστηκαν στοιχεία καταγραφής σε αυτή τη σελίδα.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock.label "Disable protection for this site">
+<!ENTITY trackingProtection.unblock.label "Απενεργοποίηση προστασίας για αυτή τη σελίδα">
 <!ENTITY trackingProtection.unblock.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate.label "Disable protection for this session">
+<!ENTITY trackingProtection.unblockPrivate.label "Απενεργοποίηση προστασίας για αυτή τη συνεδρία">
 <!ENTITY trackingProtection.unblockPrivate.accesskey "D">
-<!ENTITY trackingProtection.block2.label "Enable protection">
+<!ENTITY trackingProtection.block2.label "Ενεργοποίηση προστασίας">
 <!ENTITY trackingProtection.block2.accesskey "E">
 
 <!ENTITY trackingContentBlocked.message "Tracking">
-<!ENTITY trackingContentBlocked.moreinfo "Parts of the page that track your online activity have been blocked.">
-<!ENTITY trackingContentBlocked.learnMore "Learn More">
-<!ENTITY trackingContentBlocked.options "Options">
-<!ENTITY trackingContentBlocked.unblock2.label "Disable protection for this site">
+<!ENTITY trackingContentBlocked.moreinfo "Έχουν εμποδιστεί τμήματα αυτής της σελίδας που μπορούν να καταγράψουν τη διαδικτυακή συμπεριφορά σας.">
+<!ENTITY trackingContentBlocked.learnMore "Μάθετε περισσότερα">
+<!ENTITY trackingContentBlocked.options "Επιλογές">
+<!ENTITY trackingContentBlocked.unblock2.label "Απενεργοποίηση προστασίας για αυτή τη σελίδα">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
-<!ENTITY trackingContentBlocked.block.label "Enable protection">
+<!ENTITY trackingContentBlocked.block.label "Ενεργοποίηση προστασίας">
 <!ENTITY trackingContentBlocked.block.accesskey "E">
-<!ENTITY trackingContentBlocked.disabled.message "Tracking protection is disabled">
+<!ENTITY trackingContentBlocked.disabled.message "Η προστασία δεδομένων περιήγησης είναι απενεργοποιημένη">
 
-<!ENTITY pointerLock.notification.message "Press ESC at any time to show it again.">
+<!ENTITY pointerLock.notification.message "Πατήστε οποιαδήποτε στιγμή ESC για να εμφανιστεί ξανά.">
 
-<!ENTITY pluginNotification.showAll.label "Show All">
+<!ENTITY pluginNotification.showAll.label "Προβολή όλων">
 <!ENTITY pluginNotification.showAll.accesskey "S">
 
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
-<!ENTITY pluginActivateNow.label "Allow Now">
-<!ENTITY pluginActivateAlways.label "Allow and Remember">
-<!ENTITY pluginBlockNow.label "Block Plugin">
+<!ENTITY pluginActivateNow.label "Να επιτρέπεται για τώρα">
+<!ENTITY pluginActivateAlways.label "Να επιτρέπεται πάντα">
+<!ENTITY pluginBlockNow.label "Φραγή πρόσθετης λειτουργίας">
 
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
@@ -845,33 +845,33 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a CSS length value. -->
 <!ENTITY pluginNotification.width "28em">
 
-<!ENTITY uiTour.infoPanel.close "Close">
+<!ENTITY uiTour.infoPanel.close "Κλείσιμο">
 
-<!ENTITY appMenuSidebars.label         "Sidebars">
+<!ENTITY appMenuSidebars.label         "Πλευρικές στήλες">
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
-<!ENTITY panicButton.view.mainTimeframeDesc       "Forget the last:">
-<!ENTITY panicButton.view.5min                    "Five minutes">
-<!ENTITY panicButton.view.2hr                     "Two hours">
-<!ENTITY panicButton.view.day                     "24 hours">
+<!ENTITY panicButton.view.mainTimeframeDesc       "Διαγραφή των τελευταίων:">
+<!ENTITY panicButton.view.5min                    "Πέντε λεπτών">
+<!ENTITY panicButton.view.2hr                     "Δύο ωρών">
+<!ENTITY panicButton.view.day                     "24 ωρών">
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
-<!ENTITY panicButton.view.mainActionDesc          "Proceeding will:">
-<!ENTITY panicButton.view.deleteCookies           "Delete Recent <html:strong>Cookies</html:strong>">
-<!ENTITY panicButton.view.deleteHistory           "Delete Recent <html:strong>History</html:strong>">
-<!ENTITY panicButton.view.deleteTabsAndWindows    "Close all <html:strong>Tabs</html:strong> and <html:strong>Windows</html:strong>">
-<!ENTITY panicButton.view.openNewWindow           "Open a new clean Window">
+<!ENTITY panicButton.view.mainActionDesc          "Εάν συνεχίσετε θα:">
+<!ENTITY panicButton.view.deleteCookies           "διαγραφούν τα πρόσφατα <html:strong>Cookies</html:strong>">
+<!ENTITY panicButton.view.deleteHistory           "διαγραφεί το πρόσφατο <html:strong>ιστορικό</html:strong>">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "κλείσουν όλες οι <html:strong>Καρτέλες</html:strong> και τα<html:strong>Παράθυρα</html:strong>">
+<!ENTITY panicButton.view.openNewWindow           "ανοίξει ένα νέο παράθυρο">
 
-<!ENTITY panicButton.view.undoWarning             "This action cannot be undone.">
+<!ENTITY panicButton.view.undoWarning             "Δεν είναι δυνατή η αναίρεση αυτής της ενέργειας.">
 <!ENTITY panicButton.view.forgetButton            "Forget!">
 
-<!ENTITY panicButton.thankyou.msg1                "Your recent history is cleared.">
-<!ENTITY panicButton.thankyou.msg2                "Safe browsing!">
+<!ENTITY panicButton.thankyou.msg1                "Έγινε εκκαθάριση του πρόσφατου ιστορικού σας.">
+<!ENTITY panicButton.thankyou.msg2                "Καλή και ασφαλή περιήγηση!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Thanks!">
 
 <!ENTITY processHang.terminateScript.label        "Stop Script">
