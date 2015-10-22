@@ -701,11 +701,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.weakCipher "ಈ ಜಾಲತಾಣಕ್ಕೆ ನಿಮ್ಮ ಸಂಪರ್ಕವು ನಿಶ್ಶಕ್ತ ಎನ್‌ಕ್ರಿಪ್ಷನ್ ನನ್ನು ಬಳಸುತ್ತದೆ ಮತ್ತು ಖಾಸಗಿಯಾಗಿಲ್ಲ.">
 <!ENTITY identity.description.weakCipher2 "ಇತರೆ ವ್ಯಕ್ತಿಗಳು ನಿಮ್ಮ ಮಾಹಿತಿಯನ್ನು ನೋಡಬಹುದು ಅಥವಾ ಜಾಲತಾಣದ ವರ್ತನೆಯನ್ನು ಮಾರ್ಪಡಿಸಬಹುದು.">
 <!ENTITY identity.description.activeBlocked "ಈ ಪುಟದ ಸುರಕ್ಷಿತವಲ್ಲದ ಕೆಲ ಭಾಗಗಳನ್ನು &brandShortName; ವು ನಿರ್ಬಂಧಿಸಿದೆ.">
-
-
-
-
-
+<!ENTITY identity.description.passiveLoaded "ನಿಮ್ಮ ಸಂಪರ್ಕ ಖಾಸಗಿಯಾಗಿಲ್ಲ ಮತ್ತು ನೀವು ತಾಣದ ಜೊತೆ ಹಂಚಿಕೊಳ್ಳುವ ಮಾಹಿತಿಯನ್ನು ಇತರರು ನೋಡಬಹುದು.">
+<!ENTITY identity.description.passiveLoaded2 "ತಾಣವು ಸುರಕ್ಷಿತವಾಗಿಲ್ಲದ ಕೆಲವು ವಿಷಯಗಳನ್ನು ಒಳಗೊಂಡಿದೆ (ಚಿತ್ರಗಳಂತಹವು).">
+<!ENTITY identity.description.passiveLoaded3 "&brandShortName; ವು ಸುರಕ್ಷಿತವಲ್ಲದ ವಿಷಯವನ್ನು ನಿರ್ಬಂಧಿಸಿದ್ದರೂ, ಪುಟವು ಸುರಕ್ಷಿತವಾಗಿಲ್ಲದ ವಿಷಯಗಳನ್ನು ಒಳಗೊಂಡಿದೆ (ಚಿತ್ರಗಳಂತಹವು).">
+<!ENTITY identity.description.activeLoaded "ಈ ತಾಣವು ಸುರಕ್ಷಿತವಾಗಿಲ್ಲದ ಕೆಲವು ವಿಷಯಗಳನ್ನು ಒಳಗೊಂಡಿದೆ (ಸ್ಕ್ರಿಪ್ಟ್‌ನಂತವು) ಮತ್ತು ನಿಮ್ಮ ಸಂಪರ್ಕ ಖಾಸಗಿಯಾದುದಲ್ಲ.">
+<!ENTITY identity.description.activeLoaded2 "ನೀವು ಈ ತಾಣದ ಜೊತೆ ಹಂಚಿಕೊಳ್ಳುವ ಮಾಹಿತಿಯನ್ನು ಇತರರು ನೋಡಬಹುದು (ಗುಪ್ತಪದಗಳು, ಸಂದೇಶಗಳು ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್‌ಗಳು, ಇತರೆ.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "ಸಂರಕ್ಷಣೆಯನ್ನು Enable">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "E">
@@ -794,7 +794,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.title "ಜಾಡು ಇರಿಸುವಿಕೆಗೆ ರಕ್ಷಣೆ">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; ನಿಮ್ಮ ಜಾಲಾಟದ ಜಾಡನ್ನು ಇರಿಸಿಕೊಳ್ಳುವ ಪುಟದ ಕೆಲವು ಭಾಗಗಳನ್ನು ನಿರ್ಬಂಧಿಸುತ್ತಿದೆ.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "ಈ ತಾಣವು ನಿಮ್ಮ ಜಾಲಾಟದ ಚಟುವಟಿಕೆಗಳ ಜಾಡು ಹಿಡಿಯುವ ಅಂಶಗಳನ್ನು ಒಳಗೊಂಡಿದೆ. ಸಂರಕ್ಷಣೆಯನ್ನು ನೀವು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿದ್ದೀರಿ.">
-
+<!ENTITY trackingProtection.notDetected3 "ಜಾಡು ಹಿಡಿಸುವ ಅಂಶಗಳು ಈ ಪುಟದಲ್ಲಿ ಕಂಡುಬಂದಿಲ್ಲ.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
