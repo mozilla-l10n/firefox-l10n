@@ -15,5 +15,6 @@
 <!ENTITY aboutSupport.accountsConnSecurity            "Bezpieczeństwo połączenia">
 <!ENTITY aboutSupport.accountsAuthMethod              "Metoda uwierzytelniania">
 <!ENTITY aboutSupport.accountsDefault                 "Domyślne?">
+<!ENTITY aboutSupport.identityName                    "Tożsamość">
 
 <!ENTITY aboutSupport.sendViaEmail.label "Wyślij e-mailem">
