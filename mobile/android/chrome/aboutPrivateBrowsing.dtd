@@ -4,10 +4,19 @@
 
 <!ENTITY privatebrowsingpage.title                  "Shfletim Privat">
 
-<!ENTITY privatebrowsingpage.issueDesc.private      "Keni hapur një skedë të re private.">
-<!ENTITY privatebrowsingpage.issueDesc.normal       "Nuk jeni në një skedë private.">
+<!-- Localisation note: the plus sign here is a shorthand way of expressing the word "and". Contextually the privatebrowsingpage.title.private string
+                        is used as a title, with the privatebrowsingpage.title string preceding it but on a separate line.
+                        So the final line will say "Private Browsing + Tracking Protection". -->
+<!ENTITY privatebrowsingpage.title.private "+ Mbrojtje Nga Gjurmimet">
+<!-- Localization note (privatebrowsingpage.title.normal1): "Private Browsing"
+     is capitalized in English to be consistent with our existing uses of the
+     term. -->
+<!ENTITY privatebrowsingpage.title.normal1 "S&apos;gjendeni nën Shfletim Privat">
 
-<!ENTITY privatebrowsingpage.description            "Në skedat private, &brandShortName;-u nuk do të ruajë ndonjë historik shfletimesh, hitorik kërkimesh, historik shkarkimesh, historik plotësimesh formularësh web, cookies, ose kartela të përkohshme internet. Por, kartelat që shkarkoni dhe faqerojtësit që krijoni, do të ruhen.">
-<!ENTITY privatebrowsingpage.description.private    "&privatebrowsingpage.issueDesc.private; &privatebrowsingpage.description;">
+<!ENTITY privatebrowsingpage.description.private3 "Firefox-i do të parandalojë gjurmimin tuaj dhe s&apos;do të mbajë mend historikun e shfletimeve, por kartelat e shkarkuara dhe faqerojtësit e rinj do të ruhen te pajisja juaj.">
+<!-- Localization note (privatebrowsingpage.description.normal2): "Private
+     Browsing" is capitalized in English to be consistent with our existing uses
+     of the term. -->
+<!ENTITY privatebrowsingpage.description.normal2 "Nën Shfletim Privat, s&apos;do të ruajmë asgjë nga historiku juaj i shfletimeve apo cookie. Por faqerojtësit që shtoni dhe kartelat që shkarkoni do të ruhen te pajisja juaj.">
 
-<!ENTITY privatebrowsingpage.moreInfo               "Edhe pse kjo pajisje nuk do të ketë gjë të regjistruar lidhur me historikun e shfletimeve tuaja, mundësuesi juaj i shërbimeve internet mundet prapëseprapë të ndjekë faqet që vizitoni.">
+<!ENTITY privatebrowsingpage.link.private "Doni të mësoni më tepër rreth kësaj?">

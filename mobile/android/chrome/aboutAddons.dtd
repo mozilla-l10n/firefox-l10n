@@ -10,3 +10,6 @@
 <!ENTITY addonAction.disable                    "Çaktivizoje">
 <!ENTITY addonAction.uninstall                  "Çinstaloje">
 <!ENTITY addonAction.undo                       "Anuloje">
+
+<!ENTITY addonUnsigned.message                  "Kjo shtesë s&apos;u verifikua dot nga &brandShortName;-u.">
+<!ENTITY addonUnsigned.learnMore                "Mësoni më tepër">
