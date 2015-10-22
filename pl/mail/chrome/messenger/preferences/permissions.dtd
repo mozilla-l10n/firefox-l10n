@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "Wyjątki">
-<!ENTITY window.width "36em">
+<!ENTITY window.width "45em">
 
 <!ENTITY treehead.sitename.label "Witryna">
 <!ENTITY treehead.status.label   "Status">
@@ -23,5 +23,7 @@
 <!ENTITY allow.accesskey   "Z">
 <!ENTITY windowClose.key   "w">
 
-<!ENTITY button.close.label     "Zamknij">
-<!ENTITY button.close.accesskey "k">
+<!ENTITY button.cancel.label     "Anuluj">
+<!ENTITY button.cancel.accesskey "n">
+<!ENTITY button.ok.label         "Zapisz zmiany">
+<!ENTITY button.ok.accesskey     "m">
