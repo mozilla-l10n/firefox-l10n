@@ -864,7 +864,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.mainActionDesc          "Εάν συνεχίσετε θα:">
 <!ENTITY panicButton.view.deleteCookies           "διαγραφούν τα πρόσφατα <html:strong>Cookies</html:strong>">
 <!ENTITY panicButton.view.deleteHistory           "διαγραφεί το πρόσφατο <html:strong>ιστορικό</html:strong>">
-<!ENTITY panicButton.view.deleteTabsAndWindows    "κλείσουν όλες οι <html:strong>Καρτέλες</html:strong> και τα<html:strong>Παράθυρα</html:strong>">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "κλείσουν όλες οι <html:strong>καρτέλες</html:strong> και τα <html:strong>παράθυρα</html:strong>">
 <!ENTITY panicButton.view.openNewWindow           "ανοίξει ένα νέο παράθυρο">
 
 <!ENTITY panicButton.view.undoWarning             "Δεν είναι δυνατή η αναίρεση αυτής της ενέργειας.">
