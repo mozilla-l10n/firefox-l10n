@@ -6,12 +6,6 @@
 <!ENTITY  no_space_to_start_error "Nuk ka vend të mjaftueshëm për nisjen e &brandShortName;-ut.">
 <!ENTITY  error_loading_file "Ndodhi një gabim, teksa provohej ngarkimi i kartelave të domosdoshme për xhirimin e &brandShortName;-ut">
 
-<!ENTITY  onboard_start_message3 "Shfletoni me &brandShortName;-un">
-<!ENTITY  onboard_start_subtext3 "Bëjeni shfletimin tuaj në Web me celular ashtu si e doni.">
-<!ENTITY  onboard_start_button_account "Hyni te &brandShortName;-u">
-<!ENTITY  onboard_start_button_browser "Filloni të Shfletoni">
-<!ENTITY  onboard_start_restricted1 "Jini i parrezikuar dhe në kontroll me këtë version të thjeshtëzuar të &brandShortName;-ut.">
-
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 <!ENTITY  bookmarks_title "Faqerojtës">
@@ -55,8 +49,9 @@
 
 <!ENTITY history_today_section "Sot">
 <!ENTITY history_yesterday_section "Dje">
-<!ENTITY history_week_section2 "Javën e Shkuar">
-<!ENTITY history_older_section2 "Muajin e Shkuar">
+<!ENTITY history_week_section3 "7 ditët e fundit">
+<!ENTITY history_this_month_section "Këtë muaj">
+<!ENTITY history_older_section3 "Më të vjetër se 6 muaj">
 
 <!ENTITY go "Shko">
 <!ENTITY search "Kërko">
@@ -69,8 +64,6 @@
 <!ENTITY edit_mode_cancel "Anuloje">
 
 <!ENTITY close_tab "Mbylleni Skedën">
-<!ENTITY tab_audio_playing "Kjo skedë po luan audio">
-<!ENTITY tab_audio_muted "Kësaj skede i është mbyllur zëri">
 <!ENTITY one_tab "1 skedë">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -81,6 +74,14 @@
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
 <!ENTITY switch_button_message "KALO">
+<!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
+     visible in the UI, but rather used as a text-to-speech content description
+     for sight-impaired a11y users. The content description is set on a tab
+     title in a list of open tabs when content in that tab is playing audio.
+     &formatS; will be replaced with the title of the tab, as received from the
+     web page. When audio is not playing in a tab, &formatS; will be used as
+     the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "Po luhet audio – &formatS;">
 
 <!ENTITY settings "Rregullime">
 <!ENTITY settings_title "Rregullime">
@@ -183,6 +184,9 @@
 <!ENTITY pref_home_updates_wifi "Vetëm përmes Wi-Fi">
 <!ENTITY pref_home_suggested_sites "Shfaq sugjerime sajtesh">
 <!ENTITY pref_home_suggested_sites_summary "Shfaq te kreu juaj shkurtore për te sajte të cilët mendojmë se mund t\&apos;ju duken interesante">
+<!ENTITY pref_category_home_homepage "Kreu">
+<!ENTITY home_homepage_title "Vëre si Kreun">
+<!ENTITY home_homepage_use_current_tab "Përdor skedën e tanishme">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "Personalizojeni">
@@ -351,6 +355,7 @@ size. -->
 <!ENTITY share_title "Ndajeni me të tjerët përmes">
 <!ENTITY share_image_failed "Nuk arrin ta ndajë këtë figurë me të tjerët">
 <!ENTITY save_as_pdf "Ruaje si PDF">
+<!ENTITY print "Shtype">
 <!ENTITY find_in_page "Gjej te Faqja">
 <!ENTITY desktop_mode "Kërko Sajtin për Desktop">
 <!ENTITY page "Faqe">
@@ -395,6 +400,8 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Fiksojeni Sajtin">
 <!ENTITY contextmenu_top_sites_unpin "Çfiksojeni Sajtin">
 <!ENTITY contextmenu_add_search_engine "Shtoni një Motor Kërkimesh">
+<!ENTITY contextmenu_mark_read "Shënoje si të Lexuar">
+<!ENTITY contextmenu_mark_unread "Shënojeni si të Palexuar">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -417,8 +424,8 @@ size. -->
 
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
-<!ENTITY pref_prevent_magnifying_glass "Çaktivizo lupën e zmadhimeve ">
-<!ENTITY pref_prevent_magnifying_glass_summary "Pengoje përdorimin e lupës së zmadhimeve në zgjidhje rastesh të paqarta prekjeje të ekrani">
+<!ENTITY pref_magnifying_glass_enabled "Zmadho zona të vogla">
+<!ENTITY pref_magnifying_glass_enabled_summary "Zmadho lidhje dhe fusha formularësh kur preket afër tyre">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
@@ -479,7 +486,20 @@ size. -->
 <!ENTITY button_copy "Kopjoje">
 
 <!ENTITY firstrun_panel_title_welcome "Mirë se vini">
+<!ENTITY  onboard_start_message3 "Shfletoni me &brandShortName;">
+<!ENTITY  onboard_start_subtext3 "Bëjeni shfletimin tuaj në Web me celular ashtu si e doni.">
+<!ENTITY  onboard_start_button_account "Hyni në &brandShortName;">
+<!ENTITY  onboard_start_button_browser "Filloni të Shfletoni">
+<!ENTITY firstrun_button_next "Pasuesi">
 
+<!ENTITY  onboard_start_restricted1 "Jini i parrezikuar dhe në kontroll me këtë version të thjeshtëzuar të &brandShortName;-ut.">
+
+<!ENTITY firstrun_import_title "Importim">
+<!ENTITY firstrun_import_message "Mirë se vini te &brandShortName;">
+<!ENTITY firstrun_import_subtext "Importoni faqerojtësit dhe historikun tuaj prej një shfletuesi tjetër.">
+<!ENTITY firstrun_import_action "Mbartini te &brandShortName;-u">
+<!ENTITY firstrun_import_dialog_button "Mbarti">
+<!ENTITY firstrun_import_progress_title "Po mbarten">
 <!ENTITY home_top_sites_title "Sajtet Kryesues">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
@@ -568,15 +588,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_insecure "Lidhje Jo e Sigurt">
 
 <!-- Mixed content notifications in site identity popup -->
-<!ENTITY mixed_content_blocked_all "&brandShortName;-u ka bllokuar në këtë faqe elementët jo të sigurt.">
-<!ENTITY mixed_content_blocked_some "&brandShortName; -u ka bllokuar në këtë faqe disa elementët jo të sigurt.">
-<!ENTITY mixed_content_display_loaded "Kjo faqe përmban disa elementë jo të sigurt.">
-<!ENTITY mixed_content_protection_disabled "E keni çaktivizyar mbrojtjejn nga elementë jo të sigurt.">
-
-<!-- Mixed content notifications in site identity popup -->
-<!ENTITY loaded_mixed_content_message "Kjo faqe po shfaq lëndë që s\&apos;është e sigurt.">
-<!ENTITY blocked_mixed_content_message_top "&brandShortName;-u ka bllokuar lëndë që s\&apos;është e sigurt.">
-<!ENTITY blocked_mixed_content_message_bottom "Shumica e sajteve do të funksionojnë si duhet, edhe kur kjo lëndë është e bllokuar.">
+<!ENTITY mixed_content_blocked_all1 "&brandShortName;-u ka bllokuar në këtë faqe lëndë jo të sigurt.">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; -u ka bllokuar në këtë faqe ca lëndë jo të sigurt.">
+<!ENTITY mixed_content_display_loaded1 "Kjo faqe përmban disa pjesë jo të sigurta.">
+<!ENTITY mixed_content_protection_disabled1 "E keni çaktivizuar mbrojtjejn nga lëndë jo e sigurt.">
 
 <!-- Tracking content notifications in site identity popup -->
 <!ENTITY doorhanger_tracking_title "Mbrojtje nga gjurmimet">
@@ -709,3 +724,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restriction_disallow_master_password_title2 "Çaktivizo fjalëkalim të përgjithshëm">
 <!ENTITY restriction_disallow_guest_browsing_title2 "Çaktivizo Shfletim Si Mysafir">
 
+<!-- Default Bookmarks titles-->
+<!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!ENTITY bookmarks_about_browser "Firefox: Mbi shfetuesin tuaj">
+<!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "Firefox: Personalizojeni me shtesa">
+<!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "Firefox: Asistencë">
+<!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
+<!ENTITY bookmarks_marketplace "Firefox Marketplace">
+<!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!ENTITY bookmarks_restricted_support2 "Ndihmë dhe Asistencë Firefox për profile të kufizuar në tablete Android">
+<!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!ENTITY bookmarks_restricted_webmaker "Mësoni Web-in: Mozilla Webmaker">

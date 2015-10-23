@@ -194,6 +194,7 @@
 
 <!ENTITY fxaccount_status_header2 "Llogari Firefox">
 <!ENTITY fxaccount_status_signed_in_as "I futur si">
+<!ENTITY fxaccount_status_manage_account "Administroni llogari">
 <!ENTITY fxaccount_status_auth_server "Shërbyes llogarie">
 <!ENTITY fxaccount_status_sync_now "Njëkohësoje tani">
 <!ENTITY fxaccount_status_syncing2 "Po njëkohësohet…">
