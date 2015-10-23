@@ -18,7 +18,7 @@ was trying to connect. -->
 <!ENTITY certerror.introPara1 "Pediu ao &brandShortName; para aceder 
 com segurança a <b>#1</b>, mas não foi possível confirmar que a sua ligação é segura.">
 <!ENTITY certerror.introPara2 "Normalmente, quando tenta estabelecer uma ligação segura, os sites
-mostram a identificação de segurança para lhe provar que está no bom caminho.
+mostram a identificação de segurança para lhe provar que está a ir para o sítio certo.
 No entanto, a identidade deste site não pode ser verificada.">
 
 <!ENTITY certerror.whatShouldIDo.heading "O que devo fazer?">
