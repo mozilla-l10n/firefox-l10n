@@ -59,6 +59,8 @@
 <!ENTITY useService.accesskey            "ф">
 <!-- Networking and Disk Space -->
 
+<!ENTITY showSettings.label            "Баптаулар…">
+<!ENTITY showSettings.accesskey        "а">
 <!ENTITY proxiesConfigure.label        "&brandShortName; Интернетке қосылу параметрлерін баптау">
 <!ENTITY connectionsInfo.caption       "Байланыс">
 <!ENTITY offlineInfo.caption           "Желіде емес">
