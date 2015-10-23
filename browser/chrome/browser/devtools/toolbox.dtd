@@ -89,13 +89,13 @@ values from browser.dtd.  -->
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableChrome.label5    "Браузердің chrome және қосымшаларды жөндеу саймандар панельдерін іске қосу">
-<!ENTITY options.enableChrome.tooltip3  "Бұл баптауны іске қосу (Саймандар > Веб өндіруші > Браузердің саймандар панелі) нәтижесінде сіз браузер контекстінде түрлі өндіруші саймандарын қолдана алатын боласыз, және қосымшаларды Қосымшалар Басқарушысынан жөндей алатын боласыз.">
+<!ENTITY options.enableChrome.tooltip3  "Бұл баптауды іске қосу (Саймандар > Веб өндіруші > Браузердің саймандар панелі) нәтижесінде сіз браузер контекстінде түрлі өндіруші саймандарын қолдана алатын боласыз, және қосымшаларды Қосымшалар Басқарушысынан жөндей алатын боласыз.">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableRemote.label3    "Қашықтан жөндеуді іске қосу">
-<!ENTITY options.enableRemote.tooltip   "Бұл баптауны іске қосу нәтижесінде өндіруші саймандарына Firefox OS сияқты қашықтағы Firefox нұсқаларын жөндеу рұқсат етіледі">
+<!ENTITY options.enableRemote.tooltip   "Бұл баптауды іске қосу нәтижесінде өндіруші саймандарына Firefox OS сияқты қашықтағы Firefox нұсқаларын жөндеу рұқсат етіледі">
 <!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
   -  boolean preference in about:config, in the options panel. -->
@@ -105,17 +105,17 @@ values from browser.dtd.  -->
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
 
 <!ENTITY options.disableJavaScript.label     "JavaScript сөндіру *">
-<!ENTITY options.disableJavaScript.tooltip   "Бұл баптауны іске қосу нәтижесінде ағымдағы бетте JavaScript сөндіріледі. Егер бет немесе саймандар панелі жабылса, бұл баптау ұмытылады.">
+<!ENTITY options.disableJavaScript.tooltip   "Бұл баптауды іске қосу нәтижесінде ағымдағы бетте JavaScript сөндіріледі. Егер бет немесе саймандар панелі жабылса, бұл баптау ұмытылады.">
 <!-- LOCALIZATION NOTE (options.disableCache.label2,
   -  options.disableCache.tooltip2): This is the options panel label and
   -  tooltip for the checkbox that toggles the cache on or off. -->
 
 <!ENTITY options.disableCache.label2     "Кэшті сөндіру (саймандар панелі ашық кезде)">
-<!ENTITY options.disableCache.tooltip2   "Бұл баптауны іске қосу нәтижесінде саймандар панелі ашық тұрған барлық беттер үшін кэш сөндіріледі.">
+<!ENTITY options.disableCache.tooltip2   "Бұл баптауды іске қосу нәтижесінде саймандар панелі ашық тұрған барлық беттер үшін кэш сөндіріледі.">
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
-<!ENTITY options.enableServiceWorkersHTTP.tooltip   "Бұл баптауны іске қосу нәтижесінде саймандар панелі ашық тұрған барлық беттер үшін кэш сөндіріледі.">
+<!ENTITY options.enableServiceWorkersHTTP.tooltip   "Бұл баптауды іске қосу нәтижесінде саймандар панелі ашық тұрған барлық беттер үшін кэш сөндіріледі.">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
@@ -155,7 +155,7 @@ values from browser.dtd.  -->
    - label for the checkbox that toggles timestamps in the Web Console -->
 
 <!ENTITY options.timestampMessages.label      "Уақыт мәндерін іске қосу">
-<!ENTITY options.timestampMessages.tooltip    "Егер осы баптауны іске қоссаңыз, командалар және веб консолі шығысында уақыт мәндері болады">
+<!ENTITY options.timestampMessages.tooltip    "Егер осы баптауды іске қоссаңыз, командалар және веб консолі шығысында уақыт мәндері болады">
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
@@ -182,14 +182,14 @@ values from browser.dtd.  -->
   -  about:config, in the options panel. -->
 
 <!ENTITY options.enablePersistentLogs.label    "Тұрақты журналдауды іске қосу">
-<!ENTITY options.enablePersistentLogs.tooltip  "Егер сіз бұл баптауны іске қоссаңыз, онда Веб консолі және Желі бақылаушысы сіз әр рет жаңа бетке өткен кезде шығыс нәтижелерін тазартпайтын болады">
+<!ENTITY options.enablePersistentLogs.tooltip  "Егер сіз бұл баптауды іске қоссаңыз, онда Веб консолі және Желі бақылаушысы сіз әр рет жаңа бетке өткен кезде шығыс нәтижелерін тазартпайтын болады">
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
   -  in about:config, in the options panel. -->
 
 <!ENTITY options.showPlatformData.label    "Gecko платформасының деректерін көрсету">
-<!ENTITY options.showPlatformData.tooltip  "Бұл баптауны іске қоссаңыз, JavaScript профильдеуші есептемелерінде 
+<!ENTITY options.showPlatformData.tooltip  "Бұл баптауды іске қоссаңыз, JavaScript профильдеуші есептемелерінде 
 Gecko платформа таңбалары болады">
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
