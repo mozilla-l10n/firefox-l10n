@@ -335,7 +335,7 @@ size. -->
 
 <!ENTITY datareporting_fhr_title "&brandShortName; денсаулық есептемесі">
 <!ENTITY datareporting_fhr_summary2 "Браузеріңіздің өнімділігін түсінуге көмектеседі және браузеріңіздің денсаулық мәліметін &vendorShortName; үшін жібереді">
-<!ENTITY datareporting_abouthr_title "Менің деңсаулық есептемемді қарау">
+<!ENTITY datareporting_abouthr_title "Менің денсаулық есептемемді қарау">
 <!ENTITY datareporting_telemetry_title "Телеметрия">
 <!ENTITY datareporting_telemetry_summary "Өнімділік, қолдану, құрылғылар және баптаулар мәліметін &vendorShortName; үшін жібереді, және бізге &brandShortName; жақсартуға көмектеседі">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; браузеріңіздің тұрақтылық және қауіпсіздігін арттыру үшін құлау жөніндегі хабарламаларды &vendorShortName; адресіне жібереді">
