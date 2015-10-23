@@ -225,12 +225,18 @@
 <!ENTITY netmonitorUI.security.certificate "الشهادة:">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrl): This is the label displayed
   -  on the context menu that copies the selected request's url -->
+
+<!ENTITY netmonitorUI.context.copyUrl     "انسخ المسار">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrl.accesskey): This is the access key
   -  for the Copy URL menu item displayed in the context menu for a request -->
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrlParams): This is the label displayed
   -  on the context menu that copies the selected request's url parameters -->
+
+<!ENTITY netmonitorUI.context.copyUrlParams     "انسخ معاملات المسار">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrlParams.accesskey): This is the access key
   -  for the Copy URL Parameters menu item displayed in the context menu for a request -->
+
+<!ENTITY netmonitorUI.context.copyUrlParams.accesskey "خ">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyPostData): This is the label displayed
   -  on the context menu that copies the selected request's post data -->
 
