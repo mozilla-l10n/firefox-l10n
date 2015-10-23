@@ -13,5 +13,5 @@
 
 <!ENTITY getUserMediaDialog.video.label             "Yer lamak cal">
 <!ENTITY getUserMediaDialog.video.noVideo           "Video peke">
-<!ENTITY getUserMediaDialog.audio.label             "Yer micropon">
+<!ENTITY getUserMediaDialog.audio.label             "Yer mikropon">
 <!ENTITY getUserMediaDialog.audio.noAudio           "Dwon peke">

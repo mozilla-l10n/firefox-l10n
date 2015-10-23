@@ -149,7 +149,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Ket alama buk i pot buk man">
 <!ENTITY editThisBookmarkCmd.label "Yub alama buk man">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "I">
+<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -282,8 +282,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
 
-<!ENTITY browserContentToolboxMenu.label     "Gitic pi jami ma iye layeny">
-<!ENTITY browserContentToolboxMenu.accesskey "x">
+<!ENTITY browserContentToolboxMenu.label     "Bok gitic pi jami pa layeny">
+<!ENTITY browserContentToolboxMenu.accesskey "k">
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Lor gintic pa Layub">
 <!ENTITY devToolbarMenu.label              "Gintic pa layub">
@@ -399,7 +399,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "Med jami mukene…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "M">
 
-<!ENTITY openCmd.commandkey           "I">
+<!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Yeny onyo ket kanonge">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Lokke bot dirica matidi:">
@@ -808,7 +808,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY getUserMedia.selectCamera.label "Lamak cal me anywaka:">
 <!ENTITY getUserMedia.selectCamera.accesskey "L">
-<!ENTITY getUserMedia.selectMicrophone.label "Micropon me anywaka:">
+<!ENTITY getUserMedia.selectMicrophone.label "Mikropon me anywaka:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY getUserMedia.audioCapture.label "Ki binywako dwon ma i dirica matidi.">
 <!ENTITY getUserMedia.allWindowsShared.message "Ki binywako dirica weng ma nen i wang kompiuta ni.">
@@ -867,14 +867,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.mainTimeframeDesc       "Wek wi wil ikom agiki me:">
 <!ENTITY panicButton.view.5min                    "Dakika abic">
 <!ENTITY panicButton.view.2hr                     "Cawa aryo">
-<!ENTITY panicButton.view.day                     "Cawa 24">
+<!ENTITY panicButton.view.day                     "cawa 24">
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
 
 <!ENTITY panicButton.view.mainActionDesc          "Mede bi:">
-<!ENTITY panicButton.view.deleteCookies           "Jwayo <html:strong>Coc ma kigwoko</html:strong> cokcoki">
+<!ENTITY panicButton.view.deleteCookies           "Jwayo <html:strong>Angija</html:strong> cokcoki">
 <!ENTITY panicButton.view.deleteHistory           "Jwayo <html:strong>Gin mukato</html:strong> cokcoki">
 <!ENTITY panicButton.view.deleteTabsAndWindows    "Loro <html:strong>Dirica matino</html:strong> ki <html:strong>Dirica</html:strong> weng">
 <!ENTITY panicButton.view.openNewWindow           "Yabo dirica manyen maleng">
