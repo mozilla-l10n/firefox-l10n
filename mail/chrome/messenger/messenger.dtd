@@ -188,8 +188,8 @@
 
 
 
-
-
+<!ENTITY sortByUnreadCmd.label "Оқу">
+<!ENTITY sortByUnreadCmd.accesskey "О">
 
 
 
@@ -475,8 +475,8 @@
 
 <!ENTITY clearRecentHistory.label "Соңғы тарихты өшіру…">
 <!ENTITY clearRecentHistory.accesskey "х">
-
-
+<!ENTITY accountManagerCmd2.label "Тіркелгі баптаулары">
+<!ENTITY accountManagerCmd2.accesskey "б">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
         which is placed under the Edit menu on Unix systems -->
 
@@ -854,6 +854,8 @@
 <!ENTITY bringAllToFront.label "Барлығын алдына қою">
 <!ENTITY zoomWindow.label "Үлкейту">
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
+
+<!ENTITY preferencesCmdMac2.label       "Баптаулар">
 
 
 <!ENTITY servicesMenuMac.label          "Қызметтер">

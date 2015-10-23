@@ -47,8 +47,8 @@
 
 
 
-
-
+<!ENTITY printSetupCmd.label "Парақ баптаулары…">
+<!ENTITY printSetupCmd.accesskey "П">
 <!ENTITY printPreviewCmd.label "Алдын-ала қарау">
 <!ENTITY printPreviewCmd.accesskey "А">
 
@@ -117,6 +117,8 @@
 
 <!-- Options Menu -->
 
+<!ENTITY optionsMenu.label "Баптаулар">
+<!ENTITY optionsMenu.accesskey "а">
 
 
 
@@ -167,8 +169,8 @@
 
 
 
-
-
+<!ENTITY accountManagerCmd2.label "Тіркелгі баптаулары">
+<!ENTITY accountManagerCmd2.accesskey "п">
 
 
 
