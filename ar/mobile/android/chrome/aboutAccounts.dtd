@@ -10,4 +10,4 @@
 <!ENTITY aboutAccounts.retry.label "حاول مرة أخرى">
 
 <!ENTITY aboutAccounts.restrictedError.title "مقيّد">
-
+<!ENTITY aboutAccounts.restrictedError.description "لا يمكنك إدارة حسابات فَيَرفُكس من هذا الملف الشخصي.">
