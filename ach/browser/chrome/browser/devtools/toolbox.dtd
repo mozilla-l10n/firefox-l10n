@@ -125,7 +125,7 @@ values from browser.dtd.  -->
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
 
 <!ENTITY options.enableServiceWorkersHTTP.label     "Cak Service Workers i HTTP (kacce bok me gitic tye ayaba)">
-<!ENTITY options.enableServiceWorkersHTTP.tooltip   "Dwoyo gin ayera man bijuko kano pi dirica matino weng matye ki gintic ayaba.">
+<!ENTITY options.enableServiceWorkersHTTP.tooltip   "Keto gin ayera man bicako service workers i HTTP pi dirica matino weng matye ki bok me giticce ayaba.">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
