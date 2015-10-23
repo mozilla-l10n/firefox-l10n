@@ -96,8 +96,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.installationHistoryTitle "Stori mo Kato">
 <!ENTITY aboutSupport.updateHistoryTitle "Gin mukato me ngec manyen">
 
-<!ENTITY aboutSupport.copyTextToClipboard.label "Lok coc bot kacoc">
-<!ENTITY aboutSupport.copyRawDataToClipboard.label "Lok coc manumu bot kacoc">
+<!ENTITY aboutSupport.copyTextToClipboard.label "Lok coc i bao coc">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "Lok data manumu i bao coc">
 
 <!ENTITY aboutSupport.sandboxTitle "Lapok kin purugram">
 

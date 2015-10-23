@@ -31,7 +31,7 @@
 <!ENTITY advanced.tab        "Twoke ki wiye/tere">
 
 <!ENTITY marginGroup.label   "Twoke (#1)">
-<!ENTITY marginUnits.inches  "inches">
+<!ENTITY marginUnits.inches  "inci">
 <!ENTITY marginUnits.metric  "milimita">
 <!ENTITY marginTop.label     "Wie:">
 <!ENTITY marginTop.accesskey "W">

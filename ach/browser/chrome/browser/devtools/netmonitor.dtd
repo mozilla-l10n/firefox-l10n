@@ -62,7 +62,7 @@
 <!-- LOCALIZATION NOTE (netmonitorUI.tab.cookies): This is the label displayed
   -  in the network details pane identifying the cookies tab. -->
 
-<!ENTITY netmonitorUI.tab.cookies         "Cookies">
+<!ENTITY netmonitorUI.tab.cookies         "Angija">
 <!-- LOCALIZATION NOTE (netmonitorUI.tab.params): This is the label displayed
   -  in the network details pane identifying the params tab. -->
 
