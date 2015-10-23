@@ -762,7 +762,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.directory.introText "Қызметті &brandShortName; өніміне қосу үшін, оның үстіне шертіңіз.">
 <!ENTITY social.directory.viewmore.text "Көбірек білу">
 
-<!ENTITY customizeMode.tabTitle " &brandShortName; баптау">
+<!ENTITY customizeMode.tabTitle "&brandShortName; баптау">
 <!ENTITY customizeMode.menuAndToolbars.header2 "Қосымша құралдар мен мүмкіндіктер">
 <!ENTITY customizeMode.menuAndToolbars.empty "Көбірек құралдарды алуға қалайсыз ба?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Мыңдаған қосымшалардан таңдау">
