@@ -333,8 +333,8 @@ size. -->
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 
-<!ENTITY datareporting_fhr_title "&brandShortName; деңсаулық есептемесі">
-<!ENTITY datareporting_fhr_summary2 "Браузеріңіздің өнімділігін түсінуге көмектеседі және браузеріңіздің деңсаулық мәліметін &vendorShortName; үшін жібереді">
+<!ENTITY datareporting_fhr_title "&brandShortName; денсаулық есептемесі">
+<!ENTITY datareporting_fhr_summary2 "Браузеріңіздің өнімділігін түсінуге көмектеседі және браузеріңіздің денсаулық мәліметін &vendorShortName; үшін жібереді">
 <!ENTITY datareporting_abouthr_title "Менің деңсаулық есептемемді қарау">
 <!ENTITY datareporting_telemetry_title "Телеметрия">
 <!ENTITY datareporting_telemetry_summary "Өнімділік, қолдану, құрылғылар және баптаулар мәліметін &vendorShortName; үшін жібереді, және бізге &brandShortName; жақсартуға көмектеседі">
