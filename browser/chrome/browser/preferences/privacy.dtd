@@ -16,12 +16,12 @@
 <!ENTITY changeBlockList.label          "變更封鎖清單">
 <!ENTITY changeBlockList.accesskey      "C">
 
-<!ENTITY  history.label                 "歷史記錄">
+<!ENTITY  history.label                 "瀏覽紀錄">
 
 <!ENTITY  locationBar.label             "網址列">
 
 <!ENTITY  locbar.suggest.label          "使用網址列時提供下列建議:">
-<!ENTITY  locbar.history.label          "歷史記錄">
+<!ENTITY  locbar.history.label          "瀏覽紀錄">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "書籤">
 <!ENTITY  locbar.bookmarks.accesskey    "k">

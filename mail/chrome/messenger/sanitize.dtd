@@ -24,7 +24,7 @@ that require it.  -->
 <!ENTITY detailsProgressiveDisclosure.label     "詳細資訊">
 <!ENTITY detailsProgressiveDisclosure.accesskey "e">
 
-<!ENTITY itemHistory.label                 "瀏覽記錄">
+<!ENTITY itemHistory.label                 "瀏覽紀錄">
 <!ENTITY itemHistory.accesskey             "B">
 <!ENTITY itemCookies.label                 "Cookies">
 <!ENTITY itemCookies.accesskey             "C">

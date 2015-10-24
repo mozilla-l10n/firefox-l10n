@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  pref.history.title                "歷史記錄">
+<!ENTITY  pref.history.title                "瀏覽紀錄">
 
-<!ENTITY  pref.history.caption              "瀏覽記錄">
+<!ENTITY  pref.history.caption              "瀏覽紀錄">
 <!ENTITY  historyPages.label                "歷史記錄是您先前造訪過的網頁清單。">
 <!ENTITY  enableHistory.label               "記住瀏覽過的網頁">
 <!ENTITY  enableHistory.accesskey           "R">
