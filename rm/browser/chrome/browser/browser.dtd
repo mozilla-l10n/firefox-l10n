@@ -717,7 +717,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "Ulteriuras infurmaziuns">
 
-<!ENTITY identity.moreInfoLinkText2 "Ulteriuras infurmaziuns">
+<!ENTITY identity.moreInfoLinkText2 "Mussar detagls">
 
 <!ENTITY identity.permissions "Autorisaziuns">
 
