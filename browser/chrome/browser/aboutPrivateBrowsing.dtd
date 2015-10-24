@@ -38,13 +38,13 @@
      Note that the required space may vary between platforms because fonts are
      different, so testing on Windows, Mac, and Linux is encouraged.
      -->
-<!ENTITY trackingProtection.width1             "22em">
+<!ENTITY trackingProtection.width1             "30em">
 <!ENTITY trackingProtection.title              "Protecziun cunter il fastizar">
 
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
-<!ENTITY trackingProtection.state.width        "6ch">
+<!ENTITY trackingProtection.state.width        "10ch">
 <!ENTITY trackingProtection.state.enabled      "ACTIVÀ">
 <!ENTITY trackingProtection.state.disabled     "DEACTIVÀ">
 
