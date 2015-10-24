@@ -36,12 +36,19 @@ ulanishini tekshirib ko‘ring.</li>
 <!ENTITY generic.title "Obbo.">
 <!ENTITY generic.longDesc "<p>&brandShortName; dasturi ba’zi sabablarga ko‘ra ushbu sahifani yuklay olmaydi.</p>">
 
+<!ENTITY malformedURI.title "Manzil to‘g‘ri emas">
+<!ENTITY malformedURI.longDesc "<ul> 
+<li>Veb manzillar odatda quyidagicha yoziladi: 
+<strong>http://www.example.com/</strong></li> 
+<li>Qiya chiziqdan to‘g‘ri foydalaning (masalan: 
+<strong>/</strong>).</li> 
+</ul>">
 
-
+<!ENTITY netInterrupt.title "Ulanish to‘sib qo‘yilgan">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Hujjat eskirgan">
-
+<!ENTITY notCached.longDesc "<p>So‘ralgan hujjat keshda mavjud emas.</p><ul><li>Xavfsizlik choralariga ko‘ra  &brandShortName; nozik hujjatlarga avtomatik tarzda qayta so‘rov jo‘natmaydi.</li><li>Hujjatni veb saytdan olish uchun &quot;Yana urinib ko‘rish&quot; tugmasiga bosing.</li></ul>">
 
 <!ENTITY netOffline.title "Oflayn rejimi">
 <!ENTITY netOffline.longDesc2 "<ul> 
@@ -75,22 +82,47 @@ ulanishini tekshirib ko‘ring.</li>
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Proksi serverni topa olmadi">
-
+<!ENTITY proxyResolveFailure.longDesc "<ul> 
+<li>Proksi sozlamalari to‘g‘ri ekanligini tekshirib ko‘ring.</li> 
+<li>Kompyuteringizning ishlayotgan tarmoqqa ulanganligini tekshirib ko‘ring.</li> 
+<li>Kompyuteringiz yoki tarmoq fayervol va proksi bilan himoyalangan bo‘lsa, 
+&brandShortName; dasturini internetga ulanishini to‘sib qo‘yilmaganligini tekshirib ko‘ring.</li> 
+</ul>">
 
 <!ENTITY redirectLoop.title "Sahifa to‘g‘ri yo‘naltirilmayapti">
+<!ENTITY redirectLoop.longDesc "<ul> 
+<li>Bu muammo ba’zida kukularni o‘chirib qo‘yilishiga yoki ularni qabul qilishni rad qilinishiga sabab bo‘lishi mumkin.</li> 
+</ul>">
+
+<!ENTITY unknownSocketType.title "Serverdan kutilmagan javob keldi">
+<!ENTITY unknownSocketType.longDesc "<ul> 
+<li>Tizimingizga &quot;Shaxsiy xavfsizlik menejeri&quot; (Personal Security Manager) 
+o‘rnatilgan bo‘lishi kerak.</li> 
+<li>Serverning nostandart sozlanishi bunga sabab  bo‘lishi mumkin.</li> 
+</ul>">
+
+<!ENTITY nssFailure2.title "Xavfsiz ulanish amalga oshmadi">
+<!ENTITY nssFailure2.longDesc2 "<ul> 
+<li>Siz ko‘rmoqchi bo‘lgan sahifani ko‘rsatib bo‘lmaydi, chunki qabul qilingan tasdiqdan o‘tkazish ma’lumotlari tasdiqdan o‘tadi.</li> 
+<li>Bu muammo haqida xabar berish uchun veb sayt egasi bilan bog‘laning.</li> 
+</ul>">
+
+<!ENTITY nssBadCert.title "Xavfsiz ulanish amalga oshmadi">
+<!ENTITY nssBadCert.longDesc2 "<ul> 
+<li>Bunga sabab serverdagi noto‘g‘ri sozlanishi bilan bog‘liq muammo bo‘lishi mumkin yoki kimdir server ma’lumotlarini qalbakilashtirishga urinib ko‘ryapti.</li> 
+<li>Agar siz ushbu serverga oldinroq muvaffaqiyatli ulangan bo‘lsangiz, xato 
+vaqtinchalik bo‘lishi va keyinroq urinib ko‘rishingiz mumkin.</li> 
+</ul>">
 
 
+<!ENTITY malwareBlocked.title "Hujum sayti aniqlandi!">
+<!ENTITY malwareBlocked.longDesc "<p>Hujum qiluvchi saytlar shaxsiy ma’lumotlarigizni o‘g‘irlaydigan, sizning kompyuteringizdan boshqalarga hujum qilishda foydalanish uchun yoki tizimingizni buzadigan dasturlarni o‘rnatishga urinadi.</p> 
+<p>O‘zlarining saytlarini xatolik tufayli hujum qiluvchi sayt sifatida xabar berilganligiga ishonuvchi veb sayt egalari <a href='http://www.stopbadware.org/home/reviewinfo'>ko‘rib chiqish uchun so‘rlov jo‘natishlari mumkin</a>.</p>">
 
+<!ENTITY unwantedBlocked.title "Zararli dasturiy ta’minot sayti aniqlandi!">
+<!ENTITY unwantedBlocked.longDesc "<p>Noxush dasturiy ta’minot sahifalari yolg‘on bo‘lgan dasturlarni o‘rnatishga urinishi va tizimingizga kutilmagan yo‘llar bilan ta’sir qilishga urinishi mumkin.</p>">
 
-
-
-
-
-
-
-
-
-
+<!ENTITY phishingBlocked.title "Veb qalloblik aniqlandi!">
 
 
 <!ENTITY cspBlocked.title "Sayt xavfsizlik siyosati tomonidan bloklandi">
@@ -106,6 +138,12 @@ ulanishini tekshirib ko‘ring.</li>
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to thunderbird. -->
+
+
+<!ENTITY securityOverride.warningContent "<p>To‘li ishonchli bo‘lmagan internetga ulanishdan foydalanayotgan bo‘lsangiz yoki ushbu server uchun ogohlantirishni ko‘rishdan foydalanmayotgan bo‘lsangiz, estisno qo‘shmasligingiz kerak.</p> 
+ 
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "Masofadagi XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Muammo haqida xabar berish uchun veb sayt egasibilan bog‘laning.</li></ul></p>">

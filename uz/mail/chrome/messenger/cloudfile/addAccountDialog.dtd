@@ -1,12 +1,13 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-
-
-
-
-
-
-
-
-
+<!ENTITY addAccountDialog.title   "Filelink’ni sozlash">
+<!ENTITY addAccountDialog.menuTitle "Onlayn ombor xizmatini tanlash">
+<!ENTITY addAccountDialog.style "width: 40em; min-height: 20em;">
+<!ENTITY addAccountDialog.accountName.label "Hisob nomi:">
+<!ENTITY addAccountDialog.noAccountText "Kechirasiz, ammo &brandShortName; dasturining ushbu versiyasi har bir onlayn ombor xizmati uchun faqatgina bitta hisobga ruxsat beradi.">
+<!ENTITY addAccountDialog.createAccountText2 "Ko‘plab onlayn ombr xizmatlaridan biridan foydalanib katta biriktilgan fayllarni jo‘natishingiz mumkin. Mavjud hisobingizni sozlang yoki yangi hisob ochish uchun ro‘yxatdan o‘ting.">
+<!ENTITY addAccountDialog.authorizing "Tasdiqdan o‘tkazish tekshirilmoqda...">
+<!ENTITY addAccountDialog.error "Hisob sozlanayotgan vaqtda xatolik yuz berdi!">
+<!ENTITY addAccountDialog.acceptButton.label "Hisoblni sozlash">
+<!ENTITY addAccountDialog.learnMore "Batafsil ma’lumot">
