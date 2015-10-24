@@ -125,7 +125,7 @@
 <!ENTITY netmonitorUI.footer.filterOther  "Altre">
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.filterFreetext): This is the label displayed
   -  in the network details footer for the url filtering textbox. -->
-
+<!ENTITY netmonitorUI.footer.filterFreetext.key  "F">
 <!-- LOCALIZATION NOTE (netmonitorUI.footer.clear): This is the label displayed
   -  in the network details footer for the "Clear" button. -->
 
@@ -247,8 +247,12 @@
 <!ENTITY netmonitorUI.context.copyUrl     "Copia l'URL">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrl.accesskey): This is the access key
   -  for the Copy URL menu item displayed in the context menu for a request -->
+
+<!ENTITY netmonitorUI.context.copyUrl.accesskey "U">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrlParams): This is the label displayed
   -  on the context menu that copies the selected request's url parameters -->
+
+<!ENTITY netmonitorUI.context.copyUrlParams     "Copia els paràmetres de l'URL">
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyUrlParams.accesskey): This is the access key
   -  for the Copy URL Parameters menu item displayed in the context menu for a request -->
 <!-- LOCALIZATION NOTE (netmonitorUI.context.copyPostData): This is the label displayed
