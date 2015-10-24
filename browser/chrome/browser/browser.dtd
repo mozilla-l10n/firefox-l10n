@@ -404,7 +404,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Preklopi na zavihek:">
 
-<!ENTITY urlbar.searchSuggestionsNotification.question "Želite obogatiti vaše iskanje s predlogi?">
+<!ENTITY urlbar.searchSuggestionsNotification.question "Želite obogatiti svoje iskanje s predlogi?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Več o tem …">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Ne">
