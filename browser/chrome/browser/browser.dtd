@@ -112,7 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignIn.label "Jungtis prie „&syncBrand.shortName.label;“">
 <!ENTITY fxaSignedIn.tooltip "Atverti „&syncBrand.shortName.label;“ nuostatas">
 <!ENTITY fxaSignInError.label "Iš naujo jungtis prie „&syncBrand.shortName.label;“">
-
+<!ENTITY fxaUnverified.label "Patvirtinkite savo paskyrą">
 <!ENTITY syncStartPanel2.heading "„&syncBrand.shortName.label;“ įgalinta">
 <!ENTITY syncStartPanel2.subTitle "„&brandShortName;“ tuoj pat pradės sinchronizavimą.">
 
@@ -131,12 +131,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY fullscreenWarning.beforeDomain.label "">
-
-
+<!ENTITY fullscreenWarning.afterDomain.label "dabar yra visame ekrane">
+<!ENTITY fullscreenWarning.generic.label "Šis dokumentas dabar yra visame ekrane">
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
-
+<!ENTITY exitDOMFullscreen.button "Grįžti iš viso ekrano (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "Grįžti iš viso ekrano (esc)">
 <!ENTITY leaveDOMFullScreen.label "Grįžti iš viso ekrano">
 <!ENTITY leaveDOMFullScreen.accesskey "G">
 
@@ -222,7 +223,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "Atsiuntimai">
 <!ENTITY downloads.accesskey          "s">
 <!ENTITY downloads.commandkey         "j">
-
+<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Priedai">
 <!ENTITY addons.accesskey             "r">
 <!ENTITY addons.commandkey            "A">
@@ -405,11 +406,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Ar norėtumėte paieškos metu matyti siūlymus?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Sužinoti daugiau…">
-
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "s">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Ne">
-
+<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Taip">
-
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "t">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -466,9 +467,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Keisti paieškos nuostatas">
 
-
-
-
+<!ENTITY searchInNewTab.label         "Ieškoti naujoje kortelėje">
+<!ENTITY searchInNewTab.accesskey     "k">
+<!ENTITY searchSetAsDefault.label     "Laikyti numatytąja ieškykle">
+<!ENTITY searchSetAsDefault.accesskey "m">
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -704,7 +706,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Saugus ryšys">
 <!ENTITY identity.connectionNotSecure "Ryšys nėra saugus">
 <!ENTITY identity.connectionFile "Šis tinklalapis yra įrašytas jūsų kompiuteryje.">
-
+<!ENTITY identity.connectionVerified1 "Esate saugiai prisijungę prie šios svetainės, kurią valdo:">
 <!ENTITY identity.connectionInternal "Tai yra saugus „&brandShortName;“ tinklalapis.">
 
 <!-- Strings for connection state warnings. -->
@@ -716,7 +718,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings in the subview. -->
 
 <!ENTITY identity.description.insecure "Jūsų ryšys su šia svetaine nėra privatus. Jūsų pateikta informacija gali būti peržiūrėta kitų (pvz., slaptažodžiai, žinutės, banko kortelės, kita).">
-
+<!ENTITY identity.description.insecureLoginForms "Šiame tinklalapyje jūsų įvesti prisijungimo duomenys nebus saugūs ir gali būti perimti.">
 <!ENTITY identity.description.weakCipher "Jūsų ryšys su šia svetaine naudoja silpną šifravimą ir nėra privatus.">
 <!ENTITY identity.description.weakCipher2 "Pašaliniai asmenys gali matyti jūsų duomenis ir keisti svetainės elgseną.">
 <!ENTITY identity.description.activeBlocked "„&brandShortName;“ užblokavo nesaugias šio tinklalapio dalis.">
@@ -735,7 +737,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.moreInfoLinkText2 "Daugiau informacijos">
 
 <!ENTITY identity.permissions "Leidimai">
-
+<!ENTITY identity.permissionsEmpty "Šiai svetainei nesate suteikę jokių ypatingų leidimų.">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -746,7 +748,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
-
+<!ENTITY syncSignIn.label             "Jungtis prie „&syncBrand.shortName.label;“…">
+<!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "Sinchronizuoti dabar">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Iš naujo jungtis prie „&syncBrand.shortName.label;“…">
