@@ -47,7 +47,7 @@
 <!ENTITY performanceUI.toolbar.memory-calltree "Assignacions">
 
 <!ENTITY performanceUI.toolbar.js-flamegraph "Gràfic de flama de JS">
-
+<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Mostra la pila de la crida Javascript durant l'enregistrament.">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "Gràfic de flama d'assignacions">
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
@@ -108,6 +108,8 @@
   -  is displayed next to a checkbox determining whether or not allocation
   -  measurements are enabled. -->
 
+<!ENTITY performanceUI.enableAllocations             "Enregistra les assignacions">
+
 <!-- LOCALIZATION NOTE (performanceUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
@@ -118,8 +120,12 @@
   -  is displayed next to a checkbox determining whether or not JIT optimization data
   -  should be recorded. -->
 
+<!ENTITY performanceUI.enableJITOptimizations             "Enregistra les optimitzacions del JIT">
+<!ENTITY performanceUI.enableJITOptimizations.tooltiptext "Enregistra les optimitzacions del JIT de cada fotograma capturat.">
 <!-- LOCALIZATION NOTE (performanceUI.JITOptimizationsTitle): This string
   -  is displayed as the title of the JIT Optimizations panel. -->
+
+<!ENTITY performanceUI.JITOptimizationsTitle "Optimitzacions JIT">
 <!-- LOCALIZATION NOTE (performanceUI.console.recordingNoticeStart/recordingNoticeEnd):
   -  This string is displayed when a recording is selected that started via console.profile.
   -  Wraps the command used to start, like "Currently recording via console.profile("label")" -->
@@ -128,4 +134,4 @@
   -  This string is displayed when a recording is selected that started via console.profile.
   -  Indicates how to stop the recording, wrapping the command, like
   -  "Stop recording by entering console.profileEnd("label") into the console." -->
-
+<!ENTITY performanceUI.console.stopCommandEnd   "a la consola.">
