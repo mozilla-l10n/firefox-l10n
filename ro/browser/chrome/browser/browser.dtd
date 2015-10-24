@@ -395,8 +395,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Schimbă la fila:">
 
-<!ENTITY urlbar.searchSuggestionsNotification.question "Dorești să îți îmbunătățești experiența de navigare cu sugestii?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Aflați mai multe…">
+<!ENTITY urlbar.searchSuggestionsNotification.question "Dorești să îți îmbunătățești experiența de căutare cu sugestii?">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Află mai multe…">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Nu">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Da">
 <!-- 
