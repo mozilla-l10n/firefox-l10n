@@ -28,7 +28,7 @@
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
 <!ENTITY actualSize.label "Початковий розмір:">
 <!ENTITY actualSizeRadio.label "Початковий розмір">
-<!ENTITY actualSizeRadio.accessKey "П">
+<!ENTITY actualSizeRadio.accessKey "о">
 <!ENTITY actualSizeRadio.tooltip "Повернутися до початкових розмірів зображення">
 <!ENTITY customSizeRadio.label "Задати розмір">
 <!ENTITY customSizeRadio.accessKey "З">

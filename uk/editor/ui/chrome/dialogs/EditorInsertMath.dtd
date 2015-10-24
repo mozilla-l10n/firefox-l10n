@@ -8,8 +8,8 @@
 <!ENTITY sourceEditField.label "Enter LaTeX source code:">
 
 <!ENTITY options.label "Налаштування">
-<!ENTITY optionInline.label "Inline mode">
-<!ENTITY optionInline.accesskey "N">
+<!ENTITY optionInline.label "Вбудований режим">
+<!ENTITY optionInline.accesskey "б">
 <!ENTITY optionDisplay.label "Режим відображення">
 <!ENTITY optionDisplay.accesskey "ж">
 <!ENTITY optionLTR.label "Напрямок зліва направо">
