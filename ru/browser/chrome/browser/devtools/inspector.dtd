@@ -24,6 +24,14 @@
 <!ENTITY inspectorScrollNodeIntoView.accesskey "о">
 <!ENTITY inspectorHTMLDelete.label "Удалить узел">
 <!ENTITY inspectorHTMLDelete.accesskey "л">
+<!ENTITY inspectorAttributeSubmenu.label "Атрибут">
+<!ENTITY inspectorAttributeSubmenu.accesskey "и">
+<!ENTITY inspectorAddAttribute.label "Добавить атрибут">
+<!ENTITY inspectorAddAttribute.accesskey "и">
+<!ENTITY inspectorEditAttribute.label "Изменить атрибут">
+<!ENTITY inspectorEditAttribute.accesskey "н">
+<!ENTITY inspectorRemoveAttribute.label "Удалить атрибут">
+<!ENTITY inspectorRemoveAttribute.accesskey "а">
 <!ENTITY inspector.selectButton.tooltip "Выберите элемент мышью">
 <!ENTITY inspectorSearchHTML.label2 "Поиск CSS-селекторов">
 <!ENTITY inspectorSearchHTML.key "F">
@@ -34,3 +42,4 @@
 <!ENTITY inspectorExpandNode.label "Развернуть все">
 <!ENTITY inspectorCollapseNode.label "Свернуть">
 <!ENTITY inspectorScreenshotNode.label "Скриншот узла">
+<!ENTITY inspectorDuplicateNode.label "Дубликат узла">
