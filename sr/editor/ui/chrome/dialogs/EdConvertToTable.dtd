@@ -4,3 +4,12 @@
 
 
 <!-- Window title -->
+<!ENTITY windowTitle.label "Претвори у табелу">
+<!ENTITY instructions1.label   "Састављач прави нови ред у табели за сваки пасус унутар одабира.">
+<!ENTITY instructions2.label   "Изаберите знак који ће одвајати одабире у колоне:">
+<!ENTITY commaRadio.label      "Запета">
+<!ENTITY spaceRadio.label      "Размак">
+<!ENTITY otherRadio.label      "Други знак:">
+<!ENTITY deleteCharCheck.label "Обришите знак одвајања">
+<!ENTITY collapseSpaces.label  "Занемари додатне размаке">
+<!ENTITY collapseSpaces.tooltip "Претвори околне размаке у један одвајач">
