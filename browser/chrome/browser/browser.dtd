@@ -159,8 +159,7 @@
 <!ENTITY urlbar.translateNotificationAnchor.label "Перевод этой страницы">
 <!ENTITY urlbar.translatedNotificationAnchor.label "Управление переводом страницы">
 <!ENTITY urlbar.emeNotificationAnchor.label "Управление запуском программы DRM">
-<!ENTITY urlbar.toggleAutocomplete.label "Переключение всплывающего окна автодополнения">
-<!ENTITY locationItem.title "Адрес">
+<!ENTITY urlbar.openHistoryPopup.tooltip "Показать историю">
 <!ENTITY searchItem.title "Поиск">
 <!ENTITY homeButton.label "Домой">
 <!ENTITY tabGroupsButton.label "Группы вкладок">
