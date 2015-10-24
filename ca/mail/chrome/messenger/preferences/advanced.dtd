@@ -12,7 +12,7 @@
 <!ENTITY enableGlodaSearch.label       "Habilita el cercador i indexador de missatges">
 <!ENTITY enableGlodaSearch.accesskey   "i">
 <!ENTITY allowHWAccel.label            "Utilitza l'acceleració de maquinari quan sigui disponible">
-<!ENTITY allowHWAccel.accesskey        "h">
+<!ENTITY allowHWAccel.accesskey        "r">
 <!ENTITY storeType.label               "Tipus d'emmagatzematge de missatges per als comptes nous:">
 <!ENTITY storeType.accesskey           "T">
 <!ENTITY mboxStore2.label              "Un fitxer per carpeta (mbox)">
