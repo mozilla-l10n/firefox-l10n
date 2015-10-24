@@ -11,6 +11,10 @@
 <!-- LOCALIZATION NOTE (performanceUI.startRecording/performanceUI.stopRecording): These are
   -  the labels shown on the main recording buttons to start/stop recording. -->
 
+
+
+<!ENTITY performanceUI.startRecording "Inicia l'enregistrament de rendiment">
+<!ENTITY performanceUI.stopRecording  "Atura l'enregistrament de rendiment">
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusTooltip): This string
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.nonE10SBuild): This string
@@ -35,6 +39,8 @@
   -  on a button that removes all the recordings. -->
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
+
+<!ENTITY performanceUI.toolbar.waterfall "Cascada">
 
 
 
