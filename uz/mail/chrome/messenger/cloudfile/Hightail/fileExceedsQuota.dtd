@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+<!ENTITY fileExceedsQuota.title   "Hightail">
 <!ENTITY fileExceedsQuota.storageLimitReached   "Omborda siz uchun ajratilgan joy tugadi">
 <!ENTITY fileExceedsQuota.description "Sizning hisobingiz uchun 2 GB cheklov tugadi.">
 <!ENTITY fileExceedsQuota.description1 "Siz hozitda ombordagi #XXX GB joydan foydalangansiz.">

@@ -47,6 +47,8 @@
 
 <!ENTITY bottomLinks.license        "Litsenziya ma’lumotlari">
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
+
+<!ENTITY bottomLinks.rights         "Foydalanuvchi huquqlari">
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
 
 <!ENTITY bottomLinks.privacy        "Maxfiylik siyosati">
