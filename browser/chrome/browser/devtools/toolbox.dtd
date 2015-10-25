@@ -20,7 +20,7 @@
 <!ENTITY toolboxReload.key "r">
 <!ENTITY toolboxToggleMinimize.key "U">
 <!ENTITY toolboxToggle.key "d">
-<!ENTITY toolboxFramesTooltip "Выберите iframe в качестве текущего целевого документа">
+<!ENTITY toolboxFramesTooltip "Выбрать iframe в качестве текущего целевого документа">
 <!ENTITY browserToolboxErrorMessage "Ошибка открытия Инструментов браузера:">
 <!ENTITY options.context.advancedSettings "Дополнительные параметры">
 <!ENTITY options.context.inspector "Инспектор">
