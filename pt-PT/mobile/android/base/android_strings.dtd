@@ -308,7 +308,7 @@ size. -->
 <!ENTITY pref_vendor_faqs "FAQs">
 <!ENTITY pref_vendor_feedback "Deixar um comentário">
 
-<!ENTITY pref_dialog_set_default "Pré-definir">
+<!ENTITY pref_dialog_set_default "Predefinir">
 <!ENTITY pref_dialog_default "Pré-definido">
 <!ENTITY pref_dialog_remove "Remover">
 
@@ -408,7 +408,7 @@ size. -->
 <!ENTITY contextmenu_subscribe "Subscrever para a página">
 <!ENTITY contextmenu_site_settings "Editar definições do sítio">
 <!ENTITY contextmenu_top_sites_edit "Editar">
-<!ENTITY contextmenu_top_sites_pin "Pin do sítio">
+<!ENTITY contextmenu_top_sites_pin "Fixar sítio">
 <!ENTITY contextmenu_top_sites_unpin "Unpin do sítio">
 <!ENTITY contextmenu_add_search_engine "Adicionar motor de pesquisa">
 <!ENTITY contextmenu_mark_read "Marcar como lido">
@@ -496,7 +496,7 @@ size. -->
 <!ENTITY button_clear "Limpar">
 <!ENTITY button_copy "Copiar">
 
-<!ENTITY home_top_sites_title "Sites mais visitados">
+<!ENTITY home_top_sites_title "Mais visitados">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Adicionar um sítio">
