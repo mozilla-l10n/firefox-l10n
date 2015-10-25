@@ -12,9 +12,9 @@
 
 <!-- New menu popup in File menu -->
 <!ENTITY lightning.menupopup.new.event.label    "Eveniment…">
-<!ENTITY lightning.menupopup.new.event.accesskey "O">
+<!ENTITY lightning.menupopup.new.event.accesskey "E">
 <!ENTITY lightning.menupopup.new.task.label     "Incumbensa…">
-<!ENTITY lightning.menupopup.new.task.accesskey "P">
+<!ENTITY lightning.menupopup.new.task.accesskey "I">
 <!ENTITY lightning.menupopup.new.calendar.label "Chalendar…">
 <!ENTITY lightning.menupopup.new.calendar.accesskey "n">
 
@@ -34,7 +34,7 @@
 
 <!-- Events and Tasks menu -->
 <!ENTITY lightning.menu.eventtask.label                "Eveniments ed incumbensas">
-<!ENTITY lightning.menu.eventtask.accesskey            "r">
+<!ENTITY lightning.menu.eventtask.accesskey            "v">
 
 <!-- properties dialog, calendar creation wizard -->
 <!ENTITY lightning.calendarproperties.email.label               "E-Mail:">
