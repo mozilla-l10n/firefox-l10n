@@ -9,7 +9,7 @@
 
 <!ENTITY pref.alarmgoesoff.label "Sche ina propemoria scada:">
 <!ENTITY pref.playasound "Far ir in tun">
-<!ENTITY pref.calendar.alarms.playsound.accessKey "s">
+<!ENTITY pref.calendar.alarms.playsound.accessKey "t">
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "Utilisar il tun da standard">
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "s">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Navigar…">
@@ -17,7 +17,7 @@
 <!ENTITY pref.calendar.alarms.sound.play.label "Far ir">
 <!ENTITY pref.calendar.alarms.sound.play.accessKey "F">
 <!ENTITY pref.showalarmbox "Mussar il dialog da promemoria">
-<!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "x">
+<!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "g">
 <!ENTITY pref.missedalarms "Mussar promemorias manchentadas">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "m">
 <!ENTITY pref.calendar.alarms.defaults.label "Standards per promemorias">
