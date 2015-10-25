@@ -6,7 +6,9 @@
 
 <!ENTITY aboutTelemetry.changeDataChoices "  Canvia">
 
+<!ENTITY aboutTelemetry.uploadEnabled "  L'enviament de dades del FHR està <span>habilitat</span>.">
 
+<!ENTITY aboutTelemetry.uploadDisabled "  L'enviament de dades del FHR està <span>inhabilitat</span>.">
 
 
 

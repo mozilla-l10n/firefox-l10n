@@ -51,7 +51,7 @@
 <!ENTITY btnPageLogging.label   "Registre">
 <!ENTITY btnPageLogging.tooltip "Registra els missatges enviats a l'objecte window.console">
 <!ENTITY btnPageLogging.accesskey3 "R">
-
+<!ENTITY btnConsoleErrors       "Errors">
 
 
 
@@ -61,11 +61,13 @@
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls on the HTTP server. -->
 
+<!ENTITY btnServerLogging.label       "Servidor">
+<!ENTITY btnServerLogging.tooltip     "Registre dels missatges rebuts des d'un servidor web">
+<!ENTITY btnServerLogging.accesskey   "S">
+<!ENTITY btnServerErrors              "Errors">
 
 
-
-
-
+<!ENTITY btnServerLog                 "Registre">
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
 

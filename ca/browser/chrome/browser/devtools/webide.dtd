@@ -26,7 +26,7 @@
 <!ENTITY projectMenu_showPrefs_accesskey "f">
 <!ENTITY projectMenu_manageComponents_label "Gestiona els components addicionals">
 <!ENTITY projectMenu_manageComponents_accesskey "G">
-
+<!ENTITY projectMenu_refreshTabs_label "Actualitza les pestanyes">
 
 <!ENTITY runtimeMenu_label "Entorn d'execució">
 <!ENTITY runtimeMenu_accesskey "T">
