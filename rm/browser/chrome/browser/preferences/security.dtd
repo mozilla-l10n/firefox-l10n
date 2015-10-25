@@ -24,7 +24,10 @@
 <!ENTITY  addonExceptions.accesskey     "E">
 
 
+<!ENTITY  logins.label                  "Infurmaziuns d'annunzia">
 
+<!ENTITY  rememberLogins.label          "Memorisar las infurmaziuns d'annunzia">
+<!ENTITY  rememberLogins.accesskey      "R">
 <!ENTITY  passwordExceptions.label      "Excepziuns…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
@@ -33,3 +36,5 @@
 <!ENTITY  changeMasterPassword.label     "Midar il pled-clav universal…">
 <!ENTITY  changeMasterPassword.accesskey "d">
 
+<!ENTITY  savedLogins.label              "Infurmaziuns d'annunzia memorisadas…">
+<!ENTITY  savedLogins.accesskey          "L">
