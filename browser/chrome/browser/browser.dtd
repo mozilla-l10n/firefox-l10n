@@ -708,7 +708,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Ez az oldal a számítógépén van tárolva.">
 <!ENTITY identity.connectionVerified1 "Biztonságosan kapcsolódott ehhez ez oldalhoz; az üzemeltetője:">
 <!ENTITY identity.connectionInternal "Ez egy biztonságos &brandShortName; oldal.">
-
+<!ENTITY identity.insecureLoginForms "A bejelentkezését feltörhették.">
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "A &brandShortName; blokkolta az oldal néhány nem biztonságos elemét.">
