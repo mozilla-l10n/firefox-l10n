@@ -112,6 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignIn.label "S'annunziar tar &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Avrir las preferenzas da &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Reconnectar cun &syncBrand.shortName.label;">
+<!ENTITY fxaUnverified.label "Verifitgar tes conto">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; è activà">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; cumenza immediat a sincronisar.">
 
@@ -129,9 +130,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      respectively before and after the domain requiring fullscreen.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
+<!ENTITY fullscreenWarning.beforeDomain.label "">
+<!ENTITY fullscreenWarning.afterDomain.label "è ussa en il modus da maletg entir">
+<!ENTITY fullscreenWarning.generic.label "Quest document è ussa en il modus da maletg entir">
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
+<!ENTITY exitDOMFullscreen.button "Bandunar il modus da maletg entir (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "Bandunar il modus da maletg entir (esc)">
 <!ENTITY leaveDOMFullScreen.label "Bandunar il modus da maletg entir">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
@@ -400,8 +406,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Vuls ti meglierar ils resultats da tschertga cun propostas?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Ulteriuras infurmaziuns…">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Na">
+<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Gea">
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "g">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
