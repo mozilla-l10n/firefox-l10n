@@ -467,6 +467,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Preferenzas da tschertgar">
 
+<!ENTITY searchInNewTab.label         "Tschertgar en in nov tab">
+<!ENTITY searchInNewTab.accesskey     "T">
+<!ENTITY searchSetAsDefault.label     "Definir sco maschina da tschertgar da standard">
+<!ENTITY searchSetAsDefault.accesskey "D">
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -701,7 +705,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Connexiun segirada">
 <!ENTITY identity.connectionNotSecure "Questa connexiun n'è betg segirada">
 <!ENTITY identity.connectionFile "Questa pagina è memorisada sin tes computer.">
+<!ENTITY identity.connectionVerified1 "Ti es collià a moda segira cun questa pagina, administrada da:">
 <!ENTITY identity.connectionInternal "Quai è ina pagina segira da &brandShortName;.">
+<!ENTITY identity.insecureLoginForms "Tias datas d'annunzia èn eventualmain periclitadas.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; ha bloccà parts da questa pagina che n'èn betg segiradas.">
@@ -711,6 +717,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Strings for connection state warnings in the subview. -->
 <!ENTITY identity.description.insecure "Tia connexiun cun questa pagina n'è betg privata. Infurmaziuns che ti tramettas (p.ex. pleds-clav, messadis, numers da cartas da credit etc.) pon eventualmain vegnir legidas dad auters.">
+<!ENTITY identity.description.insecureLoginForms "Las datas d'annunzia che ti endateschas sin questa pagina n'èn betg segiradas ed èn eventualmain periclitadas.">
 <!ENTITY identity.description.weakCipher "Tia connexiun cun questa pagina utilisescha in criptadi flaivel e n'è betg privata.">
 <!ENTITY identity.description.weakCipher2 "Autras persunas pon vesair tias infurmaziuns u modifitgar la pagina d'internet.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; ha bloccà parts da questa pagina che n'èn betg segiradas.">
@@ -729,6 +736,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.moreInfoLinkText2 "Mussar detagls">
 
 <!ENTITY identity.permissions "Autorisaziuns">
+<!ENTITY identity.permissionsEmpty "Ti n'has betg definì autorisaziuns spezialas per questa pagina.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -739,6 +747,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
+<!ENTITY syncSignIn.label             "S'annunziar tar &syncBrand.shortName.label;…">
+<!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "Sincronisar ussa">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Reconnectar cun &syncBrand.shortName.label;…">
