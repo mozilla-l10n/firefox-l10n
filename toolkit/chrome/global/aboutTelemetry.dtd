@@ -12,17 +12,25 @@
 
 
 
+<!ENTITY aboutTelemetry.pingDataSource "Fes ping a l'origen de les dades">
 
 
 
+<!ENTITY aboutTelemetry.showSubsessionData "Mostra dades de la subsessió">
 
+<!ENTITY aboutTelemetry.choosePing "Escull ping:">
 
+<!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; Ping més recent">
 
+<!ENTITY aboutTelemetry.showOlderPing "Ping més antic &gt;&gt;">
 
+<!ENTITY aboutTelemetry.archiveWeekHeader "Setmana">
 
+<!ENTITY aboutTelemetry.archivePingHeader "Ping">
 
 <!ENTITY aboutTelemetry.generalDataSection "  Dades generals">
 
+<!ENTITY aboutTelemetry.environmentDataSection "  Dades de l'entorn">
 
 <!ENTITY aboutTelemetry.telemetryLogSection "  Registre de telemesura">
 
