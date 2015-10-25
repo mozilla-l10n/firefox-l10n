@@ -39,6 +39,8 @@
 <!ENTITY info.plugincheck.label                 "Periksa untuk lihat sekiranya plugin anda adalah yang terkini">
 <!ENTITY info.plugincheck.tooltip               "Periksa untuk lihat sekiranya plugin anda adalah yang terkini">
 <!-- categories / views -->
+
+<!ENTITY view.search.label                    "Carian">
 <!ENTITY view.discover.label                  "Dapatkan Add-on">
 <!ENTITY view.recentUpdates.label             "Kemaskini terbaru">
 <!ENTITY view.availableUpdates.label          "Kemaskini tersedia">
