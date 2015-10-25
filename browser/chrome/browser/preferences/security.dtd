@@ -24,7 +24,10 @@
 <!ENTITY  addonExceptions.accesskey     "I">
 
 
+<!ENTITY  logins.label                  "Prisijungimai">
 
+<!ENTITY  rememberLogins.label          "Atsiminti prisijungimus prie svetainių">
+<!ENTITY  rememberLogins.accesskey      "A">
 <!ENTITY  passwordExceptions.label      "Išimtys…">
 <!ENTITY  passwordExceptions.accesskey  "š">
 
@@ -33,4 +36,5 @@
 <!ENTITY  changeMasterPassword.label     "Pakeisti pagrindinį slaptažodį…">
 <!ENTITY  changeMasterPassword.accesskey "k">
 
-
+<!ENTITY  savedLogins.label              "Įrašyti prisijungimai…">
+<!ENTITY  savedLogins.accesskey          "p">
