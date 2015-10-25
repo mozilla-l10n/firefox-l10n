@@ -215,10 +215,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.label      "Administrar traducción de página">
 <!ENTITY urlbar.emeNotificationAnchor.label             "Administrar uso de software DRM">
 
-<!ENTITY urlbar.toggleAutocomplete.label                "Cambiar emergente de autocompletado">
+<!ENTITY urlbar.openHistoryPopup.tooltip                "Mostrar historial">
 
-
-<!ENTITY locationItem.title "Dirección">
 <!ENTITY searchItem.title "Buscar">
 
 <!-- Toolbar items --> 
