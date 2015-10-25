@@ -8,6 +8,9 @@
 <!ENTITY  notificationsPolicyDesc.label        "Elija que sitios tendrán permiso de mostrar notificaciones">
 <!ENTITY  notificationsPolicyButton.accesskey  "h">
 <!ENTITY  notificationsPolicyButton.label      "Elegir…">
+<!ENTITY  notificationsDoNotDisturb.label      "No molestarme">
+<!ENTITY  notificationsDoNotDisturb.accesskey  "N">
+<!ENTITY  notificationsDoNotDisturbDetails.value "No se mostrarán notificaciones hasta que reinicie &brandShortName;">
 
 <!ENTITY  blockPopups.label           "Bloquear ventanas emergentes">
 <!ENTITY  blockPopups.accesskey       "B">
