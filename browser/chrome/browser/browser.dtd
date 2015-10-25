@@ -857,7 +857,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.deleteCookies           "Apagar os <html:strong>cookies</html:strong> recentes">
 <!ENTITY panicButton.view.deleteHistory           "Apagar o <html:strong>histórico</html:strong> recente">
 <!ENTITY panicButton.view.deleteTabsAndWindows    "Fechar todos os <html:strong>separadores</html:strong> e <html:strong>janelas</html:strong>">
-<!ENTITY panicButton.view.openNewWindow           "Abrir uma nova janela">
+<!ENTITY panicButton.view.openNewWindow           "Abrir uma nova janela limpa">
 
 <!ENTITY panicButton.view.undoWarning             "Esta ação não pode ser anulada.">
 <!ENTITY panicButton.view.forgetButton            "Esquecer!">
