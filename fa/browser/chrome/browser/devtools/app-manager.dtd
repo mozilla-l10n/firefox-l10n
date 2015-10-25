@@ -30,7 +30,7 @@
 <!ENTITY device.deny "رد کردن">
 <!ENTITY device.denyTooltip "این مجوز به برنامه هایی از این نوع داده نمیشود">
 <!ENTITY device.installedApps "برنامه‌های نصب شده">
-<!ENTITY device.installedAppsTooltip "مشاهده‌ لیستی از برنامه‌های نصب شده بر روی دستگاه, تعدادی برنامه, همانند برنامه‌های تایید شده ممکن است از این دیدگاه حذف شده باشد.">
+<!ENTITY device.installedAppsTooltip "فهرستی از برنامه‌های نصب شده بر روی دستگاه را ببینید. تعدادی از برنامه‌ها، همانند برنامه‌های دارای گواهینامه، ممکن است از این فهرست حذف شده باشند.">
 <!ENTITY device.permissions "مجوزها">
 <!ENTITY device.permissionsTooltip "مشاهده جدولی از مجوزهای دسترسی به انواع مختلفی از برنامه‌ها">
 <!ENTITY device.permissionsHelpLink "https://developer.mozilla.org/docs/Web/Apps/App_permissions">
