@@ -14,4 +14,9 @@
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "Trametter ina annunzia da collaps">
+<!ENTITY report.submitting                                   "Trametter l'annunzia…">
+<!ENTITY report.submitted                                    "Tramess l'annunzia.">
+<!ENTITY report.disabled                                     "Annunzias da collaps èn deactivadas.">
+<!ENTITY report.failed                                       "Betg reussì da trametter.">
 
