@@ -24,7 +24,10 @@
 <!ENTITY  addonExceptions.accesskey     "K">
 
 
+<!ENTITY  logins.label                  "Bejelentkezések">
 
+<!ENTITY  rememberLogins.label          "Bejelentkezések megjegyzése az oldalakon">
+<!ENTITY  rememberLogins.accesskey      "m">
 <!ENTITY  passwordExceptions.label      "Kivételek…">
 <!ENTITY  passwordExceptions.accesskey  "v">
 
@@ -33,4 +36,5 @@
 <!ENTITY  changeMasterPassword.label     "Mesterjelszó megváltoztatása…">
 <!ENTITY  changeMasterPassword.accesskey "z">
 
-
+<!ENTITY  savedLogins.label              "Mentett bejelentkezések…">
+<!ENTITY  savedLogins.accesskey          "t">

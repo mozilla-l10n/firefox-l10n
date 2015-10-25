@@ -112,7 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignIn.label "Jelentkezzen be a &syncBrand.shortName.label;be">
 <!ENTITY fxaSignedIn.tooltip "A &syncBrand.shortName.label; beállításainak megnyitása">
 <!ENTITY fxaSignInError.label "Újracsatlakozás a &syncBrand.shortName.label;hez">
-
+<!ENTITY fxaUnverified.label "Fiók ellenőrzése">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; bekapcsolva">
 <!ENTITY syncStartPanel2.subTitle "A &brandShortName; mindjárt elkezdi a szinkronizálást.">
 
@@ -130,13 +130,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 
-<!ENTITY fullscreenWarning.beforeDomain.label "">
-
-
+<!ENTITY fullscreenWarning.beforeDomain.label "A(z) ">
+<!ENTITY fullscreenWarning.afterDomain.label "mostantól teljes képernyős">
+<!ENTITY fullscreenWarning.generic.label "A dokumentum mostantól teljes képernyős">
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
-
+<!ENTITY exitDOMFullscreen.button "Kilépés a teljes képernyőből (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "Kilépés a teljes képernyőből (esc)">
 <!ENTITY leaveDOMFullScreen.label "Kilépés a teljes képernyős módból">
 <!ENTITY leaveDOMFullScreen.accesskey "K">
 
@@ -222,7 +223,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "Letöltések">
 <!ENTITY downloads.accesskey          "L">
 <!ENTITY downloads.commandkey         "j">
-
+<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Kiegészítők">
 <!ENTITY addons.accesskey             "t">
 <!ENTITY addons.commandkey            "A">
@@ -405,11 +406,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Szeretné a keresési élményt javaslatokkal javítani?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "További tudnivalók…">
-
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "t">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Nem">
-
+<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Igen">
-
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "I">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -466,7 +467,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Keresési beállítások módosítása">
 
-
+<!ENTITY searchInNewTab.label         "Keresés új lapon">
+<!ENTITY searchInNewTab.accesskey     "r">
 
 
 
