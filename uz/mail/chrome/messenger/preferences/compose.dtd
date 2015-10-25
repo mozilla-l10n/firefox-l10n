@@ -2,37 +2,44 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY itemGeneral.label                   "Umumiy">
 
+<!ENTITY itemSpellCheck.label                "Imlo">
 
+<!ENTITY dialogCompose.title                 "Yozish">
 
+<!ENTITY forwardMsg.label                     "Xabarlarni boshqalarga yuborish:">
+<!ENTITY forwardMsg.accesskey                 "X">
+<!ENTITY inline.label                         "Ichki">
+<!ENTITY asAttachment.label                   "Biriktirma sifatida">
+<!ENTITY addExtension.label                   "kengaytmani fayl nomiga qo‘shish">
+<!ENTITY addExtension.accesskey               "k">
 
+<!ENTITY htmlComposeHeader.label              "HTML">
+<!ENTITY font.label                           "Shrift:">
+<!ENTITY font.accesskey                       "S">
+<!ENTITY size.label                           "Hajm:">
+<!ENTITY size.accesskey                       "j">
+<!ENTITY fontColor.label                      "Matn rangi:">
+<!ENTITY fontColor.accesskey                  "M">
+<!ENTITY bgColor.label                        "Orqa fon rangi:">
+<!ENTITY bgColor.accesskey                    "O">
+<!ENTITY restoreHTMLDefaults.label            "Asosiy sozlamalarni tiklash">
+<!ENTITY restoreHTMLDefaults.accesskey        "t">
 
+<!ENTITY spellCheck.label                     "Jo‘natishdan oldin imlo xatolarini tekshirish">
+<!ENTITY spellCheck.accesskey                 "t">
+<!ENTITY spellCheckInline.label               "Yozayotganda imlo xatolarini tekshirishni yoqib qo‘yish">
+<!ENTITY spellCheckInline1.accesskey          "E">
+<!ENTITY languagePopup.label                  "Til:">
+<!ENTITY languagePopup.accessKey              "T">
+<!ENTITY downloadDictionaries.label           "Boshqa lug‘atlarni yuklab olish">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY warnOnSendAccelKey.label             "Xabar jo‘natish uchun klaviatura tugmalaridan foydalanilganda jo‘natishdan oldin tasdiqlansin">
+<!ENTITY warnOnSendAccelKey.accesskey         "t">
+<!ENTITY autoSave.label                       "Avtosaqlansin:">
+<!ENTITY autoSave.accesskey                   "A">
+<!ENTITY autoSaveEnd.label                    "har daqiqada">
 
 
 
