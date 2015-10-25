@@ -53,13 +53,13 @@
   -  in the toolbar on buttons that select which view is currently shown. -->
 
 <!ENTITY performanceUI.toolbar.waterfall "Vízesés">
-
+<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Megjeleníti a böngésző által a felvétel alatt végzett különböző műveleteket, vízesésszerű elrendezésben.">
 <!ENTITY performanceUI.toolbar.js-calltree "Hívási fa">
-
+<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Kiemeli azokat a JavaScript függvényeket, amelyekben a böngésző a legtöbb időt töltötte a felvétel alatt.">
 <!ENTITY performanceUI.toolbar.memory-calltree "Foglalások">
-
+<!ENTITY performanceUI.toolbar.allocations.tooltiptext "Megjeleníti, hogy a memória hol lett lefoglalva a felvétel alatt.">
 <!ENTITY performanceUI.toolbar.js-flamegraph "JS lángdiagram">
-
+<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Megjeleníti a JavaScript hívási vermet a felvétel idején.">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "Foglalások lángdiagram">
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
