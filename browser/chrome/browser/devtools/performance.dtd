@@ -17,9 +17,13 @@
 <!ENTITY performanceUI.stopRecording  "Atura l'enregistrament de rendiment">
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusTooltip): This string
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
+
+<!ENTITY performanceUI.bufferStatusTooltip "L'analitzador de rendiment emmagatzema mostres en una memòria intermèdia circular i, en assolir el límit de l'enregistrament, va sobreescrivint les mostres des del principi.">
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.nonE10SBuild): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a non-multiprocess build. -->
+
+<!ENTITY performanceUI.disabledRealTime.nonE10SBuild "L'enregistrament de dades en temps real està inhabilitat en un Firefox no multiprocés.">
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a build that can run multiprocess Firefox, but just is not enabled. -->
