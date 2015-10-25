@@ -159,8 +159,7 @@
 <!ENTITY urlbar.translateNotificationAnchor.label "Traducir esta página">
 <!ENTITY urlbar.translatedNotificationAnchor.label "Administrar traducción de la página">
 <!ENTITY urlbar.emeNotificationAnchor.label "Administrar uso del software DRM">
-<!ENTITY urlbar.toggleAutocomplete.label "Alternar el aviso de autocompletado">
-<!ENTITY locationItem.title "Dirección">
+<!ENTITY urlbar.openHistoryPopup.tooltip "Mostrar historial">
 <!ENTITY searchItem.title "Buscar">
 <!ENTITY homeButton.label "Inicio">
 <!ENTITY tabGroupsButton.label "Grupos de pestañas">

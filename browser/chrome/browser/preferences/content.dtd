@@ -5,10 +5,13 @@
 <!ENTITY popups.label "Ventanas emergentes">
 <!ENTITY blockPopups.label "Bloquear ventanas emergentes">
 <!ENTITY blockPopups.accesskey "B">
-<!ENTITY notificationsPolicy.label "">
-<!ENTITY notificationsPolicyDesc.label "">
-<!ENTITY notificationsPolicyButton.accesskey "">
+<!ENTITY notificationsPolicy.label "Notificaciones">
+<!ENTITY notificationsPolicyDesc.label "Elija qué sitios tienen permitido mostrar notificaciones">
+<!ENTITY notificationsPolicyButton.accesskey "E">
 <!ENTITY notificationsPolicyButton.label "Elegir…">
+<!ENTITY notificationsDoNotDisturb.label "No molestarme">
+<!ENTITY notificationsDoNotDisturb.accesskey "N">
+<!ENTITY notificationsDoNotDisturbDetails.value "No se mostrarán más notificaciones hasta que reinicie &brandShortName;">
 <!ENTITY popupExceptions.label "Excepciones…">
 <!ENTITY popupExceptions.accesskey "E">
 <!ENTITY fontsAndColors.label "Tipografías y colores">
