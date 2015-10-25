@@ -13,7 +13,7 @@
 <!ENTITY port       "စိုက်ရောက်နေရာ၊">
 <!ENTITY connect    "ချိတ်ဆက်ပါ">
 <!ENTITY connecting "ချက်ဆက်နေသည်">
-
+<!ENTITY availableAddons "ရနိုင်သော အဝေးရောက် အတ်အွန်များ">
 <!ENTITY availableTabs "အဝေးတွင်ရရှိနိုင်သောအခွဲများ">
 <!ENTITY availableProcesses "အဝေးတွင်ရှိသော လုပ်ငန်းစဉ်များ">
 <!ENTITY connectionError "အမှား၊">
