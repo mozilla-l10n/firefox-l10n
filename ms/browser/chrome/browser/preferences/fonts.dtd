@@ -64,9 +64,10 @@
 <!ENTITY  allowPagesToUse.label                   "Benarkan laman untuk memilih fontnya, bukannya pilihan saya di atas">
 <!ENTITY  allowPagesToUse.accesskey               "B">
 
+<!ENTITY languages.customize.Fallback2.grouplabel "Pengekodan Teks untuk Kandungan Legasi">
 
 
-
+<!ENTITY languages.customize.Fallback2.desc       "Pengekodan teks ini digunakan untuk kandungan legasi yang gagal diisyhtiharkan pengekodannya.">
 
 <!ENTITY languages.customize.Fallback.auto        "Lalai untuk Locale Semasa">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
