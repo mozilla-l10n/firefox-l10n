@@ -2,11 +2,25 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
+<!ENTITY itemGeneral.label       "Umumiy">
+<!ENTITY dataChoicesTab.label    "Ma’lumotlar tanlovlari">
+<!ENTITY itemUpdate.label        "Yangilash">
+<!ENTITY itemNetworking.label    "Tarmoq va diskdagi joy">
+<!ENTITY itemCertificates.label  "Sertifikatlar">
 <!-- General Settings -->
 
+<!ENTITY enableGlodaSearch.label       "Global izlash va indekslashni yoqib qo‘yish">
+<!ENTITY enableGlodaSearch.accesskey   "q">
+<!ENTITY allowHWAccel.label            "Mavjud bo‘lganda qurilmani tezlatishdan foydalanilsin">
+<!ENTITY allowHWAccel.accesskey        "q">
+<!ENTITY storeType.label               "Yangi hisoblar uchun xabarlarni saqlash turi:">
+<!ENTITY storeType.accesskey           "t">
+<!ENTITY mboxStore2.label              "Har bir jilddagi fayl (mbox)">
+<!ENTITY maildirStore.label            "Har bir xabardagi fayl (maildir)">
+
+<!ENTITY scrolling.label               "Siljitish">
+<!ENTITY useAutoScroll.label           "Avtosiljitishdan foydalanish">
+<!ENTITY useAutoScroll.accesskey       "f">
 
 
 
@@ -14,17 +28,8 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY checkDefaultsNow.label        "Hozir tekshirish…">
+<!ENTITY checkDefaultsNow.accesskey    "H">
 
 
 
@@ -33,36 +38,45 @@
 
 <!-- Data Choices -->
 
+<!ENTITY telemetrySection.label          "Telemetry">
 
+<!ENTITY enableTelemetry.label           "Telemetry xizmatini yoqish">
+<!ENTITY enableTelemetry.accesskey       "T">
+<!ENTITY telemetryLearnMore.label        "Batafsil ma’lumot">
 
+<!ENTITY crashReporterSection.label      "Nosozlik haqida xabar bergich">
 
-
-
-
-
-
+<!ENTITY enableCrashReporter.label       "Nosozlik haqida xabar bergichni yoqib qo‘yish">
+<!ENTITY enableCrashReporter.accesskey   "N">
+<!ENTITY crashReporterLearnMore.label    "Batafsil ma’lumot">
 <!-- Update -->
 
+<!ENTITY updateApp.label                 "&brandShortName; yangilanishlari:">
 
 
 
 
 
 
+<!ENTITY updateAutoAddonWarn.label       "Agar u qo‘shimcha dasturlarimdan birortasini o‘chirib qo‘ysa, meni ogohlantir">
+<!ENTITY updateAutoAddonWarn.accesskey   "m">
+<!ENTITY updateHistory.label             "Yangilash tarixini ko‘rsatish">
+<!ENTITY updateHistory.accesskey         "a">
 
-
-
-
-
+<!ENTITY useService.label                "Yangilanishlarni o‘rnatish uchun orqa fonda yangilash xizmatidan foydalaning">
+<!ENTITY useService.accesskey            "o">
 <!-- Networking and Disk Space -->
 
-
-
+<!ENTITY showSettings.label            "Sozlamalar…">
+<!ENTITY showSettings.accesskey        "S">
+<!ENTITY proxiesConfigure.label        "&brandShortName; dasturini internetga ulanishini moslash">
+<!ENTITY connectionsInfo.caption       "Ulanish">
 <!ENTITY offlineInfo.caption           "Oflayn">
+<!ENTITY offlineInfo.label             "Oflayn sozlamalarini to‘g‘rilash">
+<!ENTITY showOffline.label             "Oflayn…">
+<!ENTITY showOffline.accesskey         "O">
 
-
-
-
+<!ENTITY Diskspace                       "Diskdagi joy">
 
 
 
@@ -74,16 +88,19 @@
 -->
 
 
-
-
+<!ENTITY clearCacheNow.label             "Hozir tozalash">
+<!ENTITY clearCacheNow.accesskey         "t">
 <!-- Certificates -->
 
+<!ENTITY certSelection.description       "Server shaxsiy sertifikatimni so‘raganida:">
+<!ENTITY certs.auto                      "Avtomatik tarzda bittasini tanlash">
+<!ENTITY certs.auto.accesskey            "S">
+<!ENTITY certs.ask                       "Har safar mendan so‘ralsin">
+<!ENTITY certs.ask.accesskey             "A">
 
 
 
-
-
-
-
-
-
+<!ENTITY viewCertificates.label         "Sertifikatlarni ko‘rish">
+<!ENTITY viewCertificates.accesskey     "S">
+<!ENTITY viewSecurityDevices.label      "Xavfsizlik qurilmalari">
+<!ENTITY viewSecurityDevices.accesskey  "q">

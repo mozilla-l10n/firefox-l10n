@@ -2,9 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
+<!ENTITY attachmentReminderDialog.title   "Biriktirmani eslatkich uchun kalit so‘zlar">
+<!ENTITY attachKeywordText.label          "Xatni jo‘natish vaqtida ushbu kalit so‘zlardan birortasi bo‘lsa, &brandShortName; qo‘shilmagan biriktirmalar haqida xabar beradi.">
+<!ENTITY addKeywordButton.label           "Qo‘shish">
+<!ENTITY addKeywordButton.accesskey       "Q">
 <!ENTITY editKeywordButton.label          "Tahrirlash">
 <!ENTITY editKeywordButton.accesskey      "T">
-
-
+<!ENTITY removeKeywordButton.label        "O‘chirish">
+<!ENTITY removeKeywordButton.accesskey    "O">

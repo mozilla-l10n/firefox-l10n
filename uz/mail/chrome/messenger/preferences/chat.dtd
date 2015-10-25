@@ -2,8 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
+<!ENTITY  startupAction.label         "&brandShortName; ishga tushganda:">
+<!ENTITY  startupAction.accesskey     "i">
+<!ENTITY  startupOffline.label        "Chat hisoblarim oflayn saqlansin">
+<!ENTITY  startupConnectAuto.label    "Chat hisoblarimga avtomatik tarzda ulansin">
 <!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
 there's a field where the user can enter a number, and itemTime is
 displayed at the end of the line. The translations of the

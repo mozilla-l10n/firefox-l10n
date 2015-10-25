@@ -2,28 +2,37 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  typeColumn.label            "Tarkib turi">
+<!ENTITY  typeColumn.accesskey        "t">
 
+<!ENTITY  actionColumn2.label         "Amal">
+<!ENTITY  actionColumn2.accesskey     "A">
 
+<!ENTITY  focusSearch1.key            "f">
+<!ENTITY  focusSearch2.key            "k">
 
+<!ENTITY  filter.placeholder          "Izlash">
 
+<!ENTITY saveTo.label                 "Fayllarni saqlash">
+<!ENTITY saveTo.accesskey             "s">
+<!ENTITY alwaysAsk.label              "Fayllarni saqlash joy doimo mendan so‘ralsin">
+<!ENTITY alwaysAsk.accesskey          "d">
+<!ENTITY chooseFolderWin.label        "Ko‘rish…">
+<!ENTITY chooseFolderWin.accesskey    "r">
+<!ENTITY chooseFolderMac.label        "Tanlash…">
+<!ENTITY chooseFolderMac.accesskey    "T">
 
+<!ENTITY attachments.incoming.label   "Kiruvchi">
+<!ENTITY attachments.outgoing.label   "Chiquvchi">
 
+<!ENTITY addCloudFileAccount.label        "Qo‘shish">
+<!ENTITY addCloudFileAccount.accesskey    "Q">
+<!ENTITY addCloudFileAccount.description  "Yangi Filelink ombori xizmatini qo‘shish">
+<!ENTITY removeCloudFileAccount.label     "Olib tashlash">
+<!ENTITY removeCloudFileAccount.accesskey "O">
+<!ENTITY authRequired.description         "Ushbu ombor xizmati sozlamalarini ko‘rish uchun tasdiqdan o‘tishingiz kerak bo‘ladi.">
+<!ENTITY authRequired.button.label        "Tasdiqdan o‘tkazish">
+<!ENTITY authRequired.button.accesskey    "T">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY enableCloudFileAccountOffer.label "Ushbudan kattaroq fayllarni bo‘lishish taklif qilinsin">
+<!ENTITY enableCloudFileAccountOffer.mb "MB">
