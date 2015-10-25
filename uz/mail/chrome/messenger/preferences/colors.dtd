@@ -2,23 +2,29 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  colorsDialog.title              "Ranglar">
+<!ENTITY  window.width                    "38em">
+<!ENTITY  window.macWidth                 "41em">
 
+<!ENTITY  overridePageColors.label        "Tarkib bo‘yicha ko‘rsatilgan ranglarni men tepada tanlaganlar bilan almashtiradi:">
+<!ENTITY  overridePageColors.accesskey    "a">
 
+<!ENTITY  overridePageColors.always.label "Doimo">
+<!ENTITY  overridePageColors.auto.label   "Faqat yuqori kontrastli mavzular bilan">
+<!ENTITY  overridePageColors.never.label  "Hech qachon">
 
+<!ENTITY  color                           "Matn va orqa fon">
+<!ENTITY  textColor.label                 "Matn:">
+<!ENTITY  textColor.accesskey             "M">
+<!ENTITY  backgroundColor.label           "Orqa fon:">
+<!ENTITY  backgroundColor.accesskey       "O">
+<!ENTITY  useSystemColors.label           "Tizim ranlaridan foydalanilsin">
+<!ENTITY  useSystemColors.accesskey       "f">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY  underlineLinks.label            "Tagiga chizilgan havolalar">
+<!ENTITY  underlineLinks.accesskey        "c">
+<!ENTITY  links                           "Havola ranglari">
+<!ENTITY  linkColor.label                 "Kirilmagan havolalar:">
+<!ENTITY  linkColor.accesskey             "K">
+<!ENTITY  visitedLinkColor.label          "Kirilgan havolalar:">
+<!ENTITY  visitedLinkColor.accesskey      "K">

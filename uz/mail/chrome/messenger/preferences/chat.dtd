@@ -13,25 +13,30 @@ reportIdleAfter.label and idleTime parts don't have to mean the exact
 same thing as in English; please try instead to translate the whole
 sentence. -->
 
+<!ENTITY  reportIdleAfter.label         "Kompyuterga bir necha daqiqadan so‘ng">
+<!ENTITY  reportIdleAfter.accesskey     "K">
+<!ENTITY  idleTime                      " qaytganimdan so‘ng kontaktlarimni bilishga imkon berilsin">
 
+<!ENTITY  andSetStatusToAway.label      "va holatimga Ushbu xabar bilan tashqarida xabari o‘rnatilsin:">
+<!ENTITY  andSetStatusToAway.accesskey  "t">
 
+<!ENTITY  sendTyping.label              "Suhbatlarda yozish bildirishnomalarini jo‘natish">
+<!ENTITY  sendTyping.accesskey          "y">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY  chatNotifications.label             "Xabar siz uchun yo‘naltirilganda:">
+<!ENTITY  desktopChatNotifications.label      "Bildirishnomani ko‘rsatish:">
+<!ENTITY  desktopChatNotifications.accesskey  "B">
+<!ENTITY  completeNotification.label          "jo‘natuvchining ismi va xabar ko‘rinishi bilan">
+<!ENTITY  buddyInfoOnly.label                 "faqat jo‘natuvchining ismi bilan">
+<!ENTITY  dummyNotification.label             "hech qanday ma’lumotsiz">
+<!ENTITY  chatSound.accesskey                 "n">
+<!ENTITY  chatSound.label                     "Tovushni eshitib ko‘rish">
+<!ENTITY  play.label                          "Eshitib ko‘rish">
+<!ENTITY  play.accesskey                      "E">
+<!ENTITY  systemSound.label                   "Yangi xat uchun asosiy tizim tovushi">
+<!ENTITY  systemSound.accesskey               "a">
+<!ENTITY  customsound.label                   "Quyidagi tovush faylidan foydalanilsin">
+<!ENTITY  customsound.accesskey               "f">
+<!ENTITY  browse.label                        "Ko‘rish…">
+<!ENTITY  browse.accesskey                    "r">
 
