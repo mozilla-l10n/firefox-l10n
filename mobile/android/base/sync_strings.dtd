@@ -197,6 +197,7 @@
 
 <!ENTITY fxaccount_status_header2                 'Firefoxi konto'>
 <!ENTITY fxaccount_status_signed_in_as            'Sisse logitud kasutajana'>
+<!ENTITY fxaccount_status_manage_account          'Halda kontot'>
 <!ENTITY fxaccount_status_auth_server             'Konto server'>
 <!ENTITY fxaccount_status_sync_now                'Sünkroniseeri kohe'>
 <!ENTITY fxaccount_status_syncing2                'Sünkroniseerimine…'>
