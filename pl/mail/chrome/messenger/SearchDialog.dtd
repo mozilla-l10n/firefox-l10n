@@ -72,7 +72,7 @@
 <!ENTITY junkStatusColumn2.tooltip "Sortowanie według statusu niechcianej poczty">
 <!ENTITY unreadColumn2.tooltip "Liczba wszystkich nieprzeczytanych wiadomości w wątku">
 <!ENTITY totalColumn2.tooltip "Liczba wszystkich wiadomości w wątku">
-<!ENTITY readColumn2.tooltip "Sortowanie według ilości przeczytanych wiadomości">
+<!ENTITY readColumn2.tooltip "Sortowanie według liczby przeczytanych wiadomości">
 <!ENTITY receivedColumn2.tooltip "Sortowanie według daty otrzymania">
 <!ENTITY starredColumn2.tooltip "Sortowanie według oznaczenia gwiazdką">
 <!ENTITY locationColumn2.tooltip "Sortowanie według adresu">
