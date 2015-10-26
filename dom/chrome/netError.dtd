@@ -46,9 +46,6 @@
 <!ENTITY netTimeout.title "A ræ a no risponde">
 <!ENTITY netTimeout.longDesc "<p>O scito che t'æ domandou no risponde e o browser o s'é fermou de aspetâ a risposta.</p><ul><li>Fòscia o server gh'à 'n'erta domanda ò un problema tenporaneo?  Preuva ancon dòppo.</li><li>No ti riesci a navegâ inti atri sciti? Contròlla a conescion do teu computer.</li><li>O teu computer ò a teu conescion en protezui da 'n firewall ò proxy?  Se e teu inpostaçioin son sbaliæ peuan interferî co-a navegaçion.</li><li>Ti gh'æ ancon di problemi?  Ciamma o teu aministratô da ræ ò fornitô de serviççi internet pe ascistensa.</li></ul>">
 
-<!ENTITY protocolNotFound.title "Protocòllo no conosciuo">
-<!ENTITY protocolNotFound.longDesc "<p>L'indirisso o l'à un protocòllo (ez. <q>wxyz://</q>) che mi n'ou conoscio coscì no riescio a conetime a-o scito.</p><ul><li>Ti preuvi miga a leze di contegnui moltimediali? Contròlla se a-o scito ghe serve quarche atro angæzo.</li><li>Quarche protocòllo peu domandâ de aplicaçion o plugin de terçe parti.</li></ul>">
-
 <!ENTITY proxyConnectFailure.title "O proxy o refua a conescion">
 <!ENTITY proxyConnectFailure.longDesc "<p>O browser o l'é inpostou pe uzâ un server proxy ma o proxy o refua e conescioin.</p><ul><li>E inpostaçioin proxy do navegatô son giuste? Contròlla e preuva ancon.</li><li>O proxy permette e conescioin da sta ræ?</li><li>Ti gh'æ ancon di problemi? Ciamma o teu aministratô da ræ ò fornitô de serviççi internet pe ascistensa.</li></ul>">
 
@@ -60,12 +57,6 @@
 
 <!ENTITY unknownSocketType.title "Resposta Sbaliâ">
 <!ENTITY unknownSocketType.longDesc "<p>O scito risponde in 'na manea strana e-o browser no peu continoa.</p>">
-
-<!ENTITY nssFailure2.title "Conescion segua no riescia">
-<!ENTITY nssFailure2.longDesc "<ul>
-  <li>A pagina che ti preuvi a vedde no se peu vizoalizâ perché l'aotenticitæ di dæti a no se peu verifica.</li>
-  <li>Pe piaxei ciamma o propietaio do scito pe informalo do problema. Ti peu ascì uzâ o menu agiutto pe fâ un report in sciô scito che gh'à o problema.</li>
-</ul>   ">
 
 <!ENTITY nssBadCert.title "Conescion segua no riescia">
 <!ENTITY nssBadCert.longDesc2 "<ul>
@@ -83,9 +74,6 @@
 <!ENTITY phishingBlocked.longDesc "<p>Se ti ti inserisci informaçioin inte sta pagina peu sucede che te aröban a identitæ o che te fan 'n atro inbreuggio.</p> <p>Sti tipi de falsificaçioin web son uzæ pe fâ inbreuggi comme o phishing, inti quæ e email son uzæ pe imitâ a sorgente fia.</p>
  ">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blocou da-a teu Politica de Seguessa do Contegnuo">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>O navegatô evita che sta pagina chi a vegne caregâ a sto mòddo perché gh'à 'na politica de seguessa che nò-u permette.</p>">
-
 <!ENTITY corruptedContentError.title "Erô de contegnuo corotto">
 <!ENTITY corruptedContentError.longDesc "<p>A pagina che ti çerchi de vedde a no peu mostrase perché s'é atrovou un erô inta trasmiscion di dæti.</p><ul><li>Pe piaxei, contatta i padroin do scito pe faghe savei de questo problema.</li></ul>">
 
@@ -98,4 +86,23 @@
      Please, try to keep this at the end of the file. -->
 <!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
 %netErrorAppDTD;
+
+
+<!ENTITY cspBlocked.title "Blocou da i criteri in sciâ seguessa di contegnui">
+<!ENTITY cspBlocked.longDesc "<p>O navegatô o l'à blocou o caregamento da pagina con sta modalitæ perché a l'includde di criteri de seguessa di contegnui ch'ou inpediscian.</p>">
+
+<!ENTITY nssFailure2.title "Conescion segua no ariescia">
+<!ENTITY nssFailure2.longDesc2 "
+<p>A pagina che ti preuvi a vedde a no peu mostrase perché no l'é poscibile verificanr l’aotenticitæ di dæti riçevui.</p>
+<ul>
+	<li>Ciamma o propietaio do scito web pe informalo do problema.</li>
+</ul>
+">
+<!ENTITY unknownProtocolFound.longDesc "<p>L’indirisso domanda 'n protocòllo (prez. <q>wxyz://</q>) ch'o navegatô o no conosce, quindi o nn peu colegase a-o scito.</p><ul><li>Se ti ê derê a acede a serviççi moltimediali ò no de testo? Verificâ in sciô scito i requixiti necesai.</li><li>Quarche protocòllo domanda software esterni ò plugin pe poei ese riconosciui da o navegatô.</li></ul>">
+<!ENTITY proxyConnectFailure.title "Conescion refuâ do-u server proxy">
+<!ENTITY unwantedBlocked.title "Segnalou scito con do software indeziderou">
+<!ENTITY unwantedBlocked.longDesc "
+<p>Sto tipo de scito o çerca de instalâ programmi che peuan ese di inbreuggi e avei consegoense inaspetæ in sciô scistema.</p>
+">
+
 
