@@ -14,8 +14,8 @@
 
 <!ENTITY pref.weekstarts.label "Hét kezdőnapja:">
 <!ENTITY pref.weekstarts.accesskey "H">
-
-
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Hétszám megjelenítése a nézetekben és a mini hónapban">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "w">
 <!ENTITY pref.daysoff.label "A munkahét napjai:">
 
 <!ENTITY pref.calendar.view.daystart.label "A nap kezdete:">
