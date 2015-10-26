@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of Netscape Communicator, please translate using the brandname in respective languages for Netscape Communicator 4 releases. -->
 <!ENTITY importDialog.windowTitle "Kreator importu">
 <!ENTITY importAll.label "Importowanie wszystkich danych">
 <!ENTITY importAll.accesskey "m">
