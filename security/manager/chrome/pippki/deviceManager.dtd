@@ -7,11 +7,6 @@
 <!ENTITY devmgr.devlist.label                   "Mòdoli e aparati de seguessa">
 <!ENTITY devmgr.details.title                   "Detalli">
 <!ENTITY devmgr.details.title2                  "Valô">
-<!ENTITY devmgr.status.label                    "Stato">
-<!ENTITY devmgr.version.label                   "Verscion">
-
-<!ENTITY devmgr.button.changeslotname.label     "Cangia o nomme do slot">
-<!ENTITY devmgr.button.changeslotname.accesskey "C">
 <!ENTITY devmgr.button.login.label              "Conescion">
 <!ENTITY devmgr.button.login.accesskey          "n">
 <!ENTITY devmgr.button.logout.label             "Disconescion">

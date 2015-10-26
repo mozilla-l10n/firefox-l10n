@@ -9,30 +9,11 @@
 <!ENTITY setPassword.newPassword.label "Neuva paròlla segreta:">
 <!ENTITY setPassword.reenterPassword.label "Neuva paròlla segreta (ancon):">
 <!ENTITY setPassword.meter.label "Qualitæ da paròlla segreta">
-<!ENTITY setPassword.meter.loading "Carego">
 
 <!-- Values for resetpassword.xul -->
 <!ENTITY resetPasswordButtonLabel "Reinpòsta">
 <!ENTITY resetPassword.title  "Reinpòsta a paròlla segreta prinçipâ">
 <!ENTITY resetPassword.text  "Se ti ti reinposti a teu paròlla segreta prinçipâ tutti e teu paròlle segrette de mail e web, i dæti di mòdoli, i certificati personali e ciavi privæ saian scancelæ. T'ê seguo de reinpostâ a teu paròlla segreta prinçipa?">
-
-<!-- Values for getpassword.xul -->
-<!ENTITY getPassword.title  "Inserisci a paròlla segreta prinçipâ">
-<!ENTITY getPassword.tokenName2.label "Aparati de seguessa:">
-<!ENTITY getPassword.password.label "Paròlla Segreta:">
-
-<!-- These should be common -->
-<!ENTITY piperror.title "Erô">
-<!ENTITY pipalert.title "Erô - no posso repigiâ">
-
-<!-- Prefs panel strings -->
-<!ENTITY pref.security.general.lHeader "Seguessa">
-<!ENTITY pref.security.general.rHeader "Preferense pe-a seguessa generale">
-<!ENTITY pref.security.general.header "Preferense pe-a seguessa generale">
-<!ENTITY pref.security.general.level.title "Livello de seguessa">
-<!ENTITY pref.security.general.paranoid.label "Adeuvia e inpostaçion de seguessa da maròtto">
-<!ENTITY pref.security.general.certificates.title "Certificati">
-<!ENTITY pref.security.general.manageCert.label "Gestisci i Certificati">
 
 <!-- Downloading a cert -->
 <!ENTITY downloadCert.title "Descarego o certificato">
@@ -42,9 +23,7 @@
 <!ENTITY downloadCert.trustObjSign "Danni a fiduccia a sta CA a identificâ i svilupatoî de aplicaçioin.">
 <!ENTITY downloadCert.message3 "Primma de dâ a fiduccia a sta CA ti dovesci ezaminâ o seu certificato, a seu politica e procedue (se ghe son).">
 <!ENTITY downloadCert.viewCert.label "Fanni vedde">
-<!ENTITY downloadCert.viewPolicy.label "Politica">
 <!ENTITY downloadCert.viewCert.text "Ezamina o certificato CA">
-<!ENTITY downloadCert.viewPolicy.text "Ezaminâ o certificato, politica e procedue do CA">
 
 <!-- Certificate Exists in database -->
 
@@ -65,35 +44,17 @@
 <!ENTITY pkcs12.setpassword.label2 "Paròlla segreta pe-a còpia de seguessa (ancon):">
 <!ENTITY pkcs12.setpassword.reminder "Inportante: Se ti ascòrdi a teu paròlla segreta di certificati, no ti saiê ciù in graddo de repigiâ sta còpia de seguessa.  Pe piaxei sarvala inte 'n leugo seguo.">
 
-<!ENTITY pkcs12.getpassword.title  "Inserimento da paròlla segreta">
-<!ENTITY pkcs12.getpassword.message "Pe piaxei dinni a paròlla segreta che a l'é stæta uzâ pe criptâ sta còpia de seguessa di certificati.">
-
 <!ENTITY chooseToken.title  "Çerni o Token">
 <!ENTITY chooseToken.message1 "Pe piaxei çerni o token.">
-
-<!ENTITY escrowWarn.title "Criptaçion da ciave de còpie">
-<!ENTITY escrowWarn.message1 "Inportante: Sta Aotoritæ di Certicati a l'à domandou de fâ 'na còpia de seguessa da teu ciave privâ de criptaçion.">
-<!ENTITY escrowWarn.benefit1 "O benefiçio o l'é che se ti ti perdi l'açeizo ti peu domandalo a sta Aotoritæ di Certicati.">
-<!ENTITY escrowWarn.message2 "A teu ciave privâ de criptaçion a saiâ sarvâ da l'Aotoritæ di Certificati ma a peu ese uzâ pe leze a teu email criptâ ò documenti sensa o teu permisso.">
-<!ENTITY examineCert.label "Fanni vedde o certificato">
-<!ENTITY examineCert.accesskey "v">
 
 <!-- Strings for the CreateCertInfo dialog  -->
 <!ENTITY createCertInfo.title "Genera a mæ ciave privâ">
 <!ENTITY createCertInfo.msg1 "A generaçion da ciave l'é in progresso… Peu pigiâ quarche menuto….">
 <!ENTITY createCertInfo.msg2 "Pe piaxei aspeta…">
 
-<!-- Form Signing confirmation prompt -->
-<!ENTITY formSigning.title "L'é domandâ a firma do testo">
-<!ENTITY formSigning.cert "Firmo o certificato">
-<!ENTITY formSigning.confirmPassword "Pe confermâ che ti veu firmâ sto testo co sto certificato, inserisci a paròlla segreta prinçipa:">
-
 <!-- Strings for protectedAuth dialog -->
 <!ENTITY protectedAuth.title "Aotenticaçion protetta dò-u Token">
-<!ENTITY protectedAuth.msg "Pe piaxei aotenticate a-o Tocken.">
+<!ENTITY protectedAuth.msg "Pe piaxei aotenticate a-o Token.">
 <!ENTITY protectedAuth.tokenName.label "Token:">
 
-<!ENTITY certErrorDlg.title "Conescion segua no riescia">
-<!ENTITY certErrorDlg.info1 "Sto chi peu ese un problema co-e inpostaçion do server ò peu ascì ese quarchedun che o preuva a fâ finta de ese o server.">
-<!ENTITY certErrorDlg.info2 "Se ti t'ê conesso sensa problemi a sto server into passou, aloa o peu ese 'n erô tenporaneo e ti peu provâ ancon dòppo.">
 
