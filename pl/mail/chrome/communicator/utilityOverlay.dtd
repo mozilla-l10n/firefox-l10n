@@ -38,7 +38,7 @@
 <!ENTITY viewMenu.accesskey "W">
 <!ENTITY viewToolbarsMenu.label "Paski narzędzi">
 <!ENTITY viewToolbarsMenu.accesskey "n">
-<!ENTITY showTaskbarCmd.label"Pasek stanu">
+<!ENTITY showTaskbarCmd.label "Pasek stanu">
 <!ENTITY showTaskbarCmd.accesskey "e">
 
 <!ENTITY closeCmd.label "Zamknij">
