@@ -11,13 +11,14 @@
 <!ENTITY  onboard_start_subtext3 "Tegye a mobil webböngészési élményét igazán egyedivé.">
 <!ENTITY  onboard_start_button_account "Bejelentkezés &brandShortName;ba">
 <!ENTITY  onboard_start_button_browser "Böngészés megkezdése">
-
+<!ENTITY firstrun_button_next "Következő">
 
 <!ENTITY  onboard_start_restricted1 "Maradjon biztonságban, tartsa magánál az irányítást a &brandShortName; ezen egyszerű változatával.">
 
+<!ENTITY firstrun_import_title "Importálás">
 <!ENTITY firstrun_import_message "Üdvözli a &brandShortName;!">
-
-
+<!ENTITY firstrun_import_subtext "Könyvjelzők és előzmények importálása másik böngészőből.">
+<!ENTITY firstrun_import_action "Átvitel a &brandShortName;ba">
 
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
