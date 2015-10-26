@@ -215,6 +215,7 @@
 <!ENTITY addressButton.tooltip               "Vali kirja saaja aadressiraamatust">
 <!ENTITY attachButton.tooltip                "Lisa manus">
 <!ENTITY spellingButton.tooltip              "Kontrolli valiku või terve kirja õigekirja">
+<!ENTITY statusLanguageText.tooltip          "Kontrollitava teksti keel">
 <!ENTITY saveButton.tooltip                  "Salvesta see kiri">
 <!ENTITY cutButton.tooltip                   "Lõika">
 <!ENTITY copyButton.tooltip                  "Kopeeri">
