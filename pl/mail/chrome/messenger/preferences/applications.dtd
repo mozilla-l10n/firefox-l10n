@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY typeColumn.label     "Typ zawartości">
+<!ENTITY typeColumn.label "Typ zawartości">
 <!ENTITY typeColumn.accesskey "T">
 
-<!ENTITY actionColumn2.label     "Czynność">
+<!ENTITY actionColumn2.label "Czynność">
 <!ENTITY actionColumn2.accesskey "C">
 
 <!ENTITY focusSearch1.key "f">
@@ -13,13 +13,13 @@
 
 <!ENTITY filter.placeholder "Szukaj">
 
-<!ENTITY saveTo.label              "Zapisuj pliki do">
-<!ENTITY saveTo.accesskey          "Z">
-<!ENTITY alwaysAsk.label           "Zawsze pytaj gdzie zapisać plik">
-<!ENTITY alwaysAsk.accesskey       "e">
-<!ENTITY chooseFolderWin.label     "Przeglądaj…">
+<!ENTITY saveTo.label "Zapisuj pliki do">
+<!ENTITY saveTo.accesskey "Z">
+<!ENTITY alwaysAsk.label "Zawsze pytaj gdzie zapisać plik">
+<!ENTITY alwaysAsk.accesskey "e">
+<!ENTITY chooseFolderWin.label "Przeglądaj…">
 <!ENTITY chooseFolderWin.accesskey "P">
-<!ENTITY chooseFolderMac.label     "Wybierz…">
+<!ENTITY chooseFolderMac.label "Wybierz…">
 <!ENTITY chooseFolderMac.accesskey "W">
 
 <!ENTITY attachments.incoming.label "Przychodzące">

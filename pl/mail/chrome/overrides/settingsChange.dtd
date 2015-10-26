@@ -3,4 +3,4 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY settingsChangePreferences.label "Ustawienia mogą zostać zmienione w sekcji Załączniki preferencji programu &brandShortName;.">
-<!ENTITY settingsChangeOptions.label     "Ustawienia mogą zostać zmienione w sekcji Załączniki opcji programu &brandShortName;.">
+<!ENTITY settingsChangeOptions.label "Ustawienia mogą zostać zmienione w sekcji Załączniki opcji programu &brandShortName;.">

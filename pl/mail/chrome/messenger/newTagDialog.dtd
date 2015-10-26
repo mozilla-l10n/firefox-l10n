@@ -3,5 +3,5 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY newTagDialog.title "Nowa etykieta">
-<!ENTITY name.label         "Nazwa:">
-<!ENTITY name.accesskey     "N">
+<!ENTITY name.label "Nazwa:">
+<!ENTITY name.accesskey "N">

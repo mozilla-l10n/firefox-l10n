@@ -2,26 +2,26 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY addressbookPicker.label     "Książka adresowa:">
+<!ENTITY addressbookPicker.label "Książka adresowa:">
 <!ENTITY addressbookPicker.accesskey "K">
-<!ENTITY searchInput.label           "Szukaj:">
-<!ENTITY searchInput.accesskey       "S">
-<!ENTITY SearchNameOrEmail.label     "Imię, nazwisko lub e-mail">
+<!ENTITY searchInput.label "Szukaj:">
+<!ENTITY searchInput.accesskey "S">
+<!ENTITY SearchNameOrEmail.label "Imię, nazwisko lub e-mail">
 
-<!ENTITY deleteAddrBookCard.label     "Usuń">
+<!ENTITY deleteAddrBookCard.label "Usuń">
 <!ENTITY deleteAddrBookCard.accesskey "U">
 <!ENTITY addrBookCardProperties.label "Właściwości">
 <!ENTITY addrBookCardProperties.accesskey "W">
-<!ENTITY addtoToFieldMenu.label       "Dodaj do pola „Do”">
-<!ENTITY addtoToFieldMenu.accesskey   "o">
-<!ENTITY addtoCcFieldMenu.label       "Dodaj do pola „Kopia”">
-<!ENTITY addtoCcFieldMenu.accesskey   "a">
-<!ENTITY addtoBccFieldMenu.label      "Dodaj do pola „Ukryta kopia”">
-<!ENTITY addtoBccFieldMenu.accesskey  "r">
+<!ENTITY addtoToFieldMenu.label "Dodaj do pola „Do”">
+<!ENTITY addtoToFieldMenu.accesskey "o">
+<!ENTITY addtoCcFieldMenu.label "Dodaj do pola „Kopia”">
+<!ENTITY addtoCcFieldMenu.accesskey "a">
+<!ENTITY addtoBccFieldMenu.label "Dodaj do pola „Ukryta kopia”">
+<!ENTITY addtoBccFieldMenu.accesskey "r">
 
-<!ENTITY toButton.label      "„Do:”">
-<!ENTITY toButton.accesskey  "D">
-<!ENTITY ccButton.label      "„Kopia:”">
-<!ENTITY ccButton.accesskey  "i">
-<!ENTITY bccButton.label     "„Ukryta kopia:”">
+<!ENTITY toButton.label "„Do:”">
+<!ENTITY toButton.accesskey "D">
+<!ENTITY ccButton.label "„Kopia:”">
+<!ENTITY ccButton.accesskey "i">
+<!ENTITY bccButton.label "„Ukryta kopia:”">
 <!ENTITY bccButton.accesskey "U">

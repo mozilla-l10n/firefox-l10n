@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY accountManagerTitle.label  "Konfiguracja kont">
+<!ENTITY accountManagerTitle.label "Konfiguracja kont">
 
-<!ENTITY accountActionsButton.label      "Operacje">
-<!ENTITY accountActionsButton.accesskey  "O">
+<!ENTITY accountActionsButton.label "Operacje">
+<!ENTITY accountActionsButton.accesskey "O">
 <!ENTITY addMailAccountButton.label "Dodaj konfigurację konta pocztowego…">
 <!ENTITY addMailAccountButton.accesskey "D">
 <!ENTITY addIMAccountButton.label "Dodaj konfigurację konta czat…">
@@ -15,10 +15,10 @@
 <!ENTITY addOtherAccountButton.label "Dodaj konfigurację innego konta…">
 <!ENTITY addOtherAccountButton.accesskey "i">
 
-<!ENTITY setDefaultButton.label     "Ustaw jako domyślne">
+<!ENTITY setDefaultButton.label "Ustaw jako domyślne">
 <!ENTITY setDefaultButton.accesskey "w">
-<!ENTITY removeButton.label         "Usuń konto">
-<!ENTITY removeButton.accesskey     "U">
+<!ENTITY removeButton.label "Usuń konto">
+<!ENTITY removeButton.accesskey "U">
 
 <!ENTITY accountManager.size "width: 111ch; height: 55em;">
-<!ENTITY accountTree.width   "width: 26ch;">
+<!ENTITY accountTree.width "width: 26ch;">

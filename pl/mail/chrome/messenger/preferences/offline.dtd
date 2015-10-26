@@ -17,16 +17,16 @@
 <!ENTITY radioAlwaysOffline.accesskey "n">
 
 <!ENTITY textGoingOnline "Czy wysyłać niewysłane wiadomości przy łączeniu?">
-<!ENTITY radioAutoSend.label         "Tak">
-<!ENTITY radioAutoSend.accesskey     "T">
-<!ENTITY radioNotSend.label          "Nie">
-<!ENTITY radioNotSend.accesskey      "N">
+<!ENTITY radioAutoSend.label "Tak">
+<!ENTITY radioAutoSend.accesskey "T">
+<!ENTITY radioNotSend.label "Nie">
+<!ENTITY radioNotSend.accesskey "N">
 <!ENTITY radioAskUnsent.label "Pytaj">
 <!ENTITY radioAskUnsent.accesskey "P">
 <!ENTITY textGoingOffline "Czy pobierać wiadomości do późniejszego wykorzystania przed rozłączeniem?">
-<!ENTITY radioAutoDownload.label     "Tak">
+<!ENTITY radioAutoDownload.label "Tak">
 <!ENTITY radioAutoDownload.accesskey "k">
-<!ENTITY radioNotDownload.label      "Nie">
-<!ENTITY radioNotDownload.accesskey  "e">
+<!ENTITY radioNotDownload.label "Nie">
+<!ENTITY radioNotDownload.accesskey "e">
 <!ENTITY radioAskDownload.label "Pytaj">
-<!ENTITY radioAskDownload.accesskey  "j">
+<!ENTITY radioAskDownload.accesskey "j">

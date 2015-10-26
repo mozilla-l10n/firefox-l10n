@@ -4,31 +4,31 @@
 
 <!ENTITY quickFilterBar.qfbShowFilterBar.label "Szybkie filtrowanie">
 
-<!ENTITY quickFilterBar.toggleBarVisibility.menu.label     "Pasek szybkiego filtrowania">
+<!ENTITY quickFilterBar.toggleBarVisibility.menu.label "Pasek szybkiego filtrowania">
 <!ENTITY quickFilterBar.toggleBarVisibility.menu.accesskey "f">
 <!ENTITY quickFilterBar.toggleBarVisibility.appmenu.label "Pasek szybkiego filtrowania">
 <!ENTITY quickFilterBar.toggleBarVisibility.button.tooltip "Wyświetla lub ukrywa pasek szybkiego filtrowania">
-<!ENTITY quickFilterBar.sticky.tooltip                     "Określa, czy automatycznie filtrować nowo otwierane foldery">
+<!ENTITY quickFilterBar.sticky.tooltip "Określa, czy automatycznie filtrować nowo otwierane foldery">
 
-<!ENTITY quickFilterBar.unread.label       "Nieprzeczytane">
-<!ENTITY quickFilterBar.unread.tooltip     "Wyświetl wyłącznie wiadomości oznaczone jako nieprzeczytane">
-<!ENTITY quickFilterBar.starred.label      "Z gwiazdką">
-<!ENTITY quickFilterBar.starred.tooltip    "Wyświetl wyłącznie wiadomości oznaczone gwiazdką">
-<!ENTITY quickFilterBar.inaddrbook.label   "Od znajomych">
+<!ENTITY quickFilterBar.unread.label "Nieprzeczytane">
+<!ENTITY quickFilterBar.unread.tooltip "Wyświetl wyłącznie wiadomości oznaczone jako nieprzeczytane">
+<!ENTITY quickFilterBar.starred.label "Z gwiazdką">
+<!ENTITY quickFilterBar.starred.tooltip "Wyświetl wyłącznie wiadomości oznaczone gwiazdką">
+<!ENTITY quickFilterBar.inaddrbook.label "Od znajomych">
 <!ENTITY quickFilterBar.inaddrbook.tooltip "Wyświetl wiadomości pochodzące wyłącznie od kontaktów z książki adresowej">
-<!ENTITY quickFilterBar.tags.label         "Z etykietą">
-<!ENTITY quickFilterBar.tags.tooltip       "Wyświetl wyłącznie wiadomości posiadające etykiety">
-<!ENTITY quickFilterBar.attachment.label   "Z załącznikiem">
+<!ENTITY quickFilterBar.tags.label "Z etykietą">
+<!ENTITY quickFilterBar.tags.tooltip "Wyświetl wyłącznie wiadomości posiadające etykiety">
+<!ENTITY quickFilterBar.attachment.label "Z załącznikiem">
 <!ENTITY quickFilterBar.attachment.tooltip "Wyświetl wyłącznie wiadomości posiadające załączniki">
 
 <!ENTITY quickFilterBar.resultsLabel.some.formatString "Znaleziono #1 wiadomość;Znaleziono #1 wiadomości;Znaleziono #1 wiadomości">
-<!ENTITY quickFilterBar.resultsLabel.none              "Nie znaleziono wiadomości">
-<!ENTITY quickFilterBar.resultsLabel.minWidth          "175">
+<!ENTITY quickFilterBar.resultsLabel.none "Nie znaleziono wiadomości">
+<!ENTITY quickFilterBar.resultsLabel.minWidth "175">
 
 <!ENTITY quickFilterBar.textbox.emptyText.base "Filtrowanie wiadomości… #1">
-<!ENTITY quickFilterBar.show.key2                          "k">
+<!ENTITY quickFilterBar.show.key2 "k">
 <!ENTITY quickFilterBar.textbox.emptyText.keyLabel2.nonmac "&lt;Ctrl+Shift+K&gt;">
-<!ENTITY quickFilterBar.textbox.emptyText.keyLabel2.mac    "&lt;&#x21E7;&#x2318;K&gt;">
+<!ENTITY quickFilterBar.textbox.emptyText.keyLabel2.mac "&lt;&#x21E7;&#x2318;K&gt;">
 
 <!ENTITY quickFilterBar.booleanMode.tooltip "Filtrowanie etykiet">
 <!ENTITY quickFilterBar.booleanModeAny.label "Dowolna z:">
@@ -37,13 +37,13 @@
 <!ENTITY quickFilterBar.booleanModeAll.tooltip "Wszystkie wybrane etykiety muszą być obecne">
 
 <!ENTITY quickFilterBar.textbox.idealWidth "320">
-<!ENTITY quickFilterBar.textbox.minWidth   "280">
+<!ENTITY quickFilterBar.textbox.minWidth "280">
 
 <!ENTITY quickFilterBar.textFilter.explanation.label "Kryteria filtrowania:">
-<!ENTITY quickFilterBar.textFilter.sender.label      "Nadawca">
-<!ENTITY quickFilterBar.textFilter.recipients.label  "Adresaci">
-<!ENTITY quickFilterBar.textFilter.subject.label     "Temat">
-<!ENTITY quickFilterBar.textFilter.body.label        "Treść">
+<!ENTITY quickFilterBar.textFilter.sender.label "Nadawca">
+<!ENTITY quickFilterBar.textFilter.recipients.label "Adresaci">
+<!ENTITY quickFilterBar.textFilter.subject.label "Temat">
+<!ENTITY quickFilterBar.textFilter.body.label "Treść">
 
 <!ENTITY quickFilterBar.glodaUpsell.continueSearch "Kontynuuj wyszukiwanie w pozostałych folderach">
 

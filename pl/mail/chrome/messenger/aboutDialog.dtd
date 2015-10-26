@@ -33,7 +33,7 @@
 <!ENTITY helpus.end "!">
 
 <!ENTITY bottomLinks.license "Informacje licencyjne">
-<!ENTITY bottomLinks.rights  "Prawa użytkownika">
+<!ENTITY bottomLinks.rights "Prawa użytkownika">
 <!ENTITY bottomLinks.privacy "Polityka prywatności">
 
 <!ENTITY update.checkingForUpdates "Poszukiwanie aktualizacji…">
@@ -41,24 +41,24 @@
 <!ENTITY update.adminDisabled "Aktualizacje zablokowane przez administratora">
 <!ENTITY update.otherInstanceHandlingUpdates "Inna instancja właśnie aktualizuje program &brandShortName;">
 
-<!ENTITY update.failed.start    "Aktualizacja się nie powiodła. ">
+<!ENTITY update.failed.start "Aktualizacja się nie powiodła. ">
 <!ENTITY update.failed.linkText "Pobierz najnowszą wersję">
-<!ENTITY update.failed.end      "">
+<!ENTITY update.failed.end "">
 
-<!ENTITY update.manual.start    "">
+<!ENTITY update.manual.start "">
 <!ENTITY update.manual.linkText "Pobierz najnowszą wersję">
-<!ENTITY update.manual.end      "">
+<!ENTITY update.manual.end "">
 
 <!ENTITY update.unsupported.start "Nie można dokonać dalszych aktualizacji na tym systemie. ">
 <!ENTITY update.unsupported.linkText "Więcej informacji">
 <!ENTITY update.unsupported.end ".">
 
 <!ENTITY update.downloading.start "Pobieranie aktualizacji — ">
-<!ENTITY update.downloading.end   "">
+<!ENTITY update.downloading.end "">
 
 <!ENTITY update.applying "Instalowanie aktualizacji…">
 
 <!ENTITY channel.description.start "Obecnie korzystasz z kanału aktualizacji ">
-<!ENTITY channel.description.end   ". ">
+<!ENTITY channel.description.end ". ">
 
 <!ENTITY cmdCloseMac.commandKey "w">

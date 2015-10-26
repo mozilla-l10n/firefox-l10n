@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY toAddr.label         "Do:">
-<!ENTITY ccAddr.label         "Kopia:">
-<!ENTITY bccAddr.label        "Ukryta kopia:">
-<!ENTITY replyAddr.label      "Odpowiedź do:">
+<!ENTITY toAddr.label "Do:">
+<!ENTITY ccAddr.label "Kopia:">
+<!ENTITY bccAddr.label "Ukryta kopia:">
+<!ENTITY replyAddr.label "Odpowiedź do:">
 <!ENTITY newsgroupsAddr.label "Grupa dyskusyjna:">
-<!ENTITY followupAddr.label   "Kontynuacja na:">
+<!ENTITY followupAddr.label "Kontynuacja na:">

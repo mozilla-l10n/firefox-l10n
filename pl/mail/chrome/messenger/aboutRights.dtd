@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY rights.locale-direction "ltr">
-<!ENTITY rights.title            "O prawach użytkownika">
-<!ENTITY rights.intro-header     "O prawach użytkownika">
-<!ENTITY rights.intro            "&brandFullName; to wolne oprogramowanie open source, stworzone przez społeczność tysięcy ludzi z całego świata. Jest kilka rzeczy, o których użytkownik powinien wiedzieć:">
+<!ENTITY rights.title "O prawach użytkownika">
+<!ENTITY rights.intro-header "O prawach użytkownika">
+<!ENTITY rights.intro "&brandFullName; to wolne oprogramowanie open source, stworzone przez społeczność tysięcy ludzi z całego świata. Jest kilka rzeczy, o których użytkownik powinien wiedzieć:">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is

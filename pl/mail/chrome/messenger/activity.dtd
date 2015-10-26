@@ -7,28 +7,28 @@
 
 <!ENTITY activity.title "Monitor aktywności">
 
-<!ENTITY cmd.pause.label              "Wstrzymaj">
-<!ENTITY cmd.pause.accesskey          "W">
-<!ENTITY cmd.resume.label             "Wznów">
-<!ENTITY cmd.resume.accesskey         "W">
-<!ENTITY cmd.cancel.label             "Anuluj">
-<!ENTITY cmd.cancel.accesskey         "A">
-<!ENTITY cmd.undo.label               "Cofnij">
-<!ENTITY cmd.undo.accesskey           "C">
-<!ENTITY cmd.recover.label            "Odzyskaj">
-<!ENTITY cmd.recover.accesskey        "d">
-<!ENTITY cmd.retry.label              "Ponów">
-<!ENTITY cmd.retry.accesskey          "P">
-<!ENTITY cmd.removeFromList.label     "Usuń z listy">
+<!ENTITY cmd.pause.label "Wstrzymaj">
+<!ENTITY cmd.pause.accesskey "W">
+<!ENTITY cmd.resume.label "Wznów">
+<!ENTITY cmd.resume.accesskey "W">
+<!ENTITY cmd.cancel.label "Anuluj">
+<!ENTITY cmd.cancel.accesskey "A">
+<!ENTITY cmd.undo.label "Cofnij">
+<!ENTITY cmd.undo.accesskey "C">
+<!ENTITY cmd.recover.label "Odzyskaj">
+<!ENTITY cmd.recover.accesskey "d">
+<!ENTITY cmd.retry.label "Ponów">
+<!ENTITY cmd.retry.accesskey "P">
+<!ENTITY cmd.removeFromList.label "Usuń z listy">
 <!ENTITY cmd.removeFromList.accesskey "U">
 
-<!ENTITY cmd.close.commandkey      "w">
-<!ENTITY cmd.close2.commandkey     "j">
+<!ENTITY cmd.close.commandkey "w">
+<!ENTITY cmd.close2.commandkey "j">
 <!ENTITY cmd.close2Unix.commandkey "y">
-<!ENTITY cmd.clearList.label       "Wyczyść listę">
-<!ENTITY cmd.clearList.accesskey   "z">
-<!ENTITY cmd.clearList.tooltip     "Usunie z listy pozycje oznaczone jako ukończone, anulowane i nieudane">
-<!ENTITY cmd.find.commandkey       "f">
-<!ENTITY cmd.search.commandkey     "k">
+<!ENTITY cmd.clearList.label "Wyczyść listę">
+<!ENTITY cmd.clearList.accesskey "z">
+<!ENTITY cmd.clearList.tooltip "Usunie z listy pozycje oznaczone jako ukończone, anulowane i nieudane">
+<!ENTITY cmd.find.commandkey "f">
+<!ENTITY cmd.search.commandkey "k">
 
 <!ENTITY searchBox.label "Szukaj…">

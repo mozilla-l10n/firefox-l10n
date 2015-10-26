@@ -4,7 +4,7 @@
 
 <!ENTITY adaptiveJunkLog.title "Dziennik filtru niechcianej poczty">
 <!ENTITY adaptiveJunkLogInfo.label "Dziennik aktywności filtru niechcianej poczty.">
-<!ENTITY clearLog.label     "Wyczyść dziennik">
+<!ENTITY clearLog.label "Wyczyść dziennik">
 <!ENTITY clearLog.accesskey "C">
-<!ENTITY closeLog.label     "Zamknij">
+<!ENTITY closeLog.label "Zamknij">
 <!ENTITY closeLog.accesskey "Z">

@@ -19,9 +19,9 @@
 
 <!ENTITY chatNotifications.label "Przy odebraniu wiadomości bezpośrednio skierowanych do użytkownika:">
 <!ENTITY desktopChatNotifications.label "Wyświetlaj powiadomienia:">
-<!ENTITY  completeNotification.label "z nazwą nadawcy i podglądem wiadomości">
-<!ENTITY  buddyInfoOnly.label "tylko z nazwą nadawcy">
-<!ENTITY  dummyNotification.label "bez żadnych informacji">
+<!ENTITY completeNotification.label "z nazwą nadawcy i podglądem wiadomości">
+<!ENTITY buddyInfoOnly.label "tylko z nazwą nadawcy">
+<!ENTITY dummyNotification.label "bez żadnych informacji">
 <!ENTITY desktopChatNotifications.accesskey "e">
 <!ENTITY chatSound.accesskey "d">
 <!ENTITY chatSound.label "odtwarzaj dźwięk">

@@ -2,23 +2,23 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY biffStart.label     "Sprawdzaj, czy są nowe artykuły co ">
+<!ENTITY biffStart.label "Sprawdzaj, czy są nowe artykuły co ">
 <!ENTITY biffStart.accesskey "k">
-<!ENTITY biffEnd.label       "minut">
+<!ENTITY biffEnd.label "minut">
 
-<!ENTITY loginAtStartup.label     "Sprawdzaj podczas uruchamiania, czy są nowe artykuły">
+<!ENTITY loginAtStartup.label "Sprawdzaj podczas uruchamiania, czy są nowe artykuły">
 <!ENTITY loginAtStartup.accesskey "c">
 
-<!ENTITY useQuickMode.label     "Domyślnie pokazuj podsumowanie artykułu, zamiast wczytywać stronę internetową">
+<!ENTITY useQuickMode.label "Domyślnie pokazuj podsumowanie artykułu, zamiast wczytywać stronę internetową">
 <!ENTITY useQuickMode.accesskey "D">
 
-<!ENTITY manageSubscriptions.label     "Menedżer źródeł aktualności…">
+<!ENTITY manageSubscriptions.label "Menedżer źródeł aktualności…">
 <!ENTITY manageSubscriptions.accesskey "r">
 
 <!ENTITY feedWindowTitle.label "Kreator kont aktualności">
 
 <!-- entities from rss.rdf -->
-<!ENTITY feeds.accountName              "Aktualności">
-<!ENTITY feeds.wizardShortName          "Aktualności">
-<!ENTITY feeds.wizardLongName           "Aktualności">
+<!ENTITY feeds.accountName "Aktualności">
+<!ENTITY feeds.wizardShortName "Aktualności">
+<!ENTITY feeds.wizardLongName "Aktualności">
 <!ENTITY feeds.wizardLongName.accesskey "A">

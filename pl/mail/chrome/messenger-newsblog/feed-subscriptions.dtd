@@ -5,7 +5,7 @@
 <!ENTITY feedSubscriptions.label "Subskrypcje">
 <!ENTITY learnMore.label "Więcej informacji o subskrypcjach">
 
-<!ENTITY feedTitle.label         "Tytuł:">
+<!ENTITY feedTitle.label "Tytuł:">
 <!ENTITY feedTitle.accesskey "T">
 <!ENTITY feedLocation.label "Adres URL:">
 <!ENTITY feedLocation.accesskey "A">
@@ -24,15 +24,15 @@
 <!ENTITY autotagUsePrefix.accesskey "P">
 <!ENTITY autoTagPrefix.placeholder "przedrostek etykiet">
 
-<!ENTITY button.addFeed.label        "Dodaj">
-<!ENTITY button.addFeed.accesskey    "D">
-<!ENTITY button.editFeed.label       "Edytuj">
-<!ENTITY button.editFeed.accesskey   "E">
-<!ENTITY button.removeFeed.label     "Usuń">
+<!ENTITY button.addFeed.label "Dodaj">
+<!ENTITY button.addFeed.accesskey "D">
+<!ENTITY button.editFeed.label "Edytuj">
+<!ENTITY button.editFeed.accesskey "E">
+<!ENTITY button.removeFeed.label "Usuń">
 <!ENTITY button.removeFeed.accesskey "U">
-<!ENTITY button.importOPML.label     "Importuj">
+<!ENTITY button.importOPML.label "Importuj">
 <!ENTITY button.importOPML.accesskey "I">
-<!ENTITY button.exportOPML.label     "Eksportuj">
+<!ENTITY button.exportOPML.label "Eksportuj">
 <!ENTITY button.exportOPML.accesskey "k">
 <!ENTITY button.exportOPML.tooltip "Eksport źródeł subskrypcji z zachowaniem struktury folderów; eksport jako lista z przytrzymanym klawiszem ctrl">
 

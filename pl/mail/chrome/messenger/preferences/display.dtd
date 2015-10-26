@@ -3,42 +3,42 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemFormatting.label "Formatowanie">
-<!ENTITY itemTags.label       "Etykiety">
+<!ENTITY itemTags.label "Etykiety">
 <!ENTITY itemAdvanced.label "Zaawansowane">
 
-<!ENTITY style.label                "Styl:">
-<!ENTITY style.accesskey            "S">
-<!ENTITY regularStyle.label         "Normalny">
-<!ENTITY bold.label                 "Pogrubiony">
-<!ENTITY italic.label               "Kursywa">
-<!ENTITY boldItalic.label           "Pogrubiona kursywa">
-<!ENTITY size.label                 "Rozmiar:">
-<!ENTITY size.accesskey             "o">
-<!ENTITY regularSize.label          "Normalny">
-<!ENTITY bigger.label               "Większy">
-<!ENTITY smaller.label              "Mniejszy">
+<!ENTITY style.label "Styl:">
+<!ENTITY style.accesskey "S">
+<!ENTITY regularStyle.label "Normalny">
+<!ENTITY bold.label "Pogrubiony">
+<!ENTITY italic.label "Kursywa">
+<!ENTITY boldItalic.label "Pogrubiona kursywa">
+<!ENTITY size.label "Rozmiar:">
+<!ENTITY size.accesskey "o">
+<!ENTITY regularSize.label "Normalny">
+<!ENTITY bigger.label "Większy">
+<!ENTITY smaller.label "Mniejszy">
 <!ENTITY quotedTextColor.label "Kolor:">
 <!ENTITY quotedTextColor.accesskey "o">
-<!ENTITY displayWidth.label         "Wiadomości tekstowe">
-<!ENTITY displayText.label          "Ustawienia wyświetlania cytatów w wiadomościach tekstowych:">
+<!ENTITY displayWidth.label "Wiadomości tekstowe">
+<!ENTITY displayText.label "Ustawienia wyświetlania cytatów w wiadomościach tekstowych:">
 
-<!ENTITY convertEmoticons.label     "Wyświetlaj emotikony jako grafikę">
+<!ENTITY convertEmoticons.label "Wyświetlaj emotikony jako grafikę">
 <!ENTITY convertEmoticons.accesskey "W">
 
-<!ENTITY displayTagsText.label     "Etykiety mogą być używane do klasyfikowania wiadomości oraz nadawania im priorytetów.">
-<!ENTITY addTagButton.label        "Dodaj">
-<!ENTITY addTagButton.accesskey    "D">
-<!ENTITY editTagButton.label       "Edytuj">
-<!ENTITY editTagButton.accesskey   "E">
-<!ENTITY removeTagButton.label     "Usuń">
+<!ENTITY displayTagsText.label "Etykiety mogą być używane do klasyfikowania wiadomości oraz nadawania im priorytetów.">
+<!ENTITY addTagButton.label "Dodaj">
+<!ENTITY addTagButton.accesskey "D">
+<!ENTITY editTagButton.label "Edytuj">
+<!ENTITY editTagButton.accesskey "E">
+<!ENTITY removeTagButton.label "Usuń">
 <!ENTITY removeTagButton.accesskey "U">
 
 <!ENTITY fontsAndColors1.label "Czcionki i kolory">
-<!ENTITY defaultFont.label     "Domyślna czcionka:">
+<!ENTITY defaultFont.label "Domyślna czcionka:">
 <!ENTITY defaultFont.accesskey "D">
-<!ENTITY defaultSize.label     "Rozmiar:">
+<!ENTITY defaultSize.label "Rozmiar:">
 <!ENTITY defaultSize.accesskey "R">
-<!ENTITY fontOptions.label     "Zaawansowane…">
+<!ENTITY fontOptions.label "Zaawansowane…">
 <!ENTITY fontOptions.accesskey "Z">
 <!ENTITY colorButton.label "Kolory…">
 <!ENTITY colorButton.accesskey "K">
