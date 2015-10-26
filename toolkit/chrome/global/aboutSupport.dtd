@@ -5,7 +5,7 @@
 <!ENTITY aboutSupport.pageTitle "Informaçioin in sciâ soluçion di problemi">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
-<!ENTITY aboutSupport.pageSubtitle "  Sta pagina a contgne informaçioin tecniche che peuan ese utili quando ti preuvi a rizòlve un     problema. Se ti ti stæ çercando rispòste a domande comun in sciô &brandShortName;, contròlla o    nòstro <a id='supportLink'>scito de agiutto</a>.
+<!ENTITY aboutSupport.pageSubtitle "  Sta pagina a contgne informaçioin tecniche che peuan ese utili quando ti preuvi a rizòlve un problema. Se ti ti stæ çercando rispòste a domande comun in sciô &brandShortName;, contròlla o nòstro <a id='supportLink'>scito de agiutto</a>.
 ">
 
 <!ENTITY aboutSupport.extensionsTitle "Estenscioin">
@@ -58,17 +58,30 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Còpia testo in scî aponti">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Còpia dæti sgreuzzi in scî aponti">
-
 <!ENTITY aboutSupport.userJSDescription "Inta cartella do profî gh'é un <a id='prefs-user-js-link'>file user.js</a> con preferense che no en inpostæ da &brandShortName;.">
-
 <!ENTITY aboutSupport.userJSTitle "Preferense into user.js">
-
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Fanni vedde a stöia di agiornamenti">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Stöia di agiornamenti">
-
 <!ENTITY aboutSupport.crashes.title "Segnalaçioin de cianto anòmalo">
 <!ENTITY aboutSupport.crashes.id "ID segnalaçion">
 <!ENTITY aboutSupport.crashes.sendDate "Mandâ">
 <!ENTITY aboutSupport.crashes.allReports "Tutte e segnalaçioin">
 <!ENTITY aboutSupport.crashes.noConfig "St'aplicaçion a no l'é configurâ pe mostrâ e segnalaçioin de cianto anòmalo.">
-
+<!ENTITY aboutSupport.appBasicsBuildID "ID da build">
+<!ENTITY aboutSupport.appBasicsMultiProcessSupport "Barcoin moltiprocesso">
+<!ENTITY aboutSupport.appBasicsSafeMode "Mòddo seguo">
+<!ENTITY aboutSupport.appBasicsServiceWorkers "Service worker registræ">
+<!ENTITY aboutSupport.appBasicsUpdateChannel "Canâ d'agiornamento">
+<!ENTITY aboutSupport.experimentActive "Ativa">
+<!ENTITY aboutSupport.experimentDescription "Descriçion">
+<!ENTITY aboutSupport.experimentEndDate "Dæta fin">
+<!ENTITY aboutSupport.experimentHomepage "Pagina prinçipâ">
+<!ENTITY aboutSupport.experimentId "ID">
+<!ENTITY aboutSupport.experimentName "Nome">
+<!ENTITY aboutSupport.experimentsTitle "Caratteristiche sperimentali">
+<!ENTITY aboutSupport.lockedKeyPrefsTitle "Preferenze importanti bloccate">
+<!ENTITY aboutSupport.lockedPrefsName "Nomme">
+<!ENTITY aboutSupport.lockedPrefsValue "Valô">
+<!ENTITY aboutSupport.restartInSafeMode.label "Arvi torna co-i conponenti azonti dizativæ…">
+<!ENTITY aboutSupport.safeModeTitle "Preuva o mòddo seguo">
+<!ENTITY aboutSupport.sandboxTitle "Sandbox">
