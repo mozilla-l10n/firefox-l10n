@@ -74,7 +74,7 @@
 <!ENTITY btnConsoleWarnings     "Avertismente">
 <!ENTITY btnConsoleLog          "Jurnal">
 <!ENTITY btnConsoleXhr          "XHR">
-<!ENTITY btnConsoleReflows      "Reflows">
+<!ENTITY btnConsoleReflows      "Restituiri">
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
 
