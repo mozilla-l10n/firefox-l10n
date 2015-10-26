@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
 <!-- Window title -->
 <!ENTITY windowTitle.label                   "Õigekirja kontroll">
 
@@ -29,8 +28,8 @@
 <!ENTITY addToUserDictionaryButton.accessKey "L">
 <!ENTITY editUserDictionaryButton.label      "Redigeeri...">
 <!ENTITY editUserDictionaryButton.accessKey  "R">
-<!ENTITY recheckButton.label                 "Kontrolli uuesti">
-<!ENTITY recheckButton.accessKey             "u">
+<!ENTITY recheckButton2.label                "Kontrolli uuesti">
+<!ENTITY recheckButton2.accessKey            "u">
 <!ENTITY closeButton.label                   "Sulge">
 <!ENTITY closeButton.accessKey               "u">
 <!ENTITY sendButton.label                    "Saada">
