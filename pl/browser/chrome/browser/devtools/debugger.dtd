@@ -47,7 +47,7 @@
 <!ENTITY debuggerUI.searchToken "Wyszukaj">
 <!ENTITY debuggerUI.searchToken.accesskey "a">
 <!ENTITY debuggerUI.searchToken.key "F">
-<!ENTITY debuggerUI.searchGoToLine "Przejdź do linii…">
+<!ENTITY debuggerUI.searchGoToLine "Przejdź do wiersza…">
 <!ENTITY debuggerUI.searchGoToLine.accesskey "P">
 <!ENTITY debuggerUI.searchGoToLine.key "L">
 <!ENTITY debuggerUI.searchVariable "Filtrowanie zmiennych">
