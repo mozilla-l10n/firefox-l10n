@@ -82,5 +82,7 @@
 <!ENTITY findCmd.key          "F">
 <!ENTITY clearOutputCtrl.key "L">
 
-<!ENTITY openInVarViewCmd.label "Otwórz w panelu własności">
+<!ENTITY openInVarViewCmd.label "Otwórz w panelu zmiennych">
 <!ENTITY openInVarViewCmd.accesskey "O">
+<!ENTITY storeAsGlobalVar.label "Zachowaj jako globalną zmienną">
+<!ENTITY storeAsGlobalVar.accesskey "Z">
