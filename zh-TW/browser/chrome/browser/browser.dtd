@@ -717,7 +717,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Strings for connection state warnings in the subview. -->
 <!ENTITY identity.description.insecure "您到此網站的連線並不私密。您發送的資訊（像是密碼、訊息、信用卡等等）可能會被其他人看到。">
-<!ENTITY identity.description.insecureLoginForms "您在此頁面中輸入的登入資訊並不安全，可能會被洩漏。">
+<!ENTITY identity.description.insecureLoginForms "此頁面並不安全，您的登入資訊可能會被洩漏。">
 <!ENTITY identity.description.weakCipher "您與此網站間的連線使用了弱強度的加密，並不私密。">
 <!ENTITY identity.description.weakCipher2 "其他人可以看到您的資訊，或修改網站的行為。">
 <!ENTITY identity.description.activeBlocked "&brandShortName; 已經封鎖此頁面中不安全的部分。">

@@ -22,10 +22,10 @@
 <!ENTITY firstrun_import_dialog_button "傳輸">
 <!ENTITY firstrun_import_progress_title "轉移中">
 
-<!-- Default Bookmarks titles-->
-<!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
-<!ENTITY bookmarks_title "行動書籤">
-<!ENTITY  history_title "歷史記錄">
+<!-- Localization note: These are used as the titles of different pages on the home screen.
+     They are automatically converted to all caps by the Android platform. -->
+<!ENTITY  bookmarks_title "行動書籤">
+<!ENTITY  history_title "瀏覽紀錄">
 <!ENTITY  reading_list_title "閱讀清單">
 <!ENTITY  recent_tabs_title "最近開啟的分頁">
 
@@ -504,7 +504,7 @@ size. -->
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
 <!ENTITY home_title "&brandShortName; 首頁">
-<!ENTITY home_history_title "歷史記錄">
+<!ENTITY home_history_title "瀏覽紀錄">
 <!ENTITY home_clear_history_button "清除瀏覽紀錄">
 <!ENTITY home_clear_history_confirm "您確定要清除瀏覽紀錄？">
 <!ENTITY home_bookmarks_empty "您儲存的書籤將會顯示於此處。">
@@ -716,6 +716,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restriction_disallow_clear_history_title2 "停用「清除瀏覽紀錄」">
 <!ENTITY restriction_disallow_master_password_title2 "停用主控密碼">
 <!ENTITY restriction_disallow_guest_browsing_title2 "停用訪客瀏覽">
+
+<!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 <!ENTITY bookmarks_about_browser "Firefox: 關於您的瀏覽器">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->

@@ -212,7 +212,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; 已設定完成，但不會自動進行同步。請到 Android 設定的「帳號與同步設定」選單中打開「自動同步資料」才會自動同步。'>
 <!ENTITY fxaccount_status_needs_finish_migrating '點擊此處以登入至您全新的 Firefox 帳號。'>
 <!ENTITY fxaccount_status_bookmarks '書籤'>
-<!ENTITY fxaccount_status_history '歷史記錄'>
+<!ENTITY fxaccount_status_history '瀏覽紀錄'>
 <!ENTITY fxaccount_status_passwords2 '登入資訊'>
 <!ENTITY fxaccount_status_tabs '開啟分頁'>
 <!ENTITY fxaccount_status_legal '使用條款' >
