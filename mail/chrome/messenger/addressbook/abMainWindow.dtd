@@ -143,7 +143,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.accesskey                        "t">
 <!-- Address Book Toolbar Tooltips -->
 
-<!ENTITY newContactButton.tooltip                       "Creează un nou contact în agendă">
+<!ENTITY newContactButton.tooltip                       "Creează un contact nou în agendă">
 <!ENTITY newlistButton.tooltip                          "Creează o nouă listă">
 <!ENTITY editButton2.tooltip                            "Editează elementul selectat">
 <!ENTITY newmsgButton.tooltip                           "Trimite un mesaj e-mail">
