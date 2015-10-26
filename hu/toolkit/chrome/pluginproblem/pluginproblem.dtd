@@ -28,13 +28,15 @@
 <!ENTITY reloadPlugin.middle                                 "Oldal újratöltése">
 <!ENTITY reloadPlugin.post                                   " az újrapróbálkozáshoz.">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "Hibajelentés küldése">
+<!ENTITY report.submitting                                   "Jelentés küldése…">
+<!ENTITY report.submitted                                    "A hibajelentés elküldve.">
+<!ENTITY report.disabled                                     "A hibajelentés le van tiltva.">
+<!ENTITY report.failed                                       "A beküldés sikertelen.">
+<!ENTITY report.unavailable                                  "Nincs jelentés.">
+<!ENTITY report.comment                                      "Hozzászólás (a hozzászólások nyilvánosak)">
+<!ENTITY report.pageURL                                      "Az oldal URL-címének mellékelése">
 
-
-
-
-
-
-
-
-
-
+<!ENTITY plugin.file                                         "Fájl">
+<!ENTITY plugin.mimeTypes                                    "MIME-típusok">
+<!ENTITY plugin.flashProtectedMode.label                     "Adobe Flash védett mód bekapcsolása">
