@@ -14,7 +14,7 @@
 <!ENTITY selectAllCmd.accesskey "a">
 <!ENTITY deleteCmd.label "Scancella">
 <!ENTITY deleteCmd.accesskey "S">
-
+<!ENTITY searchTextBox.clear.label "Scancella">
 <!ENTITY spellAddToDictionary.label "Azonzi a-o Diçionaio">
 <!ENTITY spellAddToDictionary.accesskey "o">
 <!ENTITY spellUndoAddToDictionary.label "Anulla l'azonta a-o diçionaio">
