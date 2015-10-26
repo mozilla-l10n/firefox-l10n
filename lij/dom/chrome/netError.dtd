@@ -9,7 +9,7 @@
 
 <!ENTITY connectionFailure.title "No riescio a conette">
 <!ENTITY connectionFailure.longDesc "<p>Sciben che o scito o pâ valido, o navegatô o no l'é riescio a stabilî 'na conescion.</p><ul><li>O scito o porieiva ese tenporaneamente no disponibile? Preuva torna dòppo.</li><li>No ti riesci a navegâ in sce di atri sciti? Contròlla a conescion do teu computer.</li><li>O teu computer ò a teu conescion en protetti da 'n firewall ò proxy? Inpostaçioin no corette peuan interferî con a navegaçion in sciâ Ræ.</li></ul>">
-
+<!ENTITY unknownProtocolFound.title "Protocòllo sconosciuo">
 <!ENTITY deniedPortAccess.title "L'aceizo a-a pòrta dizabilitou pe raxion de seguessa">
 <!ENTITY deniedPortAccess.longDesc "<p>A pòrta domandâ (ez. <q>mozilla.org:80</q> pa-a pòrta 80 in sciô mozilla.org) l'é uzâ pe <em>atri</em> fin che no seggian a navegaçion. O browser l'à scancelou a domanda pe a teu proteçion e seguessa.</p>">
 
