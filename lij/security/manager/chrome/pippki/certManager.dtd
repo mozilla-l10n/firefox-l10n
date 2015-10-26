@@ -10,9 +10,6 @@
 <!ENTITY certmgr.tab.ca                       "Aotoritæ">
 <!ENTITY certmgr.tab.orphan2                  "Atri">
 
-<!ENTITY certmgr.ca.builtins                  "Built-in CA">
-<!ENTITY certmgr.ca.mycas                     "CA gestii da ti">
-
 <!ENTITY certmgr.mine                         "Ti gh'é sti certificati da ste organizaçioin che te identifican:">
 <!ENTITY certmgr.others                       "Ti gh'é sti certificati da ste organizaçioin che identifican ste personn-e:">
 <!ENTITY certmgr.websites2                    "Ti gh'é sti certificati da ste organizaçioin che identifican sti server:">
@@ -27,7 +24,6 @@
 <!ENTITY certmgr.pending.label                "Verifico o certificato…">
 <!ENTITY certmgr.subjectinfo.label            "Publicou in sciô">
 <!ENTITY certmgr.issuerinfo.label             "Publicou da">
-<!ENTITY certmgr.validity.label               "Validitæ" >
 <!ENTITY certmgr.fingerprints.label           "Inpronte de die">
 <!ENTITY certmgr.certdetail.title             "Detalli do certificato">
 <!ENTITY certmgr.certdetail.cn                "Nomme Comune (CN)">
@@ -35,31 +31,17 @@
 <!ENTITY certmgr.certdetail.ou                "Unitæ de Organizaçion (OU)">
 <!ENTITY certmgr.certdetail.serialnumber      "Numero de serie">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "Inpronte de die SHA1">
-<!ENTITY certmgr.certdetail.md5fingerprint    "Inpronte de die MD5">
 
-<!ENTITY certmgr.editcert.title               "Cangia e inpostaçioin de seguessa do certificato">
 <!ENTITY certmgr.editcacert.title             "Cangia e inpostaçioin de fiduccia do certificato CA">
 <!ENTITY certmgr.editcert.edittrust           "Cangia e inpostaçioin de fiduccia:">
 <!ENTITY certmgr.editcert.trustssl            "Sto certificato o peu identificâ sti sciti.">
 <!ENTITY certmgr.editcert.trustemail          "Sto certificato o peu identificâ email.">
 <!ENTITY certmgr.editcert.trustobjsign        "Sto certificato o peu identificâ chi fa e aplicaçioin.">
-<!ENTITY certmgr.editemailcert.title          "Cangia e inpostaçioin de fiduccia do certificato email">
-<!ENTITY certmgr.editemailcert.edittrust      "Cangia e inpostaçioin de fiduccia do certificato:">
-<!ENTITY certmgr.editemailcert.dotrust        "Danni a fiduccia a sto certificato.">
-<!ENTITY certmgr.editemailcert.donttrust      "No Dâ a fiduccia a sto certificato.">
-
 <!ENTITY certmgr.deletecert.title             "Scancella certificato">
-<!ENTITY certmgr.deletecert.beforename        "Ti t'æ domandou de scancelâ sto certificato:">
-<!ENTITY certmgr.deletecert.aftername         "T'ê seguo che ti veu scancelâ sto certificato?">
-<!ENTITY certmgr.deleteusercert.title         "Scancella o teu certificato">
-<!ENTITY certmgr.deleteusercert.beforename    "T'æ domandou de scancelâ o certificato:">
-<!ENTITY certmgr.deleteusercert.aftername     "'Na vòtta che t'æ scancelou sto certificato no ti saiæ ciù in graddo de leze e mail criptæ con sto certificato.">
-
 <!ENTITY certmgr.certname                     "Nomme do certificato">
 <!ENTITY certmgr.certserver                   "Server">
 <!ENTITY certmgr.override_lifetime            "Durata de vitta">
 <!ENTITY certmgr.tokenname                    "Aparato de seguessa">
-<!ENTITY certmgr.issued                       "Publicou o">
 <!ENTITY certmgr.expires                      "Scazze o">
 <!ENTITY certmgr.email                        "Indirisso e-mail">
 <!ENTITY certmgr.serial                       "Numero de serie">
@@ -70,10 +52,6 @@
 <!ENTITY certmgr.view2.accesskey              "v">
 <!ENTITY certmgr.edit3.label                  "Cangia fiduccia…">
 <!ENTITY certmgr.edit3.accesskey              "M">
-<!ENTITY certmgr.editca.label                 "Cangia fiduccia do CA">
-<!ENTITY certmgr.editca.accesskey             "d">
-<!ENTITY certmgr.add.label                    "Azonzi">
-<!ENTITY certmgr.add.accesskey                "A">
 <!ENTITY certmgr.export.label                 "Espòrta…">
 <!ENTITY certmgr.export.accesskey             "E">
 <!ENTITY certmgr.delete2.label                "Scancella…">
@@ -91,7 +69,6 @@
 <!ENTITY certmgr.fields.label                 "Valô do canpo">
 <!ENTITY certmgr.fields.accesskey             "V">
 <!ENTITY certmgr.hierarchy.label              "Gerarchia di certificati">
-<!ENTITY certmgr.hierarchy.accesskey          "c">
 <!ENTITY certmgr.addException.label           "Azonzi 'na eceçion…">
 <!ENTITY certmgr.addException.accesskey       "A">
 
@@ -109,3 +86,7 @@
 <!ENTITY exceptionMgr.permanent.label         "Tegni sarvâ sta eceçion de longo">
 <!ENTITY exceptionMgr.permanent.accesskey     "T">
 
+<!ENTITY certmgr.begins "L'iniçia o">
+<!ENTITY certmgr.certdetail.sha256fingerprint "Inpronta digitale SHA-256">
+<!ENTITY certmgr.hierarchy.accesskey2 "t">
+<!ENTITY certmgr.periodofvalidity.label "Periodo de validitæ">
