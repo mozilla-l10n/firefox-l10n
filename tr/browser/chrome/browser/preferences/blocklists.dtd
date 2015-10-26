@@ -10,5 +10,5 @@
 
 <!ENTITY button.cancel.label          "Vazgeç">
 <!ENTITY button.cancel.accesskey      "V">
-<!ENTITY button.ok.label              "Değişiklikleri Kaydet">
+<!ENTITY button.ok.label              "Değişiklikleri kaydet">
 <!ENTITY button.ok.accesskey          "D">
