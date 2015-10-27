@@ -17,5 +17,8 @@
 <!ENTITY cmd.open.accesskey                        "v">
 <!ENTITY cmd.removeFromHistory.label               "Poista historiasta">
 <!ENTITY cmd.removeFromHistory.accesskey           "o">
-<!ENTITY cmd.clearDownloads.label                  "Tyhjennä latauslista">
-<!ENTITY cmd.clearDownloads.accesskey              "T">
+<!ENTITY cmd.clearList.label                       "Tyhjennä lista">
+<!ENTITY cmd.clearList.accesskey                   "T">
+<!ENTITY cmd.clearList.tooltip                     "Poista kaikki merkinnät tallentuista tiedostoista, paitsi käynnissä olevat lataukset.">
+<!ENTITY cmd.searchDownloads.label                 "Etsi…">
+<!ENTITY cmd.searchDownloads.key                   "F">

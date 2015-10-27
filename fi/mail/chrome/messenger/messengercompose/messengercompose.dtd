@@ -215,6 +215,7 @@
 <!ENTITY addressButton.tooltip  "Valitse vastaanottaja osoitekirjasta">
 <!ENTITY attachButton.tooltip  "Lisää liitetiedosto tähän viestiin">
 <!ENTITY spellingButton.tooltip "Oikolue valinta tai koko viesti">
+<!ENTITY statusLanguageText.tooltip "Oikolukukieli">
 <!ENTITY saveButton.tooltip  "Tallenna tämä viesti">
 <!ENTITY cutButton.tooltip               "Leikkaa">
 <!ENTITY copyButton.tooltip              "Kopioi">
