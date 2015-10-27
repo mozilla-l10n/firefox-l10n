@@ -55,11 +55,11 @@
 <!ENTITY performanceUI.toolbar.waterfall "Ur-jauzia">
 
 <!ENTITY performanceUI.toolbar.js-calltree "Deien zuhaitza">
-
+<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Grabazioan zehar nabigatzaileak denbora gehien igarotako funtzioak nabarmentzen ditu.">
 <!ENTITY performanceUI.toolbar.memory-calltree "Esleipenak">
-
+<!ENTITY performanceUI.toolbar.allocations.tooltiptext "Grabazioan zehar memoria non esleitu den erakusten du.">
 <!ENTITY performanceUI.toolbar.js-flamegraph "JS sugar-diagrama">
-
+<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Grabazioan zehar JavaScript deiaren pila erakusten du.">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "Esleipenen sugar-diagrama">
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
