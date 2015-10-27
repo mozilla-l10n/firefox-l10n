@@ -98,7 +98,7 @@
 
 <!ENTITY choice2a.merge.main.label       "এই ডিভাইসে ডাটা একত্রীকরণ করুন অামার &syncBrand.shortName.label; সাথে">
 <!ENTITY choice2.merge.recommended.label "প্রস্তাবিত পন্থা:">
-<!ENTITY choice2a.client.main.label      "এই ডিভাইসে ডেটা প্রতিস্থাপন করুন অামার &amp;syncBrand.shortName.label সাথে; data">
+<!ENTITY choice2a.client.main.label      "এই ডিভাইসে ডেটা প্রতিস্থাপন করুন অামার &syncBrand.shortName.label; data">
 <!ENTITY choice2a.server.main.label      "এই ডিভাইস এর তথ্য সহ অন্যান্য সকল ডিভাইস প্রতিস্থাপন করুন">
 <!-- Confirm Merge Options -->
 
