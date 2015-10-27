@@ -1,11 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY aboutPage.title                        "Malunga &brandShortName;">
-<!ENTITY aboutPage.warningVersion               "&brandShortName; isekelwe kumboniso kwaye isenokungazinzi.">
+<!ENTITY aboutPage.title                        "Malunga ne-&brandShortName;">
+<!ENTITY aboutPage.warningVersion               "I-&brandShortName; isekelwe kumboniso kwaye isenokungazinzi.">
 <!ENTITY aboutPage.telemetryStart               " Ithumela inkcazelo ngokwayo engomsebenzi, ngehadiwe, ngokusetyenziswa nangoqhelaniso ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 " ukuze ibe nokwenza &brandShortName; ngcono.">
+<!ENTITY aboutPage.telemetryEnd                 "ukuze ibe nokwenza i-&brandShortName; ngcono.">
 <!ENTITY aboutPage.checkForUpdates.link         "Khangela iZihlaziyi »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Ikhangela izihlaziyi…">
 <!ENTITY aboutPage.checkForUpdates.none         "Akukho zihlaziyi zifumanekayo">
