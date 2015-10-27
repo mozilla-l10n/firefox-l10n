@@ -53,7 +53,7 @@
   -  in the toolbar on buttons that select which view is currently shown. -->
 
 <!ENTITY performanceUI.toolbar.waterfall "Ur-jauzia">
-
+<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Grabazioan zehar nabigatzailea burutzen ari den eragiketa ezberdinak erakusten ditu, modu sekuentzialean ur-jauzi gisa hedatuta.">
 <!ENTITY performanceUI.toolbar.js-calltree "Deien zuhaitza">
 <!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Grabazioan zehar nabigatzaileak denbora gehien igarotako funtzioak nabarmentzen ditu.">
 <!ENTITY performanceUI.toolbar.memory-calltree "Esleipenak">
