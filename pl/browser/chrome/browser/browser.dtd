@@ -280,8 +280,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Zamknij pasek programisty">
 <!ENTITY devToolbarMenu.label              "Pasek programisty">
 <!ENTITY devToolbarMenu.accesskey          "P">
-<!ENTITY devAppMgrMenu.label "Menedżer aplikacji">
-<!ENTITY devAppMgrMenu.accesskey "a">
 <!ENTITY webide.label "WebIDE">
 <!ENTITY webide.accesskey "W">
 <!ENTITY webide.keycode "VK_F8">
