@@ -26,6 +26,7 @@
 <!ENTITY projectMenu_showPrefs_accesskey "I">
 <!ENTITY projectMenu_manageComponents_label "Håndter yderligere komponenter">
 <!ENTITY projectMenu_manageComponents_accesskey "k">
+<!ENTITY projectMenu_refreshTabs_label "Nulstil faneblade">
 
 <!ENTITY runtimeMenu_label "Runtime">
 <!ENTITY runtimeMenu_accesskey "R">
