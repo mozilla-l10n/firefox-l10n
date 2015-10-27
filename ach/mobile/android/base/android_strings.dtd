@@ -8,35 +8,38 @@
 
 <!ENTITY firstrun_panel_title_welcome "Wajoli">
 <!ENTITY  onboard_start_message3 "Yeny ki &brandShortName;">
-
+<!ENTITY  onboard_start_subtext3 "Wek tic me yeny pi Kakube ni me cing obed mamegi kikome.">
 <!ENTITY  onboard_start_button_account "Dony iye &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Cak yenyo">
+<!ENTITY firstrun_button_next "Malubo">
 
+<!ENTITY  onboard_start_restricted1 "Bed maber kadong iloc ki kit &brandShortName; man ma kiyubo ma yoti.">
 
-
-
-
-
-
-
+<!ENTITY firstrun_import_title "Kel ki woko">
+<!ENTITY firstrun_import_message "Wajoli i &brandShortName;">
+<!ENTITY firstrun_import_subtext "Kel alamabuk ki gin mukato mamegi ki i layeny mukene.">
+<!ENTITY firstrun_import_action "Kob i &brandShortName;">
+<!ENTITY firstrun_import_dialog_button "Kobi">
+<!ENTITY firstrun_import_progress_title "Kobo">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "Alama me buk">
 <!ENTITY  history_title "Gin mukato">
 <!ENTITY  reading_list_title "Nying jami me kwan">
+<!ENTITY  recent_tabs_title "Dirica matino ma cokki">
 
-
+<!ENTITY  switch_to_tab "Lokke i dirica matidi">
 
 <!ENTITY  crash_reporter_title "&brandShortName; Lami ngec me Bal ma time atura">
-
+<!ENTITY  crash_message2 "&brandShortName; obedo ki peko kadong opoto woko. Dirica matino ni myero gi obed i potbuk me acaki pa &brandShortName; ka i nwoyo cako.">
 <!ENTITY  crash_send_report_message3 "Tit bot &vendorShortName; pi poto man wek ki yub woko">
 <!ENTITY  crash_include_url2 "Med kanonge me pot buk ma nongo atye iye">
 <!ENTITY  crash_sorry "Wa kwayo kica">
 <!ENTITY  crash_comment "Med tami (tam nen bot lwak)">
 <!ENTITY  crash_allow_contact2 "Ye &vendorShortName; me kube kweda pi ripot man">
-
-
+<!ENTITY  crash_email "Email mamegi">
+<!ENTITY  crash_closing_alert "Kat woko labongo cwalo ripot me poto?">
 <!ENTITY  sending_crash_report "Cwalo ngec ma opoto aturat\u2026">
 <!ENTITY  crash_close_label "Lor">
 <!ENTITY  crash_restart_label "Cak &brandShortName;">
@@ -50,28 +53,29 @@
 <!ENTITY url_bar_default_text2 "Yeny onyo ket kanonge">
 
 <!ENTITY bookmark "Alama buk">
-
+<!ENTITY bookmark_remove "Kwany alamabuk woko">
 <!ENTITY bookmark_added "Kimedo Alama me buk">
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "Dong kiketo alama i potbuk">
 <!ENTITY bookmark_removed "Kikwanyo woko Alama me buk">
 <!ENTITY bookmark_updated "Kimedo Alama me buk">
 <!ENTITY bookmark_options "Me ayera">
 
 <!ENTITY history_today_section "Tin">
 <!ENTITY history_yesterday_section "Lawo">
-
-
-
+<!ENTITY history_week_section3 "Nino 7 ma giko">
+<!ENTITY history_this_month_section "Dwe eni">
+<!ENTITY history_older_section3 "Ma con loyo dwe 6">
 
 <!ENTITY go "Ceti">
-
+<!ENTITY search "Yeny">
 <!ENTITY reload "Nwo pango">
 <!ENTITY forward "Cwal anyim">
-
+<!ENTITY menu "Jami ayera">
 <!ENTITY back "Cen">
-
+<!ENTITY stop "Juk">
 <!ENTITY site_security "Ber bedo me Dyer bar">
 <!ENTITY edit_mode_cancel "Juki">
 
@@ -79,11 +83,13 @@
 <!ENTITY one_tab "dirica matidi 1">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs2 "&formatD; dirica matino">
 <!ENTITY new_tab_opened "Kiyabo Tab manyen">
-
+<!ENTITY new_private_tab_opened "Kiyabo dirica matidi me mung manyen">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "LOK">
 <!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
      visible in the UI, but rather used as a text-to-speech content description
      for sight-impaired a11y users. The content description is set on a tab
@@ -91,10 +97,11 @@
      &formatS; will be replaced with the title of the tab, as received from the
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "Tuko dwon – &formatS;">
 
 <!ENTITY settings "Tero">
-
-
+<!ENTITY settings_title "Ter">
+<!ENTITY pref_category_input_options "Jami ayera me ket">
 
 
 
