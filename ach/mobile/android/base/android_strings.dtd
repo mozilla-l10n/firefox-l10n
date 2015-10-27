@@ -280,49 +280,52 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled "Ye tuko pire kene">
 <!ENTITY pref_media_autoplay_enabled_summary "Lo kacce kakube tuko video pi gi kengi ki jami mukene me poko ngec">
 <!ENTITY pref_zoom_force_enabled "Pol kare cak kwoto">
-
-
-
-
-
+<!ENTITY pref_zoom_force_enabled_summary "Dii tic pire kene wek i kwot potbuk mo keken">
+<!ENTITY pref_voice_input "Ket me dwon">
+<!ENTITY pref_voice_input_summary "Ye cik me dwon i lanyut me wiye">
+<!ENTITY pref_qrcode_enabled "Lakwan kod me QR">
+<!ENTITY pref_qrcode_enabled_summary "Ye lameny QR i lanyut me wiye">
 
 <!ENTITY pref_use_master_password "Tii ki i cwil me donyo ma dit">
 <!ENTITY pref_sync "Sync">
-
+<!ENTITY pref_sync_summary2 "Tim dirica matino, alamabuk, dony iye, gin mukato ni marom">
 <!ENTITY pref_search_suggestions "Nyut byek me yeny maplo">
 <!ENTITY pref_import_android "Kel ki woko ki Android">
-
-
-
-
+<!ENTITY pref_import_android_summary "Kel alamabuk ki gin mukato ki i layeny ma gang.">
+<!ENTITY pref_private_data_history2 "Gin mukato me yeny">
+<!ENTITY pref_private_data_searchHistory "Gin mukato me yeny">
+<!ENTITY pref_private_data_formdata2 "Gin mukato me pwom">
 <!ENTITY pref_private_data_cookies2 "Cokies &amp; donyo iyie ma tiyo">
-
+<!ENTITY pref_private_data_passwords2 "Dony iye ma kigwoko">
 <!ENTITY pref_private_data_cache "Kagwoko">
 <!ENTITY pref_private_data_offlineApps "Coc kakube me web ma pe iwi yamo">
-
-
-
+<!ENTITY pref_private_data_siteSettings2 "Ter me kakube">
+<!ENTITY pref_private_data_downloadFiles2 "Gam">
+<!ENTITY pref_private_data_syncedTabs "Dirica matino ma kitimo marom">
 
 
 <!ENTITY pref_about_firefox "Makwako &brandShortName;">
-
+<!ENTITY pref_vendor_faqs "Lapeny ma pol kare">
 <!ENTITY pref_vendor_feedback "Mi lagam">
 
+<!ENTITY pref_dialog_set_default "Ter calo makwongo">
 <!ENTITY pref_dialog_default "Bal tye iye">
+<!ENTITY pref_dialog_remove "Kwany">
 
-
+<!ENTITY pref_search_last_toast "Pe itwero kwanyo onyo juko injin me yeny ni ma giko.">
 
 <!ENTITY pref_panels_show "Nyuti">
+<!ENTITY pref_panels_hide "Kan">
+<!ENTITY pref_panels_reorder "Lok kabedo">
+<!ENTITY pref_panels_move_up "Kob malo">
+<!ENTITY pref_panels_move_down "Kob piny">
 
-
-
-
-
-
-
-
-
-
+<!ENTITY datareporting_notification_title "cura ki data me &brandShortName;">
+<!ENTITY datareporting_notification_action_long "Yer ngec mene me anywaka">
+<!ENTITY datareporting_notification_action "Yer ngo me anywako">
+<!ENTITY datareporting_notification_summary "Me yilo rom me ticci, &brandShortName; cwalo pire kene ngec mogo bot &vendorShortName;.">
+<!ENTITY datareporting_notification_summary_short "Me yilo rwom me ticci, &brandShortName;…">
+<!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
@@ -330,76 +333,86 @@ size. -->
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 
-
-
-
-
+<!ENTITY datareporting_fhr_title "&brandShortName; Ripot me yot kom">
+<!ENTITY datareporting_fhr_summary2 "Nywako data ki &vendorShortName; ikom yotkom pa layeny mamegi kadong konyi me niang kit ma layeny mamegi tye katic kwede">
+<!ENTITY datareporting_abouthr_title "Nen ripot me yot kom mamega">
+<!ENTITY datareporting_telemetry_title "Pimo data">
+<!ENTITY datareporting_telemetry_summary "Nywako wot pa tic, ma kitiyo kwede, nyonyo kadong data me ter ikom layeny mamegi ki &vendorShortName; me konyo wa yubo &brandShortName; maber">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; cwalo ripot me poto me konyo &vendorShortName; yubo layeny mamegi bedo matek ki ber bedo makato">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
-
-
+<!ENTITY datareporting_crashreporter_title_short "Lami ripot me poto">
+<!ENTITY datareporting_wifi_title2 "tic me kabedo pa &vendorShortName;">
+<!ENTITY datareporting_wifi_geolocation_summary4 "Kony &vendorShortName; me goyo map me wilobo! Nywak byek me kabedo me Wi-Fi ki cim pa nyonyo mamegi me yilo rwom pa tic me kabedo mamegwa.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-
+<!ENTITY pref_update_autodownload2 "Gam ngec manyen pire kene">
+<!ENTITY pref_update_autodownload_wifi "Ki i Wi-Fi keken">
 <!ENTITY pref_update_autodownload_never "Pe">
-
+<!ENTITY pref_update_autodownload_always "Pol kare">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
+
+<!ENTITY help_menu "Kony">
 
 <!ENTITY quit "Wek woko">
 
 <!ENTITY addons "Lamed-ikome">
-
-
+<!ENTITY logins "Dony iyie">
+<!ENTITY downloads "Gam">
 <!ENTITY char_encoding "Kit ma Kicoyo Kwede">
 
 <!ENTITY share "Nywak">
 <!ENTITY share_title "Nywak kun beo">
 <!ENTITY share_image_failed "Pe twero nywako pot buk man">
 <!ENTITY save_as_pdf "Gwok Calo PDF">
-
-
+<!ENTITY print "Go">
+<!ENTITY find_in_page "Nong i potbuk">
 <!ENTITY desktop_mode "Kwa Di bar me cal ma i kompiuta">
-
+<!ENTITY page "Potbuk">
 <!ENTITY tools "Gitic">
 <!ENTITY new_tab "Tab Manyen">
-
-
-
-
-
-
-
-
-
+<!ENTITY new_private_tab "Dirica matidi manyen me mung">
+<!ENTITY close_all_tabs "Lor dirica matino weng">
+<!ENTITY close_private_tabs "Lor dirica matino me mung">
+<!ENTITY tabs_normal "Dirica matino">
+<!ENTITY tabs_private "Mung">
+<!ENTITY tabs_synced "Kitimo marom">
+<!ENTITY set_image_fail "Pe twero nywako tero cal">
+<!ENTITY set_image_path_fail "Pe twero gwoko cal">
+<!ENTITY set_image_chooser_title "Ter cal calo">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
-
-
+<!ENTITY find_text "Nong i potbuk">
+<!ENTITY find_prev "Mukato">
+<!ENTITY find_next "Malubo">
+<!ENTITY find_close "Lor">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+
+<!ENTITY media_sending_to "Cwalo i nyonyo">
 <!ENTITY media_play "Tuki">
 <!ENTITY media_pause "Cung manok">
-
+<!ENTITY media_stop "Juk">
 
 <!ENTITY contextmenu_open_new_tab "Yab ki iyi Tab Manyen">
-
-
+<!ENTITY contextmenu_open_private_tab "Yab i dirica matidi me mung">
+<!ENTITY contextmenu_remove "Kwany">
 <!ENTITY contextmenu_add_to_launcher "Med I gang Kio ma neno">
-
+<!ENTITY contextmenu_share "Nywak">
 <!ENTITY contextmenu_pasteandgo "Dac &amp; Woti">
 <!ENTITY contextmenu_paste "Dani">
 <!ENTITY contextmenu_copyurl "Lok Address">
-
-
-
-
-
-
-
-
-
+<!ENTITY contextmenu_edit_bookmark "Yub">
+<!ENTITY contextmenu_subscribe "Cone i potbuk">
+<!ENTITY contextmenu_site_settings "Yub ter me kakube">
+<!ENTITY contextmenu_top_sites_edit "Yub">
+<!ENTITY contextmenu_top_sites_pin "Mwon kakube">
+<!ENTITY contextmenu_top_sites_unpin "Wa kakube">
+<!ENTITY contextmenu_add_search_engine "Med ingin me yeny">
+<!ENTITY contextmenu_mark_read "Gwet ni kikwano">
+<!ENTITY contextmenu_mark_unread "Gwet ni pe kikwano">
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
