@@ -724,7 +724,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "Ç">
 <!ENTITY identity.learnMore "Mësoni Më Tepër">
 
-<!ENTITY identity.moreInfoLinkText2 "Më tepër të Dhëna">
+<!ENTITY identity.moreInfoLinkText2 "Më Tepër të Dhëna">
 
 <!ENTITY identity.permissions "Leje">
 <!ENTITY identity.permissionsEmpty "S&apos;i keni dhënë këtij sajti ndonjë leje speciale.">
