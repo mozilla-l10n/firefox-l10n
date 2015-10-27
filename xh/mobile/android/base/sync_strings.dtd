@@ -46,9 +46,9 @@
 <!-- Setup Success -->
 
 <!ENTITY sync.title.success.label "Useto lugqityiwe">
-<!ENTITY sync.subtitle.success.label1 "Iingcombolo zakho ziyakhutshelwa ngoku ngemva. Ungaya kwiisetingi ukulawula iakhawunti yakho okanye uqalise ukubhrawuza &brandShortName;.">
+<!ENTITY sync.subtitle.success.label1 "Iingcombolo zakho ziyakhutshelwa ngoku ngemva. Ungaya kwiisetingi ukulawula iakhawunti yakho okanye uqalise ukubhrawuza kwi-&brandShortName;.">
 <!ENTITY sync.settings.label "Iisetingi">
-<!ENTITY sync.subtitle.manage.label1 "I-akhawunti yakho ye-&syncBrand.fullName.label; sele isetiwe. Ungaya kwiiSetingi ukulawula iakhawunti yakho, okanye ukulontsha &brandShortName;.">
+<!ENTITY sync.subtitle.manage.label1 "I-akhawunti yakho ye-&syncBrand.fullName.label; sele isetiwe. Ungaya kwiiSetingi ukulawula iakhawunti yakho, okanye ukulontsha i-&brandShortName;.">
 <!-- Pair Device -->
 
 <!ENTITY sync.pair.tryagain.label "Nceda uzame kwakhona.">
@@ -207,7 +207,7 @@
 <!ENTITY fxaccount_status_sync_enabled "I-&syncBrand.shortName.label;: iyasebenza">
 <!ENTITY fxaccount_status_needs_verification2 "I-akhawunti yakho idinga ukuqinisekiswa. Cofa ukuze uphinde uthunyelelwe i-imeyili yokuqinisekisa.">
 <!ENTITY fxaccount_status_needs_credentials "Ayikwazi ukunxibelelana. Cofa ukuze ungene.">
-<!ENTITY fxaccount_status_needs_upgrade "Kufuneka uhlaziyele &brandShortName; ukuze ungene.">
+<!ENTITY fxaccount_status_needs_upgrade "Kufuneka uhlaziye i-&brandShortName; ukuze ungene.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "I-&syncBrand.shortName.label; ifakelwe kodwa ayingqamani ngokuzenzekelayo. Sebenzisa njengeqhosha i-“Auto-sync data” kwi-Android Settings &gt; Usetyenziso lweengcombolo.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "I-&syncBrand.shortName.label; ifakelwe kodwa ayingqamani ngokuzenzekelayo. Sebenzisa njengeqhosha i-“Auto-sync data” kwi-Android Settings &gt; Usetyenziso lweengcombolo.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Cofa ukusayina ungene kwi-akhawunti yakho entsha ka-Firefox.">
@@ -225,7 +225,7 @@
 <!ENTITY fxaccount_status_more "Yongeza&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "Susa i-Akhawunti ye-Firefox?">
-<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; izakuyeka ukusynka ne-akhawunti yakho, kodwa ayizokucima ukubhrawuza kwakho">
+<!ENTITY fxaccount_remove_account_dialog_message "I-&brandShortName; izakuyeka ukusynka ne-akhawunti yakho, kodwa ayizokucima ukubhrawuza kwakho">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "I-Akhawunti yeFirefox &formatS; isusiwe.">
