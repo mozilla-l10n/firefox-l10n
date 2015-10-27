@@ -28,8 +28,8 @@
 <!ENTITY addToUserDictionaryButton.accessKey  "L">
 <!ENTITY editUserDictionaryButton.label  "Muokkaa…">
 <!ENTITY editUserDictionaryButton.accessKey  "M">
-<!ENTITY recheckButton.label  "Tarkista sivu uudelleen">
-<!ENTITY recheckButton.accessKey  "T">
+<!ENTITY recheckButton2.label "Tarkista teksti uudelleen">
+<!ENTITY recheckButton2.accessKey  "T">
 <!ENTITY closeButton.label  "Sulje">
 <!ENTITY closeButton.accessKey  "S">
 <!ENTITY sendButton.label  "Lähetä">
