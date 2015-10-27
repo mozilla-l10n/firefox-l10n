@@ -11,6 +11,7 @@
 
 <!ENTITY showURLBarSuggestions.label           "Vis søgeforslag i adresselinjen">
 <!ENTITY showURLBarSuggestions.accesskey       "a">
+<!ENTITY urlBarSuggestionsPermanentPB.label    "Sægeforslag vil ikke blive vist i adressefeltet, fordi du har sat &brandShortName; op til aldrig at gemme historie.">
 
 <!ENTITY redirectWindowsSearch.label "Brug denne søgetjeneste til søgninger fra Windows">
 <!ENTITY redirectWindowsSearch.accesskey "W">

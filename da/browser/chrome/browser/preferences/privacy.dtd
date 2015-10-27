@@ -13,6 +13,8 @@
 <!ENTITY trackingProtectionPBM5.label         "Brug sporings-beskyttelse i private vinduer">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Læs mere">
+<!ENTITY changeBlockList.label          "Skift blokerings-liste">
+<!ENTITY changeBlockList.accesskey      "S">
 
 <!ENTITY  history.label                 "Historik">
 
