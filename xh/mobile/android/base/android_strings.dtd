@@ -33,11 +33,11 @@
 
 <!ENTITY  crash_reporter_title "I-&brandShortName; Umniki-ngxelo wokonakala">
 <!ENTITY  crash_message2 "I-&brandShortName; ibe nengxaki yaza yacima. Iithebhu zakho zimele zidweliswe i-&brandShortName; Qalisa iphepha xa uqalisa kwakhona.">
-<!ENTITY  crash_send_report_message3 "Xelela &vendorShortName; ngalo monakalo ukuze bawulungise">
+<!ENTITY  crash_send_report_message3 "Xelela i-&vendorShortName; ngalo monakalo ukuze bawulungise">
 <!ENTITY  crash_include_url2 "Quka idilesi yekhasi ebendikulo">
 <!ENTITY  crash_sorry "Silusizi">
 <!ENTITY  crash_comment "Yongeza amagqabaza (amagqabaza abonakala kuwonke-wonke)">
-<!ENTITY  crash_allow_contact2 "Vumela &vendorShortName; ukuba iqhagamshelane nam ngale ngxelo">
+<!ENTITY  crash_allow_contact2 "Vumela i-&vendorShortName; ukuba iqhagamshelane nam ngale ngxelo">
 <!ENTITY  crash_email "I-imeyili yakho">
 <!ENTITY  crash_closing_alert "Ufuna ukuphuma ungayithumelanga ingxelo?">
 <!ENTITY  sending_crash_report "Ukuthumela ingxelo\u2026 yokonakala">
@@ -158,7 +158,7 @@
 <!ENTITY pref_category_display_summary "Isiqendu, ibha yesihloko, ukubhrawza isikrini esipheleleyo">
 <!ENTITY pref_category_privacy_short "Okwabucala">
 <!ENTITY pref_category_privacy_summary2 "Lawula iipasiwedi, ii-cookies, ukulandelela, ingcombolo">
-<!ENTITY pref_category_vendor "&vendorShortName;">
+<!ENTITY pref_category_vendor "I-&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "Malunga ne-&brandShortName;, ii-FAQs, izikhethwa zenkcukacha">
 <!ENTITY pref_category_datareporting "Ukhetho lweenkcukacha">
 <!ENTITY pref_learn_more "Funda okungakumbi">
@@ -209,7 +209,7 @@
 <!ENTITY pref_header_privacy_short "Okwabucala">
 <!ENTITY pref_header_help "Uncedo">
 <!ENTITY pref_header_language "Ulwimi">
-<!ENTITY pref_header_vendor "&vendorShortName;">
+<!ENTITY pref_header_vendor "I-&vendorShortName;">
 <!ENTITY pref_header_devtools "Izixhobo zabaphuhlisi">
 
 <!ENTITY pref_cookies_menu "Iikhukhi">
@@ -334,7 +334,7 @@ size. -->
      crashReporterDesc.label). -->
 
 <!ENTITY datareporting_fhr_title "I-&brandShortName; Ingxelo yempilo">
-<!ENTITY datareporting_fhr_summary2 "Yabelana ngeenkcukacha &vendorShortName; malunga nempilo yebhrawuza yakho ize ikuncede uqonde indlela esebenza ngayo ibhrawuza yakho">
+<!ENTITY datareporting_fhr_summary2 "Yabelana ngeenkcukacha ne-&vendorShortName; malunga nempilo yebhrawuza yakho ize ikuncede uqonde indlela esebenza ngayo ibhrawuza yakho">
 <!ENTITY datareporting_abouthr_title "Bona Ingxelo Yempilo yam">
 <!ENTITY datareporting_telemetry_title "Ithelemetri">
 <!ENTITY datareporting_telemetry_summary "Yabelana ngomsebenzi, usetyenziso, ihadiwe kunye nolungiselelo lwengcombolo emalunga nebhrawuza yakho ne-&vendorShortName; ukusinceda ekwenzeni i-&brandShortName; ibe ngcono">
@@ -342,8 +342,8 @@ size. -->
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Ingxelo yokonakala">
-<!ENTITY datareporting_wifi_title2 "&vendorShortName; Inkonzo yendawo">
-<!ENTITY datareporting_wifi_geolocation_summary4 "Nceda &vendorShortName; imephu yehlabathi! Yabelena ngokusonela kwe-Wi-Fi nendawo yeselula yesixhobo sakho ukuphucula inkonzo yethu ye-geolocation.">
+<!ENTITY datareporting_wifi_title2 "I-&vendorShortName; Inkonzo yendawo">
+<!ENTITY datareporting_wifi_geolocation_summary4 "Nceda i-&vendorShortName; imephu yehlabathi! Yabelena ngokusonela kwe-Wi-Fi nendawo yeselula yesixhobo sakho ukuphucula inkonzo yethu ye-geolocation.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
