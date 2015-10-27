@@ -20,16 +20,17 @@
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
 
 <!ENTITY reloadPlugin.pre                                    "">
-
-
+<!ENTITY reloadPlugin.middle                                 "Tornar a cargar a pachina">
+<!ENTITY reloadPlugin.post                                   " ta tornar a prebar-lo.">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "Ninviar un informe d'a error">
+<!ENTITY report.submitting                                   "Se ye ninviando un informe…">
+<!ENTITY report.submitted                                    "S'ha ninviau l'informe d'a error.">
+<!ENTITY report.disabled                                     "S'han desactivau os informes d'error.">
+<!ENTITY report.failed                                       "O ninvio ha fallau.">
+<!ENTITY report.unavailable                                  "No i hai garra informe disponible.">
+<!ENTITY report.comment                                      "Adhibir un comentario (os comentarios son visibles publicament)">
+<!ENTITY report.pageURL                                      "Incluiga a URL d'a pachina">
 
-
-
-
-
-
-
-
-
-
+<!ENTITY plugin.mimeTypes                                    "Tipos MIME">
+<!ENTITY plugin.flashProtectedMode.label                     "Activar o modo protechiu d'Adobe Flash">

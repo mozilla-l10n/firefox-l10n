@@ -410,7 +410,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.disable "No">
 <!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Sí">
-
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "S">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -706,9 +706,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Connexión segura">
 <!ENTITY identity.connectionNotSecure "A connexion no ye segura">
 <!ENTITY identity.connectionFile "Ista pachina s'alza en o suyo ordinadora">
-
+<!ENTITY identity.connectionVerified1 "Ye connectau de traza segura a iste puesto, manteniu por:">
 <!ENTITY identity.connectionInternal "Ista ye una pachina segura de &brandShortName;.">
-
+<!ENTITY identity.insecureLoginForms "Os suyos datos d'inicio de sesión podrían estar en risgo.">
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "&brandShortName; ha blocau partes d'ista pachina que no son seguras.">
@@ -718,7 +718,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings in the subview. -->
 
 <!ENTITY identity.description.insecure "A connexión ta iste puesto no ye privada. A información que ninvia podría estar visualizada por atras personas (como claus, mensaches, tarchetas de credito, etc.).">
-
+<!ENTITY identity.description.insecureLoginForms "A información d'inicio de sesión que introduz en ista pachina no ye segura y podría interceptar-se.">
 <!ENTITY identity.description.weakCipher "A suya connexión ta ista web fa servir un zifrau feble y no ye privada.">
 <!ENTITY identity.description.weakCipher2 "Atras personas podrían visualizar a información u modificar o comportamiento d'o puesto">
 <!ENTITY identity.description.activeBlocked "&brandShortName; ha blocau partes d'ista pachina que no son seguras.">
@@ -737,7 +737,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.moreInfoLinkText2 "Mas información">
 
 <!ENTITY identity.permissions "Permisos">
-
+<!ENTITY identity.permissionsEmpty "No ha dau garra permiso especial ta iste puesto.">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
