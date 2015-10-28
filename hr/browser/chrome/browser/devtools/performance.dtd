@@ -57,7 +57,7 @@
 <!ENTITY performanceUI.toolbar.js-calltree "Stablo poziva">
 <!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Ističe JavaScript funkcije gdje preglednik troši najviše vremena tijekom snimanja.">
 <!ENTITY performanceUI.toolbar.memory-calltree "Alokacije">
-
+<!ENTITY performanceUI.toolbar.allocations.tooltiptext "Prikazuje gdje je memorija alocirana tijekom snimanja.">
 <!ENTITY performanceUI.toolbar.js-flamegraph "JS Flame Chart">
 <!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Prikazuje JavaScript call stack tijekom snimanja.">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "Flame grafikon alokacija">
