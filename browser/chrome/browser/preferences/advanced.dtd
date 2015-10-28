@@ -23,7 +23,7 @@
 <!ENTITY useSmoothScrolling.accesskey    "m">
 <!ENTITY allowHWAccel.label              "Adeuvia l'aceleraçion hardware se a gh'é">
 <!ENTITY allowHWAccel.accesskey          "h">
-<!ENTITY checkSpelling.label             "Contròlla o mæ testo intanto che scrivo">
+<!ENTITY checkSpelling.label             "Contròlla o testo mentre scrivo">
 <!ENTITY checkSpelling.accesskey         "t">
 
 <!ENTITY networkTab.label                "Ræ de lou">
@@ -107,7 +107,7 @@
 <!ENTITY enableHealthReport.accesskey "v">
 <!ENTITY healthReportDesc.label "Analizza e prestaçioin do navegatô e condividdi informaçioin con &vendorShortName; in sciô stæto d'integritæ do software">
 <!ENTITY healthReportLearnMore.label "Atre informaçioin">
-<!ENTITY telemetryDesc.label "Condividdi con &vendorShortName; informaçioin in sce prestaçioin, uzo , hardware e personalizaçioin do navegatô pe contribuî a-o megioamento de &brandShortName;">
+<!ENTITY telemetryDesc.label "Condividdi con &vendorShortName; informaçioin in sce prestaçioin, uzo, hardware e personalizaçioin do navegatô pe contribuî a-o megioamento de &brandShortName;">
 <!ENTITY telemetryLearnMore.label "Atre informaçioin">
 <!ENTITY certSelection.label "Domande">
 <!ENTITY enableOCSP.label "Domanda a-i risponditoî OCSP pe confermâ a validitæ di certificati oua">

@@ -47,7 +47,7 @@
 <!ENTITY connection.disconnecting "Disconescion…">
 <!ENTITY connection.cancel "Anulla">
 <!ENTITY connection.cancelConnectTooltip "Anulla a conescion.">
-<!ENTITY connection.cancelShowSimulatorTooltip "Særa a modalitæ di conescion a-o simulatô e torna a-a domanda iniçia.">
+<!ENTITY connection.cancelShowSimulatorTooltip "Særa a modalitæ di conescion a-o simulatô e torna a-a domanda iniçiâ.">
 <!ENTITY connection.or "o">
 <!ENTITY connection.noSimulatorInstalled "Nisciun simulatô instalou.">
 <!ENTITY connection.installOneSimulator "Installa simulatô">
@@ -84,7 +84,7 @@
 <!ENTITY projects.manifestViewer "Vixoalizatô manifesto">
 <!ENTITY projects.manifestViewerTooltip "Analizza o manifesto de l'app into panello sotta.">
 
-<!ENTITY device.plain "Normale (predefinito)">
+<!ENTITY device.plain "Normale (predefinio)">
 
 <!ENTITY projects.valid "Valido">
 <!ENTITY projects.error "Erô">

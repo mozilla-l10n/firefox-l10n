@@ -20,8 +20,8 @@
 <!ENTITY selectAllCmd.accesskey         "a">
 <!ENTITY goBackCmd.commandkey           "[">
 <!ENTITY goForwardCmd.commandkey        "]">
-<!ENTITY homeButton.label               "Pagina iniçiâ">
-<!ENTITY homeButton.tooltip             "Vanni a-a pagina iniçiâ de l'agiutto">
+<!ENTITY homeButton.label               "Pagina prinçipâ">
+<!ENTITY homeButton.tooltip             "Vanni a-a pagina prinçipâ de l'agiutto">
 <!ENTITY printButton.label              "Stanpa">
 <!ENTITY printButton.tooltip            "Stanpa questa pagina">
 <!ENTITY closeWindow.commandkey         "W">

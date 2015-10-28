@@ -10,7 +10,7 @@
 
 <!-- These strings are used in the about:home page -->
 
-<!ENTITY abouthome.pageTitle "Pagina iniçiâ de &brandFullName;">
+<!ENTITY abouthome.pageTitle "Pagina prinçipâ de &brandFullName;">
 
 <!ENTITY abouthome.rightsSnippet "&brandFullName; o l'é 'na aplicaçion libera e co-o Sorgente Averto fæto da Mozilla Foundation, 'na organizaçion sensa fin de goagno. <a>Descövri i teu diritti…</a>">
 
