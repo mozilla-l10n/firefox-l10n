@@ -1,6 +1,0 @@
-<!ENTITY searchIntegration.engineName "Windows Search">
-<!ENTITY searchIntegration.title "&searchIntegration.engineName;-integráció">
-<!ENTITY searchIntegration.description "Szeretné, hogy a &searchIntegration.engineName; indexelje és kereshetővé tegye a &brandShortName; leveleit és híreit?">
-
-<!ENTITY searchIntegration.accept "A &searchIntegration.engineName; engedélyezése">
-<!ENTITY searchIntegration.cancel "A &searchIntegration.engineName; tiltása">
