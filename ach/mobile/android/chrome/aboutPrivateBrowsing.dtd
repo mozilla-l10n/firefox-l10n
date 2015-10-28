@@ -6,10 +6,14 @@
 <!-- Localisation note: the plus sign here is a shorthand way of expressing the word "and". Contextually the privatebrowsingpage.title.private string
                         is used as a title, with the privatebrowsingpage.title string preceding it but on a separate line.
                         So the final line will say "Private Browsing + Tracking Protection". -->
+
+<!ENTITY privatebrowsingpage.title.private "+ Gwokke ikom lubo kor">
 <!-- Localization note (privatebrowsingpage.title.normal1): "Private Browsing"
      is capitalized in English to be consistent with our existing uses of the
      term. -->
+<!ENTITY privatebrowsingpage.title.normal1 "Pe itye ka yeny i mung">
 
+<!ENTITY privatebrowsingpage.description.private4 "&brandShortName; bi gengo lubo kor in ki pe bi poo ikom gin mukato mo keken, ento pwail ki alamabuk manyen ma ki gamo pud kibigwoko gi i nyonyo mamegi.">
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->

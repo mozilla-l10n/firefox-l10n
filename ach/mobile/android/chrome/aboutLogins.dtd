@@ -6,4 +6,4 @@
 <!ENTITY aboutLogins.title                       "Dony iyie">
 <!ENTITY aboutLogins.update                      "Lamed">
 <!ENTITY aboutLogins.emptyLoginText              "Gwok dony iyie ni maber">
-
+<!ENTITY aboutLogins.emptyLoginHint              "Dony iyie ki catibiket ma igwoko ki &brandShortName; bi nyute kany.">
