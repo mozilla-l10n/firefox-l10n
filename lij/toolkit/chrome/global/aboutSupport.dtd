@@ -5,7 +5,7 @@
 <!ENTITY aboutSupport.pageTitle "Informaçioin in sciâ soluçion di problemi">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
-<!ENTITY aboutSupport.pageSubtitle "  Sta pagina a contgne informaçioin tecniche che peuan ese utili quando ti preuvi a rizòlve un problema. Se ti ti stæ çercando rispòste a domande comun in sciô &brandShortName;, contròlla o nòstro <a id='supportLink'>scito de agiutto</a>.
+<!ENTITY aboutSupport.pageSubtitle "  Sta pagina a contegne informaçioin tecniche che peuan ese utili quande ti preuvi a rizòlve un problema. Se ti çerchi rispòste a domande comuni in sce &brandShortName;, contròlla o nòstro <a id='supportLink'>scito de agiutto</a>.
 ">
 
 <!ENTITY aboutSupport.extensionsTitle "Estenscioin">
@@ -78,8 +78,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.experimentHomepage "Pagina prinçipâ">
 <!ENTITY aboutSupport.experimentId "ID">
 <!ENTITY aboutSupport.experimentName "Nome">
-<!ENTITY aboutSupport.experimentsTitle "Caratteristiche sperimentali">
-<!ENTITY aboutSupport.lockedKeyPrefsTitle "Preferenze importanti bloccate">
+<!ENTITY aboutSupport.experimentsTitle "Carateristiche sperimentali">
+<!ENTITY aboutSupport.lockedKeyPrefsTitle "Preferense inportanti blocæ">
 <!ENTITY aboutSupport.lockedPrefsName "Nomme">
 <!ENTITY aboutSupport.lockedPrefsValue "Valô">
 <!ENTITY aboutSupport.restartInSafeMode.label "Arvi torna co-i conponenti azonti dizativæ…">

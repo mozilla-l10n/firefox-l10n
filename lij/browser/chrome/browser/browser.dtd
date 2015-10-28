@@ -700,7 +700,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY customizeMenu.addMoreItems.label "Azonzi atri elementi…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 <!ENTITY customizeMode.tabTitle "Personalizza &brandShortName;">
-<!ENTITY customizeMode.menuAndToolbars.header2 "Strumenti e carateristiche azonzi">
+<!ENTITY customizeMode.menuAndToolbars.header2 "Azonzi strumenti e fonçioin">
 <!ENTITY customizeMode.menuAndToolbars.empty "T'æ bezeugno di atri strumenti?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Çerni fra migiæe di conponenti azonti">
 <!ENTITY customizeMode.restoreDefaults "Repiggia predefinii">
