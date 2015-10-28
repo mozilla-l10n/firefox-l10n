@@ -23,7 +23,7 @@
 <!ENTITY performanceUI.toolbar.memory-flamegraph "Flame chart alocaçioin">
 <!ENTITY performanceUI.table.totalDuration "Tenpo totale">
 <!ENTITY performanceUI.table.totalDuration.tooltip "O tenpo pasou in sta fonçion e inte fonçioin ciamæ.">
-<!ENTITY performanceUI.table.selfDuration "Tempo individuale">
+<!ENTITY performanceUI.table.selfDuration "Tenpo individoâ">
 <!ENTITY performanceUI.table.selfDuration.tooltip "O tenpo pasou solo in sta fonçion.">
 <!ENTITY performanceUI.table.totalPercentage "Costo totale">
 <!ENTITY performanceUI.table.totalPercentage.tooltip "A perçentoale de tenpo pasou in sta fonçion e nelle fonçioin ciamæ.">
@@ -56,7 +56,7 @@
 <!ENTITY performanceUI.enableJITOptimizations "Registra òtimizaçioin JIT">
 <!ENTITY performanceUI.enableJITOptimizations.tooltiptext "Registra òtimizaçioin JIT rilevæ in ògni frame JavaScript.">
 <!ENTITY performanceUI.JITOptimizationsTitle "Òtimizaçioin JIT">
-<!ENTITY performanceUI.console.recordingNoticeStart "A registraçion a parte">
+<!ENTITY performanceUI.console.recordingNoticeStart "A registraçion a se inandia">
 <!ENTITY performanceUI.console.recordingNoticeEnd "">
 <!ENTITY performanceUI.console.stopCommandStart "Ferma a regitraçion sciacando">
 <!ENTITY performanceUI.console.stopCommandEnd "inta console.">

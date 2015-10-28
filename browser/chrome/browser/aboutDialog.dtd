@@ -66,7 +66,7 @@
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
-<!ENTITY channel.description.start  "Òua ti ê into canâ de agiornamento ">
+<!ENTITY channel.description.start  "Oua ti ê into canâ de agiornamento ">
 <!ENTITY channel.description.end    ". ">
 <!ENTITY update.applying "Instalaçion de l'agiornamento…">
 
@@ -87,5 +87,5 @@
 <!ENTITY helpus.start "Ti ne veu agiuta? ">
 <!ENTITY helpus.donateLink "Fanni 'na donaçion">
 <!ENTITY helpus.middle " ò ">
-<!ENTITY helpus.getInvolvedLink "travaggia co niatri">
+<!ENTITY helpus.getInvolvedLink "travaggia con niatri">
 <!ENTITY helpus.end ".">

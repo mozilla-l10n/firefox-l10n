@@ -7,7 +7,7 @@
 <!ENTITY about.button                              "Vanni a-a pagina">
 <!ENTITY content.title                             "Contegnuo">
 <!ENTITY reflowZoom.title                          "Scistema o testo in baze a-o zoom">
-<!ENTITY showImages.title                          "Fanni vedde inmagini">
+<!ENTITY showImages.title                          "Mostra inmagini">
 <!ENTITY enableJavaScript.title                    "Abilita JavaScript">
 <!ENTITY privacy.title                             "Privacy &amp; Seguessa">
 <!ENTITY allowCookies.title                        "Permetti i cookie">
@@ -15,7 +15,7 @@
 <!ENTITY masterPassword.title                      "Deuvia paròlla segreta prinçipâ">
 <!ENTITY clearPrivateData2.title                   "Scancella i dæti privæ">
 <!ENTITY clearPrivateData.button                   "Polisci">
-<!ENTITY rememberPasswords.title                   "Aregorda e paròlle segrette">
+<!ENTITY rememberPasswords.title                   "Aregorda e paròlle segrete">
 <!ENTITY language.title                            "Lengoa">
 <!ENTITY language.auto                             "Scoverta outomatica">
 <!ENTITY defaultBrowser.title                      "Navegatô predefinio">

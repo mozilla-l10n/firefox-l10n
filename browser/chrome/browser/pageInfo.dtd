@@ -53,7 +53,7 @@
 <!ENTITY  permTab               "Permissi">
 <!ENTITY  permTab.accesskey     "P">
 <!ENTITY  permUseDefault        "Adeuvia predefinio">
-<!ENTITY  permAskAlways         "Domanda senpre">
+<!ENTITY  permAskAlways         "Domanda de longo">
 <!ENTITY  permAllow             "Permetti">
 <!ENTITY  permAllowSession      "Permetti pe sta sescion">
 <!ENTITY  permBlock             "Blòcco">
@@ -85,5 +85,5 @@
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "v">
 
 <!ENTITY  securityView.technical.header                 "Detalli Tecnichi">
-<!ENTITY helpButton.label "Goidda">
+<!ENTITY helpButton.label 								"Goidda">
 

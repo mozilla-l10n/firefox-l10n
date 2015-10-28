@@ -40,7 +40,7 @@
 <!ENTITY connection.changeHostAndPort "Cangia">
 <!ENTITY connection.changeHostAndPortTooltip "Cangia host e pòrta adeuviæ pe-a conescion a-o dispoxitivo (valô predefinio localhost:6000).">
 <!ENTITY connection.startSimulator "Inandia simulatô">
-<!ENTITY connection.startSimulatorTooltip "Inandia o simulatô e ativa 'na conescion con l'istansa crea.">
+<!ENTITY connection.startSimulatorTooltip "Inandia o simulatô e ativa 'na conescion con l'istansa creâ.">
 <!ENTITY connection.saveConnectionInfo "Sarva">
 <!ENTITY connection.saveConnectionInfoTooltip "Sarva host e pòrta.">
 <!ENTITY connection.connecting "Conescion…">

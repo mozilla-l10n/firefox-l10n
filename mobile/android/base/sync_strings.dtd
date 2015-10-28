@@ -17,7 +17,7 @@
 <!ENTITY sync.subtitle.connect.label 'Pe ativâ o teu neuvo aparato, seleçionn-a “Inpòsta &syncBrand.shortName.label;” in sciô aparato.'>
 <!ENTITY sync.subtitle.header.label 'Metti sto còdice into teu computer'>
 <!ENTITY sync.subtitle.connectlocation.label 'Seleçionn-a “&sync.title.pair.label;” inta sescion &syncBrand.shortName.label; de òpsioin do teu navegatô Firefox.'>
-<!ENTITY sync.subtitle.pair.label 'Pe ativa, seleçionn-a “Acobia un aparato” in sce teu atro aparato.'>
+<!ENTITY sync.subtitle.pair.label 'Pe ativa, seleçionn-a “Acobia aparato” in sce teu atro aparato.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
 <!ENTITY sync.pin.oneline.label '...'>
 <!ENTITY sync.link.show.label 'Famme vedde comme.'>
@@ -38,8 +38,8 @@
 <!-- Setup Fail -->
 <!ENTITY sync.title.fail.label 'Inposcibile inpostâ &syncBrand.shortName.label;'>
 <!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; o no riesce a colegase a-o server. Ti veu provaghe torna?'>
-<!ENTITY sync.button.tryagain.label 'Preuva ancon'>
-<!ENTITY sync.button.manual.label 'Inpostaçion manoale'>
+<!ENTITY sync.button.tryagain.label 'Preuva torna'>
+<!ENTITY sync.button.manual.label 'Inpostaçion a man'>
 <!ENTITY sync.subtitle.nointernet.label 'Sensa conescion a Internet.'>
   
 <!-- Setup Success -->
@@ -51,7 +51,7 @@
 
 
 <!-- Pair Device -->
-<!ENTITY sync.pair.tryagain.label 'Pe piaxei preuva ancon.'>
+<!ENTITY sync.pair.tryagain.label 'Pe piaxei preuva torna.'>
 
 <!-- Firefox SyncAdapter Settings Screen -->
 <!ENTITY sync.settings.options.label 'Inpostaçioin'>
@@ -83,7 +83,7 @@
 <!ENTITY bookmarks.folder.readinglist.label "Lista de letua">
 <!ENTITY sync.pair.connectlocation.label "Pe ativâ un neuvo aparato seleçionn-a “Configuraçion de &syncBrand.shortName.label;” e pöi “Adeuvia un account existente”.">
 
-<!ENTITY sync.subtitle.failaccount.label "Creaçion d’account in sciô dispoxitivo no ariescia.">
+<!ENTITY sync.subtitle.failaccount.label "Creaçion de l'account in sciô dispoxitivo no ariescia.">
 <!ENTITY sync.button.send.label "Manda">
 <!ENTITY sync.button.set.up.sync.label "Configuraçion de &syncBrand.shortName.label;">
 <!ENTITY sync.invalidcreds.label "Nomme utente ò paròlla segreta sbaliâ">

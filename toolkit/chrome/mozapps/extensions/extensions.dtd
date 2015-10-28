@@ -39,7 +39,7 @@
 
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Riçerca">
-<!ENTITY view.discover.label                  "Danni i Conponenti azonti">
+<!ENTITY view.discover.label                  "Scarega i Conponenti azonti">
 <!ENTITY view.recentUpdates.label             "Urtimi agiornamenti">
 <!ENTITY view.availableUpdates.label          "Agiornamenti disponibili">
 
@@ -194,7 +194,7 @@
 <!ENTITY addon.restartNow.label               "Arvi torna oua">
 <!ENTITY addon.install.label                  "Installa">
 <!ENTITY addon.install.tooltip                "Installa sto conponente azonto">
-<!ENTITY addon.updateNow.label                "Agiorna Òua">
+<!ENTITY addon.updateNow.label                "Agiorna Oua">
 <!ENTITY addon.updateNow.tooltip              "Installa l'agiornamento pe sto conponente azonto">
 <!ENTITY addon.includeUpdate.label            "Metighelo inte l'agiornamento">
 <!ENTITY addon.updateAvailable.label          "Gh'é un agiornamento">
