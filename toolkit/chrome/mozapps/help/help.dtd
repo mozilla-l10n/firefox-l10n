@@ -4,9 +4,9 @@
 
 <!ENTITY printCmd.commandkey            "p">
 
-
 <!ENTITY findOnCmd.commandkey           "F">
 <!ENTITY findAgainCmd.commandkey        "G">
+<!ENTITY findAgainCmd.commandkey2       "VK_F3">
 
 <!ENTITY backButton.label               "Πίσω">
 <!ENTITY backButton.accesskey           "Π">
@@ -14,58 +14,43 @@
 <!ENTITY forwardButton.label            "Μπροστά">
 <!ENTITY forwardButton.accesskey        "Μ">
 <!ENTITY forwardButton.tooltip          "Μπροστά μια σελίδα">
+<!ENTITY copyCmd.label                  "Αντιγραφή">
+<!ENTITY copyCmd.accesskey              "γ">
+<!ENTITY selectAllCmd.label             "Επιλογή όλων">
+<!ENTITY selectAllCmd.accesskey         "λ">
+<!ENTITY goBackCmd.commandkey           "[">
+<!ENTITY goForwardCmd.commandkey        "]">
 <!ENTITY homeButton.label               "Αρχή">
 <!ENTITY homeButton.tooltip             "Μετάβαση στην Αρχική σελίδα της βοήθειας">
 <!ENTITY printButton.label              "Εκτύπωση">
 <!ENTITY printButton.tooltip            "Εκτύπωση της σελίδας">
-
-
-
-
 <!ENTITY closeWindow.commandkey         "W">
 
-
-
-
-
-
-<!ENTITY toctab.label       	  	"Περιεχόμενα">
+<!ENTITY search.emptytext               "Αναζήτηση">
+<!ENTITY searchHeader.label             "Αποτελέσματα αναζήτησης">
+<!ENTITY toctab.label                   "Περιεχόμενα">
 <!ENTITY toctab.accesskey               "χ">
 
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
 
-
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
-
-
-<!ENTITY zLevel.label                   "Πάντα σε πρώτο πλάνο">
-<!ENTITY zLevel.accesskey               "λ">
-
-<!ENTITY goBackCmd.commandkey           "[">
-<!ENTITY goForwardCmd.commandkey        "]">
-<!ENTITY findAgainCmd.commandkey2       "VK_F3">
 
 <!ENTITY helpSearch.commandkey          "k">
 
-<!ENTITY copyCmd.label                  "Αντιγραφή">
-<!ENTITY copyCmd.accesskey              "γ">
-
-<!ENTITY selectAllCmd.label             "Επιλογή όλων">
-<!ENTITY selectAllCmd.accesskey         "λ">
-
-
-
-<!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY zLevel.label                   "Πάντα σε πρώτο πλάνο">
+<!ENTITY zLevel.accesskey               "λ">
 
 <!ENTITY fullZoomReduceBtn.label        "Σμίκρυνση">
 <!ENTITY fullZoomReduceBtn.accesskey    "μ">
 <!ENTITY fullZoomEnlargeBtn.label       "Μεγέθυνση">
 <!ENTITY fullZoomEnlargeBtn.accesskey   "γ">
-
-<!ENTITY search.emptytext               "Αναζήτηση">
-<!ENTITY searchHeader.label             "Αποτελέσματα αναζήτησης">
-

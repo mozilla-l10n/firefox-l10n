@@ -2,16 +2,22 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!--null-->
-<!ENTITY mailListWindow.title "Λίστα αλληλογραφίας">
-<!ENTITY addToAddressBook.label "Προσθήκη σε:">
-<!ENTITY ListName.label "Όνομα Λίστας:">
-<!ENTITY ListNickName.label "Προσωνύμιο λίστας:">
-<!ENTITY ListDescription.label "Περιγραφή:">
-<!ENTITY AddressTitle.label "Εισάγετε διευθύνσεις για να τις προσθέσετε στην  λίστα αλληλογραφίας:">
-<!ENTITY UpButton.label "Προς τα πάνω">
-<!ENTITY DownButton.label "Προς τα κάτω">
-<!ENTITY addToAddressBook.accesskey "θ">
-<!ENTITY ListName.accesskey "Λ">
-<!ENTITY ListNickName.accesskey "ν">
-<!ENTITY ListDescription.accesskey "ε">
+<!-- Title -->
+<!ENTITY mailListWindow.title           "Λίστα αλληλογραφίας">
+<!-- Labels -->
+<!ENTITY addToAddressBook.label         "Προσθήκη σε:">
+
+<!ENTITY ListName.label                 "Όνομα Λίστας:">
+<!ENTITY ListNickName.label             "Προσωνύμιο λίστας:">
+<!ENTITY ListDescription.label          "Περιγραφή:">
+<!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
+<!ENTITY AddressTitle.label             "Εισάγετε διευθύνσεις για να τις προσθέσετε στην  λίστα αλληλογραφίας:">
+<!ENTITY UpButton.label                 "Προς τα πάνω">
+<!ENTITY DownButton.label               "Προς τα κάτω">
+
+<!-- Access Keys -->
+<!ENTITY addToAddressBook.accesskey     "θ">
+<!ENTITY ListName.accesskey             "Λ">
+<!ENTITY ListNickName.accesskey         "ν">
+<!ENTITY ListDescription.accesskey      "ε">
+

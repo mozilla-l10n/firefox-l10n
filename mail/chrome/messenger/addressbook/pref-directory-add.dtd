@@ -2,41 +2,45 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!--null-->
-<!ENTITY newDirectoryTitle.label "Ιδιότητες εξυπηρετητή καταλόγου">
-<!ENTITY directoryName.label "Όνομα:">
-<!ENTITY directoryName.accesskey "μ">
-<!ENTITY directoryHostname.label "Όνομα κεντρικού υπολογιστή: ">
-<!ENTITY directoryHostname.accesskey "ν">
-<!ENTITY directoryBaseDN.label "Base DN: ">
-<!ENTITY directoryBaseDN.accesskey "b">
-<!ENTITY findButton.label "Εύρεση">
-<!ENTITY findButton.accesskey "ρ">
-<!ENTITY directorySecure.label "Χρήση ασφαλούς σύνδεσης (SSL)">
-<!ENTITY directorySecure.accesskey "σ">
-<!ENTITY directoryLogin.label "Bind DN: ">
-<!ENTITY directoryLogin.accesskey "i">
-<!ENTITY General.tab "Γενικά">
-<!ENTITY Offline.tab "Χωρίς σύνδεση">
-<!ENTITY Advanced.tab "Ειδικές επιλογές">
-<!ENTITY portNumber.label "Αριθμός θύρας:">
-<!ENTITY portNumber.accesskey "θ">
-<!ENTITY searchFilter.label "Φίλτρο Αναζήτησης:">
-<!ENTITY searchFilter.accesskey "Φ">
-<!ENTITY scope.label "Σκοπός:">
-<!ENTITY scope.accesskey "κ">
-<!ENTITY scopeOneLevel.label "Ένα επίπεδο">
-<!ENTITY scopeOneLevel.accesskey "π">
-<!ENTITY scopeSubtree.label "Υποφάκελος">
-<!ENTITY scopeSubtree.accesskey "Υ">
-<!ENTITY return.label "Να μην επιστρέφονται παραπάνω από">
-<!ENTITY return.accesskey "σ">
-<!ENTITY results.label "αποτελέσματα">
-<!ENTITY offlineText.label "Μπορείτε να κάνετε λήψη  ενός τοπικού αντιγράφου αυτού του καταλόγου ώστε να είναι διαθέσιμο για εργασία χωρίς σύνδεση. ">
-<!ENTITY saslMechanism.label "Μέθοδος σύνδεσης: ">
-<!ENTITY saslMechanism.accesskey "θ">
-<!ENTITY saslOff.label "Απλή">
-<!ENTITY saslOff.accesskey "λ">
-<!ENTITY saslGSSAPI.label "Kerberos (GSSAPI)">
-<!ENTITY saslGSSAPI.accesskey "K">
-<!ENTITY newDirectoryWidth "40em">
+<!ENTITY newDirectoryTitle.label           "Ιδιότητες εξυπηρετητή καταλόγου">
+<!ENTITY directoryName.label               "Όνομα:">
+<!ENTITY directoryName.accesskey           "μ">
+<!ENTITY directoryHostname.label           "Όνομα κεντρικού υπολογιστή: ">
+<!ENTITY directoryHostname.accesskey       "ν">
+<!ENTITY directoryBaseDN.label             "Base DN: ">
+<!ENTITY directoryBaseDN.accesskey         "b">
+<!ENTITY findButton.label                  "Εύρεση">
+<!ENTITY findButton.accesskey              "ρ">
+<!ENTITY directorySecure.label             "Χρήση ασφαλούς σύνδεσης (SSL)">
+<!ENTITY directorySecure.accesskey         "σ">
+<!ENTITY directoryLogin.label              "Bind DN: ">
+<!ENTITY directoryLogin.accesskey          "i">
+<!ENTITY General.tab                       "Γενικά">
+<!ENTITY Offline.tab                       "Χωρίς σύνδεση">
+<!ENTITY Advanced.tab                      "Ειδικές επιλογές">
+<!ENTITY portNumber.label                  "Αριθμός θύρας:">
+<!ENTITY portNumber.accesskey              "θ">
+<!ENTITY searchFilter.label                "Φίλτρο Αναζήτησης:">
+<!ENTITY searchFilter.accesskey            "Φ">
+<!ENTITY scope.label                       "Σκοπός:">
+<!ENTITY scope.accesskey                   "κ">
+<!ENTITY scopeOneLevel.label               "Ένα επίπεδο">
+<!ENTITY scopeOneLevel.accesskey           "π">
+<!ENTITY scopeSubtree.label                "Υποφάκελος">
+<!ENTITY scopeSubtree.accesskey            "Υ">
+<!ENTITY return.label                      "Να μην επιστρέφονται παραπάνω από">
+<!ENTITY return.accesskey                  "σ">
+<!ENTITY results.label                     "αποτελέσματα">
+<!ENTITY offlineText.label                 "Μπορείτε να κάνετε λήψη  ενός τοπικού αντιγράφου αυτού του καταλόγου ώστε να είναι διαθέσιμο για εργασία χωρίς σύνδεση. ">
+<!ENTITY saslMechanism.label               "Μέθοδος σύνδεσης: ">
+<!ENTITY saslMechanism.accesskey           "θ">
+<!ENTITY saslOff.label                     "Απλή">
+<!ENTITY saslOff.accesskey                 "λ">
+<!ENTITY saslGSSAPI.label                  "Kerberos (GSSAPI)">
+<!ENTITY saslGSSAPI.accesskey              "K">
+
+<!-- Localization note: this is here because the width of the dialog 
+     is determined by the width of the base DN box; and that is likely
+     to vary somewhat with the language.
+-->
+<!ENTITY newDirectoryWidth                 "40em">

@@ -2,10 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY sanitizePrefs2.title          "Ρυθμίσεις εκκαθάρισης ιστορικού">
-<!ENTITY sanitizeDialog2.title         "Εκκαθάριση πρόσφατου ιστορικού">
-
-<!ENTITY clearDataSettings2.label     "Όταν κλείσει ο &brandShortName;, θα γίνει αυτόματη εκκαθάριση:">
+<!ENTITY sanitizeDialog2.title         "Εκκαθάριση πρόσφατου ιστορικού">                                                                          
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
@@ -20,8 +17,6 @@
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
 <!ENTITY clearTimeDuration.suffix         "">
-<!ENTITY clearTimeDuration.dateColumn     "Ημερομηνία επίσκεψης">
-<!ENTITY clearTimeDuration.nameColumn     "Όνομα">
 
 <!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
      of the "Details" progressive disclosure button.  See UI mockup at bug
@@ -29,12 +24,8 @@ that require it.  -->
 <!ENTITY detailsProgressiveDisclosure.label     "Λεπτομέρειες">
 <!ENTITY detailsProgressiveDisclosure.accesskey "ε">
 
-<!ENTITY historySection.label         "Ιστορικό">
-<!ENTITY dataSection.label            "Δεδομένα">
-
-<!-- LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
-     itemBrowsingHistory.* will never be used at the same time, so they can
-     have the same accesskey. -->
+<!ENTITY itemHistory.label                 "Browsing History">
+<!ENTITY itemHistory.accesskey             "B">
 <!ENTITY itemCookies.label                 "Cookies">
 <!ENTITY itemCookies.accesskey             "C">
 <!ENTITY itemCache.label                   "Προσωρινή μνήμη">
@@ -46,4 +37,3 @@ that require it.  -->
 <!ENTITY sanitizeEverythingUndoWarning     "Δεν είναι δυνατή η αναίρεση αυτής της ενέργειας.">
 
 <!ENTITY dialog.width                 "38em">
-<!ENTITY column.width                 "18em">

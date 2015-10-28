@@ -2,38 +2,43 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY allpagesRadio.label "Όλες οι σελίδες">
-<!ENTITY allpagesRadio.accesskey "λ">
+<!-- extracted from printdialog.xul -->
 
-<!ENTITY aslaidoutRadio.label "Όπως φαίνονται στη σελίδα">
-<!ENTITY aslaidoutRadio.accesskey "φ">
-<!ENTITY copies.label "Αντίγραφα">
-<!ENTITY eachframesepRadio.label "Κάθε πλαίσιο ξεχωριστά">
-<!ENTITY eachframesepRadio.accesskey  "θ">
+<!ENTITY printButton.label "Print">
 
-<!ENTITY fpDialog.title "Αποθήκευση αρχείου">
-<!ENTITY frompageInput.label "από">
-<!ENTITY frompageInput.accesskey  "π">
-<!ENTITY numCopies.label "Αριθμός αντιγράφων:">
-<!ENTITY numCopies.accesskey "ρ">
-<!ENTITY printButton.label "Εκτύπωση">
-<!ENTITY printDialog.title "Εκτύπωση">
-<!ENTITY printer.label "Εκτυπωτής">
-<!ENTITY printerInput.label "Εκτυπωτής:">
-<!ENTITY printerInput.accesskey "Ε">
-<!ENTITY printframeGroup.label "Εκτύπωση πλαισίων">
-<!ENTITY printrangeGroup.label "Επιλογή σελίδων">
-<!ENTITY propertiesButton.label "Ιδιότητες...">
-<!ENTITY propertiesButton.accesskey "δ">
-<!ENTITY rangeRadio.label "Σελίδες">
-<!ENTITY rangeRadio.accesskey  "ε">
-<!ENTITY selectedframeRadio.label "Το επιλεγμένο πλαίσιο">
-<!ENTITY selectedframeRadio.accesskey  "γ">
-<!ENTITY selectionRadio.label "Επιλογή">
-<!ENTITY selectionRadio.accesskey "π">
-<!ENTITY topageInput.label "ως ">
-<!ENTITY topageInput.accesskey  "ω">
-<!ENTITY fileCheck.label "Εκτύπωση σε αρχείο">
-<!ENTITY fileCheck.accesskey "χ">
+<!ENTITY printDialog.title "Print">
 
-<!ENTITY descText.label "Περιγραφή εκτυπωτή:">
+<!ENTITY fpDialog.title "Save File">
+
+<!ENTITY fileCheck.label "Print to File">
+<!ENTITY fileCheck.accesskey "F">
+<!ENTITY propertiesButton.label "Properties…">
+<!ENTITY propertiesButton.accesskey "o">
+<!ENTITY descText.label "Printer Description:">
+<!ENTITY printer.label "Printer">
+<!ENTITY printerInput.label "Printer Name:">
+<!ENTITY printerInput.accesskey "N">
+
+<!ENTITY printrangeGroup.label "Print Range">
+<!ENTITY allpagesRadio.label "All Pages">
+<!ENTITY allpagesRadio.accesskey "A">
+<!ENTITY rangeRadio.label  "Pages">
+<!ENTITY rangeRadio.accesskey  "P">
+<!ENTITY frompageInput.label  "from">
+<!ENTITY frompageInput.accesskey  "r">
+<!ENTITY topageInput.label  "to">
+<!ENTITY topageInput.accesskey  "t">
+<!ENTITY selectionRadio.label "Selection">
+<!ENTITY selectionRadio.accesskey "S">
+
+<!ENTITY copies.label "Copies">
+<!ENTITY numCopies.label "Number of copies:">
+<!ENTITY numCopies.accesskey "c">
+
+<!ENTITY printframeGroup.label "Print Frames">
+<!ENTITY aslaidoutRadio.label "As laid out on the screen">
+<!ENTITY aslaidoutRadio.accesskey "u">
+<!ENTITY selectedframeRadio.label  "The selected frame">
+<!ENTITY selectedframeRadio.accesskey  "m">
+<!ENTITY eachframesepRadio.label  "Each frame separately">
+<!ENTITY eachframesepRadio.accesskey  "E">

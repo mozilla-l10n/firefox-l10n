@@ -4,14 +4,20 @@
 
 <!ENTITY editContactPanelDeleteContact.label "Διαγραφή">
 <!ENTITY editContactPanelDeleteContact.accesskey "γ">
+
 <!ENTITY editContactName.label "Όνομα:">
 <!ENTITY editContactName.accesskey "ν">
+
 <!ENTITY editContactEmail.label "Email:">
 <!ENTITY editContactEmail.accesskey "E">
+
 <!ENTITY editContactAddressBook.label "Ευρετήριο διευθύνσεων:">
 <!ENTITY editContactAddressBook.accesskey "θ">
+
 <!ENTITY editContactPanelCancel.label "Ακύρωση">
 <!ENTITY editContactPanelCancel.accesskey "κ">
+
 <!ENTITY editContactPanelDone.label "Ολοκληρώθηκε">
 <!ENTITY editContactPanelDone.accesskey "Ο">
+
 <!ENTITY contactMoveDisabledWarning.description "Δεν μπορείτε να τροποποιήσετε αυτό το ευρετήριο διευθύνσεων επειδή αυτή η επαφή είναι σε λίστα αλληλογραφίας.">

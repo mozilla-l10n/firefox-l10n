@@ -1,8 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY windowTitle.label "Ιδιότητες πεδίου κειμένου">
+
 <!ENTITY Settings.label "Ρυθμίσεις">
+
 <!ENTITY TextAreaName.label "Όνομα Πεδίου:">
 <!ENTITY TextAreaName.accessKey "δ">
 <!ENTITY TextAreaRows.label "Γραμμές:">
@@ -19,6 +22,7 @@
 <!ENTITY TextAreaAccessKey.accessKey "β">
 <!ENTITY InitialText.label "Αρχικό κείμενο:">
 <!ENTITY InitialText.accessKey "χ">
+
 <!ENTITY TextAreaWrap.label "Κατάσταση αναδίπλωσης:">
 <!ENTITY TextAreaWrap.accessKey "δ">
 <!ENTITY WrapDefault.value "Προεπιλεγμένο">

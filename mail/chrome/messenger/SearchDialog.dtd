@@ -2,39 +2,45 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY searchHeading.label "Αναζήτηση σε:">
-<!ENTITY searchHeading.accesskey "ζ">
-<!ENTITY searchSubfolders.label "Αναζήτηση σε υποφακέλους">
-<!ENTITY searchSubfolders.accesskey "ν">
-<!ENTITY searchOnServer.label "Εκτέλεση αναζήτησης στο διακομιστή">
-<!ENTITY searchOnServer.accesskey "κ">
-<!ENTITY resetButton.label "Εκκαθάριση">
-<!ENTITY resetButton.accesskey "θ">
-<!ENTITY openButton.label "Άνοιγμα">
-<!ENTITY openButton.accesskey "γ">
-<!ENTITY deleteButton.label "Διαγραφή">
-<!ENTITY deleteButton.accesskey "Δ">
-<!ENTITY searchDialogTitle.label "Αναζήτηση Μηνυμάτων">
-<!ENTITY results.label "Αποτελέσματα">
-<!ENTITY fileHereMenu.label "Αποθήκευση εδώ">
-<!ENTITY fileHereMenu.accesskey "σ">
-<!ENTITY fileButton.label "Αρχειοθέτηση">
-<!ENTITY fileButton.accesskey "χ">
-<!ENTITY closeCmd.key "W">
-<!ENTITY openInFolder.label "Άνοιγμα σε φάκελο">
-<!ENTITY openInFolder.accesskey "φ">
-<!ENTITY saveAsVFButton.label "Αποθήκευση ως φάκελος αναζήτησης">
-<!ENTITY saveAsVFButton.accesskey "φ">
-<!ENTITY abSearchHeading.label "Αναζήτηση σε:">
-<!ENTITY abSearchHeading.accesskey "ν">
-<!ENTITY propertiesButton.label "Ιδιότητες">
-<!ENTITY propertiesButton.accesskey "δ">
-<!ENTITY composeButton.label "Σύνταξη">
-<!ENTITY composeButton.accesskey "Σ">
-<!ENTITY abSearchDialogTitle.label "Προχωρημένη έρευνα Ευρετηρίου διευθύνσεων">
+<!-- for SearchDialog.xul -->
+<!ENTITY searchHeading.label         "Αναζήτηση σε:">
+<!ENTITY searchHeading.accesskey     "ζ">
+<!ENTITY searchSubfolders.label      "Αναζήτηση σε υποφακέλους">
+<!ENTITY searchSubfolders.accesskey  "ν">
+<!ENTITY searchOnServer.label        "Εκτέλεση αναζήτησης στο διακομιστή">
+<!ENTITY searchOnServer.accesskey    "κ">
+<!ENTITY resetButton.label           "Εκκαθάριση">
+<!ENTITY resetButton.accesskey       "θ">
+<!ENTITY openButton.label            "Άνοιγμα">
+<!ENTITY openButton.accesskey        "γ">
+<!ENTITY deleteButton.label          "Διαγραφή">
+<!ENTITY deleteButton.accesskey      "Δ">
+<!ENTITY searchDialogTitle.label     "Αναζήτηση Μηνυμάτων">
+<!ENTITY results.label               "Αποτελέσματα">
+<!ENTITY moveButton.label            "Move To">
+<!ENTITY moveButton.accesskey        "T">
+<!ENTITY closeCmd.key                "W">
+<!ENTITY openInFolder.label          "Άνοιγμα σε φάκελο">
+<!ENTITY openInFolder.accesskey      "φ">
+<!ENTITY saveAsVFButton.label        "Αποθήκευση ως φάκελος αναζήτησης">
+<!ENTITY saveAsVFButton.accesskey    "φ">
+
+<!-- for ABSearchDialog.xul -->
+<!ENTITY abSearchHeading.label       "Αναζήτηση σε:">
+<!ENTITY abSearchHeading.accesskey   "ν">
+<!ENTITY propertiesButton.label      "Ιδιότητες">
+<!ENTITY propertiesButton.accesskey  "δ">
+<!ENTITY composeButton.label         "Σύνταξη">
+<!ENTITY composeButton.accesskey     "Σ">
+<!ENTITY deleteCardButton.label      "Delete">
+<!ENTITY deleteCardButton.accesskey  "D">
+<!ENTITY abSearchDialogTitle.label   "Προχωρημένη έρευνα Ευρετηρίου διευθύνσεων">
+
+<!-- Thread Pane -->
 <!ENTITY threadColumn.label "Αλληλουχία">
 <!ENTITY fromColumn.label "Από">
 <!ENTITY recipientColumn.label "Παραλήπτης">
+<!ENTITY correspondentColumn.label "Correspondents">
 <!ENTITY subjectColumn.label "Θέμα">
 <!ENTITY dateColumn.label "Ημερομηνία">
 <!ENTITY priorityColumn.label "Προτεραιότητα">
@@ -50,22 +56,25 @@
 <!ENTITY starredColumn.label "Με αστέρι">
 <!ENTITY locationColumn.label "Τοποθεσία">
 <!ENTITY idColumn.label "Σειρά παραλαβής">
-<!ENTITY columnChooser.tooltip "Πατήστε για να επιλέξετε τις στήλες για εμφάνιση">
-<!ENTITY threadColumn.tooltip "Πατήστε για την εμφάνιση αλληλουχιών μηνυμάτων">
-<!ENTITY fromColumn.tooltip "Πατήστε για ταξινόμηση κατά αποστολέα">
-<!ENTITY recipientColumn.tooltip "Πατήστε για ταξινόμηση κατά παραλήπτη">
-<!ENTITY subjectColumn.tooltip "Πατήστε για ταξινόμηση κατά θέμα">
-<!ENTITY dateColumn.tooltip "Πατήστε για ταξινόμηση κατά ημερομηνία">
-<!ENTITY priorityColumn.tooltip "Πατήστε για ταξινόμηση κατά προτεραιότητα">
-<!ENTITY tagsColumn.tooltip "Πατήστε για ταξινόμηση κατά ετικέτα">
-<!ENTITY accountColumn.tooltip "Πατήστε για ταξινόμηση κατά λογαριασμό">
-<!ENTITY statusColumn.tooltip "Πατήστε για ταξινόμηση κατά κατάσταση">
-<!ENTITY sizeColumn.tooltip "Πατήστε για ταξινόμηση κατά μέγεθος">
-<!ENTITY junkStatusColumn.tooltip "Πατήστε για ταξινόμηση κατά κατάσταση">
-<!ENTITY unreadColumn.tooltip "Αριθμός μη αναγνωσμένων μηνυμάτων στην αλληλουχία">
-<!ENTITY totalColumn.tooltip "Συνολικός αριθμός μηνυμάτων στην αλληλουχία">
-<!ENTITY readColumn.tooltip "Πατήστε για ταξινόμηση κατά αναγνωσμένα">
-<!ENTITY receivedColumn.tooltip "Πατήστε για ταξινόμηση κατά ημερομηνία λήψης">
-<!ENTITY starredColumn.tooltip "Πατήστε για ταξινόμηση κατά αστέρι">
-<!ENTITY locationColumn.tooltip "Πατήστε για ταξινόμηση κατά τοποθεσία">
-<!ENTITY idColumn.tooltip "Πατήστε για ταξινόμηση κατά σειρά παραλαβής">
+
+<!-- Thread Pane Tooltips -->
+<!ENTITY columnChooser2.tooltip "Επιλογή στήλών για εμφάνιση">
+<!ENTITY threadColumn2.tooltip "Εμφάνιση αλληλουχιών μηνυμάτων">
+<!ENTITY fromColumn2.tooltip "Ταξινόμηση κατά αποστολέα">
+<!ENTITY recipientColumn2.tooltip "Ταξινόμηση κατά παραλήπτη">
+<!ENTITY correspondentColumn2.tooltip "Sort by correspondents">
+<!ENTITY subjectColumn2.tooltip "Ταξινόμηση κατά θέμα">
+<!ENTITY dateColumn2.tooltip "Ταξινόμηση κατά ημερομηνία">
+<!ENTITY priorityColumn2.tooltip "Ταξινόμηση κατά προτεραιότητα">
+<!ENTITY tagsColumn2.tooltip "Ταξινόμηση κατά ετικέτα">
+<!ENTITY accountColumn2.tooltip "Ταξινόμηση κατά λογαριασμό">
+<!ENTITY statusColumn2.tooltip "Ταξινόμηση κατά κατάσταση">
+<!ENTITY sizeColumn2.tooltip "Ταξινόμηση κατά μέγεθος">
+<!ENTITY junkStatusColumn2.tooltip "Ταξινόμηση κατά κατάσταση">
+<!ENTITY unreadColumn2.tooltip "Αριθμός μη αναγνωσμένων μηνυμάτων στην αλληλουχία">
+<!ENTITY totalColumn2.tooltip "Συνολικός αριθμός μηνυμάτων στην αλληλουχία">
+<!ENTITY readColumn2.tooltip "Ταξινόμηση κατά αναγνωσμένα">
+<!ENTITY receivedColumn2.tooltip "Ταξινόμηση κατά ημερομηνία λήψης">
+<!ENTITY starredColumn2.tooltip "Ταξινόμηση κατά αστέρι">
+<!ENTITY locationColumn2.tooltip "Ταξινόμηση κατά τοποθεσία">
+<!ENTITY idColumn2.tooltip "Ταξινόμηση κατά σειρά παραλαβής">

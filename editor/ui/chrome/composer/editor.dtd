@@ -1,31 +1,48 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY editorWindow.titlemodifier "Composer">
+
+<!-- Window title -->
+<!-- LOCALIZATION NOTE  (editorWindow.titlemodifier): DONT_TRANSLATE -->
+<!ENTITY editorWindow.titlemodifier "Composer"> 
 <!ENTITY editorWindow.titlemodifiermenuseparator " - ">
+
+<!-- Menu items:  the . means that the menu item isn't implemented yet -->
+
+<!-- Toolbar-only items -->
 <!ENTITY compositionToolbar.tooltip "Εργαλειοθήκη σύνταξης">
 <!ENTITY previewToolbarCmd.label "Περιήγηση">
 <!ENTITY previewToolbarCmd.tooltip "Φόρτωση της σελίδας στον περιηγητή">
+
+<!-- File menu items -->
 <!ENTITY exportToTextCmd.label "Εξαγωγή σε κείμενο...">
 <!ENTITY exportToTextCmd.accesskey "μ">
 <!ENTITY previewCmd.label "Περιήγηση σελίδας">
 <!ENTITY previewCmd.accesskey "γ">
 <!ENTITY sendPageCmd.label "Αποστολή σελίδας">
 <!ENTITY sendPageCmd.accesskey "τ">
+
+<!-- View menu items -->
 <!ENTITY compositionToolbarCmd.label "Εργαλειοθήκη σύνταξης">
 <!ENTITY compositionToolbarCmd.accesskey "γ">
 <!ENTITY formattingToolbarCmd.label "Εργαλειοθήκη μορφοποίησης">
 <!ENTITY formattingToolbarCmd.accesskey "μ">
 <!ENTITY editmodeToolbarCmd.label "Εργαλειοθήκη λειτουργίας επεξεργασίας">
 <!ENTITY editmodeToolbarCmd.accesskey "Ε">
+
+<!-- Format menu items -->
 <!ENTITY formatMenu.label "Μορφοποίηση">
 <!ENTITY formatMenu.accesskey "φ">
 <!ENTITY grid.label "Πλέγμα τοποθέτησης">
 <!ENTITY grid.accesskey "τ">
 <!ENTITY pageProperties.label "Τίτλος σελίδας και ιδιότητες">
 <!ENTITY pageProperties.accesskey "λ">
+
+<!-- Tools menu items -->
 <!ENTITY validateCmd.label "Επικύρωση HTML">
 <!ENTITY validateCmd.accesskey "ω">
+
+<!-- Display Mode toolbar and View menu items -->
 <!ENTITY NormalModeTab.label "Τυπική">
 <!ENTITY NormalMode.label "Τυπική λειτουργία επεξεργασίας">
 <!ENTITY NormalMode.accesskey "υ">
@@ -34,6 +51,11 @@
 <!ENTITY AllTagsMode.label "Ετικέτες HTML">
 <!ENTITY AllTagsMode.accesskey "ι">
 <!ENTITY AllTagsMode.tooltip "Προβολή εικονιδίων για όλες τις ετικέτες HTML">
+<!-- LOCALIZATION NOTE: (HTMLSourceModeTab.dir, HTMLSourceModeTab.label)
+     Do NOT translate text for 'HTMLSourceModeTab.dir', use latin "ltr" if
+     you want the <html> image to left of the 'HTMLSourceModeTab.label' text,
+     or use latin "rtl" if you want this image to the right of text. You do
+     not need to include HTML in the label 'HTMLSourceModeTab.label' -->
 <!ENTITY HTMLSourceModeTab.dir "ltr">
 <!ENTITY HTMLSourceModeTab.label "Κώδικας">
 <!ENTITY HTMLSourceMode.label "Κώδικας HTML">

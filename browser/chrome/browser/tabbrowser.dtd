@@ -3,5 +3,3 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  closeTab.label         "Κλείσιμο καρτέλας">
-
-<!ENTITY  newTabButton.tooltip        "Άνοιγμα μιας νέας καρτέλας">

@@ -2,29 +2,32 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY pane.title "Βεβαιώσεις ανάγνωσης">
-<!ENTITY useGlobalPrefs.label "Χρήση των γενικών ρυθμίσεων για αυτόν το λογαριασμό">
-<!ENTITY useGlobalPrefs.accesskey "Χ">
-<!ENTITY useCustomPrefs.label "Προσαρμογή βεβαιώσεων ανάγνωσης για το παρόντα λογαριασμό">
-<!ENTITY useCustomPrefs.accesskey "Π">
-<!ENTITY requestReceipt.label "Κατά την αποστολή μηνυμάτων να ζητείται πάντα βεβαίωση ανάγνωσης">
-<!ENTITY requestReceipt.accesskey "π">
-<!ENTITY receiptArrive.label "Όταν φτάνει μια βεβαίωση:">
-<!ENTITY leaveIt.label "Να παραμένει στα εισερχόμενα">
-<!ENTITY leaveIt.accesskey "ι">
-<!ENTITY moveToSent.label "Μετακίνηση στο φάκελο των απεσταλμένων">
-<!ENTITY moveToSent.accesskey "Μ">
-<!ENTITY requestMDN.label "Όταν γίνεται λήψη αιτήματος βεβαίωση ανάγνωσης:">
-<!ENTITY returnSome.label "Να επιτρέπονται βεβαιώσεις ανάγνωσης για κάποια μηνύματα">
-<!ENTITY returnSome.accesskey "ε">
-<!ENTITY never.label "Να μη γίνεται αποστολή βεβαίωσης">
-<!ENTITY never.accesskey "μ">
-<!ENTITY notInToCc.label "Αν δεν βρίσκομαι στο Προς ή στην Κοιν. του μηνύματος:">
-<!ENTITY notInToCc.accesskey "β">
-<!ENTITY outsideDomain.label "Αν ο αποστολέας είναι έξω από τομέα μου:">
-<!ENTITY outsideDomain.accesskey "τ">
-<!ENTITY otherCases.label "Σε όλες τις άλλες περιπτώσεις:">
-<!ENTITY otherCases.accesskey "λ">
-<!ENTITY askMe.label "Να γίνεται ερώτηση">
-<!ENTITY alwaysSend.label "Να γίνεται πάντα αποστολή">
-<!ENTITY neverSend.label "Να μη γίνεται αποστολή">
+<!ENTITY pane.title                   "Βεβαιώσεις ανάγνωσης">
+<!ENTITY useGlobalPrefs.label         "Χρήση των γενικών ρυθμίσεων για αυτόν το λογαριασμό">
+<!ENTITY useGlobalPrefs.accesskey     "Χ">
+<!ENTITY globalReceipts.label         "Global Preferences…">
+<!ENTITY globalReceipts.accesskey     "G">
+<!ENTITY useCustomPrefs.label         "Προσαρμογή βεβαιώσεων ανάγνωσης για το παρόντα λογαριασμό">
+<!ENTITY useCustomPrefs.accesskey     "Π">
+<!ENTITY requestReceipt.label         "Κατά την αποστολή μηνυμάτων να ζητείται πάντα βεβαίωση ανάγνωσης">
+<!ENTITY requestReceipt.accesskey     "π">
+<!ENTITY receiptArrive.label          "Όταν φτάνει μια βεβαίωση:">
+<!ENTITY leaveIt.label                "Να παραμένει στα εισερχόμενα">
+<!ENTITY leaveIt.accesskey            "ι">
+<!-- LOCALIZATION NOTE moveToSent.label Translate: 'Sent' according to Netscape glossary -->
+<!ENTITY moveToSent.label             "Μετακίνηση στο φάκελο των απεσταλμένων">
+<!ENTITY moveToSent.accesskey         "Μ">
+<!ENTITY requestMDN.label             "Όταν γίνεται λήψη αιτήματος βεβαίωση ανάγνωσης:">
+<!ENTITY returnSome.label             "Να επιτρέπονται βεβαιώσεις ανάγνωσης για κάποια μηνύματα">
+<!ENTITY returnSome.accesskey         "ε">
+<!ENTITY never.label                  "Να μη γίνεται αποστολή βεβαίωσης">
+<!ENTITY never.accesskey              "μ">
+<!ENTITY notInToCc.label              "Αν δεν βρίσκομαι στο Προς ή στην Κοιν. του μηνύματος:">
+<!ENTITY notInToCc.accesskey          "β">
+<!ENTITY outsideDomain.label          "Αν ο αποστολέας είναι έξω από τομέα μου:">
+<!ENTITY outsideDomain.accesskey      "τ">
+<!ENTITY otherCases.label             "Σε όλες τις άλλες περιπτώσεις:">
+<!ENTITY otherCases.accesskey         "λ">
+<!ENTITY askMe.label                  "Να γίνεται ερώτηση">
+<!ENTITY alwaysSend.label             "Να γίνεται πάντα αποστολή">
+<!ENTITY neverSend.label              "Να μη γίνεται αποστολή">

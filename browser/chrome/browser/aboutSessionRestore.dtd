@@ -4,44 +4,47 @@
 
 <!ENTITY restorepage.tabtitle       "Επαναφορά συνεδρίας">
 
+<!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
+     and regret that we are unable to restore the session for the user -->
 <!ENTITY restorepage.errorTitle     "Φαίνεται ότι κάτι δεν πάει καλά.">
-<!-- LOCALIZATION NOTE: If "closed unexpectedly" sounds too awkward in the translation,
-                        you may translate "crash" instead (even though it's IT-speak) -->
-
 <!ENTITY restorepage.problemDesc    "Ο &brandShortName; δεν μπορεί να ανακτήσει τα παράθυρα και τις καρτέλες σας. Αυτό συνήθως συμβαίνει λόγω του ανοίγματος μιας πρόσφατης σελίδας.">
-
-
 <!ENTITY restorepage.tryThis        "Προσπαθήστε να:">
 <!ENTITY restorepage.restoreSome    "Απομακρύνετε μια ή περισσότερες καρτέλες που νομίζετε ότι δημιουργούν το πρόβλημα">
 <!ENTITY restorepage.startNew       "Ξεκινήστε μια νέα συνεδρία">
 
-
-
 <!ENTITY restorepage.tryagainButton "Επαναφορά">
-
-<!ENTITY restorepage.restore.access "ρ">
-
+<!ENTITY restorepage.restore.access "R">
 <!ENTITY restorepage.closeButton    "Κλείσιμο">
-<!ENTITY restorepage.close.access   "Κ">
-
+<!ENTITY restorepage.close.access   "C">
 
 <!ENTITY restorepage.restoreHeader  "Επαναφορά">
 <!ENTITY restorepage.listHeader     "Παραθύρων και καρτελών">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "Παραθύρου &#37;S">
 
-<!-- LOCALIZATION NOTE: The following 'welcomeback' strings are for about:welcomeback,   not for about:sessionstore -->
 
-<!ENTITY welcomeback.tabtitle       "Καλώς ήλθατε πίσω!">
+<!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
+     not for about:sessionstore -->
+
+<!ENTITY welcomeback2.restoreButton  "Φύγαμε!">
+<!ENTITY welcomeback2.restoreButton.access "L">
+
+<!ENTITY welcomeback2.tabtitle      "Επιτυχία!">
+
+<!ENTITY welcomeback2.pageTitle     "Επιτυχία!">
+<!ENTITY welcomeback2.pageInfo1     "Ο &brandShortName; είναι έτοιμος.">
+
+<!ENTITY welcomeback2.label.restoreAll  "Επαναφορά όλων των παραθύρων και καρτελών">
+<!ENTITY welcomeback2.label.restoreSome "Επαναφέρετε μόνο αυτά θέλετε">
 
 
+<!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
+welcomeback2.afterlink.pageInfo2): these two string are used respectively
+before and after the the "learn more" link (welcomeback2.link.pageInfo2).
+Localizers can use one of them, or both, to better adapt this sentence to
+their language.
+-->
+<!ENTITY welcomeback2.beforelink.pageInfo2  "Οι πρόσθετες λειτουργίες σας και οι προσαρμογές σας έχουν αφαιρεθεί και έχει γίνει επαναφορά των ρυθμίσεων του περιηγητή σας. Εάν αυτό δεν διόρθωσε το πρόβλημα, ">
+<!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
- <!-- LOCALIZATION NOTE: The title is intended to be welcoming and congratulatory, expressing joy that the user has successfully migrated their stuff and hope
-that now they have a better experience.  -->
-
-<!ENTITY welcomeback.pageTitle      "Καλώς ήλθατε πίσω!">
-
-<!ENTITY welcomeback.pageInfo       "Ο &brandShortName; αρχικοποίησε με επιτυχία το προφίλ σας. Πιο κάτω βρίσκετε μια λίστα με παράθυρα και καρτέλες που είχατε ανοικτά. Μπορείτε να τα επαναφέρετε ή να ξεκινήσετε μια νέα συνεδρία.">
-
-
-
+<!ENTITY welcomeback2.link.pageInfo2        "μάθετε περισσότερα για το τι μπορείτε να κάνετε.">

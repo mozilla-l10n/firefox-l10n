@@ -7,8 +7,7 @@
 <!ENTITY setupButton.accesskey      "θ">
 <!ENTITY weaveDesc.label            "Με το &syncBrand.fullName.label; μπορείτε να έχετε πρόσβαση στο ιστορικό, τους σελιδοδείκτες, τους κωδικούς και τις ανοικτές καρτέλες σας, μέσω όλων των συσκευών σας.">
 
-
-
+<!-- The page shown when logged in... -->
 
 <!-- Login error feedback -->
 <!ENTITY updatePass.label             "Ενημέρωση">
@@ -17,45 +16,83 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "Διαχείριση λογαριασμού">
 <!ENTITY manageAccount.accesskey      "χ">
+<!ENTITY changePassword2.label        "Αλλαγή κωδικού…">
+<!ENTITY myRecoveryKey.label          "Το κλειδί ανάκτησης">
+<!ENTITY resetSync2.label             "Επαναφορά Sync…">
+
 <!ENTITY pairDevice.label             "Σύνδεση μιας συσκευής">
 
-<!ENTITY changePassword2.label         "Αλλαγή κωδικού…">
-<!ENTITY resetSync2.label              "Επαναφορά Sync…">
-<!ENTITY unlinkDevice.label           "Αποσύνδεση αυτής της συσκευής">
+<!ENTITY syncMy.label               "Συγχρονισμός σε">
+<!ENTITY engine.bookmarks.label     "Σελιδοδείκτες">
+<!ENTITY engine.bookmarks.accesskey "δ">
+<!ENTITY engine.tabs.label          "Καρτέλες">
+<!ENTITY engine.tabs.accesskey      "τ">
+<!ENTITY engine.history.label       "Ιστορικό">
+<!ENTITY engine.history.accesskey   "ρ">
+<!ENTITY engine.passwords.label     "Κωδικοί">
+<!ENTITY engine.passwords.accesskey "δ">
+<!ENTITY engine.prefs.label         "Προτιμήσεις">
+<!ENTITY engine.prefs.accesskey     "ρ">
+<!ENTITY engine.addons.label        "Πρόσθετα">
+<!ENTITY engine.addons.accesskey    "θ">
 
-<!-- Sync Settings -->
-
+<!-- Device Settings -->
 <!ENTITY syncDeviceName.label       "Όνομα συσκευής:">
-
 <!ENTITY syncDeviceName.accesskey   "υ">
-
-
+<!ENTITY fxaSyncDeviceName.label       "Device Name">
+<!ENTITY changeSyncDeviceName.label "Change Device Name…">
+<!ENTITY cancelChangeSyncDeviceName.label "Cancel">
+<!ENTITY saveChangeSyncDeviceName.label "Save">
+<!ENTITY unlinkDevice.label           "Αποσύνδεση αυτής της συσκευής">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Όροι υπηρεσίας">
 <!ENTITY prefs.ppLink.label         "Πολιτική απορρήτου">
 
-<!ENTITY engine.bookmarks.label     "Σελιδοδείκτες">
-<!ENTITY engine.bookmarks.accesskey "δ">
+<!-- Firefox Accounts stuff -->
+<!ENTITY fxaPrivacyNotice.link.label "Privacy Notice">
+<!ENTITY determiningAcctStatus.label     "Determining your account status…">
 
-<!ENTITY engine.history.label       "Ιστορικό">
-<!ENTITY engine.history.accesskey   "ρ">
+<!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
+signedInUnverified.aftername.label): these two string are used respectively
+before and after the account email address. Localizers can use one of them, or
+both, to better adapt this sentence to their language.
+-->
+<!ENTITY signedInUnverified.beforename.label "">
+<!ENTITY signedInUnverified.aftername.label "is not verified.">
 
-<!ENTITY engine.passwords.label     "Κωδικοί">
-<!ENTITY engine.passwords.accesskey "δ">
+<!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
+signedInLoginFailure.aftername.label): these two string are used respectively
+before and after the account email address. Localizers can use one of them, or
+both, to better adapt this sentence to their language.
+-->
+<!ENTITY signedInLoginFailure.beforename.label "Please sign in to reconnect">
+<!ENTITY signedInLoginFailure.aftername.label "">
 
-<!ENTITY engine.prefs.label         "Προτιμήσεις">
-<!ENTITY engine.prefs.accesskey     "ρ">
+<!ENTITY notSignedIn.label           "You are not signed in.">
+<!ENTITY signIn.label                "Sign in">
+<!ENTITY profilePicture.tooltip      "Αλλαγή εικόνας προφίλ">
+<!ENTITY verifiedManage.label        "Διαχείριση λογαριασμού">
+<!ENTITY disconnect.label            "Disconnect…">
+<!ENTITY verify.label                "Verify Email">
+<!ENTITY forget.label                "Forget this Email">
 
-<!ENTITY engine.tabs.label          "Καρτέλες">
-<!ENTITY engine.tabs.accesskey      "τ">
-<!ENTITY engine.addons.label        "Πρόσθετα">
-<!ENTITY engine.addons.accesskey    "θ">
+<!ENTITY welcome.description "Access your tabs, bookmarks, passwords and more wherever you use &brandShortName;.">
+<!ENTITY welcome.signIn.label "Sign In">
+<!ENTITY welcome.createAccount.label "Create Account">
 
-<!ENTITY syncMy.label               "Συγχρονισμός σε">
+<!ENTITY welcome.useOldSync.label "Using an older version of Sync?">
 
+<!ENTITY signedOut.caption            "Πάρτε το διαδίκτυό σας μαζί σας">
+<!ENTITY signedOut.description        "Συγχρονίστε τους σελιδοδείκτες, το ιστορικό, τις καρτέλες, τους κωδικούς, τα πρόσθετα και τις προτιμήσεις σας σε όλες τις συσκευές σας.">
+<!ENTITY signedOut.accountBox.title   "Συνδεθείτε με έναν &syncBrand.fxAccount.label;">
+<!ENTITY signedOut.accountBox.create  "Δημιουργία λογαριασμού">
+<!ENTITY signedOut.accountBox.signin  "Είσοδος">
 
-<!ENTITY myRecoveryKey.label           "Το κλειδί ανάκτησης">
+<!ENTITY signedIn.engines.label       "Συγχρονίστε όλες τις συσκευές σας">
 
-<!ENTITY viewQuota.label              "Προβολή ορίων">
-
+<!ENTITY mobilePromo.start            "Κάντε λήψη του Firefox για ">
+<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+<!ENTITY mobilePromo.androidLink      "Android™">
+<!ENTITY mobilePromo.end              " για να συγχρονίσετε την φορητή συσκευή σας.">
+<!ENTITY androidAttribution           "Το Android αποτελεί εμπορικό σήμα της Google Inc.">

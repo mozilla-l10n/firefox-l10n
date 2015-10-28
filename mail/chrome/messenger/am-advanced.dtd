@@ -2,19 +2,26 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- extracted from am-advanced.xul -->
+
+<!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
 <!ENTITY smtpServer.label "Διακομιστής SMTP">
-<!ENTITY smtpDesc.label "Μόνο ένας διακομιστής εξερχομένων (SMTP) χρειάζεται να καθοριστεί, ακόμα και αν έχετε αρκετούς λογαριασμούς αλληλογραφίας. Πληκτρολογήστε το όνομα του διακομιστή για τα εξερχόμενα μηνύματα.">
-<!ENTITY smtpListAdd.label "Προσθήκη...">
-<!ENTITY smtpListAdd.accesskey "θ">
+
+<!-- LOCALIZATION NOTE (smtpDescription.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpDescription.label "When managing your identities you can use a server from this list by selecting it as the Outgoing Server (SMTP), or you can use the default server from this list by selecting &quot;Use Default Server&quot;.">
+
+<!ENTITY smtpListAdd.label  "Προσθήκη...">
+<!ENTITY smtpListAdd.accesskey  "θ">
 <!ENTITY smtpListEdit.label "Επεξεργασία...">
 <!ENTITY smtpListEdit.accesskey "Ε">
 <!ENTITY smtpListDelete.label "Απομάκρυνση">
 <!ENTITY smtpListDelete.accesskey "μ">
 <!ENTITY smtpListSetDefault.label "Ορισμός ως προεπιλογή">
 <!ENTITY smtpListSetDefault.accesskey "π">
+
 <!ENTITY serverDescription.label "Περιγραφή: ">
 <!ENTITY serverName.label "Όνομα διακομιστή: ">
 <!ENTITY serverPort.label "Θύρα: ">
-<!ENTITY userName.label "Όνομα χρήστη: ">
+<!ENTITY userName.label   "Όνομα χρήστη: ">
 <!ENTITY connectionSecurity.label "Ασφάλεια σύνδεσης: ">
-<!ENTITY authMethod.label "Μέθοδος πιστοποίησης: ">
+<!ENTITY authMethod.label   "Μέθοδος πιστοποίησης: ">

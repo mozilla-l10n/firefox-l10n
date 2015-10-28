@@ -2,36 +2,37 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY toField3.label "Προς ">
-<!ENTITY fromField3.label "Από ">
-<!ENTITY senderField3.label "Αποστολέας ">
-<!ENTITY organizationField3.label "Οργανισμός ">
-<!ENTITY replyToField3.label "Απάντηση σε ">
+<!ENTITY toField4.label "Προς ">
+<!ENTITY fromField4.label "Από ">
+<!ENTITY senderField4.label "Αποστολέας ">
+<!ENTITY organizationField4.label "Οργανισμός ">
+<!ENTITY replyToField4.label "Απάντηση σε ">
 
-<!ENTITY subjectField3.label "Θέμα ">
-<!ENTITY ccField3.label "Κοιν ">
-<!ENTITY bccField3.label "Κρ.κοιν ">
-<!ENTITY newsgroupsField3.label "Ομάδες συζήτησης ">
-<!ENTITY followupToField3.label "Σε συνέχεια του ">
-<!ENTITY tagsHdr3.label "Ετικέτες ">
-<!ENTITY dateField3.label "Ημερομηνία ">
-<!ENTITY userAgentField3.label "User agent ">
-<!ENTITY referencesField3.label "Παραπομπές ">
-<!ENTITY messageIdField3.label "ID μηνύματος ">
-<!ENTITY inReplyToField3.label "Σε απάντηση του ">
-<!ENTITY originalWebsite3.label "Ιστοσελίδα ">
+<!ENTITY subjectField4.label "Θέμα ">
+<!ENTITY ccField4.label "Κοιν ">
+<!ENTITY bccField4.label "Κρ.κοιν ">
+<!ENTITY newsgroupsField4.label "Ομάδες συζήτησης ">
+<!ENTITY followupToField4.label "Σε συνέχεια του ">
+<!ENTITY tagsHdr4.label "Ετικέτες ">
+<!ENTITY dateField4.label "Ημερομηνία ">
+<!ENTITY userAgentField4.label "User agent ">
+<!ENTITY referencesField4.label "Παραπομπές ">
+<!ENTITY messageIdField4.label "ID μηνύματος ">
+<!ENTITY inReplyToField4.label "Σε απάντηση του ">
+<!ENTITY originalWebsite4.label "Ιστοσελίδα ">
 
-<!ENTITY editMessageDescription.label "Αυτό είναι ένα πρόχειρο μήνυμα">
-<!ENTITY editMessageButton.label "Επεξεργασία…">
 <!ENTITY hdrArchiveButton1.label "Αρχειοθέτηση">
 <!ENTITY hdrArchiveButton1.tooltip "Αρχειοθέτηση αυτού του μηνύματος">
 <!ENTITY hdrSmartReplyButton1.label "Έξυπνη απάντηση">
 <!ENTITY hdrReplyButton1.label "Απάντηση">
-<!ENTITY hdrReplyButton1.tooltip "Απάντηση σε αυτό το μήνυμα">
+<!ENTITY hdrReplyButton2.tooltip "Απάντηση στον αποστολέα αυτού του μηνύματος">
 <!ENTITY hdrReplyAllButton1.label "Απάντηση σε όλους">
 <!ENTITY hdrReplyAllButton1.tooltip "Απάντηση στον αποστολέα και σε όλους τους παραλήπτες">
 <!ENTITY hdrReplyListButton1.label "Απάντηση στη λίστα">
 <!ENTITY hdrReplyListButton1.tooltip "Απάντηση στη λίστα αλληλογραφίας">
+<!ENTITY hdrFollowupButton1.label "Followup">
+<!ENTITY hdrFollowupButton1.tooltip "Post a followup to this newsgroup">
+<!ENTITY hdrMenuForwardButton.label "Forward As">
 <!ENTITY hdrForwardButton1.label "Προώθηση">
 <!ENTITY hdrForwardButton1.tooltip "Προώθηση αυτού του μηνύματος">
 <!ENTITY hdrJunkButton1.label "Ανεπιθύμητα">
@@ -48,7 +49,8 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Πάντα προβολή του Απάντηση στον αποστολέα">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "β">
 
-<!ENTITY otherActionsButton1.label "Άλλες ενέργειες">
+<!ENTITY otherActionsButton2.label "More">
+<!ENTITY otherActionsButton.tooltip "Άλλες ενέργειες">
 <!ENTITY otherActionsOpenConversation1.label "Άνοιγμα σε λειτουργία συζήτησης">
 <!ENTITY otherActionsOpenConversation1.accesskey "ζ">
 <!ENTITY otherActionsOpenInNewWindow1.label "Άνοιγμα σε νέο παράθυρο">
@@ -65,6 +67,10 @@
 <!ENTITY viewSourceMenuItem1.accesskey "δ">
 <!ENTITY otherActionsPrint1.label "Εκτύπωση…">
 <!ENTITY otherActionsPrint1.accesskey "π">
+
+<!-- Attachment bar context menu items -->
+<!ENTITY startExpandedCmd.label    "Initially Show Attachment Pane">
+<!ENTITY startExpandedCmd.accesskey    "S">
 
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Άνοιγμα">
@@ -84,6 +90,7 @@
 <!ENTITY deleteAllAttachmentsCmd.label    "Διαγραφή όλων…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "φ">
 
+<!ENTITY openAttachment.tooltip "Open the attached file">
 
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Αποθήκευση">
@@ -100,16 +107,3 @@
 <!ENTITY OpenMessageForMsgId.accesskey "ο">
 <!ENTITY OpenBrowserWithMsgId.label "Άνοιγμα περιηγητή με Message-ID">
 <!ENTITY OpenBrowserWithMsgId.accesskey "π">
-
-<!ENTITY openAttachment.tooltip "Άνοιγμα του συνημμένου αρχείου">
-
-
-
-
-
-
-
-
-
-
-
