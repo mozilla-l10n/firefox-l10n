@@ -718,11 +718,18 @@ ki Android">
 <!ENTITY restriction_disallow_display_settings_title2 "Juk ter me yaro jami">
 <!ENTITY restriction_disallow_clear_history_title2 "Juk \u0027Jwa yeny mukato\u0027">
 <!ENTITY restriction_disallow_master_password_title2 "Juk mung me donyo madit">
-
+<!ENTITY restriction_disallow_guest_browsing_title2 "Juk yeny pa welo">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+
+<!ENTITY bookmarks_about_browser "Firefox: Ikom layeny mamegi">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "Firefox: Yik ki med-ikome">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "Firefox: Cwak">
 <!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
+<!ENTITY bookmarks_marketplace "Cuk pa Firefox">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!ENTITY bookmarks_restricted_support2 "Kony ki cwak pa Firefox pi propwail matye ki kigeng i tablet me Android">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!ENTITY bookmarks_restricted_webmaker "Nong ngec ikom Kakube: Mozilla Webmaker">

@@ -59,10 +59,12 @@
 <!ENTITY sync.summary.pair.label "Kub jami tic mukene i akaunti me &syncBrand.shortName.label;">
 <!-- Configure Engines -->
 
+<!ENTITY sync.configure.engines.title.label "Ngo me atima marom">
+<!ENTITY sync.configure.engines.sync.my.title.label "Tim marom…">
 <!ENTITY sync.configure.engines.title.bookmarks "Alama buk">
-
+<!ENTITY sync.configure.engines.title.passwords2 "Dony iyie">
 <!ENTITY sync.configure.engines.title.history "Gin mukato">
-
+<!ENTITY sync.configure.engines.title.tabs "Dirica matino">
 <!-- Common text -->
 
 <!ENTITY sync.button.cancel.label "Jwik">
@@ -108,31 +110,38 @@
 <!ENTITY sync.title.redirect.to.set.up.sync.label "Kub &syncBrand.shortName.label; pi cwalo dirica matidi">
 <!ENTITY sync.text.redirect.to.set.up.sync.label "Kub &syncBrand.fullName.label; ikom jami tic mamegi w ek icwal dirica matidi ikom jamitic mukene">
 <!ENTITY sync.text.tab.sent.label "Otyeko dong cwalo dirica ni matidi!">
-
+<!ENTITY sync.text.tab.not.sent.label "Peko obedo tye i cwalo dirica matidi ni.">
 <!-- Firefox Account strings. -->
 
 
 <!ENTITY fxaccount_full_label "Akaunt me Firefox">
 
-
+<!ENTITY fxaccount_custom_server_account_title "Tic ki akaunt i lapok tic">
+<!ENTITY fxaccount_custom_server_sync_title "Gwoko data me tic marom i lapok tic">
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
 
-
+<!ENTITY fxaccount_email_hint "Email">
+<!ENTITY fxaccount_password_hint "Mung me donyo">
+<!ENTITY fxaccount_password_hide "Kan">
 <!ENTITY fxaccount_password_show "Nyuti">
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
+
+<!ENTITY fxaccount_back_to_browsing "Dok cen i yeny">
 <!-- Localization note: the following two strings are interpolated
      into fxaccount_create_account_policy_text2; see note for that
      string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
+
+<!ENTITY fxaccount_policy_linktos "Cik me Tic">
 <!ENTITY fxaccount_policy_linkprivacy "Ngec me mung">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Ki joli i &syncBrand.shortName.label;">
-
+<!ENTITY fxaccount_getting_started_description2 "Dony iyie me timo dirica matino, alamabuk, dony iye ki mapol ni marom.">
 <!ENTITY fxaccount_getting_started_get_started "Caki">
 <!ENTITY fxaccount_getting_started_old_firefox "Itye ka tic ki &syncBrand.shortName.label; ma otii?">
 <!-- Localization note: the Firefox below should not change with the
@@ -141,13 +150,13 @@
 
 <!ENTITY fxaccount_create_account_header2 "Cwe akaunt me Firefox">
 <!ENTITY fxaccount_create_account_password_length_restriction "Myero obed olo kit 8">
-
-
+<!ENTITY fxaccount_create_account_day_of_birth "Nino">
+<!ENTITY fxaccount_create_account_month_of_birth "Dwe">
 <!ENTITY fxaccount_create_account_year_of_birth "Mwaka me nywal">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
 <!ENTITY fxaccount_create_account_policy_text2 "Me mede anyim, Aye tic me pol &formatS1; ki &formatS2; pa Firefox.">
 <!ENTITY fxaccount_create_account_button "Malubo">
-
+<!ENTITY fxaccount_create_account_choose_what_to_sync "Yer ngo me atima marom">
 <!ENTITY fxaccount_create_account_sign_in_instead "Akaunt dong tye? Dony iye">
 <!ENTITY fxaccount_create_account_1990_or_earlier "1990 onyo macon">
 <!ENTITY fxaccount_create_account_unknown_error "Pe onongo twero cweyo akaunt">
@@ -163,51 +172,59 @@
 <!ENTITY fxaccount_confirm_account_change_email "Wek wi wil ikom kanonge me email man?">
 <!ENTITY fxaccount_confirm_account_verification_link_sent2 "Kicwalo email me mok">
 <!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Pe onongo twero cwalo email me mok">
+<!ENTITY fxaccount_resend_unlock_code_button_label "Nwo cwalo email me layab">
+<!ENTITY fxaccount_unlock_code_sent "Kicwalo email me yabo akaunt">
+<!ENTITY fxaccount_unlock_code_not_sent "Pe twero cwalo email me yabo akaunt">
 
+<!ENTITY fxaccount_sign_in_sub_header "Dony iyie">
+<!ENTITY fxaccount_sign_in_button_label "Dony iyie">
+<!ENTITY fxaccount_sign_in_forgot_password "Wi owil ikom mung me donyo?">
+<!ENTITY fxaccount_sign_in_create_account_instead "Cwe akaunt">
+<!ENTITY fxaccount_sign_in_unknown_error "Donyo iyie pe otwere">
 
+<!ENTITY fxaccount_account_verified_sub_header "Kimoko akaunt">
+<!ENTITY fxaccount_account_verified_description2 "Data mamegi bi cako tic marom i cawa manok.">
 
+<!ENTITY fxaccount_migration_finished_header "Yilo rwom otum">
 
+<!ENTITY fxaccount_update_credentials_header "Dony iyie">
+<!ENTITY fxaccount_update_credentials_button_label "Dony iyie">
+<!ENTITY fxaccount_update_credentials_unknown_error "Donyo iyie pe otwere">
 
+<!ENTITY fxaccount_finish_migrating_header "Dony iyie wek i tyek yilo rwom">
+<!ENTITY fxaccount_finish_migrating_button_label "Tyek yilo rwom">
+<!ENTITY fxaccount_finish_migrating_description "Yilo rwom twero kobo data madwong. Ber ka itye i netwak me Wi-Fi.">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY fxaccount_status_header2 "Akaunt me Firefox">
+<!ENTITY fxaccount_status_signed_in_as "I donyo iyie calo">
+<!ENTITY fxaccount_status_manage_account "Lo akaunt">
+<!ENTITY fxaccount_status_auth_server "Lapok tic me akaunt">
+<!ENTITY fxaccount_status_sync_now "Tim marom kombedi">
+<!ENTITY fxaccount_status_syncing2 "Timo marom…">
+<!ENTITY fxaccount_status_device_name "Nying nyonyo">
+<!ENTITY fxaccount_status_sync_server "Lapok tic me timo marom">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: ki cako">
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY fxaccount_status_needs_verification2 "Mite ni myero ki mok akaunt mamegi. Gudi me nwoyo cwalo email me mok.">
+<!ENTITY fxaccount_status_needs_credentials "Pe twero kube. Gudi me donyo iyie.">
+<!ENTITY fxaccount_status_needs_upgrade "Myero i yil rwom pa &brandShortName; me donyo iyie.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; dong kitero, ento pe timo marom pire kene. Lok “Auto-sync data” i Ter me Android &gt; Tic ki data.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; dong kitero, ento pe timo marom pire kene. Lok “Auto-sync data” i jami ayera me Ter me Android &gt; Akaunt.">
+<!ENTITY fxaccount_status_needs_finish_migrating "Gudi me donyo iyie akaunt ni manyen me Firefox.">
+<!ENTITY fxaccount_status_bookmarks "Alamabuk">
+<!ENTITY fxaccount_status_history "Gin mukato">
+<!ENTITY fxaccount_status_passwords2 "Dony iyie">
+<!ENTITY fxaccount_status_tabs "Yab dirica matino">
+<!ENTITY fxaccount_status_legal "Cik ye" >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
+<!ENTITY fxaccount_status_linktos "Cik me Tic">
+<!ENTITY fxaccount_status_linkprivacy "Ngec ikom mung">
+<!ENTITY fxaccount_status_more "Mapol&ellipsis;">
 
-
-
+<!ENTITY fxaccount_remove_account_dialog_title "Kwany Akaunt me Firefox?">
 
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
