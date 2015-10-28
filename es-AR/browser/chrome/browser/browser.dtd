@@ -317,8 +317,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Cerrar barra de desarrolladores">
 <!ENTITY devToolbarMenu.label "Barra de desarrolladores">
 <!ENTITY devToolbarMenu.accesskey          "r">
-<!ENTITY devAppMgrMenu.label               "Administrador de aplicaciones">
-<!ENTITY devAppMgrMenu.accesskey           "A">
 <!ENTITY webide.label                      "WebIDE">
 <!ENTITY webide.accesskey                  "W">
 <!ENTITY webide.keycode                    "VK_F8">

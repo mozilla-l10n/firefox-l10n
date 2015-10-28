@@ -146,6 +146,12 @@
      are found. -->
 <!ENTITY overlay_no_synced_devices "No se encontraron dispositivos conectados a Firefox Account">
 
+<!-- Localization note (menu_no_synced_devices): Used in a toast when the user
+     clicks on the button to send a tab to another device and there are no
+     other devices present. This label should briefly inform the user that they
+     need another connected device in order to use the feature. -->
+<!ENTITY menu_no_synced_devices "Enviar esta pestaña a otro dispositivo conectado">
+
 <!ENTITY pref_category_search3 "Buscar">
 <!ENTITY pref_category_search_summary "Personalizar buscadores">
 <!ENTITY pref_category_display "Pantalla">
