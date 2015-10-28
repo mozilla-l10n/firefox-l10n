@@ -26,7 +26,7 @@
 <!ENTITY projectMenu_showPrefs_accesskey "s">
 <!ENTITY projectMenu_manageComponents_label "Upravljanje dodatnim komponentama">
 <!ENTITY projectMenu_manageComponents_accesskey "M">
-
+<!ENTITY projectMenu_refreshTabs_label "Osvježi kartice">
 
 <!ENTITY runtimeMenu_label "Runtime">
 <!ENTITY runtimeMenu_accesskey "R">

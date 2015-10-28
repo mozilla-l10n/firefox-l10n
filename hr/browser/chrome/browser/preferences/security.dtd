@@ -24,7 +24,10 @@
 <!ENTITY  addonExceptions.accesskey     "e">
 
 
+<!ENTITY  logins.label                  "Prijave">
 
+<!ENTITY  rememberLogins.label          "Zapamti prijave za stranice">
+<!ENTITY  rememberLogins.accesskey      "r">
 <!ENTITY  passwordExceptions.label      "Iznimke...">
 <!ENTITY  passwordExceptions.accesskey  "m">
 
@@ -33,4 +36,5 @@
 <!ENTITY  changeMasterPassword.label     "Promijeni glavnu lozinku...">
 <!ENTITY  changeMasterPassword.accesskey "m">
 
-
+<!ENTITY  savedLogins.label              "Spremljene prijave…">
+<!ENTITY  savedLogins.accesskey          "l">
