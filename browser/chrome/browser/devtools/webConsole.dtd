@@ -51,21 +51,23 @@
 <!ENTITY btnPageLogging.label   "Rechistro">
 <!ENTITY btnPageLogging.tooltip "Rechistrar os mensaches l'obchecto window.console">
 <!ENTITY btnPageLogging.accesskey3 "R">
-
-
-
-
+<!ENTITY btnConsoleErrors       "Errors">
+<!ENTITY btnConsoleInfo         "Info">
+<!ENTITY btnConsoleWarnings     "Alvertencias">
+<!ENTITY btnConsoleLog          "Rechistro">
 <!ENTITY btnConsoleXhr          "XHR">
 <!ENTITY btnConsoleReflows      "Reachustes">
 <!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls on the HTTP server. -->
 
-
-
-
-
-
+<!ENTITY btnServerLogging.label       "Servidor">
+<!ENTITY btnServerLogging.tooltip     "Rechistro d'os mensaches recibius dende un servidor web">
+<!ENTITY btnServerLogging.accesskey   "S">
+<!ENTITY btnServerErrors              "Errors">
+<!ENTITY btnServerInfo                "Info">
+<!ENTITY btnServerWarnings            "Alvertencias">
+<!ENTITY btnServerLog                 "Rechistro">
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
 
