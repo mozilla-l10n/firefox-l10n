@@ -89,7 +89,8 @@
 
 <!ENTITY unknownProtocolFound.title "No s'ha entendiu l'adreza">
 <!ENTITY unknownProtocolFound.longDesc "<ul> 
-<li>Podría estar que calese instalar unatro software ta ubrir l'adreza.</li>  </ul>">
+<li>Podría estar que calese instalar unatro software ta ubrir l'adreza.</li> 
+</ul>">
 
 <!ENTITY proxyConnectFailure.title "O servidor proxy ye refusando as connexions">
 <!ENTITY proxyConnectFailure.longDesc "<ul> 

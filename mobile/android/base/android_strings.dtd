@@ -11,15 +11,16 @@
 <!ENTITY  onboard_start_subtext3 "Fe que a tuya experiencia de navegación web mobil siga tuya nomás.">
 <!ENTITY  onboard_start_button_account "Dentrar en &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Encetar navego">
-
+<!ENTITY firstrun_button_next "Siguient">
 
 <!ENTITY  onboard_start_restricted1 "Está-te seguro y con o control con ista versión simplificada de &brandShortName;.">
 
+<!ENTITY firstrun_import_title "Importar">
 <!ENTITY firstrun_import_message "Bienveniu ta &brandShortName;!">
-
-
-
-
+<!ENTITY firstrun_import_subtext "Importar os suyos marcapachinas y historial d\u0027unatro navegador.">
+<!ENTITY firstrun_import_action "Transferir ta &brandShortName;">
+<!ENTITY firstrun_import_dialog_button "Transferir">
+<!ENTITY firstrun_import_progress_title "Se ye transferindo">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -64,9 +65,9 @@
 
 <!ENTITY history_today_section "Hue">
 <!ENTITY history_yesterday_section "Ahiere">
-
-
-
+<!ENTITY history_week_section3 "Zaguers 7 días">
+<!ENTITY history_this_month_section "Iste mes">
+<!ENTITY history_older_section3 "De mas de 6 meses">
 
 <!ENTITY go "Ir-ie">
 <!ENTITY search "Buscar">
@@ -96,6 +97,7 @@
      &formatS; will be replaced with the title of the tab, as received from the
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "Reproducindo audio – &formatS;">
 
 <!ENTITY settings "Opcions">
 <!ENTITY settings_title "Configuración">
@@ -197,9 +199,9 @@
 <!ENTITY pref_home_updates_wifi "Nomás con Wi-Fi">
 <!ENTITY pref_home_suggested_sites "Amostrar sucherencias de puestos">
 <!ENTITY pref_home_suggested_sites_summary "Fer veyer en a pachina d\u0027inicio vinclos t\u0027os puestos que talment trobes interesants">
-
-
-
+<!ENTITY pref_category_home_homepage "Pachina d\u0027inicio">
+<!ENTITY home_homepage_title "Fixar una pachina d\u0027inicio">
+<!ENTITY home_homepage_use_current_tab "Usar a pestanya actual">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "Personalizar">
@@ -364,7 +366,7 @@ size. -->
 <!ENTITY share_title "Compartir por meyo de">
 <!ENTITY share_image_failed "No se puet compartir a imachen">
 <!ENTITY save_as_pdf "Alzar como PDF">
-
+<!ENTITY print "Imprentar">
 <!ENTITY find_in_page "Trobar en a pachina">
 <!ENTITY desktop_mode "Versión d\u0027escritorio">
 <!ENTITY page "Pachina">
@@ -384,7 +386,7 @@ size. -->
 
 <!ENTITY find_text "Trobar en a pachina">
 <!ENTITY find_prev "Anterior">
-
+<!ENTITY find_next "Siguient">
 <!ENTITY find_close "Zarrar">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -409,8 +411,8 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Clavar o puesto">
 <!ENTITY contextmenu_top_sites_unpin "Desclavar o puesto">
 <!ENTITY contextmenu_add_search_engine "Adhibir un motor de busca">
-
-
+<!ENTITY contextmenu_mark_read "Marcar como leyiu">
+<!ENTITY contextmenu_mark_unread "Marcar como no leyiu">
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
@@ -433,6 +435,8 @@ size. -->
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 
+<!ENTITY pref_magnifying_glass_enabled "Ixamplar as arias chicotas">
+<!ENTITY pref_magnifying_glass_enabled_summary "Ixamplar os vinclos y campos de forma quan se toca cerca d\u0027ells">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -580,8 +584,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_insecure "Connexión insegura">
 <!-- Mixed content notifications in site identity popup -->
 
-
-
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; ha blocau o conteniu inseguro d\u0027ista pachina.">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; ha blocau bells elementos inseguros d\u0027ista pachina.">
+<!ENTITY mixed_content_display_loaded1 "Bella parte d\u0027ista pachina no ye segura (p. eix. imachens).">
+<!ENTITY mixed_content_protection_disabled1 "Ha desactivau a protección d\u0027elementos inseguros.">
 <!-- Tracking content notifications in site identity popup -->
 
 <!ENTITY doorhanger_tracking_title "Protección contra o seguimiento">
@@ -599,6 +605,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "S\u0027ha borrau os datos privaus">
 <!ENTITY private_data_fail "Bells datos privaus no s\u0027han puesto borrar">
 
+<!ENTITY bookmarkhistory_button_import "Importar">
 <!ENTITY bookmarkhistory_import_both "Se son importando os marcapachinas y 
 l\u0027historial dende Android">
 <!ENTITY bookmarkhistory_import_bookmarks "Se son importando os 
@@ -714,8 +721,15 @@ dende Android">
 <!ENTITY restriction_disallow_guest_browsing_title2 "Desactivar a navegación \&quot;como convidau\&quot;">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+
+<!ENTITY bookmarks_about_browser "Firefox: Tocant a o suyo navegador">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "Firefox: Personalice con complementos">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "Firefox: Asistencia">
 <!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
+<!ENTITY bookmarks_marketplace "Firefox Marketplace">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!ENTITY bookmarks_restricted_support2 "Aduya y Asistencia de Firefox pa perfils restrinchius en tabletas Android">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!ENTITY bookmarks_restricted_webmaker "Aprende a Web: Mozilla Webmaker">
