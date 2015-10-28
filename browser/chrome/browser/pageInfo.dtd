@@ -19,11 +19,11 @@
 <!ENTITY  generalTab.accesskey  "G">
 <!ENTITY  generalURL            "Indirisso:">
 <!ENTITY  generalType           "Tipo:">
-<!ENTITY  generalMode           "Mòddo de disegno:">
+<!ENTITY  generalMode           "Mòddo de prezentaçion:">
 <!ENTITY  generalSize           "Dimenscion:">
-<!ENTITY  generalReferrer       "Riferio a-a URL:">
+<!ENTITY  generalReferrer       "Riferio a l'indirisso:">
 <!ENTITY  generalSource         "Sorgente cache:">
-<!ENTITY  generalModified       "Modificou">
+<!ENTITY  generalModified       "Cangiou">
 <!ENTITY generalEncoding2 		"Codifica testo:">
 <!ENTITY  generalMetaName       "Nomme">
 <!ENTITY  generalMetaContent    "Contegnuo">

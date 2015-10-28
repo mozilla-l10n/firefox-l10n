@@ -10,7 +10,7 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "No riescio a conettime">
+<!ENTITY connectionFailure.title "No riescio a conetime">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "L'acesso a-a pòrta o l'é dizabilitou pe raxoin de seguessa">
@@ -66,7 +66,7 @@
 <!ENTITY proxyResolveFailure.title "No tròvo o proxy">
 <!ENTITY proxyResolveFailure.longDesc "<ul>
   <li>Contròlla se e inpostaçioin do proxy son giuste.</li>
-  <li>Contròlla se o teu computer o l'à 'na conescion che bonn-a.</li>
+  <li>Contròlla se o teu computer o l'agge 'na conescion che bonn-a.</li>
   <li>Se o teu computer ò ræ son protezui da un firewall ò proxy verifica se &brandShortName; o peu acede a ræ</li>
 </ul>
  ">
@@ -94,7 +94,7 @@
 <!ENTITY sharedLongDesc "<ul>
   <li>O scito o porieiva ese tenporaneamente inacesibile ò tròppo traficou. Preuva torna tra quarche momento.</li>
   <li>Se no ti riesci a caregâ nisciunn-a pagina, preuva a controlâ a conescion do teu computer.</li>
-  <li>Se o teu computer ò a teu conescion en protezui da 'n firewall ò proxy, açertite che &brandShortName; o l'à o permisso de acede a-a Ræ.</li>
+  <li>Se o teu computer ò a teu conescion en protezui da 'n firewall ò proxy, açertite che &brandShortName; o l'agge o permisso de acede a-a Ræ.</li>
 </ul>
 ">
 
