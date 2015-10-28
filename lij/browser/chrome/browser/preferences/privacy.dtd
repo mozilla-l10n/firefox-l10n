@@ -35,7 +35,7 @@
 <!ENTITY  historyHeader.custom.label       "Adeuvia e preferense personalizæ pe a stöia">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "O &brandShortName; o s'aregordia de teu navegaçioin, descaregamenti e stöia de riçerche, e in ciù o tegne i cookie da-i sciti che ti vixiti.">
+<!ENTITY  rememberDescription.label      "&brandShortName; o s'aregòrda de-e teu navegaçioin, descaregamenti e stöia de riçerche, e in ciù o sarva i cookie da-i sciti che ti vixiti.">
 
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
@@ -46,7 +46,7 @@
 <!ENTITY  rememberActions.removeCookies.label "scancelâ cookie scingoli">
 <!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY  dontrememberDescription.label  "O &brandShortName; o l'uziâ e mæxime preferençe da navegaçion priva, e o no se aregordiâ da stöia de teu navegaçioin.">
+<!ENTITY  dontrememberDescription.label  "&brandShortName; o deuvia e mæxime preferense da-a navegaçion privâ, e o no se aregòrda da stöia de teu navegaçioin.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
@@ -57,13 +57,13 @@
 <!ENTITY  privateBrowsingPermanent2.label "Deuvia de longo o mòddo de navegaçion privou">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
-<!ENTITY  rememberHistory2.label      "Aregòrda da mæ stöia de navegaçion e descaregamenti">
+<!ENTITY  rememberHistory2.label      "Aregòrda a stöia de navegaçion e descaregamenti">
 <!ENTITY  rememberHistory2.accesskey  "ç">
 
 <!ENTITY  rememberSearchForm.label       "Aregòrda e riçerche e a stöia di mòdoli">
 <!ENTITY  rememberSearchForm.accesskey   "l">
 
-<!ENTITY  clearOnClose.label             "Scancella a stöia quando o &brandShortName; o se særa">
+<!ENTITY  clearOnClose.label             "Scancella a stöia quande særa o &brandShortName;">
 <!ENTITY  clearOnClose.accesskey         "r">
 
 <!ENTITY  clearOnCloseSettings.label     "Inpostaçioin…">
@@ -86,7 +86,7 @@
 <!ENTITY locbar.history.accesskey "n">
 <!ENTITY locbar.openpage.label "feuggi averti">
 <!ENTITY locbar.openpage.accesskey "g">
-<!ENTITY locbar.searches.label "riçerche corelæ dò-u motô de riçerca predefinio">
+<!ENTITY locbar.searches.label "riçerche corelæ do-u motô de riçerca predefinio">
 <!ENTITY locbar.searches.accesskey "h">
 <!ENTITY locbar.suggest.label "Inta bara di indirissi fanni vedde conseggi da:">
 <!ENTITY suggestionSettings.accesskey "s">

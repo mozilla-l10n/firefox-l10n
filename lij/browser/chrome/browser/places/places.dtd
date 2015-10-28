@@ -31,7 +31,7 @@
 <!ENTITY importBookmarksFromHTML.accesskey "I">
 <!ENTITY exportBookmarksToHTML.label       "Espòrta Segnalibbri a HTML…">
 <!ENTITY exportBookmarksToHTML.accesskey   "E">
-<!ENTITY importOtherBrowser.label          "Inportâ dæti da un atro navegato…">
+<!ENTITY importOtherBrowser.label          "Inportâ dæti da un atro navegatô…">
 <!ENTITY importOtherBrowser.accesskey      "a">
 
 <!ENTITY cmd.backup.label               "Fanni 'na còpia de seguessa…">

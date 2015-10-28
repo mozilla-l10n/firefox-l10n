@@ -20,7 +20,7 @@
 <!ENTITY language.auto                             "Scoverta outomatica">
 <!ENTITY defaultBrowser.title                      "Navegatô predefinio">
 <!ENTITY defaultBrowser.description                "Fanni diventâ &brandShortName; o teu navegatô preferio">
-<!ENTITY homepage.title                            "Pagina iniçiâ">
+<!ENTITY homepage.title                            "Pagina prinçipâ">
 <!ENTITY homepage.none                             "Pagina gianca">
 <!ENTITY homepage.default                          "Iniçio do &brandShortName;">
 <!ENTITY homepage.currentpage                      "Adeuvia a pagina corente">

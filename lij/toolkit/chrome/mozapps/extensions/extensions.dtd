@@ -123,7 +123,7 @@
 <!ENTITY detail.version.label                 "Verscion">
 <!ENTITY detail.lastupdated.label             "Agiornou">
 <!ENTITY detail.creator.label                 "Svilupatô">
-<!ENTITY detail.homepage.label                "Pagina Iniçiâ">
+<!ENTITY detail.homepage.label                "Pagina Prinçipâ">
 <!ENTITY detail.numberOfDownloads.label       "Descaregamenti">
 
 <!ENTITY detail.contributions.description     "O svilupatô de sto conponente azonto te domanda se t'eu contriboî con quarche palanca.">
@@ -135,7 +135,7 @@
 <!ENTITY detail.updateAutomatic.tooltip       "Installa i agiornamenti in aotomatico">
 <!ENTITY detail.updateManual.label            "Asmòrtou">
 <!ENTITY detail.updateManual.tooltip          "No instalâ agiornamenti in aotomatico">
-<!ENTITY detail.home                          "Pagina Iniçiâ">
+<!ENTITY detail.home                          "Pagina Prinçipâ">
 <!ENTITY detail.repository                    "Profî do conponente azonto">
 <!ENTITY detail.size                          "Dimenscion">
 
@@ -174,7 +174,7 @@
 <!ENTITY search.filter2.available.label       "Conponenti azonti disponibili">
 <!ENTITY search.filter2.available.tooltip     "Fanni vedde i conponenti azonti che se peuan instalâ">
 
-<!ENTITY addon.homepage                       "Pagina Iniçiâ">
+<!ENTITY addon.homepage                       "Pagina Prinçipâ">
 <!ENTITY addon.details.label                  "Ciù">
 <!ENTITY addon.details.tooltip                "Fanni vedde ciù informaçioin rigoardo sto conponente azonto">
 <!ENTITY addon.unknownDate                    "no conosciuo">

@@ -15,7 +15,7 @@
 <!ENTITY  awesomebar_search_engine "Çerca \&quot;&#037;s\&quot;">
 
 <!ENTITY  crash_reporter_title "Report di cianti do &brandShortName;">
-<!ENTITY  crash_message "O &brandShortName; o se ciantou. I teu feuggi doven ese inta pagina iniçiâ de &brandShortName; quande ti reavii.">
+<!ENTITY  crash_message "O &brandShortName; o se ciantou. I teu feuggi doven ese inta pagina prinçipâ de &brandShortName; quande ti reavii.">
 <!ENTITY  crash_help_message "Pe piaxei danni un agiutto pe scistemâ sto problema!">
 <!ENTITY  crash_send_report_message "Manda a Mozilla \'n report do cianto">
 <!ENTITY  crash_include_url "Mettighe l\'indirisso da pagina">

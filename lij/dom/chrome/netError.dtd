@@ -29,7 +29,7 @@
 <!ENTITY netInterrupt.longDesc "<p>O navegatô o s'é conesso ma a conescion a l'é stæta fermâ fintanto che o trasferiva e informaçioin.  Pe piaxei preuva torna.</p><ul><li>No ti riesci a navegâ in sci atri sciti? Contròlla a conescion do teu computer.</li><li>Ti gh'é torna di problemi? Ciamma o teu aministratô de ræ ò fornitô de serviççi internet.</li></ul>">
 
 <!ENTITY notCached.title "Documento scheito">
-<!ENTITY notCached.longDesc "<p>O documento domandou o no gh'é inta cache do navegato.</p><ul><li>Pe seguessa o navegatô no domanda in aotomatico documenti senscibili.</li><li>Sciacca Preuva torna pe domandâ torna o documento a-o scito .</li></ul>">
+<!ENTITY notCached.longDesc "<p>O documento domandou o no gh'é inta cache do navegatô.</p><ul><li>Pe seguessa o navegatô no domanda in aotomatico documenti senscibili.</li><li>Sciacca Preuva torna pe domandâ torna o documento a-o scito .</li></ul>">
 
 <!ENTITY netOffline.title "Feua linia">
 <!ENTITY netOffline.longDesc2 "<p>O navegatô o l'é into mòddo feua linia e o no peu colegase a l'ògetto çernuo.</p><ul><li>O computer o l'é conesso a 'na ræ ativa?</li><li>Sciacca &quot;Preuva Torna&quot; pe pasâ a-o mòddo in linia e caregâ torna a pagina.</li></ul>">

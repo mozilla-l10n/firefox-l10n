@@ -6,11 +6,11 @@
 
 <!ENTITY startupPage.label         "Quande &brandShortName; o s'arve:">
 <!ENTITY startupPage.accesskey     "Q">
-<!ENTITY startupHomePage.label     "Fanni vedde a mæ pagina iniçiâ">
+<!ENTITY startupHomePage.label     "Fanni vedde a mæ pagina prinçipâ">
 <!ENTITY startupBlankPage.label    "Fanni vedde 'na pagina gianca">
 <!ENTITY startupLastSession.label  "Fanni vedde i mæ barcoin e feuggi averti l'urtima vòtta">
 
-<!ENTITY homepage.label            "Pagina iniçia:">
+<!ENTITY homepage.label            "Pagina prinçipâ:">
 <!ENTITY homepage.accesskey        "P">
 <!ENTITY useCurrentPage.label      "Adeuvia a pagina corente">
 <!ENTITY useCurrentPage.accesskey  "c">
