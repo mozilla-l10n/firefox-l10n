@@ -38,32 +38,46 @@
      folders or opens new tabs.  (When inactive, only the state of the text
      filters are propagated between folder changes and when opening new tabs.)
      -->
+
+<!ENTITY quickFilterBar.sticky.tooltip "Jildlar yoqilganda/o‘chirilganda filterlarni saqlash">
 <!-- LOCALIZATION NOTE (quickFilterBar.unread.label):
      The label for the filter button that causes us to filter results to only
      include unread messages.
      -->
+
+<!ENTITY quickFilterBar.unread.label "O‘qilmagan">
 <!-- LOCALIZATION NOTE (quickFilterBar.unread.tooltip):
      The tooltip for the filter button that causes us to filter results to only
      include unread messages.
      -->
+
+<!ENTITY quickFilterBar.unread.tooltip "Faqat o‘qilmagan xabarlarni ko‘rsatish">
 <!-- LOCALIZATION NOTE (quickFilterBar.starred.label):
      The label for the filter button that causes us to filter results to only
      include messages that have been starred/flagged.
      -->
+
+<!ENTITY quickFilterBar.starred.label "Yulduz qo‘yilgan">
 <!-- LOCALIZATION NOTE (quickFilterBar.starred.tooltip):
      The tooltip for the filter button that causes us to filter results to only
      include messages that have been starred/flagged.
      -->
+
+<!ENTITY quickFilterBar.starred.tooltip "Faqat yulduz qo‘yilgan xabarlarni ko‘rsatish">
 <!-- LOCALIZATION NOTE (quickFilterBar.inaddrbook.label):
      The label for the filter button that causes us to filter results to only
      include messages from contacts in one of the user's non-remote address
      books.
      -->
+
+<!ENTITY quickFilterBar.inaddrbook.label "Kontakt">
 <!-- LOCALIZATION NOTE (quickFilterBar.inaddrbook.tooltip):
      The tooltip for the filter button that causes us to filter results to only
      include messages from contacts in one of the user's non-remote address
      books.
      -->
+
+<!ENTITY quickFilterBar.inaddrbook.tooltip "Faqat manzil kitobingizdagi odamlarning xabarlarini ko‘rsatish">
 <!-- LOCALIZATION NOTE (quickFilterBar.tags.label):
      The label for the filter button that causes us to filter results to only
      include messages with at least one tag on them.
@@ -74,14 +88,20 @@
      The tooltip for the filter button that causes us to filter results to only
      include messages with at least one tag on them.
      -->
+
+<!ENTITY quickFilterBar.tags.tooltip "Faqat teg bilan belgilangan xabarlarni ko‘rsatish">
 <!-- LOCALIZATION NOTE (quickFilterBar.attachment.label):
      The label for the filter button that causes us to filter results to only
      include messages with attachments.
      -->
+
+<!ENTITY quickFilterBar.attachment.label "Biriktirma">
 <!-- LOCALIZATION NOTE (quickFilterBar.attachment.tooltip):
      The tooltip for the filter button that causes us to filter results to only
      include messages with attachments.
      -->
+
+<!ENTITY quickFilterBar.attachment.tooltip "Faqat biriktirmasi bor xabarlarni ko‘rsatish">
 <!-- LOCALIZATION NOTE (quickFilterBar.resultsLabel.some.formatString):
      This is used to populate the results box; it either displays the
      number of messages found using this string, that there are no messages
@@ -91,10 +111,14 @@
      see the following URL For more information:
      https://developer.mozilla.org/En/Localization_and_Plurals
      -->
+
+<!ENTITY quickFilterBar.resultsLabel.some.formatString "#1 ta xabar;#1 ta xabar">
 <!-- LOCALIZATION NOTE (quickFilterBar.resultsLabel.none):
      The contents of the results box when there is a filter active but there
      are no messages matching the filter.
      -->
+
+<!ENTITY quickFilterBar.resultsLabel.none "Hech nima topilmadi">
 <!-- LOCALIZATION NOTE (quickFilterBar.resultsLabel.minWidth):
      The minimum width, in pixels, of the results label.  Please size this
      so that a 3 or 4 digit number of messages in the results can be displayed
@@ -104,6 +128,8 @@
      size of the text box to the label's right.  (If your string for
      "no results" is longer than the "#### messages" case, then size for that.
      -->
+
+<!ENTITY quickFilterBar.resultsLabel.minWidth "100">
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.base):
      This is the base of the empty text for the text search box.  We replace
      #1 with the contents of the appropriate
@@ -112,42 +138,64 @@
      the messages and that there is a hotkey they can press to get to the
      box faster.
      -->
+
+<!ENTITY quickFilterBar.textbox.emptyText.base "Ushbu xabarlarni filterlash... #1">
 <!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
      This is the key used to show the quick filter bar. -->
+
+<!ENTITY quickFilterBar.show.key2 "k">
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.keyLabel.nonmac):
      The description of the key-binding to get into the box on windows and
      linux (which use the control key).  This should match the value of
      quickFilterBar.show.key above.
      -->
+
+<!ENTITY quickFilterBar.textbox.emptyText.keyLabel2.nonmac "&lt;Ctrl+Shift+K&gt;">
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.keyLabel.mac):
      The description of the key-binding to get into the box on mac systems.
      This should match the value of quickFilterBar.show.key above.
      -->
+
+<!ENTITY quickFilterBar.textbox.emptyText.keyLabel2.mac "&lt;&#x21E7;&#x2318;K&gt;">
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanMode.tooltip):
      Tooltip of the Any of / All of tagging mode selector.
      -->
+
+<!ENTITY quickFilterBar.booleanMode.tooltip "Filterlash rejimini teglash">
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAny.label):
      Tooltip of the Any of / All of tagging mode selector.
      -->
+
+<!ENTITY quickFilterBar.booleanModeAny.label "Istalgan:">
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAny.tooltip):
      Tooltip of the Any of / All of tagging mode selector.
      -->
+
+<!ENTITY quickFilterBar.booleanModeAny.tooltip "Kamida tanlangan teg kreteriyasining bittasiga mos keluvchi">
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAll.label):
      Tooltip of the Any of / All of tagging mode selector.
      -->
+
+<!ENTITY quickFilterBar.booleanModeAll.label "Barchasi:">
 <!-- LOCALIZATION NOTE (quickFilterBar.booleanModeAll.tooltip):
      Tooltip of the Any of / All of tagging mode selector.
      -->
+
+<!ENTITY quickFilterBar.booleanModeAll.tooltip "Tanlangan teg kreteriyasining barchasiga mos keluvchi">
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.idealWidth):
      The number of pixels for the ideal width of the quick filter box textbox.
      Choose this value so that the emptyText fits nicely with a little bit of
      extra whitespace.
      -->
+
+<!ENTITY quickFilterBar.textbox.idealWidth "320">
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.minWidth):
      The minimum width of the quick filter textbox in pixels.  This is the size
      which we should refuse to flex below.  When we hit this size, the buttons
      with labels will have their labels collapsed.
      -->
+
+<!ENTITY quickFilterBar.textbox.minWidth "280">
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.explanation.label):
      This label explains what the sender/recipients/subject/body buttons do.
      This string should ideally be kept short because the label and the text
@@ -156,27 +204,41 @@
      tag sub-bar wants as much space as possible.  (Overflow is handled by an
      arrow scroll box.)
      -->
+
+<!ENTITY quickFilterBar.textFilter.explanation.label "Xabarlarni quyidagi bo‘yicha filterlash:">
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.sender.label):
      The button label that toggles whether the text filter searches the message
      sender for the string.
      -->
+
+<!ENTITY quickFilterBar.textFilter.sender.label "Jo‘natuvchi">
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.recipients.label):
      The button label that toggles whether the text filter searches the message
      recipients (to, cc) for the string.
      -->
+
+<!ENTITY quickFilterBar.textFilter.recipients.label "Qabul qiuvchilar">
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.subject.label):
      The button label that toggles whether the text filter searches the message
      subject for the string.
      -->
+
+<!ENTITY quickFilterBar.textFilter.subject.label "Mavzu">
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.body.label):
      The button label that toggles whether the text filter searches the message
      body for the string.
      -->
+
+<!ENTITY quickFilterBar.textFilter.body.label "Mazmuni">
 <!-- LOCALIZATION NOTE (quickFilterBar.glodaUpsell.continueSearch):
      The first line of the panel popup that tells the user we found no matches
      but we can convert to a global search for them.
      -->
+
+<!ENTITY quickFilterBar.glodaUpsell.continueSearch "Ushbu qidiruvni barcha jildlar bo‘ylab davom etish">
 <!-- LOCALIZATION NOTE (quickFilterBar.glodaUpsell.pressEnterAndCurrent):
      The second line of the panel popup that tells the user we found no matches.
      This line will have #1 replaced with what the user has typed so far.
      -->
+
+<!ENTITY quickFilterBar.glodaUpsell.pressEnterAndCurrent "#1 uchun qidiruvni davom yana davom ettirish uchun &quot;Enter&quot; tugmasini bosing">
