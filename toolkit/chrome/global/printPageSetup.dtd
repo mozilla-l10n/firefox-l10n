@@ -37,22 +37,22 @@
 <!ENTITY marginTop.accesskey "I">
 <!ENTITY marginBottom.label  "In fondo:">
 <!ENTITY marginBottom.accesskey "I">
-<!ENTITY marginLeft.label    "Scinistra:">
+<!ENTITY marginLeft.label    "Mancinn-a:">
 <!ENTITY marginLeft.accesskey "S">
-<!ENTITY marginRight.label   "Destra:">
+<!ENTITY marginRight.label   "Drita:">
 <!ENTITY marginRight.accesskey "r">
 
 <!ENTITY headerFooter.label  "Testâ &amp; Fondo">
 
-<!ENTITY hfLeft.label        "Scinistra:">
+<!ENTITY hfLeft.label        "Mancinn-a:">
 <!ENTITY hfCenter.label      "Centro:">
-<!ENTITY hfRight.label       "Destra:">
-<!ENTITY headerLeft.tip      "Testâ a scinistra">
+<!ENTITY hfRight.label       "Drita:">
+<!ENTITY headerLeft.tip      "Testâ a mancinn-a">
 <!ENTITY headerCenter.tip    "Testâ a-o centro">
-<!ENTITY headerRight.tip     "Testâ a destra">
-<!ENTITY footerLeft.tip      "Testâ a scinistra">
+<!ENTITY headerRight.tip     "Testâ a drita">
+<!ENTITY footerLeft.tip      "Testâ a mancinn-a">
 <!ENTITY footerCenter.tip    "Fondo a-o centro ">
-<!ENTITY footerRight.tip     "Fondo a destra">
+<!ENTITY footerRight.tip     "Fondo a drita">
 
 <!ENTITY hfTitle             "Titolo">
 <!ENTITY hfURL               "URL">
