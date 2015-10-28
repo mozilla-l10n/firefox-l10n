@@ -9,7 +9,7 @@
 <!ENTITY provideSearchSuggestions.label        "Povolit našeptávání">
 <!ENTITY provideSearchSuggestions.accesskey    "n">
 
-<!ENTITY showURLBarSuggestions.label           "Zobrazovat návrhy ve výsledcích adresního řádku.">
+<!ENTITY showURLBarSuggestions.label           "Zobrazovat návrhy ve výsledcích adresního řádku">
 <!ENTITY showURLBarSuggestions.accesskey       "l">
 
 <!ENTITY redirectWindowsSearch.label "Použít tento vyhledávací modul pro vyhledávání ze systému Windows">
