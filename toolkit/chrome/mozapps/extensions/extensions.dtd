@@ -205,7 +205,7 @@
 
 <!ENTITY addon.createdBy.label                "Da ">
 
-<!ENTITY eula.title                           "Licensa do utilizatô">
+<!ENTITY eula.title                           "Licensa de l'utente">
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
 <!ENTITY eula.accept                          "Acetta e installa…">

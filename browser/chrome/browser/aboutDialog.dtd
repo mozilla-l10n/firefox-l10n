@@ -1,9 +1,9 @@
 <!ENTITY aboutDialog.title          "Informaçioin rigoardo &brandFullName;">
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
-<!ENTITY warningDesc.version        "&brandShortName; o l'é sperimentale e peu ese instabile.">
+<!ENTITY warningDesc.version        "&brandShortName; o l'é sperimentale e o peu ese instabile.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetry): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc     "Quindi o manda in aotomatico informaçioin in sci test a &vendorShortName; pe agiutâ a megiorâ &brandShortName;.">
+<!ENTITY warningDesc.telemetryDesc     "Quindi o manda in aotomatico informaçioin in sci test a &vendorShortName; pe agiutâ a megioâ &brandShortName;.">
 
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 <!ENTITY community.exp.start        "">
@@ -12,7 +12,7 @@
 <!ENTITY community.exp.middle       " a l'é 'na ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "comunitæ globale">
-<!ENTITY community.exp.end          " ch'a travaggia insemme pe mantegnî a Ræ averta, publica e acesibile a tutti.">
+<!ENTITY community.exp.end          " ch'a travaggia insemme pe mantegnî a Ræ averta, pubrica e acesibile a tutti.">
 
 <!ENTITY community.start2           "&brandShortName; o l'é fæto da ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
@@ -20,13 +20,13 @@
 <!ENTITY community.middle2          ", 'na ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "comunitæ globale">
-<!ENTITY community.end3             " ch'a travaggia insemme pe mantegnî a Ræ averta, publica e acesibile a tutti.">
+<!ENTITY community.end3             " ch'a travaggia insemme pe mantegnî a Ræ averta, pubrica e acesibile a tutti.">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 <!ENTITY bottomLinks.license        "Informaçion de licensa">
 
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
-<!ENTITY bottomLinks.rights         "Diritti de l'utilizatô">
+<!ENTITY bottomLinks.rights         "Diritti de l'utente">
 
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
 <!ENTITY bottomLinks.privacy        "Politica da Privacy">
@@ -37,7 +37,7 @@
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; o l'é agiornou">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "I agiornamenti son dizabilitæ da-o teu aministratô do scistema">
+<!ENTITY update.adminDisabled       "I agiornamenti en dizabilitæ da-o teu aministratô do scistema">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
@@ -52,7 +52,7 @@
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.manual.start        "I agiornamenti son in ">
+<!ENTITY update.manual.start        "I agiornamenti en in ">
 <!ENTITY update.manual.end          "">
 
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
@@ -73,7 +73,7 @@
 <!ENTITY update.otherInstanceHandlingUpdates "Agiornamento de &brandShortName; inte n'atra istansa">
 <!ENTITY update.unsupported.end "">
 <!ENTITY update.unsupported.linkText "Atre informaçioin">
-<!ENTITY update.unsupported.start "No l'é poscibile instalâ atri agiornamenti in sce questo scistema.">
+<!ENTITY update.unsupported.start "No l'é poscibile instalâ atri agiornamenti in sce sto scistema.">
 
 <!ENTITY update.applyButtonBillboard.label "Installa agiornamento…">
 <!ENTITY update.applyButtonBillboard.accesskey "n">

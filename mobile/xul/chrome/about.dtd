@@ -1,8 +1,8 @@
 <!ENTITY aboutPage.title                        "Informaçioin rigoardo &brandShortName;">
-<!ENTITY aboutPage.warningVersion               "&brandShortName; o l'é sperimentale e peu ese instabile.">
+<!ENTITY aboutPage.warningVersion               "&brandShortName; o l'é sperimentale e o peu ese instabile.">
 <!ENTITY aboutPage.telemetryStart               "O manda de informaçioin in sce prestaçioin, hardware, uzo e personalizaçioin in aotomatico inderê ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 "pe agiutâ a megiorâ &brandShortName;. ">
+<!ENTITY aboutPage.telemetryEnd                 "pe agiutâ a megioâ &brandShortName;. ">
 <!ENTITY aboutPage.faq.label                    "FAQ">
 <!ENTITY aboutPage.support.label                "Agiutto">
 <!ENTITY aboutPage.privacyPolicy.label          "Politica da Privacy">
@@ -18,6 +18,6 @@
 <!-- LOCALIZATION NOTE:
      These strings are concatenated in order. Unneeded strings may be left blank.
 -->
-<!ENTITY aboutPage.licenseLink                  "Informaçion de licensa">
+<!ENTITY aboutPage.licenseLink                  "Informaçioin de licensa">
 <!ENTITY aboutPage.licenseLinkSuffix            ".">
 
