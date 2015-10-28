@@ -765,7 +765,7 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY trackingProtection.notDetected3 "Nie wykryto elementów śledzących aktywność użytkownika na tej stronie.">
 <!ENTITY trackingProtection.unblock.label "Wyłącz ochronę dla tej strony">
 <!ENTITY trackingProtection.unblock.accesskey "W">
-<!ENTITY trackingProtection.unblockPrivate.label "Wyłącz ochronę w oknie prywatnym">
+<!ENTITY trackingProtection.unblockPrivate.label "Wyłącz ochronę w tym oknie prywatnym">
 <!ENTITY trackingProtection.unblockPrivate.accesskey "W">
 <!ENTITY trackingProtection.block2.label "Włącz ochronę dla tej strony">
 <!ENTITY trackingProtection.block2.accesskey "W">
