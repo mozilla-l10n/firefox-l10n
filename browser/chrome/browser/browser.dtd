@@ -406,11 +406,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Bilaketen esperientzia hobetu nahi duzu gomendioekin?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Argibide gehiago…">
-
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "A">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Ez">
-
+<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "E">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Bai">
-
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "B">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
