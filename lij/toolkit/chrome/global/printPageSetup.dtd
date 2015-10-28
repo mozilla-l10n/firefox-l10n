@@ -6,9 +6,9 @@
 
 <!ENTITY printSetup.title    "Inpostaçioin da pagina">
 
-<!ENTITY basic.tab           "Formato &amp; Inpostaçion">
+<!ENTITY basic.tab           "Formou &amp; Inpostaçion">
 
-<!ENTITY formatGroup.label   "Formato">
+<!ENTITY formatGroup.label   "Formou">
 
 <!ENTITY orientation.label   "Poxiçion:">
 <!ENTITY portrait.label      "Drito">
