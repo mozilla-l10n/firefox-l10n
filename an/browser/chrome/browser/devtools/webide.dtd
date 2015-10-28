@@ -26,7 +26,7 @@
 <!ENTITY projectMenu_showPrefs_accesskey "e">
 <!ENTITY projectMenu_manageComponents_label "Chestionar components extra">
 <!ENTITY projectMenu_manageComponents_accesskey "M">
-
+<!ENTITY projectMenu_refreshTabs_label "Esviella as pestanyas">
 
 <!ENTITY runtimeMenu_label "Execución">
 <!ENTITY runtimeMenu_accesskey "X">

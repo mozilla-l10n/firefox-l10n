@@ -53,13 +53,13 @@
   -  in the toolbar on buttons that select which view is currently shown. -->
 
 <!ENTITY performanceUI.toolbar.waterfall "Cascada">
-
+<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Amuestra as diferents operacions que o navegador fa entre o experimento, configuradas sequencialment como una cayida d'augua.">
 <!ENTITY performanceUI.toolbar.js-calltree "Arbol de clamadas">
-
+<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Destaca as funcions JavaScript a on o navegador pasa a mas gran parte d'o tiempo de rechistro.">
 <!ENTITY performanceUI.toolbar.memory-calltree "Aplicacions">
-
+<!ENTITY performanceUI.toolbar.allocations.tooltiptext "Amuestra a ón s'ha asignau memoria entre os rechistros.">
 <!ENTITY performanceUI.toolbar.js-flamegraph "Diagrama de Flama JS">
-
+<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Amuestra a pila de clamadas de JavaScript sobre a evolución d'o rechistro.">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "Grafico de flama d'asignacions">
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
