@@ -219,8 +219,6 @@
 <!ENTITY devToolbarCloseButton.tooltiptext "Cerrar la barra de desarrolladores">
 <!ENTITY devToolbarMenu.label "Barra de desarrolladores">
 <!ENTITY devToolbarMenu.accesskey "B">
-<!ENTITY devAppMgrMenu.label "Administrador de aplicaciones">
-<!ENTITY devAppMgrMenu.accesskey "A">
 <!ENTITY webide.label "WebIDE">
 <!ENTITY webide.accesskey "W">
 <!ENTITY webide.keycode "VK_F8">
