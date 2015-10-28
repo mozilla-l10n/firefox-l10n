@@ -26,7 +26,7 @@
 
 <!ENTITY  useMasterPassword.label        "Adeuvia 'na paròlla segreta prinçipâ">
 <!ENTITY  useMasterPassword.accesskey    "p">
-<!ENTITY  changeMasterPassword.label     "Cangia a paròlla segreta prinçipa…">
+<!ENTITY  changeMasterPassword.label     "Cangia a paròlla segreta prinçipâ…">
 <!ENTITY  changeMasterPassword.accesskey "C"><!ENTITY savedLogins.label "Accessi sarvæ">
 <!ENTITY savedLogins.accesskey "s">
 <!ENTITY logins.label "Acessi">

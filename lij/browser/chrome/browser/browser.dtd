@@ -458,7 +458,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
-<!ENTITY fullZoomResetCmd.label         "Reinpòsta">
+<!ENTITY fullZoomResetCmd.label         "Inpòsta torna">
 <!ENTITY fullZoomResetCmd.accesskey     "R">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
@@ -534,16 +534,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.passiveLoaded "Quarche elemento de sta pagina no en segui (prezempio inmagini).">
 <!ENTITY identity.activeLoaded "A proteçion a l'é dizativâ pe sta pagina.">
 <!ENTITY identity.weakEncryption "Sta pagina a deuvia na cifratua debole.">
-<!ENTITY identity.description.insecure "A conescion co sto scito a no l'é privâ. E informaçioin mandæ, comme ad prezempio parole segrete, mesaggi, dæti de-e carte de credito, ecc. porievan ese amiæ da atri sogetti.">
+<!ENTITY identity.description.insecure "A conescion con sto scito a no l'é privâ. E informaçioin mandæ, comme prezempio parole segrete, mesaggi, dæti de-e carte de credito, ecc. porievan ese amiæ da atri sogetti.">
 <!ENTITY identity.description.insecureLoginForms "E informaçioin de acesso inserie in sta pagina no en segue e porievan ese conpromisse.">
 <!ENTITY identity.description.weakCipher "A conescion con sto scito web a deuvia na cifratua debole e a no l'é privâ.">
 <!ENTITY identity.description.weakCipher2 "Atri sogetti porievan amiâ e informaçioin trasmisse ò modificâ o conportamento do scito.">
-<!ENTITY identity.description.activeBlocked "Quarche elemento no siguo de sta pagina o l'é stæto blocou da &brandShortName;.">
-<!ENTITY identity.description.passiveLoaded "A conescion a no l'é privâ e e informaçioin trasmisse a-o scito porievan es vixbili a atri soggtti.">
+<!ENTITY identity.description.activeBlocked "Quarche elemento no seguo de sta pagina o l'é stæto blocou da &brandShortName;.">
+<!ENTITY identity.description.passiveLoaded "A conescion a no l'é privâ e e informaçioin trasmisse a-o scito porievan es vixbili a atri sogetti.">
 <!ENTITY identity.description.passiveLoaded2 "Quarche elemento de sto scito web o no l'é seguo (prezenpio inmagini).">
 <!ENTITY identity.description.passiveLoaded3 "Sciben quarche elemento o segge blocou da &brandShortName;, in sta pagina gh'é ancon di elementi no sigui (prezenpio inmagini).">
-<!ENTITY identity.description.activeLoaded "A conescion con sto scito web a no l'é segua perché gh'à di contegnui no segui (prezenpio script).">
-<!ENTITY identity.description.activeLoaded2 "E informaçioin mandæ, comme ad prezempio parole segrete, mesaggi, dæti de-e carte de credito, ecc. porievan ese amiæ da atri sogetti.">
+<!ENTITY identity.description.activeLoaded "A conescion con sto scito web a no l'é segua perché a gh'à di contegnui no segui (prezenpio script).">
+<!ENTITY identity.description.activeLoaded2 "E informaçioin mandæ, comme prezempio parole segrete, mesaggi, dæti de-e carte de credito, ecc. porievan ese amiæ da atri sogetti.">
 <!ENTITY identity.enableMixedContentBlocking.label "Ativa proteçion">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "A">
 <!ENTITY identity.disableMixedContentBlocking.label "Dizativa temporaneamente proteçion">
@@ -587,7 +587,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY devToolbar.keycode "VK_F2">
 <!ENTITY devToolbar.keytext "F2">
 
-<!ENTITY enterFullScreenCmd.label "Vanni a tutto schermo">
+<!ENTITY enterFullScreenCmd.label "Amia a tutto schermo">
 <!ENTITY enterFullScreenCmd.accesskey "h">
 <!ENTITY exitFullScreenCmd.label "Sciòrti da a tutto schermo">
 <!ENTITY exitFullScreenCmd.accesskey "h">
@@ -654,7 +654,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY social.activated.description "L'é stæto ativou i serviççi da <label/>. L'é poscibile cangiâ e inpostaçioin di serviççi into <label class='text-link'>Gestô di conponenti azonti</label>.">
 <!ENTITY social.activated.undo.label "Ahime mi, anulla">
 <!ENTITY social.activated.undo.accesskey "a">
-<!ENTITY social.closeNotificationItem.label "Òua no">
+<!ENTITY social.closeNotificationItem.label "Oua no">
 <!ENTITY social.learnMore.label "Atre informaçioin…">
 <!ENTITY social.learnMore.accesskey "U">
 <!ENTITY browserConsoleCmd.accesskey "o">
@@ -683,7 +683,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY appMenuHistory.clearRecent.label "Scancella a stöia ciù neuva…">
 <!ENTITY appMenuHistory.restoreSession.label "Repiggia a sescion primma">
 <!ENTITY appMenuHistory.viewSidebar.label "Veddi a bara de scianco stöia">
-<!ENTITY appMenuHelp.tooltip "Arvi a guidda">
+<!ENTITY appMenuHelp.tooltip "Arvi a goidda">
 <!ENTITY appmenu.tooltip "Arvi menû">
 <!ENTITY customizeMenu.addToToolbar.label "Azonzi a-a bara di strumenti">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -717,9 +717,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 <!ENTITY browserContentToolboxMenu.accesskey "w">
-<!ENTITY browserContentToolboxMenu.label "Stipetto di atressi di contegnui do browser">
+<!ENTITY browserContentToolboxMenu.label "Stipetto di atressi di contegnui do navegatô">
 <!ENTITY browserToolboxCmd.commandkey "i">
-<!ENTITY castVideoCmd.label "Manda video a dispositivo">
+<!ENTITY castVideoCmd.label "Manda video a dispoxitivo">
 <!ENTITY castVideoCmd.accesskey "n">
 <!ENTITY customizeMode.lwthemes "Temi">
 <!ENTITY customizeMode.lwthemes.myThemes "I mæ temi">

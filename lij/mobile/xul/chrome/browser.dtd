@@ -41,7 +41,7 @@
 <!ENTITY addonsHeader.label        "Conponenti azonti">
 <!ENTITY addonsLocal.label         "I teu conponenti azonti">
 <!ENTITY addonsUpdate.label        "Agiorna">
-<!ENTITY addonsRepo.label          "Danni i Conponenti azonti">
+<!ENTITY addonsRepo.label          "Scarega i Conponenti azonti">
 <!ENTITY addonsRecommended.label   "Arecomandou">
 <!ENTITY addonsSearch.label        "Riçerca">
 <!ENTITY addonsSearch2.emptytext   "Çerca into catalogo">

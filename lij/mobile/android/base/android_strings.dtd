@@ -4,7 +4,7 @@
 
 
 <!ENTITY  splash_settingup "Inpòsta o teu &brandShortName;">
-<!ENTITY  splash_bookmarks_history "Agiornemmo i teu segnalibbri e a teu stöia, o quæ o porieiva pigiâ ciù ò meno un menuto.">
+<!ENTITY  splash_bookmarks_history "Agiornemmo i teu segnalibbri e a teu stöia, ghe poemmo mette ciù ò meno un menuto.">
 
 <!ENTITY  no_space_to_start_error "No gh\'é ne abasta de spaçio in sciô disco pe &brandShortName;.">
 <!ENTITY  error_loading_file "Gh\'é stæto \'n erô quande ò provou a caregâ di file domandæ pe fâ anâ o &brandShortName;">
@@ -59,7 +59,7 @@
 <!ENTITY pref_about_firefox "Informaçioin rigoardo &brandShortName;">
 <!ENTITY pref_do_not_track "Fanni in mòddo che i sciti no porian localizame">
 <!ENTITY pref_telemetry "Manda dæti in sce prestaçioin">
-<!ENTITY pref_remember_signons "Aregorda e paròlle segrette">
+<!ENTITY pref_remember_signons "Aregorda e paròlle segrete">
 <!ENTITY pref_cookies "Abilita cookie">
 <!ENTITY pref_char_encoding "Show character encoding">
 <!ENTITY pref_char_encoding_on "Fanni vedde o menû">
@@ -75,9 +75,9 @@
 <!ENTITY pref_font_size_medium "Medio">
 <!ENTITY pref_font_size_large "Largo">
 <!ENTITY pref_font_size_xlarge "Ciù largo no se peu">
-<!ENTITY pref_use_master_password "Deuvia unna paròlla segreta prinçipâ">
+<!ENTITY pref_use_master_password "Deuvia ina paròlla segreta prinçipâ">
 <!ENTITY pref_sync "Scincronizza">
-<!ENTITY pref_private_data_passwords "Paròlle segrette sarvæ">
+<!ENTITY pref_private_data_passwords "Paròlle segrete sarvæ">
 
 <!ENTITY quit "Sciòrti">
 
@@ -103,8 +103,8 @@
 <!ENTITY site_settings_title2 "Inpostaçioin do scito…">
 
 <!ENTITY site_settings_cancel       "Anulla">
-<!ENTITY site_settings_clear        "Polisci">
-<!ENTITY site_settings_no_settings  "No gh\'é de inpostaçioin da scancela.">
+<!ENTITY site_settings_clear        "Netezza">
+<!ENTITY site_settings_no_settings  "No gh\'é de inpostaçioin da scancelâ.">
 
 <!ENTITY masterpassword_create_title "Crea unna paròlla segreta prinçipâ">
 <!ENTITY masterpassword_remove_title "Leva da mezo a paròlla segreta prinçipâ">
@@ -191,5 +191,5 @@
 <!ENTITY search "Çerca">
 <!ENTITY pref_font_size_set "Inpòsta">
 <!ENTITY pref_font_size_adjust_char "A">
-<!ENTITY pref_font_size_preview_text "A vorpe cô de çetron passa sorvia ògni òstacolo con velocitæ de longo magio, flescibilitæ e siguessa. In quanto organizaçion sensa fin de goagno semmo capaci de creâ inovaçoioin pe o ben di utenti sensa cazze in prescioin ò conpromissi. Questo scignifica \'na megio esperiensa pe tutti e \'n megio avegnî pe-o Web.">
+<!ENTITY pref_font_size_preview_text "A vorpe cô de çetron passa sorvia ògni òstacolo con \'na velocitæ, flescibilitæ e seguessa de longo megio. Perché semmo ina organizaçion sensa fin de goagno e semmo boin a creâ inovaçoioin pe o ben di utenti sensa cazze in prescioin ò conpromissi. Questo scignifica \'na megio esperiensa pe tutti e \'n megio avegnî pe-o Web.">
 <!ENTITY pref_use_master_password "Adevia paròlla segreta prinçipâ">

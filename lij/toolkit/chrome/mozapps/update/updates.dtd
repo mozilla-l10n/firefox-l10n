@@ -52,7 +52,7 @@
 
 <!ENTITY  details.link                    "Detalli">
 
-<!ENTITY  error.title                     "Agiornamento no rioscio">
+<!ENTITY  error.title                     "Agiornamento no riescio">
 
 <!ENTITY  error.label                     "Gh'é stæto un problema a descaregâ ò instalâ sto 
                                            agiornamento. &brandShortName; no peu ese agiornou perche:">
@@ -61,14 +61,14 @@
                                            e descaregando l'urtima verscion:">
                                            
 <!ENTITY  errorpatching.intro             "L'agiornamento parçiale o no va ben. 
-                                           O &brandShortName; o proviâ ancon a descaregâ l'agiornamento conpleto.">
+                                           O &brandShortName; o proviâ torna a descaregâ l'agiornamento conpleto.">
 
 <!ENTITY  genericBackgroundError.label    "O &brandShortName; o no l'ariesce a capî se gh'é di agiornamenti. Pe piaxei
                                            te peu miga amiâ se ti gh'æ l'urtima verscion de &brandShortName; da:">
 <!ENTITY  errorCertAttrNoUpdate2.label    "Quarcösa o l'inpedisce a &brandShortName; de agiornase in seguessa.
                                            Contròlla se ti gh'æ l'urtima verscion de &brandShortName; da:">
 <!ENTITY  errorCertAttrHasUpdate.label    "Quarcösa preuva a inbrogiâ o &brandShortName; pe fâ
-                                           acetâ in agiornamento no seguo. Pe piaxei ciamma o gestô da teu ræ pe avei agiutto.">
+                                           acetâ 'n agiornamento no seguo. Pe piaxei ciamma o gestô da teu ræ pe avei agiutto.">
 
 <!ENTITY  finishedPage.title              "Agiornamento pronto da Instalâ">
 <!ENTITY  finishedPage.text               "L'agiornamento o saiâ instalou a-a pròscima avertua de &brandShortName;. Ti ti 
@@ -90,5 +90,5 @@
 <!ENTITY  update.status.label             "Stato:">
 
 <!ENTITY unsupported.title "Scistema no soportou">
-<!ENTITY unsupported.label "Sta verscion de &brandShortName; a l'é vegia, purtròppo l'urtima verscion a no l'é conpatibile co-o scistema operativo in uzo. Agiornâ o scistema e provâ torna. St'avizo o no saiâ ciù mostrou ma l'é poscibile avei">
+<!ENTITY unsupported.label "Sta verscion de &brandShortName; a l'é vegia, purtròppo l'urtima verscion a no l'é conpatibile co-o scistema òperativo in uzo. Agiornâ o scistema e provâ torna. St'avizo o no saiâ ciù mostrou ma l'é poscibile avei">
 <!ENTITY unsupportedLink.label "atre informaçioin.">

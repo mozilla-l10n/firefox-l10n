@@ -147,7 +147,7 @@
 <!ENTITY wifi_auth_yes_scanner "Vegne mostrâ 'na domanda de scanscion do QR?">
 <!ENTITY wifi_auth_token_request "Se l'atro dispoxitivo domanda un token invece da scanscion de 'n còdice QR, scrivi o segoente còdice:">
 <!ENTITY logs_title "Registro comandi pre-packaging">
-<!ENTITY simulator_title "Opçioin simolatô">
+<!ENTITY simulator_title "Inpostaçioin simolatô">
 <!ENTITY simulator_remove "Scancella simolatô">
 <!ENTITY simulator_reset "Repiggia simolatô">
 <!ENTITY simulator_name "Nomme">

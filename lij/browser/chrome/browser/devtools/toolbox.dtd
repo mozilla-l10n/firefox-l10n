@@ -15,7 +15,7 @@
 
 <!ENTITY options.selectEnabledToolboxButtons.label "Pomelli disponibili">
 <!ENTITY options.context.triggersPageRefresh "* solo sescion corente, recarega a pagina">
-<!ENTITY options.disableJavaScript.tooltip "Ativando sta opçion, JavaScript o saiâ dizativou pe o feuggio corente. Se o feuggio ò i strumenti pe-i svilupatoî vegnan seræ l'inpostaçion saiâ scancela.">
+<!ENTITY options.disableJavaScript.tooltip "Ativando sta opçion, JavaScript o saiâ dizativou pe o feuggio corente. Se o feuggio ò i strumenti pe-i svilupatoî vegnan seræ l'inpostaçion saiâ scancelâ.">
 
 <!ENTITY options.enablePersistentLogs.label "Ativa registri permanenti">
 <!ENTITY options.enablePersistentLogs.tooltip "Ativando sta opçion a Console web e o Monitor da ræ o no saiâ azerou ògni vòtta che se navega inte 'n'atra pagina">

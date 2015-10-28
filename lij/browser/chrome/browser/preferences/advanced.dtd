@@ -8,20 +8,20 @@
 
 <!ENTITY accessibility.label             "Acesibilitæ">
 
-<!ENTITY useCursorNavigation.label       "Adeuvia senpre i pomelli de direçion pe navegâ in sce pagine">
+<!ENTITY useCursorNavigation.label       "Adeuvia de longo i pomelli de direçion pe navegâ in sce pagine">
 <!ENTITY useCursorNavigation.accesskey   "c">
-<!ENTITY searchStartTyping.label         "Çerca o testo quando iniçio a scrive">
+<!ENTITY searchStartTyping.label         "Çerca o testo quande iniçio a scrive">
 <!ENTITY searchStartTyping.accesskey     "Ç">
 <!ENTITY blockAutoRefresh.label          "Avertime quande i sciti preuvan a redireçionâ ò recaregâ a pagina">
 <!ENTITY blockAutoRefresh.accesskey      "p">
 
 <!ENTITY browsing.label                  "Çerca">
 <!ENTITY certificateTab.label 			 "Certificati">
-<!ENTITY useAutoScroll.label             "Adeuvia scorimento aotomatico">
+<!ENTITY useAutoScroll.label             "Adeuvia rebelamento aotomatico">
 <!ENTITY useAutoScroll.accesskey         "d">
-<!ENTITY useSmoothScrolling.label        "Adeuvia scorimento regolâ">
+<!ENTITY useSmoothScrolling.label        "Adeuvia rebelamento regolâ">
 <!ENTITY useSmoothScrolling.accesskey    "m">
-<!ENTITY allowHWAccel.label              "Adeuvia l'aceleraçion hardware se gh'é">
+<!ENTITY allowHWAccel.label              "Adeuvia l'aceleraçion hardware se a gh'é">
 <!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkSpelling.label             "Contròlla o mæ testo intanto che scrivo">
 <!ENTITY checkSpelling.accesskey         "t">
@@ -47,9 +47,9 @@
 <!ENTITY limitCacheSizeBefore.label      "Limita a cache a">
 <!ENTITY limitCacheSizeBefore.accesskey  "L">
 <!ENTITY limitCacheSizeAfter.label       "MB de spaçio">
-<!ENTITY clearCacheNow.label             "Scancelâ Òua">
+<!ENTITY clearCacheNow.label             "Scancelâ Oua">
 <!ENTITY clearCacheNow.accesskey         "c">
-<!ENTITY clearOfflineAppCacheNow.label   "Scancelâ Òua">
+<!ENTITY clearOfflineAppCacheNow.label   "Scancelâ Oua">
 <!ENTITY clearOfflineAppCacheNow.accesskey "n">
 <!ENTITY overrideSmartCacheSize.label    "Ignòra a gestion aotomatica da cache">
 <!ENTITY overrideSmartCacheSize.accesskey "o">
@@ -98,16 +98,16 @@
 <!ENTITY viewSecurityDevices.label       "Aparati">
 <!ENTITY viewSecurityDevices.accesskey   "p">
 
-<!ENTITY crashReporterDesc.label "Manda a &vendorShortName; segnalaçioin relative a fermæ anòmale de &brandShortName; pe megiorane a stabilitæ e-a seguessa">
+<!ENTITY crashReporterDesc.label "Manda a &vendorShortName; segnalaçioin di cianti anòmali de &brandShortName; pe megiorane a stabilitæ e-a seguessa">
 <!ENTITY crashReporterLearnMore.label "Atre informaçioin">
 <!ENTITY dataChoicesTab.label "Condivixon dæti">
-<!ENTITY enableCrashReporter.label "Ativa segnalaçion fermæ anòmale">
+<!ENTITY enableCrashReporter.label "Ativa segnalaçion cianti anòmali">
 <!ENTITY enableCrashReporter.accesskey "s">
 <!ENTITY enableHealthReport.label "Ativa valutaçion d'integritæ de &brandShortName;">
 <!ENTITY enableHealthReport.accesskey "v">
 <!ENTITY healthReportDesc.label "Analizza e prestaçioin do navegatô e condividdi informaçioin con &vendorShortName; in sciô stæto d'integritæ do software">
 <!ENTITY healthReportLearnMore.label "Atre informaçioin">
-<!ENTITY telemetryDesc.label "Condividdi con &vendorShortName; informaçioin in sce prestaçioin, uzo , hardware e personalizaçioin do navegatô pe contribuî a-o megioramento de &brandShortName;">
+<!ENTITY telemetryDesc.label "Condividdi con &vendorShortName; informaçioin in sce prestaçioin, uzo , hardware e personalizaçioin do navegatô pe contribuî a-o megioamento de &brandShortName;">
 <!ENTITY telemetryLearnMore.label "Atre informaçioin">
 <!ENTITY certSelection.label "Domande">
 <!ENTITY enableOCSP.label "Domanda a-i risponditoî OCSP pe confermâ a validitæ di certificati oua">

@@ -1,7 +1,7 @@
 <!ENTITY debuggerUI.closeButton.tooltip "Særa">
 <!ENTITY debuggerUI.pauseExceptions "Metti in pösa in sce eceçioin">
 <!ENTITY debuggerUI.focusVariables.key "v">
-<!ENTITY debuggerUI.optsButton.tooltip "Opçioin debugger">
+<!ENTITY debuggerUI.optsButton.tooltip "Inpostaçioin debugger">
 
 <!ENTITY debuggerUI.showPanesOnInit "Fanni vedde i panelli quande arvo">
 
