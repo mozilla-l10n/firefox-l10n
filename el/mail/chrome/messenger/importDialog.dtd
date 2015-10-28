@@ -2,30 +2,49 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!--null-->
+<!--
+LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of 
+Netscape Communicator, Please translate using the brandname in respective 
+languages for Netscape Communicator 4 releases.
+LOCALIZATION NOTE : Do not translate any of the occurrences of the word 
+"&brandShortName;" below.
+-->
+
 <!ENTITY importDialog.windowTitle "Εισαγωγή">
-<!ENTITY importAll.label "Εισαγωγή όλων">
-<!ENTITY importAll.accesskey "ι">
-<!ENTITY importMail.label "Αλληλογραφία">
-<!ENTITY importMail.accesskey "λ">
-<!ENTITY importAddressbook.label "Ευρετήρια διευθύνσεων">
+<!ENTITY importAll.label          "Εισαγωγή όλων">
+<!ENTITY importAll.accesskey      "ι">
+<!ENTITY importMail.label         "Αλληλογραφία">
+<!ENTITY importMail.accesskey     "λ">
+<!ENTITY importFeeds.label        "Feed Subscriptions">
+<!ENTITY importFeeds.accesskey    "d">
+<!ENTITY importAddressbook.label  "Ευρετήρια διευθύνσεων">
 <!ENTITY importAddressbook.accesskey "ρ">
-<!ENTITY importSettings.label "Ρυθμίσεις">
+<!ENTITY importSettings.label     "Ρυθμίσεις">
 <!ENTITY importSettings.accesskey "θ">
-<!ENTITY importFilters.label "Φίλτρα">
-<!ENTITY importFilters.accesskey "Φ">
-<!ENTITY window.width "48em">
-<!ENTITY window.macWidth "50em">
-<!ENTITY importTitle.label "Οδηγός Εισαγωγής Αλληλογραφίας του &brandShortName; ">
-<!ENTITY importShortDesc.label "Εισαγωγή αλληλογραφίας, ευρετήριου διευθύνσεων και φίλτρων από άλλα προγράμματα">
+<!ENTITY importFilters.label      "Φίλτρα">
+<!ENTITY importFilters.accesskey  "Φ">
+
+<!ENTITY  window.width            "48em">
+<!ENTITY  window.macWidth         "50em">
+
+<!ENTITY importTitle.label        "Οδηγός Εισαγωγής Αλληλογραφίας του &brandShortName; ">
+<!ENTITY importShortDesc.label    "Εισαγωγή αλληλογραφίας, ευρετήριου διευθύνσεων και φίλτρων από άλλα προγράμματα">
+
 <!ENTITY importDescription1.label "Αυτός ο οδηγός θα εισάγει μηνύματα. εγγραφές ευρετηρίων, προτιμήσεις και φίλτρα από άλλα προγράμματα αλληλογραφίας και τυποποιημένες μορφές ευρετηρίων διευθύνσεων στον  &brandShortName;. ">
 <!ENTITY importDescription2.label "Όταν γίνει η εισαγωγή θα είναι δυνατή η πρόσβαση σε αυτά μέσα από την Αλληλογραφία ή και το Ευρετήριο Διευθύνσεων του &brandShortName; ">
-<!ENTITY selectDescription.label "Επιλέξτε το πρόγραμμα από το οποίο επιθυμείτε να γίνει η εισαγωγή:">
+
+<!ENTITY selectDescription.label  "Επιλέξτε το πρόγραμμα από το οποίο επιθυμείτε να γίνει η εισαγωγή:">
+<!ENTITY selectDescriptionB.label "Please select an existing account or create a new account:">
 <!ENTITY selectDescription.accesskey "ξ">
-<!ENTITY back.label "&lt; Πίσω">
-<!ENTITY forward.label "Επόμενο &gt;">
-<!ENTITY finish.label "Τέλος">
-<!ENTITY cancel.label "Ακύρωση">
-<!ENTITY select.label "Επιλογή είδους υλικού για εισαγωγή:">
-<!ENTITY title.label "Τίτλος">
-<!ENTITY processing.label "Εισαγωγή...">
+<!ENTITY acctName.label           "Name:">
+<!ENTITY acctName.accesskey       "N">
+
+<!ENTITY back.label               "&lt; Πίσω">
+<!ENTITY forward.label            "Επόμενο &gt;">
+<!ENTITY finish.label             "Τέλος">
+<!ENTITY cancel.label             "Ακύρωση">
+
+<!ENTITY select.label             "Επιλογή είδους υλικού για εισαγωγή:">
+
+<!ENTITY title.label              "Τίτλος">
+<!ENTITY processing.label         "Εισαγωγή...">

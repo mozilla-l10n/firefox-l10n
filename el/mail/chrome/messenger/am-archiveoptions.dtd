@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- extracted from am-archiveoptions.xul -->
+
 <!ENTITY dialogTitle.label "Επιλογές αρχειοθέτησης">
 <!ENTITY archiveGranularityPrefix.label "Κατά την αρχειοθέτηση μηνυμάτων, να τοποθετούνται σε:">
 <!ENTITY archiveFlat.label "Έναν μοναδικό φάκελο">
@@ -13,5 +15,9 @@
 <!ENTITY keepFolderStructure.label "Διατήρηση υπάρχουσας δομής φακέλων των αρχειοθετημένων μηνυμάτων">
 <!ENTITY keepFolderStructure.accesskey "Δ">
 <!ENTITY archiveExample.label "Παράδειγμα">
+<!-- LOCALIZATION NOTE (archiveFolderName.label): this should match the default
+     name for the "Archives" folder -->
 <!ENTITY archiveFolderName.label "Αρχειοθετημένα">
+<!-- LOCALIZATION NOTE (inboxFolderName.label): this should match the default
+     name for the "Inbox" folder -->
 <!ENTITY inboxFolderName.label "Εισερχόμενα">

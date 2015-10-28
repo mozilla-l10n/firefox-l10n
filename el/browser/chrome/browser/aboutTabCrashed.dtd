@@ -1,0 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY tabCrashed.header "Τα άσχημα νέα πρώτα: Αυτή η καρτέλα κατέρρευσε">
+<!ENTITY tabCrashed.message "Και τώρα τα καλά νέα: Μπορείτε να κλείσετε την καρτέλα και να την επαναφέρετε ή να επαναφέρετε όλες τις καρτέλες που κατέρρευσαν.">
+<!ENTITY tabCrashed.sendReport "Υποβάλετε μια αναφορά κατάρρευσης για να αποφύγετε τα άσχημα νέα στο μέλλον">
+<!ENTITY tabCrashed.reportSent "Η αναφορά κατάρρευσης υποβλήθηκε. Σας ευχαριστούμε που συμβάλλετε στην βελτίωση του &brandShortName;!">
+<!ENTITY tabCrashed.closeTab "Κλείσιμο καρτέλας">
+<!ENTITY tabCrashed.restoreTab "Επαναφορά καρτέλας">
+<!ENTITY tabCrashed.restoreAll "Επαναφορά όλων των καρτελών που κατέρρευσαν">

@@ -9,9 +9,6 @@
 <!ENTITY  columnLabel.name          "Όνομα">
 <!ENTITY  columnLabel.keyword       "Λέξη-κλειδί">
 
-<!ENTITY  edit.label                "Επεξεργασία λέξης-κλειδί...">
-<!ENTITY  edit.accesskey            "ξ">
-
 <!-- Buttons -->
 <!ENTITY  up.label                  "Μετακίνηση πάνω">
 <!ENTITY  up.accesskey              "π">
@@ -19,6 +16,8 @@
 <!ENTITY  dn.accesskey              "κ">
 <!ENTITY  remove.label              "Απομάκρυνση">
 <!ENTITY  remove.accesskey          "ρ">
+<!ENTITY  edit.label                "Επεξεργασία λέξης-κλειδί...">
+<!ENTITY  edit.accesskey            "ξ">
 
 <!ENTITY  addEngine.label           "Λήψη περισσότερων μηχανών...">
 <!ENTITY  addEngine.accesskey       "ψ">

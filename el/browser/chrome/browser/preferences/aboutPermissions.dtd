@@ -7,8 +7,6 @@
 <!ENTITY sites.search                    "Αναζήτηση σελίδων">
 <!ENTITY sites.allSites                  "Όλες οι σελίδες">
 
-<!ENTITY fullscreen.label                "Πλήρης οθόνη">
-
 <!-- LOCALIZATION NOTE (permissions.header.start, permissions.header.end): These strings
      surround the host name of the site to make the header for the permissions page.
      example: "Permissions for mozilla.org" -->
@@ -16,7 +14,7 @@
 <!ENTITY header.site.end                 "">
 
 <!ENTITY header.defaults                 "Προεπιλεγμένα δικαιώματα για όλες τις σελίδες">
-<!ENTITY plugins.label                   "Πρόσθετες λειτουργίες">
+
 <!ENTITY permissions.forgetSite          "Όχι απομνημόνευση αυτής της σελίδας">
 
 <!ENTITY permission.alwaysAsk            "Πάντα ερώτηση">
@@ -29,14 +27,21 @@
 <!ENTITY password.manage                 "Διαχείριση κωδικών…">
 
 <!ENTITY cookie.label                    "Τοποθέτηση Cookies">
-<!ENTITY cookie.manage                   "Διαχείριση Cookies…">
 <!ENTITY cookie.remove                   "Διαγραφή Cookies">
+<!ENTITY cookie.manage                   "Διαχείριση Cookies…">
 <!ENTITY cookie.removeAll                "Διαγραφή όλων των Cookies">
+
 <!ENTITY geo.label                       "Γνωστοποίηση τοποθεσίας">
+
+<!ENTITY plugins.label                   "Πρόσθετες λειτουργίες">
 
 <!-- LOCALIZATION NOTE (indexedDB.label): This is describing indexedDB storage
      using the same language used for the permIndexedDB string in browser/pageInfo.dtd -->
 <!ENTITY indexedDB.label                 "Διατήρηση αποθηκευτικού χώρου για εργασία χωρίς σύνδεση">
 
 <!ENTITY popup.label                     "Άνοιγμα αναδυόμενων παραθύρων">
+
+<!ENTITY push.label                      "Receive Push Notifications">
+<!ENTITY camera.label                    "Use the Camera">
+<!ENTITY microphone.label                "Use the Microphone">
 

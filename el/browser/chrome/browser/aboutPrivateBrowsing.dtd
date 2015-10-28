@@ -1,27 +1,53 @@
-
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title                 "Ιδιωτική περιήγηση">
-<!ENTITY privatebrowsingpage.title.normal          "Θέλετε να ξεκινήσετε την ιδιωτική περιήγηση;">
-
-<!ENTITY privatebrowsingpage.perwindow.issueDesc        "Ο &brandShortName; δεν θα αποθηκεύει ιστορικό για αυτή τη συνεδρία.">
-<!ENTITY privatebrowsingpage.perwindow.issueDesc.normal "Δεν βρίσκεστε σε λειτουργία ιδιωτικής περιήγησης.">
-
-<!ENTITY privatebrowsingpage.perwindow.description     "Σε μια συνεδρία ιδιωτικής περιήγησης, ο &brandShortName; δεν θα αποθηκεύει ιστορικό περιήγησης, αναζητήσεων, λήψεων, συμπλήρωσης φορμών, cookies, και προσωρινών αρχείων διαδικτύου.  Διατηρούνται όμως τα αρχεία που κατεβάσατε και οι σελιδοδείκτες που δημιουργήσατε.">
-
+<!ENTITY aboutPrivateBrowsing.notPrivate       "Αυτή τη στιγμή δε βρίσκεστε σε παράθυρο ιδιωτικής περιήγησης.">
 <!ENTITY privatebrowsingpage.openPrivateWindow.label "Άνοιγμα παραθύρου Ιδιωτικής περιήγησης">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "δ">
 
-<!-- LOCALIZATION NOTE (privatebrowsingpage.howToStart3): please leave &basePBMenu.label; intact in the translation -->
-<!ENTITY privatebrowsingpage.howToStart3               "Για να ξεκινήσετε την Ιδιωτική περιήγηση μπορείτε ακόμα να επιλέξετε &basePBMenu.label; &gt; &newPrivateWindow.label;.">
-<!ENTITY privatebrowsingpage.howToStop3                "Για να διακόψετε την Ιδιωτική περιήγηση, κλείστε αυτό το παράθυρο.">
+<!ENTITY privateBrowsing.title                 "Ιδιωτική Περιήγηση">
 
-<!ENTITY privatebrowsingpage.moreInfo                   "Ενώ αυτός ο υπολογιστής δεν θα έχει καμία καταγραφή του ιστορικού περιήγησης σας, ο πάροχος ή εταιρία σας έχουν την δυνατότητα να καταγράψουν τις σελίδες που επισκεφτήκατε.">
-<!ENTITY privatebrowsingpage.learnMore                 "Μάθετε περισσότερα">
+<!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width1):
+     Width of the Private Browsing section. This should depend primarily on the
+     length of the headers and text, but should be roughly 1.5 times the width
+     of the Tracking Protection section, and in general not much larger than
+     30em to prevent the sections from wrapping on smaller window sizes.
+     -->
+<!ENTITY aboutPrivateBrowsing.title            "Βρίσκεστε σε ιδιωτική περιήγηση">
 
-<!ENTITY privatebrowsingpage.howToStart4               "Για να ξεκινήσετε την Ιδιωτική περιήγηση μπορείτε ακόμα να επιλέξετε &newPrivateWindow.label; από το μενού.">
+<!ENTITY aboutPrivateBrowsing.info.notsaved    "Δεν θα αποθηκεύονται">
+<!ENTITY aboutPrivateBrowsing.info.history     "Ιστορικό">
+<!ENTITY aboutPrivateBrowsing.info.searches    "Αναζητήσεις">
+<!ENTITY aboutPrivateBrowsing.info.cookies     "Cookies">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Προσωρινά αρχεία">
 
+<!ENTITY aboutPrivateBrowsing.info.saved       "Θα αποθηκεύονται">
+<!ENTITY aboutPrivateBrowsing.info.downloads   "Λήψεις">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks   "Σελιδοδείκτες">
 
+<!ENTITY aboutPrivateBrowsing.note1            "Παρακαλούμε σημειώστε ότι ο εργοδότης σας ή ο πάροχος ίντερνετ μπορεί ακόμα να καταγράφει τις σελίδες που επισκέπτεστε.">
+<!ENTITY aboutPrivateBrowsing.learnMore        "Μάθετε περισσότερα">
 
+<!-- LOCALIZATION NOTE (trackingProtection.width1):
+     Width of the Tracking Protection section. It is fine for the enabled or
+     disabled indicator or the words in the title to wrap to the next line, but
+     you can expand or reduce this section to fit better, as long as the width
+     of the Private Browsing section is roughly 1.5 times the width of this one.
+     Note that the required space may vary between platforms because fonts are
+     different, so testing on Windows, Mac, and Linux is encouraged.
+     -->
+<!ENTITY trackingProtection.title              "Προστασία Δεδομένων Περιήγησης">
+
+<!-- LOCALIZATION NOTE (trackingProtection.state.width):
+     Width of the element representing the enabled or disabled indicator.
+     -->
+<!ENTITY trackingProtection.state.width        "21ch">
+<!ENTITY trackingProtection.state.enabled      "ΕΝΕΡΓΟΠΟΙΗΜΕΝΗ">
+<!ENTITY trackingProtection.state.disabled     "ΑΠΕΝΕΡΓΟΠΟΙΗΜΕΝΗ">
+
+<!ENTITY trackingProtection.description1       "Από τώρα τα παράθυρα ιδιωτικής περιήγησης θα εμποδίζουν τμήματα των ιστοσελίδων που προσπαθούν να καταγράψουν τη δραστηριότητά σας.">
+
+<!ENTITY trackingProtection.disable            "Απενεργοποίηση προστασίας δεδομένων περιήγησης">
+<!ENTITY trackingProtection.enable             "Ενεργοποίηση προστασίας δεδομένων περιήγησης">
+<!ENTITY trackingProtection.startTour1         "Δείτε πως λειτουργεί">

@@ -2,25 +2,32 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY migrationWizard.title "Βοηθός εισαγωγής">
-<!ENTITY importFromWin.label "Εισαγωγή επιλογών, ρυθμίσεων, ευρετηρίων, φίλτρων και άλλων δεδομένων από:">
-<!ENTITY importFromNonWin.label "Εισαγωγή προτιμήσεων, ρυθμίσεων, ευρετηρίων, φίλτρων και άλλων δεδομένων από:">
-<!ENTITY importFromNothing.label "Να μην εισαχθεί τίποτα">
-<!ENTITY importFromNothing.accesskey "τ">
+
+<!ENTITY migrationWizard.title          "Βοηθός εισαγωγής">
+
+<!ENTITY importFromWin.label            "Εισαγωγή επιλογών, ρυθμίσεων, ευρετηρίων, φίλτρων και άλλων δεδομένων από:">
+<!ENTITY importFromNonWin.label         "Εισαγωγή προτιμήσεων, ρυθμίσεων, ευρετηρίων, φίλτρων και άλλων δεδομένων από:">
+
+<!ENTITY importFromNothing.label        "Να μην εισαχθεί τίποτα">
+<!ENTITY importFromNothing.accesskey    "τ">
 <!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 ή μεταγενέστερη">
 <!ENTITY importFromSeamonkey3.accesskey "S">
-<!ENTITY importFromOExpress.label "Outlook Express">
-<!ENTITY importFromOExpress.accesskey "u">
-<!ENTITY importFromOutlook.label "Outlook">
-<!ENTITY importFromOutlook.accesskey "O">
-<!ENTITY importFromEudora.label "Eudora">
-<!ENTITY importFromEudora.accesskey "E">
-<!ENTITY importSource.title "Εισαγωγή ρυθμίσεων και δεδομένων">
-<!ENTITY importItems.title "Αντικείμενα προς εισαγωγή">
-<!ENTITY importItems.label "Επιλέξτε ποια αντικείμενα θα εισαχθούν:">
-<!ENTITY migrating.title "Εισαγωγή...">
-<!ENTITY migrating.label "Τα ακόλουθα αντικείμενα εισάγονται αυτήν τη στιγμή...">
-<!ENTITY selectProfile.title "Επιλογή προφίλ">
-<!ENTITY selectProfile.label "Τα ακόλουθα προφίλ είναι διαθέσιμα για εισαγωγή από:">
-<!ENTITY done.title "Η εισαγωγή ολοκληρώθηκε">
-<!ENTITY done.label "Τα ακόλουθα στοιχεία εισήχθησαν επιτυχώς:">
+<!ENTITY importFromOExpress.label       "Outlook Express">
+<!ENTITY importFromOExpress.accesskey   "u">
+<!ENTITY importFromOutlook.label        "Outlook">
+<!ENTITY importFromOutlook.accesskey    "O">
+<!ENTITY importFromEudora.label         "Eudora">
+<!ENTITY importFromEudora.accesskey     "E">
+
+<!ENTITY importSource.title             "Εισαγωγή ρυθμίσεων και δεδομένων">
+<!ENTITY importItems.title              "Αντικείμενα προς εισαγωγή">
+<!ENTITY importItems.label              "Επιλέξτε ποια αντικείμενα θα εισαχθούν:">
+
+<!ENTITY migrating.title                "Εισαγωγή...">
+<!ENTITY migrating.label                "Τα ακόλουθα αντικείμενα εισάγονται αυτήν τη στιγμή...">
+
+<!ENTITY selectProfile.title            "Επιλογή προφίλ">
+<!ENTITY selectProfile.label            "Τα ακόλουθα προφίλ είναι διαθέσιμα για εισαγωγή από:">
+
+<!ENTITY done.title                     "Η εισαγωγή ολοκληρώθηκε">
+<!ENTITY done.label                     "Τα ακόλουθα στοιχεία εισήχθησαν επιτυχώς:">

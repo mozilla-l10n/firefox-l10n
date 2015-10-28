@@ -2,24 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY % brandDTD
-    SYSTEM "chrome://branding/locale/brand.dtd">
-  %brandDTD;
-
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
 <!ENTITY % syncBrandDTD SYSTEM "chrome://browser/locale/syncBrand.dtd">
-  %syncBrandDTD;
+%syncBrandDTD;
 
 <!-- These strings are used in the about:home page -->
 
 <!ENTITY abouthome.pageTitle "Αρχική σελίδα του &brandFullName;">
-
-<!ENTITY abouthome.rightsSnippet "Ο &brandFullName; είναι ελεύθερο λογισμικό ανοικτού κώδικα από τον μη κερδοσκοπικό οργανισμό του Mozilla. <a>Μάθετε τα δικαιώματα σας…</a>">
-
-
-
-<!ENTITY abouthome.searchEngineButton.label "Αναζήτηση">
-
-
 
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
@@ -29,11 +19,21 @@
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "Είναι πανεύκολο να προσαρμόσετε τον Firefox όπως ακριβώς τον θέλετε. <a>Επιλέξτε ανάμεσα από χιλιάδες πρόσθετα</a>.">
+<!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
+<!ENTITY abouthome.rightsSnippet "Ο &brandFullName; είναι ελεύθερο λογισμικό ανοικτού κώδικα από τον μη κερδοσκοπικό οργανισμό του Mozilla. <a>Μάθετε τα δικαιώματα σας…</a>">
 
 <!ENTITY abouthome.bookmarksButton.label "Σελιδοδείκτες">
 <!ENTITY abouthome.historyButton.label   "Ιστορικό">
-<!ENTITY abouthome.settingsButton.label  "Ρυθμίσεις">
+<!-- LOCALIZATION NOTE (abouthome.preferencesButtonWin.label): The label for the
+     preferences/options item on about:home on Windows -->
+<!ENTITY abouthome.preferencesButtonWin.label  "Ρυθμίσεις">
+<!-- LOCALIZATION NOTE (abouthome.preferencesButtonUnix.label): The label for the
+     preferences/options item on about:home on Linux and OS X -->
+<!ENTITY abouthome.preferencesButtonUnix.label  "Προτιμήσεις">
 <!ENTITY abouthome.addonsButton.label    "Πρόσθετα">
-<!ENTITY abouthome.appsButton.label      "Marketplace">
+<!-- LOCALIZATION NOTE (abouthome.appsButton2.label): This string should be consistent with
+     the Apps menu item in the Tools menu (webapps.label in browser.dtd) and the Apps toolbar button in
+     Firefox's customization palette (web-apps-button.label in customizableWidgets.properties) -->
+<!ENTITY abouthome.appsButton2.label     "Εφαρμογές">
 <!ENTITY abouthome.downloadsButton.label "Λήψεις">
 <!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">

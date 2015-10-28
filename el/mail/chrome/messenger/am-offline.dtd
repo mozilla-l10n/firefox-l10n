@@ -11,7 +11,7 @@
 <!ENTITY offlineNotDownload.accesskey "Μ">
 <!ENTITY autosyncNotDownload.label "Να μην γίνεται λήψη μηνυμάτων μεγαλυτέρων από">
 <!ENTITY autosyncNotDownload.accesskey "μ">
-<!ENTITY kb.label "kB">
+<!ENTITY kb.label "KB">
 <!ENTITY daysOld.label "ημέρες παλιά">
 <!ENTITY message.label "μηνύματα">
 <!ENTITY nntpNotDownloadRead.label "Αναγνωσμένα μηνύματα">
@@ -27,6 +27,7 @@
 <!ENTITY retentionKeepAll.accesskey "η">
 <!ENTITY retentionKeepRecent.label "Διαγραφή όλων εκτός από τα πιο πρόσφατα">
 <!ENTITY retentionKeepRecent.accesskey "κ">
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
 <!ENTITY retentionKeepUnreadHidden.label "Να διαγράφονται πάντα τα αναγνωσμένα μηνύματα (παρακάμπτει τις ρυθμίσεις παλαιότητας)">
 <!ENTITY retentionApplyToFlagged.label "Διατήρηση μηνυμάτων με αστέρι">
 <!ENTITY retentionApplyToFlagged.accesskey "σ">
@@ -38,13 +39,20 @@
 <!ENTITY offlineImapAdvancedOffline.accesskey "χ">
 <!ENTITY syncGroupTitle.label "Συγχρονισμός μηνυμάτων">
 <!ENTITY diskspaceGroupTitle.label "Αποθηκευτικός χώρος">
-<!ENTITY allAutosync.label "Τοπικός συγχρονισμός όλων μηνυμάτων ανεξάρτητα από ημερομηνία">
-<!ENTITY allAutosync.accesskey "χ">
-<!ENTITY ageAutosyncBefore.label "Συγχρονισμός των πιο προσφάτων">
-<!ENTITY ageAutosync.accesskey "γ">
-<!ENTITY ageAutosyncMiddle.label "">
-<!ENTITY dayAgeInterval.label "Ημέρες">
-<!ENTITY weekAgeInterval.label "Εβδομάδες">
-<!ENTITY monthAgeInterval.label "Μήνες">
-<!ENTITY yearAgeInterval.label "Έτη">
-<!ENTITY ageAutosyncAfter.label "">
+
+<!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
+  The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
+  on a single line within the scope of useAutosync.ByAge as follows:
+
+  &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
+-->
+<!ENTITY allAutosync.label               "Τοπικός συγχρονισμός όλων μηνυμάτων ανεξάρτητα από ημερομηνία">
+<!ENTITY allAutosync.accesskey           "χ">
+<!ENTITY ageAutosyncBefore.label         "Συγχρονισμός των πιο προσφάτων">
+<!ENTITY ageAutosync.accesskey           "γ">
+<!ENTITY ageAutosyncMiddle.label         "">
+<!ENTITY dayAgeInterval.label            "Ημέρες">
+<!ENTITY weekAgeInterval.label           "Εβδομάδες">
+<!ENTITY monthAgeInterval.label          "Μήνες">
+<!ENTITY yearAgeInterval.label           "Έτη">
+<!ENTITY ageAutosyncAfter.label          "">

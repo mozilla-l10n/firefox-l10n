@@ -1,4 +1,6 @@
-
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY aboutDialog.title          "Πληροφορίες για τον &brandFullName;">
 
 <!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*, update.applyButtonBillboard.*):
@@ -8,7 +10,7 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Έλεγχος για ενημερώσεις">
 <!ENTITY update.checkForUpdatesButton.accesskey   "γ">
-<!ENTITY update.updateButton.label                "Επανεκκίνηση για ενημέρωση">
+<!ENTITY update.updateButton.label2                "Επανεκκίνηση του &brandShortName; για ενημέρωση">
 <!ENTITY update.updateButton.accesskey            "π">
 <!ENTITY update.applyButtonBillboard.label        "Εφαρμογή ενημέρωσης…">
 <!ENTITY update.applyButtonBillboard.accesskey    "φ">
@@ -16,8 +18,7 @@
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 <!ENTITY warningDesc.version        "Αυτή η έκδοση του &brandShortName; είναι σε πειραματικό στάδιο και μπορεί να είναι ασταθής.">
-<!-- LOCALIZATION NOTE (warningDesc.telemetry): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-
+<!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
 <!ENTITY warningDesc.telemetryDesc  "Στέλνει αυτόματα πληροφορίες επιδόσεων, υλικού, χρήσης και προσαρμογών πίσω στο &vendorShortName; για να βοηθήσετε να γίνει ο &brandShortName; καλύτερος.">
 
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
@@ -35,21 +36,23 @@
 <!ENTITY community.middle2          ", μια ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "παγκόσμια κοινότητα">
-
 <!ENTITY community.end3             " που συνεργάζεται για να κάνει το διαδίκτυο ανοικτό, ελεύθερο και προσβάσιμο από όλους χωρίς κανένα περιορισμό.">
 
-<!ENTITY contribute.start           "Ακούγεται ενδιαφέρον; ">
-<!-- LOCALIZATION NOTE (contribute.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
-<!ENTITY contribute.getInvolvedLink "Αναμιχθείτε και εσείς!">
-<!ENTITY contribute.end             "">
+<!ENTITY helpus.start               "Θέλετε να βοηθήσετε;">
+<!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
+<!ENTITY helpus.donateLink          "Κάντε μια δωρεά">
+<!ENTITY helpus.middle              "ή">
+<!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
+<!ENTITY helpus.getInvolvedLink     "συμμετέχετε εθελοντικά!">
+<!ENTITY helpus.end                 "">
 
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
-<!ENTITY bottomLinks.license        "Πληροφορίες αδειοδότησης">
+<!ENTITY bottomLinks.license        "Πληροφορίες άδειας">
 
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
 <!ENTITY bottomLinks.rights         "Δικαιώματα χρήστη">
 
-<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to http://www.mozilla.com/legal/privacy/. -->
+<!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
 <!ENTITY bottomLinks.privacy        "Πολιτική απορρήτου">
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
@@ -58,6 +61,8 @@
 <!ENTITY update.noUpdatesFound      "Ο &brandShortName; είναι ενημερωμένος">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "Οι ενημερώσεις έχουν απενεργοποιηθεί από τον διαχειριστή του συστήματος σας">
+<!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
+<!ENTITY update.otherInstanceHandlingUpdates "Γίνεται ήδη ενημέρωση του &brandShortName; από μια άλλη συνεδρία">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
@@ -75,6 +80,16 @@
 <!ENTITY update.manual.start        "Υπάρχουν διαθέσιμες ενημερώσεις στο ">
 <!ENTITY update.manual.end          "">
 
+<!-- LOCALIZATION NOTE (update.unsupported.start,update.unsupported.linkText,update.unsupported.end):
+     update.unsupported.start, update.unsupported.linkText, and
+     update.unsupported.end all go into one line with linkText being wrapped in
+     an anchor that links to a site to provide additional information regarding
+     why the system is no longer supported. As this is all in one line, try to
+     make the localized text short (see bug 843497 for screenshots). -->
+<!ENTITY update.unsupported.start    "Δεν μπορείτε να προχωρήσετε σε περαιτέρω ενημερώσεις σε αυτό το σύστημα. ">
+<!ENTITY update.unsupported.linkText "Μάθετε περισσότερα">
+<!ENTITY update.unsupported.end      "">
+
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
@@ -90,18 +105,3 @@
      example: You are currently on the _Stable_ update channel. -->
 <!ENTITY channel.description.start  "Βρίσκεστε στο κανάλι ενημερώσεων της ">
 <!ENTITY channel.description.end    " έκδοσης. ">
-
-<!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
-<!ENTITY update.otherInstanceHandlingUpdates "Γίνεται ήδη ενημέρωση του &brandShortName; από μια άλλη συνεδρία">
-<!-- LOCALIZATION NOTE (update.unsupported.start,update.unsupported.linkText,update.unsupported.end):
-     update.unsupported.start, update.unsupported.linkText, and
-     update.unsupported.end all go into one line with linkText being wrapped in
-     an anchor that links to a site to provide additional information regarding
-     why the system is no longer supported. As this is all in one line, try to
-     make the localized text short (see bug 843497 for screenshots). -->
-<!ENTITY update.unsupported.start    "Δεν μπορείτε να προχωρήσετε σε περαιτέρω ενημερώσεις σε αυτό το σύστημα. ">
-<!ENTITY update.unsupported.linkText "Μάθετε περισσότερα">
-<!ENTITY update.unsupported.end      "">
-
-
-

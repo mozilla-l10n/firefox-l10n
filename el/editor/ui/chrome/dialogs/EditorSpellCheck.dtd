@@ -1,7 +1,10 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Window title -->
 <!ENTITY windowTitle.label "Έλεγχος ορθογραφίας">
+
 <!ENTITY misspelledWord.label "Ανορθόγραφη λέξη">
 <!ENTITY wordEditField.label "Αντικατάσταση με:">
 <!ENTITY wordEditField.accessKey "κ">
@@ -25,8 +28,6 @@
 <!ENTITY addToUserDictionaryButton.accessKey "θ">
 <!ENTITY editUserDictionaryButton.label "Επεξεργασία...">
 <!ENTITY editUserDictionaryButton.accessKey "ξ">
-<!ENTITY recheckButton.label "Επανέλεγχος σελίδας">
-<!ENTITY recheckButton.accessKey "Ε">
 <!ENTITY closeButton.label "Κλείσιμο">
 <!ENTITY closeButton.accessKey "Κ">
 <!ENTITY sendButton.label "Αποστολή">

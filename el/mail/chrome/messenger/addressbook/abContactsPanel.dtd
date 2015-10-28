@@ -2,26 +2,26 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY addressbookPicker.label "Ευρετήριο:">
-<!ENTITY addressbookPicker.accesskey "υ">
-<!ENTITY searchInput.label "Αναζήτηση για:">
-<!ENTITY searchInput.accesskey "ζ">
-<!ENTITY SearchNameOrEmail.label "Όνομα ή Email">
-<!ENTITY deleteAddrBookCard.label "Διαγραφή">
+<!ENTITY addressbookPicker.label            "Ευρετήριο:">
+<!ENTITY addressbookPicker.accesskey        "υ">
+<!ENTITY searchInput.label                  "Αναζήτηση για:">
+<!ENTITY searchInput.accesskey              "ζ">
+<!ENTITY SearchNameOrEmail.label            "Όνομα ή Email">
+
+<!ENTITY deleteAddrBookCard.label           "Διαγραφή">
 <!ENTITY deleteAddrBookCard.accesskey       "Δ">
-<!ENTITY addrBookCardProperties.label "Ιδιότητες">
+<!ENTITY addrBookCardProperties.label       "Ιδιότητες">
 <!ENTITY addrBookCardProperties.accesskey   "δ">
-<!ENTITY addtoToFieldMenu.label "Προσθήκη στο πεδίο Προς">
+<!ENTITY addtoToFieldMenu.label             "Προσθήκη στο πεδίο Προς">
 <!ENTITY addtoToFieldMenu.accesskey         "Π">
-<!ENTITY addtoCcFieldMenu.label "Προσθήκη στο πεδίο Κοιν">
+<!ENTITY addtoCcFieldMenu.label             "Προσθήκη στο πεδίο Κοιν">
 <!ENTITY addtoCcFieldMenu.accesskey         "Κ">
-<!ENTITY addtoBccFieldMenu.label "Προσθήκη στο πεδίο Κρυφ.κοιν">
+<!ENTITY addtoBccFieldMenu.label            "Προσθήκη στο πεδίο Κρυφ.κοιν">
 <!ENTITY addtoBccFieldMenu.accesskey        "φ">
-<!ENTITY toButton.label "Προσθήκη στο Πρός:">
-<!ENTITY toButton.accesskey "Π">
-<!ENTITY ccButton.label "Προσθήκη στο Κοιν:">
-<!ENTITY ccButton.accesskey "θ">
-<!ENTITY bccButton.label "Προσθήκη στο Κρυφ.κοιν: ">
-<!ENTITY bccButton.accesskey "φ">
 
-
+<!ENTITY toButton.label                     "Προσθήκη στο Πρός:">
+<!ENTITY toButton.accesskey                 "Π">
+<!ENTITY ccButton.label                     "Προσθήκη στο Κοιν:">
+<!ENTITY ccButton.accesskey                 "θ">
+<!ENTITY bccButton.label                    "Προσθήκη στο Κρυφ.κοιν: ">
+<!ENTITY bccButton.accesskey                "φ">

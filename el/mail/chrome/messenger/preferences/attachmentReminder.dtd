@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY attachmentReminderDialog.title "Λέξεις κλειδιά για την υπενθύμιση συνημμένου">
-<!ENTITY attachKeywordText.label "Ο &brandShortName; θα σας ειδοποιεί για ξεχασμένα συνημμένα, όταν πρόκειται να στείλετε ένα μήνυμα με τις παρακάτω λέξεις-κλειδιά.">
-<!ENTITY addKeywordButton.label "Προσθήκη">
-<!ENTITY addKeywordButton.accesskey "θ">
-<!ENTITY editKeywordButton.label "Επεξεργασία">
-<!ENTITY editKeywordButton.accesskey "Ε">
-<!ENTITY removeKeywordButton.label "Διαγραφή">
-<!ENTITY removeKeywordButton.accesskey "Δ">
+<!ENTITY attachmentReminderDialog.title   "Λέξεις κλειδιά για την υπενθύμιση συνημμένου">
+<!ENTITY attachKeywordText.label          "Ο &brandShortName; θα σας ειδοποιεί για ξεχασμένα συνημμένα, όταν πρόκειται να στείλετε ένα μήνυμα με τις παρακάτω λέξεις-κλειδιά.">
+<!ENTITY addKeywordButton.label           "Προσθήκη">
+<!ENTITY addKeywordButton.accesskey       "θ">
+<!ENTITY editKeywordButton.label          "Επεξεργασία">
+<!ENTITY editKeywordButton.accesskey      "Ε">
+<!ENTITY removeKeywordButton.label        "Διαγραφή">
+<!ENTITY removeKeywordButton.accesskey    "Δ">

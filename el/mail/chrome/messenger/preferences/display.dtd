@@ -2,42 +2,72 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY itemFormatting.label "Μορφοποίηση">
-<!ENTITY itemTags.label "Ετικέτες">
-<!ENTITY style.label "Μορφοποίηση:">
-<!ENTITY style.accesskey "φ">
-<!ENTITY regularStyle.label "Κανονικά">
-<!ENTITY bold.label "Έντονα">
-<!ENTITY italic.label "Πλάγια">
-<!ENTITY boldItalic.label "Έντονα πλάγια">
-<!ENTITY size.label "Μέγεθος:">
-<!ENTITY size.accesskey "θ">
-<!ENTITY regularSize.label "Κανονικά">
-<!ENTITY bigger.label "Μεγαλύτερα">
-<!ENTITY smaller.label "Μικρότερα">
-<!ENTITY color.label "Χρώμα:">
-<!ENTITY color.accesskey "Χ">
-<!ENTITY displayWidth.label "Μηνύματα απλού κειμένου">
-<!ENTITY displayText.label "Κατά την εμφάνιση μηνυμάτων απλού κειμένου σε παράθεση:">
-<!ENTITY colors.label "Χρώματα">
-<!ENTITY overrideColors.label "Κατά την εμφάνιση μηνυμάτων,να γίνεται χρήση των ακόλουθων χρωμάτων:">
-<!ENTITY textColor.label "Χρώμα κειμένου:">
-<!ENTITY textColor.accesskey "α">
-<!ENTITY backgroundColor.label "Χρώμα παρασκηνίου:">
-<!ENTITY backgroundColor.accesskey "σ">
-<!ENTITY convertEmoticons.label "Οι φατσούλες να εμφανίζονται ως γραφικά">
-<!ENTITY convertEmoticons.accesskey "φ">
-<!ENTITY displayTagsText.label "Οι ετικέτες μπορούν να χρησιμοποιηθούν για την κατηγοριοποίηση και την επισήμανση των μηνυμάτων σας.">
-<!ENTITY addTagButton.label "Προσθήκη">
-<!ENTITY addTagButton.accesskey "θ">
-<!ENTITY editTagButton.label "Επεξεργασία">
-<!ENTITY editTagButton.accesskey "Ε">
-<!ENTITY removeTagButton.label "Διαγραφή">
+<!ENTITY itemFormatting.label             "Μορφοποίηση">
+<!ENTITY itemTags.label                   "Ετικέτες">
+<!ENTITY itemAdvanced.label               "Advanced">
+
+<!ENTITY style.label                      "Μορφοποίηση:">
+<!ENTITY style.accesskey                  "φ">
+<!ENTITY regularStyle.label               "Κανονικά">
+<!ENTITY bold.label                       "Έντονα">
+<!ENTITY italic.label                     "Πλάγια">
+<!ENTITY boldItalic.label                 "Έντονα πλάγια">
+<!ENTITY size.label                       "Μέγεθος:">
+<!ENTITY size.accesskey                   "θ">
+<!ENTITY regularSize.label                "Κανονικά">
+<!ENTITY bigger.label                     "Μεγαλύτερα">
+<!ENTITY smaller.label                    "Μικρότερα">
+<!ENTITY quotedTextColor.label            "Χρώμα:">
+<!ENTITY quotedTextColor.accesskey        "Χ">
+<!ENTITY displayWidth.label               "Μηνύματα απλού κειμένου">
+<!ENTITY displayText.label                "Κατά την εμφάνιση μηνυμάτων απλού κειμένου σε παράθεση:">
+
+<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
+<!ENTITY convertEmoticons.label        "Οι φατσούλες να εμφανίζονται ως γραφικά">
+<!ENTITY convertEmoticons.accesskey    "φ">
+
+<!-- labels -->
+<!ENTITY displayTagsText.label     "Οι ετικέτες μπορούν να χρησιμοποιηθούν για την κατηγοριοποίηση και την επισήμανση των μηνυμάτων σας.">
+<!ENTITY addTagButton.label        "Προσθήκη">
+<!ENTITY addTagButton.accesskey    "θ">
+<!ENTITY editTagButton.label       "Επεξεργασία">
+<!ENTITY editTagButton.accesskey   "Ε">
+<!ENTITY removeTagButton.label     "Διαγραφή">
 <!ENTITY removeTagButton.accesskey "φ">
-<!ENTITY fontsAndColors.label "Γραμματοσειρές">
-<!ENTITY defaultFont.label "Προεπιλεγμένη γραμματοσειρά:">
-<!ENTITY defaultFont.accesskey "ρ">
-<!ENTITY defaultSize.label "Μέγεθος:">
-<!ENTITY defaultSize.accesskey "θ">
-<!ENTITY fontOptions.accesskey "μ">
-<!ENTITY fontOptions.label "Γραμματοσειρές...">
+
+<!-- Fonts and Colors -->
+<!ENTITY fontsAndColors1.label   "Γραμματοσειρές &amp; Χρώματα">
+<!ENTITY defaultFont.label       "Προεπιλεγμένη γραμματοσειρά:">
+<!ENTITY defaultFont.accesskey   "ρ">
+<!ENTITY defaultSize.label       "Μέγεθος:">
+<!ENTITY defaultSize.accesskey   "θ">
+<!ENTITY fontOptions.accesskey   "μ">
+<!ENTITY fontOptions.label       "Γραμματοσειρές...">
+<!ENTITY colorButton.label       "Χρώματα...">
+<!ENTITY colorButton.accesskey   "ρ">
+
+<!-- Advanced -->
+<!ENTITY reading.caption                  "Reading">
+<!ENTITY display.caption                  "Display">
+<!ENTITY showCondensedAddresses.label     "Show only display name for people in my address book">
+<!ENTITY showCondensedAddresses.accesskey "S">
+
+<!ENTITY autoMarkAsRead.label             "Automatically mark messages as read">
+<!ENTITY autoMarkAsRead.accesskey         "A">
+<!ENTITY markAsReadNoDelay.label          "Immediately on display">
+<!ENTITY markAsReadNoDelay.accesskey      "o">
+<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
+     "After displaying for [___] seconds",
+     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
+<!ENTITY markAsReadDelay.label            "After displaying for">
+<!ENTITY markAsReadDelay.accesskey        "d">
+<!ENTITY secondsLabel.label               "seconds">
+<!ENTITY openMsgIn.label                  "Open messages in:">
+<!ENTITY openMsgInNewTab.label            "A new tab">
+<!ENTITY openMsgInNewTab.accesskey        "t">
+<!ENTITY reuseExpRadio0.label             "A new message window">
+<!ENTITY reuseExpRadio0.accesskey         "n">
+<!ENTITY reuseExpRadio1.label             "An existing message window">
+<!ENTITY reuseExpRadio1.accesskey         "e">
+<!ENTITY closeMsgOnMoveOrDelete.label     "Close message window/tab on move or delete">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "C">

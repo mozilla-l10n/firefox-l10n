@@ -8,65 +8,47 @@
 <!ENTITY zoomWindow.label         "Μεγέθυνση">
 <!ENTITY windowMenu.label         "Παράθυρο">
 
-<!ENTITY helpMenu.label           "Βοήθεια"> 
-<!ENTITY helpMenu.accesskey       "Β"> 
+<!ENTITY helpMenu.label           "Βοηθεια"> 
+<!ENTITY helpMenu.accesskey       "H"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Βοήθεια"> 
-<!ENTITY helpMenuWin.accesskey    "Β">
-
-<!ENTITY productHelp.label        "Βοήθεια &brandShortName;">
-<!ENTITY productHelp.accesskey    "Β">
-
-<!ENTITY aboutProduct.label       "Περί &brandShortName;">
-<!ENTITY aboutProduct.accesskey   "ρ">
-
+<!ENTITY helpMenuWin.accesskey    "H">
+<!ENTITY aboutProduct2.label      "Περί &brandShorterName;">
+<!ENTITY aboutProduct2.accesskey  "A">
+<!ENTITY productHelp2.label       "Βοήθεια &brandShorterName;">
+<!ENTITY productHelp2.accesskey   "H">
 <!ENTITY helpMac.commandkey       "?">
 
+<!ENTITY helpKeyboardShortcuts.label     "Συντομεύσεις πληκτρολογίου">
+<!ENTITY helpKeyboardShortcuts.accesskey "K">
+
+<!ENTITY helpSafeMode.label       "Επανεκκίνηση χωρίς πρόσθετες λειτουργίες…">
+<!ENTITY helpSafeMode.accesskey   "R">
+<!ENTITY helpSafeMode.stop.label       "Επανεκκίνηση με πρόσθετες λειτουργίες">
+<!ENTITY helpSafeMode.stop.accesskey   "R">
+
+<!ENTITY healthReport2.label      "Αναφορά υγείας &brandShorterName;">
+<!ENTITY healthReport2.accesskey  "e">
+
+<!ENTITY helpTroubleshootingInfo.label      "Πληροφορίες αντιμετώπισης προβλημάτων">
+<!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
 <!ENTITY helpFeedbackPage.label      "Υποβολή σχολίων…">
-<!ENTITY helpFeedbackPage.accesskey  "χ">
+<!ENTITY helpFeedbackPage.accesskey  "S">
 
-<!ENTITY healthReport.label       "Αναφορά υγείας &brandShortName;">
+<!ENTITY helpShowTour2.label            "Ξενάγηση στον &brandShorterName;">
+<!ENTITY helpShowTour2.accesskey        "o">
 
-<!ENTITY healthReport.accesskey   "γ">
-
-
-
-<!ENTITY preferencesCmdMac.label        "Προτιμήσεις...">
+<!ENTITY preferencesCmdMac.label        "Προτιμήσεις…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
-
 <!ENTITY servicesMenuMac.label          "Υπηρεσίες">
- 
-<!ENTITY hideThisAppCmdMac.label        "Απόκρυψη &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey   "H">
 
- 
+<!ENTITY hideThisAppCmdMac2.label       "Απόκρυψη &brandShorterName;">
+<!ENTITY hideThisAppCmdMac2.commandkey  "H">
+
 <!ENTITY hideOtherAppsCmdMac.label      "Απόκρυψη άλλων">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Εμφάνιση όλων">
-
-<!ENTITY helpMac.commandkey       "?">
-
-
-<!ENTITY helpTroubleshootingInfo.label      "Πληροφορίες αντιμετώπισης προβλημάτων">
-<!ENTITY helpTroubleshootingInfo.accesskey  "μ">
-
-<!ENTITY productHelp.label        "Βοήθεια &brandShortName;">
-<!ENTITY productHelp.accesskey    "Β">
-
-
-<!ENTITY helpSafeMode.label       "Επανεκκίνηση σε ασφαλή λειτουργία…">
-<!ENTITY helpSafeMode.accesskey   "φ">
-
-<!ENTITY helpKeyboardShortcuts.label     "Συντομεύσεις πληκτρολογίου">
-
-<!ENTITY helpKeyboardShortcuts.accesskey "υ">
-
-<!ENTITY helpShowTour.label             "Ξενάγηση στον &brandShortName;">
-<!ENTITY helpShowTour.accesskey         "Ξ">
-
-
-

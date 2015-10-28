@@ -2,10 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-<!ENTITY switchToNewTabs.label        "Άμεση εστίαση στο άνοιγμα ενός δεσμού σε μια νέα καρτέλα">
-<!ENTITY switchToNewTabs.accesskey    "σ">
+<!ENTITY newWindowsAsTabs.label       "Άνοιγμα νέων παραθύρων σε νέα καρτέλα">
+<!ENTITY newWindowsAsTabs.accesskey   "τ">
 
 <!ENTITY warnCloseMultipleTabs.label  "Προειδοποίηση στο κλείσιμο πολλαπλών καρτελών">
 <!ENTITY warnCloseMultipleTabs.accesskey  "δ">
@@ -13,13 +11,12 @@
 <!ENTITY warnOpenManyTabs.label       "Προειδοποίηση όταν το άνοιγμα πολλαπλών καρτελών ενδέχεται να επιβραδύνει τον &brandShortName;">
 <!ENTITY warnOpenManyTabs.accesskey   "ο">
 
-
-<!ENTITY newWindowsAsTabs.label       "Άνοιγμα νέων παραθύρων σε νέα καρτέλα">
-<!ENTITY newWindowsAsTabs.accesskey   "τ">
-
-<!ENTITY showTabsInTaskbar.label          "Προβολή προεπισκόπησης καρτελών στην taskbar των Windows">
-<!ENTITY showTabsInTaskbar.accesskey      "ε">
-
 <!ENTITY restoreTabsOnDemand.label        "Να μην γίνεται φόρτωση των καρτελών που δεν εχουν επιλεχθεί">
 <!ENTITY restoreTabsOnDemand.accesskey    "θ">
 
+<!ENTITY switchToNewTabs.label        "Άμεση εστίαση στο άνοιγμα ενός δεσμού σε μια νέα καρτέλα">
+<!ENTITY switchToNewTabs.accesskey    "σ">
+
+<!ENTITY showTabsInTaskbar.label          "Προβολή προεπισκόπησης καρτελών στην taskbar των Windows">
+<!ENTITY showTabsInTaskbar.accesskey      "ε">
+<!ENTITY tabsGroup.label          "Tabs">

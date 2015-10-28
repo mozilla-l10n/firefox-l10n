@@ -2,14 +2,22 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY prefWindow.titleWin "Επιλογές">
-<!ENTITY prefWindow.titleGNOME "Προτιμήσεις &brandShortName;">
-<!ENTITY prefWindow.styleWindows "width: 53em; min-height: 38.5em;">
-<!ENTITY prefWindow.styleMac "width: 53em;">
-<!ENTITY prefWindow.styleGNOME "width: 54em; min-height: 38em;">
-<!ENTITY paneGeneral.title "Γενικά">
-<!ENTITY paneDisplay.title "Εμφάνιση">
-<!ENTITY paneComposition.title "Σύνταξη">
-<!ENTITY paneAttachments.title "Συνημμένα">
-<!ENTITY paneSecurity.title "Ασφάλεια">
-<!ENTITY paneAdvanced.title "Για προχωρημένους">
+<!ENTITY  prefWindow.titleWin     "Επιλογές">
+<!ENTITY  prefWindow.titleGNOME   "Προτιμήσεις &brandShortName;">
+<!ENTITY  prefWindow.titleMAC     "Preferences">
+<!ENTITY  prefWindow.styleWindows "width: 53em; min-height: 38.5em;">
+<!ENTITY  prefWindow.styleMac     "width: 53em;">
+<!ENTITY  prefWindow.styleGNOME   "width: 54em; min-height: 38em;">
+
+<!ENTITY paneGeneral.title        "Γενικά">
+<!ENTITY paneDisplay.title        "Εμφάνιση">
+<!ENTITY paneComposition.title    "Σύνταξη">
+<!ENTITY paneChat.title           "Chat">
+<!ENTITY paneAttachments.title    "Συνημμένα">
+<!ENTITY panePrivacy.title        "Privacy">
+<!ENTITY paneSecurity.title       "Ασφάλεια">
+<!ENTITY paneAdvanced.title       "Για προχωρημένους">
+<!ENTITY paneAccount.title        "Accounts">
+
+<!ENTITY okButton.title           "OK">
+<!ENTITY okButton.accesskey       "O">
