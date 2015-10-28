@@ -225,13 +225,17 @@
 <!ENTITY fxaccount_status_more "Mapol&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "Kwany Akaunt me Firefox?">
-
+<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; bigiko tic marom ki akaunt mamegi, ento pe bikwanyo data ni mo keken me yeny ma i nyonyo man.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast "Akaunt me Firefox &formatS; kikwanyo woko.">
 
-
+<!ENTITY fxaccount_remove_account_menu_item "Kwany akaunt">
+<!ENTITY fxaccount_enable_debug_mode "Cak kit me nongo bal">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
+
+<!ENTITY fxaccount_account_type_label "Firefox">
 <!-- Localization note: these are shown by the Android system itself,
      when the user navigates to the Android > Accounts > {Firefox
      Account} Screen. The link takes the user to the Firefox Account
@@ -239,22 +243,30 @@
      Account. -->
 
 <!ENTITY fxaccount_options_title "&syncBrand.shortName.label; Me ayera">
-
+<!ENTITY fxaccount_options_configure_title "Ter &syncBrand.shortName.label;">
 <!-- Localization note: these error messages are shown after a request
      has been made to the remote server, and an error of some type has
      been returned. -->
+
+<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "Myero i yil rwom pa Firefox">
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
 
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "Akaunt dong tye. &formatS1;">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "Email onyo mung me donyo ma pe atir">
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "Email onyo mung me donyo ma pe atir">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "Pe ki moko akaunt">
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "Lapok tic tye ki tic, tem doki cokki.">
+<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Lapok tic tye ki tic, tem doki cokki.">
+<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Peko obedo tye">
+<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Pe twero kube i netwak">
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "Kiloro akaunt woko. &formatS1;">
 
-
-
-
-
-
-
-
+<!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; pe okube">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Gudi me donyo iyie calo &formatS;">
 
+<!ENTITY fxaccount_sync_finish_migrating_notification_title "Tyek yilo rwom pa &syncBrand.shortName.label;?">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text "Gudi me donyo iyie calo &formatS;">

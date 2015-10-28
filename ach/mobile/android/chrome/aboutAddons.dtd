@@ -11,4 +11,5 @@
 <!ENTITY addonAction.uninstall                  "Pe I ket">
 <!ENTITY addonAction.undo                       "Dok cen">
 
+<!ENTITY addonUnsigned.message                  "Med-ikome man pe onongo kitwero moko ada ne ki &brandShortName;.">
 <!ENTITY addonUnsigned.learnMore                "Nong ngec mapol">

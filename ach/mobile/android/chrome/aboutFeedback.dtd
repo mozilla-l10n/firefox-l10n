@@ -6,23 +6,36 @@
      your language and/or locale. More detailed notes below. -->
 
 
+<!ENTITY pageTitle                 "&brandShortName; Adwogi">
 
-
-
+<!ENTITY intro.header              "Itye ki dakika acel?">
+<!ENTITY intro.message             "Titi wa ngo ma i tamo dong ikom &brandShortName; me Android.">
+<!ENTITY intro.happyLink           "Amaro">
+<!ENTITY intro.sadLink             "Anongo peko mogo">
+<!ENTITY intro.maybeLater          "Gwok lacen">
 <!-- LOCALIZATION NOTE (support.pre): Include a trailing space as needed. -->
 <!-- LOCALIZATION NOTE (support.link): Avoid leading/trailing spaces, this text is a link. -->
 <!-- LOCALIZATION NOTE (support.post): Include a starting space as needed. -->
 
+<!ENTITY support.pre3              "Lim ">
+<!ENTITY support.link2             "Kakube wa me Kony">
+<!ENTITY support.post3             " me nongo lagam pi peki me pol kare.">
 
-
+<!ENTITY happy.header              "Meno ber me awinya!">
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
      but essentially it means that we want you to let others know how much you love Firefox. -->
+
+<!ENTITY happy.message             "Imito nywako mar ne ki mini wa nyota 5 i Google Play?">
 <!-- LOCALIZATION NOTE (happy.finePrint): "feels great" — Another exaggeration where we're trying to
      get people to rate us by playfully telling them there's a benefit in it for them as well. -->
 
+<!ENTITY happy.finePrint           "Tero dakika mape oo acel ki iwinyo ma mit.">
 
+<!ENTITY happy.ratingLink          "Eyo, cit i Google Play">
+<!ENTITY happy.maybeLater2         "Gwok lacen">
+<!ENTITY happy.noThanks            "Pe apwoyo">
 
-
+<!ENTITY sad.header                "Oh pe!">
 
 
 

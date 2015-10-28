@@ -8,7 +8,7 @@
 
 <!ENTITY aboutDownloads.open                       "Yab">
 <!ENTITY aboutDownloads.remove                     "Kwany woko">
-
+<!ENTITY aboutDownloads.removeAll                  "Kwany weng">
 <!ENTITY aboutDownloads.pause                      "Cung manok">
 <!ENTITY aboutDownloads.resume                     "Dwogo">
 <!ENTITY aboutDownloads.cancel                     "Juk">
