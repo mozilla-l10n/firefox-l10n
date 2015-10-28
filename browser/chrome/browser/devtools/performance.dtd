@@ -53,13 +53,13 @@
   -  in the toolbar on buttons that select which view is currently shown. -->
 
 <!ENTITY performanceUI.toolbar.waterfall "Krioklys">
-
+<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Rodomos nuosekliai išdėstytos skirtingos įrašinėjimo metu naršyklės atliekamos operacijos.">
 <!ENTITY performanceUI.toolbar.js-calltree "Kreipinių medis">
-
+<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Paryškinamos daugiausiai naršyklės darbo laiko įrašinėjimo metu pareikalavusios „JavaScript“ funkcijos.">
 <!ENTITY performanceUI.toolbar.memory-calltree "Išskyrimai">
-
+<!ENTITY performanceUI.toolbar.allocations.tooltiptext "Rodoma kam įrašinėjimo metu buvo išskirta atminties.">
 <!ENTITY performanceUI.toolbar.js-flamegraph "JS liepsnų diagrama">
-
+<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Rodomas „JavaScript“ kreipinių dėklas vykstant įrašinėjimui.">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "Išskyrimų liepsnų diagrama">
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
