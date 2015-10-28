@@ -4,10 +4,15 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Телеметрия мәліметтері">
 
+<!ENTITY aboutTelemetry.changeDataChoices "  Өзгерту">
 
+<!ENTITY aboutTelemetry.uploadEnabled "  FHR деректерін жүктеу <span>іске қосылған</span>.">
 
+<!ENTITY aboutTelemetry.uploadDisabled "  FHR деректерін жүктеу <span>сөндірілген</span>.">
 
+<!ENTITY aboutTelemetry.extendedRecordingEnabled "  Кеңейтілген телеметрия жазылуы <span>іске қосылған</span>.">
 
+<!ENTITY aboutTelemetry.extendedRecordingDisabled "  Кеңейтілген телеметрия жазылуы <span>сөндірілген</span>.">
 
 
 
