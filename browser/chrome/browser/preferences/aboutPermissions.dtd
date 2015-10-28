@@ -45,3 +45,4 @@
 <!ENTITY camera.label                    "Koristi kameru">
 <!ENTITY microphone.label                "Koristi mikrofon">
 
+<!ENTITY focusSearch.key                 "f">
