@@ -1,8 +1,8 @@
 <!ENTITY aboutPage.title                        "Informaçioin rigoardo &brandShortName;">
-<!ENTITY aboutPage.warningVersion               "&brandShortName; o l'é sperimentale e peu ese instabile.">
+<!ENTITY aboutPage.warningVersion               "&brandShortName; o l'é sperimentale e o peu ese instabile.">
 <!ENTITY aboutPage.telemetryStart               "O manda de informaçioin in sce prestaçioin, hardware, uzo e personalizaçioin in aotomatico inderê ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 "pe agiutâ a megiorâ &brandShortName;. ">
+<!ENTITY aboutPage.telemetryEnd                 "pe agiutâ a megioâ &brandShortName;. ">
 <!ENTITY aboutPage.checkForUpdates.link         "Çerca agiornamenti »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Çerco i agiornamenti…">
 <!ENTITY aboutPage.checkForUpdates.none         "No gh'é di agiornamenti">
