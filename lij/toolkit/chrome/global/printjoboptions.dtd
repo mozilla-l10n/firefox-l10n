@@ -23,8 +23,8 @@
 <!ENTITY topInput.accesskey "I">
 <!ENTITY bottomInput.label "In fondo:">
 <!ENTITY bottomInput.accesskey "I">
-<!ENTITY leftInput.label "Scinistra:">
+<!ENTITY leftInput.label "Mancinn-a:">
 <!ENTITY leftInput.accesskey "S">
-<!ENTITY rightInput.label "Destra:">
+<!ENTITY rightInput.label "Drita:">
 <!ENTITY rightInput.accesskey "r">
 
