@@ -652,52 +652,72 @@ ki Android">
 <!ENTITY new_guest_session_title "&brandShortName; dong bi nwoyo cakke">
 <!ENTITY new_guest_session_text2 "Ngat matye katic kwede pe bi neno data ni mo keken me yeny (calo mung me donyo ma kigwoko, gin mukato onyo alamabuk).\n\nKace welo ni otyeko, ki bikwanyo woko data gi me yeny kadong ki bidwoko kare mamegi.">
 <!ENTITY guest_browsing_notification_title "Kicako yeny pa welo">
+<!ENTITY guest_browsing_notification_text "Gudi me kato">
 
-
-
+<!ENTITY exit_guest_session_title "&brandShortName; dong bi nwoyo cakke">
+<!ENTITY exit_guest_session_text "Data me yeny me kare man ki bikwanyo woko.">
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
 
+<!ENTITY ellipsis "…">
+
+<!ENTITY colon ":">
 <!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
      display a percentage value. formatS is the number, #37 is the code to display a percent sign.
      This format string is typically used by getString method, in such method the percent sign
      is a reserved caracter. In order to display one percent sign in the result of getString,
      double percent signs must be inserted in the format string.
      This entity is used in the zoomed view to display the zoom factor-->
+
+<!ENTITY percent "&formatS;&#037;&#037;">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
+
+<!ENTITY actionbar_menu "Jami ayera">
 <!ENTITY actionbar_done "Otum">
 <!-- Voice search in the awesome bar -->
+
+<!ENTITY voicesearch_prompt "Loki dong">
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
+
+<!ENTITY remote_tabs_last_synced "Kitimo marom me agiki i: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "Kitimo marom me agiki i: pe matwal">
 <!-- Find-In-Page strings -->
 <!-- LOCALIZATION NOTE (find_matchcase): This is meant to appear as an icon that changes color
      if match-case is activated. i.e. No more than two letters, one uppercase, one lowercase. -->
 
+<!ENTITY find_matchcase "Aa">
+
+<!ENTITY intent_uri_cannot_open "Pe twero yabo kakube">
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
      above a QR reader that is actively scanning for QR codes.  The expected QR
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
+
+<!ENTITY devtools_auth_scan_header "Tye ka menyo kod me QR ma ki nyuto i nyonyo mamegi">
 <!-- Restrictions -->
 <!-- Localization note: These are restrictions the device owner (e.g. parent) can enable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
-
-
-
-
-
-
-
+<!ENTITY restriction_disallow_import_settings_title2 "Juk \u0027Kel ki woko ki Android\u0027">
+<!ENTITY restriction_disallow_addons_title2 "Juk keto med-ikome">
+<!ENTITY restriction_disallow_devtools_title2 "Juk jami pa layub">
+<!ENTITY restriction_disallow_customize_home_title2 "Juk yik me gang">
+<!ENTITY restriction_disallow_private_browsing_title2 "Juk yeny i mung">
+<!ENTITY restriction_disallow_location_services_title2 "Juk tic me kabedo">
+<!ENTITY restriction_disallow_display_settings_title2 "Juk ter me yaro jami">
+<!ENTITY restriction_disallow_clear_history_title2 "Juk \u0027Jwa yeny mukato\u0027">
+<!ENTITY restriction_disallow_master_password_title2 "Juk mung me donyo madit">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
