@@ -154,16 +154,12 @@
 <!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Está compartiendo su micrófono con el sitio">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Administrar el compartir su ventana o pantalla con el sitio">
 <!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Está compartiendo una ventana o su pantalla con el sitio">
-<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Change whether the site can hide the pointer">
-<!ENTITY urlbar.servicesNotificationAnchor.label        "View the service install message">
-<!ENTITY urlbar.translateNotificationAnchor.label       "Translate this page">
-<!ENTITY urlbar.translatedNotificationAnchor.label      "Manage page translation">
-<!ENTITY urlbar.emeNotificationAnchor.label             "Manage use of DRM software">
-
-<!ENTITY urlbar.toggleAutocomplete.label                "Toggle the autocomplete popup">
-
-
-<!ENTITY locationItem.title "Dirección">
+<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Modificar ajustes de ocultación del puntero por parte del sitio">
+<!ENTITY urlbar.servicesNotificationAnchor.label        "Ver el mensaje de instalación del servicio">
+<!ENTITY urlbar.translateNotificationAnchor.label       "Traducir esta página">
+<!ENTITY urlbar.translatedNotificationAnchor.label      "Gestionar traducción de página">
+<!ENTITY urlbar.emeNotificationAnchor.label             "Gestionar uso de software DRM">
+<!ENTITY urlbar.openHistoryPopup.tooltip                "Mostrar historial">
 <!ENTITY searchItem.title "Buscar">
 <!ENTITY homeButton.label "Inicio">
 <!ENTITY tabGroupsButton.label "Grupos de pestañas">
