@@ -10,27 +10,27 @@ file names and tall enough to hint that there are more activities in the list --
 
 <!ENTITY activity.title                  "Activity Manager">
 
-<!ENTITY cmd.pause.label                  "Pause">
-<!ENTITY cmd.pause.accesskey              "P">
-<!ENTITY cmd.resume.label                 "Resume">
-<!ENTITY cmd.resume.accesskey             "R">
-<!ENTITY cmd.cancel.label                 "Cancel">
-<!ENTITY cmd.cancel.accesskey             "C">
-<!ENTITY cmd.undo.label                   "Undo">
-<!ENTITY cmd.undo.accesskey               "U">
-<!ENTITY cmd.recover.label                "Recover">
-<!ENTITY cmd.recover.accesskey            "v">
-<!ENTITY cmd.retry.label                  "Retry">
-<!ENTITY cmd.retry.accesskey              "R">
-<!ENTITY cmd.removeFromList.label         "Remove From List">
-<!ENTITY cmd.removeFromList.accesskey     "e">
+<!ENTITY cmd.pause.label                  "Пауза">
+<!ENTITY cmd.pause.accesskey              "П">
+<!ENTITY cmd.resume.label                 "Відновити">
+<!ENTITY cmd.resume.accesskey             "В">
+<!ENTITY cmd.cancel.label                 "Скасувати">
+<!ENTITY cmd.cancel.accesskey             "С">
+<!ENTITY cmd.undo.label                   "Відмінити">
+<!ENTITY cmd.undo.accesskey               "В">
+<!ENTITY cmd.recover.label                "Відновити">
+<!ENTITY cmd.recover.accesskey            "в">
+<!ENTITY cmd.retry.label                  "Спробувати знову">
+<!ENTITY cmd.retry.accesskey              "з">
+<!ENTITY cmd.removeFromList.label         "Вилучити зі списку">
+<!ENTITY cmd.removeFromList.accesskey     "и">
 
 <!ENTITY cmd.close.commandkey             "w">
 <!ENTITY cmd.close2.commandkey            "j">
 <!ENTITY cmd.close2Unix.commandkey        "y">
-<!ENTITY cmd.clearList.label              "Clear List">
-<!ENTITY cmd.clearList.tooltip            "Removes completed, canceled, and failed items from the list">
-<!ENTITY cmd.clearList.accesskey          "C">
+<!ENTITY cmd.clearList.label              "Очистити список">
+<!ENTITY cmd.clearList.tooltip            "Вилучає завершені, скасовані та завершені невдало елементи зі списку">
+<!ENTITY cmd.clearList.accesskey          "В">
 <!ENTITY cmd.find.commandkey              "f">
 <!ENTITY cmd.search.commandkey            "k">
 
