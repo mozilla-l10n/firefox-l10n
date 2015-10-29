@@ -62,12 +62,12 @@
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls on the HTTP server. -->
 <!ENTITY btnServerLogging.label       "Strežnik">
-<!ENTITY btnServerLogging.tooltip     "Sporočilo dnevnika prejetega od strežnika">
+<!ENTITY btnServerLogging.tooltip     "Beleži sporočila strežnika">
 <!ENTITY btnServerLogging.accesskey   "S">
 <!ENTITY btnServerErrors              "Napake">
-<!ENTITY btnServerInfo                "Informacije">
+<!ENTITY btnServerInfo                "Obvestila">
 <!ENTITY btnServerWarnings            "Opozorila">
-<!ENTITY btnServerLog                 "Dnevnik">
+<!ENTITY btnServerLog                 "Beležke">
 
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
