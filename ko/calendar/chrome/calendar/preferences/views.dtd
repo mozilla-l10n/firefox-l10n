@@ -14,6 +14,8 @@
 
 <!ENTITY pref.weekstarts.label "한 주의 시작:">
 <!ENTITY pref.weekstarts.accesskey "r">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.label "주차 표시">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "w">
 <!ENTITY pref.daysoff.label "근무 주 포함 요일:">
 
 <!ENTITY pref.calendar.view.daystart.label "일일 시작 시점:">
