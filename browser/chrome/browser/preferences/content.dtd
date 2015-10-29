@@ -6,6 +6,14 @@
 
 <!ENTITY  blockPopups.label           "&quot;Атып шығатын&quot; терезелерді болдырмау">
 <!ENTITY  blockPopups.accesskey       "б">
+
+
+
+
+
+
+
+
 <!ENTITY  popupExceptions.label       "Осыдан бөлек…">
 <!ENTITY  popupExceptions.accesskey   "О">
 

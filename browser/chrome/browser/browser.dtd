@@ -189,7 +189,30 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Баспаға шығару">
 <!ENTITY printButton.tooltip          "Ағымдағы бетті баспаға шығару">
 
-<!ENTITY locationItem.title           "Адрес">
+<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
+     used to provide accessible labels to users of assistive technology like screenreaders.
+     It is not possible to see them visually in the UI. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY searchItem.title             "Іздеу">
 <!-- Toolbar items --> 
 
@@ -229,6 +252,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.commandkey            "a">
 <!ENTITY webapps.label                "Қолданбалар">
 <!ENTITY webapps.accesskey            "д">
+
+
 
 <!ENTITY webDeveloperMenu.label       "Веб өндіруші">
 <!ENTITY webDeveloperMenu.accesskey   "В">
@@ -288,8 +313,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Өндеуші саймандар панелін жабу">
 <!ENTITY devToolbarMenu.label              "Өндеушінің саймандар панелі">
 <!ENTITY devToolbarMenu.accesskey          "п">
-<!ENTITY devAppMgrMenu.label               "Қолданбалар басқарушысы">
-<!ENTITY devAppMgrMenu.accesskey           "а">
 <!ENTITY webide.label                      "WebIDE">
 <!ENTITY webide.accesskey                  "W">
 <!ENTITY webide.keycode                    "VK_F8">
@@ -308,6 +331,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Файл"> 
 <!ENTITY fileMenu.accesskey       "Ф">
+
+
+
+
+
+
+
+
+
+
 <!ENTITY newNavigatorCmd.label        "Жаңа терезе">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "т">
@@ -390,12 +423,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      different access keys. customizeMenu.moveToToolbar and 
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
-<!ENTITY customizeMenu.moveToPanel.label "Мәзірге жылжыту ">
+<!ENTITY customizeMenu.moveToPanel.label "Мәзірге жылжыту">
 <!ENTITY customizeMenu.moveToPanel.accesskey "ы">
 <!ENTITY customizeMenu.removeFromToolbar.label "Саймандар панелінен өшіру">
-<!ENTITY customizeMenu.removeFromToolbar.accesskey "ө">
+<!ENTITY customizeMenu.removeFromToolbar.accesskey "ш">
 <!ENTITY customizeMenu.removeFromMenu.label "Мәзірден өшіру">
-<!ENTITY customizeMenu.removeFromMenu.accesskey "ө">
+<!ENTITY customizeMenu.removeFromMenu.accesskey "ш">
 <!ENTITY customizeMenu.addMoreItems.label "Көбірек элементтерді қосу…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "К">
 
@@ -410,7 +443,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Жоқ">
 <!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "о">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Иә">
-
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "и">
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -749,7 +782,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncBrand.shortName.label    "Синхрондау">
 
 <!ENTITY syncSignIn.label             "&syncBrand.shortName.label; ішіне кіру…">
-
+<!ENTITY syncSignIn.accesskey         "и">
 <!ENTITY syncSyncNowItem.label        "Қазір синхрондау">
 <!ENTITY syncSyncNowItem.accesskey    "с">
 <!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label; үшін қайта байланысу…">
