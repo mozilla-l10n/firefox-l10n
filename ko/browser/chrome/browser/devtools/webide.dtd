@@ -26,6 +26,7 @@
 <!ENTITY projectMenu_showPrefs_accesskey "e">
 <!ENTITY projectMenu_manageComponents_label "추가할 수 있는 항목 관리">
 <!ENTITY projectMenu_manageComponents_accesskey "M">
+<!ENTITY projectMenu_refreshTabs_label "탭 새로고침">
 
 <!ENTITY runtimeMenu_label "런타임">
 <!ENTITY runtimeMenu_accesskey "R">
