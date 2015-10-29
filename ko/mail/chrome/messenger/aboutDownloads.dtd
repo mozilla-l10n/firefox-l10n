@@ -17,5 +17,8 @@
 <!ENTITY cmd.open.accesskey                        "O">
 <!ENTITY cmd.removeFromHistory.label               "기록에서 삭제">
 <!ENTITY cmd.removeFromHistory.accesskey           "e">
-<!ENTITY cmd.clearDownloads.label                  "다운로드 항목 지우기">
-<!ENTITY cmd.clearDownloads.accesskey              "D">
+<!ENTITY cmd.clearList.label                       "목록 지우기">
+<!ENTITY cmd.clearList.accesskey                   "C">
+<!ENTITY cmd.clearList.tooltip                     "현재 진행중인 다운로드 이외의 모든 항목 지우기.">
+<!ENTITY cmd.searchDownloads.label                 "검색…">
+<!ENTITY cmd.searchDownloads.key                   "F">
