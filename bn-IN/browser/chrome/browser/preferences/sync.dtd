@@ -72,7 +72,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY notSignedIn.label           "আপনার সাইন ইন করা নেই।">
 <!ENTITY signIn.label                "সাইন-ইন করুন">
 <!ENTITY profilePicture.tooltip      "প্রোফাইল ছবি পরিবর্তন করুন">
-
+<!ENTITY verifiedManage.label        "অ্যাকাউন্ট পরিচালনা">
 <!ENTITY disconnect.label            "বিচ্ছিন্ন করুন…">
 <!ENTITY verify.label                "ইমেল যাঁচাই করুন">
 <!ENTITY forget.label                "এই ইমেল ভুলে যাওয়া হোক">

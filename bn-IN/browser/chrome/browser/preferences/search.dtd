@@ -11,7 +11,7 @@
 
 <!ENTITY showURLBarSuggestions.label           "অনুসন্ধানের প্রস্তাবিত ফলাফল প্রদর্শন করা হবে">
 <!ENTITY showURLBarSuggestions.accesskey       "l">
-
+<!ENTITY urlBarSuggestionsPermanentPB.label    "অনুসন্ধানের পরামর্শগুলি লোকেশান বারে দেখানো হবেনা কারণ আপনি &brandShortName; কনফিগার করেছেন হিস্ট্রিতে মনে না রাখার জন্য।">
 
 <!ENTITY redirectWindowsSearch.label "এই সার্চ ইঞ্জিনটি ব্যাবহার করুন উইন্ডো থেকে অনুসন্ধান করার জন্য">
 <!ENTITY redirectWindowsSearch.accesskey "W">

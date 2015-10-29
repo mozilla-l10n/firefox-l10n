@@ -13,8 +13,8 @@
 <!ENTITY trackingProtectionPBM5.label         "ট্র্যাকিং সুরক্ষা ব্যবহার করুন ব্যক্তিগত উইন্ডোতে">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "আরও জানুন">
-
-
+<!ENTITY changeBlockList.label          "ব্লক তালিকা পরিবর্তন করুন">
+<!ENTITY changeBlockList.accesskey      "C">
 
 <!ENTITY  history.label                 "পূর্ববর্তী তথ্য">
 
@@ -47,7 +47,6 @@
 
 <!ENTITY  expire.label                  "মেয়াদ উত্তীর্ণ না হওয়া অবধি">
 <!ENTITY  close.label                   "&brandShortName; বন্ধ করার সময় অবধি">
-<!ENTITY  askEachTime.label             "প্রতিবার জিজ্ঞাসা করা হবে">
 
 <!ENTITY  cookieExceptions.label        "ব্যতিক্রম...">
 <!ENTITY  cookieExceptions.accesskey    "E">
