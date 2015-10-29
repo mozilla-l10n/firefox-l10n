@@ -78,11 +78,11 @@
 <!ENTITY changeSettings.label            "Змінити настройки">
 <!ENTITY changeSettings.accesskey        "З">
 
-<!ENTITY contactYourProvider.description "&brandShortName; can allow you to get to your mail using the provided configurations. However, you should contact your administrator or email provider regarding these improper connections. See the Thunderbird FAQ for more information.">
+<!ENTITY contactYourProvider.description "&brandShortName; може дозволити вам отримати вашу пошту з використанням зазначеної конфігурації. Однак, вам варто звернутись до вашого адміністратора чи поштового провайдера щодо цих невластивих з’єднань. Перегляньте довідку Thunderbird для отримання додаткової інформації.">
 
 <!ENTITY insecureServer.tooltip.title    "Увага! Це небезпечний сервер.">
 <!ENTITY insecureServer.tooltip.details  "Клацніть по кружечку щоб дізнатись подробиці.">
 
-<!ENTITY insecureUnencrypted.description "Your email and authentication are sent unencrypted, so your password (and your message) could easily be read by other people. &brandShortName; will let you get to your mail, but you should contact your email provider about configuring the server with a secure connection.">
+<!ENTITY insecureUnencrypted.description "Ваша пошта та пароль надсилаються без шифрування, тому ваш пароль (та ваше повідомлення) можуть бути легко прочитані іншими людьми. &brandShortName; дозволить вам отримати вашу пошту, але вам варто звернутись вашого поштового провайдера щодо налаштування сервера з безпечним з’єднанням.">
 <!ENTITY insecureSelfSigned.description  "Сервер використовує сетрифікат, якому ми не можемо довіряти, отже ми не можемо бути впевнені в тому, що хтось не перехоплює передачу даних між &brandShortName; і вашим сервером. &brandShortName; дозволить вам працювати зі своєю поштою, але ми наполегливо рекомендуємо попросити свого провайдера електронної пошти налаштувати сервер на роботу з довіреним сертифікатом.">
 <!ENTITY secureServer.description        "Вітаємо! Це безпечний сервер.">
