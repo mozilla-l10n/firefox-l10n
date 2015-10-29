@@ -230,7 +230,6 @@
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast 'Обліковий запис Firefox &formatS; вилучено.'>
 
-<!ENTITY fxaccount_remove_account_menu_item 'Вилучити обліковий запис'>
 <!ENTITY fxaccount_enable_debug_mode 'Увімкнути режим зневадження'>
 
 <!-- Localization note: this is the name shown by the Android system
