@@ -112,7 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignIn.label "Huru &syncBrand.shortName.label; ra">
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; ibaayey feeri">
 <!ENTITY fxaSignInError.label "Huru &syncBrand.shortName.label; ra taaga">
-<!ENTITY fxaUnverified.label "War kontoo koroši">
+
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; tunandi">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; ka šintin ka hangandi kayna da.">
 
@@ -131,13 +131,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY fullscreenWarning.beforeDomain.label "">
-<!ENTITY fullscreenWarning.afterDomain.label "dijikul cebeyan sohõ">
-<!ENTITY fullscreenWarning.generic.label "Takaddaa woo ga cebe dijikul ga sohõ">
+
+
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
-<!ENTITY exitDOMFullscreen.button "Fatta dijikul ra (Esc)">
-<!ENTITY exitDOMFullscreenMac.button "Fatta dijikul ra (esc)">
+
 <!ENTITY leaveDOMFullScreen.label "Dijikul alhaali naŋ">
 <!ENTITY leaveDOMFullScreen.accesskey "D">
 
@@ -223,7 +222,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "Zumandiyaney">
 <!ENTITY downloads.accesskey          "Z">
 <!ENTITY downloads.commandkey         "j">
-<!ENTITY downloadsUnix.commandkey     "y">
+
 <!ENTITY addons.label                 "Tontoney">
 <!ENTITY addons.accesskey             "T">
 <!ENTITY addons.commandkey            "A">
@@ -406,11 +405,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "War ga boona ka war ceeciyan goyoo boryandi nda honnandiyaney?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Bay ka tonton…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
+
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Kalaa">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
+
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Ayyo">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
+
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -467,10 +466,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Ceeciyan kayandiyaney barmay">
 
-<!ENTITY searchInNewTab.label         "Ceeci nor loku taaga ra">
-<!ENTITY searchInNewTab.accesskey     "t">
-<!ENTITY searchSetAsDefault.label     "Kayandi sanda tilasu ceecijinay">
-<!ENTITY searchSetAsDefault.accesskey "t">
+
+
+
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -706,38 +704,38 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Ciyari moora">
 <!ENTITY identity.connectionNotSecure "Ciyaroo manti saajante">
 <!ENTITY identity.connectionFile "Moɲoo woo n' ka jisandii war ordinateroo ga.">
-<!ENTITY identity.connectionVerified1 "War dobu nda saajaw nungoo woo ga, kaŋ ga dira nda:">
+
 <!ENTITY identity.connectionInternal "Woo ti &brandShortName; moo saajante.">
-<!ENTITY identity.insecureLoginForms "War huruyan šilbaa ši saajaw ne.">
+
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "&brandShortName; na moɲoo woo doo fooyaŋ kaŋ ši saajaw gagay.">
 <!ENTITY identity.passiveLoaded "Moɲoo woo doo fooyaŋ ši saajaw (sanda biiyaŋ).">
-<!ENTITY identity.activeLoaded "War na jejebuyanoo kaa moɲoo woo ga.">
+<!ENTITY identity.activeLoaded "War na jejeboo kaa moɲoo woo ga.">
 <!ENTITY identity.weakEncryption "Moɲoo woo tuguyan dabaroo ga yalaafu.">
 <!-- Strings for connection state warnings in the subview. -->
 
-<!ENTITY identity.description.insecure "War dobuyanoo moɲoo woo ga ši sutura. Boro taney ga hin ka dii šilbawey kaŋ war n'i sanba (sanda šennikufal, toonandiyan, garaw katta, nda tana).">
-<!ENTITY identity.description.insecureLoginForms "War huruyan šilbaa kaŋ war g'a dam moɲoo woo ga manti saajante nd'a hin ka fukkar.">
-<!ENTITY identity.description.weakCipher "War dobuyanoo moɲoo woo tuguyan dabaroo ga yalaafu nd'a ši sutura.">
-<!ENTITY identity.description.weakCipher2 "Boro taney ga hin ka dii war alhabarey wal'i ma nungoo ladabu barmay.">
-<!ENTITY identity.description.activeBlocked "&brandShortName; na moɲoo woo doo fooyaŋ kaŋ ši saajaw gagay.">
-<!ENTITY identity.description.passiveLoaded "War dobuyano ši sutura nda boro taney ga hin ka dii alhabarey kaŋ war n'i žemna nda nungoo.">
-<!ENTITY identity.description.passiveLoaded2 "Nungoo goo nda gundekuna kaŋ manti saajante (sanda biiyaŋ).">
-<!ENTITY identity.description.passiveLoaded3 "Baa kaŋ &brandShortName; ga gundekuna jere gagay, gundekuna cindi moɲoo ga kaŋ manti saajante (sanda biiyaŋ).">
-<!ENTITY identity.description.activeLoaded "Nungoo woo goo nda gundekuna kaŋ manti saajante (sanda šigira dumiyaŋ) nda dobuyanoo ši sutura.">
-<!ENTITY identity.description.activeLoaded2 "Boro taney ga hin ka dii alhabar kaŋ war g'a žemna nda nungoo woo (sanda šennikufal, tooonandiyan, garaw katta, nda tana).">
+<!ENTITY identity.description.insecure "War ciyaroo moɲoo woo ga ši sutura. Boro tanayaŋ ga hin ka dii tammaasawey kaŋ war g'i sanba (sanda šennikufal, toonandiyan, garaw katta nda tana).">
 
-<!ENTITY identity.enableMixedContentBlocking.label "Jejebuyan tunandi">
+<!ENTITY identity.description.weakCipher "War ciyaroo moɲoo woo ga tuguyan dabaroo ga yalaafu nd'a ši sutura.">
+<!ENTITY identity.description.weakCipher2 "Boro tanayaŋ ga hin ka dii war alhabarey wal'i ma nungoo ladaboo barmay.">
+<!ENTITY identity.description.activeBlocked "&brandShortName; na moɲoo woo doo fooyaŋ kaŋ ši saajaw gagay.">
+<!ENTITY identity.description.passiveLoaded "War ciyaroo ši sutura nda boro waaniyaŋ ga hin ka dii alhabarey kaŋ war n'i žemna nda nungoo.">
+<!ENTITY identity.description.passiveLoaded2 "Nungoo goo nda gundekuna kaŋ manti saajante (sanda biiyaŋ).">
+<!ENTITY identity.description.passiveLoaded3 "Baa kaŋ &brandShortName; ga gundekunaa jeroo gagay, gundekuna cindi moɲoo ga kaŋ manti saajante (sanda biiyaŋ).">
+<!ENTITY identity.description.activeLoaded "Nungoo woo goo nda gundekuna kaŋ manti saajante (sanda šigira dumiyaŋ) nda war ciyaroo ši sutura.">
+<!ENTITY identity.description.activeLoaded2 "Boro waani ga hin ka dii alhabar kaŋ war g'a žemna nda nungoo woo (sanda šennikufal, toonandiyan, garaw katta nda haya tana).">
+
+<!ENTITY identity.enableMixedContentBlocking.label "Jejeboo tunandi">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "e">
 <!ENTITY identity.disableMixedContentBlocking.label "Jejebu kaa sohõ se">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
-<!ENTITY identity.learnMore "Bay ka tonton">
+<!ENTITY identity.learnMore "Caw ka tonton">
 
 <!ENTITY identity.moreInfoLinkText2 "Alhabar tontoni">
 
 <!ENTITY identity.permissions "Duɲeyaney">
-<!ENTITY identity.permissionsEmpty "War mana cerecere duɲeyan kul noo nungoo woo se.">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -748,8 +746,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
-<!ENTITY syncSignIn.label             "Huru &syncBrand.shortName.label; ra…">
-<!ENTITY syncSignIn.accesskey         "Y">
+
 <!ENTITY syncSyncNowItem.label        "Sync sohõ">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Ciya &syncBrand.shortName.label;… sekoyne">
@@ -810,24 +807,24 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "z">
 <!ENTITY getUserMedia.selectMicrophone.label "Jindezaahaya kaŋ ka žemna:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "m">
-<!ENTITY getUserMedia.audioCapture.label "Jinde kaŋ hun nor lokoo woo ga mma žemnandi.">
+<!ENTITY getUserMedia.audioCapture.label "Jinde kaŋ hun kanjoo woo ga mma žemnandi.">
 <!ENTITY getUserMedia.allWindowsShared.message "Zanfun kaŋ ga banga war dijoo ga kul ga žemnandi.">
 
-<!ENTITY trackingProtection.title "Ganayan jejebuyan">
-<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; ga moɲoo dooyaŋ gagay kaŋ ga hin ka war ceeciyanoo gana.">
-<!ENTITY trackingProtection.detectedNotBlocked3 "Hayayaŋ goo moɲoo woo ra kaŋ ga hin ka war ceeciyanoo gana. War na jejebu kaa.">
+<!ENTITY trackingProtection.title "Ganayan jejebu">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; ga moɲoo dooyaŋ gagay kaŋ ga hin ka war goyey gana.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "Hayayaŋ goo moɲoo woo ra kaŋ ga hin ka war ceeciyanoo gana. War na jejeboo kaa.">
 <!ENTITY trackingProtection.notDetected3 "Ganayan haya kul mana maatandi moɲoo woo ga.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock.label "Jejebu kaa moɲoo woo se">
+<!ENTITY trackingProtection.unblock.label "Jejeboo kaa moɲoo woo se">
 <!ENTITY trackingProtection.unblock.accesskey "a">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate.label "Jejebu kaa moɲoo woo se">
+<!ENTITY trackingProtection.unblockPrivate.label "Jejeboo kaa moɲoo woo se">
 <!ENTITY trackingProtection.unblockPrivate.accesskey "a">
-<!ENTITY trackingProtection.block2.label "Jejebu tunandi">
+<!ENTITY trackingProtection.block2.label "Jejebuyan tunandi">
 <!ENTITY trackingProtection.block2.accesskey "e">
 
 <!ENTITY trackingContentBlocked.message "Kuryan">

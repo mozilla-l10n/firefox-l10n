@@ -45,11 +45,11 @@
      -->
 
 <!ENTITY trackingProtection.state.width        "6ch">
-<!ENTITY trackingProtection.state.enabled      "DIRA">
-<!ENTITY trackingProtection.state.disabled     "WII">
+<!ENTITY trackingProtection.state.enabled      "Ga dii">
+<!ENTITY trackingProtection.state.disabled     "Ši dira">
 
 <!ENTITY trackingProtection.description1       "Sutura zanfuney ga moo doo fooyaŋ gagay kaŋ ga hin ka war ceeciyaney gana.">
 
 <!ENTITY trackingProtection.disable            "Ganayan jejeboo wii">
 <!ENTITY trackingProtection.enable             "Ganayan jejeboo tunandi">
-<!ENTITY trackingProtection.startTour1         "Dii takaa nda woo ga dira">
+<!ENTITY trackingProtection.startTour1         "Dii taka kaŋ nda sutura ceeciyan ga goy">

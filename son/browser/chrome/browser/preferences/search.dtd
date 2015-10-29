@@ -9,11 +9,11 @@
 <!ENTITY provideSearchSuggestions.label        "Ceeci honnandiyaney noo">
 <!ENTITY provideSearchSuggestions.accesskey    "C">
 
-<!ENTITY showURLBarSuggestions.label           "Ceeci honnandiyaney cebe zuu gorodoo hunyaney ra">
-<!ENTITY showURLBarSuggestions.accesskey       "g">
-<!ENTITY urlBarSuggestionsPermanentPB.label    "Ceeci honnandiyaney ši cebe gorodoo zuu hunyaney ra zama war na &brandShortName; hanse a ma ši honga taariki kul.">
+<!ENTITY showURLBarSuggestions.label           "Ceeci honnandiyaney cebe gorodoo hunyaney zuwoo ra">
+<!ENTITY showURLBarSuggestions.accesskey       "l">
 
-<!ENTITY redirectWindowsSearch.label "Goy nda ceecijnaa woo Windows ceeciyaney se">
+
+<!ENTITY redirectWindowsSearch.label "Goy nda ceecijinaa woo Windows ceeciyaney se">
 <!ENTITY redirectWindowsSearch.accesskey "W">
 
 <!ENTITY oneClickSearchEngines.label           "Cee-foo naaguyan ceecijinawey">

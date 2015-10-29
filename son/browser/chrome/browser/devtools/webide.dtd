@@ -116,7 +116,7 @@
 <!ENTITY prefs_title "Ibaayey">
 <!ENTITY prefs_editor_title "Fasalkaw">
 <!ENTITY prefs_general_title "Hankul">
-
+<!ENTITY prefs_restore "Tilasey yeeti">
 <!ENTITY prefs_manage_components "Jinay-ize tontoney juwal">
 <!ENTITY prefs_options_autoconnectruntime "Dirandi waati bisantaa cee taaga">
 <!ENTITY prefs_options_autoconnectruntime_tooltip "Dirandi waati bisante cee taaga waati kaŋ WebIDE ga šintin">
@@ -140,7 +140,7 @@
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "Duɲeyaney daaroo">
-
+<!ENTITY permissionstable_name_header "Maa">
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "Dirandi waati alhabar">
@@ -198,12 +198,14 @@
 <!ENTITY logs_title "Soolu-waate juwal zaaritiirawey">
 <!-- Simulator Options -->
 
-
-
-
+<!ENTITY simulator_title "Himari-cebekaw suubarey">
+<!ENTITY simulator_remove "Himari-cebekaw tuusu">
+<!ENTITY simulator_reset "Tilasey yeeti">
+<!ENTITY simulator_name "Maa">
+<!ENTITY simulator_software "Porogaram">
 <!ENTITY simulator_version "Dumi">
-
-
+<!ENTITY simulator_profile "Alhaali">
+<!ENTITY simulator_hardware "Jinay šenda">
 <!ENTITY simulator_device "Jinay">
-
-
+<!ENTITY simulator_screenSize "Diji">
+<!ENTITY simulator_pixelRatio "Biitonbi hinna">

@@ -24,10 +24,7 @@
 <!ENTITY  addonExceptions.accesskey     "H">
 
 
-<!ENTITY  logins.label                  "Huruyan maaɲey">
 
-<!ENTITY  rememberLogins.label          "Honga huruyan maaɲey nungey se">
-<!ENTITY  rememberLogins.accesskey      "H">
 <!ENTITY  passwordExceptions.label      "Hasarawey…">
 <!ENTITY  passwordExceptions.accesskey  "s">
 
@@ -36,5 +33,4 @@
 <!ENTITY  changeMasterPassword.label     "Takaddaɲaa šennikufal barmay">
 <!ENTITY  changeMasterPassword.accesskey "T">
 
-<!ENTITY  savedLogins.label              "Huruyan maa gaabuntey…">
-<!ENTITY  savedLogins.accesskey          "m">
+
