@@ -149,6 +149,7 @@
      clicks on the button to send a tab to another device and there are no
      other devices present. This label should briefly inform the user that they
      need another connected device in order to use the feature. -->
+<!ENTITY menu_no_synced_devices "Enviar esta aba para outro dispositivo conectado">
 
 <!ENTITY pref_category_search3 "Pesquisar">
 <!ENTITY pref_category_search_summary "Personalize seus mecanismos de pesquisa">
@@ -215,12 +216,17 @@
 <!ENTITY pref_cookies_not_accept_foreign "Ativado, excluindo os de terceiros">
 <!ENTITY pref_cookies_disabled "Desativado">
 
+<!ENTITY pref_tap_to_load_images_title "Imagens de toque-para-carregar">
+<!ENTITY pref_tap_to_load_images_summary2 "Carregar imagens apenas quando você der um longo toque nelas">
 
 <!ENTITY pref_tracking_protection_title "Proteção contra rastreamento">
 <!ENTITY pref_tracking_protection_summary3 "Ativo na navegação privativa">
 <!ENTITY pref_donottrack_title "Não rastrear">
 <!ENTITY pref_donottrack_summary "O &brandShortName; informará aos sites que você não quer ser rastreado">
 
+<!ENTITY pref_tracking_protection_enabled "Habilitado">
+<!ENTITY pref_tracking_protection_enabled_pb "Habilitado na navegação privativa">
+<!ENTITY pref_tracking_protection_disabled "Desabilitado">
 
 <!ENTITY tracking_protection_prompt_title "Agora com proteção contra rastreamento">
 <!ENTITY tracking_protection_prompt_text "Bloqueia elementos de rastreamento para que você não precise se preocupar.">
@@ -290,6 +296,7 @@ size. -->
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_sync_summary2 "Sincronize suas abas, favoritos, logins e histórico">
 <!ENTITY pref_search_suggestions "Mostrar sugestões de pesquisa">
+<!ENTITY pref_history_search_suggestions "Mostrar histórico de pesquisa">
 <!ENTITY pref_import_android "Importar do Android">
 <!ENTITY pref_import_android_summary "Importar favoritos e histórico do navegador nativo">
 <!ENTITY pref_private_data_history2 "Histórico de navegação">
@@ -582,6 +589,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Conexão segura">
 <!ENTITY identity_connection_insecure "Conexão insegura">
+<!ENTITY identity_login_insecure "Esta página não é segura e seu login pode estar vulnerável.">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "O &brandShortName; bloqueou conteúdo inseguro nesta página.">
@@ -701,6 +709,7 @@ do Android">
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
+<!ENTITY intent_uri_private_browsing_prompt "Este link vai abrir em &formatS;. Tem certeza que deseja sair da navegação privativa?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android
@@ -708,6 +717,7 @@ do Android">
      We don't have control over the style of this dialog and it looks
      unpolished when this string is longer than one line so ideally keep it
      short! -->
+<!ENTITY intent_uri_private_browsing_multiple_match_title "Sair da navegação privativa?">
 
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
