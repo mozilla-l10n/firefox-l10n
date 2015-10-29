@@ -189,7 +189,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "인쇄">
 <!ENTITY printButton.tooltip          "현재 페이지 인쇄">
 
-<!ENTITY locationItem.title           "주소">
+<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
+     used to provide accessible labels to users of assistive technology like screenreaders.
+     It is not possible to see them visually in the UI. -->
+
+
+
+
 <!ENTITY searchItem.title             "검색">
 
 <!-- Toolbar items --> 
@@ -288,8 +294,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "개발자 도구 모음 닫기">
 <!ENTITY devToolbarMenu.label              "개발자 도구 모음">
 <!ENTITY devToolbarMenu.accesskey          "v">
-<!ENTITY devAppMgrMenu.label               "앱 관리자">
-<!ENTITY devAppMgrMenu.accesskey           "a">
 <!ENTITY webide.label                      "웹 IDE">
 <!ENTITY webide.accesskey                  "W">
 <!ENTITY webide.keycode                    "VK_F8">

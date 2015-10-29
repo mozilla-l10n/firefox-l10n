@@ -6,6 +6,8 @@
 
 <!ENTITY  blockPopups.label           "팝업 창 차단">
 <!ENTITY  blockPopups.accesskey       "B">
+
+
 <!ENTITY  popupExceptions.label       "예외 목록…">
 <!ENTITY  popupExceptions.accesskey   "E">
 
