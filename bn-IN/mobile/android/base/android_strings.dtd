@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  no_space_to_start_error " &brandShortName; চালু করার জন্য প্রয়োজনীয় জায়গা নেই।">
+<!ENTITY  no_space_to_start_error "&brandShortName; চালু করার জন্য প্রয়োজনীয় জায়গা নেই।">
 <!ENTITY  error_loading_file "যখন &brandShortName; চালানোর জন্য ফাইল লোড করার চেষ্টা করা হচ্ছিল তখন একটি বিঘ্ন ঘটেছে">
 
 <!ENTITY firstrun_panel_title_welcome "সুস্বাগতম">
@@ -16,10 +16,10 @@
 <!ENTITY  onboard_start_restricted1 "নিরাপদ থাকুন ও &brandShortName; -এর সরলীকৃত সংস্করণ সঙ্গে নিয়ন্ত্রণ করুন।">
 
 <!ENTITY firstrun_import_message "&brandShortName; এ স্বাগতম!">
-
-
-
-
+<!ENTITY firstrun_import_subtext "অন্য ব্রাউজার থেকে আপনার বুকমার্ক এবং পূর্ববর্তী তথ্য আমদানি করুন।">
+<!ENTITY firstrun_import_action "&brandShortName; বদলি করুন">
+<!ENTITY firstrun_import_dialog_button "বদলি">
+<!ENTITY firstrun_import_progress_title "হস্তান্তর করা হচ্ছে">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -64,7 +64,7 @@
 
 <!ENTITY history_today_section "আজ">
 <!ENTITY history_yesterday_section "গতকাল">
-
+<!ENTITY history_week_section3 "গত 7 দিন">
 
 
 
