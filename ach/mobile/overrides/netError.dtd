@@ -19,6 +19,18 @@
 <!ENTITY dnsNotFound.title "Pe kinongo lapok tic">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "<ul> 
+<li>Rot kanonge ne pi bal me cono coc calo 
+<strong>ww</strong>.example.com me kaka 
+<strong>www</strong>.example.com</li> 
+<div id='searchbox'> 
+<input id='searchtext' type='search'></input> 
+<button id='searchbutton'>Search</button> 
+</div> 
+<li>Kacce pe i romo cano potbuk mo keken, rot data me nyonyo ni onyo kube me Wi-Fi. 
+<button id='wifi'>Cak Wi-Fi</button> 
+</li> 
+</ul>">
 
 <!ENTITY fileNotFound.title "Fail pe ononge">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -33,6 +45,16 @@
 <!ENTITY malformedURI.title "Kanonge pe tye katic">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "<ul> 
+<li>Kanonge me kakube pol kare kicoyo gi calo 
+<strong>http://www.example.com/</strong></li> 
+<div id='searchbox'> 
+<input id='searchtext' type='search'></input> 
+<button id='searchbutton'>Yeny</button> 
+</div> 
+<li>Myero inen ni itye katic ki lapok me anyim (i.e. 
+<strong>/</strong>).</li> 
+</ul>">
 
 <!ENTITY netInterrupt.title "Onongo kibalo kube woko">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
@@ -43,6 +65,11 @@
 <!ENTITY netOffline.title "Kit mape i wiyamo">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY netOffline.longDesc3 "<ul> 
+<li>Tem doki. &brandShortName; bi temme me yabo kube ki nwoyo cano potbuk. 
+<button id='wifi'>Cak Wi-Fi</button> 
+</li> 
+</ul>">
 
 <!ENTITY contentEncodingError.title "Gin matye iye Tye ka jogo Bal">
 <!ENTITY contentEncodingError.longDesc "<ul> 
