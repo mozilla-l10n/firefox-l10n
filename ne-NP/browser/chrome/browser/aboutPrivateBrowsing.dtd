@@ -55,5 +55,6 @@
 <!ENTITY trackingProtection.state.disabled     "बन्द">
 
 
-
-
+<!ENTITY trackingProtection.disable            "अनुगमन सुरक्षा बन्द गरिदैँ">
+<!ENTITY trackingProtection.enable             "अनुगमन सुरक्षा खोलीदैँ">
+<!ENTITY trackingProtection.startTour1         "कसरी काम गर्छ हेर्नुहोस्">
