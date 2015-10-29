@@ -1,60 +1,73 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY itemFormatting.label             "Formatlash">
 <!ENTITY itemTags.label                   "Teglar">
+<!ENTITY itemAdvanced.label               "Qo‘shimcha">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY style.label                      "Uslub:">
+<!ENTITY style.accesskey                  "l">
+<!ENTITY regularStyle.label               "Muntazam">
+<!ENTITY bold.label                       "Qalin">
+<!ENTITY italic.label                     "Qiya">
+<!ENTITY boldItalic.label                 "Qalin qiya">
+<!ENTITY size.label                       "Hajmi:">
+<!ENTITY size.accesskey                   "H">
+<!ENTITY regularSize.label                "Muntazam">
+<!ENTITY bigger.label                     "Kattaroq">
+<!ENTITY smaller.label                    "Kichikroq">
+<!ENTITY quotedTextColor.label            "Rangi:">
+<!ENTITY quotedTextColor.accesskey        "R">
+<!ENTITY displayWidth.label               "Oddiy matn xabarlari">
+<!ENTITY displayText.label                "Oddiy matn xabarlari qo‘shtirnoq ichida ko‘rsatilganda:">
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 
+<!ENTITY convertEmoticons.label        "Hissiyotlarni grafika kabi ko‘rsatish">
+<!ENTITY convertEmoticons.accesskey    "H">
 <!-- labels -->
 
-
+<!ENTITY displayTagsText.label     "Teglar xabarlaringizni turkumlarga va muhimligi bo‘yicha ajratishda foydalaniladi.">
+<!ENTITY addTagButton.label        "Qo‘shish">
+<!ENTITY addTagButton.accesskey    "Q">
 <!ENTITY editTagButton.label       "Tahrirlash">
 <!ENTITY editTagButton.accesskey   "T">
-
-
+<!ENTITY removeTagButton.label     "O‘chirish">
+<!ENTITY removeTagButton.accesskey "O">
 <!-- Fonts and Colors -->
 
-
-
-
-
-
-
-
+<!ENTITY fontsAndColors1.label   "Shriftlar va ranglar">
+<!ENTITY defaultFont.label       "Asosiy shrift">
+<!ENTITY defaultFont.accesskey   "A">
+<!ENTITY defaultSize.label       "Hajmi:">
+<!ENTITY defaultSize.accesskey   "H">
+<!ENTITY fontOptions.accesskey   "Q">
+<!ENTITY fontOptions.label       "Qo‘shimcha…">
+<!ENTITY colorButton.label       "Ranglar…">
+<!ENTITY colorButton.accesskey   "R">
 <!-- Advanced -->
 
+<!ENTITY reading.caption                  "O‘qish">
+<!ENTITY display.caption                  "Ko‘rsatish">
+<!ENTITY showCondensedAddresses.label     "Faqat manzillar kitobimdagi odamlarni nomi ko‘rsatilsin">
+<!ENTITY showCondensedAddresses.accesskey "k">
 
-
-
-
-
-
+<!ENTITY autoMarkAsRead.label             "Xabarlarni avtomatik tarzda o‘qilgan deb belgilash">
+<!ENTITY autoMarkAsRead.accesskey         "a">
+<!ENTITY markAsReadNoDelay.label          "Tezda ekranda">
+<!ENTITY markAsReadNoDelay.accesskey      "e">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY markAsReadDelay.label            "Ko‘rsatilsin –">
+<!ENTITY markAsReadDelay.accesskey        "d">
+<!ENTITY secondsLabel.label               "soniyadan so‘ng">
+<!ENTITY openMsgIn.label                  "Xabarlar">
+<!ENTITY openMsgInNewTab.label            "yangi ichi oynada ochilsin">
+<!ENTITY openMsgInNewTab.accesskey        "i">
+<!ENTITY reuseExpRadio0.label             "yangi xabar oynasida ochilsin">
+<!ENTITY reuseExpRadio0.accesskey         "y">
+<!ENTITY reuseExpRadio1.label             "Mavjud xabar oynasida ochilsin">
+<!ENTITY reuseExpRadio1.accesskey         "M">
+<!ENTITY closeMsgOnMoveOrDelete.label     "Xabar oynasi/ichki oynasi ko‘chirilganda yoki o‘chirilganda yopilsin">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "y">
