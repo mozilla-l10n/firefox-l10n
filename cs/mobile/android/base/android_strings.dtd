@@ -221,6 +221,9 @@
 <!ENTITY pref_donottrack_title "Funkce Do not track">
 <!ENTITY pref_donottrack_summary "&brandShortName; požádá webové stránky, aby nesledovaly vaši aktivitu">
 
+<!ENTITY pref_tracking_protection_enabled "Povoleno">
+<!ENTITY pref_tracking_protection_enabled_pb "Povoleno v režimu anonymního prohlížení">
+<!ENTITY pref_tracking_protection_disabled "Zakázáno">
 
 <!ENTITY tracking_protection_prompt_title "Nyní s Ochranou proti sledování">
 <!ENTITY tracking_protection_prompt_text "Aktivně blokuje prvky, které vás mohou sledovat, abyste se o ně více nemusely starat.">
@@ -290,6 +293,7 @@ size. -->
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_sync_summary2 "Synchronizace vašich panelů, záložek, přihlášení a historie">
 <!ENTITY pref_search_suggestions "Povolit našeptávání">
+<!ENTITY pref_history_search_suggestions "Zobrazit historii vyhledávání">
 <!ENTITY pref_import_android "Import z Androidu">
 <!ENTITY pref_import_android_summary "Import záložek a historie z prohlížeče v systému">
 <!ENTITY pref_private_data_history2 "Historie prohlížení">
@@ -698,6 +702,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
+<!ENTITY intent_uri_private_browsing_prompt "Tento odkaz se otevře v aplikaci &formatS;. Opravdu chcete opustit režim anonymního prohlížení?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android
@@ -705,6 +710,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      We don't have control over the style of this dialog and it looks
      unpolished when this string is longer than one line so ideally keep it
      short! -->
+<!ENTITY intent_uri_private_browsing_multiple_match_title "Opustit režim anonymního prohlížení?">
 
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
