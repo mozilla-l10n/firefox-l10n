@@ -189,7 +189,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Natisni">
 <!ENTITY printButton.tooltip          "Natisni to stran">
 
-<!ENTITY locationItem.title           "Naslov">
+<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
+     used to provide accessible labels to users of assistive technology like screenreaders.
+     It is not possible to see them visually in the UI. -->
+
+
+
+
 <!ENTITY searchItem.title             "Iskanje">
 
 <!-- Toolbar items --> 
@@ -288,8 +294,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Zapri orodno vrstico za razvoj">
 <!ENTITY devToolbarMenu.label              "Orodna vrstica za razvoj">
 <!ENTITY devToolbarMenu.accesskey          "t">
-<!ENTITY devAppMgrMenu.label               "Upravitelj aplikacij">
-<!ENTITY devAppMgrMenu.accesskey           "a">
 <!ENTITY webide.label                      "WebIDE">
 <!ENTITY webide.accesskey                  "W">
 <!ENTITY webide.keycode                    "VK_F8">
