@@ -103,7 +103,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "C">
 <!ENTITY exitFullScreenCmd.label "Končaj celoten zaslon">
 <!ENTITY exitFullScreenCmd.accesskey "C">
-<!ENTITY fullScreenCmd.label "Cel zaslon">
+<!ENTITY fullScreenCmd.label "Celoten zaslon">
 <!ENTITY fullScreenCmd.accesskey "C">
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Prikaži vse zavihke">
