@@ -53,11 +53,11 @@
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
 <!ENTITY performanceUI.toolbar.waterfall "Časovnica">
-<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Prikazuje različne operacije ki jih brskalnik opravlja med snemanjem, zaporedno kot slap.">
+<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Zaporedno v obliki slapa prikazuje različne operacije, ki jih izvaja brskalnik.">
 <!ENTITY performanceUI.toolbar.js-calltree "Drevo klicev">
-<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Izpostavi JavaScript funkcije kjer brskalnik porabi največ časa med snemanjem.">
+<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Izpostavi funkcije JavaScripta, v katerih je brskalnik porabil največ časa.">
 <!ENTITY performanceUI.toolbar.memory-calltree "Dodelitve">
-<!ENTITY performanceUI.toolbar.allocations.tooltiptext "Prikazuje kam je bil dodeljen pomnilnik med snemanjem.">
+<!ENTITY performanceUI.toolbar.allocations.tooltiptext "Prikazuje, kam je bil dodeljen pomnilnik.">
 <!ENTITY performanceUI.toolbar.js-flamegraph "Plameneč graf JS">
 <!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Prikazuje JavaScript klic čez pot snemanja.">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "Plameneč graf dodelitev">

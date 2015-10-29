@@ -26,7 +26,7 @@
 <!ENTITY projectMenu_showPrefs_accesskey "e">
 <!ENTITY projectMenu_manageComponents_label "Upravljanje dodatnih komponent">
 <!ENTITY projectMenu_manageComponents_accesskey "M">
-<!ENTITY projectMenu_refreshTabs_label "Osveži zavihek">
+<!ENTITY projectMenu_refreshTabs_label "Osveži zavihke">
 
 <!ENTITY runtimeMenu_label "Izvajalnik">
 <!ENTITY runtimeMenu_accesskey "I">

@@ -101,7 +101,7 @@ when there are no windows but Firefox is still running. -->
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "Celoten zaslon">
 <!ENTITY enterFullScreenCmd.accesskey "C">
-<!ENTITY exitFullScreenCmd.label "Končaj celoten zaslon">
+<!ENTITY exitFullScreenCmd.label "Izhod iz celozaslonskega načina">
 <!ENTITY exitFullScreenCmd.accesskey "C">
 <!ENTITY fullScreenCmd.label "Celoten zaslon">
 <!ENTITY fullScreenCmd.accesskey "C">
@@ -122,7 +122,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenClose.tooltip "Zapri">
 <!ENTITY fullScreenAutohide.label "Skrij orodne vrstice">
 <!ENTITY fullScreenAutohide.accesskey "S">
-<!ENTITY fullScreenExit.label "Končaj celoten zaslon">
+<!ENTITY fullScreenExit.label "Izhod iz celozaslonskega načina">
 <!ENTITY fullScreenExit.accesskey "C">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
@@ -130,15 +130,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      respectively before and after the domain requiring fullscreen.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
-<!ENTITY fullscreenWarning.beforeDomain.label "">
-<!ENTITY fullscreenWarning.afterDomain.label "je zdaj prikazan čez celoten zaslon">
+<!ENTITY fullscreenWarning.beforeDomain.label "Stran">
+<!ENTITY fullscreenWarning.afterDomain.label "je zdaj prikazana čez celoten zaslon">
 <!ENTITY fullscreenWarning.generic.label "Ta dokument je zdaj prikazan čez celoten zaslon">
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
 <!ENTITY exitDOMFullscreen.button "Izhod iz celozaslonskega načina (Esc)">
 <!ENTITY exitDOMFullscreenMac.button "Izhod iz celozaslonskega načina (Esc)">
-<!ENTITY leaveDOMFullScreen.label "Končaj celoten zaslon">
+<!ENTITY leaveDOMFullScreen.label "Izhod iz celozaslonskega načina">
 <!ENTITY leaveDOMFullScreen.accesskey "j">
 
 <!ENTITY closeWindow.label "Zapri okno">
@@ -406,11 +406,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Želite obogatiti svoje iskanje s predlogi?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Več o tem …">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "V">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Ne">
 <!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Da">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "D">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -468,9 +468,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY changeSearchSettings.button  "Spremeni nastavitve iskanja">
 
 <!ENTITY searchInNewTab.label         "Išči v novem zavihku">
-<!ENTITY searchInNewTab.accesskey     "T">
-<!ENTITY searchSetAsDefault.label     "Nastavi kot privzet brskalnik">
-<!ENTITY searchSetAsDefault.accesskey "D">
+<!ENTITY searchInNewTab.accesskey     "Z">
+<!ENTITY searchSetAsDefault.label     "Nastavi kot privzet iskalnik">
+<!ENTITY searchSetAsDefault.accesskey "P">
 
 <!ENTITY tabView.commandkey           "e">
 
@@ -647,12 +647,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin2.label       "Izhod">
 <!ENTITY quitApplicationCmdWin2.accesskey   "h">
-<!ENTITY quitApplicationCmdWin2.tooltip     "Končaj &brandShorterName;">
+<!ENTITY quitApplicationCmdWin2.tooltip     "Izhod iz &brandShorterName;a">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Izhod"> 
 <!ENTITY quitApplicationCmd.accesskey   "I">
-<!ENTITY quitApplicationCmdMac2.label   "Končaj &brandShorterName;">
+<!ENTITY quitApplicationCmdMac2.label   "Izhod iz &brandShorterName;a">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "Q">
 
@@ -705,7 +705,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Varna povezava">
 <!ENTITY identity.connectionNotSecure "Povezava ni varna">
 <!ENTITY identity.connectionFile "Ta stran je shranjena na vašem računalniku.">
-<!ENTITY identity.connectionVerified1 "Varno ste povezani s to stranjo, vodeno z:">
+<!ENTITY identity.connectionVerified1 "Varno ste povezani na to stran, ki jo upravlja:">
 <!ENTITY identity.connectionInternal "To je varna stran &brandShortName;a.">
 <!ENTITY identity.insecureLoginForms "Vaša prijava je lahko ogrožena.">
 
@@ -717,7 +717,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Strings for connection state warnings in the subview. -->
 <!ENTITY identity.description.insecure "Vaša povezava na to stran ni zasebna. Podatke, ki jih pošiljate (npr. gesla, sporočila in kreditne kartice), si lahko ogledajo tudi druge osebe.">
-<!ENTITY identity.description.insecureLoginForms "Podatke o prijavi ki jih vnesete na tej strani niso zavarovani in so lahko ogroženi.">
+<!ENTITY identity.description.insecureLoginForms "Podatki, ki jih vnesete ob prijavi na to stran, niso varni in so lahko ogroženi.">
 <!ENTITY identity.description.weakCipher "Vaša povezava na to stran uporablja šibko šifriranje in ni zasebna.">
 <!ENTITY identity.description.weakCipher2 "Druge osebe lahko vidijo vaše podatke ali spreminjajo obnašanje spletne strani.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; je zavrnil dele strani, ki niso varni.">
@@ -747,7 +747,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
-<!ENTITY syncSignIn.label             "Prijavi se v &syncBrand.shortName.label;…">
+<!ENTITY syncSignIn.label             "Prijava v &syncBrand.shortName.label; …">
 <!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "Sinhroniziraj">
 <!ENTITY syncSyncNowItem.accesskey    "u">
