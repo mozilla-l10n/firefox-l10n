@@ -17,7 +17,7 @@
 
 <!ENTITY firstrun_import_title "Uvozi">
 <!ENTITY firstrun_import_message "Dobrodošli v &brandShortName;">
-<!ENTITY firstrun_import_subtext "Uvozi svoje zaznamke in zgodovino iz drugega brskalnika.">
+<!ENTITY firstrun_import_subtext "Uvozite svoje zaznamke in zgodovino iz drugega brskalnika.">
 <!ENTITY firstrun_import_action "Prenesi v &brandShortName;">
 <!ENTITY firstrun_import_dialog_button "Prenesi">
 <!ENTITY firstrun_import_progress_title "Prenašanje">
@@ -436,7 +436,7 @@ size. -->
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
 <!ENTITY pref_magnifying_glass_enabled "Povečaj majhna območja">
-<!ENTITY pref_magnifying_glass_enabled_summary "Povečaj povezave in oblikovalna polja ko pritisnete v njihovi bližini">
+<!ENTITY pref_magnifying_glass_enabled_summary "Povečaj povezave in polja obrazcev, ko tapnem v njihovi bližini">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
@@ -584,9 +584,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_insecure "Nevarna povezava">
 
 <!-- Mixed content notifications in site identity popup -->
-<!ENTITY mixed_content_blocked_all1 "&brandShortName; je blokiral nevarno vsebino na tej stran.">
-<!ENTITY mixed_content_blocked_some1 "&brandShortName; je blokiral nekatere nevarne vsebine na tej strani.">
-<!ENTITY mixed_content_display_loaded1 "Deli te strani niso varni (kot npr. slike).">
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; je zavrnil nevarno vsebino na tej stran.">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; je zavrnil nekatere nevarne vsebine na tej strani.">
+<!ENTITY mixed_content_display_loaded1 "Deli strani niso varni (npr. slike).">
 <!ENTITY mixed_content_protection_disabled1 "Onemogočili ste zaščito pred nevarnimi vsebinami.">
 
 <!-- Tracking content notifications in site identity popup -->
@@ -724,12 +724,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 <!ENTITY bookmarks_about_browser "Firefox: O vašem brskalniku">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
-<!ENTITY bookmarks_addons "Firefox: Prilagodi z dodatki">
+<!ENTITY bookmarks_addons "Firefox: Prilagodite ga z dodatki">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
 <!ENTITY bookmarks_support "Firefox: Pomoč">
 <!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
 <!ENTITY bookmarks_marketplace "Firefox Marketplace">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
-<!ENTITY bookmarks_restricted_support2 "Firefox pomoč in podpora za omejene profile na Android tablicah">
+<!ENTITY bookmarks_restricted_support2 "Pomoč in podpora za Firefox z omejenimi profili na tablicah Android">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
-<!ENTITY bookmarks_restricted_webmaker "Učenje na spletu: Mozilla Webmaker">
+<!ENTITY bookmarks_restricted_webmaker "Spoznajte splet: Mozilla Webmaker">

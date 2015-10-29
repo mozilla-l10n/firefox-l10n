@@ -2,12 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutAccounts.connected.title "Firefox računi">
+<!ENTITY aboutAccounts.connected.title "Firefox Računi">
 <!ENTITY aboutAccounts.connected.description "Prijavljeni ste kot">
-<!ENTITY aboutAccounts.syncPreferences.label "Kliknite tukaj da preverite nastavitve sinhroniziranja">
+<!ENTITY aboutAccounts.syncPreferences.label "Tapnite tukaj za nastavitve sinhronizacije">
 
 <!ENTITY aboutAccounts.noConnection.title "Ni internetne povezave">
 <!ENTITY aboutAccounts.retry.label "Poskusi znova">
 
 <!ENTITY aboutAccounts.restrictedError.title "Omejeno">
-<!ENTITY aboutAccounts.restrictedError.description "Iz tega profila ne morete upravljiti Firefox računov.">
+<!ENTITY aboutAccounts.restrictedError.description "Iz tega profila ne morete upravljati Firefox Računov.">
