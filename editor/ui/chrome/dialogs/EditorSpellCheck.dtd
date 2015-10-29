@@ -2,7 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- Window title -->
 <!ENTITY windowTitle.label "맞춤법 검사">
+
 <!ENTITY misspelledWord.label "맞춤법이 틀린 단어:">
 <!ENTITY wordEditField.label "바꿀 단어:">
 <!ENTITY wordEditField.accessKey "w">
@@ -26,8 +28,8 @@
 <!ENTITY addToUserDictionaryButton.accessKey "d">
 <!ENTITY editUserDictionaryButton.label "편집…">
 <!ENTITY editUserDictionaryButton.accessKey "E">
-<!ENTITY recheckButton.label "다시 검사">
-<!ENTITY recheckButton.accessKey "P">
+<!ENTITY recheckButton2.label "다시 검사">
+<!ENTITY recheckButton2.accessKey "P">
 <!ENTITY closeButton.label "닫기">
 <!ENTITY closeButton.accessKey "C">
 <!ENTITY sendButton.label "보내기">
