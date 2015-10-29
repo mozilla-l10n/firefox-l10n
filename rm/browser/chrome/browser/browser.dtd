@@ -189,7 +189,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Stampar">
 <!ENTITY printButton.tooltip          "Stampar questa pagina">
 
-<!ENTITY locationItem.title           "Adressa">
+<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
+     used to provide accessible labels to users of assistive technology like screenreaders.
+     It is not possible to see them visually in the UI. -->
+
+
+
+
 <!ENTITY searchItem.title             "Tschertgar">
 
 <!-- Toolbar items --> 
@@ -288,8 +294,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Serrar la trav d'utensils per sviluppaders">
 <!ENTITY devToolbarMenu.label              "Trav d'utensils per sviluppaders">
 <!ENTITY devToolbarMenu.accesskey          "v">
-<!ENTITY devAppMgrMenu.label               "Administraziun dad apps">
-<!ENTITY devAppMgrMenu.accesskey           "a">
 <!ENTITY webide.label                      "WebIDE">
 <!ENTITY webide.accesskey                  "W">
 <!ENTITY webide.keycode                    "VK_F8">
