@@ -15,10 +15,9 @@
 
 <!ENTITY privatebrowsingpage.description.private4 "&brandShortName; zabrání vašemu sledování a nebude si pamatovat historii prohlížení, pouze stažené soubory a nové záložky zůstanou ve vašem zařízení zachovány.">
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
-     Browsing" is capitalized in English to be consistent with our existing uses
+     Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
 <!ENTITY privatebrowsingpage.description.normal2 "V anonymním prohlížení neuchováváme vaši historii prohlížení ani cookies. Záložky, které přidáte, a stažené soubory zůstanou ve vašem zařízení zachovány.">
 
 <!ENTITY privatebrowsingpage.link.private "Chcete se dozvědět více?">
 <!ENTITY privatebrowsingpage.link.normal "Otevřít nový anonymní panel">
-

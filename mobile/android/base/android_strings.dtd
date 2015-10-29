@@ -3,9 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY no_space_to_start_error "&brandShortName; nemá dostatek místa pro své spuštění.">
-<!ENTITY error_loading_file "Při načítání souborů vyžadovaných aplikací &brandShortName; nastala chyba.">
+<!ENTITY  no_space_to_start_error "&brandShortName; nemá dostatek místa pro své spuštění.">
+<!ENTITY  error_loading_file "Při načítání souborů vyžadovaných aplikací &brandShortName; nastala chyba.">
 
+<!ENTITY firstrun_panel_title_welcome "Vítejte">
 <!ENTITY  onboard_start_message3 "Prohlížení s aplikací &brandShortName;">
 <!ENTITY  onboard_start_subtext3 "Přizpůsobte si své mobilní prohlížení k obrazu svému.">
 <!ENTITY  onboard_start_button_account "Přihlásit se k aplikaci &brandShortName;">
@@ -30,22 +31,22 @@
 
 <!ENTITY  switch_to_tab "Přepnout na panel">
 
-<!ENTITY crash_reporter_title "Hlášení pádů">
-<!ENTITY crash_message2 "Aplikace &brandShortName; spadla. Po restartu aplikace &brandShortName; budou otevřené panely uvedeny na startovní stránce.">
-<!ENTITY crash_send_report_message3 "Odeslat organizaci &vendorShortName; hlášení o pádu, aby jej mohla opravit">
-<!ENTITY crash_include_url2 "Zahrnout adresu stránky, kde jsem se nacházeli">
-<!ENTITY crash_sorry "Omlouváme se">
-<!ENTITY crash_comment "Přidat komentář (komentáře jsou veřejně dostupné)">
-<!ENTITY crash_allow_contact2 "Povolit organizaci &vendorShortName;, aby mě v souvislosti s tímto hlášením kontaktovala">
-<!ENTITY crash_email "Váš e-mail">
-<!ENTITY crash_closing_alert "Ukončit bez odeslání hlášení o pádu?">
-<!ENTITY sending_crash_report "Odesílání hlášení o pádu\u2026">
-<!ENTITY crash_close_label "Zavřít">
-<!ENTITY crash_restart_label "Restartovat &brandShortName;">
-<!ENTITY exit_label "Ukončit">
+<!ENTITY  crash_reporter_title "Hlášení pádů">
+<!ENTITY  crash_message2 "Aplikace &brandShortName; spadla. Po restartu aplikace &brandShortName; budou otevřené panely uvedeny na startovní stránce.">
+<!ENTITY  crash_send_report_message3 "Odeslat organizaci &vendorShortName; hlášení o pádu, aby jej mohla opravit">
+<!ENTITY  crash_include_url2 "Zahrnout adresu stránky, kde jsem se nacházeli">
+<!ENTITY  crash_sorry "Omlouváme se">
+<!ENTITY  crash_comment "Přidat komentář (komentáře jsou veřejně dostupné)">
+<!ENTITY  crash_allow_contact2 "Povolit organizaci &vendorShortName;, aby mě v souvislosti s tímto hlášením kontaktovala">
+<!ENTITY  crash_email "Váš e-mail">
+<!ENTITY  crash_closing_alert "Ukončit bez odeslání hlášení o pádu?">
+<!ENTITY  sending_crash_report "Odesílání hlášení o pádu\u2026">
+<!ENTITY  crash_close_label "Zavřít">
+<!ENTITY  crash_restart_label "Restartovat &brandShortName;">
+<!ENTITY  exit_label "Ukončit">
 
-<!ENTITY launcher_shortcuts_title "&brandShortName; aplikace">
-<!ENTITY launcher_shortcuts_empty "Nebyla nalezena žádná webová aplikace">
+<!ENTITY  launcher_shortcuts_title "&brandShortName; aplikace">
+<!ENTITY  launcher_shortcuts_empty "Nebyla nalezena žádná webová aplikace">
 
 <!ENTITY choose_file "Volba souboru">
 
@@ -80,7 +81,7 @@
 
 <!ENTITY close_tab "Zavřít panel">
 <!ENTITY one_tab "1 panel">
-<!-- Localization note (num_tabs2) : Number of tabs is always more than one. 
+<!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; panely">
 <!ENTITY new_tab_opened "Nový panel otevřen">
@@ -249,7 +250,7 @@
 <!ENTITY pref_clear_private_data2 "Vymazat nyní">
 <!ENTITY pref_clear_private_data_category "Vymazat soukromá data">
 <!ENTITY pref_clear_on_exit_title2 "Vymazat při ukončení">
-<!ENTITY pref_clear_on_exit_summary2 "Aplikace &brandShortName; automaticky vymaže vaše data kdykoliv, kdy zvolíte \u0022Ukončit\u0022 z hlavní nabídky"> 
+<!ENTITY pref_clear_on_exit_summary2 "Aplikace &brandShortName; automaticky vymaže vaše data kdykoliv, kdy zvolíte \u0022Ukončit\u0022 z hlavní nabídky">
 <!ENTITY pref_clear_on_exit_dialog_title "Vyberte data, která chcete vymazat">
 <!ENTITY pref_plugins "Zásuvné moduly">
 <!ENTITY pref_plugins_enabled "Povolit">
@@ -388,7 +389,7 @@ size. -->
 <!ENTITY find_next "Další">
 <!ENTITY find_close "Zavřít">
 
-<!-- Localization note (media_casting_to, media_play, media_pause, media_stop) : These strings are used
+<!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 <!ENTITY media_sending_to "Odeslat do zařízení">
 <!ENTITY media_play "Přehrát">
@@ -458,9 +459,9 @@ size. -->
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 <!ENTITY site_settings_title3       "Nastavení serveru">
-<!ENTITY site_settings_cancel "Zrušit">
-<!ENTITY site_settings_clear "Vymazat">
-<!ENTITY site_settings_no_settings "Žádné nastavení neexistuje.">
+<!ENTITY site_settings_cancel       "Zrušit">
+<!ENTITY site_settings_clear        "Vymazat">
+<!ENTITY site_settings_no_settings  "Žádné nastavení neexistuje.">
 
 <!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
@@ -494,8 +495,6 @@ size. -->
 <!ENTITY button_set "Nastavit">
 <!ENTITY button_clear "Vymazat">
 <!ENTITY button_copy "Kopírovat">
-
-<!ENTITY firstrun_panel_title_welcome "Vítejte">
 
 <!ENTITY home_top_sites_title "Top stránky">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -540,6 +539,7 @@ size. -->
 <!ENTITY home_remote_tabs_unable_to_connect "Nepodařilo se připojit">
 <!ENTITY home_remote_tabs_need_to_sign_in "Přihlaste se prosím, abyste se znovu připojili ke svému účtu Firefox Account a mohli tak pokračovat v synchronizaci.">
 <!ENTITY home_remote_tabs_need_to_finish_migrating "Váš nový účet Firefox Account je připraven!">
+
 <!ENTITY home_remote_tabs_trouble_verifying "Problém s ověřením svého účtu?">
 <!ENTITY home_remote_tabs_need_to_verify "Pro začátek synchronizace ověřte prosím svůj účet Firefox Account.">
 
@@ -651,7 +651,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_browsing_notification_title "Prohlížení pro hosty je povoleno">
 <!ENTITY guest_browsing_notification_text "Klepněte pro ukončení">
 
-
 <!ENTITY exit_guest_session_title "Aplikace &brandShortName; bude nyní restartována">
 <!ENTITY exit_guest_session_text "Data o prohlížení z této relace budou smazána.">
 
@@ -671,7 +670,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      This entity is used in the zoomed view to display the zoom factor-->
 <!ENTITY percent "&formatS;&#37;&#37;">
 
-<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+<!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 <!ENTITY actionbar_menu "Nabídka">
 <!ENTITY actionbar_done "Hotovo">
@@ -719,8 +718,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restriction_disallow_guest_browsing_title2 "Zakázat Prohlížení pro hosty">
 
 <!-- Default Bookmarks titles-->
-<!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
-<!ENTITY bookmarks_title "Záložky">
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 <!ENTITY bookmarks_about_browser "Firefox: O prohlížeči">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
