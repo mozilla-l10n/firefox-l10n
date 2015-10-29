@@ -526,7 +526,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailPageCmd.label           "Сілтемені эл. поштамен жіберу…">
 <!ENTITY emailPageCmd.accesskey       "С">
 <!ENTITY savePageCmd.label            "Парақты қалайша сақтау…">
-<!ENTITY savePageCmd.accesskey        "й">
+<!ENTITY savePageCmd.accesskey        "а">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "т">
 <!ENTITY savePageCmd.commandkey       "s">
