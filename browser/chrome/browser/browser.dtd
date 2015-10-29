@@ -223,7 +223,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "Жүктемелер">
 <!ENTITY downloads.accesskey          "Ж">
 <!ENTITY downloads.commandkey         "j">
-
+<!ENTITY downloadsUnix.commandkey     "у">
 <!ENTITY addons.label                 "Қосымшалар">
 <!ENTITY addons.accesskey             "с">
 <!ENTITY addons.commandkey            "a">
@@ -406,9 +406,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Іздеу тәжірибесін ұсыныстармен жақсартуды қалайсыз ба?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Көбірек білу…">
-
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "л">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Жоқ">
-
+<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "о">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Иә">
 
 <!-- 
