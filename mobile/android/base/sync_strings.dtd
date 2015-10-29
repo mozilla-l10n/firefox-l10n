@@ -8,264 +8,265 @@
 <!ENTITY syncBrand.shortName.label "Sync">
 
 <!-- Main titles. -->
-<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
-<!ENTITY sync.title.connect.label "Připojit k &syncBrand.shortName.label;">
-<!ENTITY sync.title.adddevice.label "Přidat účet &syncBrand.fullName.label;">
-<!ENTITY sync.title.pair.label "Připojit zařízení">
+<!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
+<!ENTITY sync.title.connect.label 'Připojit k &syncBrand.shortName.label;'>
+<!ENTITY sync.title.adddevice.label 'Přidat účet &syncBrand.fullName.label;'>
+<!ENTITY sync.title.pair.label 'Připojit zařízení'>
 
 <!-- J-PAKE Key Screen -->
-<!ENTITY sync.subtitle.connect.label "Pro aktivaci nového zařízení na něm zvolte „Nastavit &syncBrand.shortName.label;“.">
-<!ENTITY sync.subtitle.header2.label "Tento kód vložte na svém dalším zařízení">
-<!ENTITY sync.subtitle.connectlocation2.label "V nastavení vašeho dalšího zařízení klepněte v části &syncBrand.shortName.label; na „&sync.title.pair.label;“.">
-<!ENTITY sync.subtitle.pair.label "Pro aktivaci na druhém zařízení zvolte „Připojit nové zařízení“.">
-<!ENTITY sync.pin.default.label "…\n…\n…\n">
-<!ENTITY sync.pin.oneline.label "…">
-<!ENTITY sync.link.show.label "Zobrazit návod">
-<!ENTITY sync.link.advancedsetup.label "Rozšířené nastavení…">
-<!ENTITY sync.link.nodevice.label "Nemám zařízení sebou…">
+<!ENTITY sync.subtitle.connect.label 'Pro aktivaci nového zařízení na něm zvolte „Nastavit &syncBrand.shortName.label;“.'>
+<!ENTITY sync.subtitle.header2.label 'Tento kód vložte na svém dalším zařízení'>
+<!ENTITY sync.subtitle.connectlocation2.label 'V nastavení vašeho dalšího zařízení klepněte v části &syncBrand.shortName.label; na „&sync.title.pair.label;“.'>
+<!ENTITY sync.subtitle.pair.label 'Pro aktivaci na druhém zařízení zvolte „Připojit nové zařízení“.'>
+<!ENTITY sync.pin.default.label '…\n…\n…\n'>
+<!ENTITY sync.pin.oneline.label '…'>
+<!ENTITY sync.link.show.label 'Zobrazit návod'>
+<!ENTITY sync.link.advancedsetup.label 'Rozšířené nastavení…'>
+<!ENTITY sync.link.nodevice.label 'Nemám zařízení sebou…'>
 
 <!-- J-PAKE Waiting Screen -->
-<!ENTITY sync.jpake.subtitle.waiting.label "Čeká se na druhé zařízení…">
+<!ENTITY sync.jpake.subtitle.waiting.label 'Čeká se na druhé zařízení…'>
 
 <!-- Account Login Screen -->
-<!ENTITY sync.subtitle.account.label "Vložit nastavení účtu &syncBrand.fullName.label;">
-<!ENTITY sync.input.username.label "Název účtu">
-<!ENTITY sync.input.password.label "Heslo">
-<!ENTITY sync.input.key.label "Obnovovací klíč">
-<!ENTITY sync.checkbox.server.label "Použít vlastní server">
-<!ENTITY sync.input.server.label "Adresa serveru">
-  
+<!ENTITY sync.subtitle.account.label 'Vložit nastavení účtu &syncBrand.fullName.label;'>
+<!ENTITY sync.input.username.label 'Název účtu'>
+<!ENTITY sync.input.password.label 'Heslo'>
+<!ENTITY sync.input.key.label 'Obnovovací klíč'>
+<!ENTITY sync.checkbox.server.label 'Použít vlastní server'>
+<!ENTITY sync.input.server.label 'Adresa serveru'>
+
 <!-- Setup Fail -->
-<!ENTITY sync.title.fail.label "Nepodařilo se nastavit &syncBrand.shortName.label;">
-<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; se nemohl připojit k serveru. Chcete to zkusit znovu?">
-<!ENTITY sync.button.tryagain.label "Zkusit znovu">
-<!ENTITY sync.button.manual.label "Ruční nastavení">
-<!ENTITY sync.subtitle.nointernet.label "Připojení k Internetu není dostupné.">
-<!ENTITY sync.subtitle.failaccount.label "Vytvoření účtu skončilo chybou.">
-<!ENTITY sync.subtitle.failmultiple.label "Máte nainstalováno více než jednu aplikaci Firefox? &syncBrand.fullName.label; podporuje v současnosti pouze jednu instalaci aplikace Firefox. Pro použití &syncBrand.shortName.label; musíte ostatní instalace aplikace Firefox odinstalovat.">
-  
+<!ENTITY sync.title.fail.label 'Nepodařilo se nastavit &syncBrand.shortName.label;'>
+<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; se nemohl připojit k serveru. Chcete to zkusit znovu?'>
+<!ENTITY sync.button.tryagain.label 'Zkusit znovu'>
+<!ENTITY sync.button.manual.label 'Ruční nastavení'>
+<!ENTITY sync.subtitle.nointernet.label 'Připojení k Internetu není dostupné.'>
+<!ENTITY sync.subtitle.failaccount.label 'Vytvoření účtu skončilo chybou.'>
+<!ENTITY sync.subtitle.failmultiple.label 'Máte nainstalováno více než jednu aplikaci Firefox? &syncBrand.fullName.label; podporuje v současnosti pouze jednu instalaci aplikace Firefox. Pro použití &syncBrand.shortName.label; musíte ostatní instalace aplikace Firefox odinstalovat.'>
+
 <!-- Setup Success -->
-<!ENTITY sync.title.success.label "Nastavení dokončeno">
-<!ENTITY sync.subtitle.success.label1 "Vaše data jsou nyní stahována na pozadí. Můžete přejít zpět do Nastavení nebo si spustit &brandShortName;.">
-<!ENTITY sync.settings.label "Nastavení">
-<!ENTITY sync.subtitle.manage.label1 "Účet &syncBrand.fullName.label; je nyní nastaven. Můžete přejít zpět do Nastavení nebo si spustit &brandShortName;.">
+<!ENTITY sync.title.success.label 'Nastavení dokončeno'>
+<!ENTITY sync.subtitle.success.label1 'Vaše data jsou nyní stahována na pozadí. Můžete přejít zpět do Nastavení nebo si spustit &brandShortName;.'>
+<!ENTITY sync.settings.label 'Nastavení'>
+<!ENTITY sync.subtitle.manage.label1 'Účet &syncBrand.fullName.label; je nyní nastaven. Můžete přejít zpět do Nastavení nebo si spustit &brandShortName;.'>
 
 <!-- Pair Device -->
-<!ENTITY sync.pair.tryagain.label "Prosím opakujte znovu.">
-<!ENTITY sync.pair.connectlocation.label "K aktivaci nového zařízení zvolte „Nastavit &syncBrand.shortName.label;“ a pak vyberte „Již mám účet“.">
+<!ENTITY sync.pair.tryagain.label 'Prosím opakujte znovu.'>
+<!ENTITY sync.pair.connectlocation.label 'K aktivaci nového zařízení zvolte „Nastavit &syncBrand.shortName.label;“ a pak vyberte „Již mám účet“.'>
 
 <!-- Firefox SyncAdapter Settings Screen -->
-<!ENTITY sync.settings.options.label "Možnosti">
-<!ENTITY sync.summary.pair.label "K účtu &syncBrand.shortName.label; připojit další zařízení">
+<!ENTITY sync.settings.options.label 'Možnosti'>
+<!ENTITY sync.summary.pair.label 'K účtu &syncBrand.shortName.label; připojit další zařízení'>
 
 <!-- Configure Engines -->
-<!ENTITY sync.configure.engines.title.label "Nastavení synchronizace">
-<!ENTITY sync.configure.engines.sync.my.title.label "Synchronizovat…">
-<!ENTITY sync.configure.engines.title.bookmarks "Záložky">
-<!ENTITY sync.configure.engines.title.passwords2 "Přihlášení">
-<!ENTITY sync.configure.engines.title.history "Historie">
-<!ENTITY sync.configure.engines.title.tabs "Panely">
+<!ENTITY sync.configure.engines.title.label 'Nastavení synchronizace'>
+<!ENTITY sync.configure.engines.sync.my.title.label 'Synchronizovat…'>
+<!ENTITY sync.configure.engines.title.bookmarks 'Záložky'>
+<!ENTITY sync.configure.engines.title.passwords2 'Přihlášení'>
+<!ENTITY sync.configure.engines.title.history 'Historie'>
+<!ENTITY sync.configure.engines.title.tabs 'Panely'>
 
 <!-- Common text -->
-<!ENTITY sync.button.cancel.label "Zrušit">
-<!ENTITY sync.button.connect.label "Připojit">
-<!ENTITY sync.button.ok.label "OK">
-  
+<!ENTITY sync.button.cancel.label 'Zrušit'>
+<!ENTITY sync.button.connect.label 'Připojit'>
+<!ENTITY sync.button.ok.label 'OK'>
+
 <!-- Account strings -->
-<!ENTITY sync.account.label "&syncBrand.fullName.label; (zastaralé)">
+<!ENTITY sync.account.label '&syncBrand.fullName.label; (zastaralé)'>
 
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
      by the model name of the Android device. Examples look like "Aurora on
      GT-I1950" and "Fennec on MI 2S". -->
-<!ENTITY sync.default.client.name "&formatS1; na &formatS2;">
-  
+<!ENTITY sync.default.client.name '&formatS1; na &formatS2;'>
+
 <!-- Bookmark folder strings -->
-<!ENTITY bookmarks.folder.menu.label "Nabídka záložek">
-<!ENTITY bookmarks.folder.places.label "">
-<!ENTITY bookmarks.folder.tags.label "Štítky">
-<!ENTITY bookmarks.folder.toolbar.label "Lišta záložek">
-<!ENTITY bookmarks.folder.unfiled.label "Netříděné záložky">
-<!ENTITY bookmarks.folder.desktop.label "Záložky z počítače">
-<!ENTITY bookmarks.folder.mobile.label "Záložky z mobilu">
-<!ENTITY bookmarks.folder.readinglist.label "Seznam ke čtení">
+<!ENTITY bookmarks.folder.menu.label 'Nabídka záložek'>
+<!ENTITY bookmarks.folder.places.label ''>
+<!ENTITY bookmarks.folder.tags.label 'Štítky'>
+<!ENTITY bookmarks.folder.toolbar.label 'Lišta záložek'>
+<!ENTITY bookmarks.folder.unfiled.label 'Netříděné záložky'>
+<!ENTITY bookmarks.folder.desktop.label 'Záložky z počítače'>
+<!ENTITY bookmarks.folder.mobile.label 'Záložky z mobilu'>
+<!ENTITY bookmarks.folder.readinglist.label 'Seznam ke čtení'>
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
-<!ENTITY bookmarks.folder.pinned.label "Připnuto">
+<!ENTITY bookmarks.folder.pinned.label 'Připnuto'>
 
 <!-- Notification strings -->
-<!ENTITY sync.notification.oneaccount.label "Pouze jeden účet &syncBrand.fullName.label; je podporován.">
-<!ENTITY sync.notification.configure.saved "Nastavení synchronizace bylo uloženo.">
+<!ENTITY sync.notification.oneaccount.label 'Pouze jeden účet &syncBrand.fullName.label; je podporován.'>
+<!ENTITY sync.notification.configure.saved 'Nastavení synchronizace bylo uloženo.'>
 
 <!-- Incorrect settings and changing credentials. -->
-<!ENTITY sync.invalidcreds.label "Neplatný název účtu nebo heslo.">
-<!ENTITY sync.invalidserver.label "Vložte prosím platnou adresu serveru">
-<!ENTITY sync.verifying.label "Ověřování…">
-<!ENTITY sync.new.recoverykey.status.incorrect "Obnovovací klíč je neplatný. Zkuste to prosím znovu.">
+<!ENTITY sync.invalidcreds.label 'Neplatný název účtu nebo heslo.'>
+<!ENTITY sync.invalidserver.label 'Vložte prosím platnou adresu serveru'>
+<!ENTITY sync.verifying.label 'Ověřování…'>
+<!ENTITY sync.new.recoverykey.status.incorrect 'Obnovovací klíč je neplatný. Zkuste to prosím znovu.'>
 
 <!-- Send tab to device. -->
-<!ENTITY sync.title.send.tab.label "Odeslat panel na zařízení">
-<!ENTITY sync.button.send.label "Odeslat">
-<!ENTITY sync.button.set.up.sync.label "Nastavení &syncBrand.shortName.label;">
-<!ENTITY sync.title.redirect.to.set.up.sync.label "Nastavení &syncBrand.shortName.label; odesílání panelů">
-<!ENTITY sync.text.redirect.to.set.up.sync.label "Nastavit &syncBrand.fullName.label; na tomto zařízení k odesílání panelů na jiné zařízení.">
-<!ENTITY sync.text.tab.sent.label "Panel byl odeslán">
-<!ENTITY sync.text.tab.not.sent.label "Při odesílání panelu nastala chyba.">
+<!ENTITY sync.title.send.tab.label 'Odeslat panel na zařízení'>
+<!ENTITY sync.button.send.label 'Odeslat'>
+<!ENTITY sync.button.set.up.sync.label 'Nastavení &syncBrand.shortName.label;'>
+<!ENTITY sync.title.redirect.to.set.up.sync.label 'Nastavení &syncBrand.shortName.label; odesílání panelů'>
+<!ENTITY sync.text.redirect.to.set.up.sync.label 'Nastavit &syncBrand.fullName.label; na tomto zařízení k odesílání panelů na jiné zařízení.'>
+<!ENTITY sync.text.tab.sent.label 'Panel byl odeslán'>
+<!ENTITY sync.text.tab.not.sent.label 'Při odesílání panelu nastala chyba.'>
 
 <!-- Firefox Account strings. -->
 
-<!ENTITY fxaccount_full_label "Účet Firefox Account">
+<!ENTITY fxaccount_full_label 'Účet Firefox Account'>
 
-<!ENTITY fxaccount_custom_server_account_title "Použití účtu na serveru">
-<!ENTITY fxaccount_custom_server_sync_title "Ukládání synchronizovaných dat na server">
+<!ENTITY fxaccount_custom_server_account_title 'Použití účtu na serveru'>
+<!ENTITY fxaccount_custom_server_sync_title 'Ukládání synchronizovaných dat na server'>
 
 <!-- Localization note: these are shown in all screens that query the
      user for an email address and password. Hide and show are button
      labels. -->
-<!ENTITY fxaccount_email_hint "E-mail">
-<!ENTITY fxaccount_password_hint "Heslo">
-<!ENTITY fxaccount_password_hide "Skrýt">
-<!ENTITY fxaccount_password_show "Zobrazit">
+<!ENTITY fxaccount_email_hint 'E-mail'>
+<!ENTITY fxaccount_password_hint 'Heslo'>
+<!ENTITY fxaccount_password_hide 'Skrýt'>
+<!ENTITY fxaccount_password_show 'Zobrazit'>
 
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
-<!ENTITY fxaccount_back_to_browsing "Zpět na prohlížení">
+<!ENTITY fxaccount_back_to_browsing 'Zpět na prohlížení'>
 
 <!-- Localization note: the following two strings are interpolated
      into fxaccount_create_account_policy_text2; see note for that
      string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-<!ENTITY fxaccount_policy_linktos "Podmínky služby">
-<!ENTITY fxaccount_policy_linkprivacy "Poznámka k soukromí">
+<!ENTITY fxaccount_policy_linktos 'Podmínky služby'>
+<!ENTITY fxaccount_policy_linkprivacy 'Poznámka k soukromí'>
 
-<!ENTITY fxaccount_getting_started_welcome_to_sync "Vítá vás &syncBrand.shortName.label;">
-<!ENTITY fxaccount_getting_started_description2 "Pro synchronizaci panelů, záložek, přihlášení a dalších věcí se přihlašte.">
-<!ENTITY fxaccount_getting_started_get_started "Začít">
-<!ENTITY fxaccount_getting_started_old_firefox "Používáte starou verzi &syncBrand.shortName.label;?">
+<!ENTITY fxaccount_getting_started_welcome_to_sync 'Vítá vás &syncBrand.shortName.label;'>
+<!ENTITY fxaccount_getting_started_description2 'Pro synchronizaci panelů, záložek, přihlášení a dalších věcí se přihlašte.'>
+<!ENTITY fxaccount_getting_started_get_started 'Začít'>
+<!ENTITY fxaccount_getting_started_old_firefox 'Používáte starou verzi &syncBrand.shortName.label;?'>
 
 <!-- Localization note: the Firefox below should not change with the
      particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox" account. -->
-<!ENTITY fxaccount_create_account_header2 "Vytvořit účet Firefox Account">
-<!ENTITY fxaccount_create_account_password_length_restriction "Musí být alespoň 8 znaků">
-<!ENTITY fxaccount_create_account_day_of_birth "Den">
-<!ENTITY fxaccount_create_account_month_of_birth "Měsíc">
-<!ENTITY fxaccount_create_account_year_of_birth "Rok narození">
+     etc).  The account remains a "Firefox Account". -->
+<!ENTITY fxaccount_create_account_header2 'Vytvořit účet Firefox Account'>
+<!ENTITY fxaccount_create_account_password_length_restriction 'Musí být alespoň 8 znaků'>
+<!ENTITY fxaccount_create_account_day_of_birth 'Den'>
+<!ENTITY fxaccount_create_account_month_of_birth 'Měsíc'>
+<!ENTITY fxaccount_create_account_year_of_birth 'Rok narození'>
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text2 "Pokračováním souhlasíte s &formatS1; a &formatS2; online služeb pro prohlížeč Firefox.">
-<!ENTITY fxaccount_create_account_button "Další">
-<!ENTITY fxaccount_create_account_choose_what_to_sync "Zvolte, co chcete synchronizovat">
-<!ENTITY fxaccount_create_account_sign_in_instead "Máte již účet? Přihlašte se.">
-<!ENTITY fxaccount_create_account_1990_or_earlier "1990 nebo dříve">
-<!ENTITY fxaccount_create_account_unknown_error "Nelze vytvořit účet">
+<!ENTITY fxaccount_create_account_policy_text2 'Pokračováním souhlasíte s &formatS1; a &formatS2; online služeb pro prohlížeč Firefox.'>
+<!ENTITY fxaccount_create_account_button 'Další'>
+<!ENTITY fxaccount_create_account_choose_what_to_sync 'Zvolte, co chcete synchronizovat'>
+<!ENTITY fxaccount_create_account_sign_in_instead 'Máte již účet? Přihlašte se.'>
+<!ENTITY fxaccount_create_account_1990_or_earlier '1990 nebo dříve'>
+<!ENTITY fxaccount_create_account_unknown_error 'Nelze vytvořit účet'>
 
-<!ENTITY fxaccount_account_create_not_allowed "Není možné vytvořit účet">
-<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "Pro vytvoření účtu musíte splňovat podmínku minimálního věku.">
-<!ENTITY fxaccount_account_create_not_allowed_learn_more "Zjistit více">
+<!ENTITY fxaccount_account_create_not_allowed 'Není možné vytvořit účet'>
+<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements 'Pro vytvoření účtu musíte splňovat podmínku minimálního věku.'>
+<!ENTITY fxaccount_account_create_not_allowed_learn_more 'Zjistit více'>
 
-<!ENTITY fxaccount_confirm_account_header "Potvrzení účtu">
-<!-- Localization note: &formatS; is the Firefox account's email address. -->
-<!ENTITY fxaccount_confirm_account_verification_link "Odkaz pro ověření byl odeslán na &formatS;">
-<!ENTITY fxaccount_confirm_account_resend_email "Znovu odeslat e-mail">
-<!ENTITY fxaccount_confirm_account_verification_link_sent2 "E-mail s ověřením byl odeslán">
-<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Nepodařilo se odeslat e-mail pro ověření">
-<!ENTITY fxaccount_resend_unlock_code_button_label "Znovu odeslat e-mail pro odblokování">
-<!ENTITY fxaccount_unlock_code_sent "E-mail pro odblokování účtu byl odeslán">
-<!ENTITY fxaccount_unlock_code_not_sent "E-mail pro odblokování účtu nemohl být odeslán">
+<!ENTITY fxaccount_confirm_account_header 'Potvrzení účtu'>
+<!-- Localization note: &formatS; is the Firefox Account's email address. -->
+<!ENTITY fxaccount_confirm_account_verification_link 'Odkaz pro ověření byl odeslán na &formatS;'>
+<!ENTITY fxaccount_confirm_account_resend_email 'Znovu odeslat e-mail'>
+<!ENTITY fxaccount_confirm_account_change_email 'Zapomenout tuto e-malovou adresu?'>
+<!ENTITY fxaccount_confirm_account_verification_link_sent2 'E-mail s ověřením byl odeslán'>
+<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Nepodařilo se odeslat e-mail pro ověření'>
+<!ENTITY fxaccount_resend_unlock_code_button_label 'Znovu odeslat e-mail pro odblokování'>
+<!ENTITY fxaccount_unlock_code_sent 'E-mail pro odblokování účtu byl odeslán'>
+<!ENTITY fxaccount_unlock_code_not_sent 'E-mail pro odblokování účtu nemohl být odeslán'>
 
-<!ENTITY fxaccount_sign_in_sub_header "Přihlášení">
-<!ENTITY fxaccount_sign_in_button_label "Přihlásit">
-<!ENTITY fxaccount_sign_in_forgot_password "Zapomenuto heslo?">
-<!ENTITY fxaccount_sign_in_create_account_instead "Vytvoření účtu">
-<!ENTITY fxaccount_sign_in_unknown_error "Nepodařilo se přihlásit">
-<!ENTITY fxaccount_confirm_account_change_email "Zapomenout tuto e-malovou adresu?">
-<!ENTITY fxaccount_account_verified_sub_header "Účet ověřen">
-<!ENTITY fxaccount_account_verified_description2 "Vaše data se začnou brzy synchronizovat.">
+<!ENTITY fxaccount_sign_in_sub_header 'Přihlášení'>
+<!ENTITY fxaccount_sign_in_button_label 'Přihlásit'>
+<!ENTITY fxaccount_sign_in_forgot_password 'Zapomenuto heslo?'>
+<!ENTITY fxaccount_sign_in_create_account_instead 'Vytvoření účtu'>
+<!ENTITY fxaccount_sign_in_unknown_error 'Nepodařilo se přihlásit'>
 
-<!ENTITY fxaccount_migration_finished_header "Aktualizace dokončena">
+<!ENTITY fxaccount_account_verified_sub_header 'Účet ověřen'>
+<!ENTITY fxaccount_account_verified_description2 'Vaše data se začnou brzy synchronizovat.'>
 
-<!ENTITY fxaccount_update_credentials_header "Přihlášení">
-<!ENTITY fxaccount_update_credentials_button_label "Přihlásit">
-<!ENTITY fxaccount_update_credentials_unknown_error "Přihlášení se nezdařilo">
+<!ENTITY fxaccount_migration_finished_header 'Aktualizace dokončena'>
 
-<!ENTITY fxaccount_finish_migrating_header "Přihlášení pro dokončení aktualizace">
-<!ENTITY fxaccount_finish_migrating_button_label "Dokončení aktualizace">
-<!ENTITY fxaccount_finish_migrating_description "Aktualizace může přenášet velké množství dat. Je dobré být na Wi-fi připojení.">
+<!ENTITY fxaccount_update_credentials_header 'Přihlášení'>
+<!ENTITY fxaccount_update_credentials_button_label 'Přihlásit'>
+<!ENTITY fxaccount_update_credentials_unknown_error 'Přihlášení se nezdařilo'>
 
-<!ENTITY fxaccount_status_header2 "Firefox Account">
-<!ENTITY fxaccount_status_signed_in_as "Přihlášen(a) jako">
-<!ENTITY fxaccount_status_manage_account "Správa účtu">
-<!ENTITY fxaccount_status_auth_server "Server s účtem">
-<!ENTITY fxaccount_status_sync_now "Synchronizovat">
-<!ENTITY fxaccount_status_syncing2 "Probíhá synchronizace…">
-<!ENTITY fxaccount_status_device_name "Název zařízení">
-<!ENTITY fxaccount_status_sync_server "Synchronizační server">
-<!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
-<!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: povolen">
-<!ENTITY fxaccount_status_needs_verification2 "Váš účet je potřeba ověřit. Klepněte pro opětovné odeslání e-mailu s ověřením.">
-<!ENTITY fxaccount_status_needs_credentials "Nepodařilo se připojit. Klepněte pro přihlášení.">
-<!ENTITY fxaccount_status_needs_upgrade "Pro přihlášení potřebujete aktualizovat &brandShortName;.">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; je nastaven, ale synchronizace není automatická. Zapněte automatickou synchronizaci dat v nastavení Androidu.">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; je nastaven, ale synchronizace není automatická. Zapněte automatickou synchronizaci dat v nastavení Androidu.">
-<!ENTITY fxaccount_status_needs_finish_migrating "Klepněte pro přihlášení do svého nového účtu Firefox Account.">
-<!ENTITY fxaccount_status_bookmarks "Záložky">
-<!ENTITY fxaccount_status_history "Historie">
-<!ENTITY fxaccount_status_passwords2 "Přihlášení">
-<!ENTITY fxaccount_status_tabs "Otevřené panely">
-<!ENTITY fxaccount_status_legal "Právní informace">
+<!ENTITY fxaccount_finish_migrating_header 'Přihlášení pro dokončení aktualizace'>
+<!ENTITY fxaccount_finish_migrating_button_label 'Dokončení aktualizace'>
+<!ENTITY fxaccount_finish_migrating_description 'Aktualizace může přenášet velké množství dat. Je dobré být na Wi-fi připojení.'>
+
+<!ENTITY fxaccount_status_header2 'Firefox Account'>
+<!ENTITY fxaccount_status_signed_in_as 'Přihlášen(a) jako'>
+<!ENTITY fxaccount_status_manage_account 'Správa účtu'>
+<!ENTITY fxaccount_status_auth_server 'Server s účtem'>
+<!ENTITY fxaccount_status_sync_now 'Synchronizovat'>
+<!ENTITY fxaccount_status_syncing2 'Probíhá synchronizace…'>
+<!ENTITY fxaccount_status_device_name 'Název zařízení'>
+<!ENTITY fxaccount_status_sync_server 'Synchronizační server'>
+<!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
+<!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: povolen'>
+<!ENTITY fxaccount_status_needs_verification2 'Váš účet je potřeba ověřit. Klepněte pro opětovné odeslání e-mailu s ověřením.'>
+<!ENTITY fxaccount_status_needs_credentials 'Nepodařilo se připojit. Klepněte pro přihlášení.'>
+<!ENTITY fxaccount_status_needs_upgrade 'Pro přihlášení potřebujete aktualizovat &brandShortName;.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; je nastaven, ale synchronizace není automatická. Zapněte automatickou synchronizaci dat v nastavení Androidu.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; je nastaven, ale synchronizace není automatická. Zapněte automatickou synchronizaci dat v nastavení Androidu.'>
+<!ENTITY fxaccount_status_needs_finish_migrating 'Klepněte pro přihlášení do svého nového účtu Firefox Account.'>
+<!ENTITY fxaccount_status_bookmarks 'Záložky'>
+<!ENTITY fxaccount_status_history 'Historie'>
+<!ENTITY fxaccount_status_passwords2 'Přihlášení'>
+<!ENTITY fxaccount_status_tabs 'Otevřené panely'>
+<!ENTITY fxaccount_status_legal 'Právní informace' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-<!ENTITY fxaccount_status_linktos "Podmínky služby">
-<!ENTITY fxaccount_status_linkprivacy "Poznámka k soukromí">
-<!ENTITY fxaccount_status_more "Více&ellipsis;">
+<!ENTITY fxaccount_status_linktos 'Podmínky služby'>
+<!ENTITY fxaccount_status_linkprivacy 'Poznámka k soukromí'>
+<!ENTITY fxaccount_status_more 'Více&ellipsis;'>
+<!ENTITY fxaccount_remove_account 'Odpojit&ellipsis;'>
 
-<!ENTITY fxaccount_remove_account_dialog_title "Odebrat Účet Firefox?">
-<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; přestane synchronizovat váš účet, ale nesmaže žádná data o vašem prohlížení.">
+<!ENTITY fxaccount_remove_account_dialog_title 'Odebrat Účet Firefox?'>
+<!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; přestane synchronizovat váš účet, ale nesmaže žádná data o vašem prohlížení.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_remove_account_toast "Účet Firefoxu &formatS; byl odebrán.">
+<!ENTITY fxaccount_remove_account_toast 'Účet Firefoxu &formatS; byl odebrán.'>
 
-<!ENTITY fxaccount_remove_account_menu_item "Odebrat účet">
-<!ENTITY fxaccount_enable_debug_mode "Povolit ladící mód">
+<!ENTITY fxaccount_enable_debug_mode 'Povolit ladící mód'>
 
 <!-- Localization note: this is the name shown by the Android system
-     itself for a Firefox account. Don't localize this. -->
-<!ENTITY fxaccount_account_type_label "Firefox">
+     itself for a Firefox Account. Don't localize this. -->
+<!ENTITY fxaccount_account_type_label 'Firefox'>
 
 <!-- Localization note: these are shown by the Android system itself,
-     when the user navigates to the Android > Accounts > [Firefox
-     Account] Screen. The link takes the user to the Firefox account
+     when the user navigates to the Android > Accounts > {Firefox
+     Account} Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
-     account. -->
-<!ENTITY fxaccount_options_title "Možnosti &syncBrand.shortName.label;">
-<!ENTITY fxaccount_options_configure_title "Nastavení &syncBrand.shortName.label;">
+     Account. -->
+<!ENTITY fxaccount_options_title 'Možnosti &syncBrand.shortName.label;'>
+<!ENTITY fxaccount_options_configure_title 'Nastavení &syncBrand.shortName.label;'>
 
 <!-- Localization note: these error messages are shown after a request
      has been made to the remote server, and an error of some type has
      been returned. -->
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "Je potřeba aktualizovat Firefox">
+<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'Je potřeba aktualizovat Firefox'>
 
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "Účet již existuje &formatS1;">
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "Neplatný e-mail nebo heslo">
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "Neplatný e-mail či heslo">
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "Účet není ověřen">
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "Server je zaneprázdněn, zkuste to za chvíli znovu">
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Server je zaneprázdněn, zkuste to za chvíli znovu">
-<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Vyskytl se problém">
-<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Nepodařilo se připojit k síti">
-<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "Účet je zablokován. &formatS1;">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'Účet již existuje &formatS1;'>
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Neplatný e-mail nebo heslo'>
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Neplatný e-mail či heslo'>
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Účet není ověřen'>
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Server je zaneprázdněn, zkuste to za chvíli znovu'>
+<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Server je zaneprázdněn, zkuste to za chvíli znovu'>
+<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Vyskytl se problém'>
+<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT 'Nepodařilo se připojit k síti'>
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Účet je zablokován. &formatS1;'>
 
-<!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; není připojen">
+<!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; není připojen'>
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Klepněte pro přihlášení jako &formatS;">
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Klepněte pro přihlášení jako &formatS;'>
 
-<!ENTITY fxaccount_sync_finish_migrating_notification_title "Dokončení aktualizace &syncBrand.shortName.label;?">
+<!ENTITY fxaccount_sync_finish_migrating_notification_title 'Dokončení aktualizace &syncBrand.shortName.label;?'>
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_finish_migrating_notification_text "Klepněte pro přihlášení jako &formatS;">
+<!ENTITY fxaccount_sync_finish_migrating_notification_text 'Klepněte pro přihlášení jako &formatS;'>

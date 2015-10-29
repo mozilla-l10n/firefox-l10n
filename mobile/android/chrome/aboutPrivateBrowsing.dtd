@@ -13,6 +13,8 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "Nejste v režimu anonymního prohlížení">
 
+<!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; blokuje ty součásti stránek, které mohou sledovat vaše chování při prohlížení.">
+<!ENTITY privatebrowsingpage.description.privateDetails "Neukládáme vaši historii prohlížení, pouze stažené soubory a nové záložky zůstanou ve vašem zařízení zachovány.">
 
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
