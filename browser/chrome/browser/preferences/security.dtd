@@ -26,7 +26,7 @@
 
 <!ENTITY  logins.label                  "Prijave">
 
-<!ENTITY  rememberLogins.label          "Zapomni si prijave za strani">
+<!ENTITY  rememberLogins.label          "Zapomni si prijave strani">
 <!ENTITY  rememberLogins.accesskey      "R">
 <!ENTITY  passwordExceptions.label      "Izjeme …">
 <!ENTITY  passwordExceptions.accesskey  "i">
@@ -36,5 +36,5 @@
 <!ENTITY  changeMasterPassword.label     "Nastavi glavno geslo …">
 <!ENTITY  changeMasterPassword.accesskey "G">
 
-<!ENTITY  savedLogins.label              "Shranjene prijave…">
-<!ENTITY  savedLogins.accesskey          "L">
+<!ENTITY  savedLogins.label              "Shranjene prijave …">
+<!ENTITY  savedLogins.accesskey          "H">
