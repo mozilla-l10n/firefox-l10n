@@ -17,13 +17,13 @@
 <!ENTITY aboutPrivateBrowsing.width1           "30em">
 <!ENTITY aboutPrivateBrowsing.title            "Uporabljate zasebno brskanje">
 
-<!ENTITY aboutPrivateBrowsing.info.notsaved    "Ni shranjeno">
+<!ENTITY aboutPrivateBrowsing.info.notsaved    "Se ne shranjuje">
 <!ENTITY aboutPrivateBrowsing.info.history     "Zgodovina">
 <!ENTITY aboutPrivateBrowsing.info.searches    "Iskanja">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Piškotki">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Začasne datoteke">
 
-<!ENTITY aboutPrivateBrowsing.info.saved       "Shranjeno">
+<!ENTITY aboutPrivateBrowsing.info.saved       "Se shranjuje">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Prenosi">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Zaznamki">
 
@@ -45,8 +45,8 @@
      Width of the element representing the enabled or disabled indicator.
      -->
 <!ENTITY trackingProtection.state.width        "15ch">
-<!ENTITY trackingProtection.state.enabled      "VKLJUČENO">
-<!ENTITY trackingProtection.state.disabled     "IZKLJUČENO">
+<!ENTITY trackingProtection.state.enabled      "VKLJUČENA">
+<!ENTITY trackingProtection.state.disabled     "IZKLJUČENA">
 
 <!ENTITY trackingProtection.description1       "Zasebna okna zdaj zavračajo dele strani, ki lahko sledijo vaši dejavnosti na spletu.">
 
