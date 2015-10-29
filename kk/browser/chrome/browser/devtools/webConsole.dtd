@@ -74,8 +74,10 @@
 <!ENTITY btnConsoleSharedWorkers "Ортақ жұмыс үрдістері">
 <!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
   -  should not be translated. -->
+<!ENTITY btnConsoleServiceWorkers "Қызметтік жұмыс үрдістері">
 <!-- LOCALIZATION NODE (btnConsoleWindowlessWorkers) the term "Workers"
   -  should not be translated. -->
+<!ENTITY btnConsoleWindowlessWorkers "Қосымша немесе Chrome жұмыс үрдістері">
 
 <!ENTITY filterOutput.placeholder "Сүзгі нәтижесі">
 <!ENTITY btnClear.label        "Тазарту">

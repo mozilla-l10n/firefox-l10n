@@ -26,7 +26,7 @@
 <!ENTITY projectMenu_showPrefs_accesskey "п">
 <!ENTITY projectMenu_manageComponents_label "Қосымша компоненттерді басқару">
 <!ENTITY projectMenu_manageComponents_accesskey "б">
-
+<!ENTITY projectMenu_refreshTabs_label "Беттерді жаңарту">
 
 <!ENTITY runtimeMenu_label "Орындалу ортасы">
 <!ENTITY runtimeMenu_accesskey "р">
@@ -183,13 +183,19 @@
 <!ENTITY wifi_auth_header "Клиент идентификациясы">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
+<!ENTITY wifi_auth_scan_request "Сіз байланысқыңыз келген түпкі нүктесі аутентификация үшін көбірек ақпаратты талап етеді.  Екінші құрылғыңызбен төмендегі QR кодын оқыңыз.">
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
      devices that can't scan a QR code. -->
+<!ENTITY wifi_auth_no_scanner "QR сканерінің сұранымы жоқ па?">
 <!-- LOCALIZATION NOTE (wifi_auth_yes_scanner): Link text to assist users with
      devices that can scan a QR code. -->
+<!ENTITY wifi_auth_yes_scanner "QR сканерінің сұранымы бар ма?">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
+<!ENTITY wifi_auth_token_request "Егер сіздің екінші құрылғыңыз QR кодын сканерлеу орнына токенді сұрап жатса, оған төмендегі мәнді көшіріп алыңыз:">
 <!-- Logs panel -->
+
+<!ENTITY logs_title "Алдын-ала архивтеу командалар логы">
 <!-- Simulator Options -->
 
 <!ENTITY simulator_title "Симулятор баптаулары">
