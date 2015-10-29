@@ -2,36 +2,39 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  connectionsDialog.title       "Ulanish sozlamalari">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY  proxyTitle.label              "Internetga kirish uchun proksilarni moslash">
+<!ENTITY  noProxyTypeRadio.label        "Proksi yo‘q">
+<!ENTITY  noProxyTypeRadio.accesskey    "P">
+<!ENTITY  systemTypeRadio.label         "Tizim proksi sozlamalaridan foydalanish">
+<!ENTITY  systemTypeRadio.accesskey     "f">
+<!ENTITY  WPADTypeRadio.label           "Ushbu tarmoq uchun proksi sozlamalarini avtomatik aniqlash">
+<!ENTITY  WPADTypeRadio.accesskey       "w">
+<!ENTITY  manualTypeRadio.label         "Proksini qo‘lbola moslash:">
+<!ENTITY  manualTypeRadio.accesskey     "M">
+<!ENTITY  autoTypeRadio.label           "Automatik proksini moslash URL manzili:">
+<!ENTITY  autoTypeRadio.accesskey       "A">
+<!ENTITY  reload.label                  "Qayta yuklash">
+<!ENTITY  reload.accesskey              "l">
+<!ENTITY  http.label                    "HTTP proksi:">
+<!ENTITY  http.accesskey                "H">
+<!ENTITY  ssl.label                     "SSL proksi:">
+<!ENTITY  ssl.accesskey                 "S">
+<!ENTITY  socks.label                   "SOCKS hosti:">
+<!ENTITY  socks.accesskey               "C">
+<!ENTITY  socks4.label                  "SOCKS v4">
+<!ENTITY  socks4.accesskey              "K">
+<!ENTITY  socks5.label                  "SOCKS v5">
+<!ENTITY  socks5.accesskey              "v">
+<!ENTITY  HTTPport.label                "Port:">
+<!ENTITY  HTTPport.accesskey            "P">
+<!ENTITY  SSLport.label                 "Port:">
+<!ENTITY  SSLport.accesskey             "o">
+<!ENTITY  SOCKSport.label               "Port:">
+<!ENTITY  SOCKSport.accesskey           "t">
+<!ENTITY  noproxy.label                 "Proksi yo‘q:">
+<!ENTITY  noproxy.accesskey             "y">
+<!ENTITY  noproxyExplain.label          "Masalan: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Barcha protokollar uchun ushbu proksi serverdan foydalanilsin">
+<!ENTITY  shareproxy.accesskey          "k">

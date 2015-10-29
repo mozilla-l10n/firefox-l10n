@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label                   "Umumiy">
-
+<!ENTITY itemAutoComplete.label              "Manzilga jo‘natish">
 <!ENTITY itemSpellCheck.label                "Imlo">
 
 <!ENTITY dialogCompose.title                 "Yozish">
@@ -41,20 +41,23 @@
 <!ENTITY autoSave.accesskey                   "A">
 <!ENTITY autoSaveEnd.label                    "har daqiqada">
 
+<!ENTITY emailCollectionPicker.label           "Xat yuborilayotgan manzillar avtomatik tarzda qo‘shilsin:">
+<!ENTITY emailCollectionPicker.accesskey       "a">
+<!ENTITY addressingTitle.label                 "Manzilni avtoto‘ldirish">
+<!ENTITY autocompleteText.label                "Xabarlar manzilga yo‘naltirilayotganda, kiritilganlar mosligini tekshirish:">
+<!ENTITY addressingEnable.label                "Mahalliy manzil kitobi">
+<!ENTITY addressingEnable.accesskey            "M">
+<!ENTITY directories.label                     "Direktoriya serveri">
+<!ENTITY directories.accesskey                 "D">
+<!ENTITY directoriesNone.label                 "Yo‘q">
+<!ENTITY editDirectories.label                 "Direktoriyalarni tahrirlash…">
+<!ENTITY editDirectories.accesskey             "t">
 
+<!ENTITY sendOptionsDescription.label          "Matn formati xususiyatlarini moslash">
+<!ENTITY sendOptions.label                     "Jo‘natish moslamalari…">
+<!ENTITY sendOptions.accesskey                 "J">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY attachmentReminder.label              "Biriktirmalar qolib ketmasligi uchun tekshirish">
+<!ENTITY attachmentReminder.accesskey          "q">
+<!ENTITY attachmentReminderOptions.label       "Kalit so‘zlar…">
+<!ENTITY attachmentReminderOptions.accesskey   "K">
