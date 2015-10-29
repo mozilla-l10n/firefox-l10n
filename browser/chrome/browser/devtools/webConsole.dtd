@@ -70,6 +70,8 @@
 <!ENTITY btnServerLog                 "Лог">
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
+
+<!ENTITY btnConsoleSharedWorkers "Ортақ жұмыс үрдістері">
 <!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
   -  should not be translated. -->
 <!-- LOCALIZATION NODE (btnConsoleWindowlessWorkers) the term "Workers"
