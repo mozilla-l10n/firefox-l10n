@@ -58,3 +58,5 @@
 <!ENTITY clearOutputCtrl.key  "L">
 <!ENTITY openInVarViewCmd.label "Abrir en Vista de variables">
 <!ENTITY openInVarViewCmd.accesskey "V">
+<!ENTITY storeAsGlobalVar.label "Almacenar como variable global">
+<!ENTITY storeAsGlobalVar.accesskey "S">
