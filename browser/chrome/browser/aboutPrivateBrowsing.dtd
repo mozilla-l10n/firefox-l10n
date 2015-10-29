@@ -14,13 +14,16 @@
      of the Tracking Protection section, and in general not much larger than
      30em to prevent the sections from wrapping on smaller window sizes.
      -->
+<!ENTITY aboutPrivateBrowsing.width1           "30em">
 <!ENTITY aboutPrivateBrowsing.title            "남들이 모르게 둘러보고 있습니다">
 
+<!ENTITY aboutPrivateBrowsing.info.notsaved    "저장 안됨">
 <!ENTITY aboutPrivateBrowsing.info.history     "탐색기록">
 <!ENTITY aboutPrivateBrowsing.info.searches    "검색">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "쿠키">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "임시 파일">
 
+<!ENTITY aboutPrivateBrowsing.info.saved       "저장됨">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "다운로드">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "즐겨찾기">
 
@@ -35,6 +38,7 @@
      Note that the required space may vary between platforms because fonts are
      different, so testing on Windows, Mac, and Linux is encouraged.
      -->
+<!ENTITY trackingProtection.width1             "22em">
 <!ENTITY trackingProtection.title              "추적 보호">
 
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
