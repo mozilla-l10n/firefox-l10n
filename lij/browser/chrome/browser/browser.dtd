@@ -73,9 +73,6 @@ can reach it easily. -->
 <!ENTITY personalbarCmd.label "Bara di Segnalibbri">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Ògetti da Bara di Segnalibbri">
-
-<!ENTITY devAppMgrMenu.label "Gestô de app">
-<!ENTITY devAppMgrMenu.accesskey "G">
 <!ENTITY pageSourceCmd.label "Sorgente da Pagina">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
@@ -127,8 +124,6 @@ can reach it easily. -->
 <!ENTITY printButton.label            "Stanpa">
 <!ENTITY printButton.tooltip          "Stanpa questa pagina">
 
-
-<!ENTITY locationItem.title           "Indirisso">
 <!ENTITY searchItem.title             "Riçerca">
 
 <!-- Toolbar items --> 
