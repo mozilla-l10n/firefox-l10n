@@ -5,7 +5,8 @@
 <!ENTITY privatebrowsingpage.title "Navegación privada">
 <!ENTITY privatebrowsingpage.title.private "+ protección contra rastreo">
 <!ENTITY privatebrowsingpage.title.normal1 "No está en modo de navegación privada">
-<!ENTITY privatebrowsingpage.description.private4 "&brandShortName; evitará que sea rastreado y no recordará ningún historial, pero los archivos descargados y los nuevos marcadores continuarán guardados en su dispositivo.">
+<!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; bloquea partes de esta página que pueden rastrear su navegación.">
+<!ENTITY privatebrowsingpage.description.privateDetails "No recordaremos ningún historial, pero los archivos descargados y los marcadores nuevos continuarán guardados en su dispositivo.">
 <!ENTITY privatebrowsingpage.description.normal2 "En la navegación privada, no se conserva su historial de navegación ni las cookies. Los marcadores que añada y los archivos que descargue sí continuarán guardados en su dispositivo.">
 <!ENTITY privatebrowsingpage.link.private "¿Desea más información?">
 <!ENTITY privatebrowsingpage.link.normal "Abrir una pestaña privada nueva">
