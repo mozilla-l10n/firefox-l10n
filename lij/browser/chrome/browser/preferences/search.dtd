@@ -3,12 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY defaultSearchEngine.label "Motô de riçerca predefinio">
-<!ENTITY chooseYourDefaultSearchEngine.label "Seleçionn-a o motô e riçerca predefinio: saiâ deuviou pe-a bara de indirissi, a bara de riçerca e a pagina prinçipâ de &brandShortName;.">
+<!ENTITY chooseYourDefaultSearchEngine.label "Seleçionn-a o motô de riçerca predefinio: saiâ deuviou pe-a bara de indirissi, a bara de riçerca e a pagina prinçipâ de &brandShortName;.">
 <!ENTITY provideSearchSuggestions.label "Fanni vedde conseggi de riçerca">
 <!ENTITY provideSearchSuggestions.accesskey "V">
 <!ENTITY showURLBarSuggestions.label "Fanni vedde conseggi de riçerca tra i rizoltæ da bara di indirissi">
 <!ENTITY showURLBarSuggestions.accesskey "s">
-<!ENTITY urlBarSuggestionsPermanentPB.label "I conseggi de riçerca na saian mostræ tra i rizoltæ da bara si indirissi perché &brandShortName; o l'é configurou pe no sarvâ a stöia.">
+<!ENTITY urlBarSuggestionsPermanentPB.label "I conseggi de riçerca na saian mostræ tra i rizoltæ da bara di indirissi perché &brandShortName; o l'é configurou pe no sarvâ a stöia.">
 <!ENTITY redirectWindowsSearch.label "Deuvia sto motô de riçerca pe-e riçerche da Windows">
 <!ENTITY redirectWindowsSearch.accesskey "W">
 <!ENTITY oneClickSearchEngines.label "Motoî de riçerca in un sciacco">
