@@ -88,6 +88,7 @@
 <!ENTITY overlay_share_no_url "No se ha encontrado enlace en esta compartición">
 <!ENTITY overlay_share_select_device "Seleccione dispositivo">
 <!ENTITY overlay_no_synced_devices "No se han encontrado dispositivos conectados a Firefox Accounts">
+<!ENTITY menu_no_synced_devices "Enviar esta pestaña a otro dispositivo conectado">
 <!ENTITY pref_category_search3 "Buscar">
 <!ENTITY pref_category_search_summary "Personalizar sus buscadores">
 <!ENTITY pref_category_display "Visualización">
@@ -381,6 +382,7 @@
 <!ENTITY identity_connected_to "Está conectado a">
 <!ENTITY identity_connection_secure "Conexión segura">
 <!ENTITY identity_connection_insecure "Conexión insegura">
+<!ENTITY identity_login_insecure "Esta página no es segura y sus credenciales pueden ser vulnerables.">
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; ha bloqueado contenido inseguro en esta página.">
 <!ENTITY mixed_content_blocked_some1 "&brandShortName; ha bloqueado parte del contenido inseguro en esta página.">
 <!ENTITY mixed_content_display_loaded1 "Partes de esta página no son seguras (como imágenes).">
