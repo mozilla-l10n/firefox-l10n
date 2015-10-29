@@ -6,6 +6,8 @@
 
 <!ENTITY  blockPopups.label           "Bloccar fanestras pop-up">
 <!ENTITY  blockPopups.accesskey       "p">
+
+
 <!ENTITY  popupExceptions.label       "Excepziuns…">
 <!ENTITY  popupExceptions.accesskey   "E">
 
