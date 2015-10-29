@@ -11,8 +11,11 @@
 <!ENTITY newPref.valueString           "Tol">
 <!ENTITY newPref.valueInteger          "Namba ne">
 
+<!ENTITY newPref.stringPlaceholder     "Ket coc">
+<!ENTITY newPref.numberPlaceholder     "Ket namba">
 
-
+<!ENTITY newPref.toggleButton          "Lok">
 <!ENTITY newPref.cancelButton          "Juk">
 
-
+<!ENTITY contextMenu.copyPrefName      "Lok nying">
+<!ENTITY contextMenu.copyPrefValue     "Lok wel">
