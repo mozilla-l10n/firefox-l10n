@@ -112,7 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; প্রস্তুত করুন">
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; খুলুন পছন্দসমূহ">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; প্রস্তুত করুন">
-
+<!ENTITY fxaUnverified.label "অ্যাকাউন্ট যাচাই করুন">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; সক্রিয়">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; এখুনি সিঙ্ক করা শুরু করবে।">
 
@@ -131,7 +131,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY fullscreenWarning.beforeDomain.label "">
-
+<!ENTITY fullscreenWarning.afterDomain.label "স্ক্রিন পূর্ণভাবে ব্যবহৃত হচ্ছে">
 
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
