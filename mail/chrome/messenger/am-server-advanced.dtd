@@ -24,7 +24,7 @@
 <!ENTITY otherUsersNamespace.accesskey "λ">
 <!ENTITY overrideNamespaces.label "Να επιτρέπεται στο διακομιστή να παρακάμπτει αυτά τα namespaces">
 <!ENTITY overrideNamespaces.accesskey "ρ">
-<!ENTITY pop3Desc.label "Την εισερχόμενη αλληλογραφία pop3 μπορείτε να την αποθηκεύετε στα Γενικά εισερχόμενα (τοπικοί φάκελοι), ή στα εισερχόμενα αυτού του λογαριασμού, ή σε κάποιον άλλο λογαριασμό POP3.">
+<!ENTITY pop3Desc.label "Την εισερχόμενη αλληλογραφία pop3 μπορείτε να την αποθηκεύετε στα Γενικά εισερχόμενα (τοπικοί φάκελοι), ή στα εισερχόμενα αυτού του λογαριασμού, ή σε κάποιον άλλο λογαριασμό POP3." >
 <!ENTITY accountDirectory.label "Εισερχόμενα για το λογαριασμό του τρέχοντα διακομιστή">
 <!ENTITY accountDirectory.accesskey "χ">
 <!ENTITY deferToServer.label "Εισερχόμενα για διαφορετικό λογαριασμό">
