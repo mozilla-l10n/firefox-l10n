@@ -45,7 +45,6 @@
 
 <!ENTITY  expire.label                  "ɗi kiiɗta">
 <!ENTITY  close.label                   "Miɗo udda &brandShortName;">
-<!ENTITY  askEachTime.label             "naamno-mi e sahaa kala nde">
 
 <!ENTITY  cookieExceptions.label        "Palooje…">
 <!ENTITY  cookieExceptions.accesskey    "P">
