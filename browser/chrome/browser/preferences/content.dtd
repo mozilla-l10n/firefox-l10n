@@ -6,6 +6,14 @@
 
 <!ENTITY  blockPopups.label           "পপ-আপ উইন্ডো ব্লক করা হবে B">
 <!ENTITY  blockPopups.accesskey       "B">
+
+
+
+
+
+
+
+
 <!ENTITY  popupExceptions.label       "ব্যতিক্রম... E">
 <!ENTITY  popupExceptions.accesskey   "E">
 

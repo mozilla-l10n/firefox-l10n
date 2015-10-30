@@ -137,6 +137,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "স্বয়ংক্রিয়ভাবে ক্লোজিং ব্র্যাকেট দিন">
 <!ENTITY prefs_options_keybindings "কী-বাইন্ডিং">
 <!ENTITY prefs_options_keybindings_default "পূর্বনির্ধারিত">
+
+
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "অনুমতি টেবিল">
