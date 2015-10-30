@@ -26,10 +26,10 @@
 <!ENTITY loaddevice.info                        "तपाइँले थप्न चाहनुभएको मोड्युलका लागि जानकारी प्रविष्ट गर्नुहोस्।">
 <!ENTITY loaddevice.modname                     "मोड्युल नाम:">
 <!ENTITY loaddevice.modname.accesskey           "M">
-<!ENTITY loaddevice.modname.default             "नयाँ PKCS#११ मोड्युल">
+<!ENTITY loaddevice.modname.default             "नयाँ PKCS#11 मोड्युल">
 <!ENTITY loaddevice.filename                    "मोड्युल फाइलनाम:">
 <!ENTITY loaddevice.filename.accesskey          "f">
 
 <!ENTITY loaddevice.browse.accesskey            "B">
 
-<!ENTITY loaddevice.title                       "PKCS#११ साधन लोड गर्नुहोस्">
+<!ENTITY loaddevice.title                       "PKCS#11 साधन लोड गर्नुहोस्">
