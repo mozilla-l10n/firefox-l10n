@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                 "Nemedennoù">
-<!ENTITY window.width                 "36em">
+
 
 <!ENTITY treehead.sitename.label      "Lec'hienn">
 <!ENTITY treehead.status.label        "Stad">
@@ -15,12 +15,13 @@
 <!ENTITY address.accesskey            "C">
 <!ENTITY block.label                  "Herzel">
 <!ENTITY block.accesskey              "H">
-<!ENTITY session.label                "Aotren evit an estez">
-<!ENTITY session.accesskey            "A">
+
+
 <!ENTITY allow.label                  "Aotren">
 <!ENTITY allow.accesskey              "o">
 <!ENTITY windowClose.key              "w">
 
-<!ENTITY button.close.label           "Serriñ">
-<!ENTITY button.close.accesskey       "S">
+
+
+
 

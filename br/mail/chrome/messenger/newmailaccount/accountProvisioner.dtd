@@ -6,7 +6,7 @@
 <!ENTITY header2.label "Ha fellout a ra deoc'h kaout ur postel nevez">
 <!ENTITY other.languages "Skrammet eo ar bourchaserien a ginnig chomlec'hioù e-barzh ho rannvro nemetken. Klikit amañ a-benn diskouez an holl bourchaserien.">
 <!ENTITY error.line1 "Diskonfort, n'hallomp kavout chomlec'h postel aliet ebet.">
-<!ENTITY error.line2 "Gallout a rit klask lesanvioù pe dermenoù all a-benn kavout muioc'h a bosteloù">
+
 <!-- LOCALIZATION NOTE(error.suggest.before, error.suggest.middle, error.suggest.after):
      error.suggest.before, error.suggest.middle, and error.suggest.after all go into
      one line with error.suggest.middle that links to a site which provides download
