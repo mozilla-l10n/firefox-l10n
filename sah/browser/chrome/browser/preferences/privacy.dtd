@@ -42,7 +42,6 @@
 
 <!ENTITY  expire.label                  "болдьоҕо ааһа илигинэ">
 <!ENTITY  close.label                   "маны &brandShortName; саба иликпинэ">
-<!ENTITY  askEachTime.label             "сырыы аайы ыйыт">
 
 <!ENTITY  cookieExceptions.label        "Туорааһыннар…">
 <!ENTITY  cookieExceptions.accesskey    "Т">
