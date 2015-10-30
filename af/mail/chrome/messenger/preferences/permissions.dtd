@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                 "Uitsonderings">
-<!ENTITY window.width                 "36em">
+
 
 <!ENTITY treehead.sitename.label      "Werf">
 <!ENTITY treehead.status.label        "Status">
@@ -15,12 +15,13 @@
 
 <!ENTITY block.label                  "Blokkeer">
 <!ENTITY block.accesskey              "B">
-<!ENTITY session.label                "Toelaat vir sessie">
-<!ENTITY session.accesskey            "s">
+
+
 <!ENTITY allow.label                  "Toelaat">
 <!ENTITY allow.accesskey              "T">
 <!ENTITY windowClose.key              "w">
 
-<!ENTITY button.close.label           "Sluit">
-<!ENTITY button.close.accesskey       "S">
+
+
+
 
