@@ -13,10 +13,11 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "Ez zaude nabigatze pribatuan">
 
-<!ENTITY privatebrowsingpage.description.private4 "&brandShortName;(e)k zure jarraipena egitea eragotziko du eta ez du historiarik gogoratuko baina deskargatutako fitxategiak eta laster-marka berriak zure gailuan gordeko dira halere.">
+
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
+
 <!ENTITY privatebrowsingpage.description.normal2 "Nabigatze pribatuan, ez dugu zure nabigatze-historiarik edo cookierik gordeko. Deskargatutako fitxategiak eta laster-marka berriak zure gailuan gordeko dira halere.">
 
 <!ENTITY privatebrowsingpage.link.private "Argibide gehiago nahi dituzu?">
