@@ -3,3 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Window title -->
+<!ENTITY windowTitle.label "Изаберите измене уређивања">
+<!ENTITY conflictResolve.label "Изаберите коју верзију желите да сачувате:">
+<!ENTITY keepCurrentPageButton.label "Сачувај тренутне измене на страници">
+<!ENTITY useOtherPageButton.label "Замени тренутну страницу са другим изменама">
