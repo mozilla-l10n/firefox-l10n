@@ -45,7 +45,6 @@
 
 <!ENTITY  expire.label                  "කල් ඉකුත්වන තුරු">
 <!ENTITY  close.label                   "මම &brandShortName; වසන තුරු">
-<!ENTITY  askEachTime.label             "සැම විටම මගෙන් අසන්න">
 
 <!ENTITY  cookieExceptions.label        "හැරදැමීම්...">
 <!ENTITY  cookieExceptions.accesskey    "E">

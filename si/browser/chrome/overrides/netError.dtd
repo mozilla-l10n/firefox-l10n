@@ -174,4 +174,11 @@ functionality specific to firefox. -->
 <!ENTITY sslv3Used.title "ආරක්ෂිතව සබඳවිය නොහැකි විය">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "ssl_error_unsupported_version". -->
-<!ENTITY sslv3Used.learnMore "තවත් දැනගන්න...">
+
+
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
+     "ssl_error_no_cypher_overlap". -->
+
+
+
+
