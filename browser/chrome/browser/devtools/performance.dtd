@@ -35,7 +35,11 @@
 <!ENTITY performanceUI.bufferStatusFull "버퍼가 꽉 찼습니다. 오래된 샘플이 덮어 써집니다.">
 
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
-  -  in the call list view while loading a profile. -->
+  -  in the details view while the profiler is unavailable, for example, while
+  -  in Private Browsing mode. -->
+
+<!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
+  -  in the details view while loading a profile. -->
 <!ENTITY performanceUI.loadingNotice "읽는 중…">
 
 <!-- LOCALIZATION NOTE (performanceUI.recordButton): This string is displayed
