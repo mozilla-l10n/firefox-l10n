@@ -144,13 +144,12 @@
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
 <!ENTITY overlay_no_synced_devices "Der blev ikke fundet nogen forbundne enheder med en Firefox-konto">
-<!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
-     to send a tab to a synced device is pressed and there is an error
-     connecting to the server so the tab could not be sent. The text should be
-     divided into two lines (use the newline escape character, "\n", between
-     them): the first notifying the user about the failure and the second
-     telling the user what to do about it. -->
-<!ENTITY overlay_share_tab_not_sent "Dit faneblad kunne ikke sendes.\nPrøv igen senere.">
+
+<!-- Localization note (menu_no_synced_devices): Used in a toast when the user
+     clicks on the button to send a tab to another device and there are no
+     other devices present. This label should briefly inform the user that they
+     need another connected device in order to use the feature. -->
+<!ENTITY menu_no_synced_devices "Send dette faneblad til en anden forbundet enhed">
 
 <!ENTITY pref_category_search3 "Søg">
 <!ENTITY pref_category_search_summary "Tilpas dine søgetjenester">
@@ -217,10 +216,17 @@
 <!ENTITY pref_cookies_not_accept_foreign "Aktiver, men stop 3. parts cookies">
 <!ENTITY pref_cookies_disabled "Deaktiveret">
 
+<!ENTITY pref_tap_to_load_images_title "Tryk for at indlæse billeder">
+<!ENTITY pref_tap_to_load_images_summary2 "Indlæs kun billeder, når du trykker og holder på dem">
+
 <!ENTITY pref_tracking_protection_title "Beskyttelse mod sporing">
 <!ENTITY pref_tracking_protection_summary3 "Aktiveret i privat browsing">
 <!ENTITY pref_donottrack_title "Spor mig ikke">
 <!ENTITY pref_donottrack_summary "&brandShortName; vil fortælle websteder, at du ikke vil spores">
+
+<!ENTITY pref_tracking_protection_enabled "Aktiveret">
+<!ENTITY pref_tracking_protection_enabled_pb "Aktiveret i privat browsing">
+<!ENTITY pref_tracking_protection_disabled "Deaktiveret">
 
 <!ENTITY tracking_protection_prompt_title "Nu med beskyttelse mod sporing">
 <!ENTITY tracking_protection_prompt_text "Sporingselementer blokeres automatisk, så du ikke behøver at bekymre dig.">
@@ -290,6 +296,7 @@ size. -->
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_sync_summary2 "Synkroniser dine faneblade, bogmærker, logins og historik">
 <!ENTITY pref_search_suggestions "Vis søgeforslag">
+<!ENTITY pref_history_search_suggestions "Vis søgehistorik">
 <!ENTITY pref_import_android "Importer fra Android">
 <!ENTITY pref_import_android_summary "Importer bogmærker og historik fra den medfølgende browser">
 <!ENTITY pref_private_data_history2 "Browserhistorik">
@@ -582,6 +589,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Sikker forbindelse">
 <!ENTITY identity_connection_insecure "Usikker forbindelse">
+<!ENTITY identity_login_insecure "Denne webside er ikke sikker, og dit login kan være sårbart.">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; har blokeret usikkert indhold på denne webside.">
@@ -697,6 +705,19 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY find_matchcase "Aa">
 
 <!ENTITY intent_uri_cannot_open "Link kan ikke åbnes">
+<!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
+     appear in an alert when a user, who is currently in private browsing,
+     clicks a link that will open an external Android application. "&formatS;"
+     will be replaced with the name of the application that will be opened. -->
+<!ENTITY intent_uri_private_browsing_prompt "Dette link vil blive åbnet i &formatS;. Er du sikker på, at du vil afslutte privat browsing?">
+<!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
+     string will appear as the title of an alert when a user, who is currently
+     in private browsing, clicks a link that will open an external Android
+     application and more than one application is available to open that link.
+     We don't have control over the style of this dialog and it looks
+     unpolished when this string is longer than one line so ideally keep it
+     short! -->
+<!ENTITY intent_uri_private_browsing_multiple_match_title "Afslut privat browsing?">
 
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears

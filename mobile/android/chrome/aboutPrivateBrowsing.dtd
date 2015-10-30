@@ -13,7 +13,9 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "Du er ikke på et faneblad med privat browsing">
 
-<!ENTITY privatebrowsingpage.description.private4 "&brandShortName; vil forhindre, at du spores, og vil ikke gemme historik, men hentede filer og nye bogmærker vil stadig blive gemt på din enhed.">
+<!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; blokerer dele af websider, der kan spore dig på nettet.">
+<!ENTITY privatebrowsingpage.description.privateDetails "Vi gemmer ikke din historik, men hentede filer og nye bogmærker vil blive gemt på din enhed.">
+
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
