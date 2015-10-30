@@ -142,13 +142,10 @@
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
 <!ENTITY overlay_no_synced_devices "Firefox ಖಾತೆ ಸಂಪರ್ಕಿತಗೊಂಡಿರುವ ಸಾಧನಗಳು ಕಂಡುಬಂದಿಲ್ಲ">
-<!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
-     to send a tab to a synced device is pressed and there is an error
-     connecting to the server so the tab could not be sent. The text should be
-     divided into two lines (use the newline escape character, "\n", between
-     them): the first notifying the user about the failure and the second
-     telling the user what to do about it. -->
-<!ENTITY overlay_share_tab_not_sent "ನಿಮ್ಮ ಹಾಳೆಯನ್ನು ಕಳಿಸಲಾಗಿಲ್ಲ.\nPlease ನಂತರ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.">
+<!-- Localization note (menu_no_synced_devices): Used in a toast when the user
+     clicks on the button to send a tab to another device and there are no
+     other devices present. This label should briefly inform the user that they
+     need another connected device in order to use the feature. -->
 
 <!ENTITY pref_category_search3 "ಹುಡುಕು">
 <!ENTITY pref_category_search_summary "ನಿಮ್ಮ ಹುಡುಕು ಪೂರೈಕೆದಾರರನ್ನು ಗ್ರಾಹಕೀಯಗೊಳಿಸು">
@@ -215,10 +212,15 @@
 <!ENTITY pref_cookies_not_accept_foreign "ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ, 3ನೆಯವರನ್ನು ಹೊರತುಪಡಿಸಿ">
 <!ENTITY pref_cookies_disabled "ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ">
 
+
+
 <!ENTITY pref_tracking_protection_title "ಜಾಡು ಇರಿಸುವಿಕೆ ಇಂದ ರಕ್ಷಣೆ">
-<!ENTITY pref_tracking_protection_summary3 "ಖಾಸಗಿ ವೀಕ್ಷಣೆಯಲ್ಲಿ ಸಕ್ರಿಯಗೊಳಿಸು">
+
 <!ENTITY pref_donottrack_title "ಜಾಡು ಇರಿಸಬೇಡ">
 <!ENTITY pref_donottrack_summary "&brandShortName; ನಿಮ್ಮ ಜಾಡನ್ನು ಇರಿಸದಂತೆ ಜಾಲಗಳಿಗೆ ತಿಳಿಸುತ್ತದೆ">
+
+
+
 
 
 
@@ -287,6 +289,7 @@ size. -->
 <!ENTITY pref_sync "ಸಿಂಕ್">
 <!ENTITY pref_sync_summary2 "ನಿಮ್ಮ ಹಾಳೆಗಳು, ಪುಟಗುರುತುಗಳು, ಪ್ರವೇಶ ಪದಗಳು, ಇತಿಹಾಸ ಸಿಂಕ್ ಮಾಡಿ">
 <!ENTITY pref_search_suggestions "ಹುಡುಕಲು ಸಲಹೆಗಳನ್ನು ತೋರಿಸು">
+
 <!ENTITY pref_import_android "ಆಂಡ್ರಾಯ್ಡ್‌ನಿಂದ ಆಮದುಮಾಡು">
 <!ENTITY pref_import_android_summary "ಸ್ಥಳೀಯ ಬ್ರೌಸರ್‌ನಿಂದ ಪುಟಗುರುತುಗಳು ಮತ್ತು ಇತಿಹಾಸವನ್ನು ಆಮದುಮಾಡು">
 <!ENTITY pref_private_data_history2 "ವೀಕ್ಷಣೆಯ ಇತಿಹಾಸ">
@@ -574,6 +577,7 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 
+
 <!-- Mixed content notifications in site identity popup -->
 
 
@@ -687,6 +691,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY find_matchcase "Aa">
 
 <!ENTITY intent_uri_cannot_open "ಕೊಂಡಿಯನ್ನು ತೆರೆಯಲಾಗುತ್ತಿಲ್ಲ">
+<!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
+     appear in an alert when a user, who is currently in private browsing,
+     clicks a link that will open an external Android application. "&formatS;"
+     will be replaced with the name of the application that will be opened. -->
+<!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
+     string will appear as the title of an alert when a user, who is currently
+     in private browsing, clicks a link that will open an external Android
+     application and more than one application is available to open that link.
+     We don't have control over the style of this dialog and it looks
+     unpolished when this string is longer than one line so ideally keep it
+     short! -->
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
      above a QR reader that is actively scanning for QR codes.  The expected QR
@@ -715,7 +730,5 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarks_addons "Firefox: ಆಡ್-ಆನ್‌ಗಳೊಂದಿಗೆ ಅಗತ್ಯಾನುಗುಣಗೊಳಿಸು">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
 <!ENTITY bookmarks_support "Firefox: ಬೆಂಬಲ">
-<!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
-<!ENTITY bookmarks_marketplace "Firefox ಮಾರ್ಕೆಟ್‌ಪ್ಲೇಸ್">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
