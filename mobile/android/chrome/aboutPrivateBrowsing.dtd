@@ -13,10 +13,11 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "Anda tidak sedang dalam Penjelajahan Privat">
 
-<!ENTITY privatebrowsingpage.description.private4 "&brandShortName; akan mencegah Anda dilacak dan tidak akan mengingat riwayat apapun, tetapi berkas yang diunduh dan markah baru akan tetap tersimpan di peranti Anda.">
+
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
+
 <!ENTITY privatebrowsingpage.description.normal2 "Dalam Penjelajahan Privat, semua riwayat penjelajahan atau kuki Anda tidak akan tersimpan. Markah yang Anda tambahkan dan berkas yang Anda unduh tetap akan tersimpan di peranti Anda.">
 
 <!ENTITY privatebrowsingpage.link.private "Ingin mempelajari lebih lanjut?">
