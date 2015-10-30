@@ -223,6 +223,7 @@
 <!ENTITY fxaccount_status_linktos "Amodau Gwasanaeth">
 <!ENTITY fxaccount_status_linkprivacy "Rhybudd Preifatrwydd">
 <!ENTITY fxaccount_status_more "Rhagor&ellipsis;">
+<!ENTITY fxaccount_remove_account "Datgysylltu&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "Tynnu\u0027r Cyfrif Firefox?">
 <!ENTITY fxaccount_remove_account_dialog_message "Bydd &brandShortName; yn peidio cydweddu eich cyfrif, ond ni fydd yn dileu eich data pori ar y ddyfais hon.">
@@ -230,7 +231,6 @@
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "Cyfrif Firefox &formatS; wedi ei ddileu.">
 
-<!ENTITY fxaccount_remove_account_menu_item "Diddymu\u0027r Cyfrif">
 <!ENTITY fxaccount_enable_debug_mode "Galluogi Modd Dadfygio">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
