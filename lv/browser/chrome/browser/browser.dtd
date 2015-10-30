@@ -189,7 +189,30 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Drukāt">
 <!ENTITY printButton.tooltip          "Drukāt šo lapu">
 
-<!ENTITY locationItem.title           "Vieta">
+<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
+     used to provide accessible labels to users of assistive technology like screenreaders.
+     It is not possible to see them visually in the UI. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY searchItem.title             "Meklēt">
 <!-- Toolbar items --> 
 
@@ -229,6 +252,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.commandkey            "A">
 <!ENTITY webapps.label                "Lietotnes">
 <!ENTITY webapps.accesskey            "L">
+
+
 
 <!ENTITY webDeveloperMenu.label       "Tīmekļa izstrādātājs">
 <!ENTITY webDeveloperMenu.accesskey   "T">
@@ -288,8 +313,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Aizvērt izstrādātāja rīkjoslu">
 <!ENTITY devToolbarMenu.label              "Izstrādātāja rīkjosla">
 <!ENTITY devToolbarMenu.accesskey          "j">
-<!ENTITY devAppMgrMenu.label               "Aplikāciju pārvaldnieks">
-<!ENTITY devAppMgrMenu.accesskey           "a">
 <!ENTITY webide.label                      "WebIDE">
 <!ENTITY webide.accesskey                  "W">
 <!ENTITY webide.keycode                    "VK_F8">
@@ -308,6 +331,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Fails"> 
 <!ENTITY fileMenu.accesskey       "F">
+
+
+
+
+
+
+
+
+
+
 <!ENTITY newNavigatorCmd.label        "Jauns logs">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "n">

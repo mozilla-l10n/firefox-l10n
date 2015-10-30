@@ -34,7 +34,10 @@
 
 <!ENTITY performanceUI.bufferStatusFull "Buferis ir pilns. Vecie paraugi tiek pārrakstīti.">
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
-  -  in the call list view while loading a profile. -->
+  -  in the details view while the profiler is unavailable, for example, while
+  -  in Private Browsing mode. -->
+<!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
+  -  in the details view while loading a profile. -->
 
 <!ENTITY performanceUI.loadingNotice "Ielādē…">
 <!-- LOCALIZATION NOTE (performanceUI.recordButton): This string is displayed
