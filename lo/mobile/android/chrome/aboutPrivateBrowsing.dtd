@@ -13,10 +13,11 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "ທ່ານບໍ່ໄດ້ຢູ່ໃນໂມດການຄົ້ນຫາແບບສ່ວນຕົວ">
 
-<!ENTITY privatebrowsingpage.description.private4 "&brandShortName; ຈະປົກປ້ອງທ່ານຈາກການຖືກຕິດຕາມ ແລະ ຈະບໍ່ບັນທຶກປະຫວັດການໃຊ້ງານ, ແຕ່ວ່າຟາຍຂໍ້ມູນທີ່ໄດ້ດາວໂຫລດແລ້ວ ແລະ ບຸກຫມາກໃຫມ່ແມ່ນຈະໄດ້ຖືກບັນທຶກໄວ້ໃນອຸປະກອນຂອງທ່ານ.">
+
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
+
 <!ENTITY privatebrowsingpage.description.normal2 "ໃນໂມດການຄົ້ນຫາແບບສ່ວນຕົວ, ແມ່ນພວກເຮົາຈະບໍ່ເກັບຮັກສາປະຫວັດການໃຊ້ງານ ແລະ ຄຸກກີ້ຂອງທ່ານໄວ້. ສ່ວນບຸກຫມາກ ແລະ ຟາຍທີ່ດາວໂຫລດແມ່ນຈະໄດ້ຖືກບັນທຶກໄວ້ໃນອຸປະກອນຂອງທ່ານ.">
 
 <!ENTITY privatebrowsingpage.link.private "ຕ້ອງການທີ່ຈະຮຽນຮູ້ເພີ່ມເຕີມອີກບໍ່?">
