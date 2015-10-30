@@ -41,7 +41,6 @@
 
 <!ENTITY  expire.label                  "ພວກມັນໝົດອາຍຸ">
 <!ENTITY  close.label                   "ຂ້ອຍປິດ &brandShortName;">
-<!ENTITY  askEachTime.label             "ຖາມທຸກຄັ້ງ">
 
 <!ENTITY  cookieExceptions.label        "ຍົກເວັ້ນ">
 <!ENTITY  cookieExceptions.accesskey    "ຍ">

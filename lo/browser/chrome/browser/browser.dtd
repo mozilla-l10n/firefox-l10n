@@ -180,7 +180,30 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "ພິມ">
 <!ENTITY printButton.tooltip          "ພິມໜ້ານີ້">
 
-<!ENTITY locationItem.title           "ຕຳແຫນ່ງທີ່ຢູ່">
+<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
+     used to provide accessible labels to users of assistive technology like screenreaders.
+     It is not possible to see them visually in the UI. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY searchItem.title             "ຊອກຫາ">
 <!-- Toolbar items -->
 
@@ -215,6 +238,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "ໂປຼແກຣມເສີມ">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
+
+
 
 
 
@@ -271,8 +296,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
-
 <!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
@@ -287,6 +310,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "ໄຟລ໌"> 
 <!ENTITY fileMenu.accesskey       "F">
+
+
+
+
+
+
+
+
+
+
 <!ENTITY newNavigatorCmd.label        "ຫນ້າຕ່າງໃຫມ່">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
