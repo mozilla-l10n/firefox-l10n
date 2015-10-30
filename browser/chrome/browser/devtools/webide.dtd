@@ -137,6 +137,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "மூடும் அடைப்புக் குறிகளை தானாக இடு">
 <!ENTITY prefs_options_keybindings "விசைப்பிணைப்புகள்">
 <!ENTITY prefs_options_keybindings_default "முன்னிருப்பு">
+
+
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "அனுமதி அட்டவணை">

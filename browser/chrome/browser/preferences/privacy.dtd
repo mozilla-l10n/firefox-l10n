@@ -45,7 +45,6 @@
 
 <!ENTITY  expire.label                  "அவை காலாவதியாகிவிட்டது">
 <!ENTITY  close.label                   "நான் &brandShortName;ஐ மூடுகிறேன்">
-<!ENTITY  askEachTime.label             "ஒவ்வொரு முறையும் என்னை கேள்">
 
 <!ENTITY  cookieExceptions.label        "விதிவிலக்குகள்…">
 <!ENTITY  cookieExceptions.accesskey    "E">

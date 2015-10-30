@@ -5,6 +5,11 @@
 <!ENTITY tabCrashed.header "ஐயோ : இந்தக் கீற்று நொறுங்கியது">
 <!ENTITY tabCrashed.message "ஆகா: நீங்கள் இந்தக் கீற்றை மூடலாம், மீட்கலாம், அல்லது நொறுங்கிய கீற்றுகள் அனைத்தையும் மீட்கலாம்.">
 <!ENTITY tabCrashed.sendReport "மேலும் சிக்கல்களை தடுக்க அறிக்கை சமர்பித்து உதவவும்">
+
+
+
+
+
 <!ENTITY tabCrashed.reportSent "சிதைவு அறிக்கையை ஏற்கனவே அனுப்பியாயிற்று. &brandShortName; சிறக்க உதவியதற்க்கு நன்றி!     ">
 <!ENTITY tabCrashed.closeTab "இந்த கீற்றை மூடு">
 <!ENTITY tabCrashed.restoreTab "இந்த கீற்றை மீட்கவும்">
