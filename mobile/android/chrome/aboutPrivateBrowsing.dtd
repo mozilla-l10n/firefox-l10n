@@ -13,10 +13,11 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "Njejsćo w priwatnem modusu">
 
-<!ENTITY privatebrowsingpage.description.private4 "&brandShortName; zajźujo, až so slědujośo a njemarkujo žednu historiju, ale ześěgnjone dataje a nowe cytańske znamjenja składuju se na wašom rěźe.">
+
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
+
 <!ENTITY privatebrowsingpage.description.normal2 "W priwatnem modusu waša pśeglědowańska historija abo waše cookiejei njewuchowaju. Cytańske znamjenja, kótarež pśidawaśo a dataje, kótarež ześěgujośo, składuju se na wašom rěźe.">
 
 <!ENTITY privatebrowsingpage.link.private "Cośo wěcej zgóniś?">
