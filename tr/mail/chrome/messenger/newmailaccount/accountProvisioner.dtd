@@ -6,7 +6,7 @@
 <!ENTITY header2.label "Yeni bir e-posta adresi ister misiniz?">
 <!ENTITY other.languages "Yalnızca sizin bölgenize adres sunan sağlayıcıları görüntülüyoruz. Tüm sağlayıcıları görmek için buraya tıklayın.">
 <!ENTITY error.line1 "Üzgünüz, hiçbir e-posta adres önerisi bulamadık.">
-<!ENTITY error.line2 "Daha fazla e-posta bulmak için rumuz veya başka bir terim aramayı deneyebilirsiniz.">
+
 <!-- LOCALIZATION NOTE(error.suggest.before, error.suggest.middle, error.suggest.after):
      error.suggest.before, error.suggest.middle, and error.suggest.after all go into
      one line with error.suggest.middle that links to a site which provides download
