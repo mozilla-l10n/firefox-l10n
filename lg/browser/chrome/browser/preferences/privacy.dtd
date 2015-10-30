@@ -41,7 +41,6 @@
 
 <!ENTITY  expire.label                  "ziyitako">
 <!ENTITY  close.label                   "Nziggalawo &brandShortName;">
-<!ENTITY  askEachTime.label             "mbuuza buli kiseera">
 
 <!ENTITY  cookieExceptions.label        "Okujjako…">
 <!ENTITY  cookieExceptions.accesskey    "j">
