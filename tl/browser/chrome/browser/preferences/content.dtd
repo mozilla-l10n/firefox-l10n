@@ -4,6 +4,14 @@
 
 <!ENTITY  blockPopups.label           "Harangin ang mga pop-up windows">
 <!ENTITY  blockPopups.accesskey       "H">
+
+
+
+
+
+
+
+
 <!ENTITY  popupExceptions.label       "Mga Exceptions...">
 <!ENTITY  popupExceptions.accesskey   "E">
 
