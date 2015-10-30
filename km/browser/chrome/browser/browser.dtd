@@ -189,7 +189,30 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "បោះពុម្ព">
 <!ENTITY printButton.tooltip          "បោះពុម្ព​ទំព័រ​នេះ">
 
-<!ENTITY locationItem.title           "ទីតាំង">
+<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
+     used to provide accessible labels to users of assistive technology like screenreaders.
+     It is not possible to see them visually in the UI. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY searchItem.title             "ស្វែងរក">
 <!-- Toolbar items --> 
 
@@ -229,6 +252,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.commandkey            "A">
 <!ENTITY webapps.label                "កម្មវិធី">
 <!ENTITY webapps.accesskey            "ក">
+
+
 
 <!ENTITY webDeveloperMenu.label       "អ្នក​អភិវឌ្ឍន៍​បណ្ដាញ">
 <!ENTITY webDeveloperMenu.accesskey   "ប">
@@ -288,8 +313,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "បិទ​របារ​ឧបករណ៍​​អ្នក​អភិវឌ្ឍន៍">
 <!ENTITY devToolbarMenu.label              "របារ​ឧបករណ៍​អ្នកអភិវឌ្ឍន៍">
 <!ENTITY devToolbarMenu.accesskey          "អ">
-<!ENTITY devAppMgrMenu.label               "កម្មវិធី​គ្រប់គ្រង​កម្មវិធី">
-<!ENTITY devAppMgrMenu.accesskey           "ក">
 <!ENTITY webide.label                      "WebIDE">
 <!ENTITY webide.accesskey                  "W">
 <!ENTITY webide.keycode                    "VK_F8">
@@ -308,6 +331,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "ឯកសារ"> 
 <!ENTITY fileMenu.accesskey       "ឯ">
+
+
+
+
+
+
+
+
+
+
 <!ENTITY newNavigatorCmd.label        "បង្អួច​​​ថ្មី">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "ប">

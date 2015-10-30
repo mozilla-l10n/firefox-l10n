@@ -137,6 +137,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "បញ្ចូល​វង់ក្រចក​បិទ​ដោយ​ស្វ័យប្រវត្តិ">
 <!ENTITY prefs_options_keybindings "បន្សំ​គ្រាប់​ចុច">
 <!ENTITY prefs_options_keybindings_default "លំនាំ​ដើម">
+
+
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "តារាង​គ្រប់គ្រង​សិទ្ធិ">

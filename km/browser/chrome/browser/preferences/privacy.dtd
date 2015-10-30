@@ -47,7 +47,6 @@
 
 <!ENTITY  expire.label                  "ពួកវា​ផុត​កំណត់">
 <!ENTITY  close.label                   "ខ្ញុំ​បិទ &brandShortName;">
-<!ENTITY  askEachTime.label             "សួរ​ខ្ញុំ​រាល់ពេល">
 
 <!ENTITY  cookieExceptions.label        "ករណី​លើកលែង…">
 <!ENTITY  cookieExceptions.accesskey    "រ">
