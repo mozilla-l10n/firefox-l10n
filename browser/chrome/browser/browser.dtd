@@ -189,7 +189,30 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Imprimir">
 <!ENTITY printButton.tooltip          "Imprimir esta página">
 
-<!ENTITY locationItem.title           "Ubicación">
+<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
+     used to provide accessible labels to users of assistive technology like screenreaders.
+     It is not possible to see them visually in the UI. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY searchItem.title             "Buscar">
 <!-- Toolbar items --> 
 
@@ -229,6 +252,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.commandkey            "A">
 <!ENTITY webapps.label                "Aplicaciones">
 <!ENTITY webapps.accesskey            "p">
+
+
 
 <!ENTITY webDeveloperMenu.label       "Desarrollador Web">
 <!ENTITY webDeveloperMenu.accesskey   "W">
@@ -288,8 +313,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Cerrar Barra de desarrollador">
 <!ENTITY devToolbarMenu.label              "Barra de desarrolladores">
 <!ENTITY devToolbarMenu.accesskey          "B">
-<!ENTITY devAppMgrMenu.label               "Administrador de aplicaciones">
-<!ENTITY devAppMgrMenu.accesskey           "A">
 <!ENTITY webide.label                      "WebIDE">
 <!ENTITY webide.accesskey                  "W">
 <!ENTITY webide.keycode                    "VK_F8">
@@ -308,6 +331,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Archivo"> 
 <!ENTITY fileMenu.accesskey       "A">
+
+
+
+
+
+
+
+
+
+
 <!ENTITY newNavigatorCmd.label        "Nueva ventana">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
