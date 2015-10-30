@@ -26,6 +26,7 @@
 <!ENTITY projectMenu_showPrefs_accesskey "e">
 <!ENTITY projectMenu_manageComponents_label "Správa extra komponent">
 <!ENTITY projectMenu_manageComponents_accesskey "S">
+<!ENTITY projectMenu_refreshTabs_label "Obnovit panely">
 
 <!ENTITY runtimeMenu_label "Běhové prostředí">
 <!ENTITY runtimeMenu_accesskey "B">
