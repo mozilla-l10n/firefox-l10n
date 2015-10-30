@@ -119,6 +119,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "ใส่วงเล็บปิดอัตโนมัติ">
 
 <!ENTITY prefs_options_keybindings_default "ปริยาย">
+
+
 <!-- Permissions Table -->
 
 <!-- Runtime Details -->

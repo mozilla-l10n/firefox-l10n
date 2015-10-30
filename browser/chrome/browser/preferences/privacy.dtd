@@ -47,7 +47,6 @@
 
 <!ENTITY  expire.label                  "มันหมดอายุ">
 <!ENTITY  close.label                   "ฉันปิด &brandShortName;">
-<!ENTITY  askEachTime.label             "ถามฉันทุกครั้ง">
 
 <!ENTITY  cookieExceptions.label        "ยกเว้น…">
 <!ENTITY  cookieExceptions.accesskey    "ย">

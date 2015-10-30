@@ -41,7 +41,6 @@
 
 <!ENTITY popup.label                     "เปิดหน้าต่างป๊อปอัป">
 
-<!ENTITY push.label                      "รับการแจ้งเตือนแบบทันที">
 <!ENTITY camera.label                    "ใช้กล้อง">
 <!ENTITY microphone.label                "ใช้ไมโครโฟน">
 

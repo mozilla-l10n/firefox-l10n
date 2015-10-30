@@ -6,6 +6,14 @@
 
 <!ENTITY  blockPopups.label           "ปิดกั้นหน้าต่างป็อปอัพ">
 <!ENTITY  blockPopups.accesskey       "ป">
+
+
+
+
+
+
+
+
 <!ENTITY  popupExceptions.label       "ข้อยกเว้น…">
 <!ENTITY  popupExceptions.accesskey   "ข">
 

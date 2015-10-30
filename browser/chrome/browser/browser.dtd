@@ -131,12 +131,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY fullscreenWarning.beforeDomain.label "">
-
-
+<!ENTITY fullscreenWarning.afterDomain.label "เต็มจออยู่">
+<!ENTITY fullscreenWarning.generic.label "เอกสารนี้เต็มจออยู่">
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
-
+<!ENTITY exitDOMFullscreen.button "ออกจากการแสดงผลเต็มจอ (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "ออกจากการแสดงผลเต็มจอ (Esc)">
 <!ENTITY leaveDOMFullScreen.label "ออกจากการแสดงผลเต็มจอ">
 <!ENTITY leaveDOMFullScreen.accesskey "ม">
 
@@ -188,7 +189,30 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "พิมพ์">
 <!ENTITY printButton.tooltip          "พิมพ์หน้านี้">
 
-<!ENTITY locationItem.title           "ที่ตั้ง">
+<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
+     used to provide accessible labels to users of assistive technology like screenreaders.
+     It is not possible to see them visually in the UI. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY searchItem.title             "ค้นหา">
 <!-- Toolbar items --> 
 
@@ -228,6 +252,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.commandkey            "a">
 <!ENTITY webapps.label                "แอป">
 <!ENTITY webapps.accesskey            "อ">
+
+
 
 <!ENTITY webDeveloperMenu.label       "นักพัฒนาเว็บ">
 <!ENTITY webDeveloperMenu.accesskey   "พ">
@@ -287,8 +313,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "ปิดแถบเครื่องมือนักพัฒนา">
 <!ENTITY devToolbarMenu.label              "แถบเครื่องมือนักพัฒนา">
 <!ENTITY devToolbarMenu.accesskey          "พ">
-<!ENTITY devAppMgrMenu.label               "ตัวจัดการแอป">
-<!ENTITY devAppMgrMenu.accesskey           "A">
 <!ENTITY webide.label                      "WebIDE">
 <!ENTITY webide.accesskey                  "W">
 <!ENTITY webide.keycode                    "VK_F8">
@@ -307,6 +331,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "แฟ้ม"> 
 <!ENTITY fileMenu.accesskey       "ฟ">
+
+
+
+
+
+
+
+
+
+
 <!ENTITY newNavigatorCmd.label        "หน้าต่างใหม่">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "ม">
