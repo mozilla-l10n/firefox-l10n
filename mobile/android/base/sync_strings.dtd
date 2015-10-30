@@ -224,13 +224,13 @@
 <!ENTITY fxaccount_status_linkprivacy "Жекелік саясаты">
 <!ENTITY fxaccount_status_more "Көбірек&ellipsis;">
 
+
 <!ENTITY fxaccount_remove_account_dialog_title "Firefox тіркелгісін өшіру керек пе?">
 <!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; тіркелгіңізбен синхрондауды тоқтатады, бірақ, бұл құрылғыда барлық шолу деректері қалады.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "&formatS; Firefox тіркелгісі өшірілді.">
 
-<!ENTITY fxaccount_remove_account_menu_item "Тіркелгіні өшіру">
 <!ENTITY fxaccount_enable_debug_mode "Жөндеу режимін іске қосу">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
