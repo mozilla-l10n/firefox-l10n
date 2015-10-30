@@ -6,7 +6,7 @@
 <!ENTITY header2.label "តើ​អ្នក​ចង់​បាន​អាសយដ្ឋាន​អ៊ីមែល​ថ្មី​ឬ?">
 <!ENTITY other.languages "យើង​បង្ហាញ​តែ​ក្រុមហ៊ុន​ផ្ដល់​ណា​ដែល​មាន​អាសយដ្ឋាន​នៅ​ក្នុង​តំបន់​របស់​អ្នក​ប៉ុណ្ណោះ។  ចុច​ទីនេះ​ដើម្បី​បង្ហាញ​ក្រុមហ៊ុន​ផ្ដល់​ទាំងអស់។">
 <!ENTITY error.line1 "សុំទោស! យើង​មិន​អាច​រក​ឃើញ​អាសយដ្ឋាន​អ៊ីមែល​ដែល​បាន​ស្នើ​ទេ។">
-<!ENTITY error.line2 "អ្នក​អាច​សាកល្បង​សម្មតិនាម ឬ​លក្ខខណ្ឌ​ផ្សេង​ដើម្បី​រក​​មើល​អ៊ីមែល​ច្រើន​ទៀត">
+
 <!-- LOCALIZATION NOTE(error.suggest.before, error.suggest.middle, error.suggest.after):
      error.suggest.before, error.suggest.middle, and error.suggest.after all go into
      one line with error.suggest.middle that links to a site which provides download
