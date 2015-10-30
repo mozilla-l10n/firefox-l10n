@@ -13,10 +13,11 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "No ye en Navegación Privada">
 
-<!ENTITY privatebrowsingpage.description.private4 "&brandShortName; privará que te faigan un seguimiento y no podrá remerar garra historial, pero os fichers descargaus y os nuevos marcapachinas contarán alzando-se en o tuyo dispositivo.">
+
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
+
 <!ENTITY privatebrowsingpage.description.normal2 "En a Navegación Privada, no mantenemos garra historial de navegación ni cookies. Os marcapachinas que anyadas y os fichers que descargues encara se pueden alzar en o tuyo dispositivo.">
 
 <!ENTITY privatebrowsingpage.link.private "Deseya saber-ne mas?">
