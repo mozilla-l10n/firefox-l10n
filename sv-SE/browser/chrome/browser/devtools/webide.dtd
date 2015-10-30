@@ -137,6 +137,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "Infoga avslutande hakparenteser automatiskt">
 <!ENTITY prefs_options_keybindings "Tangentbindningar">
 <!ENTITY prefs_options_keybindings_default "Standard">
+
+
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "Rättighetstabell">
