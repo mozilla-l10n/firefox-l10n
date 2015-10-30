@@ -22,7 +22,10 @@
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusFull): This string
   -  is displayed when the profiler's circular buffer has started to overlap. -->
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
-  -  in the call list view while loading a profile. -->
+  -  in the details view while the profiler is unavailable, for example, while
+  -  in Private Browsing mode. -->
+<!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
+  -  in the details view while loading a profile. -->
 
 <!ENTITY performanceUI.loadingNotice "Loading…">
 <!-- LOCALIZATION NOTE (performanceUI.recordButton): This string is displayed
