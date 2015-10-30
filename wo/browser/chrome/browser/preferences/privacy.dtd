@@ -41,7 +41,6 @@
 
 <!ENTITY  expire.label                  "seen jeexital">
 <!ENTITY  close.label                   "tëjum &brandShortName;">
-<!ENTITY  askEachTime.label             "nga laaj ma saa su ne">
 
 <!ENTITY  cookieExceptions.label        "Seppi yi…">
 <!ENTITY  cookieExceptions.accesskey    "S">
