@@ -137,6 +137,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "Inserează automat paranteze închise">
 <!ENTITY prefs_options_keybindings "Combinații de taste">
 <!ENTITY prefs_options_keybindings_default "Implicite">
+
+
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "Tabelă de permisiuni">

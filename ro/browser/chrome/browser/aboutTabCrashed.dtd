@@ -5,6 +5,11 @@
 <!ENTITY tabCrashed.header "Mai întâi veștile rele: Această filă s-a închis neașteptat">
 <!ENTITY tabCrashed.message "Acum pentru veștile bune: Puteți închide doar această filă, să o restaurați sau să restaurați toate filele care s-au închis neașteptat.">
 <!ENTITY tabCrashed.sendReport "Trimiteți un raport de defecțiuni pentru a ajuta la prevenirea mai multor vești proaste">
+
+
+
+
+
 <!ENTITY tabCrashed.reportSent "Raportul de defecțiuni a fost deja transmis; vă mulțumim pentru ajutorul de a face &brandShortName; mai bun!">
 <!ENTITY tabCrashed.closeTab "Închide această filă">
 <!ENTITY tabCrashed.restoreTab "Restaurează această filă">

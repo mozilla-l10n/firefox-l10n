@@ -47,7 +47,6 @@
 
 <!ENTITY  expire.label                  "expiră">
 <!ENTITY  close.label                   "închid &brandShortName;">
-<!ENTITY  askEachTime.label             "întreabă de fiecare dată">
 
 <!ENTITY  cookieExceptions.label        "Excepții…">
 <!ENTITY  cookieExceptions.accesskey    "E">
