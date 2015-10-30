@@ -6,6 +6,14 @@
 
 <!ENTITY  blockPopups.label           "Блокиране на изскачащи прозорци">
 <!ENTITY  blockPopups.accesskey       "Б">
+
+
+
+
+
+
+
+
 <!ENTITY  popupExceptions.label       "Изключения…">
 <!ENTITY  popupExceptions.accesskey   "И">
 
