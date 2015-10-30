@@ -47,7 +47,6 @@
 
 <!ENTITY  expire.label                  "ավարտման ժամկերը">
 <!ENTITY  close.label                   "&brandShortName;-ը փակելը">
-<!ENTITY  askEachTime.label             "հարցնել ամեն անգամ">
 
 <!ENTITY  cookieExceptions.label        "Բացառություններ…">
 <!ENTITY  cookieExceptions.accesskey    "Բ">
