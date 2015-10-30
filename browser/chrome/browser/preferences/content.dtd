@@ -6,6 +6,14 @@
 
 <!ENTITY  blockPopups.label           "امنع النوافذ المنبثقة">
 <!ENTITY  blockPopups.accesskey       "ذ">
+
+
+
+
+
+
+
+
 <!ENTITY  popupExceptions.label       "الاستثناءات…">
 <!ENTITY  popupExceptions.accesskey   "ت">
 

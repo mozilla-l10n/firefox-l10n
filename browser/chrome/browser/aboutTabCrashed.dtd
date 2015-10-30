@@ -5,6 +5,11 @@
 <!ENTITY tabCrashed.header "الأخبار السيئة أولا: تحطم هذا اللسان">
 <!ENTITY tabCrashed.message "الآن للأخبار الجيدة: يمكنك إغلاق هذا اللسان، أو استعادته، أو استعادة جميع الألسنة التي تحطمت.">
 <!ENTITY tabCrashed.sendReport "أرسِل تقرير تحطم للمساعدة في منع المزيد من الأخبار السيئة">
+
+
+
+
+
 <!ENTITY tabCrashed.reportSent "أُرسلَ تقرير التحطم بالفعل؛ شكرا لمساعدتك في جعل &brandShortName; أفضل.">
 <!ENTITY tabCrashed.closeTab "أغلق هذا اللسان">
 <!ENTITY tabCrashed.restoreTab "استعِد هذا اللسان">
