@@ -6,6 +6,14 @@
 
 <!ENTITY  blockPopups.label           "Blockera popup-fönster">
 <!ENTITY  blockPopups.accesskey       "B">
+
+
+
+
+
+
+
+
 <!ENTITY  popupExceptions.label       "Undantag…">
 <!ENTITY  popupExceptions.accesskey   "U">
 
