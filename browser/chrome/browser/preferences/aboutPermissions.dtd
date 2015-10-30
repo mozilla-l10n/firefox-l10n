@@ -41,7 +41,6 @@
 
 <!ENTITY popup.label                     "Abrir janelas pop-up">
 
-<!ENTITY push.label                      "Receber notificações por push">
 <!ENTITY camera.label                    "Utilizar câmara">
 <!ENTITY microphone.label                "Utilizar microfone">
 

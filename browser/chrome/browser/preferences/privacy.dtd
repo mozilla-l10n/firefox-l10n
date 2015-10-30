@@ -47,7 +47,6 @@
 
 <!ENTITY  expire.label                  "expirarem">
 <!ENTITY  close.label                   "o &brandShortName; ser fechado">
-<!ENTITY  askEachTime.label             "perguntar sempre">
 
 <!ENTITY  cookieExceptions.label        "Exceções…">
 <!ENTITY  cookieExceptions.accesskey    "E">
