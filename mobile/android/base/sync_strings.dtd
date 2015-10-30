@@ -196,6 +196,7 @@
 
 <!ENTITY fxaccount_status_header2 'Firefox 계정'>
 <!ENTITY fxaccount_status_signed_in_as '로그인 됨'>
+<!ENTITY fxaccount_status_manage_account '계정 관리'>
 <!ENTITY fxaccount_status_auth_server '계정 서버'>
 <!ENTITY fxaccount_status_sync_now '지금 동기화'>
 <!ENTITY fxaccount_status_syncing2 '동기화 중…'>
@@ -221,14 +222,14 @@
 <!ENTITY fxaccount_status_linktos '서비스 약관'>
 <!ENTITY fxaccount_status_linkprivacy '개인 정보 보호 정책'>
 <!ENTITY fxaccount_status_more '자세히&ellipsis;'>
+<!ENTITY fxaccount_remove_account '연결 끊기&ellipsis;'>
 
-<!ENTITY fxaccount_remove_account_dialog_title 'Firefox 계정을 삭제하겠습니까?'>
+<!ENTITY fxaccount_remove_account_dialog_title 'Firefox 계정을 제거하겠습니까?'>
 <!ENTITY fxaccount_remove_account_dialog_message '&brandShortName;는 계정과의 동기화를 중단합니다. 하지만 이 기기에 있는 브라우징 데이터를 삭제하지는 않습니다.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_remove_account_toast 'Firefox 계정 &formatS; 삭제됨.'>
+<!ENTITY fxaccount_remove_account_toast 'Firefox 계정 &formatS; 제거됨.'>
 
-<!ENTITY fxaccount_remove_account_menu_item '계정 삭제'>
 <!ENTITY fxaccount_enable_debug_mode '디버그 모드 활성화'>
 
 
