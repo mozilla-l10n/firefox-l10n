@@ -224,13 +224,12 @@
 <!ENTITY fxaccount_status_linkprivacy "గోప్యతా గమనిక">
 <!ENTITY fxaccount_status_more "మరిన్ని&ellipsis;">
 
+
 <!ENTITY fxaccount_remove_account_dialog_title "ఫైర్‌ఫాక్స్ ఖాతాను తొలగించాలా?">
 <!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; మీ ఖాతాతో సింక్ అవ్వడాన్ని ఆపుతుంది, కానీ ఈ పరికరంపైని మీ విహారణ డేటాను తొలగించదు.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "ఫైర్‌ఫాక్స్ ఖాతా &formatS; తొలగించబడింది.">
-
-<!ENTITY fxaccount_remove_account_menu_item "ఖాతాని తొలగించు">
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
