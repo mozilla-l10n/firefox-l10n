@@ -39,7 +39,6 @@
 
 
 <!ENTITY  close.label                   "நான் &brandShortName; இனை மூடுகிறேன்">
-<!ENTITY  askEachTime.label             "ஒவ்வொரு முறையும் என்னை கேட்க">
 
 <!ENTITY  cookieExceptions.label        "விதிவிலக்குகள்">
 <!ENTITY  cookieExceptions.accesskey    "E">

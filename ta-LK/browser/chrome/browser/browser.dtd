@@ -179,7 +179,30 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "அச்சிடுக">
 <!ENTITY printButton.tooltip          "இந்தப் பக்கத்தை அச்சிடுக">
 
-<!ENTITY locationItem.title           "இடம்">
+<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
+     used to provide accessible labels to users of assistive technology like screenreaders.
+     It is not possible to see them visually in the UI. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY searchItem.title             "தேடு">
 <!-- Toolbar items -->
 
@@ -213,6 +236,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "செருகல்கள்">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
+
+
 
 
 
@@ -271,8 +296,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
-
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
 <!ENTITY devToolboxMenuItem.label          "கருவிகளை நிலைமாற்றுக">
@@ -287,6 +310,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "கோப்பு"> 
 <!ENTITY fileMenu.accesskey       "F">
+
+
+
+
+
+
+
+
+
+
 <!ENTITY newNavigatorCmd.label        "புதிய சாளரம்">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
