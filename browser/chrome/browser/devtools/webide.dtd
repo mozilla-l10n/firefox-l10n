@@ -137,6 +137,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "Insereix automàticament els parèntesis, claudàtors i claus de tancament">
 <!ENTITY prefs_options_keybindings "Assignacions de tecles">
 <!ENTITY prefs_options_keybindings_default "Per defecte">
+
+
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "Taula de permisos">
