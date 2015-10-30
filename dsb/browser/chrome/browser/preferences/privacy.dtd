@@ -47,7 +47,6 @@
 
 <!ENTITY  expire.label                  "až njepśepadnu">
 <!ENTITY  close.label                   "až &brandShortName; se njezacynijo">
-<!ENTITY  askEachTime.label             "kuždy raz se pšašaś">
 
 <!ENTITY  cookieExceptions.label        "Wuwześa…">
 <!ENTITY  cookieExceptions.accesskey    "W">

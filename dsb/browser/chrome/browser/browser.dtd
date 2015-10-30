@@ -189,7 +189,30 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Śišćaś">
 <!ENTITY printButton.tooltip          "Toś ten bok śišćaś">
 
-<!ENTITY locationItem.title           "Městno">
+<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
+     used to provide accessible labels to users of assistive technology like screenreaders.
+     It is not possible to see them visually in the UI. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY searchItem.title             "Pytaś">
 <!-- Toolbar items --> 
 
@@ -229,6 +252,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.commandkey            "A">
 <!ENTITY webapps.label                "Nałoženja">
 <!ENTITY webapps.accesskey            "N">
+
+
 
 <!ENTITY webDeveloperMenu.label       "Webwuwijaŕ">
 <!ENTITY webDeveloperMenu.accesskey   "W">
@@ -288,8 +313,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Wuwijarsku symbolowu rědku zacyniś">
 <!ENTITY devToolbarMenu.label              "Wuwijarska symbolowa rědka">
 <!ENTITY devToolbarMenu.accesskey          "w">
-<!ENTITY devAppMgrMenu.label               "Zastojnik nałoženjow">
-<!ENTITY devAppMgrMenu.accesskey           "n">
 <!ENTITY webide.label                      "WebIDE">
 <!ENTITY webide.accesskey                  "W">
 <!ENTITY webide.keycode                    "VK_F8">
@@ -308,6 +331,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Dataja"> 
 <!ENTITY fileMenu.accesskey       "D">
+
+
+
+
+
+
+
+
+
+
 <!ENTITY newNavigatorCmd.label        "Nowe wokno">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
