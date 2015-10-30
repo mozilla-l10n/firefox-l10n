@@ -19,6 +19,7 @@
 <!ENTITY smtpListSetDefault.label "Vælg som standard">
 <!ENTITY smtpListSetDefault.accesskey "V">
 
+<!ENTITY serverDetails.label "Detaljer for den valgte server:">
 <!ENTITY serverDescription.label "Beskrivelse:">
 <!ENTITY serverName.label "Servernavn:">
 <!ENTITY serverPort.label "Port:">
