@@ -175,4 +175,11 @@ functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "ssl_error_unsupported_version". -->
 <!ENTITY sslv3Used.longDesc "Speciális információ: ssl_error_unsupported_version">
-<!ENTITY sslv3Used.learnMore "További tudnivalók…">
+
+
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
+     "ssl_error_no_cypher_overlap". -->
+
+
+
+

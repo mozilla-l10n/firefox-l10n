@@ -6,6 +6,14 @@
 
 <!ENTITY  blockPopups.label           "Felugró ablakok tiltása">
 <!ENTITY  blockPopups.accesskey       "F">
+
+
+
+
+
+
+
+
 <!ENTITY  popupExceptions.label       "Kivételek…">
 <!ENTITY  popupExceptions.accesskey   "K">
 
