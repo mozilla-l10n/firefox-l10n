@@ -2,8 +2,20 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  pref.editing.title        "Подешавања нове странице">
 
+<!ENTITY  authorName.label          "Аутор:">
 
+<!ENTITY defaultColors.label        "Подразумеване боје читача (не подешавај боје унутар странице)">
+<!ENTITY customColors.label         "Користи друге боје:">
 
+<!ENTITY normalText.label           "Обичан текст">
+<!ENTITY linkText.label             "Текст везе">
+<!ENTITY activeLinkText.label       "Текст активне везе">
+<!ENTITY visitedLinkText.label      "Текст посећене везе">
+<!ENTITY background.label           "Позадина:">
+<!ENTITY colon.character            ":">
 
+<!ENTITY backgroundImage.label      "Позадинска слика:">
+<!ENTITY chooseFile.label           "Изаберите датотеку…">
 
