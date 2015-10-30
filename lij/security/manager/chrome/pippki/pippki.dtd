@@ -39,7 +39,7 @@
 <!ENTITY certPicker.detailsLabel "Detalli in sciô certificato Seleçionou:">
 
 <!ENTITY pkcs12.setpassword.title  "Çerni 'na paròlla segreta pe-a còpia de seguessa di certificati">
-<!ENTITY pkcs12.setpassword.message  "A paròlla segreta pe-a còpia de seguessa di certificati serve a protezze e còpie de seguessa che ti crei.  Ti devi inserî sta paròlla segreta pe continoa.">
+<!ENTITY pkcs12.setpassword.message  "A paròlla segreta pe-a còpia de seguessa di certificati serve a protezze e còpie de seguessa che ti crei.  Ti devi inserî sta paròlla segreta pe continoâ.">
 <!ENTITY pkcs12.setpassword.label1 "Paròlla segreta pe-a còpia de seguessa:">
 <!ENTITY pkcs12.setpassword.label2 "Paròlla segreta pe-a còpia de seguessa (torna):">
 <!ENTITY pkcs12.setpassword.reminder "Inportante: Se ti t'ascòrdi a paròlla segreta di certificati, no ti saiê ciù in graddo de repigiâ sta còpia de seguessa. Pe piaxei sarvila inte 'n leugo seguo.">
