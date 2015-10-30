@@ -6,6 +6,14 @@
 
 <!ENTITY  blockPopups.label           "పాప్-అప్ విండోలను బ్లాకు చేయి">
 <!ENTITY  blockPopups.accesskey       "B">
+
+
+
+
+
+
+
+
 <!ENTITY  popupExceptions.label       "మినహాయింపులు…">
 <!ENTITY  popupExceptions.accesskey   "E">
 

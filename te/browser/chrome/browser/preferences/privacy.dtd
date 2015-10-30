@@ -42,7 +42,6 @@
 
 <!ENTITY  expire.label                  "వాటికి కాలముతీరినది">
 <!ENTITY  close.label                   "నేను  &brandShortName; మూసితిని">
-<!ENTITY  askEachTime.label             "ప్రతిసారి నన్నడుగు">
 
 <!ENTITY  cookieExceptions.label        "ఎక్సెప్షన్లు...">
 <!ENTITY  cookieExceptions.accesskey    "E">
