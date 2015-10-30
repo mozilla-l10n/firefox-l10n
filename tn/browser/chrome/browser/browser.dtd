@@ -188,7 +188,30 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Gatisa">
 <!ENTITY printButton.tooltip          "Gatisa tsebe eno">
 
-<!ENTITY locationItem.title           "Lefelo">
+<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
+     used to provide accessible labels to users of assistive technology like screenreaders.
+     It is not possible to see them visually in the UI. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY searchItem.title             "Batla">
 <!-- Toolbar items --> 
 
@@ -228,6 +251,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.commandkey            "A">
 <!ENTITY webapps.label                "Ditiriso">
 <!ENTITY webapps.accesskey            "p">
+
+
 
 <!ENTITY webDeveloperMenu.label       "Mmopi wa Webo">
 <!ENTITY webDeveloperMenu.accesskey   "M">
@@ -287,8 +312,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Tswala Bara ya didiriswa ya Mmopi">
 <!ENTITY devToolbarMenu.label              "Bara ya Didirisiwa ya Mmopi">
 <!ENTITY devToolbarMenu.accesskey          "v">
-<!ENTITY devAppMgrMenu.label               "Molaola Tiriso">
-<!ENTITY devAppMgrMenu.accesskey           "A">
 <!ENTITY webide.label                      "Webo ya IDE">
 <!ENTITY webide.accesskey                  "W">
 <!ENTITY webide.keycode                    "VK_F8">
@@ -307,6 +330,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Faele"> 
 <!ENTITY fileMenu.accesskey       "F">
+
+
+
+
+
+
+
+
+
+
 <!ENTITY newNavigatorCmd.label        "Window e Ntšha">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "W">
