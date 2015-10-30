@@ -137,6 +137,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "बंद जावपी कंस आपसूंक घालात">
 <!ENTITY prefs_options_keybindings "किबायंडिंग्ज">
 <!ENTITY prefs_options_keybindings_default "डिफॉल्ट">
+
+
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "परवानग्यो तक्टो">

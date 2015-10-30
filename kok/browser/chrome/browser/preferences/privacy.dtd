@@ -45,7 +45,6 @@
 
 <!ENTITY  expire.label                  "ते सोपता">
 <!ENTITY  close.label                   "&brandShortName;हाव बंद करता">
-<!ENTITY  askEachTime.label             "दर खेपेक म्हाका विचारात">
 
 <!ENTITY  cookieExceptions.label        "अपवाद...">
 <!ENTITY  cookieExceptions.accesskey    "E">

@@ -5,6 +5,11 @@
 <!ENTITY tabCrashed.header "पयली वायट खबर: हे टॅब बंद पडलां">
 <!ENTITY tabCrashed.message "आता बरी खबर: तुमच्यान हे टॅब फकत बंद करू येता, ते परत सारके करू येता वो तुमची सगळी बंद पडिल्ली टॅब्स परत सारकीं करू येतात.">
 <!ENTITY tabCrashed.sendReport "अदिक वायट खबरी येवच्यो न्ही म्हण क्रॅश अहवाल सादर करात.">
+
+
+
+
+
 <!ENTITY tabCrashed.reportSent "क्रॅश अहवाल पयलीच सादर केला;  &brandShortName; बरे करपाखातीर तुमी मदत केली म्हण देव बरे करू!">
 <!ENTITY tabCrashed.closeTab "हे टॅब बंद करात">
 <!ENTITY tabCrashed.restoreTab "हे टॅब सारके करात">
