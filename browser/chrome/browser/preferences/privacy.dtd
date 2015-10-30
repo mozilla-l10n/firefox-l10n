@@ -40,7 +40,6 @@
 
 <!ENTITY  expire.label                  "тэдний хугацаа нь дуустал">
 <!ENTITY  close.label                   "намайг &brandShortName;-г хаатал">
-<!ENTITY  askEachTime.label             "тухай бүрд надаас асуу">
 
 <!ENTITY  cookieExceptions.label        "Зөвшөөрөгдсөн хуудас…">
 <!ENTITY  cookieExceptions.accesskey    "ш">
