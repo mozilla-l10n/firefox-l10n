@@ -224,13 +224,13 @@
 <!ENTITY fxaccount_status_linkprivacy "Գաղտնիության Դրույթները">
 <!ENTITY fxaccount_status_more "Ավելին&ellipsis;">
 
+
 <!ENTITY fxaccount_remove_account_dialog_title "Ջնջե՞լ Firefox-ի հաշիվը:">
 <!ENTITY fxaccount_remove_account_dialog_message "&brandShortName;-ը այլևս համաժամեցում չի կատարի, որևէ տվյալ չի ջնջի:">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "&formatS; Firefox-ի հաշիվը ջնջվել է:">
 
-<!ENTITY fxaccount_remove_account_menu_item "Ջնջել հաշիվը">
 <!ENTITY fxaccount_enable_debug_mode "Միացնել Վրիպազերծումը">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
