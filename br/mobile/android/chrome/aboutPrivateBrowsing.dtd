@@ -13,10 +13,11 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "N'hoc'h ket er merdeiñ prevez">
 
-<!ENTITY privatebrowsingpage.description.private4 "Gwarezet e viot a-enep an heuliañ gant &brandShortName; ha ne vo dalc'het soñj eus roll istor ebet, met enrollet e vo ar restroù pellgarget hag ar sinedoù war ho trevnad.">
+
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
+
 <!ENTITY privatebrowsingpage.description.normal2 "Gant ar merdeiñ prevez, ne vo dalc'het roll istor na toupin ebet. Ar sinedoù ouzhpennet ganeoc'h hag ar restroù pellgarget a vo c'hoazh enrollet war ho trevnad. ">
 
 <!ENTITY privatebrowsingpage.link.private "Ha c'hoant hoc'h eus da c'houzout hiroc'h ?">
