@@ -6,6 +6,14 @@
 
 <!ENTITY  blockPopups.label           "पापअप विंडो केँ रोकू">
 <!ENTITY  blockPopups.accesskey       "B">
+
+
+
+
+
+
+
+
 <!ENTITY  popupExceptions.label       "अपवाद...">
 <!ENTITY  popupExceptions.accesskey   "E">
 
