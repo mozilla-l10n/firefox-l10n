@@ -189,7 +189,30 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Spausdinti">
 <!ENTITY printButton.tooltip          "Spausdinti šį tinklalapį">
 
-<!ENTITY locationItem.title           "Adresas">
+<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
+     used to provide accessible labels to users of assistive technology like screenreaders.
+     It is not possible to see them visually in the UI. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY searchItem.title             "Paieška">
 <!-- Toolbar items --> 
 
@@ -229,6 +252,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.commandkey            "A">
 <!ENTITY webapps.label                "Programos">
 <!ENTITY webapps.accesskey            "P">
+
+
 
 <!ENTITY webDeveloperMenu.label       "Saityno kūrėjams">
 <!ENTITY webDeveloperMenu.accesskey   "k">
@@ -288,8 +313,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Užverti programuotojų juostą">
 <!ENTITY devToolbarMenu.label              "Programuotojų juosta">
 <!ENTITY devToolbarMenu.accesskey          "o">
-<!ENTITY devAppMgrMenu.label               "Programų tvarkytuvė">
-<!ENTITY devAppMgrMenu.accesskey           "a">
 <!ENTITY webide.label                      "WebIDE">
 <!ENTITY webide.accesskey                  "W">
 <!ENTITY webide.keycode                    "VK_F8">
@@ -308,6 +331,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Failas"> 
 <!ENTITY fileMenu.accesskey       "F">
+
+
+
+
+
+
+
+
+
+
 <!ENTITY newNavigatorCmd.label        "Naujas langas">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "l">
@@ -475,7 +508,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label       "Atverti saitą naujoje kortelėje">
-<!ENTITY openLinkCmdInTab.accesskey   "t">
+<!ENTITY openLinkCmdInTab.accesskey   "k">
 <!ENTITY openLinkCmd.label            "Atverti saitą naujame lange">
 <!ENTITY openLinkCmd.accesskey        "l">
 <!ENTITY openLinkInPrivateWindowCmd.label "Atverti saitą naujame privačiojo naršymo lange">

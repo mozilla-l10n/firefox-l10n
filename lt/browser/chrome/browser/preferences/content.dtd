@@ -6,6 +6,14 @@
 
 <!ENTITY  blockPopups.label           "Neleisti iškylančiųjų langų">
 <!ENTITY  blockPopups.accesskey       "N">
+
+
+
+
+
+
+
+
 <!ENTITY  popupExceptions.label       "Išimtys">
 <!ENTITY  popupExceptions.accesskey   "I">
 

@@ -14,7 +14,7 @@
 <!ENTITY searchPrefs.label "Ieškoti:">
 <!ENTITY searchPrefs.accesskey "e">
 <!ENTITY focusSearch.key "r">
-
+<!ENTITY focusSearch2.key "f">
 <!-- Columns -->
 
 <!ENTITY prefColumn.label "Parametro vardas">
