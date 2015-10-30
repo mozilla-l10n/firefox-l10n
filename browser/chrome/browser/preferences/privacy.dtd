@@ -42,7 +42,6 @@
 
 <!ENTITY  expire.label                  "हुनकर मियाद पूर्ण होइछ">
 <!ENTITY  close.label                   "हम &brandShortName; बन्न करैत छी">
-<!ENTITY  askEachTime.label             "हमरा सभ बेर पूछू">
 
 <!ENTITY  cookieExceptions.label        "अपवाद...">
 <!ENTITY  cookieExceptions.accesskey    "E">

@@ -5,6 +5,11 @@
 <!ENTITY tabCrashed.header "अदलाह खबर पहिने: ई टैब क्रैश कए गेल अछि">
 <!ENTITY tabCrashed.message "आब नीक गप्प अथवा खबर : अहाँ सिर्फ एहि टैब केँ बन्न करू, रिस्टोर करू अथवा अपन सभ क्रैश कएल टैब फिनु सँ बहाल कए सकैत छी.">
 <!ENTITY tabCrashed.sendReport "आओर बेसी अदलाह खबर सँ बचाबै मे मदति खातिर एकटा क्रैश रिपोट दर्ज करू ">
+
+
+
+
+
 <!ENTITY tabCrashed.reportSent "क्रैश रिपोट पहिने सौंप देल गेल; &amp;brandShortName केँ बेहतर बनाबै मे मदति खातिर अहाँक धन्यवाद!">
 <!ENTITY tabCrashed.closeTab "ई टैब के बन्न करू ">
 <!ENTITY tabCrashed.restoreTab "ई टैब के फिनु सँ बहाल करू">
