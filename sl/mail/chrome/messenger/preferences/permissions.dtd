@@ -21,6 +21,4 @@
 <!ENTITY allow.accesskey              "D">
 <!ENTITY windowClose.key              "w">
 
-<!ENTITY button.close.label           "Zapri">
-<!ENTITY button.close.accesskey       "Z">
 
