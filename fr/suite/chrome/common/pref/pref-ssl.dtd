@@ -10,8 +10,6 @@
 <!ENTITY pref.ssltls.title                  "Protocole SSL/TLS">
 <!ENTITY limit.description                  "Vous pouvez restreindre les protocoles de chiffrement à utiliser pour les connexions sécurisées. Choisissez une version unique ou une plage contiguë de versions.">
 <!ENTITY limit.enable.label                 "Autoriser :">
-<!ENTITY limit.ssl30.label                  "SSL 3.0">
-<!ENTITY limit.ssl30.accesskey              "3">
 <!ENTITY limit.tls10.label                  "TLS 1.0">
 <!ENTITY limit.tls10.accesskey              "T">
 <!ENTITY limit.tls11.label                  "TLS 1.1">
