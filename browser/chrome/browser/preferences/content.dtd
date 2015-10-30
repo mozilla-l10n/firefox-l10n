@@ -6,6 +6,14 @@
 
 <!ENTITY  blockPopups.label           "Blokiraj skočne prozore">
 <!ENTITY  blockPopups.accesskey       "s">
+
+
+
+
+
+
+
+
 <!ENTITY  popupExceptions.label       "Iznimke...">
 <!ENTITY  popupExceptions.accesskey   "e">
 

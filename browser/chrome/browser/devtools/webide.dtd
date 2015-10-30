@@ -137,6 +137,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "Automatski dodaj zatvarajuće zagrade">
 <!ENTITY prefs_options_keybindings "Kratice">
 <!ENTITY prefs_options_keybindings_default "Zadano">
+
+
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "Tablica dopuštenja">
