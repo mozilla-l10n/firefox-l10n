@@ -224,13 +224,12 @@
 <!ENTITY fxaccount_status_linkprivacy "தனியுரிமை அறிவிப்புகள்">
 <!ENTITY fxaccount_status_more "மேலும்&ellipsis;">
 
+
 <!ENTITY fxaccount_remove_account_dialog_title "பயர்பாக்ஸ் கணக்கை நீக்கவா?">
 <!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; உங்கள் கணக்குடன் ஒத்திசைவு செய்யாது, அதேச்சமயம் உங்கள் சாதனத்திலுள்ள உலாவல் தரவையும் அழிக்காது.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "பயர்பாக்ஸ் கணக்கு &formatS; நீக்கப்பட்டது.">
-
-<!ENTITY fxaccount_remove_account_menu_item "கணக்கை நீக்கு">
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
