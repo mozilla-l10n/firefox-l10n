@@ -43,7 +43,6 @@
 
 <!ENTITY  expire.label                  "જ્યાં સુધી સમયસમાપ્ત નહિં થાય">
 <!ENTITY  close.label                   "હું &brandShortName; બંધ કરું છું">
-<!ENTITY  askEachTime.label             "મને દર વખતે પૂછો">
 
 <!ENTITY  cookieExceptions.label        "અપવાદો...">
 <!ENTITY  cookieExceptions.accesskey    "E">
