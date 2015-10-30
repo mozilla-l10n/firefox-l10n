@@ -42,7 +42,6 @@
 
 <!ENTITY  expire.label                  "di felelwa ke nako">
 <!ENTITY  close.label                   "Ke tswalela &brandShortName;">
-<!ENTITY  askEachTime.label             "mpotšiše nako le nako">
 
 <!ENTITY  cookieExceptions.label        "Tše sa akaretšwego…">
 <!ENTITY  cookieExceptions.accesskey    "T">
