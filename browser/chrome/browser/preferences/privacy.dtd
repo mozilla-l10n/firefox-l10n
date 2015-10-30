@@ -47,7 +47,6 @@
 
 <!ENTITY  expire.label                  "doniž njespadnu">
 <!ENTITY  close.label                   "doniž so &brandShortName; njezačini">
-<!ENTITY  askEachTime.label             "kóždy raz so prašeć">
 
 <!ENTITY  cookieExceptions.label        "Wuwzaća…">
 <!ENTITY  cookieExceptions.accesskey    "W">

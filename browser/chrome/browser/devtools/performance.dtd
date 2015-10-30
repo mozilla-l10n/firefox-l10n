@@ -34,7 +34,10 @@
 
 <!ENTITY performanceUI.bufferStatusFull "Pufrowak je połny. Starše wottasanja so nětko přepisuja.">
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
-  -  in the call list view while loading a profile. -->
+  -  in the details view while the profiler is unavailable, for example, while
+  -  in Private Browsing mode. -->
+<!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
+  -  in the details view while loading a profile. -->
 
 <!ENTITY performanceUI.loadingNotice "Začituje so…">
 <!-- LOCALIZATION NOTE (performanceUI.recordButton): This string is displayed

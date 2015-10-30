@@ -137,6 +137,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "Začinjace róžkate spinki awtomatisce zasadźić">
 <!ENTITY prefs_options_keybindings "Tastowe wjazanja">
 <!ENTITY prefs_options_keybindings_default "Standard">
+
+
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "Tabela prawow">
