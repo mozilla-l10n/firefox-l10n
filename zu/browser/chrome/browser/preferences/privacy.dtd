@@ -42,7 +42,6 @@
 
 <!ENTITY  expire.label                  "ziphelelwa yisikhathi">
 <!ENTITY  close.label                   "Ngivala i-&brandShortName;">
-<!ENTITY  askEachTime.label             "ngibuze njalo">
 
 <!ENTITY  cookieExceptions.label        "Okuhlukile…">
 <!ENTITY  cookieExceptions.accesskey    "O">

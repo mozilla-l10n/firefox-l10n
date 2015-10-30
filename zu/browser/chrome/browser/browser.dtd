@@ -181,7 +181,30 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Printa">
 <!ENTITY printButton.tooltip          "Printa leli khasi">
 
-<!ENTITY locationItem.title           "Indawo">
+<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
+     used to provide accessible labels to users of assistive technology like screenreaders.
+     It is not possible to see them visually in the UI. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY searchItem.title             "Sesha">
 <!-- Toolbar items -->
 
@@ -216,6 +239,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.label                 "Nokungezwayo">
 <!ENTITY addons.accesskey             "N">
 <!ENTITY addons.commandkey            "A">
+
+
 
 
 
@@ -274,8 +299,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
-
 <!ENTITY webide.keytext                    "F8">
 <!ENTITY devToolbar.keycode                "VK_F2">
 <!ENTITY devToolbar.keytext                "F2">
@@ -291,6 +314,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Ifayela"> 
 <!ENTITY fileMenu.accesskey       "I">
+
+
+
+
+
+
+
+
+
+
 <!ENTITY newNavigatorCmd.label        "Ifasitela elisha">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "I">
