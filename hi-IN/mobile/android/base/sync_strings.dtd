@@ -224,13 +224,13 @@
 <!ENTITY fxaccount_status_linkprivacy "गोपनीयता नीति">
 <!ENTITY fxaccount_status_more "अधिक&ellipsis;">
 
+
 <!ENTITY fxaccount_remove_account_dialog_title "Firefox Account मिटाएँ?">
 <!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; आपके खाते के साथ सिंक करना बंद करेगा, लेकिन इस साधन पर स्थित आपका कोई भी ब्राउजिंग डाटा नहीं मिटाएगा.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "Firefox Account &formatS; मिटाया.">
 
-<!ENTITY fxaccount_remove_account_menu_item "खाता मिटाएँ">
 <!ENTITY fxaccount_enable_debug_mode "दोषसुधार स्थिति सक्रिय करें">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
