@@ -2,27 +2,31 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY offlineDialog.title "Oflayn sozlamalari">
 
+<!ENTITY checkAutoDetect.label "Onlayn holatda xabarlar aniqlanishi avtomatik kuzatilsin">
+<!ENTITY checkAutoDetect.accesskey "a">
+<!ENTITY titleStartUp "Ishga tushganda qo‘lbola holati:">
+<!ENTITY radioRememberPrevState.label "Oldingi onlayn holatini eslab qolish">
+<!ENTITY radioRememberPrevState.accesskey "e">
+<!ENTITY radioAskState.label "Onlayn holati haqida mendan so‘ralsin">
+<!ENTITY radioAskState.accesskey "s">
+<!ENTITY radioAlwaysOnlineState.label "Onlayn">
+<!ENTITY radioAlwaysOnlineState.accesskey "l">
+<!ENTITY radioAlwaysOffline.label "Oflayn">
+<!ENTITY radioAlwaysOffline.accesskey "f">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY textGoingOnline "Onlayn bo‘lganda jo‘natilmagan xabarlar jo‘natilsinmi?">
+<!ENTITY radioAutoSend.label "Ha">
+<!ENTITY radioAutoSend.accesskey "H">
+<!ENTITY radioNotSend.label "Yo‘q">
+<!ENTITY radioNotSend.accesskey "Y">
+<!ENTITY radioAskUnsent.label "Mendan so‘ralsin">
+<!ENTITY radioAskUnsent.accesskey "s">
+<!ENTITY textGoingOffline "Oflayn bo‘lganda foydalanish uchun xabarlar yuklab olinsinmi?">
+<!ENTITY radioAutoDownload.label "Ha">
+<!ENTITY radioAutoDownload.accesskey "H">
+<!ENTITY radioNotDownload.label "Yo‘q">
+<!ENTITY radioNotDownload.accesskey "Y">
+<!ENTITY radioAskDownload.label "Mendan so‘ralsin">
+<!ENTITY radioAskDownload.accesskey "s">
