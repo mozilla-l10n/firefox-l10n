@@ -6,6 +6,14 @@
 
 <!ENTITY  blockPopups.label           "Chặn các cửa sổ pop-up (B)">
 <!ENTITY  blockPopups.accesskey       "B">
+
+
+
+
+
+
+
+
 <!ENTITY  popupExceptions.label       "Ngoại lệ…">
 <!ENTITY  popupExceptions.accesskey   "N">
 

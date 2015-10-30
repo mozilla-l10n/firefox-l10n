@@ -5,6 +5,11 @@
 <!ENTITY tabCrashed.header "Đầu tiên là tin xấu: Thẻ này bị đổ vỡ">
 <!ENTITY tabCrashed.message "Bây giờ là tin tốt: Bạn có thể đóng thẻ này, khôi phục lại nó hoặc khôi phục lại tất cả các thẻ bị đổ vỡ.">
 <!ENTITY tabCrashed.sendReport "Thông cáo sự đổ vỡ để bạn không phải nhận các tin xấu khác">
+
+
+
+
+
 <!ENTITY tabCrashed.reportSent "Thông báo về sự cố của bạn đã được gửi đi; cám ơn bạn đã giúp &brandShortName; trở lên tốt hơn!">
 <!ENTITY tabCrashed.closeTab "Đóng thẻ này">
 <!ENTITY tabCrashed.restoreTab "Khôi phục lại thẻ này">
