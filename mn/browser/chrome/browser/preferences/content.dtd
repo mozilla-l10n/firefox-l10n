@@ -4,6 +4,14 @@
 
 <!ENTITY  blockPopups.label           "Дэлгэгдэх цонхуудыг хорих">
 <!ENTITY  blockPopups.accesskey       "Д">
+
+
+
+
+
+
+
+
 <!ENTITY  popupExceptions.label       "Зөвшөөрөгдсөн хуудас">
 <!ENTITY  popupExceptions.accesskey   "ш">
 

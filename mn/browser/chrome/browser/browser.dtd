@@ -172,7 +172,30 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Хэвлэ">
 <!ENTITY printButton.tooltip          "Энэ хуудсыг хэвлэ">
 
-<!ENTITY locationItem.title           "Байрлал">
+<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
+     used to provide accessible labels to users of assistive technology like screenreaders.
+     It is not possible to see them visually in the UI. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY searchItem.title             "Хайх">
 <!-- Toolbar items -->
 
@@ -201,6 +224,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY addons.label                 "Нэмэгдлүүд">
 <!ENTITY addons.accesskey             "Н">
+
+
 
 
 
@@ -251,8 +276,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
-
 <!ENTITY webide.keytext                    "F8">
 
 <!ENTITY devToolbar.keytext                "F2">
@@ -266,6 +289,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Файл"> 
 <!ENTITY fileMenu.accesskey       "Ф">
+
+
+
+
+
+
+
+
+
+
 <!ENTITY newNavigatorCmd.label        "Шинэ цонх">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "Ш">
