@@ -136,6 +136,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "ବନ୍ଦହୋଇଥିବା ବନ୍ଧନିଗୁଡ଼ିକୁ ସ୍ୱୟଂଚାଳିତ ଭାବରେ ଭର୍ତ୍ତି କରନ୍ତୁ">
 <!ENTITY prefs_options_keybindings "କି ବନ୍ଧନ">
 <!ENTITY prefs_options_keybindings_default "ପୂର୍ବନିର୍ଦ୍ଧାରିତ">
+
+
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "ଅନୁମତି ସାରଣୀ">

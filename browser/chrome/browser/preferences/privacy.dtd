@@ -42,7 +42,6 @@
 
 <!ENTITY  expire.label                  "ରୁହନ୍ତୁ">
 <!ENTITY  close.label                   "&brandShortName; କୁ ମୁଁ ବନ୍ଦକରିଥାଏ">
-<!ENTITY  askEachTime.label             "ପ୍ରତିଥର ମୋତେ ପଚାରନ୍ତୁ">
 
 <!ENTITY  cookieExceptions.label        "ବ୍ୟତିକ୍ରମ…">
 <!ENTITY  cookieExceptions.accesskey    "E">
