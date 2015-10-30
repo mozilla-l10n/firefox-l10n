@@ -47,7 +47,6 @@
 
 <!ENTITY  expire.label                  "یہ ایکسبائر ہو جائیں">
 <!ENTITY  close.label                   "میں &brandShortName; بند کروں">
-<!ENTITY  askEachTime.label             "مجھے ہر بار پوچھیں">
 
 <!ENTITY  cookieExceptions.label        "استثنیات…">
 <!ENTITY  cookieExceptions.accesskey    "ا">
