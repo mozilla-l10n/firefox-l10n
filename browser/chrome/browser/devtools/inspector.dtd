@@ -79,6 +79,25 @@
 
 <!ENTITY inspectorHTMLDelete.label          "លុប​ថ្នាំង">
 <!ENTITY inspectorHTMLDelete.accesskey      "D">
+<!-- LOCALIZATION NOTE (inspectorAttributeSubmenu.label): This is the label
+     shown in the inspector contextual-menu for the sub-menu of the other
+     attribute items, which allow to:
+     - add new attribute
+     - edit attribute
+     - remove attribute -->
+
+<!-- LOCALIZATION NOTE (inspectorAddAttribute.label): This is the label shown in
+     the inspector contextual-menu for the item that lets users add attribute
+     to current node -->
+
+<!-- LOCALIZATION NOTE (inspectorEditAttribute.label): This is the label shown in
+     the inspector contextual-menu for the item that lets users edit attribute
+     for current node -->
+
+<!-- LOCALIZATION NOTE (inspectorRemoveAttribute.label): This is the label shown in
+     the inspector contextual-menu for the item that lets users delete attribute
+     from current node -->
+
 
 <!ENTITY inspector.selectButton.tooltip     "ជ្រើស​ធាតុ​ដោយ​ប្រើ​កណ្ដុរ">
 <!-- LOCALIZATION NOTE (inspectorSearchHTML.label2): This is the label shown as
@@ -125,3 +144,6 @@
      a screenshot of the currently selected node. -->
 
 <!ENTITY inspectorScreenshotNode.label       "រូបថត​អេក្រង់">
+<!-- LOCALIZATION NOTE (inspectorDuplicateNode.label): This is the label
+     shown in the inspector contextual-menu for the item that lets users
+     duplicate the currently selected node. -->
