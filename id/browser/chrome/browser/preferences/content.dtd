@@ -6,6 +6,14 @@
 
 <!ENTITY  blockPopups.label           "Blokir jendela pop-up">
 <!ENTITY  blockPopups.accesskey       "B">
+
+
+
+
+
+
+
+
 <!ENTITY  popupExceptions.label       "Pengecualian…">
 <!ENTITY  popupExceptions.accesskey   "e">
 

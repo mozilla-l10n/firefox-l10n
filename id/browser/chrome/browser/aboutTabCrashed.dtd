@@ -5,6 +5,11 @@
 <!ENTITY tabCrashed.header "Pertama-tama: kabar buruk: Tab ini mogok">
 <!ENTITY tabCrashed.message "Kabar baiknya: Anda cukup menutup tab ini saja, memulihkannya, atau memulihkan semua tab yang mogok.">
 <!ENTITY tabCrashed.sendReport "Kirimkan laporan mogok untuk membantu mencegah kabar buruk lainnya">
+
+
+
+
+
 <!ENTITY tabCrashed.reportSent "Laporan mogok sudah dikirimkan, terima kasih telah membantu menyempurnakan &brandShortName;!">
 <!ENTITY tabCrashed.closeTab "Tutup Tab Ini">
 <!ENTITY tabCrashed.restoreTab "Pulihkan Tab Ini">
