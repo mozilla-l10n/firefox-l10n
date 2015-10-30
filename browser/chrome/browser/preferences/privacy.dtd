@@ -47,7 +47,6 @@
 
 <!ENTITY  expire.label                  "उनका समय समाप्त नहीं हो जाए">
 <!ENTITY  close.label                   "मैं &brandShortName; बंद करता हूँ">
-<!ENTITY  askEachTime.label             "मुझसे हमेशा पूछें">
 
 <!ENTITY  cookieExceptions.label        "अपवाद…">
 <!ENTITY  cookieExceptions.accesskey    "E">

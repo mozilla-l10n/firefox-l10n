@@ -137,6 +137,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "बंद कोष्ठक स्वतः डालें">
 <!ENTITY prefs_options_keybindings "कीबाइंडिंग">
 <!ENTITY prefs_options_keybindings_default "तयशुदा">
+
+
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "अनुमति सारणी">
