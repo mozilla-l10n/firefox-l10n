@@ -137,6 +137,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "Insertar automaticament os gafetz de zarrar">
 <!ENTITY prefs_options_keybindings "Asociacions de teclas">
 <!ENTITY prefs_options_keybindings_default "Predeterminau">
+
+
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "Tabla de permisos">
