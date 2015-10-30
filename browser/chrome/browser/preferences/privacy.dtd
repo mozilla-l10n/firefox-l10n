@@ -47,7 +47,6 @@
 
 <!ENTITY  expire.label                  "hulle verval">
 <!ENTITY  close.label                   "ek &brandShortName; afsluit">
-<!ENTITY  askEachTime.label             "vra elke keer">
 
 <!ENTITY  cookieExceptions.label        "Uitsonderings…">
 <!ENTITY  cookieExceptions.accesskey    "U">

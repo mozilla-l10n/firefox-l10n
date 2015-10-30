@@ -6,6 +6,14 @@
 
 <!ENTITY  blockPopups.label           "Blokkeer opspringers">
 <!ENTITY  blockPopups.accesskey       "B">
+
+
+
+
+
+
+
+
 <!ENTITY  popupExceptions.label       "Uitsonderings…">
 <!ENTITY  popupExceptions.accesskey   "U">
 
