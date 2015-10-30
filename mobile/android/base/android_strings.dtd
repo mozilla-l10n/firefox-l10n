@@ -144,13 +144,10 @@
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
 <!ENTITY overlay_no_synced_devices "រក​មិន​ឃើញ​ឧបករណ៍​ដែល​បាន​ភ្ជាប់​សម្រាប់​គណនី Firefox">
-<!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
-     to send a tab to a synced device is pressed and there is an error
-     connecting to the server so the tab could not be sent. The text should be
-     divided into two lines (use the newline escape character, "\n", between
-     them): the first notifying the user about the failure and the second
-     telling the user what to do about it. -->
-<!ENTITY overlay_share_tab_not_sent "ផ្ទាំង​របស់​អ្នក​មិន​អាច​ត្រូវ​បាន​ផ្ញើ។\n​សូមព្យាយាម​ម្ដងទៀត​ពេលក្រោយ។">
+<!-- Localization note (menu_no_synced_devices): Used in a toast when the user
+     clicks on the button to send a tab to another device and there are no
+     other devices present. This label should briefly inform the user that they
+     need another connected device in order to use the feature. -->
 
 <!ENTITY pref_category_search3 "ស្វែងរក">
 <!ENTITY pref_category_search_summary "ប្ដូរ​ក្រុមហ៊ុន​ផ្ដល់​របស់​អ្នក​តាម​តម្រូវ​ការ">
@@ -217,10 +214,15 @@
 <!ENTITY pref_cookies_not_accept_foreign "បាន​បើក រួមបញ្ចូល​ទាំង​ភាគី​ទី៣">
 <!ENTITY pref_cookies_disabled "បាន​បិទ">
 
+
+
 <!ENTITY pref_tracking_protection_title "ការ​ទប់ស្កាត់​ការ​តាមដាន">
-<!ENTITY pref_tracking_protection_summary3 "បាន​អនុញ្ញាត​​នៅ​ក្នុង​ការ​​រក​មើល​ជា​ឯកជន">
+
 <!ENTITY pref_donottrack_title "កុំ​តាមដាន">
 <!ENTITY pref_donottrack_summary "&brandShortName; នឹង​ប្រាប់​តំបន់បណ្ដាញ​ថា​អ្នក​មិន​ចង់​ឲ្យ​តាមដាន​ទេ">
+
+
+
 
 <!ENTITY tracking_protection_prompt_title "ឥឡូវ​ដោយ​​​ប្រើ​ការ​ទប់ស្កាត់​ការ​តាមដាន">
 <!ENTITY tracking_protection_prompt_text "បិទ​ធាតុ​តាមដាន​ដែល​សកម្ម​ ដូច្នេះ​អ្នក​មិន​ត្រូវ​បារម្ភ​ទេ។">
@@ -290,6 +292,7 @@ size. -->
 <!ENTITY pref_sync "ធ្វើ​សមកាលកម្ម">
 <!ENTITY pref_sync_summary2 "ធ្វើ​សមកាលកម្ម​ផ្ទាំង​, ចំណាំ, ការ​ចូល, ប្រវត្តិ​របស់​អ្នក">
 <!ENTITY pref_search_suggestions "បង្ហាញ​ការ​ផ្ដល់​យោបល់​ស្វែងរក">
+
 <!ENTITY pref_import_android "នាំចូល​ពី Android">
 <!ENTITY pref_import_android_summary "នាំចូល​ចំណាំ និង​ប្រវត្តិ​ពី​កម្មវិធី​អ៊ីនធឺណិត​ដើម">
 <!ENTITY pref_private_data_history2 "​ប្រវត្តិ​រក​មើល">
@@ -582,6 +585,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "ការ​ភ្ជាប់​ដោយ​សុវត្ថិភាព">
 <!ENTITY identity_connection_insecure "ការ​ភ្ជាប់​ដោយ​សុវត្ថិភាព">
+
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; បាន​ទប់ស្កាត់​ធាតុ​ដែល​គ្មាន​សុវត្ថិភាព​នៅ​លើ​ទំព័រ​នេះ។">
@@ -697,6 +701,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY find_matchcase "Aa">
 
 <!ENTITY intent_uri_cannot_open "មិន​អាច​បើក​តំណ">
+<!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
+     appear in an alert when a user, who is currently in private browsing,
+     clicks a link that will open an external Android application. "&formatS;"
+     will be replaced with the name of the application that will be opened. -->
+<!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
+     string will appear as the title of an alert when a user, who is currently
+     in private browsing, clicks a link that will open an external Android
+     application and more than one application is available to open that link.
+     We don't have control over the style of this dialog and it looks
+     unpolished when this string is longer than one line so ideally keep it
+     short! -->
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
      above a QR reader that is actively scanning for QR codes.  The expected QR
@@ -727,8 +742,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarks_addons "Firefox៖ កែ​​តាម​បំណង​ជាមួយ​កម្មវិធី​ផ្នែក​បន្ថែម">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
 <!ENTITY bookmarks_support "Firefox៖ គាំទ្រ">
-<!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
-<!ENTITY bookmarks_marketplace "កន្លែង​ផ្ទុក​កម្មវិធី​របស់ Firefox">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!ENTITY bookmarks_restricted_support2 "ជំនួយ និង​ការ​គាំទ្រ Firefox សម្រាប់​​ប្រវត្តិរូប​ដែល​រឹត​បន្តឹង​នៅ​លើ​ថេប្លេត​អេនដ្រយ">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->

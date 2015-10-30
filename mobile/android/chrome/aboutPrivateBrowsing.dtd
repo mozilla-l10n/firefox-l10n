@@ -13,10 +13,11 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "អ្នក​មិន​ស្ថិត​នៅ​ក្នុង​ការ​រក​មើល​ជា​ឯកជន​ទេ">
 
-<!ENTITY privatebrowsingpage.description.private4 "&brandShortName; នឹង​​ការពារ​អ្នក​ពី​​​ការ​តាមដាន និង​មិន​ចងចាំ​ប្រវត្តិ​ទាំងឡាយ​ណា​ឡើយ ប៉ុន្តែ​ឯកសារ​ដែល​បាន​ទាញ​យក និង​ការ​ចំណាំ​ថ្មី​នឹង​នៅ​តែ​ត្រូវ​បាន​​រក្សាទុក​ទៅ​ឧបករណ៍​របស់​អ្នក។">
+
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
+
 <!ENTITY privatebrowsingpage.description.normal2 "នៅ​ក្នុង​ការ​រក​មើល​ជា​ឯកជន យើង​នឹង​មិន​រក្សាទុក​ប្រវត្តិ​រក​មើល​ ឬ​ខូគី​របស់​អ្នក​​ឡើយ។ ការ​ចំណាំ​ដែល​អ្នក​បន្ថែម និង​ឯកសារ​ដែល​អ្នក​​ទាញ​យក​នឹង​មិន​ត្រូវ​បាន​រក្សាទុក​នៅ​លើ​ឧបករណ៍​របស់​អ្នក​ទេ។">
 
 <!ENTITY privatebrowsingpage.link.private "ចង់​ស្វែងយល់​បន្ថែម?">
