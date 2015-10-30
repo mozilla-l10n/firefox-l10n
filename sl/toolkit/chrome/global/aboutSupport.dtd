@@ -33,7 +33,6 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.experimentEndDate "Datum konca">
 <!ENTITY aboutSupport.experimentHomepage "Domača stran">
 
-
 <!ENTITY aboutSupport.appBasicsTitle "Osnovni podatki">
 <!ENTITY aboutSupport.appBasicsName "Ime">
 <!ENTITY aboutSupport.appBasicsVersion "Različica">

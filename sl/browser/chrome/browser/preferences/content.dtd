@@ -6,6 +6,8 @@
 
 <!ENTITY  blockPopups.label           "Prepovej pojavna okna">
 <!ENTITY  blockPopups.accesskey       "r">
+
+
 <!ENTITY  popupExceptions.label       "Izjeme …">
 <!ENTITY  popupExceptions.accesskey   "I">
 
