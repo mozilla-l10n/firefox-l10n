@@ -212,3 +212,6 @@ functionality specific to firefox. -->
      "ssl_error_unsupported_version". -->
 <!ENTITY sslv3Used.longDesc "Podrobnosti: ssl_error_unsupported_version">
 <!ENTITY sslv3Used.learnMore "Več o tem …">
+
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
+     "ssl_error_no_cypher_overlap". -->
