@@ -224,13 +224,13 @@
 <!ENTITY fxaccount_status_linkprivacy "गोपनीयता धोरण">
 <!ENTITY fxaccount_status_more "अधिक&ellipsis;">
 
+
 <!ENTITY fxaccount_remove_account_dialog_title "Firefox खाते काढून टाकायचे आहे का?">
 <!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; आपल्या खात्याशी असणारे ताळमेळ थांबवेल, पण या उपकरणावरील आपला कोणताही ब्राउजिंग माहिती पुसून नाही टाकणार.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "&formatS; Firefox खाते काढून टाकण्यात आले.">
 
-<!ENTITY fxaccount_remove_account_menu_item "खाते काढा">
 <!ENTITY fxaccount_enable_debug_mode "डीबग पद्धत सक्रीय">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
