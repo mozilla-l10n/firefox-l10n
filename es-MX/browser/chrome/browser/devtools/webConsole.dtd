@@ -103,3 +103,5 @@
 <!ENTITY clearOutputCtrl.key  "L">
 <!ENTITY openInVarViewCmd.label "Abrir en vista de Variables">
 <!ENTITY openInVarViewCmd.accesskey "V">
+
+
