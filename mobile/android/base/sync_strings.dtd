@@ -224,13 +224,13 @@
 <!ENTITY fxaccount_status_linkprivacy "Privātuma atruna">
 <!ENTITY fxaccount_status_more "Vairāk&ellipsis;">
 
+
 <!ENTITY fxaccount_remove_account_dialog_title "Noņemt Firefox kontu?">
 <!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; pārtrauks sinhronizāciju ar jūsu kontu, taču dati jūsu ierīcē paliks neskarti.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "Firefox konts &formatS; ir noņemts.">
 
-<!ENTITY fxaccount_remove_account_menu_item "Noņemt kontu">
 <!ENTITY fxaccount_enable_debug_mode "Aktivēt atkļūdošanas režīmu">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
