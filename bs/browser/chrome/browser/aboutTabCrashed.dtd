@@ -5,6 +5,11 @@
 <!ENTITY tabCrashed.header "Najprije loše vijesti: ovaj tab se srušio">
 <!ENTITY tabCrashed.message "A sada dobre vijesti: možete zatvoriti samo ovaj tab, vratiti ga ili vratiti sve vaše srušene tabove.">
 <!ENTITY tabCrashed.sendReport "Pošaljite izvještaj o rušenju kako biste pomogli da spriječimo više loših vijesti.">
+
+
+
+
+
 <!ENTITY tabCrashed.reportSent "Izvještaj o rušenju je već poslan; hvala vam što pomažete da unaprijedimo &brandShortName;!">
 <!ENTITY tabCrashed.closeTab "Zatvori ovaj tab">
 <!ENTITY tabCrashed.restoreTab "Vrati ovaj tab">
