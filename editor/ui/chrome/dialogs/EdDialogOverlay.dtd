@@ -2,5 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY AdvancedEditButton.label "Напредно уређивање…">
+<!ENTITY AdvancedEditButton.tooltip "Додајте или мењајте HTML атрибуте, стилске атрибуте и JavaScript">
+<!ENTITY chooseFileButton.label "Изаберите датотеку...">
+<!ENTITY chooseFileLinkButton.label "Изаберите датотеку...">
+<!ENTITY makeUrlRelative.label "URL адреса је релативна у односу на путању странице">
+<!ENTITY makeUrlRelative.tooltip "Мења између релативног и апсолутног URL-a. Морате прво сачувати страницу да бисте променили ово.">
 
 <!-- Shared by Link and Image dialogs -->
+<!ENTITY LinkURLEditField.label "Унесите место веб странице, локалну датотеку или изаберите именовано сидро или заглавље из искачућег списка:">
