@@ -13,10 +13,11 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "Niste u Privatnom pretraživanju">
 
-<!ENTITY privatebrowsingpage.description.private4 "&brandShortName; će spriječiti praćenje vaše aktivnosti i neće pamtiti povijest pretraživanja, ali preuzete datoteke i nove zabilješke će i dalje biti spremljene na vašem uređaju.">
+
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
+
 <!ENTITY privatebrowsingpage.description.normal2 "U Privatnom pretraživanju nećemo čuvati vašu povijest pretraživanja niti kolačiće. Zabilješke koje dodate i datoteke koje preuzmete će i dalje biti spremljene na vašem uređaju.">
 
 <!ENTITY privatebrowsingpage.link.private "Želite li saznati više?">
