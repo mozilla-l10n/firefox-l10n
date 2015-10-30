@@ -224,13 +224,12 @@
 <!ENTITY fxaccount_status_linkprivacy "Sutura laada">
 <!ENTITY fxaccount_status_more "Tonton&ellipsis;">
 
+
 <!ENTITY fxaccount_remove_account_dialog_title "Firefox kontoo kaa wala?">
 <!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; ga fenda ka war kontoo hangandi, amma a ši ceecikaa bayhaya kul tuusu k\u0027a kaa jinaa ga.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "Firefox kontu &formatS; hun">
-
-<!ENTITY fxaccount_remove_account_menu_item "Kontoo kaa">
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
