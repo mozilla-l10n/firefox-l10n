@@ -6,7 +6,7 @@
 <!ENTITY header2.label "An bhfuil fonn ort seoladh nua ríomhphoist a fháil?">
 <!ENTITY other.languages "Nílimid ag taispeáint ach na soláthraithe a chuireann seoltaí ríomhphoist ar fáil i do cheantar. Cliceáil anseo chun gach uile sholáthraí a thaispeáint.">
 <!ENTITY error.line1 "Tá brón orainn, níorbh fhéidir linn aon seoltaí ríomhphoist a mholadh duit.">
-<!ENTITY error.line2 "Tig leat cuardach a dhéanamh ar leasainmneacha nó téarmaí eile chun tuilleadh seoltaí a fháil">
+
 <!-- LOCALIZATION NOTE(error.suggest.before, error.suggest.middle, error.suggest.after):
      error.suggest.before, error.suggest.middle, and error.suggest.after all go into
      one line with error.suggest.middle that links to a site which provides download
