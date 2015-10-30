@@ -13,10 +13,11 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "Du surfar inte i privat läge">
 
-<!ENTITY privatebrowsingpage.description.private4 "&brandShortName; kommer att hindra dig från att spåras och kommer inte ihåg något historik, men hämtade filer och nya bokmärken kommer fortfarande att sparas till enheten.">
+
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
+
 <!ENTITY privatebrowsingpage.description.normal2 "I privat surfning, kommer vi inte att hålla någon av dina webbhistorik eller kakor. Bokmärken du lägga till och filer du laddar ner kommer fortfarande att sparas på din enhet.">
 
 <!ENTITY privatebrowsingpage.link.private "Vill du veta mer?">
