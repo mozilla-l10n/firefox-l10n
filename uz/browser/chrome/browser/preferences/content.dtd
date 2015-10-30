@@ -6,6 +6,14 @@
 
 <!ENTITY  blockPopups.label           "Paydo bo‘luvchi oynalarni bloklash">
 <!ENTITY  blockPopups.accesskey       "P">
+
+
+
+
+
+
+
+
 <!ENTITY  popupExceptions.label       "Istisnolar…">
 <!ENTITY  popupExceptions.accesskey   "I">
 

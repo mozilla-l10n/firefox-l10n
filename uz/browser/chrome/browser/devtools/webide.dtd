@@ -137,6 +137,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "Yopiluvchi qavslarni avtomatik kiritish">
 <!ENTITY prefs_options_keybindings "Tugmalar birikmasi">
 <!ENTITY prefs_options_keybindings_default "Standart">
+
+
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "Ruxsatlar jadvali">

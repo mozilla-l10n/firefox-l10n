@@ -45,7 +45,6 @@
 
 <!ENTITY  expire.label                  "ular eskirguncha">
 <!ENTITY  close.label                   "Men &brandShortName;ni yopaman">
-<!ENTITY  askEachTime.label             "doimo mendan so‘ralsin">
 
 <!ENTITY  cookieExceptions.label        "Istisnolar…">
 <!ENTITY  cookieExceptions.accesskey    "I">
