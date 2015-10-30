@@ -13,10 +13,11 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "আপনি গোপন ব্রাউজিং -এ নেই">
 
-<!ENTITY privatebrowsingpage.description.private4 "&brandShortName; ট্র্যাক করা থেকে  করতে প্রতিরোধ করে ও কোনো ইতিহাস মনে রাখতে হবে না, কিন্তু ডাউনলোড করা ফাইল এবং নতুন বুকমার্কগুলি এখনও আপনার ডিভাইস সংরক্ষণ করা হবে।">
+
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
+
 <!ENTITY privatebrowsingpage.description.normal2 "ব্যক্তিগত ব্রাউজিং -এ, আমরা আপনার ব্রাউজিং পূর্ববর্তী তথ্য বা কুকি কোনো কিছুই রাখব না। আপানার দ্বারা যোগ করা বুকমার্ক এবং ডাউনলোড করা ফাইল এখনও আপনার ডিভাইসের মধ্যে সংরক্ষিত থাকবে।">
 
 <!ENTITY privatebrowsingpage.link.private "আরো জানতে চান?">

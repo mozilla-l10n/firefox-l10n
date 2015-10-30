@@ -197,7 +197,7 @@
 
 <!ENTITY fxaccount_status_header2 "Firefox অ্যাকাউন্ট">
 <!ENTITY fxaccount_status_signed_in_as "উল্লিখিত পরিচয়ে লগ-ইন করা হয়েছে">
-
+<!ENTITY fxaccount_status_manage_account "অ্যাকাউন্ট পরিচালনা">
 <!ENTITY fxaccount_status_auth_server "অ্যাকাউন্ট সার্ভার">
 <!ENTITY fxaccount_status_sync_now "এখনই সিঙ্ক করুন">
 <!ENTITY fxaccount_status_syncing2 "সিঙ্ক করা হচ্ছে...">
@@ -224,13 +224,13 @@
 <!ENTITY fxaccount_status_linkprivacy "গোপনীয়তার বিজ্ঞপ্তি">
 <!ENTITY fxaccount_status_more "অারো&ellipsis;">
 
+
 <!ENTITY fxaccount_remove_account_dialog_title "ফায়ারফক্স অ্যাকাউন্ট মুছে ফেলবেন?">
 <!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; আপনার অ্যাকাউন্টের সাথে সিঙ্ক করা বন্ধ করবে, কিন্তু এই ডিভাইসে আপনার ব্রাউজিং ডেটা মুছে ফেলবে না।">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "ফায়ারফক্স অ্যাকাউন্ট &formatS; মুছে ফেলা হয়েছে।">
 
-<!ENTITY fxaccount_remove_account_menu_item "অ্যাকাউন্ট মুছে ফেলুন">
 <!ENTITY fxaccount_enable_debug_mode "ডিবাগ মোড সক্রিয়করন">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
