@@ -113,12 +113,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignIn.label "Přihlášení k &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Otevřít předvolby &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Opětovné připojení k &syncBrand.shortName.label;">
+<!ENTITY fxaUnverified.label "Ověřte váš účet">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; povolen">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; se za chvíli začne synchronizovat.">
-<!ENTITY syncErrorPanel.heading "Není možné se připojit k &syncBrand.shortName.label;">
-<!ENTITY syncErrorPanel.subTitle "Pro pokračování synchronizace se prosím přihlašte.">
-<!ENTITY syncErrorPanel.signInButton.label "Přihlásit">
-<!ENTITY syncErrorPanel.signInButton.accesskey "P">
 
 <!ENTITY fullScreenMinimize.tooltip "Minimalizovat">
 <!ENTITY fullScreenRestore.tooltip "Obnovit">
