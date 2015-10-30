@@ -45,7 +45,6 @@
 
 <!ENTITY  expire.label                  "lor expiracion">
 <!ENTITY  close.label                   "la tampadura de &brandShortName;">
-<!ENTITY  askEachTime.label             "me demandar a cada còp">
 
 <!ENTITY  cookieExceptions.label        "Excepcions…">
 <!ENTITY  cookieExceptions.accesskey    "E">

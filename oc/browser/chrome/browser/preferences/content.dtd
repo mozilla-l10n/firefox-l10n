@@ -6,6 +6,14 @@
 
 <!ENTITY  blockPopups.label           "Blocar las fenèstras sorgissentas">
 <!ENTITY  blockPopups.accesskey       "B">
+
+
+
+
+
+
+
+
 <!ENTITY  popupExceptions.label       "Excepcions…">
 <!ENTITY  popupExceptions.accesskey   "E">
 
