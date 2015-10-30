@@ -224,13 +224,13 @@
 <!ENTITY fxaccount_status_linkprivacy "Sanas prìobhaideachd">
 <!ENTITY fxaccount_status_more "Barrachd&ellipsis;">
 
+
 <!ENTITY fxaccount_remove_account_dialog_title "A bheil thu airson an cunntas Firefox a thoirt air falbh?">
 <!ENTITY fxaccount_remove_account_dialog_message "Sguiridh &brandShortName; de shioncronachadh a’ chunntais agad ach cha sguab e às gin dhen dàta brabhsaidh agad air an uidheam seo.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "Chaidh an cunntas Firefox &formatS; a thoirt air falbh.">
 
-<!ENTITY fxaccount_remove_account_menu_item "Thoir air falbh an cunntas">
 <!ENTITY fxaccount_enable_debug_mode "Cuir am modh dì-bhugachaidh an comas">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->

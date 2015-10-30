@@ -13,10 +13,11 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "Chan eil thu a’ dèanamh brabhsadh prìobhaideach">
 
-<!ENTITY privatebrowsingpage.description.private4 "Dìonaidh &brandShortName; thu o thracadh is cha chuimhnich e gin dhen eachdraidh ach thèid faidhlichean a luchdaich thu a-nuas is comharran-lìn ùra a shàbhaladh air an uidheam agad fhathast.">
+
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
+
 <!ENTITY privatebrowsingpage.description.normal2 "Cha chum sinn gin dhen eachdraidh bhrabhsaidh no na briosgaidean agad ann am brabhsadh prìobhaideach. Thèid faidhlichean a luchdaicheas tu a-nuas is comharran-lìn a chuireas tu ris a shàbhaladh air an uidheam agad fhathast.">
 
 <!ENTITY privatebrowsingpage.link.private "A bheil thu ag iarraidh barrachd fiosrachaidh?">
