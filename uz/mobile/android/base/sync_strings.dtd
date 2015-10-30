@@ -224,13 +224,13 @@
 <!ENTITY fxaccount_status_linkprivacy "Maxfiylik eslatmalari">
 <!ENTITY fxaccount_status_more "Ko‘proq&ellipsis;">
 
+
 <!ENTITY fxaccount_remove_account_dialog_title "Firefox hisobi o‘chirilsinmi?">
 <!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; hisobingiz bilan sinxronlashni to‘xtatadi, ammo qurilmangizdagi ko‘rish tarixingizni o‘chirmaydi.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "Firefox hisobi &formatS; o‘chirildi.">
 
-<!ENTITY fxaccount_remove_account_menu_item "Hisobni olib tashlash">
 <!ENTITY fxaccount_enable_debug_mode "Tuzatish rejimini yoqish">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->

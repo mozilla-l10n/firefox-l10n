@@ -13,10 +13,11 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "Siz maxfiy ko‘rish rejimida emassiz">
 
-<!ENTITY privatebrowsingpage.description.private4 "&brandShortName; sizni kuzatishlariga to‘sqinlik qiladi va hech qanday tarixni eslab qolmaydi, ammo yuklab olingan fayllar va yangi xatcho‘plar qurilmangizda saqlanib qoladi.">
+
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
+
 <!ENTITY privatebrowsingpage.description.normal2 "Maxfiy ko‘rish rejimida biz ko‘rish tarixi yoki kukilarni saqlab qolmaymiz. Siz qo‘shgan xatcho‘plar va yuklab olingan fayllar qurilmagizda saqlanib qoladi.">
 
 <!ENTITY privatebrowsingpage.link.private "Ko‘proq o‘rganishni xohlaysizmi?">
