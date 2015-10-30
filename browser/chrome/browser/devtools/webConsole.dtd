@@ -103,3 +103,5 @@
 <!ENTITY clearOutputCtrl.key  "L">
 <!ENTITY openInVarViewCmd.label "Megnyitás változók nézetben">
 <!ENTITY openInVarViewCmd.accesskey "v">
+
+

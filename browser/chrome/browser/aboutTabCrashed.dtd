@@ -5,6 +5,11 @@
 <!ENTITY tabCrashed.header "Kezdjük a rossz hírrel: Ez a lap összeomlott">
 <!ENTITY tabCrashed.message "Most pedig a jó hír: Bezárhatja ezt a lapot, visszaállíthatja, vagy visszaállíthatja az összes összeomlott lapot.">
 <!ENTITY tabCrashed.sendReport "Küldjön hibajelentést a további rossz hírek megelőzése érdekében">
+
+
+
+
+
 <!ENTITY tabCrashed.reportSent "A hibajelentés már be lett küldve, köszönjük segítségét a &brandShortName; jobbá tételéhez!">
 <!ENTITY tabCrashed.closeTab "Lap bezárása">
 <!ENTITY tabCrashed.restoreTab "Lap visszaállítása">
