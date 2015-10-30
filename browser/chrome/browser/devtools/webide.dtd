@@ -26,7 +26,7 @@
 <!ENTITY projectMenu_showPrefs_accesskey "o">
 <!ENTITY projectMenu_manageComponents_label "Tvarkyti papildomus komponentus">
 <!ENTITY projectMenu_manageComponents_accesskey "k">
-
+<!ENTITY projectMenu_refreshTabs_label "Atnaujinti korteles">
 
 <!ENTITY runtimeMenu_label "Įrenginys">
 <!ENTITY runtimeMenu_accesskey "n">
@@ -137,6 +137,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "Automatiškai pridėti užveriantįjį skliaustą, įvedus atveriantįjį">
 <!ENTITY prefs_options_keybindings "Klavišų susiejimai">
 <!ENTITY prefs_options_keybindings_default "Numatytieji">
+
+
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "Leidimų lentelė">

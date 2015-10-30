@@ -5,6 +5,11 @@
 <!ENTITY tabCrashed.header "Pradėkime nuo blogų naujienų: ši kortelė užstrigo">
 <!ENTITY tabCrashed.message "Tačiau yra ir gerų: galite šią kortelę tiesiog uždaryti, ją atkurti arba atkurti visas užstrigusias korteles.">
 <!ENTITY tabCrashed.sendReport "Norėdami padėti išvengti daugiau nemalonių naujienų, nusiųskite strigties pranešimą">
+
+
+
+
+
 <!ENTITY tabCrashed.reportSent "Strigties pranešimas jau nusiųstas – ačiū jums už pagalbą tobulinant „&brandShortName;“!">
 <!ENTITY tabCrashed.closeTab "Užverti šią kortelę">
 <!ENTITY tabCrashed.restoreTab "Atkurti šią kortelę">
