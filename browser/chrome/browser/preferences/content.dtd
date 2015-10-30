@@ -6,6 +6,8 @@
 
 <!ENTITY  blockPopups.label           "חסימת חלונות קופצים">
 <!ENTITY  blockPopups.accesskey       "ח">
+
+
 <!ENTITY  popupExceptions.label       "חריגות...">
 <!ENTITY  popupExceptions.accesskey   "ר">
 
