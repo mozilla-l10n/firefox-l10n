@@ -2,63 +2,79 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  fontsAndEncodingsDialog.title           "Shriftlar va kodlash">
 
+<!ENTITY  language.label                          "Shriftlar:">
+<!ENTITY  language.accesskey                      "S">
 
+<!ENTITY  size.label                              "Hajmi:">
+<!ENTITY  sizeProportional.accesskey              "e">
+<!ENTITY  sizeMonospace.accesskey                 "i">
 
+<!ENTITY  proportional.label                      "Proportional:">
+<!ENTITY  proportional.accesskey                  "P">
 
-
-
-
-
-
-
-
-
+<!ENTITY  serif.label                             "Serif:">
+<!ENTITY  serif.accesskey                         "S">
+<!ENTITY  sans-serif.label                        "Sans-serif:">
+<!ENTITY  sans-serif.accesskey                    "n">
+<!ENTITY  monospace.label                         "Monospace:">
+<!ENTITY  monospace.accesskey                     "M">
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
+<!ENTITY  font.langGroup.latin                    "Lotin">
+<!ENTITY  font.langGroup.japanese                 "Yapon">
+<!ENTITY  font.langGroup.trad-chinese             "An’anaviy Xitoy (Tayvan)">
+<!ENTITY  font.langGroup.simpl-chinese            "Soddalashtirilgan Xitoy">
+<!ENTITY  font.langGroup.trad-chinese-hk          "An’anaviy Xitoy (Gong-kong)">
+<!ENTITY  font.langGroup.korean                   "Koreys">
+<!ENTITY  font.langGroup.cyrillic                 "Kirill">
+<!ENTITY  font.langGroup.el                       "Grek">
+<!ENTITY  font.langGroup.other                    "Boshqa yozuv tizimlari">
+<!ENTITY  font.langGroup.thai                     "Tay">
+<!ENTITY  font.langGroup.hebrew                   "Yahudiy">
+<!ENTITY  font.langGroup.arabic                   "Arab">
+<!ENTITY  font.langGroup.devanagari               "Devanagari">
+<!ENTITY  font.langGroup.tamil                    "Tamil">
+<!ENTITY  font.langGroup.armenian                 "Arman">
+<!ENTITY  font.langGroup.bengali                  "Bengal">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY  font.langGroup.ethiopic                 "Efiopiya">
+<!ENTITY  font.langGroup.georgian                 "Gruzin">
+<!ENTITY  font.langGroup.gujarati                 "Gujarat">
+<!ENTITY  font.langGroup.gurmukhi                 "Gurmuxi">
+<!ENTITY  font.langGroup.khmer                    "Xmer">
+<!ENTITY  font.langGroup.malayalam                "Malayalam">
+<!ENTITY  font.langGroup.math                     "Matematika">
+<!ENTITY  font.langGroup.oriya                    "Oriya">
+<!ENTITY  font.langGroup.telugu                   "Telugu">
+<!ENTITY  font.langGroup.kannada                  "Kanada">
+<!ENTITY  font.langGroup.sinhala                  "Sinhala">
+<!ENTITY  font.langGroup.tibetan                  "Tibet">
 <!-- Minimum font size -->
-
-
+<!ENTITY minSize.label                            "Eng kichik shrift hajmi:">
+<!ENTITY minSize.accesskey                        "h">
+<!ENTITY minSize.none                             "Yo‘q">
 <!-- default font type -->
 
+<!ENTITY  useDefaultFontSerif.label               "Serif">
+<!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 <!-- fonts in message -->
 
-
-
-
+<!ENTITY  fontControl.label                       "Shrift boshqaruvi">
+<!ENTITY  useFixedWidthForPlainText.label         "Oddiy matn xabarlari uchun moslangan kenglikdagi shriftdan foydalanish">
+<!ENTITY  fixedWidth.accesskey                    "x">
+<!ENTITY  useDocumentFonts.label                  "Boshqa shriftlardan xabarlarda foydalanish uchun ruxsat berish">
+<!ENTITY  useDocumentFonts.accesskey              "r">
 <!-- Language settings -->
 
+<!ENTITY sendDefaultCharset.label         "Chiquvchi xat:">
+<!ENTITY sendDefaultCharset.accesskey     "C">
+<!ENTITY languagesTitle2.label            "Matnni kodlash">
+<!ENTITY composingDescription2.label      "Joriy matnni kodlashni xat jo‘natish va qabul qilish uchun standart sifatida o‘rnatish">
 
-
-
-
-
-
+<!ENTITY viewDefaultCharsetList.label     "Kiruvchi xat:">
+<!ENTITY viewDefaultCharsetList.accesskey  "K">
+<!ENTITY replyInDefaultCharset3.label     "Imkon bo‘lganda, standart matnni kodlashdan javoblarda foydalaning">
+<!ENTITY replyInDefaultCharset3.accesskey "h">

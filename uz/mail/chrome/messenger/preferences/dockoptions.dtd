@@ -2,12 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY dockOptionsDialog.title               "Ilova dastur nishonchasi moslamasi">
+<!ENTITY window.macWidth                       "35em">
 
-
-
-
-
-
-
-
-
+<!ENTITY bounceSystemDockIcon.label            "Yangi xabar kelganda ilova dastur nishonchasi harakatga kelsin">
+<!ENTITY bounceSystemDockIcon.accesskey        "h">
+<!ENTITY newMessagesCountDock.label            "Yangi xabarlar miqdori">
+<!ENTITY newMessagesCountDock.accesskey        "m">
+<!ENTITY showAllUnreadMessagesCount.label      "O‘qilmagan xabarlar miqdori">
+<!ENTITY showAllUnreadMessagesCount.accesskey  "m">
+<!ENTITY dockIconBadge.label                   "Ilova dastur nishonchasi belgisi">
+<!ENTITY dockIconShow.label                    "Ilova nishonchasi ushbu bilan belgi bersi:">
+<!ENTITY directNotificationSettings.label      "Belgini tizim parametrlaridagi bildirishnomalar yon oynasidan o‘chirib qo‘yishingiz mumkin.">
