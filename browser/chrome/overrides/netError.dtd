@@ -174,4 +174,11 @@ functionality specific to firefox. -->
 <!ENTITY sslv3Used.title "সুৰক্ষিতভাৱে সংযোগ কৰাত অক্ষম">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "ssl_error_unsupported_version". -->
-<!ENTITY sslv3Used.learnMore "অধিক জানক…">
+
+
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
+     "ssl_error_no_cypher_overlap". -->
+
+
+
+

@@ -42,7 +42,6 @@
 
 <!ENTITY  expire.label                  "তেওলোক অস্তিত্বহীন হয়">
 <!ENTITY  close.label                   "মই বন্ধ কৰো &brandShortName;">
-<!ENTITY  askEachTime.label             "মোক প্ৰতিবাৰে সোধিব">
 
 <!ENTITY  cookieExceptions.label        "ব্যতিক্ৰমসমূহ…">
 <!ENTITY  cookieExceptions.accesskey    "E">
