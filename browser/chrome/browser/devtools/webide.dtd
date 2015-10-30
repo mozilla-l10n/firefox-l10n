@@ -137,6 +137,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "Otomatis sisipkan kurung penutup">
 <!ENTITY prefs_options_keybindings "Pintasan tombol">
 <!ENTITY prefs_options_keybindings_default "Bawaan">
+
+
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "Tabel Izin">

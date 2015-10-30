@@ -45,7 +45,6 @@
 
 <!ENTITY  expire.label                  "kedaluwarsa">
 <!ENTITY  close.label                   "&brandShortName; ditutup">
-<!ENTITY  askEachTime.label             "tanyakan selalu">
 
 <!ENTITY  cookieExceptions.label        "Pengecualian…">
 <!ENTITY  cookieExceptions.accesskey    "e">

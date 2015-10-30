@@ -167,4 +167,11 @@ functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "ssl_error_unsupported_version". -->
 <!ENTITY sslv3Used.longDesc "Info lanjutan: ssl_error_unsupported_version">
-<!ENTITY sslv3Used.learnMore "Pelajari Lebih Lanjut…">
+
+
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
+     "ssl_error_no_cypher_overlap". -->
+
+
+
+
