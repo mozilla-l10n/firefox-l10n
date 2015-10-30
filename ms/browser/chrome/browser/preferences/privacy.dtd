@@ -42,7 +42,6 @@
 
 <!ENTITY  expire.label                  "ianya luput">
 <!ENTITY  close.label                   "Saya tutup &brandShortName;">
-<!ENTITY  askEachTime.label             "tanya saya setiap kali">
 
 <!ENTITY  cookieExceptions.label        "Pengecualian…">
 <!ENTITY  cookieExceptions.accesskey    "e">
