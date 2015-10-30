@@ -6,6 +6,14 @@
 
 <!ENTITY  blockPopups.label           "Կանխել Pop-up պատուհանները">
 <!ENTITY  blockPopups.accesskey       "Կ">
+
+
+
+
+
+
+
+
 <!ENTITY  popupExceptions.label       "Բացառություններ…">
 <!ENTITY  popupExceptions.accesskey   "Բ">
 
