@@ -136,6 +136,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "বন্ধ কৰা ব্ৰেকেটসমূহ স্বচালিতভাৱে বন্ধ কৰক">
 <!ENTITY prefs_options_keybindings "কিবাইণ্ডিংসমূহ">
 <!ENTITY prefs_options_keybindings_default "অবিকল্পিত">
+
+
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "অনুমতিসমূহ টেবুল">
