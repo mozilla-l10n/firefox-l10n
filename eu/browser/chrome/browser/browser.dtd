@@ -189,7 +189,30 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Inprimatu">
 <!ENTITY printButton.tooltip          "Inprimatu orri hau">
 
-<!ENTITY locationItem.title           "Kokapena">
+<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
+     used to provide accessible labels to users of assistive technology like screenreaders.
+     It is not possible to see them visually in the UI. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY searchItem.title             "Bilatu">
 <!-- Toolbar items --> 
 
@@ -229,6 +252,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.commandkey            "A">
 <!ENTITY webapps.label                "Aplikazioak">
 <!ENTITY webapps.accesskey            "p">
+
+
 
 <!ENTITY webDeveloperMenu.label       "Web garapena">
 <!ENTITY webDeveloperMenu.accesskey   "W">
@@ -288,8 +313,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Itxi garatzailearen tresna-barra">
 <!ENTITY devToolbarMenu.label              "Garatzailearen tresna-barra">
 <!ENTITY devToolbarMenu.accesskey          "G">
-<!ENTITY devAppMgrMenu.label               "Aplikazio-kudeatzailea">
-<!ENTITY devAppMgrMenu.accesskey           "A">
 <!ENTITY webide.label                      "WebIDE">
 <!ENTITY webide.accesskey                  "W">
 <!ENTITY webide.keycode                    "VK_F8">
@@ -308,6 +331,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Fitxategia"> 
 <!ENTITY fileMenu.accesskey       "F">
+
+
+
+
+
+
+
+
+
+
 <!ENTITY newNavigatorCmd.label        "Leiho berria">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "L">

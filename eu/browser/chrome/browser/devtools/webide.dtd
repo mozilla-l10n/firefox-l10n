@@ -137,6 +137,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "Txertatu automatikoki ixteko kortxeteak">
 <!ENTITY prefs_options_keybindings "Tekla-konbinazioak">
 <!ENTITY prefs_options_keybindings_default "Lehenetsia">
+
+
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "Baimenen taula">
