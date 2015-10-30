@@ -189,11 +189,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Imprimir">
 <!ENTITY printButton.tooltip          "Imprimir esta página">
 
+<!ENTITY urlbar.viewSiteInfo.label                      "Ver información de sitio">
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
-
-
+<!ENTITY urlbar.defaultNotificationAnchor.label         "Ver una notificación">
+<!ENTITY urlbar.geolocationNotificationAnchor.label     "Ver la solicitud de ubicación">
+<!ENTITY urlbar.addonsNotificationAnchor.label          "Ver el mensaje de la instalación del complemento">
 
 
 
