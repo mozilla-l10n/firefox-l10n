@@ -41,6 +41,7 @@
 
 <!ENTITY popup.label                     "Agor Llamlenni">
 
+<!ENTITY desktop-notification.label      "Dangos Hysbysiadau">
 <!ENTITY camera.label                    "Defnyddio'r Camera">
 <!ENTITY microphone.label                "Defnyddio'r Meicroffon">
 
