@@ -189,7 +189,30 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "ပုံနှိုပ်ပါ">
 <!ENTITY printButton.tooltip          "ဒီစာမျက်နှာကို ပုံနှိုပ်ပါ">
 
-<!ENTITY locationItem.title           "တည်နေရာ">
+<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
+     used to provide accessible labels to users of assistive technology like screenreaders.
+     It is not possible to see them visually in the UI. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY searchItem.title             "ရှာဖွေပါ">
 <!-- Toolbar items --> 
 
@@ -229,6 +252,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.commandkey            "A">
 <!ENTITY webapps.label                "pအက်ပ်များ">
 <!ENTITY webapps.accesskey            "p">
+
+
 
 <!ENTITY webDeveloperMenu.label       "ဝတ်ဆိုက်များဖန်တီးသူ">
 <!ENTITY webDeveloperMenu.accesskey   "ဝ">
@@ -288,8 +313,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Close Developer Toolbar">
 <!ENTITY devToolbarMenu.label              "(v)ကျွမ်းကျင်သူသုံး ကိရိယာ">
 <!ENTITY devToolbarMenu.accesskey          "v">
-<!ENTITY devAppMgrMenu.label               "(A)အက်ပ် မန်နေဂျာ">
-<!ENTITY devAppMgrMenu.accesskey           "A">
 <!ENTITY webide.label                      "WebIDE">
 <!ENTITY webide.accesskey                  "W">
 <!ENTITY webide.keycode                    "VK_F8">
@@ -308,6 +331,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "(F)ဖိုင်"> 
 <!ENTITY fileMenu.accesskey       "F">
+
+
+
+
+
+
+
+
+
+
 <!ENTITY newNavigatorCmd.label        "(N)ဝင်းဒိုးအသစ်">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">

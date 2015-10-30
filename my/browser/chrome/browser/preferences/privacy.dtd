@@ -47,7 +47,6 @@
 
 <!ENTITY  expire.label                  "သူတို့ သက်တမ်းပြီ">
 <!ENTITY  close.label                   "&brandShortName; ကို ပိတ်လိုက်တယ်">
-<!ENTITY  askEachTime.label             "အချိန်တိုင်း ကျွန်ပ်ကို မေးပါ">
 
 <!ENTITY  cookieExceptions.label        "E ခြွင်းချက်များ...">
 <!ENTITY  cookieExceptions.accesskey    "E">
