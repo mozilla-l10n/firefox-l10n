@@ -5,6 +5,11 @@
 <!ENTITY tabCrashed.header "Dikgang tse di sa botlhoko pele: Thebe e senyegile">
 <!ENTITY tabCrashed.message "Jaanong dikgang tse di molemo: O ka tswala thebe e, wa e busetsa kgotsa wa busetsa dithebe tsa gago tsotlhe tse di senyegileng.">
 <!ENTITY tabCrashed.sendReport "Romela tekodiso ya tshenyego go thusa go thibela bogolo jwa dikgang tse di botlhoko">
+
+
+
+
+
 <!ENTITY tabCrashed.reportSent "Tekodiso ya tshenyego e setse e rometswe; re go lebogela go thusa go dira &brandShortName; botoka!">
 <!ENTITY tabCrashed.closeTab "Tswala Thebe e">
 <!ENTITY tabCrashed.restoreTab "Busetsa Thebe e">
