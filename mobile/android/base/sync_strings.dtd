@@ -224,13 +224,13 @@
 <!ENTITY fxaccount_status_linkprivacy "Adatvédelmi megjegyzések">
 <!ENTITY fxaccount_status_more "Több&ellipsis;">
 
+
 <!ENTITY fxaccount_remove_account_dialog_title "Eltávolítja a Firefox fiókot?">
 <!ENTITY fxaccount_remove_account_dialog_message "A &brandShortName; befejezi a szinkronizálást a fiókjával, de nem fog böngészési adatokat törölni erről az eszközről.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "&formatS; Firefox fiók eltávolítva.">
 
-<!ENTITY fxaccount_remove_account_menu_item "Fiók eltávolítása">
 <!ENTITY fxaccount_enable_debug_mode "Hibakeresési mód bekapcsolása">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
