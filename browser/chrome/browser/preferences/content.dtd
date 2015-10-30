@@ -4,6 +4,14 @@
 
 <!ENTITY  blockPopups.label           "முன்னெழும் சாளரங்களை நிறுத்துக">
 <!ENTITY  blockPopups.accesskey       "B">
+
+
+
+
+
+
+
+
 <!ENTITY  popupExceptions.label       "விதிவிலக்குகள்">
 <!ENTITY  popupExceptions.accesskey   "E">
 
