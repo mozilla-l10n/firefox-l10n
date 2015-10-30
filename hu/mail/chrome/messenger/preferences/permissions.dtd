@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                 "Kivételek">
-<!ENTITY window.width                 "36em">
+
 
 <!ENTITY treehead.sitename.label      "Webhely">
 <!ENTITY treehead.status.label        "Állapot">
@@ -15,12 +15,13 @@
 <!ENTITY address.accesskey            "h">
 <!ENTITY block.label                  "Tiltás">
 <!ENTITY block.accesskey              "T">
-<!ENTITY session.label                "Engedélyezés a munkamenetben">
-<!ENTITY session.accesskey            "m">
+
+
 <!ENTITY allow.label                  "Engedélyezés">
 <!ENTITY allow.accesskey              "E">
 <!ENTITY windowClose.key              "w">
 
-<!ENTITY button.close.label           "Bezárás">
-<!ENTITY button.close.accesskey       "B">
+
+
+
 
