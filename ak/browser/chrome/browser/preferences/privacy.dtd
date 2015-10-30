@@ -42,7 +42,6 @@
 
 <!ENTITY  expire.label                  "bere a wɔbetwa mu">
 <!ENTITY  close.label                   "bere a me to &brandShortName; mu">
-<!ENTITY  askEachTime.label             "bisa me abere biara">
 
 <!ENTITY  cookieExceptions.label        "Ngyegye…">
 <!ENTITY  cookieExceptions.accesskey    "e">
