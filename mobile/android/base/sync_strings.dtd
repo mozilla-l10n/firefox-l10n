@@ -224,13 +224,13 @@
 <!ENTITY fxaccount_status_linkprivacy "Politica de confidențialitate">
 <!ENTITY fxaccount_status_more "Mai multe&ellipsis;">
 
+
 <!ENTITY fxaccount_remove_account_dialog_title "Elimini contul Firefox?">
 <!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; va opri sincronizarea cu contul, dar nu va șterge niciuna din datele de navigare de pe acest dispozitiv.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "Contul Firefox &formatS; eliminat.">
 
-<!ENTITY fxaccount_remove_account_menu_item "Elimină contul">
 <!ENTITY fxaccount_enable_debug_mode "Intră în modul depanare">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
