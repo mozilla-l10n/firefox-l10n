@@ -176,4 +176,11 @@ functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "ssl_error_unsupported_version". -->
 <!ENTITY sslv3Used.longDesc "Inkcazelo esele iqhubele phambili: ssl_impazamo_inguqulelo_engaxhaswayo">
-<!ENTITY sslv3Used.learnMore "Funda okungakumbi…">
+
+
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
+     "ssl_error_no_cypher_overlap". -->
+
+
+
+
