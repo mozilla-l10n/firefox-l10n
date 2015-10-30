@@ -189,29 +189,34 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Argraffu">
 <!ENTITY printButton.tooltip          "Argraffu'r dudalen">
 
+<!ENTITY urlbar.viewSiteInfo.label                      "Gweld manylion y wefan">
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
+<!ENTITY urlbar.defaultNotificationAnchor.label         "Gweld hysbysiad">
+<!ENTITY urlbar.geolocationNotificationAnchor.label     "Gweld y cais lleoliad">
+<!ENTITY urlbar.addonsNotificationAnchor.label          "Gweld y neges gosod ychwanegyn">
+<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Gweld y neges cadw ap all-lein">
+<!ENTITY urlbar.loginFillNotificationAnchor.label       "Rheoli eich manylion mewngofnodi">
+<!ENTITY urlbar.passwordNotificationAnchor.label        "Gwirio os ydych am gadw eich cyfrinair">
+<!ENTITY urlbar.webappsNotificationAnchor.label         "Gweld y neges gosod ap">
+<!ENTITY urlbar.pluginsNotificationAnchor.label         "Rheoli defnydd ategyn ar y dudalen hon">
+<!ENTITY urlbar.webNotsNotificationAnchor.label         "Newid os yw'r wefan yn gallu dangos hysbysiadau">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Rheoli rhannu eich camera a/neu feicroffon gyda'r wefan">
+<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Rydych yn rhannu eich camera a/neu eich meicroffon gyda'r wefan">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Rheoli rhannu eich meicroffon gyda'r wefan">
+<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Rydych yn rhannu eich meicroffon gyda'r wefan">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Rheoli rhannu eich ffenestri neu sgrin gyda'r wefan">
+<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Rydych yn rhannu eich ffenestr neu sgrin gyda'r wefan">
 
+<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Newid p'un ai gall y wefan guddio'r pwyntydd">
+<!ENTITY urlbar.servicesNotificationAnchor.label        "Gweld neges gosod gwasanaeth">
+<!ENTITY urlbar.translateNotificationAnchor.label       "Cyfieithu'r dudalen hon">
+<!ENTITY urlbar.translatedNotificationAnchor.label      "Rheoli cyfieithu tudalennau">
+<!ENTITY urlbar.emeNotificationAnchor.label             "Rheoli'r defnydd o feddalwedd DRM">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY urlbar.openHistoryPopup.tooltip                "Dangos hanes">
 
 <!ENTITY searchItem.title             "Chwilio">
 <!-- Toolbar items --> 
@@ -252,8 +257,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.commandkey            "Y">
 <!ENTITY webapps.label                "Apiau">
 <!ENTITY webapps.accesskey            "p">
-
-
+<!ENTITY loopMenuItem.label           "Cychwyn sgwrs…">
+<!ENTITY loopMenuItem.accesskey       "y">
 
 <!ENTITY webDeveloperMenu.label       "Datblygwr Gwe">
 <!ENTITY webDeveloperMenu.accesskey   "D">
@@ -331,16 +336,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Ffeil"> 
 <!ENTITY fileMenu.accesskey       "F">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY newUserContext.label             "Tab Cynhwysydd Newydd">
+<!ENTITY newUserContext.accesskey         "y">
+<!ENTITY userContextPersonal.label        "Personol">
+<!ENTITY userContextPersonal.accesskey    "P">
+<!ENTITY userContextWork.label            "Gwaith">
+<!ENTITY userContextWork.accesskey        "G">
+<!ENTITY userContextBanking.label         "Bancio">
+<!ENTITY userContextBanking.accesskey     "B">
+<!ENTITY userContextShopping.label        "Siopa">
+<!ENTITY userContextShopping.accesskey    "S">
 <!ENTITY newNavigatorCmd.label        "Ffenestr Newydd">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">

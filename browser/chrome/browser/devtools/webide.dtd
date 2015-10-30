@@ -137,8 +137,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "Gosod bracedi cau yn awtomatig">
 <!ENTITY prefs_options_keybindings "Rhwymwyr allwedd">
 <!ENTITY prefs_options_keybindings_default "Rhagosodiad">
-
-
+<!ENTITY prefs_options_autosavefiles "Awtogadw ffeiliau">
+<!ENTITY prefs_options_autosavefiles_tooltip "Awtogadw ffeiliau wedi eu golygu cyn rhedeg project">
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "Tabl Caniatâd">

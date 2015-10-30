@@ -36,6 +36,8 @@
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the details view while the profiler is unavailable, for example, while
   -  in Private Browsing mode. -->
+
+<!ENTITY performanceUI.unavailableNoticePB "Nid yw recordio proffil ar gael ar hyn o bryd. Caewch bob ffenestr pori breifat a cheisio eto.">
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the details view while loading a profile. -->
 

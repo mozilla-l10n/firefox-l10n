@@ -103,5 +103,5 @@
 <!ENTITY clearOutputCtrl.key  "L">
 <!ENTITY openInVarViewCmd.label "Agor yn Ngolwg Newidiolion">
 <!ENTITY openInVarViewCmd.accesskey "N">
-
-
+<!ENTITY storeAsGlobalVar.label "Cadw fel amrywiolyn eang">
+<!ENTITY storeAsGlobalVar.accesskey "C">
