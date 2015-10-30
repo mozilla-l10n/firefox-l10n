@@ -137,6 +137,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "Holgu daabuyan dam nga boŋ se">
 <!ENTITY prefs_options_keybindings "Kufalhawarey">
 <!ENTITY prefs_options_keybindings_default "Tilasu">
+
+
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "Duɲeyaney daaroo">

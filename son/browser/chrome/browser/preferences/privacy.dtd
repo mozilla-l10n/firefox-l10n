@@ -47,7 +47,6 @@
 
 <!ENTITY  expire.label                  "ngi waatoo ga ben">
 <!ENTITY  close.label                   "Ay ga &brandShortName; daabu">
-<!ENTITY  askEachTime.label             "ay hãa waati kul">
 
 <!ENTITY  cookieExceptions.label        "Hasarawey…">
 <!ENTITY  cookieExceptions.accesskey    "H">
