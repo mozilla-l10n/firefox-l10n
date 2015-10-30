@@ -45,7 +45,6 @@
 
 <!ENTITY  expire.label                  "chúng hết hạn">
 <!ENTITY  close.label                   "tôi thoát &brandShortName;">
-<!ENTITY  askEachTime.label             "hỏi tôi mỗi lần">
 
 <!ENTITY  cookieExceptions.label        "Ngoại trừ…">
 <!ENTITY  cookieExceptions.accesskey    "N">
