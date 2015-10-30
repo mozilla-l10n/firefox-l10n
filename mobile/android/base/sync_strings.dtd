@@ -224,13 +224,13 @@
 <!ENTITY fxaccount_status_linkprivacy "Zdźělenka priwatnosće">
 <!ENTITY fxaccount_status_more "Wjace&ellipsis;">
 
+
 <!ENTITY fxaccount_remove_account_dialog_title "Konto Firefox wotstronić?">
 <!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; přesta waše konto synchronizować, ale njezhaša waše přehladowanske daty na tutym graće.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "&formatS; konta Firefox wotstronjeny.">
 
-<!ENTITY fxaccount_remove_account_menu_item "Konto wotstronić">
 <!ENTITY fxaccount_enable_debug_mode "Modus pytanja zmylkow zmóžnić">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
