@@ -137,6 +137,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "Insere automaticamente o fecho dos parênteses">
 <!ENTITY prefs_options_keybindings "Associação de teclas">
 <!ENTITY prefs_options_keybindings_default "Pré-definido">
+
+
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "Tabela de permissões">
