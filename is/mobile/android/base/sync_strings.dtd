@@ -224,13 +224,13 @@
 <!ENTITY fxaccount_status_linkprivacy "Meðferð persónuupplýsinga ">
 <!ENTITY fxaccount_status_more "Meira&ellipsis;">
 
+
 <!ENTITY fxaccount_remove_account_dialog_title "Fjarlægja Firefox reikning">
 <!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; mun hætta að synca reikning þinn en mun ekki eyða neinum vafragögnum af þessu tæki.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "Firefox reikningur &formatS; fjarlægður.">
 
-<!ENTITY fxaccount_remove_account_menu_item "Fjarlægja aðgang">
 <!ENTITY fxaccount_enable_debug_mode "Virkja kembu ham">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
