@@ -4,6 +4,14 @@
 
 <!ENTITY  blockPopups.label           "ფირნიშების დაბლოკვა">
 <!ENTITY  blockPopups.accesskey       "B">
+
+
+
+
+
+
+
+
 <!ENTITY  popupExceptions.label       "გამონაკლისები…">
 <!ENTITY  popupExceptions.accesskey   "E">
 
