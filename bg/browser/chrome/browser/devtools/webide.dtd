@@ -137,6 +137,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "Автоматично вмъкване на затваряща скоба">
 <!ENTITY prefs_options_keybindings "Клавишни комбинации">
 <!ENTITY prefs_options_keybindings_default "Стандартно">
+
+
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "Таблица на правата">

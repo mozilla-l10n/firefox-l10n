@@ -189,7 +189,30 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Отпечатване">
 <!ENTITY printButton.tooltip          "Отпечатване на тази страница">
 
-<!ENTITY locationItem.title           "Адрес">
+<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
+     used to provide accessible labels to users of assistive technology like screenreaders.
+     It is not possible to see them visually in the UI. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY searchItem.title             "Търсене">
 <!-- Toolbar items --> 
 
@@ -229,6 +252,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.commandkey            "A">
 <!ENTITY webapps.label                "Приложения">
 <!ENTITY webapps.accesskey            "П">
+
+
 
 <!ENTITY webDeveloperMenu.label       "Уеб разработчик">
 <!ENTITY webDeveloperMenu.accesskey   "У">
@@ -288,8 +313,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Затваряне на развойната лента">
 <!ENTITY devToolbarMenu.label              "Развойна лента">
 <!ENTITY devToolbarMenu.accesskey          "Р">
-<!ENTITY devAppMgrMenu.label               "Управление на приложения">
-<!ENTITY devAppMgrMenu.accesskey           "У">
 <!ENTITY webide.label                      "WebIDE">
 <!ENTITY webide.accesskey                  "W">
 <!ENTITY webide.keycode                    "VK_F8">
@@ -308,6 +331,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Файл"> 
 <!ENTITY fileMenu.accesskey       "Ф">
+
+
+
+
+
+
+
+
+
+
 <!ENTITY newNavigatorCmd.label        "Нов прозорец">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "п">
