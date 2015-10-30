@@ -6,7 +6,7 @@
 <!ENTITY header2.label "Voleu una adreça electrònica nova?">
 <!ENTITY other.languages "Només s'estan mostrant els proveïdors que ofereixen adreces a la vostra regió.  Feu clic aquí per mostrar tots els proveïdors.">
 <!ENTITY error.line1 "No s'ha pogut suggerir cap adreça electrònica.">
-<!ENTITY error.line2 "Podeu provar de cercar noms o pseudònims per trobar més adreces electròniques">
+
 <!-- LOCALIZATION NOTE(error.suggest.before, error.suggest.middle, error.suggest.after):
      error.suggest.before, error.suggest.middle, and error.suggest.after all go into
      one line with error.suggest.middle that links to a site which provides download
