@@ -223,6 +223,7 @@
 <!ENTITY fxaccount_status_linktos 'Tjenestevilkår'>
 <!ENTITY fxaccount_status_linkprivacy 'Privatlivspolitik'>
 <!ENTITY fxaccount_status_more 'Læs mere&ellipsis;'>
+<!ENTITY fxaccount_remove_account 'Afbryd&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title 'Fjern Firefox-konto?'>
 <!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; vil ikke længere synkronisere med din konto, men vil ikke slette dine data på denne enhed.'>
@@ -230,7 +231,6 @@
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast 'Firefox-kontoen &formatS; er fjernet.'>
 
-<!ENTITY fxaccount_remove_account_menu_item 'Fjern konto'>
 <!ENTITY fxaccount_enable_debug_mode 'Aktiver debug Mode'>
 
 <!-- Localization note: this is the name shown by the Android system
