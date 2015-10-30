@@ -13,10 +13,11 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "Məxfi Səyahətdə deyilsiz">
 
-<!ENTITY privatebrowsingpage.description.private4 "&brandShortName; izlənmənizin qarşısını alacaq və heç bir tarixçə tutmayacaq, amma endirdiyiniz fayllar və yeni əlfəcinlər cihazınızda saxlanılacaq.">
+
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
+
 <!ENTITY privatebrowsingpage.description.normal2 "Məxfi Səyahətdə heç bir səyahət tarixçənizi və ya çərəzləri tutmuruq. Əlavə etdiyiniz əlfəcinlər və endirdiyiniz fayllar yenə də cihazınızda saxlanılacaq.">
 
 <!ENTITY privatebrowsingpage.link.private "Ətraflı öyrənmək istərdiniz?">

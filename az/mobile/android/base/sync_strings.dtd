@@ -224,13 +224,13 @@
 <!ENTITY fxaccount_status_linkprivacy "Məxfilik Bildirişi">
 <!ENTITY fxaccount_status_more "Daha çox&ellipsis;">
 
+
 <!ENTITY fxaccount_remove_account_dialog_title "Firefox Hesabı silinsin?">
 <!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; sizin hesabla sinxronlaşdırmanı dayandıracaq, amma bu cihazda olan heç bir səyahət məlumatınızı silməyəcək.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "Firefox Hesabı &formatS; silindi.">
 
-<!ENTITY fxaccount_remove_account_menu_item "Hesabı sil">
 <!ENTITY fxaccount_enable_debug_mode "Sazlama Modunu aktivləşdir">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
