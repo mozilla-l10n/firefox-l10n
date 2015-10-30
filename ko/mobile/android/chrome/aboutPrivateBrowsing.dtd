@@ -13,7 +13,9 @@
       term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "사생활 보호모드가 아닙니다">
 
-<!ENTITY privatebrowsingpage.description.private3 "Firefox는 여러분들이 추적 받지 않도록 하며 어떠한 기록도 남기지 않습니다. 다만, 다운로드 받은 파일이나 추가한 북마크는 기기에 저장됩니다.">
+<!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName;는 웹 브라우징 활동을 추적하는 페이지들을 차단합니다.">
+<!ENTITY privatebrowsingpage.description.privateDetails "어떠한 기록도 남기지 않습니다. 다만, 다운로드 받은 파일이나 추가한 북마크는 기기에 저장됩니다.">
+
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
       Browsing" is capitalized in English to be consistent with our existing uses
       of the term. -->
