@@ -47,7 +47,6 @@
 
 <!ENTITY  expire.label                  "ते कालबाह्य होतात">
 <!ENTITY  close.label                   "मी &brandShortName; बंद करतो">
-<!ENTITY  askEachTime.label             "मला दरवेळी विचारा">
 
 <!ENTITY  cookieExceptions.label        "अपवाद…">
 <!ENTITY  cookieExceptions.accesskey    "E">
