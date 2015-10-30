@@ -146,13 +146,11 @@
      are found. -->
 <!ENTITY overlay_no_synced_devices "Aucun appareil connecté au compte Firefox trouvé">
 
-<!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
-     to send a tab to a synced device is pressed and there is an error
-     connecting to the server so the tab could not be sent. The text should be
-     divided into two lines (use the newline escape character, "\n", between
-     them): the first notifying the user about the failure and the second
-     telling the user what to do about it. -->
-<!ENTITY overlay_share_tab_not_sent "Votre onglet n\u0027a pas pu être envoyé.\nVeuillez réessayer plus tard.">
+<!-- Localization note (menu_no_synced_devices): Used in a toast when the user
+     clicks on the button to send a tab to another device and there are no
+     other devices present. This label should briefly inform the user that they
+     need another connected device in order to use the feature. -->
+<!ENTITY menu_no_synced_devices "Envoyer cet onglet à un autre appareil connecté">
 
 <!ENTITY pref_category_search3 "Recherche">
 <!ENTITY pref_category_search_summary "Personnaliser les moteurs de recherche">
@@ -595,6 +593,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Connexion sécurisée">
 <!ENTITY identity_connection_insecure "Connexion non sécurisée">
+<!ENTITY identity_login_insecure "Cette page n\u0027est pas sécurisée et votre identifiant pourrait être vulnérable.">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; a bloqué du contenu non sécurisé sur cette page.">
@@ -753,8 +752,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarks_addons "Firefox : personnalisation avec des modules">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
 <!ENTITY bookmarks_support "Firefox : assistance">
-<!-- LOCALIZATION NOTE (bookmarks_marketplace): link title for https://marketplace.firefox.com -->
-<!ENTITY bookmarks_marketplace "Firefox Marketplace">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!ENTITY bookmarks_restricted_support2 "Aide et assistance de Firefox pour les profils restreints sur les tablettes Android">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker): link title for https://webmaker.org -->

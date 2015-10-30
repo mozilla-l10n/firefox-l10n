@@ -103,3 +103,5 @@
 
 <!ENTITY openInVarViewCmd.label "Ouvrir dans la vue des variables">
 <!ENTITY openInVarViewCmd.accesskey "v">
+<!ENTITY storeAsGlobalVar.label "Stocker en tant que variable globale">
+<!ENTITY storeAsGlobalVar.accesskey "S">

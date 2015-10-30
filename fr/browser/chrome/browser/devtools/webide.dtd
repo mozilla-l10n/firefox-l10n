@@ -137,6 +137,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "Insérer automatiquement les parenthèses et les accolades fermantes">
 <!ENTITY prefs_options_keybindings "Raccourcis clavier">
 <!ENTITY prefs_options_keybindings_default "Par défaut">
+<!ENTITY prefs_options_autosavefiles "Enregistrements automatiques">
+<!ENTITY prefs_options_autosavefiles_tooltip "Enregistrer automatiquement les fichiers modifiés avant d'exécuter le projet">
 
 <!-- Permissions Table -->
 <!ENTITY permissionstable_title "Tableau des permissions">
