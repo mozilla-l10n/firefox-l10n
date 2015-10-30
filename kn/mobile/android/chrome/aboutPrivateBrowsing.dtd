@@ -13,9 +13,11 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "ನೀವು ಖಾಸಗಿ ಜಾಲಾಟದಲ್ಲಿ ಇಲ್ಲ.">
 
+
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
+
 <!ENTITY privatebrowsingpage.description.normal2 "ಖಾಸಗಿ ವೀಕ್ಷಣೆಯಲ್ಲಿ, ನಾವು ನಿಮ್ಮ ಯಾವುದೆ ಜಾಲವೀಕ್ಷಣಾ ಇತಿಹಾಸ ಅಥವಾ ಕುಕಿಗಳನ್ನು ಉಳಿಸಿಕೊಳ್ಳುವುದಿಲ್ಲ. ನೀವು ಸೇರಿಸಿದ ಪುಟಗುರುತುಗಳನ್ನು ಮತ್ತು ನೀವು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿಕೊಂಡ ಕಡತಗಳನ್ನು ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿ ಉಳಿಸಿಕೊಳ್ಳಲಾಗುತ್ತದೆ.">
 
 <!ENTITY privatebrowsingpage.link.private "ಹೆಚ್ಚಿನದನ್ನು ಕಲಿಯಬೇಕೆ?">
