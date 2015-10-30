@@ -19,6 +19,7 @@
 <!ENTITY smtpListSetDefault.label "Gosod y Rhagosodiad">
 <!ENTITY smtpListSetDefault.accesskey "R">
 
+<!ENTITY serverDetails.label "Manylion y gweinydd hwn:">
 <!ENTITY serverDescription.label "Disgrifiad: ">
 <!ENTITY serverName.label "Enw'r Gweinydd: ">
 <!ENTITY serverPort.label "Porth: ">
