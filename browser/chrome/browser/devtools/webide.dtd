@@ -136,6 +136,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "మూసివేత బ్రాకెట్లు స్వయంచాలకంగా చొప్పించును">
 <!ENTITY prefs_options_keybindings "కీబైండిగ్లు">
 <!ENTITY prefs_options_keybindings_default "అప్రమేయ">
+
+
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "అనుమతుల పట్టిక">
