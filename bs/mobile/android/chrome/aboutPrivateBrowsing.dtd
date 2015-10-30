@@ -13,9 +13,11 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "Niste u privatnom surfanju">
 
+
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
+
 <!ENTITY privatebrowsingpage.description.normal2 "Kada surfate privatno ne pamtimo historiju vašeg surfanja niti kolačiće. Zabilješke koje dodate i fajlovi koje preuzmete će i dalje biti spašeni na vaš uređaj.">
 
 <!ENTITY privatebrowsingpage.link.private "Želite li saznati više?">
