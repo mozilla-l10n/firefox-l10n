@@ -146,6 +146,8 @@
      which we should refuse to flex below.  When we hit this size, the buttons
      with labels will have their labels collapsed.
      -->
+
+<!ENTITY quickFilterBar.textbox.minWidth "۲۸۰">
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.explanation.label):
      This label explains what the sender/recipients/subject/body buttons do.
      This string should ideally be kept short because the label and the text
