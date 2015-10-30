@@ -6,6 +6,14 @@
 
 <!ENTITY  blockPopups.label           "પોપ-અપ વિન્ડો અટકાવો">
 <!ENTITY  blockPopups.accesskey       "B">
+
+
+
+
+
+
+
+
 <!ENTITY  popupExceptions.label       "અપવાદો...">
 <!ENTITY  popupExceptions.accesskey   "E">
 
