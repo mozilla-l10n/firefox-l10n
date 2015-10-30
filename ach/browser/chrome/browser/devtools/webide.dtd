@@ -137,6 +137,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "Ket bracket ma loro pire kene">
 <!ENTITY prefs_options_keybindings "Twec mapire tek">
 <!ENTITY prefs_options_keybindings_default "Makwongo">
+
+
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "Meca me twero">
