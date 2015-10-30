@@ -6,6 +6,8 @@
 
 <!ENTITY  blockPopups.label           "Блокувати виринаючі вікна">
 <!ENTITY  blockPopups.accesskey       "Б">
+
+
 <!ENTITY  popupExceptions.label       "Винятки…">
 <!ENTITY  popupExceptions.accesskey   "В">
 

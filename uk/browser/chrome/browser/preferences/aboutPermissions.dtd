@@ -41,7 +41,6 @@
 
 <!ENTITY popup.label                     "Відкривати виринаючі вікна">
 
-<!ENTITY push.label                      "Отримувати Push-сповіщення">
 <!ENTITY camera.label                    "Використовувати камеру">
 <!ENTITY microphone.label                "Використовувати мікрофон">
 
