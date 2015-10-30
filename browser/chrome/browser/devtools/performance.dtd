@@ -30,7 +30,10 @@
 
 <!ENTITY performanceUI.bufferStatusFull "ಬಫರ್ ತುಂಬಿದೆ. ಹಳೆಯ ನಮೂನೆಗಳ ಮೇಲೆ ಈಗ ಬರೆಯಲಾಗುತ್ತದೆ.">
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
-  -  in the call list view while loading a profile. -->
+  -  in the details view while the profiler is unavailable, for example, while
+  -  in Private Browsing mode. -->
+<!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
+  -  in the details view while loading a profile. -->
 
 <!ENTITY performanceUI.loadingNotice "ಲೋಡ್‌ ಆಗುತ್ತಿದೆ…">
 <!-- LOCALIZATION NOTE (performanceUI.recordButton): This string is displayed

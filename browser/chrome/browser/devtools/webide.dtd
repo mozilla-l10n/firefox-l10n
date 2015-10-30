@@ -137,6 +137,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "ಮುಚ್ಚುವ ಆವರಣ ಚಿಹ್ನೆಗಳನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಸೇರಿಸು">
 <!ENTITY prefs_options_keybindings "ಕೀಲಿಬೈಂಡಿಂಗ್‌ಗಳು">
 <!ENTITY prefs_options_keybindings_default "ಪೂರ್ವನಿಯೋಜಿತ">
+
+
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "ಅನುಮತಿಗಳ ಕೋಷ್ಟಕ">
