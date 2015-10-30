@@ -137,6 +137,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "बन्द जानाय ब्रेकेटखौ गावनो गाव महरै सोसन">
 <!ENTITY prefs_options_keybindings "किबाइन्डिं">
 <!ENTITY prefs_options_keybindings_default "डिफल्ट">
+
+
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "गनायथि फारिलाइ">

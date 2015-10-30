@@ -45,7 +45,6 @@
 
 <!ENTITY  expire.label                  "बेफोर रुंसारि जाबाय">
 <!ENTITY  close.label                   "&brandShortName; खौ आं बन्द' खालामबाय">
-<!ENTITY  askEachTime.label             "जेब्लाबो समाव आंनाव सों">
 
 <!ENTITY  cookieExceptions.label        "Exceptions…">
 <!ENTITY  cookieExceptions.accesskey    "E">
