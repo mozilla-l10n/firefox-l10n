@@ -6,6 +6,14 @@
 
 <!ENTITY  blockPopups.label           "Bloca les finestres emergents">
 <!ENTITY  blockPopups.accesskey       "B">
+
+
+
+
+
+
+
+
 <!ENTITY  popupExceptions.label       "Excepcions…">
 <!ENTITY  popupExceptions.accesskey   "E">
 

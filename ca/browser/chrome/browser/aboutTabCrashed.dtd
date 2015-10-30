@@ -5,6 +5,11 @@
 <!ENTITY tabCrashed.header "Males notícies: aquesta pestanya ha fallat">
 <!ENTITY tabCrashed.message "La bona notícia és que podeu tancar aquesta pestanya, restaurar-la o restaurar totes les pestanyes que han fallat.">
 <!ENTITY tabCrashed.sendReport "Envia un informe de fallada per ajudar a resoldre el problema">
+
+
+
+
+
 <!ENTITY tabCrashed.reportSent "Ja s'ha enviat l'informe de fallada. Gràcies per ajudar a millorar el &brandShortName;.">
 <!ENTITY tabCrashed.closeTab "Tanca aquesta pestanya">
 <!ENTITY tabCrashed.restoreTab "Restaura aquesta pestanya">
