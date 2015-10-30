@@ -137,6 +137,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "آٹومیٹیکلی کْریو انسأرٹ کولوزینگ بریکیٹ">
 <!ENTITY prefs_options_keybindings "کی باینڈینگ">
 <!ENTITY prefs_options_keybindings_default "ڈیفالٹ">
+
+
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "اجازت ٹیبْل">
