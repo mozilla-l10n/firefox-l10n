@@ -28,8 +28,8 @@
 <!ENTITY addToUserDictionaryButton.accessKey "j">
 <!ENTITY editUserDictionaryButton.label "Modifier…">
 <!ENTITY editUserDictionaryButton.accessKey "M">
-<!ENTITY recheckButton.label "Revérifier">
-<!ENTITY recheckButton.accessKey "v">
+<!ENTITY recheckButton2.label "Revérifier">
+<!ENTITY recheckButton2.accessKey "v">
 <!ENTITY closeButton.label "Fermer">
 <!ENTITY closeButton.accessKey "F">
 <!ENTITY sendButton.label "Envoyer">
