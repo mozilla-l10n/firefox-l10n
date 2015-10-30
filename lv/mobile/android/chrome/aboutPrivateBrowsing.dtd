@@ -13,10 +13,11 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "Jūs neatrodaties privātajā pārlūkošanas režīmā">
 
-<!ENTITY privatebrowsingpage.description.private4 "&brandShortName; rūpēsies, lai jūs nevarētu izsekot un neatcerēsies apmeklēto lapu vēsturi, taču lejupielādētie faili un jaunās grāmatzīmes tiks saglabāti jūsu ierīcē.">
+
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
+
 <!ENTITY privatebrowsingpage.description.normal2 "Privātajā pārlūkošanas režīmā mēs neatcerēsimies apmeklēto lapu vēsturi un sīkdatnes. Lejupielādētie faili un jaunās grāmatzīmes tiks saglabāti jūsu ierīcē. ">
 
 <!ENTITY privatebrowsingpage.link.private "Gribat zināt vairāk?">
