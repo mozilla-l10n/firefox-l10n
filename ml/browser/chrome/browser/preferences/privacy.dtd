@@ -42,7 +42,6 @@
 
 <!ENTITY  expire.label                  "അവയുടെ കാലാവധി കഴിയും വരെ">
 <!ENTITY  close.label                   "&brandShortName; അടയ്ക്കുന്നു ">
-<!ENTITY  askEachTime.label             "എപ്പോഴും ചോദിക്കുക">
 
 <!ENTITY  cookieExceptions.label        "വിട്ടുവീഴ്ചകള്‍">
 <!ENTITY  cookieExceptions.accesskey    "E">
