@@ -224,13 +224,12 @@
 <!ENTITY fxaccount_status_linkprivacy "ကိုယ်ရေးကိုယ်တာဆိုင်ရာ အသိပေးချက်">
 <!ENTITY fxaccount_status_more "နောက်&ellipsis;">
 
+
 <!ENTITY fxaccount_remove_account_dialog_title "မီးမြေခွေးအကောင့်အားဖယ်ပြီး?">
 <!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; သင့်အကောင့်အား ချိတ်ဆက်ခြင်း ရပ်တန့်သွားမည် ဖြစ်သှ်။ သင်၏ ဘယောက်ဆာ အချက်အလက်များအား ဖျက်ပစ်မည်မဟုတ်ပါ">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "မီးမြေခွေးအကောင့် &formatS; ဖယ်ရှားပြီး">
-
-<!ENTITY fxaccount_remove_account_menu_item "အကောင့် ပယ်ဖျက်ရန်">
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
