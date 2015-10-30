@@ -137,6 +137,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "Kapatma parantezlerini otomatik ekle">
 <!ENTITY prefs_options_keybindings "Tuş kısayolları">
 <!ENTITY prefs_options_keybindings_default "Varsayılan">
+
+
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "İzin tablosu">

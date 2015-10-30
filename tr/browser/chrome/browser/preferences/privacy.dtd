@@ -47,7 +47,6 @@
 
 <!ENTITY  expire.label                  "süresi dolana dek">
 <!ENTITY  close.label                   "&brandShortName; kapatılana dek">
-<!ENTITY  askEachTime.label             "her seferinde bana sor">
 
 <!ENTITY  cookieExceptions.label        "Ayrıcalıklar…">
 <!ENTITY  cookieExceptions.accesskey    "r">
