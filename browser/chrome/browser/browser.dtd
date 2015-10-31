@@ -210,11 +210,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Administrar el compartir tus ventanas o pantalla con el sitio">
 <!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Estás compartiendo una ventana o tu pantalla con el sitio">
 
+<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Cambiar si el sitio puede ocultar el puntero">
+<!ENTITY urlbar.servicesNotificationAnchor.label        "Ver el mensaje de instalación del servicio">
+<!ENTITY urlbar.translateNotificationAnchor.label       "Traducir esta página">
+<!ENTITY urlbar.translatedNotificationAnchor.label      "Administrar traducción de la página">
+<!ENTITY urlbar.emeNotificationAnchor.label             "Administrar uso de software DRM">
 
-
-
-
-
+<!ENTITY urlbar.openHistoryPopup.tooltip                "Mostrar historial">
 
 <!ENTITY searchItem.title             "Buscar">
 <!-- Toolbar items --> 
@@ -255,8 +257,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.commandkey            "A">
 <!ENTITY webapps.label                "Aplicaciones">
 <!ENTITY webapps.accesskey            "p">
-
-
+<!ENTITY loopMenuItem.label           "Iiniciar una conversación…">
+<!ENTITY loopMenuItem.accesskey       "i">
 
 <!ENTITY webDeveloperMenu.label       "Desarrollador Web">
 <!ENTITY webDeveloperMenu.accesskey   "W">
@@ -334,16 +336,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Archivo"> 
 <!ENTITY fileMenu.accesskey       "A">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY newUserContext.label             "Nueva pestaña contenedora">
+<!ENTITY newUserContext.accesskey         "c">
+<!ENTITY userContextPersonal.label        "Personal">
+<!ENTITY userContextPersonal.accesskey    "P">
+<!ENTITY userContextWork.label            "Trabajar">
+<!ENTITY userContextWork.accesskey        "T">
+<!ENTITY userContextBanking.label         "Banca">
+<!ENTITY userContextBanking.accesskey     "B">
+<!ENTITY userContextShopping.label        "Comprar">
+<!ENTITY userContextShopping.accesskey    "C">
 <!ENTITY newNavigatorCmd.label        "Nueva ventana">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
