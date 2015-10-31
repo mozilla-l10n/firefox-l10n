@@ -4,7 +4,7 @@
 
 <!ENTITY tracking.label                 "Monitorização da navegação">
 
-<!ENTITY dntTrackingNotOkay4.label     "Pedir aos sítios para não monitorizarem a sua navegação">
+<!ENTITY dntTrackingNotOkay4.label     "Pedir aos sites para não monitorizarem a sua navegação">
 <!ENTITY dntTrackingNotOkay4.accesskey "n">
 <!ENTITY doNotTrackInfo.label          "Saber mais">
 <!ENTITY trackingProtection5.label     "Utilizar proteção de monitorização">
@@ -33,7 +33,7 @@
 <!ENTITY  suggestionSettings.label      "Alterar preferências das sugestões do motores de pesquisa…">
 <!ENTITY  suggestionSettings.accesskey  "g">
 
-<!ENTITY  acceptCookies.label           "Aceitar cookies dos sítios">
+<!ENTITY  acceptCookies.label           "Aceitar cookies dos sites">
 <!ENTITY  acceptCookies.accesskey       "A">
 
 <!ENTITY  acceptThirdParty.pre.label      "Aceitar cookies de terceiros:">
