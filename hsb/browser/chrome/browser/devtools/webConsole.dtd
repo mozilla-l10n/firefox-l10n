@@ -103,5 +103,5 @@
 <!ENTITY clearOutputCtrl.key  "L">
 <!ENTITY openInVarViewCmd.label "W napohledźe wariablow wočinić">
 <!ENTITY openInVarViewCmd.accesskey "r">
-
-
+<!ENTITY storeAsGlobalVar.label "Jako globalnu wariablu składować">
+<!ENTITY storeAsGlobalVar.accesskey "J">
