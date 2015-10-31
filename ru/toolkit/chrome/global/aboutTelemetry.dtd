@@ -73,3 +73,6 @@
 <!ENTITY aboutTelemetry.filterText "
   Фильтр (строковый или /regexp/)
 ">
+<!ENTITY aboutTelemetry.payloadChoiceHeader "
+  Нагрузка
+">
