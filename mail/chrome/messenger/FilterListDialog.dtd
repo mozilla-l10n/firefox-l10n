@@ -34,7 +34,7 @@
 <!ENTITY folderPickerPrefix.accesskey "λ">
 <!ENTITY helpButton.label "Βοήθεια">
 <!ENTITY helpButton.accesskey "Β">
-<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.key "W"> 
 <!ENTITY searchBox.emptyText "Search filters by name…">
 
 
