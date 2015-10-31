@@ -189,9 +189,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Баспаға шығару">
 <!ENTITY printButton.tooltip          "Ағымдағы бетті баспаға шығару">
 
+<!ENTITY urlbar.viewSiteInfo.label                      "Сайт ақпаратын қарау">
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
+<!ENTITY urlbar.defaultNotificationAnchor.label         "Хабарламаны қарау">
+<!ENTITY urlbar.geolocationNotificationAnchor.label     "Орналасу сұранымын қарау">
+<!ENTITY urlbar.addonsNotificationAnchor.label          "Қосымшаның орнатылу хабарламасын қарау">
+
+<!ENTITY urlbar.loginFillNotificationAnchor.label       "Логин ақпаратыңызды басқару">
 
 
 
@@ -204,14 +210,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+<!ENTITY urlbar.translateNotificationAnchor.label       "Бұл парақты аудару">
+<!ENTITY urlbar.translatedNotificationAnchor.label      "Бет аудармасын басқару">
+<!ENTITY urlbar.emeNotificationAnchor.label             "DRM БҚ қолдануын басқару">
 
-
-
-
-
-
-
-
+<!ENTITY urlbar.openHistoryPopup.tooltip                "Тарихты көрсету">
 
 <!ENTITY searchItem.title             "Іздеу">
 <!-- Toolbar items --> 
@@ -252,8 +255,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.commandkey            "a">
 <!ENTITY webapps.label                "Қолданбалар">
 <!ENTITY webapps.accesskey            "д">
-
-
+<!ENTITY loopMenuItem.label           "Сөйлесуді бастау…">
+<!ENTITY loopMenuItem.accesskey       "т">
 
 <!ENTITY webDeveloperMenu.label       "Веб өндіруші">
 <!ENTITY webDeveloperMenu.accesskey   "В">
@@ -333,10 +336,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "Ф">
 
 
-
-
-
-
+<!ENTITY userContextPersonal.label        "Жеке">
+<!ENTITY userContextPersonal.accesskey    "Ж">
+<!ENTITY userContextWork.label            "Жұмыс">
+<!ENTITY userContextWork.accesskey        "Ж">
 
 
 
