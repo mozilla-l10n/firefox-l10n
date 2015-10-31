@@ -219,8 +219,6 @@
 <!ENTITY devToolbarCloseButton.tooltiptext "Закрыть панель разработки">
 <!ENTITY devToolbarMenu.label "Панель разработки">
 <!ENTITY devToolbarMenu.accesskey "а">
-<!ENTITY devAppMgrMenu.label "Управление приложениями">
-<!ENTITY devAppMgrMenu.accesskey "в">
 <!ENTITY webide.label "WebIDE">
 <!ENTITY webide.accesskey "W">
 <!ENTITY webide.keycode "VK_F8">

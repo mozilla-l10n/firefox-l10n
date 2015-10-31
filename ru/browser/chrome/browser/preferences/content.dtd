@@ -6,7 +6,7 @@
 <!ENTITY blockPopups.label "Блокировать всплывающие окна">
 <!ENTITY blockPopups.accesskey "о">
 <!ENTITY notificationsPolicy.label "Уведомления">
-<!ENTITY notificationsPolicyDesc.label "Выберите, каким сайтам разрешено отображать уведомления">
+<!ENTITY notificationsPolicyDesc2.label "Выберите, каким сайтам разрешено отправлять уведомления">
 <!ENTITY notificationsPolicyButton.accesskey "а">
 <!ENTITY notificationsPolicyButton.label "Выбрать…">
 <!ENTITY notificationsDoNotDisturb.label "Не беспокоить">
