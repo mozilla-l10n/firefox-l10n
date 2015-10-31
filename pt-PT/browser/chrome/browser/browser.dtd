@@ -196,10 +196,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.label         "Ver uma notificação">
 <!ENTITY urlbar.geolocationNotificationAnchor.label     "Ver pedido de localização">
 <!ENTITY urlbar.addonsNotificationAnchor.label          "Ver mensagem de instalação de extras">
-
-
+<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Ver a mensagem de armazenamento offline de aplicações">
+<!ENTITY urlbar.loginFillNotificationAnchor.label       "Gerir as suas credenciais de início de sessão">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Selecione se pretende guardar a sua palavra-passe">
-
+<!ENTITY urlbar.webappsNotificationAnchor.label         "Ver a mensagem de instalação da aplicação">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Gerir utilização de plugins nesta página">
 <!ENTITY urlbar.webNotsNotificationAnchor.label         "Alterar se o sítio pode mostrar-lhe notificações">
 
