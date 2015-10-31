@@ -189,29 +189,34 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Imprimir">
 <!ENTITY printButton.tooltip          "Imprimir esta página">
 
+<!ENTITY urlbar.viewSiteInfo.label                      "Ver informações do sítio">
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
+<!ENTITY urlbar.defaultNotificationAnchor.label         "Ver uma notificação">
+<!ENTITY urlbar.geolocationNotificationAnchor.label     "Ver pedido de localização">
+<!ENTITY urlbar.addonsNotificationAnchor.label          "Ver mensagem de instalação de extras">
 
 
+<!ENTITY urlbar.passwordNotificationAnchor.label        "Selecione se pretende guardar a sua palavra-passe">
 
+<!ENTITY urlbar.pluginsNotificationAnchor.label         "Gerir utilização de plugins nesta página">
+<!ENTITY urlbar.webNotsNotificationAnchor.label         "Alterar se o sítio pode mostrar-lhe notificações">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Gerir a partilha da sua câmara e/ou microfone com o sítio">
+<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Está a partilhar a sua câmara e/ou microfone com este sítio">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Gerir a partilha do seu microfone com o sítio">
+<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Está a partilhar o seu microfone com este sítio">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Gerir a partilha das suas janelas ou ecrã com o sítio">
+<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Está a partilhar uma janela ou o ecrã com este sítio">
 
+<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Alterar se o sítio pode ocultar o ponteiro do rato">
+<!ENTITY urlbar.servicesNotificationAnchor.label        "Ver a mensagem de instalação de serviços">
+<!ENTITY urlbar.translateNotificationAnchor.label       "Traduzir esta página">
+<!ENTITY urlbar.translatedNotificationAnchor.label      "Gerir tradução de páginas">
+<!ENTITY urlbar.emeNotificationAnchor.label             "Gerir utilização de software DRM">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY urlbar.openHistoryPopup.tooltip                "Mostrar histórico">
 
 <!ENTITY searchItem.title             "Pesquisa">
 <!-- Toolbar items --> 
@@ -252,8 +257,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.commandkey            "A">
 <!ENTITY webapps.label                "Aplicações">
 <!ENTITY webapps.accesskey            "p">
-
-
+<!ENTITY loopMenuItem.label           "Iniciar uma conversa…">
+<!ENTITY loopMenuItem.accesskey       "v">
 
 <!ENTITY webDeveloperMenu.label       "Programador Web">
 <!ENTITY webDeveloperMenu.accesskey   "W">
@@ -333,14 +338,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "F">
 
 
-
-
-
-
-
-
-
-
+<!ENTITY userContextPersonal.label        "Pessoal">
+<!ENTITY userContextPersonal.accesskey    "P">
+<!ENTITY userContextWork.label            "Profissional">
+<!ENTITY userContextWork.accesskey        "o">
+<!ENTITY userContextBanking.label         "Bancos">
+<!ENTITY userContextBanking.accesskey     "B">
+<!ENTITY userContextShopping.label        "Compras">
+<!ENTITY userContextShopping.accesskey    "s">
 <!ENTITY newNavigatorCmd.label        "Nova janela">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
