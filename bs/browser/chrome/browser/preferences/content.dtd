@@ -7,12 +7,13 @@
 <!ENTITY  blockPopups.label           "Blokiraj pop-up prozore">
 <!ENTITY  blockPopups.accesskey       "B">
 
-
-
-
-
-
-
+<!ENTITY  notificationsPolicy.label            "Obavijesti">
+<!ENTITY  notificationsPolicyDesc2.label        "Izaberite koje stranice smiju primati obavijesti">
+<!ENTITY  notificationsPolicyButton.accesskey  "I">
+<!ENTITY  notificationsPolicyButton.label      "Izaberi…">
+<!ENTITY  notificationsDoNotDisturb.label      "Ne ometaj me">
+<!ENTITY  notificationsDoNotDisturb.accesskey  "N">
+<!ENTITY  notificationsDoNotDisturbDetails.value "Obavijesti neće biti prikazane dok ne restartujete &brandShortName;">
 
 <!ENTITY  popupExceptions.label       "Izuzeci…">
 <!ENTITY  popupExceptions.accesskey   "e">

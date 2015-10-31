@@ -137,8 +137,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "Automatski dodaj zatvarajuće zagrade">
 <!ENTITY prefs_options_keybindings "Kratice">
 <!ENTITY prefs_options_keybindings_default "Izvorno">
-
-
+<!ENTITY prefs_options_autosavefiles "Auto-spasi fajlove">
+<!ENTITY prefs_options_autosavefiles_tooltip "Automatski spašavaj izmijenjene fajlove prije pokretanja projekta">
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "Tablica dopuštenja">

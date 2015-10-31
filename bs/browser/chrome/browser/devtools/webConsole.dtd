@@ -103,5 +103,5 @@
 <!ENTITY clearOutputCtrl.key  "L">
 <!ENTITY openInVarViewCmd.label "Otvori u prikazu varijabli">
 <!ENTITY openInVarViewCmd.accesskey "v">
-
-
+<!ENTITY storeAsGlobalVar.label "Spremi kao globalnu varijablu">
+<!ENTITY storeAsGlobalVar.accesskey "S">

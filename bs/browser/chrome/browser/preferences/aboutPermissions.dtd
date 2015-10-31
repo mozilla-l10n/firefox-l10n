@@ -41,6 +41,7 @@
 
 <!ENTITY popup.label                     "Otvaraj pop-up prozore">
 
+<!ENTITY desktop-notification.label      "Prikaži obavijesti">
 <!ENTITY camera.label                    "Koristi kameru">
 <!ENTITY microphone.label                "Koristi mikrofon">
 
