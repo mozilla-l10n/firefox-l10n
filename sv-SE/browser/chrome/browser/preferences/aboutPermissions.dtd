@@ -41,6 +41,7 @@
 
 <!ENTITY popup.label                     "Öppna popup-fönster">
 
+<!ENTITY desktop-notification.label      "Visa aviseringar">
 <!ENTITY camera.label                    "Använda kameran">
 <!ENTITY microphone.label                "Använda mikrofonen">
 
