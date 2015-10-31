@@ -156,7 +156,7 @@
 <!ENTITY pref_category_privacy_short "Privacidade">
 <!ENTITY pref_category_privacy_summary2 "Controle credenciais, cookies, monitorização, dados">
 <!ENTITY pref_category_vendor "&vendorShortName;">
-<!ENTITY pref_category_vendor_summary "Sobre o &brandShortName;, FAQs, e escolhas de dados">
+<!ENTITY pref_category_vendor_summary "Acerca do &brandShortName;, das FAQs e das escolhas de dados">
 <!ENTITY pref_category_datareporting "Escolhas de dados">
 <!ENTITY pref_learn_more "Saber mais">
 <!ENTITY pref_category_installed_search_engines "Motores de pesquisa instalados">
@@ -307,7 +307,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "Separadores sincronizados">
 
 
-<!ENTITY pref_about_firefox "Sobre o &brandShortName;">
+<!ENTITY pref_about_firefox "Acerca do &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQs">
 <!ENTITY pref_vendor_feedback "Deixar um comentário">
 
@@ -737,7 +737,7 @@ do Android">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
-<!ENTITY bookmarks_about_browser "Firefox: Sobre o seu navegador">
+<!ENTITY bookmarks_about_browser "Firefox: Acerca do seu navegador">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
 <!ENTITY bookmarks_addons "Firefox: Personalize com extras">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
