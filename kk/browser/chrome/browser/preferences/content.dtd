@@ -7,12 +7,13 @@
 <!ENTITY  blockPopups.label           "&quot;Атып шығатын&quot; терезелерді болдырмау">
 <!ENTITY  blockPopups.accesskey       "б">
 
-
-
-
-
-
-
+<!ENTITY  notificationsPolicy.label            "Хабарламалар">
+<!ENTITY  notificationsPolicyDesc2.label        "Қай сайттарға хабарламаларды алу рұқсат етілгенді таңдау">
+<!ENTITY  notificationsPolicyButton.accesskey  "у">
+<!ENTITY  notificationsPolicyButton.label      "Таңдау…">
+<!ENTITY  notificationsDoNotDisturb.label      "Мазамды алмаңыз">
+<!ENTITY  notificationsDoNotDisturb.accesskey  "м">
+<!ENTITY  notificationsDoNotDisturbDetails.value "&brandShortName; қайта іске қосылмағанша, хабарламалар көрсетілмейді">
 
 <!ENTITY  popupExceptions.label       "Осыдан бөлек…">
 <!ENTITY  popupExceptions.accesskey   "О">
