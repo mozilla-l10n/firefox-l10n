@@ -149,6 +149,8 @@
      other devices present. This label should briefly inform the user that they
      need another connected device in order to use the feature. -->
 
+<!ENTITY menu_no_synced_devices "Cwal dirica matidi man i nyonyo mukene ma okube">
+
 <!ENTITY pref_category_search3 "Yeny">
 <!ENTITY pref_category_search_summary "Yik lumi yeny mamegi">
 <!ENTITY pref_category_display "Yar">
@@ -214,15 +216,17 @@
 <!ENTITY pref_cookies_not_accept_foreign "Kicako, pe kwako pati me adek">
 <!ENTITY pref_cookies_disabled "Kijuko woko">
 
-
+<!ENTITY pref_tap_to_load_images_title "Gudi me cano cal">
+<!ENTITY pref_tap_to_load_images_summary2 "Can cal keken kacce i diyo cingi ori i gi">
 
 <!ENTITY pref_tracking_protection_title "Gwokke ikom lubo kor">
-
+<!ENTITY pref_tracking_protection_summary3 "Kicako i yeny me mung">
 <!ENTITY pref_donottrack_title "Pe i lub kor">
 <!ENTITY pref_donottrack_summary "&brandShortName; biwaco ki kakube ni pe imito ni ki lub kor in">
 
-
-
+<!ENTITY pref_tracking_protection_enabled "Kicako">
+<!ENTITY pref_tracking_protection_enabled_pb "Kicako i yeny me mung">
+<!ENTITY pref_tracking_protection_disabled "Kijuko woko">
 
 <!ENTITY tracking_protection_prompt_title "Kombedi ki gwokke ikom lubo kor">
 <!ENTITY tracking_protection_prompt_text "Geng matek jami ma lubo kor wek pe i par.">
@@ -292,7 +296,7 @@ size. -->
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_sync_summary2 "Tim dirica matino, alamabuk, dony iye, gin mukato ni marom">
 <!ENTITY pref_search_suggestions "Nyut byek me yeny maplo">
-
+<!ENTITY pref_history_search_suggestions "Nyut jami mukato me yeny">
 <!ENTITY pref_import_android "Kel ki woko ki Android">
 <!ENTITY pref_import_android_summary "Kel alamabuk ki gin mukato ki i layeny ma gang.">
 <!ENTITY pref_private_data_history2 "Gin mukato me yeny">
@@ -585,7 +589,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Kube ma tye ki ber bedo">
 <!ENTITY identity_connection_insecure "Kube ma pe ki ber bedo">
-
+<!ENTITY identity_login_insecure "Kakube man pe tye ki ber bedo ki dony iyie ni twero bedo goro.">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; ogengo gin ma pe ki bedo ki i potbuk man.">
@@ -705,6 +709,7 @@ ki Android">
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
+<!ENTITY intent_uri_private_browsing_prompt "Kakube man biyabe i &formatS;. I moko ada ni i mito kato woko ki i yeny me mung?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android
@@ -712,6 +717,7 @@ ki Android">
      We don't have control over the style of this dialog and it looks
      unpolished when this string is longer than one line so ideally keep it
      short! -->
+<!ENTITY intent_uri_private_browsing_multiple_match_title "Kat woko ki i yeny me mung">
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
      above a QR reader that is actively scanning for QR codes.  The expected QR
