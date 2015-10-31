@@ -15,11 +15,12 @@
 
 <!ENTITY  onboard_start_restricted1 "सुरक्षित और &brandShortName; के इस सरल संस्करण के नियंत्रण में रहें.">
 
+<!ENTITY firstrun_import_title "आयात करें">
 <!ENTITY firstrun_import_message "&brandShortName; में आपका स्वागत है">
 
 
-
-
+<!ENTITY firstrun_import_dialog_button "स्थानांतरण">
+<!ENTITY firstrun_import_progress_title "स्थानांतरित कर रहें है">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -65,7 +66,7 @@
 <!ENTITY history_today_section "आज">
 <!ENTITY history_yesterday_section "कल">
 
-
+<!ENTITY history_this_month_section "इस माह">
 
 
 <!ENTITY go "जाएँ">
@@ -96,6 +97,7 @@
      &formatS; will be replaced with the title of the tab, as received from the
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "&formatS; - ऑडियो बजा रहे हैं">
 
 <!ENTITY settings "सेटिंग">
 <!ENTITY settings_title "सेटिंग">
@@ -147,6 +149,8 @@
      other devices present. This label should briefly inform the user that they
      need another connected device in order to use the feature. -->
 
+<!ENTITY menu_no_synced_devices "इस टैब को दूसरे उपकरण पर भेजें">
+
 <!ENTITY pref_category_search3 "खोजें">
 <!ENTITY pref_category_search_summary "खोज प्रदाता को मनपसंद बनाएँ">
 <!ENTITY pref_category_display "दिखाएँ">
@@ -195,8 +199,8 @@
 <!ENTITY pref_home_suggested_sites "साइट सुझाव दिखाएँ">
 <!ENTITY pref_home_suggested_sites_summary "अपने शुरुआती पृष्ठ पर साइटों के शॉर्टकट दिखायें, जो हमें लगता है कि आपको दिलचस्प लगेेंगे |">
 
-
-
+<!ENTITY home_homepage_title "होमपेज व्यवस्थित करें">
+<!ENTITY home_homepage_use_current_tab "वर्तमान टैब का उपयोग करें">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "मनपसंद बनाएँ">
@@ -212,15 +216,17 @@
 <!ENTITY pref_cookies_not_accept_foreign "सक्षम, तीसरा पक्ष छोड़कर">
 <!ENTITY pref_cookies_disabled "अक्षम">
 
-
+<!ENTITY pref_tap_to_load_images_title "छवि लोड करने के लिए दबाएँ">
+<!ENTITY pref_tap_to_load_images_summary2 "चित्र तभी लोड करें जब उन्हें लंबा दबाएँ">
 
 <!ENTITY pref_tracking_protection_title "ट्रैकिंग संरक्षण">
-
+<!ENTITY pref_tracking_protection_summary3 "निजी ब्राउज़िंग में सक्षम करें">
 <!ENTITY pref_donottrack_title "पीछा न करें">
 <!ENTITY pref_donottrack_summary "&brandShortName; साइट को बताता है कि आप ट्रैक नाहि होना छह्ते है">
 
-
-
+<!ENTITY pref_tracking_protection_enabled "सक्षम">
+<!ENTITY pref_tracking_protection_enabled_pb "निजी ब्राउज़िंग में सक्षम करें">
+<!ENTITY pref_tracking_protection_disabled "अक्षम करें">
 
 <!ENTITY tracking_protection_prompt_title "अब ट्रैकिंग संरक्षण के साथ">
 <!ENTITY tracking_protection_prompt_text "सक्रिय रूप से ट्रैकिंग तत्वों को अवरोध करता है इसीलिए आपको चिंता करने की जरुरत नही हैं.">
