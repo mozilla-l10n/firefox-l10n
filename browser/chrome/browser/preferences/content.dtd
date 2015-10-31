@@ -7,12 +7,13 @@
 <!ENTITY  blockPopups.label           "Wuskakowace wokno blokować">
 <!ENTITY  blockPopups.accesskey       "k">
 
-
-
-
-
-
-
+<!ENTITY  notificationsPolicy.label            "Zdźělenja">
+<!ENTITY  notificationsPolicyDesc2.label        "Wubjerće, kotre sydła smědźa zdźělenki přijimać">
+<!ENTITY  notificationsPolicyButton.accesskey  "u">
+<!ENTITY  notificationsPolicyButton.label      "Wubrać…">
+<!ENTITY  notificationsDoNotDisturb.label      "Njemylće">
+<!ENTITY  notificationsDoNotDisturb.accesskey  "m">
+<!ENTITY  notificationsDoNotDisturbDetails.value "Doniž &brandShortName; znowa njestartujeće, so žana zdźělenka njepokazuje">
 
 <!ENTITY  popupExceptions.label       "Wuwzaća…">
 <!ENTITY  popupExceptions.accesskey   "W">

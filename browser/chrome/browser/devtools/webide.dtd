@@ -137,8 +137,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "Začinjace róžkate spinki awtomatisce zasadźić">
 <!ENTITY prefs_options_keybindings "Tastowe wjazanja">
 <!ENTITY prefs_options_keybindings_default "Standard">
-
-
+<!ENTITY prefs_options_autosavefiles "Dataje awtomatisce składować">
+<!ENTITY prefs_options_autosavefiles_tooltip "Wobdźěłane dataje awtomatisce składować, prjedy hač projekt běži">
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "Tabela prawow">
