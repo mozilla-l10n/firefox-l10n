@@ -3,26 +3,30 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY messengerStartPage.label         "&brandShortName; bosh sahifasi">
+<!ENTITY enableStartPage.label            "&brandShortName; ishga tushganda, xabar hududida bosh sahifa ko‘rsatilsin">
+<!ENTITY enableStartPage.accesskey        "i">
+<!ENTITY location.label                   "Joylashuvi:">
+<!ENTITY location1.accesskey               "o">
+<!ENTITY useDefault.label                 "Standart holatni tiklash">
+<!ENTITY useDefault.accesskey             "t">
 
+<!ENTITY changeDockIconOptions.label      "Ilova dastur nishonchasi uchun parametrlarni o‘zgartirish">
+<!ENTITY dockOptions.label                "Ilova dastur nishonchasi tanlamalari…">
+<!ENTITY dockOptions.accesskey            "n">
 
+<!ENTITY newMessagesArrive.label          "Yangi xabar kelganda:">
+<!ENTITY playSound.label                  "Tovushni tinglash">
+<!ENTITY playSound1.accesskey              "d">
+<!ENTITY showAnimatedAlert.label          "Ogohlantirish signalini ko‘rsatish">
+<!ENTITY showAnimatedAlert.accesskey      "k">
+<!ENTITY customizeMailAlert.label         "Qulaylashtirish…">
+<!ENTITY customizeMailAlert.accesskey     "Q">
 
+<!ENTITY showTrayIcon.label               "Patni nishonchasini ko‘rsatish">
+<!ENTITY showTrayIcon.accesskey           "P">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY play.label                       "Ijro etish">
+<!ENTITY play.accesskey                   "I">
 
 
 
