@@ -5,5 +5,5 @@
    %brandDTD;
 <!ENTITY aboutLogins.title                       "Huruyan tammaasawey">
 <!ENTITY aboutLogins.update                      "Taagandiri">
-
-
+<!ENTITY aboutLogins.emptyLoginText              "War huruyan tammaasawey saajaw">
+<!ENTITY aboutLogins.emptyLoginHint              "Huruyan tammaasawey nda alhakey kaŋ war g'i gaabu nda &brandShortName; ga cebandi ne.">
