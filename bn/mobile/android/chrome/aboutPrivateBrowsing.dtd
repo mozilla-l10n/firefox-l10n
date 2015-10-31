@@ -13,7 +13,7 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "আপনি ব্যাক্তিগত ব্রাউজিং এ নেই">
 
-
+<!ENTITY privatebrowsingpage.description.privateDetails "আমরা কোন ইতিহাস মনে রাখব না, কিন্তু ডাউনলোড করা ফাইল এবং নতুন বুকমার্ক গুলি আপারনার ডিভাইস এ সংরক্ষিত থাকবে।">
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
