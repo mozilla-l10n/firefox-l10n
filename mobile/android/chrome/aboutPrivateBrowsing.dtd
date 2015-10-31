@@ -5,7 +5,8 @@
 <!ENTITY privatebrowsingpage.title "Приватный просмотр">
 <!ENTITY privatebrowsingpage.title.private "+ Защита от отслеживания">
 <!ENTITY privatebrowsingpage.title.normal1 "Вы не в режиме Приватного просмотра">
-<!ENTITY privatebrowsingpage.description.private4 "&brandShortName; не даст вас отслеживать и не будет вести никаких журналов, однако загруженные файлы и новые закладки будут сохранены на вашем устройстве.">
+<!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; блокирует части страницы, которые могут отслеживать ваше поведение в Интернете.">
+<!ENTITY privatebrowsingpage.description.privateDetails "Мы не будет запоминать ничего из истории, но загруженные файлы и новые закладки будут сохранены на вашем устройстве.">
 <!ENTITY privatebrowsingpage.description.normal2 "В режиме Приватного просмотра мы не будем вести журнал посещений или сохранять куки. Однако загруженные файлы и сделанные закладки будут сохранены на вашем устройстве.">
 <!ENTITY privatebrowsingpage.link.private "Хотите узнать больше?">
 <!ENTITY privatebrowsingpage.link.normal "Открыть новую приватную вкладку">

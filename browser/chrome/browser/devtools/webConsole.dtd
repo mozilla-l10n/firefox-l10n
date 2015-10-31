@@ -58,3 +58,5 @@
 <!ENTITY clearOutputCtrl.key "L">
 <!ENTITY openInVarViewCmd.label "Открыть в Виде Переменных">
 <!ENTITY openInVarViewCmd.accesskey "ы">
+<!ENTITY storeAsGlobalVar.label "Хранить как глобальную переменную">
+<!ENTITY storeAsGlobalVar.accesskey "а">
