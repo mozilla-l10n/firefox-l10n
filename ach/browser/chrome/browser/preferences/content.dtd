@@ -11,9 +11,9 @@
 <!ENTITY  notificationsPolicyDesc2.label        "Yer kakube mene ma ki ye gi me gamo jami angeya">
 <!ENTITY  notificationsPolicyButton.accesskey  "e">
 <!ENTITY  notificationsPolicyButton.label      "Yer…">
-
-
-
+<!ENTITY  notificationsDoNotDisturb.label      "Pe i yel an">
+<!ENTITY  notificationsDoNotDisturb.accesskey  "e">
+<!ENTITY  notificationsDoNotDisturbDetails.value "Pe ki binyuto gin angeya mo wang ma i nwoyo cako &brandShortName;">
 
 <!ENTITY  popupExceptions.label       "Ma kiweko woko…">
 <!ENTITY  popupExceptions.accesskey   "M">
