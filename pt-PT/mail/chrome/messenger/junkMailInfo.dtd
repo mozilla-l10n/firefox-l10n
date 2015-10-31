@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY window.title  "Sobre o lixo eletrónico">
+<!ENTITY window.title  "Acerca do lixo eletrónico">
 <!ENTITY window.width  "450">
 <!ENTITY info1a.label  "O &brandShortName; deteta automaticamente as mensagens recebidas e que parecem lixo eletrónico (também conhecidas como spam). As mensagens que o &brandShortName; ache que são lixo eletrónico mostram um ícone identificativo.">
 <!ENTITY info1b.label  ".">
