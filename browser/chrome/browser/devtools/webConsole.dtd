@@ -103,5 +103,5 @@
 <!ENTITY clearOutputCtrl.key  "L">
 <!ENTITY openInVarViewCmd.label "Öppna i variablervy">
 <!ENTITY openInVarViewCmd.accesskey "v">
-
-
+<!ENTITY storeAsGlobalVar.label "Lagra som global variabel">
+<!ENTITY storeAsGlobalVar.accesskey "L">
