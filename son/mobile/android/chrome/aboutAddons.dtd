@@ -11,4 +11,5 @@
 <!ENTITY addonAction.uninstall                  "Dogu">
 <!ENTITY addonAction.undo                       "Taafeeri">
 
-
+<!ENTITY addonUnsigned.message                  "&brandShortName; mana hin ka tontonoo woo koroši.">
+<!ENTITY addonUnsigned.learnMore                "Bay ka tonton">

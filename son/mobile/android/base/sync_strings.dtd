@@ -62,7 +62,7 @@
 <!ENTITY sync.configure.engines.title.label "Hayey kaŋ ga hangandi">
 <!ENTITY sync.configure.engines.sync.my.title.label "Hangandi…">
 <!ENTITY sync.configure.engines.title.bookmarks "Doo-šilbawey">
-
+<!ENTITY sync.configure.engines.title.passwords2 "Huruyan tammaasawey">
 <!ENTITY sync.configure.engines.title.history "Taariki">
 <!ENTITY sync.configure.engines.title.tabs "Nor lokey">
 <!-- Common text -->
@@ -141,7 +141,7 @@
 <!ENTITY fxaccount_policy_linkprivacy "Sutura laada">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Kubayni &syncBrand.shortName.label; ga">
-
+<!ENTITY fxaccount_getting_started_description2 "Huru ka war kanjey, doo-šilbawey nda huruyan tammaasawey taney hangandi cere.">
 <!ENTITY fxaccount_getting_started_get_started "A tunandi">
 <!ENTITY fxaccount_getting_started_old_firefox "Goy nda &syncBrand.shortName.label; dumi žeena foo?">
 <!-- Localization note: the Firefox below should not change with the
@@ -197,7 +197,7 @@
 
 <!ENTITY fxaccount_status_header2 "Firefox kontu">
 <!ENTITY fxaccount_status_signed_in_as "Huru sanda">
-
+<!ENTITY fxaccount_status_manage_account "Kontu juwal">
 <!ENTITY fxaccount_status_auth_server "Kontu feršikaw">
 <!ENTITY fxaccount_status_sync_now "Hangandi sohõ">
 <!ENTITY fxaccount_status_syncing2 "Goo ma hangandi…">
@@ -213,7 +213,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating "Karkar ka huru war Firefox kontu taagaa ra.">
 <!ENTITY fxaccount_status_bookmarks "Doo-šilbawey">
 <!ENTITY fxaccount_status_history "Taariki">
-
+<!ENTITY fxaccount_status_passwords2 "Huruyan tammaasawey">
 <!ENTITY fxaccount_status_tabs "Nor lokey feeri">
 <!ENTITY fxaccount_status_legal "Alhukum bande" >
 <!-- Localization note: when tapped, the following two strings link to
@@ -223,7 +223,7 @@
 <!ENTITY fxaccount_status_linktos "Goy kalima-izey">
 <!ENTITY fxaccount_status_linkprivacy "Sutura laada">
 <!ENTITY fxaccount_status_more "Tonton&ellipsis;">
-
+<!ENTITY fxaccount_remove_account "Disconnect&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "Firefox kontoo kaa wala?">
 <!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; ga fenda ka war kontoo hangandi, amma a ši ceecikaa bayhaya kul tuusu k\u0027a kaa jinaa ga.">
@@ -231,6 +231,7 @@
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast "Firefox kontu &formatS; hun">
 
+<!ENTITY fxaccount_enable_debug_mode "Hanseyan alhaali tunandi">
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
 
