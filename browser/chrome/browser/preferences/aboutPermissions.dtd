@@ -41,6 +41,7 @@
 
 <!ENTITY popup.label                     "Атып шығатын терезелерді рұқсат ету">
 
+<!ENTITY desktop-notification.label      "Хабарламаларды көрсету">
 <!ENTITY camera.label                    "Камераны қолдану">
 <!ENTITY microphone.label                "Микрофонды қолдану">
 
