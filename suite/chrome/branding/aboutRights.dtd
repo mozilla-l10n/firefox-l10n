@@ -5,7 +5,7 @@
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.pagetitle       "about:rights">
-<!ENTITY rights.intro-header    "Sobre os seus direitos">
+<!ENTITY rights.intro-header    "Acerca dos seus direitos">
 <!ENTITY rights.intro "O &brandFullName; é livre e é um software de código aberto, construído por uma comunidade de centenas de pessoas de todo o mundo. Existem algumas coisas que deve saber:">
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is

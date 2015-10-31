@@ -106,9 +106,9 @@
 <!ENTITY helpSafeMode.accesskey             "R">
 <!ENTITY updateCmd.label                    "Procurar atualizações…">
 <!ENTITY updateCmd.accesskey                "c">
-<!ENTITY aboutCmd.label     "Sobre o &brandShortName;">
-<!ENTITY aboutCmd.accesskey    "S">
-<!ENTITY aboutCommPluginsCmd.label   "Sobre os plugins">
+<!ENTITY aboutCmd.label     "Acerca do &brandShortName;">
+<!ENTITY aboutCmd.accesskey    "A">
+<!ENTITY aboutCommPluginsCmd.label   "Acerca dos plugins">
 <!ENTITY aboutCommPluginsCmd.accesskey   "p">
 
 <!ENTITY direct.label                                   "Ligado (proxy: nenhum)">
