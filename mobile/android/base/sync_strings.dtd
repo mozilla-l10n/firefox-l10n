@@ -223,7 +223,7 @@
 <!ENTITY fxaccount_status_linktos "Қолдану шарттары">
 <!ENTITY fxaccount_status_linkprivacy "Жекелік саясаты">
 <!ENTITY fxaccount_status_more "Көбірек&ellipsis;">
-
+<!ENTITY fxaccount_remove_account "Байланысты үзу&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "Firefox тіркелгісін өшіру керек пе?">
 <!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; тіркелгіңізбен синхрондауды тоқтатады, бірақ, бұл құрылғыда барлық шолу деректері қалады.">
