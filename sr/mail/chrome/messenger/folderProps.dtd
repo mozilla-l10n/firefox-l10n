@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
+<!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
