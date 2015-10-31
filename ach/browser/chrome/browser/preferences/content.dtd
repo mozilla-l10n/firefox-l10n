@@ -7,9 +7,10 @@
 <!ENTITY  blockPopups.label           "Geng dirica ma pye-malo">
 <!ENTITY  blockPopups.accesskey       "G">
 
-
-
-
+<!ENTITY  notificationsPolicy.label            "Jami angeya">
+<!ENTITY  notificationsPolicyDesc2.label        "Yer kakube mene ma ki ye gi me gamo jami angeya">
+<!ENTITY  notificationsPolicyButton.accesskey  "e">
+<!ENTITY  notificationsPolicyButton.label      "Yer…">
 
 
 
