@@ -196,10 +196,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.label         "কোন ঘোষণা দেখাও">
 <!ENTITY urlbar.geolocationNotificationAnchor.label     "অবস্থানের অনুরোধটি দেখুন">
 <!ENTITY urlbar.addonsNotificationAnchor.label          "অ্যাড-অন ইনস্টলের বার্তাটি দেখুন">
-
-
-
-
+<!ENTITY urlbar.indexedDBNotificationAnchor.label       "অ্যাপ-অফলাইন স্টোরেজ বার্তাটি দেখুন">
+<!ENTITY urlbar.loginFillNotificationAnchor.label       "আপনার লগইন তথ্য ব্যবস্থাপনা করুন">
+<!ENTITY urlbar.passwordNotificationAnchor.label        "আপনার পাসওয়ার্ড সংরক্ষণ করতে টিক দিন">
+<!ENTITY urlbar.webappsNotificationAnchor.label         "অ্যাপ ইনস্টল বার্তাটি দেখুন">
 
 
 
