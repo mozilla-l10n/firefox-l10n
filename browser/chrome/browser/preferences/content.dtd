@@ -7,12 +7,13 @@
 <!ENTITY  blockPopups.label           "Bloquear janelas pop-up">
 <!ENTITY  blockPopups.accesskey       "B">
 
+<!ENTITY  notificationsPolicy.label            "Notificações">
+<!ENTITY  notificationsPolicyDesc2.label        "Escolha os sítios que estão autorizados a receber notificações">
 
 
-
-
-
-
+<!ENTITY  notificationsDoNotDisturb.label      "Não me perturbar">
+<!ENTITY  notificationsDoNotDisturb.accesskey  "ã">
+<!ENTITY  notificationsDoNotDisturbDetails.value "Nenhuma notificação será apresentada até reiniciar o &brandShortName;">
 
 <!ENTITY  popupExceptions.label       "Exceções…">
 <!ENTITY  popupExceptions.accesskey   "E">

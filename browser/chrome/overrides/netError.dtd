@@ -176,11 +176,13 @@ functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "ssl_error_unsupported_version". -->
 <!ENTITY sslv3Used.longDesc "Informação avançada: ssl_error_unsupported_version">
+<!ENTITY sslv3Used.learnMore "Saber mais…">
 
-
+<!ENTITY weakCryptoUsed.title "Esta ligação não é segura">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "ssl_error_no_cypher_overlap". -->
-
-
-
-
+<!ENTITY weakCryptoUsed.longDesc "Informações: ssl_error_no_cypher_overlap">
+<!ENTITY weakCryptoUsed.learnMore "Saber mais…">
+<!ENTITY weakCryptoAdvanced.title "Avançadas">
+<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> usa tecnologia de segurança que está desatualizada e vulnerável a ataque. Um atacante pode facilmente revelar informação que pensasse ser segura.">
+<!ENTITY weakCryptoAdvanced.override "(Não seguro) Tente carregar <span class='hostname'></span> utilizando segurança desatualizada">
