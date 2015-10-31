@@ -4,7 +4,7 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "नयाँ ट्याब">
-
+<!ENTITY newtab.customize.classic "आफ्नो शीर्ष साइटहरु देखाउनुहोस्">
 
 
 
