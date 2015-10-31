@@ -21,6 +21,7 @@
 <!ENTITY allow.accesskey              "å">
 <!ENTITY windowClose.key              "w">
 
-<!ENTITY button.close.label           "Stäng">
-<!ENTITY button.close.accesskey       "ä">
-
+<!ENTITY button.cancel.label          "Avbryt">
+<!ENTITY button.cancel.accesskey      "A">
+<!ENTITY button.ok.label              "Spara ändringar">
+<!ENTITY button.ok.accesskey          "S">
