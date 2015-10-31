@@ -439,7 +439,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Fellout a ra deoc'h gwellat hoc'h arver klask gant kinnigoù ?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Gouzout hiroc'h…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "G">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Ket">
 <!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "K">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Ya">
