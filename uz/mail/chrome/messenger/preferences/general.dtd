@@ -27,12 +27,13 @@
 
 <!ENTITY play.label                       "Ijro etish">
 <!ENTITY play.accesskey                   "I">
+<!ENTITY systemsound.label                "Yangi xat uchun asosiy tizim tovushi">
+<!ENTITY systemsoundMac.label             "Tizim ogohlantirish tovushi">
+<!ENTITY systemsoundMac.accesskey         "T">
+<!ENTITY systemsound.accesskey            "a">
+<!ENTITY customsound.label                "Quyidagi tovush faylidan foydalanilsin">
+<!ENTITY customsound.accesskey            "f">
+<!ENTITY browse.label                     "Ko‘rish…">
+<!ENTITY browse.accesskey                 "r">
 
-
-
-
-
-
-
-
-
+<!ENTITY defaultSearchEngine.label        "Asosiy qidiruv tizimi">

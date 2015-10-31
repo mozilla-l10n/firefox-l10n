@@ -3,29 +3,36 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Mail Content -->
 
+<!ENTITY captionMailContent.label "Xatdagi sayt">
 
-
-
-
+<!ENTITY acceptRemoteContent.label "Xabarlarda masofadagi saytga ruxsat berish">
+<!ENTITY acceptRemoteContent.accesskey "m">
+<!ENTITY remoteContentExceptions.label "Istisnolar...">
+<!ENTITY remoteContentExceptions.accesskey "s">
+<!ENTITY acceptRemoteContentInfo.label "Masofadagi sayt maxfiylik muammolari haqida batafsil ma’lumot">
 <!-- Web Content -->
 
+<!ENTITY captionWebContent.label "Veb sayt">
 
+<!ENTITY keepHistory.label "Men kirgan sayt va havolalar eslab qolinsin">
+<!ENTITY keepHistory.accesskey "e">
+<!ENTITY acceptCookies.label "Saytlardan kukilarga rozi bo‘lish">
+<!ENTITY acceptCookies.accesskey "r">
+<!ENTITY acceptThirdParty.pre.label "Begona taraf kukilariga ruxsat berish:">
+<!ENTITY acceptThirdParty.pre.accesskey "r">
+<!ENTITY acceptThirdParty.always.label "Doimo">
+<!ENTITY acceptThirdParty.never.label "Hech qachon">
+<!ENTITY acceptThirdParty.visited.label "Kirilganlardan">
+<!ENTITY keepUntil.label "Saqlansin:">
+<!ENTITY keepUntil.accesskey "S">
+<!ENTITY expire.label "ular eskirguncha">
+<!ENTITY close.label "Men &brandShortName;ni yopaman">
+<!ENTITY askEachTime.label "doimo mendan so‘ralsin">
+<!ENTITY cookieExceptions.label "Istisnolar…">
+<!ENTITY cookieExceptions.accesskey "I">
+<!ENTITY showCookies.label "Kukilarni ko‘rsatish…">
+<!ENTITY showCookies.accesskey "k">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY dntTrackingNotOkay.label2 "Saytlarga meni kuzatishlarini xohlamasligim aytilsin">
+<!ENTITY dntTrackingNotOkay.accesskey "n">
+<!ENTITY doNotTrackInfo.label "&quot;Kuzatilmasin&quot; xususiyati haqida batafsil ma’lumot">
