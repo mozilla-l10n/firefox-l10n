@@ -455,6 +455,7 @@
 <!ENTITY identity_connected_to "Połączono z">
 <!ENTITY identity_connection_secure "Zabezpieczone połączenie">
 <!ENTITY identity_connection_insecure "Niezabezpieczone połączenie">
+<!ENTITY identity_login_insecure "Ta strona nie jest zabezpieczona. Dane logowania mogą być narażone na ataki.">
 
 <!ENTITY mixed_content_blocked_all1 "Program &brandShortName; zablokował niezabezpieczoną treść na tej stronie.">
 <!ENTITY mixed_content_blocked_some1 "Program &brandShortName; zablokował część niezabezpieczonej treści na tej stronie.">
