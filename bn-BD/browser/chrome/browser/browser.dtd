@@ -340,10 +340,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newUserContext.accesskey         "C">
 <!ENTITY userContextPersonal.label        "ব্যক্তিগত P">
 <!ENTITY userContextPersonal.accesskey    "P">
-
-
-
-
+<!ENTITY userContextWork.label            "কাজ W">
+<!ENTITY userContextWork.accesskey        "W">
+<!ENTITY userContextBanking.label         "ব্যাংকিং B">
+<!ENTITY userContextBanking.accesskey     "B">
 <!ENTITY userContextShopping.label        "কেনাকাটা S">
 <!ENTITY userContextShopping.accesskey    "S">
 <!ENTITY newNavigatorCmd.label        "নতুন উইন্ডো (N)">
