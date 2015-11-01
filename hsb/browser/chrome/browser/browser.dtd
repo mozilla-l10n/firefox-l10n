@@ -516,7 +516,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "r">
 <!ENTITY openLinkCmd.label            "Wotkaz w nowym woknje wočinić">
 <!ENTITY openLinkCmd.accesskey        "k">
-<!ENTITY openLinkInPrivateWindowCmd.label "Wotkaz w nowym priwatnym wojknje wočinić">
+<!ENTITY openLinkInPrivateWindowCmd.label "Wotkaz w nowym priwatnym woknje wočinić">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "o">
 <!ENTITY openLinkCmdInCurrent.label     "Wotkaz wočinić">
 <!ENTITY openLinkCmdInCurrent.accesskey "o">
