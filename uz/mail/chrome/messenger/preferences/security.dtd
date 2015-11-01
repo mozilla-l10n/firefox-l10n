@@ -25,17 +25,21 @@
 <!ENTITY resetTrainingData.accesskey "t">
 <!-- Phishing Detector -->
 
-
-
-
+<!ENTITY phishingDetector1.intro  "&brandShortName; siz foydalanadigan qurilma umumiy texnikasi izlash funksiyasi orqali e-pochta qallobliklari xabarlarini aniqlay oladi.">
+<!ENTITY enablePhishingDetector1.label    "Men o‘qiyotganimda e-pochta qallobliklari sifatida aniqlangan xabar bo‘lsa menga aytilsin">
+<!ENTITY enablePhishingDetector1.accesskey  "a">
+<!ENTITY useDownloadedList.label "E-pochta qallobliklari sifatida ko‘rsatilgan manzillarning yuklab olingan ro‘yxatidan foydalanish">
+<!ENTITY useDownloadedList.accesskey "f">
 <!-- Passwords -->
 
-
-
-
-
-
-
+<!ENTITY savedPasswords.intro           "&brandShortName; barcha hisoblaringiz uchun parollaringizni eslab qoladi.">
+<!ENTITY useMasterPassword.label        "Parol ustasidan foydalanish">
+<!ENTITY useMasterPassword.accesskey    "f">
+<!ENTITY masterPassword.intro           "Parol ustasi barcha parollaringizni himoya qiladi, lekin har bir seansda bir marta kiritishingiz kerak.">
+<!ENTITY changeMasterPassword.label     "Parol ustasini o‘zgartirish…">
+<!ENTITY changeMasterPassword.accesskey "o">
+<!ENTITY savedPasswords.label           "Saqlangan parollar…">
+<!ENTITY savedPasswords.accesskey       "S">
 <!-- Anti Virus -->
 
 

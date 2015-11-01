@@ -2,30 +2,34 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY dialog.title                 "Jo‘natish moslamalari">
+<!ENTITY sendMail.title               "Matn formati">
+<!ENTITY sendMaildesc.label           "Xabarlar HTML formatda jo‘natilayotganda va bir yoki bir nechta qabul qiluvchilar HTML qabul qiluvchi sifatida ko‘rsatilmagan bo‘lsa:">
+<!ENTITY askMe.label                  "Nima qilish mendan so‘ralsin">
+<!ENTITY askMe.accesskey              "s">
+<!ENTITY convertPlain.label           "Xabar oddiy matnga o‘girilsin">
+<!ENTITY convertPlain.accesskey       "o">
+<!ENTITY sendHTML.label               "Xabar HTML formatda jo‘natilsin">
+<!ENTITY sendHTML.accesskey           "j">
+<!ENTITY sendBoth.label               "Xabar HTML formatda va oddiy tekis shaklida jo‘natilsin">
+<!ENTITY sendBoth.accesskey           "j">
+<!ENTITY override.label               "Eslatma: Manzil kitobidan qabul qiluvchilar uchun eng ma’qul matn formatlarini ko‘rsatish uchun foydalaning.">
 
+<!ENTITY domaindesc.label             "Pastdagi ro‘yxatda ko‘rsatilgan domen nomlaridan biri bo‘lgan manzilga xabarjo‘natilayotganda, &brandShortName; xabarni avtomatik tarzda to‘g‘ri formatda jo‘natadi.">
+<!ENTITY HTMLTab.label                "HTML domentlar">
+<!ENTITY HTMLTab.accesskey            "H">
+<!ENTITY PlainTextTab.label           "Matn domenlarini oddiylashtirish">
+<!ENTITY PlainTextTab.accesskey       "P">
+<!ENTITY AddHtmlDomain.label          "Qo‘shish…">
+<!ENTITY AddHtmlDomain.accesskey      "Q">
+<!ENTITY AddPlainText.label           "Qo‘shish…">
+<!ENTITY AddPlainText.accesskey       "Q">
+<!ENTITY DeleteHtmlDomain.label       "O‘chirish">
+<!ENTITY DeleteHtmlDomain.accesskey   "O">
+<!ENTITY DeletePlainText.label        "O‘chirish">
+<!ENTITY DeletePlainText.accesskey    "O">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY add.htmltitle                "HTML domen nomini qo‘shish">
+<!ENTITY add.htmldomain               "HTML domen nomi:">
+<!ENTITY add.plaintexttitle           "Oddiy matnni domen nomi kabi qo‘shish">
+<!ENTITY add.plaintextdomain          "Domen nomi oddiy matni:">

@@ -39,7 +39,7 @@
 <!ENTITY  font.langGroup.tamil                    "Tamil">
 <!ENTITY  font.langGroup.armenian                 "Arman">
 <!ENTITY  font.langGroup.bengali                  "Bengal">
-
+<!ENTITY  font.langGroup.canadian                 "Unified Canadian Syllabary">
 <!ENTITY  font.langGroup.ethiopic                 "Efiopiya">
 <!ENTITY  font.langGroup.georgian                 "Gruzin">
 <!ENTITY  font.langGroup.gujarati                 "Gujarat">

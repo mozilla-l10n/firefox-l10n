@@ -1,8 +1,10 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY  prefWindow.titleGNOME   "&brandShortName; parametrlari">
 
+<!ENTITY  prefWindow.titleWin     "Tanlamalar">
+<!ENTITY  prefWindow.titleGNOME   "&brandShortName; parametrlari">
+<!ENTITY  prefWindow.titleMAC     "Parametrlar">
 <!ENTITY  prefWindow.styleWindows "width: 48em; min-height: 38.5em;">
 <!ENTITY  prefWindow.styleMac     "width: 52em;">
 <!ENTITY  prefWindow.styleGNOME   "width: 47em; min-height: 38em;">
@@ -15,7 +17,7 @@
 <!ENTITY panePrivacy.title        "Maxfiylik">
 <!ENTITY paneSecurity.title       "Xavfsizlik">
 <!ENTITY paneAdvanced.title       "Qo‘shimcha">
-
+<!ENTITY paneAccount.title        "Hisoblar">
 
 <!ENTITY okButton.title           "OK">
 <!ENTITY okButton.accesskey       "O">
