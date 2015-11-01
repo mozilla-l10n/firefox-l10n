@@ -188,16 +188,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "छापें">
 <!ENTITY printButton.tooltip          "यह पृष्ठ छापें">
 
+<!ENTITY urlbar.viewSiteInfo.label                      "साइट की जानकारी देखें">
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
-
-
-
-
-
-
-
+<!ENTITY urlbar.defaultNotificationAnchor.label         "अधिसूचना देखें">
+<!ENTITY urlbar.geolocationNotificationAnchor.label     "स्थान अनुरोध देखें">
+<!ENTITY urlbar.addonsNotificationAnchor.label          "ऐड-ऑन स्थापन संदेश देखें">
+<!ENTITY urlbar.indexedDBNotificationAnchor.label       "एप्लिकेशन-ऑफ़लाइन भंडारण संदेश देखें">
+<!ENTITY urlbar.loginFillNotificationAnchor.label       "अपनी लॉगइन जानकारी प्रबंधित करें">
+<!ENTITY urlbar.passwordNotificationAnchor.label        "जाँचें अगर आप अपना कूटशब्द सहेजना चाहते हों">
+<!ENTITY urlbar.webappsNotificationAnchor.label         "एप्प स्थापन संदेश देखें">
+<!ENTITY urlbar.pluginsNotificationAnchor.label         "इस पृष्ठ पर प्लगइन उपयोग प्रबंधन करें">
 
 
 
