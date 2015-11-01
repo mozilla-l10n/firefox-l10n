@@ -12,9 +12,10 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "プライベートブラウジングモードではありません">
 
-<!ENTITY privatebrowsingpage.description.private3 "Firefox はあなたをトラッキングから保護し、また閲覧した履歴を残しませんが、ダウンロードしたファイルと新しいブックマークはデバイスに保存されます。">
+<!ENTITY privatebrowsingpage.description.private4 "&brandShortName; はあなたをトラッキングから保護し、また閲覧した履歴を残しませんが、ダウンロードしたファイルと新しいブックマークはデバイスに保存されます。">
+
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
-     Browsing" is capitalized in English to be consistent with our existing uses
+     Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
 <!ENTITY privatebrowsingpage.description.normal2 "プライベートブラウジングでは、すべての閲覧履歴や Cookie が保存されません。ただし、追加したブックマークやダウンロードしたファイルはデバイスに保存されます。">
 
