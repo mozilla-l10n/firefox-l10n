@@ -137,8 +137,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "Жабатын жақшаларды автокірістіру">
 <!ENTITY prefs_options_keybindings "Пернетақта жарлықтары">
 <!ENTITY prefs_options_keybindings_default "Бастапқы">
-
-
+<!ENTITY prefs_options_autosavefiles "Файлдарды автосақтау">
+<!ENTITY prefs_options_autosavefiles_tooltip "Жобаны жөнелту алдында түзетілген файлдарды автосақтау">
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "Рұқсаттар кестесі">
