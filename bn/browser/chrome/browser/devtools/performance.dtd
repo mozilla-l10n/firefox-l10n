@@ -36,6 +36,8 @@
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the details view while the profiler is unavailable, for example, while
   -  in Private Browsing mode. -->
+
+<!ENTITY performanceUI.unavailableNoticePB "এই মূহুর্তে প্রোফাইলে রেকর্ডিং বিদ্যমান নয়। অনুগ্রহ করে সকল প্রাইভেট ব্রাউজিং উইন্ডো বন্ধ করুন এবং আবার চেষ্টা করুন।">
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the details view while loading a profile. -->
 
