@@ -741,7 +741,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Šis tinklalapis yra įrašytas jūsų kompiuteryje.">
 <!ENTITY identity.connectionVerified1 "Esate saugiai prisijungę prie šios svetainės, kurią valdo:">
 <!ENTITY identity.connectionInternal "Tai yra saugus „&brandShortName;“ tinklalapis.">
-
+<!ENTITY identity.insecureLoginForms "Jūsų paskyra gali būti pažeista.">
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "„&brandShortName;“ užblokavo nesaugias šio tinklalapio dalis.">
