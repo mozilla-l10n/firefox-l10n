@@ -149,6 +149,8 @@
      other devices present. This label should briefly inform the user that they
      need another connected device in order to use the feature. -->
 
+<!ENTITY menu_no_synced_devices "ارسال این زبانه به دیگر دستگاه‌های متصل">
+
 <!ENTITY pref_category_search3 "جستجو">
 <!ENTITY pref_category_search_summary "جستجوگر خود را شخصی سازی نمایید">
 <!ENTITY pref_category_display "نمایش">
@@ -214,15 +216,17 @@
 <!ENTITY pref_cookies_not_accept_foreign "فعال شده، بدون شخص ثالث">
 <!ENTITY pref_cookies_disabled "غیرفعال شد">
 
-
+<!ENTITY pref_tap_to_load_images_title "تپ برای بارگذاری تصاویر">
+<!ENTITY pref_tap_to_load_images_summary2 "تصاویر زمانی بارگذاری می‌شوند که فشار طولانی تر بر روی آن اعمال کنید">
 
 <!ENTITY pref_tracking_protection_title "محافظت در برابر ردگیری">
-
+<!ENTITY pref_tracking_protection_summary3 "فعال شده در حالت مرور خصوصی">
 <!ENTITY pref_donottrack_title "ردیابی نکن">
 <!ENTITY pref_donottrack_summary "&brandShortName; به سایت‌ها خواهد گفت که شما نمی‌خواهید ردیابی شوید.">
 
-
-
+<!ENTITY pref_tracking_protection_enabled "فعال شد">
+<!ENTITY pref_tracking_protection_enabled_pb "فعال شده در حالت مرور خصوصی">
+<!ENTITY pref_tracking_protection_disabled "غیرفعال شد">
 
 <!ENTITY tracking_protection_prompt_title "هم‌اکنون با قابلیت محافظت در برابر ردگیری">
 <!ENTITY tracking_protection_prompt_text "عناصر ردیابی به طور فعال مسدود می‌شود بنابراین جایی برای نگرانی وجود ندارد.">
@@ -585,7 +589,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "اتصال امن">
 <!ENTITY identity_connection_insecure "اتصال نا امن">
-
+<!ENTITY identity_login_insecure "این صفحه امن نیست و ورود شما ممکن است آسیپ پذیر باشد.">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "&brandShortName;محتوا غیر‌امن این صفحه را مسدود کرده است.">
@@ -705,6 +709,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
+<!ENTITY intent_uri_private_browsing_prompt "این پیوند &formatS; باز خواهد شد. آیا مایلید از حالت مرورگر خصوصی خارج شوید؟">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android

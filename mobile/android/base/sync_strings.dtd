@@ -154,6 +154,7 @@
 <!ENTITY fxaccount_create_account_month_of_birth "ماه">
 <!ENTITY fxaccount_create_account_year_of_birth "سال تولد">
 <!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
+<!ENTITY fxaccount_create_account_policy_text2 "با ادامه دادن، موافقتم را با &formatS1; و &formatS2; سرویس‌های ابری فایرفاکس اعلام می‌دارم.">
 <!ENTITY fxaccount_create_account_button "بعدی">
 <!ENTITY fxaccount_create_account_choose_what_to_sync "انتخاب کنید چه چیزی هم‌گام‌سازی شود">
 <!ENTITY fxaccount_create_account_sign_in_instead "حساب کاربری دارید؟ وارد شوید">
@@ -222,7 +223,7 @@
 <!ENTITY fxaccount_status_linktos "شرایط ارائه خدمات">
 <!ENTITY fxaccount_status_linkprivacy "شرایط حفظ حریم خصوصی">
 <!ENTITY fxaccount_status_more "بیشتر&ellipsis;">
-
+<!ENTITY fxaccount_remove_account "قطع اتصال&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "حساب فایرفاکس حذف شود؟">
 <!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; همگام سازی با حساب شما را متوقف می‌کند, اما هیچ کدوم از اطلاعات مرورگر شما بر روی دستگاه را حذف نمی‌کند.">
@@ -263,7 +264,9 @@
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; به شبکه وصل نیست">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "برای ورود به عنوان&formatS; تپ کنید">
 
 <!ENTITY fxaccount_sync_finish_migrating_notification_title "اتمام هم‌گام‌سازی &syncBrand.shortName.label;؟">
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text "برای ورود به عنوان &formatS; تپ کنید">

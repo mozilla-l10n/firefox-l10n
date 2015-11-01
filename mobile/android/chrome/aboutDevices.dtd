@@ -6,7 +6,7 @@
 <!ENTITY aboutDevices.header             "دستگاه های شما">
 <!ENTITY aboutDevices.refresh            "نوسازی">
 <!ENTITY aboutDevices.addDeviceHeader    "اضافه کردن یک دستگاه">
-
+<!ENTITY aboutDevices.roku               "Roku">
 <!ENTITY aboutDevices.chromecast         "کروم کست">
 <!-- Localization note (aboutDevices.placeholder): this is the hint shown to the
      user prompting them to input the IP address of a casting device. -->

@@ -6,4 +6,4 @@
 <!ENTITY aboutLogins.title                       "ورود">
 <!ENTITY aboutLogins.update                      "به‌هنگام‌سازی">
 <!ENTITY aboutLogins.emptyLoginText              "ورود خود را امن کنید">
-
+<!ENTITY aboutLogins.emptyLoginHint              "ورود‌ها و اعتبار‌های شما که به عنوان &brandShortName; ذخیره می‌شود در اینحا نمایش داده خواهد شد.">
