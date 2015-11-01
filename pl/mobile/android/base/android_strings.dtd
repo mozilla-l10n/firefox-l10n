@@ -108,6 +108,8 @@
 <!ENTITY overlay_share_select_device "Wybierz urządzenie">
 <!ENTITY overlay_no_synced_devices "Brak urządzeń połączonych z kontem Firefoksa">
 
+<!ENTITY menu_no_synced_devices "Wyślij tę kartę do innego połączonego urządzenia">
+
 <!ENTITY pref_category_search3 "Wyszukiwanie">
 <!ENTITY pref_category_search_summary "Dostosuj wyszukiwarki">
 <!ENTITY pref_category_display "Wyświetlanie">
