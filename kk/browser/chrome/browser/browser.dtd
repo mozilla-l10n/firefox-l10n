@@ -196,20 +196,22 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.label         "Хабарламаны қарау">
 <!ENTITY urlbar.geolocationNotificationAnchor.label     "Орналасу сұранымын қарау">
 <!ENTITY urlbar.addonsNotificationAnchor.label          "Қосымшаның орнатылу хабарламасын қарау">
-
+<!ENTITY urlbar.indexedDBNotificationAnchor.label       "app-offline қойма хабарламасын қарау">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "Логин ақпаратыңызды басқару">
+<!ENTITY urlbar.passwordNotificationAnchor.label        "Пароліңізді сақтағыңыз келетінінді тексеру">
+<!ENTITY urlbar.webappsNotificationAnchor.label         "Қолданбаның орнатылу хабарламасын қарау">
+<!ENTITY urlbar.pluginsNotificationAnchor.label         "Бұл парақта плагиндер қолданылуын басқару">
+<!ENTITY urlbar.webNotsNotificationAnchor.label         "Сайт сізге хабарламаларды көрсете ала ма, соны өзгерту">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Камераңыз және/немесе микрофонмен бұл сайтпен бөлісуді басқару">
+<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Сіз камераңыз және/немесе микрофонмен бұл сайтпен бөлісудесіз">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Микрофоныңызбен бұл сайтпен бөлісуді басқару">
+<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Сіз микрофоныңызбен бұл сайтпен бөлісудесіз">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Терезелеріңізбен немесе экранмен бұл сайтпен бөлісуді басқару">
+<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Сіз терезелеріңізбен немесе экранмен бұл сайтпен бөлісудесіз">
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Сайт курсоры жасыра ала ма, соны өзгерту">
+<!ENTITY urlbar.servicesNotificationAnchor.label        "Қызметтік орнатылу хабарламасын қарау">
 <!ENTITY urlbar.translateNotificationAnchor.label       "Бұл парақты аудару">
 <!ENTITY urlbar.translatedNotificationAnchor.label      "Бет аудармасын басқару">
 <!ENTITY urlbar.emeNotificationAnchor.label             "DRM БҚ қолдануын басқару">

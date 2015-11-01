@@ -103,5 +103,5 @@
 <!ENTITY clearOutputCtrl.key  "з">
 <!ENTITY openInVarViewCmd.label "Айнымалылар көрінісінде ашу">
 <!ENTITY openInVarViewCmd.accesskey "А">
-
-
+<!ENTITY storeAsGlobalVar.label "Глобалды айнымалы ретінде сақтау">
+<!ENTITY storeAsGlobalVar.accesskey "с">
