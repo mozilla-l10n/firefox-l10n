@@ -200,20 +200,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "مدیریت اطلاعات ورود به سایت‌ها">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "بررسی کنید که آیا می‌خواهید گذرواژه خود را ذخیره کنید">
 <!ENTITY urlbar.webappsNotificationAnchor.label         "نمایش پیامِ نصبِ برنامه">
-
+<!ENTITY urlbar.pluginsNotificationAnchor.label         "مدیریت پلاگین‌های استفاده شده در این صفحه">
 
 
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "شما دوربین یا میکروفن خود را با این سایت به اشتراک گذاشته‌اید">
-
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "مدیریت به‌اشتراک‌گذاری میکروفن با این پایگاه">
 
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "مدیریت به اشتراک‌گذاری پنجره یا صفحه خود با پایگاه">
 <!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "شما پنجره صفحه خود را با این سایت به اشتراک گذاشتید">
 
-
-
+<!ENTITY urlbar.servicesNotificationAnchor.label        "مشاهده پیام‌های سرویس های نصب شده">
+<!ENTITY urlbar.translateNotificationAnchor.label       "ترجمه این صفحه">
 <!ENTITY urlbar.translatedNotificationAnchor.label      "مدیریت صفحه ترجمه">
+<!ENTITY urlbar.emeNotificationAnchor.label             "مدیریت استفاده از نرم‌افزار‌های DRM">
 
-
+<!ENTITY urlbar.openHistoryPopup.tooltip                "نمایش تاریخچه">
 
 <!ENTITY searchItem.title             "جست‌وجو">
 <!-- Toolbar items --> 
@@ -254,8 +255,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.commandkey            "A">
 <!ENTITY webapps.label                "برنامه‌ها">
 <!ENTITY webapps.accesskey            "ب">
-
-
+<!ENTITY loopMenuItem.label           "شروع یک مکالمه…">
+<!ENTITY loopMenuItem.accesskey       "ع">
 
 <!ENTITY webDeveloperMenu.label       "توسعه‌دهندۀ وب">
 <!ENTITY webDeveloperMenu.accesskey   "W">
@@ -335,14 +336,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "ف">
 
 
-
-
+<!ENTITY userContextPersonal.label        "شخصی">
+<!ENTITY userContextPersonal.accesskey    "ش">
 <!ENTITY userContextWork.label            "کار">
 <!ENTITY userContextWork.accesskey        "ک">
-
-
-
-
+<!ENTITY userContextBanking.label         "کارهای بانکی">
+<!ENTITY userContextBanking.accesskey     "ک">
+<!ENTITY userContextShopping.label        "خرید">
+<!ENTITY userContextShopping.accesskey    "خ">
 <!ENTITY newNavigatorCmd.label        "پنجره‌ی جدید‌">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "پ">
