@@ -21,43 +21,44 @@
 <!ENTITY scrolling.label               "Siljitish">
 <!ENTITY useAutoScroll.label           "Avtosiljitishdan foydalanish">
 <!ENTITY useAutoScroll.accesskey       "f">
+<!ENTITY useSmoothScrolling.label      "Bir tekisda siljitishdan foydalanish">
+<!ENTITY useSmoothScrolling.accesskey  "e">
 
-
-
-
-
-
-
+<!ENTITY systemIntegration.label       "Tizimni integratsiyalash">
+<!ENTITY alwaysCheckDefault.label      "Ishga tushirilganda doimo &brandShortName; standart e-pochta mijozi ekanligi tekshirilsin">
+<!ENTITY alwaysCheckDefault.accesskey  "A">
+<!ENTITY searchIntegration.label       "Xabarlarni qidirishda &searchIntegration.engineName;ga ruxsat berilsin">
+<!ENTITY searchIntegration.accesskey   "s">
 <!ENTITY checkDefaultsNow.label        "Hozir tekshirish…">
 <!ENTITY checkDefaultsNow.accesskey    "H">
-
-
-
-
-
-
+<!ENTITY configEditDesc.label          "Qoʻshimcha moslash">
+<!ENTITY configEdit.label              "Tahrirlagichni moslash…">
+<!ENTITY configEdit.accesskey          "T">
+<!ENTITY returnReceiptsInfo.label      "&brandShortName; qabul qilinganlik haqidagi xabarlar bilan qanday ishlashini aniqlash">
+<!ENTITY showReturnReceipts.label      "Qabul qilinganligi haqida xabar berish…">
+<!ENTITY showReturnReceipts.accesskey  "Q">
 <!-- Data Choices -->
 
 <!ENTITY telemetrySection.label          "Telemetry">
-
+<!ENTITY telemetryDesc.label             "&vendorShortName; bilan &brandShortName;ni yaxshilashimizga yordam berishingiz uchun e-pochta mijozingiz ishlashi, foydalanish, qurilma va moslash ma’lumotlarini boʻlishadi">
 <!ENTITY enableTelemetry.label           "Telemetry xizmatini yoqish">
 <!ENTITY enableTelemetry.accesskey       "T">
 <!ENTITY telemetryLearnMore.label        "Batafsil ma’lumot">
 
 <!ENTITY crashReporterSection.label      "Nosozlik haqida xabar bergich">
-
+<!ENTITY crashReporterDesc.label         "&brandShortName; &vendorShortName;ga e-pochta mijozini yaxshi ishlashi va xavfsiz qilishda yordam berish uchun nosozlik ma’lumotlarni jo‘natadi">
 <!ENTITY enableCrashReporter.label       "Nosozlik haqida xabar bergichni yoqib qo‘yish">
 <!ENTITY enableCrashReporter.accesskey   "N">
 <!ENTITY crashReporterLearnMore.label    "Batafsil ma’lumot">
 <!-- Update -->
 
 <!ENTITY updateApp.label                 "&brandShortName; yangilanishlari:">
-
-
-
-
-
-
+<!ENTITY updateAuto.label                "Yangilanishlarni avtomatik o‘rnatish (tavsiya qilinadi: yaxshilangan xavfsizlik)">
+<!ENTITY updateAuto.accesskey            "a">
+<!ENTITY updateCheck.label               "Yangilanishlar uchun tekshirilsin, ammo menga tanlab o‘rnatish imkoni berilsin">
+<!ENTITY updateCheck.accesskey           "t">
+<!ENTITY updateManual.label              "Yangilanishlar uchun hech qachon tekshirilmasin (tavsiya qilinmaydi: xavfsizlik tahdidi)">
+<!ENTITY updateManual.accesskey          "h">
 <!ENTITY updateAutoAddonWarn.label       "Agar u qo‘shimcha dasturlarimdan birortasini o‘chirib qo‘ysa, meni ogohlantir">
 <!ENTITY updateAutoAddonWarn.accesskey   "m">
 <!ENTITY updateHistory.label             "Yangilash tarixini ko‘rsatish">
@@ -77,9 +78,9 @@
 <!ENTITY showOffline.accesskey         "O">
 
 <!ENTITY Diskspace                       "Diskdagi joy">
-
-
-
+<!ENTITY offlineCompactFolders.label     "Barcha jildlar saqlanganda ularni yig‘ish">
+<!ENTITY offlineCompactFolders.accesskey "a">
+<!ENTITY offlineCompactFoldersMB.label   "Jami: MB">
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:
@@ -87,7 +88,9 @@
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
 
-
+<!ENTITY useCacheBefore.label            "Kesh uchun">
+<!ENTITY useCacheBefore.accesskey        "U">
+<!ENTITY useCacheAfter.label             "MB joydan foydalaning">
 <!ENTITY clearCacheNow.label             "Hozir tozalash">
 <!ENTITY clearCacheNow.accesskey         "t">
 <!-- Certificates -->
@@ -97,8 +100,8 @@
 <!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "Har safar mendan so‘ralsin">
 <!ENTITY certs.ask.accesskey             "A">
-
-
+<!ENTITY enableOCSP.label                "OCSP javob berish serverlari sertifikatlarining joriy yaroqliligini tasdiqlash uchun so‘rov jo‘natish">
+<!ENTITY enableOCSP.accesskey            "s">
 
 <!ENTITY viewCertificates.label         "Sertifikatlarni ko‘rish">
 <!ENTITY viewCertificates.accesskey     "S">

@@ -4,7 +4,7 @@
 
 <!ENTITY itemGeneral.label                   "Umumiy">
 <!ENTITY itemAutoComplete.label              "Manzilga jo‘natish">
-<!ENTITY itemSpellCheck.label                "Imlo">
+<!ENTITY itemSpellCheck.label                "Yozayotganda imlo xatolari tekshirish">
 
 <!ENTITY dialogCompose.title                 "Yozish">
 
@@ -35,9 +35,9 @@
 <!ENTITY languagePopup.accessKey              "T">
 <!ENTITY downloadDictionaries.label           "Boshqa lug‘atlarni yuklab olish">
 
-<!ENTITY warnOnSendAccelKey.label             "Xabar jo‘natish uchun klaviatura tugmalaridan foydalanilganda jo‘natishdan oldin tasdiqlansin">
+<!ENTITY warnOnSendAccelKey.label             "Xabar jo‘natishda tayyot tugmalardan foydalanishni tasdiqlash">
 <!ENTITY warnOnSendAccelKey.accesskey         "t">
-<!ENTITY autoSave.label                       "Avtosaqlansin:">
+<!ENTITY autoSave.label                       "Avto saqlash –">
 <!ENTITY autoSave.accesskey                   "A">
 <!ENTITY autoSaveEnd.label                    "har daqiqada">
 

@@ -3,24 +3,24 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemJunk.label          "Spam">
-<!ENTITY itemPhishing.label      "E-pochta orqali tovlamachilik">
+<!ENTITY itemPhishing.label      "E-Pochta qallobliklari">
 <!ENTITY itemPasswords.label     "Parollar">
 <!ENTITY itemAntiVirus.label     "Antivirus">
 <!-- Junk Mail Controls -->
 
-<!ENTITY junkMail.intro "Xatlarni spamga qo‘shish asosiy sozlamalarini o‘rnatish. Hisobning maxsus xatlarni spamga qo‘shishni Hisob sozlamalaridan moslash mumkin.">
-<!ENTITY manualMark.label "Xabarlarni spam sifatida belgilaganimda:">
+<!ENTITY junkMail.intro "Asosiy spam sozlamalarini o‘rnating. Hisobda ko‘rsatilgan xatlarni spamga qo‘shish sozlamalarini Hisob sozlamalarida moslash mumkin.">
+<!ENTITY manualMark.label "Xabarlar spam sifatida belgilanganda:">
 <!ENTITY manualMark.accesskey "b">
 <!ENTITY manualMarkModeMove.label "Ular hisobning &quot;Spam&quot; jildiga jo‘natilsin">
 <!ENTITY manualMarkModeMove.accesskey "o">
 <!ENTITY manualMarkModeDelete.label "Ular o‘chirilsin">
 <!ENTITY manualMarkModeDelete.accesskey "o">
-<!ENTITY markAsReadOnSpam.label "O‘qiganda spam sifatida aniqlangan xabarlarni belgilash">
+<!ENTITY markAsReadOnSpam.label "Spam sifatida aniqlangan xabarlarni o‘qilgan sifatida belgilash">
 <!ENTITY markAsReadOnSpam.accesskey "b">
-<!ENTITY enableAdaptiveJunkLogging.label "Avtomatik spamga qo‘shish filterini kiritishni yoqish">
+<!ENTITY enableAdaptiveJunkLogging.label "Moslashuvchan spam filter kiritishlarini yoqish">
 <!ENTITY enableAdaptiveJunkLogging.accesskey "y">
 <!ENTITY openJunkLog.label "Jurnalni ko‘rsatish">
-<!ENTITY openJunkLog.accesskey "J">
+<!ENTITY openJunkLog.accesskey "k">
 <!ENTITY resetTrainingData.label "O‘rganish ma’lumotlarini tiklash">
 <!ENTITY resetTrainingData.accesskey "t">
 <!-- Phishing Detector -->
