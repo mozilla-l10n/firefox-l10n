@@ -189,9 +189,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "พิมพ์">
 <!ENTITY printButton.tooltip          "พิมพ์หน้านี้">
 
+<!ENTITY urlbar.viewSiteInfo.label                      "ดูข้อมูลไซต์">
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
+<!ENTITY urlbar.defaultNotificationAnchor.label         "ดูการแจ้งเตือน">
 
 
 
@@ -208,10 +210,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+<!ENTITY urlbar.translateNotificationAnchor.label       "แปลหน้านี้">
 
 
 
-
+<!ENTITY urlbar.openHistoryPopup.tooltip                "แสดงประวัติ">
 
 <!ENTITY searchItem.title             "ค้นหา">
 <!-- Toolbar items --> 
@@ -252,8 +255,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.commandkey            "a">
 <!ENTITY webapps.label                "แอป">
 <!ENTITY webapps.accesskey            "อ">
-
-
+<!ENTITY loopMenuItem.label           "เริ่มการสนทนา…">
+<!ENTITY loopMenuItem.accesskey       "ร">
 
 <!ENTITY webDeveloperMenu.label       "นักพัฒนาเว็บ">
 <!ENTITY webDeveloperMenu.accesskey   "พ">
@@ -333,8 +336,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "ฟ">
 
 
-
-
+<!ENTITY userContextPersonal.label        "ส่วนบุคคล">
+<!ENTITY userContextPersonal.accesskey    "ส">
 
 
 
@@ -500,9 +503,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "เปลี่ยนการตั้งค่าการค้นหา">
 
-
-
-
+<!ENTITY searchInNewTab.label         "ค้นหาในแท็บใหม่">
+<!ENTITY searchInNewTab.accesskey     "แ">
+<!ENTITY searchSetAsDefault.label     "ตั้งเป็นเครื่องมือค้นหาปริยาย">
+<!ENTITY searchSetAsDefault.accesskey "ป">
 
 <!ENTITY tabView.commandkey           "e">
 
