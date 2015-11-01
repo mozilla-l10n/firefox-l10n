@@ -200,20 +200,23 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "আপনার লগইন তথ্য ব্যবস্থাপনা করুন">
 <!ENTITY urlbar.passwordNotificationAnchor.label        "আপনার পাসওয়ার্ড সংরক্ষণ করতে টিক দিন">
 <!ENTITY urlbar.webappsNotificationAnchor.label         "অ্যাপ ইনস্টল বার্তাটি দেখুন">
+<!ENTITY urlbar.pluginsNotificationAnchor.label         "এই পাতায় ব্যবহৃত প্লাগইন নিয়ন্ত্রণ করুন">
+<!ENTITY urlbar.webNotsNotificationAnchor.label         "সাইটটি নোটিফিকেশন দেখাতে পারবে কিনা তা পরিবর্তন করুন">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "সাইটটির সাথে আপনার ক্যামেরা এবং/কিংবা মাইক্রোফোন শেয়ার নিয়ন্ত্রণ করুন">
+<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "সাইটটির সাথে আপনি আপনার ক্যামেরা এবং/কিংবা মাইক্রোফোন শেয়ার করছেন">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "সাইটটির সাথে আপনার মাইক্রোফোন শেয়ার নিয়ন্ত্রণ করুন">
+<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "সাইটটির সাথে আপনি আপনার মাইক্রোফোন শেয়ার করছেন">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "সাইটটির সাথে আপনার উইন্ডোজ কিংবা স্ক্রিন শেয়ার নিয়ন্ত্রণ করুন">
+<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "সাইটটির সাথে আপনি উইন্ডো অথবা আপনার স্ক্রীন শেয়ার করছেন">
 
+<!ENTITY urlbar.pointerLockNotificationAnchor.label     "সাইটটি পয়েন্টার আড়াল করতে পারবে কি পারবে না তা পরিবর্তন করুন">
+<!ENTITY urlbar.servicesNotificationAnchor.label        "সার্ভিস ইন্সটল মেসেজ দেখুন">
+<!ENTITY urlbar.translateNotificationAnchor.label       "এই পাতাটি অনুবাদ করুন">
+<!ENTITY urlbar.translatedNotificationAnchor.label      "পাতার অনুবাদ নিয়ন্ত্রণ করুন">
+<!ENTITY urlbar.emeNotificationAnchor.label             "DRM সফটওয়্যারের ব্যবহার নিয়ন্ত্রণ করুন">
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY urlbar.openHistoryPopup.tooltip                "ইতিহাস দেখুন">
 
 <!ENTITY searchItem.title             "অনুসন্ধান">
 <!-- Toolbar items --> 
@@ -254,8 +257,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.commandkey            "A">
 <!ENTITY webapps.label                "অ্যাপস A">
 <!ENTITY webapps.accesskey            "A">
-
-
+<!ENTITY loopMenuItem.label           "আলাপ শুরু করুন... t">
+<!ENTITY loopMenuItem.accesskey       "t">
 
 <!ENTITY webDeveloperMenu.label       "ওয়েব ডেভেলপার W">
 <!ENTITY webDeveloperMenu.accesskey   "W">
@@ -333,16 +336,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "ফাইল (F)"> 
 <!ENTITY fileMenu.accesskey       "F">
+<!ENTITY newUserContext.label             "নতুন কন্টেইনার ট্যাব C">
+<!ENTITY newUserContext.accesskey         "C">
+<!ENTITY userContextPersonal.label        "ব্যক্তিগত P">
+<!ENTITY userContextPersonal.accesskey    "P">
 
 
 
 
-
-
-
-
-
-
+<!ENTITY userContextShopping.label        "কেনাকাটা S">
+<!ENTITY userContextShopping.accesskey    "S">
 <!ENTITY newNavigatorCmd.label        "নতুন উইন্ডো (N)">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
