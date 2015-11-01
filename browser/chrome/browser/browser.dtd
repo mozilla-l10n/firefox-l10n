@@ -202,17 +202,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "इस पृष्ठ पर प्लगइन उपयोग प्रबंधन करें">
 <!ENTITY urlbar.webNotsNotificationAnchor.label         "साइट आपको अधिसूचना दिखा सकती हैं क्या बदलें">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "साइट के साथ अपने कैमरे और / या माइक्रोफोन बांटने की व्यवस्था प्रबंधित करें">
+<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "आप साइट के साथ अपना कैमरा और / या माइक्रोफोन साझा कर रहें हैं">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "साइट के साथ अपने माइक्रोफोन बांटने की व्यवस्था प्रबंधित करें">
+<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "आप साइट के साथ अपना माइक्रोफोन साझा कर रहे हैं">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "साइट के साथ अपनी विंडोज या स्क्रीन साझा प्रबंधित करें">
+<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "साइट के साथ अपनी विंडोज या स्क्रीन साझा कर रहें हैं">
+
+<!ENTITY urlbar.pointerLockNotificationAnchor.label     "साइट संकेतक छुपा सकती है क्या बदलें">
+<!ENTITY urlbar.servicesNotificationAnchor.label        "सेवा स्थापन संदेश देखें">
+<!ENTITY urlbar.translateNotificationAnchor.label       "इस पृष्ठ का अनुवाद करें">
+<!ENTITY urlbar.translatedNotificationAnchor.label      "पृष्ठ अनुवाद प्रंबंधित करें">
 
 
-
-
-
-
-
-
-
-
-
+<!ENTITY urlbar.openHistoryPopup.tooltip                "इतिहास दिखाएँ">
 
 <!ENTITY searchItem.title             "खोज">
 <!-- Toolbar items --> 
@@ -247,7 +250,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "डाउनलोड">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
-
+<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "सहयुक्तियाँ">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
@@ -332,16 +335,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "फ़ाइल"> 
 <!ENTITY fileMenu.accesskey       "F">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY newUserContext.label             "नया Container टैब">
+<!ENTITY newUserContext.accesskey         "C">
+<!ENTITY userContextPersonal.label        "Personal">
+<!ENTITY userContextPersonal.accesskey    "P">
+<!ENTITY userContextWork.label            "Work">
+<!ENTITY userContextWork.accesskey        "W">
+<!ENTITY userContextBanking.label         "Banking">
+<!ENTITY userContextBanking.accesskey     "B">
+<!ENTITY userContextShopping.label        "Shopping">
+<!ENTITY userContextShopping.accesskey    "S">
 <!ENTITY newNavigatorCmd.label        "नया विंडो">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
