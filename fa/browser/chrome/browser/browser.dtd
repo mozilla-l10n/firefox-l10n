@@ -189,15 +189,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "چاپ">
 <!ENTITY printButton.tooltip          "چاپ کردن این صفحه">
 
+<!ENTITY urlbar.viewSiteInfo.label                      "نمایش اطلاعات سایت">
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
+<!ENTITY urlbar.defaultNotificationAnchor.label         "نمایش یک اعلان">
 <!ENTITY urlbar.geolocationNotificationAnchor.label     "نمایش درخواست موقعیت">
-
-
-
-
-
+<!ENTITY urlbar.addonsNotificationAnchor.label          "نمایش پیامِ نصبِ افزودنی">
+<!ENTITY urlbar.indexedDBNotificationAnchor.label       "نمایش پیامِ فضای ذخیره‌سازی برون‌خط برنامه">
+<!ENTITY urlbar.loginFillNotificationAnchor.label       "مدیریت اطلاعات ورود به سایت‌ها">
+<!ENTITY urlbar.passwordNotificationAnchor.label        "بررسی کنید که آیا می‌خواهید گذرواژه خود را ذخیره کنید">
+<!ENTITY urlbar.webappsNotificationAnchor.label         "نمایش پیامِ نصبِ برنامه">
 
 
 
@@ -529,7 +531,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
-<!ENTITY viewPageSourceCmd.label      "نمایش مبداء صفحه">
+<!ENTITY viewPageSourceCmd.label      "نمایش کدمنبع صفحه">
 <!ENTITY viewPageSourceCmd.accesskey  "ن">
 <!ENTITY viewFrameSourceCmd.label     "نمایش مبداء چارچوب">
 <!ENTITY viewFrameSourceCmd.accesskey "ن">
