@@ -223,7 +223,7 @@
 <!ENTITY fxaccount_status_linktos "পরিসেবার নিয়মাবলী">
 <!ENTITY fxaccount_status_linkprivacy "গোপনীয়তা নীতিমালা">
 <!ENTITY fxaccount_status_more "More&ellipsis;">
-
+<!ENTITY fxaccount_remove_account "Disconnect&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "ফায়ারফক্স অ্যাকাউন্ট মুছে ফেলবেন?">
 <!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; আপনার অ্যাকাউন্টের সাথে সিঙ্ক করা বন্ধ করবে, কিন্তু এই ডিভাইসে আপনার ব্রাউজিং ডেটা মুছে ফেলবে না।">
