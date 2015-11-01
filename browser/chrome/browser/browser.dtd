@@ -200,7 +200,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.label        "जाँचें अगर आप अपना कूटशब्द सहेजना चाहते हों">
 <!ENTITY urlbar.webappsNotificationAnchor.label         "एप्प स्थापन संदेश देखें">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "इस पृष्ठ पर प्लगइन उपयोग प्रबंधन करें">
-
+<!ENTITY urlbar.webNotsNotificationAnchor.label         "साइट आपको अधिसूचना दिखा सकती हैं क्या बदलें">
 
 
 
