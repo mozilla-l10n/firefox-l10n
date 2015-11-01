@@ -176,13 +176,13 @@ functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "ssl_error_unsupported_version". -->
 <!ENTITY sslv3Used.longDesc "اطلاعات پیشرفته: ssl_error_unsupported_version">
-
+<!ENTITY sslv3Used.learnMore "بیشتر بدانید…">
 
 <!ENTITY weakCryptoUsed.title "اتصال شما امن نیست">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "ssl_error_no_cypher_overlap". -->
 <!ENTITY weakCryptoUsed.longDesc "اطلاعات پیشرفته: ssl_error_no_cypher_overlap">
-
+<!ENTITY weakCryptoUsed.learnMore "بیشتر بدانید…">
 <!ENTITY weakCryptoAdvanced.title "پیشرفته">
-
+<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> از تکنولوژی امنیتی منسوخ شده استفاده می‌کند که در برابر حمله‌ها آسیب‌پذیر است. یک مهاجم به راحتی می‌تواند اطلاعاتی که شما فکر می‌کنید امن هستند را افشا کند.">
 <!ENTITY weakCryptoAdvanced.override "(امن نیست) تلاش برای بارگذاری <span class='hostname'></span>با استفاده از امنیت منسوخ شده">

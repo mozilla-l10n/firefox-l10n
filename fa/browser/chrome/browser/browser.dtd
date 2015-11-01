@@ -201,14 +201,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.label        "بررسی کنید که آیا می‌خواهید گذرواژه خود را ذخیره کنید">
 <!ENTITY urlbar.webappsNotificationAnchor.label         "نمایش پیامِ نصبِ برنامه">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "مدیریت پلاگین‌های استفاده شده در این صفحه">
+<!ENTITY urlbar.webNotsNotificationAnchor.label         "تغییر اینکه آیا سایت می‌تواند اعلان‌هایی به شما نمایش دهد یا خیر">
 
-
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "مدیریت اینکه آیا دوربین و/یا میکروفون خود را با این سایت به اشتراک می‌گذارید یا خیر">
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "شما دوربین یا میکروفن خود را با این سایت به اشتراک گذاشته‌اید">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "مدیریت به‌اشتراک‌گذاری میکروفن با این پایگاه">
-
+<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "شما میکروفن خود را با این سایت به اشتراک گذاشته‌اید">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "مدیریت به اشتراک‌گذاری پنجره یا صفحه خود با پایگاه">
 <!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "شما پنجره صفحه خود را با این سایت به اشتراک گذاشتید">
 
+<!ENTITY urlbar.pointerLockNotificationAnchor.label     "تغییر اینکه آیا سایت می‌تواند نشانگر را مخفی کند یا خیر">
 <!ENTITY urlbar.servicesNotificationAnchor.label        "مشاهده پیام‌های سرویس های نصب شده">
 <!ENTITY urlbar.translateNotificationAnchor.label       "ترجمه این صفحه">
 <!ENTITY urlbar.translatedNotificationAnchor.label      "مدیریت صفحه ترجمه">
@@ -334,8 +336,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "فایل"> 
 <!ENTITY fileMenu.accesskey       "ف">
-
-
+<!ENTITY newUserContext.label             "ایجاد زبانه حامل جدید">
+<!ENTITY newUserContext.accesskey         "ح">
 <!ENTITY userContextPersonal.label        "شخصی">
 <!ENTITY userContextPersonal.accesskey    "ش">
 <!ENTITY userContextWork.label            "کار">

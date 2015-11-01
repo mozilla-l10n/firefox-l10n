@@ -7,12 +7,13 @@
 <!ENTITY  blockPopups.label           "بستن پنجره‌های اتوماتیک">
 <!ENTITY  blockPopups.accesskey       "ب">
 
-
-
-
-
-
-
+<!ENTITY  notificationsPolicy.label            "اعلان‌ها">
+<!ENTITY  notificationsPolicyDesc2.label        "انتخاب کنید چه سایتی‌ها می‌توانند اعلان دریافت کنند">
+<!ENTITY  notificationsPolicyButton.accesskey  "ا">
+<!ENTITY  notificationsPolicyButton.label      "انتخاب…">
+<!ENTITY  notificationsDoNotDisturb.label      "مزاحم من نشوید">
+<!ENTITY  notificationsDoNotDisturb.accesskey  "ن">
+<!ENTITY  notificationsDoNotDisturbDetails.value "هیچ اعلانی تا زمان راه‌اندازی مجدد &brandShortName; دریافت نخواهید کرد">
 
 <!ENTITY  popupExceptions.label       "استثناها…">
 <!ENTITY  popupExceptions.accesskey   "ا">
