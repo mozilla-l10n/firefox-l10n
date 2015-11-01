@@ -169,7 +169,7 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint "نکته: هر وب سایتی را با فشردن طولانی بر روی فیلد جستجو و تپ بر روی ایکون&formatI;  به فهرست تامین کننده‌های جستجو اضافه کنید.">
+<!ENTITY pref_search_hint "نکته: هر وب سایتی را با فشردن طولانی بر روی فیلد جستجو و تپ بر روی شمایل &formatI;  به فهرست تامین کننده‌های جستجو اضافه کنید.">
 <!ENTITY pref_category_devtools "ابزارهای توسعه‌دهندگان">
 <!ENTITY pref_developer_remotedebugging "رفع‌اشکال از راه دور">
 <!ENTITY pref_developer_remotedebugging_usb "رفع اشکال راه دور به واسطه‌ی USB">
@@ -292,7 +292,7 @@ size. -->
 <!ENTITY pref_sync "هم‌گام‌سازی">
 <!ENTITY pref_sync_summary2 "زبانه‌ها، نشانک‌ها، ورودها و تاریخچه خود را هم‌گام‌سازی کنید">
 <!ENTITY pref_search_suggestions "نمایش پیشنهادهای جست‌وجو">
-
+<!ENTITY pref_history_search_suggestions "نمایش تاریخچه جست‌وجو">
 <!ENTITY pref_import_android "وارد کردن از آندروید">
 <!ENTITY pref_import_android_summary "وارد‌کردن نشانک‌ها و تاریخچه از مرورگر اصلی">
 <!ENTITY pref_private_data_history2 "تاریخچۀ مرور">
@@ -712,6 +712,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      We don't have control over the style of this dialog and it looks
      unpolished when this string is longer than one line so ideally keep it
      short! -->
+<!ENTITY intent_uri_private_browsing_multiple_match_title "خروج از حالت مرور خصوصی؟">
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
      above a QR reader that is actively scanning for QR codes.  The expected QR
