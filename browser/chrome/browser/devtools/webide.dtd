@@ -137,8 +137,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "স্বয়ংক্রিয়ভাবে ক্লোজিং ব্র্যাকেট দিন">
 <!ENTITY prefs_options_keybindings "কী-বাইন্ডিং">
 <!ENTITY prefs_options_keybindings_default "পূর্বনির্ধারিত">
-
-
+<!ENTITY prefs_options_autosavefiles "ফাইল স্বয়ংসংরক্ষিত">
+<!ENTITY prefs_options_autosavefiles_tooltip "প্রোজেক্ট চালু হবার পূর্বে স্বয়ংক্রিয়ভাবে সম্পাদিত ফাইল সংরক্ষণ করুন">
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "অনুমতি টেবিল">

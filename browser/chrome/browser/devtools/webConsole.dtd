@@ -103,5 +103,5 @@
 <!ENTITY clearOutputCtrl.key  "L">
 <!ENTITY openInVarViewCmd.label "Variables প্রদর্শনীতে খুলুন">
 <!ENTITY openInVarViewCmd.accesskey "V">
-
-
+<!ENTITY storeAsGlobalVar.label "গ্লোবাল ভেরিয়েবল হিসেবে সংরক্ষণ S">
+<!ENTITY storeAsGlobalVar.accesskey "S">
