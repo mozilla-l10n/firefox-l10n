@@ -201,6 +201,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Verificar se você deseja salvar sua senha">
 <!ENTITY urlbar.webappsNotificationAnchor.label         "Ver a mensagem de instalação do aplicativo">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Gerenciar o uso do plugin nesta página">
+<!ENTITY urlbar.webNotsNotificationAnchor.label         "Alterar a opção do site mostrar suas notificações">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Gerenciar o compartilhamento da sua câmera e/ou microfone com o site">
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Você está compartilhando sua câmera e/ou microfone com o site">
@@ -209,6 +210,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Gerenciar o compartilhamento de suas janelas ou tela com o site">
 <!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Você esta compartilhando uma janela ou tela com o site">
 
+<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Alterar a opção do site ocultar o ponteiro">
 <!ENTITY urlbar.servicesNotificationAnchor.label        "Ver a mensagem da instalação do serviço">
 <!ENTITY urlbar.translateNotificationAnchor.label       "Traduzir esta página">
 <!ENTITY urlbar.translatedNotificationAnchor.label      "Gerenciar tradução da página">
