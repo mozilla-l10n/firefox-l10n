@@ -192,7 +192,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
-
+<!ENTITY urlbar.geolocationNotificationAnchor.label     "نمایش درخواست موقعیت">
 
 
 
@@ -204,7 +204,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "شما دوربین یا میکروفن خود را با این سایت به اشتراک گذاشته‌اید">
 
 
-
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "مدیریت به اشتراک‌گذاری پنجره یا صفحه خود با پایگاه">
 <!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "شما پنجره صفحه خود را با این سایت به اشتراک گذاشتید">
 
 
