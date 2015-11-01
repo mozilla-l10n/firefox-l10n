@@ -7,7 +7,9 @@
 <!ENTITY privatebrowsingpage.title.private "i ochrona przed śledzeniem">
 <!ENTITY privatebrowsingpage.title.normal1 "Karta nie jest otwarta w trybie prywatnym">
 
-<!ENTITY privatebrowsingpage.description.private4 "Program &brandShortName; będzie chronił przed śledzeniem aktywności użytkownika oraz nie zachowa historii przeglądania, ale pobrane pliki i dodane zakładki zostaną zachowane na urządzeniu.">
+<!ENTITY privatebrowsingpage.description.trackingProtection "Program &brandShortName; blokuje części stron, które mogą śledzić aktywność użytkownika.">
+<!ENTITY privatebrowsingpage.description.privateDetails "Historia nie będzie zachowywana, ale pobrane pliki i dodane zakładki zostaną zachowane na urządzeniu.">
+
 <!ENTITY privatebrowsingpage.description.normal2 "W trybie prywatnym, historia przeglądania i ciasteczka nie będą zachowywane, ale pobrane pliki i dodane zakładki zostaną zachowane na urządzeniu.">
 
 <!ENTITY privatebrowsingpage.link.private "Więcej informacji">
