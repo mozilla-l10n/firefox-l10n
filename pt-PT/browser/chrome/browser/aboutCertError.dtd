@@ -11,6 +11,8 @@ by NSS/PSM via netError.xhtml. -->
 
 <!ENTITY certerror.pagetitle  "Ligação insegura">
 <!ENTITY certerror.longpagetitle "Esta ligação não é de confiança">
+<!-- These are going to be used for the updated design in Bug 1207107 -->
+
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -20,6 +22,13 @@ com segurança a <b>#1</b>, mas não foi possível confirmar que a sua ligação
 <!ENTITY certerror.introPara2 "Normalmente, quando tenta estabelecer uma ligação segura, 
 os sítios mostram a identificação de confiança para lhe provar que 
 está a ir para o sítio certo. No entanto, a identidade deste sítio não pode ser verificada.">
+<!-- These are going to be used for the udpated design in Bug 1207107 -->
+<!-- Localization note (certerror.introPara) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
+
+
+
 
 <!ENTITY certerror.whatShouldIDo.heading "O que devo fazer?">
 <!ENTITY certerror.whatShouldIDo.content "Se costuma aceder regularmente a este sítio 
