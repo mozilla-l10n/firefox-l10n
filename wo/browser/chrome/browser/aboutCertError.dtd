@@ -11,12 +11,21 @@ by NSS/PSM via netError.xhtml. -->
 
 <!ENTITY certerror.pagetitle  "Jokkoo bu kenn dëggalul">
 <!ENTITY certerror.longpagetitle "Jokkoo bii kenn dëggaluko">
+<!-- These are going to be used for the updated design in Bug 1207107 -->
+
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
 <!ENTITY certerror.introPara1 "Da nga laaj &brandShortName; mu jokkoo ak kaarange ak <b>#1</b>, wante mëneesula dëggal ni sa jokkoo am na kaarange.">
 <!ENTITY certerror.introPara2 "Ci yoon, boo bëggee jokkoo ak kaarange, dal yi dañuy wane dantite bu wóor bu lay won ni yaa ngi ci màkkaan bu baax. Wante, dantite dal bii kenn mënu ko seet.">
+<!-- These are going to be used for the udpated design in Bug 1207107 -->
+<!-- Localization note (certerror.introPara) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
+
+
+
 
 <!ENTITY certerror.whatShouldIDo.heading "Lan laa wara def ?">
 <!ENTITY certerror.whatShouldIDo.content "Su fekkeeni da ngay faral di jokkoo ak dal bii te doo am tolof tolof, njumte bii mën na tekki ni dafa am ku bëgg foqati dantite dal bi te bu boobaa waru loo kontine.">
