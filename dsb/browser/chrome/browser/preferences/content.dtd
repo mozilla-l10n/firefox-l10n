@@ -14,6 +14,7 @@
 
 
 
+
 <!ENTITY  popupExceptions.label       "Wuwześa…">
 <!ENTITY  popupExceptions.accesskey   "W">
 
@@ -55,4 +56,4 @@
 
 <!ENTITY  playDRMContent.label         "DRM-wopśimjeśe wótgraś">
 <!ENTITY  playDRMContent.accesskey     "t">
-<!ENTITY  playDRMContent.learnMore.label "Dalšne informacije">
+
