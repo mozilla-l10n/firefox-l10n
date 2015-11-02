@@ -11,6 +11,8 @@ by NSS/PSM via netError.xhtml. -->
 
 <!ENTITY certerror.pagetitle  "Ceŋol ngol Hoolaaka">
 <!ENTITY certerror.longpagetitle "Ngol Ceŋol Hoolaaka">
+<!-- These are going to be used for the updated design in Bug 1207107 -->
+
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -20,6 +22,13 @@ fannu kisnaaɗo to <b>#1</b>, kono min mbaawaa teeŋtinde so ceŋol maa ena hisi
 <!ENTITY certerror.introPara2 "Ena heewnoo so a etiima seŋaade kisngol; 
 lowe ɗee maa ngaddu innittal koolangal ngam hollude ngon-ɗaa 
 ko e ñiiɓirde hisnde. Kono innital ndee lowre waawaa hoolkiseede.">
+<!-- These are going to be used for the udpated design in Bug 1207107 -->
+<!-- Localization note (certerror.introPara) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
+
+
+
 
 <!ENTITY certerror.whatShouldIDo.heading "Ko Pot-mi Waɗde?">
 <!ENTITY certerror.whatShouldIDo.content "So aɗa heewi seŋaade e 
