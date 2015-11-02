@@ -11,6 +11,8 @@ by NSS/PSM via netError.xhtml. -->
 
 <!ENTITY certerror.pagetitle  "kɔnɛkhyɛn a yɛnngye nndi">
 <!ENTITY certerror.longpagetitle "Yɛnngyi kɔnɛkhyɛn yi ndi">
+<!-- These are going to be used for the updated design in Bug 1207107 -->
+
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -20,6 +22,13 @@ ahotew-mu nkɔ <b>#1</b> nso yentumi ndi adanse sɛ kɔnɛkhyɛn no ho tew.">
 <!ENTITY certerror.introPara2 "sɛ woyɛ adwen sɛ wobɛ kɔnɛkte ahotew-mu a,
 asaet bɛkyerɛ wo ahyɛnsode a wɔgye edi de kyerɛ wo sɛ worekɔ 
 bea pa. Mmom no, yentumi ndi saet yi ahotew ho adanse.">
+<!-- These are going to be used for the udpated design in Bug 1207107 -->
+<!-- Localization note (certerror.introPara) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
+
+
+
 
 <!ENTITY certerror.whatShouldIDo.heading "Dɛn na me nnyɛ?">
 <!ENTITY certerror.whatShouldIDo.content "Sɛ wo tae kɔnɛkte 
