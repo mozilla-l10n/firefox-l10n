@@ -14,6 +14,7 @@
 
 
 
+
 <!ENTITY  popupExceptions.label       "Excepcions…">
 <!ENTITY  popupExceptions.accesskey   "E">
 
@@ -55,4 +56,4 @@
 
 <!ENTITY  playDRMContent.label         "Reprodueix el contingut amb DRM">
 <!ENTITY  playDRMContent.accesskey     "R">
-<!ENTITY  playDRMContent.learnMore.label "Més informació">
+
