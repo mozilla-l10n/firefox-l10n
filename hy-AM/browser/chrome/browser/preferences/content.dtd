@@ -14,6 +14,7 @@
 
 
 
+
 <!ENTITY  popupExceptions.label       "Բացառություններ…">
 <!ENTITY  popupExceptions.accesskey   "Բ">
 
@@ -55,4 +56,4 @@
 
 <!ENTITY  playDRMContent.label         "Խաղարկել DRM բովանդակություն">
 <!ENTITY  playDRMContent.accesskey     "Խ">
-<!ENTITY  playDRMContent.learnMore.label "Իմանալ ավելին">
+
