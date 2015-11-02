@@ -14,6 +14,7 @@
 
 
 
+
 <!ENTITY  popupExceptions.label       "E ခြွင်းချက်များ...">
 <!ENTITY  popupExceptions.accesskey   "E">
 
@@ -55,4 +56,4 @@
 
 <!ENTITY  playDRMContent.label         "DRM အကြောင်းအရာများကို ဖွင့်ပါ P">
 <!ENTITY  playDRMContent.accesskey     "P">
-<!ENTITY  playDRMContent.learnMore.label "ပိုမိုလေ့လာရန်">
+
