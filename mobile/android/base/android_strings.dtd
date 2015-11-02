@@ -149,6 +149,8 @@
      other devices present. This label should briefly inform the user that they
      need another connected device in order to use the feature. -->
 
+<!ENTITY menu_no_synced_devices "এই ট্যাবটি অন্য সংযুক্ত ডিভাইসে পাঠান">
+
 <!ENTITY pref_category_search3 "অনুসন্ধান করুন">
 <!ENTITY pref_category_search_summary "আপনার অনুসন্ধান প্রদানকারীদের স্বনির্ধারণ করুন">
 <!ENTITY pref_category_display "প্রদর্শন">
@@ -214,15 +216,17 @@
 <!ENTITY pref_cookies_not_accept_foreign "সক্রিয় অাছে , 3rd পার্টি ছাড়া">
 <!ENTITY pref_cookies_disabled "নিষ্ক্রিয়">
 
-
+<!ENTITY pref_tap_to_load_images_title "ছবি লোড করার জন্য ট্যাপ করুন">
+<!ENTITY pref_tap_to_load_images_summary2 "ইমেজ লোড করবে যখন আপনি ওটাকে লম্বা চাপ দেবেন">
 
 <!ENTITY pref_tracking_protection_title "সুরক্ষা ট্র্যাক করা হচ্ছে">
-
+<!ENTITY pref_tracking_protection_summary3 "ব্যক্তিগত ব্রাউজিং এর মধ্যে সক্রিয়">
 <!ENTITY pref_donottrack_title "ট্র্যাক করবেন না">
 <!ENTITY pref_donottrack_summary "&brandShortName; সাইট দের বলে যে আপনি ট্র্যাক হতে চান না">
 
-
-
+<!ENTITY pref_tracking_protection_enabled "সক্রিয়">
+<!ENTITY pref_tracking_protection_enabled_pb "গোপন ব্রাউজিং এর মধ্যে সক্রিয়">
+<!ENTITY pref_tracking_protection_disabled "নিষ্ক্রিয়">
 
 <!ENTITY tracking_protection_prompt_title "এখন ট্র্যাকিং সুরক্ষার সঙ্গে">
 <!ENTITY tracking_protection_prompt_text "সক্রিয়ভাবে ট্র্যাকিং উপাদান অবরোধ করে, আপনাকে চিন্তা করতে হবে না।">
@@ -292,7 +296,7 @@ size. -->
 <!ENTITY pref_sync "সিঙ্ক">
 <!ENTITY pref_sync_summary2 "ট্যাবের বুকমার্ক সংকলন,পাসওয়ার্ডসমূহ,ব্রাউজিং ইতিহাসইতিহাস সিঙ্ক করুন">
 <!ENTITY pref_search_suggestions "অনুসন্ধান পরামর্শ দেখাও">
-
+<!ENTITY pref_history_search_suggestions "অনুসন্ধান এর ইতিহাস দেখান">
 <!ENTITY pref_import_android "অ্যান্ড্রয়েড থেকে ইম্পোর্ট করা হোক">
 <!ENTITY pref_import_android_summary "নেটিভ ব্রাউজার থেকে বুকমার্ক সংকলন এবং ব্রাউজিং ইতিহাস ইম্পোর্ট করুন">
 <!ENTITY pref_private_data_history2 "পূর্ববর্তী ব্রাউজ সংক্রান্ত তথ্য">
