@@ -11,6 +11,8 @@ by NSS/PSM via netError.xhtml. -->
 
 <!ENTITY certerror.pagetitle  "Kết Nối Không Đáng Tin">
 <!ENTITY certerror.longpagetitle "Kết Nối Này Không Đáng Tin">
+<!-- These are going to be used for the updated design in Bug 1207107 -->
+
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -20,6 +22,13 @@ an toàn tới <b>#1</b>, nhưng chúng tôi không thể xác nhận kết nố
 <!ENTITY certerror.introPara2 "Thông thường, khi bạn cố gắng kết nối an toàn, 
  trang web sẽ trình ra định danh tin cậy để chứng minh cho bạn thấy bạn 
  đang đến đúng địa điểm. Tuy nhiên, định danh của trang này không thể xác minh được.">
+<!-- These are going to be used for the udpated design in Bug 1207107 -->
+<!-- Localization note (certerror.introPara) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
+
+
+
 
 <!ENTITY certerror.whatShouldIDo.heading "Tôi Nên Làm Gì?">
 <!ENTITY certerror.whatShouldIDo.content "Nếu bạn thường kết nối tới 
