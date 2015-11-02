@@ -11,6 +11,8 @@ by NSS/PSM via netError.xhtml. -->
 
 <!ENTITY certerror.pagetitle  "நம்பகமில்லா இணைப்பு">
 <!ENTITY certerror.longpagetitle "இந்த இணைப்பு நம்பகமில்லாதது">
+<!-- These are going to be used for the updated design in Bug 1207107 -->
+
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -20,6 +22,13 @@ was trying to connect. -->
 <!ENTITY certerror.introPara2 "பொதுவாக நீங்கள் பாதுகாப்பாக இணைக்க முயற்சிக்கும் போது, 
 இணைய தளங்கள் நம்பகமான அடையாளங்களை கொடுத்து நீங்கள் 
 சரியான இடத்திற்கு செல்வதாக நிரூபிக்கும். எனினும் இந்த அடையாளம் சரிபார்க்கப்படாதது.">
+<!-- These are going to be used for the udpated design in Bug 1207107 -->
+<!-- Localization note (certerror.introPara) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
+
+
+
 
 <!ENTITY certerror.whatShouldIDo.heading "நான் என்ன செய்ய வேண்டும்?">
 <!ENTITY certerror.whatShouldIDo.content "நீங்கள் இந்த தளத்திடுன் இணைக்கப்படும்போது 
