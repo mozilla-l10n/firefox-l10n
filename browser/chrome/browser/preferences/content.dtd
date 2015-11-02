@@ -14,6 +14,7 @@
 
 
 
+
 <!ENTITY  popupExceptions.label       "Undanþágur…">
 <!ENTITY  popupExceptions.accesskey   "U">
 
@@ -55,4 +56,4 @@
 
 <!ENTITY  playDRMContent.label         "Spila DRM innihald">
 <!ENTITY  playDRMContent.accesskey     "S">
-<!ENTITY  playDRMContent.learnMore.label "Vita meira">
+
