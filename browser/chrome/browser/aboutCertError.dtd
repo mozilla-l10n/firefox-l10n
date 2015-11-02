@@ -11,12 +11,21 @@ by NSS/PSM via netError.xhtml. -->
 
 <!ENTITY certerror.pagetitle  "വിശ്വസ്തമല്ലാത്ത കണക്ഷനുകള്">
 <!ENTITY certerror.longpagetitle "ഈ കണക്ഷന്‍ വിശ്വസ്തമല്ല">
+<!-- These are going to be used for the updated design in Bug 1207107 -->
+
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
 <!ENTITY certerror.introPara1 "താങ്കള്‍ &brandShortName; നോടു് സുരക്ഷിതമായി <b>#1</b> കണക്ട് ചെയ്യുവാന്‍ ആവശ്യപ്പെട്ടിരിക്കുന്നു. പക്ഷേ, താങ്കള്‍ സുരക്ഷിതമാണോയെന്ന്  ഞങ്ങള്‍ക്കു് ഉറപ്പില്ല.">
 <!ENTITY certerror.introPara2 "സാധാരണ ,നിങ്ങള്‍ സുരക്ഷിതമായി കണക്ട് ചെയ്യുമ്പോള്‍ സൈറ്റുകളിലെ സുരക്ഷിതാടയാളം കാരണം നിങ്ങള്‍ ശരിയായിടത്തേക്കാണ് പോകുന്നതെന്നു് ഞങ്ങള്‍ക്കുറപ്പിക്കാന്‍ കഴിയും. പക്ഷേ ഈ സൈറ്റിന്റെ സുരക്ഷിതാടയാളം ഉറപ്പിക്കാന്‍ കഴിയുന്നില്ല.">
+<!-- These are going to be used for the udpated design in Bug 1207107 -->
+<!-- Localization note (certerror.introPara) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
+
+
+
 
 <!ENTITY certerror.whatShouldIDo.heading "എന്താണു് ചെയ്യേണ്ടതു്?">
 <!ENTITY certerror.whatShouldIDo.content "നിങ്ങള്‍ സാധാരണ ഈ സൈറ്റിലേക്കു് പ്രശ്നങ്ങള്‍ ഇല്ലാതെയാണു് കണക്ട് ചെയ്യുന്നതു് എങ്കില്‍, ഈ പിശകിന്റ അര്‍ത്ഥം ആരോ അനധികൃതമായി കടക്കുന്നു എന്നാണു്. അതിനാല്‍ തുടരുന്നതു് ഉത്തമമല്ല.">
