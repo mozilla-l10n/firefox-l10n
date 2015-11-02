@@ -196,6 +196,7 @@
 
 <!ENTITY fxaccount_status_header2 'Firefox 계정'>
 <!ENTITY fxaccount_status_signed_in_as '로그인 됨'>
+<!ENTITY fxaccount_status_manage_account '계정 관리'>
 <!ENTITY fxaccount_status_auth_server '계정 서버'>
 <!ENTITY fxaccount_status_sync_now '지금 동기화'>
 <!ENTITY fxaccount_status_syncing2 '동기화 중…'>
