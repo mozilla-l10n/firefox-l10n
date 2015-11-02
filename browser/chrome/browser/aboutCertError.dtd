@@ -11,12 +11,21 @@ by NSS/PSM via netError.xhtml. -->
 
 <!ENTITY certerror.pagetitle  "Umurongo Utizewe">
 <!ENTITY certerror.longpagetitle "iri huriro ntago ryizewe">
+<!-- These are going to be used for the updated design in Bug 1207107 -->
+
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
 <!ENTITY certerror.introPara1 "Mwasabye kujya ku murongo mu buryo bwizewe, ariko ntitwakemeza ko iri huriro ryizewe">
 <!ENTITY certerror.introPara2 "Mu busanzwe, iyo ugerageje kujya ku murongo, imbuga zerekana icyemza ko uri kujya mu mwanya wabugenewe.Nubwo, ikirango cy'urwo rubuga rutahinyuzwa.">
+<!-- These are going to be used for the udpated design in Bug 1207107 -->
+<!-- Localization note (certerror.introPara) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
+
+
+
 
 <!ENTITY certerror.whatShouldIDo.heading "Ni Iki Nakora?">
 <!ENTITY certerror.whatShouldIDo.content "Nujya kuri uru rubuga nta bibazo, ikibazo cyavuga ko hari umuntu ushaka kwiyoberanya ku rubuga, ubwo ntukwiye gukomeza.">
