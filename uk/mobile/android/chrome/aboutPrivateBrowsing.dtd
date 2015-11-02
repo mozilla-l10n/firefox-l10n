@@ -13,6 +13,8 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "Ви не в приватному перегляді">
 
+<!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; блокує частини сторінок, які можуть стежити за вашою діяльністю.">
+<!ENTITY privatebrowsingpage.description.privateDetails "Ми не будемо запам'ятовувати будь-яку історію, але завантажені файли й нові закладки все одно будуть збережені на вашому пристрої.">
 
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses

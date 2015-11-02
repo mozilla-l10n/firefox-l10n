@@ -149,6 +149,7 @@
      clicks on the button to send a tab to another device and there are no
      other devices present. This label should briefly inform the user that they
      need another connected device in order to use the feature. -->
+<!ENTITY menu_no_synced_devices "Надіслати цю вкладку на інший підключений пристрій">
 
 <!ENTITY pref_category_search3 "Пошук">
 <!ENTITY pref_category_search_summary "Налаштувати засоби пошуку">
@@ -170,7 +171,7 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint "Підказка: Додавайте будь-який сайт до списку засобів пошуку довгим натисканням по його пошуковому полю, а потім торкнувшись до іконки &formatI;.">
+<!ENTITY pref_search_hint "Підказка: Додавайте будь-який сайт до списку засобів пошуку тривалим дотиком до його пошукового поля, а потім торкнувшись до піктограми &formatI;.">
 <!ENTITY pref_category_devtools "Інструменти розробника">
 <!ENTITY pref_developer_remotedebugging "Віддалене зневадження">
 <!ENTITY pref_developer_remotedebugging_usb "Віддалене зневадження через USB">
@@ -215,12 +216,17 @@
 <!ENTITY pref_cookies_not_accept_foreign "Увімкнено, включно з третьосторонніми">
 <!ENTITY pref_cookies_disabled "Вимкнено">
 
+<!ENTITY pref_tap_to_load_images_title "Торкніться для завантаження зображень">
+<!ENTITY pref_tap_to_load_images_summary2 "Завантажувати зображення лише тривалим дотиком до них">
 
 <!ENTITY pref_tracking_protection_title "Захист від стеження">
 <!ENTITY pref_tracking_protection_summary3 "Увімкнено в приватному перегляді">
 <!ENTITY pref_donottrack_title "Не стежити">
 <!ENTITY pref_donottrack_summary "&brandShortName; буде повідомляти сайти, що ви не хочете, щоб за вами стежили">
 
+<!ENTITY pref_tracking_protection_enabled "Увімкнено">
+<!ENTITY pref_tracking_protection_enabled_pb "Увімкнено в приватному перегляді">
+<!ENTITY pref_tracking_protection_disabled "Вимкнено">
 
 <!ENTITY tracking_protection_prompt_title "Тепер із захистом від стеження">
 <!ENTITY tracking_protection_prompt_text "Інтенсивне блокування елементів стеження, отже вам не потрібно хвилюватись.">
@@ -290,6 +296,7 @@ size. -->
 <!ENTITY pref_sync "Синхронізація">
 <!ENTITY pref_sync_summary2 "Синхронізація вкладок, закладок, логінів та історії">
 <!ENTITY pref_search_suggestions "Показувати пошукові припущення">
+<!ENTITY pref_history_search_suggestions "Показати історію пошуку">
 <!ENTITY pref_import_android "Імпорт з Android">
 <!ENTITY pref_import_android_summary "Імпорт закладок та історії з вбудованого браузера">
 <!ENTITY pref_private_data_history2 "Історія перегляду">
@@ -521,10 +528,10 @@ size. -->
      as an advisory message on how to add content to the reading list when the reading list empty.
      The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY home_reading_list_hint2 "Підказка: Додавайте статті до вашого списку читання довгим натисканням на іконку &formatI;, коли вона з’являється в панелі адреси.">
+<!ENTITY home_reading_list_hint2 "Підказка: Додавайте статті до свого списку читання тривалим дотиком до піктограми &formatI;, коли вона з’являється в панелі адреси.">
 <!-- Localization note (home_reading_list_hint_accessible): This string is used
      as alternate text for accessibility. It is not visible in the UI. -->
-<!ENTITY home_reading_list_hint_accessible "Підказка: Зберігайте статі до вашого списку читання довгим натисканням на іконку читача, коли вона з’являється в панелі адреси.">
+<!ENTITY home_reading_list_hint_accessible "Підказка: Додавайте статті до свого списку читання тривалим дотиком до кнопки режиму читача, коли вона з’являється в панелі адреси.">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
@@ -582,6 +589,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Захищене з\’єднання">
 <!ENTITY identity_connection_insecure "Незахищене з\’єднання">
+<!ENTITY identity_login_insecure "Ця сторінка незахищена і ваш вхід може бути вразливим.">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; заблокував небезпечний вміст на цій сторінці.">
@@ -701,6 +709,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
+<!ENTITY intent_uri_private_browsing_prompt "Це посилання відкриється в &formatS;. Ви впевнені, що хочете вийти з приватного перегляду?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android
@@ -708,6 +717,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      We don't have control over the style of this dialog and it looks
      unpolished when this string is longer than one line so ideally keep it
      short! -->
+<!ENTITY intent_uri_private_browsing_multiple_match_title "Вийти з приватного перегляду?">
 
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
