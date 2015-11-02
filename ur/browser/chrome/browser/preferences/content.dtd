@@ -14,6 +14,7 @@
 
 
 
+
 <!ENTITY  popupExceptions.label       "استثنیات…">
 <!ENTITY  popupExceptions.accesskey   "ا">
 
@@ -55,4 +56,4 @@
 
 <!ENTITY  playDRMContent.label         "DRM مواد چلائیں ">
 <!ENTITY  playDRMContent.accesskey     "چ">
-<!ENTITY  playDRMContent.learnMore.label "مزید سیکھیں">
+
