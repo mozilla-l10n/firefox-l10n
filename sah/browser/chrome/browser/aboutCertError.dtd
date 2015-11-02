@@ -11,6 +11,8 @@ by NSS/PSM via netError.xhtml. -->
 
 <!ENTITY certerror.pagetitle  "Эрэлэ суох холбонуу">
 <!ENTITY certerror.longpagetitle "Бу холбонуу эрэлэ суох">
+<!-- These are going to be used for the updated design in Bug 1207107 -->
+
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -19,6 +21,13 @@ was trying to connect. -->
 <!ENTITY certerror.introPara2 "Үксүн, көмүскэллээх холбонууну оҥоро сатаатахха, 
 ситим-сирдэр тургутуллубут идентификаторы көрдөрөллөр. 
 Кини сөптөөх сиргэ бараргын бигэргэтэр. Ол эрээри бу ситим-сир идентификатора биллибэтэ.">
+<!-- These are going to be used for the udpated design in Bug 1207107 -->
+<!-- Localization note (certerror.introPara) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
+
+
+
 
 <!ENTITY certerror.whatShouldIDo.heading "Хайыыбыный?">
 <!ENTITY certerror.whatShouldIDo.content "Өскө бу ситим-сири кытта урут туох да эҥкилэ суох ситимнэһэр эбит буоллаххына бу алҕас ким эрэ ситим-сири атынынан уларыта сатыырыттан буолуон сөп. Оннук буоллаҕына салгыы үлэлиириҥ кутталлаах.">
