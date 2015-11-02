@@ -14,6 +14,7 @@
 
 
 
+
 <!ENTITY  popupExceptions.label       "ಹೊರತಾದವುಗಳು...">
 <!ENTITY  popupExceptions.accesskey   "E">
 
@@ -55,4 +56,4 @@
 
 <!ENTITY  playDRMContent.label         "Play DRM ವಿಷಯ">
 <!ENTITY  playDRMContent.accesskey     "P">
-<!ENTITY  playDRMContent.learnMore.label "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
+
