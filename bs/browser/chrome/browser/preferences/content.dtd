@@ -8,7 +8,8 @@
 <!ENTITY  blockPopups.accesskey       "B">
 
 <!ENTITY  notificationsPolicy.label            "Obavijesti">
-<!ENTITY  notificationsPolicyDesc2.label        "Izaberite koje stranice smiju primati obavijesti">
+
+
 <!ENTITY  notificationsPolicyButton.accesskey  "I">
 <!ENTITY  notificationsPolicyButton.label      "Izaberi…">
 <!ENTITY  notificationsDoNotDisturb.label      "Ne ometaj me">
@@ -56,4 +57,4 @@
 
 <!ENTITY  playDRMContent.label         "Reproduciraj DRM sadržaj">
 <!ENTITY  playDRMContent.accesskey     "p">
-<!ENTITY  playDRMContent.learnMore.label "Saznajte više">
+
