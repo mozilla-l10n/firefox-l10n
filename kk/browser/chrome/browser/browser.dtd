@@ -342,10 +342,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY userContextPersonal.accesskey    "Ж">
 <!ENTITY userContextWork.label            "Жұмыс">
 <!ENTITY userContextWork.accesskey        "Ж">
-
-
-
-
+<!ENTITY userContextBanking.label         "Банктер">
+<!ENTITY userContextBanking.accesskey     "Б">
+<!ENTITY userContextShopping.label        "Дүкендер">
+<!ENTITY userContextShopping.accesskey    "Д">
 <!ENTITY newNavigatorCmd.label        "Жаңа терезе">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "т">
