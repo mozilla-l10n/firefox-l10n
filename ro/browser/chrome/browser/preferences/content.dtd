@@ -14,6 +14,7 @@
 
 
 
+
 <!ENTITY  popupExceptions.label       "Excepții…">
 <!ENTITY  popupExceptions.accesskey   "E">
 
@@ -55,4 +56,4 @@
 
 <!ENTITY  playDRMContent.label         "Redă conținut DRM">
 <!ENTITY  playDRMContent.accesskey     "P">
-<!ENTITY  playDRMContent.learnMore.label "Află mai multe">
+
