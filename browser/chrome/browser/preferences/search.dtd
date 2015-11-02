@@ -11,7 +11,7 @@
 
 <!ENTITY showURLBarSuggestions.label           "แสดงคำค้นหาแนะนำในผลการค้นหาของแถบที่อยู่">
 <!ENTITY showURLBarSuggestions.accesskey       "ท">
-
+<!ENTITY urlBarSuggestionsPermanentPB.label    "การแนะนำคำค้นหาจะไม่ปรากฏบนผลลัพธ์ของแถบที่อยู่ เพราะว่าคุณได้ต้้งค่า &brandShortName; ให้ไม่จำประวัติการท่องเว็บ">
 
 <!ENTITY redirectWindowsSearch.label "ใช้เครื่องมือค้นหานี้สำหรับการค้นหาจาก Windows">
 <!ENTITY redirectWindowsSearch.accesskey "W">
