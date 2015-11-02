@@ -8,7 +8,8 @@
 <!ENTITY  blockPopups.accesskey       "B">
 
 <!ENTITY  notificationsPolicy.label            "Notificações">
-<!ENTITY  notificationsPolicyDesc2.label        "Escolha os sítios que estão autorizados a receber notificações">
+
+
 
 
 <!ENTITY  notificationsDoNotDisturb.label      "Não me perturbar">
@@ -56,4 +57,4 @@
 
 <!ENTITY  playDRMContent.label         "Reproduzir conteúdo DRM">
 <!ENTITY  playDRMContent.accesskey     "p">
-<!ENTITY  playDRMContent.learnMore.label "Saber mais">
+
