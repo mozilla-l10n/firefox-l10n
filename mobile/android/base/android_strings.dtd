@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
+<!ENTITY firstrun_panel_title_welcome "환영합니다">
 <!ENTITY  no_space_to_start_error "&brandShortName;를 시작하기에 용량이 너무 작습니다.">
 <!ENTITY  error_loading_file "&brandShortName; 시작하는 중에 오류가 생겼습니다.">
 
@@ -11,8 +11,14 @@
 <!ENTITY  onboard_start_button_account "&brandShortName; 가입">
 <!ENTITY  onboard_start_button_browser "브라우징 시작">
 <!ENTITY  onboard_start_restricted1 "&brandShortName; 간소화 버전으로 더 쉽고 안전하고 사용하세요.">
+<!ENTITY firstrun_button_next "다음">
 
-
+<!ENTITY firstrun_import_title "가져오기">
+<!ENTITY firstrun_import_message "&brandShortName;에 오신 것을 환영합니다">
+<!ENTITY firstrun_import_subtext "다른 브라우저에서 북마크와 방문 기록을 가져옵니다.">
+<!ENTITY firstrun_import_action "&brandShortName;로 전송하기">
+<!ENTITY firstrun_import_dialog_button "전송">
+<!ENTITY firstrun_import_progress_title "전송 중">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
@@ -57,8 +63,9 @@
 
 <!ENTITY history_today_section "오늘">
 <!ENTITY history_yesterday_section "어제">
-<!ENTITY history_week_section2 "지난주">
-<!ENTITY history_older_section2 "지난달">
+<!ENTITY history_week_section3 "최근 7일">
+<!ENTITY history_this_month_section "이번 달">
+<!ENTITY history_older_section3 "6개월 전">
 
 <!ENTITY go "이동">
 <!ENTITY search "검색">
@@ -71,8 +78,6 @@
 <!ENTITY edit_mode_cancel "취소">
 
 <!ENTITY close_tab "탭 닫기">
-<!ENTITY tab_audio_playing "이 탭은 오디오 재생 중">
-<!ENTITY tab_audio_muted "이 탭은 음소거됨">
 <!ENTITY one_tab "한 개의 탭">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -83,6 +88,14 @@
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
 <!ENTITY switch_button_message "스위치">
+<!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
+     visible in the UI, but rather used as a text-to-speech content description
+     for sight-impaired a11y users. The content description is set on a tab
+     title in a list of open tabs when content in that tab is playing audio.
+     &formatS; will be replaced with the title of the tab, as received from the
+     web page. When audio is not playing in a tab, &formatS; will be used as
+     the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "오디오 재생 – &formatS;">
 
 <!ENTITY settings "프로그램 설정">
 <!ENTITY settings_title "프로그램 설정">
@@ -184,6 +197,9 @@
 <!ENTITY pref_home_updates_wifi "Wi-Fi에서만 사용함">
 <!ENTITY pref_home_suggested_sites "사이트 추천 보기">
 <!ENTITY pref_home_suggested_sites_summary "사용자가 관심있어할 사이트 바로가기를 보여줌">
+<!ENTITY pref_category_home_homepage "홈페이지">
+<!ENTITY home_homepage_title "홈페이지 지정하기">
+<!ENTITY home_homepage_use_current_tab "현재 탭 사용하기">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_customize "사용자 설정">
@@ -239,7 +255,6 @@
 <!ENTITY pref_plugins_tap_to_play "탭으로 실행">
 <!ENTITY pref_plugins_disabled "사용 안 함">
 <!ENTITY pref_text_size "글자 크기">
-<!ENTITY pref_reflow_on_zoom4 "텍스트 리플로우">
 <!ENTITY pref_restore "탭">
 <!ENTITY pref_restore_always "항상 복원">
 <!ENTITY pref_restore_quit "&brandShortName; 종료 후 복원하지 않음">
@@ -349,6 +364,7 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY share_title "공유 방법 선택">
 <!ENTITY share_image_failed "이미지 공유하지 않기">
 <!ENTITY save_as_pdf "PDF로 저장">
+<!ENTITY print "인쇄">
 <!ENTITY find_in_page "페이지내 검색">
 <!ENTITY desktop_mode "PC웹으로 보기">
 <!ENTITY page "페이지">
@@ -393,6 +409,8 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY contextmenu_top_sites_pin "사이트 고정">
 <!ENTITY contextmenu_top_sites_unpin "사이트 고정 해제">
 <!ENTITY contextmenu_add_search_engine "검색엔진 추가">
+<!ENTITY contextmenu_mark_read "읽음으로 표시">
+<!ENTITY contextmenu_mark_unread "읽지 않음으로 표시">
 
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
@@ -416,8 +434,8 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
-<!ENTITY pref_prevent_magnifying_glass "돋보기 비활성화 ">
-<!ENTITY pref_prevent_magnifying_glass_summary "모호한 스크린 터치 문제를 해결하기 위해 돋보기 기능을 비활성화">
+<!ENTITY pref_magnifying_glass_enabled "작은 영역 확대">
+<!ENTITY pref_magnifying_glass_enabled_summary "링크와 입력 양식의 주변을 탭하면 확대함">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
@@ -476,8 +494,6 @@ demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY button_set "설정">
 <!ENTITY button_clear "지우기">
 <!ENTITY button_copy "복사">
-
-<!ENTITY firstrun_panel_title_welcome "환영합니다">
 
 <!ENTITY home_top_sites_title "상위 사이트">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -564,14 +580,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_insecure "비보안 연결">
 
 <!-- Mixed content notifications in site identity popup -->
-<!ENTITY mixed_content_blocked_all "&brandShortName;가 이 페이지의 비보안 요소들을 차단했습니다.">
-<!ENTITY mixed_content_blocked_some "&brandShortName;가 이 페이지의 일부 비보안 요소들을 차단했습니다.">
-<!ENTITY mixed_content_display_loaded "이 페이지는 일부 비보안 요소들을 가지고 있습니다.">
-<!ENTITY mixed_content_protection_disabled "비보안 요소 차단을 비활성화 하였습니다.">
-
-<!ENTITY loaded_mixed_content_message "이 페이지는 안전하지 않은 콘텐츠를 보여주고 있습니다.">
-<!ENTITY blocked_mixed_content_message_top "&brandShortName;가 안전하지 않은 콘텐츠를 차단했습니다.">
-<!ENTITY blocked_mixed_content_message_bottom "이 콘텐츠가 차단되어도 대부분의 웹사이트들은 잘 작동할 것입니다.">
+<!ENTITY mixed_content_blocked_all1 "&brandShortName;가 이 페이지의 비보안 요소들을 차단했습니다.">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName;가 이 페이지의 일부 비보안 요소들을 차단했습니다.">
+<!ENTITY mixed_content_display_loaded1 "이 페이지는 일부 비보안 요소들을 (예: 이미지) 가지고 있습니다.">
+<!ENTITY mixed_content_protection_disabled1 "비보안 요소 차단을 비활성화 하였습니다.">
 
 <!-- Tracking content notifications in site identity popup -->
 <!ENTITY doorhanger_tracking_title "추적 방지">
@@ -705,3 +717,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restriction_disallow_clear_history_title2 "\'방문 기록 삭제\' 비활성화">
 <!ENTITY restriction_disallow_master_password_title2 "기본 암호 비활성화">
 <!ENTITY restriction_disallow_guest_browsing_title2 "손님 브라우징 비활성화">
+
+
+<!-- Default Bookmarks titles-->
+<!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!ENTITY bookmarks_about_browser "Firefox: 브라우저 소개">
+<!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "Firefox: 부가 기능으로 커스터마이징">
+<!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "Firefox: 도움말">
+<!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!ENTITY bookmarks_restricted_support2 "Android 타블렛에서 제한된 프로필 사용에 대한 Firefox 도움말">
+<!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!ENTITY bookmarks_restricted_webmaker "웹을 배웁시다: Mozilla Webmaker">
