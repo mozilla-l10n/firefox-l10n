@@ -11,6 +11,8 @@ by NSS/PSM via netError.xhtml. -->
 
 <!ENTITY certerror.pagetitle  "Kgolagano e sa tshephagaleng">
 <!ENTITY certerror.longpagetitle "Kgolagano e ga e Tshephege">
+<!-- These are going to be used for the updated design in Bug 1207107 -->
+
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -20,6 +22,13 @@ mo go sireletsegileng kwa <b>#1</b>, mme re ka se tlhomamise gore kgolagano ya g
 <!ENTITY certerror.introPara2 "Ka tlwaelo, fa o leka go golaganya mo go sireletsegileng, 
 disaete di tla tlhagisa boitshupo jo bo tshepegang go supa fa o ya 
 kwa le felong le le siameng. Le fa go ntse jalo, boitshupo jwa saete e ga bo ka ke jwa netefadiwa.">
+<!-- These are going to be used for the udpated design in Bug 1207107 -->
+<!-- Localization note (certerror.introPara) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
+
+
+
 
 <!ENTITY certerror.whatShouldIDo.heading "Ke dire jang?">
 <!ENTITY certerror.whatShouldIDo.content "Fa o tlwaetse go golagana le 
