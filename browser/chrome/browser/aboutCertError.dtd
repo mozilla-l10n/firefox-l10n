@@ -11,6 +11,8 @@ by NSS/PSM via netError.xhtml. -->
 
 <!ENTITY certerror.pagetitle  "ଅବିଶ୍ୱସ୍ତ ସଂଯୋଗ">
 <!ENTITY certerror.longpagetitle "ଏହି ସଂଯୋଗଟି ଅବିଶ୍ୱସ୍ତ">
+<!-- These are going to be used for the updated design in Bug 1207107 -->
+
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -20,6 +22,13 @@ was trying to connect. -->
 <!ENTITY certerror.introPara2 "ସାଧାରଣତଃ, ଯେତେବେଳେ ଆପଣ ସୁରକ୍ଷିତ ଭାବରେ ସଂଯୋଗ କରିବାକୁ ଚାହାନ୍ତି, 
 ସେତେବେଳେ ଆପଣ ସଠିକ ସ୍ଥାନକୁ ଯାଉଚନ୍ତି ବୋଲି ପ୍ରମାଣ କରିବା ପାଇଁ ସାଇଟଗୁଡ଼ିକ ବିଶ୍ୱସ୍ତ ପରିଚୟ ଉପସ୍ଥାପନ କରିଥାନ୍ତି। 
 ଯଦିଚ,ଏହି ସାଇଟର ପରିଚୟକୁ ଯାଞ୍ଚ କରାଯାଇପାରିବ ନାହିଁ।">
+<!-- These are going to be used for the udpated design in Bug 1207107 -->
+<!-- Localization note (certerror.introPara) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
+
+
+
 
 <!ENTITY certerror.whatShouldIDo.heading "ମୋର କଣ କରିବା ଉଚିତ?">
 <!ENTITY certerror.whatShouldIDo.content "ଯଦି ଆପଣ ସାଧାରଣତଃ ଏହି ସାଇଟରେ ବିନା ସମସ୍ୟାରେ ସଂଯୁକ୍ତ ହେଉଥାନ୍ତି, 
