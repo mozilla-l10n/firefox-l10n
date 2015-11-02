@@ -14,6 +14,7 @@
 
 
 
+
 <!ENTITY  popupExceptions.label       "غٲر مومول...">
 <!ENTITY  popupExceptions.accesskey   "E">
 
@@ -55,4 +56,4 @@
 
 <!ENTITY  playDRMContent.label         "پْلے کْریو ڈی آر ایم کنٹینٹ &amp;">
 <!ENTITY  playDRMContent.accesskey     "P">
-<!ENTITY  playDRMContent.learnMore.label "مزید  ہیچھِو">
+
