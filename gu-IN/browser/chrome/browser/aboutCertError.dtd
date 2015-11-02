@@ -11,12 +11,21 @@ by NSS/PSM via netError.xhtml. -->
 
 <!ENTITY certerror.pagetitle  "અવિશ્વાસુ જોડાણ">
 <!ENTITY certerror.longpagetitle "આ જોડાણ અવિશ્વાસુ છે">
+<!-- These are going to be used for the updated design in Bug 1207107 -->
+
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
 <!ENTITY certerror.introPara1 "તમે &brandShortName; ને <b>#1</b> સાથે સુરક્ષિત રીતે જોડાવા માટે કહેલ છે, પરંતુ અમે એ ખાતરી કરી શકીએ નહિં કે તમારું જોડાણ સુરક્ષિત છે.">
 <!ENTITY certerror.introPara2 "સામાન્ય રીતે, જ્યારે તમે સુરક્ષિત રીતે જોડાવાનો પ્રયાસ કરો, ત્યારે સાઈટો વિશ્વાસ ઓળખ રજૂ કરશે એ બતાવવા માટે કે તમે જ્યાં જઈ રહ્યા છો તે સુરક્ષિત જગ્યા છે. છતાંય, આ સાઈટની ઓળખની ખાતરી કરી શકાતી નથી.">
+<!-- These are going to be used for the udpated design in Bug 1207107 -->
+<!-- Localization note (certerror.introPara) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
+
+
+
 
 <!ENTITY certerror.whatShouldIDo.heading "મારે શું કરવું જોઈએ?">
 <!ENTITY certerror.whatShouldIDo.content "જો તમે સામાન્ય રીતે આ સાઈટ સાથે કોઈપણ જાતની સમસ્યાઓ વિના જોડાવ, તો આ ભૂલનો અર્થ એ થાય કે કોઈક તમારી સાઈટને બગાડવાનો પ્રયાસ કરી રહ્યું છે, અને તમારે ચાલુ રાખવું જોઈએ નહિં.">
