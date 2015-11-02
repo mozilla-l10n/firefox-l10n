@@ -14,6 +14,7 @@
 
 
 
+
 <!ENTITY  popupExceptions.label       "Izņēmumi...">
 <!ENTITY  popupExceptions.accesskey   "I">
 
@@ -55,4 +56,4 @@
 
 <!ENTITY  playDRMContent.label         "Atskaņot DRM saturu">
 <!ENTITY  playDRMContent.accesskey     "A">
-<!ENTITY  playDRMContent.learnMore.label "Uzzināt vairāk">
+
