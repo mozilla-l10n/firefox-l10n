@@ -223,7 +223,7 @@
 <!ENTITY fxaccount_status_linktos 'Умови надання послуги'>
 <!ENTITY fxaccount_status_linkprivacy 'Повідомлення про приватність'>
 <!ENTITY fxaccount_status_more 'Докладніше&ellipsis;'>
-<!ENTITY fxaccount_remove_account 'Від'єднати&ellipsis;'>
+<!ENTITY fxaccount_remove_account 'Від’єднати&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title 'Вилучити обліковий запис Firefox?'>
 <!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; припинить синхронізацію з вашим обліковим записом, але не видалить жодних даних перегляду цього пристрою.'>
