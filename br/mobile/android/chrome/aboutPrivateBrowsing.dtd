@@ -13,7 +13,8 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "N'hoc'h ket er merdeiñ prevez">
 
-
+<!ENTITY privatebrowsingpage.description.trackingProtection "Stanket eo gant &brandShortName; lodennoù ar bajenn a c'hell heuliañ ho obererezh merdeiñ.">
+<!ENTITY privatebrowsingpage.description.privateDetails "Ne vez dalc'het soñj eus roll istor ebet, met ar restroù pellgarget hag ar sinedoù a vo enrollet war ho trevnad memestra.">
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->

@@ -223,7 +223,7 @@
 <!ENTITY fxaccount_status_linktos "Divizoù arver">
 <!ENTITY fxaccount_status_linkprivacy "Evezhiadennoù a-fet buhez prevez">
 <!ENTITY fxaccount_status_more "Muioc\u0027h&ellipsis;">
-
+<!ENTITY fxaccount_remove_account "Digennaskañ&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "Dilemel kont Firefox ?">
 <!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; a arsavo ar goubredañ gant ho kont, ne zilamo ket avat ho roadennoù merdeiñ war an trevnad-mañ.">

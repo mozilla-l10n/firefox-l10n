@@ -149,6 +149,8 @@
      other devices present. This label should briefly inform the user that they
      need another connected device in order to use the feature. -->
 
+<!ENTITY menu_no_synced_devices "Kas an ivinell-mañ d\u0027un trevnad kennasket all">
+
 <!ENTITY pref_category_search3 "Klask">
 <!ENTITY pref_category_search_summary "Personelaat ho pourchaserion glask">
 <!ENTITY pref_category_display "Skrammañ">
@@ -214,15 +216,17 @@
 <!ENTITY pref_cookies_not_accept_foreign "Gweredekaet, hep an trede">
 <!ENTITY pref_cookies_disabled "Diweredekaet">
 
-
+<!ENTITY pref_tap_to_load_images_title "Skeudennoù stok-da-gargañ">
+<!ENTITY pref_tap_to_load_images_summary2 "Kargit skeudennoù pa stokit anezho e-pad pell nemetken">
 
 <!ENTITY pref_tracking_protection_title "Gwarez heuliañ">
-
+<!ENTITY pref_tracking_protection_summary3 "Gweredekaet er merdeiñ prevez">
 <!ENTITY pref_donottrack_title "N\u0027am heuilhit ket">
 <!ENTITY pref_donottrack_summary "&brandShortName; a lavaro d\u0027al lec\u0027hiennoù ne fell ket deoc\u0027h bezañ heuliet">
 
-
-
+<!ENTITY pref_tracking_protection_enabled "Gweredekaet">
+<!ENTITY pref_tracking_protection_enabled_pb "Gweredekaet er merdeiñ prevez">
+<!ENTITY pref_tracking_protection_disabled "Diweredekaet">
 
 <!ENTITY tracking_protection_prompt_title "Bremañ gant ar gwarez heuliañ">
 <!ENTITY tracking_protection_prompt_text "Stankañ elfennoù heuliañ en un doare oberiant evit bezañ dinec\u0027het.">
@@ -292,7 +296,7 @@ size. -->
 <!ENTITY pref_sync "Goubred">
 <!ENTITY pref_sync_summary2 "Goubredit hoc\u0027h ivinelloù, ho sinedoù, ho titouroù kennaskañ, ho roll istor">
 <!ENTITY pref_search_suggestions "Diskouez kinnigoù ar c\u0027hlask">
-
+<!ENTITY pref_history_search_suggestions "Diskouez roll istor an enklaskoù">
 <!ENTITY pref_import_android "Enporzhiañ diouzh Android">
 <!ENTITY pref_import_android_summary "Enporzhiañ ar sinedoù hag ar roll istor adalek ar merdeer genidik">
 <!ENTITY pref_private_data_history2 "Roll istor merdeiñ">
@@ -705,6 +709,7 @@ diouzh Android">
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
+<!ENTITY intent_uri_private_browsing_prompt "E &formatS; e vo digoret an ere. Sur oc\u0027h e fell deoc\u0027h kuitaat ar merdeiñ prevez ?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android
@@ -712,6 +717,7 @@ diouzh Android">
      We don't have control over the style of this dialog and it looks
      unpolished when this string is longer than one line so ideally keep it
      short! -->
+<!ENTITY intent_uri_private_browsing_multiple_match_title "Kuitaat ar merdeiñ prevez ?">
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
      above a QR reader that is actively scanning for QR codes.  The expected QR
