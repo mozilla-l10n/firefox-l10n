@@ -8,7 +8,7 @@
 
 <!ENTITY notificationsPolicy.label "Powiadomienia">
 <!ENTITY notificationsPolicyLearnMore.label "Więcej informacji">
-<!ENTITY notificationsPolicyDesc2.label "Wybierz strony mogące wyświetlać powiadomienia">
+<!ENTITY notificationsPolicyDesc3.label "Wybierz strony mogące wyświetlać powiadomienia">
 <!ENTITY notificationsPolicyButton.label "Wybierz…">
 <!ENTITY notificationsPolicyButton.accesskey "z">
 <!ENTITY notificationsDoNotDisturb.label "Nie przeszkadzać">
