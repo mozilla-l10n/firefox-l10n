@@ -11,12 +11,21 @@ by NSS/PSM via netError.xhtml. -->
 
 <!ENTITY certerror.pagetitle  "Sambungan Tidak Terpercaya">
 <!ENTITY certerror.longpagetitle "Sambungan Ini Tidak Terpercaya">
+<!-- These are going to be used for the updated design in Bug 1207107 -->
+
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
 <!ENTITY certerror.introPara1 "Anda telah meminta &brandShortName; untuk tersambung ke <b>#1</b> secara aman, tetapi tidak dapat dikonfirmasi apakah sambungan Anda benar-benar aman.">
 <!ENTITY certerror.introPara2 "Umumnya, ketika Anda mencoba untuk tersambung secara aman, situs akan menampilkan identifikasi yang dapat dipercaya yang membuktikan bahwa Anda sedang berada pada alamat yang benar. Akan tetapi identitas situs ini tidak dapat diverifikasi.">
+<!-- These are going to be used for the udpated design in Bug 1207107 -->
+<!-- Localization note (certerror.introPara) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
+
+
+
 
 <!ENTITY certerror.whatShouldIDo.heading "Apa yang Harus Saya Lakukan?">
 <!ENTITY certerror.whatShouldIDo.content "Jika umumnya Anda tersambung dengan situs ini tanpa masalah, kesalahan ini dapat berarti pihak tertentu mencoba menyamar menjadi server pada situs ini dan sebaiknya tidak Anda lanjutkan.">
