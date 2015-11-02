@@ -11,6 +11,8 @@ by NSS/PSM via netError.xhtml. -->
 
 <!ENTITY certerror.pagetitle  "ການເຊີ່ມຕໍ່ທີ່ບໍ່ຫນ້າໄວ້ວາງໃຈ">
 <!ENTITY certerror.longpagetitle "ການເຊື່ອມຕໍ່ນີ້ເຊື່ອຖືບໍ່ໄດ້">
+<!-- These are going to be used for the updated design in Bug 1207107 -->
+
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -20,6 +22,13 @@ was trying to connect. -->
 <!ENTITY certerror.introPara2 "ໂດຍປົກກະຕິແລ້ວ ຫາກທ່ານພະຍາຍາມເຊື່ອມຕໍ່ແບບເຂົ້າລະຫັດຫາເວັບໄຊໃດນຶ່ງ, 
 ເວັບໄຊນັ້ນຈະຕ້ອງສະແດງການຢືນຢັນທີ່ເຊື່ອຖືໄດ້ ເພື່ອພິສູດວ່າທ່ານ 
 ເຂົ້າຖືກເວັບແລ້ວ. ຢ່າງໃດກໍຕາມ ເວັບໄຊນີ້ບໍ່ສາມາດຢືນຢັນຄວາມເຊື່ອຖືຂອງຕົນເອງໄດ້.">
+<!-- These are going to be used for the udpated design in Bug 1207107 -->
+<!-- Localization note (certerror.introPara) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
+
+
+
 
 <!ENTITY certerror.whatShouldIDo.heading "ຂ້ອຍຄວນເຮັດແນວໃດ?">
 <!ENTITY certerror.whatShouldIDo.content "ຫາກທ່ານເຄີຍເຊື່ອມຕໍ່ເຂົ້າຫາ 
