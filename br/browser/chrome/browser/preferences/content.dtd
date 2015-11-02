@@ -14,6 +14,7 @@
 
 
 
+
 <!ENTITY  popupExceptions.label       "Nemedennoù">
 <!ENTITY  popupExceptions.accesskey   "N">
 
@@ -55,4 +56,4 @@
 
 <!ENTITY  playDRMContent.label         "Lenn an endalc'had DRM">
 <!ENTITY  playDRMContent.accesskey     "L">
-<!ENTITY  playDRMContent.learnMore.label "Gouzout hiroc'h">
+
