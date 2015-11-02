@@ -14,6 +14,7 @@
 
 
 
+
 <!ENTITY  popupExceptions.label       "ករណី​លើក​លែង">
 <!ENTITY  popupExceptions.accesskey   "ក">
 
@@ -55,4 +56,4 @@
 
 <!ENTITY  playDRMContent.label         "ចាក់​មាតិកា DRM">
 <!ENTITY  playDRMContent.accesskey     "P">
-<!ENTITY  playDRMContent.learnMore.label "ស្វែងយល់​បន្ថែម">
+
