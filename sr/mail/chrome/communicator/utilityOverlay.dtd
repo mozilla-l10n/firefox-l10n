@@ -4,9 +4,55 @@
 
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
+<!ENTITY fileMenu.label          "Датотека">
+<!ENTITY fileMenu.accesskey        "Д">
+<!ENTITY newMenu.label            "Ново">
+<!ENTITY newMenu.accesskey          "Н">
 
+<!ENTITY editMenu.label          "Уреди">
+<!ENTITY editMenu.accesskey        "У">
+<!ENTITY undoCmd.label            "Поништи">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "П">
+<!ENTITY redoCmd.label            "Понови">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "о">
+<!ENTITY cutCmd.label            "Исеци">
+<!ENTITY cutCmd.key              "X">
+<!ENTITY cutCmd.accesskey          "И">
+<!ENTITY copyCmd.label            "Копирај">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "К">
+<!ENTITY pasteCmd.label            "Налепи">
+<!ENTITY pasteCmd.key            "V">
+<!ENTITY pasteCmd.accesskey          "л">
+<!ENTITY deleteCmd.label          "Обриши">
+<!ENTITY deleteCmd.accesskey        "б">
+<!ENTITY selectAllCmd.label          "Изабери све">
+<!ENTITY selectAllCmd.key          "A">
+<!ENTITY selectAllCmd.accesskey        "а">
+<!ENTITY preferencesCmd2.label "Опције">
+<!ENTITY preferencesCmd2.accesskey "Ц">
+<!ENTITY preferencesCmdUnix.label       "Поставке">
+<!ENTITY preferencesCmdUnix.accesskey     "с">
 
+<!ENTITY viewMenu.label          "Преглед">
+<!ENTITY viewMenu.accesskey        "р">
+<!ENTITY viewToolbarsMenu.label        "Траке са алаткама">
+<!ENTITY viewToolbarsMenu.accesskey      "Т">
+<!ENTITY showTaskbarCmd.label          "Статусна трака">
+<!ENTITY showTaskbarCmd.accesskey        "к">
 
+<!ENTITY closeCmd.label      "Затвори">
+<!ENTITY closeCmd.key      "W">
+<!ENTITY closeCmd.accesskey    "З">
 
+<!ENTITY quitApplicationCmd.label  "Изађи">
+<!ENTITY quitApplicationCmd.key    "Q">
+<!ENTITY quitApplicationCmd.accesskey  "ђ">
 
+<!ENTITY quitApplicationCmdUnix.label  "Изађи">
+<!ENTITY quitApplicationCmdUnix.accesskey  "ђ">
 
+<!ENTITY quitApplicationCmdMac.label  "Изађи из &brandShortName;">
+<!ENTITY quitApplicationCmdMac.accesskey  "ђ">
