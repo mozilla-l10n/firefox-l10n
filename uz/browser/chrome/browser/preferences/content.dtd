@@ -14,6 +14,7 @@
 
 
 
+
 <!ENTITY  popupExceptions.label       "Istisnolar…">
 <!ENTITY  popupExceptions.accesskey   "I">
 
@@ -55,4 +56,4 @@
 
 <!ENTITY  playDRMContent.label         "DRM tarkibni ko‘rsatish">
 <!ENTITY  playDRMContent.accesskey     "k">
-<!ENTITY  playDRMContent.learnMore.label "Ko‘proq o‘rganish">
+
