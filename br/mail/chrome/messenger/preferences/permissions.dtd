@@ -15,13 +15,14 @@
 <!ENTITY address.accesskey            "C">
 <!ENTITY block.label                  "Herzel">
 <!ENTITY block.accesskey              "H">
-
-
+<!ENTITY session.label                "Aotren evit an estez">
+<!ENTITY session.accesskey            "A">
 <!ENTITY allow.label                  "Aotren">
 <!ENTITY allow.accesskey              "o">
 <!ENTITY windowClose.key              "w">
 
-
-
-
+<!ENTITY button.cancel.label          "Nullañ">
+<!ENTITY button.cancel.accesskey      "N">
+<!ENTITY button.ok.label              "Enrollañ ar c'hemmoù">
+<!ENTITY button.ok.accesskey          "E">
 
