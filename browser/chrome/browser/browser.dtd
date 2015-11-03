@@ -47,8 +47,8 @@ can reach it easily. -->
 <!ENTITY  moveToNewWindow.accesskey          "j">
 <!ENTITY  bookmarkAllTabs.label              "Criar marcadores para todos os separadores…">
 <!ENTITY  bookmarkAllTabs.accesskey          "t">
-<!ENTITY  undoCloseTab.label                 "Desfazer Fechar separador">
-<!ENTITY  undoCloseTab.accesskey             "D">
+<!ENTITY  undoCloseTab.label                 "Reabrir separador fechado">
+<!ENTITY  undoCloseTab.accesskey             "b">
 <!ENTITY  closeTab.label                     "Fechar separador">
 <!ENTITY  closeTab.accesskey                 "c">
 
@@ -86,8 +86,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "a">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Criar marcadores para todos os separadores…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "t">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "Desfazer fechar separador">
-<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "D">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Reabrir separador fechado">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "b">
 
 <!ENTITY pageSourceCmd.label "Código-fonte da página">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -336,8 +336,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Ficheiro"> 
 <!ENTITY fileMenu.accesskey       "F">
-
-
+<!ENTITY newUserContext.label             "Novo separador de contexto">
+<!ENTITY newUserContext.accesskey         "c">
 <!ENTITY userContextPersonal.label        "Pessoal">
 <!ENTITY userContextPersonal.accesskey    "P">
 <!ENTITY userContextWork.label            "Profissional">
