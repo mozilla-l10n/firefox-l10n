@@ -172,8 +172,8 @@
 
 
 <!ENTITY pref_category_logins "உள்நுழைவுகள்">
-
-
+<!ENTITY pref_remember_signons2 "புகுபதிகைகளை நினைவில்கொள்">
+<!ENTITY pref_open_external_urls_privately_title "இணைப்புகளை தனிப்பட்ட உலாவலில் திற">
 
 <!ENTITY pref_manage_logins "உள்நுழைவுகளை நிர்வகி">
 
@@ -227,7 +227,7 @@
 <!ENTITY tab_queue_prompt_title "பல இணைப்புகளைத் திறக்கிறதா?">
 
 
-
+<!ENTITY tab_queue_prompt_positive_action_button "செயல்படுத்து">
 
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
@@ -276,10 +276,10 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled_summary "வலைத்தளங்கள் தானாக காணொளிகளையும் பிற ஊடங்களையும் இயக்கினால் கட்டுப்படுத்தவும்">
 <!ENTITY pref_zoom_force_enabled "அளவுமாற்றதை எப்பொழுதும் செயல்படுத்து">
 <!ENTITY pref_zoom_force_enabled_summary "கட்டாய புறக்கணித்தல் மூலம் எந்தப் பக்கத்தையும் பெரிதாக்க முடியும்">
-
-
-
-
+<!ENTITY pref_voice_input "குரல் உள்ளீடு">
+<!ENTITY pref_voice_input_summary "தலைப்பு பட்டையில் குரல் வாசிப்பை அனுமதிக்கவும்">
+<!ENTITY pref_qrcode_enabled "QR குறியீடு படிப்பான்">
+<!ENTITY pref_qrcode_enabled_summary "தலைப்பு பட்டையில் QR வருடியை அனுமதி">
 
 <!ENTITY pref_use_master_password "முதன்மை கடவுச்சொல்லை பயன்படுத்து">
 <!ENTITY pref_sync "ஒத்திசை">
@@ -292,7 +292,7 @@ size. -->
 <!ENTITY pref_private_data_searchHistory "தேடல் வரலாறு">
 <!ENTITY pref_private_data_formdata2 "படிவம் வரலாறு">
 <!ENTITY pref_private_data_cookies2 "நினைவிகள் &amp; செயற்பாட்டிலுள்ள உள்நுழைவுகள்">
-
+<!ENTITY pref_private_data_passwords2 "சேமிக்கப்பட்ட புகுபதிகைகள்">
 <!ENTITY pref_private_data_cache "இடையகம்">
 <!ENTITY pref_private_data_offlineApps "இணைப்பில்லாத இணையதள தரவு">
 <!ENTITY pref_private_data_siteSettings2 "தள அமைப்புகள்">
