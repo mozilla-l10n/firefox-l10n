@@ -34,3 +34,12 @@
 <!ENTITY inspectorExpandNode.label "Espandi tutto">
 <!ENTITY inspectorCollapseNode.label "Conprimi">
 <!ENTITY inspectorScreenshotNode.label "Sarva inte na schermâ do groppo">
+<!ENTITY inspectorAddAttribute.label "Azonzi atributo">
+<!ENTITY inspectorAddAttribute.accesskey "A">
+<!ENTITY inspectorAttributeSubmenu.label "Atributo">
+<!ENTITY inspectorAttributeSubmenu.accesskey "A">
+<!ENTITY inspectorDuplicateNode.label "Doplica groppo">
+<!ENTITY inspectorEditAttribute.label "Cangia atributo">
+<!ENTITY inspectorEditAttribute.accesskey "C">
+<!ENTITY inspectorRemoveAttribute.label "Scancella atributo">
+<!ENTITY inspectorRemoveAttribute.accesskey "S">
