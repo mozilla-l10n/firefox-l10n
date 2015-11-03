@@ -8,8 +8,8 @@
 <!ENTITY  blockPopups.accesskey       "R">
 
 <!ENTITY  notificationsPolicy.label            "Hysbysiadau">
-
-
+<!ENTITY  notificationsPolicyLearnMore.label   "Dysgu rhagor">
+<!ENTITY  notificationsPolicyDesc3.label       "Dewis pa wefannau sy'n cael anfon hysbysiadau atoch">
 <!ENTITY  notificationsPolicyButton.accesskey  "D">
 <!ENTITY  notificationsPolicyButton.label      "Dewis…">
 <!ENTITY  notificationsDoNotDisturb.label      "Peidiwch â tharfu">
@@ -57,4 +57,4 @@
 
 <!ENTITY  playDRMContent.label         "Chwarae cynnwys DRM">
 <!ENTITY  playDRMContent.accesskey     "C">
-
+<!ENTITY  playDRMContent.learnMore.label "Dysgu rhagor">
