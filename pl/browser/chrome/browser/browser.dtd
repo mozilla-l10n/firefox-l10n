@@ -718,8 +718,8 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY social.activated.description "Usługi dostarczane przez <label/> zostały włączone. Można zmienić ustawienia dla tych usług w <label class='text-link'>Menedżerze dodatków</label>.">
 <!ENTITY social.activated.undo.label "Cofnij to!">
 <!ENTITY social.activated.undo.accesskey "C">
-<!ENTITY social.learnMore.label "Dowiedz się więcej…">
-<!ENTITY social.learnMore.accesskey "D">
+<!ENTITY social.learnMore.label "Więcej informacji…">
+<!ENTITY social.learnMore.accesskey "W">
 <!ENTITY social.closeNotificationItem.label "Nie teraz">
 
 <!ENTITY social.directory.label "Katalog aktywowania">
@@ -819,7 +819,7 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY processHang.terminateProcess.label "Zabij proces">
 <!ENTITY processHang.terminateProcess.accessKey "s">
 
-<!ENTITY emeLearnMoreContextMenu.label "Dowiedz się więcej o DRM…">
+<!ENTITY emeLearnMoreContextMenu.label "Więcej informacji o DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey "D">
 <!ENTITY emeNotificationsNotNow.label "Zapytaj później">
 <!ENTITY emeNotificationsNotNow.accesskey "Z">

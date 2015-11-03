@@ -119,7 +119,7 @@
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "O programie &brandShortName;, najczęściej zadawane pytania, zarządzanie danymi">
 <!ENTITY pref_category_datareporting "Udostępnianie danych">
-<!ENTITY pref_learn_more "Dowiedz się więcej">
+<!ENTITY pref_learn_more "Więcej informacji">
 <!ENTITY pref_category_installed_search_engines "Zainstalowane wyszukiwarki">
 <!ENTITY pref_category_add_search_providers "Dodaj więcej wyszukiwarek">
 <!ENTITY pref_category_search_restore_defaults "Przywróć wyszukiwarki">
@@ -468,7 +468,7 @@
 <!ENTITY doorhanger_tracking_message_enabled1 "Zablokowano próby śledzenia aktywności użytkownika.">
 <!ENTITY doorhanger_tracking_message_disabled2 "Ta strona zawiera elementy mogące śledzić aktywność użytkownika.">
 
-<!ENTITY learn_more "Dowiedz się więcej">
+<!ENTITY learn_more "Więcej informacji">
 <!ENTITY enable_protection "Włącz ochronę">
 <!ENTITY disable_protection "Wyłącz ochronę">
 <!ENTITY keep_blocking "Blokuj nadal">

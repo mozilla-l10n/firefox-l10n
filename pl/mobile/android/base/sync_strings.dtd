@@ -130,7 +130,7 @@
 
 <!ENTITY fxaccount_account_create_not_allowed "Nie można utworzyć konta">
 <!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "Musisz osiągnąć pewien wiek, aby móc utworzyć konto.">
-<!ENTITY fxaccount_account_create_not_allowed_learn_more "Dowiedz się więcej">
+<!ENTITY fxaccount_account_create_not_allowed_learn_more "Więcej informacji">
 
 <!ENTITY fxaccount_confirm_account_header "Zweryfikuj swoje konto">
 <!ENTITY fxaccount_confirm_account_verification_link "Odnośnik weryfikujący wysłano na &formatS;">
