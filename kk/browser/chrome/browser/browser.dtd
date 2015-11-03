@@ -336,16 +336,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Файл"> 
 <!ENTITY fileMenu.accesskey       "Ф">
-
-
+<!ENTITY newUserContext.label             "Жаңа контейнерлік бет">
+<!ENTITY newUserContext.accesskey         "к">
 <!ENTITY userContextPersonal.label        "Жеке">
 <!ENTITY userContextPersonal.accesskey    "Ж">
 <!ENTITY userContextWork.label            "Жұмыс">
 <!ENTITY userContextWork.accesskey        "Ж">
-<!ENTITY userContextBanking.label         "Банктер">
+<!ENTITY userContextBanking.label         "Банкинг">
 <!ENTITY userContextBanking.accesskey     "Б">
-<!ENTITY userContextShopping.label        "Дүкендер">
-<!ENTITY userContextShopping.accesskey    "Д">
+<!ENTITY userContextShopping.label        "Шоппинг">
+<!ENTITY userContextShopping.accesskey    "Ш">
 <!ENTITY newNavigatorCmd.label        "Жаңа терезе">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "т">
