@@ -8,8 +8,8 @@
 <!ENTITY  blockPopups.accesskey       "k">
 
 <!ENTITY  notificationsPolicy.label            "Zdźělenja">
-
-
+<!ENTITY  notificationsPolicyLearnMore.label   "Dalše informacije">
+<!ENTITY  notificationsPolicyDesc3.label       "Wubjerće, kotre sydła smědźa wam zdźělenki pósłać">
 <!ENTITY  notificationsPolicyButton.accesskey  "u">
 <!ENTITY  notificationsPolicyButton.label      "Wubrać…">
 <!ENTITY  notificationsDoNotDisturb.label      "Njemylće">
@@ -57,4 +57,4 @@
 
 <!ENTITY  playDRMContent.label         "DRM-wobsah wothrać">
 <!ENTITY  playDRMContent.accesskey     "h">
-
+<!ENTITY  playDRMContent.learnMore.label "Dalše informacije">
