@@ -137,6 +137,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "Автоматично вставляти закриваючі дужки">
 <!ENTITY prefs_options_keybindings "Сполучення клавіш">
 <!ENTITY prefs_options_keybindings_default "Типово">
+<!ENTITY prefs_options_autosavefiles "Автозбереження файлів">
+<!ENTITY prefs_options_autosavefiles_tooltip "Автоматично зберігати змінені файли перед запуском проекту">
 
 <!-- Permissions Table -->
 <!ENTITY permissionstable_title "Таблиця дозволів">
