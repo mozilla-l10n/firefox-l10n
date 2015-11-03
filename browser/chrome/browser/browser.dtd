@@ -702,7 +702,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label "Zrušit">
 <!ENTITY editBookmark.removeBookmark.accessKey "S">
 
-<!ENTITY identity.connectionSecure "Zabezpečené přípojení">
+<!ENTITY identity.connectionSecure "Zabezpečené připojení">
 <!ENTITY identity.connectionNotSecure "Připojení není zabezpečeno">
 <!ENTITY identity.connectionFile "Tato stránka je uložena na vašem počítači.">
 <!ENTITY identity.connectionVerified1 "Jste zabezpečeně připojeni na tuto stránku, provozovanou:">
@@ -813,7 +813,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Budou sdílena všechna viditelná okna na vaší obrazovce.">
 
 <!ENTITY trackingProtection.title "Ochrana proti sledování">
-<!ENTITY trackingProtection.detectedBlocked3 "Aplikace &brandShortName; blokuje části stránky, tkeré mohou sledovat vaši aktivitu prohlížení.">
+<!ENTITY trackingProtection.detectedBlocked3 "Aplikace &brandShortName; blokuje části stránky, které mohou sledovat vaši aktivitu prohlížení.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Tato stránka obsahuje prvky, které mohou sledovat vaše prohlížení. Zakázali jste ochranu.">
 <!ENTITY trackingProtection.notDetected3 "Na této stránky nebyly zjistěny žádné sledovací prvky.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
