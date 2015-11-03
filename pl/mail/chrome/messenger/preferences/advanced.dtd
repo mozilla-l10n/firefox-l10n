@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label "Ogólne">
-<!ENTITY dataChoicesTab.label "Udostępnianie danych">
+<!ENTITY dataChoicesTab.label "Udostępniane dane">
 <!ENTITY itemUpdate.label "Aktualizacja">
 <!ENTITY itemNetworking.label "Sieć i miejsce na dysku">
 <!ENTITY itemCertificates.label "Certyfikaty">

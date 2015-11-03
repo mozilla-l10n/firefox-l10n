@@ -24,7 +24,7 @@
 <!ENTITY checkSpelling.label             "Sprawdzaj pisownię podczas wprowadzania tekstu">
 <!ENTITY checkSpelling.accesskey         "i">
 
-<!ENTITY dataChoicesTab.label            "Udostępnianie danych">
+<!ENTITY dataChoicesTab.label "Udostępniane dane">
 
 <!ENTITY healthReportDesc.label "Raport o zdrowiu Firefoksa ułatwia zrozumienie wydajności przeglądarki i udostępnia dane o jej stanie organizacji &vendorShortName;.">
 <!ENTITY enableHealthReport.label "Raport o zdrowiu programu &brandShortName;">
@@ -87,8 +87,7 @@
 <!ENTITY enableSearchUpdate.label "Wyszukiwarki">
 <!ENTITY enableSearchUpdate.accesskey "z">
 
-<!-- FIXME (offlineNotify.label) skrócić -->
-<!ENTITY offlineNotify.label             "Powiadamiaj, kiedy witryna poprosi o możliwość przechowywania danych dla trybu offline">
+<!ENTITY offlineNotify.label "Pytaj, kiedy witryna prosi o możliwość przechowywania danych dla trybu offline">
 <!ENTITY offlineNotify.accesskey         "o">
 <!ENTITY offlineNotifyExceptions.label   "Wyjątki…">
 <!ENTITY offlineNotifyExceptions.accesskey "W">
