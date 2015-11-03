@@ -41,4 +41,4 @@
 <!ENTITY status.offline            "Offline">
 
 <!ENTITY openLinkCmd.label            "Deschide linkul…">
-<!ENTITY openLinkCmd.accesskey        "i">
+<!ENTITY openLinkCmd.accesskey        "O">
