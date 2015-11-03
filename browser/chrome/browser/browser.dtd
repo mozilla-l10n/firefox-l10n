@@ -717,7 +717,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
+<!ENTITY identity.insecureLoginForms "तपाईको लगिनमा सम्झौता हुन सक्छ।">
 <!-- Strings for connection state warnings. -->
 
 
@@ -740,7 +740,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY identity.permissions "अनुमतिहरू">
-
+<!ENTITY identity.permissionsEmpty "तपाईंले यस साइटलाई कुनै विशेष अनुमति दिनुभएको छैन।">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
