@@ -4,7 +4,7 @@
 
 <!ENTITY performanceUI.startRecording "Zacznij rejestrować wydajność">
 <!ENTITY performanceUI.stopRecording "Zatrzymaj rejestrowanie wydajności">
-<!ENTITY performanceUI.bufferStatusTooltip "Profiler przechowuje próbki w buforze cyklicznym i gdy zostanie osiągnięty limit pojemności zapisu, nowe próbki zaczynają nadpisywać próbki z początku rejestrowania.">
+<!ENTITY performanceUI.bufferStatusTooltip "Profiler przechowuje próbki w buforze cyklicznym i gdy zostanie osiągnięty limit pojemności zapisu, nowe próbki zaczynają nadpisywać próbki z początku rejestrowania.">
 <!ENTITY performanceUI.disabledRealTime.nonE10SBuild "Rejestrowanie danych w czasie rzeczywistym jest wyłączone dla Firefoksa nie korzystającego z wielu procesów.">
 <!ENTITY performanceUI.disabledRealTime.disabledE10S "Włącz obsługę wielu procesów w ustawieniach Firefoksa, aby dane były przedstawiane w czasie rzeczywistym.">
 <!ENTITY performanceUI.bufferStatusFull "Bufor jest pełny. Starsze próbki będą od teraz nadpisywane.">
@@ -35,7 +35,7 @@
 <!ENTITY performanceUI.table.samples "Próbki">
 <!ENTITY performanceUI.table.samples.tooltip "Wystąpienia funkcji na stosie podczas próbkowania przez profiler">
 <!ENTITY performanceUI.table.function "Funkcja">
-<!ENTITY performanceUI.table.function.tooltip "Nazwa i położenie kodu próbkowanej funkcji">
+<!ENTITY performanceUI.table.function.tooltip "Nazwa i położenie kodu próbkowanej funkcji">
 <!ENTITY performanceUI.table.totalAlloc "Wszystkie próbki alokacji">
 <!ENTITY performanceUI.table.totalAlloc.tooltip "Całkowita liczba alokowanych obiektów próbkowanych dla tego położenia oraz w wywołaniach">
 <!ENTITY performanceUI.table.selfAlloc "Własne próbki alokacji">

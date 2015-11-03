@@ -8,7 +8,7 @@
 <!ENTITY lightning.toolbar.task.name.accesskey "z">
 
 <!ENTITY lightning.toolbar.sync.label      "Synchronizuj">
-<!ENTITY lightning.toolbar.sync.tooltip "Odśwież kalendarze i synchronizuj zmiany">
+<!ENTITY lightning.toolbar.sync.tooltip "Odśwież kalendarze i synchronizuj zmiany">
 <!ENTITY lightning.toolbar.delete.label    "Usuń">
 <!ENTITY lightning.toolbar.delete.tooltip "Usuń zaznaczone zadania lub wydarzenia">
 <!ENTITY lightning.toolbar.edit.label      "Edytuj">

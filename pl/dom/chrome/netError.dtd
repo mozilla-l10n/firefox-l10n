@@ -70,7 +70,7 @@
 <!ENTITY malwareBlocked.longDesc "<p>Tego rodzaju witryny mogą próbować instalować oprogramowanie wykradające poufne dane, używające komputera do pośredniczenia w atakach lub uszkadzające system.</p><p>Właściciele witryn, które zostały błędnie uznane za podejrzane, mogą <a href='http://www.stopbadware.org/home/reviewinfo'>poprosić o ponowne ich sprawdzenie</a>.</p>">
 
 <!ENTITY unwantedBlocked.title "Witryna podejrzewana o niechciane oprogramowanie!">
-<!ENTITY unwantedBlocked.longDesc "<p>Witryny zawierające niechciane oprogramowanie próbują nakłonić do instalacji programów mogących wprowadzać w błąd i wpływać na system operacyjny w nieoczekiwany sposób.</p>">
+<!ENTITY unwantedBlocked.longDesc "<p>Witryny zawierające niechciane oprogramowanie próbują nakłonić do instalacji programów mogących wprowadzać w błąd i wpływać na system operacyjny w nieoczekiwany sposób.</p>">
 
 <!ENTITY phishingBlocked.title "Prawdopodobne oszustwo!">
 <!ENTITY phishingBlocked.longDesc "

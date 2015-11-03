@@ -90,4 +90,4 @@
 <!ENTITY options.disableCache.tooltip2 "Wyłącza pamięć podręczną we wszystkich kartach, dla których narzędzia są otwarte.">
 
 <!ENTITY options.enableServiceWorkersHTTP.label "Wątki usługowe przez HTTP (gdy narzędzia są otwarte)">
-<!ENTITY options.enableServiceWorkersHTTP.tooltip "Kontroluje dostępność wątków usługowych przez HTTP w kartach z otwartymi narzędziami">
+<!ENTITY options.enableServiceWorkersHTTP.tooltip "Kontroluje dostępność wątków usługowych przez HTTP w kartach z otwartymi narzędziami">

@@ -416,7 +416,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY searchFor.label "Wyszukaj „">
 <!ENTITY searchWith.label "” z:">
-<!ENTITY search.label "Szukaj z ">
+<!ENTITY search.label "Szukaj z ">
 <!ENTITY searchAfter.label "">
 <!ENTITY searchWithHeader.label "Szukaj z">
 <!ENTITY changeSearchSettings.button "Zmień ustawienia wyszukiwania">
@@ -673,7 +673,7 @@ you can use these alternative items. Otherwise, their values should be empty. --
 <!ENTITY identity.description.passiveLoaded "Połączenie z tą stroną nie zapewnia prywatności a przesyłane informacje mogą być dostępne dla innych.">
 <!ENTITY identity.description.passiveLoaded2 "Niektóre elementy tej strony (np. obrazki) nie były przesłane w sposób bezpieczny.">
 <!ENTITY identity.description.passiveLoaded3 "&brandShortName; zablokował niektóre elementy strony, mimo to nie wszystkie pozostałe elementy były przesłane w sposób bezpieczny (np. obrazki).">
-<!ENTITY identity.description.activeLoaded "Strona zawiera elementy, które nie były przesłane w sposób bezpieczny (np. skrypty) i połączenie z nią nie zapewnia prywatności.">
+<!ENTITY identity.description.activeLoaded "Strona zawiera elementy, które nie były przesłane w sposób bezpieczny (np. skrypty) i połączenie z nią nie zapewnia prywatności.">
 <!ENTITY identity.description.activeLoaded2 "Przesyłane informacje (np. hasła, wiadomości, numery kart) mogą być dostępne dla innych.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Włącz ochronę">

@@ -82,7 +82,7 @@
 <!ENTITY malwareBlocked.longDesc "<p>Tego rodzaju witryny mogą próbować instalować oprogramowanie wykradające poufne dane, używające komputera do pośredniczenia w atakach lub uszkadzające system.</p><p>Właściciele witryn, które zostały błędnie uznane za podejrzane, mogą <a href='http://www.stopbadware.org/home/reviewinfo'>poprosić o ponowne ich sprawdzenie</a>.</p>">
 
 <!ENTITY unwantedBlocked.title "Witryna podejrzewana o niechciane oprogramowanie!">
-<!ENTITY unwantedBlocked.longDesc "<p>Witryny zawierające niechciane oprogramowanie próbują nakłonić do instalacji programów mogących wprowadzać w błąd i wpływać na system operacyjny w nieoczekiwany sposób.</p>">
+<!ENTITY unwantedBlocked.longDesc "<p>Witryny zawierające niechciane oprogramowanie próbują nakłonić do instalacji programów mogących wprowadzać w błąd i wpływać na system operacyjny w nieoczekiwany sposób.</p>">
 
 <!ENTITY phishingBlocked.title "Prawdopodobne oszustwo!">
 <!ENTITY phishingBlocked.longDesc "
@@ -100,7 +100,7 @@
 <!ENTITY securityOverride.getMeOutOfHereButton "Zabierz mnie stąd">
 <!ENTITY securityOverride.exceptionButtonLabel "Dodaj wyjątek…">
 
-<!ENTITY securityOverride.warningContent "<p>Nie powinno się dodawać wyjątku w przypadku korzystania z niezaufanego połączenia z Internetem, ani jeśli zwykle takie ostrzeżenie nie pojawia się podczas korzystania z tego serwera.</p>
+<!ENTITY securityOverride.warningContent "<p>Nie powinno się dodawać wyjątku w przypadku korzystania z niezaufanego połączenia z Internetem, ani jeśli zwykle takie ostrzeżenie nie pojawia się podczas korzystania z tego serwera.</p>
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 

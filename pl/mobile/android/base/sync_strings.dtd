@@ -125,7 +125,7 @@
 <!ENTITY fxaccount_create_account_button "Dalej">
 <!ENTITY fxaccount_create_account_choose_what_to_sync "Wybierz, co chcesz synchronizować">
 <!ENTITY fxaccount_create_account_sign_in_instead "Masz już konto? Zaloguj się">
-<!ENTITY fxaccount_create_account_1990_or_earlier "1990 lub wcześniej">
+<!ENTITY fxaccount_create_account_1990_or_earlier "1990 lub wcześniej">
 <!ENTITY fxaccount_create_account_unknown_error "Nie udało się utworzyć konta">
 
 <!ENTITY fxaccount_account_create_not_allowed "Nie można utworzyć konta">

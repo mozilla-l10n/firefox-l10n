@@ -15,8 +15,8 @@
 <!ENTITY onboard_start_restricted1 "Bądź bezpieczny dzięki uproszczonej wersji przeglądarki &brandShortName;.">
 
 <!ENTITY firstrun_import_title "Importowanie">
-<!ENTITY firstrun_import_message "Witamy w przeglądarce &brandShortName;">
-<!ENTITY firstrun_import_subtext "Można zaimportować zakładki i historię z innej przeglądarki.">
+<!ENTITY firstrun_import_message "Witamy w przeglądarce &brandShortName;">
+<!ENTITY firstrun_import_subtext "Można zaimportować zakładki i historię z innej przeglądarki.">
 <!ENTITY firstrun_import_action "Prześlij do przeglądarki &brandShortName;">
 <!ENTITY firstrun_import_dialog_button "Prześlij">
 <!ENTITY firstrun_import_progress_title "Przesyłanie">
@@ -59,9 +59,9 @@
 
 <!ENTITY history_today_section "Dzisiaj">
 <!ENTITY history_yesterday_section "Wczoraj">
-<!ENTITY history_week_section3 "Ostatnie 7 dni">
+<!ENTITY history_week_section3 "Ostatnie 7 dni">
 <!ENTITY history_this_month_section "Ten miesiąc">
-<!ENTITY history_older_section3 "Starsze niż 6 miesięcy">
+<!ENTITY history_older_section3 "Starsze niż 6 miesięcy">
 
 <!ENTITY go "Przejdź">
 <!ENTITY search "Szukaj">
@@ -133,8 +133,8 @@
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Debugowanie przez Wi-Fi wymaga zainstalowania czytnika kodów QR na urządzeniu.">
 <!ENTITY pref_category_logins "Dane logowania">
 <!ENTITY pref_remember_signons2 "Pamiętaj dane logowania">
-<!ENTITY pref_open_external_urls_privately_title "Otwieraj odnośniki w trybie prywatnym">
-<!ENTITY pref_open_external_urls_privately_summary "Dla wszystkich zewnętrznych odnośników otwieranych w programie &brandShortName;">
+<!ENTITY pref_open_external_urls_privately_title "Otwieraj odnośniki w trybie prywatnym">
+<!ENTITY pref_open_external_urls_privately_summary "Dla wszystkich zewnętrznych odnośników otwieranych w programie &brandShortName;">
 <!ENTITY pref_manage_logins "Zarządzanie danymi logowania">
 
 <!ENTITY pref_category_home "Strona domowa">
@@ -171,24 +171,24 @@
 <!ENTITY pref_tap_to_load_images_summary2 "Wczytywanie obrazków po ich przytrzymaniu">
 
 <!ENTITY pref_tracking_protection_title "Ochrona przed śledzeniem">
-<!ENTITY pref_tracking_protection_summary3 "Włączona w trybie prywatnym">
+<!ENTITY pref_tracking_protection_summary3 "Włączona w trybie prywatnym">
 <!ENTITY pref_donottrack_title "Ograniczanie śledzenia">
 <!ENTITY pref_donottrack_summary "Informuj witryny, że użytkownik nie chce być śledzony">
 
 <!ENTITY pref_tracking_protection_enabled "Włączona">
-<!ENTITY pref_tracking_protection_enabled_pb "Włączona w trybie prywatnym">
+<!ENTITY pref_tracking_protection_enabled_pb "Włączona w trybie prywatnym">
 <!ENTITY pref_tracking_protection_disabled "Wyłączona">
 
 <!ENTITY tracking_protection_prompt_title "Nowa ochrona przed śledzeniem">
 <!ENTITY tracking_protection_prompt_text "Aktywne blokowanie elementów śledzących aktywność użytkownika.">
-<!ENTITY tracking_protection_prompt_tip_text "Więcej informacji w ustawieniach prywatności">
+<!ENTITY tracking_protection_prompt_tip_text "Więcej informacji w ustawieniach prywatności">
 <!ENTITY tracking_protection_prompt_action_button "Zamknij">
 
-<!ENTITY tab_queue_toast_message3 "Karta zachowana w programie &brandShortName;">
+<!ENTITY tab_queue_toast_message3 "Karta zachowana w programie &brandShortName;">
 <!ENTITY tab_queue_toast_action "Otwórz teraz">
 <!ENTITY tab_queue_prompt_title "Otwieranie wielu odnośników">
 <!ENTITY tab_queue_prompt_text4 "Zachowywanie odnośników do następnego otwarcia programu &brandShortName;">
-<!ENTITY tab_queue_prompt_tip_text2 "Można to zmienić później w ustawieniach">
+<!ENTITY tab_queue_prompt_tip_text2 "Można to zmienić później w ustawieniach">
 <!ENTITY tab_queue_prompt_positive_action_button "Włącz">
 <!ENTITY tab_queue_prompt_negative_action_button "Nie teraz">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
@@ -226,9 +226,9 @@
 <!ENTITY pref_zoom_force_enabled "Wymuszanie możliwości powiększania">
 <!ENTITY pref_zoom_force_enabled_summary "Kontroluje możliwość wymuszenia możliwości powiększania dowolnej strony">
 <!ENTITY pref_voice_input "Sterowanie głosowe">
-<!ENTITY pref_voice_input_summary "Umożliwia sterowanie głosowe w pasku tytułu">
+<!ENTITY pref_voice_input_summary "Umożliwia sterowanie głosowe w pasku tytułu">
 <!ENTITY pref_qrcode_enabled "Czytnik kodów QR">
-<!ENTITY pref_qrcode_enabled_summary "Umożliwia używanie skanera kodów QR w pasku tytułu">
+<!ENTITY pref_qrcode_enabled_summary "Umożliwia używanie skanera kodów QR w pasku tytułu">
 
 <!ENTITY pref_use_master_password "Używaj hasła głównego">
 <!ENTITY pref_sync "Sync">
@@ -351,7 +351,7 @@
 <!ENTITY pref_titlebar_mode_url "Pokazywanie adresu strony">
 
 <!ENTITY pref_magnifying_glass_enabled "Powiększanie małych obszarów">
-<!ENTITY pref_magnifying_glass_enabled_summary "Zwiększanie odnośników i pól formularzy po stuknięciu obok nich">
+<!ENTITY pref_magnifying_glass_enabled_summary "Zwiększanie odnośników i pól formularzy po stuknięciu obok nich">
 
 <!ENTITY pref_scroll_title_bar2 "Przeglądanie pełnoekranowe">
 <!ENTITY pref_scroll_title_bar_summary "Ukryj pasek tytułu przeglądarki &brandShortName; przy przewijaniu stron">
@@ -448,7 +448,7 @@
 <!ENTITY set_image_chooser_title "Ustaw obraz jako">
 
 <!ENTITY suggestions_prompt3 "Włączyć podpowiedzi wyszukiwania?">
-<!ENTITY search_bar_item_desc "Szukaj w serwisie &formatS;">
+<!ENTITY search_bar_item_desc "Szukaj w serwisie &formatS;">
 
 <!ENTITY num_tabs2 "Karty (&formatD;)">
 
@@ -529,12 +529,12 @@
 <!ENTITY find_matchcase "Aa">
 
 <!ENTITY intent_uri_cannot_open "Nie można otworzyć odnośnika">
-<!ENTITY intent_uri_private_browsing_prompt "Ten odnośnik zostanie otwarty w aplikacji &formatS;. Na pewno wyjść z trybu prywatnego?">
-<!ENTITY intent_uri_private_browsing_multiple_match_title "Wyjść z trybu prywatnego?">
+<!ENTITY intent_uri_private_browsing_prompt "Ten odnośnik zostanie otwarty w aplikacji &formatS;. Na pewno wyjść z trybu prywatnego?">
+<!ENTITY intent_uri_private_browsing_multiple_match_title "Wyjść z trybu prywatnego?">
 
 <!ENTITY devtools_auth_scan_header "Skanowanie kodu QR wyświetlonego na drugim urządzeniu">
 
-<!ENTITY restriction_disallow_import_settings_title2 "Wyłącz „Importuj z Androida”">
+<!ENTITY restriction_disallow_import_settings_title2 "Wyłącz „Importuj z Androida”">
 <!ENTITY restriction_disallow_addons_title2 "Wyłącz instalację dodatków">
 <!ENTITY restriction_disallow_devtools_title2 "Wyłącz narzędzia dla programistów">
 <!ENTITY restriction_disallow_customize_home_title2 "Wyłącz dostosowywanie strony domowej">

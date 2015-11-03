@@ -15,6 +15,6 @@
 <!ENTITY cmd.removeFromHistory.accesskey "U">
 <!ENTITY cmd.clearList.label "Wyczyść listę">
 <!ENTITY cmd.clearList.accesskey "c">
-<!ENTITY cmd.clearList.tooltip "Usuń wszystkie pobierania z listy, poza aktywnymi.">
+<!ENTITY cmd.clearList.tooltip "Usuń wszystkie pobierania z listy, poza aktywnymi.">
 <!ENTITY cmd.searchDownloads.label "Szukaj…">
 <!ENTITY cmd.searchDownloads.key "F">
