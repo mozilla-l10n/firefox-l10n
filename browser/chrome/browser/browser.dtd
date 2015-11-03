@@ -189,9 +189,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Друкувати">
 <!ENTITY printButton.tooltip          "Надрукувати поточну сторінку">
 
+<!ENTITY urlbar.viewSiteInfo.label                      "Перегляд інформації про сайт">
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
+<!ENTITY urlbar.defaultNotificationAnchor.label         "Перегляд сповіщення">
+<!ENTITY urlbar.geolocationNotificationAnchor.label     "Перегляд запиту розташування">
+<!ENTITY urlbar.addonsNotificationAnchor.label          "Перегляд повідомлення про встановлення додатку">
+<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Перегляд повідомлення про автономне зберігання програми">
+<!ENTITY urlbar.loginFillNotificationAnchor.label       "Керування інформацією вашого логіну">
 
 
 
