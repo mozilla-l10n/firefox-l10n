@@ -216,6 +216,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.label      "Керування перекладом сторінки">
 <!ENTITY urlbar.emeNotificationAnchor.label             "Керування використанням програми DRM">
 
+<!ENTITY urlbar.openHistoryPopup.tooltip                "Показати історію">
 
 <!ENTITY searchItem.title             "Пошук">
 
