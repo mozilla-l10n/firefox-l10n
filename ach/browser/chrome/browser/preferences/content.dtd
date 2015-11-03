@@ -8,8 +8,8 @@
 <!ENTITY  blockPopups.accesskey       "G">
 
 <!ENTITY  notificationsPolicy.label            "Jami angeya">
-
-
+<!ENTITY  notificationsPolicyLearnMore.label   "Nong ngec mapol">
+<!ENTITY  notificationsPolicyDesc3.label       "Yer kakube mene ma ki ye gi me cwalo jami angeya">
 <!ENTITY  notificationsPolicyButton.accesskey  "e">
 <!ENTITY  notificationsPolicyButton.label      "Yer…">
 <!ENTITY  notificationsDoNotDisturb.label      "Pe i yel an">
@@ -57,4 +57,4 @@
 
 <!ENTITY  playDRMContent.label         "Tuk jami me DRM">
 <!ENTITY  playDRMContent.accesskey     "T">
-
+<!ENTITY  playDRMContent.learnMore.label "Nong ngec mapol">
