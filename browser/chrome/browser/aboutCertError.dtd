@@ -13,6 +13,8 @@ by NSS/PSM via netError.xhtml. -->
 <!ENTITY certerror.longpagetitle "Šis savienojums nav uzticams">
 <!-- These are going to be used for the updated design in Bug 1207107 -->
 
+<!ENTITY certerror.pagetitle1  "Nedrošs savienojums">
+<!ENTITY certerror.longpagetitle1 "Savienojums nav drošs">
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -27,8 +29,10 @@ dodaties uz pareizo vietu. Taču šīs lapas identitāti nevar pārbaudīt.">
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-
-
+<!ENTITY certerror.introPara "Lapas <span class='hostname'/> saimnieks ir nepareizi nokonfigurējis savu lapu. Lai pasargātu jūs no informācijas zādzības, &brandShortName; nesavienojas ar šo lapu.">
+<!ENTITY certerror.returnToPreviousPage.label "Iet atpakaļ">
+<!ENTITY certerror.learnMore "Uzzināt vairāk...">
+<!ENTITY certerror.advanced.label "Papildu">
 
 <!ENTITY certerror.whatShouldIDo.heading "Ko man tagad darīt?">
 <!ENTITY certerror.whatShouldIDo.content "Ja parasti jums izdodas pieslēgties 

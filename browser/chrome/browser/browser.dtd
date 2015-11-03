@@ -189,9 +189,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Drukāt">
 <!ENTITY printButton.tooltip          "Drukāt šo lapu">
 
+<!ENTITY urlbar.viewSiteInfo.label                      "Aplūkot lapas informāciju">
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
+<!ENTITY urlbar.defaultNotificationAnchor.label         "Aplūkot paziņojumu">
+<!ENTITY urlbar.geolocationNotificationAnchor.label     "Aplūkot atrašanās vietas pieprasījumu">
+<!ENTITY urlbar.addonsNotificationAnchor.label          "Aplūkot papildinājuma instalēšanas paziņojumu">
+<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Aplūkot lietotnes nesaistes datu paziņojumu">
+<!ENTITY urlbar.loginFillNotificationAnchor.label       "Pārvaldīt autorizācijas informāciju">
+<!ENTITY urlbar.passwordNotificationAnchor.label        "Atzīmējiet, ja vēlaties saglabāt paroli">
+<!ENTITY urlbar.webappsNotificationAnchor.label         "Aplūkot lietotnes instalēšanas paziņojumu">
+<!ENTITY urlbar.pluginsNotificationAnchor.label         "Pārvaldīt spraudņu lietojumu šajā lapā">
+<!ENTITY urlbar.webNotsNotificationAnchor.label         "Pārbaudīt, vai šī lapa var parādīt paziņojumus">
 
 
 
@@ -200,15 +210,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
-
-
-
-
-
-
-
-
+<!ENTITY urlbar.translateNotificationAnchor.label       "Tulkot šo lapu">
 
 
 
