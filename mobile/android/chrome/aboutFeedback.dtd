@@ -25,11 +25,11 @@
 <!-- LOCALIZATION NOTE (happy.message): "share the love" — This feels purposely exaggerated in English,
      but essentially it means that we want you to let others know how much you love Firefox. -->
 
-<!ENTITY happy.message             "Google Play-də bizə 5 ulduz verməklə sevginizi paylaşmaq istərdiniz?">
+<!ENTITY happy.message             "Bizə Google Play-də 5 ulduz verməklə sevginizi paylaşmaq istərdiniz?">
 <!-- LOCALIZATION NOTE (happy.finePrint): "feels great" — Another exaggeration where we're trying to
      get people to rate us by playfully telling them there's a benefit in it for them as well. -->
 
-<!ENTITY happy.finePrint           "Bu bir dəqiqədən də az vaxt alır və xoş hiss bağışlayır.">
+<!ENTITY happy.finePrint           "Bu, bir dəqiqədən daha az vaxt alır və xoş təəssürat bağışlayır.">
 
 <!ENTITY happy.ratingLink          "Hə, Google Play-ə get">
 <!ENTITY happy.maybeLater2         "Bəlkə daha sonra">
