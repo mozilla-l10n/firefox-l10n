@@ -8,8 +8,8 @@
 <!ENTITY  blockPopups.accesskey       "б">
 
 <!ENTITY  notificationsPolicy.label            "Хабарламалар">
-
-
+<!ENTITY  notificationsPolicyLearnMore.label   "Көбірек білу">
+<!ENTITY  notificationsPolicyDesc3.label       "Қай сайттарға сізге хабарламаларды жіберу рұқсат етілгенді таңдау">
 <!ENTITY  notificationsPolicyButton.accesskey  "у">
 <!ENTITY  notificationsPolicyButton.label      "Таңдау…">
 <!ENTITY  notificationsDoNotDisturb.label      "Мазамды алмаңыз">
@@ -57,4 +57,4 @@
 
 <!ENTITY  playDRMContent.label         "DRM құрамасын ойнату">
 <!ENTITY  playDRMContent.accesskey     "й">
-
+<!ENTITY  playDRMContent.learnMore.label "Көбірек білу">
