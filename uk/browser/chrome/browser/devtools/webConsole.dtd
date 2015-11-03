@@ -102,3 +102,5 @@
 <!ENTITY clearOutputCtrl.key  "L">
 <!ENTITY openInVarViewCmd.label "Відкрити у вигляді змінних">
 <!ENTITY openInVarViewCmd.accesskey "з">
+<!ENTITY storeAsGlobalVar.label "Зберігати як глобальну змінну">
+<!ENTITY storeAsGlobalVar.accesskey "з">
