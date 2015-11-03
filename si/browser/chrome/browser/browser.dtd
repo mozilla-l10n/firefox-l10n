@@ -1,11 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
-
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
+
+
 <!ENTITY mainWindow.title "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
@@ -17,8 +17,8 @@
 
 <!ENTITY appmenu.tooltip                     "මෙනුව විවෘත කරන්න">
 <!ENTITY navbarOverflow.label                "තවත් මෙවලම්...">
-
 <!-- Tab context menu -->
+
 <!ENTITY  reloadTab.label                    "ටැබ් ප්‍රතිපූරණය කරන්න">
 <!ENTITY  reloadTab.accesskey                "R">
 <!ENTITY  reloadAllTabs.label                "සියළු ටැබ් ප්‍රතිපූරණය කරන්න">
@@ -30,12 +30,12 @@ left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.accesskey        "i">
 <!ENTITY  closeOtherTabs.label               "අනෙකුත් ටැබ වසන්න (o)">
 <!ENTITY  closeOtherTabs.accesskey           "o">
-
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
+
 <!ENTITY  pinTab.label                       "ටැබ අමුණන්න (P)">
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "ටැබ ගලවන්න">
@@ -110,7 +110,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "A">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; වෙත පිවිසෙන්න">
+
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; වෙත නැවත සබඳවන්න">
+
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; සක්‍රීයයි">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; මොහොතකින් සම්මුහුර්තවීම අරඹනු ඇත.">
 
@@ -122,16 +124,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "පූර්ණතිර ආකාරයෙන් ඉවත් වන්න">
 <!ENTITY fullScreenExit.accesskey "F">
-
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
+
 <!ENTITY fullscreenWarning.beforeDomain.label "">
+
+
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
+
 <!ENTITY leaveDOMFullScreen.label "Exit Full Screen">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
@@ -190,9 +195,26 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-<!ENTITY searchItem.title             "සොයන්න">
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY searchItem.title             "සොයන්න">
 <!-- Toolbar items --> 
+
 <!ENTITY homeButton.label             "මුල් පිටුව">
 
 <!ENTITY tabGroupsButton.label        "ටැබ් සමූහ">
@@ -204,10 +226,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.unsorted.label "පිළිවෙළ නොකළ පිටුලකුණු">
 <!ENTITY viewBookmarksSidebar2.label        "පිටුලකුණු පැති තීරුව පෙන්වන්න">
 <!ENTITY viewBookmarksToolbar.label         "පිටුලකුණු මෙවලම්තීරුව පෙන්වන්න">
-
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
+
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
@@ -223,11 +245,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "බාගැනිම්">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
+
 <!ENTITY addons.label                 "ඇඩෝන">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
 <!ENTITY webapps.label                "යෙදුම් (p)">
 <!ENTITY webapps.accesskey            "p">
+
+
 
 <!ENTITY webDeveloperMenu.label       "වෙබ් සංවර්ධකයා (W)">
 <!ENTITY webDeveloperMenu.accesskey   "W">
@@ -256,7 +281,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY eyedropper.label   "ඇස්හෙලීම (y)">
 <!ENTITY eyedropper.accesskey "y">
-
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
@@ -267,19 +291,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  "Scratchpad" in your locale. You should feel free to find a close
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
+
 <!ENTITY scratchpad.label             "ස්ක්‍රැච්පෑඩ් (Scratchpad)">
 <!ENTITY scratchpad.accesskey         "S">
 <!ENTITY scratchpad.keycode           "VK_F4">
 <!ENTITY scratchpad.keytext           "F4">
-
 <!-- LOCALIZATION NOTE (browserToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser toolbox UI in the Tools menu. -->
+
 <!ENTITY browserToolboxMenu.label     "ගවේශක මෙවලම් පෙට්ටිය (e)">
 <!ENTITY browserToolboxMenu.accesskey "e">
 
 <!-- LOCALIZATION NOTE (browserContentToolboxMenu.label): This is the label for the
   -  application menu item that opens the browser content toolbox UI in the Tools menu.
   -  This toolbox allows to debug the chrome of the content process in multiprocess builds.  -->
+
 
 <!ENTITY devToolbarCloseButton.tooltiptext "Close Developer Toolbar">
 <!ENTITY devToolbarMenu.label              "Developer Toolbar">
@@ -302,11 +328,22 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "ගොනු"> 
 <!ENTITY fileMenu.accesskey       "F">
+
+
+
+
+
+
+
+
+
+
 <!ENTITY newNavigatorCmd.label        "නව කවුළුවක්">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "නව පුද්ගලික කවුළුව (W)">
 <!ENTITY newPrivateWindow.accesskey "W">
+
 
 <!ENTITY editMenu.label         "සැකසුම් (E)"> 
 <!ENTITY editMenu.accesskey       "E"> 
@@ -398,6 +435,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.switchToTab.label     "ටැබයට මාරුවෙන්න:">
 
 
+
+
+
+
+
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -418,10 +460,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   for people to switch to Linux.
 
  -->
+
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
-
 <!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
      These are set as the aria-label attribute for the search input box and
      submit button in the in-content search UI, to be used by screen readers. -->
@@ -429,9 +471,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
+
 <!ENTITY searchFor.label              "මේ සඳහා සොයන්න:">
 <!ENTITY searchWith.label             "   සමඟ:">
-
 <!-- LOCALIZATION NOTE (search.label, searchAfter.label):
      This string is used to build the header above the list of one-click search
      providers when a one off engine has been selected.  The searchAfter text is
@@ -439,16 +481,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      display a string after the search engine name.  This string will be displayed
      as:  "Search <selected engine name><searchAfter.label text>" -->
 <!ENTITY searchAfter.label            "">
-
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
+
 <!ENTITY searchWithHeader.label       "සමඟ සොයන්න:">
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "සෙවුම් සැකසුම් වෙනස් කරන්න">
+
+
+
 
 
 <!ENTITY tabView.commandkey           "e">
@@ -547,11 +592,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "මෙම රාමුව">
 <!ENTITY thisFrameMenu.accesskey          "h">
-
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
 items are mutually exclusive. -->
+
 <!ENTITY mediaPlay.label             "වාදනය">
 <!ENTITY mediaPlay.accesskey         "P">
 <!ENTITY mediaPause.label            "විරාමය">
@@ -594,17 +639,18 @@ items are mutually exclusive. -->
 <!ENTITY videoShowStats.accesskey    "t">
 <!ENTITY videoHideStats.label        "සංඛ්‍යාන දත්ත සඟවන්න">
 <!ENTITY videoHideStats.accesskey    "t">
-
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
+
 <!ENTITY fullZoomEnlargeCmd.label       "විශාල කරන්න">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "I">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "කුඩා කරන්න (O)">
@@ -680,24 +726,44 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editBookmark.cancel.label                   "අහෝසි කරන්න">
 
 
+
+
+
+
+
 <!-- Strings for connection state warnings. -->
+
+
 
 <!-- Strings for connection state warnings in the subview. -->
 
+
+
+
+
+
+
+
+
+
+
 <!ENTITY identity.disableMixedContentBlocking.label "දැනට ආරක්සහාව අකරිය කරන්න (D)">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
+
 
 
 <!ENTITY identity.permissions "අවසරයන්">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
-<!ENTITY tabsToolbar.label "ගවේෂක ටැබ්">
 
+<!ENTITY tabsToolbar.label "ගවේෂක ටැබ්">
 <!-- LOCALIZATION NOTE (syncTabsMenu2.label): This appears in the history menu -->
+
 <!ENTITY syncTabsMenu2.label     "වෙනත් මෙවලම් වලින් ටැබ">
 
 <!ENTITY syncBrand.shortName.label    "සම්මුහුර්තය">
+
 
 <!ENTITY syncSyncNowItem.label        "දැන් සම්මුහුර්ත කරන්න">
 <!ENTITY syncSyncNowItem.accesskey    "S">
@@ -759,18 +825,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "බෙදාගන්නා මයික්‍රෆෝනය (M)">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+
 <!ENTITY getUserMedia.allWindowsShared.message "ඔබේ තිරයේ දිස්වෙන සියළු කවුළු බෙදාගැනෙනු ඇත.">
+
+
+
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 
+
+
+
 <!ENTITY trackingContentBlocked.message "Tracking">
 <!ENTITY trackingContentBlocked.moreinfo "ඔබේ අන්තර්ජාල ක්‍රියාකාරීත්වය විමසන පිටුවේ සමහර කොටස් අවහිර කර ඇති.">
 <!ENTITY trackingContentBlocked.learnMore "තවත් ඉගෙනගන්න">
+
+
+
 <!ENTITY trackingContentBlocked.block.label "ආරක්ෂණය සක්‍රීය කරන්න">
 <!ENTITY trackingContentBlocked.block.accesskey "ආ">
 <!ENTITY trackingContentBlocked.disabled.message "හඹායෑම් ආරක්ශාව අක්‍රීය කරන ලදී">
@@ -779,35 +856,35 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pluginNotification.showAll.label "සියල්ල පෙන්වන්න (S)">
 <!ENTITY pluginNotification.showAll.accesskey "S">
-
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
+
 <!ENTITY pluginActivateNow.label "දැන් ඉඩ දෙන්න">
 <!ENTITY pluginActivateAlways.label "ඉඩදී මතකතබා ගන්න">
 <!ENTITY pluginBlockNow.label "ප්ලගිනය අවහිර කරන්න">
-
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
      blocked on a page. Should be wide enough to fit the pluginActivateNow.label
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
+
 <!ENTITY pluginNotification.width "32em">
 
 <!ENTITY uiTour.infoPanel.close "වසන්න">
 
 <!ENTITY appMenuSidebars.label         "පැතිතීර">
-
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
+
 <!ENTITY panicButton.view.mainTimeframeDesc       "අමතක කරන්න පසුගිය:">
 <!ENTITY panicButton.view.5min                    "විනාඩි පහක්">
 <!ENTITY panicButton.view.2hr                     "පැය දෙකක්">
 <!ENTITY panicButton.view.day                     "පැය 24">
-
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
+
 <!ENTITY panicButton.view.mainActionDesc          "ඉදිරියට යෑම:">
 <!ENTITY panicButton.view.deleteCookies           "මෑත <html:strong>කුකී </html:strong> මකාදමයි">
 <!ENTITY panicButton.view.deleteHistory           "ආසන්න <html:strong>වෙබ් ඉතිහාසය</html:strong> මකා දමන්න">
@@ -822,7 +899,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.buttonlabel         "ස්තූතියි!">
 
 
+
+
+
+
+
+
+
+
+
+
 <!ENTITY emeNotificationsDontAskAgain.label       "මගෙන් යළි නොවිමසන්න (D)">
 <!ENTITY emeNotificationsDontAskAgain.accesskey   "D">
-
 <!-- LOCALIZATION NOTE (saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label): Pocket is a brand name -->
+
+
+
+
