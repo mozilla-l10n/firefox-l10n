@@ -189,29 +189,34 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Prenta">
 <!ENTITY printButton.tooltip          "Prenta síðu">
 
+<!ENTITY urlbar.viewSiteInfo.label                      "Skoða upplýsingar um vefsvæði">
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
+<!ENTITY urlbar.defaultNotificationAnchor.label         "Skoða tilkynningu">
+<!ENTITY urlbar.geolocationNotificationAnchor.label     "Skoða staðsetningarbeiðni">
+<!ENTITY urlbar.addonsNotificationAnchor.label          "Skoða skilaboð frá uppsetngu viðbótar">
+<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Skoða skilaboð fyrir ónettengda app geymslu">
+<!ENTITY urlbar.loginFillNotificationAnchor.label       "Sýsla með innskráningar">
+<!ENTITY urlbar.passwordNotificationAnchor.label        "Hakaðu við ef þú vilt vista lykilorðið">
+<!ENTITY urlbar.webappsNotificationAnchor.label         "Skoða skilaboð frá app uppsetningu">
+<!ENTITY urlbar.pluginsNotificationAnchor.label         "Sýsla með notkun á tengiforriti á þessari síðu">
+<!ENTITY urlbar.webNotsNotificationAnchor.label         "Breyta hvort vefsvæði getur sýnt þér tilkynningar">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Sýsla með deilingu á myndavél og/eða hljóðnema fyrir þetta vefsvæði">
+<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Þú ert að deila myndavél og/eða hljóðnema með vefsvæðinu">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Sýsla með að deila hljóðnema á vefsvæðinu">
+<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Þú ert að deila hljóðnema með vefsvæðinu">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Sýsla með að deila gluggum eða skjá á vefsvæðinu">
+<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Þú ert að deila glugga eða skjánum með vefsvæðinu">
 
+<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Breyta hvort vefsvæðið getur falið bendilinn">
+<!ENTITY urlbar.servicesNotificationAnchor.label        "Skoða skilaboð fyrir uppsetningu þjónustu">
+<!ENTITY urlbar.translateNotificationAnchor.label       "Þýða þessa síðu">
+<!ENTITY urlbar.translatedNotificationAnchor.label      "Sýsla með þýðingar á síðu">
+<!ENTITY urlbar.emeNotificationAnchor.label             "Sýsla með notkun á DRM hugbúnaði">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY urlbar.openHistoryPopup.tooltip                "Sýna sögu">
 
 <!ENTITY searchItem.title             "Leita">
 <!-- Toolbar items --> 
@@ -252,8 +257,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.commandkey            "A">
 <!ENTITY webapps.label                "Öpp">
 <!ENTITY webapps.accesskey            "p">
-
-
+<!ENTITY loopMenuItem.label           "Byrja samtal…">
+<!ENTITY loopMenuItem.accesskey       "t">
 
 <!ENTITY webDeveloperMenu.label       "Vefforritari">
 <!ENTITY webDeveloperMenu.accesskey   "f">
@@ -331,16 +336,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Skrá"> 
 <!ENTITY fileMenu.accesskey       "S">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY newUserContext.label             "Nýr hópaflipi">
+<!ENTITY newUserContext.accesskey         "h">
+<!ENTITY userContextPersonal.label        "Persónulegt">
+<!ENTITY userContextPersonal.accesskey    "P">
+<!ENTITY userContextWork.label            "Vinna">
+<!ENTITY userContextWork.accesskey        "V">
+<!ENTITY userContextBanking.label         "Netbanki">
+<!ENTITY userContextBanking.accesskey     "N">
+<!ENTITY userContextShopping.label        "Versla">
+<!ENTITY userContextShopping.accesskey    "V">
 <!ENTITY newNavigatorCmd.label        "Nýr gluggi">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
