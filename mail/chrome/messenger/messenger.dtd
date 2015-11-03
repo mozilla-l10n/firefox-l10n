@@ -872,7 +872,7 @@
 <!ENTITY saveLinkAsCmd.accesskey "k">
 <!ENTITY saveImageAsCmd.label "Salvează imaginea ca…">
 <!ENTITY saveImageAsCmd.accesskey "v">
-<!ENTITY copyLinkCmd.label "Copiază adresa linkului">
+<!ENTITY copyLinkCmd.label "Copiază locația linkului">
 <!ENTITY copyLinkCmd.accesskey "l">
 <!ENTITY copyImageAllCmd.label "Copiază imaginea">
 <!ENTITY copyImageAllCmd.accesskey "i">
