@@ -189,29 +189,32 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Moullañ">
 <!ENTITY printButton.tooltip          "Moullañ ar bajennad-mañ">
 
+<!ENTITY urlbar.viewSiteInfo.label                      "Gwelout titouroù al lec'hienn">
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
+<!ENTITY urlbar.defaultNotificationAnchor.label         "Gwelout ur rebuzadur">
+<!ENTITY urlbar.geolocationNotificationAnchor.label     "Gwelout an azgoulenn lec'hiadur">
+<!ENTITY urlbar.addonsNotificationAnchor.label          "Gwelout kemennadenn staliadur an askouezh">
+<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Gwelout ar gemennadenn kadaviñ ezlinenn">
+<!ENTITY urlbar.loginFillNotificationAnchor.label       "Ardeiñ ho titouroù kennaskañ">
+<!ENTITY urlbar.passwordNotificationAnchor.label        "Kevaskit ma fell deoc'h enrollañ ho ker-tremen">
+<!ENTITY urlbar.webappsNotificationAnchor.label         "Gwelout kemennadenn staliadur an arload">
+<!ENTITY urlbar.pluginsNotificationAnchor.label         "Ardeiñ an arver askouezh war ar bajenn-mañ">
 
 
+<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Rannañ a reoc'h ho kamera ha/pe ho mikrofon gant al lec'hienn">
 
+<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Rannañ a rit ho mikrofon gant al lec'hienn">
 
+<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Rannañ a reoc'h ur prenestr pe ho skramm gant al lec'hienn">
 
+<!ENTITY urlbar.servicesNotificationAnchor.label        "Gwelout kemennadenn staliadur ar gwazerezh">
+<!ENTITY urlbar.translateNotificationAnchor.label       "Treiñ ar bajenn-mañ">
+<!ENTITY urlbar.translatedNotificationAnchor.label      "Ardeiñ troidigezh ar bajenn">
+<!ENTITY urlbar.emeNotificationAnchor.label             "Ardeiñ an arver meziantoù DRM">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY urlbar.openHistoryPopup.tooltip                "Diskouez ar roll istor">
 
 <!ENTITY searchItem.title             "Klask">
 <!-- Toolbar items --> 
@@ -252,8 +255,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.commandkey            "A">
 <!ENTITY webapps.label                "Arloadoù">
 <!ENTITY webapps.accesskey            "l">
-
-
+<!ENTITY loopMenuItem.label           "Kregiñ gant ur gaozeadenn...">
+<!ENTITY loopMenuItem.accesskey       "K">
 
 <!ENTITY webDeveloperMenu.label       "Diorroer web">
 <!ENTITY webDeveloperMenu.accesskey   "w">
@@ -331,16 +334,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Restr"> 
 <!ENTITY fileMenu.accesskey       "R">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY newUserContext.label             "Ivinell endalc'her nevez">
+<!ENTITY newUserContext.accesskey         "e">
+<!ENTITY userContextPersonal.label        "Personel">
+<!ENTITY userContextPersonal.accesskey    "P">
+<!ENTITY userContextWork.label            "Labour">
+<!ENTITY userContextWork.accesskey        "L">
+<!ENTITY userContextBanking.label         "Bank">
+<!ENTITY userContextBanking.accesskey     "B">
+<!ENTITY userContextShopping.label        "Prenadennoù">
+<!ENTITY userContextShopping.accesskey    "P">
 <!ENTITY newNavigatorCmd.label        "Prenestr nevez">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "n">
