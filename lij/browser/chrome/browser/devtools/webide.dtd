@@ -39,9 +39,8 @@
 <!ENTITY runtimeMenu_showMonitor_label "Monitor">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Preferense dispoxitivo">
-
-
-
+<!ENTITY prefs_options_autosavefiles "Sarvataggio file aotomatico">
+<!ENTITY prefs_options_autosavefiles_tooltip "Sarva aotomaticamente i file cangiæ primma de xoâ o progetto">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "z">
 <!ENTITY runtimeMenu_showSettings_label "Inpostaçioin dispoxitivo">
 <!ENTITY runtimeMenu_showSettings_accesskey "I">

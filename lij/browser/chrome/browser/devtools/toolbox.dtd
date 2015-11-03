@@ -89,4 +89,5 @@
 <!ENTITY toolboxToggleMinimize.key "U">
 <!ENTITY toolboxToggle.key "d">
 <!ENTITY toolboxReload.key "r">
+<!ENTITY options.defaultColorUnit.authored "comme l’òriginale">
 

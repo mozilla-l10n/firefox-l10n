@@ -57,7 +57,6 @@
 <!ENTITY btnPageSecurity.accesskey "S">
 <!ENTITY findCmd.key "F">
 <!ENTITY clearOutputCtrl.key "L">
-
 <!ENTITY btnConsoleReflows "Reflow">
 <!ENTITY btnConsoleSharedWorkers "Worker condivizi">
 <!ENTITY btnConsoleServiceWorkers "Service worker">
@@ -71,13 +70,5 @@
 <!ENTITY btnServerWarnings "Avizi">
 <!ENTITY openInVarViewCmd.label "Arvi in Vixoalizaçion variabili">
 <!ENTITY openInVarViewCmd.accesskey "V">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY storeAsGlobalVar.label "Sarva comme variabile globale">
+<!ENTITY storeAsGlobalVar.accesskey "S">
