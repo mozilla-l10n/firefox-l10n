@@ -189,13 +189,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Priontáil">
 <!ENTITY printButton.tooltip          "Priontáil an leathanach seo">
 
+<!ENTITY urlbar.viewSiteInfo.label                      "Eolas faoin suíomh">
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
+<!ENTITY urlbar.defaultNotificationAnchor.label         "Féach ar fhógra">
 
 
 
-
+<!ENTITY urlbar.loginFillNotificationAnchor.label       "Bainistigh d'fhaisnéis logála isteach">
 
 
 
