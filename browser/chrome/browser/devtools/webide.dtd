@@ -4,6 +4,28 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY runtimeMenu_disconnect_label "විසන්ධි කරන්න">
 <!ENTITY runtimeMenu_disconnect_accesskey "D">
 <!ENTITY runtimeMenu_showPermissionTable_label "අවසර වගුව">
@@ -15,15 +37,25 @@
 <!ENTITY runtimeMenu_showMonitor_label "දර්ශකය">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 
+
+
+
+
 <!ENTITY viewMenu_label "දක්වන්න">
 <!ENTITY viewMenu_accesskey "V">
+
+
 <!ENTITY viewMenu_zoomin_label "විශාල කරන්න">
+
 <!ENTITY viewMenu_zoomout_label "කුඩා කරන්න">
 
-<!ENTITY runtimeButton_label "දහාවන කාලය තෝරන්න">
 
+
+
+<!ENTITY runtimeButton_label "දහාවන කාලය තෝරන්න">
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
+
 <!ENTITY key_quit "W">
 <!-- open menu -->
 <!ENTITY key_showProjectPanel "O">
@@ -35,46 +67,90 @@
 <!ENTITY key_toggleEditor "B">
 <!-- zoom -->
 
+
+
+
 <!ENTITY projectPanel_myProjects "මගේ ව්‍යාපෘති">
+
 <!ENTITY projectPanel_tabs "ටැබ්">
+
+
+
 <!ENTITY runtimePanel_other "වෙනත්">
 <!ENTITY runtimePanel_installsimulator "සමාකෘතිය ස්ථාපනය කරන්න">
+
 
 <!-- Lense -->
 <!ENTITY details_warning_header "අනතුරු ඇඟවීම්">
 <!ENTITY details_error_header "දෝෂ">
 <!ENTITY details_description "විස්තරය">
 <!ENTITY details_location "ස්ථානය">
+
 <!ENTITY details_removeProject_button "ව්‍යාපෘතිය ඉවත් කරන්න">
 
 <!-- New App -->
 
 
+
 <!-- Decks -->
 
-<!ENTITY deck_close "වසන්න">
 
+
+<!ENTITY deck_close "වසන්න">
 <!-- Addons -->
 <!ENTITY addons_aboutaddons "ඇඩෝන කළමනාකරු විවෘත කරන්න">
-
 <!-- Prefs -->
+
 <!ENTITY prefs_general_title "සාමාන්‍ය">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY prefs_options_keybindings_default "පෙරනිමි">
+
 
 <!-- Permissions Table -->
 
 <!-- Runtime Details -->
 
+
+
+
+
+
 <!-- Device Preferences and Settings -->
+
+
 <!ENTITY device_typeobject "වස්තුව">
 
 <!-- Device Preferences -->
 
+
+
+
 <!-- Device Settings -->
+
+
+
 
 <!-- Monitor -->
 <!ENTITY monitor_help "උදව්">
-
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
@@ -87,8 +163,15 @@
      devices that can scan a QR code. -->
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
-
 <!-- Logs panel -->
-
 <!-- Simulator Options -->
+
+
+
+
 <!ENTITY simulator_version "නිකුතුව">
+
+
+
+
+
