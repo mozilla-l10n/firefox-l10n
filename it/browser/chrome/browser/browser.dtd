@@ -655,14 +655,6 @@
 <!ENTITY panicButton.thankyou.msg1 "La cronologia recente è stata eliminata.">
 <!ENTITY panicButton.thankyou.msg2 "Buona navigazione.">
 <!ENTITY panicButton.thankyou.buttonlabel "Grazie">
-<!ENTITY processHang.terminateScript.label "Blocca lo script">
-<!ENTITY processHang.terminateScript.accessKey "B">
-<!ENTITY processHang.debugScript.label "Esegui il debug dello script">
-<!ENTITY processHang.debugScript.accessKey "E">
-<!ENTITY processHang.terminatePlugin.label "Termina il plugin">
-<!ENTITY processHang.terminatePlugin.accessKey "m">
-<!ENTITY processHang.terminateProcess.label "Termina il processo web">
-<!ENTITY processHang.terminateProcess.accessKey "T">
 <!ENTITY emeLearnMoreContextMenu.label "Ulteriori informazioni sul DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey "D">
 <!ENTITY emeNotificationsNotNow.label "Non adesso">
