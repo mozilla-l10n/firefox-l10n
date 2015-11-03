@@ -13,6 +13,8 @@ by NSS/PSM via netError.xhtml. -->
 <!ENTITY certerror.longpagetitle "Esta ligação não é de confiança">
 <!-- These are going to be used for the updated design in Bug 1207107 -->
 
+<!ENTITY certerror.pagetitle1  "Ligação não-segura">
+<!ENTITY certerror.longpagetitle1 "A sua ligação não é segura">
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -27,13 +29,15 @@ está a ir para o sítio certo. No entanto, a identidade deste sítio não pode 
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
-
-
+<!ENTITY certerror.introPara "O proprietário de <span class='hostname'/> configurou incorretamente o sítio web. Para impedir que a sua informação fosse roubada, o &brandShortName; não se ligou a este sítio web.">
+<!ENTITY certerror.returnToPreviousPage.label "Voltar">
+<!ENTITY certerror.learnMore "Saber mais…">
+<!ENTITY certerror.advanced.label "Avançado">
 
 <!ENTITY certerror.whatShouldIDo.heading "O que devo fazer?">
-<!ENTITY certerror.whatShouldIDo.content "Se costuma aceder regularmente a este sítio 
+<!ENTITY certerror.whatShouldIDo.content "Se costuma ligar-se regularmente a este sítio 
 sem problemas, este erro pode significar que alguém está a tentar 
-fazer-se passar por este site. Por essa razão, não deve continuar.">
+fazer-se passar por este sítio. Por essa razão, não deve continuar.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Este sítio utiliza HTTP 
 Strict Transport Security (HSTS) para indicar que o &brandShortName; apenas se pode 
 ligar em segurança. Como resultado, não é possível adicionar uma exceção para este 
