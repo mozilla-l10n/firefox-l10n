@@ -269,8 +269,8 @@
 <!ENTITY datareporting_notification_summary_short "Aby ulepszyć przeglądarkę &brandShortName;…">
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;. &datareporting_notification_action_long;">
 
-<!ENTITY datareporting_fhr_title "&brandShortName; Health Report">
-<!ENTITY datareporting_fhr_summary2 "Firefox Health Report ułatwia zrozumienie wydajności przeglądarki i udostępnia dane o jej stanie organizacji &vendorShortName;.">
+<!ENTITY datareporting_fhr_title "Raport o zdrowiu programu &brandShortName;">
+<!ENTITY datareporting_fhr_summary2 "Raport o zdrowiu Firefoksa ułatwia zrozumienie wydajności przeglądarki i udostępnia dane o jej stanie organizacji &vendorShortName;.">
 <!ENTITY datareporting_abouthr_title "Wyświetl">
 <!ENTITY datareporting_telemetry_title "Telemetria">
 <!ENTITY datareporting_telemetry_summary "Udostępnianie organizacji &vendorShortName; danych o wydajności, wykorzystaniu, modyfikacjach przeglądarki oraz o sprzęcie, na którym działa, ułatwia ulepszanie programu &brandShortName;.">

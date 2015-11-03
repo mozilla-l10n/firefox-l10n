@@ -26,9 +26,9 @@
 
 <!ENTITY dataChoicesTab.label            "Udostępnianie danych">
 
-<!ENTITY healthReportDesc.label "Firefox Health Report ułatwia zrozumienie wydajności przeglądarki i udostępnia dane o jej stanie organizacji &vendorShortName;.">
-<!ENTITY enableHealthReport.label "&brandShortName; Health Report">
-<!ENTITY enableHealthReport.accesskey "H">
+<!ENTITY healthReportDesc.label "Raport o zdrowiu Firefoksa ułatwia zrozumienie wydajności przeglądarki i udostępnia dane o jej stanie organizacji &vendorShortName;.">
+<!ENTITY enableHealthReport.label "Raport o zdrowiu programu &brandShortName;">
+<!ENTITY enableHealthReport.accesskey "F">
 <!ENTITY healthReportLearnMore.label "Więcej informacji">
 
 <!ENTITY telemetryDesc.label "Udostępnianie organizacji &vendorShortName; danych o wydajności, wykorzystaniu, modyfikacjach przeglądarki oraz o sprzęcie, na którym działa, ułatwia ulepszanie programu &brandShortName;.">
