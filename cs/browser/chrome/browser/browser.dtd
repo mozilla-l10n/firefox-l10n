@@ -189,7 +189,29 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label "Tisk">
 <!ENTITY printButton.tooltip "Vytiskne tuto stránku">
 
-<!ENTITY locationItem.title "Adresa">
+<!ENTITY urlbar.viewSiteInfo.label                      "Zobrazit informace o stránce">
+<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
+     used to provide accessible labels to users of assistive technology like screenreaders.
+     It is not possible to see them visually in the UI. -->
+<!ENTITY urlbar.defaultNotificationAnchor.label         "Zobrazit upozornění">
+<!ENTITY urlbar.geolocationNotificationAnchor.label     "Zobrazit žádosti o vaši polohu">
+<!ENTITY urlbar.addonsNotificationAnchor.label          "Zobrazit zprávu o instalaci doplňku">
+<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Zobrazit zprávu úložiště offline aplikací">
+<!ENTITY urlbar.webappsNotificationAnchor.label         "Zobrazit zprávu o instalci aplikace">
+<!ENTITY urlbar.pluginsNotificationAnchor.label         "Spravovat využití zásuvných modulů na této stránce">
+
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Spravovat sdílení webkamery a/nebo mikrofonu se stránkou">
+<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Sdílíte webkameru a/nebo mikrofon se stránkou">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Spravovat sdílení mikrofonu se stránkou">
+<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Sdílíte mikrofon se stránkou">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Spravovat sdílení oken nebo obrazovky se stránkou">
+<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Sdílíte obrazovku nebo okno se stránkou">
+
+<!ENTITY urlbar.translateNotificationAnchor.label       "Přeložit tuto stránku">
+<!ENTITY urlbar.translatedNotificationAnchor.label      "Spravovat překlad stránky">
+<!ENTITY urlbar.emeNotificationAnchor.label             "Správa využívání softwaru DRM">
+<!ENTITY urlbar.openHistoryPopup.tooltip                "Zobrazit historii">
+
 <!ENTITY searchItem.title "Hledání">
 
 <!-- Toolbar items -->
@@ -230,6 +252,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.commandkey "a">
 <!ENTITY webapps.label                "Aplikace">
 <!ENTITY webapps.accesskey            "p">
+<!ENTITY loopMenuItem.label           "Zahájit konverzaci…">
+<!ENTITY loopMenuItem.accesskey       "Z">
 
 <!ENTITY webDeveloperMenu.label "Vývoj webu">
 <!ENTITY webDeveloperMenu.accesskey "w">
@@ -289,8 +313,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY devToolbarCloseButton.tooltiptext "Zavře lištu vývoje">
 <!ENTITY devToolbarMenu.label "Lišta vývoje">
 <!ENTITY devToolbarMenu.accesskey "o">
-<!ENTITY devAppMgrMenu.label               "Správce aplikací">
-<!ENTITY devAppMgrMenu.accesskey           "a">
 <!ENTITY webide.label                      "WebIDE">
 <!ENTITY webide.accesskey                  "b">
 <!ENTITY webide.keycode                    "VK_F8">
@@ -309,6 +331,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Soubor"> 
 <!ENTITY fileMenu.accesskey       "S">
+<!ENTITY newUserContext.label             "Nový kontejnerový panel">
+<!ENTITY newUserContext.accesskey         "j">
+<!ENTITY userContextPersonal.label        "Osobní">
+<!ENTITY userContextPersonal.accesskey    "O">
+<!ENTITY userContextWork.label            "Práce">
+<!ENTITY userContextWork.accesskey        "P">
+<!ENTITY userContextBanking.label         "Bankovnictví">
+<!ENTITY userContextBanking.accesskey     "B">
+<!ENTITY userContextShopping.label        "Nakupování">
+<!ENTITY userContextShopping.accesskey    "a">
 <!ENTITY newNavigatorCmd.label        "Nové okno">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">

@@ -139,6 +139,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "Zajistí automaticky vkládání ukončovacích závorek">
 <!ENTITY prefs_options_keybindings "Klávesové zkratky">
 <!ENTITY prefs_options_keybindings_default "Výchozí">
+<!ENTITY prefs_options_autosavefiles "Automatické ukládání souborů">
+<!ENTITY prefs_options_autosavefiles_tooltip "Automaticky ukládá upravené soubory před spuštěním projektu">
 
 <!-- Permissions Table -->
 <!ENTITY permissionstable_title "Tabulka práv">
