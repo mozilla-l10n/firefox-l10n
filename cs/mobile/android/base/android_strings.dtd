@@ -34,7 +34,7 @@
 <!ENTITY  crash_reporter_title "Hlášení pádů">
 <!ENTITY  crash_message2 "Aplikace &brandShortName; spadla. Po restartu aplikace &brandShortName; budou otevřené panely uvedeny na startovní stránce.">
 <!ENTITY  crash_send_report_message3 "Odeslat organizaci &vendorShortName; hlášení o pádu, aby jej mohla opravit">
-<!ENTITY  crash_include_url2 "Zahrnout adresu stránky, kde jsem se nacházeli">
+<!ENTITY  crash_include_url2 "Zahrnout i adresu stránky, kde došlo k pádu">
 <!ENTITY  crash_sorry "Omlouváme se">
 <!ENTITY  crash_comment "Přidat komentář (komentáře jsou veřejně dostupné)">
 <!ENTITY  crash_allow_contact2 "Povolit organizaci &vendorShortName;, aby mě v souvislosti s tímto hlášením kontaktovala">
