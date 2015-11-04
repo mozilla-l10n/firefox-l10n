@@ -185,4 +185,4 @@ functionality specific to firefox. -->
 <!ENTITY weakCryptoUsed.learnMore "Dysgu Rhagor…">
 <!ENTITY weakCryptoAdvanced.title "Uwch">
 <!ENTITY weakCryptoAdvanced.longDesc "Mae <span class='hostname'></span> yn defnyddio hen dechnoleg diogelwch sy'n fregus iawn. Gall ymosodwr ddatgelu'n hawdd fanylion roeddech yn meddwl eu bod yn ddiogel.">
-<!ENTITY weakCryptoAdvanced.override "(Ddim yn ddiogel) Ceisiwch llwytho <span class='hostname'></span> gan ddefnyddio hen offer diogelwch.">
+<!ENTITY weakCryptoAdvanced.override "(Ddim yn ddiogel) Ceisiwch llwytho <span class='hostname'></span> gan ddefnyddio hen offer diogelwch">
