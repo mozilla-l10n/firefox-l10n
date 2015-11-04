@@ -225,8 +225,8 @@
 <!ENTITY pref_donottrack_summary "&brandShortName; সাইট দের বলে যে আপনি ট্র্যাক হতে চান না">
 
 <!ENTITY pref_tracking_protection_enabled "সক্রিয় হয়েছে">
-
-
+<!ENTITY pref_tracking_protection_enabled_pb "ব্যক্তিগত ব্রাউজিং এ সক্রিয়">
+<!ENTITY pref_tracking_protection_disabled "নিষ্ক্রিয়">
 
 <!ENTITY tracking_protection_prompt_title "এখন ট্র্যাকিং সুরক্ষিত আছে">
 <!ENTITY tracking_protection_prompt_text "ট্র্যাকিং উপাদান সক্রিয়ভাবে অবরোধ করা হচ্ছে তাই আপনি দুশ্চিন্তা করবেন না।">
