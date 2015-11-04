@@ -31,8 +31,8 @@
 <!ENTITY selectAllCmd.label          "انتخاب همه">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey        "ا">
-
-
+<!ENTITY preferencesCmd2.label "گزینه‌ها">
+<!ENTITY preferencesCmd2.accesskey "گ">
 <!ENTITY preferencesCmdUnix.label       "ترجیحات">
 <!ENTITY preferencesCmdUnix.accesskey     "ت">
 
