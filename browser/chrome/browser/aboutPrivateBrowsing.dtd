@@ -27,7 +27,7 @@
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Baixades">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Adreces d'interès">
 
-<!ENTITY aboutPrivateBrowsing.note1            "Tingueu en compte que el vostre proveïdor d'Internet o el vostre patró sí que podrien conèixer les pàgines que visiteu.">
+<!ENTITY aboutPrivateBrowsing.note1            "Tingueu en compte que el vostre proveïdor d'Internet o l'empresa per la qual treballeu sí que podrien conèixer les pàgines que visiteu.">
 <!ENTITY aboutPrivateBrowsing.learnMore        "Més informació.">
 <!-- LOCALIZATION NOTE (trackingProtection.width1):
      Width of the Tracking Protection section. It is fine for the enabled or
