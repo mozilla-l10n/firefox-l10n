@@ -45,8 +45,8 @@
      Width of the element representing the enabled or disabled indicator.
      -->
 <!ENTITY trackingProtection.state.width        "10ch">
-<!ENTITY trackingProtection.state.enabled      "ACTIVÀ">
-<!ENTITY trackingProtection.state.disabled     "DEACTIVÀ">
+<!ENTITY trackingProtection.state.enabled      "GEA">
+<!ENTITY trackingProtection.state.disabled     "NA">
 
 <!ENTITY trackingProtection.description1       "Fanestras privatas blocheschan ussa parts da la pagina che pudessan fastizar tias activitads en l'internet.">
 
