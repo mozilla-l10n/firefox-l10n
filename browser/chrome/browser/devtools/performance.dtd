@@ -54,7 +54,7 @@
   -  in the toolbar on buttons that select which view is currently shown. -->
 
 <!ENTITY performanceUI.toolbar.js-calltree "Шақырулар ағашы">
-
+<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Жазып отыру кезінде браузер ең көп уақытты өткізген JavaScript функцияларын түспен ерекшелейді.">
 <!ENTITY performanceUI.toolbar.memory-calltree "Тағайындаулар">
 <!ENTITY performanceUI.toolbar.allocations.tooltiptext "Жазу кезінде жады қайда бөлінгенін көрсетеді.">
 
@@ -98,7 +98,7 @@
   -  is displayed in the profiler. -->
 
 <!ENTITY performanceUI.showPlatformData             "Gecko платформасының деректерін көрсету">
-
+<!ENTITY performanceUI.showPlatformData.tooltiptext "Платформа деректерін көрсетуді іске қосу нәтижесінде JavaScript профильдеуші есептемелерінде Gecko платформа таңбалары болады.">
 <!-- LOCALIZATION NOTE (performanceUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
   -  functions in the profiler. -->
@@ -120,6 +120,8 @@
 <!-- LOCALIZATION NOTE (performanceUI.enableJITOptimizations): This string
   -  is displayed next to a checkbox determining whether or not JIT optimization data
   -  should be recorded. -->
+
+<!ENTITY performanceUI.enableJITOptimizations             "JIT оптимизацияларын жазып отыру">
 
 <!-- LOCALIZATION NOTE (performanceUI.JITOptimizationsTitle): This string
   -  is displayed as the title of the JIT Optimizations panel. -->
