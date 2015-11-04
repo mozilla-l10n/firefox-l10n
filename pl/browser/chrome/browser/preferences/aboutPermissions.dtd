@@ -15,7 +15,7 @@
 
 <!ENTITY header.defaults                 "Uprawnienia domyślne dla wszystkich witryn">
 
-<!ENTITY permissions.forgetSite "Usun tę stronę">
+<!ENTITY permissions.forgetSite "Usuń tę stronę">
 
 <!ENTITY permission.alwaysAsk            "Zawsze pytaj">
 <!ENTITY permission.allow                "Zezwalaj">
