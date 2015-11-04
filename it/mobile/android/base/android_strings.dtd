@@ -106,7 +106,8 @@
 <!ENTITY pref_search_restore_defaults "Ripristina predefiniti">
 <!ENTITY pref_search_restore_defaults_summary "Ripristina predefiniti">
 <!ENTITY pref_search_hint "Suggerimento: è possibile aggiungere qualunque sito tenendo premuto a lungo sul campo di ricerca e poi toccando l’icona &formatI;.">
-<!ENTITY pref_category_devtools "Strumenti di sviluppo">
+<!ENTITY pref_category_advanced "Avanzate">
+<!ENTITY pref_category_advanced_summary "Importazione dati, plugin, strumenti di sviluppo">
 <!ENTITY pref_developer_remotedebugging "Debug remoto">
 <!ENTITY pref_developer_remotedebugging_usb "Debug remoto tramite USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Debug remoto tramite Wi-Fi">
@@ -134,10 +135,10 @@
 <!ENTITY pref_header_customize "Personalizzazione">
 <!ENTITY pref_header_display "Visualizzazione">
 <!ENTITY pref_header_privacy_short "Privacy">
+<!ENTITY pref_header_advanced "Avanzate">
 <!ENTITY pref_header_help "Aiuto">
 <!ENTITY pref_header_language "Lingua">
 <!ENTITY pref_header_vendor "&vendorShortName;">
-<!ENTITY pref_header_devtools "Strumenti di sviluppo">
 <!ENTITY pref_cookies_menu "Cookie">
 <!ENTITY pref_cookies_accept_all "Attivi">
 <!ENTITY pref_cookies_not_accept_foreign "Attivi, esclusi di terze parti">
