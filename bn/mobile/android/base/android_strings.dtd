@@ -224,6 +224,7 @@
 <!ENTITY pref_donottrack_title "ট্র্যাক করবেন না">
 <!ENTITY pref_donottrack_summary "&brandShortName; সাইট দের বলে যে আপনি ট্র্যাক হতে চান না">
 
+<!ENTITY pref_tracking_protection_enabled "সক্রিয় হয়েছে">
 
 
 
@@ -708,6 +709,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
+<!ENTITY intent_uri_private_browsing_prompt "এই লিঙ্কটি &formatS;-এ খুলবে। আপনি কি প্রাইভেট ব্রাউজিং বন্ধ করবেন?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android
