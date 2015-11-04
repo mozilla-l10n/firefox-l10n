@@ -15,7 +15,10 @@
 <!ENTITY manageSubscriptions.label "Manage Subscriptions…"> 
 <!ENTITY manageSubscriptions.accesskey "M">
 
+<!ENTITY feedWindowTitle.label "جادوگر حساب خوراک">
 <!-- entities from rss.rdf -->
 
-
+<!ENTITY feeds.accountName "وبلاگ‌ها و خوراک‌های خبری">
+<!ENTITY feeds.wizardShortName "خوراک‌ها">
+<!ENTITY feeds.wizardLongName "وبلاگ‌ها و خوراک‌های خبری">
 

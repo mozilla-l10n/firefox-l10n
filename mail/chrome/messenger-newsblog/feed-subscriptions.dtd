@@ -3,10 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Subscription Dialog -->
 
+<!ENTITY feedSubscriptions.label     "اشتراک‌های خوراک">
+<!ENTITY learnMore.label             "درباره‌ی خوارک‌ها بیشتر بدانید">
 
+<!ENTITY feedTitle.label             "عنوان:">
+<!ENTITY feedTitle.accesskey         "ع">
 
-
-
+<!ENTITY feedLocation.label          "آدرس خوراک:">
+<!ENTITY feedLocation.accesskey      "آ">
 
 
 
