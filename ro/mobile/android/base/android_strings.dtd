@@ -8,7 +8,7 @@
 
 <!ENTITY firstrun_panel_title_welcome "Bun venit">
 <!ENTITY  onboard_start_message3 "Navighează cu &brandShortName;">
-<!ENTITY  onboard_start_subtext3 "Fă ca experiența de navigare mobilă pe Web să fie cu adevărat unică.">
+<!ENTITY  onboard_start_subtext3 "Fă ca experiența de navigare mobilă pe web să fie cu adevărat unică.">
 <!ENTITY  onboard_start_button_account "Autentifică-te în &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Începe navigarea">
 <!ENTITY firstrun_button_next "Înainte">
