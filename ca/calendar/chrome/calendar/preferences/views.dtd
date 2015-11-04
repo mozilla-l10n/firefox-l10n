@@ -14,8 +14,8 @@
 
 <!ENTITY pref.weekstarts.label "La setmana s'inicia el:">
 <!ENTITY pref.weekstarts.accesskey "n">
-
-
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Mostra el número de setmana a les vistes i al mini mes">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "M">
 <!ENTITY pref.daysoff.label "Inclou aquests dies a la setmana laboral:">
 
 <!ENTITY pref.calendar.view.daystart.label "El dia s'inicia a les:">

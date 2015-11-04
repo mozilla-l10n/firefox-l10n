@@ -8,13 +8,13 @@
 <!ENTITY lightning.toolbar.task.name.accesskey "T">
 
 <!ENTITY lightning.toolbar.sync.label "Sincronitza">
-
+<!ENTITY lightning.toolbar.sync.tooltip "Torna a carregar els calendaris i sincronitza els canvis">
 <!ENTITY lightning.toolbar.delete.label "Suprimeix">
 
 <!ENTITY lightning.toolbar.edit.label "Edita">
 
-
-
+<!ENTITY lightning.toolbar.gototoday.label "Vés a avui">
+<!ENTITY lightning.toolbar.gototoday.tooltip "Vés a avui">
 <!ENTITY lightning.toolbar.print.label "Imprimeix">
 
 <!-- Mode Toolbar -->
