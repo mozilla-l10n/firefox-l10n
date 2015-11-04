@@ -52,9 +52,9 @@
 <!ENTITY btnPageLogging.tooltip "Registra els missatges enviats a l'objecte window.console">
 <!ENTITY btnPageLogging.accesskey3 "R">
 <!ENTITY btnConsoleErrors       "Errors">
-
-
-
+<!ENTITY btnConsoleInfo         "Informació">
+<!ENTITY btnConsoleWarnings     "Avisos">
+<!ENTITY btnConsoleLog          "Registre">
 <!ENTITY btnConsoleXhr          "XHR">
 <!ENTITY btnConsoleReflows      "Reajustaments">
 <!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
@@ -66,7 +66,7 @@
 <!ENTITY btnServerLogging.accesskey   "S">
 <!ENTITY btnServerErrors              "Errors">
 
-
+<!ENTITY btnServerWarnings            "Avisos">
 <!ENTITY btnServerLog                 "Registre">
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->

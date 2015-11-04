@@ -7,10 +7,10 @@
 <!ENTITY  blockPopups.label           "Bloca les finestres emergents">
 <!ENTITY  blockPopups.accesskey       "B">
 
+<!ENTITY  notificationsPolicyLearnMore.label   "Més informació">
 
-
-
-
+<!ENTITY  notificationsPolicyButton.accesskey  "T">
+<!ENTITY  notificationsPolicyButton.label      "Trieu…">
 
 
 
@@ -56,4 +56,4 @@
 
 <!ENTITY  playDRMContent.label         "Reprodueix el contingut amb DRM">
 <!ENTITY  playDRMContent.accesskey     "R">
-
+<!ENTITY  playDRMContent.learnMore.label "Més informació">
