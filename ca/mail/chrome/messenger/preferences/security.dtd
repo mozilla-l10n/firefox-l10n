@@ -5,7 +5,7 @@
 <!ENTITY itemJunk.label          "Correu brossa">
 <!ENTITY itemPhishing.label      "Missatges fraudulents">
 <!ENTITY itemPasswords.label     "Contrasenyes">
-
+<!ENTITY itemAntiVirus.label     "Antivirus">
 <!-- Junk Mail Controls -->
 
 <!ENTITY junkMail.intro "Definiu els paràmetres de correu brossa per defecte. Els paràmetres específics de cada compte poden configurar-se des dels Paràmetres dels comptes.">
@@ -42,5 +42,7 @@
 <!ENTITY savedPasswords.accesskey       "d">
 <!-- Anti Virus -->
 
-
+<!ENTITY antiVirus.intro      "El &brandShortName; pot facilitar que el programari antivirus analitzi els missatges de correu entrant abans que s'emmagatzemin localment.">
+<!ENTITY antiVirus.label      "Permet que els programes antivirus posin en quarantena missatges d'entrada individuals">
+<!ENTITY antiVirus.accesskey  "q">
 
