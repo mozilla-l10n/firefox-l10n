@@ -223,7 +223,7 @@
 <!ENTITY fxaccount_status_linktos "Lietošanas noteikumi">
 <!ENTITY fxaccount_status_linkprivacy "Privātuma atruna">
 <!ENTITY fxaccount_status_more "Vairāk&ellipsis;">
-
+<!ENTITY fxaccount_remove_account "Atvienoties&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "Noņemt Firefox kontu?">
 <!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; pārtrauks sinhronizāciju ar jūsu kontu, taču dati jūsu ierīcē paliks neskarti.">
