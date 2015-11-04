@@ -149,6 +149,8 @@
      other devices present. This label should briefly inform the user that they
      need another connected device in order to use the feature. -->
 
+<!ENTITY menu_no_synced_devices "Skicka den här fliken till en annan ansluten enhet">
+
 <!ENTITY pref_category_search3 "Sök">
 <!ENTITY pref_category_search_summary "Anpassa sökleverantörerna">
 <!ENTITY pref_category_display "Visa">
@@ -217,12 +219,13 @@
 
 
 <!ENTITY pref_tracking_protection_title "Spårnings skydd">
-
+<!ENTITY pref_tracking_protection_summary3 "Påslaget i privat surfning">
 <!ENTITY pref_donottrack_title "Spåra inte">
 <!ENTITY pref_donottrack_summary "&brandShortName; kommer att informera hemsidor att du inte vill bli spårad">
 
-
-
+<!ENTITY pref_tracking_protection_enabled "Aktiverad">
+<!ENTITY pref_tracking_protection_enabled_pb "Påslaget i privat surfning">
+<!ENTITY pref_tracking_protection_disabled "Inaktiverad">
 
 <!ENTITY tracking_protection_prompt_title "Nu med Spårnings skydd">
 <!ENTITY tracking_protection_prompt_text "Aktivt blockera spårnings element så att du inte behöver oroa dig.">
@@ -712,6 +715,7 @@ från Android">
      We don't have control over the style of this dialog and it looks
      unpolished when this string is longer than one line so ideally keep it
      short! -->
+<!ENTITY intent_uri_private_browsing_multiple_match_title "Avsluta Privat surfning?">
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
      above a QR reader that is actively scanning for QR codes.  The expected QR
