@@ -14,7 +14,7 @@
 <!ENTITY privatebrowsingpage.title.normal1 "Məxfi Səyahətdə deyilsiz">
 
 <!ENTITY privatebrowsingpage.description.trackingProtection "Səhifələrin səyahətinizi izləyə biləcək hissələri &brandShortName; tərəfindən blok edilir.">
-
+<!ENTITY privatebrowsingpage.description.privateDetails "Sizin tarixçənizi yadda saxlamayacıq, amma endirilən fayllar və yeni əlfəcinlər yenə də cihazınızda saxlanacaqdır.">
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
