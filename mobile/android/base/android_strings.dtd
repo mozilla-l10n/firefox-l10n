@@ -69,11 +69,8 @@
 <!ENTITY tab_title_prefix_is_playing_audio "Воспроизведение аудио – &formatS;">
 <!ENTITY settings "Параметры">
 <!ENTITY settings_title "Параметры">
-<!ENTITY pref_category_input_options "Настройки ввода">
-<!ENTITY pref_category_advanced "Дополнительно">
-<!ENTITY pref_category_customize "Настройка">
-<!ENTITY pref_category_customize_summary "Домашняя, поиск, вкладки, импорт">
-<!ENTITY pref_category_customize_alt_summary "Домашняя, поиск, вкладки, открывать позже, импорт">
+<!ENTITY pref_category_general "Основные">
+<!ENTITY pref_category_general_summary "Домашняя, язык, масштаб, полноэкранный веб-серфинг">
 <!ENTITY pref_category_language "Язык">
 <!ENTITY pref_category_language_summary "Изменение языка вашего браузера">
 <!ENTITY pref_browser_locale "Язык браузера">
@@ -91,8 +88,8 @@
 <!ENTITY menu_no_synced_devices "Это отправляет вкладку на другое подключённое устройство">
 <!ENTITY pref_category_search3 "Поиск">
 <!ENTITY pref_category_search_summary "Настройка ваших поисковых систем">
-<!ENTITY pref_category_display "Отображение">
-<!ENTITY pref_category_display_summary "Текст, заголовок окна, полноэкранный просмотр">
+<!ENTITY pref_category_accessibility "Специальные возможности">
+<!ENTITY pref_category_accessibility_summary "Размер шрифта, голосовой ввод ">
 <!ENTITY pref_category_privacy_short "Приватность">
 <!ENTITY pref_category_privacy_summary2 "Контроль логинов, кук, отслеживания, данных">
 <!ENTITY pref_category_vendor "&vendorShortName;">
@@ -105,12 +102,12 @@
 <!ENTITY pref_search_restore_defaults "Восстановить по умолчанию">
 <!ENTITY pref_search_restore_defaults_summary "Восстановить по умолчанию">
 <!ENTITY pref_search_hint "СОВЕТ: Добавьте любой веб-сайт в ваш список поисковых систем, произведя долгое нажатие на его поле поиска и затем нажав на значок &formatI;.">
-<!ENTITY pref_category_devtools "Инструменты разработки">
+<!ENTITY pref_category_advanced "Дополнительно">
+<!ENTITY pref_category_advanced_summary "Импорт, плагины, инструменты разработки">
 <!ENTITY pref_developer_remotedebugging "Удалённая отладка">
 <!ENTITY pref_developer_remotedebugging_usb "Удалённая отладка через USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Удалённая отладка через Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Для удалённой отладки через Wi-Fi необходимо, чтобы на вашем устройстве было установлено приложение для чтения QR-кодов.">
-<!ENTITY pref_category_logins "Логины">
 <!ENTITY pref_remember_signons2 "Запоминать логины">
 <!ENTITY pref_open_external_urls_privately_title "Открывать ссылки в приватном просмотре">
 <!ENTITY pref_open_external_urls_privately_summary "Для всех внешних ссылок, открытых в &brandShortName;">
@@ -130,13 +127,13 @@
 <!ENTITY pref_category_home_homepage "Домашняя страница">
 <!ENTITY home_homepage_title "Установка домашней страницы">
 <!ENTITY home_homepage_use_current_tab "Использовать текущую вкладку">
-<!ENTITY pref_header_customize "Настройка">
-<!ENTITY pref_header_display "Отображение">
+<!ENTITY pref_header_general "Основные">
+<!ENTITY pref_header_search "Поиск">
 <!ENTITY pref_header_privacy_short "Приватность">
+<!ENTITY pref_header_accessibility "Специальные возможности">
+<!ENTITY pref_header_advanced "Дополнительные">
 <!ENTITY pref_header_help "Справка">
-<!ENTITY pref_header_language "Язык">
 <!ENTITY pref_header_vendor "&vendorShortName;">
-<!ENTITY pref_header_devtools "Инструменты разработки">
 <!ENTITY pref_cookies_menu "Куки">
 <!ENTITY pref_cookies_accept_all "Включены">
 <!ENTITY pref_cookies_not_accept_foreign "Включены, кроме сторонних сайтов">
@@ -167,8 +164,7 @@
 <!ENTITY pref_char_encoding "Кодировка">
 <!ENTITY pref_char_encoding_on "Показывать меню">
 <!ENTITY pref_char_encoding_off "Скрывать меню">
-<!ENTITY pref_clear_private_data2 "Удалить сейчас">
-<!ENTITY pref_clear_private_data_category "Удаление моих данных">
+<!ENTITY pref_clear_private_data_now "Удалить мои данные">
 <!ENTITY pref_clear_on_exit_title2 "Удаление при выходе">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; будет автоматически удалять ваши данные при нажатии вами \u0022Выход\u0022 в главном меню">
 <!ENTITY pref_clear_on_exit_dialog_title "Выберите данные для удаления">
