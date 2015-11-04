@@ -2,15 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY aboutSupport.appBasicsAppBuildID "شناسه‌ی ساخت برنامه">
+
+<!ENTITY aboutSupport.accountsTitle "حساب‌های پست الکترونیکی و خبرها">
 
 
 
-
-
-
-
-
-
-
+<!ENTITY aboutSupport.accountsName "نام">
+<!ENTITY aboutSupport.accountsIncomingServer "سرویس دهنده‌ی ورودی">
+<!ENTITY aboutSupport.accountsOutgoingServers "سرویس دهنده‌های خروجی">
+<!ENTITY aboutSupport.accountsServerName "نام">
+<!ENTITY aboutSupport.accountsConnSecurity "امنیت اتصال">
+<!ENTITY aboutSupport.accountsAuthMethod "روش تشخیص هویت">
+<!ENTITY aboutSupport.accountsDefault "پیش‌فرض">
 <!ENTITY aboutSupport.identityName "Identity">
 
+<!ENTITY aboutSupport.sendViaEmail.label "ارسال از طریق پست الکترونیکی">

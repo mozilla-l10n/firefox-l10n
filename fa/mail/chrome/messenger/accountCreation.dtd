@@ -1,21 +1,22 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!ENTITY name.label                      "نام شما:">
+<!ENTITY name.accesskey                  "ن">
+<!ENTITY name.placeholder                "نام نام خانوادگی">
+<!ENTITY name.text                       "نام شما؛ برای نشان داده شدن به دیگران">
+<!ENTITY email.label                     "آدرس پست الکترونیکی:">
+<!ENTITY email.accesskey                 "د">
 
-
-
-
-
-
-
-
-
+<!ENTITY password.label                  "گذرواژه">
+<!ENTITY password.accesskey              "گ">
 <!ENTITY password.placeholder            "گذرواژه">
+<!ENTITY password.text                   "اختیاری، برای تعیین صحت نام کاربری استفاده نخواهد شد">
+<!ENTITY rememberPassword.label          "یادآوری گذرواژه">
+<!ENTITY rememberPassword.accesskey      "ی">
 
-
-
-
-
+<!ENTITY imapLong.label                  "IMAP (پوشه‌های راه دور)">
+<!ENTITY pop3Long.label                  "POP3 (نگه داشتن نامه روی رایانه‌ی شما)">
 
 
 
