@@ -85,19 +85,26 @@
      - add new attribute
      - edit attribute
      - remove attribute -->
-
+<!ENTITY inspectorAttributeSubmenu.label      "Öznitelik">
+<!ENTITY inspectorAttributeSubmenu.accesskey  "Ö">
 <!-- LOCALIZATION NOTE (inspectorAddAttribute.label): This is the label shown in
      the inspector contextual-menu for the item that lets users add attribute
      to current node -->
 
+<!ENTITY inspectorAddAttribute.label        "Öznitelik ekle">
+<!ENTITY inspectorAddAttribute.accesskey    "e">
 <!-- LOCALIZATION NOTE (inspectorEditAttribute.label): This is the label shown in
      the inspector contextual-menu for the item that lets users edit attribute
      for current node -->
 
+<!ENTITY inspectorEditAttribute.label        "Özniteliği düzenle">
+<!ENTITY inspectorEditAttribute.accesskey    "d">
 <!-- LOCALIZATION NOTE (inspectorRemoveAttribute.label): This is the label shown in
      the inspector contextual-menu for the item that lets users delete attribute
      from current node -->
 
+<!ENTITY inspectorRemoveAttribute.label        "Özniteliği kaldır">
+<!ENTITY inspectorRemoveAttribute.accesskey    "k">
 
 <!ENTITY inspector.selectButton.tooltip     "Fare ile element seçin">
 <!-- LOCALIZATION NOTE (inspectorSearchHTML.label2): This is the label shown as
@@ -147,3 +154,5 @@
 <!-- LOCALIZATION NOTE (inspectorDuplicateNode.label): This is the label
      shown in the inspector contextual-menu for the item that lets users
      duplicate the currently selected node. -->
+
+<!ENTITY inspectorDuplicateNode.label       "Düğümü çoğalt">

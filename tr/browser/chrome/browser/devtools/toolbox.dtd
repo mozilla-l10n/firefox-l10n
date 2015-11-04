@@ -51,7 +51,7 @@ values from browser.dtd.  -->
 <!-- LOCALIZATION NOTE (options.context.inspector): This is the label for
   -  the heading of the Inspector group in the options panel. -->
 
-<!ENTITY options.context.inspector "Denetleyici">
+<!ENTITY options.context.inspector "Denetçi">
 <!-- LOCALIZATION NOTE (options.showUserAgentStyles.label): This is the label
   -  for the checkbox option to show user agent styles in the Inspector
   -  panel. -->
