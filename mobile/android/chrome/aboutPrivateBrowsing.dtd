@@ -13,7 +13,8 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "No estás navegando en forma privada">
 
-
+<!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; bloquea partes de las páginas que podrían rastrear tu actividad de navegación.">
+<!ENTITY privatebrowsingpage.description.privateDetails "No recordaremos nada de tu historial, pero los archivos descargados y los nuevos marcadores se mantendrán guardados en tu dispositivo.">
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->

@@ -149,6 +149,8 @@
      other devices present. This label should briefly inform the user that they
      need another connected device in order to use the feature. -->
 
+<!ENTITY menu_no_synced_devices "Enviar esta pestaña a otro dispositivo conectado">
+
 <!ENTITY pref_category_search3 "Buscar">
 <!ENTITY pref_category_search_summary "Personaliza tus herramientas de búsqueda">
 <!ENTITY pref_category_display "Mostrar">
@@ -214,15 +216,17 @@
 <!ENTITY pref_cookies_not_accept_foreign "Habilitado, excluyendo terceros">
 <!ENTITY pref_cookies_disabled "Deshabilitado">
 
-
+<!ENTITY pref_tap_to_load_images_title "Cargar imágenes">
+<!ENTITY pref_tap_to_load_images_summary2 "Cargar imágenes sólo cuando las mantengas presionadas">
 
 <!ENTITY pref_tracking_protection_title "Protección contra rastreo">
-
+<!ENTITY pref_tracking_protection_summary3 "Habilitado en Navegación Privada">
 <!ENTITY pref_donottrack_title "No rastrear">
 <!ENTITY pref_donottrack_summary "&brandShortName; le dirá a los sitios que no quiero ser rastreado">
 
-
-
+<!ENTITY pref_tracking_protection_enabled "Habilitado">
+<!ENTITY pref_tracking_protection_enabled_pb "Habilitado en Navegación Privada">
+<!ENTITY pref_tracking_protection_disabled "Deshabilitado">
 
 <!ENTITY tracking_protection_prompt_title "Ahora con protección contra rastreo.">
 <!ENTITY tracking_protection_prompt_text "Bloquear activamente los elementos de rastreo para que no tengas que preocuparte.">
@@ -292,7 +296,7 @@ size. -->
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_sync_summary2 "Sincroniza tus pestañas, marcadores, contraseñas e historial">
 <!ENTITY pref_search_suggestions "Show search suggestions">
-
+<!ENTITY pref_history_search_suggestions "Mostrar historial de búsqueda">
 <!ENTITY pref_import_android "Import from Android">
 <!ENTITY pref_import_android_summary "Importa los marcadores e historial del navegador nativo">
 <!ENTITY pref_private_data_history2 "Historial de navegación">
@@ -585,7 +589,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Conexión segura">
 <!ENTITY identity_connection_insecure "Conexión insegura">
-
+<!ENTITY identity_login_insecure "Esta página no es segura y tu inicio de sesión podría ser vulnerable.">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; ha bloqueado contenido inseguro en esta página.">
@@ -705,6 +709,7 @@ desde Android">
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
+<!ENTITY intent_uri_private_browsing_prompt "Este enlace abrirá en &formatS;. ¿Estás seguro que quieres salir de la Navegación Privada?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android
@@ -712,6 +717,7 @@ desde Android">
      We don't have control over the style of this dialog and it looks
      unpolished when this string is longer than one line so ideally keep it
      short! -->
+<!ENTITY intent_uri_private_browsing_multiple_match_title "¿Salir de la Navegación Privada?">
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
      above a QR reader that is actively scanning for QR codes.  The expected QR
