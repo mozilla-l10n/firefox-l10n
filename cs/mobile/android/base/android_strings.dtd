@@ -149,6 +149,7 @@
      clicks on the button to send a tab to another device and there are no
      other devices present. This label should briefly inform the user that they
      need another connected device in order to use the feature. -->
+<!ENTITY menu_no_synced_devices "Odeslat tento panel do jiného připojeného zařízení">
 
 <!ENTITY pref_category_search3 "Vyhledávání">
 <!ENTITY pref_category_search_summary "Přizpůsobte si své vyhledávací moduly">
@@ -215,6 +216,8 @@
 <!ENTITY pref_cookies_not_accept_foreign "Povolit mimo 3. stran">
 <!ENTITY pref_cookies_disabled "Zakázat">
 
+<!ENTITY pref_tap_to_load_images_title "Načítat obrázky po klepnutí">
+<!ENTITY pref_tap_to_load_images_summary2 "Načítat obrázky pouze po jejich dlouhém stisknutí">
 
 <!ENTITY pref_tracking_protection_title "Ochrana proti sledování">
 <!ENTITY pref_tracking_protection_summary3 "Povolena v režimu anonymního prohlížení">
