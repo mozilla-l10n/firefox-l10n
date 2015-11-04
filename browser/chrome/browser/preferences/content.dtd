@@ -7,13 +7,14 @@
 <!ENTITY  blockPopups.label           "Wuskokujuce wokno blokěrowaś">
 <!ENTITY  blockPopups.accesskey       "k">
 
-
-
-
-
-
-
-
+<!ENTITY  notificationsPolicy.label            "Powěźeńki">
+<!ENTITY  notificationsPolicyLearnMore.label   "Dalšne informacije">
+<!ENTITY  notificationsPolicyDesc3.label       "Wubjeŕśo, kótare sedła směju wam powěźeńki pósłaś">
+<!ENTITY  notificationsPolicyButton.accesskey  "u">
+<!ENTITY  notificationsPolicyButton.label      "Wubraś…">
+<!ENTITY  notificationsDoNotDisturb.label      "Njemólśo">
+<!ENTITY  notificationsDoNotDisturb.accesskey  "m">
+<!ENTITY  notificationsDoNotDisturbDetails.value "Žedna powěźeńka se njepokazujo, až &brandShortName; znowego njestartujośo">
 
 <!ENTITY  popupExceptions.label       "Wuwześa…">
 <!ENTITY  popupExceptions.accesskey   "W">
@@ -56,4 +57,4 @@
 
 <!ENTITY  playDRMContent.label         "DRM-wopśimjeśe wótgraś">
 <!ENTITY  playDRMContent.accesskey     "t">
-
+<!ENTITY  playDRMContent.learnMore.label "Dalšne informacije">
