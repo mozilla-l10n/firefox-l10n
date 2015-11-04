@@ -108,6 +108,8 @@ values from browser.dtd.  -->
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
   -  boolean preference in about:config, in the options panel. -->
 
+<!ENTITY options.enableWorkers.label    "Habilita la depuració de processos de treball (en desenvolupament)">
+<!ENTITY options.enableWorkers.tooltip  "En activar aquesta opció, les eines de desenvolupament podran depurar processos de treball">
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
@@ -124,6 +126,8 @@ values from browser.dtd.  -->
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
 
+<!ENTITY options.enableServiceWorkersHTTP.label     "Habilita els processos de treball de servei a través de HTTP (quan la caixa d'eines és oberta)">
+<!ENTITY options.enableServiceWorkersHTTP.tooltip   "En activar aquesta opció, s'habilitaran els processos de treball de servei a través de HTTP en totes les pestanyes que tinguin la caixa d'eines oberta.">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
