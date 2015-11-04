@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                 "Excepcions">
-
+<!ENTITY window.width                 "45em">
 
 <!ENTITY treehead.sitename.label      "Lloc web">
 <!ENTITY treehead.status.label        "Estat">
@@ -15,13 +15,14 @@
 <!ENTITY address.accesskey            "d">
 <!ENTITY block.label                  "Bloca">
 <!ENTITY block.accesskey              "B">
-
-
+<!ENTITY session.label                "Permet durant la sessió">
+<!ENTITY session.accesskey            "s">
 <!ENTITY allow.label                  "Permet">
 <!ENTITY allow.accesskey              "P">
 <!ENTITY windowClose.key              "w">
 
-
-
-
+<!ENTITY button.cancel.label          "Cancel·la">
+<!ENTITY button.cancel.accesskey      "C">
+<!ENTITY button.ok.label              "Desa els canvis">
+<!ENTITY button.ok.accesskey          "D">
 

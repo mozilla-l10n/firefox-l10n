@@ -13,4 +13,4 @@
 <!ENTITY showAllUnreadMessagesCount.accesskey  "m">
 <!ENTITY dockIconBadge.label                   "Distintiu de la icona de l'aplicació">
 <!ENTITY dockIconShow.label                    "Afegeix a la icona de l'aplicació:">
-
+<!ENTITY directNotificationSettings.label      "Podeu inhabilitar la icona de l'aplicació a la subfinestra Notificació de les Preferències del sistema.">

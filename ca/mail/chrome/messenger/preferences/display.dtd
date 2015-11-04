@@ -4,7 +4,7 @@
 
 <!ENTITY itemFormatting.label             "Format">
 <!ENTITY itemTags.label                   "Etiquetes">
-
+<!ENTITY itemAdvanced.label               "Avançat">
 
 <!ENTITY style.label                      "Estil:">
 <!ENTITY style.accesskey                  "i">
