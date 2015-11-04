@@ -8,7 +8,7 @@
 <!ENTITY  blockPopups.accesskey       "B">
 
 <!ENTITY  notificationsPolicy.label            "Aviseringar">
-
+<!ENTITY  notificationsPolicyLearnMore.label   "Ta reda på mer">
 
 <!ENTITY  notificationsPolicyButton.accesskey  "V">
 <!ENTITY  notificationsPolicyButton.label      "Välj…">
@@ -57,4 +57,4 @@
 
 <!ENTITY  playDRMContent.label         "Spela upp DRM-innehåll">
 <!ENTITY  playDRMContent.accesskey     "S">
-
+<!ENTITY  playDRMContent.learnMore.label "Ta reda på mer">
