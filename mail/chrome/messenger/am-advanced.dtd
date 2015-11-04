@@ -19,9 +19,10 @@
 <!ENTITY smtpListSetDefault.label "Nastavit jako výchozí">
 <!ENTITY smtpListSetDefault.accesskey "N">
 
+<!ENTITY serverDetails.label "Podrobnosti vybraného serveru:">
 <!ENTITY serverDescription.label "Název serveru: ">
-<!ENTITY serverName.label "Adresa serveru:">
+<!ENTITY serverName.label "Adresa serveru: ">
 <!ENTITY serverPort.label "Port: ">
-<!ENTITY userName.label "Uživatelské jméno:">
+<!ENTITY userName.label "Uživatelské jméno: ">
 <!ENTITY connectionSecurity.label "Zabezpečení spojení: ">
 <!ENTITY authMethod.label "Způsob autentizace: ">
