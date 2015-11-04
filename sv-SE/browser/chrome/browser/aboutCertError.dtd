@@ -28,6 +28,8 @@ du kommit till rätt plats. Den här webbplatsens identitet kan däremot inte ve
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+
+<!ENTITY certerror.introPara "Ägaren av <span class='hostname'/> har konfigurerat sin webbplats felaktigt. För att skydda din information från att bli stulen, har &brandShortName; inte anslutit till denna webbplats.">
 <!ENTITY certerror.returnToPreviousPage.label "Gå bakåt">
 <!ENTITY certerror.learnMore "Lär dig mer...">
 <!ENTITY certerror.advanced.label "Avancerat">
