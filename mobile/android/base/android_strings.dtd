@@ -72,6 +72,7 @@
 <!ENTITY settings_title "Impostazioni">
 <!ENTITY pref_category_input_options "Opzioni di input">
 <!ENTITY pref_category_general "Generale">
+<!ENTITY pref_header_search "Ricerca">
 <!ENTITY pref_category_general_summary "Pagina iniziale, lingua, zoom, navigazione a schermo intero">
 <!ENTITY pref_category_customize_alt_summary "Pagina iniziale, ricerca, schede, apertura ritardata, importazione">
 <!ENTITY pref_category_language "Lingua">
