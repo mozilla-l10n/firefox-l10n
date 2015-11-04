@@ -92,8 +92,8 @@
 <!ENTITY menu_no_synced_devices "Invia questa scheda a un altro dispositivo connesso">
 <!ENTITY pref_category_search3 "Ricerca">
 <!ENTITY pref_category_search_summary "Personalizza i motori di ricerca">
-<!ENTITY pref_category_display "Visualizzazione">
-<!ENTITY pref_category_display_summary "Testo, barra del titolo, navigazione a schermo intero">
+<!ENTITY pref_category_accessibility "Accessibilità">
+<!ENTITY pref_category_accessibility_summary "Dimensione del testo, input vocale">
 <!ENTITY pref_category_privacy_summary2 "Gestisci accessi, cookie, tracciamento, dati">
 <!ENTITY pref_category_privacy_short "Privacy">
 <!ENTITY pref_category_vendor "&vendorShortName;">
