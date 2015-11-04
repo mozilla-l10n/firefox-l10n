@@ -4,10 +4,17 @@
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
 
+<!ENTITY menu_securityEncryptRequire.label "Ushbu xabarni shifrlash">
+<!ENTITY menu_securityEncryptRequire.accesskey "s">
 
+<!ENTITY menu_securitySign.label "Ushbu xabarga raqamli kirish">
+<!ENTITY menu_securitySign.accesskey "x">
 
+<!ENTITY menu_securityStatus.label "Xavfsizlik ma’lumotini ko‘rish">
+<!ENTITY menu_securityStatus.accesskey "k">
 
+<!ENTITY securityButton.label "Xavfsizlik">
+<!ENTITY securityButton.tooltip "Xavfsizlik sozlamalarini ko‘rish yoki o‘zgartirish">
 
-
-
-
+<!ENTITY menu_viewSecurityStatus.label "Xabar xavfsizligi ma’lumoti">
+<!ENTITY menu_viewSecurityStatus.accesskey "m">

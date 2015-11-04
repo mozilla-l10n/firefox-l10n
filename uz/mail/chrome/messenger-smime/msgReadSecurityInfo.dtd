@@ -4,7 +4,11 @@
 <!--LOCALIZATION NOTE msgReadSecurityInfo.dtd UI for viewing security status when reading a received message -->
 
 
+<!ENTITY status.label "Xabar xavfsizligi">
+<!ENTITY signatureCert.label "Sertifikat imzosini ko‘rish">
+<!ENTITY encryptionCert.label "Shifrlash sertifikatini ko‘rish">
 
-
-
-
+<!ENTITY signer.name "Kirituvchi:">
+<!ENTITY recipient.name "Shifrlash:">
+<!ENTITY email.address "E-pochta manzili">
+<!ENTITY issuer.name "Sertikat egasi:">
