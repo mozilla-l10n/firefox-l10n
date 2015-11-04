@@ -6,11 +6,18 @@
 -->
 
 
+<!ENTITY update.checkForUpdatesButton.label       "بررسی برای به‌روز رسانی‌ها">
+<!ENTITY update.checkForUpdatesButton.accesskey   "ب">
+<!ENTITY update.updateButton.label2               "برای انجام بروزرسانی، &brandShortName; را دوباره راه‌اندازی کنید">
 
-
-
+<!ENTITY update.applyButtonBillboard.label        "اعمال بروزرسانی…">
+<!ENTITY update.applyButtonBillboard.accesskey    "ا">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+
+
+<!ENTITY warningDesc.version        "&brandShortName; آزمایشی است و ممکن است ناپایدار باشد.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!ENTITY warningDesc.telemetryDesc  "این برنامه برای کمک به بهتر کردن &brandShortName;، به طور خودکار اطلاعاتی را درباره‌ی عملکرد، سخت‌افزار، نوع استفاده و تنظیمات شخصی به &vendorShortName; می‌فرستد.">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
 <!ENTITY community.exp.start        "">
