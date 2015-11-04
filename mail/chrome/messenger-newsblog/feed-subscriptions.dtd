@@ -9,20 +9,21 @@
 <!ENTITY feedTitle.label             "عنوان:">
 <!ENTITY feedTitle.accesskey         "ع">
 
-<!ENTITY feedLocation.label          "آدرس خوراک:">
-<!ENTITY feedLocation.accesskey      "آ">
+<!ENTITY feedLocation.label          "نشانی اینترنتی خوراک:">
+<!ENTITY feedLocation.accesskey      "ن">
+<!ENTITY feedLocation.placeholder    "لطفاْ یک نشانی اینترنتی خوراک صحیح برای افزوده شدن وارد کنید">
+<!ENTITY locationValidate.label      "اعتبار سنجی">
 
 
 
 
+<!ENTITY quickMode.label             "نمایش خلاصه‌ی مقاله بجای بارگذاری صفحه‌ی وب">
+<!ENTITY quickMode.accesskey         "ن">
 
 
 
 
-
-
-
-
+<!ENTITY autoTagPrefix.placeholder   "یک پیشوند برچسب وارد کنید">
 
 <!ENTITY button.addFeed.label        "افزودن">
 <!ENTITY button.addFeed.accesskey    "ا">
