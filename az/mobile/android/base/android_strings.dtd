@@ -149,6 +149,8 @@
      other devices present. This label should briefly inform the user that they
      need another connected device in order to use the feature. -->
 
+<!ENTITY menu_no_synced_devices "Bu vərəqi digər qoşulu cihaza göndər">
+
 <!ENTITY pref_category_search3 "Axtar">
 <!ENTITY pref_category_search_summary "Axtarış sistemini xüsusiləşdirin">
 <!ENTITY pref_category_display "Görünüş">
@@ -214,15 +216,17 @@
 <!ENTITY pref_cookies_not_accept_foreign "Aktivdir, 3-cü tərəf xaric">
 <!ENTITY pref_cookies_disabled "Söndürülüb">
 
-
+<!ENTITY pref_tap_to_load_images_title "Şəkilləri yükləmək üçün toxunun">
+<!ENTITY pref_tap_to_load_images_summary2 "Şəkilləri yalnız uzun müddət basılı tuttuqda yüklə">
 
 <!ENTITY pref_tracking_protection_title "İzlənmə qoruması">
-
+<!ENTITY pref_tracking_protection_summary3 "Məxfi Səyahətdə aktivdir">
 <!ENTITY pref_donottrack_title "Məni izləmə">
 <!ENTITY pref_donottrack_summary "&brandShortName; saytlara izlənmək istəmədiyinizi xəbər edəcək">
 
-
-
+<!ENTITY pref_tracking_protection_enabled "Aktiv">
+<!ENTITY pref_tracking_protection_enabled_pb "Məxfi Səyahətdə aktivdir">
+<!ENTITY pref_tracking_protection_disabled "Söndürülüb">
 
 <!ENTITY tracking_protection_prompt_title "Artıq İzləmə Qoruması ilə">
 <!ENTITY tracking_protection_prompt_text "Bütün izləmə elementlərini aktiv bloklayır və beləliklə sizin narahat olmanıza əsas qalmır.">
@@ -292,7 +296,7 @@ size. -->
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_sync_summary2 "Vərəqlərinizi, əlfəcinlərinizi, daxil olmaları, tarixçənizi sinxronlaşdırın">
 <!ENTITY pref_search_suggestions "Axtarış təkliflərini göstər">
-
+<!ENTITY pref_history_search_suggestions "Axtarış tarixçəsini göstər">
 <!ENTITY pref_import_android "Android-dən daxil et">
 <!ENTITY pref_import_android_summary "Əlfəcinləri və tarixçəni əsas səyyahdan daxil et">
 <!ENTITY pref_private_data_history2 "Səyahət tarixçəsi">
@@ -585,7 +589,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Təhlükəsiz Bağlantı">
 <!ENTITY identity_connection_insecure "Təhlükəli bağlantı">
-
+<!ENTITY identity_login_insecure "Bu səhifə qorunmur, sizin daxil olma təhlükəli ola bilər.">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; bu səhifədəki təhlükəli elementi blokladı.">
@@ -705,6 +709,7 @@ idxal edilir">
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
+<!ENTITY intent_uri_private_browsing_prompt "Bu keçid &formatS; formatında açılacaq. Məxfi Səyahətdən çıxmaq istədiyinizə əminsiz?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android
@@ -712,6 +717,7 @@ idxal edilir">
      We don't have control over the style of this dialog and it looks
      unpolished when this string is longer than one line so ideally keep it
      short! -->
+<!ENTITY intent_uri_private_browsing_multiple_match_title "Məxfi Səyahətdən çıxılsın?">
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
      above a QR reader that is actively scanning for QR codes.  The expected QR

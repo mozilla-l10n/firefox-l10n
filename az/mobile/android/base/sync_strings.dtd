@@ -223,7 +223,7 @@
 <!ENTITY fxaccount_status_linktos "İstifadə Şərtləri">
 <!ENTITY fxaccount_status_linkprivacy "Məxfilik Bildirişi">
 <!ENTITY fxaccount_status_more "Daha çox&ellipsis;">
-
+<!ENTITY fxaccount_remove_account "Əlaqəni kəs&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "Firefox Hesabı silinsin?">
 <!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; sizin hesabla sinxronlaşdırmanı dayandıracaq, amma bu cihazda olan heç bir səyahət məlumatınızı silməyəcək.">
