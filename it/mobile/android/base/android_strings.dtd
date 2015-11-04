@@ -169,8 +169,7 @@
 <!ENTITY pref_char_encoding "Codifica caratteri">
 <!ENTITY pref_char_encoding_on "Visualizza menu">
 <!ENTITY pref_char_encoding_off "Non visualizzare menu">
-<!ENTITY pref_clear_private_data2 "Elimina adesso">
-<!ENTITY pref_clear_private_data_category "Eliminazione dati personali">
+<!ENTITY pref_clear_private_data_now "Elimina dati personali adesso">
 <!ENTITY pref_clear_on_exit_title2 "Elimina alla chiusura">
 <!ENTITY pref_clear_on_exit_summary2 "I dati personali in &brandShortName; verranno eliminati automaticamente quando si seleziona “Esci” nel menu principale">
 <!ENTITY pref_clear_on_exit_dialog_title "Selezionare i dati da eliminare">
