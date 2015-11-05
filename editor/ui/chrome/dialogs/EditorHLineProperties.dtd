@@ -6,7 +6,7 @@
 
 <!ENTITY windowTitle.label "Yatay Çizgi Özellikleri">
 
-<!ENTITY dimensionsBox.label "Boyutlar">
+<!ENTITY dimensionsBox.label "Ölçüler">
 <!ENTITY heightEditField.label "Yükseklik:">
 <!ENTITY heightEditField.accessKey "s">
 <!ENTITY widthEditField.label "Genişlik:">

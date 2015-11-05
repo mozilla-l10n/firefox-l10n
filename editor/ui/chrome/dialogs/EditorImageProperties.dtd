@@ -29,7 +29,7 @@
 <!ENTITY actualSize.label "Gerçek boyut:">
 <!ENTITY actualSizeRadio.label "Gerçek boyut">
 <!ENTITY actualSizeRadio.accessKey "e">
-<!ENTITY actualSizeRadio.tooltip "Resmin gerçek boyutlarına dön">
+<!ENTITY actualSizeRadio.tooltip "Resmin gerçek ölçülerine dön">
 <!ENTITY customSizeRadio.label "Özel boyut">
 <!ENTITY customSizeRadio.accessKey "l">
 <!ENTITY customSizeRadio.tooltip "Resmin boyutunu sayfada göründüğü gibi değiştir">
@@ -73,6 +73,6 @@
 
 <!ENTITY imageInputTab.label "Form">
 <!ENTITY imageLocationTab.label "Konum">
-<!ENTITY imageDimensionsTab.label "Boyutlar">
+<!ENTITY imageDimensionsTab.label "Ölçüler">
 <!ENTITY imageAppearanceTab.label "Görünüm">
 <!ENTITY imageLinkTab.label "Bağlantı">
