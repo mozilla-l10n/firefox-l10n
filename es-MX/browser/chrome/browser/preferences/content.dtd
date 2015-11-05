@@ -7,13 +7,14 @@
 <!ENTITY  blockPopups.label           "Bloquear ventanas emergentes">
 <!ENTITY  blockPopups.accesskey       "B">
 
-
-
-
-
-
-
-
+<!ENTITY  notificationsPolicy.label            "Notificaciones">
+<!ENTITY  notificationsPolicyLearnMore.label   "Saber más">
+<!ENTITY  notificationsPolicyDesc3.label       "Elegir cuales sitios tienen permiso para enviarte notificaciones">
+<!ENTITY  notificationsPolicyButton.accesskey  "e">
+<!ENTITY  notificationsPolicyButton.label      "Seleccionar…">
+<!ENTITY  notificationsDoNotDisturb.label      "No me molestes">
+<!ENTITY  notificationsDoNotDisturb.accesskey  "m">
+<!ENTITY  notificationsDoNotDisturbDetails.value "Ninguna notificación se mostrará hasta que reinicies &brandShortName;">
 
 <!ENTITY  popupExceptions.label       "Excepciones…">
 <!ENTITY  popupExceptions.accesskey   "E">
