@@ -138,7 +138,7 @@
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
 <!ENTITY fxaccount_policy_linktos '服務條款'>
-<!ENTITY fxaccount_policy_linkprivacy '隱私權保護政策'>
+<!ENTITY fxaccount_policy_linkprivacy '隱私權公告'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync '歡迎使用 &syncBrand.shortName.label;'>
 <!ENTITY fxaccount_getting_started_description2 '登入以同步您的分頁、書籤、登入帳密與其他資料。'>
@@ -221,8 +221,9 @@
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos '服務條款'>
-<!ENTITY fxaccount_status_linkprivacy '隱私權保護政策'>
+<!ENTITY fxaccount_status_linkprivacy '隱私權公告'>
 <!ENTITY fxaccount_status_more '更多&ellipsis;'>
+<!ENTITY fxaccount_remove_account '取消連線&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title '移除 Firefox 帳號？'>
 <!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; 將停止同步您的帳號，但不會刪除此裝置中的任何瀏覽資料。'>
@@ -230,7 +231,6 @@
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast '已移除 Firefox 帳號 &formatS;。'>
 
-<!ENTITY fxaccount_remove_account_menu_item '移除帳號'>
 <!ENTITY fxaccount_enable_debug_mode '開啟除錯模式'>
 
 <!-- Localization note: this is the name shown by the Android system

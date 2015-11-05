@@ -144,13 +144,12 @@
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
 <!ENTITY overlay_no_synced_devices "沒有已連線到 Firefox 帳號的裝置">
-<!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
-     to send a tab to a synced device is pressed and there is an error
-     connecting to the server so the tab could not be sent. The text should be
-     divided into two lines (use the newline escape character, "\n", between
-     them): the first notifying the user about the failure and the second
-     telling the user what to do about it. -->
-<!ENTITY overlay_share_tab_not_sent "無法傳送您的分頁。\n請稍後再試。">
+
+<!-- Localization note (menu_no_synced_devices): Used in a toast when the user
+     clicks on the button to send a tab to another device and there are no
+     other devices present. This label should briefly inform the user that they
+     need another connected device in order to use the feature. -->
+<!ENTITY menu_no_synced_devices "將此頁面傳送到其他連結的裝置">
 
 <!ENTITY pref_category_search3 "搜尋">
 <!ENTITY pref_category_search_summary "自訂您的搜尋引擎">
@@ -217,10 +216,17 @@
 <!ENTITY pref_cookies_not_accept_foreign "啟用，第三方 Cookie 除外">
 <!ENTITY pref_cookies_disabled "停用">
 
+<!ENTITY pref_tap_to_load_images_title "點擊以讀取圖片">
+<!ENTITY pref_tap_to_load_images_summary2 "只有在長按時才會讀取圖片。">
+
 <!ENTITY pref_tracking_protection_title "追蹤保護">
 <!ENTITY pref_tracking_protection_summary3 "在隱私瀏覽中打開">
 <!ENTITY pref_donottrack_title "Do not track">
 <!ENTITY pref_donottrack_summary "&brandShortName; 將會告訴網站您不想被追蹤">
+
+<!ENTITY pref_tracking_protection_enabled "啟用">
+<!ENTITY pref_tracking_protection_enabled_pb "在隱私瀏覽模式中使用">
+<!ENTITY pref_tracking_protection_disabled "停用">
 
 <!ENTITY tracking_protection_prompt_title "現在開始提供追蹤保護功能">
 <!ENTITY tracking_protection_prompt_text "主動封鎖網頁中的追蹤元素，這樣您就不用再擔心了。">
@@ -290,6 +296,7 @@ size. -->
 <!ENTITY pref_sync "同步">
 <!ENTITY pref_sync_summary2 "同步您的分頁、書籤、登入資訊、瀏覽紀錄">
 <!ENTITY pref_search_suggestions "顯示搜尋建議">
+<!ENTITY pref_history_search_suggestions "顯示搜尋紀錄">
 <!ENTITY pref_import_android "自 Android 匯入">
 <!ENTITY pref_import_android_summary "自內建瀏覽器匯入書籤與瀏覽紀錄">
 <!ENTITY pref_private_data_history2 "瀏覽歷史紀錄">
@@ -582,6 +589,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "安全連線">
 <!ENTITY identity_connection_insecure "不安全的連線">
+<!ENTITY identity_login_insecure "此頁面並不安全，您的登入資訊可能會有風險。">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; 已封鎖此頁面不安全的內容。">
@@ -694,6 +702,19 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY find_matchcase "Aa 字">
 
 <!ENTITY intent_uri_cannot_open "無法開啟鏈結">
+<!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
+     appear in an alert when a user, who is currently in private browsing,
+     clicks a link that will open an external Android application. "&formatS;"
+     will be replaced with the name of the application that will be opened. -->
+<!ENTITY intent_uri_private_browsing_prompt "此鏈結將在 &formatS; 開啟。您確定要離開隱私瀏覽模式嗎？">
+<!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
+     string will appear as the title of an alert when a user, who is currently
+     in private browsing, clicks a link that will open an external Android
+     application and more than one application is available to open that link.
+     We don't have control over the style of this dialog and it looks
+     unpolished when this string is longer than one line so ideally keep it
+     short! -->
+<!ENTITY intent_uri_private_browsing_multiple_match_title "要離開隱私瀏覽嗎？">
 
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
@@ -724,8 +745,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarks_addons "Firefox: 使用附加元件">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
 <!ENTITY bookmarks_support "Firefox: 技術支援">
-<!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
-<!ENTITY bookmarks_marketplace "Firefox Marketplace">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!ENTITY bookmarks_restricted_support2 "Android 平板上的受限設定檔的 Firefox 輔助說明與技術支援">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->

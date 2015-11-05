@@ -1,0 +1,10 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutDebugging.title                      "about:debugging">
+<!ENTITY aboutDebugging.addons                     "附加元件">
+<!ENTITY aboutDebugging.addonDebugging.label       "啟用附加元件除錯">
+<!ENTITY aboutDebugging.addonDebugging.tooltip     "開啟此功能將會幫附加元件及 chrome 瀏覽器其他部分除錯。">
+<!ENTITY aboutDebugging.workers                    "Workers">
+
