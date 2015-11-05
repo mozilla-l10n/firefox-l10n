@@ -22,9 +22,13 @@
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.nonE10SBuild): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a non-multiprocess build. -->
+
+<!ENTITY performanceUI.disabledRealTime.nonE10SBuild "Көппроцессті емес Firefox-та деректерді нақты уақытта жазу сөндірілген.">
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a build that can run multiprocess Firefox, but just is not enabled. -->
+
+<!ENTITY performanceUI.disabledRealTime.disabledE10S "Жазылатын деректерді нақты уақытта өңдеу үшін баптауларда көппроцессті Firefox-ты іске қосыңыз.">
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusFull): This string
   -  is displayed when the profiler's circular buffer has started to overlap. -->
 
@@ -53,12 +57,14 @@
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
 
+<!ENTITY performanceUI.toolbar.waterfall "Сарқырама">
+<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Браузер жазу кезіндегі орындайтын әр түрлі әрекеттерді сарқырама сияқты тізбектей орналастырылған түрде көрсетеді.">
 <!ENTITY performanceUI.toolbar.js-calltree "Шақырулар ағашы">
 <!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Жазып отыру кезінде браузер ең көп уақытты өткізген JavaScript функцияларын түспен ерекшелейді.">
 <!ENTITY performanceUI.toolbar.memory-calltree "Тағайындаулар">
 <!ENTITY performanceUI.toolbar.allocations.tooltiptext "Жазу кезінде жады қайда бөлінгенін көрсетеді.">
 
-
+<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Жазу болып жатқан уақытта JavaScript шақырулар стегін көрсетеді.">
 
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
@@ -72,15 +78,17 @@
 <!ENTITY performanceUI.table.selfPercentage           "Өздік құны">
 <!ENTITY performanceUI.table.selfPercentage.tooltip   "Тек бұл функцияның өзінде кеткен уақыттың пайыздық шамасы.">
 <!ENTITY performanceUI.table.samples                  "Үлгілер">
-
+<!ENTITY performanceUI.table.samples.tooltip          "Профильдеуші өлшемді алып жатқан кезде функция стекте қанша рет болды.">
 <!ENTITY performanceUI.table.function                 "Функция">
-
+<!ENTITY performanceUI.table.function.tooltip         "Өлшенген функцияның аты және бастапқы кодтарының орналасуы.">
 
 
 
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
+
+<!ENTITY performanceUI.options.filter.tooltiptext "Уақыт шкаласында қай деректер көрсетілетінін таңдаңыз">
 <!-- LOCALIZATION NOTE (performanceUI.options.gear.tooltiptext): This is the
   -  tooltip for the options button. -->
 
@@ -102,7 +110,7 @@
 <!-- LOCALIZATION NOTE (performanceUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
   -  functions in the profiler. -->
-
+<!ENTITY performanceUI.flattenTreeRecursion.tooltiptext "Функцияларды бақылау кезінде рекурсияны тегістеу.">
 <!-- LOCALIZATION NOTE (performanceUI.enableMemory): This string
   -  is displayed next to a checkbox determining whether or not memory
   -  measurements are enabled. -->
@@ -138,3 +146,5 @@
   -  Indicates how to stop the recording, wrapping the command, like
   -  "Stop recording by entering console.profileEnd("label") into the console." -->
 
+<!ENTITY performanceUI.console.stopCommandStart "Жазуды тоқтату үшін консольге">
+<!ENTITY performanceUI.console.stopCommandEnd   "енгізіңіз.">
