@@ -31,7 +31,7 @@
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteInner.label): This is the label shown
      in the inspector contextual-menu for the item that lets users paste inner
      HTML in the current node -->
-<!ENTITY inspectorHTMLPasteInner.label      "Cole o HTML">
+<!ENTITY inspectorHTMLPasteInner.label      "Colar HTML interno">
 <!ENTITY inspectorHTMLPasteInner.accesskey  "o">
 
 <!-- LOCALIZATION NOTE (inspectorHTMLPasteExtraSubmenu.label): This is the label
@@ -116,7 +116,7 @@
 <!-- LOCALIZATION NOTE (inspectorSearchHTML.label3): This is the label that will
      be shown as the placeholder in the future, once the inspector search box
      supports the full text HTML search in Bug 835896. -->
-<!ENTITY inspectorSearchHTML.label3 "Localizar HTML">
+<!ENTITY inspectorSearchHTML.label3 "Pesquisar HTML">
 
 <!-- LOCALIZATION NOTE (inspectorCopyImageDataUri.label): This is the label
      shown in the inspector contextual-menu for the item that lets users copy
