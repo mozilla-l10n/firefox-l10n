@@ -50,7 +50,7 @@
 <!ENTITY prefs.ppLink.label         "隱私權保護政策">
 
 <!-- Firefox Accounts stuff -->
-<!ENTITY fxaPrivacyNotice.link.label "隱私權保護政策">
+<!ENTITY fxaPrivacyNotice.link.label "隱私權公告">
 <!ENTITY determiningAcctStatus.label     "正在偵測您的帳號狀態…">
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,

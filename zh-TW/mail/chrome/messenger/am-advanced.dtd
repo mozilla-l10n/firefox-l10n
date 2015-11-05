@@ -19,6 +19,7 @@
 <!ENTITY smtpListSetDefault.label "設為預設值">
 <!ENTITY smtpListSetDefault.accesskey "t">
 
+<!ENTITY serverDetails.label "關於選擇的伺服器資訊：">
 <!ENTITY serverDescription.label "描述: ">
 <!ENTITY serverName.label "伺服器名稱:">
 <!ENTITY serverPort.label "Port: ">

@@ -13,7 +13,9 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "您不在隱私瀏覽模式中">
 
-<!ENTITY privatebrowsingpage.description.private4 "&brandShortName; 將防止您被追蹤，不會記住任何瀏覽紀錄，但還是會在裝置中留下下載的檔案與新建立的書籤。">
+<!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; 會封鎖頁面中可能會追蹤您的瀏覽行為的部分。">
+<!ENTITY privatebrowsingpage.description.privateDetails "我們不會記住任何瀏覽紀錄，但下載的檔案與新建立的書籤還是會保留在裝置中。">
+
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
