@@ -222,6 +222,7 @@
 <!ENTITY fxaccount_status_linktos 'Podmienky používania služby'>
 <!ENTITY fxaccount_status_linkprivacy 'Zásady ochrany súkromia'>
 <!ENTITY fxaccount_status_more 'Ďalšie&ellipsis;'>
+<!ENTITY fxaccount_remove_account 'Odpojiť&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title 'Odstrániť účet Firefox Account?'>
 <!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; sa už nebude synchronizovať s vašim účtom, ale neodstráni žiadne údaje o prehliadaní uložené v tomto zariadení.'>
@@ -229,7 +230,6 @@
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast 'Účet Firefox Account pre &formatS; bol odstránený.'>
 
-<!ENTITY fxaccount_remove_account_menu_item 'Odstrániť účet'>
 <!ENTITY fxaccount_enable_debug_mode 'Zapnúť režim ladenia'>
 
 <!-- Localization note: this is the name shown by the Android system
