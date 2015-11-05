@@ -11,14 +11,15 @@
 <!ENTITY  onboard_start_subtext3 "สัมผัสประสบการณ์การท่องเว็บที่คุณเป็นเจ้าของอย่างแท้จริง">
 <!ENTITY  onboard_start_button_account "ลงชื่อเข้าใช้เพื่อใช้งาน &brandShortName;">
 <!ENTITY  onboard_start_button_browser "เริ่มต้นเข้าเว็บกันเลย">
+<!ENTITY firstrun_button_next "ถัดไป">
 
 
-
+<!ENTITY firstrun_import_title "นำเข้า">
 <!ENTITY firstrun_import_message "ยินดีต้อนรับสู่ &brandShortName;">
 <!ENTITY firstrun_import_subtext "นำเข้าที่คั่นหน้าและประวัติของคุณจากเบราว์เซอร์อื่น">
-
-
-
+<!ENTITY firstrun_import_action "ถ่ายโอนไปยัง &brandShortName;">
+<!ENTITY firstrun_import_dialog_button "ถ่ายโอน">
+<!ENTITY firstrun_import_progress_title "กำลังถ่ายโอน">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
@@ -154,7 +155,7 @@
 <!ENTITY pref_category_vendor "&vendorShortName;">
 <!ENTITY pref_category_vendor_summary "เกี่ยวกับ &brandShortName; FAQs ตัวเลือกข้อมูล">
 <!ENTITY pref_category_datareporting "ตัวเลือกข้อมูล">
-<!ENTITY pref_learn_more "เรียนรู้เพิ่ม">
+<!ENTITY pref_learn_more "เรียนรู้เพิ่มเติม">
 <!ENTITY pref_category_installed_search_engines "เครื่องมือค้นหาที่ติดตั้งไว้">
 <!ENTITY pref_category_add_search_providers "เพิ่มเครื่องมือค้นหา">
 <!ENTITY pref_category_search_restore_defaults "เรียกคืนเครื่องมือค้นหา">
@@ -194,7 +195,7 @@
 <!ENTITY pref_home_suggested_sites_summary "แสดงทางลัดไปยังไซต์บนโฮมเพจของคุณที่เราคาดว่าคุณน่าจะพบสิ่งที่น่าสนใจ">
 
 
-
+<!ENTITY home_homepage_use_current_tab "ใช้แท็บปัจจุบัน">
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_customize "ปรับแต่ง">
@@ -210,6 +211,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "เปิดใช้งาน ยกเว้นจากเว็บที่ไม่ได้กำลังเปิด">
 <!ENTITY pref_cookies_disabled "ปิดใช้งาน">
 
+<!ENTITY pref_tap_to_load_images_title "แตะเพื่อโหลดภาพ">
 
 
 
@@ -221,7 +223,7 @@
 
 
 
-
+<!ENTITY tracking_protection_prompt_action_button "เข้าใจแล้ว!">
 
 <!ENTITY tab_queue_toast_action "เปิดทันที">
 <!ENTITY tab_queue_prompt_title "เปิดหลายลิงก์?">
@@ -285,7 +287,7 @@ size. -->
 <!ENTITY pref_sync "Sync">
 
 <!ENTITY pref_search_suggestions "แสดงคำค้นหาแนะนำ">
-
+<!ENTITY pref_history_search_suggestions "แสดงประวัติการค้นหา">
 <!ENTITY pref_import_android "นำเข้าจากแอนดรอยด์">
 <!ENTITY pref_import_android_summary "นำเข้าที่คั่นหน้าและประวัติจากเว็บเบราว์เซอร์ในเครื่อง">
 <!ENTITY pref_private_data_history2 "ประวัติการท่องเว็บ">
@@ -362,7 +364,7 @@ size. -->
 <!ENTITY share_title "แบ่งปันโดย">
 <!ENTITY share_image_failed "ไม่สามารถแบ่งปันรูปภาพนี้ได้">
 <!ENTITY save_as_pdf "บันทึกเป็น PDF">
-
+<!ENTITY print "พิมพ์">
 <!ENTITY find_in_page "ค้นหาในหน้านี้">
 <!ENTITY desktop_mode "เรียกเว็บสำหรับเดสก์ท็อป">
 <!ENTITY page "หน้า">
@@ -382,7 +384,7 @@ size. -->
 
 <!ENTITY find_text "ค้นหาในหน้านี้">
 <!ENTITY find_prev "ก่อนหน้า">
-
+<!ENTITY find_next "ถัดไป">
 <!ENTITY find_close "ปิด">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -407,8 +409,8 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "ตรึงเว็บ">
 <!ENTITY contextmenu_top_sites_unpin "เลิกตรึงเว็บ">
 <!ENTITY contextmenu_add_search_engine "เพิ่มเครื่องมือค้นหา">
-
-
+<!ENTITY contextmenu_mark_read "ทำเครื่องหมายเป็นอ่านแล้ว">
+<!ENTITY contextmenu_mark_unread "ทำเครื่องหมายเป็นยังไม่ได้อ่าน">
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
@@ -419,11 +421,11 @@ size. -->
 <!ENTITY doorhanger_login_edit_password_hint "รหัสผ่าน">
 <!ENTITY doorhanger_login_edit_toggle "แสดงรหัสผ่าน">
 <!ENTITY doorhanger_login_edit_toast_error "บันทึกการเข้าระบบไม่ได้">
+<!ENTITY doorhanger_login_select_message "คัดลอกรหัสผ่านจาก &formatS;?">
 
 
 
-
-
+<!ENTITY doorhanger_login_select_title "คัดลอกรหัสผ่านจาก">
 
 <!ENTITY pref_titlebar_mode "แถบหัวเรื่อง">
 <!ENTITY pref_titlebar_mode_title "แสดงหัวเรื่องเว็บ">
@@ -458,6 +460,8 @@ size. -->
 <!ENTITY site_settings_no_settings  "ไม่มีการตั้งค่าให้ล้าง">
 <!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
+
+<!ENTITY reading_list_added3 "เพิ่มไปยังรายการอ่านแล้ว">
 <!ENTITY reading_list_removed "ลบหน้าเว็บออกจากรายการอ่านของคุณแล้ว">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
@@ -585,7 +589,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 
-<!ENTITY learn_more "เรียนรู้เพิ่ม">
+<!ENTITY learn_more "เรียนรู้เพิ่มเติม">
 <!ENTITY enable_protection "เปิดการปกป้อง">
 <!ENTITY disable_protection "ปิดการป้องกัน">
 <!ENTITY keep_blocking "ปิดกั้นต่อไป">
@@ -593,6 +597,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "ข้อมูลส่วนตัวถูกล้างแล้ว">
 <!ENTITY private_data_fail "ไม่สามารถล้างข้อมูลส่วนตัวบางอย่างได้">
 
+<!ENTITY bookmarkhistory_button_import "นำเข้า">
 <!ENTITY bookmarkhistory_import_both "นำเข้าที่คั่นหน้าและประวัติการท่องเว็บ 
 จาก Android">
 <!ENTITY bookmarkhistory_import_bookmarks "นำเข้าที่คั่นหน้า 
