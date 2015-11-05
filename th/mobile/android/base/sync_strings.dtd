@@ -163,7 +163,7 @@
 
 <!ENTITY fxaccount_account_create_not_allowed "ไม่สามารถสร้างบัญชีผู้ใช้">
 <!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "คุณต้องมีอายุตามที่กำหนดไว้ จึงจะสามารถสร้างบัญชีผู้ใช้ได้">
-<!ENTITY fxaccount_account_create_not_allowed_learn_more "เรียนรู้เพิ่ม">
+<!ENTITY fxaccount_account_create_not_allowed_learn_more "เรียนรู้เพิ่มเติม">
 
 <!ENTITY fxaccount_confirm_account_header "ยืนยันบัญชีของคุณ">
 <!-- Localization note: &formatS; is the Firefox Account's email address. -->
