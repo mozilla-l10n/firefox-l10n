@@ -37,13 +37,13 @@
 <!ENTITY engine.addons.accesskey    "E">
 <!-- Device Settings -->
 
-<!ENTITY syncDeviceName.label       "Aygıt adı:">
-<!ENTITY syncDeviceName.accesskey   "A">
-<!ENTITY fxaSyncDeviceName.label       "Aygıt adı">
-<!ENTITY changeSyncDeviceName.label "Aygıt adını değiştir…">
+<!ENTITY syncDeviceName.label       "Cihaz adı:">
+<!ENTITY syncDeviceName.accesskey   "C">
+<!ENTITY fxaSyncDeviceName.label       "Cihaz adı">
+<!ENTITY changeSyncDeviceName.label "Cihaz adını değiştir…">
 <!ENTITY cancelChangeSyncDeviceName.label "Vazgeç">
 <!ENTITY saveChangeSyncDeviceName.label "Kaydet">
-<!ENTITY unlinkDevice.label           "Bu aygıtın bağlantısını kes">
+<!ENTITY unlinkDevice.label           "Bu cihazın bağlantısını kes">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "Kullanım Koşulları">
