@@ -223,7 +223,7 @@
 <!ENTITY fxaccount_status_linktos "Ծառայության պայմանները">
 <!ENTITY fxaccount_status_linkprivacy "Գաղտնիության Դրույթները">
 <!ENTITY fxaccount_status_more "Ավելին&ellipsis;">
-
+<!ENTITY fxaccount_remove_account "Անջատել&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "Ջնջե՞լ Firefox-ի հաշիվը:">
 <!ENTITY fxaccount_remove_account_dialog_message "&brandShortName;-ը այլևս համաժամեցում չի կատարի, որևէ տվյալ չի ջնջի:">
