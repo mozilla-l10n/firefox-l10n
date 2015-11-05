@@ -7,7 +7,7 @@
 <!ENTITY  error_loading_file "Pri načítavaní súborov potrebných na spustenie prehliadača &brandShortName; sa vyskytla chyba.">
 
 <!ENTITY firstrun_panel_title_welcome "Vitajte">
-<!ENTITY  onboard_start_message3 "Prehliadate pomocou prehladača &brandShortName;">
+<!ENTITY  onboard_start_message3 "Prehliadate pomocou prehliadača &brandShortName;">
 <!ENTITY  onboard_start_subtext3 "Zážitok z mobilného prehliadania webu presne taký, ako ho chcete.">
 <!ENTITY  onboard_start_button_account "Prihlásiť sa k &brandShortName;u">
 <!ENTITY  onboard_start_button_browser "Začať prehliadať">
