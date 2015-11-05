@@ -921,15 +921,6 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY panicButton.thankyou.msg2                "Bonne navigation !">
 <!ENTITY panicButton.thankyou.buttonlabel         "Fermer">
 
-<!ENTITY processHang.terminateScript.label        "Arrêter le script">
-<!ENTITY processHang.terminateScript.accessKey    "A">
-<!ENTITY processHang.debugScript.label            "Déboguer le script">
-<!ENTITY processHang.debugScript.accessKey        "D">
-<!ENTITY processHang.terminatePlugin.label        "Tuer le plugin">
-<!ENTITY processHang.terminatePlugin.accessKey    "p">
-<!ENTITY processHang.terminateProcess.label       "Tuer le processus web">
-<!ENTITY processHang.terminateProcess.accessKey   "T">
-
 <!ENTITY emeLearnMoreContextMenu.label            "En savoir plus sur les DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
