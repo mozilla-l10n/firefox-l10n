@@ -35,6 +35,11 @@
 <!ENTITY performanceUI.bufferStatusFull "El buffer está lleno. Las muestras más antiguas ahora están siendo sobreescritas.">
 
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
+  -  in the details view while the profiler is unavailable, for example, while
+  -  in Private Browsing mode. -->
+<!ENTITY performanceUI.unavailableNoticePB "Actualmente no está disponible la grabación de un perfil. Cierre todas las ventanas de navegación privada e intente nuevamente.">
+
+<!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the call list view while loading a profile. -->
 <!ENTITY performanceUI.loadingNotice "Cargando…">
 

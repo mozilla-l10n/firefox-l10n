@@ -1,7 +1,3 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
 <!ENTITY smtpServer.label "Configuración del servidor saliente (SMTP)">
 <!-- LOCALIZATION NOTE (smtpDescription.label): do not translate "SMTP" in below line -->
@@ -16,6 +12,7 @@
 <!ENTITY smtpListSetDefault.label "Predeterminado">
 <!ENTITY smtpListSetDefault.accesskey "t">
 
+<!ENTITY serverDetails.label "Detalles del servidor seleccionado:">
 <!ENTITY serverDescription.label "Descripción: ">
 <!ENTITY serverName.label "Servidor: ">
 <!ENTITY serverPort.label "Puerto: ">
