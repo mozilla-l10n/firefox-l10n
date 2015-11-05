@@ -6,7 +6,7 @@
 <!ENTITY header2.label "Si desidera creare un nuovo indirizzo di posta?">
 <!ENTITY other.languages "Verranno visualizzati solamente operatori che forniscono indirizzi nella zona geografica dell’utente. Fare clic qui per visualizzare l’elenco degli operatori.">
 <!ENTITY error.line1 "Siamo spiacenti, non riusciamo a suggerire alcun indirizzo di posta elettronica.">
-<!ENTITY error.line2 "È possibile cercare soprannomi o altri termini per trovare indirizzi di posta diversi">
+<!ENTITY error.line2 "È possibile cercare soprannomi o altri termini per trovare indirizzi di posta diversi.">
 <!ENTITY error.suggest.before "È anche possibile trovare una delle ">
 <!ENTITY error.suggest.middle "email gratuite alternative">
 <!ENTITY error.suggest.after ".">

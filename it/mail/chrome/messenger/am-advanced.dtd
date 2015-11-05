@@ -12,6 +12,7 @@
 <!ENTITY smtpListDelete.accesskey "n">
 <!ENTITY smtpListSetDefault.label "Imposta predefinito">
 <!ENTITY smtpListSetDefault.accesskey "t">
+<!ENTITY serverDetails.label "Dettagli del server selezionato:">
 <!ENTITY serverDescription.label "Descrizione: ">
 <!ENTITY serverName.label "Nome server: ">
 <!ENTITY serverPort.label "Porta: ">
