@@ -137,8 +137,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "Kapatma parantezlerini otomatik ekle">
 <!ENTITY prefs_options_keybindings "Tuş kısayolları">
 <!ENTITY prefs_options_keybindings_default "Varsayılan">
-
-
+<!ENTITY prefs_options_autosavefiles "Dosyaları otomatik kaydet">
+<!ENTITY prefs_options_autosavefiles_tooltip "Düzenlenen dosyaları projeyi çalıştırmadan önce kendiliğinden kaydeder">
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "İzin tablosu">

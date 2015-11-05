@@ -189,29 +189,31 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Yazdır">
 <!ENTITY printButton.tooltip          "Bu sayfayı yazdır">
 
+<!ENTITY urlbar.viewSiteInfo.label                      "Site bilgilerini göster">
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
+<!ENTITY urlbar.geolocationNotificationAnchor.label     "Konum isteğini göster">
+
+
+
+<!ENTITY urlbar.passwordNotificationAnchor.label        "Parolanızı kaydetmek isterseniz işaretleyin">
+
+
+<!ENTITY urlbar.webNotsNotificationAnchor.label         "Sitenin size bildirim gösterip gösteremeyeceğini değiştirin">
+
+
+
+<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Siteyle mikrofonunuzu paylaşıyorsunuz">
 
 
 
 
 
+<!ENTITY urlbar.translatedNotificationAnchor.label      "Sayfa çevirisini yönet">
+<!ENTITY urlbar.emeNotificationAnchor.label             "DRM yazılımı kullanımını yönet">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY urlbar.openHistoryPopup.tooltip                "Geçmişi göster">
 
 <!ENTITY searchItem.title             "Ara">
 <!-- Toolbar items --> 
@@ -333,14 +335,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "D">
 
 
-
-
-
-
-
-
-
-
+<!ENTITY userContextPersonal.label        "Kişisel">
+<!ENTITY userContextPersonal.accesskey    "K">
+<!ENTITY userContextWork.label            "İş">
+<!ENTITY userContextWork.accesskey        "İ">
+<!ENTITY userContextBanking.label         "Bankacılık">
+<!ENTITY userContextBanking.accesskey     "B">
+<!ENTITY userContextShopping.label        "Alışveriş">
+<!ENTITY userContextShopping.accesskey    "A">
 <!ENTITY newNavigatorCmd.label        "Yeni pencere">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "Y">

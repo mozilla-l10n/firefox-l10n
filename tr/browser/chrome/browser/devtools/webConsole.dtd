@@ -103,5 +103,5 @@
 <!ENTITY clearOutputCtrl.key  "T">
 <!ENTITY openInVarViewCmd.label "Değişken görünümünde aç">
 <!ENTITY openInVarViewCmd.accesskey "D">
-
-
+<!ENTITY storeAsGlobalVar.label "Global değişken olarak depola">
+<!ENTITY storeAsGlobalVar.accesskey "G">
