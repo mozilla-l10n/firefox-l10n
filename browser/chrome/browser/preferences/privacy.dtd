@@ -13,8 +13,8 @@
 <!ENTITY trackingProtectionPBM5.label         "Gebruik volgbeskerming in private vensters">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Meer inligting">
-
-
+<!ENTITY changeBlockList.label          "Verander bloklys">
+<!ENTITY changeBlockList.accesskey      "V">
 
 <!ENTITY  history.label                 "Geskiedenis">
 
