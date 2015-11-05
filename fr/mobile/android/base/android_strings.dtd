@@ -102,11 +102,8 @@
 
 <!ENTITY settings "Paramètres">
 <!ENTITY settings_title "Paramètres">
-<!ENTITY pref_category_input_options "Options de saisie">
-<!ENTITY pref_category_advanced "Avancé">
-<!ENTITY pref_category_customize "Personnalisation">
-<!ENTITY pref_category_customize_summary "Accueil, recherche, onglets, importation">
-<!ENTITY pref_category_customize_alt_summary "Accueil, recherche, onglets, ouverture différée, importation">
+<!ENTITY pref_category_general "Général">
+<!ENTITY pref_category_general_summary "Accueil, langue, zoom, navigation plein écran">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -154,8 +151,8 @@
 
 <!ENTITY pref_category_search3 "Recherche">
 <!ENTITY pref_category_search_summary "Personnaliser les moteurs de recherche">
-<!ENTITY pref_category_display "Affichage">
-<!ENTITY pref_category_display_summary "Texte, barre de titre, navigation plein écran">
+<!ENTITY pref_category_accessibility "Accessibilité">
+<!ENTITY pref_category_accessibility_summary "Taille du texte, saisie vocale">
 <!ENTITY pref_category_privacy_short "Vie privée">
 <!ENTITY pref_category_privacy_summary2 "Contrôler identifiants, cookies, pistage, données">
 <!ENTITY pref_category_vendor "&vendorShortName;">
@@ -173,12 +170,12 @@
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
 <!ENTITY pref_search_hint "ASTUCE : Ajoutez n\u0027importe quel site à votre liste de moteurs de recherche en effectuant un appui long sur leur champ de recherche puis en appuyant sur l\u0027icône &formatI;.">
-<!ENTITY pref_category_devtools "Outils de développement">
+<!ENTITY pref_category_advanced "Avancé">
+<!ENTITY pref_category_advanced_summary "Importation, plugins, outils de développement">
 <!ENTITY pref_developer_remotedebugging "Débogage distant">
 <!ENTITY pref_developer_remotedebugging_usb "Débogage distant par USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Débogage distant par Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Le débogage par Wi-Fi nécessite que votre appareil dispose d\u0027une application permettant de lire les QR codes.">
-<!ENTITY pref_category_logins "Identifiants">
 <!ENTITY pref_remember_signons2 "Enreg. les identifiants">
 <!ENTITY pref_open_external_urls_privately_title "Ouvrir les liens en nav. privée">
 <!ENTITY pref_open_external_urls_privately_summary "Utiliser la navigation privée pour tous les liens externes ouverts avec &brandShortName;">
@@ -204,13 +201,13 @@
 <!ENTITY home_homepage_use_current_tab "Utiliser l\u0027onglet actuel">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
-<!ENTITY pref_header_customize "Personnalisation">
-<!ENTITY pref_header_display "Affichage">
+<!ENTITY pref_header_general "Général">
+<!ENTITY pref_header_search "Recherche">
 <!ENTITY pref_header_privacy_short "Vie privée">
+<!ENTITY pref_header_accessibility "Accessibilité">
+<!ENTITY pref_header_advanced "Avancé">
 <!ENTITY pref_header_help "Aide">
-<!ENTITY pref_header_language "Langue">
 <!ENTITY pref_header_vendor "&vendorShortName;">
-<!ENTITY pref_header_devtools "Outils de développement">
 
 <!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Autorisés">
@@ -254,8 +251,7 @@
 <!ENTITY pref_char_encoding "Encodage du texte">
 <!ENTITY pref_char_encoding_on "Afficher le menu">
 <!ENTITY pref_char_encoding_off "Masquer le menu">
-<!ENTITY pref_clear_private_data2 "Effacer maintenant">
-<!ENTITY pref_clear_private_data_category "Effacer mes traces">
+<!ENTITY pref_clear_private_data_now "Effacer mes traces maintenant">
 <!ENTITY pref_clear_on_exit_title2 "Effacer à la fermeture">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; effacera automatiquement vos données lorsque vous sélectionnerez « Quitter » depuis le menu principal">
 <!ENTITY pref_clear_on_exit_dialog_title "Sélectionner les données à effacer">
