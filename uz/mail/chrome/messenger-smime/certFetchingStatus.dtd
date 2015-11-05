@@ -4,3 +4,6 @@
 <!--LOCALIZATION NOTE shown while obtaining certificates from a directory -->
 
 
+<!ENTITY title.label "Sertifikatlar yuklab olinmoqda">
+<!ENTITY info.message "Qabul qiluvchilarning sertifikatlari uchun direktoriyadan qidirilmoqda. Bu biroz vaqt olishi mumkin.">
+<!ENTITY stop.label "Izlashni to‘xtatish">
