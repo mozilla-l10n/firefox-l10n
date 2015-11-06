@@ -159,7 +159,6 @@
 <!ENTITY pref_header_accessibility "Dostępność">
 <!ENTITY pref_header_advanced "Zaawansowane">
 <!ENTITY pref_header_help "Pomoc">
-<!ENTITY pref_header_language "Język">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 
 <!ENTITY pref_cookies_menu "Ciasteczka">
