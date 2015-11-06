@@ -154,6 +154,7 @@
 <!ENTITY home_homepage_use_current_tab "Użyj bieżącej karty">
 
 <!ENTITY pref_header_general "Ogólne">
+<!ENTITY pref_header_search "Wyszukiwanie">
 <!ENTITY pref_header_display "Wyświetlanie">
 <!ENTITY pref_header_privacy_short "Prywatność">
 <!ENTITY pref_header_help "Pomoc">
