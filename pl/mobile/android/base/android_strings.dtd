@@ -197,8 +197,7 @@
 <!ENTITY pref_char_encoding "Kodowanie znaków">
 <!ENTITY pref_char_encoding_on "Pokazuj">
 <!ENTITY pref_char_encoding_off "Nie pokazuj">
-<!ENTITY pref_clear_private_data2 "Wyczyść teraz">
-<!ENTITY pref_clear_private_data_category "Wyczyść prywatne dane">
+<!ENTITY pref_clear_private_data_now "Wyczyść prywatne dane">
 <!ENTITY pref_clear_on_exit_title2 "Czyść przy wyłączaniu">
 <!ENTITY pref_clear_on_exit_summary2 "Przeglądarka &brandShortName; zawsze będzie czyściła prywatne dane po wybraniu opcji \u201eZakończ\u201d z głównego menu">
 <!ENTITY pref_clear_on_exit_dialog_title "Wybierz dane, które chcesz czyścić">
