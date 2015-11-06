@@ -83,7 +83,7 @@
 <!ENTITY performanceUI.table.function.tooltip         "Өлшенген функцияның аты және бастапқы кодтарының орналасуы.">
 <!ENTITY performanceUI.table.totalAlloc               "Жалпы өлшенген бөлінулер">
 
-
+<!ENTITY performanceUI.table.selfAlloc                "Өздік өлшенген бөлінулер">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
