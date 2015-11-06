@@ -54,7 +54,7 @@
 
 <!ENTITY bookmark "Էջանիշ">
 <!ENTITY bookmark_remove "Հեռացնել էջանիշը">
-<!ENTITY bookmark_added "Էջանիշը ավելացվել է">
+<!ENTITY bookmark_added "Էջանիշը ավելացվեց">
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
@@ -191,7 +191,7 @@
 <!-- Localization note (home_add_panel_installed):
      The &formatS; will be replaced with the name of the new panel the user just
      selected to be added to the home page. -->
-<!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 ավելացվել է Գլխավոր էջում">
+<!ENTITY home_add_panel_installed "\u0027&formatS;\u0027 ավելացվեց Գլխավոր էջում">
 <!ENTITY pref_category_home_content_settings "Բովանդակություն">
 <!ENTITY pref_home_updates "Ինքնաշխատ թարմացումներ">
 <!ENTITY pref_home_updates_enabled "Միացնել">
@@ -472,7 +472,7 @@ size. -->
 <!-- Localization note (reading_list_added3) : Used in a toast, please keep as short
      as possible. -->
 
-<!ENTITY reading_list_added3 "Ավելացված է Ընթերցացուցակում">
+<!ENTITY reading_list_added3 "Ավելացվեց Ընթերցացուցակում">
 <!ENTITY reading_list_removed "Էջը հեռացվել է Ընթերցացուցակից">
 <!-- Localization note (reading_list_remove) : Used to remove the currently open page from
      the user's reading list. The opposite of overlay_share_reading_list_btn_label. -->
