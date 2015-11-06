@@ -30,7 +30,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.experimentActive "Virkur">
 <!ENTITY aboutSupport.experimentEndDate "Lokadagsetning">
 <!ENTITY aboutSupport.experimentHomepage "Heimasíða">
-
+<!ENTITY aboutSupport.experimentBranch "Grein">
 
 <!ENTITY aboutSupport.appBasicsTitle "Grunnupplýsingar forrits">
 <!ENTITY aboutSupport.appBasicsName "Nafn">
