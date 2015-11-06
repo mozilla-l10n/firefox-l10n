@@ -546,3 +546,5 @@
 <!ENTITY bookmarks_support "Firefox: Pomoc">
 <!ENTITY bookmarks_restricted_support2 "Firefox: Pomoc dla ograniczonych profili na tabletach Android">
 <!ENTITY bookmarks_restricted_webmaker "Twórz Internet: Mozilla Webmaker">
+
+<!ENTITY unsupported_sdk_version "Ta wersja programu &brandShortName; nie może działać na tym urządzeniu (&formatS1;, &formatS2;). Prosimy pobrać właściwą wersję.">
