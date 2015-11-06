@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "Eccezioni">
-<!ENTITY window.width "36em">
+<!ENTITY window.width "50em">
 <!ENTITY treehead.sitename.label "Sito">
 <!ENTITY treehead.status.label "Stato">
 <!ENTITY removepermission.label "Rimuovi sito">
@@ -19,5 +19,7 @@
 <!ENTITY allow.label "Permetti">
 <!ENTITY allow.accesskey "P">
 <!ENTITY windowClose.key "w">
-<!ENTITY button.close.label "Chiudi">
-<!ENTITY button.close.accesskey "C">
+<!ENTITY button.cancel.label "Annulla">
+<!ENTITY button.cancel.accesskey "A">
+<!ENTITY button.ok.label "Salva le modifiche">
+<!ENTITY button.ok.accesskey "S">
