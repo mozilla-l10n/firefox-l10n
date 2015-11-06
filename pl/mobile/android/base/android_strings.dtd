@@ -85,7 +85,6 @@
 <!ENTITY settings "Ustawienia">
 <!ENTITY settings_title "Ustawienia">
 <!ENTITY pref_category_input_options "Opcje wprowadzania">
-<!ENTITY pref_category_advanced "Zaawansowane">
 <!ENTITY pref_category_general "Ogólne">
 <!ENTITY pref_category_general_summary "Strona domowa, język, powiększanie, pełny ekran">
 
@@ -125,7 +124,8 @@
 <!ENTITY pref_search_restore_defaults "Przywróć domyślne">
 <!ENTITY pref_search_restore_defaults_summary "Przywróć domyślne">
 <!ENTITY pref_search_hint "RADA: Możesz dodać każdą witrynę do swojej listy wyszukiwarek, przytrzymując na niej pole wyszukiwania, a następnie stukając ikonę &formatI;.">
-<!ENTITY pref_category_devtools "Narzędzia dla programistów">
+<!ENTITY pref_category_advanced "Zaawansowane">
+<!ENTITY pref_category_advanced_summary "Importowanie, wtyczki, narzędzia dla programistów">
 <!ENTITY pref_developer_remotedebugging "Zdalne debugowanie">
 <!ENTITY pref_developer_remotedebugging_usb "Zdalne debugowanie przez USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Zdalne debugowanie przez Wi-Fi">
@@ -157,10 +157,10 @@
 <!ENTITY pref_header_search "Wyszukiwanie">
 <!ENTITY pref_header_privacy_short "Prywatność">
 <!ENTITY pref_header_accessibility "Dostępność">
+<!ENTITY pref_header_advanced "Zaawansowane">
 <!ENTITY pref_header_help "Pomoc">
 <!ENTITY pref_header_language "Język">
 <!ENTITY pref_header_vendor "&vendorShortName;">
-<!ENTITY pref_header_devtools "Narzędzia dla programistów">
 
 <!ENTITY pref_cookies_menu "Ciasteczka">
 <!ENTITY pref_cookies_accept_all "Akceptuj wszystkie">
