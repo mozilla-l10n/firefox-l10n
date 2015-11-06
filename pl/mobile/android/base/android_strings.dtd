@@ -86,9 +86,8 @@
 <!ENTITY settings_title "Ustawienia">
 <!ENTITY pref_category_input_options "Opcje wprowadzania">
 <!ENTITY pref_category_advanced "Zaawansowane">
-<!ENTITY pref_category_customize "Dostosuj">
-<!ENTITY pref_category_customize_summary "Strona domowa, wyszukiwanie, karty, importowanie">
-<!ENTITY pref_category_customize_alt_summary "Strona domowa, wyszukiwanie, karty, kolejkowanie kart, importowanie">
+<!ENTITY pref_category_general "Ogólne">
+<!ENTITY pref_category_general_summary "Strona domowa, język, powiększanie, pełny ekran">
 
 <!ENTITY pref_category_language "Język">
 <!ENTITY pref_category_language_summary "Zmień język przeglądarki">
@@ -154,7 +153,7 @@
 <!ENTITY home_homepage_title "Ustaw stronę domową">
 <!ENTITY home_homepage_use_current_tab "Użyj bieżącej karty">
 
-<!ENTITY pref_header_customize "Dostosuj">
+<!ENTITY pref_header_general "Ogólne">
 <!ENTITY pref_header_display "Wyświetlanie">
 <!ENTITY pref_header_privacy_short "Prywatność">
 <!ENTITY pref_header_help "Pomoc">
