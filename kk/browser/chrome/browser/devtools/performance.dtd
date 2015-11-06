@@ -63,9 +63,9 @@
 <!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Жазып отыру кезінде браузер ең көп уақытты өткізген JavaScript функцияларын түспен ерекшелейді.">
 <!ENTITY performanceUI.toolbar.memory-calltree "Тағайындаулар">
 <!ENTITY performanceUI.toolbar.allocations.tooltiptext "Жазу кезінде жады қайда бөлінгенін көрсетеді.">
-
+<!ENTITY performanceUI.toolbar.js-flamegraph "JS жұмыс көптігінің диаграммасы">
 <!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Жазу болып жатқан уақытта JavaScript шақырулар стегін көрсетеді.">
-
+<!ENTITY performanceUI.toolbar.memory-flamegraph "Бөлінулер жұмыс көптігінің диаграммасы">
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
@@ -101,6 +101,8 @@
 <!-- LOCALIZATION NOTE (performanceUI.invertFlameGraph): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
 
+<!ENTITY performanceUI.invertFlameGraph             "Жұмыс көптігінің диаграммасын терістеу">
+<!ENTITY performanceUI.invertFlameGraph.tooltiptext "Жұмыс көптігінің диаграммасын терістеу нәтижесінде профильденген шақырулар жолдарын ең жас фреймдерден басталып, ескілеу фреймдерге жалғасатын түрінде көрсетілетін болады.">
 <!-- LOCALIZATION NOTE (performanceUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
   -  is displayed in the profiler. -->
