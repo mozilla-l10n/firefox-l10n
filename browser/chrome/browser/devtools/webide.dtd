@@ -137,8 +137,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "Automātiski ievietot aizverošās iekavas">
 <!ENTITY prefs_options_keybindings "Piesaistītie taustiņi">
 <!ENTITY prefs_options_keybindings_default "Noklusētie">
-
-
+<!ENTITY prefs_options_autosavefiles "Automātiskās saglabāšanas faili">
+<!ENTITY prefs_options_autosavefiles_tooltip "Automātiski saglabā rediģējamos failus pirms projekta palaišanas">
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "Atļauju tabula">

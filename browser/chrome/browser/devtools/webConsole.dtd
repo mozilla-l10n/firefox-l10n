@@ -103,5 +103,5 @@
 <!ENTITY clearOutputCtrl.key  "L">
 <!ENTITY openInVarViewCmd.label "Atvērt mainīgo skatā">
 <!ENTITY openInVarViewCmd.accesskey "v">
-
-
+<!ENTITY storeAsGlobalVar.label "Saglabāt kā globālo mainīgo">
+<!ENTITY storeAsGlobalVar.accesskey "S">
