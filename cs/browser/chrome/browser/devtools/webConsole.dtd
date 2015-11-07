@@ -102,3 +102,5 @@
 <!ENTITY clearOutputCtrl.key  "L">
 <!ENTITY openInVarViewCmd.label "Otevřít v proměnném zobrazení">
 <!ENTITY openInVarViewCmd.accesskey "t">
+<!ENTITY storeAsGlobalVar.label "Uložit jako globální proměnnou">
+<!ENTITY storeAsGlobalVar.accesskey "g">
