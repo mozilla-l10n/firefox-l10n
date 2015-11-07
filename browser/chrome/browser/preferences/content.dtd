@@ -7,13 +7,14 @@
 <!ENTITY  blockPopups.label           "Cuir Cosc ar Phreabfhuinneoga">
 <!ENTITY  blockPopups.accesskey       "C">
 
-
-
-
-
-
-
-
+<!ENTITY  notificationsPolicy.label            "Fógraí">
+<!ENTITY  notificationsPolicyLearnMore.label   "Tuilleadh eolais">
+<!ENTITY  notificationsPolicyDesc3.label       "Roghnaigh na suímh a bhfuil cead acu fógraí a thaispeáint duit">
+<!ENTITY  notificationsPolicyButton.accesskey  "o">
+<!ENTITY  notificationsPolicyButton.label      "Roghnaigh…">
+<!ENTITY  notificationsDoNotDisturb.label      "Ná cuir isteach orm">
+<!ENTITY  notificationsDoNotDisturb.accesskey  "N">
+<!ENTITY  notificationsDoNotDisturbDetails.value "Ní thaispeánfar aon fhógra go dtí go n-atosóidh tú &brandShortName;">
 
 <!ENTITY  popupExceptions.label       "Eisceachtaí…">
 <!ENTITY  popupExceptions.accesskey   "E">
@@ -56,4 +57,4 @@
 
 <!ENTITY  playDRMContent.label         "Seinn ábhar DRM">
 <!ENTITY  playDRMContent.accesskey     "S">
-
+<!ENTITY  playDRMContent.learnMore.label "Tuilleadh eolais">

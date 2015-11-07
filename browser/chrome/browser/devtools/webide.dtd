@@ -137,8 +137,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "Cuir lúibíní deiridh isteach go huathoibríoch">
 <!ENTITY prefs_options_keybindings "Aicearraí Méarchláir">
 <!ENTITY prefs_options_keybindings_default "Réamhshocrú">
-
-
+<!ENTITY prefs_options_autosavefiles "Sábháil go huathoibríoch">
+<!ENTITY prefs_options_autosavefiles_tooltip "Sábháil comhaid athraithe go huathoibríoch sula gcuirfear an tionscadal ar siúl">
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "Ceadanna">

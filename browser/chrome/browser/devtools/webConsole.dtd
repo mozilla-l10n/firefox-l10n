@@ -103,5 +103,5 @@
 <!ENTITY clearOutputCtrl.key  "L">
 <!ENTITY openInVarViewCmd.label "Oscail san Amharc Athróg">
 <!ENTITY openInVarViewCmd.accesskey "A">
-
-
+<!ENTITY storeAsGlobalVar.label "Stóráil mar athróg dhomhanda">
+<!ENTITY storeAsGlobalVar.accesskey "S">
