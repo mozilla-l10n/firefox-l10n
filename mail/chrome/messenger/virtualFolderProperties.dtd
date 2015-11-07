@@ -12,7 +12,7 @@
 
 <!ENTITY folderSelectionCaption.label "Selectați dosarele în care se caută: ">
 <!ENTITY chooseFoldersButton.label "Alege…">
-<!ENTITY chooseFoldersButton.accesskey "A">
+<!ENTITY chooseFoldersButton.accesskey "h">
 
 <!ENTITY searchOnline.label "Caută online (rezultatele sunt obținute de pe server pentru dosare IMAP și Știri dar timpul de deschidere al dosarului crește)">
 <!ENTITY searchOnline.accesskey "o">

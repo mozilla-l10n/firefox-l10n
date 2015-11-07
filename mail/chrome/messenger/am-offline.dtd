@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY doNotDownloadPop3Movemail.label "Pentru a economisi spațiul pe disc, nu descărca:">
-<!ENTITY doNotDownloadNntp.label "Pentru a economisi spațiul pe disc, nu descărca pentru folosire offline:">
-<!ENTITY doNotDownloadImap.label "Pentru a câștiga spațiu pe disc, descărcarea mesajelor de pe server și păstrarea copiilor locale pentru folosire offline poate fi restricționată după vechime sau mărime.">
+<!ENTITY doNotDownloadNntp.label "Pentru a economisi spațiu pe disc, nu descărca pentru utilizare offline:">
+<!ENTITY doNotDownloadImap.label "Pentru a câștiga spațiu pe disc, descărcarea mesajelor de pe server și păstrarea copiilor locale pentru utilizare offline poate fi restricționată după vechime sau mărime.">
 <!ENTITY allFoldersOffline.label "Păstrează mesajele contului pe acest calculator">
 <!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY offlineNotDownload.label "Mesaje mai mari de">
@@ -33,7 +33,7 @@
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 <!ENTITY nntpRemoveMsgBody.label "Elimină corpul mesajelor mai mari de">
 <!ENTITY nntpRemoveMsgBody.accesskey "o">
-<!ENTITY offlineSelectNntp.label "Selectați grupurile de știri pentru folosire offline…">
+<!ENTITY offlineSelectNntp.label "Selectați grupurile de știri pentru utilizare offline…">
 <!ENTITY offlineSelectNntp.accesskey "S">
 <!ENTITY offlineImapAdvancedOffline.label "Avansat…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "A">

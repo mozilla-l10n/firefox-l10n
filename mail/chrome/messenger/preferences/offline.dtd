@@ -23,7 +23,7 @@
 <!ENTITY radioNotSend.accesskey "N">
 <!ENTITY radioAskUnsent.label "Întreabă-mă">
 <!ENTITY radioAskUnsent.accesskey "n">
-<!ENTITY textGoingOffline "Doriți să se descarce mesajele pentru folosire offline când alegeți să vă deconectați?">
+<!ENTITY textGoingOffline "Doriți să se descarce mesajele pentru utilizare offline când alegeți să vă deconectați?">
 <!ENTITY radioAutoDownload.label "Da">
 <!ENTITY radioAutoDownload.accesskey "D">
 <!ENTITY radioNotDownload.label "Nu">

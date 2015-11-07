@@ -39,7 +39,7 @@
 <!ENTITY folderCheckForNewMessages2.label         "La descărcarea mesajelor pentru acest cont, verifică întotdeauna dosarul acesta">
 <!ENTITY folderCheckForNewMessages2.accesskey     "c">
 
-<!ENTITY offlineFolder.check.label               "Selectează acest dosar pentru folosire offline">
+<!ENTITY offlineFolder.check.label               "Selectează acest dosar pentru utilizare offline">
 <!ENTITY offlineFolder.check.accesskey           "S">
 <!ENTITY offlineFolder.button.label              "Descarcă acum">
 <!ENTITY offlineFolder.button.accesskey          "D">
