@@ -6,7 +6,7 @@
 <!ENTITY header2.label "Cośo nowu e-mailowu adresu?">
 <!ENTITY other.languages "Pokazujomy jano póbitowarje, kótarež póbituju adrese we wašych śtronach. Klikniśo how, aby wšykne póbitowarje pokazał.">
 <!ENTITY error.line1 "Bóžko njejsmy mógli naraźone e-mailowe adrese namakaś.">
-
+<!ENTITY error.line2 "Móžośo teke za pśimjenjami abo hynakšim wurazom pytaś, aby dalšne e-mailowe adrese namakał.">
 <!-- LOCALIZATION NOTE(error.suggest.before, error.suggest.middle, error.suggest.after):
      error.suggest.before, error.suggest.middle, and error.suggest.after all go into
      one line with error.suggest.middle that links to a site which provides download
