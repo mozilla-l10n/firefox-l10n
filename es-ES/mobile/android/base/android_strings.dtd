@@ -69,11 +69,8 @@
 <!ENTITY tab_title_prefix_is_playing_audio "Reproduciendo audio – &formatS;">
 <!ENTITY settings "Configuración">
 <!ENTITY settings_title "Configuración">
-<!ENTITY pref_category_input_options "Opciones de entrada">
-<!ENTITY pref_category_advanced "Avanzado">
-<!ENTITY pref_category_customize "Personalizar">
-<!ENTITY pref_category_customize_summary "Inicio, búsqueda, pestañas, importar">
-<!ENTITY pref_category_customize_alt_summary "Inicio, búsqueda, pestañas, abrir más tarde, importar">
+<!ENTITY pref_category_general "General">
+<!ENTITY pref_category_general_summary "Inicio, idioma, tamaño, navegación en pant. completa">
 <!ENTITY pref_category_language "Idioma">
 <!ENTITY pref_category_language_summary "Cambiar el idioma de su navegador">
 <!ENTITY pref_browser_locale "Idioma del navegador">
@@ -91,8 +88,8 @@
 <!ENTITY menu_no_synced_devices "Enviar esta pestaña a otro dispositivo conectado">
 <!ENTITY pref_category_search3 "Buscar">
 <!ENTITY pref_category_search_summary "Personalizar sus buscadores">
-<!ENTITY pref_category_display "Visualización">
-<!ENTITY pref_category_display_summary "Texto, barra de título, navegación en pantalla completa">
+<!ENTITY pref_category_accessibility "Accesibilidad">
+<!ENTITY pref_category_accessibility_summary "Tamaño del texto, entrada por voz">
 <!ENTITY pref_category_privacy_short "Privacidad">
 <!ENTITY pref_category_privacy_summary2 "Controlar credenciales, cookies, rastreo, datos">
 <!ENTITY pref_category_vendor "&vendorShortName;">
@@ -105,12 +102,12 @@
 <!ENTITY pref_search_restore_defaults "Restaurar predeterminados">
 <!ENTITY pref_search_restore_defaults_summary "Restaurar predeterminados">
 <!ENTITY pref_search_hint "TRUCO: añada cualquier sitio web a su lista de buscadores con una pulsación larga en su campo de búsqueda y luego pulsando el icono &formatI;.">
-<!ENTITY pref_category_devtools "Herramientas de desarrolladores">
+<!ENTITY pref_category_advanced "Avanzado">
+<!ENTITY pref_category_advanced_summary "Importar, plugins, herr. desarrolladores">
 <!ENTITY pref_developer_remotedebugging "Depuración remota">
 <!ENTITY pref_developer_remotedebugging_usb "Depuración remota mediante USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Depuración remota mediante wifi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "La depuración wifi requiere que su dispositivo tenga una aplicación lectora de códigos QR instalada.">
-<!ENTITY pref_category_logins "Inicios de sesión">
 <!ENTITY pref_remember_signons2 "Recordar credenciales">
 <!ENTITY pref_open_external_urls_privately_title "Abrir enlaces en navegación privada">
 <!ENTITY pref_open_external_urls_privately_summary "Para todos los enlaces externos abiertos en &brandShortName;">
@@ -130,13 +127,13 @@
 <!ENTITY pref_category_home_homepage "Página de inicio">
 <!ENTITY home_homepage_title "Establecer una página de inicio">
 <!ENTITY home_homepage_use_current_tab "Usar la pestaña actual">
-<!ENTITY pref_header_customize "Personalizar">
-<!ENTITY pref_header_display "Visualización">
+<!ENTITY pref_header_general "General">
+<!ENTITY pref_header_search "Buscar">
 <!ENTITY pref_header_privacy_short "Privacidad">
+<!ENTITY pref_header_accessibility "Accesibilidad">
+<!ENTITY pref_header_advanced "Avanzado">
 <!ENTITY pref_header_help "Ayuda">
-<!ENTITY pref_header_language "Idioma">
 <!ENTITY pref_header_vendor "&vendorShortName;">
-<!ENTITY pref_header_devtools "Herramientas de desarrolladores">
 <!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Activadas">
 <!ENTITY pref_cookies_not_accept_foreign "Activadas, salvo las de terceras partes">
@@ -167,8 +164,7 @@
 <!ENTITY pref_char_encoding "Mostrar cod. de caract.">
 <!ENTITY pref_char_encoding_on "Mostrar el menú">
 <!ENTITY pref_char_encoding_off "No mostrar el menú">
-<!ENTITY pref_clear_private_data2 "Limpiar ahora">
-<!ENTITY pref_clear_private_data_category "Limpiar datos privados">
+<!ENTITY pref_clear_private_data_now "Limpiar datos privados ahora">
 <!ENTITY pref_clear_on_exit_title2 "Limpiar al salir">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; limpiará automáticamente sus datos cada vez que seleccione \u0022Salir\u0022 desde el menú principal">
 <!ENTITY pref_clear_on_exit_dialog_title "Seleccione qué datos quiere eliminar">
@@ -457,3 +453,4 @@
 <!ENTITY bookmarks_support "Ayuda de Firefox">
 <!ENTITY bookmarks_restricted_support2 "Ayuda y asistencia de Firefox para perfiles limitados en tabletas Android">
 <!ENTITY bookmarks_restricted_webmaker "Aprenda la web: Mozilla Webmaker">
+<!ENTITY unsupported_sdk_version "¡Lo sentimos! Este &brandShortName; no funcionará en este dispositivo (&formatS1;, &formatS2;). Descargue la versión correcta.">
