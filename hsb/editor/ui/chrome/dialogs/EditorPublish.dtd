@@ -51,8 +51,8 @@
 <!ENTITY siteUrl.label                "Wozjewjenska adresa (na př.: 'ftp://ftp.mójisp.de/mojewužiwarskemjeno'):">
 <!ENTITY siteUrl.accesskey            "W">
 <!ENTITY siteUrl.tooltip              "Adresa FTP:// abo HTTP:// přepodata wot wašeho ISP abo hosćaceje websłužby">
-<!ENTITY browseUrl.label              "HTTP-adresa wašeje startoweje strony (na př.: 'http://www.mójisp.com/mojewužiwarskemjeno'):">
-<!ENTITY browseUrl.accesskey          "P">
+<!ENTITY browseUrl.label              "HTTP-adresa wašeje startoweje strony (na př.: 'http://www.mójisp.de/mojewužiwarskemjeno'):">
+<!ENTITY browseUrl.accesskey          "T">
 <!ENTITY browseUrl.tooltip            "Adresa HTTP:// wašeho startoweho zapisa (njepodajće datajowe mjeno)">
 <!ENTITY username.label               "Wužiwarske mjeno:">
 <!ENTITY username.accesskey           "u">

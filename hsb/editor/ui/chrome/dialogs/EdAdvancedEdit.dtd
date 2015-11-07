@@ -5,7 +5,7 @@
 <!ENTITY WindowTitle.label              "Rozšěrjene nastajenja">
 <!ENTITY AttName.label                  "Atribut: ">
 <!ENTITY AttValue.label                 "Hódnota: ">
-<!ENTITY PropertyName.label             "Kajkosć: ">
+<!ENTITY PropertyName.label             "Kajkosć:">
 <!ENTITY currentattributesfor.label     "Aktuelne atributy za: ">
 <!ENTITY tree.attributeHeader.label     "Atribut">
 <!ENTITY tree.propertyHeader.label      "Kajkosć">
