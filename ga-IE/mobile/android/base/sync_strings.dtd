@@ -223,7 +223,7 @@
 <!ENTITY fxaccount_status_linktos "Téarmaí Seirbhíse">
 <!ENTITY fxaccount_status_linkprivacy "Fógra Príobháideachais">
 <!ENTITY fxaccount_status_more "Tuilleadh&ellipsis;">
-
+<!ENTITY fxaccount_remove_account "Dícheangail&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "Bain an Cuntas Firefox?">
 <!ENTITY fxaccount_remove_account_dialog_message "Stopfaidh &brandShortName; sioncrónú le do chuntas, ach ní scriosfaidh sé do chuid sonraí brabhsála ar an ngléas seo.">
