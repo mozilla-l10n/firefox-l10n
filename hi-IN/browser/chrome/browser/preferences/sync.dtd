@@ -90,9 +90,11 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin  "साइन इन">
 
 <!ENTITY signedIn.engines.label       "सभी डिवाइस को सिंक करें">
+<!-- LOCALIZATION NOTE (mobilePromo2.*): the following strings will be used to
+     create a single sentence with active links.
+     The resulting sentence in English is: "Sync to your mobile device.
+     Download Firefox for Android or Firefox for iOS." -->
+<!-- LOCALIZATION NOTE (mobilePromo2.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+<!-- LOCALIZATION NOTE (mobilePromo2.iOSBefore): This is text displayed between mobilePromo2.androidLink and mobilePromo2.iosLink -->
+<!-- LOCALIZATION NOTE (mobilePromo2.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
 
-<!ENTITY mobilePromo.start            "के लिए फ़ायरफ़ॉक्स डाउनलोड करें">
-<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
-<!ENTITY mobilePromo.androidLink      "एंड्राइड™">
-<!ENTITY mobilePromo.end              "अपने मोबाइल डिवाइस के साथ सिंक करने के लिए">
-<!ENTITY androidAttribution           "एंड्रॉयड Google Inc का व्यापार-चिह्न हैं.">
