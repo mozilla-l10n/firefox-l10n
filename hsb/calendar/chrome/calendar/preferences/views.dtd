@@ -27,7 +27,7 @@
 <!ENTITY pref.calendar.view.visiblehoursend.label "hodźin naraz">
 
 <!ENTITY pref.numberofweeks.label "Ličba tydźenjow, kotraž ma so pokazać (inkluziwnje předchadnych tydźenjow):">
-<!ENTITY pref.numberofweeks.accesskey "e">
+<!ENTITY pref.numberofweeks.accesskey "b">
 <!ENTITY pref.numberofpreviousweeks.label "Ličba předchadnych tydźenjow:">
 <!ENTITY pref.numberofpreviousweeks.accesskey "c">
 <!ENTITY pref.numberofweeks.0 "žadyn">
