@@ -7,7 +7,6 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
 <!ENTITY privateBrowsing.title                 "පෞද්ගලික ගවේෂණය">
-
 <!-- LOCALIZATION NOTE (aboutPrivateBrowsing.width1):
      Width of the Private Browsing section. This should depend primarily on the
      length of the headers and text, but should be roughly 1.5 times the width
@@ -17,13 +16,14 @@
 <!ENTITY aboutPrivateBrowsing.title            "ඔබ පුද්ගලිකව බ්‍රවුස් කරයි">
 
 <!ENTITY aboutPrivateBrowsing.info.history     "ඉතිහාසය">
+
 <!ENTITY aboutPrivateBrowsing.info.cookies     "කුකී">
+
 
 <!ENTITY aboutPrivateBrowsing.info.downloads   "බාගත කිරීම්">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Bookmarks">
 
 <!ENTITY aboutPrivateBrowsing.learnMore        "තවත් දැනගන්න">
-
 <!-- LOCALIZATION NOTE (trackingProtection.width1):
      Width of the Tracking Protection section. It is fine for the enabled or
      disabled indicator or the words in the title to wrap to the next line, but
@@ -36,5 +36,9 @@
 <!-- LOCALIZATION NOTE (trackingProtection.state.width):
      Width of the element representing the enabled or disabled indicator.
      -->
+
+
+
+
 
 
