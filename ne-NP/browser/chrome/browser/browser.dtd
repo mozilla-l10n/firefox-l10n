@@ -723,7 +723,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!-- Strings for connection state warnings in the subview. -->
-
+<!ENTITY identity.description.insecureLoginForms "तपाईं यो पृष्ठमा प्रविष्ट लगिन जानकारी सुरक्षित छैन र सम्झौता हुन सक्छ।">
 
 
 
