@@ -62,7 +62,7 @@
 <!ENTITY performanceUI.toolbar.js-calltree "Arbre de crides">
 <!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Ressalta les funcions JavaScript en les quals en el navegador ha dedicat més temps durant l'enregistrament.">
 <!ENTITY performanceUI.toolbar.memory-calltree "Assignacions">
-
+<!ENTITY performanceUI.toolbar.allocations.tooltiptext "Mostra on estava assignada la memòria durant l'enregistrament.">
 <!ENTITY performanceUI.toolbar.js-flamegraph "Gràfic de flama de JS">
 <!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Mostra la pila de la crida Javascript durant l'enregistrament.">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "Gràfic de flama d'assignacions">
@@ -70,15 +70,15 @@
   -  in the call tree headers for a recording. -->
 
 <!ENTITY performanceUI.table.totalDuration            "Temps total">
-
+<!ENTITY performanceUI.table.totalDuration.tooltip    "La quantitat de temps que s'ha dedicat a aquesta funció i a la funció que crida.">
 <!ENTITY performanceUI.table.selfDuration             "Temps propi">
-
+<!ENTITY performanceUI.table.selfDuration.tooltip     "La quantitat de temps que s'ha dedicat únicament dins d'aquesta funció.">
 <!ENTITY performanceUI.table.totalPercentage          "Cost total">
-
+<!ENTITY performanceUI.table.totalPercentage.tooltip  "El percentatge de temps que s'ha dedicat a aquesta funció i a la funció que crida.">
 <!ENTITY performanceUI.table.selfPercentage           "Cost propi">
-
+<!ENTITY performanceUI.table.selfPercentage.tooltip   "El percentatge de temps que s'ha dedicat únicament dins d'aquesta funció.">
 <!ENTITY performanceUI.table.samples                  "Mostres">
-
+<!ENTITY performanceUI.table.samples.tooltip          "El nombre de vegades que aquesta funció estava a la pila quan l'analitzador de rendiment ha pres una mostra.">
 <!ENTITY performanceUI.table.function                 "Funció">
 
 <!ENTITY performanceUI.table.totalAlloc               "Total d'assignacions mostrejades">
@@ -137,8 +137,8 @@
   -  is displayed next to a checkbox determining whether or not JIT optimization data
   -  should be recorded. -->
 
-<!ENTITY performanceUI.enableJITOptimizations             "Enregistra les optimitzacions del JIT">
-<!ENTITY performanceUI.enableJITOptimizations.tooltiptext "Enregistra les optimitzacions del JIT de cada fotograma capturat.">
+<!ENTITY performanceUI.enableJITOptimizations             "Enregistra les optimitzacions JIT">
+<!ENTITY performanceUI.enableJITOptimizations.tooltiptext "Enregistra les dades d'optimització JIT mostrejades en cada marc JavaScript">
 <!-- LOCALIZATION NOTE (performanceUI.JITOptimizationsTitle): This string
   -  is displayed as the title of the JIT Optimizations panel. -->
 
