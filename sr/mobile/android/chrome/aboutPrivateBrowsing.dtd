@@ -13,7 +13,9 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "Нисте у приватном прегледању">
 
-<!ENTITY privatebrowsingpage.description.private4 "Firefox ће спречити да будете праћени и неће памтити историју прегледања, али преузете датотеке и додате забелешке ће бити сачуване на уређају.">
+<!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; ће блокирати делове странице које прате вашу активност.">
+<!ENTITY privatebrowsingpage.description.privateDetails "Историјат неће бити запамћен, али преузете датотеке и забелешке ће остати снимљене на вашем уређају.">
+
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
