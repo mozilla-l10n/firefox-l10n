@@ -46,7 +46,6 @@
 <!ENTITY netmonitorUI.response.name "Nombre:">
 <!ENTITY netmonitorUI.response.dimensions "Dimensiones:">
 <!ENTITY netmonitorUI.response.mime "Tipo MIME:">
-<!ENTITY netmonitorUI.response.encoding "Codificación:">
 <!ENTITY netmonitorUI.timings.blocked "Bloqueada:">
 <!ENTITY netmonitorUI.timings.dns "Resolución DNS:">
 <!ENTITY netmonitorUI.timings.connect "Conectando:">
