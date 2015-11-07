@@ -149,6 +149,8 @@
      other devices present. This label should briefly inform the user that they
      need another connected device in order to use the feature. -->
 
+<!ENTITY menu_no_synced_devices "Seol an cluaisín seo chuig gléas ceangailte eile">
+
 <!ENTITY pref_category_search3 "Cuardaigh">
 <!ENTITY pref_category_search_summary "Saincheap na hinnill chuardaigh">
 <!ENTITY pref_category_display "Taispeáint">
@@ -214,15 +216,17 @@
 <!ENTITY pref_cookies_not_accept_foreign "Cumasaithe, seachas tríú páirtí">
 <!ENTITY pref_cookies_disabled "Díchumasaithe">
 
-
+<!ENTITY pref_tap_to_load_images_title "Tapáil chun íomhánna a luchtú">
+<!ENTITY pref_tap_to_load_images_summary2 "Luchtaigh íomhánna trí bhrú fada amháin">
 
 <!ENTITY pref_tracking_protection_title "Cosaint ar lorg">
-
+<!ENTITY pref_tracking_protection_summary3 "Cumasaithe i mBrabhsáil Phríobháideach">
 <!ENTITY pref_donottrack_title "Ná lorgtar mé">
 <!ENTITY pref_donottrack_summary "Cuirfidh &brandShortName; in iúl do shuímh Ghréasáin gan tusa a lorg ar líne">
 
-
-
+<!ENTITY pref_tracking_protection_enabled "Cumasaithe">
+<!ENTITY pref_tracking_protection_enabled_pb "Cumasaithe i mBrabhsáil Phríobháideach">
+<!ENTITY pref_tracking_protection_disabled "Díchumasaithe">
 
 <!ENTITY tracking_protection_prompt_title "Anois le Cosaint ar Lorg">
 <!ENTITY tracking_protection_prompt_text "Cuir cosc ar eilimintí rianaithe sa chaoi nach mbeidh imní ort.">
@@ -292,7 +296,7 @@ size. -->
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_sync_summary2 "Sioncrónaigh do chuid cluaisíní, leabharmharcanna, focail fhaire, stair">
 <!ENTITY pref_search_suggestions "Taispeáin moltaí cuardaigh">
-
+<!ENTITY pref_history_search_suggestions "Taispeáin stair an chuardaigh">
 <!ENTITY pref_import_android "Iompórtáil ó Android">
 <!ENTITY pref_import_android_summary "Iompórtáil leabharmharcanna agus stair ón mbrabhsálaí dúchasach">
 <!ENTITY pref_private_data_history2 "Stair bhrabhsála">
@@ -585,7 +589,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Ceangal Slán">
 <!ENTITY identity_connection_insecure "Ceangal neamhshlán">
-
+<!ENTITY identity_login_insecure "Níl an leathanach seo slán agus seans go mbeadh bradaí in ann teacht ar do chuid dintiúir logála isteach.">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "Chuir &brandShortName; cosc ar ábhar neamhshlán ar an leathanach seo.">
@@ -705,6 +709,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
+<!ENTITY intent_uri_private_browsing_prompt "Osclófar an nasc seo in &formatS;. An bhfuil tú cinnte gur mhaith leat Brabhsáil Phríobháideach a scor?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android
@@ -712,6 +717,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      We don't have control over the style of this dialog and it looks
      unpolished when this string is longer than one line so ideally keep it
      short! -->
+<!ENTITY intent_uri_private_browsing_multiple_match_title "Scoir de Bhrabhsáil Phríobháideach?">
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
      above a QR reader that is actively scanning for QR codes.  The expected QR
