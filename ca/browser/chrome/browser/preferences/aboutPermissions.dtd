@@ -41,6 +41,7 @@
 
 <!ENTITY popup.label                     "Obrir finestres emergents">
 
+<!ENTITY desktop-notification.label      "Mostrar notificacions">
 <!ENTITY camera.label                    "Utilitzar la càmera">
 <!ENTITY microphone.label                "Utilitzar el micròfon">
 
