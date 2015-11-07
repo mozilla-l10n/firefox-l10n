@@ -5,7 +5,7 @@
 <!ENTITY messengerStartPage.label         "Pagina de pornire &brandShortName;">
 <!ENTITY enableStartPage.label            "Arată pagina de start în zona mesajelor la pornirea &brandShortName;">
 <!ENTITY enableStartPage.accesskey        "A">
-<!ENTITY location.label                   "Amplasare:">
+<!ENTITY location.label                   "Locație:">
 <!ENTITY location1.accesskey               "A">
 <!ENTITY useDefault.label                 "Restaurează">
 <!ENTITY useDefault.accesskey             "R">
@@ -36,4 +36,4 @@
 <!ENTITY browse.label                     "Răsfoiește…">
 <!ENTITY browse.accesskey                 "f">
 
-<!ENTITY defaultSearchEngine.label        "Motorul de căutare implicit">
+<!ENTITY defaultSearchEngine.label        "Motor de căutare implicit">

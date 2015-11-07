@@ -524,7 +524,7 @@
 <!ENTITY glodaSearch.title "Căutare globală">
 <!ENTITY searchItem.title "Căutare rapidă">
 <!ENTITY mailViewsToolbarItem.title "Vederi de mesaje">
-<!ENTITY folderLocationToolbarItem.title "Amplasare dosar">
+<!ENTITY folderLocationToolbarItem.title "Locația dosarului">
 <!ENTITY tagButton.label "Etichetă">
 <!ENTITY compactButton.label "Compactează">
 <!ENTITY appmenuButton.label "Meniu aplicație">
