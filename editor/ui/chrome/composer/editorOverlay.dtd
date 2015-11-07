@@ -104,7 +104,7 @@
 <!ENTITY fontStyleMenu.accesskey "s">
 <!ENTITY styleBoldCmd.label "Negrito">
 <!ENTITY styleBoldCmd.accesskey "N">
-<!ENTITY styleBoldCmd.key "N">
+<!ENTITY styleBoldCmd.key "B">
 <!ENTITY styleItalicCmd.label "Itálico">
 <!ENTITY styleItalicCmd.accesskey "I">
 <!ENTITY styleItalicCmd.key "i">
