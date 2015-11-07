@@ -13,6 +13,8 @@ by NSS/PSM via netError.xhtml. -->
 <!ENTITY certerror.longpagetitle "Ciyaroo woo ši nda naanay">
 <!-- These are going to be used for the updated design in Bug 1207107 -->
 
+<!ENTITY certerror.pagetitle1  "Manti ciyari saajante">
+<!ENTITY certerror.longpagetitle1 "War ciyaroo manti saajante">
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
