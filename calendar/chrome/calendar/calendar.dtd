@@ -47,7 +47,7 @@
 <!ENTITY calendar.unifinder.tree.completeddate.tooltip2    "Sortare după data completării">
 <!ENTITY calendar.unifinder.tree.categories.label          "Categorie">
 <!ENTITY calendar.unifinder.tree.categories.tooltip2       "Sortare după categorie">
-<!ENTITY calendar.unifinder.tree.location.label            "Amplasare">
+<!ENTITY calendar.unifinder.tree.location.label            "Locație">
 <!ENTITY calendar.unifinder.tree.location.tooltip2         "Sortare după locație">
 <!ENTITY calendar.unifinder.tree.status.label              "Stare">
 <!ENTITY calendar.unifinder.tree.status.tooltip2           "Sortare după stare">
