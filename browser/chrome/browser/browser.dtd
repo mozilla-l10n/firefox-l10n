@@ -113,7 +113,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignIn.label "Přihlášení k &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Otevřít předvolby &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Opětovné připojení k &syncBrand.shortName.label;">
-<!ENTITY fxaUnverified.label "Ověřte váš účet">
+<!ENTITY fxaUnverified.label "Ověřte svůj účet">
 <!ENTITY syncStartPanel2.heading "&syncBrand.shortName.label; povolen">
 <!ENTITY syncStartPanel2.subTitle "&brandShortName; se za chvíli začne synchronizovat.">
 
@@ -197,8 +197,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationNotificationAnchor.label     "Zobrazit žádosti o vaši polohu">
 <!ENTITY urlbar.addonsNotificationAnchor.label          "Zobrazit zprávu o instalaci doplňku">
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "Zobrazit zprávu úložiště offline aplikací">
-<!ENTITY urlbar.webappsNotificationAnchor.label         "Zobrazit zprávu o instalci aplikace">
+<!ENTITY urlbar.loginFillNotificationAnchor.label       "Spravovat vaše přihlašovací údaje">
+<!ENTITY urlbar.passwordNotificationAnchor.label        "Zaškrtněte, pokud chcete uložit své heslo">
+<!ENTITY urlbar.webappsNotificationAnchor.label         "Zobrazit zprávu o instalaci aplikace">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Spravovat využití zásuvných modulů na této stránce">
+<!ENTITY urlbar.webNotsNotificationAnchor.label         "Změnit, zda vám server může zobrazovat oznámení">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Spravovat sdílení webkamery a/nebo mikrofonu se stránkou">
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Sdílíte webkameru a/nebo mikrofon se stránkou">
@@ -207,6 +210,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Spravovat sdílení oken nebo obrazovky se stránkou">
 <!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Sdílíte obrazovku nebo okno se stránkou">
 
+<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Změnit, zda server může skrývat ukazatel">
+<!ENTITY urlbar.servicesNotificationAnchor.label        "Zobrazit zprávu servisní instalace">
 <!ENTITY urlbar.translateNotificationAnchor.label       "Přeložit tuto stránku">
 <!ENTITY urlbar.translatedNotificationAnchor.label      "Spravovat překlad stránky">
 <!ENTITY urlbar.emeNotificationAnchor.label             "Správa využívání softwaru DRM">
