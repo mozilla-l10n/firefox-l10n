@@ -91,8 +91,13 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY signedIn.engines.label       "모든 기기에 걸친 동기화">
 
-<!ENTITY mobilePromo.start            "모바일 기기와 동기화를 위해서 ">
-<!-- LOCALIZATION NOTE (mobilePromo.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
-<!ENTITY mobilePromo.androidLink      "Android™">
-<!ENTITY mobilePromo.end              "용 Firefox를 다운로드 합니다.">
-<!ENTITY androidAttribution           "Android는 Google Inc.의 등록상표입니다.">
+<!-- LOCALIZATION NOTE (mobilePromo2.*): the following strings will be used to
+     create a single sentence with active links.
+     The resulting sentence in English is: "Sync to your mobile device.
+     Download Firefox for Android or Firefox for iOS." -->
+
+<!-- LOCALIZATION NOTE (mobilePromo2.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+
+<!-- LOCALIZATION NOTE (mobilePromo2.iOSBefore): This is text displayed between mobilePromo2.androidLink and mobilePromo2.iosLink -->
+<!-- LOCALIZATION NOTE (mobilePromo2.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
+
