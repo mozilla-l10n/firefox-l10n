@@ -18,13 +18,13 @@
 <!ENTITY aboutPrivateBrowsing.width1           "30em">
 <!ENTITY aboutPrivateBrowsing.title            "Nouvelle fenêtre de navigation privée">
 
-<!ENTITY aboutPrivateBrowsing.info.notsaved    "Non conservé">
+<!ENTITY aboutPrivateBrowsing.info.notsaved    "Non conservés">
 <!ENTITY aboutPrivateBrowsing.info.history     "L'historique">
 <!ENTITY aboutPrivateBrowsing.info.searches    "Les recherches">
 <!ENTITY aboutPrivateBrowsing.info.cookies     "Les cookies">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles "Les fichiers temporaires">
 
-<!ENTITY aboutPrivateBrowsing.info.saved       "Conservé">
+<!ENTITY aboutPrivateBrowsing.info.saved       "Conservés">
 <!ENTITY aboutPrivateBrowsing.info.downloads   "Les téléchargements">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks   "Les marque-pages">
 
