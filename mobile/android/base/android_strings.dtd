@@ -149,6 +149,8 @@
      other devices present. This label should briefly inform the user that they
      need another connected device in order to use the feature. -->
 
+<!ENTITY menu_no_synced_devices "Toś ten rejtark na drugi zwězany rěd pósłaś">
+
 <!ENTITY pref_category_search3 "Pytaś">
 <!ENTITY pref_category_search_summary "Pśiměrśo swójich pytańskich póbitowarjow">
 <!ENTITY pref_category_display "Zwobrazniś">
@@ -214,6 +216,7 @@
 <!ENTITY pref_cookies_not_accept_foreign "Zmóžnjony, z wuwześim tśeśich póbitowarjow">
 <!ENTITY pref_cookies_disabled "Znjemóžnjony">
 
+<!ENTITY pref_tap_to_load_images_title "Wobraze, kótarež zacytuju se pśez pótusnjenje">
 
 
 <!ENTITY pref_tracking_protection_title "Slědowański šćit">

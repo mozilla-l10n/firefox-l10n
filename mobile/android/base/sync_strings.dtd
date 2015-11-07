@@ -223,7 +223,7 @@
 <!ENTITY fxaccount_status_linktos "Słužbne wuměnjenja">
 <!ENTITY fxaccount_status_linkprivacy "Powěźeńka priwatnosći">
 <!ENTITY fxaccount_status_more "Wěcej&ellipsis;">
-
+<!ENTITY fxaccount_remove_account "Zwisk źěliś&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "Konto Firefox wópóraś?">
 <!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; jo pśestał wašo konto synchronizěrowaś, ale njewulašujo waše pśeglědowańske daty na toś tom rěźe.">
