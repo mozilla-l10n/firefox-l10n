@@ -19,6 +19,7 @@
 <!ENTITY smtpListSetDefault.label "Réamhshocraigh">
 <!ENTITY smtpListSetDefault.accesskey "s">
 
+<!ENTITY serverDetails.label "Mionsonraí an fhreastalaí roghnaithe:">
 <!ENTITY serverDescription.label "Cur Síos: ">
 <!ENTITY serverName.label "Ainm an Fhreastalaí: ">
 <!ENTITY serverPort.label "Port: ">

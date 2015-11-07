@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                 "Eisceachtaí">
-
+<!ENTITY window.width                 "45em">
 
 <!ENTITY treehead.sitename.label      "Suíomh">
 <!ENTITY treehead.status.label        "Stádas">
@@ -15,13 +15,14 @@
 <!ENTITY address.accesskey            "G">
 <!ENTITY block.label                  "Coisc">
 <!ENTITY block.accesskey              "C">
-
-
+<!ENTITY session.label                "Ceadaigh don Seisiún">
+<!ENTITY session.accesskey            "S">
 <!ENTITY allow.label                  "Ceadaigh">
 <!ENTITY allow.accesskey              "C">
 <!ENTITY windowClose.key              "w">
 
-
-
-
+<!ENTITY button.cancel.label          "Cealaigh">
+<!ENTITY button.cancel.accesskey      "C">
+<!ENTITY button.ok.label              "Sábháil na hAthruithe">
+<!ENTITY button.ok.accesskey          "S">
 
