@@ -13,7 +13,8 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "Njejsćo w priwatnem modusu">
 
-
+<!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; blokěrujo źěle bokow, kótarež by mógli wašu pśeglědowańsku aktiwitu slědowaś.">
+<!ENTITY privatebrowsingpage.description.privateDetails "Njemarkujomy se žednu historiju, ale ześěgnjone dataje a nowe cytańske znamjenja składuju se na wašom rěźe.">
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
