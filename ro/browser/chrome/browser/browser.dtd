@@ -211,6 +211,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+<!ENTITY urlbar.openHistoryPopup.tooltip                "Arată istoricul">
 
 <!ENTITY searchItem.title             "Căutare">
 <!-- Toolbar items --> 

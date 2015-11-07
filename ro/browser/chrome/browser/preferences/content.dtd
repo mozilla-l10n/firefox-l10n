@@ -36,7 +36,7 @@
 <!ENTITY languages.label              "Limbi">
 <!ENTITY chooseLanguage.label         "Alege limba în care preferi să vezi paginile">
 <!ENTITY chooseButton.label           "Alege…">
-<!ENTITY chooseButton.accesskey       "l">
+<!ENTITY chooseButton.accesskey       "o">
 
 <!ENTITY translateWebPages.label      "Traduceți conținutul web">
 <!ENTITY translateWebPages.accesskey  "T">
