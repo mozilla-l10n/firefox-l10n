@@ -19,6 +19,7 @@
 <!ENTITY smtpListSetDefault.label "Standard nastajić">
 <!ENTITY smtpListSetDefault.accesskey "S">
 
+<!ENTITY serverDetails.label "Podrobnosće wubraneho serwera:">
 <!ENTITY serverDescription.label "Wopisanje: ">
 <!ENTITY serverName.label "Mjeno serwera: ">
 <!ENTITY serverPort.label "Port: ">

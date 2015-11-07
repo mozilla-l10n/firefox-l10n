@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                 "Wuwzaća">
-
+<!ENTITY window.width                 "45em">
 
 <!ENTITY treehead.sitename.label      "Sydło">
 <!ENTITY treehead.status.label        "Status">
@@ -15,13 +15,14 @@
 <!ENTITY address.accesskey            "A">
 <!ENTITY block.label                  "Blokować">
 <!ENTITY block.accesskey              "B">
-
-
+<!ENTITY session.label                "Za posedźenje dowolić">
+<!ENTITY session.accesskey            "o">
 <!ENTITY allow.label                  "Dowolić">
 <!ENTITY allow.accesskey              "D">
 <!ENTITY windowClose.key              "w">
 
-
-
-
+<!ENTITY button.cancel.label          "Přetorhnyć">
+<!ENTITY button.cancel.accesskey      "P">
+<!ENTITY button.ok.label              "Změny składować">
+<!ENTITY button.ok.accesskey          "s">
 
