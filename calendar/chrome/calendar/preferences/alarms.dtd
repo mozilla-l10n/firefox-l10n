@@ -28,9 +28,9 @@
 <!ENTITY pref.alarm.on "Zapinjeny">
 <!ENTITY pref.alarm.off "Wupinjeny">
 <!ENTITY pref.defalarmlen4events.label "Standardny dopomnjenski časowy dypk před podawkom:">
-<!ENTITY pref.defalarmlen4events.accesskey "u">
+<!ENTITY pref.defalarmlen4events.accesskey "d">
 <!ENTITY pref.defalarmlen4todos.label "Standardny dopomnjenski časowy dypk před nadawkom:">
-<!ENTITY pref.defalarmlen4todos.accesskey "o">
+<!ENTITY pref.defalarmlen4todos.accesskey "e">
 
 <!ENTITY pref.defaultsnoozelength.label "Čas před nowym dopomnjećom:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "n">

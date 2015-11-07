@@ -15,7 +15,7 @@
 
 <!ENTITY pref.timezones.caption "Časowe pasmo">
 <!ENTITY pref.timezones.label "Wubjerće najbliše město w swojim časowym pasmje:">
-<!ENTITY pref.timezones.accesskey "S">
+<!ENTITY pref.timezones.accesskey "u">
 
 <!ENTITY pref.defaults.label "Standardne hódnoty za nowe zapiski">
 <!ENTITY pref.events.label "Podawki">

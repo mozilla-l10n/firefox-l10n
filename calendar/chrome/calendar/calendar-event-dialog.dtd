@@ -137,7 +137,7 @@
 <!ENTITY event.email.attendees.label                      "E-mejlku na wšěch wobdźělnikow spisać…">
 <!ENTITY event.email.attendees.accesskey                  "E">
 <!ENTITY event.email.tentative.attendees.label            "E-mejlku na njerozsudźenych wobdźělnikow spisać…">
-<!ENTITY event.email.tentative.attendees.accesskey        "U">
+<!ENTITY event.email.tentative.attendees.accesskey        "r">
 <!-- Toolbar -->
 
 <!ENTITY  event.toolbar.save.label                        "Składować a začinić">
@@ -246,7 +246,7 @@
 
 <!ENTITY event.recurrence.pattern.weekly.every.label    "Kóždy" >
 <!ENTITY repeat.units.weeks.both                        "tydźeń" >
-<!ENTITY event.recurrence.on.label                      "On:" >
+<!ENTITY event.recurrence.on.label                      "Dnja:" >
 
 <!ENTITY event.recurrence.pattern.monthly.every.label   "Kóždy" >
 <!ENTITY repeat.units.months.both                       "měsac" >
