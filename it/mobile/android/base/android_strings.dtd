@@ -450,3 +450,4 @@
 <!ENTITY bookmarks_support "Firefox: supporto">
 <!ENTITY bookmarks_restricted_support2 "Supporto per l’uso di profili limitati in Firefox su tablet Android">
 <!ENTITY bookmarks_restricted_webmaker "Impara il Web: Mozilla Webmaker">
+<!ENTITY unsupported_sdk_version "Siamo spiacenti, questa versione di &brandShortName; non è compatibile con questo dispositivo (&formatS1;, &formatS2;). È necessario scaricare la versione corretta.">
