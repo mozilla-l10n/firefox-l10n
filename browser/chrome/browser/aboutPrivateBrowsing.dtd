@@ -44,7 +44,7 @@
      Width of the element representing the enabled or disabled indicator.
      -->
 
-<!ENTITY trackingProtection.state.width        "6ch">
+<!ENTITY trackingProtection.state.width        "10ch">
 <!ENTITY trackingProtection.state.enabled      "PORNITĂ">
 <!ENTITY trackingProtection.state.disabled     "OPRITĂ">
 

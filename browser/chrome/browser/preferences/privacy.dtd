@@ -22,11 +22,11 @@
 
 <!ENTITY  locbar.suggest.label          "Când se folosește bara adresei, sugerează:">
 <!ENTITY  locbar.history.label          "Istoric">
-<!ENTITY  locbar.history.accesskey      "I">
+<!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Semne de carte">
-<!ENTITY  locbar.bookmarks.accesskey    "S">
-<!ENTITY  locbar.openpage.label         "Deschide filele">
-<!ENTITY  locbar.openpage.accesskey     "D">
+<!ENTITY  locbar.bookmarks.accesskey    "k">
+<!ENTITY  locbar.openpage.label         "File deschise">
+<!ENTITY  locbar.openpage.accesskey     "O">
 <!ENTITY  locbar.searches.label         "Căutări similare de la motorul de căutare implicit">
 <!ENTITY  locbar.searches.accesskey     "d">
 
