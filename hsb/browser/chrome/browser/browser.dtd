@@ -198,7 +198,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.addonsNotificationAnchor.label          "Zdźělenku přidatkoweje instalacije pokazać">
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "Zdźělenku wo składźe offline nałoženja pokazać">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "Waše přizjewjenske informacije rjadować">
-<!ENTITY urlbar.passwordNotificationAnchor.label        "Kontrolujće, hač chceće swoje hesko składować">
+<!ENTITY urlbar.passwordNotificationAnchor.label        "Kontrolujće, hač chceće swoje hesło składować">
 <!ENTITY urlbar.webappsNotificationAnchor.label         "Instalowansku zdźělenku nałoženja pokazać">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Wužiwanje tykačow na tutej stronje rjadować">
 <!ENTITY urlbar.webNotsNotificationAnchor.label         "Postajće, hač sydło móže wam zdźělenki pokazać">
