@@ -112,6 +112,8 @@
 <!-- LOCALIZATION NOTE (performanceUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
   -  functions in the profiler. -->
+
+<!ENTITY performanceUI.flattenTreeRecursion             "Ағаш тектес рекурсияны тегістеу">
 <!ENTITY performanceUI.flattenTreeRecursion.tooltiptext "Функцияларды бақылау кезінде рекурсияны тегістеу.">
 <!-- LOCALIZATION NOTE (performanceUI.enableMemory): This string
   -  is displayed next to a checkbox determining whether or not memory
