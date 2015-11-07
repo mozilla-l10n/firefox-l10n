@@ -7,13 +7,14 @@
 <!ENTITY  blockPopups.label           "Blochează ferestrele pop-up">
 <!ENTITY  blockPopups.accesskey       "B">
 
-
-
-
-
-
-
-
+<!ENTITY  notificationsPolicy.label            "Notificări">
+<!ENTITY  notificationsPolicyLearnMore.label   "Află mai multe">
+<!ENTITY  notificationsPolicyDesc3.label       "Alege ce site-uri au permisiunea de a-ți trimite notificări">
+<!ENTITY  notificationsPolicyButton.accesskey  "h">
+<!ENTITY  notificationsPolicyButton.label      "Alege…">
+<!ENTITY  notificationsDoNotDisturb.label      "Nu mă deranja">
+<!ENTITY  notificationsDoNotDisturb.accesskey  "N">
+<!ENTITY  notificationsDoNotDisturbDetails.value "Nicio notificare nu va fi afișată până când repornești &brandShortName;">
 
 <!ENTITY  popupExceptions.label       "Excepții…">
 <!ENTITY  popupExceptions.accesskey   "E">
@@ -56,4 +57,4 @@
 
 <!ENTITY  playDRMContent.label         "Redă conținut DRM">
 <!ENTITY  playDRMContent.accesskey     "P">
-
+<!ENTITY  playDRMContent.learnMore.label "Află mai multe">
