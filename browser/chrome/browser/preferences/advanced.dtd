@@ -23,7 +23,7 @@
 <!ENTITY useSmoothScrolling.accesskey    "i">
 <!ENTITY allowHWAccel.label              "Folosește accelerarea hardware atunci când este disponibilă">
 <!ENTITY allowHWAccel.accesskey          "h">
-<!ENTITY checkSpelling.label             "Verfică ortografia în timp ce tastez">
+<!ENTITY checkSpelling.label             "Verfică ortografia pe măsură ce tastez">
 <!ENTITY checkSpelling.accesskey         "t">
 
 <!ENTITY dataChoicesTab.label            "Opțiuni de date">

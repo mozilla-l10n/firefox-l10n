@@ -28,7 +28,7 @@
 
 <!ENTITY  mediaTab              "Multimedia">
 <!ENTITY  mediaTab.accesskey    "M">
-<!ENTITY  mediaLocation         "Amplasare:">
+<!ENTITY  mediaLocation         "Locație:">
 <!ENTITY  mediaText             "Text asociat:">
 <!ENTITY  mediaAltHeader        "Text alternativ">
 <!ENTITY  mediaAddress          "Adresă">
