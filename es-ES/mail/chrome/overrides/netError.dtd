@@ -151,7 +151,7 @@
 <p>Estos tipos de webs fraudulentas son usadas en ataques de phishing, en los cuales páginas y correos electrónicos fraudulentos se utilizan para imitar fuentes en las que confías.</p>">
 <!ENTITY cspBlocked.title "Bloqueado por la política de seguridad de contenido">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ha impedido que se cargue esta página de esta forma porque la página tiene una política de seguridad de contenido que lo impide.</p>">
-<!ENTITY corruptedContentError.title "Error por contenido corrupto">
+<!ENTITY corruptedContentError.title "Error por contenido dañado">
 <!ENTITY corruptedContentError.longDesc "<p>El contenido que está intentando ver no puede mostrarse porque se ha detectado un error en la transmisión de datos.</p><ul><li>Contacte con los propietarios para informarles de este problema.</li></ul>">
 <!ENTITY securityOverride.linkText "O puede añadir una excepción…">
 <!ENTITY securityOverride.getMeOutOfHereButton "¡Sácame de aquí!">
