@@ -594,7 +594,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY mixed_content_blocked_all1 "O &brandShortName; bloqueou conteúdo não-seguro nesta página.">
 <!ENTITY mixed_content_blocked_some1 "O &brandShortName; bloqueou algum do conteúdo inseguro nesta página.">
-<!ENTITY mixed_content_display_loaded1 "Partes desta página não são seguras (tais como imagens).">
+<!ENTITY mixed_content_display_loaded1 "Partes desta página não são seguras (por exemplo, imagens).">
 <!ENTITY mixed_content_protection_disabled1 "Desativou a proteção para conteúdo inseguro.">
 <!-- Tracking content notifications in site identity popup -->
 
