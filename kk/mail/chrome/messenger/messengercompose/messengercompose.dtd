@@ -24,7 +24,8 @@
 
 
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
-
+<!ENTITY attachVCardCmd.label "Жеке карта (vCard)">
+<!ENTITY attachVCardCmd.accesskey "Ж">
 
 
 
@@ -39,14 +40,14 @@
 
 
 
-
-
-
-
-
-
-
-
+<!ENTITY saveAsTemplateCmd.label "Үлгі">
+<!ENTITY saveAsTemplateCmd.accesskey "Ү">
+<!ENTITY sendNowCmd.label "Қазір жіберу">
+<!ENTITY sendCmd.keycode "VK_RETURN">
+<!ENTITY sendNowCmd.accesskey "з">
+<!ENTITY sendLaterCmd.label "Кейін жіберу">
+<!ENTITY sendLaterCmd.keycode "VK_RETURN">
+<!ENTITY sendLaterCmd.accesskey "й">
 <!ENTITY printSetupCmd.label "Парақ баптаулары…">
 <!ENTITY printSetupCmd.accesskey "П">
 <!ENTITY printPreviewCmd.label "Алдын-ала қарау">
@@ -78,8 +79,8 @@
 
 
 
-
-
+<!ENTITY renameAttachmentCmd.label "Салынымды қайта атау...">
+<!ENTITY renameAttachmentCmd.accesskey "а">
 <!ENTITY selectAllCmd.label "Барлығын таңдау">
 
 <!ENTITY selectAllCmd.accesskey "Б">
