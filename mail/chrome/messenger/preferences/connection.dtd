@@ -37,4 +37,4 @@
 <!ENTITY  noproxy.accesskey             "л">
 <!ENTITY  noproxyExplain.label          "Мысалы: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Бұл проксиді барлық хаттамалар үшін қолдану">
-<!ENTITY  shareproxy.accesskey          "x">
+<!ENTITY  shareproxy.accesskey          "к">

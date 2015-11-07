@@ -52,7 +52,7 @@
 
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
 <!ENTITY incomingUsername.label "Пайдаланушы аты:">
-<!ENTITY incomingUsername.accesskey "й">
+<!ENTITY incomingUsername.accesskey "П">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 
 

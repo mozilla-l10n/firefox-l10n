@@ -13,14 +13,14 @@
 <!ENTITY helpTroubleshootingInfo.accesskey "а">
 <!ENTITY helpSafeMode.label     "Сөндірілген кеңейтулермен қайта қосу…">
 <!ENTITY helpSafeMode.accesskey "р">
-<!ENTITY releaseCmd2.label "Шығарылым ескертпесі:">
-<!ENTITY releaseCmd2.accesskey "N">
+<!ENTITY releaseCmd2.label "Шығарылым ескертпесі">
+<!ENTITY releaseCmd2.accesskey "с">
 <!ENTITY whatsNewCmd.label "Не жаңалық">
 <!ENTITY whatsNewCmd.accesskey "а">
 <!ENTITY openHelp.label "Көмек құрамасы">
 <!ENTITY openHelp.accesskey "К">
 <!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac.label "&brandShortName; &amp;көмегі">
+<!ENTITY openHelpMac.label "&brandShortName; көмегі">
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
 

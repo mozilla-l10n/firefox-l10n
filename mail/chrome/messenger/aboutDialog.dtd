@@ -23,7 +23,7 @@
 <!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
-
+<!ENTITY community.exp.middle       " бұл ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "глобалды қоғамдастық,">
 <!ENTITY community.exp.end          " Интернетті ашық, ортақ және қолжетерлік қылуға бірге жұмыс істейді.">

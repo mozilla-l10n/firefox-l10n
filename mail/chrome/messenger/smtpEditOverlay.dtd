@@ -10,8 +10,8 @@
 
 <!ENTITY serverPort.label "Порт:">
 <!ENTITY serverPort.accesskey "П">
-
-
+<!ENTITY userName.label "Пайдаланушы аты:">
+<!ENTITY userName.accesskey "й">
 
 
 

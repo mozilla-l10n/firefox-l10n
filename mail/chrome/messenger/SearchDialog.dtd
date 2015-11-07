@@ -9,8 +9,8 @@
 
 
 
-
-
+<!ENTITY openButton.label            "Ашу">
+<!ENTITY openButton.accesskey        "ш">
 
 
 
@@ -26,13 +26,13 @@
 
 
 
-
-
+<!ENTITY composeButton.label         "Жазу">
+<!ENTITY composeButton.accesskey     "з">
 
 
 
 <!-- Thread Pane -->
-
+<!ENTITY fromColumn.label "Кімнен">
 <!ENTITY recipientColumn.label "Алушы">
 
 
