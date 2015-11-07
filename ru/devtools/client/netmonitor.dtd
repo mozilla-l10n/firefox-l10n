@@ -46,7 +46,6 @@
 <!ENTITY netmonitorUI.response.name "Имя:">
 <!ENTITY netmonitorUI.response.dimensions "Размеры:">
 <!ENTITY netmonitorUI.response.mime "Тип MIME:">
-<!ENTITY netmonitorUI.response.encoding "Кодировка:">
 <!ENTITY netmonitorUI.timings.blocked "Заблокировано:">
 <!ENTITY netmonitorUI.timings.dns "Разрешение DNS:">
 <!ENTITY netmonitorUI.timings.connect "Соединение:">
