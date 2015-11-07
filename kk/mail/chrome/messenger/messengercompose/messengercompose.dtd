@@ -12,8 +12,8 @@
 
 
 <!ENTITY newMessage.accesskey "Х">
-
-
+<!ENTITY newContact.label "Адрестік кітапша контакты...">
+<!ENTITY newContact.accesskey "к">
 
 
 
@@ -59,6 +59,9 @@
 
 
 
+<!ENTITY redoCmd.label "Қайталау">
+
+<!ENTITY redoCmd.accesskey "й">
 
 
 
@@ -77,20 +80,17 @@
 
 
 
+<!ENTITY selectAllCmd.label "Барлығын таңдау">
 
+<!ENTITY selectAllCmd.accesskey "Б">
+<!ENTITY findBarCmd.label "Табу...">
+<!ENTITY findBarCmd.accesskey "Т">
 
+<!ENTITY findReplaceCmd.label "Табу және алмастыру...">
+<!ENTITY findReplaceCmd.accesskey "ы">
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY findAgainCmd.label "Іздеуді қайталау">
+<!ENTITY findAgainCmd.accesskey "з">
 
 
 
@@ -107,8 +107,8 @@
 
 
 
-
-
+<!ENTITY showTaskbarCmd.label "Қалып-күй жолағы">
+<!ENTITY showTaskbarCmd.accesskey "а">
 
 
 
@@ -166,8 +166,8 @@
 
 
 
-
-
+<!ENTITY addressBookCmd.label "Адрестік кітапша">
+<!ENTITY addressBookCmd.accesskey "А">
 
 <!ENTITY accountManagerCmd2.label "Тіркелгі баптаулары">
 <!ENTITY accountManagerCmd2.accesskey "п">
@@ -211,8 +211,8 @@
 <!ENTITY replyAddr.label "Жауап алушы:">
 <!ENTITY newsgroupsAddr.label "Жаңалықтар тобы:">
 
-
-
+<!ENTITY subject.label "Тақырыбы:">
+<!ENTITY subject.accesskey "Т">
 <!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
      to the strings in attachmentCount in composeMsgs.properties -->
 <!-- Format Toolbar, imported from editorAppShell.xul -->
@@ -253,8 +253,8 @@
 
 
 
-
-
+<!ENTITY renameAttachment.label "Атын ауыстыру…">
+<!ENTITY renameAttachment.accesskey "р">
 
 
 

@@ -6,6 +6,8 @@
 <!ENTITY titleSeparator.label " - ">
 <!-- File Menu -->
 
+<!ENTITY newFolderCmd.label "Бума…">
+<!ENTITY newFolderCmd.accesskey "Б">
 <!ENTITY closeTabCmd2.label "Бетті жабу">
 <!ENTITY closeTabCmd2.accesskey "Б">
 
@@ -176,24 +178,24 @@
 <!ENTITY sortBySizeCmd.accesskey "ш">
 <!ENTITY sortByStatusCmd.label "Күй-жайы">
 <!ENTITY sortByStatusCmd.accesskey "ж">
-
-
+<!ENTITY sortByTagsCmd.label "Тегтер">
+<!ENTITY sortByTagsCmd.accesskey "г">
 
 
 <!ENTITY sortBySubjectCmd.label "Тегтер">
 <!ENTITY sortBySubjectCmd.accesskey "т">
 <!ENTITY sortByFromCmd.label "Кімнен">
 <!ENTITY sortByFromCmd.accesskey "м">
-
-
+<!ENTITY sortByRecipientCmd.label "Алушы">
+<!ENTITY sortByRecipientCmd.accesskey "л">
 
 
 <!ENTITY sortByUnreadCmd.label "Оқу">
 <!ENTITY sortByUnreadCmd.accesskey "О">
 
 
-
-
+<!ENTITY sortAscending.label "Өсу ретімен">
+<!ENTITY sortAscending.accesskey "с">
 <!ENTITY sortDescending.label "Кему ретімен">
 <!ENTITY sortDescending.accesskey "К">
 
@@ -243,8 +245,8 @@
 
 
 
-
-
+<!ENTITY viewFeedSummary.label "Жиынды мәлімет">
+<!ENTITY viewFeedSummary.accesskey "м">
 
 
 
@@ -374,8 +376,8 @@
 
 
 
-
-
+<!ENTITY tagMenu.label "Тег">
+<!ENTITY tagMenu.accesskey "г">
 
 
 
@@ -443,8 +445,8 @@
 
 <!ENTITY addons.label "Қосымшалар">
 <!ENTITY addons.accesskey "с">
-
-
+<!ENTITY activitymanager.label "Белсенділік басқарушысы">
+<!ENTITY activitymanager.accesskey "д">
 
 
 <!ENTITY imStatus.available          "Қолжетерлік">
@@ -453,8 +455,8 @@
 
 
 
-
-
+<!ENTITY savedFiles.label "Сақталған файлдар">
+<!ENTITY savedFiles.accesskey "л">
 
 
 

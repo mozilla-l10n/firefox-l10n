@@ -1,18 +1,18 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!ENTITY subscribeButton.label        "Жазылу">
+<!ENTITY subscribeButton.accesskey    "з">
 
 
 
 
 
 
-
-
-
-
-
-
+<!ENTITY stopButton.label             "Тоқтату">
+<!ENTITY stopButton.accesskey         "Т">
+<!ENTITY server.label                 "Тіркелгі:">
+<!ENTITY server.accesskey             "Т">
 
 <!-- commenting out until bug 38906 is fixed 
 <!ENTITY messagesHeader.label         "Messages"> -->

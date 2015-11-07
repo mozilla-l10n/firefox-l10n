@@ -60,12 +60,12 @@
 <!ENTITY pasteCmd.accesskey                             "р">
 <!ENTITY deleteCmd.label                                "Өшіру">
 <!ENTITY deleteCmd.accesskey                            "ш">
-
-
-
-
-
-
+<!ENTITY deleteAbCmd.label                              "Адрестік кітапшаны өшіру">
+<!ENTITY deleteContactCmd.label                         "Контактты өшіру">
+<!ENTITY deleteContactsCmd.label                        "Контакттарды өшіру">
+<!ENTITY deleteListCmd.label                            "Тізімді өшіру">
+<!ENTITY deleteListsCmd.label                           "Тізімдерді өшіру">
+<!ENTITY deleteItemsCmd.label                           "Нәрселерді өшіру">
 <!ENTITY selectAllCmd.label                             "Барлығын ерекшелеу">
 <!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
@@ -75,8 +75,8 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-
-
+<!ENTITY propertiesCmd2.label                           "Қасиеттері">
+<!ENTITY propertiesCmd2.accesskey                       "е">
 <!ENTITY propertiesCmd.key                              "i">
 <!-- View Menu -->
 
@@ -157,6 +157,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY searchItem.title "Жылдам іздеу">
 <!-- Results Pane -->
 
+<!ENTITY Addrbook.label                                 "Адрестік кітапша">
+<!ENTITY Addrbook.accesskey                             "к">
 <!ENTITY GeneratedName.label                            "Аты">
 <!ENTITY GeneratedName.accesskey                        "А">
 <!ENTITY PrimaryEmail.label                             "Эл.пошта:">
@@ -173,8 +175,8 @@ because displayed names don't have the comma in between. -->
 
 <!ENTITY JobTitle.label                                 "Атағы">
 <!ENTITY JobTitle.accesskey                             "А">
-
-
+<!ENTITY CellularNumber.label                           "Мобильді">
+<!ENTITY CellularNumber.accesskey                       "М">
 <!ENTITY PagerNumber.label                              "Пейджер">
 <!ENTITY PagerNumber.accesskey                          "П">
 <!ENTITY FaxNumber.label                                "Факс">

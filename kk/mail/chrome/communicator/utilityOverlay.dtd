@@ -55,4 +55,4 @@
 <!ENTITY quitApplicationCmdUnix.accesskey  "Ш">
 
 <!ENTITY quitApplicationCmdMac.label  "&brandShortName; жұмысын аяқтау">
-<!ENTITY quitApplicationCmdMac.accesskey  "Q">
+<!ENTITY quitApplicationCmdMac.accesskey  "я">

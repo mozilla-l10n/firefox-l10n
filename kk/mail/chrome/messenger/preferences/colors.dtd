@@ -16,7 +16,7 @@
 <!ENTITY  textColor.accesskey             "т">
 <!ENTITY  backgroundColor.label           "Фон:">
 <!ENTITY  backgroundColor.accesskey       "Ф">
-<!ENTITY  useSystemColors.label           "Жүйеінің түстерін қолдану">
+<!ENTITY  useSystemColors.label           "Жүйе түстерін қолдану">
 <!ENTITY  useSystemColors.accesskey       "й">
 
 <!ENTITY  underlineLinks.label            "Сілтемелердің астын сызу">

@@ -20,8 +20,8 @@
 
 <!ENTITY JobTitle.label                        "Атағы">
 <!ENTITY JobTitle.accesskey                    "А">
-
-
+<!ENTITY CellularNumber.label                  "Мобильді">
+<!ENTITY CellularNumber.accesskey              "М">
 <!ENTITY PagerNumber.label                     "Пейджер">
 <!ENTITY PagerNumber.accesskey                 "П">
 <!ENTITY FaxNumber.label                       "Факс">

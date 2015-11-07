@@ -5,6 +5,8 @@
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
 
+<!ENTITY clearTimeDuration.label          "Жойылатын деректер мерзімі: ">
+<!ENTITY clearTimeDuration.accesskey      "й">
 
 
 
