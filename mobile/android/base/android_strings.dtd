@@ -144,13 +144,12 @@
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
 <!ENTITY overlay_no_synced_devices "Није пронађен ни један повезан уређај са Firefox налогом">
-<!-- Localization note (overlay_share_tab_not_sent) : Used when the menu option
-     to send a tab to a synced device is pressed and there is an error
-     connecting to the server so the tab could not be sent. The text should be
-     divided into two lines (use the newline escape character, "\n", between
-     them): the first notifying the user about the failure and the second
-     telling the user what to do about it. -->
-<!ENTITY overlay_share_tab_not_sent "Језичак није могао бити послат.\nПокушајте поново касније.">
+
+<!-- Localization note (menu_no_synced_devices): Used in a toast when the user
+     clicks on the button to send a tab to another device and there are no
+     other devices present. This label should briefly inform the user that they
+     need another connected device in order to use the feature. -->
+<!ENTITY menu_no_synced_devices "Пошаљи овај језичак на други повезани уређај">
 
 <!ENTITY pref_category_search3 "Претрага">
 <!ENTITY pref_category_search_summary "Прилагодите провајдере претраге">
@@ -217,10 +216,17 @@
 <!ENTITY pref_cookies_not_accept_foreign "Омогућено, укључујући трећа лица">
 <!ENTITY pref_cookies_disabled "Онемогућени">
 
+<!ENTITY pref_tap_to_load_images_title "Притисните да учитате слике">
+<!ENTITY pref_tap_to_load_images_summary2 "Учитајте слике само кад дуго притиснете на њих">
+
 <!ENTITY pref_tracking_protection_title "Заштита од праћења">
 <!ENTITY pref_tracking_protection_summary3 "Омогућена у приватном прегледању">
 <!ENTITY pref_donottrack_title "Не желим да ме прате">
 <!ENTITY pref_donottrack_summary "&brandShortName; ће рећи сајтовима да не желите да будете праћени">
+
+<!ENTITY pref_tracking_protection_enabled "Омогућено">
+<!ENTITY pref_tracking_protection_enabled_pb "Омогућено у приватном прегледању">
+<!ENTITY pref_tracking_protection_disabled "Онемогућено">
 
 <!ENTITY tracking_protection_prompt_title "Сада са заштитом од праћења">
 <!ENTITY tracking_protection_prompt_text "Активно блокира елементе који вас прате, немате бриге.">
@@ -290,6 +296,7 @@ size. -->
 <!ENTITY pref_sync "Sync">
 <!ENTITY pref_sync_summary2 "Синхронизација језичака, забелешки, пријава, историјата">
 <!ENTITY pref_search_suggestions "Прикажи предлоге претраге">
+<!ENTITY pref_history_search_suggestions "Прикажи историју претраге">
 <!ENTITY pref_import_android "Увези са Android-а">
 <!ENTITY pref_import_android_summary "Увезите забелешке и историју са нативног прегледача">
 <!ENTITY pref_private_data_history2 "Историја прегледа">
@@ -582,6 +589,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Сигурна веза">
 <!ENTITY identity_connection_insecure "Несигурна веза">
+<!ENTITY identity_login_insecure "Ова страница није сигурна и ваша пријава је угрожена.">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; је блокирао несигури садржај на овој страници.">
@@ -697,6 +705,19 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY find_matchcase "Aa">
 
 <!ENTITY intent_uri_cannot_open "Не могу отворити везу">
+<!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
+     appear in an alert when a user, who is currently in private browsing,
+     clicks a link that will open an external Android application. "&formatS;"
+     will be replaced with the name of the application that will be opened. -->
+<!ENTITY intent_uri_private_browsing_prompt "This link will open in &formatS;. Are you sure you want to exit Private Browsing?">
+<!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
+     string will appear as the title of an alert when a user, who is currently
+     in private browsing, clicks a link that will open an external Android
+     application and more than one application is available to open that link.
+     We don't have control over the style of this dialog and it looks
+     unpolished when this string is longer than one line so ideally keep it
+     short! -->
+<!ENTITY intent_uri_private_browsing_multiple_match_title "Изаћи из приватног прегледања?">
 
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
@@ -721,16 +742,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restriction_disallow_guest_browsing_title2 "Онемогући прегледање за госте">
 
 <!-- Default Bookmarks titles-->
-<!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
-<!ENTITY bookmarks_title "Мобилни">
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 <!ENTITY bookmarks_about_browser "Firefox: о прегледачу">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
 <!ENTITY bookmarks_addons "Firefox: прилагодите са додацима">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
 <!ENTITY bookmarks_support "Firefox: подршка">
-<!--LOCALIZATION NOTE (bookmarks_marketplace):link title for https://marketplace.firefox.com -->
-<!ENTITY bookmarks_marketplace "Firefox Marketplace">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!ENTITY bookmarks_restricted_support2 "Firefox помоћ и подршка за ограничене профиле на Android таблетима">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->

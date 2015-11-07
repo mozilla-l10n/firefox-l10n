@@ -223,6 +223,7 @@
 <!ENTITY fxaccount_status_linktos 'Услови коришћења'>
 <!ENTITY fxaccount_status_linkprivacy 'Обавештење о приватности'>
 <!ENTITY fxaccount_status_more 'Више&ellipsis;'>
+<!ENTITY fxaccount_remove_account 'Прекини&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title 'Уклонити Firefox налог?'>
 <!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; ће зауставити синхронизацију са вашим налогом, али неће избрисати податке прегледања на овом уређају.'>
@@ -230,7 +231,6 @@
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast 'Firefox налог &formatS; је уклоњен.'>
 
-<!ENTITY fxaccount_remove_account_menu_item 'Уклонити налог'>
 <!ENTITY fxaccount_enable_debug_mode 'Омогући отклањање грешака'>
 
 <!-- Localization note: this is the name shown by the Android system
