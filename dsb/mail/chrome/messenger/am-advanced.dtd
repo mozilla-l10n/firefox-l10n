@@ -19,6 +19,7 @@
 <!ENTITY smtpListSetDefault.label "Standard stajiś">
 <!ENTITY smtpListSetDefault.accesskey "S">
 
+<!ENTITY serverDetails.label "Drobnostki wubranego serwera:">
 <!ENTITY serverDescription.label "Wopisanje: ">
 <!ENTITY serverName.label "Serwerowe mě: ">
 <!ENTITY serverPort.label "Port: ">
