@@ -189,19 +189,22 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Imprimeix">
 <!ENTITY printButton.tooltip          "Imprimeix aquesta pàgina">
 
+<!ENTITY urlbar.viewSiteInfo.label                      "Mostra la informació del lloc">
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
+<!ENTITY urlbar.defaultNotificationAnchor.label         "Mostra una notificació">
+<!ENTITY urlbar.geolocationNotificationAnchor.label     "Mostra una sol·licitud d'ubicació">
+<!ENTITY urlbar.addonsNotificationAnchor.label          "Mostra el missatge d'instal·lació del complement">
+<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Mostra el missatge d'emmagatzematge fora de línia de les aplicacions">
+<!ENTITY urlbar.loginFillNotificationAnchor.label       "Gestiona la informació d'inici de sessió">
+<!ENTITY urlbar.passwordNotificationAnchor.label        "Comprova si voleu desar la contrasenya">
+<!ENTITY urlbar.webappsNotificationAnchor.label         "Mostra el missatge d'instal·lació de l'aplicació">
+<!ENTITY urlbar.pluginsNotificationAnchor.label         "Gestiona l'ús de connectors en aquesta pàgina">
+<!ENTITY urlbar.webNotsNotificationAnchor.label         "Canvia l'opció de si el lloc pot mostrar notificacions">
 
-
-
-
-
-
-
-
-
-
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Gestiona la compartició de la càmera o del micròfon amb el lloc">
+<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Esteu compartint la càmera o el micròfon amb aquesta pàgina.">
 
 
 
