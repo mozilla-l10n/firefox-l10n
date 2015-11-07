@@ -49,7 +49,7 @@
 <!-- intro paragraph for branded builds -->
 
 <!ENTITY rights.webservices-a "&brandFullName; poskića opcionalne słužby (&quot;słužby&quot;), kaž na př. aktualizowansku słužbu za přidatki, kotraž za waše wužiće z tutej binarnej wersiju &brandShortName;, kaž deleka wopisanej, k dispoziciji steji. Jeli nochceće słužby wužiwać abo slědowace wuměnjenja su za was njepřijimajomne, móžeće aktualizowansku słužbu za přidatki znjemóžnić, wočinjejo nastajenja nałoženja, wuběrajo ">
-<!ENTITY rights.webservices-b "wotrězk Rozšěrjene, ">
+<!ENTITY rights.webservices-b "Rozšěrjene">
 <!ENTITY rights.webservices-c "slědowany přez ">
 <!ENTITY rights.webservices-d "rajtark Aktualizacija">
 <!ENTITY rights.webservices-e "a znjemóžnjenje nastajenjow za &quot;Awtomatisce za aktualizacijemi pytać za&quot;.">
