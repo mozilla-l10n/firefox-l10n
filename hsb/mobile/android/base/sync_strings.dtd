@@ -223,7 +223,7 @@
 <!ENTITY fxaccount_status_linktos "Słužbne wuměnjenja">
 <!ENTITY fxaccount_status_linkprivacy "Zdźělenka priwatnosće">
 <!ENTITY fxaccount_status_more "Wjace&ellipsis;">
-
+<!ENTITY fxaccount_remove_account "Zwisk dźělić&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title "Konto Firefox wotstronić?">
 <!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; přesta waše konto synchronizować, ale njezhaša waše přehladowanske daty na tutym graće.">
