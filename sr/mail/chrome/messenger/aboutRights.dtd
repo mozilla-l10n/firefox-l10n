@@ -2,6 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
+<!ENTITY rights.locale-direction "ltr">
+<!ENTITY rights.title            "О вашим правима">
+<!ENTITY rights.intro-header     "О вашим правима">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
@@ -11,22 +14,35 @@
 
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
+<!ENTITY rights.intro-point1b "Mozilla јавне лиценце">
 
+<!ENTITY rights.intro-point2b "овде">
+<!ENTITY rights.intro-point2c ".">
 
 <!-- point 3 text for official branded builds -->
+<!ENTITY rights.intro-point3b "овде">
+<!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
 
 <!-- point 4 text for official branded builds -->
+<!ENTITY rights.intro-point4b "условима услуге">
+<!ENTITY rights.intro-point4c ".">
 
 <!-- point 4 text for unbranded builds -->
+<!ENTITY rights.intro-point4b-unbranded "Веб сајт услуга">
+<!ENTITY rights.intro-point4c-unbranded " одељку.">
 
+<!ENTITY rights.webservices-header "&brandFullName; Веб сајт услуга">
 
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
+<!ENTITY rights.webservices-b "Напредно">
+<!ENTITY rights.webservices-c " одељак, па онда ">
+<!ENTITY rights.webservices-d "Ажурирање">
 
 <!-- intro paragraph for unbranded builds -->
 

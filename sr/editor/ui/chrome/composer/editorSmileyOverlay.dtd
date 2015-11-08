@@ -54,4 +54,5 @@
 <!ENTITY smiley16Cmd.label "Lips-are-Sealed">
 <!ENTITY smiley16Cmd.accesskey "т">
 <!ENTITY smiley16Cmd.tooltip "Insert a lips-are-sealed face">
+<!ENTITY SmileButton.tooltip "Insert a smiley face">
 

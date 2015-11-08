@@ -3,5 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
+<!ENTITY Settings.label "Подешавања">
+<!ENTITY Settings.accesskey "П">
 
+<!ENTITY EditLabelText.label "Текст уређивања:">
+<!ENTITY EditLabelText.accesskey "Т">
+<!ENTITY LabelFor.label "За контролу:">
+<!ENTITY LabelFor.accesskey "З">
+<!ENTITY AccessKey.label "Приступни кључ:">
+<!ENTITY AccessKey.accesskey "к">
 

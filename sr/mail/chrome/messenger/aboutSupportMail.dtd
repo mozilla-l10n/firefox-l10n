@@ -3,4 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
+<!ENTITY aboutSupport.accountsTitle "Налози поште и новости">
+<!ENTITY aboutSupport.showPrivateData.mainText "Укључи имена налога">
+<!ENTITY aboutSupport.showPrivateData.explanationText "(може одати ваше личне податке)">
+<!ENTITY aboutSupport.accountsName "Назив">
+<!ENTITY aboutSupport.accountsIncomingServer "Долазни сервер">
+<!ENTITY aboutSupport.accountsOutgoingServers "Одлазни сервер">
+<!ENTITY aboutSupport.accountsServerName "Назив">
+<!ENTITY aboutSupport.accountsConnSecurity "Безбедност везе">
+<!ENTITY aboutSupport.accountsAuthMethod "Начин пријаве">
+<!ENTITY aboutSupport.accountsDefault "Подразумевани?">
+<!ENTITY aboutSupport.identityName "Идентитет">
 
