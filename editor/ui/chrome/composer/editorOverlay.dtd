@@ -62,6 +62,12 @@
 <!ENTITY fontFixedWidth.label "Утврђене ширине">
 <!ENTITY fontFixedWidth.accesskey "в">
 <!ENTITY fontFixedWidth.key "T">
+<!ENTITY fontHelvetica.label "Helvetica, Arial">
+<!ENTITY fontHelvetica.accesskey "л">
+<!ENTITY fontTimes.label "Times">
+<!ENTITY fontTimes.accesskey "Т">
+<!ENTITY fontCourier.label "Courier">
+<!ENTITY fontCourier.accesskey "К">
 
 <!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.tooltip "Изабери величину фонта">
