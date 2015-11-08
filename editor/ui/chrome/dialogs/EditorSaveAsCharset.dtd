@@ -7,6 +7,11 @@
 <!-- This button is for the progressive disclosure of additional editing functionality -->
 
 <!-- These strings are for use specifically in the editor's link dialog. -->
+<!ENTITY windowTitle2.label "Сачувај и промени кодирање текста">
+<!ENTITY documentTitleTitle.label "Наслов странице">
+<!ENTITY documentCharsetTitle2.label "Кодирање текста">
+<!ENTITY documentCharsetDesc2.label "Изаберите које кодирање желите да користите за документ:">
+<!ENTITY documentExportToText.label "Извези у текст">
 
 
 

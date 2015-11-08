@@ -3,5 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Window title -->
+<!ENTITY siteUrl.label         "URL места:">
 
+<!ENTITY status.label          "Објава у току…">
+<!ENTITY fileList.label        "Стање објављивања">
+<!ENTITY succeeded.label       "Успешно">
+<!ENTITY failed.label          "Неуспешно">
 
+<!ENTITY keepOpen              "Остави овај прозор отвореним након што се објављивање заврши.">
+<!ENTITY closeButton.label     "Затвори">
