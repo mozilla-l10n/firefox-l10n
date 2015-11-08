@@ -189,6 +189,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "اطبع">
 <!ENTITY printButton.tooltip          "اطبع هذه الصفحة">
 
+<!ENTITY urlbar.viewSiteInfo.label                      "اعرض معلومات الموقع">
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
@@ -252,8 +253,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.commandkey            "A">
 <!ENTITY webapps.label                "التطبيقات">
 <!ENTITY webapps.accesskey            "ط">
-
-
+<!ENTITY loopMenuItem.label           "ابدأ محادثة…">
+<!ENTITY loopMenuItem.accesskey       "ب">
 
 <!ENTITY webDeveloperMenu.label       "مطوّري الوب">
 <!ENTITY webDeveloperMenu.accesskey   "و">
@@ -331,8 +332,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "ملف"> 
 <!ENTITY fileMenu.accesskey       "م">
-
-
+<!ENTITY newUserContext.label             "لسان حاوٍ جديد">
+<!ENTITY newUserContext.accesskey         "ح">
 
 
 
