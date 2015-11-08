@@ -10,8 +10,8 @@
      surround the host name of the site to make the header for the permissions page.
      example: "Permissions for mozilla.org" -->
 
-<!ENTITY header.site.start               "İcazələr:">
-<!ENTITY header.site.end                 "">
+<!ENTITY header.site.start               "Permissions for">
+<!ENTITY header.site.end                 "icazələri">
 
 <!ENTITY header.defaults                 "Bütün saytlar üçün hazırkı standart icazələr">
 
