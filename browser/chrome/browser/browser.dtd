@@ -147,7 +147,7 @@
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Revisar si desea guardar su contraseña">
 <!ENTITY urlbar.webappsNotificationAnchor.label         "Ver el mensaje de instalación de la app">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Administrar uso de complementos en esta página">
-<!ENTITY urlbar.webNotsNotificationAnchor.label         "Cambiar si este sitio puede mostrar notificaciones o no">
+<!ENTITY urlbar.webNotsNotificationAnchor2.label        "Cambiar si el sitio puede recibir notificaciones o no">
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Administrar el compartir la cámara y/o micrófono con el sitio">
 <!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Está compartiendo su cámara y/o micrófono con el sitio">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Administrar el compartir su micrófono con el sitio">
@@ -659,15 +659,6 @@
 <!ENTITY panicButton.thankyou.msg1                "Tu historial reciente ha sido limpiado.">
 <!ENTITY panicButton.thankyou.msg2                "¡Navega seguro!">
 <!ENTITY panicButton.thankyou.buttonlabel         "¡Gracias!">
-
-<!ENTITY processHang.terminateScript.label        "Detener Script">
-<!ENTITY processHang.terminateScript.accessKey    "S">
-<!ENTITY processHang.debugScript.label            "Depurar Script">
-<!ENTITY processHang.debugScript.accessKey        "D">
-<!ENTITY processHang.terminatePlugin.label        "Detener complemento">
-<!ENTITY processHang.terminatePlugin.accessKey    "P">
-<!ENTITY processHang.terminateProcess.label       "Detener proceso web">
-<!ENTITY processHang.terminateProcess.accessKey   "K">
 
 <!ENTITY emeLearnMoreContextMenu.label            "Aprender más acerca de DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
