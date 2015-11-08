@@ -3,5 +3,55 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Smiley Menu items -->
+<!ENTITY insertSmiley.label "Smiley">
+<!ENTITY insertSmiley.accesskey "С">
 
+<!ENTITY smiley1Cmd.label "Smiley">
+<!ENTITY smiley1Cmd.accesskey "С">
+<!ENTITY smiley1Cmd.tooltip "Insert a smiley face">
+<!ENTITY smiley2Cmd.label "Frown">
+<!ENTITY smiley2Cmd.accesskey "М">
+<!ENTITY smiley2Cmd.tooltip "Insert a frown face">
+<!ENTITY smiley3Cmd.label "Wink">
+<!ENTITY smiley3Cmd.accesskey "Н">
+<!ENTITY smiley3Cmd.tooltip "Insert a wink face">
+<!ENTITY smiley4Cmd.label "Tongue-out">
+<!ENTITY smiley4Cmd.accesskey "П">
+<!ENTITY smiley4Cmd.tooltip "Insert a tongue-out face">
+<!ENTITY smiley5Cmd.label "Laughing">
+<!ENTITY smiley5Cmd.accesskey "е">
+<!ENTITY smiley5Cmd.tooltip "Insert a laughing face">
+<!ENTITY smiley6Cmd.label "Embarrassed">
+<!ENTITY smiley6Cmd.accesskey "о">
+<!ENTITY smiley6Cmd.tooltip "Insert an embarrassed face">
+<!ENTITY smiley7Cmd.label "Undecided">
+<!ENTITY smiley7Cmd.accesskey "у">
+<!ENTITY smiley7Cmd.tooltip "Insert an undecided face">
+<!ENTITY smiley8Cmd.label "Surprise">
+<!ENTITY smiley8Cmd.accesskey "з">
+<!ENTITY smiley8Cmd.tooltip "Insert a surprised face">
+<!ENTITY smiley9Cmd.label "Kiss">
+<!ENTITY smiley9Cmd.accesskey "б">
+<!ENTITY smiley9Cmd.tooltip "Insert a kiss face">
+<!ENTITY smiley10Cmd.label "Yell">
+<!ENTITY smiley10Cmd.accesskey "В">
+<!ENTITY smiley10Cmd.tooltip "Insert a yelling face">
+<!ENTITY smiley11Cmd.label "Cool">
+<!ENTITY smiley11Cmd.accesskey "К">
+<!ENTITY smiley11Cmd.tooltip "Insert a cool face">
+<!ENTITY smiley12Cmd.label "Money-Mouth">
+<!ENTITY smiley12Cmd.accesskey "т">
+<!ENTITY smiley12Cmd.tooltip "Insert a money-mouth face">
+<!ENTITY smiley13Cmd.label "Foot-in-Mouth">
+<!ENTITY smiley13Cmd.accesskey "т">
+<!ENTITY smiley13Cmd.tooltip "Insert a foot-in-mouth face">
+<!ENTITY smiley14Cmd.label "Innocent">
+<!ENTITY smiley14Cmd.accesskey "и">
+<!ENTITY smiley14Cmd.tooltip "Insert an innocent face">
+<!ENTITY smiley15Cmd.label "Cry">
+<!ENTITY smiley15Cmd.accesskey "а">
+<!ENTITY smiley15Cmd.tooltip "Insert a crying face">
+<!ENTITY smiley16Cmd.label "Lips-are-Sealed">
+<!ENTITY smiley16Cmd.accesskey "т">
+<!ENTITY smiley16Cmd.tooltip "Insert a lips-are-sealed face">
 
