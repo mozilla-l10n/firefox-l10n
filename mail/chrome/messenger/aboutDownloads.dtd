@@ -17,8 +17,8 @@
 <!ENTITY cmd.open.accesskey                        "А">
 <!ENTITY cmd.removeFromHistory.label               "Тізімнен өшіру">
 <!ENTITY cmd.removeFromHistory.accesskey           "ш">
-
-
-
-
-
+<!ENTITY cmd.clearList.label                       "Тізімді тазарту">
+<!ENTITY cmd.clearList.accesskey                   "м">
+<!ENTITY cmd.clearList.tooltip                     "Жүріп жатқан жүктемелерден басқа сақталған файлдар тізімінен барлығын тазарту.">
+<!ENTITY cmd.searchDownloads.label                 "Іздеу…">
+<!ENTITY cmd.searchDownloads.key                   "з">

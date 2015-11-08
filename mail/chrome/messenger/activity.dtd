@@ -25,12 +25,13 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.removeFromList.label         "Тізімнен өшіру">
 <!ENTITY cmd.removeFromList.accesskey     "ш">
 
-
-
+<!ENTITY cmd.close.commandkey             "w">
+<!ENTITY cmd.close2.commandkey            "j">
+<!ENTITY cmd.close2Unix.commandkey        "y">
 <!ENTITY cmd.clearList.label              "Тізімді тазарту">
 <!ENTITY cmd.clearList.tooltip            "Тізімнен аяқталған, бас тартылған және сәтсіз нәрселерді өшіру">
 <!ENTITY cmd.clearList.accesskey          "м">
-
-
+<!ENTITY cmd.find.commandkey              "f">
+<!ENTITY cmd.search.commandkey            "k">
 
 <!ENTITY searchBox.label                  "Іздеу…">

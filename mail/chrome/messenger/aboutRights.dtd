@@ -19,6 +19,7 @@
 <!ENTITY rights.intro-point1b "Mozilla MPL лицензиясы бойынша ұсынылады">
 <!ENTITY rights.intro-point1c ". Демек, сіздің &brandShortName; қолдану, көшіру және таратуға толық құқығыңыз бар.  Оның үстіне қажетіңізге қарай &brandShortName; бастапқы кодын түзете аласыз. Mozilla MPL өзіңіздің түзетулеріңіз бар жинақтарды таратуға да рұқсат береді.">
 
+<!ENTITY rights.intro-point2a "Mozilla ұйымы сізге Mozilla және Thunderbird сауда белгілеріне не логотиптеріне құқықты бермейді. Сауда белгілері жөнінде қосымша ақпараты ">
 <!ENTITY rights.intro-point2b "осында">
 <!ENTITY rights.intro-point2c ".">
 <!-- point 3 text for official branded builds -->
