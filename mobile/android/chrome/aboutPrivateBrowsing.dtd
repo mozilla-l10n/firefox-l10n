@@ -8,7 +8,7 @@
                         So the final line will say "Private Browsing + Tracking Protection". -->
 <!ENTITY privatebrowsingpage.title.private "+ protection contre le pistage">
 <!ENTITY privatebrowsingpage.title.normal1 "Vous n'êtes pas en mode de navigation privée">
-<!ENTITY privatebrowsingpage.description.private4 "&brandShortName; vous empêchera d'être pisté et ne conservera aucun historique, cependant les fichiers téléchargés et les marque-pages ajoutés seront toujours enregistrés sur votre appareil.">
+<!ENTITY privatebrowsingpage.description.private4 "&brandShortName; bloque certaines parties des pages qui peuvent pister votre activité en ligne.<br/><br/>Nous ne conserverons aucun historique, cependant les fichiers téléchargés et les marque-pages ajoutés seront toujours enregistrés sur votre appareil.">
 <!ENTITY privatebrowsingpage.description.normal2 "En mode de navigation privée, nous ne conserverons aucun historique de navigation ni aucun cookie. Les fichiers téléchargés et les marque-pages ajoutés seront toujours enregistrés sur votre appareil.">
 
 <!ENTITY privatebrowsingpage.link.private "En savoir plus">
