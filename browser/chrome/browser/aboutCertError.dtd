@@ -13,6 +13,8 @@ by NSS/PSM via netError.xhtml. -->
 <!ENTITY certerror.longpagetitle "Sambungan ini tidak dipercayai">
 <!-- These are going to be used for the updated design in Bug 1207107 -->
 
+<!ENTITY certerror.pagetitle1  "Didalam Sambungan selamat">
+<!ENTITY certerror.longpagetitle1 "Sambungan anda tidak selamat">
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -26,9 +28,9 @@ was trying to connect. -->
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-
-
-
+<!ENTITY certerror.returnToPreviousPage.label "Kembali">
+<!ENTITY certerror.learnMore "Ketahui lagi...">
+<!ENTITY certerror.advanced.label "Lanjutan">
 
 <!ENTITY certerror.whatShouldIDo.heading "Apa perlu saya buat?">
 <!ENTITY certerror.whatShouldIDo.content "Jika anda selalu sambung ke 
