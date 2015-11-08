@@ -3,87 +3,116 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 <!-- File menu items -->
+
+
+<!ENTITY saveCmd.key "S">
 <!-- Edit menu items -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY pasteNoFormatting.label "Formalamasdan qo‘yish">
+<!ENTITY pasteNoFormatting.accesskey "F">
+<!ENTITY pasteNoFormatting.key "V">
+<!ENTITY pasteAs.label "Qo‘yish">
+<!ENTITY pasteAs.accesskey "Q">
+<!ENTITY pasteAsQuotationCmd.label "Iqtibos sifatida qo‘yish">
+<!ENTITY pasteAsQuotationCmd.accesskey "q">
+<!ENTITY pasteAsQuotationCmd.key "o">
+<!ENTITY findBarCmd.label "Topish…">
+<!ENTITY findReplaceCmd.label "Topish va almashtirish…">
+<!ENTITY enableInlineSpellChecker.label "Yozayotganda imloni tekshirish">
+<!ENTITY enableInlineSpellChecker.accesskey "i">
+<!ENTITY checkSpellingCmd2.label "Imloni tekshirish…">
+<!ENTITY checkSpellingCmd2.accesskey "t">
+<!ENTITY checkSpellingCmd2.key "p">
 <!-- Insert menu items -->
 
+<!ENTITY insertMenu.label "Kiritish">
+<!ENTITY insertMenu.accesskey "K">
+<!ENTITY insertLinkCmd.label "Havola…">
+<!ENTITY insertLinkCmd.accesskey "H">
+<!ENTITY insertLinkCmd.key "L">
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY insertImageCmd.label "Rasm…">
+<!ENTITY insertImageCmd.accesskey "R">
+<!ENTITY insertHLineCmd.label "Gorizontal chiziq">
+<!ENTITY insertHLineCmd.accesskey "o">
+<!ENTITY insertTableCmd.label "Jadval…">
+<!ENTITY insertTableCmd.accesskey "J">
+<!ENTITY insertHTMLCmd.label "HTML…">
+<!ENTITY insertHTMLCmd.accesskey "H">
+<!ENTITY insertMathCmd.label "Matematika…">
+<!ENTITY insertMathCmd.accesskey "M">
+<!ENTITY insertCharsCmd.label "Harflar va belgilar…">
+<!ENTITY insertCharsCmd.accesskey "H">
 
 
 <!-- Used just in context popup. -->
 
-
-
+<!ENTITY createLinkCmd.label "Havola yaratish…">
+<!ENTITY createLinkCmd.accesskey "H">
+<!ENTITY editLinkCmd.label "Yangi Composer’da havolani tahrirlash">
+<!ENTITY editLinkCmd.accesskey "t">
 <!-- Font Face SubMenu -->
 
+<!ENTITY FontFaceSelect.tooltip "Shriftni tanlash">
+<!ENTITY fontfaceMenu.label "Shrift">
+<!ENTITY fontfaceMenu.accesskey "S">
+<!ENTITY fontVarWidth.label "O‘zgaruvchi eni">
+<!ENTITY fontVarWidth.accesskey "O">
 
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY fontFixedWidth.key "T">
+<!ENTITY fontHelvetica.label "Helvetica, Arial">
+<!ENTITY fontHelvetica.accesskey "l">
+<!ENTITY fontTimes.label "Times">
+<!ENTITY fontTimes.accesskey "T">
+<!ENTITY fontCourier.label "Courier">
+<!ENTITY fontCourier.accesskey "C">
 <!-- Font Size SubMenu -->
-
-
-
+<!ENTITY decreaseFontSize.label "Kichikroq">
+<!ENTITY decreaseFontSize.accesskey "K">
+<!ENTITY decrementFontSize.key "&lt;">
 <!-- < is above this key on many keyboards -->
-
-
-
+<!ENTITY decrementFontSize.key2 ","> 
+<!ENTITY increaseFontSize.label "Kattaroq">
+<!ENTITY increaseFontSize.accesskey "r">
+<!ENTITY incrementFontSize.key "&gt;">
 <!-- > is above this key on many keyboards -->
+<!ENTITY incrementFontSize.key2 "."> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY fontSizeMenu.label "Hajmi">
+<!ENTITY fontSizeMenu.accesskey "j">
+<!ENTITY size-xx-smallCmd.label "xx-kichik">
+<!ENTITY size-xx-smallCmd.accesskey "c">
+<!ENTITY size-x-smallCmd.label "x-kichik">
+<!ENTITY size-x-smallCmd.accesskey "c">
+<!ENTITY size-smallCmd.label "kichik">
+<!ENTITY size-smallCmd.accesskey "c">
+<!ENTITY size-mediumCmd.label "o‘rtacha">
+<!ENTITY size-mediumCmd.accesskey "o">
+<!ENTITY size-largeCmd.label "katta">
+<!ENTITY size-largeCmd.accesskey "k">
+<!ENTITY size-x-largeCmd.label "x-katta">
+<!ENTITY size-x-largeCmd.accesskey "x">
+<!ENTITY size-xx-largeCmd.label "xx-katta">
+<!ENTITY size-xx-largeCmd.accesskey "t">
 <!-- Font Style SubMenu -->
 
+<!ENTITY fontStyleMenu.label "Matn uslubi">
+<!ENTITY fontStyleMenu.accesskey "u">
+<!ENTITY styleBoldCmd.label "Qalin">
+<!ENTITY styleBoldCmd.accesskey "Q">
+<!ENTITY styleBoldCmd.key "B">
+<!ENTITY styleItalicCmd.label "Qiya">
+<!ENTITY styleItalicCmd.accesskey "i">
+<!ENTITY styleItalicCmd.key "I">
+<!ENTITY styleUnderlineCmd.label "Tagiga chizish">
+<!ENTITY styleUnderlineCmd.accesskey "T">
+<!ENTITY styleUnderlineCmd.key "U">
+
+
+<!ENTITY styleSuperscriptCmd.label "Superscript">
+<!ENTITY styleSuperscriptCmd.accesskey "p">
 
 
 
@@ -94,6 +123,8 @@
 
 
 
+<!ENTITY styleAbbr.label "Qisqartma">
+<!ENTITY styleAbbr.accesskey "Q">
 
 
 
@@ -104,25 +135,11 @@
 
 
 
+<!ENTITY tableOrCellColor.label "Katak yoki jadval orqa foni…">
+<!ENTITY tableOrCellColor.accesskey "o">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY formatRemoveStyles.key "Y">
+<!ENTITY formatRemoveLinks.key "K">
 
 
 

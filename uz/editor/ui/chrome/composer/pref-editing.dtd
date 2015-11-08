@@ -19,13 +19,14 @@
 <!ENTITY linkText.accesskey         "H">
 <!ENTITY activeLinkText.label       "Faol havola matni">
 <!ENTITY activeLinkText.accesskey   "F">
+<!ENTITY visitedLinkText.label      "Kirilgan havola matni">
+<!ENTITY visitedLinkText.accesskey  "K">
+<!ENTITY background.label           "Orqa fon:">
+<!ENTITY background.accesskey       "O">
+<!ENTITY colon.character            ":">
 
-
-
-
-
-
-
-
-
+<!ENTITY backgroundImage.label      "Orqa fon rasmi:">
+<!ENTITY backgroundImage.accesskey  "r">
+<!ENTITY chooseFile.label           "Faylni tanlash…">
+<!ENTITY chooseFile.accesskey       "t">
 

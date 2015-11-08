@@ -3,33 +3,36 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Smiley Menu items -->
 
+<!ENTITY insertSmiley.label "Smayl">
+<!ENTITY insertSmiley.accesskey "S">
+
+<!ENTITY smiley1Cmd.label "Smayl">
+<!ENTITY smiley1Cmd.accesskey "S">
+<!ENTITY smiley1Cmd.tooltip "&amp;Smayl yuzini kiritish">
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY smiley4Cmd.label "Tilini chiqargan">
+<!ENTITY smiley4Cmd.accesskey "T">
+<!ENTITY smiley4Cmd.tooltip "Tilini chiqarga yuzni kiritish">
+<!ENTITY smiley5Cmd.label "Kulayotgan">
+<!ENTITY smiley5Cmd.accesskey "K">
+<!ENTITY smiley5Cmd.tooltip "Kulayotgan yuzni kiritish">
+<!ENTITY smiley6Cmd.label "Uyalgan">
+<!ENTITY smiley6Cmd.accesskey "U">
+<!ENTITY smiley6Cmd.tooltip "Uyalgan yuzni kiritish">
+<!ENTITY smiley7Cmd.label "Qaror qilmagan">
+<!ENTITY smiley7Cmd.accesskey "Q">
+<!ENTITY smiley7Cmd.tooltip "Qaror qilmagan yuzni kiritish">
+<!ENTITY smiley8Cmd.label "Ajablangan">
+<!ENTITY smiley8Cmd.accesskey "A">
+<!ENTITY smiley8Cmd.tooltip "Ajablangan yuzni kiritish">
+<!ENTITY smiley9Cmd.label "Bo‘sa">
+<!ENTITY smiley9Cmd.accesskey "B">
+<!ENTITY smiley9Cmd.tooltip "Bo‘sali yuzni kiritish">
 
 
 
