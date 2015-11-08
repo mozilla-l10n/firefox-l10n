@@ -98,6 +98,11 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY mobilePromo2.start            "Mobil cihazınıza sinxronlayın. ">
 <!-- LOCALIZATION NOTE (mobilePromo2.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+<!ENTITY mobilePromo2.androidLink      "Android üçün Firefox">
 <!-- LOCALIZATION NOTE (mobilePromo2.iOSBefore): This is text displayed between mobilePromo2.androidLink and mobilePromo2.iosLink -->
-<!-- LOCALIZATION NOTE (mobilePromo2.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
 
+<!ENTITY mobilePromo2.iOSBefore         " və ya ">
+<!-- LOCALIZATION NOTE (mobilePromo2.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
+<!ENTITY mobilePromo2.iOSLink          "iOS üçün Firefox">
+
+<!ENTITY mobilePromo2.end              " endirin.">

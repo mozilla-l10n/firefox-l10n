@@ -108,11 +108,13 @@
 <!-- LOCALIZATION NOTE (debuggerUI.searchFunction): This is the text that appears
   -  in the source editor's context menu for the function search operation. -->
 
+<!ENTITY debuggerUI.searchFunction           "Funksiya təyini axtar">
+
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchToken): This is the text that appears
   -  in the source editor's context menu for the token search operation. -->
 
-<!ENTITY debuggerUI.searchToken           "Axtar">
+<!ENTITY debuggerUI.searchToken           "Tap">
 
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchLine): This is the text that appears
