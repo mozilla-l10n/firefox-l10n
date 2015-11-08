@@ -2,5 +2,30 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY serverAdvanced.label "Напредна подешавања налога">
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
+<!ENTITY serverDirectory.label "Серверска IMAP фасцикла:">
+<!ENTITY serverDirectory.accesskey "р">
+<!ENTITY usingSubscription.label "Прикажи само претплаћене фасцикле">
+<!ENTITY usingSubscription.accesskey "к">
+<!ENTITY dualUseFolders.accesskey "ф">
+<!ENTITY useIdle.label "Користи наредбу IDLE уколико је сервер подржава">
+<!ENTITY useIdle.accesskey "I">
+<!ENTITY maximumConnectionsNumber.label "Највећи број серверских веза које треба кеширати">
+<!ENTITY maximumConnectionsNumber.accesskey "Н">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
+<!ENTITY namespaceDesc.label "Ове поставке описују именске просторе на вашем IMAP серверу">
+<!ENTITY personalNamespace.label "Лични именски простор:">
+<!ENTITY personalNamespace.accesskey "Л">
+<!ENTITY publicNamespace.label "Јавни (дељени):">
+<!ENTITY publicNamespace.accesskey "а">
+<!ENTITY otherUsersNamespace.label "Други корисници:">
+<!ENTITY otherUsersNamespace.accesskey "Д">
+<!ENTITY overrideNamespaces.label "Дозволи серверу да премости ове именске просторе">
+<!ENTITY overrideNamespaces.accesskey "о">
+<!ENTITY accountDirectory.label "Долазно сандуче налога овог сервера">
+<!ENTITY accountDirectory.accesskey "з">
+<!ENTITY deferToServer.label "Долазно сандуче другог налога">
+<!ENTITY deferToServer.accesskey "Д">
+<!ENTITY deferGetNewMail.label "Укључи овај сервер приликом преузимања нове поште">
+<!ENTITY deferGetNewMail.accesskey "У">

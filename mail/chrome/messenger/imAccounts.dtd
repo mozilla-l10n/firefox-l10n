@@ -2,5 +2,29 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY accountsWindow2.style               "width: 41em; height: 27em;">
+<!ENTITY accountManager.newAccount.label     "Нов налог">
+<!ENTITY accountManager.newAccount.accesskey "Н">
+<!ENTITY accountManager.close.label          "Затвори">
+<!ENTITY accountManager.close.accesskey      "т">
 <!-- This should match account.commandkey in instantbird.dtd -->
+<!ENTITY accountManager.close.commandkey     "a">
 <!-- This title must be short, displayed with a big font size -->
+<!ENTITY accountManager.noAccount.title      "Нема ниједног подешеног налога још">
+<!ENTITY account.autoSignOn.label     "Пријави ме при покретању">
+<!ENTITY account.autoSignOn.accesskey "П">
+<!ENTITY account.connect.label        "Повежи се">
+<!ENTITY account.connect.accesskey    "о">
+<!ENTITY account.disconnect.label     "Прекини везу">
+<!ENTITY account.disconnect.accesskey "и">
+<!ENTITY account.edit.label           "Својства">
+<!ENTITY account.edit.accesskey       "С">
+<!ENTITY account.moveup.label         "Помери горе">
+<!ENTITY account.movedown.label       "Помери доле">
+<!ENTITY account.cancelReconnection.label         "Откажи поновно повезивање">
+<!ENTITY account.cancelReconnection.accesskey     "а">
+<!ENTITY account.copyDebugLog.label     "Умножи записник са грешкама">
+<!ENTITY account.copyDebugLog.accesskey "У">
+<!ENTITY account.connecting           "Повезујем се…">
+<!ENTITY account.disconnecting        "Прекидам везу…">
+<!ENTITY account.disconnected         "Нисам повезан">

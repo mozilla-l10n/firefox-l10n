@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Title -->
+<!ENTITY mailListWindow.title           "Дописна листа">
 <!-- Labels -->
 <!ENTITY addToAddressBook.label         "Додај на: ">
 
@@ -10,6 +11,7 @@
 <!ENTITY ListNickName.label             "Надимак листе: ">
 <!ENTITY ListDescription.label          "Опис: ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
+<!ENTITY AddressTitle.label             "Унесите е-адресе да бисте их додали на дописну листу:">
 <!ENTITY UpButton.label                 "Помери горе">
 <!ENTITY DownButton.label               "Помери доле">
 

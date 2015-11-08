@@ -5,3 +5,10 @@
 <!-- LOCALIZATION NOTE (window.title) : do not translate "LDAP" in below line -->
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!-- LOCALIZATION NOTE (directoriesText.label) : do not translate "LDAP" in below line -->
+<!ENTITY directoriesText.accesskey "з">
+<!ENTITY addDirectory.label        "Додај">
+<!ENTITY addDirectory.accesskey    "а">
+<!ENTITY editDirectory.label       "Уреди">
+<!ENTITY editDirectory.accesskey   "е">
+<!ENTITY deleteDirectory.label     "Обриши">
+<!ENTITY deleteDirectory.accesskey "б">

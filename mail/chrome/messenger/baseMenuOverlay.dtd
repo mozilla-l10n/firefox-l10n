@@ -3,6 +3,24 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Help Menu -->
+<!ENTITY helpMenu.label "Помоћ">
+<!ENTITY helpMenu.accesskey "П">
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
                        for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label "Помоћ">
+<!ENTITY helpMenuWin.accesskey "П">
+<!ENTITY helpTroubleshootingInfo.label     "Подаци о решавању проблема">
+<!ENTITY helpTroubleshootingInfo.accesskey "р">
+<!ENTITY releaseCmd2.label "Белешке о издању">
+<!ENTITY releaseCmd2.accesskey "Б">
+<!ENTITY whatsNewCmd.label "Шта је ново">
+<!ENTITY whatsNewCmd.accesskey "т">
+<!ENTITY openHelp.label "Садржај помоћи">
+<!ENTITY openHelp.accesskey "С">
+<!ENTITY openHelp.commandkey "VK_F1">
+<!ENTITY openHelpMac.label "Помоћ за &brandShortName;">
+<!ENTITY openHelpMac2.commandkey   "?">
+<!ENTITY openHelpMac2.modifiers    "accel">
 
+<!ENTITY aboutMenuCmd.label "О програму &brandShortName;">
+<!ENTITY aboutMenuCmd.accesskey "О">

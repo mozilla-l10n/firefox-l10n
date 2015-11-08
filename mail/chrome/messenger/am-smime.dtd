@@ -2,4 +2,31 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY securityTitle.label "Безбедност">
+<!ENTITY securityTab.label "Безбедност">
+<!ENTITY securityHeading.label "Да бисте примали и слали потписане или шифроване поруке, морате навести дигитални сертификат за потписивање и сертификат шифровања.">
+<!ENTITY encryptionGroupTitle.label "Шифровање">
+<!ENTITY encryptionChoiceLabel.label "Подразумевано подешавање шифровања приликом слања порука:">
+<!ENTITY neverEncrypt.label "Никада (немој користити шифровање)">
+<!ENTITY neverEncrypt.accesskey "Н">
+<!ENTITY alwaysEncryptMessage.label "Обавезно (порука се може послати само ако сви примаоци имају сертификате)">
+<!ENTITY alwaysEncryptMessage.accesskey "з">
+<!ENTITY encryptionCert.message "Користи овај сертификат да шифрујеш и дешифрујеш поруке које примим:">
+<!ENTITY digitalSign.certificate.button "Изабери…">
+<!ENTITY digitalSign.certificate.accesskey "И">
+<!ENTITY digitalSign.certificate_clear.button "Очисти">
+<!ENTITY digitalSign.certificate_clear.accesskey "О">
+<!ENTITY encryption.certificate.button "Изабери…">
+<!ENTITY encryption.certificate.accesskey "б">
+<!ENTITY encryption.certificate_clear.button "Очисти">
+<!ENTITY encryption.certificate_clear.accesskey "т">
+<!ENTITY signingGroupTitle.label "Дигитално потписивање">
+<!ENTITY signMessage.label "Дигитално потпиши поруке (подразумевано)">
+<!ENTITY signMessage.accesskey "Д">
+<!ENTITY signingCert.message "Користи овај сертификат за дигитално потписивање порука које шаљем:">
 
+<!ENTITY certificates.label "Сертификати">
+<!ENTITY manageCerts.label "Погледај сертификате">
+<!ENTITY manageCerts.accesskey "л">
+<!ENTITY manageDevices.label "Безбедносни уређаји">
+<!ENTITY manageDevices.accesskey "ј">
