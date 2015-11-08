@@ -5,6 +5,7 @@
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.title            "О вашим правима">
 <!ENTITY rights.intro-header     "О вашим правима">
+<!ENTITY rights.intro "&brandFullName; је бесплатан и отворен софтвер, кога је изградила заједница хиљада људи широм света. Ево неколико ствари које би требало да знате:">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
@@ -14,22 +15,29 @@
 
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
+<!ENTITY rights.intro-point1a "&brandShortName; вам је дат на коришћење под условима ">
 <!ENTITY rights.intro-point1b "Mozilla јавне лиценце">
+<!ENTITY rights.intro-point1c ". То значи да можете да користите, копирате и даље делите програм &brandShortName; другима.  Такође можете слободно да мењате изворни код програма &brandShortName; онако како одговара вашим потребама. Mozilla јавна лиценца такође даје право да делите измењено издање.">
 
+<!ENTITY rights.intro-point2a "Mozilla вам не даје никаква права на Mozilla или Thunderbird робне марке или логотипе. Додатне податке о робним маркама можете видети на ">
 <!ENTITY rights.intro-point2b "овде">
 <!ENTITY rights.intro-point2c ".">
 
 <!-- point 3 text for official branded builds -->
+<!ENTITY rights.intro-point3a "Политике приватности за &vendorShortName; производе се могу видети на ">
 <!ENTITY rights.intro-point3b "овде">
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
+<!ENTITY rights.intro-point3-unbranded "Све полисе приватности које се могу применити на овај производ би се требало приказати овде.">
 
 <!-- point 4 text for official branded builds -->
+<!ENTITY rights.intro-point4a "&brandShortName; такође нуди изборне услуге као што су услуга ажурирања додатака. Ипак, ми не можемо гарантовати да су оне 100&#37; тачне или без грешака. За више детаља, укључујући информације о начину искључивања ових услуга, можете наћи у ">
 <!ENTITY rights.intro-point4b "условима услуге">
 <!ENTITY rights.intro-point4c ".">
 
 <!-- point 4 text for unbranded builds -->
+<!ENTITY rights.intro-point4a-unbranded "Овај производ садржи веб услуге, сви услови услуге који се могу применти за услугу/е би требало бити повезани на ">
 <!ENTITY rights.intro-point4b-unbranded "Веб сајт услуга">
 <!ENTITY rights.intro-point4c-unbranded " одељку.">
 
@@ -40,12 +48,21 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
+<!ENTITY rights.webservices-a "&brandFullName; нуди изборне услуге (&quot;Услуге&quot;), као што су услуга ажурирања додатака, која је доступна вама за употребу уз бинарно издање &brandShortName; као што је описано испод. Уколико не желите да користите Услуге или ако су вам услови набројани испод неприхватљиви, можете искључити услугу ажурирања додатака тако што ћете отворити поставке програма, изабрати ">
 <!ENTITY rights.webservices-b "Напредно">
 <!ENTITY rights.webservices-c " одељак, па онда ">
 <!ENTITY rights.webservices-d "Ажурирање">
+<!ENTITY rights.webservices-e " језичак, и онда дештиклирајте опције за &quot;Аутоматски провери ажурирања&quot;.">
 
 <!-- intro paragraph for unbranded builds -->
+<!ENTITY rights.webservices-unbranded "Преглед веб сајта услуга који производ садржи, уз упуте за онемогућавање, ако је примењиво, треба укључити овде.">
 
 <!-- point 1 text for unbranded builds -->
+<!ENTITY rights.webservices-term1-unbranded "Сваки примењиви услови услуге за овај производ треба бити приказани овде.">
 
 <!-- points 1-7 text for branded builds -->
+<!ENTITY rights.webservices-term1 "&vendorShortName; задржава право да укине или измени услуге по свом нахођењу.">
+<!ENTITY rights.webservices-term2 "Позивамо вас да користите ове услуге са пратећом верзијом производа &brandShortName;, и имате сва права да то урадите.  &vendorShortName; и његови носиоци лиценце задржавају сва остала права у Услугама.  Ови услови нису намењени да ограничавају икаква права дата под лиценцама отвореног кода примењених у &brandShortName;-у и његовим одговарајућим издањима са изворним кодом производа &brandShortName;.">
+<!ENTITY rights.webservices-term4 "Осим у законом прописаним случајевима, &vendorShortName;, доприносиоци, даваоци лиценци и дистрибутери неће бити одговорни ни за какву индиректну, посебну, последичну, случајну, или примерну штету која настане као последица или у било каквој другој вези са употребом програма &brandShortName; и услуга.  Укупна одговорност под овим условима неће премашити $500 (пет стотина америчких долара). Нека надлежност не дозвољава изузеће или ограничење вредности обештећења,тако да се ово ограничење одговорности можда не примењује на вас.">
+<!ENTITY rights.webservices-term5 "&vendorShortName; може да допуни ове услове по потреби, с времена на време. Услови се не могу мењати или отказати без писменог одобрења које даје &vendorShortName;.">
+<!ENTITY rights.webservices-term6 "Ови услови су начињени према државним законима америчке државе Калифорније, осим у случајевима сукоба прописа. Ако је иједан део ових услова неважећи, остатак остаје пуноважан. У случају неслагања преведеног издања ових услова са енглеским оригиналом, енглески оригинал ће бити пуноважан.">

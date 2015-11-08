@@ -3,7 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Window title -->
-<!ENTITY siteUrl.label         "URL места:">
+<!ENTITY siteUrl.label         "Адреса сајта:">
+<!ENTITY docSubdir.label       "Подфасцикла странице:">
+<!ENTITY otherSubdir.label     "Подфасцикла слике:">
 
 <!ENTITY status.label          "Објава у току…">
 <!ENTITY fileList.label        "Стање објављивања">
