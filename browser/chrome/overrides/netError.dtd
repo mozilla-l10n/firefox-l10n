@@ -184,4 +184,4 @@ functionality specific to firefox. -->
 <!ENTITY weakCryptoUsed.learnMore "Més informació…">
 <!ENTITY weakCryptoAdvanced.title "Avançat">
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> utilitza una tecnologia de seguretat obsoleta i vulnerable a atacs. Un atacant podria veure fàcilment la informació que altrament pensaríeu que és segura.">
-
+<!ENTITY weakCryptoAdvanced.override "(Insegur) Intenta carregar <span class='hostname'></span> amb la seguretat obsoleta">
