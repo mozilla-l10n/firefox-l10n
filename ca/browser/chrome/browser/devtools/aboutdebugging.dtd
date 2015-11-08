@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
+<!ENTITY aboutDebugging.title                      "about:debugging">
+<!ENTITY aboutDebugging.addons                     "Complements">
+<!ENTITY aboutDebugging.addonDebugging.label       "Habilita la depuració de complements">
+<!ENTITY aboutDebugging.addonDebugging.tooltip     "En activar aquesta opció, podreu depurar complements i altres parts del chrome del navegador">
+<!ENTITY aboutDebugging.workers                    "Processos de treball">

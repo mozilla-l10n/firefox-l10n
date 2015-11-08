@@ -137,8 +137,8 @@
 <!ENTITY prefs_options_autoclosebrackets_tooltip "Insereix automàticament els parèntesis, claudàtors i claus de tancament">
 <!ENTITY prefs_options_keybindings "Assignacions de tecles">
 <!ENTITY prefs_options_keybindings_default "Per defecte">
-
-
+<!ENTITY prefs_options_autosavefiles "Desa els fitxers automàticament">
+<!ENTITY prefs_options_autosavefiles_tooltip "Desa automàticament els fitxers editats abans d'executar el projecte">
 <!-- Permissions Table -->
 
 <!ENTITY permissionstable_title "Taula de permisos">
