@@ -35,9 +35,10 @@
 <!ENTITY NickName.label                 "Бүркеншік аты:">
 <!ENTITY NickName.accesskey             "Б">
 
-
-
-
+<!ENTITY PrimaryEmail.label             "Эл. пошта:">
+<!ENTITY PrimaryEmail.accesskey         "Э">
+<!ENTITY SecondEmail.label              "Қосымша эл. пошта:">
+<!ENTITY SecondEmail.accesskey          "с">
 
 
 <!ENTITY PlainText.label                "Қалыпты мәтін">

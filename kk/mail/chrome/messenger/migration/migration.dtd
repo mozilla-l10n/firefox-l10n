@@ -5,12 +5,13 @@
 
 <!ENTITY migrationWizard.title          "Импорт шебері">
 
-
+<!ENTITY importFromWin.label            "Келесі жерден қалаулар, тіркелгі баптауларын, адрестік кітапша, сүзгілер және т.б. ақпаратты импорттау:">
+<!ENTITY importFromNonWin.label         "Келесі жерден қалаулар, тіркелгі баптауларын, адрестік кітапша, сүзгілер және т.б. ақпаратты импорттау:">
 
 <!ENTITY importFromNothing.label        "Импорт керек емес">
 <!ENTITY importFromNothing.accesskey    "к">
-
-
+<!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 немесе кейінірек шыққан">
+<!ENTITY importFromSeamonkey3.accesskey "S">
 <!ENTITY importFromOExpress.label       "Outlook Express">
 <!ENTITY importFromOExpress.accesskey   "u">
 <!ENTITY importFromOutlook.label        "Outlook">
@@ -18,6 +19,7 @@
 <!ENTITY importFromEudora.label         "Eudora">
 <!ENTITY importFromEudora.accesskey     "E">
 
+<!ENTITY importSource.title             "Баптаулар және пошта бумаларын импорттау">
 <!ENTITY importItems.title              "Импортталатын объекттер">
 <!ENTITY importItems.label              "Импортталатын объекттерді таңдаңыз:">
 
