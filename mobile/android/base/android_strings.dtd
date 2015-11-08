@@ -217,15 +217,16 @@
 <!ENTITY pref_cookies_disabled "Znjemóžnjony">
 
 <!ENTITY pref_tap_to_load_images_title "Wobraze, kótarež zacytuju se pśez pótusnjenje">
-
+<!ENTITY pref_tap_to_load_images_summary2 "Wobraze janož pótom zacytaś, gaž tłocyśo dłujko na nje">
 
 <!ENTITY pref_tracking_protection_title "Slědowański šćit">
-
+<!ENTITY pref_tracking_protection_summary3 "W priwatnem modusu zmóžnjony">
 <!ENTITY pref_donottrack_title "Njeslědowaś">
 <!ENTITY pref_donottrack_summary "&brandShortName; dajo sydłam k wěsći, až njocośo, až wam slěduju">
 
-
-
+<!ENTITY pref_tracking_protection_enabled "Zmóžnjony">
+<!ENTITY pref_tracking_protection_enabled_pb "W priwatnem modusu zmóžnjony">
+<!ENTITY pref_tracking_protection_disabled "Znjemóžnjony">
 
 <!ENTITY tracking_protection_prompt_title "Něnto ze slědowańskim šćitom">
 <!ENTITY tracking_protection_prompt_text "Slědowańske elementy se aktiwnje blokěruju, njetrjebaśo pótakem sr starosćiś.">
@@ -295,7 +296,7 @@ size. -->
 <!ENTITY pref_sync "Snychronizěrowaś">
 <!ENTITY pref_sync_summary2 "Synchronizěrujśo swóje rejtarki, cytańske znamjenja, pśizjawjenja a historiju">
 <!ENTITY pref_search_suggestions "Pytańske naraźenja pokazaś">
-
+<!ENTITY pref_history_search_suggestions "Pytańsku historiju pokazaś">
 <!ENTITY pref_import_android "Z Androida importěrowaś">
 <!ENTITY pref_import_android_summary "Importěrujśo cytańske znamjenjai a historiju ze spócetnego wobglědowaka">
 <!ENTITY pref_private_data_history2 "Pśeglědowańska historija">
@@ -588,7 +589,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Wěsty zwisk">
 <!ENTITY identity_connection_insecure "Njewěsty zwisk">
-
+<!ENTITY identity_login_insecure "Toś ten bok njejo wěsty a wašo pśizjawjenje by mógło zranliwe byś.">
 <!-- Mixed content notifications in site identity popup -->
 
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; jo njewěste elementy na toś tom boku blokěrował.">
@@ -708,6 +709,7 @@ z Androida">
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
+<!ENTITY intent_uri_private_browsing_prompt "Toś ten wótkaz wócynijo se w &formatS;. Cośo napšawdu priwatny modus spušćiś?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android
@@ -715,6 +717,7 @@ z Androida">
      We don't have control over the style of this dialog and it looks
      unpolished when this string is longer than one line so ideally keep it
      short! -->
+<!ENTITY intent_uri_private_browsing_multiple_match_title "Priwatny modus spušćiś?">
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
      above a QR reader that is actively scanning for QR codes.  The expected QR
