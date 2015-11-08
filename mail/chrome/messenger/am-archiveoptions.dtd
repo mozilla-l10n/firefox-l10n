@@ -4,7 +4,16 @@
 
 <!-- extracted from am-archiveoptions.xul -->
 
+<!ENTITY dialogTitle.label "Опције архивирања">
+<!ENTITY archiveGranularityPrefix.label "Када се архивирају поруке, смести их у:">
+<!ENTITY archiveYearly.label "Годишње архиве">
+<!ENTITY archiveYearly.accesskey "Г">
+<!ENTITY archiveMonthly.label "Месечне архиве">
+<!ENTITY archiveMonthly.accesskey "М">
+<!ENTITY archiveExample.label "Пример">
 <!-- LOCALIZATION NOTE (archiveFolderName.label): this should match the default
      name for the "Archives" folder -->
+<!ENTITY archiveFolderName.label "Архиве">
 <!-- LOCALIZATION NOTE (inboxFolderName.label): this should match the default
      name for the "Inbox" folder -->
+<!ENTITY inboxFolderName.label "Долазно">

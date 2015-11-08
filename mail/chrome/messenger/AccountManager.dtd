@@ -4,7 +4,22 @@
 
 <!-- extracted from AccountManager.xul -->
 
+<!ENTITY accountManagerTitle.label "Подешавања налога">
 
+<!ENTITY accountActionsButton.label "Подешавања налога">
+<!ENTITY accountActionsButton.accesskey "А">
+<!ENTITY addMailAccountButton.label "Додај поштански налог…">
+<!ENTITY addMailAccountButton.accesskey "А">
+<!ENTITY addIMAccountButton.label "Додај налог за ћаскање…">
+<!ENTITY addIMAccountButton.accesskey "с">
+<!ENTITY addFeedAccountButton.label "Додај налог за довод…">
+<!ENTITY addFeedAccountButton.accesskey "д">
+<!ENTITY addOtherAccountButton.label "Додај други налог…">
+<!ENTITY addOtherAccountButton.accesskey "о">
+<!ENTITY setDefaultButton.label "Постави као подразумевано">
+<!ENTITY setDefaultButton.accesskey "д">
+<!ENTITY removeButton.label "Уклони налог">
+<!ENTITY removeButton.accesskey "У">
 
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
@@ -15,3 +30,5 @@
      1em = The height of the font.
      XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
      this window for en-US. -->
+<!ENTITY accountManager.size "width: 105ch; height: 55em;">
+<!ENTITY accountTree.width "width: 31ch;">
