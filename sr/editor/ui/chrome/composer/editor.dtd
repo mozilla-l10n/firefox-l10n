@@ -10,6 +10,7 @@
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
 
 <!-- Toolbar-only items -->
+<!ENTITY compositionToolbar.tooltip "Састав траке са алатима">
 <!ENTITY previewToolbarCmd.label "Прегледај">
 <!ENTITY previewToolbarCmd.tooltip "Прикажи ову страницу у прегледачу">
 
@@ -22,6 +23,12 @@
 <!ENTITY sendPageCmd.accesskey "и">
 
 <!-- View menu items -->
+<!ENTITY compositionToolbarCmd.label "Састав траке са алатима">
+<!ENTITY compositionToolbarCmd.accesskey "ц">
+<!ENTITY formattingToolbarCmd.label "Форматирај траку са алатима">
+<!ENTITY formattingToolbarCmd.accesskey "ф">
+<!ENTITY editmodeToolbarCmd.label "Уређивање траке са алатима">
+<!ENTITY editmodeToolbarCmd.accesskey "е">
 
 <!-- Format menu items -->
 <!ENTITY formatMenu.label "Форматирај">
