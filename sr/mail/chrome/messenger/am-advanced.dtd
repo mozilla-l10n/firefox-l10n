@@ -5,7 +5,22 @@
 <!-- extracted from am-advanced.xul -->
 
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
+<!ENTITY smtpServer.label "Подешавања одлазног (SMTP) сервера">
 
 <!-- LOCALIZATION NOTE (smtpDescription.label): do not translate "SMTP" in below line -->
 
+<!ENTITY smtpListAdd.label  "Додај…">
+<!ENTITY smtpListAdd.accesskey  "д">
+<!ENTITY smtpListEdit.label "Уреди…">
+<!ENTITY smtpListEdit.accesskey "е">
+<!ENTITY smtpListDelete.label "Уклони">
+<!ENTITY smtpListDelete.accesskey "У">
+<!ENTITY smtpListSetDefault.label "Подеси подразумевани">
+<!ENTITY smtpListSetDefault.accesskey "д">
 
+<!ENTITY serverDescription.label "Опис: ">
+<!ENTITY serverName.label "Име сервера: ">
+<!ENTITY serverPort.label "Порт: ">
+<!ENTITY userName.label   "Корисничко име: ">
+<!ENTITY connectionSecurity.label "Безбедност везе: ">
+<!ENTITY authMethod.label   "Начин идентификације: ">

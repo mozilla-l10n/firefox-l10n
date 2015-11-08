@@ -10,6 +10,7 @@
 <!ENTITY archiveYearly.accesskey "Г">
 <!ENTITY archiveMonthly.label "Месечне архиве">
 <!ENTITY archiveMonthly.accesskey "М">
+<!ENTITY keepFolderStructure.accesskey "З">
 <!ENTITY archiveExample.label "Пример">
 <!-- LOCALIZATION NOTE (archiveFolderName.label): this should match the default
      name for the "Archives" folder -->

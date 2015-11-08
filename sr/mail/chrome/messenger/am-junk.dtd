@@ -3,7 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
+<!ENTITY otherFolder.label "Друго:">
+<!ENTITY otherFolder.accesskey "о">
+<!ENTITY purge2.label "дан(а)">
 
 
 
+<!ENTITY junkClassification.label "Одабир">
+<!ENTITY junkActions.label "Одредиште и задржавање">
 

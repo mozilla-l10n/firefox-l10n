@@ -1,3 +1,13 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
+<!ENTITY addAccountDialog.title   "Подесите Filelink">
+<!ENTITY addAccountDialog.menuTitle "Изаберите услугу за складишење података на мрежи">
+<!ENTITY addAccountDialog.style "width: 50em; min-height: 20em;">
+<!ENTITY addAccountDialog.accountName.label "Име налога:">
+<!ENTITY addAccountDialog.noAccountText "Нажалост, тренутно издање &brandShortName;-а дозвољава само један налог по услузи складиштења података на мрежи.">
+<!ENTITY addAccountDialog.createAccountText2 "Можете слати велике прилоге користећи једну од неколико услуга на мрежи за складиштење. Или изаберите већ постојећи налог или се пријавите за нови налог.">
+<!ENTITY addAccountDialog.authorizing "Провера овлашћења у току...">
+<!ENTITY addAccountDialog.error "Догодила се грешка приликом подешавања налога!">
+<!ENTITY addAccountDialog.acceptButton.label "Подесите налог">
+<!ENTITY addAccountDialog.learnMore "Сазнајте више…">
