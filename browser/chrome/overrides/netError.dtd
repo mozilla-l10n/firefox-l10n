@@ -184,5 +184,5 @@ functionality specific to firefox. -->
 <!ENTITY weakCryptoUsed.longDesc "Təkmilləşmiş məlumat: ssl_error_no_cypher_overlap">
 <!ENTITY weakCryptoUsed.learnMore "Ətraflı Öyrən…">
 <!ENTITY weakCryptoAdvanced.title "Təkmilləşmiş…">
-
-
+<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> vaxtı keçmiş güvənlik texnologiyasını işlədir və hücumlara qarşı qorumasızdır. Hücum edən sizin güvənilir bildiyiniz məlumatı rahatlıqla ala bilər.">
+<!ENTITY weakCryptoAdvanced.override "(Qorumalı deyil) <span class='hostname'></span> üçün köhnə qoruma ilə yenidən yükləməyi yoxla">
