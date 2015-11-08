@@ -65,7 +65,7 @@
 <!ENTITY btnServerLogging.tooltip     "Registre dels missatges rebuts des d'un servidor web">
 <!ENTITY btnServerLogging.accesskey   "S">
 <!ENTITY btnServerErrors              "Errors">
-
+<!ENTITY btnServerInfo                "Informació">
 <!ENTITY btnServerWarnings            "Avisos">
 <!ENTITY btnServerLog                 "Registre">
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
@@ -103,5 +103,5 @@
 <!ENTITY clearOutputCtrl.key  "L">
 <!ENTITY openInVarViewCmd.label "Obre en visualització de variables">
 <!ENTITY openInVarViewCmd.accesskey "v">
-
-
+<!ENTITY storeAsGlobalVar.label "Emmagatzema com a variable global">
+<!ENTITY storeAsGlobalVar.accesskey "E">
