@@ -6,7 +6,8 @@
 <!ENTITY blockPopups.label "Bloquear ventanas emergentes">
 <!ENTITY blockPopups.accesskey "B">
 <!ENTITY  notificationsPolicy.label            "Notificaciones">
-<!ENTITY  notificationsPolicyDesc2.label        "Elegir que sitios tienen permitido recibir notificaciones">
+<!ENTITY  notificationsPolicyLearnMore.label   "Aprender más">
+<!ENTITY  notificationsPolicyDesc3.label       "Elegir que sitios tienen permitido enviarle notificaciones">
 <!ENTITY  notificationsPolicyButton.accesskey  "h">
 <!ENTITY  notificationsPolicyButton.label      "Elegir…">
 <!ENTITY  notificationsDoNotDisturb.label      "No molestarme">
