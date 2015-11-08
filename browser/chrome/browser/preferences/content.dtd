@@ -7,13 +7,14 @@
 <!ENTITY  blockPopups.label           "Peyda olan pəncərələri blokla">
 <!ENTITY  blockPopups.accesskey       "b">
 
-
-
-
-
-
-
-
+<!ENTITY  notificationsPolicy.label            "Bildirişlər">
+<!ENTITY  notificationsPolicyLearnMore.label   "Ətraflı öyrən">
+<!ENTITY  notificationsPolicyDesc3.label       "Hansı saytların sizə bildiriş göndərə biləcəklərini seçin">
+<!ENTITY  notificationsPolicyButton.accesskey  "e">
+<!ENTITY  notificationsPolicyButton.label      "Seç…">
+<!ENTITY  notificationsDoNotDisturb.label      "Məni narahat etmə">
+<!ENTITY  notificationsDoNotDisturb.accesskey  "n">
+<!ENTITY  notificationsDoNotDisturbDetails.value "&brandShortName; yenidən başladılana qədər heç bir bildiriş göstərilməyəcək">
 
 <!ENTITY  popupExceptions.label       "İstisnalar…">
 <!ENTITY  popupExceptions.accesskey   "a">
@@ -56,4 +57,4 @@
 
 <!ENTITY  playDRMContent.label         "DRM məzmun oynat">
 <!ENTITY  playDRMContent.accesskey     "o">
-
+<!ENTITY  playDRMContent.learnMore.label "Ətraflı öyrən">
