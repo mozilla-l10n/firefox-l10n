@@ -14,8 +14,8 @@
 
 <!ENTITY standardPalette.label "Қалыпты">
 
-
-
+<!ENTITY background.label "Фон, келесі үшін:">
+<!ENTITY background.accessKey "Ф">
 <!ENTITY table.label "Кесте">
 <!ENTITY table.accessKey "К">
 

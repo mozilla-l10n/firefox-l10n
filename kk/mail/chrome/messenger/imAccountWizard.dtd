@@ -20,9 +20,10 @@
 
 <!ENTITY accountAliasField.label      "Бүркеншік:">
 
-
+<!ENTITY accountProxySettings.caption "Прокси баптаулары">
 <!ENTITY accountProxySettings.change.label     "Өзгерту…">
 <!ENTITY accountProxySettings.change.accessKey "з">
 
+<!ENTITY accountSummaryTitle.label   "Қорытынды">
 
 

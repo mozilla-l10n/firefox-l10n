@@ -180,8 +180,8 @@
 <!ENTITY alignRight.label "Оңға">
 <!ENTITY alignRight.accesskey "О">
 <!ENTITY alignRight.tooltip "Оңға туралау">
-
-
+<!ENTITY alignJustify.label "Енi бойынша">
+<!ENTITY alignJustify.accesskey "н">
 <!ENTITY alignJustify.tooltip "Енімен туралау">
 <!-- Layer toolbar items -->
 
@@ -254,8 +254,8 @@
 
 
 
-
-
+<!ENTITY tableProperties.label "Кесте қасиеттері…">
+<!ENTITY tableProperties.accesskey "и">
 <!-- Toolbar-only items -->
 
 <!ENTITY menuBar.tooltip "Мәзір панелі">
