@@ -189,7 +189,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Imprimir">
 <!ENTITY printButton.tooltip          "Imprimir esta página">
 
-<!ENTITY urlbar.viewSiteInfo.label                      "Ver informações do sítio">
+<!ENTITY urlbar.viewSiteInfo.label                      "Ver informações do site">
 <!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
      used to provide accessible labels to users of assistive technology like screenreaders.
      It is not possible to see them visually in the UI. -->
@@ -201,16 +201,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.label        "Selecione se pretende guardar a sua palavra-passe">
 <!ENTITY urlbar.webappsNotificationAnchor.label         "Ver a mensagem de instalação da aplicação">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Gerir utilização de plugins nesta página">
-<!ENTITY urlbar.webNotsNotificationAnchor.label         "Alterar se o sítio pode mostrar-lhe notificações">
+<!ENTITY urlbar.webNotsNotificationAnchor.label         "Alterar se o site pode, ou não, apresentar-lhe notificações">
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Gerir a partilha da sua câmara e/ou microfone com o sítio">
-<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Está a partilhar a sua câmara e/ou microfone com este sítio">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Gerir a partilha do seu microfone com o sítio">
-<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Está a partilhar o seu microfone com este sítio">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Gerir a partilha das suas janelas ou ecrã com o sítio">
-<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Está a partilhar uma janela ou o ecrã com este sítio">
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Gerir a partilha da sua câmara e/ou microfone com o site">
+<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Está a partilhar a sua câmara e/ou microfone com este site">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Gerir a partilha do seu microfone com o site">
+<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Está a partilhar o seu microfone com este site">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Gerir a partilha das suas janelas ou ecrã com o site">
+<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Está a partilhar uma janela ou o ecrã com este site">
 
-<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Alterar se o sítio pode ocultar o ponteiro do rato">
+<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Alterar se o site pode ocultar o ponteiro do rato">
 <!ENTITY urlbar.servicesNotificationAnchor.label        "Ver a mensagem de instalação de serviços">
 <!ENTITY urlbar.translateNotificationAnchor.label       "Traduzir esta página">
 <!ENTITY urlbar.translatedNotificationAnchor.label      "Gerir tradução de páginas">
@@ -708,7 +708,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Estilo de página básico">
 <!ENTITY pageStylePersistentOnly.accesskey "b">
 
-<!ENTITY pageReportIcon.tooltip            "Alterar definições de janelas pop-up para este sítio web">
+<!ENTITY pageReportIcon.tooltip            "Alterar definições de janelas pop-up para este website">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -744,7 +744,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Ligação segura">
 <!ENTITY identity.connectionNotSecure "Ligação não segura">
 <!ENTITY identity.connectionFile "Esta página está guardada no seu computador.">
-<!ENTITY identity.connectionVerified1 "Está ligado de forma segura a este sítio, mantido por:">
+<!ENTITY identity.connectionVerified1 "Está ligado de forma segura a este site, mantido por:">
 <!ENTITY identity.connectionInternal "Esta é uma página segura do &brandShortName;.">
 <!ENTITY identity.insecureLoginForms "As suas credenciais podem ser comprometidas.">
 <!-- Strings for connection state warnings. -->
@@ -755,16 +755,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.weakEncryption "Esta página usa uma encriptação fraca.">
 <!-- Strings for connection state warnings in the subview. -->
 
-<!ENTITY identity.description.insecure "A sua ligação a este sítio não é privada. As informações que submeter (tais como palavras-passe, mensagens, cartões de crédito, etc.) podem ser vistas por terceiros.">
+<!ENTITY identity.description.insecure "A sua ligação a este site não é privada. As informações que submeter (tais como palavras-passe, mensagens, cartões de crédito, etc.) podem ser vistas por terceiros.">
 <!ENTITY identity.description.insecureLoginForms "As credenciais que introduzir nesta página podem não ser seguras e podem ser comprometidas.">
-<!ENTITY identity.description.weakCipher "A sua ligação a este sítio web utiliza encriptação fraca e não é privada.">
-<!ENTITY identity.description.weakCipher2 "Outras pessoas podem ver a sua informação ou alterar o comportamento do sítio web.">
+<!ENTITY identity.description.weakCipher "A sua ligação a este website utiliza uma encriptação fraca e não é privada.">
+<!ENTITY identity.description.weakCipher2 "Outras pessoas podem ver a sua informação ou alterar o comportamento do website.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; bloqueou partes desta página que não são seguras.">
-<!ENTITY identity.description.passiveLoaded "A sua ligação não é privada e a informação que partilha com o sítio pode ser vista por outros.">
-<!ENTITY identity.description.passiveLoaded2 "Este sítio web contém conteúdo que não é seguro (tal como imagens).">
+<!ENTITY identity.description.passiveLoaded "A sua ligação não é privada e a informação que partilha com o site pode ser vista por outros.">
+<!ENTITY identity.description.passiveLoaded2 "Este website contém conteúdo que não é seguro (tais como imagens).">
 <!ENTITY identity.description.passiveLoaded3 "O &brandShortName; bloqueou alguns conteúdos, mas ainda existem elementos na página que não são seguros (como imagens).">
-<!ENTITY identity.description.activeLoaded "Este sítio web contém conteúdo que não é seguro (tal como scripts) e a sua ligação não é privada.">
-<!ENTITY identity.description.activeLoaded2 "As informações que partilhar com este sítio (tais como palavras-passe, mensagens, cartões de crédito, etc.) podem ser vistas por outros.">
+<!ENTITY identity.description.activeLoaded "Este website contém conteúdo que não é seguro (tais como scripts) e a sua ligação não é privada.">
+<!ENTITY identity.description.activeLoaded2 "As informações que partilhar com este site (tais como palavras-passe, mensagens, cartões de crédito, etc.) podem ser vistas por outros.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Ativar proteção">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "e">
@@ -775,7 +775,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.moreInfoLinkText2 "Mais informação">
 
 <!ENTITY identity.permissions "Permissões">
-<!ENTITY identity.permissionsEmpty "Não concedeu quaisquer permissões especiais a este sítio.">
+<!ENTITY identity.permissionsEmpty "Não concedeu quaisquer permissões especiais a este site.">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -858,7 +858,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock.label "Desativar proteção para este sítio">
+<!ENTITY trackingProtection.unblock.label "Desativar proteção para este site">
 <!ENTITY trackingProtection.unblock.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
@@ -872,7 +872,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.moreinfo "Partes da página que monitorizam a sua atividade foram bloqueadas.">
 <!ENTITY trackingContentBlocked.learnMore "Saber mais">
 <!ENTITY trackingContentBlocked.options "Opções">
-<!ENTITY trackingContentBlocked.unblock2.label "Desativar proteção para este sítio">
+<!ENTITY trackingContentBlocked.unblock2.label "Desativar proteção para este site">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "Ativar proteção">
 <!ENTITY trackingContentBlocked.block.accesskey "e">
