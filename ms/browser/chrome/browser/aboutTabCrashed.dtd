@@ -7,7 +7,7 @@
 <!ENTITY tabCrashed.sendReport "Hantar laporan ranap untuk membantu mencegah lebih banyak kerosakan ">
 
 
-
+<!ENTITY tabCrashed.emailPlaceholder "Masukkan alamat emel anda disini">
 
 
 <!ENTITY tabCrashed.reportSent "Laporan ranap telah dihantar; terima kasih kerana membantu menjadikan &brandShortName; lebih baik!">
