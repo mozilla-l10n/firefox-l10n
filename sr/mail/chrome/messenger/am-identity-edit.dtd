@@ -2,4 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY identityDialog.style "width: 67ch;">
+<!ENTITY identityTitle.label "Подешавања идентитета">
+<!ENTITY identityListDesc.label "Измените подешавања овог налога:">
 
+<!ENTITY settingsTab.label       "Подешавања">
+<!ENTITY copiesFoldersTab.label "Копије и фасцикле">
+<!ENTITY addressingTab.label    "Састављање и адресирање">

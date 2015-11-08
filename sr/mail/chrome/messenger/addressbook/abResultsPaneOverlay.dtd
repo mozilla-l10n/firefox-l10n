@@ -2,3 +2,33 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY Addrbook.label                        "Именик">
+<!ENTITY Addrbook.accesskey                    "И">
+<!ENTITY GeneratedName.label                   "Име">
+<!ENTITY GeneratedName.accesskey               "м">
+<!ENTITY Company.label                         "Организација">
+<!ENTITY Company.accesskey                     "з">
+<!ENTITY _PhoneticName.label                   "Фонетско име">
+<!ENTITY _PhoneticName.accesskey               "н">
+<!ENTITY NickName.label                        "Надимак">
+<!ENTITY NickName.accesskey                    "и">
+<!ENTITY Department.label                      "Одељење">
+<!ENTITY Department.accesskey                  "О">
+<!ENTITY JobTitle.label                        "Титула">
+<!ENTITY JobTitle.accesskey                    "Т">
+<!ENTITY CellularNumber.label                  "Мобилни">
+<!ENTITY CellularNumber.accesskey              "М">
+<!ENTITY PagerNumber.label                     "Пејџер">
+<!ENTITY PagerNumber.accesskey                 "П">
+<!ENTITY FaxNumber.label                       "Факс">
+<!ENTITY FaxNumber.accesskey                   "Ф">
+<!ENTITY HomePhone.label                       "Кућни">
+<!ENTITY HomePhone.accesskey                   "К">
+<!ENTITY WorkPhone.label                       "Пословни">
+<!ENTITY WorkPhone.accesskey                   "л">
+<!ENTITY ChatName.label                        "Име ћаскања">
+<!ENTITY ChatName.accesskey                    "с">
+<!ENTITY sortAscending.label                   "Растући">
+<!ENTITY sortAscending.accesskey               "А">
+<!ENTITY sortDescending.label                  "Опадајући">
+<!ENTITY sortDescending.accesskey              "д">
