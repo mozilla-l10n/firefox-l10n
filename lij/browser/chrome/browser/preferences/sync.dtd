@@ -39,7 +39,7 @@
 <!ENTITY unlinkDevice.label           "Scolega sto aparato">
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Termini do serviçio">
-<!ENTITY prefs.ppLink.label         "Politica da Privacy"
+<!ENTITY prefs.ppLink.label         "Politica da Privacy">
 <!ENTITY syncDeviceName.label       "Nomme de l'aparato:">
 <!ENTITY syncDeviceName.accesskey   "a">
 <!ENTITY cancelChangeSyncDeviceName.label "Anulla">
