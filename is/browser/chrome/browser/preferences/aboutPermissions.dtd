@@ -41,6 +41,7 @@
 
 <!ENTITY popup.label                     "Opna sprettiglugga">
 
+<!ENTITY desktop-notification.label      "Sýna tilkynningar">
 <!ENTITY camera.label                    "Nota myndavél">
 <!ENTITY microphone.label                "Nota hljóðnema">
 
