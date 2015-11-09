@@ -58,16 +58,23 @@
 
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
+
+<!ENTITY key_quit "W">
 <!-- open menu -->
+<!ENTITY key_showProjectPanel "O">
 <!-- reload app -->
+<!ENTITY key_play "R">
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
 <!-- toggle sidebar -->
+<!ENTITY key_toggleEditor "B">
 <!-- zoom -->
+<!ENTITY key_zoomin "+">
+<!ENTITY key_zoomin2 "=">
+<!ENTITY key_zoomout "-">
+<!ENTITY key_resetzoom "0">
 
-
-
-
+<!ENTITY projectPanel_myProjects "Mos projèctes">
 
 <!ENTITY projectPanel_tabs "Onglets">
 
