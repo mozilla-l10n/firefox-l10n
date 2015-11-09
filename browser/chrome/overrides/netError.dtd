@@ -132,7 +132,7 @@ proxy, certifique-se de que o &brandShortName; tem permissão para aceder à Web
 <!ENTITY malwareBlocked.longDesc "<p>Os sites de ataque tentam instalar programas que roubam informações pessoais, usam o seu computador para atacar outros ou causar danos ao seu sistema.</p> 
 <p>Os detentores de websites que acreditam que os seus sites foram reportados erradamente podem <a href='http://www.stopbadware.org/home/reviewinfo' >pedir uma revisão da situação</a>.</p>">
 
-<!ENTITY unwantedBlocked.title "Suspeita de sítio de software indesejado!">
+<!ENTITY unwantedBlocked.title "Suspeita de site de software indesejado!">
 <!ENTITY unwantedBlocked.longDesc "<p>As páginas de software não solicitado tentam instalar software que pode ser decetivo e afetar o seu sistema de formas inesperadas. </p>">
 
 <!ENTITY phishingBlocked.title "Suspeita de wngodo!">
@@ -143,7 +143,7 @@ proxy, certifique-se de que o &brandShortName; tem permissão para aceder à Web
 <!ENTITY cspBlocked.longDesc "<p>O &brandShortName; impediu o carregamento desta página porque a página tem uma política de segurança que não permite o seu carregamento.</p>">
 
 <!ENTITY corruptedContentError.title "Conteúdo corrompido">
-<!ENTITY corruptedContentError.longDesc "<p>A página que está a tentar visualizar não pode ser exibida porque foi detetado um erro na transmissão de dados.</p><ul><li>Por favor reporte o problema aos detentores do sítio.</li></ul>">
+<!ENTITY corruptedContentError.longDesc "<p>A página que está a tentar ver não pode ser exibida porque foi detetado um erro na transmissão de dados.</p><ul><li>Por favor reporte o problema aos proprietário do website.</li></ul>">
 
 
 <!ENTITY securityOverride.linkText "Ou pode adicionar uma exceção…">
@@ -161,7 +161,7 @@ functionality specific to firefox. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY errorReporting.title "Reportar este erro">
-<!ENTITY errorReporting.longDesc "Ao reportar o endereço e a informação do certificado para <span id='hostname'></span> ajuda-nos a identificar e bloquear sítios maliciosos. Obrigado por ajudar a criar uma web mais segura!">
+<!ENTITY errorReporting.longDesc "Ao reportar o endereço e a informação do certificado para <span id='hostname'></span> ajuda-nos a identificar e bloquear sites maliciosos. Obrigado por ajudar a criar uma web mais segura!">
 <!ENTITY errorReporting.automatic "No futuro reportar erros automaticamente">
 <!ENTITY errorReporting.learnMore "Saber mais…">
 <!ENTITY errorReporting.sending "A enviar relatório">
@@ -170,7 +170,7 @@ functionality specific to firefox. -->
 <!ENTITY errorReporting.tryAgain "Voltar a tentar">
 
 <!ENTITY remoteXUL.title "XUL remoto">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor contacte os responsáveis do sítio web para os informar sobre este problema.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor contacte os responsáveis do website para os informar sobre este problema.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "Não é possível ligar com segurança">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
