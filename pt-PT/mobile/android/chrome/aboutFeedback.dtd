@@ -38,7 +38,7 @@
 <!ENTITY sad.header                "Oh não!">
 <!ENTITY sad.message               "Pedimos desculpa pelos problemas que teve com o &brandShortName;. Por favor diga-nos o que aconteceu para que possamos resolver.">
 <!ENTITY sad.placeholder           "Introduza aqui o seu comentário">
-<!ENTITY sad.lastSite2             "Incluir último sítio visitado">
+<!ENTITY sad.lastSite2             "Incluir último site visitado">
 <!-- LOCALIZATION NOTE (sad.urlPlaceholder): Placeholder text that appears in "Last visited site" input box when there is no text. -->
 
 <!ENTITY sad.urlPlaceholder        "http://">
