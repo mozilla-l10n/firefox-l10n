@@ -19,6 +19,7 @@
 <!ENTITY smtpListSetDefault.label "Als standaard instellen">
 <!ENTITY smtpListSetDefault.accesskey "d">
 
+<!ENTITY serverDetails.label "Details van geselecteerde server:">
 <!ENTITY serverDescription.label "Beschrijving: ">
 <!ENTITY serverName.label "Servernaam: ">
 <!ENTITY serverPort.label "Poort: ">
