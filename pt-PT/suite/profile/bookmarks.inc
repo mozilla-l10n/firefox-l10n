@@ -68,7 +68,7 @@
 # link title for http://www.mozilla.org/about/
 
 
-#define mozilla_about Sobre a Mozilla
+#define mozilla_about Acerca da Mozilla
 
 
 #define extend_seamonkey Expandir o SeaMonkey
