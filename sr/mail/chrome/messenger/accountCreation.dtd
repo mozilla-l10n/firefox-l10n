@@ -2,27 +2,77 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY name.label                      "Ваше име:">
+<!ENTITY name.accesskey                  "и">
+<!ENTITY name.text                       "Име које ће бити приказано другима">
+<!ENTITY email.accesskey                 "Е">
+<!ENTITY password.label                  "Лозинка:">
+<!ENTITY password.accesskey              "Л">
+<!ENTITY password.placeholder            "Лозинка">
+<!ENTITY password.text                   "Необавезно, користи се за потврду вашег корисничког имена">
+<!ENTITY rememberPassword.label          "Запамти лозинку">
+<!ENTITY rememberPassword.accesskey      "З">
 
 
+<!ENTITY incoming.label                  "Долазни:">
+<!ENTITY outgoing.label                  "Одлазни:">
+<!ENTITY username.label                  "Корисничко име:">
+<!ENTITY hostname.label                  "Име сервера">
+<!ENTITY port.label                      "Порт">
+<!ENTITY ssl.label                       "SSL">
+<!ENTITY auth.label                      "Идентификовање">
+<!ENTITY imap.label                      "IMAP">
+<!ENTITY pop3.label                       "POP3">
+<!ENTITY smtp.label                      "SMTP">
+<!ENTITY autodetect.label                "Само утврђивање">
 <!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
      Transmission of emails in cleartext over the Internet. -->
+<!ENTITY noEncryption.label              "Ништа">
+<!ENTITY starttls.label                  "STARTTLS">
+<!ENTITY sslTls.label                    "SSL/TLS">
 
+<!ENTITY advancedSetup.label             "Напредно подешавање">
+<!ENTITY advancedSetup.accesskey         "а">
+<!ENTITY cancel.label                    "Откажи">
+<!ENTITY cancel.accesskey                "а">
+<!ENTITY continue.label                  "Настави">
+<!ENTITY continue.accesskey              "Н">
+<!ENTITY stop.label                      "Заустави">
+<!ENTITY stop.accesskey                  "З">
 <!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
      displayed on the button in manual edit mode which will re-guess
      the account configuration, taking into account the settings that
      the user has manually changed. -->
+<!ENTITY half-manual-test.accesskey      "п">
+<!ENTITY manual-edit.label               "Ручно подешавање">
+<!ENTITY manual-edit.accesskey           "Р">
+<!ENTITY switch-to-provisioner.label     "Добави нови налог">
+<!ENTITY switch-to-provisioner.accesskey "Д">
 
 
+<!ENTITY warning.label                   "Упозорење!">
+<!ENTITY incomingSettings.label          "Долазна подешавања:">
+<!ENTITY outgoingSettings.label          "Одлазна подешавања:">
+<!ENTITY technicaldetails.label          "Технички детаљи">
 <!-- LOCALIZATION NOTE (confirmWarning.label): If there is a security
      warning on the outgoing server, then the user will need to check a
      checkbox beside this text before continuing. -->
+<!ENTITY confirmWarning.label            "Разумем последице.">
+<!ENTITY confirmWarning.accesskey        "у">
 <!-- LOCALIZATION NOTE (doneAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
+<!ENTITY doneAccount.label               "Урађено">
+<!ENTITY doneAccount.accesskey           "У">
 <!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
      the incoming or outgoing servers, then the page that pops up will have
      this text in a button to take you back to the previous page to change
      the settings and try again. -->
+<!ENTITY changeSettings.label            "Промени подешавања">
+<!ENTITY changeSettings.accesskey        "п">
 
 
+<!ENTITY insecureServer.tooltip.title    "Упозорење! Ово није безбедан сервер.">
+<!ENTITY insecureServer.tooltip.details  "Кликните на кружић за више података.">
 
+<!ENTITY secureServer.description        "Честитамо! Овај сервер је сигуран.">
