@@ -4,51 +4,103 @@
 
 <!-- Entities for AccountWizard -->
 
+<!ENTITY windowTitle.label "Чаробњак за налоге">
+<!ENTITY accountWizard.size "width: 45em; height: 38em;">
 
 <!-- Entities for Account Type page -->
 
+<!ENTITY accountSetupInfo2.label "Да бисте примали поруке, прво морате подесити налог.">
+<!ENTITY accountTypeTitle.label "Подешавање новог налога">
+<!ENTITY accountTypeDirections.label "Изаберите коју врсту налога желите да подесите:">
+<!ENTITY accountTypeMail.label "Налог е-поште">
+<!ENTITY accountTypeMail.accesskey "п">
 
 <!-- Entities for Identity page -->
 
+<!ENTITY identityTitle.label "Идентитет">
 
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
   1, do not translate two of "&quot;"
   2, Use localized full name instead of "John Smith"
 -->
+<!ENTITY fullnameLabel.label "Ваше име:">
+<!ENTITY fullnameLabel.accesskey "В">
 
 
 <!-- Entities for Incoming Server page -->
 
+<!ENTITY incomingTitle.label "Подаци долазног сервера">
+<!ENTITY incomingServerTypeDesc.label "Изаберите врсту долазног сервера који користите.">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
+<!ENTITY imapType.label "IMAP">
+<!ENTITY imapType.accesskey "I">
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
+<!ENTITY popType.label "POP">
+<!ENTITY popType.accesskey "P">
+<!ENTITY leaveMsgsOnSrvr.label "Остави поруке на серверу">
+<!ENTITY leaveMsgsOnSrvr.accesskey "с">
+<!ENTITY portNum.label "Порт:">
+<!ENTITY portNum.accesskey "П">
+<!ENTITY defaultPortLabel.label "Подразумевано:">
+<!ENTITY defaultPortValue.label "">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
+<!ENTITY incomingServer.description "Унесите име вашег долазног сервера (на пример, &quot;mail.primer.net&quot;).">
+<!ENTITY incomingServer.label "Долазни сервер:">
+<!ENTITY incomingServer.accesskey "с">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
+<!ENTITY incomingUsername.label "Корисничко име:">
+<!ENTITY incomingUsername.accesskey "К">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
+<!ENTITY newsServerNameDesc.label "Унесите име вашег новинског сервера (NNTP) (на пример, &quot;news.primer.net&quot;).">
+<!ENTITY newsServerLabel.label "Сервер новинских група:">
+<!ENTITY newsServerLabel.accesskey "С">
 
 <!-- Entities for Outgoing Server page -->
 
+<!ENTITY outgoingTitle.label "Подаци одлазног сервера">
 <!-- LOCALIZATION NOTE (outgoingServer.description) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
+<!ENTITY outgoingServer.description "Унесите име вашег одлазног сервера (SMTP) (на пример, &quot;smtp.primer.net&quot;).">
+<!ENTITY outgoingServer.label "Одлазни сервер:">
+<!ENTITY outgoingServer.accesskey "с">
+<!ENTITY outgoingUsername.label "Одлазно корисничко име:">
+<!ENTITY outgoingUsername.accesskey "к">
 
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
 -->
+<!ENTITY modifyOutgoing.suffix "Можете променити одлазне сервере у подешавањима налога.">
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
 -->
+<!ENTITY haveSmtp1.prefix "Ваш постојећи одлазни сервер (SMTP), &quot;">
+<!ENTITY haveSmtp1.suffix3 "&quot;, ће бити коришћен.">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix3, if required grammatically.
 -->
+<!ENTITY haveSmtp2.prefix "Ваше постојеће одлазно (SMTP) корисничко, &quot;">
+<!ENTITY haveSmtp2.suffix3 "&quot;, ће бити коришћено.">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix3, if required grammatically.
 -->
+<!ENTITY haveSmtp3.prefix "Ваш одлазни (SMTP) сервер, &quot;">
 
 <!-- Entities for Account name page -->
 
+<!ENTITY accnameTitle.label "Име налога">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
+<!ENTITY accnameLabel.label "Име налога:">
+<!ENTITY accnameLabel.accesskey "а">
 
 <!-- Entities for Done (Congratulations) page -->
 
+<!ENTITY completionTitle.label "Честитамо!">
+<!ENTITY completionText.label "Постарајте се да подаци испод буду исправни.">
+<!ENTITY serverTypePrefix.label "Врста долазног сервера:">
+<!ENTITY serverNamePrefix.label "Име долазног сервера:">
+<!ENTITY smtpServerNamePrefix.label "Име одлазног сервера (SMTP):">
+<!ENTITY downloadOnLogin.label "Преузми све поруке сада">
+<!ENTITY downloadOnLogin.accesskey "П">

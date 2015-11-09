@@ -2,15 +2,55 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY folderProps.windowtitle.label           "Својства">
 
+<!ENTITY generalInfo.label                       "Општи подаци">
 
+<!ENTITY retentionUseAccount.label  "Користи подешавања мог налога">
+<!ENTITY retentionUseAccount.accesskey "К">
+<!ENTITY daysOld.label "дана старо">
+<!ENTITY message.label "порука">
+<!ENTITY retentionCleanup.label "Да би се ослободио простор на диску, старе поруке се могу трајно обрисати.">
+<!ENTITY retentionCleanupImap.label "Да би се ослободио простор на диску, старе поруке се могу трајно обрисати, као и локалне копије и изворне поруке на удаљеном серверу.">
+<!ENTITY retentionCleanupPop.label "Да би се ослободио простор на диску, старе поруке се могу трајно обрисати, укључујући и изворне поруке на удаљеном серверу.">
+<!ENTITY retentionDeleteMsg.label "Обриши поруке више од">
+<!ENTITY retentionDeleteMsg.accesskey "б">
+<!ENTITY retentionKeepAll.label "Не бриши било шта од порука">
+<!ENTITY retentionKeepAll.accesskey "а">
+<!ENTITY retentionKeepRecent.label "Обриши све осим најновијих">
+<!ENTITY retentionKeepRecent.accesskey "р">
 <!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
+<!ENTITY retentionKeepUnreadHidden.label "Увек бриши прочитане поруке (премошћује подешавања старости)">
+<!ENTITY retentionApplyToFlagged.label "Увек чувај поруке са звездицом">
+<!ENTITY retentionApplyToFlagged.accesskey "е">
 
+<!ENTITY folderSynchronizationTab.label          "Усклађивање">
+<!ENTITY folderCheckForNewMessages2.accesskey     "ј">
 
+<!ENTITY offlineFolder.button.label              "Преузми сада">
+<!ENTITY offlineFolder.button.accesskey          "П">
 
+<!ENTITY offlineNewsgroup.button.label           "Преузми сада">
+<!ENTITY offlineNewsgroup.button.accesskey       "П">
 
+<!ENTITY folderProps.name.label                  "Име:">
+<!ENTITY folderProps.name.accesskey              "И">
+<!ENTITY folderProps.location.label              "Место:">
+<!ENTITY folderProps.location.accesskey          "М">
 
+<!ENTITY folderSharingTab.label                  "Дељење">
+<!ENTITY privileges.button.label                 "Овлашћења…">
+<!ENTITY privileges.button.accesskey             "О">
+<!ENTITY permissionsDesc.label                   "Имате следећа овлашћења:">
 
+<!ENTITY folderQuotaTab.label                    "Квота">
+<!ENTITY folderQuotaRoot.label                   "Квота највишег нивоа:">
+<!ENTITY folderQuotaUsage.label                  "Искоришћеност:">
+<!ENTITY folderQuotaStatus.label                 "Стање:">
 
+<!ENTITY numberOfMessages.label                  "Број порука:">
 <!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
+<!ENTITY numberUnknown.label                     "непознато">
+<!ENTITY sizeOnDisk.label                        "Величина на диску:">
 <!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
+<!ENTITY sizeUnknown.label                       "непозната">
