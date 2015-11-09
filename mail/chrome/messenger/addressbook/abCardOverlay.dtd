@@ -2,6 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY Contact.tab                     "Контакт">
+<!ENTITY Contact.accesskey               "К">
+<!ENTITY Name.box                        "Име">
 
 <!-- LOCALIZATION NOTE:
  NameField1, NameField2, PhoneticField1, PhoneticField2
@@ -12,14 +15,133 @@
 -->
 
 <!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
+<!ENTITY NameField1.id                  "FirstName">
 <!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
+<!ENTITY NameField2.id                  "LastName">
 <!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField1.id              "PhoneticFirstName">
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField2.id              "PhoneticLastName">
 
+<!ENTITY NameField1.label               "Име:">
+<!ENTITY NameField1.accesskey           "И">
+<!ENTITY NameField2.label               "Презиме:">
+<!ENTITY NameField2.accesskey           "П">
+<!ENTITY PhoneticField1.label           "Фонетски:">
+<!ENTITY PhoneticField2.label           "Фонетски:">
+<!ENTITY DisplayName.label              "Приказ:">
+<!ENTITY DisplayName.accesskey          "з">
+<!ENTITY preferDisplayName.label        "Увек користи вредност приказа уместо заглавља поруке">
+<!ENTITY preferDisplayName.accesskey    "в">
+<!ENTITY NickName.label                 "Надимак:">
+<!ENTITY NickName.accesskey             "Н">
 
+<!ENTITY PreferMailFormat.label         "Жели да прима поруке форматиране као:">
+<!ENTITY PreferMailFormat.accesskey     "ф">
+<!ENTITY PlainText.label                "Чист текст">
+<!ENTITY HTML.label                     "HTML">
+<!ENTITY Unknown.label                  "Непознато">
+<!ENTITY chatName.label                 "Име ћаскања:">
 
+<!ENTITY WorkPhone.label                "Посао:">
+<!ENTITY WorkPhone.accesskey            "о">
+<!ENTITY HomePhone.label                "Кућа:">
+<!ENTITY HomePhone.accesskey            "у">
+<!ENTITY FaxNumber.label                "Факс:">
+<!ENTITY FaxNumber.accesskey            "к">
+<!ENTITY PagerNumber.label              "Пејџер:">
+<!ENTITY PagerNumber.accesskey          "ј">
+<!ENTITY CellularNumber.label           "Мобилни:">
+<!ENTITY CellularNumber.accesskey       "б">
 
+<!ENTITY Home.tab                       "Приватни">
+<!ENTITY Home.accesskey                 "П">
+<!ENTITY HomeAddress.label              "Адреса:">
+<!ENTITY HomeAddress.accesskey          "д">
+<!ENTITY HomeAddress2.label             "">
+<!ENTITY HomeAddress2.accesskey         "">
+<!ENTITY HomeCity.label                 "Град:">
+<!ENTITY HomeCity.accesskey             "д">
+<!ENTITY HomeState.label                "Држава/покрајина:">
+<!ENTITY HomeState.accesskey            "Д">
+<!ENTITY HomeCountry.label              "Држава:">
+<!ENTITY HomeCountry.accesskey          "а">
+<!ENTITY HomeWebPage.label              "Веб страница:">
+<!ENTITY HomeWebPage.accesskey          "е">
+<!ENTITY Birthday.label                 "Рођендан:">
+<!ENTITY Birthday.accesskey             "Р">
+<!ENTITY In.label                       "">
+<!ENTITY Year.placeholder               "Година">
+<!ENTITY Or.value                       "или">
+<!ENTITY Age.placeholder                "Старост">
+<!ENTITY YearsOld.label                 "">
 
+<!ENTITY Work.tab                       "Посао">
+<!ENTITY Work.accesskey                 "П">
+<!ENTITY JobTitle.label                 "Титула:">
+<!ENTITY JobTitle.accesskey             "и">
+<!ENTITY Department.label               "Одељење:">
+<!ENTITY Department.accesskey           "е">
+<!ENTITY Company.label                  "Организација:">
+<!ENTITY Company.accesskey              "н">
+<!ENTITY WorkAddress.label              "Адреса:">
+<!ENTITY WorkAddress.accesskey          "д">
+<!ENTITY WorkAddress2.label             "">
+<!ENTITY WorkAddress2.accesskey         "">
+<!ENTITY WorkCity.label                 "Град:">
+<!ENTITY WorkCity.accesskey             "а">
+<!ENTITY WorkState.label                "Држава/покрајина:">
+<!ENTITY WorkState.accesskey            "в">
+<!ENTITY WorkCountry.label              "Држава:">
+<!ENTITY WorkCountry.accesskey          "р">
+<!ENTITY WorkWebPage.label              "Веб страница:">
+<!ENTITY WorkWebPage.accesskey          "е">
 
+<!ENTITY Other.tab                      "Друго">
+<!ENTITY Other.accesskey                "г">
+<!ENTITY Custom1.label                  "Произвољно 1:">
+<!ENTITY Custom1.accesskey              "1">
+<!ENTITY Custom2.label                  "Произвољно 2:">
+<!ENTITY Custom2.accesskey              "2">
+<!ENTITY Custom3.label                  "Произвољно 3:">
+<!ENTITY Custom3.accesskey              "3">
+<!ENTITY Custom4.label                  "Произвољно 4:">
+<!ENTITY Custom4.accesskey              "4">
+<!ENTITY Notes.label                    "Белешке:">
+<!ENTITY Notes.accesskey                "Б">
 
+<!ENTITY Chat.tab                       "Ћаскање">
+<!ENTITY Chat.accesskey                 "а">
+<!ENTITY Gtalk.label                    "Google Talk:">
+<!ENTITY Gtalk.accesskey                "G">
+<!ENTITY AIM.label                      "AIM:">
+<!ENTITY AIM.accesskey                  "r">
+<!ENTITY Yahoo.label                    "Yahoo!:">
+<!ENTITY Yahoo.accesskey                "Y">
+<!ENTITY Skype.label                    "Skype:">
+<!ENTITY Skype.accesskey                "S">
+<!ENTITY QQ.label                       "QQ:">
+<!ENTITY QQ.accesskey                   "Q">
+<!ENTITY MSN.label                      "MSN:">
+<!ENTITY MSN.accesskey                  "M">
+<!ENTITY ICQ.label                      "ICQ:">
+<!ENTITY ICQ.accesskey                  "I">
+<!ENTITY XMPP.label                     "Jabber ИБ:">
+<!ENTITY XMPP.accesskey                 "J">
+<!ENTITY IRC.label                      "IRC надимак:">
+<!ENTITY IRC.accesskey                  "R">
 
+<!ENTITY Photo.tab                      "Фотографија">
+<!ENTITY Photo.accesskey                "о">
+<!ENTITY PhotoDesc.label                "Изаберите једно од наведеног:">
+<!ENTITY GenericPhoto.label             "Општа слика">
+<!ENTITY GenericPhoto.accesskey         "О">
+<!ENTITY DefaultPhoto.label             "Подразумевано">
+<!ENTITY PhotoFile.label                "На овом рачунару">
+<!ENTITY PhotoFile.accesskey            "н">
+<!ENTITY BrowsePhoto.label              "Прегледај">
+<!ENTITY BrowsePhoto.accesskey          "р">
+<!ENTITY PhotoURL.label                 "На вебу">
+<!ENTITY PhotoURL.accesskey             "б">
+<!ENTITY UpdatePhoto.label              "Ажурирај">
+<!ENTITY UpdatePhoto.accesskey          "у">

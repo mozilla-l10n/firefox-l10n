@@ -2,10 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY aboutSupport.appBasicsAppBuildID "ID издање апликације">
 
 <!ENTITY aboutSupport.accountsTitle "Налози поште и новости">
 <!ENTITY aboutSupport.showPrivateData.mainText "Укључи имена налога">
 <!ENTITY aboutSupport.showPrivateData.explanationText "(може одати ваше личне податке)">
+<!ENTITY aboutSupport.accountsID "ID">
 <!ENTITY aboutSupport.accountsName "Назив">
 <!ENTITY aboutSupport.accountsIncomingServer "Долазни сервер">
 <!ENTITY aboutSupport.accountsOutgoingServers "Одлазни сервер">
@@ -15,3 +17,4 @@
 <!ENTITY aboutSupport.accountsDefault "Подразумевани?">
 <!ENTITY aboutSupport.identityName "Идентитет">
 
+<!ENTITY aboutSupport.sendViaEmail.label "Пошаљи преко е-поште">
