@@ -198,7 +198,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.addonsNotificationAnchor.label          "Прикажи поруку за инсталацију додатка">
 <!ENTITY urlbar.indexedDBNotificationAnchor.label       "Прикажи поруке за складиштење ван мреже">
 <!ENTITY urlbar.loginFillNotificationAnchor.label       "Управљај са информацијама за пријаву">
-<!ENTITY urlbar.passwordNotificationAnchor.label        "Обележите ако жели да снимите вашу лозинку">
+<!ENTITY urlbar.passwordNotificationAnchor.label        "Обележите ако желите да снимите вашу лозинку">
 <!ENTITY urlbar.webappsNotificationAnchor.label         "Прикажи поруку за инсталацију апликације">
 <!ENTITY urlbar.pluginsNotificationAnchor.label         "Управљај употребом додатака на овој страници">
 <!ENTITY urlbar.webNotsNotificationAnchor.label         "Одлучите да ли сајт може да приказује обавештења">
